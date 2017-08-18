@@ -6,7 +6,7 @@ b) képes elvégezni a származási igazoláshoz szükséges tenyésztési adato
 
 c) képes feldolgozni és elemezni az állatok teljesítményvizsgálati adatait, amelyek a fajtanemesítési vagy fenntartási program végrehajtásához szükségesek.
 
-(2)[^7] A kérelemnek – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túl – tartalmaznia kell:
+(2)[^10] A kérelemnek – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túl – tartalmaznia kell:
 
 a) az állatfajt és a fajtát;
 
@@ -36,11 +36,11 @@ m) a nyilvántartás és az igazolások rendjét;
 
 n) a származásellenőrzés módját és dokumentálásának rendjét.
 
-(3)[^8] Ha a kérelmező egyéb vizsgálati szempontokat is megjelöl, a kérelemnek azokat is tartalmaznia kell.
+(3)[^11] Ha a kérelmező egyéb vizsgálati szempontokat is megjelöl, a kérelemnek azokat is tartalmaznia kell.
 
 (4) A kérelmező köteles beszerezni a tenyésztésvezető hozzájárulását érintett adatai kezeléséhez, amely hozzájárulást köteles a kérelemhez csatolni.
 
-(5)[^9] A (2) bekezdés e) pontja szerinti tenyésztési programnak tartalmaznia kell:
+(5)[^12] A (2) bekezdés e) pontja szerinti tenyésztési programnak tartalmaznia kell:
 
 a) a faj- és fajta megnevezését;
 
@@ -80,6 +80,6 @@ b) ha az adott ország ilyen elismerést nem ad ki, a származási ország illet
 
 c) megállapodást, amely tartalmazza védett fajta esetén az adott fajta tenyésztésére és forgalmazására feljogosító engedélyt, a fajta eredeti tulajdonosától származó jogokat és kötelezettségeket, a kérelmező kizárólagosságát, és a fajtanév használatára vonatkozó rendelkezéseket.
 
-[^7]: A 4. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^8]: A 4. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^9]: A 4. § (5) bekezdés a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^10]: A 4. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^11]: A 4. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^12]: A 4. § (5) bekezdés a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés d) pontja szerint módosított szöveg.

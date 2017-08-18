@@ -6,11 +6,11 @@
 
 ## 2. Egy fajta számára csak egy főkönyv vezethető.
 
-## 3.[^70] Az egyes fajták, tenyésztő vállalkozások, tenyészeteik és a részvállalkozások tenyészetazonosítóját – az egységesség érdekében – a NÉBIH adja ki, és tartja nyilván.
+## 3.[^74] Az egyes fajták, tenyésztő vállalkozások, tenyészeteik és a részvállalkozások tenyészetazonosítóját – az egységesség érdekében – a NÉBIH adja ki, és tartja nyilván.
 
-## 4.[^71] A tenyésztő vállalkozáson belül a telepazonosító megjelöléseket a NÉBIH adja ki a tenyésztő szervezet javaslata alapján.
+## 4.[^75] A tenyésztő vállalkozáson belül a telepazonosító megjelöléseket a NÉBIH adja ki a tenyésztő szervezet javaslata alapján.
 
-## 5.[^72] A főkönyveket a NÉBIH évenként hitelesíti az állományok felülvizsgálata és a központi adatbankba beküldött adatok alapján. (A NÉBIH az I., II. és III. osztályba tartozó állományokat a „Felülvizsgálati Szabályzat” szerint felülvizsgálja.)
+## 5.[^76] A főkönyveket a kormányhivatal évenként hitelesíti az állományok felülvizsgálata és a központi adatbankba beküldött adatok alapján. (A kormányhivatal az I., II. és III. osztályba tartozó állományokat a „Felülvizsgálati Szabályzat” szerint felülvizsgálja.)
 
 ## 6. A főkönyv három osztályra tagolódik:
 
@@ -64,7 +64,7 @@
 
 ## 10. A főkönyv formája lehet: könyv, jegyzék, kartoték vagy más olyan adathordozó, amelyet hitelesíteni lehet.
 
-## 11.[^73] A 7. pontban részletezett állományok 9. pontban felsorolt adatait a NÉBIH-nél vezetett központi adatbanknak kell átadni a termelési időszak zárását követő harminc napon belül. Az adatok védelmét és titkosságát a NÉBIH biztosítja.
+## 11.[^77] A 7. pontban részletezett állományok 9. pontban felsorolt adatait a NÉBIH-nél vezetett központi adatbanknak kell átadni a termelési időszak zárását követő harminc napon belül. Az adatok védelmét és titkosságát a NÉBIH biztosítja.
 
 ## 12. A tenyésztő vállalkozásnak import állomány vonatkozásában az eredeti külföldi származási igazolás alapján kell kiállítania – az elismerési kérelemben megjelölt módon – az állomány hazai forgalmazása esetén a származási igazolást.
 
@@ -74,7 +74,7 @@
 
 5. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez
 
-[^70]: A 4. számú melléklet I. rész 3. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^71]: A 4. számú melléklet I. rész 4. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^72]: A 4. számú melléklet I. rész 5. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) és e) pontja szerint módosított szöveg.
-[^73]: A 4. számú melléklet I. rész 11. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
+[^74]: A 4. számú melléklet I. rész 3. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^75]: A 4. számú melléklet I. rész 4. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^76]: A 4. számú melléklet I. rész 5. pontja a 42/2017. (VIII. 17.) FM rendelet 81. § c) pontja szerint módosított szöveg.
+[^77]: A 4. számú melléklet I. rész 11. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b)–c) pontja szerint módosított szöveg.

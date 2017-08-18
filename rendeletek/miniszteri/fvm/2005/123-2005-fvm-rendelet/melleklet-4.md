@@ -14,13 +14,13 @@
 
 ## 2. Egy fajta számára csak egy törzskönyv vezethető.
 
-## 3.[^57] Az egyes fajták, tenyésztő egyesületek, illetve szövetségek tenyészeteik és a részvállalkozások tenyészetazonosítóját – az egységesség érdekében – a NÉBIH adja ki, és tartja nyilván.
+## 3.[^61] Az egyes fajták, tenyésztő egyesületek, illetve szövetségek tenyészeteik és a részvállalkozások tenyészetazonosítóját – az egységesség érdekében – a NÉBIH adja ki, és tartja nyilván.
 
-## 4.[^58] A tenyésztő szervezeten belül a telepazonosító megjelöléseket a NÉBIH adja ki a tenyésztő szervezet javaslata alapján.
+## 4.[^62] A tenyésztő szervezeten belül a telepazonosító megjelöléseket a NÉBIH adja ki a tenyésztő szervezet javaslata alapján.
 
-## 5.[^59] A NÉBIH a II. és III. osztályba tartozó állományokat tenyésztésbevétel előtt és a tenyészidőszak végén felülvizsgálja.
+## 5.[^63] A kormányhivatal a II. és III. osztályba tartozó állományokat tenyésztésbevétel előtt és a tenyészidőszak végén felülvizsgálja.
 
-## 6.[^60] A törzskönyveket a NÉBIH évenként hitelesíti az állományok felülvizsgálata és a központi adatbankba beküldött adatok alapján.
+## 6.[^64] A törzskönyveket a kormányhivatal évenként hitelesíti az állományok felülvizsgálata és a központi adatbankba beküldött adatok alapján.
 
 ## 7. A törzskönyv három osztályra tagolódik
 
@@ -74,7 +74,7 @@
 
 ## 11. A törzskönyv formája lehet: könyv, jegyzék, kartoték vagy más olyan adathordozó, amelyet hitelesíteni lehet.
 
-## 12.[^61] A 7. pontban részletezett állományok 9. pontban felsorolt adatait a NÉBIH-nél vezetett központi adatbanknak kell átadni a termelési időszak zárását követő harminc napon belül. Az adatok védelmét és titkosságát a NÉBIH biztosítja.
+## 12.[^65] A 7. pontban részletezett állományok 9. pontban felsorolt adatait a NÉBIH-nél vezetett központi adatbanknak kell átadni a termelési időszak zárását követő harminc napon belül. Az adatok védelmét és titkosságát a NÉBIH biztosítja.
 
 ## II. A származási igazolás kiállításának előírásai
 
@@ -90,9 +90,9 @@
 
 ## 3.2. a keltetőtojásból keltetett naposbaromfi csoportról.
 
-## 4.[^62] Tenyészállatok és szaporítóanyagok külföldre történő értékesítése esetén a NÉBIH a származási igazolást hitelesíti.
+## 4.[^66] Tenyészállatok és szaporítóanyagok külföldre történő értékesítése esetén a NÉBIH a származási igazolást hitelesíti.
 
-## 5.[^63]
+## 5.[^67]
 
 ## 6. A származási igazolás kiállításának előírásai
 
@@ -108,11 +108,11 @@
 
 ## 6.1.5. a kiállítás helyét, dátumát, aláírásokat.
 
-## 6.2.[^64] A származási igazolásnak tenyészbaromfi esetében legalább tartalmaznia kell:
+## 6.2.[^68] A származási igazolásnak tenyészbaromfi esetében legalább tartalmaznia kell:
 
 ## 6.2.1. a sorszámot;
 
-## 6.2.2.[^65] a tenyésztő szervezet nevét, NÉBIH által kiosztott azonosítóját;
+## 6.2.2.[^69] a tenyésztő szervezet nevét, NÉBIH által kiosztott azonosítóját;
 
 ## 6.2.3. az állomány tartójának nevét, tenyészetkódját, tenyészet címét;
 
@@ -126,28 +126,28 @@
 
 ## – ha az állomány korábban létrehozott állományok szétbontásából vagy összevonásából származik, a korábbi állomány(ok) törzsállomány azonosító számát;
 
-## 6.2.6.[^66] az igazolás hatályosságának dátumát;
+## 6.2.6.[^70] az igazolás hatályosságának dátumát;
 
 ## 6.2.7. a kiállítás időpontját és a kiállító aláírását.
 
-## 7–8.[^67]
+## 7–8.[^71]
 
-## 9.[^68] A származási igazolást három példányban kell kiállítani, azonos sorszámmal. Az első példány a tenyészállat, illetve a tenyésztojás átvevőjét illeti, a második példányt az átvevő megküldi a NÉBIH részére, a harmadik példányt a kiállítónál kell megőrizni. A BIR rendszer által képzett törzsállomány azonosító számot a tenyésztési hatóság a származási igazolás adatainak ellenőrzése és hitelesítése után adja ki a tartó részére, és erről értesíti a tenyésztő szervezetet. A tartónak minden termelési ciklus indításakor, az állomány termelésbe állítását követően hét napon belül értesítenie kell a tenyésztési hatóságot a beólazás dátumáról és a beólazott darabszámokról. A törzsállományok más tenyészetbe történő szállítását a tartónak hét napon belül be kell jelentenie a tenyésztési hatóságnak, a szállítólevelek sorszámának megadásával.
+## 9.[^72] A származási igazolást három példányban kell kiállítani, azonos sorszámmal. Az első példány a tenyészállat, illetve a tenyésztojás átvevőjét illeti, a második példányt az átvevő megküldi a NÉBIH részére, a harmadik példányt a kiállítónál kell megőrizni. A BIR rendszer által képzett törzsállomány azonosító számot a NÉBIH a származási igazolás adatainak ellenőrzése és hitelesítése után adja ki a tartó részére, és erről értesíti a tenyésztő szervezetet. A tartónak minden termelési ciklus indításakor, az állomány termelésbe állítását követően hét napon belül értesítenie kell a NÉBIH-et a beólazás dátumáról és a beólazott darabszámokról. A törzsállományok más tenyészetbe történő szállítását a tartónak hét napon belül be kell jelentenie a NÉBIH-nek, a szállítólevelek sorszámának megadásával.
 
-## 10.[^69] Az adatátvétel során észlelt valótlan adatközlés esetén a NÉBIH a kifogásolt származási igazolást visszamenőlegesen is letiltja.
+## 10.[^73] Az adatátvétel során észlelt valótlan adatközlés esetén a NÉBIH vagy a kormányhivatal a kifogásolt származási igazolást visszamenőlegesen is letiltja.
 
 4. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez
 
-[^57]: A 3. számú melléklet I. rész 3. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^58]: A 3. számú melléklet I. rész 4. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^59]: A 3. számú melléklet I. rész 5. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^60]: A 3. számú melléklet I. rész 6. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^61]: A 3. számú melléklet I. rész 12. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
-[^62]: A 3. számú melléklet II. rész 4. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^63]: A 3. számú melléklet II. részének 5. pontját a 120/2007. (X. 18.) FVM rendelet 12. § (3) bekezdése hatályon kívül helyezte.
-[^64]: A 3. számú melléklet II. részének 6.2. pontja a 120/2007. (X. 18.) FVM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^65]: A 3. számú melléklet II. rész 6.2.2. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés h) pontja szerint módosított szöveg.
-[^66]: A 3. számú melléklet II. rész 6.2.6. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^67]: A 3. számú melléklet II. részének 7–8. pontját a 120/2007. (X. 18.) FVM rendelet 12. § (3) bekezdése hatályon kívül helyezte.
-[^68]: A 3. számú melléklet II. rész 9. pontja a 120/2007. (X. 18.) FVM rendelet 12. § (2) bekezdése, a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^69]: A 3. számú melléklet II. rész 10. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^61]: A 3. számú melléklet I. rész 3. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^62]: A 3. számú melléklet I. rész 4. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^63]: A 3. számú melléklet I. rész 5. pontja a 42/2017. (VIII. 17.) FM rendelet 81. § c) pontja szerint módosított szöveg.
+[^64]: A 3. számú melléklet I. rész 6. pontja a 42/2017. (VIII. 17.) FM rendelet 81. § c) pontja szerint módosított szöveg.
+[^65]: A 3. számú melléklet I. rész 12. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
+[^66]: A 3. számú melléklet II. rész 4. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^67]: A 3. számú melléklet II. részének 5. pontját a 120/2007. (X. 18.) FVM rendelet 12. § (3) bekezdése hatályon kívül helyezte.
+[^68]: A 3. számú melléklet II. részének 6.2. pontja a 120/2007. (X. 18.) FVM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^69]: A 3. számú melléklet II. rész 6.2.2. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^70]: A 3. számú melléklet II. rész 6.2.6. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^71]: A 3. számú melléklet II. részének 7–8. pontját a 120/2007. (X. 18.) FVM rendelet 12. § (3) bekezdése hatályon kívül helyezte.
+[^72]: A 3. számú melléklet II. rész 9. pontja a 120/2007. (X. 18.) FVM rendelet 12. § (2) bekezdése, a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja, a 42/2017. (VIII. 17.) FM rendelet 81. § l)–n) pontja szerint módosított szöveg.
+[^73]: A 3. számú melléklet II. rész 10. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja, a 42/2017. (VIII. 17.) FM rendelet 81. § i) pontja szerint módosított szöveg.

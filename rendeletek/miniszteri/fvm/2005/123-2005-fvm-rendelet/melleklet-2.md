@@ -4,9 +4,9 @@
 
 ## 1.1. Egy fajta számára csak egy törzskönyv vezethető.
 
-## 1.2.[^41] A törzskönyv fajtakódját és az ehhez tartozó tenyészetszámokat – az egységesség érdekében – a NÉBIH adja ki és tartja nyilván.
+## 1.2.[^44] A törzskönyv fajtakódját és az ehhez tartozó tenyészetszámokat – az egységesség érdekében – a NÉBIH adja ki és tartja nyilván.
 
-## 1.3.[^42] A törzskönyvet a NÉBIH évente hitelesíti.
+## 1.3.[^45] A törzskönyvet a kormányhivatal évente hitelesíti.
 
 ## 2. A törzskönyv tartalma, szerkezete és vezetése
 
@@ -60,9 +60,9 @@
 
 ## 2.5. A törzskönyv a tenyésztő egyesületnél, illetve szövetségnél vagy annak megbízásából az adatfeldolgozó intézménynél vezethető és nem selejtezhető.
 
-## 2.6.[^43] A törzskönyvi adatok egy példányát az előírt formában a NÉBIH-nél vezetett központi adatbanknak kell átadni, ott tárolni és biztosítani kell az adatok védelmét.
+## 2.6.[^46] A törzskönyvi adatok egy példányát az előírt formában a NÉBIH-nél vezetett központi adatbanknak kell átadni, ott tárolni és biztosítani kell az adatok védelmét.
 
-## 2.7.[^44] A törzskönyvi adatokat a NÉBIH hitelesíti
+## 2.7.[^47] A törzskönyvi adatokat a kormányhivatal hitelesíti
 
 ## 2.7.1. az ellenőrzés,
 
@@ -110,13 +110,13 @@
 
 ## 1.10. a szakmai munkáért felelős személy aláírását és az elismert tenyésztő szervezet bélyegzőlenyomatát;
 
-## 1.11.[^45] a teljesítményvizsgálatokat és ellenőrző teszteket lebonyolító és a közzétevő NÉBIH megnevezését.
+## 1.11.[^48] a teljesítményvizsgálatokat és ellenőrző teszteket lebonyolító és a közzétevő kormányhivatal megnevezését.
 
-## 2.[^46] A származási igazolások sorszámát, illetve az azonosításhoz és nyilvántartáshoz szükséges legfontosabb adatokat a NÉBIH-hel közölni kell.
+## 2.[^49] A származási igazolások sorszámát, illetve az azonosításhoz és nyilvántartáshoz szükséges legfontosabb adatokat a kormányhivatallal közölni kell.
 
-## 3.[^47] Az adatátvétel során észlelt valótlan adatközlés esetén a NÉBIH a kifogásolt származási igazolást visszamenőlegesen is letiltja.
+## 3.[^50] Az adatátvétel során észlelt valótlan adatközlés esetén a NÉBIH vagy a kormányhivatal a kifogásolt származási igazolást visszamenőlegesen is letiltja.
 
-## 4.[^48] A külföldi értékesítés céljára és a lovak számára kiállított származási igazolást a NÉBIH által hitelesíttetni kell.
+## 4.[^51] A külföldi értékesítés céljára kiállított származási igazolást a NÉBIH által hitelesíttetni kell.
 
 ## 5. A származási igazolásnak a tenyészállat telephelyén, szaporítóanyag esetén a deponálás helyén mindig rendelkezésre kell állnia.
 
@@ -124,11 +124,11 @@
 
 2. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez
 
-[^41]: Az 1. számú melléklet I. rész 1.2. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^42]: Az 1. számú melléklet I. rész 1.3. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^43]: Az 1. számú melléklet I. rész 2.6. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^44]: Az 1. számú melléklet I. rész 2.7. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^45]: Az 1. számú melléklet II. rész 1.11. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés h) pontja szerint módosított szöveg.
-[^46]: Az 1. számú melléklet II. rész 2. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés i) pontja szerint módosított szöveg.
-[^47]: Az 1. számú melléklet II. rész 3. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^48]: Az 1. számú melléklet II. rész 4. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^44]: Az 1. számú melléklet I. rész 1.2. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^45]: Az 1. számú melléklet I. rész 1.3. pontja a 42/2017. (VIII. 17.) FM rendelet 81. § c) pontja szerint módosított szöveg.
+[^46]: Az 1. számú melléklet I. rész 2.6. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^47]: Az 1. számú melléklet I. rész 2.7. pontja a 42/2017. (VIII. 17.) FM rendelet 81. § c) pontja szerint módosított szöveg.
+[^48]: Az 1. számú melléklet II. rész 1.11. pontja a 42/2017. (VIII. 17.) FM rendelet 81. § c) pontja szerint módosított szöveg.
+[^49]: Az 1. számú melléklet II. rész 2. pontja a 42/2017. (VIII. 17.) FM rendelet 81. § d) pontja szerint módosított szöveg.
+[^50]: Az 1. számú melléklet II. rész 3. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja, a 42/2017. (VIII. 17.) FM rendelet 81. § i) pontja szerint módosított szöveg.
+[^51]: Az 1. számú melléklet II. rész 4. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja, a 42/2017. (VIII. 17.) FM rendelet 82. § c) pontja szerint módosított szöveg.
