@@ -12,7 +12,7 @@ a) keltetőtojás esetében:
 
 aa) annak olyan beoltott vagy oltatlan tenyészállományból kell származnia, amelyet kedvező eredménnyel megvizsgáltak a készenléti tervnek megfelelően,
 
-ab) azt feladás előtt az igazgatóság által jóváhagyott módszerrel fertőtleníteni kell,
+ab)[^141] azt feladás előtt a megyei kormányhivatal által jóváhagyott módszerrel fertőtleníteni kell,
 
 ac) azt közvetlenül a rendeltetési hely szerinti keltetőbe kell szállítani,
 
@@ -20,7 +20,7 @@ ad) annak a keltetőn belül visszakereshetőnek kell lennie;
 
 b) a tojásoknak olyan beoltott vagy oltatlan tojóállományból kell származniuk, amelyet kedvező eredménnyel megvizsgáltak a készenléti tervnek megfelelően, majd azokat a következő helyekre kell szállítani:
 
-ba) az igazgatóság által kijelölt csomagolóközpontba (a továbbiakban: a kijelölt csomagolóközpont), feltéve, hogy azok egyszer használatos csomagolásúak és valamennyi járványvédelmi intézkedést alkalmazzák, vagy
+ba)[^142] a megyei kormányhivatal által kijelölt csomagolóközpontba (a továbbiakban: a kijelölt csomagolóközpont), feltéve, hogy azok egyszer használatos csomagolásúak és valamennyi járványvédelmi intézkedést alkalmazzák, vagy
 
 bb) a tojástermékek gyártásával a 853/2004/EK rendelet III. melléklete X. szakaszának II. fejezetében foglaltak szerint foglalkozó létesítménybe, majd azokat a 852/2004/EK rendelet II. mellékletének XI. fejezetével összhangban kezelni kell;
 
@@ -54,7 +54,7 @@ ab) annak a keltetőn belül visszakereshetőnek kell lennie;
 
 b) a tojásokat a következő helyekre kell szállítani:
 
-ba) az igazgatóság által kijelölt csomagolóközpontba (kijelölt csomagolóközpont), feltéve, hogy azok egyszer használatos csomagolásúak és valamennyi járványvédelmi intézkedést alkalmazzák, vagy
+ba)[^143] a megyei kormányhivatal által kijelölt csomagolóközpontba (kijelölt csomagolóközpont), feltéve, hogy azok egyszer használatos csomagolásúak és valamennyi járványvédelmi intézkedést alkalmazzák, vagy
 
 bb) a tojástermékek gyártásával a 853/2004/EK rendelet III. melléklete X. szakaszának II. fejezetében foglaltak szerint foglalkozó létesítménybe, majd azokat a 852/2004/EK rendelet II. mellékletének XI. fejezetével összhangban kezelni kell;
 
@@ -74,7 +74,7 @@ a) keltetőtojás esetében:
 
 aa) annak olyan beoltott vagy oltatlan tenyészállományból kell származnia, amelyet kedvező eredménnyel megvizsgáltak a készenléti tervnek megfelelően,
 
-ab) azt feladás előtt az igazgatóság által jóváhagyott módszerrel fertőtleníteni kell,
+ab)[^144] azt feladás előtt a megyei kormányhivatal által jóváhagyott módszerrel fertőtleníteni kell,
 
 ac) azt közvetlenül a rendeltetési hely szerinti keltetőbe kell szállítani,
 
@@ -82,7 +82,7 @@ ad) annak a keltetőn belül visszakereshetőnek kell lennie;
 
 b) a tojásoknak olyan beoltott vagy oltatlan tojóállományból kell származniuk, amelyet kedvező eredménnyel megvizsgáltak az ellenőrző készenléti tervnek megfelelően, és azokat a következő helyekre kell szállítani:
 
-ba) az igazgatóság által kijelölt csomagolóközpontba (kijelölt csomagolóközpont), feltéve, hogy azok egyszer használatos csomagolásúak és valamennyi járványvédelmi intézkedést alkalmazzák, vagy
+ba)[^145] a megyei kormányhivatal által kijelölt csomagolóközpontba (kijelölt csomagolóközpont), feltéve, hogy azok egyszer használatos csomagolásúak és valamennyi járványvédelmi intézkedést alkalmazzák, vagy
 
 bb) a tojástermékek gyártásával a 853/2004/EK rendelet III. melléklete X. szakaszának II. fejezetében foglaltak szerint foglalkozó létesítménybe, majd azokat a 852/2004/EK rendelet II. mellékletének XI. fejezetével összhangban kezelni kell;
 
@@ -122,10 +122,16 @@ ad) közvetlenül a kijelölt vágóhídra küldték azonnali levágásra;
 
 b) nem oltott, vágóhídra küldött baromfiból származó bármely hús esetén a baromfit a készenléti tervben foglaltak szerint meg kell vizsgálni.
 
-7. Az igazgatóság engedélyezheti a gazdaságokból a hullák és tojások ártalmatlanítás céljából történő mozgatását.
+7.[^146] A megyei kormányhivatal engedélyezheti a gazdaságokból a hullák és tojások ártalmatlanítás céljából történő mozgatását.
 
 8. További megszorítások nem alkalmazhatók a csomagolt tojások és az e melléklet szerint levágott baromfiból származó hús mozgatására.
 
-9.[^79] A baromfi (beleértve a napos baromfit is) vagy más, fogságban tartott madarak elszállítása Magyarország területéről a sürgősségi védőoltási kampány kezdetétől mindaddig tilos, amíg a készenléti tervet a közösségi intézkedések sérelme nélkül a Bizottság jóvá nem hagyja, kivéve, ha a fogadó tagállam illetékes hatósága arra felhatalmazást ad.
+9.[^147] A baromfi (beleértve a napos baromfit is) vagy más, fogságban tartott madarak elszállítása Magyarország területéről a sürgősségi védőoltási kampány kezdetétől mindaddig tilos, amíg a készenléti tervet a közösségi intézkedések sérelme nélkül a Bizottság jóvá nem hagyja, kivéve, ha a fogadó tagállam illetékes hatósága arra felhatalmazást ad.
 
-[^79]: A 7. számú melléklet 9. pontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
+[^141]: A 7. számú melléklet 3. pont ab) alpontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^142]: A 7. számú melléklet 3. pont ba) alpontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^143]: A 7. számú melléklet 4. pont ba) alpontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^144]: A 7. számú melléklet 5. pont ab) alpontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^145]: A 7. számú melléklet 5. pont ba) alpontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^146]: A 7. számú melléklet 7. pontja a 42/2017. (VIII. 17.) FM rendelet 102. § c) pontja szerint módosított szöveg.
+[^147]: A 7. számú melléklet 9. pontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.

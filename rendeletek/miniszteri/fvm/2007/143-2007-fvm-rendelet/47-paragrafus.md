@@ -14,12 +14,17 @@ bc) az újratelepítési szakaszban elhullott baromfit a készenléti tervvel ö
 
 bd) a gazdaságba belépő vagy onnan távozó minden személynek be kell tartania a madárinfluenza terjedésének megelőzését célzó, megfelelő járványvédelmi intézkedéseket,
 
-be) az újratelepítési szakaszban az igazgatóság engedélye nélkül nem vihető ki baromfi a gazdaságból,
+be)[^108] az újratelepítési szakaszban a megyei kormányhivatal engedélye nélkül nem vihető ki baromfi a gazdaságból,
 
 bf) a tulajdonosnak naprakész nyilvántartást kell vezetnie a termelési adatokról, beleértve a 19. § (6) bekezdésében meghatározottakat is,
 
-bg) a 19. § (6) bekezdésében említett termelési adatokban bekövetkezett bármely lényeges változást és más szokatlan jelenséget haladéktalanul jelenteni kell az igazgatóságnak;
+bg)[^109] a 19. § (6) bekezdésében említett termelési adatokban bekövetkezett bármely lényeges változást és más szokatlan jelenséget haladéktalanul jelenteni kell a megyei kormányhivatalnak;
 
-c) a kockázatértékelés alapján az igazgatóság dönt a b) pontban meghatározott eljárások a kereskedelmi célú baromfitartó gazdaságoktól eltérő gazdaságokra, valamint a kereskedelmi célú baromfitartó gazdaságban található más fajokra történő alkalmazásáról;
+c)[^110] a kockázatértékelés alapján a megyei kormányhivatal dönt a b) pontban meghatározott eljárások a kereskedelmi célú baromfitartó gazdaságoktól eltérő gazdaságokra, valamint a kereskedelmi célú baromfitartó gazdaságban található más fajokra történő alkalmazásáról;
 
-d) a kontaktgazdaságokban a baromfi újratelepítését az igazgatóság kockázatértékelésen alapuló utasításainak megfelelően kell végezni.
+d)[^111] a kontaktgazdaságokban a baromfi újratelepítését a megyei kormányhivatal kockázatértékelésen alapuló utasításainak megfelelően kell végezni.
+
+[^108]: A 47. § b) pont be) alpontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^109]: A 47. § b) pont bg) alpontja a 42/2017. (VIII. 17.) FM rendelet 102. § i) pontja szerint módosított szöveg.
+[^110]: A 47. § c) pontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^111]: A 47. § d) pontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.

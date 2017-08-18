@@ -6,6 +6,6 @@ a) a fertőzött gazdaság 46. §-ban meghatározott módon történő előzetes
 
 b) legalább 42 napig a kitörés megállapítását követően, de mindaddig, amíg az alacsony patogenitású madárinfluenza terjedésének kockázata elhanyagolhatóvá nem válik, a korlátozás alatt álló körzetben a készenléti tervvel összhangban elvégzett vizsgálatok és laboratóriumi vizsgálatok, valamint a kockázatértékelés alapján; vagy
 
-c)[^55] bármely egyéb időtartamig, a 2005/94/EK tanácsi irányelv 64. cikkének (3) bekezdésében meghatározott eljárással megállapított feltételek szerint.
+c)[^102] bármely egyéb időtartamig, a 2005/94/EK tanácsi irányelv 64. cikkének (3) bekezdésében meghatározott eljárással megállapított feltételek szerint.
 
-[^55]: A 43. § c) pontja a 42/2010. (IV. 22.) FVM rendelet 8. §-ával megállapított szöveg.
+[^102]: A 43. § c) pontja a 42/2010. (IV. 22.) FVM rendelet 8. §-ával megállapított szöveg.

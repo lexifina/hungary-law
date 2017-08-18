@@ -1,6 +1,6 @@
 ## Egyes gazdaságokra vonatkozó felmentések
 
-13. § (1) Az igazgatóság felmentést adhat a 11. § a) pontjában meghatározott intézkedések alól a magas patogenitású madárinfluenza olyan kitörése esetében, amely nem kereskedelmi célú gazdaságban, cirkuszban, állatkertben, kedvtelésből tartott madarakat árusító üzletben, vadasparkban, tudományos célokból baromfi vagy más, fogságban tartott madarak tartására vagy a veszélyeztetett faj vagy hivatalosan nyilvántartott ritka baromfi- vagy más, fogságban tartott madárfaj megőrzése céljaira szolgáló bekerített területen következik be, feltéve, hogy a felmentés nem veszélyezteti a járványvédelmet.
+13. § (1)[^32] A megyei kormányhivatal felmentést adhat a 11. § a) pontjában meghatározott intézkedések alól a magas patogenitású madárinfluenza olyan kitörése esetében, amely nem kereskedelmi célú gazdaságban, cirkuszban, állatkertben, kedvtelésből tartott madarakat árusító üzletben, vadasparkban, tudományos célokból baromfi vagy más, fogságban tartott madarak tartására vagy a veszélyeztetett faj vagy hivatalosan nyilvántartott ritka baromfi- vagy más, fogságban tartott madárfaj megőrzése céljaira szolgáló bekerített területen következik be, feltéve, hogy a felmentés nem veszélyezteti a járványvédelmet.
 
 (2) A felmentés alkalmazása esetén a gazdaságban tartott baromfit és más, fogságban tartott madarakat
 
@@ -10,8 +10,11 @@ b) hatósági megfigyelés alatt kell tartani és a készenléti tervben foglalt
 
 c) a származási gazdaságukból, csak levágásuk, vagy olyan más gazdaságba történő szállításuk céljából lehet kivinni
 
-ca) amely Magyarországon található, állategészségügyi hatósági ellenőrzés alatt álló gazdaság, vagy
+ca)[^33] amely Magyarországon található, járási hivatali ellenőrzés alatt álló gazdaság, vagy
 
 cb) a rendeltetési hely szerinti tagállammal kötött megállapodás alapján valamely más tagállamban található, kijelölt gazdaság.
 
 (3) A 11. § d) pontjában meghatározott intézkedések alól felmentés adható, abból a célból, hogy a tojásokat a 853/2004/EK rendelet III. melléklete X. szakaszának II. fejezetében foglaltak szerint közvetlenül tojástermékek gyártásával foglalkozó létesítménybe küldjék, és a 852/2004/EK rendelet II. mellékletének XI. fejezetében leírt kezelésnek vessék alá. Minden ilyen engedélyezés az ezen rendelet 2. számú mellékletében meghatározott feltételek mellett történhet.
+
+[^32]: A 13. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 102. § c) pontja szerint módosított szöveg.
+[^33]: A 13. § (2) bekezdés c) pont ca) alpontja a 42/2017. (VIII. 17.) FM rendelet 102. § h) pontja szerint módosított szöveg.

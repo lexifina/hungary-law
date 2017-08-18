@@ -10,16 +10,17 @@ b) mindaddig alávetik további megfigyelésnek és vizsgálatoknak – a késze
 
 c) nem lehet elvinni a származási gazdaságukból, kivéve levágásuk vagy olyan más gazdaságba történő szállításuk céljából:
 
-ca)[^48] amely Magyarország területén található, és a szállítás az igazgatóság utasításainak megfelelően történik, vagy
+ca)[^87] amely Magyarország területén található, és a szállítás a megyei kormányhivatal utasításainak megfelelően történik, vagy
 
 cb) amely valamely más tagállamban található, és a szállítás a rendeltetési hely szerinti tagállammal kötött megállapodás alapján történik.
 
 (3) Az alacsony patogenitású madárinfluenza keltetőkben való kitörései esetén, kockázatértékelés alapján felmentés adható a 38. §-ban meghatározott intézkedések valamelyike vagy mindegyike alól.
 
-(4) Az (1) és (3) bekezdésben meghatározott felmentés alkalmazása előtt kockázatértékelést kell készítenie az igazgatóságnak.
+(4)[^88] Az (1) és (3) bekezdésben meghatározott felmentés alkalmazása előtt kockázatértékelést kell készítenie a megyei kormányhivatalnak.
 
 (5) A (4) bekezdésben hivatkozott kockázatértékelést a 32. § (2) bekezdésében előírtak szerint kell végezni.
 
 (6) Az (1)–(5) bekezdések alapján adott felmentésekről az országos főállatorvos 24 órán belül értesíti a Bizottságot.
 
-[^48]: A 39. § (2) bekezdés c) pont ca) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
+[^87]: A 39. § (2) bekezdés c) pont ca) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^88]: A 39. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 102. § i) pontja szerint módosított szöveg.

@@ -26,6 +26,6 @@ h) a beoltott baromfi vagy más, fogságban tartott madarak nyilvántartása és
 
 i) a készenléti tervben foglaltak szerint elvégzendő laboratóriumi vizsgálatok azon gazdaságokban, amelyekben megelőző védőoltást kell végezni azzal egy időben, hogy a védőoltási területen található megfelelő számú többi gazdaságban vagy a baromfit és más, fogságban tartott madarakat tartó egységekben megfigyelést és vizsgálatot tartanak, a járványhelyzetnek, a megelőző védőoltási kampány hatékonyságának, valamint a beoltott baromfi vagy más, fogságban tartott madarak mozgatása ellenőrzésének nyomon követésére.
 
-(3)[^68] A megelőző védőoltásra vonatkozóan a 2005/94/EK tanácsi irányelv 64. cikk (2) bekezdésében foglalt eljárás szerint meghatározott részletes szabályokat is figyelembe kell venni.
+(3)[^125] A megelőző védőoltásra vonatkozóan a 2005/94/EK tanácsi irányelv 64. cikk (2) bekezdésében foglalt eljárás szerint meghatározott részletes szabályokat is figyelembe kell venni.
 
-[^68]: Az 52. § (3) bekezdése a 42/2010. (IV. 22) FVM rendelet 13. § o) pontja szerint módosított szöveg.
+[^125]: Az 52. § (3) bekezdése a 42/2010. (IV. 22) FVM rendelet 13. § o) pontja szerint módosított szöveg.

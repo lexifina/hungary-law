@@ -1,8 +1,8 @@
 ## A megelőző védőoltásra vonatkozó követelmények az 53. § (4) bekezdése alapján
 
-| 1. | A védőoltás kiterjedése | A madárinfluenza elleni védőoltást csak az állatkertekben és engedélyezett szervezeteknél, intézményekben vagy központokban tartott madarakon kell végrehajtani. Az állategészségügyi hatóság nyilvántartja az állatkertek és az engedélyezett szervezetek, intézmények vagy központok listáit a védőoltást követő legalább öt évig. |
+| 1. | A védőoltás kiterjedése | A madárinfluenza elleni védőoltást csak az állatkertekben és engedélyezett szervezeteknél, intézményekben vagy központokban tartott madarakon kell végrehajtani. A járási hivatal nyilvántartja az állatkertek és az engedélyezett szervezetek, intézmények vagy központok listáit a védőoltást követő legalább öt évig. |
 
-| 2. | Beoltandó madárfajok | Az állategészségügyi hatósághoz el kell juttatni a beoltandó madarak egyéni azonosítót is tartalmazó listáját, amely azt a vakcinázás időpontját követő legalább öt évig megőrzi. |
+| 2. | Beoltandó madárfajok | A járási hivatalhoz el kell juttatni a beoltandó madarak egyéni azonosítót is tartalmazó listáját, amely azt a vakcinázás időpontját követő legalább öt évig megőrzi. |
 
 | 3. | A védőoltás időtartama | a) Minden állatkertben vagy engedélyezett szervezetnél, intézményben vagy központban tartott beoltandó madarat a lehető leghamarabb be kell oltani. b) Az utódok, újonnan behozott madarak és az olyan madarak, amelyek elégtelen immunválaszt adtak, szintén beoltandók. c) A madarak védettségének fenntartása érdekében ajánlott az oltás évenkénti megismétlése. |
 
@@ -12,8 +12,8 @@
 
 | 5. | A beoltott madarak különleges azonosítása és nyilvántartása | A beoltott madaraknak egyedileg azonosíthatóknak kell lenniük, és a róluk készült azonosító nyilvántartásokat megfelelő, egyértelmű bejegyzéssel kell ellátni. Lehetőség szerint az oltás alkalmával kitörölhetetlen módon feltüntetett azonosító jelzéssel kell ellátni a más, fogságban tartott beoltott madarakat. |
 
-| 6. | A védőoltási program végrehajtása | a) A védőoltást állatorvos felügyelete mellett kell végrehajtani, és meg kell tenni a vírus esetleges elterjedésének elkerüléséhez szükséges intézkedéseket. b) A beoltott madarak számát és a felhasznált dózisokat tartalmazó jegyzőkönyvet az oltás végrehajtása után, illetve – amennyiben újabb madarakat oltanak be – azt követően a 3. pont b) alpontja szerint, havi rendszerességgel el kell juttatni az állategészségügyi hatóság részére. c) Lehetőség szerint a védőoltás dátumát megelőzően és legkorábban az azt követő 30. nap elteltével vérmintát kell venni a madarak 10%-ától a madárinfluenzára vonatkozó szerológiai vizsgálat céljából. A vizsgálati eredményeket tartalmazó jegyzőkönyvet a védőoltás időpontját követően legalább öt évig meg kell őrizni. |
+| 6. | A védőoltási program végrehajtása | a) A védőoltást állatorvos felügyelete mellett kell végrehajtani, és meg kell tenni a vírus esetleges elterjedésének elkerüléséhez szükséges intézkedéseket. b) A beoltott madarak számát és a felhasznált dózisokat tartalmazó jegyzőkönyvet az oltás végrehajtása után, illetve – amennyiben újabb madarakat oltanak be – azt követően a 3. pont b) alpontja szerint, havi rendszerességgel el kell juttatni a járási hivatal részére. c) Lehetőség szerint a védőoltás dátumát megelőzően és legkorábban az azt követő 30. nap elteltével vérmintát kell venni a madarak 10%-ától a madárinfluenzára vonatkozó szerológiai vizsgálat céljából. A vizsgálati eredményeket tartalmazó jegyzőkönyvet a védőoltás időpontját követően legalább öt évig meg kell őrizni. |
 
-| 7. | Az alkalmazandó oltóanyag | A felhasználandó inaktivált oltóanyagot megfelelően kell összeállítani, hogy hatékony legyen a magas patogenitású madárinfluenza vírus H5 vagy H7 altípusa vagy mindkettő ellen. A gyártó és/vagy az állat-egészségügyi hatóságok utasításainak megfelelően kell felhasználni. |
+| 7. | Az alkalmazandó oltóanyag | A felhasználandó inaktivált oltóanyagot megfelelően kell összeállítani, hogy hatékony legyen a magas patogenitású madárinfluenza vírus H5 vagy H7 altípusa vagy mindkettő ellen. A gyártó és/vagy a járási hivatalok utasításainak megfelelően kell felhasználni. |
 
 10. számú melléklet a 143/2007. (XII. 4.) FVM rendelethez

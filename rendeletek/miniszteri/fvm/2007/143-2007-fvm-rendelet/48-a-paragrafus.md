@@ -1,6 +1,6 @@
-## A nemzeti referencialaboratórium szerepe és feladatai[^64]
+## A nemzeti referencialaboratórium szerepe és feladatai[^117]
 
-48/A. §[^65] (1) A nemzeti referencialaboratórium felel annak biztosításáért, hogy a madárinfluenza jelenlétének kimutatására és a vírusizolátumok genotípusának azonosítására alkalmas laboratóriumi vizsgálatokat a diagnosztikai kézikönyvnek megfelelően végezzék el. Ebből a célból a nemzeti referencialaboratórium külön megállapodásokat köthet a közösségi referencialaboratóriummal vagy egyéb nemzeti laboratóriumokkal.
+48/A. §[^118] (1) A nemzeti referencialaboratórium felel annak biztosításáért, hogy a madárinfluenza jelenlétének kimutatására és a vírusizolátumok genotípusának azonosítására alkalmas laboratóriumi vizsgálatokat a diagnosztikai kézikönyvnek megfelelően végezzék el. Ebből a célból a nemzeti referencialaboratórium külön megállapodásokat köthet a közösségi referencialaboratóriummal vagy egyéb nemzeti laboratóriumokkal.
 
 (2) A nemzeti referencialaboratórium teljes karakterizálásra késedelem nélkül megküldi a madár eredetű influenzavírusok izolátumait a közösségi referencialaboratóriumnak:
 
@@ -22,5 +22,5 @@ d) őrzi a Magyarországon észlelt kitörésekből származó madárinfluenza v
 
 e) együttműködik a nemzeti humáninfluenza-laboratóriumokkal.
 
-[^64]: A 48/A. §-t megelőző alcímet a 42/2010. (IV. 22.) FVM rendelet 11. §-a iktatta be.
-[^65]: A 48/A. §-t a 42/2010. (IV. 22.) FVM rendelet 11. §-a iktatta be.
+[^117]: A 48/A. §-t megelőző alcímet a 42/2010. (IV. 22.) FVM rendelet 11. §-a iktatta be.
+[^118]: A 48/A. §-t a 42/2010. (IV. 22.) FVM rendelet 11. §-a iktatta be.

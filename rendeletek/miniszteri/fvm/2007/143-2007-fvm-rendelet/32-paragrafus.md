@@ -6,7 +6,7 @@
 
 ## A felmentések engedélyezésének részletes szabályai
 
-32. § (1) A 16. § és a 23–27. §-ban meghatározott felmentés(ek) alkalmazása előtt kockázatértékelést kell készítenie az igazgatóságnak.
+32. § (1)[^64] A 16. § és a 23–27. §-ban meghatározott felmentés(ek) alkalmazása előtt kockázatértékelést kell készítenie a megyei kormányhivatalnak.
 
 (2) Az (1) bekezdésben hivatkozott kockázatértékelésnek ki kell terjednie legalább:
 
@@ -22,8 +22,9 @@ c) az (1) bekezdésben hivatkozott kockázatértékelést az Országos Járvány
 
 (5) Az (1)–(4) bekezdésben meghatározott felmentéseket kizárólag abban az esetben lehet engedélyezni, ha az ilyen felmentések nem veszélyeztetik a járványvédelmet.
 
-(6)[^40] Olyan baromfit (napos baromfit is beleértve), más, fogságban tartott szárnyast, keltető tojást, használt almot, trágyát vagy hígtrágyát, ami olyan gazdaságból származik, amely számára ezen paragrafus értelmében felmentést engedélyeztek, nem lehet Magyarországon kívül forgalmazni, kivéve, ha ettől eltérő bizottsági határozat születik.
+(6)[^65] Olyan baromfit (napos baromfit is beleértve), más, fogságban tartott szárnyast, keltető tojást, használt almot, trágyát vagy hígtrágyát, ami olyan gazdaságból származik, amely számára ezen paragrafus értelmében felmentést engedélyeztek, nem lehet Magyarországon kívül forgalmazni, kivéve, ha ettől eltérő bizottsági határozat születik.
 
 (7) Az országos főállatorvos 24 órán belül tájékoztatja a Bizottságot, amennyiben az (1)–(4) bekezdésekben meghatározott felmentés engedélyezésre kerül.
 
-[^40]: A 32. § (6) bekezdése az 5/2012. (II. 10.) VM rendelet 34. § b) pontja szerint módosított szöveg.
+[^64]: A 32. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 102. § i) pontja szerint módosított szöveg.
+[^65]: A 32. § (6) bekezdése az 5/2012. (II. 10.) VM rendelet 34. § b) pontja szerint módosított szöveg.

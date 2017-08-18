@@ -10,13 +10,13 @@
 
 (4) A gazdaságba belépő vagy onnan távozó személyek által használt minden, a vírussal történt kontaminációra gyanús járművet haladéktalanul a 46. §-ban meghatározott módon takarítási, fertőtlenítési eljárásnak kell alávetni.
 
-(5) A gazdaságba csak az igazgatóság engedélyével vihető be baromfi, más, fogságban tartott szárnyas vagy háziasított emlős. Ez a korlátozás nem vonatkozik azokra az emlősökre, amelyeknek csak az emberi lakóhelyül szolgáló területekre van bejárásuk, ahol
+(5)[^41] A gazdaságba csak a megyei kormányhivatal engedélyével vihető be baromfi, más, fogságban tartott szárnyas vagy háziasított emlős. Ez a korlátozás nem vonatkozik azokra az emlősökre, amelyeknek csak az emberi lakóhelyül szolgáló területekre van bejárásuk, ahol
 
 a) nem érintkeznek a háztáji baromfival vagy más, fogságban tartott szárnyassal, és
 
 b) nincs hozzáférésük olyan ketrechez vagy területhez, ahol ilyen háztáji baromfit vagy fogságban tartott madarakat tartanak.
 
-(6) A gazdaságban a megnövekedett morbiditást vagy mortalitást, vagy a gazdaság termelési adataiban bekövetkezett jelentős változást különös tekintettel az alábbiakra
+(6)[^42] A gazdaságban a megnövekedett morbiditást vagy mortalitást, vagy a gazdaság termelési adataiban bekövetkezett jelentős változást különös tekintettel az alábbiakra
 
 a) a takarmány- és vízfelvétel csökkenése meghaladja a 20%-ot,
 
@@ -26,7 +26,7 @@ c) egy hét alatt az elhullási arány meghaladja a 3%-ot,
 
 d) bárminemű, madárinfluenzára utaló klinikai tünetet vagy kórbonctani elváltozást
 
-## a tulajdonosnak haladéktalanul jelentenie kell az állategészségügyi hatóságnak, amely elvégezteti a szükséges vizsgálatokat.
+## a tulajdonosnak haladéktalanul jelentenie kell a járási hivatalnak, amely elvégezteti a szükséges vizsgálatokat.
 
 (7) A gazdaságba belépő vagy onnan távozó valamennyi személynek be kell tartania a madárinfluenza terjedésének megakadályozását célzó járványvédelmi intézkedéseket, különös tekintettel:
 
@@ -37,3 +37,6 @@ b) a gazdaság bejáratában történő kéz- és lábfertőtlenítésre, valami
 c) a látogatási naplóba valamennyi a gazdaságba belépő személy adatainak bejegyzésére.
 
 (8) A (7) bekezdés c) pontját nem kell alkalmazni, ha a látogatóknak nincs hozzáférésük a madarak tartására szolgáló területekhez például állatkertek, vadasparkok esetében.
+
+[^41]: A 19. § (5) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^42]: A 19. § (6) bekezdés záró szövegrésze a 42/2017. (VIII. 17.) FM rendelet 102. § n) pontja szerint módosított szöveg.

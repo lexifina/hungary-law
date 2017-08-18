@@ -1,6 +1,6 @@
 ## Járványügyi nyomozás
 
-7. § (1) Az igazgatóság a járványkitörés gyanúja esetén megkezdi a járványügyi nyomozást a készenléti terv mellékletében található kérdőívek alapján.
+7. § (1)[^15] A megyei kormányhivatal a járványkitörés gyanúja esetén megkezdi a járványügyi nyomozást a készenléti terv mellékletében található kérdőívek alapján.
 
 (2) A járványügyi nyomozás legalább a következőkre terjed ki:
 
@@ -17,3 +17,5 @@ d) a madárinfluenza terjedését esetlegesen okozó baromfi vagy más, fogságb
 a) a kiegészítő járványvédelmi intézkedések alkalmazásakor;
 
 b) az e rendeletben meghatározott felmentések megadásakor.
+
+[^15]: A 7. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 102. § c) pontja szerint módosított szöveg.

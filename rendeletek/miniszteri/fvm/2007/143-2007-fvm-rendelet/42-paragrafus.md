@@ -4,25 +4,25 @@
 
 ## A korlátozás alatt álló körzetben alkalmazandó intézkedések
 
-42. § (1) Az alacsony patogenitású madárinfluenzajárványkitörést követően az igazgatóság haladéktalanul korlátozás alatt álló körzetet hoz létre a gazdaság körüli legalább egy kilométer sugarú körben.
+42. § (1)[^90] Az alacsony patogenitású madárinfluenzajárványkitörést követően a megyei kormányhivatal haladéktalanul korlátozás alatt álló körzetet hoz létre a gazdaság körüli legalább egy kilométer sugarú körben.
 
 (2) A korlátozás alatt álló körzetben:
 
-a) minden kereskedelmi célú gazdaságot az igazgatóságnak a lehető leghamarabb számba kell venni;
+a)[^91] minden kereskedelmi célú gazdaságot a megyei kormányhivatalnak a lehető leghamarabb számba kell venni;
 
 b) a készenléti tervvel összhangban laboratóriumi vizsgálatokat kell elvégezni;
 
 c) a b) pont szerinti vizsgálat szükség esetén kiterjeszthető az 1 km sugarú körön kívül elhelyezkedő gazdaságokra is;
 
-d) a baromfi és más, fogságban tartott madár, tojásrakás előtt álló baromfi, napos baromfi, valamint tojások korlátozás alatt álló körzeten belüli vagy körzetbe belépő minden mozgatása csak az igazgatóság engedélyével lehetséges; ez a korlátozás nem vonatkozik a korlátozás alatt álló körzetben közúton vagy vasúton, kirakodás vagy megállás nélkül történő átszállításra;
+d)[^92] a baromfi és más, fogságban tartott madár, tojásrakás előtt álló baromfi, napos baromfi, valamint tojások korlátozás alatt álló körzeten belüli vagy körzetbe belépő minden mozgatása csak a megyei kormányhivatal engedélyével lehetséges; ez a korlátozás nem vonatkozik a korlátozás alatt álló körzetben közúton vagy vasúton, kirakodás vagy megállás nélkül történő átszállításra;
 
-e) a baromfi és más, fogságban tartott madár, tojásrakás előtt álló baromfi, napos baromfi, valamint tojások szállítása a korlátozás alatt álló körzetből csak az igazgatóság engedélyével lehetséges, ha:
+e)[^93] a baromfi és más, fogságban tartott madár, tojásrakás előtt álló baromfi, napos baromfi, valamint tojások szállítása a korlátozás alatt álló körzetből csak a megyei kormányhivatal engedélyével lehetséges, ha:
 
-ea)[^49] a vágóbaromfit közvetlenül Magyarország területén lévő vágóhídra szállítják,
+ea)[^94] a vágóbaromfit közvetlenül Magyarország területén lévő vágóhídra szállítják,
 
-eb)[^50] az élő baromfit közvetlenül Magyarország területén lévő olyan gazdaságba vagy annak egy termelési egységébe szállítják, ahol nincs más baromfi, és az élő baromfi 21 napig az említett gazdaságban hatósági felügyelet alatt marad,
+eb)[^95] az élő baromfit közvetlenül Magyarország területén lévő olyan gazdaságba vagy annak egy termelési egységébe szállítják, ahol nincs más baromfi, és az élő baromfi 21 napig az említett gazdaságban hatósági felügyelet alatt marad,
 
-ec)[^51] a napos baromfit Magyarország területén lévő gazdaságba közvetlenül szállítják, és a napos baromfi 21 napig az említett gazdaságban hatósági felügyelet alatt marad, vagy ha a napos baromfi olyan tojásból kelt ki, amely a korlátozás alatt álló körzeten kívüli baromfitartó gazdaságból származik, bármely más gazdaságba szállítható, feltéve, hogy a keltető logisztikája és biológiailag biztonságos munkafeltételei révén biztosítani tudja, hogy a korlátozás alatt álló körzet baromfiállományából származó, és ennélfogva különböző egészségügyi állapotú keltetőtojással vagy napos baromfival való bármiféle érintkezés kizárt,
+ec)[^96] a napos baromfit Magyarország területén lévő gazdaságba közvetlenül szállítják, és a napos baromfi 21 napig az említett gazdaságban hatósági felügyelet alatt marad, vagy ha a napos baromfi olyan tojásból kelt ki, amely a korlátozás alatt álló körzeten kívüli baromfitartó gazdaságból származik, bármely más gazdaságba szállítható, feltéve, hogy a keltető logisztikája és biológiailag biztonságos munkafeltételei révén biztosítani tudja, hogy a korlátozás alatt álló körzet baromfiállományából származó, és ennélfogva különböző egészségügyi állapotú keltetőtojással vagy napos baromfival való bármiféle érintkezés kizárt,
 
 ed) a keltetőtojásokat és azok csomagolását a kijelölt keltetőbe szállításuk előtt fertőtlenítik és biztosítják a visszakereshetőségüket,
 
@@ -38,25 +38,31 @@ g) a madárinfluenza terjedésének megelőzését célzó, megfelelő járvány
 
 h) az élő baromfi vagy más, fogságban tartott madarak, takarmány, trágya, hígtrágya, alom, és minden más, a vírussal történt kontaminációra gyanús dolog vagy anyag szállításához használt járművet és eszközt a fertőzést követően késedelem nélkül ki kell takarítani és fertőtleníteni a 46. §-ban megállapított egy vagy több eljárás elvégzésével;
 
-i) tilos a baromfi, más, fogságban tartott madarak vagy háziasított emlősfajok az igazgatóság engedélye nélkül, a baromfit tartó gazdaságba történő bevitele és az onnan való kivitele; ez a korlátozás nem vonatkozik azon emlősökre, amelyeknek csak az emberi lakóhelyül szolgáló területekre van bejárásuk, ahol:
+i)[^97] tilos a baromfi, más, fogságban tartott madarak vagy háziasított emlősfajok a megyei kormányhivatal engedélye nélkül, a baromfit tartó gazdaságba történő bevitele és az onnan való kivitele; ez a korlátozás nem vonatkozik azon emlősökre, amelyeknek csak az emberi lakóhelyül szolgáló területekre van bejárásuk, ahol:
 
 ia) nem érintkeznek a háztáji baromfival vagy más, fogságban tartott szárnyassal, és
 
 ib) nincs hozzáférésük olyan ketrechez vagy területhez, ahol ilyen háztáji baromfit vagy más, fogságban tartott madarakat tartanak;
 
-j)[^52] tilos a használt almot, trágyát vagy hígtrágyát elszállítani vagy szétszórni. Az igazgatóság engedélyezheti azonban a trágya vagy hígtrágya járványvédelmi intézkedések melletti, korlátozás alatt álló gazdaságokból kijelölt telepre történő szállítását, az 1774/2002/EK rendelettel vagy az állati hulladékok kezelésének és a hasznosításukkal készült termékek forgalomba hozatalának állat-egészségügyi szabályairól szóló miniszteri rendeletben meghatározott szabályokkal összhangban a madárinfluenza vírusok lehetséges jelenlétének megszüntetését szolgáló kezelés vagy későbbi kezelés célját szolgáló köztes tárolás céljából;
+j)[^98] tilos a használt almot, trágyát vagy hígtrágyát elszállítani vagy szétszórni. A megyei kormányhivatal engedélyezheti azonban a trágya vagy hígtrágya járványvédelmi intézkedések melletti, korlátozás alatt álló gazdaságokból kijelölt telepre történő szállítását, az 1774/2002/EK rendelettel vagy az állati hulladékok kezelésének és a hasznosításukkal készült termékek forgalomba hozatalának állat-egészségügyi szabályairól szóló miniszteri rendeletben meghatározott szabályokkal összhangban a madárinfluenza vírusok lehetséges jelenlétének megszüntetését szolgáló kezelés vagy későbbi kezelés célját szolgáló köztes tárolás céljából;
 
-k) tilos az igazgatóság engedélye nélküli vásárok, piacok, kiállítások, vagy a baromfi vagy más, fogságban tartott madarak egyéb bemutatóinak, illetve versenyeinek megtartása;
+k)[^99] tilos a megyei kormányhivatal engedélye nélküli vásárok, piacok, kiállítások, vagy a baromfi vagy más, fogságban tartott madarak egyéb bemutatóinak, illetve versenyeinek megtartása;
 
 l) tilos a baromfi vagy más, fogságban tartott madarak vadállomány újratelepítését célzó szabadon engedése.
 
-(3)[^53] Az e Címben meghatározott intézkedéseken túlmenően, az Országos Járványvédelmi Központ vezetője a kockázatértékelés alapján további intézkedéseket vezethet be, és erről az országos főállatorvos tájékoztatja a Bizottságot.
+(3)[^100] Az e Címben meghatározott intézkedéseken túlmenően, az Országos Járványvédelmi Központ vezetője a kockázatértékelés alapján további intézkedéseket vezethet be, és erről az országos főállatorvos tájékoztatja a Bizottságot.
 
-(4)[^54] A madárinfluenza terjedésének megakadályozása érdekében szükséges további intézkedések a 2005/94/EK tanácsi irányelv 64. cikk (3) bekezdésében meghatározott eljárás szerint kerülnek elfogadásra.
+(4)[^101] A madárinfluenza terjedésének megakadályozása érdekében szükséges további intézkedések a 2005/94/EK tanácsi irányelv 64. cikk (3) bekezdésében meghatározott eljárás szerint kerülnek elfogadásra.
 
-[^49]: A 42. § (2) bekezdés e) pont ea) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
-[^50]: A 42. § (2) bekezdés e) pont eb) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
-[^51]: A 42. § (2) bekezdés e) pont ec) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
-[^52]: A 42. § (2) bekezdés j) pontja a 42/2010. (IV. 22) FVM rendelet 13. § l) pontja szerint módosított szöveg.
-[^53]: A 42. § (3) bekezdése a 42/2010. (IV. 22.) FVM rendelet 14. § f) pontja szerint módosított szöveg.
-[^54]: A 42. § (4) bekezdését a 42/2010. (IV. 22.) FVM rendelet 7. §-a iktatta be.
+[^90]: A 42. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^91]: A 42. § (2) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 102. § i) pontja szerint módosított szöveg.
+[^92]: A 42. § (2) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^93]: A 42. § (2) bekezdés e) pontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^94]: A 42. § (2) bekezdés e) pont ea) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
+[^95]: A 42. § (2) bekezdés e) pont eb) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
+[^96]: A 42. § (2) bekezdés e) pont ec) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
+[^97]: A 42. § (2) bekezdés i) pontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^98]: A 42. § (2) bekezdés j) pontja a 42/2010. (IV. 22.) FVM rendelet 13. § l) pontja, a 42/2017. (VIII. 17.) FM rendelet 102. § c) pontja szerint módosított szöveg.
+[^99]: A 42. § (2) bekezdés k) pontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^100]: A 42. § (3) bekezdése a 42/2010. (IV. 22.) FVM rendelet 14. § f) pontja szerint módosított szöveg.
+[^101]: A 42. § (4) bekezdését a 42/2010. (IV. 22.) FVM rendelet 7. §-a iktatta be.

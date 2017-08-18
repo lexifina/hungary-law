@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-143-20-
 | 2013-08-01 | 2007-143-20-82.6 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-03-15 | 2007-143-20-82.7 | 22/2014. (III. 14.) VM rendelet |
 | 2016-12-10 | 2007-143-20-82.8 | 77/2016. (XII. 9.) FM rendelet |
+| 2017-08-18 | 2007-143-20-82.9 | 42/2017. (VIII. 17.) FM rendelet |
