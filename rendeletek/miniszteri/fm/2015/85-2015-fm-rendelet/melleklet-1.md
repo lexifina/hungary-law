@@ -1,4 +1,4 @@
-## 27–28. §[^1]
+## 27–28. §[^3]
 
 1. melléklet a 85/2015. (XII. 17.) FM rendelethez
 
@@ -158,4 +158,4 @@
 
 7.35. pézsmatulok (Ovibos moschatus)
 
-[^1]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

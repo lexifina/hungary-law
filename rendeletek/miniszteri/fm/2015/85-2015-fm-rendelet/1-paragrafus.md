@@ -22,7 +22,7 @@ f) a szirti sas (Aquila chrysaetos) solymászati célból tartott egyedeire,
 
 g) az állatkertben hatósági eljárás során elhelyezett állat esetében az egyedre az elhelyezés első 12 hónapjában,
 
-h) az állatkertben védelme és sorsáról való gondoskodás keretében a természetvédelmi hatósági jogkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: természetvédelmi hatóság) egyidejű értesítése mellett elhelyezett őshonos állat esetében az egyedre az elhelyezés első 12 hónapjában,
+h)[^1] az állatkertben védelme és sorsáról való gondoskodás keretében a területi természetvédelmi hatóság (a továbbiakban: természetvédelmi hatóság) egyidejű értesítése mellett elhelyezett őshonos állat esetében az egyedre az elhelyezés első 12 hónapjában,
 
 i) a természetes módon a szabadban előforduló egyedekre.
 
@@ -47,3 +47,5 @@ b) nem veszélyes állatfajjal alkotott hibrid esetén a veszélyes állatfaj ve
 (9) A védett, fokozottan védett, az Európai Közösségben természetvédelmi szempontból jelentős, valamint a nemzetközi egyezmények hatálya alá tartozó kiemelt természetvédelmi oltalomban részesülő veszélyes állatfajok egyedei tartásának, hasznosításának és bemutatásának engedélyezése során a védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes szabályokról szóló kormányrendelet szabályait kell alkalmazni az e rendeletben meghatározott biztonsági előírások figyelembevételével.
 
 (10) Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény (a továbbiakban: Ávt.), és e rendelet alapján kiadott engedélyek nem mentesítenek a természet védelméről szóló 1996. évi LIII. törvény, és a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló, 1996. december 9-i 338/97/EK tanácsi rendelet által előírt engedélyek, és bizonyítványok beszerzése alól.
+
+[^1]: Az 1. § (2) bekezdés h) pontja a 42/2017. (VIII. 17.) FM rendelet 220. § a) pontja szerint módosított szöveg.
