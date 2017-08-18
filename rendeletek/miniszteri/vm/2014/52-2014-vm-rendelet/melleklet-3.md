@@ -1,3 +1,3 @@
-3. melléklet az 52/2014. (IV. 29.) VM rendelethez[^12]
+3. melléklet az 52/2014. (IV. 29.) VM rendelethez[^38]
 
-[^12]: A 3. melléklet a 29/2015. (VI. 5.) FM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^38]: A 3. melléklet a 42/2017. (VIII. 17.) FM rendelet 209. §-ával megállapított szöveg.

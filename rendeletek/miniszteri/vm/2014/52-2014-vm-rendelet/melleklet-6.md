@@ -28,7 +28,7 @@
 
 ## Az ingatlanrendező földmérő minősítő vizsga írásbeli és szóbeli vizsgakövetelményei
 
-1.[^15] A földügyi igazgatás felépítésének és az ingatlanügyi hatósági feladatok ismerete.
+1.[^41] A földügyi igazgatás felépítésének és az ingatlanügyi hatósági feladatok ismerete.
 
 2. A földmérési és térképészeti tevékenységet szabályozó jogszabályok ismerete.
 
@@ -42,4 +42,4 @@
 
 7. A helyrajziszámozásról szóló jogszabályok ismerete.
 
-[^15]: A 6. melléklet 1. pontja a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés k) pontja szerint módosított szöveg.
+[^41]: A 6. melléklet 1. pontja a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés k) pontja szerint módosított szöveg.

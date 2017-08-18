@@ -1,4 +1,4 @@
-13. § (1) Szakmaetikai okok miatt a Bizottság szakértői véleménye alapján a FÖMI az alábbi döntést hozhatja:
+13. § (1)[^21] Szakmaetikai okok miatt a Bizottság szakértői véleménye alapján a földmérési és térinformatikai államigazgatási szerv az alábbi döntést hozhatja:
 
 a) írásbeli figyelmeztetésben részesíti a panaszoltat, amennyiben
 
@@ -28,4 +28,7 @@ cd) 5 éven belül harmadszor kellene írásbeli figyelmeztetésben részesíten
 
 (2) A felfüggesztés időtartama alatt a földmérő ingatlanrendező földmérő minősítéshez kötött tevékenységet csak ingatlanrendező földmérő minősítéssel rendelkező személy minőségellenőrzésével végezhet.
 
-(3) Amennyiben a (1) bekezdésben foglaltak fennállását a földmérési szakfelügyelő észleli, a FÖMI-nél kezdeményezi a szakmaetikai vizsgálatot.
+(3)[^22] Amennyiben a (1) bekezdésben foglaltak fennállását a földmérési szakfelügyelő észleli, a földmérési és térinformatikai államigazgatási szervnél kezdeményezi a szakmaetikai vizsgálatot.
+
+[^21]: A 13. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 210. § c) pontja szerint módosított szöveg.
+[^22]: A 13. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 210. § h) pontja szerint módosított szöveg.

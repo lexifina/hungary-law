@@ -2,7 +2,7 @@
 
 ## Előlap
 
-|  | FÖLDMŰVELÉSÜGYI MINISZTÉRIUM FÖLDMÉRÉSI ÉS TÁVÉRZÉKELÉSI INTÉZET |
+|  | FÖLDMŰVELÉSÜGYI MINISZTÉRIUM |
 
 | igazolvány száma: |  |  |
 
@@ -18,7 +18,7 @@
 
 | Kelt:……………………………………… |  |
 
-| ………………………….. főigazgató | ………………………….. a tulajdonos aláírása |  |
+| Kiállító hatóság: FÖLDMÉRÉSI ÉS TÉRINFORMATIKAI ÁLLAMIGAZGATÁSI SZERV | ………………………….. a tulajdonos aláírása |  |
 
 ## Hátlap
 
@@ -28,6 +28,6 @@
 
 | Az igazolvány a kiállításától számított 10 évig hatályos. |
 
-4. melléklet az 52/2014. (IV. 29.) VM rendelethez[^13]
+4. melléklet az 52/2014. (IV. 29.) VM rendelethez[^39]
 
-[^13]: A 4. melléklet a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^39]: A 4. melléklet a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés i) pontja szerint módosított szöveg.

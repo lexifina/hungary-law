@@ -1,6 +1,6 @@
 6. § (1) Szakmai gyakorlattal az rendelkezik, aki
 
-a)[^1] a felsőoktatási szakképzettség megszerzését követően megyei vagy járási földhivatalnál legalább 3 évet a földmérési szakterületen eltöltött,
+a)[^6] a felsőoktatási szakképzettség megszerzését követően ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatalnál (a továbbiakban: kormányhivatal) vagy a járási (fővárosi kerületi) hivatalnál (a továbbiakban: járási hivatal) legalább 3 évet a földmérési szakterületen eltöltött,
 
 b) a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetnél (a továbbiakban: gazdálkodó szervezet) a felsőoktatási szakképzettséget követően legalább 5 év földmérési gyakorlatot szerzett, vagy
 
@@ -36,4 +36,4 @@ cc) cégszerű aláírását.
 
 (6) Ha a munkáltató vagy foglalkoztató jogutód nélkül szűnt meg, a szakmai gyakorlati idő igazolására a munkáltatóval vagy foglalkoztatóval kötött olyan megállapodás is alkalmas, amely hitelt érdemlően tanúsítja a földmérési szakterületen szerzett gyakorlati időt, és amely tartalmazza az (5) bekezdés a) és b) pontjában meghatározott adatokat.
 
-[^1]: [A 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés a) pontjával elrendelt módosítás, amely szerint az „a megyei vagy járási földhivatalnál” szövegrész helyébe az „az ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatalnál (a továbbiakban: kormányhivatal) vagy a járási hivatalnál” szöveg lép, nem vezethető át.]
+[^6]: A 6. § (1) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 210. § f) pontja szerint módosított szöveg.

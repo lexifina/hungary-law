@@ -2,8 +2,9 @@
 
 (2) Amennyiben a feltárt hibák és hiányosságok megszüntetésére vonatkozó kötelezettségének a kötelezett 60 napon belül nem tesz eleget, akkor a szakfelügyelő a 13. § (1) bekezdésében meghatározott eljárást kezdeményezi.
 
-(3)[^9] A kormányhivatal a szakfelügyeleti tevékenységéről készített éves beszámoló jelentését a tárgyévet követő év március 10-ig megküldi a FÖMI részére.
+(3)[^34] A kormányhivatal a szakfelügyeleti tevékenységéről készített éves beszámoló jelentését a tárgyévet követő év március 10-ig megküldi a földmérési és térinformatikai államigazgatási szerv részére.
 
-(4) A FÖMI a szakfelügyeleti tevékenységgel kapcsolatos összesítő beszámolót a tárgyévet követő év április 1-jéig megküldi a miniszter által vezetett minisztérium részére.
+(4)[^35] A földmérési és térinformatikai államigazgatási szerv a szakfelügyeleti tevékenységgel kapcsolatos összesítő beszámolót a tárgyévet követő év április 1-jéig megküldi a miniszter által vezetett minisztérium részére.
 
-[^9]: A 18. § (3) bekezdése a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^34]: A 18. § (3) bekezdése a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés f) pontja, a 42/2017. (VIII. 17.) FM rendelet 210. § c) pontja szerint módosított szöveg.
+[^35]: A 18. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 210. § i) pontja szerint módosított szöveg.

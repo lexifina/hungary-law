@@ -6,7 +6,7 @@
 
 a) elnöke a miniszter által vezetett minisztériumból,
 
-b) két tagja – akik közül az egyik a titkári teendőket ellátja – a FÖMI-től,
+b)[^5] két tagja – akik közül az egyik a titkári teendőket ellátja – a földmérési és térinformatikai államigazgatási szervtől,
 
 c) a miniszter felkérésére, a szakirányú felsőoktatási intézmények vezetőjének javaslatára két-két fő földmérési szakirányú oktató
 
@@ -23,3 +23,5 @@ kerül megbízásra.
 (7) A 10. §-ban meghatározott vizsga lefolytatásához a Bizottság legalább három tagjának jelenléte szükséges.
 
 (8) Bizottsági tagnak az jelölhető, aki legalább 10 éve ingatlanrendező földmérő minősítéssel rendelkezik.
+
+[^5]: A 4. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 210. § e) pontja szerint módosított szöveg.
