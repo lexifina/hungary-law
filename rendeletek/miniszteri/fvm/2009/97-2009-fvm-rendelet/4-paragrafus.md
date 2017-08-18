@@ -10,18 +10,22 @@ b) a kérelemben megjelölt termőhely szerinti, a Balaton Kiemelt Üdülőkörz
 
 a) a hegybíró véleménye,
 
-b) az SzBKI által adott szakvélemény
+b)[^6] a NAIK által adott szakvélemény
 
 ## figyelembevételével dönt.
 
-(4) A termőhelyi katasztert vezető szerv a határozatát közli a termőhely szerint illetékes hegyközséggel, a települési önkormányzat jegyzőjével, a FÖMI-vel és az SzBKI-val is.
+(4)[^7] A termőhelyi katasztert vezető szerv a határozatát közli a termőhely szerint illetékes hegyközséggel, a települési önkormányzat jegyzőjével, a földmérési és térinformatikai államigazgatási szervvel és a NAIK-kal is.
 
 (5) A Balaton Törvény hatálya alá tartozó települések esetén a termőhelyi katasztert vezető szerv a határozatot közli az illetékes első fokú építési hatósággal is.
 
-(6) A FÖMI a borszőlő termőhelyi kataszterét érintő változásokat, az SzBKI által szolgáltatott adatokat is felhasználva, átvezeti a digitális termőhelyi kataszteri térkép-fedvényeken és megjeleníti VINGIS rendszerben.
+(6)[^8] A földmérési és térinformatikai államigazgatási szerv a borszőlő termőhelyi kataszterét érintő változásokat, a NAIK által szolgáltatott adatokat is felhasználva, átvezeti a digitális termőhelyi kataszteri térkép-fedvényeken és megjeleníti VINGIS rendszerben.
 
 (7) A papíralapú térképi nyilvántartás mellett a térképek adattartalma bekerül a VINGIS digitális térinformatikai adatállományába (borszőlő termőhelyi kataszterének fedvénye), ami egyenértékű a papíralapú térképek adataival. Eltérés esetén a borszőlő termőhelyi kataszterének fedvénye az irányadó.
 
 (8) A 190 értékpontot el nem érő területek borszőlő termesztésére alkalmatlanok, a borszőlő termőhelyi kataszterében nem rögzíthetők.
 
 (9) Borszőlő termőhelyi kataszterébe nem rögzíthető az építési területbe tartozó vagy építési területnek kijelölt, illetve a nem mezőgazdasági művelési ágba sorolt földterület.
+
+[^6]: A 4. § (3) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 129. § h) pontja szerint módosított szöveg.
+[^7]: A 4. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 129. § c) és i) pontja szerint módosított szöveg.
+[^8]: A 4. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 129. § d) és h) pontja szerint módosított szöveg.
