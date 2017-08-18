@@ -1,4 +1,4 @@
-5. § (1)[^3] A járási főállatorvos az üzemeket IBR mentesítés szempontjából nyilvántartásba veszi, az érintett telepeket minősíti, és a minősítéskor az 1. számú melléklet szerinti ,,Igazolás''-t állítja ki. A minősítés lehet:
+5. § (1)[^4] A járási hivatal az üzemeket IBR mentesítés szempontjából nyilvántartásba veszi, az érintett telepeket minősíti, és a minősítéskor az 1. számú melléklet szerinti ,,Igazolás''-t állítja ki. A minősítés lehet:
 
 a) BHV-1 vírussal fertőzött állomány,
 
@@ -30,4 +30,4 @@ cb) az állatokat harminc napra karanténba helyezték, ahol huszonegy napos id�
 
 d) amelyben csak IBR-től mentes bikát, illetve ilyen bikáktól származó spermát használtak, vagy embrióbeültetés esetén az embrió IBR-től mentes szülőktől származott.
 
-[^3]: Az 5. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 7. § b) pontja szerint módosított szöveg.
+[^4]: Az 5. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 29. § d) pontja szerint módosított szöveg.

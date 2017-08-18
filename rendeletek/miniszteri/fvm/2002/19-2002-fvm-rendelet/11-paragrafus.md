@@ -1,4 +1,4 @@
-## 10. §[^7] A mentesítés helyzetéről az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság félévente köteles jelentést küldeni a Vidékfejlesztési Minisztériumnak.
+## 10. §[^8] A mentesítés helyzetéről a megyei kormányhivatal félévente köteles jelentést küldeni az agrárpolitikáért felelős miniszter által vezetett minisztériumnak.
 
 ## Záró rendelkezések
 
@@ -12,4 +12,4 @@ b) a Tanács 88/407/EGK irányelve a szarvasmarhafélék mélyhűtött spermája
 
 c) a Tanács 93/60/EK irányelve a szarvasmarhafélék mélyhűtött spermája Közösségen belüli kereskedelmének és behozatalának állategészségügyi követelményeiről szóló 88/407/EGK irányelvének módosításáról, illetve hatályának a friss szarvasmarha spermára történő kiterjesztéséről.
 
-[^7]: A 10. § a 70/2013. (VII. 31.) VM rendelet 14. § e)–f) pontja szerint módosított szöveg.
+[^8]: A 10. § a 42/2017. (VIII. 17.) FM rendelet 29. § g) és h) pontja szerint módosított szöveg.

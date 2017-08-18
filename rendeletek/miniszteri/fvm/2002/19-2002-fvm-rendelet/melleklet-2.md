@@ -1,4 +1,4 @@
-## ................................. Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal
+## ................................. Járási Hivatal
 
 ## Cím:
 
@@ -20,7 +20,7 @@
 
 ## ......................
 
-## járási főállatorvos
+## járási hivatalvezető
 
 2. számú melléklet a 19/2002. (III. 8.) FVM rendelethez
 
