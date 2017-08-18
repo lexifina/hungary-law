@@ -1,4 +1,4 @@
-## 2/A. §[^4] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
+## 2/A. §[^5] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
 
 3. § (1) Ez a rendelet 1997. július 1. napján lép hatályba, egyidejűleg
 
@@ -24,4 +24,4 @@ hatályát veszti.
 
 (2) Ez a rendelet az Európai Megállapodás kihirdetéséről szóló 1994. évi I. törvény alapján az Európai Közösségek jogszabályaihoz való közelítést célozza. Az irányadó és e rendelet alkotásánál figyelembe vett közösségi jogszabályok jegyzékét a 3. számú melléklet tartalmazza.
 
-[^4]: A 2/A. §-t a 22/2014. (III. 14.) VM rendelet 3. § (1) bekezdése iktatta be.
+[^5]: A 2/A. §-t a 22/2014. (III. 14.) VM rendelet 3. § (1) bekezdése iktatta be.

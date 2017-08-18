@@ -1,6 +1,6 @@
 ## 6. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^363]
+## az Állategészségügyi Szabályzathoz[^549]
 
 ## 7. számú függelék
 
@@ -22,7 +22,7 @@
 
 7. A vásártérre csak annyi állat bocsátható be, hogy egymást, a közlekedést ne veszélyeztessék. A felhajtott állatokat felügyelet nélkül hagyni tilos.
 
-8.[^364] A vásártérre az állategészségügyi feladatok ellátásához szükséges hatósági állatorvost az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság rendeli ki, a segéderőkről pedig a vásár tartására jogosult köteles gondoskodni, akik közreműködnek a vásárról távozó állatok marhalevelének ellenőrzésében is.
+8.[^550] A vásártérre az állategészségügyi feladatok ellátásához szükséges hatósági állatorvost a járási hivatal rendeli ki, a segéderőkről pedig a vásár tartására jogosult köteles gondoskodni, akik közreműködnek a vásárról távozó állatok marhalevelének ellenőrzésében is.
 
 9. A vásárteret, valamint az oda vezető utaknak a vásártér közvetlen közelében levő szakaszait, legkésőbb a vásárt követő napon meg kell tisztítani.
 
@@ -34,5 +34,5 @@
 
 13. A marhalevél kezelő és hatósági állatorvos számára az adminisztráció elvégzéséhez szükséges feltételeket (fedett, fűthető helyiség, asztal, szék, világítás, kézmosási, fertőtlenítési lehetőség stb.) a vásár, piac tartására jogosult köteles biztosítani.
 
-[^363]: Az 1. számú melléklet 6. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
-[^364]: A 1. számú melléklet 7. függelék 8. pontja a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^549]: Az 1. számú melléklet 6. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^550]: A 1. számú melléklet 7. függelék 8. pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
