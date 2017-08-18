@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-40-20-8
 | 2016-04-16 | 2004-40-20-82.20 | 24/2016. (IV. 8.) FM rendelet |
 | 2016-07-01 | 2004-40-20-82.21 | 70/2006. (IX. 27.) FVM rendelet |
 | 2017-07-14 | 2004-40-20-82.22 | 70/2006. (IX. 27.) FVM rendelet |
+| 2017-08-18 | 2004-40-20-82.23 | 183/2009. (XII. 30.) FVM rendelet |

@@ -2,7 +2,7 @@
 
 (2) A fajta állami elismerése az állami elismeréshez szükséges ismételt DUS-vizsgálatok eredményei alapján a bejelentő kérelmére meghosszabbítható, ha a fajta eredeti fajtaleírásban rögzített tulajdonságai nem változtak meg. Ha a bejelentő az állami elismerés meghosszabbítására igényt tart, úgy azt a lejárat időpontja előtt legalább két évvel kérelmeznie kell.
 
-(3)[^61] Ha a NÉBIH az állami elismerés lejártáig nem dönt a meghosszabbítási kérelemről, az állami elismerés a döntés időpontjáig meghosszabbodik.
+(3)[^61] Ha a miniszter az állami elismerés lejártáig nem dönt a meghosszabbítási kérelemről, az állami elismerés a döntés időpontjáig meghosszabbodik.
 
 (4) Nem hosszabbítható meg az állami elismerés, ha
 
@@ -13,4 +13,4 @@ b) a DUS-vizsgálat során megállapítást nyer, hogy a fajta már nem megkül�
 c) a bejelentő nem fizeti meg az állami elismerés időtartama alatt végzett azonossági vizsgálatokért fizetendő díjat.
 
 [^60]: A 18. § (1) bekezdése a 105/2012. (X. 11.) VM rendelet 5. § (7) bekezdése szerint módosított szöveg.
-[^61]: A 18. § (3) bekezdése a 105/2012. (X. 11.) VM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^61]: A 18. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 60. § e) pontja szerint módosított szöveg.
