@@ -46,6 +46,6 @@
 
 ## **-gal jelölt rész: a megfelelő aláhúzandó.
 
-3. melléklet a 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelethez[^54]
+3. melléklet a 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelethez[^59]
 
-[^54]: A 3. mellékletet a 24/2013. (IV. 11.) VM rendelet 12. § (2) bekezdése iktatta be.
+[^59]: A 3. mellékletet a 24/2013. (IV. 11.) VM rendelet 12. § (2) bekezdése iktatta be.

@@ -36,11 +36,11 @@
 
 ## *-gal jelölt rész: a megfelelő aláhúzandó.
 
-4. melléklet a 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelethez[^55]
+4. melléklet a 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelethez[^60]
 
 A LÉGI-MEZŐGAZDASÁGI IDEIGLENES ENGEDÉLY MINTÁJA
 
-Nemzeti Élelmiszerlánc-biztonsági Hivatal
+……………………… Járási Hivatal
 
 Sorszám: …
 
@@ -66,4 +66,4 @@ P. H.
 
 aláírás
 
-[^55]: A 4. mellékletet a 24/2013. (IV. 11.) VM rendelet 12. § (2) bekezdése iktatta be.
+[^60]: A 4. mellékletet a 24/2013. (IV. 11.) VM rendelet 12. § (2) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 77. § j) pontja szerint módosított szöveg.
