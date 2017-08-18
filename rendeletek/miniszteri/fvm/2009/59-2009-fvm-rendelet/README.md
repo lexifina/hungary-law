@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-59-20-8
 | 2015-11-03 | 2009-59-20-82.7 | 68/2015. (XI. 2.) FM rendelet |
 | 2017-01-01 | 2009-59-20-82.8 | 88/2016. (XII. 29.) FM rendelet |
 | 2017-02-14 | 2009-59-20-82.9 | 6/2017. (II. 13.) FM rendelet |
+| 2017-08-18 | 2009-59-20-82.10 | 42/2017. (VIII. 17.) FM rendelet |

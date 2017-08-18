@@ -18,6 +18,6 @@
 
 ## 9. A jégeső-elhárító szervezet aláírása.
 
-2. számú melléklet az 59/2009. (V. 8.) FVM rendelethez[^48]
+2. számú melléklet az 59/2009. (V. 8.) FVM rendelethez[^49]
 
-[^48]: A 2. számú melléklet a 68/2015. (XI. 2.) FM rendelet 9. § b) pontjával megállapított szöveg.
+[^49]: A 2. számú melléklet a 68/2015. (XI. 2.) FM rendelet 9. § b) pontjával megállapított szöveg.
