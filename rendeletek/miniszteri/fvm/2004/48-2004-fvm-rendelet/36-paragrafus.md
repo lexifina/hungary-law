@@ -1,3 +1,3 @@
-## 35. §[^85]
+## 35. §[^86]
 
-[^85]: A 35. §-t az 5/2014. (I. 27.) VM rendelet 4. § (4) bekezdés b) pontja hatályon kívül helyezte.
+[^86]: A 35. §-t az 5/2014. (I. 27.) VM rendelet 4. § (4) bekezdés b) pontja hatályon kívül helyezte.

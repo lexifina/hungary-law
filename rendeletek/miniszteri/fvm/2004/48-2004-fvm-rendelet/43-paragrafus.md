@@ -18,7 +18,7 @@ a) a belföldi és az OECD Fajtaigazolási Rendszerben fémzárolt vetőmagtéte
 
 5. nem véglegesen minősített vetőmag esetén szürke,
 
-6.[^121] fajtajelöltek kísérleti célú forgalomba hozatala esetén narancssárga.
+6.[^122] fajtajelöltek kísérleti célú forgalomba hozatala esetén narancssárga.
 
 b) a belföldi vetőmagtételek címkéjének színe
 
@@ -28,7 +28,7 @@ b) a belföldi vetőmagtételek címkéjének színe
 
 c) nem OECD rendszerű export vetőmagtételek és a mellékletek D. részeiben felsorolt fajok vetőmagtételei esetén a címke fehér színű, nemzetiszínű – piros-fehér-zöld – csíkkal ellátva.
 
-(3)[^122] A belföldi vetőmagcímkék méretének legalább 110 mm x 67 mm nagyságúnak kell lennie.
+(3)[^123] A belföldi vetőmagcímkék méretének legalább 110 mm x 67 mm nagyságúnak kell lennie.
 
-[^121]: A 43. § (2) bekezdés a) pont 6. alpontját a 16/2011. (III. 2.) VM rendelet 21. § (1) bekezdése iktatta be.
-[^122]: A 43. § (3) bekezdése a 16/2011. (III. 2.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^122]: A 43. § (2) bekezdés a) pont 6. alpontját a 16/2011. (III. 2.) VM rendelet 21. § (1) bekezdése iktatta be.
+[^123]: A 43. § (3) bekezdése a 16/2011. (III. 2.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.

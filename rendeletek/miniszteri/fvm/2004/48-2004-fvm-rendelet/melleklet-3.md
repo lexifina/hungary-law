@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^202]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^203]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -1466,4 +1466,4 @@ Szümcső (Bunias orientalis)
 
 Magtermő évben
 
-[^202]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^203]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése szerint módosított szöveg.
