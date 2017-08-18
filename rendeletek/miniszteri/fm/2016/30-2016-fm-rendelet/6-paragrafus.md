@@ -6,7 +6,7 @@
 
 (1a)[^6] Az (1) bekezdés szerinti forrásból kerülnek kifizetésre a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás 2015. évi igénybevételének feltételeiről szóló 35/2015. (VI. 30.) FM rendelet alapján benyújtott és jogorvoslati eljárás során jóváhagyott, támogatásban részesülő pályázatok.
 
-(1b)[^7] A miniszter a kormányhivatalok és a járási hivatalok által felmért tanyák adatai feldolgozásának finanszírozását támogatói okirat kiadása útján – az (1) bekezdés szerinti forrás terhére – biztosítja a Herman Ottó Intézet részére.
+(1b)[^7] A miniszter a kormányhivatalok és a járási hivatalok által felmért tanyák adatai feldolgozásának finanszírozását támogatói okirat kiadása útján – az (1) bekezdés szerinti forrás terhére – biztosítja a Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Herman Ottó Intézet) részére.
 
 (2) A 2. célterületre igénybe vehető támogatás összegét a pályázati felhívás kihirdetése hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
 
@@ -27,5 +27,5 @@ d) a 4. célterület esetében az összes jogosult, elszámolható költség leg
 (6) A támogatás csak abban az esetben igényelhető az általános forgalmi adó (a továbbiakban: ÁFA) összegét is tartalmazó fejlesztési összköltség alapján, ha a pályázónak vagy az egyedi támogatási kérelmet benyújtónak a támogatásból megvalósított cél kapcsán ÁFA visszaigénylési joga nincs.
 
 [^6]: A 6. § (1a) bekezdését a 65/2016. (IX. 21.) FM rendelet 36. §-a iktatta be.
-[^7]: A 6. § (1b) bekezdését a 65/2016. (IX. 21.) FM rendelet 36. §-a iktatta be.
+[^7]: A 6. § (1b) bekezdését a 65/2016. (IX. 21.) FM rendelet 36. §-a iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 226. §-a szerint módosított szöveg.
 [^8]: A 6. § (4) bekezdése a 65/2016. (IX. 21.) FM rendelet 39. §-a szerint módosított szöveg.
