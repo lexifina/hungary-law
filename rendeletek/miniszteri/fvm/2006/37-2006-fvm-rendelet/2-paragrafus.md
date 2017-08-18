@@ -12,7 +12,7 @@ e) a 2003/2003/EK európai parlamenti és tanácsi rendelet csomagolásra vonatk
 
 f) a 2003/2003/EK európai parlamenti és tanácsi rendelet II. címe szerinti, az egyes műtrágyatípusokra vonatkozó rendelkezések teljesülését.
 
-(2)[^9] A növény- és talajvédelmi igazgatóság az (1) bekezdés f) pontjában meghatározott ellenőrzése során laboratóriumi vizsgálathoz térítésmentesen mintát vehet. A mintavételt a 2003/2003/EK európai parlamenti és tanácsi rendelet IV. mellékletében leírtak alapján kell elvégezni. A mintavétel helyén ellenmintát kell hagyni.
+(2)[^9] A járási hivatal az (1) bekezdés f) pontjában meghatározott ellenőrzése során laboratóriumi vizsgálathoz térítésmentesen mintát vehet. A mintavételt a 2003/2003/EK európai parlamenti és tanácsi rendelet IV. mellékletében leírtak alapján kell elvégezni. A mintavétel helyén ellenmintát kell hagyni.
 
 (3)[^10] A hatósági ellenőrzéshez szükséges vizsgálatokat a 2003/2003/EK európai parlamenti és tanácsi rendelet III. és IV. mellékletében leírt módszerekkel és az azokra akkreditált, az Európai Bizottságnál bejelentett és az Európai Bizottság által közzétett laboratóriumok végezhetik.
 
@@ -33,7 +33,7 @@ f) a 2003/2003/EK európai parlamenti és tanácsi rendelet II. címe szerinti, 
 (11)[^18] Amennyiben a járási hivatal a (6) és (7) bekezdés szerinti értesítéstől számított 3 munkanapon belül nem tájékoztatja a Nemzeti Adó- és Vámhivatalt szakértői véleményéről, a Nemzeti Adó- és Vámhivatal úgy jár el, mintha a járási hivatal álláspontja szerint a forgalomba helyezés engedélyezhető lenne.
 
 [^8]: A 2. § (1) bekezdése a 18/2017. (IV. 11.) FM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^9]: A 2. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 54. § c) pontja, a 18/2017. (IV. 11.) FM rendelet 11. § b)–c) pontja szerint módosított szöveg.
+[^9]: A 2. § (2) bekezdése a 18/2017. (IV. 11.) FM rendelet 11. § b)–c) pontja, a 42/2017. (VIII. 17.) FM rendelet 85. § a) pontja szerint módosított szöveg.
 [^10]: A 2. § (3) bekezdése a 18/2017. (IV. 11.) FM rendelet 11. § b) pontja szerint módosított szöveg.
 [^11]: A 2. § (4) bekezdését a 18/2017. (IV. 11.) FM rendelet 7. § (2) bekezdése iktatta be.
 [^12]: A 2. § (5) bekezdését a 18/2017. (IV. 11.) FM rendelet 7. § (2) bekezdése iktatta be.
