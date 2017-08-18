@@ -1,4 +1,4 @@
-12. § (1)[^41] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, szükség esetén más erre hatáskörrel rendelkező hatósággal együttműködve
+12. § (1)[^41] A megyei kormányhivatal, szükség esetén más erre hatáskörrel rendelkező hatósággal együttműködve
 
 a) ellenőrzi az állattartó telepet, felszerelést és berendezést, szállítóeszközt, az állatok jelölésére és azonosítására használt módszert,
 
@@ -14,7 +14,7 @@ d) ellenőrzi azon okiratokat vagy informatikai adatokat, amelyek az e rendeletb
 
 (2) A tenyésztési hatóság – feladat- és hatáskörében eljárva – a szállítóeszköz ellenőrzése kivételével elvégzi az (1) bekezdés szerinti ellenőrzéseket.
 
-(3)[^42] Az ellenőrzött állattartó telep, központ vagy szervezet köteles az ellenőrzés végrehajtásához szükséges mértékben együttműködni az élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal.
+(3)[^42] Az ellenőrzött állattartó telep, központ vagy szervezet köteles az ellenőrzés végrehajtásához szükséges mértékben együttműködni a megyei kormányhivatallal.
 
-[^41]: A 12. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 35. § f) pontja szerint módosított szöveg.
-[^42]: A 12. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 35. § n) pontja szerint módosított szöveg.
+[^41]: A 12. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 67. § h) pontja szerint módosított szöveg.
+[^42]: A 12. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 67. § d) pontja szerint módosított szöveg.
