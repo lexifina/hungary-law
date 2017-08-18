@@ -20,8 +20,12 @@ e) megfelel a veszettségtől eltérő betegségekre vagy fertőzésekre az 576/
 
 (5) Az 577/2013/EU bizottsági végrehajtási rendelet II. mellékletében nem szereplő területekről vagy harmadik országokból érkező, a 2. § f) pont fa) alpontja szerinti kedvtelésből tartott állatok csak a NÉBIH által az 576/2013/EU európai parlamenti és tanácsi rendelet 34. cikk (3) bekezdése alapján, a 11. § (2) bekezdés c) pontja szerint közzétett jegyzékben szereplő beutazási beléptetési pontokon keresztül hozhatók Magyarország területére.
 
-(6) Az (5) bekezdéstől eltérően a katonai, kereső- és mentőkutyák behozatala a beutazási beléptetési pontoktól eltérő belépési ponton is történhet, amennyiben a NÉBIH az eltérő belépést engedélyezte, az 576/2013/EU európai parlamenti és bizottsági rendelet 10. cikk (3) bekezdése szerinti feltételek teljesülése esetén.
+(6)[^2] Az (5) bekezdéstől eltérően a katonai, kereső- és mentőkutyák behozatala a beutazási beléptetési pontoktól eltérő belépési ponton is történhet, amennyiben a NÉBIH és a járási hivatal az eltérő belépést engedélyezte, az 576/2013/EU európai parlamenti és bizottsági rendelet 10. cikk (3) bekezdése szerinti feltételek teljesülése esetén.
 
-(7) Az állattartónak a (6) bekezdés szerinti eltérő belépés engedélyezése iránti kérelmet a behozatal előtt legalább 15 nappal kell benyújtania a NÉBIH-nek.
+(7)[^3] Az állattartónak a (6) bekezdés szerinti eltérő belépés engedélyezése iránti kérelmet a behozatal előtt legalább 15 nappal kell benyújtania a NÉBIH-nek és a járási hivatalnak.
 
-(8) Az 576/2013/EU európai parlamenti és tanácsi rendelet 10. cikkében foglalt feltételektől a 32. cikk alapján való eltérés alkalmazását írásban benyújtott kérelem alapján a NÉBIH engedélyezheti, a NÉBIH által előírt egészségügyi garanciák betartása mellett.
+(8)[^4] Az 576/2013/EU európai parlamenti és tanácsi rendelet 10. cikkében foglalt feltételektől a 32. cikk alapján való eltérés alkalmazását írásban benyújtott kérelem alapján a NÉBIH és a járási hivatal engedélyezheti, a NÉBIH és a járási hivatal által előírt egészségügyi garanciák betartása mellett.
+
+[^2]: A 4. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 213. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet 213. § c) pontja szerint módosított szöveg.
+[^4]: A 4. § (8) bekezdése a 42/2017. (VIII. 17.) FM rendelet 213. § b) pontja szerint módosított szöveg.
