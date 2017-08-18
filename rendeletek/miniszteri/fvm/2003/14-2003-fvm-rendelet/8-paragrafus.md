@@ -1,4 +1,4 @@
-## 7. §[^15] A Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) köteles a beküldött vizsgálati anyagot az RSZKF vírustípusaira, az SVD vírusára és a vírus elleni ellenanyagok jelenlétére azonnal megvizsgálni, a vizsgálat eredményéről az illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot és a minisztériumot haladéktalanul értesíteni. Kétes szerológiai eredmény esetén a vizsgálatokat meg kell ismételni mind VN (vírus neutralizációs próba), mind ELISA próbával. Az ismételt szerológiai vizsgálatokhoz ugyanazon állatok savópár mintáit kell beküldeni.
+## 7. §[^16] A Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) köteles a beküldött vizsgálati anyagot az RSZKF vírustípusaira, az SVD vírusára és a vírus elleni ellenanyagok jelenlétére azonnal megvizsgálni, a vizsgálat eredményéről a megyei kormányhivatalt és a minisztériumot haladéktalanul értesíteni. Kétes szerológiai eredmény esetén a vizsgálatokat meg kell ismételni mind VN (vírus neutralizációs próba), mind ELISA próbával. Az ismételt szerológiai vizsgálatokhoz ugyanazon állatok savópár mintáit kell beküldeni.
 
 ## Helyi zárlat
 
@@ -10,4 +10,4 @@
 
 (4) A helyi zárlat alatt álló hely bejáratánál a zárlat tényét jól látható, tartós, ,,Helyi zárlat, sertések hólyagos betegsége'' szövegű táblával vagy felirattal kell jelezni.
 
-[^15]: A 7. § a 70/2013. (VII. 31.) VM rendelet 24. § h) és i) pontja szerint módosított szöveg.
+[^16]: A 7. § a 42/2017. (VIII. 17.) FM rendelet 46. § h) pontja szerint módosított szöveg.

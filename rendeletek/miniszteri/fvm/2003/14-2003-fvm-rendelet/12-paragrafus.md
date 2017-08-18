@@ -10,8 +10,8 @@
 
 (6) Az állattartók és a velük együtt lakó hozzátartozók az állomány felszámolásáig nem hagyhatják el a helyi zárlat területét. Rendkívüli esetben – a hatósági állatorvos esetenként adott engedélyével – fertőtlenítés után távozhatnak.
 
-(7)[^18] A helyi zárlat alatt álló telepről az ott dolgozók – az illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság külön engedélye alapján – naponta hazajárhatnak, ha a telepen az átöltözésükhöz és fertőtlenítésükhöz olyan feltételeket (öltözőt, zuhanyozót, védőruhát, lábbelit, fertőtlenítő eszközöket, anyagokat) biztosítottak, amelyek kizárják a fertőző anyag elhurcolását. A hatósági állatorvos a feltételek meglétét és az előírás megtartását köteles ellenőrizni.
+(7)[^19] A helyi zárlat alatt álló telepről az ott dolgozók – a megyei kormányhivatal külön engedélye alapján – naponta hazajárhatnak, ha a telepen az átöltözésükhöz és fertőtlenítésükhöz olyan feltételeket (öltözőt, zuhanyozót, védőruhát, lábbelit, fertőtlenítő eszközöket, anyagokat) biztosítottak, amelyek kizárják a fertőző anyag elhurcolását. A hatósági állatorvos a feltételek meglétét és az előírás megtartását köteles ellenőrizni.
 
 (8) A zárlat alatt álló területen tartózkodó személyekről nyilvántartást kell vezetni és annak egy példányát az őrségnek át kell adni.
 
-[^18]: A 12. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 24. § d) pontja szerint módosított szöveg.
+[^19]: A 12. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet 46. § i) pontja szerint módosított szöveg.
