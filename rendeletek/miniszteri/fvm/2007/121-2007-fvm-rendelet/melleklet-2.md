@@ -12,7 +12,7 @@
 
 ## 2. Mintavételi eljárás
 
-## 2.1. A hatósági mintavételt az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hajtja végre.
+## 2.1. A hatósági mintavételt a tenyésztési hatóság hajtja végre.
 
 ## 2.2. A mintát a tojástálcákat gyűjtő ládából, kartonból, azon belül a tálcákból (a tojásokból), továbbá a naposbaromfit szállító kartonból (dobozból), tehát a naposbaromfiból kell venni.
 

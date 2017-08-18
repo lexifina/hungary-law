@@ -2,7 +2,7 @@
 
 8. § (1) Keltetésre
 
-a)[^16] valamely elismert vagy ideiglenesen elismert tenyésztő szervezet törzskönyvében vagy tenyésztési főkönyvében szereplő és az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által nyilvántartásba vett törzsállománytól származó, az adott fajta tenyésztési programjában meghatározott minőségű keltető- vagy tenyésztojás,
+a)[^17] valamely elismert vagy ideiglenesen elismert tenyésztő szervezet törzskönyvében vagy tenyésztési főkönyvében szereplő és a tenyésztési hatóság által nyilvántartásba vett törzsállománytól származó, az adott fajta tenyésztési programjában meghatározott minőségű keltető- vagy tenyésztojás,
 
 b) fajtaelismeréssel vagy ideiglenes forgalmazási engedéllyel rendelkező fajtához tartozó, külföldről beszállított keltető- vagy tenyésztojás,
 
@@ -10,7 +10,7 @@ c) fajtaelismeréssel vagy ideiglenes forgalmazási engedéllyel nem rendelkező
 
 ## használható fel.
 
-(2)[^17] A keltető- és tenyésztojásoknak
+(2)[^18] A keltető- és tenyésztojásoknak
 
 a) belföldi tojások esetén az adott fajta tenyésztési programjában meghatározott jelöléssel kell rendelkezniük,
 
@@ -20,5 +20,5 @@ b) a külföldről beszállított tojások esetében a jelölés nem lehet össz
 
 (4) A különböző telepekről származó tojások származás szerinti elkülönítését a munkafolyamatok során végig fenn kell tartani.
 
-[^16]: A 8. § (1) bekezdés a) pontja a 28/2010. (XI. 9.) VM rendelet 10. § (6) bekezdése, a 70/2013. (VII. 31.) VM rendelet 80. § d) pontja szerint módosított szöveg.
-[^17]: A 8. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 6. § (4) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^17]: A 8. § (1) bekezdés a) pontja a 28/2010. (XI. 9.) VM rendelet 10. § (6) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 99. § b) pontja szerint módosított szöveg.
+[^18]: A 8. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 6. § (4) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
