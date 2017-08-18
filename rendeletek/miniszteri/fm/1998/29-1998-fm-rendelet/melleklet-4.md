@@ -12,6 +12,6 @@
 
 ## ......................
 
-## MgSzH területi szervének vezetője/hegybíró
+## a járási hivatal vezetője/hegybíró
 
 4. számú melléklet a 29/1998. (IV. 30.) FM rendelethez

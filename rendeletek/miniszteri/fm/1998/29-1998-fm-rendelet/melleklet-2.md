@@ -4,7 +4,7 @@
 
 ## Igazolom, hogy ................... (név)
 
-## .................. (szül. hely) ............... (szül. idő) ......................... (lakcím) a ...................... földművelésügyi igazgatóságnál a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény által előírt mezőőri vizsgát eredményesen letette.
+## .................. (szül. hely) ............... (szül. idő) ......................... (lakcím) a ...................... megyei kormányhivatal ............. járási hivatalánál a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény által előírt mezőőri vizsgát eredményesen letette.
 
 ## ................., 20.... ..............
 
@@ -26,7 +26,7 @@
 
 ## .............
 
-## MgSzH területi szervének vezetője
+## a járási hivatal vezetője
 
 ## 2. Igazolom, hogy a ....................... földművelésügyi igazgatóságnál a 29/1998. (IV. 30.) FM rendelet által előírt továbbképzésen részt vett.
 
@@ -34,7 +34,7 @@
 
 ## .............
 
-## MgSzH területi szervének vezetője
+## a járási hivatal vezetője
 
 ## 3. Igazolom, hogy a ....................... földművelésügyi igazgatóságnál a 29/1998. (IV. 30.) FM rendelet által előírt továbbképzésen részt vett.
 
@@ -42,7 +42,7 @@
 
 ## .............
 
-## MgSzH területi szervének vezetője
+## a járási hivatal vezetője
 
 ## 4. Igazolom, hogy a ....................... földművelésügyi igazgatóságnál a 29/1998. (IV. 30.) FM rendelet által előírt továbbképzésen részt vett.
 
@@ -50,7 +50,7 @@
 
 ## .............
 
-## MgSzH területi szervének vezetője
+## a járási hivatal vezetője
 
 ## Sorszám:
 

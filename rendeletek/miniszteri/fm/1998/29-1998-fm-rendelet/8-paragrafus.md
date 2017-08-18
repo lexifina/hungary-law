@@ -1,4 +1,4 @@
-8. §[^13] (1) A mezőőr sörétes vadászlőfegyverét lakott területen kívül
+8. §[^16] (1) A mezőőr sörétes vadászlőfegyverét lakott területen kívül
 
 a) kártevő riasztására,
 
@@ -12,4 +12,4 @@ használhatja.
 
 (3) Az (1) bekezdés szerinti tevékenységekhez a területileg illetékes vadászatra jogosult egyetértése szükséges, melyeknek az időpontját és helyszínét a területileg illetékes vadászatra jogosult képviselőjével, vagy a hivatásos vadásszal a mezőőr előzetesen egyeztetni és a vadászati naplóba (beírókönyvbe) beírni köteles.
 
-[^13]: A 8. § a 118/2009. (VIII. 31.) FVM rendelet 7. §-ával megállapított szöveg.
+[^16]: A 8. § a 118/2009. (VIII. 31.) FVM rendelet 7. §-ával megállapított szöveg.
