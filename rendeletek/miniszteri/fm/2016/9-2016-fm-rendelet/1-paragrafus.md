@@ -16,7 +16,7 @@ f) kísérleti szőlő: a NÉBIH által nyilvántartásba vett, osztályba sorol
 
 g) mezőgazdasági csoportmentességi rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet;
 
-h) körülhatárolt terület: a készenléti terv szerint a fitoplazma fertőzés miatt a területileg illetékes, növényvédelmi igazgatási hatáskörében eljáró megyei kormányhivatal (a továbbiakban: növényvédelmi hatóság) határozata alapján fertőzöttnek, valamint biztonsági övezetnek minősített és kijelölt termőföldterület;
+h)[^1] körülhatárolt terület: a készenléti terv szerint a fitoplazma fertőzés miatt a területileg illetékes, növény- és talajvédelmi hatáskörében eljáró járási hivatal (a továbbiakban: növényvédelmi hatóság) határozata alapján fertőzöttnek, valamint biztonsági övezetnek minősített és kijelölt termőföldterület;
 
 i) nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) bekezdés szerinti vállalkozás;
 
@@ -43,3 +43,5 @@ ra) a termelői csoportokról szóló, vagy a termelői csoportok elismerésér�
 rb) a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló miniszteri rendelet szerinti zöldség-gyümölcs termelői csoport és termelői szervezet;
 
 s) védekezési időszak: a tárgyév május 1-től július 31-ig terjedő időszaka.
+
+[^1]: Az 1. § h) pontja a 42/2017. (VIII. 17.) FM rendelet 225. §-a szerint módosított szöveg.

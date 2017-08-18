@@ -18,7 +18,7 @@
 
 2.2. Növényegészségügyi felszámolás
 
-3.[^23] Szőlőültetvény adatai (helyrajzi számonként külön sorban kell feltüntetni)
+3.[^24] Szőlőültetvény adatai (helyrajzi számonként külön sorban kell feltüntetni)
 
 3.1. Településnév
 
@@ -52,4 +52,4 @@
 
 8. Keltezés, aláírás
 
-[^23]: A 2a. melléklet 3. pont nyitó szövegrésze a 6/2017. (II. 13.) FM rendelet 35. § b) pontjával megállapított szöveg.
+[^24]: A 2a. melléklet 3. pont nyitó szövegrésze a 6/2017. (II. 13.) FM rendelet 35. § b) pontjával megállapított szöveg.
