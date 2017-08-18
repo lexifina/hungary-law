@@ -30,7 +30,7 @@ g) a keletkezett állattetemek, állati hulladék, trágya kezelésének és ár
 
 (4) Az engedélyben rendelkezni kell az állatotthon adatszolgáltatási kötelezettségéről.
 
-(5)[^22] Az állatotthon működését az állatvédelmi hatóság – a szakhatóságok részvételével – folyamatosan ellenőrzi, és ötévenként felülvizsgálja. A felülvizsgálat eredményétől függően az állatvédelmi hatóság az állatotthont bezárathatja, vagy azonnali bezárást nem indokoló hiányosságok esetén – határidő tűzésével – a hiányosságok pótlását rendelheti el.
+(5)[^22] Az állatotthon működését az állatvédelmi hatóság – a szakhatóságok részvételével – folyamatosan ellenőrzi, és ötévenként felülvizsgálja. A felülvizsgálat eredményétől függően az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal az állatotthont bezárathatja, vagy azonnali bezárást nem indokoló hiányosságok esetén – határidő tűzésével – a hiányosságok pótlását rendelheti el.
 
 [^21]: A 12. § (1) bekezdés nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 3. § (3) bekezdése szerint módosított szöveg.
-[^22]: A 12. § (5) bekezdése a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.
+[^22]: A 12. § (5) bekezdése a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 1. § (3) bekezdésével megállapított, a 42/2017. (VIII. 27.) FM rendelet 24. §-a szerint módosított szöveg.
