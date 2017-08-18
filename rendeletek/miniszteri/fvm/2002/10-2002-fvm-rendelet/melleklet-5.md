@@ -300,4 +300,4 @@
 
 5. számú melléklet a 10/2002. (I. 23.) FVM rendelethez[^23]
 
-[^23]: Az 5. számú melléklet a 70/2013. (VII. 31.) VM rendelet 13. § l) pontja szerint módosított szöveg.
+[^23]: Az 5. számú melléklet a 42/2017. (VIII. 17.) FM rendelet 29. § f) pontja szerint módosított szöveg.

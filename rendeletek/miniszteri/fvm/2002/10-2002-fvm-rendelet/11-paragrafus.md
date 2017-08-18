@@ -12,7 +12,7 @@ d) a vizsgáló laboratóriumok számára a szakemberképzés és a vonatkozó a
 
 e) összehasonlító vizsgálatok szervezése az illetékes laboratóriumok számára;
 
-f)[^11] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságok által szolgáltatott adatokat is tartalmazó éves jelentés készítése és megküldése a minisztériumnak.
+f)[^11] a megyei kormányhivatalok által szolgáltatott adatokat is tartalmazó éves jelentés készítése és megküldése a minisztériumnak.
 
 (3)[^12] A NÉBIH-re mint nemzeti referencia laboratóriumra vonatkozó követelményeket a 6. számú melléklet tartalmazza.
 
@@ -20,6 +20,6 @@ f)[^11] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságo
 
 [^9]: A 11. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 13. § f) pontja szerint módosított szöveg.
 [^10]: A 11. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 13. § g) pontja szerint módosított szöveg.
-[^11]: A 11. § (2) bekezdés f) pontja a 70/2013. (VII. 31.) VM rendelet 13. § h) pontja szerint módosított szöveg.
+[^11]: A 11. § (2) bekezdés f) pontja a 42/2017. (VIII. 17.) FM rendelet 29. § c) pontja szerint módosított szöveg.
 [^12]: A 11. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 13. § i) pontja szerint módosított szöveg.
 [^13]: A 11. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 13. § j) pontja szerint módosított szöveg.
