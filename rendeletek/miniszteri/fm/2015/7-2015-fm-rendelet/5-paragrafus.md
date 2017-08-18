@@ -18,7 +18,7 @@ közötti időszakban nyújtható be az (1) bekezdésben meghatározottak szerin
 
 a) az egyes tevékenységeknél előírt dokumentumokat,
 
-b)[^23] a megyei kormányhivatalnak a 2. § (5) bekezdés f) pontja szerinti állat-egészségügyi nyilvántartási kötelezettségeknek való megfelelésről, valamint az állategészségügyi és állatvédelmi szabályok betartásáról szóló igazolásának eredeti példányát,
+b)[^23] a járási hivatalnak a 2. § (5) bekezdés f) pontja szerinti állat-egészségügyi nyilvántartási kötelezettségeknek való megfelelésről, valamint az állategészségügyi és állatvédelmi szabályok betartásáról szóló igazolásának eredeti példányát,
 
 c)[^24] a sertéságazati területi felelős által kiállított dokumentum eredeti példányát
 
@@ -43,7 +43,7 @@ cc) arról, hogy az ügyfél a támogatási igénnyel érintett tevékenységre 
 (10)[^29] A 2016. január 1-je és március 31-e közötti időszakra vonatkozóan benyújtott összes kifizetési kérelemben foglalt jogos támogatási igény összesítését követően a mezőgazdasági és vidékfejlesztési támogatási szerv a 2015. évi támogatási kérelemhez kapcsolódó valamennyi negyedéves kifizetési kérelem összesített tényadatai alapján újraszámítja a 2015. évi támogatási kérelmek alapján megállapított jogos támogatási igényekre vonatkozó visszaosztás mértékét, és ennek megfelelően módosítja vagy visszavonja a 2015. évi támogatási kérelmekre hozott döntéseket.
 
 [^22]: Az 5. § (1) bekezdése a 25/2016. (IV. 11.) FM rendelet 36. § (1) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 78. § c) pontja szerint módosított szöveg.
-[^23]: Az 5. § (3) bekezdés b) pontja a 92/2015. (XII. 23.) FM rendelet 3. §-ával megállapított, a 25/2016. (IV. 11.) FM rendelet 39. § b) pontja szerint módosított szöveg.
+[^23]: Az 5. § (3) bekezdés b) pontja a 92/2015. (XII. 23.) FM rendelet 3. §-ával megállapított, a 25/2016. (IV. 11.) FM rendelet 39. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 211. § c) pontja szerint módosított szöveg.
 [^24]: Az 5. § (3) bekezdés c) pontja a 92/2015. (XII. 23.) FM rendelet 3. §-ával megállapított, nyitó szövegrésze a 25/2016. (IV. 11.) FM rendelet 39. § c) pontja szerint módosított szöveg.
 [^25]: Az 5. § c) pont ca) alpontja az 51/2016. (VII. 21.) FM rendelet 20. § d) pontja szerint módosított szöveg.
 [^26]: Az 5. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 78. § b) pontja szerint módosított szöveg.
