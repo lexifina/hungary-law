@@ -1,10 +1,10 @@
-## 9. §[^5] A NÉBIH az üzemeltetési engedéllyel rendelkező halkeltető állomások listáját saját honlapján közzéteszi.
+## 9. §[^8] A NÉBIH az üzemeltetési engedéllyel rendelkező halkeltető állomások listáját saját honlapján közzéteszi.
 
 10. § (1) Ez a rendelet 2011. július 1-jén lép hatályba, e rendelet előírásait a rendelet hatályba lépését követően indult és megismételt eljárásokban kell alkalmazni.
 
-(2)[^6]
+(2)[^9]
 
-Melléklet a 34/2011. (IV. 28.) VM rendelethez[^7]
+Melléklet a 34/2011. (IV. 28.) VM rendelethez[^10]
 
 EREDETIGAZOLÁS
 
@@ -46,6 +46,6 @@ P.H.
 
 (kiállító sajátkezű aláírása)
 
-[^5]: A 9. § a 19/2014. (III. 12.) VM rendelet 39. § c) pontja szerint módosított szöveg.
-[^6]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A melléklet a 19/2014. (III. 12.) VM rendelet 39. § b) pontja szerint módosított szöveg.
+[^8]: A 9. § a 19/2014. (III. 12.) VM rendelet 39. § c) pontja szerint módosított szöveg.
+[^9]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A melléklet a 19/2014. (III. 12.) VM rendelet 39. § b) pontja szerint módosított szöveg.

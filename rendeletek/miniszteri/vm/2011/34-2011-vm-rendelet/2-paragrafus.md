@@ -8,6 +8,6 @@ b) haltétel: azonos fajú, azonos fajtájú, azonos korosztályú halak azon cs
 
 c) tenyészhal: a tenyésztő szervezet által fenntartott halfajtához tartozó tenyészállat (beleértve lárva, előnevelt ivadék, ivadéknövendék);
 
-d)[^1] üzemeltető: az a természetes személy vagy jogi személy, továbbá jogi személyiséggel nem rendelkező szervezet, aki, vagy amely a halkeltető állomás üzemeltetéséért akár állandó, akár ideiglenes jelleggel felelős.
+d)[^2] üzemeltető: az a természetes személy vagy jogi személy, továbbá jogi személyiséggel nem rendelkező szervezet, aki, vagy amely a halkeltető állomás üzemeltetéséért akár állandó, akár ideiglenes jelleggel felelős.
 
-[^1]: A 2. § d) pontja a 22/2014. (III. 14.) VM rendelet 80. §-a szerint módosított szöveg.
+[^2]: A 2. § d) pontja a 22/2014. (III. 14.) VM rendelet 80. §-a szerint módosított szöveg.
