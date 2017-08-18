@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-59-20-8
 | 2014-03-15 | 2008-59-20-82.8 | 22/2014. (III. 14.) VM rendelet |
 | 2014-12-03 | 2008-59-20-82.9 | 28/2014. (XI. 25.) FM rendelet |
 | 2016-01-01 | 2008-59-20-82.10 | 93/2015. (XII. 23.) FM rendelet |
+| 2017-08-18 | 2008-59-20-82.11 | 42/2017. (VIII. 17.) FM rendelet |

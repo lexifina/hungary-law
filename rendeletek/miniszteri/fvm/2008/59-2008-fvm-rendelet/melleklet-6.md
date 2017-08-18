@@ -240,33 +240,57 @@ Adatszolgáltatási időszak: _ _ _ _ . _ _ . _ _ - _ _ _ _ . _ _�
 
 | 11. |  | _ _ |  | _ _ | _ _ _ _ _ _ _ _ |  |  |
 
-2.3. A trágyatároló kapacitása és a tárgyév utolsó napján tárolt szervestrágya mennyisége
+2.2.1. Trágyafeldolgozás
 
-........ oldal
+......... oldal
 
 | TH KTJ | _ _ _ _ _ _ _ _ _ |
 
-| Hígtrágya |
+| Feldolgozott hígtrágya mennyisége | m3/év | Feldolgozott istállótrágya mennyisége | t/év |
 
-| Tároló adatai | Tárolás módja (kód) | Tárolt hígtrágya mennyisége (m3) |
+| A hígtrágya-feldolgozás technológiája | Az istállótrágya-feldolgozás technológiája |
 
-| EH-KTJ | MePAR blokkazonosító | EOV koordináta pár (X; Y) | Kapacitás (m3) |  |  |
+| 1. |  | 1. |  |
 
-| 1. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |
+| 2. |  | 2. |  |
 
-| 2. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |
+| 3. |  | 3. |  |
 
-| 3. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |
+| 4. |  | 4. |  |
 
-| 4. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |
+| 5. |  | 5. |  |
 
-| 5. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |
+| 6. |  | 6. |  |
 
-| 6. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |
+2.3. A trágyatároló kapacitása és a tárgyév utolsó napján tárolt szervestrágya mennyisége
 
-| 7. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |
+........ oldal
 
-| Istállótrágya |
+7K18414M_4
+
+| TH KTJ |  | _ _ _ _ _ _ _ _ _ |
+
+|  | Hígtrágya |
+
+| Tároló adatai | Tá- rolás mód- ja (kód) | Fedettség (kód) | Tárolt hígtrágya mennyisége (m3) |
+
+| EH-KTJ | MePAR blokkazonosító | EOV koordináta pár (X; Y) | Kapacitás (m3) |  |  |  |
+
+| 1. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |  |
+
+| 2. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |  |
+
+| 3. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |  |
+
+| 4. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |  |
+
+| 5. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |  |
+
+| 6. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |  |
+
+| 7. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |  |
+
+|  | Istállótrágya |
 
 | Tároló adatai | Tárolás módja (kód) | Tárolt istállótrágya mennyisége (tonna) |
 
@@ -283,8 +307,6 @@ Adatszolgáltatási időszak: _ _ _ _ . _ _ . _ _ - _ _ _ _ . _ _�
 | 5. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |
 
 | 6. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |
-
-| 7. | _ _ _ _ _ _ _ _ _ | _ _ _ _ _-_ - _ _ | _ _ _ _ _ _;_ _ _ _ _ _ |  | _ _ |  |
 
 Dátum:
 
@@ -324,31 +346,31 @@ aláírás
 
 3.2. A trágyakijuttatás adatai a tárgyévben
 
-|  | Település | Helyrajzi szám | MePAR blokk-azonosító | Termesztett növény | Termés t/ha | Trágyázott terület (ha) | Szerves trágya típusa (kód) | Kijuttatott szervestrágya | Szerves- trágyával kijuttatott N hatóanyag kg/ha | N műtrágya hatóanyag (kg/ha) |
+|  | Település | Helyrajzi szám | MePAR blokk- azonosító | Termesztett növény | Termés t/ha | Trágyázott terület (ha) | Szerves trágya típusa (kód) | Kijuttatott szervestrágya | Szerves- trágyával kijuttatott N hatóanyag kg/ha | N műtrágya hatóanyag (kg/ha) |
 
-| Hígtrágya (m3/ha) | Istállótrágya (t/ha) |
+| Hígtrágya (m3/ha) | Kijuttatás módja | Istállótrágya (t/ha) |
 
-| 1. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
+| 1. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |  |
 
-| 2. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
+| 2. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |  |
 
-| 3. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
+| 3. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |  |
 
-| 4. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
+| 4. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |  |
 
-| 5. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
+| 5. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |  |
 
-| 6. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
+| 6. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |  |
 
-| 7. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
+| 7. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |  |
 
-| 8. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
+| 8. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |  |
 
-| 9. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
+| 9. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |  |
 
-| 10. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
+| 10. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |  |
 
-| 11. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
+| 11. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |  |
 
 3.3. Nyilatkozat a más gazdálkodónak átadott vagy más gazdálkodótól átvett trágyáról
 
@@ -372,4 +394,4 @@ aláírás
 
 Nyilatkozat: Büntetőjogi felelősségem tudatában kijelentem, hogy az Adatlapban közölt adatok a valóságnak megfelelnek. Hozzájárulok, hogy a talajvédelmi hatóság az adatlapon feltüntetett személyes adataimat kezelje.
 
-[^28]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított, a 93/2015. (XII. 23.) FM rendelet 3. §-a és 6. §-a szerint módosított szöveg.
+[^28]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított, a 93/2015. (XII. 23.) FM rendelet 3. §-a és 6. §-a, a 42/2017. (VIII. 17.) FM rendelet 112. §-a szerint módosított szöveg.
