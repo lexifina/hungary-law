@@ -1,1 +1,0 @@
-## 8. § Ez a rendelet a bizonyos tagállamoknak a méhcsaládpusztulásról szóló önkéntes felügyeleti tanulmányok elkészítéséhez nyújtott, a 2013/2014-es idényre szóló uniós pénzügyi hozzájárulásról szóló, 2013. október 17-i 2013/512/EU bizottság végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
