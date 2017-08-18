@@ -26,16 +26,16 @@ A vizsgálatok eredménye alapján az állomány tojásait baromfitífusz szempo
 
 ...........................................................
 
-járási főállatorvos
+járási hivatalvezető
 
 Magyarázat az 5. számú melléklethez:
 
-A függelék szerinti ,,Állatorvosi Igazolást'' négy példányban kell kiállítani:
+A függelék szerinti „Állatorvosi Igazolást” négy példányban kell kiállítani:
 
-– a tőpéldányt a járási főállatorvos iktatja,
+– a tőpéldányt a járási hivatal iktatja,
 
-– egy példány szolgálati úton az az illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatósághoz küldendő,
+– egy példány szolgálati úton az illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatalhoz küldendő,
 
 – két példány az állattartónál marad, és ebből egy példányt a tojásszállítmánnyal a keltetőnek vagy a forgalmazónak kell küldeni.
 
-[^27]: Az 5. számú melléklet a 2/2008. (I. 4.) FVM rendelet 11. § (6) bekezdésének c) pontja, a 151/2012. (XII. 29.) VM rendelet 10. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 18. § g) pontja szerint módosított szöveg.
+[^27]: Az 5. számú melléklet a 42/2017. (VIII. 17.) FM rendelet 35. §-ával megállapított szöveg.
