@@ -4,10 +4,10 @@
 
 a) eléri vagy meghaladja a megmaradt összes család ötven százalékát, minden megmaradt családot le kell ölni;
 
-b)[^22] nem éri el a megmaradt összes család ötven százalékát, a járási főállatorvos a helyi körülmények függvényében rendeli el az összes méhcsalád vagy csak a beteg családok leölését.
+b)[^22] nem éri el a megmaradt összes család ötven százalékát, a járási hivatal a helyi körülmények függvényében rendeli el az összes méhcsalád vagy csak a beteg családok leölését.
 
 (3) Ha a (2) bekezdés b) pontja alapján nem irtják ki az összes megmaradt méhcsaládot, de a megfigyelési idő alatt ismét újabb beteg családot találnak, minden megmaradt családot le kell ölni.
 
 (4) Ha egy kaptárban a beteg méhcsalád mellett betegségre vagy fertőzöttségre gyanús méhcsaládot is találtak, a beteg családdal együtt azt a helyi viszonyok figyelembevételével lehet leöletni.
 
-[^22]: A 24. § (2) bekezdés b) pontja a 151/2012. (XII. 29.) VM rendelet 18. § b) pontja szerint módosított szöveg.
+[^22]: A 24. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 48. § a) pontja szerint módosított szöveg.

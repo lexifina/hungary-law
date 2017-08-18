@@ -8,10 +8,10 @@ c) elvégezni e jogszabály által előírt vizsgálatokat (monitoring, vándoro
 
 d) elkészíteni a vizsgálatokkal kapcsolatos, előírt kimutatásokat;
 
-e)[^3] részt venni az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által szervezett továbbképzéseken;
+e)[^3] részt venni a megyei kormányhivatal által szervezett továbbképzéseken;
 
 f) közreműködni a méhek mérgezésével kapcsolatos eljárásban, különös tekintettel a mérgezés gyanúja esetén a mintavételben.
 
 (2) A méhegészségügyi felelős díjazását, költségeinek megtérítését külön jogszabály tartalmazza.
 
-[^3]: A 6. § (1) bekezdés e) pontja a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^3]: A 6. § (1) bekezdés e) pontja a 42/2017. (VIII. 17.) FM rendelet 48. § d) pontja szerint módosított szöveg.
