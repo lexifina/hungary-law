@@ -56,7 +56,7 @@ mikrovállalkozás: kevesebb mint 10 személyt foglalkoztat, éves forgalma és/
 
 5.[^36] Kötelezettségvállalás
 
-5.1. a terület növényegészségügyi alkalmasságának az elvégzett vizsgálatok alapján történő igazolása hiányában, illetve a támogatási keret kimerülése, valamint a jogosultsági feltételek bármelyikének hiánya esetén, az elvégzett növényegészségügyi szolgáltatás számla szerinti teljes összegét a növény- és talajvédelmi igazgatóság és a NÉBIH részére történő megfizetéséről.
+5.1.[^37] a terület növényegészségügyi alkalmasságának az elvégzett vizsgálatok alapján történő igazolása hiányában, illetve a támogatási keret kimerülése, valamint a jogosultsági feltételek bármelyikének hiánya esetén, az elvégzett növényegészségügyi szolgáltatás számla szerinti teljes összegét a járási hivatal és a NÉBIH részére történő megfizetéséről.
 
 6. Keltezés, a kérelmező (cégszerű) aláírása
 
@@ -67,3 +67,4 @@ mikrovállalkozás: kevesebb mint 10 személyt foglalkoztat, éves forgalma és/
 [^34]: Az 1. számú melléklet 4. pont 4.5. alpontját a 6/2015. (III. 10.) FM rendelet 8. § (1) bekezdése iktatta be.
 [^35]: Az 1. számú melléklet 4. pont 4.6. alpontját a 6/2015. (III. 10.) FM rendelet 8. § (1) bekezdése iktatta be.
 [^36]: Az 1. számú melléklet 5. pontja a 12/2014. (IX. 24.) FM rendelet 4. §-ával megállapított szöveg.
+[^37]: Az 1. számú melléklet 5.1. pontja a 42/2017. (VIII. 17.) FM rendelet 97. § b) pontja szerint módosított szöveg.

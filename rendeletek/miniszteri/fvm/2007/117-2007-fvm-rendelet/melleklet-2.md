@@ -1,4 +1,4 @@
-2. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^37]
+2. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^38]
 
 Kifizetési kérelem adattartalma
 
@@ -16,7 +16,7 @@ Kifizetési kérelem adattartalma
 
 4.3. mikro-, kis- vagy középvállalkozás minősítés feltüntetése;
 
-5. A növény- és talajvédelmi igazgatóság, valamint a NÉBIH által kiállított számla számának megjelölése;
+5.[^39] A járási hivatal, valamint a NÉBIH által kiállított számla számának megjelölése;
 
 6. A számlán szereplő támogatható nettó érték forintban;
 
@@ -28,4 +28,5 @@ Kifizetési kérelem adattartalma
 
 10. Melléklet: az elvégzett szolgáltatásokról kiállított számlák másolatai.
 
-[^37]: A 2. számú melléklet a 6/2015. (III. 10.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^38]: A 2. számú melléklet a 6/2015. (III. 10.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^39]: A 2. számú melléklet 5. pontja a 42/2017. (VIII. 17.) FM rendelet 97. § b) pontja szerint módosított szöveg.

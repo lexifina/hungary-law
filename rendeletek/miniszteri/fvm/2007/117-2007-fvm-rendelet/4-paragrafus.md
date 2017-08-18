@@ -14,7 +14,7 @@ a) a támogatott növényegészségügyi szolgáltatás általános forgalmi ad�
 
 b) a támogatott növényegészségügyi laboratóriumi vizsgálatokkal kapcsolatos, általános forgalmi adó összegét nem tartalmazó költségek 100 százaléka.
 
-(6)[^12] A növény- és talajvédelmi igazgatóság és a NÉBIH a támogatott növényegészségügyi szolgáltatást igénybe vevő részére az elvégzett szolgáltatásról számlát állít ki, amely tételesen tartalmazza a növényegészségügyi szolgáltatás megnevezését, ellenértékét, valamint a szolgáltatás ellenértékének támogatás tartalmát.
+(6)[^12] A járási hivatal és a NÉBIH a támogatott növényegészségügyi szolgáltatást igénybe vevő részére az elvégzett szolgáltatásról számlát állít ki, amely tételesen tartalmazza a növényegészségügyi szolgáltatás megnevezését, ellenértékét, valamint a szolgáltatás ellenértékének támogatás tartalmát.
 
 (7)[^13] Az (5) bekezdés szerint meghatározott támogatás mértéke esetében a 100 százalék nem léphető túl az ugyanazon elszámolható költségek tekintetében nyújtott bármely egyéb – állami vagy uniós társfinanszírozású – támogatási összeg és biztosítói kifizetés figyelembevételével sem.
 
@@ -23,5 +23,5 @@ b) a támogatott növényegészségügyi laboratóriumi vizsgálatokkal kapcsola
 [^9]: A 4. § új (3) bekezdését a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta, hatályon kívül helyezte a 46/2013. (VI. 3.) VM rendelet 6. §-a.
 [^10]: A 4. § új (4) bekezdését a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatta, szövege a 46/2013. (VI. 3.) VM rendelet 5. § 4. pontja, a 6/2015. (III. 10.) FM rendelet 9. § a) pontja, a 88/2016. (XII. 29.) FM rendelet 16. § a) pontja szerint módosított szöveg.
 [^11]: A 4. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése, szövege a 46/2013. (VI. 3.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^12]: A 4. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése, szövege a 46/2013. (VI. 3.) VM rendelet 5. § 5. pontja szerint módosított szöveg.
+[^12]: A 4. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése, szövege a 46/2013. (VI. 3.) VM rendelet 5. § 5. pontja, a 42/2017. (VIII. 17.) FM rendelet 97. § b) pontja szerint módosított szöveg.
 [^13]: A 4. § eredeti (5) bekezdésének számozását (7) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése, hatályon kívül helyezte a 46/2013. (VI. 3.) VM rendelet 6. §-a. Újonnan a 6/2015. (III. 10.) FM rendelet 3. §-a iktatta be.

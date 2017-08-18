@@ -22,8 +22,8 @@ d) nem címzettje valamely támogatás visszafizetésére kötelező olyan bizot
 
 (2) A támogatott szolgáltatás igénybevételének további feltétele, hogy az elvégzett vizsgálat a növényegészségügyi alkalmasságot igazolja.
 
-(3)[^6] Támogatásra a hatósági növényegészségügyi vizsgálatot elvégző megyei kormányhivatal növény- és talajvédelmi igazgatósága (a továbbiakban: növény- és talajvédelmi igazgatóság), valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) jogosult.
+(3)[^6] Támogatásra a hatósági növényegészségügyi vizsgálatot elvégző növény- és talajvédelmi hatáskörben eljáró járási hivatal (a továbbiakban: járási hivatal), valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) jogosult.
 
 [^4]: A 2/A. §-t a 46/2013. (VI. 3.) VM rendelet 1. §-a iktatta be.
 [^5]: A 3. § (1) bekezdése a 6/2015. (III. 10.) FM rendelet 2. §-ával megállapított szöveg.
-[^6]: A 3. § (3) bekezdése a 46/2013. (VI. 3.) VM rendelet 2. § (2) bekezdésével megállapított szöveg. [A 70/2013. (VII. 31.) VM rendelet 78. § a) pontjával elrendelt módosítás, amely szerint a „megyei Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: Hivatal), valamint a Mezőgazdasági Szakigazgatási Hivatal Központja (a továbbiakban: Központ, Központ és Hivatal a továbbiakban együtt: szolgáltató)” szövegrész helyébe a „megyei kormányhivatal növény- és talajvédelmi igazgatósága (a továbbiakban: növény- és talajvédelmi igazgatóság), valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH, NÉBIH és növény- és talajvédelmi igazgatóság a továbbiakban együtt: szolgáltató) szöveg lép, nem vezethető át.]
+[^6]: A 3. § (3) bekezdése a 46/2013. (VI. 3.) VM rendelet 2. § (2) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 97. § a) pontja szerint módosított szöveg.
