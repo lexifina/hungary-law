@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-89-20-1
 | 2015-12-23 | 2015-89-20-11.1 | 89/2015. (XII. 22.) FM rendelet |
 | 2016-12-15 | 2015-89-20-11.2 | 75/2016. (XI. 30.) FM rendelet |
 | 2017-01-01 | 2015-89-20-11.3 | 89/2016. (XII. 29.) FM rendelet |
+| 2017-08-18 | 2015-89-20-11.4 | 42/2017. (VIII. 17.) FM rendelet |

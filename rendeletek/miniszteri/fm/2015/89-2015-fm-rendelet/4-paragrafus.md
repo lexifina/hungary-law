@@ -56,10 +56,12 @@ f) a haszonbérlő szerződésbe foglalandó adatszolgáltatási kötelezettség
 
 g) a haszonbérleti díj mértéke és megfizetésének módja;
 
-h) a kiíró azon joga fenntartásának rögzítése, hogy a pályázati felhívást a pályázat benyújtására nyitva álló határidő lejárta előtt visszavonhatja;
+h)[^2] a kiíró azon joga fenntartásának rögzítése, hogy a pályázati felhívást a pályázat elbírálására nyitva álló határidő lejárta előtt visszavonhatja;
 
 i) a miniszter azon joga fenntartásának rögzítése, hogy
 
 ia) a pályázati eljárást az e rendeletben meghatározott esetekben eredménytelennek nyilvánítsa,
 
 ib) a nyertes pályázó visszalépése, a szerződéskötés meghiúsulása, vagy a nyertes pályázóval kötött haszonbérleti szerződés 6 hónapon belüli megszűnése esetén a pályázati eljárás eredménye szerint a soron következő helyezettel haszonbérleti szerződést kössön.
+
+[^2]: A 4. § (4) bekezdés h) ponjta a 42/2017. (VIII. 17.) FM rendelet 221. §-ával megállapított szöveg.

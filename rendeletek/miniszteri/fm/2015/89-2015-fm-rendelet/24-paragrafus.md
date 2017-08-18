@@ -1,4 +1,4 @@
-24. § (1)[^5] Ha a pályázat olyan nyilvántartott halgazdálkodási vízterületre irányul, amelynek a Hhvtv. alapján előhaszonbérletre jogosult tulajdonosa van, a pályázati döntésre, valamint a szerződéskötésre a (2)–(8) bekezdést kell alkalmazni.
+24. § (1)[^10] Ha a pályázat olyan nyilvántartott halgazdálkodási vízterületre irányul, amelynek a Hhvtv. alapján előhaszonbérletre jogosult tulajdonosa van, a pályázati döntésre, valamint a szerződéskötésre a (2)–(8) bekezdést kell alkalmazni.
 
 (2) Az előhaszonbérletre való jogot nem érinti az a körülmény, hogy a tulajdonos az e rendelet szerinti pályázaton indult-e.
 
@@ -22,4 +22,4 @@ d) a halgazdálkodási jog elfogadására vonatkozó jognyilatkozat megtételén
 
 (8) Elfogadó nyilatkozat hiányában a 16–18. §-ban foglaltak az irányadók azzal, hogy a szerződéskötés határidejének kezdő napja a (6) bekezdésben meghatározott határidő lejártát követő nap.
 
-[^5]: A 24. § (1) bekezdése a 75/2016. (XI. 30.) FM rendelet 4. § c) pontja szerint módosított szöveg.
+[^10]: A 24. § (1) bekezdése a 75/2016. (XI. 30.) FM rendelet 4. § c) pontja szerint módosított szöveg.
