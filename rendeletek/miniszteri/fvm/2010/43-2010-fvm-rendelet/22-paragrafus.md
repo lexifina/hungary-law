@@ -20,7 +20,7 @@
 
 (10)[^69] Gázmesteri képesítéssel rendelkező személy külön engedély nélkül, a hatályos gázmesteri képesítés (igazolvány) bemutatásával vásárolhat és használhat fel olyan növényvédő szert, amelynek engedélyokiratában a felhasználás gázmesteri képesítéshez kötött.
 
-(11)[^70] Növényvédő szer felhasználása során elkövetett jogszabálysértés esetén, amennyiben a NÉBIH a kockázatbecslése során olyan elfogadhatatlan kockázatot állapít meg az ember, az állat egészségére vagy a környezetre vonatkozóan, amely nem kezelhető kockázatcsökkentő intézkedésekkel, a megyei kormányhivatal elrendeli
+(11)[^70] Növényvédő szer felhasználása során elkövetett jogszabálysértés esetén, amennyiben a NÉBIH a kockázatbecslése során olyan elfogadhatatlan kockázatot állapít meg az ember, az állat egészségére vagy a környezetre vonatkozóan, amely nem kezelhető kockázatcsökkentő intézkedésekkel, a járási hivatal elrendeli
 
 a) a kifogásolható növényi kultúra megsemmisítését,
 
@@ -36,4 +36,4 @@ b) álló kultúra esetén az azévi termés megsemmisítését.
 [^67]: A 22. § (8) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.
 [^68]: A 22. § (9) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.
 [^69]: A 22. § (10) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.
-[^70]: A 22. § (11) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.
+[^70]: A 22. § (11) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 153. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 3. függelék[^109]
+## 3. függelék[^112]
 
 ## Növényvédelmi gépek biztonsági követelményei
 
@@ -272,7 +272,7 @@
 
 ## A tömlőkön meg kell adni a megengedett nyomást.
 
-## 4. függelék[^110]
+## 4. függelék[^113]
 
 ## Növényvédelmi gépek környezetvédelmi követelményei
 
@@ -850,7 +850,7 @@
 
 ## A tisztítóvíz összegyűjthető és a permetezőgép tartályába juttatható legyen.
 
-## 5. függelék[^111]
+## 5. függelék[^114]
 
 ## Növényvédelmi gép forgalomba hozatali engedélyének mintája
 
@@ -880,17 +880,17 @@
 
 ## aláírás
 
-## 6. függelék[^112]
+## 6. függelék[^115]
 
 ## A forgalomba hozatali engedély hatályosságát igazoló matrica mintája
 
-## 7–10. függelék[^113]
+## 7–10. függelék[^116]
 
-4. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^114]
+4. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^117]
 
-[^109]: A 3. melléklet 3. függeléke a 84/2015. (XII. 17.) FM rendelet 14. § 25–26. pontja szerint módosított szöveg.
-[^110]: A 3. melléklet 4. függeléke a 84/2015. (XII. 17.) FM rendelet 14. § 27. pontja szerint módosított szöveg.
-[^111]: A 3. melléklet 5. függeléke a 70/2013. (VII. 31.) VM rendelet 125. § i) és s) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 23. és 28. pontja szerint módosított szöveg.
-[^112]: A 3. melléklet 6. függeléke a 84/2015. (XII. 17.) FM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^113]: A 3. melléklet 7–10. függelékét a 71/2016. (X. 28.) FM rendelet 2. §-a hatályon kívül helyezte.
-[^114]: A 4. melléklet a 84/2015. (XII. 17.) FM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^112]: A 3. melléklet 3. függeléke a 84/2015. (XII. 17.) FM rendelet 14. § 25–26. pontja szerint módosított szöveg.
+[^113]: A 3. melléklet 4. függeléke a 84/2015. (XII. 17.) FM rendelet 14. § 27. pontja szerint módosított szöveg.
+[^114]: A 3. melléklet 5. függeléke a 70/2013. (VII. 31.) VM rendelet 125. § i) és s) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 23. és 28. pontja szerint módosított szöveg.
+[^115]: A 3. melléklet 6. függeléke a 84/2015. (XII. 17.) FM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^116]: A 3. melléklet 7–10. függelékét a 71/2016. (X. 28.) FM rendelet 2. §-a hatályon kívül helyezte.
+[^117]: A 4. melléklet a 84/2015. (XII. 17.) FM rendelet 13. § (2) bekezdésével megállapított szöveg.

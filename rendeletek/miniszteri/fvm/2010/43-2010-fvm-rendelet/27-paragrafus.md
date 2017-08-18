@@ -22,7 +22,7 @@ g) a raktár bejáratát tömör, szükség esetén fémráccsal megerősített,
 
 h) a raktár ajtajára, jól látható helyen és módon a „Méregraktár” vagy „Növényvédő szer raktár” és „Idegeneknek belépni tilos!” feliratot kell elhelyezni,
 
-i) növényvédő szer raktárt más célra használni csak az egészségügyi államigazgatási szerv által előírt mentesítés után szabad.
+i)[^81] növényvédő szer raktárt más célra használni csak a népegészségügyi hatáskörben eljáró járási (fővárosi kerületi) hivatal által előírt mentesítés után szabad.
 
 (5) Munkaterületen az egynapi felhasználásra előkészített növényvédő szer biztonságosan zárható, alkalmi raktárban is tárolható. Az alkalmi raktár más célra kizárólag az esetleges növényvédő szer szennyeződés maradéktalan eltávolítása után használható.
 
@@ -32,7 +32,7 @@ i) növényvédő szer raktárt más célra használni csak az egészségügyi �
 
 (8) Mikro és makro szervezeteket tartalmazó növényvédő szer tárolására, szállítására és felhasználására a növényvédő szerekre vonatkozó előírásokat kell alkalmazni, ha az engedélyokirat másként nem rendelkezik.
 
-(9)[^81] A növényvédő szer raktárban a növényvédő szerektől elkülönítetten kell tárolni és további felhasználási céljával jelölni
+(9)[^82] A növényvédő szer raktárban a növényvédő szerektől elkülönítetten kell tárolni és további felhasználási céljával jelölni
 
 a) a kiürült, de növényvédő szer átcsomagolására felhasználható, kívül és belül szabályszerűen megtisztított és lezárható növényvédő szer csomagolóeszközt,
 
@@ -54,10 +54,12 @@ c) az ártalmatlanításra váró hulladékokat és sérült csomagolású vagy 
 
 d) a növényvédő szerek szállításához, rakodásához, méréséhez és a növényvédő szer raktár takarításához szükséges munkaeszközöket,
 
-e) az egészségügyi államigazgatási szerv és környezetvédelmi hatóság által megadott feltételekkel egyéb vegyi anyagot, illetve szükség szerinti csomagolásban egyéb termékeket.
+e)[^83] a népegészségügyi hatáskörben eljáró járási (fővárosi kerületi) hivatal és területi környezetvédelmi hatóság által megadott feltételekkel egyéb vegyi anyagot, illetve szükség szerinti csomagolásban egyéb termékeket.
 
 (14) A kiskereskedelmi üzletek növényvédő szert az áruraktár elkülönített részében – más termékkel nem érintkező, élelmiszertől, takarmánytól elzárt légterű – az általános biztonsági követelményeknek megfelelő, a (4) bekezdés h) pontja szerint feliratozott helyiségben is tárolhatnak, az (1) bekezdésben, a (4) bekezdés c)–e) pontjában, továbbá a (11) bekezdés második mondatában, a (12) bekezdésben, valamint a (13) bekezdés a) és c)–e) pontjában foglalt feltételek megtartásával.
 
 (15) Azon logisztikai raktárak, melyek megfelelnek a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló külön jogszabályban és annak végrehajtására kiadott jogszabályokban foglaltaknak, mentesülnek a (4)–(5), (9) és a (12)–(14) bekezdésekben előírt kötelezettségek teljesítése alól.
 
-[^81]: A 27. § (9) bekezdése a 84/2015. (XII. 17.) FM rendelet 11. §-ával megállapított szöveg.
+[^81]: A 27. § (4) bekezdés i) pontja a 42/2017. (VIII. 17.) FM rendelet 153. § g) pontja szerint módosított szöveg.
+[^82]: A 27. § (9) bekezdése a 84/2015. (XII. 17.) FM rendelet 11. §-ával megállapított szöveg.
+[^83]: A 27. § (13) bekezdés e) pontja a 42/2017. (VIII. 17.) FM rendelet 153. § g) és h) pontja szerint módosított szöveg.

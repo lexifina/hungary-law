@@ -4,6 +4,6 @@
 
 (3) Méhekre mérsékelten veszélyes vagy mérsékelten kockázatos minősítésű növényvédő szer kijuttatása – amennyiben ezt a növényvédő szer engedélyokirata lehetővé teszi – kizárólag a házi méhek napi aktív repülésének befejezését követően, legkorábban a csillagászati naplemente előtt egy órával kezdhető meg és legkésőbb 23 óráig tarthat (ezen eljárás a továbbiakban: méhkímélő technológia).
 
-(4)[^34] A növényvédő szerrel végzett növényvédelmi munka következményeként vélelmezett méhelhullást a méhész az észlelést követően haladéktalanul köteles bejelenteni az elhullás helye szerint illetékes megyei kormányhivatalhoz.
+(4)[^34] A növényvédő szerrel végzett növényvédelmi munka következményeként vélelmezett méhelhullást a méhész az észlelést követően haladéktalanul köteles bejelenteni az elhullás helye szerint illetékes járási hivatalhoz.
 
-[^34]: A 15. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 7. pontja szerint módosított szöveg.
+[^34]: A 15. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 7. pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § d) pontja szerint módosított szöveg.
