@@ -118,6 +118,6 @@
 
 |  | pattogató kukorica |
 
-2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^218]
+2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^229]
 
-[^218]: A 2. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^229]: A 2. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.

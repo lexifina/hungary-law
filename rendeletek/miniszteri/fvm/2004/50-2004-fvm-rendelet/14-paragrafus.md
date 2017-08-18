@@ -26,9 +26,9 @@ e) a bértisztításra átvett nyers vetőmagtételek tényleges árutulajdonos 
 
 f) szakismeret, szakmai alkalmasság.
 
-(2)[^51] Az 1. számú melléklet szerinti fajokból vetőmagként az érvényes szántóföldi jegyzőkönyvvel vagy standard igazolással rendelkező vetőmagot lehet feldolgozni.
+(2)[^54] Az 1. számú melléklet szerinti fajokból vetőmagként az érvényes szántóföldi jegyzőkönyvvel vagy standard igazolással rendelkező vetőmagot lehet feldolgozni.
 
-(3)[^52] A vetőmag-feldolgozási tevékenységet a NÉBIH ellenőrzi.
+(3)[^55] A vetőmag-feldolgozási tevékenységet a NÉBIH, illetve a járási hivatal ellenőrzi.
 
-[^51]: A 14. § (2) bekezdése a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg.
-[^52]: A 14. § (3) bekezdése a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő, valamint a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^54]: A 14. § (2) bekezdése a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg.
+[^55]: A 14. § (3) bekezdése a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő, valamint a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 6. pontja szerint módosított szöveg.

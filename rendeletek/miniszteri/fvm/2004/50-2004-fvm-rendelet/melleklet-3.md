@@ -108,7 +108,7 @@
 
 |  | pattogató kukorica |
 
-3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^219]
+3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^230]
 
 ## A zöldség vetőmagvak minőségi feltételei
 
@@ -224,4 +224,4 @@ Bruchus rufimanus Boh.
 
 4.2. A vetőmag nem lehet élő Acarina által fertőzött.
 
-[^219]: A 3. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^230]: A 3. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.

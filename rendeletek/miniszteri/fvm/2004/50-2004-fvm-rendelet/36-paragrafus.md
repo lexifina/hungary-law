@@ -1,10 +1,10 @@
 ## A zöldségpalánta forgalmazó üzem külső felügyelete és ellenőrzése
 
-36. § (1)[^185] A palánta forgalomba hozatalával kapcsolatos valamennyi tevékenységet ellenőrzés céljából, a NÉBIH által rendszeresített bejelentőlapon, évente legkésőbb április 30-ig be kell jelenteni.
+36. § (1)[^194] A palánta forgalomba hozatalával kapcsolatos valamennyi tevékenységet ellenőrzés céljából, a NÉBIH által rendszeresített bejelentőlapon, évente legkésőbb április 30-ig be kell jelenteni.
 
-(2)[^186] A NÉBIH köteles rendszeresen, de legalább évente egyszer a tevékenység jellegének megfelelő időpontban ellenőrizni az engedélyezett üzemeket és megbízott laboratóriumokat, a vonatkozó jogszabályokban foglalt követelmények folyamatos betartásának igazolása érdekében. Az ellenőrzésről jegyzőkönyv készül.
+(2)[^195] A NÉBIH és a járási hivatal köteles rendszeresen, de legalább évente egyszer a tevékenység jellegének megfelelő időpontban ellenőrizni az engedélyezett üzemeket és megbízott laboratóriumokat, a vonatkozó jogszabályokban foglalt követelmények folyamatos betartásának igazolása érdekében. Az ellenőrzésről jegyzőkönyv készül.
 
-(3)[^187] A 35. § (2) bekezdésének a) és b) pontjában foglaltak szerint a termesztési folyamat kritikus pontjainak meghatározásán, valamint a nyilvántartási kötelezettség teljesítésén túlmenően a NÉBIH figyelemmel kíséri és ellenőrzi az üzemet annak érdekében, hogy az üzem
+(3)[^196] A 35. § (2) bekezdésének a) és b) pontjában foglaltak szerint a termesztési folyamat kritikus pontjainak meghatározásán, valamint a nyilvántartási kötelezettség teljesítésén túlmenően a NÉBIH, illetve a járási hivatal figyelemmel kíséri és ellenőrzi az üzemet annak érdekében, hogy az üzem
 
 a) az alábbi kritikus pontokat – a növényfaj sajátosságainak megfelelően – folyamatosan figyelembe vegye
 
@@ -34,7 +34,7 @@ a) az alábbi kritikus pontokat – a növényfaj sajátosságainak megfelelően
 
 13. a nyilvántartás, adminisztráció;
 
-b)[^188] a NÉBIH részére hozzáférhető formában, teljes körű nyilvántartást vezessen:
+b)[^197] a NÉBIH, illetve a járási hivatal részére hozzáférhető formában, teljes körű nyilvántartást vezessen:
 
 1. azokról a növényekről, illetve növényi részekről és egyéb anyagokról,
 
@@ -46,16 +46,16 @@ b)[^188] a NÉBIH részére hozzáférhető formában, teljes körű nyilvántar
 
 2. a növényállománynál alkalmazott valamennyi kezelésről és egyéb eseményről;
 
-c)[^189] biztosítsa, hogy megfelelő szakképzettségű személy tartsa a kapcsolatot a NÉBIH-hel, illetve a növénytermesztési hatáskörében eljáró megyei kormányhivatallal;
+c)[^198] biztosítsa, hogy megfelelő szakképzettségű személy tartsa a kapcsolatot a járási hivatallal;
 
-d)[^190] szükség szerint és megfelelő időközönként ellenőrzést végezzen a NÉBIH által megkívánt módon.
+d)[^199] szükség szerint és megfelelő időközönként ellenőrzést végezzen a NÉBIH által megkívánt módon.
 
-(4)[^191] A zöldség szaporítóanyag harmadik országban való forgalomba hozatala esetén, a NÉBIH akkor adhat az üzem kérésére igazolást a szaporítóanyag minőségének EK megfeleléséről, ha azt az e rendeletben foglaltaknak megfelelően, nem elkülönítve állították elő.
+(4)[^200] A zöldség szaporítóanyag harmadik országban való forgalomba hozatala esetén, a NÉBIH akkor adhat az üzem kérésére igazolást a szaporítóanyag minőségének EK megfeleléséről, ha azt az e rendeletben foglaltaknak megfelelően, nem elkülönítve állították elő.
 
-[^185]: A 36. § (1) bekezdése a 124/2007. (X. 20.) FVM rendelet 15. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^186]: A 36. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja szerint módosított szöveg.
-[^187]: A 36. § (3) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^188]: A 36. § (3) bekezdés b) pont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^189]: A 36. § (3) bekezdés c) pontja 70/2013. (VII. 31.) VM rendelet 32. § i) pontja, a 24/2016. (IV. 8.) FM rendelet 33. § l) pontja szerint módosított szöveg.
-[^190]: A 36. § (3) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^191]: A 36. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^194]: A 36. § (1) bekezdése a 124/2007. (X. 20.) FVM rendelet 15. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^195]: A 36. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 19. pontja szerint módosított szöveg.
+[^196]: A 36. § (3) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 6. pontja szerint módosított szöveg.
+[^197]: A 36. § (3) bekezdés b) pont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 6. pontja szerint módosított szöveg.
+[^198]: A 36. § (3) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 64. § 20. pontja szerint módosított szöveg.
+[^199]: A 36. § (3) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^200]: A 36. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.

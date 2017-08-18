@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-50-20-8
 | 2014-03-29 | 2004-50-20-82.14 | 14/2011. (II. 24.) VM rendelet |
 | 2016-04-16 | 2004-50-20-82.15 | 24/2016. (IV. 8.) FM rendelet |
 | 2017-04-01 | 2004-50-20-82.16 | 47/2016. (VII. 15.) FM rendelet |
+| 2017-08-18 | 2004-50-20-82.17 | 42/2017. (VIII. 17.) FM rendelet |

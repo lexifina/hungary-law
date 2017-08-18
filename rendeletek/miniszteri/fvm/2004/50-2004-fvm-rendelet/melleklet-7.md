@@ -96,7 +96,7 @@
 
 ## 3 Standard vetőmagnál: sötét sárga.
 
-7. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^223]
+7. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^234]
 
 ## A más tagállamban betakarított, nem véglegesen certifikált vetőmagvak címkéjére és okmányára vonatkozó részletes előírások
 
@@ -144,4 +144,4 @@
 
 3.11. a hatósági sorszám.
 
-[^223]: A 7. számú melléklet a 47/2016. (VII. 15.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^234]: A 7. számú melléklet a 47/2016. (VII. 15.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.

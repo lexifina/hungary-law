@@ -6,7 +6,7 @@ b) a fajta nemesítője vagy fenntartója, valamint
 
 c) az anyamag jogszerű használója.
 
-(2)[^64] A minősítési eljárás megindítására irányuló kérelemben a NÉBIH, illetve a növénytermesztési hatáskörében eljáró megyei kormányhivatal részére meg kell adni, illetve ahhoz csatolni kell
+(2)[^67] A minősítési eljárás megindítására irányuló kérelemben a NÉBIH, illetve a járási hivatal részére meg kell adni, illetve ahhoz csatolni kell
 
 a) a kérelmező vagy a vetőmag-előállító nevét és címét, adószámát, illetve adóazonosító jelét,
 
@@ -24,4 +24,4 @@ g) nyilatkozatot arról, hogy a fajta valamely tagállamban vagy szerződött or
 
 h) nyilatkozatot az anyamag jogszerű használatáról.
 
-[^64]: A 17. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 24/2016. (IV. 8.) FM rendelet 33. § g) pontja szerint módosított szöveg.
+[^67]: A 17. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 5. pontja szerint módosított szöveg.

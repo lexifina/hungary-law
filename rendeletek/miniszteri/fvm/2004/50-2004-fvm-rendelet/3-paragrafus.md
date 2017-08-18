@@ -6,7 +6,7 @@ a) technikai tisztaság,
 
 b) mentesség idegen fajú magtól és gyommagvaktól,
 
-c)[^21]
+c)[^24]
 
 d) csírázóképesség,
 
@@ -18,7 +18,7 @@ g) minden olyan tulajdonság, amely a rendeltetésszerű vetőmaghasználat, a t
 
 (2) A vetőmagot a 15. §-ban foglaltak szerint megfelelő módon kell csomagolni és jelölésekkel ellátni.
 
-(3)[^22] A vetőmagot faj- és fajtaazonosságának ellenőrzése céljából hatósági utóellenőrzés alá kell vetni a 24. §-ban meghatározott előírások szerint.
+(3)[^25] A vetőmagot faj- és fajtaazonosságának ellenőrzése céljából hatósági utóellenőrzés alá kell vetni a 24. §-ban meghatározott előírások szerint.
 
-[^21]: A 3. § (1) bekezdésének c) pontját a 124/2007. (X. 20.) FVM rendelet 19. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^22]: A 3. § (3) bekezdése a 124/2007. (X. 20.) FVM rendelet 3. §-ával megállapított szöveg.
+[^24]: A 3. § (1) bekezdésének c) pontját a 124/2007. (X. 20.) FVM rendelet 19. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^25]: A 3. § (3) bekezdése a 124/2007. (X. 20.) FVM rendelet 3. §-ával megállapított szöveg.
