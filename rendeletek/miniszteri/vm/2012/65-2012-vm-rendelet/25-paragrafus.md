@@ -1,6 +1,6 @@
 ## 8. Mintavételi eljárás, mintavételi jegyzőkönyv, ellenminta
 
-25. § (1)[^12] A járási állategészségügyi hivatal, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, illetve a NÉBIH (a továbbiakban: eljáró hatóság) képviselője az ellenőrzés, felülvizsgálat, illetve helyszíni szemle során
+25. § (1)[^35] A járási hivatal, a megyei kormányhivatal, illetve a NÉBIH (a továbbiakban: eljáró hatóság) képviselője az ellenőrzés, felülvizsgálat, illetve helyszíni szemle során
 
 a) a 178/2002/EK európai parlamenti és tanácsi rendelet 53. cikkének (1) bekezdése alapján elfogadott intézkedésben meghatározott mintavételi szabályok szerint,
 
@@ -64,4 +64,4 @@ o) a minta azonosító száma.
 
 (6) Az eljáró hatóság képviselője által vett takarmányminták – ideértve jogorvoslati eljárás során az ellenminta – vizsgálatait a NÉBIH által hatósági takarmányvizsgálatra kijelölt laboratóriumok végzik.
 
-[^12]: A 25. § (1) bekezdése a a 143/2012. (XII. 27.) VM rendelet 3. §-ával megállapított szöveg.
+[^35]: A 25. § (1) bekezdése a 143/2012. (XII. 27.) VM rendelet 3. §-ával megállapított, nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 182. § b) és g) pontja szerint módosított szöveg.

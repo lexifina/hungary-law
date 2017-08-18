@@ -1,6 +1,6 @@
 9. melléklet a 65/2012. (VII. 4.) VM rendelethez
 
-Tárolók, szállítók bejelentésekor a járási állategészségügyi hivatalhoz benyújtandó adatok[^63]
+Tárolók, szállítók bejelentésekor a járási hivatalhoz benyújtandó adatok[^89]
 
 1. név,
 
@@ -26,4 +26,4 @@ Tárolók, szállítók bejelentésekor a járási állategészségügyi hivatal
 
 12. a tárolás/szállítás nyilvántartásainak és folyamatának leírása (bejövő-, kimenő anyagok forgalma).
 
-[^63]: A 9. melléklet címe a 151/2012. (XII. 29.) VM rendelet 58. § b) pontja szerint módosított szöveg.
+[^89]: A 9. melléklet címe a 42/2017. (VIII. 17.) FM rendelet 182. § f) pontja szerint módosított szöveg.

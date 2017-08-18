@@ -1,4 +1,4 @@
-4. § (1)[^1] A 3. mellékletben felsorolt engedélyköteles létesítmények és az elsődleges előállítók létesítményeinek kivételével valamennyi, az Éltv. hatálya alá tartozó takarmány-vállalkozási létesítményt – ideértve a mobil keverőt is – a kérelmező bejelentése alapján a járási állategészségügyi és élelmiszer-ellenőrző hivatal (a továbbiakban: járási hivatal) veszi nyilvántartásba. Nem kell a járási állategészségügyi hivatalnál külön bejelenteni a takarmányt is forgalmazó üzletet, amennyiben a takarmány-vállalkozó a takarmány forgalmazására vonatkozó bejelentést megtette a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet szerinti működési engedély iránti kérelmében.
+4. § (1)[^8] A 3. mellékletben felsorolt engedélyköteles létesítmények és az elsődleges előállítók létesítményeinek kivételével valamennyi, az Éltv. hatálya alá tartozó takarmány-vállalkozási létesítményt – ideértve a mobil keverőt is – a kérelmező bejelentése alapján az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal (a továbbiakban: járási hivatal) veszi nyilvántartásba. Nem kell a járási hivatalnál külön bejelenteni a takarmányt is forgalmazó üzletet, amennyiben a takarmány-vállalkozó a takarmány forgalmazására vonatkozó bejelentést megtette a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet szerinti működési engedély iránti kérelmében.
 
 (2) Az (1) bekezdés szerinti takarmány-vállalkozási létesítmények közül a takarmányok szállítását, illetve tárolását végző takarmány-vállalkozások létesítményeinek nyilvántartásba vételéhez a bejelentést a 9. melléklet szerint kell benyújtani.
 
@@ -8,4 +8,4 @@
 
 (5) Mobil keverőt Magyarországon csak engedélyezett vagy nyilvántartásba vett takarmány-vállalkozó működtethet. Mobil keverő a 3. melléklet szerinti tevékenységet nem végezhet.
 
-[^1]: A 4. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 58. § a)–b) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 58. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 182. § e) pontja szerint módosított szöveg.
