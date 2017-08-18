@@ -2,7 +2,7 @@
 
 ## Egyéb rendelkezések
 
-12. § (1)[^15] A mezőgazdasági vállalkozások a pénzügyi intézményekhez az előírt példányban és tartalommal rendelkező hitel- és lízingkérelmeket nyújthatnak be, amelyeknek elválaszthatatlan mellékletét képezi a megyei kormányhivatal feladatkörrel rendelkező mezőgazdasági szakigazgatási szerve (a továbbiakban: mezőgazdasági szakigazgatási szerv) által kiállított hatósági bizonyítvány.
+12. § (1)[^15] A mezőgazdasági vállalkozások a pénzügyi intézményekhez az előírt példányban és tartalommal rendelkező hitel- és lízingkérelmeket nyújthatnak be, amelyeknek elválaszthatatlan mellékletét képezi a földművelésügyi hatáskörben eljáró megyeszékhely szerinti járási hivatal (a továbbiakban: mezőgazdasági szakigazgatási szerv) által kiállított hatósági bizonyítvány.
 
 (2)[^16] A mezőgazdasági szakigazgatási szerv hatósági bizonyítványt állít ki arról, hogy a hitelkérelemben meghatározott célkitűzések közül, melyek azok, amelyek megfelelnek:
 
@@ -24,7 +24,7 @@ b) lízingkérelem benyújtása esetén a 10. § (2) bekezdés szerinti dokument
 
 (5)[^18] A mezőgazdasági szakigazgatási szerv az általa hatósági bizonyítvánnyal ellátott hitel- és lízingkérelmekről az adott hónapot követő 15-éig az 5. számú melléklet szerint adatszolgáltatást nyújt a miniszter részére. A miniszter a rendelkezésére álló adatok alapján jogosult a hatósági bizonyítvány iránti kérelmek mezőgazdasági szakigazgatási szervhez történő benyújtásának közlemény útján történő felfüggesztésére.
 
-[^15]: A 12. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 98. § e) pontja szerint módosított szöveg.
+[^15]: A 12. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 98. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 119. § b) pontja szerint módosított szöveg.
 [^16]: A 12. § (2) bekezdés nyitó szövegrésze a 171/2009. (XII. 22.) FVM rendelet 6. § (5) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 98. § f) pontja szerint módosított szöveg.
 [^17]: A 12. § (3) bekezdése a 171/2009. (XII. 22.) FVM rendelet 6. § (6) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 98. § g) és h) pontja, a 19/2014. (III. 12.) VM rendelet 28. § b) pontja szerint módosított szöveg.
 [^18]: A 12. § (5) bekezdése a 171/2009. (XII. 22.) FVM rendelet 6. § (7) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 98. § f) és i) pontja szerint módosított szöveg.

@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-114-20-
 | 2014-04-05 | 2008-114-20-82.9 | 36/2014. (IV. 4.) VM rendelet |
 | 2015-06-10 | 2008-114-20-82.10 | 31/2015. (VI. 9.) FM rendelet |
 | 2017-01-01 | 2008-114-20-82.11 | 171/2009. (XII. 22.) FVM rendelet |
+| 2017-08-18 | 2008-114-20-82.12 | 70/2013. (VII. 31.) VM rendelet |

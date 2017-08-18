@@ -56,7 +56,7 @@
 
 A 114/2008. (IX. 5.) FVM rendelet 12. § (5) bekezdése szerinti adatszolgáltatási adatlap
 
-Adatszolgáltató: ………………………………………….. Megyei Kormányhivatal ....................... Igazgatósága
+Adatszolgáltató: ………………………………………….. Járási Hivatal
 
 Ügyintéző neve, telefonszáma: ……………………………………………………
 
@@ -87,4 +87,4 @@ aláírás
 [^27]: A 4. számú melléklet I. 5. pontja a 70/2013. (VII. 31.) VM rendelet 98. § l) pontja szerint módosított szöveg.
 [^28]: A 4. számú melléklet I. 6. pontja a 70/2013. (VII. 31.) VM rendelet 98. § k) pontja szerint módosított szöveg.
 [^29]: A 4. számú melléklet II. 11. pontja a 70/2013. (VII. 31.) VM rendelet 98. § m) pontja szerint módosított szöveg.
-[^30]: Az 5. számú melléklet a 70/2013. (VII. 31.) VM rendelet 98. § n) pontja szerint módosított szöveg.
+[^30]: Az 5. számú melléklet a 70/2013. (VII. 31.) VM rendelet 98. § n) pontja, a 42/2017. (VIII. 17.) FM rendelet 119. § c) pontja szerint módosított szöveg.
