@@ -34,7 +34,7 @@ i) a 6. § (1) bekezdése szerinti kötelezettségének eleget tesz.
 
 (4) A támogatás egy állományra évente egy alkalommal, állategység alapján igényelhető. Az állategység számításának módját az 1. melléklet tartalmazza. A támogatási összeget a darabszám és az állategységnek az 1. melléklet szerinti táblázat alapján kiszámított – kerekítés nélküli – számának szorzataként kell megállapítani.
 
-(5) Az étkezési tojást termelő tyúkállomány állatlétszámát a kezelő állatorvos a kormányhivatal igazolása, tenyészbaromfi esetében a NÉBIH vagy a kormányhivatal által kiállított hatósági bizonyítvány alapján igazolja.
+(5)[^2] Az étkezési tojást termelő tyúkállomány állatlétszámát a kezelő állatorvos a járási hivatal igazolása, tenyészbaromfi esetében a NÉBIH vagy a járási hivatal által kiállított hatósági bizonyítvány alapján igazolja.
 
 (6) Étkezési tojást termelő tyúk vagy tenyészbaromfi tartása során az állomány részére legfeljebb 2,5 mg/kg deoxinivalenol tartalmú tojótápnak a támogatási kérelem benyújtását megelőzően történő biztosítása e rendelet alapján nem támogatható.
 
@@ -45,3 +45,5 @@ i) a 6. § (1) bekezdése szerinti kötelezettségének eleget tesz.
 (9) A támogatás – mint az Iránymutatások szerint engedélyezett támogatás – nem halmozható csekély összegű támogatással ugyanazon elszámolható költségek tekintetében, ha az ilyen halmozódás eredményeként a támogatási intenzitás vagy a támogatási összeg meghaladná az Iránymutatásokban megállapított értékeket.
 
 (10) A támogatás ugyanazon elszámolható költségek tekintetében nem halmozható az 1305/2013/EU európai parlamenti és tanácsi rendelet 81. cikkének (2) bekezdésében és 82. cikkében meghatározott kifizetésekkel, ha az ilyen halmozódás eredményeként a támogatási intenzitás vagy a támogatási összeg meghaladná az Iránymutatásokban megállapított értékeket.
+
+[^2]: A 2. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 227. § b) pontja szerint módosított szöveg.

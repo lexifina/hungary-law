@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-38-20-1
 | 2016-06-10 | 2016-38-20-11.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-38-20-11.3 | 88/2016. (XII. 29.) FM rendelet |
 | 2017-02-14 | 2016-38-20-11.4 | 6/2017. (II. 13.) FM rendelet |
+| 2017-08-18 | 2016-38-20-11.5 | 42/2017. (VIII. 17.) FM rendelet |
