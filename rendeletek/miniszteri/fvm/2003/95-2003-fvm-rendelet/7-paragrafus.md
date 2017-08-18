@@ -6,10 +6,10 @@
 
 (4)[^5] A génrezervátumok kijelölését, nyilvántartását, az általános kezelési irányelvek kidolgozását, valamint a fajokra lebontott genetikai állapotleltár elkészítését és aktualizálását a NÉBIH végzi, a Génbank Tanács Erdészeti Munkabizottságának szakmai útmutatásával.
 
-(5)[^6] A génrezervátumok egyedi kezelési utasítását a Génbank Tanács Erdészeti Munkabizottsága által készített útmutató alapján erdészeti genetikai, génökológiai ismeretekkel rendelkező szervezetnek kell elkészítenie. A kezelési utasítást a hatályos üzemtervhez kell csatolni. A génrezervátum elsődleges rendeltetést az Állami Erdészeti Szolgálat bejegyzi az Üzemtervbe, engedélyezi és nyilvántartja az elsődleges rendeltetésnek megfelelő erdőművelési beavatkozásokat. A kezelési utasításban foglalt kötelezettségek betartását a NÉBIH mint kijelölt hatóság ellenőrzi.
+(5)[^6] A génrezervátumok egyedi kezelési utasítását a Génbank Tanács Erdészeti Munkabizottsága által készített útmutató alapján erdészeti genetikai, génökológiai ismeretekkel rendelkező szervezetnek kell elkészítenie. A kezelési utasításban foglaltakat a körzeti erdőtervezés során figyelembe kell venni.
 
 (6) Az in situ módszerrel nem, vagy nem kielégítő biztonsággal megőrizhető fajok, illetve populációk genetikai anyagát az EUFORGEN/IPGRI által meghatározott és a Génbank Tanács Erdészeti Munkabizottságának hazai viszonyokra aktualizált prioritásai és módszerei szerint létesített génbank ültetvényben kell megőrizni.
 
 [^4]: A 7. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 28. § d) és e) pontja, a 19/2014. (III. 12.) VM rendelet 9. § a) pontja szerint módosított szöveg.
 [^5]: A 7. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 28. § f) pontja szerint módosított szöveg.
-[^6]: A 7. § (5) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (8) bekezdés c) pontja, a 19/2014. (III. 12.) VM rendelet 9. § b) pontja szerint módosított szöveg.
+[^6]: A 7. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 52. §-ával megállapított szöveg.
