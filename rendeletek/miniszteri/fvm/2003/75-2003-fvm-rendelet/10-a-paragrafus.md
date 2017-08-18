@@ -22,7 +22,7 @@ d)[^52] a helyettesítést végző minősítő működési engedélyének szám�
 
 e)[^53] a vágóhíd nyilatkozatát arról, hogy a minősítőt más munkafeladattal nem bízza meg.
 
-(4)[^54] Ha az engedélyt kérő minősítő az e rendeletben előírt tevékenység(ek) ellátásáról más minősítővel vagy minősítő szervezettel való együttműködés útján kíván gondoskodni, akkor az érintett feladatok körét és azok elvégzésének módját, valamint az együttműködők kapcsolatát és felelősségét külön megállapodásban kell rögzíteni. A megállapodást az engedély iránti kérelemmel együtt a NÉBIH-hez kell benyújtani.
+(4)[^54] Ha az engedélyt kérő minősítő az e rendeletben előírt tevékenység(ek) ellátásáról más minősítővel vagy minősítő szervezettel való együttműködés útján kíván gondoskodni, akkor az érintett feladatok körét és azok elvégzésének módját, valamint az együttműködők kapcsolatát és felelősségét külön megállapodásban kell rögzíteni. A megállapodást az engedély iránti kérelemmel együtt a Pest Megyei Kormányhivatalhoz kell benyújtani.
 
 (5) A minősítő
 
@@ -32,7 +32,7 @@ b) rendelkezik a minősítéshez jogszabályban előírt, hitelesített minősí
 
 c) tevékenységéről naprakész nyilvántartást vezet;
 
-d)[^55] a NÉBIH-nek nyolc napon belül jelentést tesz a működésében, tevékenységének személyi és a tárgyi feltételeiben történt változásról, valamint a vele szerződéses jogviszonyban álló vágóhídnak a működési engedélyében rögzített állapottól való eltéréséről;
+d)[^55] a Pest Megyei Kormányhivatalnak nyolc napon belül jelentést tesz a működésében, tevékenységének személyi és a tárgyi feltételeiben történt változásról, valamint a vele szerződéses jogviszonyban álló vágóhídnak a működési engedélyében rögzített állapottól való eltéréséről;
 
 e) eleget tesz a külön jogszabályokban meghatározott adatszolgáltatási kötelezettségének;
 
@@ -43,6 +43,6 @@ f)[^56] az általa használt bélyegzővel a NÉBIH-nek elszámol, a használhat
 [^51]: A 10/A. § (2) bekezdésének d) pontját a 119/2009. (IX. 10.) FVM rendelet 3. § (1) bekezdése iktatta be.
 [^52]: A 10/A. § (3) bekezdésének d) pontját a 119/2009. (IX. 10.) FVM rendelet 3. § (2) bekezdése iktatta be.
 [^53]: A 10/A. § (3) bekezdésének e) pontját a 119/2009. (IX. 10.) FVM rendelet 3. § (2) bekezdése iktatta be.
-[^54]: A 10/A. § (4) bekezdése a 80/2013. (IX. 13.) VM rendelet 4. § d) pontja szerint módosított szöveg.
-[^55]: A 10/A. § (5) bekezdés d) pontja a 80/2013. (IX. 13.) VM rendelet 4. § e) pontja szerint módosított szöveg.
+[^54]: A 10/A. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 50. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^55]: A 10/A. § (5) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 50. § (1) bekezdés j) pontja szerint módosított szöveg.
 [^56]: A 10/A. § (5) bekezdés f) pontja a 80/2013. (IX. 13.) VM rendelet 4. § e) pontja szerint módosított szöveg.
