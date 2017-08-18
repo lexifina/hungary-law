@@ -1,4 +1,4 @@
-24. § (1)[^64] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vagy a tenyésztési hatóság az Országos Adatbázisból marhalevelet állít ki az állattartónak. A marhalevelet az állat születése vagy tenyészetbe kerülése bejelentését tanúsító bizonylat, illetve az elektronikus úton küldött bejelentés beérkezésétől számított 10 napon belül kell kiadni.
+24. § (1)[^64] A Pest Megyei Kormányhivatal vagy a tenyésztési hatóság az Országos Adatbázisból marhalevelet állít ki az állattartónak. A marhalevelet az állat születése vagy tenyészetbe kerülése bejelentését tanúsító bizonylat, illetve az elektronikus úton küldött bejelentés beérkezésétől számított 10 napon belül kell kiadni.
 
 (2)[^65] A marhalevél hatósági bizonyítvány, ami lehetővé teszi az állat azonosítását és az egyéb feltételek megléte esetén annak forgalmazását.
 
@@ -12,7 +12,7 @@ a) a bejelentőlappal együtt 7 napon belül,
 
 b) elektronikus úton történő bejelentés esetén a bejelentést megelőzően 7 napon belül
 
-[^64]: A 24. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^64]: A 24. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 13. § (1) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 43. § 9. pontja szerint módosított szöveg.
 [^65]: A 24. § (2) bekezdése a 88/2013. (X. 2.) VM rendelet 23. § 15. pontja szerint módosított szöveg.
 [^66]: A 24. § (3) bekezdése a 99/2013. (X. 28.) VM rendelet 1. §-ával megállapított szöveg.
 [^67]: A 24. § (4) bekezdése a 99/2013. (X. 28.) VM rendelet 1. §-ával megállapított szöveg.
