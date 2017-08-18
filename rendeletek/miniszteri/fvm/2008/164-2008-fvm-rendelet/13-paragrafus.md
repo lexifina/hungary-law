@@ -4,12 +4,14 @@
 
 a)[^42] az észlelő köteles bejelenteni
 
-aa) a természetellenesen viselkedő rókát vagy egyéb vadon élő emlős állatot a vadászati hatóságnak,
+aa)[^43] a természetellenesen viselkedő rókát vagy egyéb vadon élő emlős állatot a területi vadászati hatóságnak,
 
-ab) jármű által elgázolt vagy ismeretlen ok miatt elhullott róka tetemének észlelését az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak;
+ab)[^44] jármű által elgázolt vagy ismeretlen ok miatt elhullott róka tetemének észlelését a járási hivatalnak;
 
 b) az elhullott róka tetemének eltávolításáig, illetve a hatósági állatorvos rendelkezéséig az Éltv. 19. §-a szerinti kötelezett köteles biztosítani, hogy állat vagy illetéktelen személy ne férhessen az elhullott állathoz;
 
 c) a betegségre gyanús vagy természetellenesen viselkedő állatot – amennyiben az elzárása egyáltalán lehetséges és veszély nélkül megtehető – olyan helyre kell elkülöníteni, ahol más állatokkal nem érintkezhet.
 
 [^42]: A 13. § a) pontja a 32/2014. (XII. 9.) FM rendelet 11. § (9) bekezdésével megállapított szöveg.
+[^43]: A 13. § a) pont aa) alpontja a 42/2017. (VIII. 17.) FM rendelet 121. § 12. pontja szerint módosított szöveg.
+[^44]: A 13. § a) pont ab) alpontja a 42/2017. (VIII. 17.) FM rendelet 121. § 13. pontja szerint módosított szöveg.
