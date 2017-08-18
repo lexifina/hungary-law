@@ -22,7 +22,7 @@ i) baromfi- és halkeltetőkhöz a keltetésvezető nevét és elérhetőségét
 
 j) az f)–i) pontokba nem sorolható tenyészet esetén a bejelentett kapcsolattartó személy nevét és elérhetőségét (címét, telefonszámát, telefaxszámát és elektronikus levélcímét);
 
-k)[^45] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság azonosítóját;
+k)[^45] a megyei kormányhivatal azonosítóját;
 
 l) a külön jogszabályok szerint kapott támogatásokra vonatkozó adatokat;
 
@@ -30,7 +30,7 @@ m) a más jogszabály szerint ENAR vagy tenyésztési feladat ellátására felj
 
 (2)[^46] Az Országos Adatbázisban a NÉBIH által meghatározott szempontok alapján biztosítani kell az alábbi adatok tenyészetenkénti nyilvántartásának lehetőségét is:
 
-a)[^47] beviteli mezőt, amelybe az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság adatokat visz be az aktuális állategészségügyi információkról (forgalmi korlátozások, egészségügyi státusz, vagy más kapcsolódó adatokról a közösségi vagy a nemzeti programok keretében);
+a)[^47] beviteli mezőt, amelybe a megyei kormányhivatal adatokat visz be az aktuális állategészségügyi információkról (forgalmi korlátozások, egészségügyi státusz, vagy más kapcsolódó adatokról a közösségi vagy a nemzeti programok keretében);
 
 b) a tenyészet meghatározott egy vagy több fajú állományára, vagy annak egyedére/egyedeire vonatkozó, az egyedazonosításról és nyilvántartásról rendelkező jogszabályra hivatkozással elrendelt forgalmi korlátozással kapcsolatos rendelkezéseket.
 
@@ -50,7 +50,7 @@ f) árutermelő típusú tenyészet tartási helyéhez egyes tartott állatfajok
 
 (4) Az (1)–(3) bekezdésben foglaltakon túl nyilvántartásba kell venni továbbá:
 
-a)[^48] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságokat;
+a)[^48] a megyei kormányhivatalokat;
 
 b) az állategészségügyi kerületekre vonatkozó adatokat;
 
@@ -62,8 +62,8 @@ e)[^49] a juh- és kecskefajok egyedeinek Egységes Nyilvántartási és Azonos�
 
 f) mindazon további szereplők adatait, akiket más jogszabályok ENAR vagy tenyésztési feladatok ellátására kijelölnek.
 
-[^45]: A 11. § (1) bekezdés k) pontja a 88/2013. (X. 2.) VM rendelet 42. § 4. pontja szerint módosított szöveg.
+[^45]: A 11. § (1) bekezdés k) pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
 [^46]: A 11. § (2) bekezdés nyitó szövegrésze a 88/2013. (X. 2.) VM rendelet 42. § 8. pontja szerint módosított szöveg.
-[^47]: A 11. § (2) bekezdés a) pontja a 88/2013. (X. 2.) VM rendelet 42. § 4. pontja szerint módosított szöveg.
-[^48]: A 11. § (4) bekezdés a) pontja a 88/2013. (X. 2.) VM rendelet 42. § 14. pontja szerint módosított szöveg.
+[^47]: A 11. § (2) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
+[^48]: A 11. § (4) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 98. § j) pontja szerint módosított szöveg.
 [^49]: A 11. § (4) bekezdés e) pontja a 88/2013. (X. 2.) VM rendelet 42. § 15. pontja szerint módosított szöveg.

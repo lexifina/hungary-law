@@ -44,13 +44,13 @@ c) tenyészet adatainak módosításakor, kivéve ügyfél-regisztrációs szám
 
 d) tartási hely adatainak módosításakor, kivéve kocalétszám, méhcsaládszám, vagy baromfi esetén hasznosítás módosításakor.
 
-(3)[^23] Az állattartó és tartási helye egy tenyészetként egy tenyészetkódon tartandó nyilván az Országos Adatbázisban. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság írásos engedélyével egy tenyészetként tartható nyilván az árutermelő tenyészet állattartója több tartási helyével abban az esetben, ha az állományok állategészségügyi minősítése azonos.
+(3)[^23] Az állattartó és tartási helye egy tenyészetként egy tenyészetkódon tartandó nyilván az Országos Adatbázisban. A megyei kormányhivatal tenyészetként tartható nyilván az árutermelő tenyészet állattartója több tartási helyével abban az esetben, ha az állományok állategészségügyi minősítése azonos.
 
 (4) Új tenyészet bejelentéséhez minden esetben be kell jelenteni a következő adatokat:
 
 a) az állattartó nevét és ügyfél-regisztrációs számát;
 
-b)[^24] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság nevét és azonosítóját;
+b)[^24] a megyei kormányhivatal nevét és azonosítóját;
 
 c) a tenyészet címét;
 
@@ -74,7 +74,7 @@ h) az e) és f) pontokba nem sorolható tenyészetekhez, ha az állattartó nem 
 
 i) árutermelő/kereskedő vagy karantén típusú, szarvasmarha- vagy sertéstartó tenyészethez a tenyészet besorolását (önálló vagy megyei körzetbe sorolt), megyei körzetbe sorolt tenyészethez a körzet kódját és a kapcsolattartó állatorvos nevét;
 
-j)[^25] a tenyészet állategészségügyi azonosító számát, amennyiben az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság már adott számára ilyen azonosítószámot.
+j)[^25] a tenyészet állategészségügyi azonosító számát, amennyiben a megyei kormányhivatal már adott számára ilyen azonosítószámot.
 
 (5) Új tenyészet bejelentése csak akkor fogadható el, ha egyidejűleg legalább egy hozzá tartozó tartási helyet is bejelentenek, vagy legalább egy már nyilvántartott tartási helyen bejelenti az állattartó legalább egy állatfaj tartását.
 
@@ -110,8 +110,8 @@ e) méh tartása esetén a méhcsaládok számát.
 [^20]: A 4. § (1) bekezdés g) pontja a 95/2008. (VII. 25.) FVM rendelet 16. § (2) bekezdésével megállapított szöveg.
 [^21]: A 4. § (1) bekezdés i) pontját a 4/2009. (I. 16.) FVM rendelet 31. §-a iktatta be.
 [^22]: A 4. § (2) bekezdése a 88/2013. (X. 2.) VM rendelet 38. § (2) bekezdésével megállapított szöveg.
-[^23]: A 4. § (3) bekezdése a 88/2013. (X. 2.) VM rendelet 42. § 9. pontja szerint módosított szöveg.
-[^24]: A 4. § (4) bekezdés b) pontja a 88/2013. (X. 2.) VM rendelet 42. § 4. pontja szerint módosított szöveg.
-[^25]: A 4. § (4) bekezdés j) pontja a 88/2013. (X. 2.) VM rendelet 42. § 2. pontja szerint módosított szöveg.
+[^23]: A 4. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 98. § c) pontja szerint módosított szöveg.
+[^24]: A 4. § (4) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
+[^25]: A 4. § (4) bekezdés j) pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
 [^26]: A 4. § (7) bekezdését a 88/2013. (X. 2.) VM rendelet 43. § b) pontja hatályon kívül helyezte.
 [^27]: A 4. § 8. pontja a 22/2014. (III. 14.) VM rendelet 46. § b) pontja szerint módosított szöveg.

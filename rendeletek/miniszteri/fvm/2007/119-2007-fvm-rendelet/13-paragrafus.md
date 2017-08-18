@@ -16,9 +16,9 @@ f) a Baromfi Termék Tanács (a továbbiakban: BTT) részére azon állattartók
 
 (2) A BTT az adatokat kizárólag a Magyar Baromfi Védjegy alkalmazásához használhatja fel.
 
-(3)[^53] Az állattartó kérelmére, saját tenyészetével kapcsolatban nyilvántartott adatokról az Országos Adatbázisból a tenyésztési hatóság vagy az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hatósági bizonyítványt állít ki.
+(3)[^53] Az állattartó kérelmére, saját tenyészetével kapcsolatban nyilvántartott adatokról az Országos Adatbázisból a tenyésztési hatóság vagy a megyei kormányhivatal hatósági bizonyítványt állít ki.
 
 (4) Az Országos Adatbázis üzemeltetője a Központi Statisztikai Hivatal számára a különböző állatfajokról, illetve az állattartókról rendelkezésre álló adatokat statisztikai célú felhasználásra térítésmentesen átadja. Az adatátadási kötelezettség írásbeli megkeresés alapján és csak a Központi Statisztikai Hivatal jogszabályban rögzített feladatainak ellátásához szükséges mértékig teljesíthető. A Központi Statisztikai Hivatal az átvett adatokat a rá vonatkozó jogszabály alapján jogosult kezelni.
 
 [^52]: A 13. § (1) bekezdés d) pontja a 88/2013. (X. 2.) VM rendelet 42. § 16. pontja szerint módosított szöveg.
-[^53]: A 13. § (3) bekezdése a 88/2013. (X. 2.) VM rendelet 42. § 2. pontja szerint módosított szöveg.
+[^53]: A 13. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
