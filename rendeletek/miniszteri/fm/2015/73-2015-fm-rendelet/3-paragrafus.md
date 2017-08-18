@@ -20,7 +20,7 @@ g) büntetlen előéletet tanúsító erkölcsi bizonyítvánnyal rendelkezik.
 
 a) valamennyi szakterület esetében – az erdőgazdálkodás szakterületen belül az erdőgazdálkodási technikus kivételével – rendelkezik felsőfokú szakirányú végzettséggel;
 
-b) erdőgazdálkodás szakterület választása esetén szerepel az erdészeti hatáskörben eljáró megyei kormányhivatal által vezetett jogosult erdészeti szakszemélyzeti névjegyzékben;
+b)[^2] erdőgazdálkodás szakterület választása esetén szerepel a megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala által vezetett jogosult erdészeti szakszemélyzeti névjegyzékben;
 
 c) az állategészségügy szakterületre vonatkozóan állatorvos végzettséggel rendelkezik, továbbá tagja a Magyar Állatorvosi Kamarának;
 
@@ -29,3 +29,5 @@ d) a növényvédelem szakterületre vonatkozóan tagja a Magyar Növényvédő 
 e) földügyek szakterületre vonatkozóan legalább 5 év földügyi igazgatásban – igazoltan a megjelölt szakterületen – töltött gyakorlattal rendelkezik.
 
 (4) A 4. mellékletben nem szereplő felsőfokú végzettség elfogadásáról a képzés szakmai tartalmának, képzési programjának vizsgálata, a képzési követelmények szerint megszerzett kompetenciák, tananyagegységek és azok leírásai alapján a NAK dönt.
+
+[^2]: A 3. § (3) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 217. §-a szerint módosított szöveg.
