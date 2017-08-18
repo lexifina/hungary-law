@@ -1,5 +1,5 @@
-## 9. §[^10]
+## 9. §[^11]
 
-## A szaporítóanyagok selejtezéséről a mesterséges termékenyítő állomás javaslata alapján a NÉBIH dönt. A szaporítóanyagot megsemmisítéssel kell kiselejtezni.
+## A szaporítóanyagok selejtezéséről a mesterséges termékenyítő állomás javaslata alapján a tenyésztési hatóság dönt. A szaporítóanyagot megsemmisítéssel kell kiselejtezni.
 
-[^10]: A 9. § a 19/2014. (III. 12.) VM rendelet 2. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^11]: A 9. § a 42/2017. (VIII. 17.) FM rendelet 2. § d) pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
-## 10. §[^11]
+## 10. §[^12]
 
-## A selejtezésből származó bevételt a NÉBIH köteles az apaállat gazdálkodás céljára fordítani.
+## A selejtezésből származó bevételt a tenyésztési hatóság köteles az apaállat gazdálkodás céljára fordítani.
 
 ## 11. §
 
-(1)[^12] Az állat tartójának az apaállat elhullását, illetve kényszervágását — nyolc napon belül — a NÉBIH-nek írásban jelenteni kell. A jelentés tartalmazza az apaállat
+(1)[^13] Az állat tartójának az apaállat elhullását, illetve kényszervágását — nyolc napon belül — a tenyésztési hatóságnak írásban jelenteni kell. A jelentés tartalmazza az apaállat
 
 a) azonosító jelét és nyilvántartási számát;
 
@@ -16,5 +16,5 @@ d) az elhullás, illetve a kényszervágás okát, melynek bizonyítására az i
 
 (2) Az elhullott apaállatot a nyilvántartásból törölni kell.
 
-[^11]: A 10. § a 19/2014. (III. 12.) VM rendelet 2. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^12]: A 11. § (1) bekezdés nyitó szövegrésze a 19/2014. (III. 12.) VM rendelet 2. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^12]: A 10. § a 42/2017. (VIII. 17.) FM rendelet 2. § d) pontja szerint módosított szöveg.
+[^13]: A 11. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 2. § c) pontja szerint módosított szöveg.
