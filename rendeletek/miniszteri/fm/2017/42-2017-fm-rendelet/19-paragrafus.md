@@ -1,0 +1,1 @@
+## „21/A. § Ahol e rendelet járási hivatalt említ, azon a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendeletben megjelölt földügyi igazgatási hatáskörben eljáró járási hivatalt kell érteni.”

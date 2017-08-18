@@ -1,0 +1,3 @@
+## 91. § Egyes növényvédő szerek forgalmazásával, illetve felhasználásával kapcsolatban külföldön szerzett szakmai gyakorlaton alapuló képesítés elismerésének részletes szabályairól szóló 8/2007. (I. 31.) FVM rendelet [a továbbiakban: 8/2007. (I. 31.) FVM rendelet] 2. §-a helyébe a következő rendelkezés lép:
+
+## „2. § Az 1. § a) és b) pontja szerinti tevékenység csak engedéllyel végezhető. Az engedélyt a tevékenység tervezett végzésének helye szerint illetékes növény- és talajvédelmi hatáskörben eljáró járási hivatal (a továbbiakban: járási hivatal) adja ki. Amennyiben a tevékenység végzésének helye nem állapítható meg, az engedélyt országos illetékességgel a Pest Megyei Kormányhivatal adja ki.”

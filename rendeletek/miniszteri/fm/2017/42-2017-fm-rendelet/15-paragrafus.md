@@ -1,0 +1,3 @@
+## 14. § A földmérési és térképészeti állami alapadatok kezeléséről, szolgáltatásáról és egyes igazgatási szolgáltatási díjakról szóló 63/1999. (VII. 21.) FVM–HM–PM együttes rendelet [a továbbiakban: 63/1999. (VII. 21.) FVM–HM–PM együttes rendelet] 15/A. § (5) bekezdése helyébe a következő bekezdés lép:
+
+## „(5) Az (1) bekezdés szerinti adatszolgáltatásra a földmérési és térinformatikai államigazgatási szerv közreműködésével hálózati úton kerül sor. Az adatszolgáltatás díjának 70%-a az NKP Nonprofit Kft.-t illeti meg. A díj 7,5%-a az ingatlan fekvése szerint illetékes kormányhivatal, 7,5%-a az adatszolgáltató fekvése szerint illetékes kormányhivatal, 15%-a a földmérési és térinformatikai államigazgatási szerv bevételét képezi.”

@@ -1,0 +1,3 @@
+## 125. § A jégeső-elhárító szervezetnek fizetett szolgáltatási díj támogatása igénybevételének szabályairól szóló 59/2009. (V. 8.) FVM rendelet 4. § (1) bekezdés j) pont jb) alpontjában az „illetékes földművelésügyi igazgatási hatáskörében eljáró megyei kormányhivatal” szövegrész helyébe az „illetékes földművelésügyi igazgatási hatáskörében eljáró megyeszékhely szerinti járási hivatal” szöveg lép.
+
+## 81. A mezei őrszolgálat megalakításához, fenntartásához és működéséhez nyújtandó állami hozzájárulás igénybevételének rendjéről és feltételeiről szóló 64/2009. (V. 22.) FVM–PM együttes rendelet módosítása
