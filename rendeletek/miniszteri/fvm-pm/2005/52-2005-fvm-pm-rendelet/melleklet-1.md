@@ -2,9 +2,11 @@
 
 együttes rendelethez
 
-## I.
+I.
 
 Behozatal-ellenőrzési dokumentum mintája
+
+## 5M03619_0
 
 | A | 1. Feladó/exportőr | A takarmányozásban használt, harmadik országokból származó termékeknek az EK-ba történő beléptetése során végzett ellenőrzéseket feltüntető dokumentum |
 
@@ -36,11 +38,11 @@ Behozatal-ellenőrzési dokumentum mintája
 
 | További megjegyzések |
 
-II.
+## II.
 
-A behozatal-ellenőrzési dokumentum összeállításának részletes szabályai
+## A behozatal-ellenőrzési dokumentum összeállításának részletes szabályai
 
-A. A bemutatott tétellel kapcsolatos információ
+## A. A bemutatott tétellel kapcsolatos információ
 
 1. Feladó/exportőr
 
@@ -132,10 +134,10 @@ Meg kell adni a határvámhivatal nevét és a hivatalos pecsétet, a dokumentum
 
 Meg kell adni a határvámhivatal felhatalmazott tisztviselőjének aláírását, teljes nevét nyomtatott betűkkel és a dátumot.
 
-D. További megjegyzések[^19]
+D. További megjegyzések[^21]
 
 17. A rendeltetés szerinti tagállam illetékes hatósága számára fenntartott hely
 
 A dokumentumnak ez a része a rendeltetés szerinti tagállam illetékes hatóságának áll rendelkezésre, esetleges megjegyzései számára.
 
-[^19]: Nem kötelező kitölteni.
+[^21]: Nem kötelező kitölteni.
