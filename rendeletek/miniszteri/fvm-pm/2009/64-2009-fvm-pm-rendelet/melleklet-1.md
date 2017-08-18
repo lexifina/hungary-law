@@ -4,4 +4,4 @@
 
 [^8]: A 6. §-t a 46/2014. (IV. 18.) VM rendelet 2. §-a iktatta be.
 [^9]: A hatálybalépés napja: 2014. április 21.
-[^10]: Az 1. számú melléklet a 70/2013. (VII. 31.) VM rendelet 106. § e) pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet a 42/2017. (VIII. 17.) FM rendelet 127. § c) pontja szerint módosított szöveg.

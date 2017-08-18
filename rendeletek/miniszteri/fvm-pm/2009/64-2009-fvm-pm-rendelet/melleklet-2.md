@@ -1,6 +1,6 @@
 ## Kérelem a mezei őrszolgálat és hegyőrség megalakulásához nyújtott támogatás igényléséhez
 
-## Megyei Kormányhivatal földművelésügyi igazgatósága
+## ...................... Megyei Kormányhivatal ................................ Járási Hivatala
 
 ## Az állami hozzájárulás igénylése céljából a mezei őrszolgálat megalakításához, fenntartásához nyújtandó állami hozzájárulás igénybevételének rendjéről és feltételeiről szóló 64/2009. (V. 22.) FVM–PM együttes rendelet alapján megküldöm a nyilvántartásba vett működési területű mezei őrszolgálat/hegyőrség megalakításának költségeiről készült kimutatást.
 
@@ -32,7 +32,7 @@
 
 Kérelem a mezei őrszolgálat és a hegyőrség működéséhez nyújtott támogatás igényléséhez
 
-Megyei Kormányhivatal földművelésügyi igazgatósága
+...................... Megyei Kormányhivatal ................................ Járási Hivatala
 
 Igazolom, hogy 20..... ............................................. hó ......... naptól 20..... ........................................... hó ..... na-pig az ................................................ önkormányzat/hegyközség területén a mezei őrszolgálat/hegyőrség ............ fővel működött.
 
@@ -68,4 +68,4 @@ Ezek alapján kérem az önkormányzat/hegyközség részére a hatályos jogsza
 
 önkormányzat jegyzője/hegybíró
 
-[^11]: A 2. számú melléklet a 70/2013. (VII. 31.) VM rendelet 106. § e) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet a 42/2017. (VIII. 17.) FM rendelet 127. § c) pontja szerint módosított szöveg.
