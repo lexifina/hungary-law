@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-105-20-
 | 2014-03-15 | 1999-105-20-82.7 | 21/2014. (III. 14.) VM rendelet |
 | 2015-01-15 | 1999-105-20-82.8 | 1/2015. (I. 14.) FM rendelet |
 | 2015-06-06 | 1999-105-20-82.9 | 29/2015. (VI. 5.) FM rendelet |
+| 2017-08-18 | 1999-105-20-82.10 | 42/2017. (VIII. 17.) FM rendelet |

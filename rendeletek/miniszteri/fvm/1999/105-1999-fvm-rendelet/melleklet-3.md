@@ -6376,6 +6376,6 @@
 
 ## Bp. XXIII. kerület 015
 
-3. számú melléklet a 105/1999. (XII. 25.) FVM rendelethez[^27]
+3. számú melléklet a 105/1999. (XII. 25.) FVM rendelethez[^29]
 
-[^27]: A 3. számú melléklet a 29/2015. (VI. 5.) FM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^29]: A 3. számú melléklet a 42/2017. (VIII. 17.) FM rendelet 19. §-ával megállapított szöveg.

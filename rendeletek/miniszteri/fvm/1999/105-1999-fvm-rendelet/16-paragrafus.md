@@ -2,7 +2,7 @@
 
 ## A földminősítési feladatokat ellátó szakigazgatási szervezetek
 
-16. § (1)[^6] Az ingatlan fekvése szerint illetékes járási hivatal földminősítési hatósági jogkörében ellátja:
+16. § (1)[^7] Az ingatlan fekvése szerint illetékes járási hivatal földminősítési hatósági jogkörében ellátja:
 
 a) a földek művelési ágának megállapítását;
 
@@ -18,7 +18,7 @@ f) az ingatlan-nyilvántartási térkép tartalmát érintő földminősítési 
 
 g) a földminősítési állami alapadatok szolgáltatását, a külön jogszabályban meghatározott igazgatási szolgáltatási díj ellenében.
 
-(2)[^7]
+(2)[^8]
 
-[^6]: A 16. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 4. § b) pontja, a 29/2015. (VI. 5.) FM rendelet 3. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^7]: A 16. § (2) bekezdését a 129/2010. (IV. 21.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
+[^7]: A 16. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 4. § b) pontja, a 29/2015. (VI. 5.) FM rendelet 3. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^8]: A 16. § (2) bekezdését a 129/2010. (IV. 21.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.

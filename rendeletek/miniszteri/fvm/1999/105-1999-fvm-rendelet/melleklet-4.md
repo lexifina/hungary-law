@@ -10,11 +10,11 @@
 
 | FÖLDMINŐSÍTŐ IGAZOLVÁNY |  |  |
 
-| …………..………………………….. név …………………………………… beosztás Kelt:…………………………………PH |  |  |
+| …………..………………… név ……………………………… beosztás Kelt:……………………….. |  |  |
 
-| ………………………….. FM közigazgatási államtitkára | ………………………….. tulajdonos aláírása |
+| ………………………….. Kiállító hatóság: FÖLDMÉRÉSI ÉS TÉRINFORMATIKAI ÁLLAMIGAZGATÁSI SZERV | …………………… tulajdonos aláírása |
 
-| JÁRÁSI (FŐVÁROSI KERÜLETI) HIVATAL |
+| ………JÁRÁSI (FŐVÁROSI KERÜLETI) HIVATAL |
 
 |  |  |  | igazolvány száma:____________ |
 
@@ -22,15 +22,15 @@
 
 | FÖLDMINŐSÍTŐ IGAZOLVÁNY |  |  |
 
-| …………..………………………….. név …………………………………… beosztás Kelt:…………………………………PH |  |  |
+| …………..………………. név ……………………………. beosztás Kelt:………………………………….. |  |  |
 
-| ………………………….. FM közigazgatási államtitkára | ………………………….. tulajdonos aláírása |
+| ………………………….. Kiállító hatóság: FÖLDMÉRÉSI ÉS TÉRINFORMATIKAI ÁLLAMIGAZGATÁSI SZERV | …………………. tulajdonos aláírása |
 
 ## Hátlap
 
-| Az igazolvány tulajdonosa a termőföld védelméről szóló 2007. CXXIX. törvény 30. § (2) bekezdése értelmében földminősítési, valamint helyszíni ellenőrzési tevékenységre jogosult. A munkavégzés érdekében bármely ingatlanra – a lakás és lakás céljára szolgáló helyiségek kivételével – beléphet, ott földminősítéssel, helyszíni ellenőrzéssel kapcsolatos munkákat végezhet. Az igazolvány a kiállításától számított 10 évig hatályos. |
+| Az igazolvány tulajdonosa a termőföld védelméről szóló 2007. CXXIX. törvény 30. § (2) bekezdése értelmében földminősítési, valamint helyszíni ellenőrzési tevékenységre jogosult. A munkavégzés érdekében bármely ingatlanra – a lakás és lakás céljára szolgáló helyiségek kivételével – beléphet, ott földminősítéssel, helyszíni ellenőrzéssel kapcsolatos munkákat végezhet. Az igazolvány visszavonásig érvényes. |
 
-4. melléklet a 105/1999. (XII. 22.) FVM rendelethez[^28]
+4. melléklet a 105/1999. (XII. 22.) FVM rendelethez[^30]
 
 IGÉNYLŐLAP
 
@@ -66,4 +66,4 @@ Kelt:……………………… 20…. év ………………… hó …. nap.
 
 P. H.
 
-[^28]: A 4. mellékletet az 57/2013. (VI. 29.) VM rendelet 9. § (2) bekezdése iktatta be, szövege a 29/2015. (VI. 5.) FM rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^30]: A 4. mellékletet az 57/2013. (VI. 29.) VM rendelet 9. § (2) bekezdése iktatta be, szövege a 29/2015. (VI. 5.) FM rendelet 3. § (5) bekezdésével megállapított szöveg.

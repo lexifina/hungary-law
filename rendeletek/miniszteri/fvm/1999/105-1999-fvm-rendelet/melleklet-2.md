@@ -422,6 +422,6 @@
 
 | 211 | Zirci | második |
 
-2. számú melléklet a 105/1999. (XII. 22.) FVM rendelethez[^26]
+2. számú melléklet a 105/1999. (XII. 22.) FVM rendelethez[^28]
 
-[^26]: A 2. számú melléklet az 1/2015. (I. 14.) FM rendelet 1. §-a szerint módosított szöveg.
+[^28]: A 2. számú melléklet az 1/2015. (I. 14.) FM rendelet 1. §-a szerint módosított szöveg.
