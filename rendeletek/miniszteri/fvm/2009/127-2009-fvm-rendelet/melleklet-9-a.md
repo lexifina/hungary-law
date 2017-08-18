@@ -70,6 +70,6 @@
 
 ## A hegybíró aláírása
 
-9/A. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^232]
+9/A. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^249]
 
-[^232]: A 9/A. számú mellékletet a 60/2015. (X. 8.) FM rendelet 9. § (1) bekezdés b) pontja iktatta be.
+[^249]: A 9/A. számú mellékletet a 60/2015. (X. 8.) FM rendelet 9. § (1) bekezdés b) pontja iktatta be.

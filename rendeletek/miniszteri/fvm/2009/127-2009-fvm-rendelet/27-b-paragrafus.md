@@ -1,10 +1,10 @@
-## 27/A. §[^87]
+## 27/A. §[^93]
 
 ## MÁSODIK RÉSZ
 
 ## BORÁSZATI TERMÉKEK ELŐÁLLÍTÁSÁRA VONATKOZÓ SZABÁLYOK
 
-## A borászati termékek előállítása kezdetének és végének szabályozása[^88]
+## A borászati termékek előállítása kezdetének és végének szabályozása[^94]
 
-[^87]: A 27/A. §-t és azt megelőző alcímet a 128/2012. (XII. 14.) VM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 20/2014. (X. 31.) FM rendelet 33. § c) pontja.
-[^88]: A 27/B. §-t megelőző alcímet a 20/2014. (X. 31.) FM rendelet 18. §-a iktatta be.
+[^93]: A 27/A. §-t és azt megelőző alcímet a 128/2012. (XII. 14.) VM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 20/2014. (X. 31.) FM rendelet 33. § c) pontja.
+[^94]: A 27/B. §-t megelőző alcímet a 20/2014. (X. 31.) FM rendelet 18. §-a iktatta be.
