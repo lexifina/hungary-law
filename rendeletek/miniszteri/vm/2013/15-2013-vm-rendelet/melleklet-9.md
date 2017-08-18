@@ -24,7 +24,7 @@
 
 ## l) Koordináta jegyzék (EOV, ETRS89).
 
-9. melléklet a 15/2013. (III. 11.) VM rendelethez
+9. melléklet a 15/2013. (III. 11.) VM rendelethez[^31]
 
 ## Az állami átvételi eljárás szempontjai
 
@@ -34,9 +34,9 @@
 
 3. A munka állami átvételre alkalmas voltát elsősorban irodai vizsgálattal kell meg megállapítani, de szükség esetén helyszíni ellenőrzés is kell végezni.
 
-4. A feltárt hibákat és hiányosságokat vizsgálati jegyzőkönyvbe foglalva a munkarészekkel együtt a munkát végzőnek javítás céljából a FÖMI határidő megjelölésével visszaküldi, és felszólítja a hibák és hiányosságok saját költségén történő kijavítására, illetve pótlására. A munkavégző javítás megtörténtét a vizsgálati jegyzőkönyvben aláírásával köteles igazolni.
+4. A feltárt hibákat és hiányosságokat vizsgálati jegyzőkönyvbe foglalva a munkarészekkel együtt a munkát végzőnek javítás céljából a földmérési és térinformatikai államigazgatási szerv határidő megjelölésével visszaküldi, és felszólítja a hibák és hiányosságok saját költségén történő kijavítására, illetve pótlására. A munkavégző javítás megtörténtét a vizsgálati jegyzőkönyvben aláírásával köteles igazolni.
 
-5. A javítás után visszaérkezett munkarészeket a FÖMI ellenőrzi, amennyiben a hibajavítás nem volt teljeskörű, a munkarészeket ismételten meg kell küldeni a vállalkozónak.
+5. A javítás után visszaérkezett munkarészeket a földmérési és térinformatikai államigazgatási szerv ellenőrzi, amennyiben a hibajavítás nem volt teljeskörű, a munkarészeket ismételten meg kell küldeni a vállalkozónak.
 
 6. Az állami átvételt követően kerülhet sor a nyilvántartásba vételére, valamint az illetékes ingatlanügyi hatóság és a költségviselő kiértesítésére a munka elvégzéséről.
 
@@ -129,3 +129,5 @@ d) a feldolgozó szoftver output listáit, amelyekből a feldolgozás minőségi
 e) a levezetett előzetesnek tekintendő koordinátákat.
 
 12. Az új pont pontleírását (pausz, és impúrum) el kell készíteni a tágabb környezet ábrázolásával (síkrajzi elemek, utcanév, házszámozás, közművek, út km szelvény, szomszédos települések megírása, művelési ág, új pont jelölése, pont kitűzési méreteinek feltüntetése: lehetőség szerint ortogonális méretek megadásával)
+
+[^31]: A 9. melléklet a 42/2017. (VIII. 17.) FM rendelet 190. § a) pontja szerint módosított szöveg.

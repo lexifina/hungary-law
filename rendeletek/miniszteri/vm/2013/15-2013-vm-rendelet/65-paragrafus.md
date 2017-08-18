@@ -2,7 +2,7 @@
 
 ## 3. A GNSS pontmeghatározások leadandó munkarészei
 
-65. § (1)[^14] A GNSS pontmeghatározások kormányhivatali vizsgálatához és átvételéhez a 15. melléklet táblázatában megjelölt munkarészeket elektronikus formában kell leadni. A nyomtatott formában is leadandó munkarészeket a táblázat külön jelzi. A mérési jegyzőkönyvet csak abban az esetben kell papír alapú adathordozón benyújtani, ha vevőkészülék nem alkalmas elektronikus jegyzőkönyvezésre.
+65. § (1)[^23] A GNSS pontmeghatározások kormányhivatali vizsgálatához és átvételéhez a 15. melléklet táblázatában megjelölt munkarészeket elektronikus formában kell leadni. A nyomtatott formában is leadandó munkarészeket a táblázat külön jelzi. A mérési jegyzőkönyvet csak abban az esetben kell papír alapú adathordozón benyújtani, ha vevőkészülék nem alkalmas elektronikus jegyzőkönyvezésre.
 
 (2) A leadandó munkarészeknek tartalmaznia kell:
 
@@ -52,9 +52,9 @@ m) a GNSSnet.hu szolgáltatás használatának igazolását (a felhasználóknak
 
 ma) lista formátumban azt" hogy a GNSSnet.hu valós idejű szolgáltatást használva mely időpontokban történtek a be- és kilépések;
 
-mb)[^15] a GSZK által adott 8 karakterből álló azonosítót, amely alapján a kormányhivatal ellenőrizheti a mérés helyére és idejére vonatkozó információkat;
+mb)[^24] a GSZK által adott 8 karakterből álló azonosítót, amely alapján a kormányhivatal ellenőrizheti a mérés helyére és idejére vonatkozó információkat;
 
 n) a jegyzőkönyvet a külső permanens állomásra támaszkodó mérések esetén az állomás hét napnál nem régebbi meghatározásáról.
 
-[^14]: A 65. § (1) bekezdése a 29/2015. (VI. 5.) FM rendelet 9. § g) pontja szerint módosított szöveg.
-[^15]: A 65. § (2) bekezdés m) pont mb) alpontja a 29/2015. (VI. 5.) FM rendelet 9. § d) pontja szerint módosított szöveg.
+[^23]: A 65. § (1) bekezdése a 29/2015. (VI. 5.) FM rendelet 9. § g) pontja szerint módosított szöveg.
+[^24]: A 65. § (2) bekezdés m) pont mb) alpontja a 29/2015. (VI. 5.) FM rendelet 9. § d) pontja szerint módosított szöveg.

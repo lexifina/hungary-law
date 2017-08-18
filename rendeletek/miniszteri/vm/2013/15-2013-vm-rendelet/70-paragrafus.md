@@ -16,8 +16,9 @@ c) adott pontként felhasználhatók az e rendelet szerint meghatározott felmé
 
 (5) Az (1) bekezdésben meghatározott mérésekhez:
 
-a) a FÖMI, vagy
+a)[^27] a földmérési és térinformatikai államigazgatási szerv, vagy
 
-b)[^18] a kormányhivatalok által hitelesített állami alapadatok használhatók fel.
+b)[^28] a kormányhivatalok által hitelesített állami alapadatok használhatók fel.
 
-[^18]: A 70. § (5) bekezdés b) pontja a 29/2015. (VI. 5.) FM rendelet 9. § b) pontja szerint módosított szöveg.
+[^27]: A 70. § (5) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 190. § a) pontja szerint módosított szöveg.
+[^28]: A 70. § (5) bekezdés b) pontja a 29/2015. (VI. 5.) FM rendelet 9. § b) pontja szerint módosított szöveg.

@@ -40,7 +40,7 @@
 
 ## f) Nagy forgalmú nemzetközi utakat lehetőleg kerülni kell.
 
-## 2.1.2 A nemzetközi csatlakozó vonalak I. rendűek, tervezésükkor a fent leírt általános irányelveket kellett alkalmazni. A szomszédos országok felé a csatlakozó pont kijelölését az illetékes ország felelős szakembereivel a FÖMI egyezteteti.
+## 2.1.2 A nemzetközi csatlakozó vonalak I. rendűek, tervezésükkor a fent leírt általános irányelveket kellett alkalmazni. A szomszédos országok felé a csatlakozó pont kijelölését az illetékes ország felelős szakembereivel a földmérési és térinformatikai államigazgatási szerv egyezteteti.
 
 ## 2.2 A II. rendű hálózat vonalait az I. rendű poligonokon belül az alábbiak figyelembe vételével tervezték meg:
 
@@ -88,7 +88,7 @@
 
 ## e) Az új III. rendű pont 1 km-es környezetében eső régebbi hálózati pontokat az új pont őrpontjainak tekintjük, ha szintezőléc szabatos elhelyezésére alkalmas és megfelel a magassági alappontokkal kapcsolatos követelményeknek. Ha nem található két régebbi szintezési pont az új pont 1 km-es környezetében, akkor új pontot kell létesíteni.
 
-## 2.3.3 A felsőrendű hálózatok tervét a FÖMI állította össze. A II. és III. rendű hálózatok tervét I. rendű poligononként kellett összeállítani. A tervezés eredményét átnézeti vázrajzon és vonalterveken rögzítették.
+## 2.3.3 A felsőrendű hálózatok tervét a földmérési és térinformatikai államigazgatási szerv állította össze. A II. és III. rendű hálózatok tervét I. rendű poligononként kellett összeállítani. A tervezés eredményét átnézeti vázrajzon és vonalterveken rögzítették.
 
 ## 2.3.4 Az átnézeti vázrajz tartalmazza a meglévő és a tervezett szintezési vonalakat, a csomópontjaikkal együtt.
 
@@ -712,9 +712,9 @@
 
 ## 9.1.4 A különböző periódusokban mért vektorokat együttesen is ki kell egyenlíteni. Az együttes kiegyenlítésben a területre eső permanens GNSS állomások és OGPSH keretpontok ETRS89/ETRF2000 koordinátáit rögzíteni kell.
 
-## 9.1.5 Az állami átvétel során a FÖMI tudományos szoftverrel végzett feldolgozással ellenőrzi és véglegesíti az eredményeket. A két szoftver által szolgáltatott eredményeket 7 paraméteres Helmert transzformációval össze kell hasonlítani az esetleges durva hibák kiszűrésére. A további számításokhoz a tudományos szoftver eredményét kell továbbvinni.
+## 9.1.5 Az állami átvétel során a földmérési és térinformatikai államigazgatási szerv tudományos szoftverrel végzett feldolgozással ellenőrzi és véglegesíti az eredményeket. A két szoftver által szolgáltatott eredményeket 7 paraméteres Helmert transzformációval össze kell hasonlítani az esetleges durva hibák kiszűrésére. A további számításokhoz a tudományos szoftver eredményét kell továbbvinni.
 
-## 9.1.6 A FÖMI-ben rendelkezésre álló GNSS-gravimetriai geoid, vagy a munkaterületen a mérésekbe bevont ismert magasságú I. és II. rendű illesztőpontok alapján előállítható helyi GNSS-gravimetriai geoid alapján kell meghatározni a III. rendű pontok szintezett jellegű EOMA magasságát, mint a GNSS-szel meghatározott ellipszoid feletti magasság és a GNSS-gravimetriai geoid különbségét.
+## 9.1.6 A földmérési és térinformatikai államigazgatási szervben rendelkezésre álló GNSS-gravimetriai geoid, vagy a munkaterületen a mérésekbe bevont ismert magasságú I. és II. rendű illesztőpontok alapján előállítható helyi GNSS-gravimetriai geoid alapján kell meghatározni a III. rendű pontok szintezett jellegű EOMA magasságát, mint a GNSS-szel meghatározott ellipszoid feletti magasság és a GNSS-gravimetriai geoid különbségét.
 
 ## 10. AZ EOMA PONTJAINAK MŰSZAKI LEÍRÁSA
 
@@ -726,7 +726,7 @@
 
 ## 10.1.4 A végleges műszaki leíráshoz fel kell használni az I. rendű hálózat létesítése során elkészített zárójelentést.
 
-## 10.1.5 A műszaki leírásokat 3 példányban kell elkészíteni. Egy példány a munka készítőjénél, egy példány a munkarészek mellett marad, egy példány pedig a FÖMI szakkönyvtárába kerül.
+## 10.1.5 A műszaki leírásokat 3 példányban kell elkészíteni. Egy példány a munka készítőjénél, egy példány a munkarészek mellett marad, egy példány pedig a földmérési és térinformatikai államigazgatási szerv szakkönyvtárába kerül.
 
 ## 11. AZ EOMA PONTJAINAK ELKÉSZÍTENDŐ MUNKARÉSZEI
 
@@ -738,7 +738,7 @@
 
 ## 11.1.4 Kétféle pontszám-azonosítási jegyzéket kell készíteni. Az egyiken az EOMA valamennyi pontját pontszám szerinti sorrendben fel kell sorolni, és meg kell adni a megfelelő régi pontszámot, illetve ha a pont új pont, ezt jelölni kell. A másik pontszám-azonosítási jegyzéken a régi pontokat kell számokkal, illetve nevükkel felsorolni, megadva a megfelelő új pontszámot. Mindkét pontszám-azonosítási jegyzéket folyamatosan vezetni kell.
 
-## 11.2.1 A szintezési munkák előrehaladásának megfelelő ütemben a hálózat-létesítés munkarészeit a FÖMI Központi Adattár (a továbbiakban: Adattár) részére át kell adni. Az Adattár csak olyan munkarészeket vehet át, amelyeket a szintezési munkákat végző geodéziai szerv belső ellenőrzése is kellőképpen ellenőrzött és az ellenőrzést megfelelően dokumentálta.
+## 11.2.1 A szintezési munkák előrehaladásának megfelelő ütemben a hálózat-létesítés munkarészeit a földmérési és térinformatikai államigazgatási szerv adattára (a továbbiakban: Adattár) részére át kell adni. Az Adattár csak olyan munkarészeket vehet át, amelyeket a szintezési munkákat végző geodéziai szerv belső ellenőrzése is kellőképpen ellenőrzött és az ellenőrzést megfelelően dokumentálta.
 
 ## 11.2.2 Szintezéssel végzett alappont-meghatározás esetén az alábbi munkarészeket kell átadni nyomtatott és digitális formátumban
 
@@ -954,9 +954,9 @@
 
 ## c) a munka állami átvételre alkalmas voltát elsősorban irodai vizsgálattal kell meg megállapítani, de szükség esetén helyszíni ellenőrzés is kell végezni.
 
-## 13.1.2 A feltárt hibákat és hiányosságokat vizsgálati jegyzőkönyvbe foglalva a munkarészekkel együtt a munkát végzőnek javítás céljából a FÖMI határidő megjelölésével visszaküldi, és felszólítja a hibák és hiányosságok saját költségén történő kijavítására, illetve pótlására. A munkavégző javítás megtörténtét a vizsgálati jegyzőkönyvben aláírásával köteles igazolni.
+## 13.1.2 A feltárt hibákat és hiányosságokat vizsgálati jegyzőkönyvbe foglalva a munkarészekkel együtt a munkát végzőnek javítás céljából a földmérési és térinformatikai államigazgatási szerv határidő megjelölésével visszaküldi, és felszólítja a hibák és hiányosságok saját költségén történő kijavítására, illetve pótlására. A munkavégző javítás megtörténtét a vizsgálati jegyzőkönyvben aláírásával köteles igazolni.
 
-## 13.1.3 A javítás után visszaérkezett munkarészeket a FÖMI ellenőrzi, amennyiben a hibajavítás nem volt teljeskörű, a munkarészeket ismételten meg kell küldeni a vállalkozónak.
+## 13.1.3 A javítás után visszaérkezett munkarészeket a földmérési és térinformatikai államigazgatási szerv ellenőrzi, amennyiben a hibajavítás nem volt teljeskörű, a munkarészeket ismételten meg kell küldeni a vállalkozónak.
 
 ## 13.1.4 Az állami átvételt követően kerülhet sor a nyilvántartásba vételére, valamint az illetékes Ingatlanügyi hatóság és a költségviselő kiértesítésére a munka elvégzéséről.
 
