@@ -42,21 +42,21 @@ c) az ültetvény (állomány) fenntartásánál a mentesség megőrzésére von
 
 d) az előállítás során a szaporító- és ültetési anyag kötelező és rendszeres ellenőrző vizsgálata megtörtént.
 
-2.[^69] A certifikált anyanövényekről vagy növényállományból további certifikált szaporító- vagy ültetési anyagot előállítani szándékozó termelő a növény- és talajvédelmi igazgatóságnak köteles előállítási, illetve telepítési szándékát előzetesen, őszi telepítés esetén a telepítési év március 31-éig, tavaszi telepítés esetén a telepítést megelőző év július 31-éig bejelenteni.
+2.[^69] A certifikált anyanövényekről vagy növényállományból további certifikált szaporító- vagy ültetési anyagot előállítani szándékozó termelő a növény- és talajvédelmi hatáskörben eljáró járási hivatalnak köteles előállítási, illetve telepítési szándékát előzetesen, őszi telepítés esetén a telepítési év március 31-éig, tavaszi telepítés esetén a telepítést megelőző év július 31-éig bejelenteni.
 
-3.[^70] A termelő a certifikációra vonatkozó jelzést és a növényútlevelet csak a NÉBIH és az illetékes növény- és talajvédelmi igazgatóság által ellenőrzött tényleges leltári készletnek megfelelő mennyiségű, certifikált anyanövényekről, állományokról vagy azok ellenőrzött körülmények között fenntartott szaporulatairól származó szaporító- vagy ültetési anyagra használhatja fel.
+3.[^70] A termelő a certifikációra vonatkozó jelzést és a növényútlevelet csak a NÉBIH és az illetékes növénytermesztési hatáskörben eljáró járási hivatal által ellenőrzött tényleges leltári készletnek megfelelő mennyiségű, certifikált anyanövényekről, állományokról vagy azok ellenőrzött körülmények között fenntartott szaporulatairól származó szaporító- vagy ültetési anyagra használhatja fel.
 
 4. Nem certifikált szaporító-, illetve ültetési anyaggal történő keveredés esetén a certifikációs címkét valamennyi egységről (köteg, konténer stb.) el kell távolítani. Az ilyen növényanyag csak standard minősítésű lehet.
 
 5. A certifikációra utaló jelzést az értékesített szaporító- és ültetési anyagok kötelezően előírt kísérő okmányain is fel kell tüntetni.
 
-6.[^71] Amennyiben az ellenőrző vizsgálatok nem igazolják a szaporító-, illetve ültetési anyag előírásoknak megfelelő állapotát, vagy a vizsgálatok, illetve a szaporítás, termesztés során a termelő a vonatkozó technológiai előírásokat nem tartotta be, a növény- és talajvédelmi igazgatóság, továbbá az ellenőrzésre jogosult köteles a certifikációra utaló megkülönböztető jelzés használatát azonnal megtiltani.
+6.[^71] Amennyiben az ellenőrző vizsgálatok nem igazolják a szaporító-, illetve ültetési anyag előírásoknak megfelelő állapotát, vagy a vizsgálatok, illetve a szaporítás, termesztés során a termelő a vonatkozó technológiai előírásokat nem tartotta be, a növény- és talajvédelmi hatáskörben eljáró járási hivatal, továbbá az ellenőrzésre jogosult köteles a certifikációra utaló megkülönböztető jelzés használatát azonnal megtiltani.
 
 II. Különleges előírások
 
 1. Kiindulási (prebázis) állományok létrehozására szolgáló növényegyedek vizsgálata
 
-1.1.[^72] A szaporításra kiválasztott növényegyedet (3–5 db) növényegészségügyi ellenőrzés céljából a növény- és talajvédelmi igazgatóságnak be kell jelenteni.
+1.1.[^72] A szaporításra kiválasztott növényegyedet (3–5 db) növényegészségügyi ellenőrzés céljából a növény- és talajvédelmi hatáskörben eljáró járási hivatalnak be kell jelenteni.
 
 1.2. A helyszíni vizuális növényegészségügyi vizsgálat kiterjed a növény és környezete egészségi állapotára, zárlati károsítók, és a 4. számú mellékletben meghatározott károsítók jelenlétére. A vizuálisan tünetmentesnek bizonyult növényegyedet „A szaporítóanyag certifikáció rendszere és követelményei” című Módszertani Útmutatóban (a továbbiakban: Módszertani Útmutató) előírt, nemzetközileg elfogadott biológiai tesztelési és laboratóriumi (ELISA és molekuláris) vizsgálati eljárásoknak kell alávetni.
 
@@ -72,7 +72,7 @@ II. Különleges előírások
 
 2.1.[^73] Létesítés
 
-Prebázis, bázis, certifikált üzemi törzsültetvényt (a továbbiakban: törzsültetvény), certifikált szőlőiskolát az létesíthet, aki a NÉBIH-nek engedélyével rendelkezik, és a növényegészségügyi követelményeknek megfelel. Törzsültetvényt, illetve certifikált szőlőiskolát az illetékes növény- és talajvédelmi igazgatóság által jóváhagyott területen lehet létesíteni.
+Prebázis, bázis, certifikált üzemi törzsültetvényt (a továbbiakban: törzsültetvény) az létesíthet, aki a növénytermesztési hatáskörében eljáró Pest Megyei Kormányhivatal engedélyével, certifikált szőlőiskolát, aki a növénytermesztési hatáskörben eljáró járási hivatal engedélyével rendelkezik, és a növényegészségügyi követelményeknek megfelel. Törzsültetvényt, illetve certifikált szőlőiskolát a növény- és talajvédelmi hatáskörben eljáró járási hivatal által jóváhagyott területen lehet létesíteni.
 
 2.1.1. A törzsültetvények és certifikált növényanyagok megengedett legkisebb izolációs távolsága eltérő státusú ültetvényektől és közös patogén-gazda növényektől:
 
@@ -100,7 +100,7 @@ Prebázis, bázis, certifikált üzemi törzsültetvényt (a továbbiakban: tör
 
 | Ribes |  |
 
-2.1.3.[^74] A telepítendő területen a vírusvektor fonálféreg fertőzöttséget a növény- és talajvédelmi igazgatóság köteles ellenőrizni. A megvizsgált minta alapján a terület vírusvektor fonálférgeket nem tartalmazhat. Ha a vizsgálat fertőzést állapít meg, más területet kell kijelölni.
+2.1.3.[^74] A telepítendő területen a vírusvektor fonálféreg fertőzöttséget a növény- és talajvédelmi hatáskörben eljáró járási hivatal köteles ellenőrizni. A megvizsgált minta alapján a terület vírusvektor fonálférgeket nem tartalmazhat. Ha a vizsgálat fertőzést állapít meg, más területet kell kijelölni.
 
 Vírusvektor fonálféregként az alábbiakat kell figyelembe venni:
 
@@ -114,7 +114,7 @@ Longidorus attenuatus
 
 Longidorus elongatus
 
-2.1.4.[^75] A törzsültetvény és certifikált szőlőiskola létesítésére szolgáló terület alkalmasságának elbírálására előzetes termőhelyi szemlét kell kérni a növény- és talajvédelmi igazgatóságtól. A szemle kiterjed:
+2.1.4.[^75] A törzsültetvény és certifikált szőlőiskola létesítésére szolgáló terület alkalmasságának elbírálására előzetes termőhelyi szemlét kell kérni a növény- és talajvédelmi hatáskörben eljáró járási hivataltól. A szemle kiterjed:
 
 a) az izolációs távolság felmérésére,
 
@@ -184,22 +184,22 @@ b) alany ültetvényekben: GFLV, ArMV, GLRaV-1, -2, -3, stolbur fitoplazma kóro
 
 2.3.5. Zárlati károsító esetén a növényegészségügyi jogszabályokban foglaltak szerint kell eljárni.
 
-2.3.6.[^78] Valamennyi vizsgálatról a növény- és talajvédelmi igazgatóság jegyzőkönyvet vesz fel, amelyben rögzít minden olyan körülményt, amely a vizsgálati eredmény kiadása szempontjából jelentős, illetve azt meghatározza.
+2.3.6.[^78] Valamennyi vizsgálatról a növény- és talajvédelmi hatáskörben eljáró járási hivatal jegyzőkönyvet vesz fel, amelyben rögzít minden olyan körülményt, amely a vizsgálati eredmény kiadása szempontjából jelentős, illetve azt meghatározza.
 
 2.3.7. A vírusmentességi és egyéb károsítóktól való mentességi igazolást az ellenőrzésre jogosult a vizsgálatok befejezését követően határozat formájában adja ki.
 
-2.3.8.[^79] A NÉBIH az általa végzett fajtaazonossági és minőségi ellenőrzések eredménye, valamint a növény- és talajvédelmi igazgatóság igazolása alapján engedélyezi a certifikációs jelzés használatát, és kiadja a certifikációs jelzést a termelőnek.
+2.3.8.[^79] A NÉBIH az általa végzett fajtaazonossági és minőségi ellenőrzések eredménye, valamint a növény- és talajvédelmi hatáskörben eljáró járási hivatal igazolása alapján engedélyezi a certifikációs jelzés használatát, és kiadja a certifikációs jelzést a termelőnek.
 
 2.3.9. A vírus és egyéb károsítók vizsgálati eredményére (mentességre) vonatkozó, határozatban kiadott igazolás visszavonásig érvényes, amennyiben a tulajdonos a mentesség megőrzését biztosító (technológiai) előírásokat a vizsgálat és a szaporítás során maradéktalanul betartja, valamint az előírt ellenőrző vizsgálatokat meghatározott gyakorisággal elvégezteti, és amíg azok eredménye negatív.
 
-[^69]: A 8. számú melléklet I. fejezet 2. pontja a 19/2014. (III. 12.) VM rendelet 20. § c) pontja szerint módosított szöveg.
-[^70]: A 8. számú melléklet I. pont 3. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § b) és q) pontja szerint módosított szöveg.
-[^71]: A 8. számú melléklet I. pont 6. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § g) pontja szerint módosított szöveg.
-[^72]: A 8. számú melléklet II. pont 1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § k) pontja szerint módosított szöveg.
-[^73]: A 8. számú melléklet II. pont 2.1. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § d) és r) pontja szerint módosított szöveg.
-[^74]: A 8. számú melléklet II. pont 2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § g) pontja szerint módosított szöveg.
-[^75]: A 8. számú melléklet II. pont 2.1.4. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 59. § i) pontja szerint módosított szöveg.
+[^69]: A 8. számú melléklet I. fejezet 2. pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 15. pontja szerint módosított szöveg.
+[^70]: A 8. számú melléklet I. pont 3. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 23. pontja szerint módosított szöveg. [A 8. számú melléklet I. pont 3. alpontjában a 42/2017. (VIII. 17.) FM rendelet 89. § 24. pontjával elrendelt módosítás, amley szeritn az „az illetékes növény- és talajvédelmi igazgatóság” szövegrész helyébe az „a növény- és talajvédelmi hatáskörben eljáró járási hivatal” szöveg lép, nem vezethető át.]
+[^71]: A 8. számú melléklet I. pont 6. alpontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja szerint módosított szöveg.
+[^72]: A 8. számú melléklet II. pont 1.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 89. § 15. pontja szerint módosított szöveg.
+[^73]: A 8. számú melléklet II. pont 2.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 88. §-ával megállapított szöveg.
+[^74]: A 8. számú melléklet II. pont 2.1.3. alpontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja szerint módosított szöveg.
+[^75]: A 8. számú melléklet II. pont 2.1.4. alpont nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 89. § 25. pontja szerint módosított szöveg.
 [^76]: A 8. számú melléklet II. pont 2.2.4. alpont i) alpontja a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
 [^77]: A Magyar Közlöny 2007. évi 3. számában megjelent helyesbítésnek megfelelő szöveg.
-[^78]: A 8. számú melléklet II. pont 2.3.6. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § g) pontja szerint módosított szöveg.
-[^79]: A 8. számú melléklet II. pont 2.3.8. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § g) és s) pontja szerint módosított szöveg.
+[^78]: A 8. számú melléklet II. pont 2.3.6. alpontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja szerint módosított szöveg.
+[^79]: A 8. számú melléklet II. pont 2.3.8. alpontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja szerint módosított szöveg.

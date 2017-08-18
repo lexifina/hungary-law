@@ -1,6 +1,6 @@
 ## Szaporítóanyag forgalomba hozatala
 
-14. § (1)[^44] Szőlő szaporítóanyag – a (4) bekezdésben foglalt kivételekkel – csak abban az esetben hozható forgalomba, ha hivatalosan prebázis, bázis vagy certifikált szaporítóanyagnak ismerték el, illetve a nem alanynak szánt szaporítóanyag hivatalosan ellenőrzött standard szaporítóanyag, és a 2. számú melléklet követelményeinek megfelel. A forgalomba hozott szaporítóanyagot a NÉBIH és a növény- és talajvédelmi igazgatóság szúrópróbaszerűen ellenőrzi.
+14. § (1)[^44] Szőlő szaporítóanyag – a (4) bekezdésben foglalt kivételekkel – csak abban az esetben hozható forgalomba, ha hivatalosan prebázis, bázis vagy certifikált szaporítóanyagnak ismerték el, illetve a nem alanynak szánt szaporítóanyag hivatalosan ellenőrzött standard szaporítóanyag, és a 2. számú melléklet követelményeinek megfelel. A forgalomba hozott szaporítóanyagot a NÉBIH és a növénytermesztési hatáskörben eljáró járási hivatal és a növény- és talajvédelmi hatáskörben eljáró járási hivatal szúrópróbaszerűen ellenőrzi.
 
 (2) Valamely tagállamban bázis kategóriában certifikált szaporítóanyagról közvetlenül származó és egy másik tagállamban felnevelt szaporítóanyagot a bázis szaporítóanyagot előállító államban akkor lehet elismertetni, ha a szaporítási felületet az 1. és 8. számú melléklet előírásainak megfelelő ellenőrzéseknek vetették alá, valamint a 2. számú melléklet előírásait teljesítették és ezt hivatalos vizsgálat igazolja.
 
@@ -18,16 +18,16 @@ c) a genetikai sokféleség fenntartására irányuló tevékenység.
 
 (6)[^47] A szőlőiskolai engedéllyel rendelkező engedélyes saját telephelyén a szaporítóanyagot a NÉBIH-nek külön engedélye nélkül – a 2–4. számú mellékletben foglaltak szerint – forgalomba hozhatja.
 
-(7)[^48] Szaporító alapanyag továbbértékesítése (viszonteladás) csak nagykereskedelmi engedéllyel rendelkező forgalmazó részére megengedett. A szaporító alapanyag viszonteladás nem terjedhet ki a prebázis és bázis kategóriára. Szőlőiskolai engedélyes részére – indokolt esetben – a NÉBIH egyedi engedélyt adhat ki valamennyi kategóriájú szaporító alapanyag viszonteladására.
+(7)[^48] Szaporító alapanyag továbbértékesítése (viszonteladás) csak nagykereskedelmi engedéllyel rendelkező forgalmazó részére megengedett. A szaporító alapanyag viszonteladás nem terjedhet ki a prebázis és bázis kategóriára. Szőlőiskolai engedélyes részére – indokolt esetben – a növénytermesztési hatáskörben eljáró járási hivatal egyedi engedélyt adhat ki valamennyi kategóriájú szaporító alapanyag viszonteladására.
 
 (8)[^49] A prebázis, bázis és certifikált törzsültetvény, valamint a standard ültetvény és az árutermelő szőlőiskola fenntartója a certifikáción átesett vagy ellenőrzött szaporítóanyagot telephelyéről külön engedély nélkül forgalomba hozhatja. A szőlőiskola fenntartója a szaporítóanyag felhasználása és forgalomba hozatala esetén köteles a NÉBIH által szigorú számadású nyomtatványként átadott, az 5. számú melléklet szerinti származási igazolványt kiállítani, a vásárló részére átadni és annak egy példányát a NÉBIH részére rendszeresen megküldeni.
 
-(9)[^50] A szaporító alapanyagtermő törzsültetvény és az árutermelő szőlőiskola fenntartója köteles az előállított, felhasznált és forgalomba hozott szaporítóanyagokról folyamatosan nyilvántartást vezetni és azt az ellenőrzés során a NÉBIH részére átadni vagy megküldeni. A nyilvántartásban a prebázis, bázis és certifikált kategóriájú növényállományokat, tételeket a standard tételektől elkülönítetten kell kezelni, és külön lapon kell nyilvántartatni. A nyilvántartást és mellékleteit (bizonylatok, jegyzőkönyvek) 5 évig meg kell őrizni.
+(9)[^50] A szaporító alapanyagtermő törzsültetvény és az árutermelő szőlőiskola fenntartója köteles az előállított, felhasznált és forgalomba hozott szaporítóanyagokról folyamatosan nyilvántartást vezetni és azt az ellenőrzés során a NÉBIH, illetve a növénytermesztési hatáskörben eljáró járási hivatal részére átadni vagy megküldeni. A nyilvántartásban a prebázis, bázis és certifikált kategóriájú növényállományokat, tételeket a standard tételektől elkülönítetten kell kezelni, és külön lapon kell nyilvántartatni. A nyilvántartást és mellékleteit (bizonylatok, jegyzőkönyvek) 5 évig meg kell őrizni.
 
-[^44]: A 14. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) és g) pontja szerint módosított szöveg.
+[^44]: A 14. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 17. pontja szerint módosított szöveg.
 [^45]: A 14. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 59. § h) pontja szerint módosított szöveg.
 [^46]: A 14. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 19/2014. (III. 12.) VM rendelet 20. § a) pontja szerint módosított szöveg.
 [^47]: A 14. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § d) pontja szerint módosított szöveg.
-[^48]: A 14. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
+[^48]: A 14. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet 89. § 14. pontja szerint módosított szöveg.
 [^49]: A 14. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
-[^50]: A 14. § (9) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
+[^50]: A 14. § (9) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 18. pontja szerint módosított szöveg.

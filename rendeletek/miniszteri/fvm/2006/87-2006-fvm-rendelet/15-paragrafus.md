@@ -1,14 +1,14 @@
 ## Lerakati forgalomba hozatal
 
-15. § (1)[^51] Szőlő ültetési anyag kistételes forgalomba hozatala a szőlőiskolai engedélyes telephelyén kívül lerakatban vagy egyéb értékesítő helyen (a továbbiakban: árusítóhely) a NÉBIH-nek előzetes engedélyével történhet.
+15. § (1)[^51] Szőlő ültetési anyag kistételes forgalomba hozatala a szőlőiskolai engedélyes telephelyén kívül lerakatban vagy egyéb értékesítő helyen (a továbbiakban: árusítóhely) a növénytermesztési hatáskörben eljáró járási hivatal előzetes engedélyével történhet.
 
-(2)[^52] A NÉBIH az árusítóhely létesítését akkor engedélyezi, ha
+(2)[^52] A növénytermesztési hatáskörben eljáró járási hivatal az árusítóhely létesítését akkor engedélyezi, ha
 
 a) az árusítóhely vezetője vagy állandó alkalmazottja legalább kertészeti vagy növénytermesztési, legalább szakmunkás végzettséggel rendelkezik,
 
 b) az árusítóhelyen a szakmai feltételek biztosítottak, adottak az ültetési anyag életképességének, épségének megőrzésére, az egyes tételek elkülönítésére, megjelölésére vonatkozó feltételek,
 
-c)[^53] a növény- és talajvédelmi igazgatóság a növényegészségügyi alkalmasságot igazolta.
+c)[^53] a növény- és talajvédelmi hatáskörben eljáró járási hivatal a növényegészségügyi alkalmasságot igazolta.
 
 (3)[^54] Az árusítóhely csak a NÉBIH által ellenőrzött, származási igazolvánnyal rendelkező ültetési anyagot veheti át értékesítésre, és azt – a 4. számú mellékletben foglalt kivétellel – zárt csomagolási egységben hozhatja forgalomba. A vásárolt tételekről köteles folyamatosan nyilvántartást vezetni és azt 5 évig megőrizni.
 
@@ -34,13 +34,13 @@ b) az értékesítés időpontját,
 
 c) az ültetési anyag mennyiségét, fajtáját, oltvány esetén alanyát, kategóriáját, árát és származási helyét.
 
-(7)[^55] Az árusítóhelyet a NÉBIH és a növény- és talajvédelmi igazgatóságok ellenőrzik.
+(7)[^55] Az árusítóhelyet a NÉBIH és a növénytermesztési hatáskörben eljáró járási hivatal ellenőrzik.
 
-(8)[^56] A NÉBIH a forgalomba hozatali engedélyt visszavonja, ha az árusítóhelyen az engedélyes 5 éven belül ismételten és szándékosan megszegték a szaporítóanyag forgalomba hozatalára vonatkozó előírásokat.
+(8)[^56] A növénytermesztési hatáskörben eljáró járási hivatal a forgalomba hozatali engedélyt visszavonja, ha az árusítóhelyen az engedélyes 5 éven belül ismételten és szándékosan megszegték a szaporítóanyag forgalomba hozatalára vonatkozó előírásokat.
 
-[^51]: A 15. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § d) pontja szerint módosított szöveg.
-[^52]: A 15. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
-[^53]: A 15. § (2) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 59. § g) pontja szerint módosított szöveg.
+[^51]: A 15. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 89. § 3. pontja szerint módosított szöveg.
+[^52]: A 15. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja szerint módosított szöveg.
+[^53]: A 15. § (2) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja szerint módosított szöveg.
 [^54]: A 15. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
-[^55]: A 15. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 19/2014. (III. 12.) VM rendelet 20. § b) pontja szerint módosított szöveg.
-[^56]: A 15. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § h) pontja szerint módosított szöveg.
+[^55]: A 15. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 19. pontja szerint módosított szöveg.
+[^56]: A 15. § (8) bekezdése a 42/2017. (VIII. 17.) FM rendelet 89. § 20. pontja szerint módosított szöveg.
