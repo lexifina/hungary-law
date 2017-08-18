@@ -1,12 +1,12 @@
-18. §[^46] Ahol e rendelet járási hivatalt említ, azon a földhivatalok, valamint a Földmérési és Távérzékelési Intézet feladatairól, illetékességi területéről, továbbá egyes földhivatali eljárások részletes szabályairól szóló 373/2014. (XII. 31.) Korm. rendelet 1. mellékletében megjelölt járási hivatalokat kell érteni.
+18. §[^49]
 
-Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^47]
+Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^50]
 
 |  | A | B |
 
 |  | Név | Számlaszám |
 
-| 1. | Földmérési és Távérzékelési Intézet | 10032000-01474527-00000000 |
+| 1. | Földmérési és térinformatikai államigazgatási szerv | 10023002-00299592-38200001 |
 
 | 2. | Baranya Megyei Kormányhivatal | 10024003-00300960-00000000 |
 
@@ -48,5 +48,5 @@ Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^47]
 
 | 21. | Budapest Főváros Kormányhivatala | 10023002-00301208-00000000 |
 
-[^46]: A 18. §-t a 29/2015. (VI. 5.) FM rendelet 8. § (1) bekezdése iktatta be.
-[^47]: A melléklet a 29/2015. (VI. 5.) FM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^49]: A 18. §-t a 29/2015. (VI. 5.) FM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 42/2017. (VIII. 17.) FM rendelet 142. §-a.
+[^50]: A melléklet a 29/2015. (VI. 5.) FM rendelet 8. § (5) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 140. §-a szerint módosított szöveg.
