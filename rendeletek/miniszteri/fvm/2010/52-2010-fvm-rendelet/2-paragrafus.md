@@ -26,11 +26,12 @@
 
 13.[^7] Falusi vendégasztal: falusias, tanyasias vagy vidéki környezetben a házi élelmiszerekhez és gasztronómiai hagyományokhoz kapcsolódó tevékenységek bemutatása, és az elkészített élelmiszerek felkínálása helyben fogyasztásra a gazdaság helyén;
 
-14. Rendezvény: a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet (a továbbiakban: 210/2009. Korm. rendelet) 28. §-ának a) pontja szerinti fogalom;
+14.[^8] Rendezvény: a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet (a továbbiakban: 210/2009. (IX. 29.) Korm. rendelet) 28. §-ának a) pontja szerinti fogalom;
 
-15.[^8] Biztonságos hőkezelés: az a hőkezelési eljárás (sütés, főzés), amely legalább 2 percen át tartó 72 °C-os maghőmérsékletet, vagy az étel minden pontján legalább 75 °C-t biztosít.
+15.[^9] Biztonságos hőkezelés: az a hőkezelési eljárás (sütés, főzés), amely legalább 2 percen át tartó 72 °C-os maghőmérsékletet, vagy az étel minden pontján legalább 75 °C-t biztosít.
 
 [^5]: A 2. § 11. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § 12. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § 13. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § 15. pontját a 4/2010. (VII. 5.) VM rendelet 2. § (2) bekezdése iktatta be.
+[^8]: A 2. § 14. pontja a 42/2017. (VIII. 17.) FM rendelet 156. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § 15. pontját a 4/2010. (VII. 5.) VM rendelet 2. § (2) bekezdése iktatta be.
