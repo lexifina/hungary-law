@@ -1,6 +1,6 @@
-## 14–15. §[^24]
+## 14–15. §[^25]
 
-16. §[^25] E rendelet a szarvasmarhafélék fajtatiszta tenyészállatainak tenyésztés céljára történő engedélyezéséről szóló 1987. június 18-i 87/328/EK tanácsi irányelvnek, valamint az azt módosító 2005/24/EK tanácsi irányelvnek, valamint a 88/407/EGK irányelvnek való megfelelést szolgálja.
+16. §[^26] E rendelet a szarvasmarhafélék fajtatiszta tenyészállatainak tenyésztés céljára történő engedélyezéséről szóló 1987. június 18-i 87/328/EK tanácsi irányelvnek, valamint az azt módosító 2005/24/EK tanácsi irányelvnek, valamint a 88/407/EGK irányelvnek való megfelelést szolgálja.
 
 Melléklet a 49/2007. (VI. 26.) FVM rendelethez
 
@@ -32,5 +32,5 @@ A spermatároló központ üzemeltetésének tárgyi és műszaki feltételei
 
 3. Hűtésre csak olyan hűtőközeg használható, amit nem használtak egyéb állati eredetű termék hűtésére.
 
-[^24]: A 14–15. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 29. pontja hatályon kívül helyezte.
-[^25]: A 16. § a 28/2010. (XI. 9.) VM rendelet 5. § (10) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^25]: A 14–15. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 29. pontja hatályon kívül helyezte.
+[^26]: A 16. § a 28/2010. (XI. 9.) VM rendelet 5. § (10) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
