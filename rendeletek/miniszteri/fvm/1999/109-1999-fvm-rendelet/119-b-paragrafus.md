@@ -1,15 +1,15 @@
-119/B. §[^310] (1)[^311] Azonosnak kell tekinteni az ingatlant, ha a földrészletnek az új állami földmérési térképi adatbázisban feltüntetett határvonalai hasonlóan helyezkednek el vagy egybeesnek a korábbi térképen feltüntetett határvonalakkal, és
+119/B. §[^314] (1)[^315] Azonosnak kell tekinteni az ingatlant, ha a földrészletnek az új állami földmérési térképi adatbázisban feltüntetett határvonalai hasonlóan helyezkednek el vagy egybeesnek a korábbi térképen feltüntetett határvonalakkal, és
 
 a) a földrészletnek az eljárás során megállapított új területe azonos az ingatlan-nyilvántartásban feltüntetett régi területtel, vagy az eltérés az ingatlan-nyilvántartás szerinti terület külön jogszabályban meghatározott mértékét nem haladja meg, vagy
 
 b) a felmérési, térképezési vagy területszámítási hibából eredő területi eltérés a külön jogszabályban meghatározott mértéket meghaladja, de az eltérés a szomszédos földrészleteknél nem mutatható ki.
 
-(2)[^312] Azonosnak kell tekinteni az ingatlant akkor is, ha a földrészletnek az új állami földmérési térképi adatbázisban feltüntetett határvonalai nem helyezkednek el hasonlóan, illetőleg nem esnek egybe a korábbi térképen feltüntetett határvonalakkal, de
+(2)[^316] Azonosnak kell tekinteni az ingatlant akkor is, ha a földrészletnek az új állami földmérési térképi adatbázisban feltüntetett határvonalai nem helyezkednek el hasonlóan, illetőleg nem esnek egybe a korábbi térképen feltüntetett határvonalakkal, de
 
 a) a régi és az új terület között eltérés nincs, vagy
 
 b) az (1) bekezdés a) és b) pontja szerinti mértékű, telekalakításból vagy kisajátításból származó eltérés áll fenn.
 
-[^310]: A 119/B. §-t a 117/2005. (XII. 19.) FVM rendelet 46. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^311]: A 119/B. § (1) bekezdés nyitó szövegrésze a 148/2012. (XII. 28.) VM rendelet 24. § p) pontja szerint módosított szöveg.
-[^312]: A 119/B. § (2) bekezdés nyitó szövegrésze a 148/2012. (XII. 28.) VM rendelet 24. § p) pontja szerint módosított szöveg.
+[^314]: A 119/B. §-t a 117/2005. (XII. 19.) FVM rendelet 46. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^315]: A 119/B. § (1) bekezdés nyitó szövegrésze a 148/2012. (XII. 28.) VM rendelet 24. § p) pontja szerint módosított szöveg.
+[^316]: A 119/B. § (2) bekezdés nyitó szövegrésze a 148/2012. (XII. 28.) VM rendelet 24. § p) pontja szerint módosított szöveg.
