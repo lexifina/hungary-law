@@ -1,6 +1,6 @@
 5. melléklet a 67/2011. (VII. 13.) VM rendelethez
 
-## Az élelmiszerbesugárzó létesítmények ajánlott működési szabályzata[^3]
+## Az élelmiszerbesugárzó létesítmények ajánlott működési szabályzata[^9]
 
 1. ÁLTALÁNOS ELŐÍRÁS
 
@@ -34,9 +34,9 @@ A termék mozgását, a pásztázási szélességet és sebességét, valamint a
 
 2.2. Dozimetria és folyamatellenőrzés
 
-Bármely élelmiszer besugárzása előtt bizonyos dozimetriás méréseket[^4] kell végezni, amelyek azt jelzik, hogy az eljárás megfelel a jogszabályi követelményeknek.
+Bármely élelmiszer besugárzása előtt bizonyos dozimetriás méréseket[^10] kell végezni, amelyek azt jelzik, hogy az eljárás megfelel a jogszabályi követelményeknek.
 
-Radionuklid és gépi sugárforrásokra vonatkozó dozimetriához különböző technikák állnak rendelkezésre az elnyelt dózis kvantitatív mérésére[^5]. Dozimetriás beállító méréseket kell végezni minden egyes új élelmiszer és besugárzási technológia esetében, valamint mindenkor, amikor változtatják a sugárforrás erősségét vagy a sugárforrás-termék geometriáját.
+Radionuklid és gépi sugárforrásokra vonatkozó dozimetriához különböző technikák állnak rendelkezésre az elnyelt dózis kvantitatív mérésére[^11]. Dozimetriás beállító méréseket kell végezni minden egyes új élelmiszer és besugárzási technológia esetében, valamint mindenkor, amikor változtatják a sugárforrás erősségét vagy a sugárforrás-termék geometriáját.
 
 Rutin dozimetriát kell végezni a működés során és ezekről a mérésekről nyilvántartást kell vezetni.
 
@@ -110,7 +110,7 @@ A szakaszos üzemelésű radionuklid létesítményben automatikusan lehet regis
 
 Gépi berendezésben folyamatosan regisztrálhatók a sugárnyaláb paraméterei, azaz a feszültség, áramerősség, a pásztázási sebesség és szélesség, pulzus ismétlés és a sugártéren történő áthaladás sebessége. Ez utóbbit lehet felhasználni a folyamatos eljárás ellenőrzésére a rutin dozimetriás mérések alátámasztására.
 
-6. Példák egyes élelmiszerféleségek besugárzásánál alkalmazott technológiai körülményekre[^6]
+6. Példák egyes élelmiszerféleségek besugárzásánál alkalmazott technológiai körülményekre[^12]
 
 6.1. Baromfi (Gallus domesticus)
 
@@ -290,7 +290,7 @@ A búza és darált búzatermékek besugárzásának célja, hogy meggátoljuk a
 
 Ezeket a termékeket függetlenül attól, hogy csomagolva vagy ömlesztve vannak tárolva, amennyire csak lehetséges, olyan körülmények között kell tartani, amely meggátolja újrafertőzésüket.
 
-[^3]: Recommended international code of practice for the operation of irradation facilities used for the treatment of foods (reference FAO/WHO/CAC, Vol. XV, edition 1)
-[^4]: Lásd: B rész
-[^5]: Részletesen ismertetve az Élelmiszerbesugárzás Dozimetriájának Kézikönyvében, IAEA Bécs, 1977, 178. sorozatszámú Technikai Jelentés
-[^6]: Ezek az információkat a közös FAO/IAEA/WHO Élelmiszer-besugárzási Szakértői Bizottság jelentéseiből (WHO Műszaki Jelentések sorozat 604. sz. 1977 és 659. sz. 1981) származnak és a besugárzás hasznosságát mutatják be. A jelentések leírják a biztonságos és gazdaságos besugárzási eljárás céljainak eléréséhez szükséges műszaki körülményeket is.
+[^9]: Recommended international code of practice for the operation of irradation facilities used for the treatment of foods (reference FAO/WHO/CAC, Vol. XV, edition 1)
+[^10]: Lásd: B rész
+[^11]: Részletesen ismertetve az Élelmiszerbesugárzás Dozimetriájának Kézikönyvében, IAEA Bécs, 1977, 178. sorozatszámú Technikai Jelentés
+[^12]: Ezek az információkat a közös FAO/IAEA/WHO Élelmiszer-besugárzási Szakértői Bizottság jelentéseiből (WHO Műszaki Jelentések sorozat 604. sz. 1977 és 659. sz. 1981) származnak és a besugárzás hasznosságát mutatják be. A jelentések leírják a biztonságos és gazdaságos besugárzási eljárás céljainak eléréséhez szükséges műszaki körülményeket is.
