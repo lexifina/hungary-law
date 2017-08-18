@@ -22,10 +22,10 @@ j) az állami átvétel során vizsgálni kell az adatok teljességét, lefedi-e
 
 k) az állami átvételi eljáráshoz biztosítani kell a készíttető által előre meghatározott műszaki paramétereket;
 
-l)[^4] az állami átvétel során a hiperspektrális adatok műszaki paramétereinek és a leadandó munkarészeknek meg kell felelnie a földügyi szakigazgatás hivatalos honlapján, valamint a FÖMI honlapján közzétett szabályzatban rögzítetteknek;
+l)[^7] az állami átvétel során a hiperspektrális adatok műszaki paramétereinek és a leadandó munkarészeknek meg kell felelnie a földügyi szakigazgatás hivatalos honlapján, valamint a földmérési és térinformatikai államigazgatási szerv honlapján közzétett szabályzatban rögzítetteknek;
 
 m) az állami átvételt legalább 5 éves szakmai gyakorlattal, szakirányú felsőfokú végzettséggel rendelkező, a földmérési és térinformatikai államigazgatási szerv, a kizárólag honvédelmi célból készített távérzékelési anyagok vonatkozásában a honvédelem térképészeti támogatásáért felelős szerv állományába tartozó szakember végezheti;
 
 n) az állami átvételi eljárásról jegyzőkönyvet kell készíteni, amely tartalmazza a „megfelelt” vagy „nem megfelelt” minősítést.
 
-[^4]: A 7. § l) pontja a 29/2015. (VI. 5.) FM rendelet 10. § b) pontja szerint módosított szöveg.
+[^7]: A 7. § l) pontja a 29/2015. (VI. 5.) FM rendelet 10. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 201. § b) pontja szerint módosított szöveg.
