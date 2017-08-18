@@ -2,7 +2,7 @@
 
 17. § (1) A rendezvényekre vonatkozó szabályokat a 2. mellékletben felsorolt élelmiszerekre vonatkozó rendelkezések sérelme nélkül kell alkalmazni.
 
-(2)[^20] A rendezvényt annak szervezője, több szervező esetén felelős szervezője (a továbbiakban: szervező) legalább 5 munkanappal a rendezvény kezdete előtt köteles bejelenteni a rendezvény helye szerinti járási állategészségügyi hivatalnak.
+(2)[^21] A rendezvényt annak szervezője, több szervező esetén felelős szervezője (a továbbiakban: szervező) legalább 5 munkanappal a rendezvény kezdete előtt köteles bejelenteni a rendezvény helye szerinti járási hivatalnak.
 
 (3) A szervező köteles nyilvántartást vezetni a rendezvényen élelmiszert forgalomba hozókról. A szervező kizárólag a nyilvántartás vezetéséért tartozik felelősséggel.
 
@@ -10,4 +10,4 @@
 
 (5) A szervező köteles a (3) bekezdés szerinti nyilvántartást folyamatosan naprakészen vezetni, és azt a rendezvény helyszínén tartani.
 
-[^20]: A 17. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 46. § b) pontja szerint módosított szöveg.
+[^21]: A 17. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 157. § g) pontja szerint módosított szöveg.

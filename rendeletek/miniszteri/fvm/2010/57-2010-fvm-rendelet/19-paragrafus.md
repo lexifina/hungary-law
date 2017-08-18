@@ -6,8 +6,8 @@
 
 (3) Ha az engedélyes kérelmére történő szünetelés kezdetétől számított 1 éven belül a kérelmező a tevékenység folytatására vonatkozó érdemi nyilatkozatot nem tesz, az engedélyező hatóság az engedélyt visszavonja.
 
-(4)[^21] Engedélyköteles létesítmény esetében az (1) és (2) bekezdés szerinti bejelentéseket a NÉBIH az általa működtetett adatbázisban rögzíti és közzé teszi.
+(4)[^22] Engedélyköteles létesítmény esetében az (1) és (2) bekezdés szerinti bejelentéseket a NÉBIH az általa működtetett adatbázisban rögzíti és közzé teszi.
 
 (5) Az engedélyes személyében történt változást, jogutódlást – amennyiben a változás a létesítményt, a tevékenységet, illetve a forgalomba hozott termékkört nem érinti, valamint a tevékenységre vonatkozó higiéniai követelmények betartása biztosított –, az új jogosult, illetve a jogutód köteles, annak megfelelő igazolása mellett, haladéktalanul bejelenteni. Az engedélyező hatóság az adatok megváltozását a nyilvántartásba átvezeti, és 5 munkanapon belül új engedélyt állít ki.
 
-[^21]: A 19. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 128. § f) pontja szerint módosított szöveg.
+[^22]: A 19. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 128. § f) pontja szerint módosított szöveg.
