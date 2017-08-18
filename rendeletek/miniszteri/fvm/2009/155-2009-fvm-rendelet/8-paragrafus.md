@@ -1,4 +1,4 @@
-## 7/B. §[^14] A Korm. r. 17/A. § (8) bekezdésében meghatározott igazolás kiadása esetében a 7/A. §-ban foglaltakat kell alkalmazni.
+## 7/B. §[^16] A Korm. r. 17/A. § (8) bekezdésében meghatározott igazolás kiadása esetében a 7/A. §-ban foglaltakat kell alkalmazni.
 
 ## 8. § Az illetékekről szóló 1990. évi XCIII. törvény
 
@@ -10,4 +10,4 @@ c) 82. § (1) bekezdésében foglalt mulasztási bírságot a földhasználati l
 
 megfelelően alkalmazni kell azzal, hogy az ott nevesített illeték helyett díjat kell érteni.
 
-[^14]: A 7/B. §-t az 1/2014. (I. 3.) VM rendelet 2. §-a iktatta be.
+[^16]: A 7/B. §-t az 1/2014. (I. 3.) VM rendelet 2. §-a iktatta be.

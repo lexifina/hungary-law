@@ -1,12 +1,12 @@
 ## 9. § E rendelet 2010. január 1-jén lép hatályba.
 
-1. melléklet a 155/2009. (XI. 16.) FVM rendelethez[^16]
+1. melléklet a 155/2009. (XI. 16.) FVM rendelethez[^18]
 
 |  | A | B |
 
 |  | Név | Számlaszám |
 
-| 1. | Földmérési és Távérzékelési Intézet | 10032000-01474527-00000000 |
+| 1. | Földmérési és térinformatikai államigazgatási szerv | 10023002-00299592-38200001 |
 
 | 2. | Baranya Megyei Kormányhivatal | 10024003-00300960-00000000 |
 
@@ -48,4 +48,4 @@
 
 | 21. | Budapest Főváros Kormányhivatala | 10023002-00301208-00000000 |
 
-[^16]: Az 1. melléklet a 29/2015. (VI. 5.) FM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^18]: Az 1. melléklet a 29/2015. (VI. 5.) FM rendelet 6. § (4) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 137. §-a szerint módosított szöveg.
