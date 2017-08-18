@@ -4,4 +4,4 @@
 
 (3) Az agrártámogatások folyósítására vonatkozó külön jogszabályok tartalmazzák a támogatási szerződés megkötésére, ellenőrzésére, megszüntetésére, továbbá a támogatás folyósításának részleteire vonatkozó – e rendeletben nem szabályozott – előírásokat.
 
-[^6]: A 9. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 12. § h) pontja szerint módosított szöveg.
+[^6]: A 9. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 12. § h) pontja szerint módosított szöveg. [A 9. § (1) bekezdésében a 42/2017. (VIII. 17.) FM rendelet 28. § e) pontjával elrendelt módosítás, amely szerint az „az VM” szövegrész helyébe az „a miniszter” szöveg lép, nem vezethető át.]

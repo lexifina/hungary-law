@@ -1,4 +1,4 @@
-5. § (1)[^2] Az ÉTT létesítésének előkészítésekor megvalósíthatósági vizsgálatot (a továbbiakban: vizsgálat) kell tartani, melynek során az igazgatóság a földművelésügyi igazgatóság és az illetékes fővárosi és megyei kormányhivatal földhivatala (a továbbiakban együtt: megyei földhivatal) bevonásával – megvizsgálja, hogy indokolt-e az adott földrészletek ÉTT-ké nyilvánítása, a javasolt földrészletek megfelelnek-e az e jogszabályban meghatározott feltételeknek, továbbá ÉTT-ké nyilvánítás esetén az e rendeletben meghatározott célok eléréséhez milyen intézkedések szükségesek, illetve azok megvalósíthatóak-e.
+5. § (1)[^2] Az ÉTT létesítésének előkészítésekor megvalósíthatósági vizsgálatot (a továbbiakban: vizsgálat) kell tartani, melynek során az igazgatóság a járási hivatal és a földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) bevonásával – megvizsgálja, hogy indokolt-e az adott földrészletek ÉTT-ké nyilvánítása, a javasolt földrészletek megfelelnek-e az e jogszabályban meghatározott feltételeknek, továbbá ÉTT-ké nyilvánítás esetén az e rendeletben meghatározott célok eléréséhez milyen intézkedések szükségesek, illetve azok megvalósíthatóak-e.
 
 (2) A létesítés előkészítése során az igazgatóság:
 
@@ -18,4 +18,4 @@ f) meghatározza a 3. § (3) bekezdés szerinti ÉTT kategóriát.
 
 (4) A létesítés előkészítésébe a természetvédelmi célra alakult társadalmi szervezetek szövetségei által delegált, legfeljebb három személyt is be kell vonni, feltéve, hogy az érintett szervezetek ez irányú igényüket – a delegált személyek nevének és címének megadásával – a 4. § (3) bekezdése szerinti hirdetmény kifüggesztésétől számított 30 napon belül szóban vagy írásban bejelentik az igazgatóságnál.
 
-[^2]: Az 5. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 12. § b)–c) pontja szerint módosított szöveg.
+[^2]: Az 5. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 28. § b) és c) pontja szerint módosított szöveg.

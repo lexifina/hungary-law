@@ -1,3 +1,3 @@
-## 6. §[^3] Az ÉTT létesítésének előkészítését követően az igazgatóság a létesítésre vonatkozó javaslatát – valamennyi előkészítés során keletkezett irattal együtt – felterjeszti a Vidékfejlesztési Minisztériumhoz (a továbbiakban: VM). A vidékfejlesztési miniszter dönt az ÉTT létesítéséről és módosítja az 1–2. számú mellékleteket.
+## 6. §[^3] Az ÉTT létesítésének előkészítését követően az igazgatóság a létesítésre vonatkozó javaslatát – valamennyi előkészítés során keletkezett irattal együtt – felterjeszti a természetvédelemért felelős miniszterhez (a továbbiakban: miniszter). A miniszter dönt az ÉTT létesítéséről és módosítja az 1–2. számú mellékleteket.
 
-[^3]: A 6. § a 70/2013. (VII. 31.) VM rendelet 12. § d)–e) pontja szerint módosított szöveg.
+[^3]: A 6. § a 42/2017. (VIII. 17.) FM rendelet 28. § d) pontja szerint módosított szöveg.
