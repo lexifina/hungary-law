@@ -26,4 +26,6 @@ b) a töltési mennyiség ellenőrzéséhez szükséges, a mérésügyi hatósá
 
 (3) A 250 hl/év mennyiséget meghaladó borászati terméket előállító borászati üzem és a mozgó borpalackozók tevékenységére alkalmazni kell az élelmiszer-higiéniáról szóló 2004. április 29-i 852/2004/EK európai parlamenti és tanácsi rendelet előírásait.
 
-(4) A borászati üzemnek az e rendeletben meghatározott feltételeknek való megfelelését a borászati hatóság élelmiszermérnöki, élelmiszertechnológus mérnöki, kertészmérnöki, szőlész-borász mérnöki, szőlészeti és borászati mérnöki, borász-italtechnológus szakmérnöki vagy tartósítóipari mérnöki felsőfokú képesítéssel rendelkező felügyelői ellenőrzik.
+(4)[^3] A borászati üzemnek az e rendeletben meghatározott feltételeknek való megfelelését a Nemzeti Élelmiszerlánc-biztonsági Hivatal vagy a borászati hatóság élelmiszermérnöki, élelmiszertechnológus mérnöki, kertészmérnöki, szőlész-borász mérnöki, szőlészeti és borászati mérnöki, borász-italtechnológus szakmérnöki vagy tartósítóipari mérnöki felsőfokú képesítéssel rendelkező felügyelői ellenőrzik.
+
+[^3]: Az 5. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 152. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 1. § E rendelet hatálya a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban: Btv.) 2. § 15. pontjában foglalt borászati termékek előállítását, tárolását, kezelését, illetve kiszerelését árutermelési céllal végző borászati üzemekre terjed ki.
 
-2. § (1) A borászati üzem működési engedélyét (a továbbiakban: engedély) a borászati hatóságtól kell kérelmezni.
+2. § (1)[^1] A borászati üzem működési engedélyét (a továbbiakban: engedély) a borászati hatáskörben eljáró járási hivataltól (a továbbiakban: borászati hatóság) kell kérelmezni.
 
 (2) A borászati üzem létesítése esetén az engedély iránti kérelemnek tartalmaznia kell:
 
@@ -59,3 +59,5 @@ bb) palacktöltővel és
 bc) dugaszolóval.
 
 (6) A mozgó borpalackozóra vonatkozó engedélyre vonatkozó kérelemhez a (3) bekezdés a), valamint a (4) bekezdés a)–i) és k) pontjában meghatározottakat kell mellékelni.
+
+[^1]: A 2. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 152. § a) pontja szerint módosított szöveg.
