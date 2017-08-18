@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-110-20-
 | 2014-03-13 | 2003-110-20-82.6 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-03-15 | 2003-110-20-82.7 | 22/2014. (III. 14.) VM rendelet |
 | 2015-04-01 | 2003-110-20-82.8 | 183/2009. (XII. 30.) FVM rendelet |
+| 2017-08-18 | 2003-110-20-82.9 | 42/2017. (VIII. 17.) FM rendelet |

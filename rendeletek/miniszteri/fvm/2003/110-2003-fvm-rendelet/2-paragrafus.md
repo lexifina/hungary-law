@@ -102,8 +102,11 @@
 
 50. törzsállomány: fa alakú formában fenntartott géngyűjtemény,
 
-51. törzsanyatelep: évente visszavágott, juvenilis állapotban tartott klóngyűjtemény.
+51. törzsanyatelep: évente visszavágott, juvenilis állapotban tartott klóngyűjtemény,
+
+52.[^6] Fajtagyűjtemény: köztermesztés céljára nemesített klónalapú fajták fenntartása, megőrzése érdekében létesített és fenntartott géngyűjtemény, amelynek fenntartása történhet anyatelep formában (juvenilis állapot), illetve faalakú, kifejlett növény formában.
 
 [^3]: A 2. § 19. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § 20. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § 25. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § 52. pontját a 42/2017. (VIII. 17.) FM rendelet 55. § (2) bekezdése iktatta be.

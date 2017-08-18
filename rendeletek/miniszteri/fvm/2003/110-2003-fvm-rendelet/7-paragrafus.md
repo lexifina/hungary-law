@@ -8,42 +8,42 @@ a) vetőmagját igazoltan valamely, az 5. § szerinti származási körzetben, a
 
 b) az állomány őshonos, nem őshonos, vagy honosított ismeretlen származását feljegyezték,
 
-c)[^10] termelését a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrzése mellett végezték.
+c)[^11] termelését a NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal ellenőrzése mellett végezték.
 
 (3) Kiválasztott kategóriába minősíthető a szaporítóanyag, ha
 
 a) olyan külső megjelenés alapján végzett tömegszelekcióval kiválasztott állományból gyűjtötték be, amely megfelel az 5. számú mellékletben foglaltaknak,
 
-b)[^11] a szaporítóanyag-forrás a NÉBIH által elfogadott, ellenőrzött és nyilvántartott,
+b)[^12] a szaporítóanyag-forrás a NÉBIH által elfogadott, ellenőrzött és nyilvántartott,
 
-c)[^12] a szaporítóanyag-forrás származási körzetét és eredetét a NÉBIH feljegyezte,
+c)[^13] a szaporítóanyag-forrás származási körzetét és eredetét a NÉBIH feljegyezte,
 
-d)[^13] termelését a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrzése mellett végezték.
+d)[^14] termelését a NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal ellenőrzése mellett végezték.
 
 (4) Kiemelt kategóriába minősíthető a szaporítóanyag, ha
 
 a) olyan külső megjelenés alapján végzett egyedszelekcióval kiválasztott szaporítóanyag-forrásból gyűjtötték be, vagy termelték meg, amely megfelel az 5. számú mellékletben foglaltaknak,
 
-b)[^14] a szaporítóanyag-forrás a NÉBIH által elfogadott, ellenőrzött és nyilvántartott,
+b)[^15] a szaporítóanyag-forrás a NÉBIH által elfogadott, ellenőrzött és nyilvántartott,
 
-c)[^15] termelését a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrzése mellett végezték.
+c)[^16] termelését a NÉBIH és a növénytermesztési hatáskörében eljáró járási hivatal, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal ellenőrzése mellett végezték.
 
 (5) Vizsgált kategóriába minősíthető a szaporítóanyag, ha
 
 a) olyan szaporítóanyag-forrásból gyűjtötték be vagy állították elő, amely megfelel a 3. és 5. számú mellékletben foglaltaknak,
 
-b)[^16] a szaporítóanyag-forrás a NÉBIH által elfogadott, ellenőrzött és nyilvántartott,
+b)[^17] a szaporítóanyag-forrás a NÉBIH által elfogadott, ellenőrzött és nyilvántartott,
 
-c)[^17] a szaporítóanyag-forrás genetikailag meghatározott többlethasznossága az 4. számú melléklet szerinti módszertani összehasonlító kísérletekkel bizonyított, továbbá a kísérletek eredményeit a NÉBIH a 3. számú melléklet követelményei szerint elismerte és feljegyezte,
+c)[^18] a szaporítóanyag-forrás genetikailag meghatározott többlethasznossága az 4. számú melléklet szerinti módszertani összehasonlító kísérletekkel bizonyított, továbbá a kísérletek eredményeit a NÉBIH a 3. számú melléklet követelményei szerint elismerte és feljegyezte,
 
-d)[^18] termelését a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrzése mellett végezték.
+d)[^19] termelését a NÉBIH és a növénytermesztési hatáskörében eljáró járási hivatal, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal ellenőrzése mellett végezték.
 
-[^10]: A 7. § (2) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 30. § f) pontja szerint módosított szöveg.
-[^11]: A 7. § (3) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^12]: A 7. § (3) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^13]: A 7. § (3) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 30. § f) pontja szerint módosított szöveg.
-[^14]: A 7. § (4) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^15]: A 7. § (4) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) és f) pontja szerint módosított szöveg.
-[^16]: A 7. § (5) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^17]: A 7. § (5) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^18]: A 7. § (5) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 30. § f) pontja szerint módosított szöveg.
+[^11]: A 7. § (2) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja szerint módosított szöveg.
+[^12]: A 7. § (3) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^13]: A 7. § (3) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^14]: A 7. § (3) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja szerint módosított szöveg.
+[^15]: A 7. § (4) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^16]: A 7. § (4) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. és 7. pontja szerint módosított szöveg.
+[^17]: A 7. § (5) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^18]: A 7. § (5) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^19]: A 7. § (5) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. és 7. pontja szerint módosított szöveg.

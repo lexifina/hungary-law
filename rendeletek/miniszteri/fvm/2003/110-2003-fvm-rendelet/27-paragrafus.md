@@ -1,4 +1,4 @@
-## 26. §[^75] A NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága az erdészeti szaporítóanyag minősítéséért és ellenőrző vizsgálataiért a külön jogszabályban meghatározott díjra jogosult.
+## 26. §[^80] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal az erdészeti szaporítóanyag minősítéséért és ellenőrző vizsgálataiért a külön jogszabályban meghatározott díjra jogosult.
 
 ## IV. Fejezet
 
@@ -8,7 +8,7 @@
 
 (2) Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben 1991. december 16-án aláírt Európai Megállapodás tárgykörében, az azt kihirdető 1994. évi I. törvény 3. §-ával összhangban az erdészeti szaporítóanyagok forgalmazásáról szóló, a Tanács 1999/105/EK irányelvével összeegyeztethető szabályozást tartalmaz.
 
-(3)[^76] Az R. követelményei szerint előállított, a rendelet hatálybalépésekor a NÉBIH által már szemlézett szaporítóanyagok a rendelet hatálybalépését követően is forgalomba hozhatók.
+(3)[^81] Az R. követelményei szerint előállított, a rendelet hatálybalépésekor a NÉBIH által már szemlézett szaporítóanyagok a rendelet hatálybalépését követően is forgalomba hozhatók.
 
-[^75]: A 26. § a 70/2013. (VII. 31.) VM rendelet 30. § n) pontja szerint módosított szöveg.
-[^76]: A 27. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^80]: A 26. § a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja szerint módosított szöveg.
+[^81]: A 27. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
