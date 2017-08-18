@@ -14,7 +14,7 @@
 
 6. Gazdaság: olyan létesítmény, ahol a kéknyelv betegségre fogékony fajú állatokat állandóan vagy átmeneti jelleggel tenyésztenek, illetve tartanak;
 
-7.[^3] Hatósági megállapítás: az állategészségügyi és élelmiszer-ellenőrző hatáskörében eljáró járási hivatalnak (a továbbiakban: járási hivatal) a Nemzeti Referencia Laboratórium (a továbbiakban: NRL) eredményeire alapozott határozata, mely szerint a kéknyelv betegség vírusa az adott állományban terjed;
+7.[^3] Hatósági megállapítás: az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalnak (a továbbiakban: járási hivatal) a Nemzeti Referencia Laboratórium (a továbbiakban: NRL) eredményeire alapozott határozata, mely szerint a kéknyelv betegség vírusa az adott állományban terjed;
 
 8.[^4] Helyi Járványvédelmi Központ (HJK): az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatalon (a továbbiakban: megyei kormányhivatal) belüli, a betegség felszámolását irányító szervezet;
 
@@ -36,7 +36,7 @@
 
 [^1]: A 2. § (1) bekezdés 2. pontja a 46/2015. (VIII. 7.) FM rendelet 36. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdés 3. pontja a 46/2015. (VIII. 7.) FM rendelet 36. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1) bekezdés 7. pontja a 46/2015. (VIII. 7.) FM rendelet 36. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 7. pontja a 46/2015. (VIII. 7.) FM rendelet 36. § (2) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 124. §-a szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés 8. pontja a 46/2015. (VIII. 7.) FM rendelet 36. § (2) bekezdésével megállapított szöveg.
 [^5]: A 2. § (1) bekezdés 12. pontja a 117/2012. (XI. 21.) VM rendelet 8. § c) pontja szerint módosított szöveg.
 [^6]: A 2. § (1) bekezdés 13. pontját a 117/2012. (XI. 21.) VM rendelet 1. §-a iktatta be.
