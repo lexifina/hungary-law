@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-65-20-8
 | 2008-05-16 | 2004-65-20-82.4 | 65/2004. (IV. 27.) FVM–ESZCSM–GKM együttes rendelet |
 | 2013-08-01 | 2004-65-20-82.5 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-03-13 | 2004-65-20-82.6 | 70/2013. (VII. 31.) VM rendelet |
+| 2017-08-18 | 2004-65-20-82.7 | 42/2017. (VIII. 18.) FM rendelet |

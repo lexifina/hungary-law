@@ -1,5 +1,3 @@
-## A természetes ásványvizekben természetesen előforduló összetevők, valamint az azokra vonatkozó maximálisan megengedett határértékek
-
 | Összetevő | Határérték (mg/l) |
 
 | Antimon | 0,0050 |

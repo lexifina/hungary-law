@@ -1,5 +1,3 @@
-## A természetes ásványvízre vonatkozó állítások és feltételeik
-
 | Állítás: | Feltétel: |
 
 | Csekély ásványianyag-tartalmú | Ásványianyag-tartalom, szárazanyag-tartalom alapján számítva, kevesebb, mint 500 mg/l |

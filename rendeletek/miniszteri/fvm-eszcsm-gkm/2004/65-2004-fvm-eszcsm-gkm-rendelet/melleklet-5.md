@@ -1,8 +1,6 @@
-## A természetes ásványvizek és a forrásvizek ózonnal dúsított levegőt alkalmazó kezelése során keletkező maradékanyagokra vonatkozó határértékek
-
 ## ---------------
 
-## Kezelési maradékanyag Felső határérték[^25] (mg/l)
+## Kezelési maradékanyag Felső határérték[^28] (mg/l)
 
 ## ---------------
 
@@ -16,4 +14,6 @@
 
 GKM együttes rendelethez
 
-[^25]: A határértékeknek való megfelelést az élelmiszer-ellenőrző hatóságok ellenőrzik.
+A természetes ásványvízre vonatkozó állítások és feltételeik
+
+[^28]: A határértékeknek való megfelelést az élelmiszer-ellenőrző hatóságok ellenőrzik.
