@@ -20,7 +20,7 @@
 
 ## cégszerű aláírás
 
-5. melléklet a 45/2012. (V. 8.) VM rendelethez[^65]
+5. melléklet a 45/2012. (V. 8.) VM rendelethez[^67]
 
 I. Jelentés a ....................... évben átvett állati eredetű melléktermékekről, az átadók szerinti bontásban
 
@@ -122,4 +122,4 @@ II. Jelentés a ....................... évben átvett és kezelt állati eredet
 
 III. Jelentés a ....................... évben átvett és feldolgozva vagy feldolgozatlanul továbbadott állati eredetű melléktermékekről
 
-[^65]: Az 5. melléklet a 46/2015. (VIII. 7.) FM rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^67]: Az 5. melléklet a 46/2015. (VIII. 7.) FM rendelet 63. § (1) bekezdésével megállapított szöveg.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-45-20-2
 | 2014-03-15 | 2012-45-20-2Y.5 | 22/2014. (III. 14.) VM rendelet |
 | 2015-08-15 | 2012-45-20-2Y.6 | 46/2015. (VIII. 7.) FM rendelet |
 | 2016-06-29 | 2012-45-20-2Y.7 | 42/2016. (VI. 28.) FM rendelet |
+| 2017-08-18 | 2012-45-20-2Y.8 | 42/2017. (VIII. 17.) FM rendelet |

@@ -1,4 +1,4 @@
-16. § (1)[^24] Az állati melléktermék tulajdonosa a saját létesítményéből származó mellékterméket kereskedelmi okmány kíséretében maga is elszállíthatja az 1069/2009/EK európai parlamenti és tanácsi rendelet szerint engedélyezett létesítménybe, ha rendelkezik a járási hivatal által erre a célra engedélyezett gépjárművel és e tevékenységre nézve a megyei kormányhivatal nyilvántartásba vette.
+16. § (1)[^24] Az állati melléktermék tulajdonosa a saját létesítményéből származó mellékterméket kereskedelmi okmány kíséretében maga is elszállíthatja az 1069/2009/EK európai parlamenti és tanácsi rendelet szerint engedélyezett létesítménybe, ha rendelkezik a járási hivatal által erre a célra engedélyezett gépjárművel és e tevékenységre nézve a járási hivatal nyilvántartásba vette.
 
 (2) Kislétszámú állattartó telepen elhullott gazdasági haszonállatot vagy elhullott kedvtelésből tartott állatot az állattartó, illetve a saját fogyasztás céljából levágott állatból és a kistermelői élelmiszer-előállításból származó állati eredetű melléktermékeket azok birtokosa szivárgásmentes módon a települési gyűjtőhelyre szállíthatja.
 
@@ -24,5 +24,5 @@ az állati eredetű melléktermék szállítására és kezelésére feljogosít
 
 (8) Az olyan nagylétszámú állattartó telepek, amelyek a 20. § (3) bekezdése szerint engedélyezett feldolgozó üzemmel vagy a 20. § (6) bekezdésében foglaltaknak megfelelő kiskapacitású égetővel rendelkeznek és kérődző állatokat nem tartanak, mentesülnek a (7) bekezdés szerinti kötelezettség alól.
 
-[^24]: A 16. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 5. és 9. pontja szerint módosított szöveg.
+[^24]: A 16. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 9. pontja, a 42/2017. (VIII. 17.) FM rendelet 180. § b) pontja szerint módosított szöveg.
 [^25]: A 16. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 9. pontja szerint módosított szöveg.
