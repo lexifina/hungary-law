@@ -1,4 +1,4 @@
-8/A. §[^14] (1) Az embrióátültető állomásnak rendelkeznie kell az embriók vizsgálatára, feldolgozására és csomagolására szolgáló állandó vagy mozgó laboratóriummal. A laboratóriumnak rendelkeznie kell az üzemeltetési engedélyben feltüntetett technológiákhoz szükséges berendezéssel, de legalább egy tisztítható és fertőtleníthető munkafelülettel, valamint egy optikai mikroszkóppal vagy sztereomikroszkóppal és szükség esetén mélyhűtő berendezéssel.
+8/A. §[^15] (1) Az embrióátültető állomásnak rendelkeznie kell az embriók vizsgálatára, feldolgozására és csomagolására szolgáló állandó vagy mozgó laboratóriummal. A laboratóriumnak rendelkeznie kell az üzemeltetési engedélyben feltüntetett technológiákhoz szükséges berendezéssel, de legalább egy tisztítható és fertőtleníthető munkafelülettel, valamint egy optikai mikroszkóppal vagy sztereomikroszkóppal és szükség esetén mélyhűtő berendezéssel.
 
 (2) Az állandó laboratóriumnak az (1) bekezdésben foglaltakon felül rendelkeznie kell:
 
@@ -20,4 +20,4 @@ b) állandó nyilvántartással a petesejtek és embriók mozgatásáról, felt�
 
 c) a petesejtek és embriók tárolására szolgáló edényekkel, amelyeket olyan helyen tárolnak, amely az embriógyűjtő, illetve embrióelőállító munkacsoport állatorvosának ellenőrzése alatt áll.
 
-[^14]: A 8/A. §-t a 114/2012. (XI. 13.) VM rendelet 7. §-a iktatta be.
+[^15]: A 8/A. §-t a 114/2012. (XI. 13.) VM rendelet 7. §-a iktatta be.

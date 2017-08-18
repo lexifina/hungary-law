@@ -1,12 +1,12 @@
-1. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^61]
+1. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^64]
 
 ## A szarvasmarha és a bivaly szaporításának részletes állategészségügyi feltételei
 
-1. A mesterséges termékenyítő állomásra csak olyan bika szállítható,
+1.[^65] A mesterséges termékenyítő állomásra csak olyan bika szállítható,
 
-a)[^62] amelyiket a járási állategészségügyi és élelmiszerellenőrző hivatal (a továbbiakban: járási állategészségügyi hivatal) által erre a célra engedélyezett helyen és módon legalább harminc napig elkülönítve tartottak úgy, hogy annak helyén csak a bikával azonos állategészségügyi státuszú egyedek tartózkodtak;
+a)[^66] amelyiket a járási hivatal által erre a célra engedélyezett helyen és módon legalább harminc napig elkülönítve tartottak úgy, hogy annak helyén csak a bikával azonos állategészségügyi státuszú egyedek tartózkodtak;
 
-b)[^63] amelyik a járási hivatal által elismerten brucellózistól (brucellosis), gümőkórtól (tuberculosis) és leukózistól (szarvasmarha-leukosis) mentes állományból származik, származási állományában BSE (szarvasmarhák szivacsos agyvelőbántalma) nem fordult elő, és az nem került kapcsolatba korábban sem alacsonyabb állategészségügyi státuszú állomány egyedével;
+b)[^67] amelyik a járási hivatal által elismerten brucellózistól (brucellosis), gümőkórtól (tuberculosis) és leukózistól (szarvasmarha-leukosis) mentes állományból származik, származási állományában BSE (szarvasmarhák szivacsos agyvelőbántalma) nem fordult elő, és az nem került kapcsolatba korábban sem alacsonyabb állategészségügyi státuszú állomány egyedével;
 
 c) amelyiknél az elkülönítést megelőző harminc napon belül végzett alábbi vizsgálatok negatív eredményt adtak:
 
@@ -36,7 +36,7 @@ negatív eredménnyel zárult.
 
 Ettől eltérően a csak szerológiailag pozitív állatok is bevihetők a mesterséges termékenyítő állomásokra, ekkor a 6. pontban leírtaknak megfelelően kell eljárni. Bármely állatot (szeronegatívat és szeropozitívat) csak akkor lehet beengedni a mesterséges termékenyítő állomásokra, amennyiben a karanténszállásra történő bevitelt megelőzően szeronegatív eredményt adó állatokban nem történik szerokonverzió. Ha szerokonverzió történik, minden olyan állatot, amely szeronegatív marad, meghosszabbított ideig a karanténszálláson kell tartani, amíg a csoportban három héten keresztül nem történik több szerokonverzió.
 
-Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyezheti, hogy a c) pontban említett vizsgálatokat a karanténban gyűjtött mintákon is el lehessen végezni. Amennyiben ilyen engedélyezésre kerül sor, a karanténidőszak nem kezdődhet el a minták begyűjtése előtt. Ha azonban a c) pontban felsorolt vizsgálatok bármelyike pozitívnak bizonyul, az érintett állatot azonnal el kell távolítani a karanténból. Csoportos elkülönítés esetén a karanténidőszak a visszamaradó állatok vonatkozásában nem kezdődhet el addig, amíg a pozitív eredményt adó állatot el nem távolították.
+A járási hivatal engedélyezheti, hogy a c) pontban említett vizsgálatokat a karanténban gyűjtött mintákon is el lehessen végezni. Amennyiben ilyen engedélyezésre kerül sor, a karanténidőszak nem kezdődhet el a minták begyűjtése előtt. Ha azonban a c) pontban felsorolt vizsgálatok bármelyike pozitívnak bizonyul, az érintett állatot azonnal el kell távolítani a karanténból. Csoportos elkülönítés esetén a karanténidőszak a visszamaradó állatok vonatkozásában nem kezdődhet el addig, amíg a pozitív eredményt adó állatot el nem távolították.
 
 2. Nem szállítható a mesterséges termékenyítő állomásra olyan bika, amelyik az elszállítás napján betegség klinikai tünetét mutatja.
 
@@ -68,7 +68,7 @@ c) az embrió előállításához felhasznált sperma megfelel az állattenyész
 
 9. Az állatokat csak a mesterséges termékenyítő állomás állategészségügyi szakmai felügyeletét ellátó állatorvos kifejezett hozzájárulásával lehet bebocsátani a mesterséges termékenyítő állomásra, ahol valamennyi be- és kifelé irányuló állatmozgást nyilván kell tartani.
 
-10. Amennyiben a bika megfelel az 1–4. pontokban leírt feltételeknek, közvetlen szállítás esetén, a fogadás helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyével elkülönítés vagy vizsgálatok végzése nélkül lehet átszállítani valamely engedélyezett mesterséges termékenyítő állomásról egy másik, ugyanolyan egészségügyi minősítésű állomásra. Az érintett állat nem kerülhet sem közvetlen, sem közvetett érintkezésbe más, kedvezőtlenebb egészségügyi minősítésű hasított körmű állattal, az igénybe vett szállítási eszközt pedig használat előtt fertőtleníteni kell. Ha az állatokat az egyik mesterséges termékenyítő állomásról egy másik ugyanilyen funkciót ellátó létesítménybe különböző tagállamok között szállítják, annak a szarvasmarhafélék és a sertések Közösségen belüli kereskedelmét érintő állat-egészségügyi problémákról szóló 1964. június 26-i 64/432/EGK tanácsi irányelvvel összhangban kell történnie.
+10.[^68] Amennyiben a bika megfelel az 1–4. pontokban leírt feltételeknek, közvetlen szállítás esetén, a fogadás helye szerint illetékes járási hivatal engedélyével elkülönítés vagy vizsgálatok végzése nélkül lehet átszállítani valamely engedélyezett mesterséges termékenyítő állomásról egy másik, ugyanolyan egészségügyi minősítésű állomásra. Az érintett állat nem kerülhet sem közvetlen, sem közvetett érintkezésbe más, kedvezőtlenebb egészségügyi minősítésű hasított körmű állattal, az igénybe vett szállítási eszközt pedig használat előtt fertőtleníteni kell. Ha az állatokat az egyik mesterséges termékenyítő állomásról egy másik ugyanilyen funkciót ellátó létesítménybe különböző tagállamok között szállítják, annak a szarvasmarhafélék és a sertések Közösségen belüli kereskedelmét érintő állat-egészségügyi problémákról szóló 1964. június 26-i 64/432/EGK tanácsi irányelvvel összhangban kell történnie.
 
 11. Az előírt állategészségügyi vizsgálatokat a NÉBIH központi állategészségügyi diagnosztikai laboratóriumában kell elvégezni az állat tulajdonosának költségére.
 
@@ -88,6 +88,8 @@ Ettől eltérő, de a campylobacterek, leptospirák és mycoplasmák ellen egyen
 
 Közvetlenül az antibiotikum hígított spermához adását követően a spermát legalább 45 percig legalább 5 °C hőmérsékleten kell tartani.
 
-[^61]: Az 1. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
-[^62]: Az 1. számú melléklet 1. pont a) alpontja a 151/2012. (XII. 29.) VM rendelet 11. § c) pontja szerint módosított szöveg.
-[^63]: Az 1. számú melléklet 1. pont b) alpontja a 151/2012. (XII. 29.) VM rendelet 11. § d) pontja szerint módosított szöveg.
+[^64]: Az 1. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
+[^65]: Az 1. számú melléklet 1. pontja a 42/2017. (VIII. 17.) FM rendelet 37. § b) pontja szerint módosított szöveg.
+[^66]: Az 1. számú melléklet 1. pont a) alpontja a 42/2017. (VIII. 17.) FM rendelet 37. § l) pontja szerint módosított szöveg.
+[^67]: Az 1. számú melléklet 1. pont b) alpontja a 151/2012. (XII. 29.) VM rendelet 11. § d) pontja szerint módosított szöveg.
+[^68]: Az 1. számú melléklet 10. pontja a 42/2017. (VIII. 17.) FM rendelet 37. § g) pontja szerint módosított szöveg.

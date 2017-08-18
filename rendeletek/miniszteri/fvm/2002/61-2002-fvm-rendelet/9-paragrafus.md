@@ -1,6 +1,6 @@
-## A spermára, petesejtre és embrióra alkalmazandó különös követelmények[^17]
+## A spermára, petesejtre és embrióra alkalmazandó különös követelmények[^19]
 
-9. §[^18] (1) A sperma gyűjtésére, feldolgozására, tartósítására vagy fagyasztására használt minden eszközt használat előtt megfelelő módon fertőtleníteni vagy sterilizálni kell, az egyszer használatos eszközök kivételével.
+9. §[^20] (1) A sperma gyűjtésére, feldolgozására, tartósítására vagy fagyasztására használt minden eszközt használat előtt megfelelő módon fertőtleníteni vagy sterilizálni kell, az egyszer használatos eszközök kivételével.
 
 (2) A fagyasztott spermát
 
@@ -14,5 +14,5 @@ a) más tagállamba olyan szállítóedényekben kell szállítani, amelyeket ha
 
 b) meg kell jelölni olyan módon, hogy a műszalmákon vagy az egyéb csomagokon szereplő szám megegyezzen a vonatkozó egészségügyi bizonyítvány számával és azon az edényen feltüntetett számmal, amelyben azt tárolják és szállítják.
 
-[^17]: A 9. §-t megelőző alcímet a 114/2012. (XI. 13.) VM rendelet 8. § (1) bekezdése iktatta be.
-[^18]: A 9. § a 114/2012. (XI. 13.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^19]: A 9. §-t megelőző alcímet a 114/2012. (XI. 13.) VM rendelet 8. § (1) bekezdése iktatta be.
+[^20]: A 9. § a 114/2012. (XI. 13.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.

@@ -2,7 +2,7 @@
 
 (2) Az elhullott állatot boncolás céljából el kell szállítani az illetékes állategészségügyi intézetbe.
 
-(3)[^11] A felügyeletet ellátó járási főállatorvos köteles minden naptári évben legalább két alkalommal – a szezonális szaporodású állatok esetében a tenyészidőszakban évente legalább egyszer – ellenőrző vizsgálatot tartani az engedélyezés és működés feltételeire vonatkozó szempontok vizsgálata és igazolása céljából, szükség esetén a nyilvántartások, a szabványos működési eljárások és belső audit alapján. A járási főállatorvos az (1) és (2) bekezdésben foglaltak ellenőrzésén kívül a következő feltételek teljesülését ellenőrzi:
+(3)[^11] A felügyeletet ellátó járási hivatal köteles minden naptári évben legalább két alkalommal – a szezonális szaporodású állatok esetében a tenyészidőszakban évente legalább egyszer – ellenőrző vizsgálatot tartani az engedélyezés és működés feltételeire vonatkozó szempontok vizsgálata és igazolása céljából, szükség esetén a nyilvántartások, a szabványos működési eljárások és belső audit alapján. A járási hivatal az (1) és (2) bekezdésben foglaltak ellenőrzésén kívül a következő feltételek teljesülését ellenőrzi:
 
 a) az állomáson tartott állatok egyikét sem használják természetes fedeztetésre
 
@@ -28,4 +28,4 @@ i) vezetik az előírt állategészségügyi nyilvántartásokat;
 
 j) a spermatermelésre használt állatokat igénybevételüknek megfelelően takarmányozzák, és elhelyezésük, tartásuk megfelel az állatvédelmi előírásoknak.
 
-[^11]: A 7. § (3) bekezdése a 114/2012. (XI. 13.) VM rendelet 5. §-ával megállapított, nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 11. § b) pontja szerint módosított szöveg.
+[^11]: A 7. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 37. § e) és f) pontja szerint módosított szöveg.

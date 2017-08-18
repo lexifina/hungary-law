@@ -12,7 +12,7 @@
 
 ## 2.1. amelyik olyan állományból, illetve gazdaságból származik,
 
-## 2.1.1. amely az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által elismerten mentes brucellózistól, Aujeszky-betegségtől és PRRS-től (sertések szaporítószervi és légzőszervi tünetegyüttese),
+## 2.1.1. amely a járási hivatal által elismerten mentes brucellózistól, Aujeszky-betegségtől és PRRS-től (sertések szaporítószervi és légzőszervi tünetegyüttese),
 
 ## 2.1.2. amelyben egyetlen ragadós száj- és körömfájás ellen vakcinázott állat sem tartózkodott a megelőző 12 hónapban,
 
@@ -20,7 +20,7 @@
 
 ## 2.1.4. nem került kapcsolatba korábban sem alacsonyabb állategészségügyi státuszú állomány egyedével;
 
-## 2.2. amelyiket az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által erre a célra engedélyezett helyen és módon legalább harminc napig elkülönítetten tartottak úgy, hogy annak helyén csak azonos, illetve jobb állategészségügyi státuszú egyedek tartózkodtak;
+## 2.2. amelyiket a járási hivatal által erre a célra engedélyezett helyen és módon legalább harminc napig elkülönítetten tartottak úgy, hogy annak helyén csak azonos, illetve jobb állategészségügyi státuszú egyedek tartózkodtak;
 
 ## 2.3. amelynek az elkülönítést megelőző harminc napon belül elvégzett alábbi vizsgálatai negatív eredményt adtak:
 
@@ -38,13 +38,13 @@
 
 ## 3. Amennyiben az elkülönítést megelőző harminc napon belül elvégzett, 2.3.1. pont szerinti brucellózispróba egy állatnál is pozitívnak bizonyul, az ugyanabban a gazdaságban tartott, negatív eredményt adó állatok csak akkor engedhetők be a karanténlétesítménybe, ha megerősítést nyert azon állomány vagy gazdaság brucellózismentes státusza, ahonnan a pozitív reakciójú állat származik.
 
-## 4. A járási állategészségügyi hivatal engedélyezi a 2.3. pontban említett vizsgálatoknak a karanténlétesítményben történő végrehajtását, amennyiben az eredmények a 2.2. pontban meghatározott elkülönítési időszak kezdete előtt ismertté válnak.
+## 4. A járási hivatal engedélyezi a 2.3. pontban említett vizsgálatoknak a karanténlétesítményben történő végrehajtását, amennyiben az eredmények a 2.2. pontban meghatározott elkülönítési időszak kezdete előtt ismertté válnak.
 
 ## 5.1. Amennyiben az elkülönítés ideje alatt végzett, a brucellózis felderítésére irányuló próbák bármelyike pozitív eredményt ad, és a brucellózis gyanúját nem zárták ki a 7. pontnak megfelelően, akkor az érintett állatot azonnal el kell távolítani a karanténlétesítményből.
 
 ## 5.2. Amennyiben az Aujeszky-betegség felderítésére irányuló próbák bármelyike pozitív eredményt ad, akkor az érintett állatot azonnal el kell távolítani a karanténlétesítményből.
 
-## 5.3. Csoportos karantén esetén a járási állategészségügyi hivatalnak minden szükséges intézkedést meg kell tennie annak érdekében, hogy a brucellózisra és Aujeszky-betegségre irányuló próbákra negatív eredményt adó, hátramaradt állatok egészségügyi státusza kielégítő legyen, mielőtt e rendeletnek megfelelően a mesterséges termékenyítő állomásra kerülnének.
+## 5.3. Csoportos karantén esetén a járási hivatalnak minden szükséges intézkedést meg kell tennie annak érdekében, hogy a brucellózisra és Aujeszky-betegségre irányuló próbákra negatív eredményt adó, hátramaradt állatok egészségügyi státusza kielégítő legyen, mielőtt e rendeletnek megfelelően a mesterséges termékenyítő állomásra kerülnének.
 
 ## 6. Amennyiben az elkülönítőben a 2.3.1. pont szerint végzett brucellózisvizsgálat egy állatnál pozitívnak bizonyul, az alábbi eljárást kell követni:
 
@@ -80,7 +80,7 @@
 
 ## 10.2. nem áll forgalmi korlátozás alatt házisertéseket érintő fertőző vagy ragályos betegség következtében.
 
-## 11. Amennyiben teljesülnek a 10. pontban megállapított feltételek, és a megelőző 12 hónapon belül elvégezték a 2.3.1–2.3.5. pontban említett rutinpróbákat, az állomások állatorvosainak javaslatára a járási főállatorvosok engedélyével az állatok karantén vagy vizsgálat nélkül közvetlenül áthelyezhetők egy mesterséges termékenyítő állomásról egy másik, ugyanolyan egészségügyi státuszú mesterséges termékenyítő állomásra. Ezek az állatok nem kerülhetnek sem közvetlen, sem közvetett kapcsolatba alacsonyabb állat-egészségügyi státuszú hasított körmű állatokkal, és az igénybe vett szállítási eszközt használat előtt tisztítani és fertőtleníteni kell.
+## 11. Amennyiben teljesülnek a 10. pontban megállapított feltételek, és a megelőző 12 hónapon belül elvégezték a 2.3.1–2.3.5. pontban említett rutinpróbákat, az állomások állatorvosainak javaslatára a járási hivatalok engedélyével az állatok karantén vagy vizsgálat nélkül közvetlenül áthelyezhetők egy mesterséges termékenyítő állomásról egy másik, ugyanolyan egészségügyi státuszú mesterséges termékenyítő állomásra. Ezek az állatok nem kerülhetnek sem közvetlen, sem közvetett kapcsolatba alacsonyabb állat-egészségügyi státuszú hasított körmű állatokkal, és az igénybe vett szállítási eszközt használat előtt tisztítani és fertőtleníteni kell.
 
 ## 12.1. A mesterséges termékenyítő állomáson tartott minden egyes állatot alá kell vetni a 2.3.1–2.3.5. pontban felsorolt vizsgálatoknak. A mesterséges termékenyítő állomáson kizárólag negatív vizsgálati eredménnyel rendelkező egyedek tarthatók.
 
@@ -128,7 +128,7 @@
 
 ## 20. Embrióátültetésre csak a 2. és 10. pontban leírt állategészségügyi követelményeknek megfelelő donor és recipiens egyede használható.”
 
-3. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^65]
+3. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^70]
 
 ## A lófélék szaporításának részletes állat-egészségügyi feltételei
 
@@ -150,7 +150,7 @@ II. A ménekre vonatkozó feltételek
 
 1.4. az első spermavételt megelőző 30 napban és a spermagyűjtési időszakban nem használható természetes fedeztetésre;
 
-1.5.[^66] a felsorolt vizsgálatok tekintetében akkreditált és a hatóság által engedélyezett laboratóriumban az 1.6. alpontban meghatározott program szerint végrehajtott és tanúsított alábbi vizsgálatoknak kell alávetni:
+1.5.[^71] a felsorolt vizsgálatok tekintetében akkreditált és a hatóság által engedélyezett laboratóriumban az 1.6. alpontban meghatározott program szerint végrehajtott és tanúsított alábbi vizsgálatoknak kell alávetni:
 
 1.5.1. a ló fertőző kevésvérűségének kimutatására irányuló agargél- immundiffúziós próba (Coggins-próba) vagy ELISA-próba, negatív eredménnyel;
 
@@ -162,7 +162,7 @@ II. A ménekre vonatkozó feltételek
 
 1.5.3.2. a donor állattól történő mintavételt követő 48 órán belül elvégzett, a Taylorella equigenitalis vírusgenom kimutatására irányuló PCR vagy real-time PCR vizsgálat;
 
-1.6.[^67] el kell rajta végezni a következő vizsgálatok egyikét:
+1.6.[^72] el kell rajta végezni a következő vizsgálatok egyikét:
 
 1.6.1. ha a donor mén az első spermavétel időpontját megelőző legalább 30 napos időszakban és a gyűjtési időszakban folyamatosan a mesterséges termékenyítő állomáson tartózkodik, és az állomáson tartott lófélék nem kerülnek közvetlen érintkezésbe a donor mén egészségi állapotánál rosszabb egészségi állapotú lófélékkel, akkor a donor ménen az 1.5. alpontban előírt vizsgálatokat el kell végezni legalább évente egyszer a tenyészidőszak kezdetén vagy a friss, hűtött vagy fagyasztott állapotban kereskedelmi forgalomra szánt sperma első gyűjtése előtt a legalább 30 napos tartózkodási időszakban, a megérkezést követő 14 nap után vett mintán;
 
@@ -196,13 +196,13 @@ A spermagyűjtő állomáson egy, az 1.5. pontban előírt, negatív eredményt 
 
 III. A kancákra vonatkozó feltételek
 
-1.[^68] Az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló jogszabályban megállapított követelményeken kívül a donor kancák(on):
+1.[^73] Az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló jogszabályban megállapított követelményeken kívül a donor kancák(on):
 
 1.1. nem használhatók természetes fedeztetésre az embriók vagy petesejtek gyűjtésének időpontja előtti legalább 30 napos időszakban, valamint a 1.2. és 1.3. pontban említett első mintavétel időpontja és az embriók és petesejtek gyűjtésének időpontja között;
 
-1.2.[^69] a ló fertőző kevésvérűségének kimutatására irányuló agargél-immundiffúziós próbát (Coggins-próba) vagy ELISA-próbát kell végezni az 1.1. alpontban említett, legalább 30 napos időszak kezdeti időpontját követően legalább 14 nappal és a kereskedelmi forgalomra szánt petesejtek vagy embriók gyűjtésének időpontja előtt legfeljebb 90 nappal vett vérmintán, és a próba eredményének negatívnak kell lennie;
+1.2.[^74] a ló fertőző kevésvérűségének kimutatására irányuló agargél-immundiffúziós próbát (Coggins-próba) vagy ELISA-próbát kell végezni az 1.1. alpontban említett, legalább 30 napos időszak kezdeti időpontját követően legalább 14 nappal és a kereskedelmi forgalomra szánt petesejtek vagy embriók gyűjtésének időpontja előtt legfeljebb 90 nappal vett vérmintán, és a próba eredményének negatívnak kell lennie;
 
-1.3.[^70] minden esetben a vizsgálatra akkreditált és hatóság által engedélyezett laboratóriumban a lovak ragályos méhgyulladása kórokozójának kimutatására irányuló, negatív eredménnyel záruló vizsgálatot kell végezni a donor kancák esetleges antimikrobiális kezelése után legalább 7 nappal (szisztémás kezelés esetén) vagy legalább 21 nappal (helyi kezelés esetén), a donor kancáktól legalább a clitoris árkának és szinuszainak nyálkahártyás felületeiről tamponnal vett két mintán; a mintákat az 1.1. alpontban említett legalább 30 napos időszakban kell levenni az 1.3.1.1. alpontban említett vizsgálat esetében két alkalommal, legalább 7 nap eltéréssel, az 1.3.1.2. alpontban említett vizsgálat esetében pedig egy alkalommal; a mintákat a laboratóriumba való szállítás előtt aktív szenes szállítóközegbe, például Amies táptalajra kell helyezni;
+1.3.[^75] minden esetben a vizsgálatra akkreditált és hatóság által engedélyezett laboratóriumban a lovak ragályos méhgyulladása kórokozójának kimutatására irányuló, negatív eredménnyel záruló vizsgálatot kell végezni a donor kancák esetleges antimikrobiális kezelése után legalább 7 nappal (szisztémás kezelés esetén) vagy legalább 21 nappal (helyi kezelés esetén), a donor kancáktól legalább a clitoris árkának és szinuszainak nyálkahártyás felületeiről tamponnal vett két mintán; a mintákat az 1.1. alpontban említett legalább 30 napos időszakban kell levenni az 1.3.1.1. alpontban említett vizsgálat esetében két alkalommal, legalább 7 nap eltéréssel, az 1.3.1.2. alpontban említett vizsgálat esetében pedig egy alkalommal; a mintákat a laboratóriumba való szállítás előtt aktív szenes szállítóközegbe, például Amies táptalajra kell helyezni;
 
 1.3.1. a mintákon a következő vizsgálatok legalább egyikét el kell végezni:
 
@@ -210,9 +210,9 @@ III. A kancákra vonatkozó feltételek
 
 1.3.1.2. a donor állattól történő mintavételt követő 48 órán belül elvégzett, a Taylorella equigenitalis vírusgenom polimeráz láncreakcióval (PCR) vagy valós idejű polimeráz láncreakcióval (real-time PCR) való kimutatására irányuló vizsgálat.
 
-[^65]: A 3. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
-[^66]: A 3. számú melléklet II. fejezet 1. pont 1.5. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^67]: A 3. számú melléklet II. fejezet 1. pont 1.6. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^68]: A 3. számú melléklet III. fejezet 1. pontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdése szerint módosított szöveg.
-[^69]: A 3. számú melléklet III. fejezet 1. pont 1.2. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^70]: A 3. számú melléklet III. fejezet 1. pont 1.3. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^70]: A 3. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
+[^71]: A 3. számú melléklet II. fejezet 1. pont 1.5. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^72]: A 3. számú melléklet II. fejezet 1. pont 1.6. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^73]: A 3. számú melléklet III. fejezet 1. pontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^74]: A 3. számú melléklet III. fejezet 1. pont 1.2. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^75]: A 3. számú melléklet III. fejezet 1. pont 1.3. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.

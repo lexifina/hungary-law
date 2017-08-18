@@ -2,9 +2,9 @@
 
 ## A mesterséges termékenyítő állomás üzemeltetésének részletes feltételei
 
-4. § (1)[^4] A mesterséges termékenyítő állomás üzemeltetését a fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) engedélyezi.
+4. § (1)[^4] A mesterséges termékenyítő állomás üzemeltetését a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatala (a továbbiakban: járási hivatal) engedélyezi.
 
-(2)[^5] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a mesterséges termékenyítő állomások járványügyi, állatvédelmi és -higiéniai alkalmasságának megállapításához az alábbi feltételek meglétét vizsgálja:
+(2)[^5] A járási hivatal a mesterséges termékenyítő állomások járványügyi, állatvédelmi és -higiéniai alkalmasságának megállapításához az alábbi feltételek meglétét vizsgálja:
 
 a) a telepet olyan kerítéssel vették körül, amely megakadályozza illetéktelen személyek, továbbá állatok behatolását;
 
@@ -38,7 +38,7 @@ e) az a)–d) pontokban leírt könnyen takarítható és fertőtleníthető hel
 
 f) a szigorú telepi zártságot, a telepen tartott egyed más állományhoz tartozó állattal való kapcsolatának megelőzését.
 
-[^4]: A 4. § (1) bekezdése a 114/2012. (XI. 13.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^5]: A 4. § (2) bekezdés nyitó szövegrésze a 114/2012. (XI. 13.) VM rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdése a 114/2012. (XI. 13.) VM rendelet 3. § (1) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 37. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 37. § b) pontja szerint módosított szöveg.
 [^6]: A 4. § (2) bekezdés d) pontja a 114/2012. (XI. 13.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^7]: A 4. § (2) bekezdés h) pontja a 114/2012. (XI. 13.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.

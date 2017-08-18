@@ -1,4 +1,4 @@
-4. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^71]
+4. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^76]
 
 ## A juh és kecske szaporításának részletes állat-egészségügyi feltételei
 
@@ -6,7 +6,7 @@ I. A hímivarú állatokra vonatkozó feltételek
 
 1. A spermagyűjtő központba bevitt valamennyi juh- és kecskefélének meg kell felelnie a következő követelményeknek:
 
-1.1. Legalább 28 napig karanténban tartották őket az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által külön erre a célra jóváhagyott olyan helyen, ahol csak legalább ugyanolyan egészségügyi státuszú állatok voltak jelen.
+1.1.[^77] Legalább 28 napig karanténban tartották őket a járási hivatal által külön erre a célra jóváhagyott olyan helyen, ahol csak legalább ugyanolyan egészségügyi státuszú állatok voltak jelen.
 
 1.2. A karanténba helyezést megelőzően az egyes Brucella fajok elleni védekezés részletes szabályairól szóló jogszabály értelmében brucellózistól hatóságilag mentes juh- vagy kecsketartó gazdasághoz tartoztak, és a brucellózis tekintetében nem tartották őket rosszabb egészségügyi státuszú gazdaságban.
 
@@ -22,9 +22,9 @@ I. A hímivarú állatokra vonatkozó feltételek
 
 1.4.3.1. vírusizolációs próba vagy a vírusantigén kimutatását szolgáló vizsgálat; és
 
-1.4.3.2. az antitestek jelenlétének vagy hiányának meghatározását célzó szerológiai vizsgálat („antitest-vizsgálat”).
+1.4.3.2.[^78] az antitestek jelenlétének vagy hiányának meghatározását célzó szerológiai vizsgálat („antitest-vizsgálat”).
 
-Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyezheti, hogy az ebben a pontban említett vizsgálatokat a karanténban gyűjtött mintákon is el lehessen végezni. Amennyiben ilyen engedélyezésre kerül sor, az 1.1. pontban említett karanténidőszak nem kezdődhet el a minták begyűjtése előtt. Ha azonban az ebben a pontban felsorolt vizsgálatok bármelyike pozitívnak bizonyul, az érintett állatot azonnal el kell távolítani a karanténból. Csoportos elkülönítés esetén az 1.1. pontban említett karanténidőszak a visszamaradó állatok vonatkozásában nem kezdődhet el addig, amíg a pozitív eredményt adó állatot el nem távolították.
+A járási hivatal engedélyezheti, hogy az ebben a pontban említett vizsgálatokat a karanténban gyűjtött mintákon is el lehessen végezni. Amennyiben ilyen engedélyezésre kerül sor, az 1.1. pontban említett karanténidőszak nem kezdődhet el a minták begyűjtése előtt. Ha azonban az ebben a pontban felsorolt vizsgálatok bármelyike pozitívnak bizonyul, az érintett állatot azonnal el kell távolítani a karanténból. Csoportos elkülönítés esetén az 1.1. pontban említett karanténidőszak a visszamaradó állatok vonatkozásában nem kezdődhet el addig, amíg a pozitív eredményt adó állatot el nem távolították.
 
 1.5. Az 1.1. pontban meghatározott karanténidőszak során, és legalább 21 nappal a karanténban történő elhelyezést követően vett mintákon végzett következő vizsgálatoknak vetették alá őket, negatív eredménnyel:
 
@@ -110,4 +110,6 @@ A mesterséges termékenyítő állomáson egy, az 5. pontban leírt, negatív e
 
 II. A nőivarú állatokra vonatkozó feltételek
 
-[^71]: A 4. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
+[^76]: A 4. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
+[^77]: A 4. számú melléklet I. fejezet 1. pont 1.1. pontja a 42/2017. (VIII. 17.) FM rendelet 37. § c) pontja szerint módosított szöveg.
+[^78]: A 4. számú melléklet 1.4.3.2. pontja a 42/2017. (VIII. 17.) FM rendelet 37. § b) pontja szerint módosított szöveg.

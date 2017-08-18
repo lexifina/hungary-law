@@ -1,6 +1,6 @@
 ## Az embrióátültető állomás üzemeltetésének és az embriógyűjtő- és előállító munkacsoportok működésének részletes feltételei[^12]
 
-8. §[^13] (1) Az embrióátültető állomás üzemeltetését az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyezi.
+8. §[^13] (1)[^14] Az embrióátültető állomás üzemeltetését a járási hivatal engedélyezi.
 
 (2) Az embriók gyűjtését, feldolgozását és tárolását az állattenyésztésről szóló törvényben, illetve az embrióátültetésről, mesterséges termékenyítésről és az állati szaporítóanyagok előállításáról, felkínálásáról, forgalmazásáról és felhasználásáról szóló rendeletben előírt módon az embrióátültető állomás nyilvántartásba felvett állatorvosának vagy az ő megbízásából egy vagy több olyan szakértelemmel rendelkező technikusnak kell végezni, akiket az állomás állatorvosa megfelelő képzésben részesített a vonatkozó higiéniás, betegségmegelőzési és laboratóriumi alapelvek, technikák tekintetében.
 
@@ -34,3 +34,4 @@ e) az embriók azonosítására szolgáló adatokat, és amennyiben ismert, a re
 
 [^12]: A 8. §-t megelőző alcím a 114/2012. (XI. 13.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^13]: A 8. § a 114/2012. (XI. 13.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^14]: A 8. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 37. § c) pontja szerint módosított szöveg.
