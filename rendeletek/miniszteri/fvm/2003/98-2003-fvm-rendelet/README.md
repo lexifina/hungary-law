@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-98-20-8
 | 2014-03-13 | 2003-98-20-82.8 | 151/2012. (XII. 29.) VM rendelet |
 | 2014-03-15 | 2003-98-20-82.9 | 22/2014. (III. 14.) VM rendelet |
 | 2015-08-15 | 2003-98-20-82.10 | 46/2015. (VIII. 7.) FM rendelet |
+| 2017-08-18 | 2003-98-20-82.11 | 42/2017. (VIII. 17.) FM rendelet |
