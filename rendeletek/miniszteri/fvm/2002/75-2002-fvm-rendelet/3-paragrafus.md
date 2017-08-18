@@ -1,6 +1,6 @@
 ## A klasszikus sertéspestis bejelentése
 
-3. § (1)[^6] A klasszikus sertéspestis bejelentési kötelezettség alá tartozó betegség. Aki a betegséget vagy a betegség gyanúját észleli, vagy arról tudomást szerez, haladéktalanul köteles erről értesíteni az állategészségügyi és élelmiszer-ellenőrző hatáskörében eljáró járási hivatalt (a továbbiakban: járási hivatal).
+3. § (1)[^6] A klasszikus sertéspestis bejelentési kötelezettség alá tartozó betegség. Aki a betegséget vagy a betegség gyanúját észleli, vagy arról tudomást szerez, haladéktalanul köteles erről értesíteni a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalát (a továbbiakban: járási hivatal).
 
 (2) A bejelentési kötelezettség akkor is fennáll, ha egészségesnek látszó állaton vágás során fertőzöttségre gyanút keltő elváltozást észleltek.
 
@@ -22,5 +22,5 @@ c) klasszikus sertéspestis első igazolt előfordulásai vaddisznókban;
 
 d) a 8. § szerint elvégzett járványtani vizsgálat eredményei.
 
-[^6]: A 3. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 40. §-a szerint módosított szöveg.
 [^7]: A 3. § (5) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 2. pontja szerint módosított szöveg.
