@@ -16,7 +16,7 @@ cc) származási helyre való tekintet nélkül minden 18 hónaposnál idősebb 
 
 d)[^42] az állatorvos közreműködése nélkül végzett kényszervágást a TSE monitoring vizsgálat elvégzése céljából.
 
-(2)[^43] Ha a hatósági állatorvos a bejelentéstől számított nyolc órán belül nem jelenik meg az állattartó telepen, akkor az állattartó köteles a járási főállatorvost haladéktalanul értesíteni.
+(2)[^43] Ha a hatósági állatorvos a bejelentéstől számított nyolc órán belül nem jelenik meg az állattartó telepen, akkor az állattartó köteles a járási hivatalt haladéktalanul értesíteni.
 
 (3) Az az állattartó, aki legalább
 
@@ -30,4 +30,4 @@ köteles az 1. számú melléklet V. pontjában meghatározottaknak megfelelő, 
 [^40]: A 19. § (1) bekezdés c) pont ca) alpontját a 32/2014. (XII. 9.) FM rendelet 16. § a) alpontja hatályon kívül helyezte.
 [^41]: A 19. § (1) bekezdés c) pont cb) alpontja a 32/2014. (XII. 9.) FM rendelet 15. §-a szerint módosított szöveg.
 [^42]: A 19. § (1) bekezdés d) pontját a 142/2011. (XII. 23.) VM rendelet 2. §-a iktatta be.
-[^43]: A 19. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^43]: A 19. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 11. pontja szerint módosított szöveg.

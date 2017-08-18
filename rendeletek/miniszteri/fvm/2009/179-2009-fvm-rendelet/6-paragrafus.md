@@ -12,7 +12,7 @@ a) a takarmányba kevert állati eredetű fehérjékről, valamint
 
 b) azok eredetéről és felhasznált mennyiségéről.
 
-(4)[^10] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság biztosítja, hogy a takarmányok gyártásának, forgalmazásának és az állattartó telepen történő felhasználásának ellenőrzése minden esetben kiterjedjen
+(4)[^10] A megyei kormányhivatal biztosítja, hogy a takarmányok gyártásának, forgalmazásának és az állattartó telepen történő felhasználásának ellenőrzése minden esetben kiterjedjen
 
 a) a feldolgozott állati eredetű fehérjék felhasználására,
 
@@ -31,6 +31,6 @@ a) enzimhez kapcsolt immunanalitikai módszer („Enzyme-linked immunosorbent as
 b)[^12] a NÉBIH által jóváhagyott más módszer.
 
 [^9]: Az 5. § a 70/2013. (VII. 31.) VM rendelet 115. § b) és d) pontja szerint módosított szöveg.
-[^10]: A 6. § (4) bekezdése 142/2011. (XII. 23.) VM rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 6. § (4) bekezdése 142/2011. (XII. 23.) VM rendelet 6. § (2) bekezdés b) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 2. pontja szerint módosított szöveg.
 [^11]: A 6. § (6) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 115. § d) pontja szerint módosított szöveg.
 [^12]: A 6. § (6) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 115. § d) pontja szerint módosított szöveg.
