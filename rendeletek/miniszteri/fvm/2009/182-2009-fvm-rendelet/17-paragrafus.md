@@ -12,6 +12,6 @@ a) megtiltja az állat vágását, amennyiben az állat jelölés hiányában ne
 
 b) amennyiben az előírt kísérő dokumentumok hiányoznak vagy nem megfelelőek, a hiányzó kísérő dokumentumok pótlásáig vagy kijavításáig megtiltja az állat vágását.
 
-(3)[^35] A vágóhidat felügyelő hatósági állatorvos a vágóhíd üzemeltetője 16. §-ban rögzített kötelezettségeinek be nem tartásáról köteles az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság részére jelentést tenni.
+(3)[^35] A vágóhidat felügyelő hatósági állatorvos a vágóhíd üzemeltetője 16. §-ban rögzített kötelezettségeinek be nem tartásáról köteles a Pest Megyei Kormányhivatal részére jelentést tenni.
 
-[^35]: A 17. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § d) pontja szerint módosított szöveg.
+[^35]: A 17. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 149. § b) pontja szerint módosított szöveg.

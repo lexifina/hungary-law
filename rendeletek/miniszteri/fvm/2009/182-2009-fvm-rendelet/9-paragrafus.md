@@ -8,7 +8,7 @@
 
 (5) A jelölőeszközök és segédeszközök igénylésének módját az útmutató tartalmazza.
 
-(6)[^25] A jelölőeszközök csak abban a tenyészetben használhatók fel, ahová azokat a NÉBIH kiadta, kivéve az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kezdeményezett áthelyezést, továbbá a területi felelős által kezdeményezett olyan áthelyezést, amelyet a NÉBIH engedélyezett.
+(6)[^25] A jelölőeszközök csak abban a tenyészetben használhatók fel, ahová azokat a NÉBIH kiadta, kivéve a Pest Megyei Kormányhivatal által kezdeményezett áthelyezést, továbbá a területi felelős által kezdeményezett olyan áthelyezést, amelyet a Pest Megyei Kormányhivatal engedélyezett.
 
 (7) Jelölőeszközt állatból kivenni, más állatnál újra felhasználni tilos.
 
@@ -18,4 +18,4 @@
 [^22]: A 9. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § b) pontja szerint módosított szöveg.
 [^23]: A 9. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (41) bekezdése, a 70/2013. (VII. 31.) VM rendelet 118. § b) és g) pontja szerint módosított szöveg.
 [^24]: A 9. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § b) pontja szerint módosított szöveg.
-[^25]: A 9. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § b) és d) pontja szerint módosított szöveg.
+[^25]: A 9. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 148. §-ával megállapított szöveg.

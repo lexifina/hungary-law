@@ -4,6 +4,6 @@ a) a 4. § a)–b) pontok, valamint az 5. § a)–b) pontok szerinti jelölést 
 
 b) a 4. § c) pont, valamint az 5. § c)–d) pontok szerinti jelölést a területi felelős;
 
-c)[^20] állat-egészségügyi intézkedés kapcsán, illetve harmadik országból behozott állat esetében szükségessé vált jelölés esetén az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt jogosult állatorvos vagy hatósági állatorvos.
+c)[^20] állat-egészségügyi intézkedés kapcsán, illetve harmadik országból behozott állat esetében szükségessé vált jelölés esetén az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) által kijelölt jogosult állatorvos vagy hatósági állatorvos.
 
-[^20]: A 8. § c) pontja a 88/2013. (X. 2.) VM rendelet 53. §-ával megállapított szöveg.
+[^20]: A 8. § c) pontja a 88/2013. (X. 2.) VM rendelet 53. §-ával megállapított és a 42/2017. (VIII. 17.) FM rendelet 149. § c) pontja szerint módosított szöveg.
