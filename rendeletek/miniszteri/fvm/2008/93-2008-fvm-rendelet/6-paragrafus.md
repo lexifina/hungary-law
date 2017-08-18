@@ -6,13 +6,13 @@
 
 (4) Adott fajta létszámának kritikus szint alá süllyedése, vagy a fajta eredeti tulajdonságainak megváltoztatására irányuló tevékenység esetén a tenyésztési hatóság
 
-a)[^5] a Tanács szakmai véleményét kikéri,
+a)[^6] a Tanács szakmai véleményét kikéri,
 
 b) az érintett elismert tenyésztő szervezet bevonásával intézkedési programot dolgoz ki,
 
 c) szükség esetén egyedi intézkedést hoz, ennek keretében elrendelheti a tenyésztési program felülvizsgálatát.
 
-(5)[^6] A tenyésztési hatóság – a Tanács meghallgatása mellett – a tenyésztő szervezet elismerésének felfüggesztését, amennyiben a felfüggesztés nem vezet eredményre, visszavonását kezdeményezi.
+(5)[^7] A tenyésztési hatóság – a Tanács meghallgatása mellett – a tenyésztő szervezet elismerésének felfüggesztését, amennyiben a felfüggesztés nem vezet eredményre, visszavonását kezdeményezi.
 
-[^5]: A 6. § (4) bekezdés a) pontja az 59/2013. (VII. 15.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^6]: A 6. § (5) bekezdése az 59/2013. (VII. 15.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^6]: A 6. § (4) bekezdés a) pontja az 59/2013. (VII. 15.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 6. § (5) bekezdése az 59/2013. (VII. 15.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.

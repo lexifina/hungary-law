@@ -10,6 +10,6 @@ d) nukleusz állomány: a fajta fenntartásához szükséges tenyészállatok el
 
 e) génbank: a szaporítóanyag és genetikai minta laboratóriumi körülmények közötti megőrzése céljából létrehozott in-vitro tároló;
 
-f)[^1] tenyésztési hatóság: a Nemzeti Élelmiszerlánc-biztonsági Hivatal.
+f)[^2] tenyésztési hatóság: a Nemzeti Élelmiszerlánc-biztonsági Hivatal.
 
-[^1]: Az 1. § f) pontja a 19/2014. (III. 12.) VM rendelet 26. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § f) pontja a 19/2014. (III. 12.) VM rendelet 26. § a) pontja szerint módosított szöveg.

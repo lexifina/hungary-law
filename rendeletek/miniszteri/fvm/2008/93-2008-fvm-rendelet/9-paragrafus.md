@@ -1,4 +1,4 @@
-9. §[^10]
+9. §[^12]
 
 Melléklet a 93/2008. (VII. 24.) FVM rendelethez
 
@@ -22,4 +22,4 @@ Melléklet a 93/2008. (VII. 24.) FVM rendelethez
 
 | Házinyúl | 500 alatt | 500–3000 | 3001–15 000 |
 
-[^10]: A 9. §-t a 8. § (3) bekezdése hatályon kívül helyezte.
+[^12]: A 9. §-t a 8. § (3) bekezdése hatályon kívül helyezte.
