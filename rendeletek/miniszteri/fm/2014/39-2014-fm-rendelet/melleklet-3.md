@@ -14,6 +14,6 @@
 
 | 5 | J | 085 | NS | Osztatlan közös tulajdon megszüntetésével kapcsolatban földmérési szakterületen keletkezett iratok | Nem selejtezhető | 10 |
 
-3. melléklet a 39/2014. (XII. 18.) FM rendelethez[^11]
+3. melléklet a 39/2014. (XII. 18.) FM rendelethez[^17]
 
-[^11]: A 3. melléklet a 88/2016. (XII. 29.) FM rendelet 73. §-a szerint módosított szöveg.
+[^17]: A 3. melléklet a 88/2016. (XII. 29.) FM rendelet 73. §-a, a 42/2017. (VIII. 17.) FM rendelet 204. § h) pontja szerint módosított szöveg.

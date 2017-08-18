@@ -1,4 +1,4 @@
-## A FÖMI-nél keletkezett, az Fttv. 31. § (6) bekezdése szerinti iratok.
+## A földmérési és térinformatikai államigazgatási szervnél keletkezett, az Fttv. 31. § (6) bekezdése szerinti iratok.
 
 | A | B | C | D | E |
 
