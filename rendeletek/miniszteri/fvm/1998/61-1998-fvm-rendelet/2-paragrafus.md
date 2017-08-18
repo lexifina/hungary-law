@@ -1,3 +1,0 @@
-2. § (1) A díjat, illetőleg túlfizetése esetén a díjtöbbletet hivatalból, 30 napon belül vissza kell téríteni, ha a kérelem visszavonásáról – a kérelmező szóbeli vagy írásbeli bejelentésének a hegyközséghez történő beérkezése alapján – a hegyközség az érdemi intézkedést megelőzően tudomást szerzett.
-
-(2) A másodfokú eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a felülvizsgált határozat az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult. A visszatérítést hivatalból, a jogorvoslati eljárásban hozott határozatban kell elrendelni, és a díjat 30 napon belül vissza kell téríteni.
