@@ -6,4 +6,6 @@ b) a tenyésztési hatóság által főtörzskönyvi számmal ellátott, a tárg
 
 ## után.
 
-(2) A tevékenység elvégzését a tenyésztési hatóság a központi adatbázisból lekérdezett törzskönyvi adatok alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+(2)[^58] A tevékenység elvégzését a NÉBIH a központi adatbázisból lekérdezett törzskönyvi adatok alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+
+[^58]: Az 54. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.

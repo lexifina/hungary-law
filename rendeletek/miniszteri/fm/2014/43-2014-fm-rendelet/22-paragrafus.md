@@ -6,4 +6,6 @@ b) húshasznú fajták esetében valamennyi, két évnél fiatalabb, a főtörzs
 
 (2) A támogatás feltétele, hogy a tenyésztőszervezet a küllemi bírálati adatokat a tenyésztési hatóság részére a tenyésztési hatósággal kötött megállapodásban foglaltak szerint átadta.
 
-(3) A tevékenység elvégzését a tenyésztési hatóság a (2) bekezdésben meghatározott adatszolgáltatás alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+(3)[^28] A tevékenység elvégzését a NÉBIH a (2) bekezdésben meghatározott adatszolgáltatás alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+
+[^28]: A 22. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.

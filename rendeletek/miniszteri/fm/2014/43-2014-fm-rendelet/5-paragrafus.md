@@ -18,6 +18,9 @@ d) nyilatkozat arról, hogy mely tenyésztőszervezet, vagy megbízottja által 
 
 e) nyilatkozat arról, hogy megfelel a 4. §-ban foglaltaknak.
 
-(2) A kedvezményezettnek a támogatott szolgáltatás igénybevételére irányuló kérelmet a tenyésztési hatóság által közzétett, egységes nyomtatványon kell benyújtania.
+(2)[^3] A kedvezményezettnek a támogatott szolgáltatás igénybevételére irányuló kérelmet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által közzétett, egységes nyomtatványon kell benyújtania.
 
-(3) A tenyésztőszervezet a kedvezményezettek kérelmét legkésőbb a támogatott szolgáltatás megkezdése előtt benyújtja a tenyésztési hatósághoz.
+(3)[^4] A tenyésztőszervezet a kedvezményezettek kérelmét legkésőbb a támogatott szolgáltatás megkezdése előtt benyújtja a NÉBIH-hez.
+
+[^3]: Az 5. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § c) pontja szerint módosított szöveg.
+[^4]: Az 5. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § d) pontja szerint módosított szöveg.

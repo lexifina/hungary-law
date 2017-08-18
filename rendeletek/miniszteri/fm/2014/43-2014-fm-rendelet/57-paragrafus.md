@@ -6,4 +6,6 @@ b) a legfeljebb 4 éves korú méncsikó az állami ménesben, vagy a tenyészt�
 
 ## és ezt a tenyésztési hatóság jelen lévő szakembere a vizsgalapokon aláírásával igazolta.
 
-(2) A tevékenység elvégzését a tenyésztési hatóság a központi adatbankba elektronikus úton feladott STV adatok alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+(2)[^61] A tevékenység elvégzését a NÉBIH a központi adatbankba elektronikus úton feladott STV adatok alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+
+[^61]: Az 57. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.

@@ -2,4 +2,6 @@
 
 (2) A támogatás feltétele, hogy a tenyésztőszervezet az általa elkészített vizsgálati tervet a tenyésztési hatóság számára megküldte, és a mért adatokat a tenyésztési hatóság részére a tenyésztési hatósággal kötött megállapodásban foglaltak szerint átadta.
 
-(3) A tevékenység elvégzését a tenyésztési hatóság – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+(3)[^31] A tevékenység elvégzését a NÉBIH – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+
+[^31]: A 25. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.

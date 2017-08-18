@@ -8,4 +8,6 @@ c) a törzskönyvi nyilvántartásban szereplő élő törzskosok és -bakok, to
 
 ## után.
 
-(2) A tevékenység elvégzését a tenyésztési hatóság a központi adatbank alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+(2)[^45] A tevékenység elvégzését a NÉBIH a központi adatbank alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+
+[^45]: A 41. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.

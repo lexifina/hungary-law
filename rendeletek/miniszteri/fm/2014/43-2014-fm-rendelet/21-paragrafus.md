@@ -4,4 +4,6 @@
 
 (3) A támogatás feltétele, hogy a központi hús ITV-t szervező szervezet által elkészített ivadékvizsgálati tervet a tenyésztési hatóság engedélyezte és a SZIR-ben regisztrálta.
 
-(4) A tevékenység elvégzését a tenyésztési hatóság – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja, amely tartalmazza az ivadékvizsgálati terv nyilvántartási számát is.
+(4)[^27] A tevékenység elvégzését a NÉBIH – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja, amely tartalmazza az ivadékvizsgálati terv nyilvántartási számát is.
+
+[^27]: A 21. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.

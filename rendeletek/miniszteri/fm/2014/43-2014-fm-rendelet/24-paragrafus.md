@@ -2,4 +2,6 @@
 
 (2) A támogatás feltétele, hogy a KSTV indítást a növendékbika KSTV indítást végző szervezet a tenyésztési hatóságnak bejelentse.
 
-(3) A tevékenység elvégzését a tenyésztési hatóság a (2) bekezdésben meghatározott adatszolgáltatás alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+(3)[^30] A tevékenység elvégzését a NÉBIH a (2) bekezdésben meghatározott adatszolgáltatás alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+
+[^30]: A 24. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.
