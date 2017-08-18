@@ -1,12 +1,12 @@
 ## 13. Az alapponthálózati pontok nyilvántartása
 
-30. § (1) Az Fttv. 3. § (1) bekezdés b) pontjában szereplő alapponthálózati adatbázist a FÖMI kezeli és szolgáltatja.
+30. § (1)[^34] Az Fttv. 3. § (1) bekezdés b) pontjában szereplő alapponthálózati adatbázist a földmérési és térinformatikai államigazgatási szerv kezeli és szolgáltatja.
 
-(2) A FÖMI-nek az alapponthálózati pontok adatbázisával kapcsolatos feladatai:
+(2)[^35] A földmérési és térinformatikai államigazgatási szervnek az alapponthálózati pontok adatbázisával kapcsolatos feladatai:
 
 a) országos hatáskörrel előállítja és vezeti az alapponthálózati pontok adatbázisát,
 
-b)[^17] az alapponthálózati pontok adatbázisából átadja a kormányhivataloknak az illetékességi területükre vonatkozó adatbázis tartalmat,
+b)[^36] az alapponthálózati pontok adatbázisából átadja a kormányhivataloknak az illetékességi területükre vonatkozó adatbázis tartalmat,
 
 c) vezeti és nyilvántartja a bekövetkezett változásokat,
 
@@ -16,9 +16,9 @@ e) ellenőrzi és nyilvántartja az alapponthálózati pontok pótlási és áth
 
 f) az alapponthálózati pontok pótlásának vagy áthelyezésének állami átvétele.
 
-(3)[^18] A kormányhivatal feladata:
+(3)[^37] A kormányhivatal feladata:
 
-a) illetékességi területén a FÖMI alapponthálózati adatbázisa alapján szolgáltatja az alapponthálózati pontok adatait,
+a)[^38] illetékességi területén a földmérési és térinformatikai államigazgatási szerv alapponthálózati adatbázisa alapján szolgáltatja az alapponthálózati pontok adatait,
 
 b) gyakorolja – az Fttv. alapján a tulajdonosi joggyakorlása alá tartozó – alapponthálózati pontok felett a tulajdonosi jogokat, és a közérdekű használat jogát,
 
@@ -28,5 +28,8 @@ d) intézkedik az elpusztult alapponthálózati pont pótlásával kapcsolatos e
 
 e) új alapponthálózati pont elhelyezése esetén intézkedik az Fttv. 26. § (7) bekezdésben foglalt kártalanítás megállapításáról.
 
-[^17]: A 30. § (2) bekezdés b) pontja a 29/2015. (VI. 5.) FM rendelet 11. § h) pontja szerint módosított szöveg.
-[^18]: A 30. § (3) bekezdés nyitó szövegrésze a 29/2015. (VI. 5.) FM rendelet 11. § b) pontja szerint módosított szöveg.
+[^34]: A 30. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 207. § d) pontja szerint módosított szöveg.
+[^35]: A 30. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 207. § i) pontja szerint módosított szöveg.
+[^36]: A 30. § (2) bekezdés b) pontja a 29/2015. (VI. 5.) FM rendelet 11. § h) pontja szerint módosított szöveg.
+[^37]: A 30. § (3) bekezdés nyitó szövegrésze a 29/2015. (VI. 5.) FM rendelet 11. § b) pontja szerint módosított szöveg.
+[^38]: A 30. § (3) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 207. § d) pontja szerint módosított szöveg.
