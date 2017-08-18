@@ -1,6 +1,6 @@
 ## 4. Nyomon követhetőség ellenőrzése
 
-9. § (1) Az ellenőrző hatóság a növényvédőszer-maradék mintavétel céljából végzett ellenőrzés során
+9. § (1)[^9] Az ellenőrző hatóság és a NÉBIH a növényvédőszer-maradék mintavétel céljából végzett ellenőrzés során
 
 a) ellenőrzi a vállalkozásnál a nyomon követhetőséget biztosító rendszerek vagy eljárások meglétét,
 
@@ -17,3 +17,5 @@ b) annak a vállalkozásnak a neve és címe, akihez a megmintázott tételt sz�
 c) a szállítás ideje, és a
 
 d) tétel mennyisége.
+
+[^9]: A 9. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 159. § e) pontja szerint módosított szöveg.

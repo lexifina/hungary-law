@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-66-20-8
 | 2013-03-14 | 2010-66-20-82.5 | 13/2013. (III. 6.) VM rendelet |
 | 2013-08-01 | 2010-66-20-82.6 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-03-13 | 2010-66-20-82.7 | 70/2013. (VII. 31.) VM rendelet |
+| 2017-08-18 | 2010-66-20-82.8 | 70/2013. (VII. 31.) VM rendelet |
