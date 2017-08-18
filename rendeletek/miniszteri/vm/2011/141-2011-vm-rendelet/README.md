@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-141-20-
 | 2013-06-17 | 2011-141-20-2Y.5 | 51/2013. (VI. 17.) VM rendelet |
 | 2014-12-17 | 2011-141-20-2Y.6 | 32/2014. (XII. 9.) FM rendelet |
 | 2017-05-30 | 2011-141-20-2Y.7 | 25/2017. (V. 25.) FM rendelet |
+| 2017-08-18 | 2011-141-20-2Y.8 | 42/2017. (VIII. 17.) FM rendelet |
