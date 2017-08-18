@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-39-20-1
 | --- | --- | --- |
 | 2008-05-16 | 1994-39-20-11.6 | 39/1994. (VI. 28.) FM rendelet |
 | 2014-03-13 | 1994-39-20-11.7 | 19/2014. (III. 12.) VM rendelet |
+| 2017-08-18 | 1994-39-20-11.8 | 42/2017. (VIII. 17.) FM rendelet |

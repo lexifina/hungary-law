@@ -10,7 +10,7 @@ b) a kiszerelt spermaadagokat a donor apaállat azonosítóival a 3. számú mel
 
 c) rendelkezésre áll a szaporítóanyag származási igazolásának kiállításához szükséges dokumentáció, valamint a spermát szolgáltató apaállat vércsoportvizsgálati vagy egyéb, a származásellenőrzést szolgáló vizsgálati eredménye.
 
-(2)[^13] A 6. §-ban foglalt feltételek teljesítése esetén a NÉBIH engedélyével friss spermás termékenyítéshez a mesterséges termékenyítő állomás megbízottja által mesterséges termékenyítő állomáson kívül is nyerhető sperma. Az így nyert spermát a mesterséges termékenyítő állomásokra vonatkozó előírások szerint lehet csak forgalmazni.
+(2)[^13] A 6. §-ban foglalt feltételek teljesítése esetén a tenyésztési hatóság engedélyével friss spermás termékenyítéshez a mesterséges termékenyítő állomás megbízottja által mesterséges termékenyítő állomáson kívül is nyerhető sperma. Az így nyert spermát a mesterséges termékenyítő állomásokra vonatkozó előírások szerint lehet csak forgalmazni.
 
 [^12]: A 9. § (1) bekezdésének bevezető szövegrésze a 49/2007. (VI. 26.) FVM rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^13]: A 9. § (2) bekezdése a 19/2014. (III. 12.) VM rendelet 4. § d) pontja szerint módosított szöveg.
+[^13]: A 9. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 4. § g) pontja szerint módosított szöveg.

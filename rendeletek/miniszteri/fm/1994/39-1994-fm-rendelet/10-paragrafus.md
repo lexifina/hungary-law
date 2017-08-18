@@ -20,14 +20,14 @@ e) bika és kan sperma esetében minőségtanúsítványt a 3. számú mellékle
 
 (2)[^15] Viszontforgalmazás esetén a forgalmazónak a spermát szállítólevéllel, számlával és az eredeti minőségtanúsítvány szükséges számú másolataival kell ellátnia. A forgalmazó az értékesítésekről készített összesítővel havonta tájékoztatja az eredeti kibocsátó mesterséges állomást.
 
-(3)[^16] A forgalomba hozott sperma minőségéért a forgalmazó felel. Vitás esetekben az érdekelt fél megrendelésére a NÉBIH vizsgálja meg, hogy a szaporítóanyag minőségi szempontból megfelel-e ezen jogszabály követelményeinek.
+(3)[^16] A forgalomba hozott sperma minőségéért a forgalmazó felel. Vitás esetekben az érdekelt fél megrendelésére a tenyésztési hatóság a NÉBIH-hel vizsgáltatja meg, hogy a szaporítóanyag minőségi szempontból megfelel-e ezen jogszabály követelményeinek.
 
-(4)[^17] A NÉBIH a minőségi előírásoknak nem megfelelő spermatétel további forgalmazását és felhasználását megtilthatja.
+(4)[^17] A tenyésztési hatóság a minőségi előírásoknak nem megfelelő spermatétel további forgalmazását és felhasználását megtilthatja.
 
-(5)[^18] A NÉBIH a törvény által meghatározott esetekben állattenyésztési bírság kiszabását kezdeményezheti.
+(5)[^18] A tenyésztési hatóság a törvény által meghatározott esetekben állattenyésztési bírság kiszabását kezdeményezheti.
 
 [^14]: A 10. § (1) bekezdésének bevezető szövegrésze a 49/2007. (VI. 26.) FVM rendelet 14. § (3) bekezdésével megállapított szöveg.
 [^15]: A 10. § új (2) bekezdését a 78/2000. (X. 11.) FVM rendelet 1. §-a iktatta a szövegbe, s egyidejűleg az eredeti (2)-(4) bekezdés számozását (3)-(5) bekezdésre módosította.
-[^16]: A 10. § (3) bekezdése a 19/2014. (III. 12.) VM rendelet 4. § d) pontja szerint módosított szöveg.
-[^17]: A 10. § (4) bekezdése a 19/2014. (III. 12.) VM rendelet 4. § f) pontja szerint módosított szöveg.
-[^18]: A 10. § (5) bekezdése a 19/2014. (III. 12.) VM rendelet 4. § f) pontja szerint módosított szöveg.
+[^16]: A 10. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 4. § h) pontja szerint módosított szöveg.
+[^17]: A 10. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 4. § g) pontja szerint módosított szöveg.
+[^18]: A 10. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 4. § g) pontja szerint módosított szöveg.

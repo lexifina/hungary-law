@@ -6,9 +6,9 @@
 
 ## 26. §
 
-(1)[^39] A NÉBIH ellenőrzi a szaporítóanyagok termelése és a művi szaporító eljárások során a szaporodásbiológiai, a tenyésztéshigiéniai és minőségi előírások megtartását. Az ellenőrzés nem érinti a hatósági állatorvosnak az állategészségügyi jogszabályokban előírt ellenőrzési és intézkedési feladatait.
+(1)[^39] A járási tenyésztési hatóság ellenőrzi a szaporítóanyagok termelése és a művi szaporító eljárások során a szaporodásbiológiai, a tenyésztéshigiéniai és minőségi előírások megtartását. Az ellenőrzés nem érinti a hatósági állatorvosnak az állategészségügyi jogszabályokban előírt ellenőrzési és intézkedési feladatait.
 
-(2)[^40] A NÉBIH eljárása során a Tv. 44. §-ának a) pontja szerinti vizsgálatnál a mintavételi egység:
+(2)[^40] A járási tenyésztési hatóság eljárása során a Tv. 44. §-ának a) pontja szerinti vizsgálatnál a mintavételi egység:
 
 a) vérvizsgálatnál egy cső vér;
 
@@ -16,5 +16,5 @@ b) szaporítóanyag-vizsgálatnál termelési szériánként egy adag szaporít�
 
 (3) Az ellenőrzéshez szükséges mintavételről jegyzőkönyvet kell készíteni.
 
-[^39]: A 26. § (1) bekezdése a 19/2014. (III. 12.) VM rendelet 4. § f) pontja szerint módosított szöveg.
-[^40]: A 26. § (2) bekezdés nyitó szövegrésze a 19/2014. (III. 12.) VM rendelet 4. § f) pontja szerint módosított szöveg.
+[^39]: A 26. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 4. § d) pontja szerint módosított szöveg.
+[^40]: A 26. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 4. § d) pontja szerint módosított szöveg.
