@@ -1,4 +1,4 @@
-69. § (1)[^162] Állatgyógyászati készítményekkel kiskereskedelmi tevékenységet folytatni csak azt követően lehet, ha a forgalmazó hely működési engedélyezése iránti eljárásban a forgalmazás telephelye szerint illetékes megyei kormányhivatal szakhatóságként ahhoz az e rendeletben foglalt követelmények teljesítése esetén hozzájárult. A szakhatósági hozzájárulás másolatát a megyei kormányhivatal megküldi a NÉBIH-nek és a forgalmazás telephelye szerint illetékes járási hivatalnak. A szakhatósági hozzájárulás másolatát elektronikus úton is meg lehet küldeni.
+69. § (1)[^164] Állatgyógyászati készítményekkel kiskereskedelmi tevékenységet folytatni – az emberi felhasználásra kerülő gyógyszerek forgalmazására jogosult kivételével – csak akkor lehet, ha a forgalmazó hely működési engedélyezése iránti eljárásban a forgalmazás telephelye szerint illetékes járási hivatal szakhatóságként ahhoz az e rendeletben foglalt követelmények teljesítése esetén hozzájárult. A szakhatósági hozzájárulás másolatát a járási hivatal megküldi a NÉBIH-nek. A szakhatósági hozzájárulás másolatát elektronikus úton is meg lehet küldeni.
 
 (2) Állatgyógyászati készítmény hatóanyagával kiskereskedelmi tevékenységet folytatni tilos.
 
@@ -28,4 +28,4 @@ g) az állatorvosnak, orvosnak vagy gyógyszerésznek vény nélkül kiadott, eg
 
 (8) Amennyiben a bevételezés, illetve kiadás olyan számlára történt, amely tartalmazza az (5) bekezdés a)–e) pontjaiban előírt adatokat, úgy a nyilvántartásban elegendő csak a számla számát feltüntetni és az ellenőrzéskor a nyilvántartást a hozzá tartozó számla megőrzött példányával együtt bemutatni.
 
-[^162]: A 69. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 5. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 2., 7. és 9. pontja szerint módosított szöveg.
+[^164]: A 69. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 133. § (3) bekezdésével megállapított szöveg.

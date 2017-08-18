@@ -46,11 +46,11 @@ Személyzet
 
 Dokumentáció
 
-4.[^350] A nagykereskedőnek a NÉBIH, illetve a járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
+4.[^353] A nagykereskedőnek a NÉBIH, illetve a járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
 
 Megrendelés
 
-5.[^351] Nagykereskedő csak nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező nagykereskedőtől, illetve importáló nagykereskedőtől vagy gyártási és nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező gyártótól rendelhet állatgyógyászati készítményt.
+5.[^354] Nagykereskedő csak nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező nagykereskedőtől, illetve importáló nagykereskedőtől vagy gyártási és nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező gyártótól rendelhet állatgyógyászati készítményt.
 
 Eljárások
 
@@ -134,11 +134,11 @@ Kiadás
 
 a) Más nagykereskedőnek vagy kiskereskedőnek abban az esetben, ha a vevő pozíciójában álló nagykereskedő vagy a kiskereskedő hatályos működési engedélyének másolatát előzetesen beszerezte.
 
-b)[^352] Külön jogszabály szerinti nagy létszámú állattartó telepnek, továbbá takarmánykeverő üzemnek. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek az ellátó állatorvos által ellenjegyzett (aláírt és bélyegzőlenyomatával ellátott) megrendelőjét vagy az ellátó állatorvos által kiállított, a 9. számú mellékletben található minta szerinti vény egy példányát előzetesen beszerezze. Az egyes kiszállításokhoz mindig aktuálisan kell kiállítani a megrendelőt vagy vényt. A megrendelőn legalább az alábbi adatokat kell feltüntetni: megrendelő állatorvos neve, székhelye, megrendelt készítmény neve, mennyisége, felhasználás helye. A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
+b)[^355] Külön jogszabály szerinti nagy létszámú állattartó telepnek, továbbá takarmánykeverő üzemnek. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek az ellátó állatorvos által ellenjegyzett (aláírt és bélyegzőlenyomatával ellátott) megrendelőjét vagy az ellátó állatorvos által kiállított, a 9. számú mellékletben található minta szerinti vény egy példányát előzetesen beszerezze. Az egyes kiszállításokhoz mindig aktuálisan kell kiállítani a megrendelőt vagy vényt. A megrendelőn legalább az alábbi adatokat kell feltüntetni: megrendelő állatorvos neve, székhelye, megrendelt készítmény neve, mennyisége, felhasználás helye. A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
 
-c)[^353] Állatorvosnak, állatorvosi rendelőnek, -szakrendelőnek (rendelőintézetnek), állatkórháznak és állatklinikának. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatályban lévő engedélyének másolatát előzetesen beszerezze. A vény nélkül kiadott, egyébként vényköteles állatgyógyászati készítmény esetében az átvétel igazolására szolgáló dokumentumon az állatorvos nevét olvasható formában, aláírását, bélyegzőlenyomatát és magángyakorlati nyilvántartási számát vagy annak hiányában lakcímét jól láthatóan fel kell tüntetni.
+c)[^356] Állatorvosnak, állatorvosi rendelőnek, -szakrendelőnek (rendelőintézetnek), állatkórháznak és állatklinikának. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatályban lévő engedélyének másolatát előzetesen beszerezze. A vény nélkül kiadott, egyébként vényköteles állatgyógyászati készítmény esetében az átvétel igazolására szolgáló dokumentumon az állatorvos nevét olvasható formában, aláírását, bélyegzőlenyomatát és magángyakorlati nyilvántartási számát vagy annak hiányában lakcímét jól láthatóan fel kell tüntetni.
 
-d)[^354]
+d)[^357]
 
 18. Minden gyógyszerkiadásnál dokumentálni kell a kiadás idejét, a készítmény nevét, gyártási számát, lejárati idejét és mennyiségét, az eladó és a vevő nevét és a címét.
 
@@ -168,8 +168,10 @@ d) egy arra jogosult személy (aki lehet szakmai ismeretei alapján erre a felad
 
 e) a szükségesnek tartott további vizsgálatok alapján a készítmény megfelelőnek bizonyult.
 
-[^350]: A 8. számú melléklet I. Fejezet 4. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
-[^351]: A 8. számú melléklet I. Fejezet 5. pontja a 33/2010. (IV. 7.) FVM rendelet 11. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^352]: A 8. számú melléklet I. fejezet 17. pont b) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § f) pontja és 12. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^353]: A 8. számú melléklet I. Fejezet 17. pont c) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § u) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^354]: A 8. számú melléklet I. Fejezet 17. pont d) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § l) pontja hatályon kívül helyezte.
+Amennyiben szükséges, konzultálni kell a forgalomba hozatali engedélyessel vagy a készítmény gyártójának meghatalmazott személyével.
+
+[^353]: A 8. számú melléklet I. Fejezet 4. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
+[^354]: A 8. számú melléklet I. Fejezet 5. pontja a 33/2010. (IV. 7.) FVM rendelet 11. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^355]: A 8. számú melléklet I. fejezet 17. pont b) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § f) pontja és 12. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^356]: A 8. számú melléklet I. Fejezet 17. pont c) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § u) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^357]: A 8. számú melléklet I. Fejezet 17. pont d) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § l) pontja hatályon kívül helyezte.

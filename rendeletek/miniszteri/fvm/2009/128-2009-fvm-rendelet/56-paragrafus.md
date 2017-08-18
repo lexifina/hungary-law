@@ -1,4 +1,4 @@
-56. § (1)[^146] A NÉBIH kockázatbecslés alapján meghatározott gyakorisággal helyszíni ellenőrzést végez a GMP feltételek és a meghatalmazott személy kötelezettségeinek teljesítésével kapcsolatban annak megállapítására, hogy
+56. § (1)[^148] A NÉBIH kockázatbecslés alapján meghatározott gyakorisággal helyszíni ellenőrzést végez a GMP feltételek és a meghatalmazott személy kötelezettségeinek teljesítésével kapcsolatban annak megállapítására, hogy
 
 a) a hazai előállítású állatgyógyászati készítmények minden egyes tételét a hatályos jogszabályokkal és a forgalomba hozatali engedéllyel összhangban gyártják és ellenőrzik, illetve
 
@@ -10,4 +10,4 @@ b) harmadik országból behozott állatgyógyászati készítmény esetén – m
 
 (4) A meghatalmazott személynek minden esetben, így különösen az állatgyógyászati készítmény felszabadításának esetében, a műveletek elvégzésével egyidejűleg naprakész és folyamatos nyilvántartást kell vezetnie arról, hogy minden egyes gyártási tétel megfelel e § rendelkezéseinek, és helyszíni ellenőrzés céljára köteles a nyilvántartást 5 évig megőrizni.
 
-[^146]: Az 56. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^148]: Az 56. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.

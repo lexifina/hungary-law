@@ -1,6 +1,6 @@
-## 91. §[^227] A NÉBIH elvégzi az OMCL hálózati egyezmény keretében kapott felkérésben szereplő gyártási tételek ellenőrző vizsgálatait.
+## 91. §[^230] A NÉBIH elvégzi az OMCL hálózati egyezmény keretében kapott felkérésben szereplő gyártási tételek ellenőrző vizsgálatait.
 
-92. § (1)[^228] A NÉBIH az állatgyógyászati készítmény forgalmazását felfüggeszti, vagy az állatgyógyászati készítmény forgalomba hozatali engedélyét módosítja vagy visszavonja, ha
+92. § (1)[^231] A NÉBIH az állatgyógyászati készítmény forgalmazását felfüggeszti, vagy az állatgyógyászati készítmény forgalomba hozatali engedélyét módosítja vagy visszavonja, ha
 
 a) az állatgyógyászati készítmény előny-kockázat viszony értékelésének eredménye – az engedélyezett alkalmazási feltételek mellett – kedvezőtlen, különös tekintettel az állategészségügyre és állatjólétre kifejtett hasznára, valamint a fogyasztók biztonságát illetően, ha az engedély élelmiszertermelő állatok kezelésére alkalmazott állatgyógyászati készítményre vonatkozik,
 
@@ -18,12 +18,12 @@ g) a 12. és 14–15. §, valamint a 27. § alapján benyújtott részletes adat
 
 h) a 86. § (1) és (2) bekezdése szerinti ellenőrző vizsgálatokat nem végezték el.
 
-(2)[^229] A NÉBIH az állatgyógyászati készítmény forgalmazást felfüggeszti, vagy az engedélyt módosítja vagy visszavonja, ha megállapítást nyer, hogy
+(2)[^232] A NÉBIH az állatgyógyászati készítmény forgalmazást felfüggeszti, vagy az engedélyt módosítja vagy visszavonja, ha megállapítást nyer, hogy
 
 a) a 12. és 14–15. §-ban foglalt részletes adatokat és dokumentumokat nem frissítették a 27. § (3) és (6) bekezdésének megfelelően, vagy
 
 b) a forgalomba hozatali engedély jogosultja új információ esetén nem a 27. § (5) bekezdésének megfelelően járt el.
 
-[^227]: A 91. § a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
-[^228]: A 92. § (1) bekezdés nyitó szövegrésze a 33/2010. (IV. 7.) FVM rendelet 11. § n) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
-[^229]: A 92. § (2) bekezdés nyitó szövegrésze a 33/2010. (IV. 7.) FVM rendelet 11. § o) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^230]: A 91. § a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^231]: A 92. § (1) bekezdés nyitó szövegrésze a 33/2010. (IV. 7.) FVM rendelet 11. § n) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^232]: A 92. § (2) bekezdés nyitó szövegrésze a 33/2010. (IV. 7.) FVM rendelet 11. § o) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.

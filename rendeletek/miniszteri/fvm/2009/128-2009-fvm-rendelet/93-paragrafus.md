@@ -1,4 +1,4 @@
-93. § (1)[^230] A NÉBIH a 92. §-ban foglaltakon túlmenően megtiltja az állatgyógyászati készítmény forgalmazását, illetve kivonja az érintett készítményt a hazai piacról, ha
+93. § (1)[^233] A NÉBIH a 92. §-ban foglaltakon túlmenően megtiltja az állatgyógyászati készítmény forgalmazását, illetve kivonja az érintett készítményt a hazai piacról, ha
 
 a) nyilvánvalóvá válik, hogy az állatgyógyászati készítmény előny-kockázat viszony értékelésének eredménye – az engedélyezett alkalmazási feltételek mellett – kedvezőtlen, különös tekintettel az állategészségügyre és állatjólétre kifejtett hasznára, valamint a fogyasztók biztonságát illetően, ha az engedély élelmiszertermelő állatok kezelésére alkalmazott állatgyógyászati készítményre vonatkozik,
 
@@ -12,7 +12,7 @@ e) az e rendelet szerinti ellenőrző vizsgálatokat nem végezték el, illetve 
 
 (2) A forgalmazás tilalma vagy a forgalomból való kivonás egyes gyártási tételekre is korlátozható.
 
-(3)[^231] A forgalmazás tilalmát vagy korlátozását a NÉBIH a RAS jelzése alapján is elrendelheti, illetve az (1) bekezdés c) pontjában hivatkozott minőségi hiba esetén a kifogásolt tétel adatait és a foganatosított intézkedést a rendszerbe továbbítja.
+(3)[^234] A forgalmazás tilalmát vagy korlátozását a NÉBIH a RAS jelzése alapján is elrendelheti, illetve az (1) bekezdés c) pontjában hivatkozott minőségi hiba esetén a kifogásolt tétel adatait és a foganatosított intézkedést a rendszerbe továbbítja.
 
-[^230]: A 93. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
-[^231]: A 93. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^233]: A 93. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^234]: A 93. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-1/A. §[^1] (1) Ezt a rendeletet kell továbbá alkalmazni a (2) bekezdés szerinti állategészségügyi biocid termékek forgalomba hozatalának engedélyezésére, forgalomba hozatalára és felhasználására, kivéve a fertőtlenítőszerek közé sorolható azon termékeket, amelyekre az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) forgalomba hozatali engedélyt ad ki a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló külön jogszabály szerint.
+1/A. §[^1] (1)[^2] Ezt a rendeletet kell továbbá alkalmazni a (2) bekezdés szerinti állategészségügyi biocid termékek forgalomba hozatalának engedélyezésére, forgalomba hozatalára és felhasználására, kivéve a fertőtlenítőszerek közé sorolható azon termékeket, amelyekre az országos tisztifőorvos forgalomba hozatali engedélyt ad ki a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló külön jogszabály szerint.
 
 (2) Az e rendeletben foglaltakat azon állategészségügyi biocid termékekre kell alkalmazni, amelyek az alábbi feltételek mindegyikének együttesen megfelelnek:
 
@@ -6,7 +6,7 @@ a) a termék nem minősül állatgyógyászati készítménynek,
 
 b) a termék nem minősül állatgyógyászatban használatos gyógyhatású készítménynek, ápolószernek és segédanyagnak és külön jogszabály szerinti orvostechnikai eszköznek,
 
-c) a termék e rendelet hatálybelépésekor nem rendelkezik az adott termékre vonatkozó OTH által kiadott forgalomba hozatali engedéllyel,
+c)[^3] a termék e rendelet hatálybelépésekor nem rendelkezik az adott termékre vonatkozó országos tisztifőorvos által kiadott forgalomba hozatali engedéllyel,
 
 d) a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló külön jogszabály szerint az alábbi biocid terméktípusok valamelyikébe tartozó következő termékek:
 
@@ -21,3 +21,5 @@ dc) a riasztó és csalogatószerek közül: a külön rendelet szerint egészs�
 (4) Az állategészségügyi biocid termékek vonatkozásában e rendeletben nem szabályozott kérdésekben a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló külön jogszabályban foglaltakat kell alkalmazni.
 
 [^1]: Az 1/A. §-t a 33/2010. (IV. 7.) FVM rendelet 1. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^2]: Az 1/A. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 135. § a) pontja szerint módosított szöveg.
+[^3]: Az 1/A. § (2) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 135. § b) pontja szerint módosított szöveg.

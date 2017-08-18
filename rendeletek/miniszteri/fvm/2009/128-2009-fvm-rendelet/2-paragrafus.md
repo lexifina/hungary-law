@@ -1,4 +1,4 @@
-## 1/C. §[^3] E rendelet állati vérkészítményekre vonatkozó előírásait a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról szóló, 2002. október 3-i 1774/2002/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 1774/2002/EK rendelet) foglaltak figyelembevételével kell alkalmazni.
+## 1/C. §[^5] E rendelet állati vérkészítményekre vonatkozó előírásait a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról szóló, 2002. október 3-i 1774/2002/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 1774/2002/EK rendelet) foglaltak figyelembevételével kell alkalmazni.
 
 2. § (1) E rendeletet nem kell alkalmazni
 
@@ -22,4 +22,4 @@ a) az állatorvosi vényre egy állat vagy állatcsoport részére egy kezelési
 
 b) az állatorvosi vényre a hatályos Gyógyszerkönyvek vagy a Szabványos Vényminták Gyűjteménye orvosi és gyógyszerészi, illetve állatorvosi kiadása (a továbbiakban: FoNo, illetve FoNoVet) előírásai alapján készült, közvetlenül a felhasználó részére kiszolgált, officinális készítményekre.
 
-[^3]: Az 1/C. §-t a 33/2010. (IV. 7.) FVM rendelet 1. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^5]: Az 1/C. §-t a 33/2010. (IV. 7.) FVM rendelet 1. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.

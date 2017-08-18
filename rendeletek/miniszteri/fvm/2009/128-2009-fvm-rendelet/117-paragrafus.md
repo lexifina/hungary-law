@@ -20,9 +20,9 @@ b) a Bizottság 1234/2008/EK rendelete (2008. november 24.) az emberi, illetve �
 
 c) az Európai Parlament és a Tanács 470/2009/EK rendelete (2009. május 6.) az állati eredetű élelmiszerekben előforduló farmakológiai hatóanyagok maradékanyag- határértékeinek meghatározására irányuló közösségi eljárásokról, a 2377/90/EGK tanácsi rendelet hatályon kívül helyezéséről, és a 2001/82/EK európai parlamenti és tanácsi irányelv, valamint a 726/2004/EK európai parlamenti és tanácsi rendelet módosításáról,
 
-d)[^322] Az Európai Parlament és a Tanács 528/2012/EU rendelete (2012. május 22.) a biocid termékek forgalmazásáról és felhasználásáról,
+d)[^325] Az Európai Parlament és a Tanács 528/2012/EU rendelete (2012. május 22.) a biocid termékek forgalmazásáról és felhasználásáról,
 
-e)[^323] a Bizottság 1062/2014/EU felhatalmazáson alapuló rendelete (2014. augusztus 4.) a biocid termékekben található valamennyi létező hatóanyag szisztematikus vizsgálatára irányuló, az 528/2012/EU európai parlamenti és tanácsi rendeletben említett munkaprogramról.
+e)[^326] a Bizottság 1062/2014/EU felhatalmazáson alapuló rendelete (2014. augusztus 4.) a biocid termékekben található valamennyi létező hatóanyag szisztematikus vizsgálatára irányuló, az 528/2012/EU európai parlamenti és tanácsi rendeletben említett munkaprogramról.
 
-[^322]: A 117. § (2) bekezdés d) pontját a 77/2013. (IX. 10.) VM rendelet 10. §-a iktatta be.
-[^323]: A 117. § (2) bekezdés e) pontját a 46/2015. (VIII. 7.) FM rendelet 51. §-a iktatta be.
+[^325]: A 117. § (2) bekezdés d) pontját a 77/2013. (IX. 10.) VM rendelet 10. §-a iktatta be.
+[^326]: A 117. § (2) bekezdés e) pontját a 46/2015. (VIII. 7.) FM rendelet 51. §-a iktatta be.

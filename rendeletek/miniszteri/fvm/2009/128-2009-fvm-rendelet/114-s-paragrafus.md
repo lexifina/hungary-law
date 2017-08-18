@@ -1,4 +1,4 @@
-114/S. § (1)[^313] A járási hivatal – a megyei kormányhivatal útján történő – javaslatára a NÉBIH az egyéb gyógyhatású készítményt a nyilvántartásból törli, forgalmazását megtiltja, illetve a készítmény forgalomból való országos kivonását rendeli el, amennyiben
+114/S. § (1)[^316] A járási hivatal – a megyei kormányhivatal útján történő – javaslatára a NÉBIH az egyéb gyógyhatású készítményt a nyilvántartásból törli, forgalmazását megtiltja, illetve a készítmény forgalomból való országos kivonását rendeli el, amennyiben
 
 a) megállapításra kerül, hogy a szabálytalanság súlyosan veszélyezteti a közegészségügy, a fogyasztók, az állategészségügy vagy a környezet érdekeit,
 
@@ -12,7 +12,7 @@ e) a készítmény olyan hatóanyagot tartalmaz, amelynek felhasználását jogs
 
 f) megállapításra kerül, hogy a kérelmező hamis vagy megtévesztő adatokat szolgáltatott.
 
-(2)[^314] A forgalmazási tilalom vagy a forgalomból való kivonás egyes gyártási tételekre is korlátozható. A forgalmazás megtiltása esetén a NÉBIH a meglévő készlet ártalmatlanítására, raktározására, forgalmazására, illetve felhasználására határidőt vagy határnapot állapít meg.
+(2)[^317] A forgalmazási tilalom vagy a forgalomból való kivonás egyes gyártási tételekre is korlátozható. A forgalmazás megtiltása esetén a NÉBIH a meglévő készlet ártalmatlanítására, raktározására, forgalmazására, illetve felhasználására határidőt vagy határnapot állapít meg.
 
-[^313]: A 114/S. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 2. és 13. pontja szerint módosított szöveg.
-[^314]: A 114/S. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. pontja szerint módosított szöveg.
+[^316]: A 114/S. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 2. és 13. pontja szerint módosított szöveg.
+[^317]: A 114/S. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. pontja szerint módosított szöveg.
