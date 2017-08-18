@@ -12,7 +12,7 @@ d) amelynek mennyisége nem haladja meg a külön jogszabály szerinti mennyisé
 
 2. kisméretű szállítmányként küldik magánszemélyek számára, feltéve, hogy a terméket nem kereskedelmi úton hozzák be,
 
-e)[^22] amelyet – kereskedelmi forgalomba hozatal célja nélkül – kereskedelmi mintaként küldenek vagy kiállítási tárgyként szándékoznak felhasználni, feltéve, hogy az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a termék ilyen célú felhasználását előzetesen engedélyezte,
+e)[^22] amelyet – kereskedelmi forgalomba hozatal célja nélkül – kereskedelmi mintaként küldenek vagy kiállítási tárgyként szándékoznak felhasználni, feltéve, hogy a megyei kormányhivatal a termék ilyen célú felhasználását előzetesen engedélyezte,
 
 f) amelyet különleges kutatáshoz vagy elemzéshez szándékoznak felhasználni, amennyiben hivatalos vizsgálattal megállapítható, hogy a terméket nem emberi fogyasztásra szánták, valamint az e) pont szerinti kiállítás végeztével vagy a különleges kutatás, illetve elemzés befejezése után a terméket – az elemzéshez felhasznált mennyiségek kivételével – megsemmisítik vagy a hatósági állatorvos által meghatározott feltételek mellett visszaszállítják.
 
@@ -20,5 +20,5 @@ f) amelyet különleges kutatáshoz vagy elemzéshez szándékoznak felhasználn
 
 (3) Az (1) bekezdésben foglaltakat a szarvasmarhafélék, a sertések és a friss hús harmadik országból történő behozatalára vonatkozó egészségügyi és állategészségügyi vizsgálatok problémáiról szóló, a Tanács 72/462/EGK irányelve 1. cikke (2) bekezdésének friss húsra és húskészítményekre vonatkozó előírásainak figyelembevételével kell alkalmazni.
 
-[^22]: A 16. § (1) bekezdés e) pontja a 70/2013. (VII. 31.) VM rendelet 34. § g) pontja szerint módosított szöveg.
+[^22]: A 16. § (1) bekezdés e) pontja a 42/2017. (VIII. 17.) FM rendelet 66. § b) pontja szerint módosított szöveg.
 [^23]: A 16. § (2) bekezdése az 5/2012. (II. 10.) VM rendelet 12. § a) pontja szerint módosított szöveg.
