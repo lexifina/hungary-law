@@ -1,19 +1,23 @@
 ## 5. § A megsemmisítést az előállító, a forgalmazó, illetőleg a termék tulajdonosa köteles az e rendeletben, valamint más jogszabályok szerint elvégezni, vagy elvégeztetni.
 
-## 6. § Az élelmiszerek megsemmisítését – feladatuk, hatáskörük és illetékességük figyelembevételével – a következő hatóságok kezdeményezhetik, illetve rendelhetik el:
+## 6. §[^4] Az élelmiszerek megsemmisítését – feladatuk, hatáskörük és illetékességük figyelembevételével – a következő hatóságok kezdeményezhetik, illetve rendelhetik el:
 
-a)[^4] az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézete,[^5]
+a) a népegészségügyi hatáskörben eljáró járási (fővárosi kerületi) hivatal,
 
-b) a Fogyasztóvédelmi Főfelügyelőség, a megyei (fővárosi) fogyasztóvédelmi felügyelőség,
+b) a fogyasztóvédelmi hatóság,
 
-c)[^6] a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága,
+c) az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal,
 
-d) az Országos Borminősítő Intézet,
+d) a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatala,
 
-e) a Vám- és Pénzügyőrség,
+e) a megyei kormányhivatal növény- és talajvédelmi hatáskörben eljáró járási hivatala,
 
-f) a rendőrhatóság.
+f) a borászati hatáskörben eljáró Pest Megyei Kormányhivatal,
 
-[^4]: A 6. § a) pontja a 70/2013. (VII. 31.) VM rendelet 4. § a) pontja szerint módosított szöveg.
-[^5]: A Magyar Közlöny 1997. évi 105. számában közzétett helyesbítésnek megfelelő szöveg.
-[^6]: A 6. § c) pontja a 70/2013. (VII. 31.) VM rendelet 4. § b) pontja szerint módosított szöveg.
+g) a Nemzeti Adó- és Vámhivatal,
+
+h) az általános rendőrségi feladatok ellátására létrehozott szerv és
+
+i) a Nemzeti Élelmiszerlánc-biztonsági Hivatal.
+
+[^4]: A 6. § a 42/2017. (VIII. 17.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.

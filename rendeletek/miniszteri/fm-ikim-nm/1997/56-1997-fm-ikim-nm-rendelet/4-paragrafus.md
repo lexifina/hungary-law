@@ -8,8 +8,8 @@ b) települési hulladéklerakó helyeken – a szükséges hatástalanító kez
 
 c) folyékony, nagy víztartalmú hulladékok szennyvízkezelő telepen való kezelése.
 
-(2)[^3] A hulladékká vált élelmiszer takarmányozási célra történő hasznosításáról az illetékes állat-egészségügyi hatóság dönt. A megsemmisítés módja vonatkozásában az eljáró/elrendelő hatóság a fővárosi és megyei kormányhivatal járási hivatala járási (fővárosi kerületi) népegészségügyi intézetének véleményét is kikéri.
+(2)[^3] A hulladékká vált élelmiszer takarmányozási célra történő hasznosításáról a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatala dönt. A megsemmisítés módja vonatkozásában az elrendelő hatóság a népegészségügyi hatáskörben eljáró járási (fővárosi kerületi) hivatal véleményét is kikéri.
 
 [^1]: Lásd a veszélyes hulladékokról szóló 102/1996. (VII. 12.) Korm. rendeletet.
 [^2]: A hulladékégetés technológiai kibocsátási határértékeinek és azok alkalmazására vonatkozó szabályok megállapításáról szóló 11/1991. (V. 16.) KTM rendelet előírásainak megfelelően.
-[^3]: A 4. § (2) bekezdése a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 5. §-ával megállapított, a 151/2012. (XII. 29.) VM rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 4. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 9. § (1) bekezdésével megállapított szöveg.
