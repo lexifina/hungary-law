@@ -1,4 +1,4 @@
-7. § (1)[^4] A NÉBIH határoz
+7. § (1)[^4] A miniszter dönt
 
 a) a növényi genetikai anyagok megőrzéséről és felhasználásáról szóló jogszabály szerinti Növényi Génbank Tanács javaslata alapján a tájfajták és
 
@@ -12,4 +12,4 @@ Nemzeti Fajtajegyzékbe vételéről.
 
 (4) Az elismert tájfajta és az elismert házikerti fajta mindaddig a Nemzeti Fajtajegyzékben maradhat, amíg megfelel a fajtaleírásában foglaltaknak.
 
-[^4]: A 7. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 134. § c) pontja szerint módosított szöveg.
+[^4]: A 7. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 134. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 167. § c) pontja szerint módosított szöveg.
