@@ -1,4 +1,4 @@
-20. § (1)[^42] Az immunizálások hatékonyságát a járási főállatorvosnak laboratóriumi vizsgálatokkal rendszeresen ellenőriznie kell a készenléti tervben meghatározott részletes szabályoknak megfelelően. Az ellenőrzést az ellenanyagszint meghatározásával, azaz vérvétellel és abból végzett haemagglutináció-gátlási (a továbbiakban: HAG) próbával kell végrehajtani.
+20. § (1)[^42] Az immunizálások hatékonyságát a járási hivatalnak laboratóriumi vizsgálatokkal rendszeresen ellenőriznie kell a készenléti tervben meghatározott részletes szabályoknak megfelelően. Az ellenőrzést az ellenanyagszint meghatározásával, azaz vérvétellel és abból végzett haemagglutináció-gátlási (a továbbiakban: HAG) próbával kell végrehajtani.
 
 (2) Az állomány védettsége akkor megfelelő, ha
 
@@ -6,7 +6,7 @@ a) a csak élő vakcinával immunizált állomány HAG mértani átlagtitere leg
 
 b) az inaktivált vakcinával is immunizált állományok HAG mértani átlagtitere legalább 1:128 és nem fordul elő 1:16 titer alatti egyed.
 
-(3)[^43] Ha a (2) bekezdésben leírt feltételek nem teljesülnek, a járási főállatorvos elrendelheti az állomány ismételt vakcinázását.
+(3)[^43] Ha a (2) bekezdésben leírt feltételek nem teljesülnek, a járási hivatal elrendelheti az állomány ismételt vakcinázását.
 
-[^42]: A 20. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja szerint módosított szöveg.
-[^43]: A 20. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja szerint módosított szöveg.
+[^42]: A 20. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 139. § f) pontja szerint módosított szöveg.
+[^43]: A 20. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 139. § e) pontja szerint módosított szöveg.

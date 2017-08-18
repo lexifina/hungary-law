@@ -1,6 +1,6 @@
 ## A védő- és megfigyelési körzet szabályai
 
-7. § (1)[^8] Aki a védő- és megfigyelési körzeten belül baromfit tart, köteles a hasznosítási irányt, a baromfitartó gazdaság székhelyét, az állattartás helyét és az állomány nagyságát a járási főállatorvosnak haladéktalanul bejelenteni.
+7. § (1)[^8] Aki a védő- és megfigyelési körzeten belül baromfit tart, köteles a hasznosítási irányt, a baromfitartó gazdaság székhelyét, az állattartás helyét és az állomány nagyságát a járási hivatalnak haladéktalanul bejelenteni.
 
 (2) A védőkörzetben
 
@@ -20,16 +20,16 @@ g) tilos a baromfi és a keltetőtojások tartási gazdaságukból történő ki
 
 h) a (3) bekezdés a)–c) pontjai szerint engedélyezett szállításokat közvetlenül, hatósági felügyelet mellett kell végrehajtani. Az állattartó köteles a szállítóeszközöket használat előtt és után tisztítani és fertőtleníteni.
 
-(3)[^9] A védőkörzetben a baromfi és a keltetőtojások tartási gazdaságukból történő kiszállítását az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság kizárólag a hatósági állatorvos által a gazdaságban – a teljes állományon – végzett állategészségügyi vizsgálat után engedélyezheti a következő esetekben:
+(3)[^9] A védőkörzetben a baromfi és a keltetőtojások tartási gazdaságukból történő kiszállítását a megyei kormányhivatal kizárólag a hatósági állatorvos által a gazdaságban – a teljes állományon – végzett állategészségügyi vizsgálat után engedélyezheti a következő esetekben:
 
-a)[^10] azonnali levágás céljából lehetőleg a védő- vagy megfigyelési körzet területén lévő vágóhídra, vagy ha ez nem lehetséges, e területeken kívüli, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt vágóhídra. Az ilyen baromfihúst az emberi fogyasztásra szánt állati eredetű termékek előállítására, feldolgozására, forgalmazására és behozatalára vonatkozó állategészségügyi követelmények megállapításáról szóló külön jogszabályban meghatározott, friss húsra vonatkozó állat-egészségügyi jelöléssel kell ellátni;
+a)[^10] azonnali levágás céljából lehetőleg a védő- vagy megfigyelési körzet területén lévő vágóhídra, vagy ha ez nem lehetséges, e területeken kívüli, a megyei kormányhivatal által kijelölt vágóhídra. Az ilyen baromfihúst az emberi fogyasztásra szánt állati eredetű termékek előállítására, feldolgozására, forgalmazására és behozatalára vonatkozó állategészségügyi követelmények megállapításáról szóló külön jogszabályban meghatározott, friss húsra vonatkozó állat-egészségügyi jelöléssel kell ellátni;
 
-b)[^11] napos baromfi vagy tojójérce szállítása a megfigyelési körzeten belüli gazdaságba, ahol nem tartanak más baromfit. Amennyiben erre nincs lehetőség, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság – az Európai Bizottság jóváhagyását követően – engedélyezheti, hogy a baromfit a megfigyelési körzeten kívüli gazdaságba szállítsák. A gazdaságot a 10. § (1) bekezdése szerinti hatósági ellenőrzés alá kell vonni;
+b)[^11] napos baromfi vagy tojójérce szállítása a megfigyelési körzeten belüli gazdaságba, ahol nem tartanak más baromfit. Amennyiben erre nincs lehetőség, a megyei kormányhivatal – az Európai Bizottság jóváhagyását követően – engedélyezheti, hogy a baromfit a megfigyelési körzeten kívüli gazdaságba szállítsák. A gazdaságot a 10. § (1) bekezdése szerinti hatósági ellenőrzés alá kell vonni;
 
-c)[^12] keltetőtojásoknak az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt keltetőbe történő szállítása; az elszállítás előtt a tojásokat és a csomagolóanyagot fertőtleníteni kell.
+c)[^12] keltetőtojásoknak a megyei kormányhivatal által kijelölt keltetőbe történő szállítása; az elszállítás előtt a tojásokat és a csomagolóanyagot fertőtleníteni kell.
 
-[^8]: A 7. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja szerint módosított szöveg.
-[^9]: A 7. § (3) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 114. § d) pontja szerint módosított szöveg.
-[^10]: A 7. § (3) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 114. § d) pontja szerint módosított szöveg.
-[^11]: A 7. § (3) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 114. § d) pontja szerint módosított szöveg.
-[^12]: A 7. § (3) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 114. § d) pontja szerint módosított szöveg.
+[^8]: A 7. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 139. § f) pontja szerint módosított szöveg.
+[^9]: A 7. § (3) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 114. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 139. § d) pontja szerint módosított szöveg.
+[^10]: A 7. § (3) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 114. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 139. § d) pontja szerint módosított szöveg.
+[^11]: A 7. § (3) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 114. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 139. § d) pontja szerint módosított szöveg.
+[^12]: A 7. § (3) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 114. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 139. § d) pontja szerint módosított szöveg.

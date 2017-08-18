@@ -26,9 +26,9 @@ b) a másodlagos és az azt követő járványkitörések esetén a Newcastle-be
 
 11. gazdaság: olyan létesítmény, ahol baromfit állandóan vagy átmeneti jelleggel nevelnek, illetve tartanak, és amely egy telepet is magába foglalhat;
 
-12.[^2] hatósági megállapítás: a járási állategészségügyi és élelmiszer-ellenőrző hivatal vezetőjének (a továbbiakban: járási főállatorvos) határozata, amely szerint a Newcastle-betegség előfordulása megállapításra került az NRL eredményei alapján vagy az elsődleges járványkitöréssel összefüggésbe hozható további járványkitörés esetén a Newcastle-betegségre jellemző klinikai tünetek és kórbonctani elváltozások alapján;
+12.[^2] hatósági megállapítás: az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal (a továbbiakban: járási hivatal) határozata, amely szerint a Newcastle-betegség előfordulása megállapításra került az NRL eredményei alapján vagy az elsődleges járványkitöréssel összefüggésbe hozható további járványkitörés esetén a Newcastle-betegségre jellemző klinikai tünetek és kórbonctani elváltozások alapján;
 
-13.[^3] Helyi Járványvédelmi Központ (a továbbiakban: HJK): a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságán (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) belüli, a betegség felszámolását irányító szervezet, melynek felállítását a területi szerv vezetője rendeli el járványkitörés esetén;
+13.[^3] Helyi Járványvédelmi Központ (a továbbiakban: HJK): az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatalon (a továbbiakban: megyei kormányhivatal) belüli, a betegség felszámolását irányító szervezet, melynek felállítását a területi szerv vezetője rendeli el járványkitörés esetén;
 
 14. intracerebrális pathogenitási index (a továbbiakban: ICPI): a vírus kórokozó képességének laboratóriumi vizsgálattal megállapított mutatója;
 
@@ -73,6 +73,6 @@ f) galambdúc: versenygalambok tartására, illetve tenyésztésére használt l
 26. versenygalamb: a galambdúcból elszállított vagy elszállítani szándékozott galamb, amit azért engednek el, hogy szabadon szállhasson vissza a galambdúcba vagy más úti célhoz.
 
 [^1]: A 2. § 8. pontja a 70/2013. (VII. 31.) VM rendelet 114. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § 12. pontja a 151/2012. (XII. 29.) VM rendelet 38. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § 13. pontja a 70/2013. (VII. 31.) VM rendelet 114. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § 12. pontja a 42/2017. (VIII. 17.) FM rendelet 139. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 13. pontja a 70/2013. (VII. 31.) VM rendelet 114. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 139. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § 21. pontja a 70/2013. (VII. 31.) VM rendelet 114. § c) pontja szerint módosított szöveg.

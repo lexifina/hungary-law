@@ -12,7 +12,7 @@ d) ellenőrizni a megfigyelési zárlat 5. §-ban felsorolt szabályainak betart
 
 (2) A hatósági állatorvos a betegség hatósági megállapítását követően köteles
 
-a)[^15] a védő- és a megfigyelési körzetben a járási főállatorvos utasítása alapján elvégezni a körzet valamennyi baromfitartó gazdaságának nyilvántartásba vételét, ellenőrzését, a baromfik rendszeres klinikai vizsgálatát és – ha szükséges – laboratóriumi minták vételét és vizsgálatra küldését, valamint az ellenőrzések és ezek eredményeinek dokumentálását;
+a)[^15] a védő- és a megfigyelési körzetben a járási hivatal utasítása alapján elvégezni a körzet valamennyi baromfitartó gazdaságának nyilvántartásba vételét, ellenőrzését, a baromfik rendszeres klinikai vizsgálatát és – ha szükséges – laboratóriumi minták vételét és vizsgálatra küldését, valamint az ellenőrzések és ezek eredményeinek dokumentálását;
 
 b) a védőkörzetben ellenőrizni a baromfival, baromfihullákkal, tojásokkal, ragályfogó tárgyakkal érintkező személyek, valamint az ezeket szállító járművek körzeten belüli mozgását;
 
@@ -38,4 +38,4 @@ g) a lappangási időn belül termelt tojásokból kikelt napos baromfi azonosí
 
 (5) A hatósági állatorvos más gazdaságok esetében is alkalmazhatja az 5. §-ban előírt bármelyik intézkedést, amennyiben azok elhelyezkedése, kialakítása vagy a betegség jelenlétére gyanús gazdasággal történő érintkezése révén felmerül a fertőzöttség gyanúja.
 
-[^15]: A 9. § (2) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja szerint módosított szöveg.
+[^15]: A 9. § (2) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 139. § e) pontja szerint módosított szöveg.
