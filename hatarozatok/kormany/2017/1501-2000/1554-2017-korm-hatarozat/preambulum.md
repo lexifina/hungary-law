@@ -1,0 +1,1 @@
+A Kormány a Magyarország Kormánya és Nagykanizsa Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1496/2015. (VII. 21.) Korm. határozat 4. pontja végrehajtása érdekében
