@@ -1,26 +1,28 @@
-## 22. §[^42] Az ellenőrzési okirat 17. rovatát a 23. § c) pontja szerint kijelölt szervek hitelesítik, amennyiben az 1235/2008/EK bizottsági rendelet 13. cikke értelmében a szállítmány vizsgálata Magyarországon történik.
+## 22. §[^51] Az ellenőrzési okirat 17. rovatát a 23. § c) pontja szerint kijelölt szervek hitelesítik, amennyiben az 1235/2008/EK bizottsági rendelet 13. cikke értelmében a szállítmány vizsgálata Magyarországon történik.
 
 ## 12. A NÉBIH feladatai
 
-## 23. § A NÉBIH
+## 23. §[^52] A NÉBIH
 
 a) a tanúsító szervezetekről, a 4. § (4) bekezdése szerinti egyedi kódszámokról, valamint a tanúsító szervezetek által alkalmazott megfelelőségi jelekről nyilvántartást vezet, és a nyilvántartást honlapján közzéteszi,
 
-b) az elismerő, elismerést visszavonó vagy a tanúsító szervezet tanúsító tevékenységét felfüggesztő határozatát honlapján közzéteszi,
+b) kijelöli az ellenőrzési okirat 20. rovatának hitelesítéséért felelős szerveket, és azok listáját honlapján közzéteszi, valamint koordinálja a TRACES COI elektronikus tanúsítványkezelővel kapcsolatos feladatok ellátását,
 
-c) kijelöli az ellenőrzési okirat 17. rovatának hitelesítéséért felelős szerveket, és azok listáját honlapján közzéteszi,
+c) jóváhagyja a 7. § (2) bekezdése szerinti éves tervet,
 
-d) jóváhagyja a 7. § (2) bekezdése szerinti éves tervet,
+d) a tanúsító szervezetek kérelmére dönt a 834/2007/EK tanácsi rendelet 42. cikke szerinti, a tanúsító szervezet által kidolgozott magán-feltételrendszerek elfogadásáról,
 
-e)[^43] a tanúsító szervezetek kérelmére dönt a 834/2007/EK tanácsi rendelet 1. cikk (3) bekezdése és 42. cikke szerinti, a tanúsító szervezet által kidolgozott magán feltételrendszerek elfogadásáról,
+e) a vonatkozó jogszabályok, a készítmények adatai és a tanúsító szervezetek javaslata alapján összeállítja és felülvizsgálja az ökológiai gazdálkodásban alkalmazható növényvédő szerek, termésnövelő anyagok és növényvédő szernek nem minősülő termékek listáját, melyet tájékoztató jelleggel honlapján közzétesz,
 
-f) a gazdasági szereplő kérelmére, a 889/2008/EK bizottsági rendelet VI. melléklet 3. pont a) alpontja alapján, engedélyezi az A-, D- és E-vitamin kérődzők takarmányozására való felhasználhatóságát, amennyiben az adott állomány az elérhető tápanyagforrás tekintetében nem képes a vitaminokból a szükséges mennyiségekhez hozzájutni,
+f) biztosítja a tanúsító szervezetek közötti információk cseréjét,
 
-g)[^44] a vonatkozó jogszabályok, a készítmények adatai és a tanúsító szervezetek javaslata alapján összeállítja és felülvizsgálja az ökológiai gazdálkodásban alkalmazható növényvédő szerek, termésnövelő anyagok és növényvédő szernek nem minősülő termékek listáját, melyet tájékoztató jelleggel honlapján közzétesz,
+g) kezeli az Organic Farming Information Systemet (a továbbiakban: OFIS rendszer), amelynek keretében különösen
 
-h)[^45] biztosítja a tanúsító szervezetek közötti információk cseréjét.
+ga) eljuttatja a 834/2007/EK tanácsi rendeletben és a 889/2008/EK bizottsági rendelet 94. cikk (1)–(2) bekezdésében meghatározott adatokat a Bizottságnak,
 
-[^42]: A 22. § a 34/2014. (XII. 12.) FM rendelet 14. §-ával megállapított szöveg.
-[^43]: A 23. § e) pontja a 34/2014. (XII. 12.) FM rendelet 21. § g) pontja szerint módosított szöveg.
-[^44]: A 23. § g) pontját a 34/2014. (XII. 12.) FM rendelet 15. §-a iktatta be.
-[^45]: A 23. § h) pontját a 34/2014. (XII. 12.) FM rendelet 15. §-a iktatta be.
+gb) koordinálja az OFIS rendszeren keresztül érkező riasztásokkal kapcsolatos feladatok ellátását,
+
+gc) gondoskodik az ökológiai gazdálkodással kapcsolatos engedélyek OFIS rendszerbe történő feltöltéséről.
+
+[^51]: A 22. § a 34/2014. (XII. 12.) FM rendelet 14. §-ával megállapított szöveg.
+[^52]: A 23. § a 42/2017. (VIII. 17.) FM rendelet 193. § (5) bekezdésével megállapított szöveg.

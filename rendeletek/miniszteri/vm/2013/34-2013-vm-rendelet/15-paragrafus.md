@@ -6,24 +6,27 @@ b) felszólítja a gazdasági szereplőt a hiányzó dokumentumok megküldésér
 
 c) előírja a gazdasági szereplő számára a hibás gyakorlat megszüntetését,
 
-d)[^26] rendkívüli ellenőrzést végez,
+d)[^31] rendkívüli ellenőrzést végez,
 
-e)[^27] a gazdasági szereplő tanúsítását a tanúsított tevékenységek egy részére vagy teljes egészére felfüggeszti a (2) és (3) bekezdés szerinti esetekben, vagy
+e)[^32] a gazdasági szereplő tanúsítását a tanúsított tevékenységek egy részére vagy teljes egészére felfüggeszti a (2) és (3) bekezdés szerinti esetekben, vagy
 
-f)[^28] visszavonja a tanúsítványt.
+f)[^33] visszavonja a tanúsítványt.
 
-(2)[^29] Ha a gazdasági szereplő az (1) bekezdés b) és c) pontjában foglaltaknak a megadott határidőre nem tesz eleget, súlyosabb vagy ismétlődő jogsértés esetén a tanúsító szervezet a gazdasági szereplő tanúsítását a tanúsított tevékenységek egy részére vagy teljes egészére felfüggeszti a szabálytalanság megszüntetéséig vagy a hiányzó dokumentumok megküldéséig.
+(2)[^34] Ha a gazdasági szereplő az (1) bekezdés b) és c) pontjában foglaltaknak a megadott határidőre nem tesz eleget, súlyosabb vagy ismétlődő jogsértés esetén a tanúsító szervezet a gazdasági szereplő tanúsítását a tanúsított tevékenységek egy részére vagy teljes egészére felfüggeszti a szabálytalanság megszüntetéséig vagy a hiányzó dokumentumok megküldéséig.
 
-(3)[^30] A tanúsító szervezet az Öko rendelkezések megsértésére, illetve az ökológiai termelésre utaló kifejezés jogosulatlan használatára figyelemmel kezdeményezheti a 25. § (1) bekezdésében foglalt valamely intézkedés elrendelését – a 10. § (5) bekezdésében meghatározott feladatmegosztásnak megfelelően – a jogsértés helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnál vagy a növény- és talajvédelmi igazgatóságnál. A tanúsító szervezet az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vagy a növény- és talajvédelmi igazgatóság döntéséig vagy a 25. § (2a) bekezdés szerinti tájékoztatásáig – a 25. § (1) bekezdés a) és b) pontja esetén az intézkedéssel érintett termékkörre – a gazdasági szereplő tanúsítását felfüggeszti.
+(2a)[^35] A tanúsító szervezet a 834/2007/EK tanácsi rendelet 30. cikk (2) bekezdésében maghatározott esetekről – a 10. § (5) bekezdésében meghatározott feladatmegosztásnak megfelelően – tájékoztatja az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében, valamint növény- és talajvédelmi hatáskörében eljáró járási hivatalokat, az élelmiszerlánc-biztonsági és állategészségügyi, valamint növény- és talajvédelmi hatáskörében eljáró Pest Megyei Kormányhivatalt, illetve a NÉBIH-et.
 
-(4)[^31] A tanúsító szervezet a tanúsítás felfüggesztése esetén visszavonja a tanúsítványt. Amennyiben a felfüggesztés nem érinti a tanúsítványban szereplő valamennyi terméket, a tanúsító szervezet a módosított termékkörrel a tanúsítvány eredeti érvényességi idejére új tanúsítványt ad ki. Amennyiben a felfüggesztés ideje lejár és a gazdasági szereplő megfelel az Öko rendelkezéseknek, részleges felfüggesztés esetén a módosított termékkört tartalmazó tanúsítvány visszavonásával egyidejűleg, új tanúsítványt kell kiadni. Az új tanúsítvány érvényességi ideje nem haladhatja meg a felfüggesztés miatt visszavont tanúsítvány eredeti érvényességi idejét, amennyiben az még nem járt volna le.
+(3)[^36] A tanúsító szervezet az Öko rendelkezések megsértésére, illetve az ökológiai termelésre utaló kifejezés jogosulatlan használatára figyelemmel kezdeményezi a 25. § (1) bekezdésében foglalt valamely intézkedés elrendelését – a 10. § (5) bekezdésében meghatározott feladatmegosztásnak megfelelően – a jogsértés helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben vagy növény- és talajvédelmi hatáskörben eljáró járási hivatalnál. A tanúsító szervezet az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben vagy növény- és talajvédelmi hatáskörben eljáró járási hivatal döntéséig vagy a 25. § (2a) bekezdés szerinti tájékoztatásáig – a 25. § (1) bekezdés a) és b) pontja esetén az intézkedéssel érintett termékkörre – a gazdasági szereplő tanúsítását felfüggeszti.
 
-(5)[^32] A tanúsító szervezet a visszavont tanúsítványokat a visszavonás időpontjának megjelölésével bárki számára hozzáférhető módon a tanúsítvány eredeti érvényességének lejártát követő legalább egy évig honlapján közzéteszi vagy elérhetővé teszi.
+(4)[^37] A tanúsító szervezet a tanúsítás felfüggesztése esetén visszavonja a tanúsítványt. Amennyiben a felfüggesztés nem érinti a tanúsítványban szereplő valamennyi terméket, a tanúsító szervezet a módosított termékkörrel a tanúsítvány eredeti érvényességi idejére új tanúsítványt ad ki. Amennyiben a felfüggesztés ideje lejár és a gazdasági szereplő megfelel az Öko rendelkezéseknek, részleges felfüggesztés esetén a módosított termékkört tartalmazó tanúsítvány visszavonásával egyidejűleg, új tanúsítványt kell kiadni. Az új tanúsítvány érvényességi ideje nem haladhatja meg a felfüggesztés miatt visszavont tanúsítvány eredeti érvényességi idejét, amennyiben az még nem járt volna le.
 
-[^26]: A 15. § (1) bekezdés d) pontja a 34/2014. (XII. 12.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^27]: A 15. § (1) bekezdés e) pontja a 34/2014. (XII. 12.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^28]: A 15. § (1) bekezdés f) pontját a 34/2014. (XII. 12.) FM rendelet 10. § (1) bekezdése iktatta be.
-[^29]: A 15. § (2) bekezdése a 34/2014. (XII. 12.) FM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^30]: A 15. § (3) bekezdése a 34/2014. (XII. 12.) FM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^31]: A 15. § (4) bekezdését a 34/2014. (XII. 12.) FM rendelet 10. § (2) bekezdése iktatta be.
-[^32]: A 15. § (5) bekezdését a 34/2014. (XII. 12.) FM rendelet 10. § (2) bekezdése iktatta be.
+(5)[^38] A tanúsító szervezet a visszavont tanúsítványokat a visszavonás időpontjának megjelölésével bárki számára hozzáférhető módon a tanúsítvány eredeti érvényességének lejártát követő legalább egy évig honlapján közzéteszi vagy elérhetővé teszi.
+
+[^31]: A 15. § (1) bekezdés d) pontja a 34/2014. (XII. 12.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^32]: A 15. § (1) bekezdés e) pontja a 34/2014. (XII. 12.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^33]: A 15. § (1) bekezdés f) pontját a 34/2014. (XII. 12.) FM rendelet 10. § (1) bekezdése iktatta be.
+[^34]: A 15. § (2) bekezdése a 34/2014. (XII. 12.) FM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^35]: A 15. § (2a) bekezdését a 42/2017. (VIII. 17.) FM rendelet 193. § (3) bekezdése iktatta be.
+[^36]: A 15. § (3) bekezdése a 34/2014. (XII. 12.) FM rendelet 10. § (2) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 194. § e)–g) pontja szerint módosított szöveg.
+[^37]: A 15. § (4) bekezdését a 34/2014. (XII. 12.) FM rendelet 10. § (2) bekezdése iktatta be.
+[^38]: A 15. § (5) bekezdését a 34/2014. (XII. 12.) FM rendelet 10. § (2) bekezdése iktatta be.

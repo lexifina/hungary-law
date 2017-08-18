@@ -2,8 +2,9 @@
 
 a) az ügyfélfogadásra rendelkezésre álló helyiségeiben, illetve honlapján hozzáférhetővé teszi, és
 
-b) megküldi a NÉBIH-nek.
+b)[^24] megküldi a NÉBIH-nek és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró Pest Megyei Kormányhivatalnak.
 
-(2)[^20] A tanúsító szervezet a 889/2008/EK bizottsági rendelet 92b. cikkében részletezett információkat bárki számára hozzáférhető módon honlapján közzéteszi, illetve elérhetővé teszi.
+(2)[^25] A tanúsító szervezet a 889/2008/EK bizottsági rendelet 92b. cikkében részletezett információkat bárki számára hozzáférhető módon honlapján közzéteszi, illetve elérhetővé teszi.
 
-[^20]: A 12. § (2) bekezdése a 34/2014. (XII. 12.) FM rendelet 21. § f) pontja szerint módosított szöveg.
+[^24]: A 12. § (1) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 194. § d) pontja szerint módosított szöveg.
+[^25]: A 12. § (2) bekezdése a 34/2014. (XII. 12.) FM rendelet 21. § f) pontja szerint módosított szöveg.

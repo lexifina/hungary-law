@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-34-20-2
 | 2014-03-15 | 2013-34-20-2Y.3 | 22/2014. (III. 14.) VM rendelet |
 | 2014-12-27 | 2013-34-20-2Y.4 | 34/2014. (XII. 12.) FM rendelet |
 | 2015-03-01 | 2013-34-20-2Y.5 | 34/2014. (XII. 12.) FM rendelet |
+| 2017-08-18 | 2013-34-20-2Y.6 | 42/2017. (VIII. 17.) FM rendelet |
