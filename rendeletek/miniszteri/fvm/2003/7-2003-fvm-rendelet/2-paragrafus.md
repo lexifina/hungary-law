@@ -1,6 +1,6 @@
-2. § (1)[^2] A járási állategészségügyi és élelmiszer-ellenőrző hivatal vezetője (a továbbiakban: járási főállatorvos) a ménállományról nyilvántartást vezet, amelynek részletes szabályait külön rendelet tartalmazza.
+2. § (1)[^2] A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatala (a továbbiakban: járási hivatal) a ménállományról nyilvántartást vezet, amelynek részletes szabályait külön rendelet tartalmazza.
 
-(2)[^3] A tulajdonos köteles bejelenteni a kerületi főállatorvosnál a ménállományban bekövetkezett valamennyi változást.
+(2)[^3] A tulajdonos köteles bejelenteni a járási hivatalnak a ménállományban bekövetkezett valamennyi változást.
 
-[^2]: A 2. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 16. §-a szerint módosított szöveg.
-[^3]: [A 2. § (2) bekezdésének a 151/2012. (XII. 29.) VM rendelet 16. § b) pontjával elrendelt módosítása, amely szerint a „kerületi főállatorvos” szövegrész helyébe a „járási főállatorvos” szöveg lép, nem vezethető át.]
+[^2]: A 2. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 44. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése a a 42/2017. (VIII. 17.) FM rendelet 44. § c) pontja szerint módosított szöveg.
