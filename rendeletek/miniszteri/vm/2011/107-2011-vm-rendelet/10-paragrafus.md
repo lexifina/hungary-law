@@ -2,11 +2,11 @@
 
 10. § (1) Friss gombát emberi fogyasztásra piacon forgalomba hozni csak a gombatétel mellett jól láthatóan kihelyezett, a 3. melléklet I. pontja szerinti gombavizsgálati igazolással szabad.
 
-(2)[^8] A gombajegyzékben nem szereplő, emberi fogyasztásra alkalmasnak minősített gomba forgalomba hozatalát kérelem alapján a NÉBIH engedélyezi meghatározott piacra és időtartamra.
+(2)[^11] A gombajegyzékben nem szereplő, emberi fogyasztásra alkalmasnak minősített gomba forgalomba hozatalát kérelem alapján a Pest Megyei Kormányhivatal engedélyezi meghatározott piacra és időtartamra.
 
 (3) A gomba-szakellenőr a gombavizsgálati igazolást a forgalomba hozatal befejezését követően bevonja a forgalomba hozó élelmiszer-vállalkozótól.
 
-(4)[^9] A 2. mellékletben meghatározott gombafajok csak a 2. mellékletben az adott gombafajra meghatározott időpontig hozhatók forgalomba.
+(4)[^12] A 2. mellékletben meghatározott gombafajok csak a 2. mellékletben az adott gombafajra meghatározott időpontig hozhatók forgalomba.
 
-[^8]: A 10. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 136. § b) pontja szerint módosított szöveg.
-[^9]: A 10. § (4) bekezdését a 34/2016. (V. 4.) FM rendelet 7. § (1) bekezdése iktatta be.
+[^11]: A 10. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 136. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 172. § f) pontja szerint módosított szöveg.
+[^12]: A 10. § (4) bekezdését a 34/2016. (V. 4.) FM rendelet 7. § (1) bekezdése iktatta be.
