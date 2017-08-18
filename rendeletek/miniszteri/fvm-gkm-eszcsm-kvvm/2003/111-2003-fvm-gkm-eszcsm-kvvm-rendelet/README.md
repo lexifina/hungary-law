@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-111-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-03-01 | 2003-111-20-82.2 | 111/2003. (XI. 5.) FVM–GKM–ESZCSM–KvVM együttes rendelet |
+| 2017-08-18 | 2003-111-20-82.3 | 42/2017. (VIII. 17.) FM rendelet |
