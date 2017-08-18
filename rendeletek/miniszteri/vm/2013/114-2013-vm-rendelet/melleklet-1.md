@@ -1,19 +1,11 @@
-1. melléklet a 114/2013. (XII. 12.) VM rendelethez
+1. melléklet a 114/2013. (XII. 12.) VM rendelethez[^2]
 
 Vidékfejlesztési szervek
 
-a) Mezőgazdasági és Vidékfejlesztési Hivatal,
+a) Nemzeti Élelmiszerlánc-biztonsági Hivatal,
 
-b) Nemzeti Élelmiszerlánc-biztonsági Hivatal,
+b) Országos Meteorológiai Szolgálat,
 
-c) Országos Meteorológiai Szolgálat,
+c) Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság.
 
-d) Földmérési és Távérzékelési Intézet,
-
-e)[^2] Herman Ottó Intézet,
-
-f) Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség,
-
-g) TIG Tartalékgazdálkodási Nonprofit Kft.
-
-[^2]: Az 1. melléklet e) pontja a 36/2015. (VI. 30.) FM rendelet 6. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 42/2017. (VIII. 17.) FM rendelet 197. §-ával megállapított szöveg.
