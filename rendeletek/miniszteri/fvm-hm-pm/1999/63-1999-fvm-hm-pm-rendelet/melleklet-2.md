@@ -1,6 +1,6 @@
-2. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^48]
+2. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^49]
 
-## Az ingatlan-nyilvántartási célú földmérési és térképészeti munkák hatósági vizsgálatának igazgatási szolgáltatási díjai[^49]
+## Az ingatlan-nyilvántartási célú földmérési és térképészeti munkák hatósági vizsgálatának igazgatási szolgáltatási díjai[^50]
 
 ## A záradékolást megelőző ingatlanügyi hatósági vizsgálat díja:
 
@@ -24,7 +24,7 @@ b) Megosztás esetén
 
 A földrészletek száma alatt a változás utáni földrészletek száma értendő. A földrészletek számának megállapításakor egy vázrajzon belül egy elszámolási egységnek a közvetlenül egymás mellett fekvő földrészleteket kell érteni. A nem összefüggő földrészletek külön elszámolási egységet képeznek.
 
-2.[^50] Földrészleten belüli épület és egyéb létesítmények feltüntetése, valamint egyéb önálló ingatlanok alaprajzainak vizsgálata esetén:
+2.[^51] Földrészleten belüli épület és egyéb létesítmények feltüntetése, valamint egyéb önálló ingatlanok alaprajzainak vizsgálata esetén:
 
 a) új, változott vagy megszüntetendő és egyéb létesítmény vonatkozásában 800 Ft/létesítmény;
 
@@ -40,7 +40,7 @@ a) 5 új alrészletig 400 Ft/alrészlet
 
 b) minden további új alrészlet után 100 Ft/alrészlet
 
-4.[^51] A munkarészek vizsgálati díjaként az 1–3. pontok szerinti díjak összeadódnak. Az újra záradékolásra benyújtott vázrajzok újbóli vizsgálatáért a vizsgálati díj 50%-át kell megfizetni. Az újra záradékolás csak változatlan kiinduló adatok esetén végezhető el.
+4.[^52] A munkarészek vizsgálati díjaként az 1–3. pontok szerinti díjak összeadódnak. Az újra záradékolásra benyújtott vázrajzok újbóli vizsgálatáért a vizsgálati díj 50%-át kell megfizetni. Az újra záradékolás csak változatlan kiinduló adatok esetén végezhető el.
 
 5. Közigazgatási és fekvéshatárok módosítása (területátcsatolás) esetén teljes földrészletek átcsatolásánál – a földrészletek számától függetlenül – a vizsgálati díj 2500 Ft. Amennyiben a területátcsatolás földrészletek megosztásával, épületek feltüntetésével és művelési ág változtatással is együtt jár – a teljes földrészletek után járó 2500 Ft-on túl – az érintett földrészletek után az 1–3. pontok szerinti vizsgálati díjat is meg kell fizetni.
 
@@ -52,7 +52,7 @@ a) egy földrészlet után 500 Ft/földrészlet
 
 b) minden további földrészlet után 150 Ft/földrészlet
 
-[^48]: A 2. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés l) pontja szerint módosított szöveg.
-[^49]: A 2. számú melléklet címe a 2/2016. (I. 7.) FM rendelet 6. § 11. pontja szerint módosított szöveg.
-[^50]: A 2. számú melléklet 2. pontja a 2/2016. (I. 7.) FM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^51]: A 2. számú melléklet 4. pontja a 2/2016. (I. 7.) FM rendelet 7. § b) pontja szerint módosított szöveg.
+[^49]: A 2. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^50]: A 2. számú melléklet címe a 2/2016. (I. 7.) FM rendelet 6. § 11. pontja szerint módosított szöveg.
+[^51]: A 2. számú melléklet 2. pontja a 2/2016. (I. 7.) FM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^52]: A 2. számú melléklet 4. pontja a 2/2016. (I. 7.) FM rendelet 7. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^47]
+1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^48]
 
 ## Igazgatási szolgáltatási díjak
 
@@ -208,7 +208,7 @@ b) 52–2. pont szerinti ellenőrzés során visszatartandó légifilm-negatívo
 
 c) Az igénylő a költségére beszerzett adatoknak az adatszolgáltató által harmadik félnek való forgalmazásából – előzetes megegyezés esetén – részesedhet.
 
-d) A nagyfelbontású űrfelvételek, valamint távérzékelt adatok szolgáltatásáért fizetendő díjat a FÖMI Távérzékelési Központja, illetve a HM Zrínyi Nonprofit Kft. állapítja meg.
+d) A nagyfelbontású űrfelvételek, valamint távérzékelt adatok szolgáltatásáért fizetendő díjat a Földmérési és térinformatikai államigazgatási szerv, illetve a HM Zrínyi Nonprofit Kft. állapítja meg.
 
 5a. Digitális légi távérzékelési adatbázisok igazgatási szolgáltatási díjai
 
@@ -402,7 +402,7 @@ a) A fizetendő díjak területarányosan csökkennek, ha a szelvény területé
 
 b) Tíz évnél régebbi felmérésű szelvény esetén a síkrajzra, a vízrajzra és a színfelbontásra vonatkozó díjak 30-30%-kal csökkenthetők, a domborzatrajz díjtételére kedvezmény nem adható.
 
-c) Ha a tisztázati rajzokról még nem készült nyomdai másolat, a FÖMI Központi Adattára az összmásolatról fénymásolatot szolgáltathat.
+c) Ha a tisztázati rajzokról még nem készült nyomdai másolat, a Földmérési és térinformatikai államigazgatási szerv adattára az összmásolatról fénymásolatot szolgáltathat.
 
 d) A másolatok sokszorosítása esetén a 9–1. tételtől a 9–6. tételig felsorolt díjakon felül a melléklet 10. pontjában meghatározott díjakat – a munka megkezdése előtt – kell fizetni.
 
@@ -432,7 +432,7 @@ Az állami alapadatok felhasználásával készített térképek kiadásához az
 
 Megjegyzések:
 
-a) A másolatok sokszorosítását az 1:10 000 méretarányú állami topográfiai térképszelvény felhasználása esetén az FVM engedélyezi. Az adatfelhasználás módjáról és feltételeiről a FÖMI-vel szerződést kell kötni.
+a) A másolatok sokszorosítását az 1:10 000 méretarányú állami topográfiai térképszelvény felhasználása esetén a térképészetért felelős miniszter engedélyezi. Az adatfelhasználás módjáról és feltételeiről a Földmérési és térinformatikai államigazgatási szervvel szerződést kell kötni.
 
 b) Az 1:25 000 és kisebb méretarányú állami topográfiai térképszelvény felhasználását a honvédelmi miniszter képviseletében az MH GEOSZ vezetője engedélyezi. Az adatfelhasználás módjáról és feltételeiről HM Zrínyi Nonprofit Kft.-vel kell szerződést kötni.
 
@@ -446,4 +446,4 @@ f) Domborzatrajzot tartalmazó kiadvány esetén a vonatkozó díjtételt 20%-ka
 
 g) Digitális formában történő forgalmazásért a vonatkozó díjtételt 50%-kal növelni kell.
 
-[^47]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés k) pontja, a 2/2016. (I. 7.) FM rendelet 5. § (1) bekezdése és a 6. § 4., 8–10. pontja szerint módosított szöveg.
+[^48]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés k) pontja, a 2/2016. (I. 7.) FM rendelet 5. § (1) bekezdése és a 6. § 4., 8–10. pontja, a 42/2017. (VIII. 17.) FM rendelet 17. § f)–i) pontja szerint módosított szöveg.

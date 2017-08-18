@@ -1,3 +1,3 @@
-3. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^52]
+3. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^53]
 
-[^52]: A 3. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
+[^53]: A 3. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.

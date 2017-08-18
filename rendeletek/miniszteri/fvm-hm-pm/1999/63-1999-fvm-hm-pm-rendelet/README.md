@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-63-20-8
 | 2014-02-26 | 1999-63-20-82.6 | 15/2014. (II. 25.) VM rendelet |
 | 2015-06-06 | 1999-63-20-82.7 | 29/2015. (VI. 5.) FM rendelet |
 | 2016-02-07 | 1999-63-20-82.8 | 2/2016. (I. 7.) FM rendelet |
+| 2017-08-18 | 1999-63-20-82.9 | 29/2015. (VI. 5.) FM rendelet |
