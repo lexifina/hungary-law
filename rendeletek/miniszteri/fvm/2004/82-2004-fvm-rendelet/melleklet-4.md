@@ -14,7 +14,7 @@
 
 ## 2. Címzett:
 
-## Neve: Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság
+## Neve: Járási Hivatal
 
 ## Címe:
 
@@ -80,7 +80,7 @@
 
 ## az ellenőr aláírása
 
-4. számú melléklet a 82/2004. (V. 11.) FVM rendelethez[^29]
+4. számú melléklet a 82/2004. (V. 11.) FVM rendelethez[^30]
 
 ## AZ ENSZ/EGB FFV-37 SZÁMÚ, A GÖRÖGDINNYÉRE VONATKOZÓ FORGALMAZÁSI-MINŐSÉG ELŐÍRÁSA
 
@@ -264,4 +264,4 @@ ________________
 
 4 A teljes nevet fel kell tűntetni.
 
-[^29]: A 4. számú mellékletet a 64/2011. (VII. 11.) VM rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján – a 2011. július 14-én a végső fogyasztó számára már forgalmazásra kerülő termékek kivételével – a már forgalomba hozott termékekre is alkalmazni kell.
+[^30]: A 4. számú mellékletet a 64/2011. (VII. 11.) VM rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján – a 2011. július 14-én a végső fogyasztó számára már forgalmazásra kerülő termékek kivételével – a már forgalomba hozott termékekre is alkalmazni kell.
