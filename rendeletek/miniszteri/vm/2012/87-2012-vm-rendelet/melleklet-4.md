@@ -340,6 +340,6 @@
 
 ## = Myxomatosis
 
-4. melléklet a 87/2012. (VIII. 27.) VM rendelethez[^14]
+4. melléklet a 87/2012. (VIII. 27.) VM rendelethez[^15]
 
-[^14]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -6,6 +6,6 @@
 
 (2) A (3) bekezdés 2013. január 1-jén lép hatályba.
 
-(3)[^5]
+(3)[^6]
 
-[^5]: A 15. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 15. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

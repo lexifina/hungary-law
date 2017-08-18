@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-87-20-2
 | 2012-09-05 | 2012-87-20-2Y.2 | 2010: CXXX. törvény |
 | 2013-01-01 | 2012-87-20-2Y.3 | 151/2012. (XII. 29.) VM rendelet |
 | 2013-01-02 | 2012-87-20-2Y.4 | 2010: CXXX. törvény |
+| 2017-08-18 | 2012-87-20-2Y.5 | 42/2017. (VIII. 17.) FM rendelet |
