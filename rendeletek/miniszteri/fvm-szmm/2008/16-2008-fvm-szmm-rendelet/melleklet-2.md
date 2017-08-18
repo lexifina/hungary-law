@@ -4,7 +4,7 @@
 
 1.[^10] A NÉBIH laboratóriuma
 
-2.[^11] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság valamennyi komplex élelmiszerlánc-vizsgáló laboratóriuma
+2.[^11] A megyei kormányhivatal valamennyi komplex élelmiszerlánc-vizsgáló laboratóriuma
 
 [^10]: A 2. számú melléklet 1. pontja a 19/2014. (III. 12.) VM rendelet 23. § e) pontja szerint módosított szöveg.
-[^11]: A 2. számú melléklet 2. pontja a 19/2014. (III. 12.) VM rendelet 23. § f) pontja szerint módosított szöveg.
+[^11]: A 2. számú melléklet 2. pontja a 42/2017. (VIII. 17.) FM rendelet 107. § f) pontja szerint módosított szöveg.
