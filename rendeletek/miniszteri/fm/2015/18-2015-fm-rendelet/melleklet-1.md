@@ -40,21 +40,7 @@ A) Földművelésügyi Minisztérium hivatali szervezete
 
 B) Központi hivatalok
 
-1. Mezőgazdasági és Vidékfejlesztési Hivatal
-
-1.1. főosztályvezető
-
-1.2. főosztályvezető-helyettes
-
-1.3. nemzetbiztonsági ellenőrzéssel kapcsolatban kijelölt biztonsági megbízott
-
-1.4. adatvédelmi felelős
-
-1.5. integritás tanácsadó
-
-1.6. belső ellenőr
-
-1.7. kirendeltségvezető
+1.[^1]
 
 2. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -78,55 +64,7 @@ B) Központi hivatalok
 
 2.10. országos főállatorvos által az országos élelmiszerlánc-biztonsági válságkezelési feladatok ellátására kijelölt személy
 
-3. Földmérési és Távérzékelési Intézet
-
-3.1. igazgató
-
-3.2. főigazgató titkárságvezetője
-
-3.3. valamennyi önálló szervezeti egység vezetője
-
-3.4. biztonsági megbízott
-
-3.5. minősített beszerzési eljárásban résztvevő
-
-3.6. helyi adatvédelmi megbízott
-
-3.7. biztonsági vezető
-
-3.8. rendszerbiztonsági felügyelő
-
-3.9. rendszeradminisztrátor
-
-3.10. titkos ügykezelő
-
-3.11. belső ellenőr
-
-3.12. integritás tanácsadó
-
-4. Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség
-
-4.1. a főigazgató titkárságának valamennyi munkaköre
-
-4.2. főosztályvezető
-
-4.3. főosztályvezető-helyettes
-
-4.4. belső ellenőr
-
-4.5. rendszeradminisztrátor
-
-4.6. integritás tanácsadó
-
-4.7. főosztályok titkárságának valamennyi munkaköre
-
-4.8. humánpolitikai ügyintéző
-
-4.9. a területi szerve igazgatói titkárságának valamennyi munkaköre
-
-4.10. a területi szerv igazgatója
-
-4.11. a területi szerv igazgató-helyettese
+3–4.[^2]
 
 5. Nemzeti Park Igazgatóságok
 
@@ -153,3 +91,6 @@ C) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 2.1. főigazgató
 
 2.2. általános főigazgató-helyettes
+
+[^1]: Az 1. melléklet B) rész 1. pontját a 42/2017. (VIII. 17.) FM rendelet 212. §-a hatályon kívül helyezte.
+[^2]: Az 1. melléklet B) rész 3–4. pontját a 42/2017. (VIII. 17.) FM rendelet 212. §-a hatályon kívül helyezte.
