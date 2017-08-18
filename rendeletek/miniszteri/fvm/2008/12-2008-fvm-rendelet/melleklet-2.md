@@ -1,6 +1,6 @@
 ## A szarvasmarha brucellózisra vonatkozó részletes szabályok
 
-## E mellékletben foglaltakat nem kell alkalmazni azokra a hizlalásra szánt hímivarú állatokra, amelyek brucellózistól hatóságilag mentes állományból származnak, ha az állattartó írásbeli kérelmére a hatósági főállatorvos felmentést adott e melléklet alkalmazása alól. A kérelemben az állattartónak nyilatkoznia kell arról, hogy az állományból kizárólag csak vágóhídra szállítják az állatokat, illetve vállalnia kell, hogy az állományból történő minden szállítást az azt megelőző 72 órán belül, de legalább 24 órával a szállítás előtt közvetlenül a területileg illetékes hatósági főállatorvosnak bejelent, megadva a szállítmányt fogadó vágóhíd nevét és címét.
+## E mellékletben foglaltakat nem kell alkalmazni azokra a hizlalásra szánt hímivarú állatokra, amelyek brucellózistól hatóságilag mentes állományból származnak, ha az állattartó írásbeli kérelmére a járási hivatal felmentést adott e melléklet alkalmazása alól. A kérelemben az állattartónak nyilatkoznia kell arról, hogy az állományból kizárólag csak vágóhídra szállítják az állatokat, illetve vállalnia kell, hogy az állományból történő minden szállítást az azt megelőző 72 órán belül, de legalább 24 órával a szállítás előtt közvetlenül a területileg illetékes járási hivatalnak bejelent, megadva a szállítmányt fogadó vágóhíd nevét és címét.[^46]
 
 ## I. Brucellózistól hatóságilag mentes szarvasmarha-állomány
 
@@ -109,3 +109,5 @@
 ## 2. A 4. számú melléklet előírásai szerint elvégzett komplementkötési próba, pufferolt brucella-antigén próba és az egyedi vérből elvégzett ELISA-vizsgálat az Európai Bizottság által a szérum agglutinációs próbával egyenértékűnek elfogadott eljárásnak tekintendő.
 
 2. számú melléklet a 12/2008. (II. 14.) FVM rendelethez
+
+[^46]: Az 1. melléklet nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 104. § j) és n) pontja szerint módosított szöveg.

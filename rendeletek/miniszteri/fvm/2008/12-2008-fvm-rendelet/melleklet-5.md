@@ -282,7 +282,7 @@
 
 ## e) a közösségi brucella referencia laboratóriummal való együttműködés és ajánlásainak követése.
 
-## 2.[^25] A nemzeti referencia laboratórium
+## 2.[^52] A nemzeti referencia laboratórium
 
 ## Neve: Nemzeti Élelmiszerlánc-biztonsági Hivatal Állategészségügyi Diagnosztikai Igazgatóság
 
@@ -296,4 +296,4 @@
 
 2. A betegség idült alakja esetén az elváltozott szerv (here, csigolya, ínhüvely stb.) vagy szervrészlet, élő állatból pedig a beteg (gyanús) szerv váladéka (pl. ondó, tej, sipolyváladék).
 
-[^25]: A 4. számú melléklet IV. rész 2. pontja a 70/2013. (VII. 31.) VM rendelet 86. § k) pontja szerint módosított szöveg.
+[^52]: A 4. számú melléklet IV. rész 2. pontja a 70/2013. (VII. 31.) VM rendelet 86. § k) pontja szerint módosított szöveg.
