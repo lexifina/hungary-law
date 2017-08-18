@@ -20,7 +20,7 @@
 
 | egyéb kiegészítő és adalékanyag | kg | 2 |
 
-9. melléklet a 27/2011. (IV. 12.) VM rendelethez[^39]
+9. melléklet a 27/2011. (IV. 12.) VM rendelethez[^40]
 
 A) Nem jövedéki termék borászati termékek kísérőokmányának formanyomtatványa
 
@@ -48,7 +48,7 @@ A) Nem jövedéki termék borászati termékek kísérőokmányának formanyomta
 
 B) A nem jövedéki termék borászati termékek kísérőokmányának kitöltése
 
-1. rovat: A kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága tölti ki az okmány hitelesítésekor
+1. rovat: A borászati hatáskörben eljáró járási hivatal tölti ki az okmány hitelesítésekor
 
 2. rovat: teljes név és cím, beleértve az irányítószámot is (adott esetben a SEED szerinti jövedéki szám is)
 
@@ -136,4 +136,4 @@ i) a kódok:
 
 15. rovat: A feladás helye szerinti illetékes szerv általi láttamozás a 436/2009/EK bizottsági rendelet 24. cikk (1) bekezdése a) pontjának i. alpontjában említettektől eltérő kísérőokmányok esetében (amennyiben ez követelmény)
 
-[^39]: A 9. mellékletet a 14/2013. (III. 7.) VM rendelet 14. § (4) bekezdése iktatta be, szövege a 101/2013. (XI. 4.) VM rendelet 2. § b) pontja szerint módosított szöveg.
+[^40]: A 9. mellékletet a 14/2013. (III. 7.) VM rendelet 14. § (4) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 162. § c) pontja szerint módosított szöveg.

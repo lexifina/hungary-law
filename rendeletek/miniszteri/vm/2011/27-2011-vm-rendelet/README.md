@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-27-20-2
 | 2013-06-30 | 2011-27-20-2Y.4 | 14/2013. (III. 7.) VM rendelet |
 | 2013-11-05 | 2011-27-20-2Y.5 | 14/2013. (III. 7.) VM rendelet |
 | 2017-07-07 | 2011-27-20-2Y.6 | 35/2017. (VII. 6.) FM rendelet |
+| 2017-08-18 | 2011-27-20-2Y.7 | 14/2013. (III. 7.) VM rendelet |

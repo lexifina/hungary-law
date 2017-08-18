@@ -1,6 +1,6 @@
-## 3/a [^27] Egyszerűsített pincekönyv-vezetés
+## 3/a [^28] Egyszerűsített pincekönyv-vezetés
 
-19/A. §[^28] (1) Az az egyszerűsítettadóraktár-engedélyes, aki
+19/A. §[^29] (1) Az az egyszerűsítettadóraktár-engedélyes, aki
 
 a) az előző borpiaci évben legfeljebb 1000 hektoliter előállított bormennyiséggel rendelkezett,
 
@@ -16,5 +16,5 @@ szőlőbor-pincekönyvét a 7. melléklet szerinti formában és tartalommal, a 
 
 (3) Az egyszerűsített pincekönyv-vezetés a (2) bekezdés szerinti bejelentés napján kezdhető meg.
 
-[^27]: A 3/a alcímet (19/A–19/C. §) a 14/2013. (III. 7.) VM rendelet 11. §-a iktatta be.
-[^28]: A 19/A. §-t a 14/2013. (III. 7.) VM rendelet 11. §-a iktatta be.
+[^28]: A 3/a alcímet (19/A–19/C. §) a 14/2013. (III. 7.) VM rendelet 11. §-a iktatta be.
+[^29]: A 19/A. §-t a 14/2013. (III. 7.) VM rendelet 11. §-a iktatta be.
