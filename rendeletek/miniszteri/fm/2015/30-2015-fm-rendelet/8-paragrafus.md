@@ -1,4 +1,4 @@
-## 7. § Ahol e rendelet járási hivatalt említ, azon a földhivatalok, valamint a Földmérési és Távérzékelési Intézet feladatairól, illetékességi területéről, továbbá egyes földhivatali eljárások részletes szabályairól szóló 373/2014. (XII. 31.) Korm. rendelet 1. mellékletében megjelölt járási hivatalokat kell érteni.
+## 7. §[^1] Ahol e rendelet járási hivatalt említ, azon a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben megjelölt földügyi igazgatási hatáskörben eljáró járási hivatalt kell érteni.
 
 8. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
@@ -47,3 +47,5 @@ Melléklet a 30/2015. (VI. 5.) FM rendelethez
 | 19. | Zala Megyei Kormányhivatal | 10049006-00303004-00000000 |
 
 | 20. | Budapest Főváros Kormányhivatala | 10023002-00301208-00000000 |
+
+[^1]: A 7. § a 42/2017. (VIII. 17.) FM rendelet 214. §-ával megállapított szöveg.
