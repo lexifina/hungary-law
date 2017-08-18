@@ -28,12 +28,14 @@
 
 ## b) a 42. § (1) bekezdés szerinti záradékot;
 
-## c) a záradékoló földhivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
+## c) a záradékoló járási hivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
 
-## d) a vizsgálatot végző földhivatali személy aláírását és ingatlan rendező minősítésének számát;
+## d) a vizsgálatot végző járási hivatali személy aláírását és ingatlan rendező minősítésének számát;
 
 ## e) a készítő olvasható aláírását kék színű bélyegző lenyomatát, földmérő igazolvány számát, valamint ingatlan rendezői minősítésének számát;
 
 ## f) a kitűzés dátumát.
 
-24. melléklet a 25/2013. (IV. 16.) VM rendelethez
+24. melléklet a 25/2013. (IV. 16.) VM rendelethez[^82]
+
+[^82]: A 24. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § d) és m) pontja szerint módosított szöveg.

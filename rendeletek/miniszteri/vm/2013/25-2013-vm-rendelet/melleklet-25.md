@@ -28,9 +28,9 @@
 
 ## b) a 42. § (1) bekezdés szerinti záradékot;
 
-## c) a záradékoló földhivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
+## c) a záradékoló járási hivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
 
-## d) a vizsgálatot végző földhivatali személy aláírását és ingatlan rendező minősítésének számát;
+## d) a vizsgálatot végző járási hivatali személy aláírását és ingatlan rendező minősítésének számát;
 
 ## e) a készítő olvasható aláírását kék színű bélyegző lenyomatát, földmérő igazolvány számát, valamint ingatlan rendezői minősítésének számát;
 

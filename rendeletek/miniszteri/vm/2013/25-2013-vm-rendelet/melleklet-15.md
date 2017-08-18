@@ -34,7 +34,7 @@
 
 ## a) az 51. § (2) bekezdés szerinti záradékot;
 
-## b) a záradékoló földhivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
+## b) a záradékoló járási hivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
 
 ## c) a záradékoló személyének aláírását és ingatlan rendező minősítésének számát;
 
@@ -44,4 +44,6 @@
 
 ## f) a készítés dátumát.
 
-15. melléklet a 25/2013. (IV. 16.) VM rendelethez
+15. melléklet a 25/2013. (IV. 16.) VM rendelethez[^74]
+
+[^74]: A 15. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § d) pontja szerint módosított szöveg.

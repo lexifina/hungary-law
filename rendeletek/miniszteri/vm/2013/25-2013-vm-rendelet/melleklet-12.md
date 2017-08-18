@@ -40,7 +40,7 @@
 
 ## c) szükség esetén a megelőző, vagy hatályon kívül helyezendő vázrajz iktató számára történő hivatkozást;
 
-## d) a záradékoló földhivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
+## d) a záradékoló járási hivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
 
 ## e) a záradékoló személyének aláírását és ingatlan rendező minősítésének számát;
 
@@ -50,4 +50,6 @@
 
 ## h) a készítés dátumát.
 
-12. melléklet a 25/2013. (IV. 16.) VM rendelethez
+12. melléklet a 25/2013. (IV. 16.) VM rendelethez[^71]
+
+[^71]: A 12. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § d) pontja szerint módosított szöveg.

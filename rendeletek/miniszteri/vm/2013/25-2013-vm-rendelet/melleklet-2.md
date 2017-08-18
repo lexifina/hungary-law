@@ -20,4 +20,6 @@
 
 ## c) a készítés dátumát.
 
-2. melléklet a 25/2013. (IV. 16.) VM rendelethez
+2. melléklet a 25/2013. (IV. 16.) VM rendelethez[^67]
+
+[^67]: A 2. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § d) pontja szerint módosított szöveg.

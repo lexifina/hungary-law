@@ -40,4 +40,6 @@ q) a készítő bélyegzőlenyomatát.
 
 (4) A közterületek helyrajzi számait a változási vázrajzon és a mérési vázlaton minden esetben zárójelbe kell tenni.
 
-(5) A mérési vázlatot és a hozzá tartozó digitális mérési állományokat a járási földhivatal az állami ingatlan-nyilvántartási térképi adatbázis tartalmától elkülönülten tárolja.
+(5)[^18] A mérési vázlatot és a hozzá tartozó digitális mérési állományokat a járási hivatal az állami ingatlan-nyilvántartási térképi adatbázis tartalmától elkülönülten tárolja.
+
+[^18]: A 21. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.

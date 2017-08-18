@@ -24,7 +24,7 @@
 
 ## a) az 51. § (2) bekezdés szerinti záradékot;
 
-## b) a záradékoló földhivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
+## b) a záradékoló járási hivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
 
 ## c) a záradékoló személyének aláírását és ingatlan rendező minősítésének számát;
 

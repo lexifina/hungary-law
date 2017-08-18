@@ -1,4 +1,4 @@
-57. § (1) Felmérési, térképezési vagy területszámítási hiba kijavítását földhivatali hatósági eljárásban a következő esetekben lehet végrehajtani:
+57. § (1)[^61] Felmérési, térképezési vagy területszámítási hiba kijavítását ingatlanügyi hatósági eljárásban a következő esetekben lehet végrehajtani:
 
 a) a mérés során tévesen azonosították a határvonalat és a helyes határvonal helyett nem megfelelő határvonalat mértek;
 
@@ -28,7 +28,7 @@ i) a felhasznált korábbi állami alapadatok hibás értékkel történő átv�
 
 j) az időközi változási munkarészek készítése és átvezetése során elkövetett felmérési, térképezési vagy területszámítási hibái, vagy a változás téves állományi rögzítéséből eredő hibák esetén.
 
-(2) Felmérési, térképezési vagy területszámítási hiba kijavítását járási földhivatali eljárásban – az (1) bekezdésben foglaltakon túlmenően – az analóg térképek digitális átalakítása, vagy a digitális alaptérképek adatbázisának készítése során elkövetett alábbi hibák esetén lehet végrehajtani:
+(2)[^62] Felmérési, térképezési vagy területszámítási hiba kijavítását járási hivatali eljárásban – az (1) bekezdésben foglaltakon túlmenően – az analóg térképek digitális átalakítása, vagy a digitális alaptérképek adatbázisának készítése során elkövetett alábbi hibák esetén lehet végrehajtani:
 
 a) a korábbi numerikus vagy digitális adatok átvételénél elkövetett azonosítási, számítási, adatrögzítési és vonal-összekötési hibák esetén;
 
@@ -37,3 +37,6 @@ b) az analóg térképek digitalizálása során a digitalizálás, az azonosít
 c) tévesen ábrázolták, vagy foglalták adatállományba a helyes mérési adatokat, vagy hibás összekötéseket hajtottak végre a struktúrák előállításánál, és ezek alapján végezték a területszámítást.
 
 (3) Amennyiben az (1) bekezdésben megállapított térképezési hibák egyike sem állapítható meg, akkor az Fttv. 12. § (7) bekezdése szerint kell eljárni.
+
+[^61]: Az 57. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 192. § r) pontja szerint módosított szöveg.
+[^62]: Az 57. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 192. § e) pontja szerint módosított szöveg.

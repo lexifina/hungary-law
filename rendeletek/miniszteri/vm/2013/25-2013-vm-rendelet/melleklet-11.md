@@ -54,4 +54,6 @@
 
 ## d) a minőségtanúsító aláírását, kék színű bélyegző lenyomatát és az ingatlanrendezői minősítésének számát.
 
-11. melléklet a 25/2013. (IV. 16.) VM rendelethez
+11. melléklet a 25/2013. (IV. 16.) VM rendelethez[^70]
+
+[^70]: A 11. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § d) pontja szerint módosított szöveg.

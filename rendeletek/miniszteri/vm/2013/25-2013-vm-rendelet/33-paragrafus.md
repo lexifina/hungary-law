@@ -1,6 +1,6 @@
 ## 14. Társasház- és szövetkezeti ház alaprajzok tartalma, megjelenítése
 
-33. § (1) A társasház, illetve szövetkezeti ház ingatlan-nyilvántartásba vétele előtt a járási földhivatalhoz a társasház, illetve a szövetkezeti ház vektoros formátumban elkészített szintenkénti alaprajzát vizsgálat és nyilvántartásba vétel céljából be kell nyújtani.
+33. § (1)[^25] A társasház, illetve szövetkezeti ház ingatlan-nyilvántartásba vétele előtt a járási hivatalhoz a társasház, illetve a szövetkezeti ház vektoros formátumban elkészített szintenkénti alaprajzát vizsgálat és nyilvántartásba vétel céljából be kell nyújtani.
 
 (2) A digitális szintenkénti alaprajznak az Inytv. 21. § (4) bekezdésében meghatározottakon túl, minden szintre vonatkozóan méretezés nélkül tartalmaznia kell a következő adatokat:
 
@@ -18,6 +18,9 @@ e) a szintáthidalókat emelkedési irányukkal.
 
 (4) A digitális alaprajzban a (2) bekezdésben meghatározott tartalom egy-egy, elkülönülten megjeleníthető felületszerű objektumként kerül feltüntetésre.
 
-(5) A járási földhivatal az alaprajzot az okirattal történő egyezőség szempontjából megvizsgálja, és megfelelőség esetén – záradékolás nélkül – beilleszti az állami ingatlan-nyilvántartási térképi adatbázisba.
+(5)[^26] A járási hivatal az alaprajzot az okirattal történő egyezőség szempontjából megvizsgálja, és megfelelőség esetén – záradékolás nélkül – beilleszti az állami ingatlan-nyilvántartási térképi adatbázisba.
 
 (6) Csak olyan alaprajz nyújtható be, ami megfelel a társasházakról szóló 2003. évi CXXXIII. törvény 7. §-ában meghatározott feltételeknek is.
+
+[^25]: A 33. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § j) pontja szerint módosított szöveg.
+[^26]: A 33. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § c) pontja szerint módosított szöveg.

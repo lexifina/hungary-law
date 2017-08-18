@@ -6,6 +6,8 @@
 
 (3) Közigazgatási egységek és fekvések között közvetlenül csak egész földrészletek csatolhatóak át. Ha az átcsatolás csak a földrészlet egy részét érinti, akkor azt még az eredeti nyilvántartási egységben meg kell osztani.
 
-(4) Az átcsatolás után felhasználható helyrajzi számokat az adatszolgáltatáskor a járási földhivatal adja meg.
+(4)[^22] Az átcsatolás után felhasználható helyrajzi számokat az adatszolgáltatáskor a járási hivatal adja meg.
 
 (5) A változással érintett teljes területre vonatkozóan a változási vázrajzot a 11. melléklet szerinti tartalommal, a honlapon közzétett minta szerinti formában kell elkészíteni.
+
+[^22]: A 26. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.

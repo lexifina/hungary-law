@@ -42,7 +42,7 @@
 
 ## d) szükség esetén a megelőző, vagy hatályon kívül helyezendő vázrajz iktató számára történő hivatkozást;
 
-## e) a záradékoló földhivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
+## e) a záradékoló járási hivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
 
 ## f) a záradékoló személyének aláírását és ingatlan rendező minősítésének számát;
 

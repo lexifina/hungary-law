@@ -36,12 +36,14 @@
 
 ## c) „A kitűzés jelenlétünkben megtörtént, a kitűzött határpontokat kölcsönösen elfogadjuk:” záradékot, valamint az érintettek aláírásait;
 
-## d) a záradékoló földhivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
+## d) a záradékoló járási hivatal székhelyét és a záradékolás dátumát, valamint kék színű körbélyegző lenyomatát;
 
-## e) a vizsgálatot végző földhivatali személy aláírását és ingatlan rendező minősítésének számát;
+## e) a vizsgálatot végző járási hivatali személy aláírását és ingatlan rendező minősítésének számát;
 
 ## f) a készítő olvasható aláírását kék színű bélyegző lenyomatát, földmérő igazolvány számát, valamint ingatlan rendezői minősítésének számát;
 
 ## g) a kitűzés dátumát.
 
-23. melléklet a 25/2013. (IV. 16.) VM rendelethez
+23. melléklet a 25/2013. (IV. 16.) VM rendelethez[^81]
+
+[^81]: A 23. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § d) és m) pontja szerint módosított szöveg.

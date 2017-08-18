@@ -2,7 +2,7 @@
 
 ## 1. A kérelem fejlécének az alábbiakat kell tartalmaznia:
 
-## a) Tisztelt ………….Járási Földhivatal!
+## a) Tisztelt ………….Járási Hivatal!
 
 ## b) Alulírott ………(név) kérem, az általam végzett változási munkarészeket vizsgálat, záradékolás és további felhasználás céljából átvenni szíveskedjen.
 
@@ -12,7 +12,7 @@
 
 ## b) Változás típusa: ……………………..
 
-## 3. Földhivatali adatszolgáltatási adatállomány:
+## 3. Járási Hivatali adatszolgáltatási adatállomány:
 
 ## a) Típusa: digitális adatszolgáltatás………. programból
 
@@ -38,7 +38,7 @@
 
 ## 9. A záradékolt vázrajzokat az alábbi címre kérném megküldeni: Geodéziai vállalkozás vagy megrendelő neve (Székhelyének címe)
 
-## 10. A földhivatali vizsgálatra, záradékolásra leadás dátuma.
+## 10. A járási hivatali vizsgálatra, záradékolásra leadás dátuma.
 
 ## 11. Az átadó és átvevő aláírása.
 
