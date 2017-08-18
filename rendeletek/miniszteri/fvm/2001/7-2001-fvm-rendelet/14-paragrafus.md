@@ -2,7 +2,7 @@
 
 (2) A Magyarországon nem honos, az 1–2. számú mellékletben fel nem sorolt károsítók észlelése esetén a minisztérium növényegészségügyi intézkedéseket rendelhet el, amennyiben azt a károsító gazdasági veszélyessége indokolja.
 
-(3)[^65] A Magyarországon és az Európai Unió többi tagállamában nem honos, az 1. és 2. számú mellékletben fel nem sorolt károsítók észlelése esetén a fővárosi és megyei kormányhivatal korlátozást rendel el, és haladéktalanul értesíti a minisztériumot és a NÉBIH-et.
+(3)[^65] A Magyarországon és az Európai Unió többi tagállamában nem honos, az 1. és 2. számú mellékletben fel nem sorolt károsítók észlelése esetén a járási hivatal korlátozást rendel el, és haladéktalanul értesíti a minisztériumot és a NÉBIH-et.
 
 (4)[^66] A Magyarországon nem honos, az 1. és 2. számú mellékletben fel nem sorolt károsítók jelenlétének vagy megjelenésének gyanúját és a hatóság által megerősített előfordulását, valamint az elrendelt és tervezett intézkedéseket a minisztérium írásban bejelenti a Bizottságnak és a többi tagállamnak. Az intézkedések a Bizottság döntéséig foganatosíthatók.
 
@@ -26,10 +26,10 @@ b) harminc napon belül bejelentést tesz a Bizottság és a többi tagállam r�
 
 (10)[^72] Az irányelv 15. cikk (1) bekezdése alapján engedélyezett eltérésekről a minisztérium értesíti a Bizottságot.
 
-(11)[^73] Aki tudomást szerez az 1. és 2. számú mellékletben felsorolt vagy azokban fel nem sorolt, de Magyarországon korábban elő nem fordult, nem-honos károsító jelenlétéről vagy arra utaló jelekről, köteles tíz napon belül írásban értesíteni a fővárosi és megyei kormányhivatalt, és e hatóságnak kérésre átadni a birtokában lévő, a károsító jelenlétére vonatkozó információt.
+(11)[^73] Aki tudomást szerez az 1. és 2. számú mellékletben felsorolt vagy azokban fel nem sorolt, de Magyarországon korábban elő nem fordult, nem-honos károsító jelenlétéről vagy arra utaló jelekről, köteles tíz napon belül írásban értesíteni a járási hivatalt, és e hatóságnak kérésre átadni a birtokában lévő, a károsító jelenlétére vonatkozó információt.
 
 [^64]: A 14. § a 37/2003. (IV. 4.) FVM rendelet 11. §-ával megállapított szöveg.
-[^65]: A 14. § (3) bekezdése a 9/2014. (IX. 12.) FM rendelet 2. §-ával megállapított, a 39/2015. (VII. 3.) FM rendelet 6. § b) pontja szerint módosított szöveg.
+[^65]: A 14. § (3) bekezdése a 9/2014. (IX. 12.) FM rendelet 2. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 26. § b) pontja szerint módosított szöveg.
 [^66]: A 14. § (4) bekezdése a 39/2015. (VII. 3.) FM rendelet 1. §-ával megállapított szöveg.
 [^67]: A 14. § (5) bekezdése a 39/2015. (VII. 3.) FM rendelet 1. §-ával megállapított szöveg.
 [^68]: A 14. § (6) bekezdése a 39/2015. (VII. 3.) FM rendelet 1. §-ával megállapított szöveg.
@@ -37,4 +37,4 @@ b) harminc napon belül bejelentést tesz a Bizottság és a többi tagállam r�
 [^70]: A 14. § (8) bekezdése a 39/2015. (VII. 3.) FM rendelet 1. §-ával megállapított szöveg.
 [^71]: A 14. § (9) bekezdését a 39/2015. (VII. 3.) FM rendelet 1. §-a iktatta be.
 [^72]: A 14. § (10) bekezdését a 39/2015. (VII. 3.) FM rendelet 1. §-a iktatta be.
-[^73]: A 14. § (11) bekezdését a 39/2015. (VII. 3.) FM rendelet 1. §-a iktatta be.
+[^73]: A 14. § (11) bekezdését a 39/2015. (VII. 3.) FM rendelet 1. §-a iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 26. § d) pontja szerint módosított szöveg.

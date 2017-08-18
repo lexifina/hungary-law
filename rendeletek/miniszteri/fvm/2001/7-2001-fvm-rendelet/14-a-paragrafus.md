@@ -12,7 +12,7 @@ b)[^76] fennáll a veszélye annak, hogy kedvező ökológiai feltételek eseté
 
 a) a kérelmezőnek – az (5) bekezdésben foglalt kivétellel – hivatalos ellenőrzési programot kell készítenie, amelynek igazolnia kell, hogy egy vagy több károsító, amelyekre az övezetet védett zónaként kívánják elismertetni, nem telepedett meg vagy előfordulása nem járványszerű,
 
-b)[^77] az a) pont szerinti programot a NÉBIH-nek a fővárosi és megyei kormányhivatalok bevonásával folyamatosan ellenőriznie kell.
+b)[^77] az a) pont szerinti programot a NÉBIH-nek a járási hivatalok bevonásával folyamatosan ellenőriznie kell.
 
 (4) A (3) bekezdés a) pontja szerinti programnak az alábbiakat kell tartalmaznia:
 
@@ -22,7 +22,7 @@ b) egy állandó rendszert, amely évente legalább egy alkalommal, a megfelelő
 
 c) egy nyilvántartási rendszert, amely a felmérési eredmények adatait tartalmazza.
 
-(5)[^78] A (4) bekezdés a) pontja szerinti felmérést a fővárosi és megyei kormányhivatal végzi el. A Bizottságot értesíteni kell a felmérési módszerről, valamint annak végrehajtásáról, és a Bizottság szakértői számára hozzáférhetővé kell tenni a felmérési módszert, annak végrehajtását, eredményeit.
+(5)[^78] A (4) bekezdés a) pontja szerinti felmérést a járási hivatal végzi el. A Bizottságot értesíteni kell a felmérési módszerről, valamint annak végrehajtásáról, és a Bizottság szakértői számára hozzáférhetővé kell tenni a felmérési módszert, annak végrehajtását, eredményeit.
 
 (6) A (4) bekezdés a) pontja szerinti felmérést az állatvilág olyan, fonálférgeken kívüli károsítói esetében, amelyek az erdei növények vagy növényi termékek szempontjából fontosak, és amelyek általában a szabadban termesztett növényeket károsítják, a következők szerint kell végrehajtani:
 
@@ -57,7 +57,7 @@ f) amennyiben indokolt, a megfigyelési pontokon az érintett károsítók begy�
 [^74]: A 14/A. §-t és az azt megelőző alcímet a 37/2003. (IV. 4.) FVM rendelet 12. §-a iktatta a szövegbe.
 [^75]: A 14/A. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^76]: A 14/A. § (2) bekezdésének b) pontja a 37/2005. (IV. 27.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^77]: A 14/A. § (3) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés g) pontja, a 39/2015. (VII. 3.) FM rendelet 6. § e) pontja szerint módosított szöveg.
-[^78]: A 14/A. § (5) bekezdése a 39/2015. (VII. 3.) FM rendelet 6. § b) pontja szerint módosított szöveg.
+[^77]: A 14/A. § (3) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés g) pontja, a 42/2017. (VIII. 17.) FM rendelet 26. § g) pontja szerint módosított szöveg.
+[^78]: A 14/A. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 26. § b) pontja szerint módosított szöveg.
 [^79]: A 14/A. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^80]: A 14/A. § (8) bekezdését a 37/2005. (IV. 27.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.

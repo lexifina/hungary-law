@@ -26,10 +26,10 @@ h)[^97] import esetén a belépő növényegészségügyi határállomás helyé
 
 (6) A kutatási anyaggal folytatott valamennyi tevékenységet (ideértve a behozatalt és a szállítást is) a 8. számú melléklet előírásai szerinti zárlati körülmények között kell végezni.
 
-(7)[^100] A fővárosi és megyei kormányhivatal ellenőrzi a 8. számú mellékletben meghatározott zárlati intézkedések betartását és a kutatási anyag, valamint járulékos anyagai növényegészségügyi követelményeknek megfelelő kezelését, beleértve a sterilizálást, a fertőtlenítést, a megsemmisítést és az elrendelt egyéb eljárási módokat is.
+(7)[^100] A járási hivatal ellenőrzi a 8. számú mellékletben meghatározott zárlati intézkedések betartását és a kutatási anyag, valamint járulékos anyagai növényegészségügyi követelményeknek megfelelő kezelését, beleértve a sterilizálást, a fertőtlenítést, a megsemmisítést és az elrendelt egyéb eljárási módokat is.
 
 [^96]: A 16. § (1) bekezdése a 37/2003. (IV. 4.) FVM rendelet 14. § (1) bekezdésével megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 67. pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^97]: A 16. § (2) bekezdés h) pontja a 10/2009. (II. 25.) FVM rendelet 12. §-a szerint módosított szöveg.
 [^98]: A 16. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^99]: A 16. § (5) bekezdése a 37/2003. (IV. 4.) FVM rendelet 14. §-ának (2) bekezdésével megállapított szöveg.
-[^100]: A 16. § (7) bekezdése a 39/2015. (VII. 3.) FM rendelet 6. § b) pontja szerint módosított szöveg.
+[^100]: A 16. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet 26. § b) pontja szerint módosított szöveg.

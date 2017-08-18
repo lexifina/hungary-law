@@ -368,6 +368,6 @@
 
 | 2. Grapevine flavescence dorée MLO | A Vitis L. fajhoz tartozó növények, a termés és a vetőmag kivételével | Csehország, Franciaország (Elzász, Champagne-Ardenne, Pikárdia (Aisne megye), Île-de-France (Citry, Nanteuil-sur-Marne és Saâcy-sur-Marne települések) és Lotaringia), Olaszország (Puglia, Basilicata és Sardegna) |
 
-3. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^365]
+3. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^366]
 
-[^365]: A 3. számú mellékletet a 37/2003. (IV. 4.) FVM rendelet 41. § (4) bekezdése hatályon kívül helyezte.
+[^366]: A 3. számú mellékletet a 37/2003. (IV. 4.) FVM rendelet 41. § (4) bekezdése hatályon kívül helyezte.
