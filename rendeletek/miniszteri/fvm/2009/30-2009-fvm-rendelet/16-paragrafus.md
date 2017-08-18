@@ -1,6 +1,6 @@
-## A járási főállatorvos feladatai[^7]
+## A járási hivatal feladatai[^7]
 
-## 16. §[^8] A járási főállatorvos köteles:
+## 16. §[^8] A járási hivatal köteles:
 
 a) az állományok minősítését határozatban kiadni;
 
@@ -22,8 +22,8 @@ cb) az állomány felszámolását elrendelni és az állami kártalanításról
 
 cc) a hatósági állatorvos útján intézkedni annak érdekében, hogy mindazon sertéstartó helyek, amelyek a helyi zárlat alatt álló állománnyal élőállat, sertéstermék vagy ragályfogó tárgyak útján kapcsolatba kerültek, megfigyelési zárlat alá kerüljenek;
 
-cd)[^9] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot a megtett intézkedésekről tájékoztatni.
+cd)[^9] a megyei kormányhivatalt a megtett intézkedésekről tájékoztatni.
 
-[^7]: A 16. §-t megelőző alcím a 151/2012. (XII. 29.) VM rendelet 32. § b) pontja szerint módosított szöveg.
-[^8]: A 16. § nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 32. § b) pontja szerint módosított szöveg.
-[^9]: A 16. § c) pont cd) alpontja a 70/2013. (VII. 31.) VM rendelet 103. § e) pontja szerint módosított szöveg.
+[^7]: A 16. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 123. § b) pontja szerint módosított szöveg.
+[^8]: A 16. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 123. § b) pontja szerint módosított szöveg.
+[^9]: A 16. § c) pont cd) alpontja a 70/2013. (VII. 31.) VM rendelet 103. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 123. § g) pontja szerint módosított szöveg.

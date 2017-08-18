@@ -4,6 +4,6 @@
 
 (2) Az újratelepített állomány mentességének ellenőrzését az utolsó betelepítését követően nem kevesebb, mint 30 és nem több, mint 40 nap elteltével kell elvégezni.
 
-(3)[^22] Az újratelepített állományból – annak minősítéséig – csak a járási főállatorvos engedélyével, közvetlen vágásra szabad sertést kiszállítani.
+(3)[^22] Az újratelepített állományból – annak minősítéséig – csak a járási hivatal engedélyével, közvetlen vágásra szabad sertést kiszállítani.
 
-[^22]: A 24. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 32. § b) pontja szerint módosított szöveg.
+[^22]: A 24. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 123. § b) pontja szerint módosított szöveg.
