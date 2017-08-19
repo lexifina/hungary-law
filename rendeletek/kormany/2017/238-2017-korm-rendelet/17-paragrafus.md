@@ -1,0 +1,5 @@
+## 16. § Az Európai Unió intézményeiben nemzeti szakértőként foglalkoztatott köztisztviselőkről, kormánytisztviselőkről és a fegyveres szervek hivatásos állományú tagjairól szóló 34/2012. (III. 9.) Korm. rendelet 17. § (2) bekezdése helyébe az alábbi szöveg lép:
+
+## „(2) A napidíjra nem jogosult nemzeti szakértő járandóságára a külképviseletekről és tartós külszolgálatról szóló 2016. évi LXXIII. törvény devizailletményre, átalány-költségtérítésre és egészségügyi ellátásra vonatkozó szabályait kell alkalmazni. A napidíjra nem jogosult nemzeti szakértő a Kttv. vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati viszonyáról szóló törvény szerinti illetményére a nemzeti szakértőként történő foglalkoztatás időtartamára nem jogosult.”
+
+17. § A képzések fejlesztéséhez, a külszolgálati felkészítő tanfolyamhoz, informatikai támogatáshoz szükséges forrás 2017–2018. évben a KÖFOP-2.1.4-VEKOP-16 azonosító jelű, „A Külgazdasági és Külügyminisztérium humánerőforrás-gazdálkodásának és belső képzési rendszerének fejlesztése” című kiemelt projektből kerül biztosításra.
