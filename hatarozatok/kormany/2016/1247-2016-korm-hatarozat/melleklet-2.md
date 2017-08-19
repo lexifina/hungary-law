@@ -58,7 +58,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 25. | IKOP-1.1.0-15 | M7 autópálya és 710. sz. főút csomópontjának kialakítása, 710. sz. főúti bekötéssel | NIF Zrt. | 6,20 (93% támogatási intenzitás szerint csökkentett összeg) | Az M7 autópálya és a 710. számú főút csomópontjának kialakítása, valamint a 710. számú főúti bekötés megvalósítása. |
 
-| 26. | IKOP-1.1.0-15 | 86. számú főút Szombathely és Egyházasdaróc közötti szakaszának 2x2 sávos úttá történő fejlesztésének előkészítése | NIF Zrt. | 2,00 (becsült támogatási intenzitás:100%) | 2x2 sávos főút előkészítése (tervezés, engedélyezés). |
+| 26. | IKOP-1.1.0-15 | 86. számú főút Szombathely és Egyházasrádóc közötti szakaszának 2x2 sávos úttá történő fejlesztésének előkészítése | NIF Zrt. | 0,60 (becsült támogatási intenzitás:100%) | 2x2 sávos főút előkészítése (tervezés, engedélyezés). |
 
 | 27. | IKOP-1.1.0-15 | Mogyoród térség közúti kapcsolatainak fejlesztése, M3–M31-es autópálya átkötés, 2101 j. út – tervezett M3-as autópálya csomópont átkötése | NIF Zrt. | 5,00 (becsült támogatási intenzitás: 100%) | Az M3 autópályán csomópont, továbbá e csomópont és a 2101. jelű összekötő út közötti útszakasz kiépítése. |
 
@@ -144,9 +144,9 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 65c. | IKOP-2.1.0-15 | GSM-R távközlési hálózat kiépítése II. ütem megvalósítás | NIF Zrt. | 18,62 (támogatási intenzitás: 100%) | A CEF-ből finanszírozni tervezett projektelemeket kiegészítő, TEN-T hálózatot érintő 1044 km szakaszon rádiós kommunikációs és forgalomirányítási rendszer kiépítése. |
 
-| 65d. | IKOP-2.1.0-15 | Gödöllő állomás korszerűsítése | NIF Zrt. | 15,35 (támogatási intenzitás: 100%) | Gödöllő állomás korszerűsítése, P+R parkoló létesítése. |
+| 65d. | IKOP-2.1.0-15 | Gödöllő állomás korszerűsítése | NIF Zrt. | 17,74 (támogatási intenzitás: 100%) | Gödöllő állomás korszerűsítése, P+R parkoló létesítése. |
 
-| 65e. | IKOP-2.1.0-15 | Budapest–Hatvan vasútvonalon elővárosi célú fejlesztések | NIF Zrt. | 10,89 (támogatási intenzitás: 100%) | Megállóhelyek és állomások elővárosi célú fejlesztése, akadálymentesítése, P+R parkolók építése. |
+| 65e. | IKOP-2.1.0-15 | Budapest–Hatvan vasútvonalon elővárosi célú fejlesztések | NIF Zrt. | 16,21 (támogatási intenzitás: 100%) | Megállóhelyek és állomások elővárosi célú fejlesztése, akadálymentesítése, P+R parkolók építése. |
 
 | 65f. | IKOP-2.1.0-15 | Zalaszentiváni deltavágány előkészítése | GYSEV Zrt. | 0,35 (támogatási intenzitás: 100%) | Zalaszentiváni deltavágány előkészítése, tervezés, engedélyeztetés. |
 
@@ -256,4 +256,4 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 35,61 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
 
-[^4]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
