@@ -1,0 +1,3 @@
+## 1. § A Felső-szabolcsi, Tokaji Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság államot megillető társasági részesedése felett az államot megillető tulajdonosi jogok és kötelezettségek összessége gyakorlójának 2020. december 31-ig a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaságot jelölöm ki.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.

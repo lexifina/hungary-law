@@ -1,0 +1,1 @@
+Az állami vagyonról szóló 2007. évi CVI. törvény 71. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
