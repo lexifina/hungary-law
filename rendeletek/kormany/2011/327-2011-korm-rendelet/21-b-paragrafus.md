@@ -1,10 +1,10 @@
-## 10. [^67] A foglalkozási rehabilitációs szolgáltatók akkreditációjának szabályai
+## 10. [^70] A foglalkozási rehabilitációs szolgáltatók akkreditációjának szabályai
 
 21/B. § (1) Az egyéni vállalkozó, a gazdasági társaság, a szövetkezet, az egyesület és az alapítvány kérheti a foglalkozási rehabilitációs szolgáltatóként történő akkreditációját.
 
 (2) Az akkreditáció feltételeit a 3. melléklet tartalmazza.
 
-(3)[^68] Az akkreditáció iránti kérelmet a Budapest Főváros Kormányhivatala által rendszeresített és a Budapest Főváros Kormányhivatala által üzemeltetett elektronikus felületen közzétett adatlapon és elektronikus űrlapon kell benyújtani.
+(3)[^71] Az akkreditáció iránti kérelmet a Budapest Főváros Kormányhivatala által rendszeresített és a Budapest Főváros Kormányhivatala által üzemeltetett elektronikus felületen közzétett adatlapon és elektronikus űrlapon kell benyújtani.
 
 (4) Az adatlap és az elektronikus űrlap tartalmazza
 
@@ -48,19 +48,19 @@ dc) az egyesület és az alapítvány írásbeli képviseletére jogosult szemé
 
 (6) Ha a kérelmező nem csatolja
 
-a)[^69] az (5) bekezdés b) pontja szerinti iratokat, a Budapest Főváros Kormányhivatala az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában feltüntetett adatait az egyéni vállalkozók nyilvántartásából,
+a)[^72] az (5) bekezdés b) pontja szerinti iratokat, a Budapest Főváros Kormányhivatala az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában feltüntetett adatait az egyéni vállalkozók nyilvántartásából,
 
-b)[^70] az egyesület és az alapítvány hatályos adatairól kiadott, 3 hónapnál nem régebbi kivonatot, a Budapest Főváros Kormányhivatala a bírósági nyilvántartásba bejegyzett hatályos adatokat a bíróság nyilvántartásából
+b)[^73] az egyesület és az alapítvány hatályos adatairól kiadott, 3 hónapnál nem régebbi kivonatot, a Budapest Főváros Kormányhivatala a bírósági nyilvántartásba bejegyzett hatályos adatokat a bíróság nyilvántartásából
 
 ## szerzi be, illetve ellenőrzi.
 
-(7)[^71] Ha a kérelmező cégjegyzékben nyilvántartott cég, a Budapest Főváros Kormányhivatala a cégkivonatot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező cégjegyzékben nyilvántartott cég, és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, továbbá ezt a tényt a cégjegyzék tartalmazza, a Budapest Főváros Kormányhivatala az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(7)[^74] Ha a kérelmező cégjegyzékben nyilvántartott cég, a Budapest Főváros Kormányhivatala a cégkivonatot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező cégjegyzékben nyilvántartott cég, és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, továbbá ezt a tényt a cégjegyzék tartalmazza, a Budapest Főváros Kormányhivatala az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(8)[^72] A Budapest Főváros Kormányhivatala valamennyi kérelmező esetében közvetlenül a köztartozásmentes adózói adatbázisból ellenőrzi, hogy a kérelmező köztartozásmentes adózónak minősül-e.
+(8)[^75] A Budapest Főváros Kormányhivatala valamennyi kérelmező esetében közvetlenül a köztartozásmentes adózói adatbázisból ellenőrzi, hogy a kérelmező köztartozásmentes adózónak minősül-e.
 
-[^67]: A 10. alcímet (21/B–21/E. §) újonnan a 117/2016. (VI. 6.) Korm. rendelet 10. §-a iktatta be.
-[^68]: A 21/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja szerint módosított szöveg.
-[^69]: A 21/B. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
-[^70]: A 21/B. § (6) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
-[^71]: A 21/B. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja szerint módosított szöveg.
-[^72]: A 21/B. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^70]: A 10. alcímet (21/B–21/E. §) újonnan a 117/2016. (VI. 6.) Korm. rendelet 10. §-a iktatta be.
+[^71]: A 21/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja szerint módosított szöveg.
+[^72]: A 21/B. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^73]: A 21/B. § (6) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^74]: A 21/B. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja szerint módosított szöveg.
+[^75]: A 21/B. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
