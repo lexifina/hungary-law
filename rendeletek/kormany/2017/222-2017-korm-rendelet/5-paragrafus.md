@@ -1,0 +1,5 @@
+5. § (1) A Kormány dönt arról, hogy a Beruházás előkészítésének 2. § (2) bekezdése szerinti fázisai közül melyekhez biztosít fedezetet az Előirányzatból, dönt továbbá a fázisok teljesítésének határidejéről, az adott fázis megvalósítására fordítható forrás összegének maximumáról.
+
+(2) A Kormány az (1) bekezdés szerinti döntésében a beruházás szakmai tartalma alapján kijelöli az adott beruházás előkészítésének a beruházás célja szerinti szakmai feladatért felelős szervet (a továbbiakban: kormányzati felelős szerv) a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelettel összhangban azzal, hogy indokolt esetben a felelős kijelölésekor e szabálytól eltérhet.
+
+(3) A Kormány az (1) bekezdés szerinti döntésében rendelkezhet továbbá az egyes fázisok megvalósítóiról, valamint arról, hogy részükre a forrás az Ávr. 101/A. § szerinti egyedi döntés alapján kerül biztosításra. Amennyiben a Kormány az előkészítés megvalósítójáról nem hoz döntést, úgy azt az érintett tárca a nemzeti fejlesztési miniszterrel egyetértésben jelöli ki.
