@@ -39,3 +39,7 @@ r) a külgazdasági és külügyi szakemberek szakmai ismereteinek bővítése �
 s) tudományos, elemzési és kutatási tevékenységével közreműködik a külgazdasági és külügyi közszolgáltatások szakpolitikai célokhoz igazodó fejlesztésében;
 
 t) segíti a külgazdasági és külügyi tudományos kutatások eredményeinek társadalmi és gazdasági hasznosítását, az erre irányuló együttműködési lehetőségek kiszélesítését.
+
+u)[^1] támogatja a helyi önkormányzatoknál foglalkoztatottak külgazdasági ismereteinek, a működőtőke-vonzó és befektetés-ösztönző tevékenységek helyi szintű támogatását elősegítő ismeretek megszerzését, összegyűjtését és az ezzel kapcsolatos eredmények közzétételét.
+
+[^1]: Az 1. § u) pontját a 238/2017. (VIII. 18.) Korm. rendelet 15. §-a iktatta be.
