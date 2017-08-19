@@ -1,7 +1,5 @@
 ## 4/A. §[^8]
 
-## Aki e rendelet alapján társadalombiztosítási és munkajogi helyzetének rendezését még nem kérte, 2012. március 30-ig nyújthatja be kérelmét a kárpótlási hatósághoz. A határidő elmulasztása jogvesztéssel jár, a mulasztás miatt igazolásnak nincs helye.
-
 ## 5. §
 
 (1) E rendelet 1993. január 1-jén lép hatályba, az emelés legkorábban 1993. január 1-jétől jár.
@@ -14,6 +12,10 @@
 
 (5)[^10] E rendeletnek az egyes kárpótlással kapcsolatos kormányrendeletek módosításáról szóló 316/2014. (XII. 12.) Korm. rendelettel megállapított 2. §-ában meghatározott emelés összege 2014. november 1-jétől illeti meg a jogosultakat. Az emelés 2014. november és december hónapra eső összegét 2014. december hónapban kell a jogosultak részére folyósítani. Az emelés visszamenőleg járó összegét az emelésre jogosult személy halála esetén a nyugdíjfolyósító szerv kérelemre a Tbny. 83. § (2) bekezdésében meghatározott személy részére folyósítja.
 
-[^8]: A 4/A. §-t a 349/2011. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+(6)[^11] E rendeletnek a totalitárius diktatúrák áldozatai társadalombiztosítási és munkajogi helyzetének rendezéséről szóló egyes kormányrendeletek módosításáról szóló 236/2017. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr.) hatályon kívül helyezett rendelkezéseit a Módr. hatálybalépésekor[^12] folyamatban lévő, társadalombiztosítási és munkajogi helyzet rendezésére irányuló eljárásokban sem kell alkalmazni.
+
+[^8]: A 4/A. §-t a 349/2011. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 236/2017. (VIII. 18.) Korm. rendelet 4. § (2) bekezdése.
 [^9]: Az 5. § (4) bekezdését a 305/2013. (VII. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 316/2014. (XII. 12.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
 [^10]: Az 5. § (5) bekezdését a 316/2014. (XII. 12.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^11]: Az 5. § (6) bekezdését a 236/2017. (VIII. 18.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^12]: A hatálybalépés időpontja 2017. augusztus 19.
