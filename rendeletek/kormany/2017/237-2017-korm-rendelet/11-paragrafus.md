@@ -1,0 +1,3 @@
+## 10. § Az Nkft. mint központi beszerző szerv által lebonyolított beszerzésekért a beszerzéssel érintett, a központosított beszerzéshez csatlakozott szervezet az Nkft. részére közbeszerzési díjat köteles fizetni. A központosított közbeszerzési díjat a feladatellátással összefüggő ráfordítások figyelembevételével kell megállapítani. A díj mértéke a központosított közbeszerzések keretében bármilyen formában – közvetlen megrendeléssel, írásbeli konzultációval, versenyújranyítással – megvalósított egyedi közbeszerzések, beszerzések általános forgalmi adó nélkül számított értékének 2%-a, de legfeljebb nettó kétmillió forint.
+
+## 7. Záró rendelkezések
