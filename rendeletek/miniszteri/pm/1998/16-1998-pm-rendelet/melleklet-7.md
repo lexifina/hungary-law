@@ -20,7 +20,7 @@
 
 ## Cégszerű aláírás
 
-7. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^82]
+7. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^87]
 
 1. táblázat a kármegtérülés elszámolásról .... év ......... negyedévben
 
@@ -36,13 +36,13 @@
 
 | 3. | Összesen: |  |  |  |  |  |  |  |
 
-Dátum: .................................................
+## Dátum: .................................................
 
-Készítette: ...........................................
+## Készítette: ...........................................
 
-...........................................................
+## ...........................................................
 
-Cégszerű aláírás
+## Cégszerű aláírás
 
 2. táblázat a Mehib Zrt. által a Magyar Állam javára behajtott kárkintlévőségekről szóló jelentésről
 
@@ -58,12 +58,4 @@ Cégszerű aláírás
 
 | 2. | Összesen: |  |  |  |  |  |  |  |
 
-Dátum: ....................................................
-
-Készítette: ..............................................
-
-.........................................................
-
-Cégszerű aláírás
-
-[^82]: A 7. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^87]: A 7. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (5) bekezdésével megállapított szöveg.

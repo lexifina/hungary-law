@@ -1,4 +1,4 @@
-## 1. számú táblázat[^68]
+## 1. számú táblázat[^70]
 
 ## 1. táblázat
 
@@ -34,7 +34,7 @@
 
 ## cégszerű aláírás
 
-## 2. számú táblázat[^69]
+## 2. számú táblázat[^71]
 
 ## Az Eximbank Zrt. …. év ……. negyedévi adósságszolgálati kötelezettsége
 
@@ -68,7 +68,7 @@
 
 2. számú melléklet a 16/1998. (V. 20.) PM rendelethez
 
-1. számú táblázat[^70]
+1. számú táblázat[^72]
 
 Negyedéves jelentés az Eximbank Zrt. garanciaállományáról
 
@@ -80,15 +80,15 @@ Negyedéves jelentés az Eximbank Zrt. garanciaállományáról
 
 | Következő negyedév várható beváltása (M Ft, ezer USD) |
 
-Dátum: ……………………………………………...
+## Dátum: ……………………………………………...
 
-Készítette: ……………………………………………..
+## Készítette: ……………………………………………..
 
-…………………………………..……….
+## …………………………………..……….
 
-Cégszerű aláírás
+## Cégszerű aláírás
 
-1/b. számú táblázat[^71]
+1/b. számú táblázat[^73]
 
 Negyedéves jelentés az Eximbank Zrt. garanciaállományának tárgyévben várható beváltásáról
 
@@ -106,15 +106,15 @@ Negyedéves jelentés az Eximbank Zrt. garanciaállományának tárgyévben vár
 
 | 5 | Tárgyévben várható garanciabeváltás összesen |
 
-Dátum: ......................................................................
+## Dátum: ......................................................................
 
-Készítette: .................................................................
+## Készítette: .................................................................
 
-............................................
+## ............................................
 
-Cégszerű aláírás
+## Cégszerű aláírás
 
-2. számú táblázat[^72]
+2. számú táblázat[^74]
 
 Negyedéves jelentés
 
@@ -126,15 +126,15 @@ az Eximbank Zrt. által a központi költségvetés terhére vállalt garanciák
 
 | Befolyt követelések összesen: |  |  |
 
-Dátum: ………………………………………………
+## Dátum: ………………………………………………
 
-Készítette: ………………………………………………
+## Készítette: ………………………………………………
 
-………………………………………………
+## ………………………………………………
 
-Cégszerű aláírás
+## Cégszerű aláírás
 
-3. számú táblázat[^73]
+3. számú táblázat[^75]
 
 Jelentés az Eximbank Zrt. által a központi költségvetés javára behajtott tőkekövetelésekről
 
@@ -150,21 +150,21 @@ Jelentés az Eximbank Zrt. által a központi költségvetés javára behajtott 
 
 | 4. | Összesen: |  |  |  |  |  |
 
-Dátum: …………………………………………………
+## Dátum: …………………………………………………
 
-Készítette: …………………………………………………
+## Készítette: …………………………………………………
 
-…………………………
+## …………………………
 
-…………………………
+## …………………………
 
-Cégszerű aláírás
+## Cégszerű aláírás
 
-4. számú táblázat[^74]
+4. számú táblázat[^76]
 
 Negyedéves jelentés az Eximbank Zrt. kamatkiegyenlítési igényéről és befizetési kötelezettségéről
 
-…..év…. negyedév
+...... év ...... negyedév
 
 |  | A | B | C | D |
 
@@ -182,7 +182,7 @@ Negyedéves jelentés az Eximbank Zrt. kamatkiegyenlítési igényéről és bef
 
 | 7 | Összesen: |  |  |  |
 
-| 8 | Összesen sorból: – 2 éves, és 2 éven túli futamidejű ügyletek |  |  |
+| 8 | Összesen sorból: – 2 éves és 2 éven túli futamidejű ügyletek |  |  |
 
 | 9 | – 2 éven belüli futamidejű ügyletek |  |  |
 
@@ -198,38 +198,40 @@ Negyedéves jelentés az Eximbank Zrt. kamatkiegyenlítési igényéről és bef
 
 | 15 | – egyéb export célú refinanszírozási hitelek |  |  |
 
-| 16 | – egyéb versenyképességet javító hitelek ebből: |  |  |
+| 16 | – versenyképességet javító hitelek – ebből: |  |  |
 
-| 17 | =befektetési célú hitelek |  |  |
+| 17 | = befektetési célú hitelek |  |  |
 
-| 18 | =beruházási célú hitelek |  |  |
+| 18 | = beruházási célú hitelek |  |  |
 
-| 19 | =forgóeszközhitelek |  |  |
+| 19 | = forgóeszközhitelek |  |  |
 
-| 20 | – egyéb versenyképességet javító refinanszírozási hitelek – ebből: |  |  |
+| 20 | – versenyképességet javító refinanszírozási hitelek – ebből: |  |  |
 
-| 21 | =befektetési célú refinanszírozási hitelek |  |  |
+| 21 | = befektetési célú refinanszírozási hitelek |  |  |
 
-| 22 | =beruházási célú refinanszírozási hitelek |  |  |
+| 22 | = beruházási célú refinanszírozási hitelek |  |  |
 
-| 23 | =refinanszírozott forgóeszközhitelek |  |  |
+| 23 | = refinanszírozott forgóeszközhitelek |  |  |
 
-| 24 | Összesen sorból: nemzeti érdekű finanszírozás | (Szerződésenként) |  |  |
+| 24 | – export előfinanszírozási hitelek – ebből: |  |  |
 
-Dátum: …………………………………………………
+| 25 | = export előfinanszírozó hitelek |  |  |
 
-Készítette: …………………………………………………
+| 26 | = export célú befektetési hitelek |  |  |
 
-…………………………
+| 27 | – export előfinanszírozási refinanszírozási hitelek |  |  |
 
-…………………………
+| 28 | Összesen sorból: nemzeti érdekű finanszírozás | (Szerződésenként) |  |
 
-Cégszerű aláírás
+| Készítette: ..................................................... |  | .................................................... |
 
-[^68]: Az 1. számú melléklet 1. számú táblázata az 54/2012. (XII. 29.) NGM rendelet 5. § (1) bekezdés a) pontjával megállapított szöveg.
-[^69]: Az 1. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, a 48/2014. (XII. 30.) NGM rendelet 3. §-a szerint módosított szöveg.
-[^70]: A 2. számú melléklet 1. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, az 54/2012. (XII. 29.) NGM rendelet 6. § d) pontja szerint módosított szöveg.
-[^71]: A 2. számú melléklet 1/b. számú táblázatát a 22/2011. (VI. 21.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 6. § d) és e) pontja szerint módosított szöveg.
-[^72]: A 2. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^73]: A 2. számú melléklet 3. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, a 48/2014. (XII. 30.) NGM rendelet 4. §-a szerint módosított szöveg.
-[^74]: A 2. számú melléklet 4. számú táblázata az 54/2012. (XII. 29.) NGM rendelet 5. § (1) bekezdés b) pontjával megállapított, a 20/2014. (IV. 30.) NGM rendelet 2. § 1. pontja, a 48/2014. (XII. 30.) NGM rendelet 4. §-a, a 22/2015. (VIII. 28.) NGM rendelet 7. § (1) bekezdése szerint módosított szöveg.
+|  |  | Cégszerű aláírás |
+
+[^70]: Az 1. számú melléklet 1. számú táblázata az 54/2012. (XII. 29.) NGM rendelet 5. § (1) bekezdés a) pontjával megállapított szöveg.
+[^71]: Az 1. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, a 48/2014. (XII. 30.) NGM rendelet 3. §-a szerint módosított szöveg.
+[^72]: A 2. számú melléklet 1. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, az 54/2012. (XII. 29.) NGM rendelet 6. § d) pontja szerint módosított szöveg.
+[^73]: A 2. számú melléklet 1/b. számú táblázatát a 22/2011. (VI. 21.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 6. § d) és e) pontja szerint módosított szöveg.
+[^74]: A 2. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^75]: A 2. számú melléklet 3. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, a 48/2014. (XII. 30.) NGM rendelet 4. §-a szerint módosított szöveg.
+[^76]: A 2. számú melléklet 4. számú táblázata a 23/2017. (VIII. 18.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,42 @@
-11. melléklet a 16/1998. (V. 20.) PM rendelethez[^86]
+## 4K26480M_4
+
+|  | A | B | C |
+
+| 1 | Hivatkozás* | Feltétel | Feltétel teljesült Igen |
+
+| 2 | A .............. nyilvántartási számú költségvetési hátterű garancia kibocsátásakor az alábbi nyilatkozatok álltak az Eximbank rendelkezésére és az alábbi feltételek teljesülését ellenőrizte, vagy az Eximbank az általa nyújtott refinanszírozási hitelből refinanszírozott származékos kölcsönszerződés biztosítékául kibocsátott garanciákhoz kapcsolódóan az alábbi nyilatkozatok beszerzésének és az alábbi feltételek teljesülésének ellenőrzését írta elő a finanszírozó hitelintézet számára |
+
+| 3 | Ptk. | A megbízó vagy az exportőr nevében aláíró személyek cégjegyzési, képviseleti jogosultságának megléte |  |
+
+| 4 |  | Esedékes garancia díj megfizetésre került |  |
+
+| 5 | Eximbank által vállalt garancia esetén az Eximbank saját nyilatkozata, vagy az Eximbank az általa nyújtott refinanszírozási hitelből refinanszírozott származékos kölcsönszerződés biztosítékául kibocsátott garancia esetén a finanszírozó hitelintézet nyilatkozatára is figyelemmel tett nyilatkozata |
+
+| 6 | KR 11. § (2) a) és 12.§ | A garancia megbízója vagy az exportőr nem volt nehéz pénzügyi helyzetben |  |
+
+| 7 | KR 3. § (1)–(3) | A megbízó vagy az exportőr a garancia kibocsátásakor a) nem állt csőd-, felszámolási eljárás vagy végelszámolás alatt, b) nem volt az állammal vagy az Eximbankkal szemben korábbi garancia beváltásából fennálló tartozása, c) nem volt lejárt esedékességű köztartozása |  |
+
+| 8 | KR 11. § (2) b) | A garanciavállalás terjedelme a garancia nyújtásának időpontjában megfelelően mérhető volt, azaz a garanciavállalás meghatározott ügylethez kapcsolódik, maximális összegre vonatkozik és időben korlátozott |  |
+
+| 9 | KR. 11. § (2) c) | Egy ügylettel kapcsolatosan az Eximbank által vállalt kereskedelmi garanciák együttes állománya legfeljebb az export szerződéses értékének 80%-át fedezi |  |
+
+| 10 | KR 11. (2) d) és (3) | A garanciadíj az Európai Unióállami támogatási szabályaival összeegyeztethető módon került megállapításra |  |
+
+| 11 |  | Az exportügylethez kapcsolódó szerződések és egyéb dokumentációk vizsgálata megtörtént |  |
+
+| 12 |  | A garancia lehívása formailag megfelelt a garancianyilatkozatban foglalt lehívási feltételeknek |  |
+
+| * Ptk. = a Polgári Törvénykönyvről szóló 2013. évi V. törvény |
+
+| KR = a Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák, valamint a deviza- és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes szabályairól szóló 430/2012. (XII. 29.) Korm. rendelet |
+
+| Dátum: .................................... |
+
+| Készítette: ................................ |
+
+| ................................................... Cégszerű aláírás | ................................................... Igazgatóság elnökének aláírása |
+
+11. melléklet a 16/1998. (V. 20.) PM rendelethez[^91]
 
 1. táblázat
 
@@ -66,6 +104,8 @@ A MEHIB Zrt. ellenőrzési listája a kárfizetés összegének költségvetésb
 
 lehívásához közép- és hosszú lejáratú ügyletek esetén
 
+## 5K19009P_2
+
 |  | A | B | C |
 
 | 1 | Hivatkozás* | Feltétel | Feltétel teljesült Igen |
@@ -122,6 +162,8 @@ lehívásához közép- és hosszú lejáratú ügyletek esetén
 
 | 27 | KR 20. § ÁSZF X. | Egyéb biztosítotti kötelezettségek teljesítése |  |
 
+## 5K19009P_3
+
 | 28 | Mentesülési okok vizsgálata |
 
 | 29 | K. 17A.-17/B. § ÁSZF XI. | A biztosított szerződéses kötelezettségeinek nem teljesítése |  |
@@ -163,6 +205,14 @@ lehívásához közép- és hosszú lejáratú ügyletek esetén
 A MEHIB Zrt. ellenőrzési listája a kárfizetés összegének költségvetésből történő
 
 lehívásához forgalmi típusú ügyleteknél
+
+| Dátum: .................................... |
+
+| Készítette: ................................ |
+
+| .............................................. Cégszerű aláírás | .............................................. Igazgatóság elnökének aláírása |
+
+## 5K19009P_4
 
 |  | A | B | C |
 
@@ -246,12 +296,6 @@ lehívásához forgalmi típusú ügyleteknél
 
 | KR = a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet |
 
-| Dátum: .................................... |
-
-| Készítette: ................................ |
-
-| .............................................. Cégszerű aláírás | .............................................. Igazgatóság elnökének aláírása |
-
 5. táblázat
 
 A MEHIB Zrt. ellenőrzési listája az általa kötött viszontbiztosítási szerződésből
@@ -320,12 +364,12 @@ eredően fizetendő összeg költségvetésből történő lehívásához
 
 | 21. | a viszontbiztosítási szerződés értelmében a Mehib Zrt.-re eső fizetési kötelezettség esedékessége |  |
 
+| ............................................................... Cégszerű aláírás | ............................................................................. Igazgatóság elnökének aláírása |
+
 312/2001. (XII. 28.) Korm. rendelet = a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet
 
 Dátum: ....................................
 
 Készítette: ................................
 
-| ............................................................... Cégszerű aláírás | ............................................................................. Igazgatóság elnökének aláírása |
-
-[^86]: A 11. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés b) pontja, a 20/2014. (IV. 30.) NGM rendelet 1. § 13. pontja és 2. § 3. pontja, a 22/2015. (VIII. 28.) NGM rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^91]: A 11. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés b) pontja, a 20/2014. (IV. 30.) NGM rendelet 1. § 13. pontja és 2. § 3. pontja, a 22/2015. (VIII. 28.) NGM rendelet 7. § (4) bekezdése szerint módosított szöveg.

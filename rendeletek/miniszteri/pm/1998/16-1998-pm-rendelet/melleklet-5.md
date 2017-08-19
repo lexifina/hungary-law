@@ -1,36 +1,38 @@
-## 1. táblázat a biztosítási kötelezettségvállalási állományról ... év .... negyedévében
+## 1. táblázat a biztosítási kötelezettségvállalási állományról ...... év ...... negyedévében
 
 |  | A | B | C | D |
 
-| 1. | Megnevezés | Érték | Árfolyam (Forint/USD) |
+| 1 | Megnevezés | Érték | Árfolyam (Forint/USD) |
 
 | millió Forint | ezer USD |
 
-| 2. | 1. Fedezetbe vett biztosítás |  |  |  |
+| 2 | Fedezetbe vett biztosítás |  |  |  |
 
-| 3. | 2. Szerződött biztosítás |  |  |  |
+| 3 | Szerződött biztosítás |  |  |  |
 
-| 4. | 3. Maximális kötelezettségvállalás („C” + „KKV”) |  |  |  |
+| 4 | Maximális kötelezettségvállalás (C+CF) |  |  |  |
 
-| 5. | 4. Tényleges biztosítás (1+2+3.) |  |  |  |
+| 5 | Mehib Zrt. által nyújtott viszontbiztosításokból eredő kötelezettségvállalás |  |  |  |
 
-| 6. | 5. Feltételes biztosítás |  |  |  |
+| 6 | Tényleges biztosítás (2+3+4+5) |  |  |  |
 
-| 7. | 6. Fennálló biztosítás (4+5.) |  |  |  |
+| 7 | Feltételes biztosítás |  |  |  |
 
-| 8. | 7. Vállalási lehetőség (globállimit – 6.) |  |  |  |
+| 8 | Fennálló biztosítás (6+7) |  |  |  |
 
-## „C” = Teljes forgalom típusú szállítói hitelbiztosítás teljesítés utáni időszakra, választható gyártási kockázat kiegészítéssel a Mehib Korm. rendelet alapján.
+| 9 | Viszontbiztósítók által viszontbiztosított követelésállomány |  |  |  |
 
-## „KKV” = Kis és középvállalkozások számára nyújtott teljes forgalmú exporthitel biztosítás teljesítés utáni időszakra, választható gyártási kockázat kiegészítéssel a Mehib Korm. rendelet alapján.
+| 10 | Vállalási lehetőség (globállimit–8+9) |  |  |  |
 
-## Dátum: ..............................................
+## C = Forgalmi típusú szállítói hitelbiztosítás teljesítés utáni időszakra, választható gyártási kockázat kiegészítéssel
 
-## Készítette: .........................................
+## CF = Forgalmi típusú faktoring biztosítás belföldi hitelintézetek vagy pénzügyi vállalkozások részére
 
-## ...........................................................
+| Dátum: .............................................. |  |  |
 
-## Cégszerű aláírás
+| Készítette: ......................................... |  | ........................................................... |
+
+|  |  | Cégszerű aláírás |
 
 ## 2. táblázat a fedezetbe vett biztosítási állományról
 
@@ -118,6 +120,6 @@
 
 ## Cégszerű aláírás
 
-5. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^80]
+5. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^85]
 
-[^80]: Az 5. számú melléklet a 22/2015. (VIII. 28.) NGM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^85]: Az 5. számú melléklet a 22/2015. (VIII. 28.) NGM rendelet 7. § (3) bekezdésével megállapított szöveg.

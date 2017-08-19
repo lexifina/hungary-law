@@ -1,5 +1,7 @@
 ## Nem-piacképes biztosításból eredő kárfizetési, viszontbiztosítási szerződésből eredő fizetési kötelezettségek várható állományának előrejelzése
 
+## 5K19009O_0
+
 |  | A | B | C | D | E | F | G | H |
 
 | 1. | Ügyfél | Ország | Ügylet, viszontbiztosítási szerződés száma | Kárfizetés | Árfolyam (Forint/ Deviza) | Kárfizetés |
@@ -26,6 +28,6 @@
 
 ## Cégszerű aláírás
 
-6. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^81]
+6. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^86]
 
-[^81]: A 6. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^86]: A 6. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (4) bekezdésével megállapított szöveg.
