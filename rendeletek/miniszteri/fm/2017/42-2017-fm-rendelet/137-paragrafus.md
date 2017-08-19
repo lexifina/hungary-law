@@ -1,1 +1,0 @@
-## „8/A. § Ahol e rendelet járási hivatalt említ, azon a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben megjelölt földügyi igazgatási hatáskörben eljáró járási hivatalokat kell érteni.”
