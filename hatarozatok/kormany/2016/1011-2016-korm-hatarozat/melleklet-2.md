@@ -42,7 +42,7 @@ A Versenyképes Közép-Magyarország Operatív Program nevesített kiemelt proj
 
 | 11a. |  |  |  |  |  |  |
 
-| 12. | VEKOP-7.5.1-16 | Szociális humán erőforrás fejlesztése | Szociális és Gyermekvédelmi Főigazgatóság | 1,68 | 2016 | A projekt célja a komplex szociális életpályamodell kidolgozása, a szociális és gyermekjóléti, gyermekvédelmi területen dolgozók felkészítése, vezetői képzések megvalósítása, továbbá magas minőségű szolgáltató-hálózat kialakítása. |
+| 12. | VEKOP-7.5.1-16 | Szociális humán erőforrás fejlesztése | Szociális és Gyermekvédelmi Főigazgatóság (konzorciumvezető), Semmelweis Egyetem | 1,68 | 2016 | A projekt célja a komplex szociális életpályamodell kidolgozása, a szociális és gyermekjóléti, gyermekvédelmi területen dolgozók felkészítése, vezetői képzések megvalósítása, továbbá magas minőségű szolgáltató-hálózat kialakítása. |
 
 | 13. | VEKOP-8.1.1-15 | Út a munkaerőpiacra | Nemzetgazdasági Minisztérium, Budapest Főváros Kormányhivatala, Pest Megyei Kormányhivatal | 17,80 | megtörtént 2015-ben | A projekttel szembeni szakmai elvárás, hogy járuljon hozzá a nyílt munkaerő-piaci foglalkoztatás bővítéséhez és a gazdaság munkaerőigényének kielégítéséhez személyre szabott, foglalkoztatást támogató eszközök révén. |
 
@@ -52,4 +52,4 @@ A Versenyképes Közép-Magyarország Operatív Program nevesített kiemelt proj
 
 | 16. |  |  |  |  |  |  |
 
-[^5]: A 2. melléklet az 1202/2016. (IV. 15.) Korm. határozat 4. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont b) alpontja és 2. pont k) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont b) alpontja és 3. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont b) alpontja és 4. pontja szerint módosított szöveg.
+[^5]: A 2. melléklet az 1202/2016. (IV. 15.) Korm. határozat 4. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont b) alpontja és 2. pont k) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont b) alpontja és 3. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont b) alpontja és 4. pontja, az 1558/2017. (VIII. 18.) Korm. határozat 1. pontja szerint módosított szöveg.
