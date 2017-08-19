@@ -12,15 +12,19 @@
 
 (5) Az e rendelet hatálya alá nem tartozó 1938—1945 közötti időszakban faji vagy nemzetiségi hovatartozás vagy a nácizmus elleni magatartásuk miatt deportált, munkaszolgálatot teljesített vagy egyéb személyes szabadság korlátozása alatt állt személyek kárpótlásáról külön jogszabály rendelkezik.
 
-(6)[^33] Aki e rendelet alapján társadalombiztosítási és munkajogi helyzetének rendezését még nem kérte, 2012. március 30-ig nyújthatja be kérelmét a kárpótlási hatósághoz. Amennyiben a jogosult elítélésének bíróság általi semmissé nyilvánítására még nem került sor, az ez alapján járó juttatás iránti kérelem legkésőbb a 2012. március 30-ig a bíróságnál kezdeményezett eljárás alapján hozott jogerős döntés kézhezvételétől számított 90 napon belül terjeszthető elő. A határidő elmulasztása jogvesztéssel jár, a mulasztás miatt igazolásnak nincs helye.
+(6)[^33]
 
 (7)[^34] E rendeletnek az egyes kárpótlással kapcsolatos kormányrendeletek módosításáról szóló 305/2013. (VII. 31.) Korm. rendelettel megállapított 2. § (1) és (2) bekezdésében meghatározott emelés összege 2013. január 1-jétől illeti meg a jogosultakat. Az emelést a 2013. szeptember havi ellátás összegére kell végrehajtani. Az emelés visszamenőleg járó összegét az emelésre jogosult személy halála esetén a nyugdíjfolyósító szerv kérelemre Tbny. 83. § (2) bekezdésében meghatározott személy részére folyósítja.
 
 (8)[^35] E rendeletnek az egyes kárpótlással kapcsolatos kormányrendeletek módosításáról szóló 316/2014. (XII. 12.)Korm. rendelettel megállapított 2. § (1)–(2a) bekezdésében meghatározott emelés összege 2014. november 1-jétől illeti meg a jogosultakat. Az emelés 2014. november és december hónapra eső összegét 2014. december hónapban kell a jogosultak részére folyósítani. Az emelés visszamenőleg járó összegét az emelésre jogosult személy halála esetén a nyugdíjfolyósító szerv kérelemre Tbny. 83. § (2) bekezdésében meghatározott személy részére folyósítja.
 
+(9)[^36] E rendeletnek a totalitárius diktatúrák áldozatai társadalombiztosítási és munkajogi helyzetének rendezéséről szóló egyes kormányrendeletek módosításáról szóló 236/2017. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr.) hatályon kívül helyezett rendelkezéseit a Módr. hatálybalépésekor[^37] folyamatban lévő, társadalombiztosítási és munkajogi helyzet rendezésére irányuló eljárásokban sem kell alkalmazni.
+
 [^30]: A 15. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1498. pontja hatályon kívül helyezte.
 [^31]: A 15. § (3) bekezdése a 305/2013. (VII. 31.) Korm. rendelet 1. § (4) bekezdés g) pontja szerint módosított szöveg.
 [^32]: A 15. § (4) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 1. § (2) bekezdése hatályon kívül helyezte.
-[^33]: A 15. § (6) bekezdését a 349/2011. (XII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^33]: A 15. § (6) bekezdését a 349/2011. (XII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 236/2017. (VIII. 18.) Korm. rendelet 1. § (2) bekezdése.
 [^34]: A 15. § (7) bekezdését a 305/2013. (VII. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^35]: A 15. § (8) bekezdését a 316/2014. (XII. 12.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^36]: A 15. § (9) bekezdését a 236/2017. (VIII. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^37]: A hatálybalépés időpontja 2017. augusztus 19.

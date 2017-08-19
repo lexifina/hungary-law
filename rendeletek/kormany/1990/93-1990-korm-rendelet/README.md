@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-93-20-2
 | 2015-04-01 | 1990-93-20-22.10 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2017-01-01 | 1990-93-20-22.11 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2017-02-14 | 1990-93-20-22.12 | 28/2017. (II. 13.) Korm. rendelet |
+| 2017-08-19 | 1990-93-20-22.13 | 349/2011. (XII. 30.) Korm. rendelet |
