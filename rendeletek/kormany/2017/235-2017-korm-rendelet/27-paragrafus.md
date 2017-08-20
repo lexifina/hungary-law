@@ -1,4 +1,4 @@
-## 26. §[^10]
+## 26. §[^11]
 
 ## 10. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 17. § és a 19. § 2018. január 1-jén lép hatályba.
 
-[^10]: A 26. § a 27. § (2) bekezdése alapján 2017. augusztus 26-án lép hatályba.
+[^11]: A 26. § a 27. § (2) bekezdése alapján 2017. augusztus 26-án lép hatályba.
