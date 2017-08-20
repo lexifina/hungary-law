@@ -36,12 +36,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az éves fejlesztési keret 2. mellékletében foglalt táblázat
-
-## a) D:65d mezőjében a „15,35” szövegrész helyébe a „17,74” szöveg,
-
-## b) D:65e mezőjében a „10,89” szövegrész helyébe a „16,21” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1557/2017. (VIII. 18.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
