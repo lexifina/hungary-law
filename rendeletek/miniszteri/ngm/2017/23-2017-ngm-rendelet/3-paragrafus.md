@@ -1,3 +1,0 @@
-## 2. § A 16/1998. (V. 20.) PM rendelet 6. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A Mehib Zrt.-t az általa nyújtott biztosítási és viszontbiztosítási tevékenységéből eredő kárkintlévőségek eredményes behajtása esetén a követelésekre befolyt és a költségvetés javára elszámolásra és befizetésre került tőke, kamat, késedelmi kamat összegének 5%-a illeti meg jutalékként. Devizában befolyt megtérülés esetén a jutalék alapjának forint értékét a Mehib Zrt. külföldi devizaszámláján vagy belföldi hitelintézetnél vezetett pénzforgalmi számláján történő jóváírások napjai közül a korábbi időpontban érvényes, az MNB által hivatalosan közzétett devizaárfolyamon állapítja meg.”
