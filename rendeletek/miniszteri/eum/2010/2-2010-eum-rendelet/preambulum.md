@@ -1,1 +1,0 @@
-A kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (4) bekezdés a) pont ac) alpontjában kapott felhatalmazás alapján, az egészségügyi miniszter feladat- és hatásköréről szóló 161/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörben eljárva a következőket rendelem el:
