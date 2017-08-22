@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-38-20-0
 | 2015-04-29 | 2003-38-20-0M.36 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2015-11-25 | 2003-38-20-0M.37 | 54/2015. (XI. 24.) EMMI rendelet |
 | 2017-04-01 | 2003-38-20-0M.38 | 54/2016. (XII. 30.) EMMI rendelet |
+| 2017-08-22 | 2003-38-20-0M.39 | 16/2017. (VIII. 7.) EMMI rendelet |
