@@ -1,0 +1,29 @@
+## 3. § A WIM eszköz gyártója, forgalmazója (a továbbiakban együtt: kérelmező), a WIM eszköz 1. mellékletben meghatározott követelményeknek való megfelelősége tanúsítása érdekében típusvizsgálati eljárást kezdeményez.
+
+4. § (1) A típusvizsgálat olyan eljárás, amely során a Kormány által rendeletben kijelölt mérésügyi hatóság (a továbbiakban: mérésügyi hatóság) megvizsgálja és igazolja, hogy a típusvizsgálatra átadott vagy bemutatott WIM eszköz típus (a továbbiakban: típusminta) megfelel-e az 1. mellékletben foglalt követelményeknek.
+
+(2) A típusvizsgálati eljárásra vonatkozó kérelemnek tartalmaznia kell:
+
+a) a kérelmező nevét és székhelyét; ha van meghatalmazott képviselő, annak nevét és lakcímét vagy székhelyét,
+
+b) a WIM eszköz, illetve részegységeinek gyártmányát, típusát vagy – ha van ilyen – a kereskedelmi megnevezését, amennyiben van, az uniós országbeli típusvizsgálati bizonyítványt és mérési jegyzőkönyvet,
+
+c) a WIM eszközre vonatkozó tervdokumentációt.
+
+(3) A tervdokumentációnak az értékelés szempontjából lényeges, a WIM eszköz szerkezetére, gyártására és működésére vonatkozó alábbi dokumentumokat kell tartalmaznia:
+
+a) a WIM eszköz általános leírását,
+
+b) az alkatrészek, részegységek vázlatrajzát, az áramkörök konstrukciós terveit, a gyártási, összeállítási és kapcsolási rajzokat,
+
+c) a WIM eszköz működéséhez és annak megértéséhez szükséges leírásokat és magyarázatokat,
+
+d) az alkalmazott szabványok, nemzetközi ajánlások jegyzékét és azon megoldások leírását, amelyek eltérnek ezek követelményeitől,
+
+e) a tervezési számítások és vizsgálatok eredményeit,
+
+f) a WIM eszközről készített vizsgálati jelentéseket, jegyzőkönyveket és
+
+g) a beépített alkatrészek, részegységek vizsgálati adatait.
+
+(4) A kérelmező a típusvizsgálati eljárás lefolytatásához ingyenesen típusmintát bocsát a mérésügyi hatóság rendelkezésére. A típusminta több típusváltozatot is reprezentálhat, ha a változatok megfelelőségéről a típusminta vizsgálatával meg lehet győződni.
