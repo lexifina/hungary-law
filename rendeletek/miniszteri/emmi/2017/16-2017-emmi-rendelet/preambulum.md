@@ -1,0 +1,3 @@
+A kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (4) bekezdés a) pont ac) alpontjában kapott felhatalmazás alapján,
+
+a 6–10. § és a 12–21. §, valamint az 1. melléklet tekintetében a kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (4) bekezdés h) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 48. § 3. pontjában meghatározott feladatkörömben eljárva – a 6–10. § és 12–21. §, valamint az 1. melléklet tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1. és 8. pontjában meghatározott feladatkörében eljáró földművelésügyi miniszterrel egyetértésben – a következőket rendelem el:
