@@ -1,25 +1,25 @@
-## 8/A. §[^9] A miniszter felkérheti a Bizottság képviselőjét a belső energiapiac működésével vagy az Európai Unió energiaellátásának biztonságával kapcsolatos tárgyalásokon megfigyelőként történő részvételre.
+## 8/B. §[^10] A 7–8/A. §-ban megállapított kötelezettségek nem vonatkoznak a vállalkozások közötti megállapodásokra.
 
 ## Záró rendelkezések
 
 9. § (1) E rendelet a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
-(2)[^10] Ez a rendelet
+(2)[^11] Ez a rendelet
 
-a)[^11]
+a)[^12]
 
 b) a kőolaj beszerzési költségeivel és a kőolajtermékek fogyasztói árával kapcsolatos információcsere és konzultáció közösségi eljárásáról szóló, 1999. április 22-i 1999/280/EK tanácsi határozatnak,
 
 c) a kőolaj beszerzési költségeivel és a kőolajtermékek fogyasztói árával kapcsolatos információcsere és konzultáció közösségi eljárásáról szóló 1999/280/EK tanácsi határozat végrehajtásáról szóló, 1999. július 26-i 1999/566/EK bizottsági határozatnak,
 
-d)[^12] a tagállamok és harmadik országok között kötött kormányközi energiaügyi megállapodásokra vonatkozó információcsere-mechanizmus létrehozásáról szóló, 2012. október 25-i 994/2012/EU európai parlamenti és tanácsi határozatnak
+d)[^13] a tagállamok és harmadik országok által kötött kormányközi energiaügyi megállapodásokra és nem kötelező erejű jogi eszközökre vonatkozó információcsere-mechanizmus létrehozásáról és a 994/2012/EU határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/684 európai parlamenti és tanácsi határozatnak
 
 a végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(3)[^13] Ez a rendelet a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek való megfelelést szolgálja.
+(3)[^14] Ez a rendelet a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek való megfelelést szolgálja.
 
-[^9]: A 8/A. §-t az 56/2013. (IX. 27.) NFM rendelet 1. §-a iktatta be.
-[^10]: A 9. § (2) bekezdése a 10/2013. (III. 27.) NFM rendelet 2. §-ával megállapított szöveg.
-[^11]: A 9. § (2) bekezdés a) pontját a 37/2015. (VI. 30.) NFM rendelet 3. §-a hatályon kívül helyezte.
-[^12]: A 9. § (2) bekezdés d) pontját az 56/2013. (IX. 27.) NFM rendelet 2. §-a iktatta be.
-[^13]: A 9. § (3) bekezdését a 10/2013. (III. 27.) NFM rendelet 2. §-a iktatta be.
+[^10]: A 8/B. §-t a 31/2017. (VIII. 17.) NFM rendelet 2. §-a iktatta be.
+[^11]: A 9. § (2) bekezdése a 10/2013. (III. 27.) NFM rendelet 2. §-ával megállapított szöveg.
+[^12]: A 9. § (2) bekezdés a) pontját a 37/2015. (VI. 30.) NFM rendelet 3. §-a hatályon kívül helyezte.
+[^13]: A 9. § (2) bekezdés d) pontját az 56/2013. (IX. 27.) NFM rendelet 2. §-a iktatta be, szövege a 31/2017. (VIII. 17.) NFM rendelet 3. §-ával megállapított szöveg.
+[^14]: A 9. § (3) bekezdését a 10/2013. (III. 27.) NFM rendelet 2. §-a iktatta be.
