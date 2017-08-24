@@ -1,6 +1,6 @@
 ## A JELENTETT ADATOK KONZISZTENCIÁJÁT BIZTOSÍTÓ SABLON JELENTÉS KÉSZÍTÉSÉHEZ
 
-## 1. Motorhajtóanyag – Egyedüli forgalmazók
+## 1. Motorhajtóanyag (kivéve villamos energia)– Egyedüli forgalmazók
 
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
@@ -36,7 +36,7 @@
 
 | 16 |  |
 
-## 2. Motorhajtóanyag – Közös forgalmazók
+## 2. Motorhajtóanyag (kivéve villamos energia)– Közös forgalmazók
 
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
@@ -79,6 +79,30 @@
 | 19 |  |  |  |  |  |  |  |
 
 | 20 |  |
+
+## 2A. Villamos energia
+
+|  | A | B | C | D | E | F | G |
+
+| 1 | Közös jelentéstétel (IGEN/NEM) | Ország | Forgalmazó1 | Energiatípus6 | Mennyiség10 | ÜHG-intenzitás | Csökkentés a 2010-es átlaghoz képest |
+
+| 2 |  |  |  |  | Energia alapján |  |  |
+
+| 3 | NEM |  |  |  |  |  |  |
+
+|  | A | B | C | D | E | F | G |
+
+| 1 | Forgalmazói csoport adatai |
+
+| 2 |  | Ország | Forgalmazó1 | Energiatípus6 | Mennyiség10 | ÜHG-intenzitás | Csökkentés a 2010-es átlaghoz képest |
+
+| 3 |  |  |  |  | Energia alapján |  |  |
+
+| 4 | IGEN |  |  |  |  |  |  |
+
+| 5 | IGEN |  |  |  |  |  |  |
+
+| 6 |  | Részösszeg |  |  |  |  |  |
 
 ## 3. Származási hely – Egyedüli forgalmazó7
 
@@ -164,15 +188,17 @@
 
 ## 4. Az üvegházhatásúgáz-intenzitás az 5. melléklet I. rész 3. pont e) alpontjában van meghatározva.
 
-## 5. A termelésoldali kibocsátáscsökkentés az 5. melléklet I. rész 3. pont d) alpontjában van meghatározva; a jelentéstételi előírások az 5. melléklet II. rész 1. pontjában vannak meghatározva.
+## 5. A termelésoldali kibocsátáscsökkentés az 5. melléklet I. rész 4.4. alpontjában van meghatározva; a jelentéstételi előírások az 5. melléklet II. rész 1. pontjában vannak meghatározva.
 
-## 6. A motorhajtóanyag-típusok és a megfelelő KN-kódok az 5. melléklet I. rész 3. pont b) alpontjában vannak meghatározva.
+## 6. A motorhajtóanyag-típusok és a megfelelő KN-kódok az 5. melléklet I. rész 4.2. alpontjában vannak meghatározva.
 
 ## 7. A származási hely az 5. melléklet II. rész 2. és 4. pontjában van meghatározva.
 
 ## 8. A beszerzési hely az 5. melléklet II. rész 3. és 4. pontjában van meghatározva.
 
-## 9. A fogyasztott energia (motorhajtóanyag és villamos energia) teljes mennyisége.
+## 9. A fogyasztott energia (motorhajtóanyag) teljes mennyisége.
+
+## 10. A villamos energia mennyisége az 5. melléklet II. részének 7. pontja szerint kerül meghatározásra.
 
 7. melléklet a 17/2017. (V. 26.) NFM rendelethez
 

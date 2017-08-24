@@ -22,7 +22,7 @@ b) az Európai Unió más tagállamában szabad forgalomba bocsátott motorhajt�
 
 8. meghatalmazott képviselő: a 765/2008/EK rendelet 2. cikk 4. pontja szerinti meghatalmazott képviselő;
 
-9. motorhajtóanyag: a motorbenzin, a dízelgázolaj, a biodízel, az E85, a sűrített földgáz és a cseppfolyósított szénhidrogéngáz;
+9.[^1] motorhajtóanyag: a motorbenzin, a dízelgázolaj, a biodízel, az E85, a sűrített földgáz és a cseppfolyósított szénhidrogéngáz, a közlekedésben felhasznált villamos energia;
 
 10. motorhajtóanyagokra vonatkozó kiindulási érték: motorhajtóanyagokra vonatkozó, fosszilis motorhajtóanyagokból származó, teljes életciklusra és energiaegységre számított, 2010. évi üvegházhatású gázkibocsátáson alapuló kiindulási érték;
 
@@ -43,3 +43,5 @@ d) kinyerése bányászati kitermeléssel vagy termikusan segített gravitáció
 (2) A motorbenzin, valamint a bioüzemanyag fogalmát a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben (a továbbiakban: Büat.), az E85 és a KN-kód fogalmát a Jöt.-ben, továbbá a biodízel fogalmát a fenntartható bioüzemanyag-termelés követelményeiről és igazolásáról szóló 343/2010. (XII. 28.) Korm. rendeletben (a továbbiakban: Büat. Vhr.) meghatározottak szerint kell értelmezni.
 
 (3) Ahol e rendelet szabvány alkalmazását írja elő, azon a szabvánnyal egyenértékű más műszaki megoldást is érteni kell.
+
+[^1]: A 2. § 9. pontja a 31/2017. (VIII. 17.) NFM rendelet 6. § a) pontja szerint módosított szöveg.

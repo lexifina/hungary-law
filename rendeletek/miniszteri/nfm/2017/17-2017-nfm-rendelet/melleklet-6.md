@@ -42,6 +42,12 @@
 
 ## 4.3.2.4. Az E85 benzin-etanol keverék mennyiségét a 443/2009/EK európai parlamenti és tanácsi rendelet 6. cikkének alkalmazásában külön motorhajtóanyagként kell számítani.
 
+## 4.3.3. A villamosenergia-fogyasztás mennyisége
+
+## 4.3.3.1. Az elektromos gépjárművek által fogyasztott villamosenergia-mennyiség, amely érintett energiamennyiséget a forgalmazó az állami adó- és vámhatóság részére az alábbi képlet szerint jelenti be:
+
+## Villamosenergia-fogyasztás = megtett út (km) × villamosenergia-fogyasztási hatékonyság (MJ/km);
+
 ## 4.4. Termelésoldali kibocsátáscsökkentés (UER)
 
 ## A „termelésoldali kibocsátáscsökkentés” a termelésoldali üvegházhatásúgázkibocsátás-csökkentésnek a forgalmazó javára jóváírandó, gCO2eq egységben kifejezett értéke, amennyiben az alábbi feltételeknek megfelelően számszerűsítik és jelentik be:
@@ -78,7 +84,7 @@
 
 ## 4.5. A „GHGix” az „x” motorhajtóanyag egy egységére jutó, gCO2eq/MJ egységben kifejezett üvegházhatásúgáz-intenzitás. A forgalmazónak az egyes motorhajtóanyagok egységnyi üvegházhatásúgáz-intenzitását az alábbi módon kell meghatároznia:
 
-## 4.5.1. a nem biológiai eredetű motorhajtóanyagok üvegházhatásúgáz-intenzitása az e melléklet 2. részének 5. pontjában található táblázat utolsó oszlopában felsorolt motorhajtóanyag-típusokra vonatkozó „súlyozott, teljes életciklusra számított üvegházhatásúgáz-intenzitás”;
+## 4.5.1. a nem biológiai eredetű motorhajtóanyagok üvegházhatásúgáz-intenzitása az e melléklet II. részének 5. pontjában található táblázat utolsó oszlopában felsorolt motorhajtóanyag-típusokra vonatkozó „súlyozott, teljes életciklusra számított üvegházhatásúgáz-intenzitás”;
 
 ## 4.5.2. a bioüzemanyagok üvegházhatásúgáz-intenzitása;
 
@@ -88,7 +94,19 @@
 
 ## A fosszilis motorhajtóanyagokkal egyidejűleg feldolgozott bioüzemanyagok üvegházhatásúgáz-intenzitásának tükröznie kell a bioüzemanyagok feldolgozás utáni állapotát.
 
-## 4.6. Az „AF” a hajtáslánc hatékonyságára vonatkozó kiigazítási együttható, amelynek értéke belső égésű motor esetében 1.
+## 4.5.4. a villamos energia a II. rész 7. pontjában leírtak alapján számítandó.
+
+## 4.6. Az „AF” a hajtáslánc hatékonyságára vonatkozó kiigazítási együtthatókat jelöli:
+
+|  |  | A | B |
+
+|  | 1 | Jellemző átalakítási technológia | Hatékonysági együttható |
+
+|  | 2 | Belső égésű motor | 1 |
+
+|  | 3 | Akkumulátoros, elektromos hajtáslánc | 0,4 |
+
+|  | 4 | Hidrogén-üzemanyagcellás elektromos hajtáslánc | 0,4 |
 
 ## II. Forgalmazói jelentéstétel a bioüzemanyagoktól eltérő motorhajtóanyagok tekintetében
 
@@ -1426,4 +1444,10 @@
 
 |  | 621 | Egyéb | Szén | n.a. | n.a. |
 
-6. melléklet a 17/2017. (V. 26.) NFM rendelethez
+## 7. Villamos energia
+
+## A forgalmazók a villamos energiára vonatkozó üvegházhatásúgáz-intenzitás (gCO2eq/MJ) értékeit a jelentett adatokból kiindulva az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információk nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet alapján határozzák meg.
+
+6. melléklet a 17/2017. (V. 26.) NFM rendelethez[^6]
+
+[^6]: A 6. melléklet a 31/2017. (VIII. 17.) NFM rendelet 6. § c)–e) pontja és 7. § (2) bekezdése szerint módosított szöveg.
