@@ -1,7 +1,0 @@
-## 1. § A kőolaj és kőolajtermékekre vonatkozó nemzetközi adatszolgáltatásról szóló 20/2004. (II. 27.) GKM rendelet (a továbbiakban: R1.) 8. §-a helyébe a következő rendelkezés lép:
-
-## „8. § (1) A miniszter a belső energiapiac működésével vagy az Európai Unió energiaellátásának biztonságával kapcsolatos kormányközi megállapodás megkötésének vagy e tárgykörben kötött kormányközi megállapodás módosításának szándékáról a harmadik országgal vagy a nemzetközi szervezettel folytatott tárgyalások megkezdése előtt tájékoztatja a Bizottságot, valamint rendszeres tájékoztatást küld a Bizottságnak a tárgyalások előrehaladásáról, és ezzel összhangban gondoskodik a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 116/A. § (4) bekezdése szerinti információk megküldéséről.
-
-## (2) A tárgyalások lezárását megelőzően a miniszter előzetes véleményezés céljából az (EU) 2017/684 határozat 5. cikk (1) és (2) bekezdésében foglalt időtartamra megküldi a Bizottság részére a megállapodás vagy a módosítás tervezetét és azok összes mellékletét, valamint a megállapodásokban hivatkozott egyéb szövegeket az (EU) 2017/684 határozat 3. cikkével összhangban.
-
-## (3) A miniszter a megkötött vagy a módosított megállapodás ratifikációjakor a megállapodást vagy a módosítást, annak valamennyi mellékletével együtt, továbbá a Bizottság (2) bekezdés szerinti véleményében foglaltaktól való eltérés esetén az eltérés alapjául szolgáló indokokat megküldi a Bizottság részére.”
