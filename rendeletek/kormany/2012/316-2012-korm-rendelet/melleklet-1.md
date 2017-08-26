@@ -1,6 +1,6 @@
-## 11. §[^27]
+## 11. §[^29]
 
-1. melléklet a 316/2012. (XI. 13.) Korm. rendelethez[^28]
+1. melléklet a 316/2012. (XI. 13.) Korm. rendelethez[^30]
 
 ## A Főigazgatóság Központi szervének közvetlen fenntartásában lévő intézmények
 
@@ -28,5 +28,5 @@
 
 1032 Budapest, Szőlő utca 60.
 
-[^27]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: Az 1. melléklet a 448/2016. (XII. 19.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^29]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: Az 1. melléklet a 448/2016. (XII. 19.) Korm. rendelet 45. §-ával megállapított szöveg.

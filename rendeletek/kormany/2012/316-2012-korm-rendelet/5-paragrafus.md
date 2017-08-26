@@ -66,9 +66,11 @@ c) a szociális, gyermekjóléti szolgáltatásokban és gyermekvédelmi ellát�
 
 d) az a)–c) pont szerinti feladatokhoz kapcsolódóan támogatást nyújt.
 
-(6)[^16] A Főigazgatóság ellátja a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendeletben számára meghatározott feladatokat.
+(5a)[^16] A Főigazgatóság továbbképzések minősítésével kapcsolatos feladatokat ellátó szervezeti egységének vezetőjét és ügyintézőit a továbbképzések minősítése során a Főigazgatóság főigazgatója vagy más felettes vezetője nem utasíthatja, kivéve, ha a továbbképzések minősítésével kapcsolatos feladatokat ellátó szervezeti egység vezetőjét vagy ügyintézőjét feladat ellátására vagy mulasztás pótlására utasítják.
 
-(7)[^17] A Főigazgatóság ellátja
+(6)[^17] A Főigazgatóság ellátja a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendeletben számára meghatározott feladatokat.
+
+(7)[^18] A Főigazgatóság ellátja
 
 a) a fejlesztő foglalkoztatás pályáztatásával, finanszírozásával, valamint a szociális intézményi foglalkoztatással és a szociális foglalkoztatás finanszírozásával,
 
@@ -76,13 +78,15 @@ b) az utcai szociális munka, az alacsonyküszöbű ellátás, a krízisközpont
 
 ## kapcsolatos feladatokat.
 
-(8)[^18] A Főigazgatóság ellátja a Szociálpolitikai Tanács és Kollégiumai működésével kapcsolatos titkársági teendőket.
+(8)[^19] A Főigazgatóság ellátja a Szociálpolitikai Tanács és Kollégiumai, valamint a Szociális Ágazati Érdekegyeztető Fórum működésével kapcsolatos titkársági teendőket.
 
-(9)[^19] A Főigazgatóság
+(9)[^20] A Főigazgatóság
 
 a) működteti a Szociális Ágazati Portált,
 
 b) közreműködik az országos nyilvántartási rendszerek működtetésében és fejlesztésében.
+
+(10)[^21] A Főigazgatóság igazolja, hogy a szenvedélybetegek közösségi alapellátását, alacsonyküszöbű ellátását, nappali ellátását vagy számukra megelőző-felvilágosító szolgáltatást végző szociális szolgáltatók, intézmények, fenntartók szenvedélybetegség megelőzése érdekében végzett célzott prevenciós programjai megfelelnek-e a Nemzeti Drogellenes Stratégiában foglalt céloknak és összhangban állnak-e a célzott prevenciós célú hazai pályázatokkal.
 
 [^9]: A 4/A. §-t a 89/2013. (III. 28.) Korm. rendelet 6. §-a iktatta be.
 [^10]: A 3. alcím címét a 221/2015. (VIII. 7) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
@@ -91,7 +95,9 @@ b) közreműködik az országos nyilvántartási rendszerek működtetésében �
 [^13]: Az 5. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 211. § (2) bekezdésével megállapított szöveg.
 [^14]: Az 5. § (4) bekezdését a 253/2016. (VIII. 24.) Korm. rendelet 4. §-a iktatta be.
 [^15]: Az 5. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 211. § (3) bekezdése iktatta be.
-[^16]: Az 5. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 211. § (3) bekezdése iktatta be.
-[^17]: Az 5. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 211. § (3) bekezdése iktatta be.
-[^18]: Az 5. § (8) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 211. § (3) bekezdése iktatta be.
-[^19]: Az 5. § (9) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 211. § (3) bekezdése iktatta be.
+[^16]: Az 5. § (5a) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 25. § (1) bekezdése iktatta be.
+[^17]: Az 5. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 211. § (3) bekezdése iktatta be.
+[^18]: Az 5. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 211. § (3) bekezdése iktatta be.
+[^19]: Az 5. § (8) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 211. § (3) bekezdése iktatta be, szövege a 235/2017. (VIII. 18.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^20]: Az 5. § (9) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 211. § (3) bekezdése iktatta be.
+[^21]: Az 5. § (10) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 25. § (3) bekezdése iktatta be.
