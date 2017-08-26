@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-63-20-2
 | 2017-01-01 | 2006-63-20-22.45 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2006-63-20-22.46 | 326/2006. (XII. 23.) Korm. rendelet |
 | 2017-04-04 | 2006-63-20-22.47 | 352/2012. (XII. 13.) Korm. rendelet |
+| 2017-08-26 | 2006-63-20-22.48 | 235/2017. (VIII. 18.) Korm. rendelet |

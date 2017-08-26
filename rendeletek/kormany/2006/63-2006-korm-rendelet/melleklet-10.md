@@ -164,11 +164,13 @@
 
 ## 4.3.1.* életvitelszerűen a lakóhelyemen/a tartózkodási helyemen élek (a megfelelő rész aláhúzandó),
 
-## 4.3.2. a családomban élő közeli hozzátartozóként feltüntetett személyek életvitelszerűen az enyémmel megegyező lakcímen élnek,
+## 4.3.2. településszintű lakóhellyel rendelkezem [akkor kell aláhúznia, ha az Ön lakóhelyeként a polgárok személyi adatainak és lakcímének nyilvántartásában csak a bejelentett település neve (a fővárosban a kerület megjelölése) szerepel],
 
-## 4.3.3. a közölt adatok a valóságnak megfelelnek.
+## 4.3.3. a jelen kérelemben a családomban élő közeli hozzátartozóként feltüntetett személyek életvitelszerűen az enyémmel megegyező lakcímen élnek,
 
-## (* Ezt a nyilatkozatot csak abban az esetben kell megtenni, ha egyidejűleg bejelentett lakó- és tartózkodási hellyel is rendelkezik.)
+## 4.3.4. a közölt adatok a valóságnak megfelelnek.
+
+## (* Ezt a nyilatkozatot csak abban az esetben kell megtennie, ha Ön egyidejűleg bejelentett lakó- és tartózkodási hellyel is rendelkezik.)
 
 ## 4.4. Tudomásul veszem, hogy a kérelemben közölt adatok valódiságát a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 10. § (7) bekezdése alapján a szociális hatáskört gyakorló szerv – a Nemzeti Adó- és Vámhivatal hatáskörrel és illetékességgel rendelkező megyei (fővárosi) adó- és vámigazgatósága útján – ellenőrizheti.
 

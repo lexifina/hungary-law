@@ -104,9 +104,11 @@
 
 ## Felelősségem tudatában kijelentem, hogy
 
-## 3.3.1.* életvitelszerűen a lakóhelyemen/a tartózkodási helyemen élek (a megfelelő rész aláhúzandó), és
+## 3.3.1.* életvitelszerűen a lakóhelyemen/a tartózkodási helyemen élek (a megfelelő rész aláhúzandó),
 
-## 3.3.2. a kérelemben közölt adatok a valóságnak megfelelnek.
+## 3.3.2. településszintű lakóhellyel rendelkezem, és a kérelem 1.2.6. alpontjában feltüntetett házastársam/élettársam életvitelszerűen velem él [akkor kell aláhúznia, ha az Ön lakóhelyeként a polgárok személyi adatainak és lakcímének nyilvántartásában csak a bejelentett település neve (a fővárosban a kerület megjelölése) szerepel],
+
+## 3.3.3. a kérelemben közölt adatok a valóságnak megfelelnek.
 
 ## 3.4. (A kérelmező házastársának/élettársának részéről:)
 
@@ -118,7 +120,7 @@
 
 ## Kelt: …………………………………………………., ……………………………………….
 
-## 6K82408M_1
+## 7K18484N_1
 
 | kérelmező aláírása | kérelmező |
 
@@ -278,7 +280,9 @@ Felelősségem tudatában kijelentem, hogy
 
 3.1.1.** életvitelszerűen a lakóhelyemen/a tartózkodási helyemen élek (a megfelelő rész aláhúzandó),
 
-3.1.2. az adatlapon közölt adatok a valóságnak megfelelnek.
+3.1.2. településszintű lakóhellyel rendelkezem, és a kérelem 1.2.6. alpontjában feltüntetett házastársam/élettársam életvitelszerűen velem él [akkor kell aláhúznia, ha az Ön lakóhelyeként a polgárok személyi adatainak és lakcímének nyilvántartásában csak a bejelentett település neve (a fővárosban a kerület megjelölése) szerepel],
+
+3.1.3. az adatlapon közölt adatok a valóságnak megfelelnek.
 
 3.2. (A kérelmező házastársának/élettársának részéről:)
 
@@ -294,7 +298,7 @@ Felelősségem tudatában kijelentem, hogy
 
 Kelt: ,......................................................
 
-## 6K82408N_1
+## 7K18484O_1
 
 | kérelmező aláírása | kérelmező |
 
@@ -354,4 +358,4 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 4.2.9. A jövedelemről a kérelemhez mellékelni kell – a családtámogatási törvény szerint folyósított családtámogatási ellátás kivételével – a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-[^236]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 125. § b) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés m) pontja, 28. § s) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés t) pontja, a 417/2015. (XII. 23.) Korm. rendelet 29. § a) pontja, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés b) pontja, a 217/2016. (VII. 22.) Korm. rendelet 12. § b) pontja, a 440/2016. (XII. 16.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^236]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 125. § b) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés m) pontja, 28. § s) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés t) pontja, a 417/2015. (XII. 23.) Korm. rendelet 29. § a) pontja, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés b) pontja, a 217/2016. (VII. 22.) Korm. rendelet 12. § b) pontja, a 440/2016. (XII. 16.) Korm. rendelet 9. §-a, a 235/2017. (VIII. 18.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.

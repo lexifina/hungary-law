@@ -136,65 +136,65 @@ III. Nyilatkozatok
 
 1. Felelősségem tudatában kijelentem [a megfelelő aláhúzandó, és a b) pont szerinti esetben kitöltendő], hogy
 
-a) pénzforgalmi számlával nem rendelkezem, vagy
+a) fizetési számlával nem rendelkezem vagy
 
-b) az alábbi pénzforgalmi számlával rendelkezem (valamennyi megjelölendő):
+b) az alábbi fizetési számlával rendelkezem (valamennyi megjelölendő):
 
-|  | – Pénzforgalmi szolgáltató neve: |
+– Pénzforgalmi szolgáltató neve:
 
-|  | pénzforgalmi számla száma: |
+fizetési számla száma:
 
-|  | pénzforgalmi számlán kezelt összeg |
+fizetési számlán kezelt összeg
 
-|  | – Pénzforgalmi szolgáltató neve: |
+– Pénzforgalmi szolgáltató neve:
 
-|  | pénzforgalmi számla száma: |
+fizetési számla száma:
 
-|  | pénzforgalmi számlán kezelt összeg |
+fizetési számlán kezelt összeg
 
-|  | – Pénzforgalmi szolgáltató neve: |
+– Pénzforgalmi szolgáltató neve:
 
-|  | pénzforgalmi számla száma: |
+fizetési számla száma:
 
-|  | pénzforgalmi számlán kezelt összeg |
+fizetési számlán kezelt összeg
 
-|  | – Pénzforgalmi szolgáltató neve: |
+– Pénzforgalmi szolgáltató neve:
 
-|  | pénzforgalmi számla száma: |
+fizetési számla száma:
 
-|  | pénzforgalmi számlán kezelt összeg |
+fizetési számlán kezelt összeg
 
 2. Felelősségem tudatában kijelentem [a megfelelő aláhúzandó, és a b) pont szerinti esetben kitöltendő], hogy a velem együttélő közeli hozzátartozóm
 
-a) pénzforgalmi számlával nem rendelkezik, vagy
+a) fizetési számlával nem rendelkezik vagy
 
-b) az alábbi pénzforgalmi számlával rendelkezik (valamennyi megjelölendő):
+b) az alábbi fizetési számlával rendelkezik (valamennyi megjelölendő):
 
-|  | – Pénzforgalmi szolgáltató neve: |
+– Pénzforgalmi szolgáltató neve:
 
-|  | pénzforgalmi számla száma: |
+fizetési számla száma:
 
-|  | pénzforgalmi számlán kezelt összeg |
+fizetési számlán kezelt összeg
 
-|  | – Pénzforgalmi szolgáltató neve: |
+– Pénzforgalmi szolgáltató neve:
 
-|  | pénzforgalmi számla száma: |
+fizetési számla száma:
 
-|  | pénzforgalmi számlán kezelt összeg |
+fizetési számlán kezelt összeg
 
-|  | – Pénzforgalmi szolgáltató neve: |
+– Pénzforgalmi szolgáltató neve:
 
-|  | pénzforgalmi számla száma: |
+fizetési számla száma:
 
-|  | pénzforgalmi számlán kezelt összeg |
+fizetési számlán kezelt összeg
 
-|  | – Pénzforgalmi szolgáltató neve: |
+– Pénzforgalmi szolgáltató neve:
 
-|  | pénzforgalmi számla száma: |
+fizetési számla száma:
 
-|  | pénzforgalmi számlán kezelt összeg |
+fizetési számlán kezelt összeg
 
-3. Tudomásul veszem, hogy az ellátásra való jogosultság feltételeinek megállapítása érdekében a hatóság a fentiekben megjelölt pénzforgalmi szolgáltató felé megkereséssel élhet a pénzforgalmi számlán kezelt összeg tekintetében.
+3. Tudomásul veszem, hogy az ellátásra való jogosultság feltételeinek megállapítása érdekében a hatóság a fentiekben megjelölt pénzforgalmi szolgáltató felé megkereséssel élhet a fizetési számlán kezelt összeg tekintetében.
 
 4. Kijelentem, hogy a fenti adatok a valóságnak megfelelnek. Hozzájárulok a nyilatkozatban szereplő adatoknak a szociális igazgatási eljárásban történő felhasználásához, kezeléséhez.
 
@@ -203,4 +203,4 @@ Kelt: .......... év .............................. hó ............ nap
 | ................................................ aláírás |
 
 [^233]: A 68. §-t a 70/2015. (III. 30.) Korm. rendelet 76. § (11) bekezdése iktatta be.
-[^234]: Az 1. számú melléklet a 116/2016. (VI. 6.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^234]: Az 1. számú melléklet a 116/2016. (VI. 6.) Korm. rendelet 23. § (1) bekezdésével megállapított és a 235/2017. (VIII. 18.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
