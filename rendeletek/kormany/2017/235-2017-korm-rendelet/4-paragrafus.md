@@ -1,5 +1,1 @@
-## 1–3. §[^1]
-
 ## 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet módosítása
-
-[^1]: Az 1–3. § a 27. § (2) bekezdése alapján 2017. augusztus 26-án lép hatályba.
