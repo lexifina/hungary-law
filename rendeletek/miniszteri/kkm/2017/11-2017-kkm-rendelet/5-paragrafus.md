@@ -1,0 +1,3 @@
+5. § (1) A jogalap nélkül folyósított deviza-illetménypótlék az érintett naptári félév első napján érvényes jegybanki alapkamattal megegyező mértékű kamattal megnövelt, a jogalap nélkül folyósított deviza-illetménypótlékkal érintett tárgyhónaptól számított összegét a kihelyezett köteles a hivatalos felszólítását követő öt munkanapon belül visszautalni a kihelyező szerv részére.
+
+(2) A jogalap nélküli kifizetés esetén a kihelyező szerv e tény felismerését követő 10 munkanapon belül köteles belső fegyelmi eljárást indítani. Ha a fegyelmi eljárás során a kihelyezett részéről szándékosság állapítható meg, a kihelyező szerv a kihelyezettet azonnal berendelheti, és az illetékes hatóságnál feljelentést tesz.
