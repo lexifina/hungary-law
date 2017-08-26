@@ -26,10 +26,15 @@ h) az utaspanaszok bejelentésének és kezelésének részletes szabályait,
 
 i) a járulékos szolgáltatások igénybevételének részletes szabályait.
 
-(5) Az üzletszabályzat készítője annak tervezetét a hivatalos honlapján közzéteszi. A közzétételt követő 15 napon belül arra bárki észrevételt tehet.
+(5)[^6] Az üzletszabályzat készítője annak tervezetét a hivatalos honlapján közzéteszi. Az üzletszabályzat módosítása esetén a módosításokat és a módosításokkal egységes szerkezetet is közzé kell tenni. A közzétételt követő 15 napon belül arra bárki észrevételt tehet.
 
-(6) Az üzletszabályzat készítője a tervezetet a közlekedési hatóságnak jóváhagyásra benyújtja. A kérelemhez csatolja az üzletszabályzatra érkezett, el nem fogadott észrevételeket, valamint az el nem fogadás indokolását.
+(6)[^7] Az üzletszabályzat készítője a tervezetet – az üzletszabályzat módosítása esetén a módosításokat és a módosításokkal egységes szerkezetet is – a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet szerinti autóbuszos piacfelügyeleti és utasjogi hatóságnak (a továbbiakban: autóbuszos hatóság) jóváhagyásra benyújtja. A kérelemhez csatolja az üzletszabályzat tervezetéhez érkezett és el nem fogadott észrevételeket, valamint az el nem fogadás indokolását, továbbá nyilatkozik az elfogadott észrevételekről.
 
-(7) Az üzletszabályzatot annak készítője – a közlekedési hatóság jóváhagyásától számított nyolc napon belül – hivatalos honlapján közzéteszi.
+(7)[^8] Az üzletszabályzatot annak készítője – az autóbuszos hatóság jóváhagyásától számított nyolc napon belül – hivatalos honlapján közzéteszi.
 
-(8) Nem szükséges a közlekedési hatóság jóváhagyása az üzletszabályzat jogszabályi rendelkezéseken alapuló, valamint az utasok jogait nem érintő módosítása esetén. Az üzletszabályzat egyéb módosításának jóváhagyása esetén a közlekedési hatóság az üzletszabályzat jóváhagyására vonatkozó szabályok szerint jár el.
+(8)[^9] Nem szükséges az autóbuszos hatóság jóváhagyása az üzletszabályzat jogszabályi rendelkezésen vagy közszolgáltatási szerződésen alapuló, valamint az utasok jogait nem érintő módosítása esetén, de az üzletszabályzat készítője a módosítást annak hatálybalépését 8 nappal megelőzően köteles az autóbuszos hatóságnak megküldeni.
+
+[^6]: A 10. § (5) bekezdése a 226/2017. (VIII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 10. § (6) bekezdése a 226/2017. (VIII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 10. § (7) bekezdése a 226/2017. (VIII. 11.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^9]: A 10. § (8) bekezdése a 226/2017. (VIII. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

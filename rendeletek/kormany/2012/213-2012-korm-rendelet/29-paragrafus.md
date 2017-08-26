@@ -1,5 +1,6 @@
-## 28. §[^8]
+## 28. §[^16] E rendeletnek az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendeletben nem szabályozott részletes feltételeire, az abban foglaltak alóli mentességekre, az autóbuszos személyszállítási szolgáltatási feltételekre, valamint a közúti személyszállítási üzletszabályzatra vonatkozó szabályokról szóló 213/2012. (VII. 30.) Korm. rendelet módosításáról szóló 226/2017. (VIII. 11.) Korm. rendelettel megállapított 26/A. §-ában foglalt kötelezettségnek az érintett szolgáltatók 2017. október 1-jéig kötelesek eleget tenni.
 
-29. § E rendelet – az Sztv.-vel, valamint a Nemzeti Közlekedési Hatóságról szóló rendelettel együtt – az autóbusszal közlekedő utasok jogairól és a 2006/2004/EK rendelet módosításáról szóló, 2011. február 16-i 181/2011/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+29. §[^17] Ez a rendelet – az Sztv.-vel, valamint a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelettel együtt – az autóbusszal közlekedő utasok jogairól és a 2006/2004/EK rendelet módosításáról szóló, 2011. február 16-i 181/2011/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^8]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 226/2017. (VIII. 11.) Korm. rendelet 5. §-a iktatta be.
+[^17]: A 29. § a 226/2017. (VIII. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
