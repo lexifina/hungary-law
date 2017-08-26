@@ -36,6 +36,8 @@ b) szöveges üzenetközvetítési szolgáltatás igénybevételével a nyilván
 
 (4)[^214] A lakcímbejelentés (1) bekezdés szerinti elutasításáról, illetve a lakcím érvénytelenségének megállapításáról a jegyző, illetve a járási hivatal a bevándorolt, illetve letelepedett jogállású polgár, valamint a szabad mozgás és tartózkodás jogával rendelkező személy esetén haladéktalanul értesíti az illetékes területi idegenrendészeti hatóságot.
 
+(5)[^215] A kiskorú gyermek lakóhelye érvénytelenségének megállapításáról vagy „fiktív” jelzéssel szerepeltetéséről, továbbá a 36. § (4) bekezdésében meghatározott lakóhelye nyilvántartásba vételéről a jegyző, illetve a járási hivatal haladéktalanul értesíti a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott illetékes család- és gyermekjóléti szolgálatot.
+
 [^208]: Az R. 34. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^209]: Az R. 34. § (1a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 30. § (2) bekezdése iktatta be, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 1. és 5. pontja szerint módosított szöveg.
 [^210]: Az R. 34. § (2) bekezdése a 345/2014. (XII. 23.) Korm. rendelet 25. §-ával megállapított szöveg.
@@ -43,3 +45,4 @@ b) szöveges üzenetközvetítési szolgáltatás igénybevételével a nyilván
 [^212]: Az R. 34. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^213]: Az R. 34. § (3a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 30. § (5) bekezdése iktatta be.
 [^214]: Az R. 34. §-ának (4) bekezdését a 9/2004. (I. 31.) Korm. rendelet 9. §-a iktatta be, szövege a 115/2007. (V. 24.) Korm. rendelet 1. § (13) bekezdésével megállapított és a 417/2012. (XII. 29.) Korm. rendelet 40. § t) pontja, 41. § j) pontja szerint módosított szöveg.
+[^215]: Az R. 34. § (5) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 4. §-a iktatta be.

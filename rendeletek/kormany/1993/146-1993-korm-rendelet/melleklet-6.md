@@ -1,4 +1,4 @@
-6. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^264]
+6. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^265]
 
 Bejelentőlap adattartalma az értesítési cím nyilvántartás számára történő megadásáról,
 
@@ -26,4 +26,4 @@ Bejelentőlap adattartalma az értesítési cím nyilvántartás számára tört
 
 11. ügyintéző aláírása.
 
-[^264]: Az R. 6. számú mellékletét a 417/2012. (XII. 29.) Korm. rendelet 38. § (2) bekezdés b) pontja iktatta be.
+[^265]: Az R. 6. számú mellékletét a 417/2012. (XII. 29.) Korm. rendelet 38. § (2) bekezdés b) pontja iktatta be.
