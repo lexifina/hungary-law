@@ -46,7 +46,7 @@ g)[^10] szállítást végző személy: a súlyos mozgáskorlátozott, illetve a
 
 ga) vér szerinti, örökbefogadó- és nevelőszülő, házastárs, élettársi nyilvántartásba bejegyzett élettárs,
 
-gb)[^11] a súlyos mozgáskorlátozott, illetve egyéb fogyatékossággal élő személlyel legalább egy éve közös háztartásban élő vér szerinti, örökbefogadott és nevelt gyermek, vagy testvér,
+gb)[^11] a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személlyel legalább egy éve közös háztartásban élő, a ga) alpont alá nem tartozó egyenesági rokon vagy testvér,
 
 gc)[^12] a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személy személygépkocsival történő szállítását a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszonyban végző személy,
 
@@ -65,7 +65,7 @@ hb)[^14] a 18. életévét nem töltötte be, és magasabb összegű családi p�
 [^8]: A 2. § f) pontja a 250/2012. (IX. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § f) pont fb) alpontja a 379/2016. (XII. 2.) Korm. rendelet 174. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § g) pont nyitó szövegrésze a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^11]: A 2. § g) pont gb) alpontja a 250/2012. (IX. 7.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^11]: A 2. § g) pont gb) alpontja a 235/2017. (VIII. 18.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^12]: A 2. § g) pont gc) alpontját a 189/2011. (IX. 19.) Korm. rendelet 1. §-a iktatta be, szövege a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^13]: A 2. § h) pontját a 250/2012. (IX. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^14]: A 2. § h) pont hb) alpontja a 66/2016. (III. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
