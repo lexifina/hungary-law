@@ -4,7 +4,7 @@
 
 (2) A kiskorú gyámhatóságnak átadott vagyonáról való szülői jognyilatkozathoz [Ptk. 2:15. § (1) bekezdés d) pontja] a (3) bekezdésben meghatározott értékhatártól függetlenül szükséges a gyámhivatal hozzájárulása.
 
-(3)[^95] A kiskorú gyámhatóságnak át nem adott vagyonáról való rendelkezést érintő szülői jognyilatkozathoz [Ptk. 2:15. § (1) bekezdés e) pontja] abban az esetben szükséges a gyámhivatal jóváhagyása, ha a szülői rendelkezéssel érintett vagyon értéke meghaladja az öregségi nyugdíj mindenkori legkisebb összegének tízszeresét.
+(3)[^96] A kiskorú gyámhatóságnak át nem adott vagyonáról való rendelkezést érintő szülői jognyilatkozathoz [Ptk. 2:15. § (1) bekezdés e) pontja] abban az esetben szükséges a gyámhivatal jóváhagyása, ha a szülői rendelkezéssel érintett vagyon értéke meghaladja az öregségi nyugdíj mindenkori legkisebb összegének tízszeresét.
 
 (4) A gyámhivatal a (2) és a (3) bekezdésben foglalt esetben akkor hagyja jóvá a szülő jognyilatkozatát, ha a gyermek vagyonáról való jognyilatkozat megtétele a gyermek érdekében áll.
 
@@ -12,4 +12,4 @@
 
 (6) A gyámhivatal a Ptk. 2:15. § (1) bekezdésében felsorolt jognyilatkozat jóváhagyását elutasítja, ha a jognyilatkozatot tartalmazó okirat alaki szempontból érvénytelen. A jognyilatkozat gyámhivatali jóváhagyása a jognyilatkozat érvényességéhez szükséges – jogszabályban előírt – egyéb feltételeket nem pótolja.
 
-[^95]: A 26/B. § (3) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^96]: A 26/B. § (3) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.

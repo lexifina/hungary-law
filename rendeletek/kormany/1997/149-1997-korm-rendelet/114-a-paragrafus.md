@@ -1,8 +1,8 @@
 ## Nevelési felügyelet
 
-114/A. §[^758] (1) A gyámhivatal a Gyvt. 81/A. § (10) bekezdése szerinti esetben a speciális gyermekotthon vezetője, a speciális lakásotthon vezetője, a gyermekotthon speciális csoportjának vezetője (a továbbiakban együtt: speciális gyermekotthon vezetője) Gyvt. 81/A. § (7) bekezdés szerinti értesítése alapján mérlegeli, hogy indokolt-e a nevelési felügyelet elrendelésére irányuló eljárásnak a hivatalból történő megindítása.
+114/A. §[^765] (1) A gyámhivatal a Gyvt. 81/A. § (10) bekezdése szerinti esetben a speciális gyermekotthon vezetője, a speciális lakásotthon vezetője, a gyermekotthon speciális csoportjának vezetője (a továbbiakban együtt: speciális gyermekotthon vezetője) Gyvt. 81/A. § (7) bekezdés szerinti értesítése alapján mérlegeli, hogy indokolt-e a nevelési felügyelet elrendelésére irányuló eljárásnak a hivatalból történő megindítása.
 
-(2)[^759] A gyámhivatal a nevelési felügyelet szükségessége kérdésében az eljárás Gyvt. 81/B. § (2) bekezdése szerint hivatalból történő megindítását vagy a gyermekvédelmi gyám kérelmének beérkezését követően haladéktalanul, de legkésőbb a következő munkanapon elektronikus levél útján kikéri
+(2)[^766] A gyámhivatal a nevelési felügyelet szükségessége kérdésében az eljárás Gyvt. 81/B. § (2) bekezdése szerint hivatalból történő megindítását vagy a gyermekvédelmi gyám kérelmének beérkezését követően haladéktalanul, de legkésőbb a következő munkanapon elektronikus levél útján kikéri
 
 a) a speciális gyermekotthon vezetőjének véleményét,
 
@@ -18,8 +18,8 @@ ha azokat a gyermekvédelmi gyám kérelméhez, a speciális gyermekotthon vezet
 
 a) a gyermekjogi képviselőt, vagy
 
-b)[^760] ha a gyermekjogi képviselő jelzi, hogy akadályoztatása miatt nem tud eljárni, a gyermekvédelmi gyámot, helyettes gyermekvédelmi gyámot.
+b)[^767] ha a gyermekjogi képviselő jelzi, hogy akadályoztatása miatt nem tud eljárni, a gyermekvédelmi gyámot, helyettes gyermekvédelmi gyámot.
 
-[^758]: A 114/A. §-t és a 114/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 73. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 54. §-ával megállapított szöveg.
-[^759]: A 114/A. § (2) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 23. § c) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^760]: A 114/A. § (4) bekezdés b) pontja a 448/2016. (XII. 19.) Korm. rendelet 16. § n) pontja szerint módosított szöveg.
+[^765]: A 114/A. §-t és a 114/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 73. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^766]: A 114/A. § (2) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 23. § c) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^767]: A 114/A. § (4) bekezdés b) pontja a 448/2016. (XII. 19.) Korm. rendelet 16. § n) pontja szerint módosított szöveg.

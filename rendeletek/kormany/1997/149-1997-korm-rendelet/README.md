@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-149-20-
 | 2017-04-04 | 1997-149-20-22.66 | 60/2017. (III. 20.) Korm. rendelet |
 | 2017-06-20 | 1997-149-20-22.67 | 148/2017. (VI. 12.) Kor. rendelet |
 | 2017-07-01 | 1997-149-20-22.68 | 352/2012. (XII. 13.) Korm. rendelet |
+| 2017-08-26 | 1997-149-20-22.69 | 235/2017. (VIII. 18.) Korm. rendelet |

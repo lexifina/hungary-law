@@ -1,17 +1,17 @@
-86. § (1)[^545] A gyámhivatal a védelembe vétel iránti eljárás során tárgyalást tart.
+86. § (1)[^552] A gyámhivatal a védelembe vétel iránti eljárás során tárgyalást tart.
 
-(2)[^546] A tárgyalást úgy kell megtartani, hogy hozzásegítse a gyermeket és a szülőt, illetve gyámját – ide nem értve a gyermekvédelmi szakellátásban lévő gyermek gyámját – a védelembe vétel okának, céljának és jogkövetkezményeinek megismeréséhez.
+(2)[^553] A tárgyalást úgy kell megtartani, hogy hozzásegítse a gyermeket és a szülőt, illetve gyámját – ide nem értve a gyermekvédelmi szakellátásban lévő gyermek gyámját – a védelembe vétel okának, céljának és jogkövetkezményeinek megismeréséhez.
 
-(3)[^547] A tárgyaláson meg kell hallgatni a Gyvt. 128. §-ában meghatározott személyeken túl
+(3)[^554] A tárgyaláson meg kell hallgatni a Gyvt. 128. §-ában meghatározott személyeken túl
 
-a)[^548] azt a családsegítőt, aki a gyermek gondozását a védelembe vételt megelőzően segítette, ideértve az átmeneti gondozást nyújtó intézmény családgondozóját is, és
+a)[^555] azt a családsegítőt, aki a gyermek gondozását a védelembe vételt megelőzően segítette, ideértve az átmeneti gondozást nyújtó intézmény családgondozóját is, és
 
 b) a megelőző pártfogó felügyelőként kijelölhető személyt, ha a pártfogó felügyelői szolgálat kockázatértékelése a gyermek bűnmegelőzési szempontú veszélyeztetettségének magas fokát állapította meg.
 
-(4)[^549] Az eljárás során a gyermeket és a szülőt, illetve családbafogadó gyámját nyilatkoztatni kell arról, hogy vállalják-e a család- és gyermekjóléti szolgálattal és a család- és gyermekjóléti központtal az alapellátás keretében való együttműködést. A nyilatkozattétel előtt a gyermeket és a szülőt figyelmeztetni kell az együttműködés hiányában alkalmazható jogkövetkezményekre.
+(4)[^556] Az eljárás során a gyermeket és a szülőt, illetve családbafogadó gyámját nyilatkoztatni kell arról, hogy vállalják-e a család- és gyermekjóléti szolgálattal és a család- és gyermekjóléti központtal az alapellátás keretében való együttműködést. A nyilatkozattétel előtt a gyermeket és a szülőt figyelmeztetni kell az együttműködés hiányában alkalmazható jogkövetkezményekre.
 
-[^545]: A 86. § (1) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^546]: A 86. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 18. pontja szerint módosított szöveg.
-[^547]: A 86. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^548]: A 86. § (3) bekezdés a) pontja a 448/2016. (XII. 19.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
-[^549]: A 86. § (4) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 18. pontja, a 21/2012. (II. 29.) Korm. rendelet 17. § f) pontja, a 419/2015. (XII. 23.) Korm. rendelet 14. § 16. pontja szerint módosított szöveg.
+[^552]: A 86. § (1) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^553]: A 86. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 18. pontja szerint módosított szöveg.
+[^554]: A 86. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^555]: A 86. § (3) bekezdés a) pontja a 448/2016. (XII. 19.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^556]: A 86. § (4) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 18. pontja, a 21/2012. (II. 29.) Korm. rendelet 17. § f) pontja, a 419/2015. (XII. 23.) Korm. rendelet 14. § 16. pontja szerint módosított szöveg.

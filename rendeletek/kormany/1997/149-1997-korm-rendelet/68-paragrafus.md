@@ -1,6 +1,6 @@
-## Természetbeni támogatás[^433]
+## Természetbeni támogatás[^437]
 
-68. §[^434] (1) A Gyvt. 20/A. §-ában meghatározott természetbeni támogatás (e § alkalmazásában a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
+68. §[^438] (1) A Gyvt. 20/A. §-ában meghatározott természetbeni támogatás (e § alkalmazásában a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
 
 (2) A jegyző a 4. számú melléklet szerinti adatlapon
 
@@ -64,5 +64,5 @@ c) a jogosult az Erzsébet-utalványt annak a települési önkormányzathoz tö
 
 (17) A Magyar Államkincstár a (11) bekezdés szerinti adatközlés jogszerűségét az államháztartásról szóló 2011. évi CXCV. törvény 59. és 60. §-ában foglaltak szerint ellenőrizheti. A támogatás visszafizetésére és a kamatszámításra a költségvetési támogatásokra vonatkozó szabályokat kell alkalmazni.
 
-[^433]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^434]: A 68. § a 148/2017. (VI. 12.) Kor. rendelet 1. §-ával megállapított szöveg.
+[^437]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^438]: A 68. § a 148/2017. (VI. 12.) Kor. rendelet 1. §-ával megállapított szöveg.

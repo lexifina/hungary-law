@@ -1,4 +1,4 @@
-61. §[^396] (1) A képzelt apa adatainak megállapítására irányuló eljárásban az anya kérelméről és a gyermek névviselésére vonatkozó döntéséről a gyámhivatal jegyzőkönyvet vesz fel. A gyámhivatal lehetőség szerint az anyával egyetértésben állapítja meg a képzelt személy
+61. §[^399] (1) A képzelt apa adatainak megállapítására irányuló eljárásban az anya kérelméről és a gyermek névviselésére vonatkozó döntéséről a gyámhivatal jegyzőkönyvet vesz fel. A gyámhivatal lehetőség szerint az anyával egyetértésben állapítja meg a képzelt személy
 
 a) családi és utónevét,
 
@@ -22,4 +22,4 @@ c) más, általa megjelölt családi név legyen, feltéve, hogy az más jogos �
 
 (5) Ha a gyermek családi jogállása egyéves korában még mindig rendezetlen, a gyámhivatal megkeresi az anyát, és ismételten tájékoztatja a családi jogállás rendezésének lehetőségeiről.
 
-[^396]: A 61. § a 70/2014. (III. 13.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^399]: A 61. § a 70/2014. (III. 13.) Korm. rendelet 48. §-ával megállapított szöveg.

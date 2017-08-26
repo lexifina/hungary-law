@@ -4,7 +4,7 @@
 
 ## ÉS A KAPCSOLATTARTÁS
 
-## III. Fejezet[^91]
+## III. Fejezet[^92]
 
 ## A SZÜLŐI FELÜGYELETI JOG GYAKORLÁSÁVAL KAPCSOLATOS ÜGYEK
 
@@ -22,4 +22,4 @@ a gyámhivatal e megállapodásukat – kérésükre – jegyzőkönyvben rögz�
 
 (3) A szülőket tájékoztatni kell arról, hogy a (2) bekezdésben meghatározott megállapodásukat módosíthatják, valamint ezen megállapodásuk nem azonos hatályú a bíróságnak a házassági vagy a szülői felügyelet rendezése iránti perben hozott határozatával.
 
-[^91]: A III. Fejezet (18–26/C. §) a 70/2014. (III. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^92]: A III. Fejezet (18–26/C. §) a 70/2014. (III. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
