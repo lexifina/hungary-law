@@ -1,3 +1,0 @@
-## 12. § A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet (a továbbiakban: Pr.) 2. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) Ha a szociális rászorultságtól függő pénzbeli és természetbeni ellátásokat kérelmező lakóhelyeként a polgárok személyi adatainak és lakcímének nyilvántartásában a bejelentett település neve (a fővárosban a kerület megjelölése) szerepel (a továbbiakban: településszintű lakóhellyel rendelkező személy), a kérelmezett ellátás igénylésére szolgáló formanyomtatványon nyilatkozatot tesz a vele életvitelszerűen együtt élő családtagjainak adatairól.”
