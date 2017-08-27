@@ -1,3 +1,0 @@
-## 2. § Az R. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az ellenőr az utazás tartama alatt – beleértve a járatra történő fel- és leszállást is – bármikor jogosult a közforgalmú menetrend szerinti autóbuszjáratokon az utasok utazási jogosultságát, az utazási igazolványok érvényességét, használatára való jogosultságot, valamint az utazási kedvezmények igénybevételének jogszerűségét ellenőrizni. Az ellenőr – a jegykezelő kivételével – e minőségére utaló jelzést visel, valamint írásbeli megbízással rendelkezik. Az ellenőr nem köteles az utas részére előre igazolnia magát, de az utas kérésére köteles az utólagos azonosításához szükséges információkat megadni, valamint az ellenőrzés végzésére felhatalmazó megbízást felmutatni.”

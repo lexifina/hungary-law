@@ -1,1 +1,0 @@
-## „(8) Nem szükséges az autóbuszos hatóság jóváhagyása az üzletszabályzat jogszabályi rendelkezésen vagy közszolgáltatási szerződésen alapuló, valamint az utasok jogait nem érintő módosítása esetén, de az üzletszabályzat készítője a módosítást annak hatálybalépését 8 nappal megelőzően köteles az autóbuszos hatóságnak megküldeni.”
