@@ -44,12 +44,9 @@ nemzetgazdasági miniszter
 
 Határidő: 2017. június 30.
 
-g) felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon az Ingatlan Bethlen Gábor Alapkezelő Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: BGA Zrt.) tulajdonában álló részének állami tulajdonba kerüléséről a BGA Zrt. tőkeleszállítása útján.
+g)[^1]
 
-Felelős: Miniszterelnökséget vezető miniszter
+2–3.[^2]
 
-Határidő: 2017. július 1.
-
-2–3.[^1]
-
-[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont g) alpontját az 1579/2017. (VIII. 28.) Korm. határozat 4. pontja visszavonta.
+[^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
