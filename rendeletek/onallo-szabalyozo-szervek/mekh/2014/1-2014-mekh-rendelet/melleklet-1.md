@@ -190,7 +190,7 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 |  | A | B |
 
-| 1 | Az igazgatási szolgáltatásidíj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint) |
+| 1 | Az igazgatási szolgáltatási díj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint) |
 
 | 2 | Engedély kiadása iránti kérelem elbírálása |  |
 
@@ -250,9 +250,9 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 30 | m) közvilágítási berendezések üzemeltetése, ha az engedélyes által üzemeltetett közvilágítási lámpatestek száma |  |
 
-| 31 | ma) 1 000 db-ot meg nem haladó | 100 |
+| 31 | ma) 1000 db-ot meg nem haladó | 100 |
 
-| 32 | mb) 1 000 db feletti, de 10 000 db-ot meg nem haladó | 300 |
+| 32 | mb) 1000 db feletti, de 10 000 db-ot meg nem haladó | 300 |
 
 | 33 | mc) 10 000 db feletti, de 50 000 db-ot meg nem haladó | 600 |
 
@@ -298,7 +298,7 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 54 | f) erőmű elsődleges energiaforrásának megváltoztatása | 200 |
 
-| 55 | g) ha a módosítás tárgya névváltozás vagy székhelyváltozás, illetve az ezekből következő cégjegyzékszám- és adószám-változás együttes díja | 10 |
+| 55 | g) ha a módosítás tárgya névváltozás vagy székhelyváltozás, illetve az ezekből következő cégjegyzékszám- és adószámváltozás együttes díja | 10 |
 
 | 56 | h) a villamosenergia-rendszer üzemét lényegesen befolyásoló erőműre vonatkozó elvi engedély módosítása | 1 000 |
 
@@ -416,109 +416,125 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 112 | Megfelelési jelentés jóváhagyása iránti kérelem elbírálása | 1 000 |
 
-| 113 | Munkaviszony, munkavégzésre irányuló egyéb jogviszony vagy kinevezés megszűnését követő egy éven belül más engedélyesnél történő munkaviszony, munkavégzésre irányuló egyéb jogviszony vagy kinevezés létesítéséhez történő hozzájárulás iránti kérelem | 50 |
+| 113 | Munkaviszony, munkavégzésre irányuló egyéb jogviszony vagy kinevezés megszűnését követő egy éven belül más engedélyesnél történő munkaviszony, munkavégzésre irányuló egyéb jogviszony vagy kinevezés létesítéséhez történő hozzájárulás iránti kérelem elbírálása | 50 |
 
 | 114 | Jelentős piaci erővel rendelkező engedélyes számára előírt kapacitásaukció-tartási kötelezettség alapján, az aukción értékesítendő kapacitás mennyiségének, forrásösszetételének és az aukciós szabályzatnak a jóváhagyására irányuló kérelem elbírálása | 100 |
 
-| 115 | A megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet alapján kiadott, kötelező átviteli jogosultságot megállapító határozat módosítása (kivéve az egyéb állami támogatás változása miatti módosítást) | 50 |
+| 115 | A megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet alapján kiadott, kötelező átvételi jogosultságot megállapító határozat módosítása |  |
 
-| 116 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet szerinti új kötelező átviteli jogosultság mértékének megállapítása | 50 |
+| 116 | a) egyéb állami támogatás változása vagy a helyrajzi szám telephely fizikai változatlansága melletti módosulása miatt | 10 |
 
-| 117 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet szerinti prémium típusú támogatás mértékének megállapítása | 100 |
+| 117 | b) egyéb okból | 55 |
 
-| 118 | A KÁT mérlegkör működtetésének, illetve a KÁT mérlegkör-felelősi feladatok elvégzésének indokolt költségének megállapítása iránti kérelem elbírálása | 50 |
+| 118 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet szerinti új kötelező átvételi jogosultság mértékének megállapítása | 49 |
 
-| 119 | Nagy hatásfokú kapcsolt energiatermelő erőműegység minősítése iránti kérelem elbírálása |  |
+| 119 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet szerinti prémium típusú támogatás mértékének megállapítása | 99 |
 
-| 120 | a) 0,5 MW és annál kisebb erőművi névleges teljesítőképesség esetében | 10 |
+| 120 | Kötelező átvételi vagy Prémium típusú támogatási jogosultság visszavonása | 5 |
 
-| 121 | b) 0,5 MW-nál nagyobb, de 1 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 50 |
+| 121 | Barna prémiumra jogosultság megállapítása |  |
 
-| 122 | c) 1 MW-nál nagyobb, de 5 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 100 |
+| 122 | a) 5 MW alatt | 90 |
 
-| 123 | d) 5 MW-nál nagyobb, de 20 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 250 |
+| 123 | b) 5 MW-tól | 500 |
 
-| 124 | e) 20 MW-nál nagyobb, de 50 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 500 |
+| 124 | Demonstrációs projektté minősítés | 200 |
 
-| 125 | f) 50 MW-nál nagyobb erőművi névleges teljesítőképesség esetében | 1 000 |
+| 125 | A KÁT mérlegkör működtetésének, illetve a KÁT mérlegkör-felelősi feladatok elvégzésének indokolt költségének megállapítása iránti kérelem elbírálása | 50 |
 
-| 126 | Megújuló energiaforrás felhasználásával termelő erőműegység minősítése iránti kérelem |  |
+| 126 | Nagy hatásfokú kapcsolt energiatermelő erőműegység minősítése iránti kérelem elbírálása |  |
 
-| 127 | a) 50 kW és annál kisebb erőművi névleges teljesítőképesség esetében | 5 |
+| 127 | a) 0,5 MW és annál kisebb erőművi névleges teljesítőképesség esetében | 10 |
 
-| 128 | b) 50 kW-nál nagyobb, de 0,5 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 10 |
+| 128 | b) 0,5 MW-nál nagyobb, de 1 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 50 |
 
-| 129 | c) 0,5 MW-nál nagyobb, de 1 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 50 |
+| 129 | c) 1 MW-nál nagyobb, de 5 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 100 |
 
-| 130 | d) 1 MW-nál nagyobb, de 5 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 100 |
+| 130 | d) 5 MW-nál nagyobb, de 20 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 250 |
 
-| 131 | e) 5 MW-nál nagyobb, de 20 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 250 |
+| 131 | e) 20 MW-nál nagyobb, de 50 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 500 |
 
-| 132 | f) 20 MW-nál nagyobb, de 50 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 500 |
+| 132 | f) 50 MW-nál nagyobb erőművi névleges teljesítőképesség esetében | 1 000 |
 
-| 133 | g) 50 MW-nál nagyobb erőművi névleges teljesítőképesség esetében | 1 000 |
+| 133 | Megújuló energiaforrás felhasználásával termelő erőműegység minősítése iránti kérelem elbírálása |  |
 
-| 134 | Bejegyzési kérelem (Származási garancia kiállítására vonatkozó kérelem) | 10 forint/MWh |
+| 134 | a) 50 kW és annál kisebb erőművi névleges teljesítőképesség esetében | 5 |
 
-| 135 | Külföldi származási garancia elismerésére irányuló kérelem | 10 forint/MWh |
+| 135 | b) 50 kW-nál nagyobb, de 0,5 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 10 |
 
-| 136 | Származási garancia törlési kérelem | 5 forint/MWh |
+| 136 | c) 0,5 MW-nál nagyobb, de 1 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 50 |
 
-| 137 | A villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló 285/2007. (X. 29.) Korm. rendelet 12. § (2) bekezdése szerinti szakhatósági közreműködés erőmű tartós termeléscsökkenésének megállapítására irányuló eljárásában (a villamosenergia-ellátás biztosíthatóságának szakkérdésében) | 400 |
+| 137 | d) 1 MW-nál nagyobb, de 5 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 100 |
 
-| 138 | Szakhatósági közreműködés területrendezési eljárásban (az energiaellátás biztonságának biztosításához való szükségesség megítélése) | 500 |
+| 138 | e) 5 MW-nál nagyobb, de 20 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 250 |
 
-| 139 | Rendszeres információszolgáltatási kötelezettség alóli mentesség kérelem benyújtása | 50 |
+| 139 | f) 20 MW-nál nagyobb, de 50 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 500 |
 
-| 140 | A VET. 143. § (3a) bekezdése szerinti egyetemes szolgáltatási árszabások árának és áralkalmazási feltételeinek módosítására és visszavonására vonatkozó kérelem elbírálása | 100 |
+| 140 | g) 50 MW-nál nagyobb erőművi névleges teljesítőképesség esetében | 1 000 |
 
-| 141 | Elektromos gépjármű töltőállomás üzemeltetésére vonatkozó engedély kiadására vonatkozó kérelem elbírálása | 500 |
+| 141 | Bejegyzési kérelem (Származási garancia kiállítására vonatkozó kérelem) elbírálása | 10 forint/MWh |
 
-| 142 | a) az engedélyes személyében bekövetkező változás esetén az engedély módosítására vonatkozó kérelem elbírálása | 100 |
+| 142 | Külföldi származási garancia elismerésére irányuló kérelem elbírálása | 10 forint/MWh |
 
-| 143 | a) villamos energia tárolói összevont engedély (létesítési és működési engedély), valamint a működés megszüntetésére, a működés szüneteltetésére irányuló kérelem elbírálása és az engedély időbeli hatályának módosítása |  |
+| 143 | Származási garancia törlési kérelem elbírálása | 5 forint/MWh |
 
-| 144 | aa) 0,05–0,499 MW tárolói névleges teljesítőképesség esetében | 250 |
+| 144 | Szakhatósági közreműködés területrendezési eljárásban (az energiaellátás biztonságának biztosításához való szükségesség megítélése) | 500 |
 
-| 145 | ab) 0,5-4,99 MW tárolói névleges teljesítőképesség esetében | 500 |
+| 145 | Rendszeres információszolgáltatási kötelezettség alóli mentesség kérelem elbírálása | 50 |
 
-| 146 | ac) 5–19,99 MW tárolói névleges teljesítőképesség esetében | 1 000 |
+| 146 | A VET. 145. § (4) bekezdése szerinti egyetemes szolgáltatási árszabások árának és áralkalmazási feltételeinek módosítására és visszavonására vonatkozó kérelem elbírálása | 100 |
 
-| 147 | ad) 20–49,99 MW tárolói névleges teljesítőképesség esetében | 2 000 |
+| 147 | Elektromos gépjármű töltésére vonatkozó engedély |  |
 
-| 148 | b) villamos energia tároló létesítésére és a működés megszüntetésre irányuló kérelem elbírálása 50 MW, vagy annál nagyobb tárolói névleges teljesítőképesség esetében | 2 500 |
+| 148 | a) kiadására vonatkozó kérelem elbírálása | 500 |
 
-| 149 | c) villamos energia tároló működésére vagy időbeli hatályának módosítására irányuló kérelem elbírálása 50 MW, vagy annál nagyobb tárolói névleges teljesítőképesség esetében | 2500 |
+| 149 | b) módosítására vonatkozó kérelem elbírálása az engedélyes személyében bekövetkező változás esetén | 100 |
 
-| 150 | d) villamos energia tárolói tevékenység szüneteltetésére, szüneteltetés esetében a tárolói tevékenység újbóli folytatására vonatkozó engedély | 500 |
+| 150 | Villamosenergia-tároló |  |
 
-| 151 | villamos energia tárolói engedély módosítása iránti kérelem elbírálása villamos energia tároló összevont engedély, villamos energia tároló működésére és villamos energia tároló létesítésére vonatkozó engedély esetében | az adott engedély kiadása díjának 50%-a |
+| 151 | a) összevont (létesítési és működési) engedély kiadására, a működés megszüntetésére, a működés szüneteltetésére irányuló kérelem elbírálása, és az engedély időbeli hatályának módosítása |  |
 
-| 152 | villamos energia tárolói engedély visszavonása, abban az esetben, ha a kereskedelmi üzemet nem kezdte meg | az adott engedély kiadása díjának 50%-a |
+| 152 | aa) 0,05–0,499 MW tárolói névleges teljesítőképesség esetében | 250 |
 
-| 153 | Közös érdekű projekt engedélyezési eljárás megkezdésének tudomásul vétele | 250 |
+| 153 | ab) 0,5–4,99 MW tárolói névleges teljesítőképesség esetében | 500 |
 
-| 154 | Közös érdekű projekt engedélyezési kérelem jóváhagyása | 500 |
+| 154 | ac) 5–19,99 MW tárolói névleges teljesítőképesség esetében | 1 000 |
 
-| 155 | Átviteli rendszerirányító nemzetközi szerződéseinek aláírásához, nemzetközi megállapodásokhoz, együttműködésekhez való csatlakozásához előzetes hozzájárulás iránti kérelem elbírálása | 1 000 |
+| 155 | ad) 20–49,99 MW tárolói névleges teljesítőképesség esetében | 2 000 |
 
-| 156 | Nemzetközi Üzemi és Kereskedelmi szabályzat |  |
+| 156 | b) létesítésére és a működés megszüntetésre irányuló kérelem elbírálása 50 MW vagy annál nagyobb tárolói névleges teljesítőképesség esetében | 2 500 |
 
-| 157 | a) | jóváhagyása iránti kérelem elbírálása | 5 000 |
+| 157 | c) működésére vagy időbeli hatályának módosítására irányuló kérelem elbírálása 50 MW vagy annál nagyobb tárolói névleges teljesítőképesség esetében | 2 500 |
 
-| 158 | b) | módosítása iránti kérelem elbírálása | 500 |
+| 158 | d) tevékenység szüneteltetésére, szüneteltetés esetében a tárolói tevékenység újbóli folytatására vonatkozó engedély | 500 |
 
-| 159 | 2016/631 EU Rendelet 62. cikkelye szerinti kérelem |  |
+| 159 | e) engedély módosítása iránti kérelem elbírálása villamosenergia-tároló összevont engedély, villamosenergia-tároló működésére és villamosenergia-tároló létesítésére vonatkozó engedély esetében | az adott engedély kiadása díjának 50%-a |
 
-| 160 | a) | „A” kategória | 250 |
+| 160 | f) engedély visszavonása, abban az esetben, ha a kereskedelmi üzemet nem kezdte meg | az adott engedély kiadása díjának 50%-a |
 
-| 161 | b) | „B” kategória | 500 |
+| 161 | Közös érdekű projekt engedélyezési eljárás megkezdésének tudomásul vétele | 250 |
 
-| 162 | c) | „C” kategória | 1 000 |
+| 162 | Közös érdekű projekt engedélyezési kérelem jóváhagyása | 500 |
 
-| 163 | d) | „D” kategória | 2 000 |
+| 163 | Átviteli rendszerirányító nemzetközi szerződéseinek aláírásához, nemzetközi megállapodásokhoz, együttműködésekhez való csatlakozásához előzetes hozzájárulás iránti kérelem elbírálása | 1 000 |
 
-| 164 | 2016/631 EU Rendelet 63. cikkelye szerinti kérelem | 1000 |
+| 164 | Nemzetközi Üzemi és Kereskedelmi szabályzat |  |
+
+| 165 | a) jóváhagyása iránti kérelem elbírálása | 5 000 |
+
+| 166 | b) módosítása iránti kérelem elbírálása | 500 |
+
+| 167 | 2016/631 EU Rendelet 62. cikkelye szerinti kérelem elbírálása |  |
+
+| 168 | a) „A” kategória | 250 |
+
+| 169 | b) „B” kategória | 500 |
+
+| 170 | c) „C” kategória | 1 000 |
+
+| 171 | d) „D” kategória | 2 000 |
+
+| 172 | 2016/631 EU Rendelet 63. cikkelye szerinti kérelem elbírálása | 1 000 |
 
 C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -722,4 +738,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^27]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a szerint módosított szöveg.
+[^27]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a szerint módosított szöveg.
