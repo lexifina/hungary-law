@@ -1,0 +1,145 @@
+# A Kormány 240/2017. (VIII. 28.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 136. szám, 2017. augusztus 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/96848dce51eddcb57b3cfba441156ca5018ab5b1/dokumentumok/384204d1e44b7d8eb78496c4956c49c982003701/letoltes)
+
+---
+
+A Kormány 240/2017. (VIII. 28.) Korm. rendelete
+a parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű védekezés
+költségei megállapításának és igénylésének részletes szabályairól szóló 221/2008. (VIII. 30.)
+Korm. rendelet és az állatkísérletekről szóló 40/2013. (II. 14.) Korm. rendelet módosításáról
+A Kormány
+az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (1) bekezdés f) és g) pontjában,
+a 2. alcím tekintetében az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 49. § (3) bekezdés d) pontjában
+kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű
+védekezés költségei megállapításának és igénylésének részletes szabályairól szóló
+221/2008. (VIII. 30.) Korm. rendelet módosítása
+1. §
+A parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű védekezés
+költségei megállapításának és igénylésének részletes szabályairól szóló 221/2008. (VIII. 30.) Korm. rendelet 3. §
+(8) bekezdésében a „Mezőgazdasági és Vidékfejlesztési Hivatallal” szövegrész helyébe a „Magyar Államkincstárral”
+szöveg lép.
+2. Az állatkísérletekről szóló 40/2013. (II. 14.) Korm. rendelet módosítása
+2. § (1) Az állatkísérletekről szóló 40/2013. (II. 14.) Korm. rendelet [a továbbiakban: 40/2013. (II. 14.) Korm. rendelet] 1. §
+(1) bekezdése helyébe a következő rendelkezés lép:
+„(1) E rendelet hatálya kiterjed az élő gerinces állatok – beleértve az önállóan táplálkozó lárvaállapotú állatokat,
+valamint a rendes fejlődésük utolsó harmadában az emlősállatok magzatait – és az élő lábasfejűek (a továbbiakban
+együtt: állatok)
+a) kísérletben történő felhasználására,
+b) kísérleti célú felhasználás érdekében való tartására, tenyésztésére vagy szaporítására (a tenyésztés és a szaporítás
+a továbbiakban együtt: tenyésztés) és
+c) szerveik vagy szöveteik kifejezetten tudományos vagy oktatási célú felhasználásra történő tenyésztésére.”
+(2) A 40/2013. (II. 14.) Korm. rendelet 1. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+„(3) E rendelet hatálya a kísérletekben felhasznált olyan egyedre is kiterjed, amely a kísérletet követően éli meg
+az (1) bekezdésben meghatározott fejlettségi szintet és az elvégzett kísérlet eredményeképpen élete későbbi
+szakaszaiban valószínűsíthetően fájdalomban, szenvedésben, kínban vagy maradandó egészségkárosodásban lehet
+része.
+(4) E rendelet hatálya nem terjed ki
+a) a nem kísérleti jellegű mezőgazdasági gyakorlatra;
+b) a nem kísérleti jellegű klinikai állatorvosi gyakorlatra;
+c) az állatgyógyászati készítmény forgalomba hozatalának engedélyezéséhez szükséges állatorvosi klinikai
+vizsgálatra;
+d) az elismert állattartási gyakorlatra;
+e) az elsődlegesen az állatok azonosítására irányuló tevékenységre, valamint
+f) a helyes állatorvosi gyakorlat szerint kivitelezett tűszúrás által okozottal azonos vagy annál magasabb szintű
+fájdalmat, szenvedést, félelmet vagy maradandó egészségkárosodást valószínűsíthetően nem okozó gyakorlatra.”
+
+3. §
+A 40/2013. (II. 14.) Korm. rendelet 11. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Ha a kísérlet lefolytatását rendkívüli és tudományosan igazolható indok szükségessé teszi, az élelmiszerlánc-
+biztonsági és állategészségügyi hatáskörben eljáró Pest Megyei Kormányhivatal (a továbbiakban: Pest Megyei
+Kormányhivatal) – ideiglenes jelleggel, legfeljebb a rendkívüli és tudományosan igazolható indokra figyelemmel
+szükséges időtartamra – engedélyt adhat olyan kísérlet lefolytatására, amely az állatok számára súlyos, várhatóan
+hosszú ideig tartó és nem enyhíthető fájdalommal, szenvedéssel vagy kínnal jár.”
+4. §
+A 40/2013. (II. 14.) Korm. rendelet 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A tenyésztő, a beszállító és a felhasználó 1. melléklet szerint benyújtott kérelme alapján, amennyiben
+a tenyésztő, a beszállító vagy a felhasználó és annak létesítménye megfelel az Ávtv. és e rendelet előírásainak,
+az élelmiszerlánc-biztonsági és állategészségügyi hatóság legfeljebb 10 évre engedélyezi a tenyésztő, a beszállító
+és a felhasználó működését. Az élelmiszerlánc-biztonsági és állategészségügyi hatóság az engedélyezett tenyésztőt,
+beszállítót és felhasználót nyilvántartásba veszi.”
+5. §
+A 40/2013. (II. 14.) Korm. rendelet 20. § (1) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a §
+a következő (1a) bekezdéssel egészül ki:
+„(1) Azon létesítményt, amelyben egyszerű diagnosztikai vagy post mortem vizsgálatot végeznek, illetve olyan
+mintát vesznek le, amelyet azután máshol alaposabb laboratóriumi vizsgálatnak vethetnek alá, fel kell szerelni az ott
+végzett vizsgálatokhoz szükséges alapvető laboreszközökkel.
+(1a) Ha a kísérlet vagy megfigyelés elvégzése az állatok elhelyezésére szolgáló helyiségben nem kívánatos,
+a létesítményben általános és különleges célú kísérlet végzésére alkalmas helyiséget kell fenntartani.”
+6. §
+A 40/2013. (II. 14.) Korm. rendelet 35. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A tenyésztő, a beszállító és a felhasználó köteles biztosítani, hogy a létesítményben megfelelő számú személyzet
+álljon rendelkezésre.”
+7. § (1) A 40/2013. (II. 14.) Korm. rendelet 38. § (1) bekezdés helyébe a következő rendelkezés lép:
+„(1) A tenyésztő, a beszállító és a felhasználó – a (4) bekezdésben foglalt kivétellel – köteles MÁB-ot felállítani és
+működési feltételeit biztosítani.”
+(2) A 40/2013. (II. 14.) Korm. rendelet 38. § (4) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a §
+a következő (5) bekezdéssel egészül ki:
+„(4) A tíz főnél kevesebb főt foglalkoztató tenyésztő, beszállító és felhasználó a MÁB felállítására vonatkozó
+kötelezettségét állatjóléti felelős kijelölésével is teljesítheti. E rendeletnek a MÁB eljárására vonatkozó rendelkezéseit
+az állatjóléti felelős eljárására megfelelően alkalmazni kell.
+(5) A MÁB és az állatjóléti felelős munkáját a kijelölt állatorvos vagy szakértő segíti.”
+8. §
+A 40/2013. (II. 14.) Korm. rendelet 39. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Az intézmény állatkísérleti szabályzatának ki kell terjednie a létesítményben elhelyezett vagy felhasznált állatok
+jólétével kapcsolatos felügyeleti, jelentéstételi és nyomonkövetési eljárásokra.”
+9. §
+A 40/2013. (II. 14.) Korm. rendelet 51. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az élelmiszerlánc-biztonsági és állategészségügyi hatóság elfogadja más tagállamok olyan adatait, amelyek
+az európai unió jogi aktusa vagy az azt átültető tagállami jogszabály által elismert kísérletből származnak, kivéve, ha
+a közegészség, a közbiztonság vagy a környezet védelme további kísérlet lefolytatását teszi szükségessé.”
+10. § (1) A 40/2013. (II. 14.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+(2) A 40/2013. (II. 14.) Korm. rendelet 5. melléklete a 2. melléklet szerint módosul.
+11. §
+A 40/2013. (II. 14.) Korm. rendelet
+a) 8. § (1) bekezdésében az „az Ávtv. 26. § (1) bekezdése szerinti jogkörében eljárva – tudományos, állatjóléti
+vagy állategészségügyi indokokra tekintettel –”szövegrész helyébe a„tudományos indokokra tekintettel”,
+b) 12. § (1) bekezdés b) pontjában a„jóléte helyreállt”szövegrész helyébe a„jóléte dokumentáltan helyreállt”,
+c) 35. § (7) bekezdésében az„a)–d) pontjaiban”szövegrész helyébe az„a)–b) és d) pontjaiban”,
+
+d) 36. § (1) bekezdés c) pontjában a „személyzet felügyeletéről” szövegrész helyébe a „35. § (7) bekezdése
+szerinti személyzet felügyeletéről”,
+e) 45. § (4) bekezdésében az „Az országos illetékességgel eljáró kormányhivatal” szövegrész helyébe az „A Pest
+Megyei Kormányhivatal”,
+f) 51. § (2) bekezdésben a„14. § (6) bekezdés”szövegrész helyébe a„14. § (5) bekezdés”,
+g) 2. melléklet II. pont 5. alpont a) alpontjában az „ ; amennyiben végeznek műtétet a kísérletben, ismertetni
+kell”szövegrész helyébe a„ , továbbá ismertetnie kell”,
+h) 2. melléklet II. pont 5. alpont d) alpontjában a „számának csökkentése” szövegrész helyébe a „számának és
+adott esetben a környezeti hatás mértékének csökkentése”,
+i) 2. melléklet II. pont 5. alpont e) alpontjában a „kínjának csökkentése” szövegrész helyébe a „kínjának
+elkerülése, valamint mértékének csökkentése”
+szöveg lép.
+12. §
+Hatályát veszti a 40/2013. (II. 14.) Korm. rendelet 38. § (3) bekezdésében az „A MÁB munkáját a kijelölt állatorvos
+vagy szakértő segíti.”szövegrész.
+3. Záró rendelkezések
+13. §
+Ez a rendelet a kihirdetését követő ötödik napon lép hatályba.
+14. §
+E rendelet 2. alcíme a tudományos célokra felhasznált állatok védelméről szóló, 2010. szeptember 22-i, 2010/63/EU
+európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 240/2017. (VIII. 28.) Korm. rendelethez
+A 40/2013. (II. 14.) Korm. rendelet 2. melléklet II. pont 5. alpontja a következő h) alponttal egészül ki:
+(A projektben alkalmazott összes kísérlet számozott felsorolása és ismertetése, melynek keretében a kérelmezőnek)
+„h) ismertetnie kell – amennyiben az értelmezhető – az indokolatlan párhuzamos eljárások elkerülése érdekében
+tervezett intézkedéseket.”
+2. melléklet a 240/2017. (VIII. 28.) Korm. rendelethez
+1. A 40/2013. (II. 14.) Korm. rendelet 5. melléklet A. rész 1. pont g) alpontja helyébe a következő alpont lép:
+[A 35. § (2) bekezdés b) pontban említett tevékenység végzéséhez szükséges oktatásnak legalább az alábbi témaköröket
+kell magába foglalnia:]
+„g) fájdalomcsillapítás, altatás, kíméletes végpontok, eutanázia témakörei; továbbá a kín, a nélkülözés, a fájdalom és
+a szenvedés fajspecifikus jeleinek felismerése a leggyakrabban felhasznált kísérleti állatoknál,”
+2. A 40/2013. (II. 14.) Korm. rendelet 5. melléklet A. rész 1. pontja a következő h) alponttal egészül ki:
+[A 35. § (2) bekezdés b) pontban említett tevékenység végzéséhez szükséges oktatásnak legalább az alábbi témaköröket
+kell magába foglalnia:]
+„h) az emberek és állatok kapcsolatának etikai vonatkozásai, az élet értéke, az állatok tudományos célra való
+felhasználása mellett és ellen szóló érvek.”
+3. A 40/2013. (II. 14.) Korm. rendelet 5. melléklet B. rész 1. pont h) alpontja helyébe a következő alpont lép:
+[A 35. § (2) bekezdés c) pontban említett tevékenység végzéséhez szükséges oktatásnak legalább az alábbi témaköröket
+kell magába foglalnia:]
+„h) fájdalomcsillapítás, altatás, kíméletes végpontok, eutanázia témakörei; továbbá a kín, a nélkülözés, a fájdalom és
+a szenvedés fajspecifikus jeleinek felismerése a leggyakrabban felhasznált kísérleti állatoknál,”
