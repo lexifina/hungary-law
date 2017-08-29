@@ -22,4 +22,6 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: a felmerülés ütemében
 
-4. visszavonja a Nemzetgazdasági Minisztérium budai Várnegyedben történő elhelyezéséhez szükséges további intézkedésekről szóló 1097/2017. (III. 2.) Korm. határozat 1. pont g) alpontját.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
