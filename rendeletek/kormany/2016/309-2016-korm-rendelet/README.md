@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-309-20-
 | --- | --- | --- |
 | 2016-10-14 | 2016-309-20-22.1 | 309/2016. (X. 13.) Korm. rendelet |
 | 2017-01-01 | 2016-309-20-22.2 | 380/2016. (XII. 2.) Korm. rendelet |
+| 2017-08-29 | 2016-309-20-22.3 | 241/2017. (VIII. 28.) Korm. rendelet |
