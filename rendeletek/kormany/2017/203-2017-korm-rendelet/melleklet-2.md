@@ -42,6 +42,10 @@
 
 | 21. | Alsóerdei Sport- és Rekreációs Központ fejlesztése (Zalaegerszeg) | Zalaegerszeg közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 0114/1, 0114/4, 0115/4, 0115/5, 0115/6, 0115/7, 0116, 0146/1, 0156, 0157, 0159/9, 0159/15, 696/1, 697/1, 697/18, 698, 699, 700/3, 719, 720, 721, 722, 24501 és 24508/2 helyrajzi számú ingatlanok | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
 
+| 22. | Szegedi új városi versenyuszoda megvalósítása, valamit azzal összefüggésben út- és körforgalom építés | az új városi versenyuszoda tekintetében a Szeged közigazgatási területén elhelyezkedő, Szeged, Etelka sor 3. szám alatti, az ingatlan-nyilvántartás szerinti 10005/5 helyrajzi számú ingatlan; út- és körforgalom építés tekintetében a Szeged közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 10141/1, 10313/1 és 10367/51 helyrajzi számú ingatlanok | Csongrád Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 23. | Dunaújvárosi Radari Sporttelep fejlesztése | Dunaújváros közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 365/9 helyrajzi számú ingatlan | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
+
 2. melléklet a 203/2017. (VII. 10.) Korm. rendelethez
 
 ## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
