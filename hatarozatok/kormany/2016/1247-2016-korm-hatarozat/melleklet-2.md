@@ -60,7 +60,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 26. | IKOP-1.1.0-15 | 86. számú főút Szombathely és Egyházasrádóc közötti szakaszának 2x2 sávos úttá történő fejlesztésének előkészítése | NIF Zrt. | 0,60 (becsült támogatási intenzitás:100%) | 2x2 sávos főút előkészítése (tervezés, engedélyezés). |
 
-| 27. | IKOP-1.1.0-15 | Mogyoród térség közúti kapcsolatainak fejlesztése, M3–M31-es autópálya átkötés, 2101 j. út – tervezett M3-as autópálya csomópont átkötése | NIF Zrt. | 5,00 (becsült támogatási intenzitás: 100%) | Az M3 autópályán csomópont, továbbá e csomópont és a 2101. jelű összekötő út közötti útszakasz kiépítése. |
+| 27. | IKOP-1.1.0-15 | Mogyoród térség közúti kapcsolatainak fejlesztése, M3–M31-es autópálya átkötés, 2101 j. út – tervezett M3-as autópálya csomópont átkötése | NIF Zrt. | 5,88 (becsült támogatási intenzitás: 100%) | Az M3 autópályán csomópont, továbbá e csomópont és a 2101. jelű összekötő út közötti útszakasz kiépítése. |
 
 | 28. | IKOP-1.1.0-15 | Építési engedélyezési eljárás nélkül megvalósítható közlekedésbiztonsági beruházások a gyorsforgalmi úthálózaton – szakaszolt projekt | MK NZrt. | 1,01 (támogatási intenzitás: 100%) | A közlekedésbiztonságot javító beton terelőfalak építése az M3, az M5 és az M7 autópálya egyes szakaszain |
 
@@ -186,9 +186,9 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 79. | IKOP-3.2.0-15 | Rákosrendező–Esztergom vasútvonal villamosítása, biztosítóberendezés korszerűsítése | NIF Zrt. | 25,43 (támogatási intenzitás: 100%) | A vasútvonal jelenlegi nyomvonalának villamosítása és új biztosítóberendezés létesítése. Esztergom állomás részleges átépítése, Esztergom állomás mellé buszpályaudvar áttelepítése, Dorog állomáson a buszforduló kiépítése. Dorog, Leányvár, Esztergom-Kertváros és Esztergom állomásokon a biztosítóberendezés korszerűsítése. |
 
-| 80. | IKOP-3.2.0-15 | Szeged–Hódmezővásárhely vasútvonal városi-elővárosi tram-train rendszer megvalósítása | NIF Zrt. | 32,50 (támogatási intenzitás: 100%) | Tervfelülvizsgálat, kiviteli tervek és nagyprojekt támogatási kérelem elkészítése, Szeged–Hódmezővásárhely közötti városi-elővárosi tram-train rendszer kiépítése, szűk keresztmetszet kiváltás, Hódmezővásárhelyen villamos vonal kialakítása. |
+| 80. | IKOP-3.2.0-15 | Szeged–Hódmezővásárhely tram-train rendszerhez szükséges járműtelep építése | NIF Zrt. | 4,00 (támogatási intenzitás: 100%) | Járműtelep építése Szegeden, kapcsolódó szolgáltatások nyújtása és a vasútvillamos (tram-train) rendszerhez szükséges előkészítő tervezési feladatok. |
 
-| 81. | IKOP-3.2.0-15 | Szeged–Hódmezővásárhely tram-train rendszer – járműbeszerzés | MÁV-START Zrt. | 16,00 (támogatási intenzitás: 100%) | Szeged–Hódmezővásárhely tram-train vonalra 8 db hibrid jármű beszerzése. |
+| 81. | IKOP-3.2.0-15 | Szeged–Hódmezővásárhely tram-train rendszer – járműbeszerzés | MÁV-START Zrt. | 17,62 (támogatási intenzitás: 100%) | Szeged–Hódmezővásárhely tram-train vonalra 8 db hibrid jármű beszerzése. |
 
 | 82. |  |  |  |  |  |
 
@@ -256,4 +256,4 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 35,61 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
 
-[^4]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja szerint módosított szöveg.
