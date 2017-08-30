@@ -50,16 +50,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) B:80 mezőjében a „vasútvonal városi-elővárosi tram-train rendszer megvalósítása” szövegrész helyébe a „tram-train rendszerhez szükséges járműtelep építése” szöveg,
-
-## b) D:80 mezőjében a „32,50” szövegrész helyébe a „4,00” szöveg,
-
-## c) E:80 mezőjében a „Tervfelülvizsgálat, kiviteli tervek és nagyprojekt támogatási kérelem elkészítése, Szeged–Hódmezővásárhely közötti városi-elővárosi tram-train rendszer kiépítése, szűk keresztmetszet kiváltás, Hódmezővásárhelyen villamos vonal kialakítása.” szövegrész helyébe a „Járműtelep építése Szegeden, kapcsolódó szolgáltatások nyújtása és a vasútvillamos (tram-train) rendszerhez szükséges előkészítő tervezési feladatok.” szöveg,
-
-## d) D:81 mezőjében a „16,00” szövegrész helyébe a „17,62” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1585/2017. (VIII. 28.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
