@@ -14,7 +14,7 @@ e) ha az építési tevékenység
 
 ea) külterületen felszínmozgás veszélyes vagy bányászati tevékenységgel érintett területen valósul meg, az építési engedély iránti kérelem földtani szempontú megalapozottságának vizsgálata szakkérdésében,
 
-eb)[^20] nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállítóvezeték, elosztóvezeték, célvezeték, valamint egyéb gáz- és gáztermékvezeték biztonsági övezetében valósul meg, és az építtető az üzemeltetőnek a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet 19/B. § (2) bekezdése szerinti egyetértésének megtagadását vagy az üzemeltető által az egyetértés megadásához szabott feltételeket sérelmesnek tartja, az üzemeltető nyilatkozatában foglalt feltételek vagy a hozzájárulás megtagadása a gázipari tevékenységgel kapcsolatos létesítmény rendeltetésszerű használatával és védelmével kapcsolatos jogszabályi rendelkezéseknek való megfelelőség vizsgálata szakkérdésben
+eb)[^25] nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállítóvezeték, elosztóvezeték, célvezeték, valamint egyéb gáz- és gáztermékvezeték biztonsági övezetében valósul meg, és az építtető az üzemeltetőnek a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet 19/B. § (2) bekezdése szerinti egyetértésének megtagadását vagy az üzemeltető által az egyetértés megadásához szabott feltételeket sérelmesnek tartja, az üzemeltető nyilatkozatában foglalt feltételek vagy a hozzájárulás megtagadása a gázipari tevékenységgel kapcsolatos létesítmény rendeltetésszerű használatával és védelmével kapcsolatos jogszabályi rendelkezéseknek való megfelelőség vizsgálata szakkérdésben
 
 elsőfokú eljárásban az illetékes a bányafelügyeletként eljáró megyei kormányhivatalt, másodfokú eljárásban – ha a fellebbezést törvény lehetővé teszi – a Magyar Bányászati és Földtani Hivatalt,
 
@@ -56,4 +56,4 @@ c) a hagyományos és a nagysebességű transzeurópai vasúti rendszer részét
 
 d) a hagyományos és a nagysebességű transzeurópai vasúti rendszer részét képező karbantartó létesítményekben alkalmazott műszaki berendezések és eljárások által okozott megengedhető mértékű környezetterhelés megállapítása érdekében, különös tekintettel a hulladékkezelési követelmények betartására
 
-[^20]: [A 21. § (1) bekezdés e) pont eb) alpontjának a 162/2017. (VI. 28.) Korm. rendelet 87. §-ával elrendelt módosítása, amely szerint a „Magyar Bányászati és Földtani Hivatalt” szövegrész helyébe Magyar Bányászati és Földtani Szolgálatot” szöveg lép, nem vezethető át.]
+[^25]: [A 21. § (1) bekezdés e) pont eb) alpontjának a 162/2017. (VI. 28.) Korm. rendelet 87. §-ával elrendelt módosítása, amely szerint a „Magyar Bányászati és Földtani Hivatalt” szövegrész helyébe Magyar Bányászati és Földtani Szolgálatot” szöveg lép, nem vezethető át.]

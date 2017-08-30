@@ -1,6 +1,12 @@
-## 25/A. §[^21] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 2. § (3) bekezdés 29. és 30. pontjának hatálybalépése[^22] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+## 25/A. §[^26] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 2. § (3) bekezdés 29. és 30. pontjának hatálybalépése[^27] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
 
-26. § (1) Ez a rendelet a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+26. § (1)[^28] Ez a rendelet
+
+a) a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet,
+
+b) a járművezetői kártyák elektronikus nyilvántartásának összekapcsolásához szükséges közös eljárásokról és előírásokról szóló, 2016. január 21-i (EU) 2016/68 bizottsági végrehajtási rendelet
+
+## végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a rendelet
 
@@ -118,5 +124,6 @@ j) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközök
 
 k) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelvnek
 
-[^21]: A 25/A. §-t a 171/2017. (VI. 29.) korm. rendelet 23. § (2) bekezdése iktatta be.
-[^22]: A hatálybalépés időpontja 2017. július 1.
+[^26]: A 25/A. §-t a 171/2017. (VI. 29.) korm. rendelet 23. § (2) bekezdése iktatta be.
+[^27]: A hatálybalépés időpontja 2017. július 1.
+[^28]: A 26. § (1) bekezdése a 233/2017. (VIII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
