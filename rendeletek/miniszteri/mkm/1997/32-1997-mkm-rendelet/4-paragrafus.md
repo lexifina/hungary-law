@@ -1,1 +1,0 @@
-## 3. § A kisebbségi iskolai nevelésben és oktatásban a kisebbség nyelvét és a kisebbség nyelvén tanított tantárgyak oktatását – a helyi tantervben meghatározottak szerint – az osztályok csoportokra bontásával szervezhetik meg.
