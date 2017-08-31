@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-6
 | 2014-05-29 | 1999-43-20-6B.11 | 36/2014. (IV. 29.) BM rendelet |
 | 2014-10-14 | 1999-43-20-6B.12 | 48/2014. (X. 13.) BM rendelet |
 | 2016-10-01 | 1999-43-20-6B.13 | 34/2016. (VIII. 2.) BM rendelet |
+| 2017-08-31 | 1999-43-20-6B.14 | 21/2017. (VIII. 23.) BM rendelet |
