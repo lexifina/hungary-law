@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-233-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-08-30 | 2017-233-20-22.1 | 233/2017. (VIII. 14.) Korm. rendelet |
+| 2017-08-31 | 2017-233-20-22.2 | 2010: CXXX. törvény |
