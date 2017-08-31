@@ -1,6 +1,6 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 745 313 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## a)[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 745 313 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,13 +12,13 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. június 30., a Versenysport támogatása előirányzat javára biztosított 105 000 ezer forint tekintetében 2017. december 31., a Magyar Állami Operaház Andrássy úti épületének felújítása előirányzat javára biztosított 402 029 ezer forint tekintetében 2018. június 30.
 
 ## b) egyetért azzal, hogy az Óbudai Egyetem már megkezdett kollégiumi beruházásának megvalósításához szükséges – részben a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosítással történő – forrás biztosításáról szóló 1457/2015. (VII. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím, K6. Beruházások Egyéb működési célú kiadások kiemelt előirányzat részére átcsoportosított 600 300 ezer forintból 2 000 ezer forint a K1. Személyi juttatások kiemelt előirányzaton, 540 ezer forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton kerüljön felhasználásra és elszámolásra;
 
 ## c) egyetért azzal, hogy a FINA Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság Budapesten történő megrendezéséhez szükséges forrás biztosítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1374/2015. (VI. 9.) Korm. határozat (a továbbiakban: Határozat) szerint átcsoportosított összeg a 2016. évben fizetendő jogdíjakra is felhasználható.
 
-## 2–3.[^1]
+## 2–3.[^2]
 
 1. melléklet az 1514/2016. (IX. 22.) Korm. határozathoz
 
@@ -118,4 +118,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1601/2017. (VIII. 31.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
