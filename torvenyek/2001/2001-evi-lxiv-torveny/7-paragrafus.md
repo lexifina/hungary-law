@@ -24,7 +24,7 @@
 
 10. Kulturális javak: az élettelen és élő természet keletkezésének, fejlődésének, az emberiség, a magyar nemzet, Magyarország történelmének kiemelkedő és jellemző tárgyi, képi, hangrögzített, írásos emlékei és egyéb bizonyítékai – az ingatlanok kivételével –, valamint a művészeti alkotások.
 
-11. Kulturális örökség elemei: a régészeti örökség, a hadtörténeti örökség régészeti módszerekkel kutatható elemei, a műemléki értékek, valamint a kulturális javak.
+11. Kulturális örökség elemei: a régészeti örökség, a hadtörténeti örökség régészeti módszerekkel kutatható elemei, a műemléki értékek, a nemzeti emlékhely, a kiemelt nemzeti emlékhely és annak 61/I. § (3a) bekezdése szerinti településkép-védelmi környezete, valamint a kulturális javak.
 
 12. Kulturális örökség elemeinek kutatása: a kulturális örökség elemeire vonatkozó, annak pótolhatatlan forrásértékét feltáró, tudományos módszereket alkalmazó, roncsolásmentes vagy roncsolásos beavatkozással járó eljárás.
 

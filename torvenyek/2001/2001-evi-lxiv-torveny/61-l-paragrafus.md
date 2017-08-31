@@ -1,4 +1,4 @@
-61/L. § (1) A 61/K. § szerinti rendeletben meghatározott egyes szabályokat megsértő természetes személlyel szemben – ha a 61/I. § (12) bekezdése nem alkalmazható – közigazgatási bírság szabható ki.
+61/L. § (1) A 61/K. § (1) bekezdése szerinti rendeletben meghatározott egyes szabályokat megsértő természetes személlyel szemben – ha a 61/I. § (12) bekezdése nem alkalmazható – közigazgatási bírság szabható ki.
 
 (2) A közigazgatási bírság kiszabására a kiemelt nemzeti emlékhely területe szerint illetékes közterület-felügyelet jogosult.
 

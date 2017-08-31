@@ -4,7 +4,7 @@
 
 a) az e törvényben vagy más jogszabályban engedélyhez kötött tevékenységet a védetté nyilvánított vagy e törvény erejénél fogva védelem alatt álló kulturális örökségi elemen engedély vagy tudomásulvétel nélkül vagy attól eltérő módon végzi,
 
-b) a 61/I. § (4) bekezdése szerinti tevékenységet a kiemelt nemzeti emlékhely területén, vagy annak részét képező közterülettel határos ingatlanon a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül vagy az előzetes hozzájárulásban meghatározottaktól eltérő módon végzi,
+b) a 61/I. § (4) bekezdése szerinti tevékenységet a kiemelt nemzeti emlékhely és annak településkép-védelmi környezete területén a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül vagy az előzetes hozzájárulásban meghatározottaktól eltérő módon végzi,
 
 c) a védetté nyilvánított vagy e törvény erejénél fogva védelem alatt álló kulturális örökség elemeit jogellenesen megsemmisíti vagy megrongálja, valamint
 

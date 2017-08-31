@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2016-07-01 | 2016. évi XXXII. törvény | 2001-64-00-00.38 |
 | 2016-07-10 | 2016. évi XCII. törvény | 2001-64-00-00.39 |
 | 2017-01-01 | 2016. évi CXVI. törvény | 2001-64-00-00.40 |
+| 2017-08-31 | 2017. évi XCIX. törvény | 2001-64-00-00.41 |

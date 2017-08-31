@@ -2,7 +2,7 @@
 
 80/A. § (1) Az örökségvédelem pénzügyi eszközei lehetnek különösen:
 
-a) a központi költségvetés örökségvédelmi célokat szolgáló előirányzatai;
+a) a központi költségvetés örökségvédelmi és településkép-védelmi célokat szolgáló előirányzatai;
 
 b) a helyi önkormányzatok örökségvédelmi célokra fordított pénzeszközei;
 

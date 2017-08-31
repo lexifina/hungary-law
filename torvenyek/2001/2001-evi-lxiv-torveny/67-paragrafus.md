@@ -6,11 +6,19 @@ a) az örökségvédelem szabályainak megsértése esetén a nyilvántartott m�
 
 b) nyilvántartott műemléki értékek, műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység folytatásától eltiltani,
 
-c) elrendelheti a védett műemléki értékek állagmegóvására vagy jókarbantartására vonatkozó kötelezettség teljesítését.
+c) elrendelheti a védett műemléki értékek állagmegóvására vagy jókarbantartására vonatkozó kötelezettség teljesítését,
 
-(2) A hatóság az (1) bekezdésben meghatározott kötelezettségek teljesítésére a tulajdonost (tulajdonosi joggyakorlót), vagyonkezelőt, társasházat, használót, vagy az építtetőt, kivitelezőt kötelezheti.
+d) a 61/K. § (6) bekezdése szerinti esetben és körben elrendelheti – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását.
 
-(3) Amennyiben a kötelezett a hatósági kötelezésben foglaltaknak nem tesz eleget és ezzel a védett kulturális örökség veszélybe kerül, a hatóság örökségvédelmi bírság kiszabásáról intézkedik és
+(2) A hatóság
+
+a) az (1) bekezdés a)–c) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, a társasházat, továbbá a használót vagy az építtetőt, és a kivitelezőt,
+
+b) az (1) bekezdés d) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, illetve a társasházat
+
+kötelezheti.
+
+(3) Amennyiben a kötelezett az (1) bekezdés a)–c) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget és ezzel a védett kulturális örökség veszélybe kerül, a hatóság örökségvédelmi bírság kiszabásáról intézkedik és
 
 a) a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet;
 
@@ -20,7 +28,13 @@ c) elrendelheti a védetté nyilvánított kulturális javak közgyűjteményben
 
 d) kezdeményezheti a vagyonkezelői szerződés felülvizsgálatát, illetve a használati jog megszüntetését.
 
-(4) A jogerős és végrehajtható határozatban megállapított (3) bekezdés a) pontja szerinti követelés biztosítékául a Magyar Államot a védett kulturális örökségi elemen jelzálogjog, valamint annak fennállásáig terhelési tilalom illeti meg.
+(3a) Ha a kötelezett az (1) bekezdés d) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget, a hatóság
+
+a) településkép-védelmi bírság kiszabásáról intézkedik, valamint
+
+b) a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet.
+
+(4) A jogerős és végrehajtható határozatban megállapított (3) bekezdés a) pontja és a (3a) bekezdés b) pontja szerinti követelés biztosítékául a Magyar Államot a védett kulturális örökségi elemen jelzálogjog, valamint annak fennállásáig terhelési tilalom illeti meg.
 
 (5) A hatóság által elvégeztetett munka költsége adók módjára behajtandó köztartozásnak minősül és adók módjára kell behajtani.
 
