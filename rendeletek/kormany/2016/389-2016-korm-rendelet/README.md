@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-389-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-12-02 | 2016-389-20-22.1 | 389/2016. (XII. 2.) Korm. rendelet |
+| 2017-08-31 | 2016-389-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
