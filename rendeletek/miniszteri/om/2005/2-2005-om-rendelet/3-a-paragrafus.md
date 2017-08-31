@@ -1,3 +1,0 @@
-## 3. §[^2] A közoktatásról szóló törvény 23. §-ára tekintettel engedélyt kap az értelmi fogyatékos tanulókat nevelő és oktató általános iskola, a speciális szakiskola, a készségfejlesztő speciális szakiskola fenntartója, hogy olyan helyi tantervet hagyjon jóvá, amely alapján az iskola a tanulókat – fejlettségüktől függően – alapfokú iskolai végzettség megszerzésére vagy alapfokú iskolai végzettség megszerzésére készíti fel. Az iskola a felvétel előtt tájékoztatja a jelentkezőket és a szüleiket a helyi tantervben foglaltakról.
-
-[^2]: A 3. § első mondata a 41/2007. (XII. 22.) OKM rendelet 9. § (3) bekezdésének l) pontja szerint módosított szöveg.
