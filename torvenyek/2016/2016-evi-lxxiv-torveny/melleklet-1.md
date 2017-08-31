@@ -6,7 +6,7 @@ A településkép védelme szempontjából kiemelt területek
 
 2. a műemlék területe és a műemléki jelentőségű terület, a műemléki környezet területe;
 
-3. a történelmi emlékhely és a nemzeti emlékhely;
+3. a történelmi emlékhely és a nemzeti emlékhely, kiemelt nemzeti emlékhely;
 
 4. a történeti kert és a történeti táj területe;
 

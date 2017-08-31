@@ -16,7 +16,7 @@ f) az e törvény szerinti reklámközzététel és reklámhordozó-elhelyezés 
 
 g) a 11/E. § szerinti közigazgatási bírság, helyszíni bírság kiszabásának mérlegelési szempontjait és megfizetése módjának részletszabályait.
 
-(2) Felhatalmazást kap az önkormányzat képviselő-testülete (közgyűlése), hogy a településképi rendeletben állapítsa meg
+(2) Felhatalmazást kap az önkormányzat képviselő-testülete (közgyűlése), hogy – a (2a) bekezdés szerinti jogszabályok hatálya alá tartozó településképi szempontból kiemelt jelentőségű, egyedi településkép-védelem alatt álló terület kivételével – a településképi rendeletben állapítsa meg
 
 a) a településképi követelményeket,
 
@@ -35,3 +35,5 @@ g) a reklámhordozó és reklám elhelyezésére vonatkozó tilalmak és korlát
 h) a helyi önkormányzat illetékességi területén létesíthető reklámhordozók számát, megjelenésük különös formai (műszaki) követelményeit.
 
 (3) Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg fővárosi helyi építészeti értékvédelem alá vont építmények esetében a településképi véleményezési eljárás részletes szabályait.
+
+(4) Felhatalmazást kap az önkormányzat, hogy a széleskörű társadalmi bevonás és a nyilvánosság biztosítása érdekében, a helyi adottságoknak megfelelően rendeletben állapítsa meg a településfejlesztési koncepció, az integrált településfejlesztési stratégia, a településrendezési eszközök, a kézikönyv és a településképi rendelet készítéséhez, módosításához a lakosság, érdekképviseleti, civil és gazdálkodó szervezetekkel, vallási közösségekkel (partnerek) történő (partnerségi) egyeztetés részletes szabályait.
