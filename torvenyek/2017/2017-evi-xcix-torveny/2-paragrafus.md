@@ -1,0 +1,3 @@
+2. § A Kötv. 61/B. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A nemzeti emlékhelyek védelme és hozzáférhetővé tétele közérdek, amelynek megvalósításában közreműködnek az állami és az önkormányzati szervek, valamint az egyházi jogi személyek, a civil és egyéb szervezetek, illetve a természetes személyek. A védelem kiterjed a nemzeti emlékhely és a kiemelt nemzeti emlékhely méltóságának megőrzésére és a méltó megemlékezés feltételeinek biztosítására, az emlékhely történelmileg hiteles, egységes arculatának és műemléki megjelenésének fenntartására és biztosítására, továbbá az ezek érdekében végzett fejlesztés, beruházás megvalósításának elősegítésére.”
