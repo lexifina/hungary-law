@@ -1,1 +1,0 @@
-A közoktatásról szóló – többször módosított – 1993. évi LXXIX. törvény (a továbbiakban: közoktatásról szóló törvény) 94. §-a (3) bekezdésének b) pontjában kapott felhatalmazás alapján, továbbá a közoktatásról szóló törvény 8/A. §-ának és a 45. §-ának (2) bekezdésében foglaltak végrehajtására a Kormány a következőket rendeli el:
