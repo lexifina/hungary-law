@@ -12,7 +12,7 @@
 
 ## a 3. melléklet szerinti helyszínek esetében 2018. január 1.
 
-## b) felhívja a nemzetgazdasági minisztert, hogy a 2017. évben egyszeri jelleggel gondoskodjon Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XVI. Nemzeti Adó- és Vámhivatal fejezet 1. Nemzeti Adó- és Vámhivatal igazgatása cím javára legfeljebb bruttó 141 000 ezer forint többletforrás biztosításáról a NAV ügyfélszolgálatainak a kormányablakokba történő átköltöztetése, illetve a kormányablakokban történő kialakítása érdekében;
+## b)[^1] felhívja a nemzetgazdasági minisztert, hogy a 2017. évben egyszeri jelleggel gondoskodjon Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XVI. Nemzeti Adó- és Vámhivatal fejezet 1. Nemzeti Adó- és Vámhivatal igazgatása cím javára legfeljebb bruttó 107 386 900 forint és a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Ágazati célfeladatok alcím, 56. Kormányzati infokommunikációs szolgáltatások jogcímcsoport javára legfeljebb bruttó 33 613 100 forint többletforrás biztosításáról a NAV ügyfélszolgálatainak a kormányablakokba történő átköltöztetése, illetve a kormányablakokban történő kialakítása érdekében;
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -35,3 +35,5 @@
 ## 2. A Kormány egyetért azzal, hogy az egyes adóügyi ügyfélszolgálati tevékenységeknek a kormányablakokban történő ellátásához szükséges beruházások során a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
 1. melléklet az 1325/2017. (VI. 8.) Korm. határozathoz
+
+[^1]: Az 1. pont b) alpontja az 1601/2017. (VIII. 31.) Korm. határozat 9. pontja szerint módosított szöveg.
