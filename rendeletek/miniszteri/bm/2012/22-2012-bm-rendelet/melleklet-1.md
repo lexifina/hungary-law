@@ -1,6 +1,6 @@
-## meghatározott adatokat az egyes miniszteri rendeleteknek a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosításával, a szabálysértési statisztikai adatszolgáltatással és a szabálysértési jogsegéllyel összefüggő módosításáról szóló 81/2015. (XII. 23.) BM rendelet hatálybalépését[^47] követő 30. naptól gyűjtik.
+## meghatározott adatokat az egyes miniszteri rendeleteknek a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosításával, a szabálysértési statisztikai adatszolgáltatással és a szabálysértési jogsegéllyel összefüggő módosításáról szóló 81/2015. (XII. 23.) BM rendelet hatálybalépését[^52] követő 30. naptól gyűjtik.
 
-1. melléklet a 22/2012. (IV. 13.) BM rendelethez[^48]
+1. melléklet a 22/2012. (IV. 13.) BM rendelethez[^53]
 
-[^47]: A hatálybalépés időpontja 2016. január 1.
-[^48]: Az 1. mellékletet a 21/2013. (VI. 7.) BM rendelet 3. § (3) bekezdése iktatta be.
+[^52]: A hatálybalépés időpontja 2016. január 1.
+[^53]: Az 1. mellékletet a 21/2013. (VI. 7.) BM rendelet 3. § (3) bekezdése iktatta be.
