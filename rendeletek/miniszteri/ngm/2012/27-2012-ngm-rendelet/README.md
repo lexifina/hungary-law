@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-27-20-2
 | 2016-09-01 | 2012-27-20-2X.9 | 12/2013. (III. 28.) NGM rendelet |
 | 2017-05-18 | 2012-27-20-2X.10 | 12/2013. (III. 28.) NGM rendelet |
 | 2017-07-01 | 2012-27-20-2X.11 | 12/2013. (III. 28.) NGM rendelet |
+| 2017-09-01 | 2012-27-20-2X.12 | 12/2013. (III. 28.) NGM rendelet |

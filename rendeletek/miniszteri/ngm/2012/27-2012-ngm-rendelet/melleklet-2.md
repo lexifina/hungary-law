@@ -272,7 +272,7 @@
 
 | 134. | 133. | 31 | 542 | 06 | Kötő | Könnyűipar |
 
-| 135. | 134. | 35 | 522 | 08 | Középfeszültségű FAM szerelő | Elektrotechnika-elektronika |
+| 135. | 134. | 35 | 522 | 18 | Középfeszültségű FAM szerelő távolból végzett technológiával | Elektrotechnika-elektronika |
 
 | 136. | 135. | 35 | 522 | 09 | Középfeszültségű kábelszerelő | Elektrotechnika-elektronika |
 
@@ -645,6 +645,10 @@
 | 320. | 319. | 51 | 345 | 02 | Képző- és iparművészeti program- és projektszervező | Közgazdaság |
 
 | 321. | 320. | 51 | 345 | 04 | Médiaművészeti program- és projektszervező | Közgazdaság |
+
+| 322. | 321. | 35 | 522 | 19 | Középfeszültségű FAM szerelő kombinált technológiával | Elektrotechnika-elektronika |
+
+| 323. | 322. | 35 | 522 | 20 | Kisfeszültségű mérőhelyi FAM szerelő | Elektrotechnika-elektronika |
 
 2. melléklet a 27/2012. (VIII. 27.) NGM rendelethez[^3]
 
@@ -1936,29 +1940,25 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 |  |  | A |  | B |  | C |
 
-|  | 3.3.1. |  | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
 
-|  | 3.3.2. |  | azonosító száma |  | megnevezése |  | a kapcsolódás módja |
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
 
-|  | 3.3.3. |  | 54 344 01 | Pénzügyi-számviteli ügyintéző |  | szakképesítés |
+| 3.3.3. | 54 344 01 | Pénzügyi-számviteli ügyintéző | szakképesítés |
 
-|  | 3.3.4. |  | 54 344 02 | Vállalkozási és bérügyintéző |  | szakképesítés |
+| 3.3.4. | 54 344 02 | Vállalkozási és bérügyintéző | szakképesítés |
 
-|  | 3.3.5. |  | 54 343 01 | Pénzügyi termékértékesítő (bank, befektetés, biztosítás) |  | szakképesítés |
+| 3.3.5. | 54 343 01 | Pénzügyi termékértékesítő (bank, befektetés, biztosítás) | szakképesítés |
 
-|  | 3.3.6. |  | 54 344 04 | Államháztartási ügyintéző | szakképesítés |
+| 3.3.6. | 54 344 04 | Államháztartási ügyintéző | szakképesítés |
 
-|  | 3.3.7. |  | 55 344 01 |  | Adótanácsadó |  | szakképesítés-ráépülés |
+| 3.3.7. | 55 344 01 | Adótanácsadó | szakképesítés-ráépülés |
 
-|  | 3.3.8. |  | 55 344 04 |  | Ellenőrzési szakelőadó |  | szakképesítés-ráépülés |
+| 3.3.8. | 55 344 04 | Ellenőrzési szakelőadó | szakképesítés-ráépülés |
 
-|  | 3.3.9. |  | 55 344 05 |  | IFRS mérlegképes könyvelő |  | szakképesítés-ráépülés |
+| 3.3.9. | 55 344 05 | IFRS mérlegképes könyvelő | szakképesítés-ráépülés |
 
-|  | 3.3.10. |  | 55 344 06 |  | Pénzügyi szervezeti mérlegképes könyvelő |  | szakképesítés-ráépülés |
-
-|  | 3.3.11. |  | 55 344 03 |  | Egyéb szervezeti mérlegképes könyvelő |  | azonos ágazat |
-
-|  | 3.3.12. |  | 55 344 07 |  | Vállalkozási mérlegképes könyvelő |  | azonos ágazat |
+| 3.3.10. | 55 344 06 | Pénzügyi szervezeti mérlegképes könyvelő | szakképesítés-ráépülés |
 
 4. SZAKMAI KÖVETELMÉNYEK
 
@@ -3492,27 +3492,25 @@ A szakképesítéssel rendelkező képes:
 
 | 3.3.3. | 51 523 01 | PLC programozó | részszakképesítés |
 
-| 3.3.4. | 35 522 01 | Audio- és vizuáltechnikai műszerész | azonos ágazat |
+| 3.3.4. | 55 523 07 | Járműipari karbantartó technikus | szakképesítés-ráépülés |
 
-| 3.3.5. | 35 523 01 | Automatikai berendezés karbantartó | azonos ágazat |
+| 3.3.5. | 34 522 01 | Elektromechanikai műszerész | azonos ágazat |
 
-| 3.3.6. | 34 522 01 | Elektromechanikai műszerész | azonos ágazat |
+| 3.3.6. | 34 522 02 | Elektromos gép- és készülékszerelő | azonos ágazat |
 
-| 3.3.7. | 34 522 02 | Elektromos gép- és készülékszerelő | azonos ágazat |
+| 3.3.7. | 34 522 03 | Elektronikai műszerész | azonos ágazat |
 
-| 3.3.8. | 34 522 03 | Elektronikai műszerész | azonos ágazat |
+| 3.3.8. | 54 523 02 | Elektronikai technikus | azonos ágazat |
 
-| 3.3.9. | 54 523 02 | Elektronikai technikus | azonos ágazat |
+| 3.3.9. | 54 522 01 | Erősáramú elektrotechnikus | azonos ágazat |
 
-| 3.3.10 | 54 522 01 | Erősáramú elektrotechnikus | azonos ágazat |
+| 3.3.10. | 54 523 03 | Közlekedésautomatikai műszerész | azonos ágazat |
 
-| 3.3.11. | 54 523 03 | Közlekedésautomatikai műszerész | azonos ágazat |
+| 3.3.11. | 34 523 01 | Mechatronikus-karbantartó | azonos ágazat |
 
-| 3.3.12. | 34 523 01 | Mechatronikus-karbantartó | azonos ágazat |
+| 3.3.12. | 34 522 04 | Villanyszerelő | azonos ágazat |
 
-| 3.3.13. | 55 523 04 | Orvosi elektronikai technikus | azonos ágazat |
-
-| 3.3.14. | 34 522 04 | Villanyszerelő | azonos ágazat |
+| 3.3.13. | 55 523 06 | Háztartási gépszerviz szaktechnikus | szakképesítés-ráépülés |
 
 4. SZAKMAI KÖVETELMÉNYEK
 
@@ -4288,7 +4286,7 @@ A 13. sorszámú Bányaművelő technikus megnevezésű szakképesítés szakmai
 
 2. EGYÉB ADATOK
 
-2.1.A képzés megkezdésének feltételei:
+2.1. A képzés megkezdésének feltételei:
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
@@ -4298,13 +4296,13 @@ A 13. sorszámú Bányaművelő technikus megnevezésű szakképesítés szakmai
 
 2.3. Előírt gyakorlat: –
 
-2.4. Egészségügyi alkalmassági követelmények: szükségesek (látás, hallás, fizikum állapotának felmérése, üzemorvosi javaslatra)
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
 
 2.5. Pályaalkalmassági követelmények: nem szükségesek
 
-2.6. Elméleti képzési idő aránya: 70%
+2.6. Elméleti képzési idő aránya: 60%
 
-2.7. Gyakorlati képzési idő aránya: 30%
+2.7. Gyakorlati képzési idő aránya: 40%
 
 2.8. Szintvizsga: –
 
@@ -4312,7 +4310,7 @@ A 13. sorszámú Bányaművelő technikus megnevezésű szakképesítés szakmai
 
 5 évfolyamos képzés esetén a 10. évfolyamot követően 140 óra, a 11. évfolyamot követően 140 óra;
 
-2 évfolyamos képzés esetén az első szakképzési évfolyamot követően 160 óra
+2 évfolyamos képzés esetén az első szakképzési évfolyamot követően 160 óra.
 
 3. PÁLYATÜKÖR
 
@@ -4322,53 +4320,57 @@ A 13. sorszámú Bányaművelő technikus megnevezésű szakképesítés szakmai
 
 | 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
 
-| 3.1.2. | 3111 | Bányászati technikus | Külszíni bányaművelő technikus |
+| 3.1.2. | 3111 | Bányászati technikus | Külszíni bányaművelő technikus (aknász) |
 
 | 3.1.3. | Mélyművelésű bányaművelő technikus (aknász) |
 
-| 3.1.4. | Robbantómester |
+| 3.1.4. | Szakvezető |
 
 | 3.1.5. | Bánya-gépkarbantartó irányító |
 
-| 3.1.6 | Geológus, geofizikus |
+| 3.1.6. | Bányamester, gépmester |
 
 3.2. A szakképesítés munkaterületének rövid leírása:
 
-Általános szakmai tudással rendelkező technikus, aki készségszinten ismeri a külfejtéses és a mélyművelésű bányák munkafeladatait és az ott használatos gépek, berendezések üzemeltetését, karbantartását. Ezen munkafeladatok szén, érc, ásvány, bauxit, kő, homok stb. kitermeléséhez szükséges munkakörök betöltéséhez elfogadható ismeretekkel rendelkezik és középfokon ismeri a vezetői munkafeladatokat.
+Általános szakmai tudással rendelkező technikus, aki ismeri a külfejtéses és a mélyművelésű bányák munkafeladatait és az ott használatos gépek, berendezések üzemeltetését, karbantartását. Ezen munkafeladatok esetén a szén, érc, ásvány, bauxit, kő, homok stb. kitermeléséhez szükséges munkakörök betöltéséhez szükséges ismeretekkel, gyakorlattal rendelkezik és középfokon ismeri a vezetői munkafeladatokat.
 
-Szilárd ásványok kitermelésével foglalkozik, közvetlenül a külszíni, víz alatti vagy földalatti előfordulás helyszínén, illetve megközelítési pontján. Ennek során a felügyeletététől kapott utasítások és előírások, valamint konkrét munkamegbízás alapján feltárást, letakarítást, előkészítést, termelést, vagy felhagyást végez, jövesztés, biztosítás, rakodás, szállítás részfolyamatokkal. A folyamatok során betartja és betartatja az előzőekben felsorolt és elvárható, valamint hatósági utasításokban meghatározott szakmai ismereteket, az alap és további képzésekben tanultakat. Ismeri a szerszámok, gépek használatának elvárható követelményeit. Betartatja a gépek kezelésével, üzemeltetésével, indításával, és karbantartásával kapcsolatos utasításokat és elvárásokat. Ismeri a munkahelyének jellemző veszély forrásait és tevékenysége során ezeknek megfelelően hoz döntéseket, ad és végrehajt utasításokat
+Szilárd ásványok kitermelésével foglalkozik. Munkaköri leírása, utasítások, valamint konkrét munkamegbízás alapján feltárást, letakarítást, előkészítést, termelést, vagy felhagyást végez, jövesztés, biztosítás, rakodás, szállítás részfolyamatokkal. A folyamatok során betartja és betartatja az előzőekben felsorolt, utasításokban meghatározott szakmai ismereteket. Betartatja a gépek kezelésével, üzemeltetésével, indításával, és karbantartásával kapcsolatos utasításokat. Ismeri a munkahelyének jellemző veszély forrásait, ezeknek megfelelően hoz döntéseket, ad és végrehajt utasításokat.
 
-- Betartja és betartatja a munka-, baleset-, egészség-, környezet- és tűzvédelmi előírásokat, munkaköri utasításokat készít.
+A szakképesítéssel rendelkező képes:
 
-- Ellenőrző méréseket végez, mérőműszereket alkalmaz
+- betartani és betartatni a munka-, baleset-, egészség-, környezet- és tűzvédelmi előírásokat;
 
-- Munkaterületén aktívan tevékenykedik, szakellenőrzést végez, külön útmutatás szerint irányítja a munkafeladatokat.
+- gondoskodni elsősegélynyújtó és tűzoltó eszközökről, képes elsősegélyt nyújtani;
 
-- Szerelteti és karbantartatja a bányásztati gépeket és eszközöket
+- használni a technológiai dokumentációkban alkalmazott szabványos jelképes jelöléseket;
 
-- Vágatot hajtattat
+- kialakítani a munkahelyet, munkakörnyezetet;
 
-- Fejtési munkát végeztethet
+- meghatározni és biztosítani a szükséges munkaerőt, munkaeszközt;
 
-- Robbantási munkát végeztethet és ellenőrzi minden munkafázisát
+- tervezni a gépkezelők termelési, gépalkalmazási és karbantartási munkáját;
 
-- Ideiglenes biztosítást készíttet
+- munkaterületén szakellenőrzést végezni, irányítani a munkafeladatokat;
 
-- Fenntartási munkát végeztet
+- ellenőrző méréseket végezni, mérőműszereket alkalmazni;
 
-- Különleges vágathatási technológiát alkalmaztathat
+- bányászati gépek, berendezések alkalmazását, működési környezetét ellenőrizni, meggyőződni annak biztonságos voltáról;
 
-- Intézkedik a váratlan események bekövetkeztekor
+- kis- és középjavítási műveleteket végezni;
 
-- Részt vesz bányamentési feladatok ellátásában és irányításában
+- napi karbantartási műveleteket végezni;
 
-- Betartatja a „bányatörvény és munkavédelmi törvény” előírásait.
+- betartani és betartatni a szerelési-javítási technológiára vonatkozó előírásokat;
 
-- Munkaköri utasításokat készít, végrehajtat.
+- Gondoskodni a keletkező mérgező gázok hatásainak csökkentéséről;
 
-- Rekultivációs feladatokat végeztet, terepmunkát ellenőriz.
+- Intézkedni a váratlan események bekövetkeztekor;
 
-- Laboratóriumi munkát végez és végeztet.
+- Részt venni bányamentési feladatok ellátásában és irányításában;
+
+- Fejtési munkát végeztetni, jövesztő gépet kezeltetni, biztosítószerkezetet, berendezést kezeltetni;
+
+- rekultivációs feladatokat végeztetni, terepmunkát ellenőrizni.
 
 3.3. Kapcsolódó szakképesítések:
 
@@ -4396,9 +4398,9 @@ Szilárd ásványok kitermelésével foglalkozik, közvetlenül a külszíni, v�
 
 | 4.4. | 11499-12 | Foglalkoztatás II. |
 
-| 4.5. | 11799-16 | Egészségvédelem és biztonságtechnika |
+| 4.5. | 11500-12 | Munkahelyi egészség és biztonság |
 
-| 4.6. | 12119-16 | Mélybányászati alapok |
+| 4.6. | 10196-12 | Bányászati alapismeretek |
 
 | 4.7. | 10194-12 | Bányagépek működtetése |
 
@@ -4406,81 +4408,85 @@ Szilárd ásványok kitermelésével foglalkozik, közvetlenül a külszíni, v�
 
 | 4.9. | 10195-12 | Bányaipari technikus feladata |
 
-| 4.10. | 10197-12 | Bányaüzemeltetés, ellenőrzés |
+| 4.10. | 10198-12 | Logisztika, karbantartás |
+
+| 4.11. | 11420-13 | Külszíni bányászat |
 
 5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
 
 5.1. A komplex szakmai vizsgára bocsátás feltételei:
 
-Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
 Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
 
-5.2.A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
 
 |  | A | B | C |
 
 | 5.2.1. | A szakképesítés szakmai követelménymoduljainak |
 
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsga-tevékenysége |
 
-| 5.2.3. | 11799-16 | Egészségvédelem és biztonságtechnika | szóbeli |
+| 5.2.3 | 10196-12 | Bányászati alapismeretek | gyakorlati |
 
-| 5.2.4. | 12119-16 | Mélybányászati alapok | szóbeli |
+| 5.2.4. | 10194-12 | Bányagépek működtetése | gyakorlati, szóbeli |
 
-| 5.2.5. | 10194-12 | Bányagépek működtetése | gyakorlati, szóbeli |
+| 5.2.5. | 10199-12 | Termelési feladatok | gyakorlati, szóbeli |
 
-| 5.2.6. | 10199-12 | Termelési feladatok | gyakorlati, szóbeli |
+| 5.2.6. | 10195-12 | Bányaipari technikus feladata | írásbeli |
 
-| 5.2.7. | 10195-12 | Bányaipari technikus feladata | írásbeli |
+| 5.2.7. | 10198-12 | Logisztika, karbantartás | írásbeli, szóbeli |
 
-| 5.2.8. | 10197-12 | Bányaüzemeltetés, ellenőrzés | írásbeli |
+| 5.2.8. | 11498-12 | Foglalkoztatás I. (érettségire épülő képzések esetén) | írásbeli |
 
-| 5.2.9. | 11498-12 | Foglalkoztatás I. (érettségire épülő képzések esetén) | írásbeli |
+| 5.2.9. | 11499-12 | Foglalkoztatás II. | írásbeli |
 
-| 5.2.10. | 11499-12 | Foglalkoztatás II. | írásbeli |
+| 5.2.10. | 11500-12 | Munkahelyi egészség és biztonság | írásbeli |
 
-5.3.A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+| 5.2.11. | 11420-13 | Külszíni bányászat | szóbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
 
 5.3.1. Gyakorlati vizsgatevékenység:
 
-A vizsgafeladat megnevezése: Fekü szintvonalas térkép szerkesztése adatokból. Vágatok célszerű telepítése.
+A vizsgafeladat megnevezése: Bányaművelő technikus gyakorlati feladatok.
 
 A vizsgafeladat ismertetése:
 
-Fúrási adatok alapján szerkessze meg egy kisebb szénbánya-mező fekü szintvonalas térképét. Közelítőleg utaljon a telepzavarok létére. Jelölje ki a vágatok legcélszerűbb elhelyezését.
+Bányászati művelési, termelési feladatainak elvégzése, jövesztő, szállító, rakodó és kiszolgáló gépeinek üzemeltetése.
 
-A vizsgafeladat időtartama: 180 perc.
+A vizsgafeladat időtartama: 180 perc
 
-A vizsgafeladat értékelési súlyaránya: 40%.
+A vizsgafeladat értékelési súlyaránya: 40%
 
 5.3.2. Központi írásbeli vizsgatevékenység:
 
 A jellemző írásbeli vizsga tételeit központi vizsgafeladat sorozatból, a követelmény modulok tartalmával összhangban választják ki országosan egységesen.
 
-A vizsgafeladat megnevezése: Ismertessen egy kis dőlésű, zavarmentes széntelep művelésére legcélszerűbb módszert, a homlok telepítését és a gépesítést.
+A vizsgafeladat megnevezése: Bányaművelő technikus szakmai feladatok.
 
-A vizsga feladat ismertetése: Megadott térképen részleten ábrázolja az előkészítő vágatok és a homlok(ok) helyzetét, kereszteződéseit, biztosítási módszereit, dőléseit, haladási irányait és a célszerű gépesítést.
+A vizsga feladat ismertetése: Bányászati termelési, karbantartási, logisztikai feladatok tervezése, ellenőrzés.
 
-A feladatot a felügyelő tanár, vagy a vizsgabiztos ismerteti a tanulókkal.
+A vizsgafeladat időtartalma: 180 perc
 
-A vizsgafeladat időtartalma: 180 perc.
-
-A vizsgafeladat értékelési súlyaránya: 30%.
+A vizsgafeladat értékelési súlyaránya: 30%
 
 5.3.3. Szóbeli vizsgatevékenység:
 
 A szóbeli vizsgatevékenység kérdései szintén központilag összeállított, melyek tartalmazzák a szakmai követelmények fejezetben megadott témakörök minden lényeges fejezetét és a követelmény modulokkal összhangban vannak.
 
-A vizsgafeladat megnevezése: Ismertesse egy bánya szellőztetésének fő szempontjait.
+A vizsgafeladat megnevezése: Bányászati munkafolyamatok, technológiák, irányítási, ellenőrzési feladatai.
 
-A vizsgafeladat ismertetése: a vizsgabiztos, vagy a kérdező tanár határozza meg: a bánya jellegét (szén, érc, ásvány,stb.), amiből fakadnak a szellőztetés alapvető szempontjai.
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 10199-12 Termelési feladatok és a 10195-12 Bányaipari technikus feladata modul témaköreit tartalmazza.
 
 A vizsga időtartama: 45 perc, 30 perc felkészülés és 15 perc szóbeli kifejtése a témának.
 
-A vizsgafeladat értékelési súlyaránya: 30%.
+A vizsgafeladat értékelési súlyaránya: 30%
 
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek tételeire, értékelési útmutatóira és egyéb dokumentumaira a vizsgán használható segédeszközökre vonatkozó részletes szabályok a http://nive.hu/ weblapon érhetők el a Vizsgák menüpontban.
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek tételeire, értékelési útmutatóira és egyéb dokumentumaira a vizsgán használható segédeszközökre vonatkozó részletes szabályok az állami szakképzési és felnőttképzési szerv honlapján érhetők el a Vizsgák menüpontban.
 
 5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
@@ -4490,63 +4496,49 @@ A vizsgafeladat értékelési súlyaránya: 30%.
 
 | 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
 
-| 6.2. | Kotrógép |
+| 6.2. | Bányászati kéziszerszámok |
 
-| 6.3. | Szállítószalagok |
+| 6.3. | Pneumatikus bányászati kéziszerszámok |
 
-| 6.4. | Szállítójárművek kézi és távirányításúak |
+| 6.4. | Villamos bányászati kéziszerszámok |
 
-| 6.5. | Csővezetékek |
+| 6.5. | Bányalevegő és gázösszetételt mérő eszközök |
 
-| 6.6. | Szivattyú |
+| 6.6. | Teheremelő berendezések |
 
-| 6.7. | Villamos energiaellátás berendezései (trafó, hálózat, kapcsolók stb.) |
+| 6.7. | Jövesztő berendezések |
 
-| 6.8. | Villamos berendezések (motorok stb.) |
+| 6.8. | Szállító berendezések |
 
-| 6.9. | Törők |
+| 6.9. | Leszóró berendezések |
 
-| 6.10. | Osztályozók |
+| 6.10. | Biztosító szerkezetek |
 
-| 6.11. | Geodéziai eszközök |
+| 6.11. | Törő és osztályozó berendezések |
 
-| 6.12. | Informatikai berendezések |
+| 6.12. | Földmunkagépek |
 
-| 6.13. | Hidraulikus és pneumatikus szerszámok |
+| 6.13. | Hidraulikus berendezések |
 
-| 6.14. | Porlekötés eszközei |
+| 6.14. | Sűrített levegős berendezések |
 
-| 6.15. | Alkatrészek és kenőanyagok, kéziszerszámok |
+| 6.15. | Folyadék szállító berendezések |
 
-| 6.16. | Vulkanizáló eszközök |
+| 6.16. | Egyéni és kollektív védőeszközök |
 
-| 6.16. | Fúróberendezések |
+| 6.17. | Villamos energiaellátás berendezései |
 
-| 6.17. | Egyéni védőeszközök |
+| 6.18. | Geodéziai eszközök |
 
-| 6.18. | Tűzoltószerszámok |
+| 6.19. | Különböző mérőeszközök |
 
-| 6.19. | Emelő berendezések, kötelek, kapcsoló eszközök |
+| 6.20. | Informatikai berendezések |
 
-| 6.20. | Anyagmozgatás, parabola vitla |
+| 6.21. | Porlekötő berendezések |
 
-| 6.21. | A biztonságtechnika előírt eszközei |
+| 6.22. | Fúróberendezések |
 
-| 6.22. | Villamos és pneumatikus kisgépek, kompresszor, légcsővezeték |
-
-| 6.23. | Kéziszerszámok |
-
-| 6.24. | Különböző mérőeszközök |
-
-| 6.25. | Irodaszerek, külszíni hírközlési eszközök |
-
-| 6.26. | Asztali és oszlopos fúrógép, esztergagép |
-
-| 6.27. | Függesztett és sínpályához kötött csillék |
-
-| 6.28. | Bányamozdony és személyszállító kocsik |
-
-7. EGYEBEK
+| 6.23. | Hírközlési eszközök |
 
 A 14. sorszámú Bányaművelő megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
@@ -4568,7 +4560,7 @@ A 14. sorszámú Bányaművelő megnevezésű szakképesítés szakmai és vizsg
 
 vagy iskolai előképzettség hiányában
 
-2.1.2. Bemeneti kompetenciák: a képzés megkezdhető e rendelet 3. számú mellékletében a Gépészet szakmacsoportra meghatározott kompetenciák birtokában
+2.1.2. Bemeneti kompetenciák: a képzés megkezdhető e rendelet 3. mellékletében a Gépészet szakmacsoportra meghatározott kompetenciák birtokában
 
 2.2. Szakmai előképzettség: –
 
@@ -4584,7 +4576,7 @@ vagy iskolai előképzettség hiányában
 
 2.8. Szintvizsga: nappali rendszerű oktatás vagy a nappali oktatás munkarendje szerint szervezett felnőttoktatás esetén kötelező
 
-2. 9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama:
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama:
 
 3 évfolyamos képzés esetén a 9. évfolyamot követően 140 óra, a 10. évfolyamot követően 140 óra;
 
@@ -4592,57 +4584,57 @@ vagy iskolai előképzettség hiányában
 
 3. PÁLYATÜKÖR
 
-3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+3.1. A szakképesítéssel legjellemzőbben betölthető munkakörök, foglalkozások
 
 |  | A | B | C |
 
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
+| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakörök |
 
 | 3.1.2. | 8311 | Szilárdásvány-kitermelő gép kezelője (szén, kő) | Vájár (segédvájár) |
 
-| 3.1.3. | Ásvány előkészítő |
+| 3.1.3. | Érc és ásvány előkészítő |
 
-| 3.1.4 | Mélybányászati osztályozó kezelő |
+| 3.1.4. | Törő és osztályozó kezelő |
 
-| 3.1.5 | Jövesztőgép-kezelő |
+| 3.1.5. | Jövesztőgép-kezelő |
 
-| 3.1.6 | Rakodógép kezelő |
+| 3.1.6. | Szállítógép kezelő |
 
-| 3.1.7 | Gépkezelő |
+| 3.1.7. | Gépkezelő |
 
-| 3.1.8 | Szalag-kezelő |
+| 3.1.8. | Rakodógép kezelő |
 
-| 3.1.9 | Vontatógép kezelő |
+| 3.1.9. | Leszórógép kezelő |
 
 | 3.1.10. | Szivattyúkezelő |
 
-| 3.1.11. | Tömedékelő |
+| 3.1.11. | Bányászati üzemeltető |
 
 3.2. A szakképesítés munkaterületének rövid leírása:
 
-Mélybányászati szén-, érc-, ásvány bányák: művelési, termelési feladatainak elvégzése, jövesztő, szállító, rakodó és kiszolgáló gépeinek üzemeltetése, az üzemeltetéshez kapcsolódó gépellenőrzési, kezelési, karbantartási és technológiai, valamint váratlanul felmerülő munkaszervezési feladatok végrehajtása.
+Bányászati szén-, érc-, ásvány bányák: művelési, termelési feladatainak elvégzése, jövesztő, szállító, rakodó és kiszolgáló gépeinek üzemeltetése, az üzemeltetéshez kapcsolódó gépellenőrzési, kezelési, karbantartási és technológiai, valamint váratlanul felmerülő munkaszervezési feladatok végrehajtása.
 
-A szakképesítéssel rendelkező feladatai:
+A szakképesítéssel rendelkező képes:
 
-- Betartja és munkatársaival betartatja a munka-, baleset-, tűzvédelem, valamint a jövesztési, biztosítási, rakodási, szállítási, fenntartási, szerelési és javítási technológiákra vonatkozó egyéb előírásokat
+- betartani és munkatársaival betartatni a munka-, baleset-, tűzvédelem, valamint a jövesztési, biztosítási, rakodási, szállítási, fenntartási, szerelési és javítási technológiákra vonatkozó egyéb előírásokat;
 
-- Elsősegélyt nyújt.
+- elsősegélyt nyújtani;
 
-- Működteti az alapvető gépeket (motorok, erőátviteli berendezések, szivattyúk, kompresszorok, hőcserélők, stb.)
+- működtetni az alapvető gépeket (pl. motorok, erőátviteli berendezések, szivattyúk, kompresszorok, hőcserélők);
 
-- Gépek, berendezések, egyéb technikai eszközök működési környezetét ellenőrzi, meggyőződik annak biztonságos voltáról
+- ellenőrizni a gépek, berendezések, egyéb technikai eszközök működési környezetét, meggyőződni annak biztonságos voltáról;
 
-- Napi karbantartási műveleteket végez
+- napi karbantartási műveleteket végezni;
 
-- Szállító berendezéseket beállít, átépít, áthelyez.
+- szállító berendezéseket beállítani, átépíteni, áthelyezni;
 
-- Biztosító anyagokat beépít, rögzít.
+- biztosító anyagokat beépíteni, rögzíteni;
 
-- Szétválasztja a meddőt és az ásványi nyersanyagot
+- a meddőt és az ásványi nyersanyagot szétválasztani;
 
-- Szellőztetési problémát észlel, azt azonnal jelenti felügyeletének.
+- szellőztetési probléma észlelése esetén azt azonnal jelenteni a felügyeletének.
 
-3.3. Kapcsolódó szakképesítések
+3.3. Kapcsolódó szakképesítések:
 
 |  | A | B | C |
 
@@ -4650,7 +4642,7 @@ A szakképesítéssel rendelkező feladatai:
 
 | 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
 
-| 3.3.3. | 54 544 01 | Bányaipari technikus | szakképesítés |
+| 3.3.3. | 54 544 01 | Bányaművelő technikus | azonos ágazat |
 
 | 3.3.4. | 54 544 02 | Fluidumkitermelő technikus | azonos ágazat |
 
@@ -4666,17 +4658,15 @@ A szakképesítéssel rendelkező feladatai:
 
 | 4.3. | 10194-12 | Bányagépek működtetése |
 
-| 4.4. | 12199-16 | Mélybányászati alapok |
+| 4.4. | 10196-12 | Bányászati alapismeretek |
 
 | 4.5. | 10199-12 | Termelési feladatok |
 
-| 4.6 | 11499-12 | Foglalkoztatás II. |
+| 4.6. | 11497-12 | Foglalkoztatás I. |
 
-| 4.7. | 11500-12 | Munkahelyi egészség és biztonság |
+| 4.7. | 11499-12 | Foglalkoztatás II. |
 
-| 4.8 | 10162-12 | Gépészeti alapozó feladatok |
-
-| 4.9. | 11497-12 | Foglalkoztatás I. |
+| 4.8. | 11500-12 | Munkahelyi egészség és biztonság |
 
 5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
 
@@ -4696,7 +4686,7 @@ Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizo
 
 | 5.2.3. | 10194-12 | Bányagépek működtetése | gyakorlati, szóbeli |
 
-| 5.2.4. | 12199-16 | Mélybányászati alapok | írásbeli |
+| 5.2.4. | 10196-12 | Bányászati alapismeretek | írásbeli |
 
 | 5.2.5. | 10199-12 | Termelési feladatok | gyakorlati, szóbeli |
 
@@ -4704,49 +4694,47 @@ Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizo
 
 | 5.2.7. | 11500 12 | Munkahelyi egészség és biztonság | írásbeli |
 
-| 5.2.8. | 10162-12 | Gépészeti alapozó feladatok | gyakorlati, szóbeli |
-
-|  | 11497-12 | Foglalkoztatás I. | írásbeli |
+| 5.2.8. | 11497-12 | Foglalkoztatás I. | írásbeli |
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
 5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
 
-5.3.1. Gyakorlati vizsgatevékenység
+5.3.1. Gyakorlati vizsgatevékenység:
 
-A vizsgafeladat megnevezése: Mélybányászati feladatok
+A vizsgafeladat megnevezése: Bányászati feladatok
 
-A vizsgafeladat ismertetése: Mélybányászat művelési, termelési feladatainak elvégzése, jövesztő, szállító, rakodó és kiszolgáló gépeinek üzemeltetése.
+A vizsgafeladat ismertetése: Bányászat művelési, termelési feladatainak elvégzése, jövesztő, szállító, rakodó és kiszolgáló gépeinek üzemeltetése.
 
 A vizsgafeladat időtartama: 180 perc
 
 A vizsgafeladat értékelési súlyaránya: 70%
 
-5.3.2. Központi írásbeli vizsgatevékenység
+5.3.2. Központi írásbeli vizsgatevékenység:
 
-A vizsgafeladat megnevezése: Széleshomlokú frontfejtések technológiájának ismertetése, a jövesztés, a rakodás, a kiszállítás és a biztosítás fejtésfelhagyás szempontjából.
+A vizsgafeladat megnevezése: -
 
-A vizsgafeladat ismertetése: A jövesztés módszerei, a jövesztő gépek fajtái. A robbantás és annak technológiája, a rakodás megvalósítása, a homloki láncos vonszolók fajtái, a fa-, acéltám, hidraulikus tám, keret, pajzs. A fejtésfelhagyás omlasztással, összenövesztés és tömedékelés (száraz, nedves).
+A vizsgafeladat ismertetése: -
 
-A vizsgafeladat időtartama: 2 óra.
+A vizsgafeladat időtartama: -
 
-A vizsgafeladat értékelési súlyaránya: 20%.
+A vizsgafeladat értékelési súlyaránya: -
 
 5.3.3. Szóbeli vizsgatevékenység:
 
-A vizsgafeladat megnevezése: Mélybányászati, munkafolyamatok, technológiák, a modulok anyagával egyeztetve.
+A vizsgafeladat megnevezése: Bányászati, munkafolyamatok, technológiák, a modulok anyagával egyeztetve.
 
 A vizsgafeladat ismertetése: A szóbeli vizsgatevékenység központilag összeállított vizsgakérdései a 4. Szakmai követelmények fejezetben szereplő szakmai követelménymodulok témaköreit tartalmazza.
 
-A vizsgafeladat időtartama: 45perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
+A vizsgafeladat időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
 
-A vizsgafeladat értékelési súlyaránya: 10%
+A vizsgafeladat értékelési súlyaránya: 30%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A szakképesítéssel kapcsolatos előírások a http://nive.hu/ weblapon érhetők el a Vizsgák menüpont alatt.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv honlapján érhetők el a Vizsgák menüpontban.
 
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:–
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
 6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
@@ -4758,27 +4746,31 @@ A szakképesítéssel kapcsolatos előírások a http://nive.hu/ weblapon érhet
 
 | 6.3. | Pneumatikus bányászati kéziszerszámok |
 
-| 6.4. | Bányalevegő és gázösszetételt mérő eszközök |
+| 6.4. | Villamos bányászati kéziszerszámok |
 
-| 6.5. | Teheremelő berendezések |
+| 6.5. | Bányalevegő és gázösszetételt mérő eszközök |
 
-| 6.6. | Terelő korong |
+| 6.6. | Teheremelő berendezések |
 
-| 6.7. | rablóvitla |
+| 6.7. | Jövesztő berendezések |
 
-| 6.8. | Hidraulikus előfeszítő tám |
+| 6.8. | Szállító berendezések |
 
-| 6.9. | Vontató vitla |
+| 6.9. | Leszóró berendezések |
 
-| 6.10. | Vágathajtó-gép |
+| 6.10. | Biztosító szerkezetek |
 
-| 6.11. | Maróhenger, gyalu és réselő jövesztő-gépek |
+| 6.11. | Törő és osztályozó berendezések |
 
-| 6.12. | Rakodógépek |
+| 6.12. | Földmunkagépek |
 
-| 6.13. | Egyéni és kollektív védőeszközök |
+| 6.14. | Hidraulikus berendezések |
 
-7. EGYEBEK
+| 6.15. | Sűrített levegős berendezések |
+
+| 6.16. | Folyadék szállító berendezések |
+
+| 6.17. | Egyéni és kollektív védőeszközök |
 
 A 15. sorszámú Becsüs megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
@@ -5012,4 +5004,100 @@ Az elvégzett meghatározások, értékbecslések alapján két tárgy készpén
 
 A vizsgafeladat időtartama: 120 perc
 
-[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 2. §-a, a 29/2015. (X. 21.) NGM rendelet 3. §-a, a 29/2016. (VIII. 26.) NGM rendelet 1. § (2) bekezdése és 3. § (2) bekezdése, az 5/2017. (III. 30.) NGM rendelet 1. §-a szerint módosított szöveg.
+A vizsgafeladat értékelési súlyaránya: 15%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: –
+
+A vizsgafeladat ismertetése: –
+
+A vizsgafeladat időtartama: –
+
+A vizsgafeladat értékelési súlyaránya: –
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A) A vizsgafeladat megnevezése: Az iparművészet (ékszer, dísztárgy, óra) története, drágakövek, nemesfémek
+
+A vizsgafeladat ismertetése: A központi vizsgafeladatok az alábbi témakörök alapján kerülnek összeállításra:
+
+Ékszerek, dísztárgyak az egyes művészettörténeti korokban,
+
+Ékszer és dísztárgy típusok jellemzői
+
+Készítési és díszítő technikák
+
+Liturgikus rendeltetésű ötvöstárgyak
+
+Nagy ékszerházak kialakulása
+
+Tömegtermelés a nemesfémiparban
+
+Divatékszerek megjelenése, tulajdonságai
+
+Órák, ékszerórák, óraszerkezetek jellemzői
+
+Általános drágakőtudomány: szakkifejezések, fizikai-kémiai tulajdonságok, csiszolási formák
+
+A gyémánt tulajdonságai, minősítése, összetévesztési lehetőségei
+
+A fontosabb színes drágakövek jellemzői
+
+Szintetikus kövek, műtermékek, utánzatok tulajdonságai
+
+Drágakő-vizsgálati eszközök, műszerek, módszerek
+
+Nemesfémek fajtái, ötvözetei, jellemzői, ötvözetszámítás
+
+Nemesfém-vizsgálati módszerek
+
+Nemesfémek hitelesítése, a fémjelzés története
+
+Ékszer- és fémjel-hamisítások módszerei, felismerésük lehetőségei
+
+Kommunikáció a felvevőhelyen
+
+Biztonsági, vagyonvédelmi előírások
+
+Műtárgyvédelem, védett műtárgyak, vámügyi szabályok
+
+A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
+
+A vizsgafeladat értékelési súlyaránya: 10 %
+
+B) A vizsgafeladat megnevezése: A képzőművészet (festmény, grafika) története
+
+A vizsgafeladat ismertetése: A központi vizsgafeladatok az alábbi témakörök alapján kerülnek összeállításra:
+
+A művészettörténeti korok, stílusok és stílusjegyeik
+
+Az egyetemes és a magyar festészet korszakai, fejlődéstörténete, a kiemelkedő mesterek és alkotásaik
+
+Az egyes festészeti irányzatokat meghatározó festőiskolák, műhelyek, azok legismertebb mesterei és alkotásaik
+
+A festészeti műfajok az ábrázolás technikai eszközei
+
+Festészeti technikák
+
+Grafikák anyagai, különféle tintafajták
+
+Száraz grafikai technikák
+
+Sokszorosítási eljárások és jellegzetességeik
+
+A mesterek jelzései, szignatúrái
+
+Másolás, utánérzés hamisítás
+
+Kommunikáció a felvevőhelyen
+
+Biztonsági, vagyonvédelmi előírások
+
+Műtárgyvédelem, védett műtárgyak, vámügyi szabályok
+
+A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
+
+A vizsgafeladat értékelési súlyaránya: 10 %
+
+[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 2. §-a, a 29/2015. (X. 21.) NGM rendelet 3. §-a, a 29/2016. (VIII. 26.) NGM rendelet 1. § (2) bekezdése és 3. § (2) bekezdése, az 5/2017. (III. 30.) NGM rendelet 1. §-a, a 25/2017. (VIII. 31.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
