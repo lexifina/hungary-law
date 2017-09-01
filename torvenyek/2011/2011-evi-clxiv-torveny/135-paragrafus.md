@@ -1,3 +1,3 @@
-135. § (1) A tisztviselő, az írnok és a fizikai alkalmazott illetménye alapilletményből, továbbá pótlékból tevődik össze. A tisztviselő és az írnok illetményének megállapítása alapjául az illetményalap szolgál.
+135. § (1) A tisztviselő, az írnok és a fizikai alkalmazott szolgálati viszonya alapján havonta alapilletményre, továbbá – ha a folyósítás e törvényben meghatározott feltételei fennállnak – beosztási pótlékra és címpótlékra jogosult. A beosztási pótlék és a címpótlék az illetmény része. Az alapilletmény megállapításának alapjául az illetményalap szolgál; az alapilletményt az illetményalap és az egyes fizetési fokozatok szorzószámai alapján kell megállapítani.
 
-(2) A beosztási pótlék, a vezetői pótlék és a címpótlék alapilletmény jellegű. Az alapilletmény és az alapilletmény jellegű pótlékok együttes összege nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér), illetve a garantált bérminimum összege.
+(2) Az alapilletmény összege nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér), illetve a garantált bérminimum összege.

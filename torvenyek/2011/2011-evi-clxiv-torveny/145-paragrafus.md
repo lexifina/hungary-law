@@ -6,4 +6,4 @@ b) a IV. fizetési osztályba sorolt tisztviselőnek pedig „tanácsos”
 
 cím adományozható.
 
-(2) A „főtanácsos” címmel az illetményalap tizenöt százalékának, a „tanácsos” címmel pedig tíz százalékának megfelelő összegű címpótlék jár havonta.
+(2) Az (1) bekezdésben meghatározott címmel az illetményalap tizenöt százalékának megfelelő összegű címpótlék jár havonta. Kiváló munkavégzés esetén és ügyészségi szolgálati viszonyban eltöltött legalább tíz év után főtanácsosi cím a szakirányú felsőfokú iskolai végzettségű V. fizetési osztályba tartozó, tanácsosi cím pedig a középfokú iskolai végzettségű V. fizetési osztályban tartozó vezetőnek is adományozható.

@@ -10,7 +10,7 @@ a) magyar állampolgár vagy a szabad mozgás és tartózkodás jogával rendelk
 
 b) az a) pontban meghatározott személyeknek a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti családtagja,
 
-ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel, továbbá legalább alapfokú végzettséggel rendelkezik, és nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt.
+ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel, továbbá legalább középfokú végzettséggel rendelkezik, és nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt.
 
 (3) Fizikai alkalmazottá azt a személyt lehet kinevezni, aki
 

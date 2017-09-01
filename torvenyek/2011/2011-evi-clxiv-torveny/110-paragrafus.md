@@ -1,6 +1,10 @@
-110. § (1) Az alügyészt és az ügyészségi fogalmazót határozatlan időre a legfőbb ügyész nevezi ki és menti fel.
+110. § (1) Az alügyészt és az ügyészségi fogalmazót a legfőbb ügyész nevezi ki és menti fel.
 
-(2) Az (1) bekezdéstől eltérően az ügyészségi szolgálati viszony helyettesítés, vagy meghatározott feladat elvégzése céljából, vagy legfeljebb egy évi időtartamra más célból határozott időre is létesíthető.
+(2) Az alügyész és az ügyészségi fogalmazó kinevezése határozatlan időre vagy legfeljebb ötévi határozott időre szólhat. A határozott idejű ügyészségi szolgálati viszony tartama a meghosszabbításokkal együtt sem haladhatja meg az öt évet.
+
+(2a) Tartósan távollévő helyettesítése esetén az ügyészségi szolgálati viszony a (2) bekezdéstől eltérő határozott időre is létesíthető, illetve meghosszabbítható.
+
+(2b) Az ügyészségi fogalmazó és az alügyész kinevezésekor az ügyészségi szolgálati viszony létesítésével egyidejűleg próbaidő is kiköthető. A próbaidő tartama legfeljebb hat hónapig terjedhet, amely nem hosszabbítható meg.
 
 (3) Az alügyész és az ügyészségi fogalmazó az eskütételt követően kezdi meg működését. Az eskü szövege az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll:
 

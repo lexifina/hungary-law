@@ -1,8 +1,8 @@
-115. § (1) Az alügyész fizetési fokozatát a (2)–(5) bekezdésben foglaltak szerint számított szolgálati idő alapján kell megállapítani.
+115. § (1) Az alügyész és az ügyészségi fogalmazó fizetési fokozatát a (2)–(5) bekezdésben foglaltak szerint számított szolgálati idő alapján kell megállapítani.
 
 (2) A szolgálati időt – a (3)–(4) bekezdésben foglalt kivétellel – a kinevezés (alkalmazás) napjától kell számítani azzal, hogy a kezdő évet (töredékévet) egész évként kell figyelembe venni.
 
-(3) Szolgálati időként kell figyelembe venni a bírósági titkárként igazságügyi szolgálati jogviszonyban eltöltött időt.
+(3) Szolgálati időként kell figyelembe venni alügyész esetén a bírósági titkárként, ügyészségi fogalmazó esetén a bírósági fogalmazóként igazságügyi szolgálati jogviszonyban eltöltött időt.
 
 (4) Részben vagy egészben szolgálati időként lehet figyelembe venni a kinevezés előtt jogi képesítéshez kötött munkakörben a jogi szakvizsga letételének napjától eltöltött időt.
 

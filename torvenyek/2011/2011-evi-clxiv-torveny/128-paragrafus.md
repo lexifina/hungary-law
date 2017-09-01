@@ -1,4 +1,4 @@
-128. § (1) A tisztviselő vezetői kinevezése indokolás nélkül bármikor visszavonható.
+128. § (1) A tisztviselő vezetői kinevezése indokolás nélkül bármikor visszavonható. Ha a tisztviselő a 127. § (4) bekezdése szerinti továbbképzésen való részvételi kötelezettségének teljesítését neki felróható okból elmulasztja, a vezetői kinevezést a munkáltató a továbbképzési kötelezettség teljesítésére rendelkezésre álló határidő utolsó napját követő harminc napon belül visszavonja.
 
 (2) A kinevezés visszavonásakor a vezetőt, ha ehhez hozzájárul – választása szerint a szolgálati helyével vagy a vezetői kinevezését megelőző szolgálati helyével azonos helységben, vezetői beosztásának megfelelő vagy annál alacsonyabb szintű ügyészségen – más tisztviselői munkakörbe kell áthelyezni.
 

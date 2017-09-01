@@ -6,4 +6,4 @@
 
 (3) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvényben foglalt eskü szövegében szereplő tisztség megnevezése a (2) bekezdés szerinti eskü tétele során az eskütevő tisztségétől függően: tisztviselő vagy írnok.
 
-(4) A nem magyar állampolgár írnok a (2) bekezdésben foglaltaktól eltérően a hazára való hivatkozás nélkül tesz esküt.
+(4)

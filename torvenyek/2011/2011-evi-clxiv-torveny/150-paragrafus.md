@@ -12,7 +12,7 @@ e) a kinevezési feltételeknek megfelelő, illetve az ügyészségi szolgálati
 
 f) az 55. §-t,
 
-g) a 67–76. §-t,
+g) a 69. §-t, a 72–76. §-t, továbbá a 70. §-t azzal az eltéréssel, hogy a tisztviselő, az írnok és a fizikai alkalmazott kinevezési okiratának tartalmaznia kell a jubileumi jutalomra jogosító idő számításának kezdő időpontját,
 
 h) a 80. §-t,
 

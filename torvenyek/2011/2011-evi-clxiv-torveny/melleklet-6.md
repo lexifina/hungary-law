@@ -1,7 +1,5 @@
-## Az illetményalap = 1
-
-## | Fizetési fokozat | Szolgálati idő | Fizetési osztályok és szorzószámok | III. osztály | IV. osztály | 1. | 0–1 | 0,38 | 0,20 | 2. | 2–4 | 0,45 | 0,24 | 3. | 5–7 | 0,50 | 0,27 | 4. | 8–10 | 0,55 | 0,30 | 5. | 11–13 | 0,60 | 0,33 | 6. | 14–16 | 0,65 | 0,36 | 7. | 17–19 | 0,70 | 0,39 | 8. | 20–22 | 0,75 | 0,42 | 9. | 23–25 | 0,80 | 0,45 | 10. | 26–28 | 0,85 | 0,48 | 11. | 29–31 | 0,90 | 0,51 | 12. | 32–34 | 0,95 | 0,54 | 13. | 35–37 | 1,00 | 0,57 | 14. | 37 évtől | 1,05 | 0,60
+## | | A | B | C | D | E | 1. | Fizetési fokozat | Szolgálati idő (év) | Alsó határ szorzószáma | Felső határ szorzószáma | 2. | 1. | 0 | 1 | 0,53 | 0,74 | 3. | 2. | 2 | 3 | 0,57 | 0,79 | 4. | 3. | 4 | | 0,60 | 0,83
 
 6. melléklet a 2011. évi CLXIV. törvényhez
 
-A tisztviselő vezetői pótléka
+A III. fizetési osztály (szakirányú felsőfokú végzettségű tisztviselő) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai

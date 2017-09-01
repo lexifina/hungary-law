@@ -1,6 +1,4 @@
-## A vezetői pótlék az illetményalap százalékában
-
-## | A vezetői munkakörök | % | 1. | A gazdasági főigazgató | 70 | 2. | A főosztályvezető Az OKRI igazgatója | 40–60 | 3. | A főosztályvezető-helyettes Az OKRI igazgatóhelyettese | 35–45 | 4. | Az osztályvezető | 25–40 | 5. | Az osztályvezető-helyettes | 20–25 | 6. | A csoportvezető | 15–20 | 7. | Az irodavezető | 5–20
+## | | A | B | C | 1. | Fizetési fokozat | Alsó határ szorzószáma | Felső határ szorzószáma | 2. | Gazdasági főigazgató, Főosztályvezető, az OKRI igazgatója | 1,23 | 1,85 | 3. | Főosztályvezető-helyettes, az OKRI igazgatóhelyettese | 1,09 | 1,74 | 4. | Osztályvezető | 0,97 | 1,62 | 5. | Osztályvezető-helyettes | 0,68 | 1,51 | 6. | Csoportvezető | 0,64 | 1,45 | 7. | irodavezető | 0,53 | 1,39
 
 7. melléklet a 2011. évi CLXIV. törvényhez
 

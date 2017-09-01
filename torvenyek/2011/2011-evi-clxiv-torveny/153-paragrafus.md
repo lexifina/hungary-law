@@ -10,7 +10,7 @@ c) a záró rendelkezések közül: a 295–297. §.
 
 (3) Az ügyészségi alkalmazottak szolgálati viszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény
 
-a) 53. §-át csak a kinevezéstől eltérő munkakörben való foglalkoztatásra kell alkalmazni,
+a) 53. §-át csak a kinevezéstől eltérő munkakörben való foglalkoztatásra kell alkalmazni, továbbá a nem ügyész ügyészségi alkalmazottak esetén azzal az eltéréssel kell alkalmazni, hogy annak időtartama a naptári évben – eltérő megállapodás hiányában – a hat hónapot nem haladhatja meg;
 
 b) 86. § (3) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy a munkaközi szünet munkaidőnek minősül;
 
@@ -22,7 +22,9 @@ e) 260. § (3) bekezdését és 273. § (1) bekezdését azzal az eltéréssel k
 
 f) 273. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy önállónak minősülő telephely alatt a főügyészséget az alárendelt járási ügyészségekkel együtt, a fellebbviteli főügyészséget, az OKRI-t, a Legfőbb Ügyészséget kell érteni;
 
-g) 287. § (2) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy az azonnali hatályú felmondás alatt rendkívüli lemondást kell érteni.
+g) 287. § (1) bekezdés e) pontját azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyvéről szóló 2012. évi I. törvény 81. § (2) bekezdésében meghatározottak alatt az 52. § (4) bekezdésében meghatározottakat kell érteni,
+
+h) 287. § (2) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy az azonnali hatályú felmondás alatt rendkívüli lemondást kell érteni.
 
 (4) A munka törvénykönyvéről szóló 2012. évi I. törvény 140. §-át és 143. §-át csak az írnok és a fizikai alkalmazott, az 59. §-át és 145. §-át csak a fizikai alkalmazott esetében kell alkalmazni.
 
