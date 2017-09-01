@@ -1,5 +1,3 @@
-## Megjegyzés: A táblázatban „(2017K)” jelzéssel ellátott szakok, szakirányok utoljára a 2017. évi keresztféléves felsőoktatási felvételi eljárásban hirdethetők meg.
-
 4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^168]
 
 Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámítás szempontjából

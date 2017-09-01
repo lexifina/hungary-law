@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-423-20-
 | 2016-10-01 | 2012-423-20-22.20 | 59/2016. (III. 25.) Korm. rendelet |
 | 2016-10-02 | 2012-423-20-22.21 | 59/2016. (III. 25.) Korm. rendelet |
 | 2016-12-17 | 2012-423-20-22.22 | 442/2016. (XII. 16.) Korm. rendelet |
+| 2017-09-01 | 2012-423-20-22.23 | 442/2016. (XII. 16.) Korm. rendelet |
