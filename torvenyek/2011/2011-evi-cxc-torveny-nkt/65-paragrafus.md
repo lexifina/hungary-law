@@ -1,6 +1,22 @@
-65. § (1) A fokozatokhoz és ezen belül az egyes fizetési kategóriákhoz tartozó garantált illetményt az illetményalap százalékában e törvény 7. melléklete állapítja meg.
+65. § (1) A fokozatokhoz és ezen belül az egyes fizetési kategóriákhoz tartozó garantált illetményt az illetményalap százalékában az (1a) bekezdés és e törvény 7. melléklete állapítja meg.
 
-(2)
+(1a) A köznevelési intézmény vezetője a pedagógus munkavégzése színvonalát, nyújtott munkateljesítményét kompetencia és teljesítményalapú értékelési rendszer alapján értékeli, és ennek figyelembevételével a munkáltató – tankerületi központ által fenntartott köznevelési intézmény esetében a köznevelési intézmény vezetője, szakképzési centrum esetében a tagintézmény-vezető javaslatára és egyetértésével – a tanévre vonatkozóan a pedagógus besorolása szerinti illetménytől eltérően is meghatározhatja az illetményét azzal, hogy a pedagógus illetménye nem lehet kevesebb, mint a központi költségvetésről szóló törvényben meghatározott vetítési alap
+
+a) középfokú végzettség esetén 119,6 százaléka,
+
+b) alapfokozat esetén 174,5 százaléka,
+
+c) mesterfokozat esetén 193,2 százaléka
+
+alapulvételével megállapított illetményalappal számolt illetmény.
+
+(2) Az illetményalap a központi költségvetésről szóló törvényben meghatározott vetítési alap
+
+a) középfokú végzettség esetén százhúsz százaléka,
+
+b) alapfokozat esetén száznyolcvan százaléka,
+
+c) mesterfokozat esetén kétszáz százaléka.
 
 (3) A Kormány rendeletben állapítja meg a 8. melléklet szerinti, az ágazati, szakmai sajátosságokra tekintettel meghatározott illetménypótlék megállapításának elveit.
 

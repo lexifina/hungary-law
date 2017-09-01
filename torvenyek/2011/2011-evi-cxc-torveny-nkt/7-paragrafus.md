@@ -28,7 +28,7 @@ l) pedagógiai szakszolgálati intézmény,
 
 m) pedagógiai-szakmai szolgáltatást nyújtó intézmény [a továbbiakban az a)–m) pont alattiak együtt: köznevelési intézmény].
 
-(2) A köznevelési intézmény több különböző típusú köznevelési intézmény feladatait is elláthatja, valamint nem köznevelési feladatot ellátó intézménnyel is összevonható az e törvényben meghatározott esetben, formában és eljárás megtartásával (a továbbiakban: többcélú intézmény). Nevelési-oktatási intézmény elláthatja a konduktív pedagógiai ellátás, gyógytestnevelés, kiemelten tehetséges gyermekek, tanulók gondozása pedagógiai szakszolgálati feladatot, jogszabályban meghatározott egyes pedagógiai-szakmai szolgáltatási feladatot, továbbá a gyermekétkeztetés feladatát anélkül is, hogy többcélú intézmény formájában működne.
+(2) A köznevelési intézmény több különböző típusú köznevelési intézmény feladatait is elláthatja, valamint nem köznevelési feladatot ellátó intézménnyel is összevonható az e törvényben meghatározott esetben, formában és eljárás megtartásával (a továbbiakban: többcélú intézmény). Nevelési-oktatási intézmény elláthatja a jogszabályban meghatározott egyes pedagógiai-szakmai szolgáltatási feladatot, továbbá a gyermekétkeztetés feladatát anélkül is, hogy többcélú intézmény formájában működne.
 
 (3) A nevelési-oktatási intézmény, a pedagógiai szakszolgálati intézmény gyakorló óvodaként, gyakorló iskolaként, gyakorló kollégiumként, valamint gyakorló szakszolgálati intézményként közreműködhet a pedagógusképzés, -továbbképzés feladataiban. A gyakorló nevelési-oktatási intézményekben, a gyakorló szakszolgálati intézményben a pedagógusjelöltek szakmai munkáját vezetőpedagógus irányítja.
 

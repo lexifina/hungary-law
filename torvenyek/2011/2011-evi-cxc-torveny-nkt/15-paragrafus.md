@@ -2,7 +2,9 @@
 
 15. § (1) A gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény a kizárólag sajátos nevelési igényű gyermekeket, tanulókat ellátó nevelési-oktatási intézmény, amely a szakértői bizottság véleménye alapján vehető igénybe. A gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény fejlesztő nevelést-oktatást végző iskolaként működik, ha kizárólag súlyos és halmozottan fogyatékos gyermekeket lát el.
 
-(2) Ha a sajátos nevelési igényű gyermek súlyos és halmozottan fogyatékos, attól az évtől kezdve, amelyben az ötödik életévét betölti, fejlesztő nevelésben, attól az évtől kezdődően, hogy tankötelessé válik, fejlesztő nevelés-oktatásban vesz részt. A fejlesztő nevelés-oktatást a gyógypedagógiai, konduktív pedagógiai nevelési, nevelési-oktatási intézmény látja el egyéni vagy csoportos formában
+(2) Ha a sajátos nevelési igényű gyermek súlyos és halmozottan fogyatékos, attól az évtől kezdődően, hogy tankötelessé válik, fejlesztő nevelés-oktatásban vesz részt.
+
+(2a) A fejlesztő nevelés-oktatást a gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény látja el egyéni vagy csoportos formában
 
 a) saját intézményében külön erre a célra létrehozott csoportban,
 
