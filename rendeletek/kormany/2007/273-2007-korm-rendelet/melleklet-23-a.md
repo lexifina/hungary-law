@@ -218,7 +218,7 @@
 
 ## 15.4. tercier oldali névleges feszültség (kV).
 
-23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^504]
+23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^505]
 
 Kérelem szociálisan rászoruló személyként a védendő fogyasztók nyilvántartásába
 
@@ -280,12 +280,4 @@ fogyasztó aláírása
 
 B)
 
-AZ IGAZGATÁSI SZERV TÖLTI KI
-
-Eljáró igazgatási szerv megnevezése:
-
-Székhelye:
-
-Igazolom, hogy
-
-[^504]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^505]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
