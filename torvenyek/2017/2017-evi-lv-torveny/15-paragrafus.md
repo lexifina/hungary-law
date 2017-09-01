@@ -11,11 +11,3 @@ c) az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló,
 d) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK irányelv és a megújuló energiaforrásból előállított energia támogatásáról szóló 2009/28/EK irányelv módosításáról szóló, 2015. szeptember 9-i 2015/1513/EU európai parlamenti és tanácsi irányelvnek,
 
 való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
