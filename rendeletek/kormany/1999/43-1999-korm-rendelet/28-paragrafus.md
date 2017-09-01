@@ -8,7 +8,7 @@ b)[^312] 10 és 20 százalék között 20 százalékos
 
 alapdíjjal számolja el.
 
-(1b)[^313] Ha a szolgáltató tárgyhónapra jelentett és elszámolható aktív fekvőbeteg-szakellátási teljesítménye – ide nem értve a 27. § (2a) bekezdése szerinti elvi egynapos teljesítménymennyiség tárgyhónapra vonatkozó mértékét meghaladó teljesítményt, valamint a 27. § (7) bekezdése szerinti teljesítményt – meghaladja az (1) bekezdés szerint elszámolt teljesítményt, a finanszírozó legfeljebb 4 százalék többletteljesítményt az alapdíj 25 százalékával számol el.
+(1b)[^313] Ha a szolgáltató tárgyhónapra jelentett és elszámolható aktív fekvőbeteg-szakellátási teljesítménye – ide nem értve a 27. § (2a) bekezdése szerinti elvi egynapos teljesítménymennyiség tárgyhónapra vonatkozó mértékét meghaladó teljesítményt, valamint a 27. § (7) bekezdése, továbbá a 44/B. § szerinti meddőségkezelési ellátások TVK-ja terhére elszámolt teljesítményt – meghaladja az (1) bekezdés szerint elszámolt teljesítményt, a finanszírozó legfeljebb 4 százalék többletteljesítményt az alapdíj 25 százalékával számol el.
 
 (1c)[^314] A szolgáltató tárgyhónapra jelentett és elszámolható aktív fekvőbeteg-szakellátás keretében egynapos sebészeti ellátásként jelentett és elszámolt teljesítményének a 27. § (2a) bekezdése szerinti elvi egynapos teljesítménymennyiség tárgyhónapra vonatkozó mértékét meg nem haladó mennyiségét a finanszírozó az alapdíj és az (1b) bekezdés alapján meghatározható, szolgáltatói átlagos egy súlyszámra jutó súlyszám-díj különbségével számolja el.
 
@@ -29,7 +29,7 @@ alapdíjjal számolja el.
 [^310]: A 28. § (1a) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be, nyitó szövegrésze a 172/2016. (VII. 1.) Korm. rendelet 20. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
 [^311]: A 28. § (1a) bekezdés a) pontja az 519/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^312]: A 28. § (1a) bekezdés b) pontját a 447/2012. (XII. 29.) Korm. rendelet 29. § a) pontja hatályon kívül helyezte, újonnan az 519/2013. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
-[^313]: A 28. § (1b) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^313]: A 28. § (1b) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 14. §-ával megállapított, a 246/2017. (VIII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^314]: A 28. § (1c) bekezdését a 124/2015. (V. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^315]: A 28. § (1d) bekezdését a 124/2015. (V. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^316]: A 28. § (1e) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 6. §-a iktatta be.

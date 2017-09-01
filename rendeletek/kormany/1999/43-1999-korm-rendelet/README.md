@@ -70,3 +70,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2017-03-01 | 1999-43-20-22.140 | 464/2016. (XII. 23.) Korm. rendelet |
 | 2017-04-01 | 1999-43-20-22.141 | 30/2015. (II. 25.) Korm. rendelet |
 | 2017-07-27 | 1999-43-20-22.142 | 8/2015. (I. 29.) Korm. rendelet |
+| 2017-09-01 | 1999-43-20-22.143 | 246/2017. (VIII. 31.) Korm. rendelet |

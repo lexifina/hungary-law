@@ -12,9 +12,9 @@
 
 (3b)[^269] Az aktív fekvőbeteg-szakellátás esetében a (2a) bekezdés szerinti elvi egynapos teljesítménymennyiség keretét az egyes egészségügyi szolgáltatóknak a 28/A. számú mellékletben foglalt táblázat „C” megjelölésű oszlop szerinti TVK-ja tartalmazza.
 
-(3c)[^270]
+(3c)[^270] A 44/B. § (1) bekezdése szerinti egészségügyi szolgáltatók között a NEAK javaslatára az egészségbiztosításért felelős miniszter a 28/A. számú mellékletben foglalt összes meddőségkezelési TVK 10 százalékának megfelelő többlet TVK-t határozhat meg a következő finanszírozási évre.
 
-(3d)[^271]
+(3d)[^271] A NEAK a (3c) bekezdés szerinti javaslatát az annak elkészítését megelőző 12 hónap meddőségkezelési ellátásait követő élveszülési események alapján határozza meg. A NEAK a javaslatot a tárgyév decemberében küldi meg az egészségbiztosításért felelős miniszter részére.
 
 (3e)[^272]
 
@@ -71,8 +71,8 @@ kivételével történik.
 [^267]: A 27. § (3) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított, az 519/2013. (XII. 30.) Korm. rendelet 11. § c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § e) pontja, a 464/2016. (XII. 23.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
 [^268]: A 27. § (3a) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^269]: A 27. § (3b) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte az 519/2013. (XII. 30.) Korm. rendelet 12. § c) pontja, újonnan a 124/2015. (V. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^270]: A 27. § (3c) bekezdését újonnan a 125/2013. (IV. 26.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte az 519/2013. (XII. 30.) Korm. rendelet 12. § c) pontja.
-[^271]: A 27. § (3d) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 325/2011. (XII. 28.) Korm. rendelet 28. § (2) bekezdés a) pontja.
+[^270]: A 27. § (3c) bekezdését újonnan a 246/2017. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^271]: A 27. § (3d) bekezdését újonnan a 246/2017. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
 [^272]: A 27. § (3e) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 325/2011. (XII. 28.) Korm. rendelet 28. § (2) bekezdés a) pontja.
 [^273]: A 27. § (4) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított, az 519/2013. (XII. 30.) Korm. rendelet 11. § c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § f) pontja, a 464/2016. (XII. 23.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
 [^274]: A 27. § (4a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 21. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 28. § d) pontja szerint módosított szöveg.
