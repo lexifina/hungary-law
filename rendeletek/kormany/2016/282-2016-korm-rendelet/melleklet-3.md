@@ -3692,7 +3692,7 @@
 
 ## Az alapfokozat megszerzéséhez két idegen nyelvből – melyből az egyik az angol nyelv – államilag elismert legalább középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy angol nyelvből államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga-bizonyítvány vagy ezekkel egyenértékű érettségi bizonyítvány vagy okirat szükséges.
 
-3. melléklet a 282/2016. (IX. 21.) Korm. rendelethez
+3. melléklet a 282/2016. (IX. 21.) Korm. rendelethez[^4]
 
 MESTERKÉPZÉSEK ÉS MESTERKÉPZÉSBEN, OSZTATLAN KÉPZÉSBEN SZEREZHETŐ SZAKKÉPZETTSÉGEK JEGYZÉKE
 
@@ -5736,7 +5736,7 @@ nemzetbiztonsági szakmai ismeretek, hírszerzés, elhárítás, szakági jogi i
 
 9.3. A szakmai törzsanyag kötelezően választható ismeretkörei: 25–40 kredit differenciált szakmai ismeretek:
 
-– választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági, terrorelhárítási;
+terrorelhárítási;
 
 – választható szakterületi modulok
 
@@ -5868,4 +5868,4 @@ A nemzetbiztonsági feladatok technikai-műveleti támogatása; a nemzetbiztons�
 
 9.3.3. Terrorelhárítási specializáció
 
-A biztonság és védelem kérdései; a kiber-terrorizmus és az ellene való védekezés; a terrorfenyegetettség-értékelés stratégiai elemző módszerei; hírszerzés vezette műveletek a terrorelhárításban; profilalkotás a terrorfelderítésben; terrorcselekmények nyomozása; titkos információgyűjtés szerepe a terrorelhárításban; válságkezelés és krízis-kommunikáció.
+[^4]: A 3. melléklet a 11. § b) pontja szerint módosított szöveg. [A 3. mellékletben a 11. § a) pontjával elrendelt módosítás, amely szerint a 3. melléklet „9. NEMZETBIZTONSÁGI MESTERKÉPZÉSI SZAK” alcím 2. pontjában a „– választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági (Military National Security Specialisation, Civilian National Security Specialisation)” szövegrész hatályát veszti, nem vezethető át.]

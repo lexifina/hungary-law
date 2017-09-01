@@ -76,6 +76,6 @@
 
 ## – értékek kialakítására és megtartására törekvő céltudatos magatartással.
 
-2. melléklet a 282/2016. (IX. 21.) Korm. rendelethez[^4]
+2. melléklet a 282/2016. (IX. 21.) Korm. rendelethez[^3]
 
-[^4]: A 2. melléklet a 396/2016. (XII. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 396/2016. (XII. 5.) Korm. rendelet 1. §-a szerint módostott szöveg. [A 2. mellékletben a 11. § a) pontjával elrendelt módosítás, amely szerint az „5. NEMZETBIZTONSÁGI ALAPKÉPZÉSI SZAK” alcím 2. pontjában a „– választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági (Military National Security Specialisation, Civilian National Security Specialisation)” szövegrész hatályát veszti, nem vezethető át.]
