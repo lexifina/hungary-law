@@ -1,102 +1,148 @@
-## HONVÉD ALTISZT AZ ÁGAZAT/SZAKMAIRÁNY MEGJELÖLÉSÉVEL
-
-## ALAP-SZAKKÉPESÍTÉS
-
-## SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI
+## I. HONVÉD KADÉT, IGAZGATÁSI ÜGYKEZELŐ ALAP-SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
 ## 1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
 
-## 1.1. A szakképesítés azonosító száma: 54 863 02
+## 1.1. A szakképesítés azonosító száma: 52 863 01
 
-## 1.2. Szakképesítés megnevezése: Honvéd altiszt (az ágazat/szakmairány megjelölésével)
+## 1.2. Szakképesítés megnevezése: Honvéd kadét, igazgatási ügykezelő
 
-## 1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 2
+## 1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
 
-## 1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 960-1440 óra
+## 1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 1700–2000 óra
 
 ## 2. A SZAKKÉPESÍTÉSHEZ KAPCSOLÓDÓ TOVÁBBI JELLEMZŐ ADATOK
 
 ## 2.1. A képzés megkezdésének feltételei:
 
-## 2.1.1. Iskolai előképzettség, végzettség: érettségi vizsga, angol nyelvből államilag elismert általános, komplex, alapfokú nyelvvizsga
+## 2.1.1. Iskolai előképzettség, végzettség: alapfokú iskolai végzettség
 
-## vagy iskolai előképzettség hiányában
+## 2.1.2. Bemeneti kompetenciák: –
 
-## 2.1.2. Bemeneti kompetenciák:-
+## 2.2. Szakmai előképzettség: –
 
-## 2.2. Szakmai előképzettség: Az eredményesen végrehajtott katonai alapfelkészítés a 10282-12 Katonai alapfeladatok modultartalmába beszámítandó
+## 2.3. Előírt gyakorlat: –
 
-## 2.3. Előírt gyakorlat: -
+## 2.4. Egészségügyi alkalmassági követelmények:
 
-## 2.4. Egészségügyi alkalmassági követelmények: vannak [vonatkozó HM rendelet szerint]
+## A Honvéd kadét képzésre nem vehető fel, aki az alábbiak közül valamelyikben szenved:
 
-## 2.5. Pályaalkalmassági követelmények: vannak [vonatkozó HM rendelet szerint]
+## a) végtaghiány,
 
-## 2.6. Elméleti képzési idő aránya: 40 %
+## b) szemmel látható fejlődési, mozgásszervi rendellenességek,
 
-## 2.7. Gyakorlati képzési idő aránya: 60 %
+## c) bénulások,
 
-## 2.8. Szintvizsga: -
+## d) inzulinnal kezelt cukorbetegség,
 
-## 2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: 120 óra a II. félév szorgalmi időszakát követően, 80 óra a IV. félév szorgalmi időszakában.
+## e) beszélgetés során felismerhető értelmi zavarok,
+
+## f) alacsony intelligenciaszint,
+
+## g) kezelt pszichiátriai betegségek,
+
+## h) epilepszia,
+
+## i) súlyos kancsalság,
+
+## j) súlyos halláscsökkenés,
+
+## k) asztma,
+
+## l) ismétlődő epe-, vesekövesség,
+
+## m) súlyos bőrbetegségek,
+
+## n) súlyos gerincferdülés és
+
+## o) az egyik vese hiánya.
+
+## 2.5. Pályaalkalmassági követelmények: –
+
+## 2.6. Elméleti képzési idő aránya: 50%
+
+## 2.7. Gyakorlati képzési idő aránya: 50%
+
+## 2.8. Szintvizsga: –
+
+## 2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
 
 ## 3. PÁLYATÜKÖR
 
-## 3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
+## 3.1. A szakképesítéssel legjellemzőbben betölthető munkakörök, foglalkozások:
 
-|  | A | B | C |
+|  | A | B | C | D |
 
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
+| 1. | 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakörök |
 
-| 3.1.2. | 0210 | Fegyveres szervek középfokú képesítést igénylő foglalkozásai | Honvéd altiszt |
+| 2. | 3.1.2. | 0310 | Fegyveres szervek középfokú képesítést nem igénylő foglalkozásai | Honvéd |
+
+| 3. | 3.1.3. | 3910 | Egyéb ügyintéző | Ügyintéző |
+
+| 4. | 3.1.4. | 3649 | Egyéb igazgatási és jogi asszisztens | Titkár |
+
+| 5. | 3.1.5. | 4112 | Általános irodai adminisztrátor | Adminisztrációs ügyintéző Alapítványi ügyintéző Dokumentációs ügyintéző |
+
+| 6. | 3.1.6. | 4114 | Adatrögzítő, kódoló | Adatrögzítő Számítógépes adatrögzítő |
 
 ## 3.2. A szakképesítés munkaterületének rövid leírása:
 
-## A Magyar Honvédségnél altiszti állományban:
+## 3.2.1. A Magyar Honvédségnél legénységi állományban
 
-## − katonai alaptevékenységet végez,
+## a) katonai alaptevékenységet végez,
 
-## − altiszti alapfeladatokat hajt végre,
+## b) tisztesi alapfeladatokat hajt végre, és
 
-## − katonai ágazati alap- és szaktevékenységet végez,
+## c) katonai ágazati alap- és szaktevékenységet végez.
 
-## − katonai szakmairányú szaktevékenységet végez.
+## 3.2.2. Legfontosabb munkatevékenységek:
 
-## Legfontosabb munkatevékenységek:
+## a) katonai alapfeladatok körében az alaki és öltözködési szabályzatban meghatározottak alkalmazása;
 
-## − katonai alapfeladatok körében a szolgálati, alaki és öltözködési szabályzatban meghatározottak alkalmazza;
+## b) a szolgálati szabályzatban meghatározottak alkalmazása és
 
-## − egyéni lőfegyverét, védelmi eszközeit és felszerelését kezeli, karbantartja;
+## c) az elöljáró által meghatározott egyéb alapszintű feladatok végrehajtása.
 
-## − őr-, ügyeleti- készenléti-, futár- valamint rendészeti szolgálati feladatot lát el;
+## 3.2.3. Polgári munkakörben:
 
-## − végrehajtja a napirend feladatait, parancsnokát támogatva részt vesz az alegység napi tevékenységének irányításában;
+## Feladatai:
 
-## − műszaki, logisztikai, harcászati, hírváltási, ön-és kölcsönös segélynyújtási, katasztrófavédelmi és nem háborús műveleti, feladatokat lát el;
+## a) az irodában folyó ügyviteli folyamatok végzése, szervezése, irányítása;
 
-## − a beosztott állomány kiképzését tervezi, szervezi és végzi, a saját katonai-szakmai ismereteit önképzéssel fejleszti, edzi testét;
+## b) az irodai körülmények között zajló adminisztrációs feladatok, általános irodai és adminisztratív készségeket igénylő egyéb tevékenységek végzése irányítás mellett a szervezeti, ügyviteli, adat- és dokumentumkezelési szabályok, egyéb utasítások betartása;
 
-## − számítógépes nyilvántartásokat vezet, elektronikus formátumú dokumentumokat készít;
+## c) kommunikációs tevékenység végzése, belső és külső kapcsolattartás;
 
-## − a szakbeosztásához rendszeresített haditechnikai eszközöket kezel, üzemeltet, tesztel, karbantart, az egyszerűbb hibákat javítja;
+## d) feladatok, információk gyűjtése, rögzítése, válogatása, osztályozása, nyilvántartása és iktatása;
 
-## − betartja és betartatja katonai gyakorlati feladatok végrehajtása során előírt biztonsági rendszabályokat, munka-, tűz- és környezetvédelmi tevékenységet végez;
+## e) meghatározott szakterületen ügykezelési feladatok ellátása;
 
-## − elsajátítja és alkalmazza a szövetségi szerepvállalásból fakadó feladatokat és viselkedési normákat, katonai-szakmai tevékenység során – NATO STANAG 6001 1.1.1.1 szinten – angol katonai szaknyelven kommunikál;
+## f) az ellátott szakmai terület által meghatározott kapcsolattartási feladatok végzése;
 
-## − építi és fejleszti az alegység közösségét, motiválja beosztottait, kezeli a konfliktusokat és stresszhelyzeteket;
+## g) általános és adott szakterülethez kapcsolódó ügyviteli feladatok elvégzése;
 
-## − katonai személyek és szervezetek, valamint polgári személyek és szervezetek közötti kommunikáció végez;
+## h) számítógépes adatbeviteli feladatok végzése;
 
-## − a beosztott állomány képzésének és előmenetelének tervezése, szervezése, a beosztott állomány önképzésének, ismeretszerzésének segítése, részükre egyéni fizikai felkészítési program kidolgozása;
+## i) írásbeli dokumentumok, iratok, levelek előállítása, szerkesztése, sokszorosítása, továbbítása;
 
-## − az alegységnél működő mentor, családtámogató programot segíti;
+## j) írásbeli kapcsolattartást szolgáló levelek, egyéb belső szervezeti iratok előkészítése leírása és megszerkesztése;
 
-## − közreműködik a honvédelmi nevelés programjának megvalósításában, a tiszt-, és altisztképzésben.
+## k) jegyzőkönyvek készítése;
+
+## l) iratok, egyéb dokumentumok szakszerű kezelése, tárolása;
+
+## m) határidők nyomon követése, betartása;
+
+## n) ügyfélmegkeresések továbbítása;
+
+## o) beszámolás a vezetőnek;
+
+## p) forrásanyagokból szám formátumú és egyéb adatok bevitele számítógépes formátumok kezelésére képes tároló- és feldolgozóeszközökre és
+
+## q) az anyagok válogatása vagy osztályozása utasítás szerint.
 
 ## 3.3. Kapcsolódó szakképesítések:
 
-|  | A | B | C |
+| A | B | C | D |
 
 | 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
 
@@ -104,1182 +150,630 @@
 
 | 3.3.3. | 31 863 01 | Alapfokú katonai vezető-helyettes | Részszakképesítés |
 
-| 3.3.4. | 55 863 01 | Honvéd zászlós (az ágazat/szakmairány megjelölésével) | Szakképesítés-ráépülés |
+| 3.3.4 | 54 863 03 | Honvédelmi igazgatási ügyintéző | Szakképesítés |
+
+| 3.3.5. | 54 863 02 | Honvéd altiszt (az ágazat/szakmairány megjelölésével) | Szakképesítés |
+
+| 3.3.6. | 55 863 01 | Honvéd zászlós | Szakképesítés |
 
 ## 4. SZAKMAI KÖVETELMÉNYEK
 
-|  | A | B |
+| A | B | C |
 
-| 4.1. | Az 54 863 02 azonosító számú, Honvéd altiszt (parancsnoki ágazat, ABV védelmi) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+| 4.1. | Az 52 863 01 azonosító számú Honvéd Kadét, igazgatási ügykezelő megnevezésű az állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
 
-| 4.1.1. | azonosító száma | megnevezése |
+| 4.2. | azonosító száma | megnevezése |
 
-| 4.1.2. | 10282-12 | Katonai alapfeladatok |
+| 4.3. | 12127-17 | Katonai alapismeretek modul: Alapszintű katonai ismeretek tantárgy |
 
-| 4.1.3. | 10283-12 | Altiszti alapfeladatok |
+| 4.4. | Katonai alapismeretek modul: Haditechnikai ismeretek tantárgy |
 
-| 4.1.4. | 10284-12 | Parancsnoki ágazati alap- és szaktevékenységek |
-
-| 4.1.5. | 10285-12 | Parancsnoki ágazat, ABV védelmi szakmairányú szaktevékenységek |
-
-| 4.2. | Az 54 863 02 azonosító számú, Honvéd altiszt (parancsnoki ágazat, légvédelmi rakéta és tüzér) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2.1. | azonosító száma | megnevezése |
-
-| 4.2.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.2.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.2.4. | 10284-12 | Parancsnoki ágazati alap- és szaktevékenységek |
-
-| 4.2.5. | 10286-12 | Parancsnoki ágazat, légvédelmi rakéta és tüzér szakmairányú szaktevékenységek |
-
-| 4.3. | Az 54 863 02 azonosító számú, Honvéd altiszt (légi vezetés ágazat) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.3.1. | azonosító száma | megnevezése |
-
-| 4.3.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.3.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.3.4. | 10287-12 | Légi vezetés ágazati alap- és szaktevékenységek |
-
-| 4.3.5. | 10288-12 | Légi vezetés ágazat, szakmairányú szaktevékenységek |
-
-| 4.4. | Az 54 863 02 azonosító számú, Honvéd altiszt (híradó ágazat, rádióállomás-üzemeltető) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.4.1. | azonosító száma | megnevezése |
-
-| 4.4.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.4.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.4.4. | 10289-12 | Elektronikai és digitális alapismeretek |
-
-| 4.4.5. | 10290-12 | Híradó ágazati szaktevékenységek |
-
-| 4.4.6. | 10291-12 | Híradó ágazat, rádióállomás-üzemeltető szakmairányú szaktevékenységek |
-
-| 4.5. | Az 54 863 02 azonosító számú, Honvéd altiszt (híradó ágazat, átvitel- és kapcsolástechnikai eszközüzemeltető) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.5.1. | azonosító száma | megnevezése |
-
-| 4.5.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.5.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.5.4. | 10289-12 | Elektronikai és digitális alapismeretek |
-
-| 4.5.5. | 10290-12 | Híradó ágazati szaktevékenységek |
-
-| 4.5.6. | 10292-12 | Híradó ágazat, átvitel- és kapcsolástechnikai eszközüzemeltető szakmairányú szaktevékenységek |
-
-| 4.6. | Az 54 863 02 azonosító számú, Honvéd altiszt (katonai informatikai-rendszer üzemeltető ágazat) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.6.1. | azonosító száma | megnevezése |
-
-| 4.6.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.6.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.6.4. | 10289-12 | Elektronikai és digitális alapismeretek |
-
-| 4.6.5. | 10293-12 | Katonai informatikai-rendszer üzemeltető ágazati szaktevékenységek |
-
-| 4.6.6. | 10294-12 | Katonai informatikai-rendszer üzemeltető ágazat, szakmairányú szaktevékenységek |
-
-| 4.7. | Az 54 863 02 azonosító számú, Honvéd altiszt (repülésbiztosító ágazat) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.7.1. | azonosító száma | megnevezése |
-
-| 4.7.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.7.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.7.4. | 10289-12 | Elektronikai és digitális alapismeretek |
-
-| 4.7.5. | 10295-12 | Repülésbiztosító alapismeretek |
-
-| 4.7.6. | 10296-12 | Repülésbiztosító szakismeretek, szaktevékenységek |
-
-| 4.8. | Az 54 863 02 azonosító számú, Honvéd altiszt (speciális felderítő ágazat, rádióelektronikai felderítő) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.8.1. | azonosító száma | megnevezése |
-
-| 4.8.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.8.3 | 10283-12 | Altiszti alapfeladatok |
-
-| 4.8.4. | 10289-12 | Elektronikai és digitális alapismeretek |
-
-| 4.8.5. | 10297-12 | Speciális felderítő ágazati szaktevékenységek |
-
-| 4.8.6. | 10298-12 | Speciális felderítő ágazat, rádióelektronikai felderítő szakmairányú szaktevékenységek |
-
-| 4.9. | Az 54 863 02 azonosító számú, Honvéd altiszt (speciális felderítő ágazat, elektronikai hadviselés) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.9.1. | azonosító száma | megnevezése |
-
-| 4.9.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.9.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.9.4. | 10289-12 | Elektronikai és digitális alapismeretek |
-
-| 4.9.5. | 10297-12 | Speciális felderítő ágazati szaktevékenységek |
-
-| 4.9.6. | 10299-12 | Speciális felderítő ágazat, elektronikai hadviselés szakmairányú szaktevékenységek |
-
-| 4.10. | Az 54 863 02 azonosító számú, Honvéd altiszt (szerelő ágazat, páncélos és gépjárműszerelő) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.10.1. | azonosító száma | megnevezése |
-
-| 4.10.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.10.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.10.4. | 10300-12 | Szerelő, műszerész ágazati alaptevékenységek |
-
-| 4.10.5. | 10301-12 | Szerelő ágazati szaktevékenységek |
-
-| 4.10.6. | 10302-12 | Szerelő ágazat, páncélos- és gépjármű szerelő szakmairányú szaktevékenységek |
-
-| 4.11. | Az 54 863 02 azonosító számú, Honvéd altiszt (szerelő ágazat, műszakigép-szerelő) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.11.1. | azonosító száma | megnevezése |
-
-| 4.11.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.11.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.11.4. | 10300-12 | Szerelő, műszerész ágazati alaptevékenységek |
-
-| 4.11.5. | 10301-12 | Szerelő ágazati szaktevékenységek |
-
-| 4.11.6. | 10303-12 | Szerelő ágazat, műszakigép-szerelő szakmairányú szaktevékenységek |
-
-| 4.12. | Az 54 863 02 azonosító számú, Honvéd altiszt (műszerész ágazat, fegyverműszerész) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.12.1. | azonosító száma | megnevezése |
-
-| 4.12.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.12.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.12.4. | 10300-12 | Szerelő, műszerész ágazati alaptevékenységek |
-
-| 4.12.5. | 10304-12 | Műszerész ágazati szaktevékenységek |
-
-| 4.12.5. | 10305-12 | Műszerész ágazat, fegyverműszerész szakmairányú szaktevékenységek |
-
-| 4.13. | Az 54 863 02 azonosító számú, Honvéd altiszt (műszerész ágazat, páncéltörő rakéta műszerész) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.13.1. | 10282-12 | Katonai alapfeladatok |
-
-| 4.13.2. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.13.3. | 10300-12 | Szerelő, műszerész ágazati alaptevékenységek |
-
-| 4.13.4. | 10304-12 | Műszerész ágazati szaktevékenységek |
-
-| 4.13.5. | 10306-12 | Műszerész ágazat, páncéltörő rakéta műszerész szakmairányú szaktevékenységek |
-
-| 4.14. | Az 54 863 02 azonosító számú, Honvéd altiszt (repülőműszaki ágazat, sárkány-hajtóműszerelő szerelő) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.14.1. | azonosító száma | megnevezése |
-
-| 4.14.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.14.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.14.4. | 10307-12 | Repülőműszaki alapismeretek |
-
-| 4.14.5. | 10308-12 | Sárkány-hajtómű |
-
-| 4.15. | Az 54 863 02 azonosító számú, Honvéd altiszt (repülőműszaki ágazat, avionikai szerelő) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.15.1. | azonosító száma | megnevezése |
-
-| 4.15.2. | 10282-12 | Katonai alapfeladatok |
-
-| 4.15.3. | 10283-12 | Altiszti alapfeladatok |
-
-| 4.15.4. | 10307-12 | Repülőműszaki alapismeretek |
-
-| 4.15.5. | 10309-12 | Avionika |
+| 4.5. | Katonai alapismeretek modul: Alaki rendgyakorlat tantárgy |
 
 ## 5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
 
-## 5.1. A komplex szakmai vizsgára bocsájtás feltételei:
+## 5.1. A komplex szakmai vizsgára bocsátás feltételei:
 
-## Az iskolarendszeren kívüli szakképzésben az V. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+## Az iskolarendszeren kívüli szakképzésben: az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
-## Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak - a szakképzési kerettantervben meghatározottak szerint - egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
+## Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak és szakmai gyakorlatok – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
 
-## „B” kategóriás vezetői engedély megléte, kivéve
+## 5.2. A komplex szakmai vizsga vizsgatevékenysége és az eredményesség feltételei
 
-## Szerelő ágazat: „B” és „C” kategóriás vezetői engedély megléte
+| A | B | C | D |
 
-## Angol nyelvből NATO STANAG 6001 1.1.1.1 katonai szaknyelvi vizsga megléte
+| 5.2.1. | Az 52 863 01 azonosító számú Honvéd kadét, igazgatási ügykezelő megnevezésű az állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
 
-## ECDL START számítógép kezelői jogosítvány megléte, kivéve
+| 5.2.2. | azonosító száma | megnevezése | a komplex vizsga vizsgatevékenysége |
 
-## Légi vezetés, Híradó, Katonai informatikai rendszerüzemeltető, Speciális felderítő (rádióelektronikai felderítő) ágazat/szakmairányt, ahol az ECDL számítógép kezelői jogosítvány megléte
+| 5.2.3. | 12127-17 | Katonai alapismeretek modul: Alapszintű katonai ismeretek tantárgy | írásbeli, szóbeli |
 
-## 5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
+| 5.2.4. | 12127-17 | Katonai alapismeretek modul: Haditechnikai ismeretek tantárgy | írásbeli |
 
-|  | A | B | C |
-
-| 5.2.1. | Az 54 863 02 azonosító számú, Honvéd altiszt (parancsnoki ágazat, ABV védelmi) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 5.2.1.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.1.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-| 5.2.1.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-| 5.2.1.4. | 10284-12 | Parancsnoki ágazati alap- és szaktevékenységek | írásbeli, szóbeli |
-
-| 5.2.1.5. | 10285-12 | Parancsnoki ágazat, ABV védelmi szakmairányú szaktevékenységek | gyakorlati, írásbeli, szóbeli |
-
-| 5.2.2. | Az 54 863 02 azonosító számú, Honvéd altiszt (parancsnoki ágazat, légvédelmi rakéta és tüzér) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 5.2.2.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.2.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-| 5.2.2.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-| 5.2.2.4. | 10284-12 | Parancsnoki ágazati alap- és szaktevékenységek | írásbeli, szóbeli |
-
-| 5.2.2.5. | 10286-12 | Parancsnoki ágazat, légvédelmi rakéta és tüzér szakmairányú szaktevékenységek | gyakorlati, írásbeli, szóbeli |
-
-| 5.2.3. | Az 54 863 02 azonosító számú, Honvéd altiszt (légi vezetés ágazat) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 5.2.3.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-| 5.2.3.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-| 5.2.3.4. | 10287-12 | Légi vezetés ágazati alap- és szaktevékenységek | szóbeli |
-
-| 5.2.3.5. | 10288-12 | Légi vezetés ágazat, szakmairányú szaktevékenységek | írásbeli, gyakorlati |
-
-|  | 5.2.4. | Az 54 863 02 azonosító számú, Honvéd altiszt (híradó ágazat, rádióállomás-üzemeltető) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.4.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.4.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.4.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.4.4. | 10289-12 | Elektronikai és digitális alapismeretek | írásbeli |
-
-|  | 5.2.4.5. | 10290-12 | Híradó ágazati szaktevékenységek | gyakorlati, szóbeli |
-
-|  | 5.2.4.6. | 10291-12 | Híradó ágazat, rádióállomás-üzemeltető szakmairányú szaktevékenységek | gyakorlati, szóbeli |
-
-|  | 5.2.5. | Az 54 863 02 azonosító számú, Honvéd altiszt (híradó ágazat, átvitel- és kapcsolástechnikai eszközüzemeltető) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.5.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.5.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.5.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.5.4. | 10289-12 | Elektronikai és digitális alapismeretek | írásbeli |
-
-|  | 5.2.5.5. | 10290-12 | Híradó ágazati szaktevékenységek | gyakorlati, szóbeli |
-
-|  | 5.2.5.6. | 10292-12 | Híradó ágazat, átvitel- és kapcsolástechnikai eszközüzemeltető szakmairányú szaktevékenységek | gyakorlati, szóbeli |
-
-|  | 5.2.6. | Az 54 863 02 azonosító számú, Honvéd altiszt (katonai informatikai-rendszer üzemeltető ágazat) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.6.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.6.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.6.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.6.4. | 10289-12 | Elektronikai és digitális alapismeretek | írásbeli |
-
-|  | 5.2.6.5. | 10293-12 | Katonai informatikai-rendszer üzemeltető ágazati szaktevékenységek | írásbeli, szóbeli |
-
-|  | 5.2.6.6. | 10294-12 | Katonai informatikai-rendszer üzemeltető ágazat, szakmairányú szaktevékenységek | gyakorlati, szóbeli |
-
-|  | 5.2.7. | Az 54 863 02 azonosító számú, Honvéd altiszt (repülésbiztosító ágazat) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.7.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.7.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.7.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.7.4. | 10289-12 | Elektronikai és digitális alapismeretek | írásbeli |
-
-|  | 5.2.7.5. | 10295-12 | Repülésbiztosító alapismeretek | írásbeli |
-
-|  | 5.2.7.6. | 10296-12 | Repülésbiztosító szakismeretek, szaktevékenységek | gyakorlati, írásbeli, szóbeli |
-
-|  | 5.2.8. | Az 54 863 02 azonosító számú, Honvéd altiszt (speciális felderítő ágazat, rádióelektronikai felderítő) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.8.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.8.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.8.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.8.4. | 10289-12 | Elektronikai és digitális alapismeretek | írásbeli |
-
-|  | 5.2.8.5. | 10297-12 | Speciális felderítő ágazati szaktevékenységek | írásbeli, szóbeli |
-
-|  | 5.2.8.6. | 10298-12 | Speciális felderítő ágazat, rádióelektronikai felderítő szakmairányú szaktevékenységek | gyakorlati, írásbeli, szóbeli |
-
-|  | 5.2.9. | Az 54 863 02 azonosító számú, Honvéd altiszt (speciális felderítő ágazat, elektronikai hadviselés) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.9.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.9.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.9.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.9.4. | 10289-12 | Elektronikai és digitális alapismeretek | írásbeli |
-
-|  | 5.2.9.5. | 10297-12 | Speciális felderítő ágazati szaktevékenységek | írásbeli, szóbeli |
-
-|  | 5.2.9.6. | 10299-12 | Speciális felderítő ágazat, elektronikai hadviselés szakmairányú szaktevékenységek | gyakorlati, írásbeli, szóbeli |
-
-|  | 5.2.10. | Az 54 863 02 azonosító számú, Honvéd altiszt (szerelő ágazat, páncélos és gépjárműszerelő) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.10.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.10.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.10.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.10.4. | 10300-12 | Szerelő, műszerész ágazati alaptevékenységek | írásbeli |
-
-|  | 5.2.10.5. | 10301-12 | Szerelő ágazati szaktevékenységek | szóbeli |
-
-|  | 5.2.10.6. | 10302-12 | Szerelő ágazat, páncélos- és gépjármű szerelő szakmairányú szaktevékenységek | gyakorlati, írásbeli, szóbeli |
-
-|  | 5.2.11. | Az 54 863 02 azonosító számú, Honvéd altiszt (szerelő ágazat, műszakigép-szerelő) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.11.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.11.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.11.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.11.4. | 10300-12 | Szerelő, műszerész ágazati alaptevékenységek | írásbeli |
-
-|  | 5.2.11.5. | 10301-12 | Szerelő ágazati szaktevékenységek | szóbeli |
-
-|  | 5.2.11.6. | 10303-12 | Szerelő ágazat, műszakigép-szerelő szakmairányú szaktevékenységek | gyakorlati, írásbeli, szóbeli |
-
-|  | 5.2.12. | Az 54 863 02 azonosító számú, Honvéd altiszt (műszerész ágazat, fegyverműszerész) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.12.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.12.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.12.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.12.4. | 10300-12 | Szerelő, műszerész ágazati alaptevékenységek | írásbeli |
-
-|  | 5.2.12.5. | 10304-12 | Műszerész ágazati szaktevékenységek | szóbeli |
-
-|  | 5.2.12.6. | 10305-12 | Műszerész ágazat, fegyverműszerész szakmairányú szaktevékenységek | gyakorlati, írásbeli, szóbeli |
-
-|  | 5.2.13. | Az 54 863 02 azonosító számú, Honvéd altiszt (műszerész ágazat, páncéltörő rakéta műszerész) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.13.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.13.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.13.2. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.13.2. | 10300-12 | Szerelő, műszerész ágazati alaptevékenységek | írásbeli |
-
-|  | 5.2.13.3. | 10304-12 | Műszerész ágazati szaktevékenységek | szóbeli |
-
-|  | 5.2.13.4. | 10306-12 | Műszerész ágazat, páncéltörő rakéta műszerész szakmairányú szaktevékenységek | gyakorlati, írásbeli, szóbeli |
-
-|  | 5.2.14. | Az 54 863 02 azonosító számú, Honvéd altiszt (repülőműszaki ágazat, sárkány-hajtóműszerelő szerelő) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.14.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.14.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.14.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.14.4. | 10307-12 | Repülőműszaki alapismeretek | szóbeli |
-
-|  | 5.2.14.5. | 10308-12 | Sárkány-hajtómű | gyakorlati, írásbeli, szóbeli |
-
-|  | 5.2.15. | Az 54 863 02 azonosító számú, Honvéd altiszt (repülőműszaki ágazat, avionikai szerelő) megnevezésű állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 5.2.15.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.15.2. | 10282-12 | Katonai alapfeladatok | gyakorlati |
-
-|  | 5.2.15.3. | 10283-12 | Altiszti alapfeladatok | írásbeli |
-
-|  | 5.2.15.4. | 10307-12 | Repülőműszaki alapismeretek | szóbeli |
-
-|  | 5.2.15.5. | 10309-12 | Avionika | gyakorlati, írásbeli, szóbeli |
+| 5.2.5. | 12127-17 | Katonai alapismeretek modul: Alaki rendgyakorlat | gyakorlati |
 
 ## Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
 ## 5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
 
-## 5.3.1. Az 54 863 02 azonosító számú, Honvéd altiszt (parancsnoki ágazat, ABV védelmi) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+## 5.3.1. Az 52 863 01 azonosító számú Honvéd kadét, igazgatási ügykezelő megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
 
-## 5.3.1.1. Gyakorlati vizsgatevékenység
+## 5.3.1.1. Gyakorlati vizsgatevékenység:
 
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
+## A) A vizsgafeladat megnevezése: 12127-17 Katonai alapismeretek szakmai követelménymodul: Alaki rendgyakorlat tantárgy
 
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre
+## A vizsgázó a vizsgán bemutatja
 
-## A vizsgafeladat időtartama: 50 perc
+## a) a vezény- és parancsszavak ismeretét, végrehajtását és végrehajtatását,
 
-## A vizsgafeladat aránya: 20 %
+## b) a tiszteletadás végrehajtását egyénileg és kötelékben,
 
-## B) A vizsgafeladat megnevezése: 10285-12 Parancsnoki ágazat, ABV védelmi szakmairányú szaktevékenységek
+## c) az elöljáróhoz való menet, jelentés, jelentkezés végrehajtását és
 
-## Szakharcászat és vegyivédelmi technikai eszközök üzemben tartása feladatai végrehajtása
+## d) a katonai rendezvények lefolyásának rendjét, amelynek alaki tartalma az elöljáró fogadása és köszöntése.
 
-## A vizsgafeladat időtartama: 60 perc (felkészülési idő 30 perc)
+## A vizsgafeladat időtartama: 15 perc
 
-## A vizsgafeladat aránya: 40 %
+## A vizsgafeladat aránya: 20%
 
-## 5.3.1.2. Központi írásbeli vizsgatevékenység
+## 5.3.1.2. Központi írásbeli vizsgatevékenység:
 
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10284-12 Parancsnoki ágazati alap- és szaktevékenységek; 10285-12 Parancsnoki ágazat, ABV védelmi szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
+## A 4. Szakmai követelmények fejezet 12127-17 Katonai alapismeretek szakmai követelménymodul: Alapszintű katonai ismeretek tantárgy és a Haditechnikai ismeretek tantárgy témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap kitöltése.
 
-## Témakörök: Szövetségesi ismeretek (NATO, EU);
+## Írásbeli témakörök:
 
-## Fegyvernemi alapismeretek felmérése; Vegyivédelmi technikai eszközök ismerete
+## A) Alapszintű katonai ismeretek tantárgy:
+
+## a) Magyarország biztonságpolitikai környezete,
+
+## b) a Magyar Honvédség felépítése és a katonai szervezetek jellemzői,
+
+## c) a modern háborúk jellemzői,
+
+## d) térkép- és tereptani alapismeretek,
+
+## e) általános katonai ismeretek: a harcászat alapfogalmai, a béketámogató műveletek, túlélési ismeretek, Atom-, Biológiai- és Vegyivédelmi (a továbbiakban: ABV védelmi) alapismeretek, haditechnikai ismeretek,
+
+## f) a honvédelem rendszere és a honvédelmi kötelezettségek,
+
+## g) hadijogi alapismeretek,
+
+## h) a magyar közigazgatás rendszere és
+
+## i) Magyarország védelemigazgatási rendszere.
+
+## B) Haditechnikai ismeretek tantárgy:
+
+## a) lőelméleti alapismeretek,
+
+## b) balesetvédelmi és biztonsági rendszabályok és
+
+## c) a Magyar Honvédségnél és Szövetséges haderőknél rendszeresített, haditechnikai eszközök bemutatása.
 
 ## A vizsgafeladat időtartama: 120 perc
 
-## A vizsgafeladat aránya: 20 %
+## A vizsgafeladat aránya: 40%
 
-## 5.3.1.3. Szóbeli vizsgatevékenység
+## 5.3.1.3. Szóbeli vizsgatevékenység:
 
-## Válaszadás a IV. Szakmai követelmények fejezet 10284-12 Parancsnoki ágazati alap- és szaktevékenységek, 10285-12 Parancsnoki ágazat, ABV védelmi szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
+## Válaszadás a 4. Szakmai követelmények fejezet 12127-17 Katonai alapismeretek szakmai követelménymodul: Alapszintű katonai ismeretek tantárgy témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból kihúzott szóbeli vizsgakérdéseire.
 
-## Témakörök: A Magyar Honvédség fegyvernemeinek és szakcsapatainak tevékenysége, eszközei; ABV védelmi szakismeretek
+## Témakörök:
 
-## A vizsgafeladat időtartama: 30 perc (felkészülési idő 30 perc)
+## a) Magyarország biztonságpolitikai környezete,
 
-## A vizsgafeladat aránya: 20 %
+## b) a Magyar Honvédség felépítése és a katonai szervezetek jellemzői,
 
-## 5.3.2. Az 54 863 02 azonosító számú, Honvéd altiszt (parancsnoki ágazat, légvédelmi rakéta és tüzér) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+## c) a modern háborúk jellemzői,
 
-## 5.3.2.1. Gyakorlati vizsgatevékenység
+## d) térkép- és tereptani alapismeretek,
 
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
+## e) az általános katonai ismeretek: harcászati alapfogalmak, a béketámogató műveletek, túlélési ismeretek, ABV védelmi alapismeretek, haditechnikai ismeretek,
 
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre
+## f) alaki ismeretek,
 
-## A vizsgafeladat időtartama: 50 perc
+## g) a honvédelem rendszere és a honvédelmi kötelezettségek,
 
-## A vizsgafeladat aránya: 20 %
+## h) hadijogi alapismeretek,
 
-## B) A vizsgafeladat megnevezése: 10286-12 Parancsnoki ágazat, légvédelmi rakéta és tüzér szakmairányú szaktevékenységek
+## i) a szerződéses katonák élete a Magyar Honvédségben és
 
-## Kezelői feladatok ellátása, szakharcászat
+## j) egészségügyi ismeretek.
 
-## A vizsgafeladat időtartama: 30 perc (felkészülési idő 30 perc)
+## A szóbeli vizsgafelelet időtartama: 15 perc (felkészülési idő: 30 perc)
 
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.2.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10284-12 Parancsnoki ágazati alap- és szaktevékenységek; 10286-12 Parancsnoki ágazat, légvédelmi rakéta és tüzér szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU);
-
-## Fegyvernemi alapismeretek felmérése;
-
-## Technikai ismeretek, szakharcászat, lőelmélet
-
-## A vizsgafeladat időtartama: 150 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.2.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10284-12 Parancsnoki ágazati alap- és szaktevékenységek, 10286-12 Parancsnoki ágazat, légvédelmi rakéta és tüzér szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## Témakörök: A Magyar Honvédség fegyvernemeinek és szakcsapatainak tevékenysége, eszközei; Technikai ismeretek, szakharcászat, lőelmélet
-
-## A vizsgafeladat időtartama: 30 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.3. Az 54 863 02 azonosító számú, Honvéd altiszt (légi vezetés ágazat, légi vezetés) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.3.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10287-12 Légi vezetés ágazat, ágazati alap- és szaktevékenységek
-
-## Az altiszt-jelölt a vizsgán bizonyítja az integrált légi vezetési és irányítási számítógépes rendszer, valamint a repülési adatfeldolgozó és tájékoztató számítógépes rendszer alapvető beállításainak és kezelői fogásainak ismeretét, végrehajtja a szakmai modul során megismert NATO egyezményes jelentések összeállítását, feldolgozását, valamint a légiforgalmi és repülésmeteorológiai jelentések kezelését, feldolgozását.
-
-## A vizsgafeladat időtartama: 30 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 30 %
-
-## 5.3.3.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10288-12 Légi vezetés ágazat, szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU);
-
-## A légihelyzet-kép előállítására, fenntartására, továbbítására vonatkozó alapvető eljárások; a légi célok hovatartozását jelölő NATO azonosítási kategóriák; a légvédelmi rakéta erők harcászati vezetésének és irányításának eljárásai; az általános légiközlekedési szabályok, valamint a légvédelmi célú és harckiképzési repülések végrehajtásának rendszabályai; a légvédelmi irányítás formái és típusai; a polgári légiforgalmi irányító és a légvédelmi irányító, vagy katonai légiforgalmi szolgálati egységek együttműködésének eljárásai; a katonai légtérellenőrzés szabályai, valamint a légtérellenőrzés eszközei; a légi kutató-mentő szolgálat ellátásának a bevetés tervezésének és végrehajtásának eljárásai.
-
-## A vizsgafeladat időtartama: 150 perc
-
-## A vizsgafeladat aránya: 30 %
-
-## 5.3.3.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10287-12 Légi vezetés ágazati alap- és szaktevékenységek; 10288-12 Légi vezetés ágazat, szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított rádióforgalmazási feladatokat tartalmazó tételek alapján bizonyítani az általános légiforgalmi és az alapvető műveleti egyezményes, angol nyelvű rádió-távbeszélő kifejezések használatára vonatkozó szabályok elsajátítását.
-
-## Témakörök: ICAO rádió-távbeszélő kifejezések, AAP-7 műveleti rádió-távbeszélő kifejezések
-
-## A vizsgafeladat időtartama: 30 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.4. Az 54 863 02 azonosító számú, Honvéd altiszt (híradó ágazat, rádióállomás-üzemeltető) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.4.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10290-12 Híradó ágazati szaktevékenységek; 10291-12 Híradó ágazat, rádióállomás-üzemeltető szakmairányú szaktevékenységek
-
-## Gépírási és hírváltási feladat végrehajtása; Rádióeszközök, eszközkomplexumok szabályos telepítése és üzemeltetése, a híradó és informatikai hálózatok rendszertechnikai kiszolgálása
-
-## A vizsgafeladat időtartama: 240 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.4.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10289-12 Elektronikai és digitális alapismeretek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU); Villamossági, digitális technikai ismeretek (érintésvédelem, áramköri jelölések, passzív, aktív áramköri elemek, egyen- és váltakozó áramú körök számításai, információs hadviselés eszközei, NATO információs terminológiái)
-
-## A vizsgafeladat időtartama: 90 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.4.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10290-12 Híradó ágazati szaktevékenységek; 10291-12 Híradó ágazat, rádióállomás-üzemeltető szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## Témakörök: Híradásszervezés, módszertani csapatkiképzési, átvitel-technikai és katonai informatikai ismeretek alkalmazása; rádióeszközök és eszközkomplexumok telepítési és üzemeltetési szabályainak alkalmazása, a híradó és informatikai hálózatok rendszertechnikai kiszolgálása
-
-## A vizsgafeladat időtartama: 60 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.5. Az 54 863 02 azonosító számú, Honvéd altiszt (híradó ágazat, átvitel- és kapcsolástechnikai eszközüzemeltető) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.5.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10290-12 Híradó ágazati szaktevékenységek; 10292-12 Híradó ágazat, átvitel- és kapcsolástechnikai eszközüzemeltető szakmairányú szaktevékenységek.
-
-## Gépírási és hírváltási feladat végrehajtása; átvitel- és kapcsolástechnikai eszközök és eszközkomplexumok szabályos telepítése és üzemeltetése, a híradó és informatikai hálózatok rendszertechnikai kiszolgálása
-
-## A vizsgafeladat időtartama: 240 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.5.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10289-12 Elektronikai és digitális alapismeretek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU); Villamossági, digitális technikai ismeretek (érintésvédelem, áramköri jelölések, passzív, aktív áramköri elemek, egyen- és váltakozó áramú körök számításai, információs hadviselés eszközei, NATO információs terminológiái)
-
-## A vizsgafeladat időtartama: 90 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.5.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10290-12 Híradó ágazati szaktevékenységek; 10292-12 Híradó ágazat, átvitel- és kapcsolástechnikai eszközüzemeltető szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## Témakörök: Híradásszervezés, módszertani csapatkiképzési, átvitel-technikai és katonai informatikai ismeretek alkalmazása; átvitel és kapcsolástechnikai eszközök, eszközkomplexumok telepítési és üzemeltetési szabályainak alkalmazása, a híradó és informatikai hálózatok rendszertechnikai kiszolgálása
-
-## A vizsgafeladat időtartama: 60 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.6. Az 54 863 02 azonosító számú, Honvéd altiszt (katonai informatikai-rendszer üzemeltető ágazat, katonai informatikai-rendszer üzemeltető) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.6.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10294-12 Katonai informatikai-rendszer üzemeltető ágazat, szakmairányú szaktevékenységek
-
-## A vizsgafeladat ismertetése: gyakorlati készségek bemutatása a helyi hálózat, DNS szerver, címtartomány, átjáró konfigurálása, a Windows szerver felhasználói fiókok beállítása, a felhasználói jogosultság, csoportházirend beállítása, a hálózati nyomtató és meghajtók hozzárendelése, a vírusirtó szoftverek alkalmazása, az elektronikus levelező rendszer fiókok beállítása, egyszerű katonai weblap elkészítése témakörökből
-
-## A vizsgafeladat időtartama: 120 perc
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.6.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10289-12 Elektronikai és digitális alapismeretek; 10293-12 Katonai informatikai-rendszer üzemeltető ágazati szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU); Villamossági, digitális technikai ismeretek (érintésvédelem, áramköri jelölések, passzív, aktív áramköri elemek, egyen- és váltakozó áramú körök számításai, információs hadviselés eszközei, NATO információs terminológiái); Informatikai üzemeltetési alapismeretek és szabályzatismeret felmérése, számítógépek és perifériák felépítése, számítógép-hálózatok elemei, működése, hálózati protokollok ismerete
-
-## A vizsgafeladat időtartama: 120 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.6.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10293-12 Katonai informatikai-rendszer üzemeltető ágazati szaktevékenységek; 10294-12 Katonai informatikai-rendszer üzemeltető ágazat, szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## Témakörök: Beszámoló az MH informatikai szolgálata, az MH informatikai rendszere, a számítástechnikai alapfogalmak, az MH informatikai szolgáltatásai, az informatikai üzemeltetés feladatai, a felhasználókkal való kapcsolattartás feladatai, informatikai üzemeltetési okmányok, katonai műveletek informatikai támogatása, tábori (szárazföldi) és légierő informatikai rendszer főbb tulajdonságai, együttműködési képesség a NATO szövetségesekkel témakörökből; valamint a helyi számítógép-hálózat kialakítása, konfigurálása, üzemeltetésének feladatai, felhasználók hálózatba léptetése, jogosultságaik meghatározása, nyilvántartásuk megszervezése, naplózás, rendszerfelügyelet, erőforrások nyilvántartása, felhasználókhoz rendelése, mentés és archiválás, internet alapismeretek, elektronikus levelezési alapismeretek témakörökből
-
-## A vizsgafeladat időtartama: 30 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.7. Az 54 863 02 azonosító számú, Honvéd altiszt (repülésbiztosító ágazat) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.7.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10296-12 Repülésbiztosító szakismeretek, szaktevékenységek
-
-## A vizsgafeladat ismertetése: Repülésbiztosító rendszerek üzemeltetése (repülésbiztosító rádió-, rádió-navigációs-, lokátor- és fénytechnikai rendszerek üzemeltetése, speciális munka-, tűzvédelmi szabályok, elsősegélynyújtás szabályai, rendszerek telepítésének és üzemeltetésének szabályai, az üzemeltetett repülésbiztosító eszközök típusismerete, felügyeleti és vezérlő technikai eszközök kezelése, a meghibásodások jelenségeinek felismerése, mérések és kezelői szintű javítások végrehajtása, a repülésbiztosító eszközökre vonatkozó technológiai utasítások, okmányok vezetése)
-
-## A vizsgafeladat időtartama: 60 perc
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.7.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10289-12 Elektronikai és digitális alapismeretek; 10295-12 Repülésbiztosító alapismeretek; 10296-12 Repülésbiztosító szakismeretek, szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU);
-
-## Villamossági, digitális technikai ismeretek (érintésvédelem, áramköri jelölések, passzív, aktív áramköri elemek, egyen- és váltakozó áramú körök számításai. Információs hadviselés eszközei, NATO információs terminológiái);
-
-## Repülésbiztosító alapismeretek (rendszerfelügyeleti/FRISZ ügyeletesi szolgálat ellátására vonatkozó rendszabályok, katonai repülések osztályozása, feladatai, végrehajtás rendje, a repülőtér jellemzői, a repülések biztosításának és a légi forgalom irányításának alapelvei, feladatai, a légiközlekedés irányításának nemzetközi és hazai szervezetei, a katonai és polgári légiforgalom-irányító szolgálatok feladatai, repülésbiztosító rendszerek és távközlési eszközök);
-
-## Rendszertechnikai ismeretek (a hírközlésben alkalmazott elektrotechnikai alapelemek, alapáramkörök, az adó- és vevőfokozatok működési elvei, rádió-navigációs és rádiólokációs alapelvek);
-
-## A vizsgafeladat időtartama: 160 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.7.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10296-12 Repülésbiztosító szakismeretek, szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## Témakörök: Repülésbiztosító eszközök ismereteinek (az üzemeltetett repülésbiztosító eszközök típusismerete, repülésbiztosító fénytechnikai rendszerek, rendszerelemek és berendezések, katonai és polgári repülőterek, a helikopter fel- és leszállóhely fénytechnikai rendszerei, a hírközlésben alkalmazott elektrotechnikai alapelemek, alapáramkörök, az adó- és vevőfokozatok működési elvei rádió-navigációs és rádiólokációs alapelvek, az alkalmazott rádióállomások típusai, szabványai) alkalmazása
-
-## A vizsgafeladat időtartama: 30 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.8. Az 54 863 02 azonosító számú, Honvéd altiszt (speciális felderítő ágazat, rádióelektronikai felderítő) megnevezésű szakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében:
-
-## 5.3.8.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10298-12 Speciális felderítő ágazat, rádióelektronikai felderítő szakmairányú szaktevékenységek
-
-## A vizsgafeladat ismertetése: A rendszeresített berendezések önálló kezelése, lehetőségeinek kihasználásával egyszerű és bonyolult adatszerzési feladatok végrehajtása, a rádióadások legfontosabb technikai paramétereinek meghatározása, az adatszerzés okmányainak vezetése.
-
-## A vizsgafeladat időtartama: 120 perc
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.8.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10289-12 Elektronikai és digitális alapismeretek; 10297-12 Speciális felderítő ágazati szaktevékenységek; 10298-12 Speciális felderítő ágazat, rádióelektronikai felderítő szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU);
-
-## Villamossági, digitális technikai ismeretek (érintésvédelem, áramköri jelölések, passzív, aktív áramköri elemek, egyen- és váltakozó áramú körök számításai, információs hadviselés eszközei;
-
-## A rádióelektronikai felderítés végrehajtásával kapcsolatos fogalmak, törvényszerűségek, összefüggések értelmezése; Híradástechnikai alapismeretekkel és a korszerű távközlési rendszerek működésével kapcsolatos fogalmak értelmezése
-
-## A vizsgafeladat időtartama: 160 perc
-
-## A vizsgafeladat aránya: 10 %
-
-## 5.3.8.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10297-12 Speciális felderítő ágazati szaktevékenységek; 10298-12 Speciális felderítő ágazat, rádióelektronikai felderítő szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## A vizsgafeladat ismertetése: Rádióvétel-technikai ismeretek gyakorlatban előforduló összefüggéseinek értelmezése és alkalmazása; Rádióelektronikai felderítő szaktechnikai eszközök felépítésének, rendeltetésének, működésének, kezelésének bemutatása.
-
-## A vizsgafeladat időtartama: 60 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 30 %
-
-## 5.3.9. Az 54 863 02 azonosító számú, Honvéd altiszt (speciális felderítő ágazat, elektronikai hadviselés) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.9.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10299-12 Speciális felderítő ágazat, elektronikai hadviselés szakmairányú szaktevékenységek
-
-## A vizsgafeladat ismertetése: Szakharcászat végrehajtása. Kijelölt rádióforgalmi rendszer felderítése, helyének meghatározása, technikai paramétereinek rögzítése, lehallgatása, lefogása. Távvezérelt robbanóeszköz semlegesítésének előkészítése, szükséges programozási, nyilvántartási feladatok végrehajtása. A távvezérelt robbanóeszköz működtetésének akadályozása, lefogása.
-
-## A vizsgafeladat időtartama: 60 perc
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.9.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10289-12 Elektronikai és digitális alapismeretek; 10297-12 Speciális felderítő ágazati szaktevékenységek; 10299-12 Speciális felderítő ágazat, elektronikai hadviselés szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU);
-
-## Villamossági, digitális technikai ismeretek (érintésvédelem, áramköri jelölések, passzív, aktív áramköri elemek, egyen- és váltakozó áramú körök számításai, információs hadviselés eszközei;
-
-## A rádióelektronikai felderítés végrehajtásával kapcsolatos fogalmak, törvényszerűségek, összefüggések értelmezése;
-
-## A híradástechnikai alapismeretekkel és a harcászati kommunikációs rendszerek működésével, kapcsolatos fogalmak értelmezése.
-
-## A vizsgafeladat időtartama: 160 perc
-
-## A vizsgafeladat aránya: 10 %
-
-## 5.3.9.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10297-12 Speciális felderítő ágazati szaktevékenységek; 10299-12 Speciális felderítő ágazat, elektronikai hadviselés szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## A vizsgafeladat ismertetése: Rádióvétel-technikai ismeretek gyakorlatban előforduló összefüggéseinek értelmezése és alkalmazása; Elektronikai hadviselés alapfogalmai; Elektronikai hadviselés helye, szerepe az MH-ban és a szövetséges műveletekben;
-
-## Elektronikai hadviselés eszközeinek típusismerete.
-
-## A vizsgafeladat időtartama: 60 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 30 %
-
-## 5.3.10. Az 54 863 02 azonosító számú, Honvéd altiszt (szerelő ágazat, páncélos és gépjárműszerelő) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.10.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre.
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10302-12 Szerelő ágazat, páncélos- és gépjárműszerelő szakmairányú szaktevékenységek
-
-## A vizsgafeladat ismertetése: Az altisztjelölt végrehajtja a kijelölt gépjármű-technikai eszköz, fődarab hiba-felvételezését, előkészíti, szükség szerint telepíti az adott technikai kiszolgálás, javítás elvégzéséhez szükséges eszközöket, berendezéseket, a munkavédelmi- és környezetvédelmi rendszabályok betartásával végrehajtja a meghatározott javítási, karbantartási műveleteket, az elvégzett feladatokat előírás szerint okmányolja.
-
-## A vizsgafeladat időtartama: 120 perc
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.10.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10302-12 Szerelő ágazat, páncélos- és gépjárműszerelő szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Témakörök: Szövetségesi ismeretek (NATO, EU);
-
-## Szakharcászat, gép- harcjármű és harckocsi üzembentartás, gép- és harcjármű és harckocsi technikai ismeret.
-
-## A vizsgafeladat időtartama: 90 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.10.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10302-12 Szerelő ágazat, páncélos- és gépjárműszerelő szakmairányú szaktevékenységek modul témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## A vizsgafeladat ismertetése: Szakharcászat, gép- harcjármű és harckocsi üzembentartás, gép- és harcjármű és harckocsi technikai ismeret.
-
-## A vizsgafeladat időtartama: 45 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.11. Az 54 863 02 azonosító számú, Honvéd altiszt (szerelő ágazat, műszakigép-szerelő) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.11.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre.
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10303-12 Szerelő ágazat, műszakigép-szerelő szakmairányú szaktevékenységek
-
-## A vizsgafeladat ismertetése: Az altisztjelölt végrehajtja a kijelölt gépjármű-technikai eszköz, fődarab hiba-felvételezését, előkészíti, szükség szerint telepíti az adott technikai kiszolgálás, javítás elvégzéséhez szükséges eszközöket, berendezéseket, a munkavédelmi- és környezetvédelmi rendszabályok betartásával végrehajtja a meghatározott javítási, karbantartási műveleteket, az elvégzett feladatokat előírás szerint okmányolja.
-
-## A vizsgafeladat időtartama: 120 perc
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.11.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10303-12 Szerelő ágazat, műszakigép-szerelő szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU);
-
-## Szakharcászat, műszaki gépek és felszerelések üzembenntartása, műszaki felszerelések és gépek technikai ismeret.
-
-## A vizsgafeladat időtartama: 90 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.11.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet, 10303-12 Szerelő ágazat, műszakigép-szerelő szakmairányú szaktevékenységek modul témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## A vizsgafeladat ismertetése: Az altisztjelölt az oktatási segédeszközök felhasználásával bemutatja a meghatározott műszaki-technikai eszköz, fődarab, részegység feladatát, felépítését, elmagyarázza működési elvét. Az altisztjelölt ismerteti a műszaki-technikai eszköz üzembenntartásával, üzemeltetésével kapcsolatos szabályokat, előírásokat, tervezési, szervezési folyamatokat. Az altisztjelölt ismerteti a műszaki-technikai biztosítás szakharcászati elveit, előírásait, elemeit és azok feladatát.
-
-## A vizsgafeladat időtartama: 45 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.12. Az 54 863 02 azonosító számú, Honvéd altiszt (műszerész ágazat, fegyverműszerész) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.12.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre.
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10305-12 Műszerész ágazat, fegyverműszerész szakmairányú szaktevékenységek
-
-## A vizsgafeladat ismertetése: Az altisztjelölt végrehajtja a kijelölt fegyverzettechnikai eszköz, fődarab, részegység hiba-felvételezését, előkészíti, szükség szerint telepíti az adott technikai kiszolgálás, javítás elvégzéséhez szükséges eszközöket, berendezéseket, a munkavédelmi- és környezetvédelmi rendszabályok betartásával végrehajtja a meghatározott javítási, karbantartási műveleteket, az elvégzett feladatokat előírás szerint okmányolja. Ismerteti a kijelölt fegyverzettechnikai eszközökhöz tartozó lőszerek fajtáit, felépítésüket, működésüket, továbbá azok kezelésévek kapcsolatos szabályokat.
-
-## A vizsgafeladat időtartama: 120 perc
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.12.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10305-12 Műszerész ágazat, fegyverműszerész szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU);
-
-## Szakharcászat, hagyományos fegyverzettechnikai eszköz üzembentartás, hagyományos fegyverzettechnikai eszköz technikai ismeret.
-
-## A vizsgafeladat időtartama: 90 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.12.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10305-12 Műszerész ágazat, fegyverműszerész szakmairányú szaktevékenységek modul témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## A vizsgafeladat ismertetése: Hagyományos fegyverzettechnikai eszköz üzembentartás, hagyományos fegyverzettechnikai eszköz technikai ismeret.
-
-## A vizsgafeladat időtartama: 45 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.13. Az 54 863 02 azonosító számú, Honvéd altiszt (műszerész ágazat, páncéltörő rakéta műszerész) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.13.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10306-12 Műszerész ágazat, páncéltörő rakéta műszerész szakmairányú szaktevékenységek
-
-## A vizsgafeladat ismertetése: Az altisztjelölt végrehajtja a kijelölt páncéltörő rakétatechnikai eszköz, fődarab hiba-felvételezését, előkészíti, szükség szerint telepíti az adott technikai kiszolgálás, javítás elvégzéséhez szükséges eszközöket, berendezéseket, a munkavédelmi- és környezetvédelmi rendszabályok betartásával végrehajtja a meghatározott javítási, karbantartási műveleteket, az elvégzett feladatokat előírás szerint okmányolja.
-
-## A vizsgafeladat időtartama: 120 perc
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.13.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10306-12 Műszerész ágazat, páncéltörő rakéta műszerész szakmairányú szaktevékenységek modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU);
-
-## Szakharcászat, páncéltörő rakétatechnikai eszköz üzembentartás, páncéltörő rakétatechnikai eszköz típus ismeret.
-
-## A vizsgafeladat időtartama: 90 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.13.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10306-12 Műszerész ágazat, páncéltörő rakéta műszerész szakmairányú szaktevékenységek modul témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## A vizsgafeladat ismertetése: Szakharcászat, páncéltörő rakétatechnikai eszköz üzembentartás, páncéltörő rakétatechnikai ismeret.
-
-## A vizsgafeladat időtartama: 45 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.14. Az 54 863 02 azonosító számú, Honvéd altiszt (repülőműszaki ágazat, sárkány-hajtóműszerelő) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.14.1. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre.
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10308-12 Sárkány-hajtómű
-
-## A vizsgafeladat ismertetése: Légijárművek üzembentartása
-
-## A vizsgafeladat időtartama: 60 perc
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.14.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10308-12 Sárkány-hajtómű modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU);
-
-## Sárkány-hajtómű alapismeretek (repülés dinamikája, műszaki hőtan, méréstechnika, mechanika, automatika).
-
-## A vizsgafeladat időtartama: 160 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.14.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10307-12 Repülőműszaki alapismeretek 10308-12 Sárkány-hajtómű modul témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## A vizsgafeladat ismertetése: Légi járművek üzemben tartásának alapjai; Sárkány-hajtómű szerkezet és rendszer ismeret.
-
-## A vizsgafeladat időtartama: 60 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.15. Az 54 863 02 azonosító számú, Honvéd altiszt (repülőműszaki ágazat, avionikai szerelő) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-## 5.3.15.1. I. Gyakorlati vizsgatevékenység
-
-## A) A vizsgafeladat megnevezése: 10282-12 Katonai alapfeladatok
-
-## Az altiszt-jelölt a vizsgán összetett katonai (szabály ismereti, alaki fogások és mozdulatok ismerete, általános harcászati, általános lőelméleti, fegyverzet technikai, tereptani, műszaki, híradási, vegyivédelmi, logisztikai, egészségügyi, kiképzés módszertani, katonai alegység vezetésével kapcsolatos) feladatokat hajt végre
-
-## A vizsgafeladat időtartama: 50 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## B) A vizsgafeladat megnevezése: 10309-12 Avionika
-
-## A vizsgafeladat ismertetése: Légijárművek üzembentartása
-
-## A vizsgafeladat időtartama: 60 perc
-
-## A vizsgafeladat aránya: 40 %
-
-## 5.3.15.2. Központi írásbeli vizsgatevékenység
-
-## A IV. Szakmai követelmények fejezet 10283-12 Altiszti alapfeladatok; 10309-12 Avionika modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-## Témakörök: Szövetségesi ismeretek (NATO, EU);
-
-## Elektronikai szakismeretek (elektronika, digitális technika, automatika, mikrohullámú technika).
-
-## A vizsgafeladat időtartama: 110 perc
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.3.15.3. Szóbeli vizsgatevékenység
-
-## Válaszadás a IV. Szakmai követelmények fejezet 10307-12 Repülőműszaki alapismeretek 10309-12 Avionika modul témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-## A vizsgafeladat ismertetése: Légi járművek üzemben tartásának alapjai; Légijárművek rádió- és lokátortechnikai, valamint elektromos-, műszer-, oxigén- és automatikai fedélzeti rendszerei.
-
-## A vizsgafeladat időtartama: 60 perc (felkészülési idő 30 perc)
-
-## A vizsgafeladat aránya: 20 %
-
-## 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: -
-
-## 5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
+## A vizsgafeladat aránya: 40%
 
 ## 6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
-|  | A |
+| A | B |
 
 | 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
 
-| 6.2. | Egyéni felszerelés és védőeszközök |
+| 6.2. | Egyéni felszerelés |
 
-| 6.3. | Egyéni fegyverzet |
+| 6.3. | Térképészeti szakanyagok |
 
-| 6.4. | Térképészeti szakanyagok |
+| 6.4. | Számítógép konfigurációk |
 
-| 6.5. | Számítógép konfigurációk |
+| 6.5. | Számítógépes szoftverek (Windows, Office) |
 
-| 6.6. | Szoftverek (Windows, Office) |
+| 6.6. | Mágneslemezek, CD-k, adathordozók |
 
-| 6.7. | Mágneslemezek, CD-k, adathordozók |
+| 6.7. | Nyomtatók |
 
-| 6.8. | Nyomtatók |
+| 6.8. | Lőszereket oktató tablósor |
 
-| 6.9. | Belsőégésű motorok típus, működés és kiszolgáló rendszerei oktató tablósor |
+| 6.9. | Fegyver típusonkénti oktató tablók |
 
-| 6.10. | Motorok és működtető rendszerek metszetei |
+| 6.10. | Általános és szakharcászati oktató fali tabló sorozatok |
 
-| 6.11. | Lőszerek oktató tablósor |
+| 6.11. | Gyakorló fegyverek |
 
-| 6.12. | Fegyver típusonkénti oktató tablók |
+| 6.12. | Metszett fegyverek |
 
-| 6.13. | Általános és szakharcászati oktató fali tabló sorozatok |
+| 6.13. | Gyakorló lőszerek és metszetek |
 
-| 6.14. | Gyakorló fegyverek, aknák |
+| 6.14. | Oktató fali tabló sorozatok |
 
-| 6.15. | Metszett fegyverek, aknák |
+| 6.15. | Működést szemléltető fali tablók |
 
-| 6.16. | Gyakorló robbanó töltetek |
+| 6.16. | Lőelméletet és tüzelési szabályokat oktató fali tabló sorozatok |
 
-| 6.17. | Gyakorló lőszerek és metszetek |
+| 6.17. | Célzást gyakorló és ellenőrző készülékek |
 
-| 6.18. | Oktató fali tabló sorozatok |
+| 6.18. | Haditechnikai eszközök* |
 
-| 6.19. | Működést szemléltető fali tablók |
+| 6.19. | Harcjárműtechnikai eszközök* |
 
-| 6.20. | Lőelméletet és tüzelési szabályokat oktató fali tabló sorozatok |
+| 6.20. | Fegyverzettechnikai eszközök* |
 
-| 6.21. | Célzást gyakorló és ellenőrző készülékek |
+| 6.21. | Híradóeszközök* |
 
-| 6.22. | Oktató makettek |
+| 6.22. | Harcanyagok* |
 
-| 6.23. | Haditechnikai eszközök |
+| 6.23. | Oktatástechnikai segédeszközök |
 
-| 6.24. | Harcjármű-technikai eszközök |
+| 6.24. | Oktatófilmek, prezentációk |
 
-| 6.25. | Fegyverzettechnikai eszközök |
+| 6.25. | Ágazati/szakmairányú képzés szakanyagai |
 
-| 6.26. | Híradóeszközök |
+## * A Magyar Honvédség által biztosított külső gyakorlóhelyen
 
-| 6.27. | Harcanyagok |
+## 7. EGYEBEK
 
-| 6.28. | Oktatástechnikai segédeszközök |
+## 7.1. A szakmai és vizsgakövetelményben szereplő képzések szakmai tartalmáért felelős és a szakmai vizsgabizottságban való részvételre kijelölt szervezetek:
 
-| 6.29. | Információhordozók |
+| A | B | C | D |
 
-| 6.30. | Oktatófilmek, prezentációk |
+| 7.1.1. | Azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat szerint illetékes szakmai szerv, szervezet |
 
-| 6.31. | Ágazat/szakmairányú képzés szakanyagai |
+| 7.1.2. | 52 863 01 | Honvéd kadét, igazgatási ügykezelő | a miniszter által közjogi szervezetszabályozó eszközben kijelölt szerv |
+
+## 7.2. A Honvéd kadét, igazgatási ügykezelő érettségi végzettséggel szerezhető meg.
+
+## II. HONVÉDELMI IGAZGATÁSI ÜGYINTÉZŐ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+## 1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+
+## 1.1. A szakképesítés azonosító száma: 54 863 03
+
+## 1.2. Szakképesítés megnevezése: Honvédelmi igazgatási ügyintéző
+
+## 1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 2 év
+
+## 1.4. Iskolarendszeren kívüli szakképzésben az óraszám: – óra
+
+## 2. A SZAKKÉPESÍTÉSHEZ KAPCSOLÓDÓ TOVÁBBI JELLEMZŐ ADATOK
+
+## 2.1. A képzés megkezdésének feltételei:
+
+## 2.1.1. Iskolai előképzettség, végzettség: Érettségi végzettség
+
+## 2.1.2. Bemeneti kompetenciák: –
+
+## 2.2. Szakmai előképzettség: –
+
+## 2.3. Előírt gyakorlat: –
+
+## 2.4. Egészségügyi alkalmassági követelmények:
+
+## A képzésre nem vehető fel, aki az alábbiak közül valamelyikben szenved:
+
+## a) végtaghiány,
+
+## b) szemmel látható fejlődési, mozgásszervi rendellenességek,
+
+## c) bénulások,
+
+## d) inzulinnal kezelt cukorbetegség,
+
+## e) beszélgetés során felismerhető értelmi zavarok,
+
+## f) alacsony intelligenciaszint,
+
+## g) kezelt pszichiátriai betegségek,
+
+## h) epilepszia,
+
+## i) súlyos kancsalság,
+
+## j) súlyos halláscsökkenés,
+
+## k) asztma,
+
+## l) ismétlődő epe-, vesekövesség,
+
+## m) súlyos bőrbetegségek,
+
+## n) súlyos gerincferdülés és
+
+## o) az egyik vese hiánya.
+
+## 2.5. Pályaalkalmassági követelmények: –
+
+## 2.6. Elméleti képzési idő aránya: 50%
+
+## 2.7. Gyakorlati képzési idő aránya: 50%
+
+## 2.8. Szintvizsga: –
+
+## 2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: két évfolyamos képzés esetén az első, 1/13. szakképzési évfolyamot követően 160 óra.
+
+## 3. PÁLYATÜKÖR
+
+## 3.1. A szakképesítéssel legjellemzőbben betölthető munkakörök, foglalkozások:
+
+| A | B | C | D |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakörök |
+
+| 3.1.2. | 0310 | Fegyveres szervek középfokú képesítést nem igénylő foglalkozásai | Honvéd |
+
+| 3.1.3. | 3910 | Egyéb ügyintéző | Ügyintéző |
+
+| 3.1.4. | 3649 | Egyéb igazgatási és jogi asszisztens | Titkár |
+
+| 3.1.5. | 3221 | Irodai szakmai irányító | Iktatásirányító Információs Iroda vezető Irodakoordinátor Irodai ügyvitel-irányító Irodavezető |
+
+| 3.1.6. | 4112 | Általános irodai adminisztrátor | Adminisztrációs ügyintéző Alapítványi ügyintéző Dokumentációs ügyintéző |
+
+| 3.1.7. | 4114 | Adatrögzítő, kódoló | Adatrögzítő Számítógépes adatrögzítő |
+
+| 3.1.8. | 4136 | Iratkezelő, irattáros | Dokumentációs előadó |
+
+## 3.2. A szakképesítés munkaterületének rövid leírása:
+
+## 3.2.1. A Magyar Honvédségnél legénységi állományban:
+
+## a) katonai alaptevékenységet végez,
+
+## b) tisztesi alapfeladatokat hajt végre, és
+
+## c) katonai ágazati alap- és szaktevékenységet végez.
+
+## 3.2.2. Legfontosabb munkatevékenységek:
+
+## a) katonai alapfeladatok körében a szolgálati, az alaki és öltözködési szabályzatban meghatározottak alkalmazása és
+
+## b) szolgálati szabályzatban meghatározottak alkalmazása.
+
+## 3.2.3. Polgári munkakörben
+
+## 3.2.3.1. Irányítja, összehangolja, felügyeli és ellenőrzi az irodában folyó – elsősorban adminisztrációs – munkát, kommunikációs kapcsolatokat.
+
+## Feladatai:
+
+## a) az irodában folyó ügyviteli folyamatok szervezése, irányítása, ellenőrzése;
+
+## b) az irodai körülmények között zajló adminisztrációs feladatokat általános irodai és adminisztratív készségeket igénylő egyéb tevékenységeket ellátó dolgozók munkájának megtervezése, koordinálása, a feladatok kiosztása;
+
+## c) az irodai adminisztrációs feladatok végzésének felügyelete, ellenőrzése, közvetlen irányítása;
+
+## d) a szervezeti, ügyviteli, adat- és dokumentumkezelési szabályok, egyéb utasítások betartása és betartatása és
+
+## e) az irodában folyó kommunikációs kapcsolatok irányítása, szervezése, ellenőrzése.
+
+## 3.2.3.2. Különféle szakterületeken irodai, adminisztratív és dokumentációs jellegű feladatokat lát el; a szervezeten belül a hatáskörébe tartozó szakterület ügyviteli, ügyintézési folyamataiban vesz részt.
+
+## Feladatai:
+
+## a) adatok, információk gyűjtése, rögzítése, válogatása, osztályozása, nyilvántartása és iktatása;
+
+## b) meghatározott szakterületen ügyintézési feladatok ellátása;
+
+## c) az ellátott szakmai terület által meghatározott kapcsolattartási feladatok végzése;
+
+## d) általános és adott szakterülethez kapcsolódó ügyviteli feladatok elvégzése;
+
+## e) számítógépes adatbeviteli feladatok végzése, írásbeli dokumentumok szerkesztése;
+
+## f) írásbeli dokumentumok, iratok, levelek előállítása, szerkesztése, sokszorosítása, továbbítása;
+
+## g) beszédrögzítés gyorsírással vagy egyéb technikai megoldásokkal;
+
+## h) iratok, egyéb dokumentumok szakszerű kezelése, tárolása;
+
+## i) határidők nyomonkövetése, betartása;
+
+## j) korszerű ügyviteli és kommunikációs eszközök, információforrások kezelése;
+
+## k) ügyfélmegkeresések továbbítása és
+
+## l) beszámolás a vezetőnek.
+
+## 3.2.3.3. Számokat és egyéb adatokat visz be elektronikus berendezésekbe feldolgozás és továbbítás céljából.
+
+## Feladatai:
+
+## a) forrásanyagokból szám formátumú és egyéb adatok bevitele számítógépes formátumok kezelésére képes tároló- és feldolgozóeszközökre;
+
+## b) szükség esetén az adatok javítása;
+
+## c) kódoló berendezések segítségével tranzakciós dokumentumok kódolása és tranzakciók végzése és
+
+## d) információk kódolása és információk kódok szerinti osztályozása adatfeldolgozási célból.
+
+## 3.2.3.4. Levelezések, kartonok, számlák, nyugták és egyéb nyilvántartások irattári rendnek megfelelő irattárazását végzi, dokumentumokat másol és továbbít.
+
+## Feladatai:
+
+## a) az dokumentumok válogatása vagy osztályozása utasítás szerint és
+
+## b) az irattárban tárolt és az irattárból kiadott anyagok nyilvántartása.
+
+## 3.3. Kapcsolódó szakképesítések:
+
+| A | B | C | D |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | szakképesítés köre |
+
+| 3.3.3. | 31 863 01 | Alapfokú katonai vezető-helyettes | Részszakképesítés |
+
+| 3.3.4. | 52 863 01 | Honvéd kadét, igazgatási ügykezelő | Szakképesítés |
+
+| 3.3.5. | 54 863 02 | Honvéd altiszt (az ágazat/szakmairány megjelölésével) | Szakképesítés |
+
+| 3.3.6. | 55 863 01 | Honvéd zászlós | Szakképesítés |
+
+## 4. SZAKMAI KÖVETELMÉNYEK
+
+| A | B |  |
+
+| 4.1. | Az 54 863 01 azonosító számú Honvédelmi igazgatási ügyintéző megnevezésű az állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 12120-17 | Honvédelem és jog |
+
+| 4.4. | 12121-17 | Biztonság és védelempolitika |
+
+| 4.5. | 12122-17 | Ágazattechnika |
+
+| 4.6. | 12123-17 | Szervezeti viselkedés és vezetés |
+
+| 4.7. | 12124-17 | Katonai Szakmai idegen nyelv |
+
+| 4.8. | 12125-17 | Ágazati informatika |
+
+| 4.9. | 12126-17 | Katonai közelharc és kézitusa |
+
+| 4.10. | 12128-17 | Szervezeti és katonai ügyvitel |
+
+## 5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+
+## 5.1. A komplex szakmai vizsgára bocsátás feltételei:
+
+## Az iskolai rendszerű szakképzésben: az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
+
+## Az iskolarendszeren kívüli szakképzésben: –
+
+## 5.2. A komplex szakmai vizsga vizsgatevékenysége és az eredményesség feltételei
+
+| A | B | C | D |
+
+| 5.2.1. | Az 54 863 03 azonosító számú Honvédelmi igazgatási ügyintéző megnevezésű az állam által elismert szakképesítés szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 5.2.2. | azonosító száma | megnevezése | a komplex vizsga vizsgatevékenysége |
+
+| 5.2.3. | 12120-17 | Honvédelem és jog | írásbeli, szóbeli |
+
+| 5.2.4. | 12121-17 | Biztonság és védelempolitika | szóbeli |
+
+| 5.2.5. | 12122-17 | Ágazattechnika | gyakorlati |
+
+| 5.2.6. | 12123-17 | Szervezeti viselkedés és vezetés | gyakorlati |
+
+| 5.2.7. | 12124-17 | Katonai Szakmai idegen nyelv | gyakorlati |
+
+| 5.2.8. | 12125-17 | Ágazati informatika | gyakorlati |
+
+| 5.2.9. | 12126-17 | Katonai közelharc és kézitusa | gyakorlati |
+
+| 5.2.10. | 12128-17 | Szervezeti és katonai ügyvitel | szóbeli, gyakorlati |
+
+## Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+## 5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+
+## 5.3.1. Az 54 863 03 azonosító számú Honvédelmi igazgatási ügyintéző megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+
+## 5.3.1.1. Gyakorlati vizsgatevékenység:
+
+## A) A vizsgafeladat megnevezése: 12122-17 Ágazattechnika szakmai követelménymodul
+
+## A vizsgázó a vizsgán bemutatja
+
+## a) a katonai egyéni egészségügyi ellátás feladatait,
+
+## b) a sebesültek ellátásnak speciális eszközeit,
+
+## c) a defibrillátor használatát és
+
+## d) az ágazati eszköztechnika kezelését.
+
+## A vizsgafeladat időtartama: 15 perc
+
+## A vizsgafeladat aránya: 20%
+
+## B) 12128-17 Szervezeti és katonai ügyvitel szakmai követelménymodul:
+
+## A vizsgázó a vizsgán bemutatja
+
+## a) a dokumentumok készítését,
+
+## b) a speciális informatikai és irodai eszközök, gépi berendezések, rendszerek használatát és
+
+## c) a postázással kapcsolatos gépi berendezések használatát.
+
+## A vizsgafeladat időtartama: 15 perc
+
+## A vizsgafeladat aránya: 20%
+
+## 5.3.1.2. Központi írásbeli vizsgatevékenység:
+
+## A 4. Szakmai követelmények fejezet a 12120-17 Honvédelem és jog szakmai követelménymodul témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap kitöltése.
+
+## Írásbeli témakörök:
+
+## a) a honvédelem rendszere és a honvédelmi kötelezettségek,
+
+## b) hadijogi alapismeretek,
+
+## c) a magyar közigazgatás rendszere és
+
+## d) Magyarország védelemigazgatási rendszere.
+
+## A vizsgafeladat időtartama: 120 perc
+
+## A vizsgafeladat aránya: 20%
+
+## 5.3.1.3. Szóbeli vizsgatevékenység:
+
+## Válaszadás a 4. Szakmai követelmények fejezet 12120-17 Honvédelem és jog, 12121-17 Biztonság és védelempolitika, 12128-17 Szervezeti és katonai ügyvitel szakmai követelménymodulok témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból kihúzott szóbeli vizsgakérdéseire.
+
+## Témakörök:
+
+## A) Honvédelem és jog
+
+## a) a Magyar Honvédség felépítése és a katonai szervezetek jellemzői,
+
+## b) a modern háborúk jellemzői,
+
+## c) a honvédelem rendszere és a honvédelmi kötelezettségek,
+
+## d) hadijogi alapismeretek és
+
+## e) a szerződéses katonák élete a Magyar Honvédségben.
+
+## B) Biztonság és védelempolitika
+
+## a) Magyarország biztonságpolitikai környezete,
+
+## b) a NATO létrejötte, szervezete, feladatai,
+
+## c) az Európai Unió létrejötte, szervezete, feladatai,
+
+## d) az ENSZ megalakulása, szervezete, feladatai,
+
+## e) katonai stratégiák,
+
+## f) fegyverzettörténet és
+
+## g) regionális társadalmi különbségek.
+
+## C) Szervezeti és katonai ügyvitel
+
+## a) ügyiratok csoportosítása,
+
+## b) ügyvitelszervezés,
+
+## c) ügyiratkezelés és folyamata,
+
+## d) nyilvántartásba vétel,
+
+## e) ügyintézés folyamata,
+
+## f) bélyegző használata,
+
+## g) irattározás,
+
+## h) információszabályozás,
+
+## i) bizonylatok és
+
+## j) minősített adatok kezelése.
+
+## A szóbeli vizsgafelelet időtartama: 15 perc (felkészülési idő: 30 perc)
+
+## A vizsgafeladat aránya: 40%
+
+## 6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+
+| A | B |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Egyéni felszerelés |
+
+| 6.3. | Térképészeti szakanyagok |
+
+| 6.4. | Számítógép konfigurációk |
+
+| 6.5. | Számítógépes szoftverek (Windows, Office) |
+
+| 6.6. | Mágneslemezek, CD-k, adathordozók |
+
+| 6.7. | Nyomtatók |
+
+| 6.8. | Lőszereket oktató tablósor |
+
+| 6.9. | Fegyver típusonkénti oktató tablók |
+
+| 6.10. | Általános és szakharcászati oktató fali tabló sorozatok |
+
+| 6.11. | Gyakorló fegyverek |
+
+| 6.12. | Metszett fegyverek |
+
+| 6.13. | Gyakorló lőszerek és metszetek |
+
+| 6.14. | Oktató fali tabló sorozatok |
+
+| 6.15. | Működést szemléltető fali tablók |
+
+| 6.16. | Lőelméletet és tüzelési szabályokat oktató fali tabló sorozatok |
+
+| 6.17. | Célzást gyakorló és ellenőrző készülékek |
+
+| 6.18. | Haditechnikai eszközök* |
+
+| 6.19. | Harcjárműtechnikai eszközök* |
+
+| 6.20. | Fegyverzettechnikai eszközök* |
+
+| 6.21. | Híradóeszközök* |
+
+| 6.22. | Harcanyagok* |
+
+| 6.23. | Oktatástechnikai segédeszközök |
+
+| 6.24. | Oktatófilmek, prezentációk |
+
+| 6.25. | Ágazat/szakmairányú képzés szakanyagai |
+
+## * A Magyar Honvédség által biztosított külső gyakorlóhelyen
 
 ## 7. EGYEBEK
 
 ## 7.1. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
 
-|  | A | B | C |
+| A | B | C | D |
 
 | 7.1.1. | Azonosító szám | A szakképesítés/részszakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
-| 7.1.2. | 54 863 02 | Honvéd altiszt (az ágazat/szakmairány megjelölésével) | a miniszter által közjogi szervezetszabályozó eszközben kijelölt szerv (Honvéd altiszt szakképesítés valamennyi ágazatán a közös modulok tekintetében) |
-
-| 7.1.3. |  | Honvéd altiszt (parancsnoki ágazat, ABV védelmi) | a miniszter által közjogi szervezetszabályozó eszközben kijelölt szerv |
-
-| 7.1.4. |  | Honvéd altiszt (parancsnoki ágazat, légvédelmi rakéta és tüzér) |
-
-| 7.1.5. |  | Honvéd altiszt (légi vezetés ágazat) |
-
-| 7.1.6. |  | Honvéd altiszt (híradó ágazat, rádióállomás-üzemeltető) | a miniszter által közjogi szervezetszabályozó eszközben kijelölt szerv |
-
-| 7.1.7. |  | Honvéd altiszt (híradó ágazat, átvitel- és kapcsolástechnikai eszközüzemeltető) |
-
-| 7.1.8. |  | Honvéd altiszt (katonai informatikai-rendszer üzemeltető ágazat) |
-
-| 7.1.9. |  | Honvéd altiszt (repülésbiztosító ágazat) |
-
-| 7.1.10. |  | Honvéd altiszt (speciális felderítő ágazat, rádióelektronikai felderítő) | Katonai Nemzetbiztonsági Szolgálat |
-
-| 7.1.11. |  | Honvéd altiszt (speciális felderítő ágazat, elektronikai hadviselés | a miniszter által közjogi szervezetszabályozó eszközben kijelölt szerv |
-
-| 7.1.12. |  | Honvéd altiszt (szerelő ágazat, páncélos és gépjárműszerelő) | a miniszter által közjogi szervezetszabályozó eszközben kijelölt szerv |
-
-| 7.1.13. |  | Honvéd altiszt (szerelő ágazat, műszakigép-szerelő) |
-
-| 7.1.14. |  | Honvéd altiszt (műszerész ágazat, fegyverműszerész) |
-
-| 7.1.15. |  | Honvéd altiszt (műszerész ágazat, páncéltörő rakétaműszerész) |
-
-| 7.1.16. |  | Honvéd altiszt (repülőműszaki ágazat, sárkány-hajtóműszerelő) |
-
-| 7.1.17. |  | Honvéd altiszt (repülőműszaki ágazat, avionikai szerelő) |
+| 7.1.2. | 54 863 03 | Honvédelmi igazgatási ügyintéző | a miniszter által közjogi szervezetszabályozó eszközben kijelölt szerv |
 
 3. melléklet a 19/2012. (VIII. 28.) HM rendelethez

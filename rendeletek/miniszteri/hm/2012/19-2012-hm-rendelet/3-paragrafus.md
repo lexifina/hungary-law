@@ -4,12 +4,18 @@
 
 (3) A hatályon kívül helyezett szakmai és vizsgakövetelményekhez tartozó szakképesítések tekintetében a szakmai vizsga megszervezésére a (2) bekezdésben meghatározott ideig a 2. § (1) bekezdés szerinti katonai szervezet jogosult.
 
-(4)[^1]
+(4)[^2] A honvédelemért felelős miniszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 19/2012. (VIII. 28.) HM rendelet módosításáról szóló 11/2017. (VIII. 31.) HM rendelettel
 
-(5)[^2]
+a) megállapított 1. § (2a) bekezdést és 2a. mellékletet, valamint
 
-(6)[^3]
+b) módosított 1. mellékletet
 
-[^1]: A 3. § (4) bekezdése ugyanezen § (6) bekezdése alapján hatályát vesztette.
-[^2]: A 3. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+## a 2017/18. tanévtől induló képzésekre kell alkalmazni.
+
+(5)[^3]
+
+(6)[^4]
+
+[^2]: A 3. § (4) bekezdése ugyanezen § (6) bekezdése alapján hatályát vesztette, újonnan a 11/2017. (VIII. 31.) HM rendelet 2. §-a iktatta be.
+[^3]: A 3. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
