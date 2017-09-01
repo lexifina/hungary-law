@@ -22,10 +22,10 @@ a) a személyi ingóság és a lakásberendezés szállításának költsége, h
 
 b) a lakásberendezés szállításának költsége a belső szabályzatban foglaltaknak megfelelően berendezett lakóingatlan bérlése vagy a 21. § (2) bekezdés b) pontja esetén.
 
-(4)[^43] A Honvédség térítésmentes szállítókapacitást a személyi ingóság-szállítási és lakásberendezés-szállítási normaösszegek alapját képező súlyhatárokig nyújt. Indokolt esetben az illetékes logisztikai ellátó szerv vezetője a súlyhatárok kétszereséig engedélyezheti a szállítókapacitás bővítését, amennyiben az a Honvédség részére közvetlen költségkihatással nem jár.
+(4)[^50] A Honvédség térítésmentes szállítókapacitást a személyi ingóság-szállítási és lakásberendezés-szállítási normaösszegek alapját képező súlyhatárokig nyújt. Indokolt esetben az illetékes logisztikai ellátó szerv vezetője a súlyhatárok kétszereséig engedélyezheti a szállítókapacitás bővítését, amennyiben az a Honvédség részére közvetlen költségkihatással nem jár.
 
 (5) A (2) bekezdésen felül a repülőgépen történő első kiutazás és végleges hazautazás alkalmával a Honvédség terhére a repülőtársaság által személyenként biztosított súlyhatáron felül 20-20 kg, súlyhatár hiányában személyenként összesen 40-40 kg túlsúly számolható el.
 
 (6) Ha a személyi ingóság szállítása konténerrel történik, és a számlázás alapját a szállítótérfogat képezi, a tényleges számla szerinti összeg, legfeljebb azonban a személyi ingóság-szállítási normaösszeg számolható el.
 
-[^43]: A 18. § (4) bekezdése a 25/2016. (XII. 22.) HM rendelet 65. §-ával megállapított szöveg.
+[^50]: A 18. § (4) bekezdése a 25/2016. (XII. 22.) HM rendelet 65. §-ával megállapított szöveg.

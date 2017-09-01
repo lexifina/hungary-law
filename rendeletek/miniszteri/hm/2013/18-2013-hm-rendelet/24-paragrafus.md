@@ -1,3 +1,5 @@
+## 23/E. § A képviseletvezető ideiglenes elhelyezése tekintetében a 23. §-t kell alkalmazni.
+
 ## 10. Egészségügyi ellátáshoz kapcsolódó költségek
 
 24. § (1) A kiküldött kérelmére a Honvédség hozzájárulhat a kiküldött családi ellátmánypótlékra jogosító hozzátartozójának fogyatékosságával összefüggő gyógyászati segédeszközök és kiegészítő gyógykezelések, így különösen a gyógytorna és a fizikoterápia költségéhez. A költségekhez való hozzájárulást a szakorvos írásos javaslatának figyelembevételével a kiküldő engedélyezheti.

@@ -18,6 +18,6 @@ b) a kiküldött jogosult az 51. § (2) bekezdése szerinti költségtérítése
 
 (5) Az (1) és a (4) bekezdés szerinti lehetőségek hiányában a kiküldött részére indokolt esetben, szolgálati feladatai ellátása érdekében, alkalmanként bérelt gépjármű igénybevétele engedélyezhető, amelynek költsége a Honvédséget terheli.
 
-(6)[^76] A gépjárműhasználat és gépjárműbérlés engedélyezésére és elszámolására – az e rendeletben nem szabályozott kérdésekben – a honvédségi járművek fenntartásáról szóló miniszteri rendeletet, a 2. § (2) bekezdés a) pontja szerinti kiküldöttre a KNBSZ főigazgatójának intézkedését kell alkalmazni.
+(6)[^88] A gépjárműhasználat és gépjárműbérlés engedélyezésére és elszámolására – az e rendeletben nem szabályozott kérdésekben – a honvédségi járművek fenntartásáról szóló miniszteri rendeletet, a 2. § (2) bekezdés a) pontja szerinti kiküldöttre a KNBSZ főigazgatójának intézkedését kell alkalmazni.
 
-[^76]: A 31. § (6) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) és h) pontja szerint módosított szöveg.
+[^88]: A 31. § (6) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) és h) pontja szerint módosított szöveg.

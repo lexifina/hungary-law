@@ -4,6 +4,6 @@
 
 (2) A külszolgálati ellátmány az ellátmányból és a családi ellátmánypótlékból áll.
 
-(3)[^27] A kiküldött a külszolgálati ellátmányra való jogosultságát érintő változásokat az illetékes személyügyi szervnek köteles a változás bekövetkezését követő 8 munkanapon belül írásban bejelenteni.
+(3)[^33] A kiküldött a külszolgálati ellátmányra való jogosultságát érintő változásokat az illetékes személyügyi szervnek köteles a változás bekövetkezését követő 8 munkanapon belül írásban bejelenteni.
 
-[^27]: A 6. § (3) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § c) pontja szerint módosított szöveg.
+[^33]: A 6. § (3) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § c) pontja szerint módosított szöveg.
