@@ -16,7 +16,7 @@ c) egy személy részére ugyanazon kifejtett teljesítményért, tevékenység�
 
 d) a teljesítményjuttatás megállapítására jogosult vezető önmagát teljesítményjuttatásban nem részesítheti.
 
-(3)[^65] A (2) bekezdés b) pontjának alkalmazása során a távolléti díj helyett
+(3)[^88] A (2) bekezdés b) pontjának alkalmazása során a távolléti díj helyett
 
 a) honvéd tisztjelölt és honvéd altiszt-jelölt esetében az alapösztöndíj és alapösztöndíj-kiegészítés együttes, és
 
@@ -24,7 +24,7 @@ b) a szolgálati járandóságban részesülő önkéntes tartalékos katona ese
 
 ## összegét kell figyelembe venni.
 
-(4)[^66] Huzamos, kivételesen kiemelkedő szolgálati feladatellátás és a szolgálat iránti elkötelezettség elismeréseként a teljesítményjuttatás együttes éves összege a miniszter döntése alapján a (2) bekezdés b) pontja szerinti mértéket további legfeljebb egy havi távolléti díj összegével meghaladhatja.
+(4)[^89] Huzamos, kivételesen kiemelkedő szolgálati feladatellátás és a szolgálat iránti elkötelezettség elismeréseként a teljesítményjuttatás együttes éves összege a miniszter döntése alapján a (2) bekezdés b) pontja szerinti mértéket további legfeljebb egy havi távolléti díj összegével meghaladhatja.
 
-[^65]: A 81. § (3) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § b) pontja hatályon kívül helyezte, újonnan a 9/2016. (VI. 29.) HM rendelet 18. §-a iktatta be.
-[^66]: A 81. § (4) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § b) pontja hatályon kívül helyezte, újonnan a 16/2016. (VIII. 31.) HM rendelet 12. §-a iktatta be.
+[^88]: A 81. § (3) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § b) pontja hatályon kívül helyezte, újonnan a 9/2016. (VI. 29.) HM rendelet 18. §-a iktatta be.
+[^89]: A 81. § (4) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § b) pontja hatályon kívül helyezte, újonnan a 16/2016. (VIII. 31.) HM rendelet 12. §-a iktatta be.
