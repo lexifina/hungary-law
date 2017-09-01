@@ -1,16 +1,14 @@
 3. § (1) Az 1. és 2. mellékletben meghatározott szolgáltatók az alábbi tevékenységi körökből a saját szervezetük szakmai feladat- és hatáskörébe tartozó védelmi felkészülési feladatokat látják el:
 
-a) a szervezeti készenlét előkészítésének és fenntartásának körében:
+a)[^2] a szervezeti készenlét előkészítésének és fenntartásának körében:
 
-aa) a védelmi felkészülési feladatok ellátásához szükséges személyi, szervezeti és anyagi-technikai feltételek megteremtése, folyamatos biztosítása,
+aa) a védelmi felkészülési feladatok ellátásához szükséges személyi, szervezeti és – az 1. § (3) bekezdésében foglaltak kivételével – anyagi-technikai feltételek megteremtése, folyamatos biztosítása,
 
 ab) a védelmi felkészüléssel, műszaki, forgalmi, katasztrófa vagy egyéb veszély miatt keletkező üzemzavar elhárításával kapcsolatos intézkedések kidolgozása, tervek készítése és azok folyamatos aktualizálása,
 
 ac) a védelmi felkészüléssel összefüggő rendszeres képzési, továbbképzési és gyakoroltatási feladatok meghatározása és végrehajtása,
 
-ad) az ügyeleti szolgálatnak az informatikai és elektronikus hírközlési, továbbá a postai ágazat ügyeleti rendszerének létrehozásáról, működtetéséről, hatásköréről, valamint a kijelölt szolgáltatók bejelentési és kapcsolattartási kötelezettségeiről szóló miniszteri rendeletben foglaltak szerinti működtetése,
-
-ae) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján a meghagyással kapcsolatos feladatok végrehajtása;
+ad) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján a meghagyással kapcsolatos feladatok végrehajtása;
 
 b) a hálózatok felkészítésének és irányításának terén:
 
@@ -46,7 +44,7 @@ dc) a NATO Befogadó Nemzeti Támogatás tervezési és végrehajtási feladatai
 
 e) az országos légiriasztási rendszer műsorszórási tevékenysége körében:
 
-ea) a műsorszórási tevékenység folyamatosságához szükséges technikai és biztonsági feltételek megteremtése, a meghatározó szerepű létesítmények őrzés-védelmének biztosítása,
+ea)[^3] a műsorszórási tevékenység folyamatosságához szükséges technikai, energiaellátási és biztonsági feltételek megteremtése, a meghatározó szerepű létesítmények őrzés-védelmének biztosítása,
 
 eb) a lakosság légi- és katasztrófariasztásának, valamint tájékoztatásának elrendelése esetén a riasztási és tájékoztatási közlemények leadásának – a közlemények átvételére és továbbítására szolgáló automata átkapcsoló berendezés (a továbbiakban: átkapcsoló berendezés) útján történő – biztosítása,
 
@@ -54,7 +52,7 @@ ec) az átkapcsoló berendezés részét képező technikai elemek felszerelés�
 
 ed) az átkapcsoló berendezésnek a felelős őrzés szabályai szerinti őrzése,
 
-ee) az átkapcsoló berendezés technikai elemeinek üzempróbája esetén annak működéséről a (2) bekezdés d) pont szerinti gazdasági szervezet útján a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) tájékoztatása,
+ee)[^4] az átkapcsoló berendezés technikai elemeinek üzempróbája esetén annak működéséről a (2) bekezdés d) pont szerinti gazdasági szervezet útján a Hatóság tájékoztatása,
 
 ef) az adók üzemeltetésével kapcsolatos, vagy az átkapcsoló berendezés működésével összefüggő változásokról, illetve rendkívüli eseményekről a (2) bekezdés d) pont szerinti gazdasági szervezet útján a Hatóság tájékoztatása.
 
@@ -62,7 +60,7 @@ ef) az adók üzemeltetésével kapcsolatos, vagy az átkapcsoló berendezés m�
 
 a) a Hatóság;
 
-b) a 2. mellékletben meghatározott nem közszolgálati országos, körzeti és helyi rádió és televízió műsorokat sugárzó adók, az adókat üzemeltetők (engedélyesek);
+b)[^5] a 2. mellékletben meghatározott szolgáltatók;
 
 c) azok az elektronikus hírközlési szolgáltatók, amelyek összeköttetést, vagy modulációs vonalat biztosítanak
 
@@ -73,3 +71,8 @@ cb) a riasztási és tájékoztatási feladatban részt vevő stúdió és a ré
 cc) a műsorszolgáltatók és a műsorszóró adók között;
 
 d) a riasztási rendszer technikai elemeit biztosító gazdasági szervezet köteles a légiriasztási rendelet előírásainak megfelelően az átkapcsoló berendezések felszerelésére, karbantartására és szükség szerinti cseréjére, az azokkal kapcsolatos információkról, és a szolgáltatótól kapott minden további információról a Hatóságot tájékoztatni.
+
+[^2]: A 3. § (1) bekezdés a) pontja a 9/2017. (VII. 28.) NMHH rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdés e) pont ea) alpontja a 9/2017. (VII. 28.) NMHH rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés e) pont ee) alpontja a 9/2017. (VII. 28.) NMHH rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdés b) pontja a 9/2017. (VII. 28.) NMHH rendelet 3. § (2) bekezdése szerint módosított szöveg.
