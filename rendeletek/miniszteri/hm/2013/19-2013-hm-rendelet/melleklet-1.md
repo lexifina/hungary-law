@@ -1,6 +1,6 @@
-## 38. §[^52]
+## 39. §[^57] Az R1. hatálybalépése[^58] előtt engedélyezett negyedéves, féléves és éves helyi bérletre vonatkozó költségtérítésre e rendeletnek az R1.-gyel megállapított 17. §-a nem alkalmazható.
 
-1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^53]
+1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^59]
 
 ……………………………………….
 
@@ -94,13 +94,13 @@ ___________________________
 
 – helyi tömegközlekedési eszköz
 
-– saját személygépkocsi
+– saját gépjármű
 
 4.3. Szolgálatteljesítési hely, munkavégzés helye, címe:
 
 4.4. Napi munkába járás esetén a munkába járás lakóhelyről/bejelentett tartózkodási helyről* történik.
 
-4.5. Saját személygépkocsi igénybevétele (15 Ft/km)
+4.5. Saját gépjármű igénybevétele (15 Ft/km)
 
 Kiindulási és célállomás távolsága (km): ………… km
 
@@ -256,5 +256,6 @@ aláírás
 
 ** A felesleges szövegrészek kihúzandók!
 
-[^52]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^53]: Az 1. melléklet a 26/2016. (XII. 22.) HM rendelet 23. §-ával megállapított szöveg.
+[^57]: A 39. §-t a 10/2017. (VIII. 31.) HM rendelet 51. §-a iktatta be.
+[^58]: A hatálybalépés időpontja 2017. szeptember 1.
+[^59]: Az 1. melléklet a 26/2016. (XII. 22.) HM rendelet 23. §-ával megállapított, a 10/2017. (VIII. 31.) HM rendelet 52. § b) és c) pontja szerint módosított szöveg.

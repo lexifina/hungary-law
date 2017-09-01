@@ -1,4 +1,4 @@
-## 34/B. §[^46] A honvéd és a közalkalmazott jogosult a felmerülő előre kifizetett és igénybe nem vett szolgáltatások vissza nem térített ellenértékének megtérítésére, ha a szolgálati, munkaköri feladatai végrehajtása miatt szabadsága időtartama alatt, illetve a szokásos munkarendjétől eltérő időpontban kell a szolgálatteljesítési helyén jelen lennie.
+## 34/B. §[^49] A honvéd és a közalkalmazott jogosult a felmerülő előre kifizetett és igénybe nem vett szolgáltatások vissza nem térített ellenértékének megtérítésére, ha a szolgálati, munkaköri feladatai végrehajtása miatt szabadsága időtartama alatt, illetve a szokásos munkarendjétől eltérő időpontban kell a szolgálatteljesítési helyén jelen lennie.
 
 ## VIII. Fejezet
 
@@ -8,4 +8,4 @@
 
 (2) A 37. § 2014. március 15-én lép hatályba.
 
-[^46]: A 34/B. §-t a 26/2016. (XII. 22.) HM rendelet 21. §-a iktatta be.
+[^49]: A 34/B. §-t a 26/2016. (XII. 22.) HM rendelet 21. §-a iktatta be.

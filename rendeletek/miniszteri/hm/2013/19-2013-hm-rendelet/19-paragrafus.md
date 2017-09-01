@@ -10,6 +10,6 @@
 
 (3) Nem jogosult az e Fejezet szerinti költségtérítésekre az állomány azon tagja, akit saját kérelmére helyeznek át más településen lévő szolgálatteljesítési helyre, vagy saját érdekkörében felmerülő ok miatt, saját elhatározásából nem költözik át oda. Aki a szolgálatteljesítés helyével megegyező településen részére a Lakásrendeletben foglaltaknak megfelelően felajánlott, jogosultságának megfelelő lakást nem fogadja el, úgy kell tekinteni, mint aki saját elhatározásából nem költözik át oda.
 
-(4)[^26] Az e Fejezetben foglalt költségek megelőlegezésére az állományilletékes parancsnok a jogosult írásbeli kérelmére, legfeljebb a várható kiadások összegével megegyező előleg folyósítását engedélyezheti.
+(4)[^29] Az e Fejezetben foglalt költségek megelőlegezésére az állományilletékes parancsnok a jogosult írásbeli kérelmére, legfeljebb a várható kiadások összegével megegyező előleg folyósítását engedélyezheti.
 
-[^26]: A 19. § (4) bekezdése a 26/2016. (XII. 22.) HM rendelet 16. §-ával megállapított szöveg.
+[^29]: A 19. § (4) bekezdése a 26/2016. (XII. 22.) HM rendelet 16. §-ával megállapított szöveg.
