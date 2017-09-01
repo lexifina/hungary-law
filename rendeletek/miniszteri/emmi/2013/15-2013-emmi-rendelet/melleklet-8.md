@@ -2,7 +2,7 @@
 
 | 1 |  | Pedagógus munkakörben foglalkoztatottak létszáma |  |
 
-| 2 | Megye- név, főváros | Korai fejlesztés, gondozás, és a fejlesztő nevelés | Szakértői bizottsági tevékeny- ség, és a nevelési tanácsadás | Logo- pédia | Tovább- tanulási, pálya- választási tanácsadás | Kon- duktív peda- gógia | Gyógy- test- nevelés | Iskola- pszicho- lógiai, óvoda- pszicho- lógiai | Kiemel- ten tehetsé- ges gyer- mekek, tanulók gon- dozása | Összesen | Nevelő és oktató munkát közvetlenül segítő munka- körben foglalkoz- tatottak |
+| 2 | Megye- név, főváros | Korai fejlesztés és gondozás | Szakértői bizottsági tevékeny- ség, és a nevelési tanácsadás | Logo- pédia | Tovább- tanulási, pálya- választási tanácsadás | Kon- duktív peda- gógia | Gyógy- test- nevelés | Iskola- pszicho- lógiai, óvoda- pszicho- lógiai | Kiemel- ten tehetsé- ges gyer- mekek, tanulók gon- dozása | Összesen | Nevelő és oktató munkát közvetlenül segítő munka- körben foglalkoz- tatottak |
 
 | 3 |  | feladatainak ellátására |  |  |
 
@@ -50,8 +50,8 @@
 
 ## Az Intézmény egyes tevékenységeinek ellátásához kapcsolódó munkakörökben a 6. mellékletben meghatározottak szerint a tevékenység ellátásához szükséges végzettséggel és szakképzettséggel rendelkező pedagógus foglalkoztatható.
 
-8. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^112]
+8. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^127]
 
 A pedagógiai szakszolgálati intézmény irattári terve
 
-[^112]: A 8. melléklet a 8/2014. (I. 30.) EMMI rendelet 29. §-a szerint módosított szöveg.
+[^127]: A 8. melléklet a 8/2014. (I. 30.) EMMI rendelet 29. §-a szerint módosított szöveg.

@@ -1,5 +1,5 @@
-1. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^106]
+1. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^121]
 
 SZAKÉRTŐI VÉLEMÉNY IRÁNTI KÉRELEM
 
-[^106]: Az 1. melléklet az 53/2016. (XII. 29.) EMMI rendelet 44. §-ával megállapított szöveg.
+[^121]: Az 1. melléklet az 53/2016. (XII. 29.) EMMI rendelet 44. §-ával megállapított szöveg.

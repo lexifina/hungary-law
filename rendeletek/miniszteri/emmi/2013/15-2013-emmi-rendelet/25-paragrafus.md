@@ -1,12 +1,12 @@
 ## 7. A logopédiai ellátás
 
-25. § (1)[^56] Az Nkt. 18. § (2) bekezdés e) pontja szerinti logopédiai ellátás feladata a hangképzés, a beszéd, a beszélt és írott nyelvi képesség fejlődési és szerzett zavaraihoz, továbbá a specifikus tanulási zavarokhoz (diszlexia, diszortográfia, diszgráfia, diszkalkulia) kapcsolódó prevenciós, állapotmegismerési és terápiás tevékenység.
+25. § (1)[^61] Az Nkt. 18. § (2) bekezdés d) pontja szerinti logopédiai ellátás feladata a hangképzés, a beszéd, a beszélt és írott nyelvi képesség fejlődési és szerzett zavaraihoz, továbbá a specifikus tanulási zavarokhoz (diszlexia, diszortográfia, diszgráfia, diszkalkulia) kapcsolódó prevenciós, állapotmegismerési és terápiás tevékenység.
 
 (2) A logopédiai ellátás igénybevétele – a (3) bekezdésben foglalt vizsgálatokon és (4) bekezdésben foglalt ellátáson való részvétel kivételével – önkéntes alapon történik.
 
-(3) A logopédiai ellátás keretében el kell végezni az óvodai nevelésben részt vevő, ötödik életévüket betöltött gyermekek beszéd- és nyelvi fejlettségének alapvizsgálatát, szűrését, és ennek eredménye alapján szükség szerint a gyermek további pedagógiai, pszichológiai, orvosi vizsgálatának kezdeményezését.
+(3)[^62] A logopédiai ellátás keretében el kell végezni a harmadik és ötödik életévüket betöltött gyermekek beszéd- és nyelvi fejlettségének szűrését. A hároméveskori logopédiai szűrés a nyelvi fejlettségre (receptív és expresszív nyelv), az ötéveskori szűrés elsősorban a beszédartikulációra, illetve az írott nyelvi (írás és olvasás) készültségre irányul. A szűrés eredménye alapján szükség szerint el kell végezni a gyermek további logopédiai vizsgálatát, illetve kezdeményezni kell további gyógypedagógiai, pszichológiai, orvosi vizsgálatokat.
 
-(4) Részletes logopédiai diagnosztikai vizsgálat és logopédiai vizsgálati vélemény alapján kell a gyermek további logopédiai ellátását megszervezni, ha az alapvizsgálat, szűrés eredményei alapján ez szükséges.
+(4)[^63] A részletes logopédiai vizsgálat és logopédiai vizsgálati vélemény alapján kell a gyermek további logopédiai ellátását megszervezni, ha a szűrés és a logopédiai vizsgálat eredményei alapján erre szükség van.
 
 (5) A logopédiai vizsgálati véleménynek tartalmaznia kell
 
@@ -38,4 +38,6 @@ bf) a szülő tájékoztatását kötelezettségeiről és a vizsgálati vélem�
 
 (11) A logopédiai ellátásban való részvétel a gyermek életkorától függetlenül, az annak szükségességét megállapító logopédiai vizsgálat alapján bármikor megkezdhető.
 
-[^56]: A 25. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^61]: A 25. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 38. § (1) bekezdésével megállapított és 47. § 15. pontja szerint módosított szöveg.
+[^62]: A 25. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^63]: A 25. § (4) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 38. § (2) bekezdésével megállapított szöveg.

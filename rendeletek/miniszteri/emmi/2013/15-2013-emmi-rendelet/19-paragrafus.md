@@ -4,7 +4,7 @@ a) a szakértői véleményében abban az esetben javasolhatja, hogy a gyermeket
 
 b) és a gyermeket, a tanulót a kijelölt óvoda, iskola nem tudja fogadni, illetve a gyermek, a tanuló a többi gyermekkel, tanulóval közösen vesz részt az óvodai nevelésben, iskolai nevelésben-oktatásban, az óvodai csoport, iskolai osztály átlaglétszámának számításánál az adott nevelési évben, tanévben egy gyermekként kell figyelembe venni.
 
-(2)[^46] Ha a szülő, vagy nagykorú tanuló esetén a tanuló nem élt a felülvizsgálat kezdeményezésének jogával, a szakértői véleményt a szakértői bizottság
+(2)[^50] Ha a szülő, vagy nagykorú tanuló esetén a tanuló nem élt a felülvizsgálat kezdeményezésének jogával, a szakértői véleményt a szakértői bizottság
 
 a) a sajátos nevelési igény megállapítása, illetve a korai fejlesztés és gondozás megkezdésére tett javaslat esetén a kijelölt köznevelési intézménynek, továbbá
 
@@ -20,4 +20,4 @@ c) abban az esetben, ha a szakértői véleményt a tankerületi szakértői biz
 
 megküldi.
 
-[^46]: A 19. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 35. §-ával megállapított szöveg.
+[^50]: A 19. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 35. §-ával megállapított szöveg.
