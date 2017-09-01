@@ -6,7 +6,7 @@
 
 a) a vezetői megbízás visszavonásához,
 
-b) az igazságügyi alkalmazottnak – illetménye és munkaköre megváltoztatása nélkül – az adott igazságügyi szerven belüli más egységhez való beosztásához,
+b) az igazságügyi alkalmazottnak – illetménye megváltoztatása nélkül – az adott igazságügyi szerven belüli más egységhez való beosztásához, ha az új munkakör azonos képesítési feltételek mellett tölthető be,
 
 c) a munkakör ellátásához szükséges képesítés megszerzésére való kötelezéshez,
 
@@ -17,3 +17,7 @@ e) a helyettesítésre és a kirendelésre vonatkozó döntéshez,
 f) a munkáltatói jogkör gyakorlójának mindazon egyéb döntéseihez, amelyekre e törvény alapján egyoldalúan jogosult.
 
 (3) Az igazságügyi szerv és az igazságügyi alkalmazott, valamint egy másik igazságügyi szerv megállapodhat az igazságügyi alkalmazottnak a másik igazságügyi szervhez történő határozott idejű vagy végleges áthelyezésében. Az áthelyezéskor a 29. § rendelkezései szerint kell eljárni azzal, hogy a szabadság pénzbeli megváltásáról nem kell rendelkezni.
+
+(4) Az igazságügyi alkalmazottat – a (2) bekezdés a) pontja szerinti változás közlésétől számított 4 munkanapon belül írásban benyújtott kérelmére – a nyilatkozattétel időpontjától kezdődően fel kell menteni, és a felmentési idő teljes tartamára mentesíteni kell a munkavégzési kötelezettség alól, ha vezetői munkakörből nem vezetői munkakörbe történő áthelyezésére kerül sor.
+
+(5) Az igazságügyi alkalmazottnak a (4) bekezdés szerinti felmentése esetén a kinevezésmódosítást megelőzően betöltött munkakörében megállapított illetményét kell alapul venni a felmentési időre járó átlagilletmény, a végkielégítés, valamint az egyéb kifizetések összegének meghatározásakor.

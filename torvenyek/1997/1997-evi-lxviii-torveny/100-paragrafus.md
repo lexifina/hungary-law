@@ -1,4 +1,4 @@
-100. § (1) Az igazságügyi alkalmazott fizetési fokozatát – a bírósági fogalmazó és a fizikai alkalmazott kivételével – az igazságügyi szolgálati idő alapján kell megállapítani.
+100. § (1) Az igazságügyi alkalmazott fizetési fokozatát – a vezető és a fizikai alkalmazott kivételével – a (2)–(4) bekezdésben foglaltak szerint számított igazságügyi szolgálati idő alapján kell megállapítani.
 
 (2) Az igazságügyi szolgálati időt – a (3)–(4) bekezdésben foglalt kivétellel – a kinevezés (alkalmazás) napjától kell számítani azzal, hogy a kezdő töredékévet egész évnek kell számítani.
 

@@ -6,6 +6,12 @@
 
 (4) Más helységben működő igazságügyi szervnél történő munkavégzésre nő a terhessége megállapításától a gyermek 3 éves koráig, valamint a gyermekét egyedül nevelő szülő a gyermek 14 éves koráig nem kötelezhető.
 
-(5) A helyettesítés vagy kirendelés időtartama a naptári évben – eltérő megállapodás hiányában – a két hónapot nem haladhatja meg.
+(5) Eltérő megállapodás hiányában a naptári évben
+
+a) a helyettesítés időtartama a hat hónapot,
+
+b) a kirendelés időtartama a két hónapot
+
+nem haladhatja meg.
 
 (6) Az igazságügyi alkalmazott a helyettesítés és kirendelés időtartamára az e törvény alapján megállapított díjazásra jogosult.

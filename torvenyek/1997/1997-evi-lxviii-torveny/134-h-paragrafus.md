@@ -1,0 +1,1 @@
+134/H. § E törvénynek a Módtv.-vel megállapított rendelkezései nem érintik az igazságügyi alkalmazott 2017. évi cafeteria-juttatásra való jogosultságát. A Módtv. hatálybalépését követően létesített igazságügyi alkalmazotti jogviszonyban az e törvény 2017. augusztus 31. napján hatályos rendelkezései szerinti cafeteria-juttatás éves összegének arányos része jár.

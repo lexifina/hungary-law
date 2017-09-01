@@ -18,9 +18,9 @@ c) az igazságügyi szervhez történő kinevezés időpontja,
 
 d) az igazságügyi szervnél a kinevezés utáni beosztások (a szolgálati helyek – a bírósági titkár és a bírósági fogalmazó kivételével – a munkakörök és a szakterületek),
 
-e) a fizetési fokozat megjelölése, annak összege és a besorolás időpontja,
+e) a fizetési fokozat megjelölése, a besorolás időpontja és az alapilletmény összege, beosztási pótlék és címpótlék esetén azok megnevezése, százaléka és összege, valamint az illetmény összege,
 
-f) a következő kötelező előresorolás időpontja (a beosztási pótlék megnevezése, százaléka és összege, a vezetői pótlék megnevezése, százaléka és összege, az egyéb folyósított pótlékok megnevezése és összege, az összilletmény összege),
+f) a következő kötelező előresorolás időpontja,
 
 g) a munkából való távollétek jogcíme és időtartama, valamint
 

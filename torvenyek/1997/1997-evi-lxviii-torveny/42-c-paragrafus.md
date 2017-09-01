@@ -4,4 +4,4 @@
 
 (3) A minisztériumba beosztott bírósági titkár adatait a minisztériumban kell nyilvántartani.
 
-(4) A minisztériumba beosztott bírósági titkár tekintetében a 95–123. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a beosztási pótlék mértéke az illetményalap 5–10 százaléka.
+(4) A minisztériumba beosztott bírósági titkár tekintetében a 95–123. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a beosztási pótlék mértéke az illetményalap 10 százaléka.

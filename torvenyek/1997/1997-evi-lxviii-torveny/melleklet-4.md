@@ -1,32 +1,30 @@
-4. számú melléklet az 1997. évi LXVIII. törvényhez
+4. melléklet az 1997. évi LXVIII. törvényhez
 
-Az igazságügyi szakértő, a szakértőjelölt, a tisztviselő és az írnok alapilletménye
+A II. fizetési osztály (bírósági fogalmazó, szakértőjelölt) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
 
-|
-
-Fizetési
-
-fokozat
+1. Bírósági fogalmazó
 
 |
 
-Szolgálati idő
+|
+
+A
 
 |
 
-Fizetési fokozatok
-
-és a szorzószámok,
-
-az illetményalap = 1
+B
 
 |
 
-III. osztály
+C
 
 |
 
-IV. osztály
+D
+
+|
+
+E
 
 |
 
@@ -34,15 +32,25 @@ IV. osztály
 
 |
 
-0–1
+Fizetési fokozat
 
 |
 
-0,38
+Szolgálati idő
+
+(év)
 
 |
 
-0,20
+Alsó határ
+
+szorzószáma
+
+|
+
+Felső határ
+
+szorzószáma
 
 |
 
@@ -50,15 +58,23 @@ IV. osztály
 
 |
 
-2–4
+1.
 
 |
 
-0,45
+0
 
 |
 
-0,24
+1
+
+|
+
+0,53
+
+|
+
+0,74
 
 |
 
@@ -66,171 +82,15 @@ IV. osztály
 
 |
 
-5–7
+2.
 
 |
 
-0,50
+2
 
 |
 
-0,27
-
-|
-
-4.
-
-|
-
-8–10
-
-|
-
-0,55
-
-|
-
-0,30
-
-|
-
-5.
-
-|
-
-11–13
-
-|
-
-0,60
-
-|
-
-0,33
-
-|
-
-6.
-
-|
-
-14–16
-
-|
-
-0,65
-
-|
-
-0,36
-
-|
-
-7.
-
-|
-
-17–19
-
-|
-
-0,70
-
-|
-
-0,39
-
-|
-
-8.
-
-|
-
-20–22
-
-|
-
-0,75
-
-|
-
-0,42
-
-|
-
-9.
-
-|
-
-23–25
-
-|
-
-0,80
-
-|
-
-0,45
-
-|
-
-10.
-
-|
-
-26–28
-
-|
-
-0,85
-
-|
-
-0,48
-
-|
-
-11.
-
-|
-
-29–31
-
-|
-
-0,90
-
-|
-
-0,51
-
-|
-
-12.
-
-|
-
-32–34
-
-|
-
-0,95
-
-|
-
-0,54
-
-|
-
-13.
-
-|
-
-35–37
-
-|
-
-1,00
+3
 
 |
 
@@ -238,16 +98,146 @@ IV. osztály
 
 |
 
-14.
+0,79
 
 |
 
-37 évtől
+4.
 
 |
 
-1,05
+3.
+
+|
+
+4
+
+|
 
 |
 
 0,60
+
+|
+
+0,83
+
+2. Szakértőjelölt
+
+|
+
+|
+
+A
+
+|
+
+B
+
+|
+
+C
+
+|
+
+D
+
+|
+
+E
+
+|
+
+1.
+
+|
+
+Fizetési fokozat
+
+|
+
+Szolgálati idő
+
+(év)
+
+|
+
+Alsó határ
+
+szorzószáma
+
+|
+
+Felső határ
+
+szorzószáma
+
+|
+
+2.
+
+|
+
+1.
+
+|
+
+0
+
+|
+
+1
+
+|
+
+0,53
+
+|
+
+0,74
+
+|
+
+3.
+
+|
+
+2.
+
+|
+
+2
+
+|
+
+3
+
+|
+
+0,57
+
+|
+
+0,79
+
+|
+
+4.
+
+|
+
+3.
+
+|
+
+4
+
+|
+
+|
+
+0,60
+
+|
+
+0,83

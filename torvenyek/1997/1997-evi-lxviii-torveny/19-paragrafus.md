@@ -12,7 +12,11 @@ d) hivatalvesztés (elbocsátás) fegyelmi büntetés jogerős kiszabásával,
 
 e) az e törvényben meghatározott egyéb esetekben, a törvény erejénél fogva,
 
-f) azonnali hatállyal a próbaidő alatt,
+f) azonnali hatállyal
+
+fa) a próbaidő alatt vagy
+
+fb) a 26/A. § (1) bekezdésben foglalt esetben,
 
 g) határozott idejű kinevezés esetén a kinevezés idejének a lejártával is,
 

@@ -8,7 +8,7 @@
 
 (5) A bírósági fogalmazó, a bírósági titkár, az igazságügyi szakértő, a szakértőjelölt, a tisztviselő és az írnok a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A (7) bekezdés szerinti jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
 
-(6) A munkáltató a munkakörre előírt szakvizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
+(6) A munkáltató a munkakörre előírt szakvizsga vagy egyéb vizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb öt évre – halasztást engedélyezhet.
 
 (7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is –
 

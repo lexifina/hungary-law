@@ -1,3 +1,3 @@
 ## A címpótlék
 
-106. § Az e törvény alapján főtanácsosi címet kapott igazságügyi szakértő és tisztviselő az illetményalap 15 százalékát, a tanácsosi címet kapott tisztviselő az illetményalap 10 százalékát kitevő pótlékra jogosult.
+106. § Az igazságügyi alkalmazott az e törvény alapján adományozott címmel az illetményalap 15 százalékának megfelelő összegű címpótlékra jogosult. Legalább 10 év tényleges szolgálati viszony fennállása és huzamos idejű színvonalas munkavégzés alapján főtanácsosi cím a szakirányú felsőfokú iskolai végzettségű V. fizetési osztályba tartozó, tanácsosi cím pedig a középfokú iskolai végzettségű V. fizetési osztályba tartozó igazságügyi alkalmazott részére is adományozható. A cím adományozására a bíróság és az OBH alkalmazottainak tekintetében az Országos Bírói Tanács, más igazságügyi alkalmazott tekintetében a miniszter jogosult.

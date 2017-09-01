@@ -4,7 +4,9 @@ a) nyugdíjasnak minősül,
 
 b) munkakörének az ellátására alkalmatlan,
 
-c) a 18. § (1) bekezdése szerinti esetekben a részére felajánlott megfelelő új munkakört nem fogadta el, vagy ilyen munkakört a részére nem lehetett felajánlani.
+c) a 18. § (1) bekezdése szerinti esetekben a részére felajánlott megfelelő új munkakört nem fogadta el, vagy ilyen munkakört a részére nem lehetett felajánlani,
+
+d) a 17. § (4) bekezdése szerinti kérelmet terjeszt elő.
 
 (2) Az (1) bekezdés b)–c) pontjaiban foglalt okok fennállása esetén sem szüntethető meg a szolgálati viszony felmentéssel a következő időtartamok és az azt követő 30 nap alatt:
 

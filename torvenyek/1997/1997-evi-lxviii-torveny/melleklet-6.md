@@ -1,23 +1,241 @@
-6. számú melléklet az 1997. évi LXVIII. törvényhez
+6. melléklet az 1997. évi LXVIII. törvényhez
 
-______________________________
+A IV. fizetési osztály (nem szakirányú felsőfokú iskolai végzettségű, valamint középfokú iskolai végzettségű tisztviselő, írnok és technikus) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
 
-Vezetői pótlékok (az illetményalap = 1)
+|
 
-______________________________
+|
+
+A
+
+|
+
+B
+
+|
+
+C
+
+|
+
+D
+
+|
+
+E
+
+|
 
 1.
 
-2. Főosztályvezető, az egyéb igazságügyi szerv vezetője és helyettese – 0,40–0,60
+|
 
-3. Főosztályvezető-helyettes, igazgató 0,35–0,45
+Fizetési fokozat
 
-4. Osztályvezető, igazgatóhelyettes – 0,25–0,40
+|
 
-5. Osztályvezető-helyettes 0,20–0,25
+Szolgálati idő
 
-6. Csoportvezető 0,15–0,20
+(év)
 
-7. Csoportvezető-helyettes, bírósági irodavezető 0,05–0,15
+|
 
-Megjegyzés: A pótlék összegét a 2–7. pontok szerinti határokon belül az igazságügyi szerv szintje és nagysága, valamint a beosztottak létszáma alapján kell megállapítani.
+Alsó határ
+
+szorzószáma
+
+|
+
+Felső határ
+
+szorzószáma
+
+|
+
+2.
+
+|
+
+1.
+
+|
+
+0
+
+|
+
+3
+
+|
+
+0,38
+
+|
+
+0,47
+
+|
+
+3.
+
+|
+
+2.
+
+|
+
+4
+
+|
+
+7
+
+|
+
+0,42
+
+|
+
+0,54
+
+|
+
+4.
+
+|
+
+3.
+
+|
+
+8
+
+|
+
+11
+
+|
+
+0,46
+
+|
+
+0,66
+
+|
+
+5.
+
+|
+
+4.
+
+|
+
+12
+
+|
+
+18
+
+|
+
+0,53
+
+|
+
+0,73
+
+|
+
+6.
+
+|
+
+5.
+
+|
+
+19
+
+|
+
+25
+
+|
+
+0,56
+
+|
+
+0,77
+
+|
+
+7.
+
+|
+
+6.
+
+|
+
+26
+
+|
+
+30
+
+|
+
+0,59
+
+|
+
+0,80
+
+|
+
+8.
+
+|
+
+7.
+
+|
+
+31
+
+|
+
+35
+
+|
+
+0,65
+
+|
+
+0,85
+
+|
+
+9.
+
+|
+
+8.
+
+|
+
+36
+
+|
+
+|
+
+0,72
+
+|
+
+0,93

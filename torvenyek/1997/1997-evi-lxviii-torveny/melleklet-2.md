@@ -54,8 +54,6 @@ Az igazságügyi alkalmazottak személyi nyilvántartásának adatköre
 
 – a beosztási pótlék megnevezése, százaléka és összege,
 
-– a vezetői pótlék megnevezése, százaléka és összege,
-
 – az egyéb folyósított pótlékok megnevezése és összege,
 
 – az összilletmény összege.

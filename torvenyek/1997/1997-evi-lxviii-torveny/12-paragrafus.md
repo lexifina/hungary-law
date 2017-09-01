@@ -1,4 +1,4 @@
-12. § (1) A kinevezés határozatlan időre vagy legfeljebb 3 évig tartó határozott időre szólhat.
+12. § (1) A kinevezés határozatlan időre vagy legfeljebb 5 évig tartó határozott időre szólhat.
 
 (2) Határozott időre kell kinevezni azt,
 

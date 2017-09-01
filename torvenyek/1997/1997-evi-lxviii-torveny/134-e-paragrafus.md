@@ -1,0 +1,1 @@
+134/E. § Ha az igazságügyi alkalmazott számára az e törvénynek a Módtv.-vel megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv.-vel megállapított rendelkezései szerinti szabadsága meg nem haladja.

@@ -4,7 +4,7 @@
 
 a) soron kívüli előresorolás,
 
-b) a személyi alapbér legfeljebb 20 százalékkal való emelése,
+b)
 
 c) pénz- vagy tárgyjutalom,
 
@@ -16,4 +16,4 @@ e) Magyarország címerének és zászlajának használatáról, valamint állam
 
 (3) Kiváló munkavégzés esetén és igazságügyi szolgálati jogviszonyban eltöltött legalább tíz év után az I. fizetési osztályba tartozó igazságügyi alkalmazottnak „főtanácsos” cím adományozható.
 
-(4) A címmel az illetményalap tizenöt százalékának megfelelő összegű címpótlék jár havonta. A címpótlék alapilletmény jellegű.
+(4)
