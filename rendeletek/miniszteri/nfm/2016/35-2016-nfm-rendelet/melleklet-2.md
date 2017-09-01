@@ -156,7 +156,15 @@
 
 | 48. | 47. | 31 | 543 | 08 | Műanyaghajó javító | Közlekedés |
 
-2. melléklet a 35/2016. (VIII. 31.) NFM rendelethez
+## III. A nemzeti fejlesztési miniszter hatáskörébe tartozó postai szakképesítések jegyzéke, amelyek szakmai és vizsgakövetelményei e rendelettel kerülnek kiadásra
+
+|  | A | B | C | D |
+
+| 1 | Sor- szám | Szakképesítés azonosító száma | Szakképesítés/ részszakképesítés/ szakképesítés-ráépülés megnevezése | Szakmacsoport megnevezése |
+
+| 2. | 1. | 54 | 841 | 09 | Postai üzleti ügyintéző | Kereskedelem-marketing, üzleti adminisztráció |
+
+2. melléklet a 35/2016. (VIII. 31.) NFM rendelethez[^3]
 
 I.
 
@@ -5696,26 +5704,4 @@ Bevezető, a probléma rövid ismertetése.
 
 Választott téma indoklása.
 
-Téma kifejtése, fejlesztői dokumentáció (rendszerterv, biztonsági kérdések, adatbázis, navigáció, ergonómia, főbb funkcionális tesztesetek, stb.).
-
-Felhasználói dokumentáció.
-
-Összegzés.
-
-Irodalomjegyzék, hivatkozásjegyzék.
-
-A vizsgabizottság elnöke vizsgálja, hogy a kitűzött feladat nehézségi foka megfelel-e az elvárható szintnek és a dolgozat eleget tesz-e a tartalmi és formai követelményeknek.
-
-A záródolgozat értékelési szempontjai:
-
-A megoldott feladat nehézsége, a hozzáadott önálló munka minősége.
-
-A témában való tájékozottság, a szakirodalommal kapcsolatos ismeretek.
-
-A záródolgozat áttekinthetősége, formai és nyelvi igényessége.
-
-A hallgató munkájáról kialakult vélemény.
-
-A terjedelmi követelmények.
-
-A záródolgozatokat, a komplex szakmai vizsgát megelőzően legalább 10 nappal az előzetes szakmai bírálattal együtt a vizsgabizottság elnökének rendelkezésére kell bocsátani.
+[^3]: A 2. melléklet a 35/2017. (VIII. 31.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
