@@ -68,3 +68,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2017-06-15 | 2017. évi LVII. törvény | 2008-40-00-00.66 |
 | 2017-06-24 | 2017. évi LXXV. törvény | 2008-40-00-00.67 |
 | 2017-07-01 | 2017. évi LVII. törvény | 2008-40-00-00.68 |
+| 2017-09-01 | 2017. évi LVII. törvény | 2008-40-00-00.69 |
