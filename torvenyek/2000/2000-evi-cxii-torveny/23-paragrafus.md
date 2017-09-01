@@ -18,6 +18,6 @@ f) új építmény a természetvédelmi kezelés és bemutatás céljából, val
 
 g) 10 m beépítési magasságot meghaladó építmény – kápolna, kizárólag kilátó rendeltetésű építmény, víztorony kivételével – nem létesíthető, csarnok jellegű épület, reklámcélú hirdető építmény elhelyezése nem engedélyezhető;
 
-h) erdőtelepítés, erdőfelújítás, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
+h) erdőtelepítés, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
 
 i) energetikai célú növénytelepítés nem engedélyezhető.

@@ -26,6 +26,6 @@ k) 10 m beépítési magasságot meghaladó építmény – kápolna, kizáróla
 
 l) a területen környezetszennyező tevékenység nem folytatható, csak természetes és környezetkímélő módszerek, gazdálkodás alkalmazható;
 
-m) erdőtelepítést, erdőfelújítást, külterületi fásítást őshonos fafajokkal kell végezni;
+m) erdőtelepítést, külterületi fásítást őshonos fafajokkal kell végezni;
 
 n) energetikai célú növénytelepítés nem engedélyezhető.
