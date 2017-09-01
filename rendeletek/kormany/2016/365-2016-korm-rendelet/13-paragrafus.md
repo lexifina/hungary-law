@@ -10,7 +10,19 @@ b) ellátja a gáz csatlakozóvezeték- és a felhasználói berendezés-létes�
 
 c) műszaki biztonsági hatóságként jár el a felvonó, mozgólépcső létesítésének, áthelyezésének, főbb műszaki adatainak megváltoztatásával járó átalakításának, használatbavételének, valamint elbontásának engedélyezésével kapcsolatos hatósági eljárásokban a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló kormányrendeletben meghatározott felvonókkal, mozgólépcsőkkel és mozgójárdákkal kapcsolatos hatósági eljárások kivételével, továbbá
 
-d) eljár a kőolaj-feldolgozás és a kőolajtermék-tárolás tekintetében az energetikai létfontosságú rendszerekkel és létesítményekkel kapcsolatos hatósági eljárásokban.
+d)[^1] eljár a kőolaj-feldolgozás és a kőolajtermék-tárolás tekintetében az energetikai létfontosságú rendszerekkel és létesítményekkel kapcsolatos hatósági eljárásokban,
+
+e)[^2] ellátja a villamos energiáról szóló törvény szerint a hálózati csatlakozással összefüggő tervek, valamint a víziközmű-szolgáltatásról szóló törvény szerint a bekötéssel összefüggő tervek kivitelezésre való alkalmasságának elbírálását, továbbá
+
+f)[^3] ellátja
+
+fa) a földgázellátásról szóló törvény szerint a fogyasztói vezeték üzembe helyezésének földgázelosztó általi,
+
+fb) a villamos energiáról szóló törvény szerint a hálózati csatlakozás üzembe helyezésének hálózati engedélyes általi, valamint
+
+fc) a víziközmű-szolgáltatásról szóló törvény szerint az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezésének víziközmű-szolgáltató általi
+
+## megtagadása esetén az üzembe helyezés elrendelésével kapcsolatos feladatokat.
 
 (3) A Kormány műszaki biztonsági hatóságként Budapest Főváros Kormányhivatalát jelöli ki
 
@@ -36,7 +48,9 @@ j) a műszaki-biztonsági hatósági felügyelet alatt álló, cseppfolyós prop
 
 k) a műszaki biztonsági szempontból jelentős ipari szakképesítés (nyomástartó berendezés kezelője, nyomástartó berendezés vizsgálója, tartálytisztító, tartályvizsgáló) megszerzéséhez szükséges vizsgakötelezettség teljesítéséhez igénybe vehető hatósági jellegű képzés programjának jóváhagyásával és a képzési tevékenység felügyeletével,
 
-l) az aeroszol termékek és aeroszol csomagolások forgalmazásának követelményeiről szóló miniszteri rendeletben meghatározott vizsgálatok esetében a vizsgálati módszer jóváhagyásával
+l) az aeroszol termékek és aeroszol csomagolások forgalmazásának követelményeiről szóló miniszteri rendeletben meghatározott vizsgálatok esetében a vizsgálati módszer jóváhagyásával,
+
+m)[^4] a villamos energiáról szóló törvény szerint a bejelentett és jogosult villanyszerelők nyilvántartásának vezetésével, valamint a víziközmű-szolgáltatásról szóló törvény szerint a kivitelezői jogosultsággal rendelkező vízszerelők nyilvántartásának vezetésével
 
 ## kapcsolatos eljárásokban.
 
@@ -47,3 +61,8 @@ l) az aeroszol termékek és aeroszol csomagolások forgalmazásának követelm�
 (6) A műszaki biztonsági hatóság a műszaki-biztonsági szakhatósági közreműködést igénylő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére 6 hónapig felhasználható, előzetes szakhatósági állásfoglalást ad ki.
 
 (7) A mérésügyi és műszaki biztonsági tevékenységért jogszabály alapján befizetett igazgatási szolgáltatási díjbevétel 50%-a a fővárosi és megyei kormányhivatalokat, 50%-a Budapest Főváros Kormányhivatalát illetik meg. Budapest Főváros Kormányhivatala a díjbevételt a tárgyhónapot követő hónap 25. napjáig utalja át a jogosultak részére.
+
+[^1]: A 13. § (2) bekezdés d) pontja a 218/2017. (VII. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^2]: A 13. § (2) bekezdés e) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^3]: A 13. § (2) bekezdés f) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^4]: A 13. § (3) bekezdés m) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
