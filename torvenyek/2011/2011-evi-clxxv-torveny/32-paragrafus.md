@@ -14,7 +14,7 @@ a) az átlagos éves bevétele meghaladja az egymillió forintot, vagy
 
 b) a két év egybeszámított adózott eredménye (tárgyévi eredménye) nem negatív, vagy
 
-c) a személyi jellegű ráfordításai (kiadásai) – a vezető tisztségviselők juttatásainak figyelembevétele nélkül – eléri az összes ráfordítás (kiadás) egynegyedét.
+c) a személyi jellegű ráfordításai (kiadásai) – a vezető tisztségviselők juttatásainak figyelembevétele nélkül – elérik az összes ráfordítás (kiadás) egynegyedét, ideértve a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény alapján közérdekű önkéntes tevékenységet végző személyek által összesen teljesített munkaóráknak a civil szervezetek gazdálkodása, az adománygyűjtés és a közhasznúság egyes kérdéseiről szóló 350/2011. (XII. 30.) Korm. rendelet szerinti értékét is.
 
 (5) Megfelelő társadalmi támogatottság mutatható ki az (1) bekezdés szerinti szervezetnél, ha az előző két lezárt üzleti éve vonatkozásában a következő feltételek közül legalább egy teljesül:
 

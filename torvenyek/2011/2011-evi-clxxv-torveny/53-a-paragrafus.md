@@ -1,4 +1,4 @@
-53/A. § (1) Jelentős költségvetési támogatásnak minősül, ha valamely szervezet a szakmai monitoring rendszer adatai alapján, az államháztartás központi alrendszeréből kapott 19. § (1) bekezdés c) pontja szerinti költségvetési támogatásai (egybeszámított támogatás) összesen meghaladják valamely költségvetési év vonatkozásában az ötvenmillió forintot.
+53/A. § (1) Jelentős költségvetési támogatásnak minősül, ha valamely szervezet a szakmai monitoring rendszer adatai alapján, az államháztartás központi alrendszeréből kapott 20. § (3) bekezdés a) pontja szerinti költségvetési támogatásai (egybeszámított támogatás) összesen meghaladják valamely költségvetési év vonatkozásában az ötvenmillió forintot.
 
 (2) Ha törvény eltérően nem rendelkezik, a jelentős költségvetési támogatásban részesülő civil szervezet nyilvántartás szerint képviseletre jogosult vezető tisztségviselőjét (a továbbiakban: kötelezett) – az (1) bekezdés szerinti feltétel teljesülését követően a vagyonnyilatkozat-tételi kötelezettség fennállásáról és esedékességének időpontjáról szóló tájékoztató megküldésével a miniszter harmincnapos határidővel felhívja vagyonnyilatkozat tételére.
 

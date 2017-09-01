@@ -10,6 +10,8 @@ d) folyamatos működésű szakmai tanácsadási rendszert működtetnek jogi, k
 
 e) folyamatos információszolgáltatást biztosítanak az e törvény szerinti intézkedések végrehajtásának megvalósulásáról,
 
-f) az e célra létrehozott számítógépes rendszeren keresztül adatot szolgáltatnak a Civil Információs Portál számára az a)–e) pontok szerinti feladatokkal kapcsolatos adatok és információk terjesztése érdekében.
+f) az e célra létrehozott számítógépes rendszeren keresztül adatot szolgáltatnak a Civil Információs Portál számára az a)–e) pontok szerinti feladatokkal kapcsolatos adatok és információk terjesztése érdekében,
 
-(2) A civil információs centrumok kötelesek együttműködni egymással és a szakmai hálózatokkal az (1) bekezdés szerinti célok teljes körű megvalósítása érdekében.
+g) a kollégiumok kérésére tájékoztatást adnak az adott ellátási területen működő civil szervezetek tevékenységéről.
+
+(2)

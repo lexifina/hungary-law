@@ -4,7 +4,7 @@
 
 ## 23. Felhatalmazó rendelkezések
 
-73. § (1) Felhatalmazást kap a Kormány, hogy a civil szervezetek gazdálkodó és adománygyűjtő tevékenységével kapcsolatos részletes szabályokat, a közhasznúsági melléklet formai és tartalmi követelményeit, a kollégiumok által az e törvény alapján juttatott, nem költségvetési támogatásnak minősülő támogatásokkal kapcsolatos döntési eljárás szabályait, valamint a civil szervezetek rendelkezésére bocsátható infrastruktúra felhasználás szabályait és a juttatás feltételeit rendeletben állapítsa meg.
+73. § (1) Felhatalmazást kap a Kormány, hogy a civil szervezetek gazdálkodó és adománygyűjtő tevékenységével kapcsolatos részletes szabályokat, a közhasznúsági melléklet formai és tartalmi követelményeit, a kollégiumok által az e törvény alapján juttatott, nem költségvetési támogatásnak minősülő támogatásokkal kapcsolatos döntési eljárás szabályait, rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 

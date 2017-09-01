@@ -72,7 +72,7 @@ d) a személyi jövedelemadó meghatározott részének az adózó rendelkezése
 
 20. közhasznú tevékenység: minden olyan tevékenység, amely a létesítő okiratban megjelölt közfeladat teljesítését közvetlenül vagy közvetve szolgálja, ezzel hozzájárulva a társadalom és az egyén közös szükségleteinek kielégítéséhez;
 
-21. közszolgáltatási szerződés: valamely közfeladat – vagy annak egy része – ellátására a szerv nevében történő ellátására kötött írásbeli szerződés. Nem minősül közszolgáltatási szerződésnek azon közszolgáltatással kapcsolatban kötött szerződés, amelynek nyújtása jogszabályban meghatározott feltételeken alapuló engedélyhez van kötve;
+21. közszolgáltatási szerződés: valamely közfeladat vagy a közfeladat egy részének a szerv nevében történő ellátására – a Ptk. 6:256. §-ában meghatározottak alapján – kötött írásbeli szerződés. Nem minősül közszolgáltatási szerződésnek azon közszolgáltatással kapcsolatban kötött szerződés, amelynek nyújtása jogszabályban meghatározott feltételeken alapuló engedélyhez van kötve;
 
 22. közvetlen politikai tevékenység: párt érdekében végzett politikai tevékenység, az országgyűlési képviselői választáson történő jelöltállítás, a megyei, fővárosi önkormányzat képviselő-testületébe történő jelöltállítás, az Európai Parlament tagjának történő jelölés, a megyei jogú város képviselő–testületébe történő jelöltállítás, valamint a polgármester jelölése; nem minősül közvetlen politikai tevékenységnek a külön törvényben meghatározott nemzetiségi szervezet által a helyi, illetve nemzetiségi önkormányzati képviselői választáson történő jelöltállítás valamint a polgármester jelölése.
 

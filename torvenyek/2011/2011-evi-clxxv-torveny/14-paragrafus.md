@@ -10,7 +10,7 @@ a) az Országos Bírósági Hivatal a civil szervezetek bírósági nyilvántart
 
 b) az adóhatóság az adózás rendjéről szóló törvény alapján az adózót terhelő adókötelezettség jogszerű teljesítéséhez, a költségvetési támogatás jogszerű igénybevételéhez a honlapján közzétett,
 
-c) a Központi Statisztikai Hivatal az általa a statisztikáról szóló 1993. évi XLVI. törvényben (a továbbiakban: Sttv.) meghatározott statisztikai számjel, valamint az Sttv. 6. § (2) bekezdésében statisztikai regiszterben tárolt nyilvános,
+c) a Központi Statisztikai Hivatal az általa a hivatalos statisztikáról szóló 2016. évi CLV. törvényben meghatározott statisztikai számjel, valamint a statisztikai regiszterben tárolt nyilvános,
 
 d) az adóhatóság a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvény alapján a kedvezményezett számára kiutalt összegekről és azok felhasználásáról az adóhatóság rendelkezésére álló,
 

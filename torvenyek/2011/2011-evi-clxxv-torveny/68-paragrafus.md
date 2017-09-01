@@ -32,7 +32,7 @@ a) feladatát folyamatosan, kilencven napot meghaladóan nem képes ellátni,
 
 b) összeférhetetlenségét határidőben nem szünteti meg,
 
-c) egy naptári év során az ülések több mint egyharmadán nem vesz részt, vagy
+c) egy naptári év során – vagy évközbeni megbízás esetén a megbízási idő adott naptári évre eső időszaka alatt időarányosan, legalább három ülést tekintve – az ülések több mint egyharmadán nem vesz részt, vagy
 
 d) tisztségére méltatlanná válik.
 

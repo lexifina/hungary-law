@@ -6,7 +6,7 @@ a) civil szervezetek által gyűjtött és a számviteli beszámolóban feltünt
 
 b) civil szervezetek működésének támogatása;
 
-c) civil szervezeteket érintő évfordulók, fesztiválok, hazai és határon túli rendezvények támogatása;
+c) civil szervezeteket, határon túli civil szervezeteket érintő szakmai programok, különösen évfordulók, fesztiválok, hazai és határon túli rendezvények, valamint a programok megvalósításához közvetlenül kapcsolódó költségek támogatása;
 
 d) nemzetközi civil kapcsolatokban a magyarországi civil szervezetek jelenlétének biztosítása, hazai és határon túli rendezvényeken, fesztiválokon történő részvétel támogatása, nemzetközi tagdíjakhoz támogatás biztosítása, európai integrációt elősegítő programok támogatása;
 
@@ -28,9 +28,9 @@ l) civil információs centrumok működésének támogatása.
 
 (2) Az Alap rendelkezésére álló tárgyévi támogatási forrás
 
-a) hatvan százalékára az (1) bekezdés a) és b) pontja szerinti, a civil szervezetek működését célzó,
+a) kilencven százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés a)–j) pontja szerinti,
 
-b) harminc százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés c)–j) pontja szerinti,
+b)
 
 c) tíz százalékára pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján az (1) bekezdés b)–j) pontja szerinti
 
@@ -38,10 +38,10 @@ költségvetési támogatásokra történhet kötelezettségvállalás.
 
 (3) Az Alap rendelkezésére álló tárgyévi támogatási források legalább
 
-a) tíz százalékára visszatérítendő támogatásra
+a)
 
 b) hetven százalékára vissza nem térítendő támogatásra
 
 az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell kiírni.
 
-(4) Az (1) bekezdés c) pontja szerinti támogatás magyarországi és határon túli civil szervezet számára együttesen is nyújtható.
+(4)
