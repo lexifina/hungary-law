@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-382-20-
 | 2017-01-01 | 2007-382-20-22.32 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2007-382-20-22.33 | 369/2016. (XI. 29.) Korm. rendelet |
 | 2017-07-01 | 2007-382-20-22.34 | 70/2015. (III. 30.) Korm. rendelet |
+| 2017-09-01 | 2007-382-20-22.35 | 218/2017. (VII. 31.) Korm. rendelet |

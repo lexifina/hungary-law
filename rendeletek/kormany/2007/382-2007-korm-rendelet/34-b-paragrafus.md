@@ -1,4 +1,4 @@
-34/B. §[^85] (1) Bontás tudomásulvételéhez kötött minden olyan bontási tevékenység, amely nem tartozik a 14. § (4) bekezdésében és a 9. számú mellékletben felsorolt bontási tevékenységek körébe.
+34/B. §[^86] (1) Bontás tudomásulvételéhez kötött minden olyan bontási tevékenység, amely nem tartozik a 14. § (4) bekezdésében és a 9. számú mellékletben felsorolt bontási tevékenységek körébe.
 
 (2) Az (1) bekezdés szerinti bontási tevékenységet a Hatóságnak a bontás tudomásul vételéről szóló döntésétől számított egy évig lehet végezni.
 
@@ -10,10 +10,11 @@
 
 a) a 3. számú melléklet 10.1–10.6. pontjában meghatározott műszaki dokumentációt,
 
-b) nyilvántartott régészeti lelőhelyen vagy műemléki jelentőségű területen végzett bontás tudomásulvételéhez kötött tevékenységek esetében az örökségvédelmi hatóság hozzájáruló nyilatkozatát, valamint
+b)[^87] nyilvántartott régészeti lelőhelyen vagy műemléki jelentőségű területen végzett bontás tudomásulvételéhez kötött tevékenységek esetében az örökségvédelmi hatósághoz történt bejelentés igazolását, valamint
 
 c) az illeték befizetésének igazolását.
 
 (6) Az építtető a bontási tevékenység befejezésének tényét, a befejezéstől számított tizenöt napon belül a Hatósággal közli.
 
-[^85]: A 34/B. §-t a 441/2015. (XII. 28.) Korm. rendelet 99. § (11) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^86]: A 34/B. §-t a 441/2015. (XII. 28.) Korm. rendelet 99. § (11) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^87]: A 34/B. § (5) bekezdés b) pontja a 218/2017. (VII. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
