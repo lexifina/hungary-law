@@ -4,7 +4,7 @@
 
 2.
 
-3.
+3. 8. § (4) bekezdésében a „fejlesztő nevelésben” szövegrész helyébe a „korai fejlesztésben és gondozásban”,
 
 4.
 
