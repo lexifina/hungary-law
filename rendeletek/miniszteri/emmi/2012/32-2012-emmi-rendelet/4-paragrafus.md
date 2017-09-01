@@ -4,8 +4,10 @@
 
 (2) A (3) bekezdés 2017. augusztus 31-én lép hatályba.
 
-(3) Hatályát veszti a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelve és a Sajátos nevelési igényű tanulók iskolai oktatásának irányelve kiadásáról szóló 2/2005. (III. 1.) OM rendelet (a továbbiakban: R.).
+(3)[^2]
 
 (4) A sajátos nevelési igényű gyermekek nevelését ellátó óvodák az R. 1. melléklete alapján elkészített és jelenleg alkalmazott óvodai nevelési programokat 2013. augusztus 31-ig felülvizsgálják, és a hatályos jogszabályi rendelkezéseknek való meg nem felelés esetén módosítják.
 
 (5) A súlyosan, halmozottan fogyatékos tanulók fejlesztő nevelését-oktatását végző gyógypedagógiai intézmények az R. 3. melléklete alapján elkészített és jelenleg alkalmazott rehabilitációs pedagógiai programjaikat 2013. augusztus 31-ig felülvizsgálják, és a hatályos jogszabályi rendelkezéseknek való meg nem felelés esetén módosítják.
+
+[^2]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
