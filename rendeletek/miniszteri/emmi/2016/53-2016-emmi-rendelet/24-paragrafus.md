@@ -1,3 +1,3 @@
-## 20–23. §[^12]
+## 20–23. §[^13]
 
-[^12]: A 20–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 20–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

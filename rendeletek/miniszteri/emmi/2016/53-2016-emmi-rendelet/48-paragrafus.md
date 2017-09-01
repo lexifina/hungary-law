@@ -2,12 +2,12 @@
 
 ## 48. § Hatályát veszti az R5.
 
-a)–b)[^44]
+a) 4. alcíme,
 
-c)[^45]
+b) 41. § (3) bekezdése,
 
-d)[^46]
+c)[^32]
 
-[^44]: A 48. § a)–b) pontja az 58. § (5) bekezdése alapján 2017. szeptember 1-jén lép hatályba.
-[^45]: A 48. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^46]: A 48. § d) pontja az 58. § (5) bekezdése alapján 2017. szeptember 1-jén lép hatályba.
+d) 6. melléklet 1. pontjában foglalt táblázat 3. sora.
+
+[^32]: A 48. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
