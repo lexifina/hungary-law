@@ -122,6 +122,8 @@ g) a természetbeni ellátás mértékét és feltételeit, az abban való rész
 
 h) a három hónapnál rövidebb időtartamú külföldi szolgálatot teljesítők részére nyújtható napidíj mértékét, megállapításának, kifizetésének, elszámolásának rendjét,
 
+i) a területi és helyi szerv vezetője részére biztosítható vezetői lakhatási juttatások fajtáit, mértékét, a jogosultság feltételeit, különösen a bérleti díj megfizetését, lakbértámogatás vagy albérleti díj támogatás mértékét, és a lakhatással kapcsolatos költségekhez való hozzájárulást,
+
 22. meghatározza a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény hatálya alá nem tartozó egyes elismerések adományozására jogosultak körét, az elismerésben részesítés feltételeit és rendjét,
 
 23. megállapítsa

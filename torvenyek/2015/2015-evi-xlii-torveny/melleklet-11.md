@@ -17,21 +17,3 @@ II. Az alapösztöndíj-kiegészítés szorzószáma havonta az egyes kiképzés
 1. I. szemeszter (rendészeti alapfelkészítés): 0,25
 
 2. II. szemeszter: 0,26
-
-3. III. szemeszter: 0,27
-
-4. IV. szemeszter: 0,28
-
-5. V. szemeszter: 0,29
-
-6. VI. szemeszter: 0,30
-
-III. A rendészeti tisztjelölt az előző szemeszterben elért – nem a korrigált kreditindex szerint meghatározott – tanulmányi átlaga alapján számítandó tanulmányi pótlékának szorzószáma havonta:
-
-1. 3,50 és alatta: nem jár
-
-2. 3,51-4,00 között: 0,10
-
-3. 4,01-4,50 között: 0,15
-
-4. 4,51-5,00 között: 0,20

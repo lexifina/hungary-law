@@ -10,12 +10,12 @@ c) lakhatás biztosításához szükséges lakás, ház vagy ingatlan megszerzé
 
 d) a lakásigény megoldásához egyszeri pénzbeli támogatás nyújtása,
 
-e) az egyedülállók és gyermektelen házaspárok részére szükség esetén szálló- vagy garzonelhelyezés,
+e) szálló- vagy garzonelhelyezés,
 
-f) a lakással rendelkezők részére a lakhatással kapcsolatos költségekhez való hozzájárulás,
+f) a lakhatással kapcsolatos költségekhez való hozzájárulás,
 
 g) a lakástulajdon megszerzéséhez nyújtott hitelintézeti kölcsön igénybevételének állami támogatása,
 
-h) önkormányzati tulajdonban lévő, a rendvédelmi szerv bérlőkijelölési jogával érintett lakás biztosítása, a tulajdonos önkormányzat rendeletében meghatározott bérleti díj megfizetése mellett.
+h) a rendvédelmi szerv bérlőkijelölési vagy bérlőkiválasztási jogával érintett lakás biztosítása, bérleti díj megfizetése mellett.
 
 (2) Az (1) bekezdés g) pontja szerinti támogatás formáit és feltételeit törvény vagy kormányrendelet a 172. §-on kívül is megállapíthatja.
