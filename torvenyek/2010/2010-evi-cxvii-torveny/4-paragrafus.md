@@ -1,13 +1,15 @@
-4. § (1) A bioüzemanyag fenntartható előállításának minősítésére vonatkozó követelmények teljesítésének ellenőrzésére irányuló eljárás során a mezőgazdasági igazgatási szerv a nyilvánvaló hibát bármikor kijavíthatja.
+4. § (1) A biomassza, köztes termék, bioüzemanyag és folyékony bio-energiahordozó fenntartható előállításának minősítésére vonatkozó követelmények teljesítésének ellenőrzése során, továbbá e törvény hatálya alá tartozó kérelemre induló eljárásban a mezőgazdasági igazgatási szerv a nyilvánvaló hibát kijavíthatja.
 
-(2) Az (1) bekezdés szerinti eljárásra vonatkozó kormányrendelet meghatározhatja:
+(2) Az (1) bekezdés szerinti eljárásokra vonatkozóan, az e törvény végrehajtására kiadott jogszabály meghatározhatja
 
 a) azon adatok, nyilatkozatok körét, amelyek hiánypótlás keretében nem pótolhatók;
 
-b) azon adatok körét, amelyekre módosítási kérelem nem nyújtható be és
+b) azon adatok körét, amelyekre módosítási kérelem nem nyújtható be, és
 
-c) azon időszakot, amely időtartam alatt, vagy határnapot, amíg a fenntarthatóság megállapítására vonatkozó kérelem benyújtható.
+c) azon időszakot, amely időtartam alatt, vagy határnapot, amíg a fenntarthatóság és a nyomon követhetőség megállapítására vonatkozó kérelem benyújtható.
 
-(3) A kérelem benyújtására vagy beérkezésére nyitva álló, vagy eljárási cselekményre meghatározott határidő vagy határnap elmulasztása esetén – kivéve, ha az (1) bekezdés szerinti eljárás részletes feltételeit meghatározó jogszabály ezt kifejezetten lehetővé teszi – igazolás pótlólagos kiadására nincs lehetőség.
+(3) Fenntarthatósági bizonyítvány és a mezőgazdasági igazgatási szerv nyilvántartásában szereplő adatokra vonatkozó hatósági bizonyítvány kiadására irányuló kérelem alapján induló eljárásban kizárt a sommás eljárás alkalmazása.
 
-(4) Az (1) bekezdés szerinti eljárás során az ügyfelet terheli a kérelemben tett bármilyen nyilatkozatával, állításával kapcsolatos bizonyítási kötelezettség.
+(4) A mezőgazdasági igazgatási szerv részére a bioüzemanyagok, folyékony bio-energiahordozók vagy ezek alapanyagául szolgáló termékek előállításához kapcsolódó fenntartható minősítés ellenőrzéséért, a nyilvántartásba vételéért, továbbá a fenntarthatósági bizonyítvány kiállításáért az e törvény végrehajtására kiadott jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+(5) A mezőgazdasági igazgatási szerv a BÜHG-rendszerben való szereplés további egy évvel történő meghosszabbítására irányuló eljárást felfüggeszti – az eljárás jogerős lezárásáig –, ha a nyilvántartottal szemben e törvény végrehajtási rendelete szerinti adatszolgáltatási kötelezettség megszegése miatt hatósági nyilvántartásból való törlési eljárás van folyamatban.
