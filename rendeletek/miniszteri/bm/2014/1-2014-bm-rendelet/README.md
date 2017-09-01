@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1-20-0A
 | 2014-01-16 | 2014-1-20-0A.2 | 2010: CXXX. törvény |
 | 2015-04-01 | 2014-1-20-0A.3 | 11/2015. (III. 31.) BM rendelet |
 | 2017-01-01 | 2014-1-20-0A.4 | 11/2015. (III. 31.) BM rendelet |
+| 2017-09-01 | 2014-1-20-0A.5 | 19/2017. (VIII. 10.) BM rendelet |

@@ -1,17 +1,31 @@
-## 9. Munkaköri, illetve szolgálati feladatokhoz kapcsolódó kötelező védőoltások
+## 9. [^8] A hivatásos állomány vonatkozásában a szolgálati beosztáshoz, illetve szolgálati feladatokhoz kapcsolódó kötelező védőoltások
 
-13. § (1) Ha a munkakörhöz vagy szolgálati feladathoz kapcsolódóan a hivatásos állomány tagjának vagy csoportjainak egészségét, biztonságát veszélyeztető biológiai kockázat áll fenn, illetve szolgálati célból külföldre történő kiutazás esetén a veszélyeztetett munkakörben dolgozót, illetve a veszélyeztetett szolgálati feladatot ellátó hivatásos állománytagot a kockázat csökkentése érdekében megfelelő védőoltásban kell részesíteni. A 3. melléklet tartalmazza azokat a rendvédelmi szerveknél rendszeresített szolgálati beosztásokat, ahol a védőoltás biztosítása kötelező, valamint speciális védelmi intézkedések szükségesek.
+13. § (1) Ha a szolgálati beosztáshoz vagy egyes szolgálati feladatokhoz kapcsolódóan a hivatásos állomány tagjának vagy egyes csoportjainak egészségét, biztonságát veszélyeztető biológiai kockázat áll fenn, a hivatásos állomány veszélyeztetett munkakörben dolgozó vagy veszélyeztetett szolgálati feladatot ellátó tagját a kockázat csökkentése érdekében megfelelő védőoltásban kell részesíteni. A 3. melléklet tartalmazza azokat a rendvédelmi szerveknél rendszeresített szolgálati beosztásokat vagy szolgálati feladatokat, ahol a (2) bekezdésben meghatározott megbetegedések megelőzése érdekében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 102. § (4) bekezdésében meghatározott rendben kötelező védőoltás elrendelésének van helye, valamint speciális védelmi intézkedések szükségesek.
 
 (2) A rendvédelmi szerv egészségügyi szakfeladatainak ellátásáért felelős vezető főorvos javaslatára a rendvédelmi szerv vezetője a kötelező védőoltást elrendeli
 
 a) hastífusz,
 
-b) hepatitis A,
+b) hepatitis-A,
 
-c) hepatitis B,
+c) hepatitis-B,
 
-d) kullancs-encephalitis
+d) kullancs-encephalitis,
+
+e) a hivatásos állomány 40. életévet betöltött tagja vonatkozásában – emlékeztető oltásként – diftéria,
+
+f) a hivatásos állomány 40. életévet betöltött tagja vonatkozásában – emlékeztető oltásként – tetanus
 
 megbetegedések megelőzése érdekében.
 
-(3) A rendészeti szakközépiskolába vagy rendvédelmi szervhez történő jelentkezés esetén oltási könyv bemutatása szükséges.
+(3) A rendvédelmi szerv egészségügyi szakfeladatainak ellátásáért felelős vezető főorvos a kötelező védőoltás elrendelésére irányuló javaslatában megjelöli, hogy
+
+a) a hivatásos állomány mely szolgálati beosztást betöltő vagy szolgálati feladatot ellátó tagjainak,
+
+b) mely földrajzi területen
+
+javasolja a kötelező védőoltás elrendelését.
+
+(4) A rendészeti szakgimnáziumba vagy rendvédelmi szervhez történő jelentkezés esetén oltási könyv bemutatása szükséges.
+
+[^8]: A 9. alcím (13–14/A. §) a 19/2017. (VIII. 10.) BM rendelet 2. §-ával megállapított szöveg.
