@@ -648,33 +648,33 @@ Súlyozott tanulmányi átlag átsoroláshoz
 
 | 1 | Képzési terület | Súlyozott tanulmányi átlag |
 
-| 2 | agrár | 2,25 |
+| 2 | agrár | 2,5 |
 
-| 3 | bölcsészettudomány | 2,5 |
+| 3 | bölcsészettudomány | 2,75 |
 
-| 4 | gazdaságtudományok | 2,25 |
+| 4 | gazdaságtudományok | 2,5 |
 
-| 5 | informatika | 2,25 |
+| 5 | informatika | 2,5 |
 
-| 6 | jogi | 2,25 |
+| 6 | jogi | 2,5 |
 
-| 7 | államtudományi | 2,25 |
+| 7 | közigazgatási, rendészeti és katonai | 2,5 |
 
-| 8 | műszaki | 2,25 |
+| 8 | műszaki | 2,5 |
 
-| 9 | művészet | 2,5 |
+| 9 | művészet | 2,75 |
 
-| 10 | művészetközvetítés | 2,5 |
+| 10 | művészetközvetítés | 2,75 |
 
-| 11 | orvos- és egészségtudomány | 2,25 |
+| 11 | orvos- és egészségtudomány | 2,5 |
 
-| 12 | pedagógusképzés | 2,5 |
+| 12 | pedagógusképzés | 2,75 |
 
-| 13 | sporttudomány | 2,5 |
+| 13 | sporttudomány | 2,75 |
 
-| 14 | társadalomtudomány | 2,5 |
+| 14 | társadalomtudomány | 2,75 |
 
-| 15 | természettudomány | 2,25 |
+| 15 | természettudomány | 2,5 |
 
 [^169]: A 9. melléklet 4.1. pontja a 169/2016. (VII. 1.) Korm. rendelet 36. § (3) bekezdése szerint módosított szöveg.
 [^170]: A 9. melléklet 4.2. pontja a 169/2016. (VII. 1.) Korm. rendelet 36. § (3) bekezdése szerint módosított szöveg.
@@ -693,4 +693,4 @@ Súlyozott tanulmányi átlag átsoroláshoz
 [^183]: A 9. melléklet 6.10. pontja a 169/2016. (VII. 1.) Korm. rendelet 38. § i) pontja szerint módosított szöveg.
 [^184]: A 9. melléklet 6. pont 6.12. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be, szövege a 169/2016. (VII. 1.) Korm. rendelet 36. § (3) bekezdésével megállapított szöveg.
 [^185]: A 9. melléklet 6. pont 6.13. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be, szövege a 169/2016. (VII. 1.) Korm. rendelet 36. § (3) bekezdésével megállapított szöveg.
-[^186]: A 10. mellékletet a 345/2015. (XI. 19.) Korm. rendelet 88. § (6) bekezdése iktatta be, szövege a 282/2016. (IX. 21.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^186]: A 10. mellékletet a 345/2015. (XI. 19.) Korm. rendelet 88. § (6) bekezdése iktatta be, szövege ugyanezen módosító rendelet 88. § (7) bekezdésével megállapított szöveg.
