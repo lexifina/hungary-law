@@ -30,7 +30,7 @@ c)
 
 (7) E törvénynek – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról szóló 2017. évi XXV. törvénnyel (a továbbiakban: Módtv2.) megállapított – 9. § (2a) és (2b) bekezdésében, 76. § (1) és (1a) bekezdésében meghatározott feltételeket – föderatív állam esetében annak központi kormányzatával létrejött előzetes megállapodás kivételével – a 2017. szeptember 1-jén magyarországi működési engedéllyel rendelkező külföldi felsőoktatási intézménynek 2018. január 1-jéig kell teljesíteni. Föderatív állam esetén az ennek alapjául szolgáló előzetes megállapodást a Módtv2. hatálybalépését követő hat hónapon belül kell megkötni. A feltételeket nem teljesítő külföldi felsőoktatási intézmény működési engedélyét az oktatási hivatal visszavonja és 2018. január 1-jét követően a külföldi felsőoktatási intézmény magyarországi képzésének első évfolyamára hallgató nem vehető fel azzal, hogy a 2018. január 1-jén már megkezdett magyarországi képzések változatlan feltételek mellett kifutó rendszerben – de legfeljebb a 2020/2021-es tanévben – fejezhetők be.
 
-(8)
+(8) E törvénynek – a Módtv2-vel megállapított – 77. § (4) bekezdésében foglaltakat első alkalommal a 2018/2019. tanévben indított képzések tekintetében kell alkalmazni, azzal, hogy a már megkezdett képzések változatlan feltételek mellett kifutó rendszerben – de legfeljebb a 2020/2021-es tanévben – fejezhetők be.
 
 (9)
 

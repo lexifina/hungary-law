@@ -41,11 +41,3 @@
 ## c) a jelentkező KÜNY kapcsolati kódja.
 
 ## 2. Az 1–1/A. pontban megjelölt – az 1. pont a), b), i)–m) alpont, illetve az 1/A. pont szerinti adatok tekintetében a felsőoktatási információs rendszer működtetéséért felelős szerv által átadott – adatok kezelésére a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv jogosult.
-
-## 3. Az adatkezelés célja:
-
-## Az állami (rész)ösztöndíjas hallgató által vállalt kötelezettségek teljesítésének nyomon követése, ellenőrzése.
-
-## 4. Az adatkezelés időtartama:
-
-## Az adatok a hallgató részére a 48/A. §-ban meghatározott feltételek teljesítésétől számított 5 évig kezelhetőek. Amennyiben hallgatói jogviszony létesítésére nem kerül sor, a jelentkező 1/A. pont szerinti adatai a jelentkezéstől számított 1 évig kezelhetők.
