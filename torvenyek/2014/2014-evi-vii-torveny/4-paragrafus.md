@@ -10,7 +10,7 @@ b) a szőlész-borász gazdasági aktából a 479/2008/EK tanácsi rendeletnek a
 
 c) az állatok Egységes Nyilvántartási és Azonosítási Rendszerében (ENAR) szereplő adatokat,
 
-d) az Országos Erdőállomány Adattárból az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 38. § (2) bekezdés a) és b) pontjában foglalt adatokat,
+d) az Országos Erdőállomány Adattárból az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 18. § (7) bekezdés a)–c) pontjában foglalt adatokat,
 
 e) az Országos Vadgazdálkodási Adattárból a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 48. § (2) bekezdés b) és c) pontjában foglalt adatokat,
 
