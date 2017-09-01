@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-157-20-
 | 2017-06-25 | 2017-157-20-22.2 | 2010: CXXX. törvény |
 | 2017-07-01 | 2017-157-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-07-02 | 2017-157-20-22.4 | 2010: CXXX. törvény |
+| 2017-09-01 | 2017-157-20-22.5 | 2010: CXXX. törvény |

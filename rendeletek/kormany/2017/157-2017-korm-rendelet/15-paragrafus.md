@@ -1,4 +1,4 @@
-## 14. §[^8]
+## 14. §[^7]
 
 ## 7. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 2. § (2) bekezdése, a 9. §, a 10. § és a 3. melléklet 2017. szeptember 1-jén lép hatályba.
 
-[^8]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
