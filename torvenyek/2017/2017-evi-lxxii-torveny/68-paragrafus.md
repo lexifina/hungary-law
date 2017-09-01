@@ -1,0 +1,3 @@
+68. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 62. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Tanács elnöke és tagjai által jelzett, a saját és közeli hozzátartozó tekintetében összeférhetetlennek minősülő szervezet támogatási igénye érvénytelen. A kollégium elnöke és tagjai által jelzett, a saját és közeli hozzátartozó tekintetében összeférhetetlennek minősülő szervezet támogatási igénye annak a kollégiumnak a tekintetében érvénytelen, ahova a kollégium elnökének és tagjainak megbízása szól.”
