@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-2-00-00
 | 2017-03-28 | 2017. évi XX. törvény | 2012-2-00-00.32 |
 | 2017-05-05 | 2017. évi XXXIII. törvény | 2012-2-00-00.33 |
 | 2017-05-23 | 2017. évi XXXIX. törvény | 2012-2-00-00.34 |
+| 2017-09-01 | 2017. évi LVI. törvény | 2012-2-00-00.35 |
