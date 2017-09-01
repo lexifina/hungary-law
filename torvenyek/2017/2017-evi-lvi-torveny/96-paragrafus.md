@@ -1,0 +1,1 @@
+96. § A termőföld tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszására irányuló jogügyletek feltárásáról és megakadályozásáról szóló 2014. évi VII. törvény 4. § (2) bekezdés d) pontjában a „38. § (2) bekezdés a) és b) pontjában” szövegrész helyébe a „18. § (7) bekezdés a)–c) pontjában” szöveg lép.

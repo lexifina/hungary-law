@@ -1,0 +1,3 @@
+54. § Az Evt. 79. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A termelésből kivont erdők területén tíz éven belül tervezett tevékenységgel, illetve létesítménnyel kapcsolatos eljárásban – amennyiben az a szomszédos erdőkre hatással van – erdővédelmi szakkérdésként azt is vizsgálni kell, hogy a termelésből történő kivonás a tervezett tevékenységre, illetve létesítményre tekintettel is engedélyezhető lett volna-e. A tervezett tevékenység, illetve létesítmény nem engedélyezhető, ha a tevékenységre, illetve létesítményre tekintettel az erdészeti hatóság korábban nem engedélyezte volna a termelésből történő kivonást.”
