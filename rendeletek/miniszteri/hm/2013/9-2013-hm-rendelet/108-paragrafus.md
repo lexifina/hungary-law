@@ -1,6 +1,6 @@
 ## 31. Képzésre történő vezénylés, tanulmányi szerződés
 
-108. §[^162] (1) Az állomány tagja a Hjt. 42. § (2) bekezdés g) pontja szerint vezénylés alapján vesz részt a HM képzési katalógusban szereplő
+108. §[^178] (1) Az állomány tagja a Hjt. 42. § (2) bekezdés g) pontja szerint vezénylés alapján vesz részt a HM képzési katalógusban szereplő
 
 a) katonai mesterképzésen,
 
@@ -22,10 +22,11 @@ c) az (1) bekezdés c) és d) pontja kivételével a katonai képzés keretében
 
 történő részvételét tanulmányi szerződés megkötésével támogathatja.
 
-(3) A Honvédség a tanfolyamrendszerű másod-helikoptervezető képzésen való részvételt – a kiképzésért felelős központi szervezet által kiírt és elbírált pályázat alapján – tanulmányi szerződéssel támogatja.
+(3)[^179] A Honvédség a tanfolyamrendszerű másod-helikoptervezető vagy légijármű-vezető képzésen való részvételt – a kiképzésért felelős központi szervezet által kiírt és elbírált pályázat alapján – tanulmányi szerződéssel támogatja.
 
 (4) A (2) bekezdés a) pontja szerinti képzés tanulmányi szerződéssel történő támogatására az állomány tagja – az állományilletékes parancsnok előzetes egyetértésével, a miniszternek címezve – pályázhat. A tanulmányi szerződéssel támogatható pályázatokról a miniszter dönt.
 
 (5) A Hjt. 42. § (2) bekezdés g) pontja szerint vezénylést kell alkalmazni a HM képzési katalógusban szereplő kiképzésekre is.
 
-[^162]: A 108. § a 25/2016. (XII. 22.) HM rendelet 28. §-ával megállapított szöveg.
+[^178]: A 108. § a 25/2016. (XII. 22.) HM rendelet 28. §-ával megállapított szöveg.
+[^179]: A 108. § (3) bekezdése a 10/2017. (VIII. 31.) HM rendelet 25. § l) pontja szerint módosított szöveg.

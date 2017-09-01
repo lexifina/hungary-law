@@ -1,4 +1,4 @@
-## 16. [^84] Vezénylés szolgálati feladat ellátására és képzésre
+## 16. [^97] Vezénylés szolgálati feladat ellátására és képzésre
 
 51. § (1) A halaszthatatlan szolgálati feladat kivételével az állomány tagját a Hjt. 49. §-a szerinti vezénylésről annak kezdete előtt legkésőbb tíz nappal tájékoztatni kell.
 
@@ -8,4 +8,4 @@
 
 (4) A Hjt. 42. § (2) bekezdés a) pontjában meghatározott, 30 napot meg nem haladó vezénylés esetén – ideértve az azonos és más helységbe történő vezénylést is – a munkáltató döntéséről az egyes költségtérítésekről szóló miniszteri rendelet szerinti kiküldetési rendelvény készül.
 
-[^84]: A 16. alcím (51. §) a 4/2015. (VI. 22.) HM rendelet 12. §-ával megállapított szöveg.
+[^97]: A 16. alcím (51. §) a 4/2015. (VI. 22.) HM rendelet 12. §-ával megállapított szöveg.

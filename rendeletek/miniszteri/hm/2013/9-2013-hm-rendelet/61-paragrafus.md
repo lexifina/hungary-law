@@ -8,6 +8,6 @@ c) az illetményből határozat vagy jogszabály alapján levonandó tartozást 
 
 d) a szolgálati viszony megszűnésének, megszüntetésének évében járó alap- és pótszabadság mértékét, az igénybe vett szabadság időtartamát, valamint a szabadság megváltásaként kifizetett napok számát, és
 
-e)[^94] a kifizetésre került végkielégítést vagy visszailleszkedési támogatást, valamint a kifizetésre került jubileumi jutalom alapjául szolgáló időtartamot és annak mértékét.
+e)[^107] a kifizetésre került végkielégítést vagy visszailleszkedési támogatást, valamint a kifizetésre került jubileumi jutalom alapjául szolgáló időtartamot és annak mértékét.
 
-[^94]: A 61. § e) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 23. pontja szerint módosított szöveg.
+[^107]: A 61. § e) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 23. pontja szerint módosított szöveg.

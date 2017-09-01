@@ -1,5 +1,5 @@
-171. § (1)[^201]
+171. § (1)[^222]
 
 (2) A KNBSZ az egyes szolgálati beosztáshoz tartozó, 27. § szerinti követelményeket a beosztási könyvben, valamint a munkaköri leírásokban rögzíti.
 
-[^201]: A 171. § (1) bekezdését a 4/2015. (VI. 22.) HM rendelet 29. § l) pontja hatályon kívül helyezte.
+[^222]: A 171. § (1) bekezdését a 4/2015. (VI. 22.) HM rendelet 29. § l) pontja hatályon kívül helyezte.

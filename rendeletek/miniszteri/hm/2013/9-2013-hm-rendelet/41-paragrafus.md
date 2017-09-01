@@ -1,1 +1,0 @@
-## 40. § A szolgálati érdekből történő azonos vagy alacsonyabb beosztásba áthelyezés esetén a szolgálati viszony módosítására irányuló eljárás az állomány tagja részére a tervezett beosztásról szóló tájékoztatással kezdődik.

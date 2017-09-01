@@ -1,4 +1,4 @@
-## 266/A. §[^249] A honvéd tisztjelöltnek a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 31. § (1) bekezdése szerint engedélyezett párhuzamos képzésen való részvételét a Honvédség tanulmányi szerződés megkötésével támogathatja. A tanulmányi szerződésre – a 260. § (2) bekezdésétől eltérően – a 109–117. §-t kell alkalmazni.
+## 266/A. §[^272] A honvéd tisztjelöltnek a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 31. § (1) bekezdése szerint engedélyezett párhuzamos képzésen való részvételét a Honvédség tanulmányi szerződés megkötésével támogathatja. A tanulmányi szerződésre – a 260. § (2) bekezdésétől eltérően – a 109–117. §-t kell alkalmazni.
 
 ## 74. A VII. Fejezethez kapcsolódó rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A fegyelmi eljárás elrendelésétől a honvéd tisztjelölt képviseletében a hallgatói érdekképviselet tagja is eljárhat.
 
-[^249]: A 266/A. §-t a 25/2016. (XII. 22.) HM rendelet 43. §-a iktatta be.
+[^272]: A 266/A. §-t a 25/2016. (XII. 22.) HM rendelet 43. §-a iktatta be.

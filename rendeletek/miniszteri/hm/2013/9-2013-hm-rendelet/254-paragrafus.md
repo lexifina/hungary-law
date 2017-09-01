@@ -4,7 +4,7 @@ a) a behívás tervezett időpontja előtt 30 nappal írásban tájékoztatja a 
 
 b) a behívóparancsot a behívásra tervezett önkéntes tartalékos katona részére legalább 15 nappal a bevonulás időpontja előtt köteles postai úton megküldeni, és
 
-c)[^241] a megyei, fővárosi, valamint a járási, fővárosi kerületi katonai igazgatási összekötő beosztásra szerződést kötött önkéntes műveleti tartalékos katonákkal, valamint az önkéntes területvédelmi tartalékosokkal, ha a feladat végrehajtása megköveteli, telefonon vagy elektronikus úton a bevonulás időpontja előtt legalább 3 nappal közli a bevonulási parancsot.
+c)[^263] a megyei, fővárosi, valamint a járási, fővárosi kerületi katonai igazgatási összekötő beosztásra szerződést kötött önkéntes műveleti tartalékos katonákkal, valamint az önkéntes területvédelmi tartalékosokkal, ha a feladat végrehajtása megköveteli, telefonon vagy elektronikus úton a bevonulás időpontja előtt legalább 3 nappal közli a bevonulási parancsot.
 
 (2) Az (1) bekezdés a) pontja szerinti tájékoztatót nem kell megküldeni, ha a behívás elrendelése és a behívás időpontja között kevesebb mint 30 nap van.
 
@@ -12,9 +12,9 @@ c)[^241] a megyei, fővárosi, valamint a járási, fővárosi kerületi katonai
 
 a) a bevonulási parancsot telefonon vagy elektronikus úton az önkéntes műveleti tartalékos katonával a bevonulás időpontja előtt legalább 8 nappal, az önkéntes védelmi tartalékos katonával a bevonulás időpontja előtt legalább 3 nappal közli, vagy
 
-b)[^242] a bevonulási parancsot – a megyei, fővárosi, valamint a járási, fővárosi kerületi katonai igazgatási összekötő beosztásra szerződést kötött önkéntes műveleti tartalékos katona, valamint az önkéntes területvédelmi tartalékos katona részére, ha a feladat végrehajtása megköveteli – telefonon vagy elektronikus úton a bevonulás időpontja előtt 3 nappal is közölheti.
+b)[^264] a bevonulási parancsot – a megyei, fővárosi, valamint a járási, fővárosi kerületi katonai igazgatási összekötő beosztásra szerződést kötött önkéntes műveleti tartalékos katona, valamint az önkéntes területvédelmi tartalékos katona részére, ha a feladat végrehajtása megköveteli – telefonon vagy elektronikus úton a bevonulás időpontja előtt 3 nappal is közölheti.
 
 (4) A (3) bekezdés szerint közölt bevonulási parancs esetén az önkéntes tartalékos katona munkáltatóját a központi katonai igazgatási szerv a közlést követő napon telefonon vagy elektronikus levélben értesíti a tervezett bevonulási időpontról.
 
-[^241]: A 254. § (1) bekezdés c) pontja a 25/2016. (XII. 22.) HM rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^242]: A 254. § (3) bekezdés b) pontja a 25/2016. (XII. 22.) HM rendelet 41. § (2) bekezdésével megállapított szöveg.
+[^263]: A 254. § (1) bekezdés c) pontja a 25/2016. (XII. 22.) HM rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^264]: A 254. § (3) bekezdés b) pontja a 25/2016. (XII. 22.) HM rendelet 41. § (2) bekezdésével megállapított szöveg.
