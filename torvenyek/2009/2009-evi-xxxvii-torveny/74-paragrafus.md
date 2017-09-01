@@ -1,21 +1,23 @@
-74. § (1) Az erdőterv alapján tarvágás akkor végezhető, ha:
+74. § (1) Tarvágás következtében az erdőben
 
-a) sík és dombvidéken gazdasági elsődleges rendeltetésű faültetvényekben és kultúrerdőkben húsz hektárnál, gazdasági elsődleges rendeltetésű származék és átmeneti erdőkben tíz hektárnál, egyéb erdőkben öt hektárnál nagyobb,
+a) sík és dombvidéki
 
-b) hegyvidéken öt hektárnál nagyobb,
+aa) gazdasági elsődleges rendeltetésű faültetvényekben és kultúrerdőkben húsz hektárnál,
 
-egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
+ab) gazdasági elsődleges rendeltetésű származék és átmeneti erdőkben tíz hektárnál,
 
-(2) A tarvágás során hullámtéren a töltés és a folyó között egybefüggő, felújítás alatt álló vágásterület nem keletkezhet, kivéve ha a folyó és a töltés között 50 méternél kisebb szélességű erdő található.
+ac) az aa)–ab) alpont alá nem tartozó, egyéb erdőkben öt hektárnál nagyobb,
 
-(3) Az erdészeti hatóság a területi kiterjedéstől függetlenül a tarvágás végrehajtását megtiltja, ha az az erdő talajszerkezetének jelentős romlásával jár.
+b) hegyvidéki erdőben öt hektárnál nagyobb
 
-(4) Sarjeredetű természetes felújítás alkalmazásánál – az e törvény végrehajtására kiadott jogszabály eltérő rendelkezése hiányában – akác esetében május 1., egyéb fafaj esetében április 1. és szeptember 1. között fakitermelés nem végezhető.
+egybefüggő erdőfelújítási kötelezettség alatt álló terület nem keletkezhet.
 
-(5) Az erdészeti hatóság a tarvágás végrehajtását az erdő talajának védelmét szolgáló, az e törvény végrehajtására kiadott jogszabályban meghatározott feltétel teljesítéséhez kötheti.
+(2) Az (1) bekezdésben foglalt területi korláttól
 
-(6) Az (1) bekezdés alkalmazásában:
+a) erdőkárok bekövetkezése esetén,
 
-a) felújítás alatt álló vágásterületnek minősül az üres vágásterületen felül a folyamatban levő erdőfelújítás területe is, amíg az erdészeti hatóság az erdőfelújítást befejezetté nem nyilvánítja;
+b) természetvédelmi célból, vagy
 
-b) a tervezett tarvágás területével egybefüggőnek minősül az a felújítás alatt álló terület, amelyet kevesebb, mint nyolcvan méter széles, felújítás alatt nem álló, faállománnyal borított erdő választ el tőle.
+c) gyorsan növő főfafajjal telepített erdő esetén, ha az erdőtelepítés – az erdészeti hatóság engedélyével – az (1) bekezdés alapján meghatározott területi korlátnál nagyobb egybefüggő területen, egyszerre valósult meg,
+
+el lehet térni.

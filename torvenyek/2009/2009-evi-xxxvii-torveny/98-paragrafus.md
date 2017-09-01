@@ -1,42 +1,78 @@
-## Az erdészeti szakszemélyzet kötelezettségei és jogosultságai
+98. § (1) Az erdészeti hatóság az erdészeti munkák szakmai irányítására és az erdő őrzésére, valamint az erdőkezelésre jogosult személyekről, illetve vállalkozásokról erdészeti szakirányítói névjegyzéket vezet.
 
-98. § (1) Az erdészeti szakszemélyzet szakirányítási tevékenysége során köteles
+(1a) Az erdészeti szakirányítói névjegyzék az erdészeti szakszemélyzet, illetve a jogosult erdészeti szakszemélyzet alábbi adatait tartalmazza:
 
-a) az erdő fennmaradását, fejlődését veszélyeztető állapotról, eseményről, vad általi károsításról való tudomásszerzést követően az erdőgazdálkodót és az erdészeti hatóságot haladéktalanul értesíteni, illetve a veszély elhárításában a tőle elvárható módon közreműködni;
+a) családi és utónév, ideértve a születési családi és utónevet,
 
-b) az erdőben jogszerűen végzett munkák szakmai irányítását elvégezni.
+b) születési hely, idő,
 
-(1a) Az erdészeti hatóság az erdészeti munkák szakmai irányítására és az erdő őrzésére jogosult személyekről erdészeti szakszemélyzeti és jogosult erdészeti szakszemélyzeti névjegyzéket vezet. A névjegyzékben a rendészeti feladatokat ellátó erdészeti szakszemélyzetet, illetve jogosult erdészeti szakszemélyzetet elkülönítetten kell nyilvántartani.
+c) anyja neve,
 
-(1b) A névjegyzék az erdészeti szakszemélyzet alábbi adatait tartalmazza:
+d) lakcím vagy tartózkodási hely,
 
-a) természetes személyazonosító adatok,
+e) adóazonosító jel,
 
-b) a szakszemélyzet besorolása:
+f) levelezési cím,
 
-ba) erdészeti szakszemélyzetként, vagy
+g) telefonszám, e-mail-cím,
 
-bb) jogosult erdészeti szakszemélyzetként,
+h) az erdészeti szakszemélyzet kiemelt besorolásai:
 
-bc) felsőfokú végzettségű jogosult erdészeti szakszemélyzetként,
+ha) jogosult erdészeti szakszemélyzet,
+
+hb) felsőfokú végzettségű erdészeti szakszemélyzet,
+
+hc) rendészeti feladatokat ellátó erdészeti szakszemélyzet,
+
+i) nyilvántartási kód,
+
+j) a továbbképzéseken való részvételt igazoló bejegyzések,
+
+k) az erdészeti hatóság által az erdészeti szakszemélyzettel szemben alkalmazott szankciók
+
+(1b) Az erdészeti szakirányítói névjegyzék az erdészeti szakirányító vállalkozás alábbi adatait tartalmazza:
+
+a) egyéni vállalkozó esetében:
+
+aa) családi és utónév,
+
+ab) székhely,
+
+ac) telephely,
+
+ad) levelezési cím,
+
+ae) egyéni vállalkozói nyilvántartási szám,
+
+af) adószám,
+
+b) jogi személy esetében:
+
+ba) szervezet megnevezése,
+
+bb) székhely,
+
+bc) telephely,
+
+bd) képviselő neve,
+
+be) adószám,
 
 c) nyilvántartási kód,
 
-d) rendészeti feladatok ellátása,
+d) erdőkezelésre való jogosultság fennállása esetén a jogosultság ténye,
 
-e) a továbbképzéseken való részvételt igazoló bejegyzések,
+e) szakirányító vállalkozás által alkalmazott erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet azonosító adatai, valamint
 
-f) lakcím vagy tartózkodási hely,
+f) az erdészeti hatóság által az erdészeti szakirányító vállalkozással szemben alkalmazott szankciók.
 
-g) telefonszám, e-mail cím, valamint
+(1c) Az erdészeti szakirányítói névjegyzék az (1a) bekezdés h)–k) pontjában, valamint az (1b) bekezdés c)–f) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-h) az erdészeti hatóság által az erdészeti szakszemélyzettel szemben alkalmazott szankciók.
+(1d) Az erdészeti szakirányítói névjegyzék adatai országosan vezetettek, – az (1a) bekezdés b), c) és e) pontban foglaltak kivételével – nyilvánosak, azokból az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – elektronikus úton is – betekintés biztosítható, és szemlemásolat adható.
 
-(1c) Az (1a) bekezdés szerinti nyilvántartás az (1b) bekezdés a), f), valamint g) pontjában foglalt adatok kivételével közhiteles hatósági nyilvántartásnak minősül.
+(1e) A névjegyzékben szerepelő személy a névjegyzékben szereplő adataiban bekövetkező változást köteles az erdészeti hatóság állandó lakóhelye, tartózkodási helye, székhelye vagy telephelye szerint illetékes területi szervéhez 15 napon belül bejelenteni.
 
-(1d) A szakszemélyzet a névjegyzékben szereplő adataiban bekövetkező változást köteles az erdészeti hatóság állandó lakóhely, vagy tartózkodási hely szerint illetékes területi szervéhez 15 napon belül bejelenteni.
-
-(1e) A rendészeti feladatokat ellátó erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
+(1f) A rendészeti feladatokat ellátó erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
 
 (2) A rendészeti feladatokat ellátó erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet őrzési tevékenysége során az erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton jogosult
 

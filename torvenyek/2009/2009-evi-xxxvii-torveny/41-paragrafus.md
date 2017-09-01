@@ -1,33 +1,61 @@
 ## Az éves erdőgazdálkodási tevékenység gyakorlása
 
-41. § (1) Az erdőgazdálkodó az erdő fenntartására, védelmére, valamint az erdei haszonvételek gyakorlására irányuló, az e törvény végrehajtására kiadott jogszabályban meghatározott erdőgazdálkodási tevékenységet az erdészeti hatósághoz történt előzetes bejelentést követően végezhet.
+41. § (1) Az erdőgazdálkodó
 
-(2) A bejelentésnek tartalmaznia kell az e törvény végrehajtására kiadott jogszabályban meghatározott fahasználati, erdőművelési tevékenységeket, valamint ha a bejelentett fahasználat következtében erdőfelújítási kötelezettség keletkezik, az erdőgazdálkodó által az erdőtervi lehetőségek közül választott erdősítési előírást, valamint a jogosult erdészeti szakszemélyzet ellenjegyzését.
+a) az erdőtervben foglalt erdősítési, erdőnevelési és fakitermelési tevékenységet – a (2) bekezdés kivételével –,
 
-(3) Az erdőterv előírásainak megfelelően tervezett és bejelentett erdőgazdálkodási tevékenységek a bejelentést követő 31. naptól, a 100 erdőrészletnél vagy 500 hektárnál nagyobb területet érintő bejelentés esetén a 46. naptól az erdőtervvel összhangban, az abban foglaltaknak megfelelően, a bejelentésben megjelölt évben végezhetők. A bejelentésben csak a bejelentés éve vagy a bejelentés időpontját követő naptári év jelölhető meg.
+b) a (3) bekezdésben foglalt esetben az erdőtervben nem szereplő fakitermelést
 
-(4) Az erdészeti hatóság az erdőgazdálkodási tevékenységeket feltételhez köti, korlátozza, súlyos vagy ismételt jogsértés esetén megtiltja, amennyiben
+a tevékenység megkezdését legkésőbb 21 nappal megelőzően az erdészeti hatóság részére tett bejelentést követően végezhet.
 
-a) az erdőgazdálkodó gazdálkodása során e törvényben és az e törvény végrehajtására kiadott jogszabályban előírt szabályokat megszegte,
+(2) Az erdőgazdálkodási tevékenység az (1) bekezdés szerinti bejelentés mellőzésével is végrehajtható, ha
 
-b) az erdő állapotában korábban előre nem látható esemény következett be, vagy
+a) az erdőgazdálkodó a 33. § (8) bekezdésében foglalt kérelmében az erdőgazdálkodási tevékenység tárgyévben történő végrehajtására vonatkozó szándékát jelezte, és az erdőgazdálkodási tevékenységet az erdészeti hatóság az erdőterv módosításával lehetővé tette,
 
-c) a védett természeti területen a védelmi célok megváltozását eredményező, illetve azokat veszélyeztető, korábban előre nem látható esemény következett be.
+b) az erdőgazdálkodási tevékenységet a 73. § (6) bekezdése vagy a 106. § (1) bekezdése alapján az erdészeti hatóság rendelte el, vagy
 
-(5) Védett természeti területen, Natura 2000 területen a természetvédelmi hatóság a (4) bekezdés szerinti eljárás lefolytatását az erdészeti hatóságnál az ott megfogalmazott eseteken túl akkor is kezdeményezheti, ha az erdőgazdálkodó erdőgazdálkodási tevékenysége során a természetvédelmi célok megvalósítására vonatkozó előírásokat megszegte.
+c) az erdő engedélyezett igénybevétele iránti kérelemben az engedélyes a fakitermelés tárgyévi vagy a tárgyévet követő évi végrehajtására vonatkozó szándékát előre jelezte.
 
-(6) A (4) és (5) bekezdés alapján előírt feltételnek, elrendelt korlátozásnak, tiltásnak a bekövetkezett eseménnyel arányosnak kell lennie.
+(3) Az erdőtervben nem szereplő fakitermelésre az alábbi esetekben van lehetőség:
 
-(7) Az erdészeti hatóság a (4) bekezdés szerinti eljárás megindításáról az erdőgazdálkodót és a jogosult erdészeti szakszemélyzetet is köteles értesíteni.
+a) az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület kezelését, fenntartását szolgáló fakitermelés,
 
-(8) A tárgyévben megkezdett, de be nem fejezett fakitermeléseket az erdészeti hatóság részére be kell jelenteni, melyek a tárgyévet követő év végéig végrehajthatók.
+b) az erdészeti hatóság részére bejelentett erdőkár következtében károsodott, az erdőrészlet faállományának 10 százalékát meg nem haladó mennyiségű faanyag egészségügyi fakitermelés keretében történő kitermelése,
 
-(9) A működési területe szerint érintett, a védett természeti területek természetvédelmi kezeléséért felelős szerv minden olyan, a körzeti erdőtervezés időpontjában nem ismert adatot, tényt, változást haladéktalanul köteles az erdészeti hatóságnak a tudomásszerzést követően bejelenteni, amely a (4) bekezdés szerinti korlátozás elrendelését vonhatja maga után.
+c) a 7. § (1) bekezdés a), b) és c) pontja szerinti természetességi állapotra vonatkozó alapelvárású erdőben intenzíven terjedő fafajok egyéb termelésként történő kitermelése, illetve
 
-(10) Az (1) bekezdés szerinti, védett természeti területeket érintő bejelentések adatait az erdészeti hatóság – az e törvény végrehajtására kiadott jogszabályban foglaltak szerint – a természetvédelmi hatóságnak haladéktalanul megküldi.
+d) az erdő engedélyezett igénybevételéhez kapcsolódó fakitermelés.
 
-(11) A természetvédelmi hatóság a bejelentés kézhezvételétől számított 15 napon belül, a 100 erdőrészletnél vagy 500 hektárnál nagyobb területet érintő bejelentés esetén 30 napon belül a bejelentett erdőgazdálkodási tevékenység feltételhez kötését, korlátozását, tiltását kezdeményezheti az erdészeti hatóságnál, ha
+(4) A (3) bekezdésben foglalt fakitermelést a jogosult erdészeti szakszemélyzet felmérése alapján a (3) bekezdés
 
-a) az erdő állapotában korábban előre nem látható esemény következett be, vagy
+a) b) pontja esetén az erdőkár bejelentésben foglaltakkal összhangban,
 
-b) a védett természeti területen a védelmi célok megváltozását eredményező, illetve azokat veszélyeztető, korábban előre nem látható esemény következett be.
+b) b) és c) pontja esetén a kitermelésre tervezett fák szakszerű megjelölését követően,
+
+c) d) pontja esetén az erdő igénybevételét engedélyező határozatban foglaltakkal összhangban
+
+kell bejelenteni.
+
+(5) A 77. § (1) bekezdés d) pontja szerint igénybe vett területen a vezeték biztonsági övezetét sértő növényzet eltávolítását szolgáló fakitermelést a vezetékjog jogosultja is bejelentheti, illetve végrehajthatja
+
+a) ha ahhoz az erdőgazdálkodó – annak hiányában a tulajdonos – hozzájárul, vagy
+
+b) az a) pont szerinti hozzájárulás nélkül, ha a fakitermelést a vezetékjog jogosultjának jogszerű felhívására az erdőgazdálkodó vagy a tulajdonos nem végezte el.
+
+(6) Az erdészeti hatóság az erdőgazdálkodási tevékenységeket a 104/A. §-ban foglalt eljárás során a bekövetkezett eseménnyel arányosan feltételhez kötheti, korlátozhatja, vagy – az a) pontban foglalt esetben súlyos vagy ismételt jogsértés esetén – megtilthatja, ha
+
+a) az erdőgazdálkodó gazdálkodása során az e törvényben előírt szabályokat megszegte,
+
+b) az erdő állapotában korábban előre nem látható esemény következett be, amelyre tekintettel az erdőterv érintett tartalmának módosítása van folyamatban, vagy
+
+c) a védett természeti területen a védelmi célok megváltozását eredményező, illetve azokat veszélyeztető, korábban előre nem látható esemény következett be, amelyre tekintettel az erdőterv érintett tartalmának módosítása van folyamatban.
+
+(7) A (6) bekezdés a) pontjának alkalmazása tekintetében erdőkezelést is végző erdőgazdálkodó gazdálkodása alatt
+
+a) az erdőgazdálkodó erdőkezelésébe adott területre bejelentett tevékenység vonatkozásában a bejelentett erdőgazdálkodási tevékenységgel érintett önálló erdőgazdálkodási egységben,
+
+b) az erdőgazdálkodó jogszerű használatában álló területre bejelentett tevékenység vonatkozásában az erdőgazdálkodó jogszerű használatában álló önálló erdőgazdálkodási egységekben
+
+folytatott gazdálkodást kell érteni.
+
+(8) Az (1) bekezdés szerinti bejelentésben foglalt tevékenység legkorábban a tárgyév első napján kezdhető meg. A tárgyévben megkezdett, de be nem fejezett fakitermelés a részleges végrehajtás 42. §-ban foglaltak szerinti bejelentését követően a tárgyévet követő év végéig végrehajtható.

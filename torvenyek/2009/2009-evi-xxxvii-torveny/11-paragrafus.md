@@ -1,19 +1,29 @@
 ## Szabad rendelkezésű erdő
 
-11. § (1) Szabad rendelkezésű erdő:
+11. § (1) Az erdészeti hatóság a szabad rendelkezésű erdőt az Adattárban a 38. § (2) bekezdés a), b) és d) pontjában foglalt egyszerűsített adattartalommal tartja nyilván.
 
-a) az erdészeti hatóság engedélye alapján telepített erdő, amennyiben e törvény hatálybalépése után nemzeti vagy közösségi támogatás nélkül létesült;
+(2) Szabad rendelkezésű erdő
 
-b) az e törvény hatálybalépése előtt faültetvénynek minősülő terület;
+a) telepítését,
 
-c) a termőföldről szóló törvény hatálybalépéséig zártkertnek minősülő nem védett természeti területen fekvő földrészleteken nemzeti vagy közösségi támogatás nélkül létesült faállomány;
+b) felújítását, valamint
 
-d) a bányatelken lévő nem erdő művelési ágú, más célú igénybevételre engedélyezett területen létrejött önerdősülés;
+c) faállományának teljes vagy részleges kitermelését
 
-e) a tulajdonos kérelme alapján – ideértve az ingatlan-nyilvántartásban való feltüntetésre irányuló kérelmet is – nyilvántartásba vett, a 6. § (1) bekezdés b) pontja szerinti önerdősülés.
+– annak megkezdése előtt legkésőbb 21 nappal – előzetesen be kell jelenteni az erdészeti hatóság részére.
 
-(2) Nem tekinthető szabad rendelkezésű erdőnek az erdő igénybevételének ellentételezéseként létesült csereerdősítés.
+(3) Szabad rendelkezésű erdő mezőgazdasági művelésbe vonását előzetesen be kell jelenteni az erdészeti hatóság részére.
 
-(3) A szabad rendelkezésű erdőre e törvény rendelkezései közül a károsítók károkozása elleni védelemre (58–59. §), a káros tevékenységek elleni védelemre [61. § (1) bekezdés b) pont, (2) bekezdés], az erdő talajának védelmére (62–63. §), az erdő tűz elleni védelmére (64–67. §), az e törvény végrehajtására kiadott jogszabályban meghatározott eltérésekkel az erdő telepítésére (45–48. §), nyilvántartására [17. § (1)–(5) bekezdés, (8) bekezdés a) pont, (9) bekezdés, 18. § (1), (2) és (5) bekezdés, (6) bekezdés a)–c) pont] a fakitermelésre (70. §) és az erdő látogatására (91–96. §) vonatkozó rendelkezéseket kell alkalmazni.
+(4) A (2) bekezdésben foglalt tevékenység végrehajtását annak befejezését követő 30 napon belül be kell jelenteni az erdészeti hatóság részére.
 
-(4) Amennyiben az erdő tulajdonosa az erdészeti hatóságnál kérelmezi az Adattárban az (1) bekezdés alapján szabad rendelkezésű erdőként nyilvántartott erdő nem szabad rendelkezésű erdőként való nyilvántartását, az erdő átsorolását követően az erdőre e törvénynek a nem szabad rendelkezésű erdőkre vonatkozó szabályait kell alkalmazni.
+(5) Az erdészeti hatóság a telepítési feltételeknek nem megfelelően telepített, felújított vagy fenntartott szabad rendelkezésű erdő faállományának teljes vagy részleges felszámolását rendeli el, ha
+
+a) az a termőhelyre vagy a környező erdők életközösségére, természetességi állapotára nézve jelentős káros hatással van, vagy előreláthatólag jelentős káros hatással lesz, illetve
+
+b) annak fennmaradása jogszabályba ütközik.
+
+(6) Az erdészeti hatóság a szabad rendelkezésű erdőt törli az Adattárból, ha az a 6. § (2) bekezdésében foglalt feltételeknek már nem felel meg.
+
+(7) Az erdészeti hatóság a szabad rendelkezésű erdőt a földhasználati nyilvántartásban szereplő földhasználónak – a tulajdonos és az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, illetve haszonélvezeti jog jogosultjának hozzájárulásával benyújtott – kérelmére átminősíti a 6. § (1) bekezdés a) pontja szerinti erdővé.
+
+(8) A szabad rendelkezésű erdő esetében – az e §-ban szereplő rendelkezések mellett – e törvény rendelkezései közül az erdőtelepítés feltételeire (45. §), a károsítók károkozása elleni védelemre (58. és 59. §), a káros tevékenységek elleni védelemre [61. § (1) bekezdés b) pont, 61. § (2) bekezdés], az erdő talajának védelmére (62. § és 63. §), az erdő tűz elleni védelmére (64–67. §), erdőgazdálkodási célú erdei járműforgalomra (87. § és 88. §), az erdő látogatására (91–96. §), valamint a bejelentési kötelezettségre (102. §) vonatkozó rendelkezéseket is alkalmazni kell.

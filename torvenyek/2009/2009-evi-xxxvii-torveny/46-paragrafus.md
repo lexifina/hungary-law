@@ -1,3 +1,1 @@
-46. § (1) Az erdőtelepítési-kivitelezési terv tartalmát és elkészítésének részletes szabályait az e törvény végrehajtására kiadott jogszabály állapítja meg.
-
-(2) A jóváhagyott erdőtelepítési-kivitelezési terv tartalmát – szükség szerint a megvalósulásnak megfelelő módosításokkal – a telepítés elsőkivitelének végrehajtása után az erdészeti hatóság az Adattáron átvezeti, és az engedélyest erdőgazdálkodóként nyilvántartásba veszi.
+46. § Az erdészeti hatóság az erdőtelepítés végrehajtását, illetve az erdőtelepítések állapotát rendszeresen ellenőrzi (a továbbiakban: erdőtelepítések műszaki átvétele). Az erdőtelepítések műszaki átvételére évente, a tárgyév október 15-ig bezárólag kerül sor. Az ellenőrzés eredményeit az erdészeti hatóság műszaki átvételi jegyzőkönyvben rögzíti.

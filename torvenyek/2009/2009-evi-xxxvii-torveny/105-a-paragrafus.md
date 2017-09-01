@@ -32,6 +32,10 @@ c) a közlekedési igazgatási hatóságtól – az engedély nélküli fakiterm
 
 ca) tulajdonosának (üzemben tartójának) természetes személyazonosító adataira, lakcímére, állampolgárságára (hontalanságára), egyéni vállalkozó esetében – kérelmére – székhelyére, telephelyére, jogi személy vagy jogi személyiséggel nem rendelkező szervezet megnevezésére, székhelye (telephelye) címére, cégjegyzék-, vagy nyilvántartási számára,
 
-cb) tulajdonjog-átruházásának időpontjára, a tulajdonosváltozás bejelentésének tényére és időpontjára
+cb) tulajdonjog-átruházásának időpontjára, a tulajdonosváltozás bejelentésének tényére és időpontjára;
+
+d) a rendőrségtől – az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet nyilvántartásával kapcsolatos feladatainak ellátásához szükséges mértékben – az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény hatálya alá tartozó, a rendőrség által rendészeti feladatot ellátó személyként nyilvántartásba vett erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet természetes személyazonosító adataira, valamint a szolgálati igazolványa és szolgálati jelvénye sorszámára
 
 vonatkozó adat igénylésére.
+
+(7) Az erdészeti hatóság által vezetett közhiteles hatósági nyilvántartás adataiban bekövetkező változások bejelentése azon adatok tekintetében, amelyeket más nyilvántartás tartalmaz közhitelesen, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a bejelentésre kötelezett személy kéri – a bejelentési kötelezettségre meghatározott határidőben értesíti az erdészeti hatóságot.

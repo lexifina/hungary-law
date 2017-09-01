@@ -14,9 +14,9 @@ c) az erdőt veszélyeztető tevékenység;
 
 d) az erdő talaját veszélyeztető tevékenység;
 
-e) hó, jég, szél, tűz, légszennyezés, árvíz, talajvízszint változása, fagy (abiotikus erdőkár).
+e) hó, jég, szél, tűz, légszennyezés, árvíz, talajvízszint változása, belvíz, aszály, fagy (abiotikus erdőkár).
 
-(2) Az erdő fejlődésének, egészségi állapotának folyamatos figyelemmel kísérése, ellenőrzése és erdészeti növényvédelmi előrejelzés készítése céljából az állam erdővédelmi mérő- és megfigyelő rendszert működtet.
+(2)
 
 (3) Az erdészeti hatóság az e törvény végrehajtására kiadott jogszabály szerint bejelentett erdőkárokról az alábbi adatokkal hatósági nyilvántartást vezet (a továbbiakban: Országos Erdőkár Nyilvántartás):
 

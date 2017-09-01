@@ -1,19 +1,7 @@
-## Erdőgazdálkodási haszonbérlet
+## Az állam 100%-os tulajdonában nem álló erdőnek minősülő föld használatba adásának különös szabályai
 
-20. § (1) Erdőgazdálkodási haszonbérleti szerződést a felek erdő vagy erdőgazdálkodás célját közvetlenül szolgáló földterület haszonbérbe adására köthetnek.
+20. § (1) Erdőnek minősülő, közös tulajdonban álló föld esetében a használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő mértékű terület – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) 71. § (2a) bekezdésében foglaltak mellett – akkor is kijelölhető egyben, ha azt az érintett tulajdonostársak a 20/A. § (3) bekezdésében foglalt társult erdőgazdálkodás keretében egységesen kívánják használni, vagy azt egységesen többlethasználati megállapodással az egyik érintett tulajdonostárs használatába kívánják adni.
 
-(2) Erdőgazdálkodási haszonbérletre, ha e törvény eltérően nem rendelkezik, a Polgári Törvénykönyv, a mező- és erdőgazdasági földek forgalmáról szóló törvény és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény haszonbérletre vonatkozó szabályait kell alkalmazni.
+(2) Erdőnek minősülő földet magában foglaló földrészlet használati megosztásáról szóló megállapodással a földrészleten található erdőnek minősülő föld tekintetében átlagosan 30 méternél keskenyebb, vagy egy hektárnál kisebb kiterjedésű földterület kialakulását eredményező használati rend nem alakítható ki.
 
-(3) A szerződésnek tartalmaznia kell a haszonbér-fizetésének módját, a haszonbér fizetési időszak meghatározását.
-
-(4) Közös tulajdon esetében erdő vagy erdőgazdálkodás célját közvetlenül szolgáló földterület haszonbérbe adásához a tulajdonostársak tulajdoni hányad alapján számított szótöbbséggel hozott határozata szükséges.
-
-(5) A felek a haszonbér megfizetését a fahasználat időpontjához is köthetik.
-
-A haszonbérbe adó azonnali hatállyal felmondhatja a haszonbérleti szerződést, ha a haszonbérlő
-
-a) olyan gazdálkodást folytat, amely súlyosan veszélyezteti az erdő fennmaradását, a fenntartható erdőgazdálkodást;
-
-b) az erdőfelújítási kötelezettségének nem tesz eleget;
-
-c) haszonvételi jogosultságát az erdészeti hatóság jogerősen korlátozta.
+(3) Erdőnek minősülő föld használati megosztását eredményező használati rend az erdőnek minősülő földet érintően a Fétv. 71. § (3) bekezdésében foglaltak figyelembe vételével csak a tulajdonostársak egyöntetű hozzájárulása mellett módosítható.

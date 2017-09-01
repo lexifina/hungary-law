@@ -2,17 +2,15 @@
 
 ## AZ ERDÉSZETI IGAZGATÁS
 
-103. § (1)
+103. § (1) Az erdészeti hatósági és igazgatási feladatokat ellátó személyek részére igazolványt, az igazolvánnyal azonos sorszámú szolgálati jelvényt és egyenruhát kell biztosítani.
 
-(2) Az erdészeti hatóság eljárása során jogosult
+(2) Az erdészeti hatósági és igazgatási feladatokat ellátó személy az eljárása során jogosult az erdőgazdálkodó, annak hiányában a terület jogszerű használójának engedélye nélkül külön térítés fizetése nélkül az erdészeti feltáróhálózat részét képező erdei úton, valamint az erdő megközelítéséhez szükséges egyéb úton közlekedni, az erdőt és a fásítást bejárni, ott vizsgálatot, mérést, megfigyelést, valamint az azok elvégzéséhez szükséges mértékig vizsgálati mintát venni.
 
-a) az erdőgazdálkodó és a tulajdonos engedélye nélkül külön térítés fizetése nélkül valamennyi erdészeti magánúton közlekedni, az erdőt és a fásítást bejárni, ott vizsgálatot, mérést, megfigyelést, valamint az azok elvégzéséhez szükséges mértékig vizsgálati mintát venni,
+(3) Az erdészeti hatósági feladatokat ellátó személy az eljárása során jogosult
 
-b) az erdőben folyó tevékenység jogszerűségét ellenőrizni, a jogszerűtlen tevékenység leállítását elrendelni,
+a) az erdőben folyó tevékenység jogszerűségét ellenőrizni, a jogszerűtlen tevékenység leállítását elrendelni, valamint
 
-c) az erdőt és a fásítást veszélyeztető tevékenység beszüntetését, illetve az attól való tartózkodást elrendelni.
-
-(3)
+b) az erdőt és a fásítást veszélyeztető tevékenység beszüntetését, illetve az attól való tartózkodást elrendelni.
 
 (4) Az erdészeti hatóság rendészeti feladatokat ellátó tagja az erdészeti hatóság illetékességi területén jogosult és köteles
 

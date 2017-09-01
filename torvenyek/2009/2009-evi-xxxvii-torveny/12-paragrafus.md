@@ -1,13 +1,13 @@
 ## A fásítás
 
-12. § (1) E törvény alkalmazásában fásítás az erdei fafajból vagy fafajokból álló
+12. § (1) Fásításnak minősül a külterületen található, erdőnek, szabad rendelkezésű erdőnek, vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek nem minősülő, e törvény hatálya alá tartozó, fával, faállománnyal borított terület.
 
-a)
+(2) Az erdészeti hatóság a telepítési feltételeknek nem megfelelően telepített vagy fenntartott fásítás faállományának teljes vagy részleges felszámolását rendeli el, ha
 
-b) jellemzően vonalas kiterjedésű fával borított terület, ahol az állományon belüli egyes fák, és a terület kisebb kiterjedése szerinti szélső fák egymástól mért tőtávolsága átlagosan nem nagyobb húsz méternél (fasor);
+a) az a termőhelyre vagy a környező erdők életközösségére, természetességi állapotára nézve jelentős káros hatással van, vagy előreláthatóan jelentős káros hatással lesz, illetve
 
-c) ötezer négyzetméternél kisebb, jellemzően nem vonalas kiterjedéssel rendelkező, legalább ötven százalékban fával borított területen lévő fák összessége (facsoport);
+b) annak fennmaradása jogszabályba ütközik.
 
-d) olyan legelő művelési ágban lévő földrészlet, amelyet a fák koronavetülete egyenletes elosztásban legfeljebb harminc százalékban fed (fás legelő).
+(3) Fásításban tervezett – a fa tövében mérve – 10 centimétert meghaladó átmérőjű fa kitermelését, annak megkezdése előtt legkésőbb 21 nappal előzetesen be kell jelenteni az erdészeti hatóság részére.
 
-(2) Fásítás esetében e törvény rendelkezései közül a károsítók károkozása elleni védelemre (58–59. §), a káros tevékenységek elleni védelemre [61. § (1) bekezdés b) pont, (2) bekezdés], az erdő talajának védelmére (62–63. §), az erdő tűz elleni védelmére (64–67. §), az e törvény végrehajtására kiadott jogszabályban meghatározott eltérésekkel az erdő telepítésére (45–48. §), az erdő felújítására (51–52. §), a fakitermelésre (70. §) és az erdő látogatására (91–96. §) vonatkozó rendelkezéseket kell alkalmazni.
+(4) Fásítás esetében – az e §-ban szereplő rendelkezések mellett – e törvény rendelkezései közül az erdőtelepítés feltételeire [45. § (1) és (3)–(6) bekezdés], a károsítók károkozása elleni védelemre (58. § és 59. §), az erdő tűz elleni védelmére (64–67. §), valamint a bejelentési kötelezettségre (102. §) vonatkozó rendelkezéseket is alkalmazni kell.

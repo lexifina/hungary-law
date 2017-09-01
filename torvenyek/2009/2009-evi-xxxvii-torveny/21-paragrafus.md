@@ -1,1 +1,5 @@
-### 21. §
+21. § (1) Ha az erdészeti hatóság az erdőgazdálkodói nyilvántartás adatai alapján megállapítja, hogy az erdőgazdálkodói nyilvántartásban a közös tulajdonban álló erdőnek minősülő földre 60 napot meghaladóan nincs bejegyzett erdőgazdálkodó, a jogkövetkezményekre való tájékoztatás mellett, határidő tűzésével felszólítja a tulajdonostársakat a használati megosztásról szóló megállapodás megkötésére és az annak megfelelő földhasználatnak az erdőgazdálkodói nyilvántartásba való bejelentésére.
+
+(2) Ha a (1) bekezdésben meghatározott felszólítás nem vezet eredményre, akkor az erdőnek minősülő föld az erdészeti hatóság határozata alapján erdőkezelő kezelésébe kerül (a továbbiakban: elrendelt erdőkezelés). Az elrendelt erdőkezelésre a 21/A. § (3) bekezdésében, valamint a 21/B. § (1)–(7) bekezdésében foglaltakat kell alkalmazni. Elrendelt erdőkezelés során a tulajdonos köteles együttműködni az erdőkezelővel.
+
+(3) Az erdészeti hatóság határozatával létrejött erdőkezelési jogviszony időtartama 5 év, kivéve, ha a tulajdonostársak a határozat jogerőre emelkedését követően a használati megosztásról megállapodnak, és az annak megfelelő földhasználat az erdőgazdálkodói nyilvántartásba bejegyzésre kerül. Ez esetben az erdészeti hatóság határozatával létrejött erdőkezelési jogviszony megszűnik.

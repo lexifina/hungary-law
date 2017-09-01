@@ -1,0 +1,5 @@
+20/B. § (1) Az önálló erdőgazdálkodási egység használatának egy személy részére történő átadására az erdei haszonvételek csak egy részének gyakorlására kiterjedően is sor kerülhet. Ilyen esetben az erdészeti hatóság az erdőgazdálkodói nyilvántartásban erdőgazdálkodóként a 68. § a) pontjában foglalt erdei haszonvétel gyakorlására jogosult személyt veszi nyilvántartásba. Az önálló erdőgazdálkodási egység további használója haszonvételi joggyakorlónak minősül.
+
+(2) Erdőnek minősülő föld haszonvételi joggyakorlására vonatkozó szerződés hatályosságához az erdőgazdálkodó írásbeli hozzájárulása szükséges.
+
+(3) Az önálló erdőgazdálkodási egység használatának egy személy részére történő átadásáról szóló szerződésben a felek kiköthetik, hogy meghatározott erdei haszonvétel – a 68. § b) pontjában foglalt erdei haszonvétel kivételével – gyakorlására irányuló jogot a használatba adó a saját részére visszatart. Ha az érintett haszonvétel gyakorlására irányuló tevékenységet csak az erdőgazdálkodó végezheti, akkor azt a tulajdonos nevében és javára, illetve költségviselése mellett az erdőgazdálkodó hajtja végre.

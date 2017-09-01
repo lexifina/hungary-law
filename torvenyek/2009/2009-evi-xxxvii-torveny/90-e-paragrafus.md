@@ -10,7 +10,7 @@ c) a természetes személy természetes személyazonosító adatait, lakcímét,
 
 d) gazdálkodó szervezet esetén a cégnevét, adószámát, székhelyét, telephelyét, elérhetőségét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosító számát, bankszámlaszámát,
 
-e) a természetes személy vagy gazdálkodó szervezet faanyag kereskedelmi lánchoz tartozó ténylegesen végzett tevékenységeit,
+e) a természetes személy vagy gazdálkodó szervezet faanyag kereskedelmi lánchoz tartozó ténylegesen végzett tevékenységeit, azok telephelyenkénti elkülönítésével,
 
 f) a faanyag kereskedelmi lánc felügyelete keretében elvégzett valamennyi ellenőrzés és vizsgálat eredményét elektronikusan olyan módon, hogy az ügyfélhez köthető legyen.
 

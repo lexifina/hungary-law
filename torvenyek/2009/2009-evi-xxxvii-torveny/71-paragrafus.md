@@ -1,22 +1,20 @@
 71. § (1) A fakitermelés módja lehet:
 
-a) a fiatal erdő nevelése, megfelelő fejlődése céljából végzett fakitermelés, az erdősítés befejezését követő öt éven belül befejezett ápolás, ezt követően tisztítás (ápoló- és tisztítóvágás);
+a) tisztítás: a fiatal erdő nevelése, megfelelő fejlődése céljából végzett fakitermelés;
 
-b) az erdő faállománya minőségének javítását és a fahozam növelését szolgáló fakitermelés (gyérítés);
+b) gyérítés: az erdő faállománya minőségének javítását és a fahozam növelését szolgáló fakitermelés;
 
-c) a véghasználati kor elérése előtt az erdő szerkezetét károsan nem befolyásoló, faanyagnyerésre lehetőséget adó fakitermelés (készletgondozó használat);
+c) tarvágás: a faállomány egy beavatkozással végrehajtott kitermelése, véghasználata;
 
-d) a faállomány egy beavatkozással végrehajtott kitermelése, véghasználata (tarvágás);
+d) fokozatos felújítóvágás: a faállomány fokozatos, időben elhúzódó, de 30 évet nem meghaladó időtartamú, több alkalommal végrehajtott véghasználat jellegű kitermelése, ideértve a természetes záródáshiány következtében megjelent újulat megőrzése érdekében az idős állomány végvágását is;
 
-e) a faállomány fokozatos, időben elhúzódó, több alkalommal végrehajtott véghasználat jellegű kitermelése (fokozatos felújítóvágás);
+e) szálalóvágás: a faállomány fokozatos, 30 évet meghaladó időtartamú, több alkalommal végrehajtott véghasználat jellegű kitermelése;
 
-f) a faállomány fokozatos, időben elhúzódó (30 évet meghaladó), több alkalommal végrehajtott véghasználat jellegű kitermelése (szálaló vágás);
+f) készletgondozó használat: a folyamatos erdőborítás fenntartása mellett végrehajtott – vegyes korú és szerkezetű erdő kialakítását és fenntartását célzó – fakitermelés, amelynek mértéke a készletgazdálkodáson alapul;
 
-g) a folyamatos erdőborítás fenntartása mellett végrehajtott – vegyes korú és szerkezetű erdő kialakítását és fenntartását célzó – fakitermelés, amelynek mértéke a készletgazdálkodáson alapul (szálalás);
+g) egészségügyi fakitermelés: az elhalt, a súlyosan sérült vagy a veszélyes károsítók elszaporodását előidéző, beteg fák kitermelése;
 
-h) az elhalt, a súlyosan sérült vagy a veszélyes károsítók elszaporodását előidéző, beteg fák kitermelése (egészségügyi fakitermelés);
-
-i) olyan véghasználati jellegű fakitermelés, amely után erdőfelújítási kötelezettség nem keletkezik (egyéb termelés).
+h) egyéb termelés: egyéb fakitermelés, amely után erdőfelújítási kötelezettség nem keletkezik.
 
 (2) A fa kitermelésekor figyelemmel kell lenni a vízforrások és vízbázisok védelmére, a védett élő szervezetek élőhelyére, az élettelen természeti értékek védelmére, a tájképre, valamint az értékes emberi alkotások környezetére.
 

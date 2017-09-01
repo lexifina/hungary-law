@@ -1,7 +1,15 @@
-78. § (1) Erdőt igénybe venni csak kivételes esetben, a (3) bekezdés kivételével kizárólag a közérdekkel összhangban lehet.
+78. § (1) Erdőt igénybe venni – a (3) és (4) bekezdésben foglaltak kivételével – csak kivételes esetben, a közérdekkel összhangban lehet.
 
 (2) Az erdő igénybevételéhez az erdészeti hatóság előzetes engedélye szükséges. Az erdőt kizárólag az engedélyben megjelölt határidőn belül, és az abban meghatározott célra lehet igénybe venni.
 
-(3) Gazdasági elsődleges rendeltetésű kultúrerdő és faültetvény igénybevételét az erdészeti hatóság az adott erdő fekvése szerinti vagy az azzal szomszédos településen végrehajtott, az igénybe vett erdővel legalább azonos területű, azzal megegyező vagy attól magasabb természetességi állapotú csereerdősítés elvégzésének feltétele mellett a közérdekkel való összhang hiányában is engedélyezheti.
+(3) Az erdészeti hatóság az (1) bekezdésben foglalt szempontok vizsgálata nélkül is engedélyezheti
 
-(4) A nemzetgazdasági szempontból kiemelt jelentőségű beruházás esetén a közérdekkel való összhangot vélelmezni kell.
+a) gazdasági elsődleges rendeltetésű kultúrerdő vagy faültetvény természetességi állapotra vonatkozó alapelvárású erdő 77. § (1) bekezdés b)–d) pontjában foglalt igénybevételét, az adott erdő fekvése szerinti, vagy az azzal szomszédos településen végrehajtott, az igénybe vett erdővel legalább azonos területű, azzal megegyező vagy annál magasabb természetességi állapotra vonatkozó alapelvárású csereerdősítés elvégzésének feltétele mellett, vagy
+
+b) az állam 100%-os tulajdonában nem álló faültetvény vagy kultúrerdő természetességi állapotra vonatkozó alapelvárású felnyíló erdő mezőgazdasági művelésbe vonását.
+
+(4) A nemzetgazdasági szempontból kiemelt jelentőségű beruházás, közműfejlesztési célú beruházás, valamint az erdő árvízvédelmi, honvédelmi vagy határrendészeti célú igénybevétele esetén a közérdekkel való összhangot vélelmezni kell.
+
+(5) A (3) bekezdés b) pontjában foglaltak szerint igénybe vett erdő területén a mezőgazdasági művelésbe vonást követő 10 éven belül állami támogatás igénybevételével faállomány nem létesíthető.
+
+(6) Az erdő igénybevétel engedélyezési eljárásában az erdészeti hatóság – ha szükséges – az erdőtervet is módosítja.

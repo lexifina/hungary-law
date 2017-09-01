@@ -1,5 +1,5 @@
 ## Az erdő megosztása
 
-86. § (1) Az erdőt két vagy több földrészletre csak abban az esetben lehet megosztani, ha az a fenntartható erdőgazdálkodást nem veszélyezteti.
+86. § (1) Erdő megosztásával – erdő igénybevétele kivételével – csak olyan erdő művelési ágú földrészlet vagy alrészlet alakítható ki, amelynek szélessége átlagosan legalább harminc méter, és területe egy hektárnál nagyobb.
 
-(2) Megosztással csak olyan erdő művelési ágú földrészlet vagy alrészlet alakítható ki, amelynek szélessége átlagosan legalább harminc méter, és területe a 7. § (1) bekezdés a)–b) pontja szerinti természetességi állapotú erdő esetében kettő hektárnál, a 7. § (1) bekezdés c)–f) pontja szerinti természetességi állapotú erdő esetében egy hektárnál nagyobb, kivéve, ha a megosztás célja erdő igénybevétele.
+(2) A használati megosztással érintett erdő művelési ágú földrészlet vagy alrészlet csak a használati megosztással elhatárolt önálló erdőgazdálkodási egységek határai mentén osztható meg, kivéve, ha a megosztás célja erdő igénybevétele.

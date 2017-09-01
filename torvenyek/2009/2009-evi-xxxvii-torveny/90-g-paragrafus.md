@@ -17,3 +17,5 @@ e) az állami adó- és vámhatóság által vezetett Elektronikus Közúti Áru
 (4) Az erdészeti hatóság – a személyes adatokat is beléértve – jogosult adatokat, illetve információkat cserélni a 995/2010/EU rendelet végrehajtásával kapcsolatban kijelölt, hatáskörrel rendelkező hatóságokkal.
 
 (5) Az erdészeti hatóság a nyilvántartásokból átvett és az adatlekérdezés, illetve adatfeldolgozás során keletkezett adatokat kizárólag a faanyag kereskedelmi lánc felügyelettel kapcsolatos hatósági feladatának ellátásához használhatja fel.
+
+(6) Az (1) bekezdés b) és e) pontjában meghatározott adatszolgáltatást az erdészeti hatóság részére közvetlen elektronikus hozzáférés biztosításával kell teljesíteni.

@@ -1,7 +1,7 @@
 ## Fakitermelés
 
-70. § (1) Az erdőben fakitermelést – a fásítás és a szabad rendelkezésű erdő kivételével – az erdőtervben foglalt előírásokkal összhangban lehet végezni.
+70. § (1) Fakitermelésnek minősül a fa tőtől, illetve talajtól való elválasztása, valamint a kitermelt faanyag erdőben történő mozgatása, és felkészítése, ide nem értve az erdőfelújítás érdekében végzett vágástakarítást és a rakodókról végzett szállítást. Az erdőben fakitermelést – e törvény eltérő rendelkezése hiányában – az erdőtervben foglalt előírásokkal összhangban lehet végezni.
 
-(2) A fásításból, a szabad rendelkezésű erdőből történő fakitermelést az e törvény végrehajtására kiadott jogszabályban előírtak szerint kell előzetesen az erdészeti hatóságnak bejelenteni.
+(2)
 
 (3) A fakitermelési munka végrehajtója köteles a munka elvégzésére jogosító, az erdőgazdálkodó jogosult erdészeti szakszemélyzete által kiadott erdőgazdálkodási műveleti lapot vagy annak másolati példányát a munkavégzés során magánál tartani, és azt az arra jogosult személynek felszólítására bemutatni.

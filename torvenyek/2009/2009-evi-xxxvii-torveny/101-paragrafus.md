@@ -1,29 +1,9 @@
-## Jogosult erdészeti szakszemélyzet
+## Az erdészeti gépek kezelésére vonatkozó követelmények
 
-101. § (1) A jogosult erdészeti szakszemélyzet, a 98–100/B. §-ban megfogalmazott kötelezettségeken és jogosultságokon túl
+101. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott erdészeti gépet az adott erdészeti gép vonatkozásában erdészeti gépkezelői jogosítványt (a továbbiakban: gépkezelői jogosítvány) szerzett személy kezelhet.
 
-a) köteles
+(2) A gépkezelői jogosítvány megszerzésének feltétele az e törvény végrehajtására kiadott jogszabályban meghatározott
 
-aa) az erdőgazdálkodó részére annak jogai gyakorlása és kötelezettségei teljesítése érdekében szakmai tájékoztatást és tanácsot adni,
+a) szakmai végzettség megléte vagy
 
-ab) az erdőgazdálkodót szakmai szempontból képviselni a helyszíni szemléken, hatósági ellenőrzéseken, valamint a körzeti erdőtervezéshez kapcsolódó egyeztetéseken,
-
-ac) az erdészeti hatósággal való kapcsolattartása során tudomására jutott, az erdőgazdálkodót érintő tényekről, adatokról az erdőgazdálkodót haladéktalanul tájékoztatni;
-
-b) jogosult
-
-ba) az erdőgazdálkodónak az erdészeti hatóság felé teljesítendő bejelentései, adatszolgáltatásai ellenjegyzésére,
-
-bb) műveleti lap kiállítására,
-
-bc) pályázatok szakmai tartalmának, teljesítésének ellenjegyzésére.
-
-(2) Felsőfokú erdészeti szakirányú végzettséggel rendelkező jogosult erdészeti szakszemélyzet jogosult
-
-a) erdőtelepítési kivitelezési terv készítésére;
-
-b) erdészeti magánút tervezésére;
-
-c) körzeti erdőtervezés kivételével erdészeti térképezésre;
-
-d) erdő rendeltetését szolgáló műtárgy, csatorna, tározó tervezésére.
+b) felkészítő tanfolyamot követően a miniszter által kijelölt intézmény által szervezett gépkezelői vizsga letétele.

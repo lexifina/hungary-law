@@ -1,1 +1,1 @@
-92/A. § Erdőben quaddal, terep-motorkerékpárral, segédmotoros kerékpárral, valamint motorkerékpárral közlekedni tilos. Az erdészeti vagy jogosult erdészeti szakszemélyzet segédmotoros kerékpárral vagy közúti forgalomba helyezett, legfeljebb 500 cm3 hengerűrtartalmú motorkerékpárral közlekedhet az erdőben munkavégzés céljából.
+92/A. § Erdőben, illetve az erdészeti feltáróhálózat részét képező erdei úton quaddal, terep-motorkerékpárral, segédmotoros kerékpárral, valamint motorkerékpárral – erdőgazdálkodási célú járműforgalom kivételével – közlekedni tilos.

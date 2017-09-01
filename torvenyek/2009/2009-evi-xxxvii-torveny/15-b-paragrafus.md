@@ -1,0 +1,3 @@
+15/B. § (1) Az erdészeti magánút közforgalom elől elzárt magánútnak minősül. Az erdészeti magánutat a közforgalom számára megnyitni a közúti közlekedésről szóló törvényben foglaltak szerint, a közvetlenül határos erdők erdőgazdálkodóinak egyetértése mellett lehet, amennyiben az erdei életközösséget, a fenntartható erdőgazdálkodást, illetve az erdő közjóléti és védelmi rendeltetéseinek érvényesülését az nem veszélyezteti.
+
+(2) Honvédelmi rendeltetésű erdőben található erdészeti magánút közforgalom számára történő megnyitása akkor engedélyezhető, ha az a területen folytatott katonai tevékenységgel összeegyeztethető.

@@ -4,18 +4,14 @@
 
 ## Az erdő rendeltetése
 
-22. § (1) Az erdőgazdálkodás hosszú távú célját az elsődleges rendeltetés adja meg, melyet erdőrészletként kell meghatározni.
+22. § (1) A fenntartható erdőgazdálkodás hosszú távú célját, lehetőségeit, illetve korlátozásait – egymással megfelelően összehangolva – az erdő rendeltetései határozzák meg.
 
-(2) Az erdő elsődleges rendeltetése mellett további rendeltetések határozhatók meg, melyeket az erdőgazdálkodási tevékenység során az elsődleges rendeltetés mellett figyelembe kell venni.
+(2) Az erdő rendeltetéseként a
 
-(3) Az erdő rendeltetése
+a) 24. § (2) bekezdés szerinti védelmi,
 
-a) a 24. § (2) bekezdés szerinti védelmi,
-
-b) 25. § szerinti közjóléti,
+b) 25. § szerinti közjóléti, és
 
 c) 26. § szerinti gazdasági
 
-lehet.
-
-(4) Az erdő védelmi és közjóléti rendeltetéseit az erdei életközösség adottságai, valamint a közérdekű célok együttes figyelembevételével kell meghatározni.
+rendeltetések határozhatók meg.

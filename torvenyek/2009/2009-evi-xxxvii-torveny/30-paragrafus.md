@@ -4,14 +4,18 @@
 
 ## Az erdőgazdálkodás tervszerűsége
 
-30. § (1) Az erdővagyon védelmét, a fenntartható erdőgazdálkodási tevékenység tervszerűségét az állam
+30. § (1) Az erdővagyon védelmét, az erdők állapotának figyelemmel kísérését, fenntartását, rendeltetései betöltését, szolgáltatásai, haszonvételi lehetőségei folyamatos biztosítását, az erdőhöz fűződő közérdek érvényesülését, valamint a fenntartható erdőgazdálkodási tevékenység tervszerűségét az állam
 
-a) a körzeti erdőgazdálkodási és tervezési szabályokról szóló miniszteri rendelet kiadásával (a továbbiakban: erdőtervrendelet),
+a) az erdők, valamint a fával, faállománnyal borított területek mennyiségi és minőségi paramétereinek, ökológiai és egészségi állapotának folyamatos figyelemmel kísérésével (a továbbiakban: erdészeti mérő- és megfigyelő rendszer);
 
-b) a hosszú távra – legalább tíz évre – szóló körzeti erdőterv készítésével (a továbbiakban: körzeti erdőterv),
+b) az erdészeti tájakra vonatkozó különös erdőgazdálkodási és körzeti erdőtervezési szabályokról szóló miniszteri rendelet kiadásával,
 
-c) az Adattár működtetésével és az abban foglalt egyes adatok kötelező felhasználásával, valamint
+c) az erdők állapotának és a fenntartható erdőgazdálkodás tartalmi kereteinek erdőtervezési körzet szintű rendszeres felülvizsgálatával, illetve erdőrészlet szintű meghatározásával (a továbbiakban: körzeti erdőtervezés),
 
-d) az erdőtervvel és az erdőgazdálkodási tevékenység bejelentési-engedélyezési rendszerével biztosítja.
+d) az Adattár működtetésével és az abban foglalt egyes adatok kötelező felhasználásával, valamint
 
-(2) E törvényben, valamint a külön jogszabályokban foglaltak alapján a miniszter a természetvédelemért felelős miniszterrel egyetértésben köteles gondoskodni a körzeti erdőterv és a körzeti vadgazdálkodási terv összhangjának megteremtéséről.
+e) az erdőgazdálkodási tevékenység engedélyezési, bejelentési és ellenőrzési rendszerével
+
+biztosítja.
+
+(2) E törvényben, valamint a külön jogszabályokban foglaltak alapján a miniszter a természetvédelemért felelős miniszterrel egyetértésben köteles gondoskodni a körzeti erdőtervezés és a körzeti vadgazdálkodási tervezés összhangjának megteremtéséről.

@@ -1,34 +1,38 @@
 ## Az erdőgazdálkodási bírság
 
-107. § (1) Az erdőgazdálkodóra erdőgazdálkodási bírságot kell kiszabni, ha az erdőgazdálkodó
+107. § (1) Az erdészeti hatóság az erdőgazdálkodóra erdőgazdálkodási bírságot szab ki, ha az erdőgazdálkodó
 
-a) erdejében bejelentés nélkül végzett fakitermelésre megbízást adott vagy a fakitermelésről tudomással bírt és azt haladéktalanul nem jelentette az erdészeti hatóságnak vagy a 41. § (3) bekezdésében foglalt előírásokat megsérti;
+a) erdejében jogszerűtlen fakitermelést végzett vagy arra megbízást adott, illetve ilyen fakitermelésről tudomással bírt és azt haladéktalanul nem jelentette az erdészeti hatóságnak;
 
-b) a 41. § (1) bekezdésében foglalt bejelentési kötelezettséget vagy a 41. § (3) bekezdésében foglalt előírásokat – fahasználatot nem érintő tevékenység esetében megsérti;
+b) a 41. § (1) bekezdésében foglalt bejelentési kötelezettséget fahasználatot nem érintő tevékenység esetében megsérti;
 
 c) a 16. § (9) bekezdésében foglaltakat megsérti;
 
 d) az 63. § (5) bekezdésében foglalt előírásokat megsérti;
 
-e) a 73. § (1), (2) bekezdésében, valamint a 74. § (4) bekezdésében foglalt előírásokat megsérti;
+e) a 73. § (1) bekezdésében foglalt előírásokat megsérti;
 
-f) a 73. § (3) bekezdésében foglalt előírásokat megsérti;
+f) a 69. § (1) bekezdésében foglalt előírásokat megsérti;
 
-g) a 95. § (1), (2), (3) és (6) bekezdésében, a 102. §-ban foglalt bejelentési kötelezettséget elmulasztja;
+g) a 95. § (3) és (6) bekezdésében, a 102. §-ban foglalt bejelentési kötelezettséget elmulasztja;
 
-h) a 42. § (1) bekezdésében foglalt bejelentési kötelezettségének az erdészeti hatóság felszólítása ellenére nem tesz eleget;
+h) valamely tevékenység végrehajtására vagy az erdő állapotára vonatkozóan e törvényben előírt bejelentési kötelezettségének nem tesz eleget;
 
 i) megsérti a 90. § (1) bekezdésében foglalt előírásokat;
 
-j) az erdő faállományának szerkezetét, egészségi állapotát károsan befolyásoló módon hajtja végre az állomány nevelését, szálalást vagy a fenyőgyanta gyűjtését;
+j) az erdő faállományának szerkezetét, egészségi állapotát károsan befolyásoló módon hajtja végre az állomány nevelését vagy a fenyőgyanta gyűjtését;
 
-k) az erdőnevelési feladatok elmulasztásával akadályozza az erdőtervben előírt célállománytípus kialakulását és fejlődését;
+k) az erdőnevelési feladatok elmulasztásával akadályozza az erdő e törvény szerint elvárt állapotának kialakulását és fenntartását;
 
-l) túllépi az erdő felújítására és a felújítás befejezésére az e törvény végrehajtására kiadott jogszabályban vagy az erdészeti hatóság határozatában megállapított határidőt;
+l) az állam 100%-os tulajdonában álló erdőben
 
-m) az erdő felújítását nem az engedélyezett módon hajtja végre;
+la) túllépi az erdő felújítására és a felújítás befejezésére megállapított határidőt, vagy
 
-n) tevékenysége vagy mulasztása miatt a befejezett erdősítés felülvizsgálatának időpontjában az erdő fejlődése nem felel meg a termőhelyi adottságoknak vagy az erdő fafajösszetétele a befejezéskori állapothoz képest a termőhelyi adottságokat és az erdő rendeltetését tekintve kedvezőtlenül megváltozott;
+lb) pótlási kötelezettségének az erdészeti hatóság felhívása ellenére sem tesz határidőben eleget;
+
+m) az állam 100%-os tulajdonában nem álló erdőben túllépi az erdőfelújítás befejezésére megállapított határidőt;
+
+n)
 
 o) az erdészeti hatóság erdészeti termékek készletezését, szállítását kizáró vagy korlátozó határozatában foglaltakat megsérti;
 
@@ -36,17 +40,23 @@ p) a jogosult erdészeti szakszemélyzet alkalmazására vonatkozó kötelezetts
 
 q) a külön jogszabály szerinti erdőtűzvédelmi terv vagy egyszerűsített erdőtűz-védelmi terv készítési kötelezettségének az erdészeti hatóság felhívása ellenére sem tesz eleget;
 
-r) a külön jogszabály szerinti erdőtűz-megelőzési kötelezettségének az erdészeti hatóság felhívása ellenére sem tesz eleget.
+r) a külön jogszabály szerinti erdőtűz-megelőzési kötelezettségének az erdészeti hatóság felhívása ellenére sem tesz eleget;
 
-(2) Erdőgazdálkodási bírságot köteles fizetni az erdő tulajdonosa, az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, földhasználati, haszonélvezeti, használati jog jogosultja, ha a 17. § (8) bekezdése szerinti kötelezettségének nem tesz eleget.
+s) megsérti a 15. § (2) bekezdésben foglaltakat;
 
-(3) Erdőgazdálkodási bírságot köteles fizetni, aki
+t) a 106. § (7) bekezdésében foglalt mulasztást követi el;
 
-a) a 18. § (3) és (4) bekezdésében foglalt bejelentési kötelezettséget elmulasztja és a terület használatára jogosult;
+u) erdei legeltetési tevékenységhez jogszerűtlenül járul hozzá.
 
-b) engedély nélkül hajtja végre az erdőtelepítést;
+(2)
 
-c) engedélytől eltérően hajtja végre az erdőtelepítést;
+(3) Az erdészeti hatóság erdőgazdálkodási bírságot szab ki arra, aki
+
+a) a 18. § (2) vagy (5) bekezdésében foglalt bejelentési kötelezettségét elmulasztja;
+
+b) e törvény alapján engedélyhez vagy bejelentéshez kötött tevékenységet – a fakitermelés kivételével – engedély nélkül, vagy az engedélyben, illetve a bejelentésben foglaltaktól, valamint az erdészeti hatóság rendelkezésétől eltérően hajtja végre;
+
+c)
 
 d) a 70. § (3) bekezdésében foglalt előírásokat megsérti;
 

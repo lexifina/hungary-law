@@ -1,6 +1,6 @@
 ## Az erdővédelmi bírság
 
-108. § (1) Erdővédelmi bírságot köteles fizetni, aki
+108. § (1) Az erdészeti hatóság erdővédelmi bírságot szab ki arra, aki
 
 a) a 61. § (1) bekezdésének a) pontjában foglalt előírásokat megsérti;
 
@@ -22,29 +22,35 @@ i) a 91. § (4) bekezdés b) pontjában foglalt előírásokat megsérti:
 
 j) a 91. § (4) bekezdés a) pontjában foglalt előírásokat megsérti;
 
-k) a 93. § (1) bekezdésben foglalt előírásokat megsérti;
+k) a 93. § (1), (4) vagy (5) bekezdésben foglalt előírásokat megsérti;
 
 l) a 93. § (2) bekezdésben foglalt előírásokat megsérti;
 
 m) erdőt vagy erdőgazdálkodási tevékenységet szolgáló, erdőművelési ágban nyilvántartott földterületet engedély nélkül vagy engedélytől eltérően vesz igénybe.
 
-(2) Erdővédelmi bírságot köteles fizetni, az erdő tulajdonosa, ingatlan-nyilvántartásba bejegyzett vagyonkezelői, földhasználati, haszonélvezeti, használati jog jogosultja, ha erdejében bejelentés nélkül végzett fakitermelésre megbízást adott vagy a fakitermelésről tudomással bírt és azt haladéktalanul nem jelentette az erdészeti hatóságnak.
+(2) Az erdészeti hatóság erdővédelmi bírságot szab ki
+
+a) az e törvény hatálya alá tartozó terület tulajdonosára, ingatlan-nyilvántartásba bejegyzett vagyonkezelői, földhasználati, haszonélvezeti, használati jog jogosultjára, vagy
+
+b) az erdészeti szakszemélyzetre vagy jogosult erdészeti szakszemélyzetre,
+
+ha jogszerűtlen fakitermelésre megbízást adott vagy ilyen fakitermelésről tudomással bírt, és azt haladéktalanul nem jelentette az erdészeti hatóságnak.
 
 (3) Az erdészeti hatóság hivatalból, vagy a természetvédelmi hatóság, illetőleg az erdőgazdálkodó kezdeményezésére hozott határozata alapján a vadászatra jogosult erdővédelmi bírságot köteles fizetni, ha
 
-a) az erdősítés sikeresen felújult területén a vadászható vadfajok egyedei az előírt fő és mellékfafajok vezérhajtásait 30%-ot meghaladó mértékben károsították;
+a) az erdősítésben vagy annak összefüggően fél hektárt meghaladó részterületén a vadászható vadfajok egyedei az adott erdősítés előírt célállományának megfelelő fő- és mellékfafajok vezérhajtásait 30%-ot meghaladó mértékben károsították;
 
 b) az erdő természetes felújítását biztosító, az előírt állománytípust alkotó fafajok termésének a vadászható vadfajok egyedei által történő felélésével az erdő felújulása veszélybe került;
 
-c) a faállomány egyedei a vadászható vadfajok egyedei által történő dörzsölés, hántás következtében 0,1 ha-t meghaladó nagyságú területen a faegyedek 10%-át meghaladó mértékben károsodtak.
+c) a faállomány egyedei a vadászható vadfajok egyedei által történő dörzsölés, hántás következtében 0,5 ha-t meghaladó nagyságú egybefüggő területen a faegyedek 10%-át meghaladó mértékben károsodtak.
 
-(4) Erdővédelmi bírság megfizetésére kötelezhető a faanyag kereskedelmi lánc szereplője, ha Magyarországon forgalomba hoz illegális kitermelésből származó vagy olyan, e törvény hatálya alá tartozó faterméket, amely nem felel meg e törvény és az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban és jogszabályokban foglalt követelményeknek, előírásoknak.
+(4) Az erdészeti hatóság erdővédelmi bírságot szab ki a faanyag kereskedelmi lánc szereplőjére, ha Magyarországon forgalomba hoz illegális kitermelésből származó vagy olyan, e törvény hatálya alá tartozó faterméket, amely nem felel meg e törvény és az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban és jogszabályokban foglalt követelményeknek, előírásoknak.
 
 (5) A faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos eljárás során az erdészeti hatóság erdővédelmi bírság fizetését rendeli el azzal szemben, aki
 
 a) a zárlati intézkedését megszegi,
 
-b) az elrendelt szállítási, felhasználási, forgalomba hozatali rendelkezéseket megszegi,
+b) az e törvényben, valamint e törvény végrehajtására kiadott rendeletben előírt szállítási, felhasználási, forgalomba hozatali rendelkezéseket megszegi,
 
 c) az e törvényben, valamint a végrehajtására kiadott jogszabályban előírt adatszolgáltatási, bejelentési kötelezettségének felszólítás ellenére vagy ismételten nem tesz eleget.
 

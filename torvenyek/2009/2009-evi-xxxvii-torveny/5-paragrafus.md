@@ -6,53 +6,53 @@
 
 2. célállomány: a faállományban megvalósítandó fafajösszetétel;
 
-3. cserjés: az e törvény végrehajtására kiadott jogszabályban meghatározott cserjefajok által legalább 50 százalékos mértékben fedett erdővel körülzárt vagy kerületének legalább 50 százalékát meghaladó mértékben erdővel határolt terület;
+3.
 
 4. egyéb erdei termék: a fakitermelésen, a szaporítóanyag-gyűjtésen és a vadászati jog gyakorlásán, hasznosításán kívüli erdei haszonvételek során az erdőből nyert nyersanyag, termék;
 
-5. elsőkivitel: az erdősítés, fásítás első évi munkái a talaj-előkészítéstől a csemeteültetés, magvetés vagy dugványozás befejezéséig;
+5. elsőkivitel: az erdősítés, fásítás első évi munkái a talaj-előkészítéstől a csemeteültetés, magvetés, sarjaztatás vagy dugványozás befejezéséig;
 
 6. erdei életközösség (ökoszisztéma): fákból és egyéb fás növényekből, valamint a társult élőlényekből kialakult életközösség;
 
-7. erdészeti szakszemélyzet: az e törvény végrehajtására kiadott jogszabály szerinti végzettséggel rendelkező, az erdészeti hatóság szakszemélyzeti névjegyzékében szereplő személy;
+7. erdészeti szakszemélyzet: az e törvény végrehajtására kiadott jogszabály szerinti végzettséggel rendelkező, az erdészeti hatóság által vezetett erdészeti szakirányítói névjegyzékben erdészeti szakszemélyzetként nyilvántartott személy;
 
 8. erdészeti táj: termőhelyi és növényföldrajzi szempontok alapján az e törvény végrehajtására kiadott jogszabályban meghatározott földrajzi terület;
 
-9. erdőgazdálkodás: az erdő 2. § (1) bekezdésében foglaltak szerinti fenntartására, közcélú funkcióinak biztosítására, őrzésére, védelmére, az erdővagyon bővítésére, valamint – a vadászati jog gyakorlása, hasznosítása kivételével – az erdei haszonvételek gyakorlására irányuló tevékenységek összessége;
+9. erdőgazdálkodás: az erdő 2. § (1) bekezdésében foglaltak szerinti fenntartására, közérdekű funkcióinak biztosítására, őrzésére, védelmére, az erdővagyon bővítésére, valamint – a vadászati jog gyakorlása, hasznosítása kivételével – az erdei haszonvételek gyakorlására irányuló tevékenységek összessége;
 
-10. erdősítés: az erdőfelújítás, erdőtelepítés munkái a talaj-előkészítéstől a csemeteültetés, magvetés, dugványozás, pótlás erdészeti hatóság által történő befejezetté nyilvánításáig;
+10. erdősítés: az erdőfelújítás, erdőtelepítés befejezetté nyilvánításáig végzett erdőgazdálkodási tevékenységek összessége;
 
-11. erdőtelepítés: nem erdőművelési ágban lévő, erdővel nem borított területen a talaj-előkészítést követően csemeteültetés, magvetés vagy dugványozás útján erdő létrehozása;
+11.
 
-12. felnyíló erdő: olyan természetes, természetszerű erdőtársulás, illetve ezek származék erdői, amelyek természetes módon alacsony záródásban borítják a területet, ligetesek vagy erdő és sztyeppfoltok váltakozásával alakulnak ki, így különösen az erdőssztyepp erdők és a karsztbokor erdők;
+12. faállomány záródása: a faállományt alkotó fák koronavetületének és a faállomány által elfoglalt területnek százalékban kifejezett viszonyszáma;
 
-13. folyamatos erdőborítás: olyan állapot, amikor a többkorú erdőállomány folyamatosan, egyenletesen borítja az erdő talaját és az erdő megújulása, felújítása az erdőállomány védelmében, véghasználati terület nélkül történik, az erdő tájképi megjelenése nem változik;
+13. folyamatos erdőborítás: olyan állapot, amikor az erdő többkorú faállománya folyamatosan borítja az erdő talaját, annak megújulása, felújítása az erdő faállományának védelmében, véghasználati terület nélkül történik, és az erdő tájképi megjelenése jelentős mértékben nem változik;
 
 13a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
-14. jogosult erdészeti szakszemélyzet: az e törvény végrehajtására kiadott jogszabály szerinti szakmai gyakorlattal rendelkező, az erdészeti hatóság jogosult szakszemélyzeti névjegyzékében szereplő erdészeti szakszemélyzet;
+14. jogosult erdészeti szakszemélyzet: az e törvény végrehajtására kiadott jogszabály szerinti szakmai gyakorlattal rendelkező, az erdészeti hatóság által vezetett erdészeti szakirányítói névjegyzékben jogosult erdészeti szakszemélyzet besorolással nyilvántartott erdészeti szakszemélyzet;
 
-15. kopár: az Országos Erdőállomány Adattárban nyilvántartott, termőhelyi adottságainál fogva záródott fás szárú- vagy lágy szárú növényzet fenntartására alkalmatlan terület;
+15.
 
 16. mezőgazdasági előhasználat: tarvágás esetén a véghasználat évében vagy az azt követő két évben végzett mezőgazdasági használat;
 
-17. nyiladék: az erdőgazdálkodási egységek térbeli rendjének kialakítását, vagy a vonalas jellegű létesítmények fenntartását szolgáló, az erdőben mesterségesen kialakított, fátlan terület;
+17.
 
-18. önerdősülés: közvetlen emberi beavatkozás nélkül, kifejezetten a földrészlet korábbi hasznosítása felhagyásának következtében végbemenő természetes folyamat, amely során erdő jön létre;
+18. önerdősülés: közvetlen emberi beavatkozás nélkül, kifejezetten a földrészlet korábbi hasznosítása felhagyásának következtében végbemenő természetes folyamat, amely során faállomány jön létre;
 
-19. sikeres első erdősítés: az e törvény végrehajtására kiadott jogszabályban meghatározott csemeteszámot elérő élő facsemetéket tartalmazó erdősítés;
+19.
 
-20. erdészeti tájidegen fafaj: őshonos fafaj, amely az adott klimatikus és termőhelyi viszonyok között természetes módon nem fordul elő;
+20. erdészeti tájidegen fafaj: őshonos fafaj, amely az adott erdészeti táj klimatikus és termőhelyi viszonyai között természetes módon nem fordul elő;
 
-21. tisztás: az Országos Erdőállomány Adattárban nyilvántartott, emberi tevékenység következtében kialakult vagy kialakított, faállománnyal nem borított terület, amelynek fenntartása közjóléti, természetvédelmi érdekeket, illetve a 68. § f)–h) pontja szerinti erdei haszonvételek gyakorlását szolgálja;
+21.
 
-22. tűzpászta: az erdők tűz elleni védelmét szolgáló, mesterségesen kialakított, fátlan terület;
+22.
 
 23. újulat: az erdő felújulását biztosító fiatal faegyedek összessége;
 
-24. vadföld: a vadászatra jogosult által gondozott olyan terület, amelyen a termesztési cél a vadállománynak szánt növényhozam előállítása;
+24.
 
-25. véghasználat: vágásos vagy átalakító üzemmódban kezelt erdőben végrehajtott fakitermelés (tarvágás, fokozatos felújító vágás és szálalóvágás), amelynél e törvény előírásai szerint felújítási kötelezettség keletkezik;
+25. véghasználat: vágásos vagy átmeneti üzemmódban kezelt erdőben végrehajtott fakitermelés, amelynek következtében erdőfelújítási kötelezettség keletkezik;
 
 26. fák koronavetülete: a fák lombkoronái függőleges vetületének határvonalai által közrefogott terület;
 
@@ -64,7 +64,13 @@
 
 30. illegális kitermelés: a 995/2010/EU európai parlamenti és tanácsi rendelet 2. cikk h) pontjában meghatározott jogszabályok megsértésével történő kitermelés vagy forgalomba hozatal;
 
-31. erdei faválaszték: közvetlenül az élő vagy holt fa kitermelése, vagy a földön fekvő fa feldolgozása során előállított hengeres – darabonként vagy sarangban készletezett – faanyag, faapríték, termék, darabolt vagy hasított tűzifa, amely jellemző műszaki paraméterek alapján jól elkülöníthető más faipari, fűrészipari alapanyagoktól és termékektől;
+31. erdei faválaszték: az álló, élő vagy elhalt fa kitermelése, valamint a földön fekvő fa feldolgozása során előállított, jellemző műszaki paraméterek alapján – faapríték esetében annak származása alapján – a fafeldolgozás termékeitől jól elkülöníthető
+
+a) hengeres vagy hasított faanyag,
+
+b) tűzifa minden felkészítési formában, illetve
+
+c) faapríték;
 
 32. faanyag kereskedelmi lánc: azon folyamatok és az abban szereplők összessége, amelyek közvetlen vagy közvetett hatással vannak az e törvény hatálya alá tartozó faanyagok, termékek előállítására, felhasználására, feldolgozására, tárolásárára, kereskedelmére, vagy forgalomba hozatalára;
 
@@ -84,4 +90,22 @@
 
 40. szállítmányt kísérő dokumentáció: számla vagy szállítólevél, amely tartalmazza az adott fatermék csomagolási egységein feltüntetett, az adott árutétel vagy a szállítmány nyomon követését szolgáló jelzést is;
 
-41. zárlat: az e törvény hatálya alá tartozó fatermék mozgatásának, szállításának, forgalomba helyezésének, további feldolgozásának, kereskedelmének korlátozása hatósági eljárás vagy vizsgálat lefolytatása érdekében.
+41. zárlat: az e törvény hatálya alá tartozó fatermék mozgatásának, szállításának, forgalomba helyezésének, további feldolgozásának, kereskedelmének korlátozása hatósági eljárás vagy vizsgálat lefolytatása érdekében;
+
+42. erdészeti feltáróhálózat: az erdőgazdálkodási tevékenység folytatása érdekében az erdőgazdálkodó által kialakított és fenntartott, erdészeti magánutakból, épített közelítő nyomokból és közelítő nyomokból álló erdei úthálózat;
+
+43. erdészeti magánút: az erdészeti szállítást és más erdőgazdálkodási tevékenységet szolgáló, hosszú távú, rendszeres gépjárműforgalom céljára – a talajfelszín megbontásával, idegen anyag elhelyezésével és tömörítésével – létrehozott erdei burkolt út;
+
+44. épített közelítő nyom: az erdőgazdálkodási tevékenységek végrehajtását szolgáló, időszakos, több éven át ismétlődő, eseti gépjárműforgalom céljára – a talajfelszín megbontásával – létrehozott erdei földút;
+
+45. közelítő nyom: az erdőgazdálkodási tevékenységek végrehajtását szolgáló alkalomszerű terepi anyagmozgatás céljára, az erdő talaján – a talajfelszín építési jellegű megbontása, illetve idegen anyag elhelyezése nélkül – létesített nyompálya, amelynek területe a használat megszűnése után újraerdősítésre alkalmas állapotban marad, vagy azzá tehető;
+
+46. erdei fafaj: az erdőt, valamint a jogszerűen fenntartott fásításokat alkotó – e törvény végrehajtására kiadott jogszabályban meghatározott – fafaj, fafajból levezethető fajta, vagy azok államilag elismert természetes vagy mesterséges hibridjei;
+
+47. őshonos fafaj: a Kárpát-medence területén nem behurcolás vagy betelepítés eredményeként flóraelemmé vált – e törvény végrehajtására kiadott jogszabályban meghatározott – erdei fafaj;
+
+48. idegenhonos fafaj: a Kárpát-medence területén behurcolás vagy betelepítés következményéként megtelepedett – e törvény végrehajtására kiadott jogszabályban meghatározott – erdei fafaj;
+
+49. intenzíven terjedő fafaj: az adott termőhelyen, a környezetében lévő fás szárú növényeknél gyorsabban terjedő, és a többi faállomány alkotó fafajt növekedésével és térfoglalásával jellemzően kiszorító – e törvény végrehajtására kiadott jogszabályban meghatározott – idegenhonos fafaj;
+
+50. termesztésbe vonható idegenhonos fafaj: faállomány alkotó fafajként alkalmazható – e törvény végrehajtására kiadott jogszabályban meghatározott – idegenhonos fafaj.

@@ -1,7 +1,11 @@
-45. § (1) Az erdészeti hatóság megtagadja vagy feltételekhez köti a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében az idegenhonos fafajokkal tervezett erdő telepítésére vonatkozó erdőtelepítési-kivitelezési terv jóváhagyását, ha az a meglévő erdő természetességi állapotának megőrzését, vagy védett természeti terület fennmaradását veszélyezteti.
+45. § (1) Erdőtelepítés a termőhelynek megfelelő, az erdei fafajok listájában szereplő, őshonos vagy termesztésbe vonható idegenhonos fafajjal végezhető.
 
-(2) Az erdőtelepítés, valamint a fásítás során figyelemmel kell lenni arra, hogy a faállomány a függőleges koronavetület növekedésével arányosan a földrészlet határán belül maradjon, továbbá arra, hogy a faállomány szomszédos ingatlan hasznosítását az indokolt mértéket meghaladó módon ne korlátozza, illetve azt ne veszélyeztesse.
+(2) Erdőtelepítéshez csak igazolt minőségű és származású szaporítóanyagot szabad felhasználni.
 
-(3) Az erdészeti hatóság által jóváhagyott erdőtelepítési-kivitelezési terv 5 évre szól.
+(3) Természetes erdő vagy természetszerű erdő természetességi állapotú erdő, valamint nem erdő művelési ágú, védett természeti terület vagy Natura 2000 területként kijelölt közösségi jelentőségű, jelölő élőhely százméteres körzetében intenzíven terjedő fafajjal erdőt, fásítást, illetve fás szárú növényekből álló, külön jogszabály szerint létesített ültetvényt telepíteni tilos.
 
-(4) Az erdőtelepítéshez, valamint a fásításhoz csak az e törvény végrehajtására kiadott jogszabályban meghatározott és igazolt minőségű szaporítóanyagot szabad felhasználni.
+(4) Repülőterek és leszállóhelyek védőövezetében erdőként vagy egyéb fával borított területként fát, illetve faállományt telepíteni csak a repülések biztonságának veszélyeztetése nélkül lehet.
+
+(5) Folyók nagyvízi medrében erdőként vagy egyéb fával borított területként fát, illetve faállományt telepíteni csak a víz és a jég megfelelő lefolyásának biztosítása mellett, a nagyvízi mederkezelési tervvel összhangban lehet.
+
+(6) Műtárgyvédelmi rendeltetésű erdő kivételével az erdőtelepítéssel érintett terület határvonalán belül elhelyezkedő három- – amennyiben az erdőtelepítés gépi ápolása miatt szükséges, akkor öt- – méteres sávban nem ültethető fa.

@@ -1,0 +1,5 @@
+57/A. § Ha az állam 100%-os tulajdonában nem álló erdő legalább két hektárt elérő területén – beleértve a folyamatban lévő erdőfelújítás területét is – a faállomány az erdőgazdálkodónak fel nem róható okból öt éven belül egymást követően legalább két alkalommal 70%-ot elérő mértékben károsodik, és az újabb károsodás kockázata – amely ellen a védekezés az erdőgazdálkodótól nem várható el – tartósan fennáll, akkor a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, annak hiányában az erdő használatára jogosult
+
+a) kezdeményezheti az erdő adásvétel vagy értékarányos földcsere útján történő állami tulajdonba vételét, vagy
+
+b) kérelmezheti az erdő mezőgazdasági művelésbe vonását, ha az a) pontban foglalt ajánlat nem haladta meg a helyben kialakult piaci árat és ezért az állam 100%-os tulajdonában lévő földek tulajdonosi joggyakorlására jogosult szerv azt visszautasította. A kérelmet az erdészeti hatóság a közérdekűség és a kivételesség vizsgálata nélkül bírálja el.

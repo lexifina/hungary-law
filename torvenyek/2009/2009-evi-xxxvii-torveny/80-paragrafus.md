@@ -6,4 +6,4 @@
 
 (4) Az elvi engedély érvényességi idején belül kezdeményezett igénybevételi eljárás során az erdészeti hatóságot, szakhatóság közreműködése esetén a szakhatóságot az elvi engedély azokban a kérdésekben, amelyekről kifejezetten rendelkezett, akkor is köti, ha időközben a jogszabályok, valamint a kötelező hatósági előírások megváltoztak. Az elvi engedély alapján az erdő igénybevétele nem kezdhető meg.
 
-(5) A 79. § (1a) bekezdés a) pontja szerinti fakitermelés bejelentésére a 41. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bejelentést az igénybevételt engedélyező határozat alapján kell megtenni. A bejelentést az erdőgazdálkodón kívül az igénybevevő is benyújthatja. Mellőzhető a bejelentés, ha az erdő igénybevétele iránti kérelemben az engedélyes a fakitermelés tárgyévi vagy a tárgyévet követő évi végrehajtására vonatkozó szándékát előre jelezte. A fakitermelés a bejelentést és a 70. § (3) bekezdése szerinti műveleti lap kiállítását követően azonnal megkezdhető.
+(5)

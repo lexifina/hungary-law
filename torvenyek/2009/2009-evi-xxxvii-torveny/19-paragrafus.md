@@ -1,13 +1,13 @@
-## Erdő vagy erdőgazdálkodás célját közvetlenül szolgáló földterület használatának általános szabályai
+## Erdőnek minősülő föld használatának általános szabályai
 
-19. § (1) Erdő vagy erdőgazdálkodás célját közvetlenül szolgáló földterület használatára kötött megállapodást írásba kell foglalni.
+19. § (1) Erdőnek minősülő föld használatára kötött megállapodást írásba kell foglalni.
 
 (2) A szerződésben – jogcímtől függetlenül – fel kell tüntetni
 
-a) az erdőgazdálkodó 18. § (6) bekezdés aa)–ad) vagy (6) bekezdés ba)–be) pontja szerinti adatait,
+a) az erdőgazdálkodó 18. § (7) bekezdés a) pont aa)–ad) alpontja vagy 18. § (7) bekezdés b) pont ba)–be) alpontja szerinti adatait,
 
-b) a 18. § (6) bekezdés c) pontja szerinti adatokat,
+b) a 18. § (7) bekezdés c) pontja szerinti adatokat,
 
-c) a felújítási biztosíték (ha van) nyújtásának módját.
+c) a felújítási biztosíték nyújtására vonatkozó rendelkezéseket.
 
-(3) A 40. § (3) bekezdés szerinti kérelem benyújtásához a tulajdonos, közös tulajdon esetében a tulajdonostársak tulajdoni hányad alapján számított 2/3 részének írásbeli hozzájáruló nyilatkozata szükséges.
+(3)

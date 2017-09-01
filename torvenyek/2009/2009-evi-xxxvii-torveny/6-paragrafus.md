@@ -1,17 +1,37 @@
 ## Az erdő
 
-6. § (1) E törvény alkalmazásában erdő:
+6. § (1) Erdőnek minősül az Adattárban:
 
-a) az Országos Erdőállomány Adattárban (a továbbiakban: Adattár) erdőként nyilvántartott terület;
+a) erdőrészletként, vagy
 
-b) az e törvény végrehajtására kiadott jogszabályban meghatározott fa- és cserjefajokból, illetve azok államilag elismert mesterséges vagy természetes hibridjeiből (a továbbiakban együtt: erdei fafajok) álló faállomány, melynek
+b) szabad rendelkezésű erdőként
 
-ba) területe a szélső fák tőben mért távolságát tekintve átlagosan legalább húsz méter széles, természetbeni kiterjedése az ötezer négyzetmétert eléri, átlagmagassága a 2 métert meghaladja és a talajt legalább ötven százalékos mértékben fedi;
+nyilvántartott terület.
 
-bb) területe a szélső fák tőben mért távolságát tekintve átlagosan legalább húsz méter széles, természetbeni kiterjedése az ötezer négyzetmétert eléri, átlagmagassága a 2 métert meghaladja és a talajt legalább harminc százalékos mértékben fedi, valamint legfontosabb szerepe a talaj védelme;
+(2) Az erdészeti hatóság a telepített erdőt, vagy a külterületen található, erdei fafajokból álló, összefüggő, legalább ötven – felnyíló erdő esetén legalább harminc – százalékos záródású, és két métert meghaladó átlagmagasságú, e törvény alapján jogszerűen fenntartható faállomány által elfoglalt területet, amelynek természetbeni kiterjedése az ötezer négyzetmétert, illetve a szélső fák tőben mért távolságát tekintve átlagosan a húsz méter szélességet eléri,
 
-c) az időlegesen igénybe vett erdő területe;
+a) telepített erdő esetében a telepítési-kivitelezési tervben, illetve a bejelentésben foglaltakkal összhangban az (1) bekezdés a) pontja szerinti erdőként, vagy az (1) bekezdés b) pontja szerinti szabad rendelkezésű erdőként,
 
-d) a nyiladék és a tűzpászta, amennyiben az átlagos szélessége 6 méternél kisebb.
+b) az a) pont alá nem tartozó esetben
 
-(2) Az e törvény végrehajtására kiadott jogszabály tartalmazza az erdőt alkotó fa- és cserjefajok jegyzékét, elkülönítve – legfeljebb erdészeti tájcsoport szintű lehatárolással – az őshonos és az idegenhonos fajokat.
+ba) a földhasználati nyilvántartásban szereplő földhasználónak – a tulajdonos és az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, illetve haszonélvezeti jog jogosultjának hozzájárulásával benyújtott – kérelmére, a kérelemben foglaltakkal összhangban az (1) bekezdés a) pontja szerinti erdőként, vagy az (1) bekezdés b) pontja szerinti szabad rendelkezésű erdőként, vagy
+
+bb) ha a faállományról nem a ba) alpont szerinti kérelem útján szerez tudomást, akkor hivatalból lefolytatott eljárásban az (1) bekezdés b) pontja szerinti szabad rendelkezésű erdőként
+
+az Adattárban nyilvántartásba veszi.
+
+(3) A (2) bekezdés alkalmazásában összefüggőnek kell tekinteni a faállományt, ha azt
+
+a) közút,
+
+b) vasút,
+
+c) folyó,
+
+d) 20 méternél szélesebb, erdőnek vagy fátlan állapotban tartott erdőnek nem minősülő terület, vagy
+
+e) az állam 100%-os tulajdonában nem álló földrészlet határa
+
+nem szakítja meg.
+
+(4) Ahol e törvény erdőt említ, ott – eltérő rendelkezés hiányában – az (1) bekezdés a) pontja szerinti erdőt kell érteni.

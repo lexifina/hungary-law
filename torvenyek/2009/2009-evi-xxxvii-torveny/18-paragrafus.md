@@ -1,14 +1,16 @@
-18. § (1) Az erdőgazdálkodó, valamint a használatában lévő erdő és erdőgazdálkodás célját közvetlenül szolgáló, erdő művelési ágú földterület adatait az erdészeti hatóság – kérelemre – nyilvántartásba veszi.
+18. § (1) Az erdőgazdálkodó, valamint a használatában álló erdő, illetve erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület (a 18-21/B. § tekintetében a továbbiakban együtt: erdőnek minősülő föld) adatairól az erdészeti hatóság nyilvántartást vezet (a továbbiakban: erdőgazdálkodói nyilvántartás).
 
-(2) Az erdőgazdálkodói nyilvántartásba a (6) bekezdés szerinti adat bejegyzésének (megváltoztatásának vagy törlésének) közhiteles hatósági nyilvántartásból történő adatátvétel, közokirat vagy teljes bizonyító erejű magánokirat alapján van helye.
+(2) Az erdőgazdálkodó az erdőgazdálkodói nyilvántartásban szereplő adatok változását – a (7) bekezdés c) pont ce) és ch) alpontjában foglalt kivétellel – 30 napon belül az erdészeti hatósághoz bejelenti. Az erdészeti hatóság a bejelentésben foglalt változásokat a nyilvántartáson átvezeti.
 
-(3) Aki szerződés alapján erdő, vagy erdőgazdálkodás célját közvetlenül szolgáló erdő művelési ágú földterület használatára jogosult, köteles a használati jogot a szerződés hatálybalépésétől számított 30 napon belül a szerződés benyújtásával az erdészeti hatósághoz nyilvántartásba vétel céljából bejelenteni.
+(3) Az erdőgazdálkodói jogok és kötelezettségek a nyilvántartásba történő bejegyzéssel keletkeznek és – a határozott idejű szerződéseket kivéve – a nyilvántartásból való törléssel szűnnek meg.
 
-(4) Aki tulajdonosként vagy nem szerződésen alapuló jogcímen erdő vagy erdőgazdálkodás célját közvetlenül szolgáló erdő művelési ágú földterület használatára jogosult, köteles a használati jogot – a használati jog fennállását igazoló okiratok benyújtásával az adott jogcím keletkezésétől számított 30 napon belül – az erdészeti hatósághoz nyilvántartásba vétel céljából bejelenteni.
+(4) Az erdőgazdálkodói nyilvántartásba a (7) bekezdés szerinti adat bejegyzésének, megváltoztatásának vagy törlésének közhiteles hatósági nyilvántartásból történő adatátvétel, közokirat vagy teljes bizonyító erejű magánokirat alapján van helye.
 
-(5) Az erdőgazdálkodói nyilvántartás adatai országosan vezetettek, nyilvánosak, azokból az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – elektronikus úton is – hiteles vagy nem hiteles, illetve teljes vagy szemle másolat adható.
+(5) Aki erdőnek minősülő föld használatára jogosult – a haszonvételi joggyakorló kivételével –, köteles azt a használati jog fennállását igazoló okiratok benyújtásával, a használati jogosultság keletkezésétől számított 30 napon belül az erdészeti hatósághoz nyilvántartásba vétel céljából bejelenteni.
 
-(6) Az erdőgazdálkodói nyilvántartás
+(6) Az erdőgazdálkodói nyilvántartás adatai országosan vezetettek, – a (7) bekezdés a) pont ab), ac), ae) és af) alpontjában foglaltak kivételével – nyilvánosak, azokból az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – elektronikus úton is – hiteles vagy nem hiteles, illetve teljes vagy szemle másolat adható.
+
+(7) Az erdőgazdálkodói nyilvántartás
 
 a) a természetes személy erdőgazdálkodó esetén a következő adatokat tartalmazza:
 
@@ -44,7 +46,7 @@ bf) a mezőgazdasági vidékfejlesztési támogatási szerv által kiadott regis
 
 bg) erdőgazdálkodói kód;
 
-c) a használt erdőre vagy erdőgazdálkodás célját közvetlenül szolgáló, erdő művelési ágú földterületre vonatkozó következő adatokat tartalmazza:
+c) az erdőgazdálkodó használatában álló, erdőnek minősülő földre vonatkozó következő adatokat tartalmazza:
 
 ca) a település neve,
 
@@ -52,26 +54,28 @@ cb) a földrészlet fekvésének (belterület, külterület) megjelölése,
 
 cc) a földrészlet helyrajzi száma,
 
-cd) az alrészlet,
+cd) az alrészlet jele,
 
-ce) a földterület erdészeti azonosítója,
+ce) használati megosztás esetén a földrészlet részterületének azonosítására a használati rendben alkalmazott alszám,
 
-cf) a használt terület nagysága,
+cf) a földterület erdészeti azonosítója,
 
-cg) a használat jogcíme,
+cg) a használt terület nagysága,
 
-ch) a nyilvántartásba vétel időpontja,
+ch) a használat jogcíme,
 
-ci) a használat időtartama;
+ci) a nyilvántartásba vétel időpontja,
 
-d) a jogosult erdészeti szakszemélyzetre vonatkozóan a következő adatokat tartalmazza:
+cj) a használat időtartama,
 
-da) családi és utónév,
+ck) erdőfelújítási biztosíték nyújtási kötelezettség fennállása;
 
-db) nyilvántartási kód;
+d) az erdőgazdálkodó által alkalmazott erdészeti szakszemélyzetre, jogosult erdészeti szakszemélyzetre, illetve erdészeti szakirányító vállalkozásra vonatkozóan annak a szakirányítói névjegyzékben rögzített nyilvántartási kódja.
 
-e) az erdészeti szakszemélyzetre vonatkozóan a következő adatokat tartalmazza:
+(8) Az erdőgazdálkodói nyilvántartás
 
-ea) családi és utónév,
+a) a (7) bekezdés a) pont ag) alpontjában, és b) pont bg) alpontjában, valamint
 
-eb) nyilvántartási kód.
+b) a (7) bekezdés c) pont ch)–cj) alpontjában foglalt, az ingatlan-nyilvántartásban erdő művelési ágban nyilvántartott földrészletekre, illetve alrészletekre vonatkozó adatok tekintetében
+
+közhiteles hatósági nyilvántartásnak minősül.
