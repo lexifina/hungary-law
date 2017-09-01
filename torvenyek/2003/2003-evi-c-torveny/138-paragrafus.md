@@ -20,7 +20,7 @@ c) az előfizetői szolgáltatás nyújtásával kapcsolatos viták rendezése v
 
 (7) Ha az előfizető a szolgáltató által követelt díj összegszerűségét vitatja, a szolgáltatónak kell bizonyítania, hogy a hálózata az illetéktelen hozzáféréstől védett és számlázási rendszere zárt, a díj számlázása, továbbá megállapítása helyes volt. Ellenkező bizonyításig nem terheli számlázási rendszere zártságának vonatkozásában külön bizonyítási kötelezettség a szolgáltatót, ha számlázási rendszere zártságát a miniszter által kijelölt tanúsító szervezet tanúsítja.
 
-(8) Az előfizetői panasz intézésére irányadó eljárást egyebekben a szolgáltató általános szerződési feltételei határozzák meg az Fgytv. 17/A. §-ában és 17/C. §-ában foglaltakkal összhangban.
+(8) Az előfizetői panasz intézésére és az ügyfélszolgálatra irányadó eljárást egyebekben a szolgáltató általános szerződési feltételei határozzák meg a fogyasztóvédelemről szóló 1997. évi CLV. törvény 17/A. §-ában, 17/B. § (1) és (3)–(3b) bekezdésében, valamint 17/C. §-ában foglaltakkal összhangban.
 
 (9) Az előfizető kérésére a szolgáltatónak az adatkezelési szabályok figyelembevételével biztosítania kell, hogy az előfizető a kezelt adatok törléséig díjmentesen megismerhesse a fizetendő díj számításához szükséges forgalmazási és számlázási adatokra vonatkozó kimutatást.
 
