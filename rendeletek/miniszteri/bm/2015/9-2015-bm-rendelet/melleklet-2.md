@@ -20,7 +20,7 @@
 
 ## c) katasztrófavédelmi referens szakképesítés-ráépülés.
 
-## 1.1.3.[^19] Felsőszintű:
+## 1.1.3.[^18] Felsőszintű:
 
 ## 1. rendészeti szervező szakképesítés, katasztrófavédelmi szervező szakmairány;
 
@@ -84,7 +84,7 @@
 
 ## b) tűzoltó szerparancsnok szakképesítés- ráépülés
 
-## c)[^20] műveletirányító referens képesítés (csak műveletirányító referens beosztás betöltése esetén).
+## c)[^19] műveletirányító referens képesítés (csak műveletirányító referens beosztás betöltése esetén).
 
 ## 1.2. 3. Felsőszintű:
 
@@ -108,7 +108,7 @@
 
 ## j) tűzvédelmi szakmérnök szakképesítés
 
-## k)[^21] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak.
+## k)[^20] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak.
 
 ## 1.2.4. A közalkalmazotti állomány részére munkáltatói igény esetén – az érintett beleegyezésével – az előző szakmai végzettségek, szakképzettségek bármelyike.
 
@@ -124,7 +124,7 @@
 
 ## a) katasztrófavédelmi referens szakképesítés- ráépülés;
 
-## 1.3.3.[^22] Felsőszintű:
+## 1.3.3.[^21] Felsőszintű:
 
 ## 1. rendészeti szervező szakképesítés, katasztrófavédelmi szervező szakmairány;
 
@@ -220,11 +220,11 @@
 
 ## j) tűzvédelmi szakmérnök szakképesítés;
 
-## k)[^23] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+## k)[^22] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
 
-## l)[^24] önkormányzati és létesítményi tűzoltó szervező képesítés;
+## l)[^23] önkormányzati és létesítményi tűzoltó szervező képesítés;
 
-## m)[^25] önkormányzati és létesítményi tűzoltó parancsnok képesítés.
+## m)[^24] önkormányzati és létesítményi tűzoltó parancsnok képesítés.
 
 ## 2.2. Az önkéntes tűzoltó egyesületek szaktevékenység végzésére jogosult tagjainak, valamint az önkormányzati tűzoltóságok önkéntes jogviszonyban álló és létesítményi tűzoltóságok alkalomszerűen igénybe vehető tagjaira vonatkozóan
 
@@ -244,7 +244,7 @@
 
 ## e) önkormányzati és létesítményi tűzoltó szerparancsnok képesítés.
 
-## 2.2.3.[^26] Felsőszintű:
+## 2.2.3.[^25] Felsőszintű:
 
 ## 1. önkéntes és létesítményi tűzoltó parancsnoki tanfolyami végzettség;
 
@@ -284,7 +284,7 @@
 
 ## a) katasztrófavédelmi előadó szakképesítés.
 
-## 3.3.[^27] Felsőszintű:
+## 3.3.[^26] Felsőszintű:
 
 ## 1. katasztrófavédelmi referens szakképesítés-ráépülés;
 
@@ -368,19 +368,19 @@
 
 ## m) tűzvédelmi szakmérnök szakképesítés vagy
 
-## n)[^28] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+## n)[^27] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
 
 ## 4.4. A hivatásos katasztrófavédelmi szerveknél tűzoltó és tűzvédelmi beosztás betöltésére jogosító felsőszintű képesítések elfogadottak a gazdálkodó szervezeteknél tűzvédelmi szakágazatban foglalkoztatottak azonos szintű képesítéseként.
 
 2. melléklet a 9/2015. (III. 25.) BM rendelethez
 
-[^19]: Az 1. melléklet 1.1.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^20]: Az 1. melléklet 1.2.2. pont c) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
-[^21]: Az 1. melléklet 1.2.3. pont k) alpontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^22]: Az 1. melléklet 1.3.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^23]: Az 1. melléklet 2.1.3. pont k) alpontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^24]: Az 1. melléklet 2.1.3. pont l) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
-[^25]: Az 1. melléklet 2.1.3. pont m) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
-[^26]: Az 1. melléklet 2.2.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^27]: Az 1. melléklet 3.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^28]: Az 1. melléklet 4.3. pont n) pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet 1.1.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^19]: Az 1. melléklet 1.2.2. pont c) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
+[^20]: Az 1. melléklet 1.2.3. pont k) alpontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet 1.3.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 2.1.3. pont k) alpontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet 2.1.3. pont l) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
+[^24]: Az 1. melléklet 2.1.3. pont m) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
+[^25]: Az 1. melléklet 2.2.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^26]: Az 1. melléklet 3.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^27]: Az 1. melléklet 4.3. pont n) pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
