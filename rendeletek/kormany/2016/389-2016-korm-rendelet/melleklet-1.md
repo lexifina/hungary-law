@@ -1,5 +1,3 @@
-## 12. § Hatályát veszti a felsőoktatási intézmények képzési, tudományos célú és fenntartói normatíva alapján történő finanszírozásáról szóló 50/2008. (III. 14.) Korm. rendelet.
-
 1. melléklet a 389/2016. (XII. 2.) Korm. rendelethez
 
 |  | A | B | C | D | E |
