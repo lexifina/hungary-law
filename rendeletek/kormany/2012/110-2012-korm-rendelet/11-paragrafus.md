@@ -1,4 +1,4 @@
-11. §[^3] (1) Az iskolák e rendelet Mellékletének – a Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (IV. 4.) Korm. rendelet módosításáról szóló 7/2014 (I. 17.) Korm. rendelettel megállapított –
+11. §[^4] (1) Az iskolák e rendelet Mellékletének – a Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (IV. 4.) Korm. rendelet módosításáról szóló 7/2014 (I. 17.) Korm. rendelettel megállapított –
 
 a) I.2.1. A köznevelési rendszer egyes feladataira és intézményeire vonatkozó külön szabályok cím Az idegennyelv-oktatás alcímében,
 
@@ -22,7 +22,7 @@ i) II.3.10. TESTNEVELÉS ÉS SPORT cím C) KÖZMŰVELTSÉGI TARTALMAK alcímébe
 
 (2) Az iskolák a 2014/2015. tanévben az (1) bekezdés alapján felülvizsgált pedagógiai programjuk szerint kezdik meg a nevelő-oktató munkát.
 
-Melléklet a 110/2012. (VI. 4.) Korm. rendelethez[^4]
+Melléklet a 110/2012. (VI. 4.) Korm. rendelethez[^5]
 
 NEMZETI ALAPTANTERV
 
@@ -32,7 +32,7 @@ AZ ISKOLAI NEVELŐ-OKTATÓ MUNKA TARTALMI SZABÁLYOZÁSA ÉS SZABÁLYOZÁSI SZIN
 
 I. 1. A KÖZNEVELÉS FELADATA ÉS ÉRTÉKEI
 
-A hazánk Alaptörvényében[^5] megfogalmazott feladatokat szem előtt tartva és A nemzeti köznevelésről szóló törvényben[^6] foglalt célok elérése érdekében, a törvény elveinek és szabályozásának megfelelően a Nemzeti alaptanterv (a továbbiakban Nat) a köznevelés feladatát alapvetően a nemzeti műveltség, a hazai nemzetiségek kultúrájának átadásában, megőrzésében, az egyetemes kultúra közvetítésében, az erkölcsi érzék és a szellemi-érzelmi fogékonyság elmélyítésében jelöli meg. Feladata továbbá a tanuláshoz és a munkához szükséges képességek, készségek, ismeretek, attitűdök együttes fejlesztése, az egyéni és csoportos teljesítmény ösztönzése, a közjóra való törekvés megalapozása, a nemzeti, közösségi összetartozás és a hazafiság megerősítése.
+A hazánk Alaptörvényében[^6] megfogalmazott feladatokat szem előtt tartva és A nemzeti köznevelésről szóló törvényben[^7] foglalt célok elérése érdekében, a törvény elveinek és szabályozásának megfelelően a Nemzeti alaptanterv (a továbbiakban Nat) a köznevelés feladatát alapvetően a nemzeti műveltség, a hazai nemzetiségek kultúrájának átadásában, megőrzésében, az egyetemes kultúra közvetítésében, az erkölcsi érzék és a szellemi-érzelmi fogékonyság elmélyítésében jelöli meg. Feladata továbbá a tanuláshoz és a munkához szükséges képességek, készségek, ismeretek, attitűdök együttes fejlesztése, az egyéni és csoportos teljesítmény ösztönzése, a közjóra való törekvés megalapozása, a nemzeti, közösségi összetartozás és a hazafiság megerősítése.
 
 Célja továbbá, hogy a családdal együttműködve cselekvő elkötelezettségre neveljen az igazság és az igazságosság, a jó és a szép iránt, fejlessze a harmonikus személyiség kibontakoztatásához szükséges szellemi, érzelmi, erkölcsi, társas és testi képességeket. Ezáltal járul hozzá ahhoz, hogy a felnövekvő nemzedék
 
@@ -304,7 +304,7 @@ II. RÉSZ
 
 Kompetenciafejlesztés, műveltségközvetítés, tudásépítés
 
-II.1. A KULCSKOMPETENCIÁK[^7]
+II.1. A KULCSKOMPETENCIÁK[^8]
 
 Az Európai Unióban kulcskompetenciákon azokat az ismereteket, készségeket és az ezek alapját alkotó képességeket és attitűdöket értjük, amelyek birtokában az Unió polgárai egyrészt gyorsan alkalmazkodhatnak a modern világ felgyorsult változásaihoz, másrészt a változások irányát és tartalmát cselekvően befolyásolhatják. A tudásalapú társadalomban felértékelődik az egyén tanulási képessége, mert az emberi cselekvőképesség az élethosszig tartó tanulás folyamatában formálódik.
 
@@ -1246,7 +1246,7 @@ színház és dráma
 
 – befogadási módok, könyvünnepek, sikerkönyvek.
 
-II.3.2. IDEGEN NYELVEK[^8]
+II.3.2. IDEGEN NYELVEK[^9]
 
 A) ÉLŐ IDEGEN NYELVEK
 
@@ -1282,7 +1282,7 @@ A nyelvtanulás célrendszere a következő:
 
 Az élő idegen nyelv tanításának és tanulásának célrendszerében hangsúlyozzuk a kommunikatív kompetencia kialakítását, amely több elemből áll. Részei a nyelvi, a szociolingvisztikai és a szövegkompetencia.
 
-A nyelvi kompetencia magában foglalja a lexikai, grammatikai, szemantikai, fonológiai és morfológiai, helyesírási ismereteket, továbbá az ezek alkalmazásához szükséges készségeket, illetve bázisképességeket. A nyelvi kompetencia az olvasott és a hallott szöveg értésén, a beszédkészségen, az interakción, valamint az íráskészség fejlesztésén keresztül aktiválódik.[^9]
+A nyelvi kompetencia magában foglalja a lexikai, grammatikai, szemantikai, fonológiai és morfológiai, helyesírási ismereteket, továbbá az ezek alkalmazásához szükséges készségeket, illetve bázisképességeket. A nyelvi kompetencia az olvasott és a hallott szöveg értésén, a beszédkészségen, az interakción, valamint az íráskészség fejlesztésén keresztül aktiválódik.[^10]
 
 A szociolingvisztikai kompetencia azon társadalmi szokások és szabályok ismeretét jelenti, amelyek erősen befolyásolják a kommunikáció sikerességét, és amelyeket a tanárnak − az anyanyelvi kultúrától való eltérése miatt − tudatosítania kell a nyelvtanulókban (például udvariassági szokások, megszólítások, nyelvi rituálék, testbeszéd, humor, stílusrétegek, dialektusok).
 
@@ -4234,11 +4234,11 @@ A Földünk – környezetünk műveltségi terület tartalmi alapozása az 1–
 
 – Az égitestek látszólagos mozgása. A Föld mozgásai és ezek következményei.
 
-[^3]: A 11. §-t a 7/2014. (I. 17.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^5]: Magyarország Alaptörvénye (2011. április 25.). Magyarország Alaptörvényét az Országgyűlés a 2011. április 18-i ülésnapján fogadta el.
-[^6]: 2011. évi CXC. törvény a nemzeti köznevelésről. A törvényt az Országgyűlés a 2011. december 19-i ülésnapján fogadta el.
-[^7]: Az Európai Parlament és a Tanács ajánlása az egész életen át tartó tanuláshoz szükséges kulcskompetenciákról, 2006. december 18. (2006/962/EK)
-[^8]: A nemzetiségek nyelvének nemzetiségi nyelvként történő tanításáról külön jogszabály rendelkezik. A magyar mint idegen nyelv tantárgyi tartalmait – sajátos helyzete miatt – a kerettantervek külön szabályozzák. A tantárgy beemelése a közoktatásba azt a célt szolgálja, hogy a migráns és az idegen anyanyelvű diákok bármikor beléphessenek a magyar közoktatás rendszerébe, és ott sikeresen tudjanak teljesíteni. Másrészről a célok, feladatok, tartalmak megfogalmazása mintául szolgálhat a határainkon túl élő kisebbségi és származásnyelvi magyar diákok nyelvi oktatásában. A magyar mint idegen nyelv egyrészt beilleszkedik az élő idegen nyelv műveltségi területbe, másrészt rugalmasan alkalmazkodik a diákok sajátos helyzetéhez, nyelvtudásához. Emellett a diákok kulturális beilleszkedését segítő ismereteket nyújt, amivel hozzájárul egészséges személyiségfejlődésükhöz, valamint sikeres, konfliktusmentes boldogulásukhoz a magyar társadalomban.
-[^9]: Ide tartozhat még a közvetítés (fordítás és tolmácsolás) készsége is.
+[^4]: A 11. §-t a 7/2014. (I. 17.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^6]: Magyarország Alaptörvénye (2011. április 25.). Magyarország Alaptörvényét az Országgyűlés a 2011. április 18-i ülésnapján fogadta el.
+[^7]: 2011. évi CXC. törvény a nemzeti köznevelésről. A törvényt az Országgyűlés a 2011. december 19-i ülésnapján fogadta el.
+[^8]: Az Európai Parlament és a Tanács ajánlása az egész életen át tartó tanuláshoz szükséges kulcskompetenciákról, 2006. december 18. (2006/962/EK)
+[^9]: A nemzetiségek nyelvének nemzetiségi nyelvként történő tanításáról külön jogszabály rendelkezik. A magyar mint idegen nyelv tantárgyi tartalmait – sajátos helyzete miatt – a kerettantervek külön szabályozzák. A tantárgy beemelése a közoktatásba azt a célt szolgálja, hogy a migráns és az idegen anyanyelvű diákok bármikor beléphessenek a magyar közoktatás rendszerébe, és ott sikeresen tudjanak teljesíteni. Másrészről a célok, feladatok, tartalmak megfogalmazása mintául szolgálhat a határainkon túl élő kisebbségi és származásnyelvi magyar diákok nyelvi oktatásában. A magyar mint idegen nyelv egyrészt beilleszkedik az élő idegen nyelv műveltségi területbe, másrészt rugalmasan alkalmazkodik a diákok sajátos helyzetéhez, nyelvtudásához. Emellett a diákok kulturális beilleszkedését segítő ismereteket nyújt, amivel hozzájárul egészséges személyiségfejlődésükhöz, valamint sikeres, konfliktusmentes boldogulásukhoz a magyar társadalomban.
+[^10]: Ide tartozhat még a közvetítés (fordítás és tolmácsolás) készsége is.
 [^6.]: Közös európai referenciakeret. Nyelvtanulás, nyelvtanítás, értékelés. Kulturális Együttműködési Tanács Közoktatási Bizottság Élő Nyelvek Osztálya, Strasbourg. Pedagógus-továbbképzési Módszertani és Információs Központ Kht., 2002. (Részletes leírásukat lásd a szöveg további részében.)

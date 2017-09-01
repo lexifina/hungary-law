@@ -12,6 +12,7 @@ d) a Hídprogram keretében szervezett kezdő évfolyamon,
 
 majd ezt követően minden tanévben felmenő rendszerben kell alkalmazni.
 
-(2) A Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 243/2003. (XII. 17.) Korm. rendelet 2017. augusztus 31-én hatályát veszti.
+(2)[^3]
 
 [^2]: A 10. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^3]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
