@@ -420,7 +420,7 @@
 
 | 110. | 109. | 54 | 841 | 03 | Légi közlekedésüzemvitel-ellátó | közlekedésért felelős miniszter |
 
-| 111. | 110. | 54 | 841 | 11 | Logisztikai és szállítmányozási ügyintéző | szakképzésért és felnőttképzésért felelős miniszter |
+| 111. | 110. | 54 | 841 | 11 | Logisztikai és szállítmányozási ügyintéző (Pénzügyi ügyintéző és Vámügyintéző) | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 112. | 111. | 54 | 582 | 03 | Magasépítő technikus | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -577,6 +577,16 @@
 | 188. | 187. | 54 | 811 | 01 | Vendéglátásszervező | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 189. | 188. | 54 | 853 | 02 | Vízgazdálkodó technikus | vízgazdálkodásért felelős miniszter |
+
+| 190. | 189. | 54 | 863 | 03 | Honvédelmi igazgatási ügyintéző | honvédelemért felelős miniszter |
+
+| 191. | 190. | 54 | 725 | 02 | Audiológiai asszisztens és hallásakusztikus | egészségügyért felelős miniszter |
+
+| 192. | 191. | 54 | 726 | 02 | Ortopédiai műszerész | egészségügyért felelős miniszter |
+
+| 193. | 192. | 54 | 841 | 11 | Logisztikai és szállítmányozási ügyintéző (Vállalkozási ügyintéző) | szakképzésért és felnőttképzésért felelős miniszter |
+
+| 194. | 193. | 52 | 345 | 04 | Közszolgálati ügykezelő | közszolgálati életpálya kidolgozásáért felelős miniszter |
 
 ## 3. táblázat: az iskolai rendszerű szakképzésben oktatható szakképesítés-ráépülések
 
@@ -867,6 +877,8 @@
 | 142. | 141. | 55 | 213 | 02 | Webfejlesztő | informatikáért felelős miniszter |
 
 | 143. | 142. | 35 | 622 | 02 | Zöldség- és gyümölcstermesztő | agrárpolitikáért felelős miniszter |
+
+| 144. | 143. | 55 | 213 | 01 | Hangtárvezető | kultúráért felelős miniszter |
 
 ## 4. táblázat: az iskolai rendszerű szakképzésben, szakiskolában, két évfolyamos képzésben oktatható részszakképesítések
 
@@ -1394,4 +1406,6 @@
 
 | st | tanulásban akadályozott |
 
-2. melléklet a 30/2016. (VIII. 31.) NGM rendelethez
+2. melléklet a 30/2016. (VIII. 31.) NGM rendelethez[^3]
+
+[^3]: A 2. melléklet a 24/2017. (VIII. 31.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
