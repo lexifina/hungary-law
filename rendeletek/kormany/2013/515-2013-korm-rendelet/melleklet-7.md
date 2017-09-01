@@ -14,7 +14,7 @@
 
 ## 7. Külföldi hatósági engedély és jelzés bevonása
 
-## 8.[^1457] Személyi azonosítóról és lakcímről szóló hatósági igazolvány kiállítása költözéssel nem járó lakcímváltozás esetén
+## 8.[^1459] Személyi azonosítóról és lakcímről szóló hatósági igazolvány kiállítása költözéssel nem járó lakcímváltozás esetén
 
 ## 9. Lakcím, értesítési cím érvénytelenségének megállapítása
 
@@ -26,7 +26,7 @@
 
 ## 13. Az elhunyt személyek okmányaival kapcsolatos intézkedések megtétele
 
-7. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^1458]
+7. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^1460]
 
-[^1457]: A 6. melléklet 8. pontja a 379/2016. (XII. 2.) Korm. rendelet 258. § (5) bekezdésével megállapított szöveg.
-[^1458]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 240. § (6) bekezdése iktatta be, szövege a 348/2015. (XI. 24.) Korm. rendelet 2. § (3) bekezdése, a 417/2015. (XII. 23.) Korm. rendelet 48. §-a, a 441/2015. (XII. 28.) Korm. rendelet 222. § (2) bekezdése, a 304/2016. (X. 13.) Korm. rendelet 2. §-a, az 53/2017. (III. 20.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^1459]: A 6. melléklet 8. pontja a 379/2016. (XII. 2.) Korm. rendelet 258. § (5) bekezdésével megállapított szöveg.
+[^1460]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 240. § (6) bekezdése iktatta be, szövege a 348/2015. (XI. 24.) Korm. rendelet 2. § (3) bekezdése, a 417/2015. (XII. 23.) Korm. rendelet 48. §-a, a 441/2015. (XII. 28.) Korm. rendelet 222. § (2) bekezdése, a 304/2016. (X. 13.) Korm. rendelet 2. §-a, az 53/2017. (III. 20.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.

@@ -1556,6 +1556,10 @@
 
 ## 781.[^733] Építésfelügyeleti hatósági bizonyítvány kiállítása iránti kérelem
 
+## 782.[^734] Vízszerelési tevékenység bejelentése
+
+## 783.[^735] Villanyszerelési tevékenység bejelentése
+
 4. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
 [^55]: A 3. melléklet 6. pontja a 348/2015. (XI. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -2237,3 +2241,5 @@
 [^731]: A 3. melléklet 779. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^732]: A 3. melléklet 780. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^733]: A 3. melléklet 781. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^734]: A 3. melléklet 782. pontját a 218/2017. (VII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^735]: A 3. melléklet 783. pontját a 218/2017. (VII. 31.) Korm. rendelet 2. §-a iktatta be.

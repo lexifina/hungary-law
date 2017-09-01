@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-515-20-
 | 2017-01-01 | 2013-515-20-22.28 | 420/2016. (XII. 14.) Korm. rendelet |
 | 2017-04-01 | 2013-515-20-22.29 | 53/2017. (III. 20.) Korm. rendelet |
 | 2017-07-01 | 2013-515-20-22.30 | 440/2016. (XII. 16.) Korm. rendelet |
+| 2017-09-01 | 2013-515-20-22.31 | 218/2017. (VII. 31.) Korm. rendelet |
