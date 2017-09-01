@@ -16,7 +16,7 @@
 
 8. 5. § 18. pontjában az „erdő jön” szövegrész helyébe a „faállomány jön” szöveg,
 
-9. 5. § 41. pontjában a „hatósági eljárás” szövegrész helyébe a „hatósági ellenőrzés, eljárás” szöveg,
+9.
 
 10. 18/A. §-ában az „az erdő” szövegrész helyébe az „a legfeljebb 10 személy tulajdonában álló erdőnek minősülő föld” szöveg,
 
@@ -30,7 +30,7 @@
 
 15. „A körzeti erdőterv” alcíme címében az „erdőterv” szövegrész helyébe az „erdőtervezés, erdőterv” szöveg,
 
-16. 33. § (5) bekezdés b) pontjában az „ , az eljárás során nyilatkozatot tett ügyfelek részére a döntés rendelkező része és indoklása kivonatának megküldésével” szövegrész helyébe az „ügyfelek részére közhírré tétellel” szöveg,
+16.
 
 17. 39. § (2) bekezdésében a „teljes vagy” szövegrész helyébe a „betekintés biztosítható, és” szöveg,
 
@@ -84,15 +84,11 @@
 
 42. 90/F. § (2) bekezdésében a „hatóság az ügyfél” szövegrész helyébe a „hatóság hivatalból, a bejelentésre kötelezett ügyfél esetében annak,” szöveg,
 
-43. 90/I. § (1) bekezdésében a „lefoglalható” szövegrész helyébe a „lefoglalható vagy zár alá vehető” szöveg,
-
-44. 90/K. § (6) bekezdésében a „lefoglalt” szövegrész helyébe az „elkobzott” szöveg,
-
-45. 90/L. § (1) bekezdésében és (2) bekezdés i) pontjában a „jogerős” szövegrész helyébe a „végleges” szöveg,
+43–45.
 
 46. 90/L. § (1) bekezdésében a „honlapján közzéteszi” szövegrész helyébe a „honlapján haladéktalanul közzéteszi” szöveg,
 
-47. 90/L. § (2) bekezdés c) pontjában a „jogerő beálltára” szövegrész helyébe a „véglegessé válásra” szöveg,
+47.
 
 48. 90/M. § (1) bekezdésében a „közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.)” szövegrész helyébe a „Ket.” szöveg,
 
@@ -130,6 +126,6 @@
 
 65. 113. § (13) bekezdésében az „erdőterv határozatban” szövegrész helyébe az „erdőtervben” szöveg,
 
-66. 113. § (17) bekezdésének nyitó szövegrészében a „jogerőre emelkedéséig” szövegrész helyébe a „véglegessé válásáig” szöveg
+66.
 
 lép.

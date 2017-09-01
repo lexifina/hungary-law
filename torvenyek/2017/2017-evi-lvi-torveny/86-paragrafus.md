@@ -16,11 +16,7 @@ i) határozza meg az erdészeti szakszemélyzet és jogosult erdészeti szakszem
 
 j) határozza meg az elektronikus úton az erdészeti hatóság felé teljesítendő kérelem, bejelentés, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus ügyintézés, nyilvántartás és adatszolgáltatás részletes szabályait, az erdészeti hatósággal való elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat.”
 
-(2) Az Evt. 112. § (1) bekezdése a következő k) ponttal egészül ki:
-
-(Felhatalmazást kap a kormány, hogy rendeletben)
-
-„k) határozza meg az erdőgazdálkodás korlátozása esetén fizetendő kártalanítás megállapításának részletes szabályait.”
+(2)
 
 (3) Az Evt. 112. § (2) bekezdés 1. és 2. pontja helyébe a következő rendelkezés lép:
 
@@ -42,11 +38,7 @@ j) határozza meg az elektronikus úton az erdészeti hatóság felé teljesíte
 
 „9. az erdészeti mérő- és megfigyelő rendszer működésének, valamint az erdőt károsító hatások megelőzésének és mérséklésének részletes szabályait;”
 
-(6) Az Evt. 112. § (2) bekezdése a következő 17. ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy rendeletben határozza meg)
-
-„17. az erdészeti szakirányítás, illetve az erdőkezelés költségeihez való hozzájárulás részletes szabályait;”
+(6)
 
 (7) Az Evt. 112. § (2) bekezdés 21. pontja helyébe a következő rendelkezés lép:
 
