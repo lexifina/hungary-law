@@ -16,4 +16,6 @@ f) központi személyügyi szerv: a Magyar Honvédség központi személyügyi f
 
 g) rehabilitációs hatóság: a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló kormányrendelet szerinti rehabilitációs ügyekben első fokon, valamint rehabilitációs és orvosszakértői szervként eljáró hatóság,
 
-h) tényleges szolgálati idő: a szolgálati viszony kezdetétől annak megszűnéséig tartó, megszakítások nélküli, egyszeresen (kedvezményes szorzók nélkül) számított szolgálati idő, ideértve a rendvédelmi feladatokat ellátó szerveknél hivatásos szolgálati jogviszonyban töltött tényleges szolgálati időt is, feltéve, hogy a Magyar Honvédségnél a szolgálati viszony áthelyezéssel létesült.
+h)[^1] tényleges szolgálati idő: a hivatásos és a szerződéses katonai szolgálati viszonyban, valamint a rendvédelmi szerveknél hivatásos szolgálati jogviszonyban töltött tényleges, beszámítás és kedvezményes szorzók nélkül számított szolgálati idő.
+
+[^1]: Az 1. § h) pontja a 10/2017. (VIII. 31.) HM rendelet 73. §-ával megállapított szöveg.

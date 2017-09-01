@@ -1,5 +1,3 @@
-## 8. § Az állomány tagja a Hjt. 68/A. § (6) bekezdése szerinti kérelmét az állományilletékes parancsnok részére nyújthatja be. Az állományilletékes parancsnok a kérelem másolatának megküldésével tájékoztatja a központi személyügyi szervet és a központi pénzügyi szervezetet.
-
 ## 7. Az egészségkárosodási ellátás megállapítása
 
 9. § (1) A honvédelmi egészségkárosodási keresetkiegészítés megállapítása érdekében az állományilletékes parancsnok – a központi személyügyi szerv egyidejű tájékoztatása mellett – felterjeszti a központi pénzügyi szervezetnek
