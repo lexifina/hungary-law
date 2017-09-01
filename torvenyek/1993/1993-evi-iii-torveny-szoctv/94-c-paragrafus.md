@@ -32,7 +32,7 @@ esetén.
 
 a) az ellátás kezdetének időpontját,
 
-b) az intézményi ellátás időtartamát (a határozott vagy határozatlan időtartam megjelölését),
+b) az intézményi ellátás időtartamát (a határozott vagy határozatlan időtartam megjelölését), szakápolási központ esetén a szakápolás határidejét,
 
 c) az igénybevevő számára nyújtott szolgáltatások tartalmát,
 

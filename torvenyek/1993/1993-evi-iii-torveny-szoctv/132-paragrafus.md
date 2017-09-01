@@ -30,7 +30,7 @@ m)
 
 n) a szociális hatóság és a szociális szakértői szerv kijelölését;
 
-o) az idősek otthonában nyújtott tartós szakápolás igénybevételének módját és annak egyéb feltételeit,
+o)
 
 p) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, utcai szociális munka és a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;
 
