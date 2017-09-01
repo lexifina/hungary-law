@@ -2,4 +2,8 @@
 
 1. § (1)
 
-(2)
+(2) A Get. 89. § (4) bekezdése helyébe a következő rendelkezés lép és a § a következő (4a) bekezdéssel egészül ki:
+
+„(4) A csatlakozóvezeték és a fogyasztói vezeték üzembe helyezéséről a földgázelosztó köteles gondoskodni. A gázfogyasztó készülék és a gázfelhasználó technológia üzembe helyezésére a készülék gyártója vagy a gyártó feljogosított megbízottja is jogosult. A földgázelosztó a gázkészülék üzembe helyezése nélkül is köteles a fogyasztói vezeték üzembe helyezését elvégezni, ha a berendezés a műszaki-biztonsági előírásoknak és a kiviteli tervnek megfelel. A gázfogyasztó készülék nem helyezhető üzembe, ha nem felel meg a forgalmazására vonatkozó követelményeknek, megfelelőségértékelése nem a jogszabályban meghatározott módon történt meg, továbbá ha az üzemelés helye nem felel meg a használatba vétel műszaki-biztonsági követelményeinek.
+
+„(4a) A földgázelosztó a fogyasztói vezeték üzembe helyezéséről a kivitelezés befejezésének a földgázelosztóhoz történt bejelentésétől számított 8 munkanapon belül köteles nyilatkozni, továbbá köteles a fogyasztói vezetéket üzembe helyezni. Amennyiben a földgázelosztó a 8 munkanapos határidőn belül nem nyilatkozik, úgy az üzembe helyezés nem tagadható meg, a földgázelosztó köteles a fogyasztói vezetéket haladéktalanul üzembe helyezni. Ha a földgázelosztó határidőn belüli nyilatkozatával a fogyasztói vezeték üzembe helyezését megtagadja, az ingatlan tulajdonosa a műszaki biztonsági hatóságtól kérheti az üzembe helyezés elrendelését. A műszaki biztonsági hatóság eljárására az e törvény végrehajtására kiadott kormányrendelet rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az alkalmassági nyilatkozat kiadására irányuló kérelmet a kérelem érkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.”
