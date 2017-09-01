@@ -1,0 +1,1 @@
+## „19a. rezidencia: a képviseletvezető és családi ellátmánypótlékra jogosító hozzátartozói részére bérelt lakóingatlan, amely megfelel a képviseletvezető reprezentációs feladatköre kritériumainak is, ideértve a kapcsolódó garázst és parkolót,”

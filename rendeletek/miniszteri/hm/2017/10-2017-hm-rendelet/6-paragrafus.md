@@ -1,0 +1,3 @@
+## 5. § Az R1. a következő 21/A. §-sal egészül ki:
+
+## „21/A. § Az állomány Hjt. 36. § (1a) bekezdése szerinti tagja esetében a szerződésnek tartalmaznia kell a szolgálati viszony kezdetét, jellegét, az állomány tagjának első rendfokozatát, a Hjt. 32. § (3) vagy (4) bekezdése szerinti szolgálati idő vállalását, a próbaidő kikötését, az alapkiképzésen való részvétel követelményét, a szerződéses pályakezdő elfogadó nyilatkozatát az alapkiképzés teljesítésének kötelezettségére vonatkozóan és a Honvédség vállalását, hogy a szerződéses pályakezdőt az állományba vételt követően a Hjt. 42. § (2) bekezdés c) pontja szerinti vezénylés útján tervezi foglalkoztatni.”
