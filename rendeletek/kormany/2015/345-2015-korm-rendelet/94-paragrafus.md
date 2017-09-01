@@ -1,4 +1,4 @@
-## 91–93. §[^43]
+## 91–93. §[^42]
 
 ## 16. A pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi
 
@@ -6,4 +6,4 @@
 
 ## 326/2013. (VIII. 30.) Korm. rendelet módosításáról szóló 249/2015. (IX. 8.) Korm. rendelet módosítása
 
-[^43]: A 91–93. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 91–93. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
