@@ -38,21 +38,7 @@
 
 ## h) egyetért azzal, hogy a Siketek és Nagyothallók Országos Szövetségének 2017. évi kiegészítő támogatása érdekében történő előirányzat-átcsoportosításról szóló 1267/2017. (V. 29.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 20. Társadalmi kohéziót erősítő tárcaközi integrációs szociális programok alcím, 6. Fogyatékos személyek esélyegyenlőségét elősegítő programok támogatása, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 500,0 millió forintból 2,2 millió forint a K3. Dologi kiadások kiemelt előirányzaton, 168,8 millió forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2013. évi kötelezettségvállalással terhelt költségvetési maradványok rendkívüli visszahagyásáról és egyes kormányhatározatok módosításáról szóló 1426/2014. (VII. 28.) Korm. határozat 2. pontjában a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 3. A bosznia-hercegovinai és szerbiai árvíz utáni újjáépítés támogatásának finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1590/2014. (X. 21.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2017. december 31.” szöveg lép.
-
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1082/2016. (II. 29.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 5. A Határozat 1. pontjában a „tekintetében 2017. december 31.” szövegrész helyébe az „és a Közgyűjtemények cím javára biztosított 100,0 millió forint tekintetében 2017. december 31.” szöveg lép.
-
-## 6. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és fejezetek közötti átcsoportosításról szóló 1437/2016. (VIII. 17.) Korm. határozat 1. pontjában a „2017. június 30.” szövegrész helyébe a „2017. június 30., a Közgyűjtemények cím javára biztosított 80 000 ezer forint tekintetében 2017. december 31.” szöveg lép.
-
-## 7. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1514/2016. (IX. 22.) Korm. határozat 1. pont a) alpontjában a „2017. június 30.” szövegrész helyébe a „2017. június 30., a Versenysport támogatása előirányzat javára biztosított 105 000 ezer forint tekintetében 2017. december 31., a Magyar Állami Operaház Andrássy úti épületének felújítása előirányzat javára biztosított 402 029 ezer forint tekintetében 2018. június 30.” szöveg lép.
-
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok felhasználásáról és egyes fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, valamint egyes Korm. határozatok módosításáról szóló 1621/2016. (XI. 11.) Korm. határozat 1. pont b) alpontjában a „2017. június 30.” szövegrész helyébe a „2017. június 30., a Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei alcím javára biztosított 142 414 ezer forint tekintetében 2018. június 30.” szöveg lép.
-
-## 9. Az egyes adóügyi ügyfélszolgálati tevékenységeknek a kormányablakokban történő ellátásához szükséges intézkedésekről szóló 1325/2017. (VI. 8.) Korm. határozat 1. pont b) alpontjában a „cím javára legfeljebb bruttó 141 000 ezer forint” szövegrész helyébe a „cím javára legfeljebb bruttó 107 386 900 forint és a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Ágazati célfeladatok alcím, 56. Kormányzati infokommunikációs szolgáltatások jogcímcsoport javára legfeljebb bruttó 33 613 100 forint” szöveg lép.
+## 2–9.[^1]
 
 1. melléklet az 1601/2017. (VIII. 31.) Korm. határozathoz
 
@@ -71,3 +57,5 @@ XVIII. Külgazdasági és Külügyminisztérium
 XLII. A költségvetés közvetlen bevételei és kiadásai
 
 XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások LXV. Bethlen Gábor Alap
+
+[^1]: A 2–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
