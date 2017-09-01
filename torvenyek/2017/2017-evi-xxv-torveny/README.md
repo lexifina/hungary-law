@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-25-00-00
 | 2017-04-11 | 2017. évi XXV. törvény | 2017-25-00-00.0 (közlönyállapot) |
 | 2017-04-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-25-00-00.1 |
 | 2017-04-12 | 2010. évi CXXX. törvény | 2017-25-00-00.2 |
+| 2017-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-25-00-00.3 |
