@@ -1,3 +1,0 @@
-2. § Az Iasz. 15. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kinevezési okirat a kinevezés kezdő napját, határozott idejű kinevezés esetén ennek időtartamát, a munkakört, a vezetői munkakört, a szolgálati helyet, a szolgálati idő kezdő időpontját, a fizetési osztályt, a fizetési fokozatot és az ezekhez kapcsolódóan megállapított alapilletményt, az esetleges pótlékok jogcímét és összegét, a legközelebbi kötelező előresorolás időpontját, a hiányzó képesítés megszerzésére adott halasztást, illetve kötelezést és ezek határidejét, a jubileumi jutalomra jogosító idő számításának kezdő időpontját, valamint a kinevezés évére járó szabadság napjainak a számát tartalmazza.”
