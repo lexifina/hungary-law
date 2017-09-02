@@ -1,3 +1,0 @@
-## „(3) A logopédiai ellátás keretében el kell végezni a harmadik és ötödik életévüket betöltött gyermekek beszéd- és nyelvi fejlettségének szűrését. A hároméveskori logopédiai szűrés a nyelvi fejlettségre (receptív és expresszív nyelv), az ötéveskori szűrés elsősorban a beszédartikulációra, illetve az írott nyelvi (írás és olvasás) készültségre irányul. A szűrés eredménye alapján szükség szerint el kell végezni a gyermek további logopédiai vizsgálatát, illetve kezdeményezni kell további gyógypedagógiai, pszichológiai, orvosi vizsgálatokat.
-
-## (4) A részletes logopédiai vizsgálat és logopédiai vizsgálati vélemény alapján kell a gyermek további logopédiai ellátását megszervezni, ha a szűrés és a logopédiai vizsgálat eredményei alapján erre szükség van.”
