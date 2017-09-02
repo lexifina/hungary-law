@@ -1,5 +1,0 @@
-## 68. § Az R6. 73/A. §-a helyébe a következő rendelkezés lép:
-
-## „73/A. § (1) A Hjt. 32. § (5) bekezdése szerinti esetben az ismételt jogviszony-létesítésre a szolgálati viszony korábbi megszűnését követő 2 éven belül akkor kerülhet sor, ha az állomány tagja a szerződéses szolgálati viszony korábbi megszűnése vonatkozásában részére kifizetett leszerelési segélyt, visszailleszkedési támogatást vagy végkielégítést az új szolgálati viszony létesítéséig teljes összegben visszafizeti.
-
-## (2) A korábbi szerződéses szolgálati viszony megszűnésekor önkéntes tartalékos katonai szolgálatot vállalók által – az önkéntes tartalékos szolgálati viszony vállalt időtartamának letelte előtt – történő újabb szerződéses szolgálati viszony létesítéskor az (1) bekezdést azzal az eltéréssel kell alkalmazni, hogy a megszűnő önkéntes tartalékos szolgálati viszony vonatkozásában kapott, a Hjt. 74/A. §-a szerinti juttatást, valamint a visszailleszkedési támogatás Hjt. 74. § (3) és (3a) bekezdése, illetve 247/E. § (3a) bekezdése szerinti részét nem kell visszafizetni.”

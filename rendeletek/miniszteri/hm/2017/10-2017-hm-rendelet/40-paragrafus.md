@@ -1,3 +1,0 @@
-## 39. § Az R4. 7. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) Ha a Hjt. 196. § (2) bekezdése szerinti fedőbeosztásban külföldi szolgálatot teljesítő kiküldött által külföldön betöltött beosztás alapján megállapított ellátmány összege elmarad a vele azonos beosztási szintű, a HM rendelet1 185. § e) pontja szerinti, fedőbeosztásnak nem minősülő beosztást ellátó kiküldött ellátmányának összegétől, a fedőbeosztást betöltő a különbözettel megegyező mértékű kiegészítő juttatásra jogosult. A kiegészítő juttatás megállapításának és folyósításának rendjét a KNBSZ főigazgatója intézkedésben határozza meg.”

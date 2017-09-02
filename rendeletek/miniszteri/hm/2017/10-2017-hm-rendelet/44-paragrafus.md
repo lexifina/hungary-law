@@ -1,1 +1,0 @@
-## „(4) Az EU-beosztást betöltő külszolgálati ellátmányra a vezénylés megkezdésének napjától az EU-beosztás átvételét megelőző napig a II. Fejezet alapján jogosult. Az EU-beosztás átvételének napjától az EU-beosztást betöltő külszolgálati ellátmány címén kizárólag családi ellátmánypótlékra jogosult.”
