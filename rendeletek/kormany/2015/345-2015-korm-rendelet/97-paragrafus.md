@@ -1,4 +1,4 @@
-## 96. §[^44]
+## 96. §[^45]
 
 ## 18. Záró rendelkezések
 
@@ -24,4 +24,4 @@
 
 (11) A 88. § (10) bekezdése, valamint a 15. melléklet 2020. szeptember 1-jén lép hatályba.
 
-[^44]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
