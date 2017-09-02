@@ -1,6 +1,6 @@
 22. § Hatályát veszti az Nkt.
 
-1. 7. § (2) bekezdésében a „konduktív pedagógiai ellátás, gyógytestnevelés, kiemelten tehetséges gyermekek, tanulók gondozása pedagógiai szakszolgálati feladatot,” szövegrész,
+1.
 
 2.
 
