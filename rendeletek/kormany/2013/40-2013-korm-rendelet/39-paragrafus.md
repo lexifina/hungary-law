@@ -20,6 +20,8 @@ fc) az állatok újbóli kihelyezését elősegítő rendszerekkel kapcsolatban,
 
 g) a kísérletek 41. § (2) bekezdése szerinti előzetes jóváhagyása.
 
+(1a)[^35] Az intézmény állatkísérleti szabályzatának ki kell terjednie a létesítményben elhelyezett vagy felhasznált állatok jólétével kapcsolatos felügyeleti, jelentéstételi és nyomonkövetési eljárásokra.
+
 (2) Az (1) bekezdés g) pontja szerinti jóváhagyás a kísérletekben alkalmazott anyagoknak és módszereknek a kísérlet céljának való megfelelőségére vonatkozik, és magába foglalja a kísérletek előzetes súlyossági besorolására vonatkozó javaslatot.
 
 (3) A jóváhagyáshoz a MÁB részére be kell mutatni
@@ -41,3 +43,5 @@ g) az állatnak okozható fájdalmat, szenvedést, kínt, károsodást, illetve 
 (4) A MÁB-nak – az (1) bekezdés b)–c) pontja alapján – az adott kísérlet ellenőrzését, felügyeletét végző tagja a kísérlet végzésében nem vehet részt.
 
 (5) A MÁB által jóváhagyott kísérletekről, az intézményben folyó állatvédelmi oktatásról (az oktatás tematikája, a résztvevők névsora), a MÁB által lebonyolított vizsgákról, valamint a MÁB által nyújtott szaktanácsadásról és a tanácsok nyomán meghozott döntésekről jegyzőkönyvet kell készíteni, és e jegyzőkönyvet 3 évig meg kell őrizni.
+
+[^35]: A 39. § (1a) bekezdését a 240/2017. (VIII. 28.) Korm. rendelet 8. §-a iktatta be.

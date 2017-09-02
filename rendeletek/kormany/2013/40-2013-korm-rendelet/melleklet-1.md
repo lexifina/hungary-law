@@ -1,6 +1,6 @@
-## 59–61. §[^53]
+## 59–61. §[^67]
 
-1. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^54]
+1. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^68]
 
 ## Kísérleti állatot tenyésztő, beszállító és felhasználó működési engedély iránti kérelem tartalmi elemei
 
@@ -40,5 +40,5 @@
 
 10. Felhívjuk a kérelmező figyelmét arra, hogy a 40/2013. (II. 14.) Korm. rendelet 16. § (3) bekezdése értelmében az engedély módosítását kell kérni a tenyésztő, beszállító vagy felhasználó valamely létesítményének szerkezetében vagy funkciójában bekövetkezett minden olyan jelentős változás esetén, amely az állatok jólétét hátrányosan érintheti, továbbá a 16. § (4) bekezdése értelmében az élelmiszerlánc-biztonsági és állategészségügyi hatóságot értesíteni kell a 4., 5., 6.2. és 6.3. pontban megnevezett személyekben beállt változásról, a változást követően 30 napon belül.
 
-[^53]: Az 59–61. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^54]: Az 1. melléklet a 189/2013. (VI. 7.) Korm. rendelet 9. § b) és c) pontja, a 70/2015. (III. 30.) Korm. rendelet 221. § f) pontja szerint módosított szöveg.
+[^67]: Az 59–61. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: Az 1. melléklet a 189/2013. (VI. 7.) Korm. rendelet 9. § b) és c) pontja, a 70/2015. (III. 30.) Korm. rendelet 221. § f) pontja szerint módosított szöveg.

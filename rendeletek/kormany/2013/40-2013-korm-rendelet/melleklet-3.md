@@ -68,19 +68,21 @@
 
 ## 5. A projektben alkalmazott összes kísérlet számozott felsorolása és ismertetése, melynek keretében a kérelmezőnek
 
-## a) ismertetnie kell a kísérletben alkalmazott módszereket, kitérve az állaton végzett beavatkozásokra; amennyiben végeznek műtétet a kísérletben, ismertetni kell az alkalmazott érzéstelenítési, gyógyszeres és fájdalomcsillapítási eljárásokat,
+## a) ismertetnie kell a kísérletben alkalmazott módszereket, kitérve az állaton végzett beavatkozásokra, továbbá ismertetnie kell az alkalmazott érzéstelenítési, gyógyszeres és fájdalomcsillapítási eljárásokat,
 
 ## b) meg kell adnia a kísérlet időtartamát,
 
 ## c) meg kell adnia a kísérletben felhasznált állatok faját és fejlődési állapotát, adott esetben jeleznie és indokolnia kell az állatok ismételt felhasználásának előfordulását,
 
-## d) ki kell térnie a felhasznált kísérleti állatok számának csökkentése érdekében alkalmazott kísérleti vagy statisztikai módszertanra; meg kell adnia a tervezett mintaelemszámot,
+## d) ki kell térnie a felhasznált kísérleti állatok számának és adott esetben a környezeti hatás mértékének csökkentése érdekében alkalmazott kísérleti vagy statisztikai módszertanra; meg kell adnia a tervezett mintaelemszámot,
 
-## e) ismertetnie kell a felhasznált kísérleti állatok fájdalmának, szenvedésének, kínjának csökkentése érdekében alkalmazott kísérleti, megfigyelési vagy méréstechnikai módszereket, kitérve a kíméletes végpontok alkalmazására,
+## e) ismertetnie kell a felhasznált kísérleti állatok fájdalmának, szenvedésének, kínjának elkerülése, valamint mértékének csökkentése érdekében alkalmazott kísérleti, megfigyelési vagy méréstechnikai módszereket, kitérve a kíméletes végpontok alkalmazására,
 
 ## f) be kell mutatnia, mi történik az állatokkal a kísérlet végeztével, milyen módon történik az állatok életének kioltása,
 
 ## g) meg kell adnia a kísérlet javasolt súlyossági besorolását, ismételt felhasználás esetén külön figyelemmel az előző kísérletek halmozódó hatására.
+
+## h) ismertetnie kell – amennyiben az értelmezhető – az indokolatlan párhuzamos eljárások elkerülése érdekében tervezett intézkedéseket.
 
 ## 6. A projektben felhasználni kívánt állatfajok felsorolása a felhasználni kívánt állatok tervezett számának és eredetének a megjelölésével.
 

@@ -2,12 +2,13 @@
 
 a) az előző kísérlet(ek) tényleges súlyossága „enyhe” vagy „mérsékelt” volt;
 
-b) az állat általános egészségi állapota és jóléte helyreállt;
+b)[^11] az állat általános egészségi állapota és jóléte dokumentáltan helyreállt;
 
 c) az új kísérlet súlyossági besorolása enyhe, mérsékelt vagy érzéstelenítéses-túlaltatásos; és
 
 d) az ismételt felhasználás összhangban áll az állatorvosi javaslattal, amely figyelembe veszi az állatot teljes életútja során érő hatásokat.
 
-(2)[^8] Rendkívüli körülmények esetén, az (1) bekezdés a) pontjában foglaltaktól eltérve az élelmiszerlánc-biztonsági és állategészségügyi hatóság állatorvosi vizsgálatot követően dönthet úgy, hogy engedélyezi az újbóli felhasználást, amennyiben az állatot csak egyszer használták fel súlyos fájdalommal, kínnal vagy azzal egyenértékű szenvedéssel járó kísérletben.
+(2)[^12] Rendkívüli körülmények esetén, az (1) bekezdés a) pontjában foglaltaktól eltérve az élelmiszerlánc-biztonsági és állategészségügyi hatóság állatorvosi vizsgálatot követően dönthet úgy, hogy engedélyezi az újbóli felhasználást, amennyiben az állatot csak egyszer használták fel súlyos fájdalommal, kínnal vagy azzal egyenértékű szenvedéssel járó kísérletben.
 
-[^8]: A 12. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.
+[^11]: A 12. § (1) bekezdés b) pontja a 240/2017. (VIII. 28.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^12]: A 12. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.

@@ -34,7 +34,7 @@
 
 ## 16. Csak terepen, lövészetben járatos személy által végezhető, abban az esetben, ha más módszerre nincs lehetőség.
 
-5. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^56]
+5. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^70]
 
 ## Oktatási és képzési minimumkövetelmények
 
@@ -54,7 +54,9 @@ e) életjelenségek megfigyelése, rögzítése, nyilvántartása,
 
 f) állatokkal való bánásmód és kezelési formák,
 
-g) fájdalomcsillapítás, altatás, kíméletes végpontok, eutanázia
+g) fájdalomcsillapítás, altatás, kíméletes végpontok, eutanázia témakörei; továbbá a kín, a nélkülözés, a fájdalom és a szenvedés fajspecifikus jeleinek felismerése a leggyakrabban felhasznált kísérleti állatoknál,
+
+h) az emberek és állatok kapcsolatának etikai vonatkozásai, az élet értéke, az állatok tudományos célra való felhasználása mellett és ellen szóló érvek.
 
 2. Az oktatás időtartama legalább 40 óra, ebből 20 óra elmélet, 20 óra gyakorlat. A gyakorlati oktatásnak az 1. pont b)–g) alpontjai szerinti témákat kell magában foglalnia.
 
@@ -76,7 +78,7 @@ f) életjelenségek megfigyelése, rögzítése, nyilvántartása,
 
 g) állatokkal való bánásmód és kezelési formák,
 
-h) fájdalomcsillapítás, altatás, kíméletes végpontok, eutanázia,
+h) fájdalomcsillapítás, altatás, kíméletes végpontok, eutanázia témakörei; továbbá a kín, a nélkülözés, a fájdalom és a szenvedés fajspecifikus jeleinek felismerése a leggyakrabban felhasznált kísérleti állatoknál,
 
 i) transzgenikus állatok, klónozás, genetikai módosításra vonatkozó ismeretek,
 
@@ -94,4 +96,4 @@ a) mesterképzésnek megfelelő diploma agrár, orvosi, gyógyszerész, állator
 
 b) Ph.D. fokozat a fenti tudományterületeken.
 
-[^56]: Az 5. melléklet a 98/2014. (III. 25.) Korm. rendelet 14. § (11) bekezdés f) pontja, (12) bekezdés b) pontja szerint módosított szöveg.
+[^70]: Az 5. melléklet a 98/2014. (III. 25.) Korm. rendelet 14. § (11) bekezdés f) pontja, (12) bekezdés b) pontja, a 240/2017. (VIII. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
