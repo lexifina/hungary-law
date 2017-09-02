@@ -1,0 +1,3 @@
+## 4. § A 40/2013. (II. 14.) Korm. rendelet 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A tenyésztő, a beszállító és a felhasználó 1. melléklet szerint benyújtott kérelme alapján, amennyiben a tenyésztő, a beszállító vagy a felhasználó és annak létesítménye megfelel az Ávtv. és e rendelet előírásainak, az élelmiszerlánc-biztonsági és állategészségügyi hatóság legfeljebb 10 évre engedélyezi a tenyésztő, a beszállító és a felhasználó működését. Az élelmiszerlánc-biztonsági és állategészségügyi hatóság az engedélyezett tenyésztőt, beszállítót és felhasználót nyilvántartásba veszi.”
