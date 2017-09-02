@@ -1,3 +1,0 @@
-57. § Az Evt. „Az erdő igénybevétele” alcíme a következő 83/A. §-sal egészül ki:
-
-„83/A. § Erdőben vagy erdőgazdálkodás célját közvetlenül szolgáló földterületen e törvény hatálybalépése előtt engedéllyel elhelyezett és funkciójának megfelelően működtetett, illetve fenntartott létesítmény által elfoglalt területre vonatkozóan az erdészeti hatóság a tulajdonos, a tulajdonos hozzájárulásával az erdőgazdálkodó, vagy a tulajdonos hozzájárulásával az igénybevevő kérelmére az igénybevétel feltételeinek vizsgálata nélkül, továbbá erdővédelmi bírság, erdővédelmi járulék, illetve csereerdősítés előírása nélkül engedélyezi az igénybevételt.”

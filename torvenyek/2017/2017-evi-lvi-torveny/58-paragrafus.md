@@ -1,7 +1,0 @@
-58. § Az Evt. 85. §-a helyébe a következő rendelkezés lép:
-
-„85. § Erdő engedély nélküli vagy engedélytől eltérő igénybevétele esetén az erdészeti hatóság fennmaradási eljárást folytat le, amelynek során
-
-a) ha az igénybevevő által benyújtott dokumentumok alapján az igénybevétel engedélyezésének feltételei fennállnak, erdővédelmi bírság egyidejű kiszabása mellett engedélyezheti a kialakult állapot fennmaradását, vagy
-
-b) határidő kitűzésével határozatban kötelezi az igénybevevőt – amennyiben az igénybevevő nem ismert vagy az igénybevevővel szemben a végrehajtási eljárás sem vezet eredményre, akkor a használatra jogosultat – a helyreállításra.”
