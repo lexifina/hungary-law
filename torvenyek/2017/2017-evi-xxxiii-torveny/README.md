@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-33-00-00
 | 2017-07-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-33-00-00.5 |
 | 2017-07-27 | 2010. évi CXXX. törvény | 2017-33-00-00.6 |
 | 2017-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-33-00-00.7 |
+| 2017-09-02 | 2010. évi CXXX. törvény | 2017-33-00-00.8 |
