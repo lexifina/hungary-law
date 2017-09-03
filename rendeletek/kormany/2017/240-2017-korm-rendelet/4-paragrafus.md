@@ -1,3 +1,0 @@
-## 3. § A 40/2013. (II. 14.) Korm. rendelet 11. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Ha a kísérlet lefolytatását rendkívüli és tudományosan igazolható indok szükségessé teszi, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró Pest Megyei Kormányhivatal (a továbbiakban: Pest Megyei Kormányhivatal) – ideiglenes jelleggel, legfeljebb a rendkívüli és tudományosan igazolható indokra figyelemmel szükséges időtartamra – engedélyt adhat olyan kísérlet lefolytatására, amely az állatok számára súlyos, várhatóan hosszú ideig tartó és nem enyhíthető fájdalommal, szenvedéssel vagy kínnal jár.”
