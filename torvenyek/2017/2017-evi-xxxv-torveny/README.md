@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-35-00-00
 | --- | --- | --- |
 | 2017-05-16 | 2017. évi XXXV. törvény | 2017-35-00-00.0 (közlönyállapot) |
 | 2017-05-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-35-00-00.1 |
+| 2017-09-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-35-00-00.2 |
