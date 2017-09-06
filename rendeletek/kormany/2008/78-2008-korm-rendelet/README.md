@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-78-20-2
 | 2017-01-01 | 2008-78-20-22.18 | 147/2015. (VI. 12.) Korm. rendelet |
 | 2017-04-01 | 2008-78-20-22.19 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-07-01 | 2008-78-20-22.20 | 362/2008. (XII. 31.) Korm. rendelet |
+| 2017-09-06 | 2008-78-20-22.21 | 379/2016. (XII. 2.) Korm. rendelet |

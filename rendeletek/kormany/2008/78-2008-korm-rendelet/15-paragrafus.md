@@ -4,7 +4,7 @@
 
 (2) A fürdővízprofilokról első alkalommal 2011. március 1-jéig kell határozatot hozni.
 
-(3)[^68] Az e rendelet előírásainak teljesítésével kapcsolatos mintavételeket és laboratóriumi vizsgálatokat akkreditált eljárás keretében 2009. március 24-ét követően kizárólag olyan laboratórium végezheti, amely az OKI által szervezett jártassági körvizsgálatokban megfelelő eredményekkel részt vett és teljesíti a 11. § (1) bekezdésében foglaltakat, valamint a népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal) erre feljogosította. A feljogosítást – kérelemre – a Kormányhivatal adja ki. A feljogosított laboratóriumok listáját a Kormányhivatal közzéteszi. A feljogosítás visszavonásig érvényes. Az e rendeletben foglalt előírások nem teljesítése esetén a visszavonást az engedélyes, az OKI vagy a Kormányhivatal kezdeményezheti.
+(3)[^68] Az e rendelet előírásainak teljesítésével kapcsolatos mintavételeket és laboratóriumi vizsgálatokat akkreditált eljárás keretében 2009. március 24-ét követően kizárólag olyan laboratórium végezheti, amely az OKI által szervezett jártassági körvizsgálatokban megfelelő eredményekkel részt vett és teljesíti a 11. § (1) bekezdésében foglaltakat, valamint a Kormányhivatal erre feljogosította. A feljogosítást – kérelemre – a Kormányhivatal adja ki. A feljogosított laboratóriumok listáját a Kormányhivatal közzéteszi. A feljogosítás visszavonásig érvényes. Az e rendeletben foglalt előírások nem teljesítése esetén a visszavonást az engedélyes, az OKI vagy a Kormányhivatal kezdeményezheti.
 
 (4)[^69]
 
@@ -40,7 +40,7 @@ bc) a vízminőség ellenőrzési ütemterv felfüggesztéséről a felfüggeszt
 
 (15)[^75] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 6. § (1) és (4) bekezdésének hatálybalépése[^76] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
 
-[^68]: A 15. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 113. § (1) bekezdésével megállapított szöveg.
+[^68]: A 15. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 113. § (1) bekezdésével megállapított, a 250/2017. (IX. 5.) Korm. rendelet 17. § b) pontja szerint módoístott szöveg.
 [^69]: A 15. § (4) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
 [^70]: A 15. § (8) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
 [^71]: A 15. § (10) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
