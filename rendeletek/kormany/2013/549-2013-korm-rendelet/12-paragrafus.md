@@ -2,23 +2,23 @@
 
 12. § (1) Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat célja a közösségi támogatások koordinálásával összefüggő, az Európai Unió alapjaiból nem fedezett, nem elszámolható, azonban a programok lebonyolításához elengedhetetlen tevékenységek kiadásai fedezetének biztosítása.
 
-(2)[^48] A Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft. uniós feladatainak támogatása előirányzat célja
+(2)[^48] A Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft. uniós feladatainak támogatása előirányzat célja a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: SZPI) által
 
-a) a Nemzeti Fejlesztési Tervhez,
+a) a Széchenyi Programirodákról szóló kormányrendeletben meghatározott tevékenységekből eredően,
 
-b) az Új Széchenyi Tervhez,
+b) a 2014–2020 közötti kohéziós politikai operatív programokhoz kapcsolódóan,
 
-c) az INTERREG Közösségi Kezdeményezés programokhoz,
+c) az INTERREG Közösségi Kezdeményezés programokhoz kapcsolódóan,
 
-d) az EGT támogatásból megvalósuló projektekhez,
+d) az EGT támogatásból megvalósuló projektekhez kapcsolódóan,
 
-e) a Norvég Alap támogatásból megvalósuló projektekhez,
+e) a Norvég Alap támogatásból megvalósuló projektekhez kapcsolódóan,
 
-f) a Svájci Alap támogatásból megvalósuló projektekhez, valamint
+f) a Svájci Alap támogatásból megvalósuló projektekhez kapcsolódóan, valamint
 
-g) az Európai Területi Együttműködés lebonyolításához
+g) az Európai Területi Együttműködés lebonyolításához kapcsolódóan
 
-## kapcsolódó, a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: SZPI) által ellátott tevékenységekből eredő, európai uniós támogatásból el nem számolható költségek finanszírozása lebonyolítási vagy támogatási szerződés útján.
+## ellátott feladatok európai uniós támogatásból el nem számolható költségeinek finanszírozása.
 
 (3) Nem európai uniós forrásból a kedvezményezett működéséhez nyújtott költségvetési támogatás biztosítása időarányosan történik. Az időarányostól eltérő folyósítást a kedvezményezett írásbeli kérelemmel kezdeményezheti.
 
@@ -29,5 +29,5 @@ g) az Európai Területi Együttműködés lebonyolításához
 (6)[^49] A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható.
 
 [^47]: Az 5. alcím címe a 72/2016. (III. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^48]: A 12. § (2) bekezdése a 401/2016. (XII. 5.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^48]: A 12. § (2) bekezdése a 253/2017. (IX. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^49]: A 12. § (6) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 4. § (2) bekezdése iktatta be.

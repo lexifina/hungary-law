@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-549-20-
 | 2016-12-06 | 2013-549-20-22.18 | 401/2016. (XII. 5.) Korm. rendelet |
 | 2017-04-11 | 2013-549-20-22.19 | 89/2017. (IV. 10.) Korm. rendelet |
 | 2017-07-11 | 2013-549-20-22.20 | 200/2017. (VII. 10.) Korm. rendelet |
+| 2017-09-06 | 2013-549-20-22.21 | 253/2017. (IX. 5.) Korm. rendelet |
