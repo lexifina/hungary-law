@@ -1,8 +1,8 @@
-## Közreműködő részvétele az egészségügyi szolgáltatás nyújtása során[^65]
+## Közreműködő részvétele az egészségügyi szolgáltatás nyújtása során[^66]
 
-12. §[^66] (1) Közreműködő igénybevételére a szervezeti egység működéséhez kapcsolódóan közreműködői szerződés alapján kerülhet sor. Közreműködői szerződést csak olyan szakmára lehet kötni, amelyre a közreműködést igénybe vevő szolgáltató működési engedéllyel rendelkezik. A szerződő felek a személyi és tárgyi feltételeket közösen biztosítják.
+12. §[^67] (1) Közreműködő igénybevételére a szervezeti egység működéséhez kapcsolódóan közreműködői szerződés alapján kerülhet sor. Közreműködői szerződést csak olyan szakmára lehet kötni, amelyre a közreműködést igénybe vevő szolgáltató működési engedéllyel rendelkezik. A szerződő felek a személyi és tárgyi feltételeket közösen biztosítják.
 
-(2)[^67] A közreműködő további közreműködői szerződést nem köthet, kivéve, ha a közreműködő által igénybe vett közreműködő személyesen nyújt szolgáltatást.
+(2)[^68] A közreműködő további közreműködői szerződést nem köthet, kivéve, ha a közreműködő által igénybe vett közreműködő személyesen nyújt szolgáltatást.
 
 (3) A közreműködői szerződés kötelezően tartalmazza:
 
@@ -24,6 +24,6 @@ h) a szolgáltatás szerződésszegés esetén történő folyamatos biztosítá
 
 i) a vitás kérdések rendezésének eljárási szabályait.
 
-[^65]: A 12. §-t megelőző alcím a 325/2011. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
-[^66]: A 12. § a 325/2011. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
-[^67]: A 12. § (2) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^66]: A 12. §-t megelőző alcím a 325/2011. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^67]: A 12. § a 325/2011. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^68]: A 12. § (2) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
