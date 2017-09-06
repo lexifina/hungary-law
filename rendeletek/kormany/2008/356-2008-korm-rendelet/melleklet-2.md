@@ -96,7 +96,7 @@
 
 | 2. ápoló, csecsemő- és gyermekápoló |  |  |  |  | * |  |  |  |  |  |
 
-| 3. mentőápoló |  |  |  | * |  |  |  |  |  |  |
+| 3. mentőápoló |  |  |  | * | * |  |  |  |  |  |
 
 | 4. szakápoló |  |  |  | * | * |  |  |  |  |  |
 

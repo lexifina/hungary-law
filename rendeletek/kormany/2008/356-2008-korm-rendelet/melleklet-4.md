@@ -1,12 +1,12 @@
 ## „I. Vezetői pótlékok az egészségügyi ágazatban
 
-## 1.[^43] Az országos feladatot ellátó, országos és állami intézetek intézményvezetőjének pótléka
+## 1.[^47] Az országos feladatot ellátó, országos és állami intézetek intézményvezetőjének pótléka
 
 ## a) gyógyító-megelőző ellátást biztosító intézetben a pótlékalap 300%-a,
 
 ## b) gyógyító-megelőző ellátást közvetlenül nem biztosító intézetekben a pótlékalap 200%-a.
 
-## 2.[^44] Az önkormányzatok által fenntartott intézetek intézményvezetőjének pótléka
+## 2.[^48] Az önkormányzatok által fenntartott intézetek intézményvezetőjének pótléka
 
 ## a) gyógyító-megelőző fekvőbeteg-ellátást biztosító intézményben a pótlékalap 250%-a,
 
@@ -20,7 +20,7 @@
 
 ## c) valamennyi közalkalmazott esetében a gyógyító-megelőző ellátást közvetlenül nem nyújtó intézetekben, az ágazati feladatok ellátásában részt vevő egyéb egészségügyi intézményben (szolgálatnál) a pótlékalap 100%-a.
 
-## II. Vezetői pótlékok a rendészetért felelős miniszter ágazati irányítása alá tartozó fegyveres szerveknél[^45]
+## II. Vezetői pótlékok a rendészetért felelős miniszter ágazati irányítása alá tartozó fegyveres szerveknél[^49]
 
 ## 1. A büntetés-végrehajtási szervek vezetőinek pótléka
 
@@ -36,7 +36,7 @@
 
 ## c) alosztályvezető: a pótlékalap 100%-a
 
-4. melléklet a 356/2008. (XII. 31.) Korm. rendelethez[^46]
+4. melléklet a 356/2008. (XII. 31.) Korm. rendelethez[^50]
 
 A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
@@ -158,6 +158,8 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
 
+| mentőápoló |  |  |  | * | * |  |  |  |  |  |  |
+
 | segédápoló |  | * | * | * |  |  |  |  |  |  |  |
 
 | szakápoló, vezető szakápoló |  |  |  | * | * | * |  |  |  |  |  |
@@ -228,7 +230,7 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | egészségügyi kisegítő | * |  |  |  |  |  |  |  |  |  |  |
 
-[^43]: A 3. melléklet I. pont 1. alpont nyitó szövegrésze a 73/2011. (IV. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^44]: A 3. melléklet I. pont 2. alpont nyitó szövegrésze a 73/2011. (IV. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^45]: A 3. melléklet II. alcím címe a 221/2014. (IX. 4.) Korm. rendelet 441. § g) pontja szerint módosított szöveg.
-[^46]: A 4. melléklet a 73/2011. (IV. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^47]: A 3. melléklet I. pont 1. alpont nyitó szövegrésze a 73/2011. (IV. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^48]: A 3. melléklet I. pont 2. alpont nyitó szövegrésze a 73/2011. (IV. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^49]: A 3. melléklet II. alcím címe a 221/2014. (IX. 4.) Korm. rendelet 441. § g) pontja szerint módosított szöveg.
+[^50]: A 4. melléklet a 73/2011. (IV. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 250/2017. (IX. 5.) Korm. rendelet 31. § (2) bekezdése szerint módosított szöveg.
