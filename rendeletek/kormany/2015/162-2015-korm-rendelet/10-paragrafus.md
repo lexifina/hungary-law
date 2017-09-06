@@ -6,7 +6,7 @@ a) az országos szakképzési grémiumok kivételével valamennyi szakképesít�
 
 b) meghatározza a jelölt képzési tervét – ennek keretében dönt a miniszteri rendelet alapján biztosítható mentességek, beszámítható képzési elemek tekintetében –, szükség esetén gondoskodik a képzési terv módosításáról,
 
-c)[^26] folyamatosan kapcsolatot tart az ÁEEK-kel és a képzőhelyekkel, valamint a munkáltatókkal, és ezen intézményekkel együttesen felelős a szakképzés elméleti és gyakorlati programjának végrehajtásáért, gondoskodik a külső képzőhelyen vagy a munkáltatótól eltérő helyen töltendő gyakorlat megszervezéséről,
+c)[^31] folyamatosan kapcsolatot tart az ÁEEK-kel és a képzőhelyekkel, valamint a munkáltatókkal, és ezen intézményekkel együttesen felelős a szakképzés elméleti és gyakorlati programjának végrehajtásáért, gondoskodik a külső képzőhelyen vagy a munkáltatótól eltérő helyen töltendő gyakorlat megszervezéséről,
 
 d) a szakképzés befejeztével igazolja a szakképzés jogszabálynak megfelelő teljesítését,
 
@@ -20,7 +20,7 @@ h) együttműködik a társegyetemekkel, valamint az Egészségügyi Szakmai Kol
 
 i) közreműködik a képzőhelyek szakképzési tevékenységének felügyeletében és
 
-j)[^27] véleményezi az ÁEEK által vezetett tutori névjegyzéket.
+j)[^32] véleményezi az ÁEEK által vezetett tutori névjegyzéket.
 
-[^26]: A 10. § c) pontja a 379/2016. (XII. 2.) Korm. rendelet 299. § d) pontja szerint módosított szöveg.
-[^27]: A 10. § j) pontja a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
+[^31]: A 10. § c) pontja a 379/2016. (XII. 2.) Korm. rendelet 299. § d) pontja szerint módosított szöveg.
+[^32]: A 10. § j) pontja a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.

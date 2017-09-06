@@ -14,9 +14,9 @@ bc) 12 hónap időtartamot meghaladó képzési elemnél arányosan az éves ren
 
 ## nem haladja meg.
 
-(2a)[^16] Az 1 hónapnál rövidebb időtartamú képzési elem csak akkor fogadható el, ha a jelölt azt teljes időtartamában teljesítette.
+(2a)[^20] Az 1 hónapnál rövidebb időtartamú képzési elem csak akkor fogadható el, ha a jelölt azt teljes időtartamában teljesítette.
 
-(3)[^17] A (2) bekezdésben foglaltak alkalmazása érdekében az egyetem kérésére a rezidens szabadságának, illetve betegszabadságának időtartamára vonatkozó információkat az ÁEEK az egyetem rendelkezésére bocsátja.
+(3)[^21] A (2) bekezdésben foglaltak alkalmazása érdekében az egyetem kérésére a rezidens szabadságának, illetve betegszabadságának időtartamára vonatkozó információkat az ÁEEK az egyetem rendelkezésére bocsátja.
 
 (4) Ha a képzési elem teljesítése során igénybe vett szabadság vagy betegszabadság időtartama a (2) bekezdés b) pontja szerinti időtartamot meghaladja, az adott képzési elem a szabadság vagy betegszabadság időtartamának megfelelő azon szakterület szerinti gyakorlati idő igazolásával elismerhető el, amelynek elismerésére a szabadság vagy betegszabadság miatt nem került sor.
 
@@ -26,5 +26,5 @@ bc) 12 hónap időtartamot meghaladó képzési elemnél arányosan az éves ren
 
 (7) Az Eütev. 11/B. § (7) bekezdésének alkalmazásában munkaidőkeretként – az ügyeleti feladatellátás helyétől függően – a képzőhely által meghatározott munkaidőkeretet kell figyelembe venni.
 
-[^16]: A 6. § (2a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 4. §-a iktatta be.
-[^17]: A 6. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
+[^20]: A 6. § (2a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 4. §-a iktatta be.
+[^21]: A 6. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.

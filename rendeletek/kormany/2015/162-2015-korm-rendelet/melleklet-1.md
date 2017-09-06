@@ -1,4 +1,4 @@
-## 50. §[^104]
+## 50. §[^122]
 
 1. melléklet a 162/2015. (VI. 30.) Korm. rendelethez
 
@@ -22,7 +22,7 @@
 
 1.8. pénzügyi körzet,
 
-1.9.[^105] NEAK (Nemzeti Egészségbiztosítási Alapkezelő) finanszírozási kód,
+1.9.[^123] NEAK (Nemzeti Egészségbiztosítási Alapkezelő) finanszírozási kód,
 
 1.10. bankszámlaszám, bankszámlát vezető pénzintézet neve.
 
@@ -50,5 +50,5 @@ Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezide
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
 
-[^104]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^105]: Az 1. melléklet 1. pont 1.9. alpontja a 379/2016. (XII. 2.) Korm. rendelet 299. § m) pontja szerint módosított szöveg.
+[^122]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: Az 1. melléklet 1. pont 1.9. alpontja a 379/2016. (XII. 2.) Korm. rendelet 299. § m) pontja szerint módosított szöveg.
