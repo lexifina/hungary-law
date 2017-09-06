@@ -1,4 +1,4 @@
-5/B. §[^15] (1) Az 5/A. § szerint megtett bejelentés alapján egészségügyi tevékenység egy alkalommal végezhető azzal, hogy egy donorból történő több szerv eltávolítása egy alkalomnak minősül.
+5/B. §[^17] (1) Az 5/A. § szerint megtett bejelentés alapján egészségügyi tevékenység egy alkalommal végezhető azzal, hogy egy donorból történő több szerv eltávolítása egy alkalomnak minősül.
 
 (2) Az Adatlap kitöltése angol vagy magyar nyelven egyaránt történhet.
 
@@ -8,4 +8,4 @@
 
 (5) A bejelentés alapján az egészségügyi tevékenység végzése a jogszabályok, a szakmai szabályok és irányelvek, valamint az egészségügyi dolgozókra irányadó etikai szabályok megtartásával történik, amelyek betartatásáért az az egészségügyi szolgáltató felelős, amely a szervkivételre működési engedéllyel rendelkezik.
 
-[^15]: Az 5/B. §-t a 379/2016. (XII. 2.) Korm. rendelet 289. § (3) bekezdése iktatta be.
+[^17]: Az 5/B. §-t a 379/2016. (XII. 2.) Korm. rendelet 289. § (3) bekezdése iktatta be.

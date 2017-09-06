@@ -1,4 +1,4 @@
-6/A. §[^20] (1) A Kormány az ÁEEK-et jelöli ki az Eütv. szerint
+6/A. §[^22] (1) A Kormány az ÁEEK-et jelöli ki az Eütv. szerint
 
 a) az alapnyilvántartást vezető egészségügyi államigazgatási szervként,
 
@@ -24,4 +24,4 @@ d) 110/A. § (1) és (4) bekezdése
 
 (3) A Kormány egészségügyi államigazgatási szervként az ÁEEK-et jelöli ki az emberi erőforrások minisztere ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 27/2016. (IX. 16.) EMMI rendelet 2. § c) pontja szerinti feladatok ellátására.
 
-[^20]: A 6/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 289. § (4) bekezdése iktatta be.
+[^22]: A 6/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 289. § (4) bekezdése iktatta be.

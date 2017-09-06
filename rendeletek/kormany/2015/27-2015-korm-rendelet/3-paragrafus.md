@@ -66,7 +66,11 @@ p)[^7] ellátja a külföldön felhasználni kívánt orvosi igazolás hitelesí
 
 q)[^8] közreműködik a jogszabályokon és nemzetközi megállapodásokon alapuló adatgyűjtésben, összegyűjti és elemzi az egészségügyi ágazatban dolgozók bér- és létszám-statisztikai adatait, valamint az egészségügyi ellátórendszerrel összefüggésben az ágazati döntéshozatalt elősegítő rendszerelemzési feladatokat lát el,
 
-r)[^9] részt vesz az egészségügyi ellátásokra vonatkozó minőségügyi standardok továbbfejlesztésében.
+r)[^9] részt vesz az egészségügyi ellátásokra vonatkozó minőségügyi standardok továbbfejlesztésében,
+
+s)[^10] az adatkezelése alá tartozó egészségügyi dokumentációból – az előírt megőrzési időn belül – az érintett kérelmére vagy jogszabályban feljogosított szerv vagy személy indítványa alapján betekintést engedélyez, adatot szolgáltat, másolatot ad ki,
+
+t)[^11] gondoskodik arról, hogy a kezelésében lévő, illetve általa feldolgozott dokumentáció olvashatósága a törvényben előírtak szerint fennmaradjon.
 
 [^1]: A 3. § j) pontja a 379/2016. (XII. 2.) Korm. rendelet 289. § (1) bekezdésével megállapított szöveg.
 [^2]: A 3. § k) pontját a 379/2016. (XII. 2.) Korm. rendelet 289. § (1) bekezdése iktatta be.
@@ -77,3 +81,5 @@ r)[^9] részt vesz az egészségügyi ellátásokra vonatkozó minőségügyi st
 [^7]: A 3. § p) pontját a 379/2016. (XII. 2.) Korm. rendelet 289. § (1) bekezdése iktatta be.
 [^8]: A 3. § q) pontját a 379/2016. (XII. 2.) Korm. rendelet 289. § (1) bekezdése iktatta be.
 [^9]: A 3. § r) pontját a 379/2016. (XII. 2.) Korm. rendelet 289. § (1) bekezdése iktatta be.
+[^10]: A 3. § s) pontját a 250/2017. (IX. 5.) Korm. rendelet 53. §-a iktatta be.
+[^11]: A 3. § t) pontját a 250/2017. (IX. 5.) Korm. rendelet 53. §-a iktatta be.
