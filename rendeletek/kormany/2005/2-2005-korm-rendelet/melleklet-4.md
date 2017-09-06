@@ -28,7 +28,7 @@
 
 ## b)[^23] a természetes gyógytényezők, gyógyhelyek természeti adottságainak védelmére kiterjedően:
 
-## az egészségügyért felelős miniszter;
+## Budapest Főváros Kormányhivatala;
 
 ## c)[^24] kulturális örökség (műemlékvédelem, régészet) védelmére kiterjedően:
 
@@ -207,7 +207,7 @@
 [^20]: A 3. számú melléklet I.1.c) pontja a 118/2015. (V. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^21]: A 3. számú melléklet I.1.d) pontját a 118/2015. (V. 13.) Korm. rendelet 1. §-a iktatta be.
 [^22]: A 3. számú melléklet I. pont I.2. alpont a) alpontja a 221/2014. (IX. 4.) Korm. rendelet 295. § b) pontja szerint módosított szöveg.
-[^23]: A 3. számú melléklet I. pont I.2. alpont b) alpontja a 221/2014. (IX. 4.) Korm. rendelet 295. § c) pontja szerint módosított szöveg.
+[^23]: A 3. számú melléklet I. rész I.2. pont b) alpontja a 250/2017. (IX. 5.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^24]: A 3. számú melléklet I. pont I.2. alpont c) alpontja a 221/2014. (IX. 4.) Korm. rendelet 295. § d) pontja szerint módosított szöveg.
 [^25]: A 3. számú melléklet I. pont I.2. alpont e) alpontja a 221/2014. (IX. 4.) Korm. rendelet 295. § c) pontja szerint módosított szöveg.
 [^26]: A 3. számú melléklet I.2.f) pontját a 118/2015. (V. 13.) Korm. rendelet 1. §-a iktatta be.
