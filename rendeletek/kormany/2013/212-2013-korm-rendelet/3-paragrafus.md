@@ -1,6 +1,14 @@
 ## 3. § A kedvezményes hitel vagy kölcsön és a kamattámogatás igénybevételére az a gyógyszerész jogosult, aki
 
-a)[^9] tulajdonhányadot kíván szerezni a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban a Gyftv. 83/A. § (7) bekezdésében foglaltak szerinti, a nem gyógyszerészi tulajdonban lévő tulajdoni hányad megvásárlásához érvényesített elővásárlási jog gyakorlásával;
+a)[^9] a Gyftv. 83/A. § (7) bekezdésében foglaltak szerinti elővásárlási jog gyakorlásával tulajdonhányadot kíván szerezni a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban,
+
+aa) oly módon, hogy 2017. január 1-jét követően sem közvetlenül, sem közvetetten nem rendelkezett tulajdoni hányaddal gyógyszertárat működtető gazdasági társaságban,
+
+ab) amely egy település gyógyszerellátását egyedül biztosítja,
+
+ac) oly módon, hogy a tulajdonhányad szerzésével növekedik a meglévő gyógyszerészi tulajdoni hányad a gyógyszertárat működtető gazdasági társaságban, vagy
+
+ad) amely 100%-os gyógyszerészi tulajdoni hányaddal rendelkezik.
 
 b) nyilatkozik arról, hogy
 
@@ -38,7 +46,7 @@ g) kötelezettséget vállal arra, hogy a Patika Hitelprogram keretében felvett
 
 h) csatolja nyilatkozatát arról, hogy a gyógyszerészi foglalkozás gyakorlását kizáró ok vele szemben nem áll fenn.
 
-[^9]: A 3. § a) pontja a 172/2016. (VII. 1.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^9]: Az 1. § d) pontja a 250/2017. (IX. 5.) Korm. rendelet 47. §-ával megállapított szöveg.
 [^10]: A 3. § c) pontja a 192/2015. (VII. 21.) Korm. rendelet 54. §-a szerint módosított szöveg.
 [^11]: A 3. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 233. §-a szerint módosított szöveg.
 [^12]: A 3. § e) pont ee) alpontját a 172/2016. (VII. 1.) Korm. rendelet 60. § (2) bekezdése iktatta be.

@@ -6,7 +6,7 @@ b) közforgalmú gyógyszertár: a Gyftv. 3. § 16. pontjában meghatározott gy
 
 c) hitelcéllal érintett gyógyszertár: az a közforgalmú gyógyszertár, amelyet működtető gazdasági társaságban a gyógyszerész tulajdoni hányadot kíván szerezni;
 
-d)[^2] Patika Hitelprogram: az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) által az MFB Vállalkozásfinanszírozási Program vagy az MFB Vállalkozásfinanszírozási Program 2020 (a továbbiakban együtt: Vállalkozásfinanszírozási Program) keretében működtetett, a Gyftv. 74. § (1) bekezdésében és 83/A. § (1) bekezdésében említett követelményeknek történő megfelelés elősegítése céljából meghirdetett program;
+d)[^2] Patika Hitelprogram: az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) által az MFB Vállalkozásfinanszírozási Program vagy az MFB Vállalkozásfinanszírozási Program 2020 (a továbbiakban együtt: Vállalkozásfinanszírozási Program) keretében működtetett program;
 
 e) kedvezményes hitel vagy kölcsön: a Patika Hitelprogram keretében felvehető, kedvezményes kamatozású hitel vagy kölcsön;
 
@@ -27,6 +27,6 @@ l) támogatástartalom: a kedvezményezett számára nyújtott állami támogat�
 m) támogatástartalomról szóló igazolás: a kamattámogatás támogatástartalmáról szóló, a támogatás nyújtó szerv által kiállított igazolás, amely a támogatás „de minimis” jellegét is megjelöli.
 
 [^1]: Az 1. § a) pontja a 334/2014. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § d) pontja a 334/2014. (XII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 1. § d) pontja a 250/2017. (IX. 5.) Korm. rendelet 47. §-ával megállapított szöveg.
 [^3]: Az 1. § f) pontja az 537/2013. (XII. 30.) Korm. rendelet 80. §-a szerint módosított szöveg.
 [^4]: Az 1. § h) pontja a 169/2014. (VII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
