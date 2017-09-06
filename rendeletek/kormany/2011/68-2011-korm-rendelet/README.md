@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-68-20-2
 | 2016-04-02 | 2011-68-20-22.11 | 27/2014. (II. 7.) Korm. rendelet |
 | 2016-06-08 | 2011-68-20-22.12 | 36/2013. (II. 14.) Korm. rendelet |
 | 2016-12-06 | 2011-68-20-22.13 | 27/2014. (II. 7.) Korm. rendelet |
+| 2017-09-06 | 2011-68-20-22.14 | 253/2017. (IX. 5.) Korm. rendelet |

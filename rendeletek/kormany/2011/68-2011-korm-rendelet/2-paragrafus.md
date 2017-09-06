@@ -1,14 +1,14 @@
-2. §[^1] (1)[^2] Az Irodákat az európai uniós források felhasználásáért felelős miniszter (a továbbiakban: miniszter) felügyeli.
+2. §[^2] (1)[^3] Az Irodákat az európai uniós források felhasználásáért felelős miniszter (a továbbiakban: miniszter) felügyeli.
 
 (2) A Kormány az Irodák működtetésére a Széchenyi Programiroda Nonprofit Kft.-t (a továbbiakban: Társaság) jelöli ki. A Társaság az Irodák működtetése keretében megyénként legalább egy telephelyet vagy fióktelepet tart fenn.
 
-(3)[^3] A Társaság feladata az Irodák rendszerének fejlesztése. A Társaság – a nemzetközi programok kivételével – támogatja a 2014–2020 programozási időszakban a területi alapú tervezés koordinációját.
+(3)[^4] A Társaság feladata az Irodák rendszerének fejlesztése. A Társaság – a nemzetközi programok kivételével – támogatja a 2014–2020 programozási időszakban a területi alapú tervezés koordinációját.
 
-(3a)[^4] A Társaság 2014. január 1-jétől ellátja a 2007–2013 programozási időszakhoz kapcsolódóan a miniszter és a Társaság közötti – az egyes operatív programok technikai segítségnyújtás keretéből finanszírozott – szerződésben rögzített, az európai uniós támogatásban részesülő, nem a támogatási szerződésben vállaltaknak megfelelően előrehaladó projektek projektfelügyeleti rendszerének kialakítását és működtetését.
+(3a)[^5] A Társaság 2014. január 1-jétől ellátja a 2007–2013 programozási időszakhoz kapcsolódóan a miniszter és a Társaság közötti – az egyes operatív programok technikai segítségnyújtás keretéből finanszírozott – szerződésben rögzített, az európai uniós támogatásban részesülő, nem a támogatási szerződésben vállaltaknak megfelelően előrehaladó projektek projektfelügyeleti rendszerének kialakítását és működtetését.
 
-(3b)[^5] A Társaság részt vesz a 2014–2020 programozási időszak vonatkozásában az egyes európai uniós alapokból származó támogatások felhasználásával összefüggő feladatok ellátásában, különös tekintettel a támogatást igénylők és a kedvezményezettek segítésére, kapacitásának fejlesztésére, valamint a projektfelügyeleti rendszer működtetésére a projektek tervezése és megvalósítása során.
+(3b)[^6] A Társaság részt vesz a 2014–2020 programozási időszak vonatkozásában az egyes európai uniós alapokból származó támogatások felhasználásával összefüggő feladatok ellátásában, segíti a támogatást igénylőket és a kedvezményezetteket, közreműködik kapacitásuk fejlesztésében, rendszeresen tájékoztatja a fejlesztéspolitikai intézményrendszer résztvevőit és a közszféraszervezeteket a források felhasználásával kapcsolatos és egyéb európai uniós ügyekről, valamint működteti a projektfelügyeleti rendszert a projektek tervezése és megvalósítása során.
 
-(4)[^6] A Társaság ellátja
+(4)[^7] A Társaság ellátja
 
 a) a Közreműködő Szervezet és a Testvértelepülés és Partnerség Pályázati Alap Támogatásközvetítő Szervezet feladatait a Svájci–Magyar Együttműködési Program tekintetében,
 
@@ -28,15 +28,18 @@ h) az európai szomszédsági és partnerségi támogatási eszköz létrehozás
 
 i) a nemzeti kapcsolattartó pont feladatokat az INTERACT 2 Operatív Program tekintetében.
 
-(5)[^7] A Társaság részt vesz az egyes komplex nemzeti térségfejlesztési programokkal kapcsolatos feladatellátásban, koordinációban, működteti az egyes komplex nemzeti térségfejlesztési programok végrehajtását támogató irodákat.
+(5)[^8] A Társaság részt vesz az egyes komplex nemzeti térségfejlesztési programokkal kapcsolatos feladatellátásban, koordinációban, működteti az egyes komplex nemzeti térségfejlesztési programok végrehajtását támogató irodákat.
 
-(6)[^8] A Társaság – a nemzeti együttműködés keretében – elláthatja az egyes nemzeti támogatási programokkal kapcsolatosan a pályázók és kedvezményezettek helyben támogatását a források felhasználásának elősegítése érdekében. A Társaság feladata, hogy hatékonyan segítse céljaik megvalósításában a pályázókat és a pályázni szándékozó személyeket, szervezeteket.
+(6)[^9] A Társaság – a nemzeti együttműködés keretében – elláthatja az egyes nemzeti támogatási programokkal kapcsolatosan a pályázók és kedvezményezettek helyben támogatását a források felhasználásának elősegítése érdekében. A Társaság feladata, hogy hatékonyan segítse céljaik megvalósításában a pályázókat és a pályázni szándékozó személyeket, szervezeteket.
 
-[^1]: A 2. § a 36/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 194/2014. (VII. 31.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (3) bekezdése a 27/2014. (II. 7.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (3a) bekezdését 450/2013. (XI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 564. §-a szerint módosított szöveg.
-[^5]: A 2. § (3b) bekezdését a 398/2015. (XII. 12.) Korm. rendelet 1. §-a iktatta be.
-[^6]: A 2. § (4) bekezdése a 194/2014. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^7]: A 2. § (5) bekezdését a 27/2014. (II. 7.) Korm. rendelet 9. § (4) bekezdése iktatta be, szövege a 399/2016. (XII. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^8]: A 2. § (6) bekezdését a 399/2016. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
+(7)[^10] A Társaság részt vehet az egyes határ menti gazdaságfejlesztési programok megvalósításában, ennek keretében a külgazdasági és külügyminiszter a Társaságot a központi költségvetésről szóló törvényben meghatározott Külgazdasági és Külügyminisztérium fejezet terhére a felvidéki gazdaságfejlesztési stratégia keretében nyújtandó költségvetési támogatásokkal kapcsolatos lebonyolítási feladatok ellátásával megbízhatja.
+
+[^2]: A 2. § a 36/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 194/2014. (VII. 31.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 27/2014. (II. 7.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (3a) bekezdését 450/2013. (XI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 564. §-a szerint módosított szöveg.
+[^6]: A 2. § (3b) bekezdését a 398/2015. (XII. 12.) Korm. rendelet 1. §-a iktatta be, szövege a 253/2017. (IX. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (4) bekezdése a 194/2014. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 2. § (5) bekezdését a 27/2014. (II. 7.) Korm. rendelet 9. § (4) bekezdése iktatta be, szövege a 399/2016. (XII. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. § (6) bekezdését a 399/2016. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A 2. § (7) bekezdését a 253/2017. (IX. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
