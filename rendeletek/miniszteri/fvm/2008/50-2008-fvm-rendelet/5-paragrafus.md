@@ -20,11 +20,11 @@ d)[^14] a tökre oltott dinnye termesztése esetén a vetésváltási szabályok
 
 (5)–(6)[^16]
 
-(7)[^17] A tájképi elemet tartalmazó területen azok védelme érdekében az 1. számú melléklet 7. pontjában foglalt előírásokat kell betartani. A gémeskutak megőrzési kötelezettsége vonatkozásában a 2010. évi, a mezőgazdasági és vidékfejlesztési támogatási szerv által felmért állapot számít kiindulási alapnak.
+(7)[^17] A gémeskutak megőrzési kötelezettsége vonatkozásában a 2010. évi, a mezőgazdasági és vidékfejlesztési támogatási szerv által felmért állapot számít kiindulási alapnak.
 
-(8)[^18] Az 1. számú melléklet 7. pontja alapján a kunhalmok területén tilos bárminemű talajmunka végzése.
+(8)[^18]
 
-(8a)[^19] A (8) bekezdésben foglalt tilalom alól kivételt képez a gyeptelepítés előkészítéséhez szükséges talajmunka.
+(8a)[^19]
 
 (9)[^20] Az 1. számú melléklet 1. pontjában szereplő, a vízvédelmi sávokra vonatkozó előírásokat 2012. január 1-jétől kell alkalmazni.
 
@@ -39,8 +39,8 @@ d)[^14] a tökre oltott dinnye termesztése esetén a vetésváltási szabályok
 [^14]: Az 5. § (3) bekezdés d) pontját a 121/2011. (XII. 21.) VM rendelet 3. §-a iktatta be.
 [^15]: Az 5. § (4) bekezdése a 32/2010. (III. 30.) FVM rendelet 3. § (1) bekezdésével megállapított, a 29/2011. (IV. 22.) VM rendelet 7. §-a, a 13/2015. (III. 30.) FM rendelet 7. § g) pontja szerint módosított szöveg.
 [^16]: Az 5. § (5)–(6) bekezdését a 13/2015. (III. 30.) FM rendelet 8. § b) pontja hatályon kívül helyezte.
-[^17]: Az 5. § (7) bekezdését a 32/2010. (III. 30.) FVM rendelet 3. § (2) bekezdése iktatta be, szövege a 29/2011. (IV. 22.) VM rendelet 3. § (2) bekezdésével megállapított, a 13/2015. (III. 30.) FM rendelet 7. § h) pontja, a 88/2016. (XII. 29.) FM rendelet 29. § a) pontja szerint módosított szöveg.
-[^18]: Az 5. § (8) bekezdését a 32/2010. (III. 30.) FVM rendelet 3. § (2) bekezdése iktatta be, szövege a 32/2013. (V. 9.) VM rendelet 1. § (2) bekezdésével megállapított, a 13/2015. (III. 30.) FM rendelet 7. § i) pontja szerint módosított szöveg.
-[^19]: Az 5. § (8a) bekezdését a 32/2013. (V. 9.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^17]: Az 5. § (7) bekezdését a 32/2010. (III. 30.) FVM rendelet 3. § (2) bekezdése iktatta be, szövege a 44/2017. (IX. 5.) FM rendelet 1. §-ával megállapított szöveg.
+[^18]: Az 5. § (8) bekezdését a 32/2010. (III. 30.) FVM rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 44/2017. (IX. 5.) FM rendelet 3. §-a.
+[^19]: Az 5. § (8a) bekezdését a 32/2013. (V. 9.) VM rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 44/2017. (IX. 5.) FM rendelet 3. §-a.
 [^20]: Az 5. § (9) bekezdését a 121/2011. (XII. 21.) VM rendelet 4. §-a iktatta be, szövege a 13/2015. (III. 30.) FM rendelet 7. § j) pontja szerint módosított szöveg.
 [^21]: Az 5. § (10) bekezdését a 32/2013. (V. 9.) VM rendelet 1. § (4) bekezdése iktatta be, hatályon kívül helyezte a 13/2015. (III. 30.) FM rendelet 8. § b) pontja.

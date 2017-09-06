@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-50-20-8
 | 2015-09-17 | 2008-50-20-82.11 | 54/2015. (IX. 16.) FM rendelet |
 | 2017-01-01 | 2008-50-20-82.12 | 32/2010. (III. 30.) FVM rendelet |
 | 2017-04-11 | 2008-50-20-82.13 | 17/2017. (IV. 10.) FM rendelet |
+| 2017-09-06 | 2008-50-20-82.14 | 32/2010. (III. 30.) FVM rendelet |
