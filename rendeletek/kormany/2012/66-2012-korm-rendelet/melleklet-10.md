@@ -1,62 +1,68 @@
 ## Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
-## 9/a táblázat: Kábítószer becslés a 20... évre
+## 9/a táblázat
 
-## Becsült kábítószer felhasználás (1)
+## Kábítószer becslés a 20... évre
 
-| Kábítószer megnevezése | 1 | 2 | 3 | 4 | 5 | 6 |
+## Becsült felhasználás (1)
 
-| Import | Export | Nagykeres- kedelmi értékesítés | Kiskereskedelmi értékesítés és tudományos felhasználás | Gyártáshoz felhasználni kívánt mennyiség | .... XII. 31-i tervezett készlet |
+## 7K27069_0
 
-| Más kábítószer előállítására | K3 jegyzék szerinti készítményhez | Nem ellenőrzött készítményhez |
+|  | 1 | 2 | 3 | 4 | 5 | 6 |
 
-| függetlenül attól, hogy a gyártás célja hazai felhasználás vagy export |
+| Kábítószer megnevezése | Import | Export | Nagykereskedelmi értékesítés | Kiskereskedelmi értékesítés és tudományos felhasználás | Gyártáshoz felhasználni kívánt mennyiség |  |
 
-| kg | g | kg | g | kg | g | kg | g | kg | g | kg | g | kg | g | kg | g |
+| Más kábítószer előállítására | K3 jegyzék szerinti készítményhez | Nem ellenőrzött készítményhez | .... XII. 31-i tervezett készlet |
 
-## Becsült CPS felhasználás (2)
+|  |  |  |  | függetlenül attól, hogy a gyártás célja hazai felhasználás vagy export |  |  |
 
-| Kábítószer megnevezése | 1 | 2 | 3 |
+|  | kg | g | kg | g | kg | g | kg | g | kg | g | kg | g | kg | g | kg | g |
 
-| Gyógyászati és tudományos felhaszná- lásra szánt mennyiség | Gyártáshoz felhasználni kívánt mennyiség | .... XII. 31-i tervezett készlet |
+## Becsült felhasználás (2)
 
-| Más kábítószer előállítására | K3 jegyzék szerinti készítmény- hez | Nem ellenőrzött készítmény- hez |
+|  | 1 | 2 | 3 |
 
-| függetlenül attól, hogy a gyártás célja hazai felhasználás vagy export |
+|  |  | Gyártáshoz felhasználni kívánt mennyiség | .... XII. 31-i tervezett készlet |
 
-| kg | g | kg | g | kg | g | kg | g | kg | g |
+| Kábítószer megnevezése | Gyógyászati és tudományos felhasználásra szánt mennyiség | Más kábítószer előállítására | K3 jegyzék szerinti készítményhez | Nem ellenőrzött készítményhez |  |
+
+|  |  |  | függetlenül attól, hogy a gyártás célja hazai felhasználás vagy export |  |  |
+
+|  | kg | g | kg | g | kg | g | kg | g | kg | g |
 
 | CPS (M) |  |  |  |  |  |  |  |  |  |  |
 
-| AMA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| AMA (%) |  |  |  |  |  |  |  |  |  |  |
 
-| ACA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| ACA (%) |  |  |  |  |  |  |  |  |  |  |
 
-| ATA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| ATA (%) |  |  |  |  |  |  |  |  |  |  |
 
-| AOA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| AOA (%) |  |  |  |  |  |  |  |  |  |  |
 
 | CPS (T) |  |  |  |  |  |  |  |  |  |  |
 
-| ATA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| ATA (%) |  |  |  |  |  |  |  |  |  |  |
 
-| AMA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| AMA (%) |  |  |  |  |  |  |  |  |  |  |
 
-| AOA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| AOA (%) |  |  |  |  |  |  |  |  |  |  |
 
-| ACA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| ACA (%) |  |  |  |  |  |  |  |  |  |  |
 
 | CPS (O) |  |  |  |  |  |  |  |  |  |  |
 
-| AOA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| AOA (%) |  |  |  |  |  |  |  |  |  |  |
 
-| AMA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| AMA (%) |  |  |  |  |  |  |  |  |  |  |
 
-| ATA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| ATA (%) |  |  |  |  |  |  |  |  |  |  |
 
-| ACA (%) |  |  |  |  |  |  |  |  |  |  |  |
+| ACA (%) |  |  |  |  |  |  |  |  |  |  |
 
-## 9/b táblázat: Kábítószer becslés szintetikus kábítószerek 20... évi gyártására
+## 9/b táblázat
+
+## Kábítószer becslés szintetikus kábítószerek 20... évi gyártására
 
 | Gyártani kívánt szintetikus kábítószer megnevezése | Mennyisége (kg) |
 
@@ -64,7 +70,7 @@
 
 ## K1 jegyzék
 
-| Acetylmethadol | Diethylthiambutene | Ketobemidone | Pethidine – Intermediate-C |
+| Acetylmethadol | Diethylthiambutene | Ketobemidone | Pethidine - Intermediate-C |
 
 | Alfentanil | Difenoxin | Levomethorphan | Phenadoxone |
 
@@ -90,84 +96,88 @@
 
 | Betaprodine | Etoxeridine | Normethadone | Racemorphan |
 
-| Bezitramide | Fentanyl | Norpipanone | Remifentanil |
+| Bezitramidé | Fentanyl | Norpipanone | Remifentanil |
 
-| Clonitazene | Furethidine | Pethidine | Sufentanil |
+| Clonitazene | Furetbidine | Pethidine | Sufentanil |
 
-| Dextromoramide | Hydroxypethidine | Pethidine - Intermediate-A | Tilidine |
+| Dextromoramide | Hydroxypetbidine | Pethidine - Intermediate-A | Tilidine |
 
 | Diampromide | Isomethadone | Pethidine - Intermediate-B | Trimeperidine |
 
 ## K2 jegyzék
 
-| Dextropropoxyphene |
+| Dextropropoxyphene |  |  |  |
 
-| Propiram |
+| Propiram |  |  |  |
 
-## 9/c táblázat: Ipari máktermesztetés becslése a 20... évben
+## 9/c táblázat
+
+## Ipari máktermesztetés becslése a 20... évben
 
 ## Javaslat ipari mák termesztetésére
+
+| I. | II. |
 
 | Közigazgatási terület (megye) | Vetésterület nagysága (ha) |
 
 | 1. Mákszalma (M) gyártásához |  |
 
-| …………… megye |  |
+| ............... megye |  |
 
-| …………… megye |  |
+| ............... megye |  |
 
 | Összesen: |  |
 
 | 2. Mákszalma (T) gyártásához |  |
 
-| …………… megye |  |
+| ............... megye |  |
 
-| …………… megye |  |
+| ............... megye |  |
 
 | Összesen: |  |
 
 | 3. Mákszalma (C) gyártásához |  |
 
-| …………… megye |  |
+| ............... megye |  |
 
-| …………… megye |  |
+| ............... megye |  |
 
 | Összesen: |  |
 
-| III |
+| III. |
 
 | A kinyerni tervezett összes alkaloid mennyiség a fenti vetésterületről (vízmentes bázisban) |
 
-| PS (M) |
+| Mákszalma (M) |
 
-| Total PS (M) AMA (kg) |  |
+| Összes mákszalma (M) AMA (kg) |  |
 
-| Total PS (M) ACA (kg) |  |
+| Összes mákszalma (M) ACA (kg) |  |
 
-| Total PS (M) ATA (kg) |  |
+| Összes mákszalma (M) ATA (kg) |  |
 
-| Total PS (M) AOA (kg) |  |
+| Összes mákszalma (M) AOA (kg) |  |
 
-| PS(T) |
+| Mákszalma (T) |
 
-| Total PS (T) ATA (kg) |  |
+| Összes mákszalma (T) ATA (kg) |  |
 
-| Total PS (T) AMA (kg) |  |
+| Összes mákszalma (T) AMA (kg) |  |
 
-| Total PS (T) ACA (kg) |  |
+| Összes mákszalma (T) ACA (kg) |  |
 
-| Total PS (T) AOA (kg) |  |
+| Összes mákszalma (T) AOA (kg) |  |
 
-| PS (C) |
+| Mákszalma (C) |
 
-| Total PS (C) ACA (kg) |  |
+| Összes mákszalma (C) ACA (kg) |  |
 
-| Total PS (C) AMA (kg) |  |
+| Összes mákszalma (C) AMA (kg) |  |
 
-| Total PS (C) ATA (kg) |  |
+| Összes mákszalma (C) ATA (kg) |  |
 
-| Total PS (C) AOA (kg) |  |
+| Összes mákszalma (C) AOA (kg) |  |
 
-10. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^130]
+10. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^134]
 
-[^130]: A 10. melléklet a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés o) pontja szerint módosított szöveg.
+[^134]: A 10. melléklet a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés o) pontja szerint módosított szöveg.

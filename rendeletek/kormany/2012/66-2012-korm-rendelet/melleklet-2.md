@@ -334,11 +334,11 @@
 
 | 6 | Cathinone(katinon) | (-)-(S)-2-amino-propiophenone |
 
-| 7 | 2C-I EU2 | 2,5-dimethoxy-4-iodophenethylamine EU24-Iod-2,5-dimethoxyphenethylazan°° |
+| 7 | 2C-I EU2 | 2,5-dimethoxy-4-iodophenethylamineEU24-Iod-2,5-dimethoxyphenethylazan°° |
 
-| 8 | 2C-T-2 EU2 | 2,5-dimethoxy-4-ethylthiophenethylamine EU24-Ethylsulfanyl-2,5-dimethoxy-phenethylazan°° |
+| 8 | 2C-T-2EU2 | 2,5-dimethoxy-4-ethylthiophenethylamineEU24-Ethylsulfanyl-2,5-dimethoxy-phenethylazan°° |
 
-| 9 | 2C-T-7 EU2 | 2,5-dimetoxi-4(n)-propil-tio-fenetil-amin EU22,5-Dimethoxy-4-(propylsulfanyl)-phenethylazan°° |
+| 9 | 2C-T-7EU2 | 2,5-dimetoxi-4(n)-propil-tio-fenetil-aminEU22,5-Dimethoxy-4-(propylsulfanyl)-phenethylazan°° |
 
 | 10 | DET | 3-[2-(diethyl-amino)ethyl]indole |
 
@@ -390,7 +390,7 @@
 
 | 34 | Methylone** (Metilon) | 1-(1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one |
 
-| 35 | Mephedrone EU4(mefedron) | (RS)-1-(4-methylphenyl)-2-methylaminopropan-1-one, 4-methylmethcathinone, 4-methylephedrone, 4-MMC |
+| 35 | MephedroneEU4(mefedron) | (RS)-1-(4-methylphenyl)-2-methylaminopropan-1-one, 4-methylmethcathinone, 4-methylephedrone, 4-MMC |
 
 | 36 | Mescaline (meszkalin) | 3,4,5-trimethoxyphenethylamine |
 
@@ -410,7 +410,7 @@
 
 | 44 | PMA | p-methoxy-α-methylphenethylamine |
 
-| 45 | PMMAEU1 | paramethoxymethylamphetamineEU1 vagy N-methyl- 1-(4-methoxyphenyl)-2-aminopropane vagy p-methoxy-N,α-dimethylphenethylamine |
+| 45 | PMMAEU1 | paramethoxymethylamphetamineEU1vagy N-methyl- 1-(4-methoxyphenyl)-2-aminopropane vagy p-methoxy-N,α-dimethylphenethylamine |
 
 | 46 | Psilocine (pszilocin) /Psilotsin/ | 3-[2-(dimethylamino)ethyl]indol-4-ol |
 
@@ -438,7 +438,7 @@
 
 | 53 | TMA (trimetoxiamfetamin) | (±)-3,4,5-trimethoxy- α-methylphenethylamine |
 
-| 54 | TMA-2 EU2(2,4,5- trimetoxiamfetamin) | 2,4,5-trimethoxyamphetamine EU21-(2,4,5-Trimethoxyphenyl)propan-2-ylazan°° |
+| 54 | TMA-2 EU2(2,4,5- trimetoxiamfetamin) | 2,4,5-trimethoxyamphetamineEU21-(2,4,5-Trimethoxyphenyl)propan-2-ylazan°° |
 
 | 55 | 4- MA, 4- methylamphetamine (4-metilamfetamin) | 1-(4-methylphenyl)propan-2-amine |
 
@@ -574,7 +574,11 @@
 
 | 121 | EG-018 | (naphthalen-1-yl)(9-pentyl-9H-carbazol-3-yl)-methanone |
 
+## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
+
 ## – és az ebben a jegyzékben felsorolt kábítószerek sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
+
+## – és az ebben a jegyzékben felsorolt anyagok sói, amennyiben ilyen sók léteznek.
 
 ## – és az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
 
@@ -604,7 +608,7 @@
 
 | 6 | Dexamfetamine (dexamfetamin) /dexamphetamine/ | (+)-α-methylphenetylamine |
 
-| 7 | Dronabinol2 (dronabinol) /delta-9-tetrahydrocannabinol and its stereochemical variants /delta-9-tetrahidrokannabinol (delta-9-THC) és sztereokémiai varánsai/ | (6aR, 10aR)-6a,7,8, 10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H- dibenzo[b,d]pyran-1-ol |
+| 7 | Dronabinol2(dronabinol)/delta-9-tetrahydrocannabinol and its stereochemical variants /delta-9-tetrahidrokannabinol (delta-9-THC) és sztereokémiai varánsai/ | (6aR, 10aR)-6a,7,8, 10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H- dibenzo[b,d]pyran-1-ol |
 
 | 8 | Fenetylline (fenetillin) | 7-[2-[(α-methylphenethyl)amino]ethyl]theophylline |
 
@@ -640,7 +644,11 @@
 
 | 24 | Zipeprol (zipeprol) | α-(-α-methoxybenzyl)-4-(β-methoxyphenetyl)-1-piperazineethanol |
 
+## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
+
 ## – és az ebben a jegyzékben felsorolt kábítószerek sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
+
+## – és az ebben a jegyzékben felsorolt anyagok sói, amennyiben ilyen sók léteznek.
 
 ## – és az ebben a jegyzékben felsorolt anyagok sói, amennyiben ilyen sók léteznek.
 
@@ -673,10 +681,6 @@
 | 7 | Glutethimide (glutetimid) | 2-ethyl-2-phenylglutarimide |
 
 | 8 | Pentobarbital (pentobarbitál) | 5-ethyl-5-(1-methylbutyl)barbituric acid |
-
-## – és az ebben a jegyzékben felsorolt kábítószerek sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
-
-## – és az ebben a jegyzékben felsorolt anyagok sói, amennyiben ilyen sók léteznek.
 
 ## Megjegyzés:
 
@@ -810,10 +814,6 @@
 
 | 62 | Zolpidem (zolpidem) | N,N,6-trimethyl-2-p-tolylimidazo[1,2-α]pyridine-3-acetamide |
 
-## – és az ebben a jegyzékben felsorolt kábítószerek sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
-
-## – és az ebben a jegyzékben felsorolt anyagok sói, amennyiben ilyen sók léteznek.
-
 ## Megjegyzés:
 
 ## A P4 jegyzék a Pszichotróp Egyezmény aktualizált IV. listája alapján készült.
@@ -822,13 +822,13 @@
 
 ## D) AZ ÚJ PSZICHOAKTÍV ANYAGGÁ MINŐSÍTETT ANYAGOKRÓL VAGY VEGYÜLETCSOPORTOKRÓL SZÓLÓ MINISZTERI RENDELETBŐL ÁTHELYEZETT ANYAGOK JEGYZÉKE
 
-2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^124]
+2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^126]
 
-## Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
+Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
-Éves jelentés a kábítószerek gyártásáról, készletéről, forgalmazásáról
+## Éves jelentés a kábítószerek gyártásáról, készletéről, forgalmazásáról
 
-20........ év
+## 20........ év
 
 | Adatszolgáltató neve: |  | Kitöltés dátuma: |
 
@@ -836,7 +836,7 @@
 
 | Kábítószer felelős neve: |  |  |
 
-Kitöltési útmutató
+## Kitöltési útmutató
 
 1. A hatóanyag mennyiségeket vízmentes bázisra számítva kell megadni.
 
@@ -844,310 +844,4 @@ Kitöltési útmutató
 
 3. Statisztikai szempontból nem minősül gyártásnak a csomagolás, átcsomagolás.
 
-Megjegyzések (leíró rész):
-
-Cégszerű aláírás, cégbélyegző, dátum, a kábítószer felelős ellenjegyzése:
-
-2/a táblázat
-
-Éves kábítószer anyagmérleg
-
-| Kábítószer megnevezés | Felhasználható mennyiség (g) | Felhasznált mennyiség (g) |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-
-| Nyitó készlet (... I. 1.) | Gyártás | Import | Belföldi beszerzés | Egyéb | Összesen (1-5) | Értékesítés | Gyártáshoz felhasznált mennyiség | Export | Egyéb | Záró készlet (... XII. 31.) | Összesen (7-15) |
-
-| Fogyasztás | Nagy- kereske- delem | Más kábító- szer | K3 jegyzék szerinti készít- mény | Nem ellenőr- zött készít- mény |
-
-| Kiskeres- kedelem | Tudomá- nyos kutatás |
-
-A 2/a táblázat 5., 14. és 15. számú oszlopának részletezése
-
-| 5 |
-
-| Egyéb |
-
-| Visszáru (VA) | Termelési többlet | Más ok |
-
-| Nagykereskedőtől - Gyártótól | Patikai visszáru adott évi kiszállításból | Patikai visszáru előző évek kiszállításból |  |  |
-
-| 14 |
-
-| Egyéb ( kárba veszett és/vagy megsemmisített mennyiségek grammban) |
-
-| Hatóanyag neve | Technológiai veszteségek/ folyamatfüggő veszteségek | Minőség ellenőrzéssel/minőség biztosítással összefüggő veszteségek | Lopások | Egyéb veszteségek | Ipari kutatás és fejlesztés |
-
-Magyarázat a 14. oszlop részletezéséhez:
-
-| Technológiai veszteségek/ folyamatfüggő veszteségek | Minőség ellenőrzéssel/minőség biztosítással összefüggő veszteségek | Lopások | Egyéb veszteségek | Ipari kutatás és fejlesztés |
-
-| Alapanyagoknál |
-
-| tisztítás (purifikálás), finomítás | mintavétel |  | kémiai bomlás |  |
-
-| átalakítás bázis, sav, stb. formába | minőségi hibák |  | tárolás alatti kiömlés |  |
-
-| izomer szeparálás |  |  | tárolás alatti párolgás |  |
-
-| aprítás (mikronizálás) |  |  | káresetek |  |
-
-| szárítás |  |  | lejárt szavatosság |  |
-
-| őrlés, darálás |  |  | berendezés meghibásodása |  |
-
-| szitálás |  |  |  |  |
-
-| súlymérés |  |  |  |  |
-
-| Készítményeknél |
-
-| gyógyszerforma készítés | mintavétel |  | kémiai bomlás | pilot gyártási tételek |
-
-| mérés | minőségi hibák |  | káreset | kísérleti gyártási tételek |
-
-| csomagolás |  |  | lejárt szavatosság | fejlesztési gyártási tételek |
-
-| osztályozás (minősítés) |  |  | berendezés meghibásodása | kiterjesztési gyártási tételek |
-
-|  |  |  |  | validációs tételek |
-
-|  |  |  |  | egyéb tudományos célok |
-
-| 15 |
-
-| Zárókészlet |
-
-| Készlet (selejt nélkül) | Selejt |
-
-2/b táblázat
-
-Belföldi kábítószer forgalom részletezése
-
-|  | Belföldi beszerzés | Belföldi nagykereskedelmi értékesítés |
-
-| Megnevezés | Szállító (Eladó) | Mennyiség | Vevő | Mennyiség |
-
-| Hatóanyag | Készítmény | Kiszerelés | Hatóanyag | Kiszerelés | Hatóanyag |
-
-2/c táblázat
-
-Mákszalma koncentrátum (CPS) gyógyszergyártás céljára történő előállítása
-
-| 1 | 2 | 3 | 4 | 5 |
-
-| Előállított CPS mennyiség | Kábítószer | Fogyasztás | Készlet .......... XII. 31-én | Veszteség* |
-
-| kg | g |  | kg | g | kg | g | kg | g |
-
-|  |  | CPS (M) |  |  |  |  |  |  |
-
-|  |  | AMA |  |  |  |  |  |  |
-
-|  |  | ACA |  |  |  |  |  |  |
-
-|  |  | ATA |  |  |  |  |  |  |
-
-|  |  | AOA |  |  |  |  |  |  |
-
-|  |  | CPS(O) |  |  |  |  |  |  |
-
-|  |  | AOA |  |  |  |  |  |  |
-
-|  |  | AMA |  |  |  |  |  |  |
-
-|  |  | ACA |  |  |  |  |  |  |
-
-|  |  | ATA |  |  |  |  |  |  |
-
-|  |  | CPS(T) |  |  |  |  |  |  |
-
-|  |  | ATA |  |  |  |  |  |  |
-
-|  |  | AMA |  |  |  |  |  |  |
-
-|  |  | ACA |  |  |  |  |  |  |
-
-|  |  | AOA |  |  |  |  |  |  |
-
-Megjegyzések:
-
-| *kárba veszett és/vagy megsemmisített mennyiségek |
-
-| CPS: concentrate of poppy straw – mákszalma koncentrátum (bruttó súlyban kifejezve) CPS(M): morphine előállítás, CPS(T): thebaine előállítás, CPS(O): oripavine előállítás céljára |
-
-| AMA: anhydrous morphine alkaloid – a vízmentes morphine alkaloid |
-
-| ACA: anhydrous codeine alkaloid – vízmentes codeine alkaloid |
-
-| ATA: anhydrous thebaine alkaloid – vízmentes thebaine alkaloid |
-
-2/d táblázat
-
-Opioidok gyártása
-
-| 1 | 2 | 3 | 4 |
-
-| Felhasznált anyag | Felhasznált mennyiség | Kinyert anyag | Kinyert mennyiség |
-
-| kg | g | kg | G |
-
-| Ópium |  |  | Morphine |  |  |
-
-|  |  | Codeine |  |  |
-
-|  |  | Thebaine |  |  |
-
-| Mákszalma (M) |  |  | CPS (M) |  |  |
-
-|  |  | AMA |  |  |
-
-|  |  | ACA |  |  |
-
-|  |  | ATA |  |  |
-
-|  |  | AOA |  |  |
-
-|  |  | Morphine |  |  |
-
-|  |  | Codeine |  |  |
-
-|  |  | Thebaine |  |  |
-
-|  |  | Oripavine |  |  |
-
-| Mákszalma (T) |  |  | CPS (T) |  |  |
-
-|  |  | AMA |  |  |
-
-|  |  | ACA |  |  |
-
-|  |  | ATA |  |  |
-
-|  |  | AOA |  |  |
-
-|  |  | CPS (O) |  |  |
-
-|  |  | AMA |  |  |
-
-|  |  | ACA |  |  |
-
-|  |  | ATA |  |  |
-
-|  |  | AOA |  |  |
-
-|  |  | Thebaine |  |  |
-
-| Papaver bracteatum |  |  | Thebaine |  |  |
-
-| CPS (M) |  |  |  |  |  |
-
-| AMA |  |  | Morphine |  |  |
-
-| ACA |  |  | Codeine |  |  |
-
-| ATA |  |  | Thebaine |  |  |
-
-| AOA |  |  | Oripavine |  |  |
-
-| CPS (T) |  |  |  |  |  |
-
-| ATA |  |  | Thebaine |  |  |
-
-| AMA |  |  | Morphine |  |  |
-
-| ACA |  |  | Codeine |  |  |
-
-| AOA |  |  | Oripavine |  |  |
-
-| CPS (O) |  |  |  |  |  |
-
-| AOA |  |  | Oripavine |  |  |
-
-| AMA |  |  | Morphine |  |  |
-
-| ACA |  |  | Codeine |  |  |
-
-| ATA |  |  | Thebaine |  |  |
-
-| Alkaloid tartalmú technológiai víz (eredet részletezésével) |  |  | Morphine |  |  |
-
-|  |  | Codeine |  |  |
-
-|  |  | Oripavine/Thebaine |  |  |
-
-2/e táblázat
-
-Ipari máktermesztés
-
-| Ipari mák termesztés | 1 | 2 |
-
-| Vetésterület (ha) | Gyártott mennyiség (kg) |
-
-| Vetett | Betakarított | Ópium | Mákszalma |
-
-| 1. Ópium gyártásra |  |  |  |  |
-
-| 2.(a) Mákszalma (M) kábítószer gyártáshoz |  |  |  |  |
-
-| 2.(b) Mákszalma (T) kábítószer gyártáshoz |  |  |  |  |
-
-| 3. Nem kábítószer gyártásra |  |  |  |  |
-
-2/f táblázat
-
-Lefoglalt kábítószerek
-
-Lefoglalt kábítószerek, a gyógyszerek kivételével (1)
-
-|  | 1 | 2 | 3 | 4 | 5 |
-
-| Anyag | Lefoglalt mennyiség a tárgyévben | Lefoglalt tárolt kábítószerek (az előző évek elkobzott mennyiségével együtt) | Döntésre váró mennyiség |
-
-| Megsemmisített mennyiség | Legális célra felhasznált mennyiség | Különleges célokra átadott mennyiség |
-
-|  | kg | g | kg | g | kg | g | kg | g | kg | G |
-
-| Cannabis |  |  |  |  |  |  |  |  |  |  |
-
-| Cannabis resin |  |  |  |  |  |  |  |  |  |  |
-
-| Coca leaf |  |  |  |  |  |  |  |  |  |  |
-
-| Coca paste |  |  |  |  |  |  |  |  |  |  |
-
-| Cocaine |  |  |  |  |  |  |  |  |  |  |
-
-| Heroin |  |  |  |  |  |  |  |  |  |  |
-
-| Morphine |  |  |  |  |  |  |  |  |  |  |
-
-| Opium |  |  |  |  |  |  |  |  |  |  |
-
-| Egyéb |  |  |  |  |  |  |  |  |  |  |
-
-Lefoglalt kábítószer tartalmú gyógyszerek (2)
-
-| Anyag | Gyógyszerforma és hatóanyag tartalom kiszerelési egységre vonatkoztatva |
-
-| 1 Ampulla | 2 Kapszula | 3 Tapasz | 4 Tabletta | 5 Egyéb gyógyszerforma |
-
-| Kiszerelési egységek száma | Ható- anyag- tartalom (mg) | Kiszerelési egységek száma | Ható- anyag- tartalom (mg) | Kiszerelési egységek száma | Ható- anyag- tartalom (mg) | Kiszerelési egységek száma | Ható- anyag- tartalom (mg) | Forma | Kiszerelési egységek száma | Hatóanyag- tartalom (mg) |
-
-| Codeine |  |  |  |  |  |  |  |  |  |  |  |
-
-| Fentanyl |  |  |  |  |  |  |  |  |  |  |  |
-
-| Methadone |  |  |  |  |  |  |  |  |  |  |  |
-
-| Morphine |  |  |  |  |  |  |  |  |  |  |  |
-
-| Oxycodone |  |  |  |  |  |  |  |  |  |  |  |
-
-| Pethidine |  |  |  |  |  |  |  |  |  |  |  |
-
-| Egyéb* |  |  |  |  |  |  |  |  |  |  |  |
-
-* Bármely más gyógyszer, amely kábítószert (pl. dihydrocodeine, dextropropoxyphene, hydrocodone, hydromorphone, trimeperidine, stb.) tartalmaz.
-
-[^124]: A 2. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja szerint módosított szöveg.
+[^126]: A 2. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja, a 250/2017. (IX. 5.) Korm. rendelet 44. § (1) bekezdése szerint módosított szöveg.

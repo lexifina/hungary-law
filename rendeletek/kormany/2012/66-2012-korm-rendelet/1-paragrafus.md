@@ -72,7 +72,9 @@
 
 35.[^8] előállítás: az opioid alkaloidok elválasztása az azt szolgáltató máknövénytől, valamint a kannabisz, kannabisz gyanta elválasztása az azt szolgáltató kannabisz növénytől;
 
-36.[^9] kifejtetlen máktok: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 1. § f) pontja szerinti fogalom.
+36.[^9] kifejtetlen máktok: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 1. § f) pontja szerinti fogalom;
+
+37.[^10] kábítószerért felelős személy helyettese: a nem gyógyászati célú tevékenységi engedélyben a kábítószerért felelős személy helyetteseként megjelölt személy, aki a kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal folytatott tevékenységgel kapcsolatos feladatokat ellátja és felügyeli, és akire az e rendeletben a kábítószerért felelős személyre előírt szabályok vonatkoznak a 6. § (3) bekezdésében előírt speciális végzettség kivételével, amely speciális végzettség helyett a tevékenység végzéséhez az adott engedélyesnél előírt legmagasabb végzettség igazolása szükséges.
 
 [^1]: Az 1. § 3. pontja a 172/2016. (VII. 1.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § 7. pontja a 13/2014. (I. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
@@ -83,3 +85,4 @@
 [^7]: Az 1. § 34. pontja a 367/2014. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^8]: Az 1. § 35. pontját a 137/2012. (VI. 29.) Korm. rendelet 81. § (2) bekezdése iktatta be.
 [^9]: Az 1. § 36. pontját a 172/2016. (VII. 1.) Korm. rendelet 48. §-a iktatta be.
+[^10]: Az 1. § 37. pontját a 250/2017. (IX. 5.) Korm. rendelet 37. §-a iktatta be.

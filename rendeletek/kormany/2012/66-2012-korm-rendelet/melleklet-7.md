@@ -20,6 +20,6 @@
 
 | Ez a dokumentum 5 példányban készül, minden példányát eredeti bélyegzővel és eredeti aláírással kell ellátni. Az 1. példány a megrendelőnél marad. A 2. példány az átadónál marad. A 3., 4., 5. példány a szállítmánnyal visszakerül a megrendelőhöz. A megrendelő a 4., 5. példányt az átadónak 48 órán belül visszaküldi, aki az 5. példányt az OGYÉI-nek küldi tovább. |
 
-7. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^127]
+7. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^131]
 
-[^127]: A 7. melléklet a 30/2015. (II. 25.) Korm. rendelet 65. § b) és k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m)–n) pontja szerint módosított szöveg.
+[^131]: A 7. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (5) bekezdésével megállapított szöveg.

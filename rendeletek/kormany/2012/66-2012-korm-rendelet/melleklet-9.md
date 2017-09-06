@@ -2,72 +2,70 @@
 
 ## KÁBÍTÓSZER (K1, K2) / PSZICHOTRÓP ANYAG (P1, P2, P3, P4) IMPORT adatlap
 
-## Külforgalmi engedély kiadását kérem az OGYÉI-nek a mellékelt adatlap(ok)ban felsorolt, nemzetközi egyezmények és hatályos jogszabályok szerint ellenőrzött anyagokra, illetve készítményekre.
+## Külforgalmi engedély kiadását kérem az OGYÉI-től a mellékelt adatlapon felsorolt, nemzetközi egyezmények és hatályos jogszabályok szerint ellenőrzött anyagokra, illetve készítményekre.
 
-## Nyilatkozom, hogy az alábbi adatok nyilvántartásunkkal és a valósággal megegyeznek.
+## Nyilatkozom, hogy a következő adatok nyilvántartásunkkal és a valósággal megegyeznek.
 
 | 1. | A hatályosság kért ideje |  |
 
-| 2. | Importőr (pontos cím) |  |
+| ANYAG (készítmény esetén nem kell kitölteni) |
 
-| 3. | Exportőr (pontos cím) |  |
+| 2. | Nemzetközi megnevezés |  |
 
-| 4. | Hazai megrendelő |  |
+| 3. | Engedélyezni kért mennyiség (gramm) |  |
 
-| 5. | Szállítási cím |  |
+| 4. | Vízmentes bázis-, illetve savtartalom (gramm) |  |
 
-| 6. | Felhasználás (gyógyászati vagy tudományos) |  |
+| KÉSZÍTMÉNY (anyag esetén nem kell kitölteni) |
 
-| 7. | Szállítás módja (közút, légi stb.) |  |
+| 5. | Készítmény teljes neve |  |
 
-| 8. | Határátkelőhely |  |
+| 6. | Törzskönyvi, forgalomba hozatali, illetve egyedi import engedély szám |  |
 
-| 9. | Vámeljárást végző vámszerv, illetve transzfernél a kijelölt vámszerv |  |
+| 7. | Ellenőrzött hatóanyag |  |
 
-| 10. | A kérelmező aktuális évi becslése (gramm) |  |
+| 8. | Hatóanyag tartalom |  |
 
-| 11. | A kérelmező által Magyarországra behozott mennyiség összesen (gramm) |  |
+| 9. | Kiszerelés |  |
 
-| 12. | Raktárkészlet a mai napon |  |
+| 10. | Rátöltés% (injekcióknál) |  |
 
-| 13. | Magán- vagy közvámraktárra szállítás |  |
+| 11. | Engedélyezni kért mennyiség |  |
 
-| 14. | A szállítmány reexport célú (igen/nem) |  |
+| 12. | Vízmentes bázis-, illetve savtartalom összesen (gramm) |  |
 
-| 15. | Útvonal és tranzitországok (közúti szállításnál) |  |
+| 13. | Felhasználás (gyógyászati vagy tudományos) |  |
 
-| 16. | A reexport folyó év december 31-ig megtörténik (nyilatkozat) |  |
+| 14. | A kérelmező aktuális évi becslése (gramm) |  |
 
-| 17. | A szállítmányozó és a szállító neve, címe |  |
+| 15. | A kérelmező által Magyarországra behozott mennyiség összesen (gramm) |  |
 
-|  | ANYAG (készítmény esetén nem kell kitölteni) |
+| 16. | Raktárkészlet a mai napon |  |
 
-| 18. | Nemzetközi megnevezés |  |
+| 17. | Magán- vagy közvámraktárra szállítás |  |
 
-| 19. | Engedélyezni kért mennyiség (gramm) |  |
+| 18. | A szállítmány reexport célú (igen/nem) |  |
 
-| 20. | Vízmentes bázis-, illetve savtartalom (gramm) |  |
+| 19. | A reexport folyó év december 31-ig megtörténik (nyilatkozat) |  |
 
-|  | KÉSZÍTMÉNY (anyag esetén nem kell kitölteni) |
+| 20. | Importőr (pontos cím) |  |
 
-| 21. | Készítmény teljes neve |  |
+| 21. | Exportőr (pontos cím) |  |
 
-| 22. | Törzskönyvi, forgalomba hozatali, illetve egyedi import engedély szám |  |
+| 22. | Hazai megrendelő |  |
 
-| 23. | Ellenőrzött hatóanyag |  |
+| 23. | Szállítási cím |  |
 
-| 24. | Hatóanyag tartalom |  |
+| 24. | Szállítás módja (közút, légi stb.) |  |
 
-| 25. | Kiszerelés |  |
+| 25. | A szállítmányozó és a szállító neve, címe |  |
 
-| 26. | Rátöltés% (injekcióknál) |  |
+| 26. | Határátkelőhely |  |
 
-| 27. | Engedélyezni kért mennyiség |  |
+| 27. | Vámeljárást végző vámszerv, illetve transzfernél a kijelölt vámszerv |  |
 
-| 28. | Vízmentes bázis-, illetve savtartalom összesen (gramm) |  |
+| 28. | Útvonal és tranzitországok (közúti szállításnál) |  |
 
-## Cégszerű aláírás, cégbélyegző, dátum, a kábítószerfelelős ellenjegyzése:
+9. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^133]
 
-9. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^129]
-
-[^129]: A 9. melléklet a 137/2012. (VI. 29.) Korm. rendelet 89. § (2) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 53. § (2) bekezdése, a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja szerint módosított szöveg.
+[^133]: A 9. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (7) bekezdésével megállapított szöveg.
