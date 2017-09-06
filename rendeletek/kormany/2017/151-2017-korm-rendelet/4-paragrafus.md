@@ -1,9 +1,13 @@
-4. § (1) A Beruházással összefüggésben a Műemléki Tanácsadó Testület szakértői véleményét be kell szerezni.
+4. §[^1] (1) A Beruházással összefüggésben
 
-(2) A Beruházással összefüggésben
+a) az örökségvédelmi hatóság az összevont örökségvédelmi hatósági engedélyezési eljárás elvi örökségvédelmi keretengedélyezési szakaszában vagy az örökségvédelmi szakhatósági eljárásban, továbbá az örökségvédelmi szakkérdések vizsgálata során tizenöt napos határidő kitűzésével kikéri a Műemléki Tanácsadó Testület szakértői véleményét,
 
-a) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
+b) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
 
-b) településképi véleményezési eljárást nem kell lefolytatni, és
+c) településképi véleményezési eljárást nem kell lefolytatni, és
 
-c) településképi bejelentési eljárásnak nincs helye.
+d) településképi bejelentési eljárásnak nincs helye.
+
+(2) Az (1) bekezdés a) pontja szerinti esetben a Műemléki Tanácsadó Testület szakértői véleménye meghozatalának késedelme vagy elmaradása az építési és örökségvédelmi engedély kiadását nem érinti.
+
+[^1]: A 4. § a 252/2017. (IX. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
