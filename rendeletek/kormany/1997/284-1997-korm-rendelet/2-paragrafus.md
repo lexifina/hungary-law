@@ -20,7 +20,7 @@
 
 (10)[^13] Az anyatejet adományozó nők térítésmentesen vehetik igénybe az anyatej adományozás feltételeként, külön jogszabályban meghatározott, járványügyi érdekből kötelezően végzendő szűrővizsgálatokat.
 
-(11)[^14] Ha gépjármű-vezetői alkalmassági vizsgálattal egyidejűleg a lőfegyvert tartani szándékozó, illetve tartó személyek (II. csoport) lőfegyvertartásra való orvosi alkalmassági vizsgálatára is sor kerül, akkor csak a gépjármű-vezetői alkalmassági vizsgálatra vonatkozó – a 2. számú melléklet szerinti – díjfizetési kötelezettséget kell teljesíteni.
+(11)[^14] Ha gépjármű-vezetői alkalmassági vizsgálattal egyidejűleg a lőfegyver tartására, illetve az elöltöltő fegyver vadászati célú használatára jogosító engedéllyel rendelkező, valamint az ilyen engedélyt megszerezni kívánó – a kézilőfegyverek, lőszerek, gáz- és riasztófegyverek megszerzésének és tartásának egészségi alkalmassági feltételeiről és vizsgálatáról szóló rendelet szerinti II. alkalmassági csoportba tartozó – személyeknek a lőfegyver megszerzéséhez és tartásához, illetve az elöltöltő fegyver vadászati célú használatához szükséges hatósági engedély feltételeként előírt orvosi alkalmassági vizsgálatára is sor kerül, csak a gépjármű-vezetői alkalmassági vizsgálatra vonatkozó – a 2. számú melléklet szerinti – díjfizetési kötelezettséget kell teljesíteni.
 
 [^4]: A 2. § (1) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^5]: A 2. § új (3) bekezdését a 320/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdésének számozását (4) bekezdésre változtatta. A 2. § (3) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.
@@ -32,4 +32,4 @@
 [^11]: A 2. § (8a) bekezdését a 3/2017. (I. 12.) Korm. rendelet 1. §-a iktatta be.
 [^12]: A 2. § (9) bekezdését a 173/2007. (VI. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 364/2007. (XII. 23.) Korm. rendelet 16. § (13) bekezdése szerint módosított szöveg.
 [^13]: A 2. § (10) bekezdését a 235/2008. (IX. 23.) Korm. rendelet 2. §-a iktatta be.
-[^14]: A 2. § (11) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 21. §-a iktatta be.
+[^14]: A 2. § (11) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 21. §-a iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
