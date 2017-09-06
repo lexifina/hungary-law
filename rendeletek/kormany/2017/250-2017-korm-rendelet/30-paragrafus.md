@@ -1,0 +1,1 @@
+## „(3a) Az államilag támogatott képzésben részt vevő, a szakorvos képzésért felelős egészségügyi államigazgatási szerv által foglalkoztatott szakorvosjelölt a támogatott szakképzése időtartamára a (2) bekezdésben meghatározott pótlékok helyett a pótlékalap 120%-ának megfelelő összegű rezidensi pótlékra jogosult.”

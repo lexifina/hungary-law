@@ -1,0 +1,1 @@
+## 35. § Az összevont adóalap adóját csökkentő kedvezmény igénybevétele szempontjából súlyos fogyatékosságnak minősülő betegségekről szóló 335/2009. (XII. 29.) Korm. rendelet [a továbbiakban: 335/2009. (XII. 29.) Korm. rendelet] 1. § (1) bekezdésében a „3. § 26. pontja” szövegrész helyébe a „40. § (2) bekezdése” szöveg lép.

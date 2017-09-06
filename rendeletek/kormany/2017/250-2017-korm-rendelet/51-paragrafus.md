@@ -1,0 +1,3 @@
+## 50. § A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló 316/2013. (VIII. 28.) Korm. rendelet [a továbbiakban: 316/2013. (VIII. 28.) Korm. rendelet] 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az eljárásban feladatkörében eljárva – a fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai ellátásáról, valamint az egészségügyi államigazgatási szerv kijelöléséről szóló rendeletben (a továbbiakban: Kr.) meghatározott szakkérdésben – szakhatóságként közreműködik az országos környezetvédelmi és természetvédelmi hatóság.”

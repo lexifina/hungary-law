@@ -1,0 +1,1 @@
+## „(5) Az országos tisztifőorvos a Tv. 1/A. § (4) és (5) bekezdése alapján hozott határozatot, valamint a működési engedélyt – legkésőbb a határozathozatalt követő napon – megküldi az ÁEEK-nak és a NEAK-nak.”
