@@ -1,12 +1,12 @@
-## 17/B. §[^262]
+## 17/B. §[^265]
 
-17/C. §[^263] (1)[^264]
+17/C. §[^266] (1)[^267]
 
-(2)[^265] Az (1) bekezdés szerinti javaslat és a Tv. 4/A. § (3) bekezdésében, valamint a Tv. 5/A. § (11) bekezdésében foglaltak figyelembevételével az országos tisztifőorvos a 17/B. § (3)–(5) bekezdése szerinti eljárásban hivatalból állapíthat meg krónikus fekvőbeteg-szakellátási kapacitást azzal, hogy a javaslatban foglaltaktól eltérhet.
+(2)[^268] Az (1) bekezdés szerinti javaslat és a Tv. 4/A. § (3) bekezdésében, valamint a Tv. 5/A. § (11) bekezdésében foglaltak figyelembevételével az országos tisztifőorvos a 17/B. § (3)–(5) bekezdése szerinti eljárásban hivatalból állapíthat meg krónikus fekvőbeteg-szakellátási kapacitást azzal, hogy a javaslatban foglaltaktól eltérhet.
 
 (3) A (2) bekezdés szerinti határozatban rendelkezni kell a kapacitáshoz kapcsolódó ellátási területről is azzal, hogy amennyiben a Tv. 5/A. § (11) bekezdésében meghatározott szempontok teljesülése érdekében szükséges, egyidejűleg módosítani kell az érintett egészségügyi szolgáltatók ellátási területeit is.
 
-[^262]: A 17/B. §-t a 137/2012. (VI. 29.) Korm. rendelet 43. §-a iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 124. § (2) bekezdés b) pontja.
-[^263]: A 17/C. §-t a 137/2012. (VI. 29.) Korm. rendelet 43. §-a iktatta be.
-[^264]: A 17/C. § (1) bekezdését a 30/2015. (II. 25.) Korm. rendelet 34. § b) pontja hatályon kívül helyezte.
-[^265]: A 17/C. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^265]: A 17/B. §-t a 137/2012. (VI. 29.) Korm. rendelet 43. §-a iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 124. § (2) bekezdés b) pontja.
+[^266]: A 17/C. §-t a 137/2012. (VI. 29.) Korm. rendelet 43. §-a iktatta be.
+[^267]: A 17/C. § (1) bekezdését a 30/2015. (II. 25.) Korm. rendelet 34. § b) pontja hatályon kívül helyezte.
+[^268]: A 17/C. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.

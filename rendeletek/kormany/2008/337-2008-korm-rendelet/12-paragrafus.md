@@ -1,6 +1,8 @@
+## 11/D. §[^192]
+
 ## Az előzetes többletkapacitás-befogadási eljárás
 
-12. §[^192] (1)[^193] Többletkapacitás a Tv. 11/A. §-a alapján előzetesen akkor fogadható be, ha
+12. §[^193] (1)[^194] Többletkapacitás a Tv. 11/A. §-a alapján előzetesen akkor fogadható be, ha
 
 a) központi költségvetésből támogatott népegészségügyi fejlesztés, illetve program,
 
@@ -20,7 +22,7 @@ c) a finanszírozási szabályok módosításának eredményeként felszabaduló
 
 együttes összegét.
 
-(3)[^194] Ha az (1) bekezdésben foglaltaknak megfelelő többletkapacitás-befogadási igény merül fel, az előzetes befogadásra a kérelmet a támogatásra kiírt pályázat határidejének letelte előtt legalább 75 nappal, amennyiben a pályázat kiírása és határideje közötti idő ennél rövidebb, akkor a pályázat kiírását követő 8 napon belül kell elektronikusan és nyomtatott formában benyújtani az egészségügyért felelős miniszterhez. A kérelem az alábbiakat tartalmazza:
+(3)[^195] Ha az (1) bekezdésben foglaltaknak megfelelő többletkapacitás-befogadási igény merül fel, az előzetes befogadásra a kérelmet a támogatásra kiírt pályázat határidejének letelte előtt legalább 75 nappal, amennyiben a pályázat kiírása és határideje közötti idő ennél rövidebb, akkor a pályázat kiírását követő 8 napon belül kell elektronikusan és nyomtatott formában benyújtani a NEAK-hoz. A kérelem az alábbiakat tartalmazza:
 
 a) a pályázat részét képező és a kérelmezett kapacitásbefogadással összefüggő orvos-szakmai programot,
 
@@ -38,7 +40,7 @@ fa) az ellátandó feladatra vonatkozó várható éves bevételeket és kiadás
 
 fb) a tervezett kapacitásbővítésnek az egészségügyi szolgáltató egészére gyakorolt hatásának bemutatását, tekintettel a más szervezeti egységeknél megjelenő többletköltségekre, illetve a más egységeknél elérhető megtakarításokra, méretgazdaságossági szempontokra.
 
-(3a)[^195] Ha a többletkapacitás előzetes befogadása iránti igény az (1) bekezdés a) vagy c) pontjában foglaltak megvalósításához kötődik, a többletkapacitás előzetes befogadására irányuló kérelmet elektronikusan és nyomtatott formában kell benyújtani az egészségügyért felelős miniszterhez. A kérelemnek tartalmaznia kell:
+(3a)[^196] Ha a többletkapacitás előzetes befogadása iránti igény az (1) bekezdés a) vagy c) pontjában foglaltak megvalósításához kötődik, a többletkapacitás előzetes befogadására irányuló kérelmet elektronikusan és nyomtatott formában kell benyújtani a NEAK-hoz. A kérelemnek tartalmaznia kell:
 
 a) a kérelmezett kapacitásbefogadással összefüggő orvos-szakmai programot,
 
@@ -52,9 +54,9 @@ e) az ellátandó feladatra vonatkozó várható éves bevételeket és kiadáso
 
 f) a tervezett kapacitásbővítés révén az egészségügyi szolgáltató egészére gyakorolt hatások bemutatását, tekintettel a más szervezeti egységeknél megjelenő többletköltségekre, illetve a más egységeknél elérhető megtakarításokra, méretgazdaságossági szempontokra.
 
-(4)[^196] Az egészségügyért felelős miniszter a kapacitásbővítési kérelem elbírálása érdekében az ellátási érdek fennállásának eldöntéséhez kikéri az országos tisztifőorvos és a NEAK véleményét, amelyet a NEAK és az országos tisztifőorvos a megkereséstől számított 10 napon belül megküld.
+(4)[^197] A NEAK a kapacitásbővítési kérelem elbírálása érdekében az ellátási érdek fennállásának eldöntéséhez kikéri az országos tisztifőorvos véleményét, amelyet az országos tisztifőorvos a megkereséstől számított 10 napon belül megküld.
 
-(5)[^197] Az országos tisztifőorvos (4) bekezdés szerinti véleménye az alábbiakat tartalmazza:
+(5)[^198] Az országos tisztifőorvos (4) bekezdés szerinti véleménye az alábbiakat tartalmazza:
 
 a) a megye érintett részén kimutatható-e kapacitáshiány,
 
@@ -62,12 +64,13 @@ b) vannak-e szünetelő kapacitások az érintett szakmában,
 
 c) történt-e rendkívüli intézkedés az ellátás biztosítása érdekében.
 
-(6)[^198] A NEAK (4) bekezdés szerinti véleménye a (3) bekezdés szerinti kérelem finanszírozási szempontú véleményezésén túlmenően a többletkapacitás-befogadás mértékére és feltételeire vonatkozó javaslatát is tartalmazza.
+(6)[^199] A NEAK a 12/A. § (1) bekezdése szerinti javaslatában finanszírozási szempontból véleményezi a kérelmet, valamint a többletkapacitás-befogadás mértékére és feltételeire is javaslatot tesz.
 
-[^192]: A 12. § a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^193]: A 12. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg.
-[^194]: A 12. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
-[^195]: A 12. § (3a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 51. § (2) bekezdése iktatta be.
-[^196]: A 12. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. és 9. pontja szerint módosított szöveg.
-[^197]: A 12. § (5) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^198]: A 12. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^192]: A 11/D. §-t az 520/2013. (XII. 30.) Korm. rendelet 50. §-a iktatta be, hatályon kívül helyezte a 250/2017. (IX. 5.) Korm. rendelet 28. § a) pontja.
+[^193]: A 12. § a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^194]: A 12. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg.
+[^195]: A 12. § (3) bekezdés nyitó szövegrésze a 137/2012. (VI. 29.) Korm. rendelet 45. § b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
+[^196]: A 12. § (3a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 51. § (2) bekezdése iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
+[^197]: A 12. § (4) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^198]: A 12. § (5) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^199]: A 12. § (6) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.

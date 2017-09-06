@@ -20,6 +20,6 @@
 
 | 10 | utca | 25 | 25 |
 
-6. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^304]
+6. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^307]
 
-[^304]: A 6. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^307]: A 6. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (1) bekezdése iktatta be.
