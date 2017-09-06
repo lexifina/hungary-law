@@ -2,13 +2,13 @@
 
 (2) E rendelet 1-2. §-a, valamint 3. § (3) bekezdése 2010. január 1-jén lép hatályba.
 
-(3)[^3] Az e rendelet 1-2. §-ában foglaltakat a 2010. január 1-jétől keletkezett jövedelmek tekintetében kell alkalmazni.
+(3)[^4] Az e rendelet 1-2. §-ában foglaltakat a 2010. január 1-jétől keletkezett jövedelmek tekintetében kell alkalmazni.
 
 (4) A krízishelyzetbe került személyek támogatásáról szóló 136/2009. (VI. 24.) Korm. rendelet 5. §-a a következő új (5) bekezdéssel egészül ki:
 
 „(5) Az előirányzat terhére teljesített kifizetésnek kell tekinteni a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti engedélyesnek az egyetemes szolgáltatási árrésen elért, a külön jogszabályban meghatározott szinthez képesti többlet terhére a rászoruló lakossági villamosenergia-fogyasztókat támogató alapítvány, illetve kiemelkedően közhasznú szervezet javára teljesített befizetéseit.”
 
-Melléklet a 335/2009. (XII. 29.) Korm. rendelethez
+Melléklet a 335/2009. (XII. 29.) Korm. rendelethez[^5]
 
 Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
@@ -916,9 +916,9 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | E73 | Laktóz intolerancia |
 
-| E730 | Veleszületett laktóz-hiány |
+| E730 | Veleszületett laktáz-hiány |
 
-| E731 | Másodlagos laktóz-hiány |
+| E731 | Másodlagos laktáz-hiány |
 
 | E738 | Egyéb laktóz intolerancia |
 
@@ -1470,4 +1470,5 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 * A mozgásszervi fogyatékos betegségcsoporthoz tartozó egyes BNO-kon belül csak az 1. oszlopban hozzárendelt betegségek vehetők figyelembe.
 
-[^3]: A 3. § (3) bekezdése a (2) bekezdés alapján 2010. január 1-jén lépett hatályba.
+[^4]: A 3. § (3) bekezdése a (2) bekezdés alapján 2010. január 1-jén lépett hatályba.
+[^5]: A Melléklet a 250/2017. (IX. 5.) Korm. rendelet 36. §-a szerint módosított szöveg.

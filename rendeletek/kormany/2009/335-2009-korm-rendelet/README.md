@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-335-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-30 | 2009-335-20-22.1 | 335/2009. (XII. 29.) Korm. rendelet |
+| 2017-09-06 | 2009-335-20-22.2 | 250/2017. (IX. 5.) Korm. rendelet |

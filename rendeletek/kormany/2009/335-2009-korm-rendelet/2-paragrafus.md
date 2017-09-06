@@ -1,4 +1,4 @@
-2. §[^2] (1) A Melléklet 1. pontjában meghatározott fogyatékosság annál állapítható meg, akinek hallásküszöbértéke a beszédfrekvenciákon mindkét fülön 60 dB felett van.
+2. §[^3] (1) A Melléklet 1. pontjában meghatározott fogyatékosság annál állapítható meg, akinek hallásküszöbértéke a beszédfrekvenciákon mindkét fülön 60 dB felett van.
 
 (2) A Melléklet 2. pontjában meghatározott fogyatékosság annál állapítható meg, akinek intelligencia kvóciense a 70-es értéket nem éri el olyan teszttel, amelynek átlaga 100-nál van, és standard deviációja 15.
 
@@ -38,4 +38,4 @@ e) vázizomzat elváltozásai: olyan mértékű elváltozások, amelyeknek a já
 
 f) a központi idegrendszer károsodásai: olyan károsodások, amelyek legalább 50%-os mértékű mozgásfunkció-kiesést okoznak valamely végtagon.
 
-[^2]: A 2. § a 3. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
+[^3]: A 2. § a 3. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
