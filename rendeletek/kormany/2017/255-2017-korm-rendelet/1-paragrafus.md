@@ -1,0 +1,3 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Mogyoród közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 0222/3, 0222/9, 0222/12, 0222/14, 0242/24, 0242/25 és 0242/26 helyrajzi számú ingatlanokon, illetve ezen ingatlanokból telekalakítási eljárás jogerős befejezését követően kialakított ingatlanokon, a Stratégiai Fejlesztési Program megvalósításával (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek.
