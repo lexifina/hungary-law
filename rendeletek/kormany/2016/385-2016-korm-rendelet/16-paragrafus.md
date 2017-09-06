@@ -38,7 +38,7 @@ e) a természetes vizek minőségének védelme érdekében a vizek állapota, v
 
 (6) A Kormány a fürdővízprofil megállapítására, felülvizsgálatára és frissítésére irányuló, valamint a vízminőség romlása esetén lefolytatott eljárásban – a szennyező anyagok kibocsátási határértékeinek megállapítása, a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapítása kérdésében – elsőfokú eljárásban a vízvédelmi feladatkörében eljáró megyei katasztrófavédelmi igazgatóságot, másodfokú eljárásban a vízvédelmi feladatkörében eljáró Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot szakhatóságként jelöli ki.
 
-(7)[^7] A gyógyhellyé nyilvánítással kapcsolatos eljárásban a földtani környezet és az ásványvagyon védelme szakkérdését az elsőfokú eljárásban a gyógyhely helye szerint illetékes bányafelügyeleti hatáskörében eljáró megyei kormányhivatal vizsgálja. A gyógyhellyé nyilvánítással kapcsolatos másodfokú eljárásban szakértőként a Magyar Bányászati és Földtani Szolgálat rendelhető ki.
+(7)[^10] A gyógyhellyé nyilvánítással kapcsolatos eljárásban a földtani környezet és az ásványvagyon védelme szakkérdését az elsőfokú eljárásban a gyógyhely helye szerint illetékes bányafelügyeleti hatáskörében eljáró megyei kormányhivatal vizsgálja. A gyógyhellyé nyilvánítással kapcsolatos másodfokú eljárásban szakértőként a Magyar Bányászati és Földtani Szolgálat rendelhető ki.
 
 (8) A Kormány a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében elsőfokú eljárásban a vízvédelmi feladatkörében eljáró megyei katasztrófavédelmi igazgatóságot, másodfokú eljárásban a vízvédelmi feladatkörében eljáró Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot szakhatóságként jelöli ki.
 
@@ -72,4 +72,4 @@ d) az Eütv. 161. § (1) és (3) bekezdése szerinti kutatás esetén
 
 (12) A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §-a) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, ivarsejtekkel, őssejtekkel végzendő beavatkozásokkal és kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetén az ETT Humán Reprodukciós Bizottságát szakhatóságként jelöli ki.
 
-[^7]: A 16. § (7) bekezdése a 162/2017. (VI. 28.) Korm. rendelet 89. §-a szerint módosított szöveg.
+[^10]: A 16. § (7) bekezdése a 162/2017. (VI. 28.) Korm. rendelet 89. §-a szerint módosított szöveg.

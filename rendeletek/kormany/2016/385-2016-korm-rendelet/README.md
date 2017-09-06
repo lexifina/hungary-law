@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-385-20-
 | 2017-04-02 | 2016-385-20-22.2 | 2010: CXXX. törvény |
 | 2017-04-08 | 2016-385-20-22.3 | 79/2017. (IV. 7.) Korm. rendelet |
 | 2017-07-01 | 2016-385-20-22.4 | 171/2017. (VI. 29.) korm. rendelet |
+| 2017-09-06 | 2016-385-20-22.5 | 250/2017. (IX. 5.) Korm. rendelet |

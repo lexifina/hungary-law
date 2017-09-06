@@ -1,4 +1,4 @@
-## 19. §[^8]
+## 19. §[^11]
 
 1. melléklet a 385/2016. (XII. 2.) Korm. rendelethez
 
@@ -20,4 +20,4 @@
 
 kiterjedő illetékességgel látja el.
 
-[^8]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

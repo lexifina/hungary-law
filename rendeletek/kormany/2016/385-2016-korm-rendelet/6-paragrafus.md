@@ -84,8 +84,11 @@
 
 40.[^3] üzemelteti a kormányhivatal és a járási hivatal, valamint a miniszter által vezetett minisztérium népegészségügyi feladatainak ellátásához szükséges szakmai informatikai rendszereket,
 
-41.[^4] biztosítja a foglalkozás-orvostan és a munkahigiéne területén az akkreditált szakorvosi képzőhelyként való működést.
+41.[^4] biztosítja a foglalkozás-orvostan és a munkahigiéne területén az akkreditált szakorvosi képzőhelyként való működést,
+
+42.[^5] beszerzi a hazai éves oltóanyagot, az általa beszerzett oltóanyagot nyilvántartja, és a kormányhivatalok, valamint járási hivatalok részére elosztja és kiszállítja.
 
 [^2]: A 6. § 36. pontja a 79/2017. (IV. 7.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^3]: A 6. § 40. pontját a 79/2017. (IV. 7.) Korm. rendelet 8. § (2) bekezdése iktatta be.
 [^4]: A 6. § 41. pontját a 79/2017. (IV. 7.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^5]: A 6. § 42. pontját a 250/2017. (IX. 5.) Korm. rendelet 69. §-a iktatta be.

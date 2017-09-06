@@ -114,8 +114,8 @@ d) a munkaegészségügyi vonatkozású hazai és európai uniós programok vég
 
 e) a munkaegészségüggyel foglalkozó hazai és nemzetközi szervezetek tevékenységében.
 
-(4) A Kormány alapnyilvántartást vezető szervként az országos tisztifőorvost jelöli ki az Eütv. 111. § (6) bekezdése szerinti feladat ellátására.
-
-(5) A Kormány működési nyilvántartást vezető szervként az országos tisztifőorvost jelöli ki az Eütv. 112. § (7a) bekezdése szerinti feladat ellátására.
+(4)–(5)[^6]
 
 (6) A Kormány nemzeti koordinációs fókuszpontként az országos tisztifőorvost jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
+
+[^6]: A 8. § (4)–(5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte.
