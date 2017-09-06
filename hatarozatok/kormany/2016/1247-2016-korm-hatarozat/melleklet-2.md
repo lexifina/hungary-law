@@ -56,7 +56,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 24. | IKOP-1.1.0-15 | 55. sz. főút megvalósítása Mórahalom elkerülő megyehatár közötti szakaszán 115 kN tengelyterhelésre történő burkolat megerősítés és a főúttal párhuzamosan kerékpárút kivitelezési munkáinak elvégzése | NIF Zrt. | 5,79 (75,14% támogatási intenzitás szerint csökkentett összeg) | Az 55. számú főút burkolatának 11,5 tonnás tengelyterhelésre történő megerősítése, és a főúttal párhuzamos kerékpárút kivitelezése. |
 
-| 25. | IKOP-1.1.0-15 | M7 autópálya és 710. sz. főút csomópontjának kialakítása, 710. sz. főúti bekötéssel | NIF Zrt. | 6,20 (93% támogatási intenzitás szerint csökkentett összeg) | Az M7 autópálya és a 710. számú főút csomópontjának kialakítása, valamint a 710. számú főúti bekötés megvalósítása. |
+| 25. | IKOP-1.1.0-15 | M7 autópálya és 710. sz. főút csomópontjának kialakítása, 710. sz. főúti bekötéssel | NIF Zrt. | 7,76 (93% támogatási intenzitás szerint csökkentett összeg) | Az M7 autópálya és a 710. számú főút csomópontjának kialakítása, valamint a 710. számú főúti bekötés megvalósítása. |
 
 | 26. | IKOP-1.1.0-15 | 86. számú főút Szombathely és Egyházasrádóc közötti szakaszának 2x2 sávos úttá történő fejlesztésének előkészítése | NIF Zrt. | 0,60 (becsült támogatási intenzitás:100%) | 2x2 sávos főút előkészítése (tervezés, engedélyezés). |
 
@@ -96,7 +96,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 44. | IKOP-2.1.0-15 | 6 db 200 férőhelyes motorvonat beszerzése az 1. sz. vasútvonalra | MÁV-START Zrt. | 10,89 (támogatási intenzitás: 100%) | A projekt 6 db 200 ülőhelyes, 160 km/h sebességű elővárosi villamos motorvonat beszerzésére irányul, ETCS2 felszereltséggel. |
 
-| 45. | IKOP-2.1.0-15 | Szűk keresztmetszet kiváltás előkészítése a MÁV hálózatán | NIF Zrt. | 3,00 (támogatási intenzitás: 100%) | A vasútvonalak sebességkorlátozásainak megszüntetését, kiépítéskori állapotánakhelyreállítását célzó felújítások megvalósíthatósági és engedélyezési terveinek készítése. |
+| 45. | IKOP-2.1.0-15 | Szűk keresztmetszet kiváltás előkészítése a MÁV hálózatán | NIF Zrt. | 3,00 (támogatási intenzitás: 100%) | A vasútvonalak sebességkorlátozásainak megszüntetését, kiépítéskori ‡llapot‡nakhelyreállítását célzó felújítások megvalósíthatósági és engedélyezési terveinek készítése. |
 
 | 46. |  |  |  |  |  |
 
@@ -104,7 +104,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 48. | IKOP-2.1.0-15 | Sopron–Szombathely–Szentgotthárd ETCS2 vonatbefolyásoló rendszer kiépítése | GYSEV Zrt. | 10,00 (támogatási intenzitás: 100%) | ETCS2 biztosítóberendezés telepítése. |
 
-| 49. | IKOP-2.1.0-15 | PüspökladányñDebrecen vasútvonal korszerűsítése, Debrecen állomás részleges átépítése és Szajol–Debrecen vasútvonalon ETCS2 vonatbefolyásoló rendszer kiépítése | NIF Zrt. | 121,00 (támogatási intenzitás: 100%) | Pályarekonstrukció Püspökladány–Debrecen és ETCS2 biztosítóberendezés telepítése Szajol–Debrecen vasúti vonalszakaszokon. Cél a 160 km/órás sebesség bevezetése. Debrecen állomás részleges átalakítása az intermodális csomóponttal összhangban. |
+| 49. | IKOP-2.1.0-15 | PŸspšklad‡ny–Debrecen vasútvonal korszerűsítése, Debrecen állomás részleges átépítése és Szajol–Debrecen vasútvonalon ETCS2 vonatbefolyásoló rendszer kiépítése | NIF Zrt. | 121,00 (támogatási intenzitás: 100%) | Pályarekonstrukció Püspökladány–Debrecen és ETCS2 biztosítóberendezés telepítése Szajol–Debrecen vasúti vonalszakaszokon. Cél a 160 km/órás sebesség bevezetése. Debrecen állomás részleges átalakítása az intermodális csomóponttal összhangban. |
 
 | 50. | IKOP-2.1.0-15 | Vasúti vontatási energiaellátás fejlesztése a MÁV hálózatán | NIF Zrt. | 10,00 (támogatási intenzitás: 100%) | Vontatási alállomások felújítása és bővítése, felsővezetéki rendszer felújítása a hálózat túlterhelésének és feszültségleesések csökkentése érdekében. |
 
@@ -216,7 +216,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 94. |  |  |  |  |  |
 
-| 95. | IKOP-3.2.0-15 | Nyíregyháza megyei jogú város közösségi közlekedésének fejlesztése érdekében 47 db új autóbusz (41 db CNG és 6 db elektromos meghajtású) beszerzése, töltőállomás létesítése és autóbusz-telephely kialakítása | Nyíregyháza Megyei Jogú Város Önkormányzata | 7,00 (támogatási intenzitás: 100%) | 41 db CNG és 6 db elektromos hajtású új autóbusz beszerzése, valamint a kapcsolódó töltőállomás kivitelezése és autóbusz-telephely kialakítása. |
+| 95. | IKOP-3.2.0-15 | Nyíregyháza megyei jogú város közösségi közlekedésének fejlesztése érdekében 47 db új autóbusz (41 db CNG és 6 db elektromos meghajtású) beszerzése, töltőállomás létesítése és autóbusz-telephely kialakítása | Nyíregyháza Megyei Jogú Város Önkormányzata | 7,00 (támogatási intenzitás: 100%) | 41 db CNG és 6 db elektromos hajtású új autóbusz beszerzése, valamint a kapcsolódó töltõállomás kivitelezése és autóbusz-telephely kialakítása. |
 
 | 96. | IKOP-3.2.0-15 | Kaposvár megyei jogú város intermodális pályaudvar és a hozzá kapcsolódó közösségi közlekedés fejlesztése | A Kaposvári Közlekedési Zártkörűen Működő Részvénytársaság és a NIF Zrt. konzorciuma | 14,10 (támogatási intenzitás: 100%) | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése. |
 
@@ -256,4 +256,4 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 35,61 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
 
-[^4]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja szerint módosított szöveg.
