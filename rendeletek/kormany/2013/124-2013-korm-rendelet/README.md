@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-124-20-
 | 2015-03-01 | 2013-124-20-22.3 | 30/2015. (II. 25.) Korm. rendelet |
 | 2016-01-01 | 2013-124-20-22.4 | 413/2015. (XII. 23.) Korm. rendelet |
 | 2017-01-01 | 2013-124-20-22.5 | 464/2016. (XII. 23.) Korm. rendelet |
+| 2017-09-06 | 2013-124-20-22.6 | 250/2017. (IX. 5.) Korm. rendelet |
