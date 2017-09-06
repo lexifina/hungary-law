@@ -94,7 +94,7 @@
 
 ## 4. Törekedni kell minél kisebb érték elérésére anélkül, hogy a fertőtlenítés biztonsága csökkenne. Csak ott kell mérni, ahol a vizet ózonnal kezelik.
 
-## 5. A határérték a megfelelő mintavételi módszerrel – 1 L (egy liter) kifolyatás nélkül vett vízminta egy részének felhasználásával – a fogyasztói csapnál vett vízmintára vonatkozik és jellemző kell hogy legyen a fogyasztó szervezetébe jutó heti átlagos mennyiségre. Ahol kivitelezhető, az 5. § (6) bekezdésével összhangban megállapított egységes mintavételi és vizsgálati módszereket kell alkalmazni. Az illetékes kormányhivatal köteles figyelembe venni, hogy az előfordulási csúcsértékek okozhatnak káros egészségügyi hatást.
+## 5. Egy liter véletlenszerű napközbeni mintát kell venni a fogyasztói csapból a víz előzetes kifolyatása nélkül.
 
 ## 6. A nitrát és nitrit együttes koncentrációjára a következő feltételeknek teljesülnie kell:
 
@@ -210,7 +210,7 @@
 
 ## 2. A víz nem lehet agresszív.
 
-## 3. Ezt a vízminőségi jellemzőt csak akkor kell mérni, ha a víz felszíni vízből származik vagy felszíni víz által befolyásolt. Amennyiben Clostridiumot kimutatnak, az illetékes népegészségügyi szakigazgatási szerv köteles megvizsgálni, hogy a vízellátás kórokozó mikroorganizmus például Cryptosporidium jelenléte miatt nem jelenthet-e veszélyt az emberi egészségre. Az illetékes kormányhivatal köteles a vizsgálat eredményéről beszámolni a 9. § szerinti jelentésében.
+## 3. Ha Clostridiumot kimutatnak, az illetékes népegészségügyi szerv köteles értékelni, hogy az ivóvízellátás kórokozó mikroorganizmus (például Cryptosporidum) jelenléte miatt nem jelenthet-e veszélyt az emberi egészségre.
 
 ## 4. Tartályokban forgalmazott vízben a minimális pH érték 4,5; szénsavval dúsított vízben még alacsonyabb lehet.
 
@@ -218,13 +218,13 @@
 
 ## 5. Tartályban forgalmazott vízre a jelen melléklet A) részében foglaltak vonatkoznak.
 
-## 6. Az illetékes népegészségügyi szerv vízműre, illetve mintavételi pontra; azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják, a fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága mintavételi pontra – a vízműre, illetve a mintavételi pontra jellemző szokásos érték figyelembevételével – határértéket szabhat meg, amelyet 90%-os gyakorisággal kell betartani; az eseti túllépés e határértéknek legfeljebb a négyszerese lehet. A 37 °C-os telepszámot csak a 2. számú melléklet szerinti esetekben kell meghatározni.
+## 6. Az illetékes népegészségügyi szerv vízműre, illetve mintavételi pontra; azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják, az élelmiszerlánc-felügyeleti szerv mintavételi pontra – a vízműre, illetve a mintavételi pontra jellemző szokásos érték figyelembevételével – határértéket szabhat meg, amelyet 90%-os gyakorisággal kell betartani; az eseti túllépés e határértéknek legfeljebb a négyszerese lehet. A 37 °C-os telepszámot csak a 2. számú melléklet szerinti esetekben kell meghatározni.
 
 ## 7. Tartályban forgalmazott vízre az egység: szám/250 ml.
 
 ## 8.
 
-## 9. 10 000 m3/nap-nál kisebb kapacitású vízműveknél ezt a vízminőségi jellemzőt nem kötelező mérni. Máshol a mérések feltételét a hatálybalépést követő harmadik évtől kell biztosítani.
+## 9. 10 000 m3/d-nál kisebb kapacitású vízműveknél ezt a vízminőségi jellemzőt nem kötelező mérni.
 
 ## 10. Felszíni vízből nyert víz esetében törekedni kell arra, hogy a zavarosság a kezelő művet elhagyó vízben ne legyen nagyobb 1,0 NTU-nál (nefelometriás turbiditási egység). A mérések feltételét a hatálybalépést követő harmadik évtől kell biztosítani.
 
@@ -310,6 +310,6 @@
 
 ## 2.9. A vízminőségi kategóriába a Medveállatkák (Tardigrada), Ízeltlábúak (Arthropoda) törzsének képviselői és minden egyéb, előző vízminőségi jellemzőkhöz nem besorolható többsejtű szervezetek tartoznak.
 
-2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^120]
+2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^117]
 
-[^120]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 50. § (2) bekezdése, a 313/2015. (X. 28.) Korm. rendelet 7. § (2) bekezdése, a 100/2016. (V. 13.) Korm. rendelet 9. §-a, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. és 22. pontja szerint módosított szöveg.
+[^117]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 50. § (2) bekezdése, a 313/2015. (X. 28.) Korm. rendelet 7. § (2) bekezdése, a 100/2016. (V. 13.) Korm. rendelet 9. §-a, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. és 22. pontja szerint módosított szöveg.

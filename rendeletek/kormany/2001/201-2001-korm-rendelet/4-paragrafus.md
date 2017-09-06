@@ -24,9 +24,9 @@ a)[^30] tájékoztatja az ingatlantulajdonosokat, illetve fenntartókat és az �
 
 b) meghatározza azon intézkedéseket, melyeket az üzemeltetőnek az ivóvíz hálózatba táplálása előtt meg kell tennie annak érdekében, hogy az ivóvíz minősége az ivóvízvételi helyeken megfeleljen az előírt követelményeknek, és ezen intézkedések megtételére az üzemeltetőt határozatban kötelezi.
 
-(6)[^31] A fogyasztók számára évi átlagban 10 m3/nap mennyiségnél több vizet szolgáltató vagy 50 főt meghaladó állandó népességet ellátó ivóvízellátó rendszerek vízbiztonság-irányítási rendszerét ivóvízbiztonsági tervben kell rögzítenie az üzemeltetőnek.
+(6)[^31] A fogyasztók számára évi átlagban 10 m3/nap mennyiségnél több vizet szolgáltató vagy 50 főt meghaladó állandó népességet ellátó ivóvízellátó rendszerek ivóvízbiztonság-irányítási rendszerét ivóvízbiztonsági tervben kell rögzítenie az üzemeltetőnek.
 
-(7)[^32] Az ivóvízbiztonsági tervet az ivóvíz-szolgáltatás helye szerinti illetékes népegészségügyi szerv közegészségügyi szempontból határozatban hagyja jóvá. Az ivóvízbiztonsági terv tartalmi követelményeit a 6. számú melléklet tartalmazza. Az ivóvízbiztonsági terv jóváhagyására abban az esetben kerülhet sor, amennyiben a terv alapján történő üzemeltetéssel biztosított a lakosság egészséges ivóvízzel történő ellátása.
+(7)[^32] Az ivóvízbiztonsági tervet az ivóvíz-szolgáltatás helye szerinti illetékes népegészségügyi szerv közegészségügyi szempontból határozatban hagyja jóvá. Az ivóvízbiztonsági terv tartalmi követelményeit és a szakvéleményezéshez benyújtandó dokumentumokat a 6. számú melléklet tartalmazza. Az ivóvízbiztonsági terv jóváhagyására abban az esetben kerülhet sor, amennyiben a terv alapján történő üzemeltetéssel biztosított a lakosság egészséges ivóvízzel történő ellátása.
 
 (8)[^33] Szükség esetén az ivóvíz-szolgáltatás helye szerinti illetékes népegészségügyi szerv a jóváhagyó határozatban az ivóvízbiztonsági tervben foglaltakon túl további feltételeket határoz meg a (7) bekezdés szerinti szempontok alapján, az ivóvízminőség biztonságának és elfogadhatóságának folyamatos, következetes biztosítására, valamint az ivóvízbiztonsági terv továbbfejlesztésére vonatkozóan.
 
@@ -61,8 +61,8 @@ c) üzemeltetői kivizsgálás, intézkedés és a veszélykezelési eljárás m
 [^28]: A 4. § (4) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^29]: A 4. § (5) bekezdése a 65/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított, nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 86. §-a szerint módosított szöveg.
 [^30]: A 4. § (5) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 84. § (7) bekezdésével megállapított, a 430/2013. (XI. 15.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
-[^31]: A 4. § (6) bekezdését a 65/2009. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^32]: A 4. § (7) bekezdését a 65/2009. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^31]: A 4. § (6) bekezdését a 65/2009. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 250/2017. (IX. 5.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^32]: A 4. § (7) bekezdését a 65/2009. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 250/2017. (IX. 5.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
 [^33]: A 4. § (8) bekezdését a 65/2009. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^34]: A 4. § (9) bekezdését a 65/2009. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 4. pontja szerint módosított szöveg.
 [^35]: A 4. § (10) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 4. § (4) bekezdése iktatta be.

@@ -2,37 +2,39 @@
 
 10. § (1) Ez a rendelet – a (2)–(9) bekezdésekben foglalt kivételekkel – a kihirdetését követő 30. napon lép hatályba.
 
-(2)–(3)[^101]
+(2)–(3)[^97]
 
-(4)–(6)[^102]
+(4)–(6)[^98]
 
-(7)[^103]
+(7)[^99]
 
-(8)[^104]
+(8)[^100]
 
-(9)[^105]
+(9)[^101]
 
-(10)[^106] A jelen rendeletben előírt, illetve vízminőségellenőrző vizsgálatot 2006. január 1. napját követően kizárólag akkreditáló szerv által a tevékenységre akkreditált és az országos tisztifőorvos megbízásából az OKI által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vevő laboratórium végezhet.
+(10)[^102] A jelen rendeletben előírt, illetve vízminőségellenőrző vizsgálatot 2006. január 1. napját követően kizárólag akkreditáló szerv által a tevékenységre akkreditált és az országos tisztifőorvos megbízásából az OKI által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vevő laboratórium végezhet.
 
-(11)[^107]
+(11)[^103]
 
-(12)[^108]
+(12)[^104]
 
-(13)[^109]
+(13)[^105]
 
-(13a)[^110] Az érintett üzemeltetőknek az ivóvízbiztonsági tervet az 5000–49 999 főt ellátó rendszerek esetén 2014. július 1-jéig, az 50–4999 főt ellátó rendszerek esetén 2017. július 1-jéig kell benyújtani jóváhagyásra az illetékes népegészségügyi szervhez.
+(13a)[^106] Az érintett üzemeltetőknek az ivóvízbiztonsági tervet az 5000–49 999 főt ellátó rendszerek esetén 2014. július 1-jéig, az 50–4999 főt ellátó rendszerek esetén 2017. november 30-áig kell benyújtani jóváhagyásra az illetékes népegészségügyi szervhez.
 
-(13b)[^111]
+(13b)[^107]
 
-(13c)[^112] Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet módosításáról szóló 430/2013. (XI. 15.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépését[^113] megelőzően kiadott alkalmazási engedélyek felülvizsgálatakor a 8. § szerinti bejelentést meg kell tenni vagy ivóvízbiztonsági engedélyt kell kérni.
+(13c)[^108] Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet módosításáról szóló 430/2013. (XI. 15.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépését[^109] megelőzően kiadott alkalmazási engedélyek felülvizsgálatakor a 8. § szerinti bejelentést meg kell tenni vagy ivóvízbiztonsági engedélyt kell kérni.
 
-(13d)[^114] A Módr. hatálybalépését[^115] megelőzően e rendelet szerinti azon hagyományos anyagokra vonatkozóan, amelyek nem voltak alkalmazási engedély kötelesek, azonban a Módr. hatálybalépését követően bejelentési kötelezettség vonatkozik rájuk, a bejelentést legkésőbb 2014. december 31-ig meg kell tenni.
+(13d)[^110] A Módr. hatálybalépését[^111] megelőzően e rendelet szerinti azon hagyományos anyagokra vonatkozóan, amelyek nem voltak alkalmazási engedély kötelesek, azonban a Módr. hatálybalépését követően bejelentési kötelezettség vonatkozik rájuk, a bejelentést legkésőbb 2014. december 31-ig meg kell tenni.
 
-(14)[^116] Az országos tisztifőorvos az 5. § (7) bekezdés szerinti alternatív módszerek alkalmazásáról és a 3. számú melléklet 1. részében megállapított módszerekkel való egyenértékűségükről tájékoztatja az Európai Bizottságot.
+(13f)[^112] A részletes vizsgálatok vonatkozásában 2014. január 1-jét megelőzően kiadott felmentések 2017. december 31-éig érvényesek.
 
-(15)[^117] A 9. § (3) bekezdése alapján készített összefoglaló alapulvételével az egészségügyért felelős miniszter által vezetett minisztérium 3 évente jelentést küld az Európai Bizottságnak (a továbbiakban: Bizottság) az emberi fogyasztásra szánt ivóvíz minőségéről. Minden jelentésben szerepelnie kell legalább minden, az átlag napi 1000 m3-t meghaladó hozamú vagy 5000 főnél többet ellátó ivóvízellátó rendszernek. A jelentésnek három naptári évre kell kiterjednie, és a jelentési időszak végét követő naptári év végéig az országos tisztifőorvosnak kell közzétenni. A jelentést a közzétételtől számított két hónapon belül meg kell küldeni a Bizottságnak.
+(14)[^113] Az országos tisztifőorvos az 5. § (7) bekezdés szerinti alternatív módszerek alkalmazásáról és a 3. számú melléklet 1. részében megállapított módszerekkel való egyenértékűségükről tájékoztatja az Európai Bizottságot.
 
-(16)[^118] Ez a rendelet
+(15)[^114] A 9. § (3) bekezdése alapján készített összefoglaló alapulvételével az egészségügyért felelős miniszter által vezetett minisztérium 3 évente jelentést küld az Európai Bizottságnak (a továbbiakban: Bizottság) az emberi fogyasztásra szánt ivóvíz minőségéről. Minden jelentésben szerepelnie kell legalább minden, az átlag napi 1000 m3-t meghaladó hozamú vagy 5000 főnél többet ellátó ivóvízellátó rendszernek. A jelentésnek három naptári évre kell kiterjednie, és a jelentési időszak végét követő naptári év végéig az országos tisztifőorvosnak kell közzétenni. A jelentést a közzétételtől számított két hónapon belül meg kell küldeni a Bizottságnak.
+
+(16)[^115] Ez a rendelet
 
 a) az emberi fogyasztásra szánt víz minőségéről szóló, 1998. november 3-i 98/83/EK tanácsi irányelvnek, valamint
 
@@ -40,21 +42,22 @@ b) a lakosság egészségének az emberi fogyasztásra szánt vízben találhat�
 
 való megfelelést szolgálja.
 
-[^101]: A 10. § (2)–(3) bekezdését a 65/2009. (III. 31.) Korm. rendelet 9. § (11) bekezdése hatályon kívül helyezte.
-[^102]: A 10. § (4)–(6) bekezdését a 22/2013. (II. 1.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
-[^103]: A 10. § (7) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 51. § b) pontja hatályon kívül helyezte.
-[^104]: A 10. § (8) bekezdését a 65/2009. (III. 31.) Korm. rendelet 9. § (11) bekezdése hatályon kívül helyezte.
-[^105]: A 10. § (9) bekezdését a 313/2015. (X. 28.) Korm. rendelet 9. §-a hatályon kívül helyezte.
-[^106]: A 10. § (10) bekezdése a 47/2005. (III. 11.) Korm. rendelet 4. §-ával megállapított, a 65/2009. (III. 31.) Korm. rendelet 9. § (7) bekezdése, a 430/2013. (XI. 15.) Korm. rendelet 13. § h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 9. és 16. pontja szerint módosított szöveg.
-[^107]: A 10. § (11) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1039. pontja hatályon kívül helyezte, újonnan a 65/2009. (III. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be, újból hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 51. § b) pontja.
-[^108]: A 10. § (12) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 14. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^109]: A 10. § (13) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1039. pontja hatályon kívül helyezte, újonnan a 65/2009. (III. 31.) Korm. rendelet 7. § (4) bekezdése iktatta be, újból hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 51. § b) pontja.
-[^110]: A 10. § (13a) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 11. §-a iktatta be, szövege a 313/2015. (X. 28.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
-[^111]: A 10. § (13b) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 51. § b) pontja.
-[^112]: A 10. § (13c) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 11. §-a iktatta be.
-[^113]: A hatálybalépés időpontja 2013. december 1.
-[^114]: A 10. § (13d) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 11. §-a iktatta be.
-[^115]: A hatálybalépés időpontja 2013. december 1.
-[^116]: A 10. § új (14) bekezdését a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be, egyidejűleg az eredeti (14) bekezdés számozását (16) bekezdésre változtatta. A 10. § (14) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. pontja szerint módosított szöveg.
-[^117]: A 10. § (15) bekezdését a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 13. § i) pontja, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 17. pontja, a 79/2017. (IV. 7.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
-[^118]: A 10. § eredeti (14) bekezdésének számozását a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése (16) bekezdésre változtatta, szövege a 313/2015. (X. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^97]: A 10. § (2)–(3) bekezdését a 65/2009. (III. 31.) Korm. rendelet 9. § (11) bekezdése hatályon kívül helyezte.
+[^98]: A 10. § (4)–(6) bekezdését a 22/2013. (II. 1.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^99]: A 10. § (7) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 51. § b) pontja hatályon kívül helyezte.
+[^100]: A 10. § (8) bekezdését a 65/2009. (III. 31.) Korm. rendelet 9. § (11) bekezdése hatályon kívül helyezte.
+[^101]: A 10. § (9) bekezdését a 313/2015. (X. 28.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^102]: A 10. § (10) bekezdése a 47/2005. (III. 11.) Korm. rendelet 4. §-ával megállapított, a 65/2009. (III. 31.) Korm. rendelet 9. § (7) bekezdése, a 430/2013. (XI. 15.) Korm. rendelet 13. § h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 9. és 16. pontja szerint módosított szöveg.
+[^103]: A 10. § (11) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1039. pontja hatályon kívül helyezte, újonnan a 65/2009. (III. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be, újból hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 51. § b) pontja.
+[^104]: A 10. § (12) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 14. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^105]: A 10. § (13) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1039. pontja hatályon kívül helyezte, újonnan a 65/2009. (III. 31.) Korm. rendelet 7. § (4) bekezdése iktatta be, újból hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 51. § b) pontja.
+[^106]: A 10. § (13a) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 11. §-a iktatta be, szövege a 313/2015. (X. 28.) Korm. rendelet 8. § e) pontja, a 250/2017. (IX. 5.) Korm. rendelet 11. § k) pontja szerint módosított szöveg.
+[^107]: A 10. § (13b) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 51. § b) pontja.
+[^108]: A 10. § (13c) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 11. §-a iktatta be.
+[^109]: A hatálybalépés időpontja 2013. december 1.
+[^110]: A 10. § (13d) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 11. §-a iktatta be.
+[^111]: A hatálybalépés időpontja 2013. december 1.
+[^112]: A 10. § (13f) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^113]: A 10. § új (14) bekezdését a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be, egyidejűleg az eredeti (14) bekezdés számozását (16) bekezdésre változtatta. A 10. § (14) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. pontja szerint módosított szöveg.
+[^114]: A 10. § (15) bekezdését a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 13. § i) pontja, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 17. pontja, a 79/2017. (IV. 7.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^115]: A 10. § eredeti (14) bekezdésének számozását a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése (16) bekezdésre változtatta, szövege a 313/2015. (X. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

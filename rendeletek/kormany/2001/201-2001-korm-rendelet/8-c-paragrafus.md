@@ -1,6 +1,6 @@
-8/C. §[^94] (1) A 4. § (1) bekezdés d) pontja szerinti megfelelőségi pontot követően a 178/2002 EK rendelet szerinti ivóvíz tekintetében az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokra és tárgyakra vonatkozó, jogszabályban és uniós jogi aktusokban előírt rendelkezések szerinti megfelelőséget az élelmiszeripari vállalkozásoknál az élelmiszerlánc-felügyeleti szerv ellenőrzi.
+8/C. §[^90] (1) A 4. § (1) bekezdés d) pontja szerinti megfelelőségi pontot követően a 178/2002 EK rendelet szerinti ivóvíz tekintetében az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokra és tárgyakra vonatkozó, jogszabályban és uniós jogi aktusokban előírt rendelkezések szerinti megfelelőséget az élelmiszeripari vállalkozásoknál az élelmiszerlánc-felügyeleti szerv ellenőrzi.
 
-(2)[^95] Amennyiben az élelmiszerlánc-felügyeleti szerv az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagok és tárgyak tekintetében a szabályozás megsértését állapítja meg, erről és a megtett intézkedésekről 8 napon belül értesíti a kormányhivatalt.
+(2)[^91] Amennyiben az élelmiszerlánc-felügyeleti szerv az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagok és tárgyak tekintetében a szabályozás megsértését állapítja meg, erről és a megtett intézkedésekről 8 napon belül értesíti a kormányhivatalt.
 
-[^94]: A 8/C. §-t a 430/2013. (XI. 15.) Korm. rendelet 9. §-a iktatta be.
-[^95]: A 8/C. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^90]: A 8/C. §-t a 430/2013. (XI. 15.) Korm. rendelet 9. §-a iktatta be.
+[^91]: A 8/C. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 13. pontja szerint módosított szöveg.

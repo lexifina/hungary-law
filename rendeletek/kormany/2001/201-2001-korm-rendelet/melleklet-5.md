@@ -1,3 +1,3 @@
-5. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^123]
+5. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^120]
 
-[^123]: Az 5. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (4) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 11. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 23–24. pontja szerint módosított szöveg.
+[^120]: Az 5. számú melléklet a 250/2017. (IX. 5.) Korm. rendelet 10. § c) pontjával megállapított szöveg.

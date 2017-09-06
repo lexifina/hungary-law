@@ -240,6 +240,6 @@
 
 ## A vizsgálatot az üzemeltetőnek kell elvégeznie vagy elvégeztetnie.
 
-3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^121]
+3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^118]
 
-[^121]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja, a 313/2015. (X. 28.) Korm. rendelet 7. § (3) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. pontja szerint módosított szöveg.
+[^118]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja, a 313/2015. (X. 28.) Korm. rendelet 7. § (3) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. pontja szerint módosított szöveg.
