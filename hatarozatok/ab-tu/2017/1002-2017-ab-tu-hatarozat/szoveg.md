@@ -42,8 +42,10 @@ Dr. Szalay Péter alkotmánybíró.
 
 3. Ez a határozat 2017. szeptember 6-án lép hatályba.
 
-4. E határozat hatálybalépésével egyidejűleg az Alkotmánybíróság öttagú tanácsainak összetételéről és a tanácsvezetők személyéről szóló 1006/2016. (IX. 14.) AB Tü. határozat és az Alkotmánybíróság öttagú tanácsainak összetételéről szóló 1007/2016. (XII. 15.) AB Tü. határozat hatályukat vesztik.
+4.[^2]
 
 5. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
 Alkotmánybírósági ügyszám: XVIII/1714/2017.
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

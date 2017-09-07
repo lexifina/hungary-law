@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1002-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-09-06 | 2017-1002-30-29.1 | 1002/2017. (IX.12.) AB Tü. határozat |
+| 2017-09-07 | 2017-1002-30-29.2 | 1002/2019. (IX. 20.) AB Tü. határozat |
