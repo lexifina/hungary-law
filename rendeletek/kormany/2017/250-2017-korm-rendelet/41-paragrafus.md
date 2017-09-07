@@ -1,3 +1,0 @@
-## 40. § A 66/2012. (IV. 2.) Korm. rendelet 16. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az Európai Unió valamely tagállamába irányuló kiszállítás esetén a vámeljárásra vonatkozó rendelkezéseket nem kell alkalmazni. Az OGYÉI az eseti exportengedély három példányát az exportőr részére megküldi. A kiszállítás során az engedélyen feltüntetett vámszerv az engedélyeket lebélyegzi, és feltünteti rajtuk az eljárás időpontját és a szállított kábítószer, pszichotróp anyag vagy új pszichoaktív anyag mennyiségét, majd az engedély egyik példányát az OGYÉI, másik példányát az exportőr részére visszaküldi. Az eseti exportengedély egy példánya a szállítmányt az indulástól a célállomásig végigkíséri.”

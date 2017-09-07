@@ -1,12 +1,14 @@
 ## 10. § A 201/2001. (X. 25.) Korm. rendelet
 
-a) 1. számú melléklete a 2. melléklet szerint módosul,
+a)[^9]
 
-b)[^7]
+b)[^10]
 
-c) 5. számú melléklete helyébe a 4. melléklet lép,
+c)[^11]
 
-d)[^8]
+d)[^12]
 
-[^7]: A 10. § b) pontja a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.
-[^8]: A 10. § d) pontja a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.
+[^9]: A 10. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 10. § b) pontja a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.
+[^11]: A 10. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 10. § d) pontja a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.

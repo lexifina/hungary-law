@@ -1,4 +1,4 @@
-## 73. § Hatályát veszti a civil szervezetek által igénybe vehető infrastruktúra-támogatásról szóló 554/2013. (XII. 31.) Korm. rendelet.
+## 73. §[^38]
 
 ## 25. Záró rendelkezések
 
@@ -13,3 +13,5 @@
 (5) A 32. § és a 33. § 2018. február 1-jén lép hatályba.
 
 (6) Az 54. §, az 55. § és a 75. § (2) bekezdése 2019. február 9-én lép hatályba.
+
+[^38]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

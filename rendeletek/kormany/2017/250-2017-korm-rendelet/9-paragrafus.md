@@ -1,13 +1,12 @@
-## 8. §[^4]
+## 8. §[^5]
 
-9. § (1)[^5]
+9. § (1)[^6]
 
-(2) A 201/2001. (X. 25.) Korm. rendelet 10. §-a a következő (13f) bekezdéssel egészül ki:
+(2)[^7]
 
-## „(13f) A részletes vizsgálatok vonatkozásában 2014. január 1-jét megelőzően kiadott felmentések 2017. december 31-éig érvényesek.”
+(3)[^8]
 
-(3)[^6]
-
-[^4]: A 8. § a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.
-[^5]: A 9. § (1) bekezdése a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.
-[^6]: A 9. § (3) bekezdése a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.
+[^5]: A 8. § a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.
+[^6]: A 9. § (1) bekezdése a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.
+[^7]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. § (3) bekezdése a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.

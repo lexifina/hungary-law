@@ -1,3 +1,5 @@
-## 52. § Hatályát veszti a 316/2013. (VIII. 28.) Korm. rendelet 21. § (3) bekezdése.
+## 50–52. §[^32]
 
 ## 19. Az Állami Egészségügyi Ellátó központról szóló 27/2015. (II. 25.) Korm. rendelet módosítása
+
+[^32]: Az 50–52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

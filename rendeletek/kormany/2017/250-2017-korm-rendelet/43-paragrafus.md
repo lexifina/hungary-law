@@ -1,3 +1,0 @@
-## 42. § A 66/2012. (IV. 2.) Korm. rendelet 20. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A K1 és K2 jegyzéken szereplő kábítószerek, valamint a P1 és P2 jegyzéken szereplő pszichotróp anyagok, a P3 és P4 jegyzéken szereplő pszichotróp alapanyagok, a P4 jegyzék 14. sorában szereplő hatóanyagot tartalmazó gyógyszerek, valamint az új pszichoaktív anyagok megrendelése, átadása, átvétele és belföldi szállítása csak a 6. melléklet szerinti, szigorú elszámolási kötelezettség alá vont nyomtatvány felhasználásával történhet. A nyomtatvány előállítása az OGYÉI által előzetesen meghatározott mennyiségben és sorszámtartománnyal történhet.”
