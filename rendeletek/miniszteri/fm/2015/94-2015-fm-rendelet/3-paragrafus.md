@@ -1,4 +1,4 @@
-3. § (1)[^3] A 2. § alkalmazása során a Kincstár különösen a következő eseményeket ismeri el:
+3. § (1)[^4] A 2. § alkalmazása során a Kincstár különösen a következő eseményeket ismeri el:
 
 a) az ügyfél halála;
 
@@ -30,11 +30,11 @@ j) zárlati, vagy Magyarország területén még nem honos károsító, illetve 
 
 k) az intervenciós és export tevékenységgel összefüggő szállítási útvonalon bekövetkezett váratlan vagy tartós akadály, amelynek elhárítására az ügyfél önerejéből képtelen és az alternatív útvonal használata jelentős többletköltséggel jár.
 
-(2)[^4] Az (1) bekezdés a), b), c), d), f), j) és k) pontjában meghatározott esetekben a Kincstár az eseményt csak akkor ismeri el vis maiorként, ha annak bekövetkezését az ügyfél hatósági bizonyítvánnyal vagy más hitelt érdemlő módon bizonyítja.
+(2)[^5] Az (1) bekezdés a), b), c), d), f), j) és k) pontjában meghatározott esetekben a Kincstár az eseményt csak akkor ismeri el vis maiorként, ha annak bekövetkezését az ügyfél hatósági bizonyítvánnyal vagy más hitelt érdemlő módon bizonyítja.
 
 (3) Ha az esemény az (1) bekezdés e) pontjában meghatározott esetkörön belül tűzeset miatt következett be, akkor azt az ügyfélnek a tűzeset helye szerint illetékes tűzvédelmi hatóság által kiállított tűzeseti hatósági bizonyítvánnyal vagy tűzvizsgálati jelentéssel kell igazolnia.
 
-(4)[^5] Ha a bejelentés az (1) bekezdés e), g), h) vagy i) pontjában meghatározott eseményre vonatkozik – az (1) bekezdés e) pontjában meghatározott esetkörön belüli tűzeset kivételével –, akkor a Kincstár
+(4)[^6] Ha a bejelentés az (1) bekezdés e), g), h) vagy i) pontjában meghatározott eseményre vonatkozik – az (1) bekezdés e) pontjában meghatározott esetkörön belüli tűzeset kivételével –, akkor a Kincstár
 
 a) a bejelentés hiánytalan benyújtását követő tíz napon belül,
 
@@ -42,17 +42,18 @@ b) ha a bejelentés támogatási vagy kifizetési kérelem beadási időszakban 
 
 ## megkeresi a Magyar Államkincstárról szóló 311/2006. (XII. 23.) Korm. rendelet 6/E. § (1) bekezdésében meghatározott szakhatóságot.
 
-(5) Ha az ügyfél a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk. törvény) szerinti agrárkár-enyhítési eljárásban kárbejelentést tesz, akkor kérésére a kárbejelentést vis maior bejelentésnek is kell tekinteni. Ebben az esetben az agrárkár-megállapító szerv kárbejelentésre vonatkozó döntésének hatálya a 3. § (1) bekezdés e) pontja szerinti eseményre vonatkozó ténymegállapítások tekintetében – az esemény bekövetkezésének e rendelet szerinti igazolása tárgyában hozott külön döntés nélkül – kiterjed a vis maior bejelentéssel érintett eljárásra is.
+(5)[^7] Ha az ügyfél a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk. törvény) szerinti agrárkár-enyhítési eljárásban kárbejelentést tesz, akkor kérésére az általa megjelölt támogatások, illetve intézkedések vonatkozásában az agrárkár-megállapító szerv kárbejelentésre vonatkozó döntésének hatálya a 3. § (1) bekezdés e) pontja szerinti eseményre vonatkozó ténymegállapítások tekintetében – az esemény bekövetkezésének e rendelet szerinti külön bejelentése és az igazolása tárgyában hozott külön döntés nélkül – kiterjed a vis maior bejelentéssel érintett eljárásra is.
 
-(6)[^6] Ha az ügyfél az Mkk. törvény szerinti agrárkár-enyhítési eljárásban az agrárkár-megállapító szerv által igazolt kárbejelentést tett, és ezt követően ugyanezen területre e rendelet szerinti vis maior bejelentést is tesz, akkor a Kincstár az esemény bekövetkezésének igazolásáról a mezőgazdasági kockázatkezelési adatbázis adatai alapján dönt.
+(6)[^8] Az (5) bekezdés szerinti esetben a Kincstár az esemény bekövetkezésének igazolásáról az általa az agrárkár-enyhítési hatáskörében működtetett mezőgazdasági kockázatkezelési adatbázis adatai alapján dönt.
 
-(7)[^7] A 3. § (1) bekezdés e) pontja szerinti esemény bekövetkezésének igazolása céljából a Kincstár az általa az agrárkár-enyhítési hatáskörében működtetett mezőgazdasági kockázatkezelési adatbázis adatait jogosult felhasználni.
+(7)[^9]
 
-(8)[^8]
+(8)[^10]
 
-[^3]: A 3. § (1) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja szerint módosított szöveg.
-[^4]: A 3. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja szerint módosított szöveg.
-[^5]: A 3. § (4) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja, záró szövegrésze a 104. § d) pontja szerint módosított szöveg.
-[^6]: A 3. § (6) bekezdése a 88/2016. (XII. 29.) FM rendelet 104. § c) pontja szerint módosított szöveg.
-[^7]: A 3. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 104. § c) pontja szerint módosított szöveg.
-[^8]: A 3. § (8) bekezdését a 88/2016. (XII. 29.) FM rendelet 105. §-a hatályon kívül helyezte.
+[^4]: A 3. § (1) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja, záró szövegrésze a 104. § d) pontja szerint módosított szöveg.
+[^7]: A 3. § (5) bekezdése a 43/2017. (IX. 5.) FM rendelet 14. §-ával megállapított szöveg.
+[^8]: A 3. § (6) bekezdése a 43/2017. (IX. 5.) FM rendelet 14. §-ával megállapított szöveg.
+[^9]: A 3. § (7) bekezdését a 43/2017. (IX. 5.) FM rendelet 18. §-a hatályon kívül helyezte.
+[^10]: A 3. § (8) bekezdését a 88/2016. (XII. 29.) FM rendelet 105. §-a hatályon kívül helyezte.
