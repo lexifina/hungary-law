@@ -16,6 +16,7 @@ f) gondoskodik a tenyészetében tartott állatállomány kecske ENAR rendelet s
 
 g)[^8] nyilatkozik a b)–f) pontban foglaltakról.
 
-(3) A mezőgazdasági termelő a támogatási kérelmében megjelölt, a támogatás alapját képező anyakecskéket köteles a támogatási kérelem benyújtására meghatározott időszak utolsó napjától kezdődő száz naptári napos időtartamban folyamatosan birtokán tartani.
+(3)[^9] A mezőgazdasági termelő a támogatási kérelmében megjelölt, a támogatás alapját képező anyakecskéket köteles a támogatási kérelem benyújtására meghatározott időszak utolsó napját követő naptól kezdődő száz naptári napos időtartamban folyamatosan birtokán tartani.
 
 [^8]: A 2. § (2) bekezdés g) pontját a 69/2015. (XI. 2.) FM rendelet 12. §-a iktatta be.
+[^9]: A 2. § (3) bekezdése a 43/2017. (IX. 5.) FM rendelet 4. §-ával megállapított szöveg.
