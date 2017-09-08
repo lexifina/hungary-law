@@ -1,6 +1,6 @@
 3. § (1) A HM vagyonkezelésű lakás elidegenítésének előkészítéséről a HM vagyonkezelői feladatokat ellátó szerv gondoskodik.
 
-(2) A HM vagyonkezelésű lakások elidegenítésének előkészítésére a közbeszerzésre vonatkozó szabályok betartásával, a miniszter előzetes hozzájárulásával, gazdálkodó szervezettel megbízási szerződés is köthető.
+(2)[^4] A HM vagyonkezelésű lakások elidegenítésének előkészítésére a közbeszerzésre vonatkozó szabályok betartásával, a HM közigazgatási államtitkára előzetes hozzájárulásával, gazdálkodó szervezettel megbízási szerződés is köthető.
 
 (3) Az elidegenítés előkészítése magában foglalja
 
@@ -13,3 +13,5 @@ c) az elidegenítéshez szükséges ingatlanrendezési feladatok elvégzését �
 d) a társasház alapító okirat tervezetének elkészítését, valamint
 
 e) az elidegenítés Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: tulajdonosi joggyakorló) általi engedélyezése iránti, a nemzeti vagyonról és az állami vagyonról szóló jogszabályoknak megfelelő tartalmú javaslat elkészítését.
+
+[^4]: A 3. § (2) bekezdése a 9/2017. (VIII. 31.) HM rendelet 22. §-ával megállapított szöveg.

@@ -6,6 +6,6 @@ b) megbízási szerződés alapján történő előkészítés esetén a megbíz
 
 ## terjeszti elő a miniszternek.
 
-(2)[^4] Az elidegenítésre előkészített lakások értékesítésének engedélyezésére vonatkozó javaslatot a Honvéd Vezérkar főnöke véleményének kikérését követően a miniszter küldi meg a tulajdonosi joggyakorlónak.
+(2)[^5] Az elidegenítésre előkészített lakások értékesítésének engedélyezésére vonatkozó javaslatot a Honvéd Vezérkar főnöke véleményének kikérését követően a miniszter küldi meg a tulajdonosi joggyakorlónak.
 
-[^4]: A 4. § (2) bekezdése a 24/2013. (XII. 20.) HM rendelet 4. § c) pontja szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdése a 24/2013. (XII. 20.) HM rendelet 4. § c) pontja szerint módosított szöveg.
