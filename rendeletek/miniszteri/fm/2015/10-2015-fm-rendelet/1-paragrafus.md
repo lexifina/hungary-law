@@ -12,7 +12,7 @@
 
 3.[^2] állandó gyepterület: az 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés h) pontja szerinti terület;
 
-4.[^3] állandó kultúra: az állandó gyepterülettől eltérő, a vetésforgón kívül termesztett növénykultúra, amely öt vagy öt évnél több ideig foglalja el a földterületet, és ismétlődően termést hoz, ideértve a faiskolát, a rövid vágásfordulójú fás szárú energetikai ültetvényt, a fás szárú egyéb ültetvényeket, a spárgát, a Miscanthus nemzetségbe tartozó energianád fajokat, az olasznád, szilfium és keleti kecskeruta fajokat mint lágyszárú energianövényeket, valamint a levendula, orvosi zsálya, kerti ruta, mezei cickafark, fehér üröm, kasvirág, évelő édeskömény, kerti kakukkfű, lósóska, szurokfű lágyszárú fajokat;
+4.[^3] állandó kultúra: az állandó gyepterülettől eltérő, a vetésforgón kívül termesztett növénykultúra, amely öt vagy öt évnél több ideig foglalja el a földterületet, és ismétlődően termést hoz, ideértve a faiskolát, a rövid vágásfordulójú fás szárú energetikai ültetvényt, a fás szárú egyéb ültetvényeket, a spárgát, a Miscanthus nemzetségbe tartozó energianád fajokat, az olasznád, szilfium és a nem ökológiai jelentőségű területeként igényelt keleti kecskeruta fajokat mint lágyszárú energianövényeket, valamint a levendula, orvosi zsálya, kerti ruta, mezei cickafark, fehér üröm, kasvirág, évelő édeskömény, kerti kakukkfű, lósóska, szurokfű lágyszárú fajokat;
 
 5. egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló, tárgyévi miniszteri rendeletben meghatározott támogatási kérelem;
 
@@ -72,7 +72,7 @@
 
 [^1]: Az 1. § (1) bekezdés 1. pontja a 72/2016. (XI. 3.) FM rendelet 11. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés 3. pontja a 72/2016. (XI. 3.) FM rendelet 11. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § (1) bekezdés 4. pontja a 13/2017. (III. 17.) FM rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés 4. pontja a 43/2017. (IX. 5.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § 10. pontja a 37/2016. (V. 18.) FM rendelet 15. §-ával megállapított szöveg.
 [^5]: Az 1. § (1) bekezdés 11. pontja a 72/2016. (XI. 3.) FM rendelet 7. §-ával megállapított szöveg.
 [^6]: Az 1. § (1) bekezdés 12. pontja a 72/2016. (XI. 3.) FM rendelet 7. §-ával megállapított szöveg.

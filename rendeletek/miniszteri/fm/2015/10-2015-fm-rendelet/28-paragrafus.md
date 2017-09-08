@@ -1,8 +1,10 @@
+## 27/F. §[^103] E rendeletnek az egyes agrártámogatásokat és agrárágazati szabályokat tartalmazó miniszteri rendeletek módosításáról szóló 43/2017. (IX. 5.) FM rendelettel megállapított 1. § 4. pontját a 2017. évben benyújtott egységes kérelmekre is alkalmazni kell.
+
 ## 27. Az Európai Unió jogának való megfelelés
 
 ## 28. § Ez a rendelet
 
-a)[^103] a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1307/2013/EU európai parlamenti és tanácsi rendelet,
+a)[^104] a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1307/2013/EU európai parlamenti és tanácsi rendelet,
 
 b) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról szóló 1307/2013 európai parlamenti és tanácsi rendelet kiegészítéséről, és X. mellékletének módosításáról szóló, 2014. március 11-ei 639/2014/EU felhatalmazáson alapuló bizottsági rendelet,
 
@@ -14,4 +16,5 @@ e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabá
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^103]: A 28. § a) pontja a 72/2016. (XI. 3.) FM rendelet 11. § j) pontja szerint módosított szöveg.
+[^103]: A 27/F. §-t a 43/2017. (IX. 5.) FM rendelet 7. §-a iktatta be.
+[^104]: A 28. § a) pontja a 72/2016. (XI. 3.) FM rendelet 11. § j) pontja szerint módosított szöveg.
