@@ -8,8 +8,9 @@
 
 (5) A helyi lakásgazdálkodási szerv vezetője a 14. § szerinti lakásfelajánlónak, a lakásgazdálkodási érdekek figyelembevételével, megfelelő cserelakást adhat bérbe a sorrendiség betartása nélkül, azonban az nem haladhatja meg a bérlő e rendeletben meghatározott igényének mértékét.
 
-(6) A HM Központi Lakásbizottság elnökének előzetes hozzájárulásával, a sorrendiség betartása nélkül juttatható HM rendelkezésű lakás az állomány hősi halottá nyilvánított tagjának özvegye és az 5. § (1) bekezdés c) pontjában foglalt feltételeknek megfelelő túlélő élettársa részére.
+(6)[^41] A közigazgatási államtitkár előzetes hozzájárulásával, a sorrendiség betartása nélkül juttatható HM rendelkezésű lakás az állomány hősi halottá nyilvánított tagjának özvegye és az 5. § (1) bekezdés c) pontjában foglalt feltételeknek megfelelő túlélő élettársa részére.
 
-(7)[^39] A 13. § (3)–(4) bekezdéseiben meghatározott vezetők részére történő lakásjuttatásról az illetékes keretgazda lakásbizottság vagy annak javaslatára a HM Központi Lakásbizottság elnöke dönt. A HM Központi Lakásbizottság elnökének lakásjuttatásáról a HM Központi Lakásbizottság dönt. A bizottsági döntések meghozatalában a kérelmezők a bizottság tagjaként nem működhetnek közre.
+(7)[^42] A 13. § (3) bekezdésében meghatározott vezetők részére történő lakásjuttatásról az illetékes keretgazda lakásbizottság vagy annak javaslatára a közigazgatási államtitkár dönt. A bizottsági döntések meghozatalában a kérelmezők a bizottság tagjaként nem működhetnek közre.
 
-[^39]: A 19. § (7) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 3. pontja szerint módosított szöveg.
+[^41]: A 19. § (6) bekezdése a 9/2017. (VIII. 31.) HM rendelet 8. § c) pontja szerint módosított szöveg.
+[^42]: A 19. § (7) bekezdése a 9/2017. (VIII. 31.) HM rendelet 1. §-ával megállapított szöveg.

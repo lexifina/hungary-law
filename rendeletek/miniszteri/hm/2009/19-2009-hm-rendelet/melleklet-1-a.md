@@ -86,7 +86,7 @@
 
 |  | Orosháza |
 
-| 10. Székesfehérvár helyőrség-parancsnokság | Balatonkenese, |
+| 10. Székesfehérvár helyőrség-parancsnokság | Balatonakarattya, |
 
 |  | Dunaújváros, |
 
@@ -172,7 +172,7 @@
 
 |  | Verőce |
 
-1/A. melléklet a 19/2009. (XII. 29.) HM rendelethez[^314]
+1/A. melléklet a 19/2009. (XII. 29.) HM rendelethez[^338]
 
 ## A lakáskiürítési és cseretérítés megállapítása szempontjából kiemelt települések jegyzéke
 
@@ -212,4 +212,4 @@
 
 18. Veszprém
 
-[^314]: Az 1/A. mellékletet a 15/2015. (XII. 21.) HM rendelet 28. § (1) bekezdése iktatta be.
+[^338]: Az 1/A. mellékletet a 15/2015. (XII. 21.) HM rendelet 28. § (1) bekezdése iktatta be.

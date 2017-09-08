@@ -1,10 +1,27 @@
-181/A. §[^167] (1)[^168] Tulajdoni formától függetlenül – a (2) bekezdésben foglaltak figyelembevételével – nyújtható lakásvásárlás céljából vissza nem térítendő juttatás a hivatásos és szerződéses állomány hősi halottá nyilvánított, a 179. § (1) bekezdés a) pont aa) alpontjában megállapított időbeni feltételnek megfelelő tagjának özvegye, vagy az 5. § (1) bekezdés d) pontja szerinti feltételeknek megfelelő túlélő élettársa, illetve annak hiányában a hősi halott saját háztartásában eltartott gyermeke részére.
+181/A. §[^177] (1) A hivatásos és szerződéses állomány hősi halottá nyilvánított, a 179. § (1) bekezdés a) pont aa) alpontjában meghatározott időbeni feltételnek megfelelő tagjának a halál bekövetkezésekor vele ténylegesen együtt élő özvegye, vagy az 5. § (1) bekezdés d) pontja szerinti feltételeknek megfelelő túlélő élettársa, az előbbiek hiányában a hősi halott saját háztartásában eltartott gyermeke részére vissza nem térítendő juttatás nyújtható
 
-(2) Amennyiben a hősi halott saját háztartásában eltartott gyermeket hagyott hátra, a vissza nem térítendő juttatás csak akkor nyújtható, ha a lakás tulajdonjogát az eltartott gyermek szerzi meg.
+a) tulajdoni formától függetlenül, a személyi jövedelemadóról szóló törvényben meghatározott méltányolható lakásigény mértékét meg nem haladó szobaszámú lakás vásárlásához, vagy
 
-(3) A vissza nem térítendő juttatás összege a lakás vételárának az igénylő részére megállapítható személyi jövedelemadóval és az egyéni társadalombiztosítási járulékkal megnövelt összege.
+b) pénzintézet vagy pénzügyi vállalkozás által nyújtott lakásvásárlási vagy építési kölcsönből (a továbbiakban: pénzintézeti lakáshitel) fennálló tartozás csökkentéséhez,
 
-(4) A vissza nem térítendő juttatás nyújtására e rendelet sorrendiségi szabályainak mellőzésével kerülhet sor.
+## feltéve, hogy a 179. § (3) bekezdés a) pontjában meghatározott kizáró ok – a pénzintézeti lakáshitellel megszerzett ingatlan kivételével – az igénylő esetében nem áll fent.
 
-[^167]: A 181/A. §-t a 4/2012. (IV. 5.) HM rendelet 12. §-a iktatta be.
-[^168]: A 181. § (1) bekezdése a 10/2014. (VII. 25.) HM rendelet 37. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+(2) Ha a hősi halott saját háztartásában eltartott gyermeket hagyott hátra, lakásvásárláshoz a vissza nem térítendő juttatás csak akkor nyújtható, ha a lakás tulajdonjogát az eltartott gyermek, több gyermek esetén az eltartott gyermekek egymás között egyenlő arányban szerzik meg.
+
+(3) A vissza nem térítendő juttatás összege
+
+a) lakásvásárlás esetén a lakás vételárának 75%-a, vagy
+
+b) pénzintézeti lakáshitel esetén a fennálló tartozás 75%-a,
+
+## de nem haladhatja meg a húszmillió forintot.
+
+(4) Ha a támogatásra való jogosultság megszerzése érdekében az igénylő vagy a saját háztartásában eltartott gyermeke a tulajdonában lévő lakást – beleértve a felsorolt személyek közös lakástulajdonát is – elidegenítette, vissza nem térítendő juttatás lakásvásárlás céljából a lakások eladási és vételára közötti különbözet 75%-a, de legfeljebb húszmillió forint erejéig nyújtható az (1) bekezdésben felsorolt személyek részére.
+
+(5) A (3)–(4) bekezdés szerint kiszámított támogatás összegét a hősi halott saját háztartásában eltartott gyermekei után gyermekenként ötmillió forinttal kell növelni, de a vissza nem térítendő juttatás összege így sem haladhatja meg a lakás vételárát, a (4) bekezdés szerinti különbözetet vagy a pénzintézeti lakáshitelből fennálló tartozás összegét.
+
+(6) A (3)–(5) bekezdés szerint megállapítható támogatást az igénylő részére a személyi jövedelemadóval és az egyéni társadalombiztosítási járulékkal megnövelt összegben kell folyósítani.
+
+(7) A vissza nem térítendő juttatás iránti igény a hősi halottá nyilvánítástól számított egy éves jogvesztő határidőn belül nyújtható be. A támogatás nyújtására e rendelet sorrendiségi szabályainak mellőzésével kerülhet sor.
+
+[^177]: A 181/A. §-t a 4/2012. (IV. 5.) HM rendelet 12. §-a iktatta be, szövege a 9/2017. (VIII. 31.) HM rendelet 4. §-ával megállapított szöveg.

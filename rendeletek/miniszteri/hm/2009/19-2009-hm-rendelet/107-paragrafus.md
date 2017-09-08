@@ -2,6 +2,6 @@
 
 (2) Személygépkocsi-tároló helyiség esetében a 34. § (1) és (2) bekezdés csak akkor alkalmazható, ha a bérlő vagy a vele jogszerűen állandó jelleggel együtt lakó hozzátartozója személygépkocsi tulajdonjogával, illetőleg megállapodás alapján tartós használati jogával rendelkezik.
 
-(3)[^128]
+(3)[^138]
 
-[^128]: A 107. § (3) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^138]: A 107. § (3) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.

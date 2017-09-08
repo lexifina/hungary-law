@@ -26,7 +26,7 @@ c) a szolgálati, illetőleg munkahelye szerinti településen lévő, a 10. §-
 
 d)[^24] a bérleti díj vagy a bérlőt terhelő költségek és terhek megfizetésének elmulasztása vagy egyéb szerződésszegés miatti bérbeadói felmondás következtében vált a HM rendelkezésű lakás jogcím nélküli használójává.
 
-(3)[^25] Az (1) bekezdés b)–h) pontjában, továbbá a (2) bekezdés a) és c) pontjában meghatározott kizáró okok alól a HM Központi Lakásbizottság, a (2) bekezdés b) pontjában foglalt kizáró ok alól a helyőrségi – Budapesten az illetékes keretgazda – lakásbizottság adhat felmentést a (8) bekezdés szerinti méltányolható körülmények, valamint a 3. § (10) bekezdése szerinti szolgálati és lakásgazdálkodási érdek együttes mérlegelésével. Az eljáró bizottság ezzel egyidejűleg köteles meghatározni a lakásjuttatás e rendelet szerint megállapítható tartamát, amelyet a felmentő döntésről szóló értesítésben közöl a kérelmezővel.
+(3)[^25] Az (1) bekezdés b)–h) pontjában, továbbá a (2) bekezdés a) és c) pontjában meghatározott kizáró okok alól a HM közigazgatási államtitkára (a továbbiakban: közigazgatási államtitkár), a (2) bekezdés b) pontjában foglalt kizáró ok alól a helyőrségi – Budapesten az illetékes keretgazda – lakásbizottság adhat felmentést a (8) bekezdés szerinti méltányolható körülmények, valamint a 3. § (10) bekezdése szerinti szolgálati és lakásgazdálkodási érdek együttes mérlegelésével. A felmentési döntésben meg kell határozni a lakásjuttatás e rendelet szerint megállapítható tartamát, amelyet a felmentő döntésről szóló értesítésben közöl a kérelmezővel.
 
 (4) A felmentés – beleértve a (2) bekezdés szerinti időtartam lejártával bekövetkező mentesülést követő lakásjuttatást is –
 
@@ -66,7 +66,7 @@ g) házasságát bíróság jogerős ítélettel felbontotta vagy élettársi ka
 
 [^23]: A 9. § (1) bekezdés a) pontja a 10/2014. (VII. 25.) HM rendelet 25. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
 [^24]: A 9. § (2) bekezdés d) pontja a 15/2015. (XII. 21.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^25]: A 9. § (3) bekezdése a 15/2015. (XII. 21.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^25]: A 9. § (3) bekezdése a 15/2015. (XII. 21.) HM rendelet 2. § (2) bekezdésével megállapított, a 9/2017. (VIII. 31.) HM rendelet 8. § a) és b) pontja szerint módosított szöveg.
 [^26]: A 9. § (4) bekezdés b) pontját a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
 [^27]: A 9. § (5) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
 [^28]: A 9. § (5a) bekezdését a 22/2013. (X. 7.) HM rendelet 3. § (4) bekezdése iktatta be, hatályon kívül helyezte a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése. Alkalmazására lásd ez utóbbi módosító rendelet 17–18. §-át.

@@ -1,6 +1,6 @@
 231. § (1) A HM-ben Központi Lakásbizottságot kell létrehozni.
 
-(2) A honvédelmi szervek szervezeti változásaival összefüggésben a HM Központi Lakásbizottság elnöke dönt a HM Központi Lakásbizottság ideiglenes személyi, továbbá a 229. § (2) bekezdés szerinti keretgazda lakásbizottságok ideiglenes szervezeti összetételéről, amit közlemény formájában tesz közzé.
+(2)[^297] A honvédelmi szervek szervezeti változásaival összefüggésben a közigazgatási államtitkár dönt a 229. § (2) bekezdés szerinti keretgazda lakásbizottságok ideiglenes szervezeti összetételéről, amit közlemény formájában tesz közzé.
 
 (3) A bizottság a rendes üléseit félévenként egy alkalommal tartja. Rendkívüli ülést tarthat az elnök javaslatára vagy ha azt a tagok több, mint 50%-a – napirendi javaslattal – az elnöknél írásban kezdeményezi.
 
@@ -13,3 +13,5 @@
 (7) A bizottság a hatáskörébe tartozó ügyekben a döntést az elnök hatáskörébe utalhatja. Az elnök a döntéseiről a bizottságnak beszámolni köteles.
 
 (8) A bizottsági ülésről jegyzőkönyvet kell vezetni, amit a bizottság minden tagjának meg kell küldeni.
+
+[^297]: A 231. § (2) bekezdése a 9/2017. (VIII. 31.) HM rendelet 8. § o) pontja szerint módosított szöveg.
