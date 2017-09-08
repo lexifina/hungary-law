@@ -1,1 +1,0 @@
-## 3. § A Magyar Turisztikai Ügynökség Zrt. tulajdonába tartozó, kifejezetten a közösségi agrármarketing feladatok ellátásához szükséges vagyonelemeket 2016. június 15. napjától az Agrármarketing Centrum Nonprofit Kft. tulajdonába kell adni.
