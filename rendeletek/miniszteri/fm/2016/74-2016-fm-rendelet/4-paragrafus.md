@@ -6,7 +6,7 @@ a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás
 
 b) a támogatási kérelem benyújtásának időpontjában
 
-ba) nem rendelkezik adók módjára behajtható köztartozással vagy lejárt esedékességű adótartozással, kivéve, ha az adóhatóság számára fizetési halasztást vagy részletfizetést engedélyezett,
+ba)[^2]
 
 bb) nem áll felszámolási, végelszámolási eljárás vagy csődeljárás alatt,
 
@@ -28,18 +28,19 @@ eb) a 119/2007. (X. 18.) FVM rendelet szerint bejelentett tenyészettel.
 
 (2) Egy tenyészkos vagy tenyészbak után csak a tenyésztésbe állítást követő első támogatási kérelem benyújtási időszakban és csak egy alkalommal igényelhető támogatás.
 
-(3) Az állattartó a tenyészetében lévő
+(3)[^3] Az állattartó a tenyészetében lévő
 
-a) ötven anyajuhonként legfeljebb egy tenyészkos,
+a) anyajuh minden megkezdett ötven egyedszáma után egy tenyészkos,
 
-b) ötven anyakecskénként legfeljebb egy tenyészbak
+b) anyakecske minden megkezdett ötven egyedszáma után egy tenyészbak
 
-## tenyésztésbe állítása után igényelhet támogatást.
+## tenyésztésbe állításához igényelhet támogatást.
 
-(4)[^2] A (3) bekezdés alkalmazásában minden megkezdett ötven anyajuh vagy anyakecske egyedszám alapján egy tenyészkos vagy egy tenyészbak után igényelhető támogatás.
+(4) Ha a bejelentett tenyészetben lévő anyajuh vagy anyakecske egyedszáma nem éri el az ötvenet, akkor egy tenyészkos, illetve egy tenyészbak tenyésztésbe állításához igényelhető támogatás.
 
 (5) A támogatás tárgyévi igénybevétele szempontjából a tárgyévi, illetve a tárgyévet megelőző évi, az apaállat megvásárlását – saját állományból történő tenyésztésbe állítás esetén a tenyésztésbe állítást – igazoló, állattartó nevére kiállított számviteli bizonylat használható fel.
 
 (6) Egy állattartó egy támogatási időszakban egy támogatási kérelmet nyújthat be.
 
-[^2]: A 4. § (4) bekezdése a 34/2017. (VI. 9.) FM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § (1) bekezdés b) pont ba) alpontját a 43/2017. (IX. 5.) FM rendelet 21. §-a hatályon kívül helyezte.
+[^3]: A 4. § (3) bekezdése a 43/2017. (IX. 5.) FM rendelet 19. §-ával megállapított szöveg.
