@@ -1,3 +1,3 @@
-## 19–20. §[^14]
+## 20. §[^25]
 
-[^14]: A 19–20. § a 16. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^25]: A 20. § a 9/2017. (VIII. 31.) HM rendelet 21. §-a alapján nem lép hatályba.

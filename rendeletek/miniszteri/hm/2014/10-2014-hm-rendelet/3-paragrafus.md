@@ -55,3 +55,9 @@ c) egy évet meghaladó időtartamú vezénylése.
 a) a (6) bekezdés 1. pontját, ha a munkáltatói kölcsön és az abból jóváírt engedmény,
 
 b) a (6) bekezdés 10. pontját, ha a pénzbeli térítés
+
+## teljes egészében visszafizetésre került.
+
+(8)[^2] Ha a 2017. december 31-én albérleti díj hozzájárulásban részesült hivatásos vagy szerződéses katona részére kerül a lakáspénz megállapításra azon helyőrség vonatkozásában, ahová a hivatásos vagy szerződéses katona helyőrség- (település-) és lakóhely-változtatással is járó másik beosztásba kinevezésére, áthelyezésére, rendelkezési állományból más szervhez határozatlan időtartamra vagy egy évet meghaladó határozott időtartamra történt vezénylésére a haderő átalakításával vagy átszervezéssel összefüggésben, a szolgálat érdekében került sor, és a munkáltatói kölcsönnyújtás vagy a lakásvásárlás azt megelőzően történt, a (6) bekezdés 1. és 3. pontját nem kell alkalmazni.
+
+[^2]: A 3. § (8) bekezdését a 9/2017. (VIII. 31.) HM rendelet 10. §-a iktatta be.

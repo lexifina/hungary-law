@@ -12,7 +12,7 @@ ac) az 52. életévét betöltötte;
 
 b) életkorától függetlenül a felmentés alatt álló, az a) pont aa)–ab) alpontjában meghatározott feltételekkel rendelkező hivatásos katona, ha a szolgálati viszony saját kérelemre történő megszüntetésére azért került sor, mert a megváltozott munkaképességű személyek ellátására szerzett jogosultságot;
 
-c) a hivatásos és a szerződéses állomány hősi halottá nyilvánított, az a) pont aa) alpontjában megjelölt időbeni feltételnek megfelelő tagjának a halál bekövetkezésekor vele együtt élő özvegye, túlélő élettársa, az előbbiek hiányában az elhunyt saját háztartásban eltartott gyermeke.
+c)[^19]
 
 (2) A honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 46. § (1) bekezdés r) vagy s) pont szerinti rendelkezési állományba helyezett és az (1) bekezdés a) pontjában meghatározott feltételekkel rendelkező hivatásos katona vissza nem térítendő juttatás iránti kérelme a rendelkezési állományba helyezést követően benyújtható, a kérelem azonban csak a szolgálati viszony megszűnését követően teljesíthető.
 
@@ -34,6 +34,7 @@ b) az igénylő vagy az igénylő házastársa, élettársa a házasság fennál
 
 c) az igénylő vagy az igénylő házastársa, élettársa, az igénylő háztartásában eltartott gyermeke a kizárólagos vagy a felsorolt személyek közös tulajdonában lévő lakás tulajdonjogát a támogatás benyújtását megelőző öt éven belül ingyenesen átruházta.
 
-(5)[^13] Az egyszeri pénzbeli támogatásra vonatkozó igénylés már abban az évben benyújtható és nyilvántartásba vehető, amikor a hivatásos katona az 51. életévét betöltötte, de az csak az 52. életév betöltését követően teljesíthető.
+(5)[^20] Az egyszeri pénzbeli támogatásra vonatkozó igénylés már abban az évben benyújtható és nyilvántartásba vehető, amikor a hivatásos katona az 51. életévét betöltötte, de az csak az 52. életév betöltését követően teljesíthető.
 
-[^13]: A 10. § (5) bekezdését a 15/2015. (XII. 21.) HM rendelet 35. §-a iktatta be.
+[^19]: A 10. § (1) bekezdés c) pontját a 9/2017. (VIII. 31.) HM rendelet 20. § b) pontja hatályon kívül helyezte.
+[^20]: A 10. § (5) bekezdését a 15/2015. (XII. 21.) HM rendelet 35. §-a iktatta be.
