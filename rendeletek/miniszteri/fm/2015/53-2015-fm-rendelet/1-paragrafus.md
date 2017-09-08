@@ -14,11 +14,11 @@
 
 6. dohányszárító: minden nyersdohány szárítására alkalmas, energiával fűtött, zárt kamrás, 5000 kg ki nem szárított nyers dohány (zöld dohány) befogadására alkalmas kapacitású vagy részkapacitású berendezés, vagy ilyen mennyiségű kapacitással bíró, különálló berendezések összessége;
 
-7. dohánytermelő: az az ügyfél, aki vagy amely e rendelet szerint Burley, illetve Virginia dohány termeléséhez kötött támogatást vesz igénybe, vagy Burley, illetve Virginia dohány szerkezetátalakítási támogatási jogosultsággal rendelkezik;
+7.[^1] dohánytermelő: az az ügyfél, aki vagy amely e rendelet szerint Burley, illetve Virginia dohány termeléséhez kötött, mezőgazdasági csekély összegű támogatást vesz igénybe, vagy Burley, illetve Virginia dohány szerkezetátalakítási támogatási jogosultsággal rendelkezik;
 
 8. egy és ugyanazon vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 5a. pontja szerinti vállalkozás;
 
-9.[^1] együttműködő termelő: a dohánytermelő olyan közeli hozzátartozója, vagy a dohánytermelővel azonos családi gazdaságban tag természetes személy, akinek a 4. § (3) bekezdés szerinti kötelezettség-megosztásra vonatkozó bejelentését a Magyar Államkincstár (a továbbiakban: Kincstár) jóváhagyta, és az ügyfél-nyilvántartásba vételi kötelezettségének eleget tett;
+9.[^2] együttműködő termelő: a dohánytermelő olyan közeli hozzátartozója, vagy a dohánytermelővel azonos családi gazdaságban tag természetes személy, akinek a 4. § (3) bekezdés szerinti kötelezettség-megosztásra vonatkozó bejelentését a Magyar Államkincstár (a továbbiakban: Kincstár) jóváhagyta, és az ügyfél-nyilvántartásba vételi kötelezettségének eleget tett;
 
 10. elismert élőmunka ráfordítás: természetes személy közteher fizetés melletti önfoglalkoztatása, valamint olyan munkavállaló alkalmazása, amely után a közterheket a termelő, munkaerő kölcsönzés vagy egyes munkafolyamatok vállalkozási szerződés keretében történő elvégzése esetében a termelővel kötött megállapodás alapján harmadik személy fizeti meg;
 
@@ -34,7 +34,7 @@ tevékenység végzése;
 
 13. felhasznált tüzelőanyag és villamos energia mennyiség: a dohányszárító által a tárgyévben dohánylevél szárításra, előállításra felhasznált és dokumentált tüzelőanyag és villamos energia mennyisége;
 
-14.[^2] jogosult település: az a település, amelynek közigazgatási területén a referenciaterület megállapításánál figyelembe vett mezőgazdasági földterület található, valamint az azzal szomszédos település, továbbá ezekkel azonos járáshoz tartozó település közigazgatási területe;
+14.[^3] jogosult település: az a település, amelynek közigazgatási területén a referenciaterület megállapításánál figyelembe vett mezőgazdasági földterület található, valamint az azzal szomszédos település, továbbá ezekkel azonos járáshoz tartozó település közigazgatási területe;
 
 15. mezőgazdasági csekély összegű támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU rendelet) szerinti támogatás;
 
@@ -56,5 +56,6 @@ tevékenység végzése;
 
 24. Virginia dohány szerkezetátalakítási támogatási jogosultság: a dohány szerkezetátalakítási nemzeti programban történő részvétel alapján, a Virginia dohány referenciaterület figyelembevételével megállapított mezőgazdasági vagyoni értékű jog.
 
-[^1]: Az 1. § 9. pontja a 88/2016. (XII. 29.) FM rendelet 94. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § 14. pontja a 4/2016. (I. 20.) FM rendelet 26. §-ával megállapított szöveg.
+[^1]: Az 1. § 7. pontja a 43/2017. (IX. 5.) FM rendelet 10. §-ával megállapított szöveg.
+[^2]: Az 1. § 9. pontja a 88/2016. (XII. 29.) FM rendelet 94. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 14. pontja a 4/2016. (I. 20.) FM rendelet 26. §-ával megállapított szöveg.

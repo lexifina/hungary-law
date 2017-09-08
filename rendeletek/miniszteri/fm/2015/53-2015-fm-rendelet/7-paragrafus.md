@@ -1,5 +1,5 @@
-7. §[^12] (1) Elháríthatatlan külső ok (vis maior) esetén a 4. § (1) bekezdés c) és d) pontja szerinti feltételek teljesítési mértékének megállapítása során a gazdaság adott évi, egységes területalapú támogatásra jogosult területét kell figyelembe venni.
+7. §[^13] (1) Elháríthatatlan külső ok (vis maior) esetén a 4. § (1) bekezdés c) és d) pontja szerinti feltételek teljesítési mértékének megállapítása során a gazdaság adott évi, egységes területalapú támogatásra jogosult területét kell figyelembe venni.
 
 (2) Ha a dohánytermelő által a 3. § (2) bekezdése alapján jelölt településen a dohánytermelő egységes területalapú támogatásra jogosult területei közül a vis maior eseménnyel nem érintett szántó vagy ültetvény besorolású területeinek hektárszáma kisebb, mint a dohánytermelő támogatási jogosultságainak darabszáma, akkor a vis maior eseménnyel nem érintett szántó és ültetvényterület hektárszámának megfelelő számú támogatási jogosultság után kell a dohánytermelőnek és a vele együttműködő termelőnek a szerkezetátalakítási program alapján vállalt támogatási feltételeket teljesíteni azzal, hogy ha a vis maior eseménnyel érintett szántó vagy ültetvény besorolású területe egyenlő vagy nagyobb, mint a támogatási jogosultságainak darabszáma, akkor a feltételek teljesítése szempontjából az összes területet vis maior eseménnyel érintett területnek kell tekinteni.
 
-[^12]: A 7. § a 4/2016. (I. 20.) FM rendelet 27. §-ával megállapított szöveg.
+[^13]: A 7. § a 4/2016. (I. 20.) FM rendelet 27. §-ával megállapított szöveg.
