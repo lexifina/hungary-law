@@ -1,3 +1,3 @@
-## 67. §[^213]
+## 67. §[^215]
 
-[^213]: A 67. §-t és az azt megelőző alcímet a 20/2014. (X. 31.) FM rendelet 33. § e) pontja hatályon kívül helyezte.
+[^215]: A 67. §-t és az azt megelőző alcímet a 20/2014. (X. 31.) FM rendelet 33. § e) pontja hatályon kívül helyezte.

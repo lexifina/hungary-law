@@ -1,17 +1,17 @@
 ## A forgalomba hozatali engedély igénylése
 
-38. §[^135] (1) A forgalomba hozatali engedélyt a NÉBIH honlapján szerkeszthető formában közzétett kérelem benyújtásával kell kérelmezni.
+38. §[^137] (1) A forgalomba hozatali engedélyt a NÉBIH honlapján szerkeszthető formában közzétett kérelem benyújtásával kell kérelmezni.
 
 (2) Az (1) bekezdésben meghatározott kérelem mellé a forgalomba hozónak csatolnia kell:
 
-a)[^136] a borászati termék származási bizonyítványát,
+a)[^138] a borászati termék származási bizonyítványát,
 
 b) a 31. § (4) bekezdésének b) pontjában meghatározott mintákat vagy a 37. §-ban előírt analitikai vizsgálatokról szóló jegyzőkönyvet, és
 
 c) OEM- vagy OFJ-borászati termék esetén a HBB titkára által kiadott, a borászati termék érzékszervi vizsgálaton való részvételét tanúsító határozat eredeti példányát. Amennyiben ez a „nem felelt meg” minősítést tartalmazza, úgy az OBB elnöke által kiadott jegyzőkönyvet is csatolni kell
 
-(3)[^137] A NÉBIH a forgalomba hozatali engedély iránti kérelemhez kapcsolódó minták leadásakor közli a forgalomba hozóval a forgalomba hozatali engedély négy karakterből álló azonosítóját.
+(3)[^139] A NÉBIH a forgalomba hozatali engedély iránti kérelemhez kapcsolódó minták leadásakor közli a forgalomba hozóval a forgalomba hozatali engedély négy karakterből álló azonosítóját.
 
-[^135]: A 38. § a 128/2012. (XII. 14.) VM rendelet 17. §-ával megállapított szöveg.
-[^136]: A 38. § (2) bekezdés a) pontja a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^137]: A 38. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 132. § d) pontja szerint módosított szöveg.
+[^137]: A 38. § a 128/2012. (XII. 14.) VM rendelet 17. §-ával megállapított szöveg.
+[^138]: A 38. § (2) bekezdés a) pontja a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^139]: A 38. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 132. § d) pontja szerint módosított szöveg.

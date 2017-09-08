@@ -54,6 +54,6 @@
 
 |  |  |  |  |  | Bizonyítványt kérelmező aláírása |
 
-8/A. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^247]
+8/A. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^249]
 
-[^247]: A 8/A. számú mellékletet a 60/2015. (X. 8.) FM rendelet 9. § (1) bekezdés a) pontja iktatta be.
+[^249]: A 8/A. számú mellékletet a 60/2015. (X. 8.) FM rendelet 9. § (1) bekezdés a) pontja iktatta be.

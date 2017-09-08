@@ -4,19 +4,19 @@
 
 ## I. Fejezet
 
-## A BORÁSZATI TERMÉKEK FORGALOMBA HOZATALÁNAK RÉSZLETES SZABÁLYAI[^102]
+## A BORÁSZATI TERMÉKEK FORGALOMBA HOZATALÁNAK RÉSZLETES SZABÁLYAI[^104]
 
 ## A forgalomba hozatalhoz szükséges minták
 
-31. §[^103] (1)[^104] A borászati termékek forgalomba hozatali eljárásához szükséges mintákat a forgalomba hozó biztosítja és gondoskodik azok lezárásáról.
+31. §[^105] (1)[^106] A borászati termékek forgalomba hozatali eljárásához szükséges mintákat a forgalomba hozó biztosítja és gondoskodik azok lezárásáról.
 
-(2)[^105] A földrajzi jelzés nélküli borok, valamint ha a termékleírás, a helyi borbíráló bizottság (a továbbiakban: HBB) működési szabályzata vagy a borvidéki rendtartás úgy rendelkezik, az adott OEM- vagy OFJ-borászati termék esetén a borászati termékek forgalomba hozatalához szükséges minták:
+(2)[^107] A földrajzi jelzés nélküli borok, valamint ha a termékleírás, a helyi borbíráló bizottság (a továbbiakban: HBB) működési szabályzata vagy a borvidéki rendtartás úgy rendelkezik, az adott OEM- vagy OFJ-borászati termék esetén a borászati termékek forgalomba hozatalához szükséges minták:
 
 a) csak a hegybíró jelenlétében vehetők, úgy, hogy azokat a hegybíró zárja le, vagy
 
 b) forgalomba hozó általi lezárását a hegybíró ellenjegyzi.
 
-(3)[^106] A mintavételről jegyzőkönyvet kell készíteni, amelyben legalább az alábbi adatokat kell rögzíteni:
+(3)[^108] A mintavételről jegyzőkönyvet kell készíteni, amelyben legalább az alábbi adatokat kell rögzíteni:
 
 a) az előállító neve,
 
@@ -24,15 +24,15 @@ b) a mintavétel helye és időpontja,
 
 c) a mintavevő aláírása,
 
-d)[^107] a borászati termék származási bizonyítvány száma.
+d)[^109] a borászati termék származási bizonyítvány száma.
 
-(4)[^108] A forgalomba hozatali kérelem igényléséhez vett minták közül:
+(4)[^110] A forgalomba hozatali kérelem igényléséhez vett minták közül:
 
-a)[^109] a HBB működési szabályzatában, vagy a NÉBIH által meghatározott számú minta az érzékszervi minősítés alapjául,
+a)[^111] a HBB működési szabályzatában, vagy a NÉBIH által meghatározott számú minta az érzékszervi minősítés alapjául,
 
 b) 2 palack minta az analitikai vizsgálatok elvégzésére szolgál.
 
-(5)[^110] A (4) bekezdésben meghatározott mintákhoz minden esetben mellékelni kell a (2) bekezdésben meghatározott jegyzőkönyvet, melyet helyettesíthet a NÉBIH által rendszeresített, a forgalomba hozatali engedély iránti kérelmet tartalmazó nyomtatvány.
+(5)[^112] A (4) bekezdésben meghatározott mintákhoz minden esetben mellékelni kell a (2) bekezdésben meghatározott jegyzőkönyvet, melyet helyettesíthet a NÉBIH által rendszeresített, a forgalomba hozatali engedély iránti kérelmet tartalmazó nyomtatvány.
 
 (6) A minták egyenként legalább 0,5 liter borászati terméket tartalmaznak.
 
@@ -40,12 +40,12 @@ b) 2 palack minta az analitikai vizsgálatok elvégzésére szolgál.
 
 (8) A forgalomba hozó ellenmintára tarthat igényt. Ebben az esetben a forgalomba hozónak a (4) bekezdésben meghatározott számú mintánál annyival több mintát kell átadnia a minősítést végző részére, ahány ellenmintára igényt tart. A minősítést végző az átadott minták közül kiválasztja az ellenmintát, hitelesíti annak lezárását, és a forgalomba hozó részére átadja.
 
-[^102]: A harmadik rész I. fejezet címe a 64/2010. (V. 12.) FVM rendelet 5. §-ával megállapított, a 128/2012. (XII. 14.) VM rnedelet 30. § (14) bekezdése szerint módosított szöveg.
-[^103]: A 31. § a 64/2010. (V. 12.) FVM rendelet 6. §-ával megállapított szöveg.
-[^104]: A 31. § (1) bekezdése a 20/2014. (X. 31.) FM rendelet 19. §-ával megállapított szöveg.
-[^105]: A 31. § (2) bekezdése a 20/2014. (X. 31.) FM rendelet 19. §-ával megállapított szöveg.
-[^106]: A 31. § (3) bekezdése a 128/2012. (XII. 14.) VM rendelet 13. §.-ával megállapított szöveg.
-[^107]: A 31. § (3) bekezdés d) pontja a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^108]: A 31. § (4) bekezdése a 128/2012. (XII. 14.) VM rendelet 13. §.-ával megállapított szöveg.
-[^109]: A 31. § (4) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 132. § d) pontja szerint módosított szöveg.
-[^110]: A 31. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 132. § d) pontja szerint módosított szöveg.
+[^104]: A harmadik rész I. fejezet címe a 64/2010. (V. 12.) FVM rendelet 5. §-ával megállapított, a 128/2012. (XII. 14.) VM rnedelet 30. § (14) bekezdése szerint módosított szöveg.
+[^105]: A 31. § a 64/2010. (V. 12.) FVM rendelet 6. §-ával megállapított szöveg.
+[^106]: A 31. § (1) bekezdése a 20/2014. (X. 31.) FM rendelet 19. §-ával megállapított szöveg.
+[^107]: A 31. § (2) bekezdése a 20/2014. (X. 31.) FM rendelet 19. §-ával megállapított szöveg.
+[^108]: A 31. § (3) bekezdése a 128/2012. (XII. 14.) VM rendelet 13. §.-ával megállapított szöveg.
+[^109]: A 31. § (3) bekezdés d) pontja a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^110]: A 31. § (4) bekezdése a 128/2012. (XII. 14.) VM rendelet 13. §.-ával megállapított szöveg.
+[^111]: A 31. § (4) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 132. § d) pontja szerint módosított szöveg.
+[^112]: A 31. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 132. § d) pontja szerint módosított szöveg.
