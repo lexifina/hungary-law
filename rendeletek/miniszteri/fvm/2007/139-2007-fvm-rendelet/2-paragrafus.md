@@ -54,7 +54,7 @@ c)[^43]
 
 d)[^44] a támogatási évben az első kifizetési kérelem benyújtásakor a 2. § (2) bekezdés b) pontja szerinti termelői csoport, Beszerzési és Értékesítő Szövetkezet, tenyésztő szervezet, terméktanács vagy szakmai szervezet eredeti igazolását arról, hogy az igénylő a tárgyévre vonatkozóan érvényes tagsággal rendelkezik,
 
-e)[^45] az első igénylés alkalmával az élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró megyei kormányhivatalnak az állategészségügyi nyilvántartási kötelezettségek, valamint az állategészségügyi és állatvédelmi szabályok betartásáról szóló, a támogatási évre vonatkozóan kiadott igazolása eredeti példányát, továbbá
+e)[^45] az első igénylés alkalmával az élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró járási kormányhivatalnak az állategészségügyi nyilvántartási kötelezettségek, valamint az állategészségügyi és állatvédelmi szabályok betartásáról szóló, a támogatási évre vonatkozóan kiadott igazolása eredeti példányát, továbbá
 
 f)[^46] a BTT javaslatával és ellenjegyzésével ellátott szakmai ellenőrzési lap eredeti példányát,
 
@@ -72,13 +72,19 @@ g)[^47]
 
 (7c)[^53] Ha a (7a) és (7b) bekezdés szerinti eljárásokat követően a tárgynegyedévben továbbra is forrásmaradvány áll rendelkezésre, akkor elsősorban azon baromfi megnevezés-csoport következő tárgynegyedévi támogatási keretét kell megnövelni a maradvány összegével, amelynél az eredetileg keletkezett.
 
-(8)[^54] A Kincstár érdemi döntését az adott tárgynegyedévre vonatkozóan benyújtott összes kérelem ellenőrzését követően hozza meg.
+(7d)[^54] A 2016. támogatási év vonatkozásában a (7a)–(7c) bekezdések szerinti eljárásokat követően rendelkezésre álló forrásmaradvánnyal a 2016. III. tárgynegyedév azon baromfi megnevezés-csoport támogatási keretét kell megnövelni, ahol a jóváhagyott támogatási igény meghaladja a tárgynegyedév vonatkozásában a (7a)–(7c) bekezdések szerinti eljárásokat követően rendelkezésre álló forrás összegét. Ha a jogos támogatási igény meghaladja a forrásmaradvány összegét, akkor a támogatás összege a kifizetési kérelmek között a többlet mértékével arányosan csökken.
 
-(9)[^55] A Kincstár a támogatási évet követő évben, a szükséges forrás rendelkezésre állását követően intézkedik a támogatás kifizetéséről. A támogatás átutalása a kérelmezőnek a Kincstár Egységes Ügyfél-nyilvántartási Rendszerében szereplő fizetési számlájára történik.
+(7e)[^55] A (7d) bekezdés szerinti tárgynegyedévi forrásnövekményt az egyes igénylők vonatkozásában jóváhagyott, de a visszaosztás miatt ki nem fizetett támogatások kifizetésére kell felhasználni azzal, hogy figyelembe kell venni a baromfi termékpálya egyes területeit érintő madárinfluenza miatti veszteségek részleges ellentételezéséhez nyújtott jövedelempótló támogatásról szóló FM rendelet szerint folyósított támogatás (a továbbiakban: jövedelempótló támogatás) azon részét, amely a tárgynegyedév vonatkozásában már kifizetésre került.
 
-(10)[^56] A (9) bekezdéstől eltérően a 2017. év I., II. és – a 2017. évben elsőfokú döntéssel lezárt – III. negyedévre vonatkozó jogos igények kifizetésére a 2017. évben kerül sor.
+(7f)[^56] Az igénylőnek folyósított jövedelempótló támogatás összegét úgy kell tekinteni, hogy az először a 2015., majd a 2016. támogatási év – sorrendben – I., II., III., majd IV. tárgynegyedéveinek jóváhagyott, de a visszaosztás miatt ki nem fizetett támogatási igényeit elégítette ki.
 
-(11)[^57]
+(8)[^57] A Kincstár érdemi döntését az adott tárgynegyedévre vonatkozóan benyújtott összes kérelem ellenőrzését követően hozza meg.
+
+(9)[^58] A Kincstár a támogatási évet követő évben, a szükséges forrás rendelkezésre állását követően intézkedik a támogatás kifizetéséről. A támogatás átutalása a kérelmezőnek a Kincstár Egységes Ügyfél-nyilvántartási Rendszerében szereplő fizetési számlájára történik.
+
+(10)[^59] A (9) bekezdéstől eltérően a 2017. év I., II. és – a 2017. évben elsőfokú döntéssel lezárt – III. negyedévre vonatkozó jogos igények kifizetésére a 2017. évben kerül sor.
+
+(11)[^60]
 
 [^30]: A 2. §-t megelőző alcímet a 80/2015. (XII. 4.) FM rendelet 4. §-a iktatta be.
 [^31]: A 2. § (1) bekezdése az 58/2015. (IX. 24.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -95,7 +101,7 @@ g)[^47]
 [^42]: A 2. § (5) bekezdés b) pontja a 80/2012. (VII. 30.) VM rendelet 4. § (1) bekezdésvel megállapított, a 25/2016. (IV. 11.) FM rendelet 6. § c) pontja szerint módosított szöveg.
 [^43]: A 2. § (5) bekezdés c) pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
 [^44]: A 2. § (5) bekezdés d) pontja a 25/2016. (IV. 11.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^45]: A 2. § (5) bekezdés e) pontja a 80/2012. (VII. 30.) VM rendelet 4. § (2) bekezdésvel megállapított, a 40/2015. (VII. 13.) FM rendelet 1. § (2) bekezdés b) pontja, a 25/2016. (IV. 11.) FM rendelet 6. § d) pontja szerint módosított szöveg.
+[^45]: A 2. § (5) bekezdés e) pontja a 80/2012. (VII. 30.) VM rendelet 4. § (2) bekezdésvel megállapított, a 40/2015. (VII. 13.) FM rendelet 1. § (2) bekezdés b) pontja, a 25/2016. (IV. 11.) FM rendelet 6. § d) pontja, a 43/2017. (IX. 5.) FM rendelet 2. § b) pontja szerint módosított szöveg.
 [^46]: A 2. § (5) bekezdés f) pontja a 25/2016. (IV. 11.) FM rendelet 6. § e) pontjával megállapított szöveg.
 [^47]: A 2. § (5) bekezdés g) pontját az 58/2015. (IX. 24.) FM rendelet 2. § (3) bekezdése iktatta be, hatályon kívül helyezte a 80/2015. (XII. 4.) FM rendelet 10. §-a.
 [^48]: A 2. § (5a) bekezdését az 58/2015. (IX. 24.) FM rendelet 2. § (4) bekezdése iktatta be.
@@ -104,7 +110,10 @@ g)[^47]
 [^51]: A 2. § (7a) bekezdését újonnan a 80/2015. (XII. 4.) FM rendelet 5. § (5) bekezdése iktatta be.
 [^52]: A 2. § (7b) bekezdését a 80/2015. (XII. 4.) FM rendelet 5. § (5) bekezdése iktatta be.
 [^53]: A 2. § (7c) bekezdését a 80/2015. (XII. 4.) FM rendelet 5. § (5) bekezdése iktatta be.
-[^54]: A 2. § (8) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 23. § c) pontja szerint módosított szöveg.
-[^55]: A 2. § (9) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 23. § b) és c) pontja szerint módosított szöveg.
-[^56]: A 2. § (10) bekezdését újonnan a 111/2012. (X. 29.) VM rendelet 2. § (2) bekezdése iktatta be, szövege a 33/2014. (XII. 10.) FM rendelet 1. § (2) bekezdésével megállapított, a 6/2017. (II. 13.) FM rendelet 4. §-a szerint módosított szöveg.
-[^57]: A 2. § (11) bekezdését a 19/2010. (III. 11.) FVM rendelet 4. § (8) bekezdése iktatta be, hatályon kívül helyezte a 25/2016. (IV. 11.) FM rendelet 7. §-a.
+[^54]: A 2. § (7d) bekezdését a 43/2017. (IX. 5.) FM rendelet 1. §-a iktatta be.
+[^55]: A 2. § (7e) bekezdését a 43/2017. (IX. 5.) FM rendelet 1. §-a iktatta be.
+[^56]: A 2. § (7f) bekezdését a 43/2017. (IX. 5.) FM rendelet 1. §-a iktatta be.
+[^57]: A 2. § (8) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 23. § c) pontja szerint módosított szöveg.
+[^58]: A 2. § (9) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 23. § b) és c) pontja szerint módosított szöveg.
+[^59]: A 2. § (10) bekezdését újonnan a 111/2012. (X. 29.) VM rendelet 2. § (2) bekezdése iktatta be, szövege a 33/2014. (XII. 10.) FM rendelet 1. § (2) bekezdésével megállapított, a 6/2017. (II. 13.) FM rendelet 4. §-a szerint módosított szöveg.
+[^60]: A 2. § (11) bekezdését a 19/2010. (III. 11.) FVM rendelet 4. § (8) bekezdése iktatta be, hatályon kívül helyezte a 25/2016. (IV. 11.) FM rendelet 7. §-a.

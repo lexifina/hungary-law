@@ -124,7 +124,7 @@
 
 | 4. | 17 hetes korig | 0,65 | 0,4 | 20 | 4 |
 
-7. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^100]
+7. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^103]
 
 A kifizetési kérelem adattartalma és a csatolandó mellékletek
 
@@ -150,9 +150,9 @@ A kifizetési kérelem adattartalma és a csatolandó mellékletek
 
 7. Mellékletek
 
-7.1.[^101] A megyei kormányhivatal igazolásának eredeti példánya – bűnügyi személyes adat közlésének kivételével – a 2. § (2) bekezdés d) pontjában előírt feltételek teljesítéséről.
+7.1.[^104] A járási kormányhivatal igazolásának eredeti példánya – bűnügyi személyes adat közlésének kivételével – a 2. § (2) bekezdés d) pontjában előírt feltételek teljesítéséről.
 
-7.2.[^102] A támogatási évben az első kifizetési kérelem benyújtásakor a termelői csoport, beszerzési és értékesítő szövetkezet, tenyésztő szervezet, az adott termékpályán működő terméktanács vagy szakmai szervezet támogatási évre vonatkozó tagsági igazolása.
+7.2.[^105] A támogatási évben az első kifizetési kérelem benyújtásakor a termelői csoport, beszerzési és értékesítő szövetkezet, tenyésztő szervezet, az adott termékpályán működő terméktanács vagy szakmai szervezet támogatási évre vonatkozó tagsági igazolása.
 
 7.3. Takarmány nem kívánatos anyagtartalmának ellenőrzése esetén a 3. § (4) bekezdésében előírt dokumentumok.
 
@@ -164,11 +164,11 @@ A kifizetési kérelem adattartalma és a csatolandó mellékletek
 
 7.7. Ivóvíz minőségű víz biztosítása esetén a 7. § (4) bekezdésében előírt dokumentumok.
 
-7.8.[^103] A naposkori letelepítés darabszámát, az átminősítéskori állatlétszámot és annak időpontját tartalmazó kezelő állatorvosi igazolás eredeti példánya az 1. § (5) bekezdése szerint.
+7.8.[^106] A naposkori letelepítés darabszámát, az átminősítéskori állatlétszámot és annak időpontját tartalmazó kezelő állatorvosi igazolás eredeti példánya az 1. § (5) bekezdése szerint.
 
 7.9. Szakmai ellenőrzési lap a 2. § (5) bekezdés f) pontja szerint.
 
-[^100]: A 7. számú mellékletet a 80/2015. (XII. 4.) FM rendelet 8. § (3) bekezdése iktatta be.
-[^101]: A 7. számú melléklet 7. pont 7.1. alpontja a 25/2016. (IV. 11.) FM rendelet 6. § j) pontja szerint módosított szöveg.
-[^102]: A 7. számú melléklet 7. pont 7.2. alpontja a 25/2016. (IV. 11.) FM rendelet 5. §-ával megállapított szöveg.
-[^103]: A 7. számú melléklet 7. pont 7.8. alpontja a 25/2016. (IV. 11.) FM rendelet 6. § k) pontja szerint módosított szöveg.
+[^103]: A 7. számú mellékletet a 80/2015. (XII. 4.) FM rendelet 8. § (3) bekezdése iktatta be.
+[^104]: A 7. számú melléklet 7. pont 7.1. alpontja a 25/2016. (IV. 11.) FM rendelet 6. § j) pontja, a 43/2017. (IX. 5.) FM rendelet 2. § a) pontja szerint módosított szöveg.
+[^105]: A 7. számú melléklet 7. pont 7.2. alpontja a 25/2016. (IV. 11.) FM rendelet 5. §-ával megállapított szöveg.
+[^106]: A 7. számú melléklet 7. pont 7.8. alpontja a 25/2016. (IV. 11.) FM rendelet 6. § k) pontja szerint módosított szöveg.

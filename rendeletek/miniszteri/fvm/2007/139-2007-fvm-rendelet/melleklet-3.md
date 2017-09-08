@@ -22,7 +22,7 @@
 
 ## 9.2. A 2. § (2) bekezdés b) pontja szerinti tagságról szóló igazolás egy eredeti példánya.
 
-## 9.3. Nagyvállalkozás esetén az 1/A. § (3) bekezdés a) pontja szerinti élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal igazolás egy eredeti példánya.
+## 9.3. Nagyvállalkozás esetén az 1/A. § (3) bekezdés a) pontja szerinti élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási kormányhivatal igazolás egy eredeti példánya.
 
 ## II. Az 1/A. § (3) bekezdés a) pontja szerinti elemzés adattartalma
 
@@ -52,6 +52,6 @@
 
 |  | e) csökkent értékű értékesítés száma (ÁE) |
 
-3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^95]
+3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^98]
 
-[^95]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^98]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.

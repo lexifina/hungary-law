@@ -6,7 +6,7 @@ a) átminősítés: a baromfinak az ivarérése vagy a hasznosítása, a tartás
 
 b) baromfiállomány: egy baromfitelepre legfeljebb 14 napos – pulyka és tyúk állomány esetében legfeljebb 28 napos – kikelési időszak alatt letelepített azonos fajú és fajtájú baromfi;
 
-c)[^3] baromfitelep: olyan állattartó hely, amely baromfitartásra alkalmas létesítményekkel felszerelt és szerepel az élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró megyei kormányhivatal nyilvántartásában;
+c)[^3] baromfitelep: olyan állattartó hely, amely baromfitartásra alkalmas létesítményekkel felszerelt és szerepel az élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró járási kormányhivatal nyilvántartásában;
 
 d)[^4] fiatal liba: nemre való tekintet nélkül a legfeljebb kilencven napos, tömő alapanyagnak vagy vágási célra nevelt liba;
 
@@ -146,7 +146,7 @@ eb) a 4–5. § szerinti támogatás a vágást követően igényelhető.
 
 [^1]: Az 1. §-t megelőző alcímet a 80/2015. (XII. 4.) FM rendelet 1. §-a iktatta be.
 [^2]: Az 1. § (1) bekezdése a 68/2011. (VII. 14.) VM rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés c) pontja a 40/2015. (VII. 13.) FM rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés c) pontja a 40/2015. (VII. 13.) FM rendelet 1. § (2) bekezdés a) pontja, a 43/2017. (IX. 5.) FM rendelet 2. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (1) bekezdés d) pontja a 80/2015. (XII. 4.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (1) bekezdés m) pontja a 80/2015. (XII. 4.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (1) bekezdés u) pontja a 6/2017. (II. 13.) FM rendelet 2. §-ával megállapított szöveg.
