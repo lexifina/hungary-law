@@ -1,11 +1,3 @@
-## 14. § Az R1. 9. §-a helyébe a következő rendelkezés lép:
+## 10–14. §[^4]
 
-## „9. § Az egyszeri pénzbeli támogatás
-
-## a) lakás építéséhez,
-
-## b) lakás vásárlásához, vagy
-
-## c) a 11/A. § (1) bekezdés b) pontja szerinti célra
-
-## nyújtható pénzbeli támogatás.”
+[^4]: A 10–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

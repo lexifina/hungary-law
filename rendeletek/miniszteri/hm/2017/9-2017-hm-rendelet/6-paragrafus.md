@@ -1,3 +1,0 @@
-## 5. § Az R. 218. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A helyi lakásgazdálkodási szerv a (2) bekezdés szerint megtett nyilatkozat, saját nyilvántartásai, a külön miniszteri utasításban foglaltak szerint rendelkezésére bocsátott lakhatási támogatási adatok, valamint a tudomására jutott egyéb tények, információk alapján, az állományilletékes parancsnok (munkahelyi vezető) és a folyósító pénzügyi szerv szükség szerinti bevonásával ellenőrzi a hozzájárulásra való jogosultság fennállását, továbbá azt, hogy a támogatott személy a hozzájárulást e rendeletben meghatározott célra használta-e fel.”
