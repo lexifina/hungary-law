@@ -4,4 +4,6 @@
 
 (2) A 2016. évre vonatkozó auditálási tevékenységről 2017. május 31-ig kell adatot szolgáltatni.
 
-(3) A 2016. évre vonatkozó közreműködő szervezeti tevékenységről 2018. január 31-ig kell a jelentést benyújtani.
+(3)[^7]
+
+[^7]: A 7. § (3) bekezdését a 10/2017. (VIII. 10.) MEKH rendelet 3. §-a hatályon kívül helyezte.

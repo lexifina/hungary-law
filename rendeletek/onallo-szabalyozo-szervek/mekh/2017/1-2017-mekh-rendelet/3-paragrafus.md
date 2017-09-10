@@ -36,31 +36,31 @@ történt;
 
 d) az energetikai auditálás mely műszaki rendszerre (például kazán, épület, telephely, telephelyek, technológia) vonatkozik;
 
-e) kötelező energetikai auditálás esetén a megbízó cég neve, székhelye, cégjegyzékszáma, valamint azon vállalkozás cégneve, székhelye, cégjegyzékszáma, amelyre az energetikai audit kiterjed;
+e)[^1] kötelező energetikai auditálás esetén a megbízó cég neve, székhelye, adószáma, valamint azon vállalkozás cégneve, székhelye, adószáma, amelyre az energetikai audit kiterjed;
 
-f) az energiahatékonysági adókedvezmény igénybevételéhez elvégzett energetikai auditálás esetén kiállított igazolás kiállítási dátuma, az igazolt energiamegtakarítás és az igazolás címzettje (cég neve, székhelye, adószáma, cégjegyzékszáma);
+f)[^2] az energiahatékonysági adókedvezmény igénybevételéhez elvégzett energetikai auditálás esetén kiállított igazolás kiállítási dátuma, az igazolt energiamegtakarítás és az igazolás címzettje (cég neve, székhelye, adószáma);
 
-g) az auditált műszaki rendszer energiafelhasználásáról az alábbi adatok:
+g)[^3] az auditált műszaki rendszer energiafelhasználásáról és az energiahatékonysági adókedvezmény céljából készített energetikai audit esetén a kiinduló állapot energiafelhasználásáról az alábbi adatok:
 
-ga) az épület, tevékenység és szállítás területeire vonatkozóan (a továbbiakban: részterületek) az auditált műszaki rendszer éves energiafelhasználásának mennyiségéről energiahordozónként a mért mértékegységekben és a teljes energiafelhasználás MWh/év mértékegységben is megadva,
+ga) az épület, tevékenység és szállítás területeire vonatkozóan (a továbbiakban: részterületek) az auditált műszaki rendszer éves energiafelhasználásának mennyisége energiahordozónként a mért mértékegységekben és a teljes energiafelhasználás kWh/év mértékegységben is megadva,
 
-gb) részterületenként az auditált műszaki rendszer működésével összefüggésben felmerült teljes éves üvegházhatású gázkibocsátás az előző naptári évről CO2 kilotonna/év mértékegységben megadva,
+gb) részterületenként az auditált műszaki rendszer működésével összefüggésben felmerült teljes éves üvegházhatású gázkibocsátás az előző naptári évről ezer tonna CO2/év mértékegységben megadva,
 
 gc) részterületenként az auditált műszaki rendszer működésével összefüggésben felmerült teljes éves energiafelhasználás költsége az előző naptári évről ezer Ft/év mértékegységben megadva;
 
-h) az érintett műszaki rendszerrel kapcsolatban javasolt energiahatékonysági beavatkozásokról az alábbi adatok:
+h)[^4] az auditált műszaki rendszerrel kapcsolatban javasolt energiahatékonysági beavatkozásokról az alábbi adatok:
 
-ha) az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet 13. § (6) bekezdésében meghatározott egyes beavatkozási módokkal elérhető energiamegtakarítás mértéke és az összes elérhető energiamegtakarítás mértéke MWh/év mértékegységben megadva,
+ha) az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet 13. § (6) bekezdésében meghatározott egyes beavatkozási módokkal elérhető energiamegtakarítás mértéke és az összes elérhető energiamegtakarítás mértéke kWh/év mértékegységben megadva,
 
 hb) a javasolt energiahatékonyságot növelő intézkedések megnevezése (például világításkorszerűsítés, fűtéskorszerűsítés),
 
 hc) a javasolt intézkedés részterület szerinti azonosítása (épület, folyamat, szállítás),
 
-hd) a javasolt energiahatékonyságot növelő intézkedés megvalósításával elérhető energiamegtakarítás mértéke energiahordozónként a mért mértékegységekben megadva,
+hd) a javasolt energiahatékonyságot növelő intézkedés megvalósításával elérhető energiamegtakarítás mértéke energiahordozónként a mért mértékegységekben és kWh/év mértékegységben intézkedésenként és valamennyi intézkedésre nézve összesítetten megadva,
 
-he) a javasolt energiahatékonysági intézkedésekkel összefüggésben elérhető üvegházhatású gázkibocsátás-megtakarítás mértéke CO2 kilotonna/év mértékegységben intézkedésenként és valamennyi intézkedésre nézve összesítetten megadva,
+he) a javasolt energiahatékonysági intézkedésekkel összefüggésben elérhető üvegházhatású gázkibocsátás-megtakarítás mértéke ezer tonna CO2/év mértékegységben intézkedésenként és valamennyi intézkedésre nézve összesítetten megadva,
 
-hf) a javasolt energiahatékonysági intézkedések becsült költsége ezer Ft/év mértékegységben intézkedésenként és valamennyi intézkedésre nézve összesítetten megadva,
+hf) a javasolt energiahatékonysági intézkedések becsült költsége ezer Ft mértékegységben intézkedésenként és valamennyi intézkedésre nézve összesítetten megadva,
 
 hg) a javasolt energiahatékonyságot növelő intézkedések megvalósításával tervezett energiaköltség megtakarítás értéke ezer Ft/év mértékegységben intézkedésenként és valamennyi intézkedésre nézve összesítetten megadva,
 
@@ -70,4 +70,30 @@ hi) a javasolt energiahatékonyságot növelő egyes intézkedések megtérülé
 
 hj) a javasolt energiahatékonyságot növelő egyes intézkedések megvalósítása esetén létrejövő műszaki rendszer tervezett műszaki élettartama.
 
+i)[^5] az energiahatékonysági adókedvezmény igénybevétele céljából készített energetikai audit esetén az üzembe helyezett beruházásról az alábbi adatok:
+
+ia) az energiahatékonysági célt szolgáló beruházás megnevezése, leírása,
+
+ib) az energiahatékonysági célt szolgáló beruházás részterület szerinti azonosítása (épület, folyamat, szállítás),
+
+ic) az energiahatékonysági célt szolgáló beruházás üzembe helyezésével elért energiamegtakarítás mértéke energiahordozónként a mért mértékegységekben és kWh/év mértékegységben megadva,
+
+id) az energiahatékonysági célt szolgáló beruházás üzembe helyezésével elért üvegházhatású gázkibocsátás-megtakarítás mértéke ezer tonna CO2/év mértékegységben megadva,
+
+ie) az energiahatékonysági célt szolgáló beruházás költsége ezer Ft mértékegységben megadva,
+
+if) az energiahatékonysági célt szolgáló beruházással elért energiaköltség megtakarítás értéke ezer Ft/év mértékegységben megadva,
+
+ig) az energiahatékonysági célt szolgáló beruházással elért nem energiaköltség típusú megtakarítás értéke ezer Ft/év mértékegységben megadva,
+
+ih) az energiahatékonysági célt szolgáló beruházás megtérülési ideje években megadva és
+
+ii) az energiahatékonysági célt szolgáló beruházással létrejött műszaki rendszer műszaki élettartama.
+
 (3) Hiányos vagy hibás tartalmú adatszolgáltatás esetén az adatszolgáltató az Ehat. 23. § (1) bekezdésében meghatározott határidőn belül, a Hivatal felszólítását megelőzően az adatszolgáltatás ismételt benyújtásával végezhet adatkorrekciót.
+
+[^1]: A 3. § (2) bekezdés e) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (2) bekezdés f) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (2) bekezdés g) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdés h) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^5]: A 3. § (2) bekezdés i) pontját a 10/2017. (VIII. 10.) MEKH rendelet 1. §-a iktatta be.
