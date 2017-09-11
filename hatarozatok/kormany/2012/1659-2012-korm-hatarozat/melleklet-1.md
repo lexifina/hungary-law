@@ -22,7 +22,7 @@
 
 ## 5. A szerződés csak abban az esetben köthető meg, ha az önkormányzat a szerződés általa történő aláírásának időpontjában az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül, és az MNV Zrt.-vel szemben lejárt tartozással nem rendelkezik. A köztartozással kapcsolatos kizáró feltétel fennállásának hiányát a jogosult harminc napnál nem régebben kiállított közokirattal igazolja, vagy nyilatkozik arról, hogy szerepel a köztartozásmentes adózói adatbázisban.
 
-## 6. A Tiszaszentimre 473 hrsz.-ú ingatlan ingyenes tulajdonba adására vonatkozó szerződés megkötésére abban az esetben kerülhet sor, ha Tiszaszentimre Község Önkormányzata előzetesen saját költségén tehermentesíti az ingatlant.
+## 6.[^1]
 
 ## 7. A Vác 3303 helyrajzi számú ingatlan esetében az ingyenes tulajdonba adására vonatkozó szerződés megkötésére csak az ingatlan 100/121 tulajdoni hányadának Vác Város Önkormányzata által történő egyidejű megvásárlásával kerülhet sor.
 
@@ -38,4 +38,7 @@
 
 ## Határidő: 2013. június 30.
 
-1. melléklet az 1659/2012. (XII. 20.) Korm. határozathoz
+1. melléklet az 1659/2012. (XII. 20.) Korm. határozathoz[^2]
+
+[^1]: A 6. pontot az 1624/2017. (IX. 11.) Korm. határozat 2. pont d) pontja visszavonta.
+[^2]: Az 1. melléklet az 1624/2017. (IX. 11.) Korm. határozat 2. pont d) pontja szerint módosított szöveg.

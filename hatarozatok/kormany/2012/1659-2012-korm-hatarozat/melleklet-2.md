@@ -32,7 +32,7 @@
 
 | 15. | Hajdúböszörmény Város Önkormányzata | Hajdúböszörmény 6041 1/1 | közszolgáltatásokkal való ellátás biztosítása / személy- és eszközállomány elhelyezése, múzeumi néprajzi tárgyak tárolása, raktározása | kivett mentőállomás |  | 823 |
 
-| 16. | Iharosberény Község Önkormányzata | Iharosberény 391 1/4 | lakásgazdálkodás / bérlakás, szolgálati lakás létesítése | kivett lakóház, gazdasági épület, udvar |  | 1740 |
+| 16. |  |  |  |  |  |  |
 
 | 17. | Kál Nagyközség Önkormányzata | Kál 69 1/1 | köztisztaság és településtisztaság biztosítása, valamint szociális ellátásról való gondoskodás / szemétszállító autók parkolásának megoldása, közcélú munkások foglalkoztatása varroda létesítésével | kivett ipartelep |  | 17362 |
 
@@ -60,7 +60,7 @@
 
 | 29. | Tapolca Város Önkormányzata | Tapolca 848 1/1 | lakásgazdálkodás / lakásgazdálkodás, bérlakás kialakítása | lakóház, udvar, gazdasági épület |  | 432 |
 
-| 30. | Tiszaszentimre Község Önkormányzata | Tiszaszentimre 473 1/1 | szociális cél megvalósítása/ rászorulók szálláshoz juttatása | kivett lakóház, udvar, gazdasági épület |  | 2102 |
+| 30. |  |  |  |  |  |  |
 
 | 31. | Tompa Város Önkormányzata | Tompa 0191/B/1 1/1 (eszmei hányad: 2345/10000) | lakásgazdálkodási feladatok ellátása, közreműködés a foglalkoztatás megoldásában és a gyermek- és ifjúsági feladatokról való gondoskodás / munkanélküliek foglalkoztatásának elősegítése, bérlakások kialakítása, családok átmeneti otthonának kialakítása | iroda- és raktárhelyiségek |  | 478 |
 
