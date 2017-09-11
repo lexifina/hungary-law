@@ -140,7 +140,7 @@
 
 | 69. | Sátoraljaújhely Város Önkormányzata | Sátoraljaújhely 647/17 hrsz. 1/1 | helyi közfoglalkoztatás/állattartó telep | kivett 3 gazdasági épület, udvar | 5978 |
 
-| 70. | Siófok Város Önkormányzata | Siófok 5991 hrsz. 1/1 | lakás- és helyiséggazdálkodás; /önkormányzati bérlakás kialakítása | kivett lakóház, udvar | 221 |
+| 70. |  |  |  |  |  |
 
 | 71. | Solymár Nagyközség Önkormányzata | Solymár 3539/1 hrsz. 1/1 | településüzemeltetés/út szabályozás (szélesítés) | kivett út | 95 |
 
@@ -160,9 +160,9 @@
 
 | 79. | Szentpéterfa Község Önkormányzata | Szentpéterfa 043/14 hrsz. 1/1 | egészségügyi alapellátás, egészséges életmód segítése/ egészségcentrum | kivett határátkelőhely | 3271 |
 
-| 80. | Szigetszentmiklós Város Önkormányzata | Szigetszentmiklós 8123/11 hrsz. 1/1 | szociális, gyermekjóléti szolgáltatások és ellátások, lakás- és helyiséggazdálkodás, nemzetiségi ügyek/ szociális bérlakások biztosítása | kivett lakóház, udvar | 633 |
+| 80. |  |  |  |  |  |
 
-| 81. | Szigetszentmiklós Város Önkormányzata | Szigetszentmiklós 8107/1 hrsz. 1/1 | szociális, gyermekjóléti szolgáltatások és ellátások, lakás- és helyiséggazdálkodás, nemzetiségi ügyek/ szociális bérlakások biztosítása | kivett lakóház, udvar | 448 |
+| 81. |  |  |  |  |  |
 
 | 82. | Tahitótfalu Község Önkormányzata | Tahitótfalu 072/63 hrsz. 1/1 | vízkár elhárítás/ árvízvédelmi gát és műtárgyai építése | kivett beépítetlen terület | 1393 |
 
