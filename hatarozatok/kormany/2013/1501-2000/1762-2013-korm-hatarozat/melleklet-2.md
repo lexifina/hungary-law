@@ -64,7 +64,7 @@
 
 | 30. | Túrkeve Város Önkormányzata | Túrkeve 3618 1/1 | vízrendezés és vízelvezetés/ a Holt-Berettyó vízminőségének javítása, természetes ökológiai állapot helyreállítása | kivett töltés | 4980 |
 
-| 31. | Türje Község Önkormányzata | Türje 2/2 1/1 | településrendezés, vízgazdálkodás/csapadék és természetes vizek elvezetését biztosító árok kialakítása, építése | kivett emlékmű | 3 |
+| 31. |  |  |  |  |  |
 
 | 32. | Újhartyán Község Önkormányzata | Újhartyán 857 1/3 | lakásgazdálkodás/szükséglakás kialakítása | kivett lakóház, udvar | 270 (az ingatlan teljes területe: 809 m2) |
 

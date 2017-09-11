@@ -80,6 +80,7 @@
 
 ## Határidő: közzétételt követő hat hónapon belül
 
-1. melléklet az 1762/2013. (X. 25.) Korm. határozathoz
+1. melléklet az 1762/2013. (X. 25.) Korm. határozathoz[^2]
 
 [^1]: A 9. pont a) alpontja az 1528/2016. (IX. 29.) Korm. határozat szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1624/2017. (IX. 11.) Korm. határozat 2. pont g) alpontja szerint módosított szöveg.
