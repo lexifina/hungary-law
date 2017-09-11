@@ -40,4 +40,6 @@
 
 ## Határidő: 2012. április 15.
 
-1. melléklet az 1100/2012. (IV. 5.) Korm. határozathoz
+1. melléklet az 1100/2012. (IV. 5.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1624/2017. (IX. 11.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.

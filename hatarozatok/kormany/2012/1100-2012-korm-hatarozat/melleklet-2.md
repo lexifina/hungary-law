@@ -64,11 +64,11 @@
 
 | 31. | Nyíregyháza Megyei Jogú Város Önkormányzata | Nyíregyháza 31212 1/1 | településfejlesztés, településrendezés/ közút fenntartása | kivett közút | 9 129 |
 
-| 32. | Pácin Város Önkormányzata | Pácin 527/6/A/2 1/1 (és a kapcsolódó eszmei tulajdoni hányad) | szociális alapfeladatok/ szociális alapszolgáltatási központ kialakítása | lakás | 73 |
+| 32. |  |  |  |  |  |
 
-| 33. | Pácin Város Önkormányzata | Pácin 541/1 1/1 | alapfokú nevelés és oktatás biztosítása és lakásgazdálkodás/ pedagógus szolgálati lakás | kivett lakóház, udvar | 2 371 |
+| 33. |  |  |  |  |  |
 
-| 34. | Pácin Város Önkormányzata | Pácin 32/1 1/1 | sport támogatása, egészséges életmód feltételeinek biztosítása/ sportcentrum kialakítása | kivett határátkelőhely, vám épület | 8 831 |
+| 34. |  |  |  |  |  |
 
 | 35. | Rábahidvég Község Önkormányzata | Rábahidvég 258 1/1 | közterületek fenntartása/ közpark létrehozása | kivett lakóház, udvar, gazdasági épület | 2 086 |
 
