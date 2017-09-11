@@ -46,19 +46,11 @@
 
 | 22. | Kiskunhalas Város Önkormányzata | Komló 6167 29946/51278 | gyermek és ifjúsági feladatokról való gondoskodás /gyermekek táboroztatása | kivett táborhely | 9089 |
 
-| Zsana Község Önkormányzata | Komló 6167 839/51278 | gyermek és ifjúsági feladatokról való gondoskodás /gyermekek táboroztatása | kivett táborhely | 255 |
-
-| Szank Község Önkormányzata | Komló 6167 2592/51278 | gyermek és ifjúsági feladatokról való gondoskodás /gyermekek táboroztatása | kivett táborhely | 787 |
-
 | Pirtó Község Önkormányzata | Komló 6167 1007/51278 | gyermek és ifjúsági feladatokról való gondoskodás /gyermekek táboroztatása | kivett táborhely | 306 |
 
 | Harkakötöny Község Önkormányzata | Komló 6167 900/51278 | gyermek és ifjúsági feladatokról való gondoskodás /gyermekek táboroztatása | kivett táborhely | 273 |
 
-| Csólyospálos Község Önkormányzata | Komló 6167 1723/51278 | gyermek és ifjúsági feladatokról való gondoskodás /gyermekek táboroztatása | kivett táborhely | 523 |
-
 | Csikéria Község Önkormányzata | Komló 6167 933/51278 | gyermek és ifjúsági feladatokról való gondoskodás /gyermekek táboroztatása | kivett táborhely | 283 |
-
-| Borota Község Önkormányzata | Komló 6167 1457/51278 | gyermek és ifjúsági feladatokról való gondoskodás /gyermekek táboroztatása | kivett táborhely | 442 |
 
 | 23. | Lábatlan Város Önkormányzata | Lábatlan 1543/12 71/567 | szociális ellátás, gyermek és ifjúsági feladatokról való gondoskodás/Kuckó Gyermekjóléti és Családsegítő Szolgálaton belül működő Támogató Szolgálat részére iroda és adományok raktározására alkalmas helyiség kialakítása | kivett szolgáltatóház | 71 |
 

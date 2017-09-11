@@ -44,6 +44,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1205/2013. (IV. 15.) Korm. határozathoz
+1. melléklet az 1205/2013. (IV. 15.) Korm. határozathoz[^2]
 
 [^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1624/2017. (IX. 11.) Korm. határozat 2. pont e) alpontja szerint módosított szöveg.
