@@ -1,0 +1,1 @@
+A Kormány a Magyarország Kormánya és Tatabánya Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1240/2016. Korm. határozat (V. 13.) 4. pont a) alpontjának végrehajtása érdekében
