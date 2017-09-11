@@ -86,11 +86,11 @@ Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 
 | 28. | Narda Község Önkormányzata | Narda 087 1/1 | településrendezés, gyermek és ifjúsági feladatokról való gondoskodás/idegenfor- galmi és turisztikai központ létrehozása | kivett saját használatú út | 5582 |
 
-| 29. | Narda Község Önkormányzata | Narda 088/2 1/1 | településrendezés, gyermek és ifjúsági feladatokról való gondoskodás/idegen- forgalmi és turisztikai központ létrehozása | kivett lakóház udvar | 3668 |
+| 29. |  |  |  |  |  |
 
-| 30. | Narda Község Önkormányzata | Narda 088/1 1/1 | településrendezés, gyermek és ifjúsági feladatokról való gondoskodás/idegen- forgalmi és turisztikai központ létrehozása | kivett épület, udvar | 15564 |
+| 30. |  |  |  |  |  |
 
-| 31. | Narda Község Önkormányzata | Narda 093/2 1/1 | településrendezés, a gyermek és ifjúsági feladatokról való gondoskodás/idegen- forgalmi és turisztikai központ létrehozása | kivett vízmű | 435 |
+| 31. |  |  |  |  |  |
 
 | 32. | Németbánya Község Önkormányzata | Németbánya 56/2 1/1 | vízrendezés, vízelvezetés, csatornázás, helyi közutak és közterületek fenntartása/közút fenntartása | kivett saját használatú út | 306 |
 
@@ -134,4 +134,4 @@ Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 
 | 52. | Velem Község Önkormányzata | Velem 791 1/1 | településfejlesztés, településrendezés, az egészséges életmód közösségi feltételeinek elősegítése/ közösségi centrum kialakítása | kivett lakóház, udvar | 2465 |
 
-[^1]: Az 1. melléklet az 1205/2013. (IV. 15.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1205/2013. (IV. 15.) Korm. határozat 9. pontja, az 1624/2017. (IX. 11.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
