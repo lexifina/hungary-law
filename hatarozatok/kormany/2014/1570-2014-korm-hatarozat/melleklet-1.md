@@ -138,4 +138,6 @@
 
 ## Határidő: a határozat közzétételét követő hat hónapon belül
 
-1. melléklet az 1570/2014. (X. 10.) Korm. határozathoz
+1. melléklet az 1570/2014. (X. 10.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1624/2017. (IX. 11.) Korm. határozat 2. pont j) alpontja szerint módosított szöveg.

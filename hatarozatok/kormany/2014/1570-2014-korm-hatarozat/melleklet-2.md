@@ -30,9 +30,9 @@
 
 | 14. | Budapest Főváros XVII. kerület Rákosmente Önkormányzata | Budapest XVII. kerület 0138674/1 hrsz. 1/1 | kerületi sport és szabadidősport támogatása, ifjúsági ügyek / sportolási lehetőségek biztosítása, sportlétesítmények működtetése és fejlesztése | kivett sporttelep és parkoló | 4752 |
 
-| 15. | Esztergom Város Önkormányzata | Esztergom 16400 hrsz. 1/1 | településfejlesztés, településrendezés, valamint helyi környezet- és természetvédelem, vízgazdálkodás, vízkárelhárítás/magaspart-jellegű védmű létesítés | kivett beépítetlen terület | 1934 |
+| 15. |  |  |  |  |  |
 
-| 16. | Esztergom Város Önkormányzata | Esztergom 16401 hrsz. 1/1 | településfejlesztés, településrendezés, valamint helyi környezet- és természetvédelem, vízgazdálkodás, vízkárelhárítás/magaspart-jellegű védmű létesítés | kivett beépítetlen terület | 1826 |
+| 16. |  |  |  |  |  |
 
 | 17. | Hidas Község Önkormányzata | Hidas 0129/2 hrsz. 1/1 | a helyi víziközmű-szolgáltatás biztosítása, fenntartása/ az egészséges ivóvízellátás biztosítása | kivett vízmű | 316 |
 
@@ -42,7 +42,7 @@
 
 | 20. | Jászberény Város Önkormányzata | Jászberény 1/A/2 hrsz. 1/1 | polgármesteri hivatal működtetése/polgármesteri hivatal irattározási feladatainak ellátása | kivett raktár és kiszolgáló helyiségek | 200 |
 
-| 21. | Létavértes Város Önkormányzata | Létavértes 172 hrsz. 1/1 | lakás- és helyiséggazdálkodás, valamint a település területén hajléktalanná vált személyek ellátásának és rehabilitációjának, valamint a hajléktalanná válás megelőzésének biztosítása / szociálisan rászorult személyek lakáshoz jutásának elősegítése | kivett lakóház, udvar | 2267 |
+| 21. |  |  |  |  |  |
 
 | 22. | Lórév Község Önkormányzata | Lórév 042 hrsz. 1/1 | településfejlesztés, településrendezés, településüzemeltetés, víziközmű-szolgáltatás/ ivóvízvezeték kiépítése | kivett saját használatú út | 16404 |
 
@@ -50,7 +50,7 @@
 
 | 24. | Mélykút Város Önkormányzata | Mélykút 0200/113 hrsz. 1/1 | helyi közfoglalkoztatás/ START munka mezőgazdasági mintaprojekt keretében konyhakert létrehozása | kivett vízmű | 1796 |
 
-| 25. | Nagyar Község Önkormányzata | Nagyar 3/1 hrsz. 1/1 | településfejlesztés/ önkormányzati hivatali és egyéb szervezet irodáinak elhelyezése, irattározási feladatok ellátása | kivett lakóház, udvar, gazdasági épület | 14182 |
+| 25. |  |  |  |  |  |
 
 | 26. | Nagymaros Város Önkormányzata | Nagymaros 10001/4 hrsz. 1/1 | településfejlesztés, településrendezés, településüzemeltetés/ közterület, közlekedési felület | kivett közút | 819 |
 
