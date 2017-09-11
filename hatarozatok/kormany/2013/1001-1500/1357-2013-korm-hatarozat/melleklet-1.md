@@ -30,7 +30,7 @@
 
 ## Határidő: 2013. október 31.
 
-1. melléklet az 1357/2013. (VI. 24.) Korm. határozathoz
+1. melléklet az 1357/2013. (VI. 24.) Korm. határozathoz[^1]
 
 Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 
@@ -64,7 +64,7 @@ Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 
 | 14. | Devecser Város Önkormányzata | Devecser 0171/2 hrsz. 1/1 | településfejlesztés, településrendezés / kistérségi foglalkoztatási gondok megoldása céljából kialakításra kerülő iparterület létesítése | kivett saját használatú út | 614 |
 
-| 15. | Dunaszentmiklós Község Önkormányzata | Dunaszentmiklós 387/4 hrsz. 1/1 | településüzemeltetés / út fenntartása | kivett saját használatú út | 24 |
+| 15. |  |  |  |  |  |
 
 | 16. | Fertőrákos Község Önkormányzata | Fertőrákos 037 hrsz. 1/1 | településfejlesztés, településrendezés, településüzemeltetés, helyi környezet- és természetvédelem, vízgazdálkodás, vízkárelhárítás / út kiépítése, közművesítés | kivett saját használatú út | 881 |
 
@@ -86,7 +86,7 @@ Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 
 | 25. | Nemesvámos Község Önkormányzata | Nemesvámos 720 hrsz. 1/1 | településfejlesztés, településüzemeltetés / önkormányzati útként történő használat | kivett közterület | 2824 |
 
-| 26. | Pocsaj Község Önkormányzata | Pocsaj 1123 hrsz. 1/1 | lakás- és helyiséggazdálkodás, a területen hajléktalanná vált személyek ellátásának és rehabilitációjának, hajléktalanná válás megelőzésének biztosítása / szükséglakás | kivett lakóház, udvar | 1423 |
+| 26. |  |  |  |  |  |
 
 | 27. | Sárvár Város Önkormányzata | Sárvár 0203/3 hrsz. 1/1 | víziközmű-szolgáltatás / a település ivóvízellátásának zavartalan biztosítása | kivett vízmű | 1763 |
 
@@ -101,3 +101,5 @@ Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 | 32. | Veszprém Megyei Jogú Város Önkormányzata | Veszprém 3331/2 hrsz. 1/1 | kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása; a helyi közművelődési tevékenység támogatása / Művelődési Központ és Könyvtár, Kabóca Bábszínház, civil szervezetek elhelyezése | kivett művelődési központ | 5877 |
 
 | 33. | Veszprém Megyei Jogú Város Önkormányzata | Veszprém 3331/3 hrsz. 1/1 | településfejlesztés, településrendezés, településüzemeltetés / közterület fenntartása | kivett közterület | 5790 |
+
+[^1]: Az 1. melléklet az 1624/2017. (IX. 11.) Korm. határozat 2. pont f) alpontja szerint módosított szöveg.
