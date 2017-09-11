@@ -88,7 +88,9 @@ ef) a Komáromi Erődrendszert,
 
 eg) a Sárvári várat, valamint
 
-f) a Magyar Nemzeti Levéltár Országos Levéltárát;
+f) a Magyar Nemzeti Levéltár Országos Levéltárát,
+
+g)[^1] a Seuso-kincs vándorkiállítás magyarországi bemutatásának helyszíneit;
 
 1.2. felhívja az emberi erőforrások miniszterét, hogy tájékoztató megjelentetésével gondoskodjon arról, hogy az 1.1. pont szerinti nevelési-oktatási intézmények megismerjék az 1.1. pont szerinti országos múzeumok, kiemelt nemzeti emlékhely, nemzeti emlékhelyek, műemlékek, történelmi emlékhelyek és a Magyar Nemzeti Levéltár Országos Levéltára látogatásának rendjét és a díjmentes vasúti utazás igénybevételének feltételeit;
 
@@ -104,6 +106,7 @@ Határidő: folyamatos
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3.[^1]
+3.[^2]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.1. pont g) alpontját az 1634/2017. (IX. 11.) Korm. határozat 2. pontja iktatta be.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
