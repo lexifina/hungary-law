@@ -86,7 +86,7 @@
 
 | 42. | Kiscsősz Község Önkormányzata | Kiscsősz 05/8 hrsz. 1/1 | településüzemeltetés/ravatalozó | kivett ravatalozó | 414 |
 
-| 43. | Maglód Város Önkormányzata | Maglód 1136 hrsz. 1/8 | szociális ellátás/szociális lakás | kivett lakóház, udvar | 1079 |
+| 43. |  |  |  |  |  |
 
 | 44. | Magyar Protestáns Tanulmányi Alapítvány | Budapest XII. ker. 9402 hrsz. 1/1 | Protestáns Felsőoktatási Szakkollégium elhelyezése | kivett kollégium | 7871 |
 
