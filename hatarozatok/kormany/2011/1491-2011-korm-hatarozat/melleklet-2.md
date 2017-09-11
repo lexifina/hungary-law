@@ -76,7 +76,7 @@
 
 | 37. | Tata Megyei Jogú Város Önkormányzata | Tata 1984/2 | Közutak, közterületek fenntartása, vízrendezés | „közterület” | 1 038 |
 
-| 38. | Tiszaszentimre Község Önkormányzata | Tiszaszentimre 473 | Szociális cél, rászorulók szálláshoz juttatása | „kivett lakóház, udvar, gazdasági épület” | 2 102 |
+| 38. |  |  |  |  |  |
 
 | 39. | Újkígyós Város Önkormányzata | Újkígyós 707 141/580 tulajdoni hányad | Civil szervezetek elhelyezése | „kivett lakóház, udvar” | 580 |
 

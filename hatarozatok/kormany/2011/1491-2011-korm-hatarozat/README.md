@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1491-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-12-23 | 2011-1491-30-22.1 | 1491/2011. (XII. 23.) Korm. határozat |
+| 2017-09-11 | 2011-1491-30-22.2 | 1624/2017. (IX. 11.) Korm. határozat |

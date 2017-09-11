@@ -40,4 +40,6 @@
 
 ## Határidő: 2012. április 30.
 
-1. melléklet az 1491/2011. (XII. 23.) Korm. határozathoz
+1. melléklet az 1491/2011. (XII. 23.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1624/2017. (IX. 11.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
