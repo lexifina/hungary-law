@@ -46,10 +46,11 @@ emberi erőforrások minisztere
 
 Határidő: 2015. szeptember 15.
 
-5. felhívja a nemzeti fejlesztési minisztert, hogy készítsen előterjesztést és részletes ütemtervet a MÁV Magyar Államvasutak Zrt. tulajdonában levő egyes földrészletek Eger Megyei Jogú Város Önkormányzata részére, az Eger déli iparterületen ipari park céljára történő átadásáról.
+5.[^2] felhívja a nemzeti fejlesztési minisztert, hogy készítsen előterjesztést és részletes ütemtervet a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság tulajdonában levő egyes földrészletek Eger Megyei Jogú Város Önkormányzata részére, az Eger déli iparterületen ipari park céljára történő átadásáról, valamint tegye meg a szükséges intézkedéseket a déli iparterület infrastrukturális fejlesztése érdekében.
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
 [^1]: A 3. pont az 1554/2016. (X. 13.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: Az 5. pont az 1637/2017. (IX. 11.) Korm. határozat 2. pontjával megállapított szöveg.
