@@ -1,0 +1,66 @@
+# A Kormány 263/2017. (IX. 11.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 144. szám, 2017. szeptember 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/52709b5bcb1d0ab6efc68ea8b879269acfe1bd3e/dokumentumok/fd41ec24eeee1dc82a6e19eb3c45313b141f1527/letoltes)
+
+---
+
+A Kormány 263/2017. (IX. 11.) Korm. rendelete
+a kéményseprő-ipari tevékenységről szóló törvény végrehajtásáról szóló 99/2016. (V. 13.) Korm. rendelet
+módosításáról
+A Kormány a kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény 8. § (1) bekezdésben kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A kéményseprő-ipari tevékenységről szóló törvény végrehajtásáról szóló 99/2016. (V. 13.) Korm. rendelet
+(a továbbiakban: R.) 1. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+[A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény (a továbbiakban: Kstv.) szerinti kéményseprő-ipari szerv
+és kéményseprő-ipari szolgáltató (a továbbiakban együtt: kéményseprő-ipari tevékenységet ellátó)]
+„g) a műszaki vizsgálat során megállapított nem megfelelő minősítés ellenére vagy – az (1a) bekezdésben
+meghatározott kivétellel – a jogszabály szerinti műszaki vizsgálat nélkül működtetett égéstermék-elvezető
+használata,”
+(miatti – az életet és a vagyonbiztonságot közvetlenül fenyegető – veszély észlelése esetén soron kívül, de legkésőbb
+három munkanapon belül értesíti az első fokú tűzvédelmi hatóságot, valamint gázfogyasztó készülék esetében
+a földgázelosztót.)
+2. §
+Az R. 1. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+„(1a) Az égéstermék-elvezető (1) bekezdés g) pontjában meghatározott jogszabály szerinti műszaki
+vizsgálat nélkül történő üzemeltetése nem minősül életet és vagyonbiztonságot közvetlenül veszélyeztető
+szabálytalanságnak, ha az ingatlan tulajdonosa a szabálytalanság megállapításától – a 2. § (1) bekezdés szerinti
+esetben az ingatlantulajdonos tudomásszerzésétől – számított harminc napon belül megrendeli az égéstermék-
+elvezető műszaki vizsgálatát. A kéményseprő-ipari tevékenységet ellátó erről, valamint az ingatlanhasználónak
+az égéstermék-elvezető műszaki vizsgálat elvégzéséig történő üzemeltetéséből eredő balesetekért való
+felelősségéről a helyszínen írásban tájékoztatja az ingatlan használóját.
+(1b) Az (1a) bekezdés nem alkalmazható, és a kéményseprő-ipari tevékenységet ellátó megteszi a Kstv. 3. §
+(2) bekezdése szerinti intézkedést, ha az (1) bekezdés g) pontjában meghatározott szabálytalanság mellett
+egyidejűleg az (1) bekezdésben meghatározott egyéb szabálytalanságot is megállapít.”
+3. §
+Az R. 2. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A tűzvédelmi hatóság a (2) bekezdés szerinti intézkedést az 1. § (1a) bekezdésben foglaltak esetében
+a megrendelési kötelezettségre előírt határidő elteltét követően teszi meg.”
+
+4. §
+Az R. 4. §-a a következő (12) bekezdéssel egészül ki:
+„(12) Az állam tulajdonát képező, a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes
+személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 22. § (1) bekezdése szerinti bérlő használatában
+lévő ingatlanok címadatait az ingatlanok vagyonkezelője a kéményseprő-ipari ellátási területekre vonatkozóan
+megyei bontásban negyedévenként, a negyedév első hónapjának 5. napjáig elektronikusan, szerkeszthető
+formában átadja a kéményseprő-ipari szervnek, illetve a Kstv. 10. § (3) bekezdés szerinti szolgáltatónak.”
+5. §
+Az R. 5. §-a a következő (3) bekezdéssel egészül ki:
+„(3) E rendeletnek a kéményseprő-ipari tevékenységről szóló törvény végrehajtásáról szóló 99/2016. (V. 13.)
+Korm. rendelet módosításáról szóló 263/2017. (IX. 11.) Korm. rendelettel (a továbbiakban: Módr.) megállapított
+4. § (12) bekezdésében foglaltakat első alkalommal a Módr. hatálybalépését követő harminc napon belül kell
+teljesíteni.”
+6. §
+Az R.
+a) 2. § (1) bekezdésében a „Kstv. 5. § (2) bekezdés d) pontja szerinti tilalmáról” szövegrész helyébe
+a „Kstv. 5. § (2) bekezdés d) pontja szerinti tilalmáról, valamint az 1. § (1a) bekezdés szerinti megrendelési
+kötelezettségéről”,
+b) 2. § (2) bekezdésében az „A tűzvédelmi hatóság a Kstv. 3. § (2) bekezdés b) pontjában” szövegrész helyébe
+az„A tűzvédelmi hatóság – a (2a) bekezdés szerinti kivétellel – a Kstv. 3. § (2) bekezdés b) pontjában”
+szöveg lép.
+7. §
+Hatályát veszti az R. 1. § (1) bekezdés h) pontjában a„nem megfelelően rögzített,”szövegrész.
+8. §
+Ez a rendelet a kihirdetését követő tizenötödik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
