@@ -2,7 +2,7 @@
 
 (2) A határozatban meg kell jelölni a minőségellenőrzés eredményét.
 
-(3) A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó asszisztens nélkül, önállóan dolgozó könyvvizsgálók, illetve könyvvizsgáló cégek belső minőségellenőrzési rendszere minőségellenőrzésének eredménye az 1., illetve a 2. melléklet alapján háromféle eredményt adhat:
+(3)[^14] A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó asszisztens nélkül, önállóan dolgozó könyvvizsgálók, illetve könyvvizsgáló cégek belső minőségellenőrzési rendszere minőségellenőrzésének eredménye háromféle eredményt adhat:
 
 a) megfelelt,
 
@@ -10,7 +10,7 @@ b) megfelelt, megjegyzéssel,
 
 c) nem felelt meg.
 
-(4) A kamarai tag könyvvizsgálók egyedi megbízásai minőségellenőrzésének eredménye a 3. melléklet alapján háromféle eredményt adhat:
+(4)[^15] A kamarai tag könyvvizsgálók egyedi megbízásai minőségellenőrzésének eredménye háromféle eredményt adhat:
 
 a) megfelelt,
 
@@ -32,16 +32,18 @@ b) a nem közérdeklődésre számot tartó gazdálkodók egyedi megbízásai mi
 
 (9) A „megfelelt, megjegyzéssel” zárult minőségellenőrzés esetén a közfelügyeleti hatóság a következő intézkedéseket alkalmazhatja: kötelezés továbbképzésen való részvételre, figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésére.
 
-(10)[^13] A „nem felelt meg” eredménnyel zárult minőségellenőrzés esetén a közfelügyeleti hatóság a Kkt. 173/C. § (7) bekezdése szerinti intézkedéseket alkalmazhatja.
+(10)[^16] A „nem felelt meg” eredménnyel zárult minőségellenőrzés esetén a közfelügyeleti hatóság a Kkt. 173/C. § (7) bekezdése szerinti intézkedéseket alkalmazhatja.
 
 (11) A könyvvizsgáló cég belső minőségellenőrzési rendszerére vonatkozó minőségellenőrzés eredményének minősítésénél figyelembe kell venni a megelőző belső minőségellenőrzési rendszerre vonatkozó minőségellenőrzés óta lefolytatott, az ellenőrzött könyvvizsgáló cégnél alkalmazott, tag vagy vezető tisztségviselő kamarai tag könyvvizsgálók egyedi megbízásai minőségellenőrzésének eredményét.
 
 (12) A közérdeklődésre számot tartó gazdálkodók könyvvizsgálatát ellátó könyvvizsgáló cégek belső minőségellenőrzési rendszerének értékelésekor a közfelügyeleti hatóság jogosult bekérni a Magyar Könyvvizsgálói Kamarától a közérdeklődésre számot tartó gazdálkodók könyvvizsgálatát ellátó könyvvizsgálóval munkaviszonyban, munkaviszony jellegű jogviszonyban álló, nem közérdeklődésre számot tartó gazdálkodók könyvvizsgálatát ellátó kamarai tag könyvvizsgálók által végzett egyes egyedi megbízások minőségellenőrzésének dokumentumait, melyeket a belső minőségellenőrzési rendszer értékelésének véglegesítése során figyelembe vehet.
 
-(13)[^14] Amennyiben a belső minőségellenőrzési rendszer értékelése „nem felelt meg” eredménnyel zárult, a közfelügyeleti hatóság a minőségellenőrzés lezárását követő évben utóellenőrzést tarthat.
+(13)[^17] Amennyiben a belső minőségellenőrzési rendszer értékelése „nem felelt meg” eredménnyel zárult, a közfelügyeleti hatóság a minőségellenőrzés lezárását követő évben utóellenőrzést tarthat.
 
-(14)[^15]
+(14)[^18]
 
-[^13]: A 8. § (10) bekezdése a 25/2015. (IX. 28.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^14]: A 8. § (13) bekezdése a 25/2015. (IX. 28.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^15]: A 8. § (14) bekezdését a 46/2014. (XII. 30.) NGM rendelet 16. § c) pontja hatályon kívül helyezte.
+[^14]: A 8. § (3) bekezdés nyitó szövegrésze a 26/2017. (IX. 11.) NGM rendelet 4. § c) pontja szerint módosított szöveg.
+[^15]: A 8. § (4) bekezdés nyitó szövegrésze a 26/2017. (IX. 11.) NGM rendelet 4. § d) pontja szerint módosított szöveg.
+[^16]: A 8. § (10) bekezdése a 25/2015. (IX. 28.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^17]: A 8. § (13) bekezdése a 25/2015. (IX. 28.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^18]: A 8. § (14) bekezdését a 46/2014. (XII. 30.) NGM rendelet 16. § c) pontja hatályon kívül helyezte.

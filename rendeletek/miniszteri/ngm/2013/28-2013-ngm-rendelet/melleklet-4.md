@@ -603,17 +603,3 @@
 ## • Amennyiben az igen válaszok aránya az összes válaszhoz viszonyítva 90% vagy a fölötti, akkor az egyedi megbízás minősítése „megfelel”. 70% és 90% között a minősítés „megjegyzéssel megfelel”, 70% alatt pedig „nem felel meg”.
 
 4. melléklet a 28/2013. (VI. 29.) NGM rendelethez
-
-A kamarai tag könyvvizsgálók egyedi megbízásainak minőségellenőrzéséről szóló határozat eredménye
-
-a 8. § (6) bekezdése szerinti esetben
-
-|  |  | KÖZÉRDEKLŐDÉSRE SZÁMOT TARTÓ GAZDÁLKODÓ(K) EGYEDI MEGBÍZÁSA(I) MINŐSÉGELLENŐRZÉSÉNEK EREDMÉNYE |
-
-|  |  | Megfelelt | Megfelelt, megjegyzéssel | Nem felelt meg |
-
-| NEM KÖZÉRDEKLŐDÉSRE SZÁMOT TARTÓ GAZDÁLKODÓ(K) EGYEDI MEGBÍZÁSA(I) MINŐSÉGELLENŐRZÉSÉNEK EREDMÉNYE | Megfelelt | Megfelelt | Megfelelt, megjegyzéssel | Nem felelt meg |
-
-| Megfelelt, megjegyzéssel | Megfelelt | Megfelelt, megjegyzéssel | Nem felelt meg |
-
-| Nem felelt meg | Megfelelt, megjegyzéssel | Nem felelt meg | Nem felelt meg |
