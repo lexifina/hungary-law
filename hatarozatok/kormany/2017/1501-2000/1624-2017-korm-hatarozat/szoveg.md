@@ -22,29 +22,7 @@ j) az egyes állami vagyontárgyak ingyenes tulajdonba adásáról szóló 1570/
 
 ingatlanok nem kerülnek a hivatkozott rendelkezésekben meghatározott önkormányzatok tulajdonába.
 
-2. A Kormány a Vtv. 36. § (3) bekezdése alapján
-
-a) az 1491/2011. Korm. határozat 1. mellékletében foglalt táblázat 38. sorát,
-
-b) az 1100/2012. Korm. határozat 1. mellékletében foglalt táblázat 32–34. sorát,
-
-c) az 1253/2012. Korm. határozat 1. mellékletében foglalt táblázat 29–31. sorát,
-
-d) az 1659/2012. Korm. határozat 6. pontját, illetve 1. mellékletében foglalt táblázat 16. és 30. sorát,
-
-e) az 1205/2013. Korm. határozat 1. mellékletében foglalt táblázat 22. pontjának Zsana Község Önkormányzatára, Szank Község Önkormányzatára, Csólyospálos Község Önkormányzatára és Borota Község Önkormányzatára vonatkozó rendelkezéseit,
-
-f) az 1357/2013. Korm. határozat 1. mellékletében foglalt táblázat 15. és 26. sorát,
-
-g) az 1762/2013. Korm. határozat 1. mellékletében foglalt táblázat 31. sorát,
-
-h) az 1200/2014. Korm. határozat 1. mellékletében foglalt táblázat 43. pontját,
-
-i) az 1471/2014. Korm. határozat 1. mellékletében foglalt táblázat 70., 80. és 81. sorát,
-
-j) az 1570/2014. Korm. határozat 1. mellékletében foglalt 15., 16., 21. és 25. sorát
-
-visszavonja.
+2.[^1]
 
 3. A Kormány – az 1200/2014. Korm. határozat 6. pontjában foglaltaktól eltérően – felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy az Alap 1096 helyrajzi számú, a Jászapáti 2662 helyrajzi számú, a Somogyacsa 237 helyrajzi számú, a Szentendre 1245/12/A/6 helyrajzi számú, a Tiszadada 453 és 454 helyrajzi számú és a Vasszentmihály 69/1 helyrajzi számú ingatlanok esetében a szerződés – az 1200/2014. Korm. határozat 3. pontjában meghatározottakon felül – tartalmazza azt is, hogy annak hatálybalépését követően az érintett önkormányzatok helytállnak az ingatlannal kapcsolatos, öröklésből származó vagyoni jellegű követelés vonatkozásában, és az örökössel való elszámolás tekintetében semmilyen igényt nem támasztanak a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal (a továbbiakban: MNV Zrt.) vagy az állam bármely más képviselőjével szemben.
 
@@ -69,3 +47,5 @@ c) az érintett önkormányzatok vállalják, hogy a b) alpont szerinti perbelé
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
