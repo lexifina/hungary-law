@@ -24,10 +24,6 @@ Határidő: a felmerülés ütemében
 
 e) felkéri Kaposvár, Kecskemét, Miskolc, Nyíregyháza, Székesfehérvár és Zalaegerszeg megyei jogú városok polgármestereit, hogy a Seuso-kincs kiállításának technikai feltételeit arra alkalmas helyen teremtsék meg.
 
-2. Az országos múzeumok, valamint egyes nemzeti emlékhelyek és műemlékek látogatásáról szóló 1502/2017. (VIII. 11.) Korm. határozat 1.1. pontja a következő g) alponttal egészül ki:
+2.[^1]
 
-[A Kormány a nemzeti és egyetemes kulturális örökség javainak megismerése érdekében
-
-egyetért azzal, hogy az általános iskolák, középfokú iskolák és gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmények nappali rendszerű iskolai oktatásban részt vevő tanulói és minden tizedik tanuló után egy fő kísérő (pedagógus vagy szülő) az iskola által szervezett csoportos utazás keretében tanítási évben – a tanév rendjéről szóló miniszteri rendelet szerinti őszi, téli és tavaszi szünet kivételével – tanítási és – a látogatás szombati napra történő visszaigazolása esetén – szombati napokon díjmentes vasúti utazás igénybevételével látogathassák meg a következő]
-
-„g) a Seuso-kincs vándorkiállítás magyarországi bemutatásának helyszíneit;”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
