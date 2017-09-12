@@ -1,0 +1,1 @@
+## 2. § A Központi Statisztikai Hivatal (a továbbiakban: KSH) az igazságügyi statisztikai adatok gyűjtéséért felelős szervezetekkel együttműködve biztosítja a BNSOR karbantartását, és elősegíti annak alkalmazását. Ennek keretében a KSH elkészíti és rendszeresen felülvizsgálja a BNSOR-t kiegészítő tartalmi meghatározásokat, valamint gondoskodik azok honlapján való közzétételéről.
