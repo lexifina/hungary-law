@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-168-20-
 | 2017-01-01 | 1997-168-20-22.61 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-03 | 1997-168-20-22.62 | 69/2017. (III. 31.) Korm. rendelet |
 | 2017-07-01 | 1997-168-20-22.63 | 171/2017. (VI. 29.) Korm. rendelet |
+| 2017-09-12 | 1997-168-20-22.64 | 21/2017. (IX. 11.) AB határozat |
