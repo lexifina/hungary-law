@@ -54,7 +54,7 @@
 
 ## Határidő: 2017. december 31.
 
-## 10. visszavonja az 1566/2014. (X. 2.) Korm. határozatot.
+## 10.[^1]
 
 1. melléklet az 1644/2017. (IX. 11.) Korm. határozathoz
 
@@ -135,3 +135,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
