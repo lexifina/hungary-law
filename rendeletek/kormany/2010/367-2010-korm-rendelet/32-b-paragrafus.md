@@ -1,33 +1,25 @@
-## 10/B. [^42] Az oktatás-nevelési támogatás és hallgatói támogatás szabályai
+## V/B. Fejezet[^44]
 
-32/B. § (1) Az Alap terhére a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 14. §-a szerinti oktatási támogatásként
+## JOGSZABÁLY ALAPJÁN BIZTOSÍTOTT TÁMOGATÁSOK
 
-a) nevelési, oktatási, valamint tankönyv- és taneszköz támogatást (a továbbiakban együtt: oktatás-nevelési támogatás), és
+## 10/B. [^45] A normatív támogatások általános szabályai
 
-b) a felsőoktatásban tanulók részére hallgatói támogatást (a továbbiakban: hallgatói támogatás)
+32/B. §[^46] (1) Az Alap terhére a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) hatálya alá tartozó természetes személyek az e fejezetben meghatározottak szerinti, jogszabály alapján közvetlenül nyújtható támogatásban (a továbbiakban: normatív támogatás) részesülhetnek.
 
-## kell nyújtani.
+(2) Normatív támogatás igénybevételére az Alapkezelő legalább évente a honlapján felhívást tesz közzé.
 
-(2) Oktatás-nevelési támogatás igénybevételére az Alapkezelő évente a honlapján felhívást tesz közzé.
+(3) A normatív támogatásra irányuló kérelmet a felhívásban megállapított határnapig lehetséges benyújtani.
 
-(3) Oktatás-nevelési támogatásra jogosult
+(4) A normatív támogatásról a Bizottság az Alapkezelő javaslata alapján, annak elfogadásával dönt. Az Alapkezelő a támogatási döntés alapján támogatói okiratot bocsát ki. A normatív támogatás szempontjából támogatói okiratnak minősül a döntési lista alapján a kedvezményezettnek megküldött hivatalos értesítés is, ha abból a támogatásra vonatkozó döntés, a támogatás kedvezményezettje, valamint a támogatás célja és mértéke kitűnik.
 
-a) az az óvodáskorú gyermek, aki a felhívásban szereplő tanév kezdetétől az adott államban működő akkreditált óvodában magyar nyelvű nevelésben részesül,
+(5) A normatív támogatásokkal kapcsolatos egyes feladatok ellátására a támogató lebonyolító szervet vehet igénybe.
 
-b) az az általános- és a tizennyolcadik életévét be nem töltött vagy a tizennyolcadik életévét a felhívásban szereplő tanév végéig betöltő középiskolai tanuló, aki
+(6) A normatív támogatás folyósítására – az adott állam sajátosságait figyelembe véve – lebonyolító szerv vagy az e célból kötött megállapodás alapján magyarországi székhelyű, az adott államban fiókteleppel rendelkező pénzügyi intézmény közreműködésével kerül sor.
 
-ba) az adott államban működő akkreditált oktatási intézményben alap- vagy középfokú tanulmányait magyar nyelven folytatja, vagy – ha a lakóhelyén, napi bejárással elérhető távolságon belül nem működik magyar nyelvű oktatási intézmény vagy magyar nyelvű tagozat – fakultatív oktatásban vesz részt és
+(7) Lebonyolító szerv igénybevétele esetén a támogatási döntést a lebonyolító szerv közli a támogatási kérelem benyújtójával. Az értesítésben közölni kell a támogatási döntést, a kedvezményezett megnevezését, a támogatás célját, a támogatás összegét és annak folyósítására vonatkozó tájékoztatást.
 
-bb) a régiós felhívásban meghatározottnál többet igazolatlanul nem hiányzott,
+(8) Az e fejezeti szerinti normatív támogatásokra az államháztartásról szóló 2011. évi CXCV. törvény 51. § (1) bekezdését, 53/A. § (1) és (2) bekezdését, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 66. § (1) bekezdését, valamint (2) bekezdés 1–4., 8., 9., 11., 12., 16–18. pontját, 67. § (2) bekezdését, 68. §-át, 73. § (1) bekezdését, 77. §-át, 81. § c) és e) pontját, 88. § (3) bekezdését, 96. § b)–f) pontját, 97. § (1) és (3) bekezdését, 98. §-át, 99. § (1)–(3) bekezdését, 100. § (1) és (2) bekezdését, továbbá 101. §-át kell megfelelően alkalmazni.
 
-c) az a középiskolai tanuló, aki a tanév megkezdéséig a felhívásban szereplő tizennyolcadik életévét betöltötte, de az adott állam közoktatási rendszerének tanulmányi időszakra vonatkozó rendelkezései szerint kötelező képzésben részesül, ha a régiós felhívásban meghatározottnál többet igazolatlanul nem hiányzott,
-
-d) az a sérült vagy halmozottan sérült magyar nemzetiségű kiskorú, aki nem akkreditált oktatási intézményben folytat magyar nyelvű tanulmányokat vagy egyéb magyar nyelvű nevelésben részesül és
-
-e) az a kiskorú, aki sajátos nevelési igényeinek megfelelő – részben vagy egészben magyar nyelvű – oktatásban vesz részt az adott államban működő akkreditált oktatási intézményben . ha a régiós felhívásban meghatározottnál többet igazolatlanul nem hiányzott,
-
-(4) Hallgatói támogatásra jogosult az a nappali tagozatos hallgató, aki tanulmányait az adott államban működő felsőoktatási intézményben, részben vagy egészben magyar nyelven folytatja.
-
-(5) Az oktatás-nevelési támogatás és a hallgatói támogatás egy főre jutó éves összegét évente a Bizottság állapítja meg.
-
-[^42]: A 10/B. alcím címe a 20/2015. (II. 17.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^44]: Az V/B. fejezetet a 264/2017. (IX. 11.) Korm. rendelet 4. §-a iktatta be.
+[^45]: A 10/B. alcím címe a 264/2017. (IX. 11.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^46]: A 32/B. § a 264/2017. (IX. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
