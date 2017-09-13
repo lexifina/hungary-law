@@ -4,6 +4,6 @@
 
 (2) A szabálytalanság-felelős meghallgathatja az érintett személyeket és megvizsgálhat bármely dokumentumot, körülményt, tényt, amely a szabálytalanság gyanújával kapcsolatos tényállás tisztázásához szükséges.
 
-(3)[^52] Ha a szabálytalanság megállapításához a Közbeszerzési Döntőbizottság vagy más hatóság előzetes döntése, vagy szakértői vizsgálat szükséges, a szabálytalansági vizsgálat külön döntés nélkül felfüggesztésre kerül a hatáskörrel rendelkező hatóság határozatának közléséig vagy a szakvélemény kézhezvételéig. A felfüggesztés időtartama az ügyintézési határidőbe nem számít bele.
+(3)[^59] Ha a szabálytalanság megállapításához a Közbeszerzési Döntőbizottság vagy más hatóság előzetes döntése, vagy szakértői vizsgálat szükséges, a szabálytalansági vizsgálat külön döntés nélkül felfüggesztésre kerül a hatáskörrel rendelkező hatóság határozatának közléséig vagy a szakvélemény kézhezvételéig. A felfüggesztés időtartama az ügyintézési határidőbe nem számít bele.
 
-[^52]: A 25. § (3) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 11. pontja szerint módosított szöveg.
+[^59]: A 25. § (3) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 11. pontja szerint módosított szöveg.

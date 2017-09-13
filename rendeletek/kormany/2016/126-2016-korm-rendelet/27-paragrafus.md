@@ -1,4 +1,4 @@
-27. § (1)[^53] A hitelesítési tevékenységre kijelölt szervezet által indított szabálytalansági vizsgálatban a szervezet vezetője a szabálytalanság-vizsgálati jelentés alapján tesz javaslatot a nemzeti hatóság vezetője részére a szabálytalansági vizsgálat lezárására. A szabálytalansági vizsgálat lezárásának időpontja a vizsgálati jelentés jóváhagyásának napja. A szabálytalansági vizsgálatot a megindításától számított negyvenöt napon belül le kell zárni.
+27. § (1)[^60] A hitelesítési tevékenységre kijelölt szervezet által indított szabálytalansági vizsgálatban a szervezet vezetője a szabálytalanság-vizsgálati jelentés alapján tesz javaslatot a nemzeti hatóság vezetője részére a szabálytalansági vizsgálat lezárására. A szabálytalansági vizsgálat lezárásának időpontja a vizsgálati jelentés jóváhagyásának napja. A szabálytalansági vizsgálatot a megindításától számított negyvenöt napon belül le kell zárni.
 
 (2) A szabálytalansági vizsgálat alapján elrendelt intézkedést a nemzeti hatóság vezetője állapítja meg.
 
@@ -18,9 +18,9 @@ a) annak megállapításával, hogy nem történt szabálytalanság és a szabá
 
 b) a szabálytalanság megtörténtét megállapító, és – ha szükséges – intézkedést – így különösen a hazai kedvezményezett vagy a hazai TA kedvezményezett részére kifizetett támogatás részleges vagy teljes visszafizetését vagy a korrekció összegének a hazai kedvezményezett vagy hazai TA kedvezményezett által benyújtott, következő időszakra vonatkozó jelentéshez kapcsolódó elszámolás jóváhagyható összegéből történő levonását – elrendelő döntéssel.
 
-(6)[^54] A szabálytalansági vizsgálatot lefolytató szervezet a szabálytalanságot a hazai kedvezményezettre vagy a hazai TA kedvezményezettre vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált. A szabálytalanság megállapításával összefüggésben elrendelt intézkedés a hazai kedvezményezettet, illetve a hazai TA kedvezményezettet terheli.
+(6)[^61] A szabálytalansági vizsgálatot lefolytató szervezet a szabálytalanságot a hazai kedvezményezettre vagy a hazai TA kedvezményezettre vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált. A szabálytalanság megállapításával összefüggésben elrendelt intézkedés a hazai kedvezményezettet, illetve a hazai TA kedvezményezettet terheli.
 
 (7) A szabálytalanság-felelős az (5) bekezdés b) pontja szerinti döntésről értesíti az elrendelt intézkedés végrehajtásában érintetteket.
 
-[^53]: A 27. § (1) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 12. pontja szerint módosított szöveg.
-[^54]: A 27. § (6) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 13. pontja szerint módosított szöveg.
+[^60]: A 27. § (1) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 12. pontja szerint módosított szöveg.
+[^61]: A 27. § (6) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 13. pontja szerint módosított szöveg.

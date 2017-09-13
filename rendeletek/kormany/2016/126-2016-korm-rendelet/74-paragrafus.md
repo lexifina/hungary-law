@@ -1,4 +1,4 @@
-## 73. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+## is alkalmazni kell.
 
 ## 74. § Ez a rendelet
 
