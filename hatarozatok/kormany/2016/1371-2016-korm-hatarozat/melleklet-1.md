@@ -238,4 +238,10 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 39. | M3 gyorsforgalmi út Vásárosnamény (M3–M34 gyf út elválási csomópont) – Beregdaróc (országhatár) közötti szakasz 2×1 sávos autópályává fejleszthető út kiépítésének előkészítése |
 
-[^1]: Az 1. melléklet az 1833/2016. (XII. 23.) Korm. határozat 4., 7., 12. pontja és 14. pont b) alpontja, az 1150/2017. (III. 20.) Korm. határozat 1. pontja szerint módosított szöveg.
+| 56. | 8. számú főút és a 82. számú főút összeköttetésével tervezett, a veszprémi sportlétesítmények megközelítésének javítását is szolgáló útfejlesztési projekt előkészítése |
+
+| 57. | 87–89. számú főút Szombathely hiányzó északkeleti elkerülő szakasz fejlesztésének előkészítése |
+
+| 58. | Szombathely és Kőszeg közötti közúti kapcsolat fejlesztésének előkészítése |
+
+[^1]: Az 1. melléklet az 1833/2016. (XII. 23.) Korm. határozat 4., 7., 12. pontja és 14. pont b) alpontja, az 1150/2017. (III. 20.) Korm. határozat 1. pontja, az 1657/2017. (IX. 13.) Korm. határozat 5. pontja szerint módosított szöveg. [Az 1657/2017. (IX. 13.) Korm. határozat 4. pontjával elrendelt módosítás, amely szerint az 1. mellékletben foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat 41. sorában az „52. sz. főút Kecskemét Nagykörút – 5218. j. úti (Vízmű utca) csomópont közötti szakasz átépítésének előkészítése” szövegrész helyébe az „52. sz. főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése” szöveg lép, nem vezethető át.]
