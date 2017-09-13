@@ -42,9 +42,25 @@ Határidő: a fejlesztések előkészítésére: azonnal
 
 a fejlesztések megvalósítására: folyamatos
 
+d)[^2] felhívja a nemzeti fejlesztési minisztert, hogy az Önkormányzattal egyeztetve vizsgálja meg a 8. számú főút és a 82. számú főút összeköttetésével tervezett, a veszprémi sportlétesítmények megközelítésének javítását is szolgáló útfejlesztés megvalósíthatóságát, továbbá a vizsgálat alapján készítsen javaslatot a beruházás kormányzati támogatással történő megvalósítására és ütemezésére;
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: a vizsgálatra azonnal
+
+a javaslattételre a 4. pont a) és b) alpontja szerinti fejlesztések előkészítéséhez igazodva
+
+a megvalósításra a 4. pont a) és b) alpontja szerinti fejlesztések megvalósításához igazodva
+
+e)[^3] felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket az Aranyosvölgy felett tervezett új völgyhíd és az ehhez kapcsolódó, a város belső elérhetőségét javító közútfejlesztés megvalósítása érdekében.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: 2018. december 31.
+
 3. A Kormány Veszprém kulturális életének gazdagítását és turisztikai vonzerejének növelését támogatva, a város életében betöltött szerepüket elismerve
 
-a)[^2] egyetért a Veszprémi Petőfi Színház kormányzati szerepvállalással történő felújításával és korszerűsítésével, amely érdekében felhívja az emberi erőforrások miniszterét és a nemzeti fejlesztési minisztert, hogy az Önkormányzat közreműködésével tegyenek javaslatot a színház épületének rekonstrukcióját szolgáló beruházási programra és ütemezett támogatására, azzal, hogy kormányzati támogatással a műemléképület felújításhoz és korszerűsítéséhez szükséges projektelemek megvalósítására kerüljön sor, míg az Önkormányzat által tervezett, a színház környezetének megújítását célzó fejlesztések esetében kerüljön vizsgálatra egyéb források bevonásának lehetősége, illetve a fejlesztések több ütemben történő megvalósítása;
+a)[^4] egyetért a Veszprémi Petőfi Színház kormányzati szerepvállalással történő felújításával és korszerűsítésével, amely érdekében felhívja az emberi erőforrások miniszterét és a nemzeti fejlesztési minisztert, hogy az Önkormányzat közreműködésével tegyenek javaslatot a színház épületének rekonstrukcióját szolgáló beruházási programra és ütemezett támogatására, azzal, hogy kormányzati támogatással a műemléképület felújításhoz és korszerűsítéséhez szükséges projektelemek megvalósítására kerüljön sor, míg az Önkormányzat által tervezett, a színház környezetének megújítását célzó fejlesztések esetében kerüljön vizsgálatra egyéb források bevonásának lehetősége, illetve a fejlesztések több ütemben történő megvalósítása;
 
 Felelős: emberi erőforrások minisztere
 
@@ -115,4 +131,6 @@ Felelős: az 1–4. pontban felelősként megjelölt miniszterek
 Határidő: azonnal
 
 [^1]: A 2. pont a)–b) alpontját az 1422/2016. (VII. 29.) Korm. határozat 7. pontja visszavonta.
-[^2]: A 3. pont a) alpontja az 1394/2016. (VII. 21.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: A 2. pont d) alpontját az 1657/2017. (IX. 13.) Korm. határozat 3. pontja iktatta be.
+[^3]: A 2. pont e) alpontját az 1657/2017. (IX. 13.) Korm. határozat 3. pontja iktatta be.
+[^4]: A 3. pont a) alpontja az 1394/2016. (VII. 21.) Korm. határozat 8. pontja szerint módosított szöveg.
