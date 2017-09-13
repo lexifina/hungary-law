@@ -12,55 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat [a továbbiakban: 1084/2016. (II. 29.) Korm. határozat] 1. pontja a következő g) alponttal egészül ki:
-
-## (A Kormány)
-
-## „g) jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 5. prioritása meghirdethető keretének 1,64 milliárd forinttal történő növelését azzal, hogy ezen alpontban meghatározott összegre a 272/2014. (XI. 5.) Korm. rendelet 44/C. §-ának megfelelően vállalható kötelezettség,”
-
-## 4. Az 1084/2016. (II. 29.) Korm. határozat
-
-## 4.1. 1. pont d) alpont da) alpontjában a „rendelet” szövegrész helyébe a „rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet]” szöveg,
-
-## 4.2. 2. mellékletében foglalt táblázat
-
-## 4.2.1. D:469 mezőjében az „1,30” szövegrész helyébe a „2,34” szöveg,
-
-## 4.2.2. D:471 mezőjében az „1,20” szövegrész helyébe az „1,46” szöveg,
-
-## 4.2.3. D:484 mezőjében az „5,00” szövegrész helyébe a „7,00” szöveg,
-
-## 4.2.4. D:502 mezőjében a „0,54” szövegrész helyébe a „0,64” szöveg,
-
-## 4.2.5. D:503 mezőjében a „0,94” szövegrész helyébe az „1,70” szöveg,
-
-## 4.2.6. D:522 mezőjében a „0,17” szövegrész helyébe a „0,22” szöveg,
-
-## 4.2.7. D:534 mezőjében a „0,30” szövegrész helyébe a „0,20” szöveg,
-
-## 4.2.8. D:535 mezőjében a „0,20” szövegrész helyébe a „0,30” szöveg,
-
-## 4.2.9. D:545 mezőjében a „0,18” szövegrész helyébe a „0,40” szöveg,
-
-## 4.2.10. D:550 mezőjében a „6,34” szövegrész helyébe a „7,84” szöveg,
-
-## 4.2.11. D:571 mezőjében a „3,00” szövegrész helyébe a „4,00” szöveg,
-
-## 4.2.12. D:587 mezőjében a „0,13” szövegrész helyébe a „0,06” szöveg,
-
-## 4.2.13. D:588 mezőjében a „0,23” szövegrész helyébe a „0,30” szöveg,
-
-## 4.2.14. D:609 mezőjében a „0,15” szövegrész helyébe a „0,19” szöveg,
-
-## 4.2.15. D:610 mezőjében a „0,15” szövegrész helyébe a „0,12” szöveg,
-
-## 4.2.16. D:611 mezőjében a „0,02” szövegrész helyébe a „0,01” szöveg,
-
-## 4.2.17. D:625 mezőjében a „0,21” szövegrész helyébe a „0,30” szöveg,
-
-## 4.2.18. D:651 mezőjében a „0,50” szövegrész helyébe a „0,65” szöveg
-
-## lép.
+## 3–4.[^1]
 
 1. melléklet az 1625/2017. (IX. 11.) Korm. határozathoz
 
@@ -95,3 +47,5 @@
 | 14. | KEHOP-5.2.3-16- 2016-00053 | Győri Egyházmegye épületeinek energetikai felújítása | Győri Egyházmegye | 230 000 000 | 70 000 000 | 300 000 000 | A projekt célja a Prohászka Ottokár Orsolyita Gimnázium, Általános Iskola és Óvoda, illetve a Szent László Katolikus Szakkollégium épületeinek energetikai fejlesztése utólagos hőszigeteléssel, külső nyílászáró cserével és napelemes rendszer telepítésével. |
 
 | 15. | KEHOP-5.2.5-16- 2016-00008 | Heves Megyei Fenyőliget Egyesített Szociális Intézmény közel nulla energiaigényű épületeinek létesítése mintaprojekt jelleggel | Szociális és Gyermekvédelmi Főigazgatóság | 499 452 404 | 147 338 459 | 646 790 863 | A projekt keretében Nagykökényes községében új szociális otthon építése valósul meg korszerű pillérvázas épületként, figyelembe véve a jelenlegi energetikai követelményeket meghaladó „közel nulla energiaszint” elvárást. Az otthon 100 fő szociális ellátásban részesülő, időskorú személy befogadására lesz képes. |
+
+[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
