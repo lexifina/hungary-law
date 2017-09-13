@@ -66,7 +66,7 @@
 
 | 30. | 233321 |  | Adósságkezelés költségei | Adósságkezelés költségeinek fedezése. | ÁKK Zrt. |  |  | Az összeget a Kincstár minden hónap 5-éig folyósítja egyenlő részletekben. |  |  | Kincstár |  |  |
 
-7. melléklet az 55/2016. (XII. 21.) NGM rendelethez
+7. melléklet az 55/2016. (XII. 21.) NGM rendelethez[^3]
 
 XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi kezelésű előirányzatai
 
@@ -154,6 +154,10 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 39. |  | Garancia és hozzájárulás a társadalombiztosítási ellátásokhoz |  |  |  |  |  |  |  |  |  |  |
 
+| 39a. |  | Nyugdíjbiztosítási Alap Támogatása |  |  |  |  |  |  |  | - |  |  |
+
+| 39b. | 368317 |  |  | Kiadások támogatására pénzeszköz-átadás | Az előirányzat a Nyugdíjbiztosítási Alap bevételeként szolgál. | Nyugdíjbiztosítási Alap |  |  | Az átutalást a Kincstár a Kvtv. 33. §-ában meghatározottak szerint végzi. |  |  | Kincstár |  |  |
+
 | 40. |  |  | Egészségbiztosítási Alap támogatása |  |  |  |  |  |  |  |  |  |  |
 
 | 41. | 266101 |  |  | Járulék címen átadott pénzeszköz | A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvényben meghatározott személyek után a központi költségvetés által fizetendő egészségügyi szolgáltatási járulék fedezetét biztosítja az előirányzat. | Egészségbiztosítási Alap |  |  | Az átutalást a Kincstár finanszírozási terv alapján végzi az Ávr. 136. § (2) bekezdése szerint. |  |  | Kincstár |  |  |
@@ -203,3 +207,5 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 | 63. | 226165 |  | Központi Nukleáris Pénzügyi Alap támogatása | A Központi Nukleáris Pénzügyi Alap részére központi támogatás biztosítása. | Központi Nukleáris Pénzügyi Alap |  |  | Az Ávr. 133. § szerint, előirányzat-felhasználási terv alapján. |  |  | Kincstár |  |  |
 
 | 64. | 349139 |  | Nemzeti Kutatási, Fejlesztési és Innovációs Alap támogatása | A Nemzeti Kutatási, Fejlesztési és Innovációs Alap részére központi támogatás biztosítása. | Nemzeti Kutatási, Fejlesztési és Innovációs Alap |  |  | Az Ávr. 133. § szerint, előirányzat-felhasználási terv alapján. |  |  | Kincstár |  |  |
+
+[^3]: A 7. melléklet a 27/2017. (IX. 12.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
