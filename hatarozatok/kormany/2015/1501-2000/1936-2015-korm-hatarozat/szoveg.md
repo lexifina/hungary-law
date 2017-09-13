@@ -16,6 +16,12 @@ Határidő: azonnal
 
 c)[^1]
 
+d)[^2] tegye meg a szükséges intézkedéseket a várost érintő gyorsforgalmi útfejlesztésekhez igazodó, még hiányzó, Szombathely elkerülő gyorsforgalmi útszakaszok teljes körű előkészítése érdekében;
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: 2020. szeptember 30.
+
 2. felhívja a nemzetgazdasági minisztert, a belügyminisztert és a Miniszterelnökséget vezető minisztert, hogy Szombathely Megyei Jogú Város Önkormányzata bevonásával vizsgálják meg az ipari parkban tervezett multifunkcionális városi közszolgáltatási telephely európai uniós fejlesztési forrásból történő kialakításának lehetőségét, valamint a vizsgálat eredményétől függően tegyék meg a szükséges intézkedéseket legfeljebb 1500,0 millió forint összegű támogatás Szombathely Megyei Jogú Város Önkormányzata részére – a rendelkezésre álló uniós fejlesztési forrásokból vagy ennek hiányában központi költségvetési forrásból – történő biztosítására;
 
 Felelős: nemzetgazdasági miniszter
@@ -119,3 +125,4 @@ Miniszterelnökséget vezető miniszter
 Határidő: azonnal
 
 [^1]: Az 1. pont c) alpontját az 1422/2016. (VII. 29.) Korm. határozat 10. pontja visszavonta.
+[^2]: Az 1. pont d) alpontját az 1657/2017. (IX. 13.) Korm. határozat 1. pontja iktatta be.
