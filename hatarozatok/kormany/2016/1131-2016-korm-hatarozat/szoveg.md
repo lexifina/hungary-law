@@ -28,6 +28,14 @@ ba) a 445. számú Kecskemét északi elkerülő út továbbvezetése,
 
 bb)[^1]
 
+bc)[^2] az 52. számú főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése érdekében, továbbá tegyen javaslatot a beruházás kormányzati támogatással történő megvalósítása és ütemezése
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: az előkészítés tekintetében 2019. június 30.
+
+a javaslat tekintetében az előkészítést követően azonnal
+
 érdekében;
 
 Felelős: nemzeti fejlesztési miniszter
@@ -80,7 +88,7 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. szeptember 1.
 
-b)[^2] a kecskeméti Városháza teljes körű, az épület 120 éves évfordulójáig megvalósítandó felújítását, amely érdekében
+b)[^3] a kecskeméti Városháza teljes körű, az épület 120 éves évfordulójáig megvalósítandó felújítását, amely érdekében
 
 ba) felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy a külső felújítás 2017. november 15-i, a belső felújítás 2018. augusztus 31-i befejezési határidejéhez igazodóan gondoskodjanak a felújításhoz szükséges források ütemezett biztosításáról;
 
@@ -125,4 +133,5 @@ Felelős: az 1–5. pontban felelősként megjelölt miniszterek
 Határidő: 2016. március 31.
 
 [^1]: A 2. pont b) pont bb) alpontját az 1422/2016. (VII. 29.) Korm. határozat 8. pontja visszavonta.
-[^2]: A 4. pont b) alpontja az 1202/2017. (IV. 10.) Korm. határozat 6. pontjával megállapított szöveg.
+[^2]: A 2. pont b) alpont bc) pontját az 1657/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be.
+[^3]: A 4. pont b) alpontja az 1202/2017. (IV. 10.) Korm. határozat 6. pontjával megállapított szöveg.
