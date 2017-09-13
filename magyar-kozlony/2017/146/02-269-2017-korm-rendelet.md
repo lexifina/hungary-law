@@ -1,0 +1,178 @@
+# A Kormány 269/2017. (IX. 13.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 146. szám, 2017. szeptember 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c453253a9b848afd21b459dcf07868e8b0f8b572/dokumentumok/e6d964c51e36284d6032a3a3052feedcc61afc63/letoltes)
+
+---
+
+A Kormány 269/2017. (IX. 13.) Korm. rendelete
+a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló
+335/2005. (XII. 29.) Korm. rendelet módosításáról
+A Kormány a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 35/A. §
+(1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. §
+A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet
+(a továbbiakban: R.)„Irattározás”alcíme a következő 63/A. és 63/B. §-sal egészül ki:
+„63/A. § (1) A 3. mellékletben meghatározott államigazgatási szervek központi irattározásával kapcsolatos,
+a 4. mellékletben meghatározott feladatokat – a 63/B. § (1) és (2) bekezdésében foglalt kivétellel – a Nemzeti
+Dokumentumkezelő Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: központi szolgáltató) látja el.
+(2) A 63/B. § (1) és (2) bekezdésében foglalt kivétellel
+a) a 3. mellékletben meghatározott szervek számára a 4. mellékletben meghatározott szolgáltatásokat kizárólag
+a központi szolgáltató nyújtja, és
+b) a 3. mellékletben meghatározott szervek az a) pont szerinti szolgáltatásokat a központi szolgáltatótól veszik
+igénybe.
+(3) A központi szolgáltató a 4. mellékletben meghatározott szolgáltatásokat a köziratok kezelésének szakmai
+irányításáért felelős miniszterrel (a továbbiakban: miniszter) kötött közszolgáltatási szerződés (a továbbiakban:
+közszolgáltatási szerződés) alapján nyújtja, amelyben a felek rögzítik az elvárt szolgáltatások körét, a szolgáltatások
+elvárt szintjét, valamint az általános szakmai követelményeket.
+(4) A közszolgáltatási szerződésben foglalt követelmények meghatározását, tervezését és ellenőrzését a miniszter
+végzi.
+(5) A közszolgáltatási szerződés rögzíti a 4. mellékletben meghatározott szolgáltatások igénybevételére kötelezett
+szerv részvételének módját és feltételeit a közszolgáltatási szerződésben foglalt követelmények teljesülésének
+tervezésében és ellenőrzésében.
+(6) A miniszter – a miniszter és a 3. mellékletben meghatározott szervek költségvetési fejezetét irányító miniszterek
+közötti megállapodás alapján történő előirányzat-átcsoportosítást követően – biztosítja a közszolgáltatási
+szerződésben foglalt szolgáltatások ellátásának fedezetét, amely kizárólag a közszolgáltatási szerződés alapján
+a 3. mellékletben meghatározott szervek részére a 4. mellékletben meghatározott szolgáltatások központi
+szolgáltató általi ellátásának finanszírozására szolgál. A közszolgáltatási szerződésben nem rögzített egyedi igények
+kielégítésére a 3. mellékletben meghatározott szervek egyedi szolgáltatási megállapodást kötnek a központi
+szolgáltatóval.
+(7) Az egyedi szolgáltatási megállapodás költségvetési fedezetét a megállapodást kötő szerv biztosítja.
+(8) A közszolgáltatási szerződésben és az egyedi szolgáltatási megállapodásban meghatározott szolgáltatási díjak
+nem haladhatják meg a központi szolgáltatónak a szolgáltatásnyújtással összefüggésben felmerült igazolható
+költségeit, valamint egy észszerű nyereséghányadot. E követelmény teljesüléséről a miniszter gondoskodik.
+63/B. § (1) A miniszter egyedi kérelemre felmentést adhat a központi szolgáltató igénybevételének kötelezettsége
+alól, ha
+a) a 3. mellékletben meghatározott szerv az iratok állagának védelme tekintetében, valamint adatvédelmi és
+adatbiztonsági szempontból megfelelő irattárral és elégséges irattári kapacitással rendelkezik,
+b) a központi szolgáltató igénybevétele a jogszabályban előírt feladatok határidőben történő teljesítését
+veszélyezteti, vagy
+c) a 3. mellékletben meghatározott szerv jogszabály szerinti közfeladatának ellátásához szükséges speciális
+szolgáltatási szint az egyedi esetben más módon hatékonyabban biztosítható.
+(2) A 3. mellékletben meghatározott szerv a központi szolgáltató 4. mellékletben meghatározott szolgáltatását
+a) nem veheti igénybe a minősített irat;
+
+b) nem köteles igénybe venni
+ba) a személyügyi nyilvántartásának körébe tartozó irat,
+bb) a gazdálkodásával összefüggésben keletkezett irat,
+bc) az ellenőrzésével kapcsolatos irat,
+bd) a diplomáciai és konzuli küldemény,
+be) a protokollirat,
+bf) a közhiteles nyilvántartások alapiratai,
+bg) az európai uniós támogatásokkal és a pályázatkezelési feladatokat törvény alapján közfeladatként ellátó szerv
+által kezelt, hazai közfinanszírozású programok és projektek támogatásával kapcsolatos irat
+tekintetében.
+(3) A 3. mellékletben meghatározott szerv a kezelésében lévő papíralapú iratok mennyiségéről, évköréről és
+ügyköréről az iratkezelési szoftverben nyilvántartást vezet.
+(4) A 3. mellékletben meghatározott szerv a tárgyév március 31-ig tájékoztatja a minisztert a következő évben
+a központi szolgáltató részére központi irattározásra átadni tervezett, 5 évnél régebbi, 5 éven túl megőrzendő iratok
+mennyiségéről.
+(5) A 3. mellékletben meghatározott szerv a központi szolgáltató számára kizárólag az előre tervezett és a miniszter
+által jóváhagyott mennyiségű iratot adhatja át.”
+2. §
+Az R. 67/A. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+„(1a) A miniszter a köziratok kezelésének szakmai irányításával összefüggésben a 3. mellékletben meghatározott
+szerveknél ellenőrzi az iratkezelési szabályok betartását, különösen
+a) a köziratok megőrzéséhez szükséges megfelelő irattári férőhely rendelkezésre állását,
+b) az iratrendezési, selejtezési feladatok ütemezett végrehajtását,
+c) az elektronikus belső ügymenetre vonatkozó előírások betartását.
+(1b) Ha a miniszter ellenőrzési feladatkörében észleli, hogy a köziratok biztonságos megőrzéséhez szükséges irattári
+férőhely a 3. mellékletben meghatározott szervnél nem biztosított, az iratkezelő szerv vezetőjét felhívja a központi
+szolgáltató szolgáltatásának igénybevételére.”
+3. §
+Az R. a következő 71. §-sal egészül ki:
+„71. § A 3. melléklet szerinti szerv által iratkezelési és irattározási szolgáltatás igénybevételére a közfeladatot
+ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosításáról
+szóló 269/2017. (IX. 13.) Korm. rendelet hatálybalépését megelőzően kötött szerződés megszűnését követően
+a 4. mellékletben meghatározott szolgáltatásokra új szerződés – a 63/B. § (1) és (2) bekezdésében foglalt kivétellel –
+kizárólag a központi szolgáltatóval köthető.”
+4. § (1) Az R. az 1. melléklet szerinti 3. melléklettel egészül ki.
+(2) Az R. a 2. melléklet szerinti 4. melléklettel egészül ki.
+5. §
+Az R.
+a) 67/A. § (1) bekezdésében a „köziratok kezelésének szakmai irányításáért felelős miniszter által vezetett
+minisztérium (a továbbiakban: minisztérium)”szövegrész helyébe a„miniszter”,
+b) 67/A. § (3) és (5) bekezdésében a„minisztérium”szövegrész helyébe a„miniszter”,
+c) 67/B. § (2) bekezdésében a„minisztérium”szövegrész helyébe a„miniszter által vezetett minisztérium”
+szöveg lép.
+6. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 269/2017. (IX. 13.) Korm. rendelethez
+„3. melléklet a 335/2005. (XII. 29.) Korm. rendelethez
+A központosított irattári szolgáltatásokat igénybe vevő szervek
+ 1. Miniszterelnökség
+ 2. Nemzetstratégiai Kutatóintézet
+ 3. Információs Hivatal
+ 4. Kormányzati Ellenőrzési Hivatal
+ 5. Központi Statisztikai Hivatal
+ 6. Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
+ 7. Nemzeti Örökség Intézete
+ 8. Magyar Nyelvstratégiai Intézet
+ 9. Nemzeti Kommunikációs Hivatal
+10. Miniszterelnöki Kabinetiroda
+11. Belügyminisztérium
+12. Alkotmányvédelmi Hivatal
+13. Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság
+14. Bevándorlási és Menekültügyi Hivatal
+15. Büntetés-végrehajtás Országos Parancsnoksága
+16. Nemzetbiztonsági Szakszolgálat
+17. Nemzeti Védelmi Szolgálat
+18. Országos Rendőr-főkapitányság
+19. Terrorelhárítási Információs és Bűnügyi Elemző Központ
+20. Terrorelhárítási Központ
+21. Emberi Erőforrások Minisztériuma
+22. Emberi Erőforrás Támogatáskezelő
+23. Állami Egészségügyi Ellátó Központ
+24. Klebelsberg Központ
+25. Oktatási Hivatal
+26. Nemzeti Egészségbiztosítási Alapkezelő
+27. Országos Nyugdíjbiztosítási Főigazgatóság
+28. Szociális és Gyermekvédelmi Főigazgatóság
+29. Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
+30. Földművelésügyi Minisztérium
+31. Nemzeti Élelmiszerlánc-biztonsági Hivatal
+32. Országos Meteorológiai Szolgálat
+33. Külgazdasági és Külügyminisztérium
+34. Nemzeti Befektetési Ügynökség
+35. Európai Támogatásokat Auditáló Főigazgatóság
+36. Magyar Államkincstár
+37. Nemzeti Adó- és Vámhivatal
+38. Szellemi Tulajdon Nemzeti Hivatala
+39. Nemzeti Fejlesztési Minisztérium
+40. Magyar Bányászati és Földtani Hivatal
+41. Nemzetgazdasági Minisztérium
+42. Igazságügyi Minisztérium
+43. Magyar Földtani és Geofizikai Intézet
+44. Budapest Főváros Kormányhivatala
+45. Pest Megyei Kormányhivatal”
+
+2. melléklet a 269/2017. (IX. 13.) Korm. rendelethez
+„4. melléklet a 335/2005. (XII. 29.) Korm. rendelethez
+Kötelezően biztosítandó központosított irattári szolgáltatások
+ 1. Középszintű iratrendezés (dobozolás, jegyzékelés), selejtezés a köziratok kezelésének szakmai irányításáért
+felelős miniszter által meghatározott irategyüttesek tekintetében
+ 2. Iratmegsemmisítés
+ 3. Iratok beszállítása
+ 4. 5 évnél régebbi, 5 éven túl megőrzendő iratok központi irattári tárolása
+ 5. Adatszolgáltatás: dobozok kikérése, iratok helyszíni megtekintése (betekintés)
+ 6. Irattároláshoz, iratrendezéshez, a selejtezés és levéltári átadás előkészítéséhez, az irat- és adatszolgáltatások
+teljesítéséhez szükséges iratkezelési metaadatok kezelése
+ 7. Doboz visszatárolása
+ 8. Adatszolgáltatás: irat kikérése, iratok helyszíni megtekintése (betekintés)
+ 9. Helyszíni betekintés során fénymásolat készítése
+10. Betekintési kérelem alapján irat kikeresése, fénymásolása és kiszállítása
+11. Elektronikus adatszolgáltatás (e-mailen keresztül), irat kikérése és visszatárolása (e-betekintés)
+12. E-betekintés során szkennelt digitális másolat készítése
+13. Iratkölcsönzés: doboz kikérése
+14. Iratkölcsönzés: doboz visszatárolása
+15. Iratkölcsönzés: irat kikérése
+16. Iratkölcsönzés: irat visszatárolása
+17. Doboz/irat gépkocsival történő ki- és visszaszállítása
+18. Irattáros szakember biztosítása (pl. iratkezelési tanácsadás, iratszállítás előkészítése stb.)
+19. Irattári szoftverszolgáltatások, irattári helpdesk
+20. E-betekintés során szkennelt digitális másolat készítése és továbbítása
+21. Iratselejtezés előkészítése
+22. Levéltári átadás előkészítése”
