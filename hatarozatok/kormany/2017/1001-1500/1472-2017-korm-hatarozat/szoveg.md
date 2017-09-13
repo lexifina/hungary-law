@@ -6,7 +6,7 @@ A Kormány
 
 a) multifunkciós sportcsarnok kialakítása birkózótermekkel és kiszolgáló egységekkel, valamint orvosdiagnosztikai és rehabilitációs központtal,
 
-b) a salgótarjáni Szojka Ferenc Stadion rekonstrukciója és az Öblös Sporttelep területén edzőközpont kialakítása,
+b)[^1] a salgótarjáni Tóstrandi Sporttelep rekonstrukciója és az Öblös Sporttelep területén edzőközpont kialakítása,
 
 c) az egri Szentmarjay Tibor Stadion rekonstrukciója és az Északi Sporttelep területén edzőközpont kialakítása,
 
@@ -17,3 +17,5 @@ d) felvidéki labdarúgó akadémia létrehozása;
 Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
+
+[^1]: A 2. pont b) alpontja az 1662/2017. (IX. 13.) Korm. határozattal megállapított szöveg.
