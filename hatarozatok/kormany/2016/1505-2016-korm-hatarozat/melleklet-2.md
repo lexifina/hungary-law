@@ -1,10 +1,12 @@
-## Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások 2022-ig történő megvalósításához biztosított forráskeret éves felosztása
+## Magyarország rövid és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások
+
+## 2022-ig történő megvalósításához biztosított forráskeret éves felosztása
 
 |  | A | B | C | D | E | F | G | H | I |
 
 | 1. | Az előirányzat megnevezése | A projektek megvalósításához szükséges források éves keretösszege (bruttó, millió Ft) |
 
-| 2. | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | Összesen: |
+| 2. | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | Összesen |
 
 | 3. | IKOP 1. prioritása | 167 913 | 220 474 | 111 071 | 112 029 | 80 876 | 29 390 | 11 551 | 733 304 |
 
@@ -12,13 +14,13 @@
 
 | 5. | Európai Hálózatfinanszírozási Eszköz | 5 675 | 27 130 | 26 370 | 10 073 | 0 | 0 | 0 | 69 248 |
 
-| 6. | Magyarország központi költségvetés hazai forrás | 97 787 | 212 200 | 252 312 | 367 653 | 180 779 | 126 915 | 57 950 | 1 295 596 |
+| 6. | Magyarország központi költségvetés hazai forrás | 97 787 | 214 297 | 259 390 | 378 578 | 196 899 | 134 255 | 62 070 | 1 343 276 |
 
-| 7. | Összesen | 349 065 | 536 780 | 454 625 | 567 001 | 305 763 | 190 518 | 76 461 |  |
+| 7. | Összesen | 349 065 | 538 877 | 461 703 | 577 926 | 321 883 | 197 858 | 80 581 |  |
 
-| 8. | Mindösszesen | 2 480 213 |  |
+| 8. | Mindösszesen | 2 527 893 |  |
 
-2. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^5]
+2. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^6]
 
 Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások megvalósításának tervezett ütemezése
 
@@ -212,4 +214,10 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 40. | M3 gyorsforgalmi út Vásárosnamény (M3–M34 gyf út elválási csomópont) – Beregdaróc (országhatár) közötti szakasz 2×1 sávos autópályává fejleszthető út kiépítésének előkészítése | 2017. II. negyedév | 2020. IV. negyedév |
 
-[^5]: A 2. melléklet az 1833/2016. (XII. 23.) Korm. határozat 6., 11., 13. pontja és 14. pont c) alpontja, az 1150/2017. (III. 20.) Korm. határozat 2–3. pontja szerint módosított szöveg.
+| 55. | 8. számú főút és a 82. számú főút összeköttetésével tervezett, a veszprémi sportlétesítmények megközelítésének javítását is szolgáló útfejlesztési projekt előkészítése | 2018. I. negyedév | 2019. IV. negyedév |
+
+| 56. | 87–89. számú főút Szombathely hiányzó északkeleti elkerülő szakasz fejlesztésének előkészítése | 2018. I. negyedév | 2020. III. negyedév |
+
+| 57. | Szombathely és Kőszeg közötti közúti kapcsolat fejlesztésének előkészítése | 2018. I. negyedév | 2020. III. negyedév |
+
+[^6]: A 2. melléklet az 1833/2016. (XII. 23.) Korm. határozat 6., 11., 13. pontja és 14. pont c) alpontja, az 1150/2017. (III. 20.) Korm. határozat 2–3. pontja, az 1657/2017. (IX. 13.) Korm. határozat 11. pontja szerint módosított szöveg. [Az 1657/2017. (IX. 13.) Korm. határozattal elrendelt módosítás, amely szerint a 2. mellékletben foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztések megvalósításának tervezett ütemezése” című táblázat 40. sorában az „52. sz. főút Kecskemét Nagykörút – 5218. j. úti (Vízmű utca) csomópont közötti szakasz átépítésének előkészítése” szövegrész helyébe az „52. számú főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése” szöveg lép, nem vezethető át.]
