@@ -1,4 +1,4 @@
-## 1.[^1] felhívja a nemzetgazdasági minisztert, a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert, hogy biztosítsanak a Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások összehangolásáról és azok 2022-ig történő megvalósításáról szóló 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében meghatározott közútfejlesztési projektek (a továbbiakban: projektek) megvalósítása érdekében 2 480 213 millió forint költségvetési forrást az 1. melléklet szerint,
+## 1.[^1] felhívja a nemzetgazdasági minisztert, a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert, hogy biztosítsanak a Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások összehangolásáról és azok 2022-ig történő megvalósításáról szóló 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében meghatározott közútfejlesztési projektek (a továbbiakban: projektek) megvalósítása érdekében 2 525 198 millió forint költségvetési forrást az 1. melléklet szerint,
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -58,8 +58,8 @@
 
 1. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^5]
 
-[^1]: Az 1. pont az 1833/2016. (XII. 23.) Korm. határozat 8. pontja szerint módosított szöveg. [Az 1. pontnak az 1657/2017. (IX. 13.) Korm. határozat 9. pontjával elrendelt módosítása, amely szerint a „2 525 198 millió forint” szövegrész helyébe a „2 527 893 millió forint” szöveg lép, nem vezethető át.]
-[^2]: A 6. pontot az 1833/2016. (XII. 23.) Korm. határozat 5. pontja iktatta be, szövege az 1657/2017. (IX. 13.) Korm. határozat 6. pontjával megállapított szöveg.
+[^1]: Az 1. pont az 1656/2017. (IX. 13.) Korm. határozat 8. pontja szerint módosított szöveg. [Az 1. pontnak az 1657/2017. (IX. 13.) Korm. határozat 9. pontjával elrendelt módosítása, amely szerint a „2 525 198 millió forint” szövegrész helyébe a „2 527 893 millió forint” szöveg lép, nem vezethető át.]
+[^2]: A 6. pontot az 1833/2016. (XII. 23.) Korm. határozat 5. pontja iktatta be, szövege az 1657/2017. (IX. 13.) Korm. határozat 6. pontjával megállapított szöveg. [A 6. pontnak az 1656/2017. (IX. 13.) Korm. határozat 9. pontjával elrendelt módosítása, amely szerint az „1 295 596 millió forint” szövegrész helyébe az „1 340 581 millió forint” szöveg, a „212 200 millió forint” szövegrész helyébe a „212 447 millió forint” szöveg lép, nem vezethető át.]
 [^3]: A 7. pontot az 1833/2016. (XII. 23.) Korm. határozat 5. pontja iktatta be.
 [^4]: A 8. pontot az 1657/2017. (IX. 13.) Korm. határozat 7. pontja iktatta be.
-[^5]: Az 1. melléklet az 1657/2017. (IX. 13.) Korm. határozat 8. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet az 1656/2017. (IX. 13.) Korm. határozat 10. pontjával megállapított szöveg.

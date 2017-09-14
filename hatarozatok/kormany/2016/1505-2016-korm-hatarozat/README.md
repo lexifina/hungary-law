@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1505-30
 | 2016-12-23 | 2016-1505-30-22.2 | 1833/2016. (XII. 23.) Korm. határozat |
 | 2017-03-20 | 2016-1505-30-22.3 | 1833/2016. (XII. 23.) Korm. határozat |
 | 2017-09-13 | 2016-1505-30-22.4 | 1833/2016. (XII. 23.) Korm. határozat |
+| 2017-09-14 | 2016-1505-30-22.5 | 1656/2017. (IX. 13.) Korm. határozat |
