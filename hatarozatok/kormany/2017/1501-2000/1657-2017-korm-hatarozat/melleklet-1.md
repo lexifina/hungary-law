@@ -1,100 +1,4 @@
-## 1. A Magyarország Kormánya és Szombathely Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1936/2015. (XII. 12.) Korm. határozat 1. pontja a következő d) alponttal egészül ki:
-
-## [A Kormány 2015. november 17. napján együttműködési megállapodást (a továbbiakban: Megállapodás) kötött Szombathely Megyei Jogú Város Önkormányzatával. A Kormány a Megállapodásban foglaltak eredményes kormányzati végrehajtása érdekében Szombathely gyorsforgalmi úthálózati kapcsolatainak fejlesztése, nemzetközi gyorsforgalmi úthálózatba történő bekapcsolása céljából felhívja a nemzeti fejlesztési minisztert, hogy]
-
-## „d) tegye meg a szükséges intézkedéseket a várost érintő gyorsforgalmi útfejlesztésekhez igazodó, még hiányzó, Szombathely elkerülő gyorsforgalmi útszakaszok teljes körű előkészítése érdekében;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: 2020. szeptember 30.”
-
-## 2. A Magyarország Kormánya és Kecskemét Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1131/2016. (III. 10.) Korm. határozat 2. pont b) alpontja a következő bc) ponttal egészül ki:
-
-## [A Kormány a Modern Városok Program keretében 2016. február 9. napján együttműködési megállapodást (a továbbiakban: Megállapodás) kötött Kecskemét Megyei Jogú Város Önkormányzatával a város további fejlődése és megújulása érdekében. A Kormány a Megállapodásban foglaltak eredményes kormányzati végrehajtását, valamint a végrehajtás Miniszterelnökséget vezető miniszter útján történő koordinációját biztosítva a következőkről határoz:
-
-## A Kormány támogatja Kecskemét infrastruktúrájának fejlesztését, amely keretében
-
-## folytatódik a város gyorsforgalmi útkapcsolatainak további fejlesztése, amellyel összefüggésben felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket]
-
-## „bc) az 52. számú főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése érdekében, továbbá tegyen javaslatot a beruházás kormányzati támogatással történő megvalósítása és ütemezése
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: az előkészítés tekintetében 2019. június 30.
-
-## a javaslat tekintetében az előkészítést követően azonnal”
-
-## (érdekében;)
-
-## 3. A Magyarország Kormánya és Veszprém Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1284/2016. (VI. 7.) Korm. határozat 2. pontja a következő d) és e) alponttal egészül ki:
-
-## [A Kormány a Modern Városok Program keretében 2016. május 10. napján együttműködési megállapodást (a továbbiakban: Megállapodás) kötött Veszprém Megyei Jogú Város Önkormányzatával (a továbbiakban: Önkormányzat) a város további fejlődése és megújulása érdekében. A Kormány a Megállapodásban foglaltak eredményes kormányzati végrehajtását, valamint a végrehajtás Miniszterelnökséget vezető miniszter útján történő koordinációját biztosítva a következőkről határoz:
-
-## A Kormány támogatja a város és térsége közlekedési infrastruktúrájának fejlesztését, amely érdekében]
-
-## „d) felhívja a nemzeti fejlesztési minisztert, hogy az Önkormányzattal egyeztetve vizsgálja meg a 8. számú főút és a 82. számú főút összeköttetésével tervezett, a veszprémi sportlétesítmények megközelítésének javítását is szolgáló útfejlesztés megvalósíthatóságát, továbbá a vizsgálat alapján készítsen javaslatot a beruházás kormányzati támogatással történő megvalósítására és ütemezésére;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: a vizsgálatra azonnal
-
-## a javaslattételre a 4. pont a) és b) alpontja szerinti fejlesztések előkészítéséhez igazodva
-
-## a megvalósításra a 4. pont a) és b) alpontja szerinti fejlesztések megvalósításához igazodva
-
-## e) felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket az Aranyosvölgy felett tervezett új völgyhíd és az ehhez kapcsolódó, a város belső elérhetőségét javító közútfejlesztés megvalósítása érdekében.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: 2018. december 31.”
-
-## 4. A Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások összehangolásáról és azok 2022-ig történő megvalósításáról szóló 1371/2016. (VII. 15.) Korm. határozat [a továbbiakban: 1371/2016. (VII. 15.) Korm. határozat] 1. mellékletében foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat 41. sorában az „52. sz. főút Kecskemét Nagykörút – 5218. j. úti (Vízmű utca) csomópont közötti szakasz átépítésének előkészítése” szövegrész helyébe az „52. sz. főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése” szöveg lép.
-
-## 5. Az 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat a következő 56–58. sorral egészül ki:
-
-|  | (A tervezett projekt megnevezése) |
-
-| „56. | 8. számú főút és a 82. számú főút összeköttetésével tervezett, a veszprémi sportlétesítmények megközelítésének javítását is szolgáló útfejlesztési projekt előkészítése |
-
-| 57. | 87–89. számú főút Szombathely hiányzó északkeleti elkerülő szakasz fejlesztésének előkészítése |
-
-| 58. | Szombathely és Kőszeg közötti közúti kapcsolat fejlesztésének előkészítése” |
-
-## 6. A Magyarország rövid- és középtávú közútfejlesztéseinek 2022-ig történő megvalósításához szükséges feltételek biztosításáról szóló 1505/2016. (IX. 21.) Korm. határozat [a továbbiakban: 1505/2016. (IX. 21.) Korm. határozat] 6. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „6. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Közlekedési ágazati programok alcím, Kiemelt közúti projektek jogcímcsoportja kiadási előirányzatai terhére vállalható kötelezettségek mértékét a 2019–2022. évekre az alábbiak szerint állapítja meg:
-
-## a) a 2019. évre vonatkozó kötelezettségvállalás felső korlátja 378 578 millió forint,
-
-## b) a 2020. évre vonatkozó kötelezettségvállalás felső korlátja 196 899 millió forint,
-
-## c) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 134 255 millió forint,
-
-## d) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 62 070 millió forint;”
-
-## 7. Az 1505/2016. (IX. 21.) Korm. határozat a következő 8. ponttal egészül ki:
-
-## (A Kormány)
-
-## „8. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a nemzeti fejlesztési miniszter e határozatban foglaltak végrehajtása érdekében összesen legfeljebb 1 343 276 millió forint összegben a 6. pont szerinti ütemezéssel kötelezettséget vállaljon.”
-
-## 8. Az 1505/2016. (IX. 21.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép.
-
-## 9. Az 1505/2016. (IX. 21.) Korm. határozat 1. pontjában a „2 525 198 millió forint” szövegrész helyébe a „2 527 893 millió forint” szöveg lép.
-
-## 10. Az 1505/2016. (IX. 21.) Korm. határozat 2. mellékletében foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztések megvalósításának tervezett ütemezése” című táblázat 40. sorában az „52. sz. főút Kecskemét Nagykörút – 5218. j. úti (Vízmű utca) csomópont közötti szakasz átépítésének előkészítése” szövegrész helyébe az „52. számú főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése” szöveg lép.
-
-## 11. Az 1505/2016. (IX. 21.) Korm. határozat 2. mellékletében foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztések megvalósításának tervezett ütemezése” című táblázat a következő 55–57. sorral egészül ki:
-
-|  | (A | B | C) |
-
-| „55. | 8. számú főút és a 82. számú főút összeköttetésével tervezett, a veszprémi sportlétesítmények megközelítésének javítását is szolgáló útfejlesztési projekt előkészítése | 2018. I. negyedév | 2019. IV. negyedév |
-
-| 56. | 87–89. számú főút Szombathely hiányzó északkeleti elkerülő szakasz fejlesztésének előkészítése | 2018. I. negyedév | 2020. III. negyedév |
-
-| 57. | Szombathely és Kőszeg közötti közúti kapcsolat fejlesztésének előkészítése | 2018. I. negyedév | 2020. III. negyedév” |
+## 1–11.[^2]
 
 ## 12. A Kormány
 
@@ -152,4 +56,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1657/2017. (IX. 13.) Korm. határozathoz
+1–2. melléklet az 1657/2017. (IX. 13.) Korm. határozathoz[^3]
+
+[^2]: Az 1–11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1–2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
