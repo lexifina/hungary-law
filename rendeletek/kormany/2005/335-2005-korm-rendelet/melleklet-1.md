@@ -1,4 +1,6 @@
-1. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^160]
+## 71. §[^164] A 3. melléklet szerinti szerv által iratkezelési és irattározási szolgáltatás igénybevételére a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosításáról szóló 269/2017. (IX. 13.) Korm. rendelet hatálybalépését megelőzően kötött szerződés megszűnését követően a 4. mellékletben meghatározott szolgáltatásokra új szerződés – a 63/B. § (1) és (2) bekezdésében foglalt kivétellel – kizárólag a központi szolgáltatóval köthető.
+
+1. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^165]
 
 ## Az egységes kormányzati ügyiratkezelő rendszer érkeztető rendszerébe bevont szervek
 
@@ -58,7 +60,7 @@
 
 28. Országos Vízügyi Főigazgatóság
 
-29.[^161]
+29.[^166]
 
 30. Emberi Erőforrás Támogatáskezelő
 
@@ -68,7 +70,7 @@
 
 33. Országos Nyugdíjbiztosítási Főigazgatóság
 
-34.[^162]
+34.[^167]
 
 35. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -84,13 +86,14 @@
 
 41. Kormányzati Informatikai Fejlesztési Ügynökség
 
-42.[^163] Magyar Bányászati és Földtani Szolgálat
+42.[^168] Magyar Bányászati és Földtani Szolgálat
 
 43. Országos Atomenergia Hivatal
 
 44. Nemzeti Szakképzési és Felnőttképzési Hivatal
 
-[^160]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (7) bekezdésével megállapított szöveg.
-[^161]: Az 1. melléklet 29. pontja a 464/2016. (XII. 23.) Korm. rendelet 48. § (2) bekezdés c) pontja alapján nem lép hatályba.
-[^162]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte.
-[^163]: Az 1. melléklet 42. pontja a 162/2017. (VI. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^164]: A 71. §-t a 269/2017. (IX. 13.) Korm. rendelet 3. §-a iktatta be.
+[^165]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (7) bekezdésével megállapított szöveg.
+[^166]: Az 1. melléklet 29. pontja a 464/2016. (XII. 23.) Korm. rendelet 48. § (2) bekezdés c) pontja alapján nem lép hatályba.
+[^167]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte.
+[^168]: Az 1. melléklet 42. pontja a 162/2017. (VI. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
