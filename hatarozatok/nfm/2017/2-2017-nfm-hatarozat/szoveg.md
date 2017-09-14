@@ -1,0 +1,3 @@
+A megújuló energiaforrásból származó villamos energia termelési támogatás korlátairól és a prémium típusú támogatásra irányuló pályázati eljárásról szóló 62/2016. (XII. 28.) NFM rendelet (a továbbiakban: Rendelet) 19. § (3) és (4) bekezdése alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 7. pontjában meghatározott feladatkörömben eljárva a következő határozatot hozom:
+
+Megállapítom, hogy az Európai Bizottság SA.44076 (2016/PN) számú, a megújuló erőforrásokon alapuló villamosenergia-termeléshez (METÁR) nyújtott támogatásra vonatkozó jóváhagyó határozata meghozatalának időpontja 2017. július 11., ezáltal a Rendelet 20. §-a, 21. §-a és az 1. melléklet 3. pontja hatálybalépésének napja 2017. július 19.
