@@ -1,6 +1,6 @@
-## 5. [^29] Beszerzésre és szponzorációra vonatkozó igények
+## 5. [^32] Beszerzésre és szponzorációra vonatkozó igények
 
-12. § (1)[^30] Az érintett szervezet köteles a Hivatal részére a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján keresztül jóváhagyásra megküldeni a beszerzési igényét a beszerzési eljárás megkezdését megelőzően legalább 10 nappal. A Hivatalhoz kizárólag olyan beszerzésre vonatkozóan nyújtható be igény, amely az éves összesített beszerzési tervben és a megvalósítás megkezdésének tervezett időpontja szerinti negyedéves beszerzési tervben is szerepel, továbbá amelynek megvalósításához a Hivatal a 9. § (4) bekezdés a)–c) pontjai szerint hozzájárult.
+12. § (1)[^33] Az érintett szervezet köteles a beszerzési igényét a Hivatal részére a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján keresztül jóváhagyásra megküldeni a beszerzési eljárás megkezdését megelőzően legalább 10 nappal. A Hivatalhoz kizárólag olyan beszerzésre vonatkozóan nyújtható be igény, amely az éves összesített beszerzési tervben szerepel.
 
 (2) A Hivatal a beszerzésre vonatkozó igény beérkezését követő 10 napon belül dönt az adott kormányzati kommunikációs feladat megvalósíthatóságáról. A határidőbe nem számít bele a (3) bekezdés e) pontja szerinti hiánypótlás időtartama.
 
@@ -24,12 +24,13 @@ b) a beszerzés vonatkozásában nincs hatályos keretmegállapodás, vagy
 
 c) a beszerzés összes körülménye alapján a Hivatal elnöke indokoltnak látja.
 
-(5) Amennyiben a Hivatal a beszerzésre vonatkozóan a 9. § (4) bekezdés b) pontja szerinti döntést hozta, abban az esetben a beszerzésre vonatkozóan benyújtott igény a (3) bekezdés a) pontja szerint kerül elbírálásra.
+(5)[^34]
 
-(6)[^31] A beszerzés kizárólag a Hivatal (3) bekezdés a)–c) pontjai szerinti hozzájárulása esetén, a hozzájárulás megadásától számított hat hónapon belül kezdhető meg. A Hivatal döntése ellenére vagy a hozzájárulás megadásától számított hat hónapon túl megkezdett beszerzés alapján megkötött szerződés semmis.
+(6)[^35] A beszerzés kizárólag a Hivatal (3) bekezdés a)–c) pontjai szerinti hozzájárulása esetén, a hozzájárulás megadásától számított hat hónapon belül kezdhető meg. A Hivatal döntése ellenére vagy a hozzájárulás megadásától számított hat hónapon túl megkezdett beszerzés alapján megkötött szerződés semmis.
 
 (7) Az érintett szervezetnek a megvalósítani kívánt beszerzés becsült értékét a Kbt. becsült értékre vonatkozó rendelkezéseire figyelemmel kell megállapítania.
 
-[^29]: Az 5. alcím (12–13. §) a 189/2016. (VII. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^30]: A 12. § (1) bekezdése a 48/2017. (III. 17.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^31]: A 12. § (6) bekezdése a 48/2017. (III. 17.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^32]: Az 5. alcím (12–13. §) a 189/2016. (VII. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^33]: A 12. § (1) bekezdése a 102/2017. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: A 12. § (5) bekezdését a 102/2017. (IV. 28.) Korm. rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^35]: A 12. § (6) bekezdése a 48/2017. (III. 17.) Korm. rendelet 6. §-ával megállapított szöveg.
