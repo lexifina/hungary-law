@@ -10,31 +10,7 @@
 
 ## e) az 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat 21. sora szerinti „Békéscsaba megközelítése M44 Nagykőrös–Tiszakürt” című projekt két ütemben valósuljon meg, a 2022-ig megvalósítandó projektek között az „M44 Lakitelek–Tiszakürt” című projekt szerepeljen.
 
-## 2. Az 1371/2016. (VII. 15.) Korm. határozat 1. pontja a következő 1.9–1.11. alponttal egészül ki:
-
-## (A Kormány a Nemzeti Közlekedési Infrastruktúra-fejlesztési Stratégiában meghatározott célokkal összhangban)
-
-## „1.9. egyetért azzal, hogy az 1. melléklet 4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista című táblázat 33. sora szerinti Galvani utca – Illatos út vonalában megépítendő új 2×3 sávos közúti Duna-híd (a továbbiakban: Galvani-híd) esetében nemzetközi tervpályázat kerüljön lebonyolításra az építési engedélyezési tervdokumentáció elkészítését megelőzően;
-
-## 1.10. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon:
-
-## a) az egyes kiemelt budapesti beruházásokért felelős kormánybiztos és Budapest Főváros Önkormányzata főpolgármesterének bevonásával a Galvani-híd megvalósítására vonatkozó nemzetközi tervpályázati eljárás lefolytatásáról, valamint
-
-## b) az építési engedélyezési tervdokumentáció elkészítésére vonatkozó közbeszerzési eljárásnak a legjobbnak ítélt pályamű felhasználásával történő lefolytatásáról;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## egyes kiemelt budapesti beruházásokért felelős kormánybiztos
-
-## Határidő: az a) alpont tekintetében azonnal
-
-## a b) alpont tekintetében az a) alpont teljesülését követően azonnal
-
-## 1.11. egyetért a Fővárosi Önkormányzat felelősségi körébe tartozó Budapest Liszt Ferenc Nemzetközi Repülőtérre vezető út fejlesztésének szükségességével, ezért a fejlesztés előkészítéséhez szükséges források biztosítása érdekében együttműködik Budapest Főváros Önkormányzatával, továbbá felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy Budapest Főváros Önkormányzata bevonásával tegyenek javaslatot a szükséges források biztosítására.
-
-## Felelős: nemzeti fejlesztési miniszter, nemzetgazdasági miniszter
-
-## Határidő: a felmerülés ütemében”
+## 2.[^2]
 
 ## 3. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy vizsgálja meg az 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázatban foglalt projekteknek az Integrált Közlekedési Operatív Program (a továbbiakban: IKOP) terhére történő finanszírozási lehetőségét, és a vizsgálat eredménye alapján tegyen javaslatot az IKOP terhére finanszírozandó (vagy IKOP projektlistán szereplő), de kockázatosnak tartott, nem előrehaladott és indikátorcélokhoz hozzá nem járuló beruházásokat helyettesíthető projektekre.
 
@@ -42,7 +18,7 @@
 
 ## Határidő: azonnal
 
-## 4. Az 1371/2016. (VII. 15.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+## 4.[^3]
 
 ## 5. A Kormány – az 1. pontban foglalt döntésének érdekében – felhívja a nemzeti fejlesztési minisztert, hogy az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat 2. mellékletének módosításához szükséges intézkedéseket tegye meg.
 
@@ -70,22 +46,16 @@
 
 ## Határidő: a 2017. évi központi költségvetés végrehajtása során
 
-## 8. Az 1505/2016. (IX. 21.) Korm. határozat 1. pontjában a „2 480 213 millió forint” szövegrész helyébe a „2 525 198 millió forint” szöveg lép.
-
-## 9. Az 1505/2016. (IX. 21.) Korm. határozat 6. pontjában
-
-## a) az „1 295 596 millió forint” szövegrész helyébe az „1 340 581 millió forint” szöveg,
-
-## b) a „212 200 millió forint” szövegrész helyébe a „212 447 millió forint” szöveg
-
-## lép.
-
-## 10. Az 1505/2016. (IX. 21.) Korm. határozat 1. melléklete helyébe a 2. melléklet lép.
-
-## 11. Az 1505/2016. (IX. 21.) Korm. határozat 2. melléklete helyébe a 3. melléklet lép.
+## 8–11.[^4]
 
 ## 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 13. A Kormány visszavonja az egyes kulcsfontosságú budapesti közlekedési beruházások előkészítésének forrásigényéről szóló 1372/2016. (VII. 20.) Korm. határozatot.
+## 13.[^5]
 
-1. melléklet az 1656/2017. (IX. 13.) Korm. határozathoz
+1–3. melléklet az 1656/2017. (IX. 13.) Korm. határozathoz[^6]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 8–11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
