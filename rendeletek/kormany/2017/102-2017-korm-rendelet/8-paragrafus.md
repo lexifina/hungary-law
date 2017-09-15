@@ -1,12 +1,18 @@
-## 7. §[^7]
+## 7. § Az R. 8. § (2) bekezdésében az „a)–c) pontjai” szövegrész helyébe az „a), illetve c) pontja” szöveg lép.
 
-8. § (1)[^8]
+8. § (1)[^6]
 
-(2)[^9]
+(2) Hatályát veszti az R.
 
-(3)[^10]
+a) 4. § (1) bekezdés d) pontjában az „és elbírálja az érintett szervezetek negyedéves beszerzési tervét,” szövegrész,
 
-[^7]: A 7. § a 9. § (2) bekezdése alapján 2017. szeptember 15-én lép hatályba.
-[^8]: A 8. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 8. § (2) bekezdése a 9. § (2) bekezdése alapján 2017. szeptember 15-én lép hatályba.
-[^10]: A 8. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+b) 8. § (1) bekezdés b) pontja,
+
+c) 9. §-a,
+
+d) 12. § (5) bekezdése.
+
+(3)[^7]
+
+[^6]: A 8. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
