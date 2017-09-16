@@ -28,25 +28,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:235 mezőjében a „3,11” szövegrész helyébe a „4,4” szöveg,
-
-## b) E:235 mezőjében a „0,33” szövegrész helyébe a „0,37” szöveg,
-
-## c) D:248 mezőjében az „1,95” szövegrész helyébe a „4,92” szöveg,
-
-## d) E:248 mezőjében a „0,11” szövegrész helyébe a „0,26” szöveg,
-
-## e) D:302 mezőjében a „4,15” szövegrész helyébe az „5,67” szöveg,
-
-## f) E:302 mezőjében a „0,44” szövegrész helyébe a „0,59” szöveg,
-
-## g) D:307 mezőjében a „9,89” szövegrész helyébe a „12,65” szöveg,
-
-## h) E:307 mezőjében az „1,07” szövegrész helyébe az „1,09” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1666/2017. (IX. 14.) Korm. határozathoz
 
@@ -61,3 +43,5 @@
 | 4. | KEHOP-2.2.2- 15-2015-00044 | Észak- és Közép- Dunántúli szennyvízelvezetési és -kezelési fejlesztés 2. (ÉKDU 2) | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság, Kulcs Községi Önkormányzat, Rácalmás Város Önkormányzat, Dunaújváros Megyei Jogú Város Önkormányzata és Pusztaszabolcs Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 4 130 083 385 | 1 538 475 217 | 580 663 949 | 5 668 558 602 | A projekt keretében a Dunaújváros központú szennyvízelvezetési agglomerációban bővítik a csatornahálózatot, szállítóvezetéket építenek, a Dunaalmás központú szennyvízelvezetési agglomerációban szállítóvezetéket építenek, bővítik a csatornahálózatot és új szennyvíztisztító telepet építenek, a Pusztaszabolcs központú szennyvízelvezetési agglomerációban pedig a meglévő szennyvíztisztító telepet fejlesztik. |
 
 | 5. | KEHOP-2.2.2- 15-2016-00048 | Szentendrei szennyvíztisztító telep fejlesztése | DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság a 339/2014. (XII. 19.) Korm. rendelet szerint | 1 947 975 000 | 2 968 530 373 | 258 763 440 | 4 916 505 373 | E projekt a meglévő szentendrei szennyvíztisztító telep fejlesztésére irányul. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
