@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-378-20-
 | 2016-12-28 | 2016-378-20-22.2 | 473/2016. (XII. 27.) Korm. rendelet |
 | 2017-02-03 | 2016-378-20-22.3 | 20/2017. (II. 2.) Korm. rendelet |
 | 2017-04-08 | 2016-378-20-22.4 | 79/2017. (IV. 7.) Korm. rendelet |
+| 2017-09-16 | 2016-378-20-22.5 | 270/2017. (IX. 13.) Korm. rendelet |

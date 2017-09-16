@@ -52,4 +52,8 @@ j) a vagyonkezelt ingatlanokra vonatkozóan a muzeális intézményekről, a nyi
 
 k) a kulturális örökséget érintő előkészítési és tervezési feladatokat;
 
-l) a Forster Központ által ellátott egyéb, a (2)–(4) bekezdésben nem nevesített feladatokat.
+l) a Forster Központ által ellátott egyéb, a (2)–(4) bekezdésben nem nevesített feladatokat;
+
+(4a)[^20] A (4) bekezdéstől eltérően a Nemzeti Kastélyprogram és a Nemzeti Várprogram vonatkozásában a Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Nemzeti Örökségvédelmi Fejlesztési Nkft.) látja el közfeladatként a (4) bekezdés d)–f) és h)–k) pontja szerinti feladatokat.
+
+[^20]: A 34. § (4a) bekezdését a 270/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
