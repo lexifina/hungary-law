@@ -1,3 +1,5 @@
+## 5. §[^1]
+
 1. melléklet a 272/2017. (IX. 14.) Korm. rendelethez
 
 1. Ivóvízminőség-javító projektek
@@ -475,3 +477,5 @@
 | 30. | A fővárosi hulladékgazdálkodási rendszer környezetbarát technológiáinak bővítése, a hulladékfeldolgozás és újrahasznosítás arányának növelése | Budapest Főváros Önkormányzata |
 
 | 31. | Szilárdhulladék-gazdálkodási rendszer továbbfejlesztése a Heves Megyei Regionális Hulladékgazdálkodási Társulás területén | Heves Megyei Regionális Hulladékgazdálkodási Társulás |
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
