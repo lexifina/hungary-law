@@ -1,3 +1,0 @@
-## 1. § Az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet (a továbbiakban: Korm. rendelet) 34. §-a a következő (4a) bekezdéssel egészül ki:
-
-## „(4a) A (4) bekezdéstől eltérően a Nemzeti Kastélyprogram és a Nemzeti Várprogram vonatkozásában a Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Nemzeti Örökségvédelmi Fejlesztési Nkft.) látja el közfeladatként a (4) bekezdés d)–f) és h)–k) pontja szerinti feladatokat.”
