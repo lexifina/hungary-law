@@ -46,8 +46,6 @@ Föld feletti elektronikus hírközlési vezeték nyomvonalát úgy kell kijelö
 
 Olyan közúton, ahol az útpálya mellett vízelvezető árok létesül, a vezeték oszlopait az árkon kívül, annak szélétől legalább 0,3 méter távolságra kell elhelyezni. A vezeték oszlopát útkoronán, útpadkán és útárokban elhelyezni nem szabad.
 
-A 3.1. pontban meghatározott föld feletti keresztezés kivételével útcsatlakozás keresztezésében az elektronikus hírközlési vezeték legmélyebb belógási pontjának legalább 5,5 méterre kell lennie az útkorona vagy a terepszint felett.
-
 A vezeték nyomvonalát töltésen (hídfeljárón) vagy bevágásban vezető közútnál a töltés (hídfeljáró) lábától vagy a bevágás szélétől olyan távolságban kell vezetni, hogy azok állagát ne veszélyeztesse és a fenntartási munkát ne akadályozza.
 
 Föld alatti elektronikus hírközlési vezetéket belterületi közutak esetében az útkoronán kívüli részben kell elhelyezni. Szilárd burkolatú járdában vagy kerékpárút alatt megszakító létesítménnyel ellátott alépítményben kell elhelyezni.
@@ -318,4 +316,4 @@ Föld feletti elektronikus hírközlési vezetékek esetében a keresztezésre e
 
 Az elektronikus hírközlés vezetékes összeköttetéseivel összefüggő műtárgyak, tartozékok és helyhez kötött egyéb építmények legfeljebb 0,5 méterre közelíthetik meg egymást.
 
-[^5]: Az 1. melléklet a 4/2017. (V. 8.) NMHH rendelet 1. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 4/2017. (V. 8.) NMHH rendelet 1. §-a, a 10/2017. (IX. 14.) NMHH rendelet 16. §-a szerint módosított szöveg.
