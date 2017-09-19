@@ -14,7 +14,7 @@ d) illetve a szülő egyetértésével
 
 da) a nevelési-oktatási intézmény,
 
-db)[^32] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó család- és gyermekjóléti szolgálat, család- és gyermekjóléti központ, bölcsőde, gyermekotthon, területi gyermekvédelmi szakszolgálat, nevelőszülői hálózat működtetője,
+db)[^32] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó család- és gyermekjóléti szolgálat, család- és gyermekjóléti központ, bölcsődei ellátást nyújtó intézmény, szolgáltató, gyermekotthon, területi gyermekvédelmi szakszolgálat, nevelőszülői hálózat működtetője,
 
 dc) a szociális igazgatásról és szociális ellátásokról szóló törvény hatálya alá tartozó fogyatékosok ápoló, gondozó otthona, fogyatékosok rehabilitációs intézménye, fogyatékosok nappali intézménye
 
@@ -40,5 +40,5 @@ b) a halmozottan hátrányos helyzetű gyermek, tanuló vizsgálatának kezdemé
 
 [^30]: A 12/A. §-t az 53/2016. (XII. 29.) EMMI rendelet 28. §-a iktatta be.
 [^31]: A 13. § (1) bekezdése a 8/2014. (I. 30.) EMMI rendelet 8. § (1) bekezdésével megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 10. pontja szerint módosított szöveg.
-[^32]: A 13. § (2) bekezdés d) pont db) alpontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 11. pontja szerint módosított szöveg.
+[^32]: A 13. § (2) bekezdés d) pont db) alpontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 11. pontja, a 19/2017. (IX. 18.) EMMI rendelet 22. §-a szerint módosított szöveg.
 [^33]: A 13. § (4) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.
