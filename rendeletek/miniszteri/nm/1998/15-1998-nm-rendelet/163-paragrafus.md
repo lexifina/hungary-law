@@ -1,13 +1,13 @@
-163. § (1)[^435] Ha a szakellátást olyan – magasabb vezető által irányított – önálló intézmény biztosítja, amely több gyermekotthont is magában foglal, az intézményben önálló szakmai egységeket kell kialakítani, amelyek
+163. § (1)[^468] Ha a szakellátást olyan – magasabb vezető által irányított – önálló intézmény biztosítja, amely több gyermekotthont is magában foglal, az intézményben önálló szakmai egységeket kell kialakítani, amelyek
 
-a)[^436] legfeljebb 48 gyermeket befogadó gyermekotthonból, illetőleg különleges, vagy speciális otthonból, vagy
+a)[^469] legfeljebb 48 gyermeket befogadó gyermekotthonból, illetőleg különleges, vagy speciális otthonból, vagy
 
 b) legfeljebb összesen 48 gyermeket befogadó lakásotthonokból
 
 állnak.
 
-(2)[^437] Az önálló szakmai egység szakmai programmal rendelkezik, és élén gyermekotthon vezető áll.
+(2)[^470] Az önálló szakmai egység szakmai programmal rendelkezik, és élén gyermekotthon vezető áll.
 
-[^435]: A 163. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 95. §-ával megállapított szöveg.
-[^436]: A 163. § (1) bekezdés a) pontja a 31/2009. (XII. 22.) SZMM rendelet 21. § j) pontja szerint módosított szöveg.
-[^437]: A 163. § (2) bekezdése 1/2017. (II. 14.) EMMI rendelet 20. §-ával megállapított szöveg.
+[^468]: A 163. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 95. §-ával megállapított szöveg.
+[^469]: A 163. § (1) bekezdés a) pontja a 31/2009. (XII. 22.) SZMM rendelet 21. § j) pontja szerint módosított szöveg.
+[^470]: A 163. § (2) bekezdése 1/2017. (II. 14.) EMMI rendelet 20. §-ával megállapított szöveg.
