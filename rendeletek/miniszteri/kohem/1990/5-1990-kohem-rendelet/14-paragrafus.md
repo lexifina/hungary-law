@@ -62,6 +62,10 @@ b)[^209]
 
 c) a két- vagy többoldalú nemzetközi egyezményben meghatározott engedéllyel nem rendelkezik a jármű,
 
+## a közúti forgalomban való részvételt megtilthatja és szabálysértési eljárást kezdeményezhet.
+
+(14)[^210] E § rendelkezései alapján a közúti ellenőrzés keretében meghozandó döntéseket a közlekedési hatóság eljáró tagja hozza meg.
+
 [^191]: A 14. § és alcíme a 43/2001. (XII. 18.) KöViM rendelet 6. §-ával megállapított szöveg.
 [^192]: A 14. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^193]: A 14. § (2) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
@@ -81,3 +85,4 @@ c) a két- vagy többoldalú nemzetközi egyezményben meghatározott engedélly
 [^207]: A 14. § (13) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
 [^208]: Lásd az 1980. évi 3. törvényerejű rendelettel kihirdetett, az 1968. évi november hó 8. napján, Bécsben aláírásra megnyitott Közúti Közlekedési Egyezmény 5. függeléke.
 [^209]: A 14. § (13) bekezdésének b) pontját a 44/2007. (IV. 4.) GKM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^210]: A 14. § (14) bekezdését a 36/2017. (IX. 18.) NFM rendelet 29. §-a iktatta be.
