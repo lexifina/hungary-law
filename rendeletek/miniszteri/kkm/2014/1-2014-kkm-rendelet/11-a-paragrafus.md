@@ -1,4 +1,4 @@
-11/A. §[^2] (1) A Pálfi István-díj azoknak a személyeknek adományozható, akik tevékenységükkel kiemelkedő módon hozzájárultak az európai regionális együttműködés fejlődéséhez.
+11/A. §[^5] (1) A Pálfi István-díj azoknak a személyeknek adományozható, akik tevékenységükkel kiemelkedő módon hozzájárultak az európai regionális együttműködés fejlődéséhez.
 
 (2) A díj évente egy magyar állampolgár és egy külföldi állam állampolgára részére adományozható.
 
@@ -10,4 +10,4 @@
 
 (6) A díjátadás időpontját – a 3. § (1) bekezdésben foglalt határidő figyelembevételével – minden évben a külgazdasági és külügyminiszter határozza meg, amelyet a honlapján közzétesz, továbbá arról legalább a díjátadást megelőző 90 nappal közvetlenül is értesíti a 3. § (1) bekezdése alapján kezdeményezésre jogosultakat.
 
-[^2]: A 11/A. §-t a 3/2016. (IV. 21.) KKM rendelet 2. §-a iktatta be.
+[^5]: A 11/A. §-t a 3/2016. (IV. 21.) KKM rendelet 2. §-a iktatta be.
