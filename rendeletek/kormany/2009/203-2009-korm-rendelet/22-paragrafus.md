@@ -1,4 +1,4 @@
-22. § (1)[^12] Az egészségi alkalmasság vizsgálatát és véleményezését – a tanúsító szervezet nevében eljáró – a (2) bekezdésben előírt ismeretekkel rendelkező, a közlekedési hatóság által nyilvántartásba vett orvos, illetve a (4) bekezdésben előírt feltételeket teljesítő pszichológus folytatja le.
+22. § (1)[^13] Az egészségi alkalmasság vizsgálatát és véleményezését – a tanúsító szervezet nevében eljáró – a (2) bekezdésben előírt ismeretekkel rendelkező, a közlekedési hatóság által nyilvántartásba vett orvos, illetve a (4) bekezdésben előírt feltételeket teljesítő pszichológus folytatja le.
 
 (2) A vizsgálatot végző vagy véleményező orvosnak rendelkeznie kell
 
@@ -16,4 +16,4 @@ b) ismernie kell a vasúti munkavégzés pszichés és mentális követelményei
 
 (5) A vizsgálatot végző vagy véleményező orvos és a közreműködő pszichológus nem lehet a vizsgált személy Polgári Törvénykönyv szerinti közeli hozzátartozója.
 
-[^12]: A 22. § (1) bekezdése a 324/2012. (XI. 16.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^13]: A 22. § (1) bekezdése a 324/2012. (XI. 16.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

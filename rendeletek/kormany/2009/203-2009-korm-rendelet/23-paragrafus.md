@@ -20,6 +20,6 @@ c) a tevékenység végzésére vonatkozó, külön jogszabályban előírt jogo
 
 d) a foglalkozástól jogerősen eltiltották.
 
-(3)[^13] A nyilvántartás az (1) bekezdés b)–e) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3)[^14] A nyilvántartás az (1) bekezdés b)–e) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-[^13]: A 23. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 16. §-a iktatta be.
+[^14]: A 23. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 16. §-a iktatta be.

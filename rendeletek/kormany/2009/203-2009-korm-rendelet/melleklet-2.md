@@ -174,6 +174,8 @@
 
 | Egyéb vasúti járművezető | Teher-vágánygépkocsi vagy szolgálati vonat vontatójárművének felelős vezetője. |
 
+| Metróállomási diszpécser – járművezető (JÁDI) | A rendelkezésre álló technikai eszközök segítségével irányítja és ellenőrzi az állomás utasforgalmát, üzemelteti a felügyelete alá tartozó mozgólépcsőket, lifteket és berendezéseket. Kirendelés esetén járművezetői feladatokat lát el. |
+
 ## c) Milleniumi földalatti vasút
 
 | Forgalmi szolgálattevő | Forgalmi szolgálattevő vágánykapcsolatos állomásokon teljesít szolgálatot. Helyi üzem esetében kezeli a jelző- és vasútbiztosító berendezést, valamint átruházott jogkör esetében a kezelési körzetében irányítja a vonatforgalmat. |
@@ -324,8 +326,6 @@
 
 ## a) Földalatti vasúti pályahálózat (metró)
 
-| Központi forgalmi menetirányító | A vonal forgalmának egyszemélyi felelős irányítója, aki a rendelkezésére álló technikai eszközök és berendezések segítségével irányítja és ellenőrzi a vonatok forgalmának biztonságos és menetrendszerű lebonyolítását. |
-
 | Központi utasforgalom-irányító diszpécser (KUD) | A központi utasforgalom-irányító diszpécser (KUD) az állomások forgalmi jellegű távfelügyeleti feladatait látja el, a rendelkezésére álló technikai berendezésein keresztül. Ellenőrzi és irányítja az állomási diszpécserek munkáját, közvetlen felettese a központi forgalmi menetirányító. |
 
 | Műszakvezető diszpécser | Állomási dolgozók szolgálati elöljárója, rendkívüli esetben a Központi forgalmi menetirányító (KFM) megbízottjaként helyszíni feladatok ellátására kirendelhető. |
@@ -358,7 +358,7 @@
 
 | Fordítókorong-kezelő | A fordítókorong üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása, a csörlő működtetése. |
 
-2. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^25]
+2. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^27]
 
 ## Egészségi alkalmasságot kizáró, korlátozó állapotok, fogyatékosságok és betegségek előzetes egészségi alkalmassági vizsgálatok során (BNO X.)
 
@@ -550,4 +550,4 @@ c) sérülés utáni – a munkakör ellátását akadályozó funkciózavart ok
 
 (16) Fertőző betegségek (B2000-B2400; B1500-B1990; A5100-A5390; D8000-D8990)
 
-[^25]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 13. § a) pontjával megállapított szöveg.
+[^27]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 13. § a) pontjával megállapított szöveg.
