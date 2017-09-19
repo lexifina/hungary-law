@@ -1,6 +1,6 @@
 ## Járványügyi érdekből kiemelt munkakörök, tevékenységek
 
-## M804497_0
+## 7K27409M_0
 
 | Kiemelt munkakörök, tevékenységek | A vizsgálatok köre |
 
@@ -8,7 +8,7 @@
 
 | 1. | Egészségügyi intézményekben az újszülöttek, koraszülöttek, csecsemő- és gyermekbetegek ellátásával kapcsolatos valamennyi munkakör | + | + | + | + |
 
-| 2. | A bölcsődékben, óvodákban, csecsemő- és gyermekotthonokban a csecsemők, illetve a gyermekek ellátásával kapcsolatos valamennyi munkakör; gyermekjóléti és gyermekvédelmi intézményekben, családi-napközi otthon, házi gyermekfelügyelet, átmeneti otthon, nevelőszülői, helyettes szülői ellátásban a gyermekek ellátásával kapcsolatos valamennyi munkakör | + | + | + | + |
+| 2. | A bölcsődei ellátást nyújtó intézményekben, szolgáltatóknál, napközbeni gyermekfelügyeleti szolgáltatásnál, óvodákban, csecsemő- és gyermekotthonokban a csecsemők, illetve a gyermekek ellátásával kapcsolatos valamennyi munkakör; gyermekjóléti és gyermekvédelmi intézményekben, átmeneti otthon, nevelőszülői, helyettes szülői ellátásban a gyermekek ellátásával kapcsolatos valamennyi munkakör | + | + | + | + |
 
 | 3. | Az anyatejgyűjtő állomásokon valamennyi munkakör és anyatejet adó nők | + | + | + | + |
 
@@ -30,7 +30,7 @@
 
 ## ** Az élelmiszerekről szóló 1995. évi XC. törvény fogalommeghatározása szerinti résztevékenységeket foglalja magában.
 
-2. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^107]
+2. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^108]
 
 Egészségügyi nyilatkozat
 
@@ -96,4 +96,4 @@ _______
 
 * Tanulók esetében a szakmai gyakorlat megkezdése előtt 1 héten belül töltendő ki.
 
-[^107]: A 2. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének c) pontja, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^108]: A 2. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének c) pontja, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.
