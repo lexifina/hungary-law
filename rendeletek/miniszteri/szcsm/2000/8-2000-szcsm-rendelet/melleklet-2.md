@@ -30,11 +30,11 @@
 
 | 2. Házi segítségnyújtás | 14. Gondozási központ | 26. Gyermekjóléti szolgálat |
 
-| 3. Családsegítés | 15. Fogyatékosok nappali intézménye | 27. Bölcsőde |
+| 3. Családsegítés | 15. Fogyatékosok nappali intézménye | 27. Bölcsődei ellátás a) Bölcsőde b) Mini bölcsőde c) Munkahelyi bölcsőde d) Családi bölcsőde |
 
-| 4. Idősek otthona | 16. Szenvedélybetegek nappali intézménye | 28. Családi napközi |
+| 4. Idősek otthona | 16. Szenvedélybetegek nappali intézménye | 28. |
 
-| 5. Pszichiátriai betegek otthona | 17. Pszichiátriai betegek nappali intézménye | 29. Házi gyermekfelügyelet |
+| 5. Pszichiátriai betegek otthona | 17. Pszichiátriai betegek nappali intézménye | 29. Napközbeni gyermekfelügyelet |
 
 | 6. Szenvedélybetegek otthona | 18. Nappali melegedő | 30. Helyettes szülő |
 

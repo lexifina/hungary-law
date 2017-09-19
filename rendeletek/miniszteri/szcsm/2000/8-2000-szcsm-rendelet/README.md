@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-8-20-85
 | 2014-03-15 | 2000-8-20-85.7 | 16/2003. (IV. 9.) ESZCSM rendelet |
 | 2015-09-01 | 2000-8-20-85.8 | 39/2015. (VIII. 28.) EMMI rendelet |
 | 2017-01-01 | 2000-8-20-85.9 | 12/2006. (XII. 27.) SZMM rendelet |
+| 2017-09-19 | 2000-8-20-85.10 | 16/2003. (IV. 9.) ESZCSM rendelet |
