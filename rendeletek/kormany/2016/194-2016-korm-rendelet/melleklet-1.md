@@ -1,6 +1,6 @@
 ## 3. §[^1]
 
-1. melléklet a 194/2016. (VII. 13.) Korm. rendelethez
+1. melléklet a 194/2016. (VII. 13.) Korm. rendelethez[^2]
 
 |  | A |
 
@@ -52,7 +52,7 @@
 
 | 24 | 48 Keszőhidegkút-Gyönk – Tamási |
 
-| 25 | 49 Tamási – Lepsény |
+| 25 | 49 Lepsény – Mezőhídvég |
 
 | 26 | 50 Dombóvár – Bátaszék |
 
@@ -191,3 +191,4 @@
 | 93 | 392 Bácsalmás – Csikéria |
 
 [^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 259/2017. (IX. 11.) Korm. rendelet 11. §-a szerint módosított szöveg.
