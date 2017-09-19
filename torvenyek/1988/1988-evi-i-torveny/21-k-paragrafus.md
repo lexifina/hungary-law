@@ -1,6 +1,14 @@
 ## A Nemzeti Tengelysúlymérő Rendszer
 
-21/K. § (1) A közlekedési hatóság a közúti forgalom biztonsága érdekében a közúti járművek megengedett legnagyobb össztömegére és tengelyterhelésére vonatkozó rendelkezések megtartásával kapcsolatos ellenőrzési feladatok támogatására, az ellenőrzésre való kiválasztás előszűrése érdekében Nemzeti Tengelysúlymérő Rendszert (a továbbiakban: tengelysúlymérő-rendszer) működtet.
+21/K. § (1) A közlekedési hatóság
+
+a) az alábbi célok érdekében működteti a Nemzeti Tengelysúlymérő Rendszert:
+
+aa) a közúti közlekedés ellenőrzésének támogatására, az ellenőrzésre való kiválasztásra, ideértve az ezekhez kapcsolódó kockázatértékelési tevékenységet is, valamint
+
+ab) a 20. § (1) bekezdésében, továbbá a 21. § (1) bekezdés d) és i) pontjában meghatározott felelősség megállapítására;
+
+b) az a) pontban meghatározottakkal összefüggésben az állami adó- és vámhatóság jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatást teljesít.
 
 (1a) Az (1) bekezdésben meghatározott Nemzeti Tengelysúlymérő Rendszer keretében végzett mérés eredményét befolyásolni, így különösen a mérőberendezést e célból kikerülni tilos.
 
@@ -115,5 +123,7 @@ a) ha bírság kiszabására nem került sor – a (10) bekezdésben meghatároz
 b) bírság kiszabása esetén az eljárás végleges befejezésétől számított,
 
 a 20. § (4) bekezdésben foglalt határidő lejártát követően törölni kell.
+
+(10) A (3) bekezdés szerinti adatokat abban az esetben, ha jogsértés megállapítására nem kerül sor, a (2) bekezdésben meghatározott adatátadástól számított 30 napon belül törölni kell.
 
 (11) A közlekedési hatóság jogosult a külföldi hatósági jelzéssel ellátott jármű rendszámát a vélelmezett szabályszegés elkövetésének helyét és idejét, valamint a helymeghatározás egyéb jellemző adatait, az ellenőrzés képi felvételeit az ellenőrzés időpontjától számított 2 évig megőrizni, ha helyszíni ellenőrzésre nem került sor, illetve a jármű üzembentartó személyének automatizált lekérdezés útján történő megállapítására nincsen mód.

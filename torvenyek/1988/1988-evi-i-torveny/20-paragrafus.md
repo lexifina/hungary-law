@@ -128,6 +128,6 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 
 (15) Amennyiben az eljáró hatóság a közúti ellenőrzés során megállapítja, hogy a jármű vezetőjének, vagy üzemben tartójának közigazgatási bírság tartozása áll fenn, a (7)–(10) bekezdésekben foglaltak szerint kell eljárni.
 
-(16) Amennyiben az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés h) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7)–(10) bekezdésben foglaltak szerint kell eljárni.
+(16) Ha az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés d), h) vagy i) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, vagy a megindított közigazgatási eljárásban az üzembentartó személye még nem került megállapításra, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7)–(10) bekezdésben foglaltak szerint kell eljárnia.
 
 (17)

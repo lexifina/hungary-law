@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2017-02-22 | 2015. évi CCXXV. törvény | 1988-1-00-00.91 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 1988-1-00-00.92 |
 | 2017-06-23 | 2017. évi LXIII. törvény | 1988-1-00-00.93 |
+| 2017-09-19 | 2017. évi LXIII. törvény | 1988-1-00-00.94 |
