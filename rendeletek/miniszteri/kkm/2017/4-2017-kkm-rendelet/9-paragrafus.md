@@ -1,4 +1,4 @@
-## 8. § Ha a költségtérítés-előleg folyósítását követően bebizonyosodik, hogy a kérelemben megjelölt indok nem felel meg a valóságnak vagy a kihelyezett az összeget rendeltetésétől eltérően használta fel, a kérelmező kihelyezett köteles a folyósított költségtérítés-előlegnek a költségtérítés-előleg odaítélésétől kezdve az odaítéléssel érintett naptári félév első napján érvényes jegybanki alapkamattal megegyező mértékű kamattal megnövelt összegét az azt folyósító szerv hivatalos felszólítását követő öt munkanapon belül visszautalni a külképviselet részére.
+## 8. §[^2] Ha a költségtérítés-előleg folyósítását követően bebizonyosodik, hogy a kérelemben megjelölt indok nem felel meg a valóságnak vagy a kihelyezett az összeget rendeltetésétől eltérően használta fel, a kérelmező kihelyezett köteles a folyósított költségtérítés-előlegnek a költségtérítés-előleg odaítélésétől kezdve az odaítéléssel érintett naptári félév első napján érvényes jegybanki alapkamattal megegyező mértékű kamattal megnövelt összegét az azt folyósító szerv hivatalos felszólítását követő öt munkanapon belül visszautalni a kihelyező szerv által megadott fizetési számlaszámra.
 
 ## 4. Gépkocsivásárlási kölcsön
 
@@ -15,3 +15,5 @@
 (6) A kihelyezett a kérelmet a külképviselet vezetőjének nyújtja be, aki a kérelmet a kihelyező szerv hivatali szervezete vezetőjének továbbítja.
 
 (7) A kihelyező szerv hivatali szervezetének vezetője a kérelmet beérkezése napjától számított 30 napon belül elbírálja.
+
+[^2]: A 8. § a 13/2017. (IX. 18.) KKM rendelet 3. § a) pontja szerint módosított szöveg.
