@@ -6760,6 +6760,4 @@ Ellenőrző vizsgálat céljára székletminta a járványügyi feladatok ellát
 
 Folyamatos fertőtlenítés szükséges.
 
-3. Teendők a beteg környezetében
-
 [^191]: Az 1. számú melléklet az 54/2015. (XI. 24.) EMMI rendelet 9. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 19–71. pontja szerint módosított szöveg.
