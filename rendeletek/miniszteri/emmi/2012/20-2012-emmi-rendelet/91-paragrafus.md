@@ -6,7 +6,7 @@
 
 a) a gyermekek nevét és óvodai jelét,
 
-b) a fiúk és lányok számának összesített adatait, ezen belül megadva a három év alatti, a három–négyéves, a négy–ötéves, az öt–hatéves a hat–hétéves gyermekek számát, a sajátos nevelési igényű gyermekek számát, továbbá azon gyermekek számát, akik bölcsődések voltak,
+b)[^171] a fiúk és lányok számának összesített adatait, ezen belül megadva a három év alatti, a három–négyéves, a négy–ötéves, az öt–hatéves a hat–hétéves gyermekek számát, a sajátos nevelési igényű gyermekek számát, továbbá azon gyermekek számát, akik bölcsődei ellátásban részesültek,
 
 c) a nevelési évben tankötelessé váló gyermekek nevét,
 
@@ -22,14 +22,15 @@ fb) a szervezési feladatokat,
 
 fc) a tervezett programokat és azok időpontjait,
 
-fd)[^171] a gyermekek neveléséhez szükséges, a teljes óvodai életet magában foglaló tevékenységek, foglalkozások keretében az óvoda pedagógiai programjában meghatározott tevékenységi formák tartalmi elemeit,
+fd)[^172] a gyermekek neveléséhez szükséges, a teljes óvodai életet magában foglaló tevékenységek, foglalkozások keretében az óvoda pedagógiai programjában meghatározott tevékenységi formák tartalmi elemeit,
 
 fe) az értékeléseket,
 
-g)[^172] a hivatalos csoportlátogatásokat, a látogatás célját, időpontját, a látogató nevét és beosztását, a látogatás szempontrendszerét, az eredményt,
+g)[^173] a hivatalos csoportlátogatásokat, a látogatás célját, időpontját, a látogató nevét és beosztását, a látogatás szempontrendszerét, az eredményt,
 
-h)[^173] a feljegyzést a csoport életéről.
+h)[^174] a feljegyzést a csoport életéről.
 
-[^171]: A 91. § (3) bekezdés f) pont fd) alpontja a 22/2013. (III. 22.) EMMI rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^172]: A 91. § (3) bekezdés g) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^173]: A 91. § (3) bekezdés h) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^171]: A 91. § (3) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 21. § b) pontja szerint módosított szöveg.
+[^172]: A 91. § (3) bekezdés f) pont fd) alpontja a 22/2013. (III. 22.) EMMI rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^173]: A 91. § (3) bekezdés g) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^174]: A 91. § (3) bekezdés h) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (3) bekezdésével megállapított szöveg.

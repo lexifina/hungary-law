@@ -2,7 +2,7 @@
 
 ## XIV. Fejezet
 
-## A FELNŐTTOKTATÁSRA VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK[^257]
+## A FELNŐTTOKTATÁSRA VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK[^258]
 
 ## 55. A felnőttoktatásra vonatkozó rendelkezések
 
@@ -18,7 +18,7 @@
 
 (6) A felnőttoktatásban résztvevő tanuló esetében az e rendeletben foglaltakat az alábbi eltérésekkel kell alkalmazni:
 
-a)[^258] a tanuló tudását – ha az iskola helyi tanterve eltérően nem rendelkezik – a tanítási év végén vizsgán kell értékelni,
+a)[^259] a tanuló tudását – ha az iskola helyi tanterve eltérően nem rendelkezik – a tanítási év végén vizsgán kell értékelni,
 
 b) az elméleti tanítási órákat délelőtt vagy délután, vagy ha nem áll rendelkezésre megfelelő számú tanterem, délelőtti és délutáni váltásban kell szervezni, e beosztások azonban a helyi sajátosságok alapján módosíthatók,
 
@@ -30,10 +30,10 @@ c) a tanulmányok alatti vizsga reggel nyolc óra előtt is elkezdhető és tize
 
 (9) Megszűnik a tanuló tanulói jogviszonya, ha a szorgalmi időszakban húsz tanóránál többet mulasztott igazolatlanul.
 
-(10)[^259] Ha a tanuló a tanórai foglalkozások több mint ötven százalékáról távol maradt, félévkor és év végén minden esetben osztályozó vizsgán köteles számot adni tudásáról. Az osztályozó vizsga alól felmentés nem adható. Az osztályozó vizsga helyéről és időpontjáról a vizsgát legalább tíz nappal megelőzően értesíteni kell a vizsgát szervező intézmény feladatellátási helye szerint illetékes járási hivatalt.
+(10)[^260] Ha a tanuló a tanórai foglalkozások több mint ötven százalékáról távol maradt, félévkor és év végén minden esetben osztályozó vizsgán köteles számot adni tudásáról. Az osztályozó vizsga alól felmentés nem adható. Az osztályozó vizsga helyéről és időpontjáról a vizsgát legalább tíz nappal megelőzően értesíteni kell a vizsgát szervező intézmény feladatellátási helye szerint illetékes járási hivatalt.
 
 (11) Amennyiben a tanuló az iskola két vagy több évfolyamára megállapított tanulmányi követelményeket egy tanévben vagy az előírtnál rövidebb idő alatt teljesíti, a járási hivatal megbízottja megfigyelőként részt vesz, egyéb esetben részt vehet az osztályozó vizsgán.
 
-[^257]: A XIV. fejezet címe a 20/2016. (VIII. 24.) EMMI rendelet 28. § 9. pontja szerint módosított szöveg.
-[^258]: A 143. § (6) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 28. § 10. pontja szerint módosított szöveg.
-[^259]: A 143. § (10) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^258]: A XIV. fejezet címe a 20/2016. (VIII. 24.) EMMI rendelet 28. § 9. pontja szerint módosított szöveg.
+[^259]: A 143. § (6) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 28. § 10. pontja szerint módosított szöveg.
+[^260]: A 143. § (10) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 5. §-ával megállapított szöveg.

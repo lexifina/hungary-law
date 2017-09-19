@@ -1,4 +1,4 @@
-## 137/A. §[^246] Az egészségügyi és pedagógiai célú habilitáció, rehabilitáció a szakértői bizottság szakértői véleményében meghatározott fejlesztési területekre és a fejlesztéshez szükséges szakemberre vonatkozó javaslat figyelembevételével a sajátos nevelési igényű gyermek, tanuló egyéni szükségleteinek támogatására, az akadályok leküzdésére, új funkciók kialakítására és a környezeti feltételek optimalizálására irányuló kötelező foglalkozás.
+## 137/A. §[^247] Az egészségügyi és pedagógiai célú habilitáció, rehabilitáció a szakértői bizottság szakértői véleményében meghatározott fejlesztési területekre és a fejlesztéshez szükséges szakemberre vonatkozó javaslat figyelembevételével a sajátos nevelési igényű gyermek, tanuló egyéni szükségleteinek támogatására, az akadályok leküzdésére, új funkciók kialakítására és a környezeti feltételek optimalizálására irányuló kötelező foglalkozás.
 
 138. § (1) Az Nkt. 6. mellékletében a kötelező egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozás megszervezésére meghatározott heti foglalkoztatási időkeretet abban az esetben, ha a tanulót külön osztályban tanítják, osztályonként kell biztosítani.
 
@@ -10,4 +10,4 @@
 
 (5) Az általános iskola felső tagozatán – a nevelőtestület döntése alapján – a habilitációs, rehabilitációs tanórai foglalkozások legfeljebb ötven, a középfokú iskolában legfeljebb hetvenöt százaléka a sajátos nevelési igényű tanulók tehetséggondozására, a tantárgyi követelmények eredményes teljesítését szolgáló felzárkóztatásra is fordítható. A nevelőtestület az erre irányuló döntését félévenként köteles felülvizsgálni, és a tanuló fejlődésének ismeretében megerősíteni vagy módosítani.
 
-[^246]: A 137/A. §-t az 53/2016. (XII. 29.) EMMI rendelet 6. §-a iktatta be.
+[^247]: A 137/A. §-t az 53/2016. (XII. 29.) EMMI rendelet 6. §-a iktatta be.

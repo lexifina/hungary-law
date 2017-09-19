@@ -1,4 +1,4 @@
-125. § (1)[^215] Egyedi elnevezésként bármilyen megnevezés adható, ha az nem megtévesztő vagy a használatát más jogszabály nem tiltja. Az egyedi elnevezés a köznevelési intézmény hivatalos nevében az ellátott feladatokat tükröző jogszabály szerinti megnevezések előtt áll, és elősegíti a köznevelési intézmény azonosítását és más, azonos vagy hasonló tevékenységet folytató intézménytől való megkülönböztetését.
+125. § (1)[^216] Egyedi elnevezésként bármilyen megnevezés adható, ha az nem megtévesztő vagy a használatát más jogszabály nem tiltja. Az egyedi elnevezés a köznevelési intézmény hivatalos nevében az ellátott feladatokat tükröző jogszabály szerinti megnevezések előtt áll, és elősegíti a köznevelési intézmény azonosítását és más, azonos vagy hasonló tevékenységet folytató intézménytől való megkülönböztetését.
 
 (2) Egyedi elnevezésként
 
@@ -16,7 +16,7 @@ f) fenntartó neve,
 
 g) mese-, mitológiai szereplő, irodalmi alak neve,
 
-h)[^216] kifejezés vagy mozaikszó
+h)[^217] kifejezés vagy mozaikszó
 
 ## adható.
 
@@ -28,5 +28,5 @@ h)[^216] kifejezés vagy mozaikszó
 
 (6) A szakképző intézmények a 123. § (2) bekezdés a)–c) pontja szerinti nevében megkülönböztető elnevezésként feltüntethető a nemzetgazdaságnak az az ága, amelynek keretében az iskolai oktatás folyik.
 
-[^215]: A 125. § (1) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
-[^216]: A 125. § (2) bekezdés h) pontja a 45/2014. (X. 27.) EMMI rendelet 29. §-ával megállapított szöveg.
+[^216]: A 125. § (1) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
+[^217]: A 125. § (2) bekezdés h) pontja a 45/2014. (X. 27.) EMMI rendelet 29. §-ával megállapított szöveg.
