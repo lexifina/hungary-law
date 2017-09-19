@@ -1,4 +1,4 @@
-## 15–16. §[^17]
+## 15–16. §[^13]
 
 ## 5. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 14. § (2) és (5) bekezdés 2018. március 2-án lép hatályba.
 
-[^17]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
