@@ -156,11 +156,11 @@
 
 | 46. | Házi gyermekorvosok száma | Házi gyermekorvosok száma | fő | éves | TeIR – KSH Területi Statisztikai Adatok Rendszere |
 
-| 47. | Bölcsődébe beírt gyermekek száma | Bölcsődébe beírt gyermekek száma | fő | éves | TeIR – KSH Területi Statisztikai Adatok Rendszere |
+| 47. | Bölcsődébe, mini bölcsődébe beírt gyermekek száma | Bölcsődébe, mini bölcsődébe e beírt gyermekek száma | fő | éves | TeIR – KSH Területi Statisztikai Adatok Rendszere |
 
-| 48. | Bölcsődék száma (önkormányzati, üzemi, magán stb.) | Bölcsődék száma (önkormányzati, üzemi, magán stb.) | db | éves | TeIR – KSH Területi Statisztikai Adatok Rendszere |
+| 48. | Bölcsődei ellátást nyújtó intézmények száma (önkormányzati, üzemi, magán stb.) | Bölcsődei ellátást nyújtó intézmények száma (önkormányzati, üzemi, magán stb.) | db | éves | TeIR – KSH Területi Statisztikai Adatok Rendszere |
 
-| 49. | Családi napköziben engedélyezett férőhelyek száma | Családi napköziben engedélyezett férőhelyek száma december 31-én (megjegyzés: az adat 2008. évtől áll rendelkezésre a KSH Területi Statisztikai Adatok Rendszerében) | db | éves | TeIR – KSH Területi Statisztikai Adatok Rendszere |
+| 49. | Családi bölcsődében, munkahelyi bölcsődében engedélyezett férőhelyek száma | Családi bölcsődében, munkahelyi bölcsődében engedélyezett férőhelyek száma december 31-én (megjegyzés: az adat 2008. évtől áll rendelkezésre a KSH Területi Statisztikai Adatok Rendszerében) | db | éves | TeIR – KSH Területi Statisztikai Adatok Rendszere |
 
 | 50. | Nappali ellátásban részesülő fogyatékos személyek száma | Nappali ellátásban részesülő fogyatékos személyek száma | fő | éves | TeIR – KSH Területi Statisztikai Adatok Rendszere |
 

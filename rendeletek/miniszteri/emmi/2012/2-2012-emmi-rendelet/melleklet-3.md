@@ -1,4 +1,4 @@
-## A helyi esélyegyenlőségi program helyzetelemzésének tartalmi elemei[^2]
+## A helyi esélyegyenlőségi program helyzetelemzésének tartalmi elemei[^3]
 
 ## 1. Jogszabályi háttér bemutatása
 
@@ -158,7 +158,7 @@
 
 ## d) hátrányos megkülönböztetés a foglalkoztatás területén (pl. bérkülönbség)
 
-## 5.2 A munkaerő-piaci és családi feladatok összeegyeztetését segítő szolgáltatások (pl. bölcsődei, családi napközi, óvodai férőhelyek, férőhelyhiány; közintézményekben rugalmas munkaidő, családbarát munkahelyi megoldások stb.)
+## 5.2[^4] A munkaerő-piaci és családi feladatok összeegyeztetését segítő szolgáltatások (pl. bölcsődei, családi bölcsődei, munkahelyi bölcsődei, óvodai férőhelyek, férőhelyhiány; közintézményekben rugalmas munkaidő, családbarát munkahelyi megoldások stb.)
 
 ## 5.3 Családtervezés, anya- és gyermekgondozás területe
 
@@ -302,4 +302,5 @@ A helyi esélyegyenlőségi program intézkedési terve
 
 | … |  |  |  |  |  |  |  |  |  |  |
 
-[^2]: A tartalmi elemek listájának 3.1-től 7.4-ig tartó pontjai alatt szereplő felsorolások példálózó jelleggel kerültek feltüntetésre.
+[^3]: A tartalmi elemek listájának 3.1-től 7.4-ig tartó pontjai alatt szereplő felsorolások példálózó jelleggel kerültek feltüntetésre.
+[^4]: A 2. melléklet 5. pont 5.2. alpontja a 19/2017. (IX. 18.) EMMI rendelet 20. § d) pontja szerint módosított szöveg.
