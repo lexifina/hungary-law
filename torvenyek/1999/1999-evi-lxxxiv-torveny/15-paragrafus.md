@@ -12,7 +12,7 @@ d) a 8/A. §-ban megjelölt adatokat a parkolási igazolványra való jogosults�
 
 e) a 9/B. § (1) bekezdésében megjelölt adatokat a jármű forgalomból történő végleges kivonásától számított öt évig;
 
-f) a 9/C. §-ban megjelölt adatokat az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára való jogosultság megszűnését követő 2 évig.
+f) a 9/C. §-ban megjelölt adatokat az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre való jogosultság megszűnését követő 2 évig.
 
 (2) Az okmánytár iratait a nyilvántartó az (1) bekezdésben megjelölt határidőt követő öt évig kezeli.
 

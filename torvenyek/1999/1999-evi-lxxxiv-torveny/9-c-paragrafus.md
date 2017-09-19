@@ -1,11 +1,11 @@
-9/C. § (1) Az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása tartalmazza
+9/C. § (1) Az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása tartalmazza
 
 a) a jármű forgalmi rendszámát,
 
-b) a jármű azonosító és műszaki adatait,
+b) a jármű azonosító- és műszaki adatait,
 
-c) a díjmentes használat jogcímének megjelölését, továbbá
+c) a díjmentes használat vagy közútkezelői hozzájárulás beszerzése alóli mentesség jogcímének megjelölését, továbbá
 
-d) a díjmentes használati jogosultság kezdőidőpontját és annak időtartamát.
+d) a díjmentes használati, illetve közútkezelői hozzájárulás nélküli közlekedési jogosultság kezdőidőpontját és annak időtartamát.
 
-(2) A nyilvántartó az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára való jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett gépjármű rendszámadatát összeveti a járműnyilvántartás 9. § (1) bekezdés szerinti adataival.
+(2) A nyilvántartó az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára való, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel történő közlekedési jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett jármű rendszámadatát összeveti a járműnyilvántartás 9. § (1) bekezdése szerinti adatokkal.

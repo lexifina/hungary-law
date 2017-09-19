@@ -8,7 +8,7 @@
 
 3. Okmánytár: a nyilvántartás alapiratainak, a nyilvántartásban szereplő adatok változását igazoló okmányok, a cserélt, leadott és a visszavont okmányok nyilvántartása.
 
-4.
+4. Kerékpárszállító eszköz: minden olyan, a járműre ideiglenes jelleggel felszerelhető kerékpár vagy más dolog szállítására alkalmas tartószerkezet, amely részben vagy egészben kitakarja a jármű hatósági jelzését vagy világító, fényjelző berendezését.
 
 5. Járműazonosító adat: a jármű hatósági jelzése (rendszám) és alvázszáma.
 
@@ -32,4 +32,4 @@
 
 15. Parkolási igazolvány nyilvántartása: az igazolvány használatára a mozgásában korlátozott személy parkolási igazolványáról szóló kormányrendeletben meghatározott jogosultak, valamint az igazolvány adatait tartalmazó közhiteles hatósági elektronikus nyilvántartás.
 
-16. Útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, valamint az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett elektronikus nyilvántartás.
+16. Útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet, valamint a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett elektronikus nyilvántartás.

@@ -14,4 +14,4 @@ e) a parkolási igazolvány nyilvántartásból;
 
 f) az előzetes eredetiségvizsgálati nyilvántartásból;
 
-g) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásából.
+g) az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásából.
