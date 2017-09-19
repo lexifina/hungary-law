@@ -1,0 +1,3 @@
+## 3. § Az R. 26. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Amennyiben az előzetes, időszakos vagy soron kívüli vizsgálat alapján hozott határozattal a munkáltató vagy a munkavállaló nem ért egyet, a határozat ellen jogorvoslattal élhet és kérheti az alkalmassági felülvizsgálat lefolytatását. A vasúti járművezetői munkakörre való előzetes egészségügyi alkalmassággal kapcsolatos döntéssel szemben bírósági felülvizsgálat kezdeményezhető. Az egyéb, e rendelet hatálya alá tartozó előzetes, illetve az időszakos és soron kívüli egészségügyi alkalmasság tárgyában hozott határozat ellen fellebbezés nyújtható be. A munkáltató és a munkavállaló a jogorvoslati eljárás kezdeményezésének tényéről egymást kölcsönösen tájékoztatja.”

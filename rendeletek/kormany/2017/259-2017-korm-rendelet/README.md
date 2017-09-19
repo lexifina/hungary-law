@@ -1,0 +1,9 @@
+# 259/2017. (IX. 11.) Korm. rendelet
+
+egyes vasúti közlekedési tárgyú kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-259-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-09-19 | 2017-259-20-22.1 | 259/2017. (IX. 11.) Korm. rendelet |
