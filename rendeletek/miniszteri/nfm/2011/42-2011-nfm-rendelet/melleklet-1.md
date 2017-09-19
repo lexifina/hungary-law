@@ -1,8 +1,8 @@
 ## 17. § Hatályát veszti a közúti közlekedéssel kapcsolatos egyes bírságok kivetésének részletes szabályairól és a bírságok felhasználásának rendjéről szóló 45/2005. (VI. 23.) GKM rendelet, valamint a közúti közlekedéssel kapcsolatos egyes bírságok kivetésének részletes szabályairól és a bírságok felhasználásának rendjéről szóló 45/2005. (VI. 23.) GKM rendelet módosításról szóló 15/2011. (IV. 27.) NFM rendelet.
 
-1. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^17]
+1. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^19]
 
-Az eljáró hatóságok számlaszámai
+## Az eljáró hatóságok számlaszámai
 
 1. A közlekedési hatóság központosított bevételek számla Magyar Államkincstári számlaszáma: 10032000-01040463-00000000.
 
@@ -54,58 +54,58 @@ Az eljáró hatóságok számlaszámai
 
 | 21. | Közlekedési hatóság Pest megyei központosított bevételek számla | 10032000-01040607-00000000 |
 
-4. A Rendőrség Magyar Államkincstár számlaszámai:
+4. Az általános rendőrségi feladatok ellátására létrehozott szerv központosított bírságbeszedési számlaszámai:
 
 |  | A | B |
 
 | 1. | Név | Magyar Államkincstár számlaszáma |
 
-| 2. | Budapesti Rendőr-főkapitányság | 10023002-01451430-00000000 |
+| 2. | BRFK Központosított bírságbevételek | 10023002-01040298-00000000 |
 
-| 3. | Baranya Megyei Rendőr-főkapitányság | 10024003-01451485-00000000 |
+| 3. | Baranya MRFK Központosított bírságbevételek | 10024003-01040023-00000000 |
 
-| 4. | Bács-Kiskun Megyei Rendőr-főkapitányság | 10025004-01451492-00000000 |
+| 4. | Bács-Kiskun MRFK Központosított bírságbevételek | 10025004-01040023-00000000 |
 
-| 5. | Békés Megyei Rendőr-főkapitányság | 10026005-01451502-00000000 |
+| 5. | Békés MRFK Központosított bírságbevételek | 10026005-01040023-00000000 |
 
-| 6. | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság | 10027006-01451519-00000000 |
+| 6. | Borsod-Abaúj-Zemplén MRFK Központosított bírságbevételek | 10027006-01040023-00000000 |
 
-| 7. | Csongrád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
+| 7. | Csongrád MRFK Központosított bírságbevételek | 10028007-01040023-00000000 |
 
-| 8. | Fejér Megyei Rendőr-főkapitányság | 10029008-01451533-00000000 |
+| 8. | Fejér MRFK Központosított bírságbevételek | 10029008-01040023-00000000 |
 
-| 9. | Győr-Moson-Sopron Megyei Rendőr-főkapitányság | 10033001-01451540-00000000 |
+| 9. | Győr-Moson-Sopron MRFK Központosított bírságbevételek | 10033001-01040023-00000000 |
 
-| 10. | Hajdú-Bihar Megyei Rendőr-főkapitányság | 10034002-01451557-00000000 |
+| 10. | Hajdú-Bihar MRFK Központosított bírságbevételek | 10034002-01040023-00000000 |
 
-| 11. | Heves Megyei Rendőr-főkapitányság | 10035003-01451564-00000000 |
+| 11. | Heves MRFK Központosított bírságbevételek | 10035003-01040023-00000000 |
 
-| 12. | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság | 10045002-01451612-00000000 |
+| 12. | Jász-Nagykun-Szolnok MRFK Központosított bírságbevételek | 10045002-01040023-00000000 |
 
-| 13. | Komárom-Esztergom Megyei Rendőr-főkapitányság | 10036004-01451571-00000000 |
+| 13. | Komárom-Esztergom MRFK Központosított bírságbevételek | 10036004-01040023-00000000 |
 
-| 14. | Nógrád Megyei Rendőr-főkapitányság | 10037005-01451588-00000000 |
+| 14. | Nógrád MRFK Központosított bírságbevételek | 10037005-01040023-00000000 |
 
-| 15. | Pest Megyei Rendőr-főkapitányság | 10023002-01451478-00000000 |
+| 15. | Pest MRFK Központosított bírságbevételek | 10023002-01040023-00000000 |
 
-| 16. | Somogy Megyei Rendőr-főkapitányság | 10039007-01451595-00000000 |
+| 16. | Somogy MRFK Központosított bírságbevételek | 10039007-01040023-00000000 |
 
-| 17. | Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányság | 10044001-01451605-00000000 |
+| 17. | Szabolcs-Szatmár-Bereg MRFK Központosított bírságbevételek | 10044001-01040023-00000000 |
 
-| 18. | Tolna Megyei Rendőr-főkapitányság | 10046003-01451629-00000000 |
+| 18. | Tolna MRFK Központosított bírságbevételek | 10046003-01040023-00000000 |
 
-| 19. | Vas Megyei Rendőr-főkapitányság | 10047004-01451636-00000000 |
+| 19. | Vas MRFK Központosított bírságbevételek | 10047004-01040023-00000000 |
 
-| 20. | Veszprém Megyei Rendőr-főkapitányság | 10048005-01451643-00000000 |
+| 20. | Veszprém MRFK Központosított bírságbevételek | 10048005-01040023-00000000 |
 
-| 21. | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
+| 21. | Zala MRFK Központosított bírságbevételek | 10049006-01040023-00000000 |
 
-| 22. | Repülőtéri Rendőr Igazgatóság | 10023002-00290603-00000000 |
+| 22. | Repülőtéri Rendőr Igazgatóság Központosított bírságbevételek | 10023002-01040308-00000000 |
 
-| 23. | Országos Rendőr-főkapitányság célelszámolási számla | 10023002-01451715-30000003 |
+| 23. | ORFK Objektív felelősségen alapuló központosított bírságbevételek | 10032000-01040061-00000000 |
 
 5. A Nemzetgazdasági Minisztérium számlaszáma: 10032000-01460658-00000000
 
 6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10023002-00283494-20000002 Közúti közlekedési bírság letéti számla.
 
-[^17]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított szöveg.
+[^19]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított, a 36/2017. (IX. 18.) NFM rendelet 31. § (3) bekezdése szerint módosított szöveg.

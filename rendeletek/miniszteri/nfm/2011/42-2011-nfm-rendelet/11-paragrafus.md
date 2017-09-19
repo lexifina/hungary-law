@@ -1,3 +1,5 @@
+## kell megküldeni.
+
 ## 4. A központi közlekedési bírságnyilvántartás
 
 11. § (1) A közlekedési hatóság a nyilvántartásban kezelt adatokhoz történő hozzáférést a Kkt. 21/F. § (1) bekezdésében meghatározott, adatátvételre jogosult szervek részére elektronikus úton

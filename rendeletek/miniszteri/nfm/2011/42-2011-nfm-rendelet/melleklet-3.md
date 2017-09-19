@@ -1,6 +1,6 @@
 3. melléklet a 42/2011. (VIII. 11.) NFM rendelethez
 
-Írásbeli tájékoztatás a közigazgatási bírság helyszíni kiszabásáról és az ügyfél nyilatkozata
+## Írásbeli tájékoztatás a közigazgatási bírság helyszíni kiszabásáról és az ügyfél nyilatkozata
 
 1. Az eljáró hatóság megnevezése, ügyszám (azonosító szám).
 
@@ -24,7 +24,7 @@
 
 11. Egyéb intézkedés.
 
-12.[^18] Az ügyfél nyilatkozata
+12.[^20] Az ügyfél nyilatkozata
 
 A szabályszegés elkövetését elismerem, a tájékoztatást megkaptam, a bírságot a helyszínen készpénzben, bankkártyával megfizetem a későbbi befizetéshez készpénz-átutalási megbízást átvettem.
 
@@ -38,4 +38,4 @@ Az eljáró hatóság megnevezése, bélyegzőlenyomata, a hatóság eljáró ta
 
 Az ügyfél által történő átvételt igazoló záradék, az ügyfél aláírása.
 
-[^18]: A 3. melléklet 12. pontja a 47/2012. (VIII. 23.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^20]: A 3. melléklet 12. pontja a 47/2012. (VIII. 23.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.

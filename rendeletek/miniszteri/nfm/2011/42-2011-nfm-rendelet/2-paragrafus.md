@@ -20,6 +20,4 @@ bg) a közterület-felügyelet,
 
 c) az 1. § c)–e) pontja alapján a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben kijelölt közlekedési hatóság
 
-[a továbbiakban az a)–c) pont együtt: eljáró hatóság] jogosult.
-
 [^3]: A 2. § az 1/2017. (I. 3.) NFM rendelet 61. § (1) bekezdésével megállapított szöveg.

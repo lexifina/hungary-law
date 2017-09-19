@@ -1,4 +1,4 @@
-10. §[^15] (1) A hatóság eljáró tagja a Kkt. 20. § (8) és (15) bekezdésében meghatározott esetben a forgalmi engedély, illetve a hatósági jelzés elvételéről átvételi elismervényt ad, amely tartalmazza a jármű azonosító adatait, az engedély számát és az elvétel okát.
+10. §[^17] (1) A hatóság eljáró tagja a Kkt. 20. § (8) és (15) bekezdésében meghatározott esetben a forgalmi engedély, illetve a hatósági jelzés elvételéről átvételi elismervényt ad, amely tartalmazza a jármű azonosító adatait, az engedély számát és az elvétel okát.
 
 (2) Az átvételi elismervény birtokában a járművel a kijelölt várakozóhelyig és – a bírság megfizetéséről szóló bizonylattal együtt – a forgalmi engedély (3) bekezdésben meghatározott átvételi helyéig lehet közlekedni.
 
@@ -18,6 +18,4 @@ a) külföldi üzembentartó esetében a kiállító hatóságnak;
 
 b) belföldi üzembentartó esetében annak lakóhelye (székhelye) szerint illetékes közlekedési igazgatási hatóságnak
 
-kell megküldeni.
-
-[^15]: A 10. § a 41/2016. (X. 6.) NFM rendelet 2. §-ával megállapított szöveg.
+[^17]: A 10. § a 41/2016. (X. 6.) NFM rendelet 2. §-ával megállapított szöveg.
