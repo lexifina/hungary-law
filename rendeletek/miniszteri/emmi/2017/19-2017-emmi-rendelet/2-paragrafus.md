@@ -1,0 +1,3 @@
+## 1. § A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet (a továbbiakban: R.) A bölcsődére és a mini bölcsődére vonatkozó közös rendelkezések alcíme a következő 45/A. §-sal egészül ki:
+
+## „45/A. § A bölcsődében és a mini bölcsődében nem kell a szülőnek a gyermek bölcsődei ellátásának megkezdése előtt benyújtania a 36. § szerinti munkáltatói igazolást az intézménynek, ha a Gyvt. 43. § (3) bekezdés a) pontja alapján a bölcsődei felvételi kérelemhez már benyújtotta azt, és az abban foglaltakban változás nem történt.”
