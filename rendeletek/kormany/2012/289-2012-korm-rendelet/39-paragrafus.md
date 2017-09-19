@@ -16,11 +16,18 @@ ideiglenes használatbavételi engedély iránti kérelmet 2014. december 31-ig 
 
 (5) A vasútbiztonsági engedély megszerzésére nem kötelezett vasúti pályahálózatra vonatkozóan a vasúti építmény üzembentartója köteles 2014. december 31-ig a műszaki paramétereket tartalmazó adatokat szolgáltatni a kezelésében álló vasúti építményekről a vasúti közlekedési hatóság részére. Az adatszolgáltatáshoz szükséges űrlapot a vasúti közlekedési hatóság az elektronikus tájékoztatás szabályai szerint teszi közzé.
 
-(6)[^18] E rendeletnek a felszín alatti vasutak engedélyezésével kapcsolatos egyes kormányrendeletek módosításáról szóló 358/2013. (X. 9.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) és (3) bekezdését, 2. § 8. pontját, 6. § (2) bekezdés f) pontját, 6. § (4) bekezdését a Módr. hatálybalépésekor[^19] folyamatban lévő eljárásokban is alkalmazni kell.
+(6)[^19] E rendeletnek a felszín alatti vasutak engedélyezésével kapcsolatos egyes kormányrendeletek módosításáról szóló 358/2013. (X. 9.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) és (3) bekezdését, 2. § 8. pontját, 6. § (2) bekezdés f) pontját, 6. § (4) bekezdését a Módr. hatálybalépésekor[^20] folyamatban lévő eljárásokban is alkalmazni kell.
 
-(7)[^20] A Módr. hatálybalépésekor[^21] folyamatban lévő hatósági eljárásokban a Módr. hatálybalépése előtt már megkezdett eljárási cselekmények hatályát a Módr. nem érinti.
+(7)[^21] A Módr. hatálybalépésekor[^22] folyamatban lévő hatósági eljárásokban a Módr. hatálybalépése előtt már megkezdett eljárási cselekmények hatályát a Módr. nem érinti.
 
-[^18]: A 39. § (6) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
-[^19]: A hatálybalépés időpontja 2013. október 14.
-[^20]: A 39. § (7) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
-[^21]: A hatálybalépés időpontja 2013. október 14.
+(8)[^23] E rendeletnek az egyes vasúti közlekedési tárgyú kormányrendeletek módosításáról szóló 259/2017. (IX. 11.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 6. § (2) bekezdés b) pontját, 1. melléklet 1. pont j) alpontját, 2. melléklet 1. pont b) alpontját, valamint 3. melléklet 1. pont g) alpontját – a (9) bekezdésben meghatározott kivétellel – a Módr2. hatálybalépésekor[^24] folyamatban lévő eljárásokban is alkalmazni kell.
+
+(9)[^25] A saját célú vasúti pályahálózatok vasúti építményeinek használatbavételi engedélyezése során e rendeletnek a Módr2.-vel megállapított 6. § (2) bekezdés b) pontját a 2020. december 31. után indult eljárásokban kell alkalmazni.
+
+[^19]: A 39. § (6) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^20]: A hatálybalépés időpontja 2013. október 14.
+[^21]: A 39. § (7) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^22]: A hatálybalépés időpontja 2013. október 14.
+[^23]: A 39. § (8) bekezdését a 259/2017. (IX. 11.) Korm. rendelet 8. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2017. szeptember 19.
+[^25]: A 39. § (9) bekezdését a 259/2017. (IX. 11.) Korm. rendelet 8. §-a iktatta be.

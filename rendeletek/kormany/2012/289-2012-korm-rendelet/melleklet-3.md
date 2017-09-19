@@ -4,9 +4,9 @@
 
 ## a) a beruházó nyilatkozata, mely szerint a kérelem tárgyát képező létesítmény az építési engedélynek megfelelően készült el, melyben fel kell tüntetni az építési engedély és az eltéréseket engedélyező engedélyek számait;
 
-## b) amennyiben jogszabály előírja, független tanúsító szervezet tanúsítása;
+## b)[^41] független tanúsító szervezet tanúsítása;
 
-## c)[^36] amennyiben független tanúsító szervezet tanúsítása nem előírt, mérési eredményeken, bizonylatokon, minőségi bizonyítványokon alapuló összefoglaló jelentés arról, hogy megvalósult vasúti építmény műszaki paraméterei az engedélyezési dokumentációban előírt feltételeknek megfelelnek (a jelentésnek ki kell terjednie a rendszerelemek, alrendszerek, strukturális alrendszerek megfelelőségére és minőségére vonatkozó értékelésére, valamint az építési termékek teljesítményére);
+## c)[^42]
 
 ## d) a vágányok melletti és fölötti létesítményeknek a vágánytengelytől és a sínkorona-szinttől mért távolságait, valamint a szabadon tartott tér felmérését tartalmazó jegyzőkönyv;
 
@@ -28,7 +28,7 @@
 
 ## 2. Vasúti pálya
 
-## 2.1.[^37] Vasúti pálya:
+## 2.1.[^43] Vasúti pálya:
 
 ## a) műszaki tervdokumentáció:
 
@@ -40,7 +40,7 @@
 
 ## b) közúti vasutaknál a közúti közlekedési hatóság által jóváhagyott, vagy véleményezett forgalomtechnikai terv.
 
-## 2.2.[^38]
+## 2.2.[^44]
 
 ## 3. Vasúti pálya tartozékai
 
@@ -104,7 +104,7 @@
 
 ## c) geotechnikai szakvélemény.
 
-## 3.3.[^39] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
+## 3.3.[^45] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
 
 ## a) a vasút üzemeltetője által jóváhagyott Kezelési Szabályzat;
 
@@ -172,7 +172,7 @@
 
 ## 4. Helyhez kötött gépészeti berendezések
 
-## 4.1.[^40] Vasúti rakodó-berendezés (vasúti kocsi töltőlefejtő berendezés, rakodódaru, kocsibuktató, oldal- és homlokrakodó, egyéb beépített rakodó- és szállítógép és berendezés) és a vasúti járműmosó berendezések:
+## 4.1.[^46] Vasúti rakodó-berendezés (vasúti kocsi töltőlefejtő berendezés, rakodódaru, kocsibuktató, oldal- és homlokrakodó, egyéb beépített rakodó- és szállítógép és berendezés) és a vasúti járműmosó berendezések:
 
 ## a) a vasúti pálya szintezési jegyzőkönyve, nyomtávmérési jegyzőkönyve;
 
@@ -224,7 +224,7 @@
 
 ## d) a fénytechnikai felülvizsgálati jegyzőkönyv, vagy állapotterv.
 
-## 4.5.[^41] Egyéb vasútgépészeti berendezés (vágányba épített, vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
+## 4.5.[^47] Egyéb vasútgépészeti berendezés (vágányba épített, vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
 
 ## a) a vasúti pálya szintezési jegyzőkönyve, nyomtávmérési jegyzőkönyve;
 
@@ -260,11 +260,13 @@ d) az érintett közművekről tervezői nyilatkozat és a közműkezelők 6 hó
 
 e) a hatásterület ügyfeleinek kimutatása;
 
-f) a terveket a létesítési engedélyezési eljárásoknál meghatározott méretarányokban kell benyújtani.
+f) a terveket a létesítési engedélyezési eljárásoknál meghatározott méretarányokban kell benyújtani;
+
+g)[^48] független tanúsító szervezet tanúsítása.
 
 2. Vasúti pálya bontási terve
 
-2.1.[^42] Vasúti pálya:
+2.1.[^49] Vasúti pálya:
 
 a) helyszínrajz, saját célú vasúti pálya esetén a csatlakozást biztosító vasút üzembentartójának záradékával;
 
@@ -272,7 +274,7 @@ b) műszaki leírás;
 
 c) területrendezésre és újrahasznosításra vonatkozó tervek.
 
-2.2.[^43]
+2.2.[^50]
 
 3. Vasúti pálya tartozékai bontási terve:
 
@@ -318,11 +320,13 @@ b) területrendezésre és újrahasznosításra vonatkozó tervek;
 
 c) műszaki leírás.
 
-[^36]: A 2. melléklet 1. pont c) alpontja a 328/2013. (IX. 3.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
-[^37]: A 2. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
-[^38]: A 2. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.
-[^39]: A 2. melléklet 3.3. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
-[^40]: A 2. melléklet 4.1. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése szerint módosított szöveg.
-[^41]: A 2. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése iktatta be.
-[^42]: A 3. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
-[^43]: A 3. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § c) pontja hatályon kívül helyezte.
+[^41]: A 2. melléket 1. pont b) alpontja a 259/2017. (IX. 11.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^42]: A 2. melléket 1. pont c) alpontját a 259/2017. (IX. 11.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^43]: A 2. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^44]: A 2. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.
+[^45]: A 2. melléklet 3.3. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^46]: A 2. melléklet 4.1. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése szerint módosított szöveg.
+[^47]: A 2. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése iktatta be.
+[^48]: A 3. melléket 1. pont g) alpontját a 259/2017. (IX. 11.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^49]: A 3. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^50]: A 3. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § c) pontja hatályon kívül helyezte.
