@@ -1,15 +1,16 @@
-## 12. § A családi napközit működtetők és a házi gyermekfelügyeletet biztosító személyek részére szervezett tanfolyamokon résztvevők a tanfolyamok sikeres elvégzéséről a tanfolyamokat szervezők által kiadott tanúsítványt kapnak. A tanúsítványokban szereplő tanfolyami képzettségek megnevezése: családi napközi működtetője, illetve házi gyermekfelügyelő.
+## 9–12. §[^26]
 
 ## Örökbefogadás előtti tanácsadás
 
 13. § (1) Az örökbe fogadni szándékozó szülő az örökbefogadói tanfolyamot megelőzően szakmai tanácsadáson vesz részt, melyet a működtető által felkért pszichológus (a továbbiakban: szakértő) a 6. számú mellékletben meghatározott szakmai irányelvek alapján végez. A tanácsadás célja, hogy az örökbe fogadni szándékozó szülő – a személyisége és családstruktúrája alapján – a szakértővel együtt megalapozott döntést tudjon hozni arról, alkalmas-e örökbefogadónak.
 
-(2)[^26] Ha az örökbe fogadni szándékozó szülő házasságban él, házastársa is részt vesz a tanácsadáson. Ha a szakértő indokoltnak tartja, a tanácsadáson jelen lehet az örökbe fogadni szándékozó szülő saját gyermeke, valamint házastárs, rokon által történő örökbefogadás esetén az örökbe fogadandó gyermek.
+(2)[^27] Ha az örökbe fogadni szándékozó szülő házasságban él, házastársa is részt vesz a tanácsadáson. Ha a szakértő indokoltnak tartja, a tanácsadáson jelen lehet az örökbe fogadni szándékozó szülő saját gyermeke, valamint házastárs, rokon által történő örökbefogadás esetén az örökbe fogadandó gyermek.
 
-(3)[^27] A tanácsadást követően a szakértő az örökbe fogadni szándékozó szülő kérelmére az alkalmasságára vagy az alkalmatlanságára vonatkozó megállapításait megküldi az örökbe fogadni szándékozó szülő lakóhelye szerint illetékes területi gyermekvédelmi szakszolgálatnak.
+(3)[^28] A tanácsadást követően a szakértő az örökbe fogadni szándékozó szülő kérelmére az alkalmasságára vagy az alkalmatlanságára vonatkozó megállapításait megküldi az örökbe fogadni szándékozó szülő lakóhelye szerint illetékes területi gyermekvédelmi szakszolgálatnak.
 
-(4)[^28]
+(4)[^29]
 
-[^26]: A 13. (2) bekezdése a 28/2010. (XII. 30.) NEFMI rendelet 27. §-a szerint módosíott szöveg.
-[^27]: A 13. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 38. §-ával megállapított szöveg.
-[^28]: A 13. § (4) bekezdését a 26/2013. (III. 29.) EMMI rendelet 39. §-a hatályon kívül helyezte.
+[^26]: A 9–12. §-t és a 9. §-t megelőző alcímet a 19/2017. (IX. 18.) EMMI rendelet 19. § b) pontja hatályon kívül helyezte.
+[^27]: A 13. (2) bekezdése a 28/2010. (XII. 30.) NEFMI rendelet 27. §-a szerint módosíott szöveg.
+[^28]: A 13. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 38. §-ával megállapított szöveg.
+[^29]: A 13. § (4) bekezdését a 26/2013. (III. 29.) EMMI rendelet 39. §-a hatályon kívül helyezte.

@@ -1,1 +1,0 @@
-## 11. § A házi gyermekfelügyeletet biztosító személyek részére szervezett tanfolyam egy szóbeli, egyéni vagy csoportos összegző beszélgetéssel zárul. Nem vehet részt az összegző beszélgetésen az, aki a tanfolyam során több, mint 3 óráról hiányzott.
