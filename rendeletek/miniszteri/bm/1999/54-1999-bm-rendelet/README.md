@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-54-20-0
 | 2013-01-01 | 1999-54-20-0A.7 | 76/2012. (XII. 22.) NFM rendelet |
 | 2016-01-01 | 1999-54-20-0A.8 | 75/2015. (XII. 29.) NFM rendelet |
 | 2017-01-03 | 1999-54-20-0A.9 | 1/2017. (I. 3.) NFM rendelet |
+| 2017-09-19 | 1999-54-20-0A.10 | 36/2017. (IX. 18.) NFM rendelet |
