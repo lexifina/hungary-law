@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-225-00-00
 | 2017-02-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-225-00-00.14 |
 | 2017-02-23 | 2010. évi CXXX. törvény | 2015-225-00-00.15 |
 | 2017-09-19 | 2017. évi LXIII. törvény | 2015-225-00-00.16 |
+| 2017-09-20 | 2010. évi CXXX. törvény | 2015-225-00-00.17 |
