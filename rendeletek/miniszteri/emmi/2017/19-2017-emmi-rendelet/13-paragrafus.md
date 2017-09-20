@@ -1,3 +1,3 @@
-## „b) az örökbefogadás előtti tanácsadás, valamint az örökbefogadói tanfolyam elindítását a gyermekek és az ifjúság védelméért felelős miniszternek (a továbbiakban: miniszter)”
+## 12. §[^5]
 
-## (írásban bejelenti.)
+[^5]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
