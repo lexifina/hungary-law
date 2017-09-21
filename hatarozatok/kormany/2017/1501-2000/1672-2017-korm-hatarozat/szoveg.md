@@ -1,0 +1,29 @@
+A Kormány
+
+1. egyetért a jelentős művészi életúttal rendelkező művészek számára biztosítandó támogatás feltételeinek megteremtésével,
+
+2. felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások miniszterével együttműködve gondoskodjon az 1. pontban meghatározott cél megvalósítása érdekében szükséges, legfeljebb évi 200,0 millió forint központi költségvetési forrás biztosításáról
+
+a) a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezetében,
+
+Felelős: nemzetgazdasági miniszter
+
+emberi erőforrások minisztere
+
+Határidő: a 2017. évi költségvetés végrehajtása során a felmerülés ütemében
+
+b) a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezetében,
+
+Felelős: nemzetgazdasági miniszter
+
+emberi erőforrások minisztere
+
+Határidő: a 2018. évi költségvetés végrehajtása során a felmerülés ütemében
+
+3. felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások miniszterével együttműködve gondoskodjon 2019. évtől kezdődően az 1. pontban meghatározott cél megvalósítása érdekében szükséges legalább évi 200,0 millió forint központi költségvetési forrás biztosításáról a mindenkori központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében.
+
+Felelős: nemzetgazdasági miniszter
+
+emberi erőforrások minisztere
+
+Határidő: folyamatosan, a központi költségvetés tervezése során
