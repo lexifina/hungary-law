@@ -1,6 +1,6 @@
 ## megfelelő forintösszeget.
 
-12. § (1) A veszettség tekintetében a pénzügyi hozzájárulás a SANTE/2016/HU/SI2.726013 számú támogatási határozat 3. cikk 3. pont d) alpontjával elfogadott nemzeti program szerinti, a veszettség antigénjének vagy antitestjeinek kimutatására végzett, illetve biomarker kimutatására irányuló laboratóriumi vizsgálatok költségeire, a vakcinát tartalmazó csalétkek titrálásának költségeire, az oltóanyag beszerzési és kihelyezési költségeire, valamint figyelemfelhívó kampány költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra 2 954 840 EUR-nak megfelelő forintösszeg.
+12. § (1)[^15] A veszettség tekintetében a pénzügyi hozzájárulás a SANTE/2016/HU/SI2.726013 számú támogatási határozat 3. cikk 3. pont d) alpontjával elfogadott nemzeti program szerinti, a veszettség antigénjének vagy antitestjeinek kimutatására végzett, illetve biomarker kimutatására irányuló laboratóriumi vizsgálatok költségeire, a vakcinát tartalmazó csalétkek titrálásának költségeire, az oltóanyag beszerzési és kihelyezési költségeire, valamint figyelemfelhívó kampány költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra 2 434 840 EUR-nak megfelelő forintösszeg.
 
 (2) A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult.
 
@@ -21,3 +21,5 @@ f) biomarker (tetraciklin csontból való) kimutatására szolgáló tesztek ese
 g) vírust tartalmazó csalétekvakcina-minták titrálása esetében vizsgált csalétekvakcina-mintánként legfeljebb a 100 EUR-nak,
 
 h) figyelemfelhívó kampány esetében a 42 846,75 EUR-nak
+
+[^15]: A 12. § (1) bekezdése a 45/2017. (IX. 18.) FM rendelet 17. § e) pontja szerint módosított szöveg.

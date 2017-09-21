@@ -1,6 +1,6 @@
 ## 3. A pénzügyi hozzájárulás igénybevételének részletes szabályai
 
-7. § (1) A szalmonellózis tekintetében a pénzügyi hozzájárulás a SANTE/2016/HU/SI2.726013. számú támogatási határozat 3. cikk 3. pont e) alpontjával elfogadott nemzeti program szerinti baromfiállományokból történő hatósági mintavétel költségeire, az ennek keretében elvégzett bakteriológiai vizsgálatok, antimikrobiális gátló hatásra irányuló vizsgálatok és a szerotipizálás költségeire, a felszámolásra került állatok és tojások értékéért az állattartó részére fizetendő kárenyhítésre, az oltóanyagok beszerzésére, valamint a fertőtlenítés hatékonyságának ellenőrzésére végzett hatósági laboratóriumi vizsgálatok költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra összesen 3 484 000 EUR-nak megfelelő forintösszeg.
+7. § (1)[^9] A szalmonellózis tekintetében a pénzügyi hozzájárulás a SANTE/2016/HU/SI2.726013. számú támogatási határozat 3. cikk 3. pont e) alpontjával elfogadott nemzeti program szerinti baromfiállományokból történő hatósági mintavétel költségeire, az ennek keretében elvégzett bakteriológiai vizsgálatok, antimikrobiális gátló hatásra irányuló vizsgálatok és a szerotipizálás költségeire, a felszámolásra került állatok és tojások értékéért az állattartó részére fizetendő kárenyhítésre, az oltóanyagok beszerzésére, valamint a fertőtlenítés hatékonyságának ellenőrzésére végzett hatósági laboratóriumi vizsgálatok költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra összesen 4 004 000 EUR-nak megfelelő forintösszeg.
 
 (2) A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult 87 000 EUR-nak megfelelő forint keretösszegig
 
@@ -24,7 +24,7 @@ d) a szalmonella-fertőzöttség szempontjából vizsgált állományokból szá
 
 ## megfelelő forintösszeget.
 
-(4) A pénzügyi hozzájárulás igénybevételére az a) és b) pont esetében a megyei kormányhivatal, a c) pont esetében a megyei kormányhivatal és a NÉBIH jogosult 3 397 000 EUR-nak megfelelő forint keretösszegig
+(4)[^10] A pénzügyi hozzájárulás igénybevételére az a) és b) pont esetében a megyei kormányhivatal, a c) pont esetében a megyei kormányhivatal és a NÉBIH jogosult 3 917 000 EUR-nak megfelelő forint keretösszegig
 
 a) az állattartónak a megyei kormányhivatal által, a fertőzött tojó- vagy tenyészállomány felszámolása érdekében elrendelt állatleölés (leöletés) vagy elkülönített vágás, tojásártalmatlanítás vagy nem keltetett tenyésztojás hőkezelése következtében keletkezett kára enyhítéséhez,
 
@@ -88,9 +88,11 @@ h) baromfiállományokból való mintavételre állományonként és mintavétel
 
 (10) E § alkalmazásában a számlák teljesítési dátuma a (9) bekezdés a)–f) pontja esetében a felszámolás, az ártalmatlanítás vagy a hőkezelés időpontja, a (9) bekezdés g) pontja esetében az oltóanyag beadásának, illetve felhasználásának időpontja, a (9) bekezdés h) pontja tekintetében pedig a mintavétel időpontja.
 
-(11)[^8] Ha a pénzügyi hozzájárulás igénybevételére vonatkozó feltételek teljesítésének helyszíni ellenőrzése során az állattartónál a NÉBIH vagy a megyei kormányhivatal a pénzügyi hozzájárulás kifizetését követően megállapítja, hogy az állattartó a feltételeket nem teljesítette, akkor az állattartó részére a végrehajtási időszakban az adott célterületre vonatkozóan kifizetett teljes összeg a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Eljárási törvény) szerinti, jogosulatlanul igénybe vett támogatásnak minősül.
+(11)[^11] Ha a pénzügyi hozzájárulás igénybevételére vonatkozó feltételek teljesítésének helyszíni ellenőrzése során az állattartónál a NÉBIH vagy a megyei kormányhivatal a pénzügyi hozzájárulás kifizetését követően megállapítja, hogy az állattartó a feltételeket nem teljesítette, akkor az állattartó részére a végrehajtási időszakban az adott célterületre vonatkozóan kifizetett teljes összeg a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Eljárási törvény) szerinti, jogosulatlanul igénybe vett támogatásnak minősül.
 
-(12)[^9] Ha az e rendelet alapján történt kifizetések ellenőrzése során az ellenőrzésre jogosult szerv megállapítja, hogy az állattartó nem az (5) bekezdés d) pontjának megfelelően küldte meg a jogosultságot igazoló dokumentumokat a megyei kormányhivatalnak, az állattartót kötelezi a jogosulatlanul igénybe vett összeg megyei kormányhivatal részére történő visszatérítésére, a megyei kormányhivatal pedig ezt követően haladéktalanul intézkedik az összeg Kincstár részére történő visszautalásáról.
+(12)[^12] Ha az e rendelet alapján történt kifizetések ellenőrzése során az ellenőrzésre jogosult szerv megállapítja, hogy az állattartó nem az (5) bekezdés d) pontjának megfelelően küldte meg a jogosultságot igazoló dokumentumokat a megyei kormányhivatalnak, az állattartót kötelezi a jogosulatlanul igénybe vett összeg megyei kormányhivatal részére történő visszatérítésére, a megyei kormányhivatal pedig ezt követően haladéktalanul intézkedik az összeg Kincstár részére történő visszautalásáról.
 
-[^8]: A 7. § (11) bekezdése a 88/2016. (XII. 29.) FM rendelet 119. § i) pontja szerint módosított szöveg.
-[^9]: A 7. § (12) bekezdése a 88/2016. (XII. 29.) FM rendelet 119. § j) pontja szerint módosított szöveg.
+[^9]: A 7. § (1) bekezdése a 45/2017. (IX. 18.) FM rendelet 17. § a) pontja szerint módosított szöveg.
+[^10]: A 7. § (4) bekezdés nyitó szövegrésze a 45/2017. (IX. 18.) FM rendelet 17. § b) pontja szerint módosított szöveg.
+[^11]: A 7. § (11) bekezdése a 88/2016. (XII. 29.) FM rendelet 119. § i) pontja szerint módosított szöveg.
+[^12]: A 7. § (12) bekezdése a 88/2016. (XII. 29.) FM rendelet 119. § j) pontja szerint módosított szöveg.
