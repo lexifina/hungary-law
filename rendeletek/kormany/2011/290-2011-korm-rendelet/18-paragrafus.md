@@ -1,4 +1,4 @@
-## 17. §[^46]
+## 17. §[^60]
 
 ## 10. Egyes központi államigazgatási szervek vezetőinek honvédelmi igazgatási feladatai
 
@@ -30,4 +30,4 @@ l) végzi a jogszabályban vagy kormányhatározatban részére megállapított 
 
 (2) A központi államigazgatási szerv – kivéve az autonóm államigazgatási szerv és az önálló szabályozó szerv – vezetője a honvédelmi feladatok végrehajtása körében elrendelheti intézkedési tervek elkészítését, végrehajtását, gondoskodik a feladat- és hatáskörébe tartozó honvédelmi feladatok végrehajtásáról.
 
-[^46]: A 17. §-t a 259/2016. (VIII. 31.) Korm. rendelet 64. § b) pontja hatályon kívül helyezte.
+[^60]: A 17. §-t a 259/2016. (VIII. 31.) Korm. rendelet 64. § b) pontja hatályon kívül helyezte.

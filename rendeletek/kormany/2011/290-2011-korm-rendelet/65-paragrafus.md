@@ -14,6 +14,6 @@
 
 (7) Ha a megyei, fővárosi védelmi bizottság az ellenőrzés során megállapítja, hogy az általa meghagyásba bevont szerv meghagyásba történő bevonásának az e rendeletben meghatározott feltételei nem állnak fenn, a meghagyásba történő bevonás megszüntetéséről dönt. A jogerős döntést közölni kell a Honvédség katonai igazgatási és központi adatfeldolgozó szervével is.
 
-(8)[^104] Az ellenőrzés során hozott döntés elleni fellebbezést a területileg illetékes megyei, fővárosi kormányhivatalban kell benyújtani, és annak elbírálására a honvédelemért felelős miniszter jogosult. A jogerős döntést a Honvédség katonai igazgatási és központi adatfeldolgozó szervével is közölni kell.
+(8)[^122] Az ellenőrzés során hozott döntés elleni fellebbezést a területileg illetékes megyei, fővárosi kormányhivatalban kell benyújtani, és annak elbírálására a honvédelemért felelős miniszter jogosult. A jogerős döntést a Honvédség katonai igazgatási és központi adatfeldolgozó szervével is közölni kell.
 
-[^104]: A 65. § (8) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^122]: A 65. § (8) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 61. §-ával megállapított szöveg.

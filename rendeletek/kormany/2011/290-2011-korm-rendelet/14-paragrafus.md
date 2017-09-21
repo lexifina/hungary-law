@@ -1,3 +1,5 @@
+## meghatározott irányítási hatásköröket gyakorolja.
+
 ## 7. A szolgálati elöljárók, hivatali felettesek, szakmai elöljárók, szakmai felettesek
 
 14. § (1) A katonai szolgálati viszonyban álló vezető a katonai szolgálati viszonyban álló alárendelteknek szolgálati elöljárója vagy szakmai elöljárója, a más jogviszonyban álló alárendelteknek hivatali felettese vagy szakmai felettese.

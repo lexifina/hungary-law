@@ -12,13 +12,15 @@
 
 6.[^14] a kontrolling tevékenységet,
 
+6a.[^15] az integritásfejlesztéssel kapcsolatos tevékenységet, ideértve a korrupció elleni tevékenység ágazati összehangolását,
+
 7. az államháztartási belső ellenőrzés kivételével az ellenőrzési rendszer felső szintű feladatainak végrehajtását,
 
 8. a Honvédség létszámkereteinek és a személyi állomány összetételének meghatározásával összefüggő felső szintű döntések előkészítését, a munkaköri jegyzékekkel kapcsolatos feladatok végrehajtását,
 
-9.[^15] a humánpolitikai intézmény- és eszközrendszerrel, így különösen az illetmény- és juttatási rendszerrel, a rekonverzió elveivel, a hosszú távú humánpolitikai intézkedésekkel összefüggő feladatok végrehajtását, továbbá a korrupció elleni tevékenység ágazati összehangolását,
+9.[^16] a humánpolitikai intézmény- és eszközrendszerrel, így különösen az illetmény- és juttatási rendszerrel, a rekonverzió elveivel, a hosszú távú humánpolitikai intézkedésekkel összefüggő feladatok végrehajtását,
 
-10.[^16] a nemzeti felsőoktatás Honvédséget érintő felső szintű feladatainak végrehajtását,
+10.[^17] a nemzeti felsőoktatás Honvédséget érintő felső szintű feladatainak végrehajtását,
 
 11. az állami célú légiközlekedéssel összefüggő felső szintű döntések előkészítését,
 
@@ -26,19 +28,21 @@
 
 13. a jogi és a jogi képviseleti feladatok végrehajtását,
 
-14.[^17] az igazgatási és az ügyfélszolgálati feladatokat, valamint a Hvt. 61/B. §-a szerinti panaszok kivizsgálásával kapcsolatos tevékenységet,
+14.[^18] az igazgatási és az ügyfélszolgálati feladatokat, valamint a Hvt. 61/B. §-a szerinti panaszok kivizsgálásával kapcsolatos tevékenységet,
 
 15. az ágazati hatósági és a szakhatósági feladatok megszervezését,
 
-16.[^18] a tűzvédelmi, munkavédelmi és környezetvédelmi feladatok végrehajtását,
+16.[^19] a tűzvédelmi, munkavédelmi és környezetvédelmi feladatok végrehajtását,
 
-17.[^19] a területrendezés, a területfejlesztés, a településrendezés, a hulladékgazdálkodás, a nagyvízi mederkezelés, a bányászati jelentés Honvédséget érintő egyeztetési-, és adatszolgáltatási feladatainak ellátását,
+17.[^20] a területrendezés, a területfejlesztés, a településrendezés, a hulladékgazdálkodás, a nagyvízi mederkezelés, a bányászati jelentés Honvédséget érintő egyeztetési-, és adatszolgáltatási feladatainak ellátását,
 
-18. a védelempolitika és a védelmi tervezés felső szintű feladatait,
+18.[^21] a védelempolitika felső szintű feladatait,
+
+18a.[^22] a védelmi tervezés felső szintű feladatait,
 
 19. a két- és a többoldalú nemzetközi együttműködést, az euro-atlanti együttműködést, a nemzetközi válságkezelést és békefenntartást, valamint a nemzetközi terrorizmussal szembeni együttműködés összehangolását,
 
-20. a NATO és az Európai Unió keretében vállalt haderőfejlesztés feladatainak végrehajtását,
+20.[^23] a NATO és az Európai Unió keretében vállalt haderőfejlesztés Honvédséget érintő felső szintű feladatainak végrehajtását,
 
 21. a hagyományos fegyverek korlátozásával, a leszereléssel, a fegyverzetcsökkentéssel, a fegyverzetellenőrzéssel és non-proliferációval kapcsolatos feladatok végrehajtását,
 
@@ -56,37 +60,37 @@
 
 28. a hadfelszerelés-fejlesztési, a haditechnikai, és a kutatás-fejlesztési feladatok végrehajtását,
 
-29.[^20] az anyagi szabványosítási, egységesítési és a katonai minőségügyi feladatok végrehajtását, továbbá a biztonsági beruházások megvalósítását,
+29.[^24] az anyagi szabványosítási, egységesítési és a katonai minőségügyi feladatok végrehajtását, továbbá a biztonsági beruházások megvalósítását,
 
-30.[^21] a közbeszerzések és a beszerzések megvalósítását,
+30.[^25] a közbeszerzések és a beszerzések megvalósítását,
 
-31.[^22] a környezetvédelem és a természetvédelem Honvédséget érintő infrastrukturális és beruházási feladatainak végrehajtását,
+31.[^26] a környezetvédelem és a természetvédelem Honvédséget érintő infrastrukturális és beruházási feladatainak végrehajtását,
 
 32. a nemzetgazdaság védelmi felkészítésének minisztériumi feladait,
 
-33.[^23] a tudományos kutatás Honvédséget érintő felső szintű feladatainak végrehajtását,
+33.[^27] a tudományos kutatás Honvédséget érintő felső szintű feladatainak végrehajtását,
 
-34.[^24] az Európai Uniós programok támogatásával kapcsolatos feladatok végrehajtását,
+34.[^28] az Európai Uniós programok támogatásával kapcsolatos feladatok végrehajtását,
 
-35.[^25] a nemzeti köznevelés és a szakképzés Honvédséget érintő felső szintű feladatainak végrehajtását,
+35.[^29] a nemzeti köznevelés és a szakképzés Honvédséget érintő felső szintű feladatainak végrehajtását,
 
-36.[^26] a központi államigazgatási szervek, a területi és helyi közigazgatási szervek, a rendvédelmi szervek és a honvédelemben közreműködő szervek honvédelmi igazgatási feladatainak meghatározásáról szóló kormányzati döntések előkészítését, az ellenőrzések végrehajtását, a honvédelmi feladatokra történő felkészítést, a területi és helyi védelmi igazgatási szervek honvédelmi igazgatási feladatait, valamint e tevékenységek felügyeletét,
+36.[^30] a központi államigazgatási szervek, a területi és helyi közigazgatási szervek, a rendvédelmi szervek és a honvédelemben közreműködő szervek honvédelmi igazgatási feladatainak meghatározásáról szóló kormányzati döntések előkészítését, az ellenőrzések végrehajtását, a honvédelmi feladatokra történő felkészítést, a területi és helyi védelmi igazgatási szervek honvédelmi igazgatási feladatait, valamint e tevékenységek felügyeletét,
 
-37.[^27] a lakosságnak, az anyagi javaknak és a közigazgatásnak Magyarország fegyveres védelmének felkészítésére, valamint a központi államigazgatási szervek honvédelmi feladatainak meghatározására vonatkozó döntések előkészítését,
+37.[^31] a lakosságnak, az anyagi javaknak és a közigazgatásnak Magyarország fegyveres védelmének felkészítésére, valamint a központi államigazgatási szervek honvédelmi feladatainak meghatározására vonatkozó döntések előkészítését,
 
-38.[^28] a Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosításával kapcsolatos feladatok koordinálását, a szükséges infrastruktúra és infokommunikációs rendszer követelményeinek meghatározását,
+38.[^32] a Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosításával kapcsolatos feladatok koordinálását, a szükséges infrastruktúra és infokommunikációs rendszer követelményeinek meghatározását,
 
-39.[^29] a honvédelmi érdek érvényesítését szolgáló létfontosságú rendszerekkel és létesítményekkel kapcsolatos feladatok végrehajtásához szükséges ágazaton belüli intézményrendszer kialakítását,
+39.[^33] a honvédelmi érdek érvényesítését szolgáló létfontosságú rendszerekkel és létesítményekkel kapcsolatos feladatok végrehajtásához szükséges ágazaton belüli intézményrendszer kialakítását,
 
-40.[^30] az Észak-atlanti Tanács stratégiai szintű politikai-katonai válságkezelési gyakorlataiban történő magyar részvétel előkészítését, tervezését és nemzeti végrehajtásának koordinálását,
+40.[^34] az Észak-atlanti Tanács stratégiai szintű politikai-katonai válságkezelési gyakorlataiban történő magyar részvétel előkészítését, tervezését és nemzeti végrehajtásának koordinálását,
 
-41.[^31] a befogadó nemzeti támogatás hatáskörébe tartozó feladatokat,
+41.[^35] a befogadó nemzeti támogatás hatáskörébe tartozó feladatokat,
 
-42.[^32] a fegyveres összeütközések időszakában végrehajtandó polgári védelmi felkészítés követelményeinek meghatározását és
+42.[^36] a fegyveres összeütközések időszakában végrehajtandó polgári védelmi felkészítés követelményeinek meghatározását és
 
-43.[^33] a Magyar Honvédség adatvédelmi és információszabadságra vonatkozó feladatai végrehajtását,
+43.[^37] a Magyar Honvédség adatvédelmi és információszabadságra vonatkozó feladatai végrehajtását,
 
-44.[^34] az állami célú légiközlekedésben bekövetkezett légiközlekedési balesetek, súlyos repülőesemények és repülőesemények szakmai vizsgálatával összefüggő feladatok végzését.
+44.[^38] az állami célú légiközlekedésben bekövetkezett légiközlekedési balesetek, súlyos repülőesemények és repülőesemények szakmai vizsgálatával összefüggő feladatok végzését.
 
 (2) A közigazgatási államtitkár a minisztérium hivatali szervezetének vezetőjeként
 
@@ -109,23 +113,27 @@ e) a feladat- és hatáskörébe tartozó ügyekben képviseli a Honvédséget, 
 f) gyakorolja a jogszabályokban és a közjogi szervezetszabályozó eszközökben hatáskörébe utalt jogköröket, ellátja mindazokat a feladatokat, amelyekkel a miniszter eseti jelleggel megbízza.
 
 [^14]: A 6. § (1) bekezdés 6. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^15]: A 6. § (1) bekezdés 9. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^16]: A 6. § (1) bekezdés 10. pontja a 168/2016. (VII. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^17]: A 6. § (1) bekezdés 14. pontja a 489/2016. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^18]: A 6. § (1) bekezdés 16. pontja a 259/2016. (VIII. 31.) Korm. rendelet 63. § a) pontja szerint módosított szöveg.
-[^19]: A 6. § (1) bekezdés 17. pontja a 259/2016. (VIII. 31.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
-[^20]: A 6. § (1) bekezdés 29. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^21]: A 6. § (1) bekezdés 30. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^22]: A 6. § (1) bekezdés 31. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^23]: A 6. § (1) bekezdés 33. pontját újonnan a 168/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^24]: A 6. § (1) bekezdés 34. pontját újonnan a 168/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 259/2016. (VIII. 31.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.
-[^25]: A 6. § (1) bekezdés 35. pontját újonnan a 168/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 259/2016. (VIII. 31.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.
-[^26]: A 6. § (1) bekezdés 36. pontját újonnan a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
-[^27]: A 6. § (1) bekezdés 37. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
-[^28]: A 6. § (1) bekezdés 38. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
-[^29]: A 6. § (1) bekezdés 39. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
-[^30]: A 6. § (1) bekezdés 40. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
-[^31]: A 6. § (1) bekezdés 41. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
-[^32]: A 6. § (1) bekezdés 42. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
-[^33]: A 6. § (1) bekezdés 43. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
-[^34]: A 6. § (1) bekezdés 44. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (4) bekezdése iktatta be.
+[^15]: A 6. § (1) bekezdés 6a. pontját a 273/2017. (IX. 20.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^16]: A 6. § (1) bekezdés 9. pontja a 273/2017. (IX. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^17]: A 6. § (1) bekezdés 10. pontja a 168/2016. (VII. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^18]: A 6. § (1) bekezdés 14. pontja a 489/2016. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^19]: A 6. § (1) bekezdés 16. pontja a 259/2016. (VIII. 31.) Korm. rendelet 63. § a) pontja szerint módosított szöveg.
+[^20]: A 6. § (1) bekezdés 17. pontja a 259/2016. (VIII. 31.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^21]: A 6. § (1) bekezdés 18. pontja a 273/2017. (IX. 20.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^22]: A 6. § (1) bekezdés 18a. pontját a 273/2017. (IX. 20.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^23]: A 6. § (1) bekezdés 20. pontja a 273/2017. (IX. 20.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^24]: A 6. § (1) bekezdés 29. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^25]: A 6. § (1) bekezdés 30. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^26]: A 6. § (1) bekezdés 31. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^27]: A 6. § (1) bekezdés 33. pontját újonnan a 168/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^28]: A 6. § (1) bekezdés 34. pontját újonnan a 168/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 259/2016. (VIII. 31.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^29]: A 6. § (1) bekezdés 35. pontját újonnan a 168/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 259/2016. (VIII. 31.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^30]: A 6. § (1) bekezdés 36. pontját újonnan a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
+[^31]: A 6. § (1) bekezdés 37. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
+[^32]: A 6. § (1) bekezdés 38. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
+[^33]: A 6. § (1) bekezdés 39. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
+[^34]: A 6. § (1) bekezdés 40. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
+[^35]: A 6. § (1) bekezdés 41. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
+[^36]: A 6. § (1) bekezdés 42. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
+[^37]: A 6. § (1) bekezdés 43. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (3) bekezdése iktatta be.
+[^38]: A 6. § (1) bekezdés 44. pontját a 259/2016. (VIII. 31.) Korm. rendelet 52. § (4) bekezdése iktatta be.

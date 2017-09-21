@@ -1,6 +1,6 @@
-## 29/B. [^93] A személyi állomány kártalanításának egyes esetkörei
+## 29/B. [^109] A személyi állomány kártalanításának egyes esetkörei
 
-61/A. § (1) A Hvt. 22. § (4) bekezdése alapján a Honvédelmi Minisztérium kártalanítást nyújt a Honvédség személyi állományának azon tagja számára, aki esetében a következő feltételek együttesen teljesülnek:
+61/A. § (1)[^110] A Hvt. 22. § (4) bekezdése alapján a minisztérium kártalanítást nyújt a Honvédség személyi állományának azon tagja számára, aki esetében a következő feltételek együttesen teljesülnek:
 
 a) 2015. március 5-én a Honvéd Egészségpénztár tagja volt,
 
@@ -12,4 +12,5 @@ c) az a) pontban megjelölt napon és 2017. február 1-jén hivatásos vagy szer
 
 (3) Az (1) és (2) bekezdés alapján jogosultat (ezen alcím alkalmazásában a továbbiakban: jogosult) megillető kártalanítás összege megegyezik a hitelezési veszteségként elhatárolt és értékvesztésként elszámolt követeléssel.
 
-[^93]: A 29/B. alcímet (61/A–61/G. §) a 489/2016. (XII. 28.) Korm. rendelet 17. §-a iktatta be.
+[^109]: A 29/B. alcímet (61/A–61/G. §) a 489/2016. (XII. 28.) Korm. rendelet 17. §-a iktatta be.
+[^110]: A 61/A. § (1) bekezdés nyitó szövegrésze a 273/2017. (IX. 20.) Korm. rendelet 12. §-a szerint módosított szöveg.

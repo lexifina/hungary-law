@@ -6,13 +6,13 @@
 
 (4) Az igénybevételi hatóság a szolgáltatás időbeni teljesítése érdekében a szolgáltatás tárgyának legfeljebb 30 napos készenlétben tartását rendelheti el (készenlétben tartási határozat). Ilyenkor a szolgáltatás tényleges teljesítését külön határozatban kell elrendelni.
 
-(5)[^85] A szolgáltatás tárgyának átadásakor, átvételekor, illetve a szolgáltatás teljesítésekor jegyzőkönyvet kell felvenni, amelynek elkészítéséért az igénybevevő a felelős. A jegyzőkönyvben rögzíteni kell a szolgáltatásra kötelezett nevét, illetve székhelyét, telephelyét, fióktelepét, az igénybevételt elrendelő hatóság megnevezését, az igénybevevő adatait, a szolgáltatás tárgyát, teljesítésének helyét, idejét, az igénybevételt elrendelő határozat számát, harmadik személynek a szolgáltatás tárgyára vonatkozó esetleges jogát, továbbá minden olyan tényt vagy adatot, amelyet bármelyik fél a kártalanítás szempontjából lényegesnek tart. Ha a szolgáltatás ellenértéke megállapítható, azt a jegyzőkönyvben rögzíteni kell.
+(5)[^100] A szolgáltatás tárgyának átadásakor, átvételekor, illetve a szolgáltatás teljesítésekor jegyzőkönyvet kell felvenni, amelynek elkészítéséért az igénybevevő a felelős. A jegyzőkönyvben rögzíteni kell a szolgáltatásra kötelezett nevét, illetve székhelyét, telephelyét, fióktelepét, az igénybevételt elrendelő hatóság megnevezését, az igénybevevő adatait, a szolgáltatás tárgyát, teljesítésének helyét, idejét, az igénybevételt elrendelő határozat számát, harmadik személynek a szolgáltatás tárgyára vonatkozó esetleges jogát, továbbá minden olyan tényt vagy adatot, amelyet bármelyik fél a kártalanítás szempontjából lényegesnek tart. Ha a szolgáltatás ellenértéke megállapítható, azt a jegyzőkönyvben rögzíteni kell.
 
-(6)[^86] Ingó vagy ingatlan dolog átadása esetén a jegyzőkönyvben rögzíteni kell az azok azonosítására alkalmas adatokat, pontos vagy becsült értéküket, állapotukat, a célra való alkalmasságukat, valamint a közüzemi fogyasztásmérők állását.
+(6)[^101] Ingó vagy ingatlan dolog átadása esetén a jegyzőkönyvben rögzíteni kell az azok azonosítására alkalmas adatokat, pontos vagy becsült értéküket, állapotukat, a célra való alkalmasságukat, valamint a közüzemi fogyasztásmérők állását.
 
 (7) A jegyzőkönyvet a jegyzőkönyvvezető, a szolgáltatásra kötelezett vagy képviselője és a szolgáltatás átvevője írja alá. Az aláírás megtagadása esetén e tényt és ennek okát a jegyzőkönyvben két tanú jelenlétében rögzíteni kell.
 
 (8) A jegyzőkönyv egy-egy példányát át kell adni, vagy meg kell küldeni az igénybevevőnek, a szolgáltatásra kötelezettnek, vagy képviselőjének, az igénybevételi hatóságnak és a jegyzőkönyvben megnevezett más olyan személynek, akinek a szolgáltatás teljesítése jogát vagy jogos érdekét érinti.
 
-[^85]: A 43. § (5) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 59. §-ával megállapított szöveg.
-[^86]: A 43. § (6) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^100]: A 43. § (5) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^101]: A 43. § (6) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 59. §-ával megállapított szöveg.
