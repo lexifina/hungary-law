@@ -8,8 +8,10 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: az éves felmérés tekintetében a 2018–2020. évek esetében az adott költségvetési év keretszámainak tervezésekor és az adott költségvetési évet megelőző év október 30-ig, az első féléves felülvizsgálat a január 1-jétől május 31-ig terjedő időszak tényleges ellenőrzési darabszámai és június 1-jétől december 31-ig várható ellenőrzési volumen figyelembevételével minden adott költségvetési év június 10-ig
 
-3. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 1. pontban meghatározott cél elérése érdekében a 2017–2020-as költségvetési években mindösszesen 6,35 milliárd forint többletforrás biztosításáról – amelyből 2017. évben 1,8 milliárd forint forrást szükséges biztosítani –, a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím javára azzal, hogy az érintett költségvetési év félévenkénti jelentése ismeretében a tényleges ellenőrzési darabszám és a várható volumen előrejelzése alapján gondoskodjon az esetlegesen felmerülő szükséges többletforrás biztosításáról.
+3.[^1] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 1. pontban meghatározott cél elérése érdekében a 2017–2020-as költségvetési években mindösszesen 6,35 milliárd forint többletforrás biztosításáról – amelyből 2017. évben 3,3 milliárd forint forrást szükséges biztosítani –, a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím javára azzal, hogy az érintett költségvetési év félévenkénti jelentése ismeretében a tényleges ellenőrzési darabszám és a várható volumen előrejelzése alapján gondoskodjon az esetlegesen felmerülő szükséges többletforrás biztosításáról.
 
 Felelős: nemzetgazdasági miniszter
 
-Határidő: a 2017. év esetében 2017. január 15., a 2018–2020. évek esetében a költségvetés tervezése során, az első féléves felülvizsgálat alapján július 1.
+Határidő: a 2017. év esetében felmerülés ütemében, a 2018–2020. évek esetében a költségvetés tervezése során, az első féléves felülvizsgálat alapján július 1.
+
+[^1]: A 3. pont az 1682/2017. (IX. 21.) Korm. határozat a)–b) pontja szerint módosított szöveg.
