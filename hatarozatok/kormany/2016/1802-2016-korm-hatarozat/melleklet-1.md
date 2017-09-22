@@ -180,7 +180,7 @@
 
 | felvidéki szervezet programjának, célkitűzéseinek és ingatlanberuházásának, eszközbeszerzésénektámogatása | Csemadok | 143 000 000 |
 
-| felvidéki ingatlanberuházási támogatás | Debrődi önkormányzat | 126 000 000 |
+| felvidéki ingatlanberuházási és eszközbeszerzési támogatás | Debrődi önkormányzat | 126 000 000 |
 
 | felvidéki ingatlanberuházási és eszközbeszerzési támogatás | Ilosvai Néptáncegyüttes | 118 000 000 |
 
@@ -240,4 +240,4 @@
 
 [^1]: Az 1. pont az 1198/2017. (IV. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 2. pont az 1198/2017. (IV. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^3]: Az 1. melléklet az 1198/2017. (IV. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet az 1198/2017. (IV. 10.) Korm. határozat 1. pontjával megállapított, az 1704/2017. (IX. 22.) Korm. határozat szerint módosított szöveg.
