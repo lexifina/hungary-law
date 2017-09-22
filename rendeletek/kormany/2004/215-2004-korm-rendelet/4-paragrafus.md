@@ -1,4 +1,4 @@
-4. § (1)[^1] A sportpolitikáért felelős miniszter minden év február 28-áig a tárgyévre vonatkozó támogatási szerződést köt az OSEI-vel – a sportpolitikáért felelős miniszter, a Magyar Olimpiai Bizottság, a Magyar Paralimpiai Bizottság, valamint a Nemzeti Versenysport Szövetség által meghatározott – kiemelkedő sportteljesítményt nyújtó versenyzők speciális (2) bekezdés szerinti sportegészségügyi ellátása érdekében.
+4. § (1)[^2] A sportpolitikáért felelős miniszter minden év február 28-áig a tárgyévre vonatkozó támogatási szerződést köt az OSEI-vel – a sportpolitikáért felelős miniszter, a Magyar Olimpiai Bizottság, a Magyar Paralimpiai Bizottság, valamint a Nemzeti Versenysport Szövetség által meghatározott – kiemelkedő sportteljesítményt nyújtó versenyzők speciális (2) bekezdés szerinti sportegészségügyi ellátása érdekében.
 
 (2) A támogatási szerződésben foglaltak szerint az OSEI a következő ellátásokat biztosítja, feladatokat látja el:
 
@@ -16,4 +16,4 @@ f) edzőtáborok és az olimpiai központok sportorvosi ellátásának működte
 
 g) doppingellenőrző laboratórium működtetése.
 
-[^1]: A 4. § (1) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^2]: A 4. § (1) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.

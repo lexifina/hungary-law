@@ -1,6 +1,6 @@
-21. § (1)[^11] A rendelet a kihirdetését követő 30. napon lép hatályba.
+21. § (1)[^18] A rendelet a kihirdetését követő 30. napon lép hatályba.
 
-(2)[^12]
+(2)[^19]
 
 (3) A 9. § (1) bekezdésében foglaltaknak megfelelő sportorvosi engedélyeket a rendelet kihirdetését követő 120. naptól kell alkalmazni.
 
@@ -50,5 +50,5 @@ ___________
 
 2 A sportorvos aláírásának, pecsétszámát tartalmazó bélyegzője, valamint a sportegészségügyi szakrendelő bélyegzője lenyomatának megfelelő helyen történő feltüntetésével jelölve.
 
-[^11]: A 21. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 658. pontja szerint módosított szöveg.
-[^12]: A 21. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 658. pontja hatályon kívül helyezte.
+[^18]: A 21. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 658. pontja szerint módosított szöveg.
+[^19]: A 21. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 658. pontja hatályon kívül helyezte.

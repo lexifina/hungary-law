@@ -1,4 +1,4 @@
-16. § (1)[^6] A sportrendezvényen és a szabadidősport eseményen előforduló sérülések és balesetek ellátása érdekében a szervező a sportrendezvény és a szabadidősport esemény jellegétől függően köteles biztosítani a mentésről szóló 5/2006. (II. 7.) EüM rendelet (a továbbiakban: EüMr.) szerinti:
+16. § (1)[^13] A sportrendezvényen és a szabadidősport eseményen előforduló sérülések és balesetek ellátása érdekében a szervező a sportrendezvény és a szabadidősport esemény jellegétől függően köteles biztosítani a mentésről szóló 5/2006. (II. 7.) EüM rendelet (a továbbiakban: EüMr.) szerinti:
 
 a) gyalogőrséget,
 
@@ -12,4 +12,4 @@ a) az autó-motor, ejtőernyős, labdarúgó első osztályú, lovas, motorcsón
 
 b) olyan sportrendezvényen és szabadidősport eseményen, ahol a résztvevők száma az ötszáz főt várhatóan meghaladja, valamint azoknak a sportágaknak a sportrendezvényein és szabadidősport eseményein, melyekben fokozott a sérülésveszély.
 
-[^6]: A 16. § (1) bekezdése a 356/2014. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^13]: A 16. § (1) bekezdése a 356/2014. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
