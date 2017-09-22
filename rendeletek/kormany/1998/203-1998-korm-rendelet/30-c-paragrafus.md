@@ -1,4 +1,4 @@
-30/C. §[^301] (1) A bányafelügyelet a földtani közeg és az ásványi nyersanyagok megkutatottsága, a földtani veszélyek felmérése, és a földtani közeg hasznosítása területén gyakorolt hatáskörében eljárva
+30/C. §[^292] (1) A bányafelügyelet a földtani közeg és az ásványi nyersanyagok megkutatottsága, a földtani veszélyek felmérése, és a földtani közeg hasznosítása területén gyakorolt hatáskörében eljárva
 
 a) vizsgálja
 
@@ -14,9 +14,9 @@ b) gyűjti, kezeli és szolgáltatja az e tevékenységek során keletkezett fö
 
 (2) A bányafelügyelet a földtani közeg veszélyei elleni védelem hatáskörében eljárva
 
-a)[^302] elrendelheti a veszélyeztető állapot megszüntetését, valamint ellenőrzi annak végrehajtását,
+a)[^293] elrendelheti a veszélyeztető állapot megszüntetését, valamint ellenőrzi annak végrehajtását,
 
 b) a földtani veszélyhelyzetek megelőzésére kezdeményezheti a vis maior keret, valamint a központi költségvetés általános tartalék felhasználását.
 
-[^301]: A Vhr. 30/C. §-át az 57/2008. (III. 26.) Korm. rendelet 18. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
-[^302]: A Vhr. 30/C. § (2) bekezdés a) pontja a 311/2014. (XII. 11.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^292]: A Vhr. 30/C. §-át az 57/2008. (III. 26.) Korm. rendelet 18. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
+[^293]: A Vhr. 30/C. § (2) bekezdés a) pontja a 311/2014. (XII. 11.) Korm. rendelet 15. §-ával megállapított szöveg.

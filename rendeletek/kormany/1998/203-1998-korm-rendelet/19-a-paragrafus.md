@@ -1,4 +1,4 @@
-19/A. §[^197] (1) A szénhidrogén- és a széndioxid-szállítóvezeték (a továbbiakban együtt: szállítóvezeték), a földgáz elosztóvezeték (a továbbiakban: elosztóvezeték), az egyéb gáz és gáztermék vezeték, valamint a bányászati létesítmény és a célvezeték, továbbá környezetük védelmére, zavartalan üzemeltetése, ellenőrzése, karbantartása, javítása és az üzemzavar-elhárítás biztosítására biztonsági szabályzatban meghatározott méretű biztonsági övezetet kell megállapítani.
+19/A. §[^188] (1) A szénhidrogén- és a széndioxid-szállítóvezeték (a továbbiakban együtt: szállítóvezeték), a földgáz elosztóvezeték (a továbbiakban: elosztóvezeték), az egyéb gáz és gáztermék vezeték, valamint a bányászati létesítmény és a célvezeték, továbbá környezetük védelmére, zavartalan üzemeltetése, ellenőrzése, karbantartása, javítása és az üzemzavar-elhárítás biztosítására biztonsági szabályzatban meghatározott méretű biztonsági övezetet kell megállapítani.
 
 (2) A biztonsági övezeten belül tilos
 
@@ -32,16 +32,16 @@ e) a tereprendezés.
 
 (4) A biztonsági övezetben az építésügyi hatóság által jogerősen elrendelt bontási tevékenység elvégezhető.
 
-(5)[^198] A biztonsági övezeten belül az üzemeltetéshez, karbantartáshoz, felújításhoz szükséges tevékenységek, beleértve az építési tevékenységet is, folytathatók, az ehhez szükséges létesítmények, anyagok ideiglenesen elhelyezhetők. Az üzemeltető előzetes írásbeli hozzájárulásával más személy a biztonsági övezetben végezni kívánt tevékenységhez szükséges létesítményeket, anyagokat ideiglenesen elhelyezheti.
+(5)[^189] A biztonsági övezeten belül az üzemeltetéshez, karbantartáshoz, felújításhoz szükséges tevékenységek, beleértve az építési tevékenységet is, folytathatók, az ehhez szükséges létesítmények, anyagok ideiglenesen elhelyezhetők. Az üzemeltető előzetes írásbeli hozzájárulásával más személy a biztonsági övezetben végezni kívánt tevékenységhez szükséges létesítményeket, anyagokat ideiglenesen elhelyezheti.
 
 (6) Az (1) bekezdés szerinti létesítmény jelzéseinek, felszíni műtárgyainak eltakarása, megrongálása, eltávolítása tilos. A biztonsági övezettel érintett ingatlan tulajdonosa, kezelője vagy használója a biztonsági övezetre vonatkozó tilalmakat és korlátozásokat köteles betartani, továbbá nem végezhet olyan tevékenységet, amely a tilalmak és a korlátozások teljesülését veszélyeztetné.
 
-(7)[^199] A biztonsági övezetre előírt tilalmak és korlátozások megtartását az üzemeltető vagy megbízottja köteles rendszeresen ellenőrizni, és azok megsértése esetén köteles a jogszabályban előírt állapot visszaállításáról intézkedni, amelyet a biztonsági övezettel érintett ingatlan tulajdonosa, kezelője vagy használója tűrni köteles. A megtett intézkedéseket és azok eredményét – a szükséges hatósági intézkedések megtétele céljából haladéktalanul – köteles bejelenteni a bányafelügyeletnek.
+(7)[^190] A biztonsági övezetre előírt tilalmak és korlátozások megtartását az üzemeltető vagy megbízottja köteles rendszeresen ellenőrizni, és azok megsértése esetén köteles a jogszabályban előírt állapot visszaállításáról intézkedni, amelyet a biztonsági övezettel érintett ingatlan tulajdonosa, kezelője vagy használója tűrni köteles. A megtett intézkedéseket és azok eredményét – a szükséges hatósági intézkedések megtétele céljából haladéktalanul – köteles bejelenteni a bányafelügyeletnek.
 
 (8) A biztonsági övezet kérelemre módosítható, ha a műszaki-biztonsági feltételek lehetővé teszik.
 
 (9) A biztonsági övezettel érintett ingatlanokra alapított vezetékjog, használati jog ingatlan-nyilvántartásba történő bejegyzését a létesítmény használatba vétele iránti kérelem benyújtása előtt kezdeményezni kell. Azokban a jogszabályban meghatározott esetekben, amikor szolgalmi jog, vezetékjog, használati jog az ingatlan-nyilvántartásba nem jegyezhető be, az üzemeltető a biztonsági övezetről, az előírt korlátozásokról és tilalmakról, valamint ezek megváltozásáról köteles az érintett ingatlantulajdonost (kezelőt, használót) az üzembe helyezés előtt, és a változást követően 30 napon belül írásban tájékoztatni.
 
-[^197]: A Vhr. 19/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 25. §-a iktatta be, szövege az 559/2013. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^198]: A Vhr. 19/A. § (5) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^199]: A Vhr. 19/A. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés g) pontja szerint módosított szöveg.
+[^188]: A Vhr. 19/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 25. §-a iktatta be, szövege az 559/2013. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^189]: A Vhr. 19/A. § (5) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^190]: A Vhr. 19/A. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés g) pontja szerint módosított szöveg.
