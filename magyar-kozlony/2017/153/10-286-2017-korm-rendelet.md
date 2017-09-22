@@ -1,0 +1,243 @@
+# A Kormány 286/2017. (IX. 22.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 153. szám, 2017. szeptember 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/714aa86e773161978812ed17e110b2c7cd63e436/dokumentumok/0c0d5b3b0979956b3874148589f49c17e5008b94/letoltes)
+
+---
+
+A Kormány 286/2017. (IX. 22.) Korm. rendelete
+a nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló
+165/2003. (X. 18.) Korm. rendelet, valamint az országos nukleárisbaleset-elhárítási rendszerről szóló
+167/2010. (V. 11.) Korm. rendelet módosításáról
+A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény 67. §-ának e) pontjában kapott felhatalmazás alapján, az Alaptörvény
+15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló
+165/2003. (X. 18.) Korm. rendelet módosítása
+1. §
+A nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló 165/2003. (X. 18.)
+Korm. rendelet (a továbbiakban: Rendelet) 1. §-a helyébe a következő rendelkezés lép:
+„1. § (1) A rendelet hatálya az Országos Nukleárisbaleset-elhárítási Rendszer szerveire és szervezeteire terjed ki.
+(2) A rendeletben foglaltakat alkalmazni kell az Alaptörvény 53. cikke szerinti, a katasztrófavédelemről és a hozzá
+kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 44. § b) pont bb) alpontjában
+meghatározott esemény miatt kihirdetett veszélyhelyzet esetén is.”
+2. §
+A Rendelet 2. § b) és c) pontja helyébe a következő rendelkezések lépnek:
+(E rendelet alkalmazásában:)
+„b) valószínűsíthetően érintett lakosság: a nukleáris veszélyhelyzet által várhatóan csak közvetve érintett lakossági
+csoport, akik a veszélyforrástól távolabb élnek;
+c) ténylegesen érintett lakosság: nukleáris veszélyhelyzetben a veszélyforrás közelében élő, a veszélyforrás
+által közvetlenül veszélyeztetett lakosság, akiket egy esetleges veszélyhelyzet során végrehajtandó sürgős
+óvintézkedésekre előzetesen fel kell készíteni;”
+3. §
+A Rendelet 7. §-a helyébe a következő rendelkezés lép:
+„7. § (1) A nukleáris és radiológiai veszélyhelyzet esetén önálló lakossági tájékoztatás végzésére jogosult szervek:
+a) a hivatásos katasztrófavédelmi szerv központi szerve,
+b) a kormányzati koordinációs szerv vagy munkaszervei,
+c) az atomenergia-felügyeleti szerv,
+d) az MVM Paksi Atomerőmű Zrt.,
+e) az egészségügyért felelős miniszter vagy az általa kijelölt személy.
+(2) A nukleáris és radiológiai veszélyhelyzet esetén lakossági tájékoztatásra az (1) bekezdésben meghatározott
+szervekkel előzetes egyeztetés alapján jogosult szervek:
+a) az ágazati nukleárisbaleset-elhárítási szervezetek,
+b) a megyei, fővárosi védelmi bizottságok,
+c) a Magyar Tudományos Akadémia Energiatudományi Kutatóközpont kutatóreaktora,
+d) a Budapesti Műszaki és Gazdaságtudományi Egyetem oktatóreaktora,
+e) a Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft.,
+f) az Országos Közegészségügyi Intézet,
+
+g) a Magyarország területén sugárveszélyes tevékenység végzésére engedéllyel rendelkező szervezet,
+h) a Nemzeti Élelmiszerlánc-biztonsági Hivatal,
+i) az Országos Mentőszolgálat.
+(3) Az (1)–(2) bekezdésben meghatározott tájékoztatás rendjét, tartalmi elemeit, annak módját valamint
+a (2) bekezdésben meghatározott előzetes egyeztetés szabályait az Országos Lakossági Tájékoztatási Terv határozza
+meg.
+(4) A Nukleáris Baleseti Információs és Értékelő Központban, valamint az ágazati és területi információs
+központokban keletkezett információkat az Országos Lakossági Tájékoztatási Terv szerint kell közzétenni.
+(5) Az 1. § (2) bekezdésben foglalt feltételek fennállása esetén a veszélyhelyzet elhárításával kapcsolatos
+kormányzati kommunikációs tevékenységet a kormányzati koordinációs szerv vezetője hangolja össze.”
+4. §
+A Rendelet 10. §-a helyébe a következő rendelkezés lép:
+„10. § Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló
+alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom,
+a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, a Tanács 2013. december 5-i
+2013/59/Euratom irányelvének való megfelelést szolgálja.”
+5. §
+A Rendelet 2. számú melléklete helyébe az 1. melléklet lép.
+2. Az országos nukleárisbaleset-elhárítási rendszerről szóló 167/2010. (V. 11.) Korm. rendelet módosítása
+6. §
+Az országos nukleárisbaleset-elhárítási rendszerről szóló 167/2010. (V. 11.) Korm. rendelet (a továbbiakban:
+ONER Rendelet) 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az ONER működési állapota változásának – az 1. §-ban meghatározott feltételeknek megfelelő – részletes
+kritériumait és feltételeit, az ONER működési rendjét a kormányzati koordinációs szerv a központi veszélyelhárítási
+terv részeként, az Országos Nukleárisbaleset-elhárítási Intézkedési Tervben (a továbbiakban: OBEIT) állapítja meg.
+Az OBEIT minimális tartalmi elemeit a 3. melléklet határozza meg.”
+7. §
+Az ONER Rendelet a következő 19. §-sal egészül ki:
+„19. § Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló
+alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom,
+a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, a Tanács 2013. december 5-i
+2013/59/Euratom irányelvének való megfelelést szolgálja.”
+8. §
+Az ONER Rendelet 1. melléklete a 2. melléklet szerint módosul.
+9. §
+Az ONER Rendelet a 3. melléklet szerinti 3. melléklettel egészül ki.
+3. Záró rendelkezések
+10. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+11. §
+Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló
+alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom,
+a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, a Tanács 2013. december 5-i
+2013/59/Euratom irányelvének való megfelelést szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 286/2017. (IX. 22.) Korm. rendelethez
+„2. számú melléklet a 165/2003. (X. 18.) Korm. rendelethez
+A Lakossági Tájékoztatási Tervek tartalma, a tájékoztatás sajátosságai
+A) A megelőzés időszakában, a baleset korai és késői fázisában
+1. A Lakossági Tájékoztatási Tervek tartalma a megelőzés időszakában, a médiakapcsolatok alakítása:
+a) az országos Lakossági Tájékoztatási Tervből eredő feladatok lebontása az adott szervezet szintjére,
+b) a tájékoztatás igényének felmérése és az előírt követelmények alapján a szervezet saját tájékoztatási terve,
+c) a médiával való kapcsolattartás alapvető szabályai,
+d) a média képviselőinek rendszeres felkészítésére vonatkozó előírások,
+e) gyakorlatok alatt az alapvető funkcionális tevékenység, a kommunikációs rendszer használhatóságának,
+a médiakapcsolatok folyamatosságának ellenőrzésére vonatkozó szabályok,
+f) a lakosság esetleges veszélyhelyzeti teendőire vonatkozó tájékoztatás, az alábbi ismeretekre kiterjedően
+(tájékoztató anyag):
+fa) a radioaktivitás alapismeretei, annak az emberre és környezetre gyakorolt hatása,
+fb) a különböző típusú nukleáris és radiológiai veszélyhelyzetek, illetve azok következményei,
+fc) a tervezett óvintézkedések a lakosság védelme érdekében,
+fd) a lakosság feladatai veszélyhelyzet esetén (pl. a hiteles hírforrások utasításainak követése, rádió,
+televízió bekapcsolása).
+A tájékoztató anyagokban ismertetni kell az alábbi alapfogalmakat, definíciókat:
+a) a radioaktivitással kapcsolatos alapismeretek (egységek, aktivitás, dózis, dózisteljesítmény, természetes és
+mesterséges radioaktív sugárzás),
+b) a radioaktív sugárzás emberre és környezetre gyakorolt hatása (besugárzás és szennyeződés, korai és késői
+hatások, radioaktív izotópok terjedése a táplálékláncban),
+c) a különböző típusú radiológiai veszélyhelyzetek és azok következményei [nemzetközi nukleáris esemény
+skála (INES)],
+d) a lakosság védelme érdekében tervezett óvintézkedések (riasztás, általános óvintézkedések: jódbevitel,
+elzárkóztatás, kimenekítés, áttelepítés).
+A megvalósítás lehetséges formái:
+a) középiskolai tantervek, felsőoktatási programok vonatkozó tantárgyaiba beépítve,
+b) nemzeti kiadványok, a Nemzetközi Atomenergia Ügynökség, valamint más nemzetközi kiadványok átvétele,
+terjesztése,
+c) elektronikus média eszközeinek felhasználása,
+d) katasztrófavédelmi folyóirat terjesztése az érintetteknek.
+2. A Lakossági Tájékoztatási Tervek tartalma nukleáris veszélyhelyzetben, valamint a médiakapcsolatok aktivizálása
+a lakosság tájékoztatása érdekében a baleset korai fázisában:
+a) a lakosság hiteles tájékoztatásának szabályai a várható vagy bekövetkezett veszélyhelyzet típusáról, és ahol
+lehetséges, az esemény jellemzőiről (pl. ok, kiterjedés és várható fejlemények, következmények),
+b) a veszélyhelyzet jellegétől függően a javasolt óvintézkedések szabályai, amelyek az alábbiakra terjedhetnek ki:
+ba) a valószínűsíthetően szennyezett élelmiszerek és ivóvíz fogyasztásának korlátozására, speciális
+kiegészítő higiéniai szabályok bevezetésére, mentesítésre, elzárkóztatásra, védőfelszerelések és
+anyagok szétosztására és használatára, áttelepítésre, kimenekítési intézkedésekre vonatkozó
+előírások,
+bb) az egyes lakossági csoportokra vonatkozó speciális kiegészítő óvintézkedésekkel kapcsolatos
+tudnivalók,
+c) a hatóságokkal történő együttműködés szabályai,
+d) intézmények tájékoztatására, a feladatok ismertetésére vonatkozó előírások,
+e) ajánlások egyes különösen érzékeny csoportok részére (gyermekek, terhes anyák),
+f) a média megkeresésére és a hivatalos tájékoztatás közlésére vonatkozó rendelkezések a nukleárisbaleset-
+elhárító szervezetek, a beavatkozások célja, módszerei és annak elmaradása vonatkozásában,
+g) sajtótájékoztatók tartásának szabályai,
+h) javasolt óvintézkedések és teendők folyamatos ismétlésére vonatkozó rendelkezések,
+i) információ visszacsatolásának és feldolgozásának szabályai.
+
+3. A Lakossági Tájékoztatási Tervek tartalma a baleset következményeinek felszámolásáról a baleset késői fázisában:
+a) saját szakterületen belül a helyreállítási terv főbb, lakosságot érintő elemeire vonatkozó rendelkezések,
+b) a hosszú távú óvintézkedésekkel kapcsolatos információk terjesztésének szervezésére vonatkozó szabályok,
+ezen belül: a továbbra is zárt területek határairól, a visszaköltözésre vonatkozó utasításokról, szabályokról,
+a felszámolási munkák üteméről, terjedelméről, az élelmiszerek és víz fogyasztásával kapcsolatos
+korlátozásokról, valamint lakossági kérdések megválaszolására felállított ügyeletekről való információk,
+c) a felszámolási munkákról, a mentesítésről, a zárt területekről vezetett nyilvántartásokra vonatkozó
+rendelkezések,
+d) a hosszabb távú tevékenységről rendelkező tájékoztató anyagok, kiadványok készítésének szabályai.
+B) Az érintett lakosság tekintetében:
+1. A lakosságnak a veszélyhelyzettel ténylegesen érintett tagjai számára nyújtandó tájékoztatás tartalma:
+A kidolgozott veszélyhelyzet-elhárítási terv alapján a lakosságnak a veszélyhelyzetben ténylegesen érintett tagjait
+gyorsan és rendszeresen az alábbi információkkal kell ellátni:
+a) a bekövetkezett veszélyhelyzet típusára és – amennyiben lehetséges – jellemzőire (például eredetére,
+kiterjedésére és várható alakulására) vonatkozó tájékoztatással,
+b) a védekezésre vonatkozó tanácsokkal, amelyek a veszélyhelyzet típusától függően:
+ba) kiterjedhetnek a valószínűsíthetően szennyezett élelmiszerek és ivóvíz fogyasztásának
+korlátozására, bizonyos egyszerű higiéniai és fertőtlenítési szabályokra, az épületekben való
+tartózkodás előnyeinek tudatosítására, a védőanyagok szétosztására és használatára, valamint
+a kitelepítési intézkedésekre,
+bb) kiegészülhetnek szükség esetén a lakosság meghatározott csoportjainak szóló különleges
+figyelmeztetésekkel,
+bc) kiegészülhetnek az illetékes hatóság utasításainak és kéréseinek teljesítésére felszólító
+közleményekkel.
+2. A lakosság veszélyhelyzettel valószínűsíthetően érintett tagjainak előzetesen nyújtandó tájékoztatás tartalma:
+a) a radioaktivitással és annak az emberre és a környezetre gyakorolt hatásaival kapcsolatos alapvető tények,
+b) a veszélyhelyzetek különböző típusai és következményeik a lakosságra és a környezetre nézve,
+c) a veszélyhelyzet bekövetkezése esetén a lakosság figyelmeztetése, védelme és segítése érdekében
+alkalmazott intézkedések,
+d) tájékoztatás a lakosság által veszélyhelyzetben megteendő lépésekről.
+3. Ha a veszélyhelyzetet előzetes riasztási fázis előzi meg, a lakosság valószínűsíthetően érintett tagjait már ekkor
+tájékoztatással és tanácsokkal kell ellátni, így például:
+a) fel kell őket kérni a megfelelő kommunikációs csatornák figyelésére,
+b) a felkészülést segítő tanácsokat kell adni a különleges közösségi feladatokat ellátó szervezetek számára,
+c) ajánlásokat kell megfogalmazni a különösen érintett foglalkozási csoportok számára.
+4. Ha az idő engedi, a 3. pont szerinti tájékoztatást és tanácsadást ki kell egészíteni a radioaktivitásra és annak
+az emberre és a környezetre gyakorolt hatásaira vonatkozó alapvető tények felidézésével.”
+2. melléklet a 286/2017. (IX. 22.) Korm. rendelethez
+1. Az ONER Rendelet 1. melléklet 2.11. alpontja helyébe a következő rendelkezés lép:
+„2.11. az MVM Paksi Atomerőmű Zrt.”
+2. Az ONER Rendelet 1. melléklet 2.15. alpontja helyébe a következő rendelkezés lép:
+„2.15. a Magyar Tudományos Akadémia Energiatudományi Kutatóközpont”
+
+3. melléklet a 286/2017. (IX. 22.) Korm. rendelethez
+„3. melléklet a 167/2010. (V. 11.) Korm. rendelethez
+Az Országos Nukleárisbaleset-elhárítási Intézkedési Terv minimális tartalmi elemei
+A veszélyhelyzet-kezelési rendszer tekintetében más jogszabályok által nem szabályozott kérdésekben
+1. A potenciális veszélyhelyzeti sugárzási helyzetek és a kapcsolódó lakossági és veszélyhelyzeti foglalkoztatási
+sugárterhelések felmérése.
+2. A veszélyhelyzetre való felkészüléssel és annak elhárításával kapcsolatban feladatot ellátó személyek és szervezetek
+felelősségi körének egyértelmű kijelölése.
+3. Megfelelő szintű, egy konkrét létesítményhez vagy emberi tevékenységhez kapcsolódó veszélyhelyzet-elhárítási
+tervek kidolgozása.
+4. Megbízható kommunikációs kapcsolat, valamint az együttműködés és koordináció hatékony és eredményes
+szabályainak kialakítása létesítményi, valamint megfelelő nemzeti és nemzetközi szinten.
+5. A veszélyhelyzeti munkavállalók egészségének védelme.
+6. A veszélyhelyzeti munkavállalók és a veszélyhelyzeti elhárítás területén felelősséget viselő vagy feladatokat ellátó
+valamennyi személy előzetes tájékoztatására és képzésére vonatkozó intézkedések és rendszeres gyakorlatok
+rendje.
+7. A veszélyhelyzeti munkavállalók személyi monitoringjának, illetve a személyi dózisok értékelésének, valamint
+a dózisok nyilvántartásának rendje.
+8. A lakosság tájékoztatásának rendje.
+9. Az érdekeltek részvétele.
+10. A veszélyhelyzeti sugárzási helyzet és a meglévő sugárzási helyzet közötti átmenet meghatározása, beleértve
+a helyreállítást és a kiigazító tevékenységeket.
+A veszélyhelyzet-elhárítási terv tekintetében
+A) Veszélyhelyzetre való felkészülés területén:
+1. A lakossági sugárterhelés vonatkoztatási szintjei, az ionizáló sugárzás elleni védelemről és a kapcsolódó
+engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendeletben előírt kritériumok
+figyelembevételével.
+2. A veszélyhelyzeti foglalkoztatási sugárterhelés vonatkoztatási szintjei az ionizáló sugárzás elleni védelemről
+és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet
+figyelembevételével.
+3. Optimált stratégiák a lakosság azon tagjainak védelmére, akiket sugárterhelés érhet, a különböző lehetséges
+események esetére, valamint az ezekhez tartozó forgatókönyvek.
+4. Az egyes védelmi intézkedésekhez előre meghatározott általános kritériumok.
+5. Kiváltó események vagy operatív kritériumok, például a helyszíni körülmények közvetlenül megfigyelhető jellemzői
+és mutatói.
+6. A veszélyhelyzetekre való felkészülés és azok elhárítása terén feladattal rendelkező szervezetek közötti, valamint
+az Európai Unió tagállamaival és az érintett vagy valószínűsíthetően érintett harmadik országokkal való
+haladéktalan koordináció megvalósításának rendje.
+7. A veszélyhelyzet-elhárítási terv felülvizsgálatának és átdolgozásának rendje, figyelemmel a körülmények
+változásaira, valamint a gyakorlatok és a bekövetkezett események tanulságaira.
+Előre meg kell határozni azokat a szabályokat, amelyeket követve ezek az elemek a veszélyhelyzeti sugárzási
+helyzet közben az elhárítás nyomán változó mindenkori körülmények figyelembevétele érdekében szükség szerint
+felülvizsgálhatók.
+B) Veszélyhelyzeti beavatkozás területén:
+A veszélyhelyzeti sugárzási helyzetek elhárítása a felkészülési előírások időben történő végrehajtását jelenti, és
+ennek keretében többek között:
+1. a védelmi intézkedések végrehajtásának leírása, melyek csökkentik vagy megakadályozzák a beavatkozók
+sugárterhelését,
+2. értékelni kell a stratégiák és a megtett intézkedések hatásosságát, és szükség szerint hozzá kell őket igazítani
+a mindenkori körülményekhez,
+
+3. a dózisok és vonatkoztatási szintek összehasonlításának módszerei, eljárások dózistúllépések esetén, valamint
+a munkára bocsátás feltételeinek (önkéntesség) meghatározása,
+4. a védekezési stratégiák meghatározásának módszerei.”
