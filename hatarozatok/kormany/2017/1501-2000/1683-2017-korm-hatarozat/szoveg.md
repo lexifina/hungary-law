@@ -8,6 +8,6 @@ c) a rendkívüli kormányzati intézkedésekre szolgáló tartalékból törté
 
 d) a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1447/2017. (VII. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 3 925 000 000 forintból 3 840 335 000 forint és a K7. Felújítások kiemelt előirányzat javára átcsoportosított 760 000 000 forint a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-2. A Budapest I. kerület Színház utca 1–3. és 5–11. szám alatti ingatlanban egyedi belsőépítészeti kialakítás kivitelezéséhez szükséges források biztosításáról szóló 1847/2016. (XII. 23.) Korm. határozat [a továbbiakban: 1847/2016. (XII. 23.) Korm. határozat] 1. pontjában a „kialakítás kivitelezéséhez” szövegrész helyébe a „kialakításhoz” szöveg lép.
+2–3.[^1]
 
-3. A Kormány az 1847/2016. (XII. 23.) Korm. határozat 2. pontját visszavonja.
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
