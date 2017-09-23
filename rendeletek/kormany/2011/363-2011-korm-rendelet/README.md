@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-363-20-
 | 2015-09-01 | 2011-363-20-22.10 | 205/2015. (VII. 23.) Korm. rendelet |
 | 2016-07-01 | 2011-363-20-22.11 | 169/2016. (VII. 1.) Korm. rendelet |
 | 2016-09-29 | 2011-363-20-22.12 | 205/2015. (VII. 23.) Korm. rendelet |
+| 2017-09-23 | 2011-363-20-22.13 | 284/2017. (IX. 22.) Korm. rendelet |
