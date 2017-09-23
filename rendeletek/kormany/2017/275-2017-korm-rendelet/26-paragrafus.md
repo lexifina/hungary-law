@@ -1,4 +1,4 @@
-## 24–25. §[^4]
+## 24–25. §[^5]
 
 ## 6. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 3–25. §, továbbá a 27. § e rendelet kihirdetését követő 15. napon lép hatályba.
 
-[^4]: A 24–25. § a 26. § (2) bekezdése alapján 2017. október 6-án lép hatályba.
+[^5]: A 24–25. § a 26. § (2) bekezdése alapján 2017. október 6-án lép hatályba.
