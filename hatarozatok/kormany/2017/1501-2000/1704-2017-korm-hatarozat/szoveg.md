@@ -1,1 +1,0 @@
-Az egyes határon túli támogatási ügyek forrásszükségletének biztosításáról szóló 1802/2016. (XII. 20.) Korm. határozat 1. mellékletében foglalt táblázatban a „felvidéki ingatlanberuházási támogatás” szövegrész helyébe a „felvidéki ingatlanberuházási és eszközbeszerzési támogatás” szöveg lép.
