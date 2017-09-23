@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-274-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-09-22 | 2017-274-20-22.1 | 274/2017. (IX. 21.) Korm. rendelet |
+| 2017-09-23 | 2017-274-20-22.2 | 127/2022. (III. 30.) Korm. rendelet |
