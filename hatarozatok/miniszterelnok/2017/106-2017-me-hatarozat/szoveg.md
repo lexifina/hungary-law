@@ -10,4 +10,6 @@ d) felhívom a külgazdasági és külügyminisztert, hogy a Megállapodás lét
 
 e) felhívom a honvédelmi minisztert és a külgazdasági és külügyminisztert, hogy a Megállapodás létrehozását követően a Megállapodás szövegének végleges megállapítására való felhatalmazásról szóló határozat tervezetét haladéktalanul terjesszék a Kormány elé.
 
-2. A Magyar Köztársaság Kormánya és a NATO Szövetséges Transzformációs Parancsnokság közötti, a NATO Katona-egészségügyi Kiválósági Központ Magyar Köztársaság területén történő létrehozásáról és támogatásáról szóló megállapodás létrehozására adott felhatalmazásról szóló 29/2009. (VI. 12.) ME határozatot visszavonom.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
