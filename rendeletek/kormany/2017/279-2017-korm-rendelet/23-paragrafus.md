@@ -1,1 +1,3 @@
-## 22. § Hatályát veszti a fenntartható bioüzemanyag-termelés követelményeiről és igazolásáról szóló 343/2010. (XII. 28.) Korm. rendelet.
+## 22. §[^2]
+
+[^2]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
