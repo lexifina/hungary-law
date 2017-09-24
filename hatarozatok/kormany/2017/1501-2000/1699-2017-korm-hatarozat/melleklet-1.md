@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:35 mezőjében a „0,82” szövegrész helyébe az „1,05” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1699/2017. (IX. 22.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, Ft) | Többlettámogatás legfeljebb (bruttó, Ft) | Megnövelt támogatás legfeljebb (bruttó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP- 1.3.0-15- 2016-00011 | Belvízvédelmi szivattyútelepek fejlesztése és rekonstrukciója | Országos Vízügyi Főigazgatóság (konzorciumvezető), Észak- dunántúli Vízügyi Igazgatóság, Közép-Duna-völgyi Vízügyi Igazgatóság, Alsó-Duna-völgyi Vízügyi Igazgatóság, Dél-dunántúli Vízügyi Igazgatóság, Nyugat- dunántúli Vízügyi Igazgatóság, Felső-Tisza-vidéki Vízügyi Igazgatóság, Észak-magyarországi Vízügyi Igazgatóság, Tiszántúli Vízügyi Igazgatóság, Körös-vidéki Vízügyi Igazgatóság (konzorcium tagjai) | 820 000 000 | 225 532 123 | 1 045 532 123 | A projekt célja a belvízi szivattyútelepek fejlesztési és rekonstrukciós munkáinak elvégzése országos szinten, amely munkálatok eredményeként javulnak a vízkészletekkel történő fenntartható gazdálkodás feltételei. A projekt szerinti vízgazdálkodási fejlesztéssel érintett területek nagysága 31 000 hektár. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
