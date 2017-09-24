@@ -1,5 +1,0 @@
-## 1. § A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósítandó tanuszoda, tornaterem, tanterem beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 141/2014. (IV. 30.) Korm. rendelet (a továbbiakban: Rendelet) 1. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló, az 1. és 2. mellékletben felsorolt és megjelölt földrészleteken, illetve ezen földrészletekből telekalakítási eljárás jogerős befejezését követően kialakított földrészleteken megvalósuló beruházásokkal összefüggő, a 3. mellékletben meghatározott közigazgatási hatósági ügyeket.
-
-## (2) Az (1) bekezdés alkalmazásában a beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek az 1. és 2. mellékletben felsorolt beruházások megvalósításához és használatbavételéhez szükségesek.”
