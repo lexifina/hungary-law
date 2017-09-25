@@ -40,7 +40,7 @@
 
 ## Határidő: az 1371/2016. (VII. 15.) és az 1505/2016. (IX. 21.) Korm. határozatok soron következő módosításakor
 
-1. melléklet az 1552/2017. (VIII. 18.) Korm. határozathoz
+1. melléklet az 1552/2017. (VIII. 18.) Korm. határozathoz[^1]
 
 | XI. Miniszterelnökség XVII. Nemzeti Fejlesztési Minisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017 Forintban |
 
@@ -56,7 +56,7 @@
 
 | 358951 |  |  |  | 78 |  |  |  |  |  | Modern Városok Program |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -4 566 000 000 |  |  |  |
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 4 550 0190 000 |  |  |  |
 
 |  | XVII. |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -64,9 +64,9 @@
 
 |  |  |  | 32 |  |  |  |  |  | Közlekedési ágazati programok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  | 38 |  |  |  |  |  | Közútfejlesztési feladatok végrehajtása |  |  |  |  |  |  |  |  |  |  |  |  |
+| 351651 |  |  |  | 28 |  |  |  |  |  | Kiemelt közúti projektek |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 4 566 000 000 |  |  |  |
+|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 15 981 000 |  |  |  |
 
 |  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -100,7 +100,7 @@
 
 |  |  |  | 32 |  |  |  |  |  | Közlekedési ágazati programok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  | 28 |  |  |  |  |  | Kiemelt közúti projektek |  |  |  |  |  |  |  |  |  | 4 566 000 000 |  |  |  |
+| 351651 |  |  |  | 28 |  |  |  |  |  | Kiemelt közúti projektek |  |  |  |  |  |  |  |  |  | 4 566 000 000 |  |  |  |
 
 | Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -119,3 +119,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. melléklet az 1707/2017. (IX. 25.) Korm. határozat 6–7. pontja szerint módosított szöveg.
