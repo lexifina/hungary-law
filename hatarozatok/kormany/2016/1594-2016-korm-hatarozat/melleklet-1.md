@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 2 172 740 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## 2.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 2 172 740 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -18,7 +18,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, honvédelmi miniszter, belügyminiszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. június 30., a Közútfejlesztési feladatok végrehajtása jogcímcsoport javára biztosított 40 140 ezer forint tekintetében 2017. december 15.
 
 ## 3. egyetért azzal, hogy a belügyminiszter a 2. pont szerint a IX. Helyi önkormányzatok támogatásai fejezet részére átcsoportosított 562 000 ezer forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben nyújtson 562 000 ezer forint támogatást Göd Város Önkormányzata (a továbbiakban: Önkormányzat) részére, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről támogatási szerződést kössön az Önkormányzattal, 2017. december 31-ig történő felhasználási kötelezettség előírása mellett;
 
@@ -225,3 +225,5 @@ ezer forintban
 | Fejezetet irányító szerv 1 példány Állami Számvevőszék 1 példány Magyar Államkincstár 1 példány Nemzetgazdasági Minisztérium 2 példány | időarányos teljesítményarányos egyéb: azonnal | 2 172 740 |  |  |  |  | 2 172 740 |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: A 2. pont az 1707/2017. (IX. 25.) Korm. határozat 10. pontja szerint módosított szöveg.
