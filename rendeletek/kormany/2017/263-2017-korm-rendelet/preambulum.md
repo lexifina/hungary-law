@@ -1,0 +1,1 @@
+A Kormány a kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény 8. § (1) bekezdésben kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
