@@ -35,3 +35,7 @@
 16. termékre vonatkozó műszaki előírás: a teljesítménynyilatkozat műszaki tartalmú alapdokumentuma, mely lehet harmonizált európai szabvány, európai műszaki értékelés, vagy ennek hiányában nem harmonizált európai szabvány, más magyar szabvány, Magyarország területén elfogadott nemzeti műszaki értékelés, vagy hatályos építőipari műszaki engedély,
 
 17. tervezett felhasználás: az építési termék gyártója által meghatározott az építési termékre vonatkozó rendeltetés.
+
+18.[^1] tűzvédelmi célú építési termék: a tűz észlelésére, jelzésére, oltására, a beavatkozás megkönnyítésére, a tűzkár csökkentésére vagy a tűz kialakulásának, terjedésének megakadályozására szolgáló aktív beépített tűzvédelmi berendezés vagy annak részét képező építési termék készlet vagy elem, amelyre nem vonatkozik harmonizált európai szabvány vagy európai műszaki értékelés.
+
+[^1]: A 2. § 18. pontját a 261/2017. (IX. 11.) Korm. rendelet 1. §-a iktatta be.
