@@ -16,35 +16,11 @@
 
 ## 3. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1104/2017. (III. 6.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 53. Üldözött keresztények segítésének feladatai alcím, 3. Keresztényüldözés témakörével összefüggő pályázatok és szakmai feladatok támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 120 000 000 forintból 4 880 000 forint a K1. Személyi juttatások kiemelt előirányzaton, 1 000 000 forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 10 184 600 forint a K3. Dologi kiadások kiemelt előirányzaton, 3 556 000 forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1241/2017. (IV. 28.) Korm. határozat 1. pont b) alponjában a „K1. Személyi juttatások kiemelt előirányzaton 55 675 ezer forint, K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton 12 248 ezer forint, K3. Dologi kiadások kiemelt előirányzaton 481 297 ezer forint, K5. Egyéb működési célú kiadások kiemelt előirányzaton 1 502 826 ezer forint, K6. Beruházások kiemelt előirányzaton 205 480 ezer forint, K7. Felújítások kiemelt előirányzaton 314 000 ezer forint, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton 1 368 474 ezer forint” szövegrész helyébe a „K1. Személyi juttatások kiemelt előirányzaton 64 265 ezer forint, K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton 14 052 ezer forint, K3. Dologi kiadások kiemelt előirányzaton 489 679 ezer forint, K5. Egyéb működési célú kiadások kiemelt előirányzaton 1 279 600 ezer forint, K6. Beruházások kiemelt előirányzaton 211 930 ezer forint, K7. Felújítások kiemelt előirányzaton 314 000 ezer forint, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton 1 377 474 ezer forint, a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím, K3. Dologi kiadások kiemelt előirányzaton 25 000 ezer forint, a XXXIII. Magyar Tudományos Akadémia fejezet, 3. MTA kutatóközpontok, kutatóintézetek cím, K3. Dologi kiadások kiemelt előirányzaton 87 168 ezer forint, K6. Beruházások kiemelt előirányzaton 1 832 ezer forint, a XXXIV. Magyar Művészeti Akadémia fejezet, 1. MMA Titkársága cím, K1. Személyi juttatások kiemelt előirányzaton 10 000 ezer forint, K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton 2 200 ezer forint, K3. Dologi kiadások kiemelt előirányzaton 62 800 ezer forint” szöveg lép.
+## 4.[^1]
 
 ## 5. A Kormány egyetért azzal, hogy a Modern Városok Program keretében a Dunaújváros, Szórád Márton u. 39. szám alatti ingatlan állami tulajdonba kerülésével kapcsolatos intézkedésekről, valamint az ingatlan fejlesztéséhez, felújításához 2017. évben szükséges forrás előirányzat-átcsoportosításáról szóló 1477/2017. (VII. 25.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 1 676 159 342 forintból 57 410 905 forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-## 6. A Modern Városok Program keretében megvalósuló közlekedésfejlesztéssel kapcsolatos előirányzat-átcsoportosításokról szóló 1552/2017. (VIII. 18.) Korm. határozat 1. mellékletében foglalt táblázat Közútfejlesztési feladatok végrehajtása sora és Kiemelt közúti projektek sora az Államháztartási egyedi azonosító oszlopban a következő rendelkezéssel egészül ki:
-
-## „351651”
-
-## 7. A Modern Városok Program keretében megvalósuló közlekedésfejlesztéssel kapcsolatos előirányzat-átcsoportosításokról szóló 1552/2017. (VIII. 18.) Korm. határozat
-
-## a) 1. mellékletében foglalt táblázat Jogcím csop. szám oszlopában a „38” szövegrész helyébe a „28” szöveg,
-
-## b) 1. mellékletében foglalt táblázatban a „Közútfejlesztési feladatok végrehajtása” szövegrész helyébe a „Kiemelt közúti projektek” szöveg,
-
-## c) 1. mellékletében foglalt táblázatban a „K5” szövegrész helyébe a „K3” szöveg,
-
-## d) 1. mellékletében foglalt táblázatban az „Egyéb működési célú kiadások” szövegrész helyébe a „Dologi kiadások” szöveg,
-
-## e) 1. mellékletében foglalt Kiadások táblázatban a „4 566 000 000” szövegrész helyébe a „15 981 000” szöveg,
-
-## f) 1. mellékletében foglalt Kiadások táblázatban a Módosítás (+/-) oszlop és az Egyéb felhalmozási célú kiadások sor cellába a „4 550 019 000” szöveg
-
-## lép.
-
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1052/2014. (II. 11.) Korm. határozat 1. pont b) pontjában a „2016. december 31.” szövegrész helyébe a „2017. december 31.” szöveg lép.
-
-## 9. A magyar irodalmi és történelmi örökség részét képező ingóságoknak, valamint kiállítóhely ingatlannak a Petőfi Irodalmi Múzeum részére történő megvásárlása céljából a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1690/2014. (XI. 26.) Korm. határozatban a „2015. december 31.” szövegrész helyébe a „2017. december 31.” szöveg lép.
-
-## 10. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1594/2016. (X. 28.) Korm. határozat 2. pontjában a „2017. június 30.” szövegrész helyébe a „2017. június 30., a Közútfejlesztési feladatok végrehajtása jogcímcsoport javára biztosított 40 140 ezer forint tekintetében 2017. december 15.” szöveg lép.
+## 6–10.[^2]
 
 1. melléklet az 1707/2017. (IX. 25.) Korm. határozathoz
 
@@ -371,3 +347,6 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
