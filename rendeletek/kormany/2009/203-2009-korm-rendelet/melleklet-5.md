@@ -124,7 +124,7 @@
 
 ## c) az elvégzett vizsgálatok (személyiség, képesség vizsgálat) eredménye alapján a pszichológiai összteljesítmény minimum átlagosnak értékelhető, a vizsgálóhelyek által alkalmazott standardok figyelembevételével.
 
-5. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^30]
+5. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^34]
 
 Az egészségi alkalmassági vizsgálat során alkalmazandó dokumentáció
 
@@ -632,4 +632,4 @@ véleményező foglalkozás-egészségügyi orvos P. H.
 
 V–VI.
 
-[^30]: Az 5. melléklet a 193/2016. (VII. 13.) Korm. rendelet 15. § c) és d) pontja szerint módosított szöveg.
+[^34]: Az 5. melléklet a 193/2016. (VII. 13.) Korm. rendelet 15. § c) és d) pontja szerint módosított szöveg.

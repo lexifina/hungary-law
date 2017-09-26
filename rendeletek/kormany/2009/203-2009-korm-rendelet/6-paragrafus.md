@@ -10,9 +10,9 @@ b) fennálló munkaviszony esetében, valamely alacsonyabb munkaköri csoportba 
 
 c) egyéb munkakörből, a vasúti közlekedés biztonságával összefüggő munkakörbe történő áthelyezés előtt,
 
-d) a vasúti közlekedés biztonságával összefüggő munkakörben hat hónapon túl ismételten foglalkoztatott vagy a tevékenységét bármely okból hat hónapot meghaladó időtartamban nem folytató személynél a munkavégzés megkezdését megelőzően.
+d)[^5] a vasúti közlekedés biztonságával összefüggő munkakörben hat hónapot meghaladó keresőképtelenség után ismételten foglalkoztatni kívánt személynél a munkavégzés megkezdését megelőzően.
 
-(2)[^5] Előzetes szakmai alkalmassági vizsgálatot kell végezni:
+(2)[^6] Előzetes szakmai alkalmassági vizsgálatot kell végezni:
 
 a) az iskolai rendszerű vasúti oktatási intézményben vagy iskolai rendszeren kívül jóváhagyott vasúti szakképzésben részt vevő tanuló esetében a tanulószerződés megkötése előtt,
 
@@ -21,4 +21,5 @@ b) az iskolai rendszeren kívül jóváhagyott szakképzésben résztvevő munka
 c) a közép- és felsőfokú oktatásban részt vevő tanuló vagy hallgató esetében a tanulmányi ösztöndíjszerződés megkötése előtt.
 
 [^4]: A 6. § (1) bekezdés a) pontja a 324/2012. (XI. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 6. § (2) bekezdése a 291/2014. (XI. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: A 6. § (1) bekezdés d) pontja a 259/2017. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 6. § (2) bekezdése a 291/2014. (XI. 26.) Korm. rendelet 3. §-ával megállapított szöveg.

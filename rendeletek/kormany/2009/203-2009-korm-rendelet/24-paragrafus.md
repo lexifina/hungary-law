@@ -4,7 +4,7 @@
 
 (2) Az előzetes vizsgálat tanúsítása során „ideiglenesen nem alkalmas” minősítést kell adni – ha a vizsgálatot végző orvos keresőképtelenséget okozó megbetegedést észlel – a felgyógyulás időtartamáig.
 
-(3)[^15]
+(3)[^16]
 
 (4) A vizsgálatot végző orvos az egészségi alkalmassági tanúsítvány közlésén túl a foglalkoztatással kapcsolatos korlátozásokat is előírhat, amennyiben a vizsgált személy vagy más személy egészségének védelme érdekében az szükséges.
 
@@ -14,4 +14,4 @@
 
 (7) A foglalkozás-egészségügyi orvos tanúsítványának kialakításához az előírt szakorvosi vizsgálatok mellett egyéb járóbeteg-szakorvosi vizsgálatot is igénybe vehet.
 
-[^15]: A 24. § (3) bekezdését a 193/2016. (VII. 13.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^16]: A 24. § (3) bekezdését a 193/2016. (VII. 13.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
