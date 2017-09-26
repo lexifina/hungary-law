@@ -1,4 +1,4 @@
-## 11. §[^6]
+## 11. §[^5]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § és a 4. § a kihirdetését követő 15. napon lép hatályba.
 
-[^6]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
