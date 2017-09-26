@@ -2,7 +2,17 @@
 
 ## 1. § E rendelet alkalmazásában
 
-a) égéstermék-elvezető tartozéka: az égéstermék-elvezetőhöz csatlakozó vagy azzal egy szerkezetet alkotó olyan elem, amely az égéstermék-elvezető ellenőrizhetőségét, tisztíthatóságát vagy biztonságos működését szolgálja;
+a)[^1] égéstermék-elvezető
+
+aa) átalakítása: olyan műszaki, építészeti beavatkozás, amely az égéstermék-elvezető eredeti állapotát megváltoztatja;
+
+ab) eredeti állapota: a létesítés vagy átalakítás esetén az átalakítás időpontjában hatályos műszaki előírások alapján történt jogszerű használatbavételkor meglévő műszaki-biztonsági jellemzők összessége;
+
+ac) felújítása: olyan műszaki-technológiai beavatkozás, amely az eredeti állapot visszaállítását eredményezi, és amelynek következtében az égéstermék-elvezető műszaki előírásoknak megfelelő működésére vonatkozó biztonsági jellemzők az eredeti állapothoz képest nem változnak;
+
+ad) javítása: olyan kis mértékű, legfeljebb az égéstermék-elvezető egyméteres szakaszát érintő műszaki-technológiai – kivéve az égéstermék-elvezető tömörségét érintő – beavatkozás, amely az eredeti állapot visszaállítását eredményezi, és amelynek következtében az égéstermék-elvezető műszaki előírásoknak megfelelő működésére vonatkozó biztonsági jellemzők az eredeti állapothoz képest nem változnak;
+
+ae) tartozéka: az égéstermék-elvezetőhöz csatlakozó vagy azzal egy szerkezetet alkotó olyan elem, amely az égéstermék-elvezető ellenőrizhetőségét, tisztíthatóságát vagy biztonságos működését szolgálja;
 
 b) égéstermék tartós visszaáramlása: a tüzelőberendezés üzembe helyezését követő öt perc eltelte után is tapasztalható égéstermék-visszaáramlás a tüzelőberendezés felállításának helyiségében vagy olyan égéstermék beáramlás a felállítási helyiségbe, amely kiváltja a tüzelőberendezés égéstermék-kiáramlás ellen védő berendezésének reteszelt beavatkozását, aminek következtében a tüzelőberendezés csak a kezelő közreműködésével indítható újra;
 
@@ -15,3 +25,5 @@ cb) harmonizált európai vagy nemzeti szabvány vagy azzal egyenértékű más 
 d) reteszelés: tüzelőberendezések, valamint tüzelőberendezések és egyéb gépi berendezések között kialakított automatikus vezérlés, amely kizárja vagy biztosítja a berendezések egyidejű működését;
 
 e) zárt égésterű tüzelőberendezés: olyan tüzelőberendezés, amelynek teljes égési levegő-ellátását, tűzterét és égéstermék-elvezetését a telepítés helyiségétől és az épület más zárható helyiségeitől is légtömören elzárt üzemeltetésre tervezték, és amely az égési levegőt a szabadból nyeri, valamint az égésterméke az égéstermék-elvezetőn keresztül a szabadba kerül kivezetésre, a telepítés helyiségének nyomásviszonyaitól függetlenül.
+
+[^1]: Az 1. § a) pontja a 23/2017. (IX. 11.) BM rendelet 1. §-ával megállapított szöveg.

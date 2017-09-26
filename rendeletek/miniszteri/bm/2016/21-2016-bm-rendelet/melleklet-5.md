@@ -138,9 +138,9 @@
 
 | 1/f | B-F tűzvédelmi osztályba tartozó építményszerkezetet – a falába beépítve – tartalmazó égéstermék-elvezető használata |
 
-| 1/g | a jogszabály szerinti műszaki vizsgálat nélkül vagy a műszaki vizsgálat során megállapított nem megfelelő minősítés ellenére működtetett égéstermék-elvezető használata |
+| 1/g | a jogszabály szerinti műszaki vizsgálat nélkül vagy a műszaki vizsgálat során megállapított nem megfelelő minősítés ellenére működtetett égéstermék-elvezető használata, ha az ingatlan használója a jogszabály szerinti műszaki vizsgálat nélkül működtetett égéstermék-elvezető műszaki vizsgálatát harminc napon belül nem rendeli meg, és az égéstermék-elvezető használata életveszélyt okoz |
 
-| 1/h | nem megfelelően rögzített, tűzveszélyt jelentő, nem megfelelő anyagú, vagy nem megfelelő tömörségű összekötő elem |
+| 1/h | tűzveszélyt jelentő, nem megfelelő anyagú, vagy nem megfelelő tömörségű összekötő elem |
 
 | 1/i | a tisztítóajtó, tisztítóidom nem megfelelő záródása |
 
@@ -176,7 +176,7 @@
 
 | 3/c | állapota |  |  |
 
-| 3/d | tömörsége | 6. | Szabálytalan bekötés az égéstermék-elvezetőn |
+| 3/d | rögzítése | 6. | Szabálytalan bekötés az égéstermék-elvezetőn |
 
 ## Az égéstermék-elvezetők jele
 
