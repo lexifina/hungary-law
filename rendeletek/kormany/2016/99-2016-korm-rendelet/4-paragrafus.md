@@ -51,3 +51,7 @@ számított három munkanapon belül írásban, igazolható módon, legfeljebb h
 (10) A kéményseprő-ipari tevékenységet ellátó a Kstv. 3. § (6) bekezdésében foglalt értesítési kötelezettségét a sormunka vagy a megrendelésre végzett kéményseprő-ipari tevékenység során történt felmérés elvégzésétől számított nyolc napon belül írásban teljesíti, megjelölve az égéstermék-elvezető jogszabályban előírtnál gyakoribb, sormunka keretében történő ellenőrzése, tisztítása szükségességének okát és az ellenőrzés, tisztítás szakmailag indokolt gyakoriságát.
 
 (11) A kéményseprő-ipari szerv a Kstv. 10. § (17) bekezdésében meghatározott nyilatkozat-felvétel eredményéről az ingatlan használóját a nyilatkozat-felvétel helyszínén a nyilatkozat egy példányának átadásával, helyszíni átadás hiányában postai úton vagy – az ingatlan használójának hozzájárulása esetén – a Kstv. 5. § (12) bekezdésében meghatározott módon értesíti.
+
+(12)[^8] Az állam tulajdonát képező, a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 22. § (1) bekezdése szerinti bérlő használatában lévő ingatlanok címadatait az ingatlanok vagyonkezelője a kéményseprő-ipari ellátási területekre vonatkozóan megyei bontásban negyedévenként, a negyedév első hónapjának 5. napjáig elektronikusan, szerkeszthető formában átadja a kéményseprő-ipari szervnek, illetve a Kstv. 10. § (3) bekezdés szerinti szolgáltatónak.
+
+[^8]: A 4. § (12) bekezdését a 263/2017. (IX. 11.) Korm. rendelet 4. §-a iktatta be.

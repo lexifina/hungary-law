@@ -1,8 +1,8 @@
 ## 2. A kéményseprő-ipari tevékenységgel összefüggő hatósági eljárás rendje
 
-2. § (1) Ha a tűzvédelmi hatóság a Kstv. 3. § (2) bekezdés b) pontjában meghatározott tájékoztatást követően megállapítja, hogy az ingatlan használója és az ingatlan tulajdonosa nem azonos, három napon belül írásban értesíti az ingatlan tulajdonosát is az 1. §-ban foglaltakról és az égéstermék-elvezető használatának a Kstv. 5. § (2) bekezdés d) pontja szerinti tilalmáról.
+2. § (1)[^5] Ha a tűzvédelmi hatóság a Kstv. 3. § (2) bekezdés b) pontjában meghatározott tájékoztatást követően megállapítja, hogy az ingatlan használója és az ingatlan tulajdonosa nem azonos, három napon belül írásban értesíti az ingatlan tulajdonosát is az 1. §-ban foglaltakról és az égéstermék-elvezető használatának a Kstv. 5. § (2) bekezdés d) pontja szerinti tilalmáról, valamint az 1. § (1a) bekezdés szerinti megrendelési kötelezettségéről.
 
-(2)[^1] A tűzvédelmi hatóság a Kstv. 3. § (2) bekezdés b) pontjában meghatározott tájékoztatást követő hatvan napon belül ellenőrzi
+(2)[^6] A tűzvédelmi hatóság – a (2a) bekezdés szerinti kivétellel – a Kstv. 3. § (2) bekezdés b) pontjában meghatározott tájékoztatást követő hatvan napon belül ellenőrzi
 
 a) az ingatlanhasználó Kstv. 5. § (2) bekezdés d) pontjában meghatározott kötelezettségének teljesítését, vagy
 
@@ -13,6 +13,8 @@ ba) b) pontjában meghatározott ellenőrzés vagy
 bb) f) pontjában meghatározott vizsgálat
 
 ## megrendelésének a szabálytalanság megszüntetését követő megtörténtét. Ha a tűzvédelmi hatóság megállapítja, hogy az ingatlan használója az égéstermék-elvezetőt a tilalom ellenére üzemelteti, és az üzemeltetés az életet és a vagyonbiztonságot közvetlenül veszélyezteti, az ingatlan tulajdonosával szemben tűzvédelmi bírságot szab ki a tűzvédelmi bírságról szóló kormányrendelet rendelkezései szerint.
+
+(2a)[^7] A tűzvédelmi hatóság a (2) bekezdés szerinti intézkedést az 1. § (1a) bekezdésben foglaltak esetében a megrendelési kötelezettségre előírt határidő elteltét követően teszi meg.
 
 (3) A tűzvédelmi hatóság megtiltja az égéstermék-elvezető üzemeltetését, ha az ingatlan tulajdonosa a hatóság felhívására az előírt határidőben sem tesz eleget a Kstv. 5. § (3) bekezdés alapján fennálló, a Kstv. 5. § (2) bekezdés a) és e) pontjában foglalt kötelezettségének.
 
@@ -36,4 +38,6 @@ b) kivizsgálja a kéményseprő-ipari szerv által kiállított, a Kstv. 2. § 
 
 c) megvizsgálja az égéstermék-elvezető használati és műszaki állapota kéményseprő-ipari szerv általi, a Kstv. 3. § (6) bekezdése szerinti felmérésének tartalmát,
 
-[^1]: A 2. § (2) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdése a 263/2017. (IX. 11.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 62. §-ával megállapított, nyitó szövegrésze a 263/2017. (IX. 11.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (2a) bekezdését a 263/2017. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
