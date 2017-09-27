@@ -1,5 +1,0 @@
-## 2. § Az R. 1. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-## „(1a) Az égéstermék-elvezető (1) bekezdés g) pontjában meghatározott jogszabály szerinti műszaki vizsgálat nélkül történő üzemeltetése nem minősül életet és vagyonbiztonságot közvetlenül veszélyeztető szabálytalanságnak, ha az ingatlan tulajdonosa a szabálytalanság megállapításától – a 2. § (1) bekezdés szerinti esetben az ingatlantulajdonos tudomásszerzésétől – számított harminc napon belül megrendeli az égéstermék-elvezető műszaki vizsgálatát. A kéményseprő-ipari tevékenységet ellátó erről, valamint az ingatlanhasználónak az égéstermék-elvezető műszaki vizsgálat elvégzéséig történő üzemeltetéséből eredő balesetekért való felelősségéről a helyszínen írásban tájékoztatja az ingatlan használóját.
-
-## (1b) Az (1a) bekezdés nem alkalmazható, és a kéményseprő-ipari tevékenységet ellátó megteszi a Kstv. 3. § (2) bekezdése szerinti intézkedést, ha az (1) bekezdés g) pontjában meghatározott szabálytalanság mellett egyidejűleg az (1) bekezdésben meghatározott egyéb szabálytalanságot is megállapít.”

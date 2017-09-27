@@ -1,3 +1,0 @@
-## 4. § Az R. 4. §-a a következő (12) bekezdéssel egészül ki:
-
-## „(12) Az állam tulajdonát képező, a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 22. § (1) bekezdése szerinti bérlő használatában lévő ingatlanok címadatait az ingatlanok vagyonkezelője a kéményseprő-ipari ellátási területekre vonatkozóan megyei bontásban negyedévenként, a negyedév első hónapjának 5. napjáig elektronikusan, szerkeszthető formában átadja a kéményseprő-ipari szervnek, illetve a Kstv. 10. § (3) bekezdés szerinti szolgáltatónak.”
