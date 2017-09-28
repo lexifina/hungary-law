@@ -1,1 +1,1 @@
-2–3. §
+2. § Az Országgyűlés az Alapmegállapodást e törvénnyel kihirdeti.

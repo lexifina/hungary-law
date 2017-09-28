@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-84-00-00
 | --- | --- | --- |
 | 2017-06-27 | 2017. évi LXXXIV. törvény | 2017-84-00-00.0 (közlönyállapot) |
 | 2017-06-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-84-00-00.1 |
+| 2017-09-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-84-00-00.2 |
