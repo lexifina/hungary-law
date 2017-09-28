@@ -302,9 +302,11 @@ tartalmazhat.
 
 | 73. | U47700, U-47,700 | 3,4-dichloro-N-[2-(dimethylamino)cyclohexyl]-N-methylbenzamide |
 
+| 74. | CUMYL-PeGaClone | 2-(1-methyl-1-phenyl-ethyl)-5-pentyl-pyrido[4,3-b]indol-1-one (IUPAC), 5-pentyl-2-(2-phenylpropan-2-yl)-2,5-dihydro-1H-pyrido[4,3-b]indol-1-one, 2-cumyl-5-pentyl-gamma-carbolin-1-one |
+
 5.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek;
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
 [^1]: A 3. § a 6/2017. (V. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a szerint módosított szöveg.
