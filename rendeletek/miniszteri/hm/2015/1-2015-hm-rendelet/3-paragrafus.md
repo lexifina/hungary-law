@@ -1,8 +1,8 @@
-## 2. § Az előirányzatok felhasználásának részletes szabályait az 1. melléklet tartalmazza.
+## 2. §[^5] A fejezeti kezelésű előirányzatok felhasználásának részletes szabályait az 1. melléklet, a központi kezelésű előirányzatok felhasználásának részletes szabályait a 2. melléklet tartalmazza.
 
-3. §[^2] (1)[^3] Az 1. mellékletben foglalt táblázat G:7 mezőjének 18. pontja szerinti civil szervezet, valamint a G:12 mezője 2. pontja szerinti gazdasági társaság részére nyújtott támogatás az Európai Bizottság SA. 34770 (2012/N-2) ügyben hozott 2012. július 27-i határozata szerinti kulturális támogatás.
+3. §[^6] (1)[^7] Az 1. mellékletben foglalt táblázat G:7 mezőjének 18. pontja szerinti civil szervezet, valamint a G:12 mezője 2. pontja szerinti gazdasági társaság részére nyújtott támogatás az Európai Bizottság SA. 34770 (2012/N-2) ügyben hozott 2012. július 27-i határozata szerinti kulturális támogatás.
 
-(2)[^4] Az 1. mellékletben foglalt táblázat G:7 mezőjének 7. pontja szerinti civil szervezet, valamint G:12 mezőjének 1. pontja szerinti gazdasági társaság részére nyújtott támogatás az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás.
+(2)[^8] Az 1. mellékletben foglalt táblázat G:7 mezőjének 7. pontja szerinti civil szervezet, valamint G:12 mezőjének 1. pontja szerinti gazdasági társaság részére nyújtott támogatás az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás.
 
 (3) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
@@ -20,6 +20,7 @@
 
 (10) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
-[^2]: A 3. § a 4/2016. (II. 26.) HM rendelet 2. §-ával megállapított szöveg.
-[^3]: A 3. § (1) bekezdése a 3/2017. (IV. 20.) HM rendelet 4. §-a szerint módosított szöveg.
-[^4]: A 3. § (2) bekezdése a 3/2017. (IV. 20.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § a 12/2017. (IX. 27.) HM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § a 4/2016. (II. 26.) HM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § (1) bekezdése a 3/2017. (IV. 20.) HM rendelet 4. §-a szerint módosított szöveg.
+[^8]: A 3. § (2) bekezdése a 3/2017. (IV. 20.) HM rendelet 4. § b) pontja szerint módosított szöveg.

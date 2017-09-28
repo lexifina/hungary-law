@@ -1,6 +1,6 @@
-## [az a) és b) pont szerinti előirányzatok a továbbiakban együtt: előirányzatok] terjed ki.
+## [az a)–c) pont szerinti előirányzatok a továbbiakban együtt: előirányzatok] terjed ki.
 
-## 1/A. §[^1] E rendelet alkalmazásában:
+## 1/A. §[^4] E rendelet alkalmazásában:
 
 1. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
 
@@ -12,4 +12,4 @@
 
 5. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom.
 
-[^1]: Az 1/A. §-t a 4/2016. (II. 26.) HM rendelet 1. §-a iktatta be.
+[^4]: Az 1/A. §-t a 4/2016. (II. 26.) HM rendelet 1. §-a iktatta be.
