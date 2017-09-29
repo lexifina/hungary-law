@@ -1,4 +1,4 @@
-## 8. §[^6] A Hhvtv.-ben foglalt tilalmakat és korlátozásokat megszegve halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján tartózkodó személlyel szemben a 4. §-ban foglalt – az alkalmazni kívánt eszköz fajtájára megállapított – halvédelmi bírság és az ahhoz rendelhető eltiltás megállapításának van helye.
+## 8. §[^16] A Hhvtv.-ben foglalt tilalmakat és korlátozásokat megszegve halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján tartózkodó személlyel szemben a 4. §-ban foglalt – az alkalmazni kívánt eszköz fajtájára megállapított – halvédelmi bírság és az ahhoz rendelhető eltiltás megállapításának van helye.
 
 ## 9. § Halászati engedély, állami horgászjegy, állami halászjegy igénylése során a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendeletben meghatározott nyilatkozatot valótlan tartalommal megtevő személlyel szemben kiszabható halvédelmi bírság mértéke:
 
@@ -8,4 +8,4 @@ b) az érvényes állami horgászjeggyel (ideértve a turista állami horgászje
 
 c) a fogási napló leadására vonatkozó valótlan nyilatkozat tétele esetén: 10 000 forint.
 
-[^6]: A 8. § a 223/2015. (VIII. 7.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 8. § a 223/2015. (VIII. 7.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.

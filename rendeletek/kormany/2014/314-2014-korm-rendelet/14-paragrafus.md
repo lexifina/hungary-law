@@ -20,7 +20,7 @@ g) a Hhvtv. 8. § (2) bekezdését megszegve, a veszélyeztetett őshonos halál
 
 h) határidőben nem kérelmezi a halgazdálkodási kíméleti terület kijelölését: 50 000–500 000 forint,
 
-i) a Hhvtv. 10. § (1) vagy (3) bekezdésében foglalt kötelezés végrehajtását elmulasztja: 50 000–500 000 forint,
+i)[^19] a Hhvtv. 10. § (1) vagy (3) bekezdésében foglalt kötelezés végrehajtását elmulasztja, illetve a Hhvtv. 10. § (3) bekezdése szerint előírt kötelezettségének teljesítését a határozat kézhezvételétől számított 60 napon belül nem kezdi meg: 50 000–500 000 forint,
 
 j) a Hhvtv. 11. § (1) bekezdés b) pontja alapján, a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendelet szerinti tömeges hal- vagy más hasznos víziállat pusztulás esetére vonatkozó kötelezettségét megszegi: 100 000–2 500 000 forint,
 
@@ -39,3 +39,5 @@ p) a Hhvtv. 16. § (4) bekezdésében előírt jelentéstételi kötelezettségn
 q) a Hhvtv. 18. § (1) bekezdése szerinti bejelentési kötelezettségét elmulasztja: 100 000–500 000 forint.
 
 (2) A halgazdálkodási hatóság által a halgazdálkodási vízterülettel érintett ingatlan tulajdonosára, használójára kiszabható halgazdálkodási bírság mértéke, ha az ingatlan tulajdonosa, használója a halgazdálkodási szolgalmi jog gyakorlását jelentős mértékben akadályozza: 50 000–500 000 forint.
+
+[^19]: A 14. § (1) bekezdés i) pontja a 271/2017. (IX. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
