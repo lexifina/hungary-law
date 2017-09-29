@@ -1,4 +1,4 @@
-15. § (1) A településkép védelméről szóló 2016. évi LXXIV. törvény módosításáról szóló 2016. évi CLXXIV. törvény (a továbbiakban: Módtv.) hatálybalépését követően új reklámhordozó elhelyezésére a Módtv. és a végrehajtására kiadott jogszabályok, továbbá a 2. § (2a) bekezdés szerinti jogszabályok rendelkezéseivel összhangban kerülhet sor.
+15. § (1) A Módtv. hatálybalépését követően új reklámhordozó elhelyezésére a Módtv. és a végrehajtására kiadott jogszabályok, továbbá a 2. § (2a) bekezdés szerinti jogszabályok rendelkezéseivel összhangban kerülhet sor.
 
 (2) E törvénynek a Módtv. által megállapított rendelkezéseit a Módtv. és a végrehajtására kiadott kormányrendelet hatálybalépését követően indult eljárásokban kell alkalmazni.
 
