@@ -1,4 +1,4 @@
-23. § (1)[^9] A hatóság az ellenőrzési tevékenysége keretében a (2) bekezdésben foglalt események bekövetkezése esetén jogosult a beruházóval szemben az Ügkr. tv. 18/E. § (2) bekezdése szerinti felügyeleti eljárást indítani. A felügyeleti eljárást a hatóság vezetője rendeli el. A felügyeleti eljárás elrendelésekor a felügyeleti eljárás alapjául szolgáló okot pontosan meg kell jelölni.
+23. § (1)[^15] A hatóság az ellenőrzési tevékenysége keretében a (2) bekezdésben foglalt események bekövetkezése esetén jogosult a beruházóval szemben az Ügkr. tv. 18/E. § (2) bekezdése szerinti felügyeleti eljárást indítani. A felügyeleti eljárást a hatóság vezetője rendeli el. A felügyeleti eljárás elrendelésekor a felügyeleti eljárás alapjául szolgáló okot pontosan meg kell jelölni.
 
 (2) A hatóság az alábbi esetekben folytathat le felügyeleti eljárást a beruházókkal szemben:
 
@@ -18,4 +18,4 @@ g) ha a felügyeleti eljárás lefolytatása a hatóság jogszabályban meghatá
 
 (3) A felügyeleti eljárás megindításáról és a megindítás okáról a hatóság a beruházót írásban értesíti.
 
-[^9]: A 23. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 244. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^15]: A 23. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 244. § (1) bekezdés d) pontja szerint módosított szöveg.
