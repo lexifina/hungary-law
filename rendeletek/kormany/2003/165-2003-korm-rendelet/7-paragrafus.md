@@ -1,37 +1,41 @@
 ## Az Országos Nukleárisbaleset-elhárítási Rendszer, valamint a nukleáris és radiológiai létesítmények önálló lakossági tájékoztatást végző szervei és szervezetei
 
-7. § (1)[^4] Az Országos Nukleárisbaleset-elhárítási Rendszer önálló lakossági tájékoztatás végzésére jogosult szervei:
+7. §[^7] (1) A nukleáris és radiológiai veszélyhelyzet esetén önálló lakossági tájékoztatás végzésére jogosult szervek:
 
 a) a hivatásos katasztrófavédelmi szerv központi szerve,
 
-b) a kormányzati koordinációs szerv,
+b) a kormányzati koordinációs szerv vagy munkaszervei,
 
-c) a kormányzati koordinációs szerv munkaszerve,
+c) az atomenergia-felügyeleti szerv,
 
-d) atomenergia-felügyeleti szerv,
+d) az MVM Paksi Atomerőmű Zrt.,
 
-e) ágazati nukleárisbaleset-elhárítási szervezetek,
+e) az egészségügyért felelős miniszter vagy az általa kijelölt személy.
 
-f) megyei, fővárosi védelmi bizottságok.
+(2) A nukleáris és radiológiai veszélyhelyzet esetén lakossági tájékoztatásra az (1) bekezdésben meghatározott szervekkel előzetes egyeztetés alapján jogosult szervek:
 
-(2) Önálló lakossági tájékoztatás végzésére jogosult nukleáris és radiológiai létesítmények:
+a) az ágazati nukleárisbaleset-elhárítási szervezetek,
 
-a) Paksi Atomerőmű Részvénytársaság,
+b) a megyei, fővárosi védelmi bizottságok,
 
-b) Központi Fizikai Kutató Intézet Atomenergia Kutató Intézete kutató reaktor,
+c) a Magyar Tudományos Akadémia Energiatudományi Kutatóközpont kutatóreaktora,
 
-c) Budapesti Műszaki és Gazdaságtudományi Egyetem oktatóreaktora,
+d) a Budapesti Műszaki és Gazdaságtudományi Egyetem oktatóreaktora,
 
-d) Püspökszilágyi Radioaktív Hulladék-feldolgozó és Tároló Telep,
+e) a Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft.,
 
-e) Co–60 és más sugárforrással működő besugárzó eszközöket működtetők,
+f) az Országos Közegészségügyi Intézet,
 
-f) Kiégett Kazetták Átmeneti Tárolója.
+g) a Magyarország területén sugárveszélyes tevékenység végzésére engedéllyel rendelkező szervezet,
 
-(3)[^5] Az (1) és (2) bekezdésben felsorolt szervek és szervezetek, illetve létesítmények nukleáris és radiológiai veszélyhelyzetben az önálló lakossági tájékoztatással egyidejűleg a kormányzati koordinációs szerv munkaszerve Lakossági Tájékoztatási Munkacsoportját, a megelőzés időszakában a hivatásos katasztrófavédelmi szerv központi szervét kötelesek tájékoztatni.
+h) a Nemzeti Élelmiszerlánc-biztonsági Hivatal,
 
-(4)[^6] A Nukleáris Baleseti Információs és Értékelő Központban, valamint az ágazati és területi információs központokban keletkezett információkat a kormányzati koordinációs szerv munkaszerve Lakossági Tájékoztatási Munkacsoportja, illetve az (1) és (2) bekezdésben felsorolt szervek és szervezetek, illetve létesítmények teszik közzé a lakosság részére.
+i) az Országos Mentőszolgálat.
 
-[^4]: A 7. § (1) bekezdése a 234/2011. (XI. 10.) Korm. rendelet 105. § (4) bekezdésével megállapított szöveg.
-[^5]: A 7. § (3) bekezdése a 234/2011. (XI. 10.) Korm. rendelet 105. § (5) bekezdésével megállapított szöveg.
-[^6]: A 7. § (4) bekezdése a 234/2011. (XI. 10.) Korm. rendelet 105. § (5) bekezdésével megállapított szöveg.
+(3) Az (1)–(2) bekezdésben meghatározott tájékoztatás rendjét, tartalmi elemeit, annak módját valamint a (2) bekezdésben meghatározott előzetes egyeztetés szabályait az Országos Lakossági Tájékoztatási Terv határozza meg.
+
+(4) A Nukleáris Baleseti Információs és Értékelő Központban, valamint az ágazati és területi információs központokban keletkezett információkat az Országos Lakossági Tájékoztatási Terv szerint kell közzétenni.
+
+(5) Az 1. § (2) bekezdésben foglalt feltételek fennállása esetén a veszélyhelyzet elhárításával kapcsolatos kormányzati kommunikációs tevékenységet a kormányzati koordinációs szerv vezetője hangolja össze.
+
+[^7]: A 7. § a 286/2017. (IX. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
