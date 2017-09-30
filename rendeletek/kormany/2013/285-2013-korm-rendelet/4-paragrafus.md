@@ -1,24 +1,15 @@
-4. § (1)[^7] Az ösztöndíjprogrammal kapcsolatos koordinációs, kapcsolattartási, információs feladatokat a Közalapítvány látja el, amely során
+4. §[^8] (1) Az ösztöndíjprogrammal kapcsolatos koordinációs, kapcsolattartási, információs feladatokat a Közalapítvány látja el, amely során
 
-a)[^8] kidolgozza a miniszterrel előzetesen egyeztetett iránymutatások alapján a pályázati felhívást, valamint az ösztöndíjprogram működési szabályzatát,
+a) a miniszterrel előzetesen egyeztetett iránymutatások alapján kidolgozza a hallgatói és képzési pályázati felhívást, valamint az ösztöndíjprogram működési szabályzatát,
 
-b) lefolytatja a pályázati eljárást,
+b) a honlapján közzéteszi a hallgatói és képzési pályázati felhívást és az ösztöndíjprogram működési szabályzatát,
 
-c) gondoskodik az ösztöndíjprogram részét képező egyéb programok megszervezéséről és lebonyolításáról,
+c) lefolytatja a hallgatói pályázati eljárásokat,
 
-d)[^9] a miniszterrel együttműködésben bekéri az érintett felsőoktatási intézményektől – a külföldi oktatásért felelős minisztérium (a továbbiakban: küldő fél) által meghatározott igényeknek megfelelően kidolgozott – képzési pályázatokat,
+d) gondoskodik az ösztöndíjprogram részét képező egyéb programok megszervezéséről és lebonyolításáról,
 
-e)[^10]
+e) lefolytatja a képzési pályázati eljárást, amelyek során a felsőoktatási intézmények – a küldő fél által meghatározott igényeknek megfelelően kidolgozott – képzési pályázatokat nyújtanak be,
 
-f) kapcsolatot tart az ösztöndíjprogramban részt vevő intézményekkel,
+f) kapcsolatot tart az ösztöndíjprogramban részt vevő intézményekkel.
 
-g)[^11]
-
-(2)[^12]
-
-[^7]: A 4. § (1) bekezdés nyitó szövegrésze a 81/2015. (III. 31.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^8]: A 4. § (1) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 743. § a) pontja szerint módosított szöveg.
-[^9]: A 4. § (1) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 743. § b) pontja, a 81/2015. (III. 31.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^10]: A 4. § (1) bekezdés e) pontját a 81/2015. (III. 31.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
-[^11]: A 4. § (1) bekezdés g) pontját a 81/2015. (III. 31.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
-[^12]: A 4. § (2) bekezdését a 81/2015. (III. 31.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^8]: A 4. § a 282/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.

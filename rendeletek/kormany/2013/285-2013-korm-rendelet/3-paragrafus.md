@@ -1,14 +1,13 @@
-## 3. §[^5] A Közalapítvány
+3. §[^7] (1) A Közalapítvány kuratóriuma
 
-a) dönt az ösztöndíj odaítéléséhez szükséges pályázat (a továbbiakban: pályázat) eredményéről,
+a) dönt az ösztöndíj odaítéléséhez szükséges hallgatói és az ösztöndíjasok fogadásához szükséges képzési pályázat eredményéről,
 
-b) jóváhagyja
+b) jóváhagyja a hallgatói és képzési pályázati felhívást.
 
-ba) a pályázati felhívást,
+(2) A miniszter jóváhagyja
 
-bb) az ösztöndíjprogram működési szabályzatát,
+a) az ösztöndíjprogram működési szabályzatát,
 
-bc)[^6]
+b) az ösztöndíjprogram végrehajtásával kapcsolatos éves beszámolót.
 
-[^5]: A 3. § nyitó szövegrésze a 81/2015. (III. 31.) Korm. rendelet 9. § a) pontjával megállapított szöveg.
-[^6]: A 3. § b) pont bc) alpontját a 81/2015. (III. 31.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^7]: A 3. § a 282/2017. (IX. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
