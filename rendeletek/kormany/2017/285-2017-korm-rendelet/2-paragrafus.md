@@ -1,0 +1,3 @@
+## 1. § A villamosenergia-termelők részére az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény alapján történő derogációs kiosztás végrehajtási szabályairól szóló 341/2013. (IX. 25.) Korm. rendelet [a továbbiakban: 341/2013. (IX. 25.) Korm. rend.] 4. A támogatások igénylése és kifizetése alcíme a következő 8/A. §-sal egészül ki:
+
+## „8/A. § A támogatás biztosítása érdekében az energiapolitikáért felelős miniszter mint támogató, és a beruházó mint kedvezményezett támogatási szerződést köt.”
