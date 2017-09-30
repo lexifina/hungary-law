@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-76-20-2
 | 2015-04-01 | 2009-76-20-22.17 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-09-01 | 2009-76-20-22.18 | 70/2015. (III. 30.) Korm. rendelet |
 | 2017-01-01 | 2009-76-20-22.19 | 70/2015. (III. 30.) Korm. rendelet |
+| 2017-09-30 | 2009-76-20-22.20 | 280/2017. (IX. 22.) Korm. rendelet |
