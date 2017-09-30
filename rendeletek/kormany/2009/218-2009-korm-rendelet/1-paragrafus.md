@@ -16,7 +16,7 @@ f) jövőkép: nagytávra és nagytávon túlmutatóan meghatározott, elérni k
 
 g)[^2] kidolgozásért felelős szerv: a területfejlesztésről és a területrendezésről szóló törvénynek megfelelően az Országos Területfejlesztési Koncepció, az Országos Területrendezési Terv és a kiemelt térség (Budapesti Agglomeráció és a Balaton Kiemelt Üdülőkörzet) területrendezési tervének kidolgozása esetén a Kormány; a megye és az egyéb kiemelt térségek területrendezési terv kidolgozása esetén a megyei önkormányzat; a megye területfejlesztési koncepciója és programja kidolgozásának esetében a megyei önkormányzat; a kiemelt térség területfejlesztési koncepciója és programja kidolgozásának esetében a térségi fejlesztési tanács,
 
-h)[^3] országos mellékút: a közutak igazgatásáról szóló miniszteri rendelet szerinti összekötő és bekötő út,
+h)[^3] egyéb mellékút: a térségi szerepű összekötő út kivételével a közutak igazgatásáról szóló miniszteri rendelet szerinti mellékút,
 
 i) prioritás: a specifikus célok elérését szolgáló kiemelt szándékok, a későbbi beavatkozási területek csoportja, amelyek jellemzően komplexek, átfogóan több ágazati intézkedést jeleníthetnek meg, kifejezetten egyes térségekre vagy térségtípusokra is irányulhatnak,
 
@@ -24,7 +24,7 @@ j) specifikus cél: a prioritások alapját képező, a stratégiaalkotási terv
 
 k) területi cél: egy-egy, a térségen belüli térségtípusra, rész területegységre, vagy közvetlenül a térség egészének valamely térszerkezeti jellemzőjére vonatkozó elvárások,
 
-l)[^4]
+l)[^4] térségi szerepű összekötő út: olyan mellékút, amely a térségi együttműködésben a településhálózat szempontjából meghatározó jelentőségű – végpontjain jellemzően az országos gyorsforgalmi- és főúthálózathoz vagy egy másik térségi szerepű összekötő úthoz, esetleg egy határátkelési ponthoz csatlakozó – összekötő úti közúthálózati elem,
 
 m) területi terv készítése: a területi terv kidolgozásának, egyeztetésének és elfogadásának együttes megnevezése,
 
@@ -34,13 +34,22 @@ o)[^6] tájjelleg (tájkarakter): a természeti és antropogén tájalkotó tén
 
 p)[^7] települési szolgáltatások: a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerinti települési szolgáltatások,
 
-q)[^8] okos város: a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerinti okos város.
+q)[^8] okos város: a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerinti okos város,
+
+r)[^9] árvízi kockázatkezelési terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervben alkalmazott övezet, amelybe azok a területek tartoznak, amelyek árvízvédelmi szempontból egységes kezelést igényelnek, vagy a kockázatkezelés szempontjából elkülöníthetőek,
+
+s)[^10] regionális térszervező központ: a településrendszer országos jelentőségű városhálózati pólusa, amely gazdasági, turisztikai, kulturális, közlekedési szempontból több megyére kiterjedő vagy határon átnyúló szereppel bír,
+
+t)[^11] térségi térszervező központ: a településrendszer térségi jelentőségű (kiemelt térség, megye, járások) központja, amely gazdasági, turisztikai, kulturális, közlekedési szempontból megyei szintű és több járásra kiterjedő szereppel bír.
 
 [^1]: Az 1. § d) pontja a 25/2014. (II. 7.) Korm. rendelet 16. § a) pontja és 17. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § g) pontja a 67/2012. (IV. 5.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § h) pontja a 25/2014. (II. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^4]: Az 1. § l) pontját a 25/2014. (II. 7.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^3]: Az 1. § h) pontja a 280/2017. (IX. 22.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § l) pontját a 25/2014. (II. 7.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte, újonnan a 280/2017. (IX. 22.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^5]: Az 1. § n) pontját a 342/2014. (XII. 19.) Korm. rendelet 6. §-a iktatta be.
 [^6]: Az 1. § o) pontját a 342/2014. (XII. 19.) Korm. rendelet 6. §-a iktatta be.
 [^7]: Az 1. § p) pontját az 56/2017. (III. 20.) Korm. rendelet 1. §-a iktatta be.
 [^8]: Az 1. § q) pontját az 56/2017. (III. 20.) Korm. rendelet 1. §-a iktatta be.
+[^9]: Az 1. § r) pontját a 280/2017. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^10]: Az 1. § s) pontját a 280/2017. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^11]: Az 1. § t) pontját a 280/2017. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be.

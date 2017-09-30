@@ -26,9 +26,9 @@ ac) a prioritások (a specifikus célok alapján);
 
 b) operatív programrészében kerülnek meghatározásra az intézkedések (a stratégiai programrészben meghatározott prioritások alapján).
 
-(4)[^10]
+(4)[^13]
 
-(5)[^11] A területrendezési tervek hosszú, illetve nagytávra készülnek.
+(5)[^14] A területrendezési tervek hosszú, illetve nagytávra készülnek.
 
-[^10]: A 4. § (4) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 24. § a) pontja hatályon kívül helyezte.
-[^11]: A 4. § (5) bekezdése a 25/2014. (II. 7.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^13]: A 4. § (4) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 24. § a) pontja hatályon kívül helyezte.
+[^14]: A 4. § (5) bekezdése a 25/2014. (II. 7.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.

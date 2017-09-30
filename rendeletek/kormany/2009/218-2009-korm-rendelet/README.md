@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-218-20-
 | 2017-03-21 | 2009-218-20-22.20 | 56/2017. (III. 20.) Korm. rendelet |
 | 2017-04-01 | 2009-218-20-22.21 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-07-01 | 2009-218-20-22.22 | 162/2017. (VI. 28.) Korm. rendelet |
+| 2017-09-30 | 2009-218-20-22.23 | 280/2017. (IX. 22.) Korm. rendelet |

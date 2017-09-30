@@ -6,45 +6,59 @@
 
 ## 2. Előzmények feltárása (a térséget érintő területi tervek, ágazati koncepciók és programok, valamint a feladat szempontjából jelentős településfejlesztési koncepciók és településrendezési eszközök, a hatályos területrendezési terv hatásainak átfogó értékelése).
 
-## 3. Vizsgálati adatok gyűjtése és azok értékelése (az alábbi témakörök figyelembevételével):
+## 3. Természeti és épített környezet vizsgálata
 
-## 3.1. természeti adottságok (éghajlat, földtan, vízrajz, domborzat, élővilág és egyéb),
+## 3.1. természeti adottságok, természetvédelem,
 
-## 3.2. a táj jellemzői [tájszerkezet, tájhasználat (különös tekintettel a hagyományos tájhasználatra), tájjelleg (tájkarakter), tájkép],
+## 3.2. a táj jellemzői (tájszerkezet, tájhasználat, tájjelleg, tájkép), tájvédelem,
 
-## 3.3. természet- és tájvédelem,
+## 3.3. termőföld- és talajvédelem,
 
-## 3.4. környezeti elemek állapota, szennyezett területek számbavétele (a felszín alatti víz és a földtani közeg környezetvédelmi nyilvántartási rendszer kármentesítési információs rendszer FAVI – KÁRINFO alapján), valamint az éghajlatváltozás hatásai,
+## 3.4. vízvédelem (felszíni és felszín alatti vízkészletek, vízminőség, vízellátás, szennyvízkezelés),
 
-## 3.5. épített környezet és a kulturális örökség védelme (építészeti örökség, műemléki értékek, régészeti lelőhelyek, emlékhelyek),
+## 3.5. épített környezeti és a kulturális örökségi értékek (építészeti örökség, régészeti örökség, műemléki értékek, emlékhelyek),
 
-## 3.6. világörökségi és világörökségi várományos területek védelme,
+## 3.6. világörökségi és világörökségi várományos értékek,
 
-## 3.7. a térszerkezet alakulása, a területfelhasználás változásai, tendenciák, valamint a településhálózat értékelése,
+## 3.7. honvédelem,
 
-## 3.8. mezőgazdaság,
+## 3.8. ásványvagyon,
 
-## 3.9. erdőgazdálkodás (az Országos Erdőállomány Adattár alapján),
+## 3.9. hulladékgazdálkodás,
 
-## 3.10. turizmus,
+## 3.10. természeti és környezeti kockázatok,
 
-## 3.11. vízgazdálkodás,
+## 3.11. éghajlatváltozás területi vonatkozásai.
 
-## 3.12. vízvédelem (felszíni és felszín alatti vízkészletek),
+## 4. A térségi területfelhasználás vizsgálata a térségi területfelhasználási kategóriák figyelembevételével
 
-## 3.13. energetikai hálózatok, energetikai ellátás,
+## 4.1. a térszerkezet alakulása, a területfelhasználás változásai, tendenciák,
 
-## 3.14. közlekedés (közúti, kerékpáros, vasúti, légi és vízi közlekedés, megközelíthetőségi viszonyok, kapcsolati hiányok vizsgálata és értékelése),
+## 4.2. településrendszer,
 
-## 3.15. honvédelem.
+## 4.3. mezőgazdaság,
 
-## 4. A térségi területfelhasználás vizsgálata a térségi területfelhasználási kategóriák figyelembevételével.
+## 4.4. erdőgazdálkodás,
 
-## 5. A táj terhelésének és terhelhetőségének meghatározása.
+## 4.5. vízgazdálkodás.
 
-## 6. A területrendezési terv területi (környezeti, társadalmi és gazdasági) hatásvizsgálatának megkezdése (a 9. melléklet szerinti tartalommal).
+## 5. Közlekedés (közúti, kerékpáros-, vasúti, légi és vízi közlekedés, megközelíthetőségi viszonyok, kapcsolati hiányok vizsgálata és értékelése).
 
-## 7. Az egyes tervek, illetve programok környezeti vizsgálatáról szóló kormányrendelet szerinti környezeti értékelés tematikájának meghatározása, az értékelés megkezdése.
+## 6. Energetika (energetikai hálózatok, energiaellátás, megújuló energiák).
+
+## 7. Gazdasági adottságok vizsgálata
+
+## 7.1. főbb gazdasági ágazatok, azok fejlődési irányai: agrárágazat, erdőgazdálkodás, vízgazdálkodás, ipar, szolgáltatás stb.,
+
+## 7.2. a gazdaság belső és külső kapcsolatai,
+
+## 7.3. a térség gazdaságának versenyképességét befolyásoló tényezők.
+
+## 8. A táj terhelésének és terhelhetőségének meghatározása.
+
+## 9. A területrendezési terv területi (környezeti, társadalmi és gazdasági) hatásvizsgálatának megkezdése (a 9/A. melléklet szerinti tartalommal).
+
+## 10. Az egyes tervek, illetve programok környezeti vizsgálatáról szóló kormányrendelet szerinti környezeti értékelés tematikájának meghatározása, az értékelés megkezdése.
 
 ## II. Javaslattevő fázis (terv készítése)
 
@@ -54,201 +68,165 @@
 
 ## 1.1. A térségi területfelhasználás rendje a térségi területfelhasználási kategóriák szerint
 
-| Országos Területrendezési Tervben megállapított térségi területfelhasználási kategóriák | Kiemelt térségek és megyék területrendezési terveiben alkalmazott területfelhasználási kategóriák |
+|  | Országos Területrendezési Tervben megállapított térségi területfelhasználási kategóriák | Kiemelt térségek és megyék területrendezési terveiben alkalmazott területfelhasználási kategóriák |
 
-| - erdőgazdálkodási térség | - erdőgazdálkodási térség |
+|  | – erdőgazdálkodási térség | – erdőgazdálkodási térség |
 
-| - mezőgazdasági térség | - mezőgazdasági térség |
+|  | – mezőgazdasági térség | – mezőgazdasági térség |
 
-| - vegyes területfelhasználású térség | - vegyes területfelhasználású térség |
+|  | – mozaikos területfelhasználású térség | – mozaikos területfelhasználású térség |
 
-| - vízgazdálkodási térség | - vízgazdálkodási térség |
+|  | – vízgazdálkodási térség | – vízgazdálkodási térség |
 
-| - települési térség | - települési térség |
+|  | – települési térség | – települési térség |
 
-| - építmények által igénybe vett térség | - építmények által igénybe vett térség |
+|  | – különleges rendeltetésű térség | – különleges rendeltetésű térség |
 
 ## 1.2. A településrendszer elemei
 
-| Országos Területrendezési Tervben | Kiemelt térségek és megyék területrendezési tervében |
+|  | Országos Területrendezési Tervben | Kiemelt térség és a megye területrendezési tervében |
 
-|  | - települések (Magyarország hivatalos helységnévtára szerint), illetve az elfogadott településrendszer rögzítése |
+|  | – főváros |  |
+
+|  | – regionális térszervező központ |  |
+
+|  |  | – térségi térszervező központ |
 
 ## 1.3. A műszaki infrastruktúra-hálózatok és egyedi építmények térbeli rendje
 
 | Országos jelentőségű elemek | Térségi jelentőségű elemek |
 
-| - gyorsforgalmi út |
+| – gyorsforgalmi út |
 
-| - főút |
+| – főút |
 
-|  | - országos mellékút |
+|  | – térségi szerepű összekötő út |
 
-| - a gyorsforgalmi és főúthálózat, a fővárosi térszerkezetet meghatározó főutak, valamint a vasúti törzshálózat nagy hídja a Dunán és a Tiszán |
+|  | – egyéb mellékút |
 
-|  | - országos mellékúton, valamint regionális és egyéb vasúti pályán lévő híd a Dunán és Tiszán |
+| – nagysebességű vasútvonal |
 
-|  | - térségi logisztikai központ |
+| – egyéb országos törzshálózati vasúti pálya |
 
-| - határmetszés a gyorsforgalmi és főúthálózaton |
+|  | – országos vasúti mellékvonal |
 
-| - határmetszés az országos vasúti törzshálózaton |
+| – nemzetközi kereskedelmi repülőtér |
 
-|  | - határmetszés az országos mellékúton |
+| – közös felhasználású katonai és polgári repülőtérré fejleszthető repülőtér |
 
-|  | - határmetszés a regionális és egyéb vasúti pályán |
+|  | – térségi repülőtér |
 
-| - nagy sebességű vasútvonal |
+| – országos kerékpárútvonal |
 
-| - egyéb országos törzshálózati vasúti pálya |
+|  | – térségi kerékpárútvonal |
 
-|  | - regionális vasúti pálya |
+| – országos kikötő |
 
-|  | - egyéb vasúti pálya |
+|  | – térségi kikötő |
 
-| - nemzetközi kereskedelmi repülőtér |
+|  | – kompátkelőhely |
 
-| - egyéb kereskedelmi repülőtér és kereskedelmi repülőtérré fejleszthető repülőtér |
+| – határkikötő |
 
-| - közös felhasználású katonai és polgári repülőtérré fejleszthető repülőtér |
+|  | – térségi logisztikai központ |
 
-|  | - polgári célú, nem nyilvános repülőtér |
+| – atomerőmű |
 
-| - országos kerékpárút-törzshálózat eleme |
+| – egyéb országos erőmű |
 
-|  | - térségi kerékpárút-hálózat eleme |
+|  | – kiserőmű |
 
-| - nemzetközi és országos jelentőségű vízi út |
+| – 750 kV-os átviteli hálózati távvezeték |
 
-| - országos jelentőségű kikötő |
+| – 400 kV-os átviteli hálózati távvezeték |
 
-|  | - térségi kikötő |
+| – 220 kV-os átviteli hálózati távvezeték |
 
-|  | - kompátkelőhely |
+|  | – térségi ellátást biztosító 132 kV-os elosztó hálózati távvezeték |
 
-| - határkikötő |
+| – földgázszállító vezeték |
 
-| - atomerőmű |
+| – kőolajszállító vezeték |
 
-| - egyéb erőmű |
+| – termékvezeték |
 
-|  | - kiserőmű |
+|  | – földgázelosztó vezeték |
 
-| - 750 kV-os átviteli hálózat távvezetékeleme |
+| – országos vízkárelhárítási célú tározó |
 
-| - 400 kV-os átviteli hálózat távvezetékeleme |
+| – a Vásárhelyi-terv továbbfejlesztése (VTT) keretében megvalósuló vízkárelhárítási célú szükségtározó |
 
-| - 220 kV-os átviteli hálózat távvezetékeleme |
+| – 10 millió m3-t meghaladó térfogatú, vízkárelhárítási célú tározás és fejlesztési lehetősége |
 
-|  | - térségi ellátást biztosító 132 kV-os elosztó hálózat |
+|  | – 1 millió m3-t meghaladó és 10 millió m3-nél kisebb térfogatú vízkárelhárítási célú tározás és fejlesztési lehetősége |
 
-| - országos földgázszállító vezeték |
+| – kiemelt jelentőségű vízi építmény |
 
-| - országos kőolajszállító vezeték |
+| – országos jelentőségű csatorna |
 
-| - országos termékvezeték |
+|  | – térségi csatorna |
 
-|  | - térségi földgázszállító vezeték |
+| – elsőrendű árvízvédelmi fővédvonal |
 
-|  | - térségi kőolajszállító vezeték |
+|  | – másodrendű árvízvédelmi fővédvonal |
 
-|  | - térségi termékvezeték |
+| – országos veszélyeshulladék-kezelő |
 
-| - országos jelentőségű vízkár-elhárítási célú tározó |
+| – radioaktívhulladék-tároló |
 
-| - a Vásárhelyi-terv továbbfejlesztése (VTT) keretében megvalósuló vízkár-elhárítási célú szükségtározó |
-
-| - 10 millió m3-t meghaladó térfogatú, vízkár-elhárítási célú tározási fejlesztési lehetőség |
-
-|  | - 1 millió m3-t meghaladó és 10 millió m3-nél kisebb térfogatú vízkár-elhárítási célú tározási fejlesztési lehetőség |
-
-| - | kiemelt jelentőségű vízi építmény |
-
-| - | országos jelentőségű csatorna |
-
-|  | - térségi csatorna |
-
-| - elsőrendű árvízvédelmi fővédvonal |
-
-|  | - másodrendű árvízvédelmi fővédvonal |
-
-| - veszélyeshulladék-lerakó |
-
-| - veszélyeshulladék-égetőmű |
-
-| - radioaktívhulladék-tároló |
-
-|  | - nemveszélyeshulladék-lerakó |
+|  | – térségi hulladékkezelő |
 
 ## 2. Térségi övezetek
 
-| Országos Területrendezési Tervben megállapított övezet | Kiemelt térség és megye területrendezési tervében alkalmazott övezet |
+|  | Országos övezetek | Kiemelt térségi és megyei övezetek |
 
-| - országos ökológiai hálózat | - magterület |
+|  | – Országos Ökológiai Hálózat magterülete |
 
-|  | - ökológiai folyosó |
+|  | – Országos Ökológiai Hálózat ökológiai folyosó területe |
 
-|  | - pufferterület |
+|  | – Országos Ökológiai Hálózat pufferterülete |
 
-| - kiváló termőhelyi adottságú szántóterület |
+|  | – kiváló termőhelyi adottságú szántóterület |
 
-| - jó termőhelyi adottságú szántóterület |
+|  | – kiváló termőhelyi adottságú erdőterület |
 
-| - kiváló termőhelyi adottságú erdőterület |
+|  | – tájképvédelmi szempontból kiemelten kezelendő terület |
 
-|  | - erdőtelepítésre javasolt terület |
+|  | – világörökségi és világörökségi várományos terület által érintett település |
 
-| - tájképvédelmi szempontból kiemelten kezelendő terület |
+|  | – vízminőség-védelmi terület |
 
-| - világörökségi és világörökségi várományos terület |
+|  | – nagyvízi meder |
 
-| - országos vízminőség-védelmi terület |
+|  | – Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkárelhárítási célú szükségtározók területe |
 
-| - nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók területe |
+|  | – árvízi kockázatkezelési terület |
 
-|  | - ásványi nyersanyagvagyon-területe |
+|  | – honvédelmi terület által érintett település |
 
-|  | - rendszeresen belvízjárta terület |
+|  |  | – rendszeresen belvízjárta terület |
 
-|  | - földtani veszélyforrás területe |
-
-| - kiemelt fontosságú honvédelmi terület |
-
-|  | - honvédelmi terület |
-
-|  | Ajánlott megyei övezetek |
-
-|  | - | tanyás térség |
-
-|  | - | tájrehabilitációt igénylő terület |
-
-|  | - | szélerőműpark telepítéséhez vizsgálat alá vonható terület |
-
-|  | - | térségi árvízi kockázatkezelési terület |
+|  |  | – földtani veszélyforrás területe által érintett település |
 
 ## 3. Területrendezési szabályzat
 
 ## B) Megalapozó munkarészek:
 
-## a) A területrendezési tervet megalapozó szakági tervjavaslatok és azok műleírásai.
+## a) A területrendezési tervet megalapozó szakági tervjavaslatok és azok műleírásai, különös tekintettel a fejlesztési potenciál alapú területfelhasználás-alakítási, a közlekedési és egyéb infrastruktúra-hálózati, a tájrendezési, a természetvédelmi, a környezetvédelmi, a mező- és erdőgazdálkodási és a vízgazdálkodási szakági javaslatokra.
 
-## b) Területrendezési intézkedési javaslat.
+## b) Területrendezési intézkedési javaslat, különös tekintettel a terv megvalósítását szolgáló közlekedési és egyéb infrastruktúra-hálózati, tájrendezési, természetvédelmi, környezetvédelmi intézkedésekre, valamint a tervben foglaltak településrendezési eszközökbe való beépítését szolgáló koordinációs tevékenységre.
 
-## c) A területrendezési tervek megalapozását szolgáló területi (környezeti, társadalmi és gazdasági) hatásvizsgálat (a 9. melléklet szerinti tartalommal).
+## c) A területrendezési tervek megalapozását szolgáló területi (környezeti, társadalmi és gazdasági) hatásvizsgálat (a 9. vagy 9/A. melléklet szerinti tartalommal).
 
 ## d) Az elfogadásra kerülő munkarészekre vonatkozó összefoglaló indoklás.
 
-## e) Az egyeztető eljárás eredménye (az egyes munkafázisok dokumentációjára érkezett észrevételek és tervezői válaszok).
+## e) Tervezői nyilatkozat arról, hogy a területrendezési terv megfelel az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvénynek.
 
-## f) Tervezői nyilatkozat arról, hogy a területrendezési terv megfelel az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvénynek.
-
-## g) A tervező igazoló számítása arról, hogy a területrendezési terv összhangban van az Országos Területrendezési Tervről szóló 2003.évi XXVI. törvényben foglaltakkal.
+## f) A tervező igazoló számítása arról, hogy a területrendezési terv összhangban van az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvényben foglaltakkal.
 
 ## III. Elfogadási fázis
 
-## A jogszabály-tervezet külön jogszabály szerinti egyeztetése és elfogadásra történő előkészítése.
-
-## Dokumentálás
+## A jogszabálytervezet jogszabály szerinti egyeztetése és elfogadásra történő előkészítése, dokumentálása
 
 ## A területrendezési tervek dokumentálása során:
 
@@ -256,20 +234,16 @@
 
 ## b) elkülöníthető módon kell dokumentálni az elfogadó szerv által jóváhagyásra kerülő munkarészeket;
 
-## c) a példányszám meghatározásánál figyelembe kell venni a külön jogszabályban meghatározott egyeztetési és tájékoztatási kötelezettséget;
+## c) az egyeztető eljárás eredményét (az egyes munkafázisok dokumentációjára érkezett észrevételek és tervezői válaszokat) dokumentálni kell;
 
 ## d) a papíralapú dokumentálás mellett a teljes tervanyagot elektronikus dokumentumként (pdf formátumban) is elő kell állítani;
 
-## e) a területrendezési tervek elfogadásra kerülő rajzi munkarésznek a hiteles példányait az alábbi jellemző méretarányban kell megjeleníteni:
+## e) a területrendezési tervek elfogadásra kerülő rajzi munkarészének a hiteles példányait az alábbi jellemző méretarányban kell megjeleníteni:
 
 ## ea) az ország területrendezési terve: M = 1:500 000,
 
-## eb) régió, kiemelt térség, megye vagy megye egy térségének területrendezési terve:
+## eb) régió, kiemelt térség, megye vagy megye egy térségének területrendezési terve: M = 1:50 000–1:100 000.
 
-## M = 1:50 000-1:100 000.
+8. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^61]
 
-8. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^54]
-
-A MEGYEI TERÜLETRENDEZÉSI TERVEK JELKULCSA
-
-[^54]: A 8. melléklet a 25/2014. (II. 7.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^61]: A 8. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.

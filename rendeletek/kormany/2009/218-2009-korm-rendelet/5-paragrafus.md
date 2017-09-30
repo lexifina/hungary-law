@@ -1,6 +1,6 @@
 ## A területi tervek illeszkedési szabályai
 
-5. §[^12] (1) A térség nagyságrendjét, illetve az elfogadás szintjét tekintve a területfejlesztési koncepciók és programok egymásra épülő rendszert alkotnak.
+5. §[^15] (1) A térség nagyságrendjét, illetve az elfogadás szintjét tekintve a területfejlesztési koncepciók és programok egymásra épülő rendszert alkotnak.
 
 (2) A megye területfejlesztési koncepciója és programja nem lehet ellentétes
 
@@ -24,4 +24,4 @@ d) a megyei területfejlesztési koncepcióban és programban
 
 foglaltakkal.
 
-[^12]: Az 5. § a 67/2012. (IV. 5.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^15]: Az 5. § a 67/2012. (IV. 5.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.

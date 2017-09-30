@@ -1,8 +1,8 @@
-1. melléklet a 218/2009. (X. 6.) Korm. rendelethez
+1. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^53]
 
-## A kiemelt térségi és a megyei szintű területfejlesztési koncepció, valamint a kiemelt térségi és a megyei területrendezési terv közös feltáró – értékelő vizsgálatának tartalmi követelményei[^39]
+## A kiemelt térségi és a megyei szintű területfejlesztési koncepció, valamint a kiemelt térségi és a megyei területrendezési terv közös feltáró-értékelő vizsgálatának tartalmi követelményei
 
-1.[^40] A megye/kiemelt térség (a továbbiakban: a térség) terület társadalmi, gazdasági, környezeti helyzetének elemzése
+1. A megye, kiemelt térség (a továbbiakban együtt: térség) társadalmi, gazdasági, környezeti helyzetének elemzése
 
 1.1. Az adott térségre értelmezhető külső környezet vizsgálata:
 
@@ -12,67 +12,75 @@ b) a nagytérségi összefüggések vizsgálata.
 
 1.2. A térség adottságainak, belső erőforrásainak elemzése területi bontásban, térképi megjelenítésekkel:
 
-a) természeti adottságok, természeti erőforrások és a környezet állapotának elemzése:
+a) természeti és épített környezet vizsgálata:
 
-aa) természeti adottságok (éghajlat, földtan, talajtan, vízrajz, domborzat, élővilág),
+aa) természeti adottságok, természetvédelem,
 
-ab) a termőföldek területnagyságának és mennyiségének alakulása,
+ab) a táj jellemzői (tájszerkezet, tájhasználat, tájjelleg, tájkép), tájvédelem,
 
-ac)[^41] a táj jellemzői (tájszerkezet, tájhasználat, tájjelleg, tájkép),
+ac) termőföld- és talajvédelem,
 
-ad) természet- és tájvédelem,
+ad) vízvédelem (felszíni és felszín alatti vízkészletek, vízminőség),
 
-ae) környezeti elemek állapota és az alakulásukat befolyásoló fontosabb tényezők,
+ae) épített környezeti és a kulturális örökségi értékek (építészeti örökség, régészeti örökség, műemléki értékek, emlékhelyek),
 
-af) szennyezett területek számbavétele adatbázis alapján (a felszín alatti víz és a földtani közeg környezetvédelmi nyilvántartási rendszer kármentesítési információs rendszere, FAVI-KÁRINFO),
+af) világörökségi és világörökségi várományos területek,
 
-ag)[^42] vízvédelem (felszíni és felszín alatti vízkészletek),
+ag) honvédelem,
 
-ah) energiaforrások,
+ah) ásványvagyon,
 
-ai) vízkárt okozó elemek (árvíz- és belvízveszély, fakadóvíz) és vízkárelhárítással kapcsolatos helyzetelemzés;
+ai) természeti és környezeti kockázatok, különös tekintettel az éghajlatváltozás területi vonatkozásaira;
 
-b)[^43] épített környezet és a kulturális örökség védelme (építészeti örökség, műemléki értékek, régészeti örökség, emlékhelyek), valamint a világörökségi és világörökségi várományos területek védelme;
+b) térszerkezet alakulása, a területfelhasználás változásai, tendenciák:
 
-c) gazdasági bázis:
+ba) településrendszer,
 
-ca) főbb gazdasági ágazatok, azok fejlődési irányai: mezőgazdaság, erdőgazdálkodás, üdülés, idegenforgalom, vízgazdálkodás, ipar, szolgáltatás stb.,
+bb) mezőgazdaság,
 
-cb) a gazdaság belső és külső kapcsolatai,
+bc) erdőgazdálkodás,
 
-cc) a termelési infrastruktúra állapota,
+bd) vízgazdálkodás;
 
-cd) a telepítési tényezők értékelése,
+c) közlekedési (országos és térségi jelentőségű közúti, kerékpáros-, vasúti, légi és vízi közlekedés) és kommunális infrastruktúra:
 
-ce) a területi innovációs potenciál,
+ca) vonalas rendszerek, létesítmények,
 
-cf) a térség gazdaságának versenyképességét befolyásoló tényezők;
+cb) egyéni és közösségi közlekedési megközelíthetőségi viszonyok,
 
-d) társadalmi környezet:
+cc) közlekedési kapcsolati hiányok,
 
-da) kulturális adottságok, értékek,
+cd) vízellátás,
 
-db) területi identitás, civil aktivitás,
+ce) szennyvízelvezetés, szennyvíztisztítás, szennyvíz- és szennyvíziszap-elhelyezés,
 
-dc) humán erőforrások: demográfiai szerkezet és prognózis, foglalkoztatási viszonyok, humánkapacitások, jövedelmi viszonyok, kisebbségek helyzete;
+cf) energiaellátás, energetikai hálózatok,
 
-e) közlekedési (országos és térségi jelentőségű közúti, kerékpáros, vasúti, légi és vízi közlekedés) és kommunális infrastruktúra:
+cg) hulladéklerakók, hulladékgazdálkodás;
 
-ea) vonalas rendszerek, létesítmények,
+d) gazdasági bázis:
 
-eb) egyéni és közösségi közlekedési megközelíthetőségi viszonyok,
+da) főbb gazdasági ágazatok, azok fejlődési irányai: mezőgazdaság, erdőgazdálkodás, üdülés, idegenforgalom, vízgazdálkodás, ipar, szolgáltatás stb.,
 
-ec) közlekedési kapcsolati hiányok,
+db) a gazdaság belső és külső kapcsolatai,
 
-ed) vízellátás,
+dc) a termelési infrastruktúra állapota,
 
-ee) szennyvízelvezetés, szennyvíztisztítás, szennyvíz és szennyvíziszap elhelyezés,
+dd) a telepítési tényezők értékelése,
 
-ef) energiaellátás,
+de) a területi innovációs potenciál,
 
-eg) hulladéklerakók, hulladékgazdálkodás;
+df) a térség gazdaságának versenyképességét befolyásoló tényezők;
 
-f) a települések intézmény-felszereltsége (a lakosság egészségügyi, szociális, oktatási, kulturális, szabadidő, sport-, kereskedelmi, szolgáltató és igazgatási intézményekkel való ellátottsága, az intézmények kihasználtsága);
+e) társadalmi környezet:
+
+ea) kulturális adottságok, értékek,
+
+eb) területi identitás, civil aktivitás,
+
+ec) humán erőforrások: demográfiai szerkezet és prognózis, foglalkoztatási viszonyok, humánkapacitások, jövedelmi viszonyok, kisebbségek helyzete;
+
+f) a települések intézményfelszereltsége (a lakosság egészségügyi, szociális, oktatási, kulturális, szabadidő-, turisztikai információs, szálláshely-szolgáltató, sport-, kereskedelmi, szolgáltató és igazgatási intézményekkel való ellátottsága, az intézmények kihasználtsága);
 
 g) a települések jellemző lakásviszonyai;
 
@@ -82,13 +90,9 @@ ha) településhierarchia,
 
 hb) a településhálózat területen belüli és kívüli kapcsolatai (nemzetközi és nemzeti hálózatok, vonzáskörzetek, agglomerációk),
 
-hc)[^44] települések közötti feladatmegosztások, együttműködések, mindezek szervezeti és intézményi rendszerei, figyelemmel az egyes kötelező közszolgáltatások, egyéb települési szolgáltatások biztosításának – többek között az okos város módszertanának alkalmazásának – módjára, hozzáférhetőségére, fenntartási lehetőségeire, valamint a dc) alpont szerint vizsgált demográfiai viszonyokra;
+hc) települések közötti feladatmegosztások, együttműködések, mindezek szervezeti és intézményi rendszerei, figyelemmel az egyes kötelező közszolgáltatások, egyéb települési szolgáltatások biztosításának – többek között az okos város módszertana alkalmazásának – módjára, hozzáférhetőségére, fenntartási lehetőségeire, valamint az e) pont ec) alpontja szerint vizsgált demográfiai viszonyokra;
 
-i) a térszerkezeti elemek azonosítása, a térszerkezet időbeli alakulása, a térségi területfelhasználás változásai, tendenciák értékelése;
-
-j) a térségi területfelhasználás vizsgálata;
-
-k) a táj terhelésének és terhelhetőségének meghatározása.
+i) a táj terhelésének és terhelhetőségének meghatározása.
 
 2. A térséget érintő tervezési-fejlesztési környezet áttekintése
 
@@ -96,15 +100,17 @@ k) a táj terhelésének és terhelhetőségének meghatározása.
 
 a) az OTK térséget érintő vonatkozásai,
 
-b)[^45] a térséget érintő kiemelt térség területfejlesztési tervei, c) az Országgyűlés és a Kormány által jóváhagyott és az egyéb ágazati fejlesztési stratégiáknak az adott térségre érvényes vonatkozásai,
+b) a térséget érintő kiemelt térség területfejlesztési tervei,
+
+c) az Országgyűlés és a Kormány által jóváhagyott és az egyéb ágazati fejlesztési stratégiáknak az adott térségre érvényes vonatkozásai,
 
 d) a hazai, az adott térséggel szomszédos, azonos térségi szintű térségek és/vagy külföldi közigazgatási egységek területfejlesztési koncepcióinak és programjainak térségre vonatkozó üzenetei,
 
-e) az OTrT és a területrendezési terv(ek) térséget érintő vonatkozásai,
+e) a területrendezési tervek térséget érintő vonatkozásai,
 
 f) a térséget érintő környezetvédelmi, természetvédelmi és tájvédelmi szabályozások,
 
-g)[^46] a térség 20 ezer lakos feletti városainak települési gazdasági vagy településfejlesztési programjai és településfejlesztési koncepciói,
+g) a térség 20 ezer lakos feletti városainak gazdaság- vagy településfejlesztési programjai és településfejlesztési koncepciói,
 
 h) a térség hatályban lévő ágazati tervei, programjai,
 
@@ -118,7 +124,7 @@ a) a partnerségi terv elkészítése,
 
 b) a partnerségi terv végrehajtása,
 
-c) a partnerségi terv eredményei alapján
+c) a partnerségi terv eredményei alapján:
 
 ca) az üzleti szektor szereplőinek a térséget érintő fejlesztési elképzeléseinek áttekintése,
 
@@ -132,7 +138,7 @@ a) a területfejlesztés forrásainak elemzése (nemzetközi, központi költsé
 
 b) a területfejlesztés intézményrendszere (szervezet, működés, együttműködés),
 
-c) a területfejlesztés hatékonysága (eddigi eredmények, forrás-aktivitás, az intézmények hatása, hiányosságok).
+c) a területfejlesztés hatékonysága (eddigi eredmények, forrásaktivitás, a fejlesztési területek kihasználtságának bemutatása, az intézmények hatása, hiányosságok).
 
 2.4. Helyzetértékelés:
 
@@ -140,11 +146,4 @@ a) a térség erősségeinek, gyengeségeinek, lehetőségeinek és a térséget
 
 b) a térség lehetséges fejlesztési irányainak bemutatása, és ezek alapján a lehetséges cselekvési területek azonosítása.
 
-[^39]: Az 1. melléklet címe a 67/2012. (IV. 5.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
-[^40]: Az 1. melléklet 1. pontja a 67/2012. (IV. 5.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
-[^41]: Az 1. melléklet 1. pont 1.2. alpont a) pont ac) alpontja a 25/2014. (II. 7.) Korm. rendelet 16. § h) pontjával megállapított szöveg.
-[^42]: Az 1. melléklet 1. pont 1.2. alpont a) pont ag) alpontja a 25/2014. (II. 7.) Korm. rendelet 16. § i) pontjával megállapított szöveg.
-[^43]: Az 1. melléklet 1. pont 1.2. alpont b) pontja a 25/2014. (II. 7.) Korm. rendelet 16. § j) pontja szerint módosított szöveg.
-[^44]: Az 1. melléklet 1.2. pont h) alpont hc) alpontja az 56/2017. (III. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^45]: Az 1. melléklet 2.1. pont b) alpontja a 67/2012. (IV. 5.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
-[^46]: Az 1. melléklet 2.1. pont b) alpontja a 67/2012. (IV. 5.) Korm. rendelet 24. § f) pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
