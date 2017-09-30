@@ -18,11 +18,11 @@ f) az ágazat irányítása alá tartozó területi szervek munkájának összeh
 
 g) magasabb szintű működési állapotban az ágazati nukleárisbaleset-elhárítási intézkedési tervben rögzített feladatoknak a mindenkori helyzethez igazított végrehajtása,
 
-h)[^19] naptári évenként a feladatok teljesítésének értékelése és a következő év feladatainak meghatározása, azokról a hivatásos katasztrófavédelmi szerv központi szerve útján a kormányzati koordinációs szerv tájékoztatása,
+h)[^20] naptári évenként a feladatok teljesítésének értékelése és a következő év feladatainak meghatározása, azokról a hivatásos katasztrófavédelmi szerv központi szerve útján a kormányzati koordinációs szerv tájékoztatása,
 
-i)[^20] a kormányzati koordinációs szerv tájékoztatása a nukleárisbaleset-elhárításra biztosított pénzeszközök felhasználásáról,
+i)[^21] a kormányzati koordinációs szerv tájékoztatása a nukleárisbaleset-elhárításra biztosított pénzeszközök felhasználásáról,
 
 j) a saját és az irányítása alá tartozó szervek, szervezetek nukleáris veszélyhelyzeti feladatainak ellátására való felkészültség rendszeres értékelése.
 
-[^19]: A 11. § (2) bekezdés h) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (6) bekezdése szerint módosított szöveg.
-[^20]: A 11. § (2) bekezdés i) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 11. § (2) bekezdés h) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (6) bekezdése szerint módosított szöveg.
+[^21]: A 11. § (2) bekezdés i) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.

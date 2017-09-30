@@ -1,4 +1,4 @@
-9. § (1)[^11] A kormányzati koordinációs szerv a normál működési állapotban
+9. § (1)[^12] A kormányzati koordinációs szerv a normál működési állapotban
 
 a) figyelemmel kíséri a nukleáris létesítmények veszélyhelyzetekre történő felkészülési és a következmények elhárítására való képességének színvonalát, és azokról – az atomenergia-felügyeleti szervvel és az atomenergia alkalmazójával együttműködve – kétévenként tájékoztató anyagot készít,
 
@@ -12,10 +12,10 @@ e) az ONER működtetésében részt vevő, 1. melléklet szerinti szervek öné
 
 f) javaslatot tesz a nukleárisbaleset-elhárítási rendszer képzési, gyakorlatozási tevékenységére.
 
-(2)[^12] A készenléti és veszélyhelyzeti működési állapotban a kormányzati koordinációs szerv elemzi a felmerülő új kérdések és problémák tudományos megválaszolását, megoldását.
+(2)[^13] A készenléti és veszélyhelyzeti működési állapotban a kormányzati koordinációs szerv elemzi a felmerülő új kérdések és problémák tudományos megválaszolását, megoldását.
 
-(3)[^13] A helyreállítási működési állapotban a Kormány eseti döntésének megfelelően a kormányzati koordinációs szerv részt vesz a nukleáris baleset okainak kivizsgálásában.
+(3)[^14] A helyreállítási működési állapotban a Kormány eseti döntésének megfelelően a kormányzati koordinációs szerv részt vesz a nukleáris baleset okainak kivizsgálásában.
 
-[^11]: A 9. § (1) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^12]: A 9. § (2) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^13]: A 9. § (3) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^12]: A 9. § (1) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^13]: A 9. § (2) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^14]: A 9. § (3) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

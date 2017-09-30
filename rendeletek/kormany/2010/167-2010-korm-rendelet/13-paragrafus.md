@@ -14,13 +14,13 @@ f) az alárendelt szervek munkájának koordinálása,
 
 g) nukleáris veszélyhelyzetben az elhárítási feladatok végrehajtása,
 
-h)[^25] naptári évenként a feladatok teljesítésének értékelése és a következő év feladatainak meghatározása, azokról a hivatásos katasztrófavédelmi szerv központi szerve útján a kormányzati koordinációs szerv tájékoztatása,
+h)[^26] naptári évenként a feladatok teljesítésének értékelése és a következő év feladatainak meghatározása, azokról a hivatásos katasztrófavédelmi szerv központi szerve útján a kormányzati koordinációs szerv tájékoztatása,
 
-i)[^26] a kormányzati koordinációs szerv tájékoztatása a nukleárisbaleset-elhárításra biztosított pénzeszközök felhasználásáról,
+i)[^27] a kormányzati koordinációs szerv tájékoztatása a nukleárisbaleset-elhárításra biztosított pénzeszközök felhasználásáról,
 
 j) közreműködés a főváros és megyei szintű lakossági tájékoztatás személyi, szervezeti és technikai feltételeinek biztosításában,
 
 k) a saját és az irányítása alá tartozó szervek, szervezetek nukleáris veszélyhelyzeti feladatainak ellátására való felkészültség rendszeres értékelése.
 
-[^25]: A 13. § h) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (7) bekezdése szerint módosított szöveg.
-[^26]: A 13. § i) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^26]: A 13. § h) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (7) bekezdése szerint módosított szöveg.
+[^27]: A 13. § i) pontja a 361/2011. (XII. 30.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
