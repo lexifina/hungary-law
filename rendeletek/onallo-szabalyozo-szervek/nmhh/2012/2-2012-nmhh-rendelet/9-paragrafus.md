@@ -1,4 +1,4 @@
-9. § (1)[^15] A KRA és a szolgáltatók közötti adatcsere elektronikus formában, hitelesített adatkapcsolat útján történik. Mind a KRA, mind a szolgáltatók által küldött üzeneteket legalább fokozott biztonságú elektronikus aláírással kell ellátni. A hatóság a KRA zavartalan működése érdekében a szolgáltatók által küldött egyes üzeneteket – a 10. § (1) bekezdése szerinti műszaki leírásokban foglalt szabályoknak megfelelően – elektronikus aláírás nélkül is elfogadhatja, amennyiben elektronikusan aláírt üzenet KRA részére történő továbbítása objektív műszaki okból nem lehetséges.
+9. § (1)[^15] A KRA és a szolgáltatók közötti adatcsere elektronikus formában, hitelesített adatkapcsolat útján történik. Mind a KRA, mind a szolgáltatók által küldött üzeneteket legalább fokozott biztonságú elektronikus aláírással vagy legalább fokozott biztonságú elektronikus bélyegzővel kell ellátni. A hatóság a KRA zavartalan működése érdekében a szolgáltatók által küldött egyes üzeneteket – a 10. § (1) bekezdése szerinti műszaki leírásokban foglalt szabályoknak megfelelően – elektronikus aláírás nélkül is elfogadhatja, amennyiben elektronikusan aláírt üzenet KRA részére történő továbbítása objektív műszaki okból nem lehetséges.
 
 (2) A hordozott számokra vonatkozó irányítási információkat a szolgáltatói felhasználók számhordozási tranzakciók keretében jelentik be a KRA számára.
 
@@ -14,4 +14,4 @@
 
 (8) A hívások és jelzések irányításáért felelős, illetve a felelős szolgáltató megbízásából irányítást végző szolgáltató köteles üzemi adatbázisában a hordozott számokra vonatkozó irányítási információk érvényesítését a megadott számátadási időablakban elvégezni.
 
-[^15]: A 9. § (1) bekezdése az 1/2016. (I. 15.) NMHH rendelet 13. §-ával megállapított szöveg.
+[^15]: A 9. § (1) bekezdése az 1/2016. (I. 15.) NMHH rendelet 13. §-ával megállapított, a 10/2017. (IX. 14.) NMHH rendelet 10. § a) pontja szerint módosított szöveg.

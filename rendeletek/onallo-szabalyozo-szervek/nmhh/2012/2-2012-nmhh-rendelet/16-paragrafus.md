@@ -1,6 +1,6 @@
 ## 11. Szolgáltatók kezelése
 
-16. § (1)[^19] A KRA rendszerhez minden olyan szolgáltató köteles csatlakozni, amely földrajzi, mobil vagy nomadikus telefonszolgáltatáshoz tartozó számmező kijelölési engedélyével rendelkezik. Ezen számok kijelölési engedélyének visszavonása esetén a hatóság a szolgáltató KRA rendszerhez való hozzáférését megszünteti.
+16. § (1)[^19] A KRA rendszerhez minden olyan szolgáltató köteles csatlakozni, amely helyhez kötött telefonszolgáltatáshoz, mobil rádiótelefon-szolgáltatáshoz vagy nomadikus telefonszolgáltatáshoz tartozó számmező kijelölési engedélyével rendelkezik. Ezen számok kijelölési engedélyének visszavonása esetén a hatóság a szolgáltató KRA rendszerhez való hozzáférését megszünteti.
 
 (2) A szolgáltatónak a KRA-hoz történő első csatlakozása előtt együttműködési tesztet kell végrehajtania. A csatlakozás csak sikeres teszt után hajtható végre. Amennyiben a szolgáltató a tesztet a hatóság felszólításában kitűzött határidőre sem hajtja végre, az (1) bekezdés szerinti kijelölési engedélyeket a hatóság visszavonja. A határidő nem lehet rövidebb 15 napnál, figyelembe véve a csatlakozáshoz szükséges tanúsítványok beszerzéséhez szükséges időt.
 
@@ -10,9 +10,13 @@
 
 (4) A szolgáltató kódot a hatóság jelöli ki. Egy szolgáltató részére – indokolt esetben – több szolgáltató kód is kijelölhető.
 
-(5) A szolgáltató kóddal rendelkező szolgáltató jogutódlással való megszűnése esetén a jogelőd szolgáltatóhoz vagy szolgáltatókhoz rendelt szolgáltató kódot vagy kódokat – a jogutód szolgáltató által kiválasztott szolgáltató kód vagy kódok kivételével – a hatóság 120 napon belül visszavonja.
+(5)[^21] A szolgáltató kóddal rendelkező szolgáltató jogutódlással való megszűnése esetén a jogelőd szolgáltatóhoz vagy szolgáltatókhoz rendelt szolgáltató kódot vagy kódokat – a jogutód szolgáltató által kiválasztott szolgáltató kód vagy kódok kivételével – a hatóság 120 napon belül visszavonja.
+
+(5a)[^22] A szolgáltató kóddal rendelkező szolgáltató szolgáltatási tevékenységének átadása esetén az átadó szolgáltatóhoz rendelt szolgáltató kód nem adható át.
 
 (6) A szolgáltató kódokban történő változásról a KRA a szolgáltatók számára üzenetet készít. A hatóság a változást köteles a honlapján megjeleníteni.
 
-[^19]: A 16. § (1) bekezdése az 1/2016. (I. 15.) NMHH rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^19]: A 16. § (1) bekezdése az 1/2016. (I. 15.) NMHH rendelet 14. § (1) bekezdésével megállapított, a 10/2017. (IX. 14.) NMHH rendelet 10. § b) pontja szerint módosított szöveg.
 [^20]: A 16. § (2a) bekezdését az 1/2016. (I. 15.) NMHH rendelet 14. § (2) bekezdése iktatta be.
+[^21]: A 16. § (5) bekezdése a 10/2017. (IX. 14.) NMHH rendelet 8. §-ával megállapított szöveg.
+[^22]: A 16. § (5a) bekezdését a 10/2017. (IX. 14.) NMHH rendelet 8. §-a iktatta be.

@@ -6,4 +6,8 @@
 
 (3) Az átvevő szolgáltató köteles az előfizetői szám újra előfizetőhöz való rendelhetőségének időpontjáról legalább harminc nappal ezen időpontot megelőzően a központi referencia adatbázist értesíteni. A KRA köteles a hordozott számot tartalmazó számmező kijelölési engedélyének jogosultját az előfizetői szám újra előfizetőhöz való rendelhetőségéről értesíteni.
 
+(3a)[^25] Ha az átvevő szolgáltató KRA rendszerhez való hozzáférését a hatóság megszünteti, az átvevő szolgáltatóhoz hordozott szám használati jogát egyidejűleg, a (2) bekezdés szerinti időtartam alkalmazása nélkül kell megszüntetni.
+
 (4) A megszűnt hordozott előfizetői szám használati joga visszakerül a számot tartalmazó számmező kijelölési engedélyének jogosultjához, ez esetben a szám újra előfizetőhöz rendelhetővé válik.
+
+[^25]: A 19. § (3a) bekezdését a 10/2017. (IX. 14.) NMHH rendelet 9. §-a iktatta be.
