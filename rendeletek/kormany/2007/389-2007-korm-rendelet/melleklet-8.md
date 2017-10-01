@@ -22,14 +22,14 @@ A Befogadó neve és címe
 
 Értékesítési időszak (év, hónap)
 
-KÁT termelőnként[^131]
+KÁT termelőnként[^132]
 
-1.[^132] a KÁT termelő neve és címe
+1.[^133] a KÁT termelő neve és címe
 
-2.[^133] a kötelező átvétel rendeleti alapja (ahol is a 4. § megfelelő bekezdésére, valamint 1. számú melléklet megfelelő pontjára kell hivatkozni).
+2.[^134] a kötelező átvétel rendeleti alapja (ahol is a 4. § megfelelő bekezdésére, valamint 1. számú melléklet megfelelő pontjára kell hivatkozni).
 
 3. az átvett villamos energia mennyisége (MWh) és ára (Ft/kWh) zónaidőnként.
 
-[^131]: A 8. melléklet bevezető része a 393/2016. (XII. 5.) Korm. rendelet 2. § (15) bekezdése szerint módosított szöveg.
-[^132]: A 8. melléklet 1. pontja a 393/2016. (XII. 5.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^133]: A 8. számú melléklet 2. pontja a 166/2011. (VIII. 24.) Korm. rendelet 2. § f)–g) pontja és 3. § 27. pontja szerint módosított szöveg.
+[^132]: A 8. melléklet bevezető része a 393/2016. (XII. 5.) Korm. rendelet 2. § (15) bekezdése szerint módosított szöveg.
+[^133]: A 8. melléklet 1. pontja a 393/2016. (XII. 5.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^134]: A 8. számú melléklet 2. pontja a 166/2011. (VIII. 24.) Korm. rendelet 2. § f)–g) pontja és 3. § 27. pontja szerint módosított szöveg.

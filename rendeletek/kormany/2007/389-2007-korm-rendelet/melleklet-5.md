@@ -2,19 +2,19 @@
 
 ## I. Általános szabályok
 
-## 1.[^123] A fizetések a Befogadó és a KÁT termelő viszonylatában a 3. § (10) bekezdése szerinti villamos energia vonatkozásában a villamosenergia-ellátási szabályzatokkal összhangban végzett mérések alapján, az adott elszámolási pontra meghatározott villamosenergia-mennyiségen alapuló számla, továbbá a 9. § (1) bekezdésén alapuló módosító számla és a szabályozási pótdíj esetében számviteli bizonylat alapján történnek.
+## 1.[^124] A fizetések a Befogadó és a KÁT termelő viszonylatában a 3. § (10) bekezdése szerinti villamos energia vonatkozásában a villamosenergia-ellátási szabályzatokkal összhangban végzett mérések alapján, az adott elszámolási pontra meghatározott villamosenergia-mennyiségen alapuló számla, továbbá a 9. § (1) bekezdésén alapuló módosító számla és a szabályozási pótdíj esetében számviteli bizonylat alapján történnek.
 
-## 2.[^124] A jogosult köteles eredeti számláját, számviteli bizonylatát a kötelezett részére úgy benyújtani, hogy azt a kötelezett a számlában, számviteli bizonylatban feltüntetett esedékesség időpontját legalább hat munkanappal megelőzően kézhez vehesse.
+## 2.[^125] A jogosult köteles eredeti számláját, számviteli bizonylatát a kötelezett részére úgy benyújtani, hogy azt a kötelezett a számlában, számviteli bizonylatban feltüntetett esedékesség időpontját legalább hat munkanappal megelőzően kézhez vehesse.
 
-## 3.[^125] A fizetési kötelezettségekkel kapcsolatos számlára, számviteli bizonylatra vonatkozó kifogást a számla, számviteli bizonylat kézhezvételétől számított öt munkanapon belül lehet a jogosulttal közölni. A helytelen mérési adatokkal összefüggő kifogásokat a kereskedelmi szabályzatban foglaltaknak megfelelő elszámolási mennyiségi adatok reklamációját követően, de legkésőbb a kereskedelmi szabályzatban rögzített elszámolási adatokra vonatkozó reklamációs határidőig lehet a Befogadó részére benyújtani. A számlára, számviteli bizonylatra vonatkozó kifogás esetében a nem vitatott részek esedékessége nem változik.
+## 3.[^126] A fizetési kötelezettségekkel kapcsolatos számlára, számviteli bizonylatra vonatkozó kifogást a számla, számviteli bizonylat kézhezvételétől számított öt munkanapon belül lehet a jogosulttal közölni. A helytelen mérési adatokkal összefüggő kifogásokat a kereskedelmi szabályzatban foglaltaknak megfelelő elszámolási mennyiségi adatok reklamációját követően, de legkésőbb a kereskedelmi szabályzatban rögzített elszámolási adatokra vonatkozó reklamációs határidőig lehet a Befogadó részére benyújtani. A számlára, számviteli bizonylatra vonatkozó kifogás esetében a nem vitatott részek esedékessége nem változik.
 
-## 4.[^126] A fizetési kötelezettségek késedelmes teljesítése esetén a késedelmesen teljesítő fél a késedelembe esés napjától a kifizetés napjáig terjedő időszakra a polgári törvénykönyvről szóló törvényben foglaltak szerinti késedelmi kamatot, valamint a behajtási költségátalányról szóló 2016. évi IX. törvény szerinti behajtási költségátalányt köteles fizetni a másik fél részére.
+## 4.[^127] A fizetési kötelezettségek késedelmes teljesítése esetén a késedelmesen teljesítő fél a késedelembe esés napjától a kifizetés napjáig terjedő időszakra a polgári törvénykönyvről szóló törvényben foglaltak szerinti késedelmi kamatot, valamint a behajtási költségátalányról szóló 2016. évi IX. törvény szerinti behajtási költségátalányt köteles fizetni a másik fél részére.
 
 ## 5. Ha a jogosult és a kötelezett ugyanazon jogi személy (társaság) részét képezi, akkor az elszámolások – számla helyett – a társaság számviteli szabályozása szerint kötött belső megállapodás, illetve az ennek megfelelő, mérésen alapuló belső bizonylatok alapján történnek.
 
-## 6.[^127] A KÁT termelő a mérlegkör-tagsági szerződésben meghatározottak szerint pénzügyi biztosítékot nyújt. A pénzügyi biztosítékot a Befogadó jogosult a KÁT termelő lejárt fizetési kötelezettsége kielégítése céljából lehívni.
+## 6.[^128] A KÁT termelő a mérlegkör-tagsági szerződésben meghatározottak szerint pénzügyi biztosítékot nyújt. A pénzügyi biztosítékot a Befogadó jogosult a KÁT termelő lejárt fizetési kötelezettsége kielégítése céljából lehívni.
 
-## II.[^128] Különös szabályok
+## II.[^129] Különös szabályok
 
 ## A villamos energia Befogadója és a KÁT termelő között érvényesülő árak alkalmazási feltételei
 
@@ -40,12 +40,12 @@
 
 2. A 4. § (2)–(6) bekezdése szerinti villamos energia tárgyévre vonatkozó, január 1-jétől érvényes – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos kötelező átvételi árát a tárgyévet megelőző év – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos átvételi ára és a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, az előző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex 1% pontos hatékonyságjavítási tényezővel csökkentett értékének szorzata alapján kell meghatározni.
 
-3.[^129] E rendelet alkalmazásában, az 1. és 2. pontban hivatkozott „a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, a megelőző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex” a Központi Statisztikai Hivatal által a tárgyévet megelőző évre vonatkozóan havonta közzétett, az előző év azonos hónapjaihoz viszonyított fogyasztói árindexeinek átlagát jelenti.
+3.[^130] E rendelet alkalmazásában, az 1. és 2. pontban hivatkozott „a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, a megelőző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex” a Központi Statisztikai Hivatal által a tárgyévet megelőző évre vonatkozóan havonta közzétett, az előző év azonos hónapjaihoz viszonyított fogyasztói árindexeinek átlagát jelenti.
 
-[^123]: A 4. számú melléklet I. pont 1. alpontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (7) bekezdésével megállapított, a 393/2016. (XII. 5.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^124]: A 4. számú melléklet I. pont 2. alpontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
-[^125]: A 4. számú melléklet I. pont 3. alpontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
-[^126]: A 4. melléklet I. rész 4. pontja a 393/2016. (XII. 5.) Korm. rendelet 2. § (12) bekezdése szerint módosított szöveg.
-[^127]: A 4. számú melléklet I. pont 6. alpontját a 232/2017. (VIII. 14.) Korm. rendelet 10. §-a iktatta be.
-[^128]: A 4. számú melléklet II. pontja a 232/2017. (VIII. 14.) Korm. rendelet 10. §-ával megállpaított szöveg.
-[^129]: Az 5. melléklet 3. pontja a 393/2016. (XII. 5.) Korm. rendelet 2. § (14) bekezdése szerint módosított szöveg.
+[^124]: A 4. számú melléklet I. pont 1. alpontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (7) bekezdésével megállapított, a 393/2016. (XII. 5.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^125]: A 4. számú melléklet I. pont 2. alpontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
+[^126]: A 4. számú melléklet I. pont 3. alpontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
+[^127]: A 4. melléklet I. rész 4. pontja a 393/2016. (XII. 5.) Korm. rendelet 2. § (12) bekezdése szerint módosított szöveg.
+[^128]: A 4. számú melléklet I. pont 6. alpontját a 232/2017. (VIII. 14.) Korm. rendelet 10. §-a iktatta be.
+[^129]: A 4. számú melléklet II. pontja a 232/2017. (VIII. 14.) Korm. rendelet 10. §-ával megállpaított szöveg.
+[^130]: Az 5. melléklet 3. pontja a 393/2016. (XII. 5.) Korm. rendelet 2. § (14) bekezdése szerint módosított szöveg.

@@ -58,6 +58,8 @@ bc)[^38] a hulladékhasznosító erőműegység rendelkezik a környezetvédelmi
 
 (12)[^49] Az e rendelet szerinti kötelező átvételre jogosult termelő kérheti, hogy a kötelező átvétel keretében történő támogatás helyett a METÁR rendelet szerinti prémium típusú támogatásban részesüljön. Ebben az esetben az alkalmazandó támogatott ár a termelőre vonatkozó aktuális kötelező átvételi árak időben egyenletes termelés melletti átlagával egyezik meg és a támogatás időtartama változatlan marad. A kötelező átvételi rendszerbe való visszalépésre nincs lehetőség.
 
+(13)[^50] Ha a kötelező átvételre jogosult erőműegység a közcélú hálózaton piaci alapon is értékesít vagy kíván értékesíteni villamos energiát, akkor át kell lépnie METÁR rendelet szerinti prémium típusú támogatási rendszerbe. Ebben az esetben a (12) bekezdésben meghatározott támogatott árat és időtartamot kell alkalmazni.
+
 [^37]: A 4. § (5) bekezdés nyitó szövegrésze a 123/2015. (V. 26.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^38]: A 4. § (5) bekezdés b) pont bc) alpontja a 182/2009. (IX. 10.) Korm. rendelet 612. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^39]: A 4. § (6) bekezdése a 123/2015. (V. 26.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
@@ -71,3 +73,4 @@ bc)[^38] a hulladékhasznosító erőműegység rendelkezik a környezetvédelmi
 [^47]: A 4. § (10a) bekezdését a 232/2017. (VIII. 14.) Korm. rendelet 5. § (3) bekezdése iktatta be.
 [^48]: A 4. § (11) bekezdését a 123/2015. (V. 26.) Korm. rendelet 21. § (2) bekezdése iktatta be, szövege a 312/2016. (X. 19.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^49]: A 4. § (12) bekezdését a 232/2017. (VIII. 14.) Korm. rendelet 5. § (4) bekezdése iktatta be.
+[^50]: A 4. § (13) bekezdését a 232/2017. (VIII. 14.) Korm. rendelet 5. § (5) bekezdése iktatta be.
