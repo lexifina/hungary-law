@@ -1,6 +1,6 @@
 ## 7. § Ez a rendelet 2012. február 1-jén lép hatályba.
 
-1. melléklet az 5/2012. (I. 24.) NMHH rendelethez[^2]
+1. melléklet az 5/2012. (I. 24.) NMHH rendelethez[^6]
 
 |  | A | B |
 
@@ -70,11 +70,11 @@
 
 | 33 | telefonos kezelői szolgáltatás szám (192, 193) | 0 |
 
-| 34 | telefontudakozó szám (197, 198, 199) | 600 000 |
+| 34 | EGYÉB KÓDOK | Éves díj Ft/kód |
 
-| 35 | EGYÉB KÓDOK | Éves díj Ft/kód |
+| 35 | mobil hálózati kód (MNC) | 660 000 |
 
-| 36 | mobil hálózati kód (MNC) | 660 000 |
+| 36 | tesztelési célú mobil hálózati kód (teszt MNC) | 0 |
 
 | 37 | adathálózati azonosító kód (DNIC) | 660 000 |
 
@@ -82,4 +82,4 @@
 
 | 39 | nemzeti összekötő hálózat jelzéspont kód (NISPC) | 66 000 |
 
-[^2]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a, az 1/2016. (I. 15.) NMHH rendelet 16. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a, az 1/2016. (I. 15.) NMHH rendelet 16. §-a, a 10/2017. (IX. 14.) NMHH rendelet 14. §-a szerint módosított szöveg.
