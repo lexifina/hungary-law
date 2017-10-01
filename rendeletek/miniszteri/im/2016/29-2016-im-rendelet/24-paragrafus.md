@@ -1,4 +1,4 @@
-## 20–23. §[^13]
+## 20–23. §[^10]
 
 ## 13. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 8–10. § és a 12. § 2017. október 1-jén lép hatályba.
 
-[^13]: A 20–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 20–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
