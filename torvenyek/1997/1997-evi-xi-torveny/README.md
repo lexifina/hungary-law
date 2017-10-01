@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-11-00-00
 | 2015-08-01 | 2015. évi XCVIII. törvény | 1997-11-00-00.31 |
 | 2016-07-05 | 2016. évi XCIII. törvény | 1997-11-00-00.32 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 1997-11-00-00.33 |
+| 2017-10-01 | 2016. évi XCIII. törvény | 1997-11-00-00.34 |
