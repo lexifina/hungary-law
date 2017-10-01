@@ -18,8 +18,10 @@ c) a hallgatói hitelrendszer működési költségét és egyéb, bevételekkel
 
 (6) A Diákhitel szervezet a (4)–(5) bekezdésben foglalt felülvizsgálatok eredményeként a hallgatói hitelek kamatát a jövőre nézve megváltoztathatja, azonban a kamatmértéken belül a kockázati prémium és a működési költséget fedező prémium együttes összegét 4,5%-nál magasabbra nem növelheti.
 
-(7) A kötött felhasználású hitel esetében az (1)–(6) bekezdések alapján számított kamatot a hitelfelvevő csak részben fizeti meg. A hitelfelvevő számára felszámítandó kamatláb 2%, míg a fennmaradó kamatrészt az állam általános kamattámogatás formájában utalja át a Diákhitel szervezet részére.
+(7)[^12]
 
 (8) A kamatszámítás kezdő napja a hallgatói hitelszerződés alapján történő hitel folyósításának első napja.
 
 (9) A tárgyévben meg nem fizetett kamat tőkésítésére évente december 31-ei értéknappal kerül sor. A tőkésítésre kerülő kamatösszeg számítása napi kamatszámítással történik. A napi kamat az adott napon fennálló, a befizetésekkel módosított tőketartozás állományra számított egy napra vetített kamat összegével azonos.
+
+[^12]: A 6. § (7) bekezdését a 290/2017. (IX. 28.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.

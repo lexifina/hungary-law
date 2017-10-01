@@ -12,8 +12,9 @@ b) kötött felhasználású hitelcél esetében tanulmányi félévenként a fe
 
 (4) A szabad felhasználású hitelt igénybe vevő hitelfelvevők általános kamattámogatásban nem részesülnek, azonban a 18. §-ban meghatározott esetekben és feltételek mellett célzott kamattámogatásban részesülhetnek.
 
-(5) A kötött felhasználású hitelt igénybe vevő hitelfelvevők e rendelet 6. és 29. § rendelkezése szerint általános kamattámogatásban részesülnek.
+(5)[^11] A kötött felhasználású hitelt igénybe vevő hitelfelvevők a 29. §-ban foglaltak szerint általános kamattámogatásban részesülnek.
 
 [^8]: Az 5. § (1) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^9]: Az 5. § (3) bekezdése a 293/2014. (XI. 26.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^10]: Az 5. § (3a) bekezdését a 293/2014. (XI. 26.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^11]: Az 5. § (5) bekezdése a 290/2017. (IX. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
