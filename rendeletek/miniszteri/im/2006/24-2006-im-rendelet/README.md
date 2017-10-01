@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-24-20-0
 | 2015-01-01 | 2006-24-20-06.13 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-01-01 | 2006-24-20-06.14 | 39/2015. (XII. 21.) IM rendelet |
 | 2016-11-16 | 2006-24-20-06.15 | 22/2016. (XI. 15.) IM rendelet |
+| 2017-10-01 | 2006-24-20-06.16 | 9/2008. (IV. 29.) IRM rendelet |
