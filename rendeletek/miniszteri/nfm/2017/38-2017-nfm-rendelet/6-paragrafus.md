@@ -1,3 +1,1 @@
-## 5. §[^3]
-
-[^3]: Az 5. § a 17. § (2) bekezdése alapján 2017. október 1-jén lép hatályba.
+## 5. § A távhőszolgáltatási támogatásról szóló 51/2011. (IX. 30.) NFM rendelet (a továbbiakban: R2.) 1. melléklete a 2. melléklet szerint módosul.

@@ -1,5 +1,3 @@
-## 7. §[^5]
+## 7. § A földgáz biztonsági készlet mértékéről szóló 13/2015. (III. 31.) NFM rendelet 1. §-ában az „1537/2013. számon kiadott, 2045/2013. számú határozattal módosított földgáztárolási engedély szerint üzemeltetett „Hajdúszoboszló” védnévvel ellátott” szövegrész helyébe az „1567/2013. számon kiadott és többször módosított földgáztárolási engedély szerint üzemeltetett egyesített” szöveg lép.
 
 ## 4. Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 67/2016. (XII. 29.) NFM rendelet módosítása
-
-[^5]: A 7. § a 17. § (2) bekezdése alapján 2017. október 1-jén lép hatályba.

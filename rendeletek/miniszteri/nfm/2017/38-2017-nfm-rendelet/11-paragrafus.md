@@ -1,11 +1,13 @@
-## 8–10. §[^6]
+## 10. § Az R3. 10. §-a a következő (4) bekezdéssel egészül ki:
 
-11. § (1)–(2)[^7]
+## „(4) A Hivatal az árszabályozással összefüggésben az energiapolitikáért felelős miniszter kérésére e rendelet tárgyi hatálya alá tartozó árszabályozással összefüggő részletes adatokat szolgáltat.”
 
-(3) Az R3. 3. melléklete helyébe az 5. melléklet lép.
+11. § (1) Az R3. 1. melléklete helyébe a 3. melléklet lép.
 
-(4)[^8]
+(2) Az R3. 2. melléklete helyébe a 4. melléklet lép.
 
-[^6]: A 8–10. § a 17. § (2) bekezdése alapján 2017. október 1-jén lép hatályba.
-[^7]: A 11. § (1)–(2) bekezdése a 17. § (2) bekezdése alapján 2017. október 1-jén lép hatályba.
-[^8]: A 11. § (4) bekezdése a 17. § (2) bekezdése alapján 2017. október 1-jén lép hatályba.
+(3)[^3]
+
+(4) Az R3. 4. melléklete helyébe a 6. melléklet lép.
+
+[^3]: A 11. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
