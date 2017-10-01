@@ -8,7 +8,7 @@
 
 1.2. lakóhelye
 
-1.3. tartózkodási helye[^10]
+1.3. tartózkodási helye[^2]
 
 1.4. elektronikus levél (e-mail) címe*
 
@@ -26,4 +26,4 @@
 
 8. Kérelmező aláírása
 
-[^10]: * Nem kötelező megadni.
+[^2]: * Nem kötelező megadni.
