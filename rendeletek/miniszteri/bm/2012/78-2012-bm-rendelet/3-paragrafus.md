@@ -74,7 +74,7 @@ KÜLÖNÖS RÉSZ
 
 | H101- |  | H.1. | Anyakönyvi és állampolgársági ügyek |
 
-| H201- |  | H.2. | A polgárok személyi adatainak, lakcímének nyilvántartásával kapcsolatos ügyek |
+| H201- |  | H.2. | A polgárok személyi adatainak, lakcímének nyilvántartásával és a központi címregiszterrel kapcsolatos ügyek |
 
 | H301- |  | H.3. | Választásokkal kapcsolatos ügyek |
 
@@ -118,7 +118,7 @@ U) ÖNKORMÁNYZATI ÉS ÁLTALÁNOS IGAZGATÁSI ÜGYEK
 
 U.1. Képviselő-testület iratai
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | U101 | Polgármesteri, főpolgármesteri, alpolgármesteri tisztség átadás-átvételével, egyéb feladat- és hatáskör átadás-átvételével kapcsolatos iratok | NS | 15 |
 
@@ -144,7 +144,7 @@ U.1. Képviselő-testület iratai
 
 U.2. Nemzetiségi önkormányzat iratai
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | U201 | Együttműködési megállapodások | NS | 15 |
 
@@ -182,7 +182,7 @@ A polgármesteri hivatalnak, a közös önkormányzati hivatalnak, az önkormán
 
 U.3. Szervezet, működés
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | U301 | Belső ellenőrzési jelentések | 10 | - |
 
@@ -236,13 +236,13 @@ U.3. Szervezet, működés
 
 | U326 | Népszámlálás, egyéb összeírások lebonyolításával kapcsolatos ügyek | 5 | - |
 
-| U327 | Önkormányzatok együttműködésére vonatkozó iratok | NS | 15 |
+| U327 | Önkormányzatok elvi együttműködésére vonatkozó iratok | NS | 15 |
 
 | U328 | Európai Uniós csatlakozás jogharmonizáció iratai | NS | 15 |
 
 | U329 | Közigazgatási reform előkészítésére vonatkozó iratok | NS | 15 |
 
-| U330 | Alapítványokkal, nonprofit szervezetekkel kapcsolatos ügyek | NS | 15 |
+| U330 | Alapítványok, nonprofit szervezetekkel kapcsolatos elvi ügyek | NS | 15 |
 
 | U331 | Önkormányzati feladatokat érintő stratégia, koncepció, program, terv | NS | 15 |
 
@@ -266,7 +266,7 @@ U.3. Szervezet, működés
 
 | U341 | Önkormányzati (fejlesztési, működési célú) sikertelen pályázatok | 5 | - |
 
-| U342 | Informatikai üzemeltetés és karbantartási operatív ügyek | 5 | - |
+| U342 | MEGSZŰNT TÉTEL |  |  |
 
 | U343 | Állásfoglalások kérése | 5 | - |
 
@@ -282,7 +282,7 @@ U.3. Szervezet, működés
 
 | U349 | Várossá, megyei jogú várossá nyilvánítás, fővárost érintő területszervezési ügyek | NS | 15 |
 
-| U350 | Vállalkozási szerződések | 5 | - |
+| U350 | Vállalkozási szerződések | 10 | - |
 
 | U351 | Munka-, szakmai értekezleti jegyzőkönyvek | 5 | - |
 
@@ -314,7 +314,7 @@ U.3. Szervezet, működés
 
 U.4. Iratkezelés, ügyvitel
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | U401 | Iratkezelési szabályzattal és irattári tervvel kapcsolatos ügyek | NS | HN |
 
@@ -326,7 +326,7 @@ U.4. Iratkezelés, ügyvitel
 
 | U405 | Elektronikus aláírások nyilvántartása | NS | HN |
 
-| U406 | Iktató- és mutatókönyv, főnyilvántartó könyv, irattári segédkönyvek | NS | 15 |
+| U406 | Iktató- és mutatókönyv | NS | 15 |
 
 | U407 | Főnyilvántartó könyv, irattári segédkönyvek | NS | HN |
 
@@ -340,21 +340,23 @@ U.4. Iratkezelés, ügyvitel
 
 | U412 | Irat megismerési engedélyek iratai minősített iratok esetén | NS | HN |
 
-| U413 | Munkakör átadás-átvétel során keletkezett iratok | 5 | - |
+| U413 | Munkakör átadás-átvétel során keletkezett iratok (a jegyzőkönyvek és mellékletei kivételével) | 5 | – |
 
 | U414 | Nemzeti minősített adatra érvényes személyi biztonsági tanúsítvány | vissza- vonását követően haladék- talanul | - |
 
 | U415 | Felhasználói engedély és titoktartási nyilatkozat | 15 (vissza-vonását követően) | - |
 
+| U416 | Informatikai üzemeltetés és karbantartási operatív ügyek | 5 | – |
+
 U.5. Személyzeti, bér- és munkaügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | U501 | Bér- és munkaügyi kimutatások, nyilvántartások, jelentések | 10 | - |
 
 | U502 | Létszám- és bérgazdálkodási ügyek (éves) | NS | 15 |
 
-| U503 | Bérnyilvántartás (bérkarton) | 75 | - |
+| U503 | Bérnyilvántartás (bérkarton) | 50 | - |
 
 | U504 | A foglalkoztatottak illetményügyei (bérjegyzék, illetménykiegészítés, illetménypótlékok, személyi illetmény megállapítása, illetményeltérítés, járulékelszámolás, jutalom, munkáltatói kölcsön, távolléti díj, letelepedési támogatás, köztisztviselői, közalkalmazotti juttatások stb.) | 50 (a jogviszony megszű-nésétől) | - |
 
@@ -384,7 +386,7 @@ U.5. Személyzeti, bér- és munkaügyek
 
 | U517 | Köztisztviselői, közalkalmazotti nyilvántartások | NS | HN |
 
-| U518 | Közhasznú, közcélú alkalmazások, távmunka egyedi ügyei | 75 | - |
+| U518 | Közhasznú, közcélú alkalmazások, távmunka egyedi ügyei | 50 | - |
 
 | U519 | Kitüntetések, kitüntető címek, díjak adományozásának előkészítése, lebonyolítása | 5 | - |
 
@@ -406,7 +408,7 @@ U.5. Személyzeti, bér- és munkaügyek
 
 U.6. Pénz- és vagyonkezelés
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | U601 | Adóügyek (saját) | 5 | - |
 
@@ -478,7 +480,7 @@ A) PÉNZÜGYEK
 
 A.1. Adóigazgatási ügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | A101 | Adó- és értékbizonyítványok | 8 | - |
 
@@ -496,9 +498,11 @@ A.1. Adóigazgatási ügyek
 
 | A108 | Adótartozások behajtása, végrehajtása | 10 | - |
 
+| A109 | Mezőőri járulék kivetése, befizetés | 10 | – |
+
 A.2. Egyéb pénzügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | A201 | Általános és céltartalékok felhasználása | 10 | - |
 
@@ -522,11 +526,11 @@ A.2. Egyéb pénzügyek
 
 | A211 | Pénzügyi szabálysértések, bírságok | 5 | - |
 
-| A212 | Mezőőri járulék kivetése | 5 | - |
+| A212 | MEGSZŰNT TÉTEL |  |  |
 
 B) EGÉSZSÉGÜGYI IGAZGATÁS
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | B101 | Egészségügyi alapellátás helyzetfelmérése és megszervezése | NS | 15 |
 
@@ -584,7 +588,7 @@ B) EGÉSZSÉGÜGYI IGAZGATÁS
 
 C) SZOCIÁLIS IGAZGATÁS
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | C101 | Személyes gondoskodás körébe tartozó alapszolgáltatások és szakosított ellátási formák megszervezése | NS | 15 |
 
@@ -654,13 +658,15 @@ C) SZOCIÁLIS IGAZGATÁS
 
 | C134 | Települési támogatás | 5 | - |
 
+| C135 | Hadirokkantak, hadiárvák szociális igazgatásával kapcsolatos iratok, határozatok | NS | HN |
+
 E) KÖRNYEZETVÉDELMI, ÉPÍTÉSI ÜGYEK, TELEPÜLÉSRENDEZÉS,
 
 TERÜLETRENDEZÉS ÉS KOMMUNÁLIS IGAZGATÁS
 
 E.1. Környezet- és természetvédelem
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | E101 | Helyi természeti érték védetté nyilvánítása | NS | 15 |
 
@@ -700,7 +706,7 @@ E.1. Környezet- és természetvédelem
 
 E.2. Településrendezési és területrendezési ügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | E201 | Helyi építészeti örökség védetté nyilvánítása és megszüntetése | NS | 15 |
 
@@ -746,9 +752,11 @@ E.2. Településrendezési és területrendezési ügyek
 
 | E222 | Közműnyilvántartás ügyei | NS | 15 |
 
+| E223 | Telekrendezéssel, telekalakítással kapcsolatos iratok | NS | HN |
+
 E.3. Építési ügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | E301 | Bontási-, építési-, összevont-, használatbavételi-, fennmaradási engedélyezési eljárások, építésügyi vagy eljárási bírság kiszabása, bontási vagy átalakítási kötelezettség, végrehajtási eljárás, engedély hatályának meghosszabbítása iránti engedélyezési eljárás | NS | 15 |
 
@@ -770,7 +778,7 @@ E.3. Építési ügyek
 
 E.4. Kommunális ügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | E401 | Hulladéklerakó-helyek (szilárd, állati eredetű, folyékony) kijelölése, létesítése, hulladékkezelési szerződések, hulladékgazdálkodási program | NS | 15 |
 
@@ -796,9 +804,11 @@ E.4. Kommunális ügyek
 
 | E412 | Közterület tisztán tartása, felügyelete, hulladék elhelyezése, gyűjtése, szállítása, hulladékártalmatlanítás, hulladék-újrahasznosítás, hulladékgazdálkodási bírság ügyek | 5 | - |
 
+| E413 | Temető ügyek | 10 | – |
+
 F) KÖZLEKEDÉS ÉS HÍRKÖZLÉSI IGAZGATÁS
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | F101 | Közutak, helyi vasutak műszaki, minőségi, baleseti, forgalmi adatainak, valamint forgalmi rendjét meghatározó jelzéseinek nyilvántartása | NS | HN |
 
@@ -866,7 +876,7 @@ F) KÖZLEKEDÉS ÉS HÍRKÖZLÉSI IGAZGATÁS
 
 G) VÍZÜGYI IGAZGATÁS
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | G101 | Árvíz és belvízzel, helyi vízkárelhárítással kapcsolatos operatív ügyek | 5 | - |
 
@@ -922,11 +932,11 @@ H) ÖNKORMÁNYZATI, IGAZSÁGÜGYI ÉS RENDÉSZETI IGAZGATÁS
 
 H.1. Anyakönyvi és állampolgársági ügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | H101 | Állampolgársági eskü jegyzőkönyv | NS | HN |
 
-| H102 | Anyakönyv, anyakönyvi alapirat, betűrendes névmutató, családi jogállás rendezésével kapcsolatos irat, apa adatai nélkül anyakönyvezett születések nyilvántartása, házasságkötéssel, bejegyzett élettársi kapcsolat létesítésével kapcsolatos jegyzői engedély, felmentés | NS | HN |
+| H102 | Anyakönyv, anyakönyvi alapirat, betűrendes névmutató, családi jogállás rendezésével kapcsolatos irat, apa adatai nélkül anyakönyvezett születések nyilvántartása, teljes hatályú apai elismerő nyilatkozat, házasságkötéssel, bejegyzett élettársi kapcsolat létesítésével kapcsolatos jegyzői engedély, felmentés | NS | HN |
 
 | H103 | Nyilvántartás a helyi anyakönyvvezetői megbízásokról és jogosultságokról, valamint a helyettesítéssel kapcsolatos iratok | NS | HN |
 
@@ -938,9 +948,9 @@ H.1. Anyakönyvi és állampolgársági ügyek
 
 | H107 | Külföldön történő házasságkötéshez, bejegyzett élettársi kapcsolat létesítéséhez szükséges tanúsítvány kiállításával kapcsolatos iratok | 5 | - |
 
-H.2. A polgárok személyi adatainak, lakcímének nyilvántartásával kapcsolatos ügyek
+H.2. A polgárok személyi adatainak, lakcímének nyilvántartásával és a központi címregiszterrel kapcsolatos ügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | H201 | Adategyeztetés | 5 | - |
 
@@ -948,13 +958,15 @@ H.2. A polgárok személyi adatainak, lakcímének nyilvántartásával kapcsola
 
 | H203 | A címnyilvántartással kapcsolatos ügyek | 15 | - |
 
+| H204 | A központi címregiszterrel kapcsolatos ügyek | NS | HN |
+
 H.3. Választásokkal kapcsolatos ügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
-| H301 | Választási jegyzőkönyvek (szavazóköri és eredményjegyzőkönyvek) első eredeti példánya | NS | #90 nap |
+| H301 | Választási és népszavazási jegyzőkönyvek (szavazóköri és eredményjegyzőkönyvek) első eredeti példánya | NS | #90 nap |
 
-| H302 | Választási jegyzőkönyvek (szavazóköri és eredményjegyzőkönyvek) második eredeti példánya | NS | 5 |
+| H302 | Választási és népszavazási jegyzőkönyvek (szavazóköri és eredményjegyzőkönyvek) második eredeti példánya | NS | 5 |
 
 | H303 | Szavazókörök, helyi önkormányzati választókerületek megállapítása | NS | 15 |
 
@@ -970,7 +982,7 @@ H.3. Választásokkal kapcsolatos ügyek
 
 H.4. Rendőrségi ügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | H401 | Rendőrfőkapitány, rendőrkapitány és rendőrőrs vezetője kinevezésének véleményezése, felmentésről szóló tájékoztatás | 10 | - |
 
@@ -986,7 +998,7 @@ H.4. Rendőrségi ügyek
 
 H.5. A helyi tűzvédelemmel kapcsolatos ügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | H501 | Fenntartási, fejlesztési és működési ügyek | 10 | - |
 
@@ -1010,13 +1022,13 @@ H.5. A helyi tűzvédelemmel kapcsolatos ügyek
 
 H.6. Menedékjogi ügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | H601 | Együttműködés a menekültügyi szervekkel | 15 | - |
 
 H.7. Igazságügyi igazgatás
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | H701 | Bírósági ülnökök jelölése, megválasztása és visszahívása | 5 | - |
 
@@ -1030,7 +1042,7 @@ H.7. Igazságügyi igazgatás
 
 H.8. Egyéb igazgatási ügyek
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | H801 | Címerhasználat, névhasználat, turisztikai logó engedélyezése, zászló (lobogó) kitűzésével kapcsolatos iratok | 5 | - |
 
@@ -1068,13 +1080,13 @@ H.8. Egyéb igazgatási ügyek
 
 I) LAKÁSÜGYEK
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | I101 | Önkormányzati bérlakásra várók ügyei, névjegyzéke | 15 | - |
 
 | I102 | Bérlakások nyilvántartása | NS | HN |
 
-| I103 | Jogcím nélküli lakáshasználat | 5 | - |
+| I103 | Jogcím nélküli lakáshasználat | 10 | - |
 
 | I104 | Lakásbérleti szerződés, lakáscsere, lakáshasznosítás (lejárat után), lakásbérleti szerződés megszűnése | 5 | - |
 
@@ -1098,7 +1110,7 @@ I) LAKÁSÜGYEK
 
 J) GYERMEKVÉDELMI ÉS GYÁMÜGYI IGAZGATÁS
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | J101 | Szülő adatai nélkül anyakönyvezett gyermekek nyilvántartása | NS | HN |
 
@@ -1128,7 +1140,7 @@ J) GYERMEKVÉDELMI ÉS GYÁMÜGYI IGAZGATÁS
 
 K) IPARI IGAZGATÁS
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | K101 | Atomerőmű, veszélyes ipari üzemek biztonsági, veszélyességi övezetének megállapítása | 75 | - |
 
@@ -1146,7 +1158,7 @@ K) IPARI IGAZGATÁS
 
 L) KERESKEDELMI IGAZGATÁS, TURISZTIKA
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | L101 | Turisztikai értékek fejlesztési koncepciója | NS | 15 |
 
@@ -1184,7 +1196,7 @@ L) KERESKEDELMI IGAZGATÁS, TURISZTIKA
 
 M) FÖLDMŰVELÉSÜGY, ÁLLAT- ÉS NÖVÉNYEGÉSZSÉGÜGYI IGAZGATÁS
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | M101 | Állategészségügyi ellátással kapcsolatos ügyek | 5 | - |
 
@@ -1248,7 +1260,7 @@ M) FÖLDMŰVELÉSÜGY, ÁLLAT- ÉS NÖVÉNYEGÉSZSÉGÜGYI IGAZGATÁS
 
 N) MUNKAÜGYI IGAZGATÁS, MUNKAVÉDELEM
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | N101 | Foglalkoztatási érdekegyeztetés, tervek | NS | 15 |
 
@@ -1256,7 +1268,7 @@ N) MUNKAÜGYI IGAZGATÁS, MUNKAVÉDELEM
 
 P) KÖZNEVELÉSI ÉS KÖZMŰVELŐDÉSÜGYI IGAZGATÁS
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | P101 | Közoktatási fejlesztési és intézkedési terv, esélyegyenlőségi intézkedési terv | NS | 15 |
 
@@ -1294,7 +1306,7 @@ P) KÖZNEVELÉSI ÉS KÖZMŰVELŐDÉSÜGYI IGAZGATÁS
 
 | P118 | Kötelező felvételt biztosító iskola kijelölése | 10 | - |
 
-| P119 | Tanuló- és gyermekbaleseti ügyek | 5 | - |
+| P119 | Tanuló- és gyermekbaleseti ügyek | 30 | – |
 
 | P120 | Tanköteles és fejlesztő iskolai oktatásra köteles tanulók nyilvántartása | NS | HN |
 
@@ -1344,7 +1356,7 @@ P) KÖZNEVELÉSI ÉS KÖZMŰVELŐDÉSÜGYI IGAZGATÁS
 
 R) SPORTÜGYEK
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | R101 | Sportegyesületek, sportlétesítmények, sportolók támogatása, pályázatok, szponzori szerződések | 10 | - |
 
@@ -1362,7 +1374,7 @@ FEGYVERES BIZTONSÁGI ŐRSÉG
 
 X.1. Honvédelmi igazgatás
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | X101 | Hadkötelesek tájékoztatási és bejelentési kötelezettségéhez tartozó ügyek | 2 | - |
 
@@ -1402,7 +1414,7 @@ X.1. Honvédelmi igazgatás
 
 X.2. Katasztrófavédelmi igazgatás
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
 | X201 | Életvédelmi létesítmények (óvóhely) kijelölése | NS | HN |
 
@@ -1470,11 +1482,11 @@ X.2. Katasztrófavédelmi igazgatás
 
 X.3. Fegyveres biztonsági őrség
 
-| Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
+| Irattári tételszám | A központi címregiszterben történő rögzítések, módosítások alapiratai és iratai | Megőrzési idő (év) | Lt. |
 
-| X301 | Fegyveres biztonsági őrség létrehozása, működtetése, megszüntetése | 15 | - |
+| X301 | Fegyveres biztonsági őrség létrehozása, működtetése, megszüntetése, megszűnés | 15 | – |
 
 | X302 | Rendészeti ügyek | 2 | - |
 
 [^1]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A melléklet a 68/2013. (XII. 10.) BM rendelet 10. §-a, a 14/2015. (IV. 7.) BM rendelet 1. §-a szerint módosított szöveg.
+[^2]: A melléklet a 68/2013. (XII. 10.) BM rendelet 10. §-a, a 14/2015. (IV. 7.) BM rendelet 1. §-a, a 24/2017. (IX. 21.) BM rendelet 1. §-a szerint módosított szöveg.
