@@ -1,0 +1,1 @@
+## „(5) Az e rendeletben foglaltakat a rendszerüzemeltető és rendszerhasználó viszonylatában azon rendszerhasználóra kell alkalmazni, aki rendszerhasználati szerződéses kapcsolatban áll az adott rendszerüzemeltetővel.”

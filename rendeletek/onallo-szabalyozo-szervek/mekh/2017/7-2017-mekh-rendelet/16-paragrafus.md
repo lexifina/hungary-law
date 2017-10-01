@@ -1,0 +1,37 @@
+## 15. § Az R1. 13–16. alcíme helyébe a következő alcímek lépnek:
+
+## „13. Éves elosztási kapacitás-igénybevétel az átadási-átvételi pontokon történő éves elosztási kapacitás-lekötés esetén
+
+## 30. § (1) Az elosztási kapacitásdíjat, az elosztási alapdíjat, valamint az elosztási forgalmi díjat a 22. § (2) bekezdés szerinti értékesítési kategória díjtételei szerint köteles a rendszerhasználó megfizetni.
+
+## (2) Az 5. § (2) bekezdése szerinti igazolással rendelkező, elosztási alapdíj fizetésére kötelezett rendszerhasználó, amennyiben az 5. § (1) bekezdés a) pont aa) alpontja szerinti fogyasztásmérővel rendelkező átadási-átvételi ponton vételez földgázt, akkor a téli fogyasztási időszakban földgázvételezésben nem érintett fogyasztásmérő névleges (össz)kapacitása után kiszámított elosztási alapdíj 5%-át köteles megfizetni a földgázelosztó által kiszámlázott havi ütemezésben. Az 5. § (2) bekezdése szerinti igazolással rendelkező, elosztási alapdíj fizetésére kötelezett rendszerhasználó, amennyiben az 5. § (1) bekezdés a) pont ab) alpontja szerinti fogyasztásmérővel rendelkező átadási-átvételi ponton vételez földgázt, akkor a nem téli fogyasztási időszakra igénybe vett legnagyobb kapacitás és a téli fogyasztási időszakra igénybe vett legnagyobb kapacitás pozitív különbözete után kiszámított elosztási alapdíj 5%-át köteles megfizetni a földgázelosztó által kiszámlázott havi ütemezésben. Az 5. § (2) bekezdése szerinti igazolással rendelkező, elosztási kapacitásdíj fizetésére kötelezett rendszerhasználó a nem téli fogyasztási időszakra lekötött kapacitás után kiszámított éves elosztási kapacitásdíj 5%-át köteles megfizetni a földgázelosztó által kiszámlázott havi ütemezésben.
+
+## (3) Ha az elosztási alapdíj fizetésére kötelezett rendszerhasználó esetén a (2) bekezdés szerinti elszámolás alá vont átadási-átvételi ponton október, november és december hónapokban is sor kerül földgáz vételezésére, akkor a rendszerhasználó a nem téli fogyasztási időszakra igénybe vett legnagyobb kapacitás és a téli fogyasztási időszakra igénybe vett legnagyobb kapacitás pozitív különbözetének és az elosztási alapdíj 1/365-öd részének szorzatát is köteles megfizetni – a (2) bekezdés szerinti összegen felül – azokra az októberi, novemberi és decemberi napokra, amelyeken az 5. § (1) bekezdés a) pontja aa) alpontja szerinti fogyasztásmérővel rendelkező átadási-átvételi ponton földgázt vételez, illetve az 5. § (1) bekezdés a) pontja ab) alpontja szerinti fogyasztásmérővel rendelkező átadási-átvételi ponton földgázt vételez, és a gáznapon mért óracsúcs meghaladja a téli fogyasztási időszakra igénybe vett legnagyobb kapacitást.
+
+## (4) Ha az elosztási kapacitásdíj fizetésére kötelezett rendszerhasználó esetén a (2) bekezdés szerinti elszámolás alá vont átadási-átvételi ponton október, november és december hónapokban is sor kerül a nem téli fogyasztási időszakra vonatkozó kapacitás – ÜKSZ szerinti – igénybevételére, akkor a rendszerhasználó a nem téli fogyasztási időszakra lekötött kapacitásnak és az éves elosztási kapacitásdíj 1/365-öd részének szorzatát is köteles megfizetni – az (1) és (2) bekezdés szerinti összegen felül – azokra az októberi, novemberi és decemberi napokra, amelyeken az átadási-átvételi ponton földgázt vételez, és a gáznapon mért óracsúcs meghaladja a gáznapra lekötött kapacitást.
+
+## (5) Ha az 5. § (2) bekezdése szerinti igazolással rendelkező, az elosztási alapdíj fizetésére kötelezett rendszerhasználó az érintett átadási-átvételi ponton október, november és december hónapokban –5,0 °C-nál hidegebb gáznapi középhőmérsékletű gáznapon vagy január, február és március hónapokban az 5. § (1) bekezdés a) pontja aa) alpontja szerinti fogyasztásmérővel rendelkező átadási-átvételi ponton gázt vételez, illetve az 5. § (1) bekezdés a) pontja ab) alpontja szerinti fogyasztásmérővel rendelkező átadási-átvételi ponton földgázt vételez, és a gáznapon mért óracsúcs meghaladja a felhasználó téli fogyasztási időszakra igénybe vett legnagyobb kapacitását, úgy a földgázelosztó jogosult a gáznapra vonatkozó téli fogyasztási időszakra igénybe vett legnagyobb kapacitás felett igénybe vett (és korábban még nem érvényesített) legnagyobb órai többletkapacitás után – legfeljebb a nem téli fogyasztási időszakra igénybe vett kapacitás mértékéig – az elosztási alapdíjat a (2) bekezdés szerint egész évre érvényesíteni.
+
+## (6) Ha az 5. § (2) bekezdése szerinti igazolással rendelkező, az elosztási kapacitásdíj fizetésére kötelezett rendszerhasználó az érintett átadási-átvételi ponton október, november és december hónapokban –5,0 °C-nál hidegebb gáznapi középhőmérsékletű gáznapon vagy január, február és március hónapokban az átadási-átvételi ponton földgázt vételez, és a gáznapon mért óracsúcs meghaladja a felhasználó gáznapra vonatkozó téli fogyasztási időszakra lekötött kapacitását, úgy a földgázelosztó jogosult a gáznapra vonatkozó lekötött kapacitás felett igénybe vett (és korábban még nem érvényesített), legnagyobb órai többletkapacitás után – legfeljebb a nem téli fogyasztási időszakra lekötött kapacitás mértékéig – az éves elosztási kapacitásdíjat a (2) bekezdés szerint érvényesíteni.
+
+## (7) Amennyiben a rendszerhasználó a (2) bekezdés szerint számított díjra nem volt jogosult, úgy a rendszerhasználó köteles megfizetni
+
+## a) elosztási díjként a (2) bekezdésben meghatározott számlázás alapját képező mennyiségre vonatkozóan az éves elosztási kapacitásdíj vagy elosztási alapdíj (2) és (5)–(6) bekezdések alapján megfizetett részek feletti részt és
+
+## b) pótdíjként a (2) bekezdésben meghatározott, számlázás alapját képező mennyiségre vonatkozóan az éves elosztási kapacitásdíj vagy az elosztási alapdíj 50%-át.
+
+## (8) A földgázelosztó a jogosulatlan, nem téli fogyasztási időszakra lekötött kapacitás-igénybevételt az ÜKSZ-ben rögzített adattartalmú adatszolgáltatás ismeretében határozza meg az adott gázévet követő 40. napig, amelyet 5 napon belül továbbít a Hivatal, valamint a szállítási rendszerüzemeltető részére. A jogosulatlan igénybevétel díját a Hivatal jóváhagyása után érvényesítheti. A jogosulatlanul igénybe vett kapacitás adatairól teljes körű információt kell küldeni az érintett szállítási rendszerüzemeltető részére.
+
+## (9) Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni.
+
+## 14. Elosztási kapacitásdíj az átadási-átvételi pontokon történő negyedéves elosztási kapacitás-lekötés esetén
+
+## 31. § Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni. A negyedéves elosztási kapacitásdíj mértéke az éves elosztási kapacitásdíj 5. melléklet II. pont II. 1. alpontjában meghatározott százaléka.
+
+## 15. Elosztási kapacitásdíj az átadási-átvételi pontokon történő havi elosztási kapacitás-lekötés esetén
+
+## 32. § Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni. A havi elosztási kapacitásdíj mértéke az éves elosztási kapacitásdíj 5. melléklet II. pont II. 2. alpontjában meghatározott százaléka.
+
+## 16. Elosztási kapacitásdíj az átadási-átvételi pontokon történő napi és napon belüli elosztási kapacitás-lekötés esetén
+
+## 33. § Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni. A napi és napon belüli elosztási kapacitásdíj mértéke az éves elosztási kapacitásdíj 5. melléklet II. pont II. 3. alpontjában meghatározott százaléka.”
