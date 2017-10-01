@@ -10,6 +10,7 @@ a) a kérelmező nevét (cégnevét), címét (székhelyét);
 
 b) a lekötésre kért azonosító megjelölését, használatának célját, a használat földrajzi kiterjedését és a tervezett használatbavétel időbeni megvalósítását, ütemezését.
 
-(3) A lekötési engedély egy évig érvényes, kérelemre egy alkalommal további egy évvel meghosszabbítható.
+(3)[^27] A lekötési engedély egy évig érvényes.
 
 [^26]: Az 5/A. §-t a 7/2012. (I. 26.) NMHH rendelet 36. § (1) bekezdése iktatta be. E módosító rendelet 35. § (3) bekezdése alapján a 2012. február 1. napját követően indult eljárásokban és a megismételt eljárásokban kell alkalmazni.
+[^27]: A 6. § (3) bekezdése a 10/2017. (IX. 14.) NMHH rendelet 4. § a) pontja szerint módosított szöveg.

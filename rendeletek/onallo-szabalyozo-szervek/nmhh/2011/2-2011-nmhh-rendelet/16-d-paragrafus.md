@@ -1,12 +1,12 @@
-## A kijelölés jogosultjának kötelezettségei az emelt díjas szolgáltatásokkal kapcsolatban[^60]
+## A kijelölés jogosultjának kötelezettségei az emelt díjas szolgáltatásokkal kapcsolatban[^62]
 
-16/D. §[^61] (1) A kijelölési engedély jogosultja csak azzal a számhasználóval köthet a 16/B. § (1) bekezdése szerinti számhasználati szerződést, aki vállalja a következő kötelezettségek teljesítését
+16/D. §[^63] (1) A kijelölési engedély jogosultja csak azzal a számhasználóval köthet a 16/B. § (1) bekezdése szerinti számhasználati szerződést, aki vállalja a következő kötelezettségek teljesítését
 
 a) a 16/B. § (2) bekezdésben szereplő adatokat teljes körűen és a valóságnak megfelelően a kijelölési engedély jogosultjának rendelkezésére bocsátja, és az adatokban a szerződés aláírását követően bekövetkezett bármilyen változást haladéktalanul, de legkésőbb 5 munkanapon belül bejelenti a kijelölési engedély jogosultjának;
 
-b)[^62] a számhasználati jogviszony tárgyát képező azonosító vagy azonosítók használatát semmilyen módon vagy formában nem engedi át más, harmadik személynek, és minden, ezek útján elérhető emelt díjas szolgáltatást a saját szolgáltatásaként, saját felelősségének elismerésével nyújt akkor is, ha a szolgáltatás nyújtásához alvállalkozó vesz igénybe;
+b)[^64] a számhasználati jogviszony tárgyát képező azonosító vagy azonosítók használatát semmilyen módon vagy formában nem engedi át más, harmadik személynek, és minden, ezek útján elérhető emelt díjas szolgáltatást a saját szolgáltatásaként, saját felelősségének elismerésével nyújt akkor is, ha a szolgáltatás nyújtásához alvállalkozó vesz igénybe;
 
-c)[^63] biztosítja, hogy fogadott emelt díjas szolgáltatásokra megrendelést csak olyan eljárással fogadjon el, amelynek révén az igénybevevő előfizető azonosítása megfelelően biztosítható. A szolgáltatást nyújtani kívánó számhasználónak vállalnia kell azt is, hogy a megrendelést követően, de még a szolgáltatás nyújtásának megkezdése előtt a megrendelőt a részére küldött ingyenes üzenetben közérthető módon tájékoztatja a megrendelt szolgáltatásról, annak díjazásáról és a lemondás módjáról. A számhasználónak a szerződésben el kell fogadnia, hogy a tájékoztatás megtörténtét neki kell bizonyítania;
+c)[^65] biztosítja, hogy fogadott emelt díjas szolgáltatásokra megrendelést csak olyan eljárással fogadjon el, amelynek révén az igénybevevő előfizető azonosítása megfelelően biztosítható. A szolgáltatást nyújtani kívánó számhasználónak vállalnia kell azt is, hogy a megrendelést követően, de még a szolgáltatás nyújtásának megkezdése előtt a megrendelőt a részére küldött ingyenes üzenetben közérthető módon tájékoztatja a megrendelt szolgáltatásról, annak díjazásáról és a lemondás módjáról. A számhasználónak a szerződésben el kell fogadnia, hogy a tájékoztatás megtörténtét neki kell bizonyítania;
 
 d) biztosítja, hogy a szolgáltatás nyújtására használt azonosítóra irányuló emelt díjas hanghívás sikeres végződtetését követően a hívó számára ne adjon olyan hangjelzést, amely a hívót a hívás sikeres végződtetése tekintetében megtévesztené (különösen: hamis csengetési visszhang, hamis foglaltsági jelzés);
 
@@ -26,7 +26,7 @@ j) vállalja, hogy a jelen rendelet szerinti kötelezettségeinek megszegéséve
 
 (3) Amennyiben az (1) bekezdés szerinti kötelezettségek valamelyikét a számhasználó ismételten megsérti, a kijelölési engedély jogosultja a (2) bekezdésben írtak alkalmazása mellett a 16/B. § (1) bekezdés szerinti számhasználati szerződést felmondja és ezzel a számhasználati jogviszonyt megszünteti.
 
-[^60]: A 16/D. §-t megelőző alcímet az 1/2012. (I. 3.) NMHH rendelet 2. § (4) bekezdése iktatta be, szövege a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
-[^61]: A 16/D. §-t az 1/2012. (I. 3.) NMHH rendelet 2. § (4) bekezdése iktatta be.
-[^62]: A 16/D. § (1) bekezdés b) pontja a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
-[^63]: A 16/D. § (1) bekezdés c) pontja a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
+[^62]: A 16/D. §-t megelőző alcímet az 1/2012. (I. 3.) NMHH rendelet 2. § (4) bekezdése iktatta be, szövege a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
+[^63]: A 16/D. §-t az 1/2012. (I. 3.) NMHH rendelet 2. § (4) bekezdése iktatta be.
+[^64]: A 16/D. § (1) bekezdés b) pontja a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
+[^65]: A 16/D. § (1) bekezdés c) pontja a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.

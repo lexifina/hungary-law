@@ -36,7 +36,7 @@ f)[^2] számmező átadásra kért: a számmezőt átadó szolgáltató megnevez
 
 g)[^3] számmező átvételre kért: a számmezőt átvevő szolgáltató megnevezésével az átadás jogerőre emelkedésétől a végrehajtásra meghatározott számátadási időablak időpontjáig;
 
-h)[^4] pihentetett: a kijelölést visszavonó határozat jogerőre emelkedésétől a határozatban meghatározott időpontig, de legfeljebb 6 hónapig;
+h)[^4] pihentetett: a kijelölési engedély érvényességének megszűnésétől 6 hónapig;
 
 i)[^5] zárolt: a gazdálkodás köréből kivont azonosító, melynek kijelölhetőségét a hatóság hirdetményben teszi közzé;
 
@@ -48,7 +48,7 @@ i)[^5] zárolt: a gazdálkodás köréből kivont azonosító, melynek kijelölh
 
 [^2]: A 2. § 3. pont f) alpontja az 1/2012. (I. 3.) NMHH rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § 3. pont g) alpontja az 1/2012. (I. 3.) NMHH rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^4]: A 2. § 3. pont h) alpontját az 1/2012. (I. 3.) NMHH rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 2. § 3. pont h) alpontját az 1/2012. (I. 3.) NMHH rendelet 1. § (1) bekezdése iktatta be, szövege a 10/2017. (IX. 14.) NMHH rendelet 1. §-ával megállapított szöveg.
 [^5]: A 2. § 3. pont i) alpontját az 1/2012. (I. 3.) NMHH rendelet 1. § (1) bekezdése iktatta be.
 [^6]: A 2. § 5. pontja az 1/2012. (I. 3.) NMHH rendelet 5. § (1) bekezdése és 6. §-a szerint módosított szöveg.
 [^7]: A 2. § 6. pontját az 1/2012. (I. 3.) NMHH rendelet 1. § (2) bekezdése iktatta be, szövege a 17/2013. (X. 14.) NMHH rendelet 7. §-a szerint módosított szöveg.
