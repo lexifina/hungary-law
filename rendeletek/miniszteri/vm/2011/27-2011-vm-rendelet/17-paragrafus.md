@@ -16,8 +16,9 @@ f) a szőlőbor értékesítését szállítási okmánnyal,
 
 g) a borászati melléktermékek kötelező lepárlásra történő értékesítését borkísérő okmánnyal és átvételi elismervénnyel,
 
-h)[^24] a borászati melléktermékek ellenőrzés melletti kivonását borkísérő okmánnyal, és a szőlőfeldolgozás és a borkészítés során keletkező melléktermékek kivonásáról és támogatással történő lepárlásáról szóló 70/2012. (VII. 16.) VM rendelet 5. § (3) bekezdése szerinti bejelentéssel,
+h)[^25] a borászati melléktermékek ellenőrzés melletti kivonását borkísérő okmánnyal, és a szőlőfeldolgozás és a borkészítés során keletkező melléktermékek kivonásáról és támogatással történő lepárlásáról szóló 70/2012. (VII. 16.) VM rendelet 5. § (3) bekezdése szerinti bejelentéssel,
 
-i) a szőlőbor megsemmisítését a vámhatóság által kiállított megsemmisítési jegyzőkönyvvel
+i)[^26] a szőlőbor megsemmisítését a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által kiállított megsemmisítési jegyzőkönyvvel
 
-[^24]: A 17. § h) pontja a 14/2013. (III. 7.) VM rendelet 9. §-ával megállapított szöveg.
+[^25]: A 17. § h) pontja a 14/2013. (III. 7.) VM rendelet 9. §-ával megállapított szöveg.
+[^26]: A 17. § i) pontja a 49/2017. (IX. 29.) FM rendelet 15. § d) pontja szerint módosított szöveg.

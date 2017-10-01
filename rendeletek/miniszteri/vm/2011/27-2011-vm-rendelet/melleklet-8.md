@@ -12,8 +12,6 @@
 
 | .......................................................... |
 
-| vámhatóság |
-
 | P. H….. |
 
 | Dátum: | Aláírás: |
@@ -108,6 +106,6 @@
 
 |  |  | -tól | -ig |
 
-8. melléklet a 27/2011. (IV. 12.) VM rendelethez[^39]
+8. melléklet a 27/2011. (IV. 12.) VM rendelethez[^48]
 
-[^39]: A 8. mellékletet a 14/2013. (III. 7.) VM rendelet 14. § (3) bekezdése iktatta be.
+[^48]: A 8. mellékletet a 14/2013. (III. 7.) VM rendelet 14. § (3) bekezdése iktatta be.
