@@ -1,4 +1,4 @@
-## Gázmérővel nem rendelkező lakások, felhasználási helyek számításba veendő földgázfogyasztása (kWh/hó)
+## Fogyasztásmérővel nem rendelkező lakások, felhasználási helyek számításba veendő földgázfogyasztása (kWh/hó)
 
 |  | A | B | C | D | E | F | G |
 
@@ -20,4 +20,6 @@
 
 ## Az ebédlő az átalánydíj-fizetés szempontjából fél szobának minősül.
 
-2. melléklet a 11/2016. (XI. 14.) MEKH rendelethez
+2. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^97]
+
+[^97]: A 2. melléklet a 7/2017. (VII. 13.) MEKH rendelet 19. § x) pontja szerint módosított szöveg.

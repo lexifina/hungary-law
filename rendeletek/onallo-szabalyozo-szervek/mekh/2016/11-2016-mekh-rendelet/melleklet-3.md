@@ -1,4 +1,4 @@
-## Az újonnan beépíthető gázmérők
+## Az újonnan beépíthető fogyasztásmérők
 
 | Méretsor | Névleges kapacitás (m3/h) |
 

@@ -1,7 +1,5 @@
-## 6. A szállítási kapacitásdíj fizetésének szabályai az átadási-átvételi pontokon történő napi és napon belüli szállítási kapacitás-lekötés esetén
+## 15. § Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni. A havi szállítási kapacitásdíj mértéke az éves szállítási kapacitásdíj 5. melléklet I. pont I.2. alpontjában meghatározott százaléka.
 
-16. § (1) Az átadási-átvételi pontonként lekötött legnagyobb órai kapacitások bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
+## 6. [^39] Szállítási kapacitásdíj az átadási-átvételi pontokon történő napi és napon belüli szállítási kapacitás-lekötés esetén
 
-(2) Azon átadási-átvételi pont esetében, amelyen a téli fogyasztási időszakban földgázt vételeznek, a téli fogyasztási időszakban a szerződési időszakra az éves szállítási kapacitásdíj 1%-át köteles megfizetni a rendszerhasználó.
-
-(3) Azon átadási-átvételi pont esetében, amelyen a nem téli fogyasztási időszakban földgázt vételeznek, a nem téli fogyasztási időszakban a szerződési időszakra az éves szállítási kapacitásdíj 0,13%-át köteles megfizetni a rendszerhasználó.
+[^39]: A 6. alcím (16. §) a 7/2017. (VII. 13.) MEKH rendelet 9. §-ával megállapított szöveg.

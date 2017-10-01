@@ -1,0 +1,1 @@
+## 7. § A rendszerhasználati díjakat és az egyes díjak elemeit a Hivatal a földgáz rendszerhasználati díjak, a külön díjak és a csatlakozási díjak meghatározásának keretszabályairól szóló 8/2016. (X. 13.) MEKH rendelet (a továbbiakban: Árszabályozási keretrendelet) alapján az egyes engedélyesek vonatkozásában állapítja meg.

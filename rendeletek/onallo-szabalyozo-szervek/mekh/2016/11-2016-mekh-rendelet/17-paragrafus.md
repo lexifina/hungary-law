@@ -1,6 +1,8 @@
-## 7. A szállítási kapacitásdíj fizetésének szabályai átadási-átvételi pontokon, megszakítható kapacitáslekötés-típusonként
+## 16. § Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni. A napi és napon belüli szállítási kapacitásdíj mértéke az éves szállítási kapacitásdíj 5. melléklet I. pont I.3. alpontjában meghatározott százaléka.
 
-17. § (1) Azokon a hálózati pontokon, amelyek vonatkozásában a szállítási rendszerüzemeltető – az ÜKSZ-ben meghatározott módon – megszakítható kapacitás-lekötést vagy – a 984/2013/EU Bizottsági rendelet 3. cikk 12. pontja és a 21. cikke szerinti – túlnominálást tesz lehetővé, a megszakítható kapacitás díja az egyes kapacitástermékek (éves, negyedéves, havi, napi és napon belüli kapacitás) esetén megegyezik a 12., továbbá a 14–16. §-okban meghatározott, az adott kapacitástermékre vonatkozó szállítási kapacitásdíjjal.
+## 7. [^40] Szállítási kapacitásdíj átadási-átvételi pontokon, megszakítható kapacitáslekötés-típusonként
+
+17. § (1)[^41] Azokon a hálózati pontokon, amelyek vonatkozásában a szállítási rendszerüzemeltető – az ÜKSZ-ben meghatározott módon – megszakítható kapacitás-lekötést vagy – a 459/2017/EU Bizottsági rendelet 3. cikk 25. pontja és a 32. cikke szerinti – túlnominálást tesz lehetővé, a megszakítható kapacitás díja az egyes kapacitástermékek (éves, negyedéves, havi, napi és napon belüli kapacitás) esetén megegyezik a 25., továbbá a 14–16. §-okban meghatározott, az adott kapacitástermékre vonatkozó szállítási kapacitásdíjjal.
 
 (2) Amennyiben az ÜKSZ-ben rögzített szabályoknak megfelelően a kapacitás megszakítására kerül sor, a szállítási rendszerüzemeltető köteles a megfizetett szállítási kapacitásdíj csökkentésére
 
@@ -17,3 +19,6 @@ e) az 1. § (1) bekezdés a) pont aa) alpont aac)–aad), aaf)–aag), és aai)�
 (3) A díjcsökkentés maximális mértéke az adott kapacitástermékre az (1) bekezdés szerint meghatározott szállítási kapacitásdíj 100%-a.
 
 (4) A szállítási rendszerüzemeltető az ÜKSZ-ben rögzített szabályok szerint, az 1. § (1) bekezdés r) pontjában rögzített szerződési időszakban, a szállítási kapacitásdíj 100%-kal történő csökkentése esetén is köteles a 10. §-ban rögzítettek szerint megszakítható kapacitást biztosítani.
+
+[^40]: A 7. alcím címe a 7/2017. (VII. 13.) MEKH rendelet 19. § i) pontja és 20. § c) pontja szerint módosított szöveg.
+[^41]: A 17. § (1) bekezdése a 7/2017. (VII. 13.) MEKH rendelet – 11/2017. (VIII. 25.) MEKH rendelet 13. § (1) bekezdés b) pontja szerint módosított – 19. § j) pontja szerint módosított szöveg.
