@@ -2,6 +2,6 @@
 
 a)–e)
 
-f)
+f) a kamarai jogtanácsos és a jogi előadó által fizetendő regisztrációs díj mértékét
 
 rendeletben szabályozza.
