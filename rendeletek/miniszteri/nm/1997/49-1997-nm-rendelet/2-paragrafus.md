@@ -32,13 +32,19 @@ cf) adományozott ivarsejttel végzett mesterséges ondóbevitelből (R. 1. szá
 
 ## beavatkozás.
 
+(1a)[^4] Ha az (1) bekezdés c) pont ca)–cd) alpontja szerinti öt teljes, az embrió beültetésével végződő beavatkozás eredményeként legalább egy gyermek élve születik, úgy további négy teljes beavatkozás vehető igénybe az Egészségbiztosítási Alap terhére.
+
+(1b)[^5] Ha az (1) bekezdés c) pont ce) és cf) alpontja szerinti beavatkozások eredményeként legalább egy gyermek élve születik, úgy további négy teljes beavatkozás vehető igénybe az Egészségbiztosítási Alap terhére.
+
 (2) Az (1) bekezdésben foglaltakon túl a meddőség kezelése körébe tartozik
 
-a)[^4] az egészségi okból, szakorvosi javaslat alapján ivarsejteket fagyasztva tárolás céljából a letétet elfogadó szolgáltatónál ivarsejt letétbe helyezése az (1) bekezdés c) pontjában foglalt beavatkozásokhoz szükséges mennyiségben, az R. 4. számú mellékletében felsorolt javallatoknak megfelelően,
+a)[^6] az egészségi okból, szakorvosi javaslat alapján ivarsejteket fagyasztva tárolás céljából a letétet elfogadó szolgáltatónál ivarsejt letétbe helyezése az (1) bekezdés c) pontjában foglalt beavatkozásokhoz szükséges mennyiségben, az R. 4. számú mellékletében felsorolt javallatoknak megfelelően,
 
 b) az embrió Magyarországon végzett, későbbi meddőségkezelés céljára – a szolgáltató által meghatározott, indokolt számban, legfeljebb azonban 5 év időtartamra – embrióletétbe helyezése.
 
 [^1]: Az 1. § a 30/1998. (VI. 24.) NM rendelet 8. §-ának (2) bekezdése szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdésének c) pontja a 30/1998. (VI. 24.) NM rendelet 8. § (2) bekezdésének b) pontjával megállapított, az 50/2001. (XII. 28.) Korm. rendelet 1. §-ának (1) bekezdése szerint módosított szöveg. E módosító rendelet 2. §-ának (2) és (3) bekezdése alapján a 2002. 01. 27. napjáig elvégzett, az emberi reprodukcióra irányuló különleges beavatkozásokat a teljes beavatkozások számának szempontjából figyelembe kell venni, erről a biztosított a szolgáltatás igénybevételét megelőzően írásban nyilatkozik.
 [^3]: A 2. § (1) bekezdés c) pont cb) alpontja a 68/2013. (XI. 15.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § (2) bekezdés a) pontja a 44/2016. (XII. 28.) EMMI rendelet 6. §-a szerint módosított szöveg.
+[^4]: A 2. § (1a) bekezdését a 18/2017. (VIII. 31.) EMMI rendelet 1. §-a iktatta be.
+[^5]: A 2. § (1b) bekezdését a 18/2017. (VIII. 31.) EMMI rendelet 1. §-a iktatta be.
+[^6]: A 2. § (2) bekezdés a) pontja a 44/2016. (XII. 28.) EMMI rendelet 6. §-a szerint módosított szöveg.
