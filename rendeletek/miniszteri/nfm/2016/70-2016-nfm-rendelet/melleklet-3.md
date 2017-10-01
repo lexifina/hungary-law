@@ -1,3 +1,3 @@
-3. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^2]
+3. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^5]
 
-[^2]: A 3. melléklet a 7/2017. (III. 30.) NFM rendelet 9. §-a szerint módosított szöveg.
+[^5]: A 3. melléklet a 38/2017. (IX. 29.) NFM rendelet 16. § (2) bekezdésével megállapított szöveg.

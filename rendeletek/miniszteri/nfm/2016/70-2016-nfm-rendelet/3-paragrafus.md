@@ -21,3 +21,7 @@ g) éves elszámolási elem.
 (3) Az (1) bekezdés c)–e) és g) pontjai szerinti árelemek fajlagos költségek.
 
 (4) Az egyes árelemek meghatározásának modell leírását a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) honlapján közzéteszi.
+
+(5)[^2] Az egyes árelemekről az energiapolitikáért felelős miniszter kérésére a Hivatal köteles az e rendelet tárgyi hatálya alá tartozó árszabályozással összefüggő részletes adatokat szolgáltatni.
+
+[^2]: A 3. § (5) bekezdését a 38/2017. (IX. 29.) NFM rendelet 15. §-a iktatta be.
