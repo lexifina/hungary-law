@@ -10,5 +10,8 @@
 
 (5)[^2] A nyereségkorlát kiszámítására, a többletnyereség rendszerhasználókkal megosztandó mértékének megállapítására vonatkozó útmutatást a GET 104/B. § (2) bekezdés b) pontja alapján kiadott módszertani útmutató tartalmazza.
 
+(6)[^3] A pótdíjak és az aukciós bevételek díjmegállapítás szempontjából történő kezelésére vonatkozó útmutatást a GET 104/B. § (2) bekezdés b) pontja alapján kiadott módszertani útmutató tartalmazza.
+
 [^1]: A 13. § (4) bekezdése a 4/2017. (IV. 26.) MEKH rendelet 1. §-ával megállapított szöveg.
 [^2]: A 13. § (5) bekezdése a 4/2017. (IV. 26.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^3]: A 13. § (6) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 1. §-a iktatta be.

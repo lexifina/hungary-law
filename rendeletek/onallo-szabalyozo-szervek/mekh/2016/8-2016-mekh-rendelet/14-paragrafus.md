@@ -34,7 +34,7 @@ a) jogcím-átvezetés, amelynek során a szállítási rendszerüzemeltető a r
 
 b) az alapszolgáltatásokhoz kapcsolódó adatforgalmon felül igényelt adatszolgáltatások,
 
-c)[^3] a szállítási rendszerüzemeltetővel egyensúlyozási szerződést kötött, de Kereskedelmi Platform tagsággal nem rendelkező rendszerhasználó esetén az egyensúlyozási szolgáltatás.
+c)[^4] a szállítási rendszerüzemeltetővel egyensúlyozási szerződést kötött, de Kereskedelmi Platform tagsággal nem rendelkező rendszerhasználó esetén az egyensúlyozási szolgáltatás.
 
 (3) A külön díjak ellenében végezhető szolgáltatások díjait a Hivatal a GET 104. § (2) bekezdésben rögzített módon határozza meg.
 
@@ -48,4 +48,4 @@ c) a felhasználó szerződésszegéséből származó többletkiadások, felhas
 
 (5) A külön díjak mértéke az árszabályozási cikluson belül – a rendszerhasználati díjakkal összehangoltan – módosítható.
 
-[^3]: A 14. § (2) bekezdés c) pontját a 14/2016. (XII. 20.) MEKH rendelet 1. §-a iktatta be.
+[^4]: A 14. § (2) bekezdés c) pontját a 14/2016. (XII. 20.) MEKH rendelet 1. §-a iktatta be.
