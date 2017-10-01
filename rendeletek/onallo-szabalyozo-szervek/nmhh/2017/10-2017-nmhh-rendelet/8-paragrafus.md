@@ -1,3 +1,3 @@
-## 7. §[^4]
+## 7. §[^1]
 
-[^4]: A 7. § a 15. § (3) bekezdése alapján 2017. október 24-én lép hatályba.
+[^1]: A 7. § a 15. § (3) bekezdése alapján 2017. október 24-én lép hatályba.
