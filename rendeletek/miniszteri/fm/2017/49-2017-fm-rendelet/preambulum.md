@@ -1,0 +1,3 @@
+A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény 57. § (2) bekezdés c) pontjában,
+
+a 14–16. § tekintetében a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény 57. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 16.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 16.) Korm. rendelet 65. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
