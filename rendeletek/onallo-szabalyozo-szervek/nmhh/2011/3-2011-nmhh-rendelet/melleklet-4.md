@@ -52,7 +52,7 @@
 
 | ahol: | NTN | (Network Terminal Number) adatátviteli előfizetői szám, amely legfeljebb tíz számjegyből áll, és az adott hálózatban lévő előfizetők (adat-végberendezések, illetőleg adatáramköri végberendezések) azonosítására szolgál. |
 
-4. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^19]
+4. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^20]
 
 Jelzéspont kódok felosztási terve
 
@@ -116,4 +116,4 @@ A nemzeti jelzéshálózati jelzéspont kód, az NSPC (National Signalling Point
 
 | NSPC (14 bit) = tetszőleges. |
 
-[^19]: A 4. melléklet az 1/2012. (I. 3.) NMHH rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^20]: A 4. melléklet az 1/2012. (I. 3.) NMHH rendelet 8. § (5) bekezdésével megállapított szöveg.

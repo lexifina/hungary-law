@@ -292,7 +292,7 @@
 
 ## 2.3.1. Leírás
 
-## A mobil számok a mobil rádiótelefon hálózathoz csatlakozó előfizetők azonosítását és elérését teszik lehetővé mobil rádiótelefon vagy mobil internet hozzáférési szolgáltatás igénybevételéhez. A mobil szám a szolgáltatás igénybevételéhez szükséges olyan előfizetői azonosító modulhoz (SIM) van rendelve, amelynek az e rendelet 2. mellékletében meghatározott mobil országkód (MCC) paramétere 216.
+## A mobil számok a mobil rádiótelefon hálózathoz csatlakozó előfizetők azonosítását és elérését teszik lehetővé mobil rádiótelefon vagy mobil internet hozzáférési szolgáltatás igénybevételéhez. A mobil szám a szolgáltatás igénybevételéhez szükséges olyan – e rendelet 2. mellékletében meghatározott – nemzetközi mobil előfizető azonosítóhoz (IMSI) van rendelve, amelynek mobil országkód (MCC) paramétere 216.
 
 ## 2.3.2. A számok felépítése
 
@@ -535,6 +535,8 @@
 ## A telefonszolgáltató köteles ingyenesen biztosítani, hogy előfizetője vagy a szolgáltatás igénybe vevője elérhesse a segélyhívó szolgálatokat.
 
 ## A segélyhívások földrajzi irányítása tekintetében a telefonszolgáltató köteles egyeztetni a segélyhívó szolgálatokkal.
+
+## Az e-segélyhívások irányításában a mobil rádiótelefon hálózatokban az előfizetői végberendezésről nem hívható 39 112 0000 irányítási számot kell alkalmazni.
 
 ## 3.4. Harmonizált közérdekű szolgáltatások harmonizált számai
 
@@ -862,6 +864,6 @@
 
 ## A KEE vagy a KTE előtétet a tárcsázási folyamat elején kell tárcsázni.
 
-2. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^17]
+2. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^18]
 
-[^17]: A 2. melléklet az 1/2016. (I. 15.) NMHH rendelet 9. § b) pontjával megállapított szöveg.
+[^18]: A 2. melléklet az 1/2016. (I. 15.) NMHH rendelet 9. § b) pontjával megállapított, a 10/2017. (IX. 14.) NMHH rendelet 5. § (2) bekezdése szerint módosított szöveg.

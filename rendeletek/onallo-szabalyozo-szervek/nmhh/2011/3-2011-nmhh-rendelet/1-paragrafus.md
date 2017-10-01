@@ -1,4 +1,4 @@
-1. §[^1] (1) E rendelet hatálya:
+1. §[^2] (1) E rendelet hatálya:
 
 a) az elektronikus hírközlési szolgáltatókra (a továbbiakban: szolgáltatók),
 
@@ -14,4 +14,4 @@ e) az elektronikus hírközlő hálózatok működéséhez, az elektronikus hír
 
 (2) E rendelet a kormányzati célú hírközlési szolgáltatóra és hálózatokra, valamint az ilyen szolgáltató által végzett elektronikus hírközlési tevékenységre - figyelemmel az Eht. 1. § (2) bekezdésére - a kormányzati célú hálózatokról szóló kormányrendeletben foglalt eltérésekkel kell alkalmazni.
 
-[^1]: Az 1. § az 1/2012. (I. 3.) NMHH rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § az 1/2012. (I. 3.) NMHH rendelet 8. § (1) bekezdésével megállapított szöveg.
