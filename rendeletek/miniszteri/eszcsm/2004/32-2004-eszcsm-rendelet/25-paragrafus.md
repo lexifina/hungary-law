@@ -34,6 +34,8 @@
 
 (17)[^191] A 2. számú melléklet MódR. 5. §-ával hatályon kívül helyezett EÜ100 8/h. pontja alapján felírt vények 2015. december 1-jéig válthatóak ki és számolhatóak el.
 
+(18)[^192] A 3. számú melléklet EÜ70 18. pontja alapján 2017. szeptember 30-ig felírt vények 2017. november 30-ig kiválthatóak és elszámolhatóak.
+
 [^175]: A 24/A. §-t a 31/2010. (V. 13.) EüM rendelet 8. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 12. § a) pontja, újonnan a 47/2011. (VII. 27.) NEFMI rendelet 7. §-a iktatta be.
 [^176]: A 25. §-t a 36/2010. (V. 14.) EüM rendelet 2. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 5. §-a, újonnan a 2/2012. (I. 3.) NEFMI rendelet 5. §-a iktatta be.
 [^177]: A 25. § (1) bekezdését az 54/2016. (XII. 30.) EMMI rendelet 35. § (2) bekezdés b) pontja hatályon kívül helyezte.
@@ -51,3 +53,4 @@
 [^189]: A 25. § (15) bekezdését a 38/2015. (VIII. 17.) EMMI rendelet 3. §-a iktatta be, hatályon kívül helyezte az 54/2016. (XII. 30.) EMMI rendelet 35. § (2) bekezdés b) pontja.
 [^190]: A 25. § (16) bekezdését a 38/2015. (VIII. 17.) EMMI rendelet 3. §-a iktatta be.
 [^191]: A 25. § (17) bekezdését a 38/2015. (VIII. 17.) EMMI rendelet 3. §-a iktatta be.
+[^192]: A 25. § (18) bekezdését a 18/2017. (VIII. 31.) EMMI rendelet 4. §-a iktatta be.
