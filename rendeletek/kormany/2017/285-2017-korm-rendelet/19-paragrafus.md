@@ -1,4 +1,4 @@
-## 6–18. §[^1]
+## 6–18. §[^2]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 6–18. § 2018. január 1-jén lép hatályba.
 
-[^1]: A 6–18. § a 19. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^2]: A 6–18. § a 19. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
