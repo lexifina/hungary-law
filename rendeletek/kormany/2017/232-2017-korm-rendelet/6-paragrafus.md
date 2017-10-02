@@ -1,1 +1,0 @@
-## „(13) Ha a kötelező átvételre jogosult erőműegység a közcélú hálózaton piaci alapon is értékesít vagy kíván értékesíteni villamos energiát, akkor át kell lépnie METÁR rendelet szerinti prémium típusú támogatási rendszerbe. Ebben az esetben a (12) bekezdésben meghatározott támogatott árat és időtartamot kell alkalmazni.”

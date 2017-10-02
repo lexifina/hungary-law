@@ -1,5 +1,5 @@
-## 13. §[^16]
+## 13. §[^17]
 
 ## 2. Az energiahatékonyságról, valamint a megújuló energiaforrásból származó villamos energia működési támogatásáról szóló egyes kormányrendeletek módosításáról szóló 393/2016. (XII. 5.) Korm. rendelet módosítása
 
-[^16]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
