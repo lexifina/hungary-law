@@ -1,6 +1,6 @@
 ## 13. A miniszterek jogszabályban alkalmazandó rövid megjelölése és helyettesítésük rendje
 
-## 125. §[^153] Jogszabály megjelölésében
+## 125. §[^154] Jogszabály megjelölésében
 
 a) a miniszterelnök általános helyettese esetében a TNM,
 
@@ -24,9 +24,12 @@ j) a nemzetgazdasági miniszter esetében az NGM,
 
 k) a nemzeti fejlesztési miniszter esetében az NFM,
 
-l)[^154] a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter esetében a PTNM
+l)[^155] a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter esetében a PTNM,
+
+m)[^156] a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter esetében az MVTNM
 
 rövid megjelölést kell alkalmazni.
 
-[^153]: A 125. § a 306/2015. (X. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^154]: A 125. § l) pontját a 93/2017. (IV. 12.) Korm. rendelet 3. §-a iktatta be.
+[^154]: A 125. § a 306/2015. (X. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^155]: A 125. § l) pontját a 93/2017. (IV. 12.) Korm. rendelet 3. §-a iktatta be.
+[^156]: A 125. § m) pontját a 289/2017. (IX. 25.) Korm. rendelet 2. §-a iktatta be.
