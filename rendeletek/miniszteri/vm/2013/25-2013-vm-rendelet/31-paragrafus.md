@@ -12,6 +12,8 @@
 
 a) a földmérési jelek elhelyezését biztosító közérdekű használati jog;
 
-b) a községi földminősítési mintatérre vonatkozó használati jog;
+b)[^25] a földminősítési mintatér elhelyezését biztosító használati jog;
 
 c) a Natura 2000 területek, a nagyvízi meder, az árvízi tározó és erdő jogi jelleg
+
+[^25]: A 31. § (5) bekezdés b) pontja a 47/2017. (IX. 29.) FM rendelet 24. §-ával megállapított szöveg.

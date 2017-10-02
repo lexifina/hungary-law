@@ -44,6 +44,6 @@
 
 ## f) a készítés dátumát.
 
-16. melléklet a 25/2013. (IV. 16.) VM rendelethez[^75]
+16. melléklet a 25/2013. (IV. 16.) VM rendelethez[^76]
 
-[^75]: A 16. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § d) pontja szerint módosított szöveg.
+[^76]: A 16. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § d) pontja szerint módosított szöveg.

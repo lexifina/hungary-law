@@ -1,6 +1,6 @@
-## 21. [^38] A változási vázrajz vizsgálata és záradékolása
+## 21. [^39] A változási vázrajz vizsgálata és záradékolása
 
-47. § (1)[^39] A változási vázrajzok vizsgálatát és záradékolását a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény előírásai szerint kell végrehajtani. A záradékolt változási vázrajz hatósági bizonyítvány. A változási vázrajz záradékolása csak akkor lehetséges, ha az mindenben megfelel az e rendelet által előírt rendelkezéseknek. Ha a munka során új alappont létesítésére is sor került, az alappont-sűrítést a kormányhivatal külön eljárásban vizsgálja.
+47. § (1)[^40] A változási vázrajzok vizsgálatát és záradékolását a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény előírásai szerint kell végrehajtani. A záradékolt változási vázrajz hatósági bizonyítvány. A változási vázrajz záradékolása csak akkor lehetséges, ha az mindenben megfelel az e rendelet által előírt rendelkezéseknek. Ha a munka során új alappont létesítésére is sor került, az alappont-sűrítést a kormányhivatal külön eljárásban vizsgálja.
 
 (2) A vizsgálat során ellenőrizni kell:
 
@@ -30,12 +30,12 @@ k) a leadott változási vázrajz digitális adatállománya és a kinyomtatott 
 
 (4) Termőföldet, valamint mező-, erdőgazdasági művelés alatt álló földet érintő változás esetén a változási vázrajzot a földmérési vizsgálattal egy eljárásban mezőgazdászi szempontból is vizsgálni és záradékolni kell.
 
-(5)[^40] A változási vázrajzok vizsgálata során a járási hivatal helyszíni ellenőrző méréseket is végezhet.
+(5)[^41] A változási vázrajzok vizsgálata során a járási hivatal helyszíni ellenőrző méréseket is végezhet.
 
 (6) Földmérési és térképészeti adatokat, valamint térképmásolatot az igénylés céljától függően a 27., 28. vagy 29. mellékletben meghatározott igénylőlapon kell igényelni.
 
 (7) Kisajátítással kapcsolatos változási munkarészeket a kisajátításról szóló jogszabályok előírásai szerint kell vizsgálni és záradékolni.
 
-[^38]: A 21. alcím címe a 42/2017. (VIII. 17.) FM rendelet 191. §-a szerint módosított szöveg.
-[^39]: A 47. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § o) pontja szerint módosított szöveg.
-[^40]: A 47. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.
+[^39]: A 21. alcím címe a 42/2017. (VIII. 17.) FM rendelet 191. §-a szerint módosított szöveg.
+[^40]: A 47. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § o) pontja szerint módosított szöveg.
+[^41]: A 47. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.
