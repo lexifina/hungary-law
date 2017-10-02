@@ -1,0 +1,3 @@
+14. § (1) Az ingatlan-nyilvántartásban a „községi mintatér”, illetve „járási mintatér” megjelölést a földrészlet megfelelő minőségi osztályánál az ingatlan-nyilvántartásról szóló törvény végrehajtására kiadott jogszabály rendelkezései szerint kell feltüntetni.
+
+(2) Az ingatlan-nyilvántartásba, a földminősítési mintatér kijelölésével érintett földrészletre a földminősítési mintatér elhelyezését biztosító használati jogot a termőföld védelméről szóló törvényben meghatározott területre az ingatlan-nyilvántartásról szóló törvény, valamint az annak végrehajtására kiadott jogszabály rendelkezései szerint kell bejegyezni.

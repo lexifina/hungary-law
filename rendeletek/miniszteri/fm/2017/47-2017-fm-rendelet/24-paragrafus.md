@@ -1,0 +1,1 @@
+## „118/C. § A termőföld védelméről szóló törvény alkalmazása során az átlagos minőségű termőföld meghatározásához felhasználandó törzskönyv az Inytv. 82. §-ában foglaltakon túl tartalmazza művelési áganként a minőségi osztályok adatai alapján egy hektár területre kiszámított átlag aranykorona értéket is.”
