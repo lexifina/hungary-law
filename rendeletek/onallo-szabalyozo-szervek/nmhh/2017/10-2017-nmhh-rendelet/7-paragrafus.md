@@ -1,3 +1,3 @@
-## 6. § A számhordozás részletes szabályairól szóló 2/2012. (I. 24.) NMHH rendelet (a továbbiakban: R3.) 3. § (8) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^3]
 
-## „(8) A többféle szolgáltatást tartalmazó (multi-play) szolgáltatás csomagok egyidejű átadásával, az előfizetői hurok átengedésével vagy országos bitfolyam hozzáféréssel együtt megvalósuló számhordozás, a díjmentes szolgáltatás, az emelt díjas szolgáltatás és a tízet meghaladó számot magában foglaló üzleti előfizetés számainak hordozása, valamint egybefüggő számtartomány részleges hordozása esetében a számhordozás időzítése és végrehajtása érdekében – az átadó szolgáltató indoklással ellátott kérése esetén – az átvevő szolgáltató köteles az átadó szolgáltatóval egyeztetni.”
+[^3]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

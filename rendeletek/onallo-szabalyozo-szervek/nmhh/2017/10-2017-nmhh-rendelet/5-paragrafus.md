@@ -1,7 +1,7 @@
+## 1–4. §[^1]
+
 ## 2. Az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről szóló
 
 ## 3/2011. (IX. 26.) NMHH rendelet módosítása
 
-5. § (1) Az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről szóló 3/2011. (IX. 26.) NMHH rendelet (a továbbiakban: R2.) 1. melléklete a 3. melléklet szerint módosul.
-
-(2) Az R2. 2. melléklete a 4. melléklet szerint módosul.
+[^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

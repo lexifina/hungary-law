@@ -1,3 +1,5 @@
-## lép.
+## 8–10. §[^5]
 
 ## 4. Az elektronikus hírközlési szolgáltatásokhoz szükséges azonosítók lekötésének és használatának díjáról szóló 5/2012. (I. 24.) NMHH rendelet módosítása
+
+[^5]: A 8–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 14. § Az R4. 1. melléklete az 5. melléklet szerint módosul.
+## 11–14. §[^6]
 
 ## 5. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) Az 1–6. §, a 8–14. §, valamint az 1–5. melléklet 2017. október 1-jén lép hatályba.
 
 (3) A 7. § 2017. október 24-én lép hatályba.
+
+[^6]: A 11–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
