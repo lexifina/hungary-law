@@ -1,3 +1,0 @@
-## 7. § Az R1. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A rendszerhasználók által fizetendő szállítási kapacitásdíj összegét az általuk az 1. § (1) bekezdés a) pont aa) alpont aaa)–aag) és aai)–aao) alpontja, továbbá az 1. § (1) bekezdés a) pont ac) alpont acb) alpontja szerinti átadási-átvételi pontonkénti bontásban lekötött kapacitások, valamint az egységnyi kapacitásra vonatkozó szállítási kapacitásdíj szorzataként kell megállapítani. A szállítási kapacitásdíj szerződésben meghatározott időközönként vagy – az erre vonatkozó megállapodás hiányában – havi egyenlő részletekben, a hónap első napján fizetendő.”
