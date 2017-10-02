@@ -1,4 +1,4 @@
-4. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^362]
+4. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^364]
 
 A tulajdoni lapba történő betekintés iránti kérelem az alábbi adatokat tartalmazza:
 
@@ -16,4 +16,4 @@ A tulajdoni lapba történő betekintés iránti kérelem az alábbi adatokat ta
 
 7. a betekintő betekintés megtörténtét igazoló aláírása.
 
-[^362]: A 4. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 4. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.
+[^364]: A 4. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 4. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.

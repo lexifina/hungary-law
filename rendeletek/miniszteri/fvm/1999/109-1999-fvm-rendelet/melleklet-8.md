@@ -1,4 +1,4 @@
-8. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^374]
+8. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^376]
 
 A haszonélvezeti jog, használat joga bejegyzésének alapjául szolgáló okirat szerinti felek között, a szerződés megkötésének időpontjában fennálló közeli hozzátartozói viszonyról szóló nyilatkozat az alábbi adatokat tartalmazza:
 
@@ -8,7 +8,7 @@ A haszonélvezeti jog, használat joga bejegyzésének alapjául szolgáló okir
 
 1.2. használat joga;
 
-1.3.[^375] ingatlan-nyilvántartási bejegyző határozat száma;
+1.3.[^377] ingatlan-nyilvántartási bejegyző határozat száma;
 
 2. a jog ingatlan-nyilvántartásba bejegyzett jogosultjának
 
@@ -92,5 +92,5 @@ A haszonélvezeti jog, használat joga bejegyzésének alapjául szolgáló okir
 
 12. tájékoztató.
 
-[^374]: A 8. számú mellékletet a 13/2014. (IX. 25.) FM rendelet 5. §-a iktatta be.
-[^375]: A 8. számú melléklet 1.3. pontja a 67/2015. (X. 30.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^376]: A 8. számú mellékletet a 13/2014. (IX. 25.) FM rendelet 5. §-a iktatta be.
+[^377]: A 8. számú melléklet 1.3. pontja a 67/2015. (X. 30.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.

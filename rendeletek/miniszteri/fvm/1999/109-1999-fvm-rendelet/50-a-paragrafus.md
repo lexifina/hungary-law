@@ -1,4 +1,4 @@
-## 47/A. [^150] A zártkerti ingatlanok művelési ágának átvezetésére vonatkozó különös szabályok
+## 47/A. [^151] A zártkerti ingatlanok művelési ágának átvezetésére vonatkozó különös szabályok
 
 50/A. § (1) A tv. 89/A. § (1) bekezdése szerinti kérelmet – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben (a továbbiakban: Ket.) meghatározottakon túl a 9. mellékletben meghatározott adattartalommal – a járási hivatalnál kell benyújtani.
 
@@ -10,4 +10,4 @@
 
 (5) A tv. 89/A. § (1) bekezdése szerinti kérelemre induló adatváltozás átvezetése iránti eljárás nem mentesíti a tulajdonost a zártkerti ingatlanon fennálló építmény ingatlan-nyilvántartási feltüntetéséhez szükséges más hatósági engedélyek beszerzésének kötelezettsége alól.
 
-[^150]: A 47/A. alcímet (50/A–50/E. §) a 67/2015. (X. 30.) FM rendelet 2. §-a iktatta be.
+[^151]: A 47/A. alcímet (50/A–50/E. §) a 67/2015. (X. 30.) FM rendelet 2. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 8. § A lakásszövetkezet tulajdonában álló lakásra a lakásszövetkezeti tagot megillető állandó használat jogát az önálló ingatlanként nyilvántartott egész szövetkezeti lakásra kell bejegyezni. Több személy állandó közös használatába adott lakás esetében a bejegyzésben az egyes jogosultakat megillető állandó lakáshasználati jog terjedelmét is fel kell tüntetni a közös tulajdonra vonatkozó szabályok szerint.
 
-## 5.[^31] Földhasználati jog
+## 5.[^32] Földhasználati jog
 
 9. § (1) A más tulajdonában álló földön építkezés céljából alapított földhasználati jogot egész földrészletre, vagy a földrészlet természetben vagy területi mértékben meghatározott részére lehet bejegyezni a név szerint meghatározott építkező (jogosult) javára (megállapodáson alapuló földhasználati jog).
 
@@ -8,7 +8,7 @@
 
 (3) A földhasználati jogot az épület mindenkori tulajdonosa javára kell bejegyezni akkor is, ha a megállapodáson alapuló földhasználati jog jogosultja, e jogának bejegyzését követően, az általa létesített épület önálló ingatlanként való bejegyzését kéri.
 
-(4)[^32] Az épület mindenkori tulajdonosát megillető földhasználati jogot a járási hivatal az épület önálló ingatlanként való bejegyzése iránt megindított eljárásban akkor is bejegyezheti, ha az épületre vonatkozó tulajdonszerzés igazolásaként benyújtott okiratban a felek, vagy határozatában a bíróság a földhasználati jogról nem rendelkezett.
+(4)[^33] Az épület mindenkori tulajdonosát megillető földhasználati jogot a járási hivatal az épület önálló ingatlanként való bejegyzése iránt megindított eljárásban akkor is bejegyezheti, ha az épületre vonatkozó tulajdonszerzés igazolásaként benyújtott okiratban a felek, vagy határozatában a bíróság a földhasználati jogról nem rendelkezett.
 
-[^31]: Az 5. alcím a 48/2010. (IV. 27.) FVM rendelet 11. §-ával megállapított szöveg.
-[^32]: A 9. § (4) bekezdése a 148/2012. (XII. 28.) VM rendelet 24. § e) pontja, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 3. pontja szerint módosított szöveg.
+[^32]: Az 5. alcím a 48/2010. (IV. 27.) FVM rendelet 11. §-ával megállapított szöveg.
+[^33]: A 9. § (4) bekezdése a 148/2012. (XII. 28.) VM rendelet 24. § e) pontja, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 3. pontja szerint módosított szöveg.

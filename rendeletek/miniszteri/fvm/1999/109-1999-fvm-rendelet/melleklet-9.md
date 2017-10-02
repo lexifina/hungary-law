@@ -1,4 +1,4 @@
-9. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^376]
+9. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^378]
 
 1. A zártkerti művelés alól kivont területként történő feltüntetés iránti kérelem első része az alábbi adatokat tartalmazza:
 
@@ -42,4 +42,4 @@
 
 2.4. a kérelmező, vagy meghatalmazott aláírása.
 
-[^376]: A 9. számú mellékletet a 67/2015. (X. 30.) FM rendelet 8. § (3) bekezdése iktatta be.
+[^378]: A 9. számú mellékletet a 67/2015. (X. 30.) FM rendelet 8. § (3) bekezdése iktatta be.

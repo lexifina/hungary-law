@@ -1,4 +1,4 @@
-## 31. [^105] Lemondás jelzálogjog előzetesen biztosított ranghelyével való rendelkezés jogáról
+## 31. [^106] Lemondás jelzálogjog előzetesen biztosított ranghelyével való rendelkezés jogáról
 
 36. § (1) A tulajdoni lap III. részén fel lehet jegyezni, hogy a zálogkötelezett valamely meghatározott későbbi zálogjogosult vagy meghatározott más harmadik személy irányában lemondott arról a jogáról, hogy az előzetesen biztosított jelzálogjogi bejegyzés ranghelyével rendelkezhessék, hogy e ranghelyet jelzálogjog bejegyzésével betöltse.
 
@@ -8,4 +8,4 @@
 
 (4) A lemondás ellenére, a (3) bekezdés szerinti hozzájáruló nyilatkozat alapján lehetőség vanaz előzetesen biztosított ranghelyen zálogjog létesítésére. Ez a hozzájárulás csak az abban megengedett terhelésre szól, és azt meghaladóan nem oldja fel a zálogkötelezettet az előzetesen biztosított ranghellyel való rendelkezési jogról lemondó nyilatkozata alól.
 
-[^105]: A 31. alcím (36. §) a 21/2014. (III. 14.) VM rendelet 19. §-ával megállapított szöveg.
+[^106]: A 31. alcím (36. §) a 21/2014. (III. 14.) VM rendelet 19. §-ával megállapított szöveg.

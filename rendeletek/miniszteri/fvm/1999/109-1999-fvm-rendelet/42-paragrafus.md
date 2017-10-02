@@ -1,10 +1,10 @@
 ## 41. § Rét művelési ágban kell nyilvántartani azt a füves területet, amely fűtermését rendszeresen kaszálással hasznosítják, tekintet nélkül arra, hogy esetenként legeltetik.
 
-## 39.[^121] Legelő
+## 39.[^122] Legelő
 
 42. § (1) Legelő művelési ágban kell nyilvántartani azt a füves területet, amelynek fűtermését rendszeresen legeltetéssel hasznosítják, tekintet nélkül arra, hogy esetenként kaszálják.
 
-(2)[^122] Az (1) bekezdésben foglaltakon túlmenően legelő művelési ágban kell nyilvántartani még az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény (a továbbiakban: Evt.) szerinti fás legelő és vadföld területét.
+(2)[^123] Az (1) bekezdésben foglaltakon túlmenően legelő művelési ágban kell nyilvántartani még az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény (a továbbiakban: Evt.) szerinti fás legelő és vadföld területét.
 
-[^121]: A 39. alcím a 48/2010. (IV. 27.) FVM rendelet 46. § (1) bekezdésével megállapított szöveg.
-[^122]: A 42. § (2) bekezdése a 48/2010. (IV. 27.) FVM rendelet 46. § (2) bekezdésével megállapított szöveg.
+[^122]: A 39. alcím a 48/2010. (IV. 27.) FVM rendelet 46. § (1) bekezdésével megállapított szöveg.
+[^123]: A 42. § (2) bekezdése a 48/2010. (IV. 27.) FVM rendelet 46. § (2) bekezdésével megállapított szöveg.

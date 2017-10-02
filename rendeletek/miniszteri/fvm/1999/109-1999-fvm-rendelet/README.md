@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-109-20-
 | 2016-03-31 | 1999-109-20-82.26 | 19/2016. (III. 30.) FM rendelet |
 | 2016-12-09 | 1999-109-20-82.27 | 76/2016. (XII. 8.) FM rendelet |
 | 2017-08-18 | 1999-109-20-82.28 | 42/2017. (VIII. 17.) FM rendelet |
+| 2017-10-02 | 1999-109-20-82.29 | 47/2017. (IX. 29.) FM rendelet |

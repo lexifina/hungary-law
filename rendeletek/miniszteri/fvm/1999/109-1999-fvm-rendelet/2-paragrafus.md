@@ -4,7 +4,7 @@
 
 a) a művelési ág és a művelés alól kivett terület elnevezése, alrészlet jele,
 
-b) a minőségi osztály, kataszteri tisztajövedelem,
+b)[^7] a minőségi osztály (megjelölve, ha a minőségi osztály területén járási vagy községi mintatér került kijelölésre), kataszteri tisztajövedelem,
 
 c) az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.),
 
@@ -35,3 +35,4 @@ o) kiegészítő szöveges bejegyzés.
 [^4]: Az 1. § a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
 [^5]: A Magyar Közlöny 2000. évi 10. számában közzétett helyesbítésnek megfelelő szöveg.
 [^6]: A 2. § a 48/2010. (IV. 27.) FVM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 2. § b) pontja a 47/2017. (IX. 29.) FM rendelet 23. § (1) bekezdésével megállapított szöveg.

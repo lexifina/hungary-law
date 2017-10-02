@@ -1,4 +1,4 @@
-4. §[^8] (1) A tulajdoni lap III. része az ingatlanhoz kapcsolódó következő jogokat, illetve azok jogosultját tartalmazza:
+4. §[^9] (1) A tulajdoni lap III. része az ingatlanhoz kapcsolódó következő jogokat, illetve azok jogosultját tartalmazza:
 
 a) földhasználati jog, haszonélvezeti jog és használat joga,
 
@@ -8,15 +8,15 @@ c) az ingatlant terhelő telki szolgalmi jog,
 
 d) állandó jellegű földmérési jelek, valamint villamosberendezések elhelyezését biztosító használati jog, továbbá vezetékjog, vízvezetési és bányaszolgalmi jog, valamint törvény rendelkezésén alapuló közérdekű szolgalmi és használati jog,
 
-e)[^9] elő- és visszavásárlási, vételi jog, valamint eladási jog,
+e)[^10] elő- és visszavásárlási, vételi jog, valamint eladási jog,
 
 f) tartási és életjáradéki jog,
 
-g)[^10] jelzálogjog (különvált zálogjog, önálló zálogjog, átalakításos önálló zálogjog) és végrehajtási jog,
+g)[^11] jelzálogjog (különvált zálogjog, önálló zálogjog, átalakításos önálló zálogjog) és végrehajtási jog,
 
-h)[^11] olyan egyéb jog, amelynek bejegyzését törvény rendeli el.
+h)[^12] olyan egyéb jog, amelynek bejegyzését törvény rendeli el.
 
-(2)[^12] A tulajdoni lap III. része tartalmazza továbbá az ingatlanhoz vagy a bejegyzett jogokhoz, illetve annak jogosultjaihoz kapcsolódó következő tényeket:
+(2)[^13] A tulajdoni lap III. része tartalmazza továbbá az ingatlanhoz vagy a bejegyzett jogokhoz, illetve annak jogosultjaihoz kapcsolódó következő tényeket:
 
 1. a III. részen bejegyzett jogosult
 
@@ -36,7 +36,7 @@ ténye az ügyszám megjelölésével,
 
 4. bírósági ítéleten alapuló tulajdoni korlátozás,
 
-5.[^13] bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelésének ténye, valamint egyéb építésügyi korlátozás ténye, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés ténye, a kulturális örökség védelméről szóló törvényben meghatározott örökségvédelmi hatósági kötelezés ténye, valamint önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye,
+5.[^14] bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelésének ténye, valamint egyéb építésügyi korlátozás ténye, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés ténye, a kulturális örökség védelméről szóló törvényben meghatározott örökségvédelmi hatósági kötelezés ténye, valamint önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye,
 
 6. kisajátítási eljárás megindításának ténye,
 
@@ -138,16 +138,16 @@ g) törölt bejegyzésre való utalás,
 
 h) kiegészítő szöveges bejegyzés.
 
-(3a)[^14] Az illetékességi terület-változásból eredő átcsatolás esetén a tulajdoni lap III. része – ideértve az egyidejűleg megszüntetett tulajdoni lapot is – önálló sorszám alatt tartalmazza a változásra történő utalást, annak dátumát, valamint az átadó, illetve az átvevő ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal), valamint az ingatlanügyi hatóságként eljáró járási hivatal, a fővárosban a Fővárosi XI. és XIV. Kerületi Hivatal (a továbbiakban: járási hivatal) megjelölését.
+(3a)[^15] Az illetékességi terület-változásból eredő átcsatolás esetén a tulajdoni lap III. része – ideértve az egyidejűleg megszüntetett tulajdoni lapot is – önálló sorszám alatt tartalmazza a változásra történő utalást, annak dátumát, valamint az átadó, illetve az átvevő ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal), valamint az ingatlanügyi hatóságként eljáró járási hivatal, a fővárosban a Fővárosi XI. és XIV. Kerületi Hivatal (a továbbiakban: járási hivatal) megjelölését.
 
 (4) A tulajdoni lap természetes személy jogosult esetén tartalmazza a személyi azonosítót, a statisztikai számjelről szóló jogszabály hatálya alá tartozó szervezet esetén annak statisztikai számjelét.
 
 (5) A tulajdoni lap tartalmazza továbbá a széljegyet.
 
-[^8]: A 4. § a 48/2010. (IV. 27.) FVM rendelet 5. §-ával megállapított szöveg.
-[^9]: A 4. § (1) bekezdés e) pontja a 21/2014. (III. 14.) VM rendelet 28. § a) pontja szerint módosított szöveg.
-[^10]: A 4. § (1) bekezdés g) pontja a 76/2016. (XII. 8.) FM rendelet 1. §-ával megállapított szöveg.
-[^11]: A 4. § (1) bekezdés h) pontját a 148/2012. (XII. 28.) VM rendelet 1. § (1) bekezdése iktatta be.
-[^12]: A 4. § (2) bekezdése a 13/2014. (IX. 25.) FM rendelet 1. §-ával megállapított szöveg.
-[^13]: A 4. § (2) bekezdés 5. pontja a 39/2014. (XII. 18.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^14]: A 4. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 1. pontja szerint módosított szöveg.
+[^9]: A 4. § a 48/2010. (IV. 27.) FVM rendelet 5. §-ával megállapított szöveg.
+[^10]: A 4. § (1) bekezdés e) pontja a 21/2014. (III. 14.) VM rendelet 28. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (1) bekezdés g) pontja a 76/2016. (XII. 8.) FM rendelet 1. §-ával megállapított szöveg.
+[^12]: A 4. § (1) bekezdés h) pontját a 148/2012. (XII. 28.) VM rendelet 1. § (1) bekezdése iktatta be.
+[^13]: A 4. § (2) bekezdése a 13/2014. (IX. 25.) FM rendelet 1. §-ával megállapított szöveg.
+[^14]: A 4. § (2) bekezdés 5. pontja a 39/2014. (XII. 18.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^15]: A 4. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 1. pontja szerint módosított szöveg.

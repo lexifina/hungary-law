@@ -10,7 +10,7 @@ ab) a kifüggesztéshez kötött jogügylet esetében nyilatkozni kell az előv�
 
 b) az elővásárlási jog gyakorlására jogosult által benyújtott kérelem esetében a határidőben megtett és a jegyző által aláírt elfogadó jognyilatkozatát másolatban.
 
-(3)[^87] A járási hivatal a (2) bekezdés a) pontjának ab) alpontjában meghatározott nyilatkozat valóságtartalmát az elektronikus tájékoztató alapján ellenőrzi. Ha a tájékoztató alapján nem állapítható meg a kifüggesztés megtörténte, a kérelmezőt felhívja annak igazolására. Ha a kérelmező nem tudja igazolni a kifüggesztés megtörténtét, a tényfeljegyzésre vonatkozó kérelmet a járási hivatal elutasítja.
+(3)[^88] A járási hivatal a (2) bekezdés a) pontjának ab) alpontjában meghatározott nyilatkozat valóságtartalmát az elektronikus tájékoztató alapján ellenőrzi. Ha a tájékoztató alapján nem állapítható meg a kifüggesztés megtörténte, a kérelmezőt felhívja annak igazolására. Ha a kérelmező nem tudja igazolni a kifüggesztés megtörténtét, a tényfeljegyzésre vonatkozó kérelmet a járási hivatal elutasítja.
 
 (4) Hivatalból törölni kell a 29/A. § (1) bekezdése szerinti tényt és a feljegyzését követően függő hatállyal történt jogbejegyzések esetében
 
@@ -24,7 +24,7 @@ ac) a hatósági jóváhagyáshoz nem kötött jogügylet esetében a tény felj
 
 b) a függő hatállyal bejegyzett jogokat a tulajdonjog bejegyzési kérelem alapján történő tulajdonosváltozás bejegyzésével egyidejűleg.
 
-(5)[^88] A járási hivatal minden hónap tizenötödik napjáig megkeresi a hatósági jóváhagyás megadására jogosult szervet – a tényfeljegyzéssel érintett ingatlanok listája megküldésével – a hatósági jóváhagyás megtagadásáról, a kérelem érdemi vizsgálat nélküli elutasításáról, továbbá az eljárás megszüntetéséről szóló jogerős döntésekről történő tájékoztatás érdekében.
+(5)[^89] A járási hivatal minden hónap tizenötödik napjáig megkeresi a hatósági jóváhagyás megadására jogosult szervet – a tényfeljegyzéssel érintett ingatlanok listája megküldésével – a hatósági jóváhagyás megtagadásáról, a kérelem érdemi vizsgálat nélküli elutasításáról, továbbá az eljárás megszüntetéséről szóló jogerős döntésekről történő tájékoztatás érdekében.
 
 (6) Kérelemre a tény csak akkor törölhető az ingatlan-nyilvántartásból, ha
 
@@ -36,5 +36,5 @@ b) a kizárólag hatósági jóváhagyáshoz kötött jogügylet esetén a felek
 
 (8) A tény feljegyzéséről, valamint a tény törléséről szóló határozatot a kérelmezőnek, valamint a szerződő feleknek kell kézbesíteni.
 
-[^87]: A 29/B. § (3) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. pontja szerint módosított szöveg.
-[^88]: A 29/B. § (5) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. pontja szerint módosított szöveg.
+[^88]: A 29/B. § (3) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. pontja szerint módosított szöveg.
+[^89]: A 29/B. § (5) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. pontja szerint módosított szöveg.
