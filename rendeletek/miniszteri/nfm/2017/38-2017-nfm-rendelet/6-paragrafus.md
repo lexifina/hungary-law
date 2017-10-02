@@ -1,1 +1,3 @@
-## 5. § A távhőszolgáltatási támogatásról szóló 51/2011. (IX. 30.) NFM rendelet (a továbbiakban: R2.) 1. melléklete a 2. melléklet szerint módosul.
+## 5. §[^3]
+
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
