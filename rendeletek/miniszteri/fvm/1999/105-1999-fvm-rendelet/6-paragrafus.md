@@ -1,5 +1,0 @@
-6. § (1) Több minőségi osztályba tartozó, külön jogszabály szerint erdő művelési ágú földrészletek esetében a minőségi osztályok elhatároló vonalait nem kell a munkatérképen feltüntetni. Az egyes minőségi osztályok területét és kataszteri tiszta jövedelmét, ha területe nem változott, az ingatlan-nyilvántartásba bejegyzett adatokkal egyezően kell megállapítani. Ha az erdő területe megváltozott, az egyes minőségi osztályok területét és kataszteri tiszta jövedelmét a területváltozás arányával egyezően kell megváltoztatni.
-
-(2) A külön jogszabály szerint telepítés folytán erdő művelési ágban nyilvántartandó földterület minőségi osztályát és kataszteri tiszta jövedelmét a mintatérjegyzékben foglalt adatok alapján kell megállapítani. Ha a földterület több minőségi osztályba tartozik, az egyes minőségi osztályok területét a földterület összterületéhez viszonyítva kell megállapítani.
-
-(3) A fásított terület művelési ágba felvételre kerülő, valamint a nádas művelési ágban nyilvántartott földterületek esetében a minőségi osztály és a kataszteri tiszta jövedelem megállapítása során a (1)–(2) bekezdésben foglaltak szerint kell eljárni.
