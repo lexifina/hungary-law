@@ -1,3 +1,5 @@
-## 25. § Hatályát veszti a földminősítés részletes szabályairól szóló 105/1999. (XII. 22.) FVM rendelet.
+## 23–25. §[^1]
 
 1. melléklet a 47/2017. (IX. 29.) FM rendelethez
+
+[^1]: A 23–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
