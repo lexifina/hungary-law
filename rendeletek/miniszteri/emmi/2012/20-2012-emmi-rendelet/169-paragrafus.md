@@ -1,4 +1,4 @@
-169. § (1)[^326] A nevelési-oktatási intézmény kivizsgálja és nyilvántartja a tanuló- és gyermekbaleseteket, teljesíti az előírt bejelentési kötelezettséget.
+169. § (1)[^341] A nevelési-oktatási intézmény kivizsgálja és nyilvántartja a tanuló- és gyermekbaleseteket, teljesíti az előírt bejelentési kötelezettséget.
 
 (2) A nyolc napon túl gyógyuló sérüléssel járó tanuló- és gyermekbaleseteket haladéktalanul ki kell vizsgálni. Ennek során fel kell tárni a kiváltó és a közreható személyi, tárgyi és szervezési okokat. Ezeket a baleseteket az oktatásért felelős miniszter által vezetett, a minisztérium üzemeltetésében lévő elektronikus jegyzőkönyvvezető rendszer segítségével kell nyilvántartani, vagy ha erre rendkívüli esemény miatt átmenetileg nincs lehetőség, jegyzőkönyvet kell felvenni. A jegyzőkönyvek egy-egy példányát – az elektronikus úton kitöltött jegyzőkönyvek kivételével – a kivizsgálás befejezésekor, de legkésőbb a tárgyhót követő hónap nyolcadik napjáig meg kell küldeni a fenntartónak. Az elektronikus úton kitöltött jegyzőkönyv kinyomtatott példányát, a papíralapú jegyzőkönyv egy példányát át kell adni a tanulónak, kiskorú gyermek, tanuló esetén a szülőnek. A jegyzőkönyv egy példányát a kiállító nevelési-oktatási intézményében meg kell őrizni.
 
@@ -22,14 +22,14 @@ e) a beszélőképesség elvesztését vagy feltűnő eltorzulását, a tanuló 
 
 (6) Amennyiben a baleset a pedagógiai szakszolgálat által tartott foglalkozás alatt következik be, a jelentési kötelezettség a foglalkozást tartó intézmény kötelessége.
 
-(7)[^327] A nem állami intézményfenntartó a részére megküldött papír alapú jegyzőkönyvet nyolc napon belül megküldi a nevelési-oktatási intézmény működéséhez szükséges engedélyt kiállító megyeszékhely szerinti járási hivatal részére.
+(7)[^342] A nem állami intézményfenntartó a részére megküldött papír alapú jegyzőkönyvet nyolc napon belül megküldi a nevelési-oktatási intézmény működéséhez szükséges engedélyt kiállító megyeszékhely szerinti járási hivatal részére.
 
-(8)[^328] A megyeszékhely szerinti járási hivatal az egyházi, magán és nemzetiségi önkormányzati intézményfenntartótól, a tankerületi központ a nevelési-oktatási intézménytől érkezett, nem elektronikus úton kitöltött baleseti jegyzőkönyvet a naptári félévet követő hónap utolsó napjáig megküldi az oktatásért felelős minisztérium részére.
+(8)[^343] A megyeszékhely szerinti járási hivatal az egyházi, magán és nemzetiségi önkormányzati intézményfenntartótól, a tankerületi központ a nevelési-oktatási intézménytől érkezett, nem elektronikus úton kitöltött baleseti jegyzőkönyvet a naptári félévet követő hónap utolsó napjáig megküldi az oktatásért felelős minisztérium részére.
 
 (9) A nevelési-oktatási intézménynek lehetővé kell tenni az óvodaszék, az iskolaszék, a kollégiumi szék, ezek hiányában a szülői szervezet, közösség és az iskolai diákönkormányzat képviselője részvételét a tanuló- és gyermekbaleset kivizsgálásában.
 
 (10) Minden tanuló- és gyermekbalesetet követően meg kell tenni a szükséges intézkedést a hasonló esetek megelőzésére.
 
-[^326]: A 169. § (1) bekezdése a 32/2015. (VI. 19.) EMMI rendelet 13. §-ával megállapított szöveg.
-[^327]: A 169. § (7) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 6. § 2. pontja szerint módosított szöveg.
-[^328]: A 169. § (8) bekezdése a 45/2014. (X. 27.) EMMI rendelet 42. §-ával megállapított, a 32/2015. (VI. 19.) EMMI rendelet 17. § g) pontja, a 46/2016. (XII. 28.) EMMI rendelet 1. § b) pontja, az 51/2016. (XII. 29.) EMMI rendelet 6. § 2. pontja szerint módosított szöveg.
+[^341]: A 169. § (1) bekezdése a 32/2015. (VI. 19.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^342]: A 169. § (7) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 6. § 2. pontja szerint módosított szöveg.
+[^343]: A 169. § (8) bekezdése a 45/2014. (X. 27.) EMMI rendelet 42. §-ával megállapított, a 32/2015. (VI. 19.) EMMI rendelet 17. § g) pontja, a 46/2016. (XII. 28.) EMMI rendelet 1. § b) pontja, az 51/2016. (XII. 29.) EMMI rendelet 6. § 2. pontja szerint módosított szöveg.

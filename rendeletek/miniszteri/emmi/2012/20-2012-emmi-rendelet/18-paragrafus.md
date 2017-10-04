@@ -1,4 +1,4 @@
-18. §[^35] (1) Alapfokú művészeti iskolában a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet alapján a tanuló térítési díj ellenében – vagy az Nkt. alapján az alapfokú művészetoktatásban ingyenesen résztvevők esetében ingyenesen – igénybe vett heti tanórai foglalkozásainak összes időtartama nem haladhatja meg a háromszáz percet.
+18. §[^36] (1) Alapfokú művészeti iskolában a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet alapján a tanuló térítési díj ellenében – vagy az Nkt. alapján az alapfokú művészetoktatásban ingyenesen résztvevők esetében ingyenesen – igénybe vett heti tanórai foglalkozásainak összes időtartama nem haladhatja meg a háromszáz percet.
 
 (2) Alapfokú művészeti iskolában a tanítási év átlagában, tanítási hetenként a tanuló részére kötelezően biztosított négy – előképzőben csoportos főtárgy esetén kettő – foglalkozás együttes időtartama
 
@@ -10,4 +10,4 @@ c) előképző évfolyamokban zeneművészeti ág csoportos főtárgy, valamint 
 
 (3) Ha a tanuló több alapfokú művészeti iskolával létesít tanulói jogviszonyt vagy egy alapfokú művészeti iskolában több művészeti ág, több tanszak képzésében vesz részt, a tanulónak, kiskorú tanuló esetén a szülőnek írásban nyilatkoznia kell arról, hogy melyik iskolában, melyik művészeti ágban, melyik tanszakon vesz részt térítésidíj-fizetési kötelezettség mellett a képzésben. Az intézmény vezetője köteles a szülőtől a 107. § f) pontjában előírt nyilatkozatot beszerezni.
 
-[^35]: A 18. § a 45/2014. (X. 27.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^36]: A 18. § a 45/2014. (X. 27.) EMMI rendelet 9. §-ával megállapított szöveg.
