@@ -21,3 +21,7 @@ e) a két évfolyamos részszakképesítésekre való felkészítést folytató 
 (5) A tanítási év lezárását követően az iskola – ha az iskola fenntartója, működtetője azzal egyetért és az ahhoz szükséges feltételeket biztosítja – a tanulói részére pedagógiai program végrehajtásához nem kapcsolódó foglalkozásokat szervezhet, amelyeken a részvételt a tanuló, kiskorú tanuló esetén a szülő az iskola igazgatójához benyújtott kérelemben kezdeményezheti.
 
 (6) A 2017/2018. évi átmeneti időszak téli közfoglalkoztatásával összefüggő képzési programban felnőttoktatás keretében részt vevő tanulók a 2017/2018. tanévre 2017. szeptember 1-jét követően is beiratkozhatnak.
+
+(7)[^2] Az EFOP-3.7.1-17 „Aktívan a tudásért” projektben felnőttoktatás keretében részt vevő tanulók a 2017/2018. tanévre 2017. szeptember 1-jét követően is beiratkozhatnak.
+
+[^2]: A 2. § (7) bekezdését a 24/2017. (X. 3.) EMMI rendelet 31. §-a iktatta be.
