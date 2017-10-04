@@ -6,6 +6,6 @@ b) a szaktanácsadás köréből a segítségnyújtáshoz szükséges országos 
 
 (2) Szaktanácsadó az lehet, aki az Nkt. 3. mellékletében meghatározott feltételeknek megfelel, pedagógus szakvizsgával rendelkezik, köznevelési intézményben pedagógus-munkakörben legalább tíz éves szakmai gyakorlatot szerzett és szervezetfejlesztés, pedagógiai fejlesztés, pedagógiai mérés, értékelés területén szakképzettséggel rendelkezik.
 
-(3)[^32] Az országos pedagógiai mérés-értékeléssel kapcsolatos országos pedagógiai-szakmai szolgáltatások szakmai irányítását a Hivatal látja el.
+(3)[^33] Az országos pedagógiai mérés-értékeléssel kapcsolatos országos pedagógiai-szakmai szolgáltatások szakmai irányítását a Hivatal látja el.
 
-[^32]: A 15. § (3) bekezdése a 26/2015. (V. 22.) EMMI rendelet 16. § f) pontja szerint módosított szöveg.
+[^33]: A 15. § (3) bekezdése a 26/2015. (V. 22.) EMMI rendelet 16. § f) pontja szerint módosított szöveg.

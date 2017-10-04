@@ -36,11 +36,11 @@ g) javaslatok megfogalmazása az intézmények belső önértékelésének fejle
 
 (3) A pedagógiai-szakmai szolgáltatások nyújtásában, az e rendeletben meghatározottak szerint, szaktanácsadók vehetnek részt.
 
-(4)[^55] A szaktanácsadói tevékenységet az alábbi szakterületeken kell megszervezni:
+(4)[^56] A szaktanácsadói tevékenységet az alábbi szakterületeken kell megszervezni:
 
 a) Tantárgygondozói szakterületek:
 
-aa) Óvodapedagógusi,
+aa)[^57]
 
 ab) Tanítói,
 
@@ -78,6 +78,10 @@ as) Kollégiumi,
 
 at) Iskolai könyvtári,
 
+au)[^58] Gyógypedagógia,
+
+av)[^59] Digitális szaktanácsadó,
+
 b) Nemzetiségi szakterület (a nyelv megjelölésével),
 
 c) Intézményfejlesztési szakterület,
@@ -86,12 +90,18 @@ d) Kiemelt figyelmet igénylő gyermek, tanuló nevelésének, oktatásának seg
 
 e) Konfliktuskezelési szakterület,
 
-f)[^56] Hátrányos helyzetű gyermek, tanuló nevelésének, oktatásának segítése szakterület,
+f)[^60] Hátrányos helyzetű gyermek, tanuló nevelésének, oktatásának segítése szakterület,
 
-g) Pedagógiai mérés-értékelési szakterület.
+g) Pedagógiai mérés-értékelési szakterület,
 
-(5)[^57]
+h)[^61] Óvodapedagógusi szakterület.
 
-[^55]: A 26. § (4) bekezdése a 6/2014. (I. 29.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^56]: A 26. § (4) bekezdés f) pontja a 26/2015. (V. 22.) EMMI rendelet 16. § m) pontja szerint módosított szöveg.
-[^57]: A 26. § (5) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 16. § b) pontja hatályon kívül helyezte.
+(5)[^62]
+
+[^56]: A 26. § (4) bekezdése a 6/2014. (I. 29.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^57]: A 26. § (4) bekezdés a) pont aa) alpontját a 24/2017. (X. 3.) EMMI rendelet 21. §-a hatályon kívül helyezte.
+[^58]: A 26. § (4) bekezdés a) pont au) alpontját a 24/2017. (X. 3.) EMMI rendelet 20. § (1) bekezdése iktatta be.
+[^59]: A 26. § (4) bekezdés a) pont av) alpontját a 24/2017. (X. 3.) EMMI rendelet 20. § (1) bekezdése iktatta be.
+[^60]: A 26. § (4) bekezdés f) pontja a 26/2015. (V. 22.) EMMI rendelet 16. § m) pontja szerint módosított szöveg.
+[^61]: A 26. § (4) bekezdés h) pontját a 24/2017. (X. 3.) EMMI rendelet 20. § (2) bekezdése iktatta be.
+[^62]: A 26. § (5) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 16. § b) pontja hatályon kívül helyezte.
