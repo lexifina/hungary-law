@@ -1,4 +1,4 @@
-## 4/C. [^80] A kockázatfinanszírozási támogatás
+## 4/C. [^92] A kockázatfinanszírozási támogatás
 
 8/C. § (1) A kis- és középvállalkozás pénzügyi forráshoz juttatása érdekében a pénzügyi közvetítő, illetve annak kezelője, független magánbefektető és végső kedvezményezett részére kockázatfinanszírozási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) nyújtható.
 
@@ -28,4 +28,4 @@ d) kezességvállalás, vagy
 
 e) az a)–d) pont szerinti támogatási formák kombinációja.
 
-[^80]: A 4/C. alcímet (8/C–8/G. §) a 3/2017. (III. 28.) NGM rendelet 3. §-a iktatta be.
+[^92]: A 4/C. alcímet (8/C–8/G. §) a 3/2017. (III. 28.) NGM rendelet 3. §-a iktatta be.

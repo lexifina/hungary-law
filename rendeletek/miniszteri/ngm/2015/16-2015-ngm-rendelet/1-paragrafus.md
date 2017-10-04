@@ -11,5 +11,3 @@ a) a központi költségvetésről szóló törvénynek a Nemzetgazdasági Minis
 b) a költségvetési évet megelőző évek központi költségvetéséről szóló törvényeiben az a) pont szerinti fejezetet irányító szerv vezetője (a továbbiakban: miniszter) által vezetett minisztérium költségvetési fejezetében megállapított fejezeti kezelésű előirányzatok költségvetési maradványára és
 
 c) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) alapján az a) pont szerinti költségvetési fejezetben a költségvetési év során megállapított új fejezeti kezelésű előirányzatokra
-
-[az a)–c) pont a továbbiakban együtt: előirányzatok] terjed ki.

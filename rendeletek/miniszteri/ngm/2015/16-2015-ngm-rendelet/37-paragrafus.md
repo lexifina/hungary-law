@@ -1,5 +1,3 @@
-## 20.[^86]
+## 20.[^105]
 
-37. §
-
-[^86]: A 20. alcímet (37. §) a 42/2016. (XI. 17.) NGM rendelet 15. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^105]: A 20. alcímet (37. §) a 42/2016. (XI. 17.) NGM rendelet 15. § (2) bekezdés b) pontja hatályon kívül helyezte.

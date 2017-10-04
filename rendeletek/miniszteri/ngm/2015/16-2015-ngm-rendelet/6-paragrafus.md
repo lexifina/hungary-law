@@ -26,7 +26,7 @@ f) a kutatási infrastruktúrához nyújtott beruházási támogatás esetén in
 
 g) a kis- és középvállalkozásnak nyújtott innovációs támogatás esetén vállalkozásonként és projektenként meghaladja az 5 millió eurónak megfelelő forintösszeget,
 
-h)[^62]
+h)[^74]
 
 i) az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás, jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás, energiahatékonysági intézkedéshez nyújtott beruházási támogatás és megújuló energia termeléséhez nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja a 15 millió eurónak megfelelő forintösszeget,
 
@@ -34,31 +34,31 @@ j) energetikai célú infrastruktúrához nyújtott beruházási támogatás ese
 
 k) helyi infrastruktúrára irányuló beruházási támogatás esetében: egyazon infrastruktúra esetében 10 millió euró vagy 20 millió eurót meghaladó összköltséget,
 
-l)[^63] kis- és középvállalkozásoknak nyújtott beruházási támogatás esetén vállalkozásonként és beruházási projektenként 7,5 millió eurónak megfelelő forintösszeget,
+l)[^75] kis- és középvállalkozásoknak nyújtott beruházási támogatás esetén vállalkozásonként és beruházási projektenként 7,5 millió eurónak megfelelő forintösszeget,
 
-m)[^64] az európai területi együttműködési projektekben részt vevő kis- és középvállalkozásoknál felmerült együttműködési költségekhez nyújtott támogatás esetében vállalkozásonként és projektenként 2 millió eurónak megfelelő forintösszeget,
+m)[^76] az európai területi együttműködési projektekben részt vevő kis- és középvállalkozásoknál felmerült együttműködési költségekhez nyújtott támogatás esetében vállalkozásonként és projektenként 2 millió eurónak megfelelő forintösszeget,
 
-n)[^65] eljárási és szervezési innováció támogatása esetén vállalkozásonként és projektenként 7,5 millió eurónak megfelelő forintösszeget,
+n)[^77] eljárási és szervezési innováció támogatása esetén vállalkozásonként és projektenként 7,5 millió eurónak megfelelő forintösszeget,
 
-o)[^66] hátrányos helyzetű munkavállalók felvételéhez nyújtott támogatás esetén vállalkozásonként évente 5 millió eurónak megfelelő forintösszeget,
+o)[^78] hátrányos helyzetű munkavállalók felvételéhez nyújtott támogatás esetén vállalkozásonként évente 5 millió eurónak megfelelő forintösszeget,
 
-p)[^67] a jövőbeni uniós szabványokhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás esetén vállalkozásonként és beruházási projektenként 15 millió eurónak megfelelő forintösszeget,
+p)[^79] a jövőbeni uniós szabványokhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás esetén vállalkozásonként és beruházási projektenként 15 millió eurónak megfelelő forintösszeget,
 
-q)[^68] a megújuló villamosenergia-termelésre irányuló működési támogatás és kisméretű létesítmények megújulóenergia-termelésének ösztönzésére irányuló működési támogatás esetén vállalkozásonként és projektenként 15 millió eurónak megfelelő forintösszeget,
+q)[^80] a megújuló villamosenergia-termelésre irányuló működési támogatás és kisméretű létesítmények megújulóenergia-termelésének ösztönzésére irányuló működési támogatás esetén vállalkozásonként és projektenként 15 millió eurónak megfelelő forintösszeget,
 
-r)[^69] szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás esetében vállalkozásonként és beruházási projektenként 20 millió eurónak megfelelő forintösszeget,
+r)[^81] szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás esetében vállalkozásonként és beruházási projektenként 20 millió eurónak megfelelő forintösszeget,
 
-s)[^70] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 100 millió eurónak megfelelő forintösszeget; kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja az 50 millió eurónak megfelelő forintösszeget,
+s)[^82] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 150 millió eurónak megfelelő forintösszeget; kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja az 75 millió eurónak megfelelő forintösszeget,
 
-t)[^71] sportlétesítményekre és multifunkcionális létesítményekre nyújtott beruházási támogatás esetén projektenként 15 millió euró vagy 50 millió eurót meghaladó összköltség; sportlétesítményekre nyújtott működési támogatás esetén létesítményenként évente 2 millió eurónak megfelelő forintösszeget.
+t)[^83] sportlétesítményekre és multifunkcionális létesítményekre nyújtott beruházási támogatás esetén projektenként 30 millió euró vagy 100 millió eurót meghaladó összköltség; sportlétesítményekre nyújtott működési támogatás esetén létesítményenként évente 2 millió eurónak megfelelő forintösszeget.
 
-[^62]: A 6. § h) pontját a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^63]: A 6. § l) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
-[^64]: A 6. § m) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
-[^65]: A 6. § n) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
-[^66]: A 6. § o) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
-[^67]: A 6. § p) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
-[^68]: A 6. § q) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
-[^69]: A 6. § r) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
-[^70]: A 6. § s) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
-[^71]: A 6. § t) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
+[^74]: A 6. § h) pontját a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^75]: A 6. § l) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
+[^76]: A 6. § m) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
+[^77]: A 6. § n) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
+[^78]: A 6. § o) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
+[^79]: A 6. § p) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
+[^80]: A 6. § q) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
+[^81]: A 6. § r) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be.
+[^82]: A 6. § s) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be, szövege a 28/2017. (X. 3.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^83]: A 6. § t) pontját a 42/2016. (XI. 17.) NGM rendelet 4. §-a iktatta be, szövege a 28/2017. (X. 3.) NGM rendelet 11. § c) pontja szerint módosított szöveg.

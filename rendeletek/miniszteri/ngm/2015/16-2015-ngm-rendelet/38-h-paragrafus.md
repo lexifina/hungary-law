@@ -6,7 +6,7 @@ a) megalapozott előrejelzések alapján kell meghatározni és előzetesen vagy
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-kell levonni az elszámolható költségekből.
+## kell levonni az elszámolható költségekből.
 
 (3) Működési támogatás esetén a támogatás nem haladhatja meg a keletkező működési veszteséget.
 
@@ -14,4 +14,6 @@ kell levonni az elszámolható költségekből.
 
 (5) A (3) bekezdésben meghatározottak teljesítése – a (4) bekezdéstől eltérően – visszafizetési mechanizmus alkalmazásával utólag is biztosítható.
 
-(6) Az egymillió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
+(6)[^113] A kétmillió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
+
+[^113]: A 38/H. § (6) bekezdése a 28/2017. (X. 3.) NGM rendelet 11. § j) pontja szerint módosított szöveg.

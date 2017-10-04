@@ -1,13 +1,7 @@
-## 6. Az európai együttműködési projektekben részt vevő kkv-knál felmerült együttműködési költségekhez nyújtott támogatás
+## 6. [^97] A kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás
 
-10. § (1) Kkv-k részére európai területi együttműködési projektekkel kapcsolatos együttműködési költségeikhez nyújtott támogatás támogatási intenzitása nem haladhatja meg az elszámolható költségek 50%-át.
+10. § (1) A kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
-(2) A támogatás elszámolható költségei:
+(2) A támogatás keretében a külső szakértő által nyújtott tanácsadási szolgáltatás költsége számolható el, azzal, hogy az érintett szolgáltatás nem lehet folyamatos vagy időszakosan visszatérő tevékenység, és nem kapcsolódhat a vállalkozás szokásos működési költségeihez, így különösen folyamatos adótanácsadáshoz, rendszeres jogi szolgáltatáshoz vagy hirdetéshez.
 
-a) a szervezeti együttműködés költségei, ideértve a személyzeti és irodaköltségeket, olyan mértékben, amennyiben azok az együttműködési projekthez kapcsolódnak;
-
-b) külső tanácsadók és szolgáltatók által nyújtott, az együttműködéshez kapcsolódó tanácsadási és támogató szolgáltatások költségei;
-
-c) a projekthez közvetlenül kapcsolódó útiköltség, a berendezések költségei és beruházási kiadások, valamint kizárólag a projekt céljaira való használatuk mértékéig az eszközök és berendezések értékcsökkenése.
-
-(3) A (2) bekezdés b) pontjában meghatározott szolgáltatás nem lehet folyamatos vagy időszakosan visszatérő tevékenység, és nem kapcsolódhat a vállalkozás szokásos működési költségeihez, úgymint rendszeres adótanácsadáshoz, rendszeres jogi szolgáltatáshoz vagy folyamatos hirdetéshez.
+[^97]: A 6. alcím (10. §) a 28/2017. (X. 3.) NGM rendelet 4. §-ával megállapított szöveg.

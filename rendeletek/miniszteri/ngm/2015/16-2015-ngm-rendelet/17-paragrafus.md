@@ -4,7 +4,7 @@ a) az alkalmazandó uniós szabvány túlteljesítéséhez közvetlenül kapcsol
 
 b) uniós szabvány hiányában a környezetvédelem szintjének emeléséhez közvetlenül kapcsolódó beruházási költség
 
-számolható el.
+## számolható el.
 
 (2) Ha a környezetvédelmi beruházáshoz kapcsolódó költség a beruházás összköltségén belül külön beruházásként meghatározható, ezen beruházás költsége számolható el.
 

@@ -1,4 +1,4 @@
-## 19/A. [^85] A 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás
+## 19/A. [^104] A 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás
 
 36/A. § (1) A 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) kis- és középvállalkozás induló beruházásához nyújtható.
 
@@ -12,10 +12,10 @@ b) a közvetlenül a beruházási projekt által létrehozott munkahelyek két �
 
 c) – ha a kapott összeg nem haladja meg az a) és b) pont szerinti összeg közül a magasabbat, akkor – az a) és b) pontban szereplő költségtípusok kombinációja
 
-számolható el.
+## számolható el.
 
 (4) A támogatás a 31. § (2), (3) és (5) bekezdése, (6) bekezdés a)–d) pontja, (7) bekezdés a)–d) pontja, (8) bekezdés a)–c) pontja, valamint (9) bekezdése szerinti feltételekkel nyújtható.
 
 (5) A (3) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha a kis- és középvállalkozás a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább három évig fenntartja.
 
-[^85]: A 19/A. alcímet (36/A. §) a 42/2016. (XI. 17.) NGM rendelet 10. §-a iktatta be.
+[^104]: A 19/A. alcímet (36/A. §) a 42/2016. (XI. 17.) NGM rendelet 10. §-a iktatta be.

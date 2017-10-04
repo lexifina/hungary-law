@@ -1,4 +1,6 @@
-## 27. [^94] A hátrányos helyzetű munkavállaló felvételéhez bértámogatás formájában nyújtott támogatás
+## 40/D. §
+
+## 27. [^118] A hátrányos helyzetű munkavállaló felvételéhez bértámogatás formájában nyújtott támogatás
 
 40/E. § (1) A hátrányos helyzetű munkavállaló felvételéhez bértámogatás formájában nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
@@ -12,4 +14,4 @@
 
 (6) A hátrányos helyzetű munkavállaló az alkalmazandó nemzeti jogszabályoknak, a munkaszerződésnek vagy a vállalkozásra nézve kötelező kollektív szerződésnek megfelelő minimális időtartamon keresztül folyamatos foglalkoztatásra jogosult.
 
-[^94]: A 27. alcímet (40/E. §) a 42/2016. (XI. 17.) NGM rendelet 12. §-a iktatta be.
+[^118]: A 27. alcímet (40/E. §) a 42/2016. (XI. 17.) NGM rendelet 12. §-a iktatta be.

@@ -1,3 +1,5 @@
+## 37. §
+
 ## 21. A közszolgáltatásért járó ellentételezés
 
 38. § (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett részére nyújtható.
@@ -9,3 +11,7 @@
 (4) Ha a kedvezményezett a 2012/21/EU bizottsági határozat 5. cikkének megfelelően meghatározott összeget meghaladó támogatásban részesül, köteles a túlkompenzációt visszafizetni. Ha a túlkompenzáció összege nem haladja meg az átlagos éves ellentételezés összegének 10%-át, a túlkompenzáció átvihető a következő időszakra, és levonható az arra az időszakra fizetendő támogatás összegéből.
 
 (5) A kedvezményezett a támogatásról olyan elkülönített elszámolást köteles vezetni, amelyből a (2)–(4) bekezdésben meghatározott követelmények ellenőrizhetőek.
+
+(6)[^106] A 2012/21/EU bizottsági határozat alapján támogatás kizárólag a támogatható tevékenység tekintetében megbízási aktussal rendelkező kedvezményezett részére nyújtható.
+
+[^106]: A 38. § (6) bekezdését a 28/2017. (X. 3.) NGM rendelet 7. §-a iktatta be.

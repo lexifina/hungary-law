@@ -12,6 +12,8 @@
 
 4. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom;
 
+4a.[^27] áttelepítés: az azonos vagy hasonló tevékenységnek vagy egy részének a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által az EGT megállapodásban részes egyik szerződő fél területén található létesítményből (eredeti létesítmény) az EGT megállapodásban részes másik szerződő fél területén található azon létesítménybe történő áthelyezése, ahol a támogatott beruházásra sor kerül (támogatott létesítmény), azzal, hogy az áttelepítés akkor valósul meg, ha az eredeti és a támogatott létesítményben előállított termék vagy nyújtott szolgáltatás legalább részben ugyanazokat a célokat szolgálja, és ugyanazon fogyasztói típus keresletét vagy igényeit elégíti ki, valamint a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó valamely az EGT-n belüli eredeti létesítményében folytatott azonos vagy hasonló tevékenység körében munkahelyek szűnnek meg.
+
 5. azonos vagy hasonló tevékenység: a 651/2014/EU bizottsági rendelet 2. cikk 50. pontja szerinti tevékenység;
 
 6. belső energiapiaci szabályozás: a 651/2014/EU bizottsági rendelet 2. cikk 131. pontja szerinti szabályok;
@@ -24,13 +26,11 @@
 
 10. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás;
 
-11. együttműködéshez kötődő tanácsadás: a 651/2014/EU bizottsági rendelet 2. cikk 64. pontja szerinti tanácsadás;
-
-12. együttműködéshez kötődő támogató szolgáltatások: a 651/2014/EU bizottsági rendelet 2. cikk 65. pontja szerinti szolgáltatások;
+11–12.[^28]
 
 13. élelmiszeralapú bioüzemanyag: a 651/2014/EU bizottsági rendelet 2. cikk 113. pontja szerinti üzemanyag;
 
-13a.[^20] eljárási innováció: a 651/2014/EU bizottsági rendelet 2. cikk 97. pontja szerinti innováció;
+13a.[^29] eljárási innováció: a 651/2014/EU bizottsági rendelet 2. cikk 97. pontja szerinti innováció;
 
 14. elsődleges mezőgazdasági termelés: az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) I. mellékletében felsorolt növények vagy állati eredetű termék előállítása, ide nem értve bármely, azok lényegi tulajdonságát megváltoztató tevékenységet;
 
@@ -40,29 +40,29 @@
 
 17. energiahatékonyság: a 651/2014/EU bizottsági rendelet 2. cikk 103. pontja szerint megtakarított energiamennyiség;
 
-17a.[^21] energiahatékonysági alap: a 651/2014/EU bizottsági rendelet 2. cikk 105. pontja szerinti alap,
+17a.[^30] energiahatékonysági alap: a 651/2014/EU bizottsági rendelet 2. cikk 105. pontja szerinti alap,
 
-17b.[^22] energiahatékonysági alap kezelője: a 651/2014/EU bizottsági rendelet 2. cikk 106. pontja szerinti személy,
+17b.[^31] energiahatékonysági alap kezelője: a 651/2014/EU bizottsági rendelet 2. cikk 106. pontja szerinti személy,
 
 18. ésszerű nyereség: az ágazatban jellemzően elérhető nyereség vagy olyan mértékű nyereség, amely esetében a tőkemegtérülési ráta nem haladja meg a releváns swapkamatláb 100 bázisponttal növelt összegét;
 
 19. fenntartható bioüzemanyag: a 651/2014/EU bizottsági rendelet 2. cikk 112. pontja szerinti üzemanyag;
 
-19a.[^23] fiatal mezőgazdasági termelő: a 702/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti termelő;
+19a.[^32] fiatal mezőgazdasági termelő: a 702/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti termelő;
 
 20. foglalkoztatottak számának nettó növekedése: a 651/2014/EU bizottsági rendelet 2. cikk 32. pontja szerinti növekedés;
 
 21. független harmadik fél: olyan vállalkozás, amely nem minősül egy másik meghatározott vállalkozás vonatkozásában a 651/2014/EU bizottsági rendelet I. melléklet 3. cikk (2) bekezdése szerinti partnervállalkozásnak vagy (3) bekezdése szerinti kapcsolt vállalkozásnak;
 
-21a.[^24] független magánbefektető: olyan magánbefektető, aki a befektetés tárgyát képező kis- és középvállalkozásnak nem részvényese, különösen a tulajdonosi szerkezettől függetlenül az üzleti angyal és a pénzügyi közvetítő, ha az teljes mértékben viseli befektetése kockázatát,
+21a.[^33] független magánbefektető: olyan magánbefektető, aki a befektetés tárgyát képező kis- és középvállalkozásnak nem részvényese, különösen a tulajdonosi szerkezettől függetlenül az üzleti angyal és a pénzügyi közvetítő, ha az teljes mértékben viseli befektetése kockázatát,
 
-21b.[^25] hátrányos helyzetű munkavállaló: 651/2014/EU bizottsági rendelet 2. cikk 4. pontja szerinti munkavállaló,
+21b.[^34] hátrányos helyzetű munkavállaló: 651/2014/EU bizottsági rendelet 2. cikk 4. pontja szerinti munkavállaló,
 
-21c.[^26] hitel: olyan megállapodás, amelyben a hitelező kötelezi magát, hogy meghatározott pénzösszeget meghatározott időre a hitelfelvevő rendelkezésére bocsát, és amely a hitelfelvevőt arra kötelezi, hogy meghatározott időszakon belül visszafizesse az összeget, különösen kölcsön vagy egyéb finanszírozási eszköz, ideértve a lízinget is, amely a hitelező számára elsődlegesen minimumhozamot nyújt azzal, hogy már meglévő hitel kiváltása nem finanszírozható,
+21c.[^35] hitel: olyan megállapodás, amelyben a hitelező kötelezi magát, hogy meghatározott pénzösszeget meghatározott időre a hitelfelvevő rendelkezésére bocsát, és amely a hitelfelvevőt arra kötelezi, hogy meghatározott időszakon belül visszafizesse az összeget, különösen kölcsön vagy egyéb finanszírozási eszköz, ideértve a lízinget is, amely a hitelező számára elsődlegesen minimumhozamot nyújt azzal, hogy már meglévő hitel kiváltása nem finanszírozható,
 
-21d.[^27] hivatásos csapat: olyan sportvállalkozás, amely hivatásos sportolót alkalmaz;
+21d.[^36] hivatásos csapat: olyan sportvállalkozás, amely hivatásos sportolót alkalmaz;
 
-21e.[^28] hivatásos sportoló: olyan sportoló, aki jövedelemszerzési céllal, foglalkoztatásszerűen vagy más módon, ellenszolgáltatás fejében folytat sporttevékenységet,
+21e.[^37] hivatásos sportoló: olyan sportoló, aki jövedelemszerzési céllal, foglalkoztatásszerűen vagy más módon, ellenszolgáltatás fejében folytat sporttevékenységet,
 
 22. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak;
 
@@ -82,13 +82,13 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 28. ipari kutatás: a 651/2014/EU bizottsági rendelet 2. cikk 85. pontja szerinti tervezett kutatás vagy kritikus vizsgálat;
 
-28a.[^29] kezességvállalás: a 651/2014/EU bizottsági rendelet 2. cikk 67. pontja szerinti kötelezettségvállalás,
+28a.[^38] kezességvállalás: a 651/2014/EU bizottsági rendelet 2. cikk 67. pontja szerinti kötelezettségvállalás,
 
-28b.[^30] kezességvállalási mérték: a 651/2014/EU bizottsági rendelet 2. cikk 68. pontja szerinti mérték,
+28b.[^39] kezességvállalási mérték: a 651/2014/EU bizottsági rendelet 2. cikk 68. pontja szerinti mérték,
 
-28c.[^31] kiegészítő befektetés: a 651/2014/EU bizottsági rendelet 2. cikk 77. pontja szerinti befektetés,
+28c.[^40] kiegészítő befektetés: a 651/2014/EU bizottsági rendelet 2. cikk 77. pontja szerinti befektetés,
 
-28d.[^32] kilépési stratégia: adott részesedésre vonatkozó tulajdonviszony pénzügyi közvetítő vagy befektető általi megszüntetésére vonatkozó terv, különösen kereskedelmi értékesítés, leírás, részvények, kölcsönök visszafizetése, más pénzügyi közvetítő vagy egyéb befektető részére történő eladás, pénzügyi intézmény részére történő eladás, valamint nyilvános forgalomba hozatallal történő értékesítés,
+28d.[^41] kilépési stratégia: adott részesedésre vonatkozó tulajdonviszony pénzügyi közvetítő vagy befektető általi megszüntetésére vonatkozó terv, különösen kereskedelmi értékesítés, leírás, részvények, kölcsönök visszafizetése, más pénzügyi közvetítő vagy egyéb befektető részére történő eladás, pénzügyi intézmény részére történő eladás, valamint nyilvános forgalomba hozatallal történő értékesítés,
 
 29. kirendelés: a 651/2014/EU bizottsági rendelet 2. cikk 98. pontja szerinti alkalmazás;
 
@@ -96,15 +96,15 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 31. kísérleti fejlesztés: a 651/2014/EU bizottsági rendelet 2. cikk 86. pontja szerinti fejlesztés;
 
-31a.[^33] kiváltási tőke: a 651/2014/EU bizottsági rendelet 2. cikk 78. pontja szerinti tőke,
+31a.[^42] kiváltási tőke: a 651/2014/EU bizottsági rendelet 2. cikk 78. pontja szerinti tőke,
 
-31b.[^34] kockázatfinanszírozási célú befektetés: a végső kedvezményezett kis- és középvállalkozásnak nyújtott sajáttőke- és kvázisajáttőke-befektetés, hitel, kezességvállalás, illetve ezek kombinációja,
+31b.[^43] kockázatfinanszírozási célú befektetés: a végső kedvezményezett kis- és középvállalkozásnak nyújtott sajáttőke- és kvázisajáttőke-befektetés, hitel, kezességvállalás, illetve ezek kombinációja,
 
 32. környezetvédelem: a 651/2014/EU bizottsági rendelet 2. cikk 101. pontja szerinti tevékenység;
 
-33.[^35]
+33.[^44]
 
-34.[^36]
+34.[^45]
 
 35. közvetlenül a beruházási projekt által létrehozott munkahely: a 651/2014/EU bizottsági rendelet 2. cikk 62. pontja szerinti munkahely;
 
@@ -112,7 +112,7 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 37. kutatási infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 91. pontja szerinti infrastruktúra;
 
-37a.[^37] kvázisajáttőke-befektetés: a saját tőke és a hitelfinanszírozás közé besorolt finanszírozási forma, amely az elsőhelyi hitelnél magasabb, de a törzsrészvénynél alacsonyabb kockázattal jár és a nemfizetéssel szemben nincs biztosítva, valamint amelynek hozama a tulajdonos számára elsősorban a célvállalkozás nyereségétől vagy veszteségétől függ, különösen a biztosíték nélküli és alárendelt kölcsöntőke, ideértve a mezzanin tőkét is, a tőkévé alakítható adósság vagy elsőbbségi tőke,
+37a.[^46] kvázisajáttőke-befektetés: a saját tőke és a hitelfinanszírozás közé besorolt finanszírozási forma, amely az elsőhelyi hitelnél magasabb, de a törzsrészvénynél alacsonyabb kockázattal jár és a nemfizetéssel szemben nincs biztosítva, valamint amelynek hozama a tulajdonos számára elsősorban a célvállalkozás nyereségétől vagy veszteségétől függ, különösen a biztosíték nélküli és alárendelt kölcsöntőke, ideértve a mezzanin tőkét is, a tőkévé alakítható adósság vagy elsőbbségi tőke,
 
 38. létesítmény: funkcionálisan megbonthatatlan egészet képező termelő vagy szolgáltató egység;
 
@@ -126,7 +126,9 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 43. megvalósíthatósági tanulmány: a 651/2014/EU bizottsági rendelet 2. cikk 87. pontja szerinti tanulmány;
 
-43a.[^38] mezőgazdasági ágazat: a mezőgazdasági termékek elsődleges termelésével, feldolgozásával és forgalmazásával foglalkozó vállalkozások összessége,
+43a.[^47] megváltozott munkaképességű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 3. pontja szerinti munkavállaló;
+
+43b.[^48] mezőgazdasági ágazat: a mezőgazdasági termékek elsődleges termelésével, feldolgozásával és forgalmazásával foglalkozó vállalkozások összessége;
 
 44. mezőgazdasági termék: a 651/2014/EU bizottsági rendelet 2. cikk 11. pontja szerinti termék;
 
@@ -134,9 +136,9 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 46. mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti tevékenység;
 
-46a.[^39]
+46a.[^49]
 
-47. működési eredmény: a beruházásnak a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételek és diszkontált működési költségek közötti pozitív előjelű különbség;
+47.[^50] működési eredmény: a beruházásnak a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételek és diszkontált működési költségek közötti pozitív előjelű különbség és a bevételek és működési költségek megfelelő leszámítolási kamatláb használatával történő diszkontálása lehetővé teszi az ésszerű nyereség elérését;
 
 48. nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget;
 
@@ -146,15 +148,15 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 51. összeszámítási szabály: a nagyberuházás elszámolható költségeinek kiszámításakor egyetlen beruházásnak kell tekinteni az igénybejelentésben szereplő beruházást és az igénybejelentő beruházó, valamint az igénybejelentő beruházótól független harmadik félnek nem minősülő beruházó vagy beruházók által háromszor háromszázhatvanöt napos időszakon belül az igénybejelentésben szereplő beruházással azonos megyében megkezdett, állami támogatásban részesülő beruházást vagy beruházásokat;
 
-51a.[^40] pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
+51a.[^51] pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
 
 52. reklámozási tevékenység: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontja szerinti tájékoztatás;
 
 53. saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást nem tartalmazó forrás;
 
-53a.[^41] sajáttőke-befektetés: közvetlen vagy pénzügyi közvetítőn keresztül történő közvetett tőkejuttatás egy vállalkozás számára a vállalkozásban a megfelelő arányú részesedés megszerzése ellenében,
+53a.[^52] sajáttőke-befektetés: közvetlen vagy pénzügyi közvetítőn keresztül történő közvetett tőkejuttatás egy vállalkozás számára a vállalkozásban a megfelelő arányú részesedés megszerzése ellenében,
 
-53b.[^42] súlyosan hátrányos helyzetű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 99. pontja szerinti munkavállaló,
+53b.[^53] súlyosan hátrányos helyzetű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 99. pontja szerinti munkavállaló,
 
 54. személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás;
 
@@ -164,17 +166,17 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 57. szervezeti együttműködés: a 651/2014/EU bizottsági rendelet 2. cikk 63. pontja szerinti együttműködés;
 
-57a.[^43] szervezési innováció: a 651/2014/EU bizottsági rendelet 2. cikk 96. pontja szerinti innováció;
+57a.[^54] szervezési innováció: a 651/2014/EU bizottsági rendelet 2. cikk 96. pontja szerinti innováció;
 
 58. szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A. és B. csoportba sorolt szén kitermelésével kapcsolatos tevékenység;
 
-58a.[^44] szennyezett terület: a 651/2014/EU bizottsági rendelet 2. cikk 121. pontja szerinti terület;
+58a.[^55] szennyezett terület: a 651/2014/EU bizottsági rendelet 2. cikk 121. pontja szerinti terület;
 
-58b.[^45] szennyezés: a 651/2014/EU bizottsági rendelet 2. cikk 123. pontja szerinti tevékenység vagy mulasztás;
+58b.[^56] szennyezés: a 651/2014/EU bizottsági rendelet 2. cikk 123. pontja szerinti tevékenység vagy mulasztás;
 
-58c.[^46] szennyező fizet elve: a 651/2014/EU bizottsági rendelet 2. cikk 122. pontja szerinti elv;
+58c.[^57] szennyező fizet elve: a 651/2014/EU bizottsági rendelet 2. cikk 122. pontja szerinti elv;
 
-58d.[^47] szennyező: a 651/2014/EU bizottsági rendelet 2. cikk 125. pontja szerinti személy;
+58d.[^58] szennyező: a 651/2014/EU bizottsági rendelet 2. cikk 125. pontja szerinti személy;
 
 59. szinten tartást szolgáló eszköz: olyan eszköz, amely a kedvezményezett által már használt tárgyi eszközt, immateriális javakat váltja ki anélkül, hogy a kiváltás az előállított termék, a nyújtott szolgáltatás, a termelési, illetve a szolgáltatási folyamat alapvető változását vagy bővülését eredményezné;
 
@@ -188,13 +190,13 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 64. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom;
 
-64a.[^48]
+64a.[^59]
 
 65. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz;
 
 66. termelői csoport: a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet szerint működő, elismert szövetkezet vagy korlátolt felelősségű társaság;
 
-66a.[^49] tőkejuttatás: a 651/2014/EU bizottsági rendelet 2. cikk 70. pontja szerinti juttatás,
+66a.[^60] tőkejuttatás: a 651/2014/EU bizottsági rendelet 2. cikk 70. pontja szerinti juttatás,
 
 67. tőzsdén nem jegyzett kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 76. pontja szerinti kis- és középvállalkozás;
 
@@ -202,7 +204,7 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 69. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány;
 
-70.[^50] végső kedvezményezett: az az első kockázatfinanszírozási célú befektetés időpontjában tőzsdén nem jegyzett kis- és középvállalkozás, amely megfelel az alábbi feltételek legalább egyikének:
+70.[^61] végső kedvezményezett: az az első kockázatfinanszírozási célú befektetés időpontjában tőzsdén nem jegyzett kis- és középvállalkozás, amely megfelel az alábbi feltételek legalább egyikének:
 
 a) még egyetlen piacon sem működik,
 
@@ -210,7 +212,7 @@ b) az első kereskedelmi értékesítéstől számítva kevesebb, mint 7 éve m�
 
 c) új termék- vagy földrajzi piacra való belépés céljából készített üzleti terv alapján az előző 5 évben elért átlagos éves árbevétele 50%-át meghaladó első kockázatfinanszírozási célú befektetést igényel.
 
-(3)[^51] Az 1. mellékletében foglalt táblázat 8a. sora alkalmazásában:
+(3)[^62] Az 1. mellékletében foglalt táblázat 8a. sora alkalmazásában:
 
 1. az árvízzel kapcsolatos belvíz által veszélyeztetett terület: az a terület, amelyet a felgyülemlett víz által felszíni elöntés veszélyeztethet;
 
@@ -220,35 +222,39 @@ c) új termék- vagy földrajzi piacra való belépés céljából készített �
 
 4. mentesített ártér: a folyók és egyéb vízfolyások melletti olyan területek (völgyek), amelyek védelmére elsőrendű árvízvédelmi műnek minősített árvízvédelmi töltés épült.
 
-[^20]: A 4. § (2) bekezdés 13a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (1) bekezdése iktatta be.
-[^21]: A 4. § (2) bekezdés 17a. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (1) bekezdése iktatta be.
-[^22]: A 4. § (2) bekezdés 17b. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (1) bekezdése iktatta be.
-[^23]: A 4. § (2) bekezdés 19a. pontját a 30/2015. (XI. 19.) NGM rendelet 3. § (1) bekezdése iktatta be.
-[^24]: A 4. § (2) bekezdés 21a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (2) bekezdése iktatta be, szövege a 3/2017. (III. 28.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^25]: A 4. § (2) bekezdés 21b. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (2) bekezdése iktatta be, szövege a 3/2017. (III. 28.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^26]: A 4. § (2) bekezdés 21c. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (2) bekezdése iktatta be, szövege a 3/2017. (III. 28.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^27]: A 4. § (2) bekezdés 21d. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (3) bekezdése iktatta be.
-[^28]: A 4. § (2) bekezdés 21e. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (3) bekezdése iktatta be.
-[^29]: A 4. § (2) bekezdés 28a. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (4) bekezdése iktatta be.
-[^30]: A 4. § (2) bekezdés 28b. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (4) bekezdése iktatta be.
-[^31]: A 4. § (2) bekezdés 28c. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (4) bekezdése iktatta be.
-[^32]: A 4. § (2) bekezdés 28d. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (4) bekezdése iktatta be.
-[^33]: A 4. § (2) bekezdés 31a. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (5) bekezdése iktatta be.
-[^34]: A 4. § (2) bekezdés 31b. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (5) bekezdése iktatta be.
-[^35]: A 4. § (2) bekezdés 33. pontját a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^36]: A 4. § (2) bekezdés 34. pontját a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^37]: A 4. § (2) bekezdés 37a. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (6) bekezdése iktatta be.
-[^38]: A 4. § (2) bekezdés 43a. pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (1) bekezdése iktatta be.
-[^39]: A 4. § (2) bekezdés 46a. pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
-[^40]: A 4. § (2) bekezdés 51a. pontját újonnan a 3/2017. (III. 28.) NGM rendelet 2. § (7) bekezdése iktatta be.
-[^41]: A 4. § (2) bekezdés 53a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (3) bekezdése iktatta be, szövege a 3/2017. (III. 28.) NGM rendelet 2. § (8) bekezdésével megállapított szöveg.
-[^42]: A 4. § (2) bekezdés 53b. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (9) bekezdése iktatta be.
-[^43]: A 4. § (2) bekezdés 57a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (4) bekezdése iktatta be.
-[^44]: A 4. § (2) bekezdés 58a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
-[^45]: A 4. § (2) bekezdés 58b. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
-[^46]: A 4. § (2) bekezdés 58c. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
-[^47]: A 4. § (2) bekezdés 58d. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
-[^48]: A 4. § (2) bekezdés 64a. pontját a 30/2015. (XI. 19.) NGM rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
-[^49]: A 4. § (2) bekezdés 66a. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (10) bekezdése iktatta be.
-[^50]: A 4. § (2) bekezdés 70. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (11) bekezdése iktatta be.
-[^51]: A 4. § (3) bekezdését a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 67/2016. (XII. 30.) NGM rendelet 3. §-a iktatta be.
+[^27]: A 4. § (2) bekezdés 4a. pontját a 28/2017. (X. 3.) NGM rendelet 2. § (1) bekezdése iktatta be.
+[^28]: A 4. § 11–12. pontját a 28/2017. (X. 3.) NGM rendelet 12. §-a hatályon kívül helyezte.
+[^29]: A 4. § (2) bekezdés 13a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (1) bekezdése iktatta be.
+[^30]: A 4. § (2) bekezdés 17a. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (1) bekezdése iktatta be.
+[^31]: A 4. § (2) bekezdés 17b. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (1) bekezdése iktatta be.
+[^32]: A 4. § (2) bekezdés 19a. pontját a 30/2015. (XI. 19.) NGM rendelet 3. § (1) bekezdése iktatta be.
+[^33]: A 4. § (2) bekezdés 21a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (2) bekezdése iktatta be, szövege a 3/2017. (III. 28.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^34]: A 4. § (2) bekezdés 21b. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (2) bekezdése iktatta be, szövege a 3/2017. (III. 28.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^35]: A 4. § (2) bekezdés 21c. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (2) bekezdése iktatta be, szövege a 3/2017. (III. 28.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^36]: A 4. § (2) bekezdés 21d. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (3) bekezdése iktatta be.
+[^37]: A 4. § (2) bekezdés 21e. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (3) bekezdése iktatta be.
+[^38]: A 4. § (2) bekezdés 28a. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^39]: A 4. § (2) bekezdés 28b. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^40]: A 4. § (2) bekezdés 28c. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^41]: A 4. § (2) bekezdés 28d. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^42]: A 4. § (2) bekezdés 31a. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (5) bekezdése iktatta be.
+[^43]: A 4. § (2) bekezdés 31b. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (5) bekezdése iktatta be.
+[^44]: A 4. § (2) bekezdés 33. pontját a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^45]: A 4. § (2) bekezdés 34. pontját a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^46]: A 4. § (2) bekezdés 37a. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (6) bekezdése iktatta be.
+[^47]: A 4. § (2) bekezdés 43a. pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (1) bekezdése iktatta be, szövege a 28/2017. (X. 3.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^48]: A 4. § (2) bekezdés 43b. pontját a 28/2017. (X. 3.) NGM rendelet 2. § (3) bekezdése iktatta be.
+[^49]: A 4. § (2) bekezdés 46a. pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
+[^50]: A 4. § (2) bekezdés 47. pontja a 28/2017. (X. 3.) NGM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^51]: A 4. § (2) bekezdés 51a. pontját újonnan a 3/2017. (III. 28.) NGM rendelet 2. § (7) bekezdése iktatta be.
+[^52]: A 4. § (2) bekezdés 53a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (3) bekezdése iktatta be, szövege a 3/2017. (III. 28.) NGM rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^53]: A 4. § (2) bekezdés 53b. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (9) bekezdése iktatta be.
+[^54]: A 4. § (2) bekezdés 57a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^55]: A 4. § (2) bekezdés 58a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
+[^56]: A 4. § (2) bekezdés 58b. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
+[^57]: A 4. § (2) bekezdés 58c. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
+[^58]: A 4. § (2) bekezdés 58d. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
+[^59]: A 4. § (2) bekezdés 64a. pontját a 30/2015. (XI. 19.) NGM rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
+[^60]: A 4. § (2) bekezdés 66a. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (10) bekezdése iktatta be.
+[^61]: A 4. § (2) bekezdés 70. pontját a 3/2017. (III. 28.) NGM rendelet 2. § (11) bekezdése iktatta be.
+[^62]: A 4. § (3) bekezdését a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 67/2016. (XII. 30.) NGM rendelet 3. §-a iktatta be.
