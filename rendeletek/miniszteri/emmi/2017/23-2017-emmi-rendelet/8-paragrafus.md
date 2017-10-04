@@ -1,0 +1,1 @@
+## „(6) A II. fejezet 6–8. címeiben szabályozott, az elszámolást, az ellenőrzést, az Alap támogatásaiból történő kizárást érintő eljárásokban az a kollégium a döntéshozó, amelyhez a pályázatot benyújtották.”
