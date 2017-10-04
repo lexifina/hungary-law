@@ -92,6 +92,15 @@ szakvizsga,
 
 13. székhelyintézmény: az Intézmény szakmai irányítást és koordinálást végző, valamint megyei, fővárosi működési körzettel szakértői bizottsági feladatokat is ellátó feladatellátási helye, ahol az Intézmény képviseleti jogának gyakorlására jogosult vezető munkahelye található,
 
-14. tagintézmény: az Nkt. 4. § 28. pontja szerinti intézményegység.
+14. tagintézmény: az Nkt. 4. § 28. pontja szerinti intézményegység,
+
+15.[^2] neuropszichológiai szakvizsga:
+
+a) neuropszichológia,
+
+b) neuroszakpszichológia
+
+szakvizsga.
 
 [^1]: Az 1. § az 53/2016. (XII. 29.) EMMI rendelet 20. §-ával megállapított szöveg.
+[^2]: Az 1. § 15. pontját a 24/2017. (X. 3.) EMMI rendelet 24. §-a iktatta be.

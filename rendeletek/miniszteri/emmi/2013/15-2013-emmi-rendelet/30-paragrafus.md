@@ -1,6 +1,6 @@
 ## 12. A kiemelten tehetséges gyermekek, tanulók gondozása
 
-30. § (1)[^75] Az Nkt. 18. § (2) bekezdés i) pontja szerinti, a kiemelten tehetséges gyermekek, tanulók gondozása keretében az Intézmény feladata:
+30. § (1)[^77] Az Nkt. 18. § (2) bekezdés i) pontja szerinti, a kiemelten tehetséges gyermekek, tanulók gondozása keretében az Intézmény feladata:
 
 a) korai tehetség-felismerés, tehetségazonosítás, amelynek során a tehetség életkori megjelenését figyelembe kell venni,
 
@@ -34,7 +34,7 @@ c) ismeri, figyelemmel kíséri a Nemzeti Tehetségügyi Adatbázist,
 
 d) ismeri, figyelemmel kíséri a Nemzeti Tehetség Program pályázati kiírásait,
 
-e)[^76] kapcsolatot tart a Nemzeti Tehetségfejlesztési Központtal.
+e)[^78] kapcsolatot tart a Nemzeti Tehetségfejlesztési Központtal.
 
-[^75]: A 30. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 20. pontja szerint módosított szöveg.
-[^76]: A 30. § (2) bekezdés e) pontja a 45/2016. (XII. 28.) EMMI rendelet 8. §-a szerint módosított szöveg.
+[^77]: A 30. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 20. pontja szerint módosított szöveg.
+[^78]: A 30. § (2) bekezdés e) pontja a 45/2016. (XII. 28.) EMMI rendelet 8. §-a szerint módosított szöveg.

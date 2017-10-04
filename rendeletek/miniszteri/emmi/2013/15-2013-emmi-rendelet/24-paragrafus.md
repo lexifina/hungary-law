@@ -1,8 +1,8 @@
 ## 6. A nevelési tanácsadás
 
-24. § (1)[^59] Az Nkt. 18. § (2) bekezdés c) pontja szerinti nevelési tanácsadás feladata:
+24. § (1)[^61] Az Nkt. 18. § (2) bekezdés c) pontja szerinti nevelési tanácsadás feladata:
 
-a)[^60] a szülővel az első problémafeltáró beszélgetés lebonyolítása, a gyermek, a tanuló adaptív viselkedésének, szociális érettségének felmérése, ennek eredményeképpen tanácsadásban részesítés vagy a szakszolgálati ellátásba vétel szükségességének meghatározása,
+a)[^62] a szülővel az első problémafeltáró beszélgetés lebonyolítása, a gyermek, a tanuló adaptív viselkedésének, szociális érettségének felmérése, ennek eredményeképpen tanácsadásban részesítés vagy a szakszolgálati ellátásba vétel szükségességének meghatározása,
 
 b) az Intézmény nevelési tanácsadás feladatának keretében ellátásban részesülők esetében segítség nyújtása a gyermek családi-, és óvodai neveléséhez, a tanuló iskolai neveléséhez és oktatásához, ha a gyermek, tanuló egyéni adottsága, fejlettsége, képessége, tehetsége, fejlődésének üteme indokolja,
 
@@ -26,5 +26,5 @@ c) a gyermek, a tanuló fejlesztése során az állapotára irányuló változá
 
 d) pszichológiai, gyógypedagógiai, pedagógiai tanácsadást biztosít, és konzultációs lehetőséget nyújt a gyermekek, a tanulók szülei, pedagógusai részére.
 
-[^59]: A 24. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 14. pontja szerint módosított szöveg.
-[^60]: A 24. § (1) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 14. §-ával megállapított szöveg.
+[^61]: A 24. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 14. pontja szerint módosított szöveg.
+[^62]: A 24. § (1) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 14. §-ával megállapított szöveg.
