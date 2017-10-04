@@ -8,7 +8,7 @@
 
 3. civil delegált: a Civil tv. 2. § 5. pontja szerinti személy;
 
-4. döntéshozó: a Civil tv. 56. § (2) bekezdés a) és b) pontja szerinti támogatások vonatkozásában a kollégium, a Civil tv. 56. § (2) bekezdés c) pontja szerinti támogatások tekintetében a miniszter;
+4.[^2] döntéshozó: a Civil tv. 56. § (1) bekezdés b)–g), i) és j) pontja szerinti támogatások vonatkozásában a kollégium, a Civil tv. 56. § (2) bekezdés c) pontja szerinti támogatások tekintetében a miniszter;
 
 5. együttesen benyújtott támogatási igény: egy Magyarországon nyilvántartásba vett (főpályázó) és egy határon túli (társpályázó) civil szervezet által, a Civil tv. 56. § (4) bekezdése alapján benyújtott támogatási igény;
 
@@ -32,21 +32,21 @@
 
 15. miniszter: a Civil tv. alapján az Alap felügyeletét ellátó társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter;
 
-16.[^2] működési támogatás: a Civil tv. 56. § (1) bekezdés b) pontja szerinti támogatás;
+16.[^3] működési támogatás: a Civil tv. 56. § (1) bekezdés b) pontja szerinti támogatás;
 
-16a.[^3] normatív támogatás: a Civil tv. 56. § (1) bekezdés a) pontja szerinti támogatás;
+16a.[^4] normatív támogatás: a Civil tv. 56. § (1) bekezdés a) pontja szerinti működési költségek kiegészítésére fordítható normatív alapon nyújtott; támogatás;
 
 17. Nemzeti Együttműködési Alap felhasználásáról szóló beszámoló: a Civil tv. 70. § (1) bekezdése (a továbbiakban: a Tanácsnak szólóbeszámoló) és (2) bekezdése (a továbbiakban: az Országgyűlés bizottságának szóló beszámoló) szerinti, e rendelet szempontjai alapján elkészített és a testület döntésével megerősített éves tevékenységről, tapasztalatokról szóló beszámoló;
 
-17a.[^4] önrész: minden, az Alapból folyósított támogatáson kívüli forrás, ideértve az egyéb forrás mellett az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 75. § (4a) bekezdésében foglalt korlátozás figyelembe vételével megállapított saját forrást is;
+17a.[^5] önrész: minden, az Alapból folyósított támogatáson kívüli forrás, ideértve az egyéb forrás mellett az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 75. § (4a) bekezdésében foglalt korlátozás figyelembe vételével megállapított saját forrást is;
 
-17b.[^5] egyéb forrás: az önrész azon része, amely
+17b.[^6] egyéb forrás: az önrész azon része, amely
 
 a) az államháztartás központi alrendszeréből igényelt, kapott egyéb költségvetési támogatásból, valamint külföldi forrásokból származó összeg, valamint
 
 b) az államháztartáson belüli szervezettől, kormányzati szektorba sorolt egyéb szervezettől, és ezen szervezetek tulajdonosi joggyakorlása alá tartozó gazdálkodó szervezettől vagy alapítói joggyakorlása alá tartozó alapítványtól, közalapítványtól igényelt és kapott egyéb támogatás összege;
 
-17c.[^6] saját forrás: az önrész azon része, melyet a pályázó térítésmentes hozzájárulás, illetve pénz, pénzeszköz, pénzforrás formájában biztosít a támogatási igényéhez, ide nem értve – az EU Önerő Alapból és a közbeszerzésekről szóló 2015. évi CXLIII. törvény alapján ajánlatkérőnek minősülő szervezetnek a részben európai uniós forrásból finanszírozott projektek megvalósításához európai uniós versenyjogi értelemben vett állami támogatási szabályokkal összhangban nyújtott önerő támogatás kivételével – az államháztartás központi alrendszeréből kapott más költségvetési támogatást;
+17c.[^7] saját forrás: az önrész azon része, melyet a pályázó térítésmentes hozzájárulás, illetve pénz, pénzeszköz, pénzforrás formájában biztosít a támogatási igényéhez, ide nem értve – az EU Önerő Alapból és a közbeszerzésekről szóló 2015. évi CXLIII. törvény alapján ajánlatkérőnek minősülő szervezetnek a részben európai uniós forrásból finanszírozott projektek megvalósításához európai uniós versenyjogi értelemben vett állami támogatási szabályokkal összhangban nyújtott önerő támogatás kivételével – az államháztartás központi alrendszeréből kapott más költségvetési támogatást;
 
 18. pályázat elbírálása: a kollégium azon eljárása, melynek során a pályázati felhívásra benyújtott támogatási igényhez annak szakmai tartalma alapján a kollégium pontszámot és javasolt támogatási összeget rendel, korlátozza az egyes költségvetési sorokon történő felhasználást vagy elutasítja a támogatási igényt;
 
@@ -56,24 +56,25 @@ b) az államháztartáson belüli szervezettől, kormányzati szektorba sorolt e
 
 21. szakmai támogatás: a Civil tv. 56. § (1) bekezdés c)–j) pontja szerinti támogatás;
 
-22.[^7] támogatási döntés: a támogatási igény formai vizsgálata, továbbá az egyedi támogatási kérelem esetén a támogatási kérelem befogadása vagy elutasítása, pályázati felhívásra benyújtott támogatási igény esetén a pályázat elbírálása és a pályázat végleges elbírálása során hozott döntések összessége;
+22.[^8] támogatási döntés: az egyedi támogatási kérelem esetén a támogatási kérelem befogadása vagy elutasítása, pályázati felhívásra benyújtott támogatási igény esetén a pályázat elbírálása és a pályázat végleges elbírálása során hozott döntések összessége;
 
 23. támogatási eljárás: a támogatási igény benyújtásától a támogatási igény benyújtása következményeként végrehajtott cselekmények összessége;
 
-24.[^8] támogatási igény: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), továbbá az Ávr. szerinti támogatási kérelem, valamint pályázat, amely a Civil tv. 56. § (2) bekezdése szerinti kötelezettségvállalásra irányul;
+24.[^9] támogatási igény: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), továbbá az Ávr. szerinti támogatási kérelem, valamint pályázat, amely a Civil tv. 56. § (2) bekezdése szerinti kötelezettségvállalásra irányul;
 
 25. támogatási kérelem befogadása: a Civil tv. 56. § (2) bekezdés c) pontja szerinti jóváhagyás, melynek keretében a miniszter meghatározza, hogy az egyedi kérelmet benyújtó szervezetnek mekkora összegben, mely célra és milyen finanszírozási móddal részesülhet támogatásban a jogszabályi feltételek teljesítése esetén;
 
 26. tanács: a Civil tv. 60. § (1) bekezdése szerinti testület;
 
-27.[^9] várólista: pályázati felhívásra benyújtott pályázatok esetén a támogatási döntés meghozatala után – a források korlátossága miatt – költségvetési támogatásban nem részesülő, szakmailag megfelelő pályázatokat tartalmazó, pontszám, illetve egyező pontszám esetén beérkezési sorrend alapú rangsor, amely alapján – az Ávr. 77. § (1) bekezdése szerint – a támogató lehetővé teszi a támogatás igénybevételét.
+27.[^10] várólista: pályázati felhívásra benyújtott pályázatok esetén a támogatási döntés meghozatala után – a források korlátossága miatt – költségvetési támogatásban nem részesülő, szakmailag megfelelő pályázatokat tartalmazó, pontszám, illetve egyező pontszám esetén beérkezési sorrend alapú rangsor, amely alapján – az Ávr. 77. § (1) bekezdése szerint – a támogató lehetővé teszi a támogatás igénybevételét.
 
 [^1]: A 2. § a 74/2013. (XII. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § 16. pontja a 35/2016. (XI. 30.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 16a. pontját a 35/2016. (XI. 30.) EMMI rendelet 1. § (2) bekezdése iktatta be.
-[^4]: A 2. § 17a. pontját az 52/2015. (XI. 18.) EMMI rendelet 1. §-a iktatta be, szövege a 35/2016. (XI. 30.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § 17b. pontját a 35/2016. (XI. 30.) EMMI rendelet 1. § (3) bekezdése iktatta be.
-[^6]: A 2. § 17c. pontját a 35/2016. (XI. 30.) EMMI rendelet 1. § (4) bekezdése iktatta be.
-[^7]: A 2. § 22. pontja a 35/2016. (XI. 30.) EMMI rendelet 12. § b) pontja szerint módosított szöveg.
-[^8]: A 2. § 24. pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 1. pontja szerint módosított szöveg.
-[^9]: A 2. § 27. pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 2. pontja szerint módosított szöveg.
+[^2]: A 2. § 4. pontja a 23/2017. (X. 3.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 16. pontja a 35/2016. (XI. 30.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 16a. pontját a 35/2016. (XI. 30.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 23/2017. (X. 3.) EMMI rendelet 12. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § 17a. pontját az 52/2015. (XI. 18.) EMMI rendelet 1. §-a iktatta be, szövege a 35/2016. (XI. 30.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § 17b. pontját a 35/2016. (XI. 30.) EMMI rendelet 1. § (3) bekezdése iktatta be.
+[^7]: A 2. § 17c. pontját a 35/2016. (XI. 30.) EMMI rendelet 1. § (4) bekezdése iktatta be.
+[^8]: A 2. § 22. pontja a 35/2016. (XI. 30.) EMMI rendelet 12. § b) pontja, a 23/2017. (X. 3.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § 24. pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 1. pontja szerint módosított szöveg.
+[^10]: A 2. § 27. pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 2. pontja szerint módosított szöveg.

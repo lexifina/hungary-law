@@ -8,10 +8,10 @@ b) az Alap testületeinek adott évi tevékenysége, működésének tapasztalat
 
 c) az Alapkezelő adott évi tevékenysége, működésének tapasztalatai;
 
-d)[^92] együttműködés az Alapkezelővel, a kollégiumokkal, az Alap működése felett Civil tv. 55. §-a szerinti rendelkezési jogot gyakorló miniszterrel;
+d)[^109] együttműködés az Alapkezelővel, a kollégiumokkal, az Alap működése felett Civil tv. 55. §-a szerinti rendelkezési jogot gyakorló miniszterrel;
 
 e) a támogatási elvek, a forrásmegosztás, továbbá egy civil szervezetnek egy költségvetési évben adható maximális támogatás kidolgozása során kialakított döntések, ezek hatása, változás az előző évhez képest, valamint a döntések a civil társadalom részéről történő visszaigazolása;
 
 f) az Alap működésének és hatékonyságának javítására vonatkozó javaslatok;
 
-[^92]: A 33. § d) pontja az 56/2012. (XII. 29.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^109]: A 33. § d) pontja az 56/2012. (XII. 29.) EMMI rendelet 18. §-ával megállapított szöveg.
