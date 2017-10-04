@@ -1,0 +1,3 @@
+## 6. § Az R2. 145. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az intézményi önértékelés eredményeit az intézmény rögzíti a hivatal által működtetett informatikai támogató rendszerben, amely azt haladéktalanul elérhetővé teszi az értékelt pedagógus, az intézményvezető és a hivatal számára. Az intézményi önértékelés eredményét a pedagógiai-szakmai ellenőrzést és a pedagógusok minősítését végző szakértők a megbízásukat követően tekinthetik meg a hivatal által működtetett informatikai támogató rendszerben. Az intézményi önértékelés eredményét az intézményvezető küldi meg a fenntartó részére, továbbá – a megbízásukat követően – az intézmény munkáját támogató szaktanácsadó részére.”
