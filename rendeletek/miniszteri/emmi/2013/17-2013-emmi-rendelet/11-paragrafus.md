@@ -1,6 +1,6 @@
 ## 5. Záró rendelkezések
 
-11. §[^5] (1) Ez a rendelet – a (2)–(4) bekezdésben foglalt kivétellel – 2013. április 2-án lép hatályba.
+11. §[^8] (1) Ez a rendelet – a (2)–(4) bekezdésben foglalt kivétellel – 2013. április 2-án lép hatályba.
 
 (2) Az 1–7. §, a 8. § (1)–(8) bekezdése, a 9–10. § és a 12–13. § 2013. szeptember 1-jén lép hatályba, rendelkezéseit első alkalommal a 2013/2014. tanévben
 
@@ -16,4 +16,4 @@ c) hat évfolyamos gimnázium esetében a hetedik évfolyamán,
 
 (4) A 14. § (2) bekezdése 2017. augusztus 31-én lép hatályba.
 
-[^5]: A 11. § a 22/2013. (III. 22.) EMMI rendelet 42. § (2) bekezdésével megállapított szöveg.
+[^8]: A 11. § a 22/2013. (III. 22.) EMMI rendelet 42. § (2) bekezdésével megállapított szöveg.

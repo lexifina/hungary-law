@@ -80,6 +80,6 @@ lehet.
 
 a) a nyolcadik vagy a tizenkettedik évfolyamot, az adott évfolyam bizonyítványát kiállító iskola ezt a tényt – záradék formájában, a kiegészítő nemzetiségi iskola igazolása alapján – rávezeti az iskolai törzslapra és a bizonyítványba,
 
-b)[^4] a tizenkettedik évfolyamot, engedélyezni kell, hogy a nemzetiség nyelvéből és nemzetiségi népismeretből érettségi vizsgát tegyen.
+b)[^7] a tizenkettedik évfolyamot, engedélyezni kell, hogy a nemzetiség nyelvéből és nemzetiségi népismeretből érettségi vizsgát tegyen.
 
-[^4]: A 8. § (12) bekezdés b) pontja a 22/2013. (III. 22.) EMMI rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^7]: A 8. § (12) bekezdés b) pontja a 22/2013. (III. 22.) EMMI rendelet 42. § (1) bekezdésével megállapított szöveg.

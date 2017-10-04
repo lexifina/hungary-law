@@ -1,9 +1,9 @@
-## 13. §[^6]
+## 13. §[^9]
 
-14. § (1)[^7]
+14. § (1)[^10]
 
-(2)[^8]
+(2)[^11]
 
-[^6]: A 13. §-t a 14. § (1) bekezdése hatályon kívül helyezte.
-[^7]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 14. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 13. §-t a 14. § (1) bekezdése hatályon kívül helyezte.
+[^10]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 14. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

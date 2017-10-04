@@ -2,8 +2,8 @@
 
 (2) A tájékoztató tartalmazza a nemzetiségi óvodai nevelés, nemzetiségi iskolai nevelés-oktatás feladatainak rövid bemutatását, időkeretét, az intézményben működő nemzetiségi óvodai nevelési, nemzetiségi iskolai nevelési-oktatási forma bemutatását, valamint a 2. melléklet szerinti nyilatkozatmintát. A kitöltött nyilatkozatot a nevelési-oktatási intézményhez kell benyújtani.
 
-(3)[^3] A nevelési-oktatási intézmény a kérelemmel, nyilatkozattal érintett gyermekek, tanulók nemzetiségenként, nevelési, nevelési-oktatási formánként összesített létszámáról a beiratkozást követő tizenöt napon belül tájékoztatja óvodai nevelés esetében a feladatellátás megszervezéséért felelős települési önkormányzatot, iskolai nevelés-oktatás esetében a tankerületi központot. A települési önkormányzat vagy a tankerületi központ nemzetiségenként, nevelési, nevelési-oktatási formánként, intézményenként és településenként összesíti az adatokat, és eljuttatja az illetékességi területén működő, a nemzetiségi nevelésben, oktatásban érintett nemzetiségi önkormányzatoknak.
+(3)[^6] A nevelési-oktatási intézmény a kérelemmel, nyilatkozattal érintett gyermekek, tanulók nemzetiségenként, nevelési, nevelési-oktatási formánként összesített létszámáról a beiratkozást követő tizenöt napon belül tájékoztatja óvodai nevelés esetében a feladatellátás megszervezéséért felelős települési önkormányzatot, iskolai nevelés-oktatás esetében a tankerületi központot. A települési önkormányzat vagy a tankerületi központ nemzetiségenként, nevelési, nevelési-oktatási formánként, intézményenként és településenként összesíti az adatokat, és eljuttatja az illetékességi területén működő, a nemzetiségi nevelésben, oktatásban érintett nemzetiségi önkormányzatoknak.
 
 (4) A kérelmet, nyilatkozatot a nevelési-oktatási intézmény az érintett tanuló tanulói jogviszonyának megszűnését követő öt évig megőrzi.
 
-[^3]: A 3. § (3) bekezdése a 46/2016. (XII. 28.) EMMI rendelet 3. § a)–b) pontja szerint módosított szöveg.
+[^6]: A 3. § (3) bekezdése a 46/2016. (XII. 28.) EMMI rendelet 3. § a)–b) pontja szerint módosított szöveg.
