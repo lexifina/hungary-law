@@ -8,7 +8,7 @@
 
 ## 4. §[^6] Az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatások esetében
 
-a) az 1. melléklet 5., 13., 20., 27–29., 34., 36., 48., 49., 53, 55–58., 62., 64., 66., 67., 70–72., 80., 129., 130., 140., 141., 144., 156., 157., 194., 195., 197–199., 201., 203., 209., 217., 218., 226., 227., 230. és 234. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti kulturális és kulturális örökség megőrzését előmozdító támogatás,
+a) az 1. melléklet 5., 13., 20., 27–29., 34., 36., 48., 49., 53., 55–58., 62., 63a., 64., 66., 67., 70–72., 80., 129., 130., 140., 141., 144., 156., 157., 194., 195., 197–199., 201., 203., 203a., 203b., 209., 217., 218., 226., 227., 230. és 234. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti kulturális és kulturális örökség megőrzését előmozdító támogatás,
 
 b) az 1. melléklet 51., 52. és 54. sora alapján az SA.38425 (2014/N). számú bizottsági határozat szerinti támogatás,
 
@@ -26,4 +26,4 @@ h) az 1. melléklet 186. sora alapján a 360/2012/EU bizottsági rendelet szerin
 
 i) az 1. melléklet 231. sora alapján a 651/2014/EU bizottsági rendelet 55. cikke szerinti, sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás
 
-[^6]: A 4. § a 47/2016. (XII. 28.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^6]: A 4. § a 22/2017. (X. 3.) EMMI rendelet 1. §-ával megállapított szöveg.
