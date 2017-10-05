@@ -1,3 +1,0 @@
-## „(11a) Az egy testületbe jelölt, de meg nem választott személyek a kapott szavazatok sorrendje szerint póttagi listára kerülnek. Testületi taggá választott személy egy másik testület póttagi listáján nem szerepelhet. Ha a jelöltet több testületbe is jelölik, de egyikbe sem választják tagnak, a jelölt a választást követően nyilatkozik, hogy mely póttagi listán kíván szerepelni.
-
-## (11b) A Tanács tagjai és a kollégiumok tagjai azok a jelöltek lesznek, akik a megválasztandó tagok száma szerint a legtöbb szavazatot kapták. Szavazategyenlőség esetén sorsolással kell megállapítani, hogy az egyenlő számú szavazatot elért jelöltek közül melyik jelölt szerez megbízatást.”

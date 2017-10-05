@@ -1,1 +1,3 @@
-## „(6) A II. fejezet 6–8. címeiben szabályozott, az elszámolást, az ellenőrzést, az Alap támogatásaiból történő kizárást érintő eljárásokban az a kollégium a döntéshozó, amelyhez a pályázatot benyújtották.”
+## 2–7. §[^2]
+
+[^2]: A 2–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
