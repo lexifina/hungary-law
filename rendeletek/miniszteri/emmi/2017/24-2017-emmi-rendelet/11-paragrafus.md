@@ -1,3 +1,0 @@
-## 10. § Az R2. 171. §-a a következő (2b) bekezdéssel egészül ki:
-
-## „(2b) A képesség-kibontakoztató felkészítés keretében a pedagógus feladata az (1) bekezdésben foglalt pedagógiai rendszernek megfeleltethető tevékenységek megvalósítása, így egyéni fejlesztési terv készítése és ennek alapján történő kompetenciafejlesztés, az önálló tanulást segítő tanulói fejlesztés, az együttműködésen alapuló módszertani elemek alkalmazása tanórai és tanórán kívüli foglalkozásokon, a tanulói teljesítmény értékelése, értékelő esetmegbeszéléseken történő részvétel, mentori, tutori tevékenységek ellátása, a tanuló családjával történő rendszeres kapcsolattartás.”

@@ -1,3 +1,0 @@
-## 8. § Az R2. 155. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) Az (1) bekezdés alapján kijelölt szakértő tekintetében – a köznevelési szakértői tevékenység, valamint az érettségi vizsgaelnöki megbízás feltételeiről szóló 15/2015. (III. 13.) EMMI rendelet 5. § (3) bekezdés e) pontjában foglaltaktól eltérően – nem eredményez összeférhetetlenséget, ha a köznevelési szakértő ugyanannak a szakképzési centrumnak vagy megyei pedagógiai szakszolgálatnak más tagintézményével áll foglalkoztatási jogviszonyban, mint amely az ellenőrizendő pedagógust is foglalkoztatja. A szakképzési centrum vagy a megyei pedagógiai szakszolgálat vezetője az országos pedagógiai-szakmai ellenőrzéssel kapcsolatban a szakértőt nem utasíthatja, szakértői munkáját nem befolyásolhatja.”
