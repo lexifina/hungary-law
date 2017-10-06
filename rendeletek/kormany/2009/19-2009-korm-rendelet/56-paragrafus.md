@@ -2,13 +2,13 @@
 
 ## Védendő fogyasztókra vonatkozó részletes szabályok
 
-56. §[^218] (1) A GET és e rendelet alkalmazásában szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek háztartásában élő személy:
+56. §[^221] (1) A GET és e rendelet alkalmazásában szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek háztartásában élő személy:
 
 a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
 
 b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
 
-c)[^219] a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
+c)[^222] a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
 
 d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
 
@@ -18,7 +18,7 @@ f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a tám
 
 g) Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket,
 
-h)[^220] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelő Zrt.-vel bérleti jogviszonyban áll.
+h)[^223] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelő Zrt.-vel bérleti jogviszonyban áll.
 
 (2) E cím alkalmazásában a háztartás fogalmát a Szoctv. 4. § (1) bekezdés f) pontja szerint kell értelmezni.
 
@@ -28,7 +28,7 @@ h)[^220] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tu
 
 a) a 9. számú melléklet szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, vagy
 
-b) a szociálisan rászoruló fogyasztói státuszra jogosító ellátást, tényt megállapító szerv által kiadott, a jogosultság fennállását igazoló, 30 napnál nem régebbi igazolás, illetve határozat
+b)[^224] a szociálisan rászoruló fogyasztói státuszra jogosító ellátást, tényt megállapító szerv által kiadott, a jogosultság, tény fennállását igazoló, 30 napnál nem régebbi igazolás, illetve határozat
 
 eredeti példányának bemutatásával igazolhatja. A földgázelosztó az igazolás céljára bemutatott iratok másolatát a jogosultság megszűnését követő 5 évig megőrzi.
 
@@ -42,6 +42,7 @@ eredeti példányának bemutatásával igazolhatja. A földgázelosztó az igazo
 
 (9) Jogosultságának a GET 66. § (6) bekezdése szerinti ismételt igazolására a szociálisan rászoruló fogyasztó első ízben a nyilvántartásba történő felvételét követő naptári évben köteles.
 
-[^218]: A Vhr. 56. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^219]: A Vhr. 56. § (1) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 33. §-ával megállapított, a 458/2016. (XII. 23.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
-[^220]: A Vhr. 56. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 4. §-a iktatta be.
+[^221]: A Vhr. 56. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^222]: A Vhr. 56. § (1) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 33. §-ával megállapított, a 458/2016. (XII. 23.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^223]: A Vhr. 56. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 4. §-a iktatta be.
+[^224]: A Vhr. 56. § (4) bekezdés b) pontja a 275/2017. (IX. 21.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.

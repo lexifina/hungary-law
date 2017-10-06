@@ -1,10 +1,10 @@
-120. §[^413] (1)[^414] A szállítási rendszerirányító esetében az általa nyújtott szolgáltatásokra vonatkozó rendelkezéseket a szállítási rendszerüzemeltető üzletszabályzata tartalmazza.
+120. §[^421] (1)[^422] A szállítási rendszerirányító esetében az általa nyújtott szolgáltatásokra vonatkozó rendelkezéseket a szállítási rendszerüzemeltető üzletszabályzata tartalmazza.
 
 (2) A vezetékes PB-gáz szolgáltatására vonatkozó működési engedélyes üzletszabályzatának elkészítésénél e rendelet 4. számú mellékletében a földgázelosztói és egyetemes szolgáltatói üzletszabályzat tartalmi elemeire előírtakat kell megfelelően alkalmazni.
 
-(3)[^415] Földgázkereskedő felhasználót kizárólag abban az esetben láthat el földgázzal, ha a GET-ben és az e rendeletben előírtak szerinti, felhasználóra vonatkozó előírásokat üzletszabályzata tartalmazza.
+(3)[^423] Földgázkereskedő felhasználót kizárólag abban az esetben láthat el földgázzal, ha a GET-ben és az e rendeletben előírtak szerinti, felhasználóra vonatkozó előírásokat üzletszabályzata tartalmazza.
 
-(3a)[^416] Ha a földgázkereskedő nem lát el felhasználót, akkor
+(3a)[^424] Ha a földgázkereskedő nem lát el felhasználót, akkor
 
 a) üzletszabályzatában a felhasználókkal kapcsolatos rendelkezéseket nem kell feltüntetnie,
 
@@ -12,10 +12,10 @@ b) üzletszabályzatának kizárólag a szerződéses partnereire kiterjedően s
 
 c) nem vonatkozik rá a 123. § (2) bekezdésében foglalt érdekképviseletekkel történő egyeztetési kötelezettség.
 
-(4)[^417] A földgázkereskedő üzletszabályzatának tartalmaznia kell a kereskedő kötelezettségvállalását a kapacitáslekötési joggal átruházott kapacitás visszaadására, valamint a felhasználóval kötött földgáz-kereskedelmi szerződés idő előtti megszűnése esetén alkalmazott részletes eljárásrend meghatározását.
+(4)[^425] A földgázkereskedő üzletszabályzatának tartalmaznia kell a kereskedő kötelezettségvállalását a kapacitáslekötési joggal átruházott kapacitás visszaadására, valamint a felhasználóval kötött földgáz-kereskedelmi szerződés idő előtti megszűnése esetén alkalmazott részletes eljárásrend meghatározását.
 
-[^413]: A Vhr. 120. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^414]: A Vhr. 120. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
-[^415]: A Vhr. 120. § (3) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte, újonnan a 254/2015. (IX. 10.) Korm. rendelet 18. §-a iktatta be.
-[^416]: A Vhr. 120. § (3a) bekezdését a 254/2015. (IX. 10.) Korm. rendelet 18. §-a iktatta be.
-[^417]: A Vhr. 120. § (4) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^421]: A Vhr. 120. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^422]: A Vhr. 120. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
+[^423]: A Vhr. 120. § (3) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte, újonnan a 254/2015. (IX. 10.) Korm. rendelet 18. §-a iktatta be.
+[^424]: A Vhr. 120. § (3a) bekezdését a 254/2015. (IX. 10.) Korm. rendelet 18. §-a iktatta be.
+[^425]: A Vhr. 120. § (4) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 18. §-ával megállapított szöveg.
