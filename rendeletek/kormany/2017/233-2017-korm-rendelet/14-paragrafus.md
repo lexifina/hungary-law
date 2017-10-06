@@ -14,4 +14,4 @@
 [^13]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^14]: A 14. § (2) bekezdése a 17. § (4) bekezdése alapján 2018. március 2-án lép hatályba.
 [^15]: A 14. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 14. § (5) bekezdése a 17. § (4) bekezdése alapján 2018. március 2-án lép hatályba.
+[^16]: A 14. § (5) bekezdése a 292/2017. (X. 5.) Korm. rendelet 3. §-a alapján nem lép hatályba.
