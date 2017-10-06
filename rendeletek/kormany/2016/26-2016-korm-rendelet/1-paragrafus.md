@@ -1,14 +1,14 @@
 ## 1. Általános rendelkezések
 
-1. § (1) E rendelet hatálya a központi mintaprojektre, a központi mintaprojekttel kapcsolatos jogviszonyokra, a projektgazdára, az infrastruktúra-üzemeltetőre, a projekttagra és a földgázterület tekintetében a központi adatgyűjtő- és feldolgozó rendszert működtető engedélyesre terjed ki.
+1. § (1)[^1] E rendelet hatálya a központi mintaprojektre, a központi mintaprojekttel kapcsolatos jogviszonyokra, a projektgazdára, az infrastruktúra-üzemeltetőre és a projekttagra terjed ki.
 
 (2) Az e rendeletben nem szabályozott kérdések tekintetében a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.), a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.), a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vksztv.), valamint a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) és a végrehajtásukra kiadott jogszabályokban foglalt rendelkezéseket kell alkalmazni.
 
 (3) E rendelet alkalmazásában
 
-1. központi adatgyűjtő- és feldolgozó rendszert működtető engedélyes: a Get. 19/B. § szerinti központi adatgyűjtő és feldolgozó rendszert működtető engedélyes,
+1.[^2]
 
-2. infrastruktúra-üzemeltető: a Vet. szerinti hálózati engedélyes, a Get. szerinti rendszerüzemeltető, valamint a Vksztv. szerinti víziközmű-szolgáltatást végző szolgáltató,
+2.[^3] infrastruktúra-üzemeltető: a Vet. szerinti hálózati engedélyes, a Get. szerinti szállítási rendszerüzemeltető és a földgázelosztó, valamint a Vksztv. szerinti víziközmű-szolgáltatást végző szolgáltató,
 
 3. központi mintaprojekt: a villamos energia és a földgáz területén a villamos energia belső piacára vonatkozó közös szabályokról és a 2003/54/EK irányelv hatályon kívül helyezéséről szóló, 2009. július 13-i 2009/72/EK európai parlamenti és tanácsi irányelv 1. melléklet 2. pontja szerinti és a földgáz energia belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről szóló 2009. július 13-i 2009/73/EK európai parlamenti és tanácsi irányelv 1. melléklet 2. pontja szerinti gazdasági értékeléshez szükséges adatokat biztosító, valamint a víziközmű-szolgáltatás területén okosmérőket tesztelő olyan projekt, amely az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Ügkrtv.) szerinti derogációs kiosztásból valósul meg,
 
@@ -25,3 +25,7 @@
 9. projekttag: a központi mintaprojektben részt vevő felhasználó, megújuló energiaforrásból villamos energiát termelő erőmű engedélyese, valamint a 0,5 MW beépített teljesítmény alatti kiserőmű üzemeltetője, beleértve a háztartási méretű kiserőmű üzemeltetőjét is,
 
 10. távvezérlés: az okosmérő paramétereinek és az általa mért hálózat üzemállapotának megváltoztatása a mérésvezérlési központból kiadott vezérlési utasítás hatására.
+
+[^1]: Az 1. § (1) bekezdése a 275/2017. (IX. 21.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdés 1. pontját a 275/2017. (IX. 21.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (3) bekezdés 2. pontja a 275/2017. (IX. 21.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.

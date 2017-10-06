@@ -30,20 +30,6 @@ g) a jogszabályokban, a Villamosenergia-ellátási Szabályzatokban, a földgá
 
 (6) A projektgazda jogosult az infrastruktúra-üzemeltetőktől az általuk megvalósított mintaprojektek keretében felszerelt okosmérőből, valamint az azonos fogyasztási helyről a mintaprojekt keretében leszerelt fogyasztásmérő berendezésekből származó – a rendszerhasználók beazonosítására nem alkalmas, személyes adatot nem tartalmazó, üzleti titkot nem sértő, kizárólag a központi mintaprojekt megvalósításához szükséges – a mérési hely azonosítóra és a hozzátartozó mérési adatokra kiterjedő adatokat ellenérték fejében igényelni és a központi mintaprojekt végrehajtása céljából felhasználni. A projektgazda a fentiek tekintetében jogosult a (4) bekezdésben meghatározott módon az infrastruktúra-üzemeltetővel együttműködési megállapodást kötni abban az esetben is, ha az infrastruktúra-üzemeltető engedélyesi területén nem kerül sor a projektgazda által okosmérő vagy okos mérést biztosító berendezés felszerelésre. Az infrastruktúra-üzemeltető és a projektgazda kötelesek e bekezdés szerinti együttműködési megállapodást megkötni a (4) bekezdésben foglaltak szerint.
 
-(7) A projektgazda és a földgázterület vonatkozásában a központi adatgyűjtő- és feldolgozó rendszert működtető engedélyes együttműködési megállapodást kötnek, amelyben rendelkeznek a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes részére a Get.-ben nevesített tevékenységéhez szükséges adatok térítésmentes átadásáról az alábbiak szerint:
+(7)–(8)[^4]
 
-a) a központi mintaprojekt keretében felszerelt okos mérők földgázfogyasztással kapcsolatos adatainak, a felhasználási hely azonosító adatainak, a mérőeszközök földgázfogyasztással kapcsolatos mérési és elszámolási adatainak, valamint földgázfogyasztással összefüggő kapacitás adatainak átadásáról,
-
-b) a központi adatgyűjtő és feldolgozó rendszerrel történő adatcserére alkalmas adatforgalmi és informatikai rendszerről, az adatkapcsolatról, az adatkapcsolat módjáról,
-
-c) a központi adatgyűjtő és feldolgozó rendszert működtető engedélyessel kapcsolatot tartó, folyamatosan működő műszaki irányító szolgálatról,
-
-d) az adatforgalmi és informatikai rendszerrel kapcsolatos felelősségi kérdésekről,
-
-e) a jogszabályokban és a földgáz Üzemi és Kereskedelmi Szabályzatban előírt elszámoláshoz, adatszolgáltatásokhoz szükséges adatokon túli adatszolgáltatás, adatfeldolgozás részleteiről,
-
-f) a projektgazda és a központi adatgyűjtő- és feldolgozó rendszert működtető engedélyes között a központi mintaprojekttel összefüggésben felmerülő költségek viselésének és elszámolásának részletszabályairól,
-
-g) az adatátadások rendjéről, módjáról és formájáról, a földgázfogyasztásra vonatkozó elszámolás alapjául szolgáló hiteles mérési adatok gyűjtésének és továbbításának részletszabályairól.
-
-(8) A projektgazda és a központi adatgyűjtő- és feldolgozó rendszert működtető engedélyes a földgázterület vonatkozásában kötelesek az együttműködési megállapodást megkötni a központi adatgyűjtő- és feldolgozó rendszert működtető engedélyes a megállapodás megkötésére irányuló igényének, projektgazda általi kézhezvételétől számított 30 napon belül, amelyet a projektgazda haladéktalanul köteles megküldeni a Hivatal részére.
+[^4]: A 2. § (7)–(8) bekezdését a 275/2017. (IX. 21.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
