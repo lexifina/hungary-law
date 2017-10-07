@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-292-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-10-06 | 2017-292-20-22.1 | 292/2017. (X. 5.) Korm. rendelet |
+| 2017-10-07 | 2017-292-20-22.2 | 2010: CXXX. törvény |

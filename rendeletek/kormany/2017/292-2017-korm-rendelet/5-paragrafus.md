@@ -1,3 +1,5 @@
-## 4. § Az R2. 17. § (4) bekezdésében a „(2) és (5) bekezdés” szövegrész helyébe a „(2) bekezdés” szöveg lép.
+## 4. §[^2]
 
 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
