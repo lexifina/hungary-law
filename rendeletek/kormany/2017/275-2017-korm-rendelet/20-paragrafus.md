@@ -1,3 +1,0 @@
-## 19. § A Get. Vhr. 123. §-a a következő (5) bekezdéssel egészül ki:
-
-## „(5) Az egyetemes szolgáltató és az elosztó az üzletszabályzatának jóváhagyott módosításáról honlapján és ügyfélszolgálatán közzétett, továbbá – amennyiben az engedélyes a felhasználóval történő kapcsolattartás keretében azzal rendelkezik – a felhasználó elektronikus levélcímére megküldött rövid, a módosítás lényegét bemutató tartalmi összefoglalóban tárgykörönként megjelöli azon üzletszabályzati rendelkezéseket, amelyek a felhasználók jogait vagy kötelezettségeit közvetlenül érintik. A honlapon és ügyfélszolgálaton történő tájékoztatás közzétételének időtartama legalább 3 hónap.”
