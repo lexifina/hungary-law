@@ -66,7 +66,7 @@
 
 | 30. | 233321 |  | Adósságkezelés költségei | Adósságkezelés költségeinek fedezése. | ÁKK Zrt. |  |  | Az összeget a Kincstár minden hónap 5-éig folyósítja egyenlő részletekben. |  |  | Kincstár |  |  |
 
-7. melléklet az 55/2016. (XII. 21.) NGM rendelethez[^3]
+7. melléklet az 55/2016. (XII. 21.) NGM rendelethez[^5]
 
 XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi kezelésű előirányzatai
 
@@ -208,4 +208,4 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 64. | 349139 |  | Nemzeti Kutatási, Fejlesztési és Innovációs Alap támogatása | A Nemzeti Kutatási, Fejlesztési és Innovációs Alap részére központi támogatás biztosítása. | Nemzeti Kutatási, Fejlesztési és Innovációs Alap |  |  | Az Ávr. 133. § szerint, előirányzat-felhasználási terv alapján. |  |  | Kincstár |  |  |
 
-[^3]: A 7. melléklet a 27/2017. (IX. 12.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 7. melléklet a 27/2017. (IX. 12.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
