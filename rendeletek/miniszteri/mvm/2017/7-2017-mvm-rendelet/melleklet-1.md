@@ -1,6 +1,6 @@
-## 20–23. §[^2]
+## 20–23. §[^1]
 
-1. melléklet a 7/2017. (III. 7.) MvM rendelethez[^3]
+1. melléklet a 7/2017. (III. 7.) MvM rendelethez[^2]
 
-[^2]: A 20–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 20–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
