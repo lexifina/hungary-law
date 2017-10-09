@@ -20,7 +20,7 @@
 
 ## f) 4. Szociális kiegészítő pótlék támogatása cím terhére 1140,0 millió forint,
 
-## g) 5. A költségvetési szerveknél foglalkoztatottak 2016. évi kompenzációja cím terhére 1400,0 millió forint
+## g)[^2] 5. A költségvetési szerveknél foglalkoztatottak 2016. évi kompenzációja cím terhére 1400,0 millió forint
 
 ## egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 32. Önkormányzatok feladatainak támogatása I. cím alábbi alcímei javára, az 1. melléklet szerint:
 
@@ -32,9 +32,9 @@
 
 | 2. | Aggtelek Község feladatainak támogatása | óvoda épületének felújítása | 57,0 |
 
-| 3. | Ajak Város feladatainak támogatása | önkormányzati épület építése, felújítása, szociális intézmények fejlesztése, belterületi utak felújítása | 200,0 |
+| 3. | Ajak Város feladatainak támogatása | önkormányzati épület építése, belterületi utak felújítása | 200,0 |
 
-| 4. | Albertirsa Város feladatainak támogatása | sportcsarnok építés | 150,0 |
+| 4. | Albertirsa Város feladatainak támogatása | sportcsarnoképítés érdekében támogatás nyújtása | 150,0 |
 
 | 5. | Alsózsolca Város feladatainak támogatása | útfelújítás | 12,0 |
 
@@ -60,7 +60,7 @@
 
 | 16. | Balatonszőlős Község feladatainak támogatása | sportöltöző és sportpálya felújítása | 13,0 |
 
-| 17. | Balmazújváros Város feladatainak támogatása II. | önkormányzati tulajdonú ingatlan felújítása, gyógyfürdő rehabilitációs részlegének fejlesztése, tankonyha fejlesztése | 480,0 |
+| 17. | Balmazújváros Város feladatainak támogatása II. | önkormányzati tulajdonú ingatlan felújítása, gyógyfürdő rehabilitációs központjának fejlesztése és termálkutak felújítása támogatás nyújtásával, tankonyha fejlesztése | 480,0 |
 
 | 18. | Balogunyom Község feladatainak támogatása | önkormányzati hivatal felújítása | 25,0 |
 
@@ -148,7 +148,7 @@
 
 | 60. | Csörög Község feladatainak támogatása | úthálózat szilárd burkolattal történő ellátása, kamerarendszer bővítése | 125,0 |
 
-| 61. | Csurgó Város feladatainak támogatása II. | Sótonyi Sportcsarnok fejlesztése III. ütem | 1 000,0 |
+| 61. | Csurgó Város feladatainak támogatása II. | Csurgói Élményfürdő és Szálloda kialakítása I. ütem, uszodai eszközbeszerzések | 1 000,0 |
 
 | 62. | Dabas Város feladatainak támogatása | sporttelep fejlesztés, csapadékvíz-elvezetés, konyha felújítása | 300,0 |
 
@@ -210,7 +210,7 @@
 
 ## Határidő: azonnal
 
-## 3.[^2] a Kvtv. 19. § (2) bekezdésében meghatározott jogkörében eljárva – az egyes települési önkormányzatok feladatainak támogatása érdekében – 15 236,7 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 33. Önkormányzatok feladatainak támogatása II. cím alábbi alcímei javára, az 1. melléklet szerint:
+## 3.[^3] a Kvtv. 19. § (2) bekezdésében meghatározott jogkörében eljárva – az egyes települési önkormányzatok feladatainak támogatása érdekében – 15 236,7 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 33. Önkormányzatok feladatainak támogatása II. cím alábbi alcímei javára, az 1. melléklet szerint:
 
 ## millió forintban
 
@@ -274,7 +274,7 @@
 
 | 29. | Kapuvár Város feladatainak támogatása | épületek bontása, terület mentesítése, infrastruktúra kialakítása | 300,0 |
 
-| 30. | Karcsa Község feladatainak támogatása | sportlétesítmény megvalósításához támogatás nyújtása | 8,0 |
+| 30. | Karcsa Község feladatainak támogatása | műfüves focipálya kialakítása | 8,0 |
 
 | 31. | Káva Község feladatainak támogatása | útburkolat felújítása | 20,0 |
 
@@ -336,7 +336,7 @@
 
 | 60. | Lovasberény Község feladatainak támogatása II. | önkormányzati utak felújítása, óvoda épületenergetikai korszerűsítése | 40,0 |
 
-| 61. | Mád Község feladatainak támogatása | utak, járdák, hidak helyreállítása, közterületen lévő pincefelületek egységesítése | 300,0 |
+| 61. | Mád Község feladatainak támogatása | ingatlanvásárlás, ingatlanfelújítás, utak, járdák felújítása, parkoló kialakítása, járműbeszerzés | 300,0 |
 
 | 62. | Maglód Város feladatainak támogatása | út- és járdafelújítás | 50,0 |
 
@@ -378,7 +378,7 @@
 
 | 81. | Monor Város feladatainak támogatása III. | önkormányzati ingatlan felújítás, útfelújítás | 450,0 |
 
-| 82. | Monostorpályi Község feladatainak támogatása | óvodafejlesztés | 15,0 |
+| 82. | Monostorpályi Község feladatainak támogatása | ingatlanvásárlás, belterületi utcák felújítása, önkormányzati tulajdonú ingatlanok felújítása, karbantartása, eszközbeszerzés, sportpályán világítás­korszerűsítés | 15,0 |
 
 | 83. | Móricgát Község feladatainak támogatása | útfelújítás | 150,0 |
 
@@ -412,7 +412,7 @@
 
 ## Határidő: azonnal
 
-## 4.[^3] a Kvtv. 19. § (2) bekezdésében meghatározott jogkörében eljárva – az egyes települési önkormányzatok feladatainak támogatása érdekében – 10 297,0 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 34. Önkormányzatok feladatainak támogatása III. cím alábbi alcímei javára, az 1. melléklet szerint:
+## 4.[^4] a Kvtv. 19. § (2) bekezdésében meghatározott jogkörében eljárva – az egyes települési önkormányzatok feladatainak támogatása érdekében – 10 297,0 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 34. Önkormányzatok feladatainak támogatása III. cím alábbi alcímei javára, az 1. melléklet szerint:
 
 ## millió forintban
 
@@ -426,7 +426,7 @@
 
 | 4. | Nyésta Község feladatainak támogatása | önkormányzati intézmények fűtéskorszerűsítése | 5,0 |
 
-| 5. | Nyíradony Város feladatainak támogatása | közmunkához kapcsolódó önkormányzati épületek fejlesztése, fejlesztésekhez kapcsolódó eszközbeszerzés | 345,0 |
+| 5. | Nyíradony Város feladatainak támogatása | önkormányzati épületek fejlesztése, eszközbeszerzés, út, kerékpárút, járda és parkoló fejlesztése | 345,0 |
 
 | 6. | Nyírbéltek Nagyközség feladatainak támogatása | szilárdhulladék lerakó rekultiváció | 87,7 |
 
@@ -548,7 +548,7 @@
 
 | 65. | Szenta Község feladatainak támogatása | faluház felújítása | 60,0 |
 
-| 66. | Szente Község feladatainak támogatása | óvoda, bölcsőde, konyha felújítása | 8,0 |
+| 66. | Szente Község feladatainak támogatása | belterületi utak felújítása | 8,0 |
 
 | 67. | Szerencs Város feladatainak támogatása | ingatlanvásárlás | 300,0 |
 
@@ -570,7 +570,7 @@
 
 ## Határidő: azonnal
 
-## 5.[^4] a Kvtv. 19. § (2) bekezdésében meghatározott jogkörében eljárva – az egyes települési önkormányzatok feladatainak támogatása érdekében – 4297,6 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 35. Önkormányzatok feladatainak támogatása IV. cím alábbi alcímei javára, az 1. melléklet szerint:
+## 5.[^5] a Kvtv. 19. § (2) bekezdésében meghatározott jogkörében eljárva – az egyes települési önkormányzatok feladatainak támogatása érdekében – 4297,6 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 35. Önkormányzatok feladatainak támogatása IV. cím alábbi alcímei javára, az 1. melléklet szerint:
 
 ## millió forintban
 
@@ -710,10 +710,11 @@
 
 ## 8. egyetért azzal, hogy ha az 2–5. pont szerinti költségvetési támogatás az érintett települési önkormányzatok számára a 2016. évben nem vagy nem teljes összegben kerül folyósításra, a 2017. évben a IX. Helyi önkormányzatok támogatásai fejezetben azonos néven létrehozott címekre, alcímekre e határozatot kell alkalmazni.
 
-1. melléklet az 1818/2016. (XII. 22.) Korm. határozathoz[^5]
+1. melléklet az 1818/2016. (XII. 22.) Korm. határozathoz[^6]
 
 [^1]: A 2. pont az 1883/2016. (XII. 28.) Korm. határozat 3. pont a) alpontja, az 1345/2017. (VI. 9.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^2]: A 3. pont az 1345/2017. (VI. 9.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^3]: A 4. pont az 1345/2017. (VI. 9.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^4]: Az 5. pont az 1345/2017. (VI. 9.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^5]: Az 1. melléklet az 1883/2016. (XII. 28.) Korm. rendelet 3. pont b) alpontja szerint módosított szöveg.
+[^2]: A 2. pont g) alpontja az 1722/2017. (X. 9.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: A 3. pont az 1345/2017. (VI. 9.) Korm. határozat 2. pontja, az 1722/2017. (X. 9.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^4]: A 4. pont az 1345/2017. (VI. 9.) Korm. határozat 3. pontja, az 1722/2017. (X. 9.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^5]: Az 5. pont az 1345/2017. (VI. 9.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet az 1883/2016. (XII. 28.) Korm. rendelet 3. pont b) alpontja szerint módosított szöveg.
