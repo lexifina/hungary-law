@@ -20,13 +20,13 @@
 
 ## Határidő: 2017. június 30., a Közútfejlesztési feladatok végrehajtása jogcímcsoport javára biztosított 40 140 ezer forint tekintetében 2017. december 15.
 
-## 3. egyetért azzal, hogy a belügyminiszter a 2. pont szerint a IX. Helyi önkormányzatok támogatásai fejezet részére átcsoportosított 562 000 ezer forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben nyújtson 562 000 ezer forint támogatást Göd Város Önkormányzata (a továbbiakban: Önkormányzat) részére, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről támogatási szerződést kössön az Önkormányzattal, 2017. december 31-ig történő felhasználási kötelezettség előírása mellett;
+## 3.[^2] egyetért azzal, hogy a belügyminiszter a 2. pont szerint a IX. Helyi önkormányzatok támogatásai fejezet részére átcsoportosított 562 000 ezer forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy vagy több részletben nyújtson 562 000 ezer forint támogatást Göd Város Önkormányzata (a továbbiakban: Önkormányzat) részére, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről támogatói okiratot adjon ki.
 
 ## Felelős: belügyminiszter
 
 ## Határidő: azonnal
 
-## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti támogatási szerződés megkötését követően folyósítsa a támogatást Göd Város Önkormányzata számára.
+## 4.[^3] egyetért azzal, hogy a belügyminiszter a 3. pont szerinti támogatói okirat kiadását követően folyósítsa a támogatást Göd Város Önkormányzata számára.
 
 ## Felelős: belügyminiszter
 
@@ -227,3 +227,5 @@ ezer forintban
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
 [^1]: A 2. pont az 1707/2017. (IX. 25.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1722/2017. (X. 9.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 4. pont az 1722/2017. (X. 9.) Korm. határozat 2. pontja szerint módosított szöveg.
