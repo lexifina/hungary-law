@@ -1,4 +1,4 @@
-## 1. egyetért azzal, hogy Szentendre Város Önkormányzata (a továbbiakban: Önkormányzat) részére támogatást biztosítson a tulajdonában álló Aquapalace Kereskedelmi és Szolgáltató Kft. Vizes Nyolcas Uszoda és Szabadidőközponttal kapcsolatban fennálló lízingszerződése végtörlesztéséhez;
+## 1.[^1] egyetért azzal, hogy Szentendre Város Önkormányzata (a továbbiakban: Önkormányzat) részére támogatást biztosítson a tulajdonában álló Aquapalace Kereskedelmi és Szolgáltató Kft. Vizes Nyolcas Uszoda és Szabadidőközponttal kapcsolatban fennálló lízingszerződés lezárása érdekében ingatlan vásárlásához;
 
 ## 2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 20. A szentendrei Vizes Nyolcas Uszoda beruházáshoz kapcsolódó feladatok támogatása címmel történő kiegészítését;
 
@@ -81,3 +81,5 @@ Költségvetési év: 2017.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 1. pont az 1722/2017. (X. 9.) Korm. határozat 6. pontjával megállapított szöveg.
