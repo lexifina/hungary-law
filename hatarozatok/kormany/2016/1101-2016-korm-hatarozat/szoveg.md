@@ -2,4 +2,6 @@ A Kormány egyetért azzal, hogy a kormányzati célú hálózatok további kons
 
 Felelős: nemzetgazdasági miniszter
 
-Határidő: 2016. július 1.
+Határidő: felmerülés ütemében[^1]
+
+[^1]: Az 1727/2017. (X. 10.) Korm. határozat 4. pontja szerint módosított szöveg.
