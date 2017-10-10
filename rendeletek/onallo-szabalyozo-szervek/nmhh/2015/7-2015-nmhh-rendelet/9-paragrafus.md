@@ -10,6 +10,6 @@ d) az adott frekvenciasáv elektronikus hírközlési szolgáltatás nyújtásá
 
 e) a másodlagos kereskedelem nem megengedett.
 
-(2)[^30]
+(2)[^35]
 
-[^30]: A 9. § (2) bekezdését a 2/2017. (I. 17.) NMHH rendelet 26. § (8) bekezdés b) pontja hatályon kívül helyezte.
+[^35]: A 9. § (2) bekezdését a 2/2017. (I. 17.) NMHH rendelet 26. § (8) bekezdés b) pontja hatályon kívül helyezte.

@@ -1,12 +1,12 @@
 ## 12. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-13. §[^32] (1) Ez a rendelet
+13. §[^37] (1) Ez a rendelet
 
 1. a nyilvános páneurópai digitális cellás földi mobil rádiótávközlés összehangolt közösségi bevezetése számára fenntartandó frekvenciasávokról szóló 1987. június 25-i 87/372/EGK tanácsi irányelvnek és az azt módosító 2009/114/EK európai parlamenti és tanácsi irányelvnek,
 
 2. az európai vezeték nélküli digitális távközlés (DECT) Közösségen belüli összehangolt bevezetéséhez kijelölendő frekvenciasávról szóló 1991. június 3-i 91/287/EGK tanácsi irányelvnek,
 
-3.[^33]
+3.[^38]
 
 4. az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002. március 7-i 2002/20/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -16,7 +16,7 @@
 
 7. az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv, az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról szóló 2002/19/EK irányelv és az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002/20/EK irányelv módosításáról szóló 2009. november 25-i 2009/140/EK európai parlamenti és tanácsi irányelvnek,
 
-7a.[^34] a rádióberendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról és az 1999/5/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 2014/53/EU európai parlamenti és tanácsi irányelvnek,
+7a.[^39] a rádióberendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról és az 1999/5/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 2014/53/EU európai parlamenti és tanácsi irányelvnek,
 
 8. a 11/12/14 GHz frekvenciasávban működő kis adatsebességű műholdas mobil földi állomásokra (LMES) vonatkozó közös műszaki szabályokról szóló 1998. június 17-i 98/516/EK bizottsági határozatnak,
 
@@ -26,7 +26,7 @@
 
 11. a DCS 1800-as sávban üzemelő nyilvános digitális cellás távközlő hálózatokkal (II. fázis) használható mobil állomásokra vonatkozó telefonalkalmazások követelményeire vonatkozó közös műszaki szabályokról (2. kiadás) szóló 1998. szeptember 4-i 98/543/EK bizottsági határozatnak,
 
-12.[^35] a nyilvános páneurópai digitális cellás földi mobil rádiótávközlés (II. fázis) csatlakoztatásának általános követelményeire vonatkozó közös műszaki szabályokról (2. kiadás) szóló 1998. szeptember 16-i 98/574/EK bizottsági határozatnak,
+12.[^40] a nyilvános páneurópai digitális cellás földi mobil rádiótávközlés (II. fázis) csatlakoztatásának általános követelményeire vonatkozó közös műszaki szabályokról (2. kiadás) szóló 1998. szeptember 16-i 98/574/EK bizottsági határozatnak,
 
 13. a GSM 1800-as sávban működő nyilvános digitális cellás távközlő hálózatokkal (II. fázis) használható mobil állomások csatlakoztatására vonatkozó általános követelményekre irányadó közös műszaki szabályokról (2. kiadás) szóló 1998. szeptember 16-i 98/575/EK bizottsági határozatnak,
 
@@ -64,7 +64,7 @@
 
 30. az ultraszéles sávú technológiát használó berendezések számára a rádiófrekvenciák Közösségen belüli, harmonizált módon történő használatának engedélyezéséről szóló 2007. február 21-i 2007/131/EK bizottsági határozatnak és az azt módosító 2009/343/EK bizottsági határozatnak, valamint 2014/702/EU bizottsági végrehajtási határozatnak,
 
-31. a Közösség területén a légi járműveken hozzáférhető mobilhírközlési szolgáltatások (MCA-szolgáltatások) spektrumhasználatának harmonizált feltételeiről szóló 2008. április 7-i 2008/294/EK bizottsági határozatnak és az azt módosító 2013/654/EU bizottsági végrehajtási határozatnak,
+31.[^41] a Közösség területén a légi járműveken hozzáférhető mobilhírközlési szolgáltatások (MCA-szolgáltatások) spektrumhasználatának harmonizált feltételeiről szóló 2008. április 7-i 2008/294/EK bizottsági határozatnak és az azt módosító 2013/654/EU és (EU) 2016/2317 bizottsági végrehajtási határozatnak,
 
 32. a 3400–3800 MHz-es frekvenciasávnak a Közösségen belül elektronikus hírközlési szolgáltatások nyújtására alkalmas földi rendszerek javára történő harmonizálásáról szóló 2008. május 21-i 2008/411/EK bizottsági határozatnak és az azt módosító 2014/276/EU bizottsági végrehajtási határozatnak,
 
@@ -72,13 +72,13 @@
 
 34. a mobil műholdas szolgáltatásokat nyújtó rendszerek (MSS) kiválasztásáról és engedélyezéséről szóló 2008. június 30-i 626/2008/EK európai parlamenti és tanács határozat 2. cikk (2) bekezdésének, 8. cikk (3) bekezdés b) pontjának, 9. cikk (2) bekezdés második albekezdésének,
 
-35.[^36] a rádióspektrum 5875–5905 MHz-es frekvenciasávjának az intelligens közlekedési rendszerek (ITS) biztonsággal összefüggő alkalmazásai érdekében történő harmonizált felhasználásáról szóló 2008. augusztus 5-i 2008/671/EK bizottsági határozatnak,
+35.[^42] a rádióspektrum 5875–5905 MHz-es frekvenciasávjának az intelligens közlekedési rendszerek (ITS) biztonsággal összefüggő alkalmazásai érdekében történő harmonizált felhasználásáról szóló 2008. augusztus 5-i 2008/671/EK bizottsági határozatnak,
 
 36. a páneurópai mobil műholdas szolgáltatásokat nyújtó rendszerek (MSS) üzemeltetőinek kiválasztásáról szóló 2009. május 13-i 2009/449/EK bizottsági határozatnak,
 
 37. a 900 MHz-es és az 1800 MHz-es frekvenciasávnak a Közösségen belül páneurópai elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek részére történő harmonizálásáról szóló 2009. október 16-i 2009/766/EK bizottsági határozatnak és az azt módosító 2011/251/EU bizottsági végrehajtási határozatnak,
 
-38. az Európai Unió területén a hajókon hozzáférhető mobilhírközlési szolgáltatások (MCV-szolgáltatások) rádióspektrum-használatának harmonizált feltételeiről szóló 2010. március 19-i 2010/166/EU bizottsági határozatnak,
+38.[^43] az Európai Unió területén a hajókon hozzáférhető mobilhírközlési szolgáltatások (MCV-szolgáltatások) rádióspektrum-használatának harmonizált feltételeiről szóló 2010. március 19-i 2010/166/EU bizottsági határozatnak és az azt módosító (EU) 2017/191 bizottsági végrehajtási határozatnak,
 
 39. az Európai Unióban az elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek 790–862 MHz-es frekvenciasávú használatának harmonizált műszaki feltételeiről szóló 2010. május 6-i 2010/267/EU bizottsági határozatnak,
 
@@ -94,7 +94,11 @@
 
 45. az 1 452–1 492 MHz frekvenciasávnak az Unión belül elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek érdekében történő harmonizálásáról szóló 2015. május 8-i 2015/750 bizottsági (EU) végrehajtási határozatnak,
 
-45a.[^37] a 2010–2025 MHz frekvenciasávnak a műsorgyártáshoz és különleges eseményekhez használt hordozható vagy mobil vezeték nélküli video-összeköttetések és zsinór nélküli kamerák tekintetében történő harmonizálásáról szóló, 2016. március 8-i (EU) 2016/339 bizottsági végrehajtási határozatnak,
+45a.[^44] a 2010–2025 MHz frekvenciasávnak a műsorgyártáshoz és különleges eseményekhez használt hordozható vagy mobil vezeték nélküli video-összeköttetések és zsinór nélküli kamerák tekintetében történő harmonizálásáról szóló, 2016. március 8-i (EU) 2016/339 bizottsági végrehajtási határozatnak,
+
+45b.[^45] a 694–790 MHz frekvenciasávnak az Unión belül vezeték nélküli szélessávú elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek számára és a rugalmas nemzeti használat érdekében történő harmonizálásáról szóló, 2016. április 28-i (EU) 2016/687 bizottsági végrehajtási határozat 2. cikk 1. és 2. pontjának, 3. cikke kijelölésre vonatkozó rendelkezéseinek, valamint 4. és 5. cikkének,
+
+45c.[^46] a 470–790 MHz frekvenciasáv Unión belüli használatáról szóló, 2017. május 17-i (EU) 2017/899 európai parlamenti és tanácsi határozat 1. és 4. cikkének,
 
 46. a légi járműveken hozzáférhető mobilhírközlési szolgáltatásoknak (MCA-szolgáltatások) az Európai Közösségben való engedélyezéséről szóló 2008. április 7-i 2008/295/EK bizottsági ajánlás 2. és 8. pontjának
 
@@ -102,9 +106,13 @@
 
 (2) Ez a rendelet az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságára vonatkozó követelmények megállapításáról szóló 2012. november 16-i 1079/2012/EU bizottsági végrehajtási rendeletnek és az azt módosító 657/2013/EU bizottsági végrehajtási rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^32]: A 13. § a 2/2016. (II. 26.) NMHH rendelet 35. §-ával megállapított szöveg.
-[^33]: A 13. § (1) bekezdés 3. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (8) bekezdés c) pontja hatályon kívül helyezte.
-[^34]: A 13. § (1) bekezdés 7a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (5) bekezdése iktatta be.
-[^35]: A 13. § (1) bekezdés 12. pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^36]: A 13. § (1) bekezdés 35. pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^37]: A 2. § (1) bekezdés 45a. pontját a 8/2017. (VII. 28.) NMHH rendelet 18. §-a iktatta be.
+[^37]: A 13. § a 2/2016. (II. 26.) NMHH rendelet 35. §-ával megállapított szöveg.
+[^38]: A 13. § (1) bekezdés 3. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (8) bekezdés c) pontja hatályon kívül helyezte.
+[^39]: A 13. § (1) bekezdés 7a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (5) bekezdése iktatta be.
+[^40]: A 13. § (1) bekezdés 12. pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^41]: A 13. § (1) bekezdés 31. pontja a 11/2017. (IX. 25.) NMHH rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^42]: A 13. § (1) bekezdés 35. pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^43]: A 13. § (1) bekezdés 38. pontja a 11/2017. (IX. 25.) NMHH rendelet 5. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^44]: A 2. § (1) bekezdés 45a. pontját a 8/2017. (VII. 28.) NMHH rendelet 18. §-a iktatta be.
+[^45]: A 13. § (1) bekezdés 45b. pontját a 11/2017. (IX. 25.) NMHH rendelet 2. §-a iktatta be.
+[^46]: A 13. § (1) bekezdés 45c. pontját a 11/2017. (IX. 25.) NMHH rendelet 2. §-a iktatta be.

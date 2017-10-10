@@ -1,6 +1,6 @@
-## 16. §[^40]
+## 16. §[^50]
 
-1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez[^41]
+1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez[^51]
 
 ## Nemzetközi felosztás
 
@@ -28,5 +28,5 @@
 
 2.1.5. Amennyiben a rádiószolgálat megnevezése mellett zárójeles kiegészítés szerepel, akkor a rádiószolgálatra vonatkozó felosztás az így megjelölt működési típusra, alkalmazásra, frekvenciára korlátozódik.
 
-[^40]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: Az 1. melléklet a 8/2017. (VII. 28.) NMHH rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^50]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: Az 1. melléklet a 8/2017. (VII. 28.) NMHH rendelet 21. § (2) bekezdése szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 14. §[^38] E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+## 14. §[^47] E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-## 15. §[^39] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2. és 3. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti frekvenciafelosztás, illetve a frekvenciasávok felhasználási szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
+## 15. §[^48] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2. és 3. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti frekvenciafelosztás, illetve a frekvenciasávok felhasználási szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
 
 1. ERC/DEC/(96)06: az ERC 1996. március 7-i határozata a „Határozat a digitális kis hatókörzetű rádió (DSRR) összehangolt bevezetéséhez kijelölendő frekvenciasávokról” című (93)01 ERC-határozat visszavonásáról;
 
@@ -36,7 +36,7 @@
 
 17. ECC/DEC/(08)07: az ECC 2008. június 27-i határozata az ERC/DEC/(98)03, ERC/DEC/(98)17, ERC/DEC/(98)18 és az ERC/DEC/(98)24 ERC-határozat visszavonásáról;
 
-18. ECC/DEC/(08)08: az ECC 2008. október 31-i határozata a 880–915/925–960 MHz és az 1710–1785/1805–1880 MHz frekvenciasávban működő hajófedélzeti GSM rendszer harmonizált használatáról;
+18.[^49] ECC/DEC/(08)/08: az ECC 2016. március 4-i határozata a 900 MHz-es és az 1800 MHz-es sávban működő GSM rendszerek, a 2 GHz-es sávban működő UMTS rendszerek és az 1800 MHz-es és a 2,6 GHz-es sávban működő LTE rendszerek hajók fedélzetén történő harmonizált használatáról;
 
 19. ECC/DEC/(09)05: az ECC 2009. október 30-i határozata az ERC/DEC/(96)04, ECC/DEC/(04)01 és az ECC/DEC/(04)02 ERC/ECC-határozat visszavonásáról;
 
@@ -46,5 +46,6 @@
 
 22. ECC/DEC/(14)01: ECC-határozat a (02)07 ECC-határozat visszavonásáról.
 
-[^38]: A 14. § a 8/2017. (VII. 28.) NMHH rendelet 19. §-ával megállapított szöveg.
-[^39]: A 15. § nyitó szövegrésze a 2/2016. (II. 26.) NMHH rendelet 37. § (2) bekezdése szerint módosított szöveg.
+[^47]: A 14. § a 8/2017. (VII. 28.) NMHH rendelet 19. §-ával megállapított szöveg.
+[^48]: A 15. § nyitó szövegrésze a 2/2016. (II. 26.) NMHH rendelet 37. § (2) bekezdése szerint módosított szöveg.
+[^49]: A 15. § 18. pontja a 11/2017. (IX. 25.) NMHH rendelet 3. §-ával megállapított szöveg.
