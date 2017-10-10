@@ -80,7 +80,7 @@
 
 ## a b) alpont tekintetében minden naptári negyedév végét követő tizenötödik nap
 
-1. melléklet az 1374/2017. (VI. 13.) Korm. határozathoz
+1. melléklet az 1374/2017. (VI. 13.) Korm. határozathoz[^1]
 
 |  | A | B | C | D | E | F | G | H | I | J |
 
@@ -96,7 +96,7 @@
 
 | 6. | – | Fővárosi Ivóvízminőség-javító Projekt | Budapest Főváros Önkormányzata és NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság konzorciuma | 2017. június 30. | 2017. szeptember 30. | 2018. március 31. | 2018. szeptember 30. | 2019. március 31. | 2018. június 30. | 2018. december 31. |
 
-| 7. | – | Budapesti szennyvíziszapok energetikai hasznosítása / HUHA (hulladék hasznosító) II. | Budapest Főváros Önkormányzata és NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság konzorciuma | 2017. június 30. | 2017. december 31. | 2018. június 30. | 2018. december 31. | 2019. június 30. | 2018. szeptember 30. | 2019. március 31. |
+| 7. | KEHOP-2.3.0- 16-2017-00001 | Budapesti szennyvíziszapok energetikai hasznosítása / HUHA (hulladék hasznosító) II. | Budapest Főváros Önkormányzata és NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság konzorciuma | 2017. június 30. | 2018. június 30. | 2018. június 30. | 2018. december 31. | 2019. június 30. | 2018. szeptember 30. | 2019. március 31. |
 
 | 8. | IKOP-2.1.0-15- 2016-00008 | Szántód–Kőröshegy–Balatonszentgyörgy vasútvonal korszerűsítése és kiegészítő munkák elvégzése | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság (a továbbiakban: NIF Zrt.) | – | – | 2017. június 30. | – | – | 2017. december 31. | 2018. március 31. |
 
@@ -135,3 +135,5 @@
 | 25. | – | M8 autóút Körmend–Rábafüzes országhatár szakasz 2×1 sávos előkészítése és építése | NIF Zrt. | 2017. március 29. | 2017. szeptember 30. | 2017. szeptember 30. | 2017. július 31. | 2018. december 31. | – | 2018. szeptember 30. |
 
 | 26. | IKOP-4.1.0-15- 2016-00003 | 83. sz. főút fejlesztése Pápa–Győr, M1 autópálya között | NIF Zrt. | – | 2017. december 31. | 2017. december 31. | 2017. január 31. | 2017. szeptember 30. | – | 2018. szeptember 30. |
+
+[^1]: Az 1. melléklet az 1738/2017. (X. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
