@@ -1,0 +1,1 @@
+## „199a. PPDR rendszer: a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendeletben meghatározott EDR felhasználók és csatlakozó felhasználók által különösen közrendvédelmi, katasztrófavédelmi, honvédelmi és nemzetbiztonsági célból – ideértve a különleges jogrendben felmerülő szükségleteket is – használt rádiórendszer;”
