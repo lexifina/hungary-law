@@ -20,4 +20,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a támogatói okirat kiadásakor
 
-5. visszavonja a Modern Városok Program keretében a Kaposvári Kaposi Mór Kórházi déli épülettömb rehabilitációjának megvalósítása érdekében támogatás biztosításáról szóló 1526/2017. (VIII. 14.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
