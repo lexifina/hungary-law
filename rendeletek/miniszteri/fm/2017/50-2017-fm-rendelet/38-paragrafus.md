@@ -1,0 +1,1 @@
+## 37. § Az 53/2016. (VII. 21.) FM rendelet 4. melléklet 8. pontjában a „150/2012. (XII. 28.) VM rendelet 23. § (2) bekezdése szerinti éves jelentés” szövegrész helyébe az „50/2017. (X. 10.) FM rendelet 26. § (2) bekezdése szerinti tájékoztatás” szöveg lép.

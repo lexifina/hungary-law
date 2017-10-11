@@ -1,0 +1,13 @@
+## 17. Ellenőrzés, jogkövetkezmények
+
+28. § (1) A 892/2017/EU bizottsági rendelet 24. és 25. cikkében hivatkozott helyszíni szemle, helyszíni ellenőrzés és adminisztratív ellenőrzés elvégzéséről a miniszter gondoskodik. Más, a 892/2017/EU bizottsági rendeletben meghatározott ellenőrzés elvégzésére a Kincstár jogosult. A 892/2017/EU bizottsági rendelet 27. cikkében meghatározott, valamint a 26. cikk keretében végzett ellenőrzés során az elismerési feltételeket érintő megállapításokat is tartalmazó dokumentum egy másolati példányát meg nem felelőség vagy szabálytalanság gyanúja esetén a Kincstár megküldi a miniszter részére.
+
+(2) Ha a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1306/2013/EU európai parlamenti és tanácsi rendelet) 85. cikkének megfelelően az uniós vámjog végrehajtásáról szóló törvény szerint elvégzett utólagos ellenőrzés alapján készült, a Kincstár részére megküldött vizsgálati jegyzőkönyv az elismerési feltételek sérelmének gyanújával kapcsolatos megállapításokat tartalmaz, akkor a Kincstár a jegyzőkönyvet megküldi a miniszter részére.
+
+(3) Az elismerési feltételek sérelmével, a 891/2017/EU bizottsági rendelet 60. cikkében meghatározott csalással, az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikkével, valamint a 892/2017/EU bizottsági rendelet 21. cikke szerinti tájékoztatás elmulasztásával vagy nem megfelelő teljesítésével kapcsolatos jogkövetkezményeket a miniszter, az ezek alapján a támogatások folyósításának felfüggesztése vagy a korábban már folyósított támogatási összeg visszakövetelése vonatkozásában a Kincstár foganatosítja.
+
+(4) A termelői szervezetekre vonatkozó jogszabályoknak való megfelelés és az azokban foglalt kötelezettségek teljesítésének adminisztratív úton történő ellenőrzéséről, valamint azon termelői szervezet vonatkozásában, amely nem rendelkezik operatív programmal, illetve nem nyújt be támogatási kérelmet, az elismerési követelményeknek való megfelelés ellenőrzéséről – ideértve a helyszíni szemle lefolytatását is – a miniszter gondoskodik.
+
+(5) A miniszter az elismerésnek a 891/2017/EU bizottsági rendelet 59. cikk szerinti felfüggesztéséről vagy visszavonásáról szóló határozatát az érintett termelői szervezetnek és a Kincstárnak küldi meg.
+
+(6) Ha a termelői szervezet a 26. § (4) bekezdésében meghatározott jelentését nem vagy nem a jogszabályokban foglaltaknak megfelelően küldi meg, részére támogatás addig nem fizethető ki, amíg a tartalmi és formai követelményeknek megfelelő jelentés megküldésre nem kerül.

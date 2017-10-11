@@ -1,0 +1,9 @@
+# 50/2017. (X. 10.) FM rendelet
+
+a zöldség-gyümölcs termelői szervezetekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-50-20-11
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-10-11 | 2017-50-20-11.1 | 50/2017. (X. 10.) FM rendelet |
