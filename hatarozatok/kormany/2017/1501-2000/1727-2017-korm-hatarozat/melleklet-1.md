@@ -14,9 +14,7 @@
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1707/2017. (IX. 25.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 30. Társadalmi, civil és non-profit szervezetek működési támogatása alcím, 23. Kulturális társadalmi, civil és non-profit szervezetek jogcímcsoport, 5. Tudományos Ismeretterjesztő Társulat támogatása jogcím, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára biztosított 66 829 940 forint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 6. A Budapesti Planetárium épületének felújítása jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 3. Az Óbudai Egyetem már megkezdett kollégiumi beruházásának megvalósításához szükséges – részben a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosítással történő – forrás biztosításáról szóló 1457/2015. (VII. 7.) Korm. határozatban a „2016. december 31.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 4. A kormányzati célú hálózatok továbbfejlesztéséről, a fejlesztések ütemezéséről, összhangban a Digitális Nemzet Fejlesztési Program megvalósításával című 1101/2016. (III. 3.) Korm. határozatban a „2016. július 1.” szövegrész helyébe a „felmerülés ütemében” szöveg lép.
+## 3–4.[^1]
 
 1. melléklet az 1727/2017. (X. 10.) Korm. határozathoz
 
@@ -291,3 +289,5 @@ Költségvetési év: 2017.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
