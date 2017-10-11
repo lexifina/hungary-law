@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-32-20-5
 | 2016-01-01 | 2005-32-20-53.26 | 31/2015. (XI. 24.) NGM rendelet |
 | 2016-01-02 | 2005-32-20-53.27 | 49/2015. (XII. 30.) NGM rendelet |
 | 2017-07-01 | 2005-32-20-53.28 | 17/2017. (VI. 30.) NGM rendelet |
+| 2017-10-11 | 2005-32-20-53.29 | 30/2017. (X. 10.) NGM rendelet |

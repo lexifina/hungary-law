@@ -8,4 +8,6 @@ c) a távszerencsejátékban vagy az online kaszinójátékban kizárólag sajá
 
 (2) A játékos részére a távszerencsejáték szervezőnél, illetve egy online kaszinóban kizárólag egy felhasználónév és egyidejűleg egy jelszó biztosítható.
 
-(3) A játékos a nyilvántartásból való törléséig a távszerencsejáték-szervezőnél, illetve ugyanazon online kaszinóban ismételten nem vehető nyilvántartásba.
+(3)[^101]
+
+[^101]: A 31. § (3) bekezdését a 30/2017. (X. 10.) NGM rendelet 10. § (1) bekezdése hatályon kívül helyezte.

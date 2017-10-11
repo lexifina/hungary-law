@@ -18,11 +18,11 @@ f) a jackpot kifizetés
 
 ## rendjét.
 
-(3)[^160] A szervező az elszámolás alátámasztására a származtatott adatok tekintetében számítógépes elszámolási rendszert üzemeltethet. Ennek leírását köteles megküldeni a szerencsejáték-felügyeleti hatóságnak.
+(3)[^166] A szervező az elszámolás alátámasztására a származtatott adatok tekintetében számítógépes elszámolási rendszert üzemeltethet. Ennek leírását köteles megküldeni a szerencsejáték-felügyeleti hatóságnak.
 
-(4)[^161] A videofelvételek megőrzésének és az elszámolási bizonylatok beküldésének idejét a szervezőnek úgy kell kialakítania, hogy az elszámolási bizonylatok beküldését követően legalább öt munkanap a szerencsejáték-felügyeleti hatóság rendelkezésére álljon a beküldött bármely bizonylat tartalmának alátámasztására szolgáló videofelvétel megtekintésére. A játékkaszinóban történt rendkívüli eseményeket, illetve a játékosokkal szemben alkalmazott intézkedéseket tartalmazó videofelvételeket és egyéb okiratokat a szervező legalább harminc napig köteles megőrizni.
+(4)[^167] A videofelvételek megőrzésének és az elszámolási bizonylatok beküldésének idejét a szervezőnek úgy kell kialakítania, hogy az elszámolási bizonylatok beküldését követően legalább öt munkanap a szerencsejáték-felügyeleti hatóság rendelkezésére álljon a beküldött bármely bizonylat tartalmának alátámasztására szolgáló videofelvétel megtekintésére. A játékkaszinóban történt rendkívüli eseményeket, illetve a játékosokkal szemben alkalmazott intézkedéseket tartalmazó videofelvételeket és egyéb okiratokat a szervező legalább harminc napig köteles megőrizni.
 
-(5)[^162] A játékkaszinóban folyó szerencsejáték-szervező tevékenység meg- vagy újrakezdésekor, megszűnésekor, továbbá a naptári év végén a szervező köteles nyitó-, illetve zárózseton és token-leltárt készíteni. A szervező köteles a leltár időpontjáról tíz nappal előtte a szerencsejáték-felügyeleti hatóságot értesíteni, továbbá a leltári ív egy példányát nyolc napon belül megküldeni.
+(5)[^168] A játékkaszinóban folyó szerencsejáték-szervező tevékenység meg- vagy újrakezdésekor, megszűnésekor, továbbá a naptári év végén a szervező köteles nyitó-, illetve zárózseton és token-leltárt készíteni. A szervező köteles a leltár időpontjáról tíz nappal előtte a szerencsejáték-felügyeleti hatóságot értesíteni, továbbá a leltári ív egy példányát nyolc napon belül megküldeni.
 
 A leltárívnek a következő adatokat kell tartalmaznia:
 
@@ -44,7 +44,7 @@ a) a bizonylatoknak előre sorszámozottaknak és szigorú számadásúaknak kel
 
 b) a szervezőnek gondoskodnia kell a bizonylatok biztonságos tárolásáról és a bizonylattömbök nyilvántartásáról,
 
-c)[^163] a bizonylatokat úgy kell tárolni, hogy a kaszinó nyitvatartási ideje alatt a szerencsejáték-felügyeleti hatóság ellenőrei azokat megtekinthessék,
+c)[^169] a bizonylatokat úgy kell tárolni, hogy a kaszinó nyitvatartási ideje alatt a szerencsejáték-felügyeleti hatóság ellenőrei azokat megtekinthessék,
 
 d) a bizonylatokat a rögzítendő eseményekkel egyidejűleg kell kitölteni, e tekintetben a bizonylat dátuma az adott játéknap,
 
@@ -52,18 +52,18 @@ e) a bizonylatokon aláíróként szereplő alkalmazottak számát a szervező n
 
 f) kitöltési hiba a hibás adat egyszeri áthúzásával és a helyes adat melléírásával javítható, amely hiba javítását a hiba javítója aláírásával igazolja,
 
-g)[^164] nem javítható adatoknak minősülnek a bizonylat dátuma és a játékasztal száma. Nem javítható adat esetén a bizonylatot érvényteleníteni kell és új bizonylatot kell kiállítani. Az érvénytelenítés okáról minden esetben jegyzőkönyvet kell felvenni és azt a rontott bizonylattal együtt a (4) bekezdés alapján kialakított elszámolási bizonylatok beküldési rendje szerint kell megküldeni a szerencsejáték-felügyeleti hatósághoz,
+g)[^170] nem javítható adatoknak minősülnek a bizonylat dátuma és a játékasztal száma. Nem javítható adat esetén a bizonylatot érvényteleníteni kell és új bizonylatot kell kiállítani. Az érvénytelenítés okáról minden esetben jegyzőkönyvet kell felvenni és azt a rontott bizonylattal együtt a (4) bekezdés alapján kialakított elszámolási bizonylatok beküldési rendje szerint kell megküldeni a szerencsejáték-felügyeleti hatósághoz,
 
 h) a bizonylatok első példányát ellenőrzés után, bizonylattípusonként, emelkedő sorszám szerint kell összeállítani és kísérő jegyzékkel ellátni,
 
-i)[^165] a bizonylatokat a tárgyhót követő hónap ötödik munkanapjáig a szerencsejáték-felügyeleti hatósághoz meg kell küldeni. Az adatszolgáltatásnak tartalmaznia kell a látogatók naponkénti létszámát hazai és külföldi látogatói bontásban, valamint az adott hónap dropját.
+i)[^171] a bizonylatokat a tárgyhót követő hónap ötödik munkanapjáig a szerencsejáték-felügyeleti hatósághoz meg kell küldeni. Az adatszolgáltatásnak tartalmaznia kell a látogatók naponkénti létszámát hazai és külföldi látogatói bontásban, valamint az adott hónap dropját.
 
-(7)[^166] Minden olyan rendkívüli eseményről (pl. vis maior), amelyre nézve jogszabály vagy a játékkaszinó jóváhagyott játékterve előírásokat nem tartalmaz, a szervező köteles a szerencsejáték-felügyeleti hatóságot haladéktalanul telekommunikációs eszköz útján tájékoztatni.
+(7)[^172] Minden olyan rendkívüli eseményről (pl. vis maior), amelyre nézve jogszabály vagy a játékkaszinó jóváhagyott játékterve előírásokat nem tartalmaz, a szervező köteles a szerencsejáték-felügyeleti hatóságot haladéktalanul telekommunikációs eszköz útján tájékoztatni.
 
-[^160]: A 69. § (3) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § d) pontja szerint módosított szöveg.
-[^161]: A 69. § (4) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^162]: A 69. § (5) bekezdés nyitó szövegrésze a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.
-[^163]: A 69. § (6) bekezdés c) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^164]: A 69. § (6) bekezdésének g) pontja a 19/2006. (VII. 31.) PM rendelet 32. §-ával megállapított, a 17/2017. (VI. 30.) NGM rendelet 11. § f) pontja szerint módosított szöveg.
-[^165]: A 69. § (6) bekezdésének i) pontja a 36/2006. (XII. 25.) PM rendelet 4. § (5) bekezdése, a 17/2017. (VI. 30.) NGM rendelet 11. § f) pontja szerint módosított szöveg.
-[^166]: A 69. § (7) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.
+[^166]: A 69. § (3) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § d) pontja szerint módosított szöveg.
+[^167]: A 69. § (4) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^168]: A 69. § (5) bekezdés nyitó szövegrésze a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.
+[^169]: A 69. § (6) bekezdés c) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^170]: A 69. § (6) bekezdésének g) pontja a 19/2006. (VII. 31.) PM rendelet 32. §-ával megállapított, a 17/2017. (VI. 30.) NGM rendelet 11. § f) pontja szerint módosított szöveg.
+[^171]: A 69. § (6) bekezdésének i) pontja a 36/2006. (XII. 25.) PM rendelet 4. § (5) bekezdése, a 17/2017. (VI. 30.) NGM rendelet 11. § f) pontja szerint módosított szöveg.
+[^172]: A 69. § (7) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.

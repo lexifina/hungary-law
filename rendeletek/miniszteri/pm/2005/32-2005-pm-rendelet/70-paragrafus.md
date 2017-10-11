@@ -4,7 +4,7 @@
 
 ## Engedélyezés
 
-70. § (1)[^167] A fogadás szervezésére jogosult kérelmező tevékenységének engedélyezése iránt kérelmet nyújt be személyesen vagy postai úton a szerencsejáték-felügyeleti hatósághoz. A szerencsejáték-felügyeleti hatóság folyamatosan szervezett totalizatőri, illetve bukmékeri rendszerű fogadás (a továbbiakban együtt: fogadási formák) szervezésére adhat engedélyt.
+70. § (1)[^173] A fogadás szervezésére jogosult kérelmező tevékenységének engedélyezése iránt kérelmet nyújt be személyesen vagy postai úton a szerencsejáték-felügyeleti hatósághoz. A szerencsejáték-felügyeleti hatóság folyamatosan szervezett totalizatőri, illetve bukmékeri rendszerű fogadás (a továbbiakban együtt: fogadási formák) szervezésére adhat engedélyt.
 
 (2) Az engedély iránti kérelemhez a 2. § (3) bekezdésében foglaltakon túl csatolni kell:
 
@@ -20,7 +20,7 @@ e) az engedélyezési eljárásért fizetendő igazgatási-szolgáltatási díj,
 
 f) a hírközlő eszközök és rendszerek igénybevételével szervezett fogadások engedélyezése esetén az Szjtv. 2. §-ának (6) bekezdésében foglalt követelmények teljesítését igazoló, az e rendelet 18. §-ának (4) bekezdésében előírt okiratot.
 
-(3)[^168] A fogadási hálózatban történő változtatásról a szervező köteles bejelentést tenni a szerencsejáték-felügyeleti hatóságnak a fogadóiroda megnyitását megelőző nyolcadik napig, illetve legkésőbb a bezárás napjáig.
+(3)[^174] A fogadási hálózatban történő változtatásról a szervező köteles bejelentést tenni a szerencsejáték-felügyeleti hatóságnak a fogadóiroda megnyitását megelőző nyolcadik napig, illetve legkésőbb a bezárás napjáig.
 
 (4) A szervezőt megilleti a fogadás törlésének joga
 
@@ -34,5 +34,5 @@ b) a fogadási esemény megkezdése után, ha a fogadási esemény a lebonyolít
 
 (7) Az egyes fogadások esetén a legmagasabb tét értéke a 100 ezer forintot nem haladhatja meg.
 
-[^167]: A 70. § (1) bekezdése a 17/2017. (VI. 30.) NGM rendelet 6. §-ával megállapított szöveg.
-[^168]: A 70. § (3) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § d) pontja szerint módosított szöveg.
+[^173]: A 70. § (1) bekezdése a 17/2017. (VI. 30.) NGM rendelet 6. §-ával megállapított szöveg.
+[^174]: A 70. § (3) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § d) pontja szerint módosított szöveg.

@@ -1,28 +1,34 @@
 ## A távszerencsejáték szervező és az online kaszinójáték szervező havi gyakoriságú adatszolgáltatási kötelezettsége
 
-## I. Valamennyi játéktípus tekintetében az alábbi összesített adatok:
+## I.[^287] Valamennyi játéktípus tekintetében az alábbi összesített adatok:
 
 ## a) az adatszolgáltatással érintett időszak utolsó napján a játékosi egyenlegek kumulált összege,
 
 ## b) az adatszolgáltatással érintett időszakban a játékosi befizetések összege,
 
-## c) az adatszolgáltatással érintett időszakban a játékosi egyenlegen jóváírt egyéb összegek (pl. bónusz),
+## c) az adatszolgáltatással érintett időszakban a játékosi egyenlegen jóváírt egyéb összegek (kézi korrekció),
 
-## d) az adatszolgáltatással érintett időszakban a játékosok által felhelyezett tétek összege,
+## d) az adatszolgáltatással érintett időszakban a játékosi egyenleget terhelő egyéb összegek (kézi korrekció),
 
-## e) az adatszolgáltatással érintett időszakban a játékosok által elért nyeremények összege,
+## e) az adatszolgáltatással érintett időszakban a játékosok által felhelyezett tétek összege, beleértve azon téteket, amelyeket a szervező utóbb visszafizetett a játékos részére,
 
-## f) az adatszolgáltatással érintett időszakban a játékosok igényelt kifizetésének összege,
+## f) az adatszolgáltatással érintett időszakban a játékosi egyenlegre visszafizetett tétek összege,
 
-## g) az adatszolgáltatással érintett időszak utolsó napján regisztrált játékosok száma,
+## g) az adatszolgáltatással érintett időszakban a játékosok által elért nyeremények összege,
 
-## h) az adatszolgáltatással érintett időszakban az új regisztrációk száma,
+## h) online kaszinójáték esetén a bónuszból átkonvertált, kifizetésre alkalmas jóváírások összege,
 
-## i) az adatszolgáltatással érintett időszakban az igazoló ellenőrzés alatt lévő regisztrációk száma,
+## i) a szervező által a játékosoknak nyújtott bónuszok összege,
 
-## j) az adatszolgáltatással érintett időszakban az igazoló ellenőrzés alapján elutasított regisztrációk száma,
+## j) az adatszolgáltatással érintett időszakban a játékosok igényelt kifizetésének összege,
 
-## k) az adatszolgáltatással érintett időszakban a törölt regisztrációk száma.
+## k) az adatszolgáltatással érintett időszak utolsó napján regisztrált játékosok száma,
+
+## l) az adatszolgáltatással érintett időszakban az új regisztrációk száma,
+
+## m) az adatszolgáltatással érintett időszakban az igazoló ellenőrzés alapján elutasított regisztrációk száma,
+
+## n) az adatszolgáltatással érintett időszakban megszüntetett játékosi egyenlegek száma.
 
 ## II. Minden játéktípus tekintetében, játéktípusonként kimutatva és az alábbi megosztás szerint elkülönítve szükséges adatok:
 
@@ -74,6 +80,7 @@
 
 ## e) az adatszolgáltatási időszakban a játékban részt vevő játékosok száma.
 
-6. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^279]
+6. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^288]
 
-[^279]: A 6. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 15. § c) pontja iktatta be.
+[^287]: Az 5. számú melléklet I. pontja a 30/2017. (X. 10.) NGM rendelet 8. § b) pontjával megállapított szöveg.
+[^288]: A 6. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 15. § c) pontja iktatta be.

@@ -1,26 +1,36 @@
 ## Távoli hozzáféréssel biztosított adatok köre távszerencsejáték és az online kaszinójáték szervezése esetén
 
-## I. Játékosi egyenleggel kapcsolatos adatok a játéktípustól függetlenül:
+## I.[^289] Játékosi egyenleggel kapcsolatos adatok a játéktípustól függetlenül:
 
 ## a) játékosi azonosító adat (pl. felhasználói név, alkalmazott azonosító stb.),
 
 ## b) a játékosi egyenleget növelő tételek, valamint ezek jogcíme és mértéke óra, perc és másodperc pontossággal,
 
-## c) a játékosi egyenleget csökkentő tételek, valamint ezek jogcíme és mértéke óra, perc és másodperc pontossággal.
+## c) a játékosi egyenleget csökkentő tételek, valamint ezek jogcíme és mértéke óra, perc és másodperc pontossággal,
 
-## II. Sportfogadás esetén:
+## d) a játékosi egyenleg összege adott időpontra vonatkozóan,
+
+## e) az összes játékosi egyenleget növelő tételek összege jogcímfajtánként adott időszakra vonatkozóan,
+
+## f) az összes játékosi egyenleget csökkentő tételek összege jogcímfajtánként adott időszakra vonatkozóan,
+
+## g) a játékosok által távszerencsejátékban összes felhelyezett tétek összege adott időszakra vonatkozóan,
+
+## h) a játékosok által távszerencsejátékban elért összes nyeremény összege adott időszakra vonatkozóan.
+
+## II.[^290] Sportfogadás esetén:
 
 ## 1. Fogadási eseménnyel kapcsolatosan
 
-## a) megnevezése, azonosítója,
+## a) annak megnevezése, azonosítója,
 
-## b) kezdő időpontja óra és perc pontossággal,
+## b) a fogadási esemény kezdő időpontja óra és perc pontossággal,
 
 ## c) a fogadás lezárásának időpontja (a tétek felhelyezésére rendelkezésre álló időtartam vége óra, perc és másodperc pontossággal),
 
 ## d) bukmékeri rendszerű fogadás esetén a fogadási esemény meghirdetése és lezárása között alkalmazott nyereményszorzó,
 
-## e) bukmékeri rendszerű fogadás esetén a fogadási ajánlat halmozási, kombinálási lehetősége,
+## e) bukmékeri rendszerű fogadás esetén a fogadási ajánlat kombinálási lehetősége,
 
 ## f) a felhelyezett tétek összege,
 
@@ -32,11 +42,9 @@
 
 ## a) a játékos azonosítója,
 
-## b) a játékos által a fogadási esemény kimeneteleire tett fogadás,
+## b) a fogadási esemény kimenetelére felhelyezett tét összege, óra, perc és másodperc pontossággal,
 
-## c) a fogadási esemény kimenetelére felhelyezett tét összege, óra, perc és másodperc pontossággal,
-
-## d) a játékos által elért nyeremény összege, a játékosi egyenlegen való jóváírás időpontja óra, perc és másodperc pontossággal.
+## c) a játékos által elért nyeremény összege, a játékosi egyenlegen való jóváírás időpontja óra, perc és másodperc pontossággal.
 
 ## III. Kártyajáték esetén
 
@@ -90,10 +98,13 @@
 
 ## A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer lényeges elemeinek változatlanságát igazoló adatok (különösen a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer lényeges elemeihez tartozó ellenőrző számok, hash kódok).
 
-## VI. Statisztikai nyilvántartások
+## VI.[^291] Statisztikai nyilvántartás
 
-## A 33. § (3) bekezdésben és a 42. § (2) bekezdésben meghatározott statisztikai nyilvántartás.
+## A 33. § (3) bekezdésében meghatározott statisztikai nyilvántartás.
 
-7. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^280]
+7. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^292]
 
-[^280]: A 7. számú melléklet e rendelet 88. § (3) bekezdése alapján 2006. január 1-jén lépett hatályba. A 7. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte.
+[^289]: A 6. számú melléklet I. pontja a 30/2017. (X. 10.) NGM rendelet 8. § c) pontjával megállapított szöveg.
+[^290]: A 6. számú melléklet II. pontja a 30/2017. (X. 10.) NGM rendelet 8. § c) pontjával megállapított szöveg.
+[^291]: A 6. számú melléklet VI. pontja a 30/2017. (X. 10.) NGM rendelet 8. § c) pontjával megállapított szöveg.
+[^292]: A 7. számú melléklet e rendelet 88. § (3) bekezdése alapján 2006. január 1-jén lépett hatályba. A 7. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte.

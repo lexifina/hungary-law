@@ -40,14 +40,18 @@ c) a sérülékeny személyek játékban való részvételének korlátozását,
 
 d) a játéktervnek a játékos részvételét érintő egyéb szabályait.
 
+(5a)[^98] A szervező a részvételi szabályzat változásait a módosítással egyidejűleg köteles benyújtani a szerencsejáték-felügyeleti hatósághoz.
+
 (6) A részvételi szabályzatot a szervező honlapján a játékosok részére magyar nyelven hozzáférhetővé teszi.
 
 (7) A szervező a játéktervben és a részvételi szabályzatban – e feltételek alkalmazása esetén – meghatározza a 30. §-ban, 32. § (3) bekezdésben, 34. § (2) bekezdésben, 36. § (2) bekezdésében, illetve 39. § (7) bekezdésben foglalt feltételek szabályait.
 
-(8) A 2. § (3) bekezdés c) pontja szerinti költségvetésnek tartalmaznia kell a tervezett árbevétel, a tervezett költségek és a tervezett játékadó összegét, valamint az összesített játékosi egyenlegek becsült éves átlagos értékét.
+(8)[^99] A 2. § (3) bekezdés c) pontja szerinti költségvetésnek tartalmaznia kell a tervezett árbevétel, a tervezett költségek és a tervezett játékadó összegét, valamint az összesített játékosi egyenlegek becsült éves átlagos értékét. Közös játékosi egyenleg vezetése esetén az összesített játékosi egyenlegek becsült éves átlagos értékét valamennyi játékra, illetve kizárólag távszerencsejátékra figyelemmel is meg kell becsülni.
 
-(9)[^98] A szervező az engedély jogerőre emelkedését követő 30 napon belül tájékoztatásul megküldi a szerencsejáték-felügyeleti hatóság részére az adatkezelési szabályzatát. Az adatkezelési szabályzat változásáról a szervező a változást követő 30 napon belül írásban tájékoztatja a szerencsejáték-felügyeleti hatóságot.
+(9)[^100] A szervező az engedély jogerőre emelkedését követő 30 napon belül tájékoztatásul megküldi a szerencsejáték-felügyeleti hatóság részére az adatkezelési szabályzatát. Az adatkezelési szabályzat változásáról a szervező a változást követő 30 napon belül írásban tájékoztatja a szerencsejáték-felügyeleti hatóságot.
 
 [^96]: A 29. § (3) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
 [^97]: A 29. § (5) bekezdés b) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^98]: A 29. § (9) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) és g) pontja szerint módosított szöveg.
+[^98]: A 29. § (5a) bekezdését a 30/2017. (X. 10.) NGM rendelet 1. § (1) bekezdése iktatta be.
+[^99]: A 29. § (8) bekezdése a 30/2017. (X. 10.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^100]: A 29. § (9) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) és g) pontja szerint módosított szöveg.

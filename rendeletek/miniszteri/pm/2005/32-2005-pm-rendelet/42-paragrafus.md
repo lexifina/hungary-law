@@ -1,8 +1,11 @@
 ## Adatszolgáltatás
 
-42. § (1)[^103] A távszerencsejáték és az online kaszinójáték szervező az Szjtv.-ben előírt rendszeres adatszolgáltatás keretében az 5. mellékletben foglalt adatokat köteles a szerencsejáték-felügyeleti hatóság rendelkezésére bocsátani.
+42. § (1)[^108] A távszerencsejáték és az online kaszinójáték szervező az Szjtv.-ben előírt rendszeres adatszolgáltatás keretében az 5. mellékletben foglalt adatokat köteles a szerencsejáték-felügyeleti hatóság rendelkezésére bocsátani.
 
-(2)[^104] Az adatszolgáltatás részletes formai és technikai feltételeit a szerencsejáték-felügyeleti hatóság által kiadott feltételrendszer tartalmazza.
+(1a)[^109] A 35/A. § (1) bekezdése szerinti közös játékosi egyenleg esetén az 5. számú melléklet I. pont a)–d), i)–l) és n) alpontjában megjelölt adatokat a közös játékosi egyenlegre vonatkoztatva kell megadni.
 
-[^103]: A 42. § (1) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^104]: A 42. § (2) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+(2)[^110] Az adatszolgáltatás részletes formai és technikai feltételeit a szerencsejáték-felügyeleti hatóság által kiadott feltételrendszer tartalmazza.
+
+[^108]: A 42. § (1) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^109]: A 42. § (1a) beekzdését a 30/2017. (X. 10.) NGM rendelet 4. §-a iktatta be.
+[^110]: A 42. § (2) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
