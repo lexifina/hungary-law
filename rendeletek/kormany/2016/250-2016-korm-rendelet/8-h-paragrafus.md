@@ -1,4 +1,4 @@
-## 8/H. §[^21] A 8/B. §-on felül nem nyújtható regionális beruházási támogatás
+## 8/H. §[^25] A 8/B. §-on felül nem nyújtható regionális beruházási támogatás
 
 a) acélipari tevékenységhez,
 
@@ -14,4 +14,4 @@ f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú 
 
 g) ha a kérelmet benyújtó beruházó, vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó a támogatási kérelem benyújtását megelőző két évben a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntetett meg az EGT területén, vagy a támogatási kérelem benyújtásakor tervezi, hogy a támogatási kérelem benyújtásától a beruházás befejezésétől számított második év végéig a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntet meg az EGT területén.
 
-[^21]: A 8/H. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^25]: A 8/H. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## lehet támogatási döntést hozni.
 
-8/F. §[^19] (1) A regionális beruházási támogatás igénybevételének feltétele, hogy a tervezett beruházás
+8/F. §[^23] (1) A regionális beruházási támogatás igénybevételének feltétele, hogy a tervezett beruházás
 
 a) olyan induló beruházásnak minősüljön, amelyet
 
@@ -18,4 +18,4 @@ b) olyan új gazdasági tevékenység végzésére irányuló induló beruházá
 
 (4) Meglévő létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményező induló beruházás, valamint meglévő létesítmény tevékenységének új tevékenységgel történő bővítését eredményező, új gazdasági tevékenység végzésére irányuló induló beruházás esetén az elszámolható költségeknek legalább 200%-kal meg kell haladniuk az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett tárgyi eszközöknek és immateriális javaknak a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
 
-[^19]: A 8/F. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^23]: A 8/F. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

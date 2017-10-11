@@ -1,6 +1,6 @@
 ## számolható el.
 
-8/Q. §[^30] (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás beruházási támogatásként sportlétesítmény és multifunkcionális szabadidős létesítmény építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható.
+8/Q. §[^34] (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás beruházási támogatásként sportlétesítmény és multifunkcionális szabadidős létesítmény építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható.
 
 (2) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás összege nem haladhatja meg 15 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége nem haladhatja meg az 50 millió eurónak megfelelő forintösszeget.
 
@@ -14,4 +14,4 @@
 
 (7) Az 1/A. § 18. pontja szerinti ellenszolgáltatásnak meg kell haladnia a részvételi költségeket és a sportoló jövedelmének jelentős részét kell kitennie függetlenül attól, hogy a sportoló és az érintett sportvállalkozás kötött-e munka- vagy más, munkavégzésre irányuló szerződést. Nem minősül ellenszolgáltatásnak a sportrendezvényen való részvételhez kapcsolódó utazási és szállásköltségek megtérítése.
 
-[^30]: A 8/Q. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^34]: A 8/Q. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## számolható el.
 
-8/M. §[^26] (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás – a 8/P. § kivételével – beruházási kiadásához nyújtott támogatásként nyújtható.
+8/M. §[^30] (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás – a 8/P. § kivételével – beruházási kiadásához nyújtott támogatásként nyújtható.
 
 (2) A 8/P. § szerinti kultúrát és a kulturális örökség megőrzését előmozdító támogatás működési támogatásként nyújtható.
 
@@ -20,4 +20,4 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^26]: A 8/M. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^30]: A 8/M. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

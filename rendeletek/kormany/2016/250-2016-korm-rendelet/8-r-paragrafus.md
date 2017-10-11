@@ -1,4 +1,4 @@
-8/R. §[^31] (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költségek és a működési eredmény közötti különbséget.
+8/R. §[^35] (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költségek és a működési eredmény közötti különbséget.
 
 (2) A működési eredmény mértékét
 
@@ -12,4 +12,4 @@ b) visszafizetési mechanizmus alkalmazásával utólag
 
 (4) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott beruházási támogatás keretében a tárgyi eszköz és az immateriális javak beruházási költsége számolható el.
 
-[^31]: A 8/R. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^35]: A 8/R. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

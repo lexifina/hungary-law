@@ -1,6 +1,6 @@
-## 8/K. §[^24] Kutatási infrastruktúra, valamint széles sávú hálózatok fejlesztéséhez regionális beruházási támogatás nem nyújtható.
+## 8/K. §[^28] Kutatási infrastruktúra, valamint széles sávú hálózatok fejlesztéséhez regionális beruházási támogatás nem nyújtható.
 
-8/L. §[^25] (1) A vállalkozások energia-megtakarítást eredményező beruházásaihoz kapcsolódó energiahatékonysági intézkedéshez nyújtott beruházási támogatás esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 30%-át.
+8/L. §[^29] (1) A vállalkozások energia-megtakarítást eredményező beruházásaihoz kapcsolódó energiahatékonysági intézkedéshez nyújtott beruházási támogatás esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 30%-át.
 
 (2) Az energiahatékonysági intézkedésekhez nyújtott beruházási támogatás összege vállalkozásonként és beruházásonként nem haladhatja meg a 15 millió eurónak megfelelő forintösszeget.
 
@@ -16,5 +16,5 @@ a) ha a környezetvédelmi beruházáshoz kapcsolódó költség a beruházás �
 
 b) ha az elszámolható költség az a) pont alapján nem határozható meg, a támogatott beruházás költségének és egy, a támogatás hiányában hitelt érdemlően megvalósítható hasonló, kevésbé környezetbarát beruházás költségének a különbsége
 
-[^24]: A 8/K. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
-[^25]: A 8/L. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^28]: A 8/K. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^29]: A 8/L. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

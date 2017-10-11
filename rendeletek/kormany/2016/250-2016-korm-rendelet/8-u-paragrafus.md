@@ -1,4 +1,4 @@
-8/U. §[^34] (1) A 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezést kizárólag a közszolgáltatás ellátásával, a 2012/21/EU bizottsági határozat 4. cikke szerint előzetesen megbízott kedvezményezett részére nyújtható.
+8/U. §[^38] (1) A 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezést kizárólag a közszolgáltatás ellátásával, a 2012/21/EU bizottsági határozat 4. cikke szerint előzetesen megbízott kedvezményezett részére nyújtható.
 
 (2) A közszolgáltatásért járó ellentételezés csak olyan mértékben korlátoztathatja a versenyt, amely mindenképpen szükséges a feladat hatékony ellátásához.
 
@@ -8,4 +8,4 @@
 
 (5) A kedvezményezett a közszolgáltatásért járó ellentételezésről olyan elkülönített elszámolást köteles vezetni, amelyből a (2)–(4) bekezdésben meghatározott követelmények ellenőrizhetőek.
 
-[^34]: A 8/U. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^38]: A 8/U. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

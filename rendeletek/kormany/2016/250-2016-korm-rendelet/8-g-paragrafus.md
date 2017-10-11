@@ -1,4 +1,4 @@
-8/G. §[^20] (1) A regionális beruházási támogatás akkor vehető igénybe, ha a támogatott vállalkozás kötelezettséget vállal arra, hogy a beruházással létrehozott tevékenységet az üzembe helyezés időpontjától számított legalább öt évig, kis- és középvállalkozás esetén legalább három évig fenntartja.
+8/G. §[^24] (1) A regionális beruházási támogatás akkor vehető igénybe, ha a támogatott vállalkozás kötelezettséget vállal arra, hogy a beruházással létrehozott tevékenységet az üzembe helyezés időpontjától számított legalább öt évig, kis- és középvállalkozás esetén legalább három évig fenntartja.
 
 (2) A beszerzett eszköznek újnak kell lennie, kivéve a felvásárlás esetét vagy, ha a beruházó kis- és középvállalkozásnak minősül.
 
@@ -6,4 +6,4 @@
 
 (4) A regionális beruházási támogatás akkor vehető igénybe, ha a beruházó az elszámolható költségek legalább 25%-át saját forrásból biztosítja, továbbá a teljes beruházás megvalósításához szükséges költségek forrását a támogató számára bemutatja.
 
-[^20]: A 8/G. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^24]: A 8/G. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

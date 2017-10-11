@@ -1,4 +1,4 @@
-8/C. §[^16] (1) A 8/F–8/S. § alapján támogatás – a 8/M–8/P. § szerinti támogatás kivételével – csak akkor ítélhető meg, ha az önkormányzat a 2. melléklet szerinti, a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmet a projekt megkezdése előtt benyújtotta.
+8/C. §[^20] (1) A 8/F–8/S. § alapján támogatás – a 8/M–8/P. § szerinti támogatás kivételével – csak akkor ítélhető meg, ha az önkormányzat a 2. melléklet szerinti, a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmet a projekt megkezdése előtt benyújtotta.
 
 (2) Azonos vagy részben azonos azonosítható elszámolható költségek esetén az e rendelet szerinti támogatás abban az esetben halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás túllépéséhez.
 
@@ -18,4 +18,4 @@
 
 (10) A (8) bekezdés szerinti előzetes bejelentés esetén támogatási döntés az Európai Bizottság jóváhagyó határozatának meghozatalát követően hozható.
 
-[^16]: A 8/C. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^20]: A 8/C. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

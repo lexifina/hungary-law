@@ -12,6 +12,6 @@ d) a 6. § (1) bekezdés b)–d), f) és g) pontjában meghatározott nyilatkoza
 
 (3) Ha a 6. § (1) bekezdés a) pontja szerinti előterjesztés nem felel meg az (1) bekezdésben meghatározott feltételeknek, a főfelelős a Bizottság ülésétől számított 30 napon belül a Bizottság kifogásainak megfelelő előterjesztést nyújt be a Bizottság részére.
 
-(4)[^10] Ha a 6. § (1) bekezdés a) pontja szerinti előterjesztés megfelel az (1) bekezdés szerinti feltételeknek, az Ávr. 71. § (2) bekezdése szerinti döntési listát a Bizottság 5. § (8) bekezdése szerinti jegyzőkönyve tartalmazza. A támogatónak a támogatási döntésről az önkormányzatot az Ávr. 73. § (1) bekezdése szerint a döntést követő harminc napon belül kell tájékoztatni.
+(4)[^14] Ha a 6. § (1) bekezdés a) pontja szerinti előterjesztés megfelel az (1) bekezdés szerinti feltételeknek, az Ávr. 71. § (2) bekezdése szerinti döntési listát a Bizottság 5. § (8) bekezdése szerinti jegyzőkönyve tartalmazza. A támogatónak a támogatási döntésről az önkormányzatot az Ávr. 73. § (1) bekezdése szerint a döntést követő harminc napon belül kell tájékoztatni.
 
-[^10]: A 7. § (4) bekezdése a 390/2016. (XII. 5) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^14]: A 7. § (4) bekezdése a 390/2016. (XII. 5) Korm. rendelet 9. § c) pontja szerint módosított szöveg.

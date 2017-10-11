@@ -1,6 +1,6 @@
 ## 9. § Az önkormányzat az MVP támogatás terhére a támogatott tevékenység záró időpontjától számított 90. napig teljesíthet kifizetést (felhasználási határidő).
 
-10. § (1)[^36] Az önkormányzat az egyes finanszírozási időszakok lezárásaként részbeszámolót benyújtani nem köteles, ugyanakkor a főfelelős által meghatározott gyakorisággal, de legalább félévente köteles előrehaladási jelentést benyújtani a projekt állásáról. Az előrehaladási jelentés minimális formai és tartalmi követelményeit a főfelelős határozza meg, és legkésőbb a támogatói okirat kiadásától számított harminc napon belül írásban tájékoztatja erről a kedvezményezettet.
+10. § (1)[^40] Az önkormányzat az egyes finanszírozási időszakok lezárásaként részbeszámolót benyújtani nem köteles, ugyanakkor a főfelelős által meghatározott gyakorisággal, de legalább félévente köteles előrehaladási jelentést benyújtani a projekt állásáról. Az előrehaladási jelentés minimális formai és tartalmi követelményeit a főfelelős határozza meg, és legkésőbb a támogatói okirat kiadásától számított harminc napon belül írásban tájékoztatja erről a kedvezményezettet.
 
 (2) A felhasználási határidő lejártáig a főfelelős jogosult a projekt megvalósítását folyamatba építetten ellenőrizni, amelynek keretében az önkormányzattól írásban tájékoztatást kérhet, dokumentumokat kérhet be és helyszíni ellenőrzést is végezhet. A főfelelős jogosult bevonni az ellenőrzésbe a minisztert és a társfelelőst.
 
@@ -12,4 +12,4 @@
 
 (6) Ha a feltárt hiányosságokat, hibákat az önkormányzat a felszólításban meghatározott időre nem orvosolta, a főfelelős a támogatói okirat módosítását vagy annak visszavonását kezdeményezi a Bizottságnál.
 
-[^36]: A 10. § (1) bekezdése a 390/2016. (XII. 5) Korm. rendelet 6. §-ával megállapított szöveg.
+[^40]: A 10. § (1) bekezdése a 390/2016. (XII. 5) Korm. rendelet 6. §-ával megállapított szöveg.

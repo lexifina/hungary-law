@@ -1,6 +1,6 @@
-## 8/A. §[^14] Az önkormányzat köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
+## 8/A. §[^18] Az önkormányzat köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
 
-8/B. §[^15] (1) Nem ítélhető meg a 8/F–8/V. § szerinti támogatás – a 8/T. § szerinti támogatás kivételével –
+8/B. §[^19] (1) Nem ítélhető meg a 8/F–8/V. § szerinti támogatás – a 8/T. § szerinti támogatás kivételével –
 
 a) azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
@@ -26,5 +26,5 @@ f) támogatás olyan feltétellel, amely az európai uniós jog megsértését e
 
 g) 8/F–8/S. § szerinti támogatás a 2010/787/EU tanácsi határozat hatálya alá tartozó versenyképtelen szénbányák részére.
 
-[^14]: A 8/A. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
-[^15]: A 8/B. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^18]: A 8/A. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^19]: A 8/B. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
