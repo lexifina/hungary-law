@@ -2,4 +2,4 @@
 
 (2) A föld tulajdonjogának végintézkedéssel történő megszerzésének jóváhagyására irányuló eljárásban figyelmen kívül kell hagyni az elővásárlási jogról, az elővásárlásra jogosultakról, az elővásárlásra jogosult elfogadó jognyilatkozatáról, a jegyzékről, a tulajdonos választási jogáról, és az ezzel összefüggő, a mezőgazdasági igazgatási szerv általi kijelöléséről szóló rendelkezéseket. Az eljárásban nem kell megkeresni a helyi földbizottságot az állásfoglalásának beszerzése céljából.
 
-(3) A mezőgazdasági igazgatási szerv azt vizsgálja, hogy az örökös szerzőképessége fennáll-e, és a végintézkedés nem eredményezi-e tulajdonszerzési korlátozás megsértését vagy megkerülését. A mezőgazdasági igazgatási szerv a döntését közli a közjegyzővel is. Ha a mezőgazdasági igazgatási szerv megtagadja az örökös javára a tulajdonszerzés jóváhagyását, a végrendelet ezen rendelkezését érvénytelennek kell tekinteni.
+(3) A mezőgazdasági igazgatási szerv azt vizsgálja, hogy az örökös szerzőképessége fennáll-e, és a végintézkedés nem eredményezi-e tulajdonszerzési korlátozás megsértését vagy megkerülését. A mezőgazdasági igazgatási szerv a döntését közli a közjegyzővel is.
