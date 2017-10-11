@@ -1,74 +1,92 @@
-1. melléklet a 250/2014. (X. 2.) Korm. rendelethez
+## 7. §[^11]
 
-## A Főigazgatóság által nyújtott szolgáltatások
+1. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^12]
 
-I. IRODA INGATLANOK ÜZEMELTETÉSE
+## Alapfeladatként nyújtott szolgáltatások
 
-1. Közműszolgáltatások (villamos energia, földgáz energia, távhő, víz- és csatorna szolgáltatás) biztosítása
+I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK
+
+1. Közüzemi szolgáltatások (villamos energia, földgázenergia, távhőszolgáltatás, vízszolgáltatás és szennyvízelvezetési szolgáltatás, szelektívhulladék-elszállítás, kommunálishulladék-elszállítás) biztosítása
 
 2. Műszaki üzemeltetés, karbantartás
 
 2.1. Gondnoki feladatok ellátása
 
-2.2. Épületgépészeti karbantartás, hibaelhárítás
+2.2. Épületgépészeti üzemeltetés, karbantartás, hibaelhárítás
 
-2.3. Épületvillamossági karbantartás, hibaelhárítás
+2.3. Épületvillamossági üzemeltetés, karbantartás, hibaelhárítás
 
-2.4. Épület karbantartás, hibaelhárítás
+2.4. Építészeti karbantartás, hibaelhárítás
 
-2.5. Konyhatechnikai eszközök karbantartása, hibaelhárítása
-
-2.6. TV előfizetés biztosítása és belső hálózat karbantartása
+2.5. Televíziós műsorszolgáltatások előfizetése, belső elosztóhálózat karbantartása
 
 3. Higiénés szolgáltatások
 
-3.1. Takarítás (napi és időszakos)
+3.1. Takarítás (épületen belüli napi és időszakos takarítás, épületen kívüli takarítás, hóeltakarítás, csúszásmentesítés)
 
-3.2. Vizes blokkok higiénés termékeinek biztosítása
+3.2. Vizesblokkok higiénés termékeinek biztosítása
 
-3.3. Szelektív hulladékgyűjtés
+3.3. Épületen belüli szelektívhulladék-gyűjtés
 
-3.4. Szemétszállítás
+3.4. Épületen belüli kommunálishulladék-gyűjtés
 
 3.5. Rovarirtás
 
-4. Biztonságtechnikai szolgáltatások, biztonságtechnikai berendezések üzemeltetése
+4. Biztonsági szolgáltatások
 
-4.1. Épület élőerős őrzése
+4.1. Épület élőerős őrzés-védelem
 
-4.2. Tűzoltó és -jelző rendszerek telepítése és karbantartása
+4.2. Recepciós és egyéb élőerős szolgáltatások
 
-4.3. Beléptető- és riasztórendszerek telepítése és karbantartása
+5. Biztonságtechnikai berendezések üzemeltetése
 
-4.4. Épületekkel kapcsolatos, üzemeltetőt terhelő tűz- és munkavédelmi feladatok ellátása
+5.1. Beépített tűzjelző és oltórendszerek üzemeltetése, karbantartása, javítása
 
-5. Parkolóhely biztosítása
+5.2. Beépített hő- és füstelvezető rendszerek üzemeltetése, karbantartása, javítása
 
-6. Információs táblák, névtáblák biztosítása
+5.3. Beléptető-, behatolásjelző és videomegfigyelő rendszerek üzemeltetése, karbantartása, javítása
 
-7. Épületekkel kapcsolatos építési beruházások lebonyolítása, építési beruházással kapcsolatos egyéb feladatok ellátása
+5.4. Beléptetőrendszerrel kapcsolatos egyéb szolgáltatások (belépőkártya biztosítása, adatszolgáltatás mozgási időadatokról)
 
-II. MŰSZAKI ÉS IRODAI ELLÁTÁSI SZOLGÁLTATÁSOK
+6. Épületekkel kapcsolatos, üzemeltetőt terhelő tűz- és munkavédelmi, valamint egyéb veszélyelhárítási feladatok ellátása
+
+6.1. Tűzoltó készülékek karbantartása, üzembentartói ellenőrzése
+
+6.2. Tűzcsapok karbantartása, üzembentartói ellenőrzése
+
+6.3. Tűz- és munkavédelmi szemle végzése
+
+6.4. Üzemeltetői tűzvédelmi szabályzat készítése, felülvizsgálata
+
+6.5. Üzemi és munkabalesetek kivizsgálása
+
+6.6. Üzemeltetőt terhelő katasztrófavédelmi és veszélyelhárítási tervek készítése
+
+7. Parkolóhelyek biztosítása, ügyintézése (a rendelkezésre álló parkolókapacitás erejéig)
+
+8. Épületekkel kapcsolatos építési beruházások lebonyolítása, építési beruházással kapcsolatos egyéb feladatok ellátása
+
+II. ELLÁTÁSI SZOLGÁLTATÁSOK
 
 1. Költöztetés, egyéb szállítási feladatok
 
-2. Irodaszer ellátás
+2. Irodaszer-ellátás
 
-3. Nyomtatvány ellátás
+3. Nyomtatványellátás
 
 3.1. Nyomdai termékek biztosítása (levélpapír, névjegy, boríték stb.)
 
 3.2. Újság, folyóirat biztosítása
 
-3.3. Szakkönyv, szakkiadvány biztosítása könyvtáron keresztül
+3.3. Szakkönyv, szakkiadvány biztosítása meglévő könyvtáron keresztül
 
-4. Iroda berendezés biztosítása
+4. Irodaberendezés biztosítása
 
 4.1. Irodabútor biztosítása
 
-4.2. Szobadíszítés (függöny, kép, szobanövény stb.)
+4.2. Szobadíszítés (függöny, árnyékolók és kiegészítői, kép, valamint állami vezetők számára szobanövény és növényápolás biztosítása)
 
-5. Műszaki, irodatechnikai és konyhatechnikai eszközök biztosítása
+5. Műszaki, irodatechnikai és konyhatechnikai eszközök biztosítása, karbantartása, hibaelhárítása, javítása
 
 6. Teakonyhai felszerelések, porcelán- és üvegáruk, konyhai textíliák biztosítása
 
@@ -80,55 +98,49 @@ II. MŰSZAKI ÉS IRODAI ELLÁTÁSI SZOLGÁLTATÁSOK
 
 8. Jóléti, szociális szolgáltatások
 
-8.1. Kávé-, üdítőital automata biztosítása
+8.1. Étel- és italautomata biztosítása
 
-8.2. Kondicionálóterem, szauna stb. üzemeltetése
+8.2. Ásványvíz-adagoló automata és ballonos ásványvíz biztosítása teakonyhákban, folyosókon elhelyezve
 
-9. Tisztítószerek
+9. Tisztítószerek biztosítása teakonyhai feladatokhoz
 
-9.1. Teakonyhai feladatokhoz
+10. Rendezvények audiovizuális támogatása
 
-9.2. TMK feladatokhoz
+10.1. Hangosításbiztosítás
 
-10. Rendezvények lebonyolításához
-
-10.1. Hangosítás biztosítás
-
-10.2. Hangfelvétel készítés
-
-10.3. Rendezvénytechnikai felszerelések szállítása
+10.2. Kép- és hangfelvétel-készítés
 
 11. Iratmegsemmisítés
 
-12. Postai szolgáltatások biztosítása
+12. Névtáblák, információs táblák, zászlók és kiegészítőik biztosítása
 
 III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
-1. Gépjármű használattal kapcsolatos szolgáltatások
+1. Gépjárműhasználattal kapcsolatos szolgáltatások
 
-1.1. Gépjármű használat biztosítása
+1.1. Gépjárműhasználat biztosítása
 
-1.1.1. Személyes gépjármű használat biztosítása jogszabály alapján
+1.1.1. Személyes gépjárműhasználat biztosítása jogszabály alapján
 
 1.1.2. Szervezeti egységhez kirendelt gépjármű biztosítása jogszabály alapján
 
-1.1.3. Eseti gépjármű használat biztosítása
+1.1.3. Eseti gépjárműhasználat biztosítása
 
-1.1.3.1. Taxi szolgáltatás a Főigazgatóság üzemeltetésében lévő gépjárművel
+1.1.3.1. Taxiszolgáltatás a Főigazgatóság üzemeltetésében lévő gépjárművel
 
-1.1.3.2. Kulcsos gépjármű szolgáltatás
+1.1.3.2. Kulcsosgépjármű-szolgáltatás
 
-1.1.3.3. Tárgyalóbusz és protokoll gépjármű szolgáltatás
+1.1.3.3. Tárgyalóbusz- és protokollgépjármű-szolgáltatás
 
-1.1.3.4. Taxi szolgáltatás, külső szolgáltató bevonásával
+1.1.3.4. Taxiszolgáltatás, külső szolgáltató bevonásával
 
 1.2. Gépjárművezető biztosítása
 
-1.2.1. A Főigazgatóság azon gépjárműveihez, melyek használói jogszabály alapján gépjárművezető igénybevételére jogosultak, a Főigazgatóság hivatásos gépjárművezetőt biztosít
+1.2.1. A Főigazgatóság azon gépjárműveihez, melyek használói jogszabály alapján gépjárművezető igénybevételére jogosultak, a Főigazgatóság – amennyiben az ellátott intézmény a feladatot nem saját személyi állománnyal oldja meg – hivatásos gépjárművezetőt biztosít
 
-1.2.2. Eseti gépjármű használathoz gépjárművezető biztosítása
+1.2.2. Eseti gépjárműhasználathoz gépjárművezető biztosítása
 
-1.3. Diszpécser szolgálat
+1.3. Diszpécserszolgálat
 
 1.3.1. Gépjármű átvétele és átadása munkaidőben
 
@@ -144,21 +156,21 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 1.4.4. 24 órás szolgálat
 
-1.5. Szerviz ügyfélszolgálat
+1.5. Szerviz-ügyfélszolgálat
 
-1.5.1. Műszaki vizsgáztatás elvégzése, időszakos karbantartás, garanciális és garancia időn túli javítás, karambolos javítás lebonyolítása
+1.5.1. Műszaki vizsgáztatás elvégzése, időszakos karbantartás, garanciális és garanciaidőn túli javítás, karambolos javítás lebonyolítása
 
 1.6. Gépjárműápolás
 
-1.6.1. Gépjárműmosás, takarítás, ápolás, gépjármű kozmetika
+1.6.1. Gépjárműmosás, -takarítás, -ápolás, gépjármű-kozmetika
 
 1.7. Autómentés biztosítása
 
 1.7.1. Üzemképtelen gépjármű szállításának biztosítása 0–24 óráig
 
-1.8. Csere gépjármű biztosítása
+1.8. Cseregépjármű biztosítása
 
-1.8.1. Az állandó használatra kiadott gépjármű helyett, annak javítása idejére csere gépjármű biztosítása a rendelkezésre álló készlet erejéig
+1.8.1. Az állandó használatra kiadott gépjármű helyett, annak javítása idejére vagy eltulajdonítása esetén, cseregépjármű biztosítása a rendelkezésre álló készlet erejéig
 
 1.9. Gumiabroncs biztosítása
 
@@ -166,17 +178,17 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 1.10. Úthasználat biztosítása
 
-1.10.1. Belföldi autópálya használat biztosítása
+1.10.1. Belföldi autópálya-használat díjának biztosítása
 
-1.10.2. Eseti külföldi autópálya- és úthasználat biztosítása
+1.10.2. Eseti külföldi autópálya- és úthasználat díjának biztosítása
 
 1.11. Parkolás biztosítása
 
-1.11.1. A felmerülő parkolási költségek megtérítése a parkolást igazoló parkolójegy leadása mellett, vagy mobiltelefonos parkolási lehetőség biztosításával
+1.11.1. A felmerülő parkolási költségek megtérítése a parkolást igazoló parkolójegy leadása mellett, vagy mobiltelefonos parkolási lehetőség esetén ennek költségei biztosításával
 
 1.12. Behajtási engedélyek biztosítása
 
-1.12.1. Kizárólag fizetés ellenében megközelíthető, vagy engedélyköteles területekre szóló behajtási engedélyek biztosítása adott alkalomra vagy időszakra
+1.12.1. Kizárólag fizetés ellenében megközelíthető vagy engedélyköteles területekre szóló behajtási engedélyek biztosítása adott alkalomra vagy időszakra
 
 1.13. Üzemanyag biztosítása
 
@@ -186,12 +198,15 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 1.14. Biztosítás
 
-1.14.1. Kötelező felelősségbiztosítás és Casco biztosítás megkötése, és folyamatos biztosítása
+1.14.1. Kötelező felelősségbiztosítás és Casco biztosítás megkötése és folyamatos biztosítása
 
 1.15. Tartozékok
 
-1.15.1. Egyedi igények (telefon-kihangosító, GPS navigáció, tető csomagtartó stb.) eszközigénylő formanyomtatvány kézhezvétele utáni, egyedi elbírálást követően történő biztosítása
+1.15.1. Egyedi igények (telefonkihangosító, GPS navigáció, tetőcsomagtartó stb.) eszközigénylő formanyomtatvány kézhezvétele utáni, egyedi elbírálást követően történő biztosítása
 
 2. Gépjárműbérlés
 
-2.1. Speciális igény esetén bérautó biztosítása
+2.1. Speciális igény esetén bérelt gépjármű biztosítása
+
+[^11]: A 7. §-t a 293/2017. (X. 10.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^12]: Az 1. melléklet a 293/2017. (X. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
