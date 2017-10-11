@@ -1,13 +1,3 @@
-## A működési program pénzügyi áttekintése a kiegészítő nemzeti támogatás alkalmazásának évében
-
-|  | A | B | C | D |
-
-| 1. | Működési program intézkedései ….. év | Tervezett támogatás | Az igénylő saját hozzájárulása | Intézkedés költségvetése összesen (E Ft) |
-
-| 2. | Kiegészítő nemzeti támogatás (E Ft) | Uniós támogatás (E Ft) | A tagok által befizetett és a termelői szervezet által befizetett hozzájárulás összesen (E Ft) |
-
-|  | Összesen: |  |  |  |  |
-
 4. melléklet az 53/2016. (VII. 21.) FM rendelethez
 
 A működési alap kiegészítő nemzeti támogatása és az 1308/2013/EU európai parlamenti és tanácsi rendelet 34. cikkében hivatkozott támogatás kifizetése iránti kérelem adattartalma és a csatolandó dokumentumok felsorolása
@@ -34,8 +24,8 @@ A működési alap kiegészítő nemzeti támogatása és az 1308/2013/EU európ
 
 7. A kérelmező nyilatkozata arról, hogy a kérelemben és a mellékletekben feltüntetett adatok a valóságnak megfelelnek.
 
-8.[^3] Csatolt dokumentumok [az értékesített termék értékét alátámasztó számlák, illetve a bérköltségek főbb adatait tartalmazó, a Magyar Államkincstár általa honlapján közzétett nyomtatványok; a 150/2012. (XII. 28.) VM rendelet 23. § (2) bekezdése szerinti éves jelentés; a megvalósított intézkedések kapcsán a szerződések, teljesítésigazolások, számlák, a megvalósítást igazoló dokumentumok, kifizetést igazoló dokumentumok másolatai].
+8.[^8] Csatolt dokumentumok [az értékesített termék értékét alátámasztó számlák, illetve a bérköltségek főbb adatait tartalmazó, a Magyar Államkincstár általa honlapján közzétett nyomtatványok; a 50/2017. (X. 10.) FM rendelet 26. § (2) bekezdése szerinti tájékoztatás; a megvalósított intézkedések kapcsán a szerződések, teljesítésigazolások, számlák, a megvalósítást igazoló dokumentumok, kifizetést igazoló dokumentumok másolatai].
 
 9. Keltezés, a kérelmező (cégszerű) aláírása.
 
-[^3]: A 4. melléklet 8. pontja a 88/2016. (XII. 29.) FM rendelet 118. §-a szerint módosított szöveg.
+[^8]: A 4. melléklet 8. pontja a 88/2016. (XII. 29.) FM rendelet 118. §-a, az 50/2017. (X. 10.) FM rendelet 37. §-a szerint módosított szöveg.

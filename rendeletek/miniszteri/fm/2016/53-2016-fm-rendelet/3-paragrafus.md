@@ -1,4 +1,4 @@
-## 2. § A kiegészítő támogatás forrása a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. cím, 20. alcím, 1. jogcímcsoport, 3. jogcímszám „Egyes speciális szövetkezések (TÉSZ) támogatása” előirányzata.
+## 2. §[^1]
 
 ## 3. A támogatás mértéke és igénybevételének feltételei
 
@@ -8,9 +8,13 @@
 
 (3) A kiegészítő támogatás igénybevételének feltétele, hogy a (2) bekezdésben meghatározott összegen felül
 
-a)[^1] a 2. melléklet szerinti feltételeknek megfelelő, a zöldség-gyümölcs ágazatban elismert szakmaközi szervezet közreműködésével kidolgozott termékmarketing-program költségeiből a termelői szervezet által vállalt rész érje el a termelői szervezet által igénybe vett kiegészítő támogatás 10%-ának megfelelő összeget, és
+a)[^2] a 2. melléklet szerinti feltételeknek megfelelő, a zöldség-gyümölcs ágazatban elismert szakmaközi szervezet közreműködésével kidolgozott termékmarketing-program költségeiből a termelői szervezet által vállalt rész érje el a termelői szervezet által igénybe vett kiegészítő támogatás 10%-ának megfelelő összeget, és
 
-b)[^2] a termelői szervezet szaktanácsadóinak országos szinten meghirdetett, a zöldség-gyümölcs ágazatban elismert szakmaközi szervezet közreműködésével kidolgozott képzési program keretében történő képzésére fordított összeg érje el az igénybe vett kiegészítő támogatás 2%-ának megfelelő összeget.
+b)[^3] a termelői szervezet szaktanácsadóinak országos szinten meghirdetett, a zöldség-gyümölcs ágazatban elismert szakmaközi szervezet közreműködésével kidolgozott képzési program keretében történő képzésére fordított összeg érje el az igénybe vett kiegészítő támogatás 2%-ának megfelelő összeget.
 
-[^1]: A 3. § (3) bekezdés a) pontja a 13/2017. (III. 17.) FM rendelet 56. § a) pontja szerint módosított szöveg.
-[^2]: A 3. § (3) bekezdés b) pontja a 13/2017. (III. 17.) FM rendelet 56. § b) pontja szerint módosított szöveg.
+(4)[^4] Azon termelői szervezet esetében, amelynél a referenciaévben a forgalmazott termék értékén belül a feldolgozóipar részére értékesített termék aránya a zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet [a továbbiakban: 50/2017. (X. 10.) FM rendelet] 26. § (1) bekezdése szerinti adatszolgáltatás alapján meghaladja a 70%-ot – a (3) bekezdés a) pontjában foglaltaktól eltérően –, a (3) bekezdés a) pontja szerinti termékmarketing-program költségeiből a termelői szervezet által vállalt résznek a termelői szervezet által igénybe vett kiegészítő támogatás 3%-ának megfelelő összeget kell elérnie.
+
+[^1]: A 2. §-t az 50/2017. (X. 10.) FM rendelet 38. §-a hatályon kívül helyezte.
+[^2]: A 3. § (3) bekezdés a) pontja a 13/2017. (III. 17.) FM rendelet 56. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (3) bekezdés b) pontja a 13/2017. (III. 17.) FM rendelet 56. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (4) bkeezdését az 50/2017. (X. 10.) FM rendelet 36. § (2) bekezdése iktatta be.
