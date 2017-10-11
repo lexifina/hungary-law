@@ -12,13 +12,7 @@
 
 ## Határidő: a Korm. rendelet 56/C. §-a szerinti szerződés módosítását megelőzően, legkésőbb 2018. június 30-ig
 
-## 2. A 2014–2020 közötti programozási időszakban uniós forrásból megvalósítani tervezett nagyprojektekkel kapcsolatos feladatokról szóló 1374/2017. (VI. 13.) Korm. határozat 1. mellékletében foglalt táblázat
-
-## a) A:7 mezőjében a „–” szövegrész helyébe a „KEHOP-2.3.0-16-2017-00001” szöveg,
-
-## b) E:7 mezőjében a „2017. december 31.” szövegrész helyébe a „2018. június 30.” szöveg
-
-## lép.
+## 2.[^2]
 
 1. melléklet az 1738/2017. (X. 10.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatása (Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-2.3.0- 16-2017-00001 | HUHA II. Új Hulladék-hasznosító és Iszapégető Erőmű | Budapest Főváros Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 50 000 000 000 | A projekt fő célkitűzése a főváros szennyvíztisztító telepein keletkező szennyvíziszap hasznosításának megoldása, ezzel a szennyvíziszap országos hasznosítási arányának növelése energetikai hasznosítással. |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
