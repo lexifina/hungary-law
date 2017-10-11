@@ -1,0 +1,5 @@
+## „(3a) A kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériummal kötött szolgáltatási megállapodás az állami vezetők személyes használatában lévő gépjárművek adatait is tartalmazza. Ezen gépjárművek használatának költségeit a Főigazgatóság az adott állami vezetőt foglalkoztató minisztériumra fordított kiadások között mutatja ki.
+
+## (3b) A (3) bekezdés a)–c) pontjában megjelölt mennyiségi mutatók növekedése esetén a többletfeladatok költségvetési fedezetét – mind a dologi és felhalmozási kiadások, mind a személyi juttatások tekintetében – a Főigazgatóság részére biztosítani kell. E rendelkezés nem vonatkozik a minisztériumok közötti olyan feladatátadásra, amelynek során a feladatot átadó, illetve az azt átvevő minisztériumok összesített ellátási igénye nem változik.
+
+## (3c) A Főigazgatóság az (1) bekezdés c)–e) pontjában meghatározott szervezetekkel megállapodásban rendezi a Főigazgatóság által nyújtott szolgáltatások részletezését és igénybevételének rendjét. A megállapodás tartalmára – a nyújtott szolgáltatás jellegétől függően – a (3) bekezdésben foglaltakat kell megfelelően alkalmazni.”
