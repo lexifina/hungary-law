@@ -1,0 +1,3 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Budapest VI. kerület, Hunyadi téri vásárcsarnok rekonstrukciójára irányuló, az ingatlan-nyilvántartás szerinti Budapest 29451 helyrajzi számon nyilvántartott, természetben a Budapest VI. kerület, Hunyadi tér 4–5. szám alatti ingatlanon megvalósuló beruházással összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
