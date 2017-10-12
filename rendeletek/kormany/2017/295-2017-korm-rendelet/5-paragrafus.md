@@ -1,1 +1,0 @@
-## 4. § Az R. 2. § (2) bekezdésében a „kormányzati tevékenység összehangolásáért felelős miniszter” szövegrész helyébe a „megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter” szöveg lép.
