@@ -1,4 +1,4 @@
-## 39. § Hatályát veszti a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló 150/2012. (XII. 28.) VM rendelet.
+## 39. §[^5]
 
 1. melléklet az 50/2017. (X. 10.) FM rendelethez
 
@@ -83,3 +83,5 @@ Megjegyzések:
 | 5.3 |  |  |  |  |  |  |  |  |
 
 | 6 | Összesen: |  |  |  |  |  |  |  |
+
+[^5]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

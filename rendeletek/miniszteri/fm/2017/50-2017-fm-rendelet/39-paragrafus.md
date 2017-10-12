@@ -1,3 +1,5 @@
-## 38. § Hatályát veszti az 53/2016. (VII. 21.) FM rendelet 2. §-a és 3. melléklete.
+## 37–38. §[^4]
 
 ## 23. Hatályon kívül helyező rendelkezés
+
+[^4]: A 37–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
