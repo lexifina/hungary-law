@@ -1,0 +1,1 @@
+## 3. § Tényleges érték alkalmazása esetén a bioüzemanyagok és folyékony bio-energiahordozók fenntarthatósági követelményeiről és igazolásáról szóló kormányrendeletben meghatározott fenntarthatósági nyilatkozatot kiállító személynek vagy gazdálkodó szervezetnek a számítás megfelelőségét nyilatkozattal kell igazolni.
