@@ -18,13 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:253 mezőjében az „1,26” szövegrész helyébe a „2,28” szöveg,
-
-## b) E:253 mezőjében a „0,14” szövegrész helyébe a „0,26” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1737/2017. (X. 10.) Korm. határozathoz
 
@@ -33,3 +27,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (nettó, Ft) | Többlettámogatás legfeljebb (nettó, Ft) | Megnövelt önerő összege (nettó, Ft) | Megnövelt támogatás legfeljebb (nettó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-2.2.2-15- 2016-00091 | Gyöngyös és térsége szennyvízelvezetésének és -tisztításának fejlesztése | Gyöngyös Város Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 1 256 000 000 | 1 023 482 781 | 253 275 865 | 2 279 482 781 | A projekt keretében Gyöngyös város csatornahálózatának bővítésére és a Gyöngyös központú szennyvízelvezetési agglomeráció meglévő szennyvíztisztító telepének fejlesztésére kerül sor. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
