@@ -24,7 +24,7 @@ c) a hozzárendelt kapacitás és a (4) bekezdés b) pontja szerinti létesítm�
 
 (6) Magyarország és harmadik államok közötti rendszerösszekötő vezeték létesítése esetén a harmadik államokban előállított és felhasznált villamos energia a megújuló forrásból előállított energia bruttó végső fogyasztásának a meghatározása során akkor vehető figyelembe Magyarországon, ha:
 
-a)[^5] a rendszerösszekötő vezeték építése, amely a VET szerinti hálózatfejlesztési terv részeként kerül megépítésre, 2016. december 31-ig megkezdődik;
+a)[^6] a rendszerösszekötő vezeték építése, amely a VET szerinti hálózatfejlesztési terv részeként kerül megépítésre, 2016. december 31-ig megkezdődik;
 
 b) a rendszerösszekötő vezetéket 2020. december 31-ig nem lehet üzembe helyezni, de 2022. december 31-ig a rendszerösszekötő vezeték üzembe helyezhető;
 
@@ -34,4 +34,4 @@ d) a közös beruházásra irányuló együttműködés a 3. § (4) bekezdés b)
 
 (7) A (6) bekezdés szerinti feltételek teljesülését az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) bejelenti az Európai Bizottságnak.
 
-[^5]: A 3. § (6) bekezdés a) pontja az 50/2013. (VIII. 27.) NFM rendelet 5. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (6) bekezdés a) pontja az 50/2013. (VIII. 27.) NFM rendelet 5. § a) pontja szerint módosított szöveg.

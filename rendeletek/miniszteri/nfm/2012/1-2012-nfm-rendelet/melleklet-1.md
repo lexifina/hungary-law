@@ -1,3 +1,5 @@
+## való megfelelést szolgálja.
+
 1. melléklet az 1/2012. (I. 20.) NFM rendelethez
 
 ## Nemzeti célértékek a megújuló forrásokból előállított energiának a 2020. évi teljes bruttó energiafogyasztásban képviselt részarányára
