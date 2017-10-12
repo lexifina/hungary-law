@@ -18,13 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:252 mezőjében a „2,62” szövegrész helyébe a „4,80” szöveg,
-
-## b) E:252 mezőjében a „0,30” szövegrész helyébe a „0,54” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1735/2017. (X. 10.) Korm. határozathoz
 
@@ -33,3 +27,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (nettó, Ft) | Többlettámogatás legfeljebb (nettó, Ft) | Megnövelt önerő összege (nettó, Ft) | Megnövelt támogatás legfeljebb (nettó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-2.2.2- 15-2016-00090 | Eger város szennyvízcsatorna- hálózatának fejlesztése és a szennyvíztisztító telep korszerűsítése | Eger Megyei Jogú Város Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 2 611 999 999 | 2 183 556 832 | 532 839 648 | 4 795 556 831 | A projekt keretében Eger városi szennyvíztisztító telepe képessé válik a telephelyen belül képződő iszappal hozzávetőlegesen megegyező mennyiségű idegen telepi (illetve csatornahálózati) iszap fogadására, kezelésére, illetve az ennek során képződő biogáz kogenerációs hasznosítására. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
