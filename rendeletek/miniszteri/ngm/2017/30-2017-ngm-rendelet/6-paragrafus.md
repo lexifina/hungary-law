@@ -1,3 +1,3 @@
-## 5. §[^1]
+## 5. §[^2]
 
-[^1]: Az 5. § a 11. § (2) bekezdése alapján 2017. november 10-én lép hatályba.
+[^2]: Az 5. § a 11. § (2) bekezdése alapján 2017. november 10-én lép hatályba.
