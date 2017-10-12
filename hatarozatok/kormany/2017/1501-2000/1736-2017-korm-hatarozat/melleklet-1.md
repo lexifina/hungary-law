@@ -22,13 +22,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:310 mezőjében az „5,38” szövegrész helyébe a „6,12” szöveg,
-
-## b) E:310 mezőjében a „0,76” szövegrész helyébe a „0,86” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1736/2017. (X. 10.) Korm. határozathoz
 
@@ -37,3 +31,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (nettó, Ft) | Többlettámogatás legfeljebb (nettó, Ft) | Megnövelt önerő összege (nettó, Ft) | Megnövelt támogatás legfeljebb (nettó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-2.2.2-15- 2016-00085 | Észak- és Közép-Dunántúli szennyvíz- elvezetési és kezelési fejlesztés 6. (ÉKDU 6) | Bicske Város Önkormányzata, Csabdi Község Önkormányzat, Mány Község Önkormányzata, Csákvár Város Önkormányzata, Lovasberény Község Önkormányzata, Alcsútdoboz Település Önkormányzat, Felcsút Községi Önkormányzat, Szár Községi Önkormányzat, Tabajd Község Önkormányzata és Újbarok Községi Önkormányzat az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 5 366 999 909 | 750 823 844 | 853 871 799 | 6 117 823 753 | A projekt célja a Bicske központú szennyvízelvezetési agglomerációban a szennyvíztisztító telep fejlesztése és csatornahálózat bővítése, a Csákvár központú agglomerációban a csatornahálózat bővítése és a meglévő szennyvíztisztító telep fejlesztése, a Lovasberény központú agglomerációban csatornahálózat bővítése és új szennyvíztisztító telep építése, valamint az Újbarok központú agglomerációban a meglévő szennyvíztisztító telep fejlesztése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

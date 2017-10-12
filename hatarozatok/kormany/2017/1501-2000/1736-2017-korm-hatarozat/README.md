@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1736-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-10-11 | 2017-1736-30-22.1 | 1736/2017. (X. 10.) Korm. határozat |
+| 2017-10-12 | 2017-1736-30-22.2 | 2010: CXXX. törvény |
