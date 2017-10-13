@@ -18,7 +18,7 @@ napján.
 
 (3) A miniszter a közjegyzői szolgálat megszűnését állapítja meg, ha
 
-a) a közjegyző magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
+a) a közjegyző a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
 
 b) a közjegyzővel szemben a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény következett be,
 

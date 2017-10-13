@@ -74,7 +74,7 @@ h) a közjegyzői iroda E-ügyintézési tv. szerinti hivatalos elérhetősége.
 
 a) a közjegyzőnél fennálló munkaviszonya megszűnt,
 
-b) magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
+b) a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
 
 c) a jogi képesítéshez kötött foglalkozás gyakorlásától a bíróság jogerős ítélettel eltiltotta,
 

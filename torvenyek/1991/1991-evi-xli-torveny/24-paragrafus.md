@@ -2,7 +2,7 @@
 
 a) a 22. § (1) bekezdés a) és c) pontjában meghatározott esetekben, valamint ha a közjegyzői szolgálat megszűnésére azért kerül sor, mert a közjegyző betölti a megszűnési okként megjelölt kort, a közjegyzői szolgálat megszűnésének időpontjától kezdődően,
 
-b) a magyar állampolgárság elvesztésének időpontjától, vagy attól az időponttól kezdődően, amelytől az országgyűlési képviselők választásán nem választható,
+b) attól az időponttól kezdődően, amelytől a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
 
 c) a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény bekövetkezését megállapító bírósági ítélet jogerőre emelkedésének napjától kezdődően,
 

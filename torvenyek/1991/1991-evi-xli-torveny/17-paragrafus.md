@@ -1,20 +1,22 @@
 17. § (1) Közjegyzővé – a (3) bekezdésben foglalt kivétellel – az nevezhető ki, aki
 
-a) magyar állampolgár,
+a) az Európai Unió valamely tagállamának, az Európai Gazdasági Térségről szóló megállapodásban részes más államnak az állampolgára, vagy az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személy,
 
-b)
+b) nem áll a közügyektől eltiltás hatálya alatt,
 
-c) az országgyűlési képviselők választásán választható,
+c) olyan okleveles jogász szakképzettséggel rendelkezik, amely a jogi szakvizsga előfeltételének megfelel,
 
-d) egyetemi jogi végzettséggel rendelkezik,
+d) a jogi szakvizsgát letette,
 
-e) a jogi szakvizsgát letette,
+e) legalább 3 éves közjegyzőhelyettesi gyakorlatot igazol,
 
-f) legalább 3 évi közjegyzőhelyettesi gyakorlatot igazol,
+f) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
 
-g) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
+g) eredményes közjegyzői vizsgát tett, és
 
-(2) Az (1) bekezdés f) pontjában említett gyakorlatnak megfelel a legalább 3 éves bírói, ügyészi, ügyvédi, jogtanácsosi vagy közjegyzői gyakorlat.
+h) az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét igazolta.
+
+(2) Az (1) bekezdés e) pontjában említett gyakorlatnak megfelel a legalább 3 éves bírói, ügyészi, ügyvédi, jogtanácsosi vagy közjegyzői gyakorlat.
 
 (3) Nem nevezhető ki közjegyzővé az,
 
@@ -44,4 +46,4 @@ g) aki életmódja vagy magatartása miatt a közjegyzői hivatás gyakorlásáh
 
 h) akivel szemben a 7. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti.
 
-(4)
+(4) Az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét a pályázatot meghirdető területi kamara elnöksége a pályázat elbírálása keretében vizsgálja.

@@ -8,13 +8,11 @@
 
 (5) A nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személy akkor válhat közjegyzői iroda tagjává, ha
 
-a) magyar állampolgár,
+a) az Európai Unió valamely tagállamának, az Európai Gazdasági Térségről szóló megállapodásban részes más államnak az állampolgára, vagy az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személy,
 
-b) vele szemben nem áll fenn a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény,
+b) vele szemben nem áll fenn a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény, és
 
-c) választójoggal rendelkezik
-
-d)
+c) nem áll a közügyektől eltiltás hatálya alatt.
 
 (6) A nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személy a közjegyzői irodai tagság létesítésének engedélyezése iránti kérelem benyújtásával egyidejűleg a területi kamara elnöksége részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény vele szemben nem áll fenn, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a területi kamara elnöksége részére – annak a közjegyzői irodai tagság létesítésének engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés kizárólag azon adatra irányulhat, hogy a közjegyzői irodai tagság létesítése engedélyezését kérelmező, nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személlyel szemben fennáll-e a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény.
 
