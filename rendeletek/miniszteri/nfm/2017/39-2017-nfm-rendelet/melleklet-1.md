@@ -1,4 +1,4 @@
-## 6. § Hatályát veszti a bioüzemanyag fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól szóló 36/2010. (XII. 31.) NFM rendelet.
+## 6. §[^2]
 
 1. melléklet a 39/2017. (X. 9.) NFM rendelethez
 
@@ -485,3 +485,5 @@ A finomítókban előállított üzemanyagok esetében az 1.17. alpontban említ
 |  | 35. | a metil-tercier-butiléter megújuló energiaforrásokból előállított része | a metanol előállítási módjával megegyező |
 
 (*) a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük származó termékekre vonatkozó egészségügyi szabályok megállapításáról és az 1774/2002/EK rendelet hatályon kívül helyezéséről szóló, 2009. október 21-i 1069/2009/EK európai parlamenti és tanácsi rendelet szerinti 3. kategóriába tartozó anyagként besorolt állati melléktermékekből előállított, állati eredetű olaj kivételével
+
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
