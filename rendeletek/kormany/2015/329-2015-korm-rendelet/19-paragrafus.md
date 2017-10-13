@@ -20,6 +20,6 @@ c) a játékos által a jelentős önkorlátozó nyilatkozatban megjelölt egy v
 
 d) a korlátozás kezdő és záró időpontját.
 
-(3)[^14] A szerencsejáték-felügyeleti hatóság a jelentős önkorlátozó nyilatkozatot, illetve a nyilatkozat visszavonását, valamint a bírósági korlátozásról szóló határozatot legkésőbb annak beérkezése napját követő munkanapon jegyzi be a játékosvédelmi nyilvántartásba.
+(3)[^19] A szerencsejáték-felügyeleti hatóság a jelentős önkorlátozó nyilatkozatot, illetve a nyilatkozat visszavonását, valamint a bírósági korlátozásról szóló határozatot legkésőbb annak beérkezése napját követő munkanapon jegyzi be a játékosvédelmi nyilvántartásba.
 
-[^14]: A 19. § (3) bekezdése a 183/2017. (VII. 5.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^19]: A 19. § (3) bekezdése a 183/2017. (VII. 5.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
