@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Lengyel Köztársaság Kormánya közötti, a diplomáciai ingatlanok jogi helyzetének kölcsönös rendezéséről szóló Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
