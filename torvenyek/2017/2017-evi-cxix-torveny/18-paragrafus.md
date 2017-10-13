@@ -5,11 +5,3 @@
 (2) A 17. § 2017. december 1-jén lép hatályba.
 
 (3) A 9–11. §, valamint a 13–16. § 2018. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
