@@ -13,11 +13,3 @@ b) Magyarország területére való belépésekor az üzemben tartó – határo
 (4) A hajó-felelősségbiztosítási szerződés megkötését tanúsító bizonylatot (kötvény, igazolólap) az úszólétesítmény vezetője köteles az úszólétesítményen tartani, és azt jogszabályban megállapított esetben felmutatni.
 
 (5) Ha megállapítást nyer, hogy az (1) bekezdésben megjelölt úszólétesítményre nincs érvényes hajó-felelősségbiztosítási biztosítási szerződés, az üzemben tartó lakhelye (székhelye) szerinti illetékes hajózási hatóság tizenöt napon belül felhívja az üzemben tartót a biztosítási szerződés megkötésének igazolására. Amennyiben az üzemben tartó a felhívás kézhezvételétől számított nyolc napon belül a biztosítási szerződés fennállását nem igazolja, a hajózási hatóság a hajózási engedélyt visszavonja.”
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
