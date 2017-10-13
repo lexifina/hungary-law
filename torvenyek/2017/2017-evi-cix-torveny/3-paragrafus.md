@@ -3,11 +3,3 @@
 (2) A Jegyzőkönyv 3. cikk (1) bekezdésében meghatározott hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
 (3) Az e törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
