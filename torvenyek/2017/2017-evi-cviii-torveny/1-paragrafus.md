@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Kanada, valamint az Európai Közösség és tagállamai közötti légiközlekedési megállapodásnak a Horvát Köztársaság Európai Unióhoz való csatlakozása figyelembevétele céljából történő módosításáról szóló Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
