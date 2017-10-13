@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a felelősségnek a belvízi hajózásban való korlátozásáról szóló strasbourgi egyezmény (CLNI 2012) (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
