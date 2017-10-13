@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről az Afganisztáni Iszlám Köztársaság közötti partnerségi és fejlesztési együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
