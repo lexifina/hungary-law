@@ -1,1 +1,1 @@
-1. § Az Országgyűlés az egyrészről az Európai Unió és tagállamai, és másrészről a Vietnami Szocialista Köztársaság közötti átfogó partnerségi és együttműködési keretmegállapodáshoz csatolt, a Horvát Köztársaság Európai Unióhoz történő csatlakozásának figyelembevétele céljából készült Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
+1. §

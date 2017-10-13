@@ -5,11 +5,3 @@
 (3) A Jegyzőkönyv, valamint az 1. § és a 2. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
 (4) Az e törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
