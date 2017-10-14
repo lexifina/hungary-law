@@ -1,1 +1,0 @@
-## „(2) Az Szjtv. 29/I. § (2) bekezdés b)–d) pontja szerinti önkorlátozó intézkedés enyhítésének vagy feloldásának a napi, heti, havi időtartam leteltét megelőzően nincs helye. Amennyiben a játékos a választott, érvényben lévő önkorlátozó intézkedést szigorítani kívánja, a módosítás lehetőségét a szervezőnek haladéktalanul biztosítania kell.”
