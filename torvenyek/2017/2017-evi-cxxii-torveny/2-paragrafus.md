@@ -1,3 +1,0 @@
-2. § Az Itv. a következő 102/B. §-sal egészül ki:
-
-„102/B. § E törvénynek az illetékekről szóló 1990. évi XCIII. törvény és a szövetkezetekről szóló 2006. évi X. törvény módosításáról szóló 2017. évi CXXII. törvénnyel (a továbbiakban: 2017. évi CXXII. törvény) megállapított 45. § (1a) bekezdését a 2017. évi CXXII. törvény hatálybalépésekor bejegyzett, vagy bejegyzés alatt álló közérdekű nyugdíjas szövetkezet esetében is alkalmazni kell. A közérdekű nyugdíjas szövetkezetnek a megfizetett illetéket az állami adóhatóság a cégbíróság visszatérítésről szóló végzése alapján, a végzés közlésétől számított 30 napon belül, hivatalból téríti vissza a 79. § (4) bekezdésének alkalmazásával. A végzést a cégbíróság az állami adóhatósággal elektronikus úton közli.”
