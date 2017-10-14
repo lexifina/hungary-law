@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-68-20-1
 | --- | --- | --- |
 | 2016-10-14 | 2016-68-20-11.1 | 68/2016. (X. 13.) FM rendelet |
 | 2016-10-15 | 2016-68-20-11.2 | 2010: CXXX. törvény |
+| 2017-10-14 | 2016-68-20-11.3 | 51/2017. (X. 13.) FM rendelet |
