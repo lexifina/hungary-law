@@ -1,0 +1,9 @@
+# 51/2017. (X. 13.) FM rendelet
+
+az egyes agrártámogatások 2017. évi összegeinek megállapításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-51-20-11
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-10-14 | 2017-51-20-11.1 | 51/2017. (X. 13.) FM rendelet |
