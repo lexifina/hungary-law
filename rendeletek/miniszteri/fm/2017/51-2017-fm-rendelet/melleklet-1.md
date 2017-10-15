@@ -1,4 +1,4 @@
-## lép.
+## 16. §[^1]
 
 1. melléklet az 51/2017. (X. 13.) FM rendelethez
 
@@ -33,3 +33,5 @@ A termeléshez kötött közvetlen támogatások igénybevételének szabályair
 | 13. | szemes fehérjetakarmány-növény termesztés támogatás | 36 005 |
 
 | 14. | szálas fehérjetakarmány-növény termesztés támogatás | 16 399 |
+
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
