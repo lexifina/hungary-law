@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-40-20-4
 | 2017-01-02 | 2002-40-20-45.17 | 14/2003. (V. 27.) OM rendelet |
 | 2017-01-03 | 2002-40-20-45.18 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-10-04 | 2002-40-20-45.19 | 19/2016. (VIII. 23.) EMMI rendelet |
+| 2017-10-15 | 2002-40-20-45.20 | 14/2003. (V. 27.) OM rendelet |
