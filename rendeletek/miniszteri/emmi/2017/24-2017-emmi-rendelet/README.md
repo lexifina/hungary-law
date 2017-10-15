@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-24-20-5
 | --- | --- | --- |
 | 2017-10-04 | 2017-24-20-5H.1 | 24/2017. (X. 3.) EMMI rendelet |
 | 2017-10-05 | 2017-24-20-5H.2 | 2010: CXXX. törvény |
+| 2017-10-15 | 2017-24-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
