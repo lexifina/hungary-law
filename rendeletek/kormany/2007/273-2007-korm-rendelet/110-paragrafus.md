@@ -1,6 +1,18 @@
-110. §[^340] (1) A VET 107. § (1) bekezdés 1. pontja szerinti piacokon jelentős piaci erővel rendelkező engedélyes (e § alkalmazásában a továbbiakban: engedélyes) a VET 111. § (1) bekezdésében meghatározott értékesítési formákat együttesen is alkalmazhatja.
+110. §[^342] (1) A VET 107. § (1) bekezdés 1. pontja szerinti piacokon jelentős piaci erővel rendelkező engedélyes (e § alkalmazásában a továbbiakban: engedélyes) a VET 111. § (1) bekezdésében meghatározott értékesítési formákat együttesen is alkalmazhatja.
 
 (2) A Hivatal által meghatározott, értékesítésre kerülő villamos energia mennyisége naptári évekre vonatkoztatva nem lehet alacsonyabb annál, mint ami ahhoz szükséges, hogy az engedélyesnek a VET 111. § (1) bekezdés szerinti értékesítési kötelezettsége (e § alkalmazásában a továbbiakban: értékesítési kötelezettség) keretében értékesített villamos energia nélkül számított piaci részesedése a Hivatal által meghatározott mérték, de legalább 40% alá csökkenjen. Az értékesítési kötelezettség meghatározása során a Hivatal figyelembe veszi az adott piac sajátosságait.
+
+(2a)[^343] Az engedélyes az értékesítési kötelezettségét az általa kidolgozott értékesítési irányelvek alapján valósítja meg, amelyekre vonatkozóan a Hivatal ajánlásként módszertani útmutatót ad ki. Az engedélyes az értékesítési irányelveket a Hivatalhoz jóváhagyásra benyújtja.
+
+(2b)[^344] A (2a) bekezdés szerinti értékesítési irányelveket a Hivatal jóváhagyja, ha azok a tartalmuk alapján
+
+a) alkalmasak a villamosenergia-piaci verseny erősítésére,
+
+b) elősegítik a hazai villamosenergia-kereskedők forráshoz jutását,
+
+c) elősegítik a villamosenergia-piac fejlődését, és
+
+d) hozzájárulnak megbízható referenciaárak kialakulásához.
 
 (3) Az engedélyes a szervezett villamosenergia-piacon való értékesítési kötelezettsége keretében történő értékesítés tényét és formáját, valamint az értékesített villamos energia mennyiségét a tárgyévet követő év február 1-jéig bejelenti a Hivatal számára.
 
@@ -14,4 +26,6 @@
 
 (8) Az értékesítési kötelezettség alapján történő villamosenergia-értékesítés nem nyújt jogalapot állami támogatás vagy kompenzáció igénybevételére.
 
-[^340]: A Vhr. 110. §-a a 281/2016. (IX. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^342]: A Vhr. 110. §-a a 281/2016. (IX. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^343]: A Vhr. 110. § (2a) bekezdését a 275/2017. (IX. 21.) Korm. rendelet 4. §-a iktatta be.
+[^344]: A Vhr. 110. § (2b) bekezdését a 275/2017. (IX. 21.) Korm. rendelet 4. §-a iktatta be.

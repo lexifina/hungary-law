@@ -1,4 +1,4 @@
-78/A. §[^266] (1) Átviteli rendszerirányításra vonatkozó engedélyt közvetlen vagy közvetett állami irányítás alatt álló részvénytársaság kaphat, ha
+78/A. §[^268] (1) Átviteli rendszerirányításra vonatkozó engedélyt közvetlen vagy közvetett állami irányítás alatt álló részvénytársaság kaphat, ha
 
 a) megfelel a VET-ben és az e rendeletben meghatározott feltételeknek, és
 
@@ -6,4 +6,4 @@ b) a jegyzett tőkéje legalább 100 milliárd – a VET 104. §-ában foglalt s
 
 (2) Az átviteli rendszerirányításra vonatkozó működési engedély iránti kérelemhez a 12/a. számú mellékletben meghatározott iratokat kell csatolni.
 
-[^266]: A Vhr. 78/A. §-t a 75/2011. (V. 2.) Korm. rendelet 3. §-a iktatta be.
+[^268]: A Vhr. 78/A. §-t a 75/2011. (V. 2.) Korm. rendelet 3. §-a iktatta be.

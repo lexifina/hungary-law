@@ -28,13 +28,13 @@ h)[^153] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tu
 
 a) a 23/a. számú melléklet szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, vagy
 
-b) a szociálisan rászoruló fogyasztói státuszra jogosító ellátást, tényt megállapító szerv által kiadott, a jogosultság fennállását igazoló, 30 napnál nem régebbi igazolás, illetve határozat
+b)[^154] a szociálisan rászoruló fogyasztói státuszra jogosító ellátást, tényt megállapító szerv által kiadott, a jogosultság, tény fennállását igazoló, 30 napnál nem régebbi igazolás, illetve határozat
 
 eredeti példányának bemutatásával igazolhatja. Az elosztó az igazolás céljára bemutatott iratok másolatát a jogosultság megszűnését követő 5 évig megőrzi.
 
 (5) Az elosztó köteles a szociálisan rászoruló fogyasztót a rászorultság igazolását követő 8 napon belül nyilvántartásba venni, és a nyilvántartásba vételről a fogyasztóval jogviszonyban álló villamosenergia-kereskedőt a fogyasztóval egyidejűleg értesíteni.
 
-(6)[^154]
+(6)[^155]
 
 (7) Ha a nyilvántartásba vétel alapjául szolgáló körülmény határozott ideig áll fenn, és annak meghosszabbítását a védendő fogyasztó – a véghatáridő lejártát 30 nappal megelőzően az elosztó által a részére megküldött írásbeli figyelemfelhívás ellenére – nem igazolja, az igazoló iratban meghatározott véghatáridő lejártát követő 8 napon belül az elosztó az érintett védendő fogyasztót törli a nyilvántartásból. A nyilvántartásból való törlésről az érintett védendő fogyasztót az elosztó értesíti. A fogyasztó adatainak megállapíthatósága tekintetében a VET 65. § (4) bekezdésében foglaltak ebben az esetben is irányadók.
 
@@ -45,4 +45,5 @@ eredeti példányának bemutatásával igazolhatja. Az elosztó az igazolás cé
 [^151]: A Vhr. 30. §-a a 20/2009. (I. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
 [^152]: A Vhr. 30. § (1) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 31. §-ával megállapított, a 458/2016. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^153]: A Vhr. 30. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 3. §-a iktatta be.
-[^154]: A Vhr. 30. § (6) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^154]: A Vhr. 30. § (4) bekezdés b) pontja a 275/2017. (IX. 21.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^155]: A Vhr. 30. § (6) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.

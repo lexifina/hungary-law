@@ -1,6 +1,6 @@
-## Szabályzati bizottságok[^211]
+## Szabályzati bizottságok[^212]
 
-49. §[^212] (1) Az átviteli rendszerirányító az üzemi szabályzat és a kereskedelmi szabályzat kidolgozásával, módosításával és felülvizsgálatával kapcsolatos egyeztetés céljából külön-külön szabályzati bizottságot hoz létre és működtet.
+49. §[^213] (1) Az átviteli rendszerirányító az üzemi szabályzat és a kereskedelmi szabályzat kidolgozásával, módosításával és felülvizsgálatával kapcsolatos egyeztetés céljából külön-külön szabályzati bizottságot hoz létre és működtet.
 
 (2) Az átviteli rendszerirányító – a szabályzati bizottság bevonásával – köteles olyan előkészítő munkát végezni, amely lehetővé teszi, hogy a jogszabályi változás kihirdetését követő 90 napon belül a szükséges módosítások az üzemi szabályzatba, valamint a kereskedelmi szabályzatba átvezetésre, és a Hivatalhoz jóváhagyás céljából benyújtásra kerüljenek.
 
@@ -24,5 +24,5 @@ b) a felhasználók reprezentatív érdekképviseleti szervezetei az általuk v�
 
 (9) A szabályzati bizottság összehívását bármely érintett – képviselőjén keresztül – kezdeményezheti az átviteli rendszerirányítónál.
 
-[^211]: A Vhr. 49. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^212]: A Vhr. 49. §-a a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^212]: A Vhr. 49. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^213]: A Vhr. 49. §-a a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.

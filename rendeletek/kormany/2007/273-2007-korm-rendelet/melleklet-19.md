@@ -18,7 +18,7 @@
 
 19. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Erőmű létesítésére, bővítésére és névleges teljesítőképességének növelésére irányuló kérelemhez csatolandó megvalósíthatósági tanulmány kötelező tartalmi elemei[^476]
+Erőmű létesítésére, bővítésére és névleges teljesítőképességének növelésére irányuló kérelemhez csatolandó megvalósíthatósági tanulmány kötelező tartalmi elemei[^491]
 
 1. A tanulmány összefoglalása.
 
@@ -146,4 +146,4 @@ Erőmű létesítésére, bővítésére és névleges teljesítőképességéne
 
 – a további előkészítési fázisokban különös figyelmet érdemlő területek felsorolása.
 
-[^476]: A Vhr. 19. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 32. § (8) bekezdése szerint módosított szöveg.
+[^491]: A Vhr. 19. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 32. § (8) bekezdése szerint módosított szöveg.
