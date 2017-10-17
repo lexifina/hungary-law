@@ -1,0 +1,125 @@
+# A Kormány 300/2017. (X. 17.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 168. szám, 2017. október 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8b72d6430802ded0299e167fecfd29299a42fc1c/dokumentumok/f14ac90ec461dbb2088d082030bd9a123daa8566/letoltes)
+
+---
+
+A Kormány 300/2017. (X. 17.) Korm. rendelete
+a felszámolási eljárásban az adós vagyonának nyilvános értékesítésére vonatkozó rendelkezések
+módosításáról
+A Kormány
+a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (1) bekezdés b) pontjában,
+a 2. alcím tekintetében a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (3) bekezdésében
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A felszámolási eljárásban az adós vagyontárgyainak nyilvános értékesítésére vonatkozó részletes
+szabályokról, továbbá a felszámolás számviteli feladatairól szóló 225/2000. (XII. 19.) Korm. rendelet
+módosításáról szóló 237/2009. (X. 20.) Korm. rendelet módosítása
+1. § (1) A felszámolási eljárásban az adós vagyontárgyainak nyilvános értékesítésére vonatkozó részletes szabályokról,
+továbbá a felszámolás számviteli feladatairól szóló 225/2000. (XII. 19.) Korm. rendelet módosításáról szóló 237/2009.
+(X. 20.) Korm. rendelet (a továbbiakban: 237/2009. Korm. rendelet) 2. § (2) bekezdése helyébe a következő
+rendelkezés lép:
+„(2) A hitelezői választmányt, illetve a hitelezők képviselőjét, továbbá – ha az értékesítésre kerülő vagyonban van
+olyan vagyontárgy, amelyet az ingatlan-nyilvántartásba vagy más közhiteles nyilvántartásba bejegyzett jelzálogjog
+(önálló zálogjog), alzálogjog, végrehajtási jog vagy a Cstv. 38. § (5a) bekezdésében felsorolt biztosítéki célú jog
+terhel, és annak jogosultját hitelezőként a felszámolási eljárásban nyilvántartásba vették, a jogosultat – a pályázat
+kiírásáról, illetve az árverés kitűzéséről legkésőbb a Cégközlönyben történő közzétételre való megküldést
+megelőző 15. napon értesíteni kell az értékesítési hirdetmény tervezetének megküldésével vagy a felszámoló
+internetes honlapjára vagy internetes hirdetési adatbázisra mutató hiperhivatkozás megküldésével, ahol az adott
+értékesítési hirdetmény tervezete elérhető. Az értesítést a hitelező elektronikus kapcsolattartásra szolgáló hivatalos
+elérhetőségére vagy – az ingatlan-nyilvántartásba vagy más közhiteles nyilvántartásba bejegyzett jogosultak
+számára a nyilvántartásba bejegyzett címre – kell megküldeni. Ez a szabály irányadó a megismételt értékesítés
+
+lefolytatását megelőzően is. Ha a tervezet szövegét a felszámoló módosítja vagy kijavítja, az értesítést legkésőbb
+az említett határidőn belül ismételten meg kell küldeni. Az értékesítési hirdetményben utalni kell arra, hogy
+az értékesítési hirdetmény tervezetéről az e bekezdés szerinti módon az értesítés megtörtént.”
+(2) A 237/2009. Korm. rendelet 2. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) Az értékesítési hirdetményben a felszámolónak nyilatkoznia kell arról, hogy
+a) a vagyonelem első, megismételt vagy az ezt követő további megismételt értékesítésére kerül sor,
+b) a minimálár leszállítása esetén fennállnak a vélelmezett hitelezői hozzájárulás feltételei, és a minimálár
+csökkentésére a 4. § melyik rendelkezése alapján, milyen mértékben kerül sor,
+c) a becsérték módosítása esetén a 4. § (2c) vagy (2e) bekezdését kellett alkalmazni.”
+2. § (1) A 237/2009. Korm. rendelet 4. § (2) és (2a) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az értékesítési hirdetményben közzétett minimálár – az e §-ban meghatározott kivételekkel – nem lehet
+alacsonyabb a becsértéknél. A becsérték az aktuálisan megállapított likvidációs érték, figyelembe véve azt is, hogy
+a vagyontárgy a piaci folyamatok figyelembevételével rövid időszakon belül legyen értékesíthető.
+(2a) A felszámoló a megismételt értékesítési eljárásban közzétett értékesítési hirdetményben a minimálárat
+a becsérték 70%-áig leszállíthatja, ha azt a hitelezői választmány, hitelezői képviselő – ha hitelezői választmány
+vagy hitelezői képviselő megválasztására nem került sor, akkor a hitelezők követelésarányosan számított többsége,
+ha pedig az értékesítésre kerülő vagyonban van olyan vagyontárgy, amely a 2. § (2) bekezdésében meghatározott
+biztosítékkal van megterhelve, a biztosíték első ranghelyi jogosultja – a Cégközlönyben történő közzétételre történő
+megküldéséig írásban nem ellenzi. A vélelmezett hitelezői hozzájárulás megállapításakor a felszámolási eljárásban
+nyilvántartásba vett hitelezői igényeket kell számításba venni.”
+(2) A 237/2009. Korm. rendelet 4. §-a a következő (2b)–(2f) bekezdéssel egészül ki:
+„(2b) Ha a 2. § (2) bekezdésében meghatározott biztosítékok jogosultja nem kívánja a vagyontárgyat megvásárolni
+a Cstv. 49/A. § (5) bekezdésében vagy 49/B. § (7) bekezdésében foglaltak szerint, a további megismételt értékesítési
+eljárásban a minimálár a (2a) bekezdésben foglaltak alkalmazásával a becsérték 50%-áig – ezt követően a további
+megismételt értékesítési eljárásban a készletek, félkész termékek, követelések vagy a legfeljebb egymillió forint
+becsértékű tárgyi eszköz értékesítésekor a becsérték 35%-áig – csökkenthető.
+(2c) Ha a megismételt vagy a további megismételt értékesítési eljárás megkezdése előtt olyan újabb értékbecslésre
+kerül sor, amely a becsértéket a korábbinál több mint 20%-kal kevesebb összegben állapítja meg, a felszámoló
+a minimálárat
+a) a (2a) bekezdés szerinti esetben legfeljebb az új becsérték 80%-áig,
+b) a (2b) bekezdés szerinti esetben legfeljebb az új becsérték 60%-áig – készletek, félkész termékek, követelések
+vagy a legfeljebb egymillió forint becsértékű tárgyi eszköz esetében 45%-áig –
+szállíthatja le.
+(2d) Az újabb értékbecslés szükségességének okát a felszámolónak az értékesítési hirdetményben meg kell jelölnie.
+(2e) Ha a megismételt vagy az ezt követő további megismételt értékesítési eljárás megkezdése előtt készített újabb
+értékbecslés a becsértéket a korábbinál magasabb összegben állapítja meg, vagy a becsértéket legfeljebb 20%-kal
+csökkentett összegben állapítja meg,
+a) a minimálár (2a) és (2b) bekezdés szerinti csökkentésénél, valamint
+b) a Cstv. 49/A. § (5) bekezdése és 49/B. § (7) bekezdése szerinti értékesítésnél
+az újabb becsértéket kell figyelembe venni.
+(2f) Eredménytelennek kell nyilvánítani az értékesítést, ha nem adtak be az értékesítési hirdetményben
+meghatározott feltételeknek megfelelő érvényes ajánlatot. Az értékesítés eredménytelenségének okát indoklással
+a jegyzőkönyvben rögzíteni kell.”
+3. §
+A 237/2009. Korm. rendelet 7. §-a a következő (1b) bekezdéssel egészül ki:
+„(1b) E rendeletnek a felszámolási eljárásban az adós vagyonának nyilvános értékesítésére vonatkozó rendelkezések
+módosításáról szóló 300/2017. (X. 17.) Korm. rendelettel [a továbbiakban: 300/2017. (X. 17.) Korm. rendelet]
+megállapított 2. § (1), (2), (4), (4a), (5) és (6) bekezdését, 4. § (1), (1a), (2), (2a)–(2e) bekezdését és 5. § (1) bekezdését
+a 2017. november 15-én és az azt követően – a Cégközlönyben megjelenő közlemények közzétételéről és
+költségtérítéséről szóló 22/2006. (V. 18.) IM rendelet előírásai szerint – közzétételre megküldött értékesítési
+hirdetményre kell alkalmazni.”
+
+4. §
+A 237/2009. Korm. rendelet
+a) 2. § (1) bekezdésében a „pályázati felhívást és az árverési hirdetményt” szövegrész helyébe a „pályázati
+felhívást és az árverési hirdetményt (a továbbiakban együtt: értékesítési hirdetmény)”szöveg,
+b) 2. § (1) bekezdésében a „közzéteheti az internetes honlapján, internetes hirdetési adatbázisban,” szövegrész
+helyébe a„tájékoztatásul közzéteheti internetes hirdetési adatbázisban,”szöveg,
+c) 2. § (4) bekezdésében az„irányárát (becsértékét)”szövegrész helyébe a„becsértékét”szöveg,
+d) 2. § (5) bekezdés a) és c) pontjában az„irányár (becsérték)”szövegrész helyébe a„becsérték”szöveg,
+e) 2. § (5) bekezdés b) pontjában az„irányár (becsérték)”szövegrészek helyébe a„becsérték”szöveg,
+f) 2. § (6) bekezdésében a „vagyontárgyak együttes irányára (becsértéke) alapján” szövegrész helyébe
+a„vagyontárgyak becsértékének összege alapján”szöveg,
+g) 4. § (1) bekezdésében az „A pályázati felhívásban, az árverési hirdetményben,” szövegrész helyébe
+az„Az értékesítési hirdetményben,”szöveg,
+h) 4. § (1) bekezdésében az„irányárát (becsértékét)”szövegrész helyébe a„becsértékét”szöveg,
+i) 4. § (1a) bekezdésében az „a pályázati felhívás, árverési hirdetmény” szövegrész helyébe az „az értékesítési
+hirdetmény”szöveg,
+j) 5. § (1) bekezdésében az„árverési hirdetményben, a pályázati felhívásban”szövegrész helyébe az„értékesítési
+hirdetményben”szöveg
+lép.
+2. A felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló
+17/2014. (II. 3.) Korm. rendelet módosítása
+5. §
+A felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló 17/2014. (II. 3.) Korm. rendelet
+[a továbbiakban: 17/2014. (II. 3.) Korm. rendelet] 28. §-a a következő (3) bekezdéssel egészül ki:
+„(3) E rendeletnek a felszámolási eljárásban az adós vagyonának nyilvános értékesítésére vonatkozó rendelkezések
+módosításáról szóló 300/2017. (X. 17.) Korm. rendelettel [a továbbiakban: 300/2017. (X. 17.) Korm. rendelet]
+hatályon kívül helyezett 26/A. §-át a Cégközlönyben megjelenő közlemények közzétételéről és költségtérítéséről
+szóló 22/2006. (V. 18.) IM rendelet előírásai szerint a 2017. november 15-éig közzétételre megküldött értékesítési
+hirdetményre kell alkalmazni.”
+6. §
+Hatályát veszti a 17/2014. (II. 3.) Korm. rendelet
+a) 22. § (2) bekezdésében a„(kikiáltási árat)”szövegrész,
+b) 26. § (3) bekezdése,
+c) 26/A. §-a.
+3. Záró rendelkezés
+7. §
+Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
