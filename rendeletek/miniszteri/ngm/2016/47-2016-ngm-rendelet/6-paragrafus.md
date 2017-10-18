@@ -2,7 +2,7 @@
 
 (2) A kérelmet
 
-a) 2016. december 15-ig elektronikusan az eAdaton keresztül és
+a)[^10] 2017. november 30-ig elektronikusan az eAdaton keresztül és
 
 b) az a) pont szerinti elektronikus kérelem benyújtását követő 7 napon belül – a 3. § (8) bekezdés c) pontja szerinti aláírással ellátott – papír alapon
 
@@ -19,3 +19,5 @@ b) az a) pont szerinti elektronikus kérelem benyújtását követő 7 napon bel
 (7) Ha a (2) bekezdés b) pontja szerinti kérelem nem érkezik be határidőben, a kezelő szerv tájékoztatja a szolgáltatót arról, hogy kérelmét érvénytelennek tekinti.
 
 (8) A kezelő szerv a támogatói okirat kiállítását követő 5 napon belül folyósít a szolgáltató által megadott számlára.
+
+[^10]: A 6. § (2) bekezdés a) pontja a 31/2017. (X. 17.) NGM rendelet 4. § g) pontja szerint módosított szöveg.
