@@ -4,7 +4,7 @@
 
 | 1. Autópályák és autóutak építésének engedélyezése |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | 1.1. Eljárási díj (alapdíj) |  |
 
@@ -26,7 +26,7 @@
 
 | 2. Autópálya, autóút hídjai kiviteli tervének jóváhagyása |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | a) 100 m szabadnyílást meghaladó híd, alagút | 763 000 |
 
@@ -38,7 +38,7 @@
 
 | (ideértve az ideiglenes forgalomba helyezést is) |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. és 25. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § és 22. §] |  |
 
 | 3.1. Eljárási díj (alapdíj) |  |
 
@@ -60,23 +60,23 @@
 
 | 4. Meglévő autópályán, autóúton új csomópont, úthasználati díjszedő állomás, pihenőhely építésének, átépítésének engedélyezése létesítményenként | 600 400 |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | 5. Meglévő autópályán, autóúton épített, átépített csomópont, úthasználati díjszedő állomás, pihenőhely forgalomba helyezésének engedélyezése létesítményenként (ideértve az ideiglenes forgalomba helyezést is) | 233 400 |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. és 25. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § és 22. §] |  |
 
 | 6. Közúti határátkelőhelyek közlekedési építményei építésének engedélyezése | 614 900 |
 
-| [1988. I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | 7. Közúti határátkelőhelyek forgalomba helyezésének engedélyezése (ideértve az ideiglenes forgalomba helyezést is) | 233 400 |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. és 25. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § és 22. §] |  |
 
 | 8. Országos közutak elvi építésének, illetve építésének engedélyezése |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | 8.1. Eljárási díj (alapdíj) |  |
 
@@ -98,7 +98,7 @@
 
 | 9. Helyi közutak és közforgalom elől el nem zárt magánutak elvi építésének, illetve építésének engedélyezése |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | 9.1. Alapdíj |  |
 
@@ -124,7 +124,7 @@
 
 | 10. Út tartozékai és egyéb létesítményei építésének engedélyezése |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | 10.1. Autóbuszöböl, segélykérőhely létesítményenként | 52 600 |
 
@@ -144,7 +144,7 @@
 
 | 11. Országos közutak forgalomba helyezésének engedélyezése (ideértve az ideiglenes forgalomba helyezést is) |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. és 25. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § és 22. §] |  |
 
 | 11.1. Alapdíj |  |
 
@@ -164,7 +164,7 @@
 
 | 12. Helyi közutak és közforgalom elől el nem zárt magánutak forgalomba helyezésének engedélyezése (ideértve az ideiglenes forgalomba helyezést is) |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. és 25. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § és 22. §] |  |
 
 | 12.1. Alapdíj |  |
 
@@ -188,7 +188,7 @@
 
 | 13. Út tartozékai és egyéb létesítményei forgalomba helyezésének engedélyezése (ideértve az ideiglenes forgalomba helyezést is) |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. § és 25. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § és 22. §] |  |
 
 | 13.1. Autóbuszöböl, segélykérőhely létesítményenként | 17 500 |
 
@@ -208,7 +208,7 @@
 
 | 14. Kerékpárutak, gyalogutak, járdák építésének engedélyezése |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | 14.1. Alapdíj |  |
 
@@ -226,7 +226,7 @@
 
 | 15. Kerékpárutak, gyalogutak, járdák forgalomba helyezésének engedélyezése (ideértve az ideiglenes forgalomba helyezést is) |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. § és 25. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § és 22. §] |  |
 
 | 15.1. Alapdíj |  |
 
@@ -242,7 +242,7 @@
 
 | 16. Hidak, alagutak építésének engedélyezése |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | a) 100 m szabadnyílást meghaladó híd, alagút | 395 300 |
 
@@ -254,7 +254,7 @@
 
 | 17. Hidak, alagutak kiviteli tervének jóváhagyása (építés vagy építés jellegű munka, pl. hídszélesítés, főtartócsere, pályalemezcsere, sarucsere, sarurendezés, hídfőpillér javítása vagy erősítése esetén) |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | a) 100 m szabadnyílást meghaladó híd, alagút | 588 000 |
 
@@ -266,7 +266,7 @@
 
 | 18. Hidak, alagutak forgalomba helyezésének engedélyezése (ideértve az ideiglenes forgalomba helyezést is) |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. § és 25. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § és 22. §] |  |
 
 | a) 100 m szabadnyílást meghaladó híd, alagút | 282 500 |
 
@@ -278,7 +278,7 @@
 
 | 19. Utak, hidak és egyéb műtárgyak megszüntetésének, bontásának engedélyezése |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | 19.1. Utak |  |
 
@@ -302,7 +302,7 @@
 
 | 20. Építési engedélyek módosítása (beleértve a jogerős építési engedélyektől való eltérés engedélyezését) |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | 20.1. Autópályák, autóutak | 376 700 |
 
@@ -336,11 +336,11 @@
 
 | 21. A fennmaradási engedélyezés díja az építési engedélyezés díjának és a forgalomba helyezés díjának összege |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 27. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 24. §] |  |
 
 | 22. A földutak engedélyezésének díja a kategória szerinti engedélyezési díj 60%-a |  |
 
-| [1988. évi I. tv. 29. § (1) bek. és 15/2000. (XI. 16.) KöViM rend. 3. §] |  |
+| [1988. évi I. tv. 29. § (1) bek. és 93/2012. (V. 10.) Korm. rendelet 3. § ] |  |
 
 | 23. Építési engedélyhez kötött útépítési munka esetén az ideiglenes forgalomszabályozási terv jóváhagyása az engedélyezési alapdíj 15%-a |  |
 
@@ -440,13 +440,15 @@
 
 | 42. Nem közlekedési hatósági eljárásban a közlekedési szakhatósági előírások meghatározásához szükséges, illetve kért helyszíni szemle | 3 700 |
 
-| 43. A hatósági engedély |  |
+| 43. A hatósági engedély |  |
 
-| a) érvényességi idejének meghosszabbítása: az engedélyezési díj 50%-a |  |
+| a) időbeli hatályának meghosszabbítása: az engedélyezési díj 50%-a |  |
 
-| b) átruházása: az engedélyezési díj 10%-a |  |
+| [93/2012. (V. 10.) Korm. rendelet 15. §] |  |
 
-| [15/2000. (XI. 16.) KöViM rend. 17. §] |  |
+| b) átruházása: az engedélyezési díj 10%-a |  |
+
+| [93/2012. (V. 10.) Korm. rendelet 29. §] |  |
 
 2. számú melléklet a 26/1997. (XII. 12.) KHVM rendelethez[^12]
 
