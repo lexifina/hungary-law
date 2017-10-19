@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-239-20-
 | 2016-01-01 | 2009-239-20-22.16 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-09-01 | 2009-239-20-22.17 | 259/2016. (VIII. 31.) Korm. rendelet |
 | 2017-01-01 | 2009-239-20-22.18 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-10-19 | 2009-239-20-22.19 | 301/2017. (X. 18.) Korm. rendelet |

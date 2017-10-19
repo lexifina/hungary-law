@@ -6,7 +6,7 @@ b) szálláshely-szolgáltatás: a Kertv. 2. § 23. pontjában meghatározott fo
 
 c) szálloda: az a kizárólag szálláshely-szolgáltatás folytatása céljából létesített szálláshelytípus, amelyben a szálláshely szolgáltatása mellett egyéb szolgáltatásokat is nyújtanak, és ahol a hasznosított szobák száma legalább tizenegy, az ágyak száma legalább huszonegy,
 
-d) panzió: az a kizárólag szálláshely-szolgáltatás folytatása céljából létesített szálláshelytípus, ahol az e célra hasznosított szobák száma legalább hat, de legfeljebb tíz, az ágyak száma legalább tizenegy, de legfeljebb húsz,
+d)[^2] panzió: az a kizárólag szálláshely-szolgáltatás folytatása céljából létesített szálláshelytípus, amelyben a szálláshely szolgáltatása mellett a reggeli szolgáltatás kötelező; a hasznosított szobák száma legalább hat, de legfeljebb huszonöt, az ágyak száma legalább tizenegy, de legfeljebb ötven.
 
 e) kemping: az a külön területen kizárólag szálláshely-szolgáltatás folytatása céljából létesített szálláshelytípus, amelyben szállás céljából a vendégek és járműveik számára elkülönült területet (a továbbiakban: területegység), illetve üdülőházat (a továbbiakban együtt: lakóegység) és egyéb kiszolgáló létesítményeket (például tisztálkodási, mosási, főzési, egészségügyi célokat szolgáló vizesblokk, portaszolgálat stb.) biztosítanak, és amely legalább kilenc lakóegységgel rendelkezik,
 
@@ -17,3 +17,5 @@ g) közösségi szálláshely: az a kizárólag szálláshely-szolgáltatás fol
 h) egyéb szálláshely: szálláshely-szolgáltatás céljára hasznosított, az a)–g) pont alá nem tartozó, nem kizárólag szálláshely-szolgáltatás rendeltetéssel létesített önálló épület vagy annak lehatárolt része, ahol az e célra hasznosított szobák száma legfeljebb nyolc, az ágyak száma legfeljebb tizenhat,
 
 i) falusi szálláshely: a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény szerint kiemelt üdülőkörzethez nem tartozó települések, valamint a természetes gyógytényezőkről szóló külön jogszabály alapján törzskönyvezett gyógyhelyek kivételével az 5000 fő alatti településeken, illetve a 100 fő/km2 népsűrűség alatti területeken található olyan egyéb szálláshely, amelyet úgy alakítottak ki, hogy abban a falusi életkörülmények, a helyi vidéki szokások és kultúra, valamint a mezőgazdasági hagyományok komplex módon, adott esetben kapcsolódó szolgáltatásokkal együtt bemutatásra kerüljenek.
+
+[^2]: A 2. § d) pontja a 301/2017. (X. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
