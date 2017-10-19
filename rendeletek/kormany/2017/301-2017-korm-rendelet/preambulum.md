@@ -1,0 +1,1 @@
+A Kormány a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés f) pontjában foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
