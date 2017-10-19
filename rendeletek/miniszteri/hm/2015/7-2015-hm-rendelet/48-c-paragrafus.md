@@ -1,4 +1,4 @@
-## 29/C. [^48] A legénységi kiegészítő illetmény
+## 29/C. [^44] A legénységi kiegészítő illetmény
 
 48/C. § (1) A legénységi állomány tagja – a (2) bekezdésben foglalt kivétellel – legénységi kiegészítő illetményre jogosult.
 
@@ -26,4 +26,4 @@ bd) szakaszvezető rendfokozattal rendszeresített beosztás betöltése esetén
 
 (4) Ha a (3) bekezdés alapján kiszámított összeg nem éri el az 1000 Ft-ot, vagy ha a legénységi állomány tagja alapilletményének és honvédelmi szolgálati díjának együttes összege a rá irányadó, (3) bekezdés szerinti összeghatárral megegyezik vagy annál magasabb, akkor a legénységi állomány tagja a (3) bekezdésben foglaltak helyett 1000 Ft összegű legénységi kiegészítő illetményre jogosult.
 
-[^48]: A 29/C. alcímet (48/C. §) a 25/2016. (XII. 22.) HM rendelet 83. §-a iktatta be.
+[^44]: A 29/C. alcímet (48/C. §) a 25/2016. (XII. 22.) HM rendelet 83. §-a iktatta be.

@@ -1,5 +1,5 @@
-62. § (1)[^62] A Hjt. 247/I. § (2) és (4) bekezdése szerinti esetben az állomány tagja részére – a 90 napon belül ki nem adott szabadnapok ellentételezéseként – szabadnap megváltása címén járó juttatás összege megegyezik a ki nem adott szabadnapok időtartamával arányos összegű távolléti díjjal.
+62. § (1)[^58] A Hjt. 247/I. § (2) és (4) bekezdése szerinti esetben az állomány tagja részére – a 90 napon belül ki nem adott szabadnapok ellentételezéseként – szabadnap megváltása címén járó juttatás összege megegyezik a ki nem adott szabadnapok időtartamával arányos összegű távolléti díjjal.
 
 (2) Az (1) bekezdés szerinti ki nem adott szabadnapokra eső távolléti díjat úgy kell meghatározni, hogy a szabadnapra való jogosultság keletkezésének napja szerinti hónap utolsó napján érvényes illetmény alapján számított távolléti díjat osztani kell 21 nappal, és az így megkapott egy napi távolléti díjat meg kell szorozni a megváltandó szabadnapok számával.
 
-[^62]: A 62. § (1) bekezdése a 9/2016. (VI. 29.) HM rendelet 20. § 16. pontja szerint módosított szöveg.
+[^58]: A 62. § (1) bekezdése a 9/2016. (VI. 29.) HM rendelet 20. § 16. pontja szerint módosított szöveg.

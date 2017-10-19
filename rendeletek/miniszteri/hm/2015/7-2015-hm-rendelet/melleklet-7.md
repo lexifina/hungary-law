@@ -40,7 +40,7 @@
 
 | 19 | dandártábornok | 20.000 | - | 41.435 | - |
 
-7. melléklet a 7/2015. (VI. 22.) HM rendelethez[^110]
+7. melléklet a 7/2015. (VI. 22.) HM rendelethez[^106]
 
 Az egészségügyi közalkalmazotti munkakörök és az egészségügyi katonai beosztások megnevezésének megfeleltetése
 
@@ -298,4 +298,4 @@ Az egészségügyi közalkalmazotti munkakörök és az egészségügyi katonai 
 
 | 126 | 5.7. Munkavezető, foglalkozásvezető | kiemelt főtiszt, egészségügyi főtiszt, főtiszt, egészségügyi tiszt, tiszt |
 
-[^110]: A 7. mellékletet a 25/2016. (XII. 22.) HM rendelet 90. §-a iktatta be.
+[^106]: A 7. mellékletet a 25/2016. (XII. 22.) HM rendelet 90. §-a iktatta be.

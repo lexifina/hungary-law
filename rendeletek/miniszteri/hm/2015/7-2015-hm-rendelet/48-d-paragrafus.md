@@ -1,4 +1,4 @@
-## 29/D. [^49] Az egészségügyi dolgozók honvédségi bérkompenzációja miatti kiegészítő illetmény
+## 29/D. [^45] Az egészségügyi dolgozók honvédségi bérkompenzációja miatti kiegészítő illetmény
 
 48/D. § (1) Az állomány tagja egészségügyi dolgozók honvédségi bérkompenzációja miatti kiegészítő illetményre jogosult, ha
 
@@ -30,4 +30,4 @@ b) a Korm. R. 2016. december 31-én hatályos 3. melléklete szerinti – a bet�
 
 (6) Ha az állomány (1) bekezdés szerinti tagja kikerül az (1) bekezdés hatálya alá tartozó személyi körből, akkor az (1) bekezdés szerinti kiegészítő illetményre a továbbiakban már nem lesz jogosult.
 
-[^49]: A 29/D. alcímet (48/D. §) a 25/2016. (XII. 22.) HM rendelet 83. §-a iktatta be.
+[^45]: A 29/D. alcímet (48/D. §) a 25/2016. (XII. 22.) HM rendelet 83. §-a iktatta be.

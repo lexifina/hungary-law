@@ -1,6 +1,5 @@
-## 95. §[^106] E rendeletnek a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet és a honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet módosításáról szóló 5/2017. (V. 17.) HM rendelettel (a továbbiakban: Módr1.) megállapított 74/A. § (2) bekezdését, valamint – ehhez kapcsolódóan – 74/A. § (3) és (10) bekezdését a 2017. április 1-jétől a Módr1. hatálybalépéséig[^107] terjedő időszakban létesített önkéntes területvédelmi tartalékos szolgálati viszonyok vonatkozásában is alkalmazni kell.
+## 96. §[^103] E rendeletnek az egyes jogállási kérdésekkel összefüggő miniszteri rendeletek módosításáról szóló 14/2017. (X. 18.) HM rendelet 3. §-ával megállapított 35. §-át 2017. szeptember 1-jétől kell alkalmazni.
 
 1. melléklet a 7/2015. (VI. 22.) HM rendelethez
 
-[^106]: A 95. §-t az 5/2017. (V. 17.) HM rendelet 6. §-a iktatta be.
-[^107]: A hatálybalépés időpontja 2017. május 18.
+[^103]: A 96. §-t a 14/2017. (X. 18.) HM rendelet 4. §-a iktatta be.
