@@ -1,0 +1,3 @@
+13. § Az Áttv. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kiemelt ügyintézői osztályba sorolásról a munkáltatói jogkör gyakorlója a kinevezéskor, a vezetői munkakörből nem vezetői munkakörbe történő helyezéskor, illetve minden év január 31. napjáig dönthet. A kiemelt ügyintézői osztályba sorolt állami tisztviselő a tárgyévben egy alkalommal a kiemelt ügyintézői osztályba sorolástól számított hat hónapot követően – teljesítményértékelés alapján – általános ügyintézői osztályba visszasorolható. Kiemelt ügyintézői osztályba az érettségi végzettségű és a felsőfokú végzettséggel rendelkező állami tisztviselő is besorolható.”
