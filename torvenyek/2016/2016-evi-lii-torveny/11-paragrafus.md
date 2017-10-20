@@ -2,7 +2,7 @@
 
 11. § (1) Az állami tisztviselő a Kttv. 80. §-a szerint köteles a központilag vagy a munkáltató által előírt képzésben, továbbképzésben vagy átképzésben – ideértve a közigazgatási vezetőképzést is – részt venni.
 
-(2) A vezetői munkakörbe kinevezett állami tisztviselőnek a vezetői munkakörbe történő kinevezésétől számított öt éven belül kormányzati tanulmányok szakirányú továbbképzés során kormányzati tanulmányok szakirányú szakképzettséget kell szereznie.
+(2) Vezetői kinevezést csak felsőfokú iskolai végzettségű állami tisztviselő kaphat. A vezetői munkakörbe kinevezett állami tisztviselőnek a vezetői munkakörbe történő kinevezésétől számított öt éven belül kormányzati tanulmányok szakirányú továbbképzés során kormányzati tanulmányok szakirányú szakképzettséget kell szereznie.
 
 (3) Ha a vezetői munkakört betöltő állami tisztviselő a (2) bekezdés szerinti szakképzettség megszerzését a megjelölt határidőn belül számára felróható okból elmulasztja, a határidő leteltét követő nappal nem vezetői munkakörbe kell helyezni.
 
