@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2017-01-01 | 2016. évi CXXV. törvény | 2010-122-00-00.32 |
 | 2017-06-20 | 2017. évi LXXVII. törvény | 2010-122-00-00.33 |
 | 2017-07-01 | 2017. évi LXXII. törvény | 2010-122-00-00.34 |
+| 2017-10-20 | 2017. évi CXXIII. törvény | 2010-122-00-00.35 |

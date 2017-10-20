@@ -30,4 +30,4 @@ d) nemzetiségi önkormányzat képviselője.
 
 (7) A pénzügyőr a (4) és (6a) bekezdésben meghatározottakon túl nem tölthet be a Hszt. 82. § (1) bekezdés b) pontjában meghatározott egyéb tisztséget sem.
 
-(8) Nem keletkeztet összeférhetetlenséget a Magyar Kormánytisztviselői Karban, a Magyar Rendvédelmi Kar NAV Tagozatában, illetve a munkavállalói érdek-képviseleti szervben betöltött tisztség.
+(8) Nem keletkeztet összeférhetetlenséget a Magyar Kormánytisztviselői és Állami Tisztviselői Karban, a Magyar Rendvédelmi Kar NAV Tagozatában, illetve a munkavállalói érdek-képviseleti szervben betöltött tisztség.
