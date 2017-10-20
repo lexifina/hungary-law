@@ -1,0 +1,3 @@
+7. § (1) Ha a villamosenergia-termelés biomassza felhasználásával történik, a KÁT termelőnek vagy a premizált termelőnek igazolnia kell, hogy a felhasznált fatermék a fát és faterméket piaci forgalomba bocsátó piaci szereplők kötelezettségének meghatározásáról szóló, 2010. október 20-i 995/2010/EU európai parlamenti és tanácsi rendelet, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény rendelkezéseinek megfelelő legális fakitermelésből származik, és nem tartozik a VET 10. § (2) bekezdésének hatálya alá.
+
+(2) Ha a villamosenergia-termelés biomassza felhasználásával történik, a KÁT termelőnek vagy a premizált termelőnek nyilatkoznia kell, hogy a tüzelőanyagként felhasznált biomassza emberi élelmezés céljára nem alkalmas.
