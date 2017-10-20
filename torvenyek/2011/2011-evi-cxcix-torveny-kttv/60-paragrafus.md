@@ -10,7 +10,7 @@ b) a kormánytisztviselő halálával,
 
 c) e törvény erejénél fogva az e törvényben meghatározott esetekben,
 
-d) az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíró, bírósági titkár, illetve ügyész minisztériumi beosztásának megszűnésével,
+d)
 
 e) a 70. életév betöltésével,
 
@@ -40,7 +40,7 @@ e) azonnali hatállyal a próbaidő alatt.
 
 (4) Az (1) bekezdés e) pontjában meghatározott életkori korlát alól a miniszterelnök felmentést adhat, ha a kormánytisztviselői kinevezés a külszolgálathoz kapcsolódó képviselet-vezetői megbízáshoz szükséges.
 
-(5) A 38. § (2) bekezdés alapján létrejött tartós külszolgálat hatvan napos hatállyal megszüntethető.
+(5) A 38. § (2) bekezdése alapján tartós külszolgálat ellátására létrejött határozott idejű kormányzati szolgálati jogviszony hatvannapos hatállyal megszüntethető.
 
 (6) A kormánytisztviselő a rá irányadó öregségi nyugdíjkorhatár betöltését egy évvel megelőzően az (1) bekezdés j) pontja szerinti feltétel ellenőrzése céljából a nyugdíjbiztosítási igazgatási szervnél a megszerzett szolgálati idejéről hatósági bizonyítvány kiállítását kéri. Nem kell kérelmezni a hatósági bizonyítvány kiállítását, ha a nyugdíjbiztosítási igazgatási szerv korábban meghozott határozata az öregségi teljes nyugdíjhoz szükséges szolgálati idő meglétét igazolja. A kormánytisztviselő a szolgálati időről kiállított hatósági bizonyítvány vagy más határozat másolatát – a rá irányadó öregségi nyugdíjkorhatár betöltését legalább három hónappal megelőzően – benyújtja a munkáltatónak. A munkáltató az így tudomására jutott személyes adatokat az (1) bekezdés j) pontjában meghatározott feltétel teljesülésének ellenőrzése céljából, legfeljebb a 184. § (4) bekezdésében meghatározott ideig kezelheti.
 

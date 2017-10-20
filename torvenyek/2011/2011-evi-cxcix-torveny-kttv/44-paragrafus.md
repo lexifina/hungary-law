@@ -10,6 +10,6 @@
 
 ## „Isten engem úgy segéljen!”
 
-(3) Az eskütételt az államigazgatási szerv köteles a kormánytisztviselői kinevezés előtt megszervezni. Az eskütételre a munkáltatói jogkör gyakorlója és a munkatársak előtt kerülhet sor. Az esküt szóban kell elmondani és írásban megerősíteni.
+(3) Az eskütételt az államigazgatási szerv köteles a kormánytisztviselői kinevezés előtt megszervezni. Az eskütételre a munkáltatói jogkör gyakorlója vagy az általa kijelölt vezető előtt kerülhet sor. Az esküt szóban kell elmondani és írásban megerősíteni.
 
 (4) Az eskütétel elmaradása érvénytelenségi ok. Eskütétel hiányában a kormánytisztviselő nem állítható szolgálatba, erre bárki hivatkozhat.

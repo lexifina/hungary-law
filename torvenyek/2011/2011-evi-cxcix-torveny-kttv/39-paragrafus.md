@@ -78,7 +78,7 @@ a) nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
 
 b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a kormányzati szolgálati jogviszony létesítését a külön törvény szerint arra feljogosított személy, szerv vagy testület nem hagyta jóvá,
 
-az államigazgatási szerv a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy részére más, nemzetbiztonsági ellenőrzés alá nem eső kormányzati szolgálati jogviszonynak minősülő munkakört ajánlhat fel. Felajánlható munkakör hiányában vagy ha a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a felajánlott munkakört nem fogadja el, kormányzati szolgálati jogviszony nem létesíthető.
+az államigazgatási szerv – mérlegelése alapján – a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy részére más, nemzetbiztonsági ellenőrzés alá nem eső kormányzati szolgálati jogviszonynak minősülő munkakört ajánlhat fel. Felajánlható munkakör hiányában vagy ha a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a felajánlott munkakört nem fogadja el, kormányzati szolgálati jogviszony nem létesíthető.
 
 (4a) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, és
 
@@ -86,7 +86,7 @@ a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
 
 b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a kormányzati szolgálati jogviszony fenntartását a külön törvény szerint arra feljogosított személy, szerv vagy testület nem hagyta jóvá,
 
-a munkáltató a kormánytisztviselő részére más, nemzetbiztonsági ellenőrzés alá nem eső kormányzati szolgálati jogviszonynak minősülő munkakört ajánlhat fel. Felajánlható munkakör hiányában, vagy ha a kormánytisztviselő a felajánlott munkakört nem fogadja el a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
+a munkáltató – mérlegelése alapján – a kormánytisztviselő részére más, nemzetbiztonsági ellenőrzés alá nem eső kormányzati szolgálati jogviszonynak minősülő munkakört ajánlhat fel. Felajánlható munkakör hiányában, vagy ha a kormánytisztviselő a felajánlott munkakört nem fogadja el a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
 (4b) A kormányzati szolgálati jogviszonynak a (4a) bekezdés szerinti megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
 

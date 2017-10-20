@@ -54,9 +54,9 @@ b) ha a közigazgatási szerv hivatali szervezetének vezetője közjogi szervez
 
 20a. levonásmentes illetményrész: a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó illetményrész;
 
-21. Magyar Kormánytisztviselői Kar tagozata: a központi és a területi államigazgatásban foglalkoztatott kormánytisztviselőknek és állami tisztviselőknek a Magyar Kormánytisztviselői Kar alapszabályában meghatározott résztestületei;
+21. Magyar Kormánytisztviselői és Állami Tisztviselői Kar tagozata: a központi és a területi államigazgatásban foglalkoztatott kormánytisztviselőknek és állami tisztviselőknek a Magyar Kormánytisztviselői és Állami Tisztviselői Kar alapszabályában meghatározott résztestületei;
 
-22. Magyar Kormánytisztviselői Kar: szakmai érdek-képviseleti szerv, a kormánytisztviselők és állami tisztviselők önkormányzattal rendelkező szakmai, érdek-képviseleti köztestülete;
+22. Magyar Kormánytisztviselői és Állami Tisztviselői Kar: a kormánytisztviselők és az állami tisztviselők önkormányzattal rendelkező, közigazgatási szakmai köztestülete;
 
 23. munkaidő: a munkavégzésre előírt idő kezdetétől annak befejezéséig tartó idő, valamint a munkavégzéshez kapcsolódó előkészítő és befejező tevékenység időtartama. Nem munkaidő a közszolgálati tisztviselő lakó- vagy tartózkodási helyéről a tényleges munkavégzés helyére, valamint a munkavégzés helyéről a lakó- vagy tartózkodási helyére történő utazás időtartama;
 

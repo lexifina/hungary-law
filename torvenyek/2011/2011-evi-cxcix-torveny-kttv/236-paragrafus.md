@@ -28,7 +28,7 @@ b) a 3000–10 000 lakosú településen, valamint a 3000-nél kevesebb lakosú 
 
 c) 10 000 feletti lakosú településen, valamint a megyei jogú városi önkormányzatnál, megyei önkormányzatnál, fővárosi kerületi, fővárosi önkormányzatnál osztályvezetői és főosztályvezető-helyettesi szintnek megfelelő vezetői kinevezésen túl további vezetői kinevezés is adható.
 
-(6) A (4) bekezdés a) pont és az (5) bekezdés alkalmazása során a költségvetési törvényben meghatározott normatív támogatásoknál figyelembe vett lakosságszám az irányadó. A lakosságszámtól függő illetményelemek változását a tárgyév január 1-jétől kell érvényesíteni.
+(6) A (4) bekezdés a) pontja és az (5) bekezdés alkalmazása során a költségvetési törvényben meghatározott normatív támogatásoknál figyelembe vett lakosságszám – közös önkormányzati hivatalhoz tartozó települések esetén az együttes lakosságszám – az irányadó. A lakosságszámtól függő illetményelemek változását a tárgyév január 1-jétől kell érvényesíteni.
 
 (7) A (6) bekezdés alkalmazása során a köztisztviselő illetménye csökkenhet is.
 

@@ -16,7 +16,7 @@ b) egyéb esetben – törvény eltérő rendelkezésének hiányában – a sze
 
 (7) A kormánytisztviselő év közben történő végleges áthelyezése esetén – eltérő megállapodás hiányában – a korábbi munkáltató által megállapított eltérítés mértékére jogosult az áthelyezést kérő szervnél is.
 
-(8) A fővárosi és megyei kormányhivatal esetében a (3) bekezdést azzal az eltéréssel kell alkalmazni, hogy a járási (fővárosi kerületi) hivatal kormánytisztviselője tekintetében az alapilletmény-eltérítésre a járási (fővárosi kerületi) hivatal vezetője tesz javaslatot. A járási (fővárosi kerületi) hivatal vezetőjének javaslata alapján az alapilletmény-eltérítésről a kormánymegbízott dönt.
+(8)
 
 (9) Az illetmény-összetevők – ide nem értve az illetménypótlékokat – változása esetén, így különösen az illetményalap emelkedése, a besorolási vagy fizetési fokozat változása során a kormánytisztviselő illetményét újra meg kell állapítani.
 

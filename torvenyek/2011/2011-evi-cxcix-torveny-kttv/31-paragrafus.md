@@ -46,6 +46,6 @@ d) az Országos Etikai Bizottság elnöke.
 
 (15) Az etikai vétséget elkövető MKK taggal szemben kiszabható büntetés a figyelmeztetés vagy a megrovás. Ha az etikai eljárás során fegyelmi vétség elkövetésének gyanúja merül fel, az eljáró szerv erről köteles értesíteni az eljárás alá vont kormánytisztviselő munkáltatóját.
 
-(16) Etikai vétséget követ el az, aki a 83. § és a 83/A. § (1) bekezdésének, a Kormánytisztviselői Hivatásetikai Kódex, valamint az Alapszabály rendelkezéseit megszegi. Az etikai eljárásról e törvény, valamint a Kormánytisztviselői Hivatásetikai Kódex rendelkezik.
+(16) Etikai vétséget követ el az, aki a 83. § és a 83/A. § (1) bekezdésének, a MKK Hivatásetikai Kódex, valamint az Alapszabály rendelkezéseit megszegi. Az etikai eljárásról e törvény, valamint a MKK Hivatásetikai Kódex rendelkezik.
 
 Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottságok megválasztása

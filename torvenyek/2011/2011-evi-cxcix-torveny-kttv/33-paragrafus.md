@@ -1,8 +1,10 @@
 ## Tagsági viszony
 
-33. § (1) Az MKK tagja az a magyar állampolgár, aki államigazgatási szervnél kormánytisztviselői kinevezést kapott.
+33. § (1) Az MKK tagja az a magyar állampolgár, aki államigazgatási szervnél kormánytisztviselői, állami tisztviselői kinevezést kapott.
 
 (2) A munkáltató a kormányzati szolgálati jogviszony létesítéséről és megszűnéséről legkésőbb tizenöt napon belül tájékoztatja az Országos Irodát.
+
+(2a) Az MKK-tagság alapjául szolgáló jogviszony fennállásáról – a tag kérésére – a munkáltató igazolást állít ki, amely igazolás az MKK által a tagjai számára nyújtható kedvezményes szolgáltatások igénybevételére szolgál.
 
 (3) Megszűnik a MKK-tagsági viszonya annak, akinek a kormányzati szolgálati jogviszonya megszűnt.
 

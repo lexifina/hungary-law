@@ -15,3 +15,5 @@
 a) az új munkaköre szerinti illetmény összege nem éri el a korábbi illetménye 80%-át, illetve
 
 b) vezetői munkakörből nem vezetői munkakörbe történő helyezésre kerül sor.
+
+(7) A kormánytisztviselő (6) bekezdés szerinti felmentése esetén a kinevezés-módosítást megelőzően betöltött korábbi munkakörében megállapított illetményét kell alapul venni a felmentési időre járó illetmény, a végkielégítés, valamint az egyéb kifizetések összegének meghatározásakor.

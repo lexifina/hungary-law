@@ -1,4 +1,4 @@
-29. § (1) A Magyar Kormánytisztviselői Kar (a továbbiakban: MKK) a kormánytisztviselők és állami tisztviselők önkormányzattal rendelkező, közigazgatási szakmai, érdek-képviseleti köztestülete.
+29. § (1) A Magyar Kormánytisztviselői és Állami Tisztviselői Kar (a továbbiakban: MKK) a kormánytisztviselők és az állami tisztviselők önkormányzattal rendelkező, közigazgatási szakmai köztestülete.
 
 (2) Az MKK kötelező tagsági viszony alapján működik.
 
@@ -10,9 +10,9 @@
 
 (6) Az MKK
 
-a) ellátja a kormánytisztviselői hivatás gyakorlásával összefüggő ügyekben az általános érdekképviseletet;
+a)
 
-b) védi a Kormánytisztviselői Kar tekintélyét, testületeinek és tagjainak érdekeit, valamint a kormánytisztviselő jogait;
+b) védi a Kormánytisztviselői és Állami Tisztviselői Kar tekintélyét, testületeinek és tagjainak érdekeit, valamint a kormánytisztviselő jogait;
 
 c) megalkotja a hivatásetikai részletszabályokat, kialakítja az e törvényben meghatározott keretek között az etikai eljárás rendszerét, valamint lefolytatja az etikai eljárásokat;
 
@@ -44,13 +44,13 @@ m) szakmai konferenciákat, tudományos tanácskozásokat, felkészítő tovább
 
 n) pályázatokat írhat ki és bírálhat el, illetve kiadványokat jelentethet meg a közigazgatás fejlesztésére, gyakorlatának egységesítésére, a közigazgatási példaadó munkamódszerek megismertetésére, hagyományainak ápolására;
 
-o) a kormányzati szolgálati jogviszony tekintetében meghatalmazás alapján képviseli tagját a bíróság vagy más hatóság előtti eljárásban;
+o)
 
 p) tagjai számára jóléti, szociális és egyéb kedvezményes szolgáltatásokat nyújthat;
 
 q) megfigyelőként részt vesz a kormánytisztviselők vizsgáztatásában és továbbképzésében, indokolt esetben törvényességi és egyéb intézkedést kezdeményez;
 
-r) tagot delegál a Közigazgatási Továbbképzési Kollégiumba;
+r) tagot delegál a Közigazgatási Továbbképzési Kollégiumba és az Állami Tisztviselői Továbbképzési Kollégiumba;
 
 s) megalkotja éves költségvetését, elfogadja az éves költségvetés végrehajtásáról szóló a számviteli törvény szerinti beszámolót;
 
