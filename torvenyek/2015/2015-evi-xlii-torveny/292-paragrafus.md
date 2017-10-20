@@ -2,7 +2,7 @@
 
 (2) Az MRK tagjai az e törvényben és az MRK Alapszabályában (a továbbiakban: Alapszabály) meghatározott módon és feltételek szerint tagozatokat hoznak létre, amelyek ellátják az Alapszabályban, valamint a 293. §-ban meghatározott szervek által átruházott feladatokat.
 
-(3) Az Alapszabály rendelkezhet területi szervek, valamint a Magyar Kormánytisztviselői Karral közös szervezetek létrehozásáról és az együttműködés rendjéről.
+(3) Az Alapszabály rendelkezhet területi szervek, valamint a Magyar Kormánytisztviselői és Állami Tisztviselői Karral közös szervezetek létrehozásáról és az együttműködés rendjéről.
 
 (4) Az MRK
 

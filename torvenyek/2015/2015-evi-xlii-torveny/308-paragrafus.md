@@ -4,7 +4,7 @@
 
 (2) Az ágazati érdekvédelmi tanács a miniszter, az országos parancsnok, valamint az MRK képviseletében eljáró konzultatív tanács részvételével működik.
 
-(3) A konzultatív tanáccsal való együttműködésről a miniszter és az MRK együttműködési megállapodást köt. A konzultatív tanácsba a miniszter meghívhatja a Magyar Kormánytisztviselői Kar képviselőjét a rendvédelmi szervekkel és az idegenrendészeti és menekültügyi feladatokat ellátó szervvel kormányzati szolgálati jogviszonyban állók érdekeinek egyeztetése céljából.
+(3) A konzultatív tanáccsal való együttműködésről a miniszter és az MRK együttműködési megállapodást köt. A konzultatív tanácsba a miniszter meghívhatja a Magyar Kormánytisztviselői és Állami Tisztviselői Kar képviselőjét a rendvédelmi szervekkel és az idegenrendészeti és menekültügyi feladatokat ellátó szervvel kormányzati szolgálati jogviszonyban állók érdekeinek egyeztetése céljából.
 
 (4) Az ágazati érdekvédelmi tanácsot a (3) bekezdés szerinti megállapodásban meghatározott rendben és időközönként kell összehívni.
 

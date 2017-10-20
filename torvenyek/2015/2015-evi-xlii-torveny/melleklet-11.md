@@ -15,5 +15,3 @@ I. Az alapösztöndíj szorzószáma havonta
 II. Az alapösztöndíj-kiegészítés szorzószáma havonta az egyes kiképzési vagy tanulmányi szemeszterek alapján
 
 1. I. szemeszter (rendészeti alapfelkészítés): 0,25
-
-2. II. szemeszter: 0,26
