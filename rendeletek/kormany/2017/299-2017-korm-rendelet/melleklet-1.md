@@ -1,4 +1,4 @@
-## 28. § Hatályát veszti a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet.
+## 28. §[^2]
 
 1. melléklet a 299/2017. (X. 17.) Korm. rendelethez
 
@@ -29,3 +29,5 @@
 | 4 | Mélyvölgyidőszak | 31,77 |
 
 3. A pályázati eljárás alá nem tartozó zöld prémium típusú támogatás támogatott bázisára 31,77 Ft/kWh.
+
+[^2]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
