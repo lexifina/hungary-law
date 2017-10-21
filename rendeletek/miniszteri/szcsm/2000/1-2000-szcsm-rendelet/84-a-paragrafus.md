@@ -8,7 +8,7 @@
 
 a) egyéni és csoportos foglalkozásokat napi rendszerességgel kell szervezni,
 
-b) a demens személy egyéni gondozási tervét a demencia centrum szakvéleménye és a szociális, mentálhigiénés munkatárs állapotfelmérése alapján kell elkészíteni,
+b)[^243]
 
 c) a gondozói felügyeletet a nyitvatartási idő alatt folyamatosan biztosítani kell,
 
@@ -24,3 +24,4 @@ dd) a területileg illetékes szakorvosi (pszichiátriai, neurológiai, geriátr
 
 [^241]: A 84/A. §-t és alcímét a 9/2006. (XII. 27.) SZMM rendelet 8. §-a iktatta be.
 [^242]: A 84/A. § (1) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § i) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 3. § c) pontja, a 43/2016. (XII. 27.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^243]: A 84/A. § (3) bekezdés b) pontját a 26/2017. (X. 18.) EMMI rendelet 10. § b) pontja hatályon kívül helyezte.

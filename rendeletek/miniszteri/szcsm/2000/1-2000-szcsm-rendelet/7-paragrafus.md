@@ -18,7 +18,7 @@ b) az egyéni rehabilitációs program,
 
 c) az egyéni fejlesztési terv.
 
-(4)[^59] Az egyéni gondozási terv – a fogyatékos személyek otthona kivételével – az ápolást, gondozást nyújtó intézményben elhelyezett, a nappali intézményi ellátásban részesülő, valamint az (1) bekezdés c) pontjában meghatározott alapszolgáltatásban részesülő személy ellátásához kapcsolódó, az e rendeletben meghatározott feladatokat rögzíti.
+(4)[^59] Az egyéni gondozási terv – a fogyatékos személyek otthona kivételével – az ápolást, gondozást nyújtó intézményben elhelyezett, valamint az (1) bekezdés c) pontjában meghatározott alapszolgáltatásban részesülő személy ellátásához kapcsolódó, az e rendeletben meghatározott feladatokat rögzíti.
 
 (5) Az egyéni rehabilitációs program – a fogyatékos személyek rehabilitációs intézménye kivételével – a rehabilitációs intézményben elhelyezett személy számára nyújtott életvezetési, pszichés, mentális, szociális, a foglalkoztatáshoz való segítségnyújtást tartalmazó dokumentáció.
 
@@ -29,4 +29,4 @@ c) az egyéni fejlesztési terv.
 [^56]: A 7. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
 [^57]: A 7. § (1) bekezdés a) pontja a 78/2011. (XII. 30.) NEFMI rendelet 4. §-ával mnegállapított, az 55/2013. (VII. 29.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
 [^58]: A 7. § (1) bekezdésének c) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^59]: A 7. § (4) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 2. §-ának (2) bekezdésével megállapított és a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 39. § (2)–(3) bekezdését.
+[^59]: A 7. § (4) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 2. §-ának (2) bekezdésével megállapított, a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdés a) pontja, a 26/2017. (X. 18.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.

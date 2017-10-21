@@ -6,16 +6,16 @@ b) tíz ellátottra két fürdőszoba (fürdőkád vagy zuhanyzó),
 
 c) külön helyiségben két darab illemhely,
 
-d)[^246] főzésre alkalmas helyiség, illetve nyolc-tizenkét fő elhelyezésére alkalmas étkezőhelyiség,
+d)[^247] főzésre alkalmas helyiség, illetve nyolc-tizenkét fő elhelyezésére alkalmas étkezőhelyiség,
 
-e)[^247] 8–10 fő ellátott esetén ellátottanként legalább két négyzetméter, 10 fő ellátott felett legalább húsz négyzetméter alapterületű közösségi együttlétre szolgáló helyiség
+e)[^248] 8–10 fő ellátott esetén ellátottanként legalább két négyzetméter, 10 fő ellátott felett legalább húsz négyzetméter alapterületű közösségi együttlétre szolgáló helyiség
 
 található, valamint
 
 f) biztosított a folyamatos melegvíz-, fűtés- és energia szolgáltatás.
 
-(2)[^248] A főzésre alkalmas helyiségnek alkalmasnak kell lennie meleg étel készítésére. A főzésre alkalmas helyiségnek átlagos felszereltségűnek kell lennie.
+(2)[^249] A főzésre alkalmas helyiségnek alkalmasnak kell lennie meleg étel készítésére. A főzésre alkalmas helyiségnek átlagos felszereltségűnek kell lennie.
 
-[^246]: A 94. § (1) bekezdés d) pontja a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bg) alpontja szerint módosított szöveg.
-[^247]: A 94. § (1) bekezdés e) pontja a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bh) alpontja szerint módosított szöveg.
-[^248]: A 94. § (2) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bi) alpontja szerint módosított szöveg.
+[^247]: A 94. § (1) bekezdés d) pontja a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bg) alpontja szerint módosított szöveg.
+[^248]: A 94. § (1) bekezdés e) pontja a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bh) alpontja szerint módosított szöveg.
+[^249]: A 94. § (2) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bi) alpontja szerint módosított szöveg.
