@@ -104,6 +104,6 @@
 
 ## orvos
 
-4. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^30]
+4. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^31]
 
-[^30]: A 4. számú mellékletet az 55/2015. (XI. 30.) EMMI rendelet 38. §-a hatályon kívül helyezte.
+[^31]: A 4. számú mellékletet az 55/2015. (XI. 30.) EMMI rendelet 38. §-a hatályon kívül helyezte.
