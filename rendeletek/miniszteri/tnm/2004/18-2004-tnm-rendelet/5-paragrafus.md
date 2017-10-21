@@ -4,7 +4,7 @@
 
 (2) A rendelet előírásait a rendelet hatálybalépését követően indult államigazgatási ügyekben kell alkalmazni.
 
-Melléklet a 18/2004. (IX. 11.) TNM rendelethez
+Melléklet a 18/2004. (IX. 11.) TNM rendelethez[^2]
 
 Keszthely vízpart-rehabilitációs tanulmánytervének M=1:2000 méretarányú tervlapja
 
@@ -13,6 +13,8 @@ Keszthely vízpart-rehabilitációs tanulmánytervének M=1:2000 méretarányú 
 BALATON VíZPART-REHABILITÁCIÓS TANULMÁNYTERV JELMAGYARÁZATA
 
 A TELEPÜLÉSRENDEZÉSI TERVEKBEN ÉRVÉNYESÍTENDŐ, JÓVÁHAGYANDÓ SZABÁLYOZÁSI ELEMEK:
+
+4M11026_0
 
 | Építési hatósági intézkedést igénylő, engedély nélkül, ill. joghatályos településrendezési tervvel ellentétesen beépített terület |  |
 
@@ -67,6 +69,8 @@ A TELEPÜLÉSRENDEZÉSI TERVEKBEN ÉRVÉNYESÍTENDŐ, JÓVÁHAGYANDÓ SZABÁLYOZ
 | - védelmi, valamint egészségügyi, szociális és turisztikai rendeltetésű erdőterület |  |
 
 | * A különleges területek betűjelei a 283/2002. Korm. rend. alapján: Okt = oktatási központ területe K = kemping területe Eü = egészségügyi terület Ho = honvédelmi terület Sp = nagykiterjedésű sportolási célú terület Szk = szabadidőközpont St = strandterület Ki = kikötő területe |  |
+
+4M11026_1
 
 | - vízgazdálkodási terület tómedren kívül |  |
 
@@ -181,3 +185,5 @@ Balaton vízpart-rehabilitációs tanulmányterv
 Keszthely 5/5
 
 Szabályozási tervlap
+
+[^2]: A melléklet a 25/2017. (X. 13.) MvM rendelet 1. §-a szerint módosított szöveg.
