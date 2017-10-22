@@ -1,1 +1,0 @@
-## 1. § A Keszthely vízpart-rehabilitációs szabályozási követelményekkel érintett területének lehatárolásáról és vízpart-rehabilitációs tanulmánytervének elfogadásáról szóló 18/2004. (IX. 11.) TNM rendelet (a továbbiakban: R.) Melléklete az 1. melléklet szerint módosul.
