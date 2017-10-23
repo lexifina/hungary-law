@@ -1,0 +1,3 @@
+## 1. § A termésnövelő anyagok engedélyezéséről, tárolásáról, forgalmazásáról és felhasználásáról szóló 36/2006. (V. 18.) FVM rendelet [a továbbiakban: 36/2006. (V. 18.) FVM rendelet] 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Amennyiben a minőség-ellenőrzési vizsgálatok eredményei alapján a készítmény megfelel az engedélyokirat előírásainak, a megvizsgált tétel további 1 évig hozható forgalomba. A tétel tulajdonosa vagy a forgalmazó köteles a vizsgálattal kapcsolatos dokumentumokat kérésre a vevő vagy a hatósági ellenőrzés során a járási hivatal rendelkezésére bocsátani. A készítmény csomagolását kiegészítő címkével kell ellátni, a márkanév, a gyártási szám és a meghosszabbított eltarthatósági idő feltüntetésével.”
