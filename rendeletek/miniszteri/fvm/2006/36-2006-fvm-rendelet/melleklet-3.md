@@ -1,14 +1,14 @@
-3. számú melléklet a 36/2006. (V. 18.) FVM rendelethez[^154]
+3. számú melléklet a 36/2006. (V. 18.) FVM rendelethez[^178]
 
 ## Minőségi előírások a termésnövelő anyagokra
 
 1. MŰTRÁGYÁK
 
-1.1. A hatóanyagokra vonatkozó előírások (tápoldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek alkalmazandók)
+1.1. A hatóanyagokra vonatkozó előírások (oldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek alkalmazandók)
 
 A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó által megadott értékeknek.
 
-1.2. A toxikus elemekre vonatkozó előírások (tápoldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek alkalmazandók)
+1.2. A toxikus elemekre vonatkozó előírások (oldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek alkalmazandók)
 
 |  | As | Cd | Co | Cr | Hg | Ni | Pb | Se |
 
@@ -66,7 +66,7 @@ Ammónium-nitrát, illetve 80%-nál több ammónium-nitrátot tartalmazó műtr�
 
 2. SZERVES TRÁGYÁK
 
-2.1. Hatóanyagokra vonatkozó előírások
+2.1. A hatóanyagokra vonatkozó előírások [A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó által megadott értéknek (oldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek is alkalmazhatók)]
 
 – pH (10%-os vizes szuszpenzióban) 6,5–8,5
 
@@ -88,7 +88,7 @@ Ammónium-nitrát, illetve 80%-nál több ammónium-nitrátot tartalmazó műtr�
 
 – Mg-tartalom (m/m%) sz.a. legalább 0,5
 
-2.2. A toxikus elemekre vonatkozó előírások
+2.2. A toxikus elemekre vonatkozó előírások (oldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek is alkalmazhatók)
 
 |  | As | Cd | Co | Cr | Hg | Ni | Pb | Se |
 
@@ -120,7 +120,7 @@ Ammónium-nitrát, illetve 80%-nál több ammónium-nitrátot tartalmazó műtr�
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
+– Pseudomonas aeruginosa szám < 10 db/g vagy < 10 db/ml
 
 – Salmonella sp. negatív / 2 × 10 g vagy ml
 
@@ -150,33 +150,33 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 4.1. Hatóanyagokra vonatkozó előírások
 
-– pH (10%-os vizes szuszpenzióban) 6,5–8,5
+4.1.1. pH (10%-os vizes szuszpenzióban) 6,5–9,5
 
-– térfogattömeg (kg/dm3) legfeljebb 0,9
+4.1.2. térfogattömeg (kg/dm3) legfeljebb 0,9
 
-– szárazanyag-tartalom (m/m%) legalább 50,0
+4.1.3. szárazanyag-tartalom (m/m%) legalább 50,0
 
-– szervesanyag-tartalom (m/m%) sz.a. legalább 25,0 *
+4.1.4. szervesanyag-tartalom (m/m%) sz.a. legalább 25,0*
 
-– vízben oldható összes sótartalom (m/m%) sz.a. legfeljebb 4,0
+4.1.5. vízben oldható összes sótartalom (m/m%) sz.a. legfeljebb 4,0
 
-– szemcseméret eloszlás 25,0 mm alatt legalább 100,0
+4.1.6. szalma eredetű struktúra anyag szemcseméret eloszlás 25,0 mm alatt legalább 80,0%
 
-– N-tartalom (m/m%) sz.a. legalább 1,0
+4.1.7. szalma eredetű struktúra anyag szemcseméret eloszlás 25,0 mm – 50,0 mm között legfeljebb 20%
 
-– gombakomposztok esetében legalább 20 m/m%
+4.1.8. N-tartalom (m/m%) sz.a. legalább 1,0
 
-– P2O5-tartalom (m/m%) sz.a. legalább 0,5
+4.1.9. gombakomposztok esetében legalább 20 m/m%
 
-– K2O-tartalom (m/m%) sz.a. legalább 0,5
+4.1.10. P2O5-tartalom (m/m%) sz.a. legalább 0,5
 
-– Ca-tartalom (m/m%) sz.a. legalább 1,2
+4.1.11. K2O-tartalom (m/m%) sz.a. legalább 0,5
 
-– Mg-tartalom (m/m%) sz.a. legalább 0,5
+4.1.12. Ca-tartalom (m/m%) sz.a. legalább 1,2
 
-– kizárólag zöldhulladékból készült
+4.1.13. Mg-tartalom (m/m%) sz.a. legalább 0,5
 
-komposztok N-tartalma (m/m%) sz. a. legalább 0,5
+4.1.14. kizárólag zöldhulladékból készült komposztok N-tartalma (m/m%) sz.a. legalább 0,5
 
 4.2. A toxikus elemekre vonatkozó előírások
 
@@ -208,7 +208,7 @@ komposztok N-tartalma (m/m%) sz. a. legalább 0,5
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
+– Pseudomonas aeruginosa szám < 10 db/g vagy < 10 db/ml
 
 – Salmonella sp. negatív / 2 × 10 g vagy ml
 
@@ -272,7 +272,7 @@ komposztok N-tartalma (m/m%) sz. a. legalább 0,5
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
+– Pseudomonas aeruginosa szám < 10 db/g vagy < 10 db/ml
 
 – Salmonella sp. negatív / 2 × 10 g vagy ml
 
@@ -464,7 +464,7 @@ Alginit
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
+– Pseudomonas aeruginosa szám < 10 db/g vagy < 10 db/ml
 
 – Salmonella sp. negatív / 2 × 10 g vagy ml
 
@@ -474,11 +474,11 @@ Alginit
 
 7. TALAJKONDICIONÁLÓ KÉSZÍTMÉNYEK
 
-7.1. A hatóanyagokra vonatkozó előírások
+7.1. A hatóanyagokra vonatkozó előírások (oldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek is alkalmazhatók)
 
 A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó által megadott értékeknek.
 
-7.2. A toxikus elemekre vonatkozó előírások
+7.2. A toxikus elemekre vonatkozó előírások (oldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek is alkalmazhatók)
 
 |  | As | Cd | Co | Cr | Cu | Hg | Ni | Pb | Se |
 
@@ -504,11 +504,23 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 8. MIKROBIOLÓGIAI KÉSZÍTMÉNYEK
 
-8.1. A hatóanyagokra vonatkozó előírások
+8.1. A hatóanyagokra vonatkozó előírások (oldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek is alkalmazhatók)
 
-A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó által megadott értékeknek.
+8.1.1. a baktériumok száma legalább 106 CFU/g sz.a. vagy CFU/cm3,
 
-8.2. A toxikus elemekre vonatkozó előírások
+8.1.2. a gombaszám legalább 105 CFU/g sz.a. vagy CFU/cm3,
+
+8.1.3. az algaszám legalább 106 sejt/cm3 legyen,
+
+8.1.4. készre hígított készítmények esetében a mikroorganizmusok száma a 8.1.1–8.1.3. pontban leírt értékeket n-nek tekintve legalább 10n–2 /g sz.a. vagy 10n–2 /cm3 legyen.
+
+A hatóanyag-tartalom megengedett eltérése 10n–1, ahol n az engedélyokiratban megadott értéknek felel meg.
+
+CFU = Colony Forming Unit (telepképző egységek)
+
+sz.a. = szárazanyag.
+
+8.2. A toxikus elemekre vonatkozó előírások (oldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek is alkalmazhatók)
 
 |  | As | Cd | Co | Cr | Cu | Hg | Ni | Pb | Se |
 
@@ -530,7 +542,7 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
+– Pseudomonas aeruginosa szám < 10 db/g vagy < 10 db/ml
 
 – Salmonella sp. negatív / 2 × 10 g vagy ml
 
@@ -540,19 +552,19 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 9.1. Hatóanyagokra vonatkozó előírások
 
-|  | A | B | C | D | E | F |
+|  | A | B | C | D | E |
 
-| 1. | Paraméterek |  | Magas szervesanyag tartalmú virágföld és palántaföld | Közepes szervesanyag tartalmú virágföld | termesztő föld | tartó közeg |
+| 1. | Paraméterek |  | Magas szervesanyag tartalmú virágföld és palántaföld | Közepes szervesanyag tartalmú virágföld | termesztő föld |
 
-| 2. | szárazanyag tartalom (m/m%) | legalább | 30 | 45 | 45 | – |
+| 2. | szárazanyag tartalom (m/m%) | legalább | 35 | 40 | 45 |
 
-| 3. | szerves anyag tartalom (m/m%) sz.a. | legalább | 70 | 50 | 12 | – |
+| 3. | szerves anyag tartalom (m/m%) sz.a. | legalább | 70 | 40 | 12 |
 
-| 4. | N tartalom (m/m%) sz.a. | legalább | 0,3 | 0,3 | 0,03 | – |
+| 4. | N tartalom (m/m%) sz.a. | legalább | 0,3 | 0,3 | 0,3 |
 
-| 5. | P2O5 tartalom (m/m%) sz.a. | legalább | 0,1 | 0,1 | 0,01 | – |
+| 5. | P2O5 tartalom (m/m%) sz.a. | legalább | 0,1 | 0,1 | 0,1 |
 
-| 6. | K2O tartalom (m/m%) sz.a. | legalább | 0,3 | 0,1 | 0,03 | – |
+| 6. | K2O tartalom (m/m%) sz.a. | legalább | 0,3 | 0,1 | 0,1 |
 
 – pH (10%-os vizes szuszpenzióban) 4,0–8,2
 
@@ -596,7 +608,7 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
+– Pseudomonas aeruginosa szám < 10 db/g vagy < 10 db/ml
 
 – Salmonella sp. negatív / 2 × 10 g vagy ml
 
@@ -604,11 +616,11 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 10. NÖVÉNYKONDICIONÁLÓ KÉSZÍTMÉNYEK
 
-10.1. A hatóanyagokra vonatkozó előírások
+10.1. A hatóanyagokra vonatkozó előírások (oldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek is alkalmazhatók)
 
 A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó által megadott értékeknek.
 
-10.2. A toxikus elemekre vonatkozó előírások
+10.2. A toxikus elemekre vonatkozó előírások (oldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek is alkalmazhatók)
 
 |  | As | Cd | Co | Cr | Cu | Hg | Ni | Pb | Se |
 
@@ -638,7 +650,7 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
+– Pseudomonas aeruginosa szám < 10 db/g vagy < 10 db/ml
 
 – Salmonella sp. negatív / 2 × 10 g vagy ml
 
@@ -832,4 +844,4 @@ F. EGYÉB MŰTRÁGYÁK
 
 | 5. | 10 tömegszázalék felett | ± 1,1 |
 
-[^154]: A 3. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése, a 42/2013. (V. 28.) VM rendelet 1. §-a, a 37/2014. (XII. 17.) FM rendelet 16. § (3) bekezdése szerint módosított szöveg.
+[^178]: A 3. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése, a 42/2013. (V. 28.) VM rendelet 1. §-a, a 37/2014. (XII. 17.) FM rendelet 16. § (3) bekezdése, az 52/2017. (X. 13.) FM rendelet 3. § c) pontja és 4–5. §-a szerint módosított szöveg.
