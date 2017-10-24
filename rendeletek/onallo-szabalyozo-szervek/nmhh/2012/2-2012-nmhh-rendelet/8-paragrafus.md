@@ -6,9 +6,9 @@
 
 (3) A KRA a következő szolgáltatói és felhasználói adatokat tárolja:
 
-a)[^13] a szolgáltató neve, KRA kapcsolatban használt IP-címei, a kapcsolattartó, vagy kapcsolattartók neve, címe, telefonszáma, e-mail címe,
+a)[^15] a szolgáltató neve, KRA kapcsolatban használt IP-címei, a kapcsolattartó, vagy kapcsolattartók neve, címe, telefonszáma, e-mail címe,
 
-b)[^14] természetes személy szolgáltatói felhasználó esetében a neve, címe, telefonszáma, e-mail címe, és
+b)[^16] természetes személy szolgáltatói felhasználó esetében a neve, címe, telefonszáma, e-mail címe, és
 
 c) a 3. § (10) bekezdés szerinti kapcsolattartási adatok.
 
@@ -22,5 +22,5 @@ c) a 3. § (10) bekezdés szerinti kapcsolattartási adatok.
 
 (8) A hatóság indokolt esetben, a szolgáltató írásbeli kérelmére jogosult számhordozási tranzakciókat végezni, amennyiben a KRA üzemszerű elérésében a szolgáltató ideiglenesen akadályoztatva van.
 
-[^13]: A 8. § (3) bekezdés a) pontja az 1/2016. (I. 15.) NMHH rendelet 12. §-ával megállapított szöveg.
-[^14]: A 8. § (3) bekezdés b) pontja az 1/2016. (I. 15.) NMHH rendelet 12. §-ával megállapított szöveg.
+[^15]: A 8. § (3) bekezdés a) pontja az 1/2016. (I. 15.) NMHH rendelet 12. §-ával megállapított szöveg.
+[^16]: A 8. § (3) bekezdés b) pontja az 1/2016. (I. 15.) NMHH rendelet 12. §-ával megállapított szöveg.

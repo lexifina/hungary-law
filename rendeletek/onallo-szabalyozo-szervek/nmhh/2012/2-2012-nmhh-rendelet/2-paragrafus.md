@@ -28,7 +28,7 @@
 
 12. jelzés relé funkció (Signalling Relay Function): olyan jelzéshálózati funkció, amely mind a hívásfelépítéssel kapcsolatos, mind a hívásfelépítéstől független jelzésüzenetek esetében képes a hordozott számok felismerésére és szükség esetén azok irányítási információval való ellátására;
 
-13.[^1] kapcsolattartó: az a személy, aki jogosult a szolgáltató, nevében a központi referencia adatbázissal kapcsolatos adminisztratív kérdésekben eljárni;
+13.[^2] kapcsolattartó: az a személy, aki jogosult a szolgáltató, nevében a központi referencia adatbázissal kapcsolatos adminisztratív kérdésekben eljárni;
 
 14. központi referencia adatbázis, vagy KRA: az a számhordozás érdekében létrehozott rendszer, amely tartalmazza és kezeli az összes hordozott számmal kapcsolatos irányítási információt, valamint a szolgáltatók és felhasználók jelen rendeletben meghatározott adatait, továbbá elektronikus adatkapcsolaton keresztül biztosítja az irányítási adatok összegyűjtését és a szolgáltatók, valamint más jogszabály alapján erre jogosultak részére való szétosztását;
 
@@ -36,7 +36,7 @@
 
 16. lekérdezés minden hívásnál (All Call Query): olyan eljárás, amelyben az irányítási információt tartalmazó adatbázis lekérdezését minden hívás során végrehajtják;
 
-17.[^2]
+17.[^3]
 
 18. számátadási időablak: minden munkanap 20 óra 00 perctől kezdődő 4 óra hosszúságú időtartomány, amelyben a számhordozás és számmező átadás érvényesítéséhez szükséges műszaki intézkedéseket a szolgáltatók végrehajtják, és amely időtartam alatt a számátadással érintett számokon a szolgáltatás részben vagy egészben szünetelhet;
 
@@ -52,8 +52,8 @@
 
 24. tranzakció zárás: a számhordozási időablak kezdetét 8 órával megelőző időpont, amely után a KRA az adott számátadási időablakra vonatkozó tranzakciót – letöltési művelet kivételével – nem fogad el;
 
-25.[^3] üzenet: a KRA-ból a szolgáltató, által letöltendő, a KRA által elektronikus formában tárolt, a szolgáltatót érintő, számhordozással kapcsolatos információ.
+25.[^4] üzenet: a KRA-ból a szolgáltató, által letöltendő, a KRA által elektronikus formában tárolt, a szolgáltatót érintő, számhordozással kapcsolatos információ.
 
-[^1]: A 2. § 13. pontja a 13/2012. (IX. 28.) NMHH rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^2]: A 2. § 17. pontját az 1/2016. (I. 15.) NMHH rendelet 19. § (1) bekezdése hatályon kívül helyezte.
-[^3]: A 2. § 25. pontja a 13/2012. (IX. 28.) NMHH rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. § 13. pontja a 13/2012. (IX. 28.) NMHH rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. § 17. pontját az 1/2016. (I. 15.) NMHH rendelet 19. § (1) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § 25. pontja a 13/2012. (IX. 28.) NMHH rendelet 2. § (2) bekezdése szerint módosított szöveg.
