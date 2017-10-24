@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-10-20-3
 | 2017-09-18 | 2017-10-20-3H.2 | 2010: CXXX. törvény |
 | 2017-10-01 | 2017-10-20-3H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-10-02 | 2017-10-20-3H.4 | 2010: CXXX. törvény |
+| 2017-10-24 | 2017-10-20-3H.5 | 2010: CXXX. törvény |
