@@ -251,19 +251,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 80/b. Nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúra: nagy sebességű elektronikus hírközlő hálózatok elemeinek fogadására szánt vagy ilyen hálózat működését lehetővé tevő, épületen belüli fizikai infrastruktúra.
 
 81. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.
-
-82. Nemföldrajzi szám: az ANFT által meghatározott különleges számcsoportba tartozó telefon hívószám, amelyhez tartozó hozzáférés földrajzi helye csak számfordítással állapítható meg.
-
-83. Nemzetközi hívás: olyan hívás, amelyben a hívott előfizető vagy szolgáltatás eléréséhez nemzetközi előtétet kell tárcsázni.
-
-83/a. Nettó árbevétel: a szolgáltató számviteli törvény szerinti nettó árbevétele.
-
-84. Nettó elkerülhető költség: az a költség, amelyet a hatékony szolgáltató az egyetemes szolgáltatási kötelezettség hiányában el tudna kerülni. A nettó elkerülhető költség számításakor figyelembe kell venni azokat a bevételeket és egyéb (közvetett) hasznokat, amelyeket az egyetemes szolgáltatás nyújtásának megszüntetésével a szolgáltató elveszítene.
-
-84/a. Nyilvános adatkicserélő szolgáltatás: természetes vagy jogi személy nyilvános adatkicserélő szolgáltató által nyilvános adatkicserélő központ útján nyújtott olyan elektronikus hírközlési szolgáltatás, amelyet nyilvánosan hozzáférhető feltételrendszer szerint, megkülönböztetéstől mentesen vehetnek igénybe az elektronikus hírközlési szolgáltatók, médiaszolgáltatók és az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatók.
-
-84/b. Nyilvános adatkicserélő központ: a nyilvános adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
-
-85. Nyilvános elektronikus hírközlő hálózat: teljesen vagy elsősorban a nyilvánosan elérhető, a hálózati végpontok közötti információátvitelt támogató elektronikus hírközlési szolgáltatások nyújtására használt elektronikus hírközlő hálózat.
-
-86. Nyilvánosan elérhető telefonszolgáltatás (telefonszolgáltatás): olyan, bárki számára rendelkezésre álló elektronikus hírközlési szolgáltatás, amely belföldi vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok segítségével közvetlenül vagy közvetve lehetővé teszi belföldi vagy belföldi és nemzetközi hívások kezdeményezését és fogadását.
