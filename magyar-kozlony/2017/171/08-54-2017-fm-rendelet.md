@@ -1,0 +1,65 @@
+# A földművelésügyi és vidékfejlesztési miniszter 54/2017. (X. 25.) FM rendelete
+
+Magyar Közlöny 2017. évi 171. szám, 2017. október 25. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ac675260369d41d7ec259ef628f3cb4131a7a110/dokumentumok/4fceb931151c14881a1a1a1033c028e801fb8af8/letoltes)
+
+---
+
+A földművelésügyi és vidékfejlesztési miniszter 54/2017. (X. 25.) FM rendelete
+a földművelésügyi és vidékfejlesztési miniszter felügyelete alá tartozó szervek katasztrófák elleni
+védekezésének irányításáról és feladatairól szóló 42/2001. (VI. 15.) FVM rendelet módosításáról
+A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 82. § (3) bekezdés
+c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet
+65. §-ában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.)
+Korm. rendelet 21. § 10. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben – a következőket
+rendelem el:
+1. §
+A földművelésügyi és vidékfejlesztési miniszter felügyelete alá tartozó szervek katasztrófák elleni védekezésének
+irányításáról és feladatairól szóló 42/2001. (VI. 15.) FVM rendelet (a továbbiakban: R.) 1. §-a helyébe a következő
+rendelkezés lép:
+„1. § E rendelet hatálya
+a) a Földművelésügyi Minisztérium (a továbbiakban: minisztérium),
+b) az 1. mellékletben meghatározott katasztrófavédelemben részt vevő központi államigazgatási szervek és
+gazdasági társaságok (a továbbiakban együtt: katasztrófavédelemben részt vevő), valamint
+c) a minisztériumban és a katasztrófavédelemben részt vevőnél kormányzati szolgálati jogviszonyban,
+közalkalmazotti jogviszonyban vagy munkaviszonyban álló személyek (a továbbiakban együtt: munkavállaló)
+katasztrófavédelemmel kapcsolatos feladataira terjed ki.”
+2. §
+Az R. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A minisztérium gondoskodik a katasztrófavédelemben részt vevők katasztrófák elleni védekezésbe történő
+bevonásáról, továbbá a katasztrófavédelemben részt vevők szükség szerinti készenlétbe helyezéséről.”
+3. §
+Az R. Melléklete helyébe az 1. melléklet lép.
+4. §
+Az R.
+a) 2. § (1) bekezdésében a „földművelésügyi és vidékfejlesztési szervek” szövegrész helyébe
+a„katasztrófavédelemben részt vevők”szöveg,
+b) 3. § (1) bekezdésében a „Kormányzati Koordinációs Bizottság (a továbbiakban: KKB)” szövegrész helyébe
+a„kormányzati koordinációs szerv”szöveg,
+c) 4. § (1) bekezdésében a„tájékoztatást”szövegrész helyébe a„hivatalos tájékoztatást”szöveg,
+d) 6. § (1) bekezdésében, 7. § (1) és (2) bekezdésében a „földművelésügyi és vidékfejlesztési szerv” szövegrész
+helyébe a„katasztrófavédelemben részt vevő”szöveg,
+e) 7. § (1) bekezdésében az„az intézmény működési helye szerint illetékes polgármesterrel” szövegrész helyébe
+az„az érintett önkormányzatok polgármestereivel”szöveg
+lép.
+5. §
+Hatályát veszti az R.
+a) 2. § (2) bekezdése,
+b) 6. § (2) bekezdése,
+c) 8. § (1) bekezdésében a„ , továbbá mezőgazdasági vízhasznosítással összefüggő belvízkárok elleni védekezés
+során”szövegrész,
+d) 8. § (2) bekezdése.
+6. §
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+ Dr. Fazekas Sándor s. k.,
+ földművelésügyi miniszter
+
+1. melléklet az 54/2017. (X. 25.) FM rendelethez
+„Melléklet a 42/2001. (VI. 15.) FVM rendelethez
+A katasztrófavédelemben részt vevő központi államigazgatási szervek és gazdasági társaságok
+1. Nemzeti Élelmiszerlánc-biztonsági Hivatal
+2. Nemzeti park igazgatóságok
+3. Országos Meteorológiai Szolgálat
+4. Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság”
+
+VI. Az Alkotmánybíróság határozatai,
+teljes ülési állásfoglalásai és végzései
