@@ -1,8 +1,0 @@
-# 2017. évi LXXXVIII. törvény az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról
-
-Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-88-00-00
-
-| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
-| --- | --- | --- |
-| 2017-10-24 | 2017. évi LXXXVIII. törvény | 2017-88-00-00.0 (közlönyállapot) |
-| 2017-10-24 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-88-00-00.1 |
