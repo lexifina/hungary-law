@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és tagállamaik, másrészről az Albán Köztársaság közötti stabilizációs és társulási megállapodáshoz a Horvát Köztársaság Európai Unióhoz történő csatlakozásának figyelembevételéről készült Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
