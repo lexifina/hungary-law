@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2017-06-17 | 2017. évi LXX. törvény | 2011-204-00-00.39 |
 | 2017-08-01 | 2017. évi LXX. törvény | 2011-204-00-00.40 |
 | 2017-09-01 | 2017. évi XXV. törvény | 2011-204-00-00.41 |
+| 2017-10-26 | 2017. évi CXXVII. törvény | 2011-204-00-00.42 |
