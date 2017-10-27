@@ -1,5 +1,5 @@
-## 54–55. §[^34]
+## 54–55. §[^26]
 
 ## 21. Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program Ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet módosítása
 
-[^34]: Az 54–55. § a 74. § (6) bekezdése alapján 2019. február 9-én lép hatályba.
+[^26]: Az 54–55. § a 74. § (6) bekezdése alapján 2019. február 9-én lép hatályba.

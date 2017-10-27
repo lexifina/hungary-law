@@ -6,8 +6,7 @@
 
 7. § (1)[^3]
 
-(2)[^4]
+(2) A 201/2001. (X. 25.) Korm. rendelet 5. § (3) bekezdése helyébe a következő rendelkezés lép:
 
 [^2]: A 4–6. § a 74. § (3) bekezdése alapján 2017. november 1-jén lép hatályba.
 [^3]: A 7. § (1) bekezdése a 74. § (4) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^4]: A 7. § (2) bekezdése a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.

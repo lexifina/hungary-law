@@ -1,14 +1,18 @@
 ## 11. § A 201/2001. (X. 25.) Korm. rendelet
 
-a)–b)[^13]
+a) 1. § (2) bekezdés b) pontjában a „2. számú melléklet C) részében” szövegrész helyébe a „2. számú melléklet B) rész 3.4. pontjában” szöveg,
 
-c)–f)[^14]
+b) 4. § (1a) bekezdésében az „Azon paraméterek” szövegrész helyébe az „Azon, a 2. számú melléklet B) rész 3.2. pontjában felsorolt paraméterek” szöveg,
 
-g)–i)[^15]
+c)–f)[^7]
 
-j)–l)[^16]
+g) 5. § (8) bekezdésében a „2. melléklet B) részében foglalt” szövegrész helyébe a „2. számú melléklet B) rész 3.3. pontjában foglalt” szöveg,
 
-[^13]: A 11. § a)–b) pontja a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.
-[^14]: A 10. § c)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 11. § g)–i) pontja a 74. § (2) bekezdése alapján 2017. október 27-én lép hatályba.
-[^16]: A 10. § j)–l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+h) 5/C. § (1) bekezdésében a „2. számú melléklet A) rész 3. pontjában, valamint a 3. számú melléklet 5. pontjában” szövegrész helyébe a „2. számú melléklet B) rész 3.1. pontjában és a 3. számú melléklet 4. pontjában” szöveg,
+
+i) 5/C. § (2) bekezdésében a „2. számú melléklet A) rész 3. pontjában és a 3. számú melléklet 5. pontjában” szövegrész helyébe a „2. számú melléklet B) rész 3.1. pontjában és a 3. számú melléklet 4. pontjában” szöveg,
+
+j)–l)[^8]
+
+[^7]: A 10. § c)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 10. § j)–l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
