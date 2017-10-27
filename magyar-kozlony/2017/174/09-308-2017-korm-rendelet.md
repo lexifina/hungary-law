@@ -1,0 +1,111 @@
+# A Kormány 308/2017. (X. 27.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 174. szám, 2017. október 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/718ceb36fef053bb9450c799d95a017828e68d26/dokumentumok/d1b9a8300b95b59cb0d75fc9575373ef2ec4c9dd/letoltes)
+
+---
+
+A Kormány 308/2017. (X. 27.) Korm. rendelete
+az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervekről, valamint a Klebelsberg
+Központról szóló 134/2016. (VI. 10.) Korm. rendelet módosításáról
+A Kormány a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés n) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) Az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervekről, valamint a Klebelsberg Központról
+szóló 134/2016. (VI. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (1) bekezdés k) pontja helyébe
+a következő rendelkezés lép, és a bekezdés a következő l) ponttal egészül ki:
+(A tankerületi központ a köznevelési közfeladat-ellátásban részt vevő, fenntartásában lévő köznevelési intézmények
+tekintetében)
+„k) kiadja a köznevelési intézmények szakmai alapdokumentumait,
+l) ellátja a jogszabályban és az alapító okiratában meghatározott további feladatokat.”
+
+(2) A Korm. rendelet 2. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A tankerületi központ a hazai és az európai uniós forrásokból megvalósítandó pályázati és projekttevékenységét
+a Klebelsberg Központtal együttműködve, annak iránymutatásai alapján végzi.”
+2. §
+A Korm. rendelet a következő 2/A–2/C. §-sal egészül ki:
+„2/A. § A tankerületi központ a 2/B. § (3) bekezdése szerinti képviselőkből álló tankerületi tanácsot működtet.
+2/B. § (1) A tankerületi tanács a tankerületi központ mellett működő javaslattevő, véleményező, tanácsadó testület,
+amelynek célja
+a) a helyi, területi, térségi társadalmi-gazdasági környezeti érdekek, célok összehangolása a tankerületi központ
+fenntartói tevékenységével kapcsolatos oktatásirányítási célokkal;
+b) a hosszú távú, átfogó, köznevelés-igazgatási célok összehangolása a tankerületi központ illetékességi területén;
+c) a fenntartói stratégiai döntések megalapozása.
+(2) A tankerületi tanács
+a) véleményezheti a tankerületi központ fenntartásába tartozó köznevelési intézményekre vonatkozó fejlesztési
+tervet, valamint az illetékes tankerületi központ által benyújtott pályázatok, projektek megvalósítását;
+b) javaslattal élhet
+ba) a Klebelsberg Központ által meghatározott, az illetékes tankerületi központot érintő infrastrukturális
+fejlesztésekkel,
+bb) az illetékes tankerületi központot érintő európai uniós infrastrukturális pályázatok, projektek megvalósításával,
+bc) az illetékes tankerületi központ területéhez tartozó, oktatásirányítást érintő fejlesztési tervek elkészítésével,
+bd) egyeztetések lefolytatásával, valamint
+be) egyéb, köznevelést érintő helyi ügyekkel
+kapcsolatosan;
+c) tanácsadással segítheti a fejlesztési tervek megvalósítását, a stratégiai tervezést.
+(3) A tankerületi tanács – az a) pont kivételével – az oktatásért felelős miniszter által öt évre felkért állandó tagokból
+áll. Az állandó tagok közé tartozik
+a) az illetékes tankerületi központ vezetője,
+b) a Klebelsberg Központ által javasolt – azzal foglalkoztatotti jogviszonyban nem álló – egy fő,
+c) a Nemzeti Pedagógus Kar által jelölt egy fő,
+d) az oktatásért felelős miniszter által a (4) bekezdés szerinti szervezetek által jelöltek közül felkért összesen három–öt fő.
+(4) A tankerületi tanács állandó tagjai közé képviselőt jelölhetnek
+a) az országos önkormányzati szövetségek,
+b) az Országos Nemzetiségi Önkormányzatok Szövetsége,
+c) a Nagycsaládosok Országos Egyesülete,
+d) a tankerületi központ által fenntartott intézményekben működő diákönkormányzatok.
+(5) A (4) bekezdésben foglalt szervezetek egy-egy főt jelölhetnek.
+(6) A jelölésre a (3) bekezdés b) és c) pontja és a (4) bekezdés szerinti szervezeteket határidő megjelölésével
+az oktatásért felelős miniszter kéri fel. A személyi javaslat a tagjelölt elfogadó nyilatkozatával válik érvényessé.
+(7) A tagok díjazás nélkül látják el feladataikat. Az állandó tagok névsorát és – a jelölés elfogadásával egyidejűleg
+adott hozzájáruló nyilatkozata esetén – a szakmai önéletrajzát az illetékes tankerületi központ honlapján
+nyilvánosságra kell hozni.
+(8) Az állandó tagok kiválasztására az érintett tankerületi központ illetékességi területén működő köznevelési
+intézmények feladatellátása és az oktatásirányítás szempontjából jellemző sajátosságainak figyelembevételével
+kerül sor.
+(9) A tankerületi tanács elnöke az ügyrendben foglaltak szerint meghívhat eseti meghívottakat, így különösen
+az érintett helyi önkormányzatok, a tankerület illetékességi területén működő gazdasági társaságok, felsőoktatási
+intézmények, felzárkóztatással, esélyteremtéssel foglalkozó civil szervezetek, gyermekjóléti központ, valamint
+a tankerületi központ illetékességi területén székhellyel rendelkező köznevelési intézményt fenntartó egyházi és
+magánfenntartók képviselőit.
+(10) A tankerületi központ gazdasági vezetője állandó meghívottként, tanácskozási joggal részt vesz a tankerületi
+tanács ülésein.
+(11) A tankerületi tanács tagjának megbízatása megszűnik, ha
+a) a tag megbízatásának időtartama lejár,
+b) a tag meghal,
+
+c) a tag a megbízatásáról lemond,
+d) a diákönkormányzatok által jelölt tag tanulói jogviszonya megszűnik a tankerület illetékességi területén működő
+iskolával,
+e) a megbízatása alapjául szolgáló jogviszonya megszűnik.
+(12) Ha a tag megbízatása a (11) bekezdés b)–e) pontja alapján szűnik meg, a tagot jelölő szerv, a (3) bekezdés
+b) pontja szerinti tag esetében a Klebelsberg Központ, valamint a (4) bekezdésben meghatározott szervek 30 napon
+belül új tagot jelölnek.
+2/C. § (1) A tankerületi tanács működésének szabályait az ügyrendje határozza meg, amelyet a tankerületi tanács
+az alakuló ülésén fogad el.
+(2) A tankerületi tanács ügyrendjét az illetékes tankerületi központ honlapján nyilvánosságra kell hozni.
+(3) A tankerületi tanács elnöke a tankerületi központ vezetője, aki
+a) felel a tankerületi tanács működéséért,
+b) előkészíti az üléseket,
+c) dönt az eseti meghívottakról,
+d) ellátja a tankerületi tanács képviseletét.
+(4) A tankerületi tanács állandó munkacsoportja az antiszegregációs munkacsoport, amelynek tagjai díjazás nélkül
+látják el feladataikat. Az antiszegregációs munkacsoport vezetője évente egyszer beszámolót készít a munkacsoport
+tevékenységéről, amelyet a tárgyévet követő év január 31. napjáig megküld a Klebelsberg Központ elnökének.
+A Klebelsberg Központ elnöke a beszámolót a tárgyévet követő év február 28. napjáig továbbítja az oktatásért
+felelős miniszternek. A tankerületi tanács az ügyrendjében foglaltak szerint eseti munkacsoportot működtethet.
+(5) A tankerületi tanácsot szükség szerint, de évente legalább kétszer össze kell hívni.
+(6) A tankerületi tanács vezetője évente egyszer beszámolót készít a tankerületi tanács működéséről, amelyet
+a tárgyévet követő év január 31. napjáig megküld a Klebelsberg Központ elnökének. A Klebelsberg Központ elnöke
+a beszámolót a tárgyévet követő év február 28. napjáig továbbítja az oktatásért felelős miniszternek.”
+3. §
+A Korm. rendelet 8. § d) pontja helyébe a következő rendelkezés lép:
+(A Klebelsberg Központ a köznevelési közfeladat-ellátásban részt vevő, tankerületi központ fenntartásában lévő
+köznevelési intézmények tekintetében)
+„d) koordinálja a támogatási forrásokból megvalósuló fejlesztések, európai uniós programok tervezésével
+és lebonyolításával kapcsolatos feladatokat, gondoskodik a tankerületi központok pályázati és
+projekttevékenységének összehangolásáról,”
+4. §
+Hatályát veszti a Korm. rendelet 3. §-a.
+5. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

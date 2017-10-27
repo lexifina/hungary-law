@@ -1,0 +1,139 @@
+# A Kormány 305/2017. (X. 27.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 174. szám, 2017. október 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/718ceb36fef053bb9450c799d95a017828e68d26/dokumentumok/d1b9a8300b95b59cb0d75fc9575373ef2ec4c9dd/letoltes)
+
+---
+
+A Kormány 305/2017. (X. 27.) Korm. rendelete
+a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló
+66/2015. (III. 30.) Korm. rendelet és az állami tisztviselők képesítési előírásairól szóló
+315/2016. (X. 20.) Korm. rendelet módosításáról
+A Kormány
+a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi
+integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21/A. § b) pontjában kapott felhatalmazás
+alapján,
+a 2. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva,
+a 2. alcím, valamint a 2. melléklet tekintetében az állami tisztviselőkről szóló 2016. évi LII. törvény 28. § (1) bekezdés c) pontjában
+kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva, a következőket rendeli el:
+1. A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló
+66/2015. (III. 30.) Korm. rendelet módosítása
+1. §
+A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 66/2015. (III. 30.)
+Korm. rendelet [a továbbiakban: 66/2015. (III. 30.) Korm. rendelet] 8. alcíme a következő 15/A. és 15/B. §-sal egészül ki:
+
+„15/A. § (1) A Kormány az egyszerűsített hatósági ellenőrzési hatáskör gyakorlására a járási hivatalt
+az 1. mellékletben meghatározott illetékességi területen kijelöli.
+(2) A járási hivatal egyszerűsített hatósági ellenőrzési hatásköre a 2/A. mellékletben megjelölt jogszabálysértések
+ellenőrzésére és jogkövetkezményeinek alkalmazására irányuló eljárás lefolytatására terjed ki.
+(3) A járási hivatal egyszerűsített hatósági ellenőrzési hatásköre nem érinti az ugyanazon jogszabálysértés
+ellenőrzésére és jogkövetkezményeinek alkalmazására irányuló eljárás lefolytatására más jogszabály alapján
+hatáskörrel rendelkező hatóság feladat- és hatáskörét, valamint illetékességét.
+15/B. § A járási hivatalnak az egyszerűsített hatósági ellenőrzés során feltárt jogsértés jogkövetkezményének
+alkalmazására irányuló eljárásában az ügyintézési határidő 20 nap.”
+2. §
+A 66/2015. (III. 30.) Korm. rendelet 15. alcíme a következő 28/B. §-sal egészül ki:
+„28/B. § A Magyar Közlöny Lap- és Könyvkiadó Korlátolt Felelősségű Társaság az Országos Statisztikai Adatgyűjtési
+Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendeletben elrendelt 1229 nyilvántartási számú
+hatósági statisztikai adatgyűjtés vonatkozásában ellátja a közigazgatási hatósági statisztikai rendszerrel összefüggő
+alábbi informatikai feladatokat:
+a) tervezés, bővítés, fejlesztés,
+b) fenntartásra, működtetésre és üzemeltetésre – ideértve az utánkövetést is – irányuló szolgáltatások nyújtása.”
+3. §
+A 66/2015. (III. 30.) Korm. rendelet az 1. melléklet szerinti 2/A. melléklettel egészül ki.
+2. Az állami tisztviselők képesítési előírásairól szóló 315/2016. (X. 20.) Korm. rendelet módosítása
+4. §
+Az állami tisztviselők képesítési előírásairól szóló 315/2016. (X. 20.) Korm. rendelet 1. melléklete a 2. melléklet szerint
+módosul.
+3. Záró rendelkezések
+5. §
+Ez a rendelet 2018. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 305/2017. (X. 27.) Korm. rendelethez
+„2/A. melléklet a 66/2015. (III. 30.) Korm. rendelethez
+A járási (fővárosi kerületi) hivatal egyszerűsített hatósági ellenőrzési hatáskörébe tartozó
+jogszabálysértések
+1. Az építésfelügyelet területén:
+
+1.1. az építési tevékenység első elektronikus főnaplója megnyitására vonatkozó kötelezettség
+megsértése,
+ 1.2. építőipari kivitelezési tevékenység végzéséhez szükséges kivitelezési dokumentáció hiánya.
+2. A fogyasztóvédelem területén:
+ 2.1. a fogyasztóknak megvételre kínált termék eladási áráról és egységáráról, illetve a szolgáltatás díjáról
+szóló tájékoztatás hiánya,
+ 2.2. a pirotechnikai termékek csomagolására és jelölésére vonatkozó szabályok megsértése,
+ 2.3. a pirotechnikai termék CE-jelölésének hiánya,
+ 2.4. magyar nyelven kiadott sajtótermékben, magyar nyelvű rádió-, illetve televízió-műsorban, továbbá
+szabadtéri reklámhordozón közzétett gazdasági reklámban a reklám szövegének magyar nyelven
+történő megjelenítésének elmulasztása,
+ 2.5. az üzlet feliratain az üzlet elnevezésére, valamint az üzletben, az üzlet kirakatában a fogyasztók
+tájékoztatását szolgáló közleményekre vonatkozó követelmények megsértése,
+
+ 2.6. a dohánytermék, az elektronikus cigaretta, a dohányzást imitáló elektronikus eszköz, valamint
+az utántöltő flakon csomagolási egységére vonatkozó előírások megsértése,
+ 2.7. a vásárlók könyvének az üzlettérben a vásárlók által jól látható és könnyen hozzáférhető helyen
+történő kihelyezésének elmulasztása,
+ 2.8. üzletek nyitvatartási idejéről és abban bekövetkezett változásokról szóló tájékoztatás megsértése,
+ 2.9. a joghatással járó méréshez szükséges hiteles mérőeszközökre vonatkozó jogszabályi előírások
+megsértése,
+2.10. a fiatalkorúak alkoholtartalmú termékkel, illetve dohánytermékkel, elektronikus cigarettával,
+dohányzást imitáló elektronikus eszközzel vagy utántöltő flakonnal történő kiszolgálása.
+3. A munkaügy területén:
+ 3.1. a munkaszerződés írásba foglalásának elmulasztása,
+ 3.2. a törvényes képviselő hozzájárulásának hiánya a fiatal munkavállaló munkaszerződés megkötésére,
+módosítására, megszüntetésére vagy kötelezettségvállalásra irányuló jognyilatkozatánál,
+ 3.3. a munkavállalóra vonatkozó életkori feltételek megsértése,
+ 3.4. a munkaszerződés lényeges tartalmi elemeinek hiánya,
+ 3.5. a rendes és rendkívüli munkaidő nyilvántartásának elmulasztása,
+
+3.6. a kötelező legkisebb munkabérről (minimálbér) és a garantált bérminimumról szóló
+kormányrendeletben foglaltak és a kollektív szerződés munkabérre vonatkozó rendelkezéseinek
+megsértése,
+ 3.7. a munkabér kifizetésének elmulasztása,
+ 3.8. a kifizetett munkabér elszámolásáról adandó írásbeli tájékoztató elmulasztása,
+
+3.9. a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben
+meghatározott harmadik országbeli állampolgár (a továbbiakban: harmadik országbeli
+állampolgár) Magyarország területén történő foglalkoztatására irányuló jogviszony létesítéséhez
+az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és
+tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott
+tartózkodási engedély hiánya,
+3.10. a harmadik országbeli állampolgár Magyarország területén történő foglalkoztatására irányuló
+jogviszony létesítéséhez a nem összevont kérelmezési eljárás alapján kiadott tartózkodásra jogosító
+engedélyt kérelmező harmadik országbeli állampolgár magyarországi foglalkoztatásához kiadott
+munkavállalási engedély hiánya,
+3.11. a munkaviszony megszűnését követően a munkavállalónak átadandó iratok kiadásának elmulasztása.
+4. A munkavédelem területén:
+ 4.1. a munkakör betöltéséhez szükséges egészségügyi alkalmassági vizsgálat elmulasztása,
+ 4.2. munkavédelmi oktatás megtartásának elmulasztása,
+ 4.3. munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglalkoztatásának hiánya,
+ 4.4. foglalkozás-egészségügyi alapellátás biztosításának elmaradása,
+ 4.5. munkavédelmi képviselők választása megszervezésének elmulasztása.
+5. Az élelmiszerlánc-biztonság területén:
+
+5.1. fogyaszthatósági határidő lejárta utáni forgalomba hozatal azzal, hogy a hatáskör
+a jogkövetkezmények alkalmazása körében az intézkedések közül csak az élelmiszer élelmiszerként
+történő forgalomba hozatalának megtiltására terjed ki,
+
+5.2. minőségmegőrzési határidő lejárta utáni forgalomba hozatal azzal, hogy a hatáskör
+a jogkövetkezmények alkalmazása körében az intézkedések közül csak az élelmiszer élelmiszerként
+történő forgalomba hozatalának megtiltására terjed ki,
+ 5.3. magyar nyelvű élelmiszer-jelölés hiánya,
+ 5.4. a termék beszerzését igazoló dokumentum hiánya,
+ 5.5. élelmiszerlánc-felügyeleti információs rendszerben történt regisztráció hiánya.
+6. A népegészségügy területén:
+ 6.1. dohánytermékek – beleértve az elektronikus cigarettát, valamint a dohányzást imitáló elektronikus
+eszközt is – fogyasztására vonatkozó tilalmak, valamint kötelezettségek megszegése,
+ 6.2. a dohányzási korlátozással érintett, valamint a dohányzásra kijelölt helyeken, helyiségekben,
+közterületeken a feliratok, jelzések hiánya,
+ 6.3. a nemdohányzó intézményekben a feliratok, jelzések hiánya.”
+
+2. melléklet a 305/2017. (X. 27.) Korm. rendelethez
+1. Az állami tisztviselők képesítési előírásairól szóló 315/2016. (X. 20.) Korm. rendelet 1. melléklete a következő
+10a. ponttal egészül ki:
+„10a. Egyszerűsített hatósági ellenőrzési feladatkör
+Felsőfokú végzettséggel:
+felsőoktatásban szerzett szakképzettség
+Érettségi végzettséggel:
+érettségi végzettség”
