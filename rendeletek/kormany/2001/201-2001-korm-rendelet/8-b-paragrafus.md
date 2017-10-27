@@ -1,12 +1,12 @@
-8/B. §[^86] (1)[^87] Az 5. számú melléklet I. pont D) alpontjában felsorolt ivó- és használati melegvíz-ellátásban alkalmazni kívánt technológiákat a kormányhivatal ivóvízbiztonsági szempontból engedélyezi. Az ivóvízbiztonsági engedélyezés során a kormányhivatal figyelembe veszi a vízzel érintkező anyagból kioldódó szennyező anyagok jelenlétét, vizsgálja, hogy a technológia alkalmazása nem eredményezi-e a mikrobiológiai minőség romlását, továbbá kellemetlen íz- és szaganyagok ivóvízbe kerülését.
+8/B. §[^89] (1)[^90] Az 5. számú melléklet I. pont D) alpontjában felsorolt ivó- és használati melegvíz-ellátásban alkalmazni kívánt technológiákat a kormányhivatal ivóvízbiztonsági szempontból engedélyezi. Az ivóvízbiztonsági engedélyezés során a kormányhivatal figyelembe veszi a vízzel érintkező anyagból kioldódó szennyező anyagok jelenlétét, vizsgálja, hogy a technológia alkalmazása nem eredményezi-e a mikrobiológiai minőség romlását, továbbá kellemetlen íz- és szaganyagok ivóvízbe kerülését.
 
-(2)[^88] Az ivóvízbiztonsági engedélyt az első hazai forgalmazást megelőzően a forgalmazónak kell a kormányhivatalnál kérelmezni.
+(2)[^91] Az ivóvízbiztonsági engedélyt az első hazai forgalmazást megelőzően a forgalmazónak kell a kormányhivatalnál kérelmezni.
 
 (3) A kérelem tartalmi követelményeit az 5. számú melléklet II. pontja tartalmazza.
 
 (4) Az ivóvízbiztonsági engedély határozatlan időre szól. Az engedély kérelemre történő módosítása csak az engedélyes adataiban bekövetkező változás miatt lehetséges.
 
-(5)[^89] Az engedélyezett technológiák közegészségügyi felülvizsgálatát az engedélyesnek, ha az engedély ettől eltérő időt nem határoz meg, ötévente a kormányhivatalnál kell kérelmezni.
+(5)[^92] Az engedélyezett technológiák közegészségügyi felülvizsgálatát az engedélyesnek, ha az engedély ettől eltérő időt nem határoz meg, ötévente a kormányhivatalnál kell kérelmezni.
 
 (6) A felülvizsgálati kérelem tartalmi követelményeit az 5. számú melléklet III. pontja tartalmazza.
 
@@ -16,7 +16,7 @@
 
 (9) Az (1)–(8) bekezdésben foglalt előírásoknak az ivóvízellátáson kívül a közösségi használatra szánt használati melegvízzel és medencés fürdővizekkel érintkezésbe kerülő termékekre, anyagokra és technológiákra vonatkozóan is teljesülniük kell.
 
-[^86]: A 8/B. §-t a 430/2013. (XI. 15.) Korm. rendelet 9. §-a iktatta be.
-[^87]: A 8/B. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 10. pontja szerint módosított szöveg.
-[^88]: A 8/B. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 12. pontja szerint módosított szöveg.
-[^89]: A 8/B. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 12. pontja szerint módosított szöveg.
+[^89]: A 8/B. §-t a 430/2013. (XI. 15.) Korm. rendelet 9. §-a iktatta be.
+[^90]: A 8/B. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 10. pontja szerint módosított szöveg.
+[^91]: A 8/B. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 12. pontja szerint módosított szöveg.
+[^92]: A 8/B. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 12. pontja szerint módosított szöveg.

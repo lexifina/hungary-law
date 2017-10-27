@@ -96,15 +96,17 @@
 
 ## VI. A kormányhivatal a közegészségügyi kockázatok mérlegelése alapján további dokumentumok benyújtását írhatja elő.
 
-6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^121]
+6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^126]
 
-Az ivóvízbiztonsági terv tartalmi követelményei
+Az ivóvízbiztonsági terv tartalmi követelményei és a szakvéleményezéshez benyújtandó dokumentumok
 
-A vízellátórendszer főbb elemein végigvezetve kell a szükséges adatokat, a lehetséges veszélyeket, a kockázatértékelés módját, a beavatkozási lehetőségeket, és az ellenőrző rendszert a vízbiztonsági tervben rögzíteni.
+A vízellátórendszer főbb elemein végigvezetve kell a szükséges adatokat, a lehetséges veszélyeket, a kockázatértékelés módját, a beavatkozási lehetőségeket és az ellenőrző rendszert az ivóvízbiztonsági tervben rögzíteni.
+
+I. Az ivóvízbiztonsági terv tartalmi követelményei
 
 1. Víznyerő hely, nyersvíz-források védelme
 
-1.1. Rendszer leírása
+1.1. Rendszer leírása, nyersvíz minősége
 
 1.2. Veszélyek azonosítása
 
@@ -114,7 +116,7 @@ A vízellátórendszer főbb elemein végigvezetve kell a szükséges adatokat, 
 
 1.5. Értékelés, ellenőrző mérések
 
-2 Vízkezelés
+2. Vízkezelés
 
 2.1. Rendszer leírása
 
@@ -150,6 +152,22 @@ A vízellátórendszer főbb elemein végigvezetve kell a szükséges adatokat, 
 
 4.5. Értékelés, ellenőrző mérések
 
-5. A fogyasztásra szánt ivóvíz egészségre és fogyaszthatóságra vonatkozó veszélyeinek kezelésére, kockázatuk csökkentésére beállított egyedi szabályzó dokumentumok és munkautasítások.
+5. Vízellátás lépéseit és a beavatkozási pontokat tartalmazó folyamatábra
 
-[^121]: A 6. számú mellékletet a 22/2013. (II. 1.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 430/2013. (XI. 15.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+6. Kockázatértékelés módszertana
+
+A kockázatértékelés elvégzése során az MSZ EN 15975-2 szabványban, vagy azzal egyenértékű nemzetközi vagy hazai ajánlásokban meghatározott általános kockázatértékelési elveket kell figyelembe venni. A módszertan alkalmasságát az OKI szakvéleményezési eljárás során értékeli.
+
+II. Az OKI szakvélemény kérelemhez benyújtandó dokumentumok
+
+1. Hatályos ivóvízbiztonsági terv
+
+2. A fogyasztásra szánt ivóvíz egészségre és fogyaszthatóságra vonatkozó veszélyeinek kezelésére, kockázatuk csökkentésére beállított egyedi szabályzó dokumentumok és munkautasítások
+
+3. Illetékes népegészségügyi szerv által elfogadott vizsgálati program
+
+4. Vízjogi üzemeltetési engedély
+
+5. Az OKI a közegészségügyi szempontú értékeléshez további dokumentumok benyújtását kérheti.
+
+[^126]: A 6. számú mellékletet újonnan a 430/2013. (XI. 15.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 10. § d) pontjával megállapított szöveg.

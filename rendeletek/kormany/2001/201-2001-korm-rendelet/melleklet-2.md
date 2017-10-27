@@ -310,6 +310,6 @@
 
 ## 2.9. A vízminőségi kategóriába a Medveállatkák (Tardigrada), Ízeltlábúak (Arthropoda) törzsének képviselői és minden egyéb, előző vízminőségi jellemzőkhöz nem besorolható többsejtű szervezetek tartoznak.
 
-2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^117]
+2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^122]
 
-[^117]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 50. § (2) bekezdése, a 313/2015. (X. 28.) Korm. rendelet 7. § (2) bekezdése, a 100/2016. (V. 13.) Korm. rendelet 9. §-a, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. és 22. pontja szerint módosított szöveg.
+[^122]: A 2. számú melléklet a 250/2017. (IX. 5.) Korm. rendelet 10. § b) pontjával megállapított szöveg.

@@ -1,144 +1,164 @@
 ## Vízminőség-ellenőrzési követelmények
 
-## A) Vizsgálandó vízminőségi jellemzők
+## A) RÉSZ
 
-## 1. Ellenőrző vizsgálatok
+## Általános célkitűzések és az emberi fogyasztásra szánt víz ellenőrzésére irányuló programok
 
-## Az ellenőrző vizsgálat célja az, hogy rendszeresen tájékoztasson az emberi fogyasztásra szolgáló ivóvíz organoleptikus és mikrobiológiai minőségéről, egyes kémiai vízminőségi jellemzőkről, a vízminőség esetleges változásáról, a vízkezelés hatékonyságáról (különösen a fertőtlenítéséről) annak érdekében, hogy ahol ilyen kezelést végeznek, megállapítható legyen, hogy az ivóvíz minősége megfelel-e az e rendeletben előírt határértékeknek és parametrikus értékeknek.
+## 1. A programoknak biztosítaniuk kell, hogy
 
-## 1.1. Minden alkalommal vizsgálandó ellenőrző paraméterek:
+## 1.1. az emberi egészségre jelentett kockázatok ellenőrzésére irányuló intézkedések a vízellátási lánc teljes egészében – a vízgyűjtő területtől vízkivételen, vízkezelésen, víztároláson és vízelosztáson keresztül a fogyasztás helyéig – hatékonyak legyenek, és hogy a víz a megfelelési helyen egészséges és jó minőségű legyen;
 
-## 1.1.1. Szín
+## 1.2. rendelkezésre álljanak az emberi fogyasztás céljára szolgáltatott víz minőségével kapcsolatos azon információk, amelyek bizonyítják, hogy a 4. és 5. §-ban megállapított kötelezettségek és az 1. számú mellékletben megállapított határértékek teljesülnek;
 
-## 1.1.2. Szag
+## 1.3. meghatározzák az emberi egészségre jelentett kockázatok csökkentésének legmegfelelőbb eszközeit.
 
-## 1.1.3. Íz
+## 2. Az ellenőrző programok a következőkből állnak:
 
-## 1.1.4. Zavarosság
+## 2.1. vízminták vétele, vizsgálata és a vizsgálati eredmények rögzítése az 5. § szerint, az illetékes hatóságokkal elfogadtatott vizsgálati program alapján, valamint
 
-## 1.1.5. pH
+## 2.2. a folyamatos ellenőrzés során rögzített mérések.
 
-## 1.1.6. vezetőképesség
+## 3. Ivóvízbiztonsági tervben szereplő kockázatértékelés és meghatározott felügyeleti rendszer alapján ellenőrző programok további elemei lehetnek
 
-## 1.1.7. Ammónium
+## 3.1. a vízkivételi és vízkezelési technológiai berendezések működési és karbantartási állapotával kapcsolatos nyilvántartások ellenőrzése, és
 
-## 1.1.8. Nitrit
+## 3.2. a vízgyűjtő terület, a vízkivétel, a vízkezelés, a víztárolás és a vízelosztás infrastruktúrájának ellenőrzése.
 
-## 1.1.9. Permanganát-index (KOIps)
+## 4. Az üzemeltetők az ivóvízbiztonsági terveket és ezzel együtt az ellenőrző programokat folyamatosan és rendszeresen felülvizsgálják, és legalább évente frissítik vagy újra megerősítik.
 
-## 1.1.10. Vas
+## B) RÉSZ
 
-## 1.1.11. Escherichia coli
+## Paraméterek és gyakoriság
 
-## 1.1.12. Coliform baktériumok
+## 1. Általános elvárások
 
-## 1.1.13. Telepszám 22 °C
+## Az ellenőrzés céljára megfelelő paraméterek kiválasztásakor minden vízelosztó rendszer esetében figyelembe kell venni a helyi körülményeket.
 
-## 1.2. Az alábbi hozzáfűzött feltételek fennállása esetén minden alkalommal vizsgálandó ellenőrző paraméterek:
+## 2. Paraméterek jegyzéke
 
-## 1.2.1. Mangán:
+## 2.1. Az A csoportba tartozó, ellenőrző paraméterek
 
-## ahol – a korábbi vizsgálatok szerint – jelenléte várható (>0,03 mg/l), továbbá ott, ahol a vízkezelés során mangánvegyületet adagolnak.
+## Az A csoportba tartozó, ellenőrző paraméterek vizsgálatának célja az, hogy rendszeresen tájékoztasson az emberi fogyasztásra szolgáló ivóvíz organoleptikus és mikrobiológiai minőségéről, egyes kémiai vízminőségi jellemzőkről, a vízminőség esetleges változásáról, a vízkezelés hatékonyságáról (különösen a fertőtlenítéséről) annak érdekében, hogy ahol ilyen kezelést végeznek, megállapítható legyen, hogy az ivóvíz minősége megfelel-e az e rendeletben előírt határértékeknek és parametrikus értékeknek. A következő A csoportba tartozó, ellenőrző paramétereket a 3.3. pontban foglalt táblázatban meghatározott gyakorisággal kell vizsgálni:
 
-## 1.2.2. Alumínium:
+## a) Escherichia coli (E. coli), Enterococcusok, coliform baktériumok, telepszám 22 °C-on, szín, zavarosság, íz, szag, pH, vezetőképesség, hőmérséklet, ammónium, nitrit, permanganát index (KOIps) vagy TOC,
 
-## ahol flokkulálószerként alumínium vegyületet használnak.
+## b) az ivóvízbiztonsági tervben szereplő kockázatértékelés, valamint az ez alapján összeállított vizsgálati programban meghatározott egyéb paraméterek.
 
-## 1.2.3. Clostridium perfringens (spórákkal):
+## 2.2. A következő körülmények fennállása esetén a következő paramétereket is az A csoportba kell sorolni:
 
-## felszíni vízből és felszíni víz befolyás alatt álló vízből nyert víznél.
+## a) alumínium, ha a vízkezelő szerként használják,
 
-## 1.2.4. Pseudomonas aeruginosa
+## b) vas, mangán, ha a nyersvízben a paraméter értéke eléri a parametrikus érték felét, vagy a vízkezelésben vas- vagy mangán-vegyület adagolása történik,
 
-## Telepszám 37 °C: tartályban, ballonban és palackban forgalmazott víznél és minden olyan vízműnél, ahol a hálózatba táplált víz hőmérséklete a 20 °C-ot meghaladja.
+## c) szabad és kötött aktív klór, ha folyamatosan vagy a mintavétel időpontjában klórozzák a vizet,
 
-## 1.2.5. Klorit:
+## d) összes trihalometánok abban az esetben, ha folyamatosan vagy a mintavétel időpontjában klórozzák a vizet,
 
-## ahol klór-dioxidos fertőtlenítés történik.
+## e) klorit, ahol klór-dioxidos fertőtlenítés történik,
 
-## 1.2.6. Szabad és kötött aktív klór:
+## f) bromát, ahol ózonos vízkezelés történik,
 
-## ahol klórozzák a vizet.
+## g) arzén, ahol az ivóvíz előállításra használt nyersvízben – a korábbi vizsgálatok szerint – a határértéket meghaladó érték előfordult, vagy mentesítő technológia működik,
 
-## 1.3. A mintavételek 25%-ában vizsgálandó ellenőrző paraméterek:
+## h) bór, ahol az ivóvíz előállításra használt nyersvízben – a korábbi vizsgálatok szerint – a határértéket meghaladó érték előfordult, vagy mentesítő technológia működik,
 
-## 1.3.1. Keménység
+## i) fluorid, ahol az ivóvíz előállításra használt nyersvízben – a korábbi vizsgálatok szerint – a határértéket meghaladó érték előfordult, vagy mentesítő működik,
 
-## 1.3.2. Szulfát
+## j) pseudomonas aeruginosa, ha a hálózatba táplált víz hőmérséklete a 20 °C-ot meghaladja, vagy az előző évben a hálózaton kimutatható volt.
 
-## 1.3.3. Klorid
+## 2.3. A mikroszkópos biológiai ellenőrző paraméterek az A csoportra meghatározott vizsgálati szám 10%-ára csökkentett gyakorisággal, de évente legalább egyszer, 5 000 m3/d-nál több ivóvizet szolgáltató vízműveknél évente kétszer vizsgálandók. Az ivóvízbiztonsági tervben elvégzett veszélyelemzés és kockázatértékelés alapján az illetékes hatóság magasabb vizsgálati számot is előírhat.
 
-## 1.3.4. Nitrát
+## 2.4. Az A csoporton túl vizsgálandó paraméterek, ha akut mikrobiológiai szennyezésre van gyanú, vagy a bakteriológiai vízminőségi jellemzők megelőző vizsgálati eredményei erre utalnak, biológiai szennyezésre utaló panasz jelentkezik (íz, szag, szín, zavarosság):
 
-## 1.3.5. Összes szerves szén (TOC)
+## a) Clostridium perfringens (spórákkal),
 
-## 1.3.6. Enterococcus
+## b) mikroszkópos biológiai ellenőrző vizsgálatok.
 
-## 1.4. Kétévente a mintavételek 5%-ában, de legalább két alkalommal vizsgálandó ellenőrző paraméterek:
+## 2.5. Az A csoportba tartozó paramétereket a 3.3. pontban foglalt táblázatban meghatározott gyakorisággal kell mérni, kivéve, ha az illetékes népegészségügyi szerv, illetve – azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – a NÉBIH az országos tisztifőorvossal egyeztetve az üzemeltető kérésére meghatározott időre a vizsgálati szám csökkentését a vizsgálati program elfogadásával engedélyezi. A minimális vizsgálati szám akkor csökkenthető egy vízminőségi jellemző esetében, ha legalább egy hároméves időszak alatt rendszeres időközönként, a teljes vízellátási körzetre reprezentatív mintavételi helyen vett minden minta eredménye alacsonyabb értéket mutat, mint a határérték 60%-a, és ha az ivóvízbiztonsági tervben elvégzett, a vízbázis ellenőrzésére is kiterjedő veszélyelemzés és kockázatértékelés megerősíti, hogy nincs olyan ésszerűen várható tényező, amely az emberi fogyasztásra szánt víz minőségének romlását okozná, vagy az emberi egészséget veszélyeztetné. A minimális vizsgálati szám legfeljebb a 3.3. pontban foglalt táblázatban meghatározott gyakoriság 25%-ára csökkenthető. A vizsgálati szám nem csökkenthető a 2.1. pont a) alpontjában és a 2.2. pont a)-c) alpontjában felsorolt paraméterekre vonatkozóan.
 
-## Mikroszkópos biológiai paraméterek.
+## 2.6. A B csoportba tartozó, részletes paraméterek
 
-## 1.5. Az alábbi hozzáfűzött bármely feltétel fennállása esetén a mintavételek 25%-ában, csökkentett gyakorisággal vizsgálandó ellenőrző paraméterek:
+## Valamennyi határértéknek való megfelelés megállapítása érdekében minden, az A csoportban nem vizsgált paramétert legalább a 3.3. pontban foglalt táblázatban meghatározott gyakorisággal kell ellenőrizni. A B csoportba tartozó paraméterek vizsgálatának célja annak megállapítása, hogy az ivóvíz minősége megfelel-e az e rendeletben foglalt valamennyi követelménynek.
 
-## 1.5.1. Arzén
+## 2.7. A B csoportba tartozó, részletes paramétereket a 3.3. pontban foglalt táblázatban meghatározott gyakorisággal kell mérni, kivéve, ha az illetékes népegészségügyi szerv, illetve – azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – a NÉBIH az országos tisztifőorvossal egyeztetve az üzemeltető kérésére meghatározott időre a vizsgálati szám csökkentését a vizsgálati program elfogadásával engedélyezi. A minimális vizsgálati szám akkor csökkenthető egy vízminőségi jellemző esetében, ha legalább egy hároméves időszak alatt rendszeres időközönként, a teljes vízellátási körzetre reprezentatív mintavételi helyen vett minden minta eredménye alacsonyabb értéket mutat, mint a határérték 60%-a, és ha az ivóvízbiztonsági tervben elvégzett, a vízbázis ellenőrzésére is kiterjedő veszélyelemzés és kockázatértékelés megerősíti, hogy nincs olyan ésszerűen várható tényező, amely az emberi fogyasztásra szánt víz minőségének romlását okozná, vagy az emberi egészséget veszélyeztetné. A minimális vizsgálati szám legfeljebb a 3.3 pontban foglalt táblázatban meghatározott gyakoriság 25%-ára csökkenthető. A radioaktivitásra vonatkozó parametrikus értékekre az 1. számú melléklet C) részében foglalt táblázatot követő „Megjegyzések” rész 12. és 13. pontja az irányadó.
 
-## 1.5.2. Bór
+## 2.8. A vizsgálati szám nem csökkenthető olyan paraméterek vizsgálatára vonatkozóan, melyek ivóvízben történő megjelenésére az elosztó hálózatból vagy a fogyasztó belső hálózatából történő kioldódás következtében is számítani lehet, valamint értéke a hálózatban különböző biológiai és biokémiai folyamatok következtében változhat (azaz ólom, nikkel, réz, kadmium, antimon és mikrobiológiai paraméterek).
 
-## 1.5.3. Fluorid
+## 2.9. Nem sérülékeny felszín alatti vízbázisok vize esetében az alumínium, az arzén, a benzol, a benz(a)pirén, a bór, a cianid, a cisz-1,2-diklór-etilén, az 1,2-diklór-etán, a fluorid, a peszticidek, a tetraklór-etilén, a triklór-etilén, a trihalometánok, a policiklusos aromás szénhidrogének, a higany, a szelén paraméterekre a vizsgálati szám vízellátó rendszerenként az országos tisztifőorvos engedélyével, illetve – azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – az országos tisztifőorvos bevonásával a NÉBIH által kiadott engedély alapján háromévente egy vizsgálatra csökkenthető a következő feltételek együttes teljesülése esetén: nem voltak kimutathatók az alsó méréshatárt vagy a határérték 30%-át meghaladó koncentrációban legalább egy hároméves időszak alatt rendszeres időközönként, a teljes vízellátási körzetre reprezentatív mintavételi helyen vett mintából, és ha az ivóvízbiztonsági tervben elvégzett, a vízbázis ellenőrzésére is kiterjedő veszélyelemzés és kockázatértékelés megerősíti, hogy nincs olyan ésszerűen várható tényező, amely az emberi fogyasztásra szánt víz minőségének romlását okozná vagy az emberi egészséget veszélyeztetné. Az országos tisztifőorvos az engedélyezést az OKI bevonásával végzi. Az engedélyezési eljárásban a hatályos ivóvízbiztonsági tervet, a vízbázis védettségét igazoló dokumentumokat, az utolsó három év vizsgálati eredményeit és tríciummérési eredményt kell benyújtani.
 
-## ahol a szolgáltatott ivóvízben – a korábbi vizsgálatok szerint – a határérték felét meghaladó érték előfordulhat vagy a mentesítő technológia teljesítményének ellenőrzésére, ahol ilyen működik.
+## 3. Mintavételek gyakorisága
 
-## 1.5.4. Összes trihalometánok:
+## 3.1. Az előírt mintázási gyakoriság radioaktív anyagok vizsgálata esetén
 
-## ahol klórozzák a vizet.
+## 3.1.1. Elosztóhálózatról szolgáltatott víz esetén az üzemeltető az illetékes népegészségügyi szervnek, valamint az élelmiszeripari vállalkozás az élelmiszerlánc-felügyeleti szervnek a 3.3. pontban foglalt táblázatban szereplő részletes vizsgálati gyakorisággal elvégzett trícium, radon, valamint indikatív dózis vizsgálati eredményeinek legalább 3 éves reprezentatív adatsorát megküldi.
 
-## 1.5.5. Bromát:
+## A mintavételezést a fogyasztói csapon kell végezni a 3.2. pontban foglaltak alkalmazásával. A tríciumvizsgálat esetén a fogyasztói csapon vett minták helyett a kútból származó vízminták is figyelembe vehetőek.
 
-## ahol ózonos vízkezelés történik
+## 3.1.2. Tartályban, ballonban és palackban forgalomba hozott víz esetén az élelmiszeripari vállalkozás az élelmiszerlánc-felügyeleti szervnek a 3.4. pontban foglalt táblázatban szereplő részletes vizsgálati gyakorisággal elvégzett trícium, radon, valamint indikatív dózis vizsgálati eredményeinek legalább 3 éves reprezentatív adatsorát megküldi.
 
-## 1.6. Pangó vagy rossz műszaki állapotban lévő hálózat esetében e hibák kiküszöböléséig, illetve az esetleges biológiai kifogásoltság megszűnéséig a mintavételek 20%-ában vizsgálandó paraméter:
+## 3.1.3. Ha egy adott mintában valamelyik érték túllépése tapasztalható, az illetékes népegészségügyi szerv, valamint az élelmiszerlánc-felügyeleti szerv meghatározza, hogy milyen mértékben szükséges a mintavételt megismételni annak biztosításához, hogy a mért értékek az egész évi átlagos aktivitási koncentráció szempontjából reprezentatívak legyenek.
 
-## Mikroszkópos biológiai paraméterek
+## 3.2. Minimális mintavételi és vizsgálati gyakoriság vízellátó hálózat vagy élelmiszer előállításra használt ivóvíz esetében
 
-## 1.7. Az alábbi hozzáfűzött feltételek fennállása esetén a mintavételek 10%-ában, csökkentett gyakorisággal, de évente legalább egyszer, 5000 m3/d-nál több ivóvizet szolgáltató vízműveknél kétszer vizsgálandó:
+## A víznyerő helyek, a vízkezelési technológia mintázására a kapcsolódó jogszabályok előírásai vonatkoznak, valamint az ellenőrzésük az A) rész 2. és 3. pontja szerinti ellenőrző program alapján is célszerű, azonban az itt vett minták a következő követelmény teljesítése szempontjából nem vehetők figyelembe.
 
-## Mikroszkópos biológiai paraméterek
+## A vízellátó rendszerbe betáplálási ponton vett minták a vizsgálati követelmény teljesítésébe a következő paraméterekre vonatkozóan vehetők figyelembe: alumínium, benzol, benz(a)pirén, bór, cianid, cisz-1,2-diklór-etilén, 1,2-diklór-etán, fluorid, higany, keménység, klorid, nátrium, peszticidek, policiklusos aromás szénhidrogének, szelén, tetraklór-etilén, triklór-etilén, radioaktív anyagok.
 
-## másodlagos biológiai szennyezés kialakulásának lehetősége esetén [ahol a hálózatba táplált víz hőmérséklete a 20 °C-ot vagy ammóniumtartalma a 0,5 mg/l-t vagy szerves anyag tartalma az 5,0 mg/l KOIps-t vagy 2,0 mg/l TOC-ot meghaladja].
+## 3.3. Az üzemeltető és az élelmiszeripari vállalkozás által végzett vagy végeztetett vizsgálatok minimális mintaszáma
 
-## 1.8. Az alábbi hozzáfűzött feltételek fennállása esetén soron kívüli mintavétel alkalmával vizsgálandó paraméterek
+|  | A | B | C |
 
-## 1.8.1. Clostridium perfringens (spórákkal)
+| 1. | Naponta termelt (szolgáltatott) ivóvíz mennyisége egy körzeten belül (1. és 2. megjegyzés) m3 | A csoportba tartozó (ellenőrző) paraméterek minimális éves vizsgálati száma (3., 4., 5., 7. és 8. megjegyzés) | B csoportba tartozó (részletes) paraméterek minimális éves vizsgálati száma (3., 5. és 8. megjegyzés) |
 
-## 1.8.2. Enterococcus:
+| 2. | <10 | (6. megjegyzés) | (6. megjegyzés) |
 
-## ha akut szennyezésre van gyanú vagy a bakteriológiai vízminőségi jellemzők megelőző vizsgálati eredményei erre utalnak.
+| 3. | ≥10 és <100 | 4 minta |
 
-## 1.8.3. Pseudomonas aeruginosa
+| 4. | ≥100 és <1000 | 4 minta | 1 minta |
 
-## 1.8.4. Telepszám 37 °C:
+| 5. | ≥1000 és <10 000 | 4 + 3 minta minden megkezdett 1 000 m3/d mennyiségre | 1 minta + 1 minta minden megkezdett 4 500 m3/d mennyiségre |
 
-## ha a bakteriológiai vízminőségi jellemzők megelőző vizsgálati eredményei a jelenlétét valószínűsítő (biofilm proliferációra utaló) szennyezést jeleztek.
+| 6. | ≥10 000 és <100 000 | 3 minta + 1 minta minden megkezdett 10 000 m3/d mennyiségre |
 
-## 1.8.5. Mikroszkópos biológiai paraméterek:
+| 7. | ≥100 000 | 12 minta + 1 minta minden megkezdett 25 000 m3/d mennyiségre |
 
-## akut szennyezés vagy ennek gyanúja esetén, feltehetően biológiai szennyezésre visszavezethető eredetű (íz és szag) panaszok esetén.
+## Megjegyzések:
 
-## 2. Részletes vizsgálatok
+## 1. Az ellátási körzet olyan földrajzilag meghatározott terület, amelyen belül az ivóvíz egy vagy több forrásból származik, és a vízminőség hozzávetőlegesen azonosnak tekinthető.
 
-## A részletes vizsgálatok célja annak megállapítása, hogy az ivóvíz minősége megfelel-e az e rendeletben foglalt valamennyi követelménynek. A részletes vizsgálat során – a 3. § (4) bekezdésével összhangban – minden vízminőségi jellemzőt mérni kell, kivéve, ha az országos tisztifőorvos, illetve – azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – a NÉBIH az országos tisztifőorvossal egyeztetve az üzemeltető kérésére meghatározott időre felmentést ad abban az esetben, ha a kérdéses vízminőségi jellemző mérési eredményekkel igazolhatóan nincs jelen az adott vízellátó rendszerben olyan koncentrációban, amely a határérték vagy parametrikus érték túllépésének veszélyével járna. A radioaktivitásra vonatkozó parametrikus értékekre az 1. számú melléklet C) részében található 12. és 13. megjegyzés az irányadó.
+## 2. A vízmennyiséget a naptári év átlagában kell számolni. A minimális gyakoriság víztérfogat helyett az ellátási zónába eső lakosságszám segítségével is meghatározható, 200 l/nap/fő vízfogyasztást feltételezve.
 
-## Nem sérülékeny felszín alatti vízbázisok vize esetében a peszticidek, benzol, 1,2-diklór-etán, tetraklór-etilén, triklór-etilén, cisz-1,2-diklór-etilén és – nem klórozott vizek esetében – a trihalometánok csak az első felméréskor, és, ha nem voltak kimutathatók az alsó méréshatárt, illetve a határérték 10%-át meghaladó koncentrációban, akkor utána csak 3 évenként egyszer, illetve vízszennyezés gyanúja esetén mérendők. Benz(a)pirént és policiklusos aromás szénhidrogéneket felszín alatti vízbázisok vize esetében ugyanilyen gyakorisággal kell mérni, feltéve, hogy a permanganát index (KOIps) értéke a 3,5 mg/l-t (a TOC a 2,0 mg/l-t) nem haladja meg.
+## 3. A feltüntetett gyakoriság kiszámítása a következő módon történik: például 4 300 m3/d = 16 minta (4 minta az első 1 000 m3/d mennyiségre + 12 további minta 3 300 m3/d mennyiségre).
 
-## 3. Az előírt mintázási gyakoriság radioaktív anyagok vizsgálata esetén:
+## 4. Az Escherichia coli (E.coli) és a telepszám 22 °C-on vízminőségi jellemzők vizsgálati száma a 3.3. pontban foglalt táblázatban szereplő értékek kétszerese.
 
-## 3.1. Elosztóhálózatról szolgáltatott víz esetén az üzemeltető az illetékes népegészségügyi szervnek, valamint az élelmiszeripari vállalkozás az élelmiszerlánc-felügyeleti szervnek a B) részben foglalt táblázatban szereplő részletes vizsgálati gyakorisággal elvégzett trícium, radon, valamint indikatív dózis vizsgálati eredményeinek legalább 3 éves reprezentatív adatsorát megküldi.
+## 5. A mintavételeket időben és térben lehetőleg egyenletesen kell elosztani.
 
-## A mintavételezést a fogyasztói csapon kell végezni, a trícium vizsgálat esetén a fogyasztói csapon vett minták helyett a kútból származó vízminták is figyelembe vehetőek.
+## 6. A gyakoriságot, illetve a mintaszámot az illetékes hatóság határozza meg.
 
-## 3.2. Tartályban, ballonban és palackban forgalomba hozott víz esetén az élelmiszeripari vállalkozás az élelmiszerlánc-felügyeleti szervnek a C) részben foglalt táblázatban szereplő részletes vizsgálati gyakorisággal elvégzett trícium, radon, valamint indikatív dózis vizsgálati eredményeinek legalább 3 éves reprezentatív adatsorát megküldi.
+## 7. A hatósági vizsgálati mintaszámot a kerekítés szabályait figyelmen kívül hagyva, minden esetben felfelé kell kerekíteni.
 
-## 3.3. Ha egy adott mintában valamelyik érték túllépése tapasztalható, az illetékes népegészségügyi szerv, valamint az élelmiszerlánc-felügyeleti szerv meghatározza, hogy milyen mértékben szükséges a mintavételt megismételni annak biztosításához, hogy a mért értékek az egész évi átlagos aktivitási koncentráció szempontjából reprezentatívak legyenek.
+## 8. Az elosztó hálózatban történő mintavételt – a fogyasztói csapoknál történő mintavétel kivételével – az ISO 5667-5 szabvány szerint kell végezni. A mikrobiológiai paraméterek vizsgálatára az elosztó hálózatban a mintavételt és minta kezelését az EN ISO 19458 szabvány a) rész mintavételi célja szerint kell végezni.
+
+## 3.4. Minimális mintavételi és vizsgálati gyakoriság tartályban, ballonban és palackban forgalomba hozott vízre
+
+|  | A | B | C |
+
+| 1. | Tartályba töltött vízmennyiség naponta1m3 | A csoportba tartozó (ellenőrző) paraméterek minimális éves vizsgálati száma2 | B csoportba tartozó (részletes) paraméterek minimális éves vizsgálati száma |
+
+| 2. | <10 | 3 | 1 |
+
+| 3. | 10–60 | 24 | 2 |
+
+| 4. | >60 | 2 (minden megkezdett 5 m3-re) | 2 (minden megkezdett 100 m3-re) |
+
+## Megjegyzések:
+
+## 1 A térfogatot a naptári év átlagaként kell kiszámítani.
+
+## 2 A vízkémiai vizsgálatok mintaszáma. A csoportba tartozó (ellenőrző) vízbakteriológiai vizsgálat esetén háromszor ennyi mintát kell venni.
+
+## A vizsgálatot a gyártónak kell elvégeznie vagy elvégeztetnie.
 
 ## 4. A saját célú ivóvízművek esetén vizsgálandó vízminőségi paraméterek:
 
@@ -152,7 +172,7 @@
 
 ## 4.5. Telepszám 22 °C
 
-## 4.6. Fekális Enterococcus
+## 4.6. Enterococcusok
 
 ## 4.7. pH
 
@@ -168,7 +188,7 @@
 
 ## 4.13. Klorid
 
-## 4.14. Kémiai oxigénigény (KOIps)
+## 4.14. Permanganát index (KOIps)
 
 ## 4.15. Vas
 
@@ -178,68 +198,6 @@
 
 ## 4.18. Fertőtlenítéssel összefüggő paraméterek
 
-## B) Minimális mintavételi és vizsgálati gyakoriság vízellátó hálózat vagy élelmiszer előállításra használt ivóvíz esetében
+3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^123]
 
-## A víznyerő helyek (kutak), a vízkezelési technológia, a vízellátó rendszerbe betáplálás vagy más hálózati pont (pl. tárolók) mintázása is célszerű, azonban az itt vett minták az alábbi követelmény teljesítése szempontjából nem vehetők figyelembe.
-
-## 1. Az üzemeltető és az élelmiszeripari vállalkozás által végzett vagy végeztetett vízkémiai vizsgálatok minimális mintaszáma (a vizsgálati mintaszámot a kerekítés szabályait figyelmen kívül hagyva, minden esetben felfelé kell kerekíteni, mind az önellenőrző, mind a hatósági vizsgálatok esetében)
-
-| Naponta termelt (szolgáltatott) ivóvíz mennyisége egy körzeten belül (1. és 2. megjegyzés) m3 | Ellenőrző vizsgálatra évente vett minták száma (3., 4. és 5. megjegyzés) | Részletes vizsgálatra évente vett minták száma (3. és 5. megjegyzés) |
-
-| <10 | (6. megjegyzés) | (6. megjegyzés) |
-
-| 10–100 | 4 minta |
-
-| 100-1000 | 4 minta | 1 minta |
-
-| 1000–10 000 | 4 + 3 minta minden megkezdett 1000 m3/nap (d) mennyiségre | 1 minta, + 1 minta minden megkezdett 3300 m3/d mennyiségre |
-
-| 10 000–100 000 | 3 minta, + 1 minta minden megkezdett 10 000 m3/d mennyiségre |
-
-| >100 000 | 10 minta, + 1 minta minden megkezdett 25 000 m3/d mennyiségre |
-
-## Megjegyzések:
-
-## 1. Az ellátási körzet olyan földrajzilag meghatározott terület, amelyen belül az ivóvíz egy vagy több forrásból származik, és a vízminőség hozzávetőlegesen azonosnak tekinthető.
-
-## 2. A vízmennyiséget a naptári év átlagában kell számolni. A minimális gyakoriság víztérfogat helyett az ellátási zónába eső lakosságszám segítségével is meghatározható, 120 l/nap/fő vízfogyasztást feltételezve.
-
-## 3. Rendkívüli esetben (pl. üzemzavar miatti tartályos ellátás) a vizsgálatok gyakoriságát és a vizsgált vízminőségi jellemzőket az illetékes hatóság a táblázatban foglaltaktól eltérően határozhatja meg.
-
-## 4. Az 1. számú melléklet szerinti egyes vízminőségi jellemzők esetében az üzemeltető kérésére az illetékes hatóság engedélyével csökkenthető a táblázatban megadott mintaszám, ha
-
-## a) legalább két egymást követő éven keresztül vett minták vizsgálati eredménye állandó, és lényegesen jobb, mint az 1. számú mellékletben megadott határérték, valamint
-
-## b) az ivóvízbiztonsági terv vagy annak hiányában külön elvégzett kockázatértékelés alapján valószínűsíthető, hogy nincs olyan tényező, amely vízminőség romlást okozna.
-
-## A legkisebb alkalmazott gyakoriság sem lehet kisebb, mint a táblázatban megadott mintaszám 50%-a.
-
-## 5. A mintavételeket időben és térben lehetőleg egyenletesen kell elosztani.
-
-## 6. A gyakoriságot, illetve a mintaszámot az illetékes hatóság határozza meg.
-
-## A fenti táblázat ellenőrző vizsgálatokra vonatkozó mintaszáma az A) részben felsorolt kémiai vízminőségi jellemzőkre vonatkozik; a bakteriológiai vizsgálatok mintaszáma a táblázatban szereplő értékek kétszerese.
-
-## 7. A vizsgálati mintaszámot a kerekítés szabályait figyelmen kívül hagyva, minden esetben felfelé kell kerekíteni, mind az önellenőrző, mind a hatósági vizsgálatok esetében.
-
-## C) Minimális mintavételi és vizsgálati gyakoriság tartályban, ballonban és palackban forgalomba hozott vízre
-
-| Tartályba töltött vízmennyiség naponta1m3 | Ellenőrző vizsgálat céljából évente vett minták száma2 | Részletes vizsgálat céljából évente vett minták száma |
-
-| <10 | 3 | 1 |
-
-| 10–60 | 24 | 2 |
-
-| >60 | 2, minden megkezdett 5 m3-re | 2, minden megkezdett 100 m3-re |
-
-## Megjegyzések:
-
-## 1 A térfogatot a naptári év átlagaként kell kiszámítani.
-
-## 2 A vízkémiai vizsgálatok mintaszáma. Ellenőrző vízbakteriológiai vizsgálat esetén háromszor ennyi mintát kell venni.
-
-## A vizsgálatot az üzemeltetőnek kell elvégeznie vagy elvégeztetnie.
-
-3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^118]
-
-[^118]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja, a 313/2015. (X. 28.) Korm. rendelet 7. § (3) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. pontja szerint módosított szöveg.
+[^123]: A 3. számú melléklet a 464/2016. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
