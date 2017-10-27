@@ -46,6 +46,8 @@
 
 ## a képviseletre jogosult személy aláírása
 
-4. melléklet a 474/2016. (XII. 27.) Korm. rendelethez
+4. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^2]
 
 XX. Emberi Erőforrások Minisztériuma 2017. évi sport célú fejezeti kezelésű előirányzatainak feladatterve
+
+[^2]: A 4. melléklet a 303/2017. (X. 26.) Korm. rendelet 1. §-a szerint módosított szöveg.
