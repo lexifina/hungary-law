@@ -1,0 +1,1 @@
+## 16. § E rendelet hatálybalépését követő kilencven napon belül a hatáskörrel rendelkező honvédelmi szervezet vezetője felülvizsgálja a honvédelmi szervezet állománytábláját vagy munkaköri jegyzékét, és ha a tűzvédelmi szakállomány létszáma nem felel meg a 8. alcímben meghatározott rendelkezéseknek, kezdeményezi az állománytábla vagy a munkaköri jegyzék módosítását.
