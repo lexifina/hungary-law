@@ -1,3 +1,3 @@
-## Az Európai Közösségek jogszabályaihoz való közelítés
+## Az Európai Unió jogának való megfelelés
 
-38/A. § Ez a törvény az Európai Közösséget létrehozó szerződés 43–48. cikkével, valamint a fizetésképtelenségi eljárásról szóló 346/2000/EK (2000. február 17.) tanácsi rendelettel összeegyeztethető szabályozást tartalmaz.
+38/A. § Ez a törvény a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
