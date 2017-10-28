@@ -8,7 +8,7 @@
 
 (4) A bíróság az (1) bekezdést követő intézkedést követően haladéktalanul, de legkésőbb a kérelem beérkezésétől számított 5 munkanapon belül megvizsgálja, hogy az megfelel-e a 7. § és a 8. § (1)–(3) bekezdése szerinti feltételeknek. Ha a kérelem hiányos, azt 5 munkanapos határidővel hiánypótlásra adja vissza. A bíróság az adós által kezdeményezett csődeljárás iránti kérelmet hivatalból elutasítja, ha
 
-a) a hiánypótlásra visszaadott kérelmet a bejelentő 5 munkanapon belül nem egészítette ki, vagy azt ismét hiányosan terjesztette elő,
+a) a hiánypótlásra visszaadott kérelmet a kérelmező 5 munkanapon belül nem egészítette ki, vagy azt ismét hiányosan terjesztette elő,
 
 b) nincs meg a 8. § (1) bekezdésében említett legfőbb szerv előzetes egyetértése,
 
@@ -16,18 +16,16 @@ c) a 7. § (3) bekezdés a) pontja szerinti követelés kielégítése még nem 
 
 d) a korábbi csődeljárás jogerős befejezésének közzétételétől számítva két év még nem telt el,
 
-e) az adós ellen más bíróság előtt csődeljárás van folyamatban,
+e) az adós ellen belföldön más bíróság előtt csődeljárás van folyamatban,
 
-f) az adós ellen felszámolási eljárás indult, és a fizetésképtelenség megállapításáról és a felszámolás elrendeléséről már végzést hoztak,
+f) az adós ellen felszámolási eljárás indult, és a felszámolás elrendeléséről már végzést hoztak, vagy
 
-g) a csődeljárás iránti kérelmet megelőző egy éven belül az adós már adott be ilyen kérelmet, amelyet e bekezdés alapján a bíróság hivatalból elutasított, és az erről szóló jogerős végzés közzétételétől számítva egy év még nem telt el, vagy
-
-h) az adós ellen az Európai Unió más tagállamában a 6/B. § szerinti főeljárás megindításáról szóló határozat került közzétételre a Cégközlönyben.
+g) a csődeljárás iránti kérelmet megelőző egy éven belül az adós már adott be ilyen kérelmet, amelyet e bekezdés alapján a bíróság hivatalból elutasított, és az erről szóló jogerős végzés közzétételétől számítva egy év még nem telt el.
 
 (5) A csődeljárás iránti kérelmet hivatalból elutasító végzésnek tartalmaznia kell az adós nevét, székhelyét, cégjegyzékszámát, a bíróság nevét és az ügy számát, továbbá a csődeljárás iránti kérelem elutasításának okát, valamint – ha az ideiglenes fizetési haladék közzétételre került – azt, hogy az ideiglenes fizetési haladék a jogerős végzés közzétételével megszűnik. A csődeljárás iránti kérelmet hivatalból elutasító végzés elleni fellebbezés benyújtásának határideje 5 nap. A határidő elmulasztása esetén igazolásnak nincs helye. A fellebbezést soron kívül, de legfeljebb 8 munkanapon belül kell elbírálni.
 
 (6)–(8)
 
-(9) A bíróság megszünteti a csődeljárást, ha hitelt érdemlően tudomást szerez arról, hogy a csődeljárás iránti kérelmet a (4) bekezdés b)–h) pontja szerinti okból hivatalból el kellett volna utasítani. A vagyonfelügyelő díját a bíróság az addig elvégzett tevékenységével, munkaterhével arányosan állapítja meg.
+(9) A bíróság hivatalból megszünteti a csődeljárást, ha hitelt érdemlően tudomást szerez arról, hogy a csődeljárás iránti kérelmet a (4) bekezdés b)–g) pontja szerinti okból vissza kellett volna utasítani. Az eljárást megszüntető végzés ellen fellebbezésnek van helye. A csődeljárás megszüntetése esetén a vagyonfelügyelő díját a bíróság az addig elvégzett tevékenységével, munkaterhével arányosan állapítja meg.
 
 (10) A bíróság az adósi kérelem benyújtóját 100 000 forinttól 2 000 000 forintig terjedő bírsággal sújtja, és az eljárás költségeiben marasztalhatja, ha a csődeljárás iránti kérelemben vagy a csatolt dokumentumokban valótlan adatot közölt, valótlan tartalmú dokumentumokat csatolt, továbbá ha a 8. § (2) bekezdés i) pontja szerinti értesítési kötelezettségét elmulasztja. A kötelezettség teljesítésére és a bírság kiszabására figyelmeztető végzést, valamint a bírságot kiszabó végzést az adós gazdálkodó szervezet azon többségi befolyással rendelkező tagjának (egyszemélyes társaság és egyéni cég esetén a tagnak, külföldi székhelyű vállalkozás magyarországi fióktelepe esetén a külföldi székhelyű vállalkozásnak) is meg kell küldeni, amely a bírság kiszabásának alapjául szolgáló cselekmény vagy mulasztás idején az említett mértékű részesedéssel rendelkezett. Az említett tag, illetőleg külföldi székhelyű vállalkozás a bírság megfizetéséért behajthatatlanság esetén kezesként felel. A külföldi székhelyű vállalkozás az említett kezesi kötelezettségéből eredő fizetési kötelezettségét nem teljesítheti a fióktelepe rendelkezésére bocsátott vagyonból.

@@ -1,0 +1,1 @@
+6/O. § A bíróság a felszámolás fizetésképtelenségi főeljárásként történő befejezéséről és az adós jogutód nélküli megszüntetéséről akkor hozhatja meg a végzést, ha az adós ellen nincs folyamatban a 1346/2000/EK tanácsi rendelet vagy a 2015/848 EU rendelet alapján más tagállamban külföldi fizetésképtelenségi eljárás.

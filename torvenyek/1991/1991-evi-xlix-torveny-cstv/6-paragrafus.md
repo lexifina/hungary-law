@@ -1,4 +1,4 @@
-6. § (1) A csődeljárás és a felszámolási eljárás az adós – eljárás lefolytatására irányuló kérelem benyújtásának napján bejegyzett, illetve az (1a) bekezdésben meghatározott – székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) hatáskörébe és illetékességébe tartozó nemperes eljárás. A más bíróságoknál benyújtott csődeljárások iránti kérelmeket hivatalból el kell utasítani vagy a már megindult eljárásokat meg kell szüntetni, a felszámolási eljárás iránti kérelmeket pedig az illetékes bírósághoz kell áttenni.
+6. § (1) A csődeljárás és a felszámolási eljárás az adós – eljárás lefolytatására irányuló kérelem benyújtásának napján bejegyzett, illetve az (1a) bekezdésben meghatározott – magyarországi székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) hatáskörébe és kizárólagos illetékességébe tartozó nemperes eljárás. A más bíróságoknál benyújtott csődeljárások iránti kérelmeket – kivéve, ha arra a bíróságnak területi fizetésképtelenségi eljárásként a 6/H. § szerint hatásköre és illetékessége van – a bíróság hivatalból elutasítja, a már megindult eljárásokat megszünteti, a felszámolási eljárás iránti kérelmeket pedig – ideértve az ilyen eljárást a 2015/848 EU rendelet 3. cikk (3) vagy (4) bekezdése alapján kezdeményező területi fizetésképtelenségi eljárás iránti kérelmeket is – haladéktalanul az e törvény szerint hatáskörrel és illetékességgel rendelkező bírósághoz teszi át.
 
 (1a) Az adós székhelyének a korábbitól eltérő cégbíróság illetékességi területére történő áthelyezése esetén a székhelyváltozás bejegyzését követő 180 napig kizárólag a korábban bejegyzett székhely szerinti illetékes bíróság előtt kezdeményezhető csődeljárás, felszámolási eljárás. Amennyiben az adós ellen felszámolási eljárást kezdeményeztek, de a fizetésképtelenség megállapításáról és a felszámolás elrendeléséről a bíróság még nem hozott elsőfokú végzést, az adós csődeljárás iránti kérelmet csak ennél a bíróságnál nyújthat be.
 
@@ -22,13 +22,13 @@ e) az adós követeléseinek érvényesítése érdekében a követelés termés
 
 lakcímadataira és értesítési címére vonatkozóan térítésmentesen szolgáltatandó adatot igényelhet.
 
-(2) A Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendeletének hatálya alá tartozó és nem Magyarországon bejegyzett gazdálkodó szervezet [3. § (1) bekezdés a) pont] ellen megindított főeljárás vagy területi eljárás lefolytatására a Fővárosi Törvényszék rendelkezik kizárólagos illetékességgel.
+(2) A 2015/848 EU rendelet hatálya alá tartozó, nem Magyarországon bejegyzett gazdálkodó szervezet ellen kezdeményezett fizetésképtelenségi főeljárás megindítására és lefolytatására a Fővárosi Törvényszék rendelkezik hatáskörrel és illetékességgel.
 
 (3) Azokra az eljárási kérdésekre, amelyeket e törvény külön nem szabályoz, a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezései – a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadóak azzal, hogy
 
 a) a csődeljárásban
 
-aa) felfüggesztésnek nincs helye,
+aa) felfüggesztésnek – ide nem értve a 6/Q. § szerinti esetet – nincs helye,
 
 ab) félbeszakadásnak és szünetelésnek nincs helye,
 
@@ -40,7 +40,7 @@ bb) a vitatott igény elbírálására irányuló és a kifogás alapján indult
 
 bc) az eljárás szünetelésének csak a 26. § (4) bekezdésben foglaltak esetén van helye,
 
-bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító végzés meghozataláig, továbbá a 6/A. § (2) bekezdése, valamint a 38/A. § szerinti esetben van helye.
+bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító végzés meghozataláig, továbbá a 6/A. § (2) bekezdése, a 6/Q. §, valamint a 38/A. § szerinti esetben van helye.
 
 (4) A csődeljárásban az adóst, a hitelezőt és a vagyonfelügyelőt, a felszámolási eljárásban az adóst, a hitelezőt és a felszámolót kell félnek tekinteni. Ha a vagyonfelügyelő vagy a felszámoló tevékenysége vagy mulasztása harmadik személy jogát, jogos érdekét is érinti, az e személy által benyújtott kifogás (51. §) elbírálása során a kifogás előterjesztője is félnek minősül.
 
@@ -81,3 +81,13 @@ i) a felszámolási eljárás befejezéséről szóló végzés, kivéve a 63/B.
 j) a stratégiailag kiemelt jelentőségű gazdálkodó szervezetek ellen indult csődeljárásban és indított felszámolási eljárásban az a)–i) pontban foglaltakon kívül is minden olyan határozat, amely ellen külön fellebbezésnek van helye;
 
 k)
+
+(8) A vagyonfelügyelő, az ideiglenes vagyonfelügyelő, a rendkívüli vagyonfelügyelő, a felszámoló, valamint
+
+a) az adós (az adós vezető tisztségviselője), illetve
+
+b) a hitelező
+
+közötti kapcsolattartás során a jognyilatkozatok megtétele írásban történik, az alakiság megsértésével tett jognyilatkozat hatálytalan.
+
+(9) Ha az iratot a vagyonfelügyelő, az ideiglenes vagyonfelügyelő, a rendkívüli vagyonfelügyelő, illetve a felszámoló postai úton küldi meg a hitelezőknek vagy az adós vezető tisztségviselőjének, azt a hivatalos iratok kézbesítésére vonatkozó általános szabályok szerint kell kézbesíteni.

@@ -1,0 +1,1 @@
+6/M. § A belföldön megindított fizetésképtelenségi főeljárásban és területi másodlagos fizetésképtelenségi eljárásban a külföldi hitelezői igények bejelentésére 2015/848 EU rendelet 55. cikke alapján kialakított egységes formanyomtatvány a Cégközlöny és az Országos Bírósági Hivatal honlapjáról is letölthető.

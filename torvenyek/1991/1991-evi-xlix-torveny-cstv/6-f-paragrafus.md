@@ -1,0 +1,1 @@
+6/F. § A 6/B–6/D. §-ok szerinti kérelmet a Fővárosi Törvényszékhez kell benyújtani, amely nemperes eljárásban dönt a kérelemről a beérkezéstől számított legfeljebb 30 napon belül, a 6/B. § szerinti kérelem esetében 8 napon belül. A kérelemnek helyt adó végzés ellen jogorvoslatnak nincs helye.

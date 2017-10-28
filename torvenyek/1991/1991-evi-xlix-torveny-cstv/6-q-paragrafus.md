@@ -1,0 +1,9 @@
+6/Q. § (1) A csődeljárást, illetve a felszámolást elrendelő jogerős végzés ellen a csődeljárás, illetve a felszámolási eljárás kezdő időpontjától számított 30 napon belül felülvizsgálati kérelmet lehet előterjeszteni arra való hivatkozással, hogy az eljárás elrendelésére a magyar bíróságnak nem volt joghatósága. A határidő elmulasztása esetén igazolásnak nincs helye.
+
+(2) A Kúria elrendelheti a csődeljárás, illetve a felszámolási eljárás felfüggesztését.
+
+(3) Ha a Kúria elrendelte a csődeljárás felfüggesztését, egyezségi tárgyalás megtartására nem kerülhet sor. A csődeljárásban elrendelt fizetési haladék hatálya a felfüggesztés időtartama alatt is fennmarad, a 11. §-ban foglaltak a felfüggesztés időtartama alatt is irányadók. A vagyonfelügyelő a felfüggesztés időtartama alatt ellátja a 12–14. §-ban felsorolt feladatokat, tevékenységével összefüggésben a 15. § (3) bekezdése szerint kifogás benyújtásának és a kifogás elbírálásának is helye van. A kifogást elbíráló végzés ellen fellebbezés nyújtható be, amelyet 15 napon belül kell elbírálni.
+
+(4) Ha a Kúria elrendelte a felszámolási eljárás felfüggesztését, a felszámolás elrendelésének jogi hatálya fennmarad, a 34–35. §-ban foglaltakat is alkalmazni kell. A felszámoló a felfüggesztés időtartama alatt is ellátja az adós vagyonának az adós vezetőjétől történő átvételével, a felszámolási nyitó mérleg készítésével, valamint a hitelezői igények nyilvántartásba vételével összefüggő feladatokat. A felfüggesztés időtartama alatt a felszámoló az adós vagyonát nem adhatja bérbe, nem értékesítheti, ide nem értve a gyorsan romló vagy az olyan ingóságot, amelynél az értékesítés késedelme jelentős értékveszteséggel járna. Az értékesítésből származó bevételt a felszámoló elkülönítetten kezeli, azt a felszámolási költségekre sem használhatja fel.
+
+(5) A Kúria a felülvizsgálattal megtámadott végzést 30 napon belül bírálja el.
