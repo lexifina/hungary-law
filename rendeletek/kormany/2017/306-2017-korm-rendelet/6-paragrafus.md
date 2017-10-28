@@ -1,0 +1,1 @@
+## „(5) A Felelős Hatóság a szabálytalansági eljárás megindításával egyidejűleg dönthet a kifizetések felfüggesztésének elrendeléséről. A kifizetések felfüggesztésének elrendeléséről és megszüntetéséről a kedvezményezettet haladéktalanul tájékoztatni kell.”
