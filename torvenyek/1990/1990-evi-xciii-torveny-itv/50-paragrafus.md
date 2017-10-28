@@ -6,6 +6,6 @@
 
 (3) A csatlakozó felülvizsgálati kérelem illetéke az (1) bekezdésben meghatározott illeték fele, de legalább 20 000 forint, legfeljebb 1 250 000 forint.
 
-(4) A cégbírósági, valamint a csőd- és felszámolási eljárásban hozott végzés elleni felülvizsgálat illetéke 30 000 forint.
+(4) A cégbírósági, valamint a csőd- és felszámolási eljárásban – ideértve a 2015/848 EU rendeletben meghatározott, magyar bíróság előtt kezdeményezett nemperes eljárásokat is – hozott végzés elleni felülvizsgálat illetéke 30 000 forint.
 
 (5) A természetes személyek adósságrendezési eljárásaiban hozott végzés elleni felülvizsgálat, illetve perújítás illetéke 30 000 forint.

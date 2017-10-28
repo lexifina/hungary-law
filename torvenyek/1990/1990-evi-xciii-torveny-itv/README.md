@@ -75,3 +75,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2017-06-20 | 2017. évi LXXVII. törvény | 1990-93-00-00.156 |
 | 2017-07-01 | 2017. évi XLIX. törvény | 1990-93-00-00.157 |
 | 2017-10-13 | 2017. évi CXXII. törvény | 1990-93-00-00.158 |
+| 2017-10-28 | 2017. évi CXXVI. törvény | 1990-93-00-00.159 |
