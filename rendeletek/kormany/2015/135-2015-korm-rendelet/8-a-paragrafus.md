@@ -1,6 +1,6 @@
 ## 8. § A Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó költségvetési támogatások terhére az 1. mellékletben meghatározott költségek számolhatók el.
 
-## 6/A. [^1] Sürgősségi segítségnyújtás
+## 6/A. [^5] Sürgősségi segítségnyújtás
 
 8/A. § (1) Az 513/2014/EU európai parlamenti és tanácsi rendelet 10. cikkében, az 515/2014/EU európai parlamenti és tanácsi rendelet 14. cikkében és az 516/2014/EU európai parlamenti és tanácsi rendelet 21. cikkében foglaltak alapján elkészítendő sürgősségi támogatás iránti kérelmet a Európai Bizottságnak való benyújtás előtt véleményezés céljából a pályázat előkészítését követően haladéktalanul meg kell küldeni a miniszter részére, aki véleményét soron kívül megküldi a pályázó részére, aki köteles azt figyelembe venni.
 
@@ -8,4 +8,4 @@
 
 (3) A pályázati szakaszban a pályázót, a projekt végrehajtása során a kedvezményezettet a Belügyminisztérium felé adatszolgáltatási kötelezettség terheli.
 
-[^1]: A 6/A. alcímet (8/A. §) a 11/2016. (II. 9.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 6/A. alcímet (8/A. §) a 11/2016. (II. 9.) Korm. rendelet 1. §-a iktatta be.

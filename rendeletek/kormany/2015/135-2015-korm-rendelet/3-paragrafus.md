@@ -10,4 +10,6 @@ c) jóváhagyja a munkaprogramokat és azok módosításait,
 
 d) jogorvoslati feladatai körében elbírálja a szabálytalansági eljárásban hozott döntések ellen benyújtott jogorvoslati kérelmeket,
 
-e) kijelöli a Monitoring Bizottság elnökét és tagjait.
+e)[^4]
+
+[^4]: A 3. § e) pontját a 306/2017. (X. 27.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.

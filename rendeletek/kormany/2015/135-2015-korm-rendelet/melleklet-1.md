@@ -1,4 +1,4 @@
-1. melléklet a 135/2015. (VI. 2.) Korm. rendelethez[^5]
+1. melléklet a 135/2015. (VI. 2.) Korm. rendelethez[^28]
 
 ÚTMUTATÓ AZ ELSZÁMOLHATÓ KÖLTSÉGEKRŐL
 
@@ -56,11 +56,15 @@ A támogatott projektek esetében a pályázati kiírások a jelen pont szerinti
 
 1.3. Az elszámolhatóság alapelvei és feltételei
 
-1.3.1. Alapelvek
+1.3.1.[^29] Alapelvek
 
 A pályázati kiírásokban az Útmutatóban foglaltakat kell alkalmazni. Ha a hatékony forrásfelhasználás megköveteli, a Felelős Hatóság az elszámolhatósági szabályokat az adott pályázati kiírás céljához testre szabva szűkítheti, a fejlesztés céljától függően részletezheti, specifikálhatja a keret jellegű szabályozáshoz képest (pl. a fejlesztés jellegéhez igazodva kizárhat egyes költségtételeket, vagy feltételhez kötheti azok elszámolását). Az Útmutató egyes költségtípusok tekintetében meghatározza azoknak a projektek keretében maximálisan elszámolható arányát az összes elszámolható közvetlen költséghez viszonyítva. Ezen arányokat növelni nem lehet, kivéve, ahol azt az Útmutató kifejezetten megengedi. Ezen túlmenően a pályázati kiírás határozhat meg további korlátozásokat.
 
-Az egyszerűsített elszámolási módok alapján történő elszámolás alkalmazásának lehetőségét a Felelős Hatóság eseti jelleggel, pályázati kiírásonként állapítja meg. Így előfordulhat, hogy az Útmutatóban felsorolt költség adott projekt esetében egyáltalán nem számolható el vagy csak bizonyos felső korlátig számolható el. Kötelező az egyszerűsített költségelszámolási módok alkalmazása azon költségtípusoknál, amelyeknél a pályázati kiírás erre vonatkozó szabályozást tartalmaz.
+Amennyiben az Útmutatóban foglaltaktól eltérően a kedvezményezett saját szabályzata szigorúbb szabályokat rögzít, a kedvezményezett köteles a saját szabályzatában foglaltak szerint eljárni.
+
+A Felelős Hatóság, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben foglaltak figyelembevételével, a Belügyi Alapok által támogatott projekteknek a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: közbeszerzési törvény) szerinti közbeszerzési eljárásait, valamint a közbeszerzési törvény 9. § (1) bekezdés a) és b) pontja szerinti beszerzéseit a pályázati kiírásban rögzített módokon ellenőrzi.
+
+Az egyszerűsített elszámolási módok alapján történő elszámolás alkalmazásának lehetőségét a Felelős Hatóság eseti jelleggel, pályázati kiírásonként állapítja meg. Így előfordulhat, hogy az Útmutatóban felsorolt költség adott projekt esetében egyáltalán nem számolható el, vagy csak bizonyos felső korlátig számolható el. Kötelező az egyszerűsített költségelszámolási módok alkalmazása azon költségtípusoknál, amelyeknél a pályázati kiírás erre vonatkozó szabályozást tartalmaz.
 
 Az értékcsökkenés és az önköltség alapú elszámolás kivételével a kifizetést banki átutalással, kivételes esetben készpénzben kell lebonyolítani.
 
@@ -76,9 +80,9 @@ Csak olyan költségek számolhatóak el és csak olyan költségekre fizethető
 
 a) a Nemzeti Program keretében rögzített egyedi és nemzeti célkitűzések megvalósítása érdekében merülnek fel;
 
-b) az alapok specifikus rendeleteiben felsorolt támogatható intézkedések[^6] megvalósítása érdekében merülnek fel;
+b) az alapok specifikus rendeleteiben felsorolt támogatható intézkedések[^30] megvalósítása érdekében merülnek fel;
 
-c) főszabály szerint a kedvezményezetteknél ténylegesen felmerültek, teljesítettek, tehát valós munkára alapozottak és teljesülésük elszámoló bizonylattal, míg jogalapjuk szerződéssel, írásbeli megrendelővel, közigazgatási határozattal vagy ezekkel azonos bizonyító erejű dokumentummal igazolhatók (tételes, dokumentum alapú elszámolás). Előlegek esetében nincs szükség a teljesítés igazolására. Az egyszerűsített elszámolási módok alapján történő támogatás kifizetése teljesíthető, ha az így elszámolt költségek az Európai Bizottság által – vagy Felelős Hatóság szintjén – elfogadott módszertannal összhangban merültek fel;
+c)[^31] főszabály szerint a kedvezményezetteknél ténylegesen felmerültek, teljesítettek, tehát valós munkára alapozottak és teljesülésük elszámoló bizonylattal, míg jogalapjuk szerződéssel, írásbeli megrendelővel, közigazgatási határozattal vagy ezekkel azonos bizonyító erejű dokumentummal igazolhatók (tételes, dokumentum alapú elszámolás). Előlegek esetében nincs szükség a teljesítés igazolására. Az egyszerűsített elszámolási módok alapján történő támogatás elszámolása teljesíthető, ha az így elszámolt költségek az Európai Bizottság által – vagy Felelős Hatóság szintjén – elfogadott módszertannal összhangban merültek fel;
 
 d) teljes összegben az 1.2. pontban rögzített elszámolhatósági időszak során merültek fel. Kifizetett költségnek minősül a 2.2.5. alpontja szerinti értékcsökkenési leírás, valamint az állammal vagy önkormányzattal szemben adó- vagy járulék-elszámolás keretében beszámításra került kötelezettség. Kifizetett költségnek minősül továbbá a szállítói finanszírozású számlának a projekt megvalósításához igénybe vett harmadik személlyel kötött szerződés alapján a megrendelőnek járó kötbér vagy késedelmi kamat beszámítása miatt pénzügyileg nem rendezett része. A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti beszámítás alapján történő kompenzáció kizárólag e nevesített esetekben fogadható el;
 
@@ -102,29 +106,47 @@ l) a pályázati kiírásban meghatározott földrajzi területen a projekt elő
 
 A támogatott projektek finanszírozása az uniós hozzájárulás, a nemzeti költségvetési forrásból nyújtott támogatás (együtt: nyújtott támogatás), a kedvezményezett elszámolható és nem elszámolható hozzájárulásai, valamint a projekt keretében keletkezett – tervezett és nem tervezett – bevételek által történik.
 
-1.3.4. A bevétel és a nonprofit elv
+1.3.4.[^32] A bevétel és a nonprofit elv
 
-A projekt jóváhagyásának időpontjában figyelembe nem vett, a projekt végrehajtása során közvetlenül keletkezett nettó jövedelmet legkésőbb a kedvezményezett által benyújtott végső kifizetési kérelemben le kell vonni a projekt támogatható kiadásaiból.
+A projekt jóváhagyásának időpontjában figyelembe nem vett, a projekt végrehajtása során közvetlenül keletkezett nettó jövedelemmel a kedvezményezett a projekt zárójelentésében számol el.
 
-1.3.5. A piaci ár igazolása
+1.3.5.[^33] A piaci ár igazolása
 
-Az elszámolásra kerülő egységárak nem haladhatják meg a szokásos piaci árat. A piaci ár bizonyítása a kedvezményezett feladata és felelőssége.
+Az elszámolásra kerülő egységárak nem haladhatják meg a szokásos piaci árat. A szokásos piaci ár bizonyítása a kedvezményezett feladata és felelőssége.
 
-Közbeszerzési eljárásban, valamint a hatályos közbeszerzésekről szóló törvény felhatalmazása alapján kiadott jogszabályban meghatározott eljárás keretében történő beszerzés esetén a piaci ár igazolására főszabály szerint maga az eljárás dokumentumai szolgálnak.
+1. A piaci ár igazolására főszabály szerint maga a beszerzési eljárás dokumentumai szolgálnak.
 
-Közbeszerzési kötelezettség hiányában a nettó 1 000 000 Ft feletti értékű beszerzés esetén a piaci árnak való megfelelés biztosításához a kedvezményezettnek a beszerzés tárgyának értékére vonatkozó piackutatást kell elvégeznie vagy legalább három, azonos tárgyú és azonos igényeket/feltételeket megszabó, független gazdasági szereplőktől származó írásos ajánlatot kell bekérnie. Az ajánlatok nem lehetnek a szerződéskötés időpontjához képest hat hónapnál régebbiek. A beérkezett ajánlatok alapján azt a gazdasági szereplőt kell nyertesnek nyilvánítani, aki az eljárást megindító felhívásban feltüntetett értékelési szempont szerint a legkedvezőbb érvényes ajánlatot nyújtotta be.
+2. Amennyiben a beszerzési eljárás a közbeszerzésekről szóló 2015. évi CXLIII. törvény (Kbt.) vagy a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény hatálya alá tartozik, úgy a szokásos piaci árat a hivatkozott törvények által szabályozott beszerzési eljárás dokumentumai igazolják.
 
-A nyertes ajánlattevő kiválasztása során a kedvezményezettnek a versenyt és a költséghatékonysági szempontokat megfelelően biztosítania kell.
+3. Az előző pontban foglaltakon kívüli, nettó 1 000 000 forintot elérő vagy meghaladó értékű beszerzések esetén kedvezményezettnek a beszerzési eljárás során a szokásos piaci ár igazolására legalább három, azonos tárgyú és azonos igényeket/feltételeket megszabó, egymástól, valamint a kedvezményezettől független gazdasági szereplőktől származó írásos ajánlatot kell bekérnie. A nyertes ajánlattevő kiválasztása során a kedvezményezettnek a versenyt és a költséghatékonysági szempontokat megfelelően biztosítania kell, és a beérkezett ajánlatok alapján azt a gazdasági szereplőt kell nyertesnek nyilvánítania, aki az eljárást megindító felhívásban feltüntetett értékelési szempont szerint a legkedvezőbb érvényes ajánlatot nyújtotta be.
 
-A nettó 1 000 000 Ft alatti beszerzés esetén elegendő csupán egy ajánlat bekérése, amelyet a Felelős Hatóság részére be kell mutatni. A nyílt kereskedelmi forgalomban kapható eszközök beszerzése esetén az írásos ajánlat kiváltható a beszerzés időpontjában fél évnél nem régebbi árlista bemutatásával (pl. forgalmazó cégek honlapja).
+a) Kedvezményezett ezen kötelezettsége – ide nem értve a 3. pont b) alpontja szerinti esetet – nem áll fenn olyan beszerzése tekintetében, amely a közbeszerzési értékhatárok alatti értékű beszerzések megvalósításával és ellenőrzésével kapcsolatos szabályokról szóló 459/2016. (XII. 23.) Korm. rendelet alkalmazása esetén kivételnek minősülne a legalább három ajánlat bekérésének kötelezettsége alól. Ilyen esetben a kedvezményezett a 4. pont megfelelő alkalmazásával járhat el.
 
-A piaci ár alátámasztásaként nem fogadható el nem valódi verseny eredményeként született ajánlat, amely esetében pl. az ajánlattevő és a kedvezményezett, valamint azok tagjai között függőségi viszony áll fent (például rokoni kapcsolat mutatható ki az ajánlatkérő és az ajánlattevő között, tulajdonosi viszonyok összefonódása) vagy nem potenciális ajánlattevőktől kér a kedvezményezett ajánlatot.
+b) A Kbt. 9. § (1) bekezdés a) és b) pontja alapján folytatott beszerzési eljárások esetén a 3. pont a) alpontja szerinti kivétel nem alkalmazható.
 
-Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet előírásaival összhangban a kedvezményezettnek nem szükséges írásbeli ajánlatot bekérnie a 100 000 Ft értéket el nem érő értékű beszerzéseit illetően. Ettől a kivételtől eltekintve azonban az ajánlatok benyújtásától eltérni csak a Felelős Hatóság egyedi engedélye alapján, a beszerzendő eszköz vagy szolgáltatás egyedi jellegének alátámasztásával lehet (például hatósági monopólium, közüzemi szolgáltatás).
+4. A nettó 1 000 000 forintot el nem érő, de a nettó 100 000 forintot meghaladó értékű beszerzés esetén – a szokásos piaci ár igazolásához – elegendő csupán egy írásos ajánlat bekérése, amelyet a Felelős Hatóság részére be kell mutatni. A nyílt kereskedelmi forgalomban kapható eszközök beszerzése esetén az írásos ajánlat kiváltható a beszerzés időpontjához képest hat hónapnál nem régebbi árlista bemutatásával (például forgalmazó cégek honlapja). E bekezdés rendelkezéseitől eltérni csak a Felelős Hatóság egyedi engedélye alapján, a beszerzendő eszköz vagy szolgáltatás egyedi jellegének alátámasztásával lehet (például hatósági monopólium vagy közüzemi szolgáltatás esetén).
 
-A kedvezményezett a beszerzés értékének – így az alkalmazandó kiválasztási eljárás – meghatározása során minden esetben köteles a részekre bontás tilalmára tekintettel eljárni.
+5. A nettó 100 000 Ft értéket el nem érő értékű beszerzés esetén – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet előírásaival összhangban – a kedvezményezettnek nem szükséges írásbeli ajánlatot bekérnie.
 
-Az elszámolható személyi jellegű költség mértéke nem haladhatja meg az adott intézményben – a kedvezményezett nyilatkozata alapján – szokásos mértéket, valamint igazodnia kell az alkalmazásban állók esetén a szokásos jövedelmi viszonyokhoz.
+6. A 3. pont alkalmazásában az ajánlatok nem fogadhatók el a piaci ár igazolására, amennyiben
+
+a) a szerződéskötés időpontjához képest hat hónapnál régebben készültek,
+
+b) nem valódi verseny eredményeként születtek, így különösen az ajánlattevő és a kedvezményezett, valamint azok tagjai között fennálló függőségi viszony (rokoni kapcsolat, tulajdonosi összefonódás) esetén,
+
+c) azokat nem potenciális ajánlattevőktől kérte a kedvezményezett.
+
+7. A költségek elszámolhatóságának feltételeként – eljárási formára és értékhatárra tekintet nélkül – a kedvezményezett köteles
+
+a) a részekre bontás tilalmára tekintettel eljárni a beszerzés értékének – és így az alkalmazandó eljárásfajta – meghatározása során,
+
+b) a szokásos piaci árat szabályszerűen igazolni,
+
+c) a saját teljesítés költségeinek mértékét úgy megállapítani, hogy az ne haladja meg a szokásos piaci árat azzal, hogy az önköltségszámítás rendjére vonatkozó belső szabályzat megalkotására kötelezett kedvezményezettől a szokásos piaci ár igazolására ajánlat bemutatása nem fogadható el,
+
+d) a személyi jellegű költségek mértékét úgy megállapítani, hogy az – a kedvezményezett nyilatkozata alapján – ne haladja meg az adott intézményben szokásos mértéket, továbbá alkalmazásban állók esetén igazodjon a szokásos jövedelmi viszonyokhoz is,
+
+e) betartani a támogatási szerződésben és annak mellékleteiben (különösen az Általános Szerződéses Feltételekben és a Felelős Hatóság Beszerzési segédletében) foglaltakat.
 
 1.3.6. Elkülönített nyilvántartások vezetése
 
@@ -216,9 +238,9 @@ Az ingatlan vásárlása, építése, felújítása vagy bérlése is elszámolh
 
 2.2.1.1. Ingatlanvásárlás
 
-Ingatlanvásárlás alatt jelen Útmutatóban az Sztv. szerinti ingatlanok és kapcsolódó vagyoni értékű jogok számlacsoportba tartozó tételek értendőek[^7].
+Ingatlanvásárlás alatt jelen Útmutatóban az Sztv. szerinti ingatlanok és kapcsolódó vagyoni értékű jogok számlacsoportba tartozó tételek értendőek[^34].
 
-Ha a projekt megvalósítása olyan ingatlanokat érint, amelyekhez vagyoni értékű jogok kapcsolódnak (a földhasználat, az ingatlanon fennálló haszonélvezet és használat, a telki szolgalom, valamint az ingatlan bérleti joga[^8]) és a projekt nem megvalósítható a vagyoni értékű jogok megváltása nélkül, ezen költségek elszámolhatóak.
+Ha a projekt megvalósítása olyan ingatlanokat érint, amelyekhez vagyoni értékű jogok kapcsolódnak (a földhasználat, az ingatlanon fennálló haszonélvezet és használat, a telki szolgalom, valamint az ingatlan bérleti joga[^35]) és a projekt nem megvalósítható a vagyoni értékű jogok megváltása nélkül, ezen költségek elszámolhatóak.
 
 Az ingatlan értéke, valamint az ingatlanhoz kapcsolódó vagyoni értékű jogok megváltásának költsége kizárólag független árszakértői vagy értékbecslői határozat/szakvélemény vagy jogszabályban meghatalmazott hivatalos szerv által megállapított összeg erejéig lehet elszámolható. Az adásvétellel kapcsolatos valamennyi költség – pl. ügyvédi díjak, értékbecslés, kisajátítási terv, kártalanítási költségek – elszámolható.
 
@@ -228,7 +250,7 @@ a) Az ingatlant nem a projekt végrehajtását megelőzően nyújtott uniós tá
 
 b) Az ingatlant kizárólag a projektben megnevezett célra használják. Ha ez csak részben teljesül, a felmerülő költségek csak a projektcélú használat arányában támogathatóak.
 
-Értékcsökkenés alapján történő társfinanszírozás esetén e vagyontárgyak értékcsökkenésének csak a projekt számára történő felhasználás időtartamának és a tényleges felhasználás arányának megfelelő része jogosult támogatásra. Az értékcsökkenési leírást a nemzeti számviteli szabályokat[^9] betartva kell kiszámítani.
+Értékcsökkenés alapján történő társfinanszírozás esetén e vagyontárgyak értékcsökkenésének csak a projekt számára történő felhasználás időtartamának és a tényleges felhasználás arányának megfelelő része jogosult támogatásra. Az értékcsökkenési leírást a nemzeti számviteli szabályokat[^36] betartva kell kiszámítani.
 
 Az ingatlanvásárlás összes elszámolható költsége nem haladhatja meg a projekt összes elszámolható közvetlen költségének 10%-át.
 
@@ -414,7 +436,7 @@ a) bruttó munkabére,
 
 b) személyi jellegű egyéb kifizetései, ilyenek különösen a bérjellegű juttatások, az utazási költségtérítés, cafeteria,
 
-c) munkaköri alkalmassági vizsgálat díja[^10] és
+c) munkaköri alkalmassági vizsgálat díja[^37] és
 
 d) bérjárulékai
 
@@ -452,7 +474,7 @@ Az útiköltségek (utazás és helybiztosítás költsége) a 2. osztályú tö
 
 Ettől eltérő költség elszámolását – különösen biztonsági szempontból – a Felelős Hatóság egyedileg engedélyezheti, ha az adott projekt sajátosságaira vagy a projektmegvalósítás egyedi körülményeire tekintettel indokolt.
 
-Útiköltségek elszámolása tekintetében a kedvezményezettnek a külön jogszabályokban[^11], közjogi szervezetszabályozó eszközökben[^12] szereplő, valamint saját belső szabályzatában rögzített vonatkozó előírásokra is tekintettel kell lennie.
+Útiköltségek elszámolása tekintetében a kedvezményezettnek a külön jogszabályokban[^38], közjogi szervezetszabályozó eszközökben[^39] szereplő, valamint saját belső szabályzatában rögzített vonatkozó előírásokra is tekintettel kell lennie.
 
 Hivatali vagy saját gépjármű (ideértve a közeli hozzátartozó tulajdonában álló gépjárművet is) használata esetén a megtett kilométerek alapján a tényleges üzemanyag-költség vagy az adóhatóság által közzétett elszámolható üzemanyag-költség és a kilométerenkénti adómentes térítés figyelembevételével számolhatók el. Hivatali vagy saját gépkocsi használata esetén elszámolható a parkolási díj és a kiküldetés időtartamára eső autópálya használati díj.
 
@@ -666,7 +688,7 @@ b) hitelkamat;
 
 c) pénzügyi, finanszírozási tranzakciókon realizált árfolyamveszteség;
 
-d) bírságok és perköltségek[^13];
+d) bírságok és perköltségek[^40];
 
 e) beépített föld vásárlása a projekt összes elszámolható közvetlen költségének 10%-át meghaladó mértékben;
 
@@ -674,7 +696,7 @@ f) beépítetlen földterület vásárlása;
 
 g) személyi költségek keretében a jutalom és a sikerdíj összege;
 
-h) szakképzési hozzájárulás[^14];
+h) szakképzési hozzájárulás[^41];
 
 i) olyan alvállalkozásba adott tevékenységek, amelyek anélkül emelik a végrehajtás költségeit, hogy hozzáadott értékkel rendelkeznének a projekt szempontjából;
 
@@ -760,13 +782,17 @@ Az egyösszegű átalány alapú támogatás kifizetése során nincs lehetősé
 
 Az egyösszegű átalány összegét a Felelős Hatóság az adott pályázati kiírás keretében határozza meg, ez esetben a módszertani megalapozás a Felelős Hatóság felelőssége.
 
-[^5]: Az 1. melléklet a 11/2016. (II. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^6]: Jogszabályi hivatkozások: 513/2014/EU rendelet (BBA rendőri együttműködés) 4. cikke, 515/2014/EU (BBA külső határok és vízumügy) 4. cikke, 516/2014/EU (MMIA) II., III. és IV. fejezete cikkei.
-[^7]: Az Sztv. 26. § (2) és (3) bekezdése.
-[^8]: Az Sztv. 26. § (3) bekezdése alapján.
-[^9]: Sztv. 52–53. §-a alapján.
-[^10]: A 33/1998. (VI. 24.) NM rendelet alapján.
-[^11]: Például: 60/1992. (IV. 1.) Korm. rendelet.
-[^12]: Például: 20/2015. (VII. 31.) BM utasítás.
-[^13]: A polgári perrendtartásról szóló 1952. évi III. törvény 75. § (1) bekezdése szerinti perköltség fogalom alapján, függetlenül attól, hogy bíróság által megítélésre került-e.
-[^14]: a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáró1 szóló 2011. évi CLV. törvény szerinti
+[^28]: Az 1. melléklet a 11/2016. (II. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^29]: Az 1. melléklet 1.3.1. alcíme a 306/2017. (X. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^30]: Jogszabályi hivatkozások: 513/2014/EU rendelet (BBA rendőri együttműködés) 4. cikke, 515/2014/EU (BBA külső határok és vízumügy) 4. cikke, 516/2014/EU (MMIA) II., III. és IV. fejezete cikkei.
+[^31]: Az 1. melléklet 1.3.2. alcím c) pontja a 306/2017. (X. 27.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^32]: Az 1. melléklet 1.3.4. alcíme a 306/2017. (X. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^33]: Az 1. melléklet 1.3.5. alcíme a 306/2017. (X. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^34]: Az Sztv. 26. § (2) és (3) bekezdése.
+[^35]: Az Sztv. 26. § (3) bekezdése alapján.
+[^36]: Sztv. 52–53. §-a alapján.
+[^37]: A 33/1998. (VI. 24.) NM rendelet alapján.
+[^38]: Például: 60/1992. (IV. 1.) Korm. rendelet.
+[^39]: Például: 20/2015. (VII. 31.) BM utasítás.
+[^40]: A polgári perrendtartásról szóló 1952. évi III. törvény 75. § (1) bekezdése szerinti perköltség fogalom alapján, függetlenül attól, hogy bíróság által megítélésre került-e.
+[^41]: a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáró1 szóló 2011. évi CLV. törvény szerinti

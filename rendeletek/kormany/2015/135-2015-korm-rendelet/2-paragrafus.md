@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 20. Belügyi Alapok alcím alá tartozó fejezeti kezelésű előirányzatok felhasználására terjed ki.
+## 1. §[^1] E rendelet hatálya a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználására terjed ki.
 
 ## 2. Értelmező rendelkezések
 
@@ -14,7 +14,7 @@
 
 5. Felelős Személy: a Felelős Hatóság irányítására a miniszter által kijelölt személy;
 
-6. indikátor: jogszabály által meghatározott, eredményt vagy teljesülést mérő számszerűsített mutató;
+6.[^2] indikátor: a 14. pont szerinti Nemzeti Programban meghatározott, eredményt vagy teljesülést mérő számszerűsített mutató;
 
 7. intézkedés: a Belügyi Alapokat létrehozó rendeletekben meghatározott konkrét és nemzeti célkitűzések eléréséhez szükséges tevékenységek;
 
@@ -26,7 +26,7 @@
 
 11. Menekültügyi, Migrációs és Integrációs Alap: a Menekültügyi, Migrációs és Integrációs Alap létrehozásáról, a 2008/381/EK tanácsi határozat módosításáról, valamint az 573/2007/EK és az 575/2007/EK európai parlamenti és tanácsi határozatok és a 2007/435/EK tanácsi határozat hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 2014. április 16-i 516/2014/EU rendeletével létrehozott alap;
 
-12. monitoring és információs rendszer: a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet szerinti Fejlesztéspolitikai Adatbázis és Informatikai Rendszer;
+12.[^3] monitoring és információs rendszer: a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet szerinti Fejlesztéspolitikai Adatbázis és Informatikai Információs Rendszer, valamint a Támogatási Szerződés megkötésétől a Belügyi Alapok információs rendszere;
 
 13. munkaprogram: a Nemzeti Programok lebonyolítása érdekében a rendelkezésre álló források felhasználásának ütemezését, valamint a közvetlen kijelölésű projektek megjelölését tartalmazó dokumentum;
 
@@ -35,3 +35,7 @@
 15. szabálytalanság: az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. december 18-i 2988/95/EK, EURATOM rendelet 1. cikk (2) bekezdésében foglaltak, továbbá a jogszabályok előírásainak, a támogatási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen az Európai Unió vagy Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek;
 
 16. szabálytalansági gyanú: bármilyen adat vagy információ, amely szabálytalanság elkövetésére utal.
+
+[^1]: Az 1. § a 306/2017. (X. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 6. pontja a 306/2017. (X. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 12. pontja a 306/2017. (X. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
