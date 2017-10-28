@@ -7,11 +7,3 @@ a) a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/8
 b) a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendeletben hivatkozott formanyomtatványok kiállításáról szóló 2017. június 12-i (EU) 2017/1105 bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
