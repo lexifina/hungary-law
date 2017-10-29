@@ -1,0 +1,83 @@
+## 5. Az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményei, auditálásának módja, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtása
+
+15. § (1) A kockázatértékelésre kötelezett szolgáltató akkor alkalmazhat működése során ügyfél-azonosítást távollévő ügyfeleknél, ha működtet olyan előzetesen auditált, elektronikus hírközlő eszközt (valós idejű kép- és hangátviteli rendszer), mely akkor auditálható és működtethető, ha legalább az alábbi informatikai biztonsági követelményeknek megfelel:
+
+a) elemei azonosíthatók és dokumentáltak,
+
+b) üzemeltetési folyamatai szabályozottak, dokumentáltak és az üzemeltetési szabályzat szerinti gyakorisággal ellenőrzöttek,
+
+c) változáskezelési folyamatai biztosítják, hogy a rendszer paraméterezésében és a szoftverkódban bekövetkező változások csak tesztelt és dokumentált módon valósulhassanak meg,
+
+d) adatmentési és visszaállítási rendje biztosítja a rendszer biztonságos visszaállítását, továbbá a mentés-visszaállítás az üzemeltetési szabályzat szerinti gyakorisággal és dokumentáltan tesztelt,
+
+e) a felhasználói hozzáférés mind alkalmazási, mind infrastruktúraszinten szabályozott, dokumentált és az üzemeltetési szabályzat szerinti gyakorisággal ellenőrzött,
+
+f) a felállított végfelhasználói hozzáférések egységes, zárt rendszert alkotnak, biztosítják az azonosítási folyamat megvalósulását, továbbá felhasználóinak tevékenysége naplózott, a rendkívüli eseményekről automatikus figyelmeztetések generálódnak,
+
+g) a hozzáférést biztosító kiemelt jogosultságok szabályozottak, dokumentáltak és az üzemeltetési szabályzat szerinti gyakorisággal ellenőrzöttek, a kiemelt jogosultságokkal elvégzett tevékenység naplózott, a napló fájlok sérthetetlensége biztosított, és a kritikus rendkívüli eseményekről automatikus figyelmeztetések generálódnak,
+
+h) a távoli hozzáférés szabályozott, dokumentált és az üzemeltetési szabályzat szerinti gyakorisággal ellenőrzött,
+
+i) a vírusok és más rosszindulatú kódok és cselekmények elleni védelem biztosított,
+
+j) adatkommunikációja és rendszerkapcsolatai dokumentáltak és ellenőrzöttek, az adatkommunikáció bizalmassága, sérthetetlensége és hitelessége biztosított,
+
+k) a katasztrófa-helyreállítási terv rendszeresen tesztelt,
+
+l) karbantartása szabályozott,
+
+m) adathordozóinak védelme szabályozott, biztosított, hogy az adathordozókhoz csak az arra jogosult személyek és csak az adatkezelési cél teljesülése érdekében férnek hozzá, ennek felülvizsgálata és ellenőrzése rendszeresen megtörténik,
+
+n) saját kontrolljai és az üzemeltetési szabályzat gondoskodnak a rendszerelemek és a kezelt információk sértetlenségéről és védelméről,
+
+o) biztosított a megfelelő szintű fizikai védelem, az elkülönített környezet és az egyes biztonsági események detektálása.
+
+(2) A szolgáltató az auditált elektronikus hírközlő eszköz vonatkozásában gondoskodik arról, hogy
+
+a) az ügyféllel felépített elektronikus átviteli csatornán keresztül folyó távadatátvitel megfelelően biztonságos, titkosított, bizalmas, sértetlen és hiteles legyen,
+
+b) az ügyfél megkapja a szolgáltatás igénybevételének feltételeiről való tájékoztatását, beleértve a szolgáltatás biztonságára vonatkozó ügyféloldali felelősséget is,
+
+c) a szolgáltató oldali azonosításban csak a szükséges mértékben és csak olyan személy vegyen részt, aki a valós idejű ügyfél-azonosítás végrehajtásához szükséges jogi, technikai és biztonsági oktatásban részesült,
+
+d) az elektronikus hírközlő eszközre, és az ügyfél-átvilágítási folyamatra vonatkozó olyan vizsgálati jelentéssel rendelkezzen, amely igazolja, hogy ezek informatikai védelme a biztonsági kockázatokkal arányos, és megfelel különösen az (1) bekezdésben foglalt követelményeknek,
+
+e) a jogi szabályozás, az alkalmazott technológiában vagy az üzleti folyamatban történt releváns, a működésre kiható változás esetén, de legalább kétévente, a vizsgálati jelentést megújítsa,
+
+f) a d) pontban meghatározott vizsgálati jelentést olyan, az Európai Gazdasági Térség valamely tagállamában bejegyzett szervezet állítsa ki, amely szervezetnél a vizsgálatban igazolhatóan részt vevő személy rendelkezik legalább
+
+fa) az Information Systems Audit and Control Association (ISACA) által kiadott Certified Information Systems Auditor (CISA),
+
+fb) az Information Systems Audit and Control Association (ISACA) által kiadott Certified Information Security Manager (CISM),
+
+fc) az International Information Systems Security Certification Consortium Inc. által kiadott Certified Information Systems Security Professional (CISSP) vagy
+
+fd) az Információbiztonsági irányítási rendszerekre vonatkozó ISO/IEC 27001 Vezető Auditor (Lead Auditor)
+
+## képesítéssel és minősítéssel,
+
+g) az ügyfél kérésére az ügyfél számára lehetővé tegye az ügyfél-átvilágítással kapcsolatos adatoknak az adatkezelés céljának megfelelő ideig történő tartós tárolását, és a tárolt adatok változatlan formában és tartalommal történő megjelenítését.
+
+(3) A szolgáltató foglalkoztatottja az auditált elektronikus hírközlő eszköz útján végzett valós idejű ügyfél-átvilágítást (a továbbiakban: valós idejű ügyfél-átvilágítás) egy erre a célra elkülönített és felszerelt helyiségben végzi.
+
+(4) A szolgáltató visszakereshető módon rögzíti
+
+a) a helyiségbe belépő személyt,
+
+b) a helyiségből kilépő személyt, valamint
+
+c) a be- és kilépés időpontját.
+
+(5) A valós idejű ügyfél-átvilágítást csak a szolgáltató olyan foglalkoztatottja végezheti, akinek a szolgáltató előzőleg e tevékenység ellátására képzést szervezett, és aki azt követően eredményes vizsgát tett.
+
+(6) A szolgáltató az auditált elektronikus hírközlő eszköz vonatkozásában biztosítja az ügyfél átvilágítására vonatkozó biztonságos feltételeket, amennyiben
+
+a) az ügyfél a valós idejű ügyfél-átvilágítás feltételeit részletesen megismerte, és ahhoz kifejezetten hozzájárult,
+
+b) a valós idejű ügyfél-átvilágítás legalább kétfaktoros – amelyek közül egyik kép- és hangátvitelt lehetővé tevő elektronikus hírközlő eszköz –, és a faktorai legalább két eltérő technológián alapulnak,
+
+c) a valós idejű kép- és hangátvitelt lehetővé tévő elektronikus hírközlő eszköz képfelbontása, és a kép megvilágítása alkalmas az ügyfél nemének, korának, arcjellemzőinek felismerésére és az ügyfél által bemutatott fényképes azonosító okmánnyal való összevetésre, az okmányban foglalt adatok és a bemutatott okmány biztonsági elemeinek azonosítására,
+
+d) az ügyfél-átvilágítási folyamat szabályozott és folyamatosan ellenőrzött, valamint
+
+e) az átvilágítás megfelelőségét további, második szintű ellenőrzés követi a szolgáltatón belül.

@@ -1,0 +1,5 @@
+## 2. A belső ellenőrző és információs rendszer működtetése
+
+3. § (1) Az ügyfél-azonosítási kötelezettség végrehajtása érdekében a Pmt. 14. § (4) bekezdése értelmében a háromszázezer forintot elérő vagy meghaladó összegű, valamint a hárommillió-hatszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor rögzített adatok kezelése során úgy kell eljárni, hogy azok a további azonosítás során a nemesfémmel kereskedő ügyfél-átvilágításban közreműködő vezető tisztségviselője, foglalkoztatottja vagy segítő családtagja (a továbbiakban együtt: foglalkoztatott) részére elérhetőek legyenek.
+
+(2) Az ügyfél-azonosítási kötelezettség végrehajtása érdekében a Pmt. 14. § (4) bekezdése értelmében háromszázezer forintot elérő vagy meghaladó összegű, valamint a kettőmillió-ötszázezer forintot elérő vagy meghaladó összegű készpénzes ügyleti megbízás teljesítésekor rögzített adatok kezelése során úgy kell eljárni, hogy azok a további azonosítás során az árukereskedő ügyfél-átvilágításban közreműködő foglalkoztatottja részére elérhetőek legyenek.

@@ -1,0 +1,1 @@
+## 6. § A belső szabályzatban a szolgáltató meghatározza, hogy a kijelölt vezető a Pmt.-ben meghatározott kötelezettségek teljesítése vonatkozásában az ellenőrzéseket milyen rendszerességgel hajtja végre, azokat hogyan dokumentálja, mulasztás vagy szabályszegés esetén milyen intézkedéseket alkalmaz.
