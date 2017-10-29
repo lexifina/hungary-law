@@ -1,1 +1,0 @@
-## „12. monitoring és információs rendszer: a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet szerinti Fejlesztéspolitikai Adatbázis és Informatikai Információs Rendszer, valamint a Támogatási Szerződés megkötésétől a Belügyi Alapok információs rendszere;”

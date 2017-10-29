@@ -1,1 +1,0 @@
-## „(11) Ha a jogorvoslati kérelem elbírálásához valamely hatóság előzetes döntése szükséges, a jogorvoslati eljárást mindaddig fel kell függeszteni, amíg a hatáskörrel rendelkező hatóság döntést nem hoz. A felfüggesztés időtartama az elintézési határidőbe nem számít be.”
