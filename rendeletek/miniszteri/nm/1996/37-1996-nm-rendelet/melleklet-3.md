@@ -162,7 +162,7 @@
 
 ## – gyógymedence esetén a medence töltésére használt elismert ásványvíz, gyógyvíz gyógyászati szempontból értékes, biológiailag aktív alkotórészeit a fertőtlenítés nem károsítja, továbbá
 
-## – a fertőtlenítéshez a megyei kormányhivatal hozzájárult.
+## – a fertőtlenítéshez a járási hivatal hozzájárult.
 
 ## A víz összetételét meg nem változtató, fertőtlenítés célját szolgáló beavatkozás (pl. UV-besugárzás) megengedett.
 
@@ -308,7 +308,7 @@
 [^33]: Az 1. számú melléklet IV. pontjának eredeti 3. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 4. alpontra változtatta.
 [^34]: Az 1. számú melléklet IV. pontjának eredeti 3. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 5. alpontra változtatta.
 [^35]: Az 1. számú melléklet IV. pontjának eredeti 4. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 6. alpontra változtatta.
-[^36]: Az 1. számú melléklet IV. pontjának eredeti 5. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 7. alpontra változtatta. A 7. pont a 23/2015. (IV. 28.) EMMI rendelet 7. § g) pontja szerint módosított szöveg.
+[^36]: Az 1. számú melléklet IV. pontjának eredeti 5. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 7. alpontra változtatta. Az 1. számú melléklet IV. pont 7. alpontja a 28/2017. (X. 25.) EMMI rendelet 2. §-a szerint módosított szöveg.
 [^37]: Az 1. számú melléklet IV. pontjának eredeti 6. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 8. alpontra változtatta.
 [^38]: Az 1. számú melléklet IV. pontjának eredeti 7. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 9. alpontra változtatta.
 [^39]: Az 1. számú melléklet IV. pontjának eredeti 8. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 10. alpontra változtatta.
