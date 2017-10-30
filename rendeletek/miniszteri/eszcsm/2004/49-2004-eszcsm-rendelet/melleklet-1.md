@@ -1,6 +1,6 @@
-## 9. §[^24] A területi védőnői ellátásról szóló 49/2004. (V. 21.) ESZCSM rendelet módosításáról szóló 28/2013. (IV. 5.) EMMI rendelettel megállapított 4. § (3) bekezdése szerinti képzés elvégzését 2018. december 31-éig kell igazolni.
+## 11. §[^29] 2017. április 1-jét követően is jogosult az a védőnő a 3. § a) pont ad) alpontja szerinti tevékenység végzésére, aki igazolja, hogy az e tevékenység elsajátítására irányuló, az Országos Tisztifőrvosi Hivatal által szervezett, legalább 40 órás időtartamú választható képzést elvégezte.
 
-1. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^25]
+1. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^30]
 
-[^24]: A 9. §-t a 9/2015. (II. 10.) EMMI rendelet 4. §-a iktatta be.
-[^25]: Az 1. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^29]: A 11. §-t a 28/2017. (X. 25.) EMMI rendelet 24. §-a iktatta be.
+[^30]: Az 1. számú mellékletet a 28/2017. (X. 25.) EMMI rendelet 27. §-a hatályon kívül helyezte.

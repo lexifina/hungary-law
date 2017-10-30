@@ -1,4 +1,4 @@
-## 3/A. §[^15] Fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál dolgozó védőnő feladata:
+## 3/A. §[^18] Fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál dolgozó védőnő feladata:
 
 a) közreműködés
 
@@ -20,7 +20,7 @@ d) nyilvántartás vezetése a szült anyákról, újszülöttekről a vonatkoz�
 
 e) adatok gyűjtése és szolgáltatása a területi védőnői szolgálat részére, a gyermekágyas anya és az újszülött ellátásával kapcsolatos adatok rögzítése a vonatkozó szakmai eljárásrendnek megfelelően,
 
-f)[^16] az anya, illetve az újszülött érkezési helye szerinti területileg illetékes védőnő, valamint – az anya nyilatkozata alapján – a választott házi gyermekorvos vagy háziorvos értesítése a születésekről, illetve a gyógyintézetből való távozásokról.
+f)[^19] az anya, illetve az újszülött érkezési helye szerinti területileg illetékes védőnő, valamint – az anya nyilatkozata alapján – a választott házi gyermekorvos vagy háziorvos értesítése a születésekről, illetve a gyógyintézetből való távozásokról.
 
-[^15]: A 3/A. §-t a 11/2014. (II. 24.) EMMI rendelet 40. §-a iktatta be.
-[^16]: A 3/A. § f) pontja a 9/2015. (II. 10.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^18]: A 3/A. §-t a 11/2014. (II. 24.) EMMI rendelet 40. §-a iktatta be.
+[^19]: A 3/A. § f) pontja a 9/2015. (II. 10.) EMMI rendelet 3. §-ával megállapított szöveg.
