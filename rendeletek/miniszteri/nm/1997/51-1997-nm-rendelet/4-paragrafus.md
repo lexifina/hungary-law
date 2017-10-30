@@ -2,7 +2,7 @@
 
 a)[^12] a háziorvosi szolgálat feladatkörébe tartozik minden olyan szűrővizsgálat elvégzése, amelyre e rendelet nem jelöl ki más egészségügyi szolgáltatót, valamint e rendelet 3. számú mellékletében foglalt szűrővizsgálatokban való közreműködés,
 
-b)[^13] a lakóhely szerint illetékes területi védőnő feladatkörébe tartozik – figyelemmel a területi védőnői ellátásról szóló külön jogszabályra – az 1. számú melléklet 2. pont e)–g), 3. pont d)–h) alpontjában foglalt szűrővizsgálatok elvégzése, továbbá az iskolai védőnő feladatkörébe tartozik a 4. pont d)–i) alpontjában foglalt szűrővizsgálatok elvégzése,
+b)[^13] a lakóhely szerint illetékes területi védőnő feladatkörébe tartozik az 1. számú melléklet 2. pont e)–h) alpontjában, valamint 3. pont d)–h) és j) alpontjában, továbbá a tanköteles korú, de oktatási intézménybe nem járó 7–16 éves gyermekek esetén az 1. számú melléklet 4. pont d)–i) alpontjában foglalt szűrővizsgálatok elvégzése, az iskolai védőnő feladatkörébe tartozik az 1. számú melléklet 4. pont d)–i) alpontjában foglalt szűrővizsgálatok elvégzése, az egészségügyi szakmai irányelvek és az országos tisztifőorvos módszertani ajánlásai alapján,
 
 c)[^14] a tankötelezettség fennállása alatt az iskola-egészségügyi szolgálat a szűrővizsgálatok elvégzésében az e rendeletben és az iskola-egészségügyi ellátásról szóló külön jogszabályban foglaltak szerint vesz részt,
 
@@ -27,7 +27,7 @@ h)[^22] a 2. számú melléklet 1. i), 2. d), 3. e) és 4. d) pontjában foglalt
 i)[^23] a mellkas-szűrővizsgálat (tüdőszűrés) végzése a területileg illetékes tüdőszűrő állomások, valamint a területi mozgó szakorvosi szolgálat feladatkörébe tartozik.
 
 [^12]: A 4. § a) pontja a 40/2003. (VII. 16.) ESZCSM rendelet 2. §-ának (1) bekezdése, a 19/2009. (VI. 18.) EüM rendelet 13. § (5) bekezdésének c) pontja szerint módosított szöveg.
-[^13]: A 4. § b) pontja a 19/2009. (VI. 18.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^13]: A 4. § b) pontja a 28/2017. (X. 25.) EMMI rendelet 3. §-ával megállapított szöveg.
 [^14]: A 4. § c) pontja a 19/2009. (VI. 18.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^15]: A 4. § új d) pontját a 19/2009. (VI. 18.) EüM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti d) pont megjelölését f) pontra változtatva.
 [^16]: A 4. § új e) pontját a 19/2009. (VI. 18.) EüM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti e) pont megjelölését g) pontra változtatta. A 4. § e) pontja a 19/2010. (IV. 22.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.

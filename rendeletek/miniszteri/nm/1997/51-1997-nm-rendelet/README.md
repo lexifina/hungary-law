@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-51-20-3
 | 2015-04-29 | 1997-51-20-3D.15 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2015-09-01 | 1997-51-20-3D.16 | 16/2015. (III. 30.) EMMI rendelet |
 | 2015-10-01 | 1997-51-20-3D.17 | 9/2015. (II. 10.) EMMI rendelet |
+| 2017-10-30 | 1997-51-20-3D.18 | 28/2017. (X. 25.) EMMI rendelet |

@@ -12,7 +12,7 @@
 
 ## e) érzékszervek működésének vizsgálata:
 
-## ea)[^35] hallás objektív vizsgálata,
+## ea)[^36] hallás objektív vizsgálata,
 
 ## eb) látás vizsgálata,
 
@@ -24,7 +24,7 @@
 
 ## újszülöttkori szűrése.
 
-## 2. 1, 3 és 6 hónapos életkorban:
+## 2.[^37] Újszülött hazaadását követő első vizsgálat esetén, valamint 1, 2, 3, 4, 6 és 9 hónapos életkorban:
 
 ## a) teljes fizikális vizsgálat, különös tekintettel a fejlődési rendellenességek szűrésére,
 
@@ -34,13 +34,15 @@
 
 ## d) rejtettheréjűség vizsgálata,
 
-## e) a pszichomotoros és mentális fejlődés vizsgálata,
+## e) adaptáció, gondolkodás, preverbalis képességek, kommunikáció, szocializáció, testi fejlődés és motoros képességek (nagymozgások, finommozgások/manipuláció) vizsgálata,
 
-## f) érzékszervek működésének vizsgálata (látás, kancsalság, hallás),
+## f) érzékszervek, érzékelés, észlelés vizsgálata (látás, hallás),
 
-## g) testhossz, testtömeg, fejkörfogat mérése, a fejlődés és tápláltsági állapot értékelése a hazai standardok alapján.
+## g) testhossz, testtömeg, fejkörfogat mérése, a fejlődés és tápláltsági állapot értékelése a hazai standardok alapján,
 
-## 3. 1 éves életkorban és 6 éves életkorig évente
+## h) rizikószűrés a hazaadást követően 1 hónapon belül és az életkörülményekben történő egészségi, környezeti változás esetén.
+
+## 3.[^38] 12 hónapos, szükség esetén 15 hónapos, 18 hónapos, 2 éves, szükség esetén 2,5 éves, 3 éves életkorban és ezt követően 6 éves életkorig évente:
 
 ## a) teljes fizikális vizsgálat,
 
@@ -50,17 +52,19 @@
 
 ## d) testmagasság, testtömeg (fejkörfogat szükség szerinti mérése), a fejlődés és tápláltsági állapot értékelése hazai standardok alapján,
 
-## e) a pszichés, motoros, mentális, szociális fejlődés és magatartásproblémák feltárása,
+## e) adaptáció, gondolkodás, preverbalis képességek, kommunikáció, szocializáció, testi fejlődés és motoros képességek (nagymozgások, finommozgások/manipuláció) vizsgálata,
 
-## f) érzékszervek működésének vizsgálata a szakmai irányelveknek megfelelően és a beszédfejlődés vizsgálata,
+## f) érzékszervek, érzékelés, észlelés vizsgálata (látás, hallás),
 
 ## g) mozgásszervek vizsgálata: különös tekintettel a lábstatikai problémákra és a gerinc rendellenességeire (tartáshiba, scoliosis),
 
 ## h) vérnyomás mérése 3–6 éves életkor között,
 
-## i) korai fogászati szűrés és gondozás.
+## i) korai fogászati szűrés és gondozás,
 
-## 4. 6–18 év között kétévente[^36]:
+## j) rizikószűrés az életkörülményekben történő egészségi, környezeti változás esetén.
+
+## 4. 6–18 év között kétévente[^39]:
 
 ## a) teljes fizikális vizsgálat,
 
@@ -68,7 +72,7 @@
 
 ## c) az anamnézis alapján veszélyeztetett gyerekek kiszűrése, szükség esetén szakorvosi vizsgálatra irányítása,
 
-## d)[^37] pajzsmirigy tapintásos vizsgálata 4. évfolyamtól,
+## d)[^40] pajzsmirigy tapintásos vizsgálata 4. évfolyamtól,
 
 ## e) a testmagasság, testtömeg, a testi fejlettség és tápláltsági állapot hazai standardok szerinti értékelése, a nemi fejlődés értékelése,
 
@@ -76,7 +80,7 @@
 
 ## g) érzékszervek működésének vizsgálata a szakmai irányelveknek megfelelően, a színlátás vizsgálata,
 
-## h)[^38] mozgásszervek vizsgálata: különös tekintettel a lábstatikai problémákra és a gerinc-rendellenességekre,
+## h)[^41] mozgásszervek vizsgálata: különös tekintettel a lábstatikai problémákra és a gerinc-rendellenességekre,
 
 ## i) vérnyomásmérés,
 
@@ -100,15 +104,17 @@
 
 ## h) vérnyomásmérés,
 
-## i)[^39] pajzsmirigy tapintásos vizsgálata.
+## i)[^42] pajzsmirigy tapintásos vizsgálata.
 
 ## A családi anamnézis, a teljes körű fizikális vizsgálat eredményei alapján, amennyiben a szakorvos indokoltnak tartja, célzott vizsgálatok végzése szükséges.
 
-2. számú melléklet az 51/1997. (XII. 18.) NM rendelethez[^40]
+2. számú melléklet az 51/1997. (XII. 18.) NM rendelethez[^43]
 
-[^35]: Az 1. számú melléklet 1. pont e) pont ea) alpontja a 16/2015. (III. 30.) EMMI rendelet 8. §-a szerint módosított szöveg.
-[^36]: Amennyiben a vizsgálat éve egybeesik a 16 éves kori záró állapotvizsgálattal, abban az esetben a két vizsgálatot összevontan kell elvégezni.
-[^37]: Az 1. számú melléklet 4. pont d) alpontja a 19/2010. (IV. 22.) EüM rendelet 3. § (5) bekezdése szerint módosított szöveg.
-[^38]: Az 1. számú melléklet 4. pont h) alpontja a 19/2010. (IV. 22.) EüM rendelet 4. §-a szerint módosított szöveg.
-[^39]: Az 1. számú melléklet 5. pont i) alpontját a 19/2010. (IV. 22.) EüM rendelet 3. § (4) bekezdése iktatta be.
-[^40]: A melléklet eredeti szövege II. fejezetének megjelölését 2. számú mellékletre változtatta a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének b) és d) pontja.
+[^36]: Az 1. számú melléklet 1. pont e) pont ea) alpontja a 16/2015. (III. 30.) EMMI rendelet 8. §-a szerint módosított szöveg.
+[^37]: Az 1. számú melléklet 2. pontja a 28/2017. (X. 25.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^38]: Az 1. számú melléklet 3. pontja a 28/2017. (X. 25.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^39]: Amennyiben a vizsgálat éve egybeesik a 16 éves kori záró állapotvizsgálattal, abban az esetben a két vizsgálatot összevontan kell elvégezni.
+[^40]: Az 1. számú melléklet 4. pont d) alpontja a 19/2010. (IV. 22.) EüM rendelet 3. § (5) bekezdése szerint módosított szöveg.
+[^41]: Az 1. számú melléklet 4. pont h) alpontja a 19/2010. (IV. 22.) EüM rendelet 4. §-a szerint módosított szöveg.
+[^42]: Az 1. számú melléklet 5. pont i) alpontját a 19/2010. (IV. 22.) EüM rendelet 3. § (4) bekezdése iktatta be.
+[^43]: A melléklet eredeti szövege II. fejezetének megjelölését 2. számú mellékletre változtatta a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének b) és d) pontja.
