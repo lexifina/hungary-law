@@ -1,0 +1,3 @@
+## 4. § Az NM r. 4/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A területi védőnő távbeszélő útján, személyesen szóban vagy elektronikus vagy papíralapú levélben írásban értesíti a körzetébe tartozó érintett gyermek törvényes képviselőjét a 4. § b) pontja szerinti védőnői vizsgálat esedékességéről, jelentőségéről, helyszínéről, időpontjáról, továbbá felhívja a gyermek törvényes képviselőjének figyelmét az együttműködési kötelezettségre és a vizsgálat elmulasztásának következményeire. A védőnő közreműködik továbbá a 3. számú mellékletben foglalt szűrővizsgálatokon történő megjelenés szervezésében.”

@@ -1,0 +1,1 @@
+## „gg) a gyermekvédelemmel kapcsolatos tevékenységéről évente írásos tájékoztató készítése az illetékes gyermekjóléti szolgáltató számára, és másolatának megküldése a szakfelügyeletet ellátó vezető védőnő részére,”
