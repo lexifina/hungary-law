@@ -18,7 +18,7 @@ Gyopáros Alpár (Fidesz)
 
 Firtl Mátyás (KDNP)
 
-Hollik István (KDNP)[^2]
+Dunai Mónika (Fidesz)[^2]
 
 dr. Józsa István (MSZP)
 
@@ -498,7 +498,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 
 5.[^102]
 
-[^2]: A 14/2016. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^2]: A 26/2017. (X. 31.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 27/2016. (XI. 8.) OGY határozat 1. pontjával megállapított szöveg.
 [^4]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^5]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
