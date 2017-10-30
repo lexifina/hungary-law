@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-12-20-3
 | 2012-03-30 | 1991-12-20-3D.6 | 19/2012. (III. 28.) NEFMI rendelet |
 | 2013-02-08 | 1991-12-20-3D.7 | 12/2009. (IV. 16.) EüM rendelet |
 | 2015-04-29 | 1991-12-20-3D.8 | 12/2009. (IV. 16.) EüM rendelet |
+| 2017-10-30 | 1991-12-20-3D.9 | 12/2009. (IV. 16.) EüM rendelet |
