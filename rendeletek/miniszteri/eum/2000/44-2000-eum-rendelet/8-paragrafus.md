@@ -42,7 +42,7 @@ i)[^20] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 
 (9)[^28] A mérgezési esetekről az ETTSZ az egészségügyért felelős miniszter részére összesítő jelentést készít.
 
-(10)[^29] A mérgezési esetbejelentések teljesítésének ellenőrzése a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak a feladata.
+(10)[^29] A mérgezési esetbejelentések teljesítését a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) ellenőrzi.
 
 (11) A heveny mérgezési esetek magas szintű, egységes és szakszerű ellátásának biztosítására az egészségügyi miniszter által kijelölt egészségügyi szolgáltatóknál diagnosztikai és terápiás információs egységet kell szervezni. A kijelölt egészségügyi szolgáltató és az ETTSZ között biztosítani kell a folyamatos, azonnali információ-adás lehetőségét.
 
@@ -62,4 +62,4 @@ i)[^20] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 [^26]: A 8. § (8) bekezdését a 14/2013. (II. 15.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
 [^27]: A 8. § (8a) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 39. § (2) bekezdése iktatta be.
 [^28]: A 8. § (9) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 17. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^29]: A 8. § (10) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 29. § g) pontja szerint módosított szöveg.
+[^29]: A 8. § (10) bekezdése a 28/2017. (X. 25.) EMMI rendelet 16. §-ával megállapított szöveg.
