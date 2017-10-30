@@ -1,4 +1,4 @@
-4. § (1)[^13] A betegszállítás a sürgősség igénye szerint lehet
+4. § (1)[^14] A betegszállítás a sürgősség igénye szerint lehet
 
 a) 6 órán belüli,
 
@@ -8,7 +8,7 @@ c) meghatározott időpontra kért, illetve tervezett időpontokban történő i
 
 ## betegszállítás.
 
-(2)[^14] A betegszállítás a kíséret igénye szerint lehet
+(2)[^15] A betegszállítás a kíséret igénye szerint lehet
 
 a) betegkísérő közreműködését igénylő,
 
@@ -16,7 +16,7 @@ b) kíséretet nem igénylő
 
 ## betegszállító gépjárművel teljesítendő betegszállítás.
 
-(3)[^15] A betegszállítás az alkalmazott betegszállító gépjármű szerint lehet
+(3)[^16] A betegszállítás az alkalmazott betegszállító gépjármű szerint lehet
 
 a) mentőkocsival,
 
@@ -32,6 +32,6 @@ a) egyedi,
 
 b) más betegekkel együttes
 
-[^13]: A 4. § (1) bekezdése a 60/2007. (XII. 29.) EüM rendelet 4. §-ával megállapított szöveg.
-[^14]: A 4. § (2) bekezdése a 60/2007. (XII. 29.) EüM rendelet 4. §-ával megállapított szöveg.
-[^15]: A 4. § (3) bekezdése a 60/2007. (XII. 29.) EüM rendelet 4. §-ával megállapított szöveg.
+[^14]: A 4. § (1) bekezdése a 60/2007. (XII. 29.) EüM rendelet 4. §-ával megállapított szöveg.
+[^15]: A 4. § (2) bekezdése a 60/2007. (XII. 29.) EüM rendelet 4. §-ával megállapított szöveg.
+[^16]: A 4. § (3) bekezdése a 60/2007. (XII. 29.) EüM rendelet 4. §-ával megállapított szöveg.

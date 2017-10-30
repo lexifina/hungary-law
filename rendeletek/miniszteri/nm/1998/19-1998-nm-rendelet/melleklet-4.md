@@ -42,6 +42,6 @@
 
 |  | átvevő orvos aláírása és bélyegzője |  |
 
-4. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^54]
+4. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^55]
 
-[^54]: A 4. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (4) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 9. § l) pontja szerint módosított szöveg.
+[^55]: A 4. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (4) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 9. § l) pontja szerint módosított szöveg.
