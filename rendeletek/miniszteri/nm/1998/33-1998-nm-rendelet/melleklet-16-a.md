@@ -1,4 +1,4 @@
-## 0M22222M_0
+## 7K28435M_0
 
 | A foglalkoztathatósági szakvéleményt kiállító foglalkozás-egészségügyi szolgáltató/szakellátó hely neve, címe: ……………………………………………….………………………………………………. Szakvélemény a foglalkoztathatóságról Az ügyfél neve: ………………………………………………………… TAJ száma: ……………………………….. Szül. hely: ……………………………………………………, idő:19 ……….. hó ……..…………………….. nap …… I. Munkavállalási és munkahely-megtartási esélyei egészségkárosodás miatt |
 
@@ -106,17 +106,7 @@
 
 |  | Egyéb (beírandó) |  |  |  |  |  |
 
-| III. A nevezett foglalkoztatható |  |  |
-
-| ideiglenesen nem foglalkoztatható a legközelebbi vizsgálat ………… hét múlva |  |  |
-
-| egészségi állapotának megfelelő munkafeltételeket biztosító munkahelyen foglalkoztatható |  |  |
-
-| nem foglalkoztatható |  |  |
-
-|  | P. H. |  |
-
-|  |  | szakvéleményt kiállító orvos neve és pecsétszáma |  |
+| P. H. ......................................................................................... szakvéleményt kiállító orvos neve és pecsétszáma |
 
 | A megfelelő négyzetbe X-et kell tenni! |  |
 
