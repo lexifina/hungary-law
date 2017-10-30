@@ -80,10 +80,10 @@
 
 ## Az említett dokumentációnak tartalmaznia kell a harmadik országbeli illetékes hatóság(ok) elérhetőségeit is. Azokban az országokban, ahol nem szerezhető be ilyen dokumentáció, más dokumentációt kell benyújtani, például a harmadik országbeli egészségügyi szolgáltató auditjelentéseit.
 
-18. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^166]
+18. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^167]
 
 ## A harmadik országokból szöveteket és sejteket behozni szándékozó importáló szövetbank által az országos tisztifőorvos rendelkezésére bocsátandó, kérelemhez csatolandó dokumentációra vonatkozó követelmények
 
 A. Az importáló szövetbankkal kapcsolatos dokumentáció
 
-[^166]: A 18. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (8) bekezdése iktatta be.
+[^167]: A 18. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (8) bekezdése iktatta be.

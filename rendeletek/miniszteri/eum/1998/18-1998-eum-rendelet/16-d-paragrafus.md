@@ -2,8 +2,9 @@
 
 (2) Az OVSZ egyedi azonosító adásával biztosítja minden adományozás és azzal kapcsolatos szerv és recipiens egyedi azonosíthatóságát, a donor és a recipiens egészségügyi és személyazonosító adatainak védelmére vonatkozó törvényi előírásokkal összhangban. A rendszernek biztosítania kell, hogy ezen adatokhoz ne történhessen jogosulatlan hozzáférés, valamint ezen adatokkal kapcsolatban ne történhessen jogosulatlan adatfelhasználás.
 
-(3) Az OVSZ – az adatvédelemre vonatkozó jogszabályokkal összhangban – biztosítja az élő donorokat tartalmazó listának az arra jogosultak részére történő naprakész elérhetőségét.
+(3)[^63] Az OVSZ működteti a Nemzeti Szervdonációs és Transzplantációs Utánkövetési Regisztert és a szervadományozásra jelentkező élődonorok követését biztosító regisztert, amelybe – az OVSZ eljárásrendje szerint – az ellátást nyújtó egészségügyi szolgáltatók adatokat rögzítenek.
 
 (4) Szerv esetében a nyomonkövethetőséghez szükséges adatokat az OVSZ az adományozást követő 30 évig őrzi meg. Az adatok megőrzése elektronikus formában is történhet.
 
 [^62]: A 16/D. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^63]: A 16/D. § (3) bekezdése a 28/2017. (X. 25.) EMMI rendelet 9. §-ával megállapított szöveg.

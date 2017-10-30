@@ -10,10 +10,10 @@
 
 ## * Ha a szövetbank nem az egységes európai kóddal összeegyeztethető, az 1/A. § 37. pontjában meghatározott rendszert használ, az egyedi adományozási szám adásához a szövetbank egyedi adományozási számot ad, amely a szövet és sejt gyűjtésének időpontjából (év/hónap/nap – nyolc numerikus karakter), továbbá a donor sorszámából áll nullákkal kiegészítve 13 karakterig.
 
-16. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^164]
+16. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^165]
 
 ## A SZÖVETBANKOK UNIÓS GYŰJTEMÉNYÉBEN RÖGZÍTENDŐ ADATOK
 
 A. A szövetbankkal kapcsolatos információk
 
-[^164]: A 16. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (6) bekezdése iktatta be.
+[^165]: A 16. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (6) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 16/L. §[^73] Az Európai Gazdasági Térségről szóló megállapodásban részes tagállamok közötti összeköttetés biztosítására az OVSZ megküldi az Európai Bizottság részére elérhetőségi adatait (szervezet neve, telefonszáma, e-mail címe, faxszáma, postai címe). Az adatok változása esetén erről tájékoztatja az Európai Bizottságot.
+## 16/L. §[^74] Az Európai Gazdasági Térségről szóló megállapodásban részes tagállamok közötti összeköttetés biztosítására az OVSZ megküldi az Európai Bizottság részére elérhetőségi adatait (szervezet neve, telefonszáma, e-mail címe, faxszáma, postai címe). Az adatok változása esetén erről tájékoztatja az Európai Bizottságot.
 
 ## Kórszövettani vizsgálat
 
@@ -12,4 +12,4 @@ c) köröm,
 
 d) élettani szülés esetén a placenta.
 
-[^73]: A 16/L. §-t a 41/2013. (VI. 17.) EMMI rendelet 4. §-a iktatta be.
+[^74]: A 16/L. §-t a 41/2013. (VI. 17.) EMMI rendelet 4. §-a iktatta be.

@@ -1,6 +1,6 @@
-## A szervek nyomonkövethetőségét biztosító adatok[^70]
+## A szervek nyomonkövethetőségét biztosító adatok[^71]
 
-16/J. §[^71] (1) Az OVSZ a szervek nyomonkövethetőségének biztosítására – a 9/a. számú mellékletben foglalt adatokon túlmenően – Magyarországról származó szerv esetén továbbítja a rendeltetési tagállam illetékes hatóságai, illetve felhatalmazással rendelkező szervezetei részére a szerv meghatározására vonatkozó adatokat és a nemzeti donorazonosító számot.
+16/J. §[^72] (1) Az OVSZ a szervek nyomonkövethetőségének biztosítására – a 9/a. számú mellékletben foglalt adatokon túlmenően – Magyarországról származó szerv esetén továbbítja a rendeltetési tagállam illetékes hatóságai, illetve felhatalmazással rendelkező szervezetei részére a szerv meghatározására vonatkozó adatokat és a nemzeti donorazonosító számot.
 
 (2) Az (1) bekezdésben foglalt, a szerv meghatározására vonatkozó adatként egy szerv anatómiai leírását (szerv megnevezését), a szerv testbeli elhelyezkedését, oldaliságát, valamint azt kell meghatározni, hogy teljes szervről, annak egy részéről, illetve a szerv melyik lebenyéről, szegmenséről van szó.
 
@@ -12,5 +12,5 @@ b) az átültetés dátuma,
 
 c) transzplantációs központ neve és elérhetőségi adatai.
 
-[^70]: A 16/J. §-t megelőző alcímet a 41/2013. (VI. 17.) EMMI rendelet 4. §-a iktatta be.
-[^71]: A 16/J. §-t a 41/2013. (VI. 17.) EMMI rendelet 4. §-a iktatta be.
+[^71]: A 16/J. §-t megelőző alcímet a 41/2013. (VI. 17.) EMMI rendelet 4. §-a iktatta be.
+[^72]: A 16/J. §-t a 41/2013. (VI. 17.) EMMI rendelet 4. §-a iktatta be.
