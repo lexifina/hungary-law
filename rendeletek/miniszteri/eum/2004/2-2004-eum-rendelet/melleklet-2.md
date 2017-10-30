@@ -1,4 +1,4 @@
-2. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^23]
+2. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^26]
 
 I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi szakmák és kódjaik jegyzéke
 
@@ -356,6 +356,8 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 5407 | transzplantációs célú szerv-, szöveteltávolítás holttestből |
 
+| 5408 | molekuláris patológia |
+
 55 PET-MRI eljárás
 
 | 5501 | PET-MRI |
@@ -402,7 +404,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 6102 | véradószolgálat |
 
-| 6103 | donor plazmaferezis |
+| 6105 | donor plazmaferezis |
 
 62 Mentés és betegszállítás
 
@@ -432,9 +434,13 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 64 Rend- és honvédelmi alapellátás
 
-| 6401 | rend- és honvédelmi dolgozók ellátása |
+| 6401 | rend- és honvédelmi dolgozók orvosi ellátása |
 
-| 6402 | fogvatartottak ellátása |
+| 6402 | fogvatartottak orvosi ellátása |
+
+| 6403 | rend- és honvédelmi dolgozók pszichológiai ellátása |
+
+| 6404 | fogvatartottak pszichológiai ellátása |
 
 65 Nukleáris medicina (izotópdiagnosztika és terápia)
 
@@ -469,6 +475,8 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 | 7106 | neuropszichológia |
 
 | 7107 | klinikai addiktológiai szakpszichológia |
+
+| 7108 | alkalmazott egészségpszichológiai szakpszichológia |
 
 72 Pedagógiai végzettséggel ellátható egészségügyi szakmák
 
@@ -552,7 +560,7 @@ c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevéken
 
 | 8067 | szemtréning eljárások |
 
-93 Honvédorvostan és katasztrófa-orvostan
+93 Honvédorvostan, katasztrófa-orvostan és rendvédelem orvostan
 
 | 9301 | honvédorvostan |
 
@@ -583,6 +591,14 @@ c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevéken
 | 9505 | igazságügyi kórbonctan (kivéve a szakértői tevékenység) |
 
 | 9506 | igazságügyi genetika |
+
+96 Népegészségügyi célú szűrések
+
+| 9601 | méhnyak szűrés |
+
+| 9602 | mammográfiás szűrés |
+
+| 9603 | vastagbél szűrés |
 
 97 Repülőorvostan
 
@@ -624,4 +640,4 @@ h) 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egé
 
 II. A működési engedélyek kiadásának alapjául szolgáló ellátási formák jegyzéke
 
-[^23]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a, a 44/2016. (XII. 28.) EMMI rendelet 26. §-a szerint módosított szöveg.
+[^26]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a, a 44/2016. (XII. 28.) EMMI rendelet 26. §-a, a 28/2017. (X. 25.) EMMI rendelet 29. §-a szerint módosított szöveg.

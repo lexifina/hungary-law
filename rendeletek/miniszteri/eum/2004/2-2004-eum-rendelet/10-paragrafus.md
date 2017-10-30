@@ -1,11 +1,11 @@
-## 9/A. §[^17]
+## 9/A. §[^20]
 
 10. § (1) E rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^18] Az e rendelet hatálybalépésekor működési engedéllyel és kilencjegyű azonosítóval rendelkező szolgáltatók azonosítója nem változik meg, számukra új azonosítót nem kell kiadni. Amennyiben a szolgáltató e rendelet hatálybalépésekor több kilencjegyű azonosítóval rendelkezik, az engedélyező hatóság határozza meg, hogy a szolgáltató melyik azonosítót használja tovább.
+(2)[^21] Az e rendelet hatálybalépésekor működési engedéllyel és kilencjegyű azonosítóval rendelkező szolgáltatók azonosítója nem változik meg, számukra új azonosítót nem kell kiadni. Amennyiben a szolgáltató e rendelet hatálybalépésekor több kilencjegyű azonosítóval rendelkezik, az engedélyező hatóság határozza meg, hogy a szolgáltató melyik azonosítót használja tovább.
 
-(3)–(5)[^19]
+(3)–(5)[^22]
 
-[^17]: A 9/A. §-t a 6/2012. (II. 14.) NEFMI rendelet 6. §-a iktatta be, hatályon kívül helyezte a 27/2012. (IX. 18.) EMMI rendelet 11. § a) pontja.
-[^18]: A 10. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 47. § (4) bekezdése szerint módosított szöveg.
-[^19]: A 10. § (3)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 140. pontja hatályon kívül helyezte.
+[^20]: A 9/A. §-t a 6/2012. (II. 14.) NEFMI rendelet 6. §-a iktatta be, hatályon kívül helyezte a 27/2012. (IX. 18.) EMMI rendelet 11. § a) pontja.
+[^21]: A 10. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 47. § (4) bekezdése szerint módosított szöveg.
+[^22]: A 10. § (3)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 140. pontja hatályon kívül helyezte.

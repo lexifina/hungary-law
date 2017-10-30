@@ -46,6 +46,6 @@
 
 | E6 | egyéb szolgáltatás | az előzőekbe be nem sorolható ellátások |
 
-3. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^24]
+3. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^27]
 
-[^24]: A 3. számú mellékletet a 6/2012. (II. 14.) NEFMI rendelet 8. § (3) bekezdése iktatta be, hatályon kívül helyezte a 27/2012. (IX. 18.) EMMI rendelet 11. § c) pontja.
+[^27]: A 3. számú mellékletet a 6/2012. (II. 14.) NEFMI rendelet 8. § (3) bekezdése iktatta be, hatályon kívül helyezte a 27/2012. (IX. 18.) EMMI rendelet 11. § c) pontja.
