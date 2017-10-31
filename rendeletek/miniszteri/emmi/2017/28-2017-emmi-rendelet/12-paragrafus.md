@@ -1,3 +1,3 @@
-## 11. §[^1]
+## 11. §[^9]
 
-[^1]: A 11. § a 31. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+[^9]: A 11. § a 31. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-28-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-10-30 | 2017-28-20-5H.1 | 28/2017. (X. 25.) EMMI rendelet |
+| 2017-10-31 | 2017-28-20-5H.2 | 2010: CXXX. törvény |

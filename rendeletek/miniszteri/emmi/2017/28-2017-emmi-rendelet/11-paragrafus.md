@@ -1,5 +1,3 @@
-## 10. § A háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet (a továbbiakban: Hr.) 12. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+## 10. §[^8]
 
-## „(1) A háziorvos feladatköréhez kapcsolódó ápolási feladat önállóan körzeti ápolói szakképesítéssel, vagy klinikai szakápolói (körzeti-közösségi szakápoló) szakképesítéssel, vagy alapellátási közösségi szakápolói szakképesítéssel, vagy ápolói szakképesítéssel (OKJ szám: 55 723 01), vagy gyermekápolói, illetve csecsemő- és gyermekápolói szakképesítéssel (OKJ szám: 55 723 02), vagy ápolói (BSc), vagy ápoló (MSc) szakképesítéssel látható el.
-
-## (2) Olyan személy, aki nem rendelkezik az (1) bekezdés szerinti valamely szakképesítéssel, a háziorvosi szolgálatban akkor alkalmazható, ha felnőtt szakápolói képesítése van, és – a munkavégzésre irányuló szerződésben – kötelezettséget vállal arra, hogy az alapellátási közösségi szakápolói szakképesítést vagy az ápolói szakképesítést (OKJ szám: 54 5012 01) az alkalmazás időpontjától számított 2 éven belül, illetve az ápolói (BSc) szakképesítést az alkalmazás időpontjától számított 4 éven belül megszerzi.”
+[^8]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,7 @@
-## 17. § Az R. 11. §-a helyébe a következő rendelkezés lép:
-
-## „11. § A gyártók, az importálók, a munkáltatók, illetve a tevékenységet végzők felelősségi körébe tartozó, e rendelet szerinti kötelezettségek betartását a járási hivatal ellenőrzi.”
+## 16–17. §[^12]
 
 ## 10. A gyógyintézetek működési rendjéről, illetve szakmai vezető testületéről szóló
 
 ## 43/2003. (VII. 29.) ESZCSM rendelet módosítása
+
+[^12]: A 16–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
