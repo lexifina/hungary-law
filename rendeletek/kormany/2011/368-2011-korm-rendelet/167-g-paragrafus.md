@@ -2,6 +2,6 @@
 
 (2) A törzskönyvi nyilvántartásba vett, kincstári körbe tartozó törzskönyvi jogi személy államháztartási egyedi azonosító számának, a központi költségvetésről szóló törvény szerkezeti rendje szerinti besorolásának nyilvántartásba vétele a miniszter által vezetett nyilvántartásból történő információátadás útján történik.
 
-(3)[^607] A Kincstár a törzskönyvi nyilvántartásba vétellel, illetve az adatmódosítással egyidejűleg a törzskönyvi jogi személy nyilvántartására és azonosítására szolgáló, hat számjegyből álló, annak hatodik számjegyén ellenőrző számmal ellátott egyedi PIR számot és statisztikai számjelet képez, amely tekintetében annak összeállításáról és változásáról a Központi Statisztikai Hivatal részére elektronikus úton adatot szolgáltat.
+(3)[^608] A Kincstár a törzskönyvi nyilvántartásba vétellel, illetve az adatmódosítással egyidejűleg a törzskönyvi jogi személy nyilvántartására és azonosítására szolgáló, hat számjegyből álló, annak hatodik számjegyén ellenőrző számmal ellátott egyedi PIR számot és statisztikai számjelet képez, amely tekintetében annak összeállításáról és változásáról a Központi Statisztikai Hivatal részére elektronikus úton adatot szolgáltat.
 
-[^607]: Az Ávr. 167/G. § (3) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 39. §-a iktatta be.
+[^608]: Az Ávr. 167/G. § (3) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 39. §-a iktatta be.

@@ -1,4 +1,4 @@
-1. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^674]
+1. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^675]
 
 Az irányító szerv, a fejezetet irányító szerv, valamint annak vezetője
 
@@ -34,9 +34,9 @@ g) a Nemzeti Emlékezet Bizottságának Hivatala tekintetében a Nemzeti Emléke
 
 8. a központi költségvetés IX. fejezeténél a Belügyminisztérium és a Kormánynak a Ktfr. 21. §-a szerinti tagja,
 
-9.[^675] a központi költségvetés X. fejezeténél az Igazságügyi Minisztérium és a Kormánynak a Ktfr. 79. §-a szerinti tagja,
+9.[^676] a központi költségvetés X. fejezeténél az Igazságügyi Minisztérium és a Kormánynak a Ktfr. 79. §-a szerinti tagja,
 
-10.[^676] a központi költségvetés XI. fejezeténél – az a)–c) alpontban meghatározott kivétellel – a Miniszterelnökség és a Kormánynak a Ktfr. 4. §-a szerinti tagja,
+10.[^677] a központi költségvetés XI. fejezeténél – az a)–c) alpontban meghatározott kivétellel – a Miniszterelnökség és a Kormánynak a Ktfr. 4. §-a szerinti tagja,
 
 a) a Kormányzati Ellenőrzési Hivatal tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke,
 
@@ -48,9 +48,6 @@ c) a 32. cím, 5. alcím, 01. jogcímcsoport, 01. jogcím tekintetében a Minisz
 
 12. a központi költségvetés XIII. fejezeténél a Honvédelmi Minisztérium és a Kormánynak a Ktfr. 77. §-a szerinti tagja,
 
-13.[^677] a központi költségvetés XIV. fejezeténél a Belügyminisztérium és a Kormánynak a Ktfr. 21. §-a szerinti tagja, a 21. cím 1. alcím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
-
-[^674]: Az Ávr. 1. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 1. pontjával megállapított szöveg.
-[^675]: Az Ávr. 1. melléklet I. pont 9. alpontja a 499/2016. (XII. 28.) Korm. rendelet 23. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^676]: Az Ávr. 1. melléklet I. pont 10. alpontja a 224/2017. (VIII. 11.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^677]: Az Ávr. 1. melléklet I. pont 13. alpontja a 499/2016. (XII. 28.) Korm. rendelet 22. § 27. pontja szerint módosított szöveg.
+[^675]: Az Ávr. 1. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 1. pontjával megállapított szöveg.
+[^676]: Az Ávr. 1. melléklet I. pont 9. alpontja a 499/2016. (XII. 28.) Korm. rendelet 23. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^677]: Az Ávr. 1. melléklet I. pont 10. alpontja a 224/2017. (VIII. 11.) Korm. rendelet 10. §-ával megállapított szöveg.
