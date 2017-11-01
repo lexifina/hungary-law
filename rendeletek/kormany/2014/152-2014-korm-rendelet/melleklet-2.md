@@ -90,7 +90,7 @@
 
 |  | 9 | Nemzeti Egészségbiztosítási Alapkezelő | irányítás |
 
-|  | 10 | Országos Nyugdíjbiztosítási Főigazgatóság | irányítás |
+|  | 10 |  |  |
 
 |  | 11 |  |  |
 
