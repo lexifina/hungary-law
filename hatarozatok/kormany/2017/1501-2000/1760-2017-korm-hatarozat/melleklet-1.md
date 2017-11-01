@@ -6,11 +6,7 @@
 
 ## Határidő: 2017. december 31.
 
-## 3. visszavonja
-
-## a) a Nemzeti Kutatási, Fejlesztési és Innovációs Alap 2017. évi programstratégiájának jóváhagyásáról szóló 1762/2016. (XII. 15.) Korm. határozatot, valamint
-
-## b) a Nemzeti Kutatási, Fejlesztési és Innovációs Alap 2017. évi programstratégiájának jóváhagyásáról szóló 1222/2017. (IV. 25.) Korm. határozatot.
+## 3.[^1]
 
 1. melléklet az 1760/2017. (X. 31.) Korm. határozathoz
 
@@ -63,3 +59,5 @@ A Nemzeti Kutatási, Fejlesztési és Innovációs Alapból 2017. évben meghird
 | 22 | 2017. évi új kötelezettség | 42,04 |  |  |
 
 | 23 | 2017. évi pályázatok keretösszege | 90,21 |  |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
