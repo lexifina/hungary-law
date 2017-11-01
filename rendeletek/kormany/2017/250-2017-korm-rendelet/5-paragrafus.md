@@ -1,0 +1,5 @@
+## 4. § A járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló 134/1999. (VIII. 31.) Korm. rendelet [a továbbiakban: 134/1999. (VIII. 31.) Korm. rendelet] 2. §-a helyébe a következő rendelkezés lép:
+
+## „2. § (1) A támogatás folyósításához szükséges elszámolás alapja az 1. §-ban meghatározott szerződés és az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló rendelet, a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló rendelet vagy az orvosi rehabilitáció céljából társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló rendelet szerint előállított érvényes vény, munkalap (a továbbiakban együtt: vény).
+
+## (2) Az (1) bekezdés alkalmazásában gyógyszert tartalmazó elektronikus vény esetében az elszámolás alapja az Elektronikus Egészségügyi Szolgáltatási Térben kiadottként megjelölt vény.”
