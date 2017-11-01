@@ -1,3 +1,0 @@
-53. § (1) A KAVOSZ Vállalkozásfejlesztési Zrt. által az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló kölcsönnyújtás céljára pénzügyi intézményektől hitelszerződés alapján felvett kölcsöneihez kapcsolódó állami készfizető kezesség állománya 2018. december 31-én nem haladhatja meg az 1000,0 millió forintot.
-
-(2) A KAVOSZ Vállalkozásfejlesztési Zrt. által az autópályák, autóutak és főutak használatáért fizetendő díj fizetését szolgáló hitelszerződés alapján kihelyezett kölcsönökhöz kapcsolódó állami készfizető kezesség állománya 2018. december 31-én nem haladhatja meg a 800,0 millió forintot.
