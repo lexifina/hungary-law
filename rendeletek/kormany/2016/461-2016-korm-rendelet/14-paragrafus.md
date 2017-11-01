@@ -2,10 +2,9 @@
 
 ## 14. § A 256/2013. (VII. 5.) Korm. rendelet
 
-a)[^11]
+a) 2. § (6) bekezdésében a „bekezdésében meghatározott” szövegrész helyébe a „bekezdésében, valamint a 4. mellékletben meghatározott” szöveg,
 
-b)–i)[^12]
+b)–i)[^11]
 
 [^10]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 14. § a) pontja a 16. § (3) bekezdése alapján 2017. november 1-jén lép hatályba.
-[^12]: A 14. § b)–i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 14. § b)–i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
