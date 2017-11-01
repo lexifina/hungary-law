@@ -1,1 +1,0 @@
-## 15. § A személyes meghallgatás során a bírói tanács meggyőződik a pályázónak a bírói hivatás gyakorlásához szükséges felkészültségéről, továbbá értékeli a pályaalkalmassági vizsgálat eredményét és a pályázót a rendelet 1. melléklete 11. pontjában meghatározott maximális pontszám erejéig pontozza. A bírói tanács bármely tagja kérdést intézhet a pályázóhoz.
