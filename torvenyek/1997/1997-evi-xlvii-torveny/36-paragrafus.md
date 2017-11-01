@@ -8,4 +8,4 @@
 
 (3) Az e törvény szerinti törzsadat-nyilvántartásba tartozó nyilvántartásokhoz vagy azok miniszteri rendeletben meghatározott adataihoz 2016. június 1-jéig a nyilvántartás vezetője az EESZT útján is köteles hozzáférést biztosítani, az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvény hatálybalépésekor alkalmazott hozzáférési mód fenntartása mellett.
 
-(4) A 14/A. § szerinti elektronikus vényrendelésről a vényrendelő 2017. március 1-jéig minden esetben elektronikus formában vagy papír alapon igazolást ad ki.
+(4)
