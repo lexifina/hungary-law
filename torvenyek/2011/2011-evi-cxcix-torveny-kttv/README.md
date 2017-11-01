@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-199-00-00
 | 2017-07-05 | 2017. évi XCIV. törvény | 2011-199-00-00.52 |
 | 2017-08-01 | 2016. évi LXXIII. törvény | 2011-199-00-00.53 |
 | 2017-10-20 | 2017. évi CXXIII. törvény | 2011-199-00-00.54 |
+| 2017-11-01 | 2017. évi CXXI. törvény | 2011-199-00-00.55 |
