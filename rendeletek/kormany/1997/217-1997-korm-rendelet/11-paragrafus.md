@@ -4,7 +4,7 @@
 
 11. §[^211] (1)[^212] Az utazási költségtérítés mértéke megegyezik az adott távon menetrend szerint közlekedő közforgalmú közlekedési eszközök igénybevételére megszabott – a helyközi járatokon érvényes, a biztosított által igénybe vehető, a személyszállítási utazási kedvezményekről szóló jogszabályban meghatározott kedvezmény összegével csökkentett legolcsóbb díjtételű menetjegy árával. A hely- és pótjegyek árához, nem jár utazási költségtérítés. A Győr-Sopron-Ebenfurti Vasút magyar vonalán, továbbá a BKV-HÉV vonalain Budapest közigazgatási határain kívül történő utazás esetén jár az utazási támogatás.
 
-(2)[^213] Az utazási támogatás igénybe vehető a (4) bekezdés szerinti utazási utalvánnyal, gépkocsival történő utazás esetén az (5) bekezdésben meghatározottak szerint, illetve a (14) bekezdés szerinti utazási költségtérítési utalvánnyal. Az utazási költségtérítési utalvány az ONYF Központja által rendszeresített olyan szigorú számadású nyomtatvány, amely két pénztári és egy ellenőrző szelvényből áll.
+(2)[^213] Az utazási támogatás igénybe vehető a (4) bekezdés szerinti utazási utalvánnyal, gépkocsival történő utazás esetén az (5) bekezdésben meghatározottak szerint, illetve a (14) bekezdés szerinti utazási költségtérítési utalvánnyal. Az utazási költségtérítési utalvány a Központ által rendszeresített olyan szigorú számadású nyomtatvány, amely két pénztári és egy ellenőrző szelvényből áll.
 
 (3)[^214] Az utazási utalvány kiállítására és a szolgáltatás igénybevételének az utazási utalványon történő igazolására kötelezett
 
@@ -79,7 +79,7 @@ c) szakorvosi vélemény alapján olyan egészségügyi szolgáltatóhoz utazik,
 [^210]: A Vhr. 11. §-át megelőző alcímet a 319/2006. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
 [^211]: A Vhr. 11. §-a a 319/2006. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg. A 4/2007. (I. 22.) Korm. rendelet 12. § (5) bekezdése alapján a rendelkezést a 2007. január 1. napját megelőzően kiállított hitelezett utazási utalványok 2007. március 31-éig használhatók fel. Az egészségügyi szolgáltatók a hitelezett utazási utalvány tömböket kötelesek 2007. január 31-éig annál a megyei egészségbiztosítási pénztárnál leadni, ahol átvették.
 [^212]: A Vhr. 11. § (1) bekezdése a 364/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^213]: A Vhr. 11. § (2) bekezdése a 364/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^213]: A Vhr. 11. § (2) bekezdése a 364/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
 [^214]: A Vhr. 11. § (3) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^215]: A Vhr. 11. § (3) bekezdés c) pontját a 447/2012. (XII. 29.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte, újonnan a 464/2016. (XII. 23.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^216]: A Vhr. 11. § (3) bekezdés g) pontja a 447/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

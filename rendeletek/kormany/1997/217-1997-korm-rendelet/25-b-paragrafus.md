@@ -10,7 +10,7 @@
 
 (6)[^423] A gyermekgondozási támogatást folyósító szerv és az egészségbiztosító külön megállapodás keretén belül elszámol a választás eredményeképpen túlfolyósított és levont összeggel.
 
-(7)[^424] A kifizetőhelyek tekintetében az ONYF Központ, illetve a kormányhivatalok gondoskodnak a gyermekgondozási támogatás és a pénzbeli ellátás közötti különbözet elszámolásáról attól függően, hogy a kifizetőhely a kifizetőhelyi elszámolását mely szervnek köteles benyújtani.
+(7)[^424] A kifizetőhelyek tekintetében a Központ, illetve a kormányhivatalok gondoskodnak a gyermekgondozási támogatás és a pénzbeli ellátás közötti különbözet elszámolásáról attól függően, hogy a kifizetőhely a kifizetőhelyi elszámolását mely szervnek köteles benyújtani.
 
 (8)[^425]
 
@@ -19,6 +19,6 @@
 [^421]: A Vhr. 25/B. §-át a 319/2006. (XII. 23.) Korm. rendelet 15. §-a iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^422]: A Vhr. 25/B. § (1) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^423]: A Vhr. 25/B. § (6) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^424]: A Vhr. 25/B. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés n) pontja, a 20/2017. (II. 2.) Korm. rendelet 2. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^424]: A Vhr. 25/B. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés n) pontja, a 311/2017. (X. 31.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
 [^425]: A Vhr. 25/B. § (8) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 417/2015. (XII. 23.) Korm. rendelet 10. §-a.
 [^426]: A Vhr. 25/B. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
