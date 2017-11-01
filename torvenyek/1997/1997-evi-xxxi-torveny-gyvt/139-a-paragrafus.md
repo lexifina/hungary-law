@@ -10,7 +10,7 @@ b) a fiatalkorú ügyében eljáró bírónak, ügyésznek,
 
 c) a fiatalkorú és a vele együttesen elhelyezett gyermeke ügyében eljáró gyámhatóságnak, és
 
-d) a Kormány által kijelölt szerv részére, a finanszírozásának ellenőrzése céljából.
+d) a kincstár részére, a finanszírozásának ellenőrzése céljából.
 
 (3a) A bíróság vagy az ügyész értesítése alapján a javítóintézet nyilvántartja a sértettnek, illetve a büntetőeljárásról szóló 1998. évi XIX. törvény 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személynek a sértettet érintő bűncselekménnyel összefüggésben, a javítóintézetben ellátott fiatalkorú szabadulásáról vagy szökéséről történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
 

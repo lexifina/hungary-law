@@ -30,7 +30,7 @@ m) a gyermekvédelmi pénzbeli és természetbeni ellátások igénylésének, m
 
 n) a gyámhatóság illetékességére vonatkozó szabályokat,
 
-o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 139. § (2) bekezdés szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését,
+o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 139. § (2) bekezdés szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat,
 
 p) a 15. § (10a) bekezdésében foglalt intézményeknek és fenntartójuknak, valamint a szolgáltatói nyilvántartást vezető szervnek a köznevelés információs rendszerével kapcsolatos feladatait, továbbá a köznevelés információs rendszere adatkezelőjének a 15. § (10a) bekezdés szerinti intézmények nyilvántartásával és hatjegyű köznevelési azonosítójával, valamint az ezen intézményekben pedagógus-munkakörben foglalkoztatottak nyilvántartásával és oktatási azonosító számával kapcsolatos feladatait,
 
@@ -56,7 +56,7 @@ y)
 
 z) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzete megállapítására irányuló eljárás részletes szabályait,
 
-zs) a 137. § (3a) bekezdése szerinti, az Szt. 18/B. §-a alapján vezetett országos nyilvántartásba való adatrögzítés és a nyilvántartásból történő adattörlés részletes szabályait, valamint a pénzbeli és természetbeni szociális és gyermekvédelmi ellátások országos nyilvántartását vezető szerv kijelölését.
+zs) a 137. § (3a) bekezdése szerinti, az Szt. 18/B. §-a alapján vezetett országos nyilvántartásba való adatrögzítés és a nyilvántartásból történő adattörlés részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
