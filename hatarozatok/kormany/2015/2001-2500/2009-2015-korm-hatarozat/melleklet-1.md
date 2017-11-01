@@ -128,7 +128,7 @@
 
 1.57.[^13] Nemzeti Egészségbiztosítási Alapkezelő,
 
-1.58. Országos Nyugdíjbiztosítási Főigazgatóság,
+1.58.[^14]
 
 1.59. Oktatási Hivatal,
 
@@ -142,7 +142,7 @@
 
 1.64. Nemzeti Földalapkezelő Szervezet,
 
-1.65.[^14]
+1.65.[^15]
 
 1.66. Európai Támogatásokat Auditáló Főigazgatóság,
 
@@ -285,4 +285,5 @@
 [^11]: Az 1. melléklet 1. pont 1.53. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont h) alpontja hatályon kívül helyezte.
 [^12]: Az 1. melléklet 1. pont 1.55. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont c) alpontjával megállapított szöveg.
 [^13]: Az 1. melléklet 1. pont 1.57. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont d) alpontjával megállapított szöveg.
-[^14]: Az 1. melléklet 1. pont 1.65. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont i) alpontja hatályon kívül helyezte.
+[^14]: Az 1. melléklet 1. pont 1.58. alpontját az 1757/2017. (X. 31.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^15]: Az 1. melléklet 1. pont 1.65. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont i) alpontja hatályon kívül helyezte.
