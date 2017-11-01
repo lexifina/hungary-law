@@ -1,0 +1,1 @@
+64. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 23. § (7) bekezdése szerinti deviza-illetményalap összege 2018. évben 425 000 forint, a 25. § (4) bekezdése szerinti lakhatási és vegyes költségtérítés-alap 300 000 forint, az óvodáztatási és iskoláztatási költségtérítés-alap 150 000 forint.
