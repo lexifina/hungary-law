@@ -8,7 +8,9 @@ b) a 13. §-ban meghatározott, törzsadat közzétételére vonatkozó kötelez
 
 c) a 19. §-ban meghatározott, az EESZT útján nyilvántartott egészségügyi dokumentumokra vonatkozó adatszolgáltatási kötelezettségét,
 
-d) a 20. §-ban meghatározott, jelentéstételi és adatszolgáltatási kötelezettségét
+d) a 20. §-ban meghatározott, jelentéstételi és adatszolgáltatási kötelezettségét,
+
+e)[^4] a 20/A. §-ban meghatározott adatszolgáltatást
 
 ## kell az üzemszünet esetén annak végét, üzemvar esetén annak tényleges megszűnését követő négy napon belül teljesítenie.
 
@@ -21,3 +23,5 @@ a) a hiba tényét annak észlelését követően azonnal jelzi a működtető f
 b) huszonnégy órát meghaladó hibajavítás esetén a hibaelhárítást követően az elhárítás megtörténtét jelzi a működtető felé, és
 
 c) az elmulasztott adatszolgáltatást az (1) bekezdés szerint teljesíti.
+
+[^4]: A 10. § (1) bekezdés e) pontját a 29/2017. (X. 31.) EMMI rendelet 23. §-a iktatta be.

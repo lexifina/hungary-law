@@ -14,9 +14,9 @@
 
 | 5 | az Eütv. 89. és 90. §-a szerinti járóbeteg-szakellátás befejezése | – az ellátás megkezdésekor létrehozott esemény-katalógus bejegyzés azonosítója – továbbküldés | 1 óra |
 
-| 6 | az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény szerinti háziorvosi, házi gyermekorvosi ellátás és a fogorvosi alapellátás megkezdése | – ellátott személy azonosító típusa és értéke (TAJ) – az ellátás típusa – az ellátás helye – az ellátás oka – térítési kategória – a szolgáltatási egység kódja (háziorvosi szolgálat esetén az országos nyilvántartási szám) – a beteg kezelőorvosának azonosítója – az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója | 1 óra |
+| 6 | az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény szerinti háziorvosi, házi gyermekorvosi ellátás megkezdése | – ellátott személy azonosító típusa és értéke (TAJ) – az ellátás típusa – az ellátás helye – az ellátás oka – térítési kategória – a szolgáltatási egység kódja (háziorvosi szolgálat esetén az országos nyilvántartási szám) – a beteg kezelőorvosának azonosítója – az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója | 1 óra |
 
-| 7 | az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény szerinti háziorvosi, házi gyermekorvosi ellátás és a fogorvosi alapellátás befejezése | – az ellátás megkezdésekor létrehozott esemény-katalógus bejegyzés azonosítója – továbbküldés | 1 óra |
+| 7 | az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény szerinti háziorvosi, házi gyermekorvosi ellátás befejezése | – az ellátás megkezdésekor létrehozott esemény-katalógus bejegyzés azonosítója – továbbküldés | 1 óra |
 
 | 8 | CT és MR vizsgálat megkezdése | – azon ellátás esemény-katalógus bejegyzés azonosítója, amelynek keretében a vizsgálat elvégzésre került – ellátott személy azonosító típusa és értéke (TAJ) – beutaló (megrendelő) orvos – beutaló (megrendelő) orvos munkahelye – finanszírozás típusa – naplósorszám – beutaló/iránydiagnózis – az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja – az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója – vizsgálat típusa | 1 óra |
 
