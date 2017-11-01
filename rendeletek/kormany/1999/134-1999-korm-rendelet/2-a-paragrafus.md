@@ -1,7 +1,7 @@
-## 2/A. §[^7] A gyógyszertár jelenti a NEAK felé
+## 2/A. §[^5] A gyógyszertár jelenti a NEAK felé
 
-a) a javaslatot adó szakorvos pecsétszámát és a javaslat keltét, amennyiben a gyógyszert külön jogszabály szerint indikációhoz kötött emelt, kiemelt támogatással szakorvosi javaslatra rendelték,
+a) papíralapú vény esetén a javaslatot adó szakorvos pecsétszámát, elektronikus vény esetén az alapnyilvántartási számát, valamint a javaslat keltét, ha a gyógyszert jogszabály szerint indikációhoz kötött emelt, kiemelt támogatással szakorvosi javaslatra rendelték,
 
-b) hogy a vény melyik minősített számítógépes programmal került nyomtatásra.
+b) hogy a vény melyik minősített számítógépes programmal került előállításra.
 
-[^7]: A 2/A. §-t újonnan a 347/2009. (XII. 30.) Korm. rendelet 3. §-a iktatta be, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 2/A. §-t újonnan a 347/2009. (XII. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 5. §-ával megállapított szöveg.

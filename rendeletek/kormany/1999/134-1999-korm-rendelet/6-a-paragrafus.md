@@ -1,6 +1,6 @@
-## 6. §[^28] A Magyar Államkincstár legkésőbb a NEAK támogatás átutalására vonatkozó megbízása átvételét követő napon teljesíti a Giro-rendszer felé.
+## 6. §[^27] A Magyar Államkincstár legkésőbb a NEAK támogatás átutalására vonatkozó megbízása átvételét követő napon teljesíti a Giro-rendszer felé.
 
-6/A. §[^29] (1) A forgalmazók közül a közforgalmú gyógyszertár (a továbbiakban: gyógyszertár) részére a lakosság biztonságos gyógyszerellátása érdekében az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) – az Egészségbiztosítási Alap éves költségvetésének gyógyszertámogatási előirányzata terhére – tárgyévben egy alkalommal kamatmentes, visszatérítendő finanszírozási előleget (a továbbiakban: előleg) nyújt, ha
+6/A. §[^28] (1) A forgalmazók közül a közforgalmú gyógyszertár (a továbbiakban: gyógyszertár) részére a lakosság biztonságos gyógyszerellátása érdekében az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) – az Egészségbiztosítási Alap éves költségvetésének gyógyszertámogatási előirányzata terhére – tárgyévben egy alkalommal kamatmentes, visszatérítendő finanszírozási előleget (a továbbiakban: előleg) nyújt, ha
 
 a) az igénylő gyógyszertár egy adott település vagy egy település közigazgatási egységéhez csatolt, de földrajzilag elkülönülő településrész gyógyszerellátását legfeljebb három gyógyszertár egyikeként biztosítja, azzal, hogy a településen és a településrészen működő gyógyszertárak száma együttesen nem haladhatja meg a hármat,
 
@@ -18,5 +18,5 @@ d) a kérelem benyújtásakor a gyógyszertár nem rendelkezik olyan, az adózá
 
 (5) Az előleg összegét a NEAK a tárgyév december 15-éig a gyógyszertár részére az elszámolás alapján járó gyógyszer-támogatási összegből havi egyenlő részletekben levonja. A levonást a NEAK a kormányhivatal által kiadott jogerős határozatban megjelölt határidőn belül, legkorábban július 1-jét, legkésőbb szeptember 1-jét követően kezdi meg. Ha a NEAK az előleg összegét nem tudja levonni, a gyógyszer támogatással történő forgalmazására kötött szerződést felmondja.
 
-[^28]: A 6. § a 89/2003. (VI. 25.) Korm. rendelet 66. §-ával megállapított,a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^29]: A 6/A. §-t a 308/2001. (XII. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^27]: A 6. § a 89/2003. (VI. 25.) Korm. rendelet 66. §-ával megállapított,a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^28]: A 6/A. §-t a 308/2001. (XII. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
