@@ -24,11 +24,11 @@ Nyilatkozat a csekély összegű támogatás igénybevételéhez
 
 (jelölje X-szel; legalább egy lehetőséget meg kell jelölni)
 
-a) A kedvezményezett elsődleges mezőgazdasági termeléssel[^4] foglalkozik, és az AFE-t e tevékenységéhez kapcsolódóan (is) fel fogja használni.
+a) A kedvezményezett elsődleges mezőgazdasági termeléssel[^15] foglalkozik, és az AFE-t e tevékenységéhez kapcsolódóan (is) fel fogja használni.
 
 Az AFE e tevékenység körében való felhasználásának becsült aránya: ___%
 
-b) A kedvezményezett halászati és akvakultúra-ágazathoz[^5] sorolható tevékenységet folytat, és az AFE-t e tevékenységéhez kapcsolódóan (is) fel fogja használni.
+b) A kedvezményezett halászati és akvakultúra-ágazathoz[^16] sorolható tevékenységet folytat, és az AFE-t e tevékenységéhez kapcsolódóan (is) fel fogja használni.
 
 Az AFE e tevékenység körében való felhasználásának becsült aránya: ___%
 
@@ -66,11 +66,11 @@ Ezúton nyilatkozom a kedvezményezett nevében, hogy a folyó pénzügyi évben
 
 Nyilatkozatom arra is kiterjed, hogy a kedvezményezett, továbbá az olyan vállalkozások, amelyekkel a kedvezményezett egy és ugyanazon vállalkozásnak minősül, milyen csekély összegű támogatás(ok)ra nyújtottak be támogatási kérelmet (az elutasított kérelmekről nem kell nyilatkozni, csak azokról, amelyek elbírálása folyamatban van).
 
-Nyilatkozatom az 1407/2013/EU bizottsági rendelet 3. cikk (8)–(9) bekezdéseiben írtak betartásához szükséges adatokat is tartalmazza.[^6]
+Nyilatkozatom az 1407/2013/EU bizottsági rendelet 3. cikk (8)–(9) bekezdéseiben írtak betartásához szükséges adatokat is tartalmazza.[^17]
 
-Csekély összegű támogatások[^7]
+Csekély összegű támogatások[^18]
 
-[^4]: Az Európai Unió működéséről szóló Szerződés I. mellékletében felsorolt növények vagy állati eredetű termék előállítása, ide nem értve bármely, azok lényegi tulajdonságát megváltoztató tevékenységet.
-[^5]: Az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott termékek előállítása, feldolgozása és forgalmazása.
-[^6]: Az egyesülés által érintett vállalkozásoknak nyújtott valamennyi korábbi csekély összegű támogatást bele kell számítani az egyesülés révén létrejövő, vagy jogutód pályázó csekély összegű támogatási keretébe. Az egyesülést megelőzően jogszerűen odaítélt csekély összegű támogatás később is jogszerű marad. Ha egy vállalkozás két vagy több vállalkozásra válik szét, a szétválást megelőzően nyújtott csekély összegű támogatást az eredetileg a támogatásban részesülő azon vállalkozásnak kell betudni, amely a csekély összegű támogatással támogatott tevékenységet átvállalta. Ha ennek meghatározására nincs lehetőség, a csekély összegű támogatást a saját tőkének a szétválás tényleges időpontjában érvényes könyv szerinti értéke alapján arányosan el kell osztani a szétválás által érintett vállalkozások között.
-[^7]: Az egyesülésre és szétválásra vonatkozó szabályok, valamint és az egy és ugyanazon vállalkozás fogalma által érintett vállalkozások tekintetében is ki kell tölteni.
+[^15]: Az Európai Unió működéséről szóló Szerződés I. mellékletében felsorolt növények vagy állati eredetű termék előállítása, ide nem értve bármely, azok lényegi tulajdonságát megváltoztató tevékenységet.
+[^16]: Az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott termékek előállítása, feldolgozása és forgalmazása.
+[^17]: Az egyesülés által érintett vállalkozásoknak nyújtott valamennyi korábbi csekély összegű támogatást bele kell számítani az egyesülés révén létrejövő, vagy jogutód pályázó csekély összegű támogatási keretébe. Az egyesülést megelőzően jogszerűen odaítélt csekély összegű támogatás később is jogszerű marad. Ha egy vállalkozás két vagy több vállalkozásra válik szét, a szétválást megelőzően nyújtott csekély összegű támogatást az eredetileg a támogatásban részesülő azon vállalkozásnak kell betudni, amely a csekély összegű támogatással támogatott tevékenységet átvállalta. Ha ennek meghatározására nincs lehetőség, a csekély összegű támogatást a saját tőkének a szétválás tényleges időpontjában érvényes könyv szerinti értéke alapján arányosan el kell osztani a szétválás által érintett vállalkozások között.
+[^18]: Az egyesülésre és szétválásra vonatkozó szabályok, valamint és az egy és ugyanazon vállalkozás fogalma által érintett vállalkozások tekintetében is ki kell tölteni.

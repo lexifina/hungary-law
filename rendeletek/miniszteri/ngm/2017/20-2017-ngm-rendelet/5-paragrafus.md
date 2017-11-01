@@ -8,7 +8,7 @@
 
 a) vállalja, hogy az AFE üzemeltető részére történő értékesítésében közreműködik, továbbá a 13. § (6) bekezdés szerinti igazolás kiállításával kötelezettséget vállal arra, hogy az üzemeltető részére az AFE megvásárlásához és telepítéséhez az állami (de minimis) támogatás összegének megfelelő kedvezményt biztosít, és
 
-b) az AFE-t az állami adó- és vámhatósághoz bejelentett és regisztrációs számmal rendelkező automataberendezésbe legkésőbb 2017. november 30. napjáig telepíti, és a telepítést követően működteti.
+b)[^1] az AFE-t az állami adó- és vámhatósághoz bejelentett és regisztrációs számmal rendelkező automataberendezésbe legkésőbb az adózás rendjéről szóló törvényben (a továbbiakban: Art.) az automataberendezések AFE-val való ellátására előírt határidőig telepíti, és a telepítést követően működteti.
 
 (4) A támogatást a felügyeleti szolgáltató abban az esetben igényelheti, ha a támogatás iránti kérelem benyújtásának időpontjában
 
@@ -32,6 +32,9 @@ c) azt a pénzforgalmi bankszámlaszámát, amelyre a támogatás folyósítás�
 
 a) nyilatkozik az Ávr. 75. § (2) bekezdésében foglaltakról,
 
-b) az Ávr. 84. § (2) bekezdés a) pontjában foglalt – az igényelt támogatás összegével megegyező mértékű – biztosítékot nyújtja a kezelő szerv részére, és
+b)[^2] az igényelt támogatás összegével megegyező mértékű biztosítékot nyújtja a kezelő szerv részére az Ávr. 84. § (2) bekezdés a) pontjában foglalt biztosíték vagy pénzügyi intézmény által vállalt garancia formájában, és
 
 c) 30 napnál nem régebbi cégkivonatát és a cégjegyzésre jogosult képviselője aláírási címpéldányát vagy ügyvéd által ellenjegyzett aláírásmintáját benyújtja a kezelő szerv részére.
+
+[^1]: Az 5. § (3) bekezdés b) pontja a 36/2017. (X. 31.) NGM rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 5. § (8) bekezdés b) pontja a 36/2017. (X. 31.) NGM rendelet 3. §-ával megállapított szöveg.

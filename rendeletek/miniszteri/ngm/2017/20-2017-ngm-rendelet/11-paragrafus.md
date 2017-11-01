@@ -22,12 +22,10 @@ a támogatás jogosulatlan igénybevételét, valamint a (6) bekezdés szerinti 
 
 (5) Nem állapítható meg a felügyeleti szolgáltató terhére a támogatás jogosulatlan igénybevétele, ha a támogatás igénylése az üzemeltető által benyújtott valótlan tartalmú nyilatkozat alapján történt, feltéve, hogy a felügyeleti szolgáltató bizonyítja, hogy a 13. § (2) bekezdése szerinti eljárás során a magatartása nem volt felróható.
 
-(6) A támogatás jogosulatlan igénybevétele esetén a felügyeleti szolgáltató
-
-a) köteles a kötelezettségszegéssel érintett AFE-ra igénybe vett támogatást az Áht. 53/A. § (2) bekezdése és az Ávr. 98. §-a szerinti ügyleti kamattal növelt összegben, a jogosulatlan igénybevételről szóló értesítés kézhezvételétől számított 14 napon belül visszafizetni a támogatói okiratban megjelölt számlára, és
-
-b) AFE-nként 10 ezer forint kötbért fizetni a támogatói okiratban megjelölt számlára azon AFE-k után, amelyek tekintetében a vállalásának nem tett eleget.
+(6)[^7] A támogatás jogosulatlan igénybevétele esetén a felügyeleti szolgáltató köteles a kötelezettségszegéssel érintett AFE-ra igénybe vett támogatást az Áht. 53/A. § (2) bekezdése és az Ávr. 98. §-a szerinti ügyleti kamattal növelt összegben, a jogosulatlan igénybevételről szóló értesítés kézhezvételétől számított 14 napon belül visszafizetni a támogatói okiratban megjelölt számlára.
 
 (7) A támogatás késedelmes visszafizetése esetén a felügyeleti szolgáltató az Áht. 53/A. § (2) bekezdése és az Ávr. 98. §-a szerinti késedelmi kamat fizetésére köteles.
 
 (8) Az (5) bekezdés szerinti esetben a kezelő szerv a támogatás jogosulatlan igénybevételét az üzemeltető terhére állapítja meg azzal, hogy a jogkövetkezmények tekintetében a (6)–(7) bekezdésben foglaltakat az üzemeltetővel szemben megfelelően alkalmazni kell. Az üzemeltető a visszafizetési kötelezettségét a kezelő szerv által megjelölt számlára teljesíti.
+
+[^7]: A 11. § (6) bekezdése a 36/2017. (X. 31.) NGM rendelet 4. §-ával megállapított szöveg.

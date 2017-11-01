@@ -1,8 +1,10 @@
-13. § (1) Az üzemeltető legkésőbb a felügyeleti szolgáltatói szerződés megkötését követő 8 napon belül a felügyeleti szolgáltató részére átadja
+13. § (1)[^8] Az üzemeltető a felügyeleti szolgáltatói szerződés megkötését követően, legkésőbb 2017. november 3-ig a felügyeleti szolgáltató részére átadja
 
 a) a köztartozásmentes adózói minőségéről szóló igazolást vagy nemleges adóigazolást,
 
 b) az 1. melléklet szerinti nyilatkozatát.
+
+(1a)[^9] Az (1) bekezdés szerinti határidő jogvesztő.
 
 (2) A felügyeleti szolgáltató az AFE telepítését megelőzően a (3)–(5) bekezdésben foglaltak szerint megállapítja, hogy az üzemeltető által a 10. § szerint igényelt kedvezményre a 4. § szerinti bizottsági rendeletek közül melyeket kell alkalmazni.
 
@@ -15,3 +17,6 @@ b) az 1. melléklet szerinti nyilatkozatát.
 (6) A felügyeleti szolgáltató a (3)–(5) bekezdés szerinti ellenőrzés eredményéről az üzemeltetőt írásban értesíti a 2. melléklet szerinti igazolás megküldésével.
 
 (7) A csekély összegű támogatást akkor kell odaítéltnek tekinteni, amikor a támogatás igénybevételének jogát a kedvezményezett üzemeltetőre ruházzák, függetlenül a csekély összegű támogatás folyósításának időpontjától. A 10. § szerinti kedvezmény a (6) bekezdés szerinti igazolás keltének időpontjában minősül odaítéltnek.
+
+[^8]: A 13. § (1) bekezdés nyitó szövegrésze a 36/2017. (X. 31.) NGM rendelet 7. § 4. pontja szerint módosított szöveg.
+[^9]: A 13. § (1a) bekezdését a 36/2017. (X. 31.) NGM rendelet 5. §-a iktatta be.
