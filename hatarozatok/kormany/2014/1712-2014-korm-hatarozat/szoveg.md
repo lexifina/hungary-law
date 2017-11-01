@@ -38,7 +38,7 @@ i) az Igazságügyi Minisztériumnak,
 
 j)[^1] a Nemzeti Egészségbiztosítási Alapkezelőnek,
 
-k) az Országos Nyugdíjbiztosítási Főigazgatóságnak és
+k)[^2] a Magyar Államkincstárnak és
 
 l) a Központi Statisztikai Hivatalnak
 
@@ -54,7 +54,8 @@ egy-egy képviselője.
 
 12. Azok a személyek, akik az e határozat hatálybalépését megelőző napon az Idősügyi Tanács tagjai voltak, a határozat hatálybalépésével a Tanács tagjaivá válnak. Az Idősügyi Tanács jogszabályban meghatározott hatásköreit az Idősek Tanácsa gyakorolja.
 
-13.[^2]
+13.[^3]
 
 [^1]: A 7. pont j) alpontja az 1853/2016. (XII. 27.) Korm. határozat 47. pontjával megállapított szöveg.
-[^2]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. pont k) alpontja az 1757/2017. (X. 31.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
