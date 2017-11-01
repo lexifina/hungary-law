@@ -1,4 +1,4 @@
-1. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^318]
+1. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^323]
 
 Az általános hatáskörű nyugdíj-megállapító szervek és illetékességi területük
 
@@ -128,4 +128,4 @@ Az általános hatáskörű nyugdíj-megállapító szervek és illetékességi 
 
 19.2. Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala, amelynek illetékességi területe a Lenti Járási Hivatal, a Zalaegerszegi Járási Hivatal és a Zalaszentgróti Járási Hivatal illetékességi területére terjed ki.
 
-[^318]: Az 1. számú mellékletet a 327/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 379/2016. (XII. 2.) Korm. rendelet 25. § (8) bekezdése iktatta be.
+[^323]: Az 1. számú mellékletet a 327/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 379/2016. (XII. 2.) Korm. rendelet 25. § (8) bekezdése iktatta be.

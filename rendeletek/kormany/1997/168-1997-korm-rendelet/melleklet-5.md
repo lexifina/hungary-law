@@ -1,4 +1,4 @@
-5. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^322]
+5. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^327]
 
 A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
@@ -18,7 +18,7 @@ A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
 1.1.6. mezőgazdasági, halászati termelőszövetkezeti tagkönyv, a 1998. január 1-jét megelőző tagsággal szerzett szolgálati idő igazolására,
 
-1.1.7.[^323] egyházi igazolás az egyházi szolgálati viszonyban szerzett szolgálati idő igazolására,
+1.1.7.[^328] egyházi igazolás az egyházi szolgálati viszonyban szerzett szolgálati idő igazolására,
 
 1.1.8. kórházi zárójelentés a szolgálati idő alatt vagy az ezt követő harminc napon belül kezdődött kórházi ápolással 1998. január 1-jét megelőzően szerzett szolgálati idő igazolására.
 
@@ -28,13 +28,13 @@ A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
 1.3. az 1997. december 31-ét követő időszakra szóló, az igénylő birtokában lévő munkabér-, illetve jövedelemigazolás, ha az adat a nyugdíjbiztosítási igazgatási szervek nyilvántartásában nem szerepel,
 
-1.4.[^324] a biztosítási jogviszonyról és az egészségbiztosítási ellátásokról kiállított igazolás elnevezésű okirat,
+1.4.[^329] a biztosítási jogviszonyról és az egészségbiztosítási ellátásokról kiállított igazolás elnevezésű okirat,
 
 1.5. az ápolási díjat megállapító határozat másolata, valamint – ha a határozatból a hozzátartozói viszony nem állapítható meg – a gyermek születési anyakönyvi kivonata vagy az örökbefogadást engedélyező határozat, ha a Tny. 18. § (2a)–(2d) bekezdése szerinti öregségi teljes nyugdíjat a jogosult súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekére is tekintettel igénylik,
 
 1.6. a gyermek születési anyakönyvi kivonata vagy az örökbefogadást engedélyező határozat, ha az öregségi teljes nyugdíjat a Tny. 18. § (2d) bekezdésében foglaltakra is tekintettel igénylik.
 
-1.7.[^325] a Gyvt. szerinti működtető igazolása a nevelőszülői foglalkoztatási jogviszonynak a Gyvt. 66/D. § (15) bekezdése szerinti szüneteltetéséről, ha az igénylő nevelőszülő.
+1.7.[^330] a Gyvt. szerinti működtető igazolása a nevelőszülői foglalkoztatási jogviszonynak a Gyvt. 66/D. § (15) bekezdése szerinti szüneteltetéséről, ha az igénylő nevelőszülő.
 
 2. Özvegyi nyugdíj esetén
 
@@ -46,11 +46,11 @@ A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
 2.4. a házasság felbontásáról, illetve a tartásról rendelkező bírósági határozat a válás időpontjának és az esetleges tartásdíj-fizetési kötelezettség igazolására,
 
-2.5.[^326] az özvegy legfeljebb 50 százalékos egészségi állapotát megállapító, rokkantsági ellátás vagy rehabilitációs ellátás ügyében hozott határozat, szakhatósági állásfoglalás és szakvélemény hiányában az özvegy egészségi állapotával összefüggő iratok, ha az özvegy az özvegyi nyugdíjat arra hivatkozva igényli, hogy megváltozott munkaképességű,
+2.5.[^331] az özvegy legfeljebb 50 százalékos egészségi állapotát megállapító, rokkantsági ellátás vagy rehabilitációs ellátás ügyében hozott határozat, szakhatósági állásfoglalás és szakvélemény hiányában az özvegy egészségi állapotával összefüggő iratok, ha az özvegy az özvegyi nyugdíjat arra hivatkozva igényli, hogy megváltozott munkaképességű,
 
-2.6.[^327] az elhunyt jogszerzőre vonatkozóan az 1.1–1.4. pont szerinti iratok – ideértve a szolgálati időként elismerhető, 1997. december 31-ét követő felsőoktatási tanulmányi idő igazolását is –, ha az elhunyt jogszerző öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járadékban, táncművészeti életjáradékban és átmeneti bányászjáradékban nem részesült.
+2.6.[^332] az elhunyt jogszerzőre vonatkozóan az 1.1–1.4. pont szerinti iratok – ideértve a szolgálati időként elismerhető, 1997. december 31-ét követő felsőoktatási tanulmányi idő igazolását is –, ha az elhunyt jogszerző öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járadékban, táncművészeti életjáradékban és átmeneti bányászjáradékban nem részesült.
 
-2.7.[^328] a 61. § (1) bekezdés b) pont ba) alpontja szerinti esetben az árva legfeljebb 50 százalékos egészségi állapotát megállapító, rokkantsági ellátás vagy rehabilitációs ellátás ügyében hozott határozat, szakhatósági állásfoglalás és szakvélemény hiányában az árva egészségi állapotával összefüggő iratok.
+2.7.[^333] a 61. § (1) bekezdés b) pont ba) alpontja szerinti esetben az árva legfeljebb 50 százalékos egészségi állapotát megállapító, rokkantsági ellátás vagy rehabilitációs ellátás ügyében hozott határozat, szakhatósági állásfoglalás és szakvélemény hiányában az árva egészségi állapotával összefüggő iratok.
 
 3. Árvaellátás esetén
 
@@ -58,11 +58,11 @@ A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
 3.2. az igénylő születési anyakönyvi kivonata vagy az örökbefogadást engedélyező határozat a hozzátartozói viszony igazolására,
 
-3.3.[^329] az árva legfeljebb 50 százalékos egészségi állapotát megállapító, rokkantsági ellátás vagy rehabilitációs ellátás ügyében hozott határozat, szakhatósági állásfoglalás és szakvélemény hiányában az árva egészségi állapotával összefüggő iratok, ha az árva az árvaellátás meghosszabbítását arra hivatkozva kéri, hogy megváltozott munkaképességű,
+3.3.[^334] az árva legfeljebb 50 százalékos egészségi állapotát megállapító, rokkantsági ellátás vagy rehabilitációs ellátás ügyében hozott határozat, szakhatósági állásfoglalás és szakvélemény hiányában az árva egészségi állapotával összefüggő iratok, ha az árva az árvaellátás meghosszabbítását arra hivatkozva kéri, hogy megváltozott munkaképességű,
 
 3.4. 16 év feletti árva esetén a köznevelési vagy felsőoktatási intézmény által kiállított iskolalátogatási igazolás,
 
-3.5.[^330] az elhunyt jogszerzőre vonatkozóan az 1.1–1.4. pont szerinti iratok – ideértve a szolgálati időként elismerhető, 1997. december 31-ét követő felsőoktatási tanulmányi idő igazolását is –, ha az elhunyt jogszerző öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járadékban, táncművészeti életjáradékban és átmeneti bányászjáradékban nem részesült.
+3.5.[^335] az elhunyt jogszerzőre vonatkozóan az 1.1–1.4. pont szerinti iratok – ideértve a szolgálati időként elismerhető, 1997. december 31-ét követő felsőoktatási tanulmányi idő igazolását is –, ha az elhunyt jogszerző öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járadékban, táncművészeti életjáradékban és átmeneti bányászjáradékban nem részesült.
 
 4. Szülői nyugdíj esetén
 
@@ -70,25 +70,25 @@ A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
 4.2. az elhunyt jogszerző születési anyakönyvi kivonata vagy az örökbefogadást engedélyező határozat a hozzátartozói viszony igazolására,
 
-4.3.[^331] a szülő legfeljebb 50 százalékos egészségi állapotát megállapító, rokkantsági ellátás vagy rehabilitációs ellátás ügyében hozott határozat, szakhatósági állásfoglalás és szakvélemény hiányában a szülő egészségi állapotával összefüggő iratok, ha a szülő a szülői nyugdíj meghosszabbítását arra hivatkozva kéri, hogy megváltozott munkaképességű,
+4.3.[^336] a szülő legfeljebb 50 százalékos egészségi állapotát megállapító, rokkantsági ellátás vagy rehabilitációs ellátás ügyében hozott határozat, szakhatósági állásfoglalás és szakvélemény hiányában a szülő egészségi állapotával összefüggő iratok, ha a szülő a szülői nyugdíj meghosszabbítását arra hivatkozva kéri, hogy megváltozott munkaképességű,
 
-4.4.[^332] az elhunyt jogszerzőre vonatkozóan az 1.1–1.4. pont szerinti iratok – ideértve a szolgálati időként elismerhető, 1997. december 31-ét követő felsőoktatási tanulmányi idő igazolását is –, ha az elhunyt jogszerző öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járadékban, táncművészeti életjáradékban és átmeneti bányászjáradékban nem részesült.
+4.4.[^337] az elhunyt jogszerzőre vonatkozóan az 1.1–1.4. pont szerinti iratok – ideértve a szolgálati időként elismerhető, 1997. december 31-ét követő felsőoktatási tanulmányi idő igazolását is –, ha az elhunyt jogszerző öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járadékban, táncművészeti életjáradékban és átmeneti bányászjáradékban nem részesült.
 
 5. Baleseti hozzátartozói nyugellátás esetén
 
 5.1. az igényelt ellátásnak megfelelően a 2–4. pont szerinti iratok,
 
-5.2.[^333] a társadalombiztosítási kifizetőhellyel rendelkező foglalkoztatónak a határozata az üzemi baleset vagy foglalkozási megbetegedés elismeréséről.
+5.2.[^338] a társadalombiztosítási kifizetőhellyel rendelkező foglalkoztatónak a határozata az üzemi baleset vagy foglalkozási megbetegedés elismeréséről.
 
-[^322]: Az 5. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
-[^323]: Az 5. számú melléklet 1.1.7. pontja a 297/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^324]: Az 5. számú melléklet 1.4. pontja a 70/2015. (III. 30.) Korm. rendelet 26. § (7) bekezdésével megállapított szöveg.
-[^325]: Az 5. számú melléklet 1. pont 1.7. alpontját a 353/2014. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
-[^326]: Az 5. számú melléklet 2.5. pontja a 70/2015. (III. 30.) Korm. rendelet 26. § (7) bekezdése szerint módosított szöveg.
-[^327]: Az 5. melléklet 2.6. pontja a 449/2016. (XII. 19.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
-[^328]: Az 5. számú melléklet 2. pont 2.7. alpontját a 420/2015. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
-[^329]: Az 5. számú melléklet 3.3. pontja a 70/2015. (III. 30.) Korm. rendelet 26. § (7) bekezdése szerint módosított szöveg.
-[^330]: Az 5. melléklet 3.5. pontja a 449/2016. (XII. 19.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
-[^331]: Az 5. számú melléklet 4.3. pontja a 70/2015. (III. 30.) Korm. rendelet 26. § (7) bekezdése szerint módosított szöveg.
-[^332]: Az 5. melléklet 4.4. pontja a 449/2016. (XII. 19.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
-[^333]: Az 5. számú melléklet 5.2. pontja a 70/2015. (III. 30.) Korm. rendelet 26. § (7) bekezdése szerint módosított szöveg.
+[^327]: Az 5. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^328]: Az 5. számú melléklet 1.1.7. pontja a 297/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^329]: Az 5. számú melléklet 1.4. pontja a 70/2015. (III. 30.) Korm. rendelet 26. § (7) bekezdésével megállapított szöveg.
+[^330]: Az 5. számú melléklet 1. pont 1.7. alpontját a 353/2014. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
+[^331]: Az 5. számú melléklet 2.5. pontja a 70/2015. (III. 30.) Korm. rendelet 26. § (7) bekezdése szerint módosított szöveg.
+[^332]: Az 5. melléklet 2.6. pontja a 449/2016. (XII. 19.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^333]: Az 5. számú melléklet 2. pont 2.7. alpontját a 420/2015. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^334]: Az 5. számú melléklet 3.3. pontja a 70/2015. (III. 30.) Korm. rendelet 26. § (7) bekezdése szerint módosított szöveg.
+[^335]: Az 5. melléklet 3.5. pontja a 449/2016. (XII. 19.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^336]: Az 5. számú melléklet 4.3. pontja a 70/2015. (III. 30.) Korm. rendelet 26. § (7) bekezdése szerint módosított szöveg.
+[^337]: Az 5. melléklet 4.4. pontja a 449/2016. (XII. 19.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^338]: Az 5. számú melléklet 5.2. pontja a 70/2015. (III. 30.) Korm. rendelet 26. § (7) bekezdése szerint módosított szöveg.

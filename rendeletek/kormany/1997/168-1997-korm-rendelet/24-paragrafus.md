@@ -1,3 +1,3 @@
-24. §[^60]
+24. §[^63]
 
-[^60]: A 24. §-t és az azt megelőző alcímet a 333/2011. (XII. 29.) Korm. rendelet 29. § i) pontja hatályon kívül helyezte.
+[^63]: A 24. §-t és az azt megelőző alcímet a 333/2011. (XII. 29.) Korm. rendelet 29. § i) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-6. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^334]
+6. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^339]
 
 A kivételes nyugellátás megállapítása, a kivételes nyugellátás-emelés engedélyezése és az egyszeri segély engedélyezése iránti kérelem benyújtására szolgáló nyomtatvány és elektronikus űrlap adattartalma
 
@@ -14,4 +14,4 @@ A kivételes nyugellátás megállapítása, a kivételes nyugellátás-emelés 
 
 6. A folyósítási cím, illetve pénzforgalmi számla azonosításához szükséges adatok.
 
-[^334]: A 6. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^339]: A 6. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
