@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-5-20-5E
 | 2017-04-25 | 1990-5-20-5E.80 | 12/2017. (IV. 24.) NFM rendelet |
 | 2017-04-27 | 1990-5-20-5E.81 | 11/2017. (IV. 12.) NFM rendelet |
 | 2017-09-19 | 1990-5-20-5E.82 | 36/2017. (IX. 18.) NFM rendelet |
+| 2017-11-01 | 1990-5-20-5E.83 | 11/2000. (V. 24.) KHVM rendelet |
