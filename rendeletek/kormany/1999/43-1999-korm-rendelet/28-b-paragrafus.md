@@ -1,6 +1,6 @@
-28/B. §[^325] (1)[^326]
+28/B. §[^328] (1)[^329]
 
-(2)[^327] Az aktív fekvőbeteg-szakellátás területén
+(2)[^330] Az aktív fekvőbeteg-szakellátás területén
 
 a) a 4000 kardiológia szakma II. és III. progresszivitási szintjén,
 
@@ -12,12 +12,12 @@ d) az 1900 tüdőgyógyászat szakma III. progresszivitási szintjén
 
 szakmaspecifikus őrzőt működtető egészségügyi szolgáltató 600 000 Ft havi fix összegű díjra jogosult szakmánként azzal, hogy a díjazás nem növelhető több, azonos szakmához tartozó őrző működtetése esetén.
 
-(2a)[^328] Az egészségügyi szolgáltató a 2012. december 31-ét követő intézményi integrációt megelőzően önálló egészségügyi szolgáltatóként működő telephelye után is jogosult a (2) bekezdés szerinti díjazásra, ha arra a telephely az integrációt megelőzően jogosult volt.
+(2a)[^331] Az egészségügyi szolgáltató a 2012. december 31-ét követő intézményi integrációt megelőzően önálló egészségügyi szolgáltatóként működő telephelye után is jogosult a (2) bekezdés szerinti díjazásra, ha arra a telephely az integrációt megelőzően jogosult volt.
 
-(3)[^329] A (2) bekezdés szerinti díjazás fedezetére az 5. számú melléklet szerinti összevont szakellátás előirányzata szolgál.
+(3)[^332] A (2) bekezdés szerinti díjazás fedezetére az 5. számú melléklet szerinti összevont szakellátás előirányzata szolgál.
 
-[^325]: A 28/B. §-t újonnan a 447/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^326]: A 28/B. § (1) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
-[^327]: A 28/B. § (2) bekezdés záró szövegrésze a 25/2017. (II. 7.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
-[^328]: A 28/B. § (2a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 23. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 26. § k) pontja szerint módosított szöveg.
-[^329]: A 28/B. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 26. § l) pontja szerint módosított szöveg.
+[^328]: A 28/B. §-t újonnan a 447/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^329]: A 28/B. § (1) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
+[^330]: A 28/B. § (2) bekezdés záró szövegrésze a 25/2017. (II. 7.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^331]: A 28/B. § (2a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 23. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 26. § k) pontja szerint módosított szöveg.
+[^332]: A 28/B. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 26. § l) pontja szerint módosított szöveg.

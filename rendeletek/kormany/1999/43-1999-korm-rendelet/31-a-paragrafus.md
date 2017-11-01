@@ -1,4 +1,4 @@
-31/A. §[^379] (1) A járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók a 2016. november 1-jén lekötött kapacitásuk alapján a 6/C. számú melléklet szerinti fix díjban részesülnek.
+31/A. §[^382] (1) A járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók a 2016. november 1-jén lekötött kapacitásuk alapján a 6/C. számú melléklet szerinti fix díjban részesülnek.
 
 (2) Az (1) bekezdés alapján megállapított fix díj a kapacitás bármilyen jogcímen történő növelése esetén sem módosítható.
 
@@ -6,4 +6,4 @@
 
 (4) Azon egészségügyi szolgáltató részére, amely 2016. november 1-jét követően köt járóbeteg-szakellátás nyújtására finanszírozási szerződést, az (1) bekezdés szerinti fix díjat a finanszírozási szerződés megkötésének napján lekötött kapacitása szerint kell megállapítani.
 
-[^379]: A 31/A. §-t a 464/2016. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^382]: A 31/A. §-t a 464/2016. (XII. 23.) Korm. rendelet 7. §-a iktatta be.

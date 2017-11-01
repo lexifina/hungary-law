@@ -1,70 +1,70 @@
-27/A. §[^283] (1)[^284] A 27. § szerinti TVK-t módosítani kell:
+27/A. §[^286] (1)[^287] A 27. § szerinti TVK-t módosítani kell:
 
-a)[^285] az Eftv. és az Eftv.vhr. alapján engedélyezett, ellátási forma megváltozásával járó kapacitásátcsoportosítás esetén az egy kapacitásegységre jutó szakma szerinti országos átlag figyelembevételével,
+a)[^288] az Eftv. és az Eftv.vhr. alapján engedélyezett, ellátási forma megváltozásával járó kapacitásátcsoportosítás esetén az egy kapacitásegységre jutó szakma szerinti országos átlag figyelembevételével,
 
 b) az Eftv. alapján történt többletkapacitás befogadás esetén, kivéve a TVK terhére történt többletkapacitás befogadást,
 
-c)[^286] az egészségügyi államigazgatási szerv által megállapított feladatváltozás esetén,
+c)[^289] az egészségügyi államigazgatási szerv által megállapított feladatváltozás esetén,
 
-d)[^287] az ellátási terület Eftv. alapján történő módosításával, kivéve, ha a felek az Eftv. 5/B. § (2) bekezdés a) pontja szerinti közös kérelmükben úgy rendelkeznek, hogy a TVK ne kerüljön módosításra, illetve ha az a b) pont alapján az ellátási területet átvevő fél számára már megállapításra vagy elvonásra került, vagy az Eftv. alapján történt többletkapacitás befogadással összefüggő ellátási terület módosítása esetén, ha a befogadás más egészségügyi szolgáltató területi ellátási kötelezettségét is érinti,
+d)[^290] az ellátási terület Eftv. alapján történő módosításával, kivéve, ha a felek az Eftv. 5/B. § (2) bekezdés a) pontja szerinti közös kérelmükben úgy rendelkeznek, hogy a TVK ne kerüljön módosításra, illetve ha az a b) pont alapján az ellátási területet átvevő fél számára már megállapításra vagy elvonásra került, vagy az Eftv. alapján történt többletkapacitás befogadással összefüggő ellátási terület módosítása esetén, ha a befogadás más egészségügyi szolgáltató területi ellátási kötelezettségét is érinti,
 
 e) a finanszírozásra vonatkozó szabályok változásának teljesítményre gyakorolt hatásával, kivéve, ha jogszabály másként rendelkezik,
 
-f)[^288]
+f)[^291]
 
-g)[^289] az egészségügyért felelős miniszter jóváhagyása alapján a kihasználatlan TVK növekmény szolgáltatók közötti átcsoportosításával, valamint a folyamatos ellátás biztosítására, vagy egyéb ellátási érdekből engedélyezett TVK növekménnyel,
+g)[^292] az egészségügyért felelős miniszter jóváhagyása alapján a kihasználatlan TVK növekmény szolgáltatók közötti átcsoportosításával, valamint a folyamatos ellátás biztosítására, vagy egyéb ellátási érdekből engedélyezett TVK növekménnyel,
 
-h)[^290] az Eftv. 2. § (3) bekezdése szerinti megállapodás, illetve szerződéskötés esetén,
+h)[^293] az Eftv. 2. § (3) bekezdése szerinti megállapodás, illetve szerződéskötés esetén,
 
-i)[^291]
+i)[^294]
 
-(2)[^292] Az aktív fekvőbeteg-szakellátásra lekötött kapacitás krónikus fekvőbeteg-szakellátásra történő átcsoportosítása esetén az aktív fekvőbeteg-szakellátási TVK-t az átcsoportosított kapacitásra jutó TVK 50%-ával kell csökkenteni, és ezen 50% szerinti finanszírozási összegnek megfelelő mértékben növelni kell a krónikus fekvőbeteg-szakellátás 5. számú melléklet szerinti előirányzatát.
+(2)[^295] Az aktív fekvőbeteg-szakellátásra lekötött kapacitás krónikus fekvőbeteg-szakellátásra történő átcsoportosítása esetén az aktív fekvőbeteg-szakellátási TVK-t az átcsoportosított kapacitásra jutó TVK 50%-ával kell csökkenteni, és ezen 50% szerinti finanszírozási összegnek megfelelő mértékben növelni kell a krónikus fekvőbeteg-szakellátás 5. számú melléklet szerinti előirányzatát.
 
-(3)[^293] Aktív fekvőbeteg-szakellátásra, illetve járóbeteg-szakellátásra lekötött kapacitás járóbeteg-szakellátás keretében végezhető egynapos ellátásra történő átcsoportosítása esetén az átcsoportosításra kerülő kapacitásra jutó TVK-val kell csökkenteni a szolgáltató aktív fekvőbeteg-szakellátási, illetve járóbeteg-szakellátási TVK-ját.
+(3)[^296] Aktív fekvőbeteg-szakellátásra, illetve járóbeteg-szakellátásra lekötött kapacitás járóbeteg-szakellátás keretében végezhető egynapos ellátásra történő átcsoportosítása esetén az átcsoportosításra kerülő kapacitásra jutó TVK-val kell csökkenteni a szolgáltató aktív fekvőbeteg-szakellátási, illetve járóbeteg-szakellátási TVK-ját.
 
-(3a)[^294]
+(3a)[^297]
 
-(4)[^295] Az (1) bekezdés b) pontja szerinti TVK módosítást igénylő kapacitásváltozás esetén annak módosítása az egy kapacitásegységre jutó szakma szerinti országos átlag alapján történik. Amennyiben a szolgáltató az adott szakmában már rendelkezett kapacitással, a TVK módosításánál a változással érintett szakma szerinti TVK egy kapacitásegységre jutó mennyiségét kell figyelembe venni, ha az az országos átlagot meghaladja.
+(4)[^298] Az (1) bekezdés b) pontja szerinti TVK módosítást igénylő kapacitásváltozás esetén annak módosítása az egy kapacitásegységre jutó szakma szerinti országos átlag alapján történik. Amennyiben a szolgáltató az adott szakmában már rendelkezett kapacitással, a TVK módosításánál a változással érintett szakma szerinti TVK egy kapacitásegységre jutó mennyiségét kell figyelembe venni, ha az az országos átlagot meghaladja.
 
-(4a)[^296] TVK módosítást igénylő feladatváltozás esetén a finanszírozó a feladatra jutó TVK-t az egészségügyi államigazgatási szerv által engedélyezett szolgáltatásoknak a feladatváltozással érintett ellátási terület lakossága által a módosítás évét megelőző finanszírozási évben történt igénybevétele alapján állapítja meg, és csoportosítja át a feladatváltozással érintett szolgáltatók között.
+(4a)[^299] TVK módosítást igénylő feladatváltozás esetén a finanszírozó a feladatra jutó TVK-t az egészségügyi államigazgatási szerv által engedélyezett szolgáltatásoknak a feladatváltozással érintett ellátási terület lakossága által a módosítás évét megelőző finanszírozási évben történt igénybevétele alapján állapítja meg, és csoportosítja át a feladatváltozással érintett szolgáltatók között.
 
-(5)[^297] Az (1) bekezdés h) pontja szerinti TVK módosítás a megállapodó, illetve szerződő felek erre vonatkozó külön megállapodása szerint történik. Külön megállapodás hiányában a feladatváltozással érintett szolgáltatók TVK-ját a finanszírozó a megállapodás, illetve szerződés szerinti feladatra jutó TVK mértékével módosítja. Ha az (1) bekezdés szerinti feladatváltozáshoz az egészségügyi államigazgatási szerv döntése szükséges, az egészségügyi államigazgatási szervnek a feladatváltozással érintett valamennyi egészségügyi szolgáltatóra vonatkozó döntése alapján, a feladatra jutó TVK mértékével kell módosítani, illetve megállapítani a feladatváltozással érintett szolgáltatók TVK-ját.
+(5)[^300] Az (1) bekezdés h) pontja szerinti TVK módosítás a megállapodó, illetve szerződő felek erre vonatkozó külön megállapodása szerint történik. Külön megállapodás hiányában a feladatváltozással érintett szolgáltatók TVK-ját a finanszírozó a megállapodás, illetve szerződés szerinti feladatra jutó TVK mértékével módosítja. Ha az (1) bekezdés szerinti feladatváltozáshoz az egészségügyi államigazgatási szerv döntése szükséges, az egészségügyi államigazgatási szervnek a feladatváltozással érintett valamennyi egészségügyi szolgáltatóra vonatkozó döntése alapján, a feladatra jutó TVK mértékével kell módosítani, illetve megállapítani a feladatváltozással érintett szolgáltatók TVK-ját.
 
-(6)[^298] Amennyiben az ellátási terület változása TVK módosítást igényel, a TVK átcsoportosítás az egészségügyi államigazgatási szervnek az ellátási terület változásával érintett valamennyi egészségügyi szolgáltatóra vonatkozó döntése alapján, a szolgáltatásoknak a változással érintett ellátási terület lakosai általi, a módosítás évét megelőző finanszírozási évben történt igénybevétele szerinti bázisteljesítmény arányában történik.
+(6)[^301] Amennyiben az ellátási terület változása TVK módosítást igényel, a TVK átcsoportosítás az egészségügyi államigazgatási szervnek az ellátási terület változásával érintett valamennyi egészségügyi szolgáltatóra vonatkozó döntése alapján, a szolgáltatásoknak a változással érintett ellátási terület lakosai általi, a módosítás évét megelőző finanszírozási évben történt igénybevétele szerinti bázisteljesítmény arányában történik.
 
-(7)[^299] Amennyiben a szolgáltató személyi, illetve tárgyi feltételek hiányában átmenetileg nem tudja teljesíteni a szerződésben vállalt ellátási kötelezettségét, a szolgáltató fenntartója a szolgáltatás nyújtását átmenetileg teljesítő szolgáltató fenntartójával megállapodik a TVK átmeneti átcsoportosításában, illetve rendelkezik a saját fenntartásában lévő intézmények közötti átcsoportosításáról. Megállapodás, illetve fenntartói rendelkezés hiányában a finanszírozó a szerződésben vállalt ellátási kötelezettség teljesítésének elmaradásával érintett feladatra jutó TVK-t átcsoportosítja.
+(7)[^302] Amennyiben a szolgáltató személyi, illetve tárgyi feltételek hiányában átmenetileg nem tudja teljesíteni a szerződésben vállalt ellátási kötelezettségét, a szolgáltató fenntartója a szolgáltatás nyújtását átmenetileg teljesítő szolgáltató fenntartójával megállapodik a TVK átmeneti átcsoportosításában, illetve rendelkezik a saját fenntartásában lévő intézmények közötti átcsoportosításáról. Megállapodás, illetve fenntartói rendelkezés hiányában a finanszírozó a szerződésben vállalt ellátási kötelezettség teljesítésének elmaradásával érintett feladatra jutó TVK-t átcsoportosítja.
 
-(8)[^300] Amennyiben váratlan esemény vagy előre nem látható módon bekövetkezett ellátási szükséglet többletkapacitás-bevonási igény nélküli teljesítményvolumen-növekedéssel jár, az egészségügyért felelős miniszter az államháztartásért felelős miniszter egyetértésével, az országos tisztifőorvos kérelme alapján a 28. számú melléklet szerinti tartalék terhére engedélyezheti az ennek megfelelő, országos alapdíjjal történő díjazás kifizetését. Amennyiben a tartalékban meghatározott forrás túllépése szükséges, az egészségügyért felelős miniszter döntéséhez az államháztartásért felelős miniszter hozzájárulása szükséges.
+(8)[^303] Amennyiben váratlan esemény vagy előre nem látható módon bekövetkezett ellátási szükséglet többletkapacitás-bevonási igény nélküli teljesítményvolumen-növekedéssel jár, az egészségügyért felelős miniszter az államháztartásért felelős miniszter egyetértésével, az országos tisztifőorvos kérelme alapján a 28. számú melléklet szerinti tartalék terhére engedélyezheti az ennek megfelelő, országos alapdíjjal történő díjazás kifizetését. Amennyiben a tartalékban meghatározott forrás túllépése szükséges, az egészségügyért felelős miniszter döntéséhez az államháztartásért felelős miniszter hozzájárulása szükséges.
 
-(9)[^301] Az Eftv. 7. § (3) bekezdése szerinti kapacitás-átcsoportosítás csak abban az esetben járhat TVK átcsoportosítással, ha
+(9)[^304] Az Eftv. 7. § (3) bekezdése szerinti kapacitás-átcsoportosítás csak abban az esetben járhat TVK átcsoportosítással, ha
 
 a) az átcsoportosítással az adott egészségügyi szolgáltató érvényes finanszírozási szerződésében szereplő szakma megszűnik, ebben az esetben a megszűnő szakmához tartozó ellátási területet ezután ellátó egészségügyi szolgáltató részére a TVK megállapítása a (6) bekezdés alapján történik,
 
-b)[^302] az átcsoportosítással az adott egészségügyi szolgáltató érvényes finanszírozási szerződésében az egészségügyi szolgáltatónál új szakma kerül kialakításra, és az egészségügyi szolgáltató fenntartója az e szakmához meghatározott ellátási területet korábban ellátó egészségügyi szolgáltató fenntartójával a TVK átadásáról és annak mértékéről is megállapodik.
+b)[^305] az átcsoportosítással az adott egészségügyi szolgáltató érvényes finanszírozási szerződésében az egészségügyi szolgáltatónál új szakma kerül kialakításra, és az egészségügyi szolgáltató fenntartója az e szakmához meghatározott ellátási területet korábban ellátó egészségügyi szolgáltató fenntartójával a TVK átadásáról és annak mértékéről is megállapodik.
 
-(10)[^303] A (9) bekezdés b) pontjában foglaltak irányadók arra az esetre is, amikor a járóbeteg-szakellátás ellátási szintjei között történik a területi ellátási kötelezettség módosítása.
+(10)[^306] A (9) bekezdés b) pontjában foglaltak irányadók arra az esetre is, amikor a járóbeteg-szakellátás ellátási szintjei között történik a területi ellátási kötelezettség módosítása.
 
-(11)[^304] Nem kell módosítani a TVK-t abban az esetben, ha szünetelés miatt az egészségügyi államigazgatási szerv egy adott szakellátás vonatkozásában más egészségügyi szolgáltatót jelöl ki, és a kijelölés időtartama a 30 napot nem haladja meg. Az egészségügyi szolgáltatók fenntartói a 30 napot meg nem haladó szünetelés időtartamára a TVK átadásáról megállapodhatnak.
+(11)[^307] Nem kell módosítani a TVK-t abban az esetben, ha szünetelés miatt az egészségügyi államigazgatási szerv egy adott szakellátás vonatkozásában más egészségügyi szolgáltatót jelöl ki, és a kijelölés időtartama a 30 napot nem haladja meg. Az egészségügyi szolgáltatók fenntartói a 30 napot meg nem haladó szünetelés időtartamára a TVK átadásáról megállapodhatnak.
 
-[^283]: A 27/A. §-t a 41/2007. (III. 13.) Korm. rendelet 7. §-a iktatta be, szövege az 58/2009. (III. 18.) Korm. rendelet 8. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést első alkalommal a 2009. második félévre vonatkozó előre meghatározott alapdíjjal finanszírozott teljesítmények tekintetében kell alkalmazni; lásd még a 18. § (3)–(5) bekezdését.
-[^284]: A 27/A. § (1) bekezdése a 232/2009. (X. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg, e módosító rendelet 6. § (3) bekezdése alapján első alkalommal a 2009. november 1-jét követő teljesítmények elszámolására kell alkalmazni.
-[^285]: A 27/A. § (1) bekezdés a) pontja a 365/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^286]: A 27/A. § (1) bekezdés c) pontja a 365/2010. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^287]: A 27/A. § (1) bekezdés d) pontja a 464/2016. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^288]: A 27/A. § (1) bekezdés f) pontját a 365/2010. (XII. 30.) Korm. rendelet 19. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^289]: A 27/A. § (1) bekezdés g) pontja a 365/2010. (XII. 30.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^290]: A 27/A. § (1) bekezdés h) pontja a 360/2009. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^291]: A 27/A. § (1) bekezdés i) pontját a 365/2010. (XII. 30.) Korm. rendelet 19. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^292]: A 27/A. § (2) bekezdése a 232/2009. (X. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 413/2015. (XII. 23.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^293]: A 27/A. § (3) bekezdése a 291/2009. (XII. 18.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^294]: A 27/A. § (3a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 18. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § b) pontja.
-[^295]: A 27/A. § (4) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 137/2012. (VI. 29.) Korm. rendelet 20. § c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 40. § c) pontja szerint módosított szöveg.
-[^296]: A 27/A. § (4a) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^297]: A 27/A. § (5) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^298]: A 27/A. § (6) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 464/2016. (XII. 23.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
-[^299]: A 27/A. § (7) bekezdése a 232/2009. (X. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg, e módosító rendelet 6. § (3) bekezdése alapján első alkalommal a 2009. november 1-jét követő teljesítmények elszámolására kell alkalmazni.
-[^300]: A 27/A. § (8) bekezdését a 232/2009. (X. 16.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 18. § 28. pontja, a 192/2015. (VII. 21.) Korm. rendelet 26. § i) pontja szerint módosított szöveg.
-[^301]: A 27/A. § (9) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 28. §-a iktatta be.
-[^302]: A 27/A. § (9) bekezdés b) pontja a 413/2015. (XII. 23.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
-[^303]: A 27/A. § (10) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 28. §-a iktatta be.
-[^304]: A 27/A. § (11) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 28. §-a iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^286]: A 27/A. §-t a 41/2007. (III. 13.) Korm. rendelet 7. §-a iktatta be, szövege az 58/2009. (III. 18.) Korm. rendelet 8. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést első alkalommal a 2009. második félévre vonatkozó előre meghatározott alapdíjjal finanszírozott teljesítmények tekintetében kell alkalmazni; lásd még a 18. § (3)–(5) bekezdését.
+[^287]: A 27/A. § (1) bekezdése a 232/2009. (X. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg, e módosító rendelet 6. § (3) bekezdése alapján első alkalommal a 2009. november 1-jét követő teljesítmények elszámolására kell alkalmazni.
+[^288]: A 27/A. § (1) bekezdés a) pontja a 365/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^289]: A 27/A. § (1) bekezdés c) pontja a 365/2010. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^290]: A 27/A. § (1) bekezdés d) pontja a 464/2016. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^291]: A 27/A. § (1) bekezdés f) pontját a 365/2010. (XII. 30.) Korm. rendelet 19. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^292]: A 27/A. § (1) bekezdés g) pontja a 365/2010. (XII. 30.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^293]: A 27/A. § (1) bekezdés h) pontja a 360/2009. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^294]: A 27/A. § (1) bekezdés i) pontját a 365/2010. (XII. 30.) Korm. rendelet 19. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^295]: A 27/A. § (2) bekezdése a 232/2009. (X. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 413/2015. (XII. 23.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^296]: A 27/A. § (3) bekezdése a 291/2009. (XII. 18.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^297]: A 27/A. § (3a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 18. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § b) pontja.
+[^298]: A 27/A. § (4) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 137/2012. (VI. 29.) Korm. rendelet 20. § c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 40. § c) pontja szerint módosított szöveg.
+[^299]: A 27/A. § (4a) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^300]: A 27/A. § (5) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^301]: A 27/A. § (6) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 464/2016. (XII. 23.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^302]: A 27/A. § (7) bekezdése a 232/2009. (X. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg, e módosító rendelet 6. § (3) bekezdése alapján első alkalommal a 2009. november 1-jét követő teljesítmények elszámolására kell alkalmazni.
+[^303]: A 27/A. § (8) bekezdését a 232/2009. (X. 16.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 18. § 28. pontja, a 192/2015. (VII. 21.) Korm. rendelet 26. § i) pontja szerint módosított szöveg.
+[^304]: A 27/A. § (9) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 28. §-a iktatta be.
+[^305]: A 27/A. § (9) bekezdés b) pontja a 413/2015. (XII. 23.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^306]: A 27/A. § (10) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 28. §-a iktatta be.
+[^307]: A 27/A. § (11) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 28. §-a iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
