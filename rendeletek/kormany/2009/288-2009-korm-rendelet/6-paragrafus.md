@@ -1,3 +1,3 @@
-6. §[^13]
+6. §[^14]
 
-[^13]: A 6. §-t a 432/2013. (XI. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^14]: A 6. §-t a 432/2013. (XI. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.

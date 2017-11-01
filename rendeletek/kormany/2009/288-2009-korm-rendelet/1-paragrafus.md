@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya kiterjed a Magyarországon gazdasági tevékenységet folytató
+## 1. §[^2] E rendelet hatálya kiterjed a Magyarországon gazdasági tevékenységet folytató
 
 a) jogi személyekre,
 
@@ -8,4 +8,4 @@ c) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a tovább
 
 d) nem üzletszerű gazdasági tevékenységet folytató természetes személyekre, azok gazdasági tevékenységére vonatkozóan.
 
-[^1]: Az 1. § a 377/2016. (XI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 377/2016. (XI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
