@@ -1,4 +1,4 @@
-## 18. [^103] A képzési támogatás
+## 18. [^104] A képzési támogatás
 
 35. § (1) A képzési támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
@@ -26,4 +26,4 @@ e) az oktatóknak és a képzés résztvevőinek a közvetlenül a képzési pro
 
 (5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
 
-[^103]: A 18. alcímet (35. §) a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 28/2017. (X. 3.) NGM rendelet 6. §-a iktatta be.
+[^104]: A 18. alcímet (35. §) a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 28/2017. (X. 3.) NGM rendelet 6. §-a iktatta be.

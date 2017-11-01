@@ -6,6 +6,6 @@
 
 (4) A támogatás akkor vehető igénybe, ha a beruházó az elszámolható költségek legalább 25%-át saját forrásból biztosítja, továbbá a teljes beruházás megvalósításához szükséges költségek forrását a támogató számára bemutatja.
 
-(5)[^101] A kedvezményezett a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem telepítette át azt a létesítményt, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy ilyet legalább két évig nem is hajt végre azt követően, hogy a támogatási kérelem tárgyát képező induló beruházás befejeződött.
+(5)[^102] A kedvezményezett a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem telepítette át azt a létesítményt, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy ilyet legalább két évig nem is hajt végre azt követően, hogy a támogatási kérelem tárgyát képező induló beruházás befejeződött.
 
-[^101]: A 28. § (5) bekezdését a 28/2017. (X. 3.) NGM rendelet 5. §-a iktatta be.
+[^102]: A 28. § (5) bekezdését a 28/2017. (X. 3.) NGM rendelet 5. §-a iktatta be.

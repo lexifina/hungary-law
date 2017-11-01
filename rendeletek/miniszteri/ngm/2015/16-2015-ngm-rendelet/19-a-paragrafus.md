@@ -1,4 +1,4 @@
-## 12/A. [^99] Az épület-energiahatékonysági projektre irányuló beruházási támogatás
+## 12/A. [^100] Az épület-energiahatékonysági projektre irányuló beruházási támogatás
 
 19/A. § (1) Az épület-energiahatékonysági projektre irányuló beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) az épület- vagy lakástulajdonosok, továbbá a bérlők (ezen alcím vonatkozásában a továbbiakban: kedvezményezett) épület-energiahatékonysági projektjeire kölcsön vagy kezességvállalás formájában nyújtható.
 
@@ -12,4 +12,4 @@
 
 (6) Nem nyújtható támogatás már elfogadott, de még nem hatályos európai uniós szabványnak való megfelelés érdekében megvalósított beruházáshoz.
 
-[^99]: A 12/A. alcímet (19/A–19/D. §) a 3/2017. (III. 28.) NGM rendelet 4. §-a iktatta be.
+[^100]: A 12/A. alcímet (19/A–19/D. §) a 3/2017. (III. 28.) NGM rendelet 4. §-a iktatta be.

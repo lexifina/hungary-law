@@ -4,23 +4,23 @@
 
 ## 3. Az egyes támogatási kategóriákra vonatkozó közös szabályok
 
-5. § (1)[^63] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet, az 1370/2007/EK európai parlamenti és tanácsi rendelet, a 717/2014/EU bizottsági rendelet és a 2012/21/EU bizottsági határozat hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+5. § (1)[^64] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet, az 1370/2007/EK európai parlamenti és tanácsi rendelet, a 717/2014/EU bizottsági rendelet és a 2012/21/EU bizottsági határozat hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (2) A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
 
-(3)[^64] Nem ítélhető meg támogatás
+(3)[^65] Nem ítélhető meg támogatás
 
 a) – a 4., 4/A. és 4/B. alcím szerinti támogatás kivételével – azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
-b)[^65] – a 8. § (4) bekezdésében foglaltak figyelembevételével – a 4., 4/A., 4/B. és 5. alcím, valamint a 16. és 21. alcím szerinti támogatás kivételével nehéz helyzetben lévő vállalkozás részére.
+b)[^66] – a 8. § (4) bekezdésében foglaltak figyelembevételével – a 4., 4/A., 4/B. és 5. alcím, valamint a 16. és 21. alcím szerinti támogatás kivételével nehéz helyzetben lévő vállalkozás részére.
 
 (4) Nem ítélhető meg
 
-a)[^66] a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 4., 4/A., 6–17., 19., 19/A., 21–21/C., 22. alcím szerinti támogatás,
+a)[^67] a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 4., 4/A., 6–17., 19., 19/A., 21–21/C., 22. alcím szerinti támogatás,
 
-b)[^67] elsődleges mezőgazdasági termeléshez a 4–6., 16., 17., 19., 19/A., 21/B., 21/C., 22. alcím szerinti támogatás,
+b)[^68] elsődleges mezőgazdasági termeléshez a 4–6., 16., 17., 19., 19/A., 21/B., 21/C., 22. alcím szerinti támogatás,
 
-c)[^68] mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére a 4. alcím szerinti támogatás, illetve a 4/A. alcím szerinti támogatás, ha
+c)[^69] mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére a 4. alcím szerinti támogatás, illetve a 4/A. alcím szerinti támogatás, ha
 
 ca) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre, vagy
 
@@ -32,11 +32,11 @@ e) import áru helyett hazai áru használatától függővé tett támogatás,
 
 f) olyan feltétellel nyújtott támogatás, amely az európai uniós jog megsértését eredményezi.
 
-(5)[^69] A támogatás csak akkor ítélhető meg, ha a kedvezményezett
+(5)[^70] A támogatás csak akkor ítélhető meg, ha a kedvezményezett
 
-a)[^70] az 5–15., 17. és 19., valamint a 22. alcímek alapján nyújtott támogatások esetén a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét, illetve
+a)[^71] az 5–15., 17. és 19., valamint a 22. alcímek alapján nyújtott támogatások esetén a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét, illetve
 
-b)[^71]
+b)[^72]
 
 ## a projekt megkezdése előtt írásban benyújtotta.
 
@@ -52,18 +52,18 @@ b)[^71]
 
 (11) A több részletben kifizetett támogatást a támogatási döntés időpontja szerinti értékre kell diszkontálni a diszkont kamatláb alkalmazásával.
 
-(12)[^72] Az általános forgalmi adó (áfa) nem támogatható, kivéve, ha az áfára vonatkozó nemzeti jogszabályok értelmében nem igényelhető vissza.
+(12)[^73] Az általános forgalmi adó (áfa) nem támogatható, kivéve, ha az áfára vonatkozó nemzeti jogszabályok értelmében nem igényelhető vissza.
 
-(13)[^73]
+(13)[^74]
 
-[^63]: Az 5. § (1) bekezdése a 30/2015. (XI. 19.) NGM rendelet 10. § 4. pontja, a 42/2016. (X. 17.) NGM rendelet 15. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^64]: Az 5. § (3) bekezdése a 42/2016. (XI. 17.) NGM rendelet 3. §-ával megállapított szöveg.
-[^65]: Az 5. § (3) bekezdés b) pontja a 28/2017. (X. 3.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
-[^66]: Az 5. § (4) bekezdés a) pontja a 42/2016. (X. 17.) NGM rendelet 15. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^67]: Az 5. § (4) bekezdés b) pontja a 42/2016. (X. 17.) NGM rendelet 15. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^68]: Az 5. § (4) bekezdés c) pont nyitó szövegrésze a 30/2015. (XI. 19.) NGM rendelet 10. § 6. pontja szerint módosított szöveg.
-[^69]: Az 5. § (5) bekezdése a 43/2015. (XII. 30.) NGM rendelet 3. §-ával megállapított szöveg.
-[^70]: Az 5. § (5) bekezdés a) pontja a 42/2016. (X. 17.) NGM rendelet 15. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^71]: Az 5. § (5) bekezdés b) pontját a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^72]: Az 5. § (12) bekezdését a 30/2015. (XI. 19.) NGM rendelet 4. §-a iktatta be.
-[^73]: Az 5. § (13) bekezdését a 43/2015. (XII. 30.) NGM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
+[^64]: Az 5. § (1) bekezdése a 30/2015. (XI. 19.) NGM rendelet 10. § 4. pontja, a 42/2016. (X. 17.) NGM rendelet 15. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^65]: Az 5. § (3) bekezdése a 42/2016. (XI. 17.) NGM rendelet 3. §-ával megállapított szöveg.
+[^66]: Az 5. § (3) bekezdés b) pontja a 28/2017. (X. 3.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
+[^67]: Az 5. § (4) bekezdés a) pontja a 42/2016. (X. 17.) NGM rendelet 15. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^68]: Az 5. § (4) bekezdés b) pontja a 42/2016. (X. 17.) NGM rendelet 15. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^69]: Az 5. § (4) bekezdés c) pont nyitó szövegrésze a 30/2015. (XI. 19.) NGM rendelet 10. § 6. pontja szerint módosított szöveg.
+[^70]: Az 5. § (5) bekezdése a 43/2015. (XII. 30.) NGM rendelet 3. §-ával megállapított szöveg.
+[^71]: Az 5. § (5) bekezdés a) pontja a 42/2016. (X. 17.) NGM rendelet 15. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^72]: Az 5. § (5) bekezdés b) pontját a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^73]: Az 5. § (12) bekezdését a 30/2015. (XI. 19.) NGM rendelet 4. §-a iktatta be.
+[^74]: Az 5. § (13) bekezdését a 43/2015. (XII. 30.) NGM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.

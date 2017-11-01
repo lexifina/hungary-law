@@ -10,15 +10,15 @@ d) az N 39/2010 bizottsági határozat szerinti kulturális célú támogatás e
 
 e) az SA.34770 (2012/N-2) bizottsági határozat szerinti kulturális célú támogatás esetén 2018. szeptember 1-jéig,
 
-f)[^85]
+f)[^86]
 
-g)[^86] mezőgazdasági csekély összegű támogatások esetén 2021. június 30-ig,
+g)[^87] mezőgazdasági csekély összegű támogatások esetén 2021. június 30-ig,
 
-h)[^87]
+h)[^88]
 
-i)[^88] halászati csekély összegű támogatások esetén 2021. június 30-ig
+i)[^89] halászati csekély összegű támogatások esetén 2021. június 30-ig
 
-[^85]: A 7. § f) pontját a 30/2015. (XI. 19.) NGM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
-[^86]: A 7. § g) pontját a 30/2015. (XI. 19.) NGM rendelet 5. §-a iktatta be.
-[^87]: A 7. § h) pontját a 43/2015. (XII. 30.) NGM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
-[^88]: A 7. § i) pontját a 42/2016. (XI. 17.) NGM rendelet 6. §-a iktatta be.
+[^86]: A 7. § f) pontját a 30/2015. (XI. 19.) NGM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
+[^87]: A 7. § g) pontját a 30/2015. (XI. 19.) NGM rendelet 5. §-a iktatta be.
+[^88]: A 7. § h) pontját a 43/2015. (XII. 30.) NGM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
+[^89]: A 7. § i) pontját a 42/2016. (XI. 17.) NGM rendelet 6. §-a iktatta be.

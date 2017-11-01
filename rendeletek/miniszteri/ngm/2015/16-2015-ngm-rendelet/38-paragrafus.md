@@ -12,6 +12,6 @@
 
 (5) A kedvezményezett a támogatásról olyan elkülönített elszámolást köteles vezetni, amelyből a (2)–(4) bekezdésben meghatározott követelmények ellenőrizhetőek.
 
-(6)[^106] A 2012/21/EU bizottsági határozat alapján támogatás kizárólag a támogatható tevékenység tekintetében megbízási aktussal rendelkező kedvezményezett részére nyújtható.
+(6)[^107] A 2012/21/EU bizottsági határozat alapján támogatás kizárólag a támogatható tevékenység tekintetében megbízási aktussal rendelkező kedvezményezett részére nyújtható.
 
-[^106]: A 38. § (6) bekezdését a 28/2017. (X. 3.) NGM rendelet 7. §-a iktatta be.
+[^107]: A 38. § (6) bekezdését a 28/2017. (X. 3.) NGM rendelet 7. §-a iktatta be.
