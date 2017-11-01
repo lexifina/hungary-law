@@ -20,7 +20,7 @@ d)[^12] az a) és b) pontban megjelölt személyek által az adóévben igénybe
 
 (4)[^13]
 
-(5)[^14] A T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján igényelhető összeg folyósítása iránti kérelmet az ONYF Központja által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – e célra rendszeresített, és az ONYF, valamint a nyugdíjbiztosítási igazgatási szervek honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon a nyugdíjfolyósító szervhez kell benyújtani. Az adatlap és az elektronikus űrlap tartalmazza
+(5)[^14] A T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján igényelhető összeg folyósítása iránti kérelmet a Központ által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – e célra rendszeresített, és a Magyar Államkincstár, valamint a nyugdíjbiztosítási igazgatási szervek honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon a nyugdíjfolyósító szervhez kell benyújtani. Az adatlap és az elektronikus űrlap tartalmazza
 
 a) az ellátásban részesülő, vele közös háztartásban élő házastársa, élettársa és az eltartottak természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét és Társadalombiztosítási Azonosító Jelét,
 
@@ -46,7 +46,7 @@ c) az Szja. tv. 29/A. § (4) bekezdés b) pontja szerinti kedvezményezett eltar
 
 [^12]: A 9. § (3) bekezdés d) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^13]: A 9. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 188. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^14]: A 9. § (5) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 188. § (1) bekezdés b)–c) pontja szerint módosított szöveg.
+[^14]: A 9. § (5) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 188. § (1) bekezdés b)–c) pontja, a 311/2017. (X. 31.) Korm. rendelet 19. § d)–e) pontja szerint módosított szöveg.
 [^15]: A 9. § (5) bekezdés b) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^16]: A 9. § (5) bekezdés c) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^17]: A 9. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 188. § (1) bekezdés d) pontja szerint módosított szöveg.
