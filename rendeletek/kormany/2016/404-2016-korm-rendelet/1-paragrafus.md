@@ -48,8 +48,10 @@
 
 24. nemzeti helytállásért elnevezésű pótlékot
 
-## folyósítanak.
+folyósítanak.
 
 (2) Az egyszeri juttatás akkor is egyszer jár, ha a jogosult több, az (1) bekezdés 1–24. pontjában meghatározott ellátásban részesül.
 
-(3) A postai kézbesítés eredménytelensége esetén az ismételt kiküldés iránti kérelmet az Országos Nyugdíjbiztosítási Főigazgatóság Nyugdíjfolyósító Igazgatóságánál kell előterjeszteni. A kérelem benyújtásának jogvesztő határideje 2017. február 28.
+(3)[^2]
+
+[^2]: Az 1. § (3) bekezdését a 311/2017. (X. 31.) Korm. rendelet 31. §-a hatályon kívül helyezte.
