@@ -102,8 +102,6 @@ magas biztonsági szintű biológiai laboratóriumok
 
 |
 
-egészségbiztosítás informatikai rendszere
-
 |
 
 16a
@@ -113,6 +111,18 @@ egészségbiztosítás informatikai rendszere
 |
 
 gyógyszer-nagykereskedelem
+
+|
+
+16b
+
+|
+
+Társadalombiztosítás
+
+|
+
+társadalombiztosítási ellátások igénybevételéhez kapcsolódó informatikai rendszerek és nyilvántartások
 
 |
 
