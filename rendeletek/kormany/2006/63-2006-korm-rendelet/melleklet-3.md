@@ -1,4 +1,4 @@
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^237]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^238]
 
 ## KÉRELEM
 
@@ -342,4 +342,4 @@ d) az 5.3.3. pont d) és e) alpontjában meghatározott esetben: a korábban meg
 
 a törvényes képviselője jogosult az aláírásra.
 
-[^237]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés u) pontja, a 417/2015. (XII. 23.) Korm. rendelet 28. §-a, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés c) pontja, a 217/2016. (VII. 22.) Korm. rendelet 12. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 18. pontja, a 440/2016. (XII. 16.) Korm. rendelet 9. §-a, a 235/2017. (VIII. 18.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^238]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés u) pontja, a 417/2015. (XII. 23.) Korm. rendelet 28. §-a, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés c) pontja, a 217/2016. (VII. 22.) Korm. rendelet 12. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 18. pontja, a 440/2016. (XII. 16.) Korm. rendelet 9. §-a, a 235/2017. (VIII. 18.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.

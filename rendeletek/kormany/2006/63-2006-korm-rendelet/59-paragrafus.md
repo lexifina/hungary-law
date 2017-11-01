@@ -1,3 +1,3 @@
-59. §[^222]
+59. §[^223]
 
-[^222]: Az 59. §-t a 116/2016. (VI. 6.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
+[^223]: Az 59. §-t a 116/2016. (VI. 6.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
