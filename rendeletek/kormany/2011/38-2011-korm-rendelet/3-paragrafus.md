@@ -12,7 +12,7 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 3. | Az állami foglalkoztatási szerv feladatainak ellátásához szükséges adatbázis | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
-| 4. | Egységes szociális nyilvántartás | Országos Nyugdíjbiztosítási Főigazgatóság Központja | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
+| 4. | Egységes szociális nyilvántartás | Magyar Államkincstár központi szerve | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
 | 5. | Az európai uniós források felhasználásához kötődő adatfeldolgozói feladatok | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság, Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | elektronikus adatfeldolgozás | kötelező |
 
@@ -62,10 +62,10 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 28. | Bűnügyi nyilvántartási rendszer | IdomSoft Informatikai Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | kötelező |
 
-| 29. | Egységes örökbefogadási nyilvántartás | Országos Nyugdíjbiztosítási Főigazgatóság Központja | elektronikus adatfeldolgozás | kötelező |
+| 29. | Egységes örökbefogadási nyilvántartás | Magyar Államkincstár központi szerve | elektronikus adatfeldolgozás | kötelező |
 
 | 30. | Természetes személyek közhiteles országos adósságrendezési nyilvántartása, az adósságrendezési eljárással összefüggő hirdetményi rendszer | Magyar Közlöny Lap- és Könyvkiadó Korlátolt Felelősségű Társaság | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
 | 31. | Természetes személyek adósságrendezési eljárásával összefüggő nyomtatványellenőrzési és nyomtatványkitöltő informatikai rendszer | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
-[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a szerint módosított szöveg.
