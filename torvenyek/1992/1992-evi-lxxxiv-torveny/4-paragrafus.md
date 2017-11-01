@@ -2,7 +2,7 @@
 
 4. § (1) A Nyugdíjbiztosítási Alap az öregségi nyugdíj – ideértve a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében meghatározott nők korhatár alatti nyugellátását is –, a hozzátartozói nyugellátás és törvényben meghatározott méltányossági kifizetések fedezetére szolgál.
 
-(2) A Nyugdíjbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával, megállapításával és az adatszolgáltatással összefüggésben közvetlenül felmerült kamatkiadásokra, bankköltségre, postaköltségre – ideértve a bérmentesítő gép alkalmazásával kapcsolatos költségeket is – az ügyfelekkel való kapcsolattartás nyomtatott dokumentumai előállítási költségére, a kapcsolattartás elektronikus és digitális eszközeinek – ideértve a kapcsolódó szolgáltatásokat – fenntartási költségére, a jóváhagyott működési kiadások külső forrásból nem biztosított fedezetének biztosítására, az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeire, valamint a törvényben meghatározott egyéb kiadásra használható fel, ideértve az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás során a Nyugdíjbiztosítási Alapot terhelő összeg fedezetét.
+(2) A Nyugdíjbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával, megállapításával és az adatszolgáltatással, továbbá a központi nyugdíjbiztosítási szerv és a nyugdíjfolyósító szerv hatáskörébe tartozó feladatokkal összefüggésben közvetlenül felmerült kamatkiadásokra, bankköltségre, postaköltségre – ideértve a bérmentesítő gép alkalmazásával kapcsolatos költségeket is – az ügyfelekkel való kapcsolattartás nyomtatott dokumentumainak előállítási költségére, a kapcsolattartás elektronikus és digitális eszközeinek – ideértve a kapcsolódó szolgáltatásokat – fenntartási költségére, a jóváhagyott működési kiadások külső forrásból nem biztosított fedezetének biztosítására, az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeire, valamint a törvényben meghatározott egyéb kiadásra használható fel, ideértve az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás során a Nyugdíjbiztosítási Alapot terhelő összeg fedezetét.
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
@@ -50,7 +50,7 @@ h) a Nyugdíjbiztosítási Alap részére tartozás fejében átadott vagyon ér
 
 i) a Nyugdíjbiztosítási Alaphoz tartozó állami vagyon értékesítéséből és egyéb bevételeiből származó összeg;
 
-j) a 10. §-ban meghatározott működési bevételek;
+j)
 
 k)
 
