@@ -20,4 +20,6 @@ a c) alpont tekintetében az adott évi költségvetés tervezése során
 
 2. engedélyezi a Miniszterelnökség számára az 1. pontban meghatározott feladatokhoz kapcsolódó közbeszerzési eljárás megindítását, lefolytatását, továbbá azt, hogy a Károlyi–Csekonics Palotaegyüttes üzemeltetésére közfeladat-ellátási kötelezettséggel jogosult Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság – a Miniszterelnökség jogutódaként – a közbeszerzési szerződést megkösse, azzal, hogy részére az 1. pontban meghatározott forrást, az 1. pontban meghatározott költségvetési években, a felmerülés ütemében biztosítani kell az erre irányuló támogatási szerződésnek az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 95. § (2) bekezdés b) pontja szerinti módosításával;
 
-3. visszavonja a Károlyi–Csekonics Palotaegyüttes felsőoktatási célú hasznosítása érdekében történő átfogó, állagmegóvó felújításával összefüggő kivitelezési munkák forrásának biztosításáról szóló 1846/2016. (XII. 23.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
