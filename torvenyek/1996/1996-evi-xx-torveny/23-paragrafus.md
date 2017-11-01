@@ -22,7 +22,7 @@ j) a kincstár a helyi önkormányzatokat megillető, a központi költségveté
 
 j) a Magyar Honvédség a törvényben meghatározott hadkiegészítési és érdekvédelmi feladatai ellátásához.
 
-j) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben.
+j) a kincstár a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben.
 
 k) az Elektronikus Egészségügyi Szolgáltatási Tér működtetője az Egészségügyi Szolgáltatási Tér útján történt adatkezelések jogszerűségének ellenőrzése, az érintett tájékoztatása, az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 35/F. §-a, 35/J. és 35/K. §-a, valamint 35/M. §-a szerinti szolgáltatások működtetése céljából,
 
