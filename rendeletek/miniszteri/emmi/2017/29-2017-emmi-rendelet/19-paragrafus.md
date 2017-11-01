@@ -1,0 +1,3 @@
+## 18. § A fokozottan ellenőrzött szernek minősülő gyógyszerek orvosi rendelésének, gyógyszertári forgalmazásának, egészségügyi szolgáltatóknál történő felhasználásának, nyilvántartásának és tárolásának rendjéről szóló 43/2005. (X. 15.) EüM rendelet [a továbbiakban: 43/2005. (X. 15.) EüM rendelet] 2. §-a a következő (3a) bekezdéssel egészül ki:
+
+## „(3a) A vény lehet papíralapú, vagy az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér útján kiállított elektronikus vény (a továbbiakban: elektronikus vény). Az elektronikus vényre e rendeletnek a vényre vonatkozó szabályait az e rendeletben meghatározott eltérésekkel kell alkalmazni.”
