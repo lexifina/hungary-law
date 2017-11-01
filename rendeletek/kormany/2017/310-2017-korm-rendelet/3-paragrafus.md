@@ -1,3 +1,3 @@
-3. §[^3]
+3. § (1) A Kincstár vezetőjének helyettesei az elnökhelyettesek, akik az elnök munkáját segítik.
 
-[^3]: Az 1–8. § a 19. § (2) bekezdése alapján 2017. november 1-jén lép hatályba.
+(2) Elnökhelyettessé szakirányú felsőfokú végzettséggel, legalább hároméves közigazgatási gyakorlattal és legalább hároméves vezetői tapasztalattal rendelkező magyar állampolgár nevezhető ki.

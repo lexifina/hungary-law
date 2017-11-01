@@ -1,3 +1,3 @@
-16. §[^16]
+16. § (1) A Kincstárnak a 15. § (1) bekezdésében, valamint a 17. § (1) és (2) bekezdésében meghatározott feladataihoz kapcsolódó ügyekben országos illetékességgel, első fokon a Kincstár központi szerve jár el.
 
-[^16]: A 15–18. § a 19. § (2) bekezdése alapján 2017. november 1-jén lép hatályba.
+(2) A Kincstárnak a 15. § (1) bekezdés a) pontja szerinti feladatai – a kifizetések kivételével – megállapodásban, a Közös Agrárpolitika tagállami végrehajtásával összefüggő feladatokat ellátó egyes szervezetek kijelöléséről szóló kormányrendeletben, továbbá a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben foglaltak szerint ruházhatók át.

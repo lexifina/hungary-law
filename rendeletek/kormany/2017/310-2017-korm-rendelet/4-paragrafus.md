@@ -1,3 +1,9 @@
-4. §[^4]
+## 4. § A Kincstár
 
-[^4]: Az 1–8. § a 19. § (2) bekezdése alapján 2017. november 1-jén lép hatályba.
+a) a központi szervből,
+
+b) a különös hatáskörű, országos illetékességű igazgatási szervből és
+
+c) a területi szervekből
+
+áll.
