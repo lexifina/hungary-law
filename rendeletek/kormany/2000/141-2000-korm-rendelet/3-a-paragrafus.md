@@ -8,13 +8,16 @@ b) másodfokon eljáró fogyatékossági támogatási szervként Budapest Fővá
 
 ## jelöli ki.
 
-(2) A Kormány a fogyatékossági támogatás folyósítására a Nyugdíjfolyósító Igazgatóságot (a továbbiakban: folyósító szerv) jelöli ki.
+(2)[^9] A Kormány a fogyatékossági támogatás folyósítására a Magyar Államkincstár Nyugdíjfolyósító Igazgatóságot (a továbbiakban: folyósító szerv) jelöli ki.
 
-(3) A Kormány a Fot. 23/F. §-ában meghatározott nyilvántartás vezetésére az Országos Nyugdíjbiztosítási Főigazgatóságot (a továbbiakban: ONYF) jelöli ki.
+(3)[^10] A Kormány a Fot. 23/F. §-ában meghatározott nyilvántartás vezetésére a Magyar Államkincstár központi szervét (a továbbiakban: Központ) jelöli ki.
 
-(4) A fogyatékossági támogatás iránti hatósági ügyben eljáró kormányhivatal tekintetében felügyeleti szervként az ONYF Központja (a továbbiakban: Központ) jár el, és e közigazgatási hatósági ügyekkel összefüggésben gyakorolja az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f) és g) pontjában, valamint kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket.
+(4)[^11] A fogyatékossági támogatás iránti hatósági ügyben eljáró kormányhivatal tekintetében felügyeleti szervként a Központ jár el, és e közigazgatási hatósági ügyekkel összefüggésben gyakorolja az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f) és g) pontjában, valamint kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket.
 
 (5) A járási hivatalok és a kormányhivatal fogyatékossági támogatással kapcsolatos feladatkörének gyakorlásával összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja a (4) bekezdésben meghatározottak kivételével.
 
 [^7]: A 3/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 39. § (1) bekezdése iktatta be.
 [^8]: A 3/A. § (1) bekezdése a 171/2017. (VI. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3/A. § (2) bekezdése a 311/2017. (X. 31.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^10]: A 3/A. § (3) bekezdése a 311/2017. (X. 31.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^11]: A 3/A. § (4) bekezdése a 311/2017. (X. 31.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.

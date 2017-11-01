@@ -1,10 +1,10 @@
-10. §[^48] (1)[^49] A magasabb összegű családi pótlékban részesülő személy fogyatékossági támogatásra csak akkor szerezhet jogosultságot, ha a magasabb összegű családi pótlékra való jogosultságáról lemond.
+10. §[^51] (1)[^52] A magasabb összegű családi pótlékban részesülő személy fogyatékossági támogatásra csak akkor szerezhet jogosultságot, ha a magasabb összegű családi pótlékra való jogosultságáról lemond.
 
-(2)[^50] A járási hivatal a kérelmező bejelentése, nyilatkozata alapján – a súlyos fogyatékosság fennállása esetén – intézkedik a magasabb összegű családi pótlék folyósításának megszüntetéséről.
+(2)[^53] A járási hivatal a kérelmező bejelentése, nyilatkozata alapján – a súlyos fogyatékosság fennállása esetén – intézkedik a magasabb összegű családi pótlék folyósításának megszüntetéséről.
 
-(3)[^51] A súlyos fogyatékosság fennállása esetén a fogyatékossági támogatás a kérelmezőt a kérelem benyújtása hónapjának első napjától illeti meg azzal, hogy a fogyatékossági támogatásra való jogosultság megállapításának és a magasabb összegű családi pótlék megszüntetésének időpontja közötti időtartamra a két ellátás közötti különbözet összegét egy összegben kell kifizetni a kérelmező számára. A különbözet kiutalására a fogyatékossági támogatás folyósításának megkezdésével egyidejűleg kerül sor.
+(3)[^54] A súlyos fogyatékosság fennállása esetén a fogyatékossági támogatás a kérelmezőt a kérelem benyújtása hónapjának első napjától illeti meg azzal, hogy a fogyatékossági támogatásra való jogosultság megállapításának és a magasabb összegű családi pótlék megszüntetésének időpontja közötti időtartamra a két ellátás közötti különbözet összegét egy összegben kell kifizetni a kérelmező számára. A különbözet kiutalására a fogyatékossági támogatás folyósításának megkezdésével egyidejűleg kerül sor.
 
-[^48]: A 10. § a 21/2003. (II. 25.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^49]: A 10. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 189. § (8) bekezdésével megállapított, a 95/2013. (III. 29.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
-[^50]: A 10. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 190. §-a, a 379/2016. (XII. 2.) Korm. rendelet 39. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^51]: A 10. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^51]: A 10. § a 21/2003. (II. 25.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^52]: A 10. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 189. § (8) bekezdésével megállapított, a 95/2013. (III. 29.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^53]: A 10. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 190. §-a, a 379/2016. (XII. 2.) Korm. rendelet 39. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^54]: A 10. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

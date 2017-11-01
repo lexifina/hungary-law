@@ -1,10 +1,10 @@
-9/D. §[^41] (1)[^42]
+9/D. §[^44] (1)[^45]
 
-(2)[^43] Ha a rendelkezésre álló orvosi beutaló nem alkalmas az önkiszolgálási képesség minősítésére és a kérelmező személyes vizsgálata szükséges, a járási hivatal a vizsgálatot a háziorvosi beutalóban javasolt helyen végzi el.
+(2)[^46] Ha a rendelkezésre álló orvosi beutaló nem alkalmas az önkiszolgálási képesség minősítésére és a kérelmező személyes vizsgálata szükséges, a járási hivatal a vizsgálatot a háziorvosi beutalóban javasolt helyen végzi el.
 
-(3)[^44]
+(3)[^47]
 
-[^41]: A 9/D. §-t a 21/2003. (II. 25.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^42]: A 9/D. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 191. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^43]: A 9/D. § (2) bekezdése a 95/2012. (V. 15.) Korm. rendelet 31. § (2) bekezdés d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 39. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^44]: A 9/D. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 43. § (13) bekezdés a) pontja hatályon kívül helyezte.
+[^44]: A 9/D. §-t a 21/2003. (II. 25.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^45]: A 9/D. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 191. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^46]: A 9/D. § (2) bekezdése a 95/2012. (V. 15.) Korm. rendelet 31. § (2) bekezdés d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 39. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^47]: A 9/D. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 43. § (13) bekezdés a) pontja hatályon kívül helyezte.
