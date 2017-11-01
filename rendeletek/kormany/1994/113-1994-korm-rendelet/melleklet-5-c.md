@@ -124,4 +124,4 @@
 
 5/C. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^53]
 
-[^53]: Az R. 5/C. mellékletét a 489/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^53]: Az R. 5/C. mellékletét a 489/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be, szövege a 311/2017. (X. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.

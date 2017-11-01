@@ -90,7 +90,7 @@
 
 ## b) iratokkal nem rendelkezem
 
-## 4. Folyósítási adatok: (Akkor kell kitölteni, ha a Nyugdíjfolyósító Igazgatóságtól ellátásban nem részesül. Tájékoztatjuk, hogy a hadigondozotti ellátást folyósító szerv kizárólag olyan számlára teljesíthet utalást, mely felett Önnek rendelkezési joga van. Amennyiben a Nyugdíjfolyósító Igazgatóság más címen is folyósít ellátást az ön részére, a hadigondozási ellátást csak az egyéb ellátásával együtt, a már bejelentett lakcímre, illetve bankszámlára tudja folyósítani.)
+## 4. Folyósítási adatok: (Akkor kell kitölteni, ha a nyugdíjfolyósító szervtől ellátásban nem részesül. Tájékoztatjuk, hogy a hadigondozotti ellátást folyósító szerv kizárólag olyan számlára teljesíthet utalást, mely felett Önnek rendelkezési joga van. Amennyiben a nyugdíjfolyósító szerv más címen is folyósít ellátást az ön részére, a hadigondozási ellátást csak az egyéb ellátásával együtt, a már bejelentett lakcímre, illetve bankszámlára tudja folyósítani.)
 
 ## Kérem, hogy a megállapított járadékot részemre az alábbi pénzintézetnél vezetett számlaszámra szíveskedjenek folyósítani.
 
