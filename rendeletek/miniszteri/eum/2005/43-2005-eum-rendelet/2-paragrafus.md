@@ -6,9 +6,12 @@
 
 (3)[^16] A betegek a fokozottan ellenőrzött szereket kizárólag a nevükre szóló orvosi vény alapján, saját felhasználás céljából birtokolhatják, tárolhatják és alkalmazhatják.
 
-(4)[^17] Fokozottan ellenőrzött szer közforgalmú és közvetlen lakossági gyógyszerellátó tevékenységet is végző intézeti gyógyszertárban forgalmazható.
+(3a)[^17] A vény lehet papíralapú, vagy az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér útján kiállított elektronikus vény (a továbbiakban: elektronikus vény). Az elektronikus vényre e rendeletnek a vényre vonatkozó szabályait az e rendeletben meghatározott eltérésekkel kell alkalmazni.
+
+(4)[^18] Fokozottan ellenőrzött szer közforgalmú és közvetlen lakossági gyógyszerellátó tevékenységet is végző intézeti gyógyszertárban forgalmazható.
 
 [^14]: A 2. § (1) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 12. §-ával megállapított szöveg.
 [^15]: A 2. § (2) bekezdése a 47/2015. (X. 19.) EMMI rendelet 17. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 47. § a) pontja szerint módosított szöveg.
 [^16]: A 2. § (3) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (4) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 24. § b) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja szerint módosított szöveg.
-[^17]: A 2. § (4) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 18. §-a iktatta be, szövege az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.
+[^17]: A 2. § (3a) bekezdését a 29/2017. (X. 31.) EMMI rendelet 18. §-a iktatta be.
+[^18]: A 2. § (4) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 18. §-a iktatta be, szövege az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.
