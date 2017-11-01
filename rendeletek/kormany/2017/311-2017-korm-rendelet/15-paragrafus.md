@@ -1,0 +1,1 @@
+## 14. § A területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló 31/2007. (II. 28.) Korm. rendelet (a továbbiakban: Teir.) 2. számú melléklet 1. pontjában foglalt táblázat A:106 mezőjében az „ONYF” szövegrész helyébe a „Kincstár” szöveg lép.
