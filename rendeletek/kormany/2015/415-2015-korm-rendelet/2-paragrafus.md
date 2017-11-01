@@ -2,7 +2,7 @@
 
 (2) A nyilvántartásokba történő adatszolgáltatásért a fenntartó felel.
 
-(3)[^3] A fenntartó az adatszolgáltatás teljesítésére – az Országos Nyugdíjbiztosítási Főigazgatóság honlapján közzétett formanyomtatványon – ügyfélkapu belépési jogosultsággal rendelkező személyt jelöl ki (a továbbiakban: e-képviselő). Az egyéni vállalkozó fenntartó és a fenntartó szervezet képviselője saját magát is kijelölheti e-képviselőnek.
+(3)[^3] A fenntartó az adatszolgáltatás teljesítésére – a Magyar Államkincstár honlapján közzétett formanyomtatványon – ügyfélkapu belépési jogosultsággal rendelkező személyt jelöl ki (a továbbiakban: e-képviselő). Az egyéni vállalkozó fenntartó és a fenntartó szervezet képviselője saját magát is kijelölheti e-képviselőnek.
 
 (4)[^4] A kijelölő okiratot a fenntartó elektronikus úton küldi meg a Központ részére. A fenntartó köteles a Központnak bejelenteni, ha az e-képviselő Központnak megküldött adatai megváltoztak vagy kijelölése megszűnt.
 
@@ -14,7 +14,7 @@
 
 (8)[^6] Az e-képviselő köteles a nyilvántartások informatikai rendszerében bejelenteni, ha az adatszolgáltató munkatárs Központnak megküldött adatai megváltoztak. Az adatszolgáltató munkatárs kijelölése a nyilvántartások informatikai rendszerében vonható vissza.
 
-[^3]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdése a 311/2017. (X. 31.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) és c) pontja, a 477/2016. (XII. 27.) Korm. rendelet 85. § (2) bekezdése szerint módosított szöveg.
 [^5]: A 2. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^6]: A 2. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés e) pontja szerint módosított szöveg.
