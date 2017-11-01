@@ -1,4 +1,4 @@
-18/B. § (1) A Kormány által kijelölt szerv az ellátásokra való jogosultság fennállásának ellenőrzése céljából országos nyilvántartást vezet
+18/B. § (1) A kincstár az ellátásokra való jogosultság fennállásának ellenőrzése céljából országos nyilvántartást vezet
 
 a) az időskorúak járadékáról, az aktív korúak ellátásáról, az ápolási díjról, a közgyógyellátásról, az egészségügyi szolgáltatásra való jogosultságról és a települési támogatásról,
 
