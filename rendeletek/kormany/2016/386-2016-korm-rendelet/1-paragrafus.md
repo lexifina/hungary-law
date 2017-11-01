@@ -6,4 +6,6 @@ b) az egészségbiztosítási pénztári feladatkörében eljáró fővárosi é
 
 c) a kormányhivatalnak az egészségbiztosítási pénztári feladatkörében eljáró, megyeszékhelyen működő járási hivatala, illetve a fővárosban Budapest Főváros Kormányhivatala XIII. Kerületi Hivatala (a továbbiakban együtt: járási hivatal) és
 
-d) az egészségbiztosítási pénztári feladatkörében eljáró Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) Központja.
+d)[^1] az egészségbiztosítási pénztári feladatkörében eljáró Magyar Államkincstár központi szerve (a továbbiakban: Központ).
+
+[^1]: Az 1. § d) pontja a 311/2017. (X. 31.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
