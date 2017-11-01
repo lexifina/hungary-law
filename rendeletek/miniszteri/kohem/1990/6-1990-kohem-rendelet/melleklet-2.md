@@ -206,7 +206,7 @@
 
 | 45A. | 2007/46 661/2009 |  | 43 | 00 | Biztonsági üvegezés és üvegek | + | + | – |
 
-| A/46. | 92/23 | 2001/43 2005/11 |  |  | Gumiabroncsok | + | + | + |
+| A/46. |  |  |  |  |  |  |  |  |
 
 | 46A. | 661/2009 458/2011 |  |  |  | Gumiabroncsok felszerelése | + | + | + |
 
@@ -294,7 +294,7 @@
 
 ## 1. Az e rendelet szerint jóváhagyandó motorkerékpárokra és segédmotoros kerékpárokra vonatkozó jóváhagyási kötelezettségek
 
-## 7K00739M_1
+## 7K00739N_1
 
 | MR | EK (EGK) | ENSZ-EGB | Műszaki terület | A | B |
 
@@ -510,7 +510,7 @@
 
 ## 1. Az e rendelet szerint jóváhagyandó traktorokra vonatkozó jóváhagyási kötelezettségek
 
-## 7K00739M_6
+## 7K00739N_6
 
 | MR | ENSZ-EGB | EK (EGK) | Műszaki terület | A | B |
 
