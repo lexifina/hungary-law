@@ -32,13 +32,13 @@
 
 ## b) a Magyar Közlöny Szerkesztőség küldeményei;
 
-## c)[^170] az Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) és a nyugdíjbiztosítási igazgatási szervként, illetve a családtámogatásokkal, a fogyatékossági támogatással, a vakok személyi járadékával, a bányászati keresetkiegészítéssel vagy a nagycsaládos gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények, amelyeknek – kormányrendeletben meghatározott esetben – a központilag történő érkeztetését, digitalizálását, iktatását, illetve kézbesítését az ONYF végzi;
+## c)[^171] a nyugdíjbiztosítási igazgatási szervként, illetve a családtámogatásokkal, a fogyatékossági támogatással, a vakok személyi járadékával, a bányászati keresetkiegészítéssel vagy a nagycsaládos gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények, amelyeknek – kormányrendeletben meghatározott esetben – a központilag történő érkeztetését, digitalizálását, iktatását, illetve kézbesítését a Magyar Államkincstár végzi;
 
 ## d) diplomáciai és konzuli küldemények, valamint a Magyarországon akkreditált diplomáciai testületek küldeményei;
 
 ## e) különleges digitalizálási eljárást igénylő küldemények;
 
-## f)[^171] a biztonsági okmányok védelmének rendjéről szóló kormányrendeletben meghatározott biztonsági okmányok;
+## f)[^172] a biztonsági okmányok védelmének rendjéről szóló kormányrendeletben meghatározott biztonsági okmányok;
 
 ## g) kegyelmi ügyek;
 
@@ -46,19 +46,19 @@
 
 ## i) nemzetbiztonsági kérdőív, nemzetbiztonsági ellenőrzés eredményeit tartalmazó dokumentumok;
 
-## j)[^172] az 1. mellékletben meghatározott szervek iratkezelési szabályzatában – egységes iratkezelési szabályzat alkalmazása esetén kizárólag az abban – meghatározott egyes iratok;
+## j)[^173] az 1. mellékletben meghatározott szervek iratkezelési szabályzatában – egységes iratkezelési szabályzat alkalmazása esetén kizárólag az abban – meghatározott egyes iratok;
 
-## k)[^173] az 1. mellékletben felsorolt szervek iratkezelési szabályzatában – egységes iratkezelési szabályzat alkalmazása esetén kizárólag az abban – meghatározott azon küldemények, amelyek kezelésére a szerv iratkezelési szabályzata speciális rendelkezéseket tartalmaz és digitalizálásukról a szerv gondoskodik;
+## k)[^174] az 1. mellékletben felsorolt szervek iratkezelési szabályzatában – egységes iratkezelési szabályzat alkalmazása esetén kizárólag az abban – meghatározott azon küldemények, amelyek kezelésére a szerv iratkezelési szabályzata speciális rendelkezéseket tartalmaz és digitalizálásukról a szerv gondoskodik;
 
-## l)[^174] sikertelen kézbesítés miatt a feladónak visszaküldött küldemények;
+## l)[^175] sikertelen kézbesítés miatt a feladónak visszaküldött küldemények;
 
-## m)[^175] feladóhoz visszaérkezett tértivevények;
+## m)[^176] feladóhoz visszaérkezett tértivevények;
 
-## n)[^176] a fővárosi és megyei kormányhivatal és járási (kerületi) hivatala lakáscélú állami támogatási feladataival kapcsolatos küldemények;
+## n)[^177] a fővárosi és megyei kormányhivatal és járási (kerületi) hivatala lakáscélú állami támogatási feladataival kapcsolatos küldemények;
 
-## o)[^177] a megyei kormányhivatal átruházási megállapodásból eredő, a kifizető ügynökségi feladatok tekintetében az Európai Mezőgazdasági Garancia Alapból (társ)finanszírozott támogatási és kifizetési kérelmekkel, az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott intézkedésekkel kapcsolatos egyes kérelemkezelési, a tagállami költségvetésből finanszírozott támogatási és kifizetési kérelmekkel, valamint az intézkedésekkel összefüggő helyszíni vizsgálatokkal kapcsolatos egyes ellenőrzési feladataival kapcsolatos küldemények.
+## o)[^178] a megyei kormányhivatal átruházási megállapodásból eredő, a kifizető ügynökségi feladatok tekintetében az Európai Mezőgazdasági Garancia Alapból (társ)finanszírozott támogatási és kifizetési kérelmekkel, az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott intézkedésekkel kapcsolatos egyes kérelemkezelési, a tagállami költségvetésből finanszírozott támogatási és kifizetési kérelmekkel, valamint az intézkedésekkel összefüggő helyszíni vizsgálatokkal kapcsolatos egyes ellenőrzési feladataival kapcsolatos küldemények.
 
-3. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^178]
+3. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^179]
 
 ## A központosított irattári szolgáltatásokat igénybe vevő szervek
 
@@ -152,12 +152,12 @@
 
 45. Pest Megyei Kormányhivatal
 
-[^170]: A 2. melléklet II. pont c) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (3) bekezdésével megállapított szöveg.
-[^171]: A 2. melléklet II. pont f) alpontja a 34/2015. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^172]: A 2. melléklet II. pont j) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (4) bekezdésével megállapított szöveg.
-[^173]: A 2. melléklet II. pont k) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (5) bekezdésével megállapított szöveg.
-[^174]: A 2. melléklet II. pont l) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
-[^175]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
-[^176]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés d) pontja és (9) bekezdése szerint módosított szöveg.
-[^177]: A 2. melléklet II. pont o) alpontját újonnan a 20/2017. (II. 2.) Korm. rendelet 3. §-a iktatta be.
-[^178]: A 3. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^171]: A 2. melléklet II. pont c) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (3) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^172]: A 2. melléklet II. pont f) alpontja a 34/2015. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^173]: A 2. melléklet II. pont j) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (4) bekezdésével megállapított szöveg.
+[^174]: A 2. melléklet II. pont k) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (5) bekezdésével megállapított szöveg.
+[^175]: A 2. melléklet II. pont l) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
+[^176]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
+[^177]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés d) pontja és (9) bekezdése szerint módosított szöveg.
+[^178]: A 2. melléklet II. pont o) alpontját újonnan a 20/2017. (II. 2.) Korm. rendelet 3. §-a iktatta be.
+[^179]: A 3. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.

@@ -68,9 +68,9 @@
 
 32. Nemzeti Egészségbiztosítási Alapkezelő
 
-33. Országos Nyugdíjbiztosítási Főigazgatóság
+33.[^167]
 
-34.[^167]
+34.[^168]
 
 35. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -86,7 +86,7 @@
 
 41. Kormányzati Informatikai Fejlesztési Ügynökség
 
-42.[^168] Magyar Bányászati és Földtani Szolgálat
+42.[^169] Magyar Bányászati és Földtani Szolgálat
 
 43. Országos Atomenergia Hivatal
 
@@ -95,5 +95,6 @@
 [^164]: A 71. §-t a 269/2017. (IX. 13.) Korm. rendelet 3. §-a iktatta be.
 [^165]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (7) bekezdésével megállapított szöveg.
 [^166]: Az 1. melléklet 29. pontja a 464/2016. (XII. 23.) Korm. rendelet 48. § (2) bekezdés c) pontja alapján nem lép hatályba.
-[^167]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte.
-[^168]: Az 1. melléklet 42. pontja a 162/2017. (VI. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^167]: Az 1. melléklet 33. pontját a 311/2017. (X. 31.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^168]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte.
+[^169]: Az 1. melléklet 42. pontja a 162/2017. (VI. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
