@@ -50,7 +50,7 @@
 
 | 18 | Belügyminisztérium | Mezőgazdasági Vízhasználat Információs és Ellenőrzési Keretrendszer (VIZEK) kialakítása | 4 200 000 000 | 3 150 000 000 | 25 % os keret csökkentés |
 
-| 19 | Országos Nyugdíjbiztosítási Főigazgatóság | A 21. század családtámogatása és nyugdíja | 13 500 000 000 | 10 125 000 000 | 25 % os keret csökkentés |
+| 19 | Magyar Államkincstár | A 21. század családtámogatása és nyugdíja | 13 500 000 000 | 10 125 000 000 | 25 % os keret csökkentés |
 
 | 20 | Földművelésügyi Minisztérium, földmérési és térinformatikai államigazgatási szervként eljáró Budapest Főváros Kormányhivatala, Belügyminisztérium, Miniszterelnökség, | Nemzeti Téradat Infrastruktúra kialakítása (NTI) | 18 100 000 000 | 13 575 000 000 | 25 % os keret csökkentés Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság konzorciumvezetőként valósítja meg a projekteket. |
 
@@ -110,4 +110,4 @@
 
 | 48 | NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság vagy az általa vezetett konzorcium | Integrált közhiteles víziközmű adatbázis | 8 000 000 000 | 6 000 000 000 | 25 % os keret csökkentés |
 
-[^1]: Az 1. melléklet az 1853/2016. (XII. 27.) Korm. határozat 79. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1853/2016. (XII. 27.) Korm. határozat 79. pontja, az 1757/2017. (X. 31.) Korm. határozat 8. pontja szerint módosított szöveg.
