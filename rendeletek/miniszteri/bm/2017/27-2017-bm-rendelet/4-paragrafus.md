@@ -1,0 +1,3 @@
+## 3. § A Terrorelhárítási Információs és Bűnügyi Elemző Központ és az utasadat szolgáltatója közötti kapcsolattartás, valamint az adatátadás módjának szabályozásáról szóló 28/2016. (VII. 15.) BM rendelet (a továbbiakban: 28/2016. BM rendelet) 2. §-a helyébe a következő rendelkezés lép:
+
+## „2. § Az utasadat szolgáltatója a rendelkezésére álló utasadatokat a PNR-adatok utasadat-információs egység részére történő továbbítása során a légi fuvarozók által használandó közös protokollokról és adatformátumokról szóló, 2017. április 28-ai (EU) 2017/759 bizottsági végrehajtási határozatban foglaltaknak megfelelően, a HU PNR rendszer keretében továbbítja a Terrorelhárítási Információs és Bűnügyi Elemző Központ (a továbbiakban: TIBEK) részére.”
