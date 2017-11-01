@@ -12,7 +12,7 @@
 
 ## Az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet 2/A. §-ában foglaltaknak megfelelően kérem az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézettől indikáción túli gyógyszerrendelés engedélyezését az alábbiak szerint
 
-## ◻ sürgősséggel (amit külön mellékletben indokolok[^149])
+## ◻ sürgősséggel (amit külön mellékletben indokolok[^167])
 
 ## ◻ a szokásos eljárási rendben
 
@@ -66,7 +66,7 @@
 
 ## Az engedélyezni kért javallat:
 
-## Első ízben az adott beteg esetében az addig alkalmazott kezelés és annak indoklása, hogy az miért nem volt eredményes: [^150]
+## Első ízben az adott beteg esetében az addig alkalmazott kezelés és annak indoklása, hogy az miért nem volt eredményes: [^168]
 
 ## A gyógyszer tervezett adagolása:
 
@@ -88,14 +88,8 @@
 
 ## P. H.
 
-7. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^151]
+7. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^169]
 
-| KÖTELEZŐEN NEMZETKÖZI SZABADNÉVVEL RENDELENDŐ HATÓANYAGCSOPORTOK |
-
-| ATC |  |
-
-| C10AA | Hmg CoA reductase gátlók |
-
-[^149]: Kizárólag a hivatkozott rendelet 2/A. § (8) bekezdése szerint.
-[^150]: Részletes mellékletben.
-[^151]: A 7. számú mellékletet a 2/2012. (I. 3.) NEFMI rendelet 14. §-a iktatta be.
+[^167]: Kizárólag a hivatkozott rendelet 2/A. § (8) bekezdése szerint.
+[^168]: Részletes mellékletben.
+[^169]: A 7. számú mellékletet a 2/2012. (I. 3.) NEFMI rendelet 14. §-a iktatta be.
