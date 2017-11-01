@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 40. § (3) bekezdésében foglalt feladatkörében eljárva, valamint a kincstár kijelölése tárgyában az államháztartásról szóló 1992. évi XXXVIII. törvény 124/A. §-ában foglalt felhatalmazás alapján a következőket rendeli el:

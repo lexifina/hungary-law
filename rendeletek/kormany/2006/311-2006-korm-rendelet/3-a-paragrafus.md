@@ -1,5 +1,0 @@
-3/A. §[^11] (1) Az önkormányzati ASP központról szóló kormányrendeletben meghatározott önkormányzati ASP központ működtetésével kapcsolatos feladatok ellátására a Kincstár központi szervében önálló szervezeti egység működik. E szervezeti egység vezetőjét a Kincstár elnöke az e-közigazgatásért felelős miniszter javaslatának figyelembevételével nevezi ki és menti fel.
-
-(2) Az e-közigazgatásért felelős miniszter és a helyi önkormányzatokért felelős miniszter az önkormányzati ASP központ működtetésével összefüggésben, a Kincstár törvényességi, szakszerűségi és hatékonysági ellenőrzése, jelentéstételre vagy beszámolóra kötelezése tekintetében javaslatot tehet az államháztartásért felelős miniszternek.
-
-[^11]: A 3/A. §-t a 62/2015. (III. 24.) Korm. rendelet 10. § (2) bekezdése iktatta be.
