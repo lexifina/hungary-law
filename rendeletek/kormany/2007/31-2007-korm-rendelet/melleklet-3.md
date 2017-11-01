@@ -212,7 +212,7 @@
 
 | 105. | OMSZ | Sürgősségi betegellátás adatai | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 106. | ONYF | Foglalkoztatottak FEÁOR szerinti adatai | 1.1.4. és 2.2.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 106. | Kincstár | Foglalkoztatottak FEÁOR szerinti adatai | 1.1.4. és 2.2.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 107. | NGM | Adatátadás a magán-munkaközvetítési és munkaerő-kölcsönzési tevékenységről | 1.1.4. | évente | megye | június 1. |
 
@@ -318,7 +318,7 @@
 
 | 32. | Országos Meteorológiai Szolgálat | Meteorológia |
 
-| 33. | Országos Nyugdíjbiztosítási Főigazgatóság | ONYF |
+| 33. |  |  |
 
 | 34. | Országos Vízügyi Főigazgatóság | OVF |
 
