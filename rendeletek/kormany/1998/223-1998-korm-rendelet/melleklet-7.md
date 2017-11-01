@@ -20,9 +20,9 @@
 
 ## 1.3.4. vezetőjének neve;
 
-## 1.4.[^256]
+## 1.4.[^258]
 
-## 1.5.[^257]
+## 1.5.[^259]
 
 ## 1.6. a családi pótlék megállapításának kérelmezett kezdő időpontja;
 
@@ -46,7 +46,7 @@
 
 ## 2.3. a kérelmező aláíróhelye.
 
-7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^258]
+7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^260]
 
 ## A családi pótlék folyósításáról történő lemondó nyilatkozat adattartalma
 
@@ -110,6 +110,6 @@
 
 3.8. tanúk személyazonosságát igazoló okmány típusa, száma
 
-[^256]: A 6. számú melléklet 1. pont 1.4. pontját a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés h) pontja hatályon kívül helyezte.
-[^257]: A 6. számú melléklet 1. pont 1.5. pontját a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés h) pontja hatályon kívül helyezte.
-[^258]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, újból hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 18. § (2) bekezdés c) pontja, újonnan a 417/2015. (XII. 23.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^258]: A 6. számú melléklet 1. pont 1.4. pontját a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés h) pontja hatályon kívül helyezte.
+[^259]: A 6. számú melléklet 1. pont 1.5. pontját a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés h) pontja hatályon kívül helyezte.
+[^260]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, újból hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 18. § (2) bekezdés c) pontja, újonnan a 417/2015. (XII. 23.) Korm. rendelet 21. § (1) bekezdése iktatta be.
