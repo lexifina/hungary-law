@@ -8,7 +8,7 @@ b) az 5. § (1) bekezdés c) pontjában foglaltaknak megfelelő élettársa foly
 
 feltéve, hogy a bérlő halálát megelőzően lakáshasználati jogot szerzett, és azt életvitelszerűen gyakorolja.
 
-(2)[^117] A nyugállományú hivatásos katona bérlő halálát követően – a házastársat vagy élettársat követő sorrendben – a bérleti jogot gyermeke és unokája akkor folytathatja, ha már a bérlet fennállása alatt, a „bérlő közeli hozzátartozója” címen, határozatlan tartamú lakáshasználati jogot szerzett, és e jogot befogadással történt megszerzése esetén legalább egy éve gyakorolja.
+(2)[^118] A nyugállományú hivatásos katona bérlő halálát követően – a házastársat vagy élettársat követő sorrendben – a bérleti jogot gyermeke és unokája akkor folytathatja, ha már a bérlet fennállása alatt, a „bérlő közeli hozzátartozója” címen, határozatlan tartamú lakáshasználati jogot szerzett, és e jogot befogadással történt megszerzése esetén legalább egy éve gyakorolja.
 
 (3) Az eltartó a Lakástörvény 32. §-ában meghatározott feltételek fennállása esetén folytathatja a bérleti jogot.
 
@@ -22,7 +22,7 @@ c) unokája.
 
 (5) Ha a lakásbérleti jog folytatásának több jogosultja van, eltérő megállapodásuk hiányában a Lakástörvény 32. §-ának (4) és (6) bekezdésében foglaltak szerint kell a bérleti jog folytatását elismerni.
 
-(6)[^118]
+(6)[^119]
 
-[^117]: A 78. § (2) bekezdése a 10/2014. (VII. 25.) HM rendelet 58. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^118]: A 78. § (6) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^118]: A 78. § (2) bekezdése a 10/2014. (VII. 25.) HM rendelet 58. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^119]: A 78. § (6) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.

@@ -1,16 +1,16 @@
 188. § (1) A munkáltatói kölcsön összege a kölcsönszámítási alap 60%-a, de legfeljebb a 187. § (1) bekezdés
 
-a)[^183] a)–b) és f) pontja szerinti esetekben a kormánytisztviselői illetményalap 110-szeres,
+a)[^184] a)–b) és f) pontja szerinti esetekben a kormánytisztviselői illetményalap 110-szeres,
 
-b)[^184] c)–e) pontjai szerinti esetekben a kormánytisztviselői illetményalap 70-szeres
+b)[^185] c)–e) pontjai szerinti esetekben a kormánytisztviselői illetményalap 70-szeres
 
 összege lehet.
 
-(2)[^185] Az önkormányzati tulajdonú lakás megvásárlásához az abban bent lakó részére nyújtott munkáltatói kölcsön a kötelezően fizetendő vételárhányad összege, de legfeljebb a kormánytisztviselői illetményalap 10-szeres összege lehet.
+(2)[^186] Az önkormányzati tulajdonú lakás megvásárlásához az abban bent lakó részére nyújtott munkáltatói kölcsön a kötelezően fizetendő vételárhányad összege, de legfeljebb a kormánytisztviselői illetményalap 10-szeres összege lehet.
 
 (3) Az (1) bekezdés, továbbá a 189. § szerint számított kölcsön összege növelhető:
 
-a)[^186] 25%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül 2 személy, 50%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül kettőnél több személy áll a honvédelmi szervvel szolgálati, kormánytisztviselői, közalkalmazotti vagy munkavállalói jogviszonyban, a támogatást együttesen igénylik és külön-külön rendelkeznek a kölcsönnyújtás feltételeivel,
+a)[^187] 25%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül 2 személy, 50%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül kettőnél több személy áll a honvédelmi szervvel szolgálati, kormánytisztviselői, közalkalmazotti vagy munkavállalói jogviszonyban, a támogatást együttesen igénylik és külön-külön rendelkeznek a kölcsönnyújtás feltételeivel,
 
 b) az igénylő számára már elbírált munkáltatói kölcsön és az a) pont alapján számított összeg különbözete adható munkáltatói kölcsönként az együtt költöző, a 10. § (4) bekezdésben meghatározott hozzátartozó részére, ha kölcsönigénylését külön vagy utólagosan nyújtja be.
 
@@ -26,7 +26,7 @@ csökkentett összege. A tulajdont eredményező lakáscsere esetén pedig a cse
 
 (5) Az elidegenítésből származó tiszta bevételként kell számításba venni a kölcsönigénylést megelőző öt éven belül értékesített lakásnak az azt terhelő és visszafizetett önkormányzati, valamint munkáltatói támogatás, továbbá kiegyenlített lakáscélú pénzintézeti kölcsön összegével csökkentett eladási árát.
 
-[^183]: A 188. § (1) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^184]: A 188. § (1) bekezdés b) pontja a 26/2016. (XII. 22.) HM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^185]: A 188. § (2) bekezdése a 26/2016. (XII. 22.) HM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^186]: A 188. § (3) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^184]: A 188. § (1) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^185]: A 188. § (1) bekezdés b) pontja a 26/2016. (XII. 22.) HM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^186]: A 188. § (2) bekezdése a 26/2016. (XII. 22.) HM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^187]: A 188. § (3) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.

@@ -1,5 +1,5 @@
 177. § (1) A 176. § (1) bekezdés szerinti számla javára, illetve terhére a külön jogszabályban megállapított bevételeket és kiadásokat lehet elszámolni.
 
-(2)[^166]
+(2)[^167]
 
-[^166]: A 177. § (2) bekezdését a 15/2015. (XII. 21.) HM rendelet 30. § g) pontja hatályon kívül helyezte.
+[^167]: A 177. § (2) bekezdését a 15/2015. (XII. 21.) HM rendelet 30. § g) pontja hatályon kívül helyezte.
