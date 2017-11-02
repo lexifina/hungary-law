@@ -1,5 +1,6 @@
-4. § (1) A katasztófaveszélyről kapott tájékoztatást követően a minisztérium Állandó Ügyeleti Szolgálatot működtet, és gondoskodik az Operatív Csoport megalakításáról.
+4. § (1)[^6] A katasztófaveszélyről kapott hivatalos tájékoztatást követően a minisztérium Állandó Ügyeleti Szolgálatot működtet, és gondoskodik az Operatív Csoport megalakításáról.
 
-(2)[^2] A védekezés során a minisztérium gondoskodik az Állandó Ügyeleti Szolgálat működtetéséről, az Operatív Csoport működésének megkezdéséről, a földművelésügyi és vidékfejlesztési szervek bevonásáról, továbbá a katasztrófavédelemben részt vevő adott szervezet szükség szerinti készenlétbe helyezéséről.
+(2)[^7] A minisztérium gondoskodik a katasztrófavédelemben részt vevők katasztrófák elleni védekezésbe történő bevonásáról, továbbá a katasztrófavédelemben részt vevők szükség szerinti készenlétbe helyezéséről.
 
-[^2]: A 4. § (2) bekezdése a 9/2005. (II. 18.) FVM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 4. § (1) bekezdése az 54/2017. (X. 25.) FM rendelet 4. § c) pontja szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése az 54/2017. (X. 25.) FM rendelet 2. §-ával megállapított szöveg.

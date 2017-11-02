@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-42-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2005-02-26 | 2001-42-20-82.2 | 42/2001. (VI. 15.) FVM rendelet |
+| 2017-11-02 | 2001-42-20-82.3 | 54/2017. (X. 25.) FM rendelet |
