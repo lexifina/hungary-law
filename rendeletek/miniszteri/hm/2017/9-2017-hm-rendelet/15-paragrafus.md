@@ -1,3 +1,3 @@
-## 10–14. §[^3]
+## 10–14. §[^4]
 
-[^3]: A 10–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 10–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

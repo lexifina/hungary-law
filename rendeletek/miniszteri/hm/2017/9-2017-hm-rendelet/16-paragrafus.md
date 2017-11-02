@@ -1,3 +1,3 @@
-## 15. §[^4]
+## 15. §[^5]
 
-[^4]: A 15. § a 23. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^5]: A 15. § a 23. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
