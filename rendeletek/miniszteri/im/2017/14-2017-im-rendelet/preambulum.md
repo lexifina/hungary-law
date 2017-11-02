@@ -1,1 +1,0 @@
-A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 225. § (2) bekezdés c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 81. § (2) bekezdés h) pontjában meghatározott feladatkörömben eljárva – az Országos Bírósági Hivatal elnöke véleményének kikérésével – a következőket rendelem el:

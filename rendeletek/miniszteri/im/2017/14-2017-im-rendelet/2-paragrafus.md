@@ -1,3 +1,0 @@
-## 1. § A bírói álláspályázatok elbírálásának részletes szabályairól és a pályázati rangsor kialakítása során adható pontszámokról szóló 7/2011. (III. 4.) KIM rendelet (a továbbiakban: Rendelet) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A bíróság elnöke a pályázatokat és azok mellékleteit – amennyiben nincs helye a pályázat elutasításának – a pályázati határidő lejártát követően haladéktalanul továbbítja a pályázati rangsor felállítására jogosult bírói tanácsnak (a továbbiakban: bírói tanács), továbbá magasabb bírói álláshely esetében a véleményezésre jogosult kollégiumnak.”
