@@ -1,9 +1,0 @@
-## 9. § Ez a rendelet a kihirdetését követő napon lép hatályba.
-
-1. melléklet a 36/2017. (X. 31.) NGM rendelethez
-
-A fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 16/2015. (V. 29.) NGM rendelet 1. mellékletében foglalt táblázat 12d. sora helyébe a következő rendelkezés lép:
-
-|  | (Áht. Azonosító | Címnév | Alcímnév | Jogcím- csoportnév | Jogcím- név | Előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támogatási előleg | Rendelkezésre bocsátás módja | Visszafizetés határideje | Biztosíték | Kezelő szerv | Lebonyolító szerv | Európai uniós forrásból finanszírozott költségvetési támogatás közreműködő szervezete) |
-
-| „12d. | 360328 |  |  | Kezelőszemélyzet nélküli automaták bekötésének támogatása | Az előirányzat az Automata Felügyeleti Egység beszerelésével, telepítésével, valamint üzemeltetésével összefüggő költségekhez nyújt forrást az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automata-berendezések Automata Felügyeleti Egységgel történő ellátásához nyújtandó támogatásról szóló 20/2017. (VII. 31.) NGM rendeletben foglalt feltételek szerint. | gazdasági társaság | Egyedi döntés alapján a kedvezményezett részére kiadott támogatói okirat útján. Az élelmiszer- értékesítést kezelőszemélyzet nélkül végző automata-berendezések Automata Felügyeleti Egységgel történő ellátásához nyújtandó támogatásról szóló 20/2017. (VII. 31.) NGM rendeletben foglaltak figyelembe- vételével. | előleg biztosítható | egyösszegű kifizetéssel | – | Biztosíték lehet a kedvezményezett valamennyi – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata vagy pénzügyi intézmény által vállalt garancia. | Kincstár | – | –” |
