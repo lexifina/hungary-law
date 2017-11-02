@@ -1,7 +1,7 @@
-11. § Hatályát veszti az Eüak.
+11. §
 
-a) 14/A. § (1b) és (1d) bekezdése,
+a)
 
 b)–c)
 
-d) 36. § (4) bekezdése.
+d)
