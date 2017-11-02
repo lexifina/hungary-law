@@ -1,1 +1,0 @@
-## „f) – olyan gyógyszer esetében, melynek bruttó fogyasztói ára az 50 000 Ft értékhatárt meghaladja – amely esetében a gyógyszert kiváltó személy a gyógyszer átvételét a papíralapú vényen, elektronikus vény esetén a kiadási igazoláson aláírásával és személyazonosításra alkalmas igazolványának számával igazolta.”

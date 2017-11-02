@@ -1,5 +1,0 @@
-## 19. § A 43/2005. (X. 15.) EüM rendelet 3. § (7) és (8) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(7) A fokozottan ellenőrzött szernek minősülő, forgalomba hozatalra engedélyezett gyógyszerek esetében az adagolás tekintetében a jóváhagyott alkalmazási előírás az irányadó. Az abban foglalt adagolási utasítástól eltérni abban az esetben lehet, ha a túllépést az orvos papíralapú vényen felkiáltójellel jelölte és aláírásával, valamint bélyegzőjével külön igazolja. Elektronikus vény esetében a jelölés a vényíró szoftver segítségével, elektronikusan történik.
-
-## (8) Ha az orvos magisztrális készítmény felírásakor a fokozottan ellenőrzött szert a mindenkor hatályos Gyógyszerkönyvben, illetve az OGYÉI közleményében meghatározott, illetve forgalomba hozatalra engedélyezett gyógyszer felírásakor az alkalmazási előírásban megjelölt legnagyobb egyszeri, illetve napi adagnál nagyobb mennyiségben rendeli, a fokozottan ellenőrzött szer adagolására vonatkozó adatokat a papíralapú vényen felkiáltójellel jelöli és aláírásával, valamint bélyegzőjével külön igazolja. Elektronikus vény esetében a jelölés a vényíró szoftver segítségével, elektronikusan történik.”

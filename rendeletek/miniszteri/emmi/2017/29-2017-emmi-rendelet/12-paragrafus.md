@@ -1,3 +1,3 @@
-## 11. §[^1]
+## 11. §[^4]
 
-[^1]: A 11. § a 27. § (3) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^4]: A 11. § a 27. § (3) bekezdése alapján 2020. január 1-jén lép hatályba.

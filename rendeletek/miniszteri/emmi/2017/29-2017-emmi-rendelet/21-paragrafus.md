@@ -1,3 +1,0 @@
-## 20. § A 43/2005. (X. 15.) EüM rendelet 7. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A kiadott fokozottan ellenőrzött szer átvételét a gyógyszer átvevője a papíralapú vényen aláírásával és a személyazonosság igazolására alkalmas hatósági igazolvány számának feltüntetésével igazolja. Ha a gyógyszerrendelés elektronikus vényen történt, a gyógyszer kiadója az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet 9. számú melléklete szerinti papíralapú kiadási igazolást készít, és a gyógyszer átvételét a kiadási igazoláson az arra jogosult átvevő aláírásával, és a személyazonosság igazolására alkalmas hatósági igazolvány számának feltüntetésével elismerteti.”

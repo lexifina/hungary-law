@@ -1,1 +1,3 @@
-## „(6) Ha a gyógyszerész a gyógyszer elkészítése, illetve kiadása során a vény előírásaitól eltér, az eltérést a gyógyszerkiadáskor elektronikusan rögzíti, papíralapú vény esetén a vényen feltünteti, és annak igazolásául kézjegyével ellátja.”
+## 5–10. §[^3]
+
+[^3]: Az 5–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

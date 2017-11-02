@@ -1,1 +1,0 @@
-## „(12) Ha az orvos a már kiállított vényt javítja, azt papíralapú vény esetében a javított résznél kézjegyével és bélyegzőjének azonosítható lenyomatával megerősíti. A már rögzített elektronikus vényt javítani nem lehet, azt a kiállító orvos – a változtatás okának megjelölésével – visszavonja.”

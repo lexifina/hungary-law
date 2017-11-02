@@ -1,7 +1,9 @@
-## lép.
+## 12–16. §[^5]
 
-17. § (1) Hatályát veszti a 44/2004. (IV. 28.) ESZCSM rendelet 7. § (3) bekezdés a) pontjában az „egészségügyi vállalkozás esetén” szövegrész.
+17. § (1)[^6]
 
-(2)[^2]
+(2)[^7]
 
-[^2]: A 17. § (2) bekezdése a 27. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^5]: A 12–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 17. § (2) bekezdése a 27. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

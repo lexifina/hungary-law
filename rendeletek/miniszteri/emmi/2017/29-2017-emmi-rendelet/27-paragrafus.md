@@ -1,6 +1,4 @@
-## 26. § Hatályát veszti a 39/2016. (XII. 21.) EMMI rendelet 1. mellékletében foglalt táblázat A:6 és A:7 mezőjében
-
-## az „és a fogorvosi alapellátás” szövegrész.
+## 23–26. §[^10]
 
 ## 7. Záró rendelkezések
 
@@ -9,3 +7,5 @@
 (2) A 17. § (2) bekezdése 2019. január 1-jén lép hatályba.
 
 (3) A 11. § 2020. január 1-jén lép hatályba.
+
+[^10]: A 23–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
