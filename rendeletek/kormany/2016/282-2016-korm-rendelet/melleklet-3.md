@@ -3692,7 +3692,7 @@
 
 ## Az alapfokozat megszerzéséhez két idegen nyelvből – melyből az egyik az angol nyelv – államilag elismert legalább középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy angol nyelvből államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga-bizonyítvány vagy ezekkel egyenértékű érettségi bizonyítvány vagy okirat szükséges.
 
-3. melléklet a 282/2016. (IX. 21.) Korm. rendelethez[^4]
+3. melléklet a 282/2016. (IX. 21.) Korm. rendelethez[^5]
 
 MESTERKÉPZÉSEK ÉS MESTERKÉPZÉSBEN, OSZTATLAN KÉPZÉSBEN SZEREZHETŐ SZAKKÉPZETTSÉGEK JEGYZÉKE
 
@@ -5856,4 +5856,18 @@ A magyar kül- és biztonságpolitika; a magyar politikai intézményrendszer m�
 
 A nemzetbiztonság általános elmélete; speciális szakági jog; diplomáciai ismeretek; elhárítási ismeretek; felderítési ismeretek; információk elemzése és értékelése; kihívások, kockázatok, fenyegetések a 21. században; nemzetközi biztonsági intézmények; nemzetbiztonság és etika; polgári válságkezelés nemzetbiztonsági aspektusai; külföldi hírszerző és biztonsági szolgálatok; szakmai esettanulmányok és tanulmányutak; szakszolgálati tevékenység rendszere; vezetés- és szervezéselmélet, rendészeti tevékenység vezetése; vezetéspszichológia elmélete és gyakorlata.
 
-[^4]: A 3. melléklet a 11. § b) pontja és a 10. § szerint módosított szöveg. [A 3. mellékletben a 11. § a) pontjával elrendelt módosítás, amely szerint a 3. melléklet „9. NEMZETBIZTONSÁGI MESTERKÉPZÉSI SZAK” alcím 2. pontjában a „– választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági (Military National Security Specialisation, Civilian National Security Specialisation)” szövegrész hatályát veszti, nem vezethető át.]
+9.3. A differenciált szakmai ismeretek ismeretkörei: 24–32 kredit
+
+9.3.1. Humán felderítő specializáció
+
+Emberi erőforrásból történő információszerzés gyakorlata; információk elemzése – értékelése; pszichológia a műveleti munkában; műveleti veszélyhelyzetek megelőzése és kezelése; nyílt forrású információszerzés; vezetői készségfejlesztés.
+
+9.3.2. Technikai felderítő specializáció
+
+A nemzetbiztonsági feladatok technikai-műveleti támogatása; a nemzetbiztonság technikai kihívásai a 21. században; elektronikus információs rendszerek biztonsága; geoinformációs ismeretek; kiberbiztonság nemzetbiztonsági aspektusai; szakértői tevékenység; technikai adatszerzés.
+
+9.3.3. Terrorelhárítási specializáció
+
+A biztonság és védelem kérdései; a kiber-terrorizmus és az ellene való védekezés; a terrorfenyegetettség-értékelés stratégiai elemző módszerei; hírszerzés vezette műveletek a terrorelhárításban; profilalkotás a terrorfelderítésben; terrorcselekmények nyomozása; titkos információgyűjtés szerepe a terrorelhárításban; válságkezelés és krízis-kommunikáció.
+
+[^5]: A 3. melléklet a 11. § b) pontja és a 10. § szerint módosított szöveg. [A 3. mellékletben a 11. § a) pontjával elrendelt módosítás, amely szerint a 3. melléklet „9. NEMZETBIZTONSÁGI MESTERKÉPZÉSI SZAK” alcím 2. pontjában a „– választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági (Military National Security Specialisation, Civilian National Security Specialisation)” szövegrész hatályát veszti, nem vezethető át.]
