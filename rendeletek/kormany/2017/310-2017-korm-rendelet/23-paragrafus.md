@@ -1,7 +1,5 @@
 ## 22. § A 11. § tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-## 23. § Hatályát veszti
+23. §[^1]
 
-a) a Magyar Államkincstárról szóló 311/2006. (XII. 23.) Korm. rendelet,
-
-b) az Országos Nyugdíjbiztosítási Főigazgatóságról szóló 73/2015. (III. 30.) Korm. rendelet.
+[^1]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
