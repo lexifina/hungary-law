@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-123-00-00
 | 2017-10-20 | 2017. évi CXXIII. törvény | 2017-123-00-00.0 (közlönyállapot) |
 | 2017-10-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-123-00-00.1 |
 | 2017-10-21 | 2010. évi CXXX. törvény | 2017-123-00-00.2 |
+| 2017-11-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-123-00-00.3 |
