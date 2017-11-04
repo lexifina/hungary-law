@@ -1,6 +1,6 @@
 12. § (1) A Klebelsberg Központot elnök vezeti.
 
-(2)[^3] Elnöknek az nevezhető ki, aki
+(2)[^11] Elnöknek az nevezhető ki, aki
 
 a) felsőfokú végzettséggel és szakképzettséggel,
 
@@ -16,11 +16,11 @@ c) pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatás
 
 a) a központi vagy a területi közigazgatásban szerzett legalább ötéves vezetői gyakorlattal, és
 
-b)[^4] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával
+b)[^12] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával
 
 ## rendelkezik.
 
 (5) A Klebelsberg Központ szakmai elnökhelyettesét az elnök, gazdasági elnökhelyettesét – az elnök javaslatára – az oktatásért felelős miniszter nevezi ki és menti fel.
 
-[^3]: A 12. § (2) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^4]: A 12. § (4) bekezdés b) pontja a 486/2016. (XII. 28.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^11]: A 12. § (2) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^12]: A 12. § (4) bekezdés b) pontja a 486/2016. (XII. 28.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.

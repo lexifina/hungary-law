@@ -12,7 +12,7 @@ bb) vezetőjének kinevezésére, megbízására és megbízásának visszavoná
 
 c) országos szinten közreműködik a területi köznevelési feladatellátás megszervezése irányainak meghatározásában,
 
-d) ellátja a támogatási forrásokból megvalósuló fejlesztések, európai uniós programok tervezésével és lebonyolításával kapcsolatos feladatokat, gondoskodik a tankerületi központok pályázati és projekttevékenységének összehangolásáról, a tankerületi központok részvételével megvalósuló kiemelt projektek végrehajtását konzorciumvezetőként irányítja,
+d)[^9] koordinálja a támogatási forrásokból megvalósuló fejlesztések, európai uniós programok tervezésével és lebonyolításával kapcsolatos feladatokat, gondoskodik a tankerületi központok pályázati és projekttevékenységének összehangolásáról,
 
 e) ellátja a tankerületi központ és a fenntartásában lévő köznevelési intézmények vonatkozásában az informatikai rendszerek fejlesztéséhez kapcsolódó feladatokat,
 
@@ -27,3 +27,5 @@ i) szakmai támogatást biztosít a tankerületi központok fenntartásában lé
 j) európai uniós forrásból finanszírozott fejlesztést valósít meg a tankerületi központok fenntartásában lévő köznevelési intézmények együttműködésével,
 
 k) jóváhagyja a tankerületi központok által elkészített fejlesztési terveket.
+
+[^9]: A 8. § d) pontja a 308/2017. (X. 27.) Korm. rendelet 3. §-ával megállapított szöveg.

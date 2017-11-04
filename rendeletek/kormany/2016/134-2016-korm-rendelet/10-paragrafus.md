@@ -6,7 +6,7 @@ a) felsőfokú végzettséggel és szakképzettséggel,
 
 b) legalább ötéves vezetői gyakorlattal, és
 
-c)[^2] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával
+c)[^10] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával
 
 ## rendelkezik.
 
@@ -16,4 +16,4 @@ c)[^2] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazga
 
 (5) A tankerületi központ költségvetése terhére a köznevelési közfeladat-ellátásban részt vevő, tankerületi központ fenntartásában lévő köznevelési intézmény a tankerületi központ 5. § (2) bekezdés 9. pontja szerinti belső szabályzatában meghatározott összeg erejéig és kiadási jogcímen átruházott hatáskörben kötelezettséget vállalhat és kiadás teljesítését kezdeményezheti.
 
-[^2]: A 10. § (2) bekezdés c) pontja a 217/2016. (VII. 22.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^10]: A 10. § (2) bekezdés c) pontja a 217/2016. (VII. 22.) Korm. rendelet 59. §-ával megállapított szöveg.

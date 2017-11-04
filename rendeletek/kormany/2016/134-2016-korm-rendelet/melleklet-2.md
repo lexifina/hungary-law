@@ -398,6 +398,6 @@
 
 | Letenyei járás |
 
-2. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^11]
+2. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^19]
 
-[^11]: A 2. melléklet a 170/2016. (VII. 1.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^19]: A 2. melléklet a 170/2016. (VII. 1.) Korm. rendelet 4. §-a szerint módosított szöveg.

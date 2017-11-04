@@ -30,8 +30,16 @@ i) jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt,
 
 j) a fenntartásába tartozó köznevelési intézményekre vonatkozó fejlesztési tervet készít,
 
-k) ellátja a jogszabályban és az alapító okiratában meghatározott további feladatokat.
+k)[^1] kiadja a köznevelési intézmények szakmai alapdokumentumait,
+
+l)[^2] ellátja a jogszabályban és az alapító okiratában meghatározott további feladatokat.
 
 (2) A tankerületi központ részt vesz a Klebelsberg Képzési Ösztöndíj működtetésében.
 
 (3) A Klebelsberg Központ a tankerületi központok fenntartói tevékenységét illetően biztosítja a központi, ágazati oktatáspolitikai szakmai iránymutatások tankerületi központokban történő egységes érvényesülését.
+
+(4)[^3] A tankerületi központ a hazai és az európai uniós forrásokból megvalósítandó pályázati és projekttevékenységét a Klebelsberg Központtal együttműködve, annak iránymutatásai alapján végzi.
+
+[^1]: A 2. § (1) bekezdés k) pontja a 308/2017. (X. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés l) pontját a 308/2017. (X. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^3]: A 2. § (4) bekezdését a 308/2017. (X. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.

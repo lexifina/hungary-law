@@ -1,6 +1,6 @@
-## 3. § A tankerületi központ a Nemzeti Pedagógus Kar, a feladatellátási területén működő területi és helyi szakmai és érdekképviseleti szervezetek, valamint a települési és a nemzetiségi önkormányzatok képviselőiből álló tankerületi tanácsot működtet.
+## 3. §[^7]
 
-3/A. §[^1] (1) A tankerületi központ hazai vagy európai uniós forrásból származó költségvetési támogatásból megvalósított, hatósági engedélyhez vagy tudomásulvételhez kötött, építési vagy bontási tevékenységet is tartalmazó, építési beruházással kapcsolatos
+3/A. §[^8] (1) A tankerületi központ hazai vagy európai uniós forrásból származó költségvetési támogatásból megvalósított, hatósági engedélyhez vagy tudomásulvételhez kötött, építési vagy bontási tevékenységet is tartalmazó, építési beruházással kapcsolatos
 
 a) tervezési,
 
@@ -18,4 +18,5 @@ d) műszaki ellenőrzési
 
 (4) A Társaság a (2) bekezdés szerinti feladatainak ellátásához szükséges forrást az állami infrastruktúra-beruházásokért felelős miniszter és az oktatásért felelős miniszter által vezetett minisztérium költségvetési fejezetéből kell biztosítani.
 
-[^1]: A 3/A. §-t a 103/2017. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 3. §-t a 308/2017. (X. 27.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^8]: A 3/A. §-t a 103/2017. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
