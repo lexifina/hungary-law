@@ -1,4 +1,4 @@
-39/F. §[^177] (1) Az a Pedagógus I. vagy 2015. január elsejével ideiglenesen Pedagógus II. fokozatba besorolt pedagógus, aki 2018. június 30. napjáig Mesterpedagógus fokozat megszerzésére irányuló eljárásban vesz részt, portfóliót és Mesterpedagógusi pályázatot készít.
+39/F. §[^206] (1) Az a Pedagógus I. vagy 2015. január elsejével ideiglenesen Pedagógus II. fokozatba besorolt pedagógus, aki 2018. június 30. napjáig Mesterpedagógus fokozat megszerzésére irányuló eljárásban vesz részt, portfóliót és Mesterpedagógusi pályázatot készít.
 
 (2) Az (1) bekezdés szerinti esetben a portfólió a 9/B. § (1) bekezdés a)–d) és f)–g) pontjában foglaltakat, valamint intézményvezetői és szakmai ajánlást tartalmazza.
 
@@ -8,7 +8,7 @@
 
 (5) Az eljárás a portfólió és a Mesterpedagógusi pályázat bemutatásával és védésével zárul.
 
-(6)[^178] Ha a Mesterpedagógus fokozatot az (1)–(5) bekezdés alapján megszerzett pedagógus pályázatát nem újítja meg, őt – a 14/A. § (1) bekezdésében foglaltaktól eltérően – Pedagógus II. fokozatba kell visszasorolni.
+(6)[^207] Ha a Mesterpedagógus fokozatot az (1)–(5) bekezdés alapján megszerzett pedagógus pályázatát nem újítja meg, őt – a 14/A. § (1) bekezdésében foglaltaktól eltérően – Pedagógus II. fokozatba kell visszasorolni.
 
-[^177]: A 39/F. §-t a 249/2015. (IX. 8.) Korm. rendelet 14. §-a iktatta be.
-[^178]: A 39/F. § (6) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 31. §-a iktatta be.
+[^206]: A 39/F. §-t a 249/2015. (IX. 8.) Korm. rendelet 14. §-a iktatta be.
+[^207]: A 39/F. § (6) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 31. §-a iktatta be.

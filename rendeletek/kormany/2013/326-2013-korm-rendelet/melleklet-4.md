@@ -14,7 +14,7 @@
 
 | 6 | intézményvezető-helyettes | 50–250 gyermek, tanuló | 1 |
 
-| 7 | intézményvezető-helyettes | 250–750 gyermek, tanuló | 2 |
+| 7 | intézményvezető-helyettes | 251–750 gyermek, tanuló | 2 |
 
 | 8 | intézményvezető-helyettes | 750-nél több gyermek, tanuló esetén | 3 |
 
@@ -40,12 +40,12 @@
 
 | 4 | intézményvezető-helyettes | tagintézményenként 50-250 tanuló | 1 |
 
-| 5 | intézményvezető-helyettes | tagintézményenként 250-750 tanuló | 2 |
+| 5 | intézményvezető-helyettes | tagintézményenként 251-750 tanuló | 2 |
 
 | 6 | intézményvezető-helyettes | tagintézményenként 750-nél több tanuló | 3 |
 
 | 7 | gyakorlati oktatásvezető | tagintézményenként 200-nál több tanuló | 1 |
 
-4. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^198]
+4. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^227]
 
-[^198]: A 4. melléklet a 89/2015. (IV. 9.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^227]: A 4. melléklet a 89/2015. (IV. 9.) Korm. rendelet 22. §-a szerint módosított szöveg.
