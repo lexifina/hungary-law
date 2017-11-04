@@ -1,0 +1,3 @@
+## „(1a) Az (1) bekezdésben szereplő tájékoztatásnak tartalmaznia kell az OH által megállapított tényállást és annak bizonyítékait, az alapul szolgáló jogszabályhelyeket, az (1b) bekezdésben foglalt jogorvoslati lehetőséget, benyújtásának helyét és határidejét.
+
+## (1b) A pedagógus az (1) bekezdés szerinti értesítésben foglaltak megváltoztatását annak kézhezvételétől számított 15 napon belül a minisztertől kérheti. A miniszter a kérelmet a KIR rendszer adatai, valamint a pedagógus által a kérelméhez csatolt bizonyítékok alapján 30 napon belül bírálja el. A miniszter döntésének tartalmára az (1a) bekezdést kell megfelelően alkalmazni. A miniszter döntése ellen nincs helye további jogorvoslatnak.”

@@ -1,0 +1,3 @@
+## 3. § A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: R2.) 2. §-a helyébe a következő rendelkezés lép:
+
+## „2. § Az adatokat és az okiratokat a fenntartó vagy a köznevelési intézmény képviseletére jogosult személy, a közigazgatási szerv képviselője és a jegyző (a továbbiakban együtt: adatszolgáltató) a Hivatal honlapján keresztül elérhető KIR szakrendszerekbe, a biztosított jogosultság alapján a webes alapú rendszerbe történő bejelentkezést követően elektronikusan küldi meg. Az adatokat az adott szakrendszer által elvárt szerkezetben és tartalommal kell rögzíteni.”
