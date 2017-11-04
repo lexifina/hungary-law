@@ -1,4 +1,4 @@
-## 6. § A Hivatal pedagógiai-szakmai szolgáltató tevékenysége keretében
+6. §[^10] (1) A Hivatal pedagógiai-szakmai szolgáltató tevékenysége keretében
 
 a) ellátja az országos pedagógiai tárgyú mérés-értékelés szervezésével kapcsolatos feladatokat,
 
@@ -8,12 +8,16 @@ c) gondoskodik az oktatási ágazati jogszabályokban meghatározott feladatok e
 
 d) statisztikai adatot szolgáltat az államilag elismert nyelvvizsgákkal kapcsolatosan,
 
-e)[^10] kidolgozza az Nkt. 64. §-ában meghatározott pedagógus minősítő vizsga és pedagógus minősítési eljárás során használt szempontrendszert és eljárásrendet. A pedagógus minősítő vizsga és pedagógus minősítési eljárás során használt eszközöket a miniszter hagyja jóvá,
+e) kidolgozza az Nkt. 64. §-ában meghatározott pedagógus minősítő vizsga és pedagógus minősítési eljárás során használt szempontrendszert és eljárásrendet, amelyeket jóváhagyásra megküld a miniszter részére,
 
-f)[^11] az állami köznevelési közfeladat-ellátás keretében biztosítja az Nkt. 19. § (2) bekezdésében meghatározott pedagógiai-szakmai szolgáltatásokat, valamint
+f) az állami köznevelési közfeladat-ellátás keretében biztosítja az Nkt. 19. § (2) bekezdésében meghatározott pedagógiai-szakmai szolgáltatásokat, valamint
 
-g)[^12] megszervezi az országos pedagógiai-szakmai szolgáltatásokat.
+g) megszervezi az országos pedagógiai-szakmai szolgáltatásokat.
 
-[^10]: A 6. § e) pontja a 365/2014. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^11]: A 6. § f) pontját a 88/2015. (IV. 9.) Korm. rendelet 2. §-a iktatta be.
-[^12]: A 6. § g) pontját a 88/2015. (IV. 9.) Korm. rendelet 2. §-a iktatta be.
+(2) Az (1) bekezdésben meghatározottakkal összefüggésben a Hivatal az Európai Unió által finanszírozott egyes kiemelt projektek megvalósítása során
+
+a) a gyermekeket, tanulókat érintő hátránykompenzációs módszertani és szakmai tevékenységek megvalósításában közreműködő köznevelési és más nem köznevelési intézmények számára pedagógiai szakmai szolgáltatásokat, továbbá pedagógiai mérés-értékelési támogatást biztosít,
+
+b) az óvodai fejlesztő programok részeként megvalósuló integrációs és képességkibontakoztató pedagógiai feladatok intézményi megvalósításához folyamatos támogatást biztosít.
+
+[^10]: A 6. § a 307/2017. (X. 27.) Korm. rendelet 12. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-## 12. §[^18] A Hivatal ellátja a nemzeti köznevelés tankönyvellátásáról szóló törvényben az oktatási hivatal számára meghatározott feladatokat.
+## 12. §[^16] A Hivatal ellátja a nemzeti köznevelés tankönyvellátásáról szóló törvényben az oktatási hivatal számára meghatározott feladatokat.
 
-[^18]: A 12. § az 501/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdésvel megállapított szöveg.
+[^16]: A 12. § az 501/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdésvel megállapított szöveg.
