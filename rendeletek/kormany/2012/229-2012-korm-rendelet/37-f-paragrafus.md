@@ -1,6 +1,6 @@
 ## 16/C. A támogatások megállapítása, folyósítása és a fenntartói változás-bejelentés
 
-37/F. § (1)[^123] Az Igazgatóság a rendelkezésére álló okiratok alapján
+37/F. § (1)[^124] Az Igazgatóság a rendelkezésére álló okiratok alapján
 
 a) – a b) pontban meghatározott kivétellel –
 
@@ -14,13 +14,13 @@ b) az évközben létesített óvoda, kollégium esetén a működési engedély
 
 ## állapítja meg a fenntartót megillető támogatásokat.
 
-(1a)[^124] A támogatások igénylésénél és megállapításánál, ha az egy pedagógusra jutó gyermek-, és tanulólétszám nem egész szám, a létszámot fenntartói szinten két tizedesjegyre kerekítve kell megállapítani.
+(1a)[^125] A támogatások igénylésénél és megállapításánál, ha az egy pedagógusra jutó gyermek-, és tanulólétszám nem egész szám, a létszámot fenntartói szinten két tizedesjegyre kerekítve kell megállapítani.
 
-(2)[^125]
+(2)[^126]
 
 (3) A támogatásokat megállapító határozat a támogatásokkal összefüggésben tartalmazza
 
-a)[^126] az igényléssel érintett köznevelési intézmények hivatalos nevét és OM azonosítóját, köznevelési intézményenként, azon belül feladatellátási helyenként a támogatások igénybevételének alapjául szolgáló gyermek- és tanulólétszámot, a gyermek- és tanulóétkeztetéshez nyújtott támogatás esetén az átlaglétszámot és az ezek alapján számított pedagóguslétszámot, valamint a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak létszámát, továbbá a minősített pedagóguslétszámot az előmeneteli rendszerben megállapított fokozat szerinti bontásban, valamint a köznevelési intézmény működési engedélyének a számát,
+a)[^127] az igényléssel érintett köznevelési intézmények hivatalos nevét és OM azonosítóját, köznevelési intézményenként, azon belül feladatellátási helyenként a támogatások igénybevételének alapjául szolgáló gyermek- és tanulólétszámot, a gyermek- és tanulóétkeztetéshez nyújtott támogatás esetén az átlaglétszámot és az ezek alapján számított pedagóguslétszámot, valamint a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak létszámát, továbbá a minősített pedagóguslétszámot az előmeneteli rendszerben megállapított fokozat szerinti bontásban, valamint a köznevelési intézmény működési engedélyének a számát,
 
 b) a megállapított támogatások körét, mértékét jogcímenként és köznevelési intézményenként,
 
@@ -32,7 +32,7 @@ e) a támogatások elszámolásának határidejét és módját, valamint
 
 f) a támogatások felhasználásának elszámolása és ellenőrzése rendjéről, a tartozás és a köztartozás esetén követendő eljárásról, valamint a visszafizetésről és a kamatfizetésről szóló tájékoztatást.
 
-[^123]: A 37/F. § (1) bekezdése a 3/2015. (I. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^124]: A 37/F. § (1a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^125]: A 37/F. § (2) bekezdését a 102/2016. (V. 13.) Korm. rendelet 8. § l) pontja hatályon kívül helyezte.
-[^126]: A 37/F. § (3) bekezdés a) pontja a 3/2015. (I. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^124]: A 37/F. § (1) bekezdése a 3/2015. (I. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^125]: A 37/F. § (1a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^126]: A 37/F. § (2) bekezdését a 102/2016. (V. 13.) Korm. rendelet 8. § l) pontja hatályon kívül helyezte.
+[^127]: A 37/F. § (3) bekezdés a) pontja a 3/2015. (I. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

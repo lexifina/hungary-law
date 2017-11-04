@@ -1,3 +1,5 @@
+## 2. §[^11] Az adatokat és az okiratokat a fenntartó vagy a köznevelési intézmény képviseletére jogosult személy, a közigazgatási szerv képviselője és a jegyző (a továbbiakban együtt: adatszolgáltató) a Hivatal honlapján keresztül elérhető KIR szakrendszerekbe, a biztosított jogosultság alapján a webes alapú rendszerbe történő bejelentkezést követően elektronikusan küldi meg. Az adatokat az adott szakrendszer által elvárt szerkezetben és tartalommal kell rögzíteni.
+
 3. § (1)[^12] A Hivatal – a fenntartó kérelmére – a KIR valamennyi rendszere tekintetében abban az esetben engedélyezheti a kizárólagosan papír alapú adatküldést, ha az internet-hozzáférés sem a fenntartó, sem a köznevelési intézmény székhelye szerinti településen nem biztosított.
 
 (2) Papír alapú adatszolgáltatás esetén fel kell tüntetni az adatszolgáltató fenntartó vagy az adatszolgáltató köznevelési intézmény
@@ -12,5 +14,6 @@ b) körbélyegzőjének lenyomatát.
 
 (5) A papír alapú adatküldésre vonatkozó engedély annak visszavonásáig érvényes. A Hivatal a papír alapú adatszolgáltatásra vonatkozó engedélyt évente június és július hónapban felülvizsgálja, amelynek keretében tájékozódik a fenntartó és a köznevelési intézmény székhelye szerinti település internet-lefedettségéről, és beszerzi a fenntartó erre vonatkozó nyilatkozatát.
 
+[^11]: A 2. § a 307/2017. (X. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^12]: A 3. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
 [^13]: A 3. § (4) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 51. §-ával megállapított szöveg.
