@@ -1,3 +1,0 @@
-## 6. § Az R2. 37/L. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A fenntartó a 37/C. § (2)–(3) bekezdése szerinti létszámadatok alapján igénybe vett támogatásokkal – a 37/C. § (2) bekezdés a) pont ab) alpontja kivételével – a ténylétszám adatok figyelembevételével, a kincstár és a miniszter által közösen meghatározott és a kincstár honlapján közzétett adatlapon köznevelési intézményi, feladatellátási helyenkénti, valamint fenntartói szinten összesített módon számol el az Igazgatóságnak. A 37/C. § (2) bekezdés a) pont ab) alpontja szerinti támogatás esetében a fenntartó a tárgyévben a minősített pedagógusok tényleges foglalkoztatási idejét figyelembe véve a teljes munkaidőre számított létszáma alapján számol el.”

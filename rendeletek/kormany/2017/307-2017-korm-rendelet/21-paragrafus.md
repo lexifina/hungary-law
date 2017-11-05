@@ -1,3 +1,3 @@
-## 20. §[^6]
+## 20. §[^14]
 
-[^6]: A 20. § a 26. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^14]: A 20. § a 26. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

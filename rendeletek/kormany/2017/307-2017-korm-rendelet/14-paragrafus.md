@@ -1,4 +1,4 @@
-## 13. §[^5]
+## 13. §[^12]
 
 ## 5. A pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló
 
@@ -6,4 +6,4 @@
 
 ## 326/2013. (VIII. 30.) Korm. rendelet módosítása
 
-[^5]: A 13. § a 26. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^12]: A 13. § a 26. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

@@ -1,7 +1,3 @@
-## 7. § Az R2. 38. § (1) bekezdése a következő h) ponttal egészül ki:
+## 5–7. §[^5]
 
-## (Az illetékes megyeszékhely szerinti járási hivatal a köznevelési intézményben hatósági ellenőrzés keretében vizsgálja)
-
-## „h) a tanulói fegyelmi eljárás megszervezésére, lefolytatására, a döntéshozatalra”
-
-## (vonatkozó rendelkezések megtartását.)
+[^5]: Az 5–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
