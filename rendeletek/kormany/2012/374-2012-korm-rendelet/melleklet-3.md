@@ -332,7 +332,17 @@ a mentesség 2020. június 30-án lejár.
 
 36. Az orvostechnikai eszközökről szóló, 1994. június 14-i 93/42 EGK tanácsi irányelv alapján a IIa. és IIb. osztályba tartozó, a hordozható sürgősségi defibrillátoroktól eltérő hordozható orvostechnikai eszközökben használt beültetett nyomtatott áramköri lapokon alkalmazott forraszanyagokban lévő ólom – a mentesség a IIa. osztály esetében 2016. június 30-án, a IIb. osztály esetében 2020. december 31-én lejár.
 
-37. A 2014. július 22. előtt forgalomba hozott orvostechnikai eszközökből nyert és a 8. kategóriába tartozó, 2021. július 22. előtt forgalomba hozott eszközökben újrafelhasznált cserealkatrészekben – amennyiben az újrafelhasználásra vállalatok közötti, ellenőrizhető zárt csererendszereken belül kerül sor, valamint az alkatrészek újrafelhasználásáról értesítik a fogyasztót – lévő ólom, kadmium és hat vegyértékű króm– a mentesség 2021. július 21-én lejár.
+37. Az orvostechnikai eszközökből, beleértve az in vitro diagnosztikai orvostechnikai eszközöket vagy az elektronmikroszkópokból és azok tartozékaiból kinyert és azok javításához vagy felújításához felhasznált alkatrészekben található ólom, kadmium, hat vegyértékű króm és polibrómozott difenil-éterek (PBDE), amennyiben az újrafelhasználás vállalkozások közötti, ellenőrizhető, zárt visszaszállító rendszerekben történik, valamint az alkatrészek minden újrafelhasználásáról értesítik a vásárlókat.
+
+A mentesség
+
+a) az in vitro diagnosztikai orvostechnikai eszközöktől eltérő orvostechnikai eszközökben való használat esetében 2021. július 21-én;
+
+b) az in vitro diagnosztikai orvostechnikai eszközökben való használat esetében 2023. július 21-én;
+
+c) az elektronmikroszkópokban és tartozékaikban való használat esetében 2024. július 21-én;
+
+lejár.
 
 38. BSP (BaSi2O5:Pb) fényporokat tartalmazó, testen kívüli fénykezelésben (fotoferezisben) használt kisülő lámpákban található fluoreszcens porban aktivátorként alkalmazott ólom – a mentesség 2021. június 22-én lejár.
 
@@ -398,4 +408,4 @@ lejár.
 
 47. Az olyan ipari ellenőrző és vezérlő eszközökben használt oxigénérzékelők Hersch-celláinak kadmiumanódjai, amelyeknél 10 ppm-nél kisebb mérési érzékenység szükséges. A mentesség 2023. július 15-én lejár.
 
-[^23]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^23]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
