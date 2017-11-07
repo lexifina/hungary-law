@@ -1,0 +1,1 @@
+## 3. § Az R. 2. számú mellékletében a „megyei kormányhivatal földművelésügyi igazgatósága” szövegrész helyébe a „megyei kormányhivatalok járási hivatalainak agrárkár-megállapító szervként eljáró illetékes járási hivatala” szöveg lép.
