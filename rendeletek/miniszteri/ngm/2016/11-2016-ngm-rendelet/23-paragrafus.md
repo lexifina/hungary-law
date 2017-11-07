@@ -1,3 +1,5 @@
+## 22. §[^10]
+
 23. § (1) Az FJA 58. cikkében foglaltak, valamint jelen rendelkezések betartásával a könyvelés szerinti elkülönítésre vonatkozó engedélyt a kérelmező székhelye szerint illetékes vámhivatal adja ki. Amennyiben a gyártó több telephellyel rendelkezik, a telephely(ek) szerint illetékes vámhivatalokat az engedélyt kiadó vámszerv a határozat egy példányának megküldésével értesíti.
 
 (2) Az engedély akkor adható ki, ha a kérelmező
@@ -57,3 +59,5 @@ f) vállalni, hogy amennyiben a termékek preferenciális származás igazolása
 (6) A könyvelés szerinti elkülönítés engedélyezésekor a vámhatóság köteles megvizsgálni a gyártó nyilvántartásait a származó és nem származó anyagok nyitókészleteinek meghatározása céljából.
 
 (7) Ha a vámhatóság az FJA 58. cikk (4) bekezdésében foglaltak szerint az engedélyt visszavonja, ezzel egyidejűleg az összes helytelenül kiadott preferenciális származási igazolást érvényteleníti.
+
+[^10]: A 22. §-t a 37/2017. (XI. 6.) NGM rendelet 9. § b) pontja hatályon kívül helyezte.

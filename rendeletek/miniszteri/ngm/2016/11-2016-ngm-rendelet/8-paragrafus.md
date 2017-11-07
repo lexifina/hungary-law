@@ -47,3 +47,7 @@ bb) a vámhivatal hivatalos idején túl, valamint munkaszüneti napon, heti pih
 a) az üzemeltető maga a külkereskedelmi forgalmat bonyolító személy, aki saját nevében, illetve alkalmazottja útján nyújt be árunyilatkozatot vagy értesítést, vagy
 
 b) a vámeljárás során az üzemeltető közvetlen vagy közvetett képviselőként jár el.
+
+(17)[^5] Árunak a megsemmisítés helyszínére a vámhatóság tulajdonát képező gépjárművel történő szállításával kapcsolatban felmerült tényleges költségelemeket és a költség számításának módját a NAV vezetője tájékoztatásban teszi közzé.
+
+[^5]: A 8. § (17) bekezdését a 37/2017. (XI. 6.) NGM rendelet 6. §-a iktatta be.
