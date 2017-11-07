@@ -4,7 +4,7 @@ a) a vámmentességi rendelet XI. fejezet 43. cikk b) pontja alapján, a vámmen
 
 b) a vámmentességi rendelet
 
-ba) XI. fejezetének 44. cikk (2) bekezdés b) pontjában és 45. cikkében,
+ba)[^1] XI. fejezetének 44. cikk (2) bekezdés b) pontjában,
 
 bb) XII. fejezet 53. cikk (2) bekezdés b) pontjában,
 
@@ -23,3 +23,5 @@ foglaltak alapján, azoknak az intézményeknek, szervezeteknek, valamint labora
 c) a Megállapodás A) melléklet (xii), B) melléklet (iv), C) melléklet (i), (ii), (iii), és (v), a D) melléklet, valamint az E) melléklet (ii) pontjaiban foglaltak alapján azoknak az intézményeknek, szervezeteknek, amelyek a tevékenységi körük, illetve feladataik ellátásához szükséges, meghatározott módon történő felhasználásra szánt árukat hoznak be, a Megállapodásban meghatározott feltételek teljesítése esetén.
 
 (2) Az (1) bekezdés szerinti kérelem elbírálása során az engedélyező vámszerv a vámmentes vámkezelésre vonatkozó kérelem megalapozottságának vizsgálata érdekében – az (1) bekezdés a), b) és c) pontjában érintett intézmények, szervezetek, laboratóriumok tekintetében – megkeresi a feladatkör szerint érintett minisztert. A feladatkör szerint érintett miniszter a megkeresésben foglaltak alapján tájékoztatja az engedélyező vámszervet arról, hogy a kérelmező tevékenységi köre, feladatainak ellátása indokolja-e a vámmentes vámkezelésre vonatkozó kérelemben foglaltakat.
+
+[^1]: A 2. § (1) bekezdés b) pont ba) alpontja a 37/2017. (XI. 6.) NGM rendelet 11. §-a szerint módosított szöveg.
