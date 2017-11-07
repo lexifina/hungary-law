@@ -1,8 +1,8 @@
-## 10. §[^27] A felelős akkreditált közbeszerzési szaktanácsadó köteles a Kbt. 195. § (9) bekezdése szerinti körülményeiben bekövetkezett változást haladéktalanul, de legkésőbb a változástól számított öt munkanapon belül bejelenteni a közbeszerzésekért felelős miniszternek. Ha a változás következtében a felelős akkreditált közbeszerzési szaktanácsadó vonatkozásában valamely, a Kbt. 195. § (9) bekezdésében meghatározott kizáró ok áll fenn, a közbeszerzésekért felelős miniszter határozatban törli a felelős akkreditált közbeszerzési szaktanácsadót a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékből. A felelős akkreditált közbeszerzési szaktanácsadó névjegyzékből való törléséről szóló határozatot a közbeszerzésekért felelős miniszter a Közbeszerzési Hatóságnak tájékoztatásul megküldi.
+## 10. §[^36] A felelős akkreditált közbeszerzési szaktanácsadó köteles a Kbt. 195. § (9) bekezdése szerinti körülményeiben bekövetkezett változást haladéktalanul, de legkésőbb a változástól számított öt munkanapon belül bejelenteni a közbeszerzésekért felelős miniszternek. Ha a változás következtében a felelős akkreditált közbeszerzési szaktanácsadó vonatkozásában valamely, a Kbt. 195. § (9) bekezdésében meghatározott kizáró ok áll fenn, a közbeszerzésekért felelős miniszter határozatban törli a felelős akkreditált közbeszerzési szaktanácsadót a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékből. A felelős akkreditált közbeszerzési szaktanácsadó névjegyzékből való törléséről szóló határozatot a közbeszerzésekért felelős miniszter a Közbeszerzési Hatóságnak tájékoztatásul megküldi.
 
 ## 7. Igazgatási szolgáltatási díj
 
-11. § (1)[^28] Az előzetes regisztráció igazgatási szolgáltatási díja hetvenötezer forint.
+11. § (1)[^37] Az előzetes regisztráció igazgatási szolgáltatási díja hetvenötezer forint.
 
 (2) A névjegyzékbe történt bejegyzés megújítása esetén az igazgatási szolgáltatási díj mértéke ötvenezer forint.
 
@@ -16,5 +16,5 @@
 
 (7) Az igazgatási szolgáltatási díj a közbeszerzésekért felelős miniszter által vezetett minisztérium saját bevétele, amelyet a felelős akkreditált közbeszerzési szaktanácsadók közbeszerzési szakmai képzésére kell fordítani.
 
-[^27]: A 10. § a 41/2016. (XII. 29.) MvM rendelet 8. §-ával megállapított szöveg.
-[^28]: [A 11. § (1) bekezdésében a 41/2016. (XII. 29.) MvM rendelet 11. § 12. pontjával elrendelt módosítás, amely szerint az „az előzetes regisztráció” szövegrész helyébe az „a névjegyzékbe vétel” szöveg lép, nem vezethető át.]
+[^36]: A 10. § a 41/2016. (XII. 29.) MvM rendelet 8. §-ával megállapított szöveg.
+[^37]: [A 11. § (1) bekezdésében a 41/2016. (XII. 29.) MvM rendelet 11. § 12. pontjával elrendelt módosítás, amely szerint az „az előzetes regisztráció” szövegrész helyébe az „a névjegyzékbe vétel” szöveg lép, nem vezethető át.]

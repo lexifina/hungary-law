@@ -2,7 +2,7 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-1.[^1] felelős akkreditált közbeszerzési szaktanácsadó: azon büntetlen előéletű természetes személy, akit az e rendeletben meghatározottak alapján a közbeszerzésekért felelős miniszter által vezetett minisztérium névjegyzékbe vett, rendelkezik az e rendelet szerinti felsőfokú végzettséggel, felelősségbiztosítással és közbeszerzési gyakorlattal, továbbá aki a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, valamint a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó Korm. rendeletben meghatározottak szerinti kötelező képzésen (a továbbiakban: közbeszerzési szakmai képzés) igazoltan részt vett és eredményes vizsgát tett;
+1.[^1] felelős akkreditált közbeszerzési szaktanácsadó: azon büntetlen előéletű természetes személy, akit e rendeletben meghatározottak alapján a közbeszerzésekért felelős miniszter által vezetett minisztérium névjegyzékbe vett, rendelkezik az e rendelet szerinti felsőfokú végzettséggel, közbeszerzési gyakorlattal és – független szaktanácsadó esetében – felelősségbiztosítással, továbbá aki tevékenysége folyamatos gyakorlásához a felelős akkreditált közbeszerzési szaktanácsadók kötelező közbeszerzési szakmai képzéséről szóló kormányrendeletben meghatározottak szerinti képzésen (a továbbiakban: közbeszerzési szakmai képzés) igazoltan részt vett;
 
 2.[^2] kérelmező: azon természetes személy, aki e rendelet szerint felelős akkreditált közbeszerzési szaktanácsadóként történő névjegyzékbe vételét kezdeményezi;
 
@@ -10,5 +10,5 @@
 
 4. nem független felelős akkreditált közbeszerzési szaktanácsadó: azon felelős akkreditált közbeszerzési szaktanácsadó, aki tevékenységét kizárólag egy ajánlatkérő részére, munkaviszonyban, közalkalmazotti, közszolgálati, kormánytisztviselői vagy állami tisztviselői jogviszonyban, vagy foglalkoztatásra irányuló egyéb jogviszonyban látja el; a nem független felelős akkreditált közbeszerzési szaktanácsadó külön meghatalmazás nélkül, a munkaviszonya, közszolgálati, közalkalmazotti, kormánytisztviselői vagy állami tisztviselői jogviszonya, vagy egyéb foglalkoztatási jogviszonya alapján képviseli munkáltatóját a közbeszerzési eljárásokban.
 
-[^1]: Az 1. § 1. pontja a 41/2016. (XII. 29.) MvM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § 1. pontja a 28/2017. (XI. 6.) MvM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § 2. pontja a 41/2016. (XII. 29.) MvM rendelet 1. § (2) bekezdésével megállapított szöveg.

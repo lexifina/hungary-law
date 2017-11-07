@@ -1,6 +1,6 @@
-## 15. §[^38]
+## 15. §[^49]
 
-1. melléklet a 14/2016. (V. 25.) MvM rendelethez[^39]
+1. melléklet a 14/2016. (V. 25.) MvM rendelethez[^50]
 
 Kérelem felelős akkreditált közbeszerzési szaktanácsadói névjegyzékbe vételhez
 
@@ -58,7 +58,7 @@ V. Mellékletek
 
 − nyilatkozat a Kbt. 195. § (9) bekezdése szerinti kizáró okok fenn nem állásáról
 
-− nyilatkozat a kötelező szakmai képzésen való részvételről
+− igazolás a kötelező szakmai képzésen való részvételről
 
 − a bejegyzés díjának befizetését igazoló készpénz-átutalási megbízás vagy átutalási megbízás másolata
 
@@ -74,5 +74,5 @@ Alulírott kérelmező büntetőjogi felelősségem tudatában nyilatkozom, hogy
 
 kérelmező aláírása
 
-[^38]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^39]: Az 1. melléklet a 41/2016. (XII. 29.) MvM rendelet 12. §-ával megállapított szöveg.
+[^49]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: Az 1. melléklet a 41/2016. (XII. 29.) MvM rendelet 12. §-ával megállapított, a 28/2017. (XI. 6.) MvM rendelet 7. § b) pontja szerint módosított szöveg.
