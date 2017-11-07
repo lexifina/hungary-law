@@ -6,4 +6,6 @@
 
 (3) A megszerzett továbbképzési tanulmányi pontok a képző szervezet által kiállított igazolástól számított két évig használhatóak fel.
 
-(4) A névjegyzékbe vétel megújításakor egyszeri alkalommal 15 továbbképzési tanulmányi pont értékben számítható be a névjegyzékbe vétel megújítása iránti kérelem benyújtását megelőző hat éven belül megszerzett közbeszerzési tárgyú felsőfokú szakirányú továbbképzési szakon szerzett végzettség. Közbeszerzési tárgyú felsőfokú szakirányú továbbképzési szakon már megkezdett, de még be nem fejezett tanulmányok esetén a már lezárt félévvel teljesített, a nemzeti felsőoktatásról szóló törvény szerinti kreditek a névjegyzékbe vétel megújításakor arányosan beszámíthatóak.
+(4)[^3] A névjegyzékbe vételkor és a névjegyzékbe történő bejegyzés megújításakor egyszeri alkalommal 15 továbbképzési tanulmányi pont értékben számítható be a névjegyzékbe vételi vagy a névjegyzékbe történő bejegyzés megújítása iránti kérelem benyújtását megelőző hat éven belül megszerzett közbeszerzési tárgyú felsőfokú szakirányú továbbképzési szakon szerzett végzettség. Közbeszerzési tárgyú felsőfokú szakirányú továbbképzési szakon már megkezdett, de még be nem fejezett tanulmányok esetén a már lezárt félévvel teljesített, a nemzeti felsőoktatásról szóló törvény szerinti kreditek a névjegyzékbe vételkor és a névjegyzékbe történő bejegyzés megújításakor arányosan beszámíthatóak.
+
+[^3]: A 4. § (4) bekezdése a 315/2017. (XI. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

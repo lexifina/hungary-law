@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-217-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-08-01 | 2017-217-20-22.1 | 217/2017. (VII. 31.) Korm. rendelet |
+| 2017-11-07 | 2017-217-20-22.2 | 315/2017. (XI. 6.) Korm. rendelet |
