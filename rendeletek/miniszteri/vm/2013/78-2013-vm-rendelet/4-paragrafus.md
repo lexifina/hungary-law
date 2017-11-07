@@ -1,6 +1,6 @@
 ## 4. A támogatás forrása, keretösszege és mértéke
 
-4. § (1)[^15] A támogatás forrása a Földművelésügyi Minisztérium fejezet, a sertéságazat helyzetét javító stratégiai intézkedések támogatása jogcímcsoport, számlaszáma: 10032000-01220191-51200002. A 2017. évre rendelkezésre álló forrás legfeljebb 40 millió forint.
+4. § (1)[^15] A támogatás forrása a Földművelésügyi Minisztérium fejezet, a sertéságazat helyzetét javító stratégiai intézkedések támogatása jogcímcsoport, számlaszáma: 10032000-01220191-51200002. A 2017. évre rendelkezésre álló forrás legfeljebb 72 millió forint.
 
 (2)[^16] A kifizethető támogatás összege a beszerzett tenyészsertés, szaporítóanyag, illetve eszköz elszámolható költsége, de tételenként legfeljebb a 2. mellékletben feltüntetett összeg.
 
@@ -22,7 +22,7 @@
 
 (10)[^25] A támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatalának napjától számított tíz évig meg kell őrizni.
 
-[^15]: A 4. § (1) bekezdése a 43/2014. (XII. 29.) FM rendelet 71. §-ával megállapított, a 23/2015. (V. 13.) FM rendelet 6. §-a, 33/2017. (VI. 9.) FM rendelet 23. § a) pontja szerint módosított szöveg.
+[^15]: A 4. § (1) bekezdése a 43/2014. (XII. 29.) FM rendelet 71. §-ával megállapított, a 33/2017. (VI. 9.) FM rendelet 23. § a) pontja, az 55/2017. (XI. 6.) FM rendelet 11. §-a szerint módosított szöveg.
 [^16]: A 4. § (2) bekezdése a 22/2014. (XI. 3.) FM rendelet 4. §-ával megállapított szöveg.
 [^17]: A 4. § (3) bekezdése a 22/2014. (XI. 3.) FM rendelet 4. §-ával megállapított, a 33/2017. (VI. 9.) FM rendelet 23. § b) pontja szerint módosított szöveg.
 [^18]: A 4. § (3a) bekezdését az 51/2016. (VII. 21.) FM rendelet 12. § (1) bekezdése iktatta be.

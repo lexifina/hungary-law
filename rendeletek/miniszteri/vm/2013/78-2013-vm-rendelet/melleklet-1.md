@@ -1,6 +1,6 @@
-## 12. §[^41] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+## 13. §[^42] Az egyes közvetlen és nemzeti támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 55/2017. (XI. 6.) FM rendelettel [a továbbiakban: 55/2017. (XI. 6.) FM rendelet] megállapított 4. § (1) bekezdést az 55/2017. (XI. 6.) FM rendelet hatálybalépésekor[^43] folyamatban lévő eljárásokban is alkalmazni kell.
 
-1. melléklet a 78/2013. (IX. 10.) VM rendelethez[^42]
+1. melléklet a 78/2013. (IX. 10.) VM rendelethez[^44]
 
 ## A beszerzésre kerülő tenyészsertésekkel, szaporítóanyaggal és eszközökkel kapcsolatos követelmények
 
@@ -44,5 +44,6 @@ Nyomtató:
 
 Közvetlenül a gyártótól vagy forgalmazótól beszerzett új eszközök a 2. mellékletben foglaltak szerint.
 
-[^41]: A 12. § a 36/2014. (IV. 4.) VM rendelet 90. §-ával megállapított szöveg.
-[^42]: Az 1. melléklet a 22/2014. (XI. 3.) FM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^42]: A 13. §-t az 55/2017. (XI. 6.) FM rendelet 10. §-a iktatta be.
+[^43]: A hatálybalépés időpontja 2017. november 7.
+[^44]: Az 1. melléklet a 22/2014. (XI. 3.) FM rendelet 8. § (1) bekezdésével megállapított szöveg.
