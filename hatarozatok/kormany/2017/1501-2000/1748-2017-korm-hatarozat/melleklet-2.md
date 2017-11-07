@@ -8,7 +8,7 @@
 
 | Budapest | Bartók Béla három színpadi művéhez készült díszlettervek rekonstrukciója | Budapest 1061, Andrássy út 22. | Budapest, belterület hrsz. 29209 | Emberi Erőforrások Minisztériuma |  | 50 000 000 |  |
 
-| Budapest | Pesterzsébeti Református Templom | Budapest, XX. Kerület, Mátyás király tér | Budapest, hrsz. 181016/2 | Budapest, Pesterzsébet, Szabótelepi Református Egyházközség |  |  | 230 000 000 |
+| Budapest | Pesterzsébeti Református Templom | Budapest, XX. Kerület, Mátyás király tér | Budapest, hrsz. 181016/2 | Budapest, Pesterzsébet, Szabótelepi Református Egyházközség |  |  | 400 000 000 |
 
 | Csíkszereda | Kápolna építése a Tolvajos tetőre | Csíkszereda, Hargita út |  | Csíksomlyó Közbirtokosság | 50 000 000 |  |  |
 
@@ -60,6 +60,6 @@
 
 | Zalaszentlászló | Faluház felújítása és szállásépülettel, színpaddal bővítése | Zalaszentlászló, Kossuth út 19. | Zalaszentlászló, hrsz. 112/1 | Önkormányzat |  | 405 000 000 |  |
 
-| Évente összesen |  |  |  |  | 6 600 000 000 | 1 450 000 000 | 1 400 000 000 |
+| Évente összesen |  |  |  |  | 6 600 000 000 | 1 450 000 000 | 1 570 000 000 |
 
 2. melléklet az 1748/2017. (X. 25.) Korm. határozathoz
