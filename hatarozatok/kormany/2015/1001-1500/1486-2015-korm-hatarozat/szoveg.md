@@ -32,6 +32,8 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2015. július 31.
 
+d)[^1] egyetért azzal, hogy a köznevelési, a szakképzési, a felsőoktatási és a felnőttképzési rendszer digitális átalakításáról és Magyarország Digitális Oktatási Stratégiájáról szóló 1536/2016. (X. 13.) Korm. határozat 3. pontjában biztosított felhatalmazás alapján a Korm. határozat 1. pont ab) alpontjában meghatározott forrás a köznevelés és a szakképzés valamennyi feladatellátási helye számára – beleértve a Nemzetgazdasági Minisztérium fenntartásában lévő 44 szakképzési centrum 380 tagintézményét és a Földművelésügyi Minisztérium fenntartásában lévő 47 agrárszakképző intézményt és 63 feladatellátási helyet is – a digitális oktatáshoz szükséges sávszélességű szupergyors interneteléréssel, illetve épületen belüli WiFi-hálózattal való rendelkezés érdekében is felhasználható.
+
 2. A Kormány a Digitális Nemzet Fejlesztési Program Digitális Infrastruktúra pillér megvalósítása érdekében
 
 a) felhívja a Miniszterelnökséget vezető minisztert, hogy
@@ -214,6 +216,7 @@ Határidő: 2015. október 15.
 
 9. A Kormány felkéri a Nemzeti Hírközlési és Informatikai Tanácsot, hogy – a szükséges adatállomány rendelkezésre állásának biztosításával és az adatkezelés tekintetében a Kormányzati Informatikai Fejlesztési Ügynökség bevonásával – 2018. december 31-ig gondoskodjon a Digitális Nemzet Fejlesztési Program megvalósítását elősegítő, annak gazdasági, társadalmi és versenyképességi hatásait bemutató monitoring rendszer kiépítéséről, valamint működtetéséről.
 
-10–12.[^1]
+10–12.[^2]
 
-[^1]: A 10–12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont d) alpontját az 1762/2017. (XI. 7.) Korm. határozat 2. pontja iktatta be.
+[^2]: A 10–12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
