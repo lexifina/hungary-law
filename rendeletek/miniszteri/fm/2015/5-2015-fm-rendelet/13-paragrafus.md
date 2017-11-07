@@ -34,9 +34,9 @@ f)[^16]
 
 (5) A támogatás további feltétele az anyatehén fajtájának az ENAR nyilvántartásba való bejelentése a Szarvasmarha ENAR rendeletben meghatározott útmutató szerinti fajtakóddal legkésőbb a támogatási kérelem benyújtásáig.
 
-(6)[^17] A 2016. támogatási évtől kezdődően a támogatás igénybevételének további feltétele, hogy a mezőgazdasági termelő a támogatási évet megelőző év április 1. és a támogatási év március 31. közötti időszakra vonatkozó tejértékesítési jelentéseket a Kincstár által rendszeresített és a Kincstár honlapján közzétett nyomtatványon benyújtsa. A havi tejértékesítési jelentés benyújtási határideje a tárgyhót követő hónap 15. napja, az összesített tejértékesítési jelentés benyújtási határideje a támogatási évet követő év május 15. napja.
+(6)[^17] A 2016. támogatási évben a 13. § (1a) bekezdés a) pontja szerinti esetben, a 13. § (2) bekezdésében és az 1. mellékletben felsorolt, illetve magyartarka fajtájú szarvasmarhát is tartalmazó tenyészetekben tartott állatok után a támogatás igénybevételének további feltétele, hogy a mezőgazdasági termelő a támogatási évet megelőző év április 1. és a támogatási év március 31. közötti időszakra vonatkozó tejértékesítési jelentéseket a Kincstár által rendszeresített és a Kincstár honlapján közzétett nyomtatványon a Kincstár részére benyújtsa. A havi tejértékesítési jelentés benyújtási határideje a tárgyhót követő hónap 15. napja, az összesített tejértékesítési jelentés benyújtási határideje a támogatási évet követő év május 15. napja.
 
-(6a)[^18] A 2017. évtől kezdődően a mezőgazdasági termelő a tárgyévet megelőző év április 1. és a tárgyév március 31. közötti időszakra vonatkozó, havi bontású adatokat tartalmazó tejértékesítési jelentést köteles benyújtani. A tejértékesítési jelentést a tárgyévre vonatkozó támogatási kérelem benyújtására nyitva álló időszakban, elektronikus úton, ügyfélkapun keresztül kell benyújtani.
+(6a)[^18] A (6) bekezdés szerinti, a tejértékesítési jelentés benyújtására vonatkozó támogatási feltétel teljesítésére nem kötelezett mezőgazdasági termelő esetében a 13. § (1a) bekezdés a) pontja szerinti támogatási feltételt a 2016. támogatási év vonatkozásában teljesítettnek kell tekinteni.
 
 (7)[^19] A (6) bekezdés szerinti nyomtatvány az ügyfél azonosításához szükséges adatokat és az értékesített tejmennyiségre vonatkozó adatokat tartalmazza.
 
@@ -44,24 +44,27 @@ f)[^16]
 
 (8a)[^21] A 2016. támogatási évre vonatkozó kérelmek tekintetében a hiányosan teljesített tejértékesítési jelentésekre vonatkozóan a Kincstár – ötnapos határidő tűzése mellett – a tejértékesítési jelentések hiánytalan benyújtására szólítja fel a mezőgazdasági termelőt.
 
-(9)[^22] Az (1) és (1a) bekezdés vonatkozásában a tejegyenérték számítást a 2. melléklet szerint kell elvégezni.
+(8b)[^22] A (8a) bekezdésben rögzített hiánypótlást nem vagy nem megfelelően teljesítő mezőgazdasági termelő részére a 2016. évi támogatási kérelmek tekintetében a Kincstár – ötnapos határidő tűzése mellett – a tejértékesítési jelentések hiánytalan benyújtására szólítja fel a mezőgazdasági termelőt.
 
-(10)[^23] A 2016. év vonatkozásában a havi tejértékesítési jelentést háromhavi összesítéssel kell benyújtani. Annak elmaradása esetén az összesítés a következő háromhavi ciklus végén, a tárgyidőszaki jelentéssel együtt pótolható.
+(9)[^23] Az (1) és (1a) bekezdés vonatkozásában a tejegyenérték számítást a 2. melléklet szerint kell elvégezni.
 
-(11)[^24] A tejtermelést nem folytató tenyészetnek a tárgyévre vonatkozó támogatási kérelem benyújtására nyitva álló időszakban egyszeri, összesített – nullás – tejértékesítési jelentést kell benyújtania.
+(10)[^24] A 2016. év vonatkozásában a havi tejértékesítési jelentést háromhavi összesítéssel kell benyújtani. Annak elmaradása esetén az összesítés a következő háromhavi ciklus végén, a tárgyidőszaki jelentéssel együtt pótolható.
 
-(12)[^25] Amennyiben a mezőgazdasági termelő gazdaságában összesen 120 000 kg értékesített tejet meghaladó tejtermelést folytató és tejtermelést nem folytató tenyészet egyaránt megtalálható, a tejtermelést folytató tenyészet adatairól tejértékesítési jelentést nem kell benyújtani.
+(11)[^25] A tejtermelést nem folytató tenyészetnek a tárgyévre vonatkozó támogatási kérelem benyújtására nyitva álló időszakban egyszeri, összesített – nullás – tejértékesítési jelentést kell benyújtania.
+
+(12)[^26] Amennyiben a mezőgazdasági termelő gazdaságában összesen 120 000 kg értékesített tejet meghaladó tejtermelést folytató és tejtermelést nem folytató tenyészet egyaránt megtalálható, a tejtermelést folytató tenyészet adatairól tejértékesítési jelentést nem kell benyújtani.
 
 [^13]: A 13. § (1) bekezdése a 17/2015. (IV. 9.) FM rendelet 8. § (1) bekezdésvel megállapított szöveg.
 [^14]: A 13. § (1a) bekezdését a 17/2015. (IV. 9.) FM rendelet 8. § (2) bekezdése iktatta be, nyitó szövegrésze a 25/2016. (IV. 11.) FM rendelet 30. § (1) bekezdésével megállapított, a 13/2017. (III. 17.) FM rendelet 11. § a) pontja szerint módosított szöveg.
 [^15]: A 13. § (3) bekezdés e) pontja a 65/2016. (IX. 21.) FM rendelet 19. §-a szerint módosított szöveg.
 [^16]: A 13. § (3) bekezdés f) pontját a 25/2016. (IV. 11.) FM rendelet 30. § (2) bekezdése iktatta be, a 65/2016. (IX. 21.) FM rendelet 22. §-a hatályon kívül helyezte.
-[^17]: A 13. § (6) bekezdését a 17/2015. (IV. 9.) FM rendelet 8. § (3) bekezdése iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 77. § d) pontja, a 13/2017. (III. 17.) FM rendelet 11. § b) pontja szerint módosított szöveg.
-[^18]: A 13. § (6a) bekezdését a 25/2016. (IV. 11.) FM rendelet 30. § (3) bekezdése iktatta be.
+[^17]: A 13. § (6) bekezdését a 17/2015. (IV. 9.) FM rendelet 8. § (3) bekezdése iktatta be, szövege az 55/2017. (XI. 6.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^18]: A 13. § (6a) bekezdését a 25/2016. (IV. 11.) FM rendelet 30. § (3) bekezdése iktatta be, szövege az 55/2017. (XI. 6.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^19]: A 13. § (7) bekezdését a 17/2015. (IV. 9.) FM rendelet 8. § (3) bekezdése iktatta be.
 [^20]: A 13. § (8) bekezdését a 17/2015. (IV. 9.) FM rendelet 8. § (3) bekezdése iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 77. § b) pontja, a 13/2017. (III. 17.) FM rendelet 11. § a) pontja szerint módosított szöveg.
 [^21]: A 13. § (8a) bekezdését a 13/2017. (III. 17.) FM rendelet 8. §-a iktatta be.
-[^22]: A 13. § (9) bekezdését a 17/2015. (IV. 9.) FM rendelet 8. § (3) bekezdése iktatta be.
-[^23]: A 13. § (10) bekezését a 40/2015. (VII. 13.) FM rendelet 8. § (1) bekezdése iktatta be, szövege a 25/2016. (IV. 11.) FM rendelet 30. § (4) bekezdésével megállapított szöveg.
-[^24]: A 13. § (11) bekezését a 40/2015. (VII. 13.) FM rendelet 8. § (1) bekezdése iktatta be, szövege a 25/2016. (IV. 11.) FM rendelet 30. § (4) bekezdésével megállapított szöveg.
-[^25]: A 13. § (12) bekezését a 40/2015. (VII. 13.) FM rendelet 8. § (1) bekezdése iktatta be.
+[^22]: A 13. § (8b) bekezdését az 55/2017. (XI. 6.) FM rendelet 14. § (2) bekezdése iktatta be.
+[^23]: A 13. § (9) bekezdését a 17/2015. (IV. 9.) FM rendelet 8. § (3) bekezdése iktatta be.
+[^24]: A 13. § (10) bekezését a 40/2015. (VII. 13.) FM rendelet 8. § (1) bekezdése iktatta be, szövege a 25/2016. (IV. 11.) FM rendelet 30. § (4) bekezdésével megállapított szöveg.
+[^25]: A 13. § (11) bekezését a 40/2015. (VII. 13.) FM rendelet 8. § (1) bekezdése iktatta be, szövege a 25/2016. (IV. 11.) FM rendelet 30. § (4) bekezdésével megállapított szöveg.
+[^26]: A 13. § (12) bekezését a 40/2015. (VII. 13.) FM rendelet 8. § (1) bekezdése iktatta be.

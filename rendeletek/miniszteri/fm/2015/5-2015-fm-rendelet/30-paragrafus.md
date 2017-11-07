@@ -2,6 +2,6 @@
 
 (2) A támogatást az a mezőgazdasági termelő is igényelheti, valamint a támogatás annak a mezőgazdasági termelőnek is kifizetésre kerülhet, amely, vagy aki felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll, feltéve, hogy az e rendeletben, továbbá az Egységes kérelem rendeletben meghatározott feltételeknek megfelel.
 
-(3)[^47] Ha e rendelet másként nem rendelkezik, a támogatásra jogosultnak járó támogatási összeg kifizetéséről a Kincstár a tárgyévet követő év július 31-éig döntést hoz.
+(3)[^50] Ha e rendelet másként nem rendelkezik, a támogatásra jogosultnak járó támogatási összeg kifizetéséről a Kincstár a tárgyévet követő év július 31-éig döntést hoz.
 
-[^47]: A 30. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 77. § b) pontja szerint módosított szöveg.
+[^50]: A 30. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 77. § b) pontja szerint módosított szöveg.
