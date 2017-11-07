@@ -1,3 +1,5 @@
-## 10. § Az adózó az éves jelentéstételi kötelezettsége keretében az állami adóhatóság által rendszeresített elektronikus űrlapon tájékoztatja az adóhatóságot a szokásos piaci árat megállapító határozatban rögzített kritikus feltételek, tények, körülmények megváltozásáról, illetőleg annak hiányáról.
+## 10. §[^12]
 
 ## Záró rendelkezések
+
+[^12]: A 10. §-t a 37/2017. (XI. 6.) NGM rendelet 2. § c) pontja hatályon kívül helyezte.

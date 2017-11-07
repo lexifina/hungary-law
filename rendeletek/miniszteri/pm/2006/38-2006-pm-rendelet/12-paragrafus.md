@@ -1,8 +1,8 @@
 ## 11. § Ez a rendelet 2007. január 1-jén lép hatályba.
 
-12. §[^8] E rendeletnek az egyes adózási tárgyú PM rendeletek módosításáról szóló 54/2011. (XII. 29.) NGM rendelettel megállapított mellékletét a folyamatban lévő eljárásokra is alkalmazni kell.
+12. §[^13] E rendeletnek az egyes adózási tárgyú PM rendeletek módosításáról szóló 54/2011. (XII. 29.) NGM rendelettel megállapított mellékletét a folyamatban lévő eljárásokra is alkalmazni kell.
 
-Melléklet a 38/2006. (XII. 25.) PM rendelethez[^9]
+Melléklet a 38/2006. (XII. 25.) PM rendelethez[^14]
 
 A kérelem tartalmazza:
 
@@ -46,17 +46,17 @@ b) egyéb, a tényállást alátámasztó iratokat,
 
 c) az adózó képviseletében eljáró képviseleti jogosultságának igazolását,
 
-d) a kérelem ellenjegyzésére adott megbízást vagy annak közjegyző által hitelesített másolatát,
+d)[^15]
 
 e) közjegyző által hitelesített aláírási címpéldány másolatát,
 
-f) 30 napnál nem régebbi cégkivonatot vagy annak közjegyző által hitelesített másolatát,
+f)[^16]
 
 g) a díj megfizetését igazoló, a hitelintézet által cégszerűen aláírt bizonylat másolatát;
 
 11. az adózó nyilatkozatát a befizetendő díj összegéről;
 
-12.[^10] a fizetési számlaszám megjelölését, ahová az adózó a díj visszautalását kéri a kérelem elutasítása esetén;
+12.[^17] a fizetési számlaszám megjelölését, ahová az adózó a díj visszautalását kéri a kérelem elutasítása esetén;
 
 13. egyéb, az adózó által fontosnak tartott körülmények megjelölését;
 
@@ -74,8 +74,11 @@ e) hozzájárul a kérelem elbírálásához szükséges, adózásával összef�
 
 15. az adózó (felelős vezető) vagy képviselője cégszerű aláírását;
 
-16. az adótanácsadó, adószakértő, okleveles adószakértő vagy ügyvéd cégszerű aláírását (ellenjegyzését).
+16.[^18] az adótanácsadó, adószakértő, okleveles adószakértő vagy ügyvéd cégszerű aláírását.
 
-[^8]: A 12. §-t az 54/2011. (XII. 29.) NGM rendelet 3. § (3) bekezdése iktatta be.
-[^9]: A melléklet az 54/2011. (XII. 29.) NGM rendelet 3. § (4) bekezdése szerint módosított szöveg.
-[^10]: A melléklet 12. pontja a 17/2010. (IV. 28.) PM rendelet 5. §-a szerint módosított szöveg.
+[^13]: A 12. §-t az 54/2011. (XII. 29.) NGM rendelet 3. § (3) bekezdése iktatta be.
+[^14]: A melléklet az 54/2011. (XII. 29.) NGM rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^15]: A melléklet 10. pont d) alpontját a 37/2017. (XI. 6.) NGM rendelet 2. § d) pontja hatályon kívül helyezte.
+[^16]: A melléklet 10. pont f) alpontját a 37/2017. (XI. 6.) NGM rendelet 2. § d) pontja hatályon kívül helyezte.
+[^17]: A melléklet 12. pontja a 17/2010. (IV. 28.) PM rendelet 5. §-a szerint módosított szöveg.
+[^18]: A melléklet 16. pontja a 37/2017. (XI. 6.) NGM rendelet 2. § e) pontja szerint módosított szöveg.
