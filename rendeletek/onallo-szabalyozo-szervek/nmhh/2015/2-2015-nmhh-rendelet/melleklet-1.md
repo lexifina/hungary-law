@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 2/2015. (III. 30.) NMHH rendelethez[^18]
+1. melléklet a 2/2015. (III. 30.) NMHH rendelethez[^22]
 
 Egységes internet-hozzáférési szolgáltatás leíró táblázat
 
@@ -76,4 +76,4 @@ ______________
 
 3 A Rendelet 2. § (1) bekezdés 6. pontja alapján.
 
-[^18]: Az 1. melléklet a 6/2016. (IX. 30.) NMHH rendelet 5. § 11. és 12. pont a), e)–f) alpontja szerint módosított szöveg. [Nem vezethető át a 6/2016. (IX. 30.) NMHH rendelet 5. § 12. pont b)–d) alpontjában foglalt módosítás.]
+[^22]: Az 1. melléklet a 6/2016. (IX. 30.) NMHH rendelet 5. § 11. és 12. pont a), e)–f) alpontja szerint módosított szöveg. [Nem vezethető át a 6/2016. (IX. 30.) NMHH rendelet 5. § 12. pont b)–d) alpontjában foglalt módosítás.]
