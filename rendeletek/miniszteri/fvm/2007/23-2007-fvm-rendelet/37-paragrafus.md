@@ -1,4 +1,4 @@
-## 36/R. §[^293] A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes, a Miniszterelnökséget vezető miniszter feladatkörébe tartozó miniszteri rendeletek módosításáról szóló 37/2016. (XII. 29.) MvM rendelettel [a továbbiakban: 37/2016. (XII. 29.) MvM rendelet] megállapított rendelkezéseket a 37/2016. (XII. 29.) MvM rendelet hatálybalépésekor[^294] folyamatban lévő eljárásokban és folyamatban lévő ügyekben is alkalmazni kell.
+## 36/R. §[^294] A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes, a Miniszterelnökséget vezető miniszter feladatkörébe tartozó miniszteri rendeletek módosításáról szóló 37/2016. (XII. 29.) MvM rendelettel [a továbbiakban: 37/2016. (XII. 29.) MvM rendelet] megállapított rendelkezéseket a 37/2016. (XII. 29.) MvM rendelet hatálybalépésekor[^295] folyamatban lévő eljárásokban és folyamatban lévő ügyekben is alkalmazni kell.
 
 ## VII. Fejezet
 
@@ -12,8 +12,8 @@ b) a Bizottság 1974/2006/EK rendelete (2006. december 15.) az Európai Mezőgaz
 
 c) a Bizottság 1975/2006/EK rendelete (2006. december 7.) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról;
 
-d)[^295] A Bizottság 65/2011/EU rendelete (2011. január 27.) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról.
+d)[^296] A Bizottság 65/2011/EU rendelete (2011. január 27.) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról.
 
-[^293]: A 36/R. §-t a 37/2016. (XII. 29.) MvM rendelet 1. § (4) bekezdése iktatta be.
-[^294]: A hatálybalépés időpontja 2017. január 1.
-[^295]: A 37. § d) pontját a 137/2012. (XII. 22.) VM rendelet 13. §-a iktatta be.
+[^294]: A 36/R. §-t a 37/2016. (XII. 29.) MvM rendelet 1. § (4) bekezdése iktatta be.
+[^295]: A hatálybalépés időpontja 2017. január 1.
+[^296]: A 37. § d) pontját a 137/2012. (XII. 22.) VM rendelet 13. §-a iktatta be.

@@ -1,3 +1,3 @@
-2. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^297]
+2. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^298]
 
-[^297]: A 2. számú melléklet az 53/2008. (IV. 24.) FVM rendelet 19. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 61. §-a szerint módosított szöveg.
+[^298]: A 2. számú melléklet az 53/2008. (IV. 24.) FVM rendelet 19. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 61. §-a, a 29/2017. (XI. 6.) MvM rendelet 3. §-a szerint módosított szöveg.
