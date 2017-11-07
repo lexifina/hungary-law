@@ -142,7 +142,7 @@ C) Központi hivatal
 
 5.11. a Központi Irányítás azon foglalkoztatottja, aki munkaköri leírása alapján kockázatkezelési módszertanok, módszerek kidolgozásában közreműködik,
 
-5.12. a szerencsejáték felügyeletet ellátó szervezeti egység vezetője és azon ellenőrzési szakreferense, aki munkaköri leírása alapján a szerencsejáték felügyeleti kirendeltséget vezeti,
+5.12.[^4]
 
 5.13. a Központi Irányítás rendészeti feladatokat ellátó szervezeti egység vezetője és azon foglalkoztatottja, aki munkaköri leírása alapján ügyeletesi, védelemigazgatási vagy EDR diszpécserszolgálati feladatot lát el,
 
@@ -152,7 +152,7 @@ C) Központi hivatal
 
 5.16. a Kiemelt Adó- és Vámigazgatóság valamennyi vezetője, az igazgatóhelyettesek közvetlen munkatársai, továbbá az Általános Főosztály, illetve a Különös Hatásköri Ellenőrzési Főosztály ellenőrzési, hatósági és adóügyi munkakörcsoportjaiból kijelölt foglalkoztatottak, az igazgatóság azon foglalkoztatottjai, akik munkaköri leírásuk alapján az Általános Főosztály különös illetékességi körébe tartozó adózók adatait tartalmazó adatállománnyal kapcsolatba kerülnek,
 
-5.17. a Nemzeti Adó- és Vámhivatal azon kijelölt megyei (fővárosi) adó- és vámigazgatóságokon eljáró ügyfélszolgálati foglalkoztatottja, aki munkaköri leírása alapján a Kiemelt Adó- és Vámigazgatóság különös hatáskörébe tartozó egyes adózók ügyeit intézi,
+5.17.[^5] a Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága azon főosztályainak vezetői, foglalkoztatottjai, továbbá azon kijelölt megyei (fővárosi) adó- és vámigazgatóságokon eljáró ügyfélszolgálati foglalkoztatottak, akik munkaköri leírásuk alapján a Kiemelt Adó- és Vámigazgatóság különös hatáskörébe tartozó egyes adózók ügyeit intézik,
 
 5.18. az informatikai feladatokat ellátó intézet alaptevékenységébe tartozó szervezeti egységek vezetői,
 
@@ -176,7 +176,7 @@ C) Központi hivatal
 
 5.28. a Nemzeti Adó- és Vámhivatal azon foglalkoztatottja, akinek a munkaköri feladatainak ellátásához Személyi Biztonsági Tanúsítvány megléte szükséges.
 
-6.[^4] A Nemzeti Akkreditáló Hatóságnál
+6.[^6] A Nemzeti Akkreditáló Hatóságnál
 
 6.1. a főosztályvezető, a főosztályvezető-helyettes, az osztályvezető,
 
@@ -223,4 +223,6 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szerv
 [^1]: Az 1. melléklet B) részét a 47/2015. (XII. 30.) NGM rendelet 27. §-a hatályon kívül helyezte, újonnan a 62/2016. (XII. 29.) NGM rendelet 31. §-a iktatta be.
 [^2]: Az 1. melléklet C) rész 1. pontját a 62/2016. (XII. 29.) NGM rendelet 31. §-a hatályon kívül helyezte.
 [^3]: Az 1. melléklet C) rész 5. pontját a 47/2015. (XII. 30.) NGM rendelet 27. §-a iktatta be.
-[^4]: Az 1. melléklet C) Központi hivatal rész 6. pontját a 15/2016. (V. 24.) NGM rendelet 1. §-a iktatta be.
+[^4]: Az 1. melléklet C) rész 5. pont 5.12. alpontját a 37/2017. (XI. 6.) NGM rendelet 5. §-a hatályon kívül helyezte.
+[^5]: Az 1. melléklet C) rész 5. pont 5.17. alpontja a 37/2017. (XI. 6.) NGM rendelet 5. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet C) Központi hivatal rész 6. pontját a 15/2016. (V. 24.) NGM rendelet 1. §-a iktatta be.
