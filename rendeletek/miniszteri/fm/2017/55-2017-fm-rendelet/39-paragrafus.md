@@ -1,0 +1,1 @@
+## 38. § A Tej Szakmaközi Szervezet és Terméktanácsnál működő piaci jelentéstételi kötelezettségről szóló piacszervezési intézkedés kiterjesztéséről szóló 8/2017. (III. 2.) FM rendelet (a továbbiakban: 8/2017. (III. 2.) FM rendelet) 1. és 2. melléklete helyébe a 4. és 5. melléklet lép.

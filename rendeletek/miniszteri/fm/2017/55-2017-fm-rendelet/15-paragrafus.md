@@ -1,0 +1,1 @@
+## „(8b) A (8a) bekezdésben rögzített hiánypótlást nem vagy nem megfelelően teljesítő mezőgazdasági termelő részére a 2016. évi támogatási kérelmek tekintetében a Kincstár – ötnapos határidő tűzése mellett – a tejértékesítési jelentések hiánytalan benyújtására szólítja fel a mezőgazdasági termelőt.”
