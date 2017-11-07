@@ -16,6 +16,6 @@
 
 | 7 | 25–60 mm | 39 333 | 1916 |
 
-4/b. melléklet a 9/2015. (III. 13.) FM rendelethez[^133]
+4/b. melléklet a 9/2015. (III. 13.) FM rendelethez[^140]
 
-[^133]: A 4/b. mellékletet a 13/2017. (III. 17.) FM rendelet 29. § (5) bekezdése iktatta be.
+[^140]: A 4/b. mellékletet a 13/2017. (III. 17.) FM rendelet 29. § (5) bekezdése iktatta be.
