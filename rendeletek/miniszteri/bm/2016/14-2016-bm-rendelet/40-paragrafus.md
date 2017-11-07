@@ -2,7 +2,7 @@
 
 ## A RIADÓCSOMAGGAL VALÓ ELLÁTÁS RENDSZERE, SZABÁLYAI
 
-40. § (1)[^10] A Nemzeti Szakértői és Kutató Központhoz vezényelt hivatásos állomány kivételével az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv, a büntetés-végrehajtási szervezet, valamint a hivatásos katasztrófavédelmi szerv szenior állományba nem tartozó igényjogosultját kinevezésekor a riadócsomag összetételének megfelelő ellátás illeti meg.
+40. § (1)[^32] A Nemzeti Szakértői és Kutató Központhoz vezényelt hivatásos állomány kivételével az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv, a büntetés-végrehajtási szervezet, valamint a hivatásos katasztrófavédelmi szerv szenior állományba nem tartozó igényjogosultját kinevezésekor a riadócsomag összetételének megfelelő ellátás illeti meg.
 
 (2) Az (1) bekezdés szerinti ellátás egyszeri ellátás, amit az igényjogosult részére a szolgálati hely szerinti gazdálkodó szervezeti elem készpénzben biztosít. A kifizetett összeg elszámolás-köteles; az elszámolást a ruházati utánpótlási ellátmánnyal megegyező módon kell végrehajtani.
 
@@ -28,4 +28,4 @@ d) A/5-ös füzetet és íróeszközt
 
 (8) Az elrendelt rendkívüli feladatok végrehajtása során, ha az igényjogosult élelmezési ellátásban nem részesül, a felhasznált hidegélelem – napi 1400 Ft értékben – a szolgálati hely szerinti gazdálkodó szervezeti elem által visszapótlásra kerül (reggeli 25%, ebéd 45%, vacsora 30%).
 
-[^10]: A 40. § (1) bekezdése az 58/2016. (XII. 22.) BM rendelet 60. §-a szerint módosított szöveg.
+[^32]: A 40. § (1) bekezdése az 58/2016. (XII. 22.) BM rendelet 60. §-a szerint módosított szöveg.

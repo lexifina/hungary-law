@@ -1,10 +1,10 @@
-7. melléklet a 14/2016. (V. 10.) BM rendelethez
+7. melléklet a 14/2016. (V. 10.) BM rendelethez[^45]
 
 ## A rendvédelmi oktatási intézmények hallgatói és tanulói állományára vonatkozó ruházati ellátási normák
 
-Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendészeti szakközépiskolákra vonatkozó ruházati alapellátás norma
+Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendészeti szakgimnáziumokra vonatkozó ruházati alapellátás norma
 
-1. Az NKE-RTK rendőr- és katasztrófavédelemi szakirányán tanulmányokat folytató, hivatásos szolgálati jogviszonnyal nem rendelkező hallgatói, valamint a rendészeti szakközépiskolák tanulói állományának ruházati ellátási normája:
+1. Az NKE-RTK rendőr- és katasztrófavédelemi szakirányán tanulmányokat folytató, hivatásos szolgálati jogviszonnyal nem rendelkező hallgatói, valamint a rendészeti szakgimnáziumok tanulói állományának ruházati ellátási normája:
 
 |  | A | B | C |
 
@@ -36,7 +36,7 @@ Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendészeti sza
 
 | 14 | Hímzett névkitűző | db | 1 |
 
-2. A rendészeti szakközépiskolák tanulói állománya részére egységfelszerelésként 1 db málhazsákot és 1 db jó láthatósági átvetőt kell kiadni.
+2. A rendészeti szakgimnáziumok tanulói állománya részére egységfelszerelésként 1 db málhazsákot és 1 db jó láthatósági mellényt kell kiadni.
 
 3. Az NKE-RTK rendőr- és katasztrófavédelemi szakirányán tanulmányokat folytató, hivatásos szolgálati jogviszonnyal nem rendelkező hallgató által megengedett öltözetként viselhető ruházati termékek:
 
@@ -66,28 +66,30 @@ Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendészeti sza
 
 | 12 | Téli ing | – |
 
-4. A rendészeti szakközépiskolák tanulói állománya által megengedett öltözetként viselhető ruházati termékek:
+4. A rendészeti szakgimnáziumok tanulói állománya által megengedett öltözetként viselhető ruházati termékek:
 
 |  | A | B |
 
 | 1 | termék megnevezése | viselési határidő |
 
-| 2 | Nyári sapka | – |
+| 2 | Nyári sapka | 2018. március 31 |
 
-| 3 | Téli sapka | – |
+| 3 | Téli sapka | 2018. március 31 |
 
-| 4 | Speciális kabát | – |
+| 4 | Speciális kabát | 2018. március 31 |
 
-| 5 | Speciális nadrág | – |
+| 5 | Speciális nadrág | 2018. március 31 |
 
-| 6 | Speciális zubbony | – |
+| 6 | Speciális zubbony | 2018. március 31 |
 
-| 7 | Bakancs | – |
+| 7 | Bakancs | 2018. március 31 |
 
-| 8 | Póló | – |
+| 8 | Póló | 2018. március 31 |
 
-| 9 | Zokni | – |
+| 9 | Zokni | 2018. március 31 |
 
-| 10 | Téli alsó | – |
+| 10 | Téli alsó | 2018. március 31 |
 
-| 11 | Téli ing | – |
+| 11 | Téli ing | 2018. március 31 |
+
+[^45]: A 7. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (6) bekezdése szerint módosított szöveg.

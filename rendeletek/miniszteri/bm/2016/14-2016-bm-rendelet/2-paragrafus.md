@@ -16,15 +16,17 @@
 
 8. Központi Ellátó Szerv: a központosított ellátásba vont termékek beszerzését végző szerv;
 
-9. központi szerv: az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv, a büntetés-végrehajtási szervezet, valamint a hivatásos katasztrófavédelmi szerv vonatkozásában a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. mellékletében meghatározott, a Hszt. alkalmazásában központi szervnek minősülő szerv, az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve a rendészeti szakközépiskolák vonatkozásában is ellátja a központi szerv feladatait;
+9.[^4] központi szerv: az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv, a büntetés-végrehajtási szervezet, valamint a hivatásos katasztrófavédelmi szerv vonatkozásában a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. mellékletében meghatározott, a Hszt. alkalmazásában központi szervnek minősülő szerv, az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve a rendészeti szakgimnáziumok vonatkozásában is ellátja a központi szerv feladatait;
 
 10. központosított beszerzésű termék: a miniszter által meghatározott termékkör, amelynek az önálló szerv részére történő biztosítása a Központi Ellátó Szerv feladata;
 
+10a.[^5] megengedett öltözet: azon egyenruházati termék és felszerelési cikk, melynek rendszeresítése megtörtént, de az igényjogosult ruházati ellátási normájába nem került be, vagy új termék fejlesztését követően kiváltással kikerült onnan;
+
 11. miniszter: a rendvédelmi feladatokat ellátó szervet irányító miniszter;
 
-12.[^4] önálló szerv: a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, az AH, az NBSZ, a TIBEK, a rendvédelmi oktatási intézmények;
+12.[^6] önálló szerv: a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, az AH, az NBSZ, a TIBEK, a rendvédelmi oktatási intézmények;
 
-13.[^5] ruházati szakszolgálat: az AH, az NBSZ és a TIBEK hivatásos állománya kivételével a ruházati ellátással kapcsolatos feladatokat ellátó személyek, szervezetek és szervezeti elemek rendszere;
+13.[^7] ruházati szakszolgálat: az AH, az NBSZ és a TIBEK hivatásos állománya kivételével a ruházati ellátással kapcsolatos feladatokat ellátó személyek, szervezetek és szervezeti elemek rendszere;
 
 14. ruházati termék és felszerelési cikk:
 
@@ -46,8 +48,11 @@ g) a javító- és karbantartóanyagok;
 
 16. területi szerv: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. mellékletében meghatározott, a Hszt. alkalmazásában területi szervnek minősülő szerv;
 
-17. végrehajtó szervezeti egység: a területi szerv, a büntetés-végrehajtási szervezet esetében a területi és helyi szerv, valamint a rendészeti szakközépiskolák.
+17.[^8] végrehajtó szervezeti egység: a területi szerv, a büntetés-végrehajtási szervezet esetében a területi és helyi szerv, valamint a rendészeti szakgimnáziumok.
 
 [^3]: A 2. § 7. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^4]: A 2. § 12. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^5]: A 2. § 13. pontja a 29/2016. (VII. 15.) BM rendelet 45. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § 9. pontja a 29/2017. (XI. 6.) BM rendelet 12. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § 10a. pontját a 29/2017. (XI. 6.) BM rendelet 1. §-a iktatta be.
+[^6]: A 2. § 12. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 2. § 13. pontja a 29/2016. (VII. 15.) BM rendelet 45. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § 17. pontja a 29/2017. (XI. 6.) BM rendelet 12. § a) pontja szerint módosított szöveg.

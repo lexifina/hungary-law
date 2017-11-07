@@ -10,7 +10,13 @@ c) köteles a ruházatát mindenkor olyan állapotban tartani és úgy öltözk�
 
 d) felelős a részére előírt ruházati termékek méretállásának besorolásáért,
 
-e) köteles a ruházati nyilvántartó programban a ruházati méretállását és az abban bekövetkező változást haladéktalanul rögzíteni,
+e)[^15] köteles a ruházati nyilvántartó programban
+
+ea) a ruházati méretállást és az abban bekövetkező változást haladéktalanul rögzíteni,
+
+eb) a tárgyévet megelőző év október 15. napjáig rögzíteni a tárgyévi ruházati természetbeni ellátás cikkösszetételére vonatkozó igényeit, ha a miniszter a természetbeni ellátás cikkösszetételét nem, csak a ruházati utánpótlási ellátmány terhére kiadandó természetbeni ellátás kötelező mértékét határozza meg,
+
+ec) rögzíteni a ruházati utánpótlási ellátmány terhére saját döntésénél fogva beszerezni kívánt ruházati termékeket és felszerelési cikkeket,
 
 f) köteles a ruházati szemlén feltárt hiányosságok, nem megfelelőségek megszüntetése érdekében a részére meghatározott ruházati termékeket az egyenruházati boltban megvásárolni vagy megrendelni,
 
@@ -27,3 +33,5 @@ k) polgári személy részére sem az egyenruhát, sem a kiegészítőket nem ad
 l) a használatra kiadott, valamint a részére biztosított ruházati termékeket és felszerelési cikkeket – a testhez igazítást kivéve – nem alakíthatja át, valamint
 
 m) a hivatásos szolgálati jogviszony megszűnése esetén köteles a ruházatát tiszta állapotban – az 51. §-ban foglaltak figyelembevételével – a szolgálati hely szerint illetékes ruházati szakszolgálat részére leadni.
+
+[^15]: A 9. § e) pontja a 29/2017. (XI. 6.) BM rendelet 5. §-ával megállapított szöveg.

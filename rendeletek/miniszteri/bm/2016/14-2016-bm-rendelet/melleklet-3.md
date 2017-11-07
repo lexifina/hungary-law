@@ -1,4 +1,4 @@
-3. melléklet a 14/2016. (V. 10.) BM rendelethez[^13]
+3. melléklet a 14/2016. (V. 10.) BM rendelethez[^41]
 
 ## A Terrorelhárítási Központ hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -24,7 +24,7 @@
 
 | 9 | Póló galléros barna/TEK | db |  |  | 2 |  |  |  | 2 |
 
-| 10 | 2. szolgálati ruházat | 12M e. r. szolgálati félcipő | pár | 1 |  |  |  |  |  |  |
+| 10 | 2. szolgálati ruházat | 12M e. r. szolgálati félcipő | pár | 1 | 1*** | 1*** | 1*** | 1*** | 1*** | 1*** |
 
 | 11 | 12M e. r. szolgálati nyári pantalló | db | 1 |  |  |  |  |  |  |
 
@@ -68,6 +68,16 @@
 
 | 31 | Polár pulóver fekete/TEK | db |  |  | 1 |  | 1 |  | 1 |
 
+| 31a | 3a. társasági/ ünnepi ruházat | 17M társasági zubbony, sötétkék, szerelve*/17M társasági kosztümkabát, sötétkék, szerelve* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+| 31b | 17M társasági pantalló, férfi, sötétkék*/17M társasági pantalló, női, sötétkék* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+| 31c | 17M társasági szoknya, sötétkék* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+| 31d | 12M e. r. szolgálati ing/blúz, rövid ujjú, fehér* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+| 31e | 12M e. r. szolgálati ing/blúz, hosszú ujjú, fehér* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
 | 32 | 4. ruházati kiegészítők | 3in1 fekete parka kabát/TEK** | db |  |  | 1 | 1 | 1 | 1 | 1 |
 
 | 33 | Hosszú ujjú téli aláöltözet felső/TEK | db |  |  | 1 |  |  |  | 1 |
@@ -108,11 +118,21 @@
 
 | 51 | Széldzseki/TEK | db |  |  |  |  |  | 1 |  |
 
+| 51a | 17M társasági tányérsapka, sötétkék, szerelve*/ 17M társasági női kalap, sötétkék, szerelve* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+| 51b | 17M társasági nadrágszíj* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+| 51c | 17M társasági nyakkendő* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+| 51d | Névkitűző, fém* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
 | 52 | 5. ékítmények | Karjelvény | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
 | 53 | Hát felirat | db |  | 1 | 1 | 1 | 1 | 1 | 1 |
 
 | 54 | Mell felirat | db |  | 1 | 1 | 1 | 1 | 1 | 1 |
+
+| 54a | Hímzett váll-lap, sötétkék* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
 | 55 | Sapkarózsa | db |  |  | 1 |  | 1 |  | 1 |
 
@@ -122,11 +142,15 @@
 
 | 58 | Kézi táska/TEK | db |  |  |  |  | 1 |  |  |
 
+| 59 | 7. Költség- térítés | Lábbeli-költségtérítés*** | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
 a) Megjegyzés:
 
 * Alapfelszerelésként és alapellátás-kiegészítésként a felszerelők és azok részére kell kiadni, akiknek a ruházati normabesorolása megváltozik. Más igényjogosultak esetében a normában előírt mennyiséget a korábban rendszeresített hasonló termék – mindaddig, amíg megengedett öltözetként viselhető – kiváltja.
 
-** A Személyvédelmi Igazgatóság lakásbiztosítási feladatokat ellátó állományának kivételével
+** A Személyvédelmi Igazgatóság lakásbiztosítási feladatokat ellátó állományának kivételével.
+
+*** Alapfelszerelésként és alapellátás-kiegészítésként a felszerelők és azok részére kell kiadni, akiknek a ruházati normabesorolása megváltozik. A tiszthelyettes vagy zászlós rendfokozati állománycsoportba tartozó férfiállomány a lábbeli-költségtérítésre nem jogosult, ők a ruházati ellátási norma 10. sora szerint kiadott 12M e. r. szolgálati félcipőt használják társasági cipőként. A női állomány részére, valamint tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó férfiállomány részére a termék természetbeni biztosítása helyett vagy mellett (a ruházati ellátási normától függően) lábbeli-költségtérítés kerül kifizetésre, amelynek összege a 12M e. r. szolgálati félcipő mindenkori beszerzési értéke. A lábbeli-költségtérítés elszámolási rendje megegyezik a ruházati utánpótlási ellátmány elszámolási rendjével. A beszerzendő termékre vonatkozó paraméterek nők esetében: fekete színű, díszítőelemektől mentes, maximum 7 cm sarokmagasságú bőrlábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő, férfiak esetében: fekete színű, díszítőelemektől mentes, klasszikus fazonú, fekete bőr, fűzős lábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő.
 
 b) Rövidítések:
 
@@ -280,7 +304,7 @@ bg) P6: Polgári ruhás alapellátási norma az Operatív Technikai-Informatikai
 
 | 2. | 5.11-es nadrág Stryke Pants* | db | 1 |
 
-| 3. | Phike póló Performance Short Sleeve* | db | 1 |
+| 3. | Póló, galléros fehér, silver tan/TEK | db | 1 |
 
 a) Megjegyzés:
 
@@ -300,4 +324,4 @@ a) Megjegyzés:
 
 | 4 | Öltönyzsák | db |  |  |  | 10 |  |  |  |
 
-[^13]: A 3. melléklet a 38/2016. (IX. 29.) BM rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^41]: A 3. melléklet a 38/2016. (IX. 29.) BM rendelet 10. § (2) bekezdése, a 29/2017. (XI. 6.) BM rendelet 11. § (2) bekezdése szerint módosított szöveg.

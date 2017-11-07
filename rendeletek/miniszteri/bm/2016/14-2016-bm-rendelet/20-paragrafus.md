@@ -12,6 +12,12 @@ b) hivatásos szolgálati jogviszonya a szolgálati beosztásból történő fel
 
 (4) Ha az igényjogosult a szolgálati beosztásból történő felfüggesztésére okot adó fegyelmi vagy büntetőeljárás jogerős befejezését követően továbbra is hivatásos szolgálati jogviszonyban marad, a visszatartott és esedékessé vált ruházati utánpótlási ellátmányt részére visszamenőlegesen ki kell adni. A kifizetett ellátmánnyal a 21. §-ban meghatározott módon kell elszámolni.
 
+(4a)[^18] Ha az igényjogosult szolgálati beosztásból történő felfüggesztésének megszüntetésére a fegyelmi vagy büntetőeljárás jogerős befejezését megelőzően, a szolgálati beosztásból történő felfüggesztés Hszt. 199. § (1)–(3) bekezdésében meghatározott időtartamának leteltére tekintettel kerül sor, az igényjogosult
+
+a) a szolgálati beosztásból történő felfüggesztés megszüntetését követő időszakra a ruházati utánpótlási ellátmány részére ismételten jogosulttá válik,
+
+b) részére a visszatartott ruházati utánpótlási ellátmányt csak a fegyelmi vagy büntetőeljárás jogerős befejezését követően, a (4) bekezdésben foglaltak alkalmazásával lehet kiadni.
+
 (5) Nem szünetel az ellátás azon igényjogosult részére,
 
 a) akit a Hszt. 51. § (2) vagy (3) bekezdése szerinti szervhez vezényeltek,
@@ -19,3 +25,5 @@ a) akit a Hszt. 51. § (2) vagy (3) bekezdése szerinti szervhez vezényeltek,
 b) aki szülési szabadságát tölti, vagy
 
 c) aki egészségügyi szabadságon van.
+
+[^18]: A 20. § (4a) bekezdését a 29/2017. (XI. 6.) BM rendelet 6. §-a iktatta be.

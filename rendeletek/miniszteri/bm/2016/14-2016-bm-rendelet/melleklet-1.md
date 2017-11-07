@@ -1,5 +1,6 @@
-## 57. §[^12] A Terrorelhárítási Központ a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományának 2017. évi ruházati utánpótlási ellátmánya terhére kiadott természetbeni ellátásról szóló 38/2016. (IX. 29.) BM rendeletettel megállapított 3. melléklet 2.7. pontjában szereplő termékek rendszeresítésére irányuló javaslatot 2016. november 15-ig köteles megküldeni a miniszter részére.
+## 59. §[^38] Ha az igényjogosult a 21. § (1) bekezdésében foglalt elszámolási kötelezettségét a 2017. évben 2017. november 1. és 15. napja között teljesíti, vele szemben a 21. § (7) bekezdésében meghatározott jogkövetkezmény nem alkalmazható.
 
-1. melléklet a 14/2016. (V. 10.) BM rendelethez
+1. melléklet a 14/2016. (V. 10.) BM rendelethez[^39]
 
-[^12]: Az 57. §-t a 38/2016. (IX. 29.) BM rendelet 10. § (1) bekezdése iktatta be.
+[^38]: Az 59. §-t a 29/2017. (XI. 6.) BM rendelet 10. §-a iktatta be.
+[^39]: Az 1. melléklet a 29/2017. (XI. 6.) BM rendelet 12. § j) pontja szerint módosított szöveg.
