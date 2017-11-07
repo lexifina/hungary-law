@@ -1,48 +1,52 @@
 ## 19. § Ez a rendelet az Uniós Vámkódex létrehozásáról szóló 952/2013/EU európai parlamenti és tanácsi rendelet egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2015. november 24-i 2447/2015/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 40/2016. (XI. 17.) NGM rendelethez
+1. melléklet a 40/2016. (XI. 17.) NGM rendelethez[^1]
 
 ## A vámjogi szakértői hatósági vizsga követelményei
 
 1. Vizsgatárgykör: vámpolitika, nemzetközi szerződések és vámszakmai vetületeik
 
-1.1. Gazdaságpolitika, kereskedelempolitika, vámpolitika
+1.1. Gazdaságpolitika, külgazdasági kapcsolatok, kereskedelempolitika, vámpolitika
 
-1.2. A vámok funkciói
+1.2. Multilaterális kereskedelmi rendszer, két- és többoldalú kereskedelmi megállapodások és vámjogi vetületük
 
-1.3. A vámunió fogalma, működésének bemutatása
+1.3 Kereskedelem- és vámpolitika az Európai Unióban
 
-1.4. Kereskedelmi szerződések rendszere és vámjogi vetületeik
+1.4 A vámok funkciói
 
-1.5. Származás
+1.5. A vámunió fogalma, működésének bemutatása
 
-1.5.1. Preferenciális – nem preferenciális származás megkülönböztetése, minősítési feltételek
+1.6. Kereskedelmi szerződések rendszere és vámjogi vetületeik
 
-1.5.2. Származás igazolása
+1.7. Származás
 
-1.6. Kereskedelmi Vámtarifa felépítése, funkciója
+1.7.1. Preferenciális – nem preferenciális származás megkülönböztetése, minősítési feltételek
 
-1.6.1. Az áruk tarifális besorolása
+1.7.2. Származás igazolása
 
-1.6.2. Áruosztályozás és áruismeret kapcsolata
+1.8. Kereskedelmi Vámtarifa felépítése, funkciója
 
-1.6.3. HR Nómenklatúra és a Kombinált Nómenklatúra kapcsolata
+1.8.1. Az áruk tarifális besorolása
 
-1.6.4. Kombinált Nómenklatúra szerkezeti felépítése
+1.8.2. Áruosztályozás és áruismeret kapcsolata
 
-1.6.5. Kombinált Nómenklatúra funkciója és jellemzője
+1.8.3. HR Nómenklatúra és a Kombinált Nómenklatúra kapcsolata
 
-1.6.6. Vámtarifa Magyarázat és Áruosztályozási rendelkezések feladata és szerepe az áruosztályozása keretében
+1.8.4. Kombinált Nómenklatúra szerkezeti felépítése
 
-1.6.7. Kombinált Nómenklatúra alkalmazásának általános szabályai
+1.8.5. Kombinált Nómenklatúra funkciója és jellemzője
 
-1.7. Tarifális vámkedvezmények
+1.8.6. Vámtarifa Magyarázat és Áruosztályozási rendelkezések feladata és szerepe az áruosztályozása keretében
 
-1.7.1. Tarifális vámkedvezmények köre
+1.8.7. Kombinált Nómenklatúra alkalmazásának általános szabályai
 
-1.7.2. Tarifális vámkedvezmények igénybevételének szabályai és lehetőségei
+1.9. Tarifális vámkedvezmények
 
-1.8. Kötelező felvilágosítások vámjogi alkalmazása
+1.9.1. Tarifális vámkedvezmények köre
+
+1.9.2. Tarifális vámkedvezmények igénybevételének szabályai és lehetőségei
+
+1.10. Kötelező felvilágosítások vámjogi alkalmazása
 
 2. Vizsgatárgykör: vámok és egyéb terhek
 
@@ -162,9 +166,9 @@
 
 5.1.1. A termékimport fogalma, a termékimport teljesítési helye és ideje
 
-5.1.2. A termékimportot terhelő áfa alapjának megállapítása, a fuvarköltség és az áfa-adóalap kapcsolata
+5.1.2. A termékimportot terhelő áfa alapjának megállapítása, a fuvarköltség és az áfaadóalap kapcsolata
 
-5.1.3. Háromszögügyletek adó és vámjogi vetületei
+5.1.3. Háromszögügyletek adó- és vámjogi vetületei
 
 5.1.4. Áfa alóli mentesség termék importja esetében
 
@@ -184,7 +188,7 @@
 
 5.2.2. Jövedéki termékek külkereskedelme (szállítás, import-export, raktározás)
 
-5.2.3. Jövedéki- és vámbiztosíték elhatárolása
+5.2.3. Jövedéki és vámbiztosíték elhatárolása
 
 5.3. Környezetvédelmi termékdíjfizetés termékdíjköteles termék importja esetén
 
@@ -232,9 +236,9 @@
 
 7.1.5. Veszélyes anyagok és készítmények, termésnövelő anyagok és növényvédő szerek, műtrágyák
 
-7.1.6. Állat- és növény-egészségügyi ellenőrzésköteles termékek, veszélyeztetett állat- és növényfajok
+7.1.6. Állat- és növényegészségügyi ellenőrzésköteles termékek, veszélyeztetett állat- és növényfajok
 
-7.2. Termékbiztonság és megfelelőség jelentősége
+7.2. Termékbiztonság és -megfelelőség jelentősége
 
 7.2.1. Termékbiztonsághoz és megfelelőséghez kapcsolódó intézkedések módszertana (irányelv speciális rész)
 
@@ -250,78 +254,4 @@
 
 7.5. Biztonsági papírok forgalmának ellenőrzése pontokkal
 
-8. Vizsgatárgykör: vámügyi tevékenységgel összefüggő bűncselekmények és szabálysértések
-
-8.1. Kábítószer-kereskedelem
-
-8.2. Kábítószer birtoklása
-
-8.3. Kábítószer készítésének elősegítése
-
-8.4. Kábítószer-prekurzorral visszaélés
-
-8.5. Új pszichoaktív anyaggal visszaélés
-
-8.6. Egészségügyi termék hamisítása
-
-8.7. Környezetkárosítás
-
-8.8. Természetkárosítás
-
-8.9. A hulladékgazdálkodás rendjének megsértése
-
-8.10. Ózonréteget lebontó anyaggal visszaélés
-
-8.11. Radioaktív anyaggal visszaélés
-
-8.12. Vesztegetés
-
-8.13. Hivatali vesztegetés
-
-8.14. Vesztegetés bírósági vagy hatósági eljárásban
-
-8.15. Befolyás vásárlása
-
-8.16. Bűnszervezetben részvétel
-
-8.17. Robbanóanyaggal vagy robbantószerrel visszaélés
-
-8.18. Lőfegyverrel vagy lőszerrel visszaélés
-
-8.19. Nemzetközi szerződés által tiltott fegyverrel visszaélés
-
-8.20. Nemzetközi gazdasági tilalom megszegése
-
-8.21. Haditechnikai termékekkel vagy szolgáltatással visszaélés
-
-8.22. Kettős felhasználású termékekkel visszaélés
-
-8.23. Közokirat-hamisítás
-
-8.24. Egyedi azonosító jellel visszaélés
-
-8.25. Embercsempészés
-
-8.26. Védett kulturális javakkal visszaélés
-
-8.27. Sikkasztás
-
-8.28. Csalás
-
-8.29. Gazdasági csalás
-
-8.30. Információs rendszer felhasználásával elkövetett csalás
-
-8.31. Orgazdaság
-
-8.32. a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXXVIII–XLIII. fejezeteiben meghatározott bűncselekmények
-
-8.33. Vámszabálysértés
-
-8.34. Vámszabálysértés elkövetőjének segítése
-
-8.35. Vámorgazdaság
-
-8.36. Szerzői vagy szerzői jogokhoz kapcsolódó jogok megsértése
-
-8.37. Iparjogvédelmi jogok megsértése
+[^1]: Az 1. melléklet a 37/2017. (XI. 6.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
