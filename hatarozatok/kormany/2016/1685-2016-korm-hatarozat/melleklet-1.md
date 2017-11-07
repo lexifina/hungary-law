@@ -14,7 +14,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. június 30., a Közgyűjtemények cím javára biztosított 202,0 millió forint tekintetében 2017. december 31.
 
 1. melléklet az 1685/2016. (XI. 29.) Korm. határozathoz
 
