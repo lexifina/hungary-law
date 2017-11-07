@@ -6,7 +6,7 @@
 
 2.[^2] pénzügyi fegyelem: a 73/2009/EK tanácsi rendelet 11. cikkében, az 1307/2013/EU parlamenti és tanácsi rendelet 8. cikkében, valamint a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkében meghatározott kiigazítás;
 
-3.[^3] tagállami keret: a 2015/2094/EU bizottsági végrehajtási rendelet mellékletében meghatározott összeg;
+3.[^3] tagállami keret: a 2016/2073/EU bizottsági végrehajtási rendelet mellékletében meghatározott összeg;
 
 4. tárgyév: a közvetlen támogatás iránti kérelem benyújtásának éve;
 
@@ -14,4 +14,4 @@
 
 [^1]: Az 1. § 1. pontja a 65/2016. (IX. 21.) FM rendelet 26. §-ával megállapított szöveg.
 [^2]: Az 1. § 2. pontja a 65/2016. (IX. 21.) FM rendelet 26. §-ával megállapított szöveg.
-[^3]: Az 1. § 3. pontja a 65/2016. (IX. 21.) FM rendelet 26. §-ával megállapított szöveg.
+[^3]: Az 1. § 3. pontja az 55/2017. (XI. 6.) FM rendelet 29. §-ával megállapított szöveg.
