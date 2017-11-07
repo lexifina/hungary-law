@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-8-20-11
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-03-07 | 2017-8-20-11.1 | 8/2017. (III. 2.) FM rendelet |
+| 2017-11-07 | 2017-8-20-11.2 | 55/2017. (XI. 6.) FM rendelet |
