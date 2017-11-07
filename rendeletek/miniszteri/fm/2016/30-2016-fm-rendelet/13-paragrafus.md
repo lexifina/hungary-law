@@ -2,7 +2,7 @@
 
 13. § (1) Az e rendelet szerinti intézkedésekkel összefüggő ellenőrzések lefolytatásáról az 1–3. célterület esetében a Herman Ottó Intézet, a 4. célterület esetében a miniszter gondoskodik. A Herman Ottó Intézet a támogatott pályázatoknak, a miniszter pedig a támogatott támogatási kérelmeknek a 10%-át 2017. december 31-ig a megvalósulás helyszínén köteles ellenőrizni.
 
-(2)[^16] Az intézkedésben való jogosulatlan részvétel megállapítása esetén – a visszafizetés elrendeléséről szóló határozat alapján – az 1–3. célterület esetében a Herman Ottó Intézet tájékoztatja a Kincstárt az alábbi adatok megküldésével:
+(2)[^17] Az intézkedésben való jogosulatlan részvétel megállapítása esetén – a visszafizetés elrendeléséről szóló határozat alapján – az 1–3. célterület esetében a Herman Ottó Intézet tájékoztatja a Kincstárt az alábbi adatok megküldésével:
 
 a) a támogatásban részesülő ügyfél neve, születési neve,
 
@@ -20,4 +20,4 @@ g) a támogatásban részesülő ügyféltől támogatási célonként visszakö
 
 h) a Tv. 69. § (5) bekezdésének megfelelően számított kamat forintban meghatározott összege.
 
-[^16]: A 13. § (2) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 114. § d) pontja szerint módosított szöveg.
+[^17]: A 13. § (2) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 114. § d) pontja szerint módosított szöveg.
