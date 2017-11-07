@@ -4,7 +4,10 @@
 
 (2) E rendeletnek a 33/2017. (VI. 9.) FM rendelettel hatályon kívül helyezett 11. §-át a 33/2017. (VI. 9.) FM rendelet hatálybalépésekor[^37] folyamatban lévő ügyekben sem kell alkalmazni.
 
+(3)[^38] Az egyes közvetlen és nemzeti támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 55/2017. (XI. 6.) FM rendelettel megállapított 5. § (2) bekezdést először a 2017. január 1. és 2017. december 31. közötti időszakban ténylegesen felhasznált gázolaj kapcsán benyújtott támogatási kérelmek elbírálása során kell alkalmazni.
+
 [^34]: A 9. § a 36/2014. (IV. 4.) VM rendelet 67. §-ával megállapított, a 80/2016. (XII. 13.) FM rendelet 11. § l) pontja szerint módosított szöveg.
 [^35]: A 10. §-t a 80/2016. (XII. 13.) FM rendelet 12. §-a hatályon kívül helyezte, újonnan a 33/2017. (VI. 9.) FM rendelet 15. §-a iktatta be.
 [^36]: A hatálybalépés napja 2017. június 10.
 [^37]: A hatálybalépés napja 2017. június 10.
+[^38]: A 10. § (3) bekezdését az 55/2017. (XI. 6.) FM rendelet 6. §-a iktatta be.
