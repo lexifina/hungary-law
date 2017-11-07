@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 905 600 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 905 600 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,9 +10,9 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2017. december 15.
+## Határidő: 2018. június 30.
 
-## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 9 974 500 000 forint egyszeri átcsoportosítását rendeli el elszámolási kötelezettséggel a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 37. Hozzájárulás az EU költségvetéséhez cím, 2. GNI alapú hozzájárulás alcím terhére, a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása jogcím javára, az 1. melléklet szerint.
+## 2.[^2] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 9 974 500 000 forint egyszeri átcsoportosítását rendeli el elszámolási kötelezettséggel a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 37. Hozzájárulás az EU költségvetéséhez cím, 2. GNI alapú hozzájárulás alcím terhére, a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása jogcím javára, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -24,7 +24,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2017. december 15.
+## Határidő: 2018. június 30.
 
 1. melléklet az 1497/2017. (VIII. 8.) Korm. határozathoz
 
@@ -121,3 +121,6 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1766/2017. (XI. 7.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1766/2017. (XI. 7.) Korm. határozat 5. pontja szerint módosított szöveg.
