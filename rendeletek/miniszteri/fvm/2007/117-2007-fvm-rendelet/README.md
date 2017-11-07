@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-117-20-
 | 2017-01-01 | 2007-117-20-82.7 | 12/2014. (IX. 24.) FM rendelet |
 | 2017-02-14 | 2007-117-20-82.8 | 46/2013. (VI. 3.) VM rendelet |
 | 2017-08-18 | 2007-117-20-82.9 | 46/2013. (VI. 3.) VM rendelet |
+| 2017-11-07 | 2007-117-20-82.10 | 46/2013. (VI. 3.) VM rendelet |
