@@ -1,18 +1,18 @@
-## A tárgyévre vonatkozó támogatási keret nagysága
+## A 2016. tárgyévre vonatkozó támogatási keret nagysága
 
 |  | A | B |
 
-|  | Baromfi megnevezés-csoport | Támogatási keret (millió Ft) |
+| 1. | Baromfi megnevezés-csoport | Támogatási keret (millió Ft) |
 
-| 1 | étkezési tojást termelő tyúk, valamint tenyésztyúk | 956,08 |
+| 2. | étkezési tojást termelő tyúk, valamint tenyésztyúk | 1096 |
 
-| 2 | tenyészliba | 82,66 |
+| 3. | tenyészliba | 85 |
 
-| 3 | tenyészkacsa | 84,59 |
+| 4. | tenyészkacsa | 87 |
 
-| 4 | tenyészpulyka | 128,27 |
+| 5. | tenyészpulyka | 132 |
 
-| 5 | Összesen | 1251,6 |
+| 6. | Összesen | 1400 |
 
 3. melléklet a 38/2016. (VI. 6.) FM rendelethez
 
