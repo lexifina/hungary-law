@@ -1,6 +1,6 @@
 ## A díjtámogatás jogosultsági feltételei
 
-4. §[^10] (1) Díjtámogatásra jogosult az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet (a továbbiakban: kedvezményezett), aki vagy amely
+4. §[^11] (1) Díjtámogatásra jogosult az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet (a továbbiakban: kedvezményezett), aki vagy amely
 
 a) megfelel az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (a továbbiakban: 702/2014/EU bizottsági rendelet) I. számú mellékletében megfogalmazott mikro-, kis- és középvállalkozás meghatározásának;
 
@@ -26,9 +26,9 @@ i) a c)–e) pontban foglaltakról a j) pont szerinti meghatalmazásban nyilatko
 
 j) meghatalmazást ad a jégeső-elhárító szervezetnek arra vonatkozóan, hogy a jégeső-elhárító szervezet helyette és nevében az e rendelet szerinti
 
-ja)[^11] díjtámogatás igénybevételére vonatkozó kérelmet (a továbbiakban: díjtámogatási kérelem) benyújtsa a Magyar Államkincstár (a továbbiakban: Kincstár), valamint
+ja)[^12] díjtámogatás igénybevételére vonatkozó kérelmet (a továbbiakban: díjtámogatási kérelem) benyújtsa a Magyar Államkincstár (a továbbiakban: Kincstár), valamint
 
-jb)[^12] díjtámogatás kifizetésére irányuló kérelmet (a továbbiakban: kifizetési kérelem) nyújtson be a jégeső-elhárító szervezet székhelye szerint illetékes földművelésügyi igazgatási hatáskörében eljáró megyeszékhely szerinti járási hivatal (a továbbiakban: földművelésügyi hatóság)
+jb)[^13] díjtámogatás kifizetésére irányuló kérelmet (a továbbiakban: kifizetési kérelem) nyújtson be a jégeső-elhárító szervezet székhelye szerint illetékes földművelésügyi igazgatási hatáskörében eljáró megyeszékhely szerinti járási hivatal (a továbbiakban: földművelésügyi hatóság)
 
 ## előtti eljárásra.
 
@@ -38,12 +38,12 @@ a) a jégeső-elhárító szervezet által nyújtott jégeső-elhárítási szol
 
 b) megismerte a díjtámogatás igénybevételére vonatkozó feltételeket.
 
-(3)[^13] A díjtámogatási kérelmet a jégeső-elhárító szervezetnek a kedvezményezett (1) bekezdés j) pont ja) alpontja szerinti meghatalmazása alapján tárgyév április 30-ig – az 1. számú melléklet szerinti adattartalommal – a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon, kedvezményezettenkénti bontásban kell benyújtania a Kincstárhoz.
+(3)[^14] A díjtámogatási kérelmet a jégeső-elhárító szervezetnek a kedvezményezett (1) bekezdés j) pont ja) alpontja szerinti meghatalmazása alapján tárgyév április 30-ig – az 1. számú melléklet szerinti adattartalommal – a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon, kedvezményezettenkénti bontásban kell benyújtania a Kincstárhoz.
 
-(4)[^14] A hiányosan vagy nem megfelelően kitöltött díjtámogatási kérelem vonatkozásában a Kincstár egy alkalommal, nyolc napos határidő tűzésével hiánypótlásra hívja fel a jégeső-elhárító szervezetet.
+(4)[^15] A hiányosan vagy nem megfelelően kitöltött díjtámogatási kérelem vonatkozásában a Kincstár egy alkalommal, nyolc napos határidő tűzésével hiánypótlásra hívja fel a jégeső-elhárító szervezetet.
 
-[^10]: A 4. § a 68/2015. (XI. 2.) FM rendelet 4. §-ával megállapított szöveg.
-[^11]: A 4. § (1) bekezdés j) pont ja) alpontja a 88/2016. (XII. 29.) FM rendelet 36. § a) pontja szerint módosított szöveg.
-[^12]: A 4. § (1) bekezdés j) pont jb) alpontja a 42/2017. (VIII. 17.) FM rendelet 125. §-a szerint módosított szöveg.
-[^13]: A 4. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 36. § b) és c) pontja szerint módosított szöveg.
-[^14]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 36. § c) pontja szerint módosított szöveg.
+[^11]: A 4. § a 68/2015. (XI. 2.) FM rendelet 4. §-ával megállapított szöveg.
+[^12]: A 4. § (1) bekezdés j) pont ja) alpontja a 88/2016. (XII. 29.) FM rendelet 36. § a) pontja szerint módosított szöveg.
+[^13]: A 4. § (1) bekezdés j) pont jb) alpontja a 42/2017. (VIII. 17.) FM rendelet 125. §-a szerint módosított szöveg.
+[^14]: A 4. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 36. § b) és c) pontja szerint módosított szöveg.
+[^15]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 36. § c) pontja szerint módosított szöveg.

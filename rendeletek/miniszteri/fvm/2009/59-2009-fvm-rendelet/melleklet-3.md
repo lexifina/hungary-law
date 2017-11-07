@@ -50,7 +50,7 @@
 
 ## 9. A jégeső-elhárító szervezet aláírása.
 
-3. számú melléklet az 59/2009. (V. 8.) VM rendelethez[^50]
+3. számú melléklet az 59/2009. (V. 8.) VM rendelethez[^51]
 
 A kiegészítő díjtámogatás iránti kérelem adattartalma
 
@@ -62,4 +62,4 @@ A kiegészítő díjtámogatás iránti kérelem adattartalma
 
 4. Nyilatkozatok.
 
-[^50]: A 3. számú mellékletet a 31/2014. (XII. 9.) FM rendelet 8. §-a iktatta be.
+[^51]: A 3. számú mellékletet a 31/2014. (XII. 9.) FM rendelet 8. §-a iktatta be.
