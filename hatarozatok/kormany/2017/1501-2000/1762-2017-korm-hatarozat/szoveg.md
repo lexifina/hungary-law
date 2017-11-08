@@ -74,8 +74,6 @@ Határidő: 2017. december 31.
 
 i) egyetért azzal, hogy a b) alpont alapján biztosított forrás felhasználása során a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
-2. A Digitális Nemzet Fejlesztési Program megvalósításával kapcsolatos aktuális feladatokról, valamint egyes kapcsolódó kormányhatározatok módosításáról szóló 1486/2015. (VII. 21.) Korm. határozat 1. pontja a következő d) ponttal egészül ki:
+2.[^1]
 
-(A Kormány meghatározva a Digitális Nemzet Fejlesztési Program megvalósításával kapcsolatos aktuális feladatokat, a Digitális Nemzet Fejlesztési Program Digitális Infrastruktúra pillér Szupergyors Internet Program megvalósítása érdekében)
-
-„d) egyetért azzal, hogy a köznevelési, a szakképzési, a felsőoktatási és a felnőttképzési rendszer digitális átalakításáról és Magyarország Digitális Oktatási Stratégiájáról szóló 1536/2016. (X. 13.) Korm. határozat 3. pontjában biztosított felhatalmazás alapján a Korm. határozat 1. pont ab) alpontjában meghatározott forrás a köznevelés és a szakképzés valamennyi feladatellátási helye számára – beleértve a Nemzetgazdasági Minisztérium fenntartásában lévő 44 szakképzési centrum 380 tagintézményét és a Földművelésügyi Minisztérium fenntartásában lévő 47 agrárszakképző intézményt és 63 feladatellátási helyet is – a digitális oktatáshoz szükséges sávszélességű szupergyors interneteléréssel, illetve épületen belüli WiFi-hálózattal való rendelkezés érdekében is felhasználható.”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
