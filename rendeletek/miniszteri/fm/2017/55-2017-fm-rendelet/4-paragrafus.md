@@ -1,3 +1,5 @@
-## 3. § A jégeső-elhárító szervezetnek fizetett szolgáltatási díj támogatása igénybevételének szabályairól szóló 59/2009. (V. 8.) FVM rendelet 7/A. § (5) bekezdésében a „meghatározott összeg huszonöt százaléka” szövegrész helyébe a „meghatározott összeg harminc százaléka” szöveg lép.
+## 3. §[^2]
 
 ## 3. A szőlő- és gyümölcsös ültetvények műveléséhez nyújtott csekély összegű (de minimis) támogatásról szóló 91/2012. (VIII. 29.) VM rendelet módosítása
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

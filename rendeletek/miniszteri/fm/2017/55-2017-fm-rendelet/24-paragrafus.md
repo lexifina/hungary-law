@@ -1,1 +1,0 @@
-## „(3) A (2) bekezdés szerinti dokumentumok másolatát a mezőgazdasági termelő köteles a betakarítást követő két héten belül, de legkésőbb tárgyév november 15-éig a Kincstár részére megküldeni. A (2) bekezdés szerinti dokumentumok benyújtásának elmulasztása esetén a Kincstár – ötnapos határidő tűzése mellett – felszólítja a mezőgazdasági termelőt azok hiánytalan benyújtására.”

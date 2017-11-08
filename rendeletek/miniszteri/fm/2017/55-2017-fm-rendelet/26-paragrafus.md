@@ -1,1 +1,3 @@
-## 25. § A 9/2015. (III. 13.) FM rendelet 8. melléklete helyébe a 2. melléklet lép.
+## 18–25. §[^8]
+
+[^8]: A 18–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
