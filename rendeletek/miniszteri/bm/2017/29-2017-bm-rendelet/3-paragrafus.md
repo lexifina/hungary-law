@@ -1,1 +1,0 @@
-## „(2a) Más rendvédelmi feladatokat ellátó szervhez történő áthelyezéskor az igényjogosultat azon ékítményekkel és termékekkel, amelyek cseréje e rendelkezésre tekintettel szükséges, a 15. § (1) bekezdés d) pontjának alkalmazásával el kell látni.”
