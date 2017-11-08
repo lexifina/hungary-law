@@ -36,7 +36,7 @@
 
 ## Határidő: azonnal
 
-## 4. egyetért azzal, hogy a belügyminiszter a 3. pont b) alpont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében – a támogatás felhasználásának és elszámolásának részletes feltételeit tartalmazó támogatási szerződés megkötését vagy támogatói okirat kiadását követően – egy összegben nyújtson 239,6 millió forint támogatást Abasár Község Önkormányzata részére a település vízrendezési feladatainak megvalósítása érdekében;
+## 4.[^1] egyetért azzal, hogy a belügyminiszter a 3. pont b) alpont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében – a támogatás felhasználásának és elszámolásának részletes feltételeit tartalmazó támogatási szerződés megkötését vagy támogatói okirat kiadását követően – egy vagy több részletben nyújtson 239,6 millió forint támogatást Abasár Község Önkormányzata részére a település vízrendezési feladatainak megvalósítása érdekében;
 
 ## Felelős: belügyminiszter
 
@@ -119,3 +119,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont az 1796/2017. (XI. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
