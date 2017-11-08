@@ -28,7 +28,7 @@
 
 | Alcím- szám | Alcím név | Támogatási cél | Támogatás |
 
-| 1. | Abádszalók Város feladatainak támogatása | strandfürdő felújítás, aprítéküzem és földterület vásárlás | 50,0 |
+| 1. | Abádszalók Város feladatainak támogatása | strandfürdő felújítás | 50,0 |
 
 | 2. | Aggtelek Község feladatainak támogatása | óvoda épületének felújítása | 57,0 |
 
@@ -128,7 +128,7 @@
 
 | 50. | Cered Község feladatainak támogatása | önkormányzati utak helyreállítása | 5,0 |
 
-| 51. | Cigánd Város feladatainak támogatása | sportfejlesztés, út- és járdafejlesztés, önkormányzati fejlesztések előkészítő munkái, ingatlanvásárlás, önkormányzati ingatlanok felújítása, fejlesztése | 104,5 |
+| 51. | Cigánd Város feladatainak támogatása | sportfejlesztés érdekében támogatás nyújtása, út- és járdafejlesztés, önkormányzati fejlesztések előkészítő munkái, ingatlanvásárlás, önkormányzati ingatlanok felújítása, fejlesztése | 104,5 |
 
 | 52. | Csaholc Község feladatainak támogatása II. | önkormányzati fejlesztés | 10,0 |
 
@@ -296,7 +296,7 @@
 
 | 40. | Kiskunhalas Város feladatainak támogatása | önkormányzati ingatlanok fejlesztése a lovas iskola megvalósítása érdekében | 400,0 |
 
-| 41. | Kiskunmajsa Város feladatainak támogatása II. | gyógyfürdő és fürdőkomplexum megvásárlása, óvoda felújítása | 1 015,0 |
+| 41. | Kiskunmajsa Város feladatainak támogatása II. | belterületi kerékpárút építése, óvoda felújítása | 1 015,0 |
 
 | 42. | Kistarcsa Város feladatainak támogatása | útfelújítás | 200,0 |
 
@@ -400,7 +400,7 @@
 
 | 92. | Nemesnádudvar Község feladatainak támogatása II. | sportlétesítmény fejlesztése érdekében támogatás nyújtása | 58,0 |
 
-| 93. | Nemesvita Község feladatainak támogatása | sportöltöző átépítése | 20,0 |
+| 93. | Nemesvita Község feladatainak támogatása | új öltöző, parkoló építése, közmű csatlakozás korszerűsítése, járda kialakítása, eszközbeszerzés | 20,0 |
 
 | 94. | Neszmély Község feladatainak támogatása | 0196. hrsz önkormányzati közút felújítása (Neszmély–Dunaszentmiklós) | 300,0 |
 
@@ -498,7 +498,7 @@
 
 | 40. | Putnok Város feladatainak támogatása | önkormányzati konyha fejlesztése | 25,0 |
 
-| 41. | Ráckeve Város feladatainak támogatása | önkormányzati épület felújítása | 169,0 |
+| 41. | Ráckeve Város feladatainak támogatása | meglévő önkormányzati épület elbontása és új épület létrehozása | 169,0 |
 
 | 42. | Rádóckölked Község feladatainak támogatása | temető fejlesztése, többfunkciós fedett rendezvénytér építése | 12,2 |
 
@@ -600,7 +600,7 @@
 
 | 12. | Tetétlen Község feladatainak támogatása | körzeti orvosi rendelő felújítása | 20,0 |
 
-| 13. | Tiborszállás Község feladatainak támogatása | ravatalozó építése | 5,0 |
+| 13. | Tiborszállás Község feladatainak támogatása | ingatlanvásárlás, játszótér és sportpálya kialakítása | 5,0 |
 
 | 14. | Tihany Község feladatainak támogatása | sportcsarnok építése érdekében támogatás nyújtása | 100,0 |
 
@@ -713,8 +713,8 @@
 1. melléklet az 1818/2016. (XII. 22.) Korm. határozathoz[^6]
 
 [^1]: A 2. pont az 1883/2016. (XII. 28.) Korm. határozat 3. pont a) alpontja, az 1345/2017. (VI. 9.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^2]: A 2. pont g) alpontja az 1722/2017. (X. 9.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^3]: A 3. pont az 1345/2017. (VI. 9.) Korm. határozat 2. pontja, az 1722/2017. (X. 9.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^4]: A 4. pont az 1345/2017. (VI. 9.) Korm. határozat 3. pontja, az 1722/2017. (X. 9.) Korm. határozat 5. pontja szerint módosított szöveg.
-[^5]: Az 5. pont az 1345/2017. (VI. 9.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 2. pont g) alpontja az 1722/2017. (X. 9.) Korm. határozat 3. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont a) pontja szerint módosított szöveg.
+[^3]: A 3. pont az 1345/2017. (VI. 9.) Korm. határozat 2. pontja, az 1722/2017. (X. 9.) Korm. határozat 4. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont b) pontja szerint módosított szöveg.
+[^4]: A 4. pont az 1345/2017. (VI. 9.) Korm. határozat 3. pontja, az 1722/2017. (X. 9.) Korm. határozat 5. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont c) pontja szerint módosított szöveg.
+[^5]: Az 5. pont az 1345/2017. (VI. 9.) Korm. határozat 4. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont d) pontja szerint módosított szöveg.
 [^6]: Az 1. melléklet az 1883/2016. (XII. 28.) Korm. rendelet 3. pont b) alpontja szerint módosított szöveg.
