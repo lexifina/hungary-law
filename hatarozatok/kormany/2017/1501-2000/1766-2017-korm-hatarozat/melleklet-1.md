@@ -20,8 +20,8 @@
 
 ## 3. Az Országos Széchényi Könyvtár és a Pesti Magyar Színház 2016. évi megbízható működéséhez és szakmai feladatellátáshoz szükséges többlettámogatás biztosítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1685/2016. (XI. 29.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím, K5. Egyéb működési célú kiadások kiemelt előirányzat javára biztosított 8 900 000 forintból 991 000 forint a K3. Dologi kiadások kiemelt előirányzaton és 49 000 forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 4. A Határozatban a „2017. június 30.” szövegrész helyébe a „2017. június 30., a Közgyűjtemények cím javára biztosított 202,0 millió forint tekintetében 2017. december 31.” szöveg lép.
-
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő és egyes fejezetek közötti előirányzat-átcsoportosításról szóló 1497/2017. (VIII. 8.) Korm. határozatban a „2017. december 15.” szövegrész helyébe a „2018. június 30.” szöveg lép.
+## 4–5.[^1]
 
 1. melléklet az 1766/2017. (XI. 7.) Korm. határozathoz
+
+[^1]: A 4–5. pontja a 2010: CXXX. törvény 12. § (3) bekezdése alapján hatályát vesztette.
