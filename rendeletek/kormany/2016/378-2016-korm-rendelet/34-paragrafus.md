@@ -14,7 +14,7 @@ d) a nemzetközi ügyekkel,
 
 e) az állami elővásárlási jog gyakorlásával,
 
-f) a tudományos gyűjtemények kezelésével, gyarapításával, közzétételével, nyilvánosan hozzáférhető kutatószolgálat működtetésével,
+f)[^20]
 
 g) a kulturális örökségi értékek osztályozásával,
 
@@ -27,6 +27,12 @@ j) a kulturális örökségvédelem területét érintő szakértői tevékenys�
 ## összefüggő feladatokat 2017. január 1-jétől a kulturális örökség védelméért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) látja el.
 
 (3) A Forster Központ által fenntartott Magyar Építészeti Múzeum fenntartói feladatait 2017. január 1-jétől a Magyar Művészeti Akadémia látja el.
+
+(3a)[^21] A Magyar Művészeti Akadémia közfeladatként
+
+a) ellátja a műemlékvédelmi tudományos gyűjtemények kezelésével, gyarapításával, közzétételével, nyilvánosan hozzáférhető kutatószolgálat működtetésével összefüggő feladatokat, valamint
+
+b) közreműködik a kulturális örökségvédelem területét érintő szakértői és tudományos tevékenységekben, illetve az ismeretterjesztéssel és közművelődéssel kapcsolatos feladatok ellátásában.
 
 (4) A Budavári Ingatlanfejlesztő és Üzemeltető Nonprofit Kft. (a továbbiakban: Budavári Kft.) 2017. január 1-jétől közfeladatként ellátja
 
@@ -54,6 +60,8 @@ k) a kulturális örökséget érintő előkészítési és tervezési feladatok
 
 l) a Forster Központ által ellátott egyéb, a (2)–(4) bekezdésben nem nevesített feladatokat;
 
-(4a)[^20] A (4) bekezdéstől eltérően a Nemzeti Kastélyprogram és a Nemzeti Várprogram vonatkozásában a Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Nemzeti Örökségvédelmi Fejlesztési Nkft.) látja el közfeladatként a (4) bekezdés d)–f) és h)–k) pontja szerinti feladatokat.
+(4a)[^22] A (4) bekezdéstől eltérően a Nemzeti Kastélyprogram és a Nemzeti Várprogram vonatkozásában a Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Nemzeti Örökségvédelmi Fejlesztési Nkft.) látja el közfeladatként a (4) bekezdés d)–f) és h)–k) pontja szerinti feladatokat.
 
-[^20]: A 34. § (4a) bekezdését a 270/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 34. § (2) bekezdés f) pontját a 317/2017. (XI. 7.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^21]: A 34. § (3a) bekezdését a 317/2017. (XI. 7.) Korm. rendelet 1. §-a iktatta be.
+[^22]: A 34. § (4a) bekezdését a 270/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
