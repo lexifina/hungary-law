@@ -34,19 +34,19 @@
 
 ## 3. egyetért azzal, hogy a belügyminiszter
 
-## a) a 2. pont szerint átcsoportosított összegek terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben nyújtson támogatást az érintett önkormányzatok részére, valamint
+## a)[^1] a 2. pont szerint átcsoportosított összegek terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy vagy több részletben nyújtson támogatást az érintett önkormányzatok részére, valamint
 
-## b) a támogatások felhasználásának és elszámolásának részletes feltételeiről támogatási szerződést kössön az önkormányzatokkal;
+## b)[^2] a támogatások felhasználásának és elszámolásának részletes feltételeiről támogatási szerződést kössön az önkormányzatokkal, vagy részükre támogatói okiratot adjon ki;
 
 ## Felelős: belügyminiszter
 
 ## Határidő: azonnal
 
-## 4. egyetért azzal, hogy a belügyminiszter a 2. pont szerinti támogatást a 3. pont b) alpontja szerinti támogatási szerződés megkötését követően folyósítsa az önkormányzatok számára.
+## 4.[^3] egyetért azzal, hogy a belügyminiszter a 2. pont szerinti támogatást a 3. pont b) alpontja szerinti támogatási szerződés megkötését vagy a támogatói okirat kiadását követően folyósítsa az önkormányzatok számára.
 
 ## Felelős: belügyminiszter
 
-## Határidő: a 3. pont b) alpontja szerinti támogatási szerződés megkötését követően azonnal
+## Határidő: a 3. pont b) alpontja szerinti támogatási szerződés megkötését vagy a támogatói okirat kiadását követően azonnal
 
 1. melléklet az 1680/2017. (IX. 21.) Korm. határozathoz
 
@@ -113,3 +113,7 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont a) alpontja az 1796/2017. (XI. 8.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont b) alpontja az 1796/2017. (XI. 8.) Korm. határozat 6. pont b) alpontja szerint módosított szöveg.
+[^3]: A 4. pont az 1796/2017. (XI. 8.) Korm. határozat 6. pont c) alpontja szerint módosított szöveg.
