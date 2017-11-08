@@ -60,7 +60,7 @@
 
 | 1. | Név | Magyar Államkincstár számlaszáma |
 
-| 2. | BRFK Központosított bírságbevételek | 10023002-01040298-00000000 |
+| 2. | BRFK Központosított bírságbevételek | 10032000-01040298-00000000 |
 
 | 3. | Baranya MRFK Központosított bírságbevételek | 10024003-01040023-00000000 |
 
@@ -86,7 +86,7 @@
 
 | 14. | Nógrád MRFK Központosított bírságbevételek | 10037005-01040023-00000000 |
 
-| 15. | Pest MRFK Központosított bírságbevételek | 10023002-01040023-00000000 |
+| 15. | Pest MRFK Központosított bírságbevételek | 10032000-01040315-00000000 |
 
 | 16. | Somogy MRFK Központosított bírságbevételek | 10039007-01040023-00000000 |
 
@@ -100,7 +100,7 @@
 
 | 21. | Zala MRFK Központosított bírságbevételek | 10049006-01040023-00000000 |
 
-| 22. | Repülőtéri Rendőr Igazgatóság Központosított bírságbevételek | 10023002-01040308-00000000 |
+| 22. | Repülőtéri Rendőr Igazgatóság Központosított bírságbevételek | 10032000-01040322-00000000 |
 
 | 23. | ORFK Objektív felelősségen alapuló központosított bírságbevételek | 10032000-01040061-00000000 |
 
@@ -108,4 +108,4 @@
 
 6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10023002-00283494-20000002 Közúti közlekedési bírság letéti számla.
 
-[^19]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított, a 36/2017. (IX. 18.) NFM rendelet 31. § (3) bekezdése szerint módosított szöveg.
+[^19]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított, a 36/2017. (IX. 18.) NFM rendelet 31. § (3) bekezdése, a 42/2017. (XI. 7.) NFM rendelet 1. §-a szerint módosított szöveg.
