@@ -1,5 +1,3 @@
-## 5. § A Nemzeti Személyszállítási Intelligens Közlekedési Rendszerek Platform működtetője, valamint a koordinációs szervezet a Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság.
-
 ## 6. § A működtető feladatai körében:
 
 1. megtervezi a Nemzeti Személyszállítási Intelligens Közlekedési Rendszerek Platform létrehozását, fenntartását, továbbfejlesztését és finanszírozását;
