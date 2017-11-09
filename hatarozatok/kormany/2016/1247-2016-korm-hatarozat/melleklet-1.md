@@ -14,9 +14,9 @@
 
 ## Határidő: folyamatos
 
-## f) felhívja a nemzeti fejlesztési minisztert, hogy ha az Integrált Közlekedésfejlesztési Operatív Program egy prioritása keretében támogatni kívánt, folyamatban lévő vagy már lefolytatott közbeszerzési eljárással – ide értve a feltételes közbeszerzést is – rendelkező projektek támogatási igénye meghaladja e prioritás pénzügyi keretének 130%-át, további közbeszerzési eljárás megindíthatóságáról az irányítása, felügyelete és szakmai irányítása alatt álló szervezet, valamint a tulajdonosi joggyakorlása alatt álló gazdasági társaság projektje esetén egyedileg, projektenként külön hozzon döntést,
+## f)[^2] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 3.2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 118,4%-áig legyen kötelezettség vállalható,
 
-## g)[^2] egyetért azzal, hogy
+## g)[^3] egyetért azzal, hogy
 
 ## ga) az európai uniós forrásból megvalósítandó kötöttpályás projektekről, a rendelkezésre álló forrásokról és az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési kerete módosításának előkészítéséről szóló 1691/2016. (XI. 29.) Korm. határozat 1.7. pont b) alpontjában és 2. mellékletében meghatározott projektek esetében előkészítési tevékenységekre vállalható kötelezettség,
 
@@ -28,9 +28,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^3]
+## 3.[^4]
 
-1. melléklet az 1247/2016. (V. 18.) Korm. határozathoz
+1. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^5]
 
 ## Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési kerete
 
@@ -58,7 +58,7 @@
 
 | 2. | IKOP-3.1.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a Közép-magyarországi régióban | 211,07 | kiemelt | Meghirdetve: 2015. december 4. |
 
-| 3. | IKOP-3.2.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a kevésbé fejlett régiókban | 119,53 | kiemelt | Meghirdetve: 2015. december 4. |
+| 3. | IKOP-3.2.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a kevésbé fejlett régiókban | 141,483 | kiemelt | Meghirdetve: 2015. december 4. |
 
 4. TEN-T hálózat közúti elérhetőségének javításáról szóló 4. prioritás
 
@@ -69,5 +69,7 @@
 | 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 110,71 | kiemelt | Meghirdetve: 2016. március 1. |
 
 [^1]: Az 1. pont e) alpontja az 1691/2016. (XI. 29.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^2]: Az 1. pont g) alpontját az 1145/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont f) alpontja az 1819/2017. (XI. 8.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: Az 1. pont g) alpontját az 1145/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
