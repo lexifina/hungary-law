@@ -2,7 +2,7 @@
 
 17. § (1) A pályázati eljárás nyertese jogosult és köteles a nyertes pályázatában foglaltaknak megfelelő tartalommal – a hatályos jogszabályi rendelkezések szerint – új beruházás eredményeképpen a kapacitásokat üzembe helyezni vagy átalakítani és az eredményhirdetés napjától számítva a kiírási dokumentációban meghatározott időtartamon belül kereskedelmi üzembe helyezni.
 
-(2) A nyertes pályázatban szereplő támogatási jogosultság a Metár kormányrendelet szerinti indexáláson kívül kizárólag a figyelembe vett egyéb állami támogatások megváltozása esetén módosítható. Az egyéb állami támogatás változása esetén a támogatás időtartamát (és ezzel arányosan a támogatás alá eső mennyiséget) úgy kell módosítani, hogy a kiírási dokumentáció szerinti támogatási időtartam a ténylegesen igénybe vett támogatás indokolt beruházási költséghez viszonyított arányának megfelelően csökkenjen.
+(2)[^23] A nyertes pályázatban szereplő támogatási jogosultság a Metár kormányrendelet szerinti indexáláson kívül kizárólag a figyelembe vett egyéb állami támogatások megváltozása esetén módosítható. Az egyéb állami támogatás változása esetén a támogatás időtartamát (és ezzel arányosan a támogatás alá eső mennyiséget) a Metár kormányrendelet előírásai szerint kell módosítani.
 
 (3) A pályázat nyertese érvényesen az átvevő jognyilatkozatával, adatszolgáltatásával, pályázati feltételeknek való megfelelésével, a Hivatal jóváhagyását követően ruházhatja át jogosultságát.
 
@@ -19,3 +19,5 @@ b) lejártát követő egy éven belül sem kezdi meg a kereskedelmi üzemét, �
 (7) A pályázatban bemutatott erőműegység telephelyét az induló támogatott ár 1 Ft/kWh mértékű csökkentése ellenében lehet módosítani. Nem számít a telephely módosításának az, ha csak a telephely helyrajzi száma módosul, de a telephely fizikailag nem változik.
 
 (8) Ha a nyertes pályázó a pályázat eredményhirdetésétől számított fél éven belül jelzi a Hivatalnak, hogy a vállalt beruházást mégsem tudja megvalósítani, úgy a teljesítési biztosítéknak csak 85%-át veszíti el.
+
+[^23]: A 17. § (2) bekezdése a 43/2017. (XI. 8.) NFM rendelet 20. §-ával megállapított szöveg.

@@ -10,10 +10,13 @@ a) az alkalmazandó induló támogatott árat a nyertes ajánlata alapján,
 
 b) a támogatás alá eső villamos energia maximális mennyiségét a kiírási dokumentáció szerinti kihasználási mutatók alapján,
 
-c) a támogatás időtartamát a kiírási dokumentáció szerinti támogatási időtartam és a nyertes pályázó által igénybe vett vagy igénybe venni tervezett egyéb támogatások indokolt beruházási költségekhez viszonyított aránya alapján,
+c)[^21] a támogatás időtartamát a kiírási dokumentáció szerinti támogatási időtartam és a nyertes pályázó által igénybe vett egyéb támogatások alapján,
 
 d) a kiírási dokumentáció alapján azt a dátumot, ameddig az adott erőműegység kereskedelmi üzemét meg kell kezdeni,
 
 e) a kiírási dokumentáció alapján a teljesítési biztosíték felszabadításának lépéseit.
 
-(3) Ha a pályázó a támogatási jogosultság elnyerését követően a pályázati eljárás során figyelembe vettől eltérő mértékű támogatásban részesül, úgy azt köteles 8 napon belül bejelenteni a Hivatalnak, és kérelmezni a működési támogatás időtartamának arányos módosítását. A kérelemhez csatolni kell az elnyert egyéb állami támogatásra vonatkozó hiteles dokumentumokat.
+(3)[^22] Ha a pályázó a támogatási jogosultság elnyerését követően a pályázati eljárás során figyelembe vettől eltérő mértékű egyéb támogatásban részesül, úgy azt köteles 8 napon belül bejelenteni a Hivatalnak, és kérelmezni a működési támogatás időtartamának Metár kormányrendelet szerinti módosítását. A kérelemhez csatolni kell az elnyert egyéb állami támogatásra vonatkozó hiteles dokumentumokat.
+
+[^21]: A 16. § (2) bekezdés c) pontja a 43/2017. (XI. 8.) NFM rendelet 18. §-ával megállapított szöveg.
+[^22]: A 16. § (3) bekezdése a 43/2017. (XI. 8.) NFM rendelet 19. §-ával megállapított szöveg.

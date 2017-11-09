@@ -1,33 +1,46 @@
-## 20–21. §[^3]
+## 20–21. §[^25]
 
-1. melléklet a 62/2016. (XII. 28.) NFM rendelethez
+1. melléklet a 62/2016. (XII. 28.) NFM rendelethez[^26]
 
 1. Kötelező átvétel címén kiosztható új támogatási jogosultságok korlátai
 
-|  | A | B | C | D | E | F |
+|  | A | B | C | D | E | F | G | H | I | J | K |
 
-| 1 |  | 2017 | 2018 | 2019 | 2020 | 2021 |
+| 1 |  | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
 
-| 2 | Maximálisan kiosztható éves új támogatás | 20 milliárd forint | 20 milliárd forint csökkentve a 2017. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 20 milliárd forint csökkentve a 2017. és 2018. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 20 milliárd forint csökkentve a 2017–2019. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 20 milliárd forint csökkentve a 2017–2020. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal |
+| 2 | Maximálisan kiosztható éves új támogatás | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft |
 
 2. Pályázati eljárás nélkül kiosztható, prémium típusú, új támogatási jogosultságok korlátai
 
+|  | A | B | C | D | E | F | G | H | I | J | K |
+
+| 1 |  | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
+
+| 2 | Maximálisan kiosztható éves új támogatás | 0,5 Mrd Ft | 0,5 Mrd Ft | 0,5 Mrd Ft | 0,5 Mrd Ft | 0,5 Mrd Ft | 0,5 Mrd Ft | 0,5 Mrd Ft | 0,5 Mrd Ft | 0,5 Mrd Ft | 0,5 Mrd Ft |
+
+3. Barna prémium címén kiosztható éves új támogatási jogosultság korlátja
+
 |  | A | B | C | D | E | F |
 
 | 1 |  | 2017 | 2018 | 2019 | 2020 | 2021 |
 
-| 2 | Maximálisan kiosztható éves új támogatás | 10 milliárd forint | 10 milliárd forint csökkentve a 2017. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 10 milliárd forint csökkentve 2017. és 2018. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 10 milliárd forint csökkentve a 2017–2019. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 10 milliárd forint csökkentve a 2017–2020. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal |
+| 2 | Maximálisan kiosztható éves új támogatás | 20 Mrd Ft | 20 Mrd Ft (csökkentve a 2017. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal) | 20 Mrd Ft (csökkentve a 2017. és 2018. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal) | 20 Mrd Ft (csökkentve a 2017–2019. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal) | 20 Mrd Ft (csökkentve a 2017–2020. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal) |
 
-3. Barna prémium címén kiosztható új támogatási jogosultságok korlátai
+|  | G | H | I | J | K |
 
-A barna prémium mértéke nem lehet magasabb, mint a Metár kormányrendelet 1. melléklet 3. pont szerinti ár Metár kormányrendelet 3. melléklet szerinti aktuális indexált értékének 50%-a.
+| 1 | 2022 | 2023 | 2024 | 2025 | 2026 |
+
+| 2 | 20 Mrd Ft (csökkentve a 2017–2021. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal) | 20 Mrd Ft (csökkentve a 2017–2022. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal) | 20 Mrd Ft (csökkentve a 2017–2023. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal) | 20 Mrd Ft (csökkentve a 2017–2024. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal) | 20 Mrd Ft (csökkentve a 2017–2025. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal) |
+
+A barna prémium mértékének Hivatal általi megállapítása során annak mértéke nem lehet magasabb, mint a Metár kormányrendelet 1. melléklet 3. pont szerinti ár Metár kormányrendelet 2. melléklet szerinti aktuális indexált értékének 50%-a.
 
 4. Pályázati eljárásban kiosztható új támogatási jogosultságok korlátai
 
-|  | A | B | C | D | E | F |
+|  | A | B | C | D | E | F | G | H | I | J | K |
 
-| 1 |  | 2017 | 2018 | 2019 | 2020 | 2021 |
+| 1 |  | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
 
-| 2 | Maximálisan kiosztható éves új támogatás | 15 milliárd forint | 15 milliárd forint csökkentve a 2017. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 15 milliárd forint csökkentve a 2017. és 2018. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 15 milliárd forint csökkentve a 2017–2019. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 15 milliárd forint csökkentve a 2017–2020. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal |
+| 2 | Maximálisan kiosztható éves új támogatás | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft |
 
-[^3]: A 20–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 20–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: Az 1. melléklet a 43/2017. (XI. 8.) NFM rendelet 22. §-ával megállapított szöveg.
