@@ -426,9 +426,9 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 117 | b) egyéb okból | 55 |
 
-| 118 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet szerinti új kötelező átvételi jogosultság mértékének megállapítása | 49 |
+| 118 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet szerinti új kötelező átvételi jogosultság mértékének megállapítása | 49 |
 
-| 119 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet szerinti prémium típusú támogatás mértékének megállapítása | 99 |
+| 119 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet szerinti prémium típusú támogatás mértékének megállapítása | 99 |
 
 | 120 | Kötelező átvételi vagy Prémium típusú támogatási jogosultság visszavonása | 5 |
 
@@ -738,4 +738,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^27]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a szerint módosított szöveg.
+[^27]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § b) pontja szerint módosított szöveg.
