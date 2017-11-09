@@ -16,7 +16,7 @@
 
 ## Határidő: azonnal
 
-## 4. visszavonja a Zöldbank koncepció megszervezése érdekében szükséges intézkedésekről szóló 1114/2015. (III. 6.) Korm. határozatot.
+## 4.[^1]
 
 1. melléklet az 1794/2017. (XI. 8.) Korm. határozathoz
 
@@ -57,3 +57,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
