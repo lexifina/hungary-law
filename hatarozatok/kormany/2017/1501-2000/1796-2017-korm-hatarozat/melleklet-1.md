@@ -66,39 +66,7 @@
 
 ## a c) alpont tekintetében: a b) alpont szerinti támogatói okirat kiadását követően azonnal
 
-## 4. Az egyes települési önkormányzatok feladatainak támogatása érdekében történő előirányzat-átcsoportosításokról szóló 1818/2016. (XII. 22.) Korm. határozat
-
-## a) 2. pont g) alpontjában foglalt táblázat „Támogatási cél” oszlopának
-
-## aa) 1. sorában a „strandfürdő felújítás, aprítéküzem és földterület vásárlás” szövegrész helyébe a „strandfürdő-felújítás” szöveg,
-
-## ab) 51. sorában a „sportfejlesztés” szövegrész helyébe a „sportfejlesztés érdekében támogatás nyújtása” szöveg
-
-## lép.
-
-## b) 3. pontjában foglalt táblázat „Támogatási cél” oszlopának
-
-## ba) 41. sorában a „gyógyfürdő és fürdőkomplexum megvásárlása” szövegrész helyébe a „belterületi kerékpárút építése” szöveg,
-
-## bb) 93. sorában a „sportöltöző átépítése” szövegrész helyébe az „új öltöző, parkoló építése, közmű csatlakozás korszerűsítése, járda kialakítása, eszközbeszerzés” szöveg
-
-## lép.
-
-## c) 4. pontjában foglalt táblázat „Támogatási cél” oszlopának 41. sorában az „önkormányzati épület felújítása” szövegrész helyébe a „meglévő önkormányzati épület elbontása és új épület létrehozása” szöveg lép.
-
-## d) 5. pontjában foglalt táblázat „Támogatási cél” oszlopának 13. sorában a „ravatalozó építése” szövegrész helyébe az „ingatlanvásárlás, játszótér és sportpálya kialakítása” szöveg lép.
-
-## 5. Az Abasár település ivóvízellátását biztosító kutak szennyezettségének felszámolásával összefüggő egyes kormányzati intézkedésekről szóló 1524/2017. (VIII. 14.) Korm. határozat 4. pontjában az „egy összegben” szövegrész helyébe az „egy vagy több részletben” szöveg lép.
-
-## 6. Az egyes települési önkormányzatok feladatainak támogatása érdekében a IX. Helyi önkormányzatok támogatásai fejezetben történő előirányzat-átcsoportosításról szóló 1680/2017. (IX. 21.) Korm. határozat
-
-## a) 3. pont a) alpontjában az „egy összegben” szövegrész helyébe az „egy vagy több részletben” szöveg,
-
-## b) 3. pont b) alpontjában az „önkormányzatokkal” szövegrész helyébe az „önkormányzatokkal, vagy részükre támogatói okiratot adjon ki” szöveg,
-
-## c) 4. pontjában a „megkötését” szövegrészek helyébe a „megkötését vagy a támogatói okirat kiadását” szöveg
-
-## lép.
+## 4–6.[^1]
 
 1. melléklet az 1796/2017. (XI. 8.) Korm. határozathoz
 
@@ -185,3 +153,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
