@@ -52,15 +52,19 @@ nemzeti fejlesztési miniszter
 
 Határidő: folyamatos
 
-7. felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján gondoskodjon
+7.[^1] felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján gondoskodjon
 
-a) a Cegléd belterület 2631/59 helyrajzi számú ingatlan állam általi – legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken történő – megszerzéséről,
+a) a Cegléd belterület 2631/57 helyrajzi számú ingatlan állam általi – legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken történő – megszerzéséről,
 
-b) a Cegléd belterület 2631/58 helyrajzi számú ingatlan állam általi – legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken történő – megszerzéséről;
+b) a Cegléd belterület 2631/38 helyrajzi számú ingatlan állam általi – legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken történő – megszerzéséről,
+
+c) a Cegléd belterület 2631/59 helyrajzi számú ingatlanból telekmegosztást követően 2000 m2 nagyságú ingatlan állam általi – legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken történő – megszerzéséről,
+
+d) a Cegléd belterület 2631/27 helyrajzi számú ingatlanból telekmegosztást követően 179 m2 nagyságú ingatlan állam általi – legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken történő – megszerzéséről;
 
 Felelős: nemzeti fejlesztési miniszter
 
-Határidő: 2017. április 15.
+Határidő: 2017. december 31.
 
 8. felhívja a nemzetgazdasági minisztert, hogy a 7. pontban meghatározott célok megvalósítása érdekében gondoskodjon legfeljebb 57,02 millió Ft biztosításáról Magyarország 2017. évi központi költségvetésről szóló 2016. évi XC. törvény 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet javára;
 
@@ -83,3 +87,5 @@ Határidő: a beruházás megvalósítását követően
 Felelős: nemzetgazdasági miniszter
 
 Határidő: a 2019. évi központi költségvetés tervezése során
+
+[^1]: A 7. pont az 1826/2017. (XI. 9.) Korm. határozattal megállapított szöveg.
