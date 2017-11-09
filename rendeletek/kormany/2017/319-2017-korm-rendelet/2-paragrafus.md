@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Zöld-foki Köztársaság Kormánya közötti oktatási és kulturális együttműködési egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
