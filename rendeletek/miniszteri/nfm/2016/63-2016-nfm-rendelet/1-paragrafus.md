@@ -2,7 +2,7 @@
 
 1. § (1) E rendelet alkalmazásában:
 
-1. KÁT: a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia kötelező átvétele a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET), valamint a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló kormányrendelet alapján létrehozott eljárásrend szerint;
+1.[^1] KÁT: a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia kötelező átvétele;
 
 2. KÁT mérlegkör: a VET 10. § (4) bekezdése alapján a Befogadó által az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott és működtetett mérlegkör, amelynek mérlegkör-felelőse a Befogadó;
 
@@ -23,3 +23,5 @@
 10. Prémium pénzeszköz: a VET 13. § (1) bekezdése szerinti pénzeszköz prémium típusú támogatáshoz kapcsolódó része.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a VET, valamint annak felhatalmazása alapján kiadott jogszabályok rendelkezései szerint kell értelmezni.
+
+[^1]: Az 1. § (1) bekezdés 1. pontja a 43/2017. (XI. 8.) NFM rendelet 27. §-ával megállapított szöveg.
