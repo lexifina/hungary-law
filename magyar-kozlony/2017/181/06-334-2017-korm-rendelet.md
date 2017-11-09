@@ -1,0 +1,385 @@
+# A Kormány 334/2017. (XI. 9.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 181. szám, 2017. november 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/6b40506326a3e81f668ffcce786ad6741bc7bc4a/dokumentumok/8e5a749ae6cb56c0671c2f328eaed288607a4c45/letoltes)
+
+---
+
+A Kormány 334/2017. (XI. 9.) Korm. rendelete
+a településügyi dokumentumok készítéséhez szükséges térképi adatbázisok, adatok ingyenes átadása
+érdekében egyes kormányrendeletek módosításáról
+A Kormány a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés d) és f) pontjában,
+a 2. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+8. és 9. pontjában,
+a 3. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+22. és 23. pontjában, valamint a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés a) és b) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi
+követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük
+részletes szabályairól szóló 218/2009. (X. 6.) Korm. rendelet módosítása
+1. §
+A területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről,
+valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló
+218/2009. (X. 6.) Korm. rendelet (a továbbiakban: R1.) a következő 11/A. §-sal és 11/B. §-sal egészül ki:
+„11/A. § (1) A területrendezésért felelős miniszter vagy az általa meghatalmazott Lechner Tudásközpont
+Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság a területrendezési terv készítése,
+módosítása előtt írásban megkeresi a földmérési és térinformatikai államigazgatási szervet a területfejlesztésről és
+a területrendezésről szóló 1996. évi XXI. törvény 23/C. § (1b) bekezdése, az ingatlan-nyilvántartásról szóló 1997. évi
+CXLI. törvény 72. § (4), (7) és (8) bekezdése, valamint a földmérési és térképészeti tevékenységről szóló 2012. évi
+XLVI. törvény 6. § (20) bekezdése alapján, a 12. melléklet szerinti adatbázisok és adatok biztosítása érdekében.
+(2) Az (1) bekezdés szerinti megkereséshez mellékelni kell
+a) a területrendezési tervek kidolgozásáért felelős szerv területrendezési terv készítésére, módosítására irányuló
+döntését és
+b) a területrendezési tervek kidolgozásáért felelős szerv és – amennyiben a feladatok kidolgozásában érintett –
+a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság nyilatkozatát
+arról, hogy az (1) bekezdés szerinti kérelmező az adatbázisokat és az adatokat kizárólag az a) pontban
+meghatározott feladathoz használja fel.
+(3) A földmérési és térinformatikai államigazgatási szerv az (1) bekezdés szerinti kérelmező részére a hiánytalan
+megkeresés kézhezvételétől számított 15 napon belül elektronikus szolgáltatás formájában vagy – amennyiben
+a műszaki feltételek nem adottak – digitális adathordozón adja át a 12. melléklet szerinti legfrissebb EOV rendszerű
+adatbázisokat és adatokat, továbbá az adatszolgáltatás sorszámát.
+(4) A területrendezési terv monitorozásához a földmérési és térinformatikai államigazgatási szerv a (3) bekezdés
+szerint szolgáltatott
+a) a 12. mellékletében foglalt táblázat 2–4. soraiban szereplő adatbázisokat, adatokat negyedévente frissítve,
+b) a 12. mellékletében foglalt táblázat 5–9. soraiban szereplő adatbázisokat, adatokat évente frissítve
+elektronikus szolgáltatás formájában vagy – amennyiben a műszaki feltételek nem adottak – digitális adathordozón
+adja át az (1) bekezdés szerinti megkereső részére.
+(5) A (3) és (4) bekezdések szerint szolgáltatott adatbázisok és adatok felhasználásával készült dokumentumokon
+fel kell tüntetni az adatszolgáltató által megadott adatszolgáltatás sorszámát, valamint azt, hogy az állami
+alapadatbázisok felhasználásával készült.
+(6) Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szerv, egyéb, nem hálózati
+adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében
+külön jogszabályban meghatározott módon vizsgálhatja a (3) bekezdés szerint szolgáltatott adatbázisok, adatok
+hozzáférésének és felhasználásnak jogszerűségét.
+11/B. § (1) A megyei területrendezési terv kidolgozásáért felelős megyei önkormányzat a megyei területrendezési
+terv készítése, illetve módosítása előtt írásban megkeresi a földmérési és térinformatikai államigazgatási szervet
+a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 23/C. § (1b) bekezdése, az ingatlan-
+nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (5) bekezdése, valamint a földmérési és térképészeti
+
+tevékenységről szóló 2012. évi XLVI. törvény 6. § (20) bekezdése alapján, a 13. melléklet szerinti adatbázisok és
+adatok biztosítása érdekében.
+(2) Az (1) bekezdés szerinti megkereséshez mellékelni kell
+a) a megyei önkormányzat területrendezési terv készítésére, módosítására irányuló döntését és
+b) a megyei önkormányzat nyilatkozatát arról, hogy az adatbázisokat és az adatokat kizárólag az a) pontban
+szereplő feladathoz használja fel.
+(3) A földmérési és térinformatikai államigazgatási szerv a megyei önkormányzat részére a hiánytalan megkeresés
+kézhezvételétől számított 15 napon belül elektronikus adatszolgáltatás formájában vagy – amennyiben a műszaki
+feltételek nem adottak – digitális adathordozón adja át a 13. melléklet szerinti legfrissebb EOV rendszerű
+adatbázisokat és adatokat, továbbá az adatszolgáltatás sorszámát.
+(4) A megyei önkormányzat a (3) bekezdés szerint rendelkezésére álló adatbázisokat és adatokat kizárólag
+a (2) bekezdés a) pontjában meghatározott feladat kidolgozására szerződött félnek adhatja át, az adatbázisok
+és adatok felhasználására vonatkozó szerződésben foglaltak szerint. Az adatbázisok és adatok felhasználására
+vonatkozó szerződés tartalmazza a felhasználásra átadott adatbázisok, adatok megnevezését, átadásuk módját,
+felhasználásuk tárgyát, felhasználóit, a felhasználás feltételeit, módját, továbbá azt, hogy az adatok, adatbázisok
+harmadik fél számára tovább nem adhatók.
+(5) A (3) bekezdés szerint szolgáltatott adatbázisok és adatok felhasználásával készült dokumentumokon fel kell
+tüntetni az adatszolgáltató által megadott adatszolgáltatás sorszámát, valamint azt, hogy az állami alapadatbázisok
+felhasználásával készült.
+(6) Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szerv, egyéb, nem hálózati
+adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében
+külön jogszabályban meghatározott módon vizsgálhatja a (3) bekezdés szerint szolgáltatott adatbázisok, adatok
+hozzáférésének és felhasználásnak jogszerűségét.”
+2. §
+Az R1.
+a) az 1. melléklet szerinti 12. melléklettel és
+b) a 2. melléklet szerinti 13. melléklettel
+egészül ki.
+2. Az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi
+Nyilvántartásról szóló 313/2012. (XI. 8.) Korm. rendelet módosítása
+3. §
+Az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló
+313/2012. (XI. 8.) Korm. rendelet (a továbbiakban: R2.) 6. §-a a következő (6)–(10) bekezdéssel egészül ki:
+„(6) A Nyilvántartás, valamint a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel
+és területrendezéssel kapcsolatos információs rendszer működtetéséhez a Lechner Tudásközpont Területi,
+Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság írásban megkeresi a földmérési és térinformatikai
+államigazgatási szervet a 2. melléklet szerinti adatbázisok és adatok biztosítása érdekében.
+(7) A (6) bekezdés szerinti megkeresés az igényelt adatok megnevezése mellett tartalmazza a Lechner Tudásközpont
+Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság nyilatkozatát arról, hogy az adatbázisokat
+és az adatokat kizárólag a Nyilvántartás és a területfejlesztéssel és területrendezéssel kapcsolatos információs
+rendszer működtetéséhez használja fel.
+(8) A földmérési és térinformatikai államigazgatási szerv a (6) bekezdés szerinti hiánytalan megkeresés
+kézhezvételétől számított 15 napon belül elektronikus szolgáltatás formájában vagy – amennyiben a műszaki
+feltételek nem adottak – a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű
+Társaság által biztosított digitális adathordozón adja át a 2. melléklet szerinti legfrissebb EOV rendszerű
+adatbázisokat és adatokat, továbbá az adatszolgáltatás sorszámát.
+(9) A (8) bekezdés szerint szolgáltatott adatbázis és adat felhasználásával készült termékeken fel kell tüntetni
+az adatszolgáltató által megadott adatszolgáltatás sorszámát, valamint azt, hogy az állami alapadatbázisok
+felhasználásával készült.
+(10) Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szerv, egyéb, nem hálózati
+adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében
+külön jogszabályban meghatározott módon vizsgálhatja a (8) bekezdés szerint szolgáltatott adatbázisok, adatok
+hozzáférésének és felhasználásnak jogszerűségét.”
+
+4. §
+Az R2. a 3. melléklet szerinti 2. melléklettel egészül ki.
+3. A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és
+a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló
+314/2012. (XI. 8.) Korm. rendelet módosítása
+5. §
+A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési
+eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet
+(a továbbiakban: R3.) 20. alcíme a következő 28/A. §-sal egészül ki:
+„28/A. § (1) A polgármester a településrendezési eszköz, a koncepció, a stratégia, a kézikönyv és a településképi
+rendelet készítése, illetve módosítása előtt írásban kérelmezheti a földmérési és térinformatikai államigazgatási
+szervnél az Étv. 13/A. §-a, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (6) bekezdése, valamint
+a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (20) bekezdése alapján, a 13. melléklet
+szerinti adatbázisok és adatok szolgáltatását.
+(2) A polgármester az (1) bekezdés szerinti kérelemhez mellékeli az önkormányzat
+a) településrendezési eszköz, koncepció, stratégia, kézikönyv és településképi rendelet készítésére, illetve
+módosítására irányuló döntését és
+b) nyilatkozatát arról, hogy az átvett adatbázisokat és az adatokat kizárólag az a) pont szerinti döntésben
+meghatározott dokumentumok elkészítéséhez használja fel.
+(3) A földmérési és térinformatikai államigazgatási szerv a hiánytalan megkeresés kézhezvételétől számított
+15 napon belül elektronikus szolgáltatás formájában vagy – amennyiben a műszaki feltételek nem adottak –
+digitális adathordozón adja át a polgármester részére a 12. melléklet szerinti legfrissebb Egységes Országos Vetületi
+(a továbbiakban: EOV) rendszerű adatbázisokat és adatokat, továbbá az adatszolgáltatás sorszámát.
+(4) Az önkormányzat (a fővárosban a fővárosi és a kerületi önkormányzat) a (3) bekezdés szerint rendelkezésére álló
+adatbázisokat és adatokat kizárólag a (2) bekezdés a) pontjában meghatározott feladat kidolgozására szerződött
+félnek adhatja át, az adatbázisok és adatok felhasználására vonatkozó szerződésben foglaltak szerint. Az adatbázisok
+és adatok felhasználására vonatkozó szerződés tartalmazza a felhasználásra átadott adatbázisok, adatok
+megnevezését, átadásuk módját, felhasználásuk tárgyát, felhasználóit, a felhasználás feltételeit, módját, továbbá azt,
+hogy az adatok, adatbázisok harmadik fél számára tovább nem adhatók.
+(5) A (3) bekezdés szerint szolgáltatott adatbázis és adat felhasználásával készült dokumentumokon fel kell tüntetni
+az adatszolgáltató által megadott adatszolgáltatás sorszámát, valamint azt, hogy az állami alapadatbázisok
+felhasználásával készült.
+(6) Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szerv, egyéb, nem hálózati
+adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében
+külön jogszabályban meghatározott módon vizsgálhatja a (3) bekezdés szerint szolgáltatott adatbázisok, adatok
+hozzáférésének és felhasználásnak jogszerűségét.”
+6. §
+Az R3. a 4. melléklet szerinti 13. melléklettel egészül ki.
+4. Záró rendelkezések
+7. §
+Ez a rendelet 2018. január 1-én lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 334/2017. (XI. 9.) Korm. rendelethez
+„12. melléklet a 218/2009. (X. 6.) Korm. rendelethez
+Az országos és kiemelt térségi területrendezési tervek készítéséhez szükséges adatbázisok és adatok
+A B C D E
+1. Adatbázis Réteg Attribútum Formátum Egyéb
+2.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Földrészlet településazonosító, fekvés, helyrajzi szám (hrsz.),
+közterület/nem közterület,
+szektoradat,
+tulajdonos típusa (állami/önkormányzati/magán),
+művelés alól kivett terület esetén megnevezés
+SHP shape, poligon Budapest Főváros
+Kormányhivatala
+Téradat-tárházban
+rendelkezésre álló verzió
+3.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Művelési ág településazonosító, művelési ág, minőségi osztály,
+AK érték
+SHP shape, poligon Budapest Főváros
+Kormányhivatala
+Téradat-tárházban
+rendelkezésre álló verzió
+4.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Épület rendeltetés, tulajdonos típusa (állami/önkormányzati/
+magán)
+SHP shape, poligon Budapest Főváros
+Kormányhivatala
+Téradat-tárházban
+rendelkezésre álló verzió
+5.
+Az ország 1:10 000 méretarányú
+digitális szintvonalrajza
+Szintvonalak tengerszint feletti magasság SHP shape, vonal
+6.
+Digitális domborzatmodell Digitális
+domborzatmodell
+tengerszint feletti magasság geotiff DDM5
+
+7.
+Ortofotó RGB sávkiosztású geotiff Állami alapadat ortofotó –
+az elérhető legfrissebb verzió
+és legnagyobb felbontásban
+8.
+Mezőgazdasági Parcella Azonosító
+Rendszer (MePAR)
+Felszínborítás összevont MePAR kategóriák:
+a) szántó,
+b) gyep,
+c) állandó kultúra (ültetvények),
+d) természetes növényzettel borított terület,
+természetes, illetve természetközeli élőhelyek,
+e) infrastruktúra, épített környezet, mesterséges
+felszín,
+f) nyílt vízfelület,
+g) energiaültetvény,
+h) elsősorban nem mezőgazdasági hasznosítású,
+kistáblás területek, amelyen belül jellemzően nincs
+2500 m2-t elérő nagyságú mezőgazdasági parcella
+SHP shape
+9.
+MePAR HMKÁ védett
+tájképi elemek
+a) kiterjedéssel rendelkező HMKÁ védett tájelemek,
+b) pontszerű HMKÁ védett tájelemek
+SHP shape
+”
+
+2. melléklet a 334/2017. (XI. 9.) Korm. rendelethez
+„13. melléklet a 218/2009. (X. 6.) Korm. rendelethez
+A megyei területrendezési tervek készítéséhez szükséges adatbázisok és adatok
+A B C D E
+1. Adatbázis Réteg Attribútum Formátum Egyéb
+2.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Földrészlet településazonosító, fekvés, helyrajzi szám (hrsz.),
+közterület/nem közterület,
+szektoradat,
+tulajdonos típusa (állami/önkormányzati/magán),
+művelés alól kivett terület esetén megnevezés
+SHP shape, poligon Budapest Főváros
+Kormányhivatala
+Téradat-tárházban
+rendelkezésre álló verzió
+3.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Művelési ág településazonosító, művelési ág, minőségi osztály,
+AK érték
+SHP shape, poligon Budapest Főváros
+Kormányhivatala
+Téradat-tárházban
+rendelkezésre álló verzió
+4.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Épület rendeltetés, tulajdonos típusa (állami/önkormányzati/
+magán)
+SHP shape, poligon Budapest Főváros
+Kormányhivatala
+Téradat-tárházban
+rendelkezésre álló verzió
+5.
+Az ország 1:10 000 méretarányú digitális
+szintvonalrajza
+Szintvonalak tengerszint feletti magasság SHP shape, vonal
+6.
+Digitális domborzatmodell Digitális
+domborzatmodell
+tengerszint feletti magasság geotiff DDM5
+7.
+Ortofotó RGB sávkiosztású
+geotiff
+Állami alapadat ortofotó –
+az elérhető legfrissebb verzió és
+legnagyobb felbontásban
+
+8.
+Mezőgazdasági Parcella Azonosító
+Rendszer (MePAR)
+Felszínborítás összevont MePAR kategóriák:
+a) szántó,
+b) gyep,
+c) állandó kultúra (ültetvények),
+d) természetes növényzettel borított terület,
+természetes, illetve természetközeli élőhelyek,
+e) infrastruktúra, épített környezet, mesterséges felszín,
+f) nyílt vízfelület,
+g) energiaültetvény,
+h) elsősorban nem mezőgazdasági hasznosítású,
+kistáblás területek, amelyen belül jellemzően nincs
+2500 m2-t elérő nagyságú mezőgazdasági parcella
+SHP shape, poligon
+9.
+MePAR HMKÁ védett
+tájképi elemek
+a) kiterjedéssel rendelkező HMKÁ védett tájelemek,
+b) pontszerű HMKÁ védett tájelemek
+SHP shape
+”
+3. melléklet a 334/2017. (XI. 9.) Korm. rendelethez
+„2. melléklet a 313/2012. (XI. 8.) Korm. rendelethez
+A területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer működtetéséhez szükséges állami ingatlan-nyilvántartási térképi adatok
+A B C D
+1. Adatbázis Réteg Attribútum Formátum
+2.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Földrészlet településazonosító, fekvés, helyrajzi szám (hrsz.),
+közterület/nem közterület,
+szektoradat,
+tulajdonos típusa (állami/önkormányzati/magán),
+művelés alól kivett terület esetén megnevezés
+DAT vagy SHP shape, poligon
+3.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Művelési ág településazonosító, művelési ág, minőségi osztály, AK érték DAT vagy SHP shape, poligon
+4.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Épület rendeltetés, tulajdonos típusa (állami/önkormányzati/magán) DAT vagy SHP shape, poligon
+”
+
+4. melléklet a 334/2017. (XI. 9.) Korm. rendelethez
+„13. melléklet a 314/2012. (XI. 8.) Korm. rendelethez
+A településrendezési eszköz készítéséhez szükséges, és koncepciót, a stratégia, a kézikönyv és a településképi rendelet készítéséhez felhasználható
+adatbázisok és adatok
+A B C D
+1. Adatbázis Réteg Attribútum Formátum
+2.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Földrészlet településazonosító, fekvés, helyrajzi szám (hrsz.),
+közterület/nem közterület,
+szektoradat,
+tulajdonos típusa (állami/önkormányzati/magán),
+művelés alól kivett terület esetén megnevezés, utcanév
+DAT vagy SHP shape, poligon
+3.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Művelési ág településazonosító, helyrajzi szám (hrsz.), művelési ág,
+minőségi osztály, AK érték
+DAT vagy SHP shape, poligon
+4.
+Állami ingatlan-nyilvántartási térképi
+adatbázis
+Épület településazonosító, helyrajzi szám (hrsz.), rendeltetés,
+tulajdonos típusa (állami/önkormányzati/magán),
+házszám
+DAT vagy SHP shape, poligon
+5.
+Az ország 1:10 000 méretarányú digitális
+szintvonalrajza
+Szintvonalak tengerszint feletti magasság SHP shape, vonal
+6.
+Digitális domborzatmodell Digitális
+domborzatmodell
+tengerszint feletti magasság geotiff
+7. Ortofotó RGB sávkiosztású geotiff
+
+8.
+Mezőgazdasági Parcella Azonosító
+Rendszer (MePAR)
+Felszínborítás összevont MePAR kategóriák:
+a) szántó,
+b) gyep,
+c) állandó kultúra (ültetvények),
+d) természetes növényzettel borított terület, természetes,
+illetve természetközeli élőhelyek,
+e) infrastruktúra, épített környezet, mesterséges felszín,
+f) nyílt vízfelület,
+g) energiaültetvény,
+h) elsősorban nem mezőgazdasági hasznosítású, kistáblás
+területek, amelyen belül jellemzően nincs 2500 m2-t elérő
+nagyságú mezőgazdasági parcella
+SHP shape, poligon
+9.
+MePAR HMKÁ védett tájelemek a) kiterjedéssel rendelkező HMKÁ védett tájelemek,
+b) pontszerű HMKÁ védett tájelemek
+SHP shape
+”
