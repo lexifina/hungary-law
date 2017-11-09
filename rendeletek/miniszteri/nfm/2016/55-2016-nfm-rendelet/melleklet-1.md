@@ -1,4 +1,4 @@
-## 8. §[^2]
+## 8. §[^3]
 
 1. melléklet az 55/2016. (XII. 21.) NFM rendelethez
 
@@ -72,4 +72,4 @@
 
 2.8. 500 kW feletti kimenő névleges hőteljesítmény felett a kazán automatikus kihamuzó rendszerrel rendelkezik.
 
-[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
