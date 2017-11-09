@@ -288,7 +288,7 @@
 
 | 144. | Nagykõrösi Rehabilitációs Szakkórház és Rendelõintézet | Nagykõrös |
 
-| 145. | Petõ András Fõiskola | Budapest |
+| 145. |  |  |
 
 | 146. | Nyírõ Gyula Kórház – Országos Pszichiátriai és Addiktológiai Intézet | Budapest |
 
@@ -458,7 +458,7 @@
 
 | 229. | Orosházi Kórház | Orosháza |
 
-| 230. | Városi Rendelõintézet | Hajdúnánás |
+| 230. | Szalay János Rendelőintézet | Hajdúnánás |
 
 | 231. | Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Kft. | Budapest |
 
@@ -514,7 +514,7 @@
 
 | 257. | Békéscsabai Egészségügyi Alapellátási Intézmény | Békéscsaba |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^58]
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^45]
 
 ## Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót megillető bérkiegészítés mértéke
 
@@ -720,4 +720,4 @@
 
 | 17 | 49–51 | 46 600 | 49 114 | 56 724 |
 
-[^58]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^45]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
