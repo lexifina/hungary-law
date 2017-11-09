@@ -54,7 +54,7 @@
 
 ## Határidő: a támogatói okirat kiadásakor
 
-## 9. visszavonja a debreceni Csokonai Színház Modern Városok Program keretében történő felújításával kapcsolatos intézkedésekről szóló 1689/2016. (XI. 29.) Korm. határozatot.
+## 9.[^1]
 
 1. melléklet az 1804/2017. (XI. 8.) Korm. határozathoz
 
@@ -125,3 +125,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
