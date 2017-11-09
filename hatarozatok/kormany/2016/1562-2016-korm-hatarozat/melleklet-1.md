@@ -52,4 +52,6 @@
 
 ## Határidő: az adott éves fejlesztési keret soron következő módosításával
 
-1. melléklet az 1562/2016. (X. 13.) Korm. határozathoz
+1. melléklet az 1562/2016. (X. 13.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1830/2017. (XI. 9.) Korm. határozat 1. pontja szerint módosított szöveg.
