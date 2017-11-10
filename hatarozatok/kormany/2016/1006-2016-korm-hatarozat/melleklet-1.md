@@ -10,15 +10,17 @@
 
 ## a) a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat és a Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keretének megállapításáról szóló 1011/2016. (I. 20.) Korm. határozat módosításáról szóló 1271/2017. (V. 29.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 5–7., 14., 15., 24. és 25. sora szerinti kiemelt projektek szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása, valamint
 
-## b) a 2. mellékletben foglalt táblázat 12., 13. és 16. sora szerinti kiemelt projektek támogatási szerződésének az éves fejlesztési keretben rögzített keretösszeg elérésére irányuló módosítása
+## b) a 2. mellékletben foglalt táblázat 12., 13. és 16. sora szerinti kiemelt projektek támogatási szerződésének az éves fejlesztési keretben rögzített keretösszeg elérésére irányuló módosítása,
+
+## d)[^3] a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016 (I. 18.) Korm. határozat módosításáról szóló 1837/2017. (XI. 9.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 12. sora szerinti kiemelt projekt szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása
 
 ## során a Kormányrendelet 3–6. §-ában foglalt eljárási szabályok ne kerüljenek alkalmazásra.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^3]
+## 3.[^4]
 
-1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^4]
+1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^5]
 
 ## A GINOP éves fejlesztési kerete
 
@@ -28,7 +30,7 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-1.1.1-17 | Vállalkozói inkubációs szolgáltatások fejlesztésének támogatása | 1,00 | standard | 2017. május |
+| 2. | GINOP-1.1.1-17 | Vállalkozói inkubációs szolgáltatások fejlesztésének támogatása | 4,36 | standard | 2017. május |
 
 | 3. | GINOP-1.1.2-VEKOP-17 | KKV szektor hatékonyságának növelése pénzügyi ismeretek és vállalkozói mentorálás elérhetőségének biztosítása révén | 3,30 [ebből Versenyképes Közép-Magyarország Operatív Program (a továbbiakban: VEKOP): 0,29] | kiemelt | 2017. május |
 
@@ -38,7 +40,7 @@
 
 | 3c. | GINOP-1.1.5-17 | Vállalkozásfejlesztési és inkubációs szolgáltatók ernyőszervezetének létrehozása, minősítési rendszer kialakítása | 1,00 | kiemelt | 2017. május |
 
-| 3d. | GINOP-1.1.6-17 | Ipari Inkubációs Szolgáltató Központok létrehozása az Irinyi Terv újraiparosítási céljainak megvalósításához kapcsolódóan | 3,36 | standard | 2017. május |
+| 3d. |  |  |  |  |  |
 
 | 3e. | GINOP-1.1.7-17 | KKV szektor hatékonyságának növelése elsősorban tőzsdei bevezetést szolgáló intézkedések biztosítása révén | 1,00 | kiemelt | 2017. május |
 
@@ -50,17 +52,17 @@
 
 | 6. | GINOP-1.2.2-15 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása | 39,00 | egyszerűsített | Meghirdetve 2015. júniusban |
 
-| 6a. | GINOP-1.2.2-16 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása | 32,00 | egyszerűsített | Meghirdetve 2016. decemberben |
+| 6a. | GINOP-1.2.2-16 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása | 27,00 | egyszerűsített | Meghirdetve 2016. decemberben |
 
 | 7. | GINOP-1.2.3-8.3.4-16 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása kombinált hiteltermék keretében | 37,50 | egyszerűsített | Meghirdetve 2016. decemberben |
 
-| 8. | GINOP-1.2.4-16 | Ipari parkok fejlesztése | 11,47 | standard | Meghirdetve 2016. áprilisban |
+| 8. | GINOP-1.2.4-16 | Ipari parkok fejlesztése | 8,47 | standard | Meghirdetve 2016. áprilisban |
 
 | 9. | GINOP-1.2.5-15 | Logisztikai szolgáltató központok fejlesztéseinek támogatása | 6,00 | standard | Meghirdetve 2015. decemberben |
 
 | 10. | GINOP-1.2.6-8.3.4-16 | Élelmiszeripari komplex beruházások támogatása kombinált hiteltermékkel | 50,00 | standard | Meghirdetve 2016. decemberben |
 
-| 10a. | GINOP-1.2.7-17 | Gyors növekedésű (gazella) vállalkozások komplex fejlesztéseinek támogatása | 33,57 | egyszerűsített | Meghirdetve 2017. márciusban |
+| 10a. | GINOP-1.2.7-17 | Gyors növekedésű (gazella) vállalkozások komplex fejlesztéseinek támogatása | 23,57 | egyszerűsített | Meghirdetve 2017. márciusban |
 
 | 10b. | GINOP-1.2.8-17 | Kis- és középvállalkozások ipari digitalizációhoz (IPAR 4.0) kapcsolódó fejlesztéseinek támogatása | 5,00 | egyszerűsített | Meghirdetve 2017. márciusban |
 
@@ -72,13 +74,13 @@
 
 | 13. | GINOP-1.3.2-15 | Professzionális klaszterszervezetek minőségi szolgáltatás-nyújtásának támogatása | 7,00 | standard | Meghirdetve 2015. decemberben |
 
-| 14. | GINOP-1.3.3-16 | Beszállítói integrátorok és beszállító mikro-, kis- és középvállalkozások támogatása | 28,00 | standard | Meghirdetve 2016. augusztusban |
+| 14. | GINOP-1.3.3-16 | Beszállítói integrátorok és beszállító mikro-, kis- és középvállalkozások támogatása | 20,00 | standard | Meghirdetve 2016. augusztusban |
 
 | 15. | GINOP-1.3.4-17 | Turisztikai fejlesztési térségek pozicionálása | 4,00 | standard | 2017. május |
 
 | 16. | GINOP-1.3.5-15 | Nemzeti turisztikai marketing és keresletösztönző program | 8,35 | kiemelt | Meghirdetve 2015. májusban |
 
-| 17. | GINOP-1.3.6-17 | Mikro-, kis- és középvállalkozások logisztikai szolgáltatás-igénybevételének támogatása | 5,47 | egyszerűsített | Meghirdetve 2017. márciusban |
+| 17. | GINOP-1.3.6-17 | Mikro-, kis- és középvállalkozások logisztikai szolgáltatás-igénybevételének támogatása | 0,013 | egyszerűsített | Meghirdetve 2017. márciusban |
 
 2. A kutatás, technológiai fejlesztés és innováció című 2. prioritás
 
@@ -101,6 +103,8 @@
 | 5a. | GINOP-2.1.6-16 | Exportképes innovatív termékek fejlesztésének támogatása az innováció vezérelt exportbővítés érdekében | 5,00 | standard | Meghirdetve 2017. januárban |
 
 | 6. | GINOP-2.1.7-15 | Prototípus, termék-, technológia- és szolgáltatásfejlesztés | 45,00 | standard | Meghirdetve 2015. októberben |
+
+| 6a. | GINOP-2.1.8-17 | Kkv-k versenyképességének növelése adaptív technológiai innováció révén | 17,00 | egyszerűsített | 2017. november |
 
 | 7. | GINOP-2.2.1-15 | Versenyképességi és kiválósági együttműködések | 102,92 | standard | Meghirdetve 2015. szeptemberben |
 
@@ -144,13 +148,13 @@
 
 | 11a. | GINOP-3.3.3-17 | Online kormányzati, közigazgatási és e-egészségügyi szolgáltatások terjedésének és a digitális jólét megteremtésének elősegítése országos, illetve helyi civil és szakmai szervezetek támogatásával | 1,70 | egyszerűsített | Meghirdetve 2017. márciusban |
 
-| 12. | GINOP-3.4.1-15 | Újgenerációs NGA és felhordó hálózatok fejlesztése | 58,00 | standard | Meghirdetve 2015. augusztusban |
+| 12. | GINOP-3.4.1-15 | Újgenerációs NGA és felhordó hálózatok fejlesztése | 57,80 | standard | Meghirdetve 2015. augusztusban |
 
 | 13. | GINOP-3.4.2-VEKOP-15 | Intézmények hálózati hozzáféréseinek, kapcsolatainak fejlesztése | 2,86 (ebből VEKOP: 0,86) | kiemelt | Meghirdetve 2015. decemberben |
 
 | 14. | GINOP-3.4.3-VEKOP-15 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése | 4,29 (ebből VEKOP: 1,29) | kiemelt | Meghirdetve 2015. decemberben |
 
-| 15. | GINOP-3.4.4-16 | Szélessávú fejlesztések előkészítéséhez és végrehajtásához kapcsolódó feladatok ellátása | 1,00 | kiemelt | Meghirdetve 2016. júliusban |
+| 15. | GINOP-3.4.4-16 | Szélessávú fejlesztések előkészítéséhez és végrehajtásához kapcsolódó feladatok ellátása | 1,20 | kiemelt | Meghirdetve 2016. júliusban |
 
 | 16. | GINOP-3.4.5-VEKOP-16 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése és intézmények hálózati hozzáféréseinek, kapcsolatainak fejlesztése | 4,73 (ebből VEKOP: 1,73) | kiemelt | Meghirdetve 2016. decemberben |
 
@@ -162,7 +166,9 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-4.1.1-8.4.4-16 | Megújuló energia használatával megvalósuló épületenergetikai fejlesztések támogatása kombinált hiteltermékkel | 59,45 | egyszerűsített | Meghirdetve 2016. decemberben |
+| 2. | GINOP-4.1.1-8.4.4-16 | Megújuló energia használatával megvalósuló épületenergetikai fejlesztések támogatása kombinált hiteltermékkel | 6,95 | egyszerűsített | Meghirdetve 2016. decemberben |
+
+| 3. | GINOP-4.1.2-17 | Megújuló energia használatával megvalósuló épületenergetikai fejlesztések támogatása | 52,50 | egyszerűsített | 2017. november |
 
 5. A foglalkoztatásról szóló 5. prioritás
 
@@ -280,25 +286,29 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Kapcsolódó felhívás azonosító jele (vissza nem térítendő) | Kapcsolódó felhívás keretösszege (vissza nem térítendő) (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-8.1.1-16 | Vállalatok K+F+I tevékenységének támogatása hitel | 42,19 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 2. | GINOP-8.1.1-16 | Vállalatok K+F+I tevékenységének támogatása hitel | 40,09 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
 | 2a. |  |  |  |  |  |  |  |
 
 | 3. |  |  |  |  |  |  |  |
 
-| 4. | GINOP-8.1.3/A-16 | Nemzeti Technológiai és Szellemi Tulajdon kockázati tőkeprogram | 30,00 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 4. | GINOP-8.1.3/A-16 | Nemzeti Technológiai és Szellemi Tulajdon kockázati tőkeprogram | 32,10 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
 | 5. | GINOP-8.1.3/B-17 | Intelligens szakosodási kockázati tőkeprogram | 70,00 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
 
 | 5a. | GINOP-2.1.2-8.1.4-16 | Vállalatok K+F+I tevékenységének támogatása kombinált hiteltermék keretében | 40,00 | GINOP-2.1.2- 8.1.4-16 | 80,00 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
-| 6. | GINOP-8.2.1-3.4.1-15 | Újgenerációs Hozzáférési Hálózat (NGA) és körzethálózatok fejlesztése hitel | 20,60 | GINOP-3.4.1-15 | 58,00 | alapok alapját végrehajtó szervezet jár el pénzügyi közvetítőként | Meghirdetve 2015. szeptemberben |
+| 6. | GINOP-8.2.1-3.4.1-15 | Újgenerációs Hozzáférési Hálózat (NGA) és körzethálózatok fejlesztése hitel | 5,60 | GINOP-3.4.1-15 | 57,80 | alapok alapját végrehajtó szervezet jár el pénzügyi közvetítőként | Meghirdetve 2015. szeptemberben |
 
 | 7. | GINOP-8.2.3-17 | Specializált seed és pre-seed befektetési tőkealap induló IKT vállalkozások számára új ötletekhez, új piacra lépéshez – kockázati tőke | 6,50 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
 
 | 8. | GINOP-8.2.4-16 | Infokommunikációs-technológiai vállalati fejlesztéseket támogató kombinált hitel | 38,60 | GINOP-3.1.2- 8.2.4-16 GINOP-3.2.2- 8.2.4-16 GINOP-3.2.4- 8.2.4-16 GINOP-3.2.6- 8.2.4-17 | 30,70 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
-| 8a. | GINOP-8.2.5-17 | Digitalizáció tőkealap | 10,00 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
+| 8a. | GINOP-8.2.5-17 | Üzleti infokommunikációs, digitalizációs tőkealap | 10,00 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
+
+| 8b. | GINOP-8.2.6-17 | Digitális Jólét Pénzügyi Program – hitelprogram | 7,50 | – | – | pénzügyi közvetítők kiválasztása | 2017. november |
+
+| 8c. | GINOP-8.2.7-17 | Digitális Jólét Pénzügyi Program – tőkeprogram | 7,50 | – | – | pénzügyi közvetítők kiválasztása | 2017. november |
 
 | 9. | GINOP-8.3.1-16 | Mikro-, kis-és középvállalkozások versenyképességének növelése hitel | 70,00 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. májusban |
 
@@ -310,11 +320,11 @@
 
 | 13. | GINOP-1.2.6-8.3.4-16 | Élelmiszeripari komplex beruházások támogatása kombinált hiteltermékkel | 50,00 | GINOP-1.2.6- 8.3.4-16 | 50,00 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
-| 14. | GINOP-4.1.1-8.4.4-16 | Megújuló energia használatával megvalósuló épületenergetikai fejlesztések támogatása kombinált hiteltermékkel | 32,08 | GINOP-4.1.1- 8.4.4-16 | 59,45 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 14. | GINOP-4.1.1-8.4.4-16 | Megújuló energia használatával megvalósuló épületenergetikai fejlesztések támogatása kombinált hiteltermékkel | 6,95 | GINOP-4.1.1- 8.4.4-16 | 6,95 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
 | 15. | GINOP-8.4.1/A-17 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó hitel | 105,20 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. februárban |
 
-| 16. | GINOP-8.4.1/B-16 | KKV energia hitel | 30,00 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 16. | GINOP-8.4.1/B-16 | KKV energia hitel | 55,13 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
 | 17. | GINOP-8.6.3/A-17 | Nemzeti Tőkealap | 50,00 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
 
@@ -326,5 +336,6 @@
 
 [^1]: Az 1. pont c) alpontját az 1201/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be.
 [^2]: Az 1/A. pontot az 1271/2017. (V. 29.) Korm. határozat 1. pontja iktatta be.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja szerint módosított szöveg.
+[^3]: Az 1/A. pont d) alpontját az 1837/2017. (XI. 9.) Korm. határozat 1. pontja iktatta be.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja szerint módosított szöveg. [Ez utóbbi módosító határozat 3. pont 3.1. alpont 3.1.2. és 3.1.6. pontjával, valamint 3.4. alpontjával elrendelt módosítás, amely szerint az 1. melléklet 1. pontjában foglalt táblázat C:5a mezőjében a „61,22” szövegrész helyébe a „94,68” szöveg, C:12 mezőjében az „5,00” szövegrész helyébe a „4,00” szöveg, valamint az 1. melléklet 5. pontjában foglalt táblázat E:15a és E:18. mezőjében a „2017. december” szövegrész helyébe a „2018. március” szöveg lép, nem vezethető át.]
