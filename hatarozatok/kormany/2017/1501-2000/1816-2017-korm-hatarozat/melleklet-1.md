@@ -12,29 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:553 mezőjében a „0,35” szövegrész helyébe a „0,40” szöveg,
-
-## b) D:555 mezőjében az „1,98” szövegrész helyébe a „2,02” szöveg,
-
-## c) D:556 mezőjében az „1,29” szövegrész helyébe az „1,62” szöveg,
-
-## d) D:557 mezőjében a „0,42” szövegrész helyébe a „0,56” szöveg,
-
-## e) D:560 mezőjében a „0,53” szövegrész helyébe a „0,77” szöveg,
-
-## f) D:562 mezőjében a „0,30” szövegrész helyébe a „0,33” szöveg,
-
-## g) D:564 mezőjében a „0,43” szövegrész helyébe a „0,50” szöveg,
-
-## h) D:565 mezőjében a „0,42” szövegrész helyébe a „0,46” szöveg,
-
-## i) D:567 mezőjében a „0,81” szövegrész helyébe az „1,08” szöveg,
-
-## j) D:570 mezőjében a „0,45” szövegrész helyébe a „0,75” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1816/2017. (XI. 8.) Korm. határozathoz
 
@@ -61,3 +39,5 @@
 | 10. | KEHOP-5.2.2-16- 2016-00092 | Tolna Megyei Rendőr-főkapitányság épületeinek energetikai fejlesztése | Tolna Megyei Rendőr-főkapitányság a 435/2015. (XII. 28.) Korm. rendelet szerint | 810 000 000 | 270 000 000 | 1 080 000 000 | A projekt keretében három helyszínen, három épület energetikai felújítása valósul meg (hőszigetelés, nyílászárócsere, gépészet korszerűsítése). A projekt célja az intézmények és ezzel hazánk összes primerenergia- felhasználásának, valamint az ezzel összefüggő üvegházhatású gázok kibocsátásának csökkentése. |
 
 | 11. | KEHOP-5.2.2-16- 2016-00082 | Zala Megyei Rendőr-főkapitányság épületeinek energetikai fejlesztése | Zala Megyei Rendőr-főkapitányság a 435/2015. (XII. 28.) Korm. rendelet szerint | 450 000 000 | 300 000 000 | 750 000 000 | A projekt keretében két helyszínen, két épület energetikai felújítása valósul meg (hőszigetelés, nyílászárócsere, gépészet korszerűsítése). A projekt célja az intézmények és ezzel hazánk összes primerenergia-felhasználásának, valamint az ezzel összefüggő üvegházhatású gázok kibocsátásának csökkentése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
