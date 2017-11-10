@@ -2,6 +2,7 @@
 
 a)[^1]
 
-b) A:118 és A:119 mezőjében az „a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet” szövegrész helyébe az „a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet”
+b)[^2]
 
 [^1]: Az 1. § a) pontja a 2. § (2) bekezdése alapján 2017. december 9-én lép hatályba.
+[^2]: Az 1. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
