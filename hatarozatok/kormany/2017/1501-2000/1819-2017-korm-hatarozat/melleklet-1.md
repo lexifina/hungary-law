@@ -36,15 +36,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az 1247/2016. (V. 18.) Korm. határozat 1. pont f) alpontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „f) egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 3.2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 118,4%-áig legyen kötelezettség vállalható,”
-
-## 4. Az 1247/2016. (V. 18.) Korm. határozat 2. melléklete az 1. melléklet szerint módosul.
-
-## 5. Az 1247/2016. (V. 18.) Korm. határozat 1. melléklet 3. pontjában foglalt táblázat C:3 mezőjében a „119,53” szövegrész helyébe a „141,483” szöveg lép.
+## 3–5.[^1]
 
 1. melléklet az 1819/2017. (XI. 8.) Korm. határozathoz
 
@@ -79,3 +71,5 @@
 | (1.) | (Felhívás azonosító jele) | (Projekt megnevezése) | (Szakmai elvárások) |
 
 | (86.) | (IKOP-3.2.0-15) | (A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utastájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése) | A projekttel szembeni szakmai elvárás a személyszállítási közszolgáltatás lebonyolításához, minőségellenőrzéséhez és optimalizálásához szükséges eszközök beszerzése és rendszerek kifejlesztése, úgymint központi rendszerek (jegyértékesítés, utazástervezés, utastájékoztatás, forgalomirányítás, menetrendtervezés, szolgáltatásmonitorozás), járműfedélzeti eszközök [járműkészülék (on board unit, OBU), validátor, ellenőri készülék] és megállóhelyi vagy állomási eszközök (jegykiadó automata). |
+
+[^1]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
