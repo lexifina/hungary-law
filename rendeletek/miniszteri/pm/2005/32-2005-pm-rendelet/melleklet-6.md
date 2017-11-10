@@ -1,6 +1,6 @@
 ## A távszerencsejáték szervező és az online kaszinójáték szervező havi gyakoriságú adatszolgáltatási kötelezettsége
 
-## I.[^287] Valamennyi játéktípus tekintetében az alábbi összesített adatok:
+## I.[^289] Valamennyi játéktípus tekintetében az alábbi összesített adatok:
 
 ## a) az adatszolgáltatással érintett időszak utolsó napján a játékosi egyenlegek kumulált összege,
 
@@ -80,7 +80,7 @@
 
 ## e) az adatszolgáltatási időszakban a játékban részt vevő játékosok száma.
 
-6. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^288]
+6. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^290]
 
-[^287]: Az 5. számú melléklet I. pontja a 30/2017. (X. 10.) NGM rendelet 8. § b) pontjával megállapított szöveg.
-[^288]: A 6. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 15. § c) pontja iktatta be.
+[^289]: Az 5. számú melléklet I. pontja a 30/2017. (X. 10.) NGM rendelet 8. § b) pontjával megállapított szöveg.
+[^290]: A 6. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 15. § c) pontja iktatta be.

@@ -40,7 +40,7 @@
 
 ## c) a belső ellenőrzések dokumentálásának módját,
 
-## d)[^275] a belső ellenőrzés során észlelt hibák, esetleges jogsértések kezelését, jegyzőkönyvbe vételét, valamint azonnali jelentését a szerencsejáték-felügyeleti hatóság részére,
+## d)[^277] a belső ellenőrzés során észlelt hibák, esetleges jogsértések kezelését, jegyzőkönyvbe vételét, valamint azonnali jelentését a szerencsejáték-felügyeleti hatóság részére,
 
 ## e) az alkalmazottak megfelelő képzési, oktatási rendszerét.
 
@@ -62,7 +62,7 @@
 
 ## 3. A szerverterembe kizárólag az engedélyezés során előzetesen írásban bejelentett személyek léphetnek be. A belépésről nyilvántartást kell vezetni, amely tartalmazza a belépő személyazonosító adatait, a belépés és távozás idejét és a belépés célját.
 
-## 4.[^276] A szerencsejáték-felügyeleti hatóság ellenőrzés céljából a szerverterembe felügyelettel és naplózott módon bármikor beléphet, a szerver működtetőjének biztosítania kell, hogy a szerver és a szerverterem ellenőrzése bármikor akadálymentesen megtörténhessen a géptermi beléptetés szabályainak megfelelően.
+## 4.[^278] A szerencsejáték-felügyeleti hatóság ellenőrzés céljából a szerverterembe felügyelettel és naplózott módon bármikor beléphet, a szerver működtetőjének biztosítania kell, hogy a szerver és a szerverterem ellenőrzése bármikor akadálymentesen megtörténhessen a géptermi beléptetés szabályainak megfelelően.
 
 ## 5. A szervert tartalék szerverrel kell ellátni, amely a szerver szoftver, vagy hardveregységeinek meghibásodása esetén azonnal rendelkezésre áll és automatikusan, adatvesztés nélkül folytatja a szerver működését. A szerverre alkalmazandó előírások a tartalék szerverre is megfelelően irányadóak.
 
@@ -104,7 +104,7 @@
 
 ## b) a szerver működtetője jogosult a szerveren elhelyezett öndiagnosztikai programok futtatására, a szerver állapotára vonatkozó adatok lekérdezésre, tűzfal és vírusvédelem más jogosultsági szinthez nem tartozó beállításainak elvégzésére.
 
-## 13.[^277] A szerencsejáték-felügyeleti hatóság akadálymentes hozzáférését és az adatok biztonságát garantáló szoftvert a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer működtetőjének kell biztosítania.
+## 13.[^279] A szerencsejáték-felügyeleti hatóság akadálymentes hozzáférését és az adatok biztonságát garantáló szoftvert a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer működtetőjének kell biztosítania.
 
 ## 14. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer részét képező valamennyi szervert olyan folyamatos üzemű felügyeleti rendszerrel kell monitorozni, amely képes minden kritikus interfész elem monitorozására. A felügyeleti rendszernek képesnek kell lennie eredményesen értesíteni a rendszeradminisztrátort az adott állapotról, illetve riasztást kell küldenie a működtetőnek a normális értékektől való eltérés esetén.
 
@@ -120,25 +120,25 @@
 
 ## 20. A tűzfal alkalmazásnak eseménynaplót kell vezetnie és az eseménynapló tárolására szolgáló háttértároló eszköz telítődését követően le kell tiltania minden kommunikációt, és hibaeseményt kell generálnia.
 
-## 21.[^278] A szerencsejáték-felügyeleti hatóság kivételével távoli hozzáférés kizárólag a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer távszerencsejáték vagy az online kaszinójáték szolgáltatást a játékosok felé biztosító részével valósítható meg olyan módszerrel, amely biztonságos kliens oldali, minősített hardver egységben tárolt kulcs segítségével, zárt csatornán összekapcsolja a rendszert és a hozzáférést kérőt. Nem számít távoli hozzáférésnek a zárt, dedikált kommunikációs csatornán keresztül megvalósuló hozzáférés. Ennek a biztonságos kapcsolatnak egyedileg be kell azonosítania a hozzáférést kérő távoli felhasználót és annak munkaállomását.
+## 21.[^280] A szerencsejáték-felügyeleti hatóság kivételével távoli hozzáférés kizárólag a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer távszerencsejáték vagy az online kaszinójáték szolgáltatást a játékosok felé biztosító részével valósítható meg olyan módszerrel, amely biztonságos kliens oldali, minősített hardver egységben tárolt kulcs segítségével, zárt csatornán összekapcsolja a rendszert és a hozzáférést kérőt. Nem számít távoli hozzáférésnek a zárt, dedikált kommunikációs csatornán keresztül megvalósuló hozzáférés. Ennek a biztonságos kapcsolatnak egyedileg be kell azonosítania a hozzáférést kérő távoli felhasználót és annak munkaállomását.
 
-## 22.[^279] A távoli hozzáférés és a működtetői operátori tevékenység munkafolyamatát automatikusan kell rögzíteni, amelyről megváltoztathatatlan eseménynaplót kell vezetnie, amely leírja az összes távoli hozzáférési információt, így különösen a belépési azonosítót, dátumot és időpontot, a végzett tevékenységet és a kapcsolat időtartamát. Lehetőséget kell biztosítani az elvégzett tevékenységek utólagos ellenőrzésére a megfelelő hardver kulccsal vagy azzal egyenértékű biztonsági szintű technológiával azonosított kiemelt felhasználók és a szerencsejáték-felügyeleti hatóság részére. Az auditáló berendezésnek biztosítania kell az egyes események gyors kikereshetőségét. Ha jogosulatlan hozzáférési kísérlet érkezik, a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek automatikus értesítést kell küldenie a rendszer működtetőjének.
+## 22.[^281] A távoli hozzáférés és a működtetői operátori tevékenység munkafolyamatát automatikusan kell rögzíteni, amelyről megváltoztathatatlan eseménynaplót kell vezetnie, amely leírja az összes távoli hozzáférési információt, így különösen a belépési azonosítót, dátumot és időpontot, a végzett tevékenységet és a kapcsolat időtartamát. Lehetőséget kell biztosítani az elvégzett tevékenységek utólagos ellenőrzésére a megfelelő hardver kulccsal vagy azzal egyenértékű biztonsági szintű technológiával azonosított kiemelt felhasználók és a szerencsejáték-felügyeleti hatóság részére. Az auditáló berendezésnek biztosítania kell az egyes események gyors kikereshetőségét. Ha jogosulatlan hozzáférési kísérlet érkezik, a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek automatikus értesítést kell küldenie a rendszer működtetőjének.
 
 ## 23. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer részét képező valamennyi engedélyezett játékprogramban a véletlenszerűség teljesülését a játék során biztosítani kell. A véletlenszerűen létrehozott adatoknak az algoritmus, illetve a generátor aktuális állapotának ismerete hiányában előre nem láthatónak és előre meg nem határozhatónak kell lenni. A létrehozott, illetve kiválasztott adatok nem lehetnek rekonstruálhatók. Az adatok kiválasztási, létrehozási módszerének lineárisnak kell lennie, a kiszámíthatóságot ki kell zárni. A játék kimenetelét, illetve az eredmények értelmezési módszerét a véletlenszám-generátor által létrehozott numerikus értéken kívüli egyéb tényező vagy körülmény nem befolyásolhatja.
 
 ## C) A távoli hozzáférés biztosítása
 
-## 1.[^280] Távoli hozzáférés keretében a szerencsejáték-felügyeleti hatóság részére legalább a 6. számú mellékletben felsorolt adatokhoz való hozzáférést kell biztosítani. Közös játékosi egyenleg vezetése esetén a 6. számú melléklet I. pont b)–f) alpontjában megjelölt adatokhoz való hozzáférést a közös játékosi egyenlegre vonatkoztatva kell biztosítani.
+## 1.[^282] Távoli hozzáférés keretében a szerencsejáték-felügyeleti hatóság részére legalább a 6. számú mellékletben felsorolt adatokhoz való hozzáférést kell biztosítani. Közös játékosi egyenleg vezetése esetén a 6. számú melléklet I. pont b)–f) alpontjában megjelölt adatokhoz való hozzáférést a közös játékosi egyenlegre vonatkoztatva kell biztosítani.
 
-## 2.[^281] A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek olyan szolgáltatást kell nyújtania, amely a szerencsejáték-felügyeleti hatóság részére naplózott távoli hozzáférésen keresztül lehetőséget biztosít a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer auditált elemei változatlanságának ellenőrzésére.
+## 2.[^283] A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek olyan szolgáltatást kell nyújtania, amely a szerencsejáték-felügyeleti hatóság részére naplózott távoli hozzáférésen keresztül lehetőséget biztosít a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer auditált elemei változatlanságának ellenőrzésére.
 
-## 3.[^282] A távoli hozzáférés keretében lehetővé kell tenni az adatok olvasását, kimásolását, az adatok egészéről, vagy egy részéről elektronikus másolat készítését és ezek biztonságos továbbítását a szerencsejáték-felügyeleti hatóság részére.
+## 3.[^284] A távoli hozzáférés keretében lehetővé kell tenni az adatok olvasását, kimásolását, az adatok egészéről, vagy egy részéről elektronikus másolat készítését és ezek biztonságos továbbítását a szerencsejáték-felügyeleti hatóság részére.
 
 ## 4. A szerveren az alábbi célokból hozzáférési jogosultságokat kell kialakítani:
 
-## a)[^283] A szerencsejáték-felügyeleti hatóság jogosult bármikor a helyszínen, vagy távoli hozzáféréssel a szerveren található adat, ellenőrzési napló, megtekintésére, lekérdezésére, ellenőrzésére. A hozzáférésnek lehetővé kell tennie az adatok ellenőrzési naplók, olvasását, másolását és a kimásolt adatok feldolgozását.
+## a)[^285] A szerencsejáték-felügyeleti hatóság jogosult bármikor a helyszínen, vagy távoli hozzáféréssel a szerveren található adat, ellenőrzési napló, megtekintésére, lekérdezésére, ellenőrzésére. A hozzáférésnek lehetővé kell tennie az adatok ellenőrzési naplók, olvasását, másolását és a kimásolt adatok feldolgozását.
 
-## b)[^284] A szerencsejáték-felügyeleti hatóság jogosult a távoli hozzáféréssel megtekintett adatokat a szervező által biztosított adatexportálási megoldással ellenőrzési célból felhasználni.
+## b)[^286] A szerencsejáték-felügyeleti hatóság jogosult a távoli hozzáféréssel megtekintett adatokat a szervező által biztosított adatexportálási megoldással ellenőrzési célból felhasználni.
 
 ## c) A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer működtetője jogosult távoli hozzáféréssel, jelszavas védelemmel és naplózással a kialakított távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer üzemeltetésére.
 
@@ -146,19 +146,19 @@
 
 ## 1. Amennyiben a játékügyletet vagy a játékosi egyenleget érintő jelentős hibaesemény következik be, a szervező köteles a tudomásszerzést követően haladéktalanul a hiba elhárítását megtenni. A hiba megszűnéséig a szervező köteles megakadályozni, hogy a játékosok játékügyleteket, valamint a játékosi egyenleget érintő tranzakciókat kezdeményezzenek, illetve teljesítsenek.
 
-## 2.[^285] A szervező az 1. pont szerinti hibaeseményről köteles a szerencsejáték-felügyeleti hatóságot a hibaesemény észlelését és megszüntetését követően is haladéktalanul értesíteni.
+## 2.[^287] A szervező az 1. pont szerinti hibaeseményről köteles a szerencsejáték-felügyeleti hatóságot a hibaesemény észlelését és megszüntetését követően is haladéktalanul értesíteni.
 
-5. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^286]
+5. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^288]
 
-[^275]: A 4. számú melléklet A) pont 9. alpont d) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^276]: A 4. számú melléklet B) pont 4. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
-[^277]: A 4. számú melléklet B) pont 13. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
-[^278]: A 4. számú melléklet B) pont 21. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
-[^279]: A 4. számú melléklet B) pont 22. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^280]: A 4. számú melléklet C) pont 1. alpontja a 30/2017. (X. 10.) NGM rendelet 8. § a) pontjával megállapított szöveg.
-[^281]: A 4. számú melléklet C) pont 2. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^282]: A 4. számú melléklet C) pont 3. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^283]: A 4. számú melléklet C) pont 4. alpont a) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § k) pontja szerint módosított szöveg.
-[^284]: A 4. számú melléklet C) pont 4. alpont b) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
-[^285]: A 4. számú melléklet D) pont 2. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.
-[^286]: Az 5. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 15. § b) pontja iktatta be.
+[^277]: A 4. számú melléklet A) pont 9. alpont d) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^278]: A 4. számú melléklet B) pont 4. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
+[^279]: A 4. számú melléklet B) pont 13. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
+[^280]: A 4. számú melléklet B) pont 21. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
+[^281]: A 4. számú melléklet B) pont 22. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^282]: A 4. számú melléklet C) pont 1. alpontja a 30/2017. (X. 10.) NGM rendelet 8. § a) pontjával megállapított szöveg.
+[^283]: A 4. számú melléklet C) pont 2. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^284]: A 4. számú melléklet C) pont 3. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^285]: A 4. számú melléklet C) pont 4. alpont a) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § k) pontja szerint módosított szöveg.
+[^286]: A 4. számú melléklet C) pont 4. alpont b) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
+[^287]: A 4. számú melléklet D) pont 2. alpontja a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.
+[^288]: Az 5. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 15. § b) pontja iktatta be.

@@ -1,6 +1,6 @@
 ## A pénznyerő automata és a játékautomata
 
-## típus- és hitelesítési vizsgálatának és a pénznyerő automata mérésügyi szerv általi kiolvasásának szempontjai[^262]
+## típus- és hitelesítési vizsgálatának és a pénznyerő automata mérésügyi szerv általi kiolvasásának szempontjai[^264]
 
 ## I. A pénznyerő automata típusvizsgálata esetén:
 
@@ -18,13 +18,13 @@
 
 ## f) az automata műszaki leírása.
 
-## 2–3.[^263]
+## 2–3.[^265]
 
 ## 4. Üzemképesség ellenőrzése:
 
 ## A pénznyerő automata rendeltetésszerű működésének ellenőrzése a kezelési útmutató és a működési leírás alapján.
 
-## 5.[^264]
+## 5.[^266]
 
 ## 6. Nyerési százalék (kifizetési hányad) meghatározása (I. kategóriába sorolt pénznyerő automatánál):
 
@@ -44,9 +44,9 @@
 
 ## c) a beépített akkumulátorok és a tárolt program vizsgálata,
 
-## d)[^265]
+## d)[^267]
 
-## e)[^266] a számlálók manipulálhatóságának vizsgálata.
+## e)[^268] a számlálók manipulálhatóságának vizsgálata.
 
 ## 9. Az érmeazonosító szerkezet és a kifizető egység ellenőrzése:
 
@@ -72,13 +72,13 @@
 
 ## A pénznyerő automatán elhelyezhető tanúsító jelek (a pénznyerő automatán folytatott játékot befolyásoló szerkezeti elemen elhelyezett tanúsító jel, mint az öntapadó matrica, plomba, egyéb) más tanúsító jelek megbontása nélküli ellenőrizhetőségének biztosítása.
 
-## 12.[^267] Egyéb részegységek (adatgyűjtő, jackpot vezérlő-egység stb.) típusvizsgálata:
+## 12.[^269] Egyéb részegységek (adatgyűjtő, jackpot vezérlő-egység stb.) típusvizsgálata:
 
 ## a) a részegység működésének vizsgálata,
 
 ## b) a pénznyerő automata működésére gyakorolt hatás vizsgálata.
 
-## 13.[^268] Vezérlőegység (a játékprogramot tartalmazó elektronikai egység) vizsgálata:
+## 13.[^270] Vezérlőegység (a játékprogramot tartalmazó elektronikai egység) vizsgálata:
 
 ## a) manipulálhatóság elleni védelem (pl. csatlakozófelületek, lezárhatóság),
 
@@ -90,7 +90,7 @@
 
 ## 1. A pénznyerő automata engedélyezett típusával való azonosság ellenőrzése.
 
-## 2–3.[^269]
+## 2–3.[^271]
 
 ## 4. Üzemképesség ellenőrzése.
 
@@ -102,30 +102,30 @@
 
 ## 8. Kezelő és kijelző egységek a játékos informálása.
 
-## 9.[^270] A részegységek típusazonossága és megfelelősége.
+## 9.[^272] A részegységek típusazonossága és megfelelősége.
 
-## 10.[^271] A vezérlőegység alaplapján az átkötési tilalom ellenőrzése.
+## 10.[^273] A vezérlőegység alaplapján az átkötési tilalom ellenőrzése.
 
 ## III. A játékautomata típusvizsgálata és hitelesítése
 
 ## A típusvizsgálat a készülék energiaellátásához kapcsolódó és a biztonságtechnikai vizsgálatokra, az üzemképesség ellenőrzésére és a játékprogramot tartalmazó vezérlőegység ellenőrzésére terjed ki. A hitelesítés az automata engedélyezett típusával való azonosság ellenőrzésére terjed ki.
 
-## IV–V.[^272]
+## IV–V.[^274]
 
-## VI.[^273]
+## VI.[^275]
 
-4. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^274]
+4. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^276]
 
-[^262]: A 3. számú melléklet címe a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^263]: A 3. számú melléklet I. rész 2–3. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja hatályon kívül helyezte.
-[^264]: A 3. számú melléklet I. rész 5. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja hatályon kívül helyezte.
-[^265]: A 3. számú melléklet I. rész 8. pont d) alpontját a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja hatályon kívül helyezte.
-[^266]: A 3. számú melléklet I. pont 8. pont e) alpontját a 16/2010. (IV. 28.) PM rendelet 16. § (1) bekezdése iktatta be.
-[^267]: A 3. számú melléklet I. részének 12. pontját a 19/2006. (VII. 31.) PM rendelet 37. § (1) bekezdése iktatta be.
-[^268]: A 3. számú melléklet I. pont 13. pontját a 16/2010. (IV. 28.) PM rendelet 16. § (2) bekezdése iktatta be.
-[^269]: A 3. számú melléklet II. rész 2–3. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja hatályon kívül helyezte.
-[^270]: A 3. számú melléklet II. részének 9. pontját a 19/2006. (VII. 31.) PM rendelet 37. § (2) bekezdése iktatta be.
-[^271]: A 3. számú melléklet II. pont 10. pontját a 16/2010. (IV. 28.) PM rendelet 16. § (3) bekezdése iktatta be.
-[^272]: A 3. számú melléklet IV–V. részét a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja hatályon kívül helyezte.
-[^273]: A 3. számú melléklet VI. részét a 15/2012. (VI. 28.) NGM rendelet 15. § (2) bekezdés 1. pontja iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja.
-[^274]: A 4. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 15. § a) pontja iktatta be.
+[^264]: A 3. számú melléklet címe a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^265]: A 3. számú melléklet I. rész 2–3. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja hatályon kívül helyezte.
+[^266]: A 3. számú melléklet I. rész 5. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja hatályon kívül helyezte.
+[^267]: A 3. számú melléklet I. rész 8. pont d) alpontját a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja hatályon kívül helyezte.
+[^268]: A 3. számú melléklet I. pont 8. pont e) alpontját a 16/2010. (IV. 28.) PM rendelet 16. § (1) bekezdése iktatta be.
+[^269]: A 3. számú melléklet I. részének 12. pontját a 19/2006. (VII. 31.) PM rendelet 37. § (1) bekezdése iktatta be.
+[^270]: A 3. számú melléklet I. pont 13. pontját a 16/2010. (IV. 28.) PM rendelet 16. § (2) bekezdése iktatta be.
+[^271]: A 3. számú melléklet II. rész 2–3. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja hatályon kívül helyezte.
+[^272]: A 3. számú melléklet II. részének 9. pontját a 19/2006. (VII. 31.) PM rendelet 37. § (2) bekezdése iktatta be.
+[^273]: A 3. számú melléklet II. pont 10. pontját a 16/2010. (IV. 28.) PM rendelet 16. § (3) bekezdése iktatta be.
+[^274]: A 3. számú melléklet IV–V. részét a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja hatályon kívül helyezte.
+[^275]: A 3. számú melléklet VI. részét a 15/2012. (VI. 28.) NGM rendelet 15. § (2) bekezdés 1. pontja iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § q) pontja.
+[^276]: A 4. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 15. § a) pontja iktatta be.

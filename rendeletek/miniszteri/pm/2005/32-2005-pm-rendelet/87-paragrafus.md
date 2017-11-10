@@ -14,7 +14,7 @@
 
 4. kombinált fogadás: több fogadási ajánlatra megköthető, egyetlen fogadás, amely akkor is nyertessé válik, ha az ebben szereplő fogadási ajánlatok közül egyesek nyertessé válnak. A kombinált fogadás annyi megkötött fogadásnak minősül, ahány fogadást a fogadónak annak érdekében kellene megtennie, hogy a teljes kombináció minden egyes elemére érvényes fogadással rendelkezzen;
 
-5.[^239] közös játékosi egyenleg: többfajta szerencsejáték szervezésére engedéllyel rendelkező szervező által vezetett, a játékos részére többfajta szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából vezetett játékosi egyenleg;
+5.[^241] közös játékosi egyenleg: többfajta szerencsejáték szervezésére engedéllyel rendelkező szervező által vezetett, a játékos részére többfajta szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából vezetett játékosi egyenleg;
 
 6. nyilvános húzás: az Szjtv. 23. §-ának (1) bekezdése alkalmazásában nyilvános húzás az a sorsolási esemény, amelynek helyszínét és időpontját az akció lebonyolítója előzetesen olyan módon hozza nyilvánosságra, hogy a termékvásárlás, illetve szolgáltatás igénybevétele folytán részt vevő játékosok azon részt tudjanak venni és az akció keretében kapott sorsjegyek kihúzását a helyszínen lévő közjegyző tanúsítja;
 
@@ -30,22 +30,22 @@
 
 12. alapdotáció: a játékkaszinó zsetonpénztára által az egyes játékasztalok kinyitásához biztosított zsetonállomány címletek, darabszám és érték szerinti meghatározása;
 
-13.[^240] próbajáték: a helyszíni ellenőrzés azon formája, amelynek keretében a szerencsejáték-felügyeleti hatóság jogszabályban előírt feladatainak ellátása érdekében vesz részt a szerencsejátékban, továbbá a mérésügyi szerv által a hitelesítési engedélyezés során lefolytatott vizsgálat és a pénznyerő automata szervizelése, javítása során a mérésügyi szerv jelenlétében lefolytatott vizsgálat;
+13.[^242] próbajáték: a helyszíni ellenőrzés azon formája, amelynek keretében a szerencsejáték-felügyeleti hatóság jogszabályban előírt feladatainak ellátása érdekében vesz részt a szerencsejátékban, továbbá a mérésügyi szerv által a hitelesítési engedélyezés során lefolytatott vizsgálat és a pénznyerő automata szervizelése, javítása során a mérésügyi szerv jelenlétében lefolytatott vizsgálat;
 
-14.[^241] hiteles naplózás: távszerencsejáték és az online kaszinójáték szervezés esetén az adatok olyan rögzítése, amely alapján minden kétséget kizáróan megállapítható annak előállítója, az előállító és az adat közötti kapcsolat, és az a tény, hogy az adat az előállítás óta változatlan maradt,
+14.[^243] hiteles naplózás: távszerencsejáték és az online kaszinójáték szervezés esetén az adatok olyan rögzítése, amely alapján minden kétséget kizáróan megállapítható annak előállítója, az előállító és az adat közötti kapcsolat, és az a tény, hogy az adat az előállítás óta változatlan maradt,
 
-15.[^242] zseton: értékzseton, színzseton, valamint az elektronikus zseton (ticket).
+15.[^244] zseton: értékzseton, színzseton, valamint az elektronikus zseton (ticket).
 
-16.[^243]
+16.[^245]
 
-17.[^244]
+17.[^246]
 
-18.[^245]
+18.[^247]
 
-[^239]: A 87. § 5. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja hatályon kívül helyezte, újonnan a 30/2017. (X. 10.) NGM rendelet 6. §-a iktatta be.
-[^240]: A 87. § 13. pontja a 32/2007. (XII. 21.) PM rendelet 25. §-ával megállapított, a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^241]: A 87. § 14. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 11. § (1) bekezdése iktatta be.
-[^242]: A 87. § 15. pontját újonnan a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja, újonnan a 49/2015. (XII. 30.) NGM rendelet 11. § (2) bekezdése iktatta be.
-[^243]: A 87. § 16. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
-[^244]: A 87. § 17. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
-[^245]: A 87. § 18. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
+[^241]: A 87. § 5. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja hatályon kívül helyezte, újonnan a 30/2017. (X. 10.) NGM rendelet 6. §-a iktatta be.
+[^242]: A 87. § 13. pontja a 32/2007. (XII. 21.) PM rendelet 25. §-ával megállapított, a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^243]: A 87. § 14. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 11. § (1) bekezdése iktatta be.
+[^244]: A 87. § 15. pontját újonnan a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja, újonnan a 49/2015. (XII. 30.) NGM rendelet 11. § (2) bekezdése iktatta be.
+[^245]: A 87. § 16. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
+[^246]: A 87. § 17. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
+[^247]: A 87. § 18. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.

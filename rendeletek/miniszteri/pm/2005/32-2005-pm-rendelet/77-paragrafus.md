@@ -32,6 +32,10 @@ b) az online kaszinójáték engedélyezéséért a játékkaszinó engedélyez�
 
 (8)[^227] A szervezőnek a távszerencsejáték játéktervétől való, 43. § (2)–(3) bekezdés szerinti ideiglenes eltérésre vonatkozó kérelem esetén 200 ezer forint igazgatási-szolgáltatási díjat kell fizetnie.
 
+(9)[^228] A szervezőnek a távszerencsejáték és online kaszinójáték játékterve 29. § (3) bekezdése szerinti módosításának jóváhagyására vonatkozó kérelem esetén 21 500 forint igazgatási-szolgáltatási díjat kell fizetnie.
+
+(10)[^229] Kizárólag a közös játékosi egyenleg kialakításához szükséges játékterv módosítása iránti eljárásért a szervező kérelmenként 6500 forint igazgatási-szolgáltatási díjat fizet.
+
 [^219]: A 76. § a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
 [^220]: A játékterv-módosítás igazgatási-szolgáltatási díjának megfizetésére lásd a 40/2008. (XII. 31.) PM rendelet 10. § (4) bekezdését.
 [^221]: A 77. § (3) bekezdése a 19/2006. (VII. 31.) PM rendelet 33. § (1) bekezdésével megállapított szöveg.
@@ -41,3 +45,5 @@ b) az online kaszinójáték engedélyezéséért a játékkaszinó engedélyez�
 [^225]: A 77. § (6) bekezdését a 7/2013. (III. 1.) NGM rendelet 1. §-a iktatta be, záró szövegrésze a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.
 [^226]: A 77. § (7) bekezdését a 49/2015. (XII. 30.) NGM rendelet 9. §-a iktatta be.
 [^227]: A 77. § (8) bekezdését a 49/2015. (XII. 30.) NGM rendelet 9. §-a iktatta be.
+[^228]: A 77. § (9) bekezdését a 30/2017. (X. 10.) NGM rendelet 5. §-a iktatta be.
+[^229]: A 77. § (10) bekezdését a 30/2017. (X. 10.) NGM rendelet 5. §-a iktatta be.
