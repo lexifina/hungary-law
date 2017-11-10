@@ -20,6 +20,8 @@ e) javaslatot tesz a Kormány számára az a)–b) pont szerinti fejlesztések k
 
 6. A Kormány felhívja az irányítása alatt álló szerveket, intézményeket, hogy az általános együttműködési kötelezettség keretében a kormánybiztos feladatának ellátásához szükséges adatokat, információkat, elemzéseket bocsássák a kormánybiztos rendelkezésére.
 
-7. Hatályát veszti a közlekedési infrastrukturális fejlesztésekért felelős kormánybiztos kinevezéséről és feladatairól szóló 1345/2016. (VII. 6.) Korm. határozat.
+7.[^1]
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
