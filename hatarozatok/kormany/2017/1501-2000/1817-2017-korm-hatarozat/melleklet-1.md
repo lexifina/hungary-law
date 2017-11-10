@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:478 mezőjében az „1,20” szövegrész helyébe a „2,70” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1817/2017. (XI. 8.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, Ft) | Többlettámogatás legfeljebb (bruttó, Ft) | Megnövelt támogatás legfeljebb (bruttó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-5.2.2-16- 2016-00104 | Kiemelt épületenergetikai fejlesztések a Somogy Megyei Kormányhivatalnál | Somogy Megyei Kormányhivatal | 1 200 000 000 | 1 500 000 000 | 2 700 000 000 | A projekt keretében 18 helyszínen, 18 épület energetikai felújítása valósul meg (hőszigetelés, nyílászárócsere, gépészet korszerűsítése). |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veszettte.
