@@ -182,11 +182,11 @@
 
 | Partner: | Klebelsberg Intézményfenntartó Központ |
 
-| Forrás: | modellprogram készítése és tesztelése 9,5 millió forint, képzések tartása évente 10 millió forint, NBT költségvetés |
+| Forrás: | modellprogram készítése és tesztelése 9,5 millió forint, képzések tartása évente 15 millió forint, NBT költségvetés |
 
 | Eszköz: | modellprogram készítése, képzések |
 
-| Határidő: | modellprogram kidolgozása és tesztelése 2016. december 31., modellprogram bevezetése 2017. december 31. |
+| Határidő: | modellprogram kidolgozása és tesztelése 2016. december 31., modellprogram bevezetése 2019. december 31., majd azt követően folyamatos |
 
 | Indikátor: | modellprogram, kiképzett trénerek, bevont kortársak száma |
 
@@ -220,7 +220,7 @@
 
 | Partner: | a fogyatékossággal élőket segítő állami szervek és civil szervezetek |
 
-| Forrás: | évente 2 millió forint, NBT költségvetés |
+| Forrás: | évente 5 millió forint, NBT költségvetés |
 
 | Eszköz: | modellprogram kidolgozása, működtetése |
 
@@ -348,7 +348,7 @@
 
 | Felelős: | NBT |
 
-| Partner: | Miniszterelnökség |
+| Partner: | Belügyminisztérium |
 
 | Forrás: | évente 130 millió forint, NBT költségvetés |
 
@@ -372,7 +372,7 @@
 
 | Eszköz: | feltérképezés lebonyolítása |
 
-| Határidő: | 2016. december 31. |
+| Határidő: | 2017. december 31. |
 
 | Indikátor: | a feltérképezés eredményeinek publikálása |
 
@@ -386,7 +386,7 @@
 
 | Partner: | – |
 
-| Forrás: | 2016-ban 20 millió forint, NBT költségvetés |
+| Forrás: | igény szerint |
 
 | Eszköz: | mobil applikáció |
 
@@ -396,4 +396,4 @@
 
 | NBS kapcsolódás: | 8.5. Horizontális intézkedések |
 
-[^1]: A 2. melléklet az 1853/2016. (XII. 27.) Korm. határozat 75. pontja szerint módosított szöveg.
+[^1]: A 2. melléklet az 1853/2016. (XII. 27.) Korm. határozat 75. pontja, az 1838/2017. (XI. 9.) Korm. határozat 4. pontja szerint módosított szöveg.
