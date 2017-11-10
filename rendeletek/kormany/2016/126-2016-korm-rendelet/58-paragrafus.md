@@ -24,8 +24,8 @@ j) véleményezi az Európai Bizottság ellenőrzéseiben felvetett kérdésekre
 
 k) gondoskodik az Európai Bizottság audit hatósági tevékenység hatékonyságát vizsgáló ellenőrzései által felvetett kérdésekre adandó tagállami válaszok kialakításáról, a szükséges tárgyalások lefolytatásáról.
 
-(2)[^77] Az audit hatóság az 1. § c), e) és f) pontja szerinti együttműködési program esetén – megállapodás alapján – elláthatja az (1) bekezdés szerinti ellenőrzési feladatokat.
+(2)[^80] Az audit hatóság az 1. § c), e) és f) pontja szerinti együttműködési program esetén – megállapodás alapján – elláthatja az (1) bekezdés szerinti ellenőrzési feladatokat.
 
 (3) Az audit hatóság az (1) bekezdés szerinti feladatait az Európai Bizottság által meghatározott, valamint a nemzetközileg elfogadott audit standardok alapján látja el.
 
-[^77]: Az 58. § (2) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 21. pontja szerint módosított szöveg.
+[^80]: Az 58. § (2) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 21. pontja szerint módosított szöveg.

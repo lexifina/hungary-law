@@ -34,7 +34,9 @@ f) a megelőlegezés indokainak részletes, számszerűsített bemutatását.
 
 (5) A nem központi költségvetési szerv hazai kedvezményezett köteles a 4. § (6) bekezdése szerinti biztosítékok közül legalább egy biztosíték meglétét igazolni a hitelesítési tevékenységre kijelölt szervezet részére.
 
-(6)[^43] A hétszázezer eurót meghaladó uniós támogatástartalmú projektrésszel rendelkező hazai kedvezményezettnek az államháztartásért felelős miniszter előzetes egyetértésével nyújtható megelőlegezés.
+(6)[^43] Az államháztartásért felelős miniszter egyetértésével biztosítható hétszázezer eurót meghaladó összegű megelőlegezés.
+
+(7)[^44] A (6) bekezdést kell alkalmazni akkor is, ha a megelőlegezés teljes összege a megelőlegezési szerződés módosítása következtében haladná meg a (6) bekezdés szerinti összeget.
 
 [^37]: A 8. § (1) bekezdése a 116/2017. (V. 19.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^38]: A 8. § (1a) bekezdését a 116/2017. (V. 19.) Korm. rendelet 6. § (1) bekezdése iktatta be.
@@ -42,4 +44,5 @@ f) a megelőlegezés indokainak részletes, számszerűsített bemutatását.
 [^40]: A 8. § (3) bekezdés a) pontja a 116/2017. (V. 19.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^41]: A 8. § (3) bekezdés b) pont nyitó szövegrésze a 116/2017. (V. 19.) Korm. rendelet 11. § 7. pontja szerint módosított szöveg.
 [^42]: A 8. § (3a) bekezdését a 116/2017. (V. 19.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^43]: A 8. § (6) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 12. pontja szerint módosított szöveg.
+[^43]: A 8. § (6) bekezdése a 335/2017. (XI. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^44]: A 8. § (7) bekezdését a 335/2017. (XI. 9.) Korm. rendelet 1. §-a iktatta be.

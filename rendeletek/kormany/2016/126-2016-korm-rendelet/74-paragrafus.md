@@ -1,4 +1,4 @@
-## is alkalmazni kell.
+## 73/B. §[^85] E rendeletnek a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap és az Előcsatlakozási Támogatási Eszköz egyes, határon átnyúló együttműködési programjainak végrehajtásáról szóló 126/2016. (VI. 7.) Korm. rendelet módosításáról szóló 335/2017. (XI. 9.) Korm. rendelettel (a továbbiakban: Módr.2) módosított 9. § (6) bekezdését a Módr.2 hatálybalépése[^86] előtt megkötött megelőlegezési szerződésekre is alkalmazni kell.
 
 ## 74. § Ez a rendelet
 
@@ -13,3 +13,6 @@ d) az IPA II Előcsatlakozási Támogatási Eszköz létrehozásáról szóló, 
 e) az IPA II Előcsatlakozási Támogatási Eszköz létrehozásáról szóló 231/2014/EU európai parlamenti és tanácsi rendelet végrehajtásának egyedi szabályairól szóló, 2014. május 2-i 447/2014/EU bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^85]: A 73/B. §-t a 335/2017. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^86]: A hatálybalépés iőpontja 2017. november 10.

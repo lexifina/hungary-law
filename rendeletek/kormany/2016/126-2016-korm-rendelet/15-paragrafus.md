@@ -1,4 +1,4 @@
-15. §[^57] (1) A hitelesítési tevékenységre kijelölt szervezet a már kifizetett, de szabálytalanul felhasznált vagy fel nem használt hazai társfinanszírozás visszakövetelése érdekében a hazai kedvezményezett részére visszafizetési felszólítást küld meg.
+15. §[^60] (1) A hitelesítési tevékenységre kijelölt szervezet a már kifizetett, de szabálytalanul felhasznált vagy fel nem használt hazai társfinanszírozás visszakövetelése érdekében a hazai kedvezményezett részére visszafizetési felszólítást küld meg.
 
 (2) Ha az (1) bekezdés szerinti intézkedés nem vezet eredményre, a hitelesítési tevékenységre kijelölt szervezet az (1) bekezdés szerinti követelés behajtása érdekében érvényesíti a támogatási szerződésben meghatározott biztosítékot.
 
@@ -6,4 +6,4 @@
 
 (4) Ha a (3) bekezdés szerinti eljárás sem vezet eredményre, és a hazai kedvezményezett a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 3. § (1) bekezdés b) pontja szerinti adósnak minősül, a hitelesítési tevékenységre kijelölt szervezet a kedvezményezettel szemben felszámolási eljárást kezdeményez.
 
-[^57]: A 15. § a 116/2017. (V. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^60]: A 15. § a 116/2017. (V. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
