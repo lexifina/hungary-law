@@ -806,7 +806,7 @@ B. Az építészeti eszközökkel segített bűnmegelőzést végző szakemberek
 
 | Eszköz: | tananyagfejlesztés, tantervmódosítás |
 
-| Határidő: | 2017. december 31. |
+| Határidő: | 2018. december 31. |
 
 | Indikátor: | tananyagok, módosított tantervek |
 
@@ -822,9 +822,41 @@ C. Az építészeti eszközökkel segített bűnmegelőzéshez kapcsolódó jogs
 
 | Eszköz: | jogszabályalkotás |
 
-| Határidő: | 2017. december 31. |
+| Határidő: | 2018. december 31. |
 
 | Indikátor: | módosított jogszabályok |
+
+D. Az építészeti eszközökkel segített bűnmegelőzést népszerűsítő kiadványok
+
+| Intézkedés: | Különféle célcsoportok számára népszerűsítő, közérthető kiadványok, nyomdakész és online statikus kiadványok előállítása, ezáltal biztosítva, hogy a területen tevékenykedő szakemberek, a lakosság és a vállalkozók megismerjék az építészeti eszközökkel segített bűnmegelőzés lehetőségeit. |
+
+| Felelős: | Lechner Tudásközpont |
+
+| Partner: | NBT |
+
+| Forrás: | 10 millió forint, NBT költségvetés |
+
+| Eszköz: | ismeretterjesztőanyag-fejlesztés, online és offline terjesztés |
+
+| Határidő: | 2018. december 31. |
+
+| Indikátor: | ismeretterjesztő nyomdakész kiadványok, online felület |
+
+E. Az építészeti eszközökkel segített bűnmegelőzéshez kapcsolódó online felület interaktív tartalommal való bővítése
+
+| Intézkedés: | Ki kell dolgozni az építészeti eszközökkel segített bűnmegelőzési ajánlásokra alapozott interaktív oktatóanyagot, mely közérthető módon, 3D ábrákkal teszi érthetővé a különféle helyzetekre alkalmazható ajánlásokat. |
+
+| Felelős: | Lechner Tudásközpont |
+
+| Partner: | NBT |
+
+| Forrás: | 8 millió forint, NBT költségvetés |
+
+| Eszköz: | interaktív oktatóanyag online felületen |
+
+| Határidő: | 2018. május 31. |
+
+| Indikátor: | interaktív online felület |
 
 8.1.3. Külterületeken élő biztonságának fokozása
 
@@ -838,21 +870,7 @@ A jelentős kiterjedésű tanyavilággal bíró területeken eljáró rendőr-f�
 
 Intézkedések:
 
-A. A külterületeken, elnéptelenedő falvakban élők sérelmére elkövetett jogsértések visszaszorítása
-
-| Intézkedés: | Napjaink rendészeti tevékenysége a külterületen túl, az elnéptelenedő apró- vagy törpefalvakban élő veszélyeztetett célcsoportokra (korra, egészségügyi, szociális státusza miatt rossz mentális és fizikai állapotban lévő vagy egyedül élő személyek) is fókuszál. A sérelmükre elkövetett jogsértések értékelő-elemzése alapján visszaszorításukra gyors, hatékony védekezési mechanizmusokat kell kidolgozni, alkalmazni. Az érintettek biztonságérzetének növelése érdekében ki kell alakítani, illetve ahol már van, ott a már meglévő fejlesztését, hatékonyabbá tételét, vagy más lehetőségeket is meg kell vizsgálni a gyors, 24 órás információáramlás formájának kialakítására, működtetésére. E civil hírlánc nagymértékben elősegítheti a mihamarabbi és megfelelő segítségnyújtást. |
-
-| Felelős: | rendőrség |
-
-| Partner: | ME, EMMI, BM, NBT, önkormányzatok, polgárőrség |
-
-| Forrás: | 2014-ben 20 millió forint, 2015-ben 10 millió forint, 2016-tól évente 20 millió forint, NBT költségvetés |
-
-| Eszköz: | ellenőrzés fokozása, elemző-értékelő munka, kommunikációs eszközök |
-
-| Határidő: | 2014-től folyamatos |
-
-| Indikátor: | bűnügyi helyzet, feltárt esetek elemzése, biztonságtechnikai eszközök száma |
+A.
 
 B. A veszélyeztetett területeken biztosítani kell a rendszeres rendőri, polgárőri jelenlétet
 
@@ -884,53 +902,25 @@ Az összes ismertté vált deliktum meghatározó részét évek óta a vagyon e
 
 Intézkedések:
 
-A. Csökkenteni kell lopás deliktumok előfordulását
+A. A lopás, a garázdaság, az erőszakos jellegű jogsértések, illetve a trükkös csalás bűncselekményeinek visszaszorítása
 
-| Intézkedés: | A jogsértések legnagyobb halmazát kitevő vagyon elleni bűnözés szerkezete a lopások dominanciáját mutatja. A lopások elkövetési módszereit tekintve közel a felét az alkalmi lopások teszik ki. Ezt követően kiemelkedő hányadot képeznek a dolog elleni erőszakkal elkövetett lopások, amelyek struktúrájában mind előfordulásuk, mind az állampolgárok megítélése szempontjából előkelő helyet foglalnak el a lakásbetörések. Visszaszorításuk érdekében a jogsértéseket vizsgálva, válaszokat kapunk azokra a kriminalisztikai alapkérdésekre, amelyek alapján megelőzésükre adekvát válaszok dolgozhatók ki. Ennek érdekében feltáró, elemző-értékelő vizsgálatot kell végezni a lopások elterjedtségéről kriminalisztikai jellemzőik alapján és ezekre figyelemmel, megelőzési módszereket, praktikákat kell kidolgozni visszaszorításukra. A rendőrség e tevékenységben résztvevő bűnügyi és rendészeti szakembereinek szakmai továbbképzését biztosítani kell. Indokolt az eredmények figyelemfelhívó tájékoztató anyagok formájában történő terjesztése. Kiemelt figyelmet kell fordítani az időskorúak sérelmére elkövetett lopások megelőzésére. |
-
-| Felelős: | rendőrség |
-
-| Partner: | NBT |
-
-| Forrás: | minden tárgyévben 500.000 forint (szóróanyag), 1.000.000 forint (képzés) NBT költségvetés |
-
-| Eszköz: | jogsértések körülményeivel kapcsolatos tényezők feltárása, kommunikáció |
-
-| Határidő: | 2014-ben, majd 2016-tól folyamatosan |
-
-| Indikátor: | értékelő jelentés, prevenciós szóróanyag |
-
-B. A közterületen leginkább előforduló garázda, erőszakos jellegű jogsértések visszaszorítása
-
-| Intézkedés: | A közterületek biztonságát, ezáltal az állampolgárok biztonságérzetét is nagymértékben befolyásolja a garázda, erőszakos jellegű (testi sértés, garázdaság, rongálás, kifosztás, rablás) elkövetési magatartások. E bűncselekmények kriminalisztikai jellemzői vizsgálatának eredményeit felhasználva tájékoztatással, praktikák, módszerek, metodikák kialakításával, biztonságtechnikai eszközök ajánlásával növelni kell az állampolgárok önvédelmi képességét. Ennek érdekében feltáró, elemző-értékelő vizsgálatot kell végezni a közterületen leginkább megvalósuló garázda, erőszakos jellegű jogsértésekről kriminalisztikai jellemzőik alapján. A rendőrség e tevékenységben résztvevő bűnügyi és rendészeti szakembereinek szakmai továbbképzését biztosítani kell. A megelőzési módszereikről figyelemfelhívó tájékoztató anyagokat kell készíteni, és terjeszteni visszaszorításuk érdekében. |
+| Intézkedés: | A jogsértések legnagyobb halmazát kitevő vagyon elleni bűnözés szerkezete a lopások dominanciáját mutatja. A statisztikai mutatókon túl azonban figyelemmel kell lenni azokra a bűncselekményekre is, amelyek az állampolgárok szubjektív biztonságérzetét leginkább befolyásolják. Ezek közül kiemelkedő helyet foglalnak el a garázda és erőszakos jellegű bűncselekmények, valamint a trükkös csalások. Visszaszorításuk érdekében szükséges a megjelölt jogsértések vizsgálata, amelyek révén megelőzésükre adekvát válaszok dolgozhatók ki. Ennek érdekében feltáró, elemző-értékelő vizsgálatot kell végezni a megjelölt deliktumok elterjedtségéről kriminalisztikai jellemzőik alapján, és ezekre figyelemmel, megelőzési módszereket, praktikákat kell kidolgozni a visszaszorításukra. A rendőrség e tevékenységben részt vevő bűnügyi és rendészeti szakembereinek szakmai továbbképzését biztosítani kell. |
 
 | Felelős: | rendőrség |
 
 | Partner: | NBT |
 
-| Forrás: | minden tárgyévben 500.000 forint (szóróanyag), 1.000.000 forint (képzés) NBT költségvetés |
+| Forrás: | 3 millió forint, NBT költségvetés |
 
-| Eszköz: | jogsértések körülményeivel kapcsolatos tényezők feltárása, szóróanyagok, kommunikáció, szakemberképzés |
+| Eszköz: | képzések |
 
-| Határidő: | 2014-ben, majd 2016-tól folyamatosan |
+| Határidő: | folyamatos |
 
-| Indikátor: | bűnügyi helyzet, prevenciós szóróanyag |
+| Indikátor: | képzettek száma |
 
-C. Az ún. trükkös módszerrel elkövetett csalás, illetve lopás deliktumok visszaszorítása
+B.
 
-| Intézkedés: | A veszélyeztetett célcsoportok sértetté válásának megelőzése érdekében olyan értékelő-elemzésen alapuló prevenciós programot kell kialakítani, amely révén e jogsértések visszaszoríthatóak. A rendőrség e tevékenységben résztvevő bűnügyi és rendészeti szakembereinek szakmai továbbképzését biztosítani kell. A kriminalisztikai jellemzőik figyelembevételével megelőzési módszereikről figyelemfelhívó, tájékoztató anyagokat kell készíteni és terjeszteni. |
-
-| Felelős: | rendőrség |
-
-| Partner: | NBT |
-
-| Forrás: | minden tárgyévben 500.000 forint (szóróanyag), 1.000.000 forint (képzés) NBT költségvetés |
-
-| Eszköz: | jogsértések körülményeivel kapcsolatos tényezők feltárása, kommunikáció, szakemberképzés |
-
-| Határidő: | 2014-ben, majd 2016-tól folyamatosan |
-
-| Indikátor: | bűnügyi helyzet, prevenciós szóróanyag |
+C.
 
 D. Bűnmegelőzési Centrum kialakítása, teszteléses működtetése
 
@@ -956,7 +946,7 @@ E. Mobil Bűnmegelőzési Centrum kialakítása, teszteléses működtetése
 
 | Partner: | BM, NGM, NFM, NBT, polgárőrség, érintett kamarák, civil szervezetek, gazdasági társaságok |
 
-| Forrás: | az első évben 30 millió forint, azt követően évente 5 millió forint, NBT költségvetés |
+| Forrás: | az első évben 30 millió forint, azt követően évente 9 millió forint, NBT költségvetés |
 
 | Eszköz: | 3 db kisteherautó egységes kialakítása, felszerelése, kommunikáció, tájékoztatók, szakemberképzés |
 
@@ -1010,7 +1000,7 @@ Beavatkozási területek:
 
 - A média és az internet veszélyei.
 
-8.2.1. Megelőző vagyonvédelem
+8.2.1. Gyermek- és ifjúságvédelmi programok az oktatásban
 
 A személyes biztonságunkért, illetve tárgyaink biztonságáért elsősorban mi magunk vagyunk a felelősök. Elengedhetetlen, hogy a felnövekvő nemzedéknek átadjuk azokat az információkat, amelyekkel megelőzhetjük az áldozattá illetve az elkövetővé válásukat. A gyermekek és fiatalok pedig főképpen az életkoruk és testi erejük, tudatosságuk hiányában könnyebben válhatnak vagyon elleni bűncselekmény áldozatává és elkövetőjévé.
 
@@ -1026,7 +1016,7 @@ A. Iskolai prevenciós programok – a DADA és ELLEN-SZER programok működtet�
 
 | Partner: | EMMI |
 
-| Forrás: | évente 5 millió forint, NBT költségvetés |
+| Forrás: | évente 3 millió forint, NBT költségvetés |
 
 | Eszköz: | DADA és ELLEN-SZER programok iskolai megvalósítása, iskolai oktatások, pedagógusképzések tartása, DADA és ELLEN-SZER oktatók képzése, tananyagfejlesztés |
 
@@ -1052,21 +1042,7 @@ C. A pedagógusok és gyermekvédelmi felelősök bűnmegelőzési továbbképz�
 
 | Indikátor: | megtartott képzések száma, kiképzett oktatók száma, elkészített tananyag |
 
-D. A bűnmegelőzés integrálása a családi és iskolai napok rendezvényeinek programjába, a szociális és gyermekjóléti ellátórendszerben folyó programokba
-
-| Intézkedés: | Erősíteni kell a szülők és a tanárok együttműködését a színterek egymást erősítő hatásának fokozása érdekében. Törekedni kell arra, hogy a helyi illetékes rendőrkapitányság népszerűsítse a bűnmegelőzést az iskolai családi napokon, rendezvényeken. |
-
-| Felelős: | rendőrség |
-
-| Partner: | egyházak, civil iskolafenntartók, KLIK |
-
-| Forrás: | nem igényel többletforrást |
-
-| Eszköz: | családi napok, játékos vetélkedők tartása |
-
-| Határidő: | a 2013–2014-es tanévtől folyamatosan |
-
-| Indikátor: | megtartott családi napok száma, a családi napon megjelent résztvevők száma |
+D.
 
 E. A hazai jó gyakorlatok összegyűjtése és népszerűsítése a gyermek- és ifjúságvédelem területén
 
@@ -1092,21 +1068,7 @@ A. A testnevelő tanárok és edzők bűnmegelőzési továbbképzésének bevez
 
 | Indikátor: | képzési anyag, továbbképzés |
 
-B. A bűnmegelőzés beemelése az állami, egyházi és önkormányzati gyermektáborok programjaiba
-
-| Intézkedés: | Az állam és az önkormányzatok által (rész)finanszírozott gyermektáborok programjába kötelezően fel kell venni a bűnmegelőzési ismeretek oktatását, a bűnmegelőzésben fontos attitűdök és szociális kompetenciák fejlesztését. A civil szervezeteket és egyházakat ösztönözni kell arra, hogy az önálló szervezésű rendezvényeikbe is beépüljenek a bűnmegelőzési programelemek. |
-
-| Felelős: | EMMI |
-
-| Partner: | rendőrség, KLIK, egyházak, önkormányzatok, SZGYF, NBT |
-
-| Forrás: | nem igényel többletforrást |
-
-| Eszköz: | bűnmegelőzési táborokban játékos vetélkedők, élménypedagógiás programok rendezése |
-
-| Határidő: | 2014-től folyamatosan |
-
-| Indikátor: | bűnmegelőzési foglalkozások száma a nyári táborokban |
+B.
 
 C. Az időskorúak aktív bevonásának vizsgálata
 
@@ -1198,19 +1160,19 @@ C. Iskolai mediátorok képzése
 
 D. A család védelmi funkciójának növelése
 
-| Intézkedés: | Ki kell alakítani a szülői felelősség hatékonyabb és konkrétabb számon kérhetőségének rendjét a családtámogatási rendszeren belül. Egy szakemberekből álló munkacsoport keretei között meg kell vizsgálni azokat a szükséges jogszabály-módosításokat, amelyeken keresztül elérhető a család védelmi funkciójának növelése, a gyermekek veszélyeztetésének csökkentése. Meg kell vizsgálni továbbá, hogyan biztosítható helyi önkormányzati szinten a szülők képzésének, továbbképzésének intézményrendszere. |
+| Intézkedés: | A család mint a társadalom legalapvetőbb alkotóegysége a szocializáció elsődleges színtere is. Kiemelt jelentősége van az értékközvetítésben, ezért fontos, hogy a családok védelmi funkcióját növeljük. Ehhez sok esetben szükségük van külső segítségre, amelyet leginkább azoktól a szervektől és szervezetektől kaphatnak meg, amelyek a helyi problémákkal és sajátosságokkal tisztában vannak. Ennek érdekében szükséges azoknak a szerveknek és szervezeteknek a kiválasztása, amelyek képesek a megfelelő tanácsokkal és segítséggel ellátni az arra rászoruló családokat. |
 
-| Felelős: | EMMI, IM, BM, SZGYF |
+| Felelős: | NBT |
 
-| Partner: | rendőrség, NBT, CSINI, OBDK |
+| Partner: | EMMI, SZGYF |
 
-| Forrás: | évente 30 millió forint, NBT költségvetés |
+| Forrás: | 30 millió forint, NBT költségvetés |
 
-| Eszköz: | munkacsoport működtetése, feladatterv |
+| Eszköz: | képzések és programok |
 
-| Határidő: | 2016-tól folyamatos |
+| Határidő: | folyamatos |
 
-| Indikátor: | munkacsoport üléseinek száma, kidolgozott intézkedések száma, megvalósított intézkedések száma |
+| Indikátor: | résztvevők száma |
 
 8.2.4. Szenvedélybetegségek megelőzése, alkohol- és drogprevenció
 
@@ -1224,7 +1186,7 @@ A. Szórakozóhely-ellenőrzések fokozása
 
 | Intézkedés: | A kábítószer-fogyasztás és a 18 év alattiak alkoholfogyasztásának visszaszorítása érdekében szigorítani kell a szórakozóhelyekkel, vendéglátóipari egységekkel szembeni fellépést, fokozni kell a szórakozóhelyek és környékének ellenőrzését. |
 
-| Felelős: | EMMI, IM, BM, NGM, NAV |
+| Felelős: | NBT |
 
 | Partner: | rendőrség, polgárőrség |
 
@@ -1278,19 +1240,19 @@ Intézkedések:
 
 A. Biztonságos internethasználat
 
-| Intézkedés: | El kell juttatni a fiatalokhoz a biztonságos média és internethasználathoz szükséges információkat. |
+| Intézkedés: | A XXI. század társadalmának mindennapjait alapjaiban határozza meg a számítástechnika, azon belül is a világháló. Az internet nagyszerű lehetőségeket biztosít a használók számára, a felgyorsult világban lehetővé teszi az információk gyors és széles körű áramlását. Az internet előnyei azonban nem megfelelő használat esetén könnyen jelenthetnek hátrányt, követhetünk el bűncselekményt, vagy válhatunk bűncselekmény áldozatává. Erre figyelemmel szükséges az állampolgárok figyelmének felhívása, minél szélesebb körű, korszerű és naprakész tájékoztatása. |
 
-| Felelős: | rendőrség |
+| Felelős: | NBT |
 
-| Partner: | EMMI, NMHH, NBT |
+| Partner: | EMMI, NMHH, rendőrség |
 
-| Forrás: | nem igényel többletforrást |
+| Forrás: | – |
 
-| Eszköz: | DADA és ELLEN-SZER programok, iskolai előadások tartása, internet, közösségi oldalak |
+| Eszköz: | honlap, kis- és oktatófilm |
 
 | Határidő: | folyamatos |
 
-| Indikátor: | elért fiatalok száma |
+| Indikátor: | elértek száma |
 
 B. a Bűvösvölgy médiaértés-oktató központ oktatási tematikájának bővítése bűnmegelőzési témákkal
 
@@ -1342,69 +1304,27 @@ Az időskorúak védekezési képessége leginkább azzal növelhető, ha az ál
 
 Intézkedések:
 
-A. Mérni kell a rendőrség áldozattá válás megelőzési kockázatközpontú módszertanának érvényesülését
+A.
 
-| Intézkedés: | A rendőrség bűnmegelőzési tevékenységéről szóló 20/2010 (OT. 10.) ORFK utasítás 36. pontja értelmében az ORFK Bűnmegelőzési Osztálya a kiemelt kockázatú csoportok áldozattá válásának megelőzésére módszertani útmutatót dolgozott ki. Országosan mindenütt meg kell vizsgálni az utasítás 36. pontjának és a hozzá kidolgozott módszertannak az érvényesülését és a végrehajtás hatékonyságát. A vizsgálatról évente jelentést kell készíteni. |
+B.
 
-| Felelős: | rendőrség |
+C.
 
-| Partner: | BM, NBT |
+D. Időskorúak áldozattá válásának csökkentését célzó intézkedések
 
-| Forrás: | nem igényel többletforrást |
+| Intézkedés: | Tekintettel arra, hogy az időskorúak jóhiszeműségükből és naivitásukból fakadóan veszélyeztetett csoportot képeznek, így szükséges képzések szervezése az idősek ellátásában, védelmében érintett állami és civil szervezetek szakembereinek (rendőrség, szociális munkások, jelzőrendszeres diszpécserszolgálatokon dolgozók, tanyagondnokok), hogy képessé váljanak szakszerű áldozattáválás-megelőzési információk átadására az időskorúak számára. A megszerzett tudás átadását kell szorgalmazni az idősotthonokban, idősek napközijében; az időskorúak védekezési képességének növelése érdekében előadások, foglalkozások tartása, a sértetté váláshoz vezető körülmények, az elkövetési módszerek és a megelőzési lehetőségek megismertetése a célcsoport tagjaival. |
 
-| Eszköz: | felülvizsgálat |
+| Felelős: | NBT |
 
-| Határidő: | 2014. május 31., onnantól kezdve minden év májusa |
+| Partner: | rendőrség |
 
-| Indikátor: | jelentések a BM és NBT részére |
+| Forrás: | 5 millió forint, NBT költségvetés |
 
-B. Egységes rendőrségi szóróanyagok az áldozattá válás megelőzése érdekében
+| Eszköz: | képzések és programok |
 
-| Intézkedés: | Egységes rendőrségi szóróanyagok készítése az áldozattá válás megelőzése érdekében a lakosságot leginkább veszélyeztető területeken. a) Az elkészítendő szóróanyagok témaköreinek meghatározása. b) Az a) pontban meghatározott témakörökben szóróanyagok készítése. c) A szóróanyagok nyomtatása igény szerinti példányszámban és ezek terjesztése a területi és helyi szervek, valamint a polgárőrség segítségével. |
+| Határidő: | folyamatos |
 
-| Felelős: | NBT, rendőrség |
-
-| Partner: | polgárőrség |
-
-| Forrás: | a) pont: forrást nem igényel b) pont: 2014-ben 10 millió forint, NBT költségvetése c) pont: 2015-től évi 3 millió forint, NBT költségvetése |
-
-| Eszköz: | szóróanyagok készítése |
-
-| Határidő: | a) pontra: 2013. december b) pontra: 2014. szeptember c) pontra: 2015-től folyamatosan |
-
-| Indikátor: | elkészített szóróanyagok típusának száma, nyomtatott szóróanyagok példányszáma |
-
-C. Szakemberképzések az időskorúak áldozattá válásának csökkentése érdekében
-
-| Intézkedés: | Képzések szervezése az idősek ellátásában, védelmében érintett állami és civil szervezetek szakembereinek, (rendőrség, szociális munkások, jelzőrendszeres diszpécser szolgálatokon dolgozók, tanyagondnokok) a történelmi egyházak képviselőinek annak érdekében, hogy képessé váljanak szakszerű áldozattá válás megelőzési információk átadására az időskorúak számára. |
-
-| Felelős: | rendőrség |
-
-| Partner: | NBT, EMMI, önkormányzatok, egyházak |
-
-| Forrás: | nem igényel többletköltséget |
-
-| Eszköz: | képzési tematika összeállítása |
-
-| Határidő: | 2014-től folyamatosan |
-
-| Indikátor: | megtartott képzések száma, a képzéseken résztvevők száma |
-
-D. Áldozattá válás megelőzési tájékoztatás az időskorúak részére
-
-| Intézkedés: | Az idősotthonokban, idősek napközijében az időskorúak védekezési képességének növelése érdekében félévente egy alkalommal előadások, foglalkozások tartása, a sértetté váláshoz vezető körülmények, az elkövetési módszerek és a megelőzési lehetőségek megismertetése a célcsoport tagjaival. |
-
-| Felelős: | rendőrség |
-
-| Partner: | NBT |
-
-| Forrás: | nem igényel többletköltséget |
-
-| Eszköz: | előadások tartása |
-
-| Határidő: | 2014-től folyamatosan |
-
-| Indikátor: | megtartott előadások száma, elért idősek száma |
+| Indikátor: | résztvevők száma |
 
 8.3.2. A másodlagos viktimizáció elkerülése
 
@@ -1468,53 +1388,25 @@ A. Hatékonyabb rendőrség által nyújtott tájékoztatás az áldozatsegítő
 
 | Indikátor: | protokoll elkészül |
 
-B. Országossá kell tenni a civil önkéntes áldozatsegítői hálózatot, az áldozatsegítő szolgálatoknál szociális munkásokat kell alkalmazni
+B.
 
-| Intézkedés: | A területi áldozatsegítő szolgálatok egy kivételével a megyeszékhelyen találhatóak, a területi áldozatsegítő szolgálatoknál jellemzően két fő dolgozik. Az áldozatsegítő szolgálat működésének kezdetétől komoly problémát jelentett az, hogy a nem megyeszékhelyen élő áldozatok milyen módon juthatnak hozzá a támogatásokhoz, a személyes segítségnyújtáshoz. A TÁMOP 5.6.2. „A társadalmi kohéziót erősítő bűnmegelőzési és reintegrációs programok módszertani megalapozása” című projekt keretében kipróbálására került az önkéntes rendszer, amely a segítségnyújtás térbeli és időbeli korlátozottságát orvosolni képes. Az önkéntesek érzelmi támogatást és az ügyintézéshez adminisztratív segítséget nyújtanak, ezzel a nem megyeszékhelyen élő áldozatok számára is elérhetővé teszik a szolgáltatást. A projekt kilenc megyében valósult meg, a kidolgozott módszertan és a meglévő tapasztalatok alapján az önkéntes áldozatsegítő hálózat országossá tehető. Az önkénteseket fel kell készíteni arra is, hogy a büntetőeljárás során a sértettet, tanút, ha kéri, az eljárási cselekményekre el tudják kísérni, mert egyes esetekben az elkövetővel való esetleges találkozás gondolata komoly pszichés nyomást jelent (ez a tanúkénti meghallgatás sikerét is rontja), ilyenkor a támogató fizikai jelenlét komoly segítség (hasonló megoldást alkalmaz például Hollandia). A területi áldozatsegítő szolgálatoknál önkéntes-szervezőként szociális munkást kell alkalmazni, aki emellett az érdekérvényesítés elősegítése áldozatsegítő szolgáltatást a jelenleginél hatékonyabban tudja ellátni. |
-
-| Felelős: | ME, IH, kormányhivatalok |
-
-| Partner: | polgárőrség, civil szervezetek, egyházak, önkéntesek, IM |
-
-| Forrás: | a) tréning vonatkozásában évente 1 millió forint, NBT költségvetés, b) létszámfejlesztés évente 8 millió forint, NBT költségvetés, c) önkéntesek költségtérítése évente 3 millió forint, NBT költségvetés |
-
-| Eszköz: | kidolgozott módszertan, meglévő tapasztalatok |
-
-| Határidő: | 2016-tól folyamatos |
-
-| Indikátor: | járásonként egy önkéntes, megyénként egy önkéntes szervező |
-
-C. Az érzelmi segítségnyújtáshoz való hozzáférés lehetőségének országossá tétele
-
-| Intézkedés: | A pszichés károsodásokat jelenleg az áldozatsegítő szolgálat csak eseti jelleggel tudja kezeltetni. Azoknak a személyeknek, akik különösen kiszolgáltatottak, vagy akik olyan helyzetbe kerülnek, amelynek következtében különösen nagymértékben ki vannak téve a sérelem kockázatának, érzelmi segítségnyújtásban is kell részesülniük. A fentiekkel összhangban a 2012/29/EU irányelv 9. cikk (1) bekezdés c) pontja el is várja azt, hogy az áldozatok az áldozatsegítő szolgálatnál érzelmi segítségnyújtásban is részesüljenek. Az áldozatsegítő szolgálatnál országosan nem megoldott az érzelmi, vagy azon túlmenően a pszichológiai segítségnyújtás. Ezt az ellátási formát az egyenlő esélyek biztosítása érdekében is fejleszteni szükséges és országossá kell tenni. |
-
-| Felelős: | ME, kormányhivatalok |
-
-| Partner: | IM, IH |
-
-| Forrás: | évente 30 millió forint, NBT költségvetés |
-
-| Eszköz: | érzelmi segítséget nyújtó szakemberek alkalmazása és felkészítése |
-
-| Határidő: | 2016-től folyamatos |
-
-| Indikátor: | áldozatsegítő szolgálatonként egy érzelmi segítséget nyújtó szakember |
+C.
 
 D. Az állami kárenyhítés rendszerének felülvizsgálata
 
-| Intézkedés: | Az állami kárenyhítést az Ást. szabályozza. A törvény értelmében a bűncselekménnyel okozott kár mértékét iratokkal kell igazolni. A gyakorlati tapasztalat az, hogy a bűncselekményt követő három hónapos igényérvényesítési határidőn belül nagyszámú esetben nehézséget okoz a kár mértékét igazoló iratok (például a nem ritkán a három hónapon túlnyúló orvosi kezelések díja) beszerzése. Tekintettel arra is, hogy a kárenyhítés olyan szándékos, személy elleni erőszakos bűncselekmények esetén jár, amelyek következményeként a sértett testi épsége, egészsége súlyosan károsodott, vagy a sértett meghalt, ezért lehetőség szerint az áldozatok ügyintézésnek, igényérvényesítésének könnyítése indokolt. Mindezekre tekintettel felül kell vizsgálni a kár mértékét igazoló iratok csatolásának törvényi előírását. Meg kell vizsgálni azt is, hogy – az állami kárenyhítés egyéb feltételeinek fennállása esetén – indokolt lehet-e a kár mértékének igazolása helyett, vagy a mellett kárátalány bevezetése. A felülvizsgálatnak ki kell terjednie az igényérvényesítési határidő hosszának, valamint az állami kárenyhítést biztosító szervezeti keretek vizsgálatára is. |
+| Intézkedés: | Az Ást. 2015. évi reformja során a kárenyhítést érintő szabályok nem kerültek módosításra. A kárenyhítés szabályozását, joggyakorlatának jellemzőit felül kell vizsgálni, és – összhangban az európai uniós szabályozás követelményeivel – meg kell tenni a szükséges intézkedéseket a kárenyhítési rendszer újraszabályozása érdekében. |
 
 | Felelős: | IM |
 
-| Partner: | IH, kormányhivatalok |
+| Partner: | kormányhivatalok |
 
 | Forrás: | nem igényel többletforrást |
 
 | Eszköz: | felülvizsgálat |
 
-| Határidő: | folyamatos |
+| Határidő: | 2017. december 31. |
 
-| Indikátor: | vizsgálati jelentés elkészítése |
+| Indikátor: | jelentés elkészítése |
 
 E. 24 órás telefonos diszpécser szolgálat fenntartása és országossá tétele
 
@@ -1534,21 +1426,23 @@ F. Krízisellátás bevezetésének vizsgálata
 
 | Indikátor: | vizsgálati jelentés elkészül |
 
-G. Áldozatpolitikai célok megjelenítése a médiában
+G.
 
-| Intézkedés: | Az áldozatsegítő szolgáltatások ismertségének növelése érdekében elengedhetetlen a média bevonása. Közszolgálati média. A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 83. §-ának (1) bekezdés d) pontja alapján a közszolgálati médiaszolgáltatás célja az alkotmányos jogoknak, a törvényes rend alapértékeinek és a demokratikus társadalmi rend szabályainak megismertetése, támogatása. Ez a rendelkezés kellő alapot biztosít ahhoz, hogy közszolgálati műsorokban bemutatásra kerüljön az áldozatsegítés és az áldozatok számára rendelkezésre álló lehetőségek. Sikeres büntetőeljárásokról szóló tudósításokban meg kell jeleníteni azt is, hogy az áldozatok számára biztosított a segítségnyújtás rendszere, közérthetően be kell mutatni az áldozattá válás elkerülését szolgáló praktikus, könnyen alkalmazható technikákat. Kereskedelmi média. Több európai uniós országban jól bevált gyakorlat, hogy az áldozatsegítő szolgálatok megjelennek a kereskedelmi és állami televíziók saját gyártású sorozataiban. Hazánkban is több olyan televíziós sorozat szerepel a kínálatban, amelyek nagy nézettséggel bírnak, ezért a társadalmi tudatformálásban betöltött szerepük jelentős. Meg kell találni annak a módját, miként lehet a bűncselekmények áldozatainak segítését, az áldozattá válás elkerülését e televíziós sorozatokban bemutatni. |
+H. A joggyakorlat egységesítése és fejlesztése áldozatsegítés szakterületen
 
-| Felelős: | NMHH |
+| Intézkedés: | Az áldozatsegítés szakterületen eljáró területi szolgálatok egységes jogalkalmazásának biztosítása és a joggyakorlat fejlesztése érdekében szükséges a rendszeres időközönként megrendezésre kerülő regionális esetmegbeszélő csoportfoglalkozások tartása. A szakmai irányító szerv által koordinált esetmegbeszéléseken a résztvevők konkrét jogeseteken keresztül mutatják be a szolgáltatásokkal, eljárásrendekkel kapcsolatos „jó gyakorlatot” és a felmerülő szakmai problémákat. Az esetmegbeszélőkről készült összegzések problémafelvetései fontos elemei a szakmai irányító szerv joggyakorlat-elemzési, koncepcióalkotási és jogszabály-kezdeményezési feladatellátásának is. |
 
-| Partner: | NBT, ME, IM, IH, rendőrség, civil szervezetek, polgárőrség, egyházak |
+| Felelős: | IM |
 
-| Forrás: | a médiában való megjelenési forrást nem igénylő módjának megtalálásához médiaszakemberek bevonása szükséges |
+| Partner: | kormányhivatalok |
 
-| Eszköz: | közszolgálati híradásokban és műsorokban történő megjelenés általánosan és konkrét ügyek kapcsán egyaránt, kereskedelmi műsorokban történő megjelenés |
+| Forrás: | nem igényel többletforrást |
+
+| Eszköz: | esetmegbeszélés negyedévente |
 
 | Határidő: | folyamatos |
 
-| Indikátor: | áldozatsegítő szolgáltatások és az áldozattá válás elkerülését szolgáló módszerek megnövekedett ismertsége |
+| Indikátor: | jelentés készítése |
 
 8.4. Bűnismétlés megelőzése
 
@@ -1624,9 +1518,9 @@ B. Jóvátételi programok megvalósítása az időskorúak javára
 
 | Intézkedés: | Fel kell mérni, hogy a most megvalósuló jóvátételi programok miként tudják kiemelten segíteni az időskorúakat. |
 
-| Felelős: | IH, BM |
+| Felelős: | BM |
 
-| Partner: | BVOP, NMH, IM |
+| Partner: | BVOP, NMH |
 
 | Forrás: | többletforrást nem igényel |
 
@@ -1700,37 +1594,23 @@ F. Resztoratív szemlélet erősítése a személyi állomány képzésében
 
 | Indikátor: | képzések száma és bevontak száma |
 
-G. Művészetterápiás és kreatív programok megvalósítása
+G.
 
-| Intézkedés: | Művészetterápiás és kreatív programok (börtönszínház, biblioterápia vagy irodalomterápia, képzőművészeti szakkörök) nyújtása fogvatartottaknak, amelyek célja a személyiségfejlesztés, szociális képességek, empátia, tolerancia fejlesztése. Cél, hogy minden intézetben évente legalább egy művészetterápiás és kreatív program megvalósuljon. |
+H. Művészetterápiás és kreatív programok megvalósítása
+
+| Intézkedés: | A művészetterápiás és kreatív programok, valamint jobb agyféltekés rajzolás (börtönszínház, biblioterápia vagy irodalomterápia, képzőművészeti szakkörök) módszereinek segítségével a fogvatartottak személyisége, személyes kompetenciái, szociális képességei, empátiája, toleranciája, önbecsülése fejleszthető. Cél, hogy minden intézetben megvalósuljanak ilyen programok. Ehhez szükséges a velük foglalkozók képzése, új módszerek megismertetése az állománnyal. |
 
 | Felelős: | BVOP |
 
-| Partner: | – |
+| Partner: | NBT |
 
-| Forrás: | NBT pályázati forrásából évente 5 millió forint |
+| Forrás: | 10 millió forint, NBT költségvetés |
 
-| Eszköz: | művészetterápiás és kreatív programok lebonyolítása |
+| Eszköz: | képzések és programok |
 
-| Határidő: | 2014. január 1-jétől folyamatosan |
+| Határidő: | folyamatos |
 
-| Indikátor: | programok száma, bevont fogvatartottak száma |
-
-H. A jobb agyféltekés rajzolás oktatásának bevezetése a büntetés-végrehajtási intézetekben
-
-| Intézkedés: | A büntetés-végrehajtási intézetekben meg kell honosítani a jobb agyféltekés rajzolás módszerét, elősegítve az elítéltek önbecsülésének emelését, agressziójának csökkentését, kreativitásának fejlesztését, valamint hasznos szabadidő-eltöltését, az érzelmek kezelését. |
-
-| Felelős: | NBT, BVOP |
-
-| Partner: | - |
-
-| Forrás: | évente 5 millió forint, NBT költségvetés |
-
-| Eszköz: | multiplikátorok képzése, tanfolyamok tartása |
-
-| Határidő: | 2016-tól folyamatos |
-
-| Indikátor: | kiképzett multiplikátorok száma, képzésben résztvevők száma |
+| Indikátor: | résztvevők száma |
 
 8.4.2. Alternatív szankciók és helyreállító módszerek alkalmazásának erősítése a bűncselekménnyel okozott kár kompenzálása érdekében
 
@@ -1748,7 +1628,7 @@ A. Közösségi foglalkoztatók kialakítása
 
 | Intézkedés: | A közösségi foglalkoztató a Pártfogó Felügyelői Szolgálat háttérintézményeként működő speciális intézmény, amelynek legfontosabb funkciója az alternatív szankciók, illetve helyreállító igazságszolgáltatási eszközök körének bővítése. Közösségi foglalkoztató jelenleg csak Borsod-Abaúj-Zemplén megyében működik. A magatartási szabályok végrehajtására alkalmas közösségi foglalkoztatók számának növelése érdekében (a Pártfogó Felügyelői Szolgálatot érintő átszervezést követően) meg kell vizsgálni új közösségi foglalkoztatók létesítésének a feltételeit úgy, hogy minden régió számára rendelkezésre álljon legalább egy foglalkoztató. E feltételek felmérését követően – a pártfogó felügyelet végrehajtásában és szakmai koordinációjában érintett szervezetek együttműködésével – azt is vizsgálni szükséges, hogy milyen forrásból biztosítható az új közösségi foglalkoztatók létrehozásához szükséges anyagi fedezet, továbbá uniós forrás bevonása esetén a fenntartás költsége. Az újabb közösségi foglalkoztatók kialakításáig gondoskodni kell a létrehozásukhoz mintaként szolgáló miskolci Zöld Pont Közösségi Foglalkoztató éves működési költségeinek a biztosításáról és ki kell dolgozni a működtetésének további feltételeit. Az intézkedés végrehajtása érdekében elvégzendő feladatok: a) helyzetfelmérés készítése, b) a közösségi foglalkoztatók működését biztosító jogi szabályozás előkészítése és a tervezet benyújtása, c) a Zöld Pont Közösségi Foglalkoztató működési forrásának biztosítása, d) a Zöld Pont Közösségi Foglalkoztató működtetése. |
 
-| Felelős: | a) és d) pont: IH b) pont: IM c) pont: NBT |
+| Felelős: | a) és d) pont: IM b) pont: IM c) pont: NBT |
 
 | Partner: | a) pont: IM, ME, kormányhivatalok b), c) és d) pont: ME, kormányhivatalok |
 
@@ -1838,7 +1718,7 @@ D. Részvétel az EUCPN munkájában
 
 | Partner: | LÜ, NBT |
 
-| Forrás: | nem igényel többletforrást |
+| Forrás: | évente 5 millió forint |
 
 | Eszköz: | aktív részvétel |
 
@@ -1846,21 +1726,23 @@ D. Részvétel az EUCPN munkájában
 
 | Indikátor: | munkacsoporti találkozók száma |
 
-E. Részvétel az EBESZ keretein belül működő képzésekben, a lehetőségeknek a hatékonyabb kiaknázása
+E.
 
-| Intézkedés: | Az EBESZ számtalan, a gyakorlati munkát támogató kiadvánnyal rendelkezik, illetve gyakorlatilag folyamatosan biztosítja ezek felülvizsgálatát. Ebbe a munkába a legtöbb esetben tagállami szakértők is meghívást kapnak, részben eseti alapon, részben általános felkérés keretében. Az EBESZ Demokratikus Intézmények és Emberi Jogok Hivatala (ODIHR) keretében jelenleg is folyamatban van olyan kézikönyv kialakítása, amelyben a hazai rendészeti szakma is képviselteti magát. Annak érdekében, hogy ezek az anyagok a hazai problémákat is tükrözzék, fontos a hazai rendészeti aspektus megjelenítése, a hazai érdekek megfelelő képviselete a releváns egyeztetéseken, hogy a későbbiekben kialakított anyagok és képzések a hazai rendészeti szakértők számára is közvetlenül hasznosíthatóak legyenek. Ehhez biztosítani szükséges az adott üléseken a hazai és nemzetközi aspektusokat ismerő szakértők jelenlétét. |
+F. Bűnmegelőzés-politikai célok megjelenítése a médiában
 
-| Felelős: | BM |
+| Intézkedés: | A bűnmegelőzés-politikai célok megjelenítése érdekében elengedhetetlen a média bevonása és a közösségi fórumokon való megjelenés. Feltétlenül szükséges a média és a közösségi fórumok széles körű közvetítő erejének kihasználása, amely képes a prevenciós célokat gyorsan és a nagyközönség számára elérhetővé tenni. Közszolgálati média: A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 83. § (1) bekezdés d) pontja alapján a közszolgálati médiaszolgáltatás célja az alkotmányos jogoknak, a törvényes rend alapértékeinek és a demokratikus társadalmi rend szabályainak megismertetése, támogatása. Ez a rendelkezés kellő alapot biztosít ahhoz, hogy közszolgálati műsorokban bemutatásra kerüljenek prevenciós törekvések, programok. Kereskedelmi média: Több európai uniós országban jól bevált gyakorlat, hogy a prevenciós műsorok megjelennek a kereskedelmi és állami televíziók saját gyártású sorozataiban. Hazánkban is több olyan televíziós sorozat szerepel a kínálatban, amelyek nagy nézettséggel bírnak, ezért a társadalmi tudatformálásban betöltött szerepük jelentős. Meg kell találni annak a módját, miként lehet a szükséges bűnmegelőzési tartalmakat a televíziós sorozatokban bemutatni. |
 
-| Partner: | IM, BVOP, rendőrség |
+| Felelős: | NBT |
 
-| Forrás: | többletköltséget nem igényel |
+| Partner: | NMHH, ME, IM, rendőrség, civil szervezetek, polgárőrség, egyházak |
 
-| Eszköz: | aktív részvétel |
+| Forrás: | 20 millió forint, NBT költségvetés |
+
+| Eszköz: | közszolgálati híradásokban és műsorokban történő megjelenés általánosan és konkrét ügyek kapcsán egyaránt, kereskedelmi műsorokban történő megjelenés |
 
 | Határidő: | folyamatos |
 
-| Indikátor: | munkacsoporti találkozók száma |
+| Indikátor: | bűnmegelőzési célokat szolgáló módszerek megnövekedett ismertsége |
 
 8.6. Az intézkedési Terv 2013–2015 részben alkalmazott rövidítések
 
@@ -1925,7 +1807,7 @@ Az intézkedési tervek ezt követően kétévente, kétéves időtávra kerüln
 [^1]: A 2. pont az 1186/2016. (IV. 12.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^2]: A 2a. pontot az 1013/2015. (I. 22.) Korm. határozat 8. pontja iktatta be, szövege az 1186/2016. (IV. 12.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^3]: A 2b. pontot az 1429/2015. (VI. 30.) Korm. határozat 1. pontja iktatta be, szövege az 1186/2016. (IV. 12.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^4]: Az 1. melléklet az 1429/2015. (VI. 30.) Korm. határozat 2. pontja, az 1186/2016. (IV. 12.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet az 1429/2015. (VI. 30.) Korm. határozat 2. pontja, az 1186/2016. (IV. 12.) Korm. határozat 1. pontja, az 1838/2017. (XI. 9.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^5]: 1 ECOSOC Resolution 2002/13: Action to promote effective crime prevention
 [^6]: 2 ECOSOC Resolution 2005/22: Action to promote effective crime prevention
 [^7]: 3 Compendium of United Nations Standards and Norms in Crime Prevention and Criminal Justice, 1992
