@@ -1,3 +1,3 @@
-## 6–7. §[^1]
+## 6–7. §[^3]
 
-[^1]: A 6–7. § a 31. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^3]: A 6–7. § a 31. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

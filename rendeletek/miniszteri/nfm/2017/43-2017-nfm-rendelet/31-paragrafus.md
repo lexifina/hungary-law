@@ -1,6 +1,4 @@
-## 30. § A 63/2016. (XII. 28.) NFM rendelet 7. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A KÁT hatálya alá tartozó villamos energiára vonatkozó szervezett villamosenergia-piacon történő ügyletkötés részletes szabályait a kereskedelmi szabályzat tartalmazza, azzal a kivétellel, hogy a Befogadó által a napon belüli piacon alkalmazott kereskedési és limitár-meghatározási logikát a Hivatal külön hagyja jóvá, a piaci szereplők részére nem tehető közzé. A kereskedési és limitár-meghatározási logika jóváhagyására a Hivatal a kereskedelmi szabályzat jóváhagyására vonatkozó szabályokat alkalmazza.”
+## 30. §[^16]
 
 ## 4. Záró rendelkezések
 
@@ -13,3 +11,5 @@
 (4) A 29. § (2) bekezdése 2018. augusztus 1-jén lép hatályba.
 
 (5) A 29. § (3) bekezdése 2018. szeptember 1-jén lép hatályba.
+
+[^16]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

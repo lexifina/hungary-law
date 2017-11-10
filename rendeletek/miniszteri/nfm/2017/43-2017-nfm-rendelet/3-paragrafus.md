@@ -1,1 +1,0 @@
-## „g) Induló támogatott ár: a pályázati eljárás során a támogatás odaítélésekor érvényes támogatott ár, amely a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet (a továbbiakban: Metár kormányrendelet) 2. melléklete alapján a későbbiekben indexálásra kerül.”

@@ -1,1 +1,3 @@
-## 24. § A 62/2016. (XII. 28.) NFM rendelet a 3. melléklet szerinti 3. melléklettel egészül ki.
+## 18–24. §[^8]
+
+[^8]: A 18–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
