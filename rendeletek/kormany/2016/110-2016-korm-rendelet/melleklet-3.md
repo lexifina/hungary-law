@@ -1,4 +1,4 @@
-3. melléklet a 110/2016. (V. 25.) Korm. rendelethez[^4]
+3. melléklet a 110/2016. (V. 25.) Korm. rendelethez[^5]
 
 ## Nyilatkozatok állami projektértékelői jogviszony létesítéséhez
 
@@ -46,4 +46,4 @@ Kelt: …………………………… (hely), …… év …………………
 
 pályázó
 
-[^4]: A 3. melléklet a 199/2016. (VII. 15.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 4. §-át.
+[^5]: A 3. melléklet a 199/2016. (VII. 15.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 4. §-át.

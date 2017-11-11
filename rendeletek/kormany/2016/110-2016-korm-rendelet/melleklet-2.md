@@ -1,4 +1,4 @@
-2. melléklet a 110/2016. (V. 25.) Korm. rendelethez[^3]
+2. melléklet a 110/2016. (V. 25.) Korm. rendelethez[^4]
 
 ## Munkáltatói igazolás alapjogviszony fennállásáról
 
@@ -88,4 +88,4 @@ P. H.
 
 * A megfelelő részt kérjük kitölteni, jelölni.
 
-[^3]: A 2. melléklet a 199/2016. (VII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 4. §-át.
+[^4]: A 2. melléklet a 199/2016. (VII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 4. §-át.
