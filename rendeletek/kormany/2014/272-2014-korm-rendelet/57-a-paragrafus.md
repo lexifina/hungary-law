@@ -4,7 +4,7 @@
 
 (3)[^292] Ha a felhívásra nem kizárólag a területi szereplő vagy az általa vezetett konzorcium nyújthat be támogatási kérelmet és a felhívásra az 1301/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (4) bekezdését kell alkalmazni, a XII. fejezet standard eljárásra vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy
 
-a)[^293] a 70/A. § szerinti értékelés kivételével döntés-előkészítő bizottságot nem kell felállítani,
+a)[^293] döntés-előkészítő bizottságot nem kell felállítani,
 
 b) a nem a területi szereplő által benyújtott támogatási kérelmeket az irányító hatóság felkérésére a felhívásban megjelölt megyei jogú város a felhívásban meghatározott területi értékelési szempontok alapján értékeli.
 
@@ -13,5 +13,5 @@ b) a nem a területi szereplő által benyújtott támogatási kérelmeket az ir
 [^290]: Az 57/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 29. §-a iktatta be.
 [^291]: Az 57/A. § (1) bekezdése a 98/2016. (V. 13.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^292]: Az 57/A. § (3) bekezdés nyitó szövegrésze a 98/2016. (V. 13.) Korm. rendelet 46. § 5. pontja szerint módosított szöveg.
-[^293]: Az 57/A. § (3) bekezdés a) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^293]: Az 57/A. § (3) bekezdés a) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 11. pontja, a 328/2017. (XI. 8.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^294]: Az 57/A. § (4) bekezdését a 98/2016. (V. 13.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 4. pontja szerint módosított szöveg.

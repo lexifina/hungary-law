@@ -8,15 +8,15 @@ c)[^402]
 
 d)[^403] jogszabályban vagy e rendeletben a támogatói okirat kiadásának vagy a támogatási szerződés megkötésének feltételeként meghatározott nyilatkozatokat nem teszi meg, dokumentumokat nem nyújtja be vagy a megtett nyilatkozatát visszavonja,
 
-e)[^404] nem felel meg az Áht. 50. § (1) bekezdése szerinti követelményeknek,
+e)[^404] nem felel meg az Áht. 50. § (1) bekezdése szerinti követelményeknek, vagy
 
-f)[^405] mint költségvetési szerv, gazdasági társaság és az ezen gazdasági társaság többségi tulajdonosának többségi tulajdonában álló más gazdasági társaság kedvezményezett a 2007–2013 közötti programozási időszakban az európai uniós társfinanszírozású projektjének megvalósítása során a támogatási szerződésben rögzített ütemezéshez képest felmerült késedelmét nem dolgozta le, amíg e késedelem fennáll, vagy
+f)[^405]
 
 g)[^406] mesterségesen teremtette meg a támogatási jogosultság megszerzéséhez szükséges körülményeket azzal a céllal, hogy a támogatási rendszer céljaival ellentétes előnyhöz jusson.
 
 [^401]: A 78. § a) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 81. pontja szerint módosított szöveg.
 [^402]: A 78. § c) pontját a 175/2015. (VII. 7.) Korm. rendelet 86. § (2) bekezdése hatályon kívül helyezte.
 [^403]: A 78. § d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 82. pontja szerint módosított szöveg.
-[^404]: A 78. § e) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 83. pontja szerint módosított szöveg.
-[^405]: A 78. § f) pontját a 144/2015. (VI. 12.) Korm. rendelet 46. §-a iktatta be.
+[^404]: A 78. § e) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 83. pontja, a 328/2017. (XI. 8.) Korm. rendelet 4. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^405]: A 78. § f) pontját a 144/2015. (VI. 12.) Korm. rendelet 46. §-a iktatta be, hatályon kívül helyezte a 328/2017. (XI. 8.) Korm. rendelet 5. § (1) bekezdés e) pontja.
 [^406]: A 78. § g) pontját a 144/2015. (VI. 12.) Korm. rendelet 46. §-a iktatta be.
