@@ -82,3 +82,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2017-07-01 | 2017. évi LXXXIX. törvény | 1995-117-00-00.151 |
 | 2017-07-19 | 2017. évi LXXVII. törvény | 1995-117-00-00.152 |
 | 2017-08-01 | 2017. évi LIV. törvény | 1995-117-00-00.153 |
+| 2017-11-11 | 2017. évi CXXXII. törvény | 1995-117-00-00.154 |
