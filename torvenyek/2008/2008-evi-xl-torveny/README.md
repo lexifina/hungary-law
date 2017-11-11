@@ -70,3 +70,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2017-07-01 | 2017. évi LVII. törvény | 2008-40-00-00.68 |
 | 2017-09-01 | 2017. évi LVII. törvény | 2008-40-00-00.69 |
 | 2017-10-01 | 2017. évi LXXV. törvény | 2008-40-00-00.70 |
+| 2017-11-11 | 2017. évi CXXXVII. törvény | 2008-40-00-00.71 |
