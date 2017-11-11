@@ -1,4 +1,4 @@
-124. § (1) A hálózati engedélyes a vezetékjog alapján az idegen ingatlanon
+124. § (1) A hálózati engedélyes a vezetékjog alapján közterületen és idegen ingatlanon, bejegyzett vezetékjog esetén a bejegyzett meglévő nyomvonalon
 
 a) föld alatti és feletti vezetéket építhet, valamint ahhoz tartozó távközlési összeköttetést helyezhet el,
 

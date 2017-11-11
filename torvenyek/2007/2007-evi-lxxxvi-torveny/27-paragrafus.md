@@ -24,7 +24,15 @@ bc) a felhasználás célja a nemzeti adatvagyon körébe tartozó állami nyilv
 
 (4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására. A Hivatal a csatlakozás megtagadásának felülvizsgálatára irányuló kérelmet a döntéshez szükséges dokumentumok teljes körű rendelkezésre állásától számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmező rendszerhasználót és az érintett hálózati engedélyest értesíteni. A Hivatal eljárása díjmentes.
 
-(5) A hálózati csatlakozást a hálózati csatlakozási szerződés megkötését követően a hálózati csatlakozási szerződés rendelkezései szerint az igénybejelentő saját beruházásban is megvalósíthatja. A hálózati engedélyes, az igénybejelentő és az általa megbízott vállalkozás kötelesek egymással együttműködni. Az igénybejelentő a vállalkozást a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő vállalkozások közül választhatja ki. A nyilvántartást a műszaki biztonsági hatóság vezeti.
+(5) A hálózati csatlakozást a hálózati csatlakozási szerződés megkötését követően a hálózati csatlakozási szerződés rendelkezései szerint az igénybejelentő saját beruházásban is megvalósíthatja. A hálózati engedélyes, az igénybejelentő és az általa megbízott vállalkozás kötelesek egymással együttműködni. Az igénybejelentő a vállalkozást a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő vállalkozások közül választhatja ki. A nyilvántartást a műszaki biztonsági hatóság vezeti. A nyilvántartásba olyan vállalkozás vehető fel, amely rendelkezik a kormány rendeletében meghatározott felelősségbiztosítással. A kizárólag a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő villanyszerelők által végezhető tevékenységek körét kormányrendelet határozza meg.
+
+(5a) A bejelentett és jogosult villanyszerelők nyilvántartásában kezelhető személyes adatok köre:
+
+a) a bejelentő, a tevékenységet személyesen ellátó munkavállaló és a személyesen közreműködő tag neve, székhelye, születési helye, ideje, anyja neve, lakcíme, értesítési címe, telefonszáma, elektronikus levélcíme, végzettsége, szakképesítése,
+
+b) ha a bejelentő egyéni vállalkozó, a vállalkozói nyilvántartási száma,
+
+c) a díjfizető neve, számlázási címe, adószáma vagy adóazonosító jele.
 
 (6) Ha a hálózati engedélyes a nyilatkozatával a hálózati csatlakozással összefüggő terveket kivitelezésre alkalmatlannak minősítette, vagy a hálózati engedélyes a hálózati csatlakozással összefüggő tervek olyan módosítását írta elő, amellyel az igénybejelentő nem ért egyet, az igénybejelentő a műszaki-biztonsági hatóságtól kérheti az alkalmassági nyilatkozat kiadását. A kivitelezésre való alkalmasság megállapítására indított eljárásra az e törvény végrehajtására kiadott kormányrendelet rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az alkalmassági nyilatkozat kiadására irányuló kérelmet a kérelem érkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.
 
