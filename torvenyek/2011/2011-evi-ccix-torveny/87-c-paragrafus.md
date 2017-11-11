@@ -1,0 +1,1 @@
+87/C. § A nemzeti versenyképesség növeléséhez szükséges egyes törvénymódosításokról szóló 2017. évi CXXXVII. törvénnyel módosított 55/H. §-t a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.

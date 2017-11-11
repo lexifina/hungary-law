@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-209-00-00
 | 2017-07-01 | 2017. évi LVII. törvény | 2011-209-00-00.27 |
 | 2017-09-01 | 2017. évi LVII. törvény | 2011-209-00-00.28 |
 | 2017-10-11 | 23/2017. (X. 10.) AB határozat | 2011-209-00-00.29 |
+| 2017-11-11 | 2017. évi CXXXVII. törvény | 2011-209-00-00.30 |
