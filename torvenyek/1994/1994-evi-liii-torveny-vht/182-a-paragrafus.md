@@ -1,4 +1,4 @@
-182/A. § (1) A végrehajtó a lakóingatlan kiürítésének foganatosítását [174. § d) pont] a december 1-jétől március 1-jéig terjedő időszakot követő időszakra halasztja el, ha a kötelezett magánszemély. Nincs helye halasztásnak az önkényesen elfoglalt lakás kiürítése során, vagy ha a kötelezettel szemben korábban rendbírságot szabtak ki.
+182/A. § (1) A végrehajtó a lakóingatlan kiürítésének foganatosítását [174. § d) pont] a november 15-től április 30-ig terjedő időszakot követő időszakra halasztja el, ha a kötelezett magánszemély. Nincs helye halasztásnak az önkényesen elfoglalt lakás kiürítése során, vagy ha a kötelezettel szemben korábban rendbírságot szabtak ki.
 
 (2) A végrehajtó a lakás kiürítésének elhalasztásáról jegyzőkönyvet készít, amelynek másolatát megküldi a feleknek.
 
