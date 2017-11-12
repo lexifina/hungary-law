@@ -235,19 +235,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 74. Műsorelosztás: olyan műsorterjesztés, amely során az előfizető, vagy felhasználó elektronikus hírközlő végberendezése meghatározott földrajzi helyen csatlakozik a műsorterjesztő átviteli rendszerhez.
 
 75. Műsorszórás: olyan műsorterjesztés, amelynek során analóg vagy digitális médiaszolgáltatásokat a földfelszínen telepített – az elsődlegesen műholdas szolgálatra rendelt frekvenciák kivételével – rádiófrekvenciát használó, általában egyirányú adatátvitelt lehetővé tevő átviteli rendszerrel továbbítják az előfizetőhöz vagy felhasználóhoz; műsorszórásnak minősül a digitális műsorszóró hálózat (egyidejűleg több frekvenciát használó, több adóval működő hálózat) vagy műsorszóró adó (ugyanazon frekvenciát egyidejűleg, azonos módon használó egy vagy több adó) segítségével végzett műsorterjesztés is.
-
-76.
-
-77. Műsorterjesztés: az 5/a. pont szerinti bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a médiaszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a médiaszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a műsor Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek.
-
-78. Nagyfrekvenciás jel: nem rádiótávközlési célra használt rádiófrekvenciás jel.
-
-79. Nagyfrekvenciás mellékhatás: olyan nagyfrekvenciás jel, amely különféle célú berendezésekben (készülékekben, eszközökben, járművekben stb.) szikrakisülés, gázkisülés vagy félvezetős szabályozás melléktermékeként keletkezik.
-
-80. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
-
-80/a. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, széles sávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat.
-
-80/b. Nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúra: nagy sebességű elektronikus hírközlő hálózatok elemeinek fogadására szánt vagy ilyen hálózat működését lehetővé tevő, épületen belüli fizikai infrastruktúra.
-
-81. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.

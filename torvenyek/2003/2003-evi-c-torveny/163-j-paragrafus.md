@@ -1,0 +1,1 @@
+163/J. § Az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról szóló 2017. évi CXXXVIII. törvénnyel megállapított 132. § (10) és (11) bekezdését a 2017. évi LXXXVIII. törvény hatálybalépését megelőzően megkötött szerződésekre is alkalmazni kell.
