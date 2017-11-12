@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § a 17. § (3) bekezdése alapján 2017. november 12-én lép hatályba.
+## „(3) Nem szabható ki újabb közigazgatási bírság, ha a gépjárművet használatra átvevő személlyel szemben jogosulatlan úthasználat megállapítása miatt közigazgatási eljárás indult, az eljárás alapjául szolgáló jogosulatlan úthasználat észlelését követő két órán belül.”

@@ -1,4 +1,4 @@
-## 15–16. §[^17]
+## 15–16. §[^13]
 
 ## 5. Záró rendelkezések
 
@@ -8,7 +8,7 @@
 
 (3) A 2. §, a 7. § (2) bekezdése, a 10. §, a 12. § (2) bekezdése és a 4. melléklet a kihirdetést követő 90. napon lép hatályba.
 
-(4)[^18] A 14. § (2) bekezdés 2018. március 2-án lép hatályba.
+(4)[^14] A 14. § (2) bekezdés 2018. március 2-án lép hatályba.
 
-[^17]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 17. § (4) bekezdése a 292/2017. (X. 5.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^13]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 17. § (4) bekezdése a 292/2017. (X. 5.) Korm. rendelet 4. §-a szerint módosított szöveg.
