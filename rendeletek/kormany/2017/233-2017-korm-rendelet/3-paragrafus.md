@@ -1,1 +1,3 @@
-## „(3) Nem szabható ki újabb közigazgatási bírság, ha a gépjárművet használatra átvevő személlyel szemben jogosulatlan úthasználat megállapítása miatt közigazgatási eljárás indult, az eljárás alapjául szolgáló jogosulatlan úthasználat észlelését követő két órán belül.”
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
