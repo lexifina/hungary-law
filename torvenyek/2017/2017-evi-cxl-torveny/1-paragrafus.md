@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és tagállamaik, másrészről Bosznia és Hercegovina közötti stabilizációs és társulási megállapodáshoz a Horvát Köztársaság Európai Unióhoz történő csatlakozásának figyelembevétele céljából készült Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
