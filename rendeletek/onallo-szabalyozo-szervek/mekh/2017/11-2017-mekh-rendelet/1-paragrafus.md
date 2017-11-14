@@ -18,7 +18,7 @@ g) a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: G
 
 h) a GET 125. § (17) bekezdése alapján a vezetékes PB-gáz szolgáltatóra, a PB-gáz forgalmazóra,
 
-i) a GET 127. § s) pontja alapján a GET szerinti engedélyes társaságra, a PB-gáz forgalmazóra, a PB-gáz kiskereskedőre, a mintaprojektet végző társaságra, valamint a hazai termelésű földgázt termelőre,
+i)[^1] a GET 127. § s) pontja alapján a GET szerinti engedélyes társaságra, a PB-gáz forgalmazóra, a PB-gáz kiskereskedőre, a mintaprojektet végző társaságra, valamint a hazai termelésű földgázt termelőre, továbbá a GET 141/A. § (1) bekezdésében megjelölt volt közüzemi nagykereskedőre és a GET 141/J. §-a szerinti szerződött egyetemes szolgáltatóra,
 
 j) a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 18. § e) pontja alapján a Tszt. szerinti engedélyesekre,
 
@@ -27,3 +27,5 @@ k) az a)–j) pontban meghatározottak jogutódaira, valamint azok felszámolój
 ## terjed ki.
 
 (2) A rendeletben szereplő fogalmakat a VET, a GET, a Tszt., és a felhatalmazásuk alapján kiadott jogszabályok szerint kell értelmezni.
+
+[^1]: Az 1. § (1) bekezdés i) pontja a 12/2017. (XI. 6.) MEKH rendelet 1. §-ával megállapított szöveg.

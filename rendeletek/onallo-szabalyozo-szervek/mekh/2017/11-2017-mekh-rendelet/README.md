@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-11-20-5
 | --- | --- | --- |
 | 2017-09-02 | 2017-11-20-5Z.1 | 11/2017. (VIII. 25.) MEKH rendelet |
 | 2017-09-09 | 2017-11-20-5Z.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-11-14 | 2017-11-20-5Z.3 | 12/2017. (XI. 6.) MEKH rendelet |

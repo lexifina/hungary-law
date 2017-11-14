@@ -1,3 +1,5 @@
-## 20175Z20000011_14
+## 20175Z20000011_41
 
-15. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez
+15. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^16]
+
+[^16]: A 15. melléklet a 12/2017. (XI. 6.) MEKH rendelet 4. § (10) bekezdésével megállapított szöveg.
