@@ -1,6 +1,6 @@
 5. § (1) Az ÁTTK a miniszter állami tisztviselői továbbképzéssel összefüggő feladatait segítő szakmai tanácsadó és véleményező testülete.
 
-(2) Az ÁTTK elnöke az NKE mindenkori rektora, az ÁTTK tagjait – az NKE rektorának javaslatára – a miniszter kéri fel. Az ÁTTK tagjainak megbízatását a miniszter – az NKE rektorának javaslatára – indokolás nélkül visszavonhatja.
+(2)[^2] Az ÁTTK elnöke az NKE rektora. Az ÁTTK tagjai a miniszter által az NKE rektorának javaslatára felkért tagok, valamint a Magyar Kormánytisztviselői és Állami Tisztviselői Kar által delegált tag. Az ÁTTK miniszter által felkért tagjainak megbízatását a miniszter – az NKE rektorának javaslatára – indokolás nélkül visszavonhatja.
 
 (3) Az ÁTTK működési rendjének szabályait ügyrendjében állapítja meg.
 
@@ -25,3 +25,5 @@ e) dönt a belső továbbképzési program egyszerűsített nyilvántartásba v�
 (8) Az ÁTTK feladatainak ellátását az ÁTTK Titkársága segíti. Az ÁTTK Titkársága az ÁTTK ügyrendje alapján az ÁTTK üléseinek előkészítésével, lebonyolításával, valamint dokumentálásával kapcsolatos döntés-előkészítési és adminisztratív feladatokat látja el.
 
 (9) Az ÁTTK Titkárságának feladatait – az NKE bevonásával – a miniszter által vezetett minisztérium látja el.
+
+[^2]: Az 5. § (2) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 13. §-ával megállapított szöveg.
