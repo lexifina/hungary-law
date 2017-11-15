@@ -26,7 +26,8 @@
 
 (6) A teljesítményértékelésnek tartalmaznia kell az értékelt személy észrevételeit a teljesítményértékelésével kapcsolatban, valamint javaslatait, elképzeléseit életpályájával kapcsolatban.
 
-(7) A közszolgálati tisztviselő, illetve a hivatásos állomány tagjának kérésére a munkavállalói érdekképviseleti szerv, illetve a területi szinten működő Magyar Kormánytisztviselői Kar (a továbbiakban: MKK) vagy a Magyar Rendvédelmi Kar (a továbbiakban: MRK) a teljesítményértékelésre írásban észrevételt tehet, melyet a teljesítményértékelésen fel kell tüntetni.
+(7)[^14] A közszolgálati tisztviselő és a hivatásos állomány tagjának kérésére a munkavállalói érdekképviseleti szerv a teljesítményértékelésre írásban észrevételt tehet, amelyet a teljesítményértékelésen fel kell tüntetni.
 
 [^12]: A 11. § (4) bekezdése a 394/2015. (XII. 12.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^13]: A 11. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 713. § b) pontja, a 157/2015. (VI. 25.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^14]: A 11. § (7) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 11. §-ával megállapított szöveg.

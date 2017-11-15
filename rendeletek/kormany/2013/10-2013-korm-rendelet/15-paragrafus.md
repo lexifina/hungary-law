@@ -4,7 +4,7 @@
 
 ## 11. Az értékelt személy jogai
 
-15. § (1)[^17] Az értékelő vezetőnek
+15. § (1)[^18] Az értékelő vezetőnek
 
 a) az értékelt katonai állomány tagját tárgyév január 1-je és január 31-e között,
 
@@ -18,4 +18,4 @@ c) az értékelt hivatásos állomány tagját tárgyév február 15-e és márc
 
 (3) A teljesítményértékelés és – a közszolgálati tisztviselők vonatkozásában – a minősítés eredményét az értékelt személy jogosult megismerni.
 
-[^17]: A 15. § (1) bekezdése a 394/2015. (XII. 12.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^18]: A 15. § (1) bekezdése a 394/2015. (XII. 12.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.

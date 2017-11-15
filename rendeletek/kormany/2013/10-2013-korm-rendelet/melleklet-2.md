@@ -26,6 +26,6 @@
 
 |  | értékelő vezető |
 
-2. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^25]
+2. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^27]
 
-[^25]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^27]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
