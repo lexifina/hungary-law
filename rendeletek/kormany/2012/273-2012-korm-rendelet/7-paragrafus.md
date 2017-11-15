@@ -1,10 +1,10 @@
-## 6/A. §[^21] Az NKE által szervezett továbbképzésen kizárólag olyan természetes személy lehet továbbképzési oktató, aki a NKE által kiírt pályázat alapján a 4. § (4) bekezdés d) pontjában szereplő oktatói névjegyzékbe felvételt nyert, és a 6. § e) pontjában megjelölt továbbképzésen részt vett.
+## 6/A. §[^22] Az NKE által szervezett továbbképzésen kizárólag olyan természetes személy lehet továbbképzési oktató, aki a NKE által kiírt pályázat alapján a 4. § (4) bekezdés d) pontjában szereplő oktatói névjegyzékbe felvételt nyert, és a 6. § e) pontjában megjelölt továbbképzésen részt vett.
 
 ## A belső továbbképzési programmal rendelkező képzőintézmények
 
-7. §[^22] (1)[^23] Belső továbbképzési program folytatásának feltétele, hogy azt az NKE egyszerűsített nyilvántartásba vételi eljárás keretében felvegye a továbbképzési programjegyzékre.
+7. §[^23] (1)[^24] Belső továbbképzési program folytatásának feltétele, hogy azt az NKE egyszerűsített nyilvántartásba vételi eljárás keretében felvegye a továbbképzési programjegyzékre.
 
-(2)[^24] A nyilvántartásba vételt a képzést igénylő közigazgatási szerv kezdeményezi. A kérelem elutasításával szemben a kezdeményező részéről a 15. § (5a) bekezdésben foglalt panasznak van helye.
+(2)[^25] A nyilvántartásba vételt a képzést igénylő közigazgatási szerv kezdeményezi. A kérelem elutasításával szemben a kezdeményező részéről a 15. § (5a) bekezdésben foglalt panasznak van helye.
 
 (3) Ha a képzés szolgáltatója felsőoktatási vagy felnőttképzési intézmény, a nyilvántartás a képzés szolgáltatójának adatait is tartalmazza.
 
@@ -12,7 +12,7 @@
 
 (5) A képzést igénylő közigazgatási szerv kezdeményezheti a belső továbbképzési program e rendelet szerinti minősítését (a továbbiakban: minősített belső továbbképzés).
 
-[^21]: A 6/A. §-t a 321/2016. (X. 27.) Korm. rendelet 16. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14. §-át.
-[^22]: A 7. § a 378/2014. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg. A 7. §-t megelőző alcím a 378/2014. (XII. 31.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^23]: A 7. § (1) bekezdése a 108/2016. (V. 18.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
-[^24]: A 7. § (2) bekezdése a 108/2016. (V. 18.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^22]: A 6/A. §-t a 321/2016. (X. 27.) Korm. rendelet 16. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14. §-át.
+[^23]: A 7. § a 378/2014. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg. A 7. §-t megelőző alcím a 378/2014. (XII. 31.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^24]: A 7. § (1) bekezdése a 108/2016. (V. 18.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^25]: A 7. § (2) bekezdése a 108/2016. (V. 18.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.

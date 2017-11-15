@@ -1,6 +1,6 @@
 ## A közigazgatási szerv feladatai
 
-8. §[^25] (1) A közigazgatási szerv elkészíti a kormánytisztviselő, köztisztviselő éves egyéni továbbképzési tervét, valamint az egyéni tervek összesítésével elkészíti az intézmény éves továbbképzési tervét.
+8. §[^26] (1) A közigazgatási szerv elkészíti a kormánytisztviselő, köztisztviselő éves egyéni továbbképzési tervét, valamint az egyéni tervek összesítésével elkészíti az intézmény éves továbbképzési tervét.
 
 (2) A közigazgatási szerv gondoskodik a kormánytisztviselő, köztisztviselő munkaköri feladataihoz illeszkedő belső, választható továbbképzésekről
 
@@ -10,4 +10,4 @@ b) felsőoktatási vagy felnőttképzési intézmény által biztosított képz�
 
 (3) A közigazgatási szerv a belső továbbképzési programok megvalósításával összefüggő feladatai körében a belső továbbképzésekről nyilvántartást vezet, a képzések eredményét rögzíti az NKE által biztosított informatikai alkalmazásban.
 
-[^25]: A 8. § a 378/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^26]: A 8. § a 378/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
