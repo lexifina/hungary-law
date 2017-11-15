@@ -8,7 +8,7 @@
 
 (5) Nem akadálya a fegyelmi eljárás lefolytatásának, ha a kormánytisztviselő – a Kttv. 21. § (3) bekezdése szerint közölt értesítés ellenére – nem jelenik meg a (3), illetve a (4) bekezdés szerinti eljárási cselekményen.
 
-(6) A kormánytisztviselő a vizsgálat folyamán jogi képviselőt vehet igénybe. A kormánytisztviselő kérelmére a fegyelmi eljárás során az államigazgatási szervnél működő munkavállalói érdek-képviseleti szerv, illetve a Magyar Kormánytisztviselői Kar képviselőjének (a továbbiakban: MKK képviselő) részvételét, illetve képviseleti jogának gyakorlását lehetővé kell tenni. A kormánytisztviselő meghallgatását úgy kell kitűzni, hogy azon jogi képviselője, illetve – a kormánytisztviselő ilyen irányú kérését követően – az érdek-képviseleti szerv, illetve az MKK képviselője is jelen lehessen.
+(6)[^4] A kormánytisztviselő a vizsgálat folyamán jogi képviselőt vehet igénybe. A kormánytisztviselő kérelmére a fegyelmi eljárás során az államigazgatási szervnél működő munkavállalói érdekképviseleti szerv képviselőjének részvételét, képviseleti jogának gyakorlását lehetővé kell tenni. A kormánytisztviselő meghallgatását úgy kell kitűzni, hogy azon jogi képviselője, valamint – a kormánytisztviselő ilyen irányú kérését követően – az érdekképviseleti szerv képviselője is jelen lehessen.
 
 (7) Ha a kormánytisztviselő meghallgatására tartós akadályoztatása miatt a vizsgálat időtartama alatt nem kerülhet sor, a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait vele írásban kell közölni, és nyolc napos határidő kitűzésével fel kell szólítani, hogy védekezését terjessze elő. Nem akadálya a fegyelmi eljárás lefolytatásának, ha a kormánytisztviselő védekezését határidőben nem terjeszti elő.
 
@@ -23,3 +23,5 @@ a) a kormánytisztviselő a kötelezettségszegést a vizsgálat során elismeri
 b) a tényállás megítélése egyszerű, valamint
 
 c) a büntetés célja tárgyalás nélkül is elérhető.
+
+[^4]: Az 5. § (6) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
