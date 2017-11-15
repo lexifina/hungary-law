@@ -14,7 +14,11 @@
 
 ## Határidő: folyamatos
 
-## f)[^2] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 3.2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 118,4%-áig legyen kötelezettség vállalható,
+## f)[^2] egyetért azzal, hogy
+
+## fa) az Integrált Közlekedésfejlesztési Operatív Program 3.2 beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 122,43%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható,
+
+## fb) az IKOP-3.2.0-15-2017-00026 azonosító számú, „Szeged–Hódmezővásárhely tram-train rendszer – járműbeszerzés” című projekt keretében az Integrált Közlekedésfejlesztési Operatív Program 3.2 beruházási prioritása pénzügyi keretének 110%-át meghaladóan, de az fa) alpontban meghatározott arányt meg nem haladóan vállalható kötelezettség olyan módon, hogy e kötelezettségvállalás folytán jelentkező forrásigénynek az Integrált Közlekedésfejlesztési Operatív Program 3.2 beruházási prioritása kerete 110%-át meghaladó része finanszírozásához szükséges forrást a központi költségvetésről szóló törvényben meghatározott Uniós fejlesztések fejezet Integrált Közlekedésfejlesztési Operatív Program (IKOP) előirányzata terhére szükséges biztosítani,
 
 ## g)[^3] egyetért azzal, hogy
 
@@ -48,7 +52,7 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP-2.1.0-15 | Nemzetközi (TEN-T) vasúti és vízi elérhetőség javítása | 459,33 | kiemelt | Meghirdetve: 2015. december 4. |
+| 2. | IKOP-2.1.0-15 | Nemzetközi (TEN-T) vasúti és vízi elérhetőség javítása | 505,263 | kiemelt | Meghirdetve: 2015. december 4. |
 
 3. Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javításáról szóló 3. prioritás
 
@@ -56,9 +60,9 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP-3.1.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a Közép-magyarországi régióban | 211,07 | kiemelt | Meghirdetve: 2015. december 4. |
+| 2. | IKOP-3.1.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a Közép-magyarországi régióban | 232,177 | kiemelt | Meghirdetve: 2015. december 4. |
 
-| 3. | IKOP-3.2.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a kevésbé fejlett régiókban | 141,483 | kiemelt | Meghirdetve: 2015. december 4. |
+| 3. | IKOP-3.2.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a kevésbé fejlett régiókban | 146,330 | kiemelt | Meghirdetve: 2015. december 4. |
 
 4. TEN-T hálózat közúti elérhetőségének javításáról szóló 4. prioritás
 
@@ -66,10 +70,10 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 110,71 | kiemelt | Meghirdetve: 2016. március 1. |
+| 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 116,24 | kiemelt | Meghirdetve: 2016. március 1. |
 
 [^1]: Az 1. pont e) alpontja az 1691/2016. (XI. 29.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^2]: Az 1. pont f) alpontja az 1819/2017. (XI. 8.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: Az 1. pont f) alpontja az 1846/2017. (XI. 14.) Korm. határozat 1. pontjával megállapított szöveg.
 [^3]: Az 1. pont g) alpontját az 1145/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
 [^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja, az 1846/2017. (XI. 14.) Korm. határozat 3. pontja szerint módosított szöveg.
