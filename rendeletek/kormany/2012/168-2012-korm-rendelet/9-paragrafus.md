@@ -1,4 +1,4 @@
-9. §[^23] (1) A Döntőbizottság eljárása a panasz benyújtásával indul. A panaszt írásban – az igényt alátámasztó okiratokkal együtt – három példányban kell benyújtani. A panasz szóban is előterjeszthető a Titkárságon, amelyről a Titkárság jegyzőkönyvet vesz fel. A panaszban meg kell jelölni
+9. §[^24] (1) A Döntőbizottság eljárása a panasz benyújtásával indul. A panaszt írásban – az igényt alátámasztó okiratokkal együtt – három példányban kell benyújtani. A panasz szóban is előterjeszthető a Titkárságon, amelyről a Titkárság jegyzőkönyvet vesz fel. A panaszban meg kell jelölni
 
 a) a panaszos (és képviselője) nevét, lakcímét (székhelyét), elérhetőségét (telefonszám, e-mail cím);
 
@@ -110,4 +110,4 @@ f) a Kttv. 190. § (13) bekezdésével összhangban az eljárási költség vise
 
 (18) Az indokolással ellátott határozatot – annak meghozatalától számított – nyolc napon belül írásba kell foglalni, amelyet az írásba foglalást követő öt napon belül a Titkárság megküld a panaszos és a munkáltató részére.
 
-[^23]: A 9. § a 103/2016. (V. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^24]: A 9. § a 103/2016. (V. 13.) Korm. rendelet 6. §-ával megállapított szöveg.

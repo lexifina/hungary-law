@@ -1,4 +1,4 @@
-11. §[^27] (1) Ha a Döntőbizottság a panaszt részben vagy egészben alaposnak találja, a munkáltatót részben vagy egészben kötelezheti a panaszos szükséges és igazolt költségei (a továbbiakban: eljárási költség) megtérítésére. E rendelet alkalmazásában eljárási költség mindaz a költség, ami a panaszos részéről a célszerű és jóhiszemű eljárással összefüggésben felmerült (különösen: szakértői díj, tanú megjelenésével összefüggő költség).
+11. §[^29] (1) Ha a Döntőbizottság a panaszt részben vagy egészben alaposnak találja, a munkáltatót részben vagy egészben kötelezheti a panaszos szükséges és igazolt költségei (a továbbiakban: eljárási költség) megtérítésére. E rendelet alkalmazásában eljárási költség mindaz a költség, ami a panaszos részéről a célszerű és jóhiszemű eljárással összefüggésben felmerült (különösen: szakértői díj, tanú megjelenésével összefüggő költség).
 
 (2) A panaszos – az (1) bekezdés szerinti esetekben – igényelheti, hogy a Döntőbizottság kötelezze a munkáltatót
 
@@ -10,7 +10,7 @@ b) a képviselője részére költségtérítésként megfizetett indokolt kész
 
 (3) Az ügyvédi munkadíj összegét az eljáró tanács indokolt esetben mérsékelheti, ha az nem áll arányban a ténylegesen elvégzett ügyvédi tevékenységgel.
 
-(4)[^28] A Titkárság a felhívásra megjelent kormánytisztviselő, állami tisztviselő, valamint a tanú részére és kérelmére – a munkából kiesett idő igazolására – igazolást állít ki a megjelenés napjáról és időtartamáról.
+(4)[^30] A Titkárság a felhívásra megjelent kormánytisztviselő, állami tisztviselő, valamint a tanú részére és kérelmére – a munkából kiesett idő igazolására – igazolást állít ki a megjelenés napjáról és időtartamáról.
 
-[^27]: A 11. § a 103/2016. (V. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^28]: A 11. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^29]: A 11. § a 103/2016. (V. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^30]: A 11. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 34. §-a szerint módosított szöveg.
