@@ -6,8 +6,8 @@
 
 (3) A célfeladat nem lehet azonos a teljesítményértékelés során a közszolgálati tisztviselő, részére megállapított feladattal.
 
-(4)[^10] A céljuttatással kapcsolatos adatokról (a célfeladat megnevezéséről, a céljuttatás kifizetéséről, annak összegéről, a közszolgálati tisztviselők besorolásáról, a szervezet megnevezéséről, amennyiben a céljuttatás uniós forrásból kerül kifizetésre, akkor a projekt elnevezéséről és számáról) a hivatali szervezet vezetője a tárgynegyedévet követő hónap 15. napjáig tájékoztatja a közszolgálati életpálya kidolgozásáért felelős minisztert.
+(4)[^14] A céljuttatással kapcsolatos adatokról (a célfeladat megnevezéséről, a céljuttatás kifizetéséről, annak összegéről, a közszolgálati tisztviselők besorolásáról, a szervezet megnevezéséről, amennyiben a céljuttatás uniós forrásból kerül kifizetésre, akkor a projekt elnevezéséről és számáról) a hivatali szervezet vezetője a tárgynegyedévet követő hónap 15. napjáig tájékoztatja a közszolgálati életpálya kidolgozásáért felelős minisztert.
 
 (5) A Kttv. 154. § (3) bekezdése szerint megállapított célfaladat, illetve céljuttatás esetében a céljuttatás fedezetét a célfeladatot tűző államigazgatási szerv költségvetéséből kell biztosítani.
 
-[^10]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 688. §-a szerint módosított szöveg.
+[^14]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 688. §-a szerint módosított szöveg.

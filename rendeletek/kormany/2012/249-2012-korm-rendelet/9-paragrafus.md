@@ -1,8 +1,8 @@
-## 8. §[^12]
+## 8. §[^16]
 
 ## VIII. Cafetéria
 
-9. § (1) A közszolgálati tisztviselő, szakmai vezető, politikai vezető írásban vagy elektronikus úton a tárgyév március 1-ig, illetve a jogviszony létesítésekor vagy az áthelyezésekor nyilatkozik arról, hogy a cafetéria-juttatás összegén belül milyen juttatásokra tart igényt. A nyilatkozat ezt követően csak akkor módosítható, ha azt a hivatali szervezet vezetője a közszolgálati szabályzatban lehetővé teszi. A hivatali szervezet vezetője a közszolgálati szabályzatban előírhatja, hogy a közszolgálati tisztviselőnek, szakmai vezetőnek, politikai vezetőnek a helyi utazására szolgáló bérlet választására vonatkozó nyilatkozatát a tárgyévre vonatkozó nyilatkoztatási időszakot megelőzően kell megtennie.
+9. § (1)[^17] A közszolgálati tisztviselő, szakmai vezető, politikai vezető írásban vagy elektronikus úton a tárgyév március 1-ig, illetve a jogviszony létesítésekor vagy az áthelyezésekor nyilatkozik arról, hogy a cafetéria-juttatás összegén belül milyen juttatásokra tart igényt. A nyilatkozat ezt követően csak akkor módosítható, ha azt a hivatali szervezet vezetője a közszolgálati szabályzatban lehetővé teszi.
 
 (2) A közszolgálati tisztviselőt, szakmai vezetőt, politikai vezetőt megillető cafetéria-juttatás éves összegét – ha jogszabály eltérően nem rendelkezik – a hivatali szervezet vezetője a közszolgálati szabályzatban határozza meg tárgyév február 15-ig.
 
@@ -14,9 +14,9 @@
 
 (6) Az éves keretösszeget ezer forintra kerekítve kell megállapítani, kivéve, ha a keretösszeg megfelel a Kttv. 151. § (1) bekezdésében meghatározott legalacsonyabb, illetve a költségvetési törvényben meghatározott legmagasabb összegnek.
 
-(7) Ha a közszolgálati tisztviselő, szakmai vezető, politikai vezető a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 71. § (3) bekezdésben szereplő juttatások közül választ, akkor a keretösszegből legalább akkora összeget kell felhasználnia, amekkora összegű az adott pénztár, intézmény által előírt minimum tagdíj összege. E követelmény olyan módon is teljesíthető, hogy a közszolgálati tisztviselő, szakmai vezető, politikai vezető a minimum tagdíj összegére kiegészíti a felhasznált cafetéria-juttatás összegét.
+(7)[^18]
 
-(8) Ha a juttatások év közbeni módosításának lehetőségét biztosítja a közigazgatási szerv a közszolgálati tisztviselő, szakmai vezető, politikai vezető számára, akkor annak módját, feltételeit a közszolgálati szabályzatban meg kell állapítani. A módosítás névre szóló utalvány esetében csak akkor lehetséges, ha azt a közigazgatási szerv még nem rendelte meg a közszolgálati tisztviselő, szakmai vezető, politikai vezető részére annak korábbi nyilatkozata alapján.
+(8)[^19] Ha a juttatások év közbeni módosításának lehetőségét biztosítja a közigazgatási szerv a közszolgálati tisztviselő, szakmai vezető, politikai vezető számára, akkor annak módját, feltételeit a közszolgálati szabályzatban meg kell állapítani.
 
 (9) Ha a közszolgálati tisztviselő, szakmai vezető, politikai vezető jogviszonya év közben keletkezik, vagy a közszolgálati tisztviselő, szakmai vezető áthelyezésére kerül sor, illetve tartós távollétéről tér vissza, akkor az első munkában töltött napot követő 10 munkanapon belül nyilatkozik az általa választott cafetéria-juttatásról.
 
@@ -24,8 +24,12 @@
 
 (11) Ha a közszolgálati tisztviselő, szakmai vezető, politikai vezető önhibájából nem nyilatkozik határidőben az általa választott cafetéria-juttatásról, akkor a hivatali szervezet vezetője által meghatározott juttatásra jogosult.
 
-(12) A juttatás elszámolásakor figyelembe kell venni a közszolgálati tisztviselő, szakmai vezető, politikai vezető nevére szóló, a szerv által már megrendelt utalvány összegét is. Továbbá igénybe vett juttatásnak kell tekinteni az elszámolás során az Szja tv. 71. § (3) bekezdése szerinti juttatások esetében a kiutalt tárgyhavi munkáltatói hozzájárulást.
+(12)[^20]
 
 (13) A hivatali szervezet vezetője által kiadott közszolgálati szabályzat a szervezet személyi állományának egyes csoportjai tekintetében nem állapíthat meg valamely szempont alapján eltérő mértékű keretösszeget, illetve eltérő választható juttatásokat.
 
-[^12]: A 8. §-t a 415/2012. (XII. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^16]: A 8. §-t a 415/2012. (XII. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^17]: A 9. § (1) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^18]: A 9. § (7) bekezdését a 338/2017. (XI. 14.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^19]: A 9. § (8) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^20]: A 9. § (12) bekezdését a 338/2017. (XI. 14.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
