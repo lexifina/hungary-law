@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-257-20-
 | 2014-03-15 | 2007-257-20-22.7 | 53/2014. (III. 3.) Korm. rendelet |
 | 2015-11-01 | 2007-257-20-22.8 | 323/2015. (X. 30.) Korm. rendelet |
 | 2017-01-01 | 2007-257-20-22.9 | 487/2016. (XII. 28.) Korm. rendelet |
+| 2017-11-15 | 2007-257-20-22.10 | 339/2017. (XI. 14.) Korm. rendelet |
