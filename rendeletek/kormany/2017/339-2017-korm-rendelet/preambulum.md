@@ -1,1 +1,0 @@
-A Kormány a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 8. pontjában, és a 198. § (2) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
