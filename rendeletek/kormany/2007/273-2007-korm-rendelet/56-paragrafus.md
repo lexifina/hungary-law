@@ -1,4 +1,4 @@
-56. §[^234] (1)[^235] Az átviteli rendszerüzemeltető, valamint – az átviteli rendszerirányító teljes tulajdonosi szétválasztása esetén – az átviteli rendszerirányító a VET szerinti engedélyköteles tevékenysége vonatkozásában köteles saját alkalmazásban lévő munkavállalókkal folyamatosan eleget tenni legalább az alábbi kötelezettségeinek az engedélyében meghatározottak szerint:
+56. §[^236] (1)[^237] Az átviteli rendszerüzemeltető, valamint – az átviteli rendszerirányító teljes tulajdonosi szétválasztása esetén – az átviteli rendszerirányító a VET szerinti engedélyköteles tevékenysége vonatkozásában köteles saját alkalmazásban lévő munkavállalókkal folyamatosan eleget tenni legalább az alábbi kötelezettségeinek az engedélyében meghatározottak szerint:
 
 a) a villamosenergia-rendszer üzemelőkészítése, operatív üzemirányítása, üzemeltetése és üzemértékelése,
 
@@ -14,5 +14,5 @@ f) a villamosenergia-rendszer együttműködő képességének megőrzése érde
 
 (2) A VET 102–102/E. §-a szerinti átviteli rendszerirányító az (1) bekezdésben foglaltakon túlmenően a VET szerinti engedélyköteles tevékenysége vonatkozásban köteles saját alkalmazásban lévő munkavállalókkal folyamatosan eleget tenni a VET 102/B. § (3) bekezdés c) pontjában foglaltaknak.
 
-[^234]: A Vhr. 56. § a 75/2011. (V. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^235]: A Vhr. 56. § (1) bekezdése a 300/2013. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg. [A 75/2011. (V. 2.) Korm. rendelet 2. §-ával elrendelt módosítás nem vezethető át.]
+[^236]: A Vhr. 56. § a 75/2011. (V. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^237]: A Vhr. 56. § (1) bekezdése a 300/2013. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg. [A 75/2011. (V. 2.) Korm. rendelet 2. §-ával elrendelt módosítás nem vezethető át.]

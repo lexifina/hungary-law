@@ -1,4 +1,4 @@
-21/A. §[^74] (1) Az engedélyes biztosítja, hogy a számlázás és az elszámolás a tényleges energiafogyasztás és az egyes zónaidőkre, illetve időszakos árszabás szerinti egy árszabási időszakra vonatkozó díjtétel szorzatán alapuljon, valamint a számla megjelenítése világos és érthető legyen.
+21/A. §[^76] (1) Az engedélyes biztosítja, hogy a számlázás és az elszámolás a tényleges energiafogyasztás és az egyes zónaidőkre, illetve időszakos árszabás szerinti egy árszabási időszakra vonatkozó díjtétel szorzatán alapuljon, valamint a számla megjelenítése világos és érthető legyen.
 
 (2) Távlehívható fogyasztásmérővel végzett mérés esetén az elszámolás alapját képező mennyiség megállapítására vonatkozó módszertant az elosztói szabályzatban úgy kell kialakítani, hogy az biztosítsa a kezdő és záró mérőállások különbségével való egyezést, valamint a tényleges energiafogyasztás és az egyes zónaidőkre, illetve időszakos árszabás szerinti egy árszabási időszakra vonatkozó díjtétel szorzatán alapuljon.
 
@@ -26,4 +26,4 @@ b) legalább negyedévente – az elszámoló számlán, valamint a részszáml�
 
 (7) Az engedélyes a felhasználó számára a távleolvasott adatokhoz honlapján hozzáférést biztosít az információs önrendelkezési jogról és az információszabadságról szóló törvénynek megfelelően és az üzletszabályzatában meghatározott módon.
 
-[^74]: A Vhr. 21/A. §-át a 64/2009. (III. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 123/2015. (V. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^76]: A Vhr. 21/A. §-át a 64/2009. (III. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 123/2015. (V. 26.) Korm. rendelet 10. §-ával megállapított szöveg.

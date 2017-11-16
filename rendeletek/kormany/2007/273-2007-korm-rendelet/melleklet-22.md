@@ -1,4 +1,4 @@
-22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^519]
+22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^522]
 
 Az erőművi főberendezések adatai
 
@@ -160,28 +160,4 @@ d) kipufogógáz hűtő,
 
 10.8. névleges szélsebesség (m/s),
 
-10.9. leállító szélsebesség (m/s),
-
-10.10. túlélő szélsebesség (m/s),
-
-10.11. generátor névleges teljesítőképessége (MW),
-
-10.12. generátor névleges kapocsfeszültsége (V),
-
-10.13. toronyból kiadott névleges feszültség (V),
-
-10.14. helyrajzi szám,
-
-10.15. EOV koordináta.
-
-11. Napelemtábla esetében
-
-11.1. az alkalmazott napelemtábla típusa (gyártási szabvány),
-
-11.2. a telepítés módja (fix vagy napkövető),
-
-11.3. a napelemtábla névleges teljesítőképessége (W),
-
-11.4. a napelemtábla felülete (m2).
-
-[^519]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
+[^522]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.

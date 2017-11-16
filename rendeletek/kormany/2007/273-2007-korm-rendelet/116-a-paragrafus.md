@@ -1,4 +1,4 @@
-116/A. §[^377] (1)[^378] A miniszter megküldi az Európai Bizottság részére a belső energiapiac működésével vagy az Európai Unió energiaellátásának biztonságával kapcsolatos, harmadik országgal vagy nemzetközi szervezettel kötött kormányközi megállapodásokat és azok módosítását.
+116/A. §[^379] (1)[^380] A miniszter megküldi az Európai Bizottság részére a belső energiapiac működésével vagy az Európai Unió energiaellátásának biztonságával kapcsolatos, harmadik országgal vagy nemzetközi szervezettel kötött kormányközi megállapodásokat és azok módosítását.
 
 (2) Ha az (1) bekezdés szerinti kormányközi megállapodás egyéb, a belső energiapiac működésére vagy az Európai Unió energiaellátásnak biztonságával kapcsolatos dokumentumra hivatkozik, a miniszter – a (3) és (4) bekezdésre is figyelemmel – gondoskodik a dokumentum Európai Bizottság részére történő megküldéséről.
 
@@ -20,5 +20,5 @@ f) a főbb elemekre vonatkozó információkat
 
 tartalmazza.
 
-[^377]: A Vhr. 116/A. §-át a 344/2013. (IX. 27.) Korm. rendelet 3. §-a iktatta be.
-[^378]: A Vhr. 116/A. § (1) bekezdése a 275/2017. (IX. 21.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^379]: A Vhr. 116/A. §-át a 344/2013. (IX. 27.) Korm. rendelet 3. §-a iktatta be.
+[^380]: A Vhr. 116/A. § (1) bekezdése a 275/2017. (IX. 21.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.

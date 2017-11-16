@@ -1,4 +1,4 @@
-13/C. §[^54] (1) Amennyiben a magánvezeték engedélyese villamosenergia-kereskedelmi engedély iránti kérelmet nyújt be a Hivatalhoz, erről a vételezőt a kérelem benyújtásával egyidejűleg írásban tájékoztatja, valamint felhívja a vételező figyelmét arra, hogy a vételezőnek történő továbbadásra a villamosenergia-kereskedelmi engedélye hatálybalépését követően nem jogosult.
+13/C. §[^56] (1) Amennyiben a magánvezeték engedélyese villamosenergia-kereskedelmi engedély iránti kérelmet nyújt be a Hivatalhoz, erről a vételezőt a kérelem benyújtásával egyidejűleg írásban tájékoztatja, valamint felhívja a vételező figyelmét arra, hogy a vételezőnek történő továbbadásra a villamosenergia-kereskedelmi engedélye hatálybalépését követően nem jogosult.
 
 (2) Az (1) bekezdés szerinti tájékoztatásnak tartalmaznia kell a hálózati engedélyes nevét és ügyfélszolgálati irodájának címét, továbbá a magánvezeték használatára irányuló jogokat és kötelezettségeket tartalmazó szerződés (a továbbiakban: magánvezeték-használati szerződés) megkötésének vagy módosításának részletes feltételeit, valamint a villamosenergia-értékesítésre vonatkozó ajánlatot.
 
@@ -18,4 +18,4 @@ c) villamosenergia-kereskedővel villamosenergia-vásárlási szerződést köt.
 
 (7) A hálózati engedélyes, a magánvezeték engedélyese és a magánvezetékre kapcsolódó felhasználó a villamosenergia-ellátási szabályzatokban előírtak szerint együttműködik a villamosenergia-rendszer üzembiztos működése, az előírt hiteles mérés és elszámolás megvalósítása céljából.
 
-[^54]: A Vhr. 13/C. §-át a 378/2011. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^56]: A Vhr. 13/C. §-át a 378/2011. (XII. 31.) Korm. rendelet 5. §-a iktatta be.

@@ -1,4 +1,4 @@
-112/B. §[^346] (1) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény szerinti műemlék tulajdonosa a VET 119/B. §-a szerinti, a műemlék felújítása esetén kezdeményezhető kábelcserét a kábelcsere tervezett időpontját legalább 12 hónappal megelőzően írásban bejelenti az elosztó számára.
+112/B. §[^348] (1) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény szerinti műemlék tulajdonosa a VET 119/B. §-a szerinti, a műemlék felújítása esetén kezdeményezhető kábelcserét a kábelcsere tervezett időpontját legalább 12 hónappal megelőzően írásban bejelenti az elosztó számára.
 
 (2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell:
 
@@ -8,4 +8,4 @@ b) a műemlék felújítási ütemtervét, és ezzel összefüggésben a kábelc
 
 (3) A VET 119/B. § (1) bekezdése szerinti közintézmény vagy sportlétesítmény esetében az elosztó részére történő kezdeményezésnek tartalmaznia kell annak a közintézménynek vagy sportlétesítménynek a megnevezését, címét és helyrajzi számát, amelyre tekintettel a kábelcserét kezdeményezik.
 
-[^346]: A Vhr. 112/B. §-át a 119/2013. (IV. 23.) Korm. rendelet 11. §-a iktatta be.
+[^348]: A Vhr. 112/B. §-át a 119/2013. (IV. 23.) Korm. rendelet 11. §-a iktatta be.

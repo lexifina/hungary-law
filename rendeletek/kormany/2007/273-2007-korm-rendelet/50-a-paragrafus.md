@@ -1,4 +1,4 @@
-50/A. §[^215] (1) A szervezett villamosenergia-piaci szabályzat célja a szervezett villamosenergia-piac hátrányos megkülönböztetéstől mentes működésének biztosítása, és legalább az alábbi alapvető tárgyköröket szabályozza:
+50/A. §[^217] (1) A szervezett villamosenergia-piaci szabályzat célja a szervezett villamosenergia-piac hátrányos megkülönböztetéstől mentes működésének biztosítása, és legalább az alábbi alapvető tárgyköröket szabályozza:
 
 a) a szervezett villamosenergia-piacon forgalmazott termékek körét,
 
@@ -32,4 +32,4 @@ m) a szervezett villamosenergia-piaci engedélyes tájékoztatási és adatszolg
 
 (4) A szervezett villamosenergia-piaci engedélyes a szervezett villamosenergia-piaci szabályzatot és az üzletszabályzatát egy dokumentumban összevontan is elkészítheti, amelynek esetén köteles gondoskodni azok megfelelő tagolásáról és az egyes tárgykörök világos elkülönítéséről.
 
-[^215]: A Vhr. 50/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 16. §-a iktatta be.
+[^217]: A Vhr. 50/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 16. §-a iktatta be.
