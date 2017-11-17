@@ -1,4 +1,4 @@
-## 17. §[^10]
+## 17. §[^14]
 
 ## 8. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 12. § (3) bekezdése és a 7. melléklet 2018. február 1-jén lép hatályba.
 
-[^10]: A 17. § a 18. § (2) bekezdése alapján 2017. december 1-jén lép hatályba.
+[^14]: A 17. § a 18. § (2) bekezdése alapján 2017. december 1-jén lép hatályba.
