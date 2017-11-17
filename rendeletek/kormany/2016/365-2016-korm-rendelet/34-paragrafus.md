@@ -1,4 +1,4 @@
-## 33. § Ez a rendelet 2017. január 1-jén lép hatályba.
+## 33/A. §[^6] E rendeletnek az egyes foglalkoztatási, valamint pénzügyi tárgyú kormányrendeletek módosításáról szóló 345/2017. (XI. 16.) Korm. rendelettel (a továbbiakban: Módkr.) megállapított 28. §-át a Módkr. hatálybalépésekor[^7] folyamatban lévő ügyekben is alkalmazni kell.
 
 34. § (1) E rendelet
 
@@ -49,3 +49,6 @@
 4. az energiával kapcsolatos termékek energia- és egyéb erőforrás-fogyasztásának címkézéssel és szabványos termékismertetővel történő jelöléséről szóló, 2010. május 19-i 2010/30/EU európai parlamenti és tanácsi irányelvnek,
 
 5. a robbanásveszélyes légkörben való használatra szánt felszerelésekre és védelmi rendszerekre vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/34/EU európai parlamenti és tanácsi irányelvnek
+
+[^6]: A 33/A. §-t a 345/2017. (XI. 16.) Korm. rendelet 14. §-a iktatta be.
+[^7]: A hatálybalépés időpontja 2017. november 17.

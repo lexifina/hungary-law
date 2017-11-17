@@ -1,4 +1,4 @@
-## 28. § A Kormány Budapest Főváros Kormányhivatalának a szerencsejáték eszköz hitelesítési engedélyének kiadására irányuló eljárásában – annak elbírálása kérdésében, hogy a kérelem szerinti készüléktípus megfelel-e a pénznyerő automatára, illetve a játékautomatára vonatkozó jogszabályi előírásoknak – a Nemzeti Adó- és Vámhivatalt szakhatóságként jelöli ki.
+## 28. §[^5] A Kormány Budapest Főváros Kormányhivatalának a szerencsejáték eszköz hitelesítési engedélyének kiadására irányuló eljárásában – annak elbírálása kérdésében, hogy a kérelem szerinti készüléktípus megfelel-e a pénznyerő automatára, illetve a játékautomatára vonatkozó jogszabályi előírásoknak – a szerencsejáték-felügyeleti hatóságot szakhatóságként jelöli ki.
 
 29. § (1) A Kormány Budapest Főváros Kormányhivatalának a kettős felhasználású nukleáris termékek és technológiák exportjával és Közösségen belüli átadásának engedélyezésére irányuló eljárásában – annak elbírálása kérdésében, hogy az importált termék, technológia reexportja, továbbá az importált létesítmény, berendezés vagy technológia segítségével előállított nukleáris termék exportja az atomenergia békés célú alkalmazására vonatkozó nemzetközi kötelezettségvállalásoknak, valamint a nukleáris biztonsági előírásoknak megfelel-e – az Országos Atomenergia Hivatalt szakhatóságként jelöli ki.
 
@@ -13,3 +13,5 @@
 (6) A Kormány Budapest Főváros Kormányhivatalának a nukleáris termékek Magyarország területéről az Európai Unió másik tagállamába, illetve az Európai Unió másik tagállamának területéről Magyarországra történő szállításának és a nukleáris kettős felhasználású termékek Magyarország területéről az Európai Unióba történő szállításának az engedélyezésére irányuló eljárásában – annak elbírálása kérdésében, hogy a nukleáris és nukleáris kettős felhasználású termékek nemzetközi forgalmának szabályozásáról szóló 144/2011. (VII. 27.) Korm. rendelet 7. §-ában és 8. §-ában meghatározott feltételek teljesültek-e – az Országos Atomenergia Hivatalt szakhatóságként jelöli ki.
 
 (7) Az (1)–(6) bekezdésben felsorolt esetekben az Országos Atomenergia Hivatal az ügyfél eljárás megindítása előtt benyújtott kérelmére hat hónapig felhasználható előzetes szakhatósági állásfoglalást ad ki.
+
+[^5]: A 28. § a 345/2017. (XI. 16.) Korm. rendelet 15. §-a szerint módosított szöveg.
