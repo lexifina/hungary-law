@@ -10,14 +10,14 @@ c) ellátja a NAV vámigazgatási, jövedéki igazgatási, fémkereskedelmi, sza
 
 d) ellátja a büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény szerinti, a NAV nyomozó szervét érintő feladatokat;
 
-e)[^79] végzi a NAV hatáskörébe utalt bűncselekmény megakadályozása, megszakítása érdekében a tetten ért vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy elfogását;
+e)[^80] végzi a NAV hatáskörébe utalt bűncselekmény megakadályozása, megszakítása érdekében a tetten ért vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy elfogását;
 
-f)[^80] végzi a fokozottan veszélyesnek minősülő olyan elfogott, előállított, őrizetbe vett és fogva tartott személy őrzését, kísérését, akinek szökésétől, erőszakos magatartásától, illetve a kiszabadítására, a büntetőeljárásban való részvétele alól történő kivonására irányuló külső fellépéstől lehet tartani;
+f)[^81] végzi a fokozottan veszélyesnek minősülő olyan elfogott, előállított, őrizetbe vett és fogva tartott személy őrzését, kísérését, akinek szökésétől, erőszakos magatartásától, illetve a kiszabadítására, a büntetőeljárásban való részvétele alól történő kivonására irányuló külső fellépéstől lehet tartani;
 
-g)[^81] a büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtásának szabályairól szóló 34/1999. (II. 26.) Korm. rendelet 12. § (2) bekezdés d–f) pontja szerinti módon ellátja a NAV nyomozó szervei által elrendelt személyi védelmet.
+g)[^82] a büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtásának szabályairól szóló 34/1999. (II. 26.) Korm. rendelet 12. § (2) bekezdés d–f) pontja szerinti módon ellátja a NAV nyomozó szervei által elrendelt személyi védelmet.
 
 (2) A Bűnügyi Főigazgatóság – az eljáró szerv megkeresésére – ellátja az (1) bekezdés c) pontjában nem szereplő eljárásokban lefoglalt, a NAV rendelkezése alá került dolgok szállításával és tárolásával kapcsolatos feladatokat is.
 
-[^79]: A 86. § (1) bekezdés e) pontját a 214/2017. (VII. 25.) Korm. rendelet 11. §-a iktatta be.
-[^80]: A 86. § (1) bekezdés f) pontját a 214/2017. (VII. 25.) Korm. rendelet 11. §-a iktatta be.
-[^81]: A 86. § (1) bekezdés g) pontját a 214/2017. (VII. 25.) Korm. rendelet 11. §-a iktatta be.
+[^80]: A 86. § (1) bekezdés e) pontját a 214/2017. (VII. 25.) Korm. rendelet 11. §-a iktatta be.
+[^81]: A 86. § (1) bekezdés f) pontját a 214/2017. (VII. 25.) Korm. rendelet 11. §-a iktatta be.
+[^82]: A 86. § (1) bekezdés g) pontját a 214/2017. (VII. 25.) Korm. rendelet 11. §-a iktatta be.

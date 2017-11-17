@@ -1,8 +1,8 @@
-## 62. §[^66] A KAVIG végzi a 61. § a)–b), l) és n) pontja szerinti feladatok ellátásával összefüggő vámellenőrzést, ideértve az áruátengedést követő ellenőrzést is.
+## 62. §[^67] A KAVIG végzi a 61. § a)–b), l) és n) pontja szerinti feladatok ellátásával összefüggő vámellenőrzést, ideértve az áruátengedést követő ellenőrzést is.
 
 ## 24. A KAVIG különös hatásköri szabályai egyes adózók vonatkozásában
 
-63. § (1)[^67] Kizárólag a KAVIG jár el az állami adó- és vámhatóság hatáskörébe tartozó adók, költségvetési támogatások tekintetében a regisztrációs adó, illetve az illetékügyek kivételével, ide nem értve a soron kívüli adómegállapítás során kiszabott, valamint az Itv. 73. § (3) bekezdése szerinti, az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét, illetve ha jogszabály másként nem rendelkezik
+63. § (1)[^68] Kizárólag a KAVIG jár el az állami adó- és vámhatóság hatáskörébe tartozó adók, költségvetési támogatások tekintetében a regisztrációs adó, illetve az illetékügyek kivételével, ide nem értve a soron kívüli adómegállapítás során kiszabott, valamint az Itv. 73. § (3) bekezdése szerinti, az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét, illetve ha jogszabály másként nem rendelkezik
 
 a) az alábbi, az Áfa törvény alapján adó-visszatérítésre jogosult személyek, illetve szervek adó-visszatérítés iránti kérelmének elbírálása során
 
@@ -30,19 +30,19 @@ f) a honvédelemért felelős miniszter közvetlen alárendeltségébe és közv
 
 g) a rendészetért felelős miniszter, illetve a Büntetés-végrehajtás Országos Parancsnoksága felügyelete és irányítása alá tartozó gazdasági társaságok adóügyeiben, amelyekben az állam tulajdonosi jogainak gyakorlója a rendészetért felelős miniszter, illetve a Büntetés-végrehajtás Országos Parancsnoksága;
 
-h)[^68] a NAV vezetőjének, szakmai helyetteseinek valamint foglalkoztatottainak adóügyében;
+h)[^69] a NAV vezetőjének, szakmai helyetteseinek valamint foglalkoztatottainak adóügyében;
 
 i) az Art. 4. és 10. számú mellékletében meghatározott külföldi illetőségű adózók adóügyeiben és az Art. 9. számú melléklet II. pontjában meghatározott adóügyekben.
 
 (2) Ha jogszabály másként nem rendelkezik, a KAVIG jár el a NAV adóügyeiben az illetékügyek kivételével, ide nem értve az Itv. 73. § (3) bekezdése szerinti, az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét.
 
-(3)[^69] A KAVIG jogszabályban meghatározottak szerint ellátja a Jöt. szerinti adó diplomáciai és a konzuli képviselet és a diplomáciai és konzuli képviselet tagja, valamint a nemzetközi szervezet és a nemzetközi szervezet tagja által történő visszaigénylésével kapcsolatos feladatokat.
+(3)[^70] A KAVIG jogszabályban meghatározottak szerint ellátja a Jöt. szerinti adó diplomáciai és a konzuli képviselet és a diplomáciai és konzuli képviselet tagja, valamint a nemzetközi szervezet és a nemzetközi szervezet tagja által történő visszaigénylésével kapcsolatos feladatokat.
 
 (4) A KAVIG az állami adó- és vámhatóság vezetőjének utasítására, honvédelmi vagy nemzetbiztonsági érdekek által indokolt esetben a hatáskörébe nem tartozó, a Magyar Honvédséggel, illetve a nemzetbiztonsági szolgálatokkal szerződéses kapcsolatban állt vagy álló adózónál is végezhet az állami adó- és vámhatóság hatáskörébe tartozó eljárásokban ellenőrzést. Ebben az esetben az ellenőrzés eredménye alapján megindítandó hatósági eljárást is a KAVIG folytatja le.
 
 (5) Ha a KAVIG által folytatott ellenőrzés megalapozott lefolytatásához az Art. 87. § (1) bekezdés c) és d) pontja szerinti ellenőrzés kapcsolódó vizsgálatként való lefolytatására van szükség olyan adózónál, amely (aki) nem tartozik a KAVIG különös hatáskörébe, a kapcsolódó vizsgálatot, valamint az azt követő hatósági eljárást a KAVIG folytatja le, vagy – ha célszerűségi, szakmai szempontból indokolt – a KAVIG az ellenőrzés és szükség szerint a hatósági eljárás lefolytatása céljából megkeresi az általános szabályok szerint hatáskörrel és illetékességgel rendelkező megyei igazgatóságot.
 
-[^66]: A 62. § a 88/2016. (IV. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^67]: A 63. § (1) bekezdése a 481/2016. (XII. 28.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
-[^68]: A 63. § (1) bekezdés h) pontja a 481/2016. (XII. 28.) Korm. rendelet 17. §-ával megállapított, a 214/2017. (VII. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^69]: A 63. § (3) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^67]: A 62. § a 88/2016. (IV. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^68]: A 63. § (1) bekezdése a 481/2016. (XII. 28.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
+[^69]: A 63. § (1) bekezdés h) pontja a 481/2016. (XII. 28.) Korm. rendelet 17. §-ával megállapított, a 214/2017. (VII. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^70]: A 63. § (3) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-## 21.[^55]
+## 21. [^55] Szerencsejáték üggyel kapcsolatos különös illetékesség
 
-[^55]: A 21. alcímet (55–56. §) a 183/2017. (VII. 5.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^55]: A 21. alcímet (55. §) újonnan a 345/2017. (XI. 16.) Korm. rendelet 13. §-a iktatta be.

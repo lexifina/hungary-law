@@ -1,4 +1,4 @@
-64. §[^70] (1) A KAVIG jár el:
+64. §[^71] (1) A KAVIG jár el:
 
 a) a részvénytársasági formában működő hitelintézetek és biztosítók, valamint
 
@@ -6,4 +6,4 @@ b) az a) pontba nem tartozó, Budapest, illetve Pest megye közigazgatási terü
 
 (2) Az (1) bekezdés b) pontja alkalmazásában nem tekinthető kiemelt adózónak a csoportos adóalany abban az esetben sem, ha a külön jogszabályban meghatározottak szerint kiemeltnek minősül.
 
-[^70]: A 64. § a 88/2016. (IV. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^71]: A 64. § a 88/2016. (IV. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
