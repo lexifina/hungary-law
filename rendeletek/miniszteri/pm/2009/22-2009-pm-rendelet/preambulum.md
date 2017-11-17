@@ -1,1 +1,0 @@
-A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. § (8) bekezdésében kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
