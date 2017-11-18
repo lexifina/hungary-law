@@ -1,4 +1,4 @@
-## 12. § Hatályát veszti a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló 22/2009. (X. 16.) PM rendelet.
+## 12. §[^1]
 
 1. melléklet a 32/2017. (X. 18.) NGM rendelethez
 
@@ -57,3 +57,5 @@ VII. Egyéb
 2. Üzemi étkeztetés (TESZOR 56.29.2)
 
 3. Őrző-védő szolgáltatás (TESZOR 80.10.12)
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
