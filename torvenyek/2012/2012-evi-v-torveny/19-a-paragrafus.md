@@ -1,4 +1,4 @@
-19/A. § (1) Az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvénnyel [72. §, 98. §, 109. § (2) bekezdés 15., 17., 18., és 29. pontja] megállapított Kormánytisztviselői Döntőbizottságra vonatkozó szabályokat a folyamatban lévő ügyekben is alkalmazni kell.
+19/A. § (1) Az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvénnyel [72. §, 98. §, 109. § (2) bekezdés 15., 17., 18., és 29. pontja] megállapított Közszolgálati Döntőbizottságra vonatkozó szabályokat a folyamatban lévő ügyekben is alkalmazni kell.
 
 (2) 2013. július 1-jéig teljesítményértékelés, minősítés hiányában szakmai munka értékelést kell lefolytatni.
 

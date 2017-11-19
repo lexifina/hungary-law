@@ -8,7 +8,7 @@ b) a kártérítési igény érvényesítésére a Kttv., valamint a közszolgá
 
 (3) 2012. június 30-ig a kormányzati szolgálati jogviszonyban álló kormányzati szolgálati jogviszonyából származó igényét, továbbá a munkáltató és az érdek-képviseleti szerv a Kttv.-ből származó igényét a Kttv. 238. §-ának megfelelő alkalmazásával érvényesítheti.
 
-(4) A Kttv.-nek a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezéseit a 2012. július 1-jén és azt követően indított igényérvényesítések esetén kell alkalmazni.
+(4) A Kttv.-nek a Közszolgálati Döntőbizottságra vonatkozó rendelkezéseit a 2012. július 1-jén és azt követően indított igényérvényesítések esetén kell alkalmazni.
 
 (5)
 
