@@ -10,7 +10,7 @@ d) a törvényességi ellenőrzést végző vagy törvényességi felügyeletet 
 
 e) a fegyelmi eljárást lefolytató testület vagy személy,
 
-f) munkaügyi per kapcsán az eljáró bíróság, illetve a közszolgálati panasz kapcsán a Kormánytisztviselői Döntőbizottság,
+f) munkaügyi per kapcsán az eljáró bíróság, illetve a közszolgálati panasz kapcsán a Közszolgálati Döntőbizottság,
 
 g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,
 

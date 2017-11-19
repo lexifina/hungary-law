@@ -1,6 +1,6 @@
-191. § (1) A Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait (közszolgálati biztosok) a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki határozatlan időre.
+191. § (1) A Közszolgálati Döntőbizottság elnökét és helyettesét, valamint tagjait (közszolgálati biztosok) a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki határozatlan időre.
 
-(2) A Kormánytisztviselői Döntőbizottság tagja az lehet, aki
+(2) A Közszolgálati Döntőbizottság tagja az lehet, aki
 
 a) legalább ötéves közigazgatási gyakorlattal, és
 
@@ -10,8 +10,8 @@ c) közigazgatási vagy jogi szakvizsgával rendelkezik, és
 
 d) közszolgálati jog területén gyakorlatot szerzett.
 
-(3) Nem keletkeztet összeférhetetlenséget, ha a kormánytisztviselő, illetve a szakmai vezető a Kormánytisztviselői Döntőbizottság tagja.
+(3) Nem keletkeztet összeférhetetlenséget, ha a kormánytisztviselő, illetve a szakmai vezető a Közszolgálati Döntőbizottság tagja.
 
 (4) A közszolgálati panasz elbírálásában eljáró tanács tagjának összeférhetetlenségére a fegyelmi eljárásban kormányrendelet által meghatározott összeférhetetlenségi szabályokat kell megfelelően alkalmazni.
 
-(5) A Kormánytisztviselői Döntőbizottság szervezetére, eljárására és tagjainak juttatásaira vonatkozó szabályokat a Kormány rendeletben állapítja meg.
+(5) A Közszolgálati Döntőbizottság szervezetére, eljárására és tagjainak juttatásaira vonatkozó szabályokat a Kormány rendeletben állapítja meg.

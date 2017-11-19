@@ -66,7 +66,7 @@ vonatkozó részletes szabályokat;
 
 8. megállapítsa a címzetes főjegyzői cím adományozásának, megszűnésének és visszavonásának eljárási szabályait, valamint a címadományozási juttatás kifizetésére vonatkozó részletes szabályokat;
 
-9. a Kormánytisztviselői Döntőbizottság szervezetére és eljárására, határozatára, működését támogató szervezetre, eljárási határidőkre, valamint a Kormánytisztviselői Döntőbizottság jogállására, juttatásaira, továbbá a Kormánytisztviselői Döntőbizottság tagjának összeférhetetlenségére vonatkozó részletes szabályokat megállapítsa;
+9. a Közszolgálati Döntőbizottság szervezetére és eljárására, határozatára, működését támogató szervezetre, eljárási határidőkre, valamint a Közszolgálati Döntőbizottság jogállására, juttatásaira, továbbá a Közszolgálati Döntőbizottság tagjának összeférhetetlenségére vonatkozó részletes szabályokat megállapítsa;
 
 10. megállapítsa
 

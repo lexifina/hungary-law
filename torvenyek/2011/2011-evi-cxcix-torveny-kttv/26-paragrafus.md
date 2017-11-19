@@ -22,7 +22,7 @@ b) kidolgozza a közigazgatási személyzetpolitika irányait és elveit és gon
 
 (6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter képviseli a Kormányt a Közszolgálati Érdekegyeztető Fórumban.
 
-(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki a Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait.
+(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki a Közszolgálati Döntőbizottság elnökét és helyettesét, valamint tagjait.
 
 (8) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter dönt az 55. §-ban meghatározott kormányzati kirendelés elrendeléséről.
 
