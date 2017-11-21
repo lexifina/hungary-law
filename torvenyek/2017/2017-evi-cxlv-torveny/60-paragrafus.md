@@ -1,7 +1,0 @@
-60. § A Pft. a következő 52/A. §-sal egészül ki:
-
-„52/A. § (1) Ha a fizetési műveletet a fizető fél fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatón keresztül kezdeményezte, a fizető fél fizetési számláját vezető pénzforgalmi szolgáltatója haladéktalanul, de legkésőbb a következő munkanap végéig visszatéríti a fizető fél részére a nem teljesített vagy a hibásan teljesített fizetési művelet összegét, és a fizetési számlát olyan állapotba hozza, mintha a hibásan teljesített fizetési műveletre nem került volna sor.
-
-(2) Az (1) bekezdésben meghatározott esetben a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatót terheli annak bizonyítása, hogy a fizető fél fizetési számláját vezető pénzforgalmi szolgáltató a fizetési megbízást átvette, a saját felelősségi körén belül a fizetési művelet hitelesítése és pontos rögzítése megtörtént, a fizetési művelet teljesítését nem befolyásolta műszaki hiba vagy a nem teljesítés, hibás vagy késedelmes teljesítéssel összefüggő egyéb zavar.
-
-(3) Ha az (1) bekezdésben meghatározott esetért a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltató a felelős, akkor a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltató a fizetési számlát vezető pénzforgalmi szolgáltatónak – annak kérésére – haladéktalanul megtéríti a fizető félnek visszatérített összegek következtében elszenvedett veszteségeket és kifizetett összegeket.”

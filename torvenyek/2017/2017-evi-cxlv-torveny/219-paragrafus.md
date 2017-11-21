@@ -13,11 +13,3 @@ e) a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként
 f) a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló, 2014. november 26-i 1286/2014/EU európai parlamenti és tanácsi rendelet,
 
 g) a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelv.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

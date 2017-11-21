@@ -2,7 +2,7 @@
 
 a) 43. § (3) bekezdésében a „c–f), h)” szövegrész helyébe a „c)–h)” szöveg,
 
-b) 46. § nyitó szövegrészében az „(a továbbiakban: Ákr.)” szövegrész helyébe az „(a továbbiakban: Ákr.), valamint a közigazgatási szabályszegések szankcióiról szóló törvény” szöveg,
+b)
 
 c) 53. § (4) bekezdés nyitó szövegrészében az „a Bszt.-ben és a Kbftv.-ben” szövegrész helyébe az „a Bszt.-ben, a Kbftv.-ben, az Fnytv.-ben, az Mpt.-ben és az Öpt.-ben” szöveg,
 
@@ -30,8 +30,8 @@ n) 79. § (11) bekezdésében a „felügyeleti biztosi feladatok ellátására 
 
 o) 80. § (1) bekezdésében az „MNB határozatban” szövegrész helyébe az „MNB döntésében” szöveg, a „bármikor határozatban” szövegrész helyébe a „bármikor döntésével” szöveg,
 
-p) 140. § (3) bekezdés f) pontjában a „biztosítók vagy viszontbiztosítók” szövegrész helyébe a „biztosítók, viszontbiztosítók, biztosításközvetítők, viszontbiztosítás-közvetítők vagy kiegészítő biztosításközvetítői tevékenységet végző személyek” szöveg,
+p)
 
-q) 1. melléklet I. pontjának címében az „ügyek” szövegrész helyébe az „egyes ügyek” szöveg
+q)
 
 lép.
