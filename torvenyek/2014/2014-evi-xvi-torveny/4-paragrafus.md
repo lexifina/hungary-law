@@ -24,6 +24,8 @@ e) az a letelepedés szerinti tagállamtól különböző referencia-tagállam, 
 
 f) az a letelepedés szerinti tagállamtól különböző referencia-tagállam, amelyben egy nem uniós ABAK egy nem uniós ABA kollektív befektetési értékpapírjait forgalmazza;
 
+g) az a letelepedés szerinti tagállamtól különböző EGT-állam, amelyben egy uniós ABAK a 7. § (3) bekezdésben foglalt szolgáltatásokat nyújtja;
+
 5. ABAK-irányelv: az Európai Parlament és a Tanács 2011. június 8-i 2011/61/EU irányelve az alternatívbefektetésialap-kezelőkről, valamint a 2003/41/EK és a 2009/65/EK irányelv, továbbá az 1060/2009/EK és az 1095/2010/EU rendelet módosításáról;
 
 6. ABAK-rendelet: a Bizottság 2012. december 19-i 231/2013/EU felhatalmazáson alapuló rendelete a 2011/61/EU európai parlamenti és tanácsi irányelvnek a mentességek, az általános működési feltételek, a letétkezelők, a tőkeáttétel, az átláthatóság és a felügyelet tekintetében történő kiegészítéséről;

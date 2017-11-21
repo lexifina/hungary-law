@@ -4,7 +4,7 @@
 
 a) a 7. § (1) bekezdésben foglalt tevékenység végzésére jogosító engedély más EGT-államban letelepedett uniós ABA kezelésére jogosít, feltéve, ha az ABAK rendelkezik engedéllyel az adott típusú ABA kezelésére;
 
-b) az a) ponttól eltérő tevékenység végzésére jogosító engedély más EGT-államban e tevékenység végzésére jogosít.
+b) a 7. § (3) bekezdésben foglalt szolgáltatások nyújtására jogosító engedély más EGT-államban e szolgáltatások nyújtására jogosít.
 
 (2) Az az ABAK, amely határon átnyúló szolgáltatásként első alkalommal kíván számára engedélyezett, (1) bekezdésben meghatározottak szerint tevékenységet végezni más EGT-államban, a Felügyelet részére megküldi
 
