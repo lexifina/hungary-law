@@ -1,6 +1,6 @@
 ## 182. A többes ügynöki és alkuszi tevékenység kérelemre történő megszüntetése és felfüggesztése
 
-420. § (1) Ha a többes ügynök vagy az alkusz a tevékenységét megszünteti, a Felügyelet a tevékenység megszüntetését akkor engedélyezi, ha a többes ügynök vagy az alkusz a tevékenységből eredő minden kötelezettségét teljesítette.
+420. § (1) Ha a többes ügynök vagy az alkusz a tevékenységét megszünteti, a Felügyelet a tevékenység megszüntetését akkor engedélyezi, ha a többes ügynök vagy az alkusz a tevékenységből eredő minden, az ügyfél által befizetett, a biztosítót megillető, vagy a biztosító által kifizetett, az ügyfelet megillető pénzeszközzel kapcsolatos kötelezettségét teljesítette.
 
 (2) A kérelmező az (1) bekezdésben foglalt körülmények bizonyítására alkalmas okiratot vagy nyilatkozatot köteles a Felügyeletnek benyújtani.
 

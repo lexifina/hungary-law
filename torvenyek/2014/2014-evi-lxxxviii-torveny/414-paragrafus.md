@@ -14,7 +14,13 @@ e) a tevékenységével kapcsolatban okozott károk fedezetére szolgáló felel
 
 f) – az életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenység tekintetében – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti belső szabályzatot.
 
-(2)
+(2) Ha a többes ügynök vagy az alkusz a tevékenysége megszüntetésének engedélyezésével egyidejűleg
+
+a) alkusz esetén többes ügynöki,
+
+b) többes ügynök esetén alkuszi
+
+tevékenység engedélyezését kérelmezi, akkor a 420. § (1) és (2) bekezdésében foglaltak nem alkalmazandóak.
 
 (3) Ha a Felügyelet a többes ügynöki és az alkuszi tevékenység irányításáért felelős természetes személy foglalkoztatásának engedélyezéséről a többes ügynöki és az alkuszi tevékenységi engedélyezés tárgyában induló eljárásban dönt, az (1) bekezdésben meghatározott kérelemhez mellékelni kell a 416. § (1) bekezdésében meghatározott dokumentumokat.
 

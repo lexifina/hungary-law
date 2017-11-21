@@ -2,6 +2,8 @@
 
 (2) Azon életbiztosítási szerződések esetében, amelyek megkötése előtt az (1) bekezdés alapján igényfelmérést kell készíteni, a biztosító köteles – a 152. §-ban meghatározott tájékoztatáson túl – az (1) bekezdésben meghatározott igényfelmérés, illetve igénypontosítás alapján a 4. melléklet B) pontja szerinti termékismertetőt is a 152. § (1) bekezdésében meghatározott módon átadni.
 
+(2a) A 4. melléklet B) pontja szerinti termékismertető 4. alpontja szerinti tájékoztatást minden életbiztosítási szerződés esetén (ide nem értve a határozott idejű kockázati életbiztosítási szerződéseket) meg kell adni az ügyfél számára.
+
 (3) A biztosítót a 152. §-ban, az (1)–(2) és (5) bekezdésben és a 155. § (1) bekezdésben meghatározott kötelezettség
 
 a) nem terheli, ha a szerződés viszontbiztosítási szerződés, valamint a szerződés nagykockázatra létrejövő biztosítási szerződés,

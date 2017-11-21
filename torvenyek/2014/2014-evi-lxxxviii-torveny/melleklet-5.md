@@ -72,6 +72,8 @@
 
 ## 3.6. Technikai kamatlábbal nem rendelkező, az 1. és 2. életbiztosítási ágazatba tartozó biztosítások esetén – értelemszerű módosításokkal – a 3.5. pontban foglaltaknak megfelelően kell eljárni.
 
+## 4. A határozott idejű kockázati életbiztosítások kivételével, amennyiben a biztosító az életbiztosítási termékismertetőben számokat közöl a biztosítási szerződésben rögzített kifizetéseken túli esetleges kifizetések összegéről, akkor olyan mintaszámítást kell levezetnie, amely a potenciális kifizetést három különböző kamatlábbal számolva tünteti fel. A biztosítónak egyben világos és érthető módon tájékoztatnia kell a szerződőt arról is, hogy a mintaszámítás csupán fiktív feltételezésen alapuló számítási modell, amelynek alapján a szerződő semmiféle szerződéses igényt nem támaszthat.
+
 5. melléklet a 2014. évi LXXXVIII. törvényhez
 
 A közvetett tulajdon megállapítása, illetve kiszámítása

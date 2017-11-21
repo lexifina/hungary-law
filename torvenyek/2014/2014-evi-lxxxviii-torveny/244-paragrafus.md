@@ -14,7 +14,7 @@ ea) a szervezeti és működési szabályzatot,
 
 eb) a vezető állású személyek és egyéb vezetők természetes személyazonosító adatait, és az 54. § (1) bekezdésében, az 57. § (1) bekezdésében, az 59. § (1) bekezdésében, a 61. § (1) bekezdésében, a 63. § (2) bekezdésében, a 65. § (1) bekezdésében és a 67. § (1) bekezdésében meghatározott követelmények fennállását igazoló dokumentumokat, ide nem értve a 238. § c) pontjában meghatározott személyeket, ha az alapítási engedélyhez képest e vezető állású személyeket illetően változás nem következett be,
 
-ec) a kockázatkezelési rendszer, a belső audit, a belső ellenőrzési rendszer működésére vonatkozó dokumentumokat, továbbá – ha ügymenet kiszervezésre kerül sor – az ügymenet-kiszervezésre vonatkozó dokumentumokat;
+ec) a kockázatkezelési rendszer, a belső ellenőrzési feladatkör és a belső ellenőrzési rendszer működésére vonatkozó dokumentumokat, továbbá – ha ügymenet kiszervezésre kerül sor – az ügymenet-kiszervezésre vonatkozó dokumentumokat;
 
 f) a biztosítási vagy a viszontbiztosítási tevékenység végzéséhez szükséges 93–94. §-ban meghatározott tárgyi feltételek meglétének igazolását, amelynek keretében mellékelni kell legalább
 

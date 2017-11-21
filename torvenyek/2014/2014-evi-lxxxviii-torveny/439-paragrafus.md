@@ -4,7 +4,7 @@ a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződés
 
 b) a határon átnyúló tevékenységekre vonatkozó – 287. § (1)–(2) bekezdésben meghatározott – statisztikai tájékoztatás tartalmára és módjára,
 
-c) a biztosítók 269. § (3) bekezdés a) pontjában meghatározott belső adatszolgáltatásának rendjére és tartalmára,
+c) a biztosítók 269. § (9) bekezdés a) pontjában meghatározott belső adatszolgáltatásának rendjére és tartalmára,
 
 d) a többes ügynök és az alkusz jelentésének szabályaira,
 

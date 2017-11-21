@@ -1,0 +1,1 @@
+452/G. § A 393. § (2) bekezdése és a 406. § (2) bekezdése – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – rendelkezései szerinti jelentéstételi kötelezettségeknek a többes ügynököknek és alkuszoknak első alkalommal a 2018-as évre vonatkozóan kell eleget tenniük.

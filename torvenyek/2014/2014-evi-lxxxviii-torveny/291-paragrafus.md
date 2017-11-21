@@ -48,7 +48,7 @@ m) előírhatja a hatodik rész hatálya alá
 
 ma) nem tartozó biztosító vagy viszontbiztosító részére pénzügyi terv vagy helyreállítási terv, vagy
 
-mb) tartozó kisbiztosító részére szanálási terv, pénzügyi terv, pénzügyi helyreállítási terv
+mb) tartozó kisbiztosító részére feltőkésítési terv, pénzügyi terv, pénzügyi helyreállítási terv
 
 benyújtását;
 

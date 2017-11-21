@@ -14,7 +14,7 @@ f) a személyi feltételekre és – a hatodik rész hatálya alá tartozó bizt
 
 g) áttekinthető szervezeti felépítés.
 
-(2) A nyilvántartási és ellenőrzési rendszer akkor megfelelő, ha – a számviteli jogszabályokban foglaltakon túlmenően – lehetővé teszi a biztosító és a viszontbiztosító körültekintő vezetését, a biztosító és a viszontbiztosító vezetésének a belső ellenőrzés, valamint a Felügyelet által történő ellenőrzését és segíti a biztosítót abban, hogy eleget tegyen a jogszabályok alapján rá háruló kötelezettségeknek.
+(2) A nyilvántartási és belső ellenőrzési rendszer akkor megfelelő, ha – a számviteli jogszabályokban foglaltakon túlmenően – lehetővé teszi a biztosító és a viszontbiztosító körültekintő vezetését, a biztosító és a viszontbiztosító vezetésének a belső ellenőrzés, valamint a Felügyelet által történő ellenőrzését és segíti a biztosítót abban, hogy eleget tegyen a jogszabályok alapján rá háruló kötelezettségeknek.
 
 (3) A biztosítónak és a viszontbiztosítónak – az informatikai rendszer védelméről szóló jogszabályban meghatározott követelményekkel összhangban – ki kell alakítania a tevékenységének ellátásához használt informatikai rendszer biztonságával kapcsolatos szabályozási rendszerét és gondoskodnia kell az informatikai rendszer kockázatokkal arányos védelméről.
 

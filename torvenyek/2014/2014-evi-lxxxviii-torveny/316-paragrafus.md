@@ -1,4 +1,4 @@
-## 129. A kisbiztosítók pénzügyi terve, szanálási terve és pénzügyi helyreállítási terve
+## 129. A kisbiztosítók pénzügyi terve, feltőkésítési terve és pénzügyi helyreállítási terve
 
 316. § (1) A Felügyelet a hatodik rész hatálya alá tartozó kisbiztosítót pénzügyi terv készítésére kötelezi, ha
 

@@ -4,7 +4,7 @@
 
 (2) Az auditbizottság elnökét a saját tagjai közül választja vagy azt a felügyelőbizottság jelöli ki az auditbizottság tagjai közül.
 
-(3) Az auditbizottság legalább egy tagjának számviteli vagy könyvvizsgálói szakképzettséggel kell rendelkeznie.
+(3) Az auditbizottság legalább egy tagjának számviteli vagy könyvvizsgálói szakképesítéssel kell rendelkeznie.
 
 (4) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a biztosító vagy a viszontbiztosító csoportfelügyelet alatt áll, és a magyarországi székhelyű anyavállalatának auditbizottsága a biztosító vagy a viszontbiztosító vonatkozásában is ellátja a (7) bekezdésben meghatározott feladatokat.
 

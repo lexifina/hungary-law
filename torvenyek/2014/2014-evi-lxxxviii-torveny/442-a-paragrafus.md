@@ -1,1 +1,1 @@
-### 442/A. §
+442/A. § A Felügyelet a 2017. december 31-ig tartó időszakra vonatkozóan előírhatja valamely biztosító vagy viszontbiztosító számára, hogy a 102. § (1) bekezdése szerinti határértékeket kizárólag a standard formulával számított szavatolótőke-szükségletére vetítve alkalmazza.

@@ -2,4 +2,4 @@
 
 (2) A felszámolás során a biztosítási szerződésből származó kötelezettségek tekintetében a Cstv. 46. § (7) bekezdése nem alkalmazható.
 
-(3) Biztosító felszámolása esetén az eljárás szünetelésének és felfüggesztésének nincs helye.
+(3) Biztosító felszámolása esetén egyesítésnek, szünetelésnek és felfüggesztésnek nincs helye.

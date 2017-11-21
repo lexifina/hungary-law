@@ -67,3 +67,5 @@ van összefüggésben.
 (7) A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a biztosító vagy a viszontbiztosító az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
 (8) Nem jelenti a biztosítási titok és az üzleti titok sérelmét a felügyeleti ellenőrzési eljárás során a csoportfelügyelet esetében a csoportvizsgálati jelentésnek a pénzügyi csoport irányító tagja részére történő átadása.
+
+(9) Nem jelenti a biztosítási titok sérelmét a Hpt. 164/B. § szerinti adattovábbítás.

@@ -6,7 +6,7 @@ b) szakirányú felsőfokú végzettséggel – így különösen biztosításma
 
 c) szakmai alkalmassággal és üzleti megbízhatósággal rendelkezik és
 
-d) három év pénzügyi szervezetnél végzett befektetési, vagyonkezelési gyakorlattal rendelkezik.
+d) három év biztosítónál, viszontbiztosítónál vagy pénzügyi szervezetnél szerzett befektetési, vagyonkezelési gyakorlattal rendelkezik.
 
 (2) Az (1) bekezdésben meghatározott személy alkalmazására az 53. § (4)–(6) bekezdésében meghatározott szabályokat is alkalmazni kell.
 
