@@ -21,3 +21,5 @@ b) a Magyar Nemzeti Vagyonkezelő Zrt.-re, valamint
 c) a hallgatói hitelrendszerről szóló kormányrendeletben meghatározott Diákhitel szervezetre.
 
 (3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az engedélyezési, felügyeleti és makroprudenciális tevékenysége, az üzleti titok és banktitok kezelésének szabályai, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
+
+(4) A 164/B. § rendelkezéseit kell alkalmazni a hitelintézet ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, biztosítónak, ABAK-nak és ÁÉKBV-alapkezelőnek nem minősülő vállalkozások tekintetében.

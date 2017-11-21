@@ -1,6 +1,6 @@
 ## 51/A. Harmadik országbeli hitelintézet magyarországi fióktelepének mentesítése egyes prudenciális követelmények alól
 
-105/A. § (1) A harmadik országbeli hitelintézet magyarországi fióktelepét kérelmére a Felügyelet határozatban mentesítheti az 575/2013/EU rendelet Harmadik, Negyedik, Ötödik és Hetedik Részében meghatározott követelmények teljesítése alól, ha
+105/A. § (1) A harmadik országbeli hitelintézet magyarországi fióktelepét kérelmére a Felügyelet határozatban mentesítheti az 575/2013/EU rendelet Harmadik, Negyedik, Ötödik, Hatodik és Hetedik Részében meghatározott követelmények teljesítése alól, ha
 
 a) a fióktelep legalább öt éve létesült, vagy a fióktelepet létesítő harmadik országbeli hitelintézet legalább öt éve rendelkezik magyarországi székhelyű hitelintézetben ellenőrző befolyással,
 

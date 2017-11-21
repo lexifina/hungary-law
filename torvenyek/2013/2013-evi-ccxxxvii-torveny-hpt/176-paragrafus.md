@@ -20,7 +20,9 @@ c) olyan, az összevont felügyelet alá tartozó hitelintézetet, befektetési 
 
 d) a felügyeleti felülvizsgálat keretében előírt többlet-tőkekövetelményre, valamint a működési kockázat tőkekövetelményének fejlett mérési módszerrel történő számításának korlátozására vonatkozik, és
 
-e) befolyásolja a másik EGT-állam illetékes hatóságának felügyelete alá tartozó hitelintézet vagy pénzügyi vállalkozás prudenciális helyzetét.
+e) befolyásolja a másik EGT-állam illetékes hatóságának felügyelete alá tartozó hitelintézet vagy pénzügyi vállalkozás prudenciális helyzetét,
+
+f) az általa hozott jelentősebb intézkedésekre és kivételes intézkedésekre vonatkozik.
 
 (6) Ha a Felügyelet egy másik EGT-államban székhellyel rendelkező EU-szintű anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatát felügyeli és olyan információra van szüksége, amellyel az EU-szintű anyavállalat, EU-szintű vegyes pénzügyi holding társaság anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat felügyeleti hatósága már rendelkezik, akkor a Felügyeletnek elsődlegesen ehhez a hatósághoz kell fordulnia.
 
@@ -29,3 +31,5 @@ e) befolyásolja a másik EGT-állam illetékes hatóságának felügyelete alá
 a) az ezen hitelintézet ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, vagy
 
 b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik, a székhelye van, vagy amely EGT-államban olyan hitelintézet létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul tájékoztatja az EBH-t, az érintett EGT-állam központi kormányának a pénz- és tőkepiac felügyeletére vonatkozó jogszabályokért felelős tagját, illetékes felügyeleti hatóságát, valamint központi bankját.
+
+(8) A Felügyelet sürgős esetben vagy ha az egyeztetés veszélyeztetheti a határozat végrehajtásának hatékonyságát, dönthet úgy, hogy a (7) bekezdésben foglalt egyeztetést nem folytatja le. Ebben az esetben a döntést követően haladéktalanul tájékoztatja a többi érintett EGT-állam illetékes felügyeleti hatóságát.

@@ -1,6 +1,6 @@
 ## 87. Az OBA által fizetett kártalanítás
 
-214. § (1) Az OBA a kártalanításra jogosult személy részére azon betétkövetelésből, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 33. § (1) bekezdése alapján vonta vissza, vagy amelynek felszámolását a bíróság elrendelte, először a tőke, majd a kamat összegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig – a (2) bekezdésben foglalt kivétellel – forintban fizeti ki kártalanításként.
+214. § (1) Az OBA a kártalanításra jogosult személy részére azon betétkövetelésből, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 33. § (1) bekezdése alapján vonta vissza, vagy amelynek felszámolását a bíróság elrendelte, először a tőke, majd a kamat összegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig – a (4) bekezdésben foglalt kivétellel – forintban fizeti ki kártalanításként.
 
 (2) A kártalanítás forintösszegét a kártalanítás 217. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes a jegybanki feladatkörében eljáró MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni.
 

@@ -1,4 +1,4 @@
-108. § (1) A hitelintézet irányítási jogkörrel rendelkező vezető testülete jóváhagyja, rendszeresen felülvizsgálja és értékeli a szervezeten belüli feladatok elkülönítésére, az összeférhetetlenség megelőzésére, a kockázatok vállalására, mérésére, kezelésére, nyomon követésére és mérséklésére vonatkozó stratégiákat és szabályzatokat, amely kiterjed a makrokörnyezet és a gazdasági ciklus állapotának változásából eredő kockázatra is.
+108. § (1) A hitelintézet irányítási jogkörrel rendelkező vezető testülete jóváhagyja, rendszeresen felülvizsgálja és értékeli a szervezeten belüli feladatok elkülönítésére és az összeférhetetlenség megelőzésére vonatkozó szabályzatokat, valamint a kockázatok vállalására, mérésére, kezelésére, nyomon követésére és mérséklésére vonatkozó stratégiákat és politikákat, amely kiterjed a makrokörnyezet és a gazdasági ciklus állapotának változásából eredő kockázatra is.
 
 (2) Az irányítási jogkörrel rendelkező vezető testület felelős az (1) bekezdésben meghatározott stratégiák és szabályzatok végrehajtásáért.
 

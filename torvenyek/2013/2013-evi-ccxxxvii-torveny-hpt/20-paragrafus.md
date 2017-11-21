@@ -8,7 +8,7 @@ a) az induló tőke teljes befizetésére vonatkozó igazolást,
 
 b) az a) pont szerinti összeg teljes vagy részleges felhasználása esetén igazolást vagy nyilatkozatot arról, hogy a felhasználás az alapítás, vagy a működés megkezdése érdekében történt,
 
-c) a hitelintézet jegyzett tőkéjében legalább ötszázalékos részesedéssel vagy szavazati joggal rendelkező tag azonosítására alkalmas adatokat,
+c) a hitelintézet jegyzett tőkéjében legalább ötszázalékos részesedéssel vagy szavazati joggal rendelkező tag azonosítására alkalmas adatokat, valamint ha a hitelintézetnek nincs befolyásoló részesedéssel rendelkező tagja, akkor a húsz legnagyobb részesedéssel vagy szavazati joggal rendelkező tag azonosítására alkalmas adatokat,
 
 d) a középtávú – az első három évre vonatkozó – üzleti tervet, ide nem értve a központi szervhez tartósan kapcsolt hitelintézetet, a működéshez szükséges személyi és tárgyi feltételek biztosítására vonatkozó igazolásokat,
 

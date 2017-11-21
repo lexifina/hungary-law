@@ -53,3 +53,5 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 (8a) Nem jelenti az üzleti titok sérelmét, ha a pénzügyi intézmény az Aktv. 43/H. §-a szerinti adatszolgáltatási kötelezettséget teljesíti az adóhatóság felé.
 
 (9) Nem jelenti az üzleti titok sérelmét a szanálási feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: szanálási feladatkörében eljáró MNB) által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti szanálási biztosnak a szanálási biztosi feladatok ellátása érdekében, valamint a független értékelőnek vagy az ideiglenes értékelésben közreműködőnek az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során adatok, információk átadása a lehetséges ajánlattevőknek, valamint a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.
+
+(10) Nem jelenti az üzleti titok sérelmét a 164/B. § szerinti adattovábbítás.
