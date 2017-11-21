@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-138-00-00
 | 2017-01-01 | 2016. évi LXVII. törvény | 2007-138-00-00.46 |
 | 2017-06-26 | 2017. évi LIII. törvény | 2007-138-00-00.47 |
 | 2017-07-01 | 2017. évi LXIX. törvény | 2007-138-00-00.48 |
+| 2017-11-21 | 2017. évi CXLV. törvény | 2007-138-00-00.49 |
