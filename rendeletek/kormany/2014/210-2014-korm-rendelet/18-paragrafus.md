@@ -1,10 +1,10 @@
-18. § (1)[^49] A 9. § (1) bekezdés a)–c) és g)–h) pontjában meghatározott támogatási célok alá tartozó beruházás esetében az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el a (2) bekezdésben meghatározott kivételekkel.
+18. § (1)[^50] A 9. § (1) bekezdés a)–c) és g)–h) pontjában meghatározott támogatási célok alá tartozó beruházás esetében az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el a (2) bekezdésben meghatározott kivételekkel.
 
-(2)[^50] Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén, függetlenül attól, hogy azok az Sztv. alapján beszámíthatók a bekerülési értékbe
+(2)[^51] Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén, függetlenül attól, hogy azok az Sztv. alapján beszámíthatók a bekerülési értékbe
 
 a) a beruházó saját maga által előállított, forgalmazott eszköz, szoftver, saját maga által nyújtott szolgáltatás, saját maga által forgalmazott rendszer bevezetésének költségei, kivéve, ha ilyen eszköz előállítására kizárólag a beruházó képes és az eszköz elszámolása során olyan értéket alkalmaz, amely megfelel annak a piaci vételárnak, amelyet független harmadik felek egymás között alkalmaznának,
 
-b) a beruházónál meglévő termelőkapacitások telephelyen belüli, vagy más telephelyre történő áttelepítési költsége,
+b)[^52] a beruházónál meglévő termelőkapacitások telephelyen belüli, vagy más telephelyre történő áthelyezési költsége,
 
 c) az előkészítési célú tevékenység költségei, különösen a pályázatkészítés, a pályázati menedzsment, a kifizetési igénylés összeállítása, a megvalósíthatósági tanulmány készítése, a közjegyzői díj,
 
@@ -44,13 +44,15 @@ t) adók, illetékek, egyéb hatósági, közigazgatási díjak,
 
 u) kamatráfordítások, valamint árfolyamveszteségek,
 
-v) működési költségek, ide nem értve a fedezetkezelői bankszámla vezetésének díját,
+v)[^53] működési költségek beleértve az utazási, szállás költségeket és étkezési térítéseket is, ugyanakkor ide nem értve a fedezetkezelői bankszámla vezetésének díját,
 
 w) reprezentációs költségek,
 
 x) jogszabály frissítési díj,
 
-y) fordítási költségek.
+y) fordítási költségek,
+
+z)[^54] cégközi profit.
 
 (3) A földterület, a telek, az épületek és az egyéb eszközök lízingbe vételével kapcsolatos költségek abban az esetben számolhatóak el, ha a lízingügylet zártvégű pénzügyi lízing formájában valósul meg, és a lízingszerződés tartalmazza az eszköznek a lízing időtartam lejárta utáni megvásárlására vonatkozó kötelezettségét, amely határidő azonban nem lehet későbbi, mint a beruházás befejezésének dátuma.
 
@@ -72,21 +74,21 @@ d) a nagyvállalkozások részére nyújtott támogatás esetén legalább 5 év
 
 e) nagyvállalkozások esetén az immateriális javak az elszámolható költségek maximum 50%-át tehetik ki.
 
-(6)[^51] A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
+(6)[^55] A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
 
 a) a beruházó a támogatásban részesült telephelyen működő vállalkozásnál a beruházóval kötött beszállítói szerződés birtokában használhatja fel,
 
-b) a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a támogatott tevékenységet.
+b) a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a támogatott tevékenységet,
 
-(7)[^52] Technológia-intenzív beruházás támogatása esetén
+c)[^56] a vállalatcsoporton belülről beszerzett eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
 
-a) a földterület, a telek és az épület költsége, valamint a földterület, a telek vagy az épület bérleti díja együttesen az elszámolható költségek maximum 25%-át,
+(7)[^57]
 
-b) az immateriális javak az elszámolható költségek maximum 15%-át
-
-tehetik ki.
-
-[^49]: A 18. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^50]: A 18. § (2) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^51]: A 18. § (6) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^52]: A 18. § (7) bekezdését a 426/2016. (XII. 15.) Korm. rendelet 16. § (4) bekezdése iktatta be.
+[^50]: A 18. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^51]: A 18. § (2) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^52]: A 18. § (2) bekezdés b) pontja a 346/2017. (XI. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^53]: A 18. § (2) bekezdés v) pontja a 346/2017. (XI. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^54]: A 18. § (2) bekezdés z) pontját a 346/2017. (XI. 20.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^55]: A 18. § (6) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^56]: A 18. § (6) bekezdés c) pontját a 346/2017. (XI. 20.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^57]: A 18. § (7) bekezdését a 426/2016. (XII. 15.) Korm. rendelet 16. § (4) bekezdése iktatta be, hatályon kívül helyezte a 346/2017. (XI. 20.) Korm. rendelet 8. §-a.
