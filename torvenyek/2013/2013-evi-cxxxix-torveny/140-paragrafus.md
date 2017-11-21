@@ -96,7 +96,7 @@ bc) a Hpt. 36. § (5) bekezdése szerinti határozatáról,
 
 bd) a pénzügyi holding társaság összevont alapú felügyelet alá tartozásáról és annak megszűnéséről,
 
-be) a Hpt. 175. § (5) bekezdése szerinti megállapodásról, ha a megállapodás eredményeként az MNB látja el az összevont alapú felügyeletet, az összevont alapú felügyelet alatt álló intézmények esetében csoport szintű belső irányításról, rendszerekről, eljárásokról és mechanizmusokról,
+be) a Hpt. 175. § (5) bekezdése, illetve a Bszt. 161/C. § (5) bekezdése szerinti megállapodásról, ha a megállapodás eredményeként az MNB látja el az összevont alapú felügyeletet, az összevont alapú felügyelet alatt álló intézmények esetében csoport szintű belső irányításról, rendszerekről, eljárásokról és mechanizmusokról,
 
 bf) a Hpt. 167. § (4) és (5) bekezdése szerinti értékeléséről,
 

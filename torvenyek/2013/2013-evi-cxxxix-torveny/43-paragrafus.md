@@ -84,6 +84,6 @@ a) rendszeresen, de havonta legalább egyszer eleget tesz,
 
 b) egységes elektronikus elérési helyen, átlátható módon tesz eleget.
 
-(3) Az MNB által, a (2) bekezdés c)–f), h) és j)–p) pontja alapján nyilvánosságra hozandó információt a más tagállamok pénzügyi felügyeleti hatóságai által alkalmazott elvekkel és módszerekkel összehasonlítható tartalommal és módon kell közzétenni.
+(3) Az MNB által, a (2) bekezdés c)–h) és j)–p) pontja alapján nyilvánosságra hozandó információt a más tagállamok pénzügyi felügyeleti hatóságai által alkalmazott elvekkel és módszerekkel összehasonlítható tartalommal és módon kell közzétenni.
 
 (4) Az MNB a (2) bekezdésben meghatározott közzététel során köteles a személyes adatok védelmére, a banktitokra, fizetési titokra, az értékpapírtitokra, a pénztártitokra, a biztosítási titokra, foglalkoztatói nyugdíjtitokra és az üzleti titokra vonatkozó jogszabályokat betartani.

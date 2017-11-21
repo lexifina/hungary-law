@@ -40,7 +40,7 @@ b) természetes személy esetében
 
 ba) legfeljebb 1 569 800 000 forint vagy
 
-bb) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legalább kétszerese.
+bb) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese.
 
 (11) A (10) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.
 
