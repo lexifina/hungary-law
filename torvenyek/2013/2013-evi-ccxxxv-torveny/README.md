@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-235-00-00
 | 2017-06-02 | 2017. évi XLIV. törvény | 2013-235-00-00.12 |
 | 2017-06-26 | 2017. évi LIII. törvény | 2013-235-00-00.13 |
 | 2017-07-01 | 2017. évi LXIX. törvény | 2013-235-00-00.14 |
+| 2017-11-21 | 2017. évi CXLV. törvény | 2013-235-00-00.15 |

@@ -26,4 +26,6 @@ j) a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya közö
 
 szemben.
 
+(2a) Nem jelenti az (1) bekezdésben foglalt titoktartási kötelezettség sérelmét a Hpt. 164/B. §-a szerinti adattovábbítás.
+
 (3) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a nyomozó hatóságot, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a „halaszthatatlan intézkedés” jelzéssel ellátott, önálló jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.
