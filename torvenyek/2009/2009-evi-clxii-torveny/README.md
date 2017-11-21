@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-162-00-00
 | 2016-03-21 | 2015. évi CCXV. törvény | 2009-162-00-00.13 |
 | 2016-07-01 | 2016. évi LIII. törvény | 2009-162-00-00.14 |
 | 2017-07-01 | 2017. évi LXIX. törvény | 2009-162-00-00.15 |
+| 2017-11-21 | 2017. évi CXLV. törvény | 2009-162-00-00.16 |

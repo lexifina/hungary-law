@@ -46,6 +46,8 @@
 
 (2) Ha az (1) bekezdés 7. pontja szerinti egyes hitelkamatok alkalmazásának feltételei eltérnek egymástól, a hitelkamat módosításának gyakoriságára, feltételeire és eljárási szabályaira vonatkozó tájékoztatást valamennyi hitelkamat tekintetében meg kell adni.
 
+(2a) Ha a hitelszerződés a 2016/1011/EU európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésének 3. pontjában meghatározott referenciamutatóra hivatkozik, a hitelező és a hitelközvetítő az 1. melléklet szerinti formanyomtatványtól elkülönült dokumentumban közli a fogyasztóval a referenciamutató és annak kezelőjének nevét, valamint következményeit a fogyasztóra nézve. E dokumentum mellékelhető az 1. melléklet szerinti formanyomtatványhoz.
+
 (3) Ha a fogyasztó a rendelkezésére bocsátott adatok alapján megjelöli az általa előnyben részesített hitel jellemzőit, a hitelező és a hitelközvetítő a teljes hiteldíj mutatóról és a fogyasztó által fizetendő teljes összegről ezek alapulvételével nyújt tájékoztatást.
 
 (4) Ha a hitelszerződés alapján a hitel lehívására többféle módon kerülhet sor, és ezek eltérő hitelkamatokat vagy eltérő hitelkamaton kívüli egyéb ellenszolgáltatást – ideértve díjat és költséget – jelentenek, és a hitelező az adott hiteltípusnál leggyakoribb lehívási módot vette figyelembe, a hitelező és a hitelközvetítő a tájékoztatás során köteles jelezni, hogy más lehívási mód magasabb teljes hiteldíj mutatót eredményezhet.

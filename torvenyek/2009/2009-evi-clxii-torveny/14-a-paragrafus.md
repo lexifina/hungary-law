@@ -12,6 +12,6 @@ b) jelzáloghitel esetén a hitelező előírhatja a fogyasztó számára, hogy 
 
 (4) A (3) bekezdés b) pontjában foglaltak esetén a hitelezőnek az általa előnyben részesített szolgáltatótól eltérő szolgáltató biztosítását is el kell fogadnia, ha az a hitelező által ajánlott biztosítással legalább egyenértékű a biztosítás összegét és a fedezet körét figyelembe véve.
 
-(4a) Ha a hitelező a fogyasztó számára előírta, hogy jelzáloghitel igénybevétele esetén rendelkezzen a hitelszerződéshez kapcsolódó életbiztosítással vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítással, a fogyasztó az ilyen biztosítási szerződésből származó – biztosítási összegre vonatkozó – követelését biztosítékként a hitelezőre átruházhatja.
+(4a) Ha a hitelező a fogyasztó számára előírta, hogy jelzáloghitel igénybevétele esetén rendelkezzen a hitelszerződéshez kapcsolódó megtakarítással, életbiztosítással vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítással, a fogyasztó az ilyen megtakarítási szerződésből származó megtakarítási összegre, illetve biztosítási szerződésből származó biztosítási összegre vonatkozó követelését biztosítékként a hitelezőre átruházhatja.
 
 (5) Ha a fogyasztó az (1) bekezdés szerinti tiltott árukapcsolás keretében köti meg a hitelszerződést, úgy a kapcsolódó termék értékesítésére vagy szolgáltatás nyújtására szolgáló szerződést a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerint megtámadhatja.
