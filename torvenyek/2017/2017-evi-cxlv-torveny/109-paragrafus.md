@@ -1,0 +1,3 @@
+109. § Az Fsztv. 56. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A pénzforgalmi közvetítő a pénzforgalmi szolgáltatás közvetítéséért, az elektronikuspénz-értékesítő az elektronikuspénz értékesítési tevékenységéért kizárólag a megbízó pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől jogosult közvetítői, értékesítői díjra. E rendelkezés nem érinti a pénzforgalmi közvetítő, illetve az elektronikuspénz-értékesítő azon jogosultságát, hogy a pénzforgalmi szolgáltatás közvetítését, illetve az elektronikuspénz-értékesítését igénybe vevő ügyfele számára más – a pénzforgalmi szolgáltatás közvetítésének, illetve elektronikuspénz-értékesítésnek nem minősülő – szolgáltatása ellenértékeként díjat számítson fel.”

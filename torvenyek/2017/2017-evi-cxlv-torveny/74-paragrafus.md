@@ -1,0 +1,3 @@
+74. § Az Áht. 41. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A (6) bekezdésben foglaltak alkalmazása szempontjából az a külföldi jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amellyel Magyarország külképviselete a külképviselet működtetése, üzemeltetése, fenntartása vagy feladatainak ellátása érdekében visszterhes – használati, bérleti, lakásbérleti, vállalkozási, közüzemi, közszolgáltatási, tervezési, kivitelezési, utazási, pénzügyi, folyószámla, betéti, biztosítási, fuvarozási, megbízási, szállítmányozási, adásvételi – szerződést köt, – a megkötött szerződés vonatkozásában – átlátható szervezetnek minősül.”

@@ -1,0 +1,3 @@
+158. § A Bit. 158. §-a helyébe a következő rendelkezés lép:
+
+„158. § Amennyiben egy biztosító a kötelező foglalkoztatói nyugdíjrendszer szolgáltatásáért is felelős, és valamely munkavállaló anélkül válik egy ilyen rendszer tagjává, hogy a csatlakozásról egyéni döntést hozott volna, akkor a biztosítónak a 152. § szerinti tájékoztatást az adott nyugdíjrendszerhez való csatlakozást követően haladéktalanul biztosítania kell a munkavállaló számára.”

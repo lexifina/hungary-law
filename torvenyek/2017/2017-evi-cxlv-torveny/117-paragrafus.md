@@ -1,0 +1,5 @@
+117. § Az Fsztv. a következő 93. §-sal egészül ki:
+
+„93. § (1) Az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel (a továbbiakban: Módtv.) megállapított 58. § (2a) bekezdését, 62. § s) pontját és 64/A. §-t a Módtv. hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
+
+(2) A 64/A. § (2) bekezdésében foglalt nyilatkozattételi lehetőségről a hitelintézet ellenőrző befolyása alatt működő pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a Módtv. hatálybalépésekor fennálló szerződéssel rendelkező ügyfelét legkésőbb harminc nappal a Hpt. 164/B. § szerinti adattovábbítást megelőzően írásban értesíti. A fennálló szerződéssel rendelkező ügyfelek tájékoztatását követően az általa működtetett honlapon a figyelem felkeltésére alkalmas módon erre vonatkozó tájékoztatást tesz közzé. A Hpt. 164/B. § szerinti adatátadás a honlapon történő közzétételtől számított harmincadik nap után kezdődhet meg.”

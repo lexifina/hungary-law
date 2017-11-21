@@ -1,0 +1,5 @@
+19. § A Bszt. „Átmeneti rendelkezések” alcíme a következő 182/C. §-sal egészül ki:
+
+„182/C. § (1) Az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel (a továbbiakban: Módtv4.) megállapított 117. § (2a) bekezdését, 120. § v) pontját és 120/A. §-t a Módtv4. hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
+
+(2) A 120/A. § (2) bekezdésében foglalt nyilatkozattételi lehetőségről a hitelintézet ellenőrző befolyása alatt működő befektetési vállalkozás a Módtv4. hatálybalépésekor fennálló szerződéssel rendelkező ügyfelét legkésőbb harminc nappal a Hpt. 164/B. § szerinti adattovábbítást megelőzően írásban értesíti. A fennálló szerződéssel rendelkező ügyfelek tájékoztatását követően az általa működtetett honlapon a figyelem felkeltésére alkalmas módon erre vonatkozó tájékoztatást tesz közzé. A Hpt. 164/B. § szerinti adatátadás a honlapon történő közzétételtől számított harmincadik nap után kezdődhet meg.”
