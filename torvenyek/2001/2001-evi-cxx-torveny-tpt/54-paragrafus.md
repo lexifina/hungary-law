@@ -4,11 +4,11 @@
 
 (2) A kibocsátó a rendszeres tájékoztatási kötelezettségét
 
-a) féléves jelentés,
+a) féléves jelentés és
 
-b) éves jelentés,
+b) éves jelentés
 
-c)
+formájában teljesíti.
 
 (2a) Amennyiben a kibocsátó a számvitelről szóló 2000. évi C. törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint állítja össze éves beszámolóját, akkor éves és féléves jelentését is az IFRS-ek szerint kell elkészítenie.
 

@@ -20,7 +20,7 @@ eb) a harmadik országban székhellyel rendelkező kibocsátó valamely értékp
 
 (4) Nem kell tájékoztatót közzétenni az értékpapír szabályozott piacra történő bevezetéséhez, ha
 
-a) az azonos fajtájú, illetve azonos osztályba tartozó részvényeket ugyanarra a szabályozott piacra már korábban bevezették, és tizenkét hónapon belül a bevezetendő részvények darabszáma nem haladja meg a korábban a szabályozott piacra bevezetett részvény darabszám tíz százalékát;
+a)
 
 b) a részvény a korábban ugyanazon szabályozott piacra bevezetett, azonos fajtájú, illetve azonos osztályba tartozó részvény helyébe lép, ha a részvénycsere nem jelenti a kibocsátott alaptőke növelését;
 
@@ -32,7 +32,7 @@ e) a részvénytársaság a részvényeseinek ingyenesen juttat az alaptőkén f
 
 f) az értékpapírt kibocsátó vagy annak kapcsolt vállalkozása bármelyikük munkavállalóinak, vezető tisztségviselőinek, felügyelőbizottsági tagjainak, illetve volt munkavállalóinak, vezető tisztségviselőinek és felügyelőbizottsági tagjainak értékesíti, illetőleg juttatja, ha az ugyanazon sorozatba tartozó értékpapírt ugyanazon szabályozott piacra már bevezették;
 
-g) valamely értékpapír átváltásából, vagy az általa megtestesített jog gyakorlásából származó részvény bevezetése esetén, ha az azzal azonos fajtájú, illetve azonos osztályba tartozó részvényt ugyanazon szabályozott piacra már bevezették;
+g)
 
 h) az értékpapírt más szabályozott piacra már bevezették, amennyiben
 
