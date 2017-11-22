@@ -74,21 +74,22 @@
 
 35. elvégzi az új orvosi röntgenberendezések alkalmazás előtti átvételi vizsgálatát, valamint a radioaktív anyagot tartalmazó, vagy ionizáló és nem-ionizáló sugárzást kibocsátó berendezések, készülékek és védőeszközök vizsgálatát,
 
-36.[^2] az európai uniós forrásból finanszírozott projektekkel kapcsolatos feladatok ellátásában és a fenntartási kötelezettséggel érintett projektek fenntartásában részt vesz,
+36.[^3] az európai uniós forrásból finanszírozott projektekkel kapcsolatos feladatok ellátásában és a fenntartási kötelezettséggel érintett projektek fenntartásában részt vesz,
 
 37. ellátja az egészségügyi alapellátás és egészségfejlesztés – ennek részeként a szervezett lakossági szűrések – területi szintű tervezési, monitoring, koordinációs és szervezési feladatait, melynek keretében biztosítja a lakosság egyenlő hozzáférését az ellátásokhoz és egészségfejlesztő szolgáltatásokhoz,
 
 38. ellátja a populációs szintű primer prevenciós szolgáltatásokat, monitorozza és elemzi a lakosság egészségi állapotának és az azt befolyásoló kockázati tényezőknek az alakulását, valamint javaslatot tesz az egészségkockázatok csökkentésére irányuló intézkedésekre, programokra,
 
-39. végzi a felnőtt és gyermek lakosság számára az egészségfejlesztési és közegészségügyi kommunikációt, felkészíti a lakosságot az egészséget veszélyeztető ártalmakra, felhívja a figyelmet az egészséget fejlesztő öngondoskodásra, elősegíti az egészséges és biztonságos életkörülmények, életmód kialakítását,
+39.[^4] végzi a felnőtt és gyermek lakosság számára a közegészségügyi kommunikációt, felkészíti a lakosságot az egészséget veszélyeztető ártalmakra,
 
-40.[^3] üzemelteti a kormányhivatal és a járási hivatal, valamint a miniszter által vezetett minisztérium népegészségügyi feladatainak ellátásához szükséges szakmai informatikai rendszereket,
+40.[^5] üzemelteti a kormányhivatal és a járási hivatal, valamint a miniszter által vezetett minisztérium népegészségügyi feladatainak ellátásához szükséges szakmai informatikai rendszereket,
 
-41.[^4] biztosítja a foglalkozás-orvostan és a munkahigiéne területén az akkreditált szakorvosi képzőhelyként való működést,
+41.[^6] biztosítja a foglalkozás-orvostan és a munkahigiéne területén az akkreditált szakorvosi képzőhelyként való működést,
 
-42.[^5] beszerzi a hazai éves oltóanyagot, az általa beszerzett oltóanyagot nyilvántartja, és a kormányhivatalok, valamint járási hivatalok részére elosztja és kiszállítja.
+42.[^7] beszerzi a hazai éves oltóanyagot, az általa beszerzett oltóanyagot nyilvántartja, és a kormányhivatalok, valamint járási hivatalok részére elosztja és kiszállítja.
 
-[^2]: A 6. § 36. pontja a 79/2017. (IV. 7.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^3]: A 6. § 40. pontját a 79/2017. (IV. 7.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^4]: A 6. § 41. pontját a 79/2017. (IV. 7.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^5]: A 6. § 42. pontját a 250/2017. (IX. 5.) Korm. rendelet 69. §-a iktatta be.
+[^3]: A 6. § 36. pontja a 79/2017. (IV. 7.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^4]: A 6. § 39. pontja a 342/2017. (XI. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 6. § 40. pontját a 79/2017. (IV. 7.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^6]: A 6. § 41. pontját a 79/2017. (IV. 7.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^7]: A 6. § 42. pontját a 250/2017. (IX. 5.) Korm. rendelet 69. §-a iktatta be.
