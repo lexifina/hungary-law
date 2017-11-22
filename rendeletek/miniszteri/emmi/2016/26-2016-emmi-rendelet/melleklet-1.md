@@ -1,4 +1,4 @@
-## 16. §[^9]
+## 16. §[^16]
 
 1. melléklet a 26/2016. (IX. 8.) EMMI rendelethez
 
@@ -70,7 +70,7 @@ b) az élő önkéntes szerv- vagy szövetdonornak,
 
 c) annak, aki az élet mentésében kiemelkedő tevékenységet fejtett ki.
 
-5.2.[^10] Az 5.1. pont a) alpontja alapján a díj adományozását a Magyar Vöröskereszt és az Országos Vérellátó Szolgálat kezdeményezi.
+5.2.[^17] Az 5.1. pont a) alpontja alapján a díj adományozását a Magyar Vöröskereszt és az Országos Vérellátó Szolgálat kezdeményezi.
 
 5.3. A díj átadására minden évben a Véradók Világnapján (november 27.) vagy a Transzplantációs Világnapon (október 10.) kerül sor.
 
@@ -90,7 +90,7 @@ c) annak, aki az élet mentésében kiemelkedő tevékenységet fejtett ki.
 
 6.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom összege az illetményalap tizenkétszeresének megfelelő összeg.
 
-II. FEJEZET[^11]
+II. FEJEZET[^18]
 
 ## KULTURÁLIS ÁGAZAT
 
@@ -462,6 +462,30 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 31.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenkétszeresének megfelelő összeg.
 
+31/A.[^19] Művészeti életpálya elismerés
+
+31/A. 1. A díj a kulturális ágazatban jelentős művészi életpályával rendelkező művészek elismerésére adományozható.
+
+31/A. 2. A díjban nem részesülhet az, aki a Nemzet Színésze, a Magyar Mozgókép Mestere, a Nemzet Művésze, a Magyar Állami Operaház Mesterművésze cím alapján folyósított havi juttatásban vagy a Magyar Művészeti Akadémia rendes vagy levelező tagjait megillető életjáradékban részesül.
+
+31/A. 3. A díj egy országos szakmai szervezet ajánlásával kezdeményezhető.
+
+31/A. 4. A 4. § (1) bekezdésében foglaltaktól eltérően a díj saját maga vagy a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozó számára is kezdeményezhető.
+
+31/A. 5. A díj átadására az adományozó döntése alapján évente egy vagy több alkalommal kerül sor.
+
+31/A. 6. A díj adományozásáról a miniszter a kezdeményezés beérkezésétől számított 3 naptári hónapon belül dönt.
+
+31/A. 7. A díjra és az azzal járó járadékra egyidejűleg legfeljebb száztíz fő jogosult.
+
+31/A. 8. A díjban részesített adományozást igazoló oklevelet kap.
+
+31/A. 9. A díjhoz egy naptári év teljes időtartamára szóló, havonta folyósított járadék kapcsolódik, amelynek mértéke havonta az illetményalap háromszorosának megfelelő összeg. A tárgyévi járadék adományozási alkalomkor időarányosan esedékes része egy összegben kerül folyósításra.
+
+31/A. 10. A járadék nyújtása időtartamának elteltét követően a miniszter a jogosultság felülvizsgálatát követően dönthet az időtartam további egy évvel történő meghosszabbításáról. Meghosszabbítás esetén a járadék folyósítására a 31/A. pont 9. alpontjában foglaltaknak megfelelően kerül sor.
+
+31/A. 11. A díj posztumusz is adományozható, amely esetben a díj és a díjjal járó járadék átvételére az elhunyt díjazott házastársa, annak hiányában a miniszter döntése szerinti leszármazója jogosult.
+
 III. FEJEZET
 
 ## OKTATÁSI ÁGAZAT
@@ -668,7 +692,7 @@ V. FEJEZET
 
 48.2. A díj átadására a Nemzetközi Családi Nap (május 15.) alkalmából kerül sor.
 
-48.3.[^12] A díjból évente legfeljebb tíz adományozható.
+48.3.[^20] A díjból évente legfeljebb tíz adományozható.
 
 48.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 102 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, fiatal háromtagú családot ábrázol egészalakos figurákkal, a köriratban a „PRO FAMILIIS” felirat található.
 
@@ -708,7 +732,7 @@ V. FEJEZET
 
 51.3. A díj átadására a Tolerancia Nemzetközi Napján (november 16.) vagy a Fogyatékossággal Élő Emberek Világnapján (december 3.), illetőleg nemzeti, állami ünnep vagy kiemelkedő szakmai esemény alkalmából kerül sor.
 
-51.4.[^13] A díjból évente legfeljebb négy adományozható természetes személyek, szervezetek, intézmények részére azzal, hogy két díjazott a szociális ügyek és társadalmi felzárkózás területéről, két díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
+51.4.[^21] A díjból évente legfeljebb négy adományozható természetes személyek, szervezetek, intézmények részére azzal, hogy két díjazott a szociális ügyek és társadalmi felzárkózás területéről, két díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
 
 51.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 95 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, rajta „ESÉLYTEREMTÉSÉRT DÍJ” félkörívű felirat található.
 
@@ -734,7 +758,7 @@ V. FEJEZET
 
 53.3. A díjból évente legfeljebb kettő adományozható.
 
-53.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap.
+53.4.[^22] A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, három részből áll, a külső bronzgyűrű átmérője 80 mm, magassága 12 mm, ezen látható a felirat: „MAGYAR FIATALOKÉRT DÍJ”. A bronzgyűrűbe egy gőzölt akácfa korong kerül belefoglalásra, jól látszó, koncentrikusan elhelyezkedő évgyűrűkkel, melynek közepén a fa erezetét egyedileg lekövető kontúrvonalú ezüstintarzia szerepel. Az emlékérem tervezői és készítői Gelley Kristóf és Mátyás Zoltán ötvösművészek.
 
 53.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hatszorosának megfelelő összeg.
 
@@ -778,7 +802,7 @@ VI. FEJEZET
 
 56.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenkétszeresének megfelelő összeg.
 
-56/A.[^14] Pro Cultura Minoritatum Hungariae díj
+56/A.[^23] Pro Cultura Minoritatum Hungariae díj
 
 56/A. 1. A díj olyan Magyarországon élő nemzetiséghez tartozó természetes személynek, vagy szervezetnek adományozható, aki vagy amely kiemelkedő tevékenységet végzett a Magyarországon élő nemzetiségek körében az anyanyelvű, kulturális örökség megtartásáért, fejlesztéséért, és a nemzetiségi közművelődés és kultúra területén kimagasló tevékenységével hozzájárult a Kárpát-medence népeinek együttéléséhez.
 
@@ -798,16 +822,18 @@ VII. FEJEZET
 
 57.2. A díj évente három személy részére adományozható.
 
-57.3.[^15] A díj átadására augusztus 20-a alkalmából kerül sor.
+57.3.[^24] A díj átadására augusztus 20-a alkalmából kerül sor.
 
 57.4. A díjazott az adományozást igazoló oklevelet kap.
 
 57.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
-[^9]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: Az 1. melléklet I. fejezet 5. pont 5.2. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^11]: Az 1. melléklet II. fejezete a 3/2017. (III. 7.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^12]: Az 1. melléklet V. fejezet 48. pont 48.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^13]: Az 1. melléklet V. fejezet 51. pont 51.4. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^14]: Az 1. melléklet VI. fejezet 56/A. pontját a 3/2017. (III. 7.) EMMI rendelet 3. §-a iktatta be.
-[^15]: Az 1. melléklet VII. fejezet 57. pont 57.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: Az 1. melléklet I. fejezet 5. pont 5.2. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^18]: Az 1. melléklet II. fejezete a 3/2017. (III. 7.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^19]: Az 1. melléklet II. fejezet 31/A. pontját a 30/2017. (XI. 21.) EMMI rendelet 5. §-a iktatta be.
+[^20]: Az 1. melléklet V. fejezet 48. pont 48.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet V. fejezet 51. pont 51.4. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^22]: Az 1. melléklet V. fejezet 53. pont 53.4. alpontja a 30/2017. (XI. 21.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet VI. fejezet 56/A. pontját a 3/2017. (III. 7.) EMMI rendelet 3. §-a iktatta be.
+[^24]: Az 1. melléklet VII. fejezet 57. pont 57.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.

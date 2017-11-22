@@ -70,7 +70,9 @@
 
 1. Nemzeti Ifjúsági Zenekar cím,
 
-2. Pro Cultura Hungarica díj.
+2. Pro Cultura Hungarica díj,
+
+3.[^2] Művészeti életpálya elismerés,
 
 (7) A miniszter által adományozandó köznevelési és felsőoktatási díjak az oktatási ágazatban a következők:
 
@@ -78,7 +80,7 @@
 
 2. Apáczai Csere János-díj,
 
-3.[^1]
+3.[^3]
 
 4. Trefort Ágoston-díj,
 
@@ -86,11 +88,11 @@
 
 6. Pedagógus Szolgálati Emlékérem.
 
-(8)[^2] A miniszter által adományozandó köznevelési díjak az oktatási ágazatban:
+(8)[^4] A miniszter által adományozandó köznevelési díjak az oktatási ágazatban:
 
 1. Brunszvik Teréz-díj,
 
-2.[^3] Németh László-díj.
+2.[^5] Németh László-díj.
 
 (9) A miniszter által adományozandó felsőoktatási díj az oktatási ágazatban:
 
@@ -136,13 +138,14 @@
 
 3. Scheiber Sándor-díj,
 
-4.[^4] Pro Cultura Minoritatum Hungariae díj.
+4.[^6] Pro Cultura Minoritatum Hungariae díj.
 
 (13) A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a minisztériumban végzett közszolgálati tevékenységért:
 
 1. Közösség Szolgálatáért díj.
 
-[^1]: A 2. § (7) bekezdés 3. pontját a 3/2017. (III. 7.) EMMI rendelet 7. §-a hatályon kívül helyezte.
-[^2]: A 2. § (8) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (8) bekezdés 2. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^4]: A 2. § (12) bekezdés 4. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^2]: A 2. § (6) bekezdés 3. pontját a 30/2017. (XI. 21.) EMMI rendelet 2. §-a iktatta be.
+[^3]: A 2. § (7) bekezdés 3. pontját a 3/2017. (III. 7.) EMMI rendelet 7. §-a hatályon kívül helyezte.
+[^4]: A 2. § (8) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (8) bekezdés 2. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^6]: A 2. § (12) bekezdés 4. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (2) bekezdése iktatta be.
