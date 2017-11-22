@@ -6,6 +6,6 @@ b) az Európai Bizottság egyedi határozatának hatálya alá tartozó, előzet
 
 regionális beruházási, illetve kutatás-fejlesztési projektekhez nyújtott támogatást tartalmaz.
 
-(2)[^4]
+(2)[^8]
 
-[^4]: A 11. § (2) bekezdése a 10. § (2) bekezdése alapján 2018. január 10-én lép hatályba.
+[^8]: A 11. § (2) bekezdése a 10. § (2) bekezdése alapján 2018. január 10-én lép hatályba.
