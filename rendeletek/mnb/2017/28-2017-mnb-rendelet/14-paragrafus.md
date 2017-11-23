@@ -1,0 +1,3 @@
+14. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – a kihirdetését követő napon lép hatályba.
+
+(2) A 7–10. §, a 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 1–91. és 93–115. sora, az ott meghatározott felügyeleti jelentések táblái, a 3. melléklet II.1–3.12., II.3.14–3.33. és II.3.35–IV. pontja, a 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–31. és 33–37. sora, az ott meghatározott felügyeleti jelentések táblái, az 5. melléklet II–IV.16. és IV.18–V. pontja, a 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–16. és 18–24. sora, az ott meghatározott felügyeleti jelentések táblái, a 7. melléklet II–IV.5. és IV.7–9. pontja, valamint a 8–15. melléklet 2018. január 1-jén lép hatályba.
