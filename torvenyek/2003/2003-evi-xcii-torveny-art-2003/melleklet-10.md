@@ -99,3 +99,11 @@ Távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó kül
 5.1.1.7. a BIC kódot,
 
 5.1.1.8. az adóhatósággal történő kapcsolattartásra feljogosított személy (ún. kapcsolattartó) nevét, telefonszámát,
+
+5.1.1.9. az adózó állandó telephelye szerinti az Európai Közösség más tagállamában megállapított HÉA azonosító számot, vagy ennek hiányában adónyilvántartási számot,
+
+5.1.1.10. az Európai Közösség más olyan tagállama által az adózó részére megállapított HÉA azonosító számot, ahol az adózó nem telepedett le,
+
+5.1.1.11. a különös szabályozás hatálya alá eső tevékenység megkezdésének időpontját.
+
+5.1.2. Az adózó a különös szabályozás hatálya alá eső adókötelezettségét érintő változást – elektronikus úton, az Európai Unió vonatkozó, kötelező jogi aktusaiban meghatározott határidőben – bejelenti az állami adó- és vámhatóságnak. Ilyen változásnak minősül különösen valamely, a különös szabályozás hatálya alá tartozó tevékenység megszűntetése, vagy ha az adózó a továbbiakban már nem felel meg a különös szabályozás alkalmazásához szükséges feltételeknek.

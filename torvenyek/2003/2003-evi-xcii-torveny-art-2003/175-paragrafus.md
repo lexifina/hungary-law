@@ -26,6 +26,8 @@ d) a felügyeleti szolgáltatóval szemben támasztott követelményeknek, a fel
 
 részletes szabályait rendeletben határozza meg.
 
+(4b) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a 22/D. § (4) és (5) bekezdés szerinti kötelezettség teljesítésének időpontját rendeletben állapítsa meg.
+
 (5) Az adóhatóság a fizetési meghagyást, a fizetési felszólítást és az adóívet nyomtatványon is kiadhatja.
 
 (6) A nyomtatványokról, azok formájáról és tartalmáról az adóhatóság tájékoztatót tesz közzé.
