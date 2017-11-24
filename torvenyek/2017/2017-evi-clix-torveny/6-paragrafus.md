@@ -1,0 +1,3 @@
+6. § Az Itv. 91. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ingatlan tulajdonjogának, valamint az ingatlanhoz kapcsolódó vagyoni értékű jognak a megszerzését (megszüntetését) az ingatlanügyi hatósághoz kell bejelenteni illetékkiszabásra az azt tartalmazó szerződés (okirat), valamint az állami adóhatóság által erre a célra rendszeresített – a felek adóazonosító számát vagy az ennek hiányára utaló nyilatkozatot is tartalmazó – nyomtatvány benyújtásával, az ingatlan-nyilvántartási bejegyzésre irányuló kérelemmel egyidejűleg, az illetékkötelezettség keletkezését követő 30 napon belül.”

@@ -1,0 +1,3 @@
+39. § A Bgtv. 8. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Amennyiben a kötelezett a visszafizetési kötelezettségének a visszakövetelő határozatban megállapított határidőig nem tesz eleget, e határidő elmulasztásának napjától az adó- és vámhatóság végrehajtás foganatosítása érdekében történő megkeresésének napjáig, kiszámított késedelmi kamatot is köteles fizetni. A késedelmi kamat mértékére a költségvetési támogatásokra vonatkozó szabályokat kell alkalmazni. A kötelezett az adó- és vámhatóság végrehajtás foganatosítása érdekében történő megkeresését követően az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény szerinti késedelmi pótlékot is köteles megfizetni.”

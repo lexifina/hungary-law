@@ -1,0 +1,3 @@
+196. § Az államháztartásról szóló 2011. évi CXCV. törvény 42. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Törvény eltérő rendelkezése hiányában – a bíróság, ügyészség által kiszabott eljárási bírság és rendbírság kivételével – a jogerősen, illetve véglegesen kiszabott és meg nem fizetett bírság, valamint a meg nem fizetett bírság miatt jogerősen vagy véglegesen kiszabott és meg nem fizetett késedelmi pótlék köztartozásnak minősül, és azt az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 134. §-ában foglaltak szerint, vagy ha az nem az Ákr. hatálya alá tartozó eljárásban került megállapításra, akkor adók módjára kell behajtani.”

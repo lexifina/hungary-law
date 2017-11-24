@@ -1,0 +1,3 @@
+59. § A természet védelméről szóló 1996. évi LIII. törvény a következő 83. §-sal egészül ki:
+
+„83. § Az általános közigazgatási rendtartásról szóló törvény hatálybalépésével összefüggő törvények és egyes egyéb törvények módosításáról szóló 2017. évi CLIX. törvénnyel megállapított 76/B. §-t a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
