@@ -17,3 +17,9 @@
 (9) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (3) bekezdés b) pontja szerint meghatározott módosító tétel összegét csökkenti a 2017. adóévi adókötelezettség megállapításakor a 2017. adóévben jóváhagyott osztalékra tekintettel a kisvállalati adóalanyiság időszaka alatt, 2016. december 31-ig kifizetett osztalékelőleg összege.
 
 (10) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (4) bekezdés b) pontja szerint meghatározott módosító tétel összegét növeli a 2017. adóévi adókötelezettség megállapításakor a 2017. adóévben jóváhagyott osztalékra tekintettel kisvállalati adóalanyiság időszaka alatt, 2016. december 31-ig kapott osztalékelőleg összege.
+
+(11) A 20. § (6a) bekezdésben meghatározott elhatárolt veszteség összegéből az az összeg, amellyel a beszerzett, előállított, korábban még használatba nem vett tárgyi eszközzel (beruházással), szellemi termékkel, kísérleti fejlesztés aktivált értékével kapcsolatosan teljesített kifizetésekre tekintettel az adózó a 2017. évet megelőzően döntése szerint teljes mértékben csökkenthette az adóalapját, azonban a 2017. évet megelőzően az adóalap csökkentéseként nem vette figyelembe, a 2017. adóévben a 20. § (7) bekezdése alkalmazásában adóévi kifizetésnek minősül.
+
+(12) A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosításáról szóló 2017. évi CLVII. törvénnyel megállapított 20. § (6), (6a), (7) bekezdése a 2017. január 1-jétől keletkezett adókötelezettségre is alkalmazható.
+
+(13) Az ügyvédi iroda a kisadózó vállalkozások tételes adója szerinti adóalanyiság választását 2017. december 1-jétől kezdődően jelentheti be.
