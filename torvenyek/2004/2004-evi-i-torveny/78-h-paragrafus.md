@@ -1,0 +1,1 @@
+78/H. § E törvénynek a sportról szóló 2004. évi I. törvény módosításáról szóló 2017. évi CLXII. törvénnyel megállapított 78/G. §-át a folyamatban lévő ügyekben, az olimpiai járadék iránti kérelem tárgyában hozott közigazgatási határozat bírósági felülvizsgálata iránti perekben és a megismételt eljárásokban is alkalmazni kell.
