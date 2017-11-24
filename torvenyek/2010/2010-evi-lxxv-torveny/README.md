@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-75-00-00
 | 2014-01-01 | 2013. évi CCXVIII. törvény | 2010-75-00-00.13 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 2010-75-00-00.14 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2010-75-00-00.15 |
+| 2017-11-24 | 2017. évi CLXI. törvény | 2010-75-00-00.16 |
