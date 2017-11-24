@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-87-00-00
 | 2013-12-06 | 2013. évi CCIII. törvény | 2013-87-00-00.3 |
 | 2014-01-01 | 2013. évi CCIII. törvény | 2013-87-00-00.4 |
 | 2014-01-02 | 2010. évi CXXX. törvény | 2013-87-00-00.5 |
+| 2017-11-24 | 2017. évi CLX. törvény | 2013-87-00-00.6 |
