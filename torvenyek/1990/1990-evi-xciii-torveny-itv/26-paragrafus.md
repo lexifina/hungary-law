@@ -172,17 +172,23 @@ ab) a kisajátítás alapjául szolgáló közérdekű célra történő elidege
 
 ac) a birtokösszevonási célú földcsere,
 
-b) nem minősül az (1) bekezdés p) pont pb)–pc) alpontjaiban foglalt feltételek megszegésének a termőföld használatának, hasznosításának a Polgári Törvénykönyv szerinti közeli hozzátartozó (a továbbiakban e bekezdés alkalmazásában: közeli hozzátartozó) javára történő átengedése, feltéve, hogy a vagyonszerző helyett a közeli hozzátartozó földművesként mező-, illetve erdőgazdasági tevékenység céljára hasznosítja a termőföldet, és az 5 éves időtartam hátralévő részében az (1) bekezdés p) pontja szerinti feltételeket vállalja.
+b) nem minősül az (1) bekezdés p) pont pb) és pc) alpontjaiban foglalt feltételek megszegésének, ha a vagyonszerző a termőföld használatát, hasznosítását a földművesnek minősülő, Polgári Törvénykönyv szerinti közeli hozzátartozója vagy a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mezőgazdasági termelőszervezet javára engedi át, feltéve, hogy az 5 éves időtartam hátralévő részére
 
-(18a) Az (1) bekezdés p) pontja szerinti feltételek fennállásáról és vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző az eredetileg vállalt 5 év letelte előtt
+ba) a mezőgazdasági termelőszervezet vagy a közeli hozzátartozó vállalja, hogy a termőföldet mező-, illetve erdőgazdasági tevékenység céljára hasznosítja, továbbá
 
-a) a termőföldet – a (18) bekezdésben meghatározott tulajdonszerzési módok kivételével – elidegeníti,
+bb) a termőföld használatának, hasznosításának mezőgazdasági termelőszervezet részére történő átengedése esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy a mezőgazdasági termelőszervezetben fennálló tulajdoni hányada nem csökken 25% alá.
 
-b) a termőföldön – használatának, hasznosításának a (18) bekezdés szerinti közeli hozzátartozója javára, az ott meghatározott módon történő átengedése kivételével – vagyoni értékű jogot alapít, vagy
+(18a) Az (1) bekezdés p) pontja szerinti feltételek fennállásáról és vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig, véglegessé válásáig kell nyilatkoznia az állami adóhatóságnál. Ha az eredetileg vállalt 5 év letelte előtt
 
-c) a termőföldet saját maga vagy a (18) bekezdés szerinti közeli hozzátartozója igazolhatóan nem mező-, illetve erdőgazdasági tevékenység céljára hasznosítja,
+a) a vagyonszerző a termőföldet – a (18) bekezdésben meghatározott tulajdonszerzési módok kivételével – elidegeníti,
 
-az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdés szerinti közeli hozzátartozója által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.
+b) a vagyonszerző a termőföldön – használatának, hasznosításának a (18) bekezdés szerinti mezőgazdasági termelőszervezet vagy közeli hozzátartozója javára, az ott meghatározott módon történő átengedése kivételével – vagyoni értékű jogot alapít, vagy
+
+c) a vagyonszerző a termőföldet saját maga vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet vagy közeli hozzátartozója igazolhatóan nem mező-, illetve erdőgazdasági tevékenység céljára hasznosítja,
+
+d) a vagyonszerző vagy a vagyonszerző közeli hozzátartozója a mezőgazdasági termelőszervezetben fennálló tulajdoni hányadát 25% alá csökkenti,
+
+az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet vagy közeli hozzátartozó által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.
 
 (19) Az (1) bekezdés y) pontja szerinti illetékmentesség alkalmazása során, ha a magánszemély egy éven belül több lakástulajdont cserél, vásárol, illetve értékesít, minden egyes lakáscserével, lakásvásárlással szemben – a szerzést közvetlenül megelőző vagy követő, azonos jogcímű – egyetlen értékesítést lehet figyelembe venni. Az (1) bekezdés y) pontja szerinti illetékmentesség, valamint e bekezdés alkalmazása során nem minősül tehernek a lakástulajdonhoz kapcsolódó haszonélvezet, használat joga. Az (1) bekezdés y) pontjában meghatározott illetékmentességi rendelkezést lakástulajdonhoz kapcsolódó vagyoni értékű jog magánszemélyek általi megszerzésekor megfelelően kell alkalmazni.
 
