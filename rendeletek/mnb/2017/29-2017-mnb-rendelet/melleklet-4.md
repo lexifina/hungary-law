@@ -170,6 +170,6 @@
 
 ## 1.32. – 2.
 
-4–10. melléklet a 29/2017. (XI. 22.) MNB rendelethez[^5]
+4–10. melléklet a 29/2017. (XI. 22.) MNB rendelethez[^6]
 
-[^5]: A 4–10. melléklet a 12. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^6]: A 4–10. melléklet a 12. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
