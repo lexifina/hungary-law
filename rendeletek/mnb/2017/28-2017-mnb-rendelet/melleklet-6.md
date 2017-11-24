@@ -136,6 +136,6 @@
 
 ## IV.18 – V.
 
-6. melléklet a 28/2017. (XI. 22.) MNB rendelethez[^6]
+6. melléklet a 28/2017. (XI. 22.) MNB rendelethez[^7]
 
-[^6]: A 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–16. és 18–24. sora, az ott meghatározott felügyeleti jelentések táblái a 14. § (2) bekezdése alapján 2018. január 1-jén lépnek hatályba.
+[^7]: A 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–16. és 18–24. sora, az ott meghatározott felügyeleti jelentések táblái a 14. § (2) bekezdése alapján 2018. január 1-jén lépnek hatályba.

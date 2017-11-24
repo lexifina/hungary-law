@@ -1276,6 +1276,6 @@
 
 ## Az összevont alapú felügyelet alá tartozó teljes hitelintézeti csoportra vonatkozó adatszolgáltatás továbbra is a 680/2014/EU bizottsági végrehajtási rendelet előírásai alapján teljesítendő.
 
-4. melléklet a 28/2017. (XI. 22.) MNB rendelethez[^4]
+4. melléklet a 28/2017. (XI. 22.) MNB rendelethez[^5]
 
-[^4]: A 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–31. és 33–37. sora, az ott meghatározott felügyeleti jelentések táblái a 14. § (2) bekezdése alapján 2018. január 1-jén lépnek hatályba.
+[^5]: A 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–31. és 33–37. sora, az ott meghatározott felügyeleti jelentések táblái a 14. § (2) bekezdése alapján 2018. január 1-jén lépnek hatályba.

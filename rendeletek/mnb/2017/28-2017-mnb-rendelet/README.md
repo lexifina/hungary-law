@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-28-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-11-23 | 2017-28-20-2C.1 | 28/2017. (XI. 22.) MNB rendelet |
+| 2017-11-24 | 2017-28-20-2C.2 | 2010: CXXX. törvény |

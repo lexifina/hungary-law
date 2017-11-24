@@ -92,6 +92,6 @@
 
 ## IV.7- 9.
 
-8–15. melléklet a 28/2017. (XI. 22.) MNB rendelethez[^8]
+8–15. melléklet a 28/2017. (XI. 22.) MNB rendelethez[^9]
 
-[^8]: A 8–15. melléklet a 14. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^9]: A 8–15. melléklet a 14. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
