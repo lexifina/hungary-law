@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-59-00-00
 | 2017-01-01 | 2016. évi LXVI. törvény | 2006-59-00-00.25 |
 | 2017-06-20 | 2017. évi LXXVII. törvény | 2006-59-00-00.26 |
 | 2017-08-01 | 2017. évi LXXVII. törvény | 2006-59-00-00.27 |
+| 2017-11-24 | 2017. évi CLXIII. törvény | 2006-59-00-00.28 |

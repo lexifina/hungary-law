@@ -86,7 +86,7 @@ b) 22/C. § (1) bekezdés b) pontjában meghatározott valamennyi jogcím támog
 
 c) 22/C. § (1) bekezdés c) pont ca), cc), cd) alpontjában meghatározott jogcímek támogatása, és a Tao. törvény 22/C. § (1) bekezdés c) pont cb) alpontjában meghatározott jogcím támogatása azzal, hogy a hivatásos sportszervezetek sportinfrastruktúrához kapcsolódó támogatása esetében a korlátozott mértékű gazdasági célú létesítmények,
 
-d) 22/C. § (1) bekezdés d) pontjában meghatározott valamennyi jogcím támogatása azzal, hogy e támogatások esetében kizárólag a hivatásos sportolót nem foglalkoztató közhasznú alapítvány, valamint a Tao. törvény 22/C. § (1) bekezdés d) pont dc) alpontjában meghatározott támogatások esetében a korlátozott mértékű gazdasági célú létesítmények,
+d) 22/C. § (1) bekezdés d) pontjában meghatározott valamennyi jogcím támogatása azzal, hogy e támogatások esetében kizárólag a hivatásos sportolót nem foglalkoztató, a látvány-csapatsport fejlesztése érdekében létrejött alapítvány, valamint a Tao. törvény 22/C. § (1) bekezdés d) pont dc) alpontjában meghatározott támogatások esetében a korlátozott mértékű gazdasági célú létesítmények,
 
 e) 22/C. § (1) bekezdés e) pontjában meghatározott valamennyi jogcím
 
