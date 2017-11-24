@@ -9,5 +9,3 @@ I. Szokásos tevékenységből származó pénzeszköz-változás
 (Működési cash flow, 1–13. sorok)
 
 1. Adózás előtti eredmény ±
-
-2. Elszámolt amortizáció +

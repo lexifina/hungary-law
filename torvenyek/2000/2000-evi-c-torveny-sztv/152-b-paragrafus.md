@@ -2,6 +2,6 @@
 
 (2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező könyvviteli szolgáltatásnyújtó szervezet határon átnyúló szolgáltatási tevékenysége keretében a 151. § (1) bekezdése szerinti könyvviteli szolgáltatást akkor folytathat, ha a feladat irányításával, vezetésével, a beszámoló elkészítésével megbízott tagja, alkalmazottja teljesítette az (1) bekezdés szerinti bejelentési kötelezettségét.
 
-(3) Az (1) bekezdés szerinti bejelentésre és a bejelentést tevők nyilvántartásba vételére megfelelően alkalmazni kell a 151. § (5) bekezdés a) pont aa)–ad) és af) alpontjában, b) pont bc) alpontjában, (6) bekezdés b)–g) pontjában, (7) bekezdés b)–f) pontjában, (8) bekezdés a)–c), e), f) és h) pontjában, (9)–(11) és (13) bekezdésében, valamint a 152/A. §-ban foglalt rendelkezéseket.
+(3) Az (1) bekezdés szerinti bejelentésre és a bejelentést tevők nyilvántartásba vételére megfelelően alkalmazni kell a 151. § (5) bekezdés a) pont aa)–ad) és af) alpontjában, b) pont bc) alpontjában, (6) bekezdés b)–i) pontjában, (7) bekezdés b)–f) pontjában, (8) bekezdés a)–c), e), f) és h) pontjában, (9)–(11) és (13) bekezdésében, valamint a 152/A. §-ban foglalt rendelkezéseket.
 
 (4) A határon átnyúló szolgáltatásnyújtás tekintetében az átmeneti és alkalmi jelleget a szolgáltatás időtartamára, gyakoriságára, rendszerességére és folytonosságára tekintettel a nyilvántartásba vételt végző szervezet esetenként állapítja meg.

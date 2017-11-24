@@ -52,7 +52,9 @@ f) akit jogerős bírói ítélet a cselekvőképességet érintő gondnokság a
 
 g) aki elhalálozott,
 
-h) aki a nyilvántartásban szereplő adataiban bekövetkezett változásokat a nyilvántartásba vételt végző szervezet felszólítását követően sem jelentette be.
+h) aki a nyilvántartásban szereplő adataiban bekövetkezett változásokat a nyilvántartásba vételt végző szervezet felszólítását követően sem jelentette be,
+
+i) akinek nyilvántartásból való törlését a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 69. § (1) bekezdés e) pontja alapján kezdeményezték.
 
 (7) Az a természetes személy, akinek a könyvviteli szolgáltatás végzésére jogosító engedélyét visszavonták, az engedély újbóli megadását és a könyvviteli szolgáltatást végzők nyilvántartásába való újbóli felvételét kérheti, ha megfelel a 151. § (5) bekezdés b) pontjában előírt feltételeknek:
 
@@ -62,13 +64,13 @@ b) a büntetett előélethez fűződő hátrányos jogkövetkezmények alóli me
 
 c) a könyvviteli szolgáltatás körébe tartozó tevékenység vonatkozásában a foglalkozástól való eltiltás alóli mentesítést követően, ha az engedély visszavonására a (6) bekezdés c) pontja miatt,
 
-d) az engedély visszavonását követő 3 év után, ha arra a (6) bekezdés d) pontja miatt,
+d)
 
-e) az engedély visszavonását követően, ha arra a (6) bekezdés e) pontja miatt,
+e) az engedély visszavonását követően, ha arra a (6) bekezdés d), e), h) vagy i) pontja miatt,
 
 f) a gondnokság alá helyezés megszüntetését követően, ha az engedély visszavonására a (6) bekezdés f) pontja miatt,
 
-g) az engedély visszavonását követően, ha arra a (6) bekezdés h) pontja miatt
+g)
 
 került sor.
 
