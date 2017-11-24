@@ -1,7 +1,0 @@
-11. § (1) Az adatszolgáltató a pénztárak és a foglalkoztatói nyugdíjszolgáltató intézmény által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 52/2015. (XII. 11.) MNB rendelet 2. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–43., 46. és 47. sora, 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–25. és 38–62. sora, 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–44. sora, valamint 8. melléklete szerinti, 2017. január 1-jét megelőző tárgyidőszakra vonatkozó felügyeleti jelentés teljesítése során a pénztárak és a foglalkoztatói nyugdíjszolgáltató intézmény által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 52/2015. (XII. 11.) MNB rendelet szabályait alkalmazza.
-
-(2) Az adatszolgáltató
-
-a) a 2. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 49–53. sorában, a 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 30–35. sorában és a 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 45–54. sorában meghatározott felügyeleti jelentést a 10. § (1) bekezdése szerinti hatálybalépést követően elfogadott pénzügyi terv vonatkozásában,
-
-b) a 2. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 44–46. sorában és a 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 16–29. sorában meghatározott felügyeleti jelentést első alkalommal 2016. évre mint tárgyidőszakra vonatkozóan
