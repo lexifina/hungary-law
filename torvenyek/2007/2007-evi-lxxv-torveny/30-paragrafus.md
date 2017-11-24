@@ -15,3 +15,5 @@ e) a tag halálával.
 (2) A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását szüneteltető kamarai tag kamarai tagsága nem szűnik meg, ha a szüneteltetés ideje alatt nem felel meg a 11. § (1) bekezdésének c)–d) pontjában foglalt követelményeknek.
 
 (3) A tagsági viszony megszűnésének megállapítása tekintetében a kamara felvételi bizottsága jár el.
+
+(4) A 9/G. § (1) bekezdése szerinti igazolás visszavonása esetén a tagsági jogviszony az engedély visszavonásáról szóló döntés véglegessé válásának napján szűnik meg.

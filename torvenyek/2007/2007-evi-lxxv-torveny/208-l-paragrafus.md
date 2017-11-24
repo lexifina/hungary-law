@@ -5,3 +5,5 @@
 (3) E törvénynek az egyes adótörvények és már kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel hatályon kívül helyezett 173/A. § (5), és (9) bekezdését a 2017. június 26-át megelőzően indult eljárásokra még alkalmazni kell.
 
 (4) A Mód2 törvény hatálybalépésekor érvényben lévő 35. § szerinti kamara által kiállított engedélyek ugyanazon joghatás kiváltására alkalmasak, mint a Mód2 törvény hatálybalépését követően a 35. § szerinti közfelügyeleti hatóság által kiállított engedélyek.
+
+(5) A Mód2 törvény hatálybalépésekor érvényben lévő kamarai tagsági felvételről szóló döntés ugyanazon joghatás kiváltására alkalmas, mint a Mód2 törvény hatálybalépését követően a 9/G. § szerinti közfelügyeleti hatóság által kiállított igazolás.

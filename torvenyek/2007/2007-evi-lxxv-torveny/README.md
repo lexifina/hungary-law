@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2017-01-01 | 2016. évi CXXI. törvény | 2007-75-00-00.31 |
 | 2017-06-20 | 2017. évi LXXVII. törvény | 2007-75-00-00.32 |
 | 2017-06-26 | 2017. évi LXXVII. törvény | 2007-75-00-00.33 |
+| 2017-11-24 | 2017. évi CLIX. törvény | 2007-75-00-00.34 |

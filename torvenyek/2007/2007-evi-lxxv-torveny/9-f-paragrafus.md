@@ -2,10 +2,10 @@
 
 (2) Nem kell igazgatási szolgáltatási díjat fizetni
 
-a) a 9/G. § (1) bekezdés szerinti igazolás kiadásáért,
+a) a 9/G. § (1) bekezdés szerinti igazolás kiadásáért, visszavonásáért,
 
-b) a 35. § szerinti engedélyezési eljárásért,
+b) a 35. § szerinti engedélyezési eljárásért, engedély visszavonásáért,
 
 c) a 49. § szerinti minősítés visszavonására irányuló kérelem elbírálásáért, és
 
-d) a 68. § (1) bekezdés szerinti engedély kiadásáért.
+d) a 68. § (1) bekezdés szerinti engedély kiadásáért, visszavonásáért.
