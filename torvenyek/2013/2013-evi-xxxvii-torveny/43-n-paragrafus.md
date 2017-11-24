@@ -12,7 +12,7 @@ b) az alábbi feltételek valamelyike fennáll:
 
 ba) a multinacionális vállalatcsoport végső anyavállalatának nincs országonkénti jelentés benyújtási kötelezettsége az adóügyi illetősége szerinti államban, illetve területen,
 
-bb) az az állam, illetve terület, ahol a végső anyavállalat adóügyi illetőséggel rendelkezik, olyan hatályos nemzetközi megállapodás részese, amelyben Magyarország részes fél, de az adatszolgáltatási pénzügyi évre vonatkozó országonkénti jelentés benyújtására a multinacionális vállalatcsoport adatszolgáltatási pénzügyi évének utolsó napján nincs olyan hatályos, illetékes hatóságok közötti elismert megállapodása, amelyben Magyarország részes fél,
+bb) az az állam, illetve terület, ahol a végső anyavállalat adóügyi illetőséggel rendelkezik, olyan hatályos nemzetközi megállapodás részese, amelyben Magyarország részes fél, de az adatszolgáltatási pénzügyi évre vonatkozó országonkénti jelentés benyújtására a multinacionális vállalatcsoport adatszolgáltatási pénzügyi évének utolsó napjától számított 12 hónapon belül nincs olyan hatályos, illetékes hatóságok közötti elismert megállapodása, amelyben Magyarország részes fél,
 
 bc) a végső anyavállalat adóügyi illetősége szerinti államban, illetve területen rendszerhiba áll fenn és ezt a körülményt az állami adóhatóság jelezte a csoporttagnak, és
 
