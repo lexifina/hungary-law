@@ -8,6 +8,12 @@
 
 (1c) A Teljesítésigazolási Szakértői Szerv köteles a tudomására jutásától számított öt napon belül közölni a Közbeszerzési Hatósággal, ha a szakértői tevékenységének ellátásában fontos ok akadályozza, így különösen, ha tevékenysége ellátásának vagy részvizsgálatok elvégzésének feltételei nincsenek meg, vagy az (1) bekezdésben meghatározott feladatainak kell eleget tennie.
 
+(1e) A Teljesítésigazolási Szakértői Szerv az államháztartásért felelős miniszter felkérésére igazságügyi szakértőként működik közre az európai uniós és hazai költségvetési forrásból finanszírozott projektek költségnövekménye támogathatóságának vizsgálatára irányuló külön jogszabályban meghatározott eljárásban.
+
+(1f) A Teljesítésigazolási Szakértői Szerv az államháztartásért felelős miniszter kérését akkor fogadhatja el, ha az az (1) bekezdésben meghatározott feladatainak ellátását nem akadályozza és azzal nem összeférhetetlen.
+
+(1g) A Teljesítésigazolási Szakértői Szerv köteles a tudomására jutásától számított öt napon belül közölni, ha a szakértői tevékenységének ellátásában fontos ok akadályozza, így különösen, ha tevékenysége ellátásának vagy részvizsgálatok elvégzésének feltételei nincsenek meg, vagy az (1) bekezdésben meghatározott feladatainak kell eleget tennie.
+
 (2) A Teljesítésigazolási Szakértői Szerv véleménye a szerződést biztosító mellékkötelezettségek érvényesíthetőségéhez is kérhető, amennyiben az érvényesítés kérdése vitás a szerződő felek között.
 
 (3) A Teljesítésigazolási Szakértői Szerv eljárása a Magyarországon történő építési beruházásokra terjed ki.
@@ -22,7 +28,7 @@ b) biztosítékot nyújtó személy: a garanciát vállaló pénzügyi intézmé
 
 (5) A szakértői vélemény jogszabályban meghatározott díjazás ellenében kérhető.
 
-(6) A Teljesítésigazolási Szakértői Szerv – a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per, valamint az (1a) bekezdésben meghatározott szakértői tevékenység kivételével – az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) 2. § 8. pontjában meghatározott szervek eljárásában nem rendelhető ki.
+(6) A Teljesítésigazolási Szakértői Szerv – a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per, valamint az (1a) és (1e) bekezdésben meghatározott szakértői tevékenység kivételével – az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) 2. § 8. pontjában meghatározott szervek eljárásában nem rendelhető ki.
 
 (7) Az e törvényben nem szabályozott kérdésekben a Teljesítésigazolási Szakértői Szerv, valamint a tagjának jogaira és kötelezettségeire a Szaktv. rendelkezéseit megfelelően alkalmazni kell.
 

@@ -15,3 +15,5 @@ d) a b) és c) pont szerinti munkáknak a szerződés szerinti költségvetési 
 (3) A szakértői vélemény részét képezi a fél által csatolt szerződés másolata.
 
 (4) A Teljesítésigazolási Szakértői Szerv szakvéleményét a kérelemnek – hiánypótlás esetén azok pótlásának – a Teljesítésigazolási Szakértői Szervhez való beérkezését követő naptól számított 30 napon belül készíti el. A Teljesítésigazolási Szakértői Szerv vezetője – ha az ügy különös bonyolultsága indokolja – a határidőt egy alkalommal, legfeljebb 30 nappal meghosszabbíthatja; a meghosszabbításról legkésőbb a határidő lejártakor értesíti azt, akinek a szakértői véleményt meg kell küldenie.
+
+(4a) Az 1. § (1e) bekezdés szerinti eljárásban a szakvéleményben megválaszolandó kérdéseket és a szakvélemény elkészítésére irányadó határidőt a felkérés tartalmazza.
