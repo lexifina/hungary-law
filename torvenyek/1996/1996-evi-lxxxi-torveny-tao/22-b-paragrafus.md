@@ -20,11 +20,15 @@ h) a jegyzett tőkéjének felemelése keretében kibocsátott részvényeknek (
 
 i) jelenértéken legalább 500 millió forint értékű, kis- és középvállalkozás által megvalósított beruházás,
 
-j) jelenértéken legalább 100 millió forint értékű, szabad vállalkozási zóna területén megvalósított beruházás
+j) jelenértéken legalább 100 millió forint értékű, szabad vállalkozási zóna területén megvalósított beruházás,
+
+k) jelenértéken legalább 6 milliárd forint értékű beruházás,
+
+l) jelenértéken legalább 3 milliárd forint értékű munkahelyteremtést szolgáló beruházás
 
 üzembe helyezése és a kormányrendeletben foglaltak szerinti üzemeltetése esetén.
 
-(1a) Az adókedvezmény igénybevételének feltétele, hogy az (1) bekezdés szerinti beruházás
+(1a) Az (1) bekezdés a)–j) pontja esetén az adókedvezmény igénybevételének feltétele, hogy a beruházás
 
 a) olyan induló beruházásnak minősüljön, amelyet
 
@@ -34,6 +38,8 @@ ab) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép
 
 b) olyan új gazdasági tevékenység végzésére irányuló induló beruházásnak minősüljön, amelyet a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településein nagyvállalkozás valósít meg.
 
+(1b) Az (1) bekezdés k) és l) pontja esetén az adókedvezmény igénybevételének feltétele, hogy a beruházás olyan termék-diverzifikációt eredményező induló beruházásnak vagy új eljárási innovációt eredményező induló beruházásnak minősüljön, amelyet a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településein nagyvállalkozás valósít meg.
+
 (2) Az adókedvezményt az adózó e törvény és a kormányrendelet előírásai alapján maga állapítja meg. A (2a) bekezdésben meghatározott beruházás esetén az adózó az adókedvezményt a Kormány – Európai Bizottság engedélyén alapuló – határozata alapján, a határozatban meghatározott feltételek szerint veheti igénybe. A Kormány a határozatot az adózó kérelmére, a kérelemben bemutatott fejlesztési program és az Európai Bizottság engedélye alapján hozza meg, ha a fejlesztési program és a kérelem megfelel az e törvényben és a kormányrendeletben meghatározott valamennyi feltételnek.
 
 (2a) Az adókedvezmény igénybevételének feltétele a Kormány – Európai Bizottság engedélyén alapuló – határozata, ha
@@ -42,7 +48,7 @@ a) a beruházáshoz igényelt összes állami támogatás meghaladja azt az öss
 
 b) kis- és középvállalkozás által a Közép-Magyarország régióban (ide nem értve a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településeit) megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, adózónként meghaladja a 7,5 millió eurónak megfelelő forintösszeget;
 
-c) az adózó vagy kapcsolt vállalkozása a kérelem, bejelentés benyújtását megelőző két naptári évben, a kérelem, bejelentés benyújtását követően, és a beruházás befejezését követő két naptári évig azonos vagy hasonló tevékenységet szüntet meg az Európai Gazdasági Térség területén, vagy tervezi ilyen tevékenység megszüntetését.
+c) az adózó az (1) bekezdés k) vagy l) pontja szerinti beruházást valósít meg.
 
 (2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szabályaival összhangban – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
 
@@ -62,7 +68,7 @@ b) a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kére
 
 (8) Az (1) bekezdés d) pontja szerinti önálló környezetvédelmi beruházás esetén az adókedvezmény igénybevételének feltétele, hogy az adózó adókötelezettsége a kérelem, a bejelentés benyújtása évét megelőző ötödik évben vagy korábban kezdődött.
 
-(9) Az (1) bekezdés a)–b) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben
+(9) Az (1) bekezdés a)–b) és k)–l) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben
 
 a) az adózó által foglalkoztatottak átlagos állományi létszáma (a külföldi telephelyen foglalkoztatott létszám figyelmen kívül hagyásával) legalább 50 fővel, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább 25 fővel meghaladja a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát, vagy
 

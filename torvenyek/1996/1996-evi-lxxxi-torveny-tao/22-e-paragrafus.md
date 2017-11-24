@@ -8,9 +8,9 @@
 
 (4) E § alkalmazásában elszámolható költségnek minősül
 
-a) az energiahatékonysági beruházás célját szolgáló, a magasabb energiahatékonysági szint eléréséhez közvetlenül kapcsolódó tárgyi eszköz, immateriális jószág számvitelről szóló törvény szerinti bekerülési értéke, amennyiben a beruházás összköltségén belül az energiahatékonysági célokat szolgáló beruházás költségei külön beruházásként meghatározhatóak, vagy
+a) az energiahatékonysági beruházás célját szolgáló, a magasabb energiahatékonysági szint eléréséhez közvetlenül kapcsolódó tárgyi eszköz, immateriális jószág bekerülési értéke, amennyiben a beruházás összköltségén belül az energiahatékonysági célokat szolgáló beruházás költségei külön beruházásként meghatározhatóak, vagy
 
-b) az energiahatékonysági célokat közvetlenül szolgáló beruházás részét képező tárgyi eszköz, immateriális jószág számvitelről szóló törvény szerinti bekerülési értékének az a része, amely egy hasonló, kevésbé energiahatékony beruházáshoz viszonyítva többletköltségként merül fel, amely kevésbé energiahatékony beruházást az adózó az e § szerinti adókedvezmény és a beruházáshoz igénybe vett más állami támogatás hiányában hitelt érdemlően végrehajtott volna.
+b) az energiahatékonysági célokat közvetlenül szolgáló beruházás részét képező tárgyi eszköz, immateriális jószág bekerülési értékének az a része, amely egy hasonló, kevésbé energiahatékony beruházáshoz viszonyítva többletköltségként merül fel, amely kevésbé energiahatékony beruházást az adózó az e § szerinti adókedvezmény és a beruházáshoz igénybe vett más állami támogatás hiányában hitelt érdemlően végrehajtott volna.
 
 (5) Az elszámolható költséget szokásos piaci áron kell figyelembe venni, ha az az adózó és a vele kapcsolt vállalkozási viszonyban lévő személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
 
