@@ -1,0 +1,3 @@
+14/F. § (1) E törvénynek a sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvénnyel megállapított 4. § (6) bekezdése – a (2) bekezdésben foglaltak figyelembevételével – a 2017. szeptember 1-jét követően kifizetett jövedelmekre is alkalmazható.
+
+(2) A 2017. szeptember 1-jét követően kifizetett jövedelmekre a sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvény hatálybalépését megelőzően megállapított egyszerűsített közteherviselési hozzájárulási kötelezettség az önellenőrzésre vonatkozó szabályok szerint helyesbíthető.

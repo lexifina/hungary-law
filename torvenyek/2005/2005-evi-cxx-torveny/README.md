@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-120-00-00
 | 2016-11-26 | 2016. évi CXXV. törvény | 2005-120-00-00.18 |
 | 2017-01-01 | 2016. évi CXXV. törvény | 2005-120-00-00.19 |
 | 2017-06-20 | 2017. évi LXXVII. törvény | 2005-120-00-00.20 |
+| 2017-11-24 | 2017. évi CLXIII. törvény | 2005-120-00-00.21 |
