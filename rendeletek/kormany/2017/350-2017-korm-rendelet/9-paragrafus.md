@@ -1,0 +1,1 @@
+## 8. § Az 5. § (1) bekezdése szerinti adatszolgáltatási határidő elmulasztása esetén a 2018. június – 2018. november havi foglalkoztatásra tekintettel biztosított alapbérhez nyújtott támogatás folyósítása a 7. § (2) és (3) bekezdésében foglaltaktól eltérően a 2018. évi működési támogatással való elszámolás során, annak szabályai szerint történik.
