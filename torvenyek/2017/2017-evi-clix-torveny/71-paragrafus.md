@@ -1,3 +1,0 @@
-71. § A Tao. törvény 26. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Ha a naptári évtől eltérő üzleti évet választó adózónak az adóelőleg-kötelezettséget havonként, negyedévenként kell teljesítenie, akkor az első hónap kezdő napjaként a választott üzleti év kezdő napját kell számításba venni. Az első adóévi hónap kezdő napjának naptári hónapon belüli sorszáma határozza meg valamennyi további adóévi hónap kezdő napjának naptári hónapon belüli sorszámát. Amennyiben valamely adóévi hónap kezdő napjának naptári hónapon belüli sorszáma magasabb, mint a követő naptári hónap napjainak száma, a követő adóévi hónap kezdő napjaként a követő naptári hónap utolsó napját kell tekinteni. Adóévi negyedévként három adóévi hónapot kell figyelembe venni.”

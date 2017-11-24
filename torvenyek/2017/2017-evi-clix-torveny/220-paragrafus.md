@@ -1,3 +1,3 @@
 ## 92. Az egyes állami és önkormányzati ingatlanok ingyenes tulajdonba adásáról, valamint a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény módosításáról szóló 2013. évi CXVIII. törvény módosítása
 
-220. § Az egyes állami és önkormányzati ingatlanok ingyenes tulajdonba adásáról, valamint a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény módosításáról szóló 2013. évi CXVIII. törvény 4. § (1) bekezdés a) pontjában az „időpontjában az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül és” szövegrész helyébe az „időpontjában szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban és” szöveg lép.
+220. §

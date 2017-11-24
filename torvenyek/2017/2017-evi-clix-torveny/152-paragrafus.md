@@ -1,11 +1,3 @@
-152. § (1) Az Áfa tv.
+152. § (1)
 
-a) a 4. számú mellékletet követően a 3. melléklet szerinti 4/A. számú melléklettel,
-
-b) a 6/B. számú mellékletet követően a 4. melléklet szerinti 6/C. számú melléklettel,
-
-c) az 5. melléklet szerinti 10. számú melléklettel
-
-egészül ki.
-
-(2) Az Áfa tv. 10. számú melléklete helyébe a 6. melléklet lép.
+(2)

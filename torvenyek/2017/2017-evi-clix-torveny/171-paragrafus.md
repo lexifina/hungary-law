@@ -1,3 +1,3 @@
 ## 64. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvénnyel és a megtakarítások ösztönzésével összefüggő törvénymódosításokról szóló 2009. évi CXVI. törvény módosítása
 
-171. § Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvénnyel és a megtakarítások ösztönzésével összefüggő törvénymódosításokról szóló 2009. évi CXVI. törvény 148. § (5) bekezdésében az „az adóhatóság az Art. 52. § (7) bekezdésének ba) alpontja szerinti adatszolgáltatást” szövegrész helyébe az „adóhatóság a nyugdíjjogosultsághoz, nyugdíj-megállapításhoz, valamint a nyugdíjfolyósító szerv által folyósított ellátások jogszerűségének vizsgálatához szükséges adatokra vonatkozó, az adózás rendjéről szóló törvény szerinti adatszolgáltatást” szöveg lép.
+171. §
