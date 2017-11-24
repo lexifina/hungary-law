@@ -486,15 +486,17 @@
 
 ## 42A5AB A passzív viszontbiztosítások bemutatása a tárgyidőszak végén (fakultatív)
 
-## A tábla kitöltése
+## A táblák kitöltése
 
 ## Ezek a táblák a biztosító passzív viszontbiztosításainak bemutatására szolgálnak.
 
-## Belföldi: Magyarországon székhellyel rendelkező biztosító;
+## A táblákban használt fogalmak:
 
-## EGT-n belüli: Magyarországon kívüli, de EGT tagországbeli székhellyel rendelkező biztosító;
+## - belföldi: Magyarországon székhellyel rendelkező biztosító;
 
-## EGT-n kívüli: Nem magyarországi és nem más EGT tagországbeli, azaz harmadik országbeli székhellyel rendelkező biztosító.
+## - EGT-n belüli: Magyarországon kívüli, de más EGT-állambeli székhellyel rendelkező biztosító;
+
+## - EGT-n kívüli: nem magyarországi és nem más EGT-állambeli, azaz harmadik országbeli székhellyel rendelkező biztosító.
 
 ## A 42A5AA és 42A5AB tábla, valamint az eredménykimutatás közötti összefüggések
 
@@ -542,15 +544,17 @@
 
 ## 42A5BB Az aktív viszontbiztosítások bemutatása a tárgyidőszak végén (fakultatív)
 
-## A tábla kitöltése
+## A táblák kitöltése
 
 ## A táblák a biztosító aktív viszontbiztosításainak a bemutatására szolgálnak.
 
-## Belföldi: Magyarországon székhellyel rendelkező biztosító;
+## A táblákban használt fogalmak:
 
-## EGT-n belüli: Magyarországon kívüli, de EGT tagországbeli székhellyel rendelkező biztosító;
+## - belföldi: Magyarországon székhellyel rendelkező biztosító;
 
-## EGT-n kívüli: Nem magyarországi és nem más EGT tagországbeli, azaz harmadik országbeli székhellyel rendelkező biztosító.
+## - EGT-n belüli: Magyarországon kívüli, de más EGT-állambeli székhellyel rendelkező biztosító;
+
+## - EGT-n kívüli: nem magyarországi és nem más EGT-állambeli, azaz harmadik országbeli székhellyel rendelkező biztosító.
 
 ## 42A5BC tábla Aktív viszontbiztosítási kapcsolatok bemutatása a tárgyidőszakban
 
@@ -850,7 +854,7 @@
 
 ## 5. oszlop A befektetési állomány változásának idővel súlyozott összege (nettó)
 
-## Idővel súlyozott ÁV=
+| Idővel súlyozott |  |
 
 ## ahol
 
@@ -956,9 +960,9 @@
 
 ## A csomagbiztosítások egy darabnak számítanak. A termék díjfelosztásakor kapott legnagyobb arányú díjrész szerinti biztosítási ágazathoz kell sorolni őket.
 
-## Pervesztés: a polgári perrendtartásról szóló 1952. évi III. törvény 81. §-a szerint értelmezendő. Ide kell sorolni a legfeljebb 49% mértékben pervesztes ügyeket.
+## Pervesztesség: a polgári perrendtartásról szóló 1952. évi III. törvény 81. §-a, illetve a 2017. december 31-ét követően indult ügyek tekintetében a polgári perrendtartásról szóló 2016. évi CXXX. törvény 83. §-a szerint értelmezendő. Ide kell sorolni a legfeljebb 49% mértékben pervesztes ügyeket.
 
-## Pernyerés: a polgári perrendtartásról szóló 1952. évi III. törvény 81. §-a szerint értelmezendő. Ide kell sorolni a legalább 50% mértékben pernyertes ügyeket.
+## Pernyertesség: a polgári perrendtartásról szóló 1952. évi III. törvény 81. §-a, illetve a 2017. december 31-ét követően indult ügyek tekintetében a polgári perrendtartásról szóló 2016. évi CXXX. törvény 83. §-a szerint értelmezendő. Ide kell sorolni a legalább 50% mértékben pernyertes ügyeket.
 
 ## A táblában fel kell tüntetni a tárgyévben indított és a tárgyévben lezárt pereket is.
 
@@ -1104,27 +1108,27 @@
 
 ## 42A17A111 sor Közvetlen bruttó díjbevétel összesen
 
-## A sor tartalmazza a biztosítási szerződésekből származó összes közvetlen bruttó biztosítási díjbevételt, melyet a következők szerint kell bontani: a székhely szerinti tagállam, az EU, az EGT-hez tartozó más országok (Norvégia, Izland, Liechtenstein), valamint Svájc, USA, Japán, egyéb országok.
+## A sor tartalmazza a biztosítási szerződésekből származó összes közvetlen bruttó biztosítási díjbevételt, melyet a következők szerint kell bontani: a székhely szerinti tagállam, az Európai Unió (a továbbiakban: EU) más tagállama, más EGT-állam, valamint Svájc, USA, Japán, egyéb országok.
 
 ## 42A17A1111 sor Közvetlen bruttó díjbevétel, a letelepedés joga alapján szerzett üzlet
 
-## Ebben a sorban a székhely szerinti tagállam szempontjából, a más országokban működő fiókok bruttó díjbevételét kell bontani a következők szerint: az EU, az EGT-hez tartozó más országok, valamint Svájc, USA, Japán, egyéb országok valamint ezeken belül a termékosztályozás szerint.
+## Ebben a sorban a székhely szerinti tagállam szempontjából, a más országokban működő fiókok bruttó díjbevételét kell bontani a következők szerint: az EU tagállama, más EGT-állam, valamint Svájc, USA, Japán, egyéb országok, valamint ezeken belül a termékosztályozás szerint.
 
 ## 42A17A1112 sor Közvetlen bruttó díjbevétel, a szolgáltatásnyújtás szabadsága alapján szerzett üzlet
 
-## Ebben a sorban a székhely szerinti tagállam szempontjából, a bruttó díjbevételt a más államokba nyújtott szolgáltatás szabadsága alapján bontani kell a következők szerint: az EU, az EGT-hez tartozó más országok, valamint Svájc, USA, Japán, egyéb országok valamint ezeken belül a termékosztályozás szerint.
+## Ebben a sorban a székhely szerinti tagállam szempontjából, a bruttó díjbevételt a más államokba nyújtott szolgáltatás szabadsága alapján bontani kell a következők szerint: az EU tagállama, más EGT-állam, valamint Svájc, USA, Japán, egyéb országok, valamint ezeken belül a termékosztályozás szerint.
 
 ## 42A17A112 sor Bruttó aktív viszontbiztosítási díjbevétel
 
-## A székhely szerinti tagállam szempontjából a bruttó aktív viszontbiztosítási díjbevételt bontani kell a következők szerint: a székhely szerinti tagállam, az EU, az EGT-hez tartozó más országok, valamint Svájc, USA, Japán, egyéb országok. A bontás során a viszontbiztosításba adó gazdasági szervezet földrajzi elhelyezkedését kell figyelembe venni.
+## A székhely szerinti tagállam szempontjából a bruttó aktív viszontbiztosítási díjbevételt bontani kell a következők szerint: a székhely szerinti tagállam, az EU tagállama, más EGT-állam, valamint Svájc, USA, Japán, egyéb országok. A bontás során a viszontbiztosításba adó gazdasági szervezet földrajzi elhelyezkedését kell figyelembe venni.
 
 ## 42A17A12 sor Bruttó (passzív) viszontbiztosításba adott díj
 
-## A székhely szerinti tagállam szempontjából a viszontbiztosítók bruttó díjbevételből való részesedését bontani kell a következők szerint: a székhely szerinti tagállam, az EU, az EGT-hez tartozó más országok, Svájc, USA, Japán, egyéb országok. A bontás során a viszontbiztosítást elfogadó gazdasági szervezet földrajzi elhelyezkedését kell figyelembe venni.
+## A székhely szerinti tagállam szempontjából a viszontbiztosítók bruttó díjbevételből való részesedését bontani kell a következők szerint: a székhely szerinti tagállam, az EU más tagállama, más EGT-állam, Svájc, USA, Japán, egyéb országok. A bontás során a viszontbiztosítást elfogadó gazdasági szervezet földrajzi elhelyezkedését kell figyelembe venni.
 
 ## 42A17A13 sor Fiókok száma
 
-## A 90/619/EGK és a 92/49/EGK irányelv szerint meghatározott külföldi fiókok számát tartalmazza a következő bontásban: saját országon kívüli egyes EU, EGT országok, Svájc, USA, Japán, egyéb országok.
+## A 90/619/EGK és a 92/49/EGK irányelv szerint meghatározott külföldi fiókok számát tartalmazza a következő bontásban: saját országon kívüli egyes EU tagállamok, más EGT-állam, Svájc, USA, Japán, egyéb országok.
 
 ## 42A17A2 Kárkifizetési adatok földrajzi megoszlásban történő bemutatása
 
@@ -1132,27 +1136,27 @@
 
 ## 42A17A211 sor Közvetlen bruttó kárkifizetés összesen
 
-## E sor tartalmazza a biztosítási szerződések alapján teljesített Közvetlen bruttó kárkifizetést, melyet a következők szerint kell bontani: a székhely szerinti tagállam, az EU, az EGT-hez tartozó más országok (Norvégia, Izland, Liechtenstein), valamint Svájc, USA, Japán, egyéb országok.
+## E sor tartalmazza a biztosítási szerződések alapján teljesített Közvetlen bruttó kárkifizetést, melyet a következők szerint kell bontani: a székhely szerinti tagállam, az EU más tagállama, más EGT-állam, valamint Svájc, USA, Japán, egyéb országok.
 
 ## 42A17A2111 sor Közvetlen bruttó kárkifizetés a letelepedés joga alapján szerzett üzlet után
 
-## Ebben a sorban a székhely szerinti tagállam szempontjából, a más országokban működő fiókok bruttó kárkifizetését kell bontani a következők szerint: az EU, az EGT-hez tartozó más országok, valamint Svájc, USA, Japán, egyéb országok valamint ezeken belül a termékosztályozás szerint.
+## Ebben a sorban a székhely szerinti tagállam szempontjából, a más országokban működő fiókok bruttó kárkifizetését kell bontani a következők szerint: az EU tagállama, más EGT-állam, valamint Svájc, USA, Japán, egyéb országok, valamint ezeken belül a termékosztályozás szerint.
 
 ## 42A17A2112 sor Közvetlen bruttó kárkifizetés a szolgáltatásnyújtás szabadsága alapján szerzett üzlet után
 
-## Ebben a sorban a székhely szerinti tagállam szempontjából, a bruttó kárkifizetést a más államokba nyújtott szolgáltatás szabadsága alapján kell bontani a következők szerint: az EU, az EGT-hez tartozó más országok, valamint Svájc, USA, Japán, egyéb országok valamint ezeken belül a termékosztályozás szerint.
+## Ebben a sorban a székhely szerinti tagállam szempontjából, a bruttó kárkifizetést a más államokba nyújtott szolgáltatás szabadsága alapján kell bontani a következők szerint: az EU tagállama, más EGT-állam, valamint Svájc, USA, Japán, egyéb országok, valamint ezeken belül a termékosztályozás szerint.
 
 ## 42A17A212 sor Aktív viszontbiztosítással kapcsolatban történt kárkifizetés
 
-## Ebben a sorban a székhely szerinti tagállam szempontjából az aktív viszontbiztosítási tevékenységgel kapcsolatos kárkifizetést kell bontani a következők szerint: a székhely szerinti tagállam, az EU, az EGT-hez tartozó más országok, valamint Svájc, USA, Japán, egyéb országok. A bontás során a viszontbiztosításba adó gazdasági szervezet földrajzi elhelyezkedését kell figyelembe venni.
+## Ebben a sorban a székhely szerinti tagállam szempontjából az aktív viszontbiztosítási tevékenységgel kapcsolatos kárkifizetést kell bontani a következők szerint: a székhely szerinti tagállam, az EU más tagállama, más EGT-állam, valamint Svájc, USA, Japán, egyéb országok. A bontás során a viszontbiztosításba adó gazdasági szervezet földrajzi elhelyezkedését kell figyelembe venni.
 
 ## 42A17A22 sor Passzív viszontbiztosítással kapcsolatban befolyt kárbevétel
 
-## Ebben a sorban a székhely szerinti tagállam szempontjából a passzív viszontbiztosítási tevékenység következtében befolyt kárbevételt (=bevétel kármegtérülésből) kell bontani a következők szerint: a székhely szerinti tagállam, az EU, az EGT-hez tartozó más országok, valamint Svájc, USA, Japán, egyéb országok. A bontás során a viszontbiztosítást elfogadó gazdasági szervezet földrajzi elhelyezkedését kell figyelembe venni.
+## Ebben a sorban a székhely szerinti tagállam szempontjából a passzív viszontbiztosítási tevékenység következtében befolyt kárbevételt (=bevétel kármegtérülésből) kell bontani a következők szerint: a székhely szerinti tagállam, az EU más tagállama, más EGT-állam, valamint Svájc, USA, Japán, egyéb országok. A bontás során a viszontbiztosítást elfogadó gazdasági szervezet földrajzi elhelyezkedését kell figyelembe venni.
 
 ## 42A17A23 sor Bevételek kármegtérülésekből (nem viszontbiztosítással kapcsolatos)
 
-## A sorban a székhely szerinti tagállam szempontjából a nem viszontbiztosítási tevékenység következtében befolyt kárbevételt (=bevétel kármegtérülésből) kell bontani a következők szerint: a székhely szerinti tagállam, az EU, az EGT-hez tartozó más országok, valamint Svájc, USA, Japán, egyéb országok. A bontás során a viszontbiztosítást elfogadó gazdasági szervezet földrajzi elhelyezkedését kell figyelembe venni.
+## A sorban a székhely szerinti tagállam szempontjából a nem viszontbiztosítási tevékenység következtében befolyt kárbevételt (=bevétel kármegtérülésből) kell bontani a következők szerint: a székhely szerinti tagállam, az EU más tagállama, más EGT-állam, valamint Svájc, USA, Japán, egyéb országok. A bontás során a viszontbiztosítást elfogadó gazdasági szervezet földrajzi elhelyezkedését kell figyelembe venni.
 
 ## 42A17B Élet ágazatok bemutatása egyéni és csoportos szerződések megbontásban
 
@@ -1173,6 +1177,68 @@
 ## 42A17D4 sor Bruttó működési költségek
 
 ## Bruttó működési költségek = szerzési költségek + elhatárolt szerzési költségek változása + igazgatási költségek (befektetési költségek kivételével).
+
+## 42A19 Pénzmosással és terrorizmusfinanszírozással kapcsolatos éves adatok
+
+## A tábla kitöltése
+
+## A táblában a biztosító tulajdonosi szerkezetéről, ügyfeleiről, valamint az általa a Pmt. szerinti belső szabályzata alapján lefolytatott eljárások keretében összegyűjtött információkról kell adatot szolgáltatni.
+
+## A táblában használt fogalmak
+
+## - kettős felhasználású termék: a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló 2009. május 5-i 428/2009/EK tanácsi rendelet 2. cikk 1. pontja szerinti, a hivatkozott tanácsi rendelet I. mellékletét képező jegyzékben szereplő termék;
+
+## - kiemelt kockázatú ország: a Pmt. 3. § 31. pontja szerinti ország;
+
+## - kiemelt közszereplő: a Pmt. 4. § (1) és (2) bekezdése szerinti természetes személy;
+
+## - kiemelt közszereplő közeli hozzátartozója: a Pmt. 4. § (3) bekezdése szerinti természetes személy;
+
+## - kiemelt közszereplővel közeli kapcsolatban álló személy: a Pmt. 4. § (4) bekezdése szerinti természetes személy;
+
+## - tényleges tulajdonos: a Pmt. 3. § 38. pontja szerinti jogalany;
+
+## - tulajdonos: azon természetes vagy jogi személy, illetve szervezet, amely a szolgáltatóban közvetlenül vagy közvetve a szavazati jogok vagy a tulajdoni hányad legalább tíz százalékát birtokolja.
+
+## A tábla oszlopai
+
+## 1. oszlop Év végi állomány– Fő, illetve darabszám
+
+## Az adatokat a teljes állomány vonatkozásában úgy kell megadni, hogy a tárgyév végi állapotot tükrözze.
+
+## A tábla sorai
+
+## 42A1901 sor Kiemelt kockázatú országban nyilvántartott tulajdonosi kör
+
+## Ebben a sorban a biztosító azon tulajdonosainak számát kell szerepeltetni, akik, illetve amelyek kiemelt kockázatú országban rendelkeznek lakóhellyel, illetve ezen országokban kerültek bejegyzésre, nyilvántartásba vételre.
+
+## 42A1902 sor Kiemelt kockázatú országban bejegyzett képviselet, fióktelep vagy tulajdonosi érdekeltség
+
+## Ebben a sorban a biztosító és tulajdonosa kiemelt kockázatú országban nyilvántartott, illetve bejegyzett képviselete, fióktelepe mellett szerepeltetni kell azon pénzügyi szolgáltatókat is, melyekben a biztosító vagy tulajdonosainak részesedése nagyobb tíz százaléknál.
+
+## 42A1903 sor Kiemelt közszereplő (PEP)
+
+## Ebben a sorban azon ügyfelek, kedvezményezettek, biztosítási szerződés alapján a biztosító szolgáltatására jogosult személyek, továbbá tényleges tulajdonosok tárgyév végi számát kell megadni, amelyekről a biztosító a Pmt. 19. és 20. §-a alapján megállapította, hogy kiemelt közszereplőnek minősülnek.
+
+## 42A1904 sor Kiemelt közszereplő közeli hozzátartozója, kiemelt közszereplővel közeli kapcsolatban álló személy
+
+## Ebben a sorban azon ügyfelek, kedvezményezettek, biztosítási szerződés alapján a biztosító szolgáltatására jogosult személyek, továbbá tényleges tulajdonosok tárgyévi végi számát kell megadni, amelyekről a biztosító a Pmt. 19. és 20. §-a alapján megállapította, hogy kiemelt közszereplő közeli hozzátartozójának vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősülnek.
+
+## 42A1906 sor Kiemelt kockázatú országban lakóhellyel vagy székhellyel rendelkező ügyfelek
+
+## Ebben a sorban kell feltüntetni azoknak az ügyfeleknek a számát, akik kiemelt kockázatú országban lakóhellyel rendelkeznek, illetve ezen országokban kerültek bejegyzésre, nyilvántartásba vételre.
+
+## 42A1908 sor Nem állami vagy önkormányzati tulajdonban álló nonprofit gazdasági társaság ügyfelek
+
+## Ebben a sorban az állami vagy önkormányzati tulajdonban nem álló, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 9/F. §-a szerinti nonprofit gazdasági társaságnak minősülő ügyfelek számát kell jelenteni.
+
+## 42A1910 sor Ingatlanforgalmazással foglalkozó ügyfelek
+
+## A Pmt. 3. § 17. pontja szerinti ingatlanügylettel kapcsolatos tevékenységet végző ügyfelek száma.
+
+## 42A1911 sor Szerencsejáték szervezéssel foglalkozó ügyfelek
+
+## Azon ügyfelek számát kell megadni, akik hatósági engedélyhez kötött játékkaszinót, kártyatermet működtetnek vagy szerencsejáték szervező tevékenységet folytatnak.
 
 ## 42AM Mérleg
 
@@ -1784,17 +1850,17 @@
 
 ## A tábla sorai
 
-## 42B3A3111 Hagyományos életbiztosítások 1. – 7. oszlop
+## 42B3A3111 Hagyományos életbiztosítások 1-7. oszlop
 
 ## Hagyományos életbiztosítások = Halál esetre szóló életbiztosítás + Elérési életbiztosítás + Vegyes életbiztosítás + Term fix biztosítás + Halasztott járadékbiztosítás + Azonnal induló, vagy már megindult járadékbiztosítás + Egyéb életbiztosítás
 
-## 42B3A3111 Hagyományos életbiztosítások 8. - 14. oszlop
+## 42B3A3111 Hagyományos életbiztosítások 8-14. oszlop
 
 ## Hagyományos életbiztosítások = Halál esetre szóló életbiztosítás + Elérési életbiztosítás + Vegyes életbiztosítás + Term fix biztosítás + Halasztott járadékbiztosítás + Azonnal induló, vagy már megindult járadékbiztosítás + Baleset és betegség kiegészítő biztosítások + Egyéb életbiztosítás
 
 ## 42B3A31115 sor Halasztott járadékbiztosítás illetve 42B3A31116 sor Azonnal induló vagy már megindult járadékbiztosítás
 
-## E sorok esetében a szolgáltatást a "lejárat miatt" oszlopba kell írni. Ezeknél a szolgáltatás darabszáma 1, ha abban az évben egyáltalán már volt a járadékbiztosítás szerint szolgáltatás, függetlenül attól, hogy ez havi, negyedéves, féléves vagy éves gyakorisággal történt.
+## E sorok esetében a szolgáltatást a „lejárat miatt" oszlopba kell írni. Ezeknél a szolgáltatás darabszáma 1, ha abban az évben egyáltalán már volt a járadékbiztosítás szerint szolgáltatás, függetlenül attól, hogy ez havi, negyedéves, féléves vagy éves gyakorisággal történt.
 
 ## 42B3A31117 sor Baleset- és betegség kiegészítő biztosítások
 
@@ -1838,17 +1904,19 @@
 
 ## 42B5AB A passzív viszontbiztosítások bemutatása a tárgyidőszak végén (fakultatív)
 
-## A tábla kitöltése
+## A táblák kitöltése
 
 ## Ezek a táblák a biztosító passzív viszontbiztosításainak bemutatására szolgálnak. A közölt adatokat legalább a viszontbiztosítási elszámolásokkal alátámasztani szükséges.
 
-## Belföldi: Magyarországon székhellyel rendelkező biztosító.
+## A táblákban használt fogalmak:
 
-## EGT-n belüli: Magyarországon kívüli, de EGT tagországbeli székhellyel rendelkező biztosító.
+## - belföldi: Magyarországon székhellyel rendelkező biztosító.
 
-## EGT-n kívüli: Nem magyarországi és nem más EGT tagországbeli, azaz harmadik országbeli székhellyel rendelkező biztosító.
+## - EGT-n belüli: Magyarországon kívüli, de más EGT-állambeli székhellyel rendelkező biztosító.
 
-## 42B5AA és 42B5AB tábla valamint az eredménykimutatás közötti összefüggések
+## - EGT-n kívüli: nem magyarországi és nem más EGT-állambeli, azaz harmadik országbeli székhellyel rendelkező biztosító.
+
+## 42B5AA és 42B5AB táblák valamint az eredménykimutatás közötti összefüggések
 
 ## A viszontbiztosítónak átadott díj:
 
@@ -1866,15 +1934,17 @@
 
 ## 42B5BB Az aktív viszontbiztosítások bemutatása a tárgyidőszak végén (fakultatív)
 
-## A tábla kitöltése
+## A táblák kitöltése
 
 ## Ezek a táblák a biztosító aktív viszontbiztosításainak a bemutatására szolgálnak. A közölt adatokat legalább a viszontbiztosítási elszámolásokkal alátámasztani szükséges.
 
-## Belföldi: Magyarországon székhellyel rendelkező biztosító;
+## A táblákban használt fogalmak:
 
-## EGT-n belüli: Magyarországon kívüli, de EGT tagországbeli székhellyel rendelkező biztosító;
+## - belföldi: Magyarországon székhellyel rendelkező biztosító;
 
-## EGT-n kívüli: Nem magyarországi és nem más EGT tagországbeli, azaz harmadik országbeli székhellyel rendelkező biztosító.
+## - EGT-n belüli: Magyarországon kívüli, de más EGT-állambeli székhellyel rendelkező biztosító;
+
+## - EGT-n kívüli: nem magyarországi és nem más EGT-állambeli, azaz harmadik országbeli székhellyel rendelkező biztosító.
 
 ## 42B8A A tartalékok és fedezeteinek bemutatása a tárgyidőszak végén
 
@@ -2202,7 +2272,7 @@
 
 ## 8. oszlop A Biztosítónak az eszközalap kezelőjénél T. napon kezdeményezett eladási megbízásának teljesítési napja
 
-## Ezekben az oszlopokban az adatot „T+x” formátumban kell megadni, ahol x az elszámolás napja és az értéknap között eltelt idő napokban kifejezve.
+## Ezekben az oszlopokban az adatot „T+x” formátumban kell megadni, ahol x az elszámolás napja és az értéknap között eltelt idő, napokban kifejezve.
 
 ## 9. oszlop Az eszközalap befektetési egységeire adott visszavásárlási megbízások a kitöltési időszakban (db)
 
@@ -2604,7 +2674,7 @@
 
 ## Minden egyéb, a fenti kategóriákba be nem sorolható panasz.
 
-## 18. oszlop
+## 18. oszlop Tárgyidőszak elejétől halmozott adatok
 
 ## A nyilvántartásba vett panaszügyek tárgyidőszak végéig halmozott adatait kell megadni úgy, hogy az előző negyedéves adathoz (18. oszlop) hozzá kell adni a tárgynegyedéves adatot (17. oszlop). Az első negyedévben a hivatkozott oszlopok értéke megegyezik (17. és 18. oszlop).
 
@@ -2782,119 +2852,163 @@
 
 ## A tábla kitöltése
 
-## A táblát a Pmt. rendelkezései alapján, és azokkal teljes összhangban kell kitölteni.
+## A táblában az adatszolgáltató által a Pmt. szerinti belső szabályzata alapján lefolytatott eljárások keretében összegyűjtött információkról kell adatot szolgáltatni.
 
-## Csak azon biztosítóknak kötelező a kitöltése, amelyek a Pmt. 1. § (1) bekezdés c) pontja, valamint a (4) bekezdés b)-d) pontja értelmében a Pmt. hatálya alá tartoznak.
+## A tábla kitöltése csak azon biztosítónak kötelező, amely a Pmt. 1. § (1) bekezdés b) pontja, valamint a 3. § 28. pont g) alpontja értelmében a Pmt. hatálya alá tartozik.
 
-## A táblában a természetes személyekre és egyéb (gazdasági társaságok, egyéb jogi személyek, egyéni vállalkozások stb.) személyekre vonatkozó adatokat kell bemutatni.
+## A devizában felmerülő állományi adatokat a negyedév végén érvényes MNB hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a számviteli szabályok szerint megállapított devizaárfolyamon számított összegen kell szerepeltetni.
 
-## Az adatokat az adott tárgynegyedévre és az év elejétől halmozott összegben egyaránt fel kell tüntetni.
+## A deviza ügyletet az adott tranzakció lebonyolításakor érvényes MNB hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a számviteli szabályok szerint megállapított devizaárfolyamon számított összegen kell szerepeltetni.
 
-## Devizában felmerülő állományi adatokat a negyedév végén érvényes MNB hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a számviteli szabályok szerint megállapított devizaárfolyamon számított összegen kell szerepeltetni.
+## A táblában használt fogalmak:
 
-## Deviza ügylet esetén az adott tranzakció lebonyolításakor érvényes MNB hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a számviteli szabályok szerint megállapított devizaárfolyamon számított összegen kell szerepeltetni.
+## - kiemelt közszereplő: a Pmt. 4. § (1) és (2) bekezdése szerinti természetes személy;
 
-## Az adatokat értelemszerűen mind az adott tárgynegyedévi, mind a halmozott (naptári év elejétől kumulált) oszlopokban darabszámra, illetve az értékösszegeket ezer forintban kell megadni.
+## - kiemelt közszereplő közeli hozzátartozója: a Pmt. 4. § (3) bekezdése szerinti természetes személy;
+
+## - kiemelt közszereplővel közeli kapcsolatban álló személy: a Pmt. 4. § (4) bekezdése szerinti természetes személy;
+
+## - tényleges tulajdonos: a Pmt. 3. § 38. pontja szerinti jogalany.
 
 ## A tábla oszlopai
 
-## 1. oszlop Tárgynegyedév – darabszám
+## 1. oszlop Tárgynegyedév – Fő, illetve darabszám
 
-## A darabszám adatokat az adott tárgynegyedévre vonatkozóan kell feltüntetni.
+## Az adatokat az adott tárgynegyedévre vonatkozóan kell feltüntetni.
 
 ## 2. oszlop Tárgynegyedév – összeg
 
-## Az összeg adatokat az adott tárgynegyedévre vonatkozóan kell feltüntetni.
+## Az adatokat az adott tárgynegyedévre vonatkozóan kell feltüntetni.
 
-## 3. oszlop Halmozott – darabszám
+## 3. oszlop Halmozott (naptári év elejétől kumulált) – Fő, illetve darabszám
 
-## Az oszlopban a darabszám adatokat az év elejétől halmozva kell megadni.
+## Az adatokat az év elejétől halmozva kell megadni.
 
-## 4. oszlop Halmozott – összeg
+## 4. oszlop Halmozott (naptári év elejétől kumulált) – összeg
 
-## Az oszlopban az összeg adatokat az év elejétől halmozva kell megadni.
+## Az adatokat az év elejétől halmozva kell megadni.
 
 ## A tábla sorai
 
-## 42B191 Nem teljes körűen átvilágított ügyfél
+## 42B1901 Nem teljes körűen átvilágított ügyfél
 
-## A nem teljes körűen átvilágított ügyfél sorban kell feltüntetni az adott negyedév végén azon ügyfelek számát, amelyeknél a biztosítónak nem áll rendelkezésre ügyfeléről az összes szükséges átvilágítási adat, a Pmt 8. §-ában előírt és annak megfelelő nyilatkozat a tényleges tulajdonosról, vagy a Pmt. 16. §-ában előírt kiemelt közszereplői státuszra vonatkozó nyilatkozat.
+## Ebben a sorban kell feltüntetni az adott negyedév végén azon ügyfelek számát, amelyeknél a biztosítónak nem áll rendelkezésre ügyfeléről a Pmt. 7-10. §-ában előírt és annak megfelelő összes szükséges adat és nyilatkozat a tényleges tulajdonosról, illetve a Pmt. 19. §-ában előírt, a kiemelt közszereplői státuszra vonatkozó nyilatkozat.
 
-## 42B1911 Ebből ügyfélkövetelés
+## 42B19011 ebből: ügyfélkövetelés
 
-## A 42B191 sorból az ügyfélkövetelést kell feltüntetni. Ügyfélkövetelés: az ügyfél összes követelése a biztosítóval szemben, vagyis az ügyfélnek a biztosítóval szemben fennálló követelése az adott tárgyidőszak végén, azaz a szolgáltatási összeg, például az elérési biztosítás összege, a unit-linked biztosítás aktuális értéke. Az ügyfélkövetelés nem nettósítható.
+## A 42B1901 sorból az ügyfélköveteléshez kapcsolódó adatokat kell feltüntetni. Ügyfélkövetelés összege: az ügyfél összes követelése a biztosítóval szemben. Az ügyfélkövetelés nem nettósítható. A „Fő, illetve darabszám” oszlopban az ügyfelek számát kell megadni.
 
-## 42B1912 Ebből: ügyfélkötelezettség
+## 42B19012 ebből: ügyfélkötelezettség
 
-## A 42B191 sorból az ügyfél-kötelezettséget kell feltüntetni. Ügyfélkötelezettség: az ügyfél összes tartozása a biztosítóval szemben, itt célszerű kimutatni az ügyfélnek a biztosítóval szemben a tárgyidőszak végén fennálló esetleges díjtartozását is. Az ügyfélkötelezettség nem nettósítható.
+## A 42B1901 sorból az ügyfél-kötelezettséghez kapcsolódó adatokat kell feltüntetni. Ügyfélkötelezettség összege: az ügyfél összes tartozása a biztosítóval szemben. Az ügyfélkötelezettség nem nettósítható. A „Fő, illetve darabszám” oszlopban az ügyfelek számát kell megadni.
 
-## 42B192 Összes ügyfél-átvilágítás
+## 42B1902 Összes ügyfél-átvilágítás
 
-## Az összes ügyfél-átvilágítás sorban kell feltüntetni az összes, egyszerűsített, fokozott vagy normál ügyfél-átvilágítás számát. Amennyiben az ügyfél átvilágítása során, azonos eljárásban egyidejűleg több kapcsolódó személy azonosítása és személyazonosságának igazoló ellenőrzése, valamint nyilatkoztatása is megtörténik (pl. képviselő, rendelkezésre jogosult, meghatalmazott, kedvezményezett), azt egy átvilágítási eljárásnak kell tekinteni.
+## Ebben a sorban kell feltüntetni az adott negyedévben lefolytatott egyszerűsített, fokozott és normál ügyfél-átvilágítások összesített számát. Amennyiben az ügyfél átvilágítása során, azonos eljárásban egyidejűleg több kapcsolódó személy azonosítása és személyazonosságának igazoló ellenőrzése, valamint nyilatkoztatása is megtörténik (pl. képviselő, rendelkezésre jogosult, meghatalmazott, kedvezményezett), azt egy átvilágítási eljárásnak kell tekinteni.
 
-## 42B1921 Egyszerűsített ügyfél- átvilágítás
+## A 42B1902 sorban kimutatott összes ügyfél-átvilágítás adatokat a 42B190211-42B19035 sorban három szempont szerint kell tovább bontani. A 42B190211-42B190213 sorban az ügyfél-átvilágítás mélységére tekintettel, a 42B19031-42B19033 sorban a Pmt. 6. §-ának megfelelően, míg a 42B19034 és42B19035 sorban a Pmt. 22-24. §-a szerint. Utóbbi két alábontás nem teljeskörű, ezért a 42B1902 sor nagyobb vagy egyenlő a 42B19031-42B19033 sor, illetve a 42B19034-42B19035 sor összegénél.
 
-## Az egyszerűsített ügyfél-átvilágítás sorban kell feltüntetni a Pmt. 12. és 13. §-a alapján lefolytatott egyszerűsített ügyfél-átvilágítások számát.
+## 42B190211 Egyszerűsített ügyfél-átvilágítás
 
-## 42B1922 Fokozott ügyfél-átvilágítás
+## Ebben a sorban kell feltüntetni a Pmt. 15. §-a alapján, a Pmt 65. §-ában meghatározott belső szabályzatban rögzített esetekben lefolytatott egyszerűsített ügyfél-átvilágítások számát.
 
-## A fokozott ügyfél-átvilágítás sorban kell feltüntetni a Pmt. 14-17. §-a alapján fokozott ügyfél-átvilágításon átesett ügyfelek számát.
+## 42B190212 Fokozott ügyfél-átvilágítás
 
-## 42B19221 Ebből kiemelt közszereplő ügyfél (PEP) átvilágítása
+## Ebben a sorban kell feltüntetni a Pmt. 16-21. §-a alapján lefolytatott fokozott ügyfél-átvilágítások számát.
 
-## A kiemelt közszereplő ügyfelek átvilágítása sorba azon átvilágítások számát kell beírni, amelyeknél a biztosító megállapította, hogy a kiemelt közszereplőnek minősülő ügyfél a Pmt. 16. §-a alapján nyilatkozatot tett. A kiemelt közszereplő fogalmát a Pmt. 4. §-a határozza meg.
+## 42B1902121 ebből: kiemelt közszereplő (PEP) átvilágítása
 
-## 42B1923 Normál ügyfél-átvilágítás
+## Ebben a sorban azon átvilágítások számát kell megadni, amelyeknél a biztosító a Pmt. 19. és 20. §-a alapján megállapította, hogy az ügyfél, kedvezményezett, biztosítási szerződés alapján a biztosító szolgáltatására jogosult személy, továbbá a tényleges tulajdonos kiemelt közszereplőnek minősül.
 
-## A normál ügyfél-átvilágítás sorban kell feltüntetni az átvilágítás alapeljárását meghatározó, a Pmt. 7-9. §-ában rögzített szabályok alapján lefolytatott átvilágítások számát.
+## 42B1902122 ebből: kiemelt közszereplő közeli hozzátartozója, kiemelt közszereplővel közeli kapcsolatban álló személy átvilágítása
 
-## 42B19231 Ebből kiegészítő intézkedések alkalmazásával lefolytatott normál ügyfél átvilágítás
+## Ebben a sorban azon átvilágítások számát kell megadni, amelyeknél a biztosító a Pmt. 19. és 20. §-a alapján megállapította, hogy az ügyfél, kedvezményezett, biztosítási szerződés alapján a biztosító szolgáltatására jogosult személy, továbbá a tényleges tulajdonos kiemelt közszereplő közeli hozzátartozója, vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősül.
 
-## A kiegészítő intézkedések alkalmazásával lefolytatott normál átvilágítás sorban azon ügyfél-átvilágítások számát kell megadni, amelyek esetében a Pmt. 7-9. §-ában előírtakhoz képest a biztosító az általa azonosított kockázatok figyelembevételével, további információk beszerzését, kiegészítő kontrollok alkalmazását írja elő eljárásai során (pl. a minimum adatkör helyett a maximum adatkör illetve további információk rögzítése, üzleti kapcsolat létesítésének vezetői engedélyhez kötése, ügyféladatok ellenőrzése adatbázisok igénybevételével, nyilatkoztatás vagy dokumentumokkal történő alátámasztás kérése az eszközök eredetére vonatkozóan).
+## 42B1902123 ebből: nem személyes ügyfél-átvilágítás
 
-## 42B1931 Üzleti kapcsolat létesítésekor történt átvilágítás
+## A sornak azon ügyfél-átvilágítások számát kell tartalmaznia, amelyeknél az ügyfelek a biztosítónál nem jelentek meg személyesen az azonosítás és a személyazonosság igazoló ellenőrzése céljából, így átvilágításuk a Pmt. 17. §-ában foglalt intézkedések mellett történt meg.
 
-## Az üzleti kapcsolat létesítésekor történt átvilágítás sorban kell szerepeltetni azon ügyfelek számát, akiket, mint új ügyfelet, átvilágított a biztosító.
+## 42B190213 Normál ügyfél-átvilágítás
 
-## 42B1932 Hárommillió-hatszázezer forintot elérő vagy meghaladó összegű, eseti ügyfél által kezdeményezett ügyleti megbízás miatti átvilágítás
+## Ebben a sorban kell feltüntetni az átvilágítás alapeljárását meghatározó, a Pmt. 7-10. §-ában rögzített szabályok alapján lefolytatott átvilágítások számát.
 
-## A hárommillió-hatszázezer forintot elérő vagy meghaladó összegű tranzakció miatti átvilágítás sorban azon ügyfelek számát kell szerepeltetni, akiket az adott negyedévben kizárólag azért világított át a biztosító, mert hárommillió-hatszázezer forintot elérő vagy meghaladó összegű tranzakciót kezdeményeztek és az ügyleti megbízást megelőzően nem voltak szerződött ügyfelek, illetve meghatalmazottak. A biztosító belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is megtörténhet. Az adott sorban a ténylegesen lefolytatott átvilágítási eljárások számát kell feltüntetni.
+## 42B19031 Üzleti kapcsolat létesítésekor történt átvilágítás
 
-## 42B1933 Több, egymással összefüggő, hárommillió-hatszázezer forintot meghaladó összegű, eseti ügyfél által kezdeményezett ügyleti megbízásmiatti átvilágítás
+## Ebben a sorban azon átvilágítások számát kell szerepeltetni, amelyeknél az új ügyfelet a Pmt. 6. § (1) bekezdés a) pontja szerint átvilágították.
 
-## A több, egymással összefüggő, összesen hárommillió-hatszázezer forintot meghaladó összegű tranzakció miatti átvilágítás sorban kell feltüntetni azon ügyfelek számát, akiket az adott negyedévben azért világítottak át, mert több egymással összefüggő olyan ügyleti megbízást kezdeményeztek, melyek együttes összege meghaladta a hárommillió-hatszázezer forintot. A biztosító belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is megtörténhet. Az adott sorban a ténylegesen lefolytatott átvilágítási eljárások számát kell feltüntetni.
+## 42B19032 Hárommillió-hatszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás miatti átvilágítás
 
-## 42B1934 Más szolgáltató által végzett ügyfél-átvilágítás átvétele
+## Ebben a sorban azon ügyfél-átvilágítások számát kell szerepeltetni, amelyeknél az ügyfeleket az adott negyedévben a Pmt. 6. § (1) bekezdés b) pontja értelmében amiatt világított át a biztosító, mert hárommillió-hatszázezer forintot elérő vagy meghaladó összegű tranzakciót kezdeményeztek és az ügyleti megbízást megelőzően a biztosító nem létesített velük üzleti kapcsolatot, és átvilágításukra még nem került sor. A biztosító belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is megtörténhet. Az adott sorban a ténylegesen lefolytatott átvilágítási eljárások számát, illetve az ügyleti megbízások forintösszegét kell feltüntetni.
 
-## A más szolgáltató által végzett átvilágítás sorban a más szolgáltató által végzett és a biztosító által elfogadott átvilágítások számát kell feltüntetni.
+## 42B19033 Egymással ténylegesen összefüggő, hárommillió-hatszázezer forintot elérő vagy meghaladó összegű, több ügyleti megbízás miatti átvilágítás
 
-## 42B1941 Saját bejelentések
+## Ebben a sorban kell feltüntetni azon átvilágítások számát, amelyeknél az ügyfeleket az adott negyedévben a Pmt. 6. § (2) bekezdése alapján azért világítottak át, mert a Pmt. 3. § 37. pontja szerinti, ténylegesen összefüggő több olyan ügyleti megbízást kezdeményeztek, melyek együttes összege elérte vagy meghaladta a hárommillió-hatszázezer forintot. A biztosító belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is lefolytatható. Az adott sorban a ténylegesen lefolytatott átvilágítási eljárások számát, illetve az ügyleti megbízások forintösszegét kell feltüntetni.
 
-## A saját bejelentések: darabszám és összeg oszlopban a biztosító által a pénzügyi információs egységként működő hatóság részére az adott negyedévben küldött bejelentések számát és a bejelentések teljes forintösszegét kell feltüntetni. A bejelentett összeg az adott tranzakcióban szereplő összeg, amelyet az ügyfél a biztosítónak átadott, vagy részére kifizetésre került.
+## 42B19034 Más szolgáltató által végzett ügyfél-átvilágítás átvétele
 
-## 42B1942 Bejelentésekből devizában bonyolított ügyletek
+## Ebben a sorban a Pmt. 22-24. §-a szerinti, más szolgáltató által végzett és a biztosító által elfogadott átvilágítások számát kell feltüntetni.
 
-## A bejelentésekből devizában bonyolított ügyletek sorban azokat az ügyleteket kell feltüntetni, melyeket a biztosító devizában bonyolított.
+## 42B19035 Közvetítő által végzett átvilágítás
 
-## 42B195 Bejelentésekből felfüggesztett tranzakció
+## Ebben a sorban a Bit. 4. § (1) bekezdés 34. pont c) alpontja és 35. pontja szerinti biztosításközvetítők által végzett átvilágítások számát kell feltüntetni.
 
-## A bejelentésekből felfüggesztett tranzakciók sorban azon bejelentéseket kell feltüntetni, amelyek során a biztosító a Pmt. 24. §-a alapján felfüggesztést alkalmazott, illetve a pénzügyi információs egységként működő hatóság a felfüggesztés meghosszabbítását kérte.
+## 42B1904 10 millió forintot elérő vagy meghaladó készpénz ki- és befizetések
 
-## 42B196 Bíróság által pénzmosás miatt zárolt követelések
+## Ebben a sorban kell kimutatni az adott negyedévben készpénzben teljesített azon ügyletek számát, illetve teljes forintösszegét, melyek értéke elérte vagy meghaladta a tízmillió forintot.
 
-## Ebben a sorban a bíróságok által pénzmosás miatt zárolt biztosítások számát és összegét kell feltüntetni.
+## 42B1905 Saját bejelentések
 
-## 42B197 Terrorizmus finanszírozásának gyanúja miatti bejelentés
+## A „Fő, illetve darabszám” és az „Összeg” oszlopban a biztosító által a pénzügyi információs egységként működő hatóság részére az adott negyedévben küldött bejelentések összesített számát és a bejelentések teljes forintösszegét kell feltüntetni. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
 
-## A terrorizmus finanszírozásának gyanúja miatti bejelentés sorban azokat a bejelentéseket kell feltüntetni, amelyeket a biztosító a terrorizmus finanszírozásának gyanúja miatt tett. A sorban szerepeltetni kell az intézmény uniós korlátozó intézkedésekkel kapcsolatos ügyben megtett bejelentéseit is, amennyiben a bejelentés EU terrorista listán szereplő személyre vonatkozik.
+## 42B190511 ebből: a Pmt. 30. §-a alapján pénzmosás gyanúja miatt tett bejelentések
 
-## 42B198 Terrorista listák alapján zárolt követelések
+## Itt kell feltüntetni a 42B1905 sorból a biztosító által pénzmosás gyanújával [Pmt. 30. § (1) bekezdés a) pontja] a pénzügyi információs egységként működő hatóság részére, adott negyedévben küldött bejelentések számát és a bejelentések teljes forintösszegét. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
 
-## A terrorista listák alapján zárolt követelések sorban azt az ügyfélszámot és azok teljes ügyfélkövetelését kell feltüntetni, amelyet a biztosító az ügyfél valamely, az intézmény által alkalmazott terrorista listán való szereplése miatt az adott negyedévben zárolt és ezt a pénzügyi információs egységként működő hatóságnak, mint illetékes hatóságnak bejelentett.
+## 42B190512 ebből: a Pmt. 30. §-a alapján terrorizmus finanszírozása gyanúja miatt tett bejelentések
 
-## 42B199 Szankciós listák alapján zárolt követelések
+## Itt kell feltüntetni a 42B1905 sorból a biztosító által terrorizmus finanszírozása gyanújával [Pmt. 30. § (1) bekezdés b) pontja] a pénzügyi információs egységként működő hatóság részére, adott negyedévben küldött bejelentések számát és a bejelentések teljes forintösszegét. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
 
-## A szankciós listák alapján zárolt követelések sorban azt az ügyfélszámot és azok teljes ügyfélkövetelését kell feltüntetni, amelyet a biztosító az ügyfél valamely, az intézmény által alkalmazott szankciós listán való szereplése miatt az adott negyedévben zárolt és ezt a pénzügyi információs egységként működő hatóságnak, mint illetékes hatóságnak bejelentett.
+## 42B190513 ebből: a Kit. alapján tett bejelentések
+
+## Ezen sorban kell szerepeltetni a 42B1905 sorból a biztosító által a Kit. 4. § (1) bekezdése, illetve a 14. § (8) bekezdése alapján a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv, illetve a pénzügyi információs egységként működő hatóság részére, adott negyedévben küldött bejelentések számát és a bejelentések teljes forintösszegét. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
+
+## 42B19052 Saját bejelentésekből külföldi fizetőeszközben bonyolított ügyletek
+
+## Ebben a sorban azokat az ügyleteket kell feltüntetni, melyeket a biztosító devizában (pl. átutalás kezdeményezése és fogadása, konverzió) bonyolított.
+
+## 42B1906 Saját bejelentésekből 4 munkanapra felfüggesztett tranzakciók
+
+## Ebben a sorban azon bejelentéseket kell feltüntetni, amelyek során a biztosító a Pmt. 34. § (1) bekezdése és 35. § (1) bekezdése alapján felfüggesztést alkalmazott.
+
+## 42B19061 ebből: biztosító által kezdeményezett felfüggesztések
+
+## A 42B1906 sorból azon bejelentéseket kell itt szerepeltetni, mely esetekben az ügyleti megbízás teljesítésének felfüggesztését a Pmt. 34. § (1) bekezdése alapán a biztosító kezdeményezte.
+
+## 42B19062 ebből: pénzügyi információs egységként működő hatóság által kezdeményezett felfüggesztések
+
+## A 42B1906 sorból azon bejelentéseket kell itt kimutatni, mely esetekben az ügyleti megbízás teljesítésének felfüggesztését a Pmt. 35. § (1) bekezdése alapán a pénzügyi információs egységként működő hatóság kezdeményezte.
+
+## A 42B19061 és 42B19062 sorok összege kiadja a biztosító által a tárgynegyedévben alkalmazott összes felfüggesztés számát.
+
+## 42B19063 ebből: pénzügyi információs egységként működő hatóság kérésére meghosszabbított felfüggesztések
+
+## A 42B1906 sorból azon bejelentéseket kell feltüntetni, amelyek esetében a biztosító a Pmt. 35. § (3) bekezdése alapján a pénzügyi információs egységként működő hatóság jelzése alapján a felfüggesztést meghosszabbította.
+
+## 42B1907 Bíróság, nyomozóhatóság által pénzmosás gyanúja miatt zárolt, lefoglalt követelések
+
+## Ebben a sorban a bíróság. illetve a nyomozóhatóság által pénzmosás gyanúja miatt zárolt, illetve lefoglat biztosítások számát és összegét kell feltüntetni.
+
+## 42B1908 Terrorista, illetve szankciós listák alapján zárolt követelések
+
+## Ebben a sorban azt az ügyfélszámot és azok teljes ügyfélkövetelését kell feltüntetni, amelyet a biztosító az ügyfél valamely, a biztosító által alkalmazott terrorista, illetve szankciós listán való szereplése miatt az adott negyedévben zárolt és ezt a pénzügyi információs egységként működő hatóságnak, mint illetékes hatóságnak bejelentett.
+
+## 42B1909 Pmt. 12. § (5) bekezdése alapján blokkolt ügyfél
+
+## Ebben a sorban kell szerepeltetni azon ügyfelek számát, akiknek számlája terhére vagy javára kezdeményezett megbízások teljesítését a biztosító a Pmt. 12. § (5) bekezdése alapján az adott negyedévben elutasította. Az adott sorban az ügyfelek száma mellett a blokkolt számlák egyenlegét is fel kell tüntetni.
+
+## 42B1910 12 hónapon belüli visszavásárlások
+
+## Ebben a sorban kell szerepeltetni azon kötvények számát, illetve forintértékét, melyek részleges vagy teljes visszavásárlására a szerződéskötést követő 12 hónapon belül, adott negyedévben került sor, és annak szerződésenkénti visszavásárlási értéke meghaladja az ötmillió forintot.
 
 ## 42B22 Törvényi limiteknek való megfelelőségre vonatkozó adatok
 
@@ -2902,7 +3016,7 @@
 
 ## A táblában az egyes sorokban nevesített, a Bit.-ben foglalt törvényi előírásoknak való megfelelőségről kell nyilatkozni.
 
-## Az „igen/nem” válaszok esetében az alábbi kódtárat kell alkalmazni, míg a %-os értékek sorainál a konkrét értéket kell megadni.
+## Az „igen”/„nem” válaszok esetében az alábbi kódtárat kell alkalmazni, míg a %-os értékek sorainál a konkrét értéket kell megadni.
 
 | Válasz | 1. oszlop értéke (kivéve a %-os értékre vonatkozó sorokat) |
 
@@ -2978,7 +3092,7 @@
 
 ## 42BTR09 Függő kötelezettség a csoport tagjai felé
 
-## Az Számv. tv. 3. § (8) bekezdés 14. pontja szerinti függő kötelezettségek tárgyidőszak végi megfelelő nyitott állományát kell bemutatni.
+## A Számv. tv. 3. § (8) bekezdés 14. pontja szerinti függő kötelezettségek tárgyidőszak végi megfelelő nyitott állományát kell bemutatni.
 
 ## 42BTR10 A biztosító által csoporttag részére fizetett tanácsadói díj
 

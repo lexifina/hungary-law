@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-48-20-2
 | 2016-12-13 | 2016-48-20-2C.1 | 48/2016. (XII. 12.) MNB rendelet |
 | 2016-12-14 | 2016-48-20-2C.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-48-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-11-24 | 2016-48-20-2C.4 | 31/2017. (XI. 23.) MNB rendelet |

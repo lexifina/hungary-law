@@ -10,13 +10,19 @@
 
 ## 1.4. Bit.,
 
-## 1.5. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.),
+## 1.5.
 
 ## 1.6. a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.),
 
 ## 1.7. a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (a továbbiakban: Gfbtv.),
 
 ## 1.8. a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.),
+
+## 1.8a. az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény (a továbbiakban: Kit.),
+
+## 1.8b. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.),
+
+## 1.8c. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény végrehajtásának az MNB által felügyelt szolgáltatókra vonatkozó, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti szűrőrendszer kidolgozásának és működtetése minimumkövetelményeinek részletes szabályairól szóló 19/2017. (VII. 19.) MNB rendelet,
 
 ## 1.9. a biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 192/2000. (XI. 24.) Korm. rend. (a továbbiakban: Bszkr.),
 
@@ -36,15 +42,19 @@
 
 ## 2. Fogalmak, rövidítések
 
-## 2.1. Kisbiztosító: a Bit. 204. §-ában foglalt feltételeknek megfelelő, a Bit. HATODIK RÉSZE hatálya alá tartozó biztosító.
+## 2.1. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
 
-## 2.2. Kisbiztosító-egyesület: a Bit. 230. § (1) bekezdése szerinti, kölcsönös biztosító egyesületi formában működő kisbiztosító.
+## 2.2. IFRS-ek: az 1606/2002/EK európai parlamenti és tanácsi rendelettel összhangban egyes nemzetközi számviteli standardok elfogadásáról szóló 2008. november 3-i 1126/2008/EK bizottsági rendelet mellékletében meghatározott nemzetközi pénzügyi beszámolási standardok.
 
-## 2.3. Kárnyilvántartó rendszer: a biztosító által teljesítendő, illetve teljesített szolgáltatásokkal (kárrendezés) kapcsolatos nyilvántartási rendszer.
+## 2.3. Kisbiztosító: a Bit. 204. §-ában foglalt feltételeknek megfelelő, a Bit. HATODIK RÉSZE hatálya alá tartozó biztosító.
 
-## 2.4. Kgfb: kötelező gépjármű-felelősségbiztosítás.
+## 2.4. Kisbiztosító-egyesület: a Bit. 230. § (1) bekezdése szerinti, kölcsönös biztosító egyesületi formában működő kisbiztosító.
 
-## 2.5. A táblákban és a kitöltési előírásokban használt további fogalmakat, rövidítéseket – külön magyarázat hiányában – az 1. pont szerinti jogszabályok által meghatározott módon kell érteni.
+## 2.5. Kárnyilvántartó rendszer: a biztosító által teljesítendő, illetve teljesített szolgáltatásokkal (kárrendezés) kapcsolatos nyilvántartási rendszer.
+
+## 2.6. Kgfb: kötelező gépjármű-felelősségbiztosítás.
+
+## 2.7. A táblákban és a kitöltési előírásokban használt további fogalmakat, rövidítéseket – külön magyarázat hiányában – az 1. pont szerinti jogszabályok által meghatározott módon kell érteni.
 
 ## 3. A felügyeleti jelentés formai követelményei
 
@@ -58,9 +68,9 @@
 
 ## A törzsszám az adatszolgáltató adószámának első nyolc karaktere.
 
-## A vonatkozás vége a tárgyidőszak záró napja, vagyis az éves auditált felügyeleti jelentéssel egyidejűleg küldendő dokumentumok esetén a vonatkozás vége a mérleg fordulónapja. Pl. a 2015. évre vonatkozóan: „20151231”.
+## A vonatkozás vége a tárgyidőszak záró napja, vagyis az éves auditált felügyeleti jelentéssel egyidejűleg küldendő dokumentumok esetén a vonatkozás vége a mérleg fordulónapja. Pl. a 2017. évre vonatkozóan: „20171231 ”.
 
-## A fentiek alapján például az éves beszámoló mellékletét képező kiegészítő melléklet fájl neve: xxxxxxxx_20151231_kiegmell.pdf.
+## A fentiek alapján például az éves beszámoló mellékletét képező kiegészítő melléklet fájl neve: xxxxxxxx_20171231_kiegmell.pdf.
 
 ## A melléklet típusa az egyes típusú adatszolgáltatók által az MNB felé elektronikusan megküldendő dokumentumok rövid megnevezését tartalmazza, melyek megtalálhatók a 2., 4., 6., 8. és 10. melléklet összefoglaló tábláiban.
 
@@ -94,10 +104,12 @@
 
 ## 4.1. A hatályos számviteli jogszabályok szerint az adatszolgáltatónak saját magának kell az adatgyűjtését, analitikáját, nyilvántartását megszervezni és gondoskodni arról, hogy minden egyes táblába csak bizonylattal alátámasztott, és az adatszolgáltató nyilvántartásaiban rögzített gazdasági eseményekről kerüljön be adat.
 
-## 4.2 A kijelölésen alapuló felügyeleti jelentés vonatkozási időpontját, az adatszolgáltatás időtartamát és az adatszolgáltatásra kötelezettek körét az MNB egyedi kijelölésben határozza meg. A kijelölésen alapuló felügyeleti jelentés teljesítésének kötelezettségéről az MNB az általa kijelölt adatszolgáltatót írásban értesíti. Az adatszolgáltatónak folyamatosan biztosítania kell, hogy nyilvántartásai, informatikai rendszerei alkalmasak legyenek e felügyeleti jelentések előállítására.
+## 4.2. A kijelölésen alapuló felügyeleti jelentés vonatkozási időpontját, az adatszolgáltatás időtartamát és az adatszolgáltatásra kötelezettek körét az MNB egyedi kijelölésben határozza meg. A kijelölésen alapuló felügyeleti jelentés teljesítésének kötelezettségéről az MNB az általa kijelölt adatszolgáltatót írásban értesíti. Az adatszolgáltatási kötelezettség – a kijelölésben foglalt eltérő rendelkezés hiányában – az MNB által a kijelölésben meghatározott tárgyidőszaktól kezdődően a kijelölés MNB általi visszavonásáig, illetve a tevékenységi engedély visszavonásáról szóló határozat véglegessé válása napjáig folyamatosan fennáll. Az adatszolgáltatónak folyamatosan biztosítania kell, hogy nyilvántartásai, informatikai rendszerei alkalmasak legyenek e felügyeleti jelentések előállítására is.
 
 ## 4.3. A felügyeleti jelentésben szereplő állományoknak (a napi vonatkozási idejű jelentések kivételével) meg kell egyezniük a hó végére lezárt mérleg-, eredménykimutatás és mérlegen kívüli tételek állományaival. Az éves jelentés sorait a könyvvizsgáló által ellenőrzött (auditált) mérleg- és eredménykimutatás adatok és mérlegen kívüli nyilvántartások alapján kell az MNB részére megküldeni.
 
 ## 4.4. Az egyes (eszköz- és forrás-, illetve eredménykimutatási) tételeket a Számv. tv., valamint a Bszkr. szerinti előírásoknak megfelelően kell részletezni.
 
-2. melléklet a 48/2016. (XII. 12.) MNB rendelethez
+2. melléklet a 48/2016. (XII. 12.) MNB rendelethez[^8]
+
+[^8]: A 2. melléklet a 31/2017. (XI. 23.) MNB rendelet 4. § (2) bekezdése szerint módosított szöveg.
