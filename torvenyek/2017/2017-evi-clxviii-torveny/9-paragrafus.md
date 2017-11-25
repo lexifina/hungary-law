@@ -9,11 +9,3 @@
 (5) A 7. § 2019. január 2-án lép hatályba.
 
 (6) E törvény végrehajtásához szükséges intézkedésekről az adópolitikáért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
