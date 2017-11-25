@@ -122,6 +122,6 @@
 
 ## V–VIII.
 
-4. melléklet a 30/2017. (XI. 23.) MNB rendelethez[^4]
+4. melléklet a 30/2017. (XI. 23.) MNB rendelethez[^5]
 
-[^4]: A 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–25., 27. és 29–34. sora, valamint az ott meghatározott felügyeleti jelentések táblái a 10. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^5]: A 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–25., 27. és 29–34. sora, valamint az ott meghatározott felügyeleti jelentések táblái a 10. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

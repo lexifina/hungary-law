@@ -1,6 +1,6 @@
 ## 20172C20000030_12
 
-9. melléklet a 30/2017. (XI. 23.) MNB rendelethez[^9]
+9. melléklet a 30/2017. (XI. 23.) MNB rendelethez[^10]
 
 A foglalkoztatói nyugdíjszolgáltató intézmény felügyeleti jelentéseire vonatkozó
 
@@ -92,4 +92,4 @@ Ebben a sorban azon ügyfelek tárgyév végi számát kell megadni, amelyekről
 
 Ebben a sorban kell feltüntetni azoknak az ügyfeleknek a számát – beleértve a 77NPM1 és a 77NPM21 sorban kimutatott kört is –, akik kiemelt kockázatú országban lakóhellyel rendelkeznek, illetve ezen országokban kerültek bejegyzésre.
 
-[^9]: A 9. melléklet II. pontja a 10. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^10]: A 9. melléklet II. pontja a 10. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
