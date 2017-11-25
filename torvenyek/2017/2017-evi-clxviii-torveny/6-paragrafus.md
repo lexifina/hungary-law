@@ -1,0 +1,9 @@
+6. § (1) Hatályát veszti a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK tanácsi irányelvben előírt kötelezettségek végrehajtása céljából a Magyar Köztársaság, valamint a Csatorna-szigetek, a Man-sziget és a függő vagy társult karibi területek között aláírt Megállapodások megerősítéséről és kihirdetéséről szóló 2005. évi LII. törvény IV., V. és VI. számú Melléklete.
+
+(2) Hatályát veszti a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK tanácsi irányelvben előírt kötelezettségek végrehajtása céljából a Magyar Köztársaság, valamint a Csatorna-szigetek, a Man-sziget és a függő vagy társult karibi területek között aláírt Megállapodások megerősítéséről és kihirdetéséről szóló 2005. évi LII. törvény VII. számú Melléklete.
+
+(3) Hatályát veszti a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK tanácsi irányelvben előírt kötelezettségek végrehajtása céljából a Magyar Köztársaság, valamint a Csatorna-szigetek, a Man-sziget és a függő vagy társult karibi területek között aláírt Megállapodások megerősítéséről és kihirdetéséről szóló 2005. évi LII. törvény VIII. számú Melléklete.
+
+(4) Hatályát veszti a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK tanácsi irányelvben előírt kötelezettségek végrehajtása céljából a Magyar Köztársaság, valamint a Csatorna-szigetek, a Man-sziget és a függő vagy társult karibi területek között aláírt Megállapodások megerősítéséről és kihirdetéséről szóló 2005. évi LII. törvény IX. számú Melléklete.
+
+(5) Hatályát veszti a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK tanácsi irányelvben előírt kötelezettségek végrehajtása céljából a Magyar Köztársaság, valamint a Csatorna-szigetek, a Man-sziget és a függő vagy társult karibi területek között aláírt Megállapodások megerősítéséről és kihirdetéséről szóló 2005. évi LII. törvény X. számú Melléklete.
