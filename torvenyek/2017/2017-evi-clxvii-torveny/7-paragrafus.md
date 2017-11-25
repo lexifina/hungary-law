@@ -1,0 +1,1 @@
+7. § Az Országgyűlés az egyrészről az Európai Közösség és tagállamai, másrészről a Libanoni Köztársaság közötti társulás létrehozásáról szóló euromediterrán megállapodáshoz a Horvát Köztársaság Európai Unióhoz történő csatlakozásának figyelembevétele céljából készült jegyzőkönyvet (a továbbiakban: 3. Jegyzőkönyv) e törvénnyel kihirdeti.

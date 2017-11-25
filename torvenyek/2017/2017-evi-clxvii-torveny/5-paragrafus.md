@@ -1,0 +1,1 @@
+5. § Az Országgyűlés az egyrészről az Európai Közösség és tagállamai, másrészről a Libanoni Köztársaság közötti társulás létrehozásáról szóló euro-mediterrán megállapodáshoz, a Bolgár Köztársaság és Románia Európai Unióhoz való csatlakozása figyelembevétele céljából készült jegyzőkönyvet (a továbbiakban: 2. Jegyzőkönyv) e törvénnyel kihirdeti.

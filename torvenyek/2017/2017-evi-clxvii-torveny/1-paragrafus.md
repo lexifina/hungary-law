@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösség és tagállamai, másrészről a Libanoni Köztársaság közötti társulás létrehozásáról szóló euro-mediterrán megállapodást (továbbiakban: Megállapodás) e törvénnyel kihirdeti.
