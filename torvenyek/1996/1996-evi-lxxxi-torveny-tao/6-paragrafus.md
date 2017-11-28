@@ -10,7 +10,7 @@
 
 (4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
 
-(4a) A 10. §-ban foglalt, az iskolaszövetkezetekre vonatkozó rendelkezéseket a közérdekű nyugdíjas szövetkezetek tekintetében is megfelelően alkalmazni kell.
+(4a)
 
 (5) Ha az adózó (2) bekezdés szerinti adózás előtti eredménye vagy az (1) bekezdés szerinti adóalapja közül a nagyobb érték nem éri el a jövedelem-(nyereség-)minimumot, akkor választása szerint
 

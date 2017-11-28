@@ -41,5 +41,3 @@ A közhasznú nonprofit gazdasági társaság és a szociális szövetkezet 1. �
 3. a szabad pénzeszközök betétbe, értékpapírba való elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a közhasznú tevékenység bevétele az összes bevételben képvisel azzal, hogy a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
 
 F)
-
-Európai területi társulás és foglalkoztatói nyugdíjszolgáltató kedvezményezett tevékenysége

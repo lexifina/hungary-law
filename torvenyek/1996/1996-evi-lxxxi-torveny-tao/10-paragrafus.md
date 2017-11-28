@@ -1,4 +1,4 @@
-## Az iskolaszövetkezet adóalapja
+## Az iskolaszövetkezet és a közérdekű nyugdíjas szövetkezet adóalapja
 
 10. § (1) Az iskolaszövetkezet adóalapja az adóévre jóváhagyott osztalék, részesedés, továbbá a (6) bekezdés szerint nyilvántartott, adómentesen képződött eredménytartalékból osztalék, részesedés címen jóváhagyott összeg, valamint a jegyzett tőke leszállítása, a tagi jogviszony megszűnése következtében az adóévben keletkezett kötelezettségek együttes összege (a továbbiakban: megállapított osztalék), módosítva a (2)–(5) bekezdésben, továbbá a 18. és 28. §-okban, valamint – figyelemmel a (2)–(3) bekezdésre – a VII. fejezetben foglaltakkal.
 
@@ -15,3 +15,5 @@
 (7) Iskolaszövetkezetek egyesülése, szétválása esetén a (6) bekezdés szerint nyilvántartott eredménytartalékot – az átalakulás, egyesülés, szétválás formájától függően – összesítéssel, illetve megosztással kell megállapítani, majd ezt az értéket csökkenteni kell az átalakulással, egyesüléssel, szétválással létrejött társaságban részt venni nem kívánó tag részére kiadásra kerülő eszközök és kötelezettségek értékének különbözetével. A csökkentést először az adózottan képzett eredménytartalék terhére kell elszámolni úgy, hogy az ne váljon negatívvá, a fennmaradó rész az adómentesen képzett eredménytartalékot csökkenti.
 
 (8) E § alkalmazásában az eredménytartalékkal esik egy tekintet alá a jegyzett tőkének az a része is, amely az eredménytartalék terhére történő felemeléséből származik, valamint a tőketartaléknak a pozitív összevont átértékelési különbözetből származó része. Ha az adózó a jegyzett tőkét leszállítja, azt kell feltételezni, hogy a tőkeleszállítás – az eredménytartalékból megvalósított tőkeemelés összegéig – jegyzett tőkének az eredménytartalékból származó részéből történt.
+
+(9) Az e §-ban foglalt, az iskolaszövetkezetekre vonatkozó rendelkezéseket a közérdekű nyugdíjas szövetkezetek tekintetében is alkalmazni kell.

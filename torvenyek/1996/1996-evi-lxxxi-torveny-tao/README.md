@@ -64,3 +64,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2017-07-01 | 2017. évi LXXVII. törvény | 1996-81-00-00.109 |
 | 2017-07-19 | 2017. évi LXXVII. törvény | 1996-81-00-00.110 |
 | 2017-11-24 | 2017. évi CLV. törvény | 1996-81-00-00.111 |
+| 2017-11-28 | 2017. évi CXLVI. törvény | 1996-81-00-00.112 |
