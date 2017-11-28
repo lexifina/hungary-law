@@ -2,7 +2,7 @@
 
 a) a nyugdíjas szövetkezet tagjává kíván válni,
 
-b) öregségi nyugdíjban részesül-e,
+b) öregségi nyugdíjban vagy átmeneti bányászjáradékban részesül-e,
 
 c) az alapszabályban foglaltakat elfogadja, magára nézve kötelezőnek ismeri el,
 
