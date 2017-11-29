@@ -10,15 +10,7 @@ nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-3. felhívja a Miniszterelnökséget vezető minisztert, a külgazdasági és külügyminisztert és a nemzetgazdasági minisztert, hogy az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (3) bekezdése alapján – a Bethlen Gábor Alap felett rendelkező Bizottság közreműködésével – gondoskodjanak a 2. pont szerinti kiadások forrásának biztosításáról a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XLII. Költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím terhére és a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára 81 125 ezer forint összegben;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-külgazdasági és külügyminiszter
-
-nemzetgazdasági miniszter
-
-Határidő: a felmerülés ütemében, az Áht. 33. § (3) bekezdése szerinti külön megállapodás alapján
+3.[^1]
 
 4. felhívja a nemzeti fejlesztési minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zrt. útján – a külgazdasági és külügyminiszter bevonásával gondoskodjon a 2. pontban megjelölt, az állam tulajdonába kerülő Ingatlan Külgazdasági és Külügyminisztérium részére történő vagyonkezelésbe adásáról;
 
@@ -61,3 +53,5 @@ Felelős: külgazdasági és külügyminiszter
 nemzeti fejlesztési miniszter
 
 Határidő: a tárgyalások lezárását követően azonnal
+
+[^1]: A 3. pontot az 1865/2017. (XI. 29.) Korm. határozat 2. pontja visszavonta.
