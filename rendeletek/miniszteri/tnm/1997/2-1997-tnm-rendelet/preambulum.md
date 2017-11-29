@@ -1,1 +1,0 @@
-A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 342. §-a (2) bekezdésének c) pontjában foglalt felhatalmazás alapján – figyelemmel a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 22. §-a (1) bekezdésének e), f) pontjaira – az alábbiakat rendelem el:
