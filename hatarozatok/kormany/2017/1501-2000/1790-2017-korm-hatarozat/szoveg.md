@@ -22,8 +22,10 @@ külgazdasági és külügyminiszter
 
 Határidő: felmerülés ütemében
 
-c) felhívja a külgazdasági és külügyminisztert, hogy az MNKH Magyar Nemzeti Kereskedőház Zártkörűen Működő Részvénytársaság vezérigazgatója útján gondoskodjon a Kiállításhoz kapcsolódó feladatok teljesítéséhez szükséges beszerzésekről azzal, hogy a beszerzések mentesülnek a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozatban elrendelt beszerzési tilalom alól.
+c)[^1] felhívja a külgazdasági és külügyminisztert, hogy gondoskodjon a Kiállításhoz kapcsolódó kommunikációs és rendezvényszervezési feladatok ellátásáról és a teljesítéséhez szükséges beszerzésekről azzal, hogy a beszerzések mentesülnek a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozatban elrendelt beszerzési tilalom alól.
 
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: azonnal
+
+[^1]: A 2. pont c) alpontja az 1880/2017. (XI. 29.) Korm. határozat 2. pontjával megállapított szöveg.
