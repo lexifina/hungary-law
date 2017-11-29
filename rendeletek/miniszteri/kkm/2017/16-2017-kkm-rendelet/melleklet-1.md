@@ -1,3 +1,5 @@
-## 22. § Hatályát veszti a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 3/2015. (VII. 15.) KKM rendelet.
+## 22. §[^1]
 
 1. melléklet a 16/2017. (XI. 27.) KKM rendelethez
+
+[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
