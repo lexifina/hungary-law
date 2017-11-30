@@ -8,7 +8,7 @@
 
 ## Határidő: azonnal
 
-## 2. A Kormány a Magyarok Kijevi Egyesülete (MKE) kijevi elhelyezésének biztosításával kapcsolatos intézkedésekről szóló 1604/2017. (IX. 5.) Korm. határozat 3. pontját visszavonja.
+## 2.[^1]
 
 1. melléklet az 1865/2017. (XI. 29.) Korm. határozathoz
 
@@ -81,3 +81,5 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
