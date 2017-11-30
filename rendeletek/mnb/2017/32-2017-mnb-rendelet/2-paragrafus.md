@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 90% réz és 10% cink ötvözetéből készült, súlya 18,4 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapján, a középmezőben az Országház főbejáratához vezető lépcsősor peremén található egyik bronzoroszlán oldal irányú ábrázolása látható, jobbra Magyarország zászlajával. Az emlékérme szélén, fent, félköriratban a „MAGYARORSZÁG” felirat, a bronzoroszlán ábrázolásától jobbra lent a „2000” értékjelzés és a „FORINT” felirat, bal oldalon a „2017” verési évszám és a „BP.” verdejel olvasható, két-két vízszintes sorban. A verdejelben legalább tízszeres nagyítás esetén látható, a verdejel adott betűjével megegyező betűket ábrázoló mikroírás került elhelyezésre. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján a Kossuth Lajos tér ábrázolása látható, a teret déli irányból nézve. Az emlékérme szélén, félköriratban, fent a „KOSSUTH TÉR”, lent a „NEMZETI EMLÉKHELY” felirat olvasható. A tér ábrázolásában lent, középen a nemzeti emlékhelyek emblémája, jobb oldalon, a felirat utolsó betűjénél Tóth Zoltán tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
