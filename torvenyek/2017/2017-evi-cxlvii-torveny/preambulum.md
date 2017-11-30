@@ -1,0 +1,1 @@
+Az Országgyűlés a Nemzeti Média- és Hírközlési Hatóság 2016. évi egységes költségvetéséről szóló 2015. évi CLXXIV. törvényben meghatározott költségvetések végrehajtásáról a következő törvényt alkotja.
