@@ -1,6 +1,28 @@
-## 27. §[^28]
+## 27. §[^29]
 
-1. melléklet a 328/2016. (X. 28.) Korm. rendelethez[^29]
+1. melléklet a 328/2016. (X. 28.) Korm. rendelethez[^30]
 
-[^28]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: Az 1. melléklet a 473/2016. (XII. 27.) Korm. rendelet 16. § (2) bekezdés b) pontja alapján nem lép hatályba.
+| Átadó kormányhivatal | Átvevő kormányhivatal |
+
+| Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Heves Megyei Kormányhivatal |
+
+| Nógrád Megyei Kormányhivatal |
+
+| Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatala | Békés Megyei Kormányhivatal |
+
+| Bács-Kiskun Megyei Kormányhivatal |
+
+| Somogy Megyei Kormányhivatal | Baranya Megyei Kormányhivatal |
+
+| Tolna Megyei Kormányhivatal |
+
+| Veszprém Megyei Kormányhivatal | Komárom-Esztergom Megyei Kormányhivatal |
+
+| Fejér Megyei Kormányhivatal |
+
+| Zala Megyei Kormányhivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
+
+| Vas Megyei Kormányhivatal |
+
+[^29]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: Az 1. mellékletet újonnan a 358/2017. (XI. 29.) Korm. rendelet 3. §-a iktatta be.

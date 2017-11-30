@@ -1,4 +1,4 @@
-## 23. §[^26]
+## 23. §[^27]
 
 ## 21. Az Európai Unió saját forrásaival kapcsolatos kötelezettségek teljesítésében részt vevő intézmények feladat- és hatásköréről, valamint a kapcsolódó eljárásrendről szóló 172/2015. (VII. 2.) Korm. rendelet módosítása
 
@@ -12,4 +12,4 @@ c) 11. §-ában, 13. § (1) bekezdésében, 14. §-ában az „az MVH” szöveg
 
 d) 15. § (1) bekezdésében az „az MVH-val” szövegrész az „a Kincstárral” szöveggel
 
-[^26]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
