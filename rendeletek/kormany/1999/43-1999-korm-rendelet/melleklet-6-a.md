@@ -20,23 +20,23 @@
 
 | 11. | Működési költségelőleg | 2 000,0 |
 
-|  | Célelőirányzatok Méltányossági alapon történő térítések Alapellátási vállalkozás támogatási átalánydíj Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása Tervezett külföldi ellátások orvosi felülvizsgálata Egészségügyi dolgozók béremelésének fedezete Egészségügyi dolgozók 2017. november havi béremelésének fedezete Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése Fiatal szakorvosok támogatása | 2 611,3 55,0 1250,0 20,0 12 222,6 4 500,0 1 444,0 8 600,0 2 520,0 |
+|  | Célelőirányzatok Méltányossági alapon történő térítések Alapellátási vállalkozás támogatási átalánydíj Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása Tervezett külföldi ellátások orvosi felülvizsgálata Egészségügyi dolgozók béremelésének fedezete Egészségügyi dolgozók 2017. november havi béremelésének fedezete Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése Fiatal szakorvosok támogatása Működési és egyéb támogatás | 2 111,3 55,0 2 250,0 20,0 12 222,6 4 500,0 1 444,0 8 600,0 2 520,0 49 100,0 |
 
-| 13. | Célelőirányzatok összesen | 33 222,9 |
+| 13. | Célelőirányzatok összesen | 82 822,9 |
 
 | 15. | Mentés | 37 040,9 |
 
 | 17. | Laboratóriumi ellátás | 25 498,3 |
 
-|  | Összevont szakellátás Járóbeteg szakellátás Fekvőbeteg szakellátás - aktív fekvőbeteg szakellátás - krónikus fekvőbeteg szakellátás - bázis finanszírozású szakellátás (BVOP) - várólista csökkentés Extrafinanszírozás Nagyértékű gyógyszerfinanszírozás Speciális finanszírozású szakellátás | 155 229,3 540 015,0 454 335,3 79 249,9 1 429,8 5 000,0 1 000,0 70 000,0 42 139,1 |
+|  | Összevont szakellátás Járóbeteg szakellátás Fekvőbeteg szakellátás - aktív fekvőbeteg szakellátás - krónikus fekvőbeteg szakellátás - bázis finanszírozású szakellátás (BVOP) - várólista csökkentés Extrafinanszírozás Nagyértékű gyógyszerfinanszírozás Speciális finanszírozású szakellátás | 157 344,9 542 329,3 456 649,6 79 249,9 1 429,8 5 000,0 1 000,0 86 284,6 42 139,1 |
 
-| 808 383,4 | Összevont szakellátás összesen | 808 383,4 |
+| 829 097,9 | Összevont szakellátás összesen | 829 097,9 |
 
 | 0,0 | Alapellátás és népegészségügy fejlesztése | 0,0 |
 
-| 21. | Gyógyító-megelőző ellátás céltartalék | 4 429,9 |
+| 21. | Gyógyító-megelőző ellátás céltartalék | 0,0 |
 
-| Összesen |  | 1 121 728,1 |
+| Összesen |  | 1 187 612,7 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^609]
 
