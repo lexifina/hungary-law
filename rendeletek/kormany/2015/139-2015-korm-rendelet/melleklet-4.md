@@ -234,6 +234,8 @@
 
 | 115. |  |  | társadalmi nemek tanulmánya |  | Gender Studies |  | okleveles társadalmi nemek tanulmányának kutatója |  | Gender Studies Expert | 7 |
 
+| 115/A. |  |  | autonómrendszer-informatikus |  | Computer Science for Autonomous Driving | okleveles autonóm- rendszer-informatikus |  | Computer Scientist for Autonomous Driving | 7 |
+
 | 116. | Informatika | Computer Science and Information Technology | gazdaságinformatikus |  | Business Informatics |  | okleveles gazdaságinformatikus |  | Business Informatics Engineer | 7 |
 
 | 117. |  |  | mérnökinformatikus |  | Computer Science Engineering |  | okleveles mérnökinformatikus |  | Computer Science Engineer | 7 |
@@ -285,6 +287,8 @@
 | 140. |  |  | vezetés és szervezés |  | Management and Leadership |  | okleveles közgazdász vezetés és szervezés szakon |  | Economist in Management and Leadership | 7 |
 
 | 141. | Műszaki | Engineering Science | anyagmérnöki |  | Materials Engineering |  | okleveles anyagmérnök |  | Materials Engineer | 7 |
+
+| 141/A. |  |  | autonóm járműirányítási mérnöki |  | Autonomous Vehicle Control Engineering |  | okleveles autonóm járműirányítási mérnök |  | Autonomous Vehicle Control Engineer | 7 |
 
 | 142. |  |  | bánya- és geotechnikai mérnöki |  | Mining and Geotechnical Engineering |  | okleveles bánya- és geotechnikai mérnök |  | Mining and Geotechnical Engineer | 7 |
 
@@ -352,7 +356,7 @@
 
 | 174. |  |  | településmérnöki |  | Urban Systems Engineering |  | okleveles településmérnök |  | Urban Systems Engineer | 7 |
 
-| 175. |  |  | védelmi vezetéstechnikai rendszertervező |  | Defence C3 Systems Management |  | okleveles védelmi vezetéstechnikai rendszertervező |  | Defence C3 Systems Manager | 7 |
+| 175. |  |  | védelmi infokommunikációs rendszertervező |  | Defence C3 Systems Management |  | okleveles védelmi infokommunikációs rendszertervező |  | Defence C3 Systems Manager | 7 |
 
 | 176. |  |  | vegyészmérnöki |  | Chemical Engineering |  | okleveles vegyészmérnök |  | Chemical Engineer | 7 |
 
@@ -512,6 +516,6 @@
 
 | 254. |  |  | zeneteoretikus |  |  | Music Theory |  | okleveles zeneteoretikus |  | Music Theorist | 7 |
 
-4. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^20]
+4. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^22]
 
-[^20]: A 4. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (3) bekezdése szerint módosított szöveg.
+[^22]: A 4. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (3) bekezdése szerint módosított szöveg.

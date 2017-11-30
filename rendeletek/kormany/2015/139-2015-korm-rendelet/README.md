@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-139-20-
 | 2015-11-27 | 2015-139-20-22.3 | 345/2015. (XI. 19.) Korm. rendelet |
 | 2016-07-01 | 2015-139-20-22.4 | 169/2016. (VII. 1.) Korm. rendelet |
 | 2016-09-29 | 2015-139-20-22.5 | 205/2015. (VII. 23.) Korm. rendelet |
+| 2017-11-30 | 2015-139-20-22.6 | 169/2016. (VII. 1.) Korm. rendelet |

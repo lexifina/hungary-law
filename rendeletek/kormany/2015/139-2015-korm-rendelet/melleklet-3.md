@@ -60,7 +60,7 @@
 
 | 29. | Társadalomtudomány | Social Science | informatikus könyvtáros | Library and Information Science | informatikus könyvtáros | Librarian and Information Scientist | 6 |
 
-| 30. |  |  | kommunikáció és médiatudomány | Communication and Media Science | kommunikátor | Expert in Communication | 6 |
+| 30. |  |  | kommunikáció- és médiatudomány | Communication and Media Science | kommunikátor | Expert in Communication | 6 |
 
 | 31. |  |  | nemzetközi tanulmányok | International Relations | nemzetközi kapcsolatok szakértő | International Relations Expert | 6 |
 
@@ -77,6 +77,8 @@
 | 37. |  |  | mérnökinformatikus | Computer Science Engineering | mérnökinformatikus | Computer Science Engineer | 6 |
 
 | 38. |  |  | programtervező informatikus | Computer Science | programtervező informatikus | Computer Scientist | 6 |
+
+| 38/A. |  |  | üzemmérnök-informatikus | Computer Science Operational Engineering | üzemmérnök-informatikus | Computer Science Operational Engineer | 6 |
 
 | 39. | Jogi | Legal Science | igazságügyi igazgatási | Judicial Administration | igazságügyi szervező | Judicial Administration Manager | 6 |
 
@@ -226,6 +228,6 @@
 
 | 112. |  |  | zenekultúra | Music Culture | zenekultúra szakember | Music Culture Expert | 6 |
 
-3. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^19]
+3. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^21]
 
-[^19]: A 3. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (2) bekezdése szerint módosított szöveg.
+[^21]: A 3. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (2) bekezdése, a 357/2017. (XI. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.

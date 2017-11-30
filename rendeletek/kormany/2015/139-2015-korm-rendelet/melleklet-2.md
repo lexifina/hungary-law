@@ -38,6 +38,6 @@
 
 | 18. | Műszaki | Engineering Science | műszaki felsőoktatási szakképzés | Engineer Assistant | műszaki mérnökasszisztens | Technical Engineer Assistant | 5 |
 
-2. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^18]
+2. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^20]
 
-[^18]: A 2. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 2. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (1) bekezdése, a 357/2017. (XI. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.

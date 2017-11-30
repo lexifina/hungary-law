@@ -40,6 +40,12 @@ b) az Nftv. 15. § (3) bekezdése szerinti képzést a Magyar Képesítési Kere
 
 c) az Nftv. 15. § (4) és (5) bekezdése szerinti képzést a Magyar Képesítési Keretrendszer 7-es
 
+## szintjére kell besorolni.
+
+(11)[^11] A felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendelet módosításáról szóló 357/2017. (XI. 29.) Korm. rendelet (a továbbiakban: Mód. rendelet) 2. melléklet 3. pontjával megváltoztatott megnevezésű szakot az oktatási hivatal hivatalból nyilvántartásba veszi, ha az a Mód. rendelet hatálybalépését[^12] megelőzően korábbi megnevezéssel az oktatási hivatal nyilvántartásában a felsőoktatási intézmény által folytatott képzésként szerepelt.
+
 [^8]: A 10. § (4) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 42. §-a szerint módosított szöveg.
 [^9]: A 10. § (6a) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 40. §-a iktatta be.
 [^10]: A hatálybalépés időpontja 2016. július 1.
+[^11]: A 10. § (11) bekezdését a 357/2017. (XI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2017. november 30.
