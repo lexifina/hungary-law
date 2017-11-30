@@ -8,15 +8,7 @@
 
 ## Határidő: azonnal
 
-## 2. A 2018. évi British Educational Training and Technology Show nemzetközi oktatástechnológiai kiállításon történő magyar részvételről szóló 1790/2017. (XI. 8.) Korm. határozat 2. pont c) alpontja helyébe a következő rendelkezés lép:
-
-## (A Kormány a fenti cél érdekében)
-
-## „c) felhívja a külgazdasági és külügyminisztert, hogy gondoskodjon a Kiállításhoz kapcsolódó kommunikációs és rendezvényszervezési feladatok ellátásáról és a teljesítéséhez szükséges beszerzésekről azzal, hogy a beszerzések mentesülnek a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozatban elrendelt beszerzési tilalom alól.
-
-## Felelős: külgazdasági és külügyminiszter
-
-## Határidő: azonnal”
+## 2.[^1]
 
 1. melléklet az 1880/2017. (XI. 29.) Korm. határozathoz
 
@@ -111,3 +103,5 @@
 |  |  |  |  |  | B1 |  |  |  |  |  | Működési célú támogatások államháztartáson belülről | 2 015 810 |
 
 |  |  |  |  |  | B2 |  |  |  |  |  | Felhalmozási célú támogatások államháztartáson belülről | 575 946 431 |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
