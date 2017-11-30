@@ -64,6 +64,12 @@ Felelős: honvédelmi miniszter
 
 Határidő: 2016. június 30.
 
+e)[^3] felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket a Kecskemét Déli Iparterületen elhelyezkedő Barényi Béla út fejlesztése érdekében.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: azonnal
+
 3. A Kormány
 
 a) támogatja azon tervet, amely a Pallasz Athéné Egyetemmel együttműködve, annak tudásbázisára és diákjaira alapozva Kecskeméten egyetemi ipari kutatóközpont kialakítására irányul;
@@ -88,7 +94,7 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. szeptember 1.
 
-b)[^3] a kecskeméti Városháza teljes körű, az épület 120 éves évfordulójáig megvalósítandó felújítását, amely érdekében
+b)[^4] a kecskeméti Városháza teljes körű, az épület 120 éves évfordulójáig megvalósítandó felújítását, amely érdekében
 
 ba) felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy a külső felújítás 2017. november 15-i, a belső felújítás 2018. augusztus 31-i befejezési határidejéhez igazodóan gondoskodjanak a felújításhoz szükséges források ütemezett biztosításáról;
 
@@ -134,4 +140,5 @@ Határidő: 2016. március 31.
 
 [^1]: A 2. pont b) pont bb) alpontját az 1422/2016. (VII. 29.) Korm. határozat 8. pontja visszavonta.
 [^2]: A 2. pont b) alpont bc) pontját az 1657/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be.
-[^3]: A 4. pont b) alpontja az 1202/2017. (IV. 10.) Korm. határozat 6. pontjával megállapított szöveg.
+[^3]: A 2. pont e) alpontját az 1892/2017. (XI. 30.) Korm. határozat 3. pontja iktatta be.
+[^4]: A 4. pont b) alpontja az 1202/2017. (IV. 10.) Korm. határozat 6. pontjával megállapított szöveg.
