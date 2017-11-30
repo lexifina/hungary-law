@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-375-20-
 | 2015-12-30 | 2010-375-20-22.16 | 472/2015. (XII. 29.) Korm. rendelet |
 | 2016-06-08 | 2010-375-20-22.17 | 125/2016. (VI. 7.) Korm. rendelet |
 | 2016-07-30 | 2010-375-20-22.18 | 227/2016. (VII. 29.) Korm. rendelet |
+| 2017-11-30 | 2010-375-20-22.19 | 296/2014. (XI. 28.) Korm. rendelet |

@@ -28,9 +28,9 @@ b)[^39]
 
 c) a képzés, a szociális földprogram, továbbá a megváltozott munkaképességű személyek közfoglalkoztatása kivételével a közfoglalkoztatási jogviszony létesítéséhez más központi költségvetési előirányzatból támogatásban – ide nem értve a közfoglalkoztató alapfeladatainak ellátásához nyújtott támogatást – nem részesül.
 
-(3)[^40] A támogatás mértéke a közfoglalkoztatási bér és az ahhoz kapcsolódó szociális hozzájárulási adó mértékének 100 százalékáig terjedhet. Amennyiben a közfoglalkoztató a Pftv. 8/A. § (1) bekezdése alapján a szociális hozzájárulási adóból kedvezményt vett igénybe, a támogatás alapja a közfoglalkoztatási bérnek és az ahhoz kapcsolódó szociális hozzájárulási adónak a Pftv. 8/A. § (1) bekezdése alapján kapott szociális hozzájárulási adó kedvezménnyel csökkentett összege. Ezen túlmenően támogatás nyújtható a kormányhivatallal történő előzetes egyeztetés szerint a 3. § (4) bekezdésében meghatározott közvetlen költséghez, valamint az országos közfoglalkoztatási program megvalósításához szükséges anyagköltséghez, amelyek összesített mértéke nem haladhatja meg a közfoglalkoztatási bérhez és az ahhoz kapcsolódó szociális hozzájárulási adóhoz nyújtott támogatás 20 százalékát.
+(3)[^40] A támogatás mértéke a közfoglalkoztatási bér és az ahhoz kapcsolódó szociális hozzájárulási adó mértékének 100 százalékáig terjedhet. Amennyiben a közfoglalkoztató a Pftv. 8/A. § (1) bekezdése alapján a szociális hozzájárulási adóból kedvezményt vett igénybe, a támogatás alapja a közfoglalkoztatási bérnek és az ahhoz kapcsolódó szociális hozzájárulási adónak a Pftv. 8/A. § (1) bekezdése alapján kapott szociális hozzájárulási adó kedvezménnyel csökkentett összege. Ezen túlmenően támogatás nyújtható a kormányhivatallal történő előzetes egyeztetés szerint a 3. § (4) bekezdésében meghatározott közvetlen költséghez, valamint az országos közfoglalkoztatási program megvalósításához szükséges anyagköltséghez, amelyek összesített mértéke nem haladhatja meg a közfoglalkoztatási bérhez és az ahhoz kapcsolódó szociális hozzájárulási adóhoz megítélt támogatás 20 százalékát.
 
-(3a)[^41] Legalább száz fő közfoglalkoztatása esetén a (3) bekezdésben foglaltakon túl támogatás nyújtható a kormányhivatallal történő előzetes egyeztetés szerint az országos közfoglalkoztatási program megvalósításához szükséges szervezési költséghez, amelynek mértéke nem haladhatja meg a közfoglalkoztatási bérhez és az ahhoz kapcsolódó szociális hozzájárulási adóhoz nyújtott támogatás 3 százalékát.
+(3a)[^41] Legalább száz fő közfoglalkoztatása esetén a (3) bekezdésben foglaltakon túl támogatás nyújtható a kormányhivatallal történő előzetes egyeztetés szerint az országos közfoglalkoztatási program megvalósításához szükséges szervezési költséghez, amelynek mértéke nem haladhatja meg a közfoglalkoztatási bérhez és az ahhoz kapcsolódó szociális hozzájárulási adóhoz megítélt támogatás 3 százalékát.
 
 (4)[^42] A támogatási időszak az egyes közfoglalkoztatási programok tekintetében – a (6) bekezdésben foglalt kivétellel – legfeljebb 12 hónap lehet.
 
@@ -44,8 +44,8 @@ c) a képzés, a szociális földprogram, továbbá a megváltozott munkaképess
 [^37]: A 6. § (1a) bekezdését a 382/2013. (XI. 4.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 472/2015. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^38]: A 6. § (1a) bekezdés d) pontját a 125/2016. (VI. 7.) Korm. rendelet 3. §-a iktatta be.
 [^39]: A 6. § (2) bekezdés b) pontját a 382/2013. (XI. 4.) Korm. rendelet 8. §-a hatályon kívül helyezte.
-[^40]: A 6. § (3) bekezdése a 125/2016. (VI. 7.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^41]: A 6. § (3a) bekezdését a 296/2014. (XI. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 167. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^40]: A 6. § (3) bekezdése a 125/2016. (VI. 7.) Korm. rendelet 4. §-ával megállapított, a 356/2017. (XI. 29.) Korm. rendelet 1. §-a szerint módosdított szöveg.
+[^41]: A 6. § (3a) bekezdését a 296/2014. (XI. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 167. § (2) bekezdés e) pontja, a 356/2017. (XI. 29.) Korm. rendelet 1. §-a szerint módosdított szöveg.
 [^42]: A 6. § (4) bekezdése a 296/2014. (XI. 28.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^43]: A 6. § (5) bekezdése a 296/2014. (XI. 28.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^44]: A 6. § (6) bekezdését a 296/2014. (XI. 28.) Korm. rendelet 4. § (3) bekezdése iktatta be.
