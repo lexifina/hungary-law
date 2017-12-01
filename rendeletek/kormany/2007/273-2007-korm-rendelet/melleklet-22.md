@@ -1,4 +1,4 @@
-22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^522]
+22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^524]
 
 Az erőművi főberendezések adatai
 
@@ -152,12 +152,4 @@ d) kipufogógáz hűtő,
 
 10.4. lapátok száma (db),
 
-10.5. lapátok hossza (m),
-
-10.6. lapátok anyaga,
-
-10.7. indító szélsebesség (m/s),
-
-10.8. névleges szélsebesség (m/s),
-
-[^522]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
+[^524]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.

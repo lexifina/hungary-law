@@ -60,6 +60,10 @@
 
 ## 4.7. Az egyetemes szolgáltató köteles a számla felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a felhasználónak vagy a fizetőnek a kézhezvételtől legalább 8 nap rendelkezésére álljon.
 
+## 4.8.[^423] Az egyetemes szolgáltató adott alkalommal legfeljebb három, egymást követő időközre vonatkozó részszámlát bocsáthat ki.
+
+## 4.9.[^424] Ha az egyetemes szolgáltató adott alkalommal több részszámlát bocsát ki, akkor az egyes részszámlák esedékessége között legalább 30 napnak kell lennie.
+
 ## 5. Kifogás a számla ellen
 
 ## 5.1. A felhasználó a számla ellen az egyetemes szolgáltatónál kifogást emelhet. A kifogás bejelentésének a számla kiegyenlítésére akkor van halasztó hatálya, ha a számlán feltüntetett mennyiség az előző év azonos időszakában elszámolt mennyiség 150%-át meghaladja.
@@ -96,10 +100,12 @@
 
 ## b) az egyetemes szolgáltató üzletszabályzatában vagy a villamosenergia-vásárlási szerződésben foglalt kötelezettségeit egyéb módon megszegi.
 
-2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^423]
+2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^425]
 
 [^419]: A Vhr. 1. számú melléklet 3.6. pontját a 275/2017. (IX. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
 [^420]: A Vhr. 1. számú melléklet 4.2. pontja a 123/2015. (V. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^421]: A Vhr. 1. számú melléklet 4.4. pont a) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^422]: A Vhr. 1. számú melléklet 4.4. pont b) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^423]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^423]: A Vhr. 1. számú melléklet 4.8. pontját a 123/2015. (V. 26.) Korm. rendelet 17. §-a hatályon kívül helyezte, újonnan a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
+[^424]: A Vhr. 1. számú melléklet 4.9. pontját a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
+[^425]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
