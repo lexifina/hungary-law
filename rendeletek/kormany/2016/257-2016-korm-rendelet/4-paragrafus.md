@@ -16,8 +16,11 @@ f) h) pontja szerinti szakrendszer esetében az igazságügyért felelős minisz
 
 ## ellenőrzi a szakrendszer működését és meghatározza a szakrendszer fejlesztésének irányait.
 
-(2) Az önkormányzati ASP rendszer szakrendszereiben tárolt adatokat helyi önkormányzatonként elkülönítve, az átjárhatóság kizárásával kell tárolni.
+(2)[^8] Az önkormányzati ASP rendszer szakrendszereiben tárolt adatokat helyi önkormányzatonként, a gazdálkodási szakrendszer esetén önkormányzat által alapított költségvetési szervenként elkülönítve, az átjárhatóság kizárásával kell tárolni.
 
-(3) Az önkormányzati ASP rendszert úgy kell kialakítani, hogy az egyes szakrendszerekben tárolt adatokhoz csak az adatgazda helyi önkormányzat férjen hozzá.
+(3)[^9] Az önkormányzati ASP rendszert úgy kell kialakítani, hogy az egyes szakrendszerekben tárolt adatokhoz csak az adatgazda helyi önkormányzat, gazdálkodási szakrendszer esetén az önkormányzat és az általa alapított költségvetési szerv férjen hozzá.
 
 (4) A szakrendszerekben tárolt adatok védelméről a Kincstár, a NISZ Zrt. és az IdomSoft Zrt. – az általuk ellátott feladatok körében – gondoskodik.
+
+[^8]: A 4. § (2) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^9]: A 4. § (3) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

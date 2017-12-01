@@ -30,6 +30,6 @@ h) hagyatéki leltár rendszer.
 
 (4) A támogató rendszerek az önkormányzati ASP rendszer napi adminisztratív, ügyfélszolgálati és működtetési feladatait segítő alkalmazások.
 
-(5)[^3] Az iratkezelő rendszer – a Kincstár által közzétett formátumban – fogadja a helyi önkormányzatnak az iratkezelő rendszerhez történő csatlakozását megelőző napon használt iratkezelő rendszerében tárolt teljes adatállományt.
+(5)[^7] Az iratkezelő rendszer – a Kincstár által közzétett formátumban – fogadja a helyi önkormányzatnak az iratkezelő rendszerhez történő csatlakozását megelőző napon használt iratkezelő rendszerében tárolt teljes adatállományt.
 
-[^3]: A 3. § (5) bekezdését a 100/2017. (IV. 28.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 3. § (5) bekezdését a 100/2017. (IV. 28.) Korm. rendelet 2. §-a iktatta be.
