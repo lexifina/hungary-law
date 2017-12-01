@@ -6,7 +6,7 @@
 
 2. harmadik országbeli állampolgárnak kulcsszemélyzetként történő munkavégzéséhez,
 
-3.[^26] a többségi külföldi tulajdonban lévő gazdasági társaság esetében, naptári negyedévenként, a megelőző naptári negyedév utolsó napján érvényes munkajogi állományi létszáma öt százalékát meg nem haladó létszámú harmadik országbeli állampolgár munkavégzéséhez,
+3.[^26] a többségi külföldi tulajdonban lévő gazdasági társaság esetében, naptári negyedévenként, a megelőző naptári negyedév utolsó napján érvényes munkajogi állományi létszáma tíz százalékát meg nem haladó létszámú harmadik országbeli állampolgár munkavégzéséhez,
 
 4. a külföldi állam diplomáciai vagy konzuli képviseletének személyzete közeli hozzátartozója magyarországi foglalkoztatásához, az államok között fennálló viszonosság hiányában,
 
@@ -46,7 +46,7 @@
 
 (6)[^30] Az (1) bekezdés 13. pontjában meghatározott esetben az engedély kiadásakor nem kell vizsgálni a 3. § (2) bekezdés c) pontjában írt feltétel fennállását, és a kérelemhez a képzettséget, végzettséget tanúsító okiratok másolatait nem kell csatolni. A kérelemhez csatolni kell a filmalkotás magyarországi gyártásának elvégzésére vagy a koprodukciós filmalkotás gyártására kötött magánjogi szerződést, valamint a filmalkotás Nemzeti Média és Hírközlési Hatóság Hivatalánál történő nyilvántartásba vételére irányuló kérelem benyújtásáról szóló igazolást.
 
-[^26]: A 9. § (1) bekezdés 3. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (2) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^26]: A 9. § (1) bekezdés 3. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (2) bekezdésével megállapított, a 345/2017. (XI. 16.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^27]: A 9. § (1) bekezdés 5. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^28]: A 9. § (1) bekezdés 15. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (4) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^29]: A 9. § (4) bekezdése a 193/2015. (VII. 21.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
