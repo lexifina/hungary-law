@@ -12,7 +12,7 @@
 
 | 3.2. rezisztens fajták | Duna gyöngye, Medina |
 
-3. melléklet az 56/2014. (IV. 30.) VM rendelethez
+3. melléklet az 56/2014. (IV. 30.) VM rendelethez[^4]
 
 Borkészítésre alkalmas szőlőfajták osztályba sorolásához szükséges
 
@@ -24,7 +24,7 @@ I. Kísérleti ültetvények létesítése
 
 1. Általános feltételek:
 
-A létesítendő fajtakísérleti ültetvénynek fajtánként (vizsgálatba vont fajta) legalább 0,2 ha-osnak kell lennie.
+A létesítendő fajtakísérleti ültetvénynek fajtánként (vizsgálatba vont fajta) legalább 0,2 hektárosnak kell lennie, vagy legalább 700 tőkét kell tartalmaznia.
 
 2. Telepítési rendszer:
 
@@ -155,3 +155,5 @@ o) antocianin tartalom,
 p) diglükozid tartalom.
 
 Érzékszervi bírálat: a Nemzetközi Szőlészeti és Borászati Szervezet szerinti 100 pontos rendszer szabályai alapján.
+
+[^4]: A 3. melléklet az 56/2017. (XI. 28.) FM rendelet 3. §-a szerint módosított szöveg.

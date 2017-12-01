@@ -2,317 +2,323 @@
 
 |  | A | B | C |
 
-| 1 | Magyarország |
+| 1. | Magyarország |
 
-| 2 | Fajtanév | Osztályozás | Egyéb felhasználás |
+| 2. | Fajtanév | Osztályozás | Egyéb felhasználás |
 
-| 3 |  | Engedélyezett | Ideiglenesen engedélyezett | Megjegyzés | Csemege szőlő | Földrajzi jelzéssel ellátott borpárlat | Aszalásra | Egyéb |
+| 3. |  | Engedélyezett | Ideiglenesen engedélyezett | Megjegyzés | Csemege szőlő | Földrajzi jelzéssel ellátott borpárlat | Aszalásra | Egyéb |
 
-| 4 | Fehérborszőlő-fajták |
+| 4. | Fehérborszőlő-fajták |
 
-| 5 | Aletta | e |  |  |  |  |  |  |
+| 5. | Aletta | e |  |  |  |  |  |  |
 
-| 6 | Aligoté |  | i |  |  |  |  |  |
+| 6. | Aligoté |  | i |  |  |  |  |  |
 
-| 7 | Arany sárfehér | e |  |  |  |  |  |  |
+| 7. | Arany sárfehér | e |  |  |  |  |  |  |
 
-| 8 | Bacchus | e |  |  |  |  |  |  |
+| 8. | Bacchus | e |  |  |  |  |  |  |
 
-| 9 | Bánáti rizling |  | i |  |  |  |  |  |
+| 9. | Bánáti rizling |  | i |  |  |  |  |  |
 
-| 10 | Bianca | e |  |  |  |  |  |  |
+| 10. | Bianca | e |  |  |  |  |  |  |
 
-| 11 | Blauer Silvaner | e |  |  |  |  |  |  |
+| 11. | Blauer Silvaner | e |  |  |  |  |  |  |
 
-| 12 | Bouvier |  | i |  |  |  |  |  |
+| 12. | Bouvier |  | i |  |  |  |  |  |
 
-| 13 | Budai | e |  |  |  |  |  |  |
+| 13. | Budai | e |  |  |  |  |  |  |
 
-| 14 | Chardonnay | e |  |  |  |  |  |  |
+| 14. | Chardonnay | e |  |  |  |  |  |  |
 
-| 15 | Chasselas | e |  |  |  |  |  |  |
+| 15. | Chasselas | e |  |  |  |  |  |  |
 
-| 16 | Chenin blanc | e |  |  |  |  |  |  |
+| 16. | Chenin blanc | e |  |  |  |  |  |  |
 
-| 17 | Cirfandli | e |  |  |  |  |  |  |
+| 17. | Cirfandli | e |  |  |  |  |  |  |
 
-| 18 | Csabagyöngye | e |  |  |  |  |  |  |
+| 18. | Csabagyöngye | e |  |  |  |  |  |  |
 
-| 19 | Cserszegi fűszeres | e |  |  |  |  |  |  |
+| 19. | Cserszegi fűszeres | e |  |  |  |  |  |  |
 
-| 20 | Csillám | e |  |  |  |  |  |  |
+| 20. | Csillám | e |  |  |  |  |  |  |
 
-| 21 | Csomorika | e |  |  |  |  |  |  |
+| 21. | Csomorika | e |  |  |  |  |  |  |
 
-| 22 | Demjén | e |  |  |  |  |  |  |
+| 22. | Demjén | e |  |  |  |  |  |  |
 
-| 23 | Ehrenfelser |  | i |  |  |  |  |  |
+| 23. | Ehrenfelser |  | i |  |  |  |  |  |
 
-| 24 | Ezerfürtű | e |  |  |  |  |  |  |
+| 24. | Ezerfürtű | e |  |  |  |  |  |  |
 
-| 25 | Ezerjó | e |  |  |  |  |  |  |
+| 25. | Ezerjó | e |  |  |  |  |  |  |
 
-| 26 | Fehér tramini | e |  |  |  |  |  |  |
+| 26. | Fehér tramini | e |  |  |  |  |  |  |
 
-| 27 | Furmint | e |  |  |  |  |  |  |
+| 27. | Furmint | e |  |  |  |  |  |  |
 
-| 28 | Generosa | e |  |  |  |  |  |  |
+| 28. | Generosa | e |  |  |  |  |  |  |
 
-| 29 | Gesztus | e |  |  |  |  |  |  |
+| 29. | Gesztus | e |  |  |  |  |  |  |
 
-| 30 | Gohér |  | i |  |  |  |  |  |
+| 30. | Gohér |  | i |  |  |  |  |  |
 
-| 31 | Goldburger |  | i |  |  |  |  |  |
+| 31. | Goldburger |  | i |  |  |  |  |  |
 
-| 32 | Göcseji zamatos | e |  |  |  |  |  |  |
+| 32. | Göcseji zamatos | e |  |  |  |  |  |  |
 
-| 33 | Gyöngyrizling |  | i |  |  |  |  |  |
+| 33. | Gyöngyrizling |  | i |  |  |  |  |  |
 
-| 34 | Hárslevelű | e |  |  |  |  |  |  |
+| 34. | Hárslevelű | e |  |  |  |  |  |  |
 
-| 35 | Irsai Olivér | e |  |  |  |  |  |  |
+| 35. | Irsai Olivér | e |  |  |  |  |  |  |
 
-| 36 | Jádorvány |  | i |  |  |  |  |  |
+| 36. | Jádorvány |  | i |  |  |  |  |  |
 
-| 37 | Jubileum 75 | e |  |  |  |  |  |  |
+| 37. | Jázmin | e |  |  |  |  |  |  |
 
-| 38 | Jubileumsrebe |  | i |  |  |  |  |  |
+| 38. | Jubileum 75 | e |  |  |  |  |  |  |
 
-| 39 | Juhfark | e |  |  |  |  |  |  |
+| 39. | Jubileumsrebe |  | i |  |  |  |  |  |
 
-| 40 | Heuréka |  | i |  |  |  |  |  |
+| 40. | Juhfark | e |  |  |  |  |  |  |
 
-| 41 | Kabar | e |  |  |  |  |  |  |
+| 41. | Heuréka |  | i |  |  |  |  |  |
 
-| 42 | Karát | e |  |  |  |  |  |  |
+| 42. | Kabar | e |  |  |  |  |  |  |
 
-| 43 | Kéknyelű | e |  |  |  |  |  |  |
+| 43. | Karát | e |  |  |  |  |  |  |
 
-| 44 | Kerner | e |  |  |  |  |  |  |
+| 44. | Kéknyelű | e |  |  |  |  |  |  |
 
-| 45 | Királyleányka | e |  |  |  |  |  |  |
+| 45. | Kerner | e |  |  |  |  |  |  |
 
-| 46 | Kocsis Irma |  | i |  |  |  |  |  |
+| 46. | Királyleányka | e |  |  |  |  |  |  |
 
-| 47 | Korai piros veltelíni | e |  |  |  |  |  |  |
+| 47. | Kocsis Irma |  | i |  |  |  |  |  |
 
-| 48 | Korona | e |  |  |  |  |  |  |
+| 48. | Korai piros veltelíni | e |  |  |  |  |  |  |
 
-| 49 | Kövérszőlő | e |  |  |  |  |  |  |
+| 49. | Korona | e |  |  |  |  |  |  |
 
-| 50 | Kövidinka | e |  |  |  |  |  |  |
+| 50. | Kövérszőlő | e |  |  |  |  |  |  |
 
-| 51 | Kunbarát |  | i |  |  |  |  |  |
+| 51. | Kövidinka | e |  |  |  |  |  |  |
 
-| 52 | Kunleány | e |  |  |  |  |  |  |
+| 52. | Kunbarát |  | i |  |  |  |  |  |
 
-| 53 | Lakhegyi mézes |  | i |  |  |  |  |  |
+| 53. | Kunleány | e |  |  |  |  |  |  |
 
-| 54 | Leányka | e |  |  |  |  |  |  |
+| 54. | Lakhegyi mézes |  | i |  |  |  |  |  |
 
-| 55 | Mátrai muskotály | e |  |  |  |  |  |  |
+| 55. | Leányka | e |  |  |  |  |  |  |
 
-| 56 | Melon |  | i |  |  |  |  |  |
+| 56. | Mátrai muskotály | e |  |  |  |  |  |  |
 
-| 57 | Mézes |  | i |  |  |  |  |  |
+| 57. | Melon |  | i |  |  |  |  |  |
 
-| 58 | Muscadelle |  | i |  |  |  |  |  |
+| 58. | Mézes |  | i |  |  |  |  |  |
 
-| 59 | Nektár | e |  |  |  |  |  |  |
+| 59. | Muscadelle |  | i |  |  |  |  |  |
 
-| 60 | Nosztori rizling |  | i |  |  |  |  |  |
+| 60. | Nektár | e |  |  |  |  |  |  |
 
-| 61 | Odysseus | e |  |  |  |  |  |  |
+| 61. | Nosztori rizling |  | i |  |  |  |  |  |
 
-| 62 | Olasz rizling | e |  |  |  |  |  |  |
+| 62. | Odysseus | e |  |  |  |  |  |  |
 
-| 63 | Oraniensteiner |  | i |  |  |  |  |  |
+| 63. | Olasz rizling | e |  |  |  |  |  |  |
 
-| 64 | Orpheus | e |  |  |  |  |  |  |
+| 64. | Oraniensteiner |  | i |  |  |  |  |  |
 
-| 65 | Ottonel muskotály | e |  |  |  |  |  |  |
+| 65. | Orpheus | e |  |  |  |  |  |  |
 
-| 66 | Palatina | e |  |  |  |  |  |  |
+| 66. | Ottonel muskotály | e |  |  |  |  |  |  |
 
-| 67 | Pátria | e |  |  |  |  |  |  |
+| 67. | Palatina | e |  |  |  |  |  |  |
 
-| 68 | Pelso | e |  |  |  |  |  |  |
+| 68. | Pátria | e |  |  |  |  |  |  |
 
-| 69 | Perlette |  | i |  |  |  |  |  |
+| 69. | Pelso | e |  |  |  |  |  |  |
 
-| 70 | Pinot blanc | e |  |  |  |  |  |  |
+| 70. | Perlette |  | i |  |  |  |  |  |
 
-| 71 | Pintes | e |  |  |  |  |  |  |
+| 71. | Pinot blanc | e |  |  |  |  |  |  |
 
-| 72 | Piros bakator | e |  |  |  |  |  |  |
+| 72. | Pintes | e |  |  |  |  |  |  |
 
-| 73 | Piros szlanka |  | i |  |  |  |  |  |
+| 73. | Piros bakator | e |  |  |  |  |  |  |
 
-| 74 | Piros tramini | e |  |  |  |  |  |  |
+| 74. | Piros szlanka |  | i |  |  |  |  |  |
 
-| 75 | Piros veltelíni | e |  |  |  |  |  |  |
+| 75. | Piros tramini | e |  |  |  |  |  |  |
 
-| 76 | Pozsonyi fehér | e |  |  |  |  |  |  |
+| 76. | Piros veltelíni | e |  |  |  |  |  |  |
 
-| 77 | Pölöskei muskotály | e |  |  |  |  |  |  |
+| 77. | Pozsonyi fehér | e |  |  |  |  |  |  |
 
-| 78 | Rajnai rizling | e |  |  |  |  |  |  |
+| 78. | Pölöskei muskotály | e |  |  |  |  |  |  |
 
-| 79 | Refrén | e |  |  |  |  |  |  |
+| 79. | Rajnai rizling | e |  |  |  |  |  |  |
 
-| 80 | Rizlingszilváni | e |  |  |  |  |  |  |
+| 80. | Refrén | e |  |  |  |  |  |  |
 
-| 81 | Rozália | e |  |  |  |  |  |  |
+| 81. | Rizlingszilváni | e |  |  |  |  |  |  |
 
-| 82 | Rózsakő | e |  |  |  |  |  |  |
+| 82. | Rozália | e |  |  |  |  |  |  |
 
-| 83 | Sárfehér | e |  |  |  |  |  |  |
+| 83. | Rózsakő | e |  |  |  |  |  |  |
 
-| 84 | Sárga muskotály | e |  |  |  |  |  |  |
+| 84. | Sárfehér | e |  |  |  |  |  |  |
 
-| 85 | Sauvignon | e |  |  |  |  |  |  |
+| 85. | Sárga muskotály | e |  |  |  |  |  |  |
 
-| 86 | Scheurebe |  | i |  |  |  |  |  |
+| 86. | Sauvignon | e |  |  |  |  |  |  |
 
-| 87 | Semillon | e |  |  |  |  |  |  |
+| 87. | Scheurebe |  | i |  |  |  |  |  |
 
-| 88 | Szerémi zöld |  | i |  |  |  |  |  |
+| 88. | Semillon | e |  |  |  |  |  |  |
 
-| 89 | Szirén | e |  |  |  |  |  |  |
+| 89. | Solaris | e |  |  |  |  |  |  |
 
-| 90 | Szürkebarát | e |  |  |  |  |  |  |
+| 90. | Szerémi zöld |  | i |  |  |  |  |  |
 
-| 91 | Táltos |  | i |  |  |  |  |  |
+| 91. | Szirén | e |  |  |  |  |  |  |
 
-| 92 | Taurus | e |  |  |  |  |  |  |
+| 92. | Szürkebarát | e |  |  |  |  |  |  |
 
-| 93 | Tramini | e |  |  |  |  |  |  |
+| 93. | Táltos |  | i |  |  |  |  |  |
 
-| 94 | Trilla | e |  |  |  |  |  |  |
+| 94. | Taurus | e |  |  |  |  |  |  |
 
-| 95 | Úrréti |  | i |  |  |  |  |  |
+| 95. | Tramini | e |  |  |  |  |  |  |
 
-| 96 | Vértes csillaga |  | i |  |  |  |  |  |
+| 96. | Trilla | e |  |  |  |  |  |  |
 
-| 97 | Viktor | e |  |  |  |  |  |  |
+| 97. | Úrréti |  | i |  |  |  |  |  |
 
-| 98 | Viktória gyöngye | e |  |  |  |  |  |  |
+| 98. | Vértes csillaga |  | i |  |  |  |  |  |
 
-| 99 | Villard blanc | e |  |  |  |  |  |  |
+| 99. | Viktor | e |  |  |  |  |  |  |
 
-| 100 | Viognier | e |  |  |  |  |  |  |
+| 100. | Viktória gyöngye | e |  |  |  |  |  |  |
 
-| 101 | Vulcanus | e |  |  |  |  |  |  |
+| 101. | Villard blanc | e |  |  |  |  |  |  |
 
-| 102 | Zalagyöngye | e |  |  |  |  |  |  |
+| 102. | Viognier | e |  |  |  |  |  |  |
 
-| 103 | Zefír | e |  |  |  |  |  |  |
+| 103. | Vulcanus | e |  |  |  |  |  |  |
 
-| 104 | Zengő | e |  |  |  |  |  |  |
+| 104. | Zalagyöngye | e |  |  |  |  |  |  |
 
-| 105 | Zenit | e |  |  |  |  |  |  |
+| 105. | Zefír | e |  |  |  |  |  |  |
 
-| 106 | Zervin | e |  |  |  |  |  |  |
+| 106. | Zengő | e |  |  |  |  |  |  |
 
-| 107 | Zéta | e |  |  |  |  |  |  |
+| 107. | Zenit | e |  |  |  |  |  |  |
 
-| 108 | Zeus | e |  |  |  |  |  |  |
+| 108. | Zervin | e |  |  |  |  |  |  |
 
-| 109 | Zöld szagos | e |  |  |  |  |  |  |
+| 109. | Zéta | e |  |  |  |  |  |  |
 
-| 110 | Zöld szilváni | e |  |  |  |  |  |  |
+| 110. | Zeus | e |  |  |  |  |  |  |
 
-| 111 | Zöld veltelíni | e |  |  |  |  |  |  |
+| 111. | Zöld szagos | e |  |  |  |  |  |  |
 
-| 112 | Vörösborszőlő-fajták |  |  |  |  |  |  |  |
+| 112. | Zöld szilváni | e |  |  |  |  |  |  |
 
-| 113 | Alibernet | e |  |  |  |  |  |  |
+| 113. | Zöld veltelíni | e |  |  |  |  |  |  |
 
-| 114 | Alicante boushet | e |  |  |  |  |  |  |
+| 114. | Vörösborszőlő-fajták |
 
-| 115 | Bíborfrankos | e |  |  |  |  |  |  |
+| 115. | Alibernet | e |  |  |  |  |  |  |
 
-| 116 | Bíbor kadarka | e |  |  |  |  |  |  |
+| 116. | Alicante boushet | e |  |  |  |  |  |  |
 
-| 117 | Blauburger | e |  |  |  |  |  |  |
+| 117. | Bíborfrankos | e |  |  |  |  |  |  |
 
-| 118 | Blauer Frühburgunder | e |  |  |  |  |  |  |
+| 118. | Bíbor kadarka | e |  |  |  |  |  |  |
 
-| 119 | Cabernet dorsa | e |  |  |  |  |  |  |
+| 119. | Blauburger | e |  |  |  |  |  |  |
 
-| 120 | Cabernet franc | e |  |  |  |  |  |  |
+| 120. | Blauer Frühburgunder | e |  |  |  |  |  |  |
 
-| 121 | Cabernet sauvignon | e |  |  |  |  |  |  |
+| 121. | Cabernet dorsa | e |  |  |  |  |  |  |
 
-| 122 | Cot | e |  |  |  |  |  |  |
+| 122. | Cabernet franc | e |  |  |  |  |  |  |
 
-| 123 | Csókaszőlő | e |  |  |  |  |  |  |
+| 123. | Cabernet sauvignon | e |  |  |  |  |  |  |
 
-| 124 | Domina | e |  |  |  |  |  |  |
+| 124. | Cot | e |  |  |  |  |  |  |
 
-| 125 | Dornfelder | e |  |  |  |  |  |  |
+| 125. | Csókaszőlő | e |  |  |  |  |  |  |
 
-| 126 | Duna gyöngye | e |  |  |  |  |  |  |
+| 126. | Domina | e |  |  |  |  |  |  |
 
-| 127 | Gamay noir |  | i |  |  |  |  |  |
+| 127. | Dornfelder | e |  |  |  |  |  |  |
 
-| 128 | Fekete leányka |  | i |  |  |  |  |  |
+| 128. | Duna gyöngye | e |  |  |  |  |  |  |
 
-| 129 | Hamburgi muskotály | e |  |  |  |  |  |  |
+| 129. | Gamay noir |  | i |  |  |  |  |  |
 
-| 130 | Kadarka | e |  |  |  |  |  |  |
+| 130. | Fekete leányka |  | i |  |  |  |  |  |
 
-| 131 | Kármin | e |  |  |  |  |  |  |
+| 131. | Hamburgi muskotály | e |  |  |  |  |  |  |
 
-| 132 | Kékfrankos | e |  |  |  |  |  |  |
+| 132. | Kadarka | e |  |  |  |  |  |  |
 
-| 133 | Kék bakator |  | i |  |  |  |  |  |
+| 133. | Kármin | e |  |  |  |  |  |  |
 
-| 134 | Kékoportó | e |  |  |  |  |  |  |
+| 134. | Kékfrankos | e |  |  |  |  |  |  |
 
-| 135 | Kurucvér |  | i |  |  |  |  |  |
+| 135. | Kék bakator |  | i |  |  |  |  |  |
 
-| 136 | Magyar frankos |  | i |  |  |  |  |  |
+| 136. | Kékoportó | e |  |  |  |  |  |  |
 
-| 137 | Medina | e |  |  |  |  |  |  |
+| 137. | Kurucvér |  | i |  |  |  |  |  |
 
-| 138 | Menoire | e |  |  |  |  |  |  |
+| 138. | Magyar frankos |  | i |  |  |  |  |  |
 
-| 139 | Merlot | e |  |  |  |  |  |  |
+| 139. | Medina | e |  |  |  |  |  |  |
 
-| 140 | Mészikadar | e |  |  |  |  |  |  |
+| 140. | Menoire | e |  |  |  |  |  |  |
 
-| 141 | Nero | e |  |  |  |  |  |  |
+| 141. | Merlot | e |  |  |  |  |  |  |
 
-| 142 | Pannon frankos | e |  |  |  |  |  |  |
+| 142. | Mészikadar | e |  |  |  |  |  |  |
 
-| 143 | Pinot noir | e |  |  |  |  |  |  |
+| 143. | Nero | e |  |  |  |  |  |  |
 
-| 144 | Prokupac |  | i |  |  |  |  |  |
+| 144. | Pannon frankos | e |  |  |  |  |  |  |
 
-| 145 | Rubintos | e |  |  |  |  |  |  |
+| 145. | Pinot noir | e |  |  |  |  |  |  |
 
-| 146 | Sagrantino | e |  |  |  |  |  |  |
+| 146. | Prokupac |  | i |  |  |  |  |  |
 
-| 147 | Sangiovese | e |  |  |  |  |  |  |
+| 147. | Rubintos | e |  |  |  |  |  |  |
 
-| 148 | Syrah | e |  |  |  |  |  |  |
+| 148. | Sagrantino | e |  |  |  |  |  |  |
 
-| 149 | Szentlőrinc |  | i |  |  |  |  |  |
+| 149. | Sangiovese | e |  |  |  |  |  |  |
 
-| 150 | Tannat | e |  |  |  |  |  |  |
+| 150. | Syrah | e |  |  |  |  |  |  |
 
-| 151 | Titán |  | i |  |  |  |  |  |
+| 151. | Szentlőrinc |  | i |  |  |  |  |  |
 
-| 152 | Tizián |  | i |  |  |  |  |  |
+| 152. | Tannat | e |  |  |  |  |  |  |
 
-| 153 | Turán | e |  |  |  |  |  |  |
+| 153. | Titán |  | i |  |  |  |  |  |
 
-| 154 | Vranac |  | i |  |  |  |  |  |
+| 154. | Tizián |  | i |  |  |  |  |  |
 
-| 155 | Zweigelt | e |  |  |  |  |  |  |
+| 155. | Turán | e |  |  |  |  |  |  |
 
-## 2. Az egyes fajták szinonim elnevezései
+| 156. | Virághegyi | e |  |  |  |  |  |  |
+
+| 157. | Vranac |  | i |  |  |  |  |  |
+
+| 158. | Zweigelt | e |  |  |  |  |  |  |
+
+## 2. Az egyes fajták szinonim elnevezései*
 
 ## 2.1. Fehérborszőlő-fajták
 
@@ -376,9 +382,9 @@
 
 | 29. | Rizlingszilváni | Müller Thurgau, Rizvanac, Müller Thurgau blanc, Müller Thurgau bijeli, Rivaner |
 
-| 30. | Sárga muskotály | Muscat Lunel, Muscat de Lunel, Muscat blanc, Muscat de Frontignan, Muscat bélüj, Muskat weisser, Muscat zlty, Moscato bianco,Weiler, Muscat Sylvaner, Weisser |
+| 30. | Sárga muskotály | Muscat Lunel, Muscat de Lunel, Muscat blanc, Muscat de Frontignan, Muscat bélüj, Muskat weisser, Muscat zlty, Moscato bianco, Weiler, Muscat Sylvaner, Weisser |
 
-| 31. | Sauvignon | Sauvignon, Sauvignon bianco, Sovinjon, Sauvignon bijeli, Sauvignon Blanc |
+| 31. | Sauvignon | Sauvignon bianco, Sovinjon, Sauvignon bijeli, Sauvignon Blanc |
 
 | 32. | Semillon | Semillon weisser, Semillon blanc, Semillon bianco, Petit Semillon |
 
@@ -394,7 +400,7 @@
 
 ## 2.2. Vörösborszőlő-fajták
 
-|  | A. | B. |
+|  | A | B |
 
 | 1. | Vörösborszőlő-fajták |
 
@@ -416,6 +422,10 @@
 
 | 10. | Szentlőrinc | Saint Laurent |
 
-| 11. | Zweigelt | Rotburger, Zweigeltrebe, Blauer Zweigeltrebe |
+| 11. | Virághegyi | Virághegyi kadar, Jakab kadar |
+
+| 12. | Zweigelt | Rotburger, Zweigeltrebe, Blauer Zweigeltrebe |
+
+## * Megjegyzés: Az osztályba sorolt szőlőfajták elnevezéseinek és szinonim elnevezéseinek jelölése a vonatkozó jogszabályok alapján lehetséges.
 
 2. melléklet az 56/2014. (IV. 30.) VM rendelethez
