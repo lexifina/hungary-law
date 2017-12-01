@@ -14,7 +14,7 @@
 
 | 5. | Minden eljárásban a nyomvonalas létesítmény engedélyezése kivételével. | Az építménnyel, létesítménnyel összefüggő tűzvédelmi követelmények érvényre juttatása. | első fokon eljáró tűzvédelmi szakhatóság | másodfokon eljáró tűzvédelmi szakhatóság |
 
-| 6. | Minden eljárásban, ha az eljárás honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett építmény vagy tevékenység engedélyezésére irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | honvédelemért felelős miniszter |  |
+| 6. | Minden eljárásban, ha az eljárás honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett építmény vagy annak biztonsági övezete érinti a védőterületet. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | honvédelemért felelős miniszter |  |
 
 ## 2. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokban érintettségüktől függően közreműködő közművek, kezelők és üzemeltetők
 
@@ -52,7 +52,7 @@
 
 |  | Szakkérdés vizsgálatának feltétele | Szakkérdés | Másodfokú eljárásban szakértőként kirendelhető szerv |
 
-| 1. | a) Termőföldön megvalósuló építmény vagy tevékenység esetében, az elvi építési és a bontási, valamint az előmunkálati jog és az üzemeltetési engedélyezési eljárás kivételével. | A termőföld minőségi védelme. |  |
+| 1. | a) Termőföldön megvalósuló építmény vagy tevékenység esetében, az elvi építési és a bontási, valamint az előmunkálati jog, az üzemeltetési engedélyezési eljárás kivételével, továbbá az olyan szabadvezeték-engedélyezési eljárás kivételével, ahol a létesítendő hálózat oszlopain kívül csak a biztonsági övezete érinti a termőföldet. | A termőföld minőségi védelme. |  |
 
 | b) Erdőben megvalósuló vagy a megvalósítás során erdőre, az erdő talajára, vízháztartására vagy mikroklímájára hatást gyakorló módon megvalósuló létesítmény esetében, elvi építési, használatbavételi és bontási engedélyezési eljárás kivételével. | Az erdőre gyakorolt hatások vizsgálata. |  |
 
