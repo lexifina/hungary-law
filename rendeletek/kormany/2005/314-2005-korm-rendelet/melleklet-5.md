@@ -1,10 +1,10 @@
-## Az előzetes vizsgálati dokumentáció és a konzultációs kérelem tartalma[^253]
+## Az előzetes vizsgálati dokumentáció és a konzultációs kérelem tartalma[^255]
 
-## 1.[^254] Az 1. vagy a 3. számú mellékletbe tartozó tevékenységek esetén
+## 1.[^256] Az 1. vagy a 3. számú mellékletbe tartozó tevékenységek esetén
 
-## a)[^255] a tervezett tevékenység célja, a vizekbe történő beavatkozással járó tevékenység esetében a közérdek bemutatásával együtt;
+## a)[^257] a tervezett tevékenység célja, a vizekbe történő beavatkozással járó tevékenység esetében a közérdek bemutatásával együtt;
 
-## b)[^256] a tervezett tevékenység, továbbá ha vannak más ésszerű telepítési, technológiai vagy egyéb változatai (a továbbiakban együtt: számításba vett változatok), akkor azok alapadatai:
+## b)[^258] a tervezett tevékenység, továbbá ha vannak más ésszerű telepítési, technológiai vagy egyéb változatai (a továbbiakban együtt: számításba vett változatok), akkor azok alapadatai:
 
 ## ba) a tevékenység volumene,
 
@@ -26,13 +26,13 @@
 
 ## 2. a telepítéshez és a megvalósításhoz szükséges szállítás, raktározás, tárolás, vízrendezés,
 
-## 3.[^257] a megvalósítás során keletkező hulladékokkal történő gazdálkodás, és szennyvízkezelés,
+## 3.[^259] a megvalósítás során keletkező hulladékokkal történő gazdálkodás, és szennyvízkezelés,
 
 ## 4. az energia- és vízellátás, ha az saját energiaellátó-rendszerrel vagy vízkivétellel történik,
 
 ## 5. egyéb – a bd)–bg) pontokban nem szereplő – kapcsolódó művelet,
 
-## 6.[^258] a telepítést megelőző bontási munkálatok ismertetése, az azok során keletkező hulladékok és a kezelésükre tervezett intézkedések, továbbá az előbbieknek az egyes környezeti elemekre gyakorolt hatásának bemutatása;
+## 6.[^260] a telepítést megelőző bontási munkálatok ismertetése, az azok során keletkező hulladékok és a kezelésükre tervezett intézkedések, továbbá az előbbieknek az egyes környezeti elemekre gyakorolt hatásának bemutatása;
 
 ## bi) Magyarországon új, külföldön már alkalmazott technológia bevezetése esetében külföldi referencia,
 
@@ -42,9 +42,9 @@
 
 ## bl) a tevékenység megvalósítása szükségessé teszi-e területrendezési tervek vagy a településrendezési eszközök módosítását;
 
-## bm)[^259] nyilatkozat arról, hogy a tevékenység megkezdését követően sor kerül-e összetartozó tevékenységnek minősülő új tevékenység megvalósítására, és a tevékenység a telepítési helyen vagy a szomszédos ingatlanon folytatott vagy tervezett azonos jellegű más tevékenységgel összeadódva eléri-e a tevékenységre az 1. vagy a 3. számú melléklet szerinti meghatározott küszöbértéket;
+## bm)[^261] nyilatkozat arról, hogy a tevékenység megkezdését követően sor kerül-e összetartozó tevékenységnek minősülő új tevékenység megvalósítására, és a tevékenység a telepítési helyen vagy a szomszédos ingatlanon folytatott vagy tervezett azonos jellegű más tevékenységgel összeadódva eléri-e a tevékenységre az 1. vagy a 3. számú melléklet szerinti meghatározott küszöbértéket;
 
-## bn)[^260] a vizekbe történő beavatkozással járó tevékenység társadalmi-gazdasági előnyeinek bemutatása, költség-haszon elemzés alapján;
+## bn)[^262] a vizekbe történő beavatkozással járó tevékenység társadalmi-gazdasági előnyeinek bemutatása, költség-haszon elemzés alapján;
 
 ## c) a számításba vett változatok összefüggése olyan korábbi, különösen terület- vagy településfejlesztési, illetve rendezési tervekkel, infrastruktúra-fejlesztési döntésekkel és természeti erőforrás felhasználási vagy védelmi koncepciókkal, amelyek befolyásolták a telepítési hely és a megvalósítási mód kiválasztását;
 
@@ -52,7 +52,7 @@
 
 ## e) a b) pontban számításba vett változatok környezetterhelése és környezet-igénybevétele (a továbbiakban együtt: hatótényezők) várható mértékének előzetes becslése a tevékenység szakaszaiként [6. § (2) bekezdés] elkülönítve, az esetlegesen környezetterhelést okozó balesetek vagy meghibásodások előfordulási lehetőségeire figyelemmel;
 
-## f)[^261] a tevékenység telepítése, működése, felhagyása során az egyes környezeti elemekre várhatóan gyakorolt hatások előzetes becslése, figyelembe véve a c) pontban leírt befolyásoló tényezőket is, különösen
+## f)[^263] a tevékenység telepítése, működése, felhagyása során az egyes környezeti elemekre várhatóan gyakorolt hatások előzetes becslése, figyelembe véve a c) pontban leírt befolyásoló tényezőket is, különösen
 
 ## fa) a hatótényezők milyen jellegű hatásfolyamatokat indíthatnak el, új telepítésnél annak becslése is, hogy a terület állapota és funkciói miként változhatnak meg a telepítés következtében, beleértve az éghajlatváltozást,
 
@@ -66,9 +66,9 @@
 
 ## ff) a felszíni és felszín alatti víztesteket, valamint a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet szerinti, az ivóvízkivételre kijelölt és megkülönböztetett védelem alatt álló területeket érintő hatások a vízgyűjtő-gazdálkodási tervben foglaltak figyelembevételével;
 
-## g)[^262] az f) pont ff) alpontja alapján azonosított – a vizek állapotromlását okozó – kedvezőtlen környezeti hatások csökkentése érdekében javasolt intézkedések;
+## g)[^264] az f) pont ff) alpontja alapján azonosított – a vizek állapotromlását okozó – kedvezőtlen környezeti hatások csökkentése érdekében javasolt intézkedések;
 
-## h)[^263] az éghajlatváltozással összefüggésben
+## h)[^265] az éghajlatváltozással összefüggésben
 
 ## ha) a b) pontban számításba vett változatoknak az éghajlatváltozással szembeni érzékenységére vonatkozó elemzése (a továbbiakban: érzékenységelemzés),
 
@@ -84,9 +84,9 @@
 
 ## hg) az 1. számú mellékletbe tartozó tevékenységek esetén számszerűen be kell mutatni az egyes üvegházhatású gázok várható éves kibocsátását tonnában kifejezve;
 
-## i)[^264] a megalapozó információk bemutatása.
+## i)[^266] a megalapozó információk bemutatása.
 
-## 2.[^265] A csak a 2. számú mellékletbe tartozó tevékenységek esetén
+## 2.[^267] A csak a 2. számú mellékletbe tartozó tevékenységek esetén
 
 ## a) a létesítmény, tevékenység telepítési helyének jellemzői,
 
@@ -106,19 +106,19 @@
 
 ## i) a nyilvánosság tájékoztatása érdekében esetlegesen megtett intézkedések bemutatása és a vélemények összefoglalása,
 
-## j)[^266] ha a létesítmény a Natura 2000 területre hatással lehet, a hatások előzetes becslése a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások figyelembevételével.
+## j)[^268] ha a létesítmény a Natura 2000 területre hatással lehet, a hatások előzetes becslése a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások figyelembevételével.
 
-## 3.[^267] Az 1–3. számú mellékletbe tartozó tevékenységek dokumentációjának egyéb (közös) követelményei
+## 3.[^269] Az 1–3. számú mellékletbe tartozó tevékenységek dokumentációjának egyéb (közös) követelményei
 
 ## a) az engedélykérő azonosító adatai;
 
-## b)[^268] minősített adatot, vagy a környezethasználó szerint üzleti titkot képező adatot, így megjelölve, elkülönítve kell ismertetni a dokumentációban és a nyilvánosságra hozandó részben ezeket az adatokat olyan információkkal kell helyettesíteni, amelyek a tevékenység megítélést lehetővé teszik;
+## b)[^270] minősített adatot, vagy a környezethasználó szerint üzleti titkot képező adatot, így megjelölve, elkülönítve kell ismertetni a dokumentációban és a nyilvánosságra hozandó részben ezeket az adatokat olyan információkkal kell helyettesíteni, amelyek a tevékenység megítélést lehetővé teszik;
 
 ## c) ha a tevékenység során alkalmazandó technológia, felhasználandó anyagok és előállítandó termék környezetvédelmi minősítése korábban már megtörtént, a vonatkozó minősítési okiratot (okiratokat) csatolni kell;
 
 ## d) országhatáron átterjedő környezeti hatás bekövetkezésének lehetősége;
 
-## e)[^269] ha az előzetes vizsgálatra erdő igénybevételével járó beruházáshoz vagy tevékenységhez kapcsolódóan kerül sor, és korábban az erdészeti hatóság igénybevételi vagy elvi igénybevételi eljárása nem került lefolytatásra, az előzetes vizsgálatra vonatkozó kérelemhez csatolni kell
+## e)[^271] ha az előzetes vizsgálatra erdő igénybevételével járó beruházáshoz vagy tevékenységhez kapcsolódóan kerül sor, és korábban az erdészeti hatóság igénybevételi vagy elvi igénybevételi eljárása nem került lefolytatásra, az előzetes vizsgálatra vonatkozó kérelemhez csatolni kell
 
 ## ea) a tervezett igénybevétellel érintett erdő ingatlan-nyilvántartás (helység, fekvés, helyrajzi szám, alrészletjel) és erdészeti hatósági nyilvántartás szerinti (helység, tagszám, részlet jel) területazonosító adatait,
 
@@ -132,20 +132,20 @@
 
 5. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
 
-[^253]: A 4. számú melléklet címe a 228/2010. (VIII. 13.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
-[^254]: A 4. számú melléklet 1. pont nyitó szövegrésze a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^255]: A 4. számú melléklet 1. pont a) alpontja a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^256]: A 4. számú melléklet 1. pont b) alpontja a 110/2010. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^257]: A 4. számú melléklet 1. b) pont bh) alpont 3. pontja a 441/2012. (XII. 29.) Korm. rendelet 10. § (6) bekezdésével megállapított szöveg.
-[^258]: A 4. számú melléklet 1. pont b) alpont bh) pont 6. alpontját a 139/2017. (VI. 9.) Korm. rendelet 10. § a) pontja iktatta be.
-[^259]: A 4. számú melléklet 1. pont b. pont bm) alpontját a 82/2011. (V. 18.) Korm. rendelet 22. §-a iktatta be.
-[^260]: A 4. számú melléklet 1. pont b) pont bn) alpontját a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^261]: A 4. számú melléklet 1. pont f) alpontja a 139/2017. (VI. 9.) Korm. rendelet 10. § a) pontjával megállapított szöveg.
-[^262]: A 4. számú melléklet 1. pont g) alpontját a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 139/2017. (VI. 9.) Korm. rendelet 10. § a) pontjával megállapított szöveg.
-[^263]: A 4. számú melléklet 1. pont h) alpontját a 139/2017. (VI. 9.) Korm. rendelet 10. § a) pontja iktatta be.
-[^264]: A 4. számú melléklet 1. pont i) alpontját a 139/2017. (VI. 9.) Korm. rendelet 10. § a) pontja iktatta be.
-[^265]: A 4. számú melléklet 2. pont nyitó szövegrésze a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^266]: A 4. számú melléklet 2. pont j) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (4) bekezdése iktatta be.
-[^267]: A 4. számú melléklet 3. pont nyitó szövegrésze a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^268]: A 4. melléklet 3. pont b) alpontja a 90/2010. (III. 26.) Korm. rendelet 68. §-ával megállapított szöveg.
-[^269]: A 4. számú melléklet 3. pont e) alpontja a 151/2009. (VII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte, újonnan a 221/2014. (IX. 4.) Korm. rendelet 310. § a) pontja iktatta be.
+[^255]: A 4. számú melléklet címe a 228/2010. (VIII. 13.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^256]: A 4. számú melléklet 1. pont nyitó szövegrésze a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^257]: A 4. számú melléklet 1. pont a) alpontja a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^258]: A 4. számú melléklet 1. pont b) alpontja a 110/2010. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^259]: A 4. számú melléklet 1. b) pont bh) alpont 3. pontja a 441/2012. (XII. 29.) Korm. rendelet 10. § (6) bekezdésével megállapított szöveg.
+[^260]: A 4. számú melléklet 1. pont b) alpont bh) pont 6. alpontját a 139/2017. (VI. 9.) Korm. rendelet 10. § a) pontja iktatta be.
+[^261]: A 4. számú melléklet 1. pont b. pont bm) alpontját a 82/2011. (V. 18.) Korm. rendelet 22. §-a iktatta be.
+[^262]: A 4. számú melléklet 1. pont b) pont bn) alpontját a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^263]: A 4. számú melléklet 1. pont f) alpontja a 139/2017. (VI. 9.) Korm. rendelet 10. § a) pontjával megállapított szöveg.
+[^264]: A 4. számú melléklet 1. pont g) alpontját a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 139/2017. (VI. 9.) Korm. rendelet 10. § a) pontjával megállapított szöveg.
+[^265]: A 4. számú melléklet 1. pont h) alpontját a 139/2017. (VI. 9.) Korm. rendelet 10. § a) pontja iktatta be.
+[^266]: A 4. számú melléklet 1. pont i) alpontját a 139/2017. (VI. 9.) Korm. rendelet 10. § a) pontja iktatta be.
+[^267]: A 4. számú melléklet 2. pont nyitó szövegrésze a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^268]: A 4. számú melléklet 2. pont j) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (4) bekezdése iktatta be.
+[^269]: A 4. számú melléklet 3. pont nyitó szövegrésze a 100/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^270]: A 4. melléklet 3. pont b) alpontja a 90/2010. (III. 26.) Korm. rendelet 68. §-ával megállapított szöveg.
+[^271]: A 4. számú melléklet 3. pont e) alpontja a 151/2009. (VII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte, újonnan a 221/2014. (IX. 4.) Korm. rendelet 310. § a) pontja iktatta be.

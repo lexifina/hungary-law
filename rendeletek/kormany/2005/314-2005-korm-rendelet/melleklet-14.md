@@ -88,6 +88,6 @@
 
 ## Amennyiben az adatlap bármely pontjára vonatkozóan az eljárásban egyébként benyújtott dokumentáció részletesebb információt tartalmaz, kérjük az adott pontban jelezni.
 
-14. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^325]
+14. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^327]
 
-[^325]: A 14. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 24. §-a iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 74. § (6) bekezdés b) pontja.
+[^327]: A 14. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 24. §-a iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 74. § (6) bekezdés b) pontja.
