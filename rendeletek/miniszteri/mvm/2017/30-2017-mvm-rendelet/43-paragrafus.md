@@ -1,0 +1,3 @@
+## 42. § A családalapítási támogatás iránti kérelmet a szolgálati út betartásával a Szociális Bizottsághoz kell benyújtani, amely a beérkezett igényeket nyilvántartásba veszi. A Szociális Bizottság a szociális támogatások előirányzaton rendelkezésre álló összeg és a beérkezett kérelmek számának, összetételének figyelembevételével állítja össze a családalapítási támogatás visszafizetésének ütemezését is tartalmazó javaslatát, amelyet az ülést követő öt napon belül döntés céljából felterjeszt a főigazgatónak.
+
+## 12. Önkéntes kölcsönös biztosítási pénztári munkáltatói hozzájárulás, célzott szolgáltatás nyújtása

@@ -1,0 +1,1 @@
+## 8. § Betegség vagy sérülés esetén a távolléti díj a Hszt. 147. § (8) bekezdése alapján történő folyósításának csökkentését, a távolléti díj csökkentésének mértékét vagy megvonását az állományilletékes parancsnok az alapellátó orvos véleményét, illetve javaslatát figyelembe véve rendeli el.
