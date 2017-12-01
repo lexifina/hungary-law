@@ -1,1 +1,0 @@
-11. § Hatályát veszti a Vgtv. 15/C. § (2) bekezdésében a „továbbá az (1) bekezdés c) pontjában foglalt azon esetben, ha az engedélyes a vízügyi hatósági jogkörben kiadott vízjogi engedéllyel rendelkezik,” szövegrész.
