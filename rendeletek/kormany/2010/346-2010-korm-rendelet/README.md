@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-346-20-
 | 2017-04-01 | 2010-346-20-22.21 | 188/2016. (VII. 13.) Korm. rendelet |
 | 2017-04-11 | 2010-346-20-22.22 | 85/2017. (IV. 10.) Korm. rendelet |
 | 2017-08-15 | 2010-346-20-22.23 | 229/2017. (VIII. 14.) Korm. rendelet |
+| 2017-12-01 | 2010-346-20-22.24 | 188/2016. (VII. 13.) Korm. rendelet |

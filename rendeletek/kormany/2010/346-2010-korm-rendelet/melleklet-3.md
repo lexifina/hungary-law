@@ -48,7 +48,7 @@ I. Központi finanszírozásúak
 
 | 2.3. Hivatásos katasztrófavédelmi szerv helyi szervei (katasztrófavédelmi kirendeltségek, hivatásos tűzoltóságok) |  |
 
-| 2.4. Önkormányzati, létesítményi tűzoltóságok, önkéntes tűzoltó egyesületek | X |
+| 2.4. Önkormányzati, létesítményi tűzoltóságok, önkéntes tűzoltó egyesületek, önkéntes mentőszervezetek | X |
 
 | 3. Nemzetbiztonsági Szakszolgálat /NBSZ VPN/ | X | 3.1. Nemzetbiztonsági Szakszolgálat |  |
 
@@ -123,4 +123,4 @@ II. Egyedi finanszírozásúak
 [^131]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
 [^132]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
 [^133]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^134]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^134]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a, a 361/2017. (XI. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
