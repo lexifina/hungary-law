@@ -60,3 +60,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2017-07-01 | 2009-19-20-22.56 | 157/2017. (VI. 16.) Korm. rendelet |
 | 2017-10-06 | 2009-19-20-22.57 | 275/2017. (IX. 21.) Korm. rendelet |
 | 2017-11-16 | 2009-19-20-22.58 | 343/2017. (XI. 15.) Korm. rendelet |
+| 2017-12-01 | 2009-19-20-22.59 | 343/2017. (XI. 15.) Korm. rendelet |
