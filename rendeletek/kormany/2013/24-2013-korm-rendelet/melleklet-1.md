@@ -1,6 +1,6 @@
-## 32–33. §[^21]
+## 32–33. §[^22]
 
-1–2. melléklet a 24/2013. (II. 5.) Korm. rendelethez[^22]
+1–2. melléklet a 24/2013. (II. 5.) Korm. rendelethez[^23]
 
-[^21]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: Az 1–2. mellékletet a 170/2016. (VII. 1.) Korm. rendelet 3. § e) pontja hatályon kívül helyezte.
+[^22]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: Az 1–2. mellékletet a 170/2016. (VII. 1.) Korm. rendelet 3. § e) pontja hatályon kívül helyezte.

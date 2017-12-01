@@ -1,1 +1,0 @@
-## 21. § A szakkollégiumi rendszeren belül kiemelten a roma fiatalok tehetségének támogatását szolgálja a roma szakkollégium. Roma szakkollégium minden olyan szakkollégium, amelynek létesítő okirata ezt kimondja, valamint céljai között szerepel a roma értelmiségi utánpótlás biztosítása, és tevékenységében törekszik a roma identitású hallgatók tehetséggondozására.
