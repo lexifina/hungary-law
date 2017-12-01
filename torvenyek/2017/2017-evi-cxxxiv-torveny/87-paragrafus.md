@@ -1,0 +1,3 @@
+87. § Az e-ügyintézési tv. 64. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Az együttműködő szerv a rendelkezésére álló és a jogszabály alapján átadható vagy átadandó információkat az (1) bekezdés szerinti információátadás helyett elektronikusan hozzáférhetővé teheti a másik együttműködő szerv számára, ha az ehhez szükséges informatikai feltételek rendelkezésre állnak. Ha a kézbesítéshez jogszabály jogkövetkezményt fűz vagy az információt jogszabályban meghatározott határidőben kell biztosítani, a hozzáférhetővé tétel tényéről az információt átadó együttműködő szerv a másik együttműködő szervet az 58. § (2) bekezdése szerint tájékoztatja.”
