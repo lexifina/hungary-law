@@ -1,3 +1,0 @@
-## 1. § A felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendelet [a továbbiakban: 139/2015. (VI. 9.) Korm. rendelet] 10. §-a a következő (11) bekezdéssel egészül ki:
-
-## „(11) A felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendelet módosításáról szóló 357/2017. (XI. 29.) Korm. rendelet (a továbbiakban: Mód. rendelet) 2. melléklet 3. pontjával megváltoztatott megnevezésű szakot az oktatási hivatal hivatalból nyilvántartásba veszi, ha az a Mód. rendelet hatálybalépését megelőzően korábbi megnevezéssel az oktatási hivatal nyilvántartásában a felsőoktatási intézmény által folytatott képzésként szerepelt.”
