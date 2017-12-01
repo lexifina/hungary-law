@@ -101,7 +101,3 @@ b) 327. §-a
 30. a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. május 9-i 442/2011/EU tanácsi rendelet 15. cikkének,
 
 c) 329–330. §-a
-
-ca) egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2005. június 27-i 1236/2005/EK tanácsi rendelet – III. mellékletében meghatározott áruk tekintetében – 17. cikkének,
-
-cb) a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i 428/2009/EK tanácsi rendelet 24. cikkének
