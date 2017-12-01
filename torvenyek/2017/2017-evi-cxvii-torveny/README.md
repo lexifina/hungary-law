@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-117-00-00
 | --- | --- | --- |
 | 2017-10-13 | 2017. évi CXVII. törvény | 2017-117-00-00.0 (közlönyállapot) |
 | 2017-10-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-117-00-00.1 |
+| 2017-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-117-00-00.2 |
