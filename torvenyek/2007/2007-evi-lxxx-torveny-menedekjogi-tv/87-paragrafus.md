@@ -53,3 +53,5 @@ b) a 83. § (1) bekezdés f), valamint j)–l) pontjában meghatározott adatok.
 (7) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek – az e törvényben meghatározott feltételekkel – az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám közlésével is igényelhetnek adatot a nyilvántartásból.
 
 (8) A menekültügyi hatóság – az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a menekültügyi nyilvántartásban kezelt arcképmás adat nyilvántartásba vételéről, valamint az arcképmás adat változásáról.
+
+(9) A menekültügyi hatóság a körözési nyilvántartási rendszer részére – az arcképmás nyilvántartásba vétele céljából – a körözési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a menekültügyi nyilvántartás hatálya alá tartozó személyek arcképmását átadja.
