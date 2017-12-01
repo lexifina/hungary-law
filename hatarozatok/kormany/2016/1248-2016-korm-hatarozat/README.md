@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1248-30
 | 2016-09-01 | 2016-1248-30-22.3 | 1476/2016. (VIII. 31.) Korm. határozat |
 | 2017-04-11 | 2016-1248-30-22.4 | 1476/2016. (VIII. 31.) Korm. határozat |
 | 2017-06-29 | 2016-1248-30-22.5 | 1476/2016. (VIII. 31.) Korm. határozat |
+| 2017-12-01 | 2016-1248-30-22.6 | 1476/2016. (VIII. 31.) Korm. határozat |
