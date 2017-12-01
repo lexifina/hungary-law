@@ -1,3 +1,0 @@
-35. § (1) Ha a ht. állomány áthelyezett tagja az új szolgálati helyéről naponta családjához úgy tud visszatérni, hogy lakhelyén legalább 10 órát eltölthet, különélési díj helyett a Hszt. 113. §-a (1) bekezdésének a) pontja alapján utazási költségtérítésre jogosult.
-
-(2) Nem folyósítható különélési díj, illetőleg utazási költségtérítés, ha az áthelyezett az új szolgálati helyén a felajánlott lakható, és a lakások és helyiségek bérletére, valamint elidegenítésükre vonatkozó egyes szabályokról szóló törvény végrehajtására kiadott TNM rendeletben meghatározott jogos lakásszükségletnek megfelelő lakást nem fogadja el. A jogos lakásszükségletet kielégítőnek minősül az a lakás is, amely a régi szolgálati helyen lévő lakással megegyező nagyságú és komfortfokozatú.
