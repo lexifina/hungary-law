@@ -42,6 +42,10 @@
 
 (19)[^55] E rendeletnek az elektronikus ügyintézéssel kapcsolatos egyes kormányrendeletek módosításáról szóló 221/2017. (VIII. 7.) Korm. rendelettel megállapított 152. § (2) és (3) bekezdését 2018. július 1-jétől kell alkalmazni.
 
+(20)[^56] Az az ügyfél, aki KÜNY-regisztrációval nem rendelkezik, az ügyfélkapu elektronikus azonosítási szolgáltatását és az ahhoz kapcsolódó tárhelyet 2018. június 30-ig használhatja. Az érintett személyeket erről az ügyfélkapu elektronikus azonosítási szolgáltatás szolgáltatója első alkalommal 2018. január 31-ig, második alkalommal 2018. május 1. és 2018. május 31. között tájékoztatja.
+
+(21)[^57] Az egyéni vállalkozó eltérő rendelkezése hiányában az egyéni vállalkozók nyilvántartásában 2017. december 31-én szereplő egyéni vállalkozó hivatalos elérhetősége az a KÜNY-tárhely, amellyel az egyéni vállalkozók nyilvántartását vezető szervvel 2017. december 31-ig a kapcsolatot tartotta. A KÜNY-t vezető szerv az egyéni vállalkozó nevében a KÜNY-regisztrációhoz kapcsolódó tárhely szolgáltatás kijelölt szolgáltatója közreműködésével a tárhely azonosításához szükséges adatokat a rendelkezési nyilvántartás és az egyéni vállalkozók nyilvántartása részére, mint az egyéni vállalkozó hivatalos elérhetőségét átadja.
+
 [^49]: A 155. § (2) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.
 [^50]: A 155. § (3) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § j) pontja szerint módosított szöveg.
 [^51]: A 155. § (10) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 7. § (13) bekezdésével megállapított szöveg.
@@ -49,3 +53,5 @@
 [^53]: A hatálybalépés időpontja 2017. augusztus 8.
 [^54]: A 155. § (18) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (14) bekezdése iktatta be.
 [^55]: A 155. § (19) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (14) bekezdése iktatta be.
+[^56]: A 155. § (20) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 5. § (13) bekezdése iktatta be.
+[^57]: A 155. § (21) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 5. § (13) bekezdése iktatta be.
