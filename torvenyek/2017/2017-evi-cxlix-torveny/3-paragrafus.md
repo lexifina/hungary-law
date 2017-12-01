@@ -1,0 +1,1 @@
+3. § Hatályát veszti a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvénynek a gyermekvédelem rendszerének megerősítése érdekében történő, valamint egyéb törvények módosításáról szóló 2017. évi XCV. törvény 5. alcím címe.
