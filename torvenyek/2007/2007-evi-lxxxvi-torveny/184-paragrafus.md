@@ -13,13 +13,3 @@
 a) a villamos energia határokon keresztül történő kereskedelme esetén alkalmazandó hálózati hozzáférési feltételekről és az 1228/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i, 714/2009/EK európai parlamenti és tanácsi rendelet,
 
 b) 16. § p) pontja az átvitelirendszer-üzemeltetők közötti ellentételezések mechanizmusára és az átviteli díjak szabályozásának közös elveire vonatkozó iránymutatás megállapításáról szóló 2010. szeptember 23-i, 838/2010/EU európai bizottsági rendelet,
-
-c) az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i, 713/2009/EK európai parlamenti és tanácsi rendelet, és
-
-d) 170. § (1) bekezdés 26. pontja
-
-da) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről, a 617/2010/EU, Euratom tanácsi rendelet felváltásáról és a 736/96/EK parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló 2014. február 26-i, 256/2014/EU rendelet,
-
-db) a 256/2014/EU európai parlamenti és tanácsi rendelet 3. és 5. cikke szerinti adatközlés formájáról és egyéb technikai részleteiről, valamint a 2386/96/EK és a 833/2010/EU, Euratom bizottsági rendelet hatályon kívül helyezéséről szóló 2014. október 16-i, 1113/2014/EU európai bizottsági végrehajtási rendelet
-
-e) a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet,
