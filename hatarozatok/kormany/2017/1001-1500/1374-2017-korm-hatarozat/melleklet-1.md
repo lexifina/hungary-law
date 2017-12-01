@@ -88,7 +88,7 @@
 
 | 2. | Támogatási kérelem benyújtása az irányító hatóságnak | Részletes megvalósíthatósági tanulmány elkészítése | Nagyprojektként történő jóváhagyásra irányuló kérelem elkészítése | Kivitelező kiválasztására irányuló közbeszerzési eljárás megkezdése | Kivitelezés megkezdése | Benyújtás független minőségellenőrzésre | Benyújtás az Európai Bizottsághoz jóváhagyás céljából |
 
-| 3. | KEHOP-1.3.0- 15-2016-00012 | Mosoni-Duna torkolati szakaszának vízszint-rehabilitációja | Országos Vízügyi Főigazgatóság és az Észak-dunántúli Vízügyi Igazgatóság konzorciuma | – | 2017. szeptember 30. | 2018. március 31. | 2017. szeptember 30. | 2017. december 31. | 2018. június 30. | 2018. december 31. |
+| 3. |  |  |  |  |  |  |  |  |  |  |
 
 | 4. | KEHOP-1.4.0- 15-2016-00011 | VTT (Vásárhelyi Terv Továbbfejlesztése) Felső-Tisza árvízvédelmi rendszerének kiépítése Tisza-Túr tározó | Országos Vízügyi Főigazgatóság és a Felső-Tisza-vidéki Vízügyi Igazgatóság konzorciuma | – | 2017. december 31. | 2018. március 31. | 2017. december 31. | 2018. június 30. | 2018. szeptember 30. | 2019. március 31. |
 
@@ -136,4 +136,4 @@
 
 | 26. | IKOP-4.1.0-15- 2016-00003 | 83. sz. főút fejlesztése Pápa–Győr, M1 autópálya között | NIF Zrt. | – | 2017. december 31. | 2017. december 31. | 2017. január 31. | 2017. szeptember 30. | – | 2018. szeptember 30. |
 
-[^1]: Az 1. melléklet az 1738/2017. (X. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1738/2017. (X. 10.) Korm. határozat 2. pontja, az 1887/2017. (XI. 30.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
