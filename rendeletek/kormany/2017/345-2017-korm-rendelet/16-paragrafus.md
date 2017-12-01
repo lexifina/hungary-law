@@ -1,4 +1,4 @@
-## 14–15. §[^6]
+## 14–15. §[^4]
 
 ## 7. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. és 3–4. alcím, valamint az 1. és 2. melléklet a kihirdetését követő 15. napon lép hatályba.
 
-[^6]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,1 @@
-## 1.[^1]
-
-[^1]: Az 1. alcím (1–6. §) a 16. § (2) bekezdése alapján 2017. december 1-jén lép hatályba.
+## 1. A munkaerő-kölcsönzési és a magán-munkaközvetítői tevékenység nyilvántartásba vételéről és folytatásának feltételeiről szóló 118/2001. (VI. 30.) Korm. rendelet módosítása
