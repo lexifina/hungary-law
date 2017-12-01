@@ -56,19 +56,19 @@ bf) a tantárgy felelősét és előadóját,
 
 bg) a tantárgy szakmai tartalma elsajátításának célját,
 
-bh)[^96] a tantárgy olyan leírását, amely lehetővé teszi az Nftv. 49. § (5) bekezdése szerinti döntéshozatalt, tartalmazza a megszerzendő ismeretek, elsajátítandó alkalmazási (rész)készségek és (rész)kompetenciák leírását,
+bh)[^97] a tantárgy olyan leírását, amely lehetővé teszi az Nftv. 49. § (5) bekezdése szerinti döntéshozatalt, tartalmazza a megszerzendő ismeretek, elsajátítandó alkalmazási (rész)készségek és (rész)kompetenciák leírását,
 
 bi) az évközi tanulmányi követelményeket,
 
-bj)[^97] a megszerzett ismeretek, elsajátított (rész)készségek és (rész)kompetenciák értékelési módjait, azok ütemezését,
+bj)[^98] a megszerzett ismeretek, elsajátított (rész)készségek és (rész)kompetenciák értékelési módjait, azok ütemezését,
 
-bk)[^98] az ismeretek, készségek és kompetenciák elsajátításához rendelkezésre álló tanulmányi segédanyagokat, és
+bk)[^99] az ismeretek, készségek és kompetenciák elsajátításához rendelkezésre álló tanulmányi segédanyagokat, és
 
 bl) az ajánlott irodalmat.
 
-(4)[^99] Az intézményi tájékoztatót a felsőoktatási intézmény honlapján, papíralapú formátumban vagy elektronikus adathordozón a felsőoktatási intézmény szabályzatában meghatározottak szerint is nyilvánosságra kell hozni oly módon, hogy annak valamennyi módosítása és a változás beállásának hatálya a hallgatók számára a jogviszonyuk fennállása alatt egyértelműen követhető legyen.
+(4)[^100] Az intézményi tájékoztatót a felsőoktatási intézmény honlapján, papíralapú formátumban vagy elektronikus adathordozón a felsőoktatási intézmény szabályzatában meghatározottak szerint is nyilvánosságra kell hozni oly módon, hogy annak valamennyi módosítása és a változás beállásának hatálya a hallgatók számára a jogviszonyuk fennállása alatt egyértelműen követhető legyen.
 
-[^96]: Az 53. § (3) bekezdés b) pont bh) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
-[^97]: Az 53. § (3) bekezdés b) pont bj) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
-[^98]: Az 53. § (3) bekezdés b) pont bk) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
-[^99]: Az 53. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 90. § 5. pontja szerint módosított szöveg.
+[^97]: Az 53. § (3) bekezdés b) pont bh) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^98]: Az 53. § (3) bekezdés b) pont bj) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^99]: Az 53. § (3) bekezdés b) pont bk) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^100]: Az 53. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 90. § 5. pontja szerint módosított szöveg.
