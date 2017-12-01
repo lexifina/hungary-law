@@ -1,6 +1,6 @@
-## 17/E. §[^62] Az új Mt. 215. § (1) bekezdés a) pontjában meghatározott, EGT-tagállamban bejegyzett vállalkozás magyarországi munkaerő-kölcsönzési tevékenységére e rendelet szabályait a 17/F. §-ban foglalt eltérésekkel kell alkalmazni.
+## 17/E. §[^65] Az új Mt. 215. § (1) bekezdés a) pontjában meghatározott, EGT-tagállamban bejegyzett vállalkozás magyarországi munkaerő-kölcsönzési tevékenységére e rendelet szabályait a 17/F. §-ban foglalt eltérésekkel kell alkalmazni.
 
-17/F. §[^63] (1) A kérelmező nyilvántartására a Budapest Főváros Kormányhivatala rendelkezik kizárólagos illetékességgel.
+17/F. §[^66] (1) A kérelmező nyilvántartására a Budapest Főváros Kormányhivatala rendelkezik kizárólagos illetékességgel.
 
 (2) A 4. § (1) bekezdés a) pontjában írt nyilvántartásba vételnek a vállalkozás székhelye szerinti EGT-tagállamban kell teljesülnie. A nyilvántartásba vétel további feltétele, hogy a vállalkozás székhelye szerinti EGT-tagállamban a rá irányadó jog szerint a vállalkozás jogosult legyen munkaerő-kölcsönzés folytatására.
 
@@ -14,5 +14,5 @@
 
 (7) A kérelmezőre a rendelet 17/A–17/D. § nem alkalmazható.
 
-[^62]: A 17/E. §-t a 335/2016. (XI. 11.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^63]: A 17/F. §-t a 335/2016. (XI. 11.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^65]: A 17/E. §-t a 335/2016. (XI. 11.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^66]: A 17/F. §-t a 335/2016. (XI. 11.) Korm. rendelet 1. § (11) bekezdése iktatta be.

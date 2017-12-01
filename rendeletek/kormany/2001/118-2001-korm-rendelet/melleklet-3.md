@@ -1,24 +1,12 @@
-3. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^73]
+3. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^84]
 
 KÉRELEM
 
 a munkaerő-kölcsönző nyilvántartásba vételéhez
 
-| I. | A kérelmező adatai: |
+| I. A kérelmező adatai: 1. A kérelmező neve, címe, telefonszáma: 2. A szervezet formája: 3. A kérelmező székhelye, címe: 4. A kérelmező telephelye(i), címe: 5. A kérelmező adószáma: 6. A képviseletre jogosult személy(ek) neve, címe: 7. Közhasznú munkaerő-kölcsönzési tevékenységet kíván végezni: igen/nem (a megfelelő aláhúzandó) |
 
-| 1. A kérelmező neve, címe, telefonszáma: |
-
-|  | 2. A szervezet formája: |
-
-|  | 3. A kérelmező székhelye, címe: |
-
-|  | 4. A kérelmező telephelye(i), címe: |
-
-|  | 5. A képviseletre jogosult személy(ek) neve, címe: |
-
-| 6. Közhasznú munkaerő-kölcsönzési tevékenységet kíván végezni: igen/nem (a megfelelő aláhúzandó) |
-
-| II. | Nyilatkozatok, csatolandó iratok: |
+| II. Nyilatkozatok, csatolandó iratok: |
 
 | 1. Kijelentem, hogy a tevékenység folytatásához az alábbi berendezéssel ellátott irodahelyiséggel a székhelyemen és a megjelölt telephelyen rendelkezem: |
 
@@ -28,4 +16,4 @@ a munkaerő-kölcsönző nyilvántartásba vételéhez
 
 | ...................................................................... a kérelmező cégszerű aláírása |
 
-[^73]: A 3. számú melléklet a 171/2011. (VIII. 24.) Korm. rendelet 5. §-ával megállapított, a 355/2012. (XII. 13.) Korm. rendelet 9. §-a, a 335/2016. (XI. 11.) Korm. rendelet 1. § (15) bekezdése szerint módosított szöveg.
+[^84]: A 3. számú melléklet a 171/2011. (VIII. 24.) Korm. rendelet 5. §-ával megállapított, a 355/2012. (XII. 13.) Korm. rendelet 9. §-a, a 335/2016. (XI. 11.) Korm. rendelet 1. § (15) bekezdése, a 345/2017. (XI. 16.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.

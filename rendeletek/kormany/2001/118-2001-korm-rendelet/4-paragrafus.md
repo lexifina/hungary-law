@@ -8,9 +8,12 @@ b) a kérelmező vagy az általa – legalább heti húsz órában munkaviszony 
 
 c) a tevékenység gyakorlásához megfelelő irodahelyiséggel rendelkezik, továbbá
 
-d) a rendelet által előírt vagyoni biztosíték letétbe helyezését igazolja.
+d) a rendelet által előírt vagyoni biztosíték letétbe helyezését igazolja,
+
+e)[^13] a kérelmező szerepel az állami adóhatóság által vezetett, az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerinti köztartozásmentes adózói adatbázisban.
 
 (2) Ha a kérelmező a tevékenységét több telephelyen folytatja, az (1) bekezdés b)–c) pontjában foglalt feltétellel valamennyi telephelyén rendelkeznie kell.
 
 [^11]: A 4. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 231. § (1) bekezdésével megállapított szöveg.
 [^12]: A 4. § (1) bekezdése a 335/2016. (XI. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^13]: A 4. § (1) bekezdés e) pontját a 345/2017. (XI. 16.) Korm. rendelet 1. §-a iktatta be.

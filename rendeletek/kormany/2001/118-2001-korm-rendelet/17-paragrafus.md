@@ -1,4 +1,4 @@
-## 17. §[^51] A kormányhivatal és a kölcsönbeadó, valamint a magán-munkaközvetítő tevékenységük során együttműködnek. Az együttműködés eszközei különösen
+## 17. §[^54] A kormányhivatal és a kölcsönbeadó, valamint a magán-munkaközvetítő tevékenységük során együttműködnek. Az együttműködés eszközei különösen
 
 a) a rendszeres szakmai kapcsolattartás,
 
@@ -10,4 +10,4 @@ d) a munkatársak közös képzési lehetőségeinek biztosítása,
 
 e) megállapodások a munkaerőpiaci helyzet javítása érdekében.
 
-[^51]: A 17. § a 70/2015. (III. 30.) Korm. rendelet 51. § (6) bekezdésével megállapított szöveg.
+[^54]: A 17. § a 70/2015. (III. 30.) Korm. rendelet 51. § (6) bekezdésével megállapított szöveg.
