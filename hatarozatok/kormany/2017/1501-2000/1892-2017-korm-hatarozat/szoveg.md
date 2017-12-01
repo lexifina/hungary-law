@@ -36,12 +36,6 @@ Felelős: megyei jogú városok fejlesztéséért felelős tárca nélküli mini
 
 Határidő: a Modern Városok Program Bizottság döntését követően
 
-3. A Magyarország Kormánya és Kecskemét Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1131/2016. (III. 10.) Korm. határozat 2. pontja a következő e) ponttal egészül ki:
+3.[^1]
 
-(A Kormány támogatja Kecskemét infrastruktúrájának fejlesztését, amely keretében)
-
-„e) felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket a Kecskemét Déli Iparterületen elhelyezkedő Barényi Béla út fejlesztése érdekében.
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: azonnal”
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
