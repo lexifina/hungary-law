@@ -15,3 +15,5 @@ a) az Rtv. 29. §-a, 30. §-a, 32. §-a, 39. §-a és 42. § (1) bekezdése, val
 b) a 26. § (1) bekezdés b) pontja
 
 szerinti intézkedést alkalmazhatja.
+
+(4) A találatot elérő szerv a rejtett ellenőrzés végrehajtása során az Rtv. 46/C. §-ban foglalt intézkedést foganatosítja.

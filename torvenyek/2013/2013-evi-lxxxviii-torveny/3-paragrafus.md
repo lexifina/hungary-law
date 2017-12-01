@@ -24,6 +24,8 @@ ah) lakcím adatát, továbbá annak megváltozása esetén korábbi lakcím ada
 
 ai) értesítési címét,
 
+aj) személyiadat- és lakcímnyilvántartás, a központi idegenrendészeti nyilvántartás, illetve a menekültügyi nyilvántartás szerinti arcképmását,
+
 b) a körözött személy
 
 ba) álnevét, gúnynevét,
@@ -96,7 +98,7 @@ lc) befejezésének időpontját, valamint
 
 ld) tartalmi leírását.
 
-(3) A körözött személyek nyilvántartásába a (2) bekezdés a), b), d)–j) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
+(3) A körözött személyek nyilvántartásába a (2) bekezdés a) pont aa)–ai) alpontjában, valamint a (2) bekezdés b) és d)–j) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
 
 (4) A körözött személyek nyilvántartásába a (2) bekezdés c) pontjában meghatározott adatokat a körözést elrendelő rögzíti, ha az adat a körözés alapjául szolgáló bűncselekmény tényállási eleme.
 
@@ -104,22 +106,4 @@ ld) tartalmi leírását.
 
 (6) A körözött személyek nyilvántartásába a (2) bekezdés k) pontjában meghatározott adatokat az eltűntnek nyilvánító rendőri szerv rögzíti.
 
-(7) A nyilvántartó a (2) bekezdés a) pontjában szereplő adatokat – azok változásának nyomon követése céljából – a (2) bekezdés a)–l) pontjában meghatározott adatok rögzítésekor, módosításakor vagy javításakor, valamint a nyilvántartásból való adatigénylést vagy adattovábbítást megelőzően elektronikus úton összehasonlítja
-
-a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat és lakcímnyilvántartást kezelő szerv által kezelt adatokkal,
-
-b) az idegenrendészeti nyilvántartások hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartást vezető szerv által kezelt adatokkal.
-
-(8) Az adatváltozást a (7) bekezdés szerinti adategyeztetés után a körözött személyek nyilvántartásában haladéktalanul át kell vezetni.
-
-(9) A körözött személyek nyilvántartásában szereplő adatokat a nyilvántartó
-
-a) a körözés visszavonását követő harmadik napig,
-
-b) eltűnt személy esetén – ha a körözés visszavonására nem került sor – a körözés elrendelésétől számított 90 évig,
-
-c) eltűnt személy esetén az eltűntnek nyilvánító határozat visszavonását követő harmadik napig,
-
-d) a körözött személy haláláig
-
-kezeli.
+(7)–(9)

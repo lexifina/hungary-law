@@ -24,7 +24,7 @@ bb) elérhetőségét,
 
 c) a találó nyilatkozatát a talált dolog tulajdonjogára való igényéről,
 
-d) a találó 3. § (2) bekezdés a) pontjában meghatározott adatait, ha igényt tart a talált dolog tulajdonjogára.
+d) a találó 3. § (2) bekezdés a) pont aa)–ai) alpontjában meghatározott adatait, ha igényt tart a talált dolog tulajdonjogára.
 
 (3) A jegyző a (2) bekezdésben meghatározott adatokat a nyilvántartásban rögzíti.
 

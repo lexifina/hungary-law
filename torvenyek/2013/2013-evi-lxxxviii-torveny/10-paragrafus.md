@@ -24,7 +24,7 @@ j) a Nemzeti Adó- és Vámhivatal nyomozó hatósági és vámellenőrzési fel
 
 (2) Az igazságügyért felelős miniszter a kegyelmi ügyek intézése céljából, valamint az igazságügyért felelős miniszter és az ügyészség a jogsegélykérelem elintézése céljából, továbbá a nemzetközi szerződésekben meghatározott és a viszonossági gyakorlatból eredő feladatai teljesítése céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából, a körözött dolgok nyilvántartásából, valamint az ismeretlen holttestek, holttestrészek nyilvántartásából.
 
-(3) A menekültügyi hatóság, az idegenrendészeti hatóság és az állampolgársági ügyekben eljáró szerv a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
+(3) A menekültügyi hatóság, az állampolgársági ügyben eljáró szerv és az idegenrendészeti hatóság a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot – a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével – a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a körözött okmányokra vonatkozóan.
 
 (4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
@@ -32,8 +32,10 @@ j) a Nemzeti Adó- és Vámhivatal nyomozó hatósági és vámellenőrzési fel
 
 (5) A bíróság a holttá nyilvánítási eljárása során közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
-(6) A jogszabály alapján személyazonosító igazolvány, útlevél, állampolgársági bizonyítvány, honosítási okirat, illetve járművezetésre jogosító okmány kiadására feladat- és hatáskörrel rendelkező szerv okmány kiadásával kapcsolatos eljárása során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából.
+(6) A személyiadat- és lakcímnyilvántartást kezelő szerv, az útlevélhatóság és a közúti közlekedési nyilvántartó szerv az okmánykiadással kapcsolatos eljárás során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
 
-(7) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából.
+(7) A jogszabály alapján állampolgársági bizonyítvány, honosítási okirat kiadására feladat- és hatáskörrel rendelkező szerv okmány kiadásával kapcsolatos eljárása során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
+
+(7a) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
 
 (8) Az NBSZ a személyazonosítást elősegítő eszköz üzemeltetése során közvetlen hozzáféréssel jogosult átvenni a 8. § (1) bekezdésben meghatározott közérdekből nyilvános adatokat a körözött személy tartózkodási helyének meghatározása érdekében.
