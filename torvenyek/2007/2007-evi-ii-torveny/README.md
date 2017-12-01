@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2017-05-05 | 2017. évi XXXIII. törvény | 2007-2-00-00.47 |
 | 2017-06-02 | 2017. évi XLV. törvény | 2007-2-00-00.48 |
 | 2017-06-17 | 2017. évi LXXII. törvény | 2007-2-00-00.49 |
+| 2017-12-01 | 2017. évi XXXIII. törvény | 2007-2-00-00.50 |
