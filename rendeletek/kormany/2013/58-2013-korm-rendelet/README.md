@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-58-20-2
 | 2017-01-01 | 2013-58-20-22.12 | 440/2016. (XII. 16.) Korm. rendelet |
 | 2017-07-01 | 2013-58-20-22.13 | 157/2017. (VI. 16.) Korm. rendelet |
 | 2017-09-01 | 2013-58-20-22.14 | 157/2017. (VI. 16.) Korm. rendelet |
+| 2017-12-01 | 2013-58-20-22.15 | 343/2017. (XI. 15.) Korm. rendelet |

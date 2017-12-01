@@ -28,6 +28,6 @@
 
 | 13 | 4. | Közkifolyókon fogyasztott víz átalánymennyiséget 150 m-es körzetben lakók száma szerint | 30 liter/fő/nap |
 
-9. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^317]
+9. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^318]
 
-[^317]: A 9. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § b) pontja iktatta be.
+[^318]: A 9. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § b) pontja iktatta be.

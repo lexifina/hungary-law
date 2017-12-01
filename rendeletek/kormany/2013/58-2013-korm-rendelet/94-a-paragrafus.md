@@ -1,4 +1,4 @@
-## IX/A. Fejezet[^291]
+## IX/A. Fejezet[^292]
 
 ## A VÍZIKÖZMŰ-SZOLGÁLTATÓ KÖTELEZETTSÉGE TELJESÍTÉSÉVEL KAPCSOLATOS BESZERZÉSEINEK KÖVETELMÉNYEI
 
@@ -8,10 +8,10 @@
 
 (3) Az (1) bekezdésben meghatározott feladatok végrehajtása érdekében a víziközmű-szolgáltató a beszerzési szabályzatát (a továbbiakban: Szabályzat) úgy készíti el, hogy az a nem közbeszerzés útján megvalósuló beszerzéseit is tartalmazza.
 
-(4)[^292] A víziközmű-szolgáltató aláírásra jogosult vezető tisztségviselője vagy tisztségviselői által aláírt Szabályzatot papír alapon egy példányban kell jóváhagyásra benyújtani. Ha víziközmű-szolgáltató a Szabályzat módosítását kéri, olyan példány benyújtása is szükséges, amelyből egyértelműen megállapíthatóak a tervezett módosítások.
+(4)[^293] A víziközmű-szolgáltató aláírásra jogosult vezető tisztségviselője vagy tisztségviselői által aláírt Szabályzatot papír alapon egy példányban kell jóváhagyásra benyújtani. Ha víziközmű-szolgáltató a Szabályzat módosítását kéri, olyan példány benyújtása is szükséges, amelyből egyértelműen megállapíthatóak a tervezett módosítások.
 
-(5)[^293] A Szabályzat jóváhagyásra irányuló kérelemhez mellékelni kell a Szabályzat tervezetét, valamint az igazgatási szolgáltatási díj átutalását igazoló dokumentum egy másolati példányát.
+(5)[^294] A Szabályzat jóváhagyásra irányuló kérelemhez mellékelni kell a Szabályzat tervezetét, valamint az igazgatási szolgáltatási díj átutalását igazoló dokumentum egy másolati példányát.
 
-[^291]: A IX/A. fejezetet (94/A–94/E. §) a 292/2014. (XI. 26.) Korm. rendelet 32. §-a iktatta be.
-[^292]: A 94/A. § (4) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 36. §-a iktatta be.
-[^293]: A 94/A. § (5) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 36. §-a iktatta be.
+[^292]: A IX/A. fejezetet (94/A–94/E. §) a 292/2014. (XI. 26.) Korm. rendelet 32. §-a iktatta be.
+[^293]: A 94/A. § (4) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 36. §-a iktatta be.
+[^294]: A 94/A. § (5) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 36. §-a iktatta be.

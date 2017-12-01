@@ -1,4 +1,4 @@
-99/A. §[^297] (1) E rendelet hatálybalépésekor folyamatban lévő szennyvízberuházások esetében a 85/A. § rendelkezéseit a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni.
+99/A. §[^298] (1) E rendelet hatálybalépésekor folyamatban lévő szennyvízberuházások esetében a 85/A. § rendelkezéseit a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) A jogerős és hatályos elvi vízjogi engedéllyel vagy jogerős és hatályos vízjogi létesítési engedéllyel rendelkező, folyamatban lévő szennyvízberuházás esetén a beruházó – legfeljebb a (7) bekezdésben meghatározott időpontig – mentesül a szennyvíz beemelő és a felhasználási helytől független energiaellátás kiépítésének kötelezettsége alól, ha
 
@@ -14,7 +14,7 @@ b) a vízjogi létesítési engedélye még nem jogerős,
 
 ## feltéve, hogy a vízügyi hatóság által kibocsátott engedély jogerőre emelkedik.
 
-(4)[^298] A (2) bekezdésben meghatározott körülmény fennállása, továbbá a műszakilag elérhető szennyvízelvezető törzshálózathoz újonnan csatlakozni kívánó lakossági felhasználó (új bekötés) esetében – a víziközmű-szolgáltatóval történő eltérő megállapodás hiányában – az érintett felhasználó gondoskodik a víziközmű-szolgáltató üzletszabályzatában meghatározott alapvető műszaki követelményeket kielégítő szennyvíz beemelő kiépítéséről.
+(4)[^299] A (2) bekezdésben meghatározott körülmény fennállása, továbbá a műszakilag elérhető szennyvízelvezető törzshálózathoz újonnan csatlakozni kívánó lakossági felhasználó (új bekötés) esetében – a víziközmű-szolgáltatóval történő eltérő megállapodás hiányában – az érintett felhasználó gondoskodik a víziközmű-szolgáltató üzletszabályzatában meghatározott alapvető műszaki követelményeket kielégítő szennyvíz beemelő kiépítéséről.
 
 (5) A vízjogi üzemeltetési engedélyezési eljárás során a vízügyi hatóság figyelembe veszi, hogy a vízjogi engedélyes a szennyvíz beemelő szennyvízelvezető törzshálózattal egyidejű kiépítése alól a (2) és a (3) bekezdés szerint mentesítésben részesült.
 
@@ -26,5 +26,5 @@ b) a vízjogi létesítési engedélye még nem jogerős,
 
 (9) A (8) bekezdés szerinti megállapodás hatálya az abban részes felek jogutódaira is kiterjed.
 
-[^297]: A 99/A. §-t a 458/2013. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
-[^298]: A 99/A. § (4) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 53. pontja szerint módosított szöveg.
+[^298]: A 99/A. §-t a 458/2013. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
+[^299]: A 99/A. § (4) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 53. pontja szerint módosított szöveg.
