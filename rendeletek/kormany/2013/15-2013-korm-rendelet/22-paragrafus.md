@@ -1,6 +1,6 @@
 ## 14. Az okmányokra vonatkozó figyelmeztető jelzések törlése
 
-22. §[^14] (1) A SIS II tv. 10. § (1) bekezdés g) pontja és 11. § (1)–(4) bekezdése alapján elhelyezett, okmányokra vonatkozó figyelmeztető jelzést automatikusan törölni kell, ha az okmány érvényességi ideje lejárt.
+22. §[^15] (1) A SIS II tv. 10. § (1) bekezdés g) pontja és 11. § (1)–(4) bekezdése alapján elhelyezett, okmányokra vonatkozó figyelmeztető jelzést automatikusan törölni kell, ha az okmány érvényességi ideje lejárt.
 
 (2) A SIS II tv. 11. § (1)–(4) bekezdése alapján elhelyezett, okmányokra vonatkozó figyelmeztető jelzés (1) bekezdés szerinti automatikus törlésére nem kerülhet sor, ha
 
@@ -14,4 +14,4 @@ b) a figyelmeztető jelzés elhelyezésére az okmány büntetőeljárásban biz
 
 (5) A (3) bekezdés szerinti esetben a figyelmeztető jelzést elhelyező jelzéskezelő haladéktalanul intézkedik a figyelmeztető jelzés törlése iránt.
 
-[^14]: A 22. § a 379/2016. (XII. 2.) Korm. rendelet 222. § (1) bekezdésével megállapított szöveg.
+[^15]: A 22. § a 379/2016. (XII. 2.) Korm. rendelet 222. § (1) bekezdésével megállapított szöveg.

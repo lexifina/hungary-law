@@ -1,4 +1,4 @@
-## 1. §[^1] A Kormány a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá az egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény (a továbbiakban: SIS II tv.) 1. § 10. pontja szerinti N.SIS II Hivatal feladatainak ellátására a Kormány a rendészetért felelős minisztert jelöli ki.
+## 1. §[^2] A Kormány a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá az egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény (a továbbiakban: SIS II tv.) 1. § 10. pontja szerinti N.SIS II Hivatal feladatainak ellátására a Kormány a rendészetért felelős minisztert jelöli ki.
 
 ## 1. Értelmező rendelkezések
 
@@ -28,4 +28,4 @@ e) NS.ICD: a CS.ICD alapján kidolgozott egységes, az NS.CP és a hozzá kapcso
 
 f) schengeni azonosító kód: az NS.CP által képzett, a figyelmeztető jelzést azonosító, személyes adatot nem tartalmazó számsorozat.
 
-[^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 222. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 222. § (2) bekezdése szerint módosított szöveg.

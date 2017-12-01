@@ -1,6 +1,6 @@
-## 14. §[^11] A jelzéskezelő a tárgyakra vonatkozó figyelmeztető jelzések – ide nem értve az okmányokhoz kapcsolódó figyelmeztető jelzéseket – NS.CP-be történő továbbítása előtt a 13. § (1)–(2) és (4)–(8) bekezdésében foglaltak értelemszerű alkalmazásával jár el.
+## 14. §[^12] A jelzéskezelő a tárgyakra vonatkozó figyelmeztető jelzések – ide nem értve az okmányokhoz kapcsolódó figyelmeztető jelzéseket – NS.CP-be történő továbbítása előtt a 13. § (1)–(2) és (4)–(8) bekezdésében foglaltak értelemszerű alkalmazásával jár el.
 
-## 7. [^12] A figyelmeztető jelzések elsőbbségi szabályai
+## 7. [^13] A figyelmeztető jelzések elsőbbségi szabályai
 
 15. § (1) A személyekre vonatkozó figyelmeztető jelzések prioritási sorrendje a következő:
 
@@ -36,5 +36,5 @@ f) az azonnali intézkedést igénylő rejtett ellenőrzésre irányuló figyelm
 
 g) az azonnali intézkedést nem igénylő rejtett ellenőrzésre irányuló figyelmeztető jelzés.
 
-[^11]: A 14. § a 443/2015. (XII. 28.) Korm. rendelet 12. § b) pontja szerint módosított megállapított szöveg.
-[^12]: A 7. alcím (15. §) a 443/2015. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^12]: A 14. § a 443/2015. (XII. 28.) Korm. rendelet 12. § b) pontja szerint módosított megállapított szöveg.
+[^13]: A 7. alcím (15. §) a 443/2015. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
