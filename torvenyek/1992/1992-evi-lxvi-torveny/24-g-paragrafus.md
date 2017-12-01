@@ -1,0 +1,1 @@
+24/G. § A nyilvántartást kezelő szerv a körözési nyilvántartási rendszer részére – az arcképmás nyilvántartásba vétele céljából – a körözési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a polgár arcképmását átadja.

@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2017-07-01 | 2016. évi CXXVII. törvény | 1992-66-00-00.89 |
 | 2017-09-01 | 2017. évi XCIV. törvény | 1992-66-00-00.90 |
 | 2017-11-01 | 2017. évi CXXI. törvény | 1992-66-00-00.91 |
+| 2017-12-01 | 2017. évi XXXIII. törvény | 1992-66-00-00.92 |
