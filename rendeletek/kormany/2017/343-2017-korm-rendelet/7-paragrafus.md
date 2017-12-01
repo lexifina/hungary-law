@@ -1,3 +1,1 @@
-## 6. §[^4]
-
-[^4]: A 6. § a 18. § (2) bekezdése alapján 2017. december 1-jén lép hatályba.
+## 6. § A VET Vhr. 1. számú melléklete a 2. melléklet szerint módosul.

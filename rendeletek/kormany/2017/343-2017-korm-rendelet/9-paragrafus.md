@@ -1,3 +1,3 @@
-## 8. §[^6]
+## 8. §[^4]
 
-[^6]: A 8. § a 18. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^4]: A 8. § a 18. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
