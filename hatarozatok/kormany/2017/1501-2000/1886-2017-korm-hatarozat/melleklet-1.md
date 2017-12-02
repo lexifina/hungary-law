@@ -18,15 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat [a továbbiakban: 1084/2016. (II. 29.) Korm. határozat] 2. melléklet
-
-## a) C:238 mezőjében a „Bonyhád Város Önkormányzata” szövegrész helyébe a „Bonyhád Város Önkormányzata, Kakasd Község Önkormányzata, Nagymányok Város Önkormányzata” szöveg, a „Berhida Város Önkormányzata” szövegrész helyébe a „Berhida Város Önkormányzata, Papkeszi Község Önkormányzata” szöveg,
-
-## b) G:238 mezőjében a „Felsőörs, Lovas és Paloznak” szövegrész helyébe a „Felsőörs és Lovas” szöveg
-
-## lép.
-
-## 4. Hatályát veszti az 1084/2016. (II. 29.) Korm. határozat 2. melléklet C:238 mezőjében a „Balatonalmádi Város Önkormányzata, Csopak Község Önkormányzata,” szövegrész és a „Paloznak Község Önkormányzata,” szövegrész.
+## 3–4.[^1]
 
 1. melléklet az 1886/2017. (XI. 30.) Korm. határozathoz
 
@@ -35,3 +27,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (nettó, Ft) | Többlettámogatás legfeljebb (nettó, Ft) | Megnövelt önerő összege (nettó, Ft) | Megnövelt támogatás legfeljebb (nettó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-2.2.1- 15-2015-00005 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 4. (ÉKDU 4) | Bonyhád Város Önkormányzata, Kakasd Község Önkormányzata, Nagymányok Város Önkormányzata, Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság, Felsőörs Község Önkormányzata, Lovas Község Önkormányzata, Bakonykoppány Község Önkormányzata, Bakonyszücs Község Önkormányzata, Béb Község Önkormányzata, Adásztevel Község Önkormányzata, Csót Község Önkormányzata, Homokbödöge Község Önkormányzata, Nagygyimót Község Önkormányzata, Nagytevel Község Önkormányzata, Ugod Község Önkormányzata, Berhida Város Önkormányzata, Papkeszi Községi Önkormányzat, Iváncsa Községi Önkormányzat, Besnyő Község Önkormányzat, Beloiannisz Község Önkormányzata és Devecser Város Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 5 586 658 505 | 2 908 770 263 | 1 132 683 365 | 8 495 428 768 | A projekt keretében Bonyhád és térségében – Cikó, Kakasd, Kismányok és Nagymányok településeken – szennyvíztisztító rendszerek fejlesztését végzik el, új szennyvíztisztító telepet létesítenek. A projekt keretében fejlesztik továbbá Balatonfűzfő szennyvíztisztító telepét, valamint Balatonalmádi, Csopak, Felsőörs, Lovas települések szennyvízelvezetését és -tisztítását szolgáló megoldásokat biztosítanak. A Gárdony központú agglomeráció szennyvízhálózatát bővítik, és fejlesztik annak szennyvíztisztító telepét. Fejlesztik a Béb központú agglomeráció és Berhida város szennyvízelvezetését és -tisztítását, míg Iváncsa község szennyvízelvezetését és -tisztítását szolgáló rendszerek újonnan létesülnek. A projekt keretében végül Devecser város szennyvíztisztító telepének fejlesztéseit valósítják meg. |
+
+[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

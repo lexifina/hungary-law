@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1886-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-01 | 2017-1886-30-22.1 | 1886/2017. (XI. 30.) Korm. határozat |
+| 2017-12-02 | 2017-1886-30-22.2 | 2010: CXXX. törvény |
