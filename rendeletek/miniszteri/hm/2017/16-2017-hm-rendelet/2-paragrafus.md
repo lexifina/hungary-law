@@ -1,0 +1,5 @@
+## „e) sebesültszállító jármű: a többcélú honvédségi járműből átszereléssel kialakított jármű, amely kétszintes elrendezéssel 12 db, az MH-nál rendszeresített hordágyat, valamint 1 fő gépkocsivezetőt és 2 fő egészségügyi szakszemélyzetet képes befogadni,
+
+## f) többcélú honvédségi jármű: olyan, a rendeltetésszerű használat során közutat is igénybe vevő, az MH-nál rendszeresített és üzemeltetett M3 kategóriájú, legalább 40 ülő utas és 1 fő gépkocsivezető befogadóképességű jármű, amely különleges körülmények fennállása esetén sebesültszállító vagy törzsvezetési pontként alkalmazható kivitelre átszerelhető, és a különleges helyzet megszűnését követően eredeti funkciója visszaállítható,
+
+## g) törzsvezetési pontként alkalmazott jármű: a többcélú honvédségi járműből átszereléssel kialakított 20 fő, valamint 1 fő gépjárművezető befogadóképességű jármű, amely alkalmas speciális kommunikációs és elektronikus eszközök fogadására, számítógépes munkahelyek kialakítására és az állóhelyi üzemeltetéshez önálló áramforrással rendelkezik.”
