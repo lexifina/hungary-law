@@ -1,4 +1,4 @@
-## 48. § Hatályát veszti a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjainak illetményéről, valamint egyéb pénzbeli és természetbeni ellátásáról szóló 4/1997. (II. 28.) TNM rendelet.
+## 48. §[^1]
 
 1. melléklet a 30/2017. (XI. 28.) MvM rendelethez
 
@@ -25,3 +25,5 @@ A ruházati utánpótlási ellátmány terhére számla ellenében elszámolhat�
 | 9. | Női sportruházat |
 
 | 10. | Női sapka, sál, kesztyű, kendő, öv |
+
+[^1]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
