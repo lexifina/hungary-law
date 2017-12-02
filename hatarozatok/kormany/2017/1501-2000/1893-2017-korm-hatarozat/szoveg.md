@@ -86,4 +86,6 @@ Határidő: folyamatos
 
 12. Ez a határozat 2017. december 1. napján lép hatályba.
 
-13. Hatályát veszti a Szabolcs-Szatmár-Bereg megye és Kárpátalja (Закарпатська область) egyuttműködésének és összehangolt fejlesztési feladatainak kormányzati koordinációjáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1935/2015. (XII. 12.) Korm. határozat.
+13.[^*]
+
+[^*]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
