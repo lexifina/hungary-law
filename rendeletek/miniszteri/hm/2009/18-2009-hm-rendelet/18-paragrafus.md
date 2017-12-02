@@ -1,4 +1,4 @@
-18. § (1)[^29] A honvédségi vontatmányok mentesülnek az MR
+18. § (1)[^36] A honvédségi vontatmányok mentesülnek az MR
 
 a) 25. § (4) bekezdése, 26. §-a, 27. §-a, 31. §-a, 32. §-a, 49. §-a és 50. §-a szerinti műszaki előírásokra,
 
@@ -22,4 +22,4 @@ be) 20A. tételszáma alatt meghatározott, a világító-berendezésekre
 
 (4) A féknélküli honvédségi vontatmányok vontatását végző honvédségi jármű vezetőülése közelében a vezető által jól látható helyen a melléklet szerinti figyelmeztető feliratot kell elhelyezni.
 
-[^29]: A 18. § (1) bekezdése a 12/2015. (X. 27.) HM rendelet 4. §-ával megállapított szöveg.
+[^36]: A 18. § (1) bekezdése a 12/2015. (X. 27.) HM rendelet 4. §-ával megállapított szöveg.
