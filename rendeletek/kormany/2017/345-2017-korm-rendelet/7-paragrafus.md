@@ -1,1 +1,0 @@
-## 2. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartozó munkáltatóknál működő szakszervezetek reprezentativitásának megállapításáról szóló 24/2011. (III. 9.) Korm. rendelet módosítása
