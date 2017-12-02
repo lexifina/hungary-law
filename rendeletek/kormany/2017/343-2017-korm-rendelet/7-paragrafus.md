@@ -1,1 +1,3 @@
-## 6. § A VET Vhr. 1. számú melléklete a 2. melléklet szerint módosul.
+## 6. §[^4]
+
+[^4]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
