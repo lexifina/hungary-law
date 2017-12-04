@@ -22,10 +22,10 @@ Határidő: 2017. január 31.
 
 Felelős: honvédelmi miniszter
 
-Határidő: azonnal
+Határidő: 2017. december 31.
 
 A pályázat elbírálása tekintetében
 
 Felelős: honvédelmi miniszter
 
-Határidő: 2016. november 10.
+Határidő: folyamatos
