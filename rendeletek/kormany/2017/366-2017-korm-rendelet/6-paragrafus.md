@@ -1,0 +1,3 @@
+## 5. § A 44/2016. (III. 10.) Korm. rendelet 26. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) A kedvezményezett a támogatási kérelem benyújtásával egyidejűleg, a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani.”
