@@ -38,6 +38,8 @@ f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz
 
 13. szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja a 20 millió eurónak megfelelő forintösszeget,
 
-14. a kultúrát és a kulturális örökség megőrzését előmozdító támogatás esetén projektenként meghaladja a 100 millió eurónak megfelelő forintösszeget,
+14.[^22] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 150 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja a 75 millió eurónak megfelelő forintösszeget,
 
 15. helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 10 millió eurónak megfelelő forintösszeget vagy a 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
+
+[^22]: A 23. § 14. pontja a 366/2017. (XII. 5.) Korm. rendelet 3. §-ával megállapított szöveg.

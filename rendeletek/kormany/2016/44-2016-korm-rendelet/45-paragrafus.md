@@ -24,6 +24,8 @@ c) a képzési projekthez kapcsolódó tanácsadás költsége,
 
 d) a képzésben résztvevők személyi jellegű ráfordításai és az általános közvetett költségek (pl. adminisztrációs költségek, bérleti díj, rezsi költségek) azokra az órákra vonatkozóan, amikor a képzésben résztvevők részt vesznek a képzésen,
 
-e) a képzésben résztvevő megváltozott munkaképességű munkavállalók minimálisan szükséges szállásköltsége.
+e)[^27] az oktatóknak és a képzés résztvevőinek a közvetlenül a képzési projekthez kapcsolódó szállásköltsége.
 
 (5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
+
+[^27]: A 45. § (4) bekezdés e) pontja a 366/2017. (XII. 5.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.

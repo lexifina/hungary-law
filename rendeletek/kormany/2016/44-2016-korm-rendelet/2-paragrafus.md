@@ -12,7 +12,19 @@
 
 4. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
 
+4a.[^1] áttelepítés: ha
+
+a) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó azonos vagy hasonló tevékenységet vagy annak egy részét az EGT megállapodás egyik szerződő felének területén található létesítményből (a továbbiakban: eredeti létesítmény) az EGT megállapodás egy másik szerződő felének területén található azon létesítménybe helyezi át, ahol a támogatott beruházásra sor kerül (a továbbiakban: támogatott létesítmény),
+
+b) az eredeti, valamint a támogatott létesítményben előállított termék vagy nyújtott szolgáltatás legalább részben ugyanazokat a célokat szolgálja és ugyanazon fogyasztói típus keresletét vagy igényeit elégíti ki, és
+
+c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó vállalkozás valamely, az EGT-n belüli eredeti létesítményében folytatott azonos vagy hasonló tevékenység körében munkahelyek szűnnek meg,
+
 5. azonos vagy hasonló tevékenység: a 651/2014/EU bizottsági rendelet 2. cikk 50. pontja szerinti tevékenység,
+
+5a.[^2] belvízi hajó: a 651/2014/EU bizottsági rendelet 2. cikk 164. pontja szerinti jármű,
+
+5b.[^3] belvízi kikötő: olyan vízi és szárazföldi részből álló terület, amely infrastruktúrája és berendezései révén lehetővé teszi belvízi hajók fogadását, azok ki- és berakodását, az áruk tárolását, fogadását és feladását, illetve az utasok, a legénység és egyéb személyek fel- és leszállását, beleértve minden egyéb olyan infrastruktúrát is, amelyre a kikötőben a közlekedési vállalkozóknak szükségük van,
 
 6. bérköltség: a 651/2014/EU bizottsági rendelet 2. cikk 31. pontja szerinti költség,
 
@@ -66,11 +78,17 @@
 
 31. kezességvállalás: a 651/2014/EU bizottsági rendelet 2. cikk 67. pontja szerinti kötelezettségvállalás,
 
+31a.[^4] kikötői felépítmény: a 651/2014/EU bizottsági rendelet 2. cikk 158. pontja szerinti felépítmény,
+
+31b.[^5] kikötői infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 157. pontja szerinti infrastruktúra,
+
 32. kirendelés: a 651/2014/EU bizottsági rendelet 2. cikk 98. pontja szerinti alkalmazás,
 
 33. kísérleti fejlesztés: a 651/2014/EU bizottsági rendelet 2. cikk 86. pontja szerinti fejlesztés,
 
 34. kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerint meghatározott vállalkozás,
+
+34a.[^6] kotrás: a 651/2014/EU bizottsági rendelet 2. cikk 160. pontja szerinti tevékenység,
 
 35. környezetvédelem: a 651/2014/EU bizottsági rendelet 2. cikk 101. pontja szerinti tevékenység,
 
@@ -96,7 +114,7 @@
 
 46. mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti tevékenység,
 
-47. működési eredmény: a beruházásnak az Sztv. 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételek és diszkontált működési költségek (pl. személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek) közötti pozitív előjelű különbség,
+47.[^7] működési eredmény: a beruházásnak az Sztv. 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételei, csökkentve a diszkontált működési költségekkel (pl. személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és finanszírozási költséget, amelyet beruházási támogatásból már fedeztek), és – a támogatást nyújtó döntése alapján – a diszkontált ésszerű nyereséggel, ha a számítás végeredménye pozitív, ellenkező esetben a működési eredmény nulla,
 
 48. nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
@@ -139,3 +157,11 @@
 67. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek,
 
 68. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány.
+
+[^1]: A 2. § 4a. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^2]: A 2. § 5a. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^3]: A 2. § 5b. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § 31a. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^5]: A 2. § 31b. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^6]: A 2. § 34a. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^7]: A 2. § 47. pontja a 366/2017. (XII. 5.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.

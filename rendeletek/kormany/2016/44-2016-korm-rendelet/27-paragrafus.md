@@ -14,4 +14,6 @@ f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú 
 
 g) az 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz,
 
-h) ha a kérelmet benyújtó beruházó, vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó a támogatási kérelem benyújtását megelőző két évben a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntetett meg az EGT területén, vagy a támogatási kérelem benyújtásakor tervezi, hogy a támogatási kérelem benyújtásától a beruházás befejezésétől számított második év végéig a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntet meg az EGT területén.
+h)[^26]
+
+[^26]: A 27. § h) pontját a 366/2017. (XII. 5.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
