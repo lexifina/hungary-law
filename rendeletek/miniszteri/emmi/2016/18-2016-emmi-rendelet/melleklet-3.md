@@ -3176,7 +3176,7 @@
 
 ## A szakmai gyakorlat a képzés negyedik félévében a felsőoktatási intézményben, illetve annak gyakorlati képzést biztosító szervezeti egységében, valamint a felsőoktatási intézmény által alapított gazdálkodó szervezetnél, továbbá egyesületnél, alapítványnál, költségvetési szervnél, önkormányzatnál és egyéb gazdálkodó szervezetnél végzett gyakorlat.
 
-3. melléklet a 18/2016. (VIII. 5.) EMMI rendelethez
+3. melléklet a 18/2016. (VIII. 5.) EMMI rendelethez[^15]
 
 AZ ALAPKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
@@ -5971,3 +5971,5 @@ b) képességei
 - Képes közérthetően kommunikálni perzsa nyelven mind szóban, mind írásban.
 
 - Képes műfajilag sokszínű perzsa nyelvű szövegeket és kulturális jelenségeket értelmezni.
+
+[^15]: A 3. melléklet a 31/2017. (XII. 5.) EMMI rendelet 1. §-a szerint módosított szöveg.
