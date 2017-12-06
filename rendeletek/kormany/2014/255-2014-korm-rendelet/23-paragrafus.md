@@ -56,12 +56,28 @@ f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz
 
 22. energetikai célú infrastruktúrához nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
-23.[^142] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 100 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja az 50 millió eurónak megfelelő forintösszeget,
+23.[^165] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 150 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja az 75 millió eurónak megfelelő forintösszeget,
 
-24. sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 15 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja az 50 millió eurónak megfelelő forintösszeget,
+24.[^166] sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 30 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget,
+
+24a.[^167] sportlétesítményekre nyújtott működési támogatás esetén létesítményenként évente meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
 25. helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 10 millió eurónak megfelelő forintösszeget vagy a 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
 
 (2) A szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt teljes költsége meghaladja a 70 millió eurónak megfelelő forintösszeget.
 
-[^142]: A 23. § (1) bekezdés 23. pontja a 305/2016. (X. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+(3)[^168] A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt elszámolható költsége meghaladja
+
+a) a 40 millió eurónak vagy
+
+b) – a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról és a 661/2010/EU határozat hatályon kívül helyezéséről szóló, 2013. december 11-i 1315/2013/EU európai parlamenti és tanácsi rendelet 47. cikkében meghatározott munkatervben szereplő belvízi kikötő esetén – az 50 millió eurónak
+
+## megfelelő forintösszeget. Ha a projekt kotrást is tartalmaz, jelen bekezdés alkalmazásában az adott belvízi kikötőben egy naptári éven belül végrehajtott összes kotrási tevékenység tekintendő a projekt részének.
+
+(4)[^169] A regionális városfejlesztési támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a városfejlesztési projektnek biztosított teljes beruházás meghaladja a 20 millió eurónak megfelelő forintösszeget.
+
+[^165]: A 23. § (1) bekezdés 23. pontja a 305/2016. (X. 13.) Korm. rendelet 5. §-ával megállapított, a 365/2017. (XII. 5.) Korm. rendelet 20. § 6. pontja szerint módosított szöveg.
+[^166]: A 23. § (1) bekezdés 24. pontja a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^167]: A 23. § (1) bekezdés 24a. pontját a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^168]: A 23. § (3) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^169]: A 23. § (4) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.

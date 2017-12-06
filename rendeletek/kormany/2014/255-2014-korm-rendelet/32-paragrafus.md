@@ -1,12 +1,12 @@
-## 31. §[^155] Kutatási infrastruktúra fejlesztéséhez akkor nyújtható támogatás, ha az infrastruktúrához való hozzáférést több felhasználó számára átlátható és megkülönböztetés-mentes módon biztosítják.
+## 31. §[^184] Kutatási infrastruktúra fejlesztéséhez akkor nyújtható támogatás, ha az infrastruktúrához való hozzáférést több felhasználó számára átlátható és megkülönböztetés-mentes módon biztosítják.
 
 32. § (1) A támogatás szélessávú infrastruktúra kiépítéséhez abban az esetben nyújtható, ha a beruházást olyan területen valósítják meg, ahol nincs azonos kategóriájú infrastruktúra (pl. szélessávú alaphálózat, újgenerációs hozzáférési hálózat) és ahol a piaci szereplő – egy ebből a célból meghirdetett nyilvános konzultáció keretében – nyilatkozik, hogy a támogatási döntés meghozatalától számított három éven belül piaci feltételek mellett nem tervez azonos kategóriájú infrastruktúrát kiépíteni.
 
 (2) A hálózat üzemeltetője tisztességes és megkülönböztetés-mentes feltételek mellett a lehető legszélesebb körű aktív és passzív nagykereskedelmi hozzáférést köteles biztosítani a támogatott infrastruktúrához.
 
-(3)[^156] A hálózat üzemeltetője a nagykereskedelmi hozzáférést az újgenerációs elérési hálózat esetén fizikai átengedés révén köteles biztosítani.
+(3)[^185] A hálózat üzemeltetője a nagykereskedelmi hozzáférést az újgenerációs elérési hálózat esetén fizikai átengedés révén köteles biztosítani.
 
 (4) A kedvezményezettről és a támogatás összegéről a támogatást nyújtó nyílt, átlátható, megkülönböztetés-mentes és a technológia-semlegesség elvén alapuló pályáztatás alapján köteles dönteni.
 
-[^155]: A 31. § a 271/2015. (IX. 18.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^156]: A 32. § (3) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 21. § 64. pontja szerint módosított szöveg.
+[^184]: A 31. § a 271/2015. (IX. 18.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^185]: A 32. § (3) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 21. § 64. pontja szerint módosított szöveg.

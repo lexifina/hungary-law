@@ -1,4 +1,4 @@
-## 54. [^182] A mezőgazdasági termékkel kapcsolatos promóciós intézkedéshez nyújtott támogatás
+## 54. [^226] A mezőgazdasági termékkel kapcsolatos promóciós intézkedéshez nyújtott támogatás
 
 103/E. § (1) A mezőgazdasági termékkel kapcsolatos promóciós intézkedéshez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) a promóciós intézkedés végrehajtója számára természetben vagy a kedvezményezettnél ténylegesen felmerült költség visszatérítéseként nyújtható.
 
@@ -26,4 +26,4 @@ b) a 103/B. § (4) és (5) bekezdése szerinti minőségrendszer hatálya alá t
 
 (5) A támogatásnak – objektív módon meghatározott feltételek alapján – az érintett területen működő valamennyi támogatható vállalkozás számára hozzáférhetőnek kell lennie.
 
-[^182]: Az 54. alcímet (103/E. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^226]: Az 54. alcímet (103/E. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.

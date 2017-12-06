@@ -1,4 +1,4 @@
-## 57. [^185] Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás
+## 57. [^229] Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás
 
 103/H. § (1) Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében
 
@@ -16,7 +16,7 @@ f) tűzvédelmi pászták fenntartási költsége
 
 ## számolható el.
 
-(2)[^186] Támogatás a 702/2014/EU bizottsági rendelet 34. cikk (1) bekezdése szerinti kedvezményezett részére nyújtható.
+(2)[^230] Támogatás a 702/2014/EU bizottsági rendelet 34. cikk (1) bekezdése szerinti kedvezményezett részére nyújtható.
 
 (3) A támogatási összeg egységköltség alapján kerül meghatározásra.
 
@@ -32,5 +32,5 @@ b) az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlí
 
 (7) A növénykárosító által okozott erdőkár megelőzéséhez nyújtott támogatás esetén a növénykárosítóval való fertőzöttség bekövetkezésének kockázatát igazolni szükséges.
 
-[^185]: Az 57. alcímet (103/H. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
-[^186]: A 103/H. § (2) bekezdése a 409/2016. (XII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^229]: Az 57. alcímet (103/H. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^230]: A 103/H. § (2) bekezdése a 409/2016. (XII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.

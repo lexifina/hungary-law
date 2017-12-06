@@ -1,4 +1,4 @@
-91. § (1) Beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költség és a beruházás megvalósításából származó működési eredmény közötti különbséget azzal, hogy az infrastruktúra üzemeltetője – a támogatást nyújtó döntésétől függően – jogosult ésszerű nyereséget szerezni.
+91. § (1)[^204] Beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költség és a beruházás megvalósításából származó működési eredmény közötti különbséget.
 
 (2) A működési eredmény mértékét
 
@@ -19,3 +19,5 @@ c) a tárgyi és szellemi kulturális örökség védelmének, megőrzésének, 
 d) a közönség kulturális örökséghez való hozzáférésének javítását szolgáló intézkedések költsége (pl. a digitalizálással és egyéb új technológiákkal, a speciális szükségletű személyek hozzáférési lehetőségeinek javításával kapcsolatos, valamint a prezentációk, programok és látogatók tekintetében a kulturális sokszínűség elősegítésével kapcsolatos költség),
 
 e) a kulturális projektek és tevékenységek, együttműködési és csereprogramok, valamint ösztöndíjak költsége (pl. a kiválasztási eljárással kapcsolatos marketing és a projekt eredményeként közvetlenül felmerülő költség).
+
+[^204]: A 91. § (1) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.

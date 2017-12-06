@@ -1,5 +1,3 @@
-## kell levonni az elszámolható költségekből.
-
 ## 46. A csekély összegű támogatás
 
 100. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
@@ -8,7 +6,7 @@
 
 (3) Az 1407/2013/EU bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1407/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
-(4)[^168] Hitel vagy kezességvállalás formájában nyújtott támogatás esetén – az 1407/2013/EU bizottsági rendelet 4. cikk (3) bekezdés a) pontja szerinti esetben – nem lehet kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne vonható, valamint az a nagyvállalkozás, amely B-hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
+(4)[^210] Hitel vagy kezességvállalás formájában nyújtott támogatás esetén – az 1407/2013/EU bizottsági rendelet 4. cikk (3) bekezdés a) pontja szerinti esetben – nem lehet kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne vonható, valamint az a nagyvállalkozás, amely B-hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
 
 (5) Nem nyújtható támogatás a közúti kereskedelmi árufuvarozást ellenszolgáltatásért végző vállalkozás részére teherszállító jármű vásárlására.
 
@@ -18,4 +16,4 @@
 
 (8) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
-[^168]: A 100. § (4) bekezdése a 127/2016. (VI. 7.) Korm. rendelet 17. § 26. pontja, a 305/2016. (X. 13.) Korm. rendelet 18. § 10. pontja szerint módosított szöveg.
+[^210]: A 100. § (4) bekezdése a 127/2016. (VI. 7.) Korm. rendelet 17. § 26. pontja, a 305/2016. (X. 13.) Korm. rendelet 18. § 10. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 42. § Az induló vállalkozásnak nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) azon tőzsdén nem jegyzett kisvállalkozás részére nyújtható, amely legfeljebb öt éve került bejegyzésre, nem összefonódás útján jött létre és még nem osztott fel nyereséget. Azon vállalkozás esetén, amely nem kerül hivatalos bejegyzésre, az öt éves periódus kezdete a gazdasági tevékenység megkezdésének az időpontja vagy a gazdasági tevékenységre vonatkozó adófizetés kezdő időpontja.
+## 42. §[^193] Az induló vállalkozásnak nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) azon tőzsdén nem jegyzett kisvállalkozás részére nyújtható, amely legfeljebb öt éve került bejegyzésre, nem összefonódás útján jött létre, nem egy másik vállalkozás tevékenységét vette át és még nem osztott fel nyereséget. Azon vállalkozás esetén, amely nem kerül hivatalos bejegyzésre, az öt éves periódus kezdete a gazdasági tevékenység megkezdésének az időpontja vagy a gazdasági tevékenységre vonatkozó adófizetés kezdő időpontja.
 
 43. § (1) Ha a támogatás formája nem piaci kamatozású, legfeljebb tízéves futamidőre nyújtott hitel, annak névértéke nem haladhatja meg
 
@@ -9,3 +9,5 @@ b) az Atr. 25. § (1) bekezdés d) pontja szerinti településen letelepedett v�
 c) az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban letelepedett vállalkozás esetén a 2 millió eurót.
 
 (2) Az 5 és 10 év közötti futamidővel rendelkező hitel esetén a névérték legmagasabb összege az (1) bekezdésben meghatározott összeg, valamint a 10 év és a hitel tényleges futamideje hányadosának szorzataként határozható meg. Az 5 évnél rövidebb futamidejű hitel esetén a legmagasabb összeg megegyezik az 5 éves futamidejű hitelre vonatkozó legmagasabb összeggel.
+
+[^193]: A 42. § a 365/2017. (XII. 5.) Korm. rendelet 20. § 10. pontja szerint módosított szöveg.

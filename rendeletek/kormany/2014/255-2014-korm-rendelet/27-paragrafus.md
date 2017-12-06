@@ -12,9 +12,9 @@ e) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belví
 
 f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
 
-g)[^148]
+g)[^177]
 
-h)[^149] ha a kérelmet benyújtó beruházó, vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó a támogatási kérelem benyújtását megelőző két évben a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntetett meg az EGT területén, vagy a támogatási kérelem benyújtásakor tervezi, hogy a támogatási kérelem benyújtásától a beruházás befejezésétől számított második év végéig a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntet meg az EGT területén.
+h)[^178]
 
-[^148]: A 27. § g) pontját a 305/2016. (X. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
-[^149]: A 27. § h) pontja a 271/2015. (IX. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^177]: A 27. § g) pontját a 305/2016. (X. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^178]: A 27. § h) pontját a 365/2017. (XII. 5.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.

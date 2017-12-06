@@ -1,6 +1,6 @@
 ## megvalósításának támogatása.
 
-## 17/C. §[^127] Ha a 17/B. § szerinti célra nyújtott támogatás állami támogatásnak minősül, a 17/B. §
+## 17/C. §[^145] Ha a 17/B. § szerinti célra nyújtott támogatás állami támogatásnak minősül, a 17/B. §
 
 1. 1. pontja alapján tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás,
 
@@ -20,7 +20,7 @@
 
 9. 5. pont b) alpontja alapján az induló vállalkozás által vidéki térségben folytatott nem mezőgazdasági tevékenységhez nyújtott támogatás,
 
-10. 1., 5., 6. pontja, 7. pont d) és f) alpontja, 11. és 12. pontja alapján csekély összegű támogatás,
+10.[^146] 1–12. pontja alapján csekély összegű támogatás,
 
 11. 6. pontja alapján a kultúrát és a kulturális örökség megőrzését előmozdító támogatás,
 
@@ -40,7 +40,7 @@
 
 19. 7. pont f) alpontja alapján erdőtelepítéshez és fásításhoz nyújtott támogatás,
 
-20. 8. pontja alapján általános csekély összegű támogatás,
+20.[^147] 6. pont b) alpontja alapján mezőgazdasági csekély összegű támogatás,
 
 21. 9. pontja alapján a Natura 2000 erdőterülethez kapcsolódó hátrányok leküzdéséhez nyújtott támogatás,
 
@@ -54,6 +54,11 @@
 
 26. 2. pontja alapján a vidéki térségekben működő kkv-k számára tanácsadási szolgáltatásokhoz nyújtott támogatás,
 
-27. 6. pont b) alpontja alapján közszolgáltatás ellentételezésére nyújtott támogatás
+27. 6. pont b) alpontja alapján közszolgáltatás ellentételezésére nyújtott támogatás,
 
-[^127]: A 17/C. § a 305/2016. (X. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+28.[^148] 4. pontja alapján a mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás
+
+[^145]: A 17/C. § a 305/2016. (X. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^146]: A 17/C. § 10. pontja a 365/2017. (XII. 5.) Korm. rendelet 20. § 2. pontja szerint módosított szöveg.
+[^147]: A 17/C. § 20. pontja a 365/2017. (XII. 5.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. [Ugyanezen módosító rendelet 20. § 3. pontjával elrendelt módosítás, amely szerint a „8.” szövegrész helyébe a „2–4., 6. pontja, 7. pont a)–c), e) és g) alpontja, valamint 8–10.” szöveg, az „általános” szövegrész helyébe a „mezőgazdasági” szöveg lép, nem vezethető át.]
+[^148]: A 17/C. § 28. pontját a 365/2017. (XII. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be.
