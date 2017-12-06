@@ -1,1 +1,0 @@
-A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 342. §-a (2) bekezdésének i) pontjában kapott felhatalmazás alapján a szociális és kegyeleti gondoskodás rendjének szabályozására a következőket rendelem el:
