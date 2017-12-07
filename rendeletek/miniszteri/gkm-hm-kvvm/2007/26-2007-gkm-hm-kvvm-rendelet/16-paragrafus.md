@@ -1,6 +1,6 @@
 ## Az eseti légtér igénybevétele
 
-16. §[^38] (1) Az eseti légtér igénybevételének megkezdését – a határozatban engedélyezett kezdő időpontja, illetve a b) pont esetében a szüneteltetés időpontja előtt legalább 30 perccel – a 15/A. § (2) bekezdés f) pontjában meghatározott személy köteles a Budapest ATS Központnak megadni a következő információkkal:
+16. §[^39] (1) Az eseti légtér igénybevételének megkezdését – a határozatban engedélyezett kezdő időpontja, illetve a b) pont esetében a szüneteltetés időpontja előtt legalább 30 perccel – a 15/A. § (2) bekezdés f) pontjában meghatározott személy köteles a Budapest ATS Központnak megadni a következő információkkal:
 
 a) az igénybevétel valós kezdésének időpontja (a továbbiakban: aktiválás), és a tervezett befejezés időpontja,
 
@@ -28,11 +28,11 @@ b) a határozatban engedélyezett időponton vagy ha az (1) bekezdés d) pontja 
 
 (5) Az eseti légtér a 15/A. § (2) bekezdés f) pontjában meghatározott légtérigénylő hozzájárulásával vehető igénybe.
 
-(6)[^39] Az eseti légtérben üzemelő légijármű legfeljebb 500 láb (150 m) távolságra közelítheti meg
+(6)[^40] Az eseti légtérben üzemelő légijármű legfeljebb 500 láb (150 m) távolságra közelítheti meg
 
 a) az ellenőrzött légtérben kijelölt eseti légtér felső magasságát,
 
 b) az eseti légtér alsó határát, ha az nem a földfelszín, és az eseti légteret olyan ellenőrzött légtérben jelölték ki, amelynek alsó határa nem a földfelszín.
 
-[^38]: A 16. § az 56/2011. (XI. 8.) NFM rendelet 4. §-ával megállapított szöveg.
-[^39]: A 16. § (6) bekezdését a 15/2014. (IV. 3.) NFM rendelet 8. §-a iktatta be, szövege a 25/2017. (VI. 30.) NFM rendelet 7. §-ával megállapított szöveg.
+[^39]: A 16. § az 56/2011. (XI. 8.) NFM rendelet 4. §-ával megállapított szöveg.
+[^40]: A 16. § (6) bekezdését a 15/2014. (IV. 3.) NFM rendelet 8. §-a iktatta be, szövege a 25/2017. (VI. 30.) NFM rendelet 7. §-ával megállapított szöveg.

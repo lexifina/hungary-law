@@ -1,4 +1,4 @@
-## 1/H. §[^13] Az 1/G. §-ban és a 3/A. § (4) bekezdésében meghatározott tájékoztatás alapján az NLKM az 1/F. §-ban meghatározott felülvizsgálati eljárástól függetlenül felülvizsgálja az érintett légtér működését. Ennek során a felülvizsgálatra vonatkozó szabályok szerint jár el.
+## 1/H. §[^14] Az 1/G. §-ban és a 3/A. § (4) bekezdésében meghatározott tájékoztatás alapján az NLKM az 1/F. §-ban meghatározott felülvizsgálati eljárástól függetlenül felülvizsgálja az érintett légtér működését. Ennek során a felülvizsgálatra vonatkozó szabályok szerint jár el.
 
 ## A légiforgalmi légtér
 
@@ -18,4 +18,4 @@ d) közös felhasználású légtér (RCA/PCA).
 
 (4) A légiforgalmi légtérben a nyújtott légiforgalmi szolgáltatást és a repülési szabályokat az 1. melléklet tartalmazza.
 
-[^13]: Az 1/H. §-t a 25/2017. (VI. 30.) NFM rendelet 3. §-a iktatta be.
+[^14]: Az 1/H. §-t a 25/2017. (VI. 30.) NFM rendelet 3. §-a iktatta be.

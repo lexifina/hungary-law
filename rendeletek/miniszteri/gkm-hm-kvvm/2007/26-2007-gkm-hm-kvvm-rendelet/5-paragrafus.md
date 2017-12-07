@@ -1,6 +1,6 @@
 ## A korlátozott légtér
 
-5. §[^17] (1) A 3. mellékletben meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtér igénybevételére a légiközlekedési hatóság – a 6. § (4) bekezdés b) pont bf) alpontjában meghatározott eset kivételével – a légiközlekedésről szóló 1995. évi XCVII. törvény 22. §-a szerinti engedéllyel rendelkező szervezetnek adhat engedélyt.
+5. §[^18] (1) A 3. mellékletben meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtér igénybevételére a légiközlekedési hatóság – a 6. § (4) bekezdés b) pont bf) alpontjában meghatározott eset kivételével – a légiközlekedésről szóló 1995. évi XCVII. törvény 22. §-a szerinti engedéllyel rendelkező szervezetnek adhat engedélyt.
 
 (2) A korlátozott légtér igénybevétele iránti kérelemnek – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túl – tartalmaznia kell:
 
@@ -22,4 +22,4 @@ e) környezetvédelmi szempontból korlátozott légtér esetében az a)–d) po
 
 (6) A korlátozott légtérben végrehajtott repülésekre – a korlátozást figyelembe véve – azon légiforgalmi és repülési szabályokat, eljárásokat kell alkalmazni, amelyek a vele közös részt alkotó légiforgalmi légtérre vagy időszakosan korlátozott légtérre vonatkoznak.
 
-[^17]: Az 5. § az 56/2011. (XI. 8.) NFM rendelet 2. §-ával megállapított szöveg.
+[^18]: Az 5. § az 56/2011. (XI. 8.) NFM rendelet 2. §-ával megállapított szöveg.
