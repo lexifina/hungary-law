@@ -1,5 +1,5 @@
 ## hatálya alá tartozó támogatást tartalmaz.
 
-1. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^181]
+1. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^178]
 
-[^181]: Az 1. melléklet a 96/2016. (V. 2.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^178]: Az 1. melléklet a 96/2016. (V. 2.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
