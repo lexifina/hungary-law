@@ -28,25 +28,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:237 mezőjében a „4,41” szövegrész helyébe az „5,16” szöveg,
-
-## b) E:237 mezőjében a „0,33” szövegrész helyébe a „0,37” szöveg,
-
-## c) D:306 mezőjében a „2,95” szövegrész helyébe az „5,02” szöveg,
-
-## d) E:306 mezőjében a „0,32” szövegrész helyébe a „0,53” szöveg,
-
-## e) D:309 mezőjében a „6,12” szövegrész helyébe a „7,92” szöveg,
-
-## f) E:309 mezőjében a „0,38” szövegrész helyébe a „0,46” szöveg,
-
-## g) D:322 mezőjében a „2,43” szövegrész helyébe a „4,12” szöveg,
-
-## h) E:322 mezőjében a „0,15” szövegrész helyébe a „0,25” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1901/2017. (XII. 5.) Korm. határozathoz
 
@@ -61,3 +43,5 @@
 | 4. | KEHOP-2.2.2- 15-2016-00050 | Északkelet- Magyarországi szennyvízelvezetési és -kezelési fejlesztés 4. (ÉKMO 4) | Tiszadada Község Önkormányzata, Fehérgyarmat Város Önkormányzata, Konyár Község Önkormányzata és Tiszacsege Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 2 934 281 533 | 2 085 683 834 | 522 278 687 | 5 019 965 367 | A projekt Konyár településen új telep létesítésére, továbbá Fehérgyarmat, Tiszadada, Tiszacsege településeken a meglévő szennyvíztisztító telepek fejlesztésére, valamint Konyár és Tiszadada településeken szállítóvezeték építésére, továbbá Konyár, Tiszadada és Tiszacsege településeken csatornahálózat építésére irányul. |
 
 | 5. | KEHOP-2.2.4- 15-2016-00005 | Szennyvízelvezetés és -tisztítás fejlesztése Ózd városában | Ózd Város Önkormányzata a 339/2014. (XII. 19) Korm. rendelet szerint | 2 428 996 098 | 1 684 905 151 | 243 242 610 | 4 113 901 249 | A projekt keretében Ózd városában a meglévő szennyvíztisztító telepet fejlesztik, és a csatornahálózatot bővítik. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
