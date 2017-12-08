@@ -1,0 +1,3 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Vác közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 1899/7, 1899/18, 1899/19 és 1899/20 helyrajzi számú ingatlanokon, illetve az ezekből az ingatlanokból telekalakítási eljárások jogerős befejezését követően kialakított ingatlanokon megvalósuló, a váci multifunkcionális sport- és rendezvénycsarnok beruházás megvalósításával (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek.
