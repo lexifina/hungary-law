@@ -1,6 +1,6 @@
-## 8. §[^29]
+## 8. §[^32]
 
-1. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^30]
+1. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^33]
 
 1. Egyes országos közúti közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
@@ -902,5 +902,21 @@
 
 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-[^29]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: Az 1. melléklet a 490/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 1. §-a szerint módosított szöveg.
+6. Egyes helyi érdekeltségű keskeny nyomközű kötöttpályás projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
+
+6.1. MÁV Zrt. Széchenyi-hegyi Gyermekvasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+6.2. GYSEV Zrt. Nagycenki Széchenyi Múzeumvasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+6.3. Debreceni Zsuzsi Erdei Vasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+6.4. Lillafüredi Állami Erdei Vasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+6.5. Gyöngyösi Állami Erdei Vasút (Mátravasút) pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+6.6. Királyréti Állami Erdei Vasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+6.7. Kemencei Erdei Múzeumvasút (meglévő szakasz felújítás és Csarna-völgyi újjáépítés), pályafelújítás, valamint gördülőállomány felújítása és fejlesztése.
+
+[^32]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: Az 1. melléklet a 490/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 1. §-a, a 368/2017. (XII. 7.) Korm. rendelet 3. §-a szerint módosított szöveg.

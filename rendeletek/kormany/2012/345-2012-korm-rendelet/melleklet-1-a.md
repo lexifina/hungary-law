@@ -1,4 +1,4 @@
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^31]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^34]
 
 ## A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások listája
 
@@ -490,4 +490,20 @@
 
 4.5. Vízi úti információs rendszer kiépítése.
 
-[^31]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 490/2016. (XII. 28.) Korm. rendelet 2. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 2. §-a szerint módosított szöveg.
+5. Keskeny nyomközű vasúti közlekedési projektek
+
+5.1. MÁV Zrt. Széchenyi-hegyi Gyermekvasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+5.2. GYSEV Zrt. Nagycenki Széchenyi Múzeumvasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+5.3. Debreceni Zsuzsi Erdei Vasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+5.4. Lillafüredi Állami Erdei Vasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+5.5. Gyöngyösi Állami Erdei Vasút (Mátravasút) pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+5.6. Királyréti Állami Erdei Vasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
+
+5.7. Kemencei Erdei Múzeumvasút (meglévő szakasz felújítás és Csarna-völgyi újjáépítés), pályafelújítás, valamint gördülőállomány felújítása és fejlesztése.
+
+[^34]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 490/2016. (XII. 28.) Korm. rendelet 2. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 2. §-a, a 368/2017. (XII. 7.) Korm. rendelet 4. §-a szerint módosított szöveg.
