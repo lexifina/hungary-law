@@ -36,7 +36,7 @@
 
 ## 6. jóváhagyja, hogy a Nemzeti Sportközpontok által a 4. pont szerint biztosított előirányzatok terhére, illetve az 5. pont szerinti felhatalmazás alapján lefolytatásra kerülő beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
-1. melléklet az 1281/2017. (VI. 2. ) Korm. határozathoz
+1. melléklet az 1281/2017. (VI. 2. ) Korm. határozathoz[^1]
 
 | Sorszám | Település | Fejlesztés |
 
@@ -62,7 +62,7 @@
 
 | 11. | Esztár | „A” típusú tornaterem-fejlesztés |
 
-| 12. | Pér | „A” típusú tornaterem-fejlesztés |
+| 12. | Felsőörs | „A” típusú tornaterem-fejlesztés |
 
 | 13. | Rum | „A” típusú tornaterem-fejlesztés |
 
@@ -72,7 +72,7 @@
 
 | 16. | Hajmáskér | „A” típusú tornaterem-fejlesztés |
 
-| 17. | Földeák | „A” típusú tornaterem-fejlesztés |
+| 17. | Földeák | „C” típusú tornaterem-fejlesztés |
 
 | 18. | Maroslele | „A” típusú tornaterem-fejlesztés |
 
@@ -169,3 +169,5 @@
 | 64. | Sződligeti Gárdonyi Géza Általános Iskola | tanteremfejlesztés |
 
 | 65. | Telki – Pipacsvirág Magyar–Angol Két Tanítási Nyelvű Általános Iskola | tanteremfejlesztés |
+
+[^1]: Az 1. melléklet az 1926/2017. (XII. 8.) Korm. határozattal megállapított szöveg.
