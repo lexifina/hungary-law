@@ -14,7 +14,7 @@
 
 ## Határidő: 2017. december 31.
 
-## 4. felhívja az európai uniós források felhasználásával kapcsolatos irányító hatósági és nemzeti hatósági feladatok ellátására kijelölt minisztereket, hogy gondoskodjanak az 1. melléklet szerinti, 2017. évi kifizetési munkaterv teljesítéséről az általuk kezelt programok vonatkozásában,
+## 4.[^1] felhívja az európai uniós források felhasználásával kapcsolatos irányító hatósági és nemzeti hatósági feladatok ellátására kijelölt minisztereket, hogy gondoskodjanak az 1. melléklet szerinti, 2017. évi kifizetési munkaterv teljesítéséről az általuk kezelt programok vonatkozásában, azzal, hogy az 1. mellékletben foglalt táblázat E:2 mezője szerinti mérték legfeljebb 2%-kal léphető túl,
 
 ## Felelős: emberi erőforrások minisztere
 
@@ -24,7 +24,7 @@
 
 ## nemzeti fejlesztési miniszter
 
-## Határidő: 2017. december 31.
+## Határidő: 2017. december 31., az 1. mellékletben foglalt táblázat 2. és 14. sora tekintetében 2018. január 31.
 
 ## 5. felhívja a Miniszterelnökséget vezető minisztert, hogy minden hónap 15. napjáig készítsen jelentést a Kormány számára a célok teljesítéséről, és – szükség esetén – tegyen javaslatot az elérendő célokhoz képest jelentkező elmaradás ledolgozását szolgáló intézkedések alkalmazására,
 
@@ -40,13 +40,17 @@
 
 ## c) a 2. és 3. pont teljesítésének elmaradása esetén a céljuttatás összegét 6 havi illetménynek, munkabérnek megfelelő összeggel csökkenteni szükséges,
 
-## d) a mérések időpontja június 30. és december 31.,
+## d)[^2] a mérések időpontja 2017. június 30. és
+
+## da) 2017. december 31.,
+
+## db) az 1. mellékletben foglalt táblázat E:2 és F:2, valamint E:14 és F:14 mezője tekintetében 2018. január 31.,
 
 ## e) a június 30-i mérési időpont vonatkozásában a céljuttatás összege legfeljebb 8 havi illetménynek, munkabérnek felelhet meg,
 
-## f) a minimum kifizetési célszámokat elérő vagy meghaladó, de 100%-ot el nem érő teljesítése esetén a kifizetendő céljuttatás legfeljebb az a) alpont szerint adható – szükség esetén a b) vagy c) alpont alapján csökkentett – legnagyobb céljuttatás fele lehet,
+## f)[^3] a minimum kifizetési célszámokat a d) pont da) vagy db) alpontja szerinti második mérési időpontig elérő vagy meghaladó, de 100%-ot el nem érő teljesítés esetén a kifizetendő céljuttatás legfeljebb az a) alpont szerint adható – szükség esetén a b) vagy c) alpont alapján csökkentett – legnagyobb céljuttatás fele lehet,
 
-## g) ha a kifizetési célszámok teljesítésének összege a második mérési időpontig nem éri el a 2064,1 milliárd forintot, akkor a második mérési időpontot követően céljuttatás nem fizethető ki,
+## g)[^4] ha a kifizetési célszámok teljesítésének összege a d) pont db) alpontja szerinti második mérési időpontig nem éri el a 2064,1 milliárd forintot, akkor a d) pont db) alpontja szerinti második mérési időpontot követően céljuttatás nem fizethető ki,
 
 ## h) a célfeladat mértéke az egyes programok szintjén az irányító hatóságok vonatkozásában egységes legyen, és a kifizetésre kerülő céljuttatás összege arányos legyen a munkatársak célokhoz történő hozzájárulásával,
 
@@ -136,13 +140,13 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1221/2017. (IV. 25.) Korm. határozathoz
+1. melléklet az 1221/2017. (IV. 25.) Korm. határozathoz[^5]
 
 A 2017. évre vonatkozó kifizetési munkaterv
 
 |  | A | B | C | D | E | F |
 
-| 1. | Program végrehajtásért felelős szaktárca | Program | Kifizetési terv 2017. június 30-ig (Mrd Ft) | Minimum kifizetési terv 2017. június 30-ig (Mrd Ft) | Kifizetési terv 2017. december 31-ig (Mrd Ft) | Minimum kifizetési terv 2017. december 31-ig (Mrd Ft) |
+| 1. | Program végrehajtásért felelős szaktárca | Program | Kifizetési terv 2017. június 30-ig (Mrd Ft) | Minimum kifizetési terv 2017. június 30-ig (Mrd Ft) | Kifizetési terv 2017. december 31-ig, a 2. és a 14. sor tekintetében 2018. január 31-ig (Mrd Ft) | Minimum kifizetési terv 2017. december 31-ig, a 2. és a 14. sor tekintetében 2018. január 31-ig (Mrd Ft) |
 
 | 2. | Emberi Erőforrások Minisztériuma | Emberi Erőforrás Fejlesztési Operatív Program | 80,5 | 64,4 | 244,0 | 195,2 |
 
@@ -169,3 +173,9 @@ A 2017. évre vonatkozó kifizetési munkaterv
 | 13. | Nemzetközi Együttműködési Programok | 6,6 | 5,3 | 19,9 | 15,9 |
 
 | 14. |  | Összesen | 891,0 | 681,1 | 2700,1 | 2064,1 |
+
+[^1]: A 4. pont az 1937/2017. (XII. 8.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 6. pont d) alpontja az 1937/2017. (XII. 8.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 6. pont f) alpontja az 1937/2017. (XII. 8.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^4]: A 6. pont g) alpontja az 1937/2017. (XII. 8.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^5]: Az 1. melléklet az 1937/2017. (XII. 8.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
