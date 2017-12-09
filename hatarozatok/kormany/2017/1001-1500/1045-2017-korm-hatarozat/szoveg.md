@@ -64,7 +64,9 @@ felelős miniszter által vezetett minisztérium képviseletében,
 
 c) a Magyar Művészeti Akadémia elnöke,
 
-d) a Központi Statisztikai Hivatal elnöke.
+d) a Központi Statisztikai Hivatal elnöke,
+
+e)[^1] a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter által delegált személy.
 
 8. A 7. pont b) alpontja szerinti tagokat a felelősségi körében érintett minisztériumot vezető miniszter jelöli ki. A 7. pont b) alpontja szerinti tagként az érintett minisztériummal állami vezetői szolgálati jogviszonyban vagy állami vezetőként betöltött jogviszonyban álló személy jelölhető ki.
 
@@ -93,3 +95,5 @@ b) a Magyar Önkormányzatok Szövetsége elnöke.
 18. A Bizottság munkájában részt vevők tevékenységükért tiszteletdíjban nem részesülnek.
 
 19. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
+
+[^1]: A 7. pont e) alpontját az 1935/2017. (XII. 8.) Korm. határozat 7. pontja iktatta be.
