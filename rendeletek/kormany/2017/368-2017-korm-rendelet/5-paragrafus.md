@@ -1,1 +1,3 @@
-## 4. § Az R. 1/a. melléklete a 2. melléklet szerint módosul.
+## 1–4. §[^1]
+
+[^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
