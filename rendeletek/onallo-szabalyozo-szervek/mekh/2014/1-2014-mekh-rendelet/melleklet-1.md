@@ -420,7 +420,7 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 114 | Jelentős piaci erővel rendelkező engedélyes számára előírt kapacitásaukció-tartási kötelezettség alapján, az aukción értékesítendő kapacitás mennyiségének, forrásösszetételének és az aukciós szabályzatnak a jóváhagyására irányuló kérelem elbírálása | 100 |
 
-| 115 | A megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet alapján kiadott, kötelező átvételi jogosultságot megállapító határozat módosítása |  |
+| 115 | A kötelező átvételre vagy prémium típusú támogatásra vonatkozó jogosultságot megállapító határozat módosítása |  |
 
 | 116 | a) egyéb állami támogatás változása vagy a helyrajzi szám telephely fizikai változatlansága melletti módosulása miatt | 10 |
 
@@ -738,4 +738,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^27]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § b) pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja szerint módosított szöveg.
