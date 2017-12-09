@@ -28,4 +28,6 @@ Felelős: megyei jogú városok fejlesztéséért felelős tárca nélküli mini
 
 Határidő: a támogatói okirat kiadásakor
 
-5. visszavonja a Modern Városok Program keretében tervezett székesfehérvári Középiskolai Campus kialakítása érdekében szükséges források biztosításáról szóló 1419/2016. (VII. 29.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
