@@ -1,0 +1,1 @@
+## 9. § Ha a nyilvántartási kérelem (hiánypótlás) megfelel a 8. § (1) bekezdése szerinti követelményeknek, a Hivatal a kérelmezőt nyilatkozata alapján korai fázisú vállalkozásként vagy korai fázisú vállalkozásokat támogató vállalkozásként a kérelem benyújtása napjától számított 10 napon belül nyilvántartásba veszi, a kérelem benyújtása napjára visszamenőleges hatállyal.
