@@ -1,0 +1,1 @@
+A Kormány a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 43. § (1) bekezdés e) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
