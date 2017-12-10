@@ -1,1 +1,0 @@
-Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (3) bekezdés 8. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rend. 90. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
