@@ -1,1 +1,3 @@
-21. § Hatályát veszti az egyes tevékenységek kutatás-fejlesztési szempontú minősítése iránti eljárás részletes szabályairól szóló 9/2012. (II. 1.) Korm. rendelet.
+21. §[^2]
+
+[^2]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

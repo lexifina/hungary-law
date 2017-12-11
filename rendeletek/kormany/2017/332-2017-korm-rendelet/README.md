@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-332-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-10 | 2017-332-20-22.1 | 332/2017. (XI. 9.) Korm. rendelet |
+| 2017-12-11 | 2017-332-20-22.2 | 2010: CXXX. törvény |
