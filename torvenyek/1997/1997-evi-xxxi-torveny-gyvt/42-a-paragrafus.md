@@ -2,7 +2,7 @@
 
 a) az óvodai nevelésre nem érett gyermek esetén a (2) bekezdésben meghatározott időpontig,
 
-b) a sajátos nevelési igényű gyermek esetén a (3) bekezdésben meghatározott időpontig,
+b) a a sajátos nevelési igényű gyermek, valamint a korai fejlesztésre és gondozásra jogosult gyermek esetén a (3) bekezdésben meghatározott időpontig,
 
 c) az a) és b) pont alá nem tartozó gyermek esetén, ha a harmadik életévét
 

@@ -14,7 +14,7 @@ e) az iskolai oktatásban részesülő tanuló számára az Nktv. szerinti köte
 
 f) az Nktv. rendelkezései szerint az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól felmentett gyermek számára.
 
-(2) A napközbeni gyermekfelügyelet keretében a sajátos nevelési igényű gyermekek számára szükségleteikhez igazodó ellátást kell nyújtani.
+(2) A napközbeni gyermekfelügyelet keretében a sajátos nevelési igényű gyermekek, valamint a korai fejlesztésre és gondozásra jogosult gyermekek számára szükségleteikhez igazodó ellátást kell nyújtani.
 
 (3) A napközbeni gyermekfelügyelet megszervezhető
 

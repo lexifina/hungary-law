@@ -48,7 +48,7 @@ q) fogyatékos gyermek, fiatal felnőtt:
 
 qa) a gyermekvédelmi pénzbeli és természetbeni ellátások tekintetében a külön jogszabályban meghatározott magasabb összegű családi pótlékra jogosító fogyatékosságban szenvedő gyermek, fiatal felnőtt,
 
-qb) a személyes gondoskodás keretébe tartozó gyermekjóléti alapellátások és gyermekvédelmi szakellátások, valamint az ingyenes és kedvezményes intézményi gyermekétkeztetés tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nktv.) 4. § 25. pontjában foglaltaknak megfelelő gyermek, fiatal felnőtt,
+qb) a személyes gondoskodás keretébe tartozó gyermekjóléti alapellátások és gyermekvédelmi szakellátások, valamint az ingyenes és kedvezményes intézményi gyermekétkeztetés tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nktv.) 4. § 25. pontjában foglaltaknak megfelelő gyermek, fiatal felnőtt, valamint a korai fejlesztésre és gondozásra jogosult gyermek,
 
 r) jövedelem: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. §-a (1) bekezdésének a) pontjában meghatározattak,
 

@@ -4,7 +4,7 @@
 
 (2) Bölcsődei ellátást biztosíthat a bölcsőde, a mini bölcsőde, a munkahelyi bölcsőde és a családi bölcsőde.
 
-(3) Bölcsődei ellátás keretében az Nktv. 4. § 25. pontja szerinti sajátos nevelési igényű gyermek (a továbbiakban: sajátos nevelési igényű gyermek) nevelése és gondozása is végezhető.
+(3) Bölcsődei ellátás keretében a sajátos nevelési igényű gyermek, valamint a korai fejlesztésre és gondozásra jogosult gyermek nevelése és gondozása is végezhető.
 
 (4) A bölcsődei ellátás keretében az (1) bekezdés szerinti ellátáson túl – szolgáltatásként – speciális tanácsadás, időszakos gyermekfelügyelet, gyermekhotel működtetése vagy más gyermeknevelést segítő szolgáltatás is biztosítható. Ezeket a szolgáltatásokat a gyermek hatodik életévének betöltéséig lehet igénybe venni.
 
