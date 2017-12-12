@@ -26,4 +26,12 @@ g) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastr
 
 h) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz megvalósításához szükséges területsávot vagy nyomvonalat.
 
+i) a közlekedési infrastruktúra-beruházással érintett közművek kiváltása során az eljáró hatóságot, a késedelmes vagy hibás, valamint a késedelmes és hibás kiváltása esetén alkalmazandó bírság mértékét, valamint a bírságolás során alkalmazandó szempontokat,
+
+j) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság, mint építtető által megvalósítandó intermodális csomópontok körét.
+
+k) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán kiváltásra vagy kiépítésre kerülő közművek elhelyezése érdekében a felszíni ingatlan korlátozására vonatkozó jogok tartalmával, engedélyezésével, megszűnésével és a kártalanítással kapcsolatos részletes szabályokat.
+
 (6) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó kormánymegbízottak felé, továbbá a koordinációs feladatokat ellátó kormánymegbízottak által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
+
+(7) E törvény alkalmazásában közterületnek minősül a közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló terület, amelyet rendeltetésének megfelelően bárki használhat, ideértve a közúti és gyalogos közlekedést szolgáló létesítményeket, a kikapcsolódás, a szórakozás, a sporttevékenység, a szabadidő-eltöltés biztosítását szolgáló területeket, a tereket és közparkokat, valamint a közművek elhelyezését szolgáló területet.
