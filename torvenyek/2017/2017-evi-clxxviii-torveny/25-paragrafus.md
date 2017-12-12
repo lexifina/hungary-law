@@ -1,0 +1,3 @@
+25. § A Cst. a következő 35/A. §-sal egészül ki:
+
+„35/A. § A Külszoltv. hatálya alá tartozó személy részére a külszolgálatra tekintettel az e törvény alapján ellátásra jogosító gyermek után bármilyen jogcímen járó ellátás, díj vagy támogatás megállapításáról valamint megszűnéséről a külpolitikáért felelős miniszter adatot szolgáltat a családtámogatási ügyben eljáró hatóság részére.”
