@@ -1,3 +1,0 @@
-## 25. A nemzetközi pénzügyi beszámolási standardok egyedi beszámolási célokra történő hazai alkalmazásának bevezetéséhez kapcsolódó, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CLXXVIII. törvény módosítása
-
-70. § A nemzetközi pénzügyi beszámolási standardok egyedi beszámolási célokra történő hazai alkalmazásának bevezetéséhez kapcsolódó, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CLXXVIII. törvény 37. §-ában a távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény 9. § (4) bekezdését megállapító rendelkezése a „köteles a Tao. tv. 1. § (2) bekezdésében, 1. § (6) bekezdésében” szövegrész helyett a „köteles a Tao. tv. 1. § (6) bekezdésében” szöveggel lép hatályba.

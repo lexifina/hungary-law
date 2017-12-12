@@ -1,1 +1,0 @@
-72. § Nem lép hatályba az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvény 20. § (1) bekezdése, 21. §-a, , 40. § 15. és 25. pontja, 41. § 2. pontja, 51. § (2) bekezdése, 52. §-a, 98. § (1) és (3) bekezdése és 105. §-a.
