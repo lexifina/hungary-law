@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-84-00-00
 | 2016-01-01 | 2015. évi LXXII. törvény | 1992-84-00-00.42 |
 | 2017-01-01 | 2016. évi CIV. törvény | 1992-84-00-00.43 |
 | 2017-11-01 | 2017. évi CXXI. törvény | 1992-84-00-00.44 |
+| 2017-12-12 | 2017. évi CLXXVIII. törvény | 1992-84-00-00.45 |
