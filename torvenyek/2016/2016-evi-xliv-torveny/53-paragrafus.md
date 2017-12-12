@@ -1,7 +1,0 @@
-## II. Fejezet
-
-## A MAGYAR KÖNYVVIZSGÁLÓI KAMARÁRÓL, A KÖNYVVIZSGÁLÓI TEVÉKENYSÉGRŐL, VALAMINT A KÖNYVVIZSGÁLÓI KÖZFELÜGYELETRŐL SZÓLÓ TÖRVÉNYHEZ KAPCSOLÓDÓ EGYÉB TÖRVÉNYEK MÓDOSÍTÁSA
-
-## 2. A számvitelről szóló 2000. évi C. törvény módosítása
-
-53–55. §
