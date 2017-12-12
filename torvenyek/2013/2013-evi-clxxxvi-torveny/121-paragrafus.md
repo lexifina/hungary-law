@@ -1,1 +1,0 @@
-121. § A 39–41. §, a 72. § 16. pontja, a 75. § és a 87. § az Alaptörvény 46. cikk (6) bekezdése, a 88. § az Alaptörvény 43. cikk (4) bekezdése, a 14. alcím az Alaptörvény 25. cikk (8) bekezdése és a 15. alcím az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
