@@ -1,1 +1,0 @@
-31. § E törvény 19. §-a a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről (tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében) szóló 1992. október 19-i 92/85/EGK irányelvnek való megfelelést szolgálja.

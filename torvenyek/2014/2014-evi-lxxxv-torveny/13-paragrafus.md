@@ -1,3 +1,0 @@
-## 7. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
-
-13–14. §
