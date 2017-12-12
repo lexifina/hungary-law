@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-112-00-00
 | --- | --- | --- |
 | 2007-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2007-112-00-00.1 |
 | 2011-01-01 | 2010. évi CXLVII. törvény | 2007-112-00-00.2 |
+| 2017-12-12 | 2017. évi CLXXIX. törvény | 2007-112-00-00.3 |
