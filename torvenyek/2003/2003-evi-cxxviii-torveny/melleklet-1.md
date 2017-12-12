@@ -268,19 +268,11 @@ autóút
 
 |
 
-R11
+|
 
 |
 
-gyorsút
-
 |
-
-M1 – Esztergom (új út építése)
-
-|
-
-autóút
 
 |
 
@@ -308,19 +300,11 @@ autópálya
 
 |
 
-R21
+|
 
 |
 
-gyorsút
-
 |
-
-Hatvan – Salgótarján – Somoskőújfalu (új út építése, kapacitásbővítés)
-
-|
-
-autóút
 
 |
 
@@ -328,19 +312,11 @@ autóút
 
 |
 
-R23
+|
 
 |
 
-gyorsút
-
 |
-
-Bátonyterenye – Fedémes – Ózd (új út építése, kapacitásbővítés)
-
-|
-
-autóút
 
 |
 
@@ -432,11 +408,11 @@ M44
 
 |
 
-gyorsút/autóút
+autóút
 
 |
 
-Kecskemét térsége (M8) – Békéscsaba (új út építése)
+Kecskemét térsége (M8)–Békéscsaba (új út építése)
 
 |
 
@@ -448,15 +424,15 @@ autópálya
 
 |
 
-R49
+M49
 
 |
 
-gyorsút
+autóút
 
 |
 
-M3 – országhatár (új út építése)
+M3–Mátészalka–országhatár (új út építése)
 
 |
 
@@ -472,11 +448,11 @@ M60
 
 |
 
-gyorsút/autóút
+autóút
 
 |
 
-Pécs – Barcs, országhatár (új út építése)
+Pécs–Barcs, országhatár (új út építése)
 
 |
 
@@ -488,19 +464,11 @@ autópálya
 
 |
 
-R67
+|
 
 |
 
-gyorsút
-
 |
-
-M7 – Balatonlelle – Kaposvár (új út építése, kapacitásbővítés)
-
-|
-
-autóút
 
 |
 
@@ -528,15 +496,17 @@ autópálya
 
 |
 
-R76
+M76
 
 |
 
-gyorsút
+autóút
 
 |
 
-M7 – Balatonszentgyörgy – Keszthely – Zalaegerszeg (új út építése, kapacitásbővítés)
+M7–Balatonszentgyörgy–
+
+Zalaegerszeg (új út építése)
 
 |
 
@@ -548,19 +518,11 @@ autóút
 
 |
 
-R83
+|
 
 |
 
-gyorsút
-
 |
-
-M1 – Pápa (új út építése, kapacitásbővítés)
-
-|
-
-autóút
 
 |
 
