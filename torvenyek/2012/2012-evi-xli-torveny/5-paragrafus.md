@@ -8,7 +8,9 @@ c) a személyszállítási közszolgáltatásokat végző közlekedési szolgál
 
 d) a közszolgáltatási feladatok ellátására leginkább megfelelő, a legszínvonalasabb és a lakosság számára legkevésbé költséges szolgáltatást kínáló, az energetikai és környezeti hatások figyelembevételével a legalkalmasabb szolgáltató kiválasztása és megbízása, a szolgáltató tevékenységének folyamatos figyelemmel kísérése és ellenőrzése, valamint
 
-e) az utasok számára elektronikus formában egységesen megismerhető közszolgáltatási menetrend és elektronikus utazásszervező működtetésére és fejlesztésére vonatkozó koncepció készítése.
+e) az utasok számára elektronikus formában egységesen megismerhető közszolgáltatási menetrend és elektronikus utazásszervező működtetésére és fejlesztésére vonatkozó koncepció készítése,
+
+f) a 1370/2007/EK rendelet 5a. cikkében meghatározott feladatok ellátása.
 
 (2) Az (1) bekezdésben foglalt feladatok ellátása során az ellátásért felelősök kötelesek egymással is együttműködve biztosítani, hogy a helyi, az elővárosi, a regionális és az országos közforgalmú személyszállítási szolgáltatások e törvény hatálya alá tartozó vízi személyszállítási szolgáltatással együtt integrált közlekedési rendszert alkossanak az egyes közlekedési módok közötti ésszerű munkamegosztással és a közpénzek lehető legtakarékosabb felhasználásával.
 
@@ -24,4 +26,4 @@ c) a regionális vagy elővárosi személyszállítási közszolgáltatás köz�
 
 (4) A (3) bekezdés szerinti megállapodásban meg kell határozni a helyi személyszállítási közszolgáltatásra, így különösen a közszolgáltatási menetrendre, annak módosítására, a díjrendszerre és a közszolgáltatási kötelezettség körébe eső személyszállítási szolgáltatást végző közlekedési szolgáltató kiválasztására, valamint annak esetleges veszteségei ellentételezésére vonatkozó rendelkezéseket.
 
-(5) Az 1370/2007/EK rendelet 7. cikk (1) bekezdésében meghatározott összevont jelentést az ellátásért felelős a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év május 31. napjáig készíti el. A jelentést az önkormányzat a honlapján, a miniszter a Kormány honlapján teszi közzé.
+(5) Az 1370/2007/EK rendelet 7. cikk (1) bekezdésében meghatározott összevont jelentést az ellátásért felelős a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év október 31. napjáig készíti el. A jelentést az önkormányzat a honlapján, a miniszter a Kormány honlapján teszi közzé.

@@ -1,0 +1,5 @@
+35/B. § (1) A személyszállítási közszolgáltatási utazási kedvezmények, valamint a közszolgáltatások megrendelői által előírt vagy engedélyezett utazási kedvezmények személyszállítási szolgáltatások igénybevételéhez szükséges igazolására a működtető a Központi Rendszerben a kedvezmény jogosultságot személyhez kötötten az utazási jogosultság megszerzésétől elektronikusan nyilvántartja.
+
+(2) A személyszállítási közszolgáltatási utazási kedvezményekről szóló kormányrendeletben meghatározott utazási kedvezmények tekintetében a kedvezményre jogosultság jogalapját biztosító jogviszonyt, illetve az azt igazoló adatokat nyilvántartó szervezetek – kormányrendeletben meghatározott módon és tartalommal – adatot szolgáltatnak a működtető számára a személyszállítási közszolgáltatási utazási kedvezményre jogosultságot megalapozó jogviszonyról.
+
+(3) A közszolgáltatások megrendelője által előírt vagy jóváhagyott utazási kedvezmények tekintetében a kedvezményre jogosultság megállapítása érdekében a 35/A. § szerinti működtető adatszolgáltatásra hívhatja fel a kedvezményre jogosultságot megalapozó jogviszonyt, illetve azt igazoló adatokat nyilvántartó szervezeteket.

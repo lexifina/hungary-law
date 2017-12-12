@@ -28,11 +28,11 @@ k) a feladatok ellátásával kapcsolatos további szükséges feltételeket.
 
 (4) A kijelölő jogszabály – az (1)–(3) bekezdésben foglaltak szerint – a közlekedésszervező feladatává teheti az utastájékoztatást, a menetrend megtartását kizáró, előre nem látható esemény esetére a menetrendi és utastájékoztatási intézkedések rendjének meghatározását, a jegy- és bérletértékesítést, illetve a jegy- és bérletellenőrzést, valamint a bevételek beszedését.
 
-(4a) A kijelölő jogszabály a közlekedésszervező feladatává teheti a közösségi kerékpáros rendszer létrehozását és fenntartását, amennyiben az a települési önkormányzat – a fővárosban a Fővárosi Önkormányzat – döntése alapján a helyi személyszállítási szolgáltatások integrált részét képezi.
+(4a) A kijelölő jogszabály külön-külön vagy együttesen a közlekedésszervező feladatává teheti a közösségi kerékpáros rendszer, valamint a közösségi autóbérlő rendszer létrehozását és fenntartását, amennyiben az a települési önkormányzat a fővárosban a Fővárosi Önkormányzat döntése alapján a helyi személyszállítási szolgáltatások integrált részét képezi.
 
 (5) Ha a kijelölő jogszabály a bevételek beszedését a közlekedésszervező feladataként rögzíti, a közlekedési közszolgáltatásokkal kapcsolatos díjbevételek beszedésére, szociális menetdíj-támogatás igénylésére a közlekedésszervező az e törvényben meghatározott szabályok szerint jogosult és kötelezett.
 
-(6) A közlekedésszervező a kijelölő jogszabályban, vagy a feladatellátási szerződésben meghatározott feladatok teljesítését nem adhatja át másnak, de jogosult a feladatok teljesítésébe a kijelölő jogszabályban, vagy a feladat-ellátási szerződésben meghatározott módon és mértékben közreműködőt bevonni.
+(6) A közlekedésszervező a kijelölő jogszabályban, vagy a feladatellátási szerződésben meghatározott feladatok teljesítését nem adhatja át másnak, de jogosult a feladatok teljesítésébe a kijelölő jogszabályban, vagy a feladatellátási szerződésben meghatározott módon és mértékben közreműködőt bevonni. A közlekedésszervezői feladatok ellátásának teljes körű és kizárólagos felelőse – a közreműködő igénybevételétől függetlenül – a közlekedésszervező marad.
 
 (7) A feladatok átadásával kapcsolatos szabályokat olyan módon kell meghatározni, hogy a közlekedési közszolgáltatás teljesítésében érintett közlekedési szolgáltatók, és az azokkal érintett utasok vagy egyéb személyek jogainak és jogos érdekeinek védelme, jogérvényesítési lehetőségei és jogorvoslati jogai ne csökkenjenek ahhoz viszonyítva, mintha a feladatot az e törvényben meghatározott ellátásért felelős látná el.
 

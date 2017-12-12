@@ -1,6 +1,6 @@
 ## 20. Közszolgáltatási kötelezettség
 
-29. § (1) Az ellátásért felelős közszolgáltatási kötelezettséget abban az esetben tarthat fenn vagy rendelhet el, ha
+29. § (1) Az ellátásért felelős – a 1370/2007/EK rendelet 2a. cikkében foglaltak keretei között – közszolgáltatási kötelezettséget abban az esetben tarthat fenn vagy rendelhet el, ha
 
 a) az adott közszolgáltatás biztosítását a lakosság érdeke megköveteli,
 

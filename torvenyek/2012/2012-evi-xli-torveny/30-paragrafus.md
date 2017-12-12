@@ -6,9 +6,9 @@
 
 (3) Ellentételezés esetén a közszolgáltatási kötelezettségből származó gazdasági hátrány számszerűsítésére, a közlekedési szolgáltatót megillető pénzügyi ellentételezés mértékére és módjára az 1370/2007/EK rendelet előírásai vonatkoznak.
 
-(4) Az ellentételezéssel kapcsolatos, a 25. § (3) bekezdés m) pontjában meghatározottak részletes szabályait az 1370/2007/EK rendelet 4. cikk (1) bekezdés a) és b) pontjában foglaltaknak megfelelően kell a közszolgáltatási szerződésben meghatározni, aszerint hogy
+(4) Az ellentételezéssel kapcsolatos, a 25. § (3) bekezdés m) pontjában meghatározottak részletes szabályait az 1370/2007/EK rendelet 2a. cikk (2) bekezdése, valamint a 4. cikk (1) bekezdés a) és b) pontjában foglaltaknak megfelelően kell a közszolgáltatási szerződésben meghatározni, aszerint hogy
 
-a) az ellátásért felelős és a közlekedési szolgáltató között megkötött közszolgáltatási szerződés egyértelműen rögzítse a közlekedési szolgáltató közszolgáltatási feladatait, és
+a) az ellátásért felelős és a közlekedési szolgáltató között megkötött közszolgáltatási szerződés egyértelműen rögzítse a közlekedési szolgáltató közszolgáltatási feladatait, továbbá az érintett földrajzi területeket és
 
 b) a közlekedési szolgáltatót megillető ellentételezés számításának rendje előzetesen megszabott, objektív és átlátható módon meghatározott feltételekre épüljön, valamint
 

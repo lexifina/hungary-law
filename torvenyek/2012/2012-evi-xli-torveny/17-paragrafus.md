@@ -12,7 +12,7 @@ a) előírja a tevékenység jogszerű végzéséhez szükséges lépések megt�
 
 b) megtiltja a jogsértő magatartás folytatását,
 
-c) utasjogi felügyeleti bírságot szabhat ki,
+c) utasjogi felügyeleti bírságot szab ki,
 
 d) a jogsértőt kötelezi az eljárás költségeinek megtérítésére.
 
@@ -22,7 +22,7 @@ a) előírja a tevékenység jogszerű végzéséhez szükséges lépések megt�
 
 b) megtiltja a jogsértő magatartás folytatását,
 
-c) utasjogi felügyeleti bírságot szabhat ki,
+c) utasjogi felügyeleti bírságot szab ki,
 
 d) a jogsértőt kötelezi az eljárás költségeinek megtérítésére.
 
@@ -36,7 +36,7 @@ b) az autóbuszos hatóság az (5) bekezdés a)–b) és d) pontjában meghatár
 
 a) a jogsértéssel érintett utasok
 
-aa) száma nem haladja meg a vonat vagy az autóbusz utasainak 10%-át, vagy
+aa)
 
 ab) jogaik sérelmét a vasúti közlekedési szolgáltató vagy az autóbuszos személyszállító szolgáltató (a továbbiakban együtt: szolgáltató) vagy a közlekedésszervező azonnali intézkedésével a helyszínen megszüntette, vagy
 
@@ -46,4 +46,6 @@ b) a szolgáltató vagy a közlekedésszervező a jogsértést megelőzően hat 
 
 (5d) Az utasjogi felügyeleti bírság kiszabására irányuló eljárás a vasúti igazgatási szervnek vagy az autóbuszos hatóságnak a jogsértésről való tudomásszerzésétől számított hat hónapon belül, de legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
-(6) A kötelezettségek súlyos és ismétlődő megszegése esetén – amennyiben a (4), illetve (5) bekezdésben meghatározott egyéb jogkövetkezmények nem vezettek eredményre – a vasúti igazgatási szerv, illetve az autóbuszos hatóság felfüggesztheti vagy visszavonhatja a személyszállítási közszolgáltatás végzésére jogosító működési engedélyt.
+(6) A kötelezettségek súlyos és ismétlődő megszegése esetén – ha a (4) bekezdésben meghatározott egyéb jogkövetkezmények nem vezettek eredményre – a vasúti igazgatási szerv, felfüggesztheti vagy visszavonhatja a személyszállítási szolgáltatás végzésére jogosító működési engedélyt, valamint a vasúti igazgatási szerv által tudomásul vett bejelentés esetén a tevékenység folytatását felfüggeszti vagy a személyszállító szolgáltatót a közhiteles nyilvántartásból törli.
+
+(7) A kötelezettségek súlyos és ismétlődő megszegése esetén – ha az (5) bekezdésben meghatározott egyéb jogkövetkezmények nem vezettek eredményre – az autóbuszos hatóság a személyszállítási szolgáltatás végzésére jogosító engedély felfüggesztését vagy visszavonását kezdeményezi.

@@ -2,7 +2,7 @@
 
 15. § (1) A piacfelügyeleti tevékenységet a vasúti személyszállítási szolgáltatásokkal kapcsolatban a Vtv. alapján a Gazdasági Versenyhivatallal (a továbbiakban: versenyhatóság) együttműködve a vasúti igazgatási szerv végzi.
 
-(2) Az autóbuszos hatóság az autóbuszos közúti személyszállítási szolgáltatási piac zavartalan, eredményes működésének, a piaci szereplők érdekei védelmének, a tisztességes és hatékony piaci verseny fenntartásának elősegítése, és a versenykorlátozó magatartás tanúsítására lehetőséget adó helyzetek kiküszöbölése érdekében hatósági jogkörében felügyeleti ellenőrzési tevékenységet végez.
+(2) Az autóbuszos hatóság az autóbuszos közúti személyszállítási szolgáltatási piac zavartalan, eredményes működésének, a piaci szereplők érdekei védelmének, a tisztességes és hatékony piaci verseny fenntartásának elősegítése, és a versenykorlátozó magatartás tanúsítására lehetőséget adó helyzetek kiküszöbölése érdekében hatósági jogkörében piacfelügyeleti ellenőrzési tevékenységet végez.
 
 (3) Az autóbuszos hatóság a piac felügyeletével kapcsolatos tevékenysége során figyelemmel kíséri az autóbuszos közúti személyszállítási szolgáltatási piac működését, az arra vonatkozó jogszabályokban és a közlekedési hatóság határozataiban foglaltak megtartását, és arról elemzést készít.
 

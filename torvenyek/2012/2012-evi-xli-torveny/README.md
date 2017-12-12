@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-41-00-00
 | 2017-01-01 | 2016. évi LXXX. törvény | 2012-41-00-00.19 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2012-41-00-00.20 |
 | 2017-06-23 | 2017. évi LXIII. törvény | 2012-41-00-00.21 |
+| 2017-12-12 | 2017. évi CLXXXII. törvény | 2012-41-00-00.22 |

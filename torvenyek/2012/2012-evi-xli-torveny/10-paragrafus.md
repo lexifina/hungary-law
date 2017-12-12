@@ -1,6 +1,6 @@
 ## 7. Az autóbusszal végzett személyszállítási szolgáltatással kapcsolatos tevékenység engedélyezése
 
-10. § (1) Autóbusszal végzett menetrend szerinti, szerződéses és különjárati személyszállítási szolgáltatás a gazdálkodó szervezet székhelye szerint illetékes közlekedési hatóság által, a szolgáltató kérelmére az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló jogszabályban és az abban foglalt eljárási rend szerint kiadott, az e tevékenység végzésére feljogosító autóbuszos személyszállító engedély, valamint nemzetközi forgalomban – ideértve a kabotázst is – közösségi engedély birtokában végezhető.
+10. § (1) Autóbusszal végzett menetrend szerinti, különcélú menetrend szerinti, szerződéses és különjárati személyszállítási szolgáltatás a gazdálkodó szervezet székhelye szerint illetékes közlekedési hatóság által, a szolgáltató kérelmére az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló rendeletben és az abban foglalt eljárási rend szerint kiadott, az e tevékenység végzésére feljogosító autóbuszos személyszállító engedély, valamint nemzetközi forgalomban – ideértve a kabotázst is – közösségi engedély birtokában végezhető.
 
 (2) Autóbuszos személyszállító engedélyt az a gazdálkodó szervezet kaphat, amely megfelel az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló jogszabályban meghatározott követelményeknek.
 

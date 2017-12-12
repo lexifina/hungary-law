@@ -1,6 +1,6 @@
 ## 18. Közszolgáltatási szerződés
 
-25. § (1) A közszolgáltatási szerződés megkötésére a miniszter az államháztartásért felelős miniszterrel egyetértésben, az önkormányzat nevében az önkormányzat képviselő-testületének felhatalmazása alapján a polgármester (a Fővárosban a főpolgármester), vagy – a 22. §-ban meghatározott kijelölő jogszabályban foglaltak alapján – a rendeletben megjelölt közlekedésszervező jogosult. A közszolgáltatási szerződés érvényességi idejére és esetleges meghosszabbításának feltételeire az 1370/2007/EK rendelet 4. cikk (3)–(4) bekezdésében meghatározott rendelkezések az irányadóak. Amennyiben a közszolgáltatási szerződés a közlekedési szolgáltatónál gazdasági hátrányt okozó kötelezettséget tartalmaz, annak a pénzügyi ellentételezés tekintetében legalább 3 éves, amennyiben a szerződés érvényessége kevesebb mint 3 év, akkor a szerződés érvénytartamával megegyező időszakra vonatkozó pénzügyi (éven túli) kötelezettségvállalást kell tartalmaznia.
+25. § (1) A közszolgáltatási szerződés megkötésére a miniszter az államháztartásért felelős miniszterrel egyetértésben, az önkormányzat nevében az önkormányzat képviselő-testületének felhatalmazása alapján a polgármester (a fővárosban a főpolgármester), vagy – a 22. §-ban meghatározott kijelölő jogszabályban foglaltak alapján – a rendeletben megjelölt közlekedésszervező jogosult. A közszolgáltatási szerződés érvényességi idejére és esetleges meghosszabbításának feltételeire az 1370/2007/EK rendelet 4. cikk (3)–(4) bekezdésében, 5. cikk (3a), (4b) és (6) bekezdésében meghatározott rendelkezések az irányadóak. Amennyiben a közszolgáltatási szerződés a közlekedési szolgáltatónál gazdasági hátrányt okozó kötelezettséget tartalmaz, annak a pénzügyi ellentételezés tekintetében legalább 3 éves, amennyiben a szerződés érvényessége kevesebb, mint 3 év, akkor a szerződés érvénytartamával megegyező időszakra vonatkozó pénzügyi (éven túli) kötelezettségvállalást kell tartalmaznia.
 
 (2) A személyszállítási közszolgáltatási szerződés része a közszolgáltatási menetrend, amely elkülönülten tartalmazza az országos, a regionális és elővárosi személyszállítási szolgáltatásokat. Helyi személyszállítási szolgáltatás esetén a személyszállítási közszolgáltatási szerződés része a helyi közszolgáltatási menetrend. Ha az 1370/2007/EK rendelet vagy e törvény másként nem rendelkezik, a személyszállítási közszolgáltatási szerződésre a Ptk. szerződésekre vonatkozó általános szabályai az irányadók.
 
@@ -22,7 +22,7 @@ g) az igényvezérelt szolgáltatások alkalmazásának lehetőségét,
 
 h) a jegy- és bérletrendszerrel, valamint az ellenőrzéssel kapcsolatos szabályokat, valamint ösztönzőket,
 
-i) a vagyoni eszközök tulajdonviszonyait, a szolgáltató birtokába adott vagy más módon rendelkezésére bocsátott eszközök használatára, karbantartására és visszaszolgáltatására vonatkozó szabályokat,
+i) a vagyoni eszközök tulajdonviszonyait, a szolgáltató birtokába adott vagy más módon rendelkezésére bocsátott eszközök finanszírozására, használatára, karbantartására és visszaszolgáltatására vonatkozó szabályokat, figyelemmel a 1370/2007/EK rendelet 5a. cikkében foglaltakat is,
 
 j) a személyszállítási közszolgáltatások díjait, a pótdíjak és a díjalkalmazási feltételeket, valamint ezek megsértése esetén érvényesíthető jogkövetkezményeket,
 
@@ -38,7 +38,9 @@ o) a szerződéses kötelezettségek megszegése esetére vonatkozó szankcióka
 
 p) a közszolgáltatás megkezdésének időpontját és a szerződés érvényességi időtartamát, továbbá
 
-q) az 1370/2007/EK rendelet 4. cikk (5) bekezdésében foglaltak bekövetkezése esetén a közszolgáltatási tevékenységhez kapcsolódó, a szolgáltató által alkalmazott munkavállalókat, illetve azok szerződéses jogait.
+q) a 1370/2007/EK rendelet 4. cikk (5) bekezdésében foglaltak bekövetkezése esetén a közszolgáltatási tevékenységhez kapcsolódó, a szolgáltató által alkalmazott munkavállalókat, valamint azok szerződéses jogait, továbbá a 1370/2007/EK rendelet 4. cikk (4a) és (4b) bekezdésében foglaltakat.
+
+(3a) A közszolgáltatási szerződésben a megrendelő részéről előírhatóak az elektronikus jegyrendszer, az utastájékoztatási rendszer, valamint a forgalomtervező és irányítási rendszerek országos átjárhatóságát, valamint a közszolgáltatási menetrend egységes lebonyolítását biztosító informatikai eszközöknek és rendszereknek a közszolgáltatások megrendelője vagy általa kijelölt szervezet által történő biztosítására, vagy ezen eszközök és rendszerek kötelező igénybevételére, vagy alkalmazására vonatkozó rendelkezések.
 
 (4) A szerződésben szabályozni kell a szolgáltatónak a szerződés teljesítésével kapcsolatos – legalább évenkénti – adatszolgáltatási kötelezettségét, amely lehetővé teszi az ellátásért felelős számára a szolgáltató közszolgáltatási tevékenységének, a közszolgáltatási követelmények teljesítésének megítélését. A szolgáltató – az üzleti titokra vonatkozó előírások betartásával – tájékoztatja az ellátásért felelőst, ha más közszolgáltatási szerződés alapján is végez szolgáltatást vagy más nemzetközi, különcélú menetrend szerinti, különjárati – személyszállítási szolgáltatást is ellát.
 

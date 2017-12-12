@@ -34,7 +34,7 @@ c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önk
 
 12. jármű:
 
-a) vasúti jármű: a vasúti közlekedésről szóló 2005. évi CLXXXIII törvényben (a továbbiakban: Vtv.) meghatározott vasúti jármű,
+a) vasúti jármű: a vasúti közlekedésről szóló 2005. évi CLXXXIII törvényben meghatározott vasúti jármű,
 
 b) trolibusz: a közszolgáltatási szerződések odaítélése szempontjából vasúti jármű,
 
@@ -48,9 +48,9 @@ e) vízi jármű: a Vkt.-ban meghatározott, vízen való személyszállításra
 
 14. közforgalmú személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyet – a közzétett feltételek alkalmazásával, díj ellenében – bárki igénybe vehet;
 
-15. közlekedési szolgáltató: a Vtv.-ben meghatározott vasúti hatóság és vasúti igazgatási szerv, az e törvényben meghatározott közlekedési hatóság vagy a hajózási hatóság által kiadott, a tevékenység végzésére jogosító engedély birtokában e törvény alapján személyszállítási szolgáltatási tevékenységet végző gazdálkodó szervezet;
+15. közlekedési szolgáltató: a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvényben meghatározott vasúti igazgatási szerv, az e törvényben meghatározott közlekedési hatóság vagy a hajózási hatóság által kiadott, a tevékenység végzésére jogosító engedély vagy a vasúti igazgatási szerv által tudomásul vett bejelentés birtokában e törvény alapján személyszállítási szolgáltatási tevékenységet végző gazdálkodó szervezet;
 
-15a. közlekedési kártya: olyan, az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) 2. § 3. pontja szerinti, közhiteles adatokkal, vizuálisan megszemélyesített, a közforgalmú személyszállítási szolgáltatás igénybevétele céljából kibocsátott, külön jogszabályban meghatározott elektronikus adat tárolására vagy művelet elvégzésére alkalmas eszközt tartalmazó hordozó, amely az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott utazási okmányként teljesíti az utasmédia követelményrendszerét. A Nektv. 4. § (5) bekezdésében meghatározott elsődleges kártyának tekintendő, személyazonosság közhiteles igazolására szolgáló kártya formátumú okmányhoz a közlekedési kártya mint másodlagos kártya – amennyiben annak műszaki és technikai feltételei adottak – a jogosult kérelmére hozzárendelhető;
+15a. közlekedési kártya: olyan, az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény 2. § 5. pontja szerinti, közhiteles adatokkal, vizuálisan megszemélyesített, a közforgalmú személyszállítási szolgáltatás igénybevétele céljából kibocsátott, jogszabályban meghatározott elektronikus adat tárolására vagy művelet elvégzésére alkalmas eszközt tartalmazó hordozó, amely az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott utazási okmányként teljesíti az utasmédia követelményrendszerét. Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény 4. § (5) bekezdésében meghatározott elsődleges kártyának tekintendő, személyazonosság közhiteles igazolására szolgáló kártya formátumú okmányhoz a közlekedési kártya, mint másodlagos kártya – amennyiben annak műszaki és technikai feltételei adottak – a jogosult kérelmére hozzárendelhető. Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény 2. § 5. pontja szerinti közlekedési kártyához a jogosult kérelmére további – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott – utasmédia rendelhető, amely biztosítja a személyszállítási szolgáltatások igénybe vételét;
 
 16. közösségi busszal végzett személyszállítás: hazai vagy európai uniós forrásból vásárolt közúti járművel, saját számlás személyszállítás keretében végzett személyszállítás;
 
@@ -62,9 +62,9 @@ e) vízi jármű: a Vkt.-ban meghatározott, vízen való személyszállításra
 
 20. különcélú menetrend szerinti személyszállítási szolgáltatás: az utazás célja alapján meghatározott utaskör menetrend alapján végzett szállítása más utasok kizárásával, az utazást szervező személyétől függetlenül;
 
-21. különjárati személyszállítás: a szállítás megrendelője vagy a szállítást végző közlekedési szolgáltató kezdeményezésére személyek előzetesen összeállított csoportjának szállítása alkalmi jelleggel közlekedő olyan járattal, amely nem felel meg sem a menetrend szerinti személyszállítás, sem a különcélú menetrend szerinti személyszállítás ismérveinek;
+21. különjárati személyszállítási szolgáltatás: a szállítás megrendelője vagy a szállítást végző közlekedési szolgáltató kezdeményezésére személyek előzetesen összeállított csoportjának szállítása alkalmi jelleggel közlekedő olyan járattal, amely nem felel meg sem a menetrend szerinti személyszállítás, sem a különcélú menetrend szerinti személyszállítás ismérveinek;
 
-22. meghatározó befolyás: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. § (2) bekezdése szerinti meghatározó befolyás;
+22. meghatározó befolyás: a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. § (2) bekezdése szerinti meghatározó befolyás;
 
 23. menetrend: a járat útvonalának kezdő- és végpontját, a megállóhelyeket, mindezekre vonatkozóan az indulási és érkezési időpontokat, vagy a járat napi első és utolsó indulási időpontját és a köztes járatgyakoriság ismertetését tartalmazó szolgáltatási előírás;
 
@@ -84,16 +84,24 @@ b) a járművet a személyszállítást végző üzemeltető, annak tagja, a vel
 
 29. személyszállítási közszolgáltatás: az 1370/2007/EK rendelet 2. cikk a) pontja szerint, közszolgáltatási szerződés alapján végzett személyszállítási szolgáltatás;
 
+29a. vasúti személyszállítási közszolgáltatás: a 1370/2007/EK rendelet 2. cikk aa) pontja szerinti, közszolgáltatási szerződés alapján végzett személyszállítási szolgáltatás;
+
 30. személyszállítási szolgáltatás: az e törvényben meghatározott járművel szerződés alapján, díj ellenében végzett személyszállítás, valamint az ezekhez kapcsolódó kiegészítő szolgáltatások;
 
 31. személytaxi: olyan gépjármű, amellyel a közlekedési hatóság személyszállító tevékenység végzését engedélyezte és amellyel a végzett szolgáltatást bárki azonos feltételek mellett igénybe veheti;
 
-32. szerződéses személyszállítás: a szállítás megrendelője és a szállítást végző gazdálkodó szervezet között létrejött szerződés alapján végzett különcélú menetrend szerinti személyszállítás;
+32. szerződéses személyszállítási szolgáltatás: a szállítás megrendelője és a szállítást végző gazdálkodó szervezet között létrejött szerződés alapján végzett különcélú menetrend szerinti személyszállítás;
 
 33. szociálpolitikai menetdíj-támogatás: személyszállítási közszolgáltatások keretében megvalósuló utazásokhoz az állam által jogszabályban biztosított utazási kedvezmények ellentételezéséhez nyújtott támogatás;
 
-34. többségi befolyás: a Ptk. 8:2. § (1) bekezdése szerinti többségi befolyás;
+34. többségi befolyás: a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. § (1) bekezdése szerinti többségi befolyás;
 
 35. vonal: a vasúti közlekedésben a vonatok, a közúti járművel végzett személyszállítási szolgáltatás esetén a közúti járművek indulási és végállomása között az egymás után elhelyezkedő megállási helyek, a hajózásban a kikötési helyeket rögzítő szolgáltatási előírás, függetlenül attól, hogy egy-egy járat megáll-e az adott helyen.
 
-36. közösségi kerékpáros rendszer: több állomásból álló, automatizáltan működő, bárki számára folyamatosan igénybe vehető, rövid távú és egyirányú utazásra alkalmas kerékpár-kölcsönzési rendszer.
+36. közösségi kerékpáros rendszer: több állomásból álló, automatizáltan működő, bárki számára folyamatosan igénybe vehető, rövid távú és egyirányú utazásra alkalmas kerékpár-kölcsönzési rendszer;
+
+37. utasmédia: elektronikus tartalom, amely az utazási jogosultság hordozására alkalmas;
+
+38. utazási okmány: e törvény alkalmazásában utazási jogosultság, illetve kedvezmény megjelenítésére, igénybevételére és igazolására szolgáló dokumentum;
+
+39. közösségi autóbérlő rendszer: személygépkocsi-kölcsönző rendszer, amely díj ellenében, érvényes, Magyarország területén személygépkocsi közúton történő vezetésére jogosító okmánnyal rendelkező, előzetesen regisztrált felhasználók számára folyamatosan igénybe vehető, továbbá központi telematikai rendszerrel irányított módon, automatizált helyszíni kölcsönzési folyamat alkalmazásával, az üzemeltetési területen belül szabad felhasználást biztosítva működik.
