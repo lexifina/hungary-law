@@ -1,5 +1,0 @@
-## 10. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
-
-30. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 12. § (1) bekezdése a következő szöveggel lép hatályba:
-
-„(1) A szakközépiskolának szakmai érettségi végzettséget adó érettségire, szakirányú felsőfokú iskolai továbbtanulásra, szakirányú munkába állásra felkészítő, valamint általános műveltséget megalapozó négy középiskolai évfolyama és a szakképzésről szóló törvény alapján az Országos Képzési Jegyzékben meghatározott számú szakképzési évfolyama van, ahol szakmai elméleti és gyakorlati oktatás is folyik. A szakközépiskolában a tizenkettedik évfolyamot követően az Országos Képzési Jegyzékben meghatározottak szerint az utolsó középiskolai évfolyam elvégzéséhez vagy érettségi végzettséghez kötött, a szakmai érettségi vizsga ágazatához tartozó szakképesítés szakmai vizsgájára történő felkészítés folyik. Szakközépiskolának minősül az az intézmény is, amely kizárólag a szakképzésről szóló törvény 22. § (7) bekezdésében meghatározott tevékenységet folytatja.”
