@@ -1,6 +1,6 @@
 77. § (1) A vasúti igazgatási szerv jogosult a működési engedélyben meghatározott, valamint a bejelentésre kötelezett tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni.
 
-(2) A vasúti igazgatási szerv a feladatai ellátásához szükséges információk és adatok (beleértve az üzleti titkot is) szolgáltatására, iratok bemutatására kötelezheti indítványra vagy hivatalból a vasúti pályahálózat-kapacitás elosztása által érintett valamennyi szervezetet, a pályahálózat-működtetőket, a VPSZ-t, a kapacitásfoglalásra jogosultakat, a vállalkozó vasúti társaságokat, a kiszolgáló létesítmények üzemeletetőit, a fejlesztési közreműködőket, valamint a közlekedésszervezőt.
+(2) A vasúti igazgatási szerv a feladatai ellátásához szükséges információk és adatok (beleértve az üzleti titkot is) szolgáltatására, iratok bemutatására kötelezheti indítványra vagy hivatalból a vasúti pályahálózat-kapacitás elosztása által érintett valamennyi szervezetet, a pályahálózat-működtetőket, a VPSZ-t, a kapacitásfoglalásra jogosultakat, a vállalkozó vasúti társaságokat, a kiszolgáló létesítmények üzemeltetőit, a fejlesztési közreműködőket, valamint a közlekedésszervezőt.
 
 (3) A (2) bekezdés szerinti információkat a vasúti igazgatási szerv által meghatározott – egy hónapnál nem hosszabb – ésszerű határidőn belül a vasúti igazgatási szerv rendelkezésére kell bocsátani. Az adatszolgáltatásra nyitva álló határidő kivételes esetben – kérelemre – legfeljebb két héttel meghosszabbítható.
 

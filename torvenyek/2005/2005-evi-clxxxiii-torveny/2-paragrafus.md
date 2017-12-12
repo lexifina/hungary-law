@@ -46,6 +46,8 @@
 
 2.10. kiszolgáló létesítmény: olyan létesítmény – a földterületet, épületet és berendezést is beleértve –, amelyet egészében vagy részben úgy alakítottak ki, hogy az lehetővé tegye a 2. melléklet 2–4. pontja szerinti szolgáltatás nyújtását;
 
+2.10a. vasúti műszaki vizsgálati központ: olyan kiszolgáló létesítmény – a földterületet, vasúti tesztpályát, építményeket is beleértve –, amelyben vasúti gördülőállomány, vasúti pálya tartozékai és vasúti berendezések műszaki vizsgálatára, tesztelésére valamint az ezekhez tartozó kutatás-fejlesztési tevékenység végzésére, és ezen tevékenységekhez kapcsolódóan a 2. melléklet 4. pontja szerinti szolgáltatások nyújtására kerül sor;
+
 2.11. közmű: az országos településrendezési és építési követelményekről szóló kormányrendelet szerinti közmű;
 
 2.12. különálló vasúti pályahálózat: olyan vasúti pályahálózat, amelyik
@@ -82,7 +84,9 @@ b) fizikai összeköttetésben van más vasúti pályahálózattal, azonban az �
 
 2.24. vasúti üzemi létesítmény: az 1. melléklet 10. pontjában meghatározott vasúti pályahálózat-elem, valamint a vasúti pályahálózat működtetéséhez, (beleértve a pályakapacitás-elosztás, díjbeszedés szükségleteit) a vasúti üzem lebonyolításához, az utas- és áruforgalom biztosításához, a vasúti berendezések elhelyezéséhez szükséges épületek, építmények, mérnöki berendezések, kivéve a pályát és tartozékait;
 
-2.25. városi vasúti pályahálózat: városi vasúti szolgáltatás végzéséhez szükséges pályahálózat.
+2.25. városi vasúti pályahálózat: városi vasúti szolgáltatás végzéséhez szükséges pályahálózat;
+
+2.26. vasúti tesztpálya: vasúti gördülőállomány, vasúti pálya és tartozékai, valamint a vasúti berendezések műszaki vizsgálatára, tesztelésére létesített különálló vasúti pályahálózat;
 
 3. A vasúti pályahálózati kapacitás elosztásával és a díjképzéssel kapcsolatos fogalmak:
 
@@ -198,7 +202,9 @@ b) mezőgazdasági-erdészeti társaságként áruszállítás végzése vagy il
 
 5.8. vasúti társaság: a pályahálózat-működtető, a vállalkozó vasúti társaság, valamint a vasúti tevékenységet bejelentés alapján végző gazdálkodó szervezet;
 
-5.9. vállalkozó vasúti társaság: olyan, működési engedéllyel rendelkező gazdasági társaság, amelynek fő tevékenysége vasúti árufuvarozási vagy személyszállítási szolgáltatás nyújtása, azzal a megkötéssel, hogy e vállalkozásnak kell a vontatást biztosítania. Ideértendők a csak vontatást nyújtó társaságok is.
+5.9. vállalkozó vasúti társaság: olyan, működési engedéllyel rendelkező gazdasági társaság, amelynek fő tevékenysége vasúti árufuvarozási vagy személyszállítási szolgáltatás nyújtása, azzal a megkötéssel, hogy e vállalkozásnak kell a vontatást biztosítania. Ideértendők a csak vontatást nyújtó társaságok is;
+
+5.10. vasúti műszaki vizsgálati központ üzemeltetője: olyan természetes személy vagy gazdasági társaság, amely egy vagy több vasúti műszaki vizsgálati központ üzemeltetéséért felel és vasúti vagy egyéb gazdálkodó szervezetek számára a 2. melléklet 4. pontja szerinti valamely szolgáltatást nyújt;
 
 6. A vasúti rendszer átjárhatóságával kapcsolatos fogalmak:
 
@@ -260,4 +266,6 @@ c) annak ellenőrzésére szolgáló módszerek, hogy a nagy sebességű és hag
 
 9.4. jelentős karbantartás: a transzeurópai nagy sebességű vasúti járművön végzett olyan munkálatok, amelyek nem tartoznak bele a mindennapos működés során rutinszerűen elvégzett karbantartásba, és szükségessé teszik a jármű szolgálatból való kivonását;
 
-9.5. működőképes alternatíva: kiszolgáló létesítmény rendelkezésre állása hiányában egy másik kiszolgáló létesítményhez való hozzáférés, amely gazdaságilag elfogadható a vállalkozó vasúti társaság számára, és lehetővé teszi számára az érintett árutovábbítási vagy személyszállítási szolgáltatás működtetését.
+9.5. működőképes alternatíva: kiszolgáló létesítmény rendelkezésre állása hiányában egy másik kiszolgáló létesítményhez való hozzáférés, amely gazdaságilag elfogadható a vállalkozó vasúti társaság számára, és lehetővé teszi számára az érintett árutovábbítási vagy személyszállítási szolgáltatás működtetését;
+
+9.6. az átadás-átvétel fordulónapja: az eszközök rendeltetésszerű használatba vételének napja. A rendeltetésszerű használatba vétel napja a távközlő, erősáramú és biztosítóberendezési eszközök vonatkozásában az eszközök üzembe helyezésének dátuma, az egyéb eszközök vonatkozásában a sikeresen lezárt műszaki átadás-átvételi eljárás dátuma, ideértve a rész műszaki átadás-átvételeket is.
