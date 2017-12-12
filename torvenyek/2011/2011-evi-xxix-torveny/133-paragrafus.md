@@ -1,7 +1,0 @@
-133. § A Get. 17. §-a helyébe a következő rendelkezés lép:
-
-„17. § (1) A földgázelosztó a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározottak szerint nyilvántartja az elosztóvezetékről vételező felhasználási helyek azonosítóit, a fogyasztási és kapacitás adatait, amelyeket a felhasználási helyen vételező felhasználó vagy az általa megnevezett földgázkereskedő kérésére köteles átadni.
-
-(2) A felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedő részére a földgázelosztó köteles a felhasználó mérési adatait átadni.
-
-(3) A felhasználó személyében történő változás esetén a földgázelosztó köteles jegyzőkönyvben rögzíteni a fogyasztásmérő berendezés állását és a mérőberendezés, illetve a zárópecsétek (plomba) szemrevételezéssel megállapított állapotát, és ennek egy példányát az új felhasználó, valamint a felhasználót ellátó földgázkereskedő részére megküldeni.”

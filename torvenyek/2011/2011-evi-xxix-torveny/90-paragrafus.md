@@ -1,3 +1,0 @@
-90. § A VET. a következő 117/A. §-sal egészül ki:
-
-„117/A. § A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére adott engedély engedélyesének helyébe jogutódlás esetén az engedélyes jogutódja lép. A jogutód a Hatóságot a változás bekövetkezésétől számított 30 napon belül a jogerős cégbírósági bejegyző határozat másolatának megküldésével értesíti. Az engedélyes a jogutódlásra vonatkozó szabály szerint értesíti Hatóságot nevének megváltozása esetén is.”

@@ -1,3 +1,0 @@
-193. § A Get. 122. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az engedélyesnek a Gt. rendelkezései szerinti szétválásához (különváláshoz, kiváláshoz), más vállalkozással történő egyesüléséhez (beolvadáshoz, összeolvadáshoz), jogutód nélküli megszűnéséhez, alaptőkéjének vagy törzstőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) a Hivatal hozzájáruló határozata szükséges. A cégjegyzékbe való bejegyzésre (változásbejegyzésére) irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt lehet benyújtani. A Hivatal nem tagadhatja meg az alaptőke vagy törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára a Gt. kötelezővé teszi.”

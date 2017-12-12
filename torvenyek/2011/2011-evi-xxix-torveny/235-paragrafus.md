@@ -1,1 +1,0 @@
-235. § Ahol jogszabály Budapest Ferihegy Nemzetközi Repülőteret, Budapest Ferihegyet, Ferihegyet vagy ferihegyi repülőteret említ, ott – a magyarországi hivatalos földrajzi nevek megállapításáról és nyilvántartásáról szóló 303/2007. (XI. 14.) Korm. rendeletben foglalt eljárástól eltekintve – Budapest Liszt Ferenc Nemzetközi Repülőteret kell érteni.

@@ -1,3 +1,0 @@
-139. § A Get. a következő 29/A. §-sal egészül ki:
-
-„29/A. § A földgázkereskedő köteles a felhasználók ellátására vonatkozóan részletes tervet készíteni, amely igazolja, hogy a földgázkereskedő által a felhasználók részére szerződésben vállalt ellátási szint figyelembevételével megállapított gázévenkénti fogyasztásnak megfelelő források a földgázkereskedő számára rendelkezésre állnak (a továbbiakban: forrásterv). A forrástervnek tartalmaznia kell az felhasználók ellátásához szükséges forrásszerződések mennyiségi feltételeit, továbbá az engedélyben meghatározottak szerint legalább havi vagy annál gyakoribb bontásban a források finanszírozhatóságát igazoló adatokat. A forrástervet a Hivatal jogosult ellenőrizni.”

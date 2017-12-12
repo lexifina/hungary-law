@@ -1,7 +1,0 @@
-131. § (1) A Get. 14. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Elosztóvezeték az előírt műszaki-biztonsági, pénzügyi és gazdasági feltételek megtartása mellett, a Hivatal által kiadott működési engedély alapján, a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó egyes építésügyi hatósági eljárások szabályairól szóló jogszabályban foglaltak szerint létesíthető. Az elosztóvezetéket csak az a földgázelosztó üzemeltetheti, akinek az a működési engedélyében szerepel.”
-
-(2) A Get. 14. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A földgázelosztónak rendelkeznie kell az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel történő adatcserére alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a szállítási rendszerüzemeltető részére a napi gázforgalmazás megbízható helyzetére vonatkozó adatszolgáltatást, valamint a rendszerhasználók felé az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat és adatcserét. Az informatikai rendszernek alkalmasnak kell lennie a szigetüzemhez vagy részleges szigetüzemhez csatlakozó termelésből eredő földgázmennyiség napi forgalmazásával kapcsolatos nominálások, allokálások kezelésére is.”
