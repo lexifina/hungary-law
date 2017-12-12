@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Mongólia Kormánya között a Magyarország és Mongólia közötti kétoldalú nemzetközi szerződések hatályának rendezéséről szóló Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
