@@ -1,0 +1,3 @@
+11. § A Tfvt. 8/C. §-a helyébe a következő rendelkezés lép:
+
+„8/C. § Kis teljesítményű erőmű létesítése miatt termőföld végleges más célú hasznosításának engedélyezése esetén az ingatlanügyi hatóság helyszíni szemle tartása és talajvédelmi szakkérdés vizsgálata nélkül, a rendelkezésére álló iratok alapján dönt, ha az átlagosnál gyengébb minőségű termőföldet érint és a 12. § (1) bekezdésben meghatározott kérelemben az igénybevevő nyilatkozik arról, hogy az érintett területen más beruházás megvalósítása nincs folyamatban. Az ügyintézési határidő ilyen esetben 8 nap, ha az ingatlanügyi hatóság rendelkezésére áll minden szükséges irat.”
