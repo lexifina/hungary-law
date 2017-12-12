@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Strasbourgban, 1959. április 20-án kelt, a kölcsönös bűnügyi jogsegélyről szóló európai egyezmény (a továbbiakban: Egyezmény) Strasbourgban, 2001. november 8-án kelt második kiegészítő jegyzőkönyve (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
