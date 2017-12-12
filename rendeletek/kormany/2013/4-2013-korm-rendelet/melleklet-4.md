@@ -6,11 +6,11 @@
 
 ## E) Alaptevékenység szabad maradványa (A–D)
 
-## F) Vállalkozási tevékenységet terhelő befizetési kötelezettség (B*0,1)
+## F) Vállalkozási tevékenységet terhelő befizetési kötelezettség (B*0,09)
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^292]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^293]
 
 ## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
@@ -60,29 +60,35 @@
 
 - MSZSZ: nőgyógyászat.
 
-5. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 13. Célelőirányzatok jogcím tekintetében a kifizetett támogatások közül:
+5. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím,
+
+1. Gyógyító-megelőző ellátás jogcímcsoport, 13. Célelőirányzatok jogcím tekintetében a kifizetett támogatások közül:
 
 – méltányossági alapon történő térítések,
 
 – alapellátási vállalkozás támogatási átalánydíj,
 
+– tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása,
+
 – tervezett külföldi ellátások orvosi felülvizsgálata,
 
 – egészségügyi dolgozók béremelésének fedezete,
 
+– egészségügyi dolgozók 2017. november havi béremelésének fedezete,
+
 – az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése,
 
-– tartósan betöltetlen háziorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása,
-
-– egészségügyi dolgozók mozgóbér elemeinek támogatása,
+– egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete,
 
 – fiatal szakorvosok támogatása,
 
-– egészségügyi dolgozók 2016. évi béremelésének fedezete.
+– működési és egyéb támogatás.
 
-6. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 18. Összevont szakellátás jogcím tekintetében a kifizetett támogatások közül:
+6. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím,
 
-– járóbeteg szakellátás (laborkassza nélkül),
+1. Gyógyító-megelőző ellátás jogcímcsoport, 18. Összevont szakellátás jogcím tekintetében a kifizetett támogatások közül:
+
+– járóbeteg szakellátás,
 
 – aktív fekvőbeteg szakellátás,
 
@@ -90,10 +96,12 @@
 
 – bázis finanszírozású szakellátás (BVOP),
 
+– várólista csökkentés,
+
 – extrafinanszírozás,
 
-– speciális finanszírozású szakellátás,
+– nagyértékű gyógyszerfinanszírozás,
 
-– várólista csökkentés és egyéb szakmapolitikai célok fedezete.
+– speciális finanszírozású szakellátás.
 
-[^292]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1–2. pontja és 11. § 13–14. pontja szerint módosított szöveg.
+[^293]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1–2. pontja és 11. § 13–14. pontja, a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 2. pontja szerint módosított szöveg.

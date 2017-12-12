@@ -2,7 +2,7 @@
 
 ## J) Passzív időbeli elhatárolások
 
-12. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^326]
+12. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^329]
 
 ## A konszolidálás során elvégzendő feladatok
 
@@ -42,7 +42,7 @@
 
 4.8. a költségvetési jelentések 4.7. pont szerinti rovatain kimutatott – teljesítéssel csökkentett – kötelezettségvállalások, más fizetési kötelezettségek összegével a Költségvetési évben esedékes kötelezettségek vagy a Költségvetési évet követően esedékes kötelezettségek sorok csökkentését a Mérleg szerinti eredmény sorral szemben a konszolidált mérlegben, az Egyéb ráfordítások sor csökkentését a konszolidált eredménykimutatásban,
 
-4.9. a költségvetési jelentések B403. Közvetített szolgáltatások ellenértéke és B408. Kamatbevételek és más nyereségjellegű bevételek rovatain államháztartáson belülről kimutatott bevételek csökkentését a konszolidált költségvetési jelentésben, a Mérleg szerinti eredmény sor csökkentését a Felhalmozott eredmény sorral szemben a konszolidált mérlegben, az Eszközök és szolgáltatások értékesítése nettó eredményszemléletű bevételei vagy a Kapott (járó) kamatok és kamatjellegű eredményszemléletű bevételek sorok csökkentését a konszolidált eredménykimutatásban,
+4.9. a költségvetési jelentések B403. Közvetített szolgáltatások ellenértéke és B408. Kamatbevételek és más nyereségjellegű bevételek rovatain államháztartáson belülről kimutatott bevételek csökkentését a konszolidált költségvetési jelentésben, a Mérleg szerinti eredmény sor csökkentését a Felhalmozott eredmény sorral szemben a konszolidált mérlegben, az Eszközök és szolgáltatások értékesítése nettó eredményszemléletű bevételei vagy az Egyéb kapott (járó) kamatok és kamatjellegű eredményszemléletű bevételek sorok csökkentését a konszolidált eredménykimutatásban,
 
 4.10. a költségvetési jelentések K335. Közvetített szolgáltatások és K353. Kamatkiadások rovatain államháztartáson belülre kimutatott kiadások csökkentését a konszolidált költségvetési jelentésben, a Mérleg szerinti eredmény sor növelését a Felhalmozott eredmény sorral szemben a konszolidált mérlegben, az Igénybe vett szolgáltatások vagy a Fizetendő kamatok és kamatjellegű ráfordítások sorok csökkentését a konszolidált eredménykimutatásban,
 
@@ -66,4 +66,4 @@
 
 4.20. a mérlegekben a Kincstárban vezetett forintszámlák és a Kincstárban vezetett devizaszámlák sorok összegével – a Kincstári Egységes Számla kivételével – a Forintszámlák, devizaszámlák sor csökkentését a Kincstári számlavezetéssel kapcsolatos elszámolások sorral szemben a konszolidált mérlegben.
 
-[^326]: A 12. melléklet a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 2. pontja, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 4. pontja, a 22. § 39–42. pontja szerint módosított szöveg.
+[^329]: A 12. melléklet a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 2. pontja, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 4. pontja, a 22. § 39–42. pontja, a 380/2017. (XII. 11.) Korm. rendelet 6. § 9. pontja szerint módosított szöveg.

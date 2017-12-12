@@ -8,7 +8,7 @@
 
 | 3. | XVII. fejezet 21. cím 2. alcím | Nemzeti Fejlesztési Minisztérium | A cím terhére vállalt kötelezettségek adatai, a kifizetésekkel kapcsolatos követelések | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 4. | XX. fejezet 21. cím 1. alcím 1. jogcímcsoport 1–4., 8. jogcím, 3. jogcímcsoport 3., 7–8. jogcím | központi családtámogatási szerv | A jogtalanul igénybevett ellátásokkal kapcsolatos követelések és a kötelezettségek adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 4. | XX. fejezet 21. cím 1. alcím 1. jogcímcsoport 8. jogcím, 3. jogcímcsoport 8. jogcím | fővárosi és megyei kormányhivatalok | A jogtalanul igénybe vett ellátásokkal kapcsolatos követelések és kötelezettségek adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 5. | XX. fejezet 21. cím 2. alcím | kezelő szerv | a települési nemzetiségi önkormányzatok és a területi nemzetiségi önkormányzatok részére biztosított működési és feladatalapú támogatásokkal kapcsolatos kötelezettségvállalások és követelések adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
@@ -18,7 +18,7 @@
 
 | 8. | XVII. fejezet 21. cím 1. alcím 1. jogcímcsoport, XVIII. fejezet 8. cím, XLII. fejezet 1. cím 1–6. és 8–18. alcím, 2–3. cím, 4. cím 1. alcím 9. jogcímcsoport 2. alcím 2. jogcímcsoport, 7. cím 2. alcím, 31. cím, 32. cím 1. alcím 22. jogcímcsoport, 33. cím 14–20. alcím | Nemzeti Adó- és Vámhivatal | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
-| 9. | Az adókkal, vámokkal, illetékekkel, termékdíjjal, kapcsolódó közhatalmi bevételekkel (pótlékok, bírságok) kapcsolatos követelések és kötelezettségek, a tartozások fejében átvett eszközökkel kapcsolatos adatok | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 9. | Az adókkal, vámokkal, illetékekkel, termékdíjjal, kapcsolódó közhatalmi bevételekkel (pótlékok, bírságok) kapcsolatos követelések és kötelezettségek, a tartozások fejében átvett eszközökkel kapcsolatos adatok. A vállalkozások folyó támogatásához kapcsolódó követelések és kötelezettségvállalások. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 10. | XLII. fejezet 1. cím 7. alcím | Magyar Bányászati és Földtani Szolgálat | Bányajáradék beszedésével kapcsolatos követelések és kötelezettségek. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
@@ -30,7 +30,7 @@
 
 | lakáscélú állami támogatások ügyében eljáró szerv, Erste Lakástakarék- pénztár Zrt., Fundamenta – Lakáskassza Zrt., OTP Lakás- takarékpénztár Zrt., Aegon Magyarország Lakás- takarékpénztár Zrt. | Lakás-előtakarékosság jogtalanul igénybe vett állami támogatásával kapcsolatos követelések és kötelezettségek adatai |
 
-| 14. | XLII. fejezet 33. cím 3. és 4. alcím | EXIM Export Bank Biztosító Magyar Export- Import Bank Zrt. | A biztosított támogatásokról szóló kötelezettségvállalások (támogatói okiratok, támogatási szerződések) adatai. Állami kezességbeváltásból eredő követelések, a kamatkiegyenlítési rendszer keretében fennálló követelések és kötelezettségek, a kárkintlévőség, egyéb állammal szembeni követelések és kötelezettségek adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 14. | XLII. fejezet 33. cím 3. és 4. alcím | Magyar Exporthitelt Biztosító Zrt. Magyar Export- Import Bank Zrt. | A biztosított támogatásokról szóló kötelezettségvállalások (támogatói okiratok, támogatási szerződések) adatai. Állami kezességbeváltásból eredő követelések, a kamatkiegyenlítési rendszer keretében fennálló követelések és kötelezettségek, a kárkintlévőség, egyéb állammal szembeni követelések és kötelezettségek adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 15. | XLII. fejezet 33. cím 5. alcím | Garantiqa Hitelgarancia Zrt. | A biztosított támogatásokról szóló kötelezettségvállalások (támogatói okiratok, támogatási szerződések) adatai. Az állam által vállalt kezesség és viszont-garancia érvényesítéséből származó követelések és kötelezettségek adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
@@ -44,7 +44,7 @@
 
 | 20. | nincs címrendhez kötve | Európai Uniós támogatások pénzügyi lebonyolításában, illetve ehhez kapcsolódó beszámolási és könyvvezetési kötelezettség teljesítésében részt vevő szervezetek | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek adatai A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések adatai | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
-3. melléklet a 4/2013. (I. 11.) Korm. rendelethez
+3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^292]
 
 ## Maradványkimutatás
 
@@ -73,3 +73,5 @@ III. Vállalkozási tevékenység költségvetési egyenlege (05–06)
 08. Vállalkozási tevékenység finanszírozási kiadásai
 
 IV. Vállalkozási tevékenység finanszírozási egyenlege (07–08)
+
+[^292]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
