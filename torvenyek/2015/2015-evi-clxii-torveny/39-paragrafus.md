@@ -1,3 +1,0 @@
-39. § A Bit. 199. §-a a következő szöveggel lép hatályba:
-
-„199. § Magyarország területén – a biztosítótól vagy a viszontbiztosítótól kockázatot átvállalni jogosult – különleges célú gazdasági egység a Felügyelet engedélyével akkor alapítható, ha az megfelel a Bizottságnak a Szolvencia 2 irányelv 211. cikk (2) bekezdés a)–g) pontjában meghatározott tárgykörben kiadott rendeletében meghatározott követelményeknek.”
