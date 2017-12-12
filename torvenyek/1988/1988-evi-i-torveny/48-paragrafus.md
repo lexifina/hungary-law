@@ -132,7 +132,7 @@ b) a miniszter, hogy
 
 23. a közutak forgalombiztonsági szempontjai felülvizsgálatának (auditálásának) szakmai szabályait,
 
-24. a közúti szállításra vonatkozó egyes szociális jogszabályok alapján végzett közlekedési hatósági ellenőrzés részletes szabályait,
+24.
 
 25. az alagutak tervezésének, kivitelezésének, üzembe helyezésének és üzemeltetésének részletes műszaki szabályait,
 
@@ -186,7 +186,9 @@ b) a miniszter, hogy
 
 49. az úthálózat-védelem érdekében megvalósuló rendszerek létesítésére és működtetésére vonatkozó részletes szabályokat,
 
-50. a 21/M. § szerinti kockázatértékelő rendszerrel kapcsolatos, a közúti vállalkozások kockázati profiljának meghatározására és a fokozott kockázatot jelentő vállalkozások szigorúbb és gyakoribb ellenőrzésére vonatkozó részletes szabályokat
+50. a 21/M. § szerinti kockázatértékelő rendszerrel kapcsolatos, a közúti vállalkozások kockázati profiljának meghatározására és a fokozott kockázatot jelentő vállalkozások szigorúbb és gyakoribb ellenőrzésére vonatkozó részletes szabályokat,
+
+51. a vizsgáló állomások auditálásáról, valamint a tanúsítási tevékenységükről szóló részletes szabályokat
 
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 

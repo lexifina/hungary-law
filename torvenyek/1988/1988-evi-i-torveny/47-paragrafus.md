@@ -14,7 +14,7 @@
 
 7. út: a járművek és a gyalogosok közlekedésére, vagy csak a járművek, illetve csak a gyalogosok közlekedésére szolgáló, e célra létesített vagy kijelölt közterület, vagy magánterület (közút, magánút); magánútnak kell tekinteni az állam vagy az önkormányzat tulajdonában álló területen lévő, közforgalom elől elzárt utat is;
 
-8. közforgalom elől elzárt magánút: a sorompóval, kapuval vagy más fizikai eszközzel lezárt, vagy „Mindkét irányból behajtani tilos” jelzőtáblával és a „magánút” feliratot tartalmazó kiegészítő táblával jelzett út, amely az ingatlan-nyilvántartásban magánútként van bejegyezve;
+8. közforgalom elől elzárt magánút: a sorompóval, kapuval vagy más fizikai eszközzel lezárt, vagy „Mindkét irányból behajtani tilos” jelzőtáblával és a „magánút” feliratot tartalmazó kiegészítő táblával jelzett út, amely az ingatlan-nyilvántartásban közforgalom elől elzárt magánútként van bejegyezve;
 
 9. az út műtárgya: a híd, a pontonhíd, a hajóhíd, a felüljáró, az áteresz, az alagút, az aluljáró, a támfal, a bélésfal, az út víztelenítését szolgáló árok, csatorna vagy más vízelvezető létesítmény; a két méternél nagyobb nyílású áthidaló műtárgy: híd, a két méternél kisebb nyílású áthidaló műtárgy: áteresz;
 

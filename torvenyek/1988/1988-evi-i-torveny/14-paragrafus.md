@@ -2,7 +2,7 @@
 
 a) a közút kezelője a közúton folyó munka, a közút állagának védelme, a közúti forgalom biztonsága vagy időjárási körülmények miatt,
 
-b) a rendőrség, tűzoltóság és a Magyar Honvédség a rájuk vonatkozó jogszabályok által meghatározott esetekben,
+b) a rendőrség, tűzoltóság, a Nemzeti Adó- és Vámhivatal és a Magyar Honvédség a rájuk vonatkozó jogszabályok által meghatározott esetekben,
 
 c) a közlekedési hatóság a törvényben meghatározott feladatai ellátásához szükséges mértékben
 

@@ -30,4 +30,6 @@ e) az Európai Parlament és a Tanács 2008/96/EK irányelv (2008. november 19.)
 
 f) a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2015. március 11-i 2015/413/EU európai parlamenti és tanácsi irányelv 2. cikk a)–d) és g) pontja, 4–5. cikke és II. Melléklete;
 
-g) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 49. alpontja alapján kiadott jogszabállyal együtt – az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelv, 6. cikke.
+g) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 49. alpontja alapján kiadott jogszabállyal együtt – az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelv, 6. cikke;
+
+i) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9. cikk (1) bekezdésének és 10. cikkének.
