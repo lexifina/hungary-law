@@ -16,10 +16,4 @@
 
 (10) Az (1)–(3) bekezdés rendelkezéseit az elosztóvezetékekhez tartozó gázfogadó és nyomásszabályozó állomásokra is alkalmazni kell, azzal, hogy a bányafelügyelet a (2) bekezdés szerinti eljárásban használati jogot állapít meg.”
 
-(3) A Bt. 50/A. § (1) bekezdése a következő 31. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány)
-
-„31. a bányászati hatósági feladatokat ellátó szervek által – közigazgatási hatósági hatáskörében eljárva – alkalmazandó kiegészítő eljárási szabályokra”
-
-(vonatkozó részletes szabályok rendeletben történő megállapítására.)
+(3)
