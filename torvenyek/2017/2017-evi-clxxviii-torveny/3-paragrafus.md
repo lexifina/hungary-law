@@ -1,7 +1,3 @@
 ## 2. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-3. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„i) rendszeres pénzellátás: a táppénz, a csecsemőgondozási díj, a gyermekgondozási díj, az öregségi nyugdíj, a korhatár előtti ellátás, a szolgálati járandóság, a táncművészeti életjáradék, az átmeneti bányászjáradék, a megváltozott munkaképességű személyek ellátásai, az öregségi járadék, a munkaképtelenségi járadék, az özvegyi járadék, a növelt összegű öregségi, munkaképtelenségi és özvegyi járadék, az özvegyi nyugdíj – kivéve az ideiglenes özvegyi nyugdíjat, továbbá a házastársa jogán árvaellátásra jogosult fogyatékkal élő, illetve tartósan beteg vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodó személy özvegyi nyugdíját –, a baleseti táppénz, a hozzátartozói baleseti nyugellátás, az Flt. alapján folyósított pénzbeli ellátás, a bányászok egészségkárosodási járadéka, a rokkantsági járadék, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a gyermekgondozást segítő ellátás, a gyermekgondozási segély, a gyermeknevelési támogatás, az időskorúak járadéka, a foglalkoztatást helyettesítő támogatás, az egészségkárosodási és gyermekfelügyeleti támogatás, az ápolási díj, a tartós ápolást végzők időskori támogatása, a nemzeti helytállásért elnevezésű pótlék, a közszolgálati járadék, valamint az uniós rendeletek alapján külföldi szerv által folyósított egyéb azonos típusú ellátás;”
+3–6. §

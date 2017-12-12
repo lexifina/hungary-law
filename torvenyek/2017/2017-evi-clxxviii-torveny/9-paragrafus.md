@@ -1,1 +1,0 @@
-9. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 1.8. pontjában az „ápolási díj” szövegrész helyébe az „ápolási díj és a tartós ápolást végzők időskori támogatása” szöveg lép.
