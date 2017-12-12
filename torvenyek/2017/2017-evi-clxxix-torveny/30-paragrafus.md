@@ -1,0 +1,3 @@
+## 28. A Magyar Népköztársaság és a Nemzetközi Atomenergia Ügynökség között a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződés szerinti biztosítékok alkalmazásáról Bécsben 1972. március 6-án aláírt egyezmény kihirdetéséről szóló 1972. évi 9. törvényerejű rendelet módosítása
+
+30. § A Magyar Népköztársaság és a Nemzetközi Atomenergia Ügynökség között a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződés szerinti biztosítékok alkalmazásáról Bécsben 1972. március 6-án aláírt egyezmény kihirdetéséről szóló 1972. évi 9. törvényerejű rendelet 4. §-ában az „Országos Atomenergia Bizottság elnöke” szövegrész helyébe az „Országos Atomenergia Hivatal” szöveg lép.
