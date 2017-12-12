@@ -1,0 +1,225 @@
+# A Kormány 387/2017. (XII. 12.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 209. szám, 2017. december 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/50ccf74bb07b1a9dbc93d364a2e9b7fa6f951047/dokumentumok/850e27268cfb281588c4b8b7ef18b3e5ba10ae62/letoltes)
+
+---
+
+A Kormány 387/2017. (XII. 12.) Korm. rendelete
+a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet, továbbá az állami projektértékelői
+jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény
+végrehajtásáról szóló 110/2016. (V. 25.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15a. pontjában,
+a 2. alcím tekintetében az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló
+2016. évi XXXIII. törvény 11. § c) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosítása
+1. §
+A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának
+rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] a következő
+20/A. §-sal egészül ki:
+„20/A. § (1) Az irányító hatóság köteles a kiemelt projekt
+a) támogatásáról szóló döntést és
+b) támogatási szerződése szakmai tartalmat is érintő módosítását
+megelőzően a szakpolitikai felelős, továbbá jogszabályban vagy kormányhatározatban meghatározott más felelős
+véleményét beszerezni.
+(2) Ha az (1) bekezdés szerinti felelős a megkereséstől számított 8 napon belül nem ad véleményt, egyetértőnek kell
+tekinteni.”
+2. §
+A 272/2014. (XI. 5.) Korm. rendelet 57/C. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) EMVA forrásból nyújtott,
+a) egységes kérelemmel érintett vagy
+b) az 1305/2013/EU európai parlamenti és tanácsi rendelet 17. cikk (5) bekezdése, 19. cikk (1) bekezdés a) pont
+iii) alpontja, 27. cikke vagy 28. cikk (9) bekezdése alapján nyújtott
+támogatás esetén a felhívás rendelkezhet úgy, hogy a támogatás igénybevételére benyújtott támogatási kérelem
+magában foglalja a kifizetési igénylést is.”
+3. §
+A 272/2014. (XI. 5.) Korm. rendelet 59. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A konzorciumi tagoknak a támogatási szerződés megszegéséért való felelősségét a konzorciumi megállapodás
+rendezi.”
+4. §
+A 272/2014. (XI. 5.) Korm. rendelet a következő 95/A. §-sal egészül ki:
+„95/A. § Nagyprojekt esetén az építési beruházás tárgyú közbeszerzési szerződés megkötésére irányuló
+közbeszerzési eljárás akkor indítható meg, ha a műszaki leírás kivitelezési dokumentáció szinten kidolgozott. Ha
+a közbeszerzési eljárás megindításakor nem áll rendelkezésre a kivitelezési dokumentáció, az ellenőrzés típusától
+függően az irányító hatóság vezetője vagy az európai uniós források felhasználásáért felelős miniszter nem
+támogató tartalmú tanúsítványt vagy jelentést állít ki.”
+5. §
+A 272/2014. (XI. 5.) Korm. rendelet 35. alcíme a következő 100/A. §-sal egészül ki:
+„100/A. § (1) Ha a közbeszerzési eljárás alapján megkötött szerződés módosítása azért válik szükségessé, mert
+a) a támogatási szerződésben módosult a szerződéssel érintett projektelem finanszírozási módja, vagy
+b) az igénybe venni kívánt alvállalkozói teljesítés mértéke az eredeti szerződésben rögzítetthez képest magasabbá
+válik,
+akkor a közbeszerzési eljárás alapján megkötött szerződésnek kizárólag a finanszírozási módra vonatkozó,
+a támogatási szerződésnek megfelelő módosítására, valamint az alvállalkozói teljesítés mértéke módosítására
+a 100. § (1) és (3) bekezdését nem kell alkalmazni. A kedvezményezett köteles a szerződésmódosításról
+– az alátámasztó dokumentumok megküldésével – az irányító hatóságot 15 napon belül tájékoztatni.
+
+(2) Az (1) bekezdés szerinti szerződésmódosítás esetén a szerződésmódosítással érintett támogatási összeg
+– a 100. § (5) bekezdéstől eltérően – folyósítható.”
+6. §
+A 272/2014. (XI. 5.) Korm. rendelet 104. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A támogatást igénylő vagy a kedvezményezett – figyelemmel a 95. § (4) bekezdésében foglaltakra is –
+a közbeszerzési eljárást abban az esetben indíthatja meg vagy folytathatja, ha az európai uniós források
+felhasználásáért felelős miniszter a közbeszerzési dokumentumokat ellenőrizte, és erről támogató tartalmú, vagy
+feltétellel támogató tartalmú eljárás megindítására vonatkozó és a közbeszerzési dokumentumokat jóváhagyó
+tanúsítványt állított ki. Ha a támogatást igénylő vagy a kedvezményezett a közbeszerzési eljárás megindítását
+megelőzően kezdeményezte a közbeszerzési dokumentumok központi ellenőrzését, akkor a közbeszerzési eljárást
+megindító végleges dokumentumokat az irányító hatóság, valamint az európai uniós források felhasználásáért
+felelős miniszter részére legkésőbb a közbeszerzési eljárás megindítását követő 5 munkanapon belül megküldi.
+Az irányító hatóság vagy az európai uniós források felhasználásáért felelős miniszter egyet nem értése esetén dönt
+a szabálytalansági eljárás kezdeményezéséről, továbbá dönt a megítélése szerint szabálytalanság megállapítására
+okot adó, nem reparálható közbeszerzési jogsértés esetén a Kbt. szerinti jogorvoslati eljárás kezdeményezéséről
+a Közbeszerzési Döntőbizottság előtt.”
+7. §
+A 272/2014. (XI. 5.) Korm. rendelet 108. § (1a) bekezdése helyébe a következő rendelkezés lép:
+„(1a) Ha a közbeszerzési eljárás alapján megkötött szerződés módosítása azért válik szükségessé, mert
+a) a támogatási szerződésben módosult a szerződéssel érintett projektelem finanszírozási módja, vagy
+b) az igénybe venni kívánt alvállalkozói teljesítés mértéke az eredeti szerződésben rögzítetthez képest magasabbá
+válik,
+akkor a közbeszerzési eljárás alapján megkötött szerződésnek kizárólag a finanszírozási módra vonatkozó,
+a támogatási szerződésnek megfelelő módosítására, valamint az alvállalkozói teljesítés mértéke módosítására
+az (1) bekezdést nem kell alkalmazni. A kedvezményezett köteles a szerződésmódosításról – az alátámasztó
+dokumentumok megküldésével – az irányító hatóságot 15 napon belül tájékoztatni.”
+8. §
+A 272/2014. (XI. 5.) Korm. rendelet 117. §-a a következő (7b) bekezdéssel egészül ki:
+„(7b) Az előlegen alapuló követelés visszafizetését vagy kompenzálását követően előleg újra igényelhető, ha erre
+a felhívás, illetve a támogatási szerződés lehetőséget biztosít.”
+9. §
+A 272/2014. (XI. 5.) Korm. rendelet 118/A. §-a a következő (2b) bekezdéssel egészül ki:
+„(2b) A (2a) bekezdés b) pontja nem alkalmazható a Magyarországon adószámmal nem rendelkező szállító esetén.”
+10. §
+A 272/2014. (XI. 5.) Korm. rendelet 124. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ha a felhívás, illetve a támogatási szerződés valamely elszámolható költségtípus vonatkozásában előírja,
+utófinanszírozás esetén a kifizetési igénylés keretében a költségeket elektronikusan kitöltött összesítőn kell
+elszámolni. A közbeszerzéssel érintett költségeket összesítőn nem lehet elszámolni.”
+11. §
+A 272/2014. (XI. 5.) Korm. rendelet 66. alcíme a következő 201/S. §-sal egészül ki:
+„201/S. § (1) A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet, továbbá az állami projektértékelői jogviszonyról,
+valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény végrehajtásáról szóló 110/2016.
+(V. 25.) Korm. rendelet módosításáról szóló 387/2017. (XII. 12.) Korm. rendelettel [a továbbiakban: 387/2017. (XII. 12.)
+Korm. rendelet] megállapított rendelkezéseket – a (2)–(4) bekezdésben foglalt kivétellel – a 387/2017. (XII. 12.)
+Korm. rendelet hatálybalépését megelőzően
+a) keletkezett támogatási jogviszonyokra, valamint
+b) megkezdett és a 387/2017. (XII. 12.) Korm. rendelet hatálybalépésekor még folyamatban lévő eljárásokban
+is alkalmazni kell.
+(2) A 387/2017. (XII. 12.) Korm. rendelettel megállapított 118/A. § (2b) bekezdését a 387/2017. (XII. 12.)
+Korm. rendelet hatálybalépését követően benyújtott előlegigénylések esetén kell alkalmazni.
+
+(3) A 387/2017. (XII. 12.) Korm. rendelettel megállapított 124. § (1) bekezdését a 387/2017. (XII. 12.) Korm. rendelet
+hatálybalépését követően benyújtott kifizetési igénylésekre kell alkalmazni.
+(4) A 387/2017. (XII. 12.) Korm. rendelettel megállapított 149. § (3) bekezdését a 387/2017. (XII. 12.) Korm. rendelet
+hatálybalépését követő hónap 1. napjától kell alkalmazni.”
+12. §
+A 272/2014. (XI. 5.) Korm. rendelet 1. melléklete (a továbbiakban: EMK) az 1. melléklet szerint módosul.
+13. § (1) A 272/2014. (XI. 5.) Korm. rendelet
+1. 39. § (2a) bekezdésében a „fennáll” szövegrész helyébe a „fennáll, kivéve az (5) bekezdés a) pontjában
+meghatározott esetet”szöveg,
+2. 79. § (2) bekezdés d) pontjában a „hozott jogerős határozatban” szövegrész helyébe a „hozott, e rendelet
+szerinti jogorvoslattal nem támadható döntésben”szöveg,
+3. 89. § (1) bekezdésében a „feltételeknek” szövegrész helyébe a „feltételeknek – így különösen a jogosultsági
+szempontoknak –”szöveg,
+4. 89. § (2) bekezdésében a „feltételeknek” szövegrész helyébe a „feltételeknek – így különösen a jogosultsági
+szempontoknak –”szöveg,
+5. 100. § (3) bekezdésében a„kezdeményezi”szövegrész helyébe a„kezdeményezheti”szöveg,
+6. 149. § (3) bekezdésében a„tizenharmadik”szövegrész helyébe a„harmadik”szöveg,
+7. 149. § (4) bekezdés e) pontjában a„termék”szövegrész helyébe a„termék vagy terméktípus”szöveg,
+8. 149. § (4) bekezdés f) pontjában a„terméket”szövegrész helyébe a„terméket vagy terméktípust”szöveg,
+9. 151. § (6) bekezdésében a „tizenkettedik” szövegrész helyébe a „18.” szöveg, az „annak kiállításától számított
+nyolc napon belül”szövegrész helyébe a„minden hónap 20. napjáig”szöveg
+lép.
+(2) Az EMK
+a) 163.1. pontjában a „státuszúra” szövegrész helyébe a „státuszúra vagy az irányító hatóság adminisztratív
+hibája esetén újra rögzíti a bizonylatot”szöveg,
+b) 185.3. pontjában a „kizárólag 100%-os támogatási intenzitás esetében köteles az irányító hatóság vizsgálni”
+szövegrész helyébe az„az irányító hatóság vizsgálja”szöveg,
+c) 188/A.4. pontjában a„határozatot”szövegrész helyébe a„döntést”szöveg,
+d) 211.6. pontjában a„határozat”szövegrész helyébe a„döntés”szöveg,
+e) 229.6. pontjában a „229.1a. pont c) alpontja” szövegrész helyébe a „229.1a. pont b) és c) alpontja” szöveg,
+az„előírása”szövegrész helyébe az„előírása, valamint az 549/2013. (XII. 30.) Korm. rendelet 5. § (3) bekezdése”
+szöveg,
+f) 238.4. pontjában a„félévenként”szövegrész helyébe a„naptári félévenként”szöveg,
+g) 247.6. pontjában az „A kötbérnek, az ügyleti kamatnak és a kötbér utáni késedelmi kamatnak” szövegrész
+helyébe az„Az ügyleti kamatnak”szöveg,
+h) 260.3. pontjában a„határozat (végzés)”szövegrész helyébe a„döntés”szöveg
+lép.
+(3) A 272/2014. (XI. 5.) Korm. rendelet 6. melléklet
+a) III. fejezet 12.1.1.2. pontjában a„szakmai megvalósításában” szövegrész helyébe az„előkészítésében, szakmai
+megvalósításában”szöveg,
+b) III. fejezet 12.1.1.4. pontjában a „menedzsmentjéhez vagy” szövegrész helyébe a „menedzsmentjéhez,
+előkészítéséhez vagy szakmai”szöveg
+lép.
+14. § (1) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet
+a) 77. § (1) bekezdés b) pontja,
+b) 156. § (3) bekezdés d) és e) pontja,
+c) 175. § (2) bekezdése,
+d) 175. § (8) bekezdésében a„(2),”szövegrész.
+
+(2) Hatályát veszti az EMK
+a) 56.4. pontja,
+b) 107.2. pontjában a„kizárólag 100%-os támogatási intenzitás esetében”szövegrész,
+c) 228.6. pontja,
+d) 229.1. pont j) alpontja,
+e) 230.5. pontja,
+f) 237.10. pontja,
+g) 238.3. pontjában az„ , EMVA esetén legfeljebb 60 napra”szövegrész,
+h) 295.1. pontja,
+i) 299.5. és 299.6. pontja,
+j) 308.1. pontjában a „releváns” szövegrész és a „Releváns szakmai tapasztalatnak a hasonló projekteket kezelő
+intézményrendszerben töltött idő vagy az ellenőrizendő témában szerzett jártasság tekinthető.”szövegrész,
+k) 315.2. pontja.
+2. Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló
+2016. évi XXXIII. törvény végrehajtásáról szóló 110/2016. (V. 25.) Korm. rendelet módosítása
+15. §
+Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi
+XXXIII. törvény végrehajtásáról szóló 110/2016. (V. 25.) Korm. rendelet [a továbbiakban: 110/2016. (V. 25.)
+Korm. rendelet] 2. § 1. és 2. pontja helyébe a következő rendelkezések lépnek:
+(E rendelet alkalmazásában)
+„1. feladatelrendelő dokumentum: olyan egyoldalú jognyilatkozat, amelyben az európai uniós források
+felhasználásáért felelős miniszter (a továbbiakban: miniszter) – vagy az általa írásban meghatalmazott személy
+– esetileg rendeli el és határozza meg az értékelő feladatát, és amelyben a miniszter által vezetett minisztérium
+(a továbbiakban: minisztérium) kötelezettséget vállal az abban meghatározott feladat igazolt teljesítése esetén
+történő díjfizetésre,
+2. munkáltató: a minisztérium,”
+16. §
+A 110/2016. (V. 25.) Korm. rendelet 8. alcíme helyébe a következő alcím lép:
+„8. Összeférhetetlenség, titoktartás
+13. § Az értékelő a feladatelrendelő dokumentum 14. § (4) bekezdése szerinti elfogadásával egyidejűleg nyilatkozik
+a 272/2014. Korm. rendelet VI. Fejezete szerinti összeférhetetlenség fennállásával összefüggésben, azzal, hogy
+a 272/2014. Korm. rendelet 39. § (2) bekezdése szerinti összeférhetetlenségi, valamint titoktartási nyilatkozatot
+a monitoring és információs rendszerben teszi meg.”
+17. §
+A 110/2016. (V. 25.) Korm. rendelet 14. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az értékelő legkésőbb a monitoring és információs rendszerben történő feladatelrendelésről szóló értesítést
+követő 72 órán belül – az (1) bekezdésben foglaltakra is tekintettel – a monitoring és információs rendszerben
+visszajelez, hogy a rábízott feladat ellátását vállalja-e. A feladat elvállalásával az értékelőnek kötelezettsége
+keletkezik a feladatelrendelő dokumentumban meghatározott határidőn belül az értékelési feladat elvégzésére,
+a minisztériumnak pedig – a feladat teljesítésének igazolásától függően – az értékelőnek járó díjazás kifizetésére.”
+18. §
+Hatályát veszti a 110/2016. (V. 25.) Korm. rendelet 17. §-a.
+3. Záró rendelkezések
+19. §
+Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 387/2017. (XII. 12.) Korm. rendelethez
+1. Az EMK a következő 233.1a. ponttal egészül ki:
+„233.1a. A 229.1. pont h) vagy l) alpontja szerinti esetben a 117. § (7) bekezdésében vagy a 118/A. §
+(6) bekezdésében előírt határidőt követő 30 napon belül benyújtott kifizetési igénylés esetén a követelés előírását
+vissza kell vonni, ha a projekt előrehaladását a kedvezményezett alátámasztja.”
+2. Az EMK 310.6. pontja a következő k) alponttal egészül ki:
+(A kockázatelemzés során – az ellenőrizendő projektek és kedvezményezettek jellemzőit figyelembe véve – javasolt
+mérlegelni)
+„k) az audit hatóság rendszerellenőrzése során megállapított kockázati szintet.”
+3. Az EMK 323.4. pontja helyébe a következő rendelkezés lép:
+„323.4. A 323.3. pont szerinti kiegészítést is minden érintettnek alá kell írnia. Az aláírás mellőzhető a kiegészítést
+tartalmazó dokumentum kedvezményezett részére – tértivevényes könyvelt küldeményként – történő
+megküldésével. A kedvezményezettnek a küldemény átvételét követő 8 napon belül lehetősége van észrevételeit
+jelezni. Ha e határidőn belül a kedvezményezett nem tesz észrevételt, a jegyzőkönyv kiegészítést elfogadottnak kell
+tekinteni.”
+
+V. A Kormány tagjainak rendeletei
