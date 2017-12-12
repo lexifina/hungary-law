@@ -1,6 +1,6 @@
 ## Hatósági jogkör
 
-3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el.
+3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EGK tanácsi irányelv, az 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendeletben és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
 
 (2) Az állami célú légiközlekedéssel összefüggő hatósági feladatokat katonai légügyi hatóság látja el.
 
@@ -54,9 +54,11 @@ d) az állami repülések céljára szolgáló repülőtér és a közös felhas
 
 (2g) A (2a) bekezdésben meghatározott eljárásban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-(3) A légiközlekedési hatóságok eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+(3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
 (3a) A légiközlekedési hatósági eljárással összefüggő igazgatási szolgáltatási díj fizetése alól mentesül a Magyar Honvédség.
+
+(3b) A katonai légügyi hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 (4) A katonai légügyi hatósági eljárással összefüggő igazgatási szolgáltatási díj megfizetése alól mentesül:
 

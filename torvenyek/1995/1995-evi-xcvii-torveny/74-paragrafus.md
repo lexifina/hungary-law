@@ -18,19 +18,19 @@ h) az agrárpolitikáért felelős miniszter, hogy a miniszterrel egyetértésbe
 
 i) a környezetvédelemért felelős miniszter, hogy a miniszterrel és a honvédelemért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a repülésmeteorológiai tájékoztatások és előrejelzések szolgáltatásával, ellenőrzésével, ezek díjazása és költségei megosztásával összefüggő feladatok rendjét és szabályait,
 
-j) a miniszter, hogy a környezetvédelemért felelős miniszterrel egyetértésben a motoros légi járművek zajkibocsátásának korlátozására vonatkozó szabályokat,
+j)
 
 k) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légtér-igénybevételi díj fizetésének feltételeit, mértékét és a díj fizetése alóli mentesség eseteit,
 
-l) a miniszter, hogy a polgári légiközlekedés tekintetében a légiközlekedési szakszemélyzet körét, a szakszemélyzetre vonatkozó részletes szabályokat, a szakszemélyzet képzésének részletes szabályait, a képzés engedélyezésének szabályait, a képzési engedély tartalmára, kiadására, felfüggesztésére és visszavonására vonatkozó szabályokat, továbbá a szakszolgálati engedélyek fajtáinak, kiadásának, meghosszabbításának, felfüggesztésének és visszavonásának részletes szabályait, a szakszolgálati engedélyek időbeni hatályát, a szakszolgálati engedélybe tehető bejegyzéseket, a szakszolgálati tevékenység ellátásával összefüggő jogokat és kötelezettségeket, a szakszolgálati engedélyek helyszíni elvételének és visszavonásának a szabályait – a rádiószolgálatok állomáskezelőire vonatkozó szabályok tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben –,
+l) a miniszter, hogy a polgári légiközlekedés tekintetében a légiközlekedési szakszemélyzet körét, a szakszemélyzetre vonatkozó részletes szabályokat, a szakszemélyzet képzésének részletes szabályait, továbbá a szakszolgálati engedélyek fajtáinak részletes szabályait, a szakszolgálati engedélybe tehető bejegyzéseket, a szakszolgálati tevékenység ellátásával összefüggő jogokat és kötelezettségeket, – a rádiószolgálatok állomáskezelőire vonatkozó szabályok tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben –;
 
 m) a miniszter, hogy az érintett önkormányzatok véleményének kikérésével a környezetvédelemért felelős miniszterrel, valamint – állami repülések céljára szolgáló repülőtér esetében a honvédelmért felelős miniszterrel – egyetértésben a repülőtér környezetét a repülés káros hatásaival szemben kímélő eljárásokat, a zajszintkövetelményeket és a környezet védelme érdekében szükséges intézkedéseket,
 
 n) a miniszter, hogy a honvédelemért felelős miniszterrel – valamint az 5. § (1) bekezdés b) pont ba) alpontjában említett esetben a környezetvédelemért felelős miniszterrel is – egyetértésben a magyar légtérnek az 5. §-ban meghatározott részeit, azok típusait és igénybevételük rendjét,
 
-o) a miniszter, hogy a földi kiszolgálás feltételeinek és engedélyezési rendjének a részletes szabályait,
+o) a miniszter, hogy a földi kiszolgálás feltételeinek a részletes szabályait,
 
-p) a miniszter, hogy az egyes légiközlekedési tevékenységek végzésének a részletes szabályait,
+p)
 
 q) a rendészetért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, az adópolitikáért felelős miniszterrel, valamint a miniszterrel egyetértésben a légiközlekedés védelme érdekében a 67. § (11) és (12) bekezdésében meghatározott ellenőrzés alá vonható munkavállalók, az SRA-ra belépő személyek körét, valamint az ellenőrzési eljárás rendjét,
 
@@ -56,9 +56,9 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap
 
-a) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légiközlekedési hatóságok eljárási díjai fizetésének feltételeit, módját és a díj összegét,
+a) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légiközlekedési hatóság eljárási díjai fizetésének feltételeit, módját és a díj összegét,
 
-b) a miniszter, hogy a 19. § (1) és (3) bekezdésében meghatározott esetekben az üzemben tartás feltételeit, az üzemben tartási engedély tartalmi elemeit, valamint kiadásának, felfüggesztésének és visszavonásának részletes szabályait
+b)
 
 c) a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben, hogy a 19. § (4) bekezdésében meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait, és az üzemben tartási engedély kiadásának, felfüggesztésének és visszavonásának a szabályait,
 
@@ -70,7 +70,7 @@ f) a miniszter, hogy a nyilvános és a polgári célú nem nyilvános repülőt
 
 g) a honvédelemért felelős miniszter, hogy az állami repülések céljára szolgáló repülőtér esetében a miniszterrel és a tűzvédelmi feltételek tekintetében a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel is egyetértésben – a 39. § (1) bekezdésében említett tevékenységek részletes műszaki követelményeit, továbbá az üzemben tartás és üzemeltetés feltételeinek a részletes szabályait,
 
-h) a miniszter, hogy a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek, típusalkalmassági vizsgálatának és a típusalkalmassági bizonyítvány kiadásának, felfüggesztésének és bevonásának részletes szabályait,
+h) a miniszter, hogy a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek, típusalkalmassági vizsgálatának részletes szabályait,
 
 i) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az állami légijármű jelzéseinek és nyilvántartásának részletes szabályait, az állami légijármű és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait, az állami légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatának a részletes szabályait,
 
@@ -92,13 +92,13 @@ q) a rendészetért felelős miniszter, hogy a miniszterrel egyetértésben a sz
 
 r) a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben az állami célú légiközlekedés tekintetében a nyilvános repülőrendezvény szabályait,
 
-s) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben – a légiközlekedés védelme tekintetében a rendészetért felelős miniszter egyetértésével is – és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a légiközlekedési bírság kivetésének a részletes szabályait és a beszedett bírság összegének felhasználási rendjét,
+s) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben – a légiközlekedés védelme tekintetében a rendészetért felelős miniszter egyetértésével is – és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a légiközlekedési bírság kivetésének a részletes szabályait,
 
 t) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a zajvédelmi díj megállapításának a részletes szabályait és a beszedett díj összegének felhasználási rendjét, valamint
 
 u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légterében és repülőterein történő repülések végrehajtásának és a légiforgalmi szolgálatok ellátásának és eljárásainak a részletes szabályait
 
-v)
+v) a honvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a katonai légügyi hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
 
 w) a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – az állami szerv által igazolt állami célú nemzetközi repülésekhez és a magyar állami légijárművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait,
 

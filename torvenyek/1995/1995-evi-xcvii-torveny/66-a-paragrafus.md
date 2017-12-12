@@ -36,7 +36,7 @@ folytatja le.
 
 (4)
 
-(5) A bírság kivetésének részletes szabályait és a beszedett bírság összegének felhasználási rendjét a miniszter a rendészetért, valamint az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
+(5) A bírság kivetésének részletes szabályait a miniszter a rendészetért, valamint az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
 
 (6) Nyilvános repülőtér üzemben tartója e törvényben, valamint a repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló kormányrendeletben előírt tennivalók ellátásához szükséges anyagi fedezet biztosítása érdekében a repülőtér-használat díjának elemei között a zajt okozó légijárművek járatóival szemben zajvédelmi költségeit érvényesítheti.
 
