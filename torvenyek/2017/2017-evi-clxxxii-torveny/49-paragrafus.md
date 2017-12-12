@@ -1,0 +1,1 @@
+49. § A Kstv. 4. § (1) bekezdés d) pont nyitó szövegrészében a „hajózási létesítmény létesítése, fejlesztése” szövegrész helyébe a „hajózási létesítmény, intermodális csomópont létesítése, fejlesztése” szöveg lép.

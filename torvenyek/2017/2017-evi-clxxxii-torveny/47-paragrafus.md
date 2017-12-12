@@ -1,0 +1,3 @@
+47. § Az Ngt. a következő 16. §-sal egészül ki:
+
+„16. § E törvénynek a közlekedéssel összefüggő egyes törvények szóló 2017. évi CLXXXII. törvénnyel (a továbbiakban: Módtv2.) megállapított 6/M–6/R. §-sát, valamint 12. § (7) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő hatósági és egyéb eljárásokban is alkalmazni kell.”

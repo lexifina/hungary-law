@@ -1,0 +1,9 @@
+79. § Ez a törvény az 1370/2007/EK rendeletnek a belföldi vasúti személyszállítási szolgáltatások piacának megnyitása tekintetében történő módosításáról szóló, 2016. december 14-i (EU) 2016/2338 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke
