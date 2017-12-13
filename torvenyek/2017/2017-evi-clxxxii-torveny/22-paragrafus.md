@@ -1,1 +1,1 @@
-22. § Az Lt. 1. melléklete az 1. melléklet szerint módosul.
+22–24. §

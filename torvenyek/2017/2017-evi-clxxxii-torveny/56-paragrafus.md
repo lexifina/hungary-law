@@ -1,3 +1,0 @@
-56. § Az Sztv. 10. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Autóbusszal végzett menetrend szerinti, különcélú menetrend szerinti, szerződéses és különjárati személyszállítási szolgáltatás a gazdálkodó szervezet székhelye szerint illetékes közlekedési hatóság által, a szolgáltató kérelmére az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló rendeletben és az abban foglalt eljárási rend szerint kiadott, az e tevékenység végzésére feljogosító autóbuszos személyszállító engedély, valamint nemzetközi forgalomban – ideértve a kabotázst is – közösségi engedély birtokában végezhető.”
