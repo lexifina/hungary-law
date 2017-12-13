@@ -1,22 +1,23 @@
-## 4. §[^2]
+## 4. §[^3]
 
-5. § (1)[^3]
+5. § (1)[^4]
 
 (2) Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet
 
-1. 2. melléklete a 2. melléklet,
+1–2.[^5]
 
-2. 4. melléklete a 3. melléklet,
+3.[^6]
 
-3.[^4]
+4.[^7]
 
-4. 15. melléklete az 5. melléklet,
+5.[^8]
 
-5.[^5]
+6.[^9]
 
-6. 17. melléklete a 7. melléklet
-
-[^2]: A 4. § a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^3]: Az 5. § (1) bekezdése a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^4]: Az 5. § (2) bekezdés 3. pontja a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^5]: Az 5. § (2) bekezdés 5. pontja a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^3]: A 4. § a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^4]: Az 5. § (1) bekezdése a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^5]: Az 5. § (2) bekezdés 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § (2) bekezdés 3. pontja a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^7]: Az 5. § (2) bekezdés 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. § (2) bekezdés 5. pontja a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^9]: Az 5. § (2) bekezdés 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
