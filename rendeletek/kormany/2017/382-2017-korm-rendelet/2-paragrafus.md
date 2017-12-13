@@ -1,0 +1,1 @@
+## 1. § A Kormány a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás (a továbbiakban: Keretmegállapodás) módosításáról szóló, levélváltással létrejött egyezményt (a továbbiakban: Módosítás) kihirdeti.
