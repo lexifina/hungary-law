@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2017-04-01 | 1993-9-20-3D.104 | 3/2004. (I. 15.) ESZCSM rendelet |
 | 2017-07-01 | 1993-9-20-3D.105 | 32/2016. (X. 27.) EMMI rendelet |
 | 2017-08-01 | 1993-9-20-3D.106 | 17/2016. (VII. 22.) EMMI rendelet |
+| 2017-12-13 | 1993-9-20-3D.107 | 17/2016. (VII. 22.) EMMI rendelet |
