@@ -1,1 +1,0 @@
-1. § Hatályát veszti a Magyar Népköztársaság Kormánya és a Kubai Köztársaság Kormánya között az egészségügyi együttműködés tárgyában Budapesten 1966. június 15. napján aláírt egyezmény kihirdetéséről szóló 1969. évi 16. törvényerejű rendelet.
