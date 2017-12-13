@@ -26,6 +26,9 @@ f) a műtét során eltávolított anyag szövettani vizsgálatának lehetőség
 
 g) a beteg részére zárójelentést, amellyel szükség esetén a keresőképtelen állományba való felvételének indokoltságát igazolhatja.
 
+(3)[^5] A (2) bekezdés e) pont eb) alpontja szerinti esetben az aktív fekvőbeteg hátteret biztosító fekvőbeteg-szakellátást nyújtó egészségügyi intézmény az egynapos ellátást végző járóbeteg-szakellátást nyújtó egészségügyi intézményektől az aktív fekvőbeteg háttér biztosításáért térítési díjat nem kérhet.
+
 [^2]: A 3. § (1) bekezdés záró szövegrésze a 36/2011. (VI. 27.) NEFMI rendelet 7. §-a szerint módosított szöveg.
 [^3]: A 3. § (2) bekezdésének e) pontja a 10/2008. (III. 18.) EüM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 3. § (2) bekezdés e) pont eb) alpont a 6/2012. (VI. 28.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdését a 34/2017. (XII. 12.) EMMI rendelet 2. §-a iktatta be.
