@@ -1,0 +1,3 @@
+24. § Az MMA tv. 23. §-a helyébe a következő rendelkezés lép:
+
+„23. § Az elnököt feladatai ellátásában – a határon túli magyar ügyekben és a nemzetközi ügyekben – két alelnök segíti. Az alelnököt a közgyűlés három évre, a közgyűlés időpontjában legalább két éve megválasztott akadémikusok közül választja. Ha az alelnök mandátuma a megbízástól számított három éven belül megszűnik, helyére új alelnök az előző alelnök eredeti mandátumából hátralévő időre választható. Az alelnök legfeljebb egy alkalommal újraválasztható. Az alelnök újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni az alelnök azon mandátumát, amely az előző alelnök eredeti mandátumából hátralévő időre szólt.”

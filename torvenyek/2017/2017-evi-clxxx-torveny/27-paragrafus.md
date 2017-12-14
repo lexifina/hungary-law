@@ -1,0 +1,3 @@
+27. § Az MMA tv. 27. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az MMA vagyonának átruházásáról, megterheléséről, használatba adásáról (e § alkalmazásában a továbbiakban együtt: hasznosítás) – ide nem értve a pénzeszköz-felhasználást – e törvényben és a vagyongazdálkodási szabályzatban meghatározottak szerint a közgyűlés, az elnökség vagy az elnök dönt. Az MMA-nak jogszabályban vagy a Kormány egyedi határozatában elrendelt célra juttatott vagyon hasznosításáról és az MMA jóváhagyott elemi költségvetésében meghatározott célt szolgáló összeg felhasználásáról – annak felhasználási célhoz kötöttségére figyelemmel – nem kell külön döntést hozni.”
