@@ -2,6 +2,4 @@
 
 „(1) A köztestületi vagyonkezelés és a köztestület gazdálkodásának törvényességét, a vagyonkezelés és gazdálkodás során e törvény céljainak érvényesülését öttagú felügyelő testület ellenőrzi. A felügyelő testület tagja büntetlen előéletű, az országgyűlési képviselők választásán választható magyar állampolgár lehet. A felügyelő testület egy tagját a Kormány, egy tagját az Országgyűlés kulturális ügyekért felelős bizottsága nevezi ki és hívja vissza, további három tagját – a választás időpontjában legalább két éve megválasztott akadémikusok közül – a közgyűlés, és a közgyűlés hívja vissza. A felügyelő testület tagjai a felügyelő testület megbízatásának idejére maguk közül elnököt választanak. A felügyelő testület tagjainak megbízatása öt évre szól.”
 
-(2) Az MMA tv. 18. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Ha a felügyelő testületi tag mandátuma a megbízástól számított öt éven belül megszűnik, helyére új felügyelő testületi tag az előző felügyelő testületi tag eredeti mandátumából hátralévő időre delegálható vagy választható. A felügyelő testület tagja legfeljebb egy alkalommal delegálható, vagy választható újra. A felügyelő testületi tag újradelegálhatósága, újraválaszthatósága korlátozása szempontjából nem kell figyelembe venni a felügyelő testületi tag azon mandátumát, amely az előző felügyelő testületi tag eredeti mandátumából hátralévő időre szólt.”
+(2)

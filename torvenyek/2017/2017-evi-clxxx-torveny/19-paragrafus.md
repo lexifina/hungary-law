@@ -16,8 +16,4 @@ e) a 25. § szerinti esetben a tiszteletbeli elnök.”
 
 „(3a) Ha a (3) bekezdés d) pontjában meghatározott elnökségi tag megbízása a három év eltelte előtt megszűnik, akkor a helyére új elnökségi tag az előző elnökségi tag eredeti mandátumából hátralévő időre választható. Az elnökségi tag újraválasztására legfeljebb egy alkalommal kerülhet sor. Az újraválaszthatóság korlátozása szempontjából nem kell figyelembe venni a (3) bekezdés d) pontja szerinti elnökségi tag azon mandátumát, amely az előző elnökségi tag eredeti mandátumából hátralévő időre szólt.”
 
-(3) Az MMA tv. 17. § (5) bekezdés g) pontja a következő gd) alponttal egészül ki:
-
-[Az elnökség az (1) bekezdésben foglaltakon túl a 14. § i) és j) pontja szerint meghatározott elvek szerint dönt]
-
-„gd) a közbeszerzési szabályzat elfogadásáról,”
+(3)
