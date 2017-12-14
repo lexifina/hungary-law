@@ -1,12 +1,10 @@
 ## Kérelem a fejlesztési adókedvezmény engedélyezéséhez
 
-## I. AZ ADÓZÓ ADATAI
+| I. AZ ADÓZÓ ADATAI |
 
 | I/A. AZ ADÓZÓ ADATAI |
 
 | Az adózó cégszerű megnevezése: |  |
-
-| Alapítás időpontja (év, hó, nap): |  |
 
 | Adószám: |  |
 
@@ -16,21 +14,9 @@
 
 | Az adózó besorolása a kérelem benyújtásakor: | a) kisvállalkozás b) középvállalkozás c) nagyvállalkozás |
 
-| Cégjegyzékszám: |  |
-
-| Az adózó képviseletére jogosult, jogosultak neve, nevei: |  |
-
-| Telefonszám: |  |
-
-| Faxszám: |  |
-
-| E-mail cím: |  |
-
 | Az ügyben eljáró képviselő neve: |  |
 
 | Telefonszám: |  |
-
-| Faxszám: |  |
 
 | E-mail cím: |  |
 
@@ -38,19 +24,19 @@
 
 | 1. Ismertesse, hogy a támogatást igénylő pontosan milyen tevékenységet végez, milyen terméket állít elő, milyen szolgáltatást nyújt! |
 
-## II. A BERUHÁZÁS ADATAI
+| II. A BERUHÁZÁS ADATAI |
 
 | 1. A beruházás adatai |
 
-| Beruházás megkezdésének napja (év, hó, nap): |  |
+| Beruházás megkezdésének tervezett napja (év, hó, nap): |  |
 
 | Beruházás tervezett befejezése (év, hó, nap): |  |
 
-| Beruházás helyszíne (régió, megye, település): |  |
+| Beruházás helye (régió, megye, település): |  |
 
 | Beruházás célja: |  |
 
-| Beruházás jellege: | 1. Induló beruházás: a) új létesítmény létrehozatala, b) meglévő létesítmény bővítése, c) létesítmény termékkínálatának a létesítményben addig nem gyártott termékekkel történő bővítése, d) meglévő létesítmény teljes termelési folyamatának lényegi változását eredményező beruházás. 2. Új gazdasági tevékenység végzésére irányuló induló beruházás: a) új létesítmény létrehozatala, b) meglévő létesítmény tevékenységének új tevékenységgel történő kibővítését eredményező beruházás. |
+| Beruházás jellege: | 1. Induló beruházás: a) új létesítmény létrehozatala, b) meglévő létesítmény bővítése, c) létesítmény termékkínálatának a létesítményben addig nem gyártott termékekkel történő bővítése, d) meglévő létesítmény teljes termelési folyamatának lényegi változását eredményező beruházás. 2. Új gazdasági tevékenység végzésére irányuló induló beruházás: a) új létesítmény létrehozatala, b) meglévő létesítmény tevékenységének új tevékenységgel történő kibővítését eredményező beruházás. 3. Termék-diverzifikációt eredményező induló beruházás. 4. Új eljárási innovációt eredményező induló beruházás. |
 
 | Beruházás összetétele: | a) a beruházás kizárólag létesítmény felvásárlásából áll, b) a beruházás részben tartalmaz létesítményfelvásárlást is, c) a beruházás nem tartalmaz létesítményfelvásárlást. |
 
@@ -74,25 +60,29 @@
 
 | i) | jelenértéken legalább 500 millió forint értékű, kis- és középvállalkozás által megvalósított beruházás, |
 
-| j) | a szabad vállalkozási zóna területén megvalósított jelenértéken legalább 100 millió forint értékű beruházás. |
+| j) | a szabad vállalkozási zóna területén megvalósított jelenértéken legalább 100 millió forint értékű beruházás, |
 
-| 3. Az adókedvezmény törvényi feltételei közül az adózó a következő teljesítését vállalja [csak a 2. pont a), b) és i) alpontja szerinti beruházás esetén töltendő ki] |
+| k) | jelenértéken legalább 6 milliárd forint értékű beruházás, |
+
+| l) | jelenértéken legalább 3 milliárd forint értékű munkahelyteremtést szolgáló beruházás. |
+
+| 3. Az adókedvezmény törvényi feltételei közül az adózó a következő teljesítését vállalja [csak a 2. pont a), b), i), k) és l) alpontja szerinti beruházás esetén töltendő ki] |
 
 | a) | létszámnövelési feltétel; |
 
 | b) | személyi jellegű ráfordítás-növelési feltétel. |
 
-| 4. Az adózó által foglalkoztatottak átlagos állományi létszáma (Tao. törvény 4. § 16/a. pontja) [A 2. pont a), b) és i) pont szerinti beruházás esetén a 3. pont a) alpontjában szereplő feltétel választásakor, továbbá a 2. pont g) pontja szerinti beruházás esetén töltendő ki.] |
+| 4. Az adózó által foglalkoztatottak átlagos állományi létszáma [A 2. pont a), b), i) és k) pont szerinti beruházás esetén a 3. pont a) alpontjában szereplő feltétel választásakor, továbbá a 2. pont g) és l) pontja szerinti beruházás esetén töltendő ki.] |
 
 | A beruházás megkezdését megelőző adóév adata alapján (fő) | A beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlag alapján (fő) |
 
-| ........................ | ........................ |
+| ......................................... | .................................... |
 
-| 5. Az adózó évesített személyi jellegű ráfordítása [A 2. pont a), b) és i) pontja szerinti beruházás esetén a 3. pont b) alpontjában szereplő feltétel választásakor töltendő ki.] |
+| 5. Az adózó évesített személyi jellegű ráfordítása [A 2. pont a), b), i), k) és l) pontja szerinti beruházás esetén a 3. pont b) alpontjában szereplő feltétel választásakor töltendő ki.] |
 
 | A beruházás megkezdését megelőző adóév adata alapján (ezer forint) | A beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlag alapján (ezer forint) |
 
-| ........................ | ........................ |
+| ......................................... | .................................... |
 
 | 6. Az adókedvezmény igénybevételének első adóéve |
 
@@ -104,9 +94,9 @@
 
 | 2. Részletezze röviden bármely fontosnak tartott egyéb körülményt (környezeti hatás, kapacitás stb.)! |
 
-| 3. Részletezze a beruházás várható pozitív hatásait az érintett területen (pl. létrehozott, vagy megőrzött munkahelyek száma, K+F+I tevékenységek ösztönzése, képzési tevékenységek, klaszterképző hatás)! |
+| 3. Részletezze a beruházás várható pozitív hatásait az érintett településen (megyében, régióban) (pl. létrehozott, vagy megőrzött munkahelyek száma, K+F+I tevékenységek ösztönzése, képzési tevékenységek, klaszterképző hatás)! |
 
-## II/A. TÁRGYI ESZKÖZ ALAPÚ BERUHÁZÁSOKNÁL TELEPÜLÉSENKÉNT
+| II/A. TÁRGYI ESZKÖZ ALAPÚ BERUHÁZÁSOKNÁL TELEPÜLÉSENKÉNT |
 
 | 1. A beruházás és az elszámolható költség részét képező tárgyi eszközök és támogatható immateriális javak, bérleti díjak felsorolása |
 
@@ -125,8 +115,6 @@
 | 7. Gép, berendezés, jármű, felszerelés bérleti díja |
 
 | 2. A beruházás megvalósulásának ütemezése |
-
-|  |  |  |  |  |  | EUR = HUF |
 
 | Folyó ár | 20.. | 20.. | 20.. | 20.. | 20.. | Összesen |
 
@@ -176,43 +164,43 @@
 
 | 10. Összes költség (8+9) |  |  |  |  |  |  |  |
 
-## II/B. MUNKAHELYTEREMTŐ BERUHÁZÁSOK ESETÉN
+| II/B. MUNKAHELYTEREMTŐ BERUHÁZÁSOK ESETÉN |
 
 | 1. Az újonnan létrehozott munkakörökben foglalkoztatott munkavállalók száma és elszámolható költsége |
 
-|  | Évek | Munkahely- teremtés (fő) | Elszámolható költség (ezer forint) |
+|  | Évek | Munkahely- teremtés | Elszámolható költség (ezer forint) |
 
-|  | folyó ár | jelenérték |
+|  |  | (fő) | folyó ár | jelenérték |
 
-| 20..-ben betöltött munkakörökhöz kapcsolódó 24 havi személyi jellegű ráfordítások | 20... |  |  |  |
+| 20..-ben betöltött | 20... |  |  |  |
 
-| 20... |  |  |  |
+| munkakörökhöz kapcsolódó | 20... |  |  |  |
 
-| 20... |  |  |  |
+| 24 havi személyi jellegű ráfordítások | 20... |  |  |  |
 
-| 20..-ben betöltött munkakörökhöz kapcsolódó 24 havi személyi jellegű ráfordítások | 20... |  |  |  |
+| 20..-ben betöltött | 20... |  |  |  |
 
-| 20... |  |  |  |
+| munkakörökhöz kapcsolódó | 20... |  |  |  |
 
-| 20... |  |  |  |
+| 24 havi személyi jellegű ráfordítások | 20... |  |  |  |
 
-| 20..-ben betöltött munkakörökhöz kapcsolódó 24 havi személyi jellegű ráfordítások | 20... |  |  |  |
+| 20..-ben betöltött | 20... |  |  |  |
 
-| 20... |  |  |  |
+| munkakörökhöz kapcsolódó | 20... |  |  |  |
 
-| 20... |  |  |  |
+| 24 havi személyi jellegű ráfordítások | 20... |  |  |  |
 
-| 20..-ben betöltött munkakörökhöz kapcsolódó 24 havi személyi jellegű ráfordítások | 20.. |  |  |  |
+| 20..-ben betöltött | 20.. |  |  |  |
 
-| 20.. |  |  |  |
+| munkakörökhöz kapcsolódó | 20.. |  |  |  |
 
-| 20.. |  |  |  |
+| 24 havi személyi jellegű ráfordítások | 20.. |  |  |  |
 
-| 20..-ben betöltött munkakörökhöz kapcsolódó 24 havi személyi jellegű ráfordítások | 20.. |  |  |  |
+| 20..-ben betöltött | 20.. |  |  |  |
 
-| 20.. |  |  |  |
+| munkakörökhöz kapcsolódó | 20.. |  |  |  |
 
-| 20.. |  |  |  |
+| 24 havi személyi jellegű ráfordítások | 20.. |  |  |  |
 
 | Összesen: | 20..-20.. |  |  |  |
 
@@ -220,11 +208,9 @@
 
 | 1. Ismertesse, hogy a projekttel milyen célokat szeretne elérni! Mutassa be a projekt indokoltságát! Térjen ki főbb paramétereire! |
 
-## III. AZ ADÓZÓ ÁLTAL KÉRT ADÓKEDVEZMÉNY
+| III. AZ ADÓZÓ ÁLTAL KÉRT ADÓKEDVEZMÉNY |
 
 | 1. Az adózó által kért adókedvezmény jelenértéken |
-
-|  |  | EUR = HUF |
 
 |  |  | ezer forint | ezer euró |
 
@@ -236,11 +222,11 @@
 
 | 4. | Az állami támogatás számítása az összes elszámolható költség alapján |  |  |
 
-|  | a) jelenértéken 50 millió eurónak megfelelő forintösszegig a támogatási intenzitás 100 százaléka |  |  |
+| a) jelenértéken 50 millió eurónak megfelelő forintösszegig a támogatási intenzitás 100 százaléka |  |  |
 
-|  | b) a jelenértéken 50 és 100 millió eurónak megfelelő forintösszeg közötti részre a támogatási intenzitás 50 százaléka |  |  |
+| b) a jelenértéken 50 és 100 millió eurónak megfelelő forintösszeg közötti részre a támogatási intenzitás 50 százaléka |  |  |
 
-|  | c) jelenértéken 100 millió eurónak megfelelő forintösszeg feletti részre a támogatási intenzitás 34 százaléka |  |  |
+| c) jelenértéken 100 millió eurónak megfelelő forintösszeg feletti részre a támogatási intenzitás 34 százaléka |  |  |
 
 | 4/a. | Összesen [a)+b)+c)] |  |  |
 
@@ -258,7 +244,7 @@
 
 |  | ebből: adókedvezmény jelenértéken összesen és településenként |  |  |
 
-| 6. | Támogatási intenzitás |  |
+| 6. | Támogatási intenzitás |  |  |
 
 | 2. Az adókedvezmény tervezett ütemezése (ezer forint) |
 
@@ -300,35 +286,31 @@
 
 ## e) tevékenysége szénipar fejlesztéséhez tartozik / nem tartozik; [A megfelelő rész aláhúzandó.]
 
-## f) tevékenysége az 5. mellékletben meghatározott szintetikusszál-ipari tevékenységhez tartozik / nem tartozik; [A megfelelő rész aláhúzandó.]
+## f) tevékenysége az 5. mellékletben meghatározott szintetikusszál-ipari tevékenységhez tartozik / nem tartozik;
 
-## g) tevékenysége a halászati tevékenységhez, továbbá halászati termékek feldolgozását és forgalmazását szolgáló beruházáshoz tartozik / nem tartozik; [A megfelelő rész aláhúzandó.]
+## [A megfelelő rész aláhúzandó.]
 
-## h) tevékenysége energiatermelést, energiaszolgáltatást és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz tartozik / nem tartozik; [A megfelelő rész aláhúzandó.]
+## g) tevékenysége energiatermelést, energiaszolgáltatást és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz tartozik / nem tartozik; [A megfelelő rész aláhúzandó.]
 
-## i) tevékenysége a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgálja / nem szolgálja; [A megfelelő rész aláhúzandó.]
+## h) tevékenysége a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgálja / nem szolgálja; [A megfelelő rész aláhúzandó.]
 
-## j) a kérelem benyújtásakor nem áll az állami adó- és vámhatóságnál, az önkormányzati adóhatóságnál nyilvántartott adótartozás – ide nem értve a késedelmi pótlék miatti tartozást – miatt az állami adó- és vámhatóságnál, illetve az önkormányzati adóhatóságnál végrehajtási eljárás alatt;
+## i) a kérelem benyújtásakor nem áll az állami adó- és vámhatóságnál, az önkormányzati adóhatóságnál nyilvántartott adótartozás - ide nem értve a késedelmi pótlék miatti tartozást - miatt az állami adó- és vámhatóságnál, illetve az önkormányzati adóhatóságnál végrehajtási eljárás alatt;
 
-## k) a kérelem benyújtásakor megfelel a rendezett munkaügyi kapcsolatok feltételeiről és igazolásának módjáról szóló jogszabályban meghatározott rendezett munkaügyi kapcsolatok követelményeinek;
+## j) nem áll felszámolás vagy kényszertörlési eljárás alatt, illetve végelszámolását nem jelentette be a bírósághoz;
 
-## l) nem áll bíróság által jogerősen elrendelt felszámolás vagy kényszertörlési eljárás alatt, illetve végelszámolását nem jelentette be a bírósághoz;
+## k) tevékenysége szállítást szolgáló beruházáshoz tartozik / nem tartozik; [A megfelelő rész aláhúzandó.]
 
-## m) tevékenysége szállítást szolgáló beruházáshoz tartozik / nem tartozik; [A megfelelő rész aláhúzandó.]
+## l) a beruházás helyéül szolgáló ingatlan per- és igénymentes;
 
-## n) a beruházás helyszínéül szolgáló ingatlan per- és igénymentes;
+## m) a kérelemben foglaltak megfelelnek a valóságnak;
 
-## o) a kérelemben foglaltak megfelelnek a valóságnak;
+## n) a kérelem benyújtásakor nem nehéz helyzetben lévő társaság;
 
-## p) a kérelem benyújtásakor nem nehéz helyzetben lévő társaság;
+## o) a kérelem benyújtását megelőző két évben nem hajtott végre a támogatott létesítménybe irányuló áttelepítést; és a kérelem benyújtásától kezdődő, a beruházás befejezését követő két évig tartó időszakban nem hajt végre áttelepítést; [A megfelelő válasz aláhúzandó.]
 
-## q) a kérelem keltét megelőző két naptári évben a cégcsoport EGT tagállamban hasonló tevékenységet szüntetett meg / nem szüntetett meg; [A megfelelő válasz aláhúzandó.]
+## p) a termelési folyamat lényegi változását eredményező támogatás esetén az elszámolható költségek meghaladják / nem haladják meg az érintett tevékenységhez kapcsolódó eszközöknek a megelőző három adóévben realizált értékcsökkenését; [A megfelelő válasz aláhúzandó.]
 
-## r) a beruházás befejezését követő két naptári éven belül a cégcsoport EGT tagállamban hasonló tevékenység megszüntetését tervezi / nem tervezi; [A megfelelő válasz aláhúzandó.]
-
-## s) a termelési folyamat lényegi változását eredményező támogatás esetén az elszámolható költségek meghaladják / nem haladják meg az érintett tevékenységhez kapcsolódó eszközöknek a megelőző három adóévben realizált értékcsökkenését; [A megfelelő válasz aláhúzandó.]
-
-## t) meglévő létesítmény tevékenységének új tevékenységgel történő kibővítését eredményező beruházás esetén az elszámolható költségek összege legalább 200 százalékkal meghaladja /nem haladja meg a korábban már használatba vett tárgyi eszközöknek és immateriális javaknak a beruházás megkezdése előtti adóévben nyilvántartott együttes könyv szerinti értékét. [A megfelelő válasz aláhúzandó.]
+## q) meglévő létesítmény tevékenységének új tevékenységgel történő kibővítését eredményező beruházás esetén az elszámolható költségek összege legalább 200 százalékkal meghaladja /nem haladja meg a korábban már használatba vett tárgyi eszközöknek és immateriális javaknak a beruházás megkezdése előtti adóévben nyilvántartott együttes könyv szerinti értékét. [A megfelelő válasz aláhúzandó.]
 
 ## V. A KÉRELEMHEZ CSATOLT MELLÉKLETEK
 
@@ -338,11 +320,13 @@
 
 ## 3. A Tao. törvény 22/B. § (1) bekezdés d) pontja alapján igényelt adókedvezmény esetében a fejlesztési program részletes ismertetése.
 
-## 4/a. Amennyiben az adózó által kért támogatás összege magasabb, mint a 100 millió eurónak megfelelő forintösszegű nagyberuházáshoz adható támogatás összege, akkor az EK-Szerződés 93. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló 659/1999/EK tanácsi rendelet végrehajtásáról szóló, 2004. április 21-i 794/2004/EK bizottsági rendeletben szereplő adatok.
+## 4. Amennyiben az adózó által kért támogatás összege
 
-## 4/b. Amennyiben az adózó által kért támogatás összege legfeljebb a 100 millió eurónak megfelelő forintösszegű nagyberuházáshoz adható támogatással egyező, akkor a 3. melléklet csatolása.
+## a) magasabb, mint a 100 millió eurónak megfelelő forintösszegű nagyberuházáshoz adható támogatás összege, akkor az EK-Szerződés 93. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló 659/1999/EK tanácsi rendelet végrehajtásáról szóló, 2004. április 21-i 794/2004/EK bizottsági rendeletben szereplő adatok.
 
-## 5. A 3. § (9) bekezdésének alkalmazása esetén ismertesse, hogy milyen szerepet játszott a beruházás helyszínének kiválasztásakor az igénybe vehető fejlesztési adókedvezmény és egyéb állami támogatások lehetősége.
+## b) legfeljebb a 100 millió eurónak megfelelő forintösszegű nagyberuházáshoz adható támogatással egyező, akkor a 3. melléklet csatolása.
+
+## 5. A 3. § (9) bekezdésének alkalmazása esetén ismertesse, hogy milyen szerepet játszott a beruházás helyének kiválasztásakor az igénybe vehető fejlesztési adókedvezmény és egyéb állami támogatások lehetősége.
 
 ## 6. Kérem, mutassa be, hogy az állami támogatások elmaradása esetén mely helyszínen valósulhatna meg a tervezett beruházás. Továbbá kérem, hogy számításokkal alátámasztva mutassa be a megvalósítani tervezett fejlesztési program költség-haszon elemzését.
 
