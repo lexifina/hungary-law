@@ -2,7 +2,7 @@
 
 (2) Képalkotó diagnosztikai eljárással készült felvételt az annak készítésétől számított 10 évig, a felvételről készített leletet a felvétel készítésétől számított 30 évig kell megőrizni.
 
-(3) Amennyiben az egészségügyi dokumentációnak tudományos jelentősége van, a kötelező nyilvántartási időt követően át kell adni a Semmelweis Orvostörténeti Múzeum, Könyvtár és Levéltár részére.
+(3) Amennyiben az egészségügyi dokumentációnak tudományos jelentősége van, a kötelező nyilvántartási időt követően át kell adni az illetékes levéltár részére.
 
 (4) A dokumentációt kezelő jogutód nélküli megszűnése esetén – az (5) bekezdés kivételével –
 
