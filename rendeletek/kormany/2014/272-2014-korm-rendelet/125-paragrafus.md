@@ -1,14 +1,14 @@
-125. § (1)[^642] Ha a felhívás, illetve a támogatási szerződés alapján kis támogatástartalmú, elszámolható költséget összesítőn kell elszámolni, és a felhívás, illetve a támogatási szerződés alapján más összesítőn való elszámolása nem lehetséges, úgy a költséget a kis támogatástartalmú bizonylatok összesítőjén kell elszámolni.
+125. § (1)[^643] Ha a felhívás, illetve a támogatási szerződés alapján kis támogatástartalmú, elszámolható költséget összesítőn kell elszámolni, és a felhívás, illetve a támogatási szerződés alapján más összesítőn való elszámolása nem lehetséges, úgy a költséget a kis támogatástartalmú bizonylatok összesítőjén kell elszámolni.
 
-(2)[^643]
+(2)[^644]
 
 (3) A kis támogatástartalomra vonatkozó értékkorlátot minden esetben a felhívásnak, illetve a támogatási szerződésnek kell tartalmaznia.
 
-(4)[^644]
+(4)[^645]
 
-(5)[^645]
+(5)[^646]
 
-[^642]: A 125. § (1) bekezdését a 347/2015. (XI. 20.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^643]: A 125. § (2) bekezdését a 347/2015. (XI. 20.) Korm. rendelet 50. § 22. pontja hatályon kívül helyezte.
-[^644]: A 125. § (4) bekezdését a 347/2015. (XI. 20.) Korm. rendelet 50. § 22. pontja hatályon kívül helyezte.
-[^645]: A 125. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 29. pontja hatályon kívül helyezte.
+[^643]: A 125. § (1) bekezdését a 347/2015. (XI. 20.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^644]: A 125. § (2) bekezdését a 347/2015. (XI. 20.) Korm. rendelet 50. § 22. pontja hatályon kívül helyezte.
+[^645]: A 125. § (4) bekezdését a 347/2015. (XI. 20.) Korm. rendelet 50. § 22. pontja hatályon kívül helyezte.
+[^646]: A 125. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 29. pontja hatályon kívül helyezte.
