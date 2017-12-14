@@ -1,4 +1,4 @@
-## 2. A Magyar Művészeti Akadémia feladatai
+## 2. Az MMA feladatai
 
 4. § (1) Az MMA közfeladatként ellátott tevékenységével összefogja a magyar művészeti élet kimagasló teljesítményt nyújtó képviselőit.
 
@@ -20,11 +20,11 @@ g) támogatja a művészeti alkotások nyilvánosságra kerülését, különös
 
 h) támogatja az új összefüggéseket feltáró munkákat, illetve a szaktudományos és ismeretközlő kiadványok megjelentetését, szaktudományos és ismeretközlő kiadványokat ad ki,
 
-i) művészeti könyvtárat és az MMA szervezetéről és működéséről szóló szabályzatban (a továbbiakban: Alapszabály) meghatározott dokumentációs központot működtet,
+i) művészeti könyvtárat és az Alapszabályban meghatározott dokumentációs központot működtet,
 
 j) részt vesz a magyar kulturális értékek nemzeti nyilvántartásának megvalósításában,
 
-k) együttműködik a magyarországi országos művészeti szervezetekkel, valamint a Magyar Tudományos Akadémiával,
+k) együttműködik a magyarországi országos művészeti szervezetekkel,
 
 l) együttműködik az országos audiovizuális közszolgálati médiaszolgáltatókkal,
 
@@ -34,7 +34,7 @@ n) jogszabály vagy egyedi megkeresés, felkérés alapján képviseli a művés
 
 o) együttműködik a határon túli magyar művészeti szervezetekkel, és külföldi, hasonló rendeltetésű intézményekkel,
 
-p) gondoskodik a magyar művészeti élet alkotóinak személyes megbecsüléséről,
+p) gondoskodik a magyar művészeti élet alkotóinak, előadóinak személyes megbecsüléséről,
 
 q) a különböző művészeti ágak művelése és korszerű művészetelméleti álláspontok kialakítása érdekében tagozatokat hoz létre és működtet,
 

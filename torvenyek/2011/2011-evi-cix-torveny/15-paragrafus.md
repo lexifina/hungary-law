@@ -1,4 +1,4 @@
-15. § (1) Az MMA szükség szerint, de évente legalább kétszer közgyűlést tart.
+15. § (1) Az MMA szükség szerint, de legalább évente egyszer közgyűlést tart.
 
 (2) A közgyűlést a napirend megjelölésével az MMA elnöke, valamint a 18. § (6) bekezdése esetén az MMA felügyelő testülete hívja össze.
 

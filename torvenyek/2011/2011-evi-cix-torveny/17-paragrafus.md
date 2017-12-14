@@ -4,7 +4,19 @@
 
 (2) Az elnökség két közgyűlés között az (1) bekezdés szerint hozott döntéseiről – a döntést követő első közgyűlésen – a közgyűlés számára beszámolni köteles.
 
-(3) Az MMA elnökségének tagjai: az elnök, a két alelnök, a főtitkár és a közgyűlés által három évre választott négy rendes vagy levelező tag, illetve a 25. § szerinti esetben a tiszteletbeli elnök.
+(3) Az MMA elnökségének tagjai:
+
+a) az elnök,
+
+b) a két alelnök,
+
+c) a főtitkár,
+
+d) négy, a közgyűlés által – a közgyűlés időpontjában legalább két éve megválasztott akadémikusok közül – három évre elnökségi taggá választott akadémikus, valamint
+
+e) a 25. § szerinti esetben a tiszteletbeli elnök.
+
+(3a) Ha a (3) bekezdés d) pontjában meghatározott elnökségi tag megbízása a három év eltelte előtt megszűnik, akkor a helyére új elnökségi tag az előző elnökségi tag eredeti mandátumából hátralévő időre választható. Az elnökségi tag újraválasztására legfeljebb egy alkalommal kerülhet sor. Az újraválaszthatóság korlátozása szempontjából nem kell figyelembe venni a (3) bekezdés d) pontja szerinti elnökségi tag azon mandátumát, amely az előző elnökségi tag eredeti mandátumából hátralévő időre szólt.
 
 (4) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelő testület tagjait, a művészeti tagozatok vezetőit.
 
@@ -38,6 +50,6 @@ j) vezeti a nem akadémikus tagok központi köztestületi nyilvántartását; t
 
 k) ellátja mindazokat a feladatokat, amelyeket a közgyűlés vagy az Alapszabály a hatáskörébe utal.
 
-(6) Az elnökség szükség szerint, de legalább havonta egy alkalommal ülésezik. Az Alapszabály rendelkezhet az elnökség gyakoribb összehívásáról, valamint meghatározhatja az elnökség kötelező összehívásának eseteit.
+(6) Az elnökség szükség szerint, de évente legalább tíz alkalommal ülésezik. Az Alapszabály rendelkezhet az elnökség gyakoribb összehívásáról, valamint meghatározhatja az elnökség kötelező összehívásának eseteit.
 
 (7) Az elnökség a döntéseit egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt. Az elnökség határozatképességéhez a tagok több mint felének a jelenléte szükséges.

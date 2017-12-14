@@ -1,4 +1,4 @@
-25. § (1) A közgyűlés – az elnökség ajánlására – az MMA rendes tagja számára tiszteletbeli elnöki címet adományozhat.
+25. § (1) A közgyűlés – az elnökség ajánlására – tiszteletbeli elnöki címet adományozhat az MMA – a közgyűlés időpontjában legalább két éve megválasztott – rendes tagja számára.
 
 (2) A tiszteletbeli elnök az elnökség tagja és az elnökség ülésein szavazati joggal rendelkezik.
 

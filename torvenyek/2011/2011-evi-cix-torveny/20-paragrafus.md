@@ -2,7 +2,7 @@
 
 20. § (1) Az MMA közfeladatainak ellátását tagozatok segítik.
 
-(2) A tagozat az MMA-nak a rendes és a levelező tagjait, valamint a közgyűlési képviselőket magában foglaló egysége. A tagozatok felsorolását az Alapszabály tartalmazza.
+(2) A tagozat az MMA-nak az akadémikusokat és a közgyűlési képviselőket magában foglaló egysége. A tagozatok felsorolását az Alapszabály tartalmazza. A tagozat e törvény és az Alapszabály keretei között maga állapítja meg ügyrendjét.
 
 (3) A rendes és a levelező tag egyidejűleg több tagozat tagja lehet, de szavazati joggal két közgyűlés közötti időszakban egy tagozatban rendelkezik, egyéb tagozatban tagként tanácskozásra jogosult.
 

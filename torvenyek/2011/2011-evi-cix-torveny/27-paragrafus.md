@@ -1,6 +1,6 @@
 ## III. Fejezet
 
-## A MAGYAR MŰVÉSZETI AKADÉMIA GAZDÁLKODÁSA ÉS VAGYONA
+## AZ MMA GAZDÁLKODÁSA ÉS VAGYONA
 
 27. § (1) Az MMA – közfeladatai ellátása érdekében – a vagyonával önállóan gazdálkodik, ennek részletes szabályait a vagyongazdálkodási szabályzat határozza meg.
 

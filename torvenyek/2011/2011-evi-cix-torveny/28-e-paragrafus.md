@@ -2,7 +2,7 @@
 
 (2) A Bizottságot 11 Kossuth-díjjal kitüntetett művész alkotja.
 
-(3) A Bizottság elnöke az MMA elnöke, amennyiben Kossuth-díjjal kitüntetett személy. Ha az MMA elnöke nem Kossuth-díjjal kitüntetett személy, a Bizottság elnökét az elnökség kéri fel az MMA Kossuth-díjjal kitüntetett rendes vagy levelező tagjai közül.
+(3) A Bizottság elnöke az MMA elnöke, amennyiben Kossuth-díjjal kitüntetett személy. Ha az MMA elnöke nem Kossuth-díjjal kitüntetett személy, a Bizottság elnökét az elnökség kéri fel az MMA Kossuth-díjjal kitüntetett akadémikusai közül.
 
 (4) A Bizottság 8 tagját a Bizottság elnöke, 2 tagját a kultúráért felelős miniszter kéri fel legfeljebb 3 évre.
 

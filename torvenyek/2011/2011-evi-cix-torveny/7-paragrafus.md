@@ -12,4 +12,12 @@ b) valamely állam vagy nemzetközi szervezet, valamely kulturális, művészeti
 
 (3) Az MMA rendes tagjainak száma nem lehet több 250 főnél.
 
-(4) Ha valamely művész vagy művészetelméleti szakember az MMA rendes tagjára vonatkozó, e törvényben támasztott feltételeknek megfelel és rendelkezik az MMA legalább négy rendes vagy levelező tagjának ajánlásával, úgy rendes tagként való jelöléséről az MMA 20. § (1) és (2) bekezdése szerinti tagozata dönt. A tagozat támogatása esetén a művész vagy művészetelméleti szakember regisztrált tagjelöltté válik. Rendes tagot a közgyűlés a regisztrált tagjelöltek közül választ.
+(4) Ha valamely művész vagy művészetelméleti szakember az MMA rendes tagjára vonatkozó, e törvényben támasztott feltételeknek megfelel, és rendelkezik legalább négy akadémikus egybehangzó akaratát kifejező, közös ajánlásával, úgy rendes tagként való jelöléséről az MMA 20. § (1) és (2) bekezdése szerinti tagozata dönt az (5)–(8) bekezdés szerint. Egy akadémikus kizárólag egy rendes tag megválasztását ajánlhatja. Az egynél több főt ajánló akadémikus valamennyi ajánlása érvénytelen; azokat a jelölési és tagválasztási eljárásban a továbbiakban figyelmen kívül kell hagyni.
+
+(5) Az ajánlást – a befogadó tagozat megjelölésével – az Alapszabályban meghatározott tartalommal, mellékletekkel és módon kell benyújtani. A beérkezett érvényes ajánlások alapulvételével az elnökség a felvehető rendes tagok létszámkeretének tagozatonkénti bontásban történő meghatározásával jelölésre hívja fel az érintett tagozatot.
+
+(6) Az elnökség felhívására az (5) bekezdés szerinti tagozat véleménynyilvánító szavazás céljából ülést tart. Regisztrált tagjelöltté az a jelölt válik, akit a tagozat ülésén a jelenlévő, a tagozat munkájában szavazati joggal részt vevő tagok egyszerű többsége támogat. A regisztrált tagjelöltek között – szakmai vitát követően – a tagozat sorrendet állít fel, és erről az elnökséget tájékoztatja.
+
+(7) A tagozati jelölések érdemi megvitatását követően az elnökség a regisztrált tagjelölteket a tagozati jelölések sorrendjében, az (5) bekezdés szerinti létszámkeret erejéig – esetleges vonatkozó észrevételeivel – a közgyűlés elé terjeszti.
+
+(8) A közgyűlés az elé terjesztett jelöltek rendes taggá választásáról – közvetlen és titkos szavazással – a jelölést követő első közgyűlés egyszerű többségi, listás szavazással dönt.

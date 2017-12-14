@@ -4,4 +4,4 @@
 
 (3) Az Alapszabály elfogadásához és módosításához a közgyűlésen megjelent szavazati jogú tagok kétharmadának szavazata szükséges.
 
-(4) A közgyűlési képviselő a tagválasztás, valamint a rendes és a levelező tag köztestületi jogainak gyakorlásával összefüggő döntések során szavazati joggal nem rendelkezik.
+(4) A közgyűlési képviselő a tagválasztás, valamint az akadémikus köztestületi jogainak gyakorlásával összefüggő döntések során szavazati joggal nem rendelkezik.
