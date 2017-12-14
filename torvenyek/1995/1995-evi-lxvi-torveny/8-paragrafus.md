@@ -2,7 +2,7 @@
 
 8. § A levéltári anyag védelmének ágazati irányítását a kultúráért felelős miniszter látja el. Ágazati irányító hatáskörében
 
-a)
+a) működteti a levéltári szakmai testületet és a levéltári szakfelügyeletet,
 
 b) szabályozza
 

@@ -4,6 +4,6 @@
 
 (3) A (2) bekezdésben foglalt felhatalmazás alapján kiadandó rendeletet a bíróságok és az Országos Bírósági Hivatal elnöke, az ügyészségek, a közjegyzők, a bírósági végrehajtók, valamint ezek kamarái, továbbá az ügyvédi kamara, az igazságügyi szakértői névjegyzékbe bejegyzett természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hiteles szakfordítók, tolmácsok, a jogi segítségnyújtást, kárpótlást, áldozatsegítést, valamint büntető ügyekben közvetítői tevékenységet végző szervek és személyek tekintetében az igazságügyért felelős miniszterrel egyetértésben kell kiadni.
 
-(4) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza a levéltári szakfelügyelet és a levéltári szakmai testületek működését.
+(4) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza a levéltári szakfelügyelet és a levéltári szakmai testület működését.
 
 (5) Felhatalmazást kap a kultúráért felelős miniszter, hogy az elektronikus formában tárolt iratok közlevéltári átvételének eljárásrendjét és műszaki követelményeit az e-közigazgatásért felelős miniszterrel és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
