@@ -1,9 +1,8 @@
 ## lép.
 
-7. § (1) A Rendelet 1. melléklete helyébe az 1. melléklet lép.
+7. § (1)–(2)[^15]
 
-(2) A Rendelet 2. melléklete helyébe a 2. melléklet lép.
+(3)–(4)[^16]
 
-(3)–(4)[^7]
-
-[^7]: A 7. § (3)–(4) bekezdése a 9. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^15]: A 7. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 7. § (3)–(4) bekezdése a 9. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

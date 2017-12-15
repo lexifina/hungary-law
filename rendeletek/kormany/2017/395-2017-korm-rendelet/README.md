@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-395-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-14 | 2017-395-20-22.1 | 395/2017. (XII. 13.) Korm. rendelet |
+| 2017-12-15 | 2017-395-20-22.2 | 2010: CXXX. törvény |
