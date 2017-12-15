@@ -102,7 +102,7 @@ belügyminiszter
 
 Határidő: 2018. augusztus 31.
 
-10. egyetért az 5. pont a) alpontja szerinti beruházás megvalósításának helyszínéül kijelölt, Budapest belterület 74327/1 és 74327/2 helyrajzi számú idegen tulajdonban lévő ingatlanok állami tulajdonba kerülésével, amelynek érdekében felhívja
+10.[^1] egyetért az 5. pont a) alpontja szerinti beruházás megvalósításának helyszínéül kijelölt, Budapest belterület 74327/1 és 74324 helyrajzi számú idegen tulajdonban lévő ingatlanok állami tulajdonba kerülésével, amelynek érdekében felhívja
 
 a) a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság bevonásával kezdje meg a tárgyalásokat, és tegye meg a szükséges intézkedéseket az idegen tulajdonban lévő ingatlanok tulajdonjogának per-, teher- és igénymentesen, a Magyar Állam javára történő megszerzése érdekében,
 
@@ -118,8 +118,11 @@ nemzeti fejlesztési miniszter
 
 Határidő: az a) alpont végrehajtása függvényében
 
-c) az emberi erőforrások miniszterét, hogy készítse elő és terjessze a Kormány elé a sportról szóló 2004. évi I. törvény módosítását annak érdekében, hogy a Budapest belterület 74327/1 és 74327/2 helyrajzi számú ingatlanok – mint az 5. pont a) alpontja szerinti beruházás területe – vonatkozásában az UTE – az ingatlanok Magyar Állam tulajdonába kerülését követően – vagyonkezelőként törvényben kijelölésre kerüljön.
+c)[^2] az emberi erőforrások miniszterét, hogy készítse elő és terjessze a Kormány elé a sportról szóló 2004. évi I. törvény módosítását annak érdekében, hogy a Budapest belterület 74327/1 és 74324 helyrajzi számú ingatlanok – mint az 5. pont a) alpontja szerinti beruházás területe – vonatkozásában az UTE – az ingatlanok Magyar Állam tulajdonába kerülését követően – vagyonkezelőként törvényben kijelölésre kerüljön.
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: az 5. pont a) alpontja szerinti beruházás végrehajtásához szükséges ingatlanok Magyar Állam tulajdonába kerülését követően azonnal
+
+[^1]: A 10. pont nyitó szövegrésze az 1956/2017. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 10. pont c) alpontja az 1956/2017. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
