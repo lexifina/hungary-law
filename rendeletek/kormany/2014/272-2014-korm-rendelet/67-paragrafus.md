@@ -1,4 +1,4 @@
-## 67. §[^354] Az 58–65. §-tól eltérően a program vonatkozó prioritása keretén belül
+## 67. §[^356] Az 58–65. §-tól eltérően a program vonatkozó prioritása keretén belül
 
 a) a felhívás keretében fel nem használt, vagy
 
@@ -10,4 +10,4 @@ bb) az irányító hatóság által visszatartott, vagy
 
 bc) a kedvezményezett által visszafizetett
 
-[^354]: A 67. § záró szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 72. pontja, a 163/2017. (VI. 28.) Korm. rendelet 18. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^356]: A 67. § záró szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 72. pontja, a 163/2017. (VI. 28.) Korm. rendelet 18. § (1) bekezdés d) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## IX. Fejezet[^264]
+## IX. Fejezet[^265]
 
 ## KIVÁLASZTÁSI ELJÁRÁSOK
 
@@ -12,7 +12,7 @@ c) egyszerűsített,
 
 d) területi, vagy
 
-e)[^265] közösségvezérelt helyi fejlesztés
+e)[^266] közösségvezérelt helyi fejlesztés
 
-[^264]: A IX. Fejezet (54–55. §) a 144/2015. (VI. 12.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^265]: Az 54. § e) pontja a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^265]: A IX. Fejezet (54–55. §) a 144/2015. (VI. 12.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^266]: Az 54. § e) pontja a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés f) pontja szerint módosított szöveg.
