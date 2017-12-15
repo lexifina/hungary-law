@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-256-20-
 | 2017-09-06 | 2013-256-20-22.23 | 394/2013. (XI. 14.) Korm. rendelet |
 | 2017-11-01 | 2013-256-20-22.24 | 205/2016. (VII. 21.) Korm. rendelet |
 | 2017-11-09 | 2013-256-20-22.25 | 320/2017. (XI. 8.) Korm. rendelet |
+| 2017-12-15 | 2013-256-20-22.26 | 399/2017. (XII. 14.) Korm. rendelet |
