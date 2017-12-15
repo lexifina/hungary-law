@@ -282,6 +282,34 @@
 
 1.139. Tiszafüred–Hortobágy kerékpáros útvonal fejlesztése.
 
+1.140. EuroVelo 14 nemzetközi kerékpáros útvonal fővárosi szakaszainak fejlesztése.
+
+1.141. EuroVelo 6 nemzetközi kerékpáros útvonal fővárosi szakaszainak fejlesztése.
+
+1.142. Dél-budapesti kerékpárosbarát fejlesztések.
+
+1.143. Rákos-patak menti ökoturisztikai folyosó.
+
+1.144. A budapesti közbringa-rendszer és a hozzá kapcsolódó infrastruktúra fejlesztése.
+
+1.145. Közlekedésbiztonsági és kerékpárosbarát fejlesztések Budapest XVI. kerületében.
+
+1.146. Kerékpárosbarát infrastrukturális fejlesztések Budapest X. kerületében.
+
+1.147. Kerékpárosbarát infrastrukturális fejlesztések Budapest XIX. kerületében.
+
+1.148. Közlekedésbiztonsági fejlesztések Budapest XX. kerületében.
+
+1.149. Kerékpárosbarát infrastrukturális fejlesztések Budapest IV. kerületében.
+
+1.150. Közlekedésbiztonsági és kerékpárosbarát fejlesztések Budapest II. kerületében.
+
+1.151. Budapest–Fót kerékpárút XV. kerületen belüli szakasza.
+
+1.152. Közlekedésbiztonsági és kerékpárosbarát fejlesztések Budapest XII. kerületében.
+
+1.153. Közlekedésbiztonsági és kerékpárosbarát fejlesztések Budapest XI. kerületében.
+
 2. Vasúti közlekedési projektek
 
 2.1. A 17. számú vasútvonal, Szombathely–Zalaszentiván szakasz rekonstrukciója.
@@ -506,4 +534,4 @@
 
 5.7. Kemencei Erdei Múzeumvasút (meglévő szakasz felújítás és Csarna-völgyi újjáépítés), pályafelújítás, valamint gördülőállomány felújítása és fejlesztése.
 
-[^34]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 490/2016. (XII. 28.) Korm. rendelet 2. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 2. §-a, a 368/2017. (XII. 7.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^34]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 490/2016. (XII. 28.) Korm. rendelet 2. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 2. §-a, a 368/2017. (XII. 7.) Korm. rendelet 4. §-a, a 385/2017. (XII. 12.) Korm. rendelet 2. §-a szerint módosított szöveg.

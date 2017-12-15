@@ -570,6 +570,34 @@
 
 1.283. Székesfehérvár déli összekötőút megvalósítása.
 
+1.284. EuroVelo 14 nemzetközi kerékpáros útvonal fővárosi szakaszainak fejlesztése.
+
+1.285. EuroVelo 6 nemzetközi kerékpáros útvonal fővárosi szakaszainak fejlesztése.
+
+1.286. Dél-Budapesti kerékpárosbarát fejlesztések.
+
+1.287. Rákos-patak menti ökoturisztikai folyosó.
+
+1.288. A budapesti közbringa-rendszer és a hozzá kapcsolódó infrastruktúra fejlesztése.
+
+1.289. Közlekedésbiztonsági és kerékpárosbarát fejlesztések Budapest XVI. kerületében.
+
+1.290. Kerékpárosbarát infrastrukturális fejlesztések Budapest X. kerületében.
+
+1.291. Kerékpárosbarát infrastrukturális fejlesztések Budapest XIX. kerületében.
+
+1.292. Közlekedésbiztonsági fejlesztések Budapest XX. kerületében.
+
+1.293. Kerékpárosbarát infrastrukturális fejlesztések Budapest IV. kerületében.
+
+1.294. Közlekedésbiztonsági és kerékpárosbarát fejlesztések Budapest II. kerületében.
+
+1.295. Budapest–Fót kerékpárút XV. kerületen belüli szakasza.
+
+1.296. Közlekedésbiztonsági és kerékpárosbarát fejlesztések Budapest XII. kerületében.
+
+1.297. Közlekedésbiztonsági és kerékpárosbarát fejlesztések Budapest XI. kerületében.
+
 2. Egyes országos vasúti közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
 2.1. A 17. számú vasútvonal, Szombathely–Zalaszentiván szakasz rekonstrukciója.
@@ -919,4 +947,4 @@
 6.7. Kemencei Erdei Múzeumvasút (meglévő szakasz felújítás és Csarna-völgyi újjáépítés), pályafelújítás, valamint gördülőállomány felújítása és fejlesztése.
 
 [^32]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: Az 1. melléklet a 490/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 1. §-a, a 368/2017. (XII. 7.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^33]: Az 1. melléklet a 490/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 1. §-a, a 368/2017. (XII. 7.) Korm. rendelet 3. §-a, a 385/2017. (XII. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
