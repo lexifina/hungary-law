@@ -1,6 +1,6 @@
 ## 18. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 110/2016. (V. 25.) Korm. rendelethez[^3]
+1. melléklet a 110/2016. (V. 25.) Korm. rendelethez[^8]
 
 ## Pályázói adatlap1
 
@@ -72,4 +72,4 @@ _________________
 
 1 A pályázói adatlapon szereplő adatok közül az értékelő neve és tématerülete az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény 10. § (4) bekezdése szerint közérdekből nyilvános adat.
 
-[^3]: Az 1. melléklet a 199/2016. (VII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 4. §-át.
+[^8]: Az 1. melléklet a 199/2016. (VII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 4. §-át.

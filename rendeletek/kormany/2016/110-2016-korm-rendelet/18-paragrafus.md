@@ -1,1 +1,3 @@
-## 17. § A miniszter a 3. § (1) bekezdése szerinti pályázatot legkésőbb 2016. május 31. napjáig teszi közzé.
+## 17. §[^7]
+
+[^7]: A 17. §-t a 387/2017. (XII. 12.) Korm. rendelet 18. §-a hatályon kívül helyezte.
