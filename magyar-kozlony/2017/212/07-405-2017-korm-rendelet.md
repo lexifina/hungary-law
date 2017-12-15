@@ -1,0 +1,178 @@
+# A Kormány 405/2017. (XII. 15.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 212. szám, 2017. december 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4456cb364e51e20d3bec37d91646bc8bff7f6baf/dokumentumok/34433055c3cc9fc6347ad662b141ead154b3af12/letoltes)
+
+---
+
+A Kormány 405/2017. (XII. 15.) Korm. rendelete
+a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló
+223/1998. (XII. 30.) Korm. rendeletnek az egyes családtámogatási tárgyú, valamint egyéb törvények
+módosításáról szóló 2017. évi CLXXVIII. törvénnyel összefüggő módosításáról
+A Kormány a családok támogatásáról szóló 1998. évi LXXXIV. törvény 51. § a) és c) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet
+(a továbbiakban Cstvhr.) 1/B. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A Cst. 2. § c) pontja szerinti személy esetén az anyasági támogatással kapcsolatos eljárásban a Központ jár el.”
+2. § (1) A Cstvhr. 3. § a) pontja a következő al) alponttal egészül ki:
+(A Cst. 39. §-a alapján – írásban – be kell jelenteni
+a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt)
+„al) ha a tartós külszolgálatot vagy tartós külföldi szolgálatot teljesítő személy vagy vele együtt élő házastársa,
+élettársa részére a gyermek után jogszabály alapján a tartós külszolgálatra vagy tartós külföldi szolgálatra tekintettel
+bármilyen jogcímen ellátást, díjat vagy támogatást állapítanak meg;”
+(2) A Cstvhr. 3. § b) pontja a következő bo) alponttal egészül ki:
+(A Cst. 39. §-a alapján – írásban – be kell jelenteni
+a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt)
+„bo) ha a tartós külszolgálatot vagy tartós külföldi szolgálatot teljesítő személy vagy vele együtt élő házastársa,
+élettársa részére a gyermek után jogszabály alapján a tartós külszolgálatra vagy tartós külföldi szolgálatra tekintettel
+bármilyen jogcímen ellátást, díjat vagy támogatást állapítanak meg;”
+3. § (1) A Cstvhr. 4/C. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A megállapított anyasági támogatást a megállapító döntés meghozatalát követő naptól számított nyolc napon
+belül kell folyósítani.”
+(2) A Cstvhr. 4/C. §-a a következő (7) és (8) bekezdéssel egészül ki:
+„(7) A folyósító szerv a Cst. 2. § c) pontjában meghatározott személy részére megállapított anyasági támogatást
+a) a jogosult, vagy
+b) ha a jogosult nevében az ellátás megállapítása iránti kérelmet a törvényes képviseletét ellátó személy nyújtotta
+be, a jogosult 16. életévének betöltéséig a törvényes képviselő
+pénzforgalmi szolgáltatónál vezetett fizetési számlájára utalja.
+(8) Ha a (7) bekezdésben meghatározott személy nem rendelkezik pénzforgalmi szolgáltatónál vezetett fizetési
+számlával, a folyósítás postai kézbesítés útján történik.”
+
+4. §
+A Cstvhr. 5. § (6b) bekezdése helyébe a következő rendelkezés lép:
+„(6b) Ha az iskoláztatási támogatás szüneteltetéséről hozott határozat elleni fellebbezési eljárásban az igazolatlanul
+mulasztott kötelező tanórai foglalkozások tényét vagy számát vitatják, Budapest Főváros Kormányhivatala – a járási
+hivatal útján – megkeresi a köznevelési intézmény igazgatóját, hogy nyolc napon belül nyilatkozzon a kérdésben.”
+5. §
+A Cstvhr. 9. §-a a következő (1f) bekezdéssel egészül ki:
+„(1f) Ha a tartósan beteg, illetve súlyosan fogyatékos gyermek után folyósított magasabb összegű családi pótlék
+alapjául szolgáló orvosi igazolás érvényessége lejár, és a jogosult az orvosi igazolás érvényességének lejárta előtt
+tájékoztatja az igényelbíráló szervet arról, hogy az újabb orvosi igazolás kiadásához szükséges orvosi vizsgálaton
+a gyermek – az egészségügyi szerv által igazoltan – egy későbbi, meghatározott időpontban tud megjelenni,
+a magasabb összegű családi pótlékra való jogosultságot a korábbi igazolás lejártát követő hónaptól kell
+felülvizsgálni.”
+6. §
+A Cstvhr. 19. §-a a következő (11) bekezdéssel egészül ki:
+„(11) Ha a tartósan beteg, illetve súlyosan fogyatékos gyermek után járó gyermekgondozást segítő ellátás
+alapjául szolgáló orvosi igazolás érvényessége lejár, és a jogosult az orvosi igazolás érvényességének lejárta előtt
+tájékoztatja az igényelbíráló szervet arról, hogy az újabb orvosi igazolás kiadásához szükséges orvosi vizsgálaton
+a gyermek – az egészségügyi szerv által igazoltan – egy későbbi, meghatározott időpontban tud megjelenni,
+a gyermekgondozást segítő ellátásra való jogosultságot a korábbi igazolás lejártát követő naptól kell felülvizsgálni.”
+7. § (1) A Cstvhr. 24. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az anyasági támogatásra irányuló kérelmet
+a) a Cst. 2. § a) és b) pontjában meghatározott személy esetén az 5. számú melléklet szerinti,
+b) a Cst. 2. § c) pontjában meghatározott személy esetén az 5/a. számú melléklet szerinti
+adattartalommal rendelkező formanyomtatványon kell benyújtani.”
+(2) A Cstvhr. 24. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A Cst. 2. § c) pontja szerinti személy esetén a kérelem benyújtható a külképviselet hivatásos konzuli
+tisztviselőjénél is.”
+(3) A Cstvhr. 24. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az anyasági támogatás megállapítása iránti kérelem elbírálásához szükséges
+a) a Cst. 29. § (1) bekezdés a) pontja szerinti esetben – a Cst. 2. § c) pontjában meghatározott személy által
+benyújtott kérelem kivételével – a várandósgondozást végző szülész-nőgyógyász szakorvos, szülésznő vagy védőnő
+igazolásának másolata arról, hogy a szülő nő – a várandósgondozási könyvben rögzítettek tanúsága szerint –
+a szükséges alkalommal részt vett a várandósgondozáson,
+b) a Cst. 29. § (1) bekezdés b) pontja szerinti esetben az azt igazoló irat, hogy a gyermek örökbefogadását
+véglegessé vált határozatban engedélyezték,
+c) a Cst. 29. § (1) bekezdésének c) pontja szerinti esetben az azt igazoló irat, hogy a gyermek számára véglegessé vált
+határozatban gyámot rendeltek, továbbá
+d) a Cst. 2. § c) pont cb) alpontjában meghatározott személy által benyújtott kérelem esetén
+da) annak igazolása, hogy a gyermek rendelkezik a nevére a szomszédos államokban élő magyarokról szóló
+2001. évi LXII. törvény alapján kiadott„Magyar igazolvánnyal”, és
+db) a külföldi anyakönyvi kivonat másolata.”
+(4) A Cstvhr. 24. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A (2) bekezdés a) pontjában foglaltaktól eltérően a Cst. 2. § c) pontjának hatálya alá nem tartozó kérelmezőnek
+sem kell a szükséges számú várandósgondozáson való részvételt igazolnia, ha hitelt érdemlően igazolja, hogy
+az anya a várandósságának időtartama alatt legalább 5 hónap időtartamig egybefüggően külföldön tartózkodott.”
+(5) A Cstvhr. 24. §-a a következő (5a) bekezdéssel egészül ki:
+„(5a) Az anyasági támogatással kapcsolatos ügyekben az elektronikus ügyintézés és a bizalmi szolgáltatások
+általános szabályairól szóló törvényben meghatározott elektronikus úton benyújtott kérelem esetén az igényelbíráló
+szerv az eljárást automatikus döntéshozatal útján folytatja le.”
+
+8. §
+A Cstvhr.„Egyéb rendelkezések”alcíme a következő 30. §-sal egészül ki:
+„30. § (1) A családtámogatási igazgatási szervek elektronikus aláírással kiadmányozott és központi tárhelyen
+tárolt döntéseinek másolatát az „Ez a döntés az eredeti elektronikus úton előállított dokumentummal megegyező
+tartalmú hiteles papíralapú másolat.”szövegű hitelesítési záradékkal kell ellátni.
+(2) A papír alapon benyújtott, digitalizált és a központi szakmai informatikai rendszerben elmentett dokumentumok
+papíralapú példányait a digitalizálást követő 1 év elteltével meg lehet semmisíteni.”
+9. §
+A Cstvhr. az 1. melléklet szerinti 5/a. számú melléklettel egészül ki.
+10. §
+A Cstvhr.
+a) 1. § (5) bekezdés f) pontjában a„Cst. 2. § e) pontja”szövegrész helyébe a„Cst. 2. § a) pont ae) alpontja”szöveg,
+b) 1. § (5) bekezdés g) pontjában a„Cst. 2. § f) pontja”szövegrész helyébe a„Cst. 2. § a) pont af) alpontja”szöveg,
+c) 1. § (8) bekezdésében a „Cst. 2. §-ának d) pontjában” szövegrész helyébe a „Cst. 2. § a) pont ad) alpontjában”
+szöveg,
+d) 1/B. § (1) bekezdésében a„Cst. 2. § a), b), e) és f) pontja” szövegrész helyébe a„Cst. 2. § a) pont aa), ab), ae) és
+af) alpontja”szöveg,
+e) 1/B. § (2) bekezdésében a„Cst. 2. § c) és d) pontja” szövegrész helyébe a„Cst. 2. § a) pont ac) és ad) alpontja”
+szöveg,
+f) 4/B. § (1) bekezdés a) pontjában a„4. § g) és h) pontja”szövegrész helyébe„4. § g) pontja”szöveg,
+g) 27/A. § (1) bekezdésében a„Cst. 37. §-ának (3) bekezdése”szövegrész helyébe a„4/C. § (4) bekezdése”szöveg,
+h) 27/A. § (1a) bekezdésében a „Cst. 37. § (4a) bekezdése” szövegrész helyébe a „4/C. § (6) bekezdés b) pontja”
+szöveg
+lép.
+11. §
+Hatályát veszti a Cstvhr.
+a) 4/B. § (1) bekezdés a) pontjában a„ , valamint 37. § (5) és (9) bekezdése”szövegrész,
+b) 5. § (9) bekezdése,
+c) 9. § (3) bekezdésében az„a lakcímét,”szövegrész.
+12. §
+Ez a rendelet 2018. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 405/2017. (XII. 15.) Korm. rendelethez
+„5/a. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez
+Az anyasági támogatás iránti kérelem adattartalma külföldön született magyar állampolgárságú,
+illetve nem magyar állampolgárságú,„Magyar igazolvánnyal”rendelkező gyermek esetén
+1. A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
+1.1. a jogosultság jogcíme;
+1.2. a kérelmező
+1.2.1. neve
+1.2.2. születéskori neve
+1.2.3. születési helye, ideje
+1.2.4. anyja neve
+1.2.5. lakcíme
+1.2.6. állampolgársága
+1.2.7. „Magyar igazolványának”száma;
+
+1.3. a kérelmező bankszámlaszáma (fizetési számlaszáma) és a számlatulajdonosnak a pénzintézetnél rögzített
+formátumban megadott neve, vagy – ha a kérelmező nem rendelkezik bankszámlaszámmal, akkor a postai
+úton (pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése
+esetén – a folyósítási cím.
+2. A gyermek(ek)re vonatkozó adatok
+2.1. azon gyermeknek (ikergyermekeknek), aki(k) után a kérelmező az anyasági támogatás megállapítását kéri
+2.1.1. a neve
+2.1.2. a születési helye
+2.1.3. a születési ideje
+2.1.4. az anyja neve
+2.1.5. a háztartásba kerülésének időpontja
+2.1.6. állampolgársága
+2.1.7. „Magyar igazolványának”száma
+2.1.8. külföldi anyakönyvi kivonatának száma vagy egyéb azonosítója.
+3. A gyermek(ek) másik vér szerinti vagy örökbefogadó szülőjére vonatkozó adatok
+3.1. a 2.1. alpontban feltüntetett gyermek (ikergyermek) másik vér szerinti vagy örökbefogadó szülőjének
+3.1.1. a neve
+3.1.2. a születéskori neve
+3.1.3. a születési helye, ideje
+3.1.4. az anyja neve
+3.1.5. a lakcíme
+3.1.6. állampolgársága
+3.1.7. „Magyar igazolványának”száma.
+4. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
+4.1. nyilatkozat a kérelemhez csatolt iratokról, illetve, ha a kérelmező az anyakönyvi nyilvántartásban
+szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által
+adatszolgáltatási kérelemmel megkereshető;
+4.2. nyilatkozat a gyermek(ek) hazai anyakönyvezésének kezdeményezéséről, illetve az ahhoz való hozzájárulásról;
+4.3. a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény szerinti életkezdési támogatással
+kapcsolatosan nyilatkozat
+4.3.1. a gyermek(ek) részére az életkezdési letéti számla megnyitásához történő hozzájárulásról,
+4.3.2. a 4.3.1. alpont szerinti életkezdési letéti számla megnyitásáról és a letéti számlán évente jóváírt
+állami támogatásról szóló értesítés postai úton történő megküldésének igényléséről,
+4.3.3. a 4.3.1. alpont szerinti életkezdési letéti számla megnyitása során a gyermek(ek) részére képezett
+adóazonosító jelről kiadott adóigazolvány kiállításának és megküldésének igényléséről, továbbá
+az adóigazolvány kézbesítési címéről;
+4.4. a kérelmező aláíróhelye;
+4.5. a 2.1. alpontban feltüntetett gyermek (ikergyermek) másik vér szerinti vagy örökbefogadó szülőjének
+aláíróhelye.”
