@@ -1,4 +1,4 @@
-## 5. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 6. §[^2] A Budapest XIV. kerületében megvalósuló ingatlan- és infrastrukturális fejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint a Kaposvár Megyei Jogú Város területén megvalósuló napelemes erőmű létrehozására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 322/2017. (XI. 8.) Korm. rendelet módosításáról szóló 409/2017. (XII. 15.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 1. § (1) bekezdését a MódR. hatálybalépésekor[^3] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 322/2017. (XI. 8.) Korm. rendelethez
 
@@ -53,3 +53,6 @@
 24. azok az 1–23. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 25. az 1–24. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: A 6. §-t a 409/2017. (XII. 15.) Korm. rendelet 7. §-a iktatta be.
+[^3]: A hatálybalépés időpontja 2017. december 16.
