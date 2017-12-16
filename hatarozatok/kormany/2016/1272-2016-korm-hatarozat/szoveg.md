@@ -17,3 +17,7 @@ Határidő: 2016. június 14.
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2017. január 15.
+
+4.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a nemzeti fejlesztési miniszter az e határozatban foglaltak végrehajtása érdekében a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 30. Közúthálózat felújítása jogcímcsoportja kiadási előirányzata terhére 2017–2018. évekre legfeljebb 105 758 234 000 Ft összegben kötelezettséget vállaljon.
+
+[^1]: A 4. pontot az 1958/2017. (XII. 15.) Korm. határozat 9. pontja iktatta be.
