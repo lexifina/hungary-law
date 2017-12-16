@@ -2,7 +2,7 @@
 
 |  | A | B | C | D | E | F | G | H | I |
 
-| 1. | Az előirányzat megnevezése | A projektek megvalósításához szükséges források éves keretösszege (bruttó, millió forint) |
+| 1. | Az előirányzat megnevezése | A projektek megvalósításához szükséges források éves keretösszege (bruttó, millió Ft) |
 
 | 2. | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | Összesen: |
 
@@ -10,15 +10,15 @@
 
 | 4. | IKOP 4. prioritása | 77 690 | 76 976 | 64 872 | 77 246 | 44 108 | 34 213 | 6 960 | 382 065 |
 
-| 5. | Európai Hálózat­finanszírozási Eszköz | 5 675 | 27 130 | 26 370 | 10 073 | 0 | 0 | 0 | 69 248 |
+| 5. | Európai Hálózatfinanszírozási Eszköz | 5 675 | 27 130 | 26 370 | 10 073 | 0 | 0 | 0 | 69 248 |
 
-| 6. | Magyarország központi költségvetés hazai forrás | 97 787 | 212 447 | 259 060 | 378 263 | 196 699 | 134 255 | 62 070 | 1 340 581 |
+| 6. | Magyarország központi költségvetés hazai forrás | 98 383 | 214 597 | 266 097 | 386 218 | 198 499 | 134 255 | 61 474 | 1 359 523 |
 
-| 7. | Összesen | 349 065 | 537 027 | 461 373 | 577 611 | 321 683 | 197 858 | 80 581 |  |
+| 7. | Összesen | 349 661 | 539 177 | 468 410 | 585 566 | 323 483 | 197 858 | 79 985 |  |
 
-| 8. | Mindösszesen | 2 525 198 |  |
+| 8. | Mindösszesen | 2 544 140 |  |
 
-2. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^6]
+2. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^7]
 
 1. IKOP 1. prioritása terhére megvalósítani tervezett közútfejlesztések megvalósításának tervezett ütemezése
 
@@ -190,7 +190,7 @@
 
 | 31. | Kisvárda ÉK-i tehermentesítő út (város északi területei elkerülő és feltáró útjainak, stadion közúti megközelítésének megvalósítása) | 2017. III. negyedév | 2018. IV. negyedév |
 
-| 32. | Galvani-híd (előkészítés) | 2017. II. negyedév | 2019. I. negyedév |
+| 32. | Új Duna-híd (előkészítés) | 2017. II. negyedév | 2019. I. negyedév |
 
 | 33. | 23. és 25. főutak Bátonyterenye–Ózd közötti szakasz fejlesztésének előkészítése | 2018. I. negyedév | 2020. I. negyedév |
 
@@ -206,7 +206,7 @@
 
 | 39. | Miskolci Intermodális Csomóponthoz (IMCS) kapcsolódó Y-híd és 3. számú főút új belterületi tehermentesítő szakasz megvalósításának előkészítése | 2018. I. negyedév | 2019. I. negyedév |
 
-| 40. | 52. sz. főút Kecskemét Nagykörút – 5218. j. úti (Vízmű utca) csomópont közötti szakasz átépítésének előkészítése | 2018. I. negyedév | 2019. II. negyedév |
+| 40. | 52. számú főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése | 2018. I. negyedév | 2019. II. negyedév |
 
 | 41. | Szeged–Debrecen közötti szakasz 2×2 sávos közúti kapcsolat kialakításának előkészítése | 2018. I. negyedév | 2022. IV. negyedév |
 
@@ -214,9 +214,9 @@
 
 | 43. | M3 autópálya – Mátészalka – országhatár közötti kapcsolat fejlesztésének előkészítése | 2018. I. negyedév | 2022. IV. negyedév |
 
-| 44. | 54. sz. főút Kecskemét bevezető szakasz kapacitásbővítésének előkészítése | 2018. I. negyedév | 2019. II. negyedév |
+| 44. | 54. sz. főút M5 autópálya és 5. sz. főút közötti szakasz kapacitásbővítés megvalósítása | 2018.II. negyedév | 2020. II. negyedév |
 
-| 45. | 1. sz. főút likócsi körforgalom – Ipar u. csomópont közötti szakasz 2×2 sávos fejlesztésének előkészítése | 2018. I. negyedév | 2018. IV. negyedév |
+| 45. | Győr, 1. sz. főút likócsi körforgalom – Ipar u. csomópont közötti szakasz 2×2 sávos fejlesztés megvalósítása | 2018. II. negyedév | 2019. III. negyedév |
 
 | 46. | 53–54. sz. főutak, Soltvadkert elkerülő szakasz előkészítése | 2018. I. negyedév | 2020. IV. negyedév |
 
@@ -236,4 +236,12 @@
 
 | 54. | 441. sz. főút Kecskemét elkerülő – Nagykőrös szakasz fejlesztésének előkészítése | 2018. I. negyedév | 2021. IV. negyedév |
 
-[^6]: A 2. melléklet az 1656/2017. (IX. 13.) Korm. határozat 11. pontjával megállapított szöveg.
+| 55. | 8. számú főút és a 82. számú főút összeköttetésével tervezett, a veszprémi sportlétesítmények megközelítésének javítását is szolgáló útfejlesztési projekt előkészítése | 2018. I. negyedév | 2019. IV. negyedév |
+
+| 56. | 87–89. számú főút Szombathely hiányzó északkeleti elkerülő szakasz fejlesztésének előkészítése | 2018. I. negyedév | 2020. III. negyedév |
+
+| 57. | Szombathely és Kőszeg közötti közúti kapcsolat fejlesztésének előkészítése | 2018. I. negyedév | 2020. III. negyedév |
+
+| 58. | M25 autóút maklári csomópont és összekötő út megvalósítása | 2018. I. negyedév | 2020. III. negyedév |
+
+[^7]: A 2. melléklet az 1656/2017. (IX. 13.) Korm. határozat 11. pontjával megállapított, az 1958/2017. (XII. 15.) Korm. határozat 8. pontja szerint módosított szöveg.
