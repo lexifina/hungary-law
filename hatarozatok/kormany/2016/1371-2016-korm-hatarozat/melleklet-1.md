@@ -50,11 +50,11 @@
 
 ## Határidő: azonnal
 
-## 1.9.[^1] egyetért azzal, hogy az 1. melléklet 4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista című táblázat 33. sora szerinti Galvani utca – Illatos út vonalában megépítendő új 2×3 sávos közúti Duna-híd (a továbbiakban: Galvani-híd) esetében nemzetközi tervpályázat kerüljön lebonyolításra az építési engedélyezési tervdokumentáció elkészítését megelőzően;
+## 1.9.[^1] egyetért azzal, hogy a Galvani utca – Illatos út vonalában megépítendő új, kötöttpályás közlekedéssel együtt 2×3 forgalmi sávos Duna-híd (a továbbiakban: Új Duna-híd) tárgyú nemzetközi tervpályázat kerüljön lebonyolításra az építési engedélyezési tervdokumentáció elkészítését megelőzően, valamint azzal, hogy a kapcsolódó úthálózat tervezését úgy kell megvalósítani, hogy az figyelemmel legyen a fejlesztéssel érintett természeti értékekre, zöldfelületek és a környék lakói életminőségének megőrzésére, javítására, ezért a tervezés során meg kell vizsgálni az ezt lehetővé tevő kiegészítő vagy alternatív műszaki megoldásokat is;
 
 ## 1.10.[^2] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon:
 
-## a) az egyes kiemelt budapesti beruházásokért felelős kormánybiztos és Budapest Főváros Önkormányzata főpolgármesterének bevonásával a Galvani-híd megvalósítására vonatkozó nemzetközi tervpályázati eljárás lefolytatásáról, valamint
+## a)[^3] az egyes kiemelt budapesti beruházásokért felelős kormánybiztos és Budapest Főváros Önkormányzata főpolgármesterének bevonásával az Új Duna-híd megvalósítására vonatkozó nemzetközi tervpályázati eljárás lefolytatásáról, valamint
 
 ## b) az építési engedélyezési tervdokumentáció elkészítésére vonatkozó közbeszerzési eljárásnak a legjobbnak ítélt pályamű felhasználásával történő lefolytatásáról;
 
@@ -66,7 +66,7 @@
 
 ## a b) alpont tekintetében az a) alpont teljesülését követően azonnal
 
-## 1.11.[^3] egyetért a Fővárosi Önkormányzat felelősségi körébe tartozó Budapest Liszt Ferenc Nemzetközi Repülőtérre vezető út fejlesztésének szükségességével, ezért a fejlesztés előkészítéséhez szükséges források biztosítása érdekében együttműködik Budapest Főváros Önkormányzatával, továbbá felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy Budapest Főváros Önkormányzata bevonásával tegyenek javaslatot a szükséges források biztosítására.
+## 1.11.[^4] egyetért a Fővárosi Önkormányzat felelősségi körébe tartozó Budapest Liszt Ferenc Nemzetközi Repülőtérre vezető út fejlesztésének szükségességével, ezért a fejlesztés előkészítéséhez szükséges források biztosítása érdekében együttműködik Budapest Főváros Önkormányzatával, továbbá felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy Budapest Főváros Önkormányzata bevonásával tegyenek javaslatot a szükséges források biztosítására.
 
 ## Felelős: nemzeti fejlesztési miniszter, nemzetgazdasági miniszter
 
@@ -74,7 +74,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1371/2016. (VII. 15.) Korm. határozathoz[^4]
+1. melléklet az 1371/2016. (VII. 15.) Korm. határozathoz[^5]
 
 Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások projektlistája
 
@@ -246,7 +246,7 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 32. | Kisvárda ÉK-i tehermentesítő út (a város északi területei elkerülő és feltáró útjainak, a stadion közúti megközelítésének megvalósítása) |
 
-| 33. | Galvani híd (előkészítés) |
+| 33. | Új Duna-híd (előkészítés) |
 
 | 34. | 23. és 25. számú főutak Bátonyterenye–Ózd közötti szakasz fejlesztésének előkészítése |
 
@@ -262,7 +262,7 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 40. | Miskolci Intermodális Csomóponthoz (IMCS) kapcsolódó Y-híd és 3. számú főút új belterületi tehermentesítő szakasz megvalósításának előkészítése |
 
-| 41. | 52. sz. főút Kecskemét Nagykörút – 5218. j. úti (Vízmű utca) csomópont közötti szakasz átépítésének előkészítése |
+| 41. | 52. sz. főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése |
 
 | 42. | Szeged–Debrecen közötti szakasz 2×2 sávos közúti kapcsolat kialakításának előkészítése |
 
@@ -270,9 +270,9 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 44. | M3 autópálya – Mátészalka – országhatár közötti kapcsolat fejlesztésének előkészítése |
 
-| 45. | 54. sz. főút Kecskemét bevezető szakasz kapacitásbővítésének előkészítése |
+| 45. | 54. sz. főút M5 autópálya és 5. sz. főút közötti szakasz kapacitásbővítés megvalósítása |
 
-| 46. | 1. sz. főút likócsi körforgalom – Ipar u. csomópont közötti szakasz 2×2 sávos fejlesztésének előkészítése |
+| 46. | Győr, 1. sz. főút likócsi körforgalom – Ipar u. csomópont közötti szakasz 2×2 sávos fejlesztés megvalósítása |
 
 | 47. | 53–54. sz. főutak, Soltvadkert elkerülő szakasz előkészítése |
 
@@ -298,7 +298,10 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 58. | Szombathely és Kőszeg közötti közúti kapcsolat fejlesztésének előkészítése |
 
-[^1]: Az 1. pont 1.9. alpontját az 1656/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be.
+| 59. | M25 autóút maklári csomópont és összekötő út megvalósítása |
+
+[^1]: Az 1. pont 1.9. alpontját az 1656/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be, szövege az 1958/2017. (XII. 15.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1. pont 1.10. alpontját az 1656/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be.
-[^3]: Az 1. pont 1.11. alpontját az 1656/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be.
-[^4]: Az 1. melléklet az 1833/2016. (XII. 23.) Korm. határozat 4., 7., 12. pontja és 14. pont b) alpontja, az 1150/2017. (III. 20.) Korm. határozat 1. pontja, az 1657/2017. (IX. 13.) Korm. határozat 5. pontja, az 1656/2017. (IX. 13.) Korm. határozat 4. pontja szerint módosított szöveg. [Az 1657/2017. (IX. 13.) Korm. határozat 4. pontjával elrendelt módosítás, amely szerint az 1. mellékletben foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat 41. sorában az „52. sz. főút Kecskemét Nagykörút – 5218. j. úti (Vízmű utca) csomópont közötti szakasz átépítésének előkészítése” szövegrész helyébe az „52. sz. főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése” szöveg lép, nem vezethető át.]
+[^3]: Az 1. pont 1.10. alpont a) alpontja az 1958/2017. (XII. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^4]: Az 1. pont 1.11. alpontját az 1656/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be.
+[^5]: Az 1. melléklet az 1833/2016. (XII. 23.) Korm. határozat 4., 7., 12. pontja és 14. pont b) alpontja, az 1150/2017. (III. 20.) Korm. határozat 1. pontja, az 1657/2017. (IX. 13.) Korm. határozat 5. pontja, az 1656/2017. (IX. 13.) Korm. határozat 4. pontja, az 1958/2017. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1657/2017. (IX. 13.) Korm. határozat 4. pontjával elrendelt módosítás, amely szerint az 1. mellékletben foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat 41. sorában az „52. sz. főút Kecskemét Nagykörút – 5218. j. úti (Vízmű utca) csomópont közötti szakasz átépítésének előkészítése” szövegrész helyébe az „52. sz. főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése” szöveg lép, nem vezethető át.]
