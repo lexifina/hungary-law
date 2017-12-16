@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1.[^1] emlékérme tematika: az adott emlékérme kibocsátásának alapjául szolgáló történelmi, politikai, társadalmi esemény, személy, helyszín, műalkotás stb., ide nem értve az ezen tárgyköröket rendszerező gyűjtői sorozatot;
+1.[^2] emlékérme tematika: az adott emlékérme kibocsátásának alapjául szolgáló történelmi, politikai, társadalmi esemény, személy, helyszín, műalkotás stb., ide nem értve az ezen tárgyköröket rendszerező gyűjtői sorozatot;
 
 2. emlékérem: törvényes fizetőeszköznek nem minősülő, fémből készült (többnyire) kerek, kisplasztikai alkotás, amelyet történelmi, politikai, társadalmi események vagy személyek tiszteletére, öntés vagy sajtolás, azaz verés alkalmazásával készítenek;
 
@@ -12,11 +12,11 @@
 
 5. forintérme egyedi képi elemei: az adott forintérme kibocsátásáról rendelkező jogi normában meghatározott alábbi elemek:
 
-a) az értékjelzés számokkal,
+a)[^3] az értékjelzés,
 
-b) a „forint” megnevezés,
+b)[^4] a „forint” megnevezés vagy annak a gyakorlatban használatos – magyar vagy idegen nyelvű – rövidítése,
 
-c) Hazánknak az adott forintérme kibocsátása időpontja szerinti hivatalos megnevezése,
+c)[^5] Hazánknak az adott forintérme kibocsátása időpontja szerinti – magyar vagy idegen nyelvű – hivatalos megnevezése vagy annak a gyakorlatban használatos rövidítése,
 
 d) a verési évszám,
 
@@ -36,9 +36,12 @@ c) peremvastagság és -kialakítás,
 
 d) anyagösszetétel;
 
-8.[^2]
+8.[^6]
 
 9. kereskedelmi kommunikáció: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény szerinti fogalom.
 
-[^1]: A 2. § 1. pontja a 47/2015. (XI. 18.) MNB rendelet 5. §-a szerint módosított szöveg.
-[^2]: A 2. § 8. pontját a 47/2015. (XI. 18.) MNB rendelet 6. §-a hatályon kívül helyezte.
+[^2]: A 2. § 1. pontja a 47/2015. (XI. 18.) MNB rendelet 5. §-a szerint módosított szöveg.
+[^3]: A 2. § 5. pont a) alpontja a 34/2017. (XII. 1.) MNB rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § 5. pont b) alpontja a 34/2017. (XII. 1.) MNB rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § 5. pont c) alpontja a 34/2017. (XII. 1.) MNB rendelet 1. §-ával megállapított szöveg.
+[^6]: A 2. § 8. pontját a 47/2015. (XI. 18.) MNB rendelet 6. §-a hatályon kívül helyezte.
