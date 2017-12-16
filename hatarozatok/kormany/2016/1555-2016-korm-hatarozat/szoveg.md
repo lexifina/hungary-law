@@ -30,7 +30,13 @@ a 2017. évi forrás tekintetében a központi költségvetés végrehajtása so
 
 a 2018. évi források tekintetében a központi költségvetések tervezése során
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4a) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a nemzeti fejlesztési miniszter a 2016–2018. évek vonatkozásában az előirányzat terhére a beruházás megvalósítása érdekében a 3. pont a)–c) alpontjaiban megjelölt összegek pénzügyi tranzakciós illetékkel és a kapcsolódó kincstári díjakkal csökkentett összegének mértékéig, összesen legfeljebb bruttó 3770,0 millió forint összegben kötelezettséget vállaljon;
+4.[^1] egyetért azzal, hogy a nemzeti fejlesztési miniszter a beruházás megvalósítása érdekében a 2016–2018. évek vonatkozásában az alábbiakban megjelölt összegek pénzügyi tranzakciós illetékkel és kapcsolódó kincstári díjakkal csökkentett összegének mértékéig, a Magyarország rövid- és középtávú közútfejlesztéseinek 2022-ig történő megvalósításához szükséges feltételek biztosításáról szóló 1505/2016. (IX. 21.) Korm. határozat 8. pontja szerinti szerződés keretében összesen legfeljebb 3770 millió forint összegben kötelezettséget vállaljon;
+
+a) 2016. évben 40,14 millió forint,
+
+b) 2017. évben 2910,15 millió forint,
+
+c) 2018. évben 832,905 millió forint
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -47,3 +53,5 @@ Határidő: azonnal
 Felelős: nemzetgazdasági miniszter
 
 Határidő: 2017. évben a felmerülés ütemében
+
+[^1]: A 4. pont az 1958/2017. (XII. 15.) Korm. határozat 10. pontjával megállapított szöveg.
