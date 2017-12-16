@@ -1,6 +1,6 @@
-## 17–18. §[^8]
+## 17–18. §[^11]
 
-19. § (1)[^9]
+19. § (1)[^12]
 
 (2) 2017. december 16-án hatályát veszti
 
@@ -20,5 +20,5 @@ c) a 7. melléklet.
 
 (4) Nem lép hatályba az egyes tevékenységek és berendezések illékony szerves vegyület kibocsátásának korlátozásáról szóló 10/2001. (IV. 19.) KöM rendelet módosításáról szóló 7/2010. (III. 31.) KvVM rendelet 1. § (6) bekezdése, valamint 2. § (2) bekezdése.
 
-[^8]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 19. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 19. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-5. melléklet a 26/2014. (III. 25.) VM rendelethez
+5. melléklet a 26/2014. (III. 25.) VM rendelethez[^16]
 
 ## Éves oldószermérleg
 
@@ -116,12 +116,4 @@ ahol:
 
 - E: a teljes VOC kibocsátás, amelynek meghatározását a 3.4.1. pont tartalmazza.
 
-3.5. A 7. melléklet szerinti kibocsátás-csökkentési terv teljesítésének igazolása a teljes VOC kibocsátási határértékek alapján számított oldószer kibocsátással
-
-3.5.1. Arra a tevékenységre, amelyre kibocsátás-csökkentési terv készül, az oldószer-felhasználást az alábbi egyenlet szerint kell kiszámítani:
-
-OF= B-K8
-
-ahol:
-
-- B: az oldószerbevitel, amelynek meghatározását a 3.3.2. pont tartalmazza.
+[^16]: Az 5. melléklet a 19. § (2) bekezdés b) pontja szerint módosított szöveg.
