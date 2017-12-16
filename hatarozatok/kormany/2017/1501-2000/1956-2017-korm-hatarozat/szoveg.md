@@ -12,6 +12,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-3. A 2017–2020. évekre vonatkozó újpesti sportlétesítmény-fejlesztési program megvalósításához szükséges intézkedésekről szóló 1791/2017. (XI. 8.) Korm. határozat 10. pontjának nyitó szövegrészében, valamint a 10. pont c) alpontjában a „74327/2 helyrajzi számú” szövegrész helyébe a „74324 helyrajzi számú” szöveg lép.
+3–4.[^1]
 
-4. A Kaposvár megyei jogú város külterületén fekvő egyes földrészletek beruházási célterületté nyilvánításáról szóló 1810/2017. (XI. 8.) Korm. határozatban a „szerint 0293/1” szövegrész helyébe a „szerint 0285/14, 0293/1” szöveg lép.
+[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
