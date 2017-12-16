@@ -1,0 +1,1 @@
+## 7. § A Módr. 4. 4. §-ának az 1/2012. (I. 20.) Korm. rendelet 18. § (1b) bekezdését megállapító rendelkezése a „16/A. § (1) bekezdésében” szövegrész helyett a „16/A. § (1) és (3) bekezdésében” szöveggel lép hatályba.
