@@ -1,11 +1,9 @@
 ## 10. § E rendelet rendelkezéseit a rendelet hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.
 
-## 11. § Ez a rendelet
+## 11. §[^12] Ez a rendelet
 
-a) az EUMSZ 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.),
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-ai 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.),
 
-b) az EUMSZ 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendelet (HL L 114, 2012.4.26., 8. o.),
+b) a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-ei 2017/1084/EU bizottsági rendelettel (HL L 156., 2017.6.20., 1.o.) módosított, a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet 53. cikkének
 
-c) az EUMSZ 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.),
-
-d) az Európai Bizottság SA.34770 (2012/N-2). számú határozata
+[^12]: A 11. § a 4/2017. (XII. 15.) MK rendelet 6. §-ával megállapított szöveg.
