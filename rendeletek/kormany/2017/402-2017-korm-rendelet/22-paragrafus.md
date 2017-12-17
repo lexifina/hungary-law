@@ -1,3 +1,3 @@
-## 21. § Az Mmtr. 48. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 21. §[^6]
 
-## „(5) A 29. § (1) bekezdésében foglaltaktól eltérően a 2018. évre kiírt pályázaton nyertes munkáltatóval a Kormányhivatal 1 évre köt keretszerződést.”
+[^6]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
