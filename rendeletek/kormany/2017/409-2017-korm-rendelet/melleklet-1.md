@@ -1,4 +1,4 @@
-## 8. § A Kaposvár Megyei Jogú Város területén megvalósuló napelemes erőmű létrehozására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 322/2017. (XI. 8.) Korm. rendelet 1. § (1) bekezdésében a „Kaposvár 0293/1” szövegrész helyébe a „Kaposvár 0285/14, 0293/1” szöveg lép.
+## 7–8. §[^2]
 
 1. melléklet a 409/2017. (XII. 15.) Korm. rendelethez
 
@@ -47,3 +47,5 @@
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
