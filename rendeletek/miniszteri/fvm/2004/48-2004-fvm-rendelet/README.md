@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-48-20-8
 | 2017-01-01 | 2004-48-20-82.21 | 47/2016. (VII. 15.) FM rendelet |
 | 2017-04-01 | 2004-48-20-82.22 | 47/2016. (VII. 15.) FM rendelet |
 | 2017-08-18 | 2004-48-20-82.23 | 24/2016. (IV. 8.) FM rendelet |
+| 2017-12-17 | 2004-48-20-82.24 | 16/2011. (III. 2.) VM rendelet |

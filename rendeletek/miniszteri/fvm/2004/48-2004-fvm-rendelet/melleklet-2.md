@@ -124,39 +124,75 @@
 
 | A mintaterek száma: | 20 ha-ig: 4 db, utána minden megkezdett 10 ha után 2 db. |
 
-| A vizsgálat tárgya | Egység | SE | Elit | I. | II. |
+|  | A | B | C | D | E | F |
 
-| szaporítási fok |
+| 1. | A vizsgálat tárgya | Egység | SE szaporítási fok | Elit szaporítási fok | I. szaporítási fok | II. szaporítási fok |
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
+| 2. | 1. Elválasztó sáv, legalább | méter | 2 |
 
-| Elválasztó sáv, legalább | méter | 2 |
+| 3. | 2. Izolációs távolság |  |  |  |  |
 
-| Izolációs távolság rozs fajták között illetve idegentermékenyülő tritikálé fajták között | 500 | 300 | 250 | 200 |
+| 4. | 2.1. Rozs esetén más rozs fajtától | 500 | 300 | 250 | – |
 
-| csupasz árpa egyéb árpa fajtától, illetve csupasz zab egyéb zab fajtól | 100 |
+| 5. | 2.2. Idegentermékenyülő tritikálé esetén más idegentermékenyülő tritikálé fajtától | 500 | 300 | 250 | 200 |
 
-| öntermékenyülő tritikálé fajták között | 100 | 50 | 20 | 20 |
+| 6. | 2.3. Csupasz árpa esetén más árpa fajtától; csupasz zab estén más zab vagy csupasz zab fajtától | 100 |
 
-| Gyomosság, legfeljebb | minősítő szám | 2 |
+| 7. | 2.4. Öntermékenyülő tritikálé esetén más tritikálé fajtától | 100 | 50 | 20 | 20 |
 
-| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+| 8. | 3. Gyomosság, legfeljebb | minősítő szám | 2 |
 
-| Idegen fajú kalászos kultúrnövény a mintaterek átlagában, legfeljebb | növény, db | 0 | 0 | 2 | 4 |
+| 9. | 4. Fejlettség, legalább | értékszám | 3 |
 
-| Idegen fajta a mintaterek átlagában, legfeljebb | 1 | 2 | 4 | 10 |
+| 10. | 5. Kiegyenlítettség, legalább | értékszám | 3 |
 
-| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb galaj fajok (Galium spp.) vadzab fajok (Avena spp.) szédítő vadóc (Lolium temulentum) rozs esetén gabona rozsnok (Bromus secalinus) a mintaterek átlagában, összesen legfeljebb repcsényretek (Raphanus raphanist-rum), Melampyrum spp., Agro-stemma githago, apró szulák (Convolvulus arvensis) | 0 0 0 2 5 | 0,3 0,3 0,3 5 10 | 3 2 2 10 20 | 5 5 5 – 20 |
+| 11. | 6. Kultúrállapot, legalább | értékszám | 3 |
 
-| Gombabetegségek a mintaterek átlagában, legfeljebb fuzárium (Fusarium spp.) | kalász % | 15 |
+| 12. | 7. Idegen fajú kalászos kultúrnövény a mintaterek átlagában, legfeljebb | növény, db | 0 | 0 | 2 | 4 |
 
-| szárrozsda (Puccinia graminis) | minősítő szám | 2 |
+| 13. | 8. Idegen fajta a mintaterek átlagában, legfeljebb | 1 | 2 | 4 | 10 |
 
-| anyarozs (Claviceps purpurea) | kalász db | 5 | 7 | 10 | 20 |
+| 14. | 9. Gyomnövények a mintaterek átlagában, legfeljebb |  |  |  |  |
 
-| búza esetében: kő- és törpeüszög (Tilletia foetida, t. contraversa) porüszög (Ustilago tritici) árpa és zab esetében: porüszög (Ustilago nuda, u. avence) fedett üszög (Ustila o hordei, u. levis) | 0 3 20 0 | 0 3 20 0 | 1 5 50 3 | 2 10 50 10 |
+| 15. | 9.1. Galaj fajok (Galium spp.) | 0 | 0,3 | 3 | 5 |
 
-| Kártevők a mintaterek átlagában, legfeljebb golyóüszög (búzafonálféreg) (Anguina tritici) | 0 |
+| 16. | 9.2. Vadzab fajok (Avena spp.) | 0 | 0,3 | 2 | 5 |
+
+| 17. | 9.3. Szédítő vadóc (Lolium temulentum) | 0 | 0,3 | 2 | 5 |
+
+| 18. | 9.4. Rozs esetén gabona rozsnok (Bromus secalinus) | 2 | 5 | 10 | – |
+
+| 19. | 10. Gyomnövények a mintaterek átlagában, legfeljebb |  |  |  |  |
+
+| 20. | 10.1. Repcsényretek (Raphanus raphanistrum) | 5 | 10 | 20 | 20 |
+
+| 21. | 10.2. Csormolyafélék (Melampyrum spp.) | 5 | 10 | 20 | 20 |
+
+| 22. | 10.3. Konkoly (Agrostemma githago) | 5 | 10 | 20 | 20 |
+
+| 23. | 10.4. Apró szulák (Convolvulus arvensis) | 5 | 10 | 20 | 20 |
+
+| 24. | 11. Gombabetegségek a mintaterek átlagában, legfeljebb |  |  |
+
+| 25. | 11.1. Fuzárium (Fusarium spp.) | kalász % | 15 |
+
+| 26. | 11.2. Szárrozsda (Puccinia graminis) | minősítő szám | 2 |
+
+| 27. | 11.3. Anyarozs (Claviceps purpurea) | kalász, db | 5 | 7 | 10 | 20 |
+
+| 28. | 11.4. Búza esetében: |  |  |  |  |
+
+| 29. | 11.4.1. Kő- és törpeüszög (Tilletia foetida, t. contraversa) összesen | 0 | 0 | 1 | 2 |
+
+| 30. | 11.4.2. Porüszög (Ustilago tritici) | 3 | 3 | 5 | 10 |
+
+| 31. | 11.5. Árpa és zab esetében: |  |  |  |  |
+
+| 32. | 11.5.1. Porüszög (Ustilago nuda, u. avence) | 20 | 20 | 50 | 50 |
+
+| 33. | 11.5.2. Fedett üszög (Ustilago hordei, u. levis) | 0 | 0 | 1 | 2 |
+
+| 34. | 12. Kártevők a mintaterek átlagában, legfeljebb golyóüszög (búzafonálféreg) (Anguina tritici) | 0 |
 
 ## 2. Kalászos hibrid növények
 
@@ -210,9 +246,7 @@
 
 ## 2.6.1.1. az anyai komponensnek ugyanazon fajtól való izolációs távolsága: 25 méter,
 
-## 2.6.1.2. az idegen kultúr- és gyomnövényekre, gombabetegségekre és kártevőkre vonatkozó követelményeket
-
-## a B. rész 1. pontjában lévő, a nem hibrid fajtákra vonatkozó táblázata tartalmazza.
+## 2.6.1.2. a gyomnövényekre, gombabetegségekre és kártevőkre vonatkozó követelményeket a B. rész 1.2. pontjában lévő, a nem hibrid fajtákra vonatkozó táblázat tartalmazza.
 
 ## 2.6.2. Hibrid rozs esetén:
 
@@ -1170,7 +1204,7 @@
 
 |  | □ és II. szaporítási fok | 4,0% |
 
-2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^202]
+2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^203]
 
 ## A répafélék vetőmagvainak forgalomba hozatali feltételei
 
@@ -1338,4 +1372,4 @@ b) a tömeg feltüntetésénél – ha bármilyen szemcsés növényvédőszer, 
 
 c) monogerm vetőmag esetében a „monogerm”, precíziós vetőmag esetében pedig a „precíziós” megjelölés.
 
-[^202]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^203]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
