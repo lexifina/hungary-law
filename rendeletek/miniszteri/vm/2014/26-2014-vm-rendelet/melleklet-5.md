@@ -1,4 +1,4 @@
-5. melléklet a 26/2014. (III. 25.) VM rendelethez[^16]
+5. melléklet a 26/2014. (III. 25.) VM rendelethez[^17]
 
 ## Éves oldószermérleg
 
@@ -116,4 +116,4 @@ ahol:
 
 - E: a teljes VOC kibocsátás, amelynek meghatározását a 3.4.1. pont tartalmazza.
 
-[^16]: Az 5. melléklet a 19. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^17]: Az 5. melléklet a 19. § (2) bekezdés b) pontja szerint módosított szöveg.

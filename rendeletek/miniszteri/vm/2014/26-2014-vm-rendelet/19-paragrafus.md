@@ -2,19 +2,7 @@
 
 19. § (1)[^12]
 
-(2) 2017. december 16-án hatályát veszti
-
-a) a 15. §
-
-aa) (1) bekezdése,
-
-ab) (2) bekezdés a) pontja,
-
-ac) (3) és (4) bekezdése,
-
-b) az 5. melléklet 3.5. pontja és
-
-c) a 7. melléklet.
+(2)[^13]
 
 (3) 2018. április 1-jén hatályát veszti a 15. § (2) bekezdés b) pontja.
 
@@ -22,3 +10,4 @@ c) a 7. melléklet.
 
 [^11]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^12]: A 19. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 19. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
