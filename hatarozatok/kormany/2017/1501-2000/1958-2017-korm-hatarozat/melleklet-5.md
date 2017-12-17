@@ -1,17 +1,3 @@
-## „2. melléklet az 1655/2017. (IX. 13.) Korm. határozathoz
-
-## A kulcsfontosságú budapesti kötöttpályás közlekedési projektek megvalósításához biztosított forráskeret éves felosztása
-
-|  | A | B | C | D | E | F |
-
-| 1. | Az előirányzat megnevezése | A projektek megvalósításához szükséges források éves keretösszege (bruttó, millió forint, tranzakciós illetékkel és kincstári díjjal) |
-
-| 2. | 2016 | 2017 | 2018 | 2019 | Összesen |
-
-| 3. | Központi költségvetés kulcsfontosságú budapesti közlekedési beruházások előkészítése | 331 | 1267 | 2575 | 2057 | 6230 |
-
-## ”
-
 5. melléklet az 1958/2017. (XII. 15.) Korm. határozathoz
 
 | XVII. Nemzeti Fejlesztési Minisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017. Forintban |
