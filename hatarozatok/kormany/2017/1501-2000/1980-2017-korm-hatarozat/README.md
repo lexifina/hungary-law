@@ -1,0 +1,9 @@
+# 1980/2017. (XII. 19.) Korm. határozat
+
+a XI. Miniszterelnökség fejezet és a XX. Emberi Erőforrások Minisztériuma fejezet közötti előirányzat-átcsoportosításról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1980-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-12-19 | 2017-1980-30-22.1 | 1980/2017. (XII. 19.) Korm. határozat |
