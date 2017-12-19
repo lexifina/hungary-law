@@ -236,7 +236,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-2. melléklet az 1766/2017. (XI. 7.) Korm. határozathoz
+2. melléklet az 1766/2017. (XI. 7.) Korm. határozathoz[^2]
 
 | XII. Földművelésügyi Minisztérium XIV. Belügyminisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017. forintban |
 
@@ -248,7 +248,7 @@
 
 | 004240 |  | 1 |  |  |  |  |  | Földművelésügyi Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  | K2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  | -212 524 001 |  |  |  |
+|  |  |  |  |  |  | K2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  | -209 873 107 |  |  |  |
 
 | 004273 |  | 2 |  |  |  |  |  | Nemzeti Élelmiszerlánc-biztonsági Hivatal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -260,7 +260,7 @@
 
 | 004349 |  | 6 |  |  |  |  |  | Mezőgazdasági középfokú szakoktatás intézményei |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  | K2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  | -565 032 349 |  |  |  |
+|  |  |  |  |  |  | K2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  | -567 683 243 |  |  |  |
 
 |  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -318,13 +318,13 @@
 
 |  | XII. |  |  |  |  |  | Földművelésügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 004240 |  | 1 |  |  |  |  |  | Földművelésügyi Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  | -212 524 001 |  |  |  |
+| 004240 |  | 1 |  |  |  |  |  | Földművelésügyi Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  | -209 873 107 |  |  |  |
 
 | 004273 |  | 2 |  |  |  |  |  | Nemzeti Élelmiszerlánc-biztonsági Hivatal |  |  |  |  |  |  |  |  |  |  | -252 802 000 |  |  |  |
 
 | 004338 |  | 4 |  |  |  |  |  | Ménesgazdaságok |  |  |  |  |  |  |  |  |  |  |  |  | -24 641 650 |  |  |  |
 
-| 004349 |  | 6 |  |  |  |  |  | Mezőgazdasági középfokú szakoktatás intézményei |  |  |  |  |  |  |  |  |  | -565 032 349 |  |  |  |
+| 004349 |  | 6 |  |  |  |  |  | Mezőgazdasági középfokú szakoktatás intézményei |  |  |  |  |  |  |  |  |  | -567 683 243 |  |  |  |
 
 |  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -355,3 +355,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^2]: A 2. melléklet az 1989/2017. (XII. 19.) Korm. határozat 11. pontja szerint módosított szöveg.
