@@ -1,0 +1,73 @@
+## 1. egyetért az Egészséges Budapest Program és a Pest Megyei Területfejlesztési Program keretében előkészített fővárosi és Pest megyei járóbeteg-szakellátás fejlesztési beruházások 1. melléklet szerinti megvalósításával;
+
+## 2. felhívja az emberi erőforrások miniszterét, hogy – a területfejlesztés stratégiai tervezéséért felelős nemzetgazdasági miniszter, valamint az informatikai fejlesztések tekintetében a nemzeti fejlesztési miniszter bevonásával – gondoskodjon az 1. mellékletben meghatározott fejlesztések 2018. évi megkezdéséről a Pest megye Területfejlesztési Koncepciója 2014–2030 és Pest megye Területfejlesztési Programja 2014–2020 megvalósításához nyújtandó célzott pénzügyi támogatásról szóló 1295/2016. (VI. 13.) Korm. határozatban, valamint a Pest megye Területfejlesztési Koncepciója 2014–2030 és Pest megye Területfejlesztési Programja 2014–2020 megvalósításához nyújtandó célzott pénzügyi támogatás felhasználásának feltételrendszeréről szóló 1517/2016. (IX. 23.) Korm. határozatban foglaltak figyelembevételével;
+
+## Felelős: emberi erőforrások minisztere
+
+## nemzetgazdasági miniszter
+
+## nemzeti fejlesztési miniszter
+
+## Határidő: a felmerülés ütemében
+
+## 3. felhatalmazza a nemzetgazdasági minisztert, hogy a Pest megye Területfejlesztési Koncepciója 2014–2030 és Pest megye Területfejlesztési Programja 2014–2020 megvalósításához nyújtandó célzott pénzügyi támogatás felhasználásának feltételrendszeréről szóló 1517/2016. (IX. 23.) Korm. határozatban foglaltak figyelembevételével Pest Megye Önkormányzata erre irányuló támogatási kérelme alapján legfeljebb 2 000 000 000 forint egyedi támogatást nyújtson az 1. melléklet 1–3. sorában szereplő fejlesztések megvalósításához;
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: a felmerülés ütemében
+
+## 4. felhívja a nemzetgazdasági minisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon az 1. melléklet szerinti beruházások megvalósításához szükséges forrás biztosításáról a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 25. Egészséges Budapest Program jogcímcsoport javára az alábbi ütemezés szerint:
+
+## a) a 2018. évben 4 286 128 533 forint,
+
+## b) a 2019. évben 5 998 191 925 forint,
+
+## c) a 2020. évben 4 803 150 169 forint,
+
+## d) a 2021. évben 627 706 044 forint;
+
+## Felelős: nemzetgazdasági miniszter
+
+## emberi erőforrások minisztere
+
+## Határidő: az a) alpont tekintetében a felmerülés ütemében
+
+## a b)–d) alpont tekintetében a 2019. évi, 2020. évi és a 2021. évi központi költségvetés tervezése során
+
+## 5. felhívja az emberi erőforrások miniszterét, hogy – az önkormányzati fenntartású vagy tulajdonú ingatlanok esetében a belügyminiszter bevonásával – az új járóbeteg-szakrendelő épületek átadását követően, a funkció nélkül maradó korábbi ingatlanok állagának felmérését végezze el, majd tegyen javaslatot a Kormány részére az ingatlanok további hasznosítására vonatkozóan.
+
+## Felelős: emberi erőforrások minisztere
+
+## belügyminiszter
+
+## Határidő: az épületek átadását követő 2 hónapon belül
+
+1. melléklet az 1970/2017. (XII. 19.) Korm. határozathoz
+
+Az Egészséges Budapest Program keretében megvalósuló járóbeteg-szakellátási fejlesztések
+
+| Fejlesztést igénylő szakrendelő és fejlesztés megnevezése | Fejlesztés rövid szakmai tartalma | Fejlesztési források megoszlása (Ft) | Fejlesztés teljes bruttó összege (Ft) |
+
+| Pest Megyei Területfejlesztési Program / Önkormányzat | Egészséges Budapest Program |
+
+| 1 | A ceglédi Toldy Ferenc Kórház járóbeteg- szakellátásának fejlesztése új szakrendelői épület kialakításával | Telephelyek összevonásával új, többszintes szakrendelői tömb építése, Orvostechnikai eszközök beszerzése, bútorzat cseréje, gépészeti korszerűsítés, informatikai eszközbeszerzés és hálózatfejlesztés | 474 000 000 (Pest Megyei Területfejlesztési Programból épület infrastruktúra fejlesztésére) | 1 699 100 000 | 2 173 100 000 |
+
+| 2 | A Nagykátai Szakorvosi Rendelőintézet felújítása és korszerűsítése – jászberényi Szent Erzsébet Kórház | Új rendelőépületi szárny építése, meglévő épület gépészeti korszerűsítése, akadálymentesítése, Elavult orvostechnológiai és informatikai eszközpark cseréje, képalkotó diagnosztika modernizálása | 973 000 000 (Pest Megyei Területfejlesztési Programból épület infrastruktúra fejlesztésére) | 399 300 000 | 1 372 300 000 |
+
+| 3 | A Monori szakrendelő felújítása, orvos- szakmai fejlesztése – Bajcsy-Zsilinszky Kórház | Szakrendelő épületgépészeti felújítása, orvostechnikai eszközök cseréje, képalkotó diagnosztika korszerűsítése, gasztroenterológiai, mozgásszervi diagnosztikai és rehabilitációs ellátások fejlesztése | 553 000 000 (Pest Megyei Területfejlesztési Programból épület infrastruktúra fejlesztésére) | 816 949 558 | 1 369 949 558 |
+
+| 4 | A Gyömrői Rendelőintézet korszerűsítése – Bajcsy-Zsilinszky Kórház | Építészeti és gépészeti felújítás, orvostechnológiai eszközpark modernizálása, szakellátások fejlesztése | 21 400 000 (Gyömrői Önkormányzat) | 311 100 000 | 332 500 000 |
+
+| 5 | A XVII. kerület (Rákosmente) Szakorvosi Rendelőintézetének fejlesztése – Bajcsy- Zsilinszky Kórház | A rendelőintézet bővítése, belső felújítása, gasztroenterológiai és képalkotó diagnosztika fejlesztése, orvostechnológiai és informatikai eszközök beszerzése | 100 000 000 (XVII. kerület Rákosmente Önkormányzata) | 1 656 899 857 | 1 756 899 857 |
+
+| 6 | A XVI. kerületi Kertvárosi Egészségügyi Szolgálat járóbeteg- szakellátásának korszerűsítése, bővítése | Telephelyek racionalizálása, rendelőintézet bővítése, egynapos sebészet és gasztroenterológia fejlesztése, orvostechnológai eszközpark modernizálása | 120 000 000 (XVI. kerület Kertváros Önkormányzata) | 1 149 401 175 | 1 269 401 175 |
+
+| 7 | A Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Kft. Budapesti Egészségügyi Központjának felújítása, korszerűsítése | Orvostechnológiai eszközök beszerzése, egynapos sebészet és endoszkópia fejlesztése, rendelőintézet épületének belső korszerűsítése, épületgépészeti felújítás, akadálymentesítés | 306 064 625 (Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Kft.) | 1 615 425 639 | 1 921 490 264 |
+
+| 8 | A váci Jávorszky Ödön Kórház járóbeteg- szakellátásának fejlesztése | Új járóbeteg-szakrendelő tömb építése, laboratóriumi és képalkotó diagnosztika fejlesztése, orvostechnikai eszközpark modernizálása, informatikai berendezések beszerzése | – | 5 659 558 579 | 5 659 558 579 |
+
+| 9 | Dunakeszi Szakorvosi Rendelőintézet belső felújítása, korszerűsítése | Szakrendelő épület belső felújítása, pszichiátriai gondozó korszerűsítése, orvostechnikai eszközök fejlesztése, felvonók cseréje, digitális képalkotó rendszer kialakítása | 191 381 495 (Dunakeszi Önkormányzata) | 1 722 433 451 | 1 913 814 946 |
+
+| 10 | Általános tervezési és beruházási céltartalék |  | 685 008 413 |  |
+
+| ÖSSZESEN | 2 738 846 120 | 15 715 176 672 | 18 454 022 792 |
