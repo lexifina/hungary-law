@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – az egyes települési önkormányzatok fejlesztési feladatainak támogatása érdekében – a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 3. A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai cím terhére 2449,3 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 32. Helyi érdekű települési fejlesztések I. cím alábbi alcímei javára, az 1. melléklet szerint:
+## 2.[^1] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – az egyes települési önkormányzatok fejlesztési feladatainak támogatása érdekében – a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 3. A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai cím terhére 2449,3 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 32. Helyi érdekű települési fejlesztések I. cím alábbi alcímei javára, az 1. melléklet szerint:
 
 ## millió forintban
 
@@ -92,7 +92,7 @@
 
 | 40. | Damak Község fejlesztési feladatainak támogatása | útfelújítás | 11,0 |
 
-| 41. | Dánszentmiklós Község fejlesztési feladatainak támogatása | járdafelújítás | 11,7 |
+| 41. | Dánszentmiklós Község fejlesztési feladatainak támogatása | belterületi útfelújítás | 11,7 |
 
 | 42. | Debréte Község fejlesztési feladatainak támogatása | csapadékvíz-elvezetés | 2,5 |
 
@@ -182,7 +182,7 @@
 
 ## Határidő: azonnal
 
-## 3. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – az egyes települési önkormányzatok fejlesztési feladatainak támogatása érdekében – a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet
+## 3.[^2] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – az egyes települési önkormányzatok fejlesztési feladatainak támogatása érdekében – a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet
 
 ## a) 3. A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai cím terhére 2107,7 millió forint,
 
@@ -258,7 +258,7 @@
 
 | 32. | Sajókeresztúr Község fejlesztési feladatainak támogatása | bekötőút fejlesztése | 66,0 |
 
-| 33. | Sajóvelezd Község fejlesztési feladatainak támogatása | játszótér létesítése | 11,0 |
+| 33. | Sajóvelezd Község fejlesztési feladatainak támogatása | járdafelújítás | 11,0 |
 
 | 34. | Sarud Község fejlesztési feladatainak támogatása | útfelújítás | 30,0 |
 
@@ -280,7 +280,7 @@
 
 | 43. | Szijártóháza Község fejlesztési feladatainak támogatása | útépítés, -felújítás | 8,0 |
 
-| 44. | Szob Város fejlesztési feladatainak támogatása | zeneiskola felújítása | 50,0 |
+| 44. | Szob Város fejlesztési feladatainak támogatása | Szobi József Attila Művelődési Ház és Szabadidő Központ fejlesztése | 50,0 |
 
 | 45. | Szulok Község fejlesztési feladatainak támogatása | járdafelújítás | 20,0 |
 
@@ -324,7 +324,7 @@
 
 | 65. | Völcsej Község fejlesztési feladatainak támogatása | járda- útépítés | 15,0 |
 
-| 66. | Zádorfalva Község fejlesztési feladatainak támogatása | buszmegálló építése | 9,0 |
+| 66. | Zádorfalva Község fejlesztési feladatainak támogatása | útfelújítás | 9,0 |
 
 | 67. | Zagyvarékas Község fejlesztési feladatainak támogatása | út- és járdafelújítás, emlékmű befejezése | 16,0 |
 
@@ -366,19 +366,19 @@
 
 ## Határidő: azonnal
 
-## 5. egyetért azzal, hogy a belügyminiszter a 2–4. pontok szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra, pályázat és támogatási kérelem benyújtása nélkül, támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján az érintett települési önkormányzatok részére költségvetési támogatást nyújtson, ha a 2–4. pontokban ismertetett támogatási cél igazoltan önkormányzati tulajdon fejlesztésére irányul;
+## 5.[^3] egyetért azzal, hogy a belügyminiszter a 2–4. pontok szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra, pályázat és támogatási kérelem benyújtása nélkül, támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján az érintett települési önkormányzatok részére költségvetési támogatást nyújtson, ha a 2–4. pontokban ismertetett támogatási cél igazoltan önkormányzati tulajdon fejlesztésére, törvényben meghatározott önkormányzati feladat ellátásához kapcsolódó fejlesztésre irányul, ha az így létrejövő vagyon az önkormányzat számviteli nyilvántartásában jelenik meg;
 
-## 6. egyetért azzal, hogy a belügyminiszter az 5. pont szerinti költségvetési támogatást az önkormányzati tulajdon fejlesztésére irányuló támogatói okirat kiadását követően folyósítsa az érintett települési önkormányzatok számára;
+## 6.[^4] egyetért azzal, hogy a belügyminiszter az 5. pont szerinti költségvetési támogatást az önkormányzati tulajdon fejlesztésére, törvényben meghatározott önkormányzati feladat ellátásához kapcsolódó fejlesztésre irányuló támogatói okirat kiadását követően folyósítsa az érintett települési önkormányzatok számára;
 
 ## 7. egyetért azzal, hogy ha a 2–4. pontok szerinti költségvetési támogatás az érintett települési önkormányzatok számára a 2017. évben nem vagy nem teljes összegben kerül folyósításra, a 2018. évben a IX. Helyi önkormányzatok támogatásai fejezetben azonos elnevezéssel létrehozott címekre, alcímekre e határozatot kell alkalmazni;
 
-## 8. felhívja a belügyminisztert, hogy ha a 2–4. pontok szerinti költségvetési támogatás célja nem önkormányzati tulajdont érintő fejlesztésre irányul, gondoskodjon a megfelelő fejlesztési költség átcsoportosításáról az érintett fejezetet irányító miniszter részére az Áht. 33. § (4) bekezdés b) pontja szerint;
+## 8.[^5] felhívja a belügyminisztert, hogy ha a 2–4. pontok szerinti költségvetési támogatás célja nem önkormányzati tulajdont érintő fejlesztésre, törvényben meghatározott önkormányzati feladat ellátásához kapcsolódó fejlesztésre irányul, gondoskodjon a megfelelő fejlesztési költség átcsoportosításáról az érintett fejezetet irányító miniszter részére az Áht. 33. § (4) bekezdés b) pontja szerint;
 
 ## Felelős: belügyminiszter
 
 ## érintett miniszter
 
-## Határidő: 2017. december 31.
+## Határidő: folyamatosan
 
 ## 9. – az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, egyes települések fejlesztési feladatainak megvalósítása érdekében – elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 3. A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai cím terhére a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport javára összesen 143,0 millió forint egyszeri átcsoportosítását, az 1. melléklet szerint;
 
@@ -413,3 +413,9 @@
 ## Határidő: a támogatási jogviszony létrejöttét követően azonnal
 
 1. melléklet az 1717/2017. (X. 3.) Korm. határozathoz
+
+[^1]: A 2. pont az 1993/2017. (XII. 19.) Korm. határozat 1. a) pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1993/2017. (XII. 19.) Korm. határozat 1. b) pontja szerint módosított szöveg.
+[^3]: Az 5. pont az 1993/2017. (XII. 19.) Korm. határozat 2. a) pontja szerint módosított szöveg.
+[^4]: A 6. pont az 1993/2017. (XII. 19.) Korm. határozat 2. b) pontja szerint módosított szöveg.
+[^5]: A 8. pont az 1993/2017. (XII. 19.) Korm. határozat 2. c) és d) pontja szerint módosított szöveg.
