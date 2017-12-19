@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-77-00-00
 | 2014-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-77-00-00.13 |
 | 2015-08-01 | 2015. évi CXV. törvény | 2011-77-00-00.14 |
 | 2017-01-01 | 2016. évi CIV. törvény | 2011-77-00-00.15 |
+| 2017-12-19 | 2017. évi CXCV. törvény | 2011-77-00-00.16 |
