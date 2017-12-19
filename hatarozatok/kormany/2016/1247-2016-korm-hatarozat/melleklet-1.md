@@ -8,7 +8,7 @@
 
 ## d) jóváhagyja, hogy az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének pénzügyi kerete meghaladja az Integrált Közlekedésfejlesztési Operatív Program pénzügyi keretét azzal, hogy ezen alpontban meghatározott pénzügyi keretek közötti különbözetre kötelezettség nem vállalható,
 
-## e)[^1] felhívja a nemzeti fejlesztési minisztert, gondoskodjon arról, hogy az Integrált Közlekedésfejlesztési Operatív Program egyes prioritásai – a 2. prioritást, valamint a 3.1 és a 3.2 beruházási prioritást kivéve – 90%-át meghaladó összegre vonatkozó kötelezettség vállalására csak annak a Kormány egyedi ügyben hozott nyilvános határozatával történő jóváhagyása alapján kerüljön sor,
+## e)[^1] felhívja a nemzeti fejlesztési minisztert, gondoskodjon arról, hogy az Integrált Közlekedésfejlesztési Operatív Program egyes prioritásai – az 1. és a 2. prioritást, valamint a 3.1 és a 3.2 beruházási prioritást kivéve – 90%-át meghaladó összegre vonatkozó kötelezettség vállalására csak annak a Kormány egyedi ügyben hozott nyilvános határozatával történő jóváhagyása alapján kerüljön sor,
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -24,7 +24,9 @@
 
 ## ga) az európai uniós forrásból megvalósítandó kötöttpályás projektekről, a rendelkezésre álló forrásokról és az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési kerete módosításának előkészítéséről szóló 1691/2016. (XI. 29.) Korm. határozat 1.7. pont b) alpontjában és 2. mellékletében meghatározott projektek esetében előkészítési tevékenységekre vállalható kötelezettség,
 
-## gb) a ga) alpont szerinti projektek megvalósításához elsődlegesen szükséges munkálatokat elvégző kivitelező kiválasztására irányuló feltételes közbeszerzési eljárásokban beérkezett ajánlatok alapján, az irányító hatóság az e határozatban meghatározott indikatív támogatási keret erejéig vállalhat kötelezettséget, és a támogatási szerződést módosíthatja akként, hogy az a projekt teljes megvalósítására vonatkozzon azzal, hogy e módosítás nem minősül költségnövekmény miatti szerződésmódosításnak.
+## gb) a ga) alpont szerinti projektek megvalósításához elsődlegesen szükséges munkálatokat elvégző kivitelező kiválasztására irányuló feltételes közbeszerzési eljárásokban beérkezett ajánlatok alapján, az irányító hatóság az e határozatban meghatározott indikatív támogatási keret erejéig vállalhat kötelezettséget, és a támogatási szerződést módosíthatja akként, hogy az a projekt teljes megvalósítására vonatkozzon azzal, hogy e módosítás nem minősül költségnövekmény miatti szerződésmódosításnak,
+
+## h)[^4] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 1. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 201,12%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -32,9 +34,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^4]
+## 3.[^5]
 
-1. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^5]
+1. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^6]
 
 ## Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési kerete
 
@@ -44,7 +46,7 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP-1.1.0-15 | Nemzetközi (TEN-T) közúti elérhetőség javítása | 314,89 | kiemelt | Meghirdetve: 2015. december 4. |
+| 2. | IKOP-1.1.0-15 | Nemzetközi (TEN-T) közúti elérhetőség javítása | 633,30 | kiemelt | Meghirdetve: 2015. december 4. |
 
 2. Nemzetközi (TEN-T) vasúti és vízi elérhetőség javításáról szóló 2. prioritás
 
@@ -72,8 +74,9 @@
 
 | 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 116,24 | kiemelt | Meghirdetve: 2016. március 1. |
 
-[^1]: Az 1. pont e) alpontja az 1691/2016. (XI. 29.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: Az 1. pont e) alpontja az 1691/2016. (XI. 29.) Korm. határozat 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: Az 1. pont f) alpontja az 1846/2017. (XI. 14.) Korm. határozat 1. pontjával megállapított szöveg.
 [^3]: Az 1. pont g) alpontját az 1145/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
-[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja, az 1846/2017. (XI. 14.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: Az 1. pont h) pontját az 1961/2017. (XII. 18.) Korm. határozat 3. pontja iktatta be.
+[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja, az 1846/2017. (XI. 14.) Korm. határozat 3. pontja, az 1961/2017. (XII. 18.) Korm. határozat 6. pontja szerint módosított szöveg.
