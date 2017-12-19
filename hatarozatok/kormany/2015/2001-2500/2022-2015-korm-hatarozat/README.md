@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2022-30
 | 2016-12-05 | 2015-2022-30-22.3 | 1710/2016. (XII. 5.) Korm. határozat |
 | 2016-12-23 | 2015-2022-30-22.4 | 1710/2016. (XII. 5.) Korm. határozat |
 | 2017-01-01 | 2015-2022-30-22.5 | 1853/2016. (XII. 27.) Korm. határozat |
+| 2017-12-19 | 2015-2022-30-22.6 | 1989/2017. (XII. 19.) Korm. határozat |
