@@ -4,6 +4,6 @@
 
 (3) A keresőképtelenség a vizsgálatra jelentkezés időpontjától eltérően, legfeljebb öt napra visszamenőleg is igazolható.
 
-(3a)
+(3a) Visszamenőleges keresőképtelenségi igazolás esetén, orvosi dokumentáció alapján a kormányhivatal szakértő főorvosa – a (3) bekezdésben foglaltaktól eltérően – 30 napig visszamenőleg igazolhatja a keresőképtelenséget.
 
 (4) Kivételesen indokolt esetben – a (3) bekezdésben foglaltaktól eltérően – az orvosszakértői szerv a keresőképtelenséget a vizsgálatra jelentkezés időpontjától legfeljebb hat hónapra visszamenőleg is igazolhatja.
