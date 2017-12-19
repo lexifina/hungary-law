@@ -1,13 +1,3 @@
-25. § (1) A Gyftv. 77. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
+25. § (1)
 
-(Felhatalmazást kap a Kormány, hogy)
-
-„i) a gyógyszertár-létesítési és működési engedélyezési eljárásra, valamint az új közforgalmú gyógyszertár létesítésére irányuló pályázat kiírására és elbírálására vonatkozó részletes szabályokat, továbbá a 49/B. § (1)–(3) bekezdése szerinti eljárás részletes szabályait,”
-
-(rendeletben állapítsa meg.)
-
-(2) A Gyftv. 77. § (2) bekezdése a következő p) ponttal egészül ki:
-
-(Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben szabályozza)
-
-„p) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének feltételeit,”
+(2)
