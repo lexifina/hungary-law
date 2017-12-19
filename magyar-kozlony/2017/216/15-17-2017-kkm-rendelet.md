@@ -1,0 +1,204 @@
+# A külgazdasági és külügyminiszter 17/2017. (XII. 19.) KKM rendelete
+
+Magyar Közlöny 2017. évi 216. szám, 2017. december 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f9a5aaf7f722e4b366ff920998a21e20f3ce74f1/dokumentumok/14e748c43ad1a6bbf047806d98c2217a1dcd95dd/letoltes)
+
+---
+
+A külgazdasági és külügyminiszter 17/2017. (XII. 19.) KKM rendelete
+a külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó deviza-alapilletmény és
+költségtérítés kiszámításának részletes szabályairól szóló 3/2017. (II. 28.) KKM rendelet módosításáról
+A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (2) bekezdés e), f) és k) pontjában kapott
+felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 85. § 3. pontjában
+meghatározott feladatkörömben eljárva a következőket rendelem el:
+1. §
+A külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó deviza-alapilletmény és
+költségtérítés kiszámításának részletes szabályairól szóló 3/2017. (II. 28.) KKM rendelet 1. melléklete helyébe
+az 1. melléklet lép.
+2. §
+Nem lép hatályba a külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó
+deviza-alapilletmény és költségtérítés kiszámításának részletes szabályairól szóló 3/2017. (II. 28.) KKM rendelet
+módosításáról szóló 14/2017. (IX. 27.) KKM rendelet.
+3. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2017. december 31-én lép hatályba.
+(2) Az 1. § és az 1. melléklet 2018. január 1-jén lép hatályba.
+ Szijjártó Péter s. k.,
+ külgazdasági és külügyminiszter
+
+1. melléklet a 17/2017. (XII. 19.) KKM rendelethez
+„1. melléklet a 3/2017. (II. 28.) KKM rendelethez
+A B C D E F
+1. Állomáshelyek
+Deviza-
+alapilletmény
+Külképviseleti
+besorolás
+Lakhatási
+költségtérítés
+szorzó
+Vegyes
+költségtérítés
+szorzó
+Óvodáztatási
+és iskoláztatási
+költségtérítés szorzó
+Nagykövetség
+2. Abu Dhabi 480 675 HUF 5% 306% 28% 111%
+3. Abuja 437 325 HUF 45% 239% 31% 113%
+4. Accra 482 375 HUF 15% 269% 38% 173%
+5. Addisz-Abeba 458 575 HUF 20% 184% 32% 134%
+6. Algír 418 200 HUF 20% 186% 26% 85%
+7. Amman 454 750 HUF 20% 177% 25% 105%
+8. Ankara 397 375 HUF 45% 141% 21% 97%
+9. Asztana 442 000 HUF 30% 205% 29% 200%
+10. Athén 405 875 HUF 10% 113% 21% 85%
+11. Bagdad 474 725 HUF 40% 85% 30% 85%
+12. Baku 385 900 HUF 20% 224% 24% 85%
+13. Bangkok 447 525 HUF 10% 173% 30% 116%
+14. Bécs NK 478 550 HUF 30% 147% 19% 117%
+15. Bejrút 506 175 HUF 20% 225% 24% 113%
+16. Belgrád 414 800 HUF 35% 178% 20% 184%
+17. Berlin 440 300 HUF 30% 120% 20% 94%
+18. Bern 558 025 HUF 5% 271% 22% 148%
+19. Bogotá 416 925 HUF 15% 239% 38% 85%
+20. Brazíliaváros 467 075 HUF 20% 220% 34% 105%
+21. Brüsszel NK 479 400 HUF 5% 134% 21% 231%
+22. Buenos Aires 478 975 HUF 10% 202% 38% 164%
+23. Bukarest 409 275 HUF 35% 85% 21% 128%
+24. Canberra 469 625 HUF 5% 184% 41% 90%
+25. Doha 451 775 HUF 5% 383% 27% 109%
+26. Dublin 424 150 HUF 0% 207% 21% 85%
+27. Hága 448 800 HUF 5% 141% 21% 113%
+28. Hanoi 430 100 HUF 10% 170% 35% 168%
+29. Havanna 475 575 HUF 15% 213% 32% 88%
+30. Helsinki 453 475 HUF 5% 144% 21% 93%
+31. Iszlámábád 440 725 HUF 45% 151% 27% 85%
+32. Jakarta 451 350 HUF 20% 222% 36% 165%
+33. Kairó 372 725 HUF 30% 165% 21% 85%
+34. Kijev 422 450 HUF 45% 252% 20% 175%
+35. Kisinyov 422 025 HUF 20% 124% 21% 130%
+36. Koppenhága 483 225 HUF 5% 210% 21% 85%
+37. Kuala Lumpur 428 400 HUF 10% 147% 32% 128%
+38. Kuvait 471 750 HUF 5% 159% 29% 85%
+
+39. Lima 460 275 HUF 15% 229% 38% 120%
+40. Lisszabon 443 700 HUF 0% 128% 23% 90%
+41. Ljubljana 414 800 HUF 30% 162% 20% 85%
+42. London 491 725 HUF 35% 320% 22% 234%
+43. Luanda 594 575 HUF 15% 423% 39% 225%
+44. Madrid 434 775 HUF 15% 117% 21% 90%
+45. Manila 442 425 HUF 20% 228% 38% 137%
+46. Maszkat 506 600 HUF 5% 131% 32% 197%
+47. Mexikóváros 429 675 HUF 30% 169% 33% 85%
+48. Minszk 444 125 HUF 10% 182% 22% 192%
+49. Moszkva 497 250 HUF 35% 230% 21% 210%
+50. Nairobi 444 550 HUF 20% 173% 30% 117%
+51. Oslo 487 050 HUF 5% 156% 21% 85%
+52. Ottawa 481 525 HUF 10% 147% 33% 140%
+53. Párizs NK 478 125 HUF 35% 181% 21% 148%
+54. Peking 466 650 HUF 45% 302% 28% 179%
+55. Podgorica 418 200 HUF 5% 131% 20% 195%
+56. Pozsony 415 225 HUF 30% 92% 20% 108%
+57. Prága 410 550 HUF 30% 172% 21% 85%
+58. Pretoria 415 650 HUF 20% 134% 31% 85%
+59. Pristina 414 800 HUF 20% 178% 21% 184%
+60. Quito 447 100 HUF 15% 159% 38% 88%
+61. Rabat 416 925 HUF 5% 161% 26% 131%
+62. Riga 458 575 HUF 0% 99% 21% 128%
+63. Rijád 454 325 HUF 20% 254% 26% 114%
+64. Róma 470 900 HUF 15% 157% 21% 127%
+65. Santiago 448 800 HUF 5% 155% 38% 85%
+66. Stockholm 442 000 HUF 5% 214% 21% 85%
+67. Szarajevó 399 925 HUF 10% 136% 21% 137%
+68. Szingapúr 484 925 HUF 5% 275% 32% 166%
+69. Szkopje 422 450 HUF 10% 132% 21% 148%
+70. Szófia 410 550 HUF 10% 85% 21% 128%
+71. Szöul 494 275 HUF 20% 252% 30% 138%
+72. Taskent 463 675 HUF 20% 191% 28% 167%
+73. Tbiliszi 413 100 HUF 10% 184% 23% 192%
+74. Teherán 478 550 HUF 30% 272% 26% 128%
+75. Tel-Aviv 493 850 HUF 30% 259% 21% 85%
+76. Tirana 417 775 HUF 10% 151% 21% 144%
+77. Tokió 496 825 HUF 30% 367% 31% 123%
+78. Tripoli 409 700 HUF 40% 130% 26% 131%
+79. Tunisz 432 650 HUF 20% 179% 21% 98%
+80. Új-Delhi 425 425 HUF 30% 179% 28% 127%
+81. Ulánbátor 431 375 HUF 15% 182% 31% 110%
+82. Varsó 384 200 HUF 30% 92% 21% 85%
+
+83. Vatikán 470 900 HUF 5% 157% 21% 127%
+84. Vilnius 434 775 HUF 0% 152% 21% 128%
+85. Washington 490 450 HUF 30% 270% 30% 222%
+86. Wellington 513 400 HUF 0% 180% 48% 85%
+87. Zágráb 420 750 HUF 30% 222% 20% 128%
+Nemzetközi szervezet mellett működő állandó képviselet, kereskedelmi iroda, képviseleti iroda
+88. Bécs ENSZ/EBESZ 478 550 HUF 15% 147% 19% 117%
+89. Brüsszel NATO 479 400 HUF 35% 134% 21% 231%
+90. Genf ENSZ/WTO 558 025 HUF 15% 313% 22% 148%
+91. New York ENSZ NK 490 450 HUF 30% 267% 29% 222%
+92.
+Párizs OECD/
+UNESCO
+478 125 HUF 20% 181% 21% 148%
+93. Ramallah 493 850 HUF 15% 259% 21% 85%
+94. Strasbourg 478 125 HUF 15% 108% 20% 148%
+95. Tajpej 466 650 HUF 5% 302% 34% 179%
+Főkonzulátus, konzulátus
+96. Almati 442 000 HUF 15% 156% 29% 200%
+97. Barcelona 434 775 HUF 0% 125% 20% 90%
+98. Beregszász 422 450 HUF 20% 85% 20% 175%
+99. Chicago 490 450 HUF 5% 202% 23% 222%
+100. Csíkszereda 409 275 HUF 20% 85% 20% 128%
+101. Csungking 466 650 HUF 5% 226% 29% 179%
+102. Düsseldorf 440 300 HUF 5% 167% 20% 94%
+103. Erbíl 474 725 HUF 40% 198% 30% 85%
+104. Eszék 420 750 HUF 0% 116% 19% 128%
+105. Ho Si Minh-Város 430 100 HUF 5% 171% 35% 168%
+106. Hongkong 498 100 HUF 10% 624% 30% 179%
+107. Isztambul 397 375 HUF 30% 110% 21% 97%
+108. Jekatyerinburg 497 250 HUF 5% 167% 25% 210%
+109. Kassa 415 225 HUF 0% 85% 20% 108%
+110. Kazany 497 250 HUF 5% 153% 24% 210%
+111. Kolozsvár 409 275 HUF 20% 85% 21% 128%
+112. Krakkó 384 200 HUF 5% 85% 21% 85%
+113. Lendva 414 800 HUF 0% 85% 20% 85%
+114. Los Angeles 490 450 HUF 5% 290% 32% 222%
+115. Milánó 470 900 HUF 0% 151% 21% 127%
+116. Mumbai 425 425 HUF 15% 555% 28% 127%
+117. München 440 300 HUF 30% 156% 21% 94%
+118. New York FK 490 450 HUF 15% 267% 29% 222%
+119. Sanghaj 466 650 HUF 10% 241% 28% 179%
+120. São Paulo 467 075 HUF 20% 140% 34% 105%
+121. Stuttgart 440 300 HUF 5% 229% 21% 94%
+122. Szabadka 414 800 HUF 15% 85% 20% 184%
+123. Szentpétervár 497 250 HUF 5% 183% 22% 210%
+
+124. Toronto 481 525 HUF 10% 164% 30% 140%
+125. Ungvár 422 450 HUF 20% 85% 20% 175%
+Nem önálló képviselet
+126. Besztercebánya 415 225 HUF 0% 85% 22% 108%
+127. Edinburgh 491 725 HUF 0% 169% 24% 234%
+128. Houston 490 450 HUF 0% 191% 29% 222%
+129. Innsbruck 478 550 HUF 0% 140% 19% 117%
+130. Kampala 432 225 HUF 15% 210% 30% 121%
+131. Kartúm 512 550 HUF 40% 107% 32% 188%
+132. Lagos 437 325 HUF 40% 225% 31% 113%
+133. Luxembourg 479 400 HUF 0% 215% 21% 231%
+134. Lyon 478 125 HUF 0% 118% 21% 148%
+135. Manchester 491 725 HUF 0% 164% 23% 234%
+136. Melbourne 469 625 HUF 0% 185% 41% 90%
+137. Miami 490 450 HUF 0% 232% 29% 222%
+138. Montevideo 447 100 HUF 0% 255% 38% 84%
+139. Nicosia 396 100 HUF 0% 93% 24% 85%
+140. Panamaváros 429 675 HUF 5% 245% 38% 85%
+141. Phnompen 441 575 HUF 15% 153% 30% 93%
+142. Rosztov 497 250 HUF 5% 140% 21% 210%
+143. San Francisco 490 450 HUF 0% 425% 32% 222%
+144. Sepsiszentgyörgy 409 275 HUF 0% 85% 21% 128%
+145. Sydney 469 625 HUF 0% 282% 41% 90%
+146. Tallinn 442 425 HUF 0% 115% 23% 131%
+147. Valletta 444 550 HUF 0% 114% 21% 127%
+148. Vancouver 481 525 HUF 0% 232% 33% 140%
+149. Wrocław 384 200 HUF 0% 85% 21% 85%
+150. Zürich 558 025 HUF 0% 384% 22% 148%
+”
+
+IX. Határozatok Tára
