@@ -1,0 +1,1 @@
+A Kormány a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (5) bekezdése alapján az Orosz Orthodox Egyház Magyar Egyházmegyéje „A Budapest, Petőfi tér 2. szám alatt található Nagyboldogasszony Templom rekonstrukciója” tárgyú beszerzése tekintetében felmentést ad a Kbt. 5. § (3) bekezdésének alkalmazása alól.
