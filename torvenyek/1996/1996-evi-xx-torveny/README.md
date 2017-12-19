@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-20-00-00
 | 2017-06-02 | 2017. évi XLIV. törvény | 1996-20-00-00.56 |
 | 2017-06-16 | 2017. évi LXIV. törvény | 1996-20-00-00.57 |
 | 2017-11-01 | 2017. évi CXXI. törvény | 1996-20-00-00.58 |
+| 2017-12-19 | 2017. évi CLXXXVIII. törvény | 1996-20-00-00.59 |
