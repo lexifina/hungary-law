@@ -1,4 +1,4 @@
-1. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^91]
+1. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^95]
 
 ## A levegőminőségi terv tartalmi követelményei
 
@@ -90,7 +90,9 @@
 
 12.11. az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló kormányrendelet,
 
-12.12. a villamos energiáról szóló törvény egyes rendelkezéseinek végrehajtásáról, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról, a távhőszolgáltatásról szóló törvény végrehajtásáról és az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletek.
+12.12. a villamos energiáról szóló törvény egyes rendelkezéseinek végrehajtásáról, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról, a távhőszolgáltatásról szóló törvény végrehajtásáról és az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletek,
+
+12.13.[^96] a 140 kWth és annál nagyobb, de 50 MWth-nál kisebb teljes névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló miniszteri rendelet.
 
 13. A levegőszennyezés csökkentését célzó alábbi intézkedések megnevezése:
 
@@ -126,4 +128,5 @@
 
 14.2.3. alacsony kibocsátású tüzelőanyagok mozgó források számára.
 
-[^91]: Az 1. melléklet a 292/2015. (X. 8.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^95]: Az 1. melléklet a 292/2015. (X. 8.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^96]: Az 1. melléklet 12.13. pontját a 158/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése iktatta be.

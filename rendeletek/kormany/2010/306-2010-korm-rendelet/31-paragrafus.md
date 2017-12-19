@@ -8,7 +8,10 @@
 
 (4)[^62] Az adatszolgáltatásra köteles légszennyező forrás üzemeltetője a levegőtisztaság-védelmi alapbejelentésben bekövetkező változásokat – beleértve a tevékenység megszűntetését is – a változás bekövetkezésétől számított 30 napon belül bejelenti a területi környezetvédelmi hatóság részére.
 
+(5)[^63] A környezetvédelmi hatóság az (1) és (4) bekezdésekben előírt adatszolgáltatások adatai alapján levegőtisztaság-védelmi alapnyilvántartást (a továbbiakban: LAL nyilvántartás), illetve a (2) bekezdésben előírt adatszolgáltatások alapján légszennyezés mértéke nyilvántartást (a továbbiakban: LM nyilvántartás) vezet.
+
 [^59]: A 31. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 163. § a) pontja szerint módosított szöveg.
 [^60]: A 31. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 163. § a) pontja szerint módosított szöveg.
 [^61]: A 31. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 163. § a) pontja szerint módosított szöveg.
 [^62]: A 31. § (4) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 163. § a) pontja szerint módosított szöveg.
+[^63]: A 31. § (5) bekezdését a 158/2017. (VI. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be.
