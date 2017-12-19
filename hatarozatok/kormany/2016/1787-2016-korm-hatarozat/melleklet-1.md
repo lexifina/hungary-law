@@ -9,4 +9,4 @@
 1. melléklet az 1787/2016. (XII. 17.) Korm. határozathoz[^2]
 
 [^1]: A határozat szövege az 1798/2016. (XII. 19.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^2]: Az 1. melléklet az 1798/2016. (XII. 19.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1798/2016. (XII. 19.) Korm. határozat 3. pontjával megállapított, az 1989/2017. (XII. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
