@@ -2,7 +2,7 @@
 
 (2) A korlátozás elrendelésének oka lehet az (1) bekezdésen túl, ha a 199. § (1) bekezdés szerinti sürgősségi, illetve a 199. § (5) bekezdés és a 200. § szerinti kötelező gyógykezelés alatt álló beteg engedély nélküli eltávozása másként nem akadályozható meg.
 
-(3) A korlátozás elrendelésére és módjára a 10. § (4)–(5) bekezdései az irányadók. A korlátozásról az orvost haladéktalanul értesíteni kell, akinek 2 órán belül azt jóvá kell hagynia. Ennek hiányában a korlátozást haladéktalanul meg kell szüntetni.
+(3) A korlátozás elrendelésére és módjára a 10. § (4) és (5) bekezdése az irányadó, azzal, hogy a korlátozásról az orvost haladéktalanul értesíteni kell, akinek 2 órán belül azt – a dátum és az időpont feltüntetésével – jóvá kell hagynia. Ennek hiányában a korlátozást haladéktalanul meg kell szüntetni.
 
 (4) A korlátozás ideje alatt a beteg állapotát folyamatosan ellenőrizni kell, amely magában foglalja a fizikai, higiénés és egyéb szükségletek felmérését és ezeknek a beteg állapotának megfelelő kielégítését.
 

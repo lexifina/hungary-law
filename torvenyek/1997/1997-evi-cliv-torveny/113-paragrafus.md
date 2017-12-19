@@ -20,7 +20,7 @@ b) nem végzett és nem végez.
 
 (6) Az az egészségügyi dolgozó, aki a működési nyilvántartásba való felvételét
 
-a) első alkalommal kéri, és az egészségügyi szakképesítése megszerzésének, illetve jogszabály szerinti magyarországi elismerésének vagy honosításának napja óta több mint 8 év eltelt, vagy
+a) az adott szakképesítés tekintetében első alkalommal kéri, és az egészségügyi szakképesítése megszerzésének, illetve jogszabály szerinti magyarországi elismerésének vagy honosításának napja óta több mint 8 év eltelt, vagy
 
 b) a nyilvántartásból való törlését követően kéri,
 

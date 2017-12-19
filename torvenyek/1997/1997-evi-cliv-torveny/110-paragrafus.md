@@ -96,7 +96,7 @@ kell alkalmazni.
 
 (21) Ha az oklevél a (19) bekezdés alapján további feltételek előírása nélkül nem ismerhető el, az elismerés feltétele – a kérelmező által folytatott tanulmányok, valamint a megszerzett szakmai tapasztalat figyelembevételével – az e törvényben, továbbá külön jogszabályban meghatározott szempontok alapján kialakított szakmai tartalom és feltételrendszer szerinti kompenzációs intézkedések teljesítése.
 
-(22) A (17) bekezdés szerinti elismerési eljárást kérelmezőnek az eljárásért a kérelem benyújtásakor hatályos, jogszabályban megszabott kötelező legkisebb munkabér háromnegyedének megfelelő összeget kell eljárási díjként befizetnie az elismerő hatóságként eljáró egészségügyi államigazgatási szerv számlájára.
+(22) A (17) bekezdés szerinti elismerési eljárást kérelmezőnek a kérelméhez csatolnia kell az Etv. IV. Fejezete szerinti eljárásra irányadó igazgatási szolgáltatási díjnak megfelelő összeg egészségügyi államigazgatási szerv számlájára való megfizetésének igazolását.
 
 (23) Amennyiben a Magyarországon gazdasági céllal nem letelepedett, egészségügyi tevékenységet végző, a szabad mozgás és tartózkodás jogával rendelkező személlyel kapcsolatban olyan adat jut a kormányrendeletben meghatározott szerv tudomására, amely egyébként a 113/A. § (1) bekezdésének b)–d) pontja szerint a működési nyilvántartásból való törlést vonná maga után, a kormányrendeletben meghatározott szerv tájékoztatja a letelepedés szerinti EGT-államnak, illetve annak az EGT-államnak a hatáskörrel rendelkező hatóságát, amelynek területén az adott személy gazdasági célú letelepedéssel nem járó tevékenységet kíván végezni.
 
