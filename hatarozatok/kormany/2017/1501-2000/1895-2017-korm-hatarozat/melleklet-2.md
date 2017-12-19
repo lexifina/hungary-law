@@ -52,7 +52,7 @@
 
 |  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  |  | 85 822 471 |  |  |  |
 
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 317 861 002 |  |  |  |
+|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 317 861 002 |  |  |  |
 
 |  | XLII. |  |  |  |  |  | A költségvetés közvetlen bevételei és kiadásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -168,4 +168,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-2. melléklet az 1895/2017. (XII. 4.) Korm. határozathoz
+2. melléklet az 1895/2017. (XII. 4.) Korm. határozathoz[^4]
+
+[^4]: A 2. melléklet az 1989/2017. (XII. 19.) Korm. határozat 15. pontja szerint módosított szöveg.

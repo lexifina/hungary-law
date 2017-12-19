@@ -10,9 +10,9 @@
 
 | 198279 |  |  | 2 |  |  |  |  |  | Egyéb HM szervezetek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 680 282 782 |  |  |  |
+|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 1 110 726 896 |  |  |  |
 
-|  |  |  |  |  |  | K4 |  |  |  |  |  | Ellátottak pénzbeli juttatásai |  |  |  |  |  |  |  |  | 1 110 726 896 |  |  |  |
+|  |  |  |  |  |  | K4 |  |  |  |  |  | Ellátottak pénzbeli juttatásai |  |  |  |  |  |  |  |  | 680 282 782 |  |  |  |
 
 |  |  | 8 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 

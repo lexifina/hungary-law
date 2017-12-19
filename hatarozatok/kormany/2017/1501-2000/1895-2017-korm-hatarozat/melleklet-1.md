@@ -52,7 +52,8 @@
 
 ## 6. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, valamint a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, egyes kormányhatározatok módosításáról szóló 1601/2017. (VIII. 31.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 32. Bocuse d'Or versenyek támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 50 000 000 forintból 8 381 575 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-1. melléklet az 1895/2017. (XII. 4.) Korm. határozathoz
+1. melléklet az 1895/2017. (XII. 4.) Korm. határozathoz[^3]
 
 [^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1989/2017. (XII. 19.) Korm. határozat 14. pontja szerint módosított szöveg.
