@@ -1,6 +1,6 @@
 ## A társadalombiztosítási igazgatási szervek adatkezelése
 
-22. § (1) A társadalombiztosítási igazgatási szervek részére abban az esetben továbbítható egészségügyi és személyazonosító adat, amennyiben
+22. § (1) A társadalombiztosítási igazgatási szervek és az Egészségbiztosítási Alap működtetéséért felelős minisztérium (a továbbiakban: minisztérium) részére abban az esetben továbbítható egészségügyi és személyazonosító adat, amennyiben
 
 a) arra az érintettnek járó társadalombiztosítási ellátások megállapítása, folyósítása céljából van szükség, és az az egészségi állapot alapján történik,
 
@@ -8,13 +8,13 @@ b) az a társadalombiztosítási alapok kezelői gazdálkodásának, továbbá a
 
 c) az a 4. § (2) bekezdésének g) pontjában foglalt célok teljesítéséhez szükséges.
 
-(2) Az egészségügyi és személyazonosító adatokat a társadalombiztosítási igazgatási szervek kizárólag az ellátás megállapításával, folyósításával, az ellenőrzés lefolytatásával, egészségbiztosítási orvosszakértői, illetve jogorvoslati tevékenységgel megbízott dolgozója, továbbá a 4. § (2) bekezdésének g) pontja szerinti feladat teljesítésével megbízott munkatársa kezelheti.
+(2) Az egészségügyi és személyazonosító adatokat a társadalombiztosítási igazgatási szervek és a minisztérium kizárólag az ellátás megállapításával, folyósításával, az ellenőrzés lefolytatásával, egészségbiztosítási orvosszakértői, illetve jogorvoslati tevékenységgel megbízott dolgozója, továbbá a 4. § (2) bekezdésének g) pontja szerinti feladat teljesítésével megbízott munkatársa kezelheti.
 
 (3) A társadalombiztosítási igazgatási szervek által lefolytatott ellenőrzés során a társadalombiztosítás szerveinek csak egészségügyi felsőfokú szakképesítéssel rendelkező alkalmazottja ismerheti meg az érintett összekapcsolt egészségügyi és személyazonosító adatait.
 
 (4)
 
-(5) A társadalombiztosítási igazgatási szerv – a 4. § (2) bekezdés g) pontjában meghatározott célból – kezelheti:
+(5) A társadalombiztosítási igazgatási szerv és a minisztérium – a 4. § (2) bekezdés g) pontjában meghatározott célból – kezelheti:
 
 a) az egészségügyi szolgáltató, az egészségügyi szolgáltatást igénybe vevő, a beutaló (a szolgáltatást rendelő) orvos azonosítását szolgáló – külön jogszabály szerinti – adatokat,
 

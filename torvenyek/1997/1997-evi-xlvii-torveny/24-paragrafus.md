@@ -8,4 +8,4 @@ a) feltételezhető, hogy a gyermek sérülése vagy betegsége bántalmazás, i
 
 b) a gyermek egészségügyi ellátása során bántalmazására, elhanyagolására utaló körülményekről szerez tudomást.
 
-(4) Az (1)–(3) bekezdés szerinti adattovábbításhoz az érintett, illetve az adattal kapcsolatosan egyébként rendelkezésre jogosult beleegyezése nem szükséges.
+(4) Az (1) és (3) bekezdés szerinti adattovábbításhoz az érintett, illetve az adattal kapcsolatosan egyébként rendelkezésre jogosult beleegyezése nem szükséges.
