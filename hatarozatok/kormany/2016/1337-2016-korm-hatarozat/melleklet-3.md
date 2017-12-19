@@ -22,7 +22,7 @@
 
 | 10. | Erdők közjóléti funkciójának fejlesztése (természeti örökség turizmus) | Szombathelyi Erdészeti Zártkörűen Működő Részvénytársaság | Vidékfejlesztési Program (a továbbiakban: VP) | Standard eljárásban az adott felhívás értékelési szempontrendszerében „a fejlesztés nemzeti program által érintett területen valósul meg” előnyt adó szempontként. | 100 000 000 | – | 2016 |
 
-| 11. | Városkörnyéki közösségi közlekedés-fejlesztése (Szombathely–Kőszeg GYSEV fejlesztéshez kapcsolódó) | Kőszeg Város Önkormányzata | hazai | hazai költségvetési forrás biztosításával | – | 1 000 000 000 | 2017–2018 |
+| 11. | Városkörnyéki közösségi közlekedés-fejlesztése (Szombathely–Kőszeg GYSEV fejlesztéshez kapcsolódó) | Kőszeg Város Önkormányzata és a Nemzeti Infrastruktúra Fejlesztő Zrt. | hazai | hazai költségvetési forrás biztosításával | – | 1 000 000 000 | 2017–2019 |
 
 | 12. | CAMPUS – tervezés |
 
