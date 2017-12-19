@@ -36,7 +36,7 @@
 
 ## 13. kiemelkedően fontosnak tartja a hazai online tartalomipari szereplők globális internetes vállalkozásokkal szembeni – elsősorban az utóbbiak adóelkerülő magatartása miatt kialakult – versenyhátrányának enyhítését, ezért elrendeli a magyarországi online tartalomszolgáltatói piac teljes körű felmérését és a piac hazai szereplőinek versenypozícióját javító intézkedések kidolgozását;
 
-## 14. kiemelkedően fontosnak tartja a hazai és exportpiaci igényeknek leginkább megfelelő vállalkozások tőkéhez jutásának és fejlődésének támogatását, ezért felhívja a miniszterelnöki biztost, hogy a nemzeti fejlesztési miniszterrel, a nemzetgazdasági miniszterrel, valamint a külgazdasági és külügyminiszterrel együttműködésben vizsgálja meg a Digitális Jólét Tőkealap kialakításának és más programokkal való szinergiáinak lehetőségét (ex-ante tanulmány kidolgozása révén);
+## 14.[^1] kiemelkedően fontosnak tartja a hazai és exportpiaci igényeknek leginkább megfelelő vállalkozások tőkéhez jutásának és fejlődésének támogatását, ezért felhívja a miniszterelnöki biztost, hogy a nemzeti fejlesztési miniszterrel, a nemzetgazdasági miniszterrel, valamint a külgazdasági és külügyminiszterrel együttműködésben vizsgálja meg a Digitális Jólét Tőkealap kialakításának és más programokkal való szinergiáinak lehetőségét (ex-ante tanulmány kidolgozása révén);
 
 ## Felelős: miniszterelnöki biztos
 
@@ -46,7 +46,7 @@
 
 ## külgazdasági és külügyminiszter
 
-## Határidő: 2017. augusztus 31.
+## Határidő: 2018. június 1.
 
 ## 15. kiemelkedően fontosnak tartja, hogy a digitális közigazgatási szolgáltatások hatékonyan támogassák a polgárok és a vállalkozások ügyintézését, ezért elrendeli a közigazgatás digitalizációjával kapcsolatos feladatok átfogó nyomon követését és koordinációját, illetve a közigazgatásban dolgozók számára egységes referenciakeret, tananyagok és oktatási keretrendszer kidolgozását;
 
@@ -118,7 +118,7 @@ belügyminiszter
 
 Határidő: folyamatos
 
-b) az európai uniós Gigabit Társadalom célkitűzéssel összhangban álló további digitálisinfrastruktúra-fejlesztési tervek kidolgozása érdekében felhívja a nemzeti fejlesztési minisztert, hogy a miniszterelnöki biztossal, a Miniszterelnökséget vezető miniszterrel és a nemzetgazdasági miniszterrel együttműködésben dolgozza ki a széles sávú internetelérés adatátviteli sebességének megfelelő ütemű emelését célzó programot;
+b)[^2] az európai uniós Gigabit Társadalom célkitűzéssel összhangban álló további digitálisinfrastruktúra-fejlesztési tervek kidolgozása érdekében felhívja a nemzeti fejlesztési minisztert, hogy a miniszterelnöki biztossal, a Miniszterelnökséget vezető miniszterrel és a nemzetgazdasági miniszterrel együttműködésben dolgozza ki a széles sávú internetelérés adatátviteli sebességének megfelelő ütemű emelését célzó programot;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -128,9 +128,9 @@ Miniszterelnökséget vezető miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: 2017. november 30.
+Határidő: 2018. június 1.
 
-c) a Nemzeti Információs Infrastruktúra Fejlesztési (NIIF) Program továbbfejlesztése érdekében felhívja a nemzeti fejlesztési minisztert, hogy az emberi erőforrások miniszterével, a miniszterelnöki biztossal, a belügyminiszterrel és a Miniszterelnökséget vezető miniszterrel együttműködésben, a Magyar Tudományos Akadémia (MTA) bevonásával dolgozza ki a felsőoktatási intézmények és a kutatóintézetek, valamint a közgyűjtemények hosszú távú infrastruktúra-fejlesztési stratégiáját.
+c)[^3] a Nemzeti Információs Infrastruktúra Fejlesztési (NIIF) Program továbbfejlesztése érdekében felhívja a nemzeti fejlesztési minisztert, hogy az emberi erőforrások miniszterével, a miniszterelnöki biztossal, a belügyminiszterrel és a Miniszterelnökséget vezető miniszterrel együttműködésben, a Magyar Tudományos Akadémia (MTA) bevonásával dolgozza ki a felsőoktatási intézmények és a kutatóintézetek, valamint a közgyűjtemények hosszú távú infrastruktúra-fejlesztési stratégiáját.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -142,7 +142,7 @@ belügyminiszter
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: 2017. december 31.
+Határidő: 2018. június 1.
 
 2. A Kormány a kormányhatározat 5. pontjának végrehajtása érdekében
 
@@ -160,7 +160,7 @@ Határidő: a Koalíció létrehozására azonnal
 
 a Koalíció működtetésére folyamatos
 
-b) felhívja a nemzeti fejlesztési minisztert, hogy a miniszterelnöki biztossal és a nemzetgazdasági miniszterrel együttműködve, továbbá az a) pontban meghatározott Koalíció szakmai közreműködésével dolgozza ki Magyarország 5G Stratégiáját, és azt terjessze a Kormány elé.
+b)[^4] felhívja a nemzeti fejlesztési minisztert, hogy a miniszterelnöki biztossal és a nemzetgazdasági miniszterrel együttműködve, továbbá az a) pontban meghatározott Koalíció szakmai közreműködésével dolgozza ki Magyarország 5G Stratégiáját, és azt terjessze a Kormány elé.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -168,11 +168,11 @@ miniszterelnöki biztos
 
 nemzetgazdasági miniszter
 
-Határidő: 2017. október 31.
+Határidő: 2018. június 1.
 
 3. A Kormány a kormányhatározat 6. pontjának végrehajtása érdekében
 
-a) felhívja a nemzeti fejlesztési minisztert, hogy a miniszterelnöki biztossal, az emberi erőforrások miniszterével, a nemzetgazdasági miniszterrel és a földművelésügyi miniszterrel együttműködve dolgozza ki a digitáliskompetencia-fejlesztés hosszú távú és részletes koncepcióját, beleértve a digitáliskompetencia-mérés egységes rendszerét;
+a)[^5] felhívja a nemzeti fejlesztési minisztert, hogy a miniszterelnöki biztossal, az emberi erőforrások miniszterével, a nemzetgazdasági miniszterrel és a földművelésügyi miniszterrel együttműködve dolgozza ki a digitáliskompetencia-fejlesztés hosszú távú és részletes koncepcióját, beleértve a digitáliskompetencia-mérés egységes rendszerét;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -184,9 +184,9 @@ nemzetgazdasági miniszter
 
 földművelésügyi miniszter
 
-Határidő: 2017. október 31.
+Határidő: 2018. október 31.
 
-b) felhívja a miniszterelnöki biztost, hogy a nemzeti fejlesztési miniszterrel, a belügyminiszterrel és a Miniszterelnökséget vezető miniszterrel együttműködve gondoskodjon olyan Digitális Jólét Szoftver Alapcsomag bevezetéséről, amely ingyenesen biztosít ellenőrzött, biztonságos szoftvereket a polgároknak a hatékony internethasználat érdekében;
+b)[^6] felhívja a miniszterelnöki biztost, hogy a nemzeti fejlesztési miniszterrel, a belügyminiszterrel és a Miniszterelnökséget vezető miniszterrel együttműködve gondoskodjon olyan Digitális Jólét Szoftver Alapcsomag bevezetéséről, amely ingyenesen biztosít ellenőrzött, biztonságos szoftvereket a polgároknak a hatékony internethasználat érdekében;
 
 Felelős: miniszterelnöki biztos
 
@@ -196,9 +196,9 @@ belügyminiszter
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: 2017. december 31.
+Határidő: 2018. szeptember 30.
 
-c) felhívja a miniszterelnöki biztost, hogy a nemzeti fejlesztési miniszterrel és a nemzetgazdasági miniszterrel együttműködésben dolgozza ki a polgárok térítésmentes digitáliskompetencia-fejlesztési programokban való részvételét ösztönző Digitális Jólét Klub koncepcióját.
+c)[^7] felhívja a miniszterelnöki biztost, hogy a nemzeti fejlesztési miniszterrel és a nemzetgazdasági miniszterrel együttműködésben dolgozza ki a polgárok térítésmentes digitáliskompetencia-fejlesztési programokban való részvételét ösztönző Digitális Jólét Klub koncepcióját.
 
 Felelős: miniszterelnöki biztos
 
@@ -206,11 +206,11 @@ nemzeti fejlesztési miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: 2017. október 31.
+Határidő: 2017. december 31.
 
 4. A Kormány a kormányhatározat 7. pontjának végrehajtása érdekében
 
-a) felhívja a nemzetgazdasági minisztert, hogy a miniszterelnöki biztossal, az emberi erőforrások miniszterével, a nemzeti fejlesztési miniszterrel és a földművelésügyi miniszterrel együttműködésben dolgozza ki a digitális gazdaság és a digitális munkaerőpiac átfogó monitoringrendszerét, beleértve a teljes körű szakképzési, felnőttképzési, felnőttoktatási és a munkaerőpiaci státuszra vonatkozó digitális nyomonkövetési rendszer kidolgozását;
+a)[^8] felhívja a nemzetgazdasági minisztert, hogy a miniszterelnöki biztossal, az emberi erőforrások miniszterével, a nemzeti fejlesztési miniszterrel és a földművelésügyi miniszterrel együttműködésben dolgozza ki a digitális gazdaság és a digitális munkaerőpiac átfogó monitoringrendszerét, beleértve a teljes körű szakképzési, felnőttképzési, felnőttoktatási és a munkaerőpiaci státuszra vonatkozó digitális nyomonkövetési rendszer kidolgozását;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -222,9 +222,9 @@ nemzeti fejlesztési miniszter
 
 földművelésügyi miniszter
 
-Határidő: 2017. december 31.
+Határidő: 2018. augusztus 31.
 
-b) felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszterrel, az emberi erőforrások miniszterével és a miniszterelnöki biztossal együttműködésben – a Nemzeti Szakképzési és Felnőttképzési Hivatal, valamint a Magyar Kereskedelmi és Iparkamara bevonásával –, a nemzetközi jó gyakorlatok figyelembevételével dolgozza ki és szükség szerint átfogó jelleggel módosítsa a magyar digitális és hagyományos munkaerőpiac mérésére szolgáló kutatási, adatgyűjtési és adatelemzési módszertanok egységes rendszerét, továbbá átfogó jelleggel a teljes digitális és hagyományos munkaerőpiac előrejelzési rendszerét;
+b)[^9] felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszterrel, az emberi erőforrások miniszterével és a miniszterelnöki biztossal együttműködésben – a Nemzeti Szakképzési és Felnőttképzési Hivatal, valamint a Magyar Kereskedelmi és Iparkamara bevonásával –, a nemzetközi jó gyakorlatok figyelembevételével dolgozza ki és szükség szerint átfogó jelleggel módosítsa a magyar digitális és hagyományos munkaerőpiac mérésére szolgáló kutatási, adatgyűjtési és adatelemzési módszertanok egységes rendszerét, továbbá átfogó jelleggel a teljes digitális és hagyományos munkaerőpiac előrejelzési rendszerét;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -234,9 +234,9 @@ emberi erőforrások minisztere
 
 miniszterelnöki biztos
 
-Határidő: 2017. december 31.
+Határidő: 2018. augusztus 31.
 
-c) felhívja a nemzetgazdasági minisztert, hogy a miniszterelnöki biztossal, az emberi erőforrások miniszterével, a nemzeti fejlesztési miniszterrel és a földművelésügyi miniszterrel együttműködésben dolgozza ki a digitális munkaerőpiacra lépést támogató képzési, motivációs, szemléletformáló és támogatási programot;
+c)[^10] felhívja a nemzetgazdasági minisztert, hogy a miniszterelnöki biztossal, az emberi erőforrások miniszterével, a nemzeti fejlesztési miniszterrel és a földművelésügyi miniszterrel együttműködésben dolgozza ki a digitális munkaerőpiacra lépést támogató képzési, motivációs, szemléletformáló és támogatási programot;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -248,7 +248,7 @@ nemzeti fejlesztési miniszter
 
 földművelésügyi miniszter
 
-Határidő: 2017. december 31.
+Határidő: 2018. augusztus 31.
 
 d) felhívja a nemzetgazdasági minisztert, hogy a miniszterelnöki biztossal, az emberi erőforrások miniszterével és a nemzeti fejlesztési miniszterrel együttműködésben vizsgálja felül a szakmai és vizsgakövetelmények (SZVK) rendszerét, és gondoskodjon a digitalizáció által érintett szakmák képzési programjainak kiegészítéséről a szükséges digitális képzési modulokkal;
 
@@ -286,17 +286,15 @@ nemzeti fejlesztési miniszter
 
 Határidő: 2018. december 31.
 
-g) felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások miniszterével együttműködésben dolgozza ki és vezesse be az informatika képzési területre felvett hallgatók állami ösztöndíjrendszerét, amely alkalmas arra, hogy növelje az informatikai szakokra jelentkezők számát, illetve csökkentse az informatikai szakokon tanuló hallgatók lemorzsolódását.
+g)[^11] felhívja az emberi erőforrások miniszterét, hogy dolgozza ki és vezesse be az informatika képzési területre felvett hallgatók állami ösztöndíjrendszerét, amely alkalmas arra, hogy növelje az informatikai szakokra jelentkezők számát, illetve csökkentse az informatikai szakokon tanuló hallgatók lemorzsolódását.
 
-Felelős: nemzetgazdasági miniszter
+Felelős: emberi erőforrások minisztere
 
-emberi erőforrások minisztere
-
-Határidő: 2017. december 31.
+Határidő: 2018. december 31.
 
 5. A Kormány a kormányhatározat 8. pontjának végrehajtása érdekében
 
-a) felhívja a miniszterelnöki biztost, hogy a nemzeti fejlesztési miniszterrel és a nemzetgazdasági miniszterrel együttműködésben – a mikrovállalkozások digitális tudatosságának növelése és kompetenciafejlesztése érdekében – készítsen országos reprezentatív felmérést a mikrovállalkozások digitális felkészültségéről, és dolgozzon ki programot a mikrovállalkozások digitális felkészültségének javítása érdekében;
+a)[^12] felhívja a miniszterelnöki biztost, hogy a nemzeti fejlesztési miniszterrel és a nemzetgazdasági miniszterrel együttműködésben – a mikrovállalkozások digitális tudatosságának növelése és kompetenciafejlesztése érdekében – készítsen országos reprezentatív felmérést a mikrovállalkozások digitális felkészültségéről, és dolgozzon ki programot a mikrovállalkozások digitális felkészültségének javítása érdekében;
 
 Felelős: miniszterelnöki biztos
 
@@ -304,9 +302,9 @@ nemzeti fejlesztési miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: 2017. október 31.
+Határidő: 2018. október 31.
 
-b) felhívja a nemzeti fejlesztési minisztert, hogy a nemzetgazdasági miniszterrel és a miniszterelnöki biztossal együttműködésben, a közép-magyarországi régióban működő vállalkozások digitális tudatosságának növelése és IKT fejlesztéseinek segítése érdekében, a GINOP releváns digitális gazdaságfejlesztési programjaira alapozva dolgozzon ki vállalati IKT programokat a Közép-magyarországi régióban.
+b)[^13] felhívja a nemzeti fejlesztési minisztert, hogy a nemzetgazdasági miniszterrel és a miniszterelnöki biztossal együttműködésben, a közép-magyarországi régióban működő vállalkozások digitális tudatosságának növelése és IKT fejlesztéseinek segítése érdekében, a GINOP releváns digitális gazdaságfejlesztési programjaira alapozva dolgozzon ki vállalati IKT programokat a Közép-magyarországi régióban.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -314,11 +312,11 @@ nemzetgazdasági miniszter
 
 miniszterelnöki biztos
 
-Határidő: 2017. október 31.
+Határidő: 2018. október 31.
 
 6. A Kormány a kormányhatározat 9. pontjának végrehajtása érdekében
 
-a) felhívja a miniszterelnöki biztost, hogy a nemzetgazdasági miniszterrel és a nemzeti fejlesztési miniszterrel együttműködésben dolgozza ki a nemzetgazdasági ágazatok digitalizációját támogató egységes módszertani kézikönyvet, annak részeként az ágazati szereplők digitális felkészültségének mérési, minősítési rendszerét;
+a)[^14] felhívja a miniszterelnöki biztost, hogy a nemzetgazdasági miniszterrel és a nemzeti fejlesztési miniszterrel együttműködésben dolgozza ki a nemzetgazdasági ágazatok digitalizációját támogató egységes módszertani kézikönyvet, annak részeként az ágazati szereplők digitális felkészültségének mérési, minősítési rendszerét;
 
 Felelős: miniszterelnöki biztos
 
@@ -326,19 +324,9 @@ nemzetgazdasági miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2017. október 31.
+Határidő: 2018. június 1.
 
-b) felhívja a miniszterelnöki biztost, hogy a nemzetgazdasági miniszterrel és a nemzeti fejlesztési miniszterrel együttműködésben készítsen jelentést a megosztásra épülő gazdaság (az ún. sharing economy) jelenségéről, annak magyarországi hatásairól, és tegyen javaslatot a szükséges szabályozási feladatokra;
-
-Felelős: miniszterelnöki biztos
-
-nemzetgazdasági miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: 2017. november 30.
-
-c) felhívja a miniszterelnöki biztost, hogy a nemzetgazdasági miniszterrel és a nemzeti fejlesztési miniszterrel együttműködésben készítse el a Digitális Szolgáltatás Kereskedelem-fejlesztési Stratégiát;
+b)[^15] felhívja a miniszterelnöki biztost, hogy a nemzetgazdasági miniszterrel és a nemzeti fejlesztési miniszterrel együttműködésben készítsen jelentést a megosztásra épülő gazdaság (az ún. sharing economy) jelenségéről, annak magyarországi hatásairól, és tegyen javaslatot a szükséges szabályozási feladatokra;
 
 Felelős: miniszterelnöki biztos
 
@@ -346,9 +334,9 @@ nemzetgazdasági miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2017. november 30.
+Határidő: 2018. június 1.
 
-d) felhívja a miniszterelnöki biztost, hogy a nemzetgazdasági miniszterrel és a nemzeti fejlesztési miniszterrel együttműködve készítsen jelentést az elektronikus úton nyújtott, ún. kényelmi szolgáltatások üzleti modelljéről, és dolgozzon ki szabályozási javaslatot azokra az esetekre, amikor a digitális szolgáltatást nyújtók indokolatlanul alkalmaznak felárat a hagyományos értékesítési formákhoz képest.
+c)[^16] felhívja a miniszterelnöki biztost, hogy a nemzetgazdasági miniszterrel és a nemzeti fejlesztési miniszterrel együttműködésben készítse el a Digitális Szolgáltatás Kereskedelem-fejlesztési Stratégiát;
 
 Felelős: miniszterelnöki biztos
 
@@ -356,11 +344,21 @@ nemzetgazdasági miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2017. október 31.
+Határidő: 2018. június 1.
+
+d)[^17] felhívja a miniszterelnöki biztost, hogy a nemzetgazdasági miniszterrel és a nemzeti fejlesztési miniszterrel együttműködve készítsen jelentést az elektronikus úton nyújtott, ún. kényelmi szolgáltatások üzleti modelljéről, és dolgozzon ki szabályozási javaslatot azokra az esetekre, amikor a digitális szolgáltatást nyújtók indokolatlanul alkalmaznak felárat a hagyományos értékesítési formákhoz képest.
+
+Felelős: miniszterelnöki biztos
+
+nemzetgazdasági miniszter
+
+nemzeti fejlesztési miniszter
+
+Határidő: 2018. június 1.
 
 7. A Kormány a kormányhatározat 10. pontjának végrehajtása érdekében
 
-a) felhívja a miniszterelnöki biztost, hogy a földművelésügyi miniszterrel és a Miniszterelnökséget vezető miniszterrel együttműködésben dolgozza ki Magyarország Digitális Agrár Stratégiáját, és azt terjessze a Kormány elé;
+a)[^18] felhívja a miniszterelnöki biztost, hogy a földművelésügyi miniszterrel és a Miniszterelnökséget vezető miniszterrel együttműködésben dolgozza ki Magyarország Digitális Agrár Stratégiáját, és azt terjessze a Kormány elé;
 
 Felelős: miniszterelnöki biztos
 
@@ -368,31 +366,9 @@ földművelésügyi miniszter
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: 2017. november 30.
+Határidő: 2017. december 31.
 
-b) felhívja a földművelésügyi minisztert, hogy a miniszterelnöki biztossal és a Miniszterelnökséget vezető miniszterrel együttműködésben dolgozza ki a Digitális Agrárakadémia létrehozására, működtetésére vonatkozó javaslatot, és azt terjessze a Kormány elé;
-
-Felelős: földművelésügyi miniszter
-
-miniszterelnöki biztos
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: 2017. november 30.
-
-c) felhívja a földművelésügyi minisztert, hogy a miniszterelnöki biztossal, az emberi erőforrások miniszterével és a Miniszterelnökséget vezető miniszterrel együttműködésben dolgozza ki a digitális agrár-szaktanácsadók képzésére vonatkozó programot, és azt terjessze a Kormány elé;
-
-Felelős: földművelésügyi miniszter
-
-miniszterelnöki biztos
-
-emberi erőforrások minisztere
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: 2017. november 30.
-
-d) felhívja a földművelésügyi minisztert, hogy a miniszterelnöki biztossal és a Miniszterelnökséget vezető miniszterrel együttműködésben dolgozza ki az agrár-adatintegrációs programot, és azt terjessze a Kormány elé;
+b)[^19] felhívja a földművelésügyi minisztert, hogy a miniszterelnöki biztossal és a Miniszterelnökséget vezető miniszterrel együttműködésben dolgozza ki a Digitális Agrárakadémia létrehozására, működtetésére vonatkozó javaslatot, és azt terjessze a Kormány elé;
 
 Felelős: földművelésügyi miniszter
 
@@ -402,7 +378,29 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2017. december 31.
 
-e) felhívja a földművelésügyi minisztert, hogy a Miniszterelnökséget vezető miniszterrel, a miniszterelnöki biztossal és a nemzeti fejlesztési miniszterrel együttműködésben a GINOP releváns digitális gazdaságfejlesztési programjaira alapozva dolgozza ki az agrárvállalkozások IKT fejlesztéseit támogató programokat.
+c)[^20] felhívja a földművelésügyi minisztert, hogy a miniszterelnöki biztossal, az emberi erőforrások miniszterével és a Miniszterelnökséget vezető miniszterrel együttműködésben dolgozza ki a digitális agrár-szaktanácsadók képzésére vonatkozó programot, és azt terjessze a Kormány elé;
+
+Felelős: földművelésügyi miniszter
+
+miniszterelnöki biztos
+
+emberi erőforrások minisztere
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: 2018. június 1.
+
+d)[^21] felhívja a földművelésügyi minisztert, hogy a miniszterelnöki biztossal és a Miniszterelnökséget vezető miniszterrel együttműködésben dolgozza ki az agrár-adatintegrációs programot, és azt terjessze a Kormány elé;
+
+Felelős: földművelésügyi miniszter
+
+miniszterelnöki biztos
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: 2018. június 1.
+
+e)[^22] felhívja a földművelésügyi minisztert, hogy a Miniszterelnökséget vezető miniszterrel, a miniszterelnöki biztossal és a nemzeti fejlesztési miniszterrel együttműködésben a GINOP releváns digitális gazdaságfejlesztési programjaira alapozva dolgozza ki az agrárvállalkozások IKT fejlesztéseit támogató programokat.
 
 Felelős: földművelésügyi miniszter
 
@@ -412,11 +410,11 @@ miniszterelnöki biztos
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2017. november 30.
+Határidő: 2018. június 1.
 
 8. A Kormány a kormányhatározat 11. pontjának végrehajtása érdekében
 
-a) felhívja a miniszterelnöki biztost, hogy az emberi erőforrások miniszterével, a nemzeti fejlesztési miniszterrel és a nemzetgazdasági miniszterrel együttműködésben dolgozza ki Magyarország Digitális Egészségipar-fejlesztési Stratégiáját, és azt terjessze a Kormány elé;
+a)[^23] felhívja a miniszterelnöki biztost, hogy az emberi erőforrások miniszterével, a nemzeti fejlesztési miniszterrel és a nemzetgazdasági miniszterrel együttműködésben dolgozza ki Magyarország Digitális Egészségipar-fejlesztési Stratégiáját, és azt terjessze a Kormány elé;
 
 Felelős: miniszterelnöki biztos
 
@@ -426,9 +424,9 @@ nemzeti fejlesztési miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: 2017. október 31.
+Határidő: 2018. június 1.
 
-b) felhívja a nemzeti fejlesztési minisztert, hogy a miniszterelnöki biztossal és az emberi erőforrások miniszterével együttműködésben tegyen javaslatot az Idősügyi Infokommunikációs Modellprogram kiterjesztésére, Magyarország Digitális Egészségipar-fejlesztési Stratégiájának intézkedéseire tekintettel.
+b)[^24] felhívja a nemzeti fejlesztési minisztert, hogy a miniszterelnöki biztossal és az emberi erőforrások miniszterével együttműködésben tegyen javaslatot az Idősügyi Infokommunikációs Modellprogram kiterjesztésére, Magyarország Digitális Egészségipar-fejlesztési Stratégiájának intézkedéseire tekintettel.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -436,19 +434,19 @@ miniszterelnöki biztos
 
 emberi erőforrások minisztere
 
-Határidő: 2017. szeptember 30.
+Határidő: 2018. június 1.
 
 9. A Kormány a kormányhatározat 12. pontjának végrehajtása érdekében
 
-a) felhívja a miniszterelnöki biztost, hogy az emberi erőforrások miniszterével együttműködésben dolgozza ki Magyarország Digitális Sport Stratégiáját, és azt terjessze a Kormány elé;
+a)[^25] felhívja a miniszterelnöki biztost, hogy az emberi erőforrások miniszterével együttműködésben dolgozza ki Magyarország Digitális Sport Stratégiáját, és azt terjessze a Kormány elé;
 
 Felelős: miniszterelnöki biztos
 
 emberi erőforrások minisztere
 
-Határidő: 2017. október 31.
+Határidő: 2017. december 31.
 
-b) felhívja az emberi erőforrások miniszterét, hogy a miniszterelnöki biztossal és a belügyminiszterrel együttműködésben – a Nemzeti Sportinformációs Rendszer továbbfejlesztésével – hozza létre a Digitális Sport Katasztert (a továbbiakban: DSK), és tegyen javaslatot a szükséges jogszabály-módosításokra;
+b)[^26] felhívja az emberi erőforrások miniszterét, hogy a miniszterelnöki biztossal és a belügyminiszterrel együttműködésben fejlessze tovább a Nemzeti Sportinformációs Rendszert (a továbbiakban: NSR), és tegyen javaslatot a szükséges jogszabály-módosításokra;
 
 Felelős: emberi erőforrások minisztere
 
@@ -456,39 +454,37 @@ miniszterelnöki biztos
 
 belügyminiszter
 
-Határidő: jogszabályok módosítása tekintetében 2017. szeptember 30.
+Határidő: jogszabályok módosítása tekintetében 2017. szeptember 30., NSR elkészülése tekintetében 2018. június 1.
 
-DSK elkészülése tekintetében 2018. március 31.
-
-c) felhívja az emberi erőforrások miniszterét, hogy a miniszterelnöki biztossal együttműködésben gondoskodjon a sportágfejlesztési programok digitalizáció szempontjából történő felülvizsgálatáról;
+c)[^27] felhívja az emberi erőforrások miniszterét, hogy a miniszterelnöki biztossal együttműködésben gondoskodjon a sportágfejlesztési programok digitalizáció szempontjából történő felülvizsgálatáról;
 
 Felelős: emberi erőforrások minisztere
 
 miniszterelnöki biztos
 
-Határidő: 2017. december 31.
+Határidő: 2018. június 1.
 
-d) felhívja az emberi erőforrások miniszterét, hogy a miniszterelnöki biztossal együttműködésben gondoskodjon sportinformatikai kutató- és tudásközpontok létrehozásának előkészítéséről, valamint a sportinformatikai képzés, kutatás és adatelemzés fejlesztéséről.
+d)[^28] felhívja az emberi erőforrások miniszterét, hogy a miniszterelnöki biztossal együttműködésben gondoskodjon sportinformatikai kutató- és tudásközpontok létrehozásának előkészítéséről, valamint a sportinformatikai képzés, kutatás és adatelemzés fejlesztéséről.
 
 Felelős: emberi erőforrások minisztere
 
 miniszterelnöki biztos
 
-Határidő: 2017. december 31.
+Határidő: 2018. június 1.
 
 10. A Kormány a kormányhatározat 13. pontjának végrehajtása érdekében
 
-a) felhívja a miniszterelnöki biztost, hogy készítse el a magyarországi online tartalomszolgáltatói piac kínálati és keresleti oldalára, üzleti eredményeire és szerkezeti problémáira kiterjedő felmérést, különös tekintettel a hazai vállalkozásoknak a globális internetes vállalkozásoknál megjelenő reklámköltéseinek nagyságrendjére;
+a)[^29] felhívja a miniszterelnöki biztost, hogy készítse el a magyarországi online tartalomszolgáltatói piac kínálati és keresleti oldalára, üzleti eredményeire és szerkezeti problémáira kiterjedő felmérést, különös tekintettel a hazai vállalkozásoknak a globális internetes vállalkozásoknál megjelenő reklámköltéseinek nagyságrendjére;
 
 Felelős: miniszterelnöki biztos
 
-Határidő: 2017. november 30.
+Határidő: 2018. június 1.
 
-b) felhívja a miniszterelnöki biztost, hogy készítse el a hazai online tartalomipar támogatását célzó „Tartalomfejlesztési Alap” koncepcióját, és készítsen programot a tartalomipari innovációk, illetve a digitális tartalomipari szakember utánpótlása, képzések és specifikus továbbképzések biztosításának támogatására.
+b)[^30] felhívja a miniszterelnöki biztost, hogy készítse el a hazai online tartalomipar támogatását célzó „Tartalomfejlesztési Alap” koncepcióját, és készítsen programot a tartalomipari innovációk, illetve a digitális tartalomipari szakember utánpótlása, képzések és specifikus továbbképzések biztosításának támogatására.
 
 Felelős: miniszterelnöki biztos
 
-Határidő: 2017. december 31.
+Határidő: 2018. június 1.
 
 11. A Kormány a kormányhatározat 15. pontjának végrehajtása érdekében
 
@@ -516,7 +512,7 @@ miniszterelnöki biztos
 
 Határidő: folyamatos
 
-c) felhívja a belügyminisztert, hogy a miniszterelnöki biztossal és a Miniszterelnökséget vezető miniszterrel együttműködésben, a közigazgatásban dolgozók digitális kompetenciáinak fejlesztése érdekében, a Nemzeti Hírközlési és Informatikai Tanács által előkészített szolgáltatásfejlesztési sztenderdek alapján dolgozzon ki egységes referenciakeretet, tananyagokat és képzési keretrendszert;
+c)[^31] felhívja a belügyminisztert, hogy a miniszterelnöki biztossal és a Miniszterelnökséget vezető miniszterrel együttműködésben, a közigazgatásban dolgozók digitális kompetenciáinak fejlesztése érdekében, a Nemzeti Hírközlési és Informatikai Tanács által előkészített szolgáltatásfejlesztési sztenderdek alapján dolgozzon ki egységes referenciakeretet, tananyagokat és képzési keretrendszert;
 
 Felelős: belügyminiszter
 
@@ -524,9 +520,9 @@ miniszterelnöki biztos
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: 2017. október 31.
+Határidő: 2018. június 30.
 
-d) felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter és a miniszterelnöki biztos bevonásával vizsgálja meg a digitális kompetenciák fejlesztését célzó programok keretében használt IKER referenciakeret e-ügyintézési kompetenciákra vonatkozó elemeit, és szükség szerint tegyen javaslatot azok bővítésére, kiegészítésére.
+d)[^32] felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter és a miniszterelnöki biztos bevonásával vizsgálja meg a digitális kompetenciák fejlesztését célzó programok keretében használt IKER referenciakeret e-ügyintézési kompetenciákra vonatkozó elemeit, és szükség szerint tegyen javaslatot azok bővítésére, kiegészítésére.
 
 Felelős: nemzetgazdasági miniszter
 
@@ -534,11 +530,11 @@ nemzeti fejlesztési miniszter
 
 miniszterelnöki biztos
 
-Határidő: 2017. október 31.
+Határidő: 2018. augusztus 31.
 
 12. A Kormány a kormányhatározat 16. pontjának végrehajtása érdekében
 
-a) felhívja a miniszterelnöki biztost, hogy a Miniszterelnökséget vezető miniszterrel, a nemzeti fejlesztési miniszterrel és a nemzetgazdasági miniszterrel együttműködésben tekintse át a hazai IKT vállalkozások K+F+I támogatási rendszerét, és dolgozzon ki javaslatokat a hazai mikro-, kis- és középvállalkozások és szellemi műhelyek támogatásának javítására ezen a területen, különös tekintettel a nyílt megoldásokat fejlesztő vállalkozásokra;
+a)[^33] felhívja a miniszterelnöki biztost, hogy a Miniszterelnökséget vezető miniszterrel, a nemzeti fejlesztési miniszterrel és a nemzetgazdasági miniszterrel együttműködésben tekintse át a hazai IKT vállalkozások K+F+I támogatási rendszerét, és dolgozzon ki javaslatokat a hazai mikro-, kis- és középvállalkozások és szellemi műhelyek támogatásának javítására ezen a területen, különös tekintettel a nyílt megoldásokat fejlesztő vállalkozásokra;
 
 Felelős: miniszterelnöki biztos
 
@@ -548,7 +544,7 @@ nemzeti fejlesztési miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: 2017. november 30.
+Határidő: 2018. június 1.
 
 b) felhívja a belügyminisztert, hogy a nemzeti fejlesztési miniszterrel, a nemzetgazdasági miniszterrel, a Miniszterelnökséget vezető miniszterrel és a miniszterelnöki biztossal együttműködésben készítsen felmérést, elemzést a központi és a területi közigazgatásban az állami és önkormányzati informatikai beszerzési gyakorlatról, és szükség esetén tegyen javaslatokat a módosításokra;
 
@@ -564,35 +560,35 @@ miniszterelnöki biztos
 
 Határidő: 2018. szeptember 30.
 
-c) felhívja a miniszterelnöki biztost, hogy a külgazdasági és külügyminiszterrel együttműködésben – az MNKH Magyar Kereskedelem-fejlesztési és Promóciós Korlátolt Felelősségű Társaság bevonásával – készítsen koncepciót a magyar digitális gazdaság szereplőinek fontosabb nemzetközi vásárokon, kiállításokon és konferenciákon történő megjelenésére, illetve szakmai rendezvények rendezésére vonatkozóan.
+c)[^34] felhívja a miniszterelnöki biztost, hogy a külgazdasági és külügyminiszterrel együttműködésben – az MNKH Magyar Kereskedelem-fejlesztési és Promóciós Korlátolt Felelősségű Társaság bevonásával – készítsen koncepciót a magyar digitális gazdaság szereplőinek fontosabb nemzetközi vásárokon, kiállításokon és konferenciákon történő megjelenésére, illetve szakmai rendezvények rendezésére vonatkozóan.
 
 Felelős: miniszterelnöki biztos
 
 külgazdasági és külügyminiszter
 
-Határidő: 2017. december 31.
+Határidő: 2018. június 1.
 
 13. A Kormány a kormányhatározat 17. pontjának végrehajtása érdekében
 
-a) felhívja az emberi erőforrások miniszterét, hogy a miniszterelnöki biztossal együttműködésben dolgozzon ki képzési programokat, tananyagokat és ajánlásokat, amelyek segítségével a digitális közgyűjtemények használata az oktató-nevelő munka során széles körben elterjed;
+a)[^35] felhívja az emberi erőforrások miniszterét, hogy a miniszterelnöki biztossal együttműködésben dolgozzon ki képzési programokat, tananyagokat és ajánlásokat, amelyek segítségével a digitális közgyűjtemények használata az oktató-nevelő munka során széles körben elterjed;
 
 Felelős: emberi erőforrások minisztere
 
 miniszterelnöki biztos
 
-Határidő: 2017. december 31.
+Határidő: 2018. október 31.
 
-b) felhívja az emberi erőforrások miniszterét, hogy a miniszterelnöki biztossal együttműködésben indítson a közgyűjtemények digitalizált kulturális értékeinek minél szélesebb körű használatát szolgáló szemléletformáló kampányt.
+b)[^36] felhívja az emberi erőforrások miniszterét, hogy a miniszterelnöki biztossal együttműködésben indítson a közgyűjtemények digitalizált kulturális értékeinek minél szélesebb körű használatát szolgáló szemléletformáló kampányt.
 
 Felelős: emberi erőforrások minisztere
 
 miniszterelnöki biztos
 
-Határidő: 2017. december 31.
+Határidő: 2018. október 31.
 
 14. A Kormány a kormányhatározat 18. pontjának végrehajtása érdekében
 
-a) felhívja a miniszterelnöki biztost, hogy a belügyminiszterrel, a Miniszterelnökséget vezető miniszterrel és a honvédelmi miniszterrel együttműködésben a Nemzeti Kiberbiztonsági Stratégia felülvizsgálata mellett gondoskodjon egy, a tételes feladatok és felelősök megjelölését tartalmazó intézkedési terv elkészítéséről, illetve a Digitális Jólét Program 2.0 kapcsán felmerülő információbiztonsági szempontok érvényesítéséről;
+a)[^37] felhívja a miniszterelnöki biztost, hogy a belügyminiszterrel, a Miniszterelnökséget vezető miniszterrel és a honvédelmi miniszterrel együttműködésben a Nemzeti Kiberbiztonsági Stratégia felülvizsgálata mellett gondoskodjon egy, a tételes feladatok és felelősök megjelölését tartalmazó intézkedési terv elkészítéséről, illetve a Digitális Jólét Program 2.0 kapcsán felmerülő információbiztonsági szempontok érvényesítéséről;
 
 Felelős: miniszterelnöki biztos
 
@@ -602,9 +598,9 @@ Miniszterelnökséget vezető miniszter
 
 honvédelmi miniszter
 
-Határidő: 2017. december 31.
+Határidő: 2018. augusztus 31.
 
-b) felhívja a miniszterelnöki biztost, hogy az emberi erőforrások miniszterével és a nemzetgazdasági miniszterrel együttműködésben gondoskodjon a digitális információbiztonsági és kiberbiztonsági ismeretek beépítéséről a köznevelési és szakképzési tananyagokba, a pedagógusok és oktatók továbbképzésébe, illetve az IKER referenciakeretet információbiztonsági és kiberbiztonsági elemeibe;
+b)[^38] felhívja a miniszterelnöki biztost, hogy az emberi erőforrások miniszterével és a nemzetgazdasági miniszterrel együttműködésben gondoskodjon a digitális információbiztonsági és kiberbiztonsági ismeretek beépítéséről a köznevelési és szakképzési tananyagokba, a pedagógusok és oktatók továbbképzésébe, illetve az IKER referenciakeretet információbiztonsági és kiberbiztonsági elemeibe;
 
 Felelős: miniszterelnöki biztos
 
@@ -612,9 +608,9 @@ emberi erőforrások minisztere
 
 nemzetgazdasági miniszter
 
-Határidő: 2017. december 31.
+Határidő: 2018. augusztus 31.
 
-c) felhívja a miniszterelnöki biztost, hogy a belügyminiszterrel, a Miniszterelnökséget vezető miniszterrel, a nemzeti fejlesztési miniszterrel és a nemzetgazdasági miniszterrel együttműködésben készítsen javaslatot a hazai digitális információbiztonsági és kiberbiztonsági tevékenységek támogatására a közigazgatási szervek, a hazai kis- és középvállalkozások, valamint a kiberbiztonsági K+F tevékenységet végző hazai vállalkozások vonatkozásában;
+c)[^39] felhívja a miniszterelnöki biztost, hogy a belügyminiszterrel, a Miniszterelnökséget vezető miniszterrel, a nemzeti fejlesztési miniszterrel és a nemzetgazdasági miniszterrel együttműködésben készítsen javaslatot a hazai digitális információbiztonsági és kiberbiztonsági tevékenységek támogatására a közigazgatási szervek, a hazai kis- és középvállalkozások, valamint a kiberbiztonsági K+F tevékenységet végző hazai vállalkozások vonatkozásában;
 
 Felelős: miniszterelnöki biztos
 
@@ -626,7 +622,7 @@ nemzeti fejlesztési miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: 2017. december 31.
+Határidő: 2018. június 1.
 
 d) felhívja a belügyminisztert, hogy a Miniszterelnökséget vezető miniszterrel és a miniszterelnöki biztossal együttműködésben gondoskodjon a közigazgatási és a rendvédelmi szervek kibervédelmi képességének felméréséről, továbbá a már létező kormányzati GovCERT mellett – az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény kiterjesztési lehetőségének vizsgálatával – hozzon létre nemzeti kiberbiztonsági eseménykezelő központot;
 
@@ -652,7 +648,7 @@ nemzetgazdasági miniszter
 
 Határidő: 2018. december 31.
 
-15. A Kormány a kormányhatározat 19. pontjának végrehajtása érdekében felhívja a miniszterelnöki biztost, hogy a belügyminiszterrel és a Miniszterelnökséget vezető miniszterrel együttműködésben – a Nemzeti Közszolgálati Egyetem bevonásával – dolgozza ki Magyarország Digitális Hálózatkutatási Stratégiáját, és azt terjessze a Kormány elé.
+15.[^40] A Kormány a kormányhatározat 19. pontjának végrehajtása érdekében felhívja a miniszterelnöki biztost, hogy a belügyminiszterrel és a Miniszterelnökséget vezető miniszterrel együttműködésben – a Nemzeti Közszolgálati Egyetem bevonásával – dolgozza ki Magyarország Digitális Hálózatkutatási Stratégiáját, és azt terjessze a Kormány elé.
 
 Felelős: miniszterelnöki biztos
 
@@ -660,11 +656,11 @@ belügyminiszter
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: 2017. december 31.
+Határidő: 2018. június 1.
 
 16. A Kormány a kormányhatározat 20. pontjának végrehajtása érdekében
 
-a) felhívja a Miniszterelnökséget vezető minisztert, hogy a belügyminiszterrel, a miniszterelnöki biztossal és a nemzetgazdasági miniszterrel együttműködésben hozzon létre Okos Város munkacsoportot a koordinációs feladatok ellátására, a nemzetközi kezdeményezések és projektek szakmai támogatására, az Integrált Településfejlesztési Stratégia (ITS) felülvizsgálata kapcsán az Okos Város megközelítés érvényesítésére, illetve Okos Város, Okos Térség mintaprojektek szakmai támogatására;
+a)[^41] felhívja a Miniszterelnökséget vezető minisztert, hogy a belügyminiszterrel, a miniszterelnöki biztossal és a nemzetgazdasági miniszterrel együttműködésben hozzon létre Okos Város munkacsoportot a koordinációs feladatok ellátására, a nemzetközi kezdeményezések és projektek szakmai támogatására, az Integrált Településfejlesztési Stratégia (ITS) felülvizsgálata kapcsán az Okos Város megközelítés érvényesítésére, illetve Okos Város, Okos Térség mintaprojektek szakmai támogatására;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -674,9 +670,9 @@ miniszterelnöki biztos
 
 nemzetgazdasági miniszter
 
-Határidő: 2017. október 31.
+Határidő: 2018. december 31.
 
-b) felhívja a Miniszterelnökséget vezető minisztert, hogy a belügyminiszterrel és a miniszterelnöki biztossal együttműködésben – az Okos Város munkacsoport bevonásával – dolgozza ki az Okos Város, Okos Térség cselekvési tervet, és hozzon létre Okos Város és Okos Térség közigazgatási mintaprojekteket Okos Város megoldások tesztelése, az ügyfél-elégedettség és a hatékonyság mérése, a szabályozási és a finanszírozási modellek, valamint a képzés-fejlesztés megalapozása érdekében;
+b)[^42] felhívja a Miniszterelnökséget vezető minisztert, hogy a belügyminiszterrel és a miniszterelnöki biztossal együttműködésben – az Okos Város munkacsoport bevonásával – dolgozza ki az Okos Város, Okos Térség cselekvési tervet, és hozzon létre Okos Város és Okos Térség közigazgatási mintaprojekteket Okos Város megoldások tesztelése, az ügyfél-elégedettség és a hatékonyság mérése, a szabályozási és a finanszírozási modellek, valamint a képzés-fejlesztés megalapozása érdekében;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -684,9 +680,9 @@ belügyminiszter
 
 miniszterelnöki biztos
 
-Határidő: 2017. december 31., majd folyamatos
+Határidő: 2018. június 1., majd folyamatos
 
-c) felhívja a belügyminisztert, hogy a Miniszterelnökséget vezető miniszterrel, az emberi erőforrások miniszterével és a miniszterelnöki biztossal együttműködésben gondoskodjon az Okos Város megoldások megjelenéséről a kormánytisztviselői és köztisztviselői képzésekben.
+c)[^43] felhívja a belügyminisztert, hogy a Miniszterelnökséget vezető miniszterrel, az emberi erőforrások miniszterével és a miniszterelnöki biztossal együttműködésben gondoskodjon az Okos Város megoldások megjelenéséről a kormánytisztviselői és köztisztviselői képzésekben.
 
 Felelős: belügyminiszter
 
@@ -696,11 +692,11 @@ emberi erőforrások minisztere
 
 miniszterelnöki biztos
 
-Határidő: 2017. december 31., majd folyamatos
+Határidő: 2018. június 1., majd folyamatos
 
 17. A Kormány a kormányhatározat 21. pontjának végrehajtása érdekében
 
-a) felhívja a miniszterelnöki biztost, hogy a miniszterelnök általános helyettesével, a Miniszterelnökséget vezető miniszterrel, a nemzeti fejlesztési miniszterrel, az emberi erőforrások miniszterével és a külgazdasági és külügyminiszterrel együttműködésben – az MNKH Közép-európai Kereskedelemfejlesztési Hálózat Korlátolt Felelősségű Társaság bevonásával – dolgozza ki a szomszédos országokban élő magyar nemzeti közösségek részvételének lehetőségeit a Digitális Jólét Programban;
+a)[^44] felhívja a miniszterelnöki biztost, hogy a miniszterelnök általános helyettesével, a Miniszterelnökséget vezető miniszterrel, a nemzeti fejlesztési miniszterrel, az emberi erőforrások miniszterével és a külgazdasági és külügyminiszterrel együttműködésben – az MNKH Közép-európai Kereskedelemfejlesztési Hálózat Korlátolt Felelősségű Társaság bevonásával – dolgozza ki a szomszédos országokban élő magyar nemzeti közösségek részvételének lehetőségeit a Digitális Jólét Programban;
 
 Felelős: miniszterelnöki biztos
 
@@ -714,9 +710,9 @@ emberi erőforrások minisztere
 
 külgazdasági és külügyminiszter
 
-Határidő: 2018. február 28.
+Határidő: 2018. június 1.
 
-b) felhívja a miniszterelnöki biztost, hogy a miniszterelnök általános helyettesével, a nemzeti fejlesztési miniszterrel, a Miniszterelnökséget vezető miniszterrel és a külgazdasági és külügyminiszterrel együttműködésben – az MNKH Közép-európai Kereskedelemfejlesztési Hálózat Korlátolt Felelősségű Társaság bevonásával – dolgozza ki a Kárpát-medencei határon túli magyar nemzeti közösségek digitális fejlesztési céljait szolgáló Digitális Jólét Program Pontok hálózatának működtetési programját.
+b)[^45] felhívja a miniszterelnöki biztost, hogy a miniszterelnök általános helyettesével, a nemzeti fejlesztési miniszterrel, a Miniszterelnökséget vezető miniszterrel és a külgazdasági és külügyminiszterrel együttműködésben – az MNKH Közép-európai Kereskedelemfejlesztési Hálózat Korlátolt Felelősségű Társaság bevonásával – dolgozza ki a Kárpát-medencei határon túli magyar nemzeti közösségek digitális fejlesztési céljait szolgáló Digitális Jólét Program Pontok hálózatának működtetési programját.
 
 Felelős: miniszterelnöki biztos
 
@@ -728,11 +724,11 @@ Miniszterelnökséget vezető miniszter
 
 külgazdasági és külügyminiszter
 
-Határidő: az indításra 2017. december 31., majd folyamatos
+Határidő: az indításra 2018. június 1., majd folyamatos
 
 18. A Kormány a kormányhatározat 22. pontjának végrehajtása érdekében
 
-a) felhívja a miniszterelnöki biztost, hogy az emberi erőforrások miniszterével és a nemzetgazdasági miniszterrel együttműködésben indítson a digitalizáció pszichológiai, mentális, élettani és társadalmi hatásainak felmérését szolgáló kutatásokat, és tegyen javaslatot a hatások folyamatos nyomon követésére alkalmas monitoringrendszer létrehozására;
+a)[^46] felhívja a miniszterelnöki biztost, hogy az emberi erőforrások miniszterével és a nemzetgazdasági miniszterrel együttműködésben indítson a digitalizáció pszichológiai, mentális, élettani és társadalmi hatásainak felmérését szolgáló kutatásokat, és tegyen javaslatot a hatások folyamatos nyomon követésére alkalmas monitoringrendszer létrehozására;
 
 Felelős: miniszterelnöki biztos
 
@@ -740,9 +736,9 @@ emberi erőforrások minisztere
 
 nemzetgazdasági miniszter
 
-Határidő: 2017. december 31.
+Határidő: 2018. június 1.
 
-b) felhívja a miniszterelnöki biztost, hogy a belügyminiszterrel, az emberi erőforrások miniszterével, a nemzetgazdasági miniszterrel és az igazságügyi miniszterrel együttműködésben vizsgálja meg a digitalizáció nyomán megjelenő jövőbeni, társadalmilag káros magatartások kezelésének és szankcionálásának lehetőségeit a hazai jogrendszerben.
+b)[^47] felhívja a miniszterelnöki biztost, hogy a belügyminiszterrel, az emberi erőforrások miniszterével, a nemzetgazdasági miniszterrel és az igazságügyi miniszterrel együttműködésben vizsgálja meg a digitalizáció nyomán megjelenő jövőbeni, társadalmilag káros magatartások kezelésének és szankcionálásának lehetőségeit a hazai jogrendszerben.
 
 Felelős: miniszterelnöki biztos
 
@@ -754,4 +750,52 @@ nemzetgazdasági miniszter
 
 igazságügyi miniszter
 
-Határidő: 2018. március 31.
+Határidő: 2018. június 1.
+
+[^1]: A 14. pont az 1988/2017. (XII. 19.) Korm. határozat 14. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet 1. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1. melléklet 1. pont c) alpontja az 1988/2017. (XII. 19.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^4]: Az 1. melléklet 2. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 3. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 3. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 6. pont b) alpontja szerint módosított szöveg.
+[^7]: Az 1. melléklet 3. pont c) alpontja az 1988/2017. (XII. 19.) Korm. határozat 6. pont c) alpontja szerint módosított szöveg.
+[^8]: Az 1. melléklet 4. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 7. pont a) alpontja szerint módosított szöveg.
+[^9]: Az 1. melléklet 4. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 7. pont b) alpontja szerint módosított szöveg.
+[^10]: Az 1. melléklet 4. pont c) alpontja az 1988/2017. (XII. 19.) Korm. határozat 7. pont c) alpontja szerint módosított szöveg.
+[^11]: Az 1. melléklet 4. pont g) alpontja az 1988/2017. (XII. 19.) Korm. határozat 7. pont d) alpontjával megállapított szöveg.
+[^12]: Az 1. melléklet 5. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^13]: Az 1. melléklet 5. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
+[^14]: Az 1. melléklet 6. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 9. pont a) alpontja szerint módosított szöveg.
+[^15]: Az 1. melléklet 6. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 9. pont b) alpontja szerint módosított szöveg.
+[^16]: Az 1. melléklet 6. pont c) alpontja az 1988/2017. (XII. 19.) Korm. határozat 9. pont c) alpontja szerint módosított szöveg.
+[^17]: Az 1. melléklet 6. pont d) alpontja az 1988/2017. (XII. 19.) Korm. határozat 9. pont d) alpontja szerint módosított szöveg.
+[^18]: Az 1. melléklet 7. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 7. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
+[^20]: Az 1. melléklet 7. pont c) alpontja az 1988/2017. (XII. 19.) Korm. határozat 10. pont c) alpontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 7. pont d) alpontja az 1988/2017. (XII. 19.) Korm. határozat 10. pont d) alpontja szerint módosított szöveg.
+[^22]: Az 1. melléklet 7. pont e) alpontja az 1988/2017. (XII. 19.) Korm. határozat 10. pont e) alpontja szerint módosított szöveg.
+[^23]: Az 1. melléklet 8. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 11. pont a) alpontja szerint módosított szöveg.
+[^24]: Az 1. melléklet 8. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
+[^25]: Az 1. melléklet 9. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 12. pont a) alpontja szerint módosított szöveg.
+[^26]: Az 1. melléklet 9. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 12. pont b) és c) alpontja szerint módosított szöveg.
+[^27]: Az 1. melléklet 9. pont c) alpontja az 1988/2017. (XII. 19.) Korm. határozat 12. pont d) alpontja szerint módosított szöveg.
+[^28]: Az 1. melléklet 9. pont d) alpontja az 1988/2017. (XII. 19.) Korm. határozat 12. pont e) alpontja szerint módosított szöveg.
+[^29]: Az 1. melléklet 10. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 13. pont a) alpontja szerint módosított szöveg.
+[^30]: Az 1. melléklet 10. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 13. pont b) alpontja szerint módosított szöveg.
+[^31]: Az 1. melléklet 11. pont c) alpontja az 1988/2017. (XII. 19.) Korm. határozat 15. pont a) alpontja szerint módosított szöveg.
+[^32]: Az 1. melléklet 11. pont d) alpontja az 1988/2017. (XII. 19.) Korm. határozat 15. pont b) alpontja szerint módosított szöveg.
+[^33]: Az 1. melléklet 12. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 16. pont a) alpontja szerint módosított szöveg.
+[^34]: Az 1. melléklet 12. pont c) alpontja az 1988/2017. (XII. 19.) Korm. határozat 16. pont b) alpontja szerint módosított szöveg.
+[^35]: Az 1. melléklet 13. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 17. pont a) alpontja szerint módosított szöveg.
+[^36]: Az 1. melléklet 13. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 17. pont b) alpontja szerint módosított szöveg.
+[^37]: Az 1. melléklet 14. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 18. pont a) alpontja szerint módosított szöveg.
+[^38]: Az 1. melléklet 14. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 18. pont b) alpontja szerint módosított szöveg.
+[^39]: Az 1. melléklet 14. pont c) alpontja az 1988/2017. (XII. 19.) Korm. határozat 18. pont c) alpontja szerint módosított szöveg.
+[^40]: Az 1. melléklet 15. pontja az 1988/2017. (XII. 19.) Korm. határozat 19. pontja szerint módosított szöveg.
+[^41]: Az 1. melléklet 16. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 20. pont a) alpontja szerint módosított szöveg.
+[^42]: Az 1. melléklet 16. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 20. pont b) alpontja szerint módosított szöveg.
+[^43]: Az 1. melléklet 16. pont c) alpontja az 1988/2017. (XII. 19.) Korm. határozat 20. pont c) alpontja szerint módosított szöveg.
+[^44]: Az 1. melléklet 17. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 21. pont a) alpontja szerint módosított szöveg.
+[^45]: Az 1. melléklet 17. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 21. pont b) alpontja szerint módosított szöveg.
+[^46]: Az 1. melléklet 18. pont a) alpontja az 1988/2017. (XII. 19.) Korm. határozat 22. pont a) alpontja szerint módosított szöveg.
+[^47]: Az 1. melléklet 18. pont b) alpontja az 1988/2017. (XII. 19.) Korm. határozat 22. pont b) alpontja szerint módosított szöveg.
