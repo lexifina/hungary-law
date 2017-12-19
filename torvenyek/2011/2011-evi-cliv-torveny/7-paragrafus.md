@@ -60,7 +60,7 @@ e) az átadásra kerülő egészségügyi szolgáltatókkal kapcsolatos tervezé
 
 f) az átadás-átvétel napján hatályos, illetve később hatályba lépő, harmadik személlyel szemben fennálló, adott esetben nem jogszabályi rendelkezésen alapuló, de érvényesíthető bármilyen jogosultságról, igényről, a vitatott, adott esetben per vagy más vitarendezési eljárás tárgyává tett kérdésről, az azzal kapcsolatos álláspontjáról és annak indokairól, külön kiemelve az európai uniós programokkal kapcsolatos vitás kérdéseket,
 
-g) az eszköz- és vagyonleltárról (ingatlanok jegyzéke figyelemmel azok terheire, illetve az 1990 után egészségügyi ellátás céljára használt olyan ingatlanokra, amelyek egészségügyi funkciója megváltozott és egyéb közcélra sem került hasznosításra, ingó vagyon és egyéb vagyonelemek összesített bemutatása), vagyoni értékű jogról,
+g) az eszköz- és vagyonleltárról (ingatlanok jegyzéke figyelemmel azok terheire, illetve az egészségügyi ellátás céljára használt olyan ingatlanokra, amelyek egészségügyi funkciója megváltozott és egyéb közcélra sem került hasznosításra, ingó vagyon és egyéb vagyonelemek összesített bemutatása), vagyoni értékű jogról,
 
 h) az egészségügyi szolgáltatók költségvetési helyzetéről, tárgyévi költségvetés végrehajtásáról és előző évi beszámolóról (kötelezettségvállalás-teljesítés, pénzeszköz állomány, pénzmaradvány-felhasználásokról, beruházások és felújítások, vagyoni helyzete: saját tulajdonban álló, illetve egyéb jogcímen működtetett eszköz- és ingatlanvagyon, vagy más vagyonelem bemutatása, ezzel kapcsolatos nyilvántartások),
 
