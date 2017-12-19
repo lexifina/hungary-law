@@ -30,11 +30,11 @@
 
 ## Határidő: azonnal
 
-## 2. A MOB által kiemelt sportágak 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportágfejlesztési igények bemutatásáról szóló 1526/2013. (VIII. 12.) Korm. határozat (a továbbiakban: H1.) 2. pontjától eltérően a H1. 2. pont a) alpontja alapján átcsoportosított előirányzatok tekintetében az elszámolás és a visszatérítés határideje 2017. december 31.
+## 2.[^1] A MOB által kiemelt sportágak 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportágfejlesztési igények bemutatásáról szóló 1526/2013. (VIII. 12.) Korm. határozat (a továbbiakban: H1.) 2. pontjától eltérően a H1. 2. pont a) alpontja alapján átcsoportosított előirányzatok tekintetében az elszámolás és a visszatérítés határideje 2018. június 30.
 
 ## 3. A fertődi Esterházy-kastély rekonstrukciójához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1542/2013. (VIII. 15.) Korm. határozattól (a továbbiakban: H2.) eltérően a H2. alapján átcsoportosított előirányzat tekintetében az elszámolás és a visszatérítés határideje 2017. december 31.
 
-## 4–13.[^1]
+## 4–13.[^2]
 
 ## 14. A Kormány egyetért azzal, hogy a központi költségvetési szerveknél foglalkoztatottak 2017. évi kompenzációjához szükséges előirányzat-átcsoportosításról szóló 1301/2017. (VI. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett –
 
@@ -438,4 +438,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 4–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1989/2017. (XII. 19.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 4–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
