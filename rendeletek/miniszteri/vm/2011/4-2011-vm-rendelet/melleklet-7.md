@@ -726,41 +726,7 @@ Eljárásspecifikus technológiai kibocsátási határértékek és egyéb elő�
 
 2.7.3. A névleges kapacitás a csapolt nyersvasra vonatkozik.
 
-2.8.1. Helyhez kötött benzin- és dízelüzemű belső égésű motorok
-
-|  | A | B | C | D |
-
-| 1 |  | Kibocsátási határérték [mg/m3] (légszennyező anyag koncentráció) |
-
-| 2 | Motortípus | Szilárd anyag | Nitrogén-oxidok (NO2-ben megadva) | Szén-monoxid |
-
-| 3 | Benzinmotorok |  |  |  |
-
-| 4 | – kétütemű |  | 800 | 650 |
-
-| 5 | – négyütemű |  |  | 650 |
-
-| 6 | Dízelmotorok |  |  |  |
-
-| 7 | – 5 MWth-ot meghaladó teljesítmény esetében | 130 | 2000 | 650 |
-
-| 8 | – 3 MWth-5 MWth teljesítmény esetében | 130 | 2000 | 650 |
-
-| 9 | – 3 MWth teljesítmény alatt | 130 | 4000 | 650 |
-
-2.8.2. Az előírások a helyhez kötött berendezések belső égésű motorjaira vonatkoznak, amelyek tüzelőanyag felhasználása 50 kg/h vagy ennél nagyobb. Az előírások vonatkoznak a motorok féktermi próbajáratására is.
-
-2.8.3. Az előírások nem vonatkoznak azokra a szükségáramforrást hajtó, helyhez kötött motorokra, amelyek 50 h/év-nél rövidebb ideig üzemelnek. Ezekre a berendezésekre kibocsátási határértéket nem kell kiadni, az alapbejelentés elkészítése azonban kötelező. Az üzemidő megállapításánál nem kell figyelembe venni a motorok időszakos, teljes felújítása után, biztonsági okból legfeljebb 6 évenként egyszer végzett, legfeljebb 24 órás próbajáratás időtartamát. A teljes felújítást követő próbajáratásról annak megkezdése előtt 5 munkanappal az illetékes környezetvédelmi hatóságot írásban értesíteni kell.
-
-2.8.4. Üzemanyag-minőségi követelmény: a gázolaj kéntartalma 0,05 m/m%-nál nem lehet nagyobb.
-
-2.8.5. A megadott határértékek a motor névleges teljesítményén mérve érvényesek.
-
-2.8.6. A kibocsátási határértékek 5 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkoznak. Az 1996 előtt gyártott közúti járműmotorok fékpadi járatása esetén a kibocsátási határértékek 17 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkoznak.
-
-2.8.7. Az 5 MWth-ot meghaladó teljesítményű, új dízelmotorok esetében a nitrogén-oxidokra vonatkozó határérték 500 mg/m3, amelyet nem kell alkalmazni az évi 500 óránál kevesebbet üzemelő motorokra.
-
-2.8.8. A 3 MWth alatti teljesítményű, csak kutatófúrásoknál alkalmazott dízelmotorok esetében a nitrogén-oxidokra vonatkozó kibocsátási határérték 4300 mg/m3.
+2.8.1.
 
 2.9. Gépek, berendezések, alkatrészek, termékek üzemi festése:
 
@@ -1340,24 +1306,8 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 2.54.2. A kibocsátási határértékek csak 5 kg/h vagy annál nagyobb légszennyező anyag tömegáramok esetére vonatkoznak.
 
-2.55.1. Helyhez kötött biogáz- és depóniagáz-üzemű gázmotorok
+2.55.1.
 
-|  | A | B | C | D |
+2.56.
 
-| 1 |  | Kibocsátási határérték [mg/m3] (légszennyező anyag koncentráció) |
-
-| 2 | Technológia | Nitrogén-oxidok (NO2-ben megadva) | Szén-monoxid | Összes szerves anyag C-ként (metán kivételével) |
-
-| 3 | Helyhez kötött biogáz- és depóniagáz-üzemű gázmotorok | 600 | 700 | 150 |
-
-2.55.2. Az előírások a 140 kWth vagy annál nagyobb bemenő hőteljesítményű, helyhez kötött, biogáz- és depóniagáz-üzemű, négyütemű, elektromos gyújtással ellátott, Otto rendszerű gázmotorokra vonatkoznak.
-
-2.55.3. A technológiából kikerülő valamennyi légszennyező anyag esetében a kibocsátási határértékek 5 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkoznak.
-
-2.56. A 140 kWth és az ennél nagyobb, de 1 MWth-nál kisebb névleges bemenő hőteljesítményű, biomasszával üzemelő tüzelőberendezések
-
-2.56.1. Szén-monoxid (CO) kibocsátási határérték 1000 mg/m3
-
-2.56.2. A kibocsátási határérték 11 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkozik.
-
-[^17]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a, a 12/2016. (II. 29.) FM rendelet 5–6. §-a szerint módosított szöveg.
+[^17]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a, a 12/2016. (II. 29.) FM rendelet 5–6. §-a, az 53/2017. (X. 18.) FM rendelet 14. § (2) bekezdése szerint módosított szöveg.
