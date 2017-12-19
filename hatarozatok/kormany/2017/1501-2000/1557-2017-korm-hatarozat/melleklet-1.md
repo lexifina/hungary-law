@@ -24,7 +24,7 @@
 
 ## legyen,
 
-## d) egyetért az 1. mellékletben foglalt táblázat H oszlopában meghatározott összegeknek a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 60. Európai uniós fejlesztési programok alcím, 1. Európai Hálózatfinanszírozási Eszköz (CEF) projektek jogcímcsoport terhére történő finanszírozásával,
+## d)[^1] egyetért az 1. mellékletben foglalt táblázat P oszlopában meghatározott összegeknek a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 60. Európai uniós fejlesztési programok alcím, 1. Európai Hálózatfinanszírozási Eszköz (CEF) projektek jogcímcsoport terhére történő finanszírozásával,
 
 ## e) egyetért azzal, hogy a CEF projektekre és az IKOP projektekre biztosított összes tervezett hazai költségvetési hozzájárulás legfeljebb 155 220 679 154 forint legyen, amely tartalmazza a 15% arányú hazai társfinanszírozást, a CEF projektek esetén a végrehajtó szerv részére, az IKOP projektek esetén a kedvezményezett részére megtérítendő általános forgalmi adót és a felmerülő el nem számolható költséget is,
 
@@ -36,8 +36,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^1]
+## 3.[^2]
 
 1. melléklet az 1557/2017. (VIII. 18.) Korm. határozathoz
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont d) alpontja az 1996/2017. (XII. 19.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
