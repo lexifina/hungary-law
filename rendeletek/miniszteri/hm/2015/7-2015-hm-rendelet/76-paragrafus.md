@@ -20,9 +20,9 @@ c) a 76. ugrástól 5%.
 
 (3) Az állományilletékes parancsnok által kijelölt személy a katasztrófavédelemmel összefüggő feladatok végrehajtásában történő közreműködés alapján a honvéd tisztjelölt részére meghatározott feladatok végrehajtásáról részletes nyilvántartást vezet. A Hjt. 8. melléklet I. A honvéd tisztjelölt ösztöndíja cím IV. pontja szerinti katasztrófavédelmi pótlék a katasztrófavédelmi feladat lezárultát követően kerül elszámolásra. Az elszámolás során minden megkezdett naptári nap teljes napnak minősül.
 
-(4)[^81] A honvéd tisztjelölt a Hvt. 36. § (1) bekezdés h) pontja szerinti feladat végrehajtásáért pótlékra jogosult. A pótlék mértékére a Hjt. 8. melléklet I. A honvéd tisztjelölt ösztöndíja alcím IV. pontját kell alkalmazni. A pótlék alapját képező tevékenység nyilvántartására, valamint a pótlék megállapítására a (3) bekezdésben foglaltakat kell alkalmazni azzal, hogy katasztrófavédelemmel összefüggő feladat alatt a Hvt. 36. § (1) bekezdés h) pontja szerinti feladatot kell érteni.
+(4)[^88] A honvéd tisztjelölt a Hvt. 36. § (1) bekezdés h) pontja szerinti feladat végrehajtásáért pótlékra jogosult. A pótlék mértékére a Hjt. 8. melléklet I. A honvéd tisztjelölt ösztöndíja alcím IV. pontját kell alkalmazni. A pótlék alapját képező tevékenység nyilvántartására, valamint a pótlék megállapítására a (3) bekezdésben foglaltakat kell alkalmazni azzal, hogy katasztrófavédelemmel összefüggő feladat alatt a Hvt. 36. § (1) bekezdés h) pontja szerinti feladatot kell érteni.
 
-(5)[^82]
+(5)[^89]
 
-[^81]: A 76. § (4) bekezdése a 9/2016. (VI. 29.) HM rendelet 16. §-ával megállapított, a 16/2016. (VIII. 31.) HM rendelet 15. § b) pontja szerint módosított szöveg.
-[^82]: A 76. § (5) bekezdését a 9/2016. (VI. 29.) HM rendelet 21. §-a hatályon kívül helyezte.
+[^88]: A 76. § (4) bekezdése a 9/2016. (VI. 29.) HM rendelet 16. §-ával megállapított, a 16/2016. (VIII. 31.) HM rendelet 15. § b) pontja szerint módosított szöveg.
+[^89]: A 76. § (5) bekezdését a 9/2016. (VI. 29.) HM rendelet 21. §-a hatályon kívül helyezte.
