@@ -1,0 +1,1 @@
+A Kormány a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra figyelemmel beruházási célterületté nyilvánítja a Bercel község külterületén fekvő, az ingatlan-nyilvántartás szerinti 05/71 helyrajzi számú földrészletet, valamint az ezen földrészletből telekalakítási eljárások jogerős befejezését követően kialakított földrészleteket.
