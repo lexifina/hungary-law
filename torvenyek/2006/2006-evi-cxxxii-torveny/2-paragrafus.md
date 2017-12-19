@@ -10,7 +10,7 @@ köthet.
 
 (2) A megállapodás vagy az egészségügyi ellátási szerződés megkötése az egészségügyi közszolgáltatásért felelős szerv 1/A. § (1) bekezdés szerinti ellátási kötelezettségét és felelősségét – a (4) bekezdésben meghatározott kivétellel – nem érinti. A megállapodás, illetve az egészségügyi ellátási szerződés megszűnése esetén az egészségügyi közszolgáltatásért felelős szerv a szerződés tárgyát képező feladat – saját fenntartásában lévő szolgáltatójával vagy az (1) bekezdésben meghatározott módon történő – ellátásáról haladéktalanul köteles gondoskodni.
 
-(3) Az (1) bekezdés szerinti megállapodás, illetve egészségügyi ellátási szerződés fennállása esetén a megállapodás, illetve az egészségügyi ellátási szerződés tárgyát képező feladat ellátásához ideiglenesen átadott – a 2/A. § (2) bekezdés b) pontja szerinti – szakellátási kapacitás tekintetében a szakellátási kapacitás feletti rendelkezési jog az egészségügyi közszolgáltatásért felelős szervet illeti meg.
+(3) Az (1) bekezdés szerinti megállapodás, illetve egészségügyi ellátási szerződés fennállása esetén a megállapodás, illetve az egészségügyi ellátási szerződés tárgyát képező feladat ellátásához ideiglenesen átadott szakellátási kapacitás tekintetében a szakellátási kapacitás feletti rendelkezési jog az egészségügyi közszolgáltatásért felelős szervet illeti meg.
 
 (4) Ha az 1/A. § (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatatásért felelős szerv másik egészségügyi közszolgáltatásért felelős szervvel köt megállapodást, a megállapodás tárgyát képező feladat tekintetében az 1/A. § (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatásért felelős szerv felelőssége megszűnik és a másik egészségügyi közszolgáltatásért felelős szerv felelősségének részévé válik.
 
@@ -20,7 +20,7 @@ köthet.
 
 a) a feladat ellátását vállaló egészségügyi szolgáltató fenntartójának hozzájárulása,
 
-b) az ellátási szerződés tárgyát képező feladatot az egészségügyi ellátási szerződés megkötéséig ellátó egészségügyi szolgáltató tulajdonosának hozzájárulása, ha a szerződés nem tartalmazza a 2/A. § (2) bekezdés k) pontja szerinti nyilatkozatot,
+b) az ellátási szerződés tárgyát képező feladatot az egészségügyi ellátási szerződés megkötéséig ellátó egészségügyi szolgáltató tulajdonosának hozzájárulása, ha a szerződés nem tartalmazza az ellátási kötelezettsége teljesítése érdekében egészségügyi ellátási szerződést kötő egészségügyi közszolgáltatásért felelős szerv nyilatkozatát arról, hogy a szerződés megkötésére fenntartóként jogosult a fenntartásában működő – az ellátási szerződés tárgyát képező feladatot az egészségügyi ellátási szerződés megkötését megelőzően ellátó – egészségügyi szolgáltató tulajdonosának hozzájárulása nélkül,
 
 c) az egészségügyi szakellátási intézményműködtetési kötelezettség körébe tartozó feladat tekintetében a Kormány által kijelölt szerv jóváhagyása, ha a szerződést egészségügyi szakellátási intézményműködtetési kötelezettséggel rendelkező egészségügyi közszolgáltatásért felelős szerv köti.
 
