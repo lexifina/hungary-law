@@ -1,3 +1,0 @@
-61. § (1) Ha az e rendelet alapján nyújtott támogatást a kedvezményezett gazdasági tevékenységéhez veszi igénybe, a támogatás csekély összegű támogatásnak minősül, amelyet az 1998/2006/EK bizottsági rendelet rendelkezéseivel, valamint a 62. §-sal összhangban lehet nyújtani.
-
-(2) Az 56. és 58. § alapján nyújtandó támogatások közszolgáltatással járó ellentételezés formájában megítélt állami támogatásoknak minősülnek, amelyeket a 2005/842/EK bizottsági határozat, az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet 30/A–30/C. §-ával, valamint a 63. §-sal összhangban lehet nyújtani.

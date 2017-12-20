@@ -1,7 +1,0 @@
-## 49. § A miniszter a „Sport népszerűsítésével összefüggő kiadások” előirányzat terhére biztosítja a sport, az egészséges, mozgásgazdag életmód, a fizikai aktivitás népszerűsítésével összefüggő kommunikációs, marketing tevékenységet, tájékoztató rendezvényeket, programokat, kiadványok megjelentetését.
-
-## Egészségjavítást célzó sporttevékenység (szabadidősport- és diáksport programok támogatása)
-
-50. § (1) A miniszter az egészségjavítást célzó sporttevékenység fejlesztése érdekében az „Egészségjavítást célzó sport- tevékenység (szabadidősport- és diáksport programok támogatása)” előirányzat terhére támogatást nyújt a szabadidősport és a diáksport területén, különösen a lakosság egészségügyi helyzetének javítása, a rekreációs sport növelése és népszerűsítése, az egészséges, mozgásgazdag életmód, a fizikai aktivitás és ezek előnyei iránti figyelem széles körű felkeltése érdekében a Wesselényi Miklós Sportközalapítvány részére. A támogatást a Wesselényi Miklós Sportközalapítvány – alapító okiratában foglalt feladatainak ellátása érdekében – pályázat keretében továbbadja.
-
-(2) Az (1) bekezdés szerinti pályázati támogatást a helyi önkormányzat és a többcélú kistérségi társulások a sportszövetség jogi személyiséggel rendelkező – a helyi önkormányzat, többcélú kistérségi társulás területén működő – területi szervezeti egységének, sportszervezetnek, közoktatási intézménynek, valamint költségvetési szervének vagy többségi tulajdonában álló gazdasági társaságnak továbbadhatja.
