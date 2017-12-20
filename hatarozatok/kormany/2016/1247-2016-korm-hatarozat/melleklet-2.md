@@ -1,4 +1,4 @@
-2. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^7]
+2. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^8]
 
 Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt projektjei
 
@@ -258,6 +258,6 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 107a. |  |  |  |  |  |
 
-| 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 40,50 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
+| 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 42,53 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
 
-[^7]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja szerint módosított szöveg.
+[^8]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja szerint módosított szöveg.

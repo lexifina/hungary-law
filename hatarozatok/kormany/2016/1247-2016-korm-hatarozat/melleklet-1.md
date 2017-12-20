@@ -8,7 +8,7 @@
 
 ## d) jóváhagyja, hogy az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének pénzügyi kerete meghaladja az Integrált Közlekedésfejlesztési Operatív Program pénzügyi keretét azzal, hogy ezen alpontban meghatározott pénzügyi keretek közötti különbözetre kötelezettség nem vállalható,
 
-## e)[^1] felhívja a nemzeti fejlesztési minisztert, gondoskodjon arról, hogy az Integrált Közlekedésfejlesztési Operatív Program egyes prioritásai – az 1. és a 2. prioritást, valamint a 3.1 és a 3.2 beruházási prioritást kivéve – 90%-át meghaladó összegre vonatkozó kötelezettség vállalására csak annak a Kormány egyedi ügyben hozott nyilvános határozatával történő jóváhagyása alapján kerüljön sor,
+## e)[^1] felhívja a nemzeti fejlesztési minisztert, gondoskodjon arról, hogy az Integrált Közlekedésfejlesztési Operatív Program egyes prioritásai – az 1. és a 2. prioritást, a 3.1 és a 3.2 beruházási prioritást, valamint a 4. prioritást kivéve – 90%-át meghaladó összegre vonatkozó kötelezettség vállalására csak annak a Kormány egyedi ügyben hozott nyilvános határozatával történő jóváhagyása alapján kerüljön sor,
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -32,11 +32,17 @@
 
 ## Határidő: azonnal
 
+## i)[^5] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 4. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 131,03%-áig legyen kötelezettség vállalható.
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: azonnal
+
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^5]
+## 3.[^6]
 
-1. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^6]
+1. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^7]
 
 ## Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési kerete
 
@@ -72,11 +78,12 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 116,24 | kiemelt | Meghirdetve: 2016. március 1. |
+| 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 145,07 | kiemelt | Meghirdetve: 2016. március 1. |
 
-[^1]: Az 1. pont e) alpontja az 1691/2016. (XI. 29.) Korm. határozat 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: Az 1. pont e) alpontja az 1691/2016. (XI. 29.) Korm. határozat 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 5. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. a) pontja szerint módosított szöveg.
 [^2]: Az 1. pont f) alpontja az 1846/2017. (XI. 14.) Korm. határozat 1. pontjával megállapított szöveg.
 [^3]: Az 1. pont g) alpontját az 1145/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
 [^4]: Az 1. pont h) pontját az 1961/2017. (XII. 18.) Korm. határozat 3. pontja iktatta be.
-[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja, az 1846/2017. (XI. 14.) Korm. határozat 3. pontja, az 1961/2017. (XII. 18.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^5]: Az 1. pont i) alpontját az 1992/2017. (XII. 19.) Korm. határozat 3. pontja iktatta be.
+[^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja, az 1846/2017. (XI. 14.) Korm. határozat 3. pontja, az 1961/2017. (XII. 18.) Korm. határozat 6. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. b) pontja szerint módosított szöveg.
