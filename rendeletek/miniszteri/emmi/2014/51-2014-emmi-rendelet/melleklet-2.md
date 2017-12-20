@@ -150,7 +150,7 @@
 
 2. melléklet az 51/2014. (XII. 10.) EMMI rendelethez
 
-## Országos szakkönyvtár és a megyei könyvtár éves munkatervéhez szükséges szakmai mutatók
+## Országos szakkönyvtár és a a megyei hatókörű városi könyvtár éves munkatervéhez szükséges szakmai mutatók[^4]
 
 I. Szolgáltatási feladatok
 
@@ -180,7 +180,7 @@ I. Szolgáltatási feladatok
 
 13. Irodalomkutatások, témafigyelések száma
 
-14. A megyei könyvtár által nyújtott, dokumentált szakmai (megyei, illetve országos szintű) tanácsadások száma
+14.[^5] A megyei hatókörű városi könyvtár által nyújtott, dokumentált szakmai (megyei, illetve országos szintű) tanácsadások száma
 
 15. Fogyatékossággal élők könyvtárhasználatát segítő IKT eszközök száma, a fogyatékossággal élők számára akadálymentes szolgáltatások száma
 
@@ -212,7 +212,7 @@ I. Szolgáltatási feladatok
 
 20. A használói elégedettség-mérések száma, a válaszadó használók száma/alkalom (átlag)
 
-21. A megyei könyvtár koordinációjával minősítésre készülő települési könyvtárak száma
+21.[^6] A megyei hatókörű városi könyvtár koordinációjával minősítésre készülő települési könyvtárak száma
 
 22. Az iskolai közösségi szolgálatot a könyvtárban teljesítők száma és a szolgálat fogadására a köznevelési intézményekkel kötött megállapodások száma
 
@@ -220,13 +220,13 @@ I. Szolgáltatási feladatok
 
 24. A könyvtárral írásos együttműködést kötő civil, határon túli, vállalkozói stb. partnerek száma/év
 
-25. A megyei könyvtár szakember-ellátottsága (könyvtárosok száma/megye lakosságának száma)
+25.[^7] A megyei hatókörű városi könyvtár szakember-ellátottsága (könyvtárosok száma/megye lakosságának száma)
 
-26. A megyei könyvtár olvasói hozzáférést biztosító számítógéppel való ellátottsága (számítógépek száma/a megyeszékhely lakosságának száma)
+26.[^8] A megyei hatókörű városi könyvtár olvasói hozzáférést biztosító számítógéppel való ellátottsága (számítógépek száma/a megyeszékhely lakosságának száma)
 
-27. A megyei könyvtár által biztosított nemzetiségi dokumentumok száma
+27.[^9] A megyei hatókörű városi könyvtár által biztosított nemzetiségi dokumentumok száma
 
-28. A megyei könyvtár által a kistelepülési önkormányzattal kötött megállapodások számának aránya (a megyében lévő kistelepülések száma/megállapodást kötött települések száma)
+28.[^10] A megyei hatókörű városi könyvtár által a kistelepülési önkormányzattal kötött megállapodások számának aránya (a megyében lévő kistelepülések száma/megállapodást kötött települések száma)
 
 II. Gyűjteményfejlesztés
 
@@ -246,7 +246,7 @@ II. Gyűjteményfejlesztés
 
 8. Az állományellenőrzés keretében ellenőrzött dokumentumok száma és %-os aránya az ellenőrizendő állományhoz képest
 
-9. A megyei könyvtár esetében a tárgyévben beszerzett egy lakosra jutó könyvtári dokumentumok száma (dokumentumok száma/megye lakossága)
+9.[^11] A megyei hatókörű városi könyvtár esetében a tárgyévben beszerzett egy lakosra jutó könyvtári dokumentumok száma (dokumentumok száma/megye lakossága)
 
 III. Gyűjteményfeltárás
 
@@ -298,7 +298,7 @@ V. Rendezvény, kiállítás
 
 4. Tárgyévben a családok számára meghirdetett rendezvények száma és az azokon résztvevők száma
 
-5. A megyei könyvtár esetében az általa ellátott kistelepüléseken szervezett rendezvények száma és az azokon résztvevők száma
+5.[^12] A megyei hatókörű városi könyvtár esetében az általa ellátott kistelepüléseken szervezett rendezvények száma és az azokon résztvevők száma
 
 6. Egyéb rendezvényeken résztvevők száma
 
@@ -315,3 +315,13 @@ VI. Állományvédelem
 5. Biztonsági jellel ellátott dokumentumok száma
 
 6. A könyvtári dokumentumok állagának védelmét szolgáló gépek száma
+
+[^4]: A 2. melléklet címe a 35/2017. (XII. 19.) EMMI rendelet 7. § a) pontja szerint módosított szöveg.
+[^5]: A 2. melléklet I. Szolgáltatási feladatok cím 14. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
+[^6]: A 2. melléklet I. Szolgáltatási feladatok cím 21. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet I. Szolgáltatási feladatok cím 25. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet I. Szolgáltatási feladatok cím 26. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
+[^9]: A 2. melléklet I. Szolgáltatási feladatok cím 27. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet I. Szolgáltatási feladatok cím 28. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet II. Gyűjteményfejlesztés cím 9. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet V. Rendezvény, kiállítás cím 5. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
