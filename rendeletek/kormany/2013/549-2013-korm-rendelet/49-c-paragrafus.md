@@ -1,4 +1,4 @@
-49/C. §[^177] (1) Az Egyéb EU által nem térített kiadások előirányzat (XIX. fejezet 2. cím 14. alcím 2. jogcímcsoport) vonatkozásában
+49/C. §[^192] (1) Az Egyéb EU által nem térített kiadások előirányzat (XIX. fejezet 2. cím 14. alcím 2. jogcímcsoport) vonatkozásában
 
 a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
@@ -22,4 +22,4 @@ d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az �
 
 e) utalványozó: a Program IH vezetője vagy az általa írásban kijelölt személy.
 
-[^177]: A 49/C. § a 200/2017. (VII. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^192]: A 49/C. § a 200/2017. (VII. 10.) Korm. rendelet 3. §-ával megállapított szöveg.

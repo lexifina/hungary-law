@@ -4,7 +4,7 @@ a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az ál
 
 b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
-c)[^162] teljesítés igazoló:
+c)[^176] teljesítés igazoló:
 
 ca) az érintett, európai uniós forrással rendelkező program irányító hatóságának vezetője vagy az általa írásban kijelölt személy,
 
@@ -12,9 +12,9 @@ cb) a kijelölt közreműködő szervezet vezetője vagy az általa írásban ki
 
 cc) a 15. § (1a) bekezdése szerinti esetben a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^163] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^177] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^162]: A 45. § c) pontja a 72/2016. (III. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^163]: A 45. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § m) pontja szerint módosított szöveg.
+[^176]: A 45. § c) pontja a 72/2016. (III. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^177]: A 45. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § m) pontja szerint módosított szöveg.

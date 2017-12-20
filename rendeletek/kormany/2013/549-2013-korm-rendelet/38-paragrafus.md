@@ -2,30 +2,30 @@
 
 a) kötelezettségvállaló:
 
-aa)[^142] a technikai segítségnyújtás kerete, a kétoldalú kapcsolatok nemzeti alapja, a program előkészítési költség, a program menedzsment költség, a komplementer tevékenységek forrása és a kétoldalú kapcsolatok program szintű alapja terhére a program operátor által igénybe vett költség esetén a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
+aa)[^156] a technikai segítségnyújtás kerete, a kétoldalú kapcsolatok nemzeti alapja, a program előkészítési költség, a program menedzsment költség, a komplementer tevékenységek forrása és a kétoldalú kapcsolatok program szintű alapja terhére a program operátor által igénybe vett költség esetén a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
 ab) az egyes programok keretében projektek részére nyújtott támogatás esetén a program operátor vezetője vagy az általa írásban kijelölt személy,
 
-ac)[^143]
+ac)[^157]
 
 b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 c) teljesítés igazoló:
 
-ca)[^144] a technikai segítségnyújtás kerete, a kétoldalú kapcsolatok nemzeti alapja, a program előkészítési költség, a program menedzsment költség, a komplementer tevékenységek forrása és a kétoldalú kapcsolatok program szintű alapja terhére a program operátor által igénybe vett költség esetén a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
+ca)[^158] a technikai segítségnyújtás kerete, a kétoldalú kapcsolatok nemzeti alapja, a program előkészítési költség, a program menedzsment költség, a komplementer tevékenységek forrása és a kétoldalú kapcsolatok program szintű alapja terhére a program operátor által igénybe vett költség esetén a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
 cb) a program előkészítési költség vagy a program menedzsment költség terhére a végrehajtó ügynökség által igénybe vett költség esetén a program operátor vezetője vagy az általa írásban kijelölt személy,
 
 cc) az egyes programok keretében projektek részére nyújtott támogatás esetén a program operátor vezetője vagy az általa írásban kijelölt személy,
 
-cd)[^145]
+cd)[^159]
 
-d)[^146] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^160] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^142]: A 38. § a) pont aa) alpontja a 194/2014. (VII. 31.) Korm. rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^143]: A 38. § a) pont ac) alpontját a 125/2014. (IV. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 194/2014. (VII. 31.) Korm. rendelet 7. § (2) bekezdése.
-[^144]: A 38. § c) pont ca) alpontja a 194/2014. (VII. 31.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^145]: A 38. § c) pont cd) alpontját a 125/2014. (IV. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 194/2014. (VII. 31.) Korm. rendelet 7. § (2) bekezdése.
-[^146]: A 38. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
+[^156]: A 38. § a) pont aa) alpontja a 194/2014. (VII. 31.) Korm. rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^157]: A 38. § a) pont ac) alpontját a 125/2014. (IV. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 194/2014. (VII. 31.) Korm. rendelet 7. § (2) bekezdése.
+[^158]: A 38. § c) pont ca) alpontja a 194/2014. (VII. 31.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^159]: A 38. § c) pont cd) alpontját a 125/2014. (IV. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 194/2014. (VII. 31.) Korm. rendelet 7. § (2) bekezdése.
+[^160]: A 38. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.

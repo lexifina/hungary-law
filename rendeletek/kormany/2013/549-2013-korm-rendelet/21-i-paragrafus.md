@@ -1,4 +1,4 @@
-## 9/B. [^92] Az alapok alapja előirányzatainak felhasználási szabályai
+## 9/B. [^110] Az alapok alapja előirányzatainak felhasználási szabályai
 
 21/I. § (1) Az alapok alapja előirányzat az operatív programokból lehívott források terhére több pénzügyi eszköznek történő támogatásnyújtásra szolgál.
 
@@ -18,4 +18,4 @@ b) kiadásként a végső kedvezményezett és a pénzügyi közvetítők felé 
 
 (6) A felszabadított vagy visszafizetett forrásokat az alapok alapját végrehajtó szervezet kizárólag az irányító hatóság előzetes írásbeli jóváhagyásával, az előirányzat céljának megfelelően használhatja fel.
 
-[^92]: A 9/B. alcímet (21/I. §) a 91/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
+[^110]: A 9/B. alcímet (21/I. §) a 91/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.

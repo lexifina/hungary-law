@@ -1,16 +1,16 @@
-49/E. § (1) A HOP Akvakultúra, belvízi halászat és a halászati és akvakultúra termékek feldolgozása és forgalmazása (II. tengely) (XIX. fejezet 2. cím 11. alcím 2. jogcímcsoport 1. jogcím) és Közös érdekeket célzó intézkedések (III. tengely) (XIX. fejezet 2. cím 11. alcím 2 jogcímcsoport 2 jogcím) előirányzatok vonatkozásában
+49/E. § (1)[^201] A HOP Akvakultúra, belvízi halászat és a halászati és akvakultúra termékek feldolgozása és forgalmazása (II. tengely) (XIX. fejezet 2. cím 11. alcím 3. jogcímcsoport 1. jogcím) és Közös érdekeket célzó intézkedések (III. tengely) (XIX. fejezet 2. cím 11. alcím 3. jogcímcsoport 2. jogcím) előirányzatok vonatkozásában
 
 a) kötelezettségvállaló: a Program IH vezetője vagy az általa írásban kijelölt személy,
 
 b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
-c)[^184] teljesítés igazoló: a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője vagy az általa írásban kijelölt személy,
+c)[^202] teljesítés igazoló: a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^185] érvényesítő: a mezőgazdasági és vidékfejlesztési támogatási szerv pénzügyi igazgatója vagy az általa írásban kijelölt személy,
+d)[^203] érvényesítő: a mezőgazdasági és vidékfejlesztési támogatási szerv pénzügyi igazgatója vagy az általa írásban kijelölt személy,
 
-e)[^186] utalványozó: a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője vagy az általa írásban kijelölt személy.
+e)[^204] utalványozó: a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője vagy az általa írásban kijelölt személy.
 
-(2) A HOP előirányzat TS (V. tengely) előirányzat (XIX. fejezet 2. cím 11. alcím 2 jogcímcsoport 3 jogcím) vonatkozásában
+(2)[^205] A HOP előirányzat TS (V. tengely) előirányzat (XIX. fejezet 2. cím 11. alcím 3. jogcímcsoport 3. jogcím) vonatkozásában
 
 a) kötelezettségvállaló: a Program IH vezetője vagy az általa írásban kijelölt személy,
 
@@ -18,12 +18,14 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a Program IH vezetője vagy az általa írásban kijelölt személy,
 
-d)[^187] érvényesítő: a mezőgazdasági és vidékfejlesztési támogatási szerv pénzügyi igazgatója vagy az általa írásban kijelölt személy,
+d)[^206] érvényesítő: a mezőgazdasági és vidékfejlesztési támogatási szerv pénzügyi igazgatója vagy az általa írásban kijelölt személy,
 
-e)[^188] utalványozó: a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője vagy az általa írásban kijelölt személy.
+e)[^207] utalványozó: a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^184]: A 49/E. § (1) bekezdés c) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 37. pontja szerint módosított szöveg.
-[^185]: A 49/E. § (1) bekezdés d) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 38. pontja szerint módosított szöveg.
-[^186]: A 49/E. § (1) bekezdés e) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 39. pontja szerint módosított szöveg.
-[^187]: A 49/E. § (2) bekezdés d) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 40. pontja szerint módosított szöveg.
-[^188]: A 49/E. § (2) bekezdés e) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 41. pontja szerint módosított szöveg.
+[^201]: A 49/E. § (1) bekezdés nyitó szövegrésze a 427/2017. (XII. 19.) Korm. rendelet 10. § 22. pontja szerint módosított szöveg.
+[^202]: A 49/E. § (1) bekezdés c) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 37. pontja szerint módosított szöveg.
+[^203]: A 49/E. § (1) bekezdés d) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 38. pontja szerint módosított szöveg.
+[^204]: A 49/E. § (1) bekezdés e) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 39. pontja szerint módosított szöveg.
+[^205]: A 49/E. § (2) bekezdés nyitó szövegrésze a 427/2017. (XII. 19.) Korm. rendelet 10. § 23. pontja szerint módosított szöveg.
+[^206]: A 49/E. § (2) bekezdés d) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 40. pontja szerint módosított szöveg.
+[^207]: A 49/E. § (2) bekezdés e) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 41. pontja szerint módosított szöveg.

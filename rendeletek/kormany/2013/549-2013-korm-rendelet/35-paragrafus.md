@@ -1,4 +1,4 @@
-35. § (1)[^135] A Területi Együttműködés előirányzatai (XIX. fejezet 2. cím 5. alcím) vonatkozásában
+35. § (1)[^149] A Területi Együttműködés előirányzatai (XIX. fejezet 2. cím 5. alcím) vonatkozásában
 
 a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
@@ -18,10 +18,10 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^136] érvényesítő: az SZPI gazdasági vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetén a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^150] érvényesítő: az SZPI gazdasági vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetén a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
-e)[^137] utalványozó: az SZPI vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetén a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
+e)[^151] utalványozó: az SZPI vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetén a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^135]: A 35. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^136]: A 35. § (2) bekezdés d) pontja a 287/2015. (X. 6.) Korm. rendelet 22. §-ával megállapított, a 401/2016. (XII. 5.) Korm. rendelet 11. § 14. pontja szerint módosított szöveg.
-[^137]: A 35. § (2) bekezdés e) pontja a 287/2015. (X. 6.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^149]: A 35. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^150]: A 35. § (2) bekezdés d) pontja a 287/2015. (X. 6.) Korm. rendelet 22. §-ával megállapított, a 401/2016. (XII. 5.) Korm. rendelet 11. § 14. pontja szerint módosított szöveg.
+[^151]: A 35. § (2) bekezdés e) pontja a 287/2015. (X. 6.) Korm. rendelet 22. §-ával megállapított szöveg.

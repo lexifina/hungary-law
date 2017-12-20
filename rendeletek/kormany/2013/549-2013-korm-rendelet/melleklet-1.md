@@ -1,6 +1,6 @@
-## 56. §[^201] E rendeletnek a Széchenyi Programirodákról szóló 68/2011. (IV. 28.) Korm. rendelet és az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 253/2017. (IX. 5.) Korm. rendelettel [a továbbiakban: 253/2017. (IX. 5.) Korm. rendelet] megállapított rendelkezéseit a 253/2017. (IX. 5.) Korm. rendelet hatálybalépésekor[^202] folyamatban lévő ügyekben is alkalmazni kell.
+## 56. §[^220] E rendeletnek a Széchenyi Programirodákról szóló 68/2011. (IV. 28.) Korm. rendelet és az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 253/2017. (IX. 5.) Korm. rendelettel [a továbbiakban: 253/2017. (IX. 5.) Korm. rendelet] megállapított rendelkezéseit a 253/2017. (IX. 5.) Korm. rendelet hatálybalépésekor[^221] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^203]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^222]
 
 Kezelő szervi kijelölés
 
@@ -72,11 +72,11 @@ Kezelő szervi kijelölés
 
 | 33. | Emberi Erőforrás Fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 34. | Uniós Programok ÁFA fedezete | agrár-vidékfejlesztésért felelős miniszter |
+| 34. |  |  |
 
-| 35. | Uniós programok árfolyam-különbözete | agrár-vidékfejlesztésért felelős miniszter |
+| 35. |  |  |
 
-| 36. | Egyéb EU által nem térített kiadások | agrár-vidékfejlesztésért felelős miniszter |
+| 36. |  |  |
 
 | 37. | Új Magyarország Vidékfejlesztési Program (II. NVT) | kifizető ügynökség |
 
@@ -102,6 +102,6 @@ Kezelő szervi kijelölés
 
 | 48. | Alapok alapja EFOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-[^201]: Az 56. §-t a 253/2017. (IX. 5.) Korm. rendelet 4. §-a iktatta be.
-[^202]: A hatálybalépés időpontja 2017. szeptember 6.
-[^203]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^220]: Az 56. §-t a 253/2017. (IX. 5.) Korm. rendelet 4. §-a iktatta be.
+[^221]: A hatálybalépés időpontja 2017. szeptember 6.
+[^222]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a szerint módosított szöveg.
