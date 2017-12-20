@@ -1,3 +1,5 @@
+## 14. §[^4]
+
 1. melléklet az 53/2017. (X. 18.) FM rendelethez
 
 ## Az 1 MWth-nál kisebb névleges bemenő hőteljesítményű I. kategóriájú tüzelőberendezésekre vonatkozó kibocsátási határértékek
@@ -61,3 +63,5 @@
 3.2. A gázturbinák esetében a szilárdanyag-kibocsátási határérték a Bacharach-skála szerinti feketedési számmal kifejezett korom értéke.
 
 3.3. A négyütemű biogáz- és depóniagáz-üzemű gázmotorok esetében a CO-kibocsátási határérték 260 mg/m3.
+
+[^4]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
