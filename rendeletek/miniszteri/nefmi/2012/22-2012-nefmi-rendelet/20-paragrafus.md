@@ -1,5 +1,0 @@
-20. § (1) A költségvetési támogatás felhasználását és elszámolását a sportpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium), valamint a jogszabályban, a pályázati felhívásban, és a támogatási szerződésben meghatározott szervek ellenőrizhetik.
-
-(2) A költségvetési támogatások összegének legalább három százalékát érintően, de minden százmillió forint feletti kötelezettségvállalás esetében a támogató – a felhasználási időszakban vagy a beszámoló benyújtását követően, de legkésőbb a beszámoló elfogadását követő hat hónapon belül – a felhasználás helyszínén ellenőrzi a költségvetési támogatás felhasználását.
-
-(3) A támogató a beszámoltatás során ellenőrzi, hogy a költségvetési támogatás felhasználása során a kedvezményezett a közbeszerzésekről szóló törvény előírásait betartotta-e. Az ennek megállapításához szükséges dokumentumokat a kedvezményezett a közbeszerzési eljárás befejezését követően nyújtja be a támogató részére. A kedvezményezett e kötelezettségéhez kapcsolódóan benyújtandó dokumentumok körét és a benyújtás határidejét a támogatási szerződésben kell meghatározni.
