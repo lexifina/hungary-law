@@ -1,0 +1,1 @@
+## 1. § A külpolitikáért felelős miniszter a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 88. § (2) bekezdés b) és j) pontjában, valamint 89. § (2) bekezdés m) pontjában meghatározott feladatait a Gül Baba Türbéje Örökségvédő Alapítvány közreműködésével látja el.
