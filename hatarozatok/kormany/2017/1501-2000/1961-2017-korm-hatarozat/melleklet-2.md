@@ -22,16 +22,6 @@
 
 | 11. | IKOP- 1.1.0-15- 2016-00026 | M6 autóút Bóly–Ivándárda, országhatár közötti szakasz megvalósítása Villányi csomóponttal | NIF Zrt. | 100% | 4 778 241 418 | 0 | 1 276 306 582 | 49 800 758 582 | 0 | 13 407 575 678 | 54 579 000 000 | 0 | 14 683 882 260 | 69 262 882 260 | 2x2 sávos autóút építése Villányi csomóponttal. |
 
-2. melléklet az 1961/2017. (XII. 18.) Korm. határozathoz
+2. melléklet az 1961/2017. (XII. 18.) Korm. határozathoz[^2]
 
-Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat 16a. sora helyébe a következő sor lép:
-
-|  | (A) | (B) | (C) | (D) | (E) |
-
-| (1.) | (Felhívás azonosító jele) | (Projekt megnevezése) | (Támogatást igénylő neve) | [Projekt indikatív támogatási kerete (Mrd Ft)] | (Szakmai elvárások) |
-
-| „ |
-
-| 16a. | IKOP-1.1.0-15 | „Vámoscsalád” tengelyterhelés- és össztömegmérő állomással kombinált egyszerű pihenőhely és „Rábaköz” komplex pihenőhely építése | NIF Zrt. | 7,59 (becsült támogatási intenzitás: 100% | Az M86 gyorsforgalmi út Szombathely–Csorna közötti szakaszán, a 110+800 és 111+300 km között tengelyterhelés- és össztömegmérő állomással kombinált egyszerű pihenőhely, valamint komplex pihenőhely kivitelezése |
-
-| ” |
+[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

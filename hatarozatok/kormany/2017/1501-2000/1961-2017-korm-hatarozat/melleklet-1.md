@@ -22,34 +22,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat] 1. pontja a következő h) alponttal egészül ki:
-
-## (A Kormány)
-
-## „h) egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 1. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 201,12%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható.”
-
-## 4. Az 1247/2016. (V. 18.) Korm. határozat 2. melléklete a 2. melléklet szerint módosul.
-
-## 5. Az 1247/2016. (V. 18.) Korm. határozat 1. pont e) alpontjában az „a 2.” szövegrész helyébe az „az 1. és a 2.” szöveg lép.
-
-## 6. Az 1247/2016. (V. 18.) Korm. határozat 1. melléklet 1. pontjában foglalt táblázat C:2 mezőjében a „314,89” szövegrész helyébe a „633,30” szöveg lép.
-
-## 7. Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:2 mezőjében a „15,78” szövegrész helyébe a „15,62” szöveg,
-
-## b) D:8 mezőjében a „0,424” szövegrész helyébe a „0,58” szöveg,
-
-## c) D:12 mezőjében a „27,69” szövegrész helyébe a „38,39” szöveg,
-
-## d) D:14 mezőjében a „48,70” szövegrész helyébe az „54,58” szöveg,
-
-## e) D:17 mezőjében a „136,04” szövegrész helyébe a „181,11” szöveg,
-
-## f) D:21 mezőjében az „1,74” szövegrész helyébe az „1,91” szöveg,
-
-## g) D:29 mezőjében az „51,20” szövegrész helyébe a „74,06” szöveg
-
-## lép.
+## 3–7.[^1]
 
 1. melléklet az 1961/2017. (XII. 18.) Korm. határozathoz
+
+[^1]: A 3–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
