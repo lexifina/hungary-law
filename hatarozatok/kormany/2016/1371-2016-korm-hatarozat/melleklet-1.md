@@ -222,7 +222,7 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 20. | 338. sz. főút Nyíregyháza nyugati elk. 38. sz. és 3822. j. utak között projekt megvalósítása |
 
-| 21. | Békéscsaba megközelítése M44 Lakitelek–Tiszakürt |
+| 21. | Békéscsaba megközelítése M44 Szentkirály–Tiszakürt szakasz visszakötéssel Kecskemét irányába |
 
 | 22. |  |
 
@@ -300,8 +300,16 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 59. | M25 autóút maklári csomópont és összekötő út megvalósítása |
 
+| 60. | Páty település M1 autópálya csomópont közötti összekötő út létesítésének előkészítése |
+
+| 61. | Pilisborosjenő, Ipartelep bekötés előkészítése |
+
+| 62. | Gyöngyös nyugati elkerülő II. ütem előkészítése |
+
+| 63. | Dél Budai Centrum (DBC) megközelíthetőségének fejlesztése (előkészítés) |
+
 [^1]: Az 1. pont 1.9. alpontját az 1656/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be, szövege az 1958/2017. (XII. 15.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1. pont 1.10. alpontját az 1656/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be.
 [^3]: Az 1. pont 1.10. alpont a) alpontja az 1958/2017. (XII. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^4]: Az 1. pont 1.11. alpontját az 1656/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be.
-[^5]: Az 1. melléklet az 1833/2016. (XII. 23.) Korm. határozat 4., 7., 12. pontja és 14. pont b) alpontja, az 1150/2017. (III. 20.) Korm. határozat 1. pontja, az 1657/2017. (IX. 13.) Korm. határozat 5. pontja, az 1656/2017. (IX. 13.) Korm. határozat 4. pontja, az 1958/2017. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1657/2017. (IX. 13.) Korm. határozat 4. pontjával elrendelt módosítás, amely szerint az 1. mellékletben foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat 41. sorában az „52. sz. főút Kecskemét Nagykörút – 5218. j. úti (Vízmű utca) csomópont közötti szakasz átépítésének előkészítése” szövegrész helyébe az „52. sz. főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése” szöveg lép, nem vezethető át.]
+[^5]: Az 1. melléklet az 1833/2016. (XII. 23.) Korm. határozat 4., 7., 12. pontja és 14. pont b) alpontja, az 1150/2017. (III. 20.) Korm. határozat 1. pontja, az 1657/2017. (IX. 13.) Korm. határozat 5. pontja, az 1656/2017. (IX. 13.) Korm. határozat 4. pontja, az 1958/2017. (XII. 15.) Korm. határozat 3. pontja, az 1982/2017. (XII. 19.) Korm. határozat 1. b) pontja szerint módosított szöveg. [Az 1657/2017. (IX. 13.) Korm. határozat 4. pontjával elrendelt módosítás, amely szerint az 1. mellékletben foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat 41. sorában az „52. sz. főút Kecskemét Nagykörút – 5218. j. úti (Vízmű utca) csomópont közötti szakasz átépítésének előkészítése” szövegrész helyébe az „52. sz. főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítésének előkészítése” szöveg lép, nem vezethető át.]
