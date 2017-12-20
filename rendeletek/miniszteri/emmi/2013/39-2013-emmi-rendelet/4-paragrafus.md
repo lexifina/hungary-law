@@ -1,4 +1,4 @@
-4. § (1) A 3. § szerinti szolgáltatások teljesítése érdekében a megyei könyvtár kistelepülési megállapodás szerint igénybe vehető szolgáltatásai:
+4. § (1)[^6] A 3. § szerinti szolgáltatások teljesítése érdekében a megyei hatókörű városi könyvtár kistelepülési megállapodás szerint igénybe vehető szolgáltatásai:
 
 1. dokumentumszolgáltatás (könyvek, időszaki kiadványok, audiovizuális, elektronikus dokumentumok biztosítása),
 
@@ -40,4 +40,7 @@
 
 20. a megyei könyvtár által a kistelepülési megállapodásban vállalt további szolgáltatás.
 
-(2) A megyei könyvtárnak rendelkeznie kell a kistelepülési megállapodás alapján vállalt, az (1) bekezdés szerinti szolgáltatások teljesítéséhez szükséges berendezéssel, technikai felszereltséggel, szállítóeszközzel, valamint szakképzett könyvtárossal.
+(2)[^7] A megyei hatókörű városi könyvtárnak rendelkeznie kell a kistelepülési megállapodás alapján vállalt, az (1) bekezdés szerinti szolgáltatások teljesítéséhez szükséges berendezéssel, technikai felszereltséggel, szállítóeszközzel, valamint szakképzett könyvtárossal.
+
+[^6]: A 4. § (1) bekezdése a 35/2017. (XII. 19.) EMMI rendelet 5. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése a 35/2017. (XII. 19.) EMMI rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.

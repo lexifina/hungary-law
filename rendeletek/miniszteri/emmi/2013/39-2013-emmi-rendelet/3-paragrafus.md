@@ -20,7 +20,7 @@
 
 10. tájékoztatás a könyvtári rendszer szolgáltatásairól,
 
-11. a megyei könyvtári közös katalógus és a helyi állományfeltáró eszközök használata,
+11.[^5] a megyei hatókörű városi könyvtári közös katalógus és a helyi állományfeltáró eszközök használata,
 
 12. könyvtári szolgáltatások a fogyatékossággal élők számára,
 
@@ -33,3 +33,5 @@
 16. a szabadidő kulturált eltöltésének lehetősége,
 
 17. könyvtári közösségi, közművelődési rendezvények, programok.
+
+[^5]: A 3. § 11. pontja a 35/2017. (XII. 19.) EMMI rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.

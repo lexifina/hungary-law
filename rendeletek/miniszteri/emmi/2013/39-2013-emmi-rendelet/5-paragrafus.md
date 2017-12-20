@@ -26,7 +26,7 @@ gc) 2500 fő feletti lakosságszámú kistelepülésen közalkalmazotti jogviszo
 
 a) gondoskodik a szolgáltató hely nyitva tartásáról,
 
-b) rendszeresen kapcsolatot tart a megyei könyvtárral,
+b)[^8] rendszeresen kapcsolatot tart a megyei hatókörű városi könyvtárral,
 
 c) javaslatot tesz könyvtári dokumentumok beszerzésére,
 
@@ -36,8 +36,11 @@ e) ügyel a könyvtári dokumentumok raktári rendjének megőrzésére,
 
 f) ügyel az állomány és a szolgáltató hely rendjének megőrzésére,
 
-g) statisztikai adatokat gyűjt és határidőre továbbítja a megyei könyvtárnak,
+g)[^9] statisztikai adatokat gyűjt és határidőre továbbítja a megyei hatókörű városi könyvtárnak,
 
 h) negyedévente legalább egy alkalommal részt vesz az alapszolgáltatásokon túli programok fogadásában, szervezésében, saját szervezésű közösségi program lebonyolításában.
 
 (3) A szolgáltató hely rendszeresen, a felhasználók többsége számára megfelelő időpontban tart nyitva. A szolgáltató hely heti nyitvatartási óraszámát a kistelepülési megállapodás rögzíti.
+
+[^8]: Az 5. § (2) bekezdés b) pontja a 35/2017. (XII. 19.) EMMI rendelet 5. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^9]: Az 5. § (2) bekezdés g) pontja a 35/2017. (XII. 19.) EMMI rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
