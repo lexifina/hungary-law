@@ -68,9 +68,7 @@
 
 ## Határidő: azonnal
 
-## 2. A Makovecz Imre életművének gondozásáról szóló 2022/2015. (XII. 29.) Korm. határozat 7. pontjában a „2017. december 31.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 3. Az egyes fejezetek közötti előirányzat-átcsoportosításról szóló 1787/2016. (XII. 17.) Korm. határozat 1. mellékletében a „2 885 000” szövegrész helyébe a „2 794 161” szöveg és az „1 650 000” szövegrész helyébe az „1 740 839” szöveg lép.
+## 2–3.[^1]
 
 ## 4. A Kormány egyetért azzal, hogy az egyes fejezetek közötti előirányzat-átcsoportosításról szóló 1787/2016. (XII. 17.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 30. Kiemelt sportegyesületek működésének támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 700 000 000 forintból 34 412 000 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
@@ -88,18 +86,21 @@
 
 ## c) XIII. Honvédelmi Minisztérium fejezet, 6. MH Egészségügyi Központ cím, K1. Személyi juttatások kiemelt előirányzaton 656 000 forint, K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton 144 000 forint.
 
-## 9. A Határozat 2. pontjában a „2017. december 31” szövegrész helyébe a „2018. június 30.” szöveg lép.
+## 9.[^2]
 
 ## 10. A Kormány egyetért azzal, hogy az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1727/2017. (X. 10.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 18. Felsőbbfokú Tanulmányok Intézete cím, K1. Személyi juttatások kiemelt előirányzat javára átcsoportosított 57 247 050 forintból 13 000 000 forint és a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat javára átcsoportosított 11 530 210 forintból 2 886 000 forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 11. Az Országvédelmi Alapból történő, valamint a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1766/2017. (XI. 7.) Korm. határozat 2. mellékletében a „-212 524 001” szövegrész helyébe a „-209 873 107” szöveg, a „-565 032 349” szövegrész helyébe a „-567 683 243” szöveg lép.
+## 11.[^3]
 
 ## 12. A Kormány egyetért azzal, hogy az egyes határon túli magyar szervezetek egyszerűsített honosítási programjának megvalósításával összefüggő feladatok ellátása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1797/2017. (XI. 8.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 325 000 000 forintból 16 200 010 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
 ## 13. A Kormány egyetért azzal, hogy a Magyarország Kormánya és Hódmezővásárhely Megyei Jogú Város Önkormányzata közötti együttműködési megállapodásról szóló 1840/2017. (XI. 10.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 18. Hódmezővásárhelyi ágazati fejlesztések jogcímcsoport, K7. Felújítások kiemelt előirányzat javára átcsoportosított 132 300 000 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 14. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, tárgyéven túli kötelezettségvállalás engedélyezéséről, fejezetek közötti előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1895/2017. (XII. 4.) Korm. határozat (a továbbiakban: Határozat2) 1. melléklete kiadások részében a XX. Emberi Erőforrások minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 9. A Budai Vigadó felújításának támogatása jogcímcsoporthoz tartozó „K8” szövegrész helyébe a „K6” szöveg, valamint az „Egyéb felhalmozási célú kiadások” szövegrész helyébe a „Beruházások” szöveg lép.
-
-## 15. A Határozat2 2. mellékletében a „680 282 782” szövegrész helyébe az „1 110 726 896” szöveg, az „1 110 726 896” szövegrész helyébe a „680 282 782” szöveg lép.
+## 14–15.[^4]
 
 1. melléklet az 1989/2017. (XII. 19.) Korm. határozathoz
+
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 14–15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
