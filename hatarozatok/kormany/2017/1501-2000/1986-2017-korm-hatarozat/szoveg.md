@@ -56,10 +56,6 @@ b) a 2019. évre vonatkozó kötelezettségvállalás felső korlátja: 320 000 
 
 Felelős: nemzeti fejlesztési miniszter
 
-6. A „»Kreatív város – fenntartható vidék« – a Nyugat-Pannon régióban új regionális fejlesztési koncepció megvalósításáról” című nemzeti programmal összefüggő feladatokról és azok finanszírozásáról szóló 1337/2016. (VII. 4.) Korm. határozat 2. mellékletében foglalt táblázat
+6.[^1]
 
-a) B:11 mezőjében a „Kőszeg Város Önkormányzata” szövegrész helyébe a „Kőszeg Város Önkormányzata és a Nemzeti Infrastruktúra Fejlesztő Zrt.” szöveg,
-
-b) G:11 mezőjében a „2017–2018” szövegrész helyébe a „2017–2019” szöveg
-
-lép.
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
