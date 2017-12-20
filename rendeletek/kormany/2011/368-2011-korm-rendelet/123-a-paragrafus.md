@@ -1,3 +1,3 @@
-123/A. §[^430]
+123/A. §[^431]
 
-[^430]: Az Ávr. 123/A. §-át a 413/2012. (XII. 29.) Korm. rendelet 32. §-a iktatta be, hatályon kívül helyezte a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 14. pontja.
+[^431]: Az Ávr. 123/A. §-át a 413/2012. (XII. 29.) Korm. rendelet 32. §-a iktatta be, hatályon kívül helyezte a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 14. pontja.

@@ -18,7 +18,9 @@ fa) a támogatásból létrejövő vagyon ingyenesen az állam, helyi önkormán
 
 fb) a Polgári Törvénykönyv 8:2. § szerinti többségi állami befolyás alatt álló gazdasági társaság a támogatást az állam, helyi önkormányzat, nemzetiségi önkormányzat, helyi önkormányzatok társulása, nemzetiségi önkormányzatok társulása vagy – központi költségvetési szerv kivételével – költségvetési szerv vagyonának fejlesztésére fordítja,
 
-fc) a Polgári Törvénykönyv 8:2. § szerinti többségi állami befolyás alatt álló gazdasági társaság a támogatást az fb) alpontban meghatározott szervezetek valamelyikének többségi befolyása alatt álló jogi személy olyan vagyontárgyának fejlesztésére fordítja, amely közfeladat ellátását szolgálja vagy közfeladat ellátását mozdítja elő
+fc) a Polgári Törvénykönyv 8:2. § szerinti többségi állami befolyás alatt álló gazdasági társaság a támogatást az fb) alpontban meghatározott szervezetek valamelyikének többségi befolyása alatt álló jogi személy olyan vagyontárgyának fejlesztésére fordítja, amely közfeladat ellátását szolgálja vagy közfeladat ellátását mozdítja elő,
+
+g)[^324] a vasúti közlekedésről szóló törvény szerint a közlekedésért felelős miniszter által az országos jelentőségű vasútvonalak működtetésére alapított vagy kijelölt kizárólagos állami tulajdonban lévő gazdasági társaság részére
 
 folyósított költségvetési támogatás esetén eltekinthet.
 
@@ -29,3 +31,4 @@ a) a kedvezményezett valamennyi – jogszabály alapján beszedési megbízáss
 b) bármely olyan eszköz – így különösen zálogjog kikötése, garancia, kezesség, óvadék –, amely biztosítja, hogy a támogató a költségvetési támogatás visszafizetésére vonatkozó igényét maradéktalanul, a lehető legrövidebb időn belül eredményesen tudja érvényesíteni.
 
 [^323]: Az Ávr. 84. § (1) bekezdés f) pontját a 264/2016. (VIII. 31.) Korm. rendelet 13. §-a iktatta be.
+[^324]: Az Ávr. 84. § (1) bekezdés g) pontját a 426/2017. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
