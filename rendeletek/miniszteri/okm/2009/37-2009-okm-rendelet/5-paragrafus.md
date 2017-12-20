@@ -1,3 +1,0 @@
-## 4. § Az R. 10. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A szakmai kollégiumok vezetőinek kinevezése – a Bizottság javaslatára – egy alkalommal egy évvel meghosszabbítható. A vezetői kinevezésre, illetve annak meghosszabbítására sor kerülhet akkor is, ha a kinevezés vagy a meghosszabbítás tartama meghaladja a kollégiumi tagsági megbízás határidejének lejártát. A négyéves határidő lejártát meghaladó vezetői kinevezés, illetve annak meghosszabbítása a kollégiumi tagsági megbízás – az érintett szakmai, társadalmi szervezetek által delegált tagok esetén a küldő szervezet egyetértésének kikérése nélkül – annak meghosszabbítását vonja maga után.”
