@@ -60,11 +60,11 @@ eb) a nyílt és korlátozott hozzáférésű elektronikus és nyomtatott publik
 
 a) gyűjti, őrzi és feltárja a hozzá érkező kötelespéldányokat,
 
-b) a nemzeti könyvtárral kötött megállapodás alapján gyűjti, archiválja és szolgáltatja a termékinformációs kötelespéldányokat,
+b)[^1] a nemzeti könyvtárral kötött megállapodás alapján gyűjti és szolgáltatja a termékinformációs kötelespéldányokat,
 
 c) archiválja az elektronikus kötelespéldányok egy másolatát,
 
-d) a nemzeti könyvtárral együttműködve gondoskodik az archivált könyvtári dokumentumok megőrzéséről,
+d)[^2] a nemzeti könyvtárral együttműködve gondoskodik a könyvtári dokumentumok megőrzéséről,
 
 e) a nemzeti könyvtárral együttműködve fejleszti a könyvtári dokumentumok országos lelőhely-nyilvántartásának adatbázisát,
 
@@ -75,3 +75,6 @@ g) együttműködik a nemzeti könyvtárral az országos tartalmi feltárási re
 h) részt vesz a tudományos kutatás eredményeinek nyílt hozzáférését biztosító tevékenység koordinálásában, valamint
 
 i) részt vesz a nemzeti névtér fejlesztésében.
+
+[^1]: A 9. § (3) bekezdés b) pontja a 35/2017. (XII. 19.) EMMI rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 9. § (3) bekezdés d) pontja a 35/2017. (XII. 19.) EMMI rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.

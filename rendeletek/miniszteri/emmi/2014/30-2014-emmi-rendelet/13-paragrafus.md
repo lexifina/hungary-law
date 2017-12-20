@@ -1,1 +1,3 @@
-13. § A 10. § szerinti gyűjtőköri szabályzatot első alkalommal az e rendelet hatálybalépését követő 8 hónapon belül kell a miniszter részére megküldeni.
+13. §[^3]
+
+[^3]: A 13. §-t a 35/2017. (XII. 19.) EMMI rendelet 6. (2) bekezdése hatályon kívül helyezte.

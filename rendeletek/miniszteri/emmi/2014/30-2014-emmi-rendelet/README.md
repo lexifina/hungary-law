@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-30-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-04-25 | 2014-30-20-5H.1 | 30/2014. (IV. 10.) EMMI rendelet |
+| 2017-12-20 | 2014-30-20-5H.2 | 35/2017. (XII. 19.) EMMI rendelet |
