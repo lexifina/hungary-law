@@ -48,10 +48,12 @@ a) a muzeális könyvtári dokumentumok kezelésére vonatkozó szabályok alkal
 
 b) a nemzetiségi anyanyelvű könyvtári ellátás biztosítását,
 
-c) a megyei könyvtár törvényben meghatározott feladatainak ellátását,
+c)[^3] a megyei hatókörű városi könyvtár törvényben meghatározott feladatainak ellátását,
 
 d) a könyvtári szakmai továbbképzéseket,
 
-e) a kistelepülések által igénybe vett megyei könyvtári szolgáltatásokat.
+e)[^4] a megyei hatókörű városi könyvtár által nyújtott, a kistelepülések által igénybe vett könyvtári szolgáltatásokat.
 
 [^2]: A 2. § (3) bekezdését a 21/2013. (III. 19.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^3]: A 2. § (3) bekezdés c) pontja a 35/2017. (XII. 19.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdés e) pontja a 35/2017. (XII. 19.) EMMI rendelet 3. §-ával megállapított szöveg.
