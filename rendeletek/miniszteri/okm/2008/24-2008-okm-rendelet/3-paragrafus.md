@@ -1,5 +1,0 @@
-## „10. § E rendelet 1. § (1) bekezdés c) pont cb) alpontjában írt kulturális követelményt nem kell alkalmazni a Tv. 29. § (3) bekezdése szerint a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2008. évi XXXVIII. törvény hatálybalépése előtt nyilvántartásba vett filmalkotások esetén.”
-
-3. § (1) E rendelet a kihirdetését követő napon lép hatályba. Az R. 1. és az R. 2. e rendelettel módosított rendelkezéseit a 2007. december 31-ét követően indult, és e rendelet hatálybalépésekor folyamatban lévő mindazon támogatási ügyben is alkalmazni kell, ahol a döntést azért nem lehetett meghozni, mert a támogatás az Európai Közösséget létrehozó szerződés 87. cikke alapján tiltott állami támogatásnak minősült volna.
-
-(2) Az (1) bekezdés alkalmazásában az ügy indulásának szempontjából közvetlen állami támogatás esetén a pályázati felhívás megjelenésének vagy az egyedi támogatási kérelem benyújtásának, közvetett állami támogatás esetén az R. 1. 10. § (1) bekezdése szerinti kérelem benyújtásának időpontja az irányadó.

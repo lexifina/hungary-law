@@ -1,1 +1,0 @@
-1. § (1) A mozgóképszakmai hatóság szervezetének, működésének és eljárásának részletes szabályairól szóló 12/2008. (III. 29.) OKM–PM együttes rendelet (a továbbiakban: R. 1.) a 4. §-t követően a következő alcímmel és 4/A. §-sal egészül ki:

@@ -1,3 +1,0 @@
-## 4. § Az R. 1. 10. § (2) bekezdésében meghatározott 8 és 60 napos határidőket az e rendelet hatálybalépését követő 15. naptól kell számítani mindazon esetekben, ahol a támogatásra jogosultság megállapítására vonatkozó kérelmet 2008. április 1-je és az e rendelet hatálybalépése közötti időszakban nyújtották be a mozgóképszakmai hatósághoz.
-
-5. § Az R. 1. 10. § (2) bekezdés b) pontjában az „a gyártásban részt vevő magyar vállalkozás 30 napnál nem régebbi cégkivonatát, illetve” szövegrész és az R. 1. 10. § (2) bekezdés c) pontjában az „a magyar filmelőállító 30 napnál nem régebbi cégkivonatát,” szövegrész hatályát veszti.
