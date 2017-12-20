@@ -1,0 +1,3 @@
+## 7. § Az 549/2013. (XII. 30.) Korm. rendelet 23. §-a a következő (4a) bekezdéssel egészül ki:
+
+## „(4a) A 22. § (2) bekezdése szerinti önerő a (4) bekezdésben foglaltakon kívül az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet 3. § (2) bekezdésében meghatározott szerv részére a jogszabályban meghatározott feladatainak végrehajtásához is megtéríthető.”
