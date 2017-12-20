@@ -1,1 +1,0 @@
-## 4. § E rendelet a közepes tüzelőberendezésekből származó egyes szennyező anyagok levegőbe történő kibocsátásának korlátozásáról szóló, 2015. november 25-i 2015/2193 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

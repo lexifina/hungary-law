@@ -1,3 +1,0 @@
-A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés 24. pontjában kapott felhatalmazás alapján,
-
-az Alaptörvény 15. cikk (1) bekezdésben meghatározott feladatkörében eljárva a következőket rendeli el:
