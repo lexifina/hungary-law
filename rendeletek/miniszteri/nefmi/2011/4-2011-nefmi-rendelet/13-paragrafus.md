@@ -1,5 +1,0 @@
-## 12. § A támogatási szerződéseket a támogatási döntésről szóló értesítés kézhezvételét követő 60 napon belül meg kell kötni. Ha a támogatási szerződés megkötésére a kedvezményezett mulasztásából e határidőn belül nem kerül sor, a támogatási döntés hatályát veszti.
-
-13. § (1) A pályázó a pályázat elutasítását, csökkentett összköltséggel vagy feltételekkel történő támogatását jogszabálysértésre vagy a pályázati kiírás szerinti tájékoztatásban foglaltak megsértésére hivatkozással a támogatási döntés kézhezvételétől számított 5 napon belül, az indokok megjelölésével kérelmében kifogásolhatja a pályázatot kiíró szervnél.
-
-(2) A kérelemről a támogató a beérkezésétől számított 30 napon belül dönt, annak helyt ad vagy azt az indokok megjelölésével elutasítja. A pályázatot kiíró szerv az elbírálás határidejét egy alkalommal, legfeljebb 30 nappal meghosszabbíthatja. A pályázatot kiíró szerv az elbírálás elhalasztásának tényéről a kérelem beérkezésétől számított 30 napon belül tájékoztatja a pályázót.

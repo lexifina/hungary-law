@@ -1,5 +1,0 @@
-23. § (1) A sportesemény rendezési jogának elnyerése esetén a 21. § (1) bekezdésében meghatározott szervezet támogatási kérelmet nyújthat be – legkésőbb a sportesemény időpontját megelőző év május 31-ig – a miniszter részére. A támogatási kérelmet a 4. melléklet szerinti – a minisztérium honlapján is közzétett – nyomtatványon kell postai és elektronikus úton megküldeni.
-
-(2) Amennyiben a sportesemény rendezési jogára vonatkozó pályázat az (1) bekezdés szerinti határidő lejártát követően kerül kiírásra, illetve az adott nemzetközi szövetség előzetes írásbeli egyeztetést követően a sportesemény megrendezésére kéri fel a 21. § (1) bekezdésében meghatározott szervezetet, úgy a miniszter eltekinthet a 22. §-ban meghatározott követelményektől, és a támogatási kérelem az (1) bekezdés szerinti határidőt követően is benyújtható.
-
-(3) Ha az évenként megrendezésre kerülő Világkupa rendezési jogára vonatkozóan pályázat nem kerül kiírásra, a sportszövetségnek kizárólag a 4. melléklet szerinti támogatási kérelmet kell postai és elektronikus úton megküldenie a minisztérium részére a sportrendezvény időpontját megelőző év május 31-ig.

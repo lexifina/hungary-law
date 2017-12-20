@@ -1,3 +1,0 @@
-62. § (1) E rendelet a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379/5., 2006.12.28.) hatálya alá tartozó csekély összegű támogatást tartalmaz.
-
-(2) E rendelet az EK-Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozásoknak közszolgáltatással járó ellentételezés formájában megítélt állami támogatásokra történő alkalmazásáról szóló 2005. november 28-i 2005/842/EK bizottsági határozat (HL L 312/67., 2005.11.29.) hatálya alá tartozó állami támogatást tartalmaz.

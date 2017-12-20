@@ -1,1 +1,0 @@
-## 27. § A 20. § b) pontja esetében kedvezményezett lehet az országos sportági szakszövetség, az országos sportági szövetség, az NSSZ, az MPB, a fogyatékosok országos szövetségei, sportegyesületek, a testkulturális felsőoktatási képzésben részt vevő felsőoktatási intézmény és a Magyar Turizmus Zrt.
