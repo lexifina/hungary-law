@@ -6,7 +6,7 @@ b) az egyéb dokumentumok.
 
 (2) Az (1) bekezdés a) pontjában említett dokumentumokat a könyvtár vezetője ipari felhasználásra eladhatja. Az értékesítéshez előzetesen meg kell szerezni
 
-a) tanácsi közművelődési könyvtár esetében a megyei könyvtár igazgatójának, iskolai könyvtár esetében az iskolai könyvtárak megyei szakfelügyelőjének szakmai javaslata alapján a fenntartó,
+a)[^9] tanácsi közművelődési könyvtár esetében a megyei hatókörű városi könyvtár igazgatójának, iskolai könyvtár esetében az iskolai könyvtárak megyei szakfelügyelőjének szakmai javaslata alapján a fenntartó,
 
 b) felsőoktatási intézmény könyvtárhálózatához tartozó tagkönyvtár esetében a központi könyvtár igazgatója,
 
@@ -15,3 +15,5 @@ c) az a)–b) pontban nem említett könyvtár esetében a fenntartó
 engedélyét.
 
 (3) Ha az (1) bekezdés a) pontjában említett dokumentumokat a könyvtár nem ipari felhasználás céljából értékesíti, hanem más módon kívánja hasznosítani, a 17. §-ban meghatározott eljárást kell követni.
+
+[^9]: A 16. § (2) bekezdés a) pontja a 35/2017. (XII. 19.) EMMI rendelet 1. §-a szerint módosított szöveg.

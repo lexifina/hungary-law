@@ -8,7 +8,7 @@ a) selejtezés, vagy
 
 b) egyéb ok
 
-## címén szabad kivezetni (törölni), a 15-25. §-okban foglalt rendelkezések szerint. Szakszervezeti könyvtárak esetében bármilyen címen való kivezetéshez (törléshez) a fenntartó előzetes hozzájárulása szükséges.
+címén szabad kivezetni (törölni), a 15-25. §-okban foglalt rendelkezések szerint. Szakszervezeti könyvtárak esetében bármilyen címen való kivezetéshez (törléshez) a fenntartó előzetes hozzájárulása szükséges.
 
 (2) A könyvtár állományában meglevő, de a könyvtár rendeltetésszerű feladatainak ellátására alkalmatlanná vált dokumentumok selejtezés esetén való kivezetésére (törlésére)
 
