@@ -14,7 +14,7 @@ a) a fővárosi székhelyű muzeális intézmények vonatkozásában a Budapesti
 
 b) az országos múzeumok, országos szakmúzeumok vonatkozásában az irányító szerv,
 
-c) a megyei könyvtár illetékességi területén lévő könyvtárak vonatkozásában a megyei könyvtár, a d) és e) pontban meghatározott könyvtárak kivételével,
+c)[^1] a megyei hatókörű városi könyvtár illetékességi területén lévő könyvtárak vonatkozásában a megyei hatókörű városi könyvtár, a d) és e) pontban meghatározott könyvtárak kivételével,
 
 d) az országos szakkönyvtárak vonatkozásában az irányító szerv az e) pontban meghatározott könyvtárak kivételével,
 
@@ -23,3 +23,5 @@ e) a fővárosi székhelyű felsőoktatási könyvtárak, a fővárosi székhely
 f) az általános levéltárak és a szaklevéltárak vonatkozásában az országos hatáskörű levéltári tevékenységet végző szerv,
 
 g) az olyan közgyűjtemények esetében, amelyek alapleltárában vagy külön nyilvántartásában kulturális javak szerepelnek, a kép- és hangarchívumok vonatkozásában az Országos Széchényi Könyvtár
+
+[^1]: A 26. § (2) bekezdés c) pontja a 35/2017. (XII. 19.) EMMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
