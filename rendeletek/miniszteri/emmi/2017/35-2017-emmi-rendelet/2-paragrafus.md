@@ -1,3 +1,5 @@
-## 1. § A könyvtári állomány ellenőrzéséről (leltározásáról) és az állományból történő törlésről szóló szabályzat kiadásáról szóló 3/1975. (VIII. 17.) KM–PM együttes rendelet 16. § (2) bekezdés a) pontjában az „a megyei könyvtár” szövegrész helyébe az „a megyei hatókörű városi könyvtár” szöveg lép.
+## 1. §[^1]
 
 ## 2. A könyvtári szakfelügyeletről szóló 14/2001. (VII. 5.) NKÖM rendelet módosítása
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
