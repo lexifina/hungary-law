@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## b) a Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások összehangolásáról és azok 2022-ig történő megvalósításáról szóló 1371/2016. (VII. 15.) Korm. határozat [a továbbiakban: 1371/2016. (VII. 15.) Korm. határozat] 1. melléklete az 1. melléklet szerint módosuljon;
+## b)[^1]
 
 ## c) az 1. mellékletben meghatározott projektek beruházója a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság legyen.
 
@@ -42,60 +42,17 @@
 
 ## Határidő: a 2018. évi központi költségvetés végrehajtása során
 
-## 3. Az 1505/2016. (IX. 21.) Korm. határozat 6. pontja helyébe a következő rendelkezés lép:
+## 3–7.[^2]
 
-## (A Kormány)
-
-## „6. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Közlekedési ágazati programok alcím Kiemelt közúti projektek kiadási előirányzata (a továbbiakban: Előirányzat) terhére vállalható kötelezettségek mértékét a 2018-2022. évekre az alábbiak szerint állapítja meg:
-
-## a) a 2018. évre vonatkozó kötelezettségvállalás felső korlátja 266 982 millió forint,
-
-## b) a 2019. évre vonatkozó kötelezettségvállalás felső korlátja 398 672 millió forint,
-
-## c) a 2020. évre vonatkozó kötelezettségvállalás felső korlátja 215 409 millió forint,
-
-## d) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 134 255 millió forint,
-
-## e) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 61 474 millió forint;”
-
-## 4. Az 1505/2016. (IX. 21.) Korm. határozat 8. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „8. egyetért azzal, hogy a határozatban foglaltak végrehajtása érdekében a nemzeti fejlesztési miniszter az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdésében biztosított jogkörében eljárva a 6. pont szerinti éven túli kötelezettségvállalási korlátok – kapcsolódó pénzügyi tranzakciós illetékek és kincstári díjak összegével csökkentett – mértékéig, összesen legfeljebb 1 384 191 millió forint összegben kötelezettségeket vállaljon, illetve a már megkötött támogatási szerződéseket ennek megfelelően módosítsa.”
-
-## 5. Az 1505/2016. (IX. 21.) Korm. határozat 1. pontjában a „2 544 140 millió forint” szövegrész helyébe a „2 574 389 millió forint” szöveg lép.
-
-## 6. Az 1505/2016. (IX. 21.) Korm. határozat 1. melléklete helyébe a 2. melléklet lép.
-
-## 7. Az 1505/2016. (IX. 21.) Korm. határozat 2. melléklete helyébe a 3. melléklet lép.
-
-## 8.[^1]
+## 8.[^3]
 
 ## 9. Ez a határozat – a 10. pontban meghatározott kivétellel – a közzétételét követő napon lép hatályba.
 
 ## 10. A határozat 8. pontja 2018. január 1-jén lép hatályba.
 
-1. melléklet az 1982/2017. (XII. 19.) Korm. határozathoz
+1–3. melléklet az 1982/2017. (XII. 19.) Korm. határozathoz[^4]
 
-1. Az 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat 21. sora helyébe a következő sor lép:
-
-2.
-
-|  |  | (A tervezett projekt megnevezése) |
-
-|  | „21. | Békéscsaba megközelítése M44 Szentkirály–Tiszakürt szakasz visszakötéssel Kecskemét irányába” |
-
-2. Az 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat a következő sorokkal egészül ki:
-
-|  |  | (A tervezett projekt megnevezése) |
-
-|  | „60. | Páty település M1 autópálya csomópont közötti összekötő út létesítésének előkészítése |
-
-|  | 61. | Pilisborosjenő, Ipartelep bekötés előkészítése |
-
-|  | 62. | Gyöngyös nyugati elkerülő II. ütem előkészítése |
-
-|  | 63. | Dél Budai Centrum (DBC) megközelíthetőségének fejlesztése (előkészítés)” |
-
-[^1]: A 8. pont a 10. pont alapján 2018. január 1-jén lép hatályba.
+[^1]: Az 1. b) pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. pont a 10. pont alapján 2018. január 1-jén lép hatályba.
+[^4]: Az 1–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
