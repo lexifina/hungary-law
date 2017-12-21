@@ -92,4 +92,12 @@ b) a Harmadik Rész szerinti együttműködésre kijelölt közfeladatot ellát�
 
 c) a 104. § (1) bekezdése szerinti szervet.
 
+(5a) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
+
+a) az önhibán kívüli akadályozottság hatálya alatt álló elektronikus ügyintézést biztosító szerveket,
+
+b) azon, az a) pont szerinti szerv feladat- és hatáskörébe tartozó ügyeket, amelyek esetében az önhibán kívüli akadályozottság nem áll fenn, és
+
+c) az önhibán kívüli akadályozottság időtartamát.
+
 (6) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a szabályozott elektronikus ügyintézési szolgáltatások bejelentéséért, a szabályozott elektronikus ügyintézési szolgáltatásokat érintő változások bejelentésért fizetendő igazgatási szolgáltatási díj mértékét, a díj megfizetésével, kezelésével, nyilvántartásával kapcsolatos szabályokat rendeletben állapítsa meg.
