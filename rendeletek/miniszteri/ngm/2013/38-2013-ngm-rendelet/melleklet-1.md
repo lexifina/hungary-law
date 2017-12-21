@@ -14,7 +14,7 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | Nyitás | Növekedés | Csökkenés | Zárás |
 
-| E/F | T/K | Ellen- számla | T/K | Ellen- számla | T/K | Ellen- számla | T/ K | Ellen- számla |
+| E/F | T/K | Ellenszámla | T/K | Ellenszámla | T/K | Ellenszámla | T/K | Ellenszámla |
 
 | Nyilvántartási számlák: |
 
@@ -26,17 +26,17 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | 04 | E | T | 006 | T | 006 | K | 006 | K | 006 |
 
-| 05(1) | E | ― | ― | T | 001 | K | 001 | K | 001 |
+| 05(1) | E | Z | Z | T | 001 | K | 001 | K | 001 |
 
 | 05(2) | F | K | 002 | K | 002 | T | 002 | T | 002 |
 
-| 05(3) | E | ― | ― | T | 003 | K | 003 | K | 003 |
+| 05(3) | E | Z | Z | T | 003 | K | 003 | K | 003 |
 
-| 09(1) | F | ― | ― | K | 001 | T | 001 | T | 001 |
+| 09(1) | F | Z | Z | K | 001 | T | 001 | T | 001 |
 
 | 09(2) | E | T | 004 | T | 004 | K | 004 | K | 004 |
 
-| 09(3) | F | ― | ― | K | 005 | T | 005 | T | 005 |
+| 09(3) | F | Z | Z | K | 005 | T | 005 | T | 005 |
 
 | Könyvviteli számlák: |
 
@@ -72,9 +72,9 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | 358 | F | K | 491 | K |  | T |  | T | 493 |
 
-| 361 | E/F | ― | ― | T/K | 31-33 | T/K | 31-33 | ― | ― |
+| 361 | E/F | Z | Z | T/K | 31–33 | T/K | 31–33 | Z | Z |
 
-| 363 | E/F | ― | ― | T/K |  | T/K |  | ― | ― |
+| 363 | E/F | Z | Z | T/K |  | T/K |  | Z | Z |
 
 | 3642 | F | K | 491 | K |  | T |  | T | 493 |
 
@@ -92,47 +92,49 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | 412 | F | T/K | 491 | K |  | T |  | T/K | 493 |
 
+| 413 | F | T/K | 491 | K |  | T |  | T/K | 493 |
+
 | 414 | F | T/K | 491 | K |  | T |  | T/K | 493 |
 
 | 416 | F | T/K | 491 | K |  | T |  | T/K | 493 |
 
 | 5. számlaosztály |
 
-| 5 | E | ― | ― | T |  | K |  | K | 8 |
+| 5 | E | Z | Z | T |  | K |  | K | 8 |
 
 | Kivéve: |
 
-| 571 | F | ― | ― | K |  | T |  | T/K | 492 |
+| 571 | F | Z | Z | K |  | T |  | T/K | 492 |
 
-| 572 | F | ― | ― | K |  | T |  | T | 492 |
+| 572 | F | Z | Z | K |  | T |  | T | 492 |
 
 | 6. számlaosztály |
 
-| 6 | E | ― | ― | T |  | K |  |  | 691-en keresztül átvezetés a 7. számla- osztályba |
+| 6 | E | Z | Z | T |  | K |  |  | 691-en keresztül átvezetés a 7. számla- osztályba |
 
 | 7. számlaosztály |
 
-| 7 | E | ― | ― | T |  | K |  |  | 591 |
+| 7 | E | Z | Z | T |  | K |  |  | 591 |
 
 | 8. számlaosztály |
 
-| 8 | E | ― | ― | T |  | K |  |  | 492 |
+| 8 | E | Z | Z | T |  | K |  |  | 492 |
 
 | 9. számlaosztály |
 
-| 9 | F | ― | ― | K |  | T |  | T | 492 |
+| 9 | F | Z | Z | K |  | T |  | T | 492 |
 
 | Nyilvántartási ellenszámlák: |
 
-| 001 |  | ― | ― | T/K | 05(1)/ 09(1) | T/K | 05(1)/ 09(1) | T/K | 05(1)/ 09(1) |
+| 001 |  | Z | Z | T/K | 05(1)/ 09(1) | T/K | 05(1)/ 09(1) | T/K | 05(1)/ 09(1) |
 
 | 002 | E | T | 05(2) | T |  | K |  | K | 05(2) |
 
-| 003 | F | ― | ― | K |  | T |  | T | 05(3) |
+| 003 | F | Z | Z | K |  | T |  | T | 05(3) |
 
 | 004 | F |  | 09(2) | K |  | T |  | T | 09(2) |
 
-| 005 | E | ― | ― | T |  | K |  | K | 09(3) |
+| 005 | E | Z | Z | T |  | K |  | K | 09(3) |
 
 | 006 | F | K | 01-04 | K |  | T |  | T | 01-04 |
 
@@ -400,7 +402,7 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 ## H) Tárgyi eszközök idegen kivitelezővel végzett felújítása elszámolása
 
-## A II. fejezet A) Vásárlás elszámolása cím szerint, azzal az eltéréssel, hogy a 151. könyvviteli számla helyett a 152. könyvviteli számlát, az általános forgalmi adó elszámolására a K74. rovathoz kapcsolódó nyilvántartási számlát kell használni.
+## A II. Fejezet A) Vásárlás elszámolása cím szerint, azzal az eltéréssel, hogy a 151. könyvviteli számla helyett a 152. könyvviteli számlát, a K61–64. rovatok helyett a K71–73. rovatokhoz kapcsolódó nyilvántartási számlákat, az általános forgalmi adó elszámolására a K74. rovathoz kapcsolódó nyilvántartási számlákat kell használni.
 
 ## I) Tárgyi eszközök saját kivitelezésben végzett felújítása elszámolása
 
@@ -418,7 +420,7 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 ## K) Bérbe adott, használatba adott eszközön a bérlő, használó által ingyenesen végzett felújítás elszámolása
 
-| Az e fejezet Növekedések A) Térítés nélkül, ajándékként, hagyatékként kapott, többletként fellelt immateriális javak, tárgyi eszközök elszámolása cím szerint, azzal az eltéréssel, hogy a 11/121-141. könyvviteli számlák helyett a 152. könyvviteli számlát és a K351. rovat helyett a K67. rovatot kell használni. |
+| Az e fejezet Növekedések A) Térítés nélkül, ajándékként, hagyatékként kapott, többletként fellelt immateriális javak, tárgyi eszközök elszámolása cím szerint, azzal az eltéréssel, hogy a 11/121-141. könyvviteli számlák helyett a 152. könyvviteli számlát és a K351. rovat helyett a K74. rovatot kell használni. |
 
 ## L) Idegen eszközön végzett felújítások átadásának elszámolása
 
@@ -578,7 +580,7 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 | 2. Értékhelyesbítés kivezetése a pénzügyi számvitel szerint | T415 | – | K116-146 |
 
-| 3. Bruttó érték kivezetése a pénzügyi számvitel szerint | T412 | – | K11/121-151 |
+| 3. Bruttó érték kivezetése a pénzügyi számvitel szerint | T412 | – | K11/121– 151/152 |
 
 | 4. Az eszközhöz kapcsolódó időbeli elhatárolás kivezetése a pénzügyi számvitel szerint | T443 | – | K412 |
 
@@ -744,7 +746,7 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 4. Részesedés, értékpapírt átadása értékesítésre az MNV Zrt. részére az Áht. 100. §-a szerinti esetben: a III. fejezet Növekedések M) Követelés fejében átvett immateriális javak, tárgyi eszközök elszámolása 4. és 5. pontja szerint |
 
-## E) Térítés nélküli átvett, ajándékba kapott, hagyatékként átvett részesedések, értékpapírok elszámolása
+## E) Térítés nélkül átvett, ajándékba kapott, hagyatékként átvett részesedések, értékpapírok elszámolása
 
 | 1. Az eszköz átvétele a pénzügyi számvitel szerint | T16/17/24 | – | K9323/9324/ 9331/9332/ 9353 |
 
@@ -756,7 +758,7 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 ## G) Alaptőkén, törzstőkén felüli saját tőke terhére történő tőkeemelés elszámolása
 
-## E fejezet Növekedések E) Térítés nélküli átvett, ajándékba kapott, hagyatékként átvett részesedések, értékpapírok elszámolása cím szerint
+## E fejezet Növekedések E) Térítés nélkül átvett, ajándékba kapott, hagyatékként átvett részesedések, értékpapírok elszámolása cím szerint
 
 ## H) Részesedések elszámolása alapításkor, tőkeemeléskor nem pénzbeli hozzájárulás teljesítésekor
 
@@ -1462,7 +1464,7 @@ SZEMÉLYI JUTTATÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 1. Megelőlegezett társadalombiztosítási és családtámogatási ellátások a pénzügyi számvitel szerint | T3657 | – | K32/33 |
 
-| 2. Az Egészségbiztosítási Pénztártól elszámolás alapján a következő hónapban érkezett megtérítés a pénzügyi számvitel szerint (kifizetőhelyi költségtérítés + megelőlegezett ellátások –munkáltatót terhelő táppénz hozzájárulás) | T33 | – | K3657 |
+| 2. Az Egészségbiztosítási Alap kezelő szervének elszámolása alapján a következő hónapban érkezett megtérítés a pénzügyi számvitel szerint (kifizetőhelyi költségtérítés + megelőlegezett ellátások –munkáltatót terhelő táppénz hozzájárulás) | T33 | – | K3657 |
 
 | 3. Kifizetőhelyi költségtérítés elszámolása költségvetési számvitel szerint |
 
@@ -1660,7 +1662,7 @@ IX. FEJEZET
 
 | b) A kötelezettség és követelés összevezetéseként | T42 | – | K3511 |
 
-## B) Az önkormányzat költségvetési szervénél (kivéve OEP nettó kör)
+## B) Az önkormányzat költségvetési szervénél (kivéve Egészségbiztosítási Alapból finanszírozott költségvetési szervek)
 
 | 1. Irányító szervi támogatás jóváírása a költségvetési számvitel szerint: a VII. fejezet B) Központi, irányító szervi támogatás elszámolása cím 4. és 5. pontja szerint |
 
@@ -1704,15 +1706,15 @@ IX. FEJEZET
 
 | 1. Nettó finanszírozás elszámolása a Kincstárnál a pénzügyi számvitel szerint |
 
-| a) A helyi önkormányzatokat megillető támogatások lebonyolítási számlán történő jóváírásának elszámolása | T3312 | – | K3672 |
+| a) A helyi önkormányzatokat megillető támogatások támogatási számlán történő jóváírásának elszámolása | T3312 | – | K3672 |
 
-| b) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások elszámolása | T3312 | – | K3657 |
+| b) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások fedezetének jóváírása | T3312 | – | K3657 |
 
 | c) Közteher és egyéb fizetési kötelezettség (munkáltatót terhelő, munkavállalótól levont adó és járulékok stb.) teljesítése | T3672 | – | K3312 |
 
-| d) A nettósítás során a helyi önkormányzatokat megillető támogatásból levont forgótőke visszapótlás kiutalása a megyei igazgatóságok lebonyolítási számláira | T3672 | – | K3312 |
+| d) A nettósítás során a helyi önkormányzatokat megillető támogatásból levont forgótőke visszapótlás kiutalása a megyei igazgatóságok forgótőke elszámolási számláira | T3672 | – | K3312 |
 
-| e) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások részének kiutalása a megyei igazgatóságok lebonyolítási számláira | T3657 | – | K3312 |
+| e) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások részének kiutalása a megyei igazgatóságok forgótőke elszámolási számláira | T3657 | – | K3312 |
 
 | f) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások részének kiutalása a helyi önkormányzatok fizetési számláira | T3657 | – | K3312 |
 
@@ -1720,27 +1722,27 @@ IX. FEJEZET
 
 | 2. Kapcsolódó tétel: Amennyiben az önkormányzatok közteher és egyéb fizetési kötelezettség (munkáltatót terhelő, munkavállalótól levont adó és járulékok stb.) teljesítéséhez megelőlegezés szükséges, annak elszámolása a VII. fejezet C) Államháztartáson belüli megelőlegezések elszámolása cím szerint történik. |
 
-| 3. Nettó finanszírozás elszámolása a megyei igazgatóságoknál pénzügyi számvitel szerint |
+| 3. Nettó finanszírozás elszámolása a Kincstárnál pénzügyi számvitel szerint |
 
-| a) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások lebonyolítási számlán történő jóváírásának elszámolása (megyei igazgatóság által teljesített rész) | T3312 | – | K3657 |
+| a) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások forgótőke elszámolási számláin történő jóváírásának elszámolása (megyei igazgatóság által teljesített rész) | T3312 | – | K3657 |
 
-| b) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások kifizetésének elszámolása jogosult felé (megyei igazgatóság által teljesített rész) | T3657 | – | K3312 |
+| b) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások kifizetésének elszámolása a jogosult felé (megyei igazgatóság által teljesített rész) | T3657 | – | K3312 |
 
 ## D) Nettó finanszírozáshoz kapcsolódó forgótőke elszámolása
 
-| 1. Nettó finanszírozáshoz kapcsolódó forgótőke elszámolása a megyei igazgatóságoknál a pénzügyi számvitel szerint |
+| 1. A megyei igazgatóságok nettó finanszírozáshoz kapcsolódó forgótőke elszámolása a Kincstárnál a pénzügyi számvitel szerint |
 
 | a) Forgótőke feltöltési kötelezettség jóváírása | T3312 | – | K3674 |
 
-| b) A havi nettósítás során a helyi önkormányzatokat megillető támogatásból levont forgótőke visszapótlás átutalása a megyei igazgatóságok lebonyolítási számláira | T3312 | – | K3674 |
+| b) A havi nettósítás során a helyi önkormányzatokat megillető támogatásból levont forgótőke visszapótlás átutalása a megyei igazgatóságok forgótőke elszámolási számláira | T3312 | – | K3674 |
 
-| c) A helyi önkormányzat, helyi önkormányzat irányítása alá tartozó költségvetési szerv (OEP nettó kör) által a megyei igazgatóságok lebonyolítási számláira beutalt (havi vagy negyedéves) forgótőke összegének jóváírása | T3312 | – | K3674 |
+| c) A helyi önkormányzat, helyi önkormányzat irányítása alá tartozó költségvetési szerv által a megyei igazgatóságok forgótőke elszámolási számláira beutalt (havi vagy negyedéves) forgótőke összegének jóváírása | T3312 | – | K3674 |
 
-| d) Visszajáró forgótőke helyi önkormányzat, helyi önkormányzat irányítása alá tartozó költségvetési szerv (OEP nettó kör) részére történő átutalásának elszámolása | T3674 | – | K3312 |
+| d) Visszajáró forgótőke helyi önkormányzat, helyi önkormányzat irányítása alá tartozó költségvetési szerv részére történő átutalásának elszámolása | T3674 | – | K3312 |
 
 | e) A forgótőke havi felhasználásának (munkabér, levonások, letiltások stb. elutalása jogosult részére) elszámolása | T3674 | – | K3312 |
 
-| f) Év végén a forgótőke összegének visszautalása a helyi önkormányzat, helyi önkormányzat irányítása alá tartozó költségvetési szerv (OEP nettó kör) részére | T3674 | – | K3312 |
+| f) Év végén a forgótőke összegének visszautalása a helyi önkormányzat, helyi önkormányzat irányítása alá tartozó költségvetési szerv részére | T3674 | – | K3312 |
 
 | 2. Nettó finanszírozáshoz kapcsolódó forgótőke elszámolása a helyi önkormányzatnál, helyi önkormányzat irányítása alá tartozó költségvetési szerveknél a pénzügyi számvitel szerint |
 
@@ -2504,7 +2506,7 @@ EGYÉB GAZDASÁGI ESEMÉNYEK ELSZÁMOLÁSAI
 
 | 6. Mérlegforduló napjáig le nem zárt fedezeti célú kamat swap ügylet Szt. 32. § (5) bekezdés a) pontja szerinti értékének, valamint b) és e) pontja szerint nyereségének elszámolása a pénzügyi számvitel szerint | T371 | – | K934 |
 
-| 7. Mérlegforduló napjáig le nem zárt fedezeti célú kamat swap ügyletnek nem minősülő fedezeti ügylet Szt. 32. § (5) bekezdés a) pontja szerinti értékének, és e) pontja szerint nyereségének elszámolása a pénzügyi számvitel szerint | T371 | – | K9335 |
+| 7. Mérlegforduló napjáig le nem zárt fedezeti célú kamat swap ügyletnek nem minősülő fedezeti ügylet Szt. 32. § (5) bekezdés a) pontja szerinti értékének, és e) pontja szerinti nyereségének elszámolása a pénzügyi számvitel szerint | T371 | – | K9353 |
 
 | 8. Mérlegforduló napjáig lezárt fedezeti célú kamat swap ügylet veszteségének elszámolása a költségvetési számvitel szerint |
 
@@ -2732,7 +2734,7 @@ A) A megszűnő költségvetési szervnél
 
 | a) Kötelezettségként | T8435 | – | K4215 |
 
-| b) Teljesítéseként | T4215 | – | 3673 |
+| b) Teljesítéseként | T4215 | – | K3673 |
 
 | 7. Kapcsolódó tételek: a záró beszámoló elkészültét követően a XIII. fejezet szerinti zárlati feladatok könyvelési lépései |
 
@@ -2758,7 +2760,7 @@ B) Beolvadás illetve jogutód nélküli megszűnés esetén a jogutód, illetve
 
 | 10. A nemzeti vagyon induláskori értéke megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 | – | K411 |
 
-| 11 A nemzeti vagyon változása megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495/412 | – | K412/495 |
+| 11. A nemzeti vagyon változása megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495/412 | – | K412/495 |
 
 | 12. Az egyéb eszközök induláskori értéke és változásai megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 T4133 | – | K4133 K495 |
 
@@ -2784,11 +2786,11 @@ B) Beolvadás illetve jogutód nélküli megszűnés esetén a jogutód, illetve
 
 | d) Kötelezettségvállalások, más fizetési kötelezettségek nyilvántartásba vétele a költségvetési számvitel szerint | T002 | – | K05(2) |
 
-| e) Kötelezettségek megszűnőnél kimutatott érétkének bekerülési értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 | – | K42 |
+| e) Kötelezettségek megszűnőnél kimutatott értékének bekerülési értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 | – | K42 |
 
 | 19. |  |  |  |
 
-| 20. Megszűnt költségvetési szerve záró pénzkészletének átvétele | T31-33 T495 | – | K495 K318/3318/3328 |
+| 20. Megszűnt költségvetési szerv záró pénzkészletének átvétele | T31-33 T495 | – | K495 K318/3318/3328 |
 
 | 21. A megszűnő költségvetési szerv korrigált záró pénzkészletének elszámolása a megszűnés fordulónapjára pénzforgalom nélküli támogatásként a költségvetési számvitel szerint |
 
@@ -3010,4 +3012,4 @@ G) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 
 | 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat korrigált záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján] |
 
-[^1]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1. pontja és 2. §-a szerint módosított szöveg.
