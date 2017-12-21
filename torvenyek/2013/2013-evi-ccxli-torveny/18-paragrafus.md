@@ -8,18 +8,22 @@ b) összehívja és vezeti a Bizottság ülését,
 
 c) meghatározza a Bizottság ülésezési rendjét,
 
-d) javaslatot tesz a Bizottság ügyrendjére, üléseinek napirendjére,
+d) meghatározza a Bizottság üléseinek napirendjét,
 
-e) javaslatot tesz a Bizottság tagjai által vezetett munkacsoportok összetételére,
+e) a Bizottság tagjai véleményének figyelembevételével meghatározza az éves kutatási munkatervek alapján létrehozott, a Bizottság tagjai által vezetett munkacsoportok összetételét és működési rendjét,
 
-f) javaslatot tesz a Bizottság és a Hivatal éves kutatási munkatervére,
+f) meghatározza a Bizottság és a Hivatal éves kutatási munkatervét, valamint az egyes kutatási témacsoportokat,
 
 g) képviseli a Bizottságot az Országgyűlés és más szervek előtt,
 
 h) irányítja a Hivatalt,
 
-i) ellátja azokat a feladatokat, amelyeket a Bizottság ügyrendje számára előír,
+i) feladat elvégzésére vagy mulasztás pótlására utasíthatja a Hivatal főigazgatóját,
 
-j) kiadja a Hivatal alapító okiratát és jóváhagyja a Hivatal Szervezeti és Működési Szabályzatát, valamint
+j) kiadja a Bizottság ügyrendjét, a Hivatal alapító okiratát, és jóváhagyja a Hivatal Szervezeti és Működési Szabályzatát,
 
-k) a Bizottság feladat- és hatáskörébe tartozó ügyben a minősített adatok védelméről szóló törvény szerinti minősítésre jogosult.
+k) a Bizottság feladat- és hatáskörébe tartozó ügyben a minősített adat védelméről szóló törvény szerinti minősítésre jogosult,
+
+l) meghatározza a Bizottság munkacsoportjai által ellátandó feladatokat,
+
+m) jóváhagyja a Bizottság pénzügyi kötelezettségvállalással járó javaslatait.

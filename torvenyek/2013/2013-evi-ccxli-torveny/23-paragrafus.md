@@ -8,7 +8,7 @@
 
 (5) A Bizottság a minősített adat minősítésének felülvizsgálata érdekében indokolt javaslatot tehet a feladat- és hatáskörrel rendelkező, minősítésre jogosult szervek felé vagy a Nemzeti Adatvédelmi és Információszabadság Hatóság elnökének. A javaslattétel tényét, a megkeresett szerv nevét és a megkeresés időpontját a Bizottság honlapján köteles a megkeresésétől számított 15 napon belül nyilvánosságra hozni.
 
-(6) A Bizottság feladata éves munkatervében a tudományos kutatói munka irányának meghatározása, illetve a kutatói munka eredményeiből jelentések összeállítása, amelyek országosan és megyénként, valamint egyes ágazatonként mutatják be a kommunista hatalom döntéshozatali mechanizmusát.
+(6) A Bizottság tagja felelős az éves kutatási munkatervben meghatározott kutatási feladatok koordinálásáért és elvégzéséért.
 
 (7) A Bizottság 20. § (1) bekezdés h) pontjában meghatározott feladata érdekében többek között vizsgálja a Munkásőrség, a Dolgozó Ifjúság Szövetsége, a Kommunista Ifjúsági Szövetség, az Ifjú Gárda, a Magyar Kommunista Párt, a Szociáldemokrata Párt, a Magyar Dolgozók Pártja, a Magyar Szocialista Munkáspárt vezetőinek szerepét. A vizsgálat kiterjed továbbá az állambiztonsági szolgálatokra, a minisztertanács tagjaira, a minisztériumok vezetőire, a fővárosi, kerületi, megyei, városi és községi tanácsok vezetőire, továbbá az állami vállalatok és intézmények vezetőire.
 

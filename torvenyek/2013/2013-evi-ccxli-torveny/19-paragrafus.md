@@ -12,6 +12,6 @@ b) a Bizottságban betöltött tagsága megszűnésével,
 
 c) lemondással.
 
-(5) Az elnökhelyettes az elnökhelyettesi megbízatásról való lemondást a Bizottság elnökével írásban közli. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni, a megbízatás a lemondás benyújtásának napjával szűnik meg.
+(5) Az elnökhelyettes az elnökhelyettesi megbízatásról való lemondását a Bizottság elnökével írásban közli. A lemondást nem kell indokolni. A megbízatás a lemondást elfogadó elnöki nyilatkozatban meghatározott napon, de legkésőbb a lemondásnak a Bizottság elnökével való közlésétől számított 10. napon szűnik meg.
 
 (6) Az elnökhelyettesi megbízatás (4) bekezdés a) vagy c) pontja szerinti megszűnése az elnökhelyettes Bizottságban betöltött tagságát nem érinti.

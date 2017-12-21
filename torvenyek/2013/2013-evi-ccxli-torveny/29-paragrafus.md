@@ -28,4 +28,4 @@ volt.
 
 (3) A köztisztviselő vagy munkavállaló a kinevezés elfogadásával, illetve a munkaszerződés aláírásával egyidejűleg nyilvános írásbeli nyilatkozatot tesz a (2) bekezdésben foglalt tevékenység végzéséről illetve tisztség betöltéséről.
 
-(4) A (2) és (3) bekezdésben meghatározott összeférhetetlenségi szabályokat a Bizottság vagy a Hivatal által – a Bizottság alaptevékenységével összefüggő feladatra – felkért szakértőre és megbízási jogviszonyban foglalkoztatott más közreműködőre is alkalmazni kell.
+(4)
