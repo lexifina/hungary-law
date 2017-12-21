@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-200-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2017-12-21 | 2017. évi CC. törvény | 2017-200-00-00.0 (közlönyállapot) |
+| 2017-12-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-200-00-00.1 |
