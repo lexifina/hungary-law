@@ -4,4 +4,4 @@
 
 (3) Az országos önkormányzat a szervezeti és működési szabályzatában részletesen szabályozza az országos nemzetiségi önkormányzat hivatala működését.
 
-(4) Az országos nemzetiség önkormányzat foglalkoztatottjainak jogviszonyára (ide nem értve a munkavégzésre irányuló egyéb jogviszonyokat) a közszolgálati tisztségviselők jogállásáról szóló törvény rendelkezéseit kell alkalmazni.
+(4) Az országos nemzetiségi önkormányzat hivatala foglalkoztatottjainak jogviszonyára (ide nem értve a munkavégzésre irányuló egyéb jogviszonyokat) a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.

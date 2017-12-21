@@ -4,7 +4,7 @@
 
 (2) Az országos önkormányzat közgyűlése, amennyiben nem társadalmi megbízatású elnököt, elnökhelyettest vagy elnökhelyetteseket választ, illetményt állapít meg tisztségviselői részére.
 
-(3) A helyi nemzetiségi önkormányzat elnökének tiszteletdíja nem lehet magasabb, mint a mindenkori illetményalap, a természetbeni juttatás pedig az illetményalap ötven százaléka.
+(3) A települési nemzetiségi önkormányzat elnökének tiszteletdíja nem lehet magasabb, mint a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap kétszerese, ha köznevelési intézményt is tart fenn az önkormányzat, akkor a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap négyszerese, a területi nemzetiségi önkormányzat elnökének tiszteletdíja nem lehet magasabb, mint a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap négyszerese, ha köznevelési intézményt is tart fenn az önkormányzat, akkor a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap hatszorosa, a természetbeni juttatás pedig az illetményalappal megegyező mértékű.
 
 (4) A tiszteletdíj mértéke legfeljebb ötven százalékkal megemelhető, amennyiben a képviselő tanácsnoki, bizottsági elnöki vagy tagsági feladatot is ellát.
 

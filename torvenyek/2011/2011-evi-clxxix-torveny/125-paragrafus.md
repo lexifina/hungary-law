@@ -2,7 +2,7 @@
 
 (2) A törzsvagyon körébe tartozó vagyonrészek közül
 
-a) forgalomképtelen az állam vagy a helyi önkormányzat által a nemzetiségi önkormányzat tulajdonába adott ingatlan, ingatlanrész, az nemzetiségi önkormányzat működését és kötelező feladatainak ellátását szolgáló nem az állam által tulajdonba adott ingatlan vagyon, vagyonrész, vagyoni értékű jog, továbbá minden más olyan ingatlan vagyon, vagyonrész, vagyoni értékű jog, amelyet törvény vagy a nemzetiségi önkormányzat át nem ruházható hatáskörében, minősített többséggel meghozott határozatában annak nyilvánít,
+a) forgalomképtelen az állam vagy a helyi önkormányzat által a nemzetiségi önkormányzat tulajdonába adott ingatlan, ingatlanrész, a nemzetiségi önkormányzat működését és kötelező feladatainak ellátását szolgáló nem az állam által tulajdonba adott ingatlan vagyon, vagyonrész, vagyoni értékű jog, továbbá minden más olyan ingatlan vagyon, vagyonrész, vagyoni értékű jog, amelyet törvény vagy a nemzetiségi önkormányzat át nem ruházható hatáskörében, minősített többséggel meghozott határozatában annak nyilvánít,
 
 b) korlátozottan forgalomképesek a törzsvagyonhoz tartozó mindazon vagyonrészek, amelyek nem tartoznak az a) pontban meghatározott vagyonhoz.
 

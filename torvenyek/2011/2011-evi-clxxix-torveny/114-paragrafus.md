@@ -6,7 +6,7 @@ b) bizottság létrehozásáról,
 
 c) bírósági ülnökök megválasztásáról,
 
-d) költségvetéséről és zárszámadásáról, ellátja továbbá az ezzel kapcsolatos, az államháztartás működési rendjére vonatkozó jogszabályok szerinti adatszolgáltatási teendőket,
+d) költségvetéséről és zárszámadásáról,
 
 e) hatáskörébe tartozó kinevezésről, vezető megbízásról,
 

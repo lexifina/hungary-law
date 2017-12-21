@@ -1,6 +1,6 @@
-80. § (1) A települési önkormányzat hivatala, illetve az a hivatal, amelyik a helyi nemzetiségi önkormányzat székhelye szerinti helyi önkormányzat önkormányzati hivatali feladatát ellátja a helyi nemzetiségi önkormányzat részére biztosítja az önkormányzati működés személyi és tárgyi feltételeit, továbbá gondoskodik a működéssel kapcsolatos végrehajtási feladatok ellátásáról. Az önkormányzati működés feltételei és az ezzel kapcsolatos végrehajtási feladatok:
+80. § (1) A települési önkormányzat, illetve az a hivatal, amelyik a helyi nemzetiségi önkormányzat székhelye szerinti helyi önkormányzat önkormányzati hivatali feladatát ellátja, biztosítja a helyi nemzetiségi önkormányzat részére az önkormányzati működés személyi és tárgyi feltételeit, szakmai segítséget nyújt, továbbá gondoskodik a működéssel kapcsolatos gazdálkodási és adminisztratív végrehajtási feladatok ellátásáról. Az önkormányzati működés feltételei és az ezzel kapcsolatos végrehajtási feladatok:
 
-a) a helyi nemzetiségi önkormányzat részére havonta igény szerint, de legalább tizenhat órában, az önkormányzati feladat ellátásához szükséges tárgyi, technikai eszközökkel felszerelt helyiség ingyenes használata, a helyiséghez, továbbá a helyiség infrastruktúrájához kapcsolódó rezsiköltségek és fenntartási költségek viselése;
+a) a helyi nemzetiségi önkormányzat részére annak saját székhelyén havonta igény szerint, de legalább harminckét órában, az önkormányzati feladat ellátásához szükséges tárgyi, technikai eszközökkel felszerelt helyiség ingyenes használata, a helyiséghez, továbbá a helyiség infrastruktúrájához kapcsolódó rezsiköltségek és fenntartási költségek viselése;
 
 b) a helyi nemzetiségi önkormányzat működéséhez (a testületi, tisztségviselői, képviselői feladatok ellátásához) szükséges tárgyi és személyi feltételek biztosítása;
 
@@ -8,7 +8,7 @@ c) a testületi ülések előkészítése, különösen a meghívók, az előter
 
 d) a testületi döntések és a tisztségviselők döntéseinek előkészítése, a testületi és tisztségviselői döntéshozatalhoz kapcsolódó nyilvántartási, sokszorosítási, postázási feladatok ellátása;
 
-e) a helyi nemzetiségi önkormányzat működésével, gazdálkodásával kapcsolatos nyilvántartási, iratkezelési feladatok ellátása;
+e) a helyi nemzetiségi önkormányzat működésével, gazdálkodásával kapcsolatos nyilvántartási, adatszolgáltatási, iratkezelési feladatok ellátása;
 
 f) a jelnyelv és a speciális kommunikációs rendszer használatának biztosítása, és
 
@@ -24,7 +24,7 @@ b) a helyi nemzetiségi önkormányzat kötelezettségvállalásaival kapcsolato
 
 c) a helyi nemzetiségi önkormányzat kötelezettségvállalásának a szervezeti és működési szabályzatban meghatározott szabályait, különösen az összeférhetetlenségi, nyilvántartási kötelezettségeket,
 
-d) a helyi nemzetiségi önkormányzat működési feltételeinek és gazdálkodásának eljárási és dokumentációs részletszabályaival, valamint az ezeket végző személyek kijelölésének rendjével, és az adatszolgáltatási feladatok teljesítésével kapcsolatos előírásokat, feltételeket.
+d) a helyi nemzetiségi önkormányzat működési feltételeinek és gazdálkodásának eljárási és dokumentációs részletszabályaival, a belső ellenőrzéssel, valamint az ezeket végző személyek kijelölésének rendjével, és az adatszolgáltatási feladatok teljesítésével kapcsolatos előírásokat, feltételeket.
 
 (4) A helyi önkormányzat és a helyi nemzetiségi önkormányzat megállapodásban rögzíteni kell, hogy a jegyző vagy annak – a jegyzővel azonos képesítési előírásoknak megfelelő – megbízottja a helyi önkormányzat megbízásából és képviseletében részt vesz a nemzetiségi önkormányzat testületi ülésein és jelzi, amennyiben törvénysértést észlel.
 

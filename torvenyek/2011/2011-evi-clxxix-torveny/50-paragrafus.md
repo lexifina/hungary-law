@@ -1,3 +1,7 @@
+## VI. Fejezet
+
+## A nemzetiségi önkormányzat
+
 ## A nemzetiségek önkormányzatai
 
 50. § Az egyes nemzetiségek közvetlen választással

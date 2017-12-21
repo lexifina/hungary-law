@@ -14,7 +14,7 @@ f) az átvett pénzeszközök.
 
 (2) Az állam a központi költségvetésről szóló törvényben meghatározott mértékben támogatást nyújt
 
-a) a nemzetiségi önkormányzatok részére a nemzetiségi közfeladatok ellátásához, feladatfinanszírozási rendszer keretében,
+a) a nemzetiségi önkormányzatok részére a nemzetiségi közfeladatok ellátásához,
 
 b) a nemzetiségek oktatási és kulturális önigazgatása, a nemzetiségi kulturális autonómia körében megvalósuló tevékenységekhez, projektekhez,
 

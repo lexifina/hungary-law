@@ -8,7 +8,7 @@ b) a nemzetiségi önkormányzat elnevezését, jelképeit, az általa képvisel
 
 c) vagyonleltárát, törzsvagyona körét és a tulajdonát képező vagyon használatának szabályait,
 
-d) a használatába adott, egyéb módon rendelkezésére bocsátott állami vagy helyi önkormányzati vagyon használatára, működtetésére vonatkozó szabályokat, továbbá e körben megköti a szükséges megállapodásokat,
+d) a használatába adott, tulajdonba vagy vagyonkezelésbe vett, egyéb módon rendelkezésére bocsátott állami vagy önkormányzati vagyon kezelésére, használatára, működtetésére vonatkozó szabályokat, továbbá e körben megköti a szükséges megállapodásokat,
 
 e) gazdálkodó és más szervezet alapítását vagy az ezekben való részvételt,
 

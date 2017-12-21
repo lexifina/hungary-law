@@ -8,7 +8,7 @@ A nyilatkozatot adó személye
 
 1. A nyilatkozatot adó:
 
-a) helyi önkormányzati képviselő, polgármester, alpolgármester (a továbbiakban együtt: képviselő)
+a) nemzetiségi önkormányzati képviselő, elnök, elnökhelyettes (a továbbiakban együtt: képviselő)
 
 b) a képviselővel közös háztartásban élő házas- vagy élettárs (a továbbiakban: házas-/élettárs)
 
@@ -216,7 +216,7 @@ devizában (forintértéken):
 
 b) más szerződés alapján fennálló pénzkövetelés összege: Ft
 
-9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke a mindenkori képviselői alapdíj hathavi összegét meghaladja:
+9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke a közszolgálati tisztviselőkről szóló törvény szerinti illeményalap hathavi összegét meghaladja:
 
 megnevezés:
 

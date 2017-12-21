@@ -1,3 +1,7 @@
+## VIII. Fejezet
+
+## A nemzetiségi önkormányzat megszűnése
+
 ## A jogutódlás és az ideiglenes vagyonkezelés
 
 138. § (1) A bármely módon megszűnő nemzetiségi önkormányzat jogutóda a soron következő általános választáson újonnan választott, megalakult nemzetiségi önkormányzat.

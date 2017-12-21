@@ -1,1 +1,1 @@
-127. § Az országos nemzetiségi önkormányzatok által működtetett intézmények – amennyiben a fenntartói jog átadásáról szóló megállapodás eltérően nem rendelkezik – a normatív és egyéb hozzájárulások tekintetében az egyházi jogi személlyel azonos elbírálás alá esnek.
+127. § A nemzetiségi önkormányzatok által működtetett intézmények – amennyiben a fenntartói jog átadásáról szóló megállapodás eltérően nem rendelkezik – a költségvetési támogatások tekintetében az egyházi jogi személlyel azonos elbírálás alá esnek.
