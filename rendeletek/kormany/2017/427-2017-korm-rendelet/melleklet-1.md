@@ -1,3 +1,3 @@
-1. melléklet a 427/2017. (XII. 19.) Korm. rendelethez
+1. melléklet a 427/2017. (XII. 19.) Korm. rendelethez[^13]
 
-Hatályát veszti az 549/2013. (XII. 30.) Korm. rendelet 1. mellékletében foglalt táblázat 34–36. sora.
+[^13]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
