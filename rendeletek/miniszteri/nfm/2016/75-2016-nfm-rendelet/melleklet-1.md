@@ -1,4 +1,4 @@
-## 40. §[^1]
+## 40. §[^4]
 
 1. melléklet a 75/2016. (XII. 29.) NFM rendelethez
 
@@ -368,4 +368,4 @@ c) menetíró szerelői és menetíró ellenőri képzésnek megfelelő menetír
 
 rendelkezésre állása.
 
-[^1]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
