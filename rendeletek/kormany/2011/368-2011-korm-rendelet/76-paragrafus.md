@@ -26,5 +26,8 @@ k) a támogatási szerződés felmondásának, illetve az attól történő elá
 
 (3)[^313] A (2) bekezdést nem kell alkalmazni a Kormány által kihirdetett, tömeges bevándorlás okozta válsághelyzet kapcsán végzett humanitárius tevékenységgel összefüggésben nyújtott költségvetési támogatásokra.
 
+(4)[^314] Ha a fejlesztési, beruházási célú költségvetési támogatásból származó átmenetileg szabad pénzeszközt a helyi önkormányzat kedvezményezett állampapír vásárlásával hasznosítja, a támogatási szerződés előírhatja a lekötés időtartamáról szóló dokumentum benyújtásának kötelezettségét.
+
 [^312]: Az Ávr. 76. § (1) bekezdés a) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
 [^313]: Az Ávr. 76. § (3) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^314]: Az Ávr. 76. § (4) bekezdését a 436/2017. (XII. 22.) Korm. rendelet 2. §-a iktatta be.

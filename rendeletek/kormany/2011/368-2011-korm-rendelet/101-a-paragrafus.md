@@ -1,4 +1,4 @@
-101/A. §[^347] (1) A Kormány egyedi határozata alapján, mérlegelést nem igénylő támogatási döntéssel nyújtott, vissza nem térítendő költségvetési támogatásokra
+101/A. §[^349] (1) A Kormány egyedi határozata alapján, mérlegelést nem igénylő támogatási döntéssel nyújtott, vissza nem térítendő költségvetési támogatásokra
 
 a) e fejezet rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni,
 
@@ -52,11 +52,11 @@ e) a 76. § (1) bekezdés e) és i) pontját nem kell alkalmazni.
 
 (10) A kedvezményezett a támogatott tevékenység részletes bemutatását és a 76. § (1) bekezdés d) pontja szerinti költségtervet a támogatói okirat kiadásától számított hatvan napon belül küldi meg a támogatónak.
 
-(10a)[^348] A támogatási előlegként nyújtott költségvetési támogatást – a Kormány eltérő rendelkezése hiányában – a Kormány egyedi határozatának közzétételét követő tizenöt napon belül kell folyósítani.
+(10a)[^350] A támogatási előlegként nyújtott költségvetési támogatást – a Kormány eltérő rendelkezése hiányában – a Kormány egyedi határozatának közzétételét követő tizenöt napon belül kell folyósítani.
 
 (11) A kedvezményezett a megvalósításba a támogató előzetes tájékoztatása esetén vonhat be közreműködőket.
 
 (12) Az e § szerinti költségvetési támogatásokra a 81. § d) pontját és a 85. § (3) bekezdés első mondatát nem kell alkalmazni.
 
-[^347]: Az Ávr. 101/A. §-át a 425/2016. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
-[^348]: Az Ávr. 101/A. § (10a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 3. §-a iktatta be.
+[^349]: Az Ávr. 101/A. §-át a 425/2016. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^350]: Az Ávr. 101/A. § (10a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 3. §-a iktatta be.

@@ -62,3 +62,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2017-08-12 | 2011-368-20-22.54 | 224/2017. (VIII. 11.) Korm. rendelet |
 | 2017-11-01 | 2011-368-20-22.55 | 311/2017. (X. 31.) Korm. rendelet |
 | 2017-12-20 | 2011-368-20-22.56 | 426/2017. (XII. 19.) Korm. rendelet |
+| 2017-12-22 | 2011-368-20-22.57 | 436/2017. (XII. 22.) Korm. rendelet |
