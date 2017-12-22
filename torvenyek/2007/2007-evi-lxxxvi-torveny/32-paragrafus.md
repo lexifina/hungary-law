@@ -2,6 +2,6 @@
 
 (2) Az elosztó hálózati veszteség pótlásához szükséges villamos energia beszerzésének feltételeit a pályázat kiírását megelőzően, külön jogszabályban meghatározott módon nyilvánosságra kell hozni.
 
-(3) Az elosztó jogosult az elosztó hálózati veszteség pótlásához beszerzett, a tényleges veszteség mértékét meghaladó villamos energiát a szervezett villamosenergia-piacon értékesíteni. Az értékesítésből származó árbevételt az elosztó könyvvezetésében köteles külön kimutatni. Az így keletkezett bevételt a Hivatal a rendszerhasználati díjak meghatározásakor díjcsökkentő tételként veszi figyelembe.
+(3) Az elosztó jogosult az elosztó hálózati veszteség pótlásához beszerzett, a tényleges veszteség mértékét meghaladó villamos energiát a szervezett villamosenergia-piacon és a villamos energiához kapcsolódó származtatott ügylettel kereskedést biztosító, a tőkepiacról szóló 2001. évi CXX. törvény szerinti szabályozott piacon értékesíteni. Az értékesítésből származó árbevételt az elosztó könyvvezetésében köteles külön kimutatni. Az így keletkezett bevételt a Hivatal a rendszerhasználati díjak meghatározásakor díjcsökkentő tételként veszi figyelembe.
 
 (4) Az elosztó (3) bekezdés szerinti tevékenysége nem minősül kereskedelemnek.

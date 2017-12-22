@@ -1,6 +1,6 @@
 117. § (1)
 
-(2) A Hatóság eljárása során az ügyintézés határideje két hónap.
+(2)
 
 (2a) A szélerőmű vagy szélerőmű park építési engedélyezési eljárásában és használatbavételi engedélyezési eljárásában közreműködő, a környezeti, természeti, településfejlesztési és településrendezési hatásokkal összefüggő szakkérdések vizsgálatára kijelölt szakhatóság ügyintézési határideje 60 nap.
 

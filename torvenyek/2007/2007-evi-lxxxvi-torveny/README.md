@@ -71,3 +71,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2017-09-01 | 2017. évi LVII. törvény | 2007-86-00-00.76 |
 | 2017-11-11 | 2017. évi CXXXVII. törvény | 2007-86-00-00.77 |
 | 2017-12-01 | 2017. évi CXXXVII. törvény | 2007-86-00-00.78 |
+| 2017-12-22 | 2017. évi CCVIII. törvény | 2007-86-00-00.79 |
