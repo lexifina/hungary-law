@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-2001-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-21 | 2017-2001-30-22.1 | 2001/2017. (XII. 21.) Korm. határozat |
+| 2017-12-22 | 2017-2001-30-22.2 | 2010: CXXX. törvény |
