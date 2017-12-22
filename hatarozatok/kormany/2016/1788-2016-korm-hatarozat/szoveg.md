@@ -56,10 +56,18 @@ a d) alpont tekintetében 2018. szeptember 30.
 
 az e) alpont tekintetében 2018. március 31.
 
-6. felhívja a Miniszterelnökséget vezető minisztert, hogy az Országos Bírósági Hivatal elnökével együttműködve a Társaság útján gondoskodjon a Budapest V. kerület, Kossuth Lajos tér 12. alatti (24898 helyrajzi számú) épület rekonstrukciója érdekében a szükséges tervek elkészítéséről és a beruházás lebonyolításáról.
+6.[^1] felhívja a Miniszterelnökséget vezető minisztert és felkéri az Országgyűlés Hivatala főigazgatóját, hogy a Társaság útján gondoskodjanak a Budapest V. kerület, Alkotmány utca 2. és Kossuth Lajos tér 12. szám alatti, Budapest V. kerület belterület 24898 helyrajzi számú épület (a továbbiakban: Kúria épület) rekonstrukciója érdekében
 
-Felelős: Miniszterelnökséget vezető miniszter
+a) a tervezési program több változatban való elkészítéséről (figyelemmel a Kúria épületben történetileg elhelyezett igazságügyi szervezetek jelenlegi elhelyezési igényeire, az épület műszaki állapotára, a műemléki védettségéből fakadó korlátokra és a kiemelt nemzeti emlékhely sajátosságaira, a szükséges mértékben a Budapest V. kerület, Markó utca 16. szám alatti épület használatára vonatkozó javaslattal együtt),
 
-Határidő: a tervezési program elkészítésére a támogatási szerződés létrejöttét követő 8 hónap
+b) a szükséges tervek elkészítéséről, valamint
 
-az építési engedélyezési tervek elkészítésére a tervezési program elfogadását követő 8 hónap
+c) a beruházás lebonyolításáról.
+
+Felelős: Miniszterelnökséget vezető miniszter az Országgyűlés Hivatala főigazgatója bevonásával
+
+Határidő: a tervezési program elkészítésére 2018. szeptember 30.
+
+a kivitelezési tervek elkészítésére a tervezési program elfogadását és a szükséges kormányzati döntések meghozatalát követő nyolc hónap
+
+[^1]: A 6. pont a 2025/2017. (XII. 22.) Korm. határozat 2. pontjával megállapított szöveg.
