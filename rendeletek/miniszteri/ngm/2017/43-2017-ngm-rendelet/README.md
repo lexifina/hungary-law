@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-43-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-21 | 2017-43-20-2X.1 | 43/2017. (XII. 20.) NGM rendelet |
+| 2017-12-22 | 2017-43-20-2X.2 | 2010: CXXX. törvény |
