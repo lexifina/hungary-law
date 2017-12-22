@@ -1,3 +1,1 @@
-13. § Az Njtv. 109. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A települési nemzetiségi önkormányzat elnökének tiszteletdíja nem lehet magasabb, mint a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap kétszerese, ha köznevelési intézményt is tart fenn az önkormányzat, akkor a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap négyszerese, a területi nemzetiségi önkormányzat elnökének tiszteletdíja nem lehet magasabb, mint a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap négyszerese, ha köznevelési intézményt is tart fenn az önkormányzat, akkor a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap hatszorosa, a természetbeni juttatás pedig az illetményalappal megegyező mértékű.”
+### 13. §
