@@ -26,9 +26,7 @@
 
 | Dunakeszi kajak-kenu létesítmények fejlesztése | a Dunakeszi nyíltvízi edzőközpont épület beruházása és egyéb kiegészítő létesítmények megépítésének támogatása Gödön és Dunakeszin | 780 |
 
-| Szegedi multifunkcionális sportcsarnok fejlesztés | egy 6000 fős versenyaréna és egy kapcsolt 1000 fős munkacsarnok megvalósításának támogatása | 3 000 | Magyar Kézilabda Szövetség |
-
-| Kisvárdai Kézilabda Akadémia | a Kisvárdai Kézilabda Club fejlesztéseinek támogatása | 250 |
+| Kisvárdai Kézilabda Akadémia | a Kisvárdai Kézilabda Club fejlesztéseinek támogatása | 250 | Magyar Kézilabda Szövetség |
 
 | Multifunkcionális sportcsarnok Kisvárdán | a kisvárdai multifunkcionális sportcsarnok építésének támogatása | 3 500 |
 
@@ -90,4 +88,4 @@
 
 | Népliget rekonstrukciója | Fradiváros I. ütem | 10 000 | Ferencvárosi Torna Club |
 
-[^1]: Az 1. melléklet az 1251/2017. (V. 5.) Korm. határozat 9. pontja, az 1278/2017. (VI. 2.) Korm. határozat 7. pontja, az 1313/2017. (VI. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1251/2017. (V. 5.) Korm. határozat 9. pontja, az 1278/2017. (VI. 2.) Korm. határozat 7. pontja, az 1313/2017. (VI. 8.) Korm. határozat 8. pontja, a 2014/2017. (XII. 22.) Korm. határozat 8. pontja szerint módosított szöveg.
