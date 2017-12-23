@@ -1,6 +1,6 @@
 ## 4. A támogatás igénylése
 
-4. § (1)[^13] A vállalkozás a támogatási kérelmét a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon évente január 1. és 31. között, valamint július 1. és 31. között a Kincstárhoz nyújthatja be.
+4. § (1)[^15] A vállalkozás a támogatási kérelmét a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon évente január 1. és 31. között, valamint július 1. és 31. között a Kincstárhoz nyújthatja be.
 
 (2) A támogatási kérelemhez a vállalkozásnak csatolnia kell
 
@@ -8,7 +8,7 @@ a) a támogatási igényt alátámasztó számlák, számviteli bizonylatok más
 
 b) a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott nyilatkozatokat.
 
-(3)[^14] A benyújtott számlák, számviteli bizonylatok esetében az ellenérték megfizetésének dátuma legfeljebb tizenöt hónappal lehet korábbi, mint a támogatási kérelem benyújtásának időpontja.
+(3)[^16] A benyújtott számlák, számviteli bizonylatok esetében az ellenérték megfizetésének dátuma legfeljebb tizenöt hónappal lehet korábbi, mint a támogatási kérelem benyújtásának időpontja.
 
-[^13]: A 4. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 102. § b)–c) pontja szerint módosított szöveg.
-[^14]: A 4. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 75. § b) pontja szerint módosított szöveg.
+[^15]: A 4. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 102. § b)–c) pontja szerint módosított szöveg.
+[^16]: A 4. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 75. § b) pontja szerint módosított szöveg.

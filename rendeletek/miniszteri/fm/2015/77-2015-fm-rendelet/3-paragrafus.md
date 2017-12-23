@@ -2,7 +2,7 @@
 
 ## 3. § A támogatás igénybevételére az a vállalkozás jogosult, amely
 
-a)[^10] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét a Törvény alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben;
+a)[^12] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét a Törvény alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben;
 
 b) a támogatási kérelem benyújtásának időpontjában
 
@@ -12,14 +12,14 @@ bb) nem áll felszámolási, végelszámolási vagy adósságrendezési eljárá
 
 c) a támogatási kérelem benyújtásával egyidejűleg nyilatkozik
 
-ca)[^11] arról, hogy a vállalkozás és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás mekkora összegű általános csekély összegű támogatást vett igénybe a támogatási kérelem benyújtását megelőző két üzleti évben és a folyamatban lévő üzleti évben,
+ca)[^13] arról, hogy a vállalkozás és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás mekkora összegű általános csekély összegű támogatást vett igénybe a támogatási kérelem benyújtását megelőző két üzleti évben és a folyamatban lévő üzleti évben,
 
 cb) arról, hogy megfelel a b) pontban foglalt feltételeknek,
 
 cc) a hitelkérelem beadásakor bejegyzett főtevékenységről és a hitelkérelemben hitelcélként megjelölt tevékenységről és
 
-d)[^12] nyilatkozatban vállalja, hogy, ha a c) pont ca) alpontja alapján tett nyilatkozatban foglalt támogatási adatokban változás következik be a támogatási kérelem benyújtását követően – az eljárást lezáró döntés közléséig – más általános csekély összegű támogatás igénybevétele miatt, úgy arról haladéktalanul, de legfeljebb az adatváltozás bekövetkezésének napjától számított öt napon belül írásban tájékoztatja a Magyar Államkincstárt (a továbbiakban: Kincstár).
+d)[^14] nyilatkozatban vállalja, hogy, ha a c) pont ca) alpontja alapján tett nyilatkozatban foglalt támogatási adatokban változás következik be a támogatási kérelem benyújtását követően – az eljárást lezáró döntés közléséig – más általános csekély összegű támogatás igénybevétele miatt, úgy arról haladéktalanul, de legfeljebb az adatváltozás bekövetkezésének napjától számított öt napon belül írásban tájékoztatja a Magyar Államkincstárt (a továbbiakban: Kincstár).
 
-[^10]: A 3. § a) pontja a 39/2017. (VIII. 7.) FM rendelet 19. § b) pontja szerint módosított szöveg.
-[^11]: A 3. § c) pont ca) alpontja a 39/2017. (VIII. 7.) FM rendelet 19. § b) pontja szerint módosított szöveg.
-[^12]: A 3. § d) pontja a 88/2016. (XII. 29.) FM rendelet 102. § a) pontja, a 39/2017. (VIII. 7.) FM rendelet 19. § b) pontja szerint módosított szöveg.
+[^12]: A 3. § a) pontja a 39/2017. (VIII. 7.) FM rendelet 19. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § c) pont ca) alpontja a 39/2017. (VIII. 7.) FM rendelet 19. § b) pontja szerint módosított szöveg.
+[^14]: A 3. § d) pontja a 88/2016. (XII. 29.) FM rendelet 102. § a) pontja, a 39/2017. (VIII. 7.) FM rendelet 19. § b) pontja szerint módosított szöveg.

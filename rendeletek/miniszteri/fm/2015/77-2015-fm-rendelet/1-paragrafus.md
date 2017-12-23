@@ -16,7 +16,7 @@ b) mezőgazdasági csekély összegű támogatás: az Európai Unió működés�
 
 5. támogatástartalom: a 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontja szerinti érték;
 
-6.[^1] vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, az 1., 3., illetve 4. mellékletben szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő – kizárólag az 1. mellékletben szereplő település esetében a 2. mellékletben meghatározott TEÁOR '08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő – hitelfelvevő, aki a hitelprogram keretében
+6.[^1] vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, az 1., 3., 4., illetve 5. mellékletben szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő – kizárólag az 1. mellékletben szereplő település esetében a 2. mellékletben meghatározott TEÁOR '08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő – vagy a 2017. októberi viharkár által a fóliás növénykultúrák termesztésére szolgáló építményekben keletkezett károk kompenzálására igénybe vehető mezőgazdasági csekély összegű támogatásról szóló 65/2017. (XII. 22.) FM rendelet [a továbbiakban: 65/2017. (XII. 22.) FM rendelet] 1. melléklete alapján a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának a viharkárral érintett építmény fekvése szerint illetékes megyei szervezete (a továbbiakban: NAK) által kiállított igazolással rendelkező hitelfelvevő, aki a hitelprogram keretében
 
 a) kizárólag az 1. mellékletben szereplő település esetén 2016. június 30-ig,
 
@@ -24,12 +24,14 @@ b) kizárólag a 3. mellékletben szereplő település esetén 2017. május 31-
 
 c) az 1. és 3. mellékletben egyaránt szereplő település esetén 2017. május 31-ig,
 
-d) a 4. mellékletben szereplő település esetén a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrártárgyú támogatásokat szabályozó rendeletek módosításáról szóló 39/2017. (VIII. 7.) FM rendelet [a továbbiakban: 39/2017. (VIII. 7.) FM rendelet] hatálybalépésének napja[^2] és 2017. december 31. között (határnapokat is beleértve)
+d) a 4. mellékletben szereplő település esetén 2017. augusztus 8. és 2018. május 31. között (határnapokat is beleértve),
+
+e) az 5. mellékletben szereplő település vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolás rendelkezésre állása esetén az egyes nemzeti forrásból finanszírozott agrártámogatásokat és közvetlen támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 66/2017. (XII. 22.) FM rendelet [a továbbiakban: 66/2017. (XII. 22.) FM rendelet] hatálybalépésének napja[^2] és 2018. május 31. között (a határnapokat is beleértve)
 
 ## megkötött hitelszerződéssel rendelkezik;
 
 7.[^3] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
 
-[^1]: Az 1. § 6. pontja a 39/2017. (VIII. 7.) FM rendelet 16. §-ával megállapított szöveg.
-[^2]: A hatálybalépés időpontja 2017. augusztus 8.
+[^1]: Az 1. § 6. pontja a 66/2017. (XII. 22.) FM rendelet 26. §-ával megállapított szöveg.
+[^2]: A hatálybalépés időpontja 2017. december 23.
 [^3]: Az 1. § 7. pontját az 51/2016. (VII. 21.) FM rendelet 29. §-a iktatta be.
