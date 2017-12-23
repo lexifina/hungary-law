@@ -4,4 +4,4 @@
 
 [^15]: A 13. §-t a 169/2016. (VII. 1.) Korm. rendelet 17. §-a iktatta be.
 [^16]: A hatálybalépés időpontja 2016. július 1.
-[^17]: Az 1. melléklet a 139/2015. (VI. 9.) Korm. rendelet 12. § (8) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^17]: Az 1. melléklet a 139/2015. (VI. 9.) Korm. rendelet 12. § (8) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 18. §-a, a 407/2017. (XII. 15.) Korm. rendelet 24. §-a szerint módosított szöveg.

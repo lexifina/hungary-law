@@ -138,7 +138,7 @@
 
 | 1. | szakmai terület | tanárszak |
 
-| 2. | műszaki | mérnöktanár (szakirányok: gépészet-mechatronika, elektrotechnika-elektronika, informatika, bio-vegyipar, építő-építészet, könnyűipar, faipar, nyomdaipar, közlekedés, környezetvédelem-vízgazdálkodás, polgári és biztonságvédelem, műszaki-gazdasági) |
+| 2. | műszaki | mérnöktanár (szakirányok: gépészet-mechatronika, elektrotechnika-elektronika, informatika, bio-vegyipar, építő-építészet, könnyűipar, faipar, nyomdaipar, közlekedés, környezetvédelem-vízgazdálkodás, polgári és biztonságvédelem, műszaki-gazdasági, katonai-műszaki) |
 
 | 3. | közgazdasági | közgazdásztanár (szakirányok: közgazdaságtan, pénzügy-számvitel, ügyvitel, vendéglátás-idegenforgalmi, kereskedelem-marketing, vállalkozási ismeretek) |
 
@@ -188,7 +188,7 @@
 
 2. melléklet a 283/2012. (X. 4.) Korm. rendelethez
 
-A tanári felkészítés közös követelményei és az egyes tanárszakok képzési és kimeneti követelményei
+## A tanári felkészítés közös követelményei és az egyes tanárszakok képzési és kimeneti követelményei
 
 A képzési és kimeneti követelmények tartalmazzák:
 
