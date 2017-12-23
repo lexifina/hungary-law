@@ -16,7 +16,7 @@
 
 (8) Ha a szakváltás nem felvételi eljárás eredményeképpen valósul meg, valamint az önköltséges képzésről magyar állami (rész)ösztöndíjas finanszírozási formára átsorolás esetén a képzési és kimeneti követelmények másfélszeresének kezdő időpontja a kiinduló képzés kezdete.
 
-(8a)[^29] Ha a szakváltás a Nemzeti Közszolgálati Egyetem és más felsőoktatási intézmény képzése között valósul meg, a Hivatal és a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény egyes rendelkezéseinek végrehajtásáról szóló 363/2011. (XII. 30.) Korm. rendelet 8. §-a szerinti szerv a nyilvántartás szempontjából releváns adatokat átadja egymásnak az 1. § (4) bekezdésében foglaltak érvényesítéséhez. A nyilvántartás szempontjából a közszolgálati ösztöndíjas képzésre a magyar állami ösztöndíjjal támogatott képzésre vonatkozó szabályokat kell alkalmazni.
+(8a)[^29]
 
 (9) A felsőoktatási intézmények egyesülése vagy beolvadás esetén ha ugyanazon képzést több, az átalakulással érintett intézmény folytatott, akkor az átalakulást követően a hallgatónak a magyar állami (rész)ösztöndíjból származó kötelezettsége nyilvántartása szempontjából az önköltség nem emelkedhet.
 
@@ -35,5 +35,5 @@
 [^26]: A 7. § (3) bekezdését a 442/2016. (XII. 16.) Korm. rendelet 20. §-a hatályon kívül helyezte.
 [^27]: A 7. § (4) bekezdése a 442/2016. (XII. 16.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^28]: A 7. § (7) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^29]: A 7. § (8a) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^29]: A 7. § (8a) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 26. § (2) bekezdése iktatta be, hatályon kívül helyezte a 407/2017. (XII. 15.) Korm. rendelet 22. § a) pontja.
 [^30]: A 7. § (13) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
