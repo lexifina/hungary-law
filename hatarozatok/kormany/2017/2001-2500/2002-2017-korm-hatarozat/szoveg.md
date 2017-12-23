@@ -44,4 +44,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
 
-9. Hatályát veszti az Eszergom-Budapesti Főegyházmegye egyes fejlesztéseinek a 2020. évi budapesti Eucharisztikus Világkongresszussal összefüggő támogatásáról szóló 1619/2016. (XI. 10.) Korm. határozat.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
