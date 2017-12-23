@@ -1,6 +1,6 @@
-11. § (1)[^4] Kutatói kiválósága támogatásaként nemzeti felsőoktatási kiválóság ösztöndíj adományozható annak a doktorjelöltnek, aki kiemelkedő színvonalú, önállóan vagy kutatócsoportban végzett kutatási eredménnyel rendelkezik, és az ösztöndíjas jogviszony alatt felsőoktatási intézmény keretében kutatási tevékenységet végez.
+11. § (1)[^5] Kutatói kiválósága támogatásaként nemzeti felsőoktatási kiválóság ösztöndíj adományozható annak a doktorjelöltnek, aki kiemelkedő színvonalú, önállóan vagy kutatócsoportban végzett kutatási eredménnyel rendelkezik, és az ösztöndíjas jogviszony alatt felsőoktatási intézmény keretében kutatási tevékenységet végez.
 
-(2)[^5] Nemzeti felsőoktatási kiválóság ösztöndíjban részesíthető az az oktató, kutató, aki kiemelkedő színvonalú, önállóan vagy kutatócsoportban végzett kutatási eredménnyel rendelkezik, és az ösztöndíjas jogviszony alatt felsőoktatási intézmény keretében kutatási tevékenységet végez.
+(2)[^6] Nemzeti felsőoktatási kiválóság ösztöndíjban részesíthető az az oktató, kutató, aki kiemelkedő színvonalú, önállóan vagy kutatócsoportban végzett kutatási eredménnyel rendelkezik, és az ösztöndíjas jogviszony alatt felsőoktatási intézmény keretében kutatási tevékenységet végez.
 
 (3) Az ösztöndíjas jogviszony feltétele doktorjelölt esetén az, hogy az ösztöndíjas jogviszony létesítésekor igazolni tudja a doktorjelölti jogviszonyát. A pályázat benyújtásának nem feltétele a doktorjelölti jogviszony megléte.
 
@@ -8,5 +8,5 @@
 
 (5) Az ösztöndíj feltételeként meghatározott kutatási eredmény – vagy egyéb teljesítés – más állami ösztöndíj-támogatás eredményeként nem számolható el.
 
-[^4]: A 11. § (1) bekezdése az 59/2016. (III. 25.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^5]: A 11. § (2) bekezdése az 59/2016. (III. 25.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^5]: A 11. § (1) bekezdése az 59/2016. (III. 25.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^6]: A 11. § (2) bekezdése az 59/2016. (III. 25.) Korm. rendelet 12. §-ával megállapított szöveg.
