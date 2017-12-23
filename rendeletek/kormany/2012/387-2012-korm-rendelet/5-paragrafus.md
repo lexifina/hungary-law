@@ -8,9 +8,9 @@ c) a doktori iskola kutatási területének megnevezését;
 
 d) a doktori fokozatszerzési eljárás eredményeként kiadható doktori fokozat elnevezését;
 
-e)[^5] a doktori iskola vezetésére jelölt személynek, a doktori iskola törzstagjainak, a doktori iskola első négy évre javasolt témavezetőinek, a doktori iskola további oktatóinak, meghívott hazai és külföldi oktatóknak (művészeti doktori iskola esetén művészeknek), kutatóknak a nevét, tudományos vagy művészeti önéletrajzát, az előző öt év legfontosabb tudományos (művészeti doktori iskola esetén tudományos vagy művészeti) eredményeinek, alkotásainak dokumentációját;
+e)[^6] a doktori iskola vezetésére jelölt személynek, a doktori iskola törzstagjainak, a doktori iskola első négy évre javasolt témavezetőinek, a doktori iskola további oktatóinak, meghívott hazai és külföldi oktatóknak (művészeti doktori iskola esetén művészeknek), kutatóknak a nevét, tudományos vagy művészeti önéletrajzát, az előző öt év legfontosabb tudományos (művészeti doktori iskola esetén tudományos vagy művészeti) eredményeinek, alkotásainak dokumentációját;
 
-f)[^6] a doktori iskola Magyar Képesítési Keretrendszer 8. szintjének megfelelő képzési tervét;
+f)[^7] a doktori iskola Magyar Képesítési Keretrendszer 8. szintjének megfelelő képzési tervét;
 
 g) a doktori iskola nemzetközi kapcsolatait, amelyek a működés során várhatóan figyelembe vehetők;
 
@@ -24,5 +24,5 @@ i) a doktori iskola működési szabályzatát.
 
 (4) A doktori tanács előzetes véleménye szükséges ahhoz, hogy a doktori iskola vezetőjének javasolt személy a doktori iskola létesítésére vonatkozó kérelmet – a rektor útján – a szenátus elé terjessze jóváhagyásra.
 
-[^5]: Az 5. § (1) bekezdés e) pontja a 266/2016. (VIII. 31.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
-[^6]: Az 5. § (1) bekezdés f) pontja a 266/2016. (VIII. 31.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés e) pontja a 266/2016. (VIII. 31.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdés f) pontja a 266/2016. (VIII. 31.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.

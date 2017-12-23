@@ -16,6 +16,6 @@ f) az arra vonatkozó nyilatkozatot, hogy a doktori iskola adatait folyamatosan 
 
 (3) A Magyar Felsőoktatási Akkreditációs Bizottság (a továbbiakban: MAB) az Nftv. 67. § (4) bekezdésében meghatározott szakértői véleményének megalapozása érdekében vizsgálja különösen a 2. § (3) bekezdés b) pontja tekintetében a szükséges követelmények teljesítését, a 2. § (5) bekezdésében és az 5. § (3) bekezdésében említett megállapodás érvényesülését, valamint a szakmai bírálati szempontrendszerében foglalt egyéb elvárások teljesítését.
 
-(4)[^7] A doktori iskola új tudományágának nyilvántartásba vételére az (1)–(3) bekezdéseket kell megfelelően alkalmazni.
+(4)[^8] A doktori iskola új tudományágának nyilvántartásba vételére az (1)–(3) bekezdéseket kell megfelelően alkalmazni.
 
-[^7]: A 6. § (4) bekezdését a 266/2016. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 6. § (4) bekezdését a 266/2016. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
