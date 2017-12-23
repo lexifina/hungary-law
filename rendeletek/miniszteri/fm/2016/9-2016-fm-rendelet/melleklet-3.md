@@ -12,7 +12,7 @@
 
 2.3. Eljárási törvény szerinti ügyfél-azonosító
 
-3.[^26] Szőlőültetvény adatai (helyrajzi számonként külön sorban kell feltüntetni)
+3.[^27] Szőlőültetvény adatai (helyrajzi számonként külön sorban kell feltüntetni)
 
 3.1. Településnév
 
@@ -20,11 +20,11 @@
 
 3.3. Szőlőültetvény nagysága (hektár)
 
-3.4.[^27] Szőlőültetvény hasznosítása (borszőlő; csemegeszőlő)
+3.4.[^28] Szőlőültetvény hasznosítása (borszőlő; csemegeszőlő)
 
 4. A 3. pontban megjelölt szőlőültetvény rendeltetésszerű művelésének igazolása
 
 5. Keltezés, aláírás
 
-[^26]: A 3. melléklet 3. pont nyitó szövegrésze a 6/2017. (II. 13.) FM rendelet 35. § b) pontjával megállapított szöveg.
-[^27]: A 3. melléklet 3.4. pontja a 6/2017. (II. 13.) FM rendelet 35. § c) pontjával megállapított szöveg.
+[^27]: A 3. melléklet 3. pont nyitó szövegrésze a 6/2017. (II. 13.) FM rendelet 35. § b) pontjával megállapított szöveg.
+[^28]: A 3. melléklet 3.4. pontja a 6/2017. (II. 13.) FM rendelet 35. § c) pontjával megállapított szöveg.

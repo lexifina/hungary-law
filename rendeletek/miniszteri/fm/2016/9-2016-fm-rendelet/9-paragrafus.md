@@ -1,13 +1,13 @@
 ## 7. Adatszolgáltatás és nyilvántartás
 
-9. § (1)[^19] A Kincstárnak a támogatással kapcsolatos dokumentumokat a támogatásról szóló döntés meghozatalától számított tíz évig meg kell őriznie.
+9. § (1)[^20] A Kincstárnak a támogatással kapcsolatos dokumentumokat a támogatásról szóló döntés meghozatalától számított tíz évig meg kell őriznie.
 
-(2)[^20] A Kincstár
+(2)[^21] A Kincstár
 
-a)[^21] az agrárpolitikáért felelős miniszter rendelkezésére bocsátja a tárgyév lezárását követően a benyújtott támogatási kérelmekkel, a kifizetett támogatás összegével és a növényvédőszerrel kezelt szőlőültetvénnyel kapcsolatos tárgyévi adatokat;
+a)[^22] az agrárpolitikáért felelős miniszter rendelkezésére bocsátja a tárgyév lezárását követően a benyújtott támogatási kérelmekkel, a kifizetett támogatás összegével és a növényvédőszerrel kezelt szőlőültetvénnyel kapcsolatos tárgyévi adatokat;
 
 b) az európai uniós források felhasználásáért felelős miniszter felhívására az Atr. 22. §-a szerinti adatszolgáltatásra köteles és a támogatási programról az Atr. 34. § (1) bekezdése szerinti éves jelentést készít.
 
-[^19]: A 9. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 108. § e) pontja szerint módosított szöveg.
-[^20]: A 9. § (2) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 108. § c) pontjával megállapított szöveg.
-[^21]: A 9. § (2) bekezdés a) pontja a 6/2017. (II. 13.) FM rendelet 35. § a) pontja szerint módosított szöveg.
+[^20]: A 9. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 108. § e) pontja szerint módosított szöveg.
+[^21]: A 9. § (2) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 108. § c) pontjával megállapított szöveg.
+[^22]: A 9. § (2) bekezdés a) pontja a 6/2017. (II. 13.) FM rendelet 35. § a) pontja szerint módosított szöveg.
