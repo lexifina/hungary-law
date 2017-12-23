@@ -10,7 +10,7 @@
 
 (5a)[^36] Amennyiben a támogatási kérelem határidőben benyújtott melléklete nem magyar nyelvű, akkor a Kincstár hiánypótlás keretében felhívja a mezőgazdasági termelőt a dokumentum szakfordítói fordításának csatolására.
 
-(6)[^37] Az adott támogatási jogcím vonatkozásában igényelt állatokra és a tenyészetekre vonatkozó adminisztratív ellenőrzés során kizárólag azon adatok tekinthetőek a támogatás szempontjából elfogadhatónak, és támogatás csak azon adatok figyelembevételével állapítható meg, amelyek az ENAR nyilvántartásba a támogatási kérelem benyújtási időszak végéig – figyelemmel a juh- és kecskefélék egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló miniszteri rendelet (a továbbiakban: Juh ENAR rendelet), a szarvasmarha-fajok egyedeinek jelöléséről, valamint az Egységes Nyilvántartási és Azonosítási Rendszeréről szóló miniszteri rendelet (a továbbiakban: Szarvasmarha ENAR rendelet) szerinti bejelentési határidőkre is – bejelentésre kerültek, és az ENAR nyilvántartásban szerepelnek. A birtokon tartási idő alatt történő szaporítási esemény tekintetében a tárgyévet követő év március 15-ig bejelentett és nyilvántartott adatok fogadhatóak el.
+(6)[^37] Az adott támogatási jogcím vonatkozásában igényelt állatokra és a tenyészetekre vonatkozó adminisztratív ellenőrzés során kizárólag azon adatok tekinthetőek a támogatás szempontjából elfogadhatónak, és támogatás csak azon adatok figyelembevételével állapítható meg, amelyek az ENAR nyilvántartásba a támogatási kérelem benyújtási időszak végéig – figyelemmel a juh- és kecskefélék egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló miniszteri rendelet (a továbbiakban: Juh ENAR rendelet), a szarvasmarha-fajok egyedeinek jelöléséről, valamint az Egységes Nyilvántartási és Azonosítási Rendszeréről szóló miniszteri rendelet (a továbbiakban: Szarvasmarha ENAR rendelet) szerinti bejelentési határidőkre is – bejelentésre kerültek, és az ENAR nyilvántartásban szerepelnek. A birtokon tartási idő alatt történő szaporítási esemény tekintetében a tárgyévet követő év január 31-ig bejelentett és nyilvántartott adatok fogadhatóak el.
 
 (7)[^38] A 6. § a) és b) pontja szerinti támogatási jogcímekhez kapcsolódó átruházás esetén az átruházó által igényelt támogatás az átvevőnek kerül kifizetésre, ha az átvevő
 
@@ -26,7 +26,7 @@ c) teljesíti a támogatás igénybevételéhez szükséges összes feltételt.
 [^34]: A 9. § (4) bekezdése a 25/2016. (IV. 11.) FM rendelet 53. § a) pontja szerint módosított szöveg.
 [^35]: A 9. § (5) bekezdése a 25/2016. (IV. 11.) FM rendelet 47. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 80. § e) pontja szerint módosított szöveg.
 [^36]: A 9. § (5a) bekezdését a 40/2015. (VII. 13.) FM rendelet 10. § (2) bekezdése iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 80. § d) pontja szerint módosított szöveg.
-[^37]: A 9. § (6) bekezdése a 13/2017. (III. 17.) FM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^37]: A 9. § (6) bekezdése a 13/2017. (III. 17.) FM rendelet 17. § (2) bekezdésével megállapított, a 66/2017. (XII. 22.) FM rendelet 16. §-a szerint módosított szöveg.
 [^38]: A 9. § (7) bekezdését az 52/2015. (IX. 7.) FM rendelet 25. § (2) bekezdése iktatta be.
 [^39]: A 9. § (7) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 80. § e) pontja szerint módosított szöveg.
 [^40]: A 9. § (8) bekezdését az 52/2015. (IX. 7.) FM rendelet 25. § (2) bekezdése iktatta be.
