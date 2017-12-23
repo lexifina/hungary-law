@@ -1,0 +1,1 @@
+## „(7) Az ösztöndíjra – a (2) bekezdésben meghatározott időtartamra – határon túli (külföldi) magyar kutatók is pályázhatnak, amennyiben az ösztöndíjas kutatómunkát magyarországi tudományos intézménnyel kötött megállapodás alapján végzik.”

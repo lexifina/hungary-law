@@ -1,0 +1,1 @@
+## „(9) Az Nftv. 78. § (3) bekezdése szerinti közös képzés esetén az új szakot nem eredményező képzésnek a felsőoktatási képesítési jegyzékbe történő felvételére nem kerül sor. Ebben az esetben a Hivatal a közös képzésről szóló együttműködési megállapodás adatait veszi nyilvántartásba.”
