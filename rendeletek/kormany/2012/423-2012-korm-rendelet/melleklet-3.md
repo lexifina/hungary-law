@@ -1,4 +1,4 @@
-3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^167]
+3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^173]
 
 A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű érettségi vizsgák jegyzéke szakonként, képzési területenként a 2018. évi felsőoktatási felvételi eljárásokban
 
@@ -134,4 +134,4 @@ A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű ére
 
 | 2. | matematika |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: biológia, fizika, földrajz, kémia, matematika. |
 
-[^167]: A 3. melléklet a 442/2016. (XII. 16.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^173]: A 3. melléklet a 442/2016. (XII. 16.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.

@@ -2,7 +2,7 @@
 
 ## a felsőoktatási intézmények egészségügyi, pályaalkalmassági követelményeket írhatnak elő,
 
-## illetve gyakorlati, szakmai vizsgát szervezhetnek[^158]
+## illetve gyakorlati, szakmai vizsgát szervezhetnek[^161]
 
 ## I. Egészségügyi vizsgálat írható elő a következő szakokon:
 
@@ -14,7 +14,7 @@
 
 ## 4. Művészetközvetítés képzési terület: minden szakon;
 
-## 5.[^159] Államtudományi képzési terület: minden szakon;
+## 5.[^162] Államtudományi képzési terület: minden szakon;
 
 ## 6. Orvos- és egészségtudomány képzési terület: minden szakon;
 
@@ -36,7 +36,7 @@
 
 ## 4. Művészetközvetítés képzési terület: minden szakon;
 
-## 5.[^160] Államtudományi képzési terület: minden szakon;
+## 5.[^163] Államtudományi képzési terület: minden szakon;
 
 ## 6. Orvos- és egészségtudomány képzési terület: minden szakon;
 
@@ -58,11 +58,11 @@
 
 ## orlati vizsga tartható a következő szakokon:)
 
-## 4.[^161] Osztatlan tanárképzésben, amennyiben a szak, vagy szakpár legalább egyike művészeti jellegű.
+## 4.[^164] Osztatlan tanárképzésben, amennyiben a szak, vagy szakpár legalább egyike művészeti jellegű.
 
-## 5.[^162] Sporttudomány képzési terület: edző szakon.
+## 5.[^165] Sporttudomány képzési terület: edző szakon.
 
-## IV.[^163] A 17. § (8) bekezdése szerinti felsőoktatási felvételi szakmai vizsga valamennyi szakon tartható.
+## IV.[^166] A 17. § (8) bekezdése szerinti felsőoktatási felvételi szakmai vizsga valamennyi szakon tartható.
 
 2. melléklet a 423/2012. (XII. 29.) Korm. rendelethez
 
@@ -106,9 +106,15 @@ j) katonai alapismeretek
 
 k) gazdasági ismeretek
 
-l) latin nyelv;
+l) latin nyelv
 
-3.[^164] a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
+m)[^167] pszichológia
+
+n)[^168] ének-zene
+
+o)[^169] vizuális kultúra;
+
+3.[^170] a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
 
 a) egészségügyi alapismeretek,
 
@@ -136,9 +142,9 @@ l) vendéglátás-idegenforgalom alapismeretek,
 
 m) faipari alapismeretek,
 
-n)[^165] ágazati és ágazaton kívüli szakmai érettségi vizsgatárgy;
+n)[^171] ágazati és ágazaton kívüli szakmai érettségi vizsgatárgy;
 
-4.[^166] a választható élő idegen nyelvek közül a(z)
+4.[^172] a választható élő idegen nyelvek közül a(z)
 
 a) portugál nyelv,
 
@@ -154,12 +160,15 @@ f) holland nyelv,
 
 g) finn nyelv.
 
-[^158]: Az 1. melléklet címe az 59/2016. (III. 25.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
-[^159]: Az 1. melléklet I. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja, a 169/2016. (VII. 1.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
-[^160]: Az 1. melléklet II. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja, a 169/2016. (VII. 1.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
-[^161]: Az 1. melléklet III. pont 4. alpontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (1) bekezdése iktatta be.
-[^162]: Az 1. melléklet III. rész 5. pontját a 442/2016. (XII. 16.) Korm. rendelet 28. § (1) bekezdése iktatta be.
-[^163]: Az 1. melléklet IV. pontját az 59/2016. (III. 25.) Korm. rendelet 9. § a) pontja iktatta be.
-[^164]: A 2. melléklet 3. pontja a 345/2015. (XI. 19.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^165]: A 2. melléklet 3. pont n) alpontja az 59/2016. (III. 25.) Korm. rendelet 9. § b) pontjával megállapított szöveg.
-[^166]: A 2. melléklet 4. pontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^161]: Az 1. melléklet címe az 59/2016. (III. 25.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
+[^162]: Az 1. melléklet I. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja, a 169/2016. (VII. 1.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^163]: Az 1. melléklet II. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja, a 169/2016. (VII. 1.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^164]: Az 1. melléklet III. pont 4. alpontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^165]: Az 1. melléklet III. rész 5. pontját a 442/2016. (XII. 16.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^166]: Az 1. melléklet IV. pontját az 59/2016. (III. 25.) Korm. rendelet 9. § a) pontja iktatta be.
+[^167]: A 2. melléklet 2. pont m) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^168]: A 2. melléklet 2. pont n) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^169]: A 2. melléklet 2. pont o) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^170]: A 2. melléklet 3. pontja a 345/2015. (XI. 19.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^171]: A 2. melléklet 3. pont n) alpontja az 59/2016. (III. 25.) Korm. rendelet 9. § b) pontjával megállapított szöveg.
+[^172]: A 2. melléklet 4. pontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be.

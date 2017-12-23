@@ -4,13 +4,13 @@
 
 a) a keresztféléves felvételi eljárásban a besorolási döntés időpontját követő nyolc napon belül;
 
-b)[^107] az általános felvételi eljárásban augusztus 8-áig,
+b)[^109] az általános felvételi eljárásban augusztus 8-áig,
 
 c) a pótfelvételi eljárásban augusztus 31-éig
 
 határozatban közli a jelentkezővel. A felsőoktatási intézmény azt a jelentkezőt veszi fel, aki – a Hivatal értesítése alapján – hozzá lett besorolva.
 
-(1a)[^108] Ha a besorolási döntés elleni jogorvoslati döntés megalapozza a felvételi döntés módosítását, a felvételi döntést meghozó intézménynek rendelkezni kell a döntés módosításáról. Ha a besorolási döntés elleni jogorvoslati döntés alapján a jelentkező másik felsőoktatási intézménybe kerül besorolásra, mindkét intézménynek rendelkeznie kell a felvételi döntésről.
+(1a)[^110] Ha a besorolási döntés elleni jogorvoslati döntés megalapozza a felvételi döntés módosítását, a felvételi döntést meghozó intézménynek rendelkezni kell a döntés módosításáról. Ha a besorolási döntés elleni jogorvoslati döntés alapján a jelentkező másik felsőoktatási intézménybe kerül besorolásra, mindkét intézménynek rendelkeznie kell a felvételi döntésről.
 
 (2) A határozatnak tartalmaznia kell
 
@@ -36,5 +36,5 @@ b) a nem magyar állampolgárságú jelentkezők számára az előkészítő év
 
 (4) Amennyiben a jelentkező rendelkezik elektronikus levelezési címmel, a határozat elektronikus levélben is kiküldhető.
 
-[^107]: A 28. § (1) bekezdés b) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § l) pontja szerint módosított szöveg.
-[^108]: A 28. § (1a) bekezdését az 59/2016. (III. 25.) Korm. rendelet 7. §-a iktatta be.
+[^109]: A 28. § (1) bekezdés b) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § l) pontja szerint módosított szöveg.
+[^110]: A 28. § (1a) bekezdését az 59/2016. (III. 25.) Korm. rendelet 7. §-a iktatta be.
