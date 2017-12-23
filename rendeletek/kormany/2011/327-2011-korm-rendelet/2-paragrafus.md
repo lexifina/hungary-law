@@ -10,10 +10,11 @@
 
 (4) A Magyar Honvédség hivatásos és szerződéses, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjai egészségi alkalmasságának felülvizsgálata során az egészségkárosodás mértékének meghatározásában rehabilitációs szakértői szervként és orvosszakértői szervként első fokon Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el.
 
-(5) A felsőoktatásban részt vevő hallgatók, illetve a felsőoktatásba jelentkezők diszlexia, diszgráfia és diszkalkulia fogyatékosságának megállapítására irányuló eljárásban rehabilitációs szakértői szervként első fokon Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el.
+(5)[^12] A felsőoktatásban részt vevő hallgatók, valamint a – köznevelési tanulói jogviszonnyal nem rendelkező – felsőoktatásba jelentkezők diszlexia, diszgráfia és diszkalkulia fogyatékosságának megállapítására irányuló eljárásban rehabilitációs szakértői szervként első fokon Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el.
 
 [^7]: A 2. §-t megelőző alcím a 95/2012. (V. 15.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (2) bekezdésével megállapított szöveg.
 [^9]: A 2. § (1) bekezdése az 52/2017. (III. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^10]: A 2. § (2) bekezdése a 235/2017. (VIII. 18.) Korm. rendelet 23. §-a szerint módosított szöveg.
 [^11]: A 2. § (2a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^12]: A 2. § (5) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 7. §-a szerint módosított szöveg.
