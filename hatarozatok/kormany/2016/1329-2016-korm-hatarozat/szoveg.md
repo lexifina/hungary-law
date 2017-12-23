@@ -26,11 +26,13 @@ k) egy új, korszerű kerékpárcsarnok megvalósítása;
 
 l) a Sorsok Háza – Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ megvalósítása;
 
-m)[^1] Kemény Ferenc Sportlétesítmény-fejlesztési Program megvalósítása;
+m)[^2] Kemény Ferenc Sportlétesítmény-fejlesztési Program megvalósítása;
 
-n)[^2] a Nemzeti Korcsolyázó Központ megvalósítása;
+n)[^3] a Nemzeti Korcsolyázó Központ megvalósítása;
 
-o)[^3] további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
+o)[^4] a Kemény Ferenc Sportlétesítmény-fejlesztési Program, valamint egyéb dél-pesti és észak-csepeli beruházások előkészítése és megtervezése érdekében szükséges intézkedésekről szóló 2016/2017. (XII. 22.) Korm. határozat 1. pontjában meghatározott komplex városfejlesztés;
+
+p)[^5] további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
 
 3. A Kormány a kormánybiztos feladatkörébe utalja a 2024-ben sorra kerülő XXXIII. Olimpiai Játékok, valamint a XVII. Paralimpiai Játékok Budapesten történő megrendezése érdekében benyújtásra kerülő pályázat elkészítésével kapcsolatos kormányzati feladatok ellátását.
 
@@ -66,9 +68,10 @@ i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az
 
 10. Ez a határozat 2016. július 1-jén lép hatályba.
 
-11–13.[^4]
+11–13.[^6]
 
-[^1]: A 2. pont m) alpontja az 1874/2016. (XII. 28.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 2. pont n) alpontját az 1874/2016. (XII. 28.) Korm. határozat 2. pontja iktatta be, szövege az 1602/2017. (IX. 1.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 2. pont o) alpontját az 1602/2017. (IX. 1.) Korm. határozat 2. pontja iktatta be.
-[^4]: A 11–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont m) alpontja az 1874/2016. (XII. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 2. pont n) alpontját az 1874/2016. (XII. 28.) Korm. határozat 2. pontja iktatta be, szövege az 1602/2017. (IX. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 2. pont o) alpontját az 1602/2017. (IX. 1.) Korm. határozat 2. pontja iktatta be, szövege a 2019/2017. (XII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 2. pont p) alpontját a 2019/2017. (XII. 22.) Korm. határozat 2. pontja iktatta be.
+[^6]: A 11–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
