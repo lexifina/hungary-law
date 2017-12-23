@@ -12,4 +12,8 @@ e) a Gödöllői Királyi Kastély Közhasznú Nonprofit Korlátolt Felelősség
 
 f) a Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság;
 
-g) a Várgondnokság Közhasznú Nonprofit Korlátolt Felelősségű Társaság
+g) a Várgondnokság Közhasznú Nonprofit Korlátolt Felelősségű Társaság;
+
+h)[^1] Paksi Ipari Park Korlátolt Felelősségű Társaság,
+
+[^1]: Az 1. § h) pontját az 51/2017. (XII. 22.) NFM rendelet 1. §-a iktatta be.
