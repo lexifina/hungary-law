@@ -2,7 +2,7 @@
 
 ## 3. § A kamattámogatás igénybevételére az a termelői szerveződés jogosult, amely
 
-a)[^20] kamattámogatási kérelem, kiegészítő kamattámogatási kérelem (a továbbiakban együtt: kamattámogatási kérelem) benyújtásának időpontjában
+a)[^22] kamattámogatási kérelem, kiegészítő kamattámogatási kérelem (a továbbiakban együtt: kamattámogatási kérelem) benyújtásának időpontjában
 
 aa) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a kamattámogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét a Törvény alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben;
 
@@ -18,15 +18,15 @@ bb) milyen mértékű kamattámogatást és mely időponttól kezdődően kívá
 
 bc) megfelel az ab) és ac) alpontban foglalt feltételeknek, és
 
-bd)[^21] a hitelkérelem beadásakor bejegyzett főtevékenységről és a hitelkérelemben hitelcélként megjelölt tevékenységről;
+bd)[^23] a hitelkérelem beadásakor bejegyzett főtevékenységről és a hitelkérelemben hitelcélként megjelölt tevékenységről;
 
 c) nyilatkozatban vállalja, hogy
 
-ca)[^22] a hitelszerződés módosítása esetén annak bekövetkezésétől számított harminc napon belül az új hitelszerződés másolatát megküldi a Kincstár részére, valamint
+ca)[^24] a hitelszerződés módosítása esetén annak bekövetkezésétől számított harminc napon belül az új hitelszerződés másolatát megküldi a Kincstár részére, valamint
 
-cb)[^23] ha a ba) alpont alapján tett nyilatkozat támogatási adataiban változás következik be a kamattámogatási kérelem benyújtását követően – az eljárást lezáró döntés kézhezvételéig – más általános csekély összegű támogatás igénybevétele miatt, úgy arról haladéktalanul, de legfeljebb 5 napon belül írásban tájékoztatja a Kincstárt.
+cb)[^25] ha a ba) alpont alapján tett nyilatkozat támogatási adataiban változás következik be a kamattámogatási kérelem benyújtását követően – az eljárást lezáró döntés kézhezvételéig – más általános csekély összegű támogatás igénybevétele miatt, úgy arról haladéktalanul, de legfeljebb 5 napon belül írásban tájékoztatja a Kincstárt.
 
-[^20]: A 3. § a) pont nyitó szövegrésze a 77/2015. (XII. 1.) FM rendelet 16. § (9) bekezdésével megállapított szöveg.
-[^21]: A 3. § b) pont bd) alpontját a 77/2015. (XII. 1.) FM rendelet 16. § (5) bekezdése iktatta be.
-[^22]: A 3. § c) pont ca) alpontja a 88/2016. (XII. 29.) FM rendelet 92. § b) pontja szerint módosított szöveg.
-[^23]: A 3. § c) pont cb) alpontja a 88/2016. (XII. 29.) FM rendelet 92. § c) pontja szerint módosított szöveg.
+[^22]: A 3. § a) pont nyitó szövegrésze a 77/2015. (XII. 1.) FM rendelet 16. § (9) bekezdésével megállapított szöveg.
+[^23]: A 3. § b) pont bd) alpontját a 77/2015. (XII. 1.) FM rendelet 16. § (5) bekezdése iktatta be.
+[^24]: A 3. § c) pont ca) alpontja a 88/2016. (XII. 29.) FM rendelet 92. § b) pontja szerint módosított szöveg.
+[^25]: A 3. § c) pont cb) alpontja a 88/2016. (XII. 29.) FM rendelet 92. § c) pontja szerint módosított szöveg.
