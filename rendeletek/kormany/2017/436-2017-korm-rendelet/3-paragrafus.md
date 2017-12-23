@@ -1,3 +1,3 @@
-## 2. § Az R1. 76. §-a a következő (4) bekezdéssel egészül ki:
+3. §[^3]
 
-## „(4) Ha a fejlesztési, beruházási célú költségvetési támogatásból származó átmenetileg szabad pénzeszközt a helyi önkormányzat kedvezményezett állampapír vásárlásával hasznosítja, a támogatási szerződés előírhatja a lekötés időtartamáról szóló dokumentum benyújtásának kötelezettségét.”
+[^3]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-5. §[^3]
+5. §[^5]
 
-[^3]: A 4–5. § a 28. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^5]: A 4–5. § a 28. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

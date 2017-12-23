@@ -1,3 +1,3 @@
-9. §[^7]
+9. §[^9]
 
-[^7]: A 6–27. § a 28. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^9]: A 6–27. § a 28. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
