@@ -1,0 +1,1 @@
+5. § Hatályát veszti az Electool Közbeszerzési Szolgáltató Korlátolt Felelősségű Társaság felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló szervezet kijelöléséről szóló 34/2017. (VIII. 22.) NFM rendelet.
