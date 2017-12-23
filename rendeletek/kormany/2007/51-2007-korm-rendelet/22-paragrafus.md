@@ -1,4 +1,4 @@
-## Az állami fenntartásban működő kollégiumok alapszolgáltatásai, a kérhető térítési díj legmagasabb összege, a kollégium komfortfokozat szerinti osztályba sorolásának feltételei[^61]
+## Az állami fenntartásban működő kollégiumok alapszolgáltatásai, a kérhető térítési díj legmagasabb összege, a kollégium komfortfokozat szerinti osztályba sorolásának feltételei[^62]
 
 ## A kollégiumi elhelyezés
 
@@ -18,7 +18,7 @@ d) a IV. kategóriába sorolható be a kollégiumi férőhely, amennyiben szobá
 
 (4) Az (1)–(3) bekezdés alkalmazása során felújítás minden olyan beruházás, amely a kollégium összértékéhez képest meghatározó költségráfordítás során a kollégiumi lakhatási körülményeket javítja, kivéve a kollégium állagmegőrzését célzó ráfordítást.
 
-(5)[^62]
+(5)[^63]
 
-[^61]: A 22. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
-[^62]: A 22. § (5) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 10. § e) pontja hatályon kívül helyezte.
+[^62]: A 22. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
+[^63]: A 22. § (5) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 10. § e) pontja hatályon kívül helyezte.

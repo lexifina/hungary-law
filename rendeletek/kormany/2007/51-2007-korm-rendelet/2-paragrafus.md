@@ -34,7 +34,7 @@ ga)[^5] államilag támogatott képzési formában, vagy magyar állami (rész)�
 
 gb) tanulmányait államilag támogatott képzési formában kezdte meg és az adott szakon, szakképzésben megkezdett féléveinek száma alapján jogosult lenne államilag támogatott képzésben való részvételre;
 
-h)[^6] saját bevétel: az Nftv. 82. § (1)–(2) bekezdése szerinti térítési díj, továbbá az intézményi szabályzatban meghatározott szolgáltatási díj, valamint az intézmény vállalkozási tevékenységének eredménye, gazdasági társaságtól kapott támogatásból származó bevétele, továbbá a pályázat útján kifejezetten ösztöndíj fizetésére kapott támogatás;
+h)[^6] saját bevétel: az Nftv. 82. § (1)–(2) bekezdése szerinti térítési díj, továbbá az intézményi szabályzatban meghatározott szolgáltatási díj, valamint az intézmény vállalkozási tevékenységének eredménye, jogi személytől kapott támogatásból származó bevétele, továbbá a pályázat útján kifejezetten ösztöndíj fizetésére kapott támogatás;
 
 i)[^7] államilag támogatott hallgató: az államilag támogatott képzésben részt vevő hallgató, valamint 2012 szeptemberétől kezdődően magyar állami (rész)ösztöndíjas képzésre felvételt nyert hallgató.
 
@@ -43,6 +43,6 @@ i)[^7] államilag támogatott hallgató: az államilag támogatott képzésben r
 [^3]: A 2. § (1) bekezdés d) pont db) alpontja a 220/2014. (VIII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (1) bekezdés g) pont nyitó szövegrésze a 220/2014. (VIII. 29.) Korm. rendelet 9. § a) és 10. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés g) pont ga) alpontja a 248/2012. (VIII. 31.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § (1) bekezdésének h) pontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének a) pontjával megállapított, a 220/2014. (VIII. 29.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdésének h) pontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének a) pontjával megállapított, a 220/2014. (VIII. 29.) Korm. rendelet 9. § c) pontja, a 407/2017. (XII. 15.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § (1) bekezdés i) pontját a 248/2012. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be, szövege a 220/2014. (VIII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^8]: A 2. § (2) bekezdését a 233/2007. (IX. 4.) Korm. rendelet 2. § (5) bekezdése hatályon kívül helyezte.
