@@ -16,7 +16,7 @@
 
 5. kezességvállaló intézmény: az Agrár-Vállalkozási Hitelgarancia Alapítvány;
 
-6.[^6] kedvezőtlen időjárással érintett vállalkozás: az MFB Agrár Forgóeszköz Hitelprogram 2020 vagy az MFB TÉSZ Forgóeszköz Hitelprogram 2020 (a továbbiakban együttesen: hitelprogram) jogosultsági feltételeinek megfelelő, a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1., 3., illetve 4. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen tevékenységet folytató – kizárólag az 1. mellékletben szereplő település vonatkozásában a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR '08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő – hitelfelvevő, aki a hitelprogram keretében
+6.[^6] kedvezőtlen időjárással érintett vállalkozás: az MFB Agrár Forgóeszköz Hitelprogram 2020 vagy az MFB TÉSZ Forgóeszköz Hitelprogram 2020 (a továbbiakban együttesen: hitelprogram) jogosultsági feltételeinek megfelelő, a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1., 3., 4., illetve 5. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen tevékenységet folytató – kizárólag az 1. mellékletben szereplő település vonatkozásában a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR '08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő – vagy a 2017. októberi viharkár által a fóliás növénykultúrák termesztésére szolgáló építményekben keletkezett károk kompenzálására igénybe vehető mezőgazdasági csekély összegű támogatásról szóló 65/2017. (XII. 22.) FM rendelet [a továbbiakban: 65/2017. (XII. 22.) FM rendelet] 1. melléklete alapján a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának a viharkárral érintett építmény fekvése szerint illetékes megyei szervezete (a továbbiakban: NAK) által kiállított igazolással rendelkező hitelfelvevő, aki a hitelprogram keretében
 
 a) a 77/2015. (XII. 1.) FM rendeletnek kizárólag az 1. mellékletében szereplő település esetében 2016. június 30-ig,
 
@@ -24,30 +24,29 @@ b) a 77/2015. (XII. 1.) FM rendeletnek kizárólag a 3. mellékletében szerepl�
 
 c) a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szereplő település esetében 2017. május 31-ig,
 
-d) a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő település esetében a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrártárgyú támogatásokat szabályozó rendeletek módosításáról szóló 39/2017. (VIII. 7.) FM rendelet [a továbbiakban: 39/2017. (VIII. 7.) FM rendelet] hatálybalépésének[^7] napja és 2017. december 31. között (a határnapokat is beleértve)
+d) a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő település 2017. augusztus 8. és 2018. május 31. között (a határnapokat is beleértve),
 
-## hatályba lépett hitelszerződéssel rendelkezik;
+e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolás rendelkezésére állása esetében (a továbbiakban: fóliás termesztés) az egyes nemzeti forrásból finanszírozott agrártámogatásokat és közvetlen támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 66/2017. (XII. 22.) FM rendelet hatálybalépésének napja és 2018. május 31. között (a határnapokat is beleértve)
 
 7. pénzügyi intézmény: olyan intézmény, amely a kezességvállalás pénzügyi szolgáltatás igénybevétele érdekében csatlakozási, együttműködési vagy partneri keretszerződés alapján kapcsolatban áll a kezességvállaló intézménnyel;
 
-8.[^8] támogatási intenzitás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 15. pontjában meghatározott intenzitás;
+8.[^7] támogatási intenzitás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 15. pontjában meghatározott intenzitás;
 
-9.[^9] támogatástartalom: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontjában meghatározott támogatási egyenérték;
+9.[^8] támogatástartalom: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontjában meghatározott támogatási egyenérték;
 
 10. támogatástartalomról szóló igazolás: a támogatás támogatástartalmáról szóló igazolás, amely a megállapított támogatás „de minimis” jellegét is megjelöli utalva a támogatás alapját képező bizottsági rendeletre, annak pontos címére és az Európai Unió Hivatalos Lapjában való kihirdetésre.
 
-11.[^10] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
+11.[^9] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
 
-12.[^11] egy és ugyanazon vállalkozás: a 37/2011. (III. 22.) Korm. rendelet 2. § 5a. pontjában meghatározott vállalkozás.
+12.[^10] egy és ugyanazon vállalkozás: a 37/2011. (III. 22.) Korm. rendelet 2. § 5a. pontjában meghatározott vállalkozás.
 
 [^1]: Az 1. § 1. pont 1.1. alpontja a 36/2014. (IV. 4.) VM rendelet 92. §-ával megállapított szöveg.
 [^2]: Az 1. § 1. pont 1.2. alpontja a 36/2014. (IV. 4.) VM rendelet 92. §-ával megállapított szöveg.
 [^3]: Az 1. § 1. pont 1.3. alpontja a 18/2014. (X. 29.) FM rendelet 43. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § 3. pontja a 77/2015. (XII. 1.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § 4. pontja a 65/2016. (IX. 21.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^6]: Az 1. § 6. pontját a 36/2014. (IV. 4.) VM rendelet 95. §-a hatályon kívül helyezte, újonnan a 77/2015. (XII. 1.) FM rendelet 14. § (2) bekezdése iktatta be, szövege a 39/2017. (VIII. 7.) FM rendelet 8. §-ával megállapított szöveg.
-[^7]: A hatálybalépés időpontja 2017. augusztus 8.
-[^8]: Az 1. § 8. pontja a 65/2016. (IX. 21.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^9]: Az 1. § 9. pontja a 18/2014. (X. 29.) FM rendelet 43. § (2) bekezdésével megállapított szöveg.
-[^10]: Az 1. § 11. pontját az 51/2016. (VII. 21.) FM rendelet 15. § (2) bekezdése iktatta be.
-[^11]: Az 1. § 12. pontját a 65/2016. (IX. 21.) FM rendelet 11. § (3) bekezdése iktatta be.
+[^6]: Az 1. § 6. pontját a 36/2014. (IV. 4.) VM rendelet 95. §-a hatályon kívül helyezte, újonnan a 77/2015. (XII. 1.) FM rendelet 14. § (2) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 8. §-ával megállapított szöveg.
+[^7]: Az 1. § 8. pontja a 65/2016. (IX. 21.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 1. § 9. pontja a 18/2014. (X. 29.) FM rendelet 43. § (2) bekezdésével megállapított szöveg.
+[^9]: Az 1. § 11. pontját az 51/2016. (VII. 21.) FM rendelet 15. § (2) bekezdése iktatta be.
+[^10]: Az 1. § 12. pontját a 65/2016. (IX. 21.) FM rendelet 11. § (3) bekezdése iktatta be.

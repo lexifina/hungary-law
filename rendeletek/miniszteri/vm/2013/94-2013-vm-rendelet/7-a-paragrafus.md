@@ -1,4 +1,4 @@
-7/A. §[^37] (1) A csekély összegű támogatások nyújtásával kapcsolatos eljárásokra a 37/2011. (III. 22.) Korm. rendelet 11–11/A. §-ában foglaltak irányadók.
+7/A. §[^36] (1) A csekély összegű támogatások nyújtásával kapcsolatos eljárásokra a 37/2011. (III. 22.) Korm. rendelet 11–11/A. §-ában foglaltak irányadók.
 
 (2) Az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet), az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet), valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
@@ -56,4 +56,4 @@ bi) harmadik országba vagy tagállamba irányuló exporttal kapcsolatos tevéke
 
 c) amely az importáruval szemben belföldi áru használatához kötött.
 
-[^37]: A 7/A. §-t a 65/2016. (IX. 21.) FM rendelet 13. §-a iktatta be.
+[^36]: A 7/A. §-t a 65/2016. (IX. 21.) FM rendelet 13. §-a iktatta be.
