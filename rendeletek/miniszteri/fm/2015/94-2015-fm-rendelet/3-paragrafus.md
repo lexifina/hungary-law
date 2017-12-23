@@ -34,17 +34,15 @@ k) az intervenciós és export tevékenységgel összefüggő szállítási útv
 
 (3) Ha az esemény az (1) bekezdés e) pontjában meghatározott esetkörön belül tűzeset miatt következett be, akkor azt az ügyfélnek a tűzeset helye szerint illetékes tűzvédelmi hatóság által kiállított tűzeseti hatósági bizonyítvánnyal vagy tűzvizsgálati jelentéssel kell igazolnia.
 
-(4)[^6] Ha a bejelentés az (1) bekezdés e), g), h) vagy i) pontjában meghatározott eseményre vonatkozik – az (1) bekezdés e) pontjában meghatározott esetkörön belüli tűzeset kivételével –, akkor a Kincstár
+(4)[^6] Ha a bejelentés az (1) bekezdés e), g), h) vagy i) pontjában meghatározott eseményre vonatkozik – az (1) bekezdés e) pontjában meghatározott esetkörön belüli tűzeset kivételével –, akkor az esemény bekövetkezésének igazolása céljából a Kincstár
 
 a) a bejelentés hiánytalan benyújtását követő tíz napon belül,
 
-b) ha a bejelentés támogatási vagy kifizetési kérelem beadási időszakban kerül benyújtásra, akkor a kérelembenyújtási időszakot követő tíz napon belül, hiányosan benyújtott bejelentés esetén a bejelentés hiánytalan benyújtását követő tíz napon belül
+b) ha a bejelentés támogatási vagy kifizetési kérelem beadási időszakban kerül benyújtásra, akkor a kérelembenyújtási időszakot követő tíz napon belül, hiányosan benyújtott bejelentés esetén a bejelentés hiánytalan benyújtását követő tíz napon belül megkeresi a Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 18. § (1) bekezdésében meghatározott szakhatóságot.
 
-## megkeresi a Magyar Államkincstárról szóló 311/2006. (XII. 23.) Korm. rendelet 6/E. § (1) bekezdésében meghatározott szakhatóságot.
+(5)[^7] Ha az ügyfél az (1) bekezdés e) pontja szerinti eseménnyel érintett terület vonatkozásában vis maior bejelentést nyújt be és ugyanezen terület vonatkozásában korábban a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény szerinti kárbejelentést is tett, akkor a Kincstár az esemény bekövetkezésének igazolása során az általa működtetett mezőgazdasági kockázatkezelési adatbázis adatait is figyelembe veszi.
 
-(5)[^7] Ha az ügyfél a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk. törvény) szerinti agrárkár-enyhítési eljárásban kárbejelentést tesz, akkor kérésére az általa megjelölt támogatások, illetve intézkedések vonatkozásában az agrárkár-megállapító szerv kárbejelentésre vonatkozó döntésének hatálya a 3. § (1) bekezdés e) pontja szerinti eseményre vonatkozó ténymegállapítások tekintetében – az esemény bekövetkezésének e rendelet szerinti külön bejelentése és az igazolása tárgyában hozott külön döntés nélkül – kiterjed a vis maior bejelentéssel érintett eljárásra is.
-
-(6)[^8] Az (5) bekezdés szerinti esetben a Kincstár az esemény bekövetkezésének igazolásáról az általa az agrárkár-enyhítési hatáskörében működtetett mezőgazdasági kockázatkezelési adatbázis adatai alapján dönt.
+(6)[^8]
 
 (7)[^9]
 
@@ -52,8 +50,8 @@ b) ha a bejelentés támogatási vagy kifizetési kérelem beadási időszakban 
 
 [^4]: A 3. § (1) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja szerint módosított szöveg.
 [^5]: A 3. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja szerint módosított szöveg.
-[^6]: A 3. § (4) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja, záró szövegrésze a 104. § d) pontja szerint módosított szöveg.
-[^7]: A 3. § (5) bekezdése a 43/2017. (IX. 5.) FM rendelet 14. §-ával megállapított szöveg.
-[^8]: A 3. § (6) bekezdése a 43/2017. (IX. 5.) FM rendelet 14. §-ával megállapított szöveg.
+[^6]: A 3. § (4) bekezdése a 66/2017. (XII. 22.) FM rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (5) bekezdése a 66/2017. (XII. 22.) FM rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (6) bekezdését a 66/2017. (XII. 22.) FM rendelet 33. §-a hatályon kívül helyezte.
 [^9]: A 3. § (7) bekezdését a 43/2017. (IX. 5.) FM rendelet 18. §-a hatályon kívül helyezte.
 [^10]: A 3. § (8) bekezdését a 88/2016. (XII. 29.) FM rendelet 105. §-a hatályon kívül helyezte.
