@@ -2,7 +2,7 @@
 
 8. § (1) A felsőoktatási intézményben az 1. melléklet szerinti, az oktatói, kutatói munkát segítő és egyéb munkakörök létesíthetők. Ezen foglalkoztatottak fizetési osztályba sorolását az 1. melléklet határozza meg.
 
-(2) A felsőoktatási intézmény a szervezeti és működési szabályzatában az (1) bekezdésben foglaltakon túl meghatározhat további, az oktatói és kutatói munkát segítő és egyéb munkaköröket is.
+(2)[^1] A felsőoktatási intézmény a szervezeti és működési szabályzatában az (1) bekezdésben foglaltakon túl meghatározhat további, az oktatói és kutatói munkát vagy a hallgatókat segítő és egyéb munkaköröket is.
 
 (3) Ügyvivő-szakértő munkakörbe kell besorolni azt a felsőfokú végzettséggel és szakképzettséggel rendelkező, önálló tevékenységet, szakértői munkát végző közalkalmazottat (különösen a kancellárt, a jogtanácsost, a jogi előadót, a közgazdászt, a felsőfokú végzettséggel rendelkező tanügy-igazgatási munkatársat), továbbá a felsőoktatási intézmény funkcionális egységének vezetőjét és helyettesét, aki nem vesz részt az oktatásban.
 
@@ -15,3 +15,5 @@
 (7) Szakmai szolgáltató vagy műszaki szolgáltató munkakörbe kell besorolni azt a közalkalmazottat, aki alapfokú vagy középfokú végzettséget igénylő szakképesítéssel vagy felsőfokú, felsőoktatási szakképesítéssel vagy alapfokozattal és szakirányú szakképzettséggel rendelkezik, az oktató-kutató laboratóriumokban közvetlenül segíti az oktatók-kutatók munkáját, a hallgatók gyakorlati képzését, továbbá önállóan végez kutatási részfeladatokat. E munkakörben foglalkoztatott felsőfokú technikusi végzettséggel rendelkező közalkalmazott besorolását az „E” fizetési osztályban előírt, felsőfokú végzettségi szintet nem tanúsító felsőfokú szakképesítésként kell figyelembe venni. A technikus, laboráns munkakörben a besorolás szempontjából felsőfokú szakképesítéssel egyenértékűnek kell tekinteni annak a közalkalmazottnak a képesítését, aki ipari, mezőgazdasági vagy egyéb technikumokban szerzett oklevelet, és legalább tíz évig szakképesítésének megfelelő területen dolgozott.
 
 (8) Klinikai állatorvos munkakörbe kell besorolni azt a közalkalmazottat, aki mesterfokozattal és állatorvos szakképzettséggel rendelkezik, és a felsőoktatási intézmény képzési feladatához kapcsolódóan állatorvosi feladatokat lát el.
+
+[^1]: A 8. § (2) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 44. §-a szerint módosított szöveg.
