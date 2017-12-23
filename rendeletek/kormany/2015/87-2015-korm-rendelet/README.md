@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-87-20-2
 | 2017-02-01 | 2015-87-20-22.13 | 169/2016. (VII. 1.) Korm. rendelet |
 | 2017-09-01 | 2015-87-20-22.14 | 345/2015. (XI. 19.) Korm. rendelet |
 | 2017-12-01 | 2015-87-20-22.15 | 362/2017. (XI. 30.) korm. rendelet |
+| 2017-12-23 | 2015-87-20-22.16 | 407/2017. (XII. 15.) Korm. rendelet |

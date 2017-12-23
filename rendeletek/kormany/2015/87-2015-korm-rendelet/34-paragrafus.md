@@ -6,7 +6,7 @@
 
 (3) A felsőoktatási intézmény a nyilvántartott adatokat hitelesített iratként állítja elő és tárolja.
 
-(4)[^72] A papír alapú irat hitelesítése a felsőoktatási intézmény szabályzatában meghatározott személy aláírásával, a felsőoktatási intézmény bélyegzőjének lenyomatával, valamint keltezéssel, az elektronikus irat hitelesítése időbélyegzővel és a felsőoktatási intézmény szabályzatában meghatározott személy elektronikus aláírásával, vagy elektronikus bélyegzővel való ellátásával történik.
+(4)[^81] A papír alapú irat hitelesítése a felsőoktatási intézmény szabályzatában meghatározott személy aláírásával, a felsőoktatási intézmény bélyegzőjének lenyomatával, valamint keltezéssel, az elektronikus irat hitelesítése időbélyegzővel és a felsőoktatási intézmény szabályzatában meghatározott személy elektronikus aláírásával, vagy elektronikus bélyegzővel való ellátásával történik.
 
 (5) A felsőoktatási intézménynek a hitelesített iratokat biztonságos helyen kell tárolnia oly módon, hogy ahhoz csak a felsőoktatási intézmény szabályzatában jogosultként megjelölt személyek férjenek hozzá.
 
@@ -30,14 +30,14 @@ g) az átvétel időpontját, és
 
 h) az átvevő nevét és aláírását.
 
-(8)[^73] Ha az átvétel során a (9) bekezdés szerinti képviselő jár el, a képviselő képviseletre jogosító okiratát az átadás-átvételi dokumentumhoz kell csatolni. Az átadás-átvételi dokumentum több irat átadását is tartalmazhatja. Ha az irat átadása nem személyesen történik, akkor azt az arra jogosult részére postai úton, az átvételt igazolható módon kell megküldeni. Ebben az esetben a küldemény átvételének igazolására szolgáló dokumentumot csatolni kell az átadás-átvételt igazoló dokumentumhoz. Az átadás-átvételi dokumentumot a felsőoktatási intézmény szabályzatában meghatározott módon őrzi.
+(8)[^82] Ha az átvétel során a (9) bekezdés szerinti képviselő jár el, a képviselő képviseletre jogosító okiratát az átadás-átvételi dokumentumhoz kell csatolni. Az átadás-átvételi dokumentum több irat átadását is tartalmazhatja. Ha az irat átadása nem személyesen történik, akkor azt az arra jogosult részére postai úton, az átvételt igazolható módon kell megküldeni. Ebben az esetben a küldemény átvételének igazolására szolgáló dokumentumot csatolni kell az átadás-átvételt igazoló dokumentumhoz. Az átadás-átvételi dokumentumot a felsőoktatási intézmény szabályzatában meghatározott módon őrzi.
 
 (9) A felvett jelentkező helyett, illetve a hallgató vagy volt hallgató helyett a Polgári perrendtartásról szóló 1952. évi III. törvényben meghatározott teljes bizonyító erejű magánokiratba vagy közokiratba foglalt meghatalmazással rendelkező képviselője, vagy törvényes képviselője (a továbbiakban együtt: képviselő) is eljárhat.
 
 (10) A felsőoktatási intézmény a kötelezően kezelt iratokon kívüli, a hallgatói jogviszonyhoz kapcsolódó egyéb iratokról a szabályzatában rendelkezik.
 
-(11)[^74] A felsőoktatási intézmény iratkezelési rendjét az intézmény a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény és a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet előírásai alapján szabályozza.
+(11)[^83] A felsőoktatási intézmény iratkezelési rendjét az intézmény a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény és a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet előírásai alapján szabályozza.
 
-[^72]: A 34. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 75. §-ával megállapított, a 352/2016. (XI. 18.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^73]: A 34. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 89. § 8. pontja szerint módosított szöveg.
-[^74]: A 34. § (11) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 32. §-a iktatta be.
+[^81]: A 34. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 75. §-ával megállapított, a 352/2016. (XI. 18.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^82]: A 34. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 89. § 8. pontja szerint módosított szöveg.
+[^83]: A 34. § (11) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 32. §-a iktatta be.

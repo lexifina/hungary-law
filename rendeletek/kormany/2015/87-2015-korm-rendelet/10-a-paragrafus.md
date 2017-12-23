@@ -1,4 +1,4 @@
-10/A. §[^18] (1) A diákotthon működési feltételeinek felülvizsgálatakor a Hivatal az Nftv. 67. § (3) bekezdés i) pontja alapján felhívja a diákotthon fenntartóját a felülvizsgálathoz szükséges adatok szolgáltatására.
+10/A. §[^22] (1) A diákotthon működési feltételeinek felülvizsgálatakor a Hivatal az Nftv. 67. § (3) bekezdés i) pontja alapján felhívja a diákotthon fenntartóját a felülvizsgálathoz szükséges adatok szolgáltatására.
 
 (2) A diákotthon fenntartójától adat kérhető a diákotthon működésének minimális (kötelező) feltételei tekintetében előírtak igazolására.
 
@@ -10,4 +10,4 @@ b) a diákotthon maximális férőhelyszámát a 3. mellékletben meghatározott
 
 c) a diákotthont törli a nyilvántartásából.
 
-[^18]: A 10/A. §-t a 442/2016. (XII. 16.) Korm. rendelet 36. §-a iktatta be.
+[^22]: A 10/A. §-t a 442/2016. (XII. 16.) Korm. rendelet 36. §-a iktatta be.

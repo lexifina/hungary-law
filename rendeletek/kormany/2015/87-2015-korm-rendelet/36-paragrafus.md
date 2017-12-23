@@ -8,7 +8,7 @@
 
 3. a leckekönyv-nyomtatvány sorszámát és a diákigazolvány sorszámát;
 
-4.[^76] a törzslaphoz kapcsolódó hallgatói jogviszony adatait (keletkezésének és megszűnésének időpontja);
+4.[^85] a törzslaphoz kapcsolódó hallgatói jogviszony adatait (keletkezésének és megszűnésének időpontja);
 
 5. a hallgató képzésének adatait képzésenként (a képzés neve, szintje, munkarendje, nyelve, a képzési és kimeneti követelmények szerinti képzési ideje, telephelye, a képzés megkezdésének időpontja és létrejöttének módja, a határozat száma, a képzés befejezésének időpontja és módja), a képzés – több képzés esetén a képzések – bemeneti feltételeként meghatározott okiratok adatait (az okirat megnevezése, kibocsátó intézmény neve, az okirat száma, kiállításának időpontja), átvétel esetén az átadás adatait (az átadó felsőoktatási intézmény neve, azonosító száma, az átadó intézményben folytatott képzés neve, szintje, munkarendje, nyelve, helye, finanszírozási formája);
 
@@ -48,11 +48,11 @@
 
 23. a törzslap hitelesítését;
 
-24.[^77] a doktorandusz hallgató korábbi doktori képzéseinek adatait (a felsőoktatási intézmény neve, intézményi azonosító száma, a program megnevezése);
+24.[^86] a doktorandusz hallgató korábbi doktori képzéseinek adatait (a felsőoktatási intézmény neve, intézményi azonosító száma, a program megnevezése);
 
-25.[^78] a doktori fokozat megszerzése feltételeinek teljesítésére vonatkozó adatokat (a komplex vizsga időpontja, eredménye, a doktori védés időpontja, eredménye);
+25.[^87] a doktori fokozat megszerzése feltételeinek teljesítésére vonatkozó adatokat (a komplex vizsga időpontja, eredménye, a doktori védés időpontja, eredménye);
 
-26.[^79] az odaítélt doktori fokozat megnevezését.
+26.[^88] az odaítélt doktori fokozat megnevezését.
 
 (3) A felsőoktatási intézményben ugyanarról a személyről az adott hallgatói jogviszonyához kapcsolódóan – minden jogviszony típus esetén – egy törzslap vezethető. A hallgatói jogviszony megszűnése után, újabb jogviszony létesítésekor új törzslapot kell nyitni.
 
@@ -76,7 +76,7 @@ c) az oklevél javítására, másodlat kiadására vagy az oklevél érvénytel
 
 (10) A felsőoktatási intézmény a hallgatói jogviszony megszűnésekor papír alapú hitelesített törzslap-kivonatot ad ki
 
-a)[^80] hivatalból a tanulmányát végbizonyítvány (abszolutórium) nélkül befejező hallgató részére, amennyiben legalább egy félévet aktív hallgatóként teljesített,
+a)[^89] hivatalból a tanulmányát végbizonyítvány (abszolutórium) nélkül befejező hallgató részére, amennyiben legalább egy félévet aktív hallgatóként teljesített,
 
 b) kérelemre a végbizonyítványt szerzett, de tanulmányát oklevél megszerzése nélkül befejező hallgató részére,
 
@@ -88,8 +88,8 @@ c) kérelemre a szakirányú továbbképzésben oklevelet szerzett hallgató ré
 
 (13) A (10) bekezdés a) pontja szerint kiadott törzslap-kivonat átadását a törzslapra rá kell vezetni. Az irat átadását átadás-átvételi dokumentumon kell igazolni.
 
-[^76]: A 36. § (2) bekezdés 4. pontja a 345/2015. (XI. 19.) Korm. rendelet 90. § 3. pontja szerint módosított szöveg.
-[^77]: A 36. § (2) bekezdés 24. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
-[^78]: A 36. § (2) bekezdés 25. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
-[^79]: A 36. § (2) bekezdés 26. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
-[^80]: A 36. § (10) bekezdés a) pontja a 345/2015. (XI. 19.) Korm. rendelet 76. §-ával megállapított szöveg.
+[^85]: A 36. § (2) bekezdés 4. pontja a 345/2015. (XI. 19.) Korm. rendelet 90. § 3. pontja szerint módosított szöveg.
+[^86]: A 36. § (2) bekezdés 24. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^87]: A 36. § (2) bekezdés 25. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^88]: A 36. § (2) bekezdés 26. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^89]: A 36. § (10) bekezdés a) pontja a 345/2015. (XI. 19.) Korm. rendelet 76. §-ával megállapított szöveg.

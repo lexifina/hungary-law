@@ -1,4 +1,4 @@
-68. § (1)[^120] A 4. § (1) bekezdését, a 18. § (3) bekezdését, a 21. § (3) bekezdését és a 22. § (6) bekezdését először a 2017. évi keresztféléves felvételi eljárásban kell alkalmazni.
+68. § (1)[^136] A 4. § (1) bekezdését, a 18. § (3) bekezdését, a 21. § (3) bekezdését és a 22. § (6) bekezdését először a 2017. évi keresztféléves felvételi eljárásban kell alkalmazni.
 
 (2) A 4. § (3) bekezdése szerinti hallgatói létszámra vonatkozó összevetést először a 2013/2014–2014/2015. tanévekre vonatkozóan kell elvégezni.
 
@@ -12,14 +12,14 @@
 
 (7) A diákotthonnak, kollégiumnak a 3. melléklet 1. pont e) alpontjában foglaltakat legkésőbb 2018. szeptember 1-jétől biztosítania kell, ettől az időponttól kezdődően a Hivatal vizsgálhatja e feltételek fennálltát.
 
-(8)[^121] A felsőoktatási intézmény szabályzatait e rendeletet, valamint az e rendeletet módosító rendeletek alapján felül kell vizsgálni, és szükség esetén e rendeletet, valamint az e rendeletet módosító rendeletek hatálybalépését követő 90 napon belül módosítani kell. E rendeletnek a 2015. augusztus 15-ével hatályba lépő rendelkezéseire tekintettel szükségessé váló intézményi szabályzatmódosításokat a rendelkezések hatálybalépésével egyidejűleg kell hatályba léptetni.
+(8)[^137] A felsőoktatási intézmény szabályzatait e rendeletet, valamint az e rendeletet módosító rendeletek alapján felül kell vizsgálni, és szükség esetén e rendeletet, valamint az e rendeletet módosító rendeletek hatálybalépését követő 90 napon belül módosítani kell. E rendeletnek a 2015. augusztus 15-ével hatályba lépő rendelkezéseire tekintettel szükségessé váló intézményi szabályzatmódosításokat a rendelkezések hatálybalépésével egyidejűleg kell hatályba léptetni.
 
 (9) A felsőoktatási intézmény 2015. december 31-ig felülvizsgálja, hogy az általa fenntartott gyakorló köznevelési intézmény teljesíti-e a gyakorlóintézménnyé nyilvánítás feltételeit. A vizsgálat eredményéről a felsőoktatási intézmény 2016. január 31-ig tájékoztatja a fenntartóját.
 
 (10) A minisztérium hivatalos lapja kiadásával és értékesítésével kapcsolatos feladatokat a Magyar Közlöny Lap- és Könyvkiadó Kft. végzi.
 
-(11)[^122] A felsőoktatási intézménynek az 5. melléklet 1. pont m) alpontjában és 2. pont m) alpontjában foglaltakat a 2019/2020. tanévtől indítandó alap- és mesterképzések tekintetében kell biztosítania.
+(11)[^138] A felsőoktatási intézménynek az 5. melléklet 1. pont m) alpontjában és 2. pont m) alpontjában foglaltakat a 2019/2020. tanévtől indítandó alap- és mesterképzések tekintetében kell biztosítania.
 
-[^120]: A 68. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.
-[^121]: A 68. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 89. § 12. pontja szerint módosított szöveg.
-[^122]: A 68. § (11) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 84. § (2) bekezdése iktatta be.
+[^136]: A 68. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.
+[^137]: A 68. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 89. § 12. pontja szerint módosított szöveg.
+[^138]: A 68. § (11) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 84. § (2) bekezdése iktatta be.
