@@ -38,20 +38,6 @@ Határidő: 2019. április 30.
 
 1.7. az Országgyűlés Hivatalának a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 61/I. § (1) bekezdésében meghatározott, a kiemelt nemzeti emlékhellyel és annak környezetével kapcsolatos feladataira hivatkozva felkéri az Országos Bírósági Hivatal elnökét és az Országgyűlés Hivatala főigazgatóját, hogy – figyelemmel az államháztartásról szóló 2011. évi CXCV. törvény 33. § (4) bekezdés b) pontjára – gondoskodjanak a 2016. évi költségvetési maradványok egy részének felhasználásáról szóló 1317/2017. (VI. 8.) Korm. határozat alapján a Kvtv. 1. melléklet VI. Bíróságok fejezet számára felhasználni engedett 1 641 364 000 forint terhére a Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársaság és az Országos Bírósági Hivatal között kötött támogatási szerződés az Országgyűlés Hivatala részére történő átruházásáról.
 
-2. A Steindl Imre Program egyes elemei megvalósításának előkészítését végző állami tulajdonú nonprofit gazdasági társaság alapításáról szóló 1788/2016. (XII. 17.) Korm. határozat 6. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
-
-„6. felhívja a Miniszterelnökséget vezető minisztert és felkéri az Országgyűlés Hivatala főigazgatóját, hogy a Társaság útján gondoskodjanak a Budapest V. kerület, Alkotmány utca 2. és Kossuth Lajos tér 12. szám alatti, Budapest V. kerület belterület 24898 helyrajzi számú épület (a továbbiakban: Kúria épület) rekonstrukciója érdekében
-
-a) a tervezési program több változatban való elkészítéséről (figyelemmel a Kúria épületben történetileg elhelyezett igazságügyi szervezetek jelenlegi elhelyezési igényeire, az épület műszaki állapotára, a műemléki védettségéből fakadó korlátokra és a kiemelt nemzeti emlékhely sajátosságaira, a szükséges mértékben a Budapest V. kerület, Markó utca 16. szám alatti épület használatára vonatkozó javaslattal együtt),
-
-b) a szükséges tervek elkészítéséről, valamint
-
-c) a beruházás lebonyolításáról.
-
-Felelős: Miniszterelnökséget vezető miniszter az Országgyűlés Hivatala főigazgatója bevonásával
-
-Határidő: a tervezési program elkészítésére 2018. szeptember 30.
-
-a kivitelezési tervek elkészítésére a tervezési program elfogadását és a szükséges kormányzati döntések meghozatalát követő nyolc hónap”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
