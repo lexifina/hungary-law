@@ -8,7 +8,7 @@
 
 (3a)[^14] A 2016. évben rendelkezésre álló keretösszeg 95 000 000 forint.
 
-(3b)[^15] A 2017. évben rendelkezésre álló keretösszeg 100 millió forint.
+(3b)[^15] A tárgyévben rendelkezésre álló keretösszeg 100 millió forint.
 
 (4) A támogatási összeg forintra történő átszámításakor a támogatási kérelem benyújtási hónapjának első napján érvényes, az Európai Központi Bank által közzétett euró átváltási árfolyamot kell alkalmazni.
 
@@ -18,5 +18,5 @@
 [^12]: A 4. § (2) bekezdése a 109/2011. (XI. 21.) VM rendelet 1. §-ával megállapított, a 18/2014. (X. 29.) FM rendelet 10. § b) pontja szerint módosított szöveg.
 [^13]: A 4. § (3) bekezdése a 18/2014. (X. 29.) FM rendelet 6. §-ával megállapított, a 25/2015. (V. 27.) FM rendelet 31. § a) pontja, a 25/2016. (IV. 11.) FM rendelet 18. §-a szerint módosított szöveg.
 [^14]: A 4. § (3a) bekezdését a 25/2016. (IV. 11.) FM rendelet 17. § (2) bekezdése iktatta be.
-[^15]: A 4. § (3b) bekezdését a 6/2017. (II. 13.) FM rendelet 12. § (1) bekezdése iktatta be.
+[^15]: A 4. § (3b) bekezdését a 6/2017. (II. 13.) FM rendelet 12. § (1) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 4. §-a szerint módosított szöveg.
 [^16]: A 4. § (5) bekezdése a 6/2017. (II. 13.) FM rendelet 12. § (2) bekezdésével megállapított szöveg.
