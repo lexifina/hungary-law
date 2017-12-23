@@ -1,0 +1,7 @@
+# 2017. évi CXCVIII. törvény az állam által biztosított egyes kedvezmények és juttatások kedvezményezettjeinek megfelelő tájékoztatása érdekében szükséges törvénymódosításokról, valamint a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-198-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2017-12-23 | 2017. évi CXCVIII. törvény | 2017-198-00-00.0 (közlönyállapot) |
