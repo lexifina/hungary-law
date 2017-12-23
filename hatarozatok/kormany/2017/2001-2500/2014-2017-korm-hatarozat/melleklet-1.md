@@ -70,7 +70,7 @@
 
 ## 7. egyetért azzal, hogy a Kézilabdacsarnok építtetője az NSK legyen, amellyel összefüggésben – kizárólag a Kézilabdacsarnok megvalósításának tekintetében – a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat (jelen pont tekintetében a továbbiakban: Korm. hat.) mentesíti az NSK-t a Korm. hat. 1. pontjában foglalt tilalom alól;
 
-## 8. az egyes kiemelt sportcélú fejlesztési beruházások forrásszükségletének biztosításáról szóló 1801/2016. (XII. 20.) Korm. határozat 1. mellékletében a „Szegedi multifunkcionális sportcsarnok fejlesztés” megnevezésű fejlesztésre vonatkozó sort visszavonja;
+## 8.[^1]
 
 ## 9. felhívja a nemzeti fejlesztési minisztert, hogy a Kézilabdacsarnok állami beruházás keretében történő megvalósítása érdekében, illetve a 3. pontban foglaltak teljesíthetősége érdekében a XVII. Nemzeti Fejlesztési Minisztérium Fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 52. Szeged multifunkcionális csarnok előirányzaton rendelkezésre álló forrás terhére – figyelembe véve a támogatás kifizetéséhez kapcsolódó pénzügyi tranzakciós illetékek és kincstári díjak összegét – hozza létre a támogatási jogviszonyt az NSK-val;
 
@@ -179,3 +179,5 @@ forintban
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
