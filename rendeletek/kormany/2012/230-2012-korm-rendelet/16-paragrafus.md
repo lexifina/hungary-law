@@ -1,4 +1,4 @@
-16. §[^24] (1) Az együttműködési megállapodás tartalmazza:
+16. §[^25] (1) Az együttműködési megállapodás tartalmazza:
 
 a) az együttműködési megállapodást kötő felek nevét (cégnevét), székhelyét, elérhetőségét, adószámát, statisztikai számjelét, cégjegyzékszámát, egyéni vállalkozói nyilvántartási számát vagy nyilvántartási számát, képviseletére jogosult személy nevét, intézményi azonosító számot;
 
@@ -46,4 +46,4 @@ h) duális képzés esetén továbbá a jelentkezők kiválasztásának módját
 
 (2) A duális képzésben részt vevő szervezet legkésőbb a felsőoktatási felvételi eljárásban a jelentkezési sorrend módosításának határidejéig tájékoztatja a jelentkezőket a kiválasztás eredményéről.
 
-[^24]: A 16. § a 345/2015. (XI. 19.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^25]: A 16. § a 345/2015. (XI. 19.) Korm. rendelet 18. §-ával megállapított szöveg.

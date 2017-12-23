@@ -1,7 +1,8 @@
 ## 6. Az Országos Képzési Jegyzékben meghatározott emelt szintű szakképesítés felsőoktatási tanulmányokban történő elismerése
 
-19. § (1)[^30] Az Országos Képzési Jegyzékben meghatározott emelt szintű szakképzésben szerzett ismereteket – a szakképesítés megfeleltethető az alapképzési szak képzési és kimeneti követelményeiről szóló rendeletben meghatározott módon – 50 kredit értékben, az előzetesen megszerzett tudás, munkatapasztalat Nftv. 49. § (6) bekezdésében foglaltak szerinti beszámításával, a képzési területhez tartozó alapképzési szakon egy éves szakmai gyakorlatként kell elismerni és beszámítani a képzési időbe.
+19. § (1)[^31] Az Országos Képzési Jegyzékben meghatározott emelt szintű szakképzésben szerzett ismereteket az Nftv. 49. § (6) bekezdésében, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet 54. § (9) bekezdésében foglaltak szerint lehet elismerni.
 
-(2) Az (1) bekezdésben meghatározott beszámítást az oktatásért felelős miniszter az alapképzési szak képzési és kimeneti követelményeiről szóló rendeletében a szakképzésért és felnőttképzésért felelős miniszterrel egyetértésben szakonként határozza meg.
+(2)[^32]
 
-[^30]: A 19. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 23. § 5. pontja szerint módosított szöveg.
+[^31]: A 19. § (1) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^32]: A 19. § (2) bekezdését a 407/2017. (XII. 15.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
