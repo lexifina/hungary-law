@@ -1,4 +1,4 @@
-## 6a.[^69] A de minimis támogatásokra vonatkozó szabályok
+## 6a.[^68] A de minimis támogatásokra vonatkozó szabályok
 
 7/A. § (1) A de minimis támogatások nyújtásával kapcsolatos eljárásokra a Korm. rendelet 11–11/A. §-ában foglaltak az irányadók.
 
@@ -58,4 +58,4 @@ bi) a harmadik országba vagy tagállamba irányuló exporttal kapcsolatos tevé
 
 c) amely az importáruval szemben belföldi áru használatához kötött.
 
-[^69]: A 6a. alcímet (7/A–7/C. §) a 65/2016. (IX. 21.) FM rendelet 10. §-a iktatta be.
+[^68]: A 6a. alcímet (7/A–7/C. §) a 65/2016. (IX. 21.) FM rendelet 10. §-a iktatta be.

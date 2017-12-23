@@ -1,12 +1,12 @@
-## 8/A. §[^70] E rendeletnek a mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásáról szóló 94/2013. (X. 10.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 1. § c) és g) pontját, 2. § (6) bekezdését, valamint 7. § (3)–(5) bekezdését a módosító rendelet hatálybalépésekor[^71] folyamatban lévő ügyekben is alkalmazni kell.
+## 8/A. §[^69] E rendeletnek a mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásáról szóló 94/2013. (X. 10.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 1. § c) és g) pontját, 2. § (6) bekezdését, valamint 7. § (3)–(5) bekezdését a módosító rendelet hatálybalépésekor[^70] folyamatban lévő ügyekben is alkalmazni kell.
 
-## 8/B. §[^72] E rendeletnek a 25/2016. (IV. 11.) FM rendelettel megállapított
+## 8/B. §[^71] E rendeletnek a 25/2016. (IV. 11.) FM rendelettel megállapított
 
 a) 2. § (8) bekezdését a 2015. december 31-ét követően megkötött Folyószámlahitel-szerződések vonatkozásában,
 
-b) 7. § (6) bekezdését a 25/2016. (IV. 11.) FM rendelet hatálybalépésekor[^73] folyamatban lévő ügyekben
+b) 7. § (6) bekezdését a 25/2016. (IV. 11.) FM rendelet hatálybalépésekor[^72] folyamatban lévő ügyekben
 
-[^70]: A 8/A. §-t a 94/2013. (X. 10.) VM rendelet 10. § (5) bekezdése iktatta be.
-[^71]: A hatálybalépés időpontja 2013. október 13.
-[^72]: A 8/B. §-t a 25/2016. (IV. 11.) FM rendelet 24. §-a iktatta be.
-[^73]: A hatálybalépés időpontja 2016. április 12.
+[^69]: A 8/A. §-t a 94/2013. (X. 10.) VM rendelet 10. § (5) bekezdése iktatta be.
+[^70]: A hatálybalépés időpontja 2013. október 13.
+[^71]: A 8/B. §-t a 25/2016. (IV. 11.) FM rendelet 24. §-a iktatta be.
+[^72]: A hatálybalépés időpontja 2016. április 12.
