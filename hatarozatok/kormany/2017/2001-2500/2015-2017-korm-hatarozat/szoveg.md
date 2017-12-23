@@ -32,4 +32,6 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: a felmerülés ütemében
 
-7. visszavonja a Magyar Házak kárpátaljai kialakításáról szóló 1642/2016. (XI. 17.) Korm. határozatot.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
