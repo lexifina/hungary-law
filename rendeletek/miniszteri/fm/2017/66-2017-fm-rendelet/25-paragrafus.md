@@ -1,1 +1,0 @@
-## „f) a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolást, ha a fóliás termesztéshez kapcsolódó támogatás igazolására a kedvezőtlen időjárással érintett termelői szerveződés azt választja.”
