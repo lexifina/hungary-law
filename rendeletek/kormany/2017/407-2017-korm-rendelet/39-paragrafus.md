@@ -1,5 +1,3 @@
-## 38. § A 87/2015. (IV. 9.) Korm. rendelet 63. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+## 36–38. §[^15]
 
-## „(1) A fogyatékossággal élő hallgató (jelentkező) fogyatékosságának típusát a (2) vagy a (3) bekezdésben meghatározott szerv által kiadott szakértői véleménnyel igazolja.
-
-## (2) Ha a hallgató (jelentkező) fogyatékossága, sajátos nevelési igénye már a középfokú tanulmányok ideje alatt is fennállt, a fogyatékosság, sajátos nevelési igény a megyei (fővárosi) pedagógiai szakszolgálati intézmények, illetve azok megyei vagy országos szakértői bizottságként eljáró tagintézményei, valamint jogelődjeik közül a tanulási képességvizsgáló szakértői és rehabilitációs bizottságok, és az országos szakértői és rehabilitációs bizottságok által kibocsátott szakértői véleménnyel igazolható, kivéve a felnőttoktatásban nem nappali munkarendben folytatott tanulmányokat, amely esetben az ELTE Gyakorló Országos Pedagógiai Szakszolgálat és jogelődje, az Eötvös Loránd Tudományegyetem Gyakorló Gyógypedagógiai és Logopédiai Szakszolgálat, Szakértői és Rehabilitációs Bizottság és Gyógypedagógiai Szakmai Szolgáltató Intézmény szakértői véleményével igazolható a fogyatékosság, sajátos nevelési igény.”
+[^15]: A 36–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

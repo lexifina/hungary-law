@@ -1,3 +1,0 @@
-## 30. § A nemzeti felsőoktatási kiválóságról szóló 24/2013. (II. 5.) Korm. rendelet [a továbbiakban: 24/2013. (II. 5.) Korm. rendelet] 10. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az ösztöndíjas jogviszony feltétele, hogy a hallgató az ösztöndíjas jogviszony létesítésekor igazolni tudja az aktív hallgatói jogviszonyát. Alapképzésen teljes idejű képzés igazolható, mesterképzésen, valamint doktori képzésen bármely munkarendben végzett tanulmány igazolható. A pályázat benyújtásának nem feltétele a hallgatói jogviszony megléte, az ösztöndíjra pályázhatnak a felsőoktatási felvételi eljárásra jelentkezők is.”

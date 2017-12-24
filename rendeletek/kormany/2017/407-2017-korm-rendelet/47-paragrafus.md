@@ -1,4 +1,4 @@
-## 46. §[^7]
+## 46. §[^24]
 
 ## 15. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 8–18. §, a 22. § b) pontja, a 34. §, a 35. §, a 39. §, a 41. § g) pontja, a 43. §, a 46. § és a 6. melléklet 1. pont a) alpontja 2018. január 1-jén lép hatályba.
 
-[^7]: A 46. § a 47. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^24]: A 46. § a 47. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

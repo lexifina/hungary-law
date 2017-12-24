@@ -1,9 +1,8 @@
-## 39. §[^4]
+## 39. §[^16]
 
-40. § (1) A 87/2015. (IV. 9.) Korm. rendelet 4. melléklete a 4. melléklet szerint módosul.
-
-(2) A 87/2015. (IV. 9.) Korm. rendelet 6. melléklete az 5. melléklet szerint módosul.
+40. § (1)–(2)[^17]
 
 (3) A 87/2015. (IV. 9.) Korm. rendelet 9. melléklete a 6. melléklet szerint módosul.
 
-[^4]: A 39. § a 47. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^16]: A 39. § a 47. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^17]: A 40. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

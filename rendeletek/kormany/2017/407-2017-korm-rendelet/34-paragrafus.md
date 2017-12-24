@@ -1,1 +1,3 @@
-## „(9) Az Nftv. 78. § (3) bekezdése szerinti közös képzés esetén az új szakot nem eredményező képzésnek a felsőoktatási képesítési jegyzékbe történő felvételére nem kerül sor. Ebben az esetben a Hivatal a közös képzésről szóló együttműködési megállapodás adatait veszi nyilvántartásba.”
+## 33. §[^13]
+
+[^13]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
