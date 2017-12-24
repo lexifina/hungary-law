@@ -1,46 +1,4 @@
-## Az autópályák, autóutak és főutak használatának díjáról szóló miniszteri rendeletben meghatározott járművel díj ellenében használható gyorsforgalmi utak:
-
-## 1. M0 autóút
-
-## a) M5 autópálya és M4 autóút (4. számú autóút jelzés) közötti szakasza
-
-## b) M3 autópálya és 2. számú főút közötti szakasza;
-
-## 2. M1 autópálya,
-
-## 3. M2 autóút,
-
-## 4. M3 autópálya,
-
-## 5. M5 autópálya,
-
-## 6. M6 autópálya,
-
-## 7. M7 autópálya,
-
-## 8. M15 autóút,
-
-## 9. M19 autóút,
-
-## 10. M30 autópálya annak 1+550 és a 23+390 km szelvénye között,
-
-## 11. M35 autópálya,
-
-## 12. M43 autópálya,
-
-## 13. M51 autóút,
-
-## 14. M60 autópálya,
-
-## 15. M70 autóút,
-
-## 16. M4 autóút (4. számú autóút jelzés) Budapest Liszt Ferenc Nemzetközi Repülőtérre vezető út és az Üllő–Gyömrő (4603 j. út) csomópont (20+518 km szelvény és 29+160 km szelvény) közötti szakasza,
-
-## 17.[^8] M85 autóút.
-
-## 18.[^9] M86 autóút.
-
-2. melléklet a 37/2007. (III. 26.) GKM rendelethez[^10]
+2. melléklet a 37/2007. (III. 26.) GKM rendelethez[^6]
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -122,6 +80,4 @@
 
 | 37 | Zala | M70 | 0+200 | 232 (M7) 1 (M70) | M7-M70 elválási csomópont | 21+264 | - | Tornyiszentmiklós országhatár |
 
-[^8]: Az 1. melléklet 17. pontját a 42/2015. (VII. 10.) NFM rendelet – 75/2015. (XII. 29.) NFM rendelet 30. §-ával megállapított – 2. § (2) bekezdése iktatta be, szövege a 49/2016. (XII. 1.) NFM rendelet 1. §-ával megállapított szöveg.
-[^9]: Az 1. melléklet 18. pontját a 49/2016. (XII. 1.) NFM rendelet 1. §-a iktatta be.
-[^10]: A 2. melléklet a 49/2016. (XII. 1.) NFM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2. melléklet a 49/2016. (XII. 1.) NFM rendelet 2. §-ával megállapított szöveg.
