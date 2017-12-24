@@ -1,9 +1,3 @@
 ## 3. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-3. § Az államháztartásról szóló 2011. évi CXCV. törvény 69. alcíme a következő 106/E. §-sal egészül ki:
-
-„106/E. § (1) A kincstár az általa folyósított, jogszabály által alanyi jogon összegszerűen megállapított, továbbá magánszemélyeket jogszabályban meghatározott feltételek alapján megillető támogatás folyósításával, valamint az e támogatásra tekintettel nyújtott juttatással kapcsolatos kormányzati tájékoztatás érdekében jogosult a támogatásra jogosult személy nevére, lakcímére és a folyósított támogatásra, nyújtott juttatásra vonatkozó adatainak kezelésére.
-
-(2) A kincstár a Kormány tagja felkérésére, az államháztartásért felelős miniszter utasítása alapján teljesíti az (1) bekezdés szerinti támogatással, illetve juttatással összefüggő, az államháztartásért felelős miniszter által meghatározott kormányzati tájékoztatást.
-
-(3) A kincstár nem teljesíti a tájékoztatást azon személy részére, aki a tájékoztatás időpontját megelőzően legalább 30 nappal a kincstár részére írásban, neve és lakcíme megadásával nyilatkozik arról, hogy az adott támogatás, juttatás tekintetében tájékoztatásra nem tart igényt. A kincstár a nyilatkozatok adatait azok visszavonásáig, a tájékoztatás nyújtásának mellőzése céljából kezeli, azokat más célra nem kezelheti és más szerv részére nem továbbíthatja.”
+3. §
