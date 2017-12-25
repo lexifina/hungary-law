@@ -5,3 +5,5 @@
 a) illetékről rendelkezik, azon díjat,
 
 b) illetékfizetési kötelezettséget vagy illetékkötelezettséget említ, azon díjfizetési kötelezettséget
+
+kell e rendelet alkalmazásában érteni.
