@@ -1,4 +1,4 @@
-## 4. §[^2]
+## 4. §[^4]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 2. §, a 4. §, az 1. melléklet és a 2. melléklet 2018. január 1-jén lép hatályba.
 
-[^2]: A 4. § az 5. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^4]: A 4. § az 5. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
