@@ -1,1 +1,0 @@
-A földgázellátásról szóló 2008. évi XL. törvény 133. § (2) bekezdés 2. pontjában kapott felhatalmazás alapján, a nemzeti fejlesztési és gazdasági miniszter feladat- és hatásköréről szóló 134/2008. (V. 14.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
