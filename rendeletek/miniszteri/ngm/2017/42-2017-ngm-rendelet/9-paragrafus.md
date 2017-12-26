@@ -1,0 +1,1 @@
+## 8. § Az e rendelet hatálybalépését megelőzően kiállított gázszerelői igazolvánnyal rendelkező gázszerelők a tevékenységüket e rendelet hatálybalépését követően a gázszerelői igazolványban meghatározott időpontig az 1–4. §-ban és 6. §-ban foglalt követelmények teljesítése nélkül folytathatják tovább.
