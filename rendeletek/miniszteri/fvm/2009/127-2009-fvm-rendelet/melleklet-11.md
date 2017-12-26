@@ -110,7 +110,7 @@
 
 | A borászati termék származási bizonyítvány kérelmezésének célja (a megfelelő bekarikázandó) | A | készletigazolás |
 
-| B | másik adóraktárba történő átszállítás |
+| B | másik borászati üzembe átszállítás oka: adásvétel átvétel, átadás bérmunkára átvétel, átadás bértárolásra bérmunkából, bértárolásból kitárolt áttárolás |
 
 | C | forgalomba hozatali engedély igénylése |
 
@@ -128,7 +128,7 @@
 
 | 1. | A borá- szati termék | termékkategóriája (kóddal)1 |  |
 
-| 2. | tárolási helye (adóraktár száma): | □ a termelő címével azonos |
+| 2. | tárolási helye (üzemengedély száma): | □ a termelő címével azonos |
 
 | 3. | □ a felvásárló címével azonos |
 
@@ -244,6 +244,6 @@
 
 ## Bizonyítványt kérelmező aláírása
 
-11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^253]
+11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^243]
 
-[^253]: A 11. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § d) pontjával megállapított, a 34/2015. (VI. 25.) FM rendelet 6. § (2) bekezdése, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés c) pontja, és (5) bekezdés a) és b) pontja szerint módosított szöveg.
+[^243]: A 11. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § d) pontjával megállapított, a 34/2015. (VI. 25.) FM rendelet 6. § (2) bekezdése, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés c) pontja, és (5) bekezdés a) és b) pontja, az 59/2017. (XII. 18.) FM rendelet 12. § (3) bekezdése szerint módosított szöveg.

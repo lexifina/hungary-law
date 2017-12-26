@@ -1,6 +1,6 @@
-## 16. §[^75]
+## 16. §[^83]
 
-17. § (1)[^76] A származási bizonyítvány kiadását a HEGYIR-ben kell nyilvántartani.
+17. § (1)[^84] A származási bizonyítvány kiadását a HEGYIR-ben kell nyilvántartani.
 
 (2) A nyilvántartásnak
 
@@ -14,5 +14,5 @@ d) a származási bizonyítványban szereplő szőlő- vagy bormennyiség felhas
 
 kell tartalmaznia.
 
-[^75]: A 16. §-t a 128/2012. (XII. 14.) VM rendelet 32. § c) pontja hatályon kívül helyezte.
-[^76]: A 17. § (1) bekezdése a 20/2014. (X. 31.) FM rendelet 11. §-ával megállapított szöveg.
+[^83]: A 16. §-t a 128/2012. (XII. 14.) VM rendelet 32. § c) pontja hatályon kívül helyezte.
+[^84]: A 17. § (1) bekezdése a 20/2014. (X. 31.) FM rendelet 11. §-ával megállapított szöveg.

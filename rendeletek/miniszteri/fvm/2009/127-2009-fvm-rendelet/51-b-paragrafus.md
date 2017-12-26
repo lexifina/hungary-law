@@ -1,6 +1,6 @@
-## A származási ország feltüntetésének szabályai[^182]
+## A származási ország feltüntetésének szabályai[^194]
 
-## 51/B. §[^183] Az Európai Unió területén először Magyarországon forgalomba hozott földrajzi jelzés nélküli borok kiszerelésén a 607/2009/EK bizottsági rendelet 55. cikkében meghatározott adatokat legalább a következő betűnagysággal kell feltüntetni:
+## 51/B. §[^195] Az Európai Unió területén először Magyarországon forgalomba hozott földrajzi jelzés nélküli borok kiszerelésén a 607/2009/EK bizottsági rendelet 55. cikkében meghatározott adatokat legalább a következő betűnagysággal kell feltüntetni:
 
 a) 1 liter feletti kiszerelés esetén minimum 5 mm,
 
@@ -10,5 +10,5 @@ c) 51 ml–200 ml között minimum 3 mm,
 
 d) 50 ml-ig minimum 2 mm.
 
-[^182]: Az 51/B. §-t megelőző alcímet a 128/2012. (XII. 14.) VM rendelet 23. §-a iktatta be.
-[^183]: Az 51/B. §-t a 128/2012. (XII. 14.) VM rendelet 23. §-a iktatta be.
+[^194]: Az 51/B. §-t megelőző alcímet a 128/2012. (XII. 14.) VM rendelet 23. §-a iktatta be.
+[^195]: Az 51/B. §-t a 128/2012. (XII. 14.) VM rendelet 23. §-a iktatta be.

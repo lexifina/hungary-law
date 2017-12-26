@@ -70,11 +70,11 @@
 
 ## Hegybíró aláírása
 
-## B. Másik GA számmal rendelkező hegyközségi tag borászati üzemébe történő átszállítás céljából kiadott borászati termék származási bizonyítvány
+## B. Másik borászati üzemébe történő átszállítás céljából kiadott borászati termék származási bizonyítvány
 
 ## Borászati termék származási bizonyítvány
 
-## „B” típus – másik hegyközség területén található adóraktárba történő átszállítás céljából kiadva
+## „B” típus – másik borászati üzemébe történő átszállítás céljából kiadva
 
 ## Példányszám:
 
@@ -102,9 +102,7 @@
 
 ## GA száma:
 
-## A borászati termék rendeltetési helye szerint illetékes
-
-## hegyközség neve:
+## A borászati termék rendeltetési helye szerint illetékes hegyközség neve, amennyiben a borászati üzem másik hegyközség területén található:
 
 ## hegyközségi tanács neve:
 
@@ -136,7 +134,7 @@
 
 | 13. | teljes mennyisége (hl) |  |
 
-| 14. | Poten- ciá- lisan je- löl- hető | eredetmegjelölés(ek) és bortípus(ok) |  |
+| 14. | Poten- ciálisan jelöl- hető | eredetmegjelölés(ek) és bortípus(ok) |  |
 
 | 15. | földrajzi jelzés(ek) és bortípus(ok) |  |
 
@@ -160,7 +158,9 @@
 
 ## P. H.
 
-## Kelt: ............................................................. .....................................................
+## Kelt: .............................................................
+
+## .....................................................
 
 ## Hegybíró aláírása
 
@@ -254,6 +254,6 @@
 
 ## Hegybíró aláírása
 
-12. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^254]
+12. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^244]
 
-[^254]: A 12. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § e) pontjával megállapított szöveg.
+[^244]: A 12. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § e) pontjával megállapított szöveg.

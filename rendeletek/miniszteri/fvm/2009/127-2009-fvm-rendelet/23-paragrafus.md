@@ -6,7 +6,7 @@ b) az ortofotót,
 
 c) a szőlőültetvény fedvényt,
 
-d) a földrajzi név termőhelye fedvényt,
+d)[^96]
 
 e) a támogatás fedvényt,
 
@@ -24,14 +24,7 @@ k) a talajtani fedvényt,
 
 l) a blokkhatár fedvényt.
 
-(2) A VINGIS a minőségi termelés javítása és az eredetvédelem céljából kiegészíthető a következő szakmai adatbázisokkal is:
+(2)–(3)[^97]
 
-a) magasság-intervallum fedvény,
-
-b) lejtőkategória fedvény,
-
-c) kitettség fedvény,
-
-d) domborzati fedvény.
-
-(3) A VINGIS adatbázist az integrált szőlészeti és borászati nyilvántartó rendszerben nyilvántartott adatok alapján folyamatosan naprakészen kell tartani.
+[^96]: A 23. § (1) bekezdés d) pontját az 59/2017. (XII. 18.) FM rendelet 14. § b) pontja hatályon kívül helyezte.
+[^97]: A 23. § (2)–(3) bekezdését az 59/2017. (XII. 18.) FM rendelet 14. § c) pontja hatályon kívül helyezte.

@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-127-20-
 | 2017-07-07 | 2009-127-20-82.20 | 21/2016. (III. 31.) FM rendelet |
 | 2017-08-18 | 2009-127-20-82.21 | 42/2017. (VIII. 17.) FM rendelet |
 | 2017-09-08 | 2009-127-20-82.22 | 43/2017. (IX. 5.) FM rendelet |
+| 2017-12-26 | 2009-127-20-82.23 | 59/2017. (XII. 18.) FM rendelet |

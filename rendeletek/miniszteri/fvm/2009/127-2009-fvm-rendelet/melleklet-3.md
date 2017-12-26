@@ -28,7 +28,7 @@
 
 | 13. | korlátolt felelősségű társaság | Adóraktári engedélyszám: |
 
-| 14. | nyilvánosan működő részvénytársaság | NÉBIH engedélyszám: |
+| 14. | nyilvánosan működő részvénytársaság | Borászati üzem engedélyének száma: |
 
 | 15. | zártkörűen működő részvénytársaság | Vállalkozás regisztrációs száma (cégjegyzékszám, egyéni vállalkozói igazolvány száma vagy őstermelői igazolvány száma: |
 
@@ -278,6 +278,6 @@
 
 ## Hegyközségi tag/Adatszolgáltató aláírása
 
-3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^243]
+3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^233]
 
-[^243]: A 3. számú mellékletet a 20/2014. (X. 31.) FM rendelet 33. § f) pontja hatályon kívül helyezte.
+[^233]: A 3. számú mellékletet a 20/2014. (X. 31.) FM rendelet 33. § f) pontja hatályon kívül helyezte.
