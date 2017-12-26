@@ -1,1 +1,0 @@
-## 14. § Nem kell szállítójegyet kiállítani az erdőrészleten belül végzett közelítéshez, valamint az erdőben kialakított farakodó és az erdőrészlet közötti szállításhoz, ha a készletre vétel a farakodón erdőrészletre elkülönítetten történik.
