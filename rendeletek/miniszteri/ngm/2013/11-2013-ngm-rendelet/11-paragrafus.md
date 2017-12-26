@@ -1,8 +1,8 @@
 ## 6. Eljárás rendkívüli esemény alkalmával
 
-11. § (1)[^13] A csatlakozó vezetékkel, telephelyi vezetékkel és felhasználói berendezéssel kapcsolatos rendkívüli eseményeket lakossági fogyasztó esetében a földgázelosztó, a vezetékes PB-gáz szolgáltató vagy a telephelyi szolgáltató, más esetben a felhasználó köteles a Hatóságnak haladéktalanul bejelenteni, majd a bejelentést 24 órán belül írásban megerősíteni.
+11. § (1)[^16] A csatlakozó vezetékkel, telephelyi vezetékkel és felhasználói berendezéssel kapcsolatos rendkívüli eseményeket lakossági fogyasztó esetében a földgázelosztó, a vezetékes PB-gáz szolgáltató vagy a telephelyi szolgáltató, más esetben a felhasználó köteles a Hatóságnak haladéktalanul bejelenteni, majd a bejelentést 24 órán belül írásban megerősíteni.
 
-(2)[^14] A felhasználó köteles gondoskodni arról, hogy a rendkívüli esemény vizsgálatáig a helyszín érintetlen maradjon. A földgázelosztó, a vezetékes PB-gáz szolgáltató, a telephelyi szolgáltató és a felhasználó rendkívüli esemény esetében köteles minden olyan intézkedést megtenni, amely a veszélyeztetést és a kár mértékét a legkisebbre korlátozza. Ezek során az emberi élet vagy testi épség, továbbá jelentős érték megóvása érdekében engedélyt adhat a helyszín megváltoztatására, ez esetben a helyszínről rajzot vagy fényképfelvételt kell készíteni. A tárgyi bizonyítékul szolgáló eszközöket meg kell őriznie.
+(2)[^17] A felhasználó köteles gondoskodni arról, hogy a rendkívüli esemény vizsgálatáig a helyszín érintetlen maradjon. A földgázelosztó, a vezetékes PB-gáz szolgáltató, a telephelyi szolgáltató és a felhasználó rendkívüli esemény esetében köteles minden olyan intézkedést megtenni, amely a veszélyeztetést és a kár mértékét a legkisebbre korlátozza. Ezek során az emberi élet vagy testi épség, továbbá jelentős érték megóvása érdekében engedélyt adhat a helyszín megváltoztatására, ez esetben a helyszínről rajzot vagy fényképfelvételt kell készíteni. A tárgyi bizonyítékul szolgáló eszközöket meg kell őriznie.
 
 (3) A Hatóság hivatalból kivizsgálja a berendezéssel, létesítménnyel folytatott tevékenység során bekövetkezett rendkívüli eseményt. A Hatóság a vizsgálatra bizottságot alakíthat. A bizottsági munkát a Hatóságnak a vizsgálatra kijelölt képviselője irányítja. A hatósági vizsgálat nem érinti a felhasználónak vagy az egyetemes szolgáltatónak más jogszabályban előírt vizsgálati kötelezettségét.
 
@@ -20,5 +20,5 @@ a) bűncselekmény alapos gyanúja esetén büntetőfeljelentést tesz;
 
 b) szabálysértés esetén az illetékes szabálysértési hatóságnál szabálysértési eljárást kezdeményez.
 
-[^13]: A 11. § (1) bekezdése a 7/2016. (II. 22.) NGM rendelet 11. § (10) bekezdésével megállapított szöveg.
-[^14]: A 11. § (2) bekezdése a 7/2016. (II. 22.) NGM rendelet 11. § (10) bekezdésével megállapított szöveg.
+[^16]: A 11. § (1) bekezdése a 7/2016. (II. 22.) NGM rendelet 11. § (10) bekezdésével megállapított szöveg.
+[^17]: A 11. § (2) bekezdése a 7/2016. (II. 22.) NGM rendelet 11. § (10) bekezdésével megállapított szöveg.

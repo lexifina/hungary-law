@@ -26,7 +26,7 @@
 
 ## * Megjegyzés: Amennyiben a Műszaki Biztonsági Szabályzattól eltértek, a nyilatkozatnak ki kell térnie az eltérés lényeges elemeire, valamint mellékelni kell a dokumentumot, amely alapján az eltérés történt.
 
-2. melléklet a 11/2013. (III. 21.) NGM rendelethez[^18]
+2. melléklet a 11/2013. (III. 21.) NGM rendelethez[^21]
 
 Műszaki Biztonsági Szabályzat
 
@@ -1344,6 +1344,4 @@ A tervezőnek a nyomásszabályozó állomások tervezésekor az MSZ EN 60079-10
 
 A nyomásszabályozó állomás normál üzemi körülmények között zárt rendszert képez. Környezetét nem veszélyezteti.
 
-A nyomásszabályozó állomás biztonsági gyorszárának felső zárási nyomását és a biztonsági lefúvató nyitási nyomását úgy kell megtervezni és az üzembe helyezéskor beállítani, hogy a megengedett felső érték elérésekor először a gyorszár zárjon, majd a beállított nyitónyomás esetén nyisson a lefúvató szelep. A biztonsági lefúvató vezetékek átmérője legfeljebb DN 50 legyen.
-
-[^18]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 11. § (11) bekezdésével megállapított szöveg.
+[^21]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 11. § (11) bekezdésével megállapított szöveg.

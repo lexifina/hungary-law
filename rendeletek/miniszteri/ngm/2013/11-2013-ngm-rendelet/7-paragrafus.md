@@ -1,4 +1,4 @@
-7. §[^9] (1) A felhasználó a csatlakozóvezeték és a fogyasztói vezeték üzembe helyezését követően legkésőbb 8 napon belül a 70 kW együttes hőterhelést meghaladó gázfelhasználó technológia műszaki biztonsági használatbavételének és átalakítás utáni ismételt használatbavételének műszaki biztonsági jóváhagyását kérelmezni köteles a Hatóságtól.
+7. §[^11] (1) A felhasználó a csatlakozóvezeték és a fogyasztói vezeték üzembe helyezését követően legkésőbb 8 napon belül a 70 kW együttes hőterhelést meghaladó gázfelhasználó technológia műszaki biztonsági használatbavételének és átalakítás utáni ismételt használatbavételének műszaki biztonsági jóváhagyását kérelmezni köteles a Hatóságtól.
 
 (2) A kérelemhez mellékelni kell a 70 kW együttes hőterhelést meghaladó gázfelhasználó technológia műszaki leírást, a kiviteli tervet, az 1. melléklet szerinti tervezői nyilatkozatot, illetve amennyiben a gázfelhasználó technológiát vagy a részét képező gázfogyasztó készüléket annak gyártója, forgalmazója vagy ezek megbízottja szereli össze vagy alakítja át és helyezi üzembe, akkor az erről szóló szándéknyilatkozatot.
 
@@ -38,4 +38,4 @@ e) a tervezett átalakítás műszaki dokumentációjának azonosító számát,
 
 f) az átalakítással érintett műszaki, technológiai változások összefoglalását.
 
-[^9]: A 7. § a 7/2016. (II. 22.) NGM rendelet 11. § (6) bekezdésével megállapított szöveg.
+[^11]: A 7. § a 7/2016. (II. 22.) NGM rendelet 11. § (6) bekezdésével megállapított szöveg.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-11-20-2
 | 2016-03-01 | 2013-11-20-2X.4 | 7/2016. (II. 22.) NGM rendelet |
 | 2016-12-13 | 2013-11-20-2X.5 | 44/2016. (XI. 28.) NGM rendelet |
 | 2017-01-01 | 2013-11-20-2X.6 | 62/2016. (XII. 29.) NGM rendelet |
+| 2017-12-26 | 2013-11-20-2X.7 | 42/2017. (XII. 11.) NGM rendelet |
