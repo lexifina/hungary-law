@@ -18,19 +18,29 @@
 
 ## Határidő: azonnal
 
-## 3. A Kormány felhívja a nemzetgazdasági minisztert, hogy gondoskodjon 2592,7 millió forint forrás biztosításáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 1. Állami Egészségügyi Ellátó Központ alcím javára.
+## 3.[^1] A Kormány felhívja a nemzetgazdasági minisztert, hogy gondoskodjon
+
+## a) 1 245 000 000 forint forrás biztosításáról a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv2.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím, 2. Felhalmozási költségvetés előirányzat-csoport, 6. Beruházások kiemelt előirányzat javára,
+
+## b) 1 287 000 000 forint forrás biztosításáról a Kvtv2. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím, 2. Felhalmozási költségvetés előirányzat-csoport, 6. Beruházások kiemelt előirányzat javára, és
+
+## c) 60 000 000 forint forrás biztosításáról a Kvtv2. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 29. Természetes fogamzássegítés jogcímcsoport javára.
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Határidő: azonnal
+## Határidő: a felmerülés ütemében
 
-## 4. A Kormány felhívja az emberi erőforrások miniszterét, hogy – a nemzetgazdasági miniszter bevonásával – gondoskodjon a 3. pontban jelzett összegen felül a további fejlesztésekhez szükséges, legfeljebb 2407,3 millió forint többletforrás rendelkezésre állásáról a felmerülés ütemében.
+## 4.[^2] A Kormány felhívja a nemzetgazdasági minisztert, hogy gondoskodjon
 
-## Felelős: emberi erőforrások minisztere
+## a) 4 909 000 000 forint forrás biztosításáról a Kvtv2. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím, 2. Felhalmozási költségvetés előirányzat-csoport, 6. Beruházások kiemelt előirányzat javára,
 
-## nemzetgazdasági miniszter
+## b) 217 000 000 forint forrás biztosításáról a Kvtv2. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím, 2. Felhalmozási költségvetés előirányzat-csoport, 6. Beruházások kiemelt előirányzat javára, és
 
-## Határidő: 2017. évben a felmerülés ütemében
+## c) 140 000 000 forint forrás biztosításáról a Kvtv2. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 29. Természetes fogamzássegítés jogcímcsoport javára.
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: a felmerülés ütemében
 
 1. melléklet az 1600/2017. (VIII. 31.) Korm. határozathoz
 
@@ -93,3 +103,6 @@ a Kormány hatáskörében Költségvetési év: 2017.
 | Fejezetet irányító szerv 1 példány Állami Számvevőszék 1 példány Magyar Államkincstár 1 példány Nemzetgazdasági Minisztérium 2 példány | időarányos teljesítményarányos egyéb: azonnal | 1 550,1 |  |  |  | 1 550,1 |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: A 3. pont a 2030/2017. (XII. 27.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 4. pont a 2030/2017. (XII. 27.) Korm. határozat 3. pontjával megállapított szöveg.
