@@ -94,13 +94,14 @@
 
 ## 12. A Kormány egyetért azzal, hogy az egyes határon túli magyar szervezetek egyszerűsített honosítási programjának megvalósításával összefüggő feladatok ellátása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1797/2017. (XI. 8.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 325 000 000 forintból 16 200 010 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 13. A Kormány egyetért azzal, hogy a Magyarország Kormánya és Hódmezővásárhely Megyei Jogú Város Önkormányzata közötti együttműködési megállapodásról szóló 1840/2017. (XI. 10.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 18. Hódmezővásárhelyi ágazati fejlesztések jogcímcsoport, K7. Felújítások kiemelt előirányzat javára átcsoportosított 132 300 000 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
+## 13.[^4]
 
-## 14–15.[^4]
+## 14–15.[^5]
 
 1. melléklet az 1989/2017. (XII. 19.) Korm. határozathoz
 
 [^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 14–15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A Kormány a 13. pontot a 2029/2017. (XII. 27.) Korm. határozat 10. pontjával visszavonta.
+[^5]: A 14–15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
