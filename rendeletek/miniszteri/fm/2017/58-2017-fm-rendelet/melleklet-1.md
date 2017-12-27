@@ -1,4 +1,4 @@
-## 12. § Hatályát veszti a faanyag kereskedelmi lánc felügyeletével kapcsolatos bejelentés, nyilvántartás és ellenőrzés részletes szabályairól szóló 26/2016. (IV. 11.) FM rendelet.
+## 12. §[^1]
 
 1. melléklet az 58/2017. (XII. 18.) FM rendelethez
 
@@ -177,3 +177,5 @@
 |  | 16. | tiszafa | Taxus baccata | TF | fenyő |
 
 |  | 17. | zöld duglászfenyő | Pseudotsuga menziesii viridis | ZDF | fenyő |
+
+[^1]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
