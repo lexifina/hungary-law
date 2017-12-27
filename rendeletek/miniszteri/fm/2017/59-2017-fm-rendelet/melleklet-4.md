@@ -136,4 +136,6 @@
 
 ## ”
 
-4. melléklet az 59/2017. (XII. 18.) FM rendelethez
+4–6. melléklet az 59/2017. (XII. 18.) FM rendelethez[^10]
+
+[^10]: A 4–6. melléklet a 2010: CXXX. törvény 12. § (2) bekzedése alapján hatályát vesztette.
