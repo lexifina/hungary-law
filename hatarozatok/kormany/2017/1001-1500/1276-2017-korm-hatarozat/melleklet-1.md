@@ -18,7 +18,7 @@
 
 ## Határidő: 2018. június 30.
 
-## b) az Áht. 21. § (1) bekezdésében és a 33. § (2) bekezdésében biztosított jogkörében eljárva 197,8 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 8. VERITAS Történetkutató Intézet cím javára, a 2. melléklet szerint.
+## b)[^1] az Áht. 21. § (1) bekezdésében és a 33. § (2) bekezdésében biztosított jogkörében eljárva 197,8 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 8. VERITAS Történetkutató Intézet cím javára, a 2. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -30,10 +30,11 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2018. január 30.
+## Határidő: 2018. június 30.
 
-## 2.[^1]
+## 2.[^2]
 
 1. melléklet az 1276/2017. (V. 31.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont b) alpontja a 2029/2017. (XII. 27.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
