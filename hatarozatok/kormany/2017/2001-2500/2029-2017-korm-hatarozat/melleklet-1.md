@@ -1,0 +1,117 @@
+## 1. A Kormány
+
+## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének 56. Budapest X. kerület, Hős utca 15/A–B szám alatti ingatlan helyzetének rendezése, 57. Budapest VIII. kerület városkép rehabilitáció támogatása, 58. Tomajmonostora Község fejlesztési feladatainak támogatása, 59. Tiszaszőlős Község fejlesztési feladatainak támogatása, 60. Tiszaörs Község fejlesztési feladatainak támogatása, 61. Tiszaszentimre Község fejlesztési feladatainak támogatása, 62. Tiszaigar Község fejlesztési feladatainak támogatása, 63. Tiszaderzs Község fejlesztési feladatainak támogatása, 64. Budapest III. Kerület parkfejlesztések támogatása, 65. Mezőcsát Város fejlesztési feladatainak támogatása, 66. Ónod Község fejlesztési feladatainak támogatása és 67. Tiszabábolna Község fejlesztési feladatainak támogatása címmel történő kiegészítését;
+
+## Felelős: nemzetgazdasági miniszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+## b) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 1 676 010 402 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
+
+## Az átcsoportosítás tekintetében
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+## Az elszámolás és a visszatérítési kötelezettség tekintetében
+
+## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
+
+## emberi erőforrások minisztere
+
+## Határidő: 2018. június 30.
+
+## c) a Kvtv. 19. § (4) bekezdésében és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 64 579 119 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 2. Országvédelmi Alap alcím terhére, az 1. melléklet szerint;
+
+## Az átcsoportosítás tekintetében
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+## Az elszámolás és a visszatérítési kötelezettség tekintetében
+
+## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
+
+## Határidő: 2018. június 30.
+
+## d) a Kvtv. 19. § (6) bekezdésében biztosított jogkörében eljárva 18 562 697 846 forint egyszeri átcsoportosítását rendeli el az 1. melléklet szerint;
+
+## Felelős: nemzetgazdasági miniszter
+
+## érintett miniszterek, Kormányzati Ellenőrzési Hivatal elnöke, Központi Statisztikai Hivatal elnöke, Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke
+
+## Határidő: azonnal
+
+## e) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 141 269 995 119 forint egyszeri átcsoportosítását rendeli az 1. melléklet szerint;
+
+## Az átcsoportosítás tekintetében
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+## f) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 56. Budapest X. kerület, Hős utca 15/A–B szám alatti ingatlan helyzetének rendezése cím javára átcsoportosított 2 100 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 2 100 000 000 forint támogatást nyújtson Budapest Főváros X. kerület Kőbányai Önkormányzat részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## g) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 57. Budapest VIII. kerület városkép rehabilitáció támogatása cím javára átcsoportosított 300 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 300 000 000 forint támogatást nyújtson Budapest Főváros VIII. kerület Józsefvárosi Önkormányzat részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## h) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 58. Tomajmonostora Község fejlesztési feladatainak támogatása cím javára átcsoportosított 65 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 65 000 000 forint támogatást nyújtson Tomajmonostora Község Önkormányzata részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## i) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 59. Tiszaszőlős Község fejlesztési feladatainak támogatása cím javára átcsoportosított 60 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 60 000 000 forint támogatást nyújtson Tiszaszőlős Község Önkormányzata részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## j) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 60. Tiszaörs Község fejlesztési feladatainak támogatása cím javára átcsoportosított 71 200 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 71 200 000 forint támogatást nyújtson Tiszaörs Község Önkormányzata részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## k) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 61. Tiszaszentimre Község fejlesztési feladatainak támogatása cím javára átcsoportosított 70 300 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 70 300 000 forint támogatást nyújtson Tiszaszentimre Község Önkormányzata részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## l) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 62. Tiszaigar Község fejlesztési feladatainak támogatása cím javára átcsoportosított 44 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 44 000 000 forint támogatást nyújtson Tiszaigar Község Önkormányzata részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## m) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 63. Tiszaderzs Község fejlesztési feladatainak támogatása cím javára átcsoportosított 60 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 60 000 000 forint támogatást nyújtson Tiszaderzs Község Önkormányzata részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## n) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 64. Budapest III. Kerület parkfejlesztések támogatása cím javára átcsoportosított 470 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 470 000 000 forint támogatást nyújtson Budapest Főváros III. Kerület Óbuda-Békásmegyeri Önkormányzat részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## o) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 65. Mezőcsát Város fejlesztési feladatainak támogatása cím javára átcsoportosított 50 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 50 000 000 forint támogatást nyújtson Mezőcsát Város Önkormányzata részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## p) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 66. Ónod Község fejlesztési feladatainak támogatása cím javára átcsoportosított 15 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 15 000 000 forint támogatást nyújtson Ónod Község Önkormányzata részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## q) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 67. Tiszabábolna Község fejlesztési feladatainak támogatása cím javára átcsoportosított 10 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 10 000 000 forint támogatást nyújtson Tiszabábolna Község Önkormányzata részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
+
+## r) az államháztartás központi alrendszerébe tartozó költségvetési szervek és fejezeti kezelésű előirányzatok 2016. évi költségvetési maradványának felhasználásáról szóló 1621/2017. (IX. 7.) Korm. határozatban megállapított 2016. évi, további intézkedésig fel nem használható kötelezettségvállalással nem terhelt költségvetési maradványokból az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 152. § (5) bekezdésében biztosított jogkörében eljárva engedélyezi a XII. Földművelésügyi Minisztérium fejezetnél keletkezett 630 869 968 forint, a XVII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 3 139 062 656 forint, a XVIII. Külgazdasági és Külügyminisztérium fejezetnél keletkezett 9 492 952 forint és a XX. Emberi Erőforrások Minisztériuma fejezetnél keletkezett 1 660 820 837 forint felhasználását;
+
+## s) a 2016. évi költségvetési maradványok egy részének felhasználásáról szóló 2000/2017. (XII. 21.) Korm. határozatban megállapított 2016. évi, további intézkedésig fel nem használható kötelezettségvállalással terhelt, azonban meghiúsulás miatt kötelezettségvállalással nem terheltté vált költségvetési maradványokból az Ávr. 153. §-ban biztosított jogkörében eljárva engedélyezi a XII. Földművelésügyi Minisztérium fejezetnél keletkezett 1 447 951 forint, a XVII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 2 255 978 084 forint, a XVIII. Külgazdasági és Külügyminisztérium fejezetnél keletkezett 24 824 054 forint, a XIX. Uniós Fejlesztések fejezetnél keletkezett 15 272 467 398 forint és a XX. Emberi Erőforrások Minisztériuma fejezetnél keletkezett 1 900 876 523 forint felhasználását;
+
+## t) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva a 2. melléklet szerinti átcsoportosítást rendeli el az r) és s) alpontban felhasználásra engedélyezett maradványok terhére;
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+## u) a szociális hozzájárulási adóhoz kapcsolódó megtakarítások kezeléséről szóló 467/2016. (XII. 23.) Korm. rendelet (a továbbiakban: Rendelet) 2. § b) pontjában meghatározott, adókulcs-csökkentésből származó szabad forrásokból 1 565 790 674 forint felhasználást engedélyezi és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva abból az 1. melléklet szerint átcsoportosítást rendeli el;
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+## v) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva és az Ávr. 34. § (2) bekezdés b) pontja értelmében felhívja a Nemzeti Foglalkoztatási Alap kezelőjét, hogy a LXIII. Nemzeti Foglalkoztatási Alap fejezet, 8. Start-munkaprogram cím előirányzatról 27 500 000 000 forintot a 3. mellékletben felsorolt előirányzatok javára utaljon át.
+
+## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1447/2017. (VII. 7.) Korm. határozat 3. pontjában a „2017. december 31.” szövegrész helyébe a „2018. június 30.” szöveg lép.
+
+## 3. A VERITAS Történetkutató Intézet többletfeladatainak meghatározásáról és a szükséges források biztosításáról szóló 1550/2017. (V. 31.) Korm. határozat 2. pontjában a „2017. december 31.” szövegrész helyébe a „2018. június 30.” szöveg lép.
+
+## 4. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1276/2017. (V. 31.) Korm. határozat 1. pont b) alpontjában a „2018. január 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
+
+## 5. A Kormány egyetért azzal, hogy a Nagybereki Vadgazdálkodási Egység vadászati joggyakorlásával összefüggő egyes kérdésekről szóló 1546/2017. (VIII. 18.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XII. Földművelésügyi Minisztérium fejezet, 14. Nemzeti park igazgatóságok cím javára átcsoportosított összesen 199 753 900 forintból 2 793 567 forint a K1. Személyi juttatások kiemelt előirányzaton, 614 585 forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 30 268 756 forint a K3. Dologi kiadások kiemelt előirányzaton, 161 076 992 forint a K6. Beruházások kiemelt előirányzaton, 5 000 000 forint a K7. Felújítások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
+
+## 6. A Kormány egyetért azzal, hogy a Magyarország Kormánya és Hódmezővásárhely Megyei Jogú Város Önkormányzata közötti együttműködési megállapodásról szóló 1840/2017. (XI. 10.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 18. Hódmezővásárhelyi ágazati fejlesztések jogcímcsoport, K7. Felújítások kiemelt előirányzat javára átcsoportosított 132 300 000 forintból 98 878 500 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton, 33 421 500 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
+
+## 7. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, Országvédelmi Alapból és a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 1989/2017. (XII. 19.) Korm. határozat (a továbbiakban: Határozat) 4. mellékletében az „Országos Közegészségügyi Intézet” szövegrészek helyébe az „Országos Tisztifőorvosi Hivatal és intézményei, valamint egyéb népegészségügyi intézetek” szöveg lép.
+
+## 8. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, Országvédelmi Alapból, a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 2001/2017. (XII. 21.) Korm. határozat 4. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 13. Kopp Mária Intézet a Népesedésért és a Családokért cím, K3. Dologi kiadások előirányzat javára átcsoportosított 162 500 000 forint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 16. Szociális szolgáltatások és egyéb szociális feladatok támogatása alcím, 3. Család- és ifjúságügyi fejlesztések, szolgáltatások és programok támogatása jogcímcsoport, K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
+
+## 9. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, Országvédelmi Alapból, a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 2001/2017. (XII. 21.) Korm. határozat 4. pontjában az „a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, Országvédelmi Alapból és a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzatátcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 2001/2017. (XII. 21.) Korm. határozat” szövegrész helyébe az „a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, az Országvédelmi Alapból és a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 1989/2017. (XII. 19.) Korm. határozat” szöveg lép.
+
+## 10. A Kormány visszavonja a Határozat 13. pontját.
+
+1. melléklet a 2029/2017. (XII. 27.) Korm. határozathoz
