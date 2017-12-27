@@ -1,0 +1,3 @@
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi a honvédelmi miniszter részére, hogy a Magyar Honvédség szükségleteinek megfelelő, korszerű, vállról indítható, többcélú páncéltörő rakéta fegyverrendszerek, valamint a kapcsolódó logisztikai támogatási és szolgáltatási feladatok beszerzése érdekében szükséges, több költségvetési év előirányzatait érintő kötelezettséget vállaljon a XIII. Honvédelmi Minisztérium fejezet előirányzatai terhére a 2019–2026. évek közötti időszakban 20 000 000 000 forint értékben.
+
+Felelős: honvédelmi miniszter
