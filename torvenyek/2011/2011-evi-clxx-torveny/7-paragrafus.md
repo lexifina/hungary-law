@@ -6,6 +6,8 @@ a) az állami vagyont elsődlegesen bérleti szerződés alapján bérbeadással
 
 b) kezdeményezheti a vagyonkezelésében lévő lakóingatlan ingyenes önkormányzati tulajdonba adását,
 
-c) a lakóingatlant elidegenítheti.
+c)
 
-(3) A Nemzeti Eszközkezelő a megüresedett lakóingatlant nyilvános pályázat keretében vagy az állami adóhatóság lakóingatlan fekvése szerinti területi szerve útján az Elektronikus Árverési Felületen értékesítheti.
+(3) A Nemzeti Eszközkezelő a lakóingatlant az e törvényben foglalt szabályok szerint az állam nevében eljárva a hiteladós és a zálogkötelezett részére – visszavásárlási joguk gyakorlása során – elidegenítheti.
+
+(3a) A Nemzeti Eszközkezelő a megüresedett lakóingatlant (e bekezdés alkalmazásában a továbbiakban: Ingatlan) a vagyonkezelési szerződés módosítása mellett – további hasznosítás vagy értékesítés érdekében – az MNV Zrt. részére átadhatja. Az Ingatlan MNV Zrt.-nek történő átadása esetében a vagyonkezelési szerződés e bekezdés szerinti módosítása miatti részleges megszűnésével az Ingatlan tekintetében a Nemzeti Eszközkezelő 3. § (1) bekezdés d) pontja szerinti törvényi kijelölésen alapuló vagyonkezelői joga is megszűnik.

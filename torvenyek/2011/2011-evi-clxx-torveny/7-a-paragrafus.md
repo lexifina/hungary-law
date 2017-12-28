@@ -1,4 +1,4 @@
-7/A. § (1) A lakóingatlan ingyenes önkormányzati tulajdonba adását a Magyar Nemzeti Vagyonkezelő Zrt. abban az esetben kezdeményezi az állami vagyon felügyeletéért felelős miniszternél, ha a települési önkormányzat a közigazgatási területén levő, a Nemzeti Eszközkezelő által az önkormányzati tulajdonba adás kezdeményezésének időpontjáig az állam nevében megvásárolt összes lakóingatlant átveszi.
+7/A. § (1) A lakóingatlan ingyenes önkormányzati tulajdonba adását az MNV Zrt. abban az esetben kezdeményezi az állami vagyon felügyeletéért felelős miniszternél, ha a települési önkormányzat a közigazgatási területén levő, a Nemzeti Eszközkezelő által az önkormányzati tulajdonba adás kezdeményezésének időpontjáig az állam nevében megvásárolt összes lakóingatlant átveszi.
 
 (2) Ha a lakóingatlan fekvése szerinti települési önkormányzat nem veszi át a lakóingatlanokat, a lakóingatlanok (1) bekezdés szerinti tulajdonba adását más települési önkormányzat is kérheti, ha a saját közigazgatási területén él az átvétel lehetőségével.
 

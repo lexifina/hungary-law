@@ -6,7 +6,7 @@
 
 2. § (1) A Nemzeti Eszközkezelő az állam által alapított egyszemélyes zártkörűen működő részvénytársaság, amelynek részvénye forgalomképtelen.
 
-(2) A Nemzeti Eszközkezelő felett az alapítói jogokat az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) a Magyar Nemzeti Vagyonkezelő Zrt. útján gyakorolja.
+(2) A Nemzeti Eszközkezelő felett az alapítói jogokat az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) útján gyakorolja.
 
 (3) A Nemzeti Eszközkezelő nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet.
 
