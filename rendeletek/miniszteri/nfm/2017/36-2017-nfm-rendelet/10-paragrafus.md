@@ -50,6 +50,6 @@ f) éves hozzájárulás esetén az eseti hozzájárulás díjának ötvenszeres
 
 (12) Az MK NZrt. az általa a tárgynegyedévben beszedett, a különböző közútkezelők között szétosztásra nem került díjból származó tényleges bevételt negyedévente a tárgynegyedévet követő második hónap utolsó napjáig a „Közúthálózat fenntartás és működtetés” fejezeti kezelésű előirányzat javára köteles átutalni.
 
-[^1]: A 10. § (2) bekezdés d) pontja a 26. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^2]: A 10. § (7) bekezdése a 26. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^3]: A 10. § (10) bekezdés b) pontja a 26. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^1]: A 10. § (2) bekezdés d) pontja – az 56/2017. (XII. 27.) NFM rendelet 17. §-ával megállapított – 26. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
+[^2]: A 10. § (7) bekezdése – az 56/2017. (XII. 27.) NFM rendelet 17. §-ával megállapított – 26. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
+[^3]: A 10. § (10) bekezdés b) pontja – az 56/2017. (XII. 27.) NFM rendelet 17. §-ával megállapított – 26. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
