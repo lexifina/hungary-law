@@ -24,7 +24,7 @@ f)[^34] a számviteli törvény 151. § (5) bekezdés b) pont bc) alpontjában e
 
 (6)[^38] Amennyiben az engedély visszavonására okot adó körülmény merült fel, az engedély jogosultja vagy annak törvényes képviselője köteles azt – az ok bekövetkeztét követő – 30 napon belül bejelenteni a nyilvántartásba vételt végző szervezetnek. Az engedély visszavonása iránti kérelmet az 1. számú mellékletben meghatározott adattartalommal kell benyújtani a 10/C. §-ban meghatározottak szerint. A kérelemhez csatolni kell a 8. § (1a) bekezdése szerinti igazolványt, valamint a (2) bekezdés d) pontjában előírt dokumentumot is.
 
-(7)[^39] A számviteli törvény 151. § (6) bekezdés a)–d) és f)–g) pontjában meghatározott esetekben a nyilvántartásba vételt végző szervezet hivatalból indított eljárásban intézkedik az engedély visszavonásáról és ezzel egyidejűleg a nyilvántartásból való törlésről. A nyilvántartásból törölt személy vagy törvényes képviselője a 8. § (1a) bekezdése szerinti igazolványt a törlésről szóló határozat kézhezvételétől számított 8 napon belül köteles a nyilvántartásba vételt végző szervezetnek visszaszolgáltatni.
+(7)[^39] A számviteli törvény 151. § (6) bekezdés a)–d) és f)–i) pontjában meghatározott esetekben a nyilvántartásba vételt végző szervezet hivatalból indított eljárásban intézkedik az engedély visszavonásáról és ezzel egyidejűleg a nyilvántartásból való törlésről. A nyilvántartásból törölt személy vagy törvényes képviselője a 8. § (1a) bekezdése szerinti igazolványt a törlésről szóló határozat kézhezvételétől számított 8 napon belül köteles a nyilvántartásba vételt végző szervezetnek visszaszolgáltatni.
 
 (8)[^40]
 
@@ -48,7 +48,7 @@ f)[^34] a számviteli törvény 151. § (5) bekezdés b) pont bc) alpontjában e
 [^36]: Az 5. § (4) bekezdése a 307/2009. (XII. 28.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^37]: Az 5. § (5) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés g) pontja szerint módosított szöveg.
 [^38]: Az 5. § (6) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés h) pontja, a 484/2015. (XII. 29.) Korm. rendelet 84. § 1. pontja szerint módosított szöveg.
-[^39]: Az 5. § (7) bekezdése a 226/2013. (VI. 24.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 84. § 1. pontja szerint módosított szöveg.
+[^39]: Az 5. § (7) bekezdése a 226/2013. (VI. 24.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 84. § 1. pontja, a 445/2017. (XII. 27.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.
 [^40]: Az 5. § (8) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 86. § 6. pontja hatályon kívül helyezte.
 [^41]: Az 5. § (9) bekezdése a 307/2009. (XII. 28.) Korm. rendelet 12. §-a, a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés h) pontja, az 518/2013. (XII. 30.) Korm. rendelet 53. § 1. pontja, a 484/2015. (XII. 29.) Korm. rendelet 84. § 1. pontja szerint módosított szöveg.
 [^42]: Az 5. § (10) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 44. §-ával megállapított, a 484/2015. (XII. 29.) Korm. rendelet 84. § 1. pontja szerint módosított szöveg.
