@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-72-20-2
 | 2014-01-01 | 2006-72-20-22.7 | 382/2012. (XII. 19.) Korm. rendelet |
 | 2016-01-01 | 2006-72-20-22.8 | 484/2015. (XII. 29.) Korm. rendelet |
 | 2017-01-01 | 2006-72-20-22.9 | 480/2016. (XII. 28.) Korm. rendelet |
+| 2017-12-28 | 2006-72-20-22.10 | 445/2017. (XII. 27.) Korm. rendelet |

@@ -1,6 +1,6 @@
-## Fióktelep megszüntetése[^20]
+## Fióktelep megszüntetése[^23]
 
-9/A. §[^21] (1) Fióktelep megszüntetése esetén a fióktelep cégnyilvántartásból való törlésének időpontjával, mint mérlegfordulónappal el kell készíteni a tevékenységet lezáró beszámolót.
+9/A. §[^24] (1) Fióktelep megszüntetése esetén a fióktelep cégnyilvántartásból való törlésének időpontjával, mint mérlegfordulónappal el kell készíteni a tevékenységet lezáró beszámolót.
 
 (2) Az (1) bekezdés szerinti beszámolót – kötelező könyvvizsgálat esetén – a független könyvvizsgálói jelentéssel együtt, valamint az adózott eredmény felhasználására vonatkozó határozatot a mérlegfordulónapot követő 45 napon belül kell a számviteli törvény 153–154/B. §-ai szerint letétbe helyezni, közzétenni.
 
@@ -10,5 +10,5 @@
 
 (5) E rendelet egyéb előírásait csak annyiban kell alkalmazni jelen alcím tekintetében, amennyiben azok – figyelemmel a (4) bekezdésben foglaltakra is – megfelelően értelmezhetőek a fióktelep megszüntetésére.
 
-[^20]: A 9/A. §-t megelőző alcímet a 342/2011. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
-[^21]: A 9/A. §-t a 342/2011. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
+[^23]: A 9/A. §-t megelőző alcímet a 342/2011. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
+[^24]: A 9/A. §-t a 342/2011. (XII. 29.) Korm. rendelet 49. §-a iktatta be.

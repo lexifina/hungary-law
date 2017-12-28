@@ -6,10 +6,12 @@
 
 (3) A végelszámolás időszaka alatt a gazdálkodó úgy köteles vezetni analitikus és főkönyvi nyilvántartásait, hogy azok alkalmasak legyenek:
 
-a) a Ctv. 107. §-a szerinti korrigált végelszámolási nyitó mérleg,
+a)[^2] a korrigált végelszámolási nyitó mérleg,
 
 b) a számviteli törvény 11. §-ának (12) bekezdése szerinti üzleti évenként készítendő számviteli beszámoló,
 
 c) a számviteli adatokra épülő adóbevallások,
 
 d) a végelszámolás befejezésekor a piaci értéken történő értékelés, valamint a vagyonfelosztási javaslat
+
+[^2]: A 2. § (3) bekezdés a) pontja a 445/2017. (XII. 27.) Korm. rendelet 27. § 1. pontja szerint módosított szöveg.
