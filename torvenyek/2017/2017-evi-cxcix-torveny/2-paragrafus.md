@@ -1,0 +1,9 @@
+2. § (1) A Cstv. 28. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+
+(A közzétételnek tartalmaznia kell:)
+
+„g) a felszámoló nevét, székhelyét, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. §-a szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét, adószámát, valamint a felszámolóbiztos nevét, lakóhelyét, vagy a személyiadat- és lakcímnyilvántartásban szereplő értesítési címét, születési idejét, adóazonosító jelét, valamint anyja születési nevét;”
+
+(2) A Cstv. 28. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Az adós felszámolását elrendelő végzés Cégközlönyben történő (1) bekezdés szerinti közzétételét követő 15 napon belül a pénzforgalmi szolgáltató és az értékpapírszámlát vezető befektetési szolgáltató köteles a felszámolót elektronikus úton értesíteni arról, ha az adós részére a felszámolást elrendelő végzés közzétételének napját megelőző öt éven belüli időszakban fizetési számlát, értékpapírszámlát vezet vagy vezetett, vagy egyéb, a bírósági végrehajtásról szóló 1994. évi LIII. törvény 7. § (3) és (4) bekezdése szerinti, az adós rendelkezése alatt álló összeget kezel vagy kezelt. A felszámolóbiztos a pénzforgalmi szolgáltatónál, befektetési szolgáltatónál történt, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 7. §-a és 13. § (9) bekezdése szerinti azonosítást követően jogosult tájékoztatást kérni az adós pénzforgalmi szolgáltatónál, befektetési szolgáltatónál kezelt vagyonáról. A pénzforgalmi szolgáltató, befektetési szolgáltató az adatszolgáltatást az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 58. §-a szerinti biztonságos elektronikus kapcsolattartás szabályainak megfelelő módon, 15 napon belül díjmentesen küldi meg a felszámoló részére.”

@@ -1,0 +1,11 @@
+46. § (1) Az Szhitv. 15/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A szövetkezeti hitelintézet igazgatósági üléséről a Központi Bankot és az Integrációs Szervezetet a meghívó igazgatósági tagoknak történő megküldésével egyidejűleg, de legalább 5 munkanappal az ülés előtt értesíteni kell. A meghívóhoz csatolni kell minden napirendre vonatkozóan az előterjesztést és a kapcsolódó anyagokat. Az Integrációs Szervezet ügyvezetése indokolt esetben az értesítéstől számított 3 munkanapon belül felhívhatja a szövetkezeti hitelintézetet arra, hogy az Integrációs Szervezet által megjelölt napirendi pontokhoz készítsen írásbeli előterjesztést. A szövetkezeti hitelintézet igazgatósága érvényesen nem hozhat határozatot e kötelezettségek megsértése esetén. A Központi Bank és az Integrációs Szervezet képviselője a szövetkezeti hitelintézet igazgatósági ülésén jogosult tanácskozási joggal részt venni.”
+
+(2) Az Szhitv. 15/A. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A szövetkezeti hitelintézet felügyelőbizottsági üléséről a Központi Bankot és az Integrációs Szervezetet a meghívó felügyelőbizottsági tagoknak történő megküldésével egyidejűleg, de legalább 5 munkanappal az ülés előtt értesíteni kell. A meghívóhoz csatolni kell minden napirendre vonatkozóan az előterjesztést és a kapcsolódó anyagokat. Az Integrációs Szervezet indokolt esetben az értesítéstől számított 3 munkanapon belül felhívhatja a szövetkezeti hitelintézetet arra, hogy az Integrációs Szervezet által megjelölt napirendi pontokhoz a szövetkezeti hitelintézet készítsen írásbeli előterjesztést. A szövetkezeti hitelintézet felügyelőbizottsága érvényesen nem hozhat határozatot e kötelezettségek megsértése esetén. A Központi Bank és az Integrációs Szervezet képviselője a szövetkezeti hitelintézet felügyelőbizottsági ülésén jogosult tanácskozási joggal részt venni.”
+
+(3) Az Szhitv. 15/A. §-a a következő (10) bekezdéssel egészül ki:
+
+„(10) A szövetkezeti hitelintézet a hatálybalépést követő 15 napon belül minden olyan szabályzatát megküldi az Integrációs Szervezet vagy a Központi Bank számára, amit az Integrációs Szervezet vagy a Központi Bank szövetkezeti hitelintézetek számára kiadott szabályzata előír.”

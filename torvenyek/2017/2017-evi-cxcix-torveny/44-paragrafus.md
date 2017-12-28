@@ -1,0 +1,9 @@
+44. § (1) Az Szhitv. 11/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Integrációs Szervezet a szövetkezeti hitelintézeti integráció egységes működése és irányítása, továbbá a szövetkezeti hitelintézeti integráció céljainak elérése érdekében olyan – az e törvényben meghatározott rendelkezéseken és az Integrációs Szervezet szabályzatán és irányelvén alapuló – ellenőrző rendszert működtet, amely lehetővé teszi a szövetkezeti hitelintézet és a Központi Bank, valamint azok kapcsolt vállalkozásai (a továbbiakban együtt: ellenőrzés alá vont szervezet) tevékenységének az integráció keretein belül történő ellenőrzését. Az Integrációs Szervezet jogosult ellenőrizni a szövetkezeti hitelintézetnek és a Központi Banknak azon tevékenyégét is, amelyet a Hpt., illetve Bszt. szerinti közvetítő útján végez.”
+
+(2) Az Szhitv. 11/A. §-a a következő (13) és (14) bekezdéssel egészül ki:
+
+„(13) Ha az ellenőrzési eljárás hatékony, gyors és eredményes lefolytatásához szükséges személyi és tárgyi feltételek Integrációs Szervezet általi biztosítása ideiglenesen más módon – így különösen ezen feltételek bővítésével – nem oldható meg, akkor az Integrációs Szervezet jogosult közreműködő szakértő igénybevételére. A közreműködő szakértő igénybevétele nem eredményezheti az Integrációs Szervezet egyes ellenőrzési feladatainak tartósan más által történő ellátását.
+
+(14) Ha a közreműködő szakértő igénybevételére helyszíni ellenőrzés során kerül sor, az Integrációs Szervezet köteles a közreműködő szakértőt megbízólevéllel ellátni. A közreműködő szakértő igénybevételére a helyszíni ellenőrzést végző személy egyidejű jelenlétének biztosításával kerülhet sor. Az ellenőrzés alá vont szervezet a közreműködő szakértő vizsgálatában közreműködni köteles. A közreműködő személy helyszíni vizsgálat során történő eljárására a (6) és (7) bekezdésben meghatározott szabályokat kell alkalmazni.”

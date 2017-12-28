@@ -1,0 +1,3 @@
+20. § A Vtv. 33. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Központi költségvetési szerv vagyonkezelő a működéséhez már nem szükséges, az Nvtv. 11. § (6) bekezdése szerinti immateriális jószágokat, tárgyi eszközöket, készleteket – amennyiben azok egyedi, könyv szerinti bruttó értéke az éves költségvetési törvényben meghatározott értékhatárt nem haladja meg – kizárólag a tulajdonosi joggyakorlóval kötött megbízási szerződés alapján, az állam nevében és javára értékesítheti a 34–35. § alkalmazásával. Az értékesítésből származó bevétel a vagyonkezelő központi költségvetési szervet illeti meg.”
