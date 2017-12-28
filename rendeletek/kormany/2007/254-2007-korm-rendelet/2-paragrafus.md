@@ -2,7 +2,21 @@
 
 ## ÁLLAMI VAGYON KELETKEZÉSÉVEL ÖSSZEFÜGGŐ SZABÁLYOK
 
-2. §[^17] (1)[^18] A tulajdonjognak az állam javára történő megszerzésére irányuló jogügylet megkötésére, az állam javára vételi jog szerződéssel történő alapítására a tulajdonosi joggyakorló előzetes egyetértését követően kerülhet sor. Nem vonatkozik ez a rendelkezés azon esetekre, amikor az államot megillető elővásárlási jog gyakorlásának, illetve a tulajdonszerzést eredményező jogügylet megkötésének jogosultját vagy kötelezettjét jogszabály állapítja meg, valamint a kulturális örökség védelméért felelős miniszter által vásárlási szabályzat alapján történő beszerzés esetén, továbbá ha a tulajdonjog megszerzésére törvényben előírt kötelezettség áll fenn, vagy arra – a 2/A–2/C. § szerinti kivétellel – közgyűjteményben történő elhelyezés céljából kerül sor.
+2. §[^17] (1)[^18] A tulajdonjognak az állam javára történő megszerzésére irányuló jogügylet megkötésére, az állam javára vételi jog szerződéssel történő alapítására a tulajdonosi joggyakorló előzetes egyetértését követően kerülhet sor. Nem vonatkozik ez a rendelkezés azon esetekre, ha
+
+a) az államot megillető elővásárlási jog gyakorlásának, illetve a tulajdonszerzést eredményező jogügylet megkötésének jogosultját vagy kötelezettjét jogszabály állapítja meg,
+
+b) a beszerzés
+
+ba) a kulturális örökség védelméért felelős miniszter (e § alkalmazásában a továbbiakban: miniszter) által,
+
+bb) – amennyiben kulturális örökségvédelem körébe tartozó közfeladatot lát el – a miniszter tulajdonosi joggyakorlása alá tartozó állami tulajdonú gazdasági társaság, vagy az irányítása alá tartozó költségvetési szerv által, a miniszter által jóváhagyott
+
+vásárlási szabályzat alapján történik,
+
+c) a tulajdonjog megszerzésére törvényben előírt kötelezettség áll fenn, vagy
+
+d) a tulajdonjog megszerzésére – a 2/A–2/C. § szerinti kivétellel – nem a b) pont bb) alpontja szerinti szervezet beszerzése útján, közgyűjteményben történő elhelyezés céljából kerül sor.
 
 (2)[^19] Az (1) bekezdésre figyelemmel a döntést az erre vonatkozó megkeresésnek a tulajdonosi joggyakorlóhoz történő beérkezését követő harminc napon belül kell meghozni és a kérelmező részére kiadni. A határidőbe nem számít bele a kérelmezőhöz intézett hiánypótlási felhívás kiadása (kiegészítő tájékoztatás kérése) és annak teljesítése között eltelt idő.
 
@@ -17,7 +31,7 @@
 (7)[^22] E szakasz (1) és (2) bekezdését az Nvtv. 11. § (6) bekezdésében megjelölt vagyon vonatkozásában – a 2/A–2/C. § szerinti kivétellel – nem kell alkalmazni.
 
 [^17]: A 2. § a 348/2010. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^18]: A 2. § (1) bekezdése a 303/2016. (X. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: A 2. § (1) bekezdése a 440/2017. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^19]: A 2. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
 [^20]: A 2. § (3) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § b) és g) pontja szerint módosított szöveg.
 [^21]: A 2. § (4) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.

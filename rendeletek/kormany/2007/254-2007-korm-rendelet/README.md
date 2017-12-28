@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-254-20-
 | 2016-10-14 | 2007-254-20-22.25 | 303/2016. (X. 13.) Korm. rendelet |
 | 2017-01-01 | 2007-254-20-22.26 | 469/2016. (XII. 23.) Korm. rendelet |
 | 2017-07-01 | 2007-254-20-22.27 | 348/2010. (XII. 28.) Korm. rendelet |
+| 2017-12-28 | 2007-254-20-22.28 | 440/2017. (XII. 27.) Korm. rendelet |
