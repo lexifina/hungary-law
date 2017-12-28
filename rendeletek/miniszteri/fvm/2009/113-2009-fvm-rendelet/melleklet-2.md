@@ -1,3 +1,5 @@
+## Mezőgazdasági termeléssel összefüggő szakképesítések
+
 ## 7/1993. (XII. 30.) MüM rendelet az Országos Képzési Jegyzékről (kivonat)
 
 | Szakképesítés azonosító száma | Megnevezése | A képzés szintje |
@@ -633,5 +635,3 @@
 | 1702 | Dísznövénykertész |
 
 2. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez
-
-Egyetemi agrárvégzettségek

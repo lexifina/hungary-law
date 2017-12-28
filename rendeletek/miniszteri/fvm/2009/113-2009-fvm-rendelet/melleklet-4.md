@@ -1,3 +1,5 @@
+## Főiskolai agrárvégzettségek
+
 | Végzettségi szint: főiskola |
 
 | Kertészmérnök vagy kertész üzemmérnök |
@@ -41,5 +43,3 @@
 | Növénytermesztő mérnök |
 
 4. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez
-
-Egyéb végzettségek

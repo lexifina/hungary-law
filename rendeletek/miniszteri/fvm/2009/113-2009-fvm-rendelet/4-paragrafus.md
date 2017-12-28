@@ -6,19 +6,19 @@ a) a támogatási kérelem benyújtásának időpontjában elmúlt 18 éves, de 
 
 b) mezőgazdasági üzem vezetőjeként első alkalommal kezd gazdálkodni, új gazdaságot hoz létre vagy gazdaság átvétele történik meg;
 
-c)[^5] az 1. számú mellékletben meghatározott szakképesítések, a 2–4. számú mellékletben meghatározott felsőfokú végzettségek, illetve a 2–4. számú mellékletben meghatározott végzettségeknek a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005 (XII. 22.) Korm. rendelet alapján megfeleltethető végzettségek legalább egyikével rendelkezik, ideértve a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény szerint elismert, illetve honosított, külföldön szerzett bizonyítványt és oklevelet is, továbbá azt a felsőoktatási intézmény által kiadott igazoló dokumentumot, mely szerint az ügyfél valamely, a 2–4. számú mellékletben meghatározott felsőfokú végzettség tekintetében sikeres záróvizsgát tett;
+c)[^6] az 1. számú mellékletben meghatározott szakképesítések, a 2–4. számú mellékletben meghatározott felsőfokú végzettségek, illetve a 2–4. számú mellékletben meghatározott végzettségeknek a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005 (XII. 22.) Korm. rendelet alapján megfeleltethető végzettségek legalább egyikével rendelkezik, ideértve a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény szerint elismert, illetve honosított, külföldön szerzett bizonyítványt és oklevelet is, továbbá azt a felsőoktatási intézmény által kiadott igazoló dokumentumot, mely szerint az ügyfél valamely, a 2–4. számú mellékletben meghatározott felsőfokú végzettség tekintetében sikeres záróvizsgát tett;
 
 d) gazdálkodási tevékenysége fejlesztésére vonatkozó üzleti tervet, annak részét képező pénzügyi tervet nyújt be, és a tervek értékelése során összesen legalább 50 pontot elér.
 
-(2) Az ügyfél a támogatást nem veheti igénybe, ha e rendelet szerinti támogatási kérelem benyújtása előtt már nyújtott be agrár vagy agrár-vidékfejlesztési célú támogatási kérelmet, vagy pályázatot az MVH-hoz.
+(2)[^7] Az ügyfél a támogatást nem veheti igénybe, ha e rendelet szerinti támogatási kérelem benyújtása előtt már nyújtott be agrár vagy agrár-vidékfejlesztési célú támogatási kérelmet, vagy pályázatot a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH).
 
 (3) A (2) bekezdés szerinti kizáró ok nem áll fenn, vagyis az ügyfél támogatást vehet igénybe, abban az esetben, ha
 
 a) az Agrár- és Vidékfejlesztési Operatív Program 1.4. Fiatal gazdálkodók induló támogatása című intézkedésre nyújtott be pályázatot, illetve az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendelet alapján nyújtott be támogatási kérelmet, és azt az MVH nem hagyta jóvá, vagy
 
-b)[^6] az 5. § (1) bekezdése szerinti e támogatási kérelem benyújtási időszak megnyílta előtt egyéb jogcímre benyújtott pályázatát, támogatási kérelmét az arra vonatkozó támogatási határozat jogerőre emelkedése előtt visszavonta;
+b)[^8] az 5. § (1) bekezdése szerinti e támogatási kérelem benyújtási időszak megnyílta előtt egyéb jogcímre benyújtott pályázatát, támogatási kérelmét az arra vonatkozó támogatási határozat jogerőre emelkedése előtt visszavonta;
 
-c)[^7] az ügyfél kizárólag az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet alapján nyújtott be a 2009. évben támogatási kérelmet, és e rendelet alapján 2009. szeptember 15. és október 31. között támogatási kérelmet nyújt be.
+c)[^9] az ügyfél kizárólag az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet alapján nyújtott be a 2009. évben támogatási kérelmet, és e rendelet alapján 2009. szeptember 15. és október 31. között támogatási kérelmet nyújt be.
 
 (4) A támogatásra jogosult ügyfél köteles:
 
@@ -26,7 +26,7 @@ a) az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország 
 
 b) a mezőgazdasági üzemet személyesen vezetni, a támogatási összeg 90%-ára vonatkozó kifizetési kérelem benyújtásának időpontjától a működtetési időszak végéig a mezőgazdasági tevékenységet főtevékenységként, egyéni vállalkozóként folytatni;
 
-c)[^8] a működtetési időszak során a gazdaság működésével kapcsolatos bizonylatokat megőrizni;
+c)[^10] a működtetési időszak során a gazdaság működésével kapcsolatos bizonylatokat megőrizni;
 
 d) az üzleti terv részét képező kommunikációs tervben – amely tartalmazza a kommunikációs eszköz bemutatását, használatának módját, ütemezését és a használatára tervezett nettó összeget – vállalt feladatokat a megadott ütemezésnek megfelelően az azt igazoló dokumentumok alapján teljesíteni;
 
@@ -38,7 +38,7 @@ g) ha az üzem mérete a támogatási kérelem benyújtásakor eléri a 4 EUME-t
 
 h) ha az üzem mérete a működtetési időszak 4. évének vége előtt eléri az üzleti tervben a 4. naptári év végére vállalt méretet, ettől az időponttól kezdődően a 4. naptári év végére vállalt értéket fenntartani a működtetési időszak végéig;
 
-i)[^9] a működtetési időszak alatt a 119/2007. (X. 18.) FVM rendelet alapján vezetett nyilvántartásban az állatállomány tartójaként szerepelni, valamint eleget tenni
+i)[^11] a működtetési időszak alatt a 119/2007. (X. 18.) FVM rendelet alapján vezetett nyilvántartásban az állatállomány tartójaként szerepelni, valamint eleget tenni
 
 ia) szarvasmarhafélékre vonatkozóan a szarvasmarha fajok egyedeinek jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 99/2002. (XI. 5.) FVM rendeletben,
 
@@ -56,17 +56,18 @@ előírt, az állatállományra vonatkozó bejelentési kötelezettségeknek.
 
 (6) Azon támogatásra jogosult ügyfél, aki a támogatási kérelem benyújtásakor megadott tevékenységgel releváns elismert termelői csoporthoz, illetve zöldség-gyümölcs termelői csoporthoz, termelői szervezethez való csatlakozási szándékát jelezte, köteles a működtetési időszak végéig a tagságát fenntartani, illetve az üzleti tervben megnevezett termékek más termékcsoportba tartozó termékekkel való helyettesítése esetén a tevékenységgel kapcsolatos termékcsoportban működő elismert termelői csoport, illetve zöldség-gyümölcs termelői csoport, termelői szervezet tagság kialakítására és fenntartására.
 
-(7)[^10] A csecsemőgondozási díjban, gyermekgondozási díjban vagy gyermekgondozási segélyben (a továbbiakban együtt: családtámogatási ellátás) részesülő ügyfél a mezőgazdasági üzem vezetésébe az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti közreműködőt vonhat be. A közreműködő bevonásának tényét teljes bizonyító erejű magánokiratba kell foglalni, a 7. számú melléklet szerinti adattartalommal. A teljes bizonyító erejű magánokirat másolatát a közreműködő bevonásának kezdetétől számított 8 munkanapon belül meg kell küldeni az MVH részére.
+(7)[^12] A csecsemőgondozási díjban, gyermekgondozási díjban vagy gyermekgondozási segélyben (a továbbiakban együtt: családtámogatási ellátás) részesülő ügyfél a mezőgazdasági üzem vezetésébe az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti közreműködőt vonhat be. A közreműködő bevonásának tényét teljes bizonyító erejű magánokiratba kell foglalni, a 7. számú melléklet szerinti adattartalommal. A teljes bizonyító erejű magánokirat másolatát a közreműködő bevonásának kezdetétől számított 8 munkanapon belül meg kell küldeni a Kincstár részére.
 
-(8)[^11] Amennyiben az ügyfél a mezőgazdasági üzem vezetésébe már korábban közreműködőt vont be, akkor legkésőbb 2012. február 28-ig kell a teljes bizonyító erejű magánokirat másolatát az MVH részére megküldeni.
+(8)[^13] Amennyiben az ügyfél a mezőgazdasági üzem vezetésébe már korábban közreműködőt vont be, akkor legkésőbb 2012. február 28-ig kell a teljes bizonyító erejű magánokirat másolatát az MVH részére megküldeni.
 
-(9)[^12] A mezőgazdasági üzem személyes vezetésének minősül a támogatásra jogosult ügyfél általi személyes vezetés, továbbá a (7) bekezdés szerinti közreműködő bevonásával történő mezőgazdasági üzem vezetése.
+(9)[^14] A mezőgazdasági üzem személyes vezetésének minősül a támogatásra jogosult ügyfél általi személyes vezetés, továbbá a (7) bekezdés szerinti közreműködő bevonásával történő mezőgazdasági üzem vezetése.
 
-[^5]: A 4. § (1) bekezdés c) pontja a 167/2009. (XII. 15.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^6]: A 4. § (3) bekezdés b) pontja a 23/2010. (III. 16.) FVM rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^7]: A 4. § (3) bekezdés c) pontja a 167/2009. (XII. 15.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^8]: A 4. § (4) bekezdés c) pontja a 23/2010. (III. 16.) FVM rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^9]: A 4. § (4) bekezdés i) pontja a 15/2010. (IX. 3.) VM rendelet 1. §-ával megállapított szöveg.
-[^10]: A 4. § (7) bekezdését a 123/2011. (XII. 21.) VM rendelet 6. §-a iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 29. §-a szerint módosított szöveg.
-[^11]: A 4. § (8) bekezdését a 123/2011. (XII. 21.) VM rendelet 6. §-a iktatta be.
-[^12]: A 4. § (9) bekezdését a 123/2011. (XII. 21.) VM rendelet 6. §-a iktatta be.
+[^6]: A 4. § (1) bekezdés c) pontja a 167/2009. (XII. 15.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^7]: A 4. § (2) bekezdése a 35/2017. (XII. 27.) MvM rendelet 2. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (3) bekezdés b) pontja a 23/2010. (III. 16.) FVM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^9]: A 4. § (3) bekezdés c) pontja a 167/2009. (XII. 15.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^10]: A 4. § (4) bekezdés c) pontja a 23/2010. (III. 16.) FVM rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^11]: A 4. § (4) bekezdés i) pontja a 15/2010. (IX. 3.) VM rendelet 1. §-ával megállapított szöveg.
+[^12]: A 4. § (7) bekezdését a 123/2011. (XII. 21.) VM rendelet 6. §-a iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 29. §-a, a 35/2017. (XII. 27.) MvM rendelet 2. § c) pontja szerint módosított szöveg.
+[^13]: A 4. § (8) bekezdését a 123/2011. (XII. 21.) VM rendelet 6. §-a iktatta be.
+[^14]: A 4. § (9) bekezdését a 123/2011. (XII. 21.) VM rendelet 6. §-a iktatta be.

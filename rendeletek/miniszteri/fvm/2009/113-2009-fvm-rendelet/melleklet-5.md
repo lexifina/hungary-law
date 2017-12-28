@@ -1,3 +1,5 @@
+## Egyéb végzettségek
+
 | Végzettségi szint: főiskola |
 
 | Élelmiszer-technológus mérnök vagy élelmiszer-ipari üzemmérnök vagy élelmiszer-technológus üzemmérnök |
@@ -45,5 +47,3 @@
 | Okleveles takarmányozási és takarmánybiztonsági mérnök |
 
 5. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez
-
-Értékelési szempontok
