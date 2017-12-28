@@ -2,6 +2,6 @@
 
 4. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1980. június 9. napjától kell alkalmazni.
 
-(2)[^3] E rendelet végrehajtásáról a gazdaságpolitikáért felelős miniszter, a külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter gondoskodik.
+(2)[^3] E rendelet végrehajtásáról a turizmusért felelős miniszter, valamint a külgazdasági és külügyminiszter gondoskodik.
 
-[^3]: A 4. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^3]: A 4. § (2) bekezdése a 454/2017. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
