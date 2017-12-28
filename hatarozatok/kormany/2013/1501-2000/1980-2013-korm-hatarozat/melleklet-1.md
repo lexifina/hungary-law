@@ -1,6 +1,6 @@
 ## 1. A Kormány
 
-## a)[^1] egyetért azzal, hogy a Nemzeti Stadionfejlesztési Program (a továbbiakban: Program) keretében az 1. mellékletben meghatározott férőhelyszámra, keretösszegben és ütemezés szerint történjen meg az 1. mellékletben meghatározott labdarúgó sportlétesítmények fejlesztése a 2014–2017. költségvetési években;
+## a)[^1] egyetért azzal, hogy a Nemzeti Stadionfejlesztési Program (a továbbiakban: Program) keretében az 1. mellékletben meghatározott férőhelyszámra, keretösszegben és ütemezés szerint történjen meg az 1. mellékletben meghatározott labdarúgó sportlétesítmények fejlesztése a 2014–2017. költségvetési években;[^2]
 
 ## b) felhívja a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztost, hogy dolgozza ki létesítményenként az állami szerepvállalás feltételrendszerét a Program hatékony megvalósítása érdekében;
 
@@ -8,7 +8,7 @@
 
 ## Határidő: 2013. december 31.
 
-## c)[^2] felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy az 1. melléklet szerinti beruházások megvalósításának ütemezéséhez igazodva gondoskodjanak a Nemzeti Stadionfejlesztési Program végrehajtásához 2016. és a 2017. években szükséges források ütemezett rendelkezésre állásáról;
+## c)[^3] felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy az 1. melléklet szerinti beruházások megvalósításának ütemezéséhez igazodva gondoskodjanak a Nemzeti Stadionfejlesztési Program végrehajtásához 2016. és a 2017. években szükséges források ütemezett rendelkezésre állásáról;
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -18,9 +18,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^3]
+## 3.[^4]
 
-1. melléklet az 1980/2013. (XII. 29.) Korm. határozathoz[^4]
+1. melléklet az 1980/2013. (XII. 29.) Korm. határozathoz[^5]
 
 A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labdarúgó sportlétesítmény-fejlesztések
 
@@ -34,7 +34,7 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 
 | 3. | Nyíregyháza labdarúgó sportlétesítmény-fejlesztése | 8 000 | 500 | 500 | 0 |
 
-| 4. | Budapest Illovszky Rudolf Stadion labdarúgó sportlétesítmény-fejlesztése | 6 000 | 4 000 | 500 | 3 500 |
+| 4. | Budapest Illovszky Rudolf Stadion labdarúgó sportlétesítmény-fejlesztése | 6 000 | 7 352 | 0 | 7 352 |
 
 | 5. | Zalaegerszeg labdarúgó sportlétesítmény-fejlesztése | 8 000 | 1 000 | 500 | 500 |
 
@@ -81,6 +81,7 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 |  | Összesen | – | 25 565 | 10 575 | 14 990 |
 
 [^1]: Az 1. pont a) alpontja az 1071/2016. (II. 25.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^2]: Az 1. pont c) alpontja az 1071/2016. (II. 25.) Korm. határozat 4. pontjával megállapított szöveg.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1071/2016. (II. 25.) Korm. határozat 5. pontjával megállapított szöveg.
+[^2]: Az 1650/2018. (XII. 6.) Korm. határozat 3. pontja alapján az 1. pont a) alpontjától eltérően a Korm. határozat 1. melléklet 4. sora szerinti Budapest Illovszky Rudolf Stadion labdarúgó sportlétesítmény fejlesztésére a 2015–2019. években 8 140 000 000 forint forrás biztosításával kerül sor.
+[^3]: Az 1. pont c) alpontja az 1071/2016. (II. 25.) Korm. határozat 4. pontjával megállapított szöveg.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet az 1071/2016. (II. 25.) Korm. határozat 5. pontjával megállapított, a 2099/2017. (XII. 28.) Korm. határozat szerint módosított szöveg.
