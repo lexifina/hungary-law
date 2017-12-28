@@ -1,8 +1,6 @@
-## 30. § A Pénz- és Tőkepiaci Igazságügyi Szakértői Testület legfeljebb 50 tagból áll.
+## A Műszaki Igazságügyi Szakértői Testület[^16]
 
-## A Műszaki Igazságügyi Szakértői Testület[^7]
-
-30/A. §[^8] (1) A Műszaki Igazságügyi Szakértői Testület – a (2) bekezdésben foglalt kivétellel – az R.
+30/A. §[^17] (1) A Műszaki Igazságügyi Szakértői Testület – a (2) bekezdésben foglalt kivétellel – az R.
 
 a) 5. számú mellékletében meghatározott közlekedési és ipari szakterületeken,
 
@@ -12,9 +10,9 @@ ba) A) részében meghatározott környezetvédelmi szakterületeken,
 
 bb) C) részében meghatározott vízügyi szakterületeken,
 
-c) 8. számú mellékletének 7. pontjában meghatározott műemlékvédelem szakterületen,
+c)[^18] 8. számú mellékletének 7. pontjában meghatározott műemléki érték dokumentálása szakterületen,
 
-d) 11. számú mellékletében meghatározott lakás- és építésügyi szakterületeken
+d)[^19] 11. számú mellékletében meghatározott lakás- és építésügyi, valamint településrendezési szakterületeken
 
 ## felmerült szakkérdésekben jár el.
 
@@ -24,9 +22,13 @@ a) 5. számú melléklete
 
 aa) A) részének 23. pontjában meghatározott közúti szállítás, fuvarozás és 29. pontban megjelölt vasúti áruszállítás szakterületeken,
 
-ab) B) részének 33. pontjában meghatározott vendéglátóipar, és 37. pontjában meghatározott műszaki alkotások, növényfajták és árujelzők védelme szakterületeken,
+ab)[^20] B) részének 33. pontjában meghatározott vendéglátóipar, és 37. pontjában meghatározott iparjogvédelem szakterületeken,
 
-b) 11. számú mellékletének 14. pontjában meghatározott táj- és kertépítészet, valamint 18. pontjában megjelölt idegenforgalom szakterületeken
+b)[^21] 11. számú melléklete C) részének 2. pontjában megjelölt idegenforgalom szakterületen felmerült szakkérdésekben.
 
-[^7]: A 30/A. §-t megelőző alcímet a 23/2008. (X. 17.) IRM rendelet 4. §-a iktatta be.
-[^8]: A 30/A. §-t a 23/2008. (X. 17.) IRM rendelet 4. §-a iktatta be.
+[^16]: A 30/A. §-t megelőző alcímet a 23/2008. (X. 17.) IRM rendelet 4. §-a iktatta be.
+[^17]: A 30/A. §-t a 23/2008. (X. 17.) IRM rendelet 4. §-a iktatta be.
+[^18]: A 30/A. § (1) bekezdés c) pontja a 35/2017. (XII. 27.) IM rendelet 15. § d) pontja szerint módosított szöveg.
+[^19]: A 30/A. § (1) bekezdés d) pontja a 35/2017. (XII. 27.) IM rendelet 15. § e) pontja szerint módosított szöveg.
+[^20]: A 30/A. § (2) bekezdés a) pont ab) alpontja a 35/2017. (XII. 27.) IM rendelet 15. § f) pontja szerint módosított szöveg.
+[^21]: A 30/A. § (2) bekezdés b) pontja a 35/2017. (XII. 27.) IM rendelet 13. §-ával megállapított szöveg.

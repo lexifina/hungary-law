@@ -1,8 +1,9 @@
-12. § (1) A szakértői testület a tagok által elfogadott és a miniszter által jóváhagyott ügyrend szerint működik. Az ügyrendet meg kell küldeni a szakértői testület szakterületének ágazati irányításáért felelős miniszternek.
+12. §[^7] (1) A szakértői testület a tagok által elfogadott és a miniszter által jóváhagyott ügyrend szerint működik.
 
-(2)[^3] A szakértői testület elnöke az éves beszámolót benyújtja a miniszternek, továbbá tájékoztatásul megküldi a szakértői testület szakterületének ágazati irányításáért felelős miniszternek, a Kúria elnökének, és az Országos Bírósági Hivatal elnökének, valamint a legfőbb ügyésznek.
+(2) A jogi személy szakértői testület éves számviteli beszámolóját legkésőbb az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig kell elkészíteni és a teljes ülésnek jóváhagyni. A teljes ülés által jóváhagyott éves számviteli beszámolót az elnök írja alá.
 
-(3)[^4] A szakértői testület tagjainak névsorát, ügyrendjét és az éves beszámolót az igazságügyért felelős miniszter által vezetett minisztérium és a szakértői testület szakterületének ágazati irányításáért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni.
+(3) A szakértői testület elnöke az ügyrendet, a szakértői testület éves munkájáról szóló beszámolót és – jogi személy szakértői testület esetén – az éves számviteli beszámolót annak jóváhagyásától vagy elfogadásától számított 7 napon belül benyújtja a miniszternek.
 
-[^3]: A 12. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 29. § b) pontja szerint módosított szöveg.
-[^4]: A 12. § (3) bekezdése a 40/2011. (XII. 30.) KIM rendelet 29. § c) pontja szerint módosított szöveg.
+(4) A szakértői testület tagjainak névsorát, ügyrendjét, az éves munkáról szóló beszámolót és az éves számviteli beszámolót a miniszter a kormányzati portálon közzéteszi.
+
+[^7]: A 12. § a 35/2017. (XII. 27.) IM rendelet 8. §-ával megállapított szöveg.
