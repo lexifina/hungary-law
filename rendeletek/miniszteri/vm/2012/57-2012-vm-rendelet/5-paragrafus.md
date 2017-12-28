@@ -18,6 +18,9 @@ c) legalább 10 EUME nagyságú, akkor 40 000 eurónak
 
 (5) A Vhr. 21. § (3) bekezdéstől eltérően a vállalt EUME méretet a támogatási kérelembenyújtás évének január 1-jén érvényes EKB által rögzített árfolyamon kell figyelembe venni a működtetési időszak egésze alatt.
 
-(6) Az EUME számítás alapjául szolgáló állatlétszámot a napi állományadatok éves átlaga alapján számított állatlétszám alapján kell meghatározni, amelyet az MVH a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló miniszteri rendeletben meghatározottak alapján vezetett nyilvántartásokból állapít meg, amit az állatállomány-nyilvántartásnak is alá kell támasztania.
+(6)[^8] Az EUME számítás alapjául szolgáló állatlétszámot a napi állományadatok éves átlaga alapján számított állatlétszám alapján kell meghatározni, amelyet a Kincstár a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló miniszteri rendeletben meghatározottak alapján vezetett nyilvántartásokból állapít meg, amit az állatállomány-nyilvántartásnak is alá kell támasztania.
 
-(7) Az EUME számítás alapjául szolgáló területméretet az adott évben benyújtott egységes területalapú támogatás adataiból ellenőrzi az MVH, mind a terület mérete, mind pedig a hasznosítás figyelembevétele mellett. Az egységes területalapú támogatással nem érintett területek esetében a terület mérete a földhasználati nyilvántartásból, az SFH érték az ügyfél nyilatkozata alapján kerül ellenőrzésre.
+(7)[^9] Az EUME számítás alapjául szolgáló területméretet az adott évben benyújtott egységes területalapú támogatás adataiból ellenőrzi a Kincstár, mind a terület mérete, mind pedig a hasznosítás figyelembevétele mellett. Az egységes területalapú támogatással nem érintett területek esetében a terület mérete a földhasználati nyilvántartásból, az SFH érték az ügyfél nyilatkozata alapján kerül ellenőrzésre.
+
+[^8]: Az 5. § (6) bekezdése a 35/2017. (XII. 27.) MvM rendelet 8. § d) pontja szerint módosított szöveg.
+[^9]: Az 5. § (7) bekezdése a 35/2017. (XII. 27.) MvM rendelet 8. § d) pontja szerint módosított szöveg.

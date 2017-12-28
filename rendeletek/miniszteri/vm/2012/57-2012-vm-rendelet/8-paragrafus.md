@@ -10,11 +10,11 @@ a) az egyéni vállalkozói mezőgazdasági tevékenységről kiállított igazo
 
 b) a támogatási kérelemben jelzett csatlakozási szándék esetén az MVH által rendszeresített nyomtatványt, amelyen az elismert termelői csoport, vagy zöldség-gyümölcs termelői csoport és termelői szervezet az ügyfél tagságának meglétét igazolja.
 
-(3) A támogatási összeg fennmaradó 10%-ára vonatkozó kifizetési kérelem benyújtására 2014. május 1. és 31. között, majd ezt követően évente május 1. és 31. között megnyíló kifizetési időszakban, de legkésőbb a működtetési időszak 5. évében megnyíló kifizetési időszak végéig van lehetőség akkor, ha a 4. § (1)–(3) bekezdésében foglaltak teljesülnek.
+(3)[^11] A támogatási összeg fennmaradó 10%-ára vonatkozó kifizetési kérelem benyújtására 2014. május 1. és 31. között, majd ezt követően évente május 1. és 31. között megnyíló kifizetési időszakban, de legkésőbb a működtetési időszak ötödik évét követő év május 1. és 31. között van lehetőség.
 
-(4) A kifizetési kérelmet postai úton az ügyfél lakóhelye szerint illetékes MVH megyei kirendeltségére kell benyújtani, az MVH honlapján közleményben közzétett nyomtatványon.
+(4)[^12] A kifizetési kérelmet az ügyfél választása szerint elektronikus úton, ügyfélkapun keresztül, vagy postai úton az ügyfél lakóhelye szerint illetékes kormányhivatalhoz kell benyújtani, a Kincstár honlapján közleményben közzétett nyomtatványon.
 
-(5) A nyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
+(5)[^13] A nyomtatványt a következő adattartalommal kell a Kincstárnak rendszeresíteni:
 
 a) ügyfél-azonosítási adatok,
 
@@ -23,3 +23,7 @@ b) a kötelezettségek teljesítését igazoló adatok.
 (6) A támogatási összeg fennmaradó 10%-ára vonatkozó kifizetési kérelemhez mellékelni kell az ökológiai ellenőrző szervezet által kiállított igazolást arról, hogy az ügyfél legkésőbb a működtetési időszak első évének végétől a kifizetési kérelem benyújtásának időpontjáig szerepelt az ökológiai gazdálkodás ellenőrzési rendszerében és az ellenőrző szervezettel mezőgazdasági tevékenységre vonatkozó érvényes szerződéssel rendelkezett.
 
 (7) Amennyiben az e rendelet alapján benyújtott támogatási kérelemben az ügyfél arról nyilatkozott, hogy gazdaságot vesz át, és erre vonatkozóan többlet pontot szerzett, ezt követően a támogatási kérelemben megnevezettől eltérő azon gazdaságátadótól is átvehet gazdaságot, akivel és az általa átadott gazdasággal szemben teljesülnek ugyanazok, a 3. mellékletben foglalt táblázat „A” Szakmai szempontok és „B” Horizontális szempontok rész alapján tett vállalások, kötelezettségek, nyilatkozatok.
+
+[^11]: A 8. § (3) bekezdése a 35/2017. (XII. 27.) MvM rendelet 3. §-ával megállapított szöveg.
+[^12]: A 8. § (4) bekezdése a 35/2017. (XII. 27.) MvM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 8. § (5) bekezdés nyitó szövegrésze a 35/2017. (XII. 27.) MvM rendelet 8. § e) pontja szerint módosított szöveg.
