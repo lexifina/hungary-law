@@ -14,7 +14,7 @@ f) a bíróság Gazdasági Hivatalát,
 
 g) az adós székhelye szerint illetékes levéltárat,
 
-h) a felszámoló adatszolgáltatása alapján az adós számláit vezető valamennyi pénzforgalmi szolgáltatót, és befektetési szolgáltatót,
+h)
 
 i) az alapítási, illetve tevékenységi engedélyt kiadó hatóságot, amennyiben az adós alapítási vagy tevékenységi engedélyhez kötött tevékenységet is folytat.
 

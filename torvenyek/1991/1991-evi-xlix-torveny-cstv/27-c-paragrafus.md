@@ -30,6 +30,8 @@ c) nem tanúsíthat feladata ellátása körében, sem azon kívül olyan magata
 
 (3a) A felszámoló ellenőrzi, hogy a felszámolóbiztos nem esik-e kizáró okok alá, nem folytat-e az e törvényben foglalt tilalom alá eső tevékenységet.
 
+(3b) A (3) bekezdés c) pontja szerinti pártatlanságot veszélyeztető tevékenység különösen a nagykereskedelmi és kiskereskedelmi tevékenység, ingatlan-bérbeadás, ingatlankezelési tevékenység, operatív és pénzügyi lízingtevékenység, vagyoni őrző-védő tevékenység, valamint irattározási és raktározási tevékenység.
+
 (4) A felszámolói névjegyzék közhiteles hatósági nyilvántartás. A névjegyzékben fel kell tüntetni:
 
 a) a felszámoló:
