@@ -2,7 +2,7 @@
 
 79. § (1) A Jöt. 117. §-a szerinti, mezőgazdaságban felhasznált gázolaj utáni adó-visszaigénylés gépi bérmunka-szolgáltatás igénybevétele esetén a gépi bérmunka-szolgáltatás igénybevételéről a mezőgazdasági termelő nevére szóló számla birtokában érvényesíthető.
 
-(2)[^35] Nem érvényesíthető az adó-visszaigénylési jogosultság, ha a mezőgazdasági termelő az adott erdő vonatkozásában az erdő felújítására vagy a felújítás befejezésére jogszabályban, vagy a területileg illetékes erdészeti hatóságként eljáró megyei kormányhivatal járási hivatala (a továbbiakban: erdészeti hatóság) határozatában megállapított határidőt túllépte.
+(2)[^36] Nem érvényesíthető az adó-visszaigénylési jogosultság, ha a mezőgazdasági termelő az adott erdő vonatkozásában az erdő felújítására vagy a felújítás befejezésére jogszabályban, vagy a területileg illetékes erdészeti hatóságként eljáró megyei kormányhivatal járási hivatala (a továbbiakban: erdészeti hatóság) határozatában megállapított határidőt túllépte.
 
 (3) Amennyiben a naptári éven belül változik a mezőgazdasági termelő által megművelt földterület, felújított erdő, és a használatban tartott halastó területe, a Jöt. 117. § (1) bekezdése alkalmazásában a hektáronként legfeljebb figyelembe vehető gázolajmennyiség egytizenketted része és a terület mezőgazdasági termelő általi használatának hónapjai szorzataként számított, egész literre kerekített mennyiség vehető legfeljebb figyelembe. A megkezdett hónapot a területet a hónapban elsőként használó mezőgazdasági termelőnél kell figyelembe venni.
 
@@ -14,4 +14,4 @@
 
 (7) Az adó-visszaigényléssel érintett termőföldterület, erdő, halastó nagyságát – a kerekítés általános szabályainak megfelelően – hektárban, két tizedesjegy pontossággal kell meghatározni.
 
-[^35]: A 79. § (2) bekezdése az 5/2017. (III. 30.) NGM rendelet 23. §-ával megállapított szöveg.
+[^36]: A 79. § (2) bekezdése az 5/2017. (III. 30.) NGM rendelet 23. §-ával megállapított szöveg.

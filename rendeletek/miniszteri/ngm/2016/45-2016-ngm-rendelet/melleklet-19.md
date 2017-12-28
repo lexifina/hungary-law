@@ -91,3 +91,13 @@ I. Nyilvántartásba vett személy
 1. Neve (elnevezése):
 
 2. Székhelye (ennek hiányában telephelye), lakóhelye (tartózkodási helye):
+
+3. Adószáma/adóazonosító jele:
+
+II. Nyilvántartásba vett tevékenység helye (címe, helyrajzi száma):
+
+III. Nyilvántartásba vett tevékenység megnevezése1:
+
+IV. Jövedéki termék előállítására alkalmas berendezés leírása:
+
+V. A jövedéki termék előállítására alkalmas berendezést előállító/értékesítő/birtokló személy a jelen okiratban rögzített, valamint a kérelemben, a kérelemhez csatolt bizonylatokban, dokumentációkban szereplő feltételek, körülmények fennállása, teljesítése mellett működhet. E nyilvántartásba vétel jövedéki termék előállítására nem jogosít.

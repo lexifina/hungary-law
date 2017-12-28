@@ -1,8 +1,8 @@
 84. § (1) Az állami adó- és vámhatóság a Jöt. 117. §-a szerinti, a mezőgazdaságban felhasznált gázolaj utáni adó-visszaigénylési jogosultságot az ellenőrzési és kockázatelemzési tevékenysége keretében
 
-a)[^36] a Jöt. 117. § (1) bekezdés a) pontja szerinti mezőgazdasági termelő vonatkozásában a mezőgazdasági munka elvégzését illetően a megművelt termőföld helyrajzi száma alapján megyei kormányhivatal földművelésügyi igazgatási hatáskörben eljáró megyeszékhely szerinti – Pest megyében az érdi, Csongrád megyében a hódmezővásárhelyi – járási hivatala (a továbbiakban: mezőgazdasági igazgatási szerv),
+a)[^37] a Jöt. 117. § (1) bekezdés a) pontja szerinti mezőgazdasági termelő vonatkozásában a mezőgazdasági munka elvégzését illetően a megművelt termőföld helyrajzi száma alapján megyei kormányhivatal földművelésügyi igazgatási hatáskörben eljáró megyeszékhely szerinti – Pest megyében az érdi, Csongrád megyében a hódmezővásárhelyi – járási hivatala (a továbbiakban: mezőgazdasági igazgatási szerv),
 
-b)[^37] a Jöt. 117. § (1) bekezdés b) pontja szerinti mezőgazdasági termelő vonatkozásában a felújított erdő erdészeti azonosítója alapján a visszaigénylés alapjául szolgáló tevékenység elvégzése szerinti év június 30-i vagy december 31-i nyilvántartási állapota alapján az erdőfelújítási kötelezettség alatt álló erdő nagyságát, az erdő felújítására vagy az erdő felújításának befejezésére megállapított határidő betartását, a használó személyét illetően az erdészeti hatóság,
+b)[^38] a Jöt. 117. § (1) bekezdés b) pontja szerinti mezőgazdasági termelő vonatkozásában a felújított erdő erdészeti azonosítója alapján a visszaigénylés alapjául szolgáló tevékenység elvégzése szerinti év június 30-i vagy december 31-i nyilvántartási állapota alapján az erdőfelújítási kötelezettség alatt álló erdő nagyságát, az erdő felújítására vagy az erdő felújításának befejezésére megállapított határidő betartását, a használó személyét illetően az erdészeti hatóság,
 
 c) a Jöt. 117. § (1) bekezdés c) pontja szerinti mezőgazdasági termelő vonatkozásában a halastóra kiadott – a halastó területi adatait is tartalmazó – vízjogi üzemeltetési engedély meglétét és a halgazdálkodási tevékenység folytatását illetően a halastó vízjogi üzemeltetési engedélyét kibocsátó, területileg illetékes vízügyi hatóság (a továbbiakban: vízügyi hatóság)
 
@@ -18,5 +18,5 @@ c) a Jöt. 117. § (1) bekezdés c) pontja szerinti mezőgazdasági termelő von
 
 (6) Az állami adó- és vámhatóság (1) bekezdés szerinti megkeresésére a mezőgazdasági igazgatási szerv, az erdészeti hatóság és a vízügyi hatóság a megkeresés beérkezését követő 10 napon belül hatósági bizonyítvány elektronikus úton történő megküldésével adatot szolgáltat az állami adó- és vámhatóság részére.
 
-[^36]: A 84. § (1) bekezdés a) pontja az 5/2017. (III. 30.) NGM rendelet 24. §-ával megállapított szöveg.
-[^37]: A 84. § (1) bekezdés b) pontja az 5/2017. (III. 30.) NGM rendelet 24. §-ával megállapított szöveg.
+[^37]: A 84. § (1) bekezdés a) pontja az 5/2017. (III. 30.) NGM rendelet 24. §-ával megállapított szöveg.
+[^38]: A 84. § (1) bekezdés b) pontja az 5/2017. (III. 30.) NGM rendelet 24. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-7. melléklet a 45/2016. (XI. 29.) NGM rendelethez
+7. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^58]
 
 ## Termék tulajdonságaiból adódó elismert mennyiségű hiány
 
@@ -6,15 +6,13 @@
 
 |  | A | B | C | D | E | F | G | H | I |
 
-| 1. | Nem kiszerelt energiatermék |
+| 1. | Nem kiszerelt energiatermék (havonta) |
 
 | 2. |  | Föld feletti tartály | Úszótetős tartály | Föld alatti tartály | Hordós tank |
 
-| 3. |  | téli(1) | nyári(2) | téli(1) | nyári(2) | téli(1) | nyári(2) | téli(1) | nyári(2) |
+| 3. |  | Október 1-jétől április 30-ig terjedő időszakban | Május 1-jétől szeptember 30-ig terjedő időszakban | Október 1-jétől április 30-ig terjedő időszakban | Május 1-jétől szeptember 30-ig terjedő időszakban | Október 1-jétől április 30-ig terjedő időszakban | Május 1-jétől szeptember 30-ig terjedő időszakban | Október 1-jétől április 30-ig terjedő időszakban | Május 1-jétől szeptember 30-ig terjedő időszakban |
 
-| időszak | időszak | időszak | időszak |
-
-| 4. | LPG és földgáz | 0,15% | 0,4% | - | - | 0,15 % | 0,15% | - | - |
+| 4. | LPG és földgáz | 0,15% | 0,4% | - | - | 0,15% | 0,15% | - | - |
 
 | 5. | Benzin, egyéb ellenőrzött ásványolaj, E85, Jöt. 3. § (2) bekezdés 27. pont a) és c) alpontja szerinti megfigyelt termék | 0,1% | 0,2% | 0,05% | 0,1% | 0,09% | 0,18% | 0,06% | 0,1% |
 
@@ -22,31 +20,29 @@
 
 | 7. | 3811 11 90, 3811 19 00, 3811 90 00 KN-kód szerinti termék, Jöt. 3. § (2) bekezdés 27. pont b) alpontja szerinti megfigyelt termék | 0,015% | 0,04% | - | - | - | - | 0,015% | 0,04% |
 
-| 8. | Nem palackozott alkoholtermék |
+| 8. | Nem palackozott alkoholtermék (havonta) |
 
 | 9. |  | Faedényben | Egyébként |
 
-| 10. | 2207 10 00-2207 20 00 KN-kód szerinti alkoholtermék – kivéve a sósborszeszt -, a Jöt. 3. § (2) bekezdés 27. pont d) alpontja szerinti megfigyelt termék | évente 3% | évente 1,2% |
+| 10. | 2207 10 00-2207 20 00 KN-kód szerinti alkoholter- mék, kivéve a sósborszeszt | - | 0,05% |
 
-| 11. | Egyébként | évente 6% | évente 6% |
+| 11 | A Jöt. 3. § (2) bekezdés 27. pont d) alpontja szerinti megfigyelt termék | 0,25% | 0,1% |
 
-| 12. | Nem palackozott egyéb habzó erjesztett ital |
+| 12. | Egyéb alkoholter- mék | 0,25% | 0,25% |
 
-| 13. | Nem palackozott egyéb habzó erjesztett ital | évente 1% | - |
+| 13. | Nem palackozott egyéb habzó erjesztett ital (havonta) |
 
-| 14. | Nem palackozott köztes alkoholtermék |
+| 14. | Nem palackozott egyéb habzó erjesztett ital | 0,083% | - |
 
-| 15. | Nem palackozott köztes alkoholtermék | évente 6% | - |
+| 15. | Nem palackozott köztes alkoholtermék (havonta) |
 
-| 16. | Egyéb csendes erjesztett ital |
+| 16. | Nem palackozott köztes alkoholter- mék | 0,5% | - |
 
-| 17. |  | Hordóban | Egyébként |
+| 17. | Egyéb csendes erjesztett ital (havonta) |
 
-| 18. | Egyéb csendes erjesztett ital | évente 0,8% | - |
+| 18. |  | Hordóban | Egyébként |
 
-(1) Október 1-jétől április 30-ig.
-
-(2) Május 1-jétől szeptember 30-ig.
+| 19. | Egyéb csendes erjesztett ital | 0,066% | - |
 
 2. Szállítás
 
@@ -143,3 +139,15 @@
 | 1. | Alkoholtermék finomítása | 1% |
 
 | 2. | Alkoholtermék víztelenítése | 1% |
+
+5. Előállítási technológiából adódó egyéb veszteség
+
+|  | A | B |
+
+| 1. |  | Az adóraktár engedélyese által előállított azon termékmennyiségre, amelynek szabadforgalomba bocsátása és – a saját telephelyek közötti szállítás kivételével – adófelfüggesztési eljárás keretében történő feladása az elszámolási időszakban történt |
+
+| 2. | 2208 20 12-2208 90 99 KN-kód szerinti alkoholtermék | 3% |
+
+| 3. | Egyéb alkoholtermék | 1% |
+
+[^58]: A 7. melléklet a 47/2017. (XII. 27.) NGM rendelet 12. § (2) bekezdése szerint módosított szöveg.
