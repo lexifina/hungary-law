@@ -1,0 +1,229 @@
+# A Kormány 481/2017. (XII. 28.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 230. szám, 2017. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c341014a6af54d65e90ee7d9eeef9a0bd58d3e16/dokumentumok/8e5fc582e191611169358dc1594a4d34cac20dcb/letoltes)
+
+---
+
+A Kormány 481/2017. (XII. 28.) Korm. rendelete
+egyes közbeszerzési tárgyú kormányrendeletek elektronikus közbeszerzés bevezetésével összefüggő
+módosításáról
+A Kormány a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 5. pontjában,
+a 2. alcím tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 11. pontjában,
+a 3. alcím tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 7. pontjában,
+a 4. alcím tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 4. pontjában,
+az 5. alcím tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 16. pontjában,
+a 6. alcím tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 3. pontjában,
+a 7. alcím tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 14. pontjában,
+a 8. alcím tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 1. pontjában,
+a 9. alcím tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 19. pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+
+1. A központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és
+hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet módosításáról
+1. §
+A központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló
+168/2004. (V. 25.) Korm. rendelet 8. § (1) bekezdésében az„az egyszerű”szövegrész helyébe az„a”szöveg lép.
+2. A fekvőbeteg szakellátást nyújtó intézmények részére történő gyógyszer-, orvostechnikai eszköz és
+fertőtlenítőszer beszerzések országos központosított rendszeréről szóló
+46/2012. (III. 28.) Korm. rendelet módosításáról
+2. §
+A fekvőbeteg szakellátást nyújtó intézmények részére történő gyógyszer-, orvostechnikai eszköz és fertőtlenítőszer
+beszerzések országos központosított rendszeréről szóló 46/2012. (III. 28.) Korm. rendelet
+a) 3. § (6) bekezdésében a „2015. évi CXLIII. törvényben (a továbbiakban: Kbt.) foglaltaknak megfelelően
+a központi beszerző szervezet honlapján kell közzétenni” szövegrész helyébe a „2015. évi CXLIII. törvényben
+(a továbbiakban: Kbt.) és végrehajtási rendeleteiben foglaltaknak megfelelően, valamint a központi beszerző
+szervezet honlapján is közzé kell tenni”szöveg;
+b) 7. § (1) bekezdésében az „az e rendeletben, valamint a” szövegrész helyébe az „az e rendeletben,
+az elektronikus közbeszerzés részletes szabályairól szóló kormányrendeletben, valamint a”szöveg
+lép.
+3. A Nemzeti Kommunikációs Hivatalról és a kormányzati kommunikációs beszerzések központosított
+közbeszerzési rendszeréről szóló 247/2014. (X. 1.) Korm. rendelet módosításáról
+3. §
+A Nemzeti Kommunikációs Hivatalról és a kormányzati kommunikációs beszerzések központosított közbeszerzési
+rendszeréről szóló 247/2014. (X. 1.) Korm. rendelet 4. § (2) bekezdésében az „a közigazgatási hatósági eljárás és
+szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény” szövegrész helyébe az „az általános közigazgatási
+rendtartásról szóló 2016. évi CL. törvény”szöveg lép.
+4. A közszolgáltatók közbeszerzéseire vonatkozó sajátos közbeszerzési szabályokról szóló
+307/2015. (X. 27.) Korm. rendelet módosításáról
+4. §
+A közszolgáltatók közbeszerzéseire vonatkozó sajátos közbeszerzési szabályokról szóló 307/2015. (X. 27.)
+Korm. rendelet 17. § (2) bekezdésében a „megfelelő alkalmazásával kell megadni” szövegrész helyébe a „megfelelő,
+vagy amennyiben az ajánlatkérő az elektronikus kommunikáció alkalmazása mellett dönt, az elektronikus
+közbeszerzés részletes szabályairól szóló kormányrendeletben foglaltak alkalmazásával kell megadni”szöveg lép.
+5. A közbeszerzési eljárás eredményeként megkötött szerződések teljesítésének és módosításának
+Közbeszerzési Hatóság által végzett ellenőrzéséről szóló 308/2015. (X. 27.) Korm. rendelet
+módosításáról
+5. §
+A közbeszerzési eljárás eredményeként megkötött szerződések teljesítésének és módosításának Közbeszerzési
+Hatóság által végzett ellenőrzéséről szóló 308/2015. (X. 27.) Korm. rendelet (a továbbiakban: R1.) 5. § (2) bekezdése
+helyébe a következő rendelkezés lép:
+„(2) A Hatóság hivatalból indított eljárását – a jogsértés tudomásra jutásától számított 90 napon belül – a Kbt.
+152. § (1) bekezdésében meghatározott szervezetek vagy személyek erre irányuló kérelem benyújtásával
+kezdeményezhetik. A kérelem kizárólag a Hatóságnál terjeszthető elő. A Hatóság elnöke által kezdeményezett
+eljárás esetében kérelem benyújtására nincs szükség.”
+6. §
+Az R1.
+a) 1. § (1) bekezdésében az„(1) bekezdése”szövegrész helyébe az„1. pontja”szöveg;
+b) 1. § (2) bekezdésében a „jogerős bírósági vagy hatósági határozattal” szövegrész helyébe a „jogerős bírósági
+vagy végleges hatósági határozattal”szöveg;
+
+c) 3. § (1) bekezdésében az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló
+2004. évi CXL. törvény (a továbbiakban: Ket.)” szövegrész helyébe az„az általános közigazgatási rendtartásról
+szóló 2016. évi CL. törvény (a továbbiakban: Ákr.)”szöveg;
+d) 5. § (3) bekezdésében az„a Ket. 35. § (1)”szövegrész helyébe az„az Ákr. 36. § (1)”szöveg;
+e) 7. § (1) bekezdésében az„a Ket. 42. § (1) és (3)”szövegrész helyébe az„az Ákr. 22. § és 23. § (1)”szöveg;
+f) 7. § (3) bekezdésében az „a Ket. 42. § (1), illetve (3)” szövegrész helyébe az „az Ákr. 22. §, illetve 23. § (1)”
+szöveg;
+g) 8. § (2) bekezdésében az „a Közbeszerzési Adatbázisból, valamint” szövegrész helyébe az „a Közbeszerzési
+Adatbázisból, a Miniszterelnökség által üzemeltetett egységes, elektronikus közbeszerzési rendszerből,
+a Hatóság által működtetett szerződés-nyilvántartási rendszerből, valamint”szöveg;
+h) 10. § (2) bekezdésében az „– a Ket. 39. § (3) bekezdésében foglaltakon túl –” szövegrész helyébe az „– az Ákr.
+78. § (2) bekezdésében foglaltakon túl –”szöveg
+lép.
+7. §
+Hatályát veszti az R1.
+a) 3. § (1) bekezdésében az„– e kormányrendelet eltérő rendelkezése hiányában –”szövegrész,
+b) 3. § (2) bekezdése, valamint
+c) 11. § (2) bekezdése.
+6. A tervpályázati eljárásokról szóló 310/2015. (X. 28.) Korm. rendelet módosításáról
+8. § (1) A tervpályázati eljárásokról szóló 310/2015. (X. 28.) Korm. rendelet (a továbbiakban: R2.) 8. § (4) bekezdése helyébe
+a következő rendelkezés lép:
+„(4) Ha a pályamű benyújtásához fizikai modell benyújtása is szükséges, az azt tartalmazó csomagot titkosságot
+sértő módon megjelölni nem lehet.”
+(2) Az R2. 20. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A dokumentáció mellékleteinek tartalmaznia kell különösen:
+a) építészeti-műszaki tervek esetén a tervezési terület alaptérképét, helyszínrajzát, szükség esetén geodéziai
+adatokat;
+b) a tervpályázati feladat megismeréséhez és a pályamű elkészítéséhez szükséges térképeket, vizsgálatokat, tervi
+előzményeket, fényképeket;
+c) a pályázók adatainak és a díjazás vagy megvétel szerzők közötti százalékos arányának feltüntetésére szolgáló
+kitöltendő adatlapot, ha ezen adatokat az ajánlatkérő a pályaműhöz csatoltan kéri benyújtani, valamint
+d) a részben elektronikusan benyújtott pályaművek esetében a címzéslapot.”
+(3) Az R2. 21. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A tervpályázati eljárásban való részvétel iránt érdeklődő, illetve az ajánlatkérő által a tervpályázaton való
+indulásra felkért személyek és szervezetek a dokumentációban megadott határidőn belül a titkosság feltételeinek
+betartásával – a tervpályázati feladattal kapcsolatban kérdéssel fordulhatnak az ajánlatkérőhöz. Az írásbeli
+kapcsolattartásra a Kbt. 41. § (2) bekezdése, valamint az elektronikus közbeszerzés részletes szabályairól szóló
+kormányrendeletben foglaltak irányadóak.”
+(4) Az R2. 22. §-a helyébe a következő rendelkezés lép:
+„22. § (1) Részben elektronikusan benyújtott pályaművek esetében a pályamű nem elektronikusan benyújtott része
+a dokumentációban szereplő címzéslap felhasználásával, kizárólag postai vagy futár szolgáltatás igénybevételével
+nyújtható be.
+(2) A pályamű benyújtás időpontjának a részben elektronikusan benyújtott pályaművek esetén azt az időpontot kell
+tekinteni, amikor a pályamű teljes egészében – elektronikusan és postai- vagy futárszolgáltatás útján is – beérkezett.
+(3) Az ajánlatkérő a benyújtott pályaművek átvételéről jegyzőkönyvet készít. Az átvételi jegyzőkönyv tartalmazza
+az átvétel időpontját, valamint az azonosításhoz szükséges adatokat.”
+(5) Az R2. 24. § (2) bekezdése helyébe következő rendelkezés lép:
+„(2) A határidőben elektronikusan benyújtott pályaművek bontására az elektronikus közbeszerzés részletes
+szabályairól szóló kormányrendelet az ajánlatok bontására vonatkozó rendelkezései megfelelően alkalmazandóak.
+A határidőben részben elektronikusan benyújtott pályaművek nem elektronikusan benyújtott részét
+a bírálóbizottság legalább három tagjának jelenlétében kell felbontani. A pályaművek valamennyi munkarészét
+bírálati sorszámmal kell ellátni.”
+
+9. §
+Az R2.
+a) 19. § (1) bekezdésében a „közzétételére a külön jogszabályban” szövegrész helyébe a „közzétételére
+az elektronikus közbeszerzés részletes szabályairól szóló kormányrendeletben”szöveg;
+b) 21. § (5) bekezdésében a„kézhez kaphassa”szövegrész helyébe„megkaphassa”szöveg;
+c) 21. § (6) bekezdésében az „a dokumentációt a válaszadás időpontjáig átvették vagy azokat az ajánlatkérő
+rendelkezésükre bocsátotta” szövegrész helyébe az „a tervpályázati eljárásban való részvétel iránt
+érdeklődtek, illetve akiket az ajánlatkérő a tervpályázaton való indulásra felkért”szöveg;
+d) 21. § (8) bekezdésében a„tervpályázati dokumentációt átvevő”szövegrész helyébe„a tervpályázati eljárásban
+való részvétel iránt érdeklődőket, illetve az ajánlatkérő által a tervpályázaton való indulásra felkért”szöveg;
+e) 27. § (2) bekezdésében az „a dokumentációt átvették” szövegrész helyébe a „tervpályázati eljárásban való
+részvétel iránt érdeklődtek, illetve akiket az ajánlatkérő a tervpályázaton való indulásra felkért”szöveg;
+f) 32. § (5) bekezdésében a „postán vagy közvetlenül át kell adni” szövegrész helyébe a „meg kell küldeni”
+szöveg
+lép.
+7. A közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló
+320/2015. (X. 30.) Korm. rendelet módosításáról
+10. §
+A közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet 3. §
+(6) bekezdésében az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi
+CXL. törvény (a továbbiakban: Ket.)” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló 2016. évi
+CL. törvény”szöveg lép.
+8. A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint
+a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet
+módosításáról
+11. §
+A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki
+leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet (a továbbiakban: R3.) 1. §-a a következő
+(7) bekezdéssel egészül ki:
+„(7) A kizáró okokra és az alkalmassági követelményekre vonatkozóan a közbeszerzés megkezdését megelőzően
+kiállított igazolások is benyújthatóak (felhasználhatóak) mindaddig, ameddig az igazolásokban foglalt tény, illetve
+adat tartalma valós. Az ajánlatkérő – ellenkező bizonyításig – az adat valóságtartalmát az ajánlattevő erre vonatkozó
+külön nyilatkozata nélkül vélelmezi.”
+12. §
+Az R3. 3. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) Amennyiben az egységes európai közbeszerzési dokumentumot az ajánlatkérő a Miniszterelnökség által
+üzemeltetett, egységes, elektronikus közbeszerzési rendszerben elektronikus űrlapként bocsátja a gazdasági
+szereplők rendelkezésére, a közös ajánlattevők vagy részvételre jelentkezők képviseletében a nyilatkozatot
+az ajánlatot vagy részvételi jelentkezést benyújtó gazdasági szereplő teszi meg.”
+9. A felelős akkreditált közbeszerzési szaktanácsadók kötelező közbeszerzési szakmai képzéséről szóló
+217/2017. (VII. 31.) Korm. rendelet módosításáról
+13. § (1) A felelős akkreditált közbeszerzési szaktanácsadók kötelező közbeszerzési szakmai képzéséről szóló 217/2017.
+(VII. 31.) Korm. rendelet (a továbbiakban: R4.) 2. §-a a következő (2a)–(2c) bekezdéssel egészül ki:
+„(2a) A képző szervezetek az 1. melléklet szerinti adatok megadásával kezdeményezhetik az egyes képzések
+közbeszerzési szakmai képzésként történő elismerését a közbeszerzésekért felelős miniszternél.
+(2b) A képző szervezet az elismert képzésen való részvételről szóló igazolást a (2) bekezdés szerinti tájékoztatóban
+szereplő igazolásminta szerint adja ki.
+(2c) A képző szervezet az elismert képzéseken a résztevőkről jelenléti ívet vezet és azt a képzést követő 10 napon
+belül megküldi a közbeszerzésekért felelős miniszternek.”
+
+(2) Az R4. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A képzés elismerési kérelem benyújtásához kapcsolódó tájékoztatást, valamint az elismerés
+szempontrendszerét a közbeszerzésekért felelős miniszter minden év január 31. napjáig a honlapján közzéteszi.”
+14. §
+Az R4. 2. § (4) bekezdésében az„a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi
+CXL. törvény”szövegrész helyébe az„az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény”szöveg lép.
+15. §
+Az R4. az 1. melléklet szerinti 1. melléklettel egészül ki.
+10. Záró rendelkezések
+16. §
+Ez a rendelet 2018. január 1. napján lép hatályba.
+17. §
+E rendelet
+a) 2. alcíme a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló 2014. február 26-i
+2014/24/EU európai parlamenti és tanácsi irányelvnek;
+b) 4. alcíme a koncessziós szerződésekről szóló 2014. február 26-i 2014/23/EU európai parlamenti és tanácsi
+irányelvnek, a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló 2014. február
+26-i 2014/24/EU európai parlamenti és tanácsi irányelvnek, és a vízügyi, energiaipari, közlekedési és postai
+szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül
+helyezéséről szóló 2014. február 26-i 2014/25/EU európai parlamenti és tanácsi irányelvnek;
+c) 6. alcíme a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló 2014. február 26-i
+2014/24/EU európai parlamenti és tanácsi irányelvnek, és a vízügyi, energiaipari, közlekedési és postai
+szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül
+helyezéséről szóló 2014. február 26-i 2014/25/EU európai parlamenti és tanácsi irányelvnek;
+d) 8. alcíme a koncessziós szerződésekről szóló 2014. február 26-i 2014/23/EU európai parlamenti és tanácsi
+irányelvnek, közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló 2014. február
+26-i 2014/24/EU európai parlamenti és tanácsi irányelvnek, a vízügyi, energiaipari, közlekedési és postai
+szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül
+helyezéséről szóló 2014. február 26-i 2014/25/EU európai parlamenti és tanácsi irányelvnek
+való megfelelést szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 481/2017. (XII. 28.) Korm. rendelethez
+„1. melléklet a 217/2017. (VII. 31.) Korm. rendelethez
+A képzés elismerési kérelem minimális tartalma
+1. A képző intézmény neve, elérhetőségei, képviselője
+2. A képzési program neve, célja, időpontja, helyszíne
+3. A képzési program során megszerezhető kompetenciák
+4. Tervezett képzési idő
+5. A programba való bekapcsolódás feltételei
+6. A programban való részvétellel kapcsolatos információk
+7. A képzés formájára vonatkozó információk
+8. A képzés tematikájának, valamint a képzés azon részének bemutatása, amely a mindenkor hatályos
+közbeszerzési törvényben foglalt alapismereteken túlmutató, a felelős akkreditált közbeszerzési
+szaktanácsadóktól elvárt emelt szintű szakmai ismereteket közvetít
+9. Maximális csoportlétszám
+10. A képzésben részt vevő teljesítményét értékelő rendszer leírása
+
+11. A képzés elvégzéséről szóló igazolás kiadásának feltételei
+12. A képzési program végrehajtásához szükséges feltételek
+13. A képzési programban résztvevő oktatók névsora
+14. Mellékletek
+a) A képzésben részt vevő oktatók szakmai önéletrajza
+b) Az oktatók önéletrajzában szereplő személyes adatok kezelésére vonatkozó hozzájárulás,
+az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 5. §
+(1) bekezdése alapján”

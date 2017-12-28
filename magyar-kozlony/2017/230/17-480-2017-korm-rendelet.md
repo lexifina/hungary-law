@@ -1,0 +1,219 @@
+# A Kormány 480/2017. (XII. 28.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 230. szám, 2017. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c341014a6af54d65e90ee7d9eeef9a0bd58d3e16/dokumentumok/8e5fc582e191611169358dc1594a4d34cac20dcb/letoltes)
+
+---
+
+A Kormány 480/2017. (XII. 28.) Korm. rendelete
+az egyes kormányrendeleteknek a nemzetközi magánjogról szóló 2017. évi XXVIII. törvény
+hatálybalépésével összefüggő módosításáról
+A Kormány
+az 1. alcím tekintetében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés
+d) pontjában kapott felhatalmazás alapján,
+a 2. alcím, valamint az 1. és 2. melléklet tekintetében a bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. § (1) bekezdés
+b) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló
+149/1997. (IX. 10.) Korm. rendelet módosítása
+1. §
+Hatályát veszti a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.)
+Korm. rendelet 163. §-a.
+2. A végrehajtói kézbesítés részletes eljárási szabályairól szóló 250/2004. (VIII. 27.) Korm. rendelet
+módosítása
+2. §
+A végrehajtói kézbesítés részletes eljárási szabályairól szóló 250/2004. (VIII. 27.) Korm. rendelet (a továbbiakban: Vkr.)
+2. §-a a következő u) ponttal egészül ki:
+(E rendelet alkalmazásában:)
+„u) külföldi irat: a nemzetközi magánjogról szóló 2017. évi XXVIII. törvény (a továbbiakban: Nmjtv.) 74. §
+(1) bekezdésében említett külföldi eljárásban keletkezett irat vagy az 1393/2007/EK rendelet 4. cikke szerinti
+jogsegélykérelem vagy az 1393/2007/EK rendelet 15. cikke szerint előterjesztett kérelem alapján kézbesíteni kért
+irat.”
+3. §
+A Vkr. a következő VII/B. Fejezettel egészül ki:
+„VII/B. FEJEZET
+KÜLFÖLDI IRAT KÉZBESÍTÉSE
+Általános szabályok
+46/J. § (1) A bírósági határozat kézbesítésére vonatkozó rendelkezéseket a külföldi irat kézbesítésére az e Fejezetben
+meghatározott eltérésekkel kell alkalmazni.
+(2) E Fejezet alkalmazásában
+a) kérelmező: a külföldi irat kézbesítése iránti kérelmet az 1393/2007/EK rendelet 15. cikke alapján előterjesztő
+természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet;
+b) címzett: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki vagy amely részére
+a külföldi irat kézbesítését kérik az Nmjtv. 74. § (1) bekezdése szerinti vagy az 1393/2007/EK rendelet 4. cikke szerinti
+jogsegélykérelemben vagy az 1393/2007/EK rendelet 15. cikke szerint előterjesztett kérelemben.
+(3) A címzett a külföldi irat átvételét a 4. melléklet szerinti átvételi igazolás aláírásával ismeri el.
+Az Nmjtv. 74. § (1) bekezdésében említett jogsegélykérelem alapján kézbesítendő külföldi irat
+kézbesítése
+46/K. § (1) A Kar hivatali szerve a 6. § (1) bekezdése alkalmazásával továbbítja a kézbesítés iránti kérelmet és
+a kézbesítendő külföldi iratot a kézbesítési végrehajtónak. Ha a kézbesítési ügy kiosztásához szükséges adatok
+hiányosak, vagy a kézbesítési díj befizetéséről szóló igazolás nem került csatolásra, a Kar hivatali szerve erről
+
+tájékoztatja az igazságügyért felelős minisztert (a továbbiakban: miniszter), és az ügy kiosztása iránt csak
+akkor intézkedik, ha a miniszter közli az ügy kiosztásához szükséges adatokat, illetve csatolják a kézbesítési díj
+befizetéséről szóló igazolást.
+(2) A kérelemre és annak intézésére a 3–5. §, a 6. § (2)–(4) bekezdése, a 7–9. § és a 11. § nem alkalmazható.
+(3) A végrehajtó a külföldi iratot a II. Fejezet alapján eljárva kézbesíti, ennek során a 14. § (2) bekezdését, valamint
+a 31. § (2) és (3) bekezdését nem lehet alkalmazni. A 46/H. § (3), (5) és (6) bekezdését azzal az eltéréssel kell
+alkalmazni, hogy az értesítést az 5. melléklet szerinti nyomtatvány kitöltésével kell elkészíteni.
+(4) A végrehajtó a kézbesítéskor a címzettet tájékoztatja az Nmjtv. 75. § (2) bekezdésében foglaltakról, ha
+e rendelkezés alkalmazásának helye van.
+(5) Ha a miniszter tájékoztatása szerint a jogsegélykérelem előterjesztésére alkalmazandó nemzetközi egyezmény
+alapján a jogsegélykérelemben megjelölt cím hiányossága vagy pontatlansága esetén lakcímkutatást kell végezni,
+a végrehajtó a 37. § (1) bekezdés a) pontja, valamint (2) és (3) bekezdése szerinti intézkedéseket teszi meg.
+46/L. § (1) A kézbesítés eredményes
+a) ha a címzett vagy a helyettes átvevő a külföldi iratot átvette, vagy ha annak átvételét a címzett – a (2) bekezdés
+a) pontja szerinti eset kivételével – megtagadta, vagy
+b) a (2) bekezdés b) pontja szerinti eset kivételével a 34. § (2) bekezdés a) pontjában foglalt esetben a második
+helyszíni eljárás napjától számított 5. munkanapon.
+(2) A kézbesítés eredménytelen
+a) ha a címzett az Nmjtv. 75. § (2) bekezdése alapján a külföldi irat magyar nyelvű fordításának hiánya miatt tagadta
+meg az átvett irat elfogadását,
+b) a 34. § (2) bekezdés a) pontja szerinti esetben, ha a külföldi irat átvételét a címzett az Nmjtv. 75. § (2) bekezdése
+alapján a külföldi irat magyar nyelvű fordításának hiánya miatt megtagadhatta volna, vagy
+c) a 34. § (2) bekezdés b)–e) pontja szerinti esetekben.
+(3) A végrehajtó a kézbesítés eredményét igazoló iratok megküldésével tájékoztatja a minisztert a kézbesítés
+eredményéről.
+Az 1393/2007/EK rendelet 4. cikke szerinti jogsegélykérelem alapján kézbesítendő külföldi irat
+kézbesítése
+46/M. § (1) A 46/K. § (1)–(3) bekezdését kell alkalmazni azzal az eltéréssel, hogy a kézbesítési ügy kiosztásához
+szükséges adatok hiányosságáról vagy a kézbesítési díj befizetéséről szóló igazolás csatolásának elmulasztásáról
+az 1393/2007/EK rendelet 2. cikk (1) bekezdése szerinti áttevő intézményt kell tájékoztatni.
+(2) A végrehajtó a kézbesítendő irathoz csatolja az 1393/2007/EK rendelet II. melléklete szerinti nyomtatványt, és
+a kézbesítéskor a címzettet tájékoztatja az abban foglaltakról.
+(3) Ha a kézbesítendő iratból két példány került megküldésre, az egyik példányt a végrehajtó magánál tartja.
+(4) Az 1393/2007/EK rendelet 7. cikk (2) bekezdés a) pontja szerinti tájékoztatást a végrehajtó küldi meg az áttevő
+intézménynek.
+46/N. § (1) A kézbesítés eredményes
+a) ha a címzett vagy a helyettes átvevő a külföldi iratot átvette, vagy ha annak átvételét a címzett – a (2) bekezdés
+a) pontja szerinti eset kivételével – megtagadta, vagy
+b) a 34. § (2) bekezdés a) pontjában foglalt esetben a második helyszíni eljárás napjától számított 5. munkanapon.
+(2) A kézbesítés eredménytelen
+a) ha a címzett az 1393/2007/EK rendelet 8. cikke alapján az abban megjelölt határidőn belül a külföldi irat nyelve
+miatt tagadta meg az irat átvételét, vagy
+b) a 34. § (2) bekezdés b)–e) pontja szerinti esetekben.
+(3) A kézbesítés eredményéről a végrehajtó kiállítja az 1393/2007/EK rendelet 10. cikk (1) bekezdése szerinti
+igazolást, és közvetlenül küldi meg az áttevő intézménynek, csatolva a kézbesítendő külföldi iratnak az 46/M. §
+(4) bekezdése alapján magánál tartott másodpéldányát.
+Az 1393/2007/EK rendelet 15. cikke szerint előterjesztett kérelem alapján kézbesítendő külföldi irat
+kézbesítése
+46/O. § (1) Az 1393/2007/EK rendelet 15. cikke alapján előterjesztett kérelmeket a 3. §-ban foglaltak szerint kell
+előterjeszteni. A kérelem előterjesztésére a 4. § első mondata nem alkalmazható.
+
+(2) A kérelemnek az 5. § (1) bekezdés a) és c–e) pontjában foglalt adatok mellett a kézbesítési címet, a kézbesítendő
+külföldi iratot kibocsátó külföldi bíróság vagy hatóság nevét, a külföldi irat számát és jellegének megjelölését,
+továbbá a külföldi irat mellékleteinek számát és jellegük megjelölését kell tartalmaznia.
+(3) Ha a kérelem nem tartozik az 1393/2007/EK rendelet hatálya alá, a Kar hivatali szerve a kérelmet – a kézbesítési
+díjnak a díj visszaküldésének költségével, illetve a postaköltséggel csökkentett összegével, valamint a csatolt
+iratokkal együtt – visszaküldi a kérelmezőnek, és egyúttal tájékoztatja őt a visszaküldés okáról. Ha az 1393/2007/EK
+rendelet hatálya alá nem tartozó kérelem a kézbesítési díj befizetéséről szóló igazolást nem tartalmazza, a Kar
+hivatali szerve ezt feljegyzi a kérelemre, az további ügyintézést nem igényel.
+(4) A kérelem teljesítése megtagadásának a 6. § (4) bekezdés b) pontjának első fordulata, továbbá c)–d) és
+f)–g) pontja alapján van helye.
+(5) Az e § alá tartozó kérelem intézésére a 8–9. § és a 11. § nem alkalmazható.
+(6) A 46/K. § (1) és (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kézbesítési ügy kiosztásához szükséges
+adatok hiányosságáról vagy a kézbesítési díj befizetéséről szóló igazolás csatolásának elmulasztásáról a kérelmezőt
+kell tájékoztatni.
+(7) A kézbesítés eredményére a 46/N. § (1) és (2) bekezdését alkalmazni kell. A kézbesítés eredményét igazoló
+iratokat a kérelmezőnek kell megküldeni nyolc napon belül.”
+4. §
+A Vkr. a következő 50. §-sal egészül ki:
+„50. § E rendelet VII/B. Fejezete a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli
+iratok kézbesítéséről („iratkézbesítés”), és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007.
+november 13-i 1393/2007/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket
+állapít meg.”
+5. §
+A Vkr.
+a) az 1. melléklet szerinti 4. melléklettel és
+b) a 2. melléklet szerinti 5. melléklettel
+egészül ki.
+3. Záró rendelkezések
+6. §
+Ez a rendelet 2018. január 1. napján lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 480/2017. (XII. 28.) Korm. rendelethez
+„4. melléklet a 250/2004. (VIII. 27.) Korm. rendelethez
+.................................................................................................................................................................................... önálló bírósági végrehajtó
+........................................................................................................................................................................................................ irodájának címe
+............................................................................................................... telefonszám ........................................................................... ügyszám
+ÁTVÉTELI IGAZOLÁS
+külföldi irat végrehajtói kézbesítés során történő átvételéről
+I. A külföldi irat adatai
+a külföldi bíróság, hatóság megjelölése: .........................................................................................................................................................
+a külföldi okirat száma: ..........................................................................................................................................................................................
+a külföldi okirat jellege: .........................................................................................................................................................................................
+a külföldi irathoz csatolt mellékletek száma: .................................................................................................................................................
+a külföldi irathoz csatolt mellékletek jellege: ................................................................................................................................................
+
+II. A címzett adatai
+név: ...............................................................................................................................................................................................................................
+cím (jogsegélykérelem szerint): .........................................................................................................................................................................
+kézbesítés helye: ......................................................................................................................................................................................................
+III. Kézbesítés a címzett részére
+Az I. pont szerinti iratot és annak I. pont szerinti mellékleteit átvettem.
+dátum: ..................................................................... aláírás:
+.........................................................................................................................................................................................................................................
+az átvevő neve (14 év alatti, gondnokság alatt lévő, vagy nem természetes személy címzett esetében):
+.........................................................................................................................................................................................................................................
+személyazonosságot igazoló okirat fajtája és száma:
+.........................................................................................................................................................................................................................................
+IV. Kézbesítés helyettes átvevő részére
+Az I. pont szerinti iratot és annak I. pont szerinti mellékleteit átvettem. Kijelentem, hogy a címzettel perben nem
+állok, és az általam átvett iratot és mellékleteit a címzett részére átadom.
+helyettes átvevő neve:
+.........................................................................................................................................................................................................................................
+helyettes átvevő címe:
+.........................................................................................................................................................................................................................................
+dátum: ................................................ aláírás:
+.........................................................................................................................................................................................................................................
+személyazonosságot igazoló okirat fajtája és száma:
+.........................................................................................................................................................................................................................................
+hozzátartozói, egyéb kapcsolata a címzettel:
+.........................................................................................................................................................................................................................................
+V. A kézbesítési végrehajtó aláírása, bélyegzőjének lenyomata:
+....................................................................... P. H.”
+2. melléklet a 480/2017. (XII. 28.) Korm. rendelethez
+„5. melléklet a 250/2004. (VIII. 27.) Korm. rendelethez
+.................................................................................................................................................................................... önálló bírósági végrehajtó
+........................................................................................................................................................................................................ irodájának címe
+...................................................................................................... telefonszám .................................................................................... ügyszám
+ÉRTESÍTÉS
+külföldi irat végrehajtói kézbesítésének megkísérléséről
+A külföldi iratot ................................................ (dátum) ............................. órakor megkíséreltem kézbesíteni a címzett
+számára. A címzett a külföldi iratot a III. pontban foglaltak szerint veheti át.
+I. A címzett adatai
+név: ...............................................................................................................................................................................................................................
+cím: ...............................................................................................................................................................................................................................
+II. A külföldi irat adatai
+A külföldi bíróság, hatóság megjelölése: ........................................................................................................................................................
+A külföldi okirat száma: .........................................................................................................................................................................................
+A külföldi okirat jellege: ........................................................................................................................................................................................
+
+III. A külföldi irat átvételének módja
+...................................................................................................................................................................................................... (az átvétel helye)
+................................................................................................................................................................................................ (ügyfélfogadási idő)
+............................................................................................................................................................................................. (az átvétel határideje)
+Az átvételhez a címzettnek jelen értesítést és a következő érvényes okiratok valamelyikét kell bemutatnia:
+személyazonosító igazolvány (annak igénylését igazoló hatósági okirat), katonai igazolvány, tartózkodási engedély,
+letelepedési engedély, ideiglenes tartózkodásra jogosító igazolás, útlevél, 2001. január 1-jét követően kiadott
+vezetői engedély (jogosítvány), jogszabály által rendszeresített, személyazonosításra alkalmas fényképes igazolvány.
+Ha a címzett szervezet, annak vezetője, képviselője vagy a szervezet meghatalmazottja veheti át az iratot.
+IV. A kézbesítési végrehajtó aláírása, bélyegzőjének lenyomata:
+................................................................... P. H.
+V. Tájékoztatás1
+1. Ezen értesítés szerint a kézbesítési végrehajtó a címzett számára nemzetközi jogsegélykérelem alapján
+megküldött külföldi bírósági vagy hatósági iratot kísérelt meg kézbesíteni. A címzett a külföldi iratot
+az értesítésben foglaltak szerint veheti át a kézbesítési végrehajtó irodájában. Ha az értesítésben megjelölt
+határidőben a címzett nem veszi át a külföldi iratot, a határidő lejártát követően újabb helyszíni eljárásra kerül
+sor.
+2. Ezen értesítés szerint a kézbesítési végrehajtó a címzett számára nemzetközi jogsegélykérelem alapján
+megküldött külföldi bírósági vagy hatósági iratot kísérelt meg második alkalommal kézbesíteni.
+A címzett a külföldi iratot az értesítésben foglaltak szerint veheti át a kézbesítési végrehajtó irodájában.
+Ha az értesítésben megjelölt határidőben a címzett nem veszi át a külföldi iratot, az a második kézbesítési
+kísérlet napját követő 5. munkanapon kézbesítettnek minősül.
+3. Ezen értesítés szerint a kézbesítési végrehajtó a címzett számára nemzetközi jogsegélykérelem alapján
+megküldött külföldi bírósági vagy hatósági iratot kísérelt meg második alkalommal kézbesíteni. A címzett
+a külföldi iratot az értesítésben foglaltak szerint veheti át a kézbesítési végrehajtó irodájában. Ha
+az értesítésben megjelölt határidőben a címzett nem veszi át a külföldi iratot, a kézbesítés eredménytelennek
+minősül.”
+1 A megfelelő aláhúzandó.

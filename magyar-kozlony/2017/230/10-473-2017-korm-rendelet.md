@@ -1,0 +1,223 @@
+# A Kormány 473/2017. (XII. 28.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 230. szám, 2017. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c341014a6af54d65e90ee7d9eeef9a0bd58d3e16/dokumentumok/8e5fc582e191611169358dc1594a4d34cac20dcb/letoltes)
+
+---
+
+A Kormány 473/2017. (XII. 28.) Korm. rendelete
+az utazásszervező és -közvetítő tevékenységről szóló 213/1996. (XII. 23.) Korm. rendelet módosításáról
+A Kormány a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés g) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az utazásszervező és -közvetítő tevékenységről szóló 213/1996. (XII. 23.) Korm. rendelet (a továbbiakban:
+Korm. Rend.) 1. §-a helyébe a következő rendelkezés lép:
+„1. § (1) E rendelet hatálya a Magyarország területén utazásszervezői vagy utazásközvetítői tevékenységet
+folytatókra, valamint az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedőkre (a továbbiakban együtt:
+utazási vállalkozó) terjed ki.
+(2) E rendelet alkalmazásában:
+a) utazási csomag: az utazási szolgáltatásra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási
+szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 2. § 6. pontjában
+meghatározott fogalom a 13. §-ban meghatározott kivétellel;
+b) utazási szolgáltatásegyüttes: az utazási szolgáltatásra vonatkozó szerződésekről, különösen az utazási csomagra
+és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 2. §
+10. pontjában meghatározott fogalom a 28. §-ban meghatározott kivétellel;
+c) utazó: a a kereskedelemről szóló 2005. évi CLXIV. törvényben (a továbbiakban: Kertv.), 2. § 37. pontjában
+meghatározott személy.”
+2. §
+A Korm. Rend. a következő 2/A. §-sal egészül ki:
+„2/A. § Utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenységet Magyarországon
+csak az folytathat, aki a Kertv., valamint az e rendeletben előírt feltételeknek megfelel, és e tevékenységét
+a Kormányhivatalnál bejelentette.”
+3. §
+A Korm. Rend. 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A vagyoni biztosíték mértéke a hitelintézettel kötött garanciaszerződés, a biztosítási szerződés megkötésének,
+illetőleg a pénzbeli letét elhelyezésének évében december 31-éig
+a) Magyarországon megkezdett Magyarország határának átlépésével nem járó és az utazásszervező által
+összeállított utazási csomag Magyarországon történt, utazó felé teljesülő értékesítéséből származó, a számvitelről
+szóló 2000. évi C. törvény szerint elszámolt értékesítési nettó árbevétel 3%-a, de legalább ötszázezer forint,
+b) az a) pont hatálya alá nem tartozó utazás vagy üdülés kapcsán az utazásszervező által összeállított utazási
+csomag Magyarországon történt, utazó felé teljesülő értékesítéséből származó, a számvitelről szóló 2000. évi
+C. törvény szerint elszámolt értékesítési nettó árbevétel
+ba) 12%-a, de legalább ötmillió Ft, amennyiben a vagyoni biztosíték által fedezett időszakban az összeállított
+utazási csomagnak nem képezi részét az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási
+csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet
+2. § 9. pont a) alpontjában szereplő utazási szolgáltatás,
+bb) 12%-a, de legalább hétmillió Ft, amennyiben a vagyoni biztosíték által fedezett időszakban az összeállított
+utazási csomagnak az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az
+utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 2. § 9. pont
+a) alpontjában szereplő utazási szolgáltatás is részét képezi és az közúti, vasúti illetve vízi személyszállítási eszközzel
+vagy menetrend szerinti repülőjárat vagy járatok útján teljesül, legalább,
+c) a belföldről külföldre, illetve külföldről külföldre irányuló utazás vagy üdülés kapcsán az utazásszervező által
+összeállított utazási csomag Magyarországon történt, utazó felé teljesülő értékesítéséből származó, a számvitelről
+szóló 2000. évi C. törvény szerint elszámolt értékesítési nettó árbevétel 20%-a, de legalábblegalább ötvenmillió Ft,
+amennyiben a vagyoni biztosíték által fedezett időszakban
+ca) az utazási csomag összeállításához nem menetrend szerinti járatú repülőgépen (charterjárat) férőhelyet vesz
+igénybe, függetlenül az út kiindulási állomásának helyétől,
+cb) a (11) bekezdés szerinti garantált szerződésből származó kötelezettségei az utazásszervezői tevékenységéből
+származó éves árbevétele 25%-át meghaladják.”
+4. §
+A Korm. Rend. 8. § (9) bekezdése helyébe a következő rendelkezés lép:
+„(9) A vagyoni biztosítéknak minden időszakban fedezetet kell nyújtania a 10. § (1) bekezdésében meghatározott
+költségekre, előlegekre, illetve díjakra. Ha az utazók által utazási csomagok, utazási szolgáltatásegyüttesek
+
+igénybevételére befizetett előlegek, részvételi díjak összege, amelyekre az utazási vállalkozó szolgáltatást még
+nem teljesített, legalább 10%-kal meghaladja az igazolt vagyoni biztosíték alapjául szolgáló árbevétel összegét,
+az utazási vállalkozó köteles hét napon belül a vagyoni biztosíték összegét az irányadó előlegek és részvételi
+díjak alapján megemelni és ennek megtörténtét a Kormányhivatalnak haladéktalanul igazolni. Ebben az esetben
+a vagyoni biztosíték összegének számítására a 8. § (3) bekezdésének rendelkezései az irányadóak azzal, hogy ahol
+a rendelkezés értékesítési nettó árbevételt említ, azon utazók által utazási csomagok, utazási szolgáltatásegyüttesek
+igénybevételére befizetett előlegek és részvételi díjak összegét kell érteni.”
+5. §
+A Korm. Rend. 8. §-a a következő (12) bekezdéssel egészül ki:
+„(12) Az utazási vállalkozónak olyan, a 8. § (3) és (9) bekezdések szerinti kötelezettségekhez kapcsolódó
+nyilvántartással kell rendelkeznie, amely a 8. § (3) bekezdés szerinti jogcímenként tartalmazza az utazási
+csomagok, utazási szolgáltatásegyüttesek értékesítése kapcsán utazók által befizetett előlegek, részvételi díjak
+azon aktuális összegét, melyekre az utazási vállalkozó szolgáltatást még nem teljesített, az utazási csomagok,
+utazási szolgáltatásegyüttesek értékesítéséből származó, elszámolt nettó árbevételt és a teljesítési időpontokat.
+Az utazási vállalkozó köteles e nyilvántartásban szereplő adatokat öt évig megőrizni és hatósági ellenőrzés céljából
+a Kormányhivatal számára könnyen hozzáférhetővé tenni.”
+6. §
+A Korm. Rend. a következő 9/A. §-sal egészül ki:
+„9/A. § (1) Ha az utazási csomagnak, illetve az utazási szolgáltatásegyüttesnek az utazók szállítása is részét
+képezi, akkor az utazásszervező, illetve az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő
+köteles az utazási csomagra vonatkozó szerződés, illetve az utazási szolgáltatásegyüttesre vonatkozó
+szerződés megkötésével egyidejűleg a Kertv. 6/F. § (7) bekezdésében foglalt kötelező biztosítást az utazó mint
+kedvezményezett részére megkötni.
+(2) A kedvezményezett részére kötött biztosításnak fedezetet kell nyújtania az utazáskor szükséghelyzetbe került
+utazók érdekében teendő intézkedések, hazaszállítás, és a kényszerű kint tartózkodás költségeinek fedezésére.
+(3) Az (1) bekezdésében meghatározott biztosítás fedezetének a kárenyhítést végző biztosító általi igénybevételéről
+a biztosító a Kormányhivatalt két munkanapon belül írásban tájékoztatni köteles.
+(4) Az (1) bekezdésében meghatározott biztosításra vonatkozó szerződés akkor felel meg e rendelet
+rendelkezéseinek, ha rendelkezik arról, hogy abban az esetben, ha az utazási vállalkozó nem gondoskodik
+a kedvezményezett hazautaztatásáról, a kényszerű kint tartózkodás költségeiről, az ezekre vonatkozó szükséges
+intézkedéseket a vállalkozó helyett a biztosító megteszi. Ezen intézkedések megtétele érdekében az utazási
+vállalkozó köteles írásban vagy elektronikus úton a biztosító rendelkezésére bocsátani az intézkedéshez szükséges
+valamennyi adatot, különösen az érintett utazók azonosító adatait, az utazásukra, szálláshelyükre, elérhetőségükre
+vonatkozó adatokat. A kárenyhítés módjáról a biztosító dönt.
+(5) A biztosító az e §-ban foglalt szerződések esetében köteles a 8. § (3) bekezdésében foglalt vagyoni biztosíték
+legalább 10%-ának, amennyiben a személyszállítás nem menetrendszerinti repülőjárattal történik, akkor legalább
+20%-ának megfelelő összegben helytállni évente.
+(6) Amennyiben az utazási vállalkozó a 10. § (3) bekezdés c) pontja szerint neki felróható okból nem bocsátja
+a biztosító rendelkezésére a kárenyhítéshez szükséges valamennyi adatot, a Kormányhivatal – a bírság
+alkalmazásának lehetőségére való figyelmeztetés mellett – 5 napos határidő megállapításával végzésben kötelezi
+az utazási vállalkozót a jogszabályban előírt adatszolgáltatás maradéktalan teljesítésére. A Kormányhivatal
+az érintett biztosítót valamennyi ilyen intézkedéséről, a külpolitikáért felelős minisztert pedig az utazók
+hazautaztatásával, kényszerű kinttartózkodásával kapcsolatos intézkedésekről tájékoztatja.
+(7) Az utazó az utazási vállalkozó kötelezettségeinek elmulasztásából eredő igényeit közvetlenül a biztosítóval
+szemben érvényesítheti. A biztosítási szerződésből eredő kifogásokat a biztosító az utazóval szemben nem
+érvényesítheti. Ha a biztosító az utazó számára teljesített, az utazónak az utazási vállalkozóval szemben fennálló
+jogai a teljesítés erejéig átszállnak a biztosítóra.”
+7. §
+A Korm. Rend. 10. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+[A vagyoni biztosítékra vonatkozó szerződés akkor felel meg e rendelet rendelkezéseinek, ha]
+„c) rendelkezik arról, hogy abban az esetben, ha az előlegeket, illetve részvételi díjakat nem fizeti vissza, az ezekre
+vonatkozó szükséges intézkedéseket a vállalkozó helyett a biztosító, illetve a hitelintézet megteszi. Ezen
+intézkedések megtétele érdekében az utazási vállalkozó köteles írásban vagy elektronikus hozzáférés biztosításával
+a biztosító, illetve a hitelintézet rendelkezésére bocsátani a kárenyhítéshez szükséges valamennyi adatot, különösen
+
+az érintett utazók azonosító adatait, az utazásukra, a szálláshelyükre, elérhetőségükre vonatkozó adatokat, az általuk
+befizetett előlegeket és részvételi díjakat. A kárenyhítés módjáról a hitelintézet vagy a biztosító dönt.”
+8. §
+A Korm. Rend. 10. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Ha az utazási vállalkozó nem tesz eleget az előleg, illetve részvételi díj visszafizetésére vonatkozó
+kötelezettségének, a Kormányhivatal a 11. § (1) és (3) bekezdés szerinti jogkövetkezmények alkalmazása mellett
+a 10. § (2) bekezdése szerint intézkedik a hitelintézet, illetve a biztosító felé a vagyoni biztosíték igénybevétele
+felől. Amennyiben az utazási vállalkozó a 10. § (3) bekezdés c) pontja szerint neki felróható okból nem bocsátja
+a biztosító, illetve a hitelintézet rendelkezésére a kárenyhítéshez szükséges valamennyi adatot, a Kormányhivatal
+– a bírság alkalmazásának lehetőségére való figyelmeztetés mellett – 5 napos határidő megállapításával végzésben
+kötelezi az utazási vállalkozót a jogszabályban előírt adatszolgáltatás maradéktalan teljesítésére. A Kormányhivatal
+az érintett biztosítót, illetve hitelintézetet valamennyi ilyen intézkedéséről, tájékoztatja.”
+9. §
+A Korm. Rend. a következő 10/A. §-sal egészül ki:
+„10/A. § Az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő vagyoni biztosítékának mértéke
+a hitelintézettel kötött garanciaszerződés, a biztosítási szerződés vagy pénzbeli letét formájában az utazási
+szolgáltatásegyüttes értékesítéséből származó éves nettó értékesítési árbevétel 10%-ának, de legalább ötmillió
+forintnak megfelelő összeg.”
+10. §
+A Korm. Rend. 11. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[A Kormányhivatal törli a nyilvántartásból azt az utazási vállalkozót, aki]
+„b) a vagyoni biztosíték tartására vonatkozó kötelezettségét nem megfelelően teljesíti, kivéve, ha
+a kötelezettségszegés kizárólag a 8. § (9) bekezdésében meghatározott időszakot megelőző évre vonatkozik, és
+az ezt követő időszakban nem kevesebb a szolgáltatott vagyoni biztosíték összege, mint amennyit a jogszabály
+előír,”
+11. §
+A Korm. Rend. 11. § (1) bekezdése a következő j) ponttal egészül ki:
+[A Kormányhivatal törli a nyilvántartásból azt az utazási vállalkozót, aki]
+„j) a 8. § (6), (8), (9), (12) és (13) bekezdése szerinti igazolási, jelentéstételi és nyilvántartás vezetési kötelezettségének
+a Kormányhivatal felhívására sem tesz eleget, illetve a 8. § (12) és (13) bekezdése szerinti nyilvántartást nem, vagy
+nem megfelelően vezeti.”
+12. §
+A Korm. Rend. 11. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) Ha Kormányhivatal az utazási vállalkozót a nyilvántartásból törölte, a tevékenység folytatásának újabb
+bejelentéséig az utazási vállalkozó utazásokat nem szervezhet és nem bonyolíthat le, köteles azonban az úton
+lévő utazóit hazautaztatni, az elmaradt utazásokra befizetett előlegeket és részvételi díjakat a külön jogszabályban
+foglaltak szerint teljes összegben visszafizetni.”
+13. §
+A Korm. Rend. 11/A. §-a a következő (4) és (5) bekezdéssel egészül ki:
+„(4) Ha az utazási vállalkozó a 8. § (6), (8) és (9) bekezdése, valamint 8/A. §-a szerinti igazolási, jelentéstételi
+kötelezettségét utólag, de legkésőbb a határidőt követő 8 napon belül teljesíti, a Kormányhivatal végzésben
+figyelmezteti az utazási vállalkozót a jogkövető magatartás tanúsítására. Ha az utazási vállalkozó az ezt követő két
+éven belül ismételten elköveti a jogsértést, a Kormányhivatal a (3) bekezdés szerint megállapított bírságot szab ki.
+(5) Ha az utazási vállalkozó a 8. § (6), (8), (9) bekezdés, valamint 8/A. § szerinti igazolási, jelentéstételi kötelezettségét
+a határidőt követő 8 napon belül nem, vagy nem megfelelően teljesíti, a Kormányhivatal az utazási vállalkozót
+a kötelezettségének 8 napon belüli teljesítésére hívja fel és egyidejűleg a (4) bekezdés szerint megállapított bírságot
+szab ki. Amennyiben az utazási vállalkozó a kötelezettségének felhívásra sem tesz eleget, a Kormányhivatal a 11. §
+(1) bekezdés j) pontját alkalmazza.”
+14. §
+A Korm. Rend. 12. §-a a következő (3)–(5) bekezdéssel egészül ki:
+„(3) A fizetésképtelenséggel szembeni védelem terén zajló igazgatási együttműködés, valamint a különböző
+tagállamokban működő utazásszervezők és adott esetben utazásközvetítők felügyeletének megkönnyítése
+érdekében központi kapcsolattartó pont feladatait a Kormányhivatal látja el.
+
+(4) A Kormányhivatalnak rendelkezésére kell bocsátania az összes szükséges információt a fizetésképtelenséggel
+szemben nyújtott védelemre vonatkozó nemzeti követelmények vonatkozásában, valamint a Magyarországon
+letelepedett utazásszervezők számára a fizetésképtelenséggel szembeni védelem nyújtásáért felelős biztosítókat
+vagy hitelintézeteket illetően. A Kormányhivatal hozzáférést biztosít a többi tagállam illetékes hatóságai számára
+valamennyi olyan rendelkezésre álló jegyzékhez, amely azokat az utazásszervezőket tartalmazza, akik eleget tesznek
+a fizetésképtelenséggel szembeni védelemre vonatkozó kötelezettségeiknek. Ezen jegyzékeket nyilvánosan – így
+az interneten is – elérhetővé kell tenni.
+(5) A Kormányhivatal egy tagállamtól beérkező, valamely utazásszervezői tevékenységet végző
+fizetésképtelenségével szemben nyújtott védelemre vonatkozó megkeresést – a kérdés sürgősségének és
+összetettségének figyelembevételével – a lehető leghamarabb, de legkésőbb a kérelem kézhezvételétől számított
+tizenöt munkanapon belül megválaszolja.”
+15. §
+A Korm. Rend. a következő 13/A. §-sal egészül ki:
+„13/A. § Amennyiben a Ker.tv. 2. § 26. pontjában meghatározott utazó utazásközvetítői tevékenységet végzőnél
+vagy végzővel köt utazási szerződést, úgy az utazásközvetítői tevékenységet végző négy munkanapon belül köteles
+az utazási szolgáltatás előlegét, vagy a teljes díj további részletét vagy a teljes díjat az utazásszervezői tevékenységet
+végző részére megfizetni.”
+16. §
+A Korm. Rend. 15. §-a a következő (6) bekezdéssel egészül ki:
+„(6) E rendelet 1. §, 2. §, 8. §, 9. §, 10. §, 11. §, 12. §, 15. § rendelkezései az utazási csomagokról és az utazási
+szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv
+módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló irányelvnek való megfelelést
+szolgálja.”
+17. §
+A Korm. Rend. a következő 16. §-sal egészül ki:
+„16. § A 9/A. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai
+parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.”
+18. §
+A Korm. Rend.
+a) 10. § (6) bekezdésében az „utas” szövegrész helyébe az „utazó” szöveg, az „utassal” szövegrész helyébe
+az„utazóval”szöveg, az„utasnak”szövegrész helyébe az„utazónak”szöveg,
+b) 11. § (1) bekezdés c) pontjában az„utast”szövegrész helyébe az„utazót”szöveg,
+c) 11. § (1) bekezdés d) pontjában az„utast”szövegrész helyébe az„utazó”szöveg,
+d) 11. § (1) bekezdés e) pontjában az„utasok”szövegrészek helyébe az„utazók”szöveg
+lép.
+19. §
+Hatályát veszti a Korm. Rend.
+a) 10. § (1) bekezdés a) pontja,
+b) 12. § (2) bekezdése,
+c) 15. § (2) bekezdése.
+20. §
+Ez a rendelet 2018. július 1-jén lép hatályba.
+21. §
+E rendelet az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet
+és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv
+hatályon kívül helyezéséről szóló 2015. november 25-i 2015/2302/EU európai parlamenti és tanácsi irányelvnek való
+megfelelést szolgálja.
+22. §
+A 6. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és
+tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+ Orbán Viktor s. k.,
+ miniszterelnök

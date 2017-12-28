@@ -1,0 +1,131 @@
+# A Kormány 476/2017. (XII. 28.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 230. szám, 2017. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c341014a6af54d65e90ee7d9eeef9a0bd58d3e16/dokumentumok/8e5fc582e191611169358dc1594a4d34cac20dcb/letoltes)
+
+---
+
+A Kormány 476/2017. (XII. 28.) Korm. rendelete
+egyes építési beruházások országkép- és településképvédelmi szempontú véleményezésének megvalósítása
+érdekében szükséges kormányrendelet-módosításokról
+A Kormány
+a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában,
+az 1. alcím tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 11. pontjában kapott
+felhatalmazás alapján,
+a 3. alcím tekintetében Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
+módosítása
+1. §
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet a következő 50/A. §-sal
+egészül ki:
+„50/A. § Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat
+vagy a központi kezelésű előirányzat kezelő szerve által az egységes rovatrend K6. Beruházások vagy K7. Felújítások
+rovatai terhére építési beruházás megvalósítását célzó visszterhes szerződés az építési beruházás koncepció- és
+vázlatterveinek kormányrendeletben meghatározottak szerinti, országkép- és településképvédelmi szempontú
+előzetes véleményezés során kiadott előzetes településképi hozzájárulás birtokában köthető.”
+2. A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és
+a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló
+314/2012. (XI. 8.) Korm. rendelet módosítása
+2. §
+A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési
+eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet
+(a továbbiakban: Korm. rendelet) a következő 17/E. alcímmel egészül ki:
+„17/E. Az építésügyért, a településfejlesztésért és településrendezésért felelős miniszter előzetes
+véleményezési jogköre
+23/I. § (1) A Kormány a központi költségvetési szervek által tervezett, valamint a 23/L. § szerinti építési beruházások
+vázlatterveinek, építészeti-műszaki, illetve kivitelezési dokumentációnak országkép- és településképvédelmi
+szempontú előzetes véleményezésére (a továbbiakban: előzetes településképi vélemény kialakítása)
+a településfejlesztésért és településrendezésért felelős minisztert (a továbbiakban: miniszter) jelöli ki.
+(2) A miniszter jelen alcím szerinti előzetes véleményezési jogköre nem terjed ki
+a) a helyi önkormányzat építési beruházására,
+b) a kiemelt nemzeti emlékhelyen megvalósított építési beruházásra.
+(3) Jelen alcímben foglalt rendelkezéseket a Beruházás Előkészítési Alapból előkészített beruházásokra vonatkozóan
+a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.)
+Korm. rendeletben foglalt eltérésekkel kell alkalmazni.
+(4) A miniszter előzetes településképi véleményének kialakításakor arról nyilvánít előzetesen véleményt, hogy
+a tervezett építési beruházás biztosítja-e az ország és a beruházással érintett település képének – a településkép
+védelméről szóló 2016. évi LXXIV. törvény 2. § (1) bekezdése szerinti – védelmét.
+(5) A miniszter előzetes településképi vélemény kialakítása során adott hozzájárulása (a továbbiakban: előzetes
+településképi hozzájárulás) hiányában a központi költségvetési szerv az építési beruházást
+a) saját költségvetési előirányzata vagy
+b) központi költségvetésből származó egyéb támogatás
+terhére nem folytathatja.
+(6) A miniszter előzetes településképi véleményének kialakítása érdekében a jelen alcím hatálya alá tartozó
+beruházó (a továbbiakban: beruházó) elektronikus úton megküldi a véleményezendő vázlattervet .pdf/A
+formátumban a Lechner Tudásközpont által üzemeltetett digitális egyeztetési felületre.
+
+(7) A beruházó a vázlatterv megküldésekor közli
+a) az elnevezését,
+b) a székhelyét,
+c) a kapcsolattartója nevét és elérhetőségeit,
+d) a tervezett építési beruházás által érintett ingatlan vagy ingatlanok címét,
+e) a tervezett építési beruházás által érintett ingatlan vagy ingatlanok helyrajzi számát.
+(8) A miniszter a (7) bekezdés szerinti hiánytalan feltöltést követő munkanaptól számított tizenöt napon belül küldi
+meg előzetes településképi véleményét a beruházó részére.
+(9) Ha a miniszter a (8) bekezdésben foglalt határidőn belül nem nyilvánít véleményt, az előzetes településképi
+hozzájárulást megadottnak kell tekinteni.
+(10) Ha a beruházó az építési beruházásban tervezett építmény külső megjelenését – tömegformálását,
+anyaghasználatát, homlokzati kialakítását – a vázlatterv (6) bekezdés szerinti megküldését követően módosítani
+kívánja, a miniszter előzetes településképi véleményének kialakítása érdekében a módosított vázlattervet vagy
+a módosítást bemutató építészeti-műszaki, vagy kivitelezési dokumentációt a (6)–(7) bekezdések alkalmazásával
+megküldi. A beruházás a miniszter előzetes településképi hozzájárulása birtokában folytatható tovább.
+(11) Jelen alcím alkalmazásában a vázlatterv legalább az alábbi munkarészeket tartalmazza:
+a) rövid építészeti műszaki leírás,
+b) helyszínrajz a telepítés, a településképbe és környezetbe illeszkedés, a beépítés bemutatásával, a szomszédos
+építmények és jellemző terepviszonyok feltüntetésével,
+c) az esztétikus megjelenést – tömegalakítást, színezést, anyaghasználatot, a rálátást – bemutató, továbbá
+a környezetbe illeszkedést és a településkép-védelmet alátámasztó valamennyi homlokzat, látványterv vagy
+fotómontázs.
+23/J. § Nem központi költségvetési forrásból finanszírozott építési beruházás nemzetgazdasági szempontból
+kiemeltté nyilvánítása – a 23/I. § (2) bekezdésében foglalt kivétellel – csak a miniszter előzetes településképi
+hozzájárulása birtokában kezdeményezhető.
+23/K. § A tervpályázati eljárásokról szóló 310/2015. (X. 28.) Korm. rendelet szerinti tervpályázati eljárás esetén
+a miniszter a bíráló bizottság által részére megküldött pályaművek előzetes településképi véleményezése útján
+gyakorolja a jelen alcímben meghatározott jogkörét.
+23/L. § Jelen alcím alkalmazásában építési beruházás az új építmény építése, valamint a meglévő építmény külső
+megjelenését – tömegformálását, anyaghasználatát, homlokzati kialakítását – érintő építési tevékenység.”
+3. §
+A Korm. rendelet a következő 46/D. §-sal egészül ki:
+„46/D. § (1) E rendeletnek az egyes építési beruházások országkép- és településképvédelmi szempontú
+véleményezésének megvalósítása érdekében szükséges kormányrendelet-módosításokról szóló 476/2017. (XII. 28.)
+Korm. rendelettel (a továbbiakban: Mód.Kr. 4.) megállapított 17/E. alcímét a Mód.Kr. 4. hatálybalépésekor
+folyamatban lévő, 17/E. alcím szerinti építési beruházások esetében is alkalmazni kell.
+(2) Nem kell alkalmazni az (1) bekezdés rendelkezéseit azon építési beruházás esetében, amelyre nézve
+a Mód.Kr. 4. hatálybalépésekor
+a) már sor került a kivitelezési dokumentáció elkészítésére vagy
+b) már megindult a tervpályázati eljárás.
+(3) Az (1) bekezdés szerinti építési beruházások esetében a rendelkezésre álló építészeti-műszaki dokumentációt,
+annak hiányában a 23/I. § szerinti vázlattervet kell előzetes településképi vélemény kialakítása céljából megküldeni.”
+3. A tervpályázati eljárásokról szóló 310/2015. (X. 28.) Korm. rendelet módosítása
+4. §
+A tervpályázati eljárásokról szóló 310/2015. (X. 28.) Korm. rendelet 25. §-a a következő (3a)–(3d) bekezdéssel egészül
+ki:
+„(3a) A díjazásra vagy megvételre alkalmasnak nyilvánított pályaművet a bíráló bizottság a zárójelentés
+elkészítését megelőzően – a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról
+és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló
+314/2012. (XI. 8.) Korm. rendeletben (a továbbiakban: Korm. rendelet) meghatározott előzetes településképi
+vélemény kialakítása céljából – a településfejlesztésért és településrendezésért felelős miniszter (a továbbiakban:
+miniszter) rendelkezésére bocsátja a Korm. rendelet 23/I. § (6) bekezdésében meghatározott módon.
+
+(3b) A miniszter előzetes településképi hozzájárulása hiányában a pályaművet a bíráló bizottság a zárójelentésben
+nem ajánlhatja díjazásra, a pályamű megvételre való alkalmasságát nem mondhatja ki.
+(3c) Ha a miniszter a részére megküldött pályaművek egyikének vonatkozásában sem adja meg az előzetes
+településképi hozzájárulását, akkor a tervpályázatot a bíráló bizottság eredménytelennek minősíti.
+(3d) A (3a)–(3c) bekezdés rendelkezéseit a művészeti tervpályázati eljárás során nem kell alkalmazni.”
+4. A Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló
+222/2017. (VIII. 11.) Korm. rendelet módosítása
+5. §
+A Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.)
+Korm. rendelet a következő 6/A. §-sal egészül ki:
+„6/A. § Az 1. § (2) bekezdés k)–o) pontja szerinti előkészítési fázisokhoz biztosított fedezet terhére történő
+pénzügyi teljesítés feltétele a településfejlesztésért és településrendezésért felelős miniszter – a településfejlesztési
+koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes
+településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet szerinti – országkép- és
+településképvédelmi szempontú előzetes véleményezés során kiadott előzetes településképi hozzájárulásának
+kormányzati felelős szerv általi előzetes beszerzése.”
+5. Záró rendelkezések
+6. §
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
