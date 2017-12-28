@@ -1,22 +1,6 @@
 3. § (1) Az MFB Zrt. kizárólag a 2. §-ban felsorolt feladataihoz közvetlenül kapcsolódó üzletszerű tevékenységet végezhet.
 
-(1a) Az MFB Zrt. a 2. § n) pontjában meghatározott gazdasági társaságok részére – a 2. § m) pontban meghatározott célból – az alábbi szolgáltatásokat kizárólagos joggal, üzletszerűen nyújtja:
-
-a) pénzügyi és számviteli szolgáltatások, könyvelési szolgáltatások, adótanácsadás,
-
-b) kontrolling szolgáltatások, üzleti tervezés,
-
-c) csoportszintű számlaösszevezetési szolgáltatás, egyéb forrásbevonási és likviditáskezelési szolgáltatás,
-
-d) infrastruktúra- és ügyviteli alkalmazások üzemeltetése, támogatása, informatikai szakértői szolgáltatások, hardver-szaktanácsadás, szoftver-szaktanácsadás, egyéb informatikai szaktanácsadás,
-
-e) humánerőforrás-gazdálkodáshoz, -fejlesztéshez kapcsolódó szolgáltatások körében toborzás-kiválasztás, képzés-fejlesztés, teljesítményértékelés, személyügyi tevékenységek, humánpolitikai tanácsadás, egyéb humánpolitikai szolgáltatások,
-
-f) a társaság felépítésére és irányítására vonatkozó általános üzletviteli tanácsadás,
-
-g) beszerzések, közbeszerzések tervezése, kezelése és lebonyolítása, beszerzésekhez és közbeszerzésekhez kapcsolódó egyéb szakértői szolgáltatások,
-
-h) ingatlanüzemeltetés, létesítménygazdálkodási és -ellátási szolgáltatások, értékbecslés, gépjárműflotta-kezelés, csoportos telefon-előfizetés kezelése, iratkezelés.
+(1a)
 
 (2) Az MFB Zrt. – az (1) bekezdésben meghatározott körben – az alábbi pénzügyi szolgáltatási tevékenységeket végezheti:
 
@@ -40,7 +24,9 @@ g) letéti szolgáltatás, széfszolgáltatás;
 
 h) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
 
-i) pénzügyi szolgáltatás közvetítése.
+i) pénzügyi szolgáltatás közvetítése,
+
+j) követelésvásárlási tevékenység, ha az a 2. §-ban meghatározott feladatokhoz közvetlenül kapcsolódó jogviszony megvalósítását szolgálja.
 
 (2a) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a 2. § o) pontjában szereplő feladatához kapcsolódóan iratok – kockázatvállalásból eredő kitettséget nem eredményező – formai vizsgálatát végezheti.
 
@@ -84,6 +70,6 @@ h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgálta
 
 (13) Az MFB Zrt. a rábízott vagyon értékének megőrzéséről köteles gondoskodni.
 
-(14) A 2. § m) pontja szerint irányított, koordinált és ellenőrzött szervezet, a szervezet vezetője, alkalmazottja adatszolgáltatásra és együttműködésre köteles.
+(14) Az MFB Zrt. jogosult ellenőrizni az 1. mellékletben meghatározott, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek gazdálkodását, működését. Az ellenőrzött szervezet, a szervezet vezetője, alkalmazottja adatszolgáltatásra és együttműködésre köteles.
 
 (15)

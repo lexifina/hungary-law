@@ -4,6 +4,6 @@
 
 (3) Vezető állású személy, illetve ügyvezető megválasztását, illetve kinevezését az MFB Zrt. a kinevezéstől számított 2 munkanapon belül köteles az MNB-nek bejelenteni. A bejelentésre a Hpt. 155. § (2) bekezdését kell megfelelően alkalmazni.
 
-(4) Amennyiben az MNB úgy ítéli meg, hogy a megválasztott, illetve kinevezett személy nem felel meg e törvényben, valamint a Hpt. 137. §-ában és 155. §-ában meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a kormányzati tevékenység összehangolásáért felelős miniszternél a megválasztott személy visszahívását, illetve a kinevezett személy felmentését.
+(4) Amennyiben az MNB úgy ítéli meg, hogy a megválasztott, illetve kinevezett személy nem felel meg e törvényben, valamint a Hpt. 137. §-ában és 155. §-ában meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a miniszternél a megválasztott személy visszahívását, illetve a kinevezett személy felmentését.
 
 (5) A jelen § rendelkezéseit az 1. mellékletben szereplő és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi intézményekre, valamint az 1. mellékletben meghatározott és az MFB Zrt. közvetett tulajdoni részesedésével működő gazdálkodó szervezetek részesedésével működő pénzügyi intézményekre is megfelelően alkalmazni kell.

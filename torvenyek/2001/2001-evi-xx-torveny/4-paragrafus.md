@@ -10,11 +10,13 @@ c) befektetett eszközt terhelő általános forgalmi adó,
 
 d) forgóeszközigény,
 
-e) fejlesztési vagy forgóeszköz hitel, illetőleg kölcsön kiváltásának,
+e) fejlesztési célú, illetve az a)–d) pont szerinti célú hitel, illetve kölcsön kiváltásának,
 
 f) pénzügyi intézmény pénzügyi szolgáltatási tevékenységének és
 
 g) a tulajdonában álló, illetőleg a rábízott vagyon körébe tartozó gazdasági társaságok
+
+h) e bekezdés szerinti célra irányuló tagi kölcsön nyújtásának
 
 finanszírozására nyújthat hitelt, illetve kölcsönt.
 
@@ -40,6 +42,8 @@ a) Magyarországon létrehozott, magyarországi székhelyű befektetési alapkez
 
 b) Magyarországon létrehozott, magyarországi székhelyű kockázati tőkealap-kezelő által kezelt kockázati tőkealap által kibocsátott kockázati tőkealap-jegyet
 
-kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan, közvetlenül vagy közvetetten szerezhet, ha a befektetés megtérülése az alapkezelő által a tőke megóvására, illetve a hozamra vonatkozóan vállalt garancia (tőke-, illetve hozamgarancia) vagy az alapkezelő által a tőke megóvására, illetve a hozamra vonatkozóan tett ígéret (tőke-, illetve hozamvédelem) alapján kellően biztosított.
+kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan, közvetlenül vagy közvetetten szerezhet, ha a befektetés minél magasabb mértékű megtérülése biztosított.
 
-(6) Az MFB Zrt. kizárólag olyan személy, illetve szervezet részére nyújthat hitelt, illetve kölcsönt, valamint csak olyan személy, illetve szervezet érdekében vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1) pontja szerint átlátható szervezetnek minősül, kivéve a mezőgazdasági őstermelőket és családi gazdálkodókat.
+(5a) Az MFB Zrt.-nek – az Európai Unió vagy annak intézményei, illetve ezek részesedésével működő szervezetek által kezdeményezett vagy támogatott, és a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló, 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelv 2. cikk (5) bekezdése szerinti kivételi listán szereplés feltételeire tekintettel – a számára nem tilalmazott pénzügyi együttműködésben történő részvétele esetén a 3. § (1) és (4) bekezdését, 4. § (5) bekezdését, 8. § (3) és (4) bekezdését, valamint a 9. § (1) bekezdését nem kell alkalmazni, illetve az MFB Zrt. e részvételével közvetlenül összefüggő, az együttműködés céljának megvalósulását szolgáló ügyletet köthet.
+
+(6) Az MFB Zrt. kizárólag olyan személy, illetve szervezet részére nyújthat hitelt, illetve kölcsönt, valamint csak olyan személy, illetve szervezet érdekében vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1) pontja szerint átlátható szervezetnek minősül, kivéve a természetes személyeket (ideértve a mezőgazdasági őstermelőket és családi gazdálkodókat is) és a társasházakat.

@@ -4,4 +4,4 @@
 
 ## Az MFB Zrt. szervei
 
-12. § Az MFB Zrt. irányító, döntéshozó és ellenőrző szervei a kormányzati tevékenység összehangolásáért felelős miniszter, az igazgatóság és a felügyelő bizottság.
+12. § Az MFB Zrt. irányító, döntéshozó és ellenőrző szervei a miniszter, az igazgatóság és a felügyelő bizottság.

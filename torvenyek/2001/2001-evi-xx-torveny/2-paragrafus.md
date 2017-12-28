@@ -34,12 +34,14 @@ j) jogszabályban meghatározottak szerint kötelező intézményvédelmi szerve
 
 k) az MFB Zrt., valamint az állam közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek hitel- és tőkefinanszírozásában, valamint az érdekükben történő garancia nyújtásában és fizetési kötelezettségeikért kezesség vállalásában;
 
-l) az állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében, különös tekintettel az agrárpiac fejlesztésének, a mezőgazdaság fenntartható fejlődésének, az agrár-innováció elősegítésének, az agrárfoglalkoztatás növelésének, a gazdálkodók integrációs együttműködésének biztosítására;
-
-m) a közérdekű feladatok, valamint az érintett gazdasági társaságok tevékenységének magas színvonalú, átlátható és költséghatékony ellátása érdekében a közvetlen vagy közvetett tulajdonában álló gazdasági társaságok, továbbá az 1. mellékletben meghatározott gazdasági társaságok, valamint ezen társaságok közvetlen vagy közvetett tulajdonában álló gazdasági társaságok működésének és gazdálkodásának irányításában, koordinálásában és ellenőrzésében;
+l) az állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében,;
 
 m)
 
-n) az m) pontban meghatározott gazdasági társaságok közül a kormányzati tevékenység összehangolásáért felelős miniszter rendelete által kijelölt gazdasági társaságok részére, az m) pont szerinti feladat hatékonyabb végzése céljából, kizárólagos joggal történő szolgáltatásnyújtásban;
+m)
 
-o) szerződés alapján a 2014. évi XXIV. törvénnyel kihirdetett az Oroszországi Föderáció Kormánya és Magyarország Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló megállapodás 1. cikk 2. pontja és 2. cikk 2. pontja végrehajtásának elősegítése érdekében iratvizsgálati feladatok ellátásában.
+n)
+
+o) szerződés alapján a 2014. évi XXIV. törvénnyel kihirdetett az Oroszországi Föderáció Kormánya és Magyarország Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló megállapodás 1. cikk 2. pontja és 2. cikk 2. pontja végrehajtásának elősegítése érdekében iratvizsgálati feladatok ellátásában,
+
+p) kormányrendeletben meghatározott kiemelt nemzeti emlékhely és településkép-védelmi környezet megóvását, kialakítását, az épített és a természeti környezet egységes védelmét szolgáló – ingatlanok fenntartásához, helyreállításához, felújításához vagy átalakításához kapcsolódó – beruházások finanszírozásához szükséges hitel, illetve kölcsön formájában történő biztosításában.

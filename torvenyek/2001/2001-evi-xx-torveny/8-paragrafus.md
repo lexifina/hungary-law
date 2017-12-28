@@ -30,7 +30,7 @@ g) a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési 
 
 h) az 1. mellékletben meghatározott, valamint a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi CXXVIII. törvény hatálybalépésekor közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetben, valamint
 
-i) az MFB Zrt. feletti tulajdonosi jogokat gyakorló kormányzati tevékenység összehangolásáért felelős miniszter döntésében meghatározott egyéb olyan gazdálkodó szervezetben, amelynek működése az MFB Zrt. 3. § szerinti alaptevékenységéhez kapcsolódik,
+i) az MFB Zrt. feletti tulajdonosi jogokat gyakorló miniszter döntésében meghatározott egyéb olyan gazdálkodó szervezetben, amelynek működése az MFB Zrt. 3. § szerinti alaptevékenységéhez kapcsolódik,
 
 szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 

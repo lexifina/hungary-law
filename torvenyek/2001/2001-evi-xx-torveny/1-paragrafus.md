@@ -10,8 +10,8 @@
 
 (4) Az MFB Zrt. székhelye Budapest.
 
-(5) Az MFB Zrt.-re, az általa végzett pénzügyi szolgáltatási tevékenységre a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) jogi személyekre vonatkozó rendelkezéseit, illetve a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) rendelkezéseit az e törvényben foglalt eltéréssel kell alkalmazni.
+(5) Az MFB Zrt.-re a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) jogi személyekre vonatkozó rendelkezéseit az e törvényben foglalt eltéréssel kell alkalmazni.
 
 (6) Az MFB Zrt. nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
-(7) Az MFB Zrt. a prudenciális követelmények tekintetében a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) szerint jár el az e törvényben foglalt eltérésekkel.
+(7) Az MFB Zrt. által végzett pénzügyi szolgáltatási tevékenységre a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) rendelkezéseit, az MFB Zrt. tekintetében fennálló prudenciális követelményekre a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) rendelkezéseit az e törvényben foglalt eltéréssel kell alkalmazni.
