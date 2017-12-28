@@ -42,7 +42,9 @@ b) a szolgáltató vezetője, foglalkoztatottja, illetve segítő családtagja.
 
 a) a szolgáltatónak a személyi jövedelemadóról szóló törvény alapján a munkáltató által a munkavállalójának adómentesen vagy kedvezményes adózás mellett juttatható támogatáshoz kapcsolódó tevékenysége, ha a támogatásként kapott pénzösszeget kizárólag a személyi jövedelemadóról szóló törvényben meghatározott áruk vagy szolgáltatások korlátozott körére lehet felhasználni,
 
-b) a pénzügyi szolgáltatónak a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben (a továbbiakban: Hpt.) meghatározott hitelreferencia szolgáltatása, valamint fizetési rendszer működtetésével kapcsolatos tevékenysége.
+b) a pénzügyi szolgáltatónak a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben (a továbbiakban: Hpt.) meghatározott hitelreferencia szolgáltatása, valamint fizetési rendszer működtetésével kapcsolatos tevékenysége,
+
+c) az adók, bírságok, illetékek megfizetésére irányuló, fizetési számlára történő befizetés teljesítése.
 
 (5) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag a felügyeleti tevékenysége, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
 
