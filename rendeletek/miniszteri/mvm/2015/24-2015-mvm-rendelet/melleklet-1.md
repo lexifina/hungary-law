@@ -2,7 +2,7 @@
 
 1. melléklet a 24/2015. (IV. 28.) MvM rendelethez
 
-## Mezőgazdasági termeléssel összefüggő szakképesítések
+Mezőgazdasági termeléssel összefüggő szakképesítések
 
 1. Elfogadható szakképesítések az Országos Képzési Jegyzékről szóló 7/1993. (XII. 30.) MüM rendelet alapján
 

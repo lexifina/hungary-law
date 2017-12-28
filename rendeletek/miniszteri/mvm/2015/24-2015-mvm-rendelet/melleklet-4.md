@@ -1,5 +1,3 @@
-## Értékelés
-
 |  | A | B | C | D |
 
 | 1. | Értékelési szempont megnevezése | Értékelés/ellenőrzés módja | Pontszám |
@@ -90,7 +88,7 @@
 
 4. melléklet a 24/2015. (IV. 28.) MvM rendelethez
 
-## Közreműködő bevonására vonatkozó magánokirat adattartalma
+Közreműködő bevonására vonatkozó magánokirat adattartalma
 
 1. A családtámogatási ellátásban részesülő ügyfél személyes adatai (családi és utóneve, születési családi és utóneve, születési helye, születési ideje, anyja születési családi és utóneve)
 
