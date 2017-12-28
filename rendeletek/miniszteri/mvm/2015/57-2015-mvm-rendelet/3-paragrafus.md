@@ -16,18 +16,19 @@ c) nem kell alkalmazni az FMR. 1. § (3) bekezdését, valamint 4. és 5. §-át
 
 (6)[^7] A Kincstár az (5) bekezdés szerinti megkeresést a bejelentés hiánytalan benyújtását követő tíz napon belül – támogatási vagy kifizetési kérelem benyújtási időszakban történő bejelentés esetén a kérelembenyújtási időszakot követő tíz napon belül – köteles megtenni.
 
-(7) Ha a bejelentő a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk. törvény) szerinti agrárkár-enyhítési eljárásban kárbejelentést tesz, akkor kérésére a kárbejelentést vis maior bejelentésnek is kell tekinteni. Ebben az esetben az agrárkár-megállapító szerv kárbejelentésre vonatkozó döntésének hatálya az FMR. 3. § (1) bekezdés e) pontja szerinti eseményre vonatkozó ténymegállapítások tekintetében – az esemény bekövetkeztének e rendelet szerinti igazolása tárgyában hozott külön döntés nélkül – kiterjed a vis maior bejelentéssel érintett eljárásra is.
+(7)[^8] Ha a bejelentő az FMR. 3. § (1) bekezdés e) pontja szerinti eseménnyel érintett terület vonatkozásában vis maior bejelentést nyújt be és ugyanezen terület vonatkozásában korábban a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény szerinti kárbejelentést is tett, akkor a Kincstár az esemény bekövetkezésének igazolása során az általa működtetett mezőgazdasági kockázatkezelési adatbázis adatait is figyelembe veszi.
 
-(8)[^8] Ha a bejelentő az Mkk. törvény szerinti agrárkár-enyhítési eljárásban az agrárkár-megállapító szerv által igazolt kárbejelentést tett, és ezt követően ugyanezen területre e rendelet szerinti vis maior bejelentést is tesz, akkor a Kincstár jogosult mellőzni az (5) bekezdés szerinti szakmai véleményezést, és az esemény bekövetkeztének igazolásáról a mezőgazdasági kockázatkezelési adatbázis adatai alapján dönt.
+(8)[^9] A (7) bekezdés szerinti esetben a Kincstár jogosult mellőzni az (5) bekezdés szerinti szakmai véleményezést.
 
-(9)[^9] Az FMR. 3. § (1) bekezdés e) pontja szerinti esemény bekövetkeztének igazolása céljából a Kincstár az általa az agrárkár-enyhítési hatáskörében működtetett mezőgazdasági kockázatkezelési adatbázis adatait jogosult felhasználni.
+(9)[^10] Az FMR. 3. § (1) bekezdés e) pontja szerinti esemény bekövetkeztének igazolása céljából a Kincstár az általa az agrárkár-enyhítési hatáskörében működtetett mezőgazdasági kockázatkezelési adatbázis adatait jogosult felhasználni.
 
-(10)[^10] Amennyiben a vis maior elismeréséről hozott döntés a támogatási okirat módosítását igényli, a Kincstár haladéktalanul kezdeményezi azt az irányító hatóságnál.
+(10)[^11] Amennyiben a vis maior elismeréséről hozott döntés a támogatási okirat módosítását igényli, a Kincstár haladéktalanul kezdeményezi azt az irányító hatóságnál.
 
 [^4]: A 3. § (3) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^5]: A 3. § (4) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^6]: A 3. § (5) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (3) bekezdés b) és c) pontja szerint módosított szöveg.
 [^7]: A 3. § (6) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^8]: A 3. § (8) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^9]: A 3. § (9) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^10]: A 3. § (10) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 3. § (7) bekezdése a 36/2017. (XII. 27.) MvM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 3. § (8) bekezdése a 36/2017. (XII. 27.) MvM rendelet 1. §-ával megállapított szöveg.
+[^10]: A 3. § (9) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 3. § (10) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
