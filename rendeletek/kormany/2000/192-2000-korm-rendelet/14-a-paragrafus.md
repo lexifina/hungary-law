@@ -1,6 +1,6 @@
-## 14/A. §[^100] A kiegészítő mellékletben be kell mutatni továbbá:
+## 14/A. §[^112] A kiegészítő mellékletben be kell mutatni továbbá:
 
-a)[^101] Nem életbiztosítási ágnál
+a)[^113] Nem életbiztosítási ágnál
 
 1. elszámolt bruttó díjak
 
@@ -54,39 +54,39 @@ c) Minden esetben a direkt biztosítások elszámolt bruttó díjait
 
 – harmadik ország
 
-szerinti megbontásban be kell mutatni. Ezen információk elhagyhatók, ha azok aránya a teljes elszámolt bruttó díjak 5%-át[^102] nem haladja meg.
+szerinti megbontásban be kell mutatni. Ezen információk elhagyhatók, ha azok aránya a teljes elszámolt bruttó díjak 5%-át[^114] nem haladja meg.
 
 d) A kölcsönbe adott és a kölcsönbe vett értékpapírok állományát élet- és nem életbiztosítási ághoz, illetve saját tőkéhez kapcsolódó befektetéseket érintő bontásban, továbbá a nyugdíjpénztárak részére kezelt vagyont érintő – a mérlegben meg nem jelenő – kölcsönök részletezésben, könyv szerinti és piaci értéken, értékpapír fajtánként tovább részletezve be kell mutatni.
 
 e) A másodlagos értékpapírok állományát könyv szerinti értéken és piaci értéken értékpapír fajtánkénti részletezésben be kell mutatni.
 
-f)[^103]
+f)[^115]
 
-g)[^104] A Bit. 223. § (4) bekezdésében és 224. § (5) bekezdésében foglalt követelmények teljesülésével összefüggésben, minden származékos ügylet mérlegfordulónapi várható eredményének (a valós értéken értékelt származékos ügyletek értékelési különbözetének) összegét – mint piaci értéket –, külön kiemelve a bruttó biztosítástechnikai tartalékok és azon belül a matematikai tartalékok fedezetét képező eszközökkel kapcsolatos fedezeti ügyletek várható eredményének (értékelési különbözetének) összegét, továbbá a bruttó biztosítástechnikai tartalékok és azon belül a matematikai tartalékok fedezetét képező eszközök mérleg fordulónapi piaci értékét be kell mutatni.
+g)[^116] A Bit. 223. § (4) bekezdésében és 224. § (5) bekezdésében foglalt követelmények teljesülésével összefüggésben, minden származékos ügylet mérlegfordulónapi várható eredményének (a valós értéken értékelt származékos ügyletek értékelési különbözetének) összegét – mint piaci értéket –, külön kiemelve a bruttó biztosítástechnikai tartalékok és azon belül a matematikai tartalékok fedezetét képező eszközökkel kapcsolatos fedezeti ügyletek várható eredményének (értékelési különbözetének) összegét, továbbá a bruttó biztosítástechnikai tartalékok és azon belül a matematikai tartalékok fedezetét képező eszközök mérleg fordulónapi piaci értékét be kell mutatni.
 
-h)[^105] a külföldön létrehozott fióktelep miatt külföldön igénybe vett ügyfélvédelmi rendszerhez való csatlakozás tényét és a befizetett összeget;
+h)[^117] a külföldön létrehozott fióktelep miatt külföldön igénybe vett ügyfélvédelmi rendszerhez való csatlakozás tényét és a befizetett összeget;
 
-i)[^106] a határon átnyúló szolgáltatás végzésének tényét, a nyújtott szolgáltatások fajtáit országonkénti részletezésben, a nyújtott szolgáltatások kapcsán külföldi adóhatóságokhoz befizetett (fizetendő) adó együttes összegét;
+i)[^118] a határon átnyúló szolgáltatás végzésének tényét, a nyújtott szolgáltatások fajtáit országonkénti részletezésben, a nyújtott szolgáltatások kapcsán külföldi adóhatóságokhoz befizetett (fizetendő) adó együttes összegét;
 
-j)[^107] a Tv. 54. §-ának (8) bekezdése szerinti befektetési célú, lejáratig tartott, hitelkockázati szempontból kockázatmentesnek minősített értékpapírok állományát;
+j)[^119] a Tv. 54. §-ának (8) bekezdése szerinti befektetési célú, lejáratig tartott, hitelkockázati szempontból kockázatmentesnek minősített értékpapírok állományát;
 
-k)[^108] a mérleg C/6. Egyéb tartalékok pontjának c) alpontja szerinti egyéb biztosítástechnikai tartalékok nyitó és záró állományának, tárgyévi állományváltozásának részletezését várható veszteségre képzett tartalékra, valamint a hitel- és kezesi biztosítások külön tartalékára biztosítási ágankénti bontásban.
+k)[^120] a mérleg C/6. Egyéb tartalékok pontjának c) alpontja szerinti egyéb biztosítástechnikai tartalékok nyitó és záró állományának, tárgyévi állományváltozásának részletezését várható veszteségre képzett tartalékra, valamint a hitel- és kezesi biztosítások külön tartalékára biztosítási ágankénti bontásban.
 
-l)[^109] a biztosító az általa nyújtott biztosítási tevékenységnek nem minősülő szolgáltatások, végzett tevékenységek (nem biztosítási tevékenységek, így különösen: a jelzáloghitelezési tevékenység, oktatási tevékenység) kapcsán felmerülő ráfordításokat, illetve bevételeket tevékenységenkénti részletezésben, ha azok jelentősek.
+l)[^121] a biztosító az általa nyújtott biztosítási tevékenységnek nem minősülő szolgáltatások, végzett tevékenységek (nem biztosítási tevékenységek, így különösen: a jelzáloghitelezési tevékenység, oktatási tevékenység) kapcsán felmerülő ráfordításokat, illetve bevételeket tevékenységenkénti részletezésben, ha azok jelentősek.
 
-m)[^110] a nyugdíjpénztáraktól nyugdíjpénztári járadékszolgáltatás kifizetése céljára átvett összegek állományának tárgyévi nyitó és záró állományát, évközi növekedését és csökkenését jogcímenkénti részletezésben.
+m)[^122] a nyugdíjpénztáraktól nyugdíjpénztári járadékszolgáltatás kifizetése céljára átvett összegek állományának tárgyévi nyitó és záró állományát, évközi növekedését és csökkenését jogcímenkénti részletezésben.
 
-n)[^111] az eredménykimutatás C) Nem biztosítástechnikai elszámolások sorához tartozó 01–09. tételek bontását a nem-életbiztosítási ág befektetéseihez és a saját tőkéhez kapcsolódó befektetésekhez rendelt bevételekre, illetve ráfordításokra, továbbá a 10–11. tételek bontását a Tv. szerinti egyéb bevételekre, illetve egyéb ráfordításokra, valamint a nem biztosítási tevékenységek bevételeire, illetve ráfordításaira.
+n)[^123] az eredménykimutatás C) Nem biztosítástechnikai elszámolások sorához tartozó 01–09. tételek bontását a nem-életbiztosítási ág befektetéseihez és a saját tőkéhez kapcsolódó befektetésekhez rendelt bevételekre, illetve ráfordításokra, továbbá a 10–11. tételek bontását a Tv. szerinti egyéb bevételekre, illetve egyéb ráfordításokra, valamint a nem biztosítási tevékenységek bevételeire, illetve ráfordításaira.
 
-[^100]: A 14/A. §-t a 235/2003. (XII. 17.) Korm. rendelet 11. §-a iktatta be.
-[^101]: A 14/A. § a) pontja a 46/2015. (III. 12.) Korm. rendelet 1. § (4) bekezdés h) pontja szerint módosított szöveg.
-[^102]: A Magyar Közlöny 2004. évi 2. számában megjelent helyesbítésnek megfelelő szöveg.
-[^103]: A 14/A. § f) pontját a 382/2012. (XII. 19.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
-[^104]: A 14/A. § g) pontja a 397/2007. (XII. 27.) Korm. rendelet 10. § (2) bekezdése, a 46/2015. (III. 12.) Korm. rendelet 1. § (4) bekezdés i) pontja, a 480/2016. (XII. 28.) Korm. rendelet 6. § 5. pontja szerint módosított szöveg.
-[^105]: A 14/A. § h) pontját a 347/2004. (XII. 22.) Korm. rendelet 16. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
-[^106]: A 14/A. § i) pontját a 347/2004. (XII. 22.) Korm. rendelet 16. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
-[^107]: A 14/A. § j) pontját a 347/2004. (XII. 22.) Korm. rendelet 16. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
-[^108]: A 14/A. § k) pontját a 334/2005. (XII. 29.) Korm. rendelet 29. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^109]: A 14/A. § l) pontját a 334/2005. (XII. 29.) Korm. rendelet 29. §-a iktatta be, szövege a 382/2012. (XII. 19.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^110]: A 14/A. § m) pontját a 334/2005. (XII. 29.) Korm. rendelet 29. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^111]: A 14/A. § n) pontját a 334/2005. (XII. 29.) Korm. rendelet 29. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^112]: A 14/A. §-t a 235/2003. (XII. 17.) Korm. rendelet 11. §-a iktatta be.
+[^113]: A 14/A. § a) pontja a 46/2015. (III. 12.) Korm. rendelet 1. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^114]: A Magyar Közlöny 2004. évi 2. számában megjelent helyesbítésnek megfelelő szöveg.
+[^115]: A 14/A. § f) pontját a 382/2012. (XII. 19.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^116]: A 14/A. § g) pontja a 397/2007. (XII. 27.) Korm. rendelet 10. § (2) bekezdése, a 46/2015. (III. 12.) Korm. rendelet 1. § (4) bekezdés i) pontja, a 480/2016. (XII. 28.) Korm. rendelet 6. § 5. pontja szerint módosított szöveg.
+[^117]: A 14/A. § h) pontját a 347/2004. (XII. 22.) Korm. rendelet 16. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
+[^118]: A 14/A. § i) pontját a 347/2004. (XII. 22.) Korm. rendelet 16. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
+[^119]: A 14/A. § j) pontját a 347/2004. (XII. 22.) Korm. rendelet 16. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
+[^120]: A 14/A. § k) pontját a 334/2005. (XII. 29.) Korm. rendelet 29. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^121]: A 14/A. § l) pontját a 334/2005. (XII. 29.) Korm. rendelet 29. §-a iktatta be, szövege a 382/2012. (XII. 19.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^122]: A 14/A. § m) pontját a 334/2005. (XII. 29.) Korm. rendelet 29. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^123]: A 14/A. § n) pontját a 334/2005. (XII. 29.) Korm. rendelet 29. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.

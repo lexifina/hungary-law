@@ -22,6 +22,6 @@
 
 ## ,,15/A) Konszolidálásból adódó (számított) társasági adókülönbözet (±)''
 
-5.[^148]
+5.[^160]
 
-[^148]: Az 5. számú melléklet 5. pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (4) bekezdése hatályon kívül helyezte.
+[^160]: Az 5. számú melléklet 5. pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (4) bekezdése hatályon kívül helyezte.

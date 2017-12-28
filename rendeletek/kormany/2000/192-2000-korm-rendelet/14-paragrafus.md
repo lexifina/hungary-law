@@ -10,7 +10,7 @@ c) az életbiztosítási kötvénytulajdonosoknak nyújtott kölcsönöket;
 
 d) a befektetéseket és azok hozamait befektetési fajtánként, valamint a befektetési bevételek és ráfordítások megosztásának módját élet- és nem-életbiztosítási ágak között;
 
-e)[^91]
+e)[^103]
 
 f) a bekövetkezett, de még be nem jelentett károk tartaléka (IBNR-tartalék) képzésére alkalmazott módszert, és amennyiben a módszer megváltozott, annak az eredményre gyakorolt hatását biztosítási áganként, valamint – az ágazat díjbevételének az összes díjbevételen belüli aránya alapján – a három legnagyobb biztosítási ágazat és minden 10%-on felüli részarányt képviselő ágazat bontásban külön-külön is;
 
@@ -18,34 +18,34 @@ g) az előző években bekövetkezett függő károkra az év elején meglévő 
 
 h) a saját tulajdonú, saját használatú ingatlanok bruttó és nettó értékének alakulását, továbbá ezen ingatlanok miatti bevétel- és ráfordításkorrekciók megosztási módját élet- és nem-életbiztosításra;
 
-i)[^92]
+i)[^104]
 
 j) a biztosító részvényeinek legalább 10%-ával rendelkező tulajdonosait, az általuk birtokolt részvények számát és névértékét;
 
 k) az élet- és nem-életbiztosítási ágat egyaránt művelő biztosítóknál, a biztosítástechnikai tartalékok fedezetéül szolgáló befektetéseket megtestesítő eszközök megosztásánál alkalmazott módszereket;
 
-l)[^93] az elszámolt jutalékokat, melyek magukban foglalják az üzletkötői, szerzési-, megújítási- és portfoliókezeléssel kapcsolatos jutalékokat is;
+l)[^105] az elszámolt jutalékokat, melyek magukban foglalják az üzletkötői, szerzési-, megújítási- és portfoliókezeléssel kapcsolatos jutalékokat is;
 
-m)[^94] az élet- és nem-életbiztosítási ág együttes művelésére jogosult biztosító esetében valamely biztosítási ágban adódó szavatoló tőke hiány másik biztosítási ágból a Bit. 237. § (1) bekezdés l) pontja szerint történő pótlását;
+m)[^106] az élet- és nem-életbiztosítási ág együttes művelésére jogosult biztosító esetében valamely biztosítási ágban adódó szavatoló tőke hiány másik biztosítási ágból a Bit. 237. § (1) bekezdés l) pontja szerint történő pótlását;
 
 n) a biztosítási ügyfeleknek nyújtott jelzáloghitel állományát (lejárat szerinti megbontás, jelentős értékvesztés stb.);
 
-o)[^95] allokált bevételek esetén az átvitel okát és az elszámolás alapját;
+o)[^107] allokált bevételek esetén az átvitel okát és az elszámolás alapját;
 
-p)[^96] ha a mérlegben az eszközök B. Befektetések mérlegcsoportban a befektetések bekerülési értéken kerültek kimutatásra, azok piaci értékét;
+p)[^108] ha a mérlegben az eszközök B. Befektetések mérlegcsoportban a befektetések bekerülési értéken kerültek kimutatásra, azok piaci értékét;
 
-r)[^97] ha a mérlegben az eszközök B. Befektetések mérlegcsoportban a befektetések piaci értéken kerültek kimutatásra, azok bekerülési értékét;
+r)[^109] ha a mérlegben az eszközök B. Befektetések mérlegcsoportban a befektetések piaci értéken kerültek kimutatásra, azok bekerülési értékét;
 
-s)[^98] a szavatoló tőke szükséglet és a minimális tőke szükséglet, valamint a szavatoló tőke szükséglet fedezésére figyelembe vehető szavatoló tőke és a minimális tőke szükséglet fedezésére figyelembe vehető szavatoló tőke összegét;
+s)[^110] a szavatoló tőke szükséglet és a minimális tőke szükséglet, valamint a szavatoló tőke szükséglet fedezésére figyelembe vehető szavatoló tőke és a minimális tőke szükséglet fedezésére figyelembe vehető szavatoló tőke összegét;
 
-t)[^99] a tűzvédelmi hozzájárulás összegét.
+t)[^111] a tűzvédelmi hozzájárulás összegét.
 
-[^91]: A 14. § e) pontját a 235/2003. (XII. 17.) Korm. rendelet 14. § (6) bekezdése hatályon kívül helyezte.
-[^92]: A 14. § i) pontját a 235/2003. (XII. 17.) Korm. rendelet 14. § (6) bekezdése hatályon kívül helyezte.
-[^93]: A 14. § l) pontja a 235/2003. (XII. 17.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^94]: A 14. § m) pontja a 235/2003. (XII. 17.) Korm. rendelet 14. § (4) bekezdése, a 46/2015. (III. 12.) Korm. rendelet 1. § (4) bekezdés g) pontja szerint módosított szöveg.
-[^95]: A 14. § o) pontját a 235/2003. (XII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^96]: A 14. § p) pontját a 235/2003. (XII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^97]: A 14. § r) pontját a 235/2003. (XII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^98]: A 14. § s) pontját a 235/2003. (XII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^99]: A 14. § t) pontját a 331/2008. (XII. 30.) Korm. rendelet 38. § (5) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^103]: A 14. § e) pontját a 235/2003. (XII. 17.) Korm. rendelet 14. § (6) bekezdése hatályon kívül helyezte.
+[^104]: A 14. § i) pontját a 235/2003. (XII. 17.) Korm. rendelet 14. § (6) bekezdése hatályon kívül helyezte.
+[^105]: A 14. § l) pontja a 235/2003. (XII. 17.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^106]: A 14. § m) pontja a 235/2003. (XII. 17.) Korm. rendelet 14. § (4) bekezdése, a 46/2015. (III. 12.) Korm. rendelet 1. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^107]: A 14. § o) pontját a 235/2003. (XII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^108]: A 14. § p) pontját a 235/2003. (XII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^109]: A 14. § r) pontját a 235/2003. (XII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^110]: A 14. § s) pontját a 235/2003. (XII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^111]: A 14. § t) pontját a 331/2008. (XII. 30.) Korm. rendelet 38. § (5) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
