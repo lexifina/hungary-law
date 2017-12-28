@@ -1,0 +1,9 @@
+# 56/2017. (XII. 27.) NFM rendelet
+
+a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló 36/2017. (IX. 18.) NFM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-56-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-12-28 | 2017-56-20-2W.1 | 56/2017. (XII. 27.) NFM rendelet |
