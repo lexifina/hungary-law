@@ -1,3 +1,7 @@
-## 2. §[^2]
+## 2. § A Rendelet 1. §-a a következő i) ponttal egészül ki:
 
-[^2]: A 2. § a 4. § (2) bekezdése alapján 2017. december 28-án lép hatályba.
+## [Az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 3. § (2a) bekezdés b) pontja alapján:]
+
+## „i) NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság”
+
+## (felett az államot megillető tulajdonosi jogok és kötelezettségek összessége gyakorlójának 2018. december 31-ig a Miniszterelnökséget jelölöm ki.)
