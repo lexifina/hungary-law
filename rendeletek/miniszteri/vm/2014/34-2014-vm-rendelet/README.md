@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-34-20-2
 | 2014-04-30 | 2014-34-20-2Y.2 | 53/2014. (IV. 29.) VM rendelet |
 | 2014-11-20 | 2014-34-20-2Y.3 | 8/2014. (XI. 19.) MvM rendelet |
 | 2015-02-17 | 2014-34-20-2Y.4 | 7/2015. (II. 17.) MvM rendelet |
+| 2017-12-28 | 2014-34-20-2Y.5 | 35/2017. (XII. 27.) MvM rendelet |

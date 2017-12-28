@@ -8,6 +8,7 @@
 
 (5) A (4) bekezdésben foglaltak a (3) bekezdésben meghatározott esetben is alkalmazandóak.
 
-(6) Az MVH az (1) bekezdés teljesülése tekintetében a működtetési időszakban az ellenőrzés időpontját megelőző naptári éveket is ellenőrizheti.
+(6)[^6] A Kincstár az (1) bekezdés teljesülése tekintetében a működtetési időszakban az ellenőrzés időpontját megelőző naptári éveket is ellenőrizheti.
 
 [^5]: Az 5. § (4) bekezdése az 53/2014. (IV. 29.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (6) bekezdése a 35/2017. (XII. 27.) MvM rendelet 17. § c) pontja szerint módosított szöveg.

@@ -10,16 +10,19 @@ b) legalább 7 EUME nagyságú, de a 10 EUME-t nem éri el, akkor 30 000 euróna
 
 c) legalább 10 EUME nagyságú, akkor 40 000 eurónak
 
-megfelelő forintösszeg.
+## megfelelő forintösszeg.
 
 (3) A támogatás forintösszege a folyósítás évének január 1-jén érvényes Európai Központi Bank által rögzített árfolyamon kerül kifizetésre.
 
 (4) A vállalt EUME méret számításánál a Vhr. 21. § (2) és (3) bekezdésében foglaltakat kell alkalmazni a teljes működtetési időszak alatt.
 
-(5) Az EUME számítás alapjául szolgáló állatlétszámot a napi állományadatok éves átlaga alapján számított állatlétszám alapján kell meghatározni, amelyet az MVH az egyes állatfajokra vonatkozó Egységes Nyilvántartási és Azonosítási Rendszeréről és a Baromfi Információs Rendszerről szóló miniszteri rendeletekben meghatározottak alapján vezetett nyilvántartásokból állapít meg.
+(5)[^8] Az EUME számítás alapjául szolgáló állatlétszámot a napi állományadatok éves átlaga alapján számított állatlétszám alapján kell meghatározni, amelyet a Kincstár az egyes állatfajokra vonatkozó Egységes Nyilvántartási és Azonosítási Rendszeréről és a Baromfi Információs Rendszerről szóló miniszteri rendeletekben meghatározottak alapján vezetett nyilvántartásokból állapít meg.
 
 (6) Az (5) bekezdés szerint megállapított állatlétszámot a gazdálkodási naplóban rögzített állatállomány-nyilvántartásnak is alá kell támasztania.
 
-(7) Az MVH az EUME számítás alapjául szolgáló területméretet és a hasznosítás módját az adott évben benyújtott egységes területalapú támogatási kérelem adataiból ellenőrzi.
+(7)[^9] A Kincstár az EUME számítás alapjául szolgáló területméretet és a hasznosítás módját az adott évben benyújtott egységes területalapú támogatási kérelem adataiból ellenőrzi.
 
 (8) Az egységes területalapú támogatással nem érintett területek esetében a terület mérete a földhasználati nyilvántartásból, az SFH érték az ügyfél nyilatkozata alapján kerül ellenőrzésre.
+
+[^8]: A 8. § (5) bekezdése a 35/2017. (XII. 27.) MvM rendelet 17. § b) pontja szerint módosított szöveg.
+[^9]: A 8. § (7) bekezdése a 35/2017. (XII. 27.) MvM rendelet 17. § c) pontja szerint módosított szöveg.
