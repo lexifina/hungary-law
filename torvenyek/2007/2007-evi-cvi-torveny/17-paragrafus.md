@@ -8,7 +8,7 @@
 
 a) előkészíti, illetve végrehajtja az Országgyűlés, a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
 
-b) nyilvántartást vezet a tulajdonosi joggyakorlása – ideértve a törvény vagy miniszteri rendelet alapján átadott tulajdonosi joggyakorlást is – alá tartozó az állami vagyonról, annak alapján adatszolgáltatást nyújt,
+b) nyilvántartást vezet a tulajdonosi joggyakorlása – ideértve a törvény vagy miniszteri rendelet alapján átadott tulajdonosi joggyakorlást is – alá tartozó állami vagyonról, annak alapján adatszolgáltatást nyújt,
 
 c) a tulajdonosi joggyakorlása alá tartozó állami vagyont közvetlenül vagy polgári jogi szerződések útján hasznosítja,
 

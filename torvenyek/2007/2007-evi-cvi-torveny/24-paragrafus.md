@@ -2,7 +2,7 @@
 
 (2) Mellőzhető a versenyeztetés:
 
-a) nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (17) bekezdésében foglalt esetekben, továbbá
+a) az Nvtv. 11. § (17) bekezdésében foglalt esetekben, továbbá
 
 b) ha nemzetközi szerződésben vállalt kötelezettség a külföldön lévő ingatlan esetében a versenyeztetés alkalmazását kizárja,
 

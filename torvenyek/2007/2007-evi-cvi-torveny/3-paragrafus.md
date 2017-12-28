@@ -6,31 +6,23 @@
 
 (2) A tulajdonosi jogokat
 
-a) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság, a Magyar Posta Zártkörűen Működő Részvénytársaság, az ENKSZ Első Nemzeti Közműszolgáltató Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – a kormányzati tevékenység összehangolásáért felelős miniszter,
+a) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság, a Magyar Posta Zártkörűen Működő Részvénytársaság, az NKM Nemzeti Közművek Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter),
 
-b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint,
+b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, a miniszter az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint,
 
 c)–d)
 
 gyakorolja.
 
-(2a) E törvény felhatalmazása alapján – a 2. §-ban meghatározott célok hatékonyabb elérése érdekében, miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra – e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával az államot megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját
+(2a) E törvény felhatalmazása alapján – a 2. §-ban meghatározott célok hatékonyabb elérése érdekében, miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra – e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával az államot megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját a miniszter a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 7/A. § (1) bekezdése szerinti személy kijelölésével határozhatja meg.
 
-a) a kormányzati tevékenység összehangolásáért felelős miniszter kizárólag az általa irányított, felügyelt költségvetési szerv vagy a tulajdonosi joggyakorlása vagy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonban álló gazdasági társaság kijelölésével határozhatja meg
+(2b)
 
-aa) a tulajdonosi joggyakorlása alá törvény vagy miniszteri rendelet alapján tartozó társasági részesedés tekintetében,
+(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján az állam nevében gyakorló személy e tevékenységét e törvény és végrehajtási rendelete, valamint a (2a) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti azzal, hogy a tulajdonosi joggyakorlással érintett állami vagyon tulajdonjogának átruházására, arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására és más módon való megterhelésére az (1) bekezdés alapján az MNV Zrt. jogosult.
 
-ab) az általa irányított, felügyelt költségvetési szerv tulajdonosi joggyakorlása alá miniszteri rendelet alapján tartozó társasági részesedés tekintetében,
+(3a) Ha az állami részesedéssel működő gazdasági társaságban az állam nevében tulajdonosi (tagsági, részvényesi, alapítói) jogokat gyakorló személy ezen jogait az Nvtv. 8. § (7) bekezdése alapján az MNV Zrt.-vel kötött szerződés alapján gyakorolja, úgy az MNV Zrt. előzetes engedélyét köteles kérni állami vagyon nem pénzbeli hozzájárulásként való szolgáltatásához, a tőkeemeléshez, a nem kötelező tőkeleszállításhoz, a gazdálkodó szervezet végelszámolással történő megszüntetéséhez vagy átalakulásához, egyesüléséhez, szétválásához.
 
-ac) a – törvény vagy miniszteri rendelet alapján – tulajdonosi joggyakorlása alá tartozó gazdasági társaság tulajdonosi joggyakorlása alá miniszteri rendelet alapján tartozó társasági részesedés tekintetében, valamint
-
-ad) a Kormány egyedi döntésében meghatározott olyan, létező vagy megalapításra kerülő gazdasági társaság társasági részesedése tekintetében, amelyre nézve a Kormány a kormányzati tevékenység összehangolásáért felelős miniszter, az általa irányított, felügyelt költségvetési szerv vagy a tulajdonosi joggyakorlása vagy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonban álló gazdasági társaság tulajdonosi joggyakorlásának biztosítását írja elő,
-
-b) a miniszter a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 7/A. §-a szerinti személy kijelölésével határozhatja meg.
-
-(2b) A (2a) bekezdés a) pontja szerinti esetben a miniszter gondoskodik arról, hogy a kormányzati tevékenység összehangolásáért felelős miniszter rendeletének hatálya alá tartozó állami vagyon tekintetében a miniszter rendelete alapján fennálló tulajdonosi joggyakorlói kijelölés a kormányzati tevékenység összehangolásáért felelős miniszter rendeletének hatálybalépésével egyidejűleg megszüntetésre kerüljön.
-
-(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján az állam nevében gyakorló szervezet e tevékenységét e törvény és végrehajtási rendelete, valamint a (2a) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti azzal, hogy a tulajdonosi joggyakorlással érintett állami vagyon tulajdonjogát a tulajdonosi joggyakorló nem ruházhatja át, arra vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azt nem adhatja és más módon meg nem terhelheti, a gazdasági társaságot végelszámolással nem szüntetheti meg.
+(3b) Ha az állami részesedéssel működő gazdasági társaságban az állam nevében a tulajdonosi (tagsági, részvényesi, alapítói) jogokat a (3a) bekezdés szerinti személy gyakorolja, az (1) bekezdés alapján az MNV Zrt. jogosult az állami részesedéssel működő gazdasági társaságban fennálló állami részesedés átruházására, arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására és más módon való megterhelésére.
 
 (4) Az állami vagyon feletti tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 

@@ -4,9 +4,9 @@
 
 (2)
 
-(3) Gazdálkodó szervezet alapítására, illetve abban tulajdonosi (tagsági, részvényesi) jogok gyakorlására – ha törvény vagy a 3. § (2a) bekezdése szerinti miniszteri rendelet eltérően nem rendelkezik – az állam nevében az MNV Zrt. jogosult. Gazdálkodó szervezet alapítása során történő eljárásra az MNV Zrt. más személynek, szervezetnek meghatalmazást adhat.
+(3) Gazdálkodó szervezet alapítására, illetve abban részesedés szerzésére és a tulajdonosi (tagsági, részvényesi, alapítói) jogok gyakorlására – ha törvény vagy a 3. § (2a) bekezdése szerinti miniszteri rendelet eltérően nem rendelkezik – az állam nevében az MNV Zrt. jogosult. Gazdálkodó szervezet alapítása során történő eljárásra, valamint társasági részesedés állam nevében történő megszerzésére az MNV Zrt. más személynek, szervezetnek meghatalmazást adhat.
 
-(3a) A (3) bekezdésben foglaltaktól eltérően a kormányzati tevékenység összehangolásáért felelős miniszter rendeletében az állam nevében gazdasági társaság meghatározott célból történő alapítására, valamint társasági részesedés állam nevében történő megszerzésére feljogosíthatja a 3. § (2a) bekezdés a) pont ad) alpontja alapján tulajdonosi joggyakorlóként kijelölésre kerülő szervezetet.
+(3a)
 
 (4) A gazdálkodó szervezet cégbejegyzése során az eljáró cégbíróság vizsgálni köteles, hogy a kérelmező jogosult-e az állam képviseletére.
 

@@ -14,7 +14,7 @@ e) állami vagyonra vonatkozó vételi jog – d) pont alá nem tartozó – gya
 
 f) a telekalakításról szóló jogszabály végrehajtása vagy a telekalakítások végrehajtásához szükséges tulajdoni változásra vonatkozó megállapodás esetén,
 
-g) az elővásárlási jog jogosultjának történő értékesítés esetén, ha a föld és a rajta lévő felépítmény tulajdonjoga korábban elvált, illetve amennyiben a Ptk. közös tulajdon megszüntetésére vonatkozó szabályai kerülnek alkalmazásra,
+g) jogszabályon alapuló elővásárlási jog jogosultjának történő értékesítés esetén,
 
 h) helyi önkormányzatnak történő értékesítés esetén,
 
@@ -28,9 +28,13 @@ l) minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbizto
 
 m) külön jogszabályban meghatározott, a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk értékesítése esetén,
 
-n) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről.
+n) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről,
 
-(2a) Az állam tulajdonában álló pénzügyi eszköznek pénzügyi eszközre történő cseréje esetén a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése szerinti versenyeztetési kötelezettségre vonatkozó rendelkezést nem kell alkalmazni.
+o) az országos közút melletti pihenő- és várakozóhelyeken 2011. december 31-ig megépült felépítményekre vonatkozó osztott tulajdon létesítése és földhasználati jog alapítása során lefolytatott értékesítési eljárás során,
+
+p) zálogtárgy tulajdonjogának zálogjogosult által történő megszerzése esetén.
+
+(2a) Az állam tulajdonában álló pénzügyi eszköznek pénzügyi eszközre történő cseréje esetén a az Nvtv. 13. § (1) bekezdése szerinti versenyeztetési kötelezettségre vonatkozó rendelkezést nem kell alkalmazni.
 
 (3) A pályázat nyilvános vagy zártkörű lehet.
 
@@ -48,4 +52,4 @@ b) a meghatározott ajánlattevői körbe tartozók száma nem ismert.
 
 (8) Az MNV Zrt. által működtetett elektronikus árverési rendszerbe árverezőként történő belépésre az árverezők elektronikus nyilvántartásába bejegyzett felhasználó jogosult regisztrált és aktivált felhasználói nevének, valamint jelszavának megadásával.
 
-(9) Az árverezők elektronikus nyilvántartásába bármely természetes személy vagy olyan jogi személy kérheti a felvételét, aki megfelel a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti feltételeknek, ha az elektronikus árverési rendszer árverezőként történő használatának feltételeit rögzítő felhasználási szabályzatban foglaltakat elfogadta.
+(9) Az árverezők elektronikus nyilvántartásába bármely természetes személy vagy olyan jogi személy kérheti a felvételét, aki megfelel a az Nvtv. 3. § (1) bekezdés 1. pontja szerinti feltételeknek, ha az elektronikus árverési rendszer árverezőként történő használatának feltételeit rögzítő felhasználási szabályzatban foglaltakat elfogadta.

@@ -18,7 +18,7 @@ c) döntés az állami vagyon b) pont alá nem tartozó hasznosításáról, ill
 
 d) döntés az állami tulajdonú gazdasági társaságok közgyűlésein, illetve taggyűlésein képviselendő álláspont kialakításáról, az állam egyszemélyes tulajdonában álló gazdasági társaságok esetében alapítói határozat kiadása, ha
 
-da) a társaság kizárólagos állami tulajdoni körbe tartozik,
+da) a társaság állami tulajdonú részesedése az Nvtv. 2. melléklet I. pontja szerinti nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó állami tulajdonban álló társasági részesedés, vagy
 
 db) a társaság részvényei valamilyen többletjogot biztosítanak – a Ptk. 3:230. § (1) bekezdése alapján – a többletjogok vonatkozásában,
 
@@ -32,7 +32,7 @@ g) ingyenes vagyonátadásra vonatkozó javaslat kialakítása a döntéshozó r
 
 h) az éves költségvetési törvényben foglaltakra figyelemmel, döntés hitelfelvételről és kötvénykibocsátásról,
 
-i) az Áht. 45. §-a figyelembevételével döntés gazdasági társaságok részére történő hitel, kölcsön és támogatás nyújtásáról, tőkeemelésről,
+i) az Áht. 45. §-a figyelembevételével döntés gazdasági társaságok részére történő hitel, kölcsön, támogatás, pótbefizetés és tőkeemelés nyújtásáról,
 
 j) döntés a b) pontba nem tartozó kötelezettségvállalásokról, ha a kötelezettség mértéke, annak járulékaival együtt eléri vagy meghaladja a 200 millió forintot,
 
@@ -48,7 +48,7 @@ o) jogszabály eltérő rendelkezése hiányában az állami vagyon gyarapítás
 
 p) a miniszter által gyakorolt alapvető munkáltatói jogok kivételével a vezérigazgató feletti munkáltatói jogok gyakorlása,
 
-q) döntés állami tulajdonú társasági részesedések esetén az Nvtv. 8. § (7) bekezdése szerint a tulajdonosi jogok egészének vagy meghatározott részének gyakorlására vonatkozóan megbízási szerződés megkötéséről, amennyiben a gazdasági társaság saját tőkéjén belül az állami részesedés mértéke eléri vagy meghaladja a 200 millió forintot.
+q) döntés állami tulajdonú társasági részesedések esetén az Nvtv. 8. § (7) bekezdése szerint a tulajdonosi jogok egészének vagy meghatározott részének gyakorlására vonatkozóan megbízási szerződés megkötéséről, valamint a megbízási szerződés szerinti megbízói előzetes engedélyek kiadásáról, amennyiben a gazdasági társaság saját tőkéjén belül az állami részesedés mértéke eléri vagy meghaladja a 200 millió forintot.
 
 (5) Az Igazgatóság a (4) bekezdés alapján a hatáskörébe nem tartozó bármely ügyet magához vonhat. A (4) bekezdésben meghatározott döntési hatáskörök jogosultjának megállapításához az értéket (ügyletértéket) vagyonelemenként kell figyelembe venni azzal, hogy amennyiben a döntés több vagyonelem együttes értékesítésére, hasznosítására irányul a döntési hatáskört a vagyonelemek, illetve az azokhoz kapcsolódó ügyletek együttes értéke alapján kell meghatározni.
 
