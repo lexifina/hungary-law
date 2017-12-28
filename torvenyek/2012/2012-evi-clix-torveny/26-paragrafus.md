@@ -7,3 +7,11 @@
 (4) Az egyetemes postai szolgáltató jogosult a nála történő készpénzbefizetés céljára szolgáló nyomtatvány kialakítására, előállítására és bármely módon történő megszemélyesítésére. Az egyetemes postai szolgáltató köteles a készpénz-befizetési szolgáltatás keretében, a pénzforgalmi szolgáltatásokra vonatkozó általános szerződési feltételeiben meghatározott, elektronikus úton kezdeményezett fizetési megbízást és egyéb készpénz-helyettesítő fizetési eszközt is elfogadni.
 
 (5) A miniszter rendeletben az (1) és (2) bekezdésben meghatározott szolgáltatásokkal kapcsolatban jogszabályban nem szabályozott további, a Hpt.-vel összhangban álló követelményeket állapíthat meg.
+
+(6) Az (1) és (2) bekezdés szerinti pénzforgalmi szolgáltatáshoz kapcsolódó postai pénzforgalmi nyomtatványt használó számlatulajdonos köteles a Pmt. szerinti intézkedések alkalmazhatóságának egyértelmű megállapíthatósága érdekében
+
+a) az adók, bírságok, illetékek megfizetésére irányuló befizetés vagy
+
+b) a belföldön kezdeményezett és belföldön teljesítendő áru- vagy szolgáltatásnyújtás igénybevételére irányuló, fizetési számlára történő befizetés
+
+jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető intézmény által meghatározott jelölés alkalmazására.
