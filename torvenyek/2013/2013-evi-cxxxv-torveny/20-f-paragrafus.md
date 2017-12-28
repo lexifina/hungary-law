@@ -1,0 +1,3 @@
+20/F. § (1) Az Integrációs Szervezet igazgatóságának és tagjainak 2018. március 15. napjáig meg kell felelnie a 8. § (1) bekezdésében és a 8. § (4) és (4a) bekezdésében foglalt követelményeknek azzal, hogy az e feltételeknek megfelelő tagok Közgyűlés általi megválasztásakor megszűnik az Integrációs Szervezet igazgatósága azon tagjainak megbízatása, akik nem felelnek meg e feltételeknek.
+
+(2) Az Integrációs Szervezet alapszabályának 2018. március 15. napjáig meg kell felelnie az e törvénynek az állami vagyonnal és nemzeti pénzügyi szolgáltatásokkal összefüggő egyes törvények módosításáról szóló 2017. évi CXCIX. törvénnyel megállapított rendelkezéseinek is.

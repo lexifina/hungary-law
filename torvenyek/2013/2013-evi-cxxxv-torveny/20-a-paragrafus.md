@@ -22,10 +22,10 @@ b) a vitatott követelés esetén a pert – ha perre sor kerül – a közvetle
 
 (7) A 11/F. § (8) bekezdése vonatkozásában a kilépő tag köteles a kilépési szándéknyilatkozat benyújtásakor – könyvvizsgálói jelentéssel ellátott közbenső mérleg alapján – fennálló saját tőke értékének megfelelő összeget a tagsági jogviszony megszűnését követő 730 napig – ha pedig ezen időszak alatt igényt jelentettek be, annak teljesítéséről való döntésig – a Központi Banknál elkülönített számlán tartani. A kilépő tag a saját tőke értékének az elkülönített számlán történő elhelyezéséről köteles írásban értesíteni az Integrációs Szervezetet. Az Alapba a szövetkezeti hitelintézet által a kilépési szándék bejelentéséig befizetett összeg levonható a jelen bekezdés szerint a Központi Banknál elkülönített bankszámlán elhelyezendő összegből. Az elkülönített bankszámlán elhelyezendő összeg felszabadítására a Központi Bank által kiadott szabályzatban meghatározott személyek számára, a szabályzat szerinti feltételekkel és időpontokban kerül sor.
 
-(8) A kilépési szándékát az egyetemlegesség beállta előtt bejelentett szövetkezeti hitelintézetre nem vonatkozik a (7) bekezdésben írt feltétel.
+(8)
 
 (9)
 
 (10)–(14)
 
-(15) Az MFB jelen törvény 20. § (1) bekezdés szerint meghatározott értékű vagyoni hozzájárulását – ide nem értve az MFB 4. § (2) bekezdés első fordulata szerint szolgáltatott 1 milliárd forintos összeget – a 2013. évi CLVI. törvényben meghatározott módon, illetve a 2012. évi CCIV. törvényben meghatározott módon és összegben kell az Integrációs Szervezet részére teljesíteni.
+(15) A 17/U. § (1) bekezdés 2020. december 31. napjáig akként is teljesülhet, hogy az egyes szövetkezeti hitelintézeti tagok más számlavezető rendszert használnak, és az adatok központi feldolgozása megvalósul.

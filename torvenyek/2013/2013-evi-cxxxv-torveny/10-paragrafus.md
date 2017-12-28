@@ -4,9 +4,9 @@
 
 (2) A felügyelőbizottság hatáskörébe tartozik:
 
-a) az Integrációs Szervezet éves beszámolójának, költségvetési tervének és költségvetési beszámolójának előzetes, a közgyűlés döntése előtti véleményezése;
+a) az Integrációs Szervezet éves beszámolójának és éves tervének előzetes, a közgyűlés döntése előtti véleményezése;
 
-b) az igazgatóság rendszeres, félévenkénti beszámoltatása az Integrációs Szervezet tevékenységéről, gazdálkodásáról, pénzügyi helyzetéről, beleértve a magyar állam által rendelkezésre bocsátott eszközök felhasználásának szabályosságára vonatkozó beszámoltatást is;
+b) az igazgatóság és az ügyvezetés rendszeres, félévenkénti beszámoltatása az Integrációs Szervezet tevékenységéről, gazdálkodásáról és pénzügyi helyzetéről, beleértve az 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tagtól eltérő személy által rendelkezésre bocsátott vagyon felhasználásának szabályosságára vonatkozó beszámoltatást is;
 
 c) az Integrációs Szervezet belső ellenőrzésének irányítása;
 

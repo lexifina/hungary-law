@@ -1,18 +1,26 @@
 ## 5.3. Az igazgatóság
 
-8. § (1) Az Integrációs Szervezet irányítását az igazgatóság látja el. Az igazgatóság legalább 3, legfeljebb 5 tagból áll. Az Integrációs Szervezettel munkaviszonyban álló igazgatósági tagok száma nem haladhatja meg a tagok számának a felét.
+8. § (1) Az Integrációs Szervezet stratégiai irányítását az igazgatóság látja el. Az igazgatóság legalább 5, legfeljebb 7 tagból áll. Az Integrációs Szervezettel munkaviszonyban álló igazgatósági tagok száma nem haladhatja meg a tagok számának a felét.
 
-(2) Az igazgatóság 2 tagjának – 5 főből álló igazgatóság esetén 3 tagjának – a megválasztásához, és az így megválasztott tag visszahívásához az Integrációs Szervezet szövetkezeti hitelintézeti tagjai több mint felének egyetértő szavazata szükséges.
+(2) Az igazgatóság 3 tagjának – 7 főből álló igazgatóság esetén 4 tagjának – a megválasztásához, és az így megválasztott tag visszahívásához az Integrációs Szervezet szövetkezeti hitelintézeti tagjai több mint felének egyetértő szavazata szükséges.
 
 (3) Az igazgatóság határozatképes, ha a tagok többsége jelen van. Az igazgatóság tagjai közül elnököt választ. Az igazgatóság határozatait egyszerű szótöbbséggel hozza. Az igazgatóság ügyrendjét maga állapítja meg.
 
-(4) Az Integrációs Szervezet igazgatósága tagjává nem választható, akivel szemben a Hpt. 137. § (4) és (5) bekezdésében foglalt valamely kizáró ok fennáll.
+(4) Az Integrációs Szervezet igazgatósága tagjává az választható meg, aki
+
+a) megfelel a Hpt. 155. § (1) bekezdés c) pontjában meghatározott feltételeknek, és
+
+b) a pénzügyi vagy a hitelintézeti tevékenységgel kapcsolatos kérdésekben kiemelkedő elméleti és gyakorlati szakmai ismeretekkel rendelkezik, valamint
+
+c) esetében a Hpt. 137. § (4) és (5) bekezdésében foglalt valamely kizáró ok nem áll fenn.
+
+(4a) Az Integrációs Szervezettel munkaviszonyban nem álló igazgatósági taggá nem választható meg, aki, vagy akinek közeli hozzátartozója az Integrációs Szervezet tagjánál vezető állást tölt be, vagy érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll az Integrációs Szervezet bármely tagjával, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt.
 
 (5) Az Integrációs Szervezet igazgatósági tagja
 
-a) nem vehet részt az Integrációs Szervezet által történő döntés előkészítésében és meghozatalában, ha annál a tagnál, amelyre a döntés vonatkozik, saját maga vagy közeli hozzátartozója vezető állást tölt be, illetve érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szövetkezeti hitelintézettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt;
+a) nem vehet részt az Integrációs Szervezet által történő egyedi döntés előkészítésében és meghozatalában, ha annál a tagnál, amelyre az egyedi döntés vonatkozik, saját maga vagy közeli hozzátartozója vezető állást tölt be, illetve érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szövetkezeti hitelintézettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt;
 
-b) nem vehet részt olyan döntés előkészítésében és olyan döntésben, amelyhez saját magának, közeli hozzátartozójának vagy a közvetlen, illetve közvetett tulajdonában álló vállalkozásnak üzleti érdeke fűződik;
+b) nem vehet részt olyan egyedi döntés előkészítésében és olyan egyedi döntés meghozatalában, amelyhez saját magának, közeli hozzátartozójának vagy a közvetlen, illetve közvetett tulajdonában álló vállalkozásnak üzleti érdeke fűződik;
 
 c) nem vállalhat szerződésből eredő kötelezettséget az Integrációs Szervezettel, kivéve, ha a szerződés megkötéséhez az igazgatóság előzetesen egyhangúlag hozzájárult.
 

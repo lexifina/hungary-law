@@ -6,7 +6,7 @@
 
 (3) Az Alap saját vagyona, bevételei és jövedelme után sem társasági adó, sem helyi adó, sem illeték fizetésére nem kötelezhető.
 
-(4) Az Alap pénzeszközei nem vonhatók el, és az e törvényben meghatározottól eltérő célra nem használhatók fel.
+(4) Az Alap pénzeszközei nem vonhatók el, és az (1) bekezdéstől eltérő célra nem használhatók fel.
 
 (5) Az Alap saját tőkéje nem osztható fel.
 

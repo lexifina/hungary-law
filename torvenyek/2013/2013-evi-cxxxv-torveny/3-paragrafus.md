@@ -2,7 +2,7 @@
 
 3. § (1) Az Integrációs Szervezet tagja a szövetkezeti hitelintézet, a Központi Bank valamint az MFB és az Integrációs Szervezet tagjai közé felvett személy vagy szervezet.
 
-(2) Az Integrációs Szervezet igazgatósága azt veheti fel az Integrációs Szervezet tagjai közé, aki
+(2) Az Integrációs Szervezet közgyűlése azt veheti fel az Integrációs Szervezet tagjai közé, aki
 
 a) előzetes kötelezettségvállaló nyilatkozatot tett a Központi Bank felé legalább egy darab, az Integrációs Szervezet igazgatósága által meghatározott névértékű, fajtájú és sorozatú, a Központi Bank által kibocsátott részvény átvételére,
 

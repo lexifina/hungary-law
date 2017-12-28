@@ -38,7 +38,7 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 (2b) Az Integrációs Szervezet a Központi Bank és a részvénytársasági formában működő szövetkezeti hitelintézetek közgyűlésén a (2a) bekezdés alapján szerzett részesedése arányában gyakorolja a szavazati jogokat.
 
-(2c) A szövetkezeti formában működő szövetkezeti hitelintézeteknél, amelyben az Integrációs Szervezet a (2a) bekezdés alapján részesedést szerzett, kizárólag az Integrációs Szervezet jóváhagyásával hozható meg közgyűlési határozat.
+(2c) A szövetkezeti formában működő szövetkezeti hitelintézeteknél, amelyben az Integrációs Szervezet intézményvédelmi célból szerzett részesedéssel rendelkezik, kizárólag az Integrációs Szervezet jóváhagyásával hozható meg közgyűlési határozat.
 
 (3) A (2) bekezdés d) pontjának alkalmazásakor a Ptk.-tól eltérően a közgyűlést annak napját huszonegy nappal megelőzően kell összehívni.
 
@@ -48,7 +48,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (5) Az Integrációs Szervezet a szövetkezeti hitelintézet tulajdonosainak szavazati jogát meghatározott időre, de legfeljebb egy évre az (2) bekezdésben felsorolt és a törvényből fakadó egyéb intézkedések mellett felfüggesztheti, ha a tulajdonos tevékenysége, illetve a szövetkezeti hitelintézetre gyakorolt befolyása a rendelkezésre álló tények alapján veszélyezteti a szövetkezeti hitelintézet megbízható, biztonságos működését; ilyen esetben a határozatképesség megállapításánál a korlátozással érintett szavazatokat figyelmen kívül kell hagyni.
 
-(6) A szövetkezeti hitelintézet igazgatósága a (4) bekezdésben írt esetben a (4) bekezdésben írt határidőben intézkedik aziránt, hogy a tulajdonosok
+(6) A szövetkezeti hitelintézet igazgatósága az (5) bekezdésben írt esetben az Integrációs Szervezet által előírt határidőben intézkedik aziránt, hogy a tulajdonosok
 
 a) betéteit és a hitelintézettel szemben fennálló más követeléseit zárolják,
 

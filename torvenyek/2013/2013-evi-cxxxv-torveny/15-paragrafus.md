@@ -10,7 +10,7 @@ b) a kockázati stratégiáról;
 
 c) a szövetkezeti hitelintézetek integrációs szintű beszerzési gyakorlatának kialakításáról, beleértve az integrációs szintű beszerzés körébe vont áruk és szolgáltatások meghatározását és a központi beszerzés lebonyolításának szabályait;
 
-d) az egységes informatikai rendszer kialakításáról.
+d) az egységes informatikai rendszerről.
 
 (3) A Központi Bank jogosult a szövetkezeti hitelintézeti integráció céljainak elérése érdekében a szövetkezeti hitelintézetek integrációjának egységes üzleti működése, irányítása tárgykörében a szövetkezeti hitelintézetekre kötelező szabályzatot elfogadni. Ha a Központi Bank olyan szabályzatot fogad el, amely az Integrációs Szervezet feladatkörének gyakorlását érinti, akkor a szabályzatot az Integrációs Szervezet igazgatóságának előzetesen jóvá kell hagynia.
 

@@ -10,11 +10,11 @@ d) Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos f
 
 e)
 
-f) portfolió minősége rossz: a nem teljesítő kitettségre és az átstrukturált követelésre vonatkozó prudenciális követelményekről szóló jogszabály szerinti nem teljesítő kitettségek aránya a teljes kitettségekhez képest meghaladja a 15 százalékot;
+f)
 
 g) HBA: Hitelszövetkezetek Első Hazai Önkéntes Betétbiztosítási és Intézményvédelmi Alapja
 
-h) portfolió minősége romlik: a nem teljesítő kitettségre és az átstrukturált követelésre vonatkozó prudenciális követelményekről szóló jogszabály szerinti nem teljesítő kitettségek aránya a teljes kitettségekhez képest meghaladja a 10 százalékot és egy naptári negyedév alatt legalább 1 százalékponttal nőtt;
+h)
 
 i) Szövetkezeti Hitelintézetek Integrációs Szervezete vagy Integrációs Szervezet: a szövetkezeti hitelintézet tekintetében a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: az Európai Parlament és a Tanács 575/2013/EU rendelete) 10. cikkében meghatározott központi szerv feladatait ellátó szervezet;
 
@@ -22,7 +22,7 @@ j)
 
 k) könyvvizsgáló: könyvvizsgálattal főtevékenységként foglalkozó, pénzügyi intézményi minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég;
 
-l) Központi Adatfeldolgozó: az egységes informatikai rendszer folyamatos és biztonságos üzemeltetését, valamint fejlesztését az Integrációs Szervezet 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tagjával kötött – a kiszervezésre vonatkozó szabályoknak is megfelelő – megállapodás alapján végző informatikai szolgáltató;
+l) Központi Adatfeldolgozó: az egységes informatikai rendszer folyamatos és biztonságos üzemeltetését, valamint fejlesztését az Integrációs Szervezet 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tagjával kötött, – az e törvényben meghatározottak figyelembevételével – a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) kiszervezésre vonatkozó szabályainak megfelelő megállapodás alapján végző informatikai szolgáltató;
 
 m) Központi Bank: a szövetkezeti hitelintézet tekintetében az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikkében meghatározott központi szerv feladatainak ellátásában e törvény felhatalmazása alapján közreműködő hitelintézet;
 
@@ -50,11 +50,11 @@ x) veszélyeztető magatartás: a szövetkezeti hitelintézet vagy a Központi B
 
 y) válsághelyzet: az az állapot, amikor egy szövetkezeti hitelintézet
 
-ya) tőkepozíciója vagy portfolió minősége rossz, vagy
+ya) tőkepozíciója rossz, vagy
 
-yb) tőkepozíciója vagy portfolió minősége romlik;
+yb) tőkepozíciója két egymást követő naptári negyedévben romlik;
 
-z) Vezető tisztségviselő: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésének 122. pontjában „vezető állású személyként” meghatározott személy.
+z) Vezető tisztségviselő: a Hpt. 6. § (1) bekezdésének 122. pontjában „vezető állású személyként” meghatározott személy.
 
 (2) A szövetkezeti hitelintézetek integrációja az 1/A. §-ban meghatározott célok elérése érdekében jön létre és működik. A szövetkezeti hitelintézetek integrációjának központi szerve az Integrációs Szervezet.
 
@@ -75,3 +75,11 @@ z) Vezető tisztségviselő: a hitelintézetekről és a pénzügyi vállalkozá
 (5e) Az Integrációs Szervezet és a Központi Bank a szövetkezeti hitelintézeti integráció tagjait – az e törvényben meghatározott szabályok szerint – irányítja, tevékenységüket összehangolja.
 
 (6) Az összevont alapú felügyelet alá tartozó intézményekre összeállított konszolidált adatszolgáltatási, nyilvánosságra hozatali és egyéb jogszabályi kötelezettségeket a Központi Bank teljesíti.
+
+(7) Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény alkalmazása szempontjából együttesen kapcsolt vállalkozásnak minősülnek
+
+a) az Integrációs Szervezet tagjai,
+
+b) a Központi Adatfeldolgozó, feltéve, hogy abban az Integrációs Szervezet, vagy annak tagja a Hpt. szerinti befolyásoló részesedéssel rendelkezik, továbbá
+
+c) azok a szervezetek, amelyben az Integrációs Szervezet, vagy annak tagja többségi befolyással rendelkezik.

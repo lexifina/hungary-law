@@ -9,3 +9,5 @@
 (4) A csatlakozott tag köteles a Központi Bank által utasításban megjelölt egyedi banki informatikai rendszerre való átállásnak a megjelölt határidőben eleget tenni. Az átállással kapcsolatos feladatokról és az átállásra vonatkozó utasítás kiadásával kapcsolatos szabályokról a Központi Bank szabályzatot alkot.
 
 (5) A csatlakozott tagok a Központi Adatfeldolgozó vonatkozásában mentesülnek a Hpt. 68. § (6) bekezdésében meghatározott kötelezettség alól. E kötelezettséget az Integrációs Szervezet teljesíti.
+
+(6) A Központi Adatfeldolgozó által alkalmazott közreműködővel kötött szerződés vonatkozásában a Hpt. 68. § (10) bekezdésében meghatározott jóváhagyást a Központi Bank az Integrációs Szervezet előzetes egyetértése alapján gyakorolja. A szerződésben biztosítani kell a kiszervezett tevékenységnek az Integrációs Szervezet által történő ellenőrzését.
