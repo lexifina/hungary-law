@@ -50,7 +50,7 @@
 
 25.[^4] közreműködik a nemzeti rendezvények koncepciójának kidolgozásában,
 
-26.[^5] közreműködik a világkiállításokon való magyar részvételre irányuló javaslatok kidolgozásában, valamint ellátja a világkiállításokon való magyar részvétellel kapcsolatos szervezési és lebonyolítási feladatokat, egy, a tulajdonosi joggyakorlása alatt létrehozott önálló intézmény bevonásával,
+26.[^5] közreműködik a világkiállításokon való magyar részvételre irányuló javaslatok kidolgozásában, gondoskodik a világkiállításokon való magyar részvétellel kapcsolatos szervezési és lebonyolítási feladatokról, valamint a turizmusért felelős miniszter delegálása alapján ellátja a Kiállítások Nemzetközi Irodája (Bureau International des Expositions, BIE) nemzetközi szervezetben az ország képviseletét,
 
 27.[^6] a sportpolitikáért felelős miniszter részére szakmai támogatást biztosít a Magyarországon megvalósuló, kiemelt nemzetközi sportesemények lebonyolításához,
 
@@ -66,7 +66,7 @@
 
 [^3]: Az 5. § (1) bekezdése a 114/2017. (V. 10.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 5. § (1) bekezdés 25. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^5]: Az 5. § (1) bekezdés 26. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^5]: Az 5. § (1) bekezdés 26. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 454/2017. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^6]: Az 5. § (1) bekezdés 27. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^7]: Az 5. § (1) bekezdés 28. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^8]: Az 5. § (1) bekezdés 29. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
