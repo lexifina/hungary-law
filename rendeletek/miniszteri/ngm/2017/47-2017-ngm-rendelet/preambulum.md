@@ -1,0 +1,1 @@
+A jövedéki adóról szóló 2016. évi LXVIII. törvény 148. § (2) bekezdés a)–g) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
