@@ -1,6 +1,6 @@
 1. A Kormány fontosnak tartja és egyetért azzal, hogy az egyetemes reformáció 500. évfordulójáról történő méltó megemlékezés és a reformáció magyar örökségének megünneplése érdekében emlékbizottság kerüljön létrehozásra.
 
-2. A Kormány a fenti cél megvalósítására a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján, határozott időre, 2013. október 31. napjától 2017. december 31. napjáig terjedő időtartamra létrehozza a Reformáció Emlékbizottságot (a továbbiakban: Bizottság).
+2.[^1] A Kormány a fenti cél megvalósítására a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján, határozott időre, 2013. október 31. napjától 2018. június 30. napjáig terjedő időtartamra létrehozza a Reformáció Emlékbizottságot (a továbbiakban: Bizottság).
 
 3. A Bizottság a reformáció 500. évfordulójával kapcsolatos megemlékezések, rendezvények, ismeretterjesztő programok (a továbbiakban: Programok) tekintetében a Kormány javaslattevő, véleményező, koordináló, a Programokra előirányzott közpénzek felhasználásával kapcsolatban döntés-előkészítő, a Programok monitoringját végző testülete.
 
@@ -41,3 +41,5 @@ Felelős: a Reformáció Emlékbizottság elnöke
 Határidő: a Bizottság működésének megkezdését követő 30. nap
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2041/2017. (XII. 27.) Korm. határozat 1. pontjával megállapított szöveg.
