@@ -1,3 +1,3 @@
-## 20. §[^14]
+## 20. §[^15]
 
-[^14]: A 20. § a 22. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^15]: A 20. § a 22. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

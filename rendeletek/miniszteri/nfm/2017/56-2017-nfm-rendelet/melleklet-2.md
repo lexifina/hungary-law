@@ -1,3 +1,3 @@
-2. melléklet az 56/2017. (XII. 27.) NFM rendelethez[^17]
+2. melléklet az 56/2017. (XII. 27.) NFM rendelethez[^18]
 
-[^17]: A 2. melléklet a 22. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
+[^18]: A 2. melléklet a 22. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.

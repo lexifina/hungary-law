@@ -1,3 +1,3 @@
-## 17. § Az R. 26. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 17. §[^12]
 
-## „(3) A 10. § (2) bekezdés d) pontja, a 10. § (7) bekezdése, a 10. § (10) bekezdés b) pontja, a 28. § (3) és (4) bekezdése, a 28. § (7)–(10) bekezdése és 28. § (12) bekezdése és az 5. melléklet 2018. június 1-jén lép hatályba.”
+[^12]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
