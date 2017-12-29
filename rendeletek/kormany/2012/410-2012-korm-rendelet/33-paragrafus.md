@@ -1,5 +1,5 @@
-## 25–32. §[^107]
+## 25–32. §[^123]
 
 ## 12. Hatályon kívül helyező rendelkezések
 
-[^107]: A 25–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: A 25–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -14,9 +14,9 @@
 
 ## A.3.1 A létesítmény telephelyén végzett 2. melléklet szerinti tevékenység (tevékenységek) megnevezése.
 
-## A.3.2.[^110] A létesítmény telephelyére kiadott, a környezethasználat feltételeit megállapító határozat megnevezése, engedély száma, kiadásának dátuma, kiállító hatóság megnevezése és az engedély jogerőre emelkedésének dátuma.
+## A.3.2.[^126] A létesítmény telephelyére kiadott, a környezethasználat feltételeit megállapító határozat megnevezése, engedély száma, kiadásának dátuma, kiállító hatóság megnevezése és az engedély jogerőre emelkedésének dátuma.
 
-## A.3.3[^111] A próbaüzem és az üzemszerű működés megkezdésének tervezett ideje (éééé/hh/nn), a létesítmény státusza és annak leírása (folyamatos működés, tartalék üzemmód, készenléti üzemmód vagy szezonális üzemmód).
+## A.3.3[^127] A próbaüzem és az üzemszerű működés megkezdésének tervezett ideje (éééé/hh/nn), a létesítmény státusza és annak leírása (folyamatos működés, tartalék üzemmód, készenléti üzemmód vagy szezonális üzemmód).
 
 ## A.4 A LÉTESÍTMÉNY KIBOCSÁTÁSI KATEGÓRIÁJA
 
@@ -26,7 +26,7 @@
 
 ## b) B kategóriájú létesítmény: 50 000 tCO2(e) és 500 000 tCO2(e) között
 
-## c)[^112] C kategóriájú létesítmény 500 000 tCO2(e)-nél nagyobb.
+## c)[^128] C kategóriájú létesítmény 500 000 tCO2(e)-nél nagyobb.
 
 ## B. A KIBOCSÁTÁSOK NYOMON KÖVETÉSÉVEL KAPCSOLATOS ADATOK ÉS MÓDSZEREK (Nyomon követési Terv – NykT)
 
@@ -46,7 +46,7 @@
 
 ## B.2.4 Annak megjelölése, hogy a forrásanyag fő vagy kisebb jelentőségű forrásanyag-e figyelembe véve a 601/2012/EU bizottsági rendelet iránymutatásait.
 
-## B.2.5.[^113] A mennyiségi adatokat mérő mőrőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e a fővárosi és megyei kormányhivatal által mérésügyi és műszaki biztonsági feladatkörében eljárva, a 127/1991. Korm. rendelet szerint szükséges, érvényes visszavezetettségű mérőrendszerek hitelességét és kalibrációját igazoló érvényes hitelesítési és kalibrálási bizonyítványokkal.
+## B.2.5.[^129] A mennyiségi adatokat mérő mőrőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e a fővárosi és megyei kormányhivatal által mérésügyi és műszaki biztonsági feladatkörében eljárva, a 127/1991. Korm. rendelet szerint szükséges, érvényes visszavezetettségű mérőrendszerek hitelességét és kalibrációját igazoló érvényes hitelesítési és kalibrálási bizonyítványokkal.
 
 ## B.2.6 Amennyiben a kibocsátási számítása az anyagmérlegen alapuló megközelítéssel történik, akkor meg kell jelölni a létesítmény területére belépő összes karbontartalmú forrásanyagot, a létesítmény területéről kilépő összes karbontartalmú forrásanyagot, valamint létesítményben készletként megmaradó összes karbontartalmú forrásanyagot, valamint mindezek mennyiségének és karbontartalmának meghatározáshoz kiválasztott adatmeghatározási szinteket, módszereket.
 
@@ -106,7 +106,7 @@
 
 ## Hulladékégetés esetén tüzelőanyagként vagy alap-, illetve segédanyagként használatos hulladékok típusát a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendeletben meghatározott Európai Hulladék Katalógus szerinti osztályozás (EWC kódszám) alkalmazásával is meg kell jelölni.
 
-2. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^114]
+2. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^130]
 
 ## A kibocsátási engedélyhez kötött tevékenységek és üvegházhatású gázok
 
@@ -272,8 +272,8 @@
 
 2.10. Üveggyártás (XIII): 2008. január 1-jétől az üveggyártást folytató létesítmény esetében a telephelyen az üvegtermékek előállításakor keletkező valamennyi tüzelési eredetű kibocsátást figyelembe kell venni.
 
-[^110]: Az 1. melléklet A.3.2. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^111]: Az 1. melléklet A.3.3. pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^112]: Az 1. melléklet 4. pont c) alpontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
-[^113]: Az 1. melléklet B.2.5. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^114]: A 2. melléklet a 178/2016. (VII. 1.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 17. §-a és 18. § c) pontja szerint módosított szöveg.
+[^126]: Az 1. melléklet A.3.2. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^127]: Az 1. melléklet A.3.3. pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^128]: Az 1. melléklet 4. pont c) alpontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^129]: Az 1. melléklet B.2.5. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^130]: A 2. melléklet a 178/2016. (VII. 1.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 17. §-a és 18. § c) pontja szerint módosított szöveg.

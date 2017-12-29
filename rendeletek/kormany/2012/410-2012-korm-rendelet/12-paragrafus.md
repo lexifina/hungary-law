@@ -1,12 +1,12 @@
 ## 5. A létesítmény működésében bekövetkező változások
 
-12. §[^54] (1) A létesítmény bezárásának minősül:
+12. §[^64] (1) A létesítmény bezárásának minősül:
 
 a) ha a létesítmény kibocsátási engedélyét jogerősen visszavonták;
 
-b)[^55] ha a kibocsátási engedély alapjául szolgáló, a környezethasználat feltételeit megállapító hatósági határozatot jogerősen visszavonták;
+b)[^65] ha a kibocsátási engedély alapjául szolgáló, a környezethasználat feltételeit megállapító hatósági határozatot jogerősen visszavonták;
 
-c)[^56] ha a kibocsátási engedély alapjául szolgáló, a környezethasználat feltételeit megállapító hatósági határozatban foglalt tevékenységet jogerősen felfüggesztették;
+c)[^66] ha a kibocsátási engedély alapjául szolgáló, a környezethasználat feltételeit megállapító hatósági határozatban foglalt tevékenységet jogerősen felfüggesztették;
 
 d) a létesítményben folytatott üvegházhatású gáz kibocsátására feljogosító kibocsátási engedélyhez kötött tevékenység végleges megszüntetése;
 
@@ -16,9 +16,11 @@ f) ha a létesítmény üzemeltetése vagy az üzemeltetés újraindítása műs
 
 g) ha a létesítmény nem üzemel, de korábban üzemelt és az üzemeltető nem tudja hitelt érdemlően – okirattal – meggyőzően valószínűsíteni, hogy a létesítmény legkésőbb 6 hónappal a működés beszüntetését követően újra üzemelni fog.
 
-(2)[^57] A miniszter az üzemeltető kérelmére az (1) bekezdés g) pontjában meghatározott időszakot legfeljebb 18 hónappal meghosszabbíthatja, ha az üzemeltető igazolni tudja, hogy a létesítmény 6 hónapon belül olyan kivételes és előre nem látott körülmények miatt nem tudta folytatni működését, amelyeket a legteljesebb gondosság mellett sem lehetett volna elkerülni, és amelyek kívül esnek az érintett létesítmény üzemeltetőjének hatáskörén. Ilyen körülménynek minősülnek különösen természeti katasztrófák, háború, háborús fenyegetés, terrorcselekmények, forradalom, lázadás, szabotázs, vandalizmus. A bezárttá-minősítés felfüggesztésére vonatkozó kérelmet a miniszterhez és tájékoztatásul a hatósághoz kell benyújtani. A hatóság a bezárttá minősítés ügyében a kérelem elbírálását követően jár el.. A kérelem tartalmazza a bezárttá-minősítés felfüggesztésének kezdő időpontját és a bezárttá-minősítés felfüggesztésének okát, amelyhez mellékelni kell a rendelkezésre álló, a bezárttá-minősítés felfüggesztésének okát alátámasztó dokumentumok másolatát. Kizárólag gazdasági okok nem indokolhatják a bezárttá minősítés felfüggesztését.
+(1a)[^67] Ha egy létesítmény esetében a 12. § (1) bekezdés a)–g) pontok közül több is teljesül, akkor a kibocsátási egységek kiosztása tekintetében az először teljesülő kritériumot kell a bezárás okának tekinteni.
 
-(3)[^58] Az (1) bekezdés g) pontja és a (2) bekezdés nem alkalmazandó a tartalék- vagy készenléti, illetve szezonális üzemmódban tartott létesítményekre, ha:
+(2)[^68] A miniszter az üzemeltető kérelmére az (1) bekezdés g) pontjában meghatározott időszakot legfeljebb 18 hónappal meghosszabbíthatja, ha az üzemeltető igazolni tudja, hogy a létesítmény 6 hónapon belül olyan kivételes és előre nem látott körülmények miatt nem tudta folytatni működését, amelyeket a legteljesebb gondosság mellett sem lehetett volna elkerülni, és amelyek kívül esnek az érintett létesítmény üzemeltetőjének hatáskörén. Ilyen körülménynek minősülnek különösen természeti katasztrófák, háború, háborús fenyegetés, terrorcselekmények, forradalom, lázadás, szabotázs, vandalizmus. A bezárttá-minősítés felfüggesztésére vonatkozó kérelmet a miniszterhez és tájékoztatásul a hatósághoz kell benyújtani. A hatóság a bezárttá minősítés ügyében a kérelem elbírálását követően jár el.. A kérelem tartalmazza a bezárttá-minősítés felfüggesztésének kezdő időpontját és a bezárttá-minősítés felfüggesztésének okát, amelyhez mellékelni kell a rendelkezésre álló, a bezárttá-minősítés felfüggesztésének okát alátámasztó dokumentumok másolatát. Kizárólag gazdasági okok nem indokolhatják a bezárttá minősítés felfüggesztését.
+
+(3)[^69] Az (1) bekezdés g) pontja és a (2) bekezdés nem alkalmazandó a tartalék- vagy készenléti, illetve szezonális üzemmódban tartott létesítményekre, ha:
 
 a) az üzemeltető rendelkezik az üvegházhatású gázok kibocsátására vonatkozó engedéllyel és valamennyi más vonatkozó engedéllyel,
 
@@ -26,9 +28,9 @@ b) az üzemeltetés megindítása a létesítményen végzett fizikai változtat
 
 c) rendszeresen végeznek karbantartást.
 
-(4)[^59] A létesítmény az (1) bekezdés g) pontja szerinti leállását követő 30 napon belül köteles a működés leállásának a tényét bejelenteni a miniszternek és a hatóságnak. Az (1) bekezdés g) pontja szerinti esetben a miniszter a térítésmentes kiosztás végrehajtását a létesítmény újraindításának igazolásáig végzéssel felfüggesztheti.
+(4)[^70] A létesítmény az (1) bekezdés g) pontja szerinti leállását követő 30 napon belül köteles a működés leállásának a tényét bejelenteni a miniszternek és a hatóságnak. Az (1) bekezdés g) pontja szerinti esetben a miniszter a térítésmentes kiosztás végrehajtását a létesítmény újraindításának igazolásáig végzéssel felfüggesztheti.
 
-(5)[^60] A létesítmény üzemeltetője a bezárás napjától számított 30 napon belül köteles a létesítmény bezárttá-minősítésének tényét bejelenteni a hatóság honlapján közzétett módon a hatóságnak, valamint a Minisztérium honlapján közzétett nyomtatvány kitöltése útján a miniszternek. A hatóság felé történő bejelentés tartalmazza a bezárás napjának megjelölését és az annak igazolására alkalmas, cégszerű aláírással ellátott dokumentumot. A bezárás napja az (1) bekezdés a)–c) pontjában rögzített határozat jogerőre emelkedésének napja, az (1) bekezdés d)–g) pontjában meghatározott esemény bekövetkezésének a napja.
+(5)[^71] A létesítmény üzemeltetője a bezárás napjától számított 30 napon belül köteles a létesítmény bezárttá-minősítésének tényét bejelenteni a hatóság honlapján közzétett módon a hatóságnak, valamint a Minisztérium honlapján közzétett nyomtatvány kitöltése útján a miniszternek. A hatóság felé történő bejelentés tartalmazza a bezárás napjának megjelölését és az annak igazolására alkalmas, cégszerű aláírással ellátott dokumentumot. A bezárás napja az (1) bekezdés a)–c) pontjában rögzített határozat jogerőre emelkedésének napja, az (1) bekezdés d)–g) pontjában meghatározott esemény bekövetkezésének a napja.
 
 (6) A bezáró létesítmény üzemeltetője az (5) bekezdésben meghatározott bezárás napjától vagy – ha a hatóság a bezárás napját hivatalból észleli – a kibocsátási engedélyt visszavonó határozat jogerőre emelkedésétől számított 60 napon belül köteles a bezárás évére vonatkozó, az akkreditált hitelesítő szervezet által hitelesített jelentést tenni.
 
@@ -38,10 +40,11 @@ c) rendszeresen végeznek karbantartást.
 
 (9) A miniszter a kiosztás évét megelőző évben bezáró létesítmények listáját megküldi az Európai Bizottság részére, és nemzeti kiosztási táblában – annak esetleges újbóli kereskedelmi rendszer hatálya alá való kerülését követő új belépő kérelméig – többet nem szerepelteti a létesítményt.
 
-[^54]: A 12. § a 131/2015. (V. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^55]: A 12. § (1) bekezdés b) pontja a 394/2016. (XII. 5.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
-[^56]: A 12. § (1) bekezdés c) pontja a 394/2016. (XII. 5.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^57]: A 12. § (2) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^58]: A 12. § (3) bekezdés nyitó szövegrésze a 178/2016. (VII. 1.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
-[^59]: A 12. § (4) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^60]: A 12. § (5) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^64]: A 12. § a 131/2015. (V. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^65]: A 12. § (1) bekezdés b) pontja a 394/2016. (XII. 5.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^66]: A 12. § (1) bekezdés c) pontja a 394/2016. (XII. 5.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^67]: A 12. § (1a) bekezdése a 435/2017. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^68]: A 12. § (2) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^69]: A 12. § (3) bekezdés nyitó szövegrésze a 178/2016. (VII. 1.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^70]: A 12. § (4) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^71]: A 12. § (5) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.

@@ -1,14 +1,20 @@
-3. §[^27] (1)[^28] Az üzemeltető a harmadik kereskedési időszakban minden tárgyévet követő év január 20-ig
+3. §[^29] (1)[^30] Az üzemeltető a harmadik kereskedési időszakban minden tárgyévet követő év január 20-ig
 
 a) a létesítmény kapacitásával, tevékenységi szintjével és működésével kapcsolatos, az Ügkr. tv. 2. § 13., 40. és 41. pontjában foglaltaknak megfelelő jelentős, a tárgyévben bekövetkezett tényleges változásról akkreditált hitelesítő szervezet által hitelesített,
 
 b) az Ügkr. tv. 2. § 12., 13., 40. és 41. pontjában foglaltaknak megfelelő, továbbá a 12. § (1) bekezdése, valamint a 12/A. § (1) és (3) bekezdése szerinti, a tárgyévet követő évre vonatkozó bármely tervezett változásról, valamint
 
-c) ha a létesítményben a tárgyévre vonatkozóan nem történt a térítésmentesen kiosztandó kibocsátási egységek mennyiségét csökkentő, az a) pontban hivatkozott tényleges jelentős változás, akkor ennek tényéről
+c)[^31] ha a létesítményben
 
-## elektronikus jelentést nyújt be az államháztartásért felelős miniszternek (a továbbiakban: miniszter) az általa vezetett minisztérium (a továbbiakban: Minisztérium) honlapján közzétett módon.
+ca) a tárgyévre vonatkozóan nem történt a térítésmentesen kiosztandó kibocsátási egységek mennyiségét csökkentő, az a) pontban hivatkozott tényleges jelentős változás;
 
-(1a)[^29] Nem kell benyújtani az (1) bekezdés c) pontja szerinti nyilatkozatot
+cb) az a) pontban hivatkozott ténylegesen jelentős változáson átesett létesítményrészen túlmenően olyan, legalább egy további létesítményrész is található, amelyre vonatkozóan a korábban kiosztásra megállapított kvótamennyiséget nem szükséges módosítani;
+
+cc) korábban a kiosztandó kibocsátási egységmennyiséget módosító jelentős változás következett be, és azóta nem következett be olyan újabb változás, amely ismét szükségessé tenné az egységek legutóbb elfogadott számának módosítását, akkor ennek tényéről
+
+## elektronikus jelentést nyújt be miniszternek az általa vezetett minisztérium (a továbbiakban: Minisztérium) honlapján közzétett módon.
+
+(1a)[^32] Nem kell benyújtani az (1) bekezdés c) pontja szerinti nyilatkozatot
 
 a) annak a létesítménynek, amely az összes hőjét exportálja egy vagy több, az Ügkr. tv. hatálya alá tartozó létesítmény számára, valamint
 
@@ -40,21 +46,24 @@ b) ha a létesítményre vonatkozóan jelentős változás miatti adatszolgálta
 
 (7) Ha az üzemeltető által az (1) és (6) bekezdés alapján tett jelentés a tárgyévet követő év vonatkozásában a térítésmentesen kiosztásra kerülő kibocsátási egységek mennyiségében változást eredményez a tárgyévre vonatkozó utolsó nemzeti kiosztási táblában térítésmentes kiosztásra megállapított kibocsátási egységek számához képest, úgy a tárgyévre és az adott kereskedési időszak további éveire kiosztásra kerülő kibocsátási egységek mennyiségét az üzemeltető részére a miniszter határozatban állapítja meg.
 
-(8) Ha a tárgyévet megelőző évben nem történt a létesítmény működésében a térítésmentesen kiosztandó kibocsátási egység mennyiségét csökkentő jelentős változás, úgy egyszerűsített eljárás keretében, az (1) bekezdés c) pontja szerinti jelentés alapján a miniszter által kiadott határozat jogerőre emelkedését követően a hatóság az érintett létesítmény részére az adott évre vonatkozóan kiosztja a korábban megállapított kibocsátási egységmennyiséget. Ha a létesítményt érintően olyan, e rendelet szerinti eljárás van folyamatban, amely a térítésmentesen kiosztandó kibocsátási egységmennyiségnél több egységmennyiséget állapít meg, egyszerűsített eljárás keretében a miniszter által kiadott határozat alapján a hatóság az érintett létesítmény részére az adott évre vonatkozóan kiosztja a korábban megállapított kibocsátási egységmennyiséget, míg a többlet-egységmennyiség kiosztására a többlet-egységmennyiség megállapításáról szóló miniszteri határozat jogerőre emelkedését követően kerül sor.
+(8)[^33] Ha a tárgyévet megelőző évben nem történt a létesítmény működésében a térítésmentesen kiosztandó kibocsátási egység mennyiségét csökkentő jelentős változás, úgy egyszerűsített eljárás keretében, az (1) bekezdés c) pontja szerinti jelentés alapján a miniszter tájékoztatását követően a hatóság az érintett létesítmény részére az adott évre vonatkozóan kiosztja a korábban megállapított kibocsátási egységmennyiséget. Ha a létesítményt érintően olyan, e rendelet szerinti eljárás van folyamatban, amely a térítésmentesen kiosztandó kibocsátási egységmennyiségnél több egységmennyiséget állapít meg, egyszerűsített eljárás keretében a miniszter által kiadott határozat alapján a hatóság az érintett létesítmény részére az adott évre vonatkozóan kiosztja a korábban megállapított kibocsátási egységmennyiséget, míg a többlet-egységmennyiség kiosztására a többlet-egységmennyiség megállapításáról szóló miniszteri határozat jogerőre emelkedését követően kerül sor.
 
 (9) A (7) és (8) bekezdés tekintetében az ügyintézési határidő az (1) bekezdésben meghatározott jelentés miniszterhez történő megérkezését követő napot követő hónap utolsó napja.
 
-(10) Az e § szerinti adatszolgáltatási és jelentéstételi kötelezettségek teljesítéséhez a miniszter jogosult önálló elektronikus rendszert létrehozni az üzemeltetők megfelelő tájékoztatása mellett.
+(10)[^34] Az e § szerinti adatszolgáltatási és jelentéstételi kötelezettségek teljesítéséhez a miniszter jogosult önálló elektronikus rendszert létrehozni az üzemeltetők megfelelő tájékoztatása mellett. Erről a tényről a miniszter az önálló elektronikus rendszer üzembe helyezését követő 15 napon belül tájékoztatja az üzemeltetőket.
 
-(11)[^30] A miniszter az (1) bekezdés a) és c) pontjai szerinti kötelezettség teljesítésének ellenőrzését a hatósággal együttműködve végzi. A hatóság az ellenőrzés keretében készült jegyzőkönyvek másolatát a miniszter részére megküldi.
+(11)[^35] A miniszter az (1) bekezdés a) és c) pontjai szerinti kötelezettség teljesítésének ellenőrzését a hatósággal együttműködve végzi. A hatóság az ellenőrzés keretében készült jegyzőkönyvek másolatát a miniszter részére megküldi.
 
-(12)[^31] A hatóság az (1) bekezdés a) és c) pontja szerinti kötelezettség megfelelő teljesítésének ellenőrzésén túlmenően a miniszterrel együttműködve hatósági ellenőrzés keretében felülvizsgálja a térítésmentes kibocsátási egység kiosztás alapjául szolgáló adatok megfelelőségét is.
+(12)[^36] A hatóság az (1) bekezdés a) és c) pontja szerinti kötelezettség megfelelő teljesítésének ellenőrzésén túlmenően a miniszterrel együttműködve hatósági ellenőrzés keretében felülvizsgálja a térítésmentes kibocsátási egység kiosztás alapjául szolgáló adatok megfelelőségét is.
 
-(13)[^32] A hatóság a miniszter részére hozzáférést biztosít az 1. § (2) bekezdés, a 4. § (2) és (6) bekezdése szerinti önálló elektronikus rendszer információihoz.
+(13)[^37] A hatóság a miniszter részére hozzáférést biztosít az 1. § (2) bekezdés, a 4. § (2) és (6) bekezdése szerinti önálló elektronikus rendszer információihoz.
 
-[^27]: A 3. § a 131/2015. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^28]: A 3. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 65. § (1) bekezdésével megállapított szöveg.
-[^29]: A 3. § (1a) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^30]: A 3. § (11) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be, szövege a 394/2016. (XII. 5.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^31]: A 3. § (12) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be.
-[^32]: A 3. § (13) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^29]: A 3. § a 131/2015. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^30]: A 3. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 65. § (1) bekezdésével megállapított, záró szövegrésze a 435/2017. (XII. 21.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^31]: A 3. § (1) bekezdés c) pontja a 435/2017. (XII. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^32]: A 3. § (1a) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^33]: A 3. § (8) bekezdése a 435/2017. (XII. 21.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^34]: A 3. § (10) bekezdése a 435/2017. (XII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^35]: A 3. § (11) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be, szövege a 394/2016. (XII. 5.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^36]: A 3. § (12) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^37]: A 3. § (13) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be.

@@ -8,7 +8,7 @@
 
 (4)[^2] A kibocsátási engedély iránti kérelmet a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 66. §-ában meghatározott, a környezethasználat feltételeit megállapító hatósági határozat jogerőre emelkedését követően lehet benyújtani a hatósághoz.
 
-(5)[^3] A hatóság a kibocsátási engedélyt a környezethasználat feltételeit megállapító hatósági határozat alapján adja ki, ha megállapítja, hogy az üzemeltető megfelel az Ügkr. tv.-ben foglalt feltételeknek. A kibocsátási engedély részletes tartalmi követelményeit a 3. melléklet állapítja meg. A hatóság a kibocsátási engedély másolatát megküldi a miniszter részére.
+(5)[^3] A hatóság a kibocsátási engedélyt a környezethasználat feltételeit megállapító hatósági határozat alapján adja ki, ha megállapítja, hogy az üzemeltető megfelel az Ügkr. tv.-ben foglalt feltételeknek. A kibocsátási engedély részletes tartalmi követelményeit a 3. melléklet állapítja meg. A hatóság a kibocsátási engedély másolatát megküldi az államháztartásért felelős miniszter (a továbbiakban: miniszter) részére.
 
 (6)[^4] Az üzemeltető a kibocsátások nyomonkövetését a 601/2012/EU Bizottsági rendeletben meghatározottak szerint végzi az 5. mellékletben meghatározottakkal összhangban.
 
@@ -20,13 +20,19 @@ b) a 127/1991. Korm. rendelet szerint szükséges, etalonra visszavezethető mé
 
 (8)[^7] Az üzemeltetőnél felhasznált forrásanyag mennyiséggnek számbavételére szolgáló, a 127/1991. Korm. rendelet szerint szükséges, etalonra visszavezethető mérőrendszerek hitelesítési és kalibrálási bizonyítványait kibocsátó szervezetek kötelesek feltüntetni a hitelesítési és kalibrálási bizonyítványokon a pontosságot vagy a hibahatárt, az érvényességet, valamint a további kalibrációk javasolt gyakoriságát. Az üzemeltető és annak forrásanyag szolgáltatója, beszállítója csak az így kiállított hitelesítési és kalibrálási bizonyítványokat köteles befogadni a hitelesítési és kalibrálási bizonyítványokat kibocsátó szervezetektől.
 
-(9)[^8]
+(9)[^8] A forrásanyag szolgáltatója, beszállítója a (7) és (8) bekezdésekben meghatározott mérőeszközök, mérőrendszerek érvényes hitelesítési vagy kalibrálási bizonyítványának a másolatát a felszerelés időpontjától számított 15 napon belül köteles átadni az üzemeltető részére.
+
+(10)[^9] Ha a forrásanyag szolgáltatója, beszállítója a hitelesítési bizonyítvány másolatát az üzemeltető részére a (9) bekezdésben meghatározottak szerint nem adja át, akkor a hitelesítési bizonyítványt kiállító hatóságtól való beszerzése érdekében a hatóság határidő tűzésével kötelezi a forrásanyag szolgáltatóját, beszállítóját a mérőműszer szükséges adatainak közlésére. A forrásanyag szolgáltatója, beszállítója által közölt adatok alapján a hitelesítési bizonyítványt a hatóság szerzi be.
+
+(11)[^10] Ha a forrásanyag szolgáltatója, beszállítója a kalibrálási bizonyítvány másolatát az üzemeltető részére a (9) bekezdésben meghatározottak szerint nem adja át, akkor a hatóság határidő tűzésével kötelezi a forrásanyag szolgáltatóját, beszállítóját a kalibrálási bizonyítvány hatóság részére történő átadására.
 
 [^1]: Az 1. § (2) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 216. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (4) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (5) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^3]: Az 1. § (5) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 7. §-ával megállapított, a 435/2017. (XII. 21.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (6) bekezdése a 178/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^5]: Az 1. § (7) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 178/2016. (VII. 1.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § (7) bekezdés a) pontja a 178/2016. (VII. 1.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (8) bekezdését a 329/2013. (IX. 3.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 131/2015. (V. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 178/2016. (VII. 1.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^8]: Az 1. § (9) bekezdését a 329/2013. (IX. 3.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 131/2015. (V. 27.) Korm. rendelet 19. §-a.
+[^8]: Az 1. § (9) bekezdését újonnan a 435/2017. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^9]: Az 1. § (10) bekezdését a 435/2017. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^10]: Az 1. § (11) bekezdését a 435/2017. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
