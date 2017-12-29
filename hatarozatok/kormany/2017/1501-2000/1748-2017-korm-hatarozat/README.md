@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1748-30
 | --- | --- | --- |
 | 2017-10-25 | 2017-1748-30-22.1 | 1748/2017. (X. 25.) Korm. határozat |
 | 2017-11-07 | 2017-1748-30-22.2 | 1748/2017. (XI. 7.) Korm. határozat |
+| 2017-12-29 | 2017-1748-30-22.3 | 2144/2017. (XII. 29.) Korm. határozat |
