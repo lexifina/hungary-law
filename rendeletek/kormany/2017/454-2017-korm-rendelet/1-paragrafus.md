@@ -1,1 +1,0 @@
-## 1. A nemzetközi kiállításokra vonatkozó, Párizsban, az 1928. évi november hó 22. napján kelt egyezmény módosításáról szóló, Párizsban, az 1972. évi november hó 30. napján kelt jegyzőkönyv kihirdetéséről szóló 21/1982. (V. 24.) MT rendelet módosítása
