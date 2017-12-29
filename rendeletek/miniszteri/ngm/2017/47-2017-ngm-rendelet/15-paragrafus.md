@@ -1,4 +1,4 @@
-## 13–14. §[^6]
+## 13–14. §[^9]
 
 15. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) A 12. § (4) bekezdése és a 4. melléklet 2018. július 1-jén lép hatályba.
 
-[^6]: A 13–14. § a 15. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^9]: A 13–14. § a 15. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

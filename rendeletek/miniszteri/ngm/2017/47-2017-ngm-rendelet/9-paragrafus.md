@@ -1,3 +1,3 @@
-## 8. § A 45/2016. NGM rendelet 61. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^2]
 
-## „(1) A Jöt. 9. § (4) bekezdés b) pontja szerinti elismert mennyiségű hiány a tényleges hiánynak legfeljebb a 7. mellékletben meghatározott mértéke. Tárolás után elismert mennyiségű hiány a nyilvántartás szerinti napi zárókészletek elszámolási időszakra vetített átlagára számolható el.”
+[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
