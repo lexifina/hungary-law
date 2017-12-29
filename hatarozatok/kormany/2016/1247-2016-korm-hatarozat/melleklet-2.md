@@ -38,7 +38,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 16. | IKOP-1.1.0-15 | M70 autóút Letenye– Tornyiszentmiklós közötti szakasz 2×2 sávra történő bővítése kiegészítő munkák | NIF Zrt. | 2,46 (96,1% támogatási intenzitás szerint csökkentett összeg) | A projekttel szembeni szakmai elvárás M70 autópálya kiegészítő munkálatainak elvégzése: 1. A 9+195–9+535 kilométerszelvény között (340 m hosszban), valamint a 11+510–11+850 kilométerszelvény között (340 m hosszban) a bal pálya szélesítése és a jobb pálya építése szalagkorláttal. 2. A 9+535–11+510 kilométerszelvény között (1975 m hosszban) a szalagkorlát cseréje. 3. Tornyiszentmiklós pihenőhely 20+600 km szelvényben lévő térfigyelő és forgalomfigyelő kamera és portálszerkezet telepítése, valamint a Tornyiszentmiklós pihenőhelyhez mintegy 350 m hosszban üzemi forduló építése. 4. A jobb és bal pálya kopóréteg kifuttatása és szalagkorlát cseréje a kezdő szelvény előtt a 3+295–3+760 kilométerszelvény között, valamint a végszelvény után a 16+510–17+000 kilométerszelvény közötti szakaszon, valamint 4 cm kopóréteg marása és szőnyegezése a 9+535–11+510 kilométerszelvény között (1975 m hosszban). |
 
-| 16a. | IKOP-1.1.0-15 | „Vámoscsalád” tengelyterhelés- és össztömegmérő állomással kombinált egyszerű pihenőhely és „Rábaköz” komplex pihenőhely építése | NIF Zrt. | 7,59 (becsült támogatási intenzitás: 100% | Az M86 gyorsforgalmi út Szombathely–Csorna közötti szakaszán, a 110+800 és 111+300 km között tengelyterhelés- és össztömegmérő állomással kombinált egyszerű pihenőhely, valamint komplex pihenőhely kivitelezése |
+| 16a. | IKOP-1.1.0-15 | „Vámoscsalád” tengelyterhelés- és össztömegmérő állomással kombinált egyszerű pihenőhely és „Rábaköz” komplex pihenőhely építése | NIF Zrt. | 7,59 (becsült támogatási intenzitás: 100%) | Az M86 gyorsforgalmi út Szombathely–Csorna közötti szakaszán, a 110+800 és 111+300 km között tengelyterhelés- és össztömegmérő állomással kombinált egyszerű pihenőhely, valamint komplex pihenőhely kivitelezése |
 
 | 17. | IKOP-1.1.0-15 | M30 autópálya Miskolc–Tornyosnémeti projekt megvalósítása | NIF Zrt. | 181,11 (90% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autópálya építése. |
 
@@ -96,7 +96,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 44. | IKOP-2.1.0-15 | 6 db 200 férőhelyes motorvonat beszerzése az 1. sz. vasútvonalra | MÁV-START Zrt. | 10,89 (támogatási intenzitás: 100%) | A projekt 6 db 200 ülőhelyes, 160 km/h sebességű elővárosi villamos motorvonat beszerzésére irányul, ETCS2 felszereltséggel. |
 
-| 45. | IKOP-2.1.0-15 | Szűk keresztmetszet kiváltás előkészítése a MÁV hálózatán | NIF Zrt. | 3,00 (támogatási intenzitás: 100%) | A vasútvonalak sebességkorlátozásainak megszüntetését, kiépítéskori ‡llapot‡nakhelyreállítását célzó felújítások megvalósíthatósági és engedélyezési terveinek készítése. |
+| 45. | IKOP-2.1.0-15 | Szűk keresztmetszet kiváltás előkészítése a MÁV hálózatán | NIF Zrt. | 3,00 (támogatási intenzitás: 100%) | A vasútvonalak sebességkorlátozásainak megszüntetését, kiépítéskori állapotánakhelyreállítását célzó felújítások megvalósíthatósági és engedélyezési terveinek készítése. |
 
 | 46. | IKOP-2.1.0-15 | A magyar vasúti műszaki és üzemi szabályok korszerűsítésére, az új előírások, szabályok, rendeletek és utasítások rendszerének megalkotása | MAÚT Magyar Út- és Vasútügyi Társaság | 1,00 (támogatási intenzitás: 100%) | A projekttel szembeni szakmai elvárás a magyar vasúti műszaki szabályozás felülvizsgálata, a nemzeti szabályok megfogalmazása, valamint a végrehajtáshoz szükséges tervek előkészítése, a szabályozási hierarchia elemeinek összehangolása, megfogalmazása, tervezetek elkészítése a nemzeti érdekek érvényre juttatása az európai uniós előírások figyelembevételével. Elvárás továbbá a nemzeti érdekérvényesítés intézményrendszerének kidolgozása és felállítása. |
 
@@ -104,7 +104,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 48. | IKOP-2.1.0-15 | Sopron–Szombathely–Szentgotthárd ETCS2 vonatbefolyásoló rendszer kiépítése | GYSEV Zrt. | 10,00 (támogatási intenzitás: 100%) | ETCS2 biztosítóberendezés telepítése. |
 
-| 49. | IKOP-2.1.0-15 | PŸspšklad‡ny–Debrecen vasútvonal korszerűsítése, Debrecen állomás részleges átépítése és Szajol–Debrecen vasútvonalon ETCS2 vonatbefolyásoló rendszer kiépítése | NIF Zrt. | 121,00 (támogatási intenzitás: 100%) | Pályarekonstrukció Püspökladány–Debrecen és ETCS2 biztosítóberendezés telepítése Szajol–Debrecen vasúti vonalszakaszokon. Cél a 160 km/órás sebesség bevezetése. Debrecen állomás részleges átalakítása az intermodális csomóponttal összhangban. |
+| 49. | IKOP-2.1.0-15 | Püspökladány–Debrecen vasútvonal korszerűsítése, Debrecen állomás részleges átépítése és Szajol–Debrecen vasútvonalon ETCS2 vonatbefolyásoló rendszer kiépítése | NIF Zrt. | 121,00 (támogatási intenzitás: 100%) | Pályarekonstrukció Püspökladány–Debrecen és ETCS2 biztosítóberendezés telepítése Szajol–Debrecen vasúti vonalszakaszokon. Cél a 160 km/órás sebesség bevezetése. Debrecen állomás részleges átalakítása az intermodális csomóponttal összhangban. |
 
 | 50. | IKOP-2.1.0-15 | Vasúti vontatási energiaellátás fejlesztése a MÁV hálózatán | NIF Zrt. | 14,00 (támogatási intenzitás: 100%) | Vontatási alállomások felújítása és bővítése, felsővezetéki rendszer felújítása a hálózat túlterhelésének és feszültségleesések csökkentése érdekében. |
 
@@ -144,9 +144,9 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 65c. | IKOP-2.1.0-15 | GSM-R távközlési hálózat kiépítése II. ütem megvalósítás | NIF Zrt. | 18,62 (támogatási intenzitás: 100%) | A CEF-ből finanszírozni tervezett projektelemeket kiegészítő, TEN-T hálózatot érintő 1044 km szakaszon rádiós kommunikációs és forgalomirányítási rendszer kiépítése. |
 
-| 65d. | IKOP-2.1.0-15 | Gödöllő állomás korszerűsítése | NIF Zrt. | 17,74 (támogatási intenzitás: 100%) | Gödöllő állomás korszerűsítése, P+R parkoló létesítése. |
+| 65d. | IKOP-2.1.0-15 | Gödöllő állomás korszerűsítése | NIF Zrt. | 18,58 (támogatási intenzitás: 100%) | Gödöllő állomás korszerűsítése, P+R parkoló létesítése. |
 
-| 65e. | IKOP-2.1.0-15 | Budapest–Hatvan vasútvonalon elővárosi célú fejlesztések | NIF Zrt. | 16,21 (támogatási intenzitás: 100%) | Megállóhelyek és állomások elővárosi célú fejlesztése, akadálymentesítése, P+R parkolók építése. |
+| 65e. | IKOP-2.1.0-15 | Budapest–Hatvan vasútvonalon elővárosi célú fejlesztések | NIF Zrt. | 15,37 (támogatási intenzitás: 100%) | Megállóhelyek és állomások elővárosi célú fejlesztése, akadálymentesítése, P+R parkolók építése. |
 
 | 65f. | IKOP-2.1.0-15 | Zalaszentiváni deltavágány előkészítése | GYSEV Zrt. | 0,35 (támogatási intenzitás: 100%) | Zalaszentiváni deltavágány előkészítése, tervezés, engedélyeztetés. |
 
@@ -220,7 +220,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 94. |  |  |  |  |  |
 
-| 95. | IKOP-3.2.0-15 | Nyíregyháza megyei jogú város közösségi közlekedésének fejlesztése érdekében 47 db új autóbusz (41 db CNG és 6 db elektromos meghajtású) beszerzése, töltőállomás létesítése és autóbusz-telephely kialakítása | Nyíregyháza Megyei Jogú Város Önkormányzata | 7,00 (támogatási intenzitás: 100%) | 41 db CNG és 6 db elektromos hajtású új autóbusz beszerzése, valamint a kapcsolódó töltõállomás kivitelezése és autóbusz-telephely kialakítása. |
+| 95. | IKOP-3.2.0-15 | Nyíregyháza megyei jogú város közösségi közlekedésének fejlesztése érdekében 47 db új autóbusz (41 db CNG és 6 db elektromos meghajtású) beszerzése, töltőállomás létesítése és autóbusz-telephely kialakítása | Nyíregyháza Megyei Jogú Város Önkormányzata | 7,00 (támogatási intenzitás: 100%) | 41 db CNG és 6 db elektromos hajtású új autóbusz beszerzése, valamint a kapcsolódó töltőállomás kivitelezése és autóbusz-telephely kialakítása. |
 
 | 96. | IKOP-3.2.0-15 | Kaposvár megyei jogú város intermodális pályaudvar és a hozzá kapcsolódó közösségi közlekedés fejlesztése | A Kaposvári Közlekedési Zártkörűen Működő Részvénytársaság és a NIF Zrt. konzorciuma | 14,10 (támogatási intenzitás: 100%) | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése. |
 
@@ -260,4 +260,4 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 42,53 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
 
-[^8]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja, a 2106/2017. (XII. 28.) Korm. határozat 1. pontja szerint módosított szöveg.
