@@ -1,0 +1,1 @@
+A kárpátaljai magyar színészek, médiamunkatársak, közművelődési és könyvtári dolgozók támogatásáról és az önkormányzati dolgozók szakmai fejlődésének elősegítéséről szóló 1641/2016. (XI. 17.) Korm. határozatban a „közművelődési és könyvtári dolgozók” szövegrész helyébe a „közművelődési, könyvtári és egészségügyi dolgozók” szöveg lép.
