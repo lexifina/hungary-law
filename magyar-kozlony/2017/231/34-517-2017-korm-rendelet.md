@@ -1,0 +1,87 @@
+# A Kormány 517/2017. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 231. szám, 2017. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5ebe88b75bec2ef87e7168b63aee3434f184a970/dokumentumok/689a668adbebd45b4f640eadb85a5b25173d8910/letoltes)
+
+---
+
+A Kormány 517/2017. (XII. 29.) Korm. rendelete
+a vasúti közlekedés biztonságával összefüggő munkaköröket betöltő munkavállalókkal szemben támasztott
+egészségügyi követelményekről és az egészségügyi vizsgálat rendjéről szóló
+203/2009. (IX. 18.) Korm. rendelet módosításáról
+A Kormány a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (1) bekezdés 7. pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A vasúti közlekedés biztonságával összefüggő munkaköröket betöltő munkavállalókkal szemben támasztott
+egészségügyi követelményekről és az egészségügyi vizsgálat rendjéről szóló 203/2009. (IX. 18.) Korm. rendelet
+(a továbbiakban: R.) 2. §-a a következő f) ponttal egészül ki:
+(E rendelet alkalmazásában:)
+„f) szakértő: a vizsgálatot vagy kiértékelést végző orvos, valamint a közreműködő pszichológus.”
+2. §
+Az R. 22. §-a helyébe a következő rendelkezés lép:
+„22. § Az egészségi alkalmasság vizsgálatát és véleményezését – a tanúsító szervezet nevében eljáró –
+a 22/A. §-ban meghatározott feltételeket teljesítő, a közlekedési hatóság által nyilvántartásba vett szakértő
+folytatja le. A közlekedési hatóság által történő nyilvántartásba vétel a 2007/59/EK európai parlamenti és tanácsi
+irányelv 20. cikk (2) bekezdése szerinti elismerésnek minősül, és nem tagadható meg, ha a szakértő a 22/A. §-ban
+meghatározott feltételeknek megfelel.”
+3. §
+Az R. a következő 22/A–22/B. §-sal egészül ki:
+„22/A. § (1) Az egészségi alkalmassági vizsgálatot végző vagy véleményező orvosnak
+a) rendelkeznie kell üzemorvostan vagy foglalkozás-orvostan szakvizsgával, és
+b) – a (2) bekezdésben foglalt kivétellel – ismernie kell az 1. mellékletben meghatározott munkakörökre és a vasúti
+közlekedésre jellemző veszélyeket, az e veszélyekből eredő kockázatok következményeit, azok kiküszöbölésének
+vagy csökkentésének módjait, melyhez legalább 1 éves szakmai gyakorlatot kell igazolnia.
+(2) Az (1) bekezdés b) pontjában előírt gyakorlattal nem rendelkező orvos az önálló munkavégzéshez szükséges
+szakmai gyakorlat megszerzése céljából a vizsgálat véleményezését az előírt feltételeket teljesítő, a közlekedési
+hatóság nyilvántartásában szereplő orvos szakmai felügyelete mellett végezheti.
+(3) Az egészségi alkalmassági vizsgálatban közreműködő pszichológusnak
+a) rendelkeznie kell munka és szervezet pszichológusi vagy klinikai pszichológusi diplomával és működési
+engedéllyel, és
+b) ismernie kell a vasúti munkavégzés pszichés és mentális követelményeit, az esetleges kockázatok
+következményeit, azok kiküszöbölésének vagy csökkentésének módjait, melyhez legalább 1 éves szakmai
+gyakorlatot kell igazolnia.
+(4) A szakértő
+a) nem lehet a vizsgált személy Polgári Törvénykönyv szerinti közeli hozzátartozója,
+b) nem állhat a közlekedési hatósággal kormányzati szolgálati jogviszonyban, vasúti társasággal munkaviszonyban,
+valamint munkavégzésre irányuló egyéb jogviszonyban,
+c) nem lehet vasúti társaságnak vezető tisztségviselője, felügyelőbizottságának tagja.
+(5) A szakértő munkaszerződésében vagy megbízási szerződésében foglalt jogait és kötelezettségeit, valamint
+a munkavégzésének feltételeit úgy kell meghatározni, hogy az e rendelet szerinti feladatai ellátása során
+a befolyásmentesség és a független döntéshozatal biztosított legyen.
+22/B. § (1) A szakértő köteles haladéktalanul írásban a tanúsító szervezet részére bejelenteni, ha vele szemben
+a 22/A. § (4) bekezdése szerinti összeférhetetlenségi ok áll fenn.
+(2) A tanúsító szervezet a szakértőt írásban szólítja fel az összeférhetetlenség megszüntetésére.
+(3) A szakértő az (1) bekezdés szerinti bejelentés napjától kezdve az e rendelet szerinti feladatokat mindaddig nem
+láthatja el, míg a 22/A. § (4) bekezdése szerinti összeférhetetlenségi ok fennáll.
+(4) Ha az összeférhetetlenség a felszólítás kézbesítésétől számított harminc napon belül nem szűnik meg, a tanúsító
+szervezet írásban haladéktalanul kezdeményezi a közlekedési hatóságnál a szakértő nyilvántartásból történő
+törlését.
+(5) Ha a tanúsító szervezet megállapítja, hogy a szakértővel szemben fennáll valamely, a 22/A. § (4) bekezdése
+szerinti összeférhetetlenségi ok, és ezt az (1) bekezdés szerint nem jelentette a tanúsító szervezetnek, a tanúsító
+
+szervezet írásban haladéktalanul kezdeményezi a közlekedési hatóságnál a szakértő nyilvántartásból történő
+törlését, és felfüggeszti a szakértő e rendelet szerinti tevékenységét.
+(6) Az a szakértő, aki az (5) bekezdésben szereplő okból kerül a közlekedési hatóság által vezetett nyilvántartásból
+törlésre, a 22/A. § (4) bekezdésében szereplő összeférhetetlenségi követelményeknek történő megfelelését
+követően 2 évig önálló szakértői tevékenységet nem végezhet, és a szakértői nyilvántartásba sem vehető fel.”
+4. §
+Az R. 23. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A szakértőt a közlekedési hatóság a nyilvántartásából törli, amennyiben:
+a) a nyilvántartásba vett személy ezt kérelmezi,
+b) a nyilvántartásba vett személy elhalálozott,
+c) a nyilvántartásba vett személy a tevékenység végzésére vonatkozó, külön jogszabályban előírt jogosultságát
+elveszti,
+d) a 22/B. § (4) és (5) bekezdése szerinti esetekben, vagy
+e) a nyilvántartásba vett személyt a foglalkozástól jogerősen eltiltották.”
+5. §
+Az R.
+a) 13. § (1) bekezdés d) pontjában az„orvos-szakértői”szövegrész helyébe az„orvosi”szöveg,
+b) 23. § (1) bekezdés c) pontjában az„orvosi”szövegrész helyébe az„orvos esetén orvosi”szöveg
+lép.
+6. §
+Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
+7. §
+Ez a rendelet a közösségi vasúti rendszereken mozdonyokat és vonatokat működtető mozdonyvezetők
+minősítéséről szóló, 2007. október 23-i 2007/59/EK európai parlamenti és tanácsi irányelv 20. cikk (2) bekezdésének
+való megfelelést szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök
