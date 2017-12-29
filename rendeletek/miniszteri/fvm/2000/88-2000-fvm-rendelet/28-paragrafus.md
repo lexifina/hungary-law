@@ -1,1 +1,0 @@
-## Erdőleírás és terepi tervezés
