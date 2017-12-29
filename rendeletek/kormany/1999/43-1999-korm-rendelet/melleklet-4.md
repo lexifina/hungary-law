@@ -1,3 +1,3 @@
-4. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^608]
+4. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^609]
 
-[^608]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 34. § 16. pontja szerint módosított szöveg.
+[^609]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 34. § 16. pontja szerint módosított szöveg.
