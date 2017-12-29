@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1011-30
 | 2017-08-19 | 2016-1011-30-22.9 | 1202/2016. (IV. 15.) Korm. határozat |
 | 2017-09-06 | 2016-1011-30-22.10 | 1202/2016. (IV. 15.) Korm. határozat |
 | 2017-11-01 | 2016-1011-30-22.11 | 1202/2016. (IV. 15.) Korm. határozat |
+| 2017-12-29 | 2016-1011-30-22.12 | 1202/2016. (IV. 15.) Korm. határozat |
