@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-383-20-
 | 2017-03-21 | 2016-383-20-22.5 | 52/2017. (III. 20.) Korm. rendelet |
 | 2017-06-17 | 2016-383-20-22.6 | 135/2017. (VI. 9.) Korm. rendelet |
 | 2017-07-01 | 2016-383-20-22.7 | 171/2017. (VI. 29.) Korm. rendelet |
+| 2017-12-29 | 2016-383-20-22.8 | 433/2017. (XII. 21.) Korm. rendelet |
