@@ -1,1 +1,0 @@
-## 5. § Amennyiben az Etv. 73. §-ának (3) bekezdése alapján megállapítható, hogy a HM kezelésében lévő, nem erdő művelési ágba tartozó területeken történt erdőtelepítés erdőgazdálkodási tevékenységet közvetlenül nem szolgál, az erdészeti hatóság – a feltételek fennállása esetén és idejére – felmentést adhat az erdő művelési ágba való átminősítés kötelezettsége alól.
