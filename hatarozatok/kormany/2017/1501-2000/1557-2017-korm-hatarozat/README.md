@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1557-30
 | 2017-08-19 | 2017-1557-30-22.1 | 1557/2017. (VIII. 18.) Korm. határozat |
 | 2017-08-20 | 2017-1557-30-22.2 | 2010: CXXX. törvény |
 | 2017-12-19 | 2017-1557-30-22.3 | 1996/2017. (XII. 19.) Korm. határozat |
+| 2017-12-29 | 2017-1557-30-22.4 | 2106/2017. (XII. 28.) Korm. határozat |

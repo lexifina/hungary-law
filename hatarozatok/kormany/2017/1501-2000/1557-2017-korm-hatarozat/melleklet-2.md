@@ -8,12 +8,14 @@
 
 | 4. | Európai Hálózat- finan- szírozási Eszköz | Budapest–Hatvan vonalszakasz korszerűsítése: Keleti pályaudvar– Kőbánya-felső és a Rákos–Hatvan vonalszakasz korszerűsítése, valamint az ETCS 2 vonatbe-folyásoló rendszer kiépítése Rákos– Hatvan között | Az állam | NIF Zrt. | 123 394 530 685 | 156 246 656 744 | 102 803 037 309 | 53 443 619 436 | +7 773 049 731 | +9 735 388 594 | –9 547 754 274 | +19 283 142 867 | 131 167 580 416 | 165 982 045 338 | 93 255 283 035 | 72 726 762 303 | A projekt keretében a Keleti pályaudvar – Kőbánya-felső állomás közötti vasúti vonalszakaszon egy harmadik vágányt építenek ki. Emellett a Rákos–Hatvan közötti vasúti vonalszakasz vasúti pályáját és a biztosítóberendezéseit korszerűsítik, valamint ugyane vonalszakaszon az ETCS 2. szintjének megfelelő vonatbefolyásoló rendszert építenek ki a vonatkozó uniós és hazai előírásoknak és elvárásoknak megfelelően. |
 
-2. melléklet az 1557/2017. (VIII. 18.) Korm. határozathoz
+2. melléklet az 1557/2017. (VIII. 18.) Korm. határozathoz[^3]
 
 |  | A | B | C | D | E | F |
 
 | 1. | Kapcsolódó program megnevezése | Projektjavaslat megnevezése | Támogatást igénylő neve | Projektjavaslat tervezett költsége (nettó, Ft) | Projektjavaslat tervezett összköltsége (bruttó, Ft) | Projektjavaslat rövid bemutatása |
 
-| 2. | Integrált Közlekedésfejlesztési Operatív Program | Gödöllő állomás korszerűsítése | NIF Zrt. | 17 738 469 154 | 22 483 795 221 | Gödöllő állomás korszerűsítése, P+R parkoló létesítése. |
+| 2. | Integrált Közlekedésfejlesztési Operatív Program | Gödöllő állomás korszerűsítése | NIF Zrt. | 18 580 000 000 | 23 551 233 623 | Gödöllő állomás korszerűsítése, P+R parkoló létesítése. |
 
-| 3. | Integrált Közlekedésfejlesztési Operatív Program | Budapest–Hatvan vasútvonalon elővárosi célú fejlesztések | NIF Zrt. | 16 212 464 904 | 20 563 248 576 | Megállóhelyek és állomások elővárosi célú fejlesztése, akadálymentesítése, P+R parkolók építése. |
+| 3. | Integrált Közlekedésfejlesztési Operatív Program | Budapest–Hatvan vasútvonalon elővárosi célú fejlesztések | NIF Zrt. | 15 370 934 058 | 19 495 810 174 | Megállóhelyek és állomások elővárosi célú fejlesztése, akadálymentesítése, P+R parkolók építése. |
+
+[^3]: A 2. melléklet a 2106/2017. (XII. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
