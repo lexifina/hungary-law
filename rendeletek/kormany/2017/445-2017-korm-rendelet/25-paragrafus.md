@@ -2,12 +2,12 @@
 
 ## 25. § Hatályát veszti a Knyr.
 
-1–2.[^10]
+1–2.[^14]
 
-3.[^11]
+3.[^15]
 
-4–10.[^12]
+4–10.[^16]
 
-[^10]: A 25. § 1–2. pontja a 38. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^11]: A 25. § 3. pontja a 38. § (3) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^12]: A 25. § 4–10. pontja a 38. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^14]: A 25. § 1–2. pontja a 38. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^15]: A 25. § 3. pontja a 38. § (3) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^16]: A 25. § 4–10. pontja a 38. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

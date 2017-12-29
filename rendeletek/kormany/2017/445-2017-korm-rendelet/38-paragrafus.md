@@ -1,4 +1,4 @@
-## 30–37. §[^14]
+## 30–37. §[^19]
 
 ## 10. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 19. § (3) és (4) bekezdése, 25. § 3. pontja 2019. január 1-jén lép hatályba.
 
-[^14]: A 30–37. § a 38. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^19]: A 30–37. § a 38. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
