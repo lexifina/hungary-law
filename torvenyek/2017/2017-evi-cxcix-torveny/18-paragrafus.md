@@ -1,3 +1,0 @@
-18. § A Vtv. 28. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Amennyiben ajándékozás, végrendeleti örökösnevezés, illetve tulajdonjog átruházására irányuló más hasonló jogügylet kedvezményezettjeként valamely központi költségvetési szervet jelölnek meg, az elfogadott vagyon állami tulajdonba kerül azzal, hogy az MNV Zrt. az adott költségvetési szervvel köt rá – az Nvtv. 11. § (6) bekezdésében meghatározott vagyontárgyak kivételével – nem visszterhes vagyonkezelési szerződést, vagy – ha a hagyaték tárgya gazdasági társaságban fennálló társasági részesedés – az Nvtv. 8. § (7) bekezdése szerinti megbízási szerződést. Ha a későbbiekben az ilyen vagyontárgy értékesítésére kerül sor, annak bevétele a kedvezményezett központi költségvetési szervet illeti meg.”

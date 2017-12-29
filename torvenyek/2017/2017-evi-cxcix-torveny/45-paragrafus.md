@@ -1,3 +1,0 @@
-45. § Az Szhitv. 11/F. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A nem az 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tag Integrációs Szervezetből való kilépésére az (1)–(8) bekezdést nem kell alkalmazni. E tag Integrációs Szervezeti jogviszonya a kilépési szándékának az Integrációs Szervezet igazgatósága részére történő bejelentése közlésének napjával szűnik meg. Az Integrációs Szervezet a tagsági jogviszony megszűnésétől számított 30 napon belül visszafizeti a tag részére a 4. § (2) bekezdése szerinti tag által – közvetlenül az Integrációs Szervezet részére – rendelkezésre bocsátott vagyoni hozzájárulás összegét; a tag a vagyoni hozzájárulás visszafizetéséről lemondhat.”
