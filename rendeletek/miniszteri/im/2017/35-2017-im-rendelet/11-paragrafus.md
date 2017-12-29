@@ -1,3 +1,3 @@
-## 10. § Az IRM rendelet 18. §-a a következő (6) bekezdéssel egészül ki:
+## 3–10. §[^3]
 
-## „(6) Az eseti bizottság működésének részletes szabályait a szakértői testület ügyrendjében szabályozza.”
+[^3]: A 3–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
