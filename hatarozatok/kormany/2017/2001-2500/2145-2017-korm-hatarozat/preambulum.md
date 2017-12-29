@@ -1,0 +1,1 @@
+A Kormány a Normafa Park program további sikeres folytatása érdekében újabb lépések megtételét látja szükségesnek, ezért a Budapest Főváros XII. kerület Hegyvidéki Önkormányzattal (a továbbiakban: Önkormányzat) együttműködve a következőkről határoz:
