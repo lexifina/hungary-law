@@ -36,7 +36,7 @@
 
 | 18. | Veszprém Aréna bővítése | Veszprém keleti elkerülő út – 8-as számú főút – 82-es számú főút által határolt terület: Veszprém közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 0213/24, 0213/39, 0213/42, 0213/43, 0213/85, 0213/86, 0213/102 és 8713 helyrajz számú ingatlanok | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 19. | Adria Kapuja Program – Nagykanizsa sportlétesítmény-fejlesztési beruházási program | Nagykanizsa közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 3110/26 és 3500 helyrajzi számú ingatlanok | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+| 19. | Adria Kapuja Program – Nagykanizsa sportlétesítmény-fejlesztési beruházási program: új városi sport- és rendezvénycsarnok; új fedett városi uszoda | az új városi sport- és rendezvénycsarnok tekintetében a Nagykanizsa közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Nagykanizsa 3110/26 helyrajzi számú ingatlan; az új fedett városi uszoda tekintetében a Nagykanizsa közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Nagykanizsa 3500 helyrajzi számú és Nagykanizsa 3485 helyrajzi számú ingatlanok | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 20. | Zalaegerszegi Városi Uszoda fejlesztése | Zalaegerszeg közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 3323/8 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
 
