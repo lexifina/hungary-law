@@ -20,21 +20,27 @@
 
 ## Határidő: a támogatási szerződés 3. pont szerinti megkötését követően azonnal
 
-## 5. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon
+## 5.[^1] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon
 
-## a) a Budapest XII. kerület Eötvös út új nyomvonalának kialakítása és az ehhez kapcsolódó parkoló kialakítása céljára a 2017. évben 980 millió forint,
+## a) a Budapest XII. kerület Eötvös út új nyomvonalának kialakítása és az ehhez kapcsolódó parkoló kialakítása céljára a 2018. évben 1 539 500 000 forint,
 
-## b) a Budapest XII. kerület 10525/2 helyrajzi számon nyilvántartott ingatlanon található „Hild-villa” felújítására és a hozzá kapcsolódó telek környezetrendezésére a 2017. évben 1660 millió forint, a 2018. évben 550 millió forint,
+## b) a Budapest XII. kerület 10525/2 helyrajzi számon nyilvántartott ingatlanon található „Hild-villa” felújításával és a hozzá kapcsolódó telek környezetrendezéssel kapcsolatos előkészítési, tervezési munkálatokra a 2018. évben 60 000 000 forint,
 
-## c) a Budapest XII. kerület 10525/2 helyrajzi számon nyilvántartott ingatlanon található egykori Fácán Vendéglő épületének felújítására a 2017. évben 950 millió forint,
+## c) a Budapest XII. kerület 10525/2 helyrajzi számon nyilvántartott ingatlanon található „Hild-villa” felújítására és a hozzá kapcsolódó telek környezetrendezésére a 2018. évben 550 000 000 forint, a 2019. évben 1 600 000 000 forint,
 
-## d) a Budapest XII. kerület 10760/3 helyrajzi számon nyilvántartott, egykori lóvasút-végállomás épületének műemléki felújítását és funkcióbővítő hasznosítását célzó beruházás céljára a 2017. évben legfeljebb
+## d) a Budapest XII. kerület 10525/2 helyrajzi számon nyilvántartott ingatlanon található egykori Fácán Vendéglő épületének felújítására a 2018. évben 950 000 000 forint, illetve az iskolai funkcióhoz szükséges bővítéshez, továbbá a katonai oktatóépület bontására a 2018. évben 1 170 000 000 forint,
 
-## 622,3 millió forint forrás rendelkezésre állásáról a központi költségvetés IX. Helyi önkormányzatok támogatásai fejezetben az Önkormányzat számára;
+## e) a Budapest XII. kerület 10760/3 helyrajzi számon nyilvántartott, egykori lóvasút-végállomás épületének műemléki felújítását és funkcióbővítő hasznosítását célzó beruházás céljára a 2017. évben legfeljebb 622 300 000 forint
+
+## forrás rendelkezésre állásáról a központi költségvetés IX. Helyi önkormányzatok támogatásai fejezetben az Önkormányzat számára;
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Határidő: a 2017. évi források tekintetében a felmerülés ütemében, a 2018. évi források tekintetében a 2018. évi központi költségvetés tervezése keretében
+## Határidő: a 2017. évi források, illetve az a), b) és d) pontok szerinti 2018. évi források tekintetében a felmerülés ütemében,
+
+## a c) pont szerinti 2018. évi források tekintetében a 2018. évi központi költségvetés tervezése keretében,
+
+## a 2019. évi források tekintetében a 2019. évi központi költségvetés tervezésekor
 
 ## 6. felhívja
 
@@ -99,3 +105,5 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 5. pont a 2145/2017. (XII. 29.) Korm. határozat 7. pontjával megállapított szöveg.
