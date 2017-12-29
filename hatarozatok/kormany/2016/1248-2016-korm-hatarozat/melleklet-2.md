@@ -38,6 +38,8 @@
 
 | 18. | VP2-4.1.3.5-16 | Kertészet korszerűsítése – kertészeti gépbeszerzés támogatása | 18,08 | 0,00 | 18,08 | 0,00 | 0,00 | 0,00 | 0,00 | standard | Meghirdetve: 2016. november |
 
+| 18a. | VP2-4.1.3.6-17 | Borszőlőültetvény telepítés támogatása | 4,00 | – | 3,79 | – | – | 0,21 | – | standard | 2017. december |
+
 | 19. | VP2-4.1.4-16 | Mezőgazdasági vízgazdálkodási ágazat fejlesztése | 49,57 | 0,00 | 28,52 | 0,00 | 0,00 | 21,05 | 0,00 | standard | Meghirdetve: 2016. május |
 
 | 20. | VP2-6.1.1-16 | A fiatal mezőgazdasági termelők számára nyújtott induló támogatás | 37,75 | 0,00 | 37,75 | 0,00 | 0,00 | 0,00 | 0,00 | standard | Meghirdetve: 2016. december |
@@ -62,7 +64,7 @@
 
 | 30. | VP3-14.1.1-16 | A tejágazat szerkezetátalakítását kísérő állatjóléti támogatás | 36,53 | 0,00 | 0,00 | 36,53 | 0,00 | 0,00 | 0,00 | egyszerűsített | Meghirdetve: 2016. március |
 
-| 31. | VP3-16.1.1-4.1.5-4.2.1-4.2.2-8.1.1-8.2.1-8.3.1-8.5.1-8.5.2-8.6.1-17 | Innovációs operatív csoportok létrehozása és az innovatív projekt megvalósításához szükséges beruházás támogatása | 24,95 | 0,00 | 10,39 | 11,43 | 0,00 | 3,14 | 0,00 | standard | Meghirdetve: 2017. március |
+| 31. | VP3-16.1.1-4.1.5- 4.2.1-4.2.2-8.1.1- 8.2.1-8.3.1-8.5.1- 8.5.2-8.6.1-17 | Innovációs operatív csoportok létrehozása és az innovatív projekt megvalósításához szükséges beruházás támogatása | 24,95 | 0,00 | 10,39 | 11,43 | 0,00 | 3,14 | 0,00 | standard | Meghirdetve: 2017. március |
 
 | 32. | VP3-16.4.1-17 | Együttműködések támogatása a rövid ellátási láncok és a helyi piacok kialakításáért, fejlesztéséért és promóciójáért | 3,84 | 0,00 | 0,00 | 3,84 | 0,00 | 0,00 | 0,00 | standard | Meghirdetve: 2017. március |
 
@@ -106,6 +108,8 @@
 
 | 50. | VP5-4.1.3.4-16 | Kertészet korszerűsítése – gombaházak-hűtőházak létrehozására, meglévő gombaházak-hűtőházak korszerűsítése | 22,33 | 0,00 | 10,80 | 0,00 | 0,00 | 11,53 | 0,00 | standard | Meghirdetve: 2016. február |
 
+| 50a. | VP5-4.1.6- 4.2.3-17 | Mezőgazdasági- és feldolgozó üzemek energia- hatékonyságának javítása | 35,00 | – | – | – | – | 35,00 | – | standard | 2017. december |
+
 | 51. | VP5-8.1.1-16 | Erdősítés támogatása | 50,32 | 0,00 | 0,00 | 0,00 | 0,00 | 40,66 | 9,65 | egyszerűsített | Meghirdetve: 2016. május |
 
 | 52. | VP5-8.2.1-16 | Agrár-erdészeti rendszerek létrehozása | 1,76 | 0,00 | 0,00 | 0,00 | 0,00 | 1,76 | 0,00 | egyszerűsített | Meghirdetve: 2016. november |
@@ -120,7 +124,7 @@
 
 | 57. | VP5-8.6.2-16 | Erdei termelési potenciál mobilizálását szolgáló tevékenységek | 2,71 | 0,00 | 0,00 | 0,00 | 0,00 | 1,37 | 1,34 | egyszerűsített | Meghirdetve: 2016. március |
 
-| 58. | VP6-6.2.1-16 | Nem mezőgazdasági tevékenységek elindításának támogatása – mezőgazdasági tevékenységek diverzifikációja, mikrovállalkozás indítása | 13,85 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 13,85 | standard | Meghirdetve: 2016. augusztus |
+| 58. |  |  |  |  |  |  |  |  |  |  |  |
 
 | 59. | VP6-6.4.1-16 | Nem mezőgazdasági tevékenységek beindítására és fejlesztésére irányuló beruházások támogatása | 35,94 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 35,94 | standard | Meghirdetve: 2016. december |
 
@@ -128,7 +132,7 @@
 
 | 61. | VP6-7.2.1-7.4.1.1-16 | Településképet meghatározó épületek külső rekonstrukciója, többfunkciós közösségi tér létrehozása, fejlesztése, energetikai korszerűsítés | 26,88 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 26,88 | standard | Meghirdetve: 2016. február |
 
-| 62. | VP6-7.2.1-7.4.1.2-16 | Külterületi helyi közutak fejlesztése, önkormányzati utak kezeléséhez, állapotjavításához, karbantartásához szükséges erő- és munkagépek beszerzése | 18,40 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 18,40 | standard | Meghirdetve: 2016. november |
+| 62. | VP6-7.2.1-7.4.1.2-16 | Külterületi helyi közutak fejlesztése, önkormányzati utak kezeléséhez, állapotjavításához, karbantartásához szükséges erő- és munkagépek beszerzése | 32,25 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 32,25 | standard | Meghirdetve: 2016. november |
 
 | 63. | VP6-7.2.1-7.4.1.3-17 | Helyi termékértékesítést szolgáló piacok infrastrukturális fejlesztése, közétkeztetés fejlesztése | 12,64 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 12,64 | standard | Meghirdetve: 2017. február |
 
