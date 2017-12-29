@@ -1,0 +1,1 @@
+## 19. § A véghasználatok után visszamaradó, 0,5 hektárnál nagyobb egybefüggő hagyásfa csoportok területét külön erdőrészletbe kell tervezni, olyan erdőrészlet kialakításával, ahol a vágásérettségi kor a korábbi vágásérettségi kor legalább másfélszerese.

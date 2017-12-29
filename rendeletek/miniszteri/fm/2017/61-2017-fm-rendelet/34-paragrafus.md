@@ -1,0 +1,1 @@
+## 33. § Az akác és a hazai nyár faállománytípusú erdők sarjról történő természetes felújítása – az állam 100%-os tulajdonában nem álló erdők kivételével, illetve az erdészeti hatóság ellentétes döntése hiányában – csak gyökérsarjaztatással történhet.
