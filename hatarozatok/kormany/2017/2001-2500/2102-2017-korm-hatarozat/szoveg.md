@@ -34,4 +34,6 @@ postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiz
 
 Határidő: 2018. szeptember 30.
 
-4. visszavonja a KKV-szektor hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásának növelésére javasolt lépésekről szóló 1310/2013. (VI. 7.) Korm. határozatot.
+4.[^2]
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
