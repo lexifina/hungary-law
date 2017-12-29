@@ -1,1 +1,0 @@
-## Fakitermelések ellenőrzése
