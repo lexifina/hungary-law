@@ -1,0 +1,1 @@
+## 5. § A körzeti erdőtervezési eljárás során kiadott határozatban indokolni kell az erdőterv azon tartalmi elemeit, amelyekkel kapcsolatban a részletszintű egyeztető tárgyaláson véleményeltérés maradt fenn.
