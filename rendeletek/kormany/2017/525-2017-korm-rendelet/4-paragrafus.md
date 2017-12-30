@@ -1,0 +1,1 @@
+## „(4) A gyártó a hulladékká vált elektromos, elektronikus berendezés átvételét abban az esetben tagadhatja meg, ha a hulladékká vált elektromos, elektronikus berendezés az átvétel során az átvételt végző egészségére vagy testi épségére súlyos veszélyt jelent.”

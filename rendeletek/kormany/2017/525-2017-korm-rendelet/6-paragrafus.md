@@ -1,0 +1,5 @@
+## 5. § A 197/2014. Korm. rendelet 21. § (1) bekezdése helyébe a következő rendelkezés lép, továbbá a § a következő (1a) bekezdéssel egészül ki:
+
+## „(1) Az Európai Gazdasági Térséghez tartozó államban székhellyel rendelkező, a 2. § (1) bekezdés 9. pont a)–c) alpontja szerinti gyártó az e rendeletben meghatározott valamennyi kötelezettségét meghatalmazott képviselője útján teljesítheti, ha Magyarországon székhellyel nem rendelkezik, és a meghatalmazott képviselő a tevékenységét nem a külföldiek magyarországi befektetéseiről szóló 1988. évi XXIV. törvény 3. § (1) bekezdése szerinti valamelyik letelepedési formában végzi.
+
+## (1a) A 2. § (1) bekezdés 9. pont d) alpontja szerinti gyártó, amely egy olyan másik tagállamban értékesít távközlő eszközök útján elektromos, elektronikus berendezést, amelyben nincs letelepedve, az e rendeletben meghatározott valamennyi kötelezettségét meghatalmazott képviselője útján köteles teljesíteni, ha a meghatalmazott képviselő a tevékenységét nem a külföldiek magyarországi befektetéseiről szóló 1988. évi XXIV. törvény 3. § (1) bekezdése szerinti valamelyik letelepedési formában végzi.”
