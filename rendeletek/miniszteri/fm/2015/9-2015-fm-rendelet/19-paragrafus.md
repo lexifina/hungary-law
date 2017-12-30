@@ -22,7 +22,7 @@ d) a b–c) pontban foglalt feltételek teljesítéséről nyilatkozik.
 
 (4)[^104] A (2) bekezdés szerinti hatósági bizonyítványnak tartalmaznia kell a terület azonosító adatait a tárgyévi egységes kérelemben meghatározottak szerint (blokkazonosító, parcella sorszám, helyrajzi szám, területnagyság, ültevény fajának, tőszám (db/ha) meghatározása, ültetvény korának megnevezése, tőszámbeállottság mértékének meghatározása, fix, telepített öntözés meglétének meghatározása).
 
-(5)[^105] A megyei kormányhivatal az (1) bekezdésben meghatározott feltételek fennállását igazoló hatósági bizonyítvány kiállítása során megkereséssel fordulhat a Kincstárhoz, a fővárosi és megyei kormányhivatal ingatlanügyi hatósági hatáskörében eljáró, területileg illetékes járási (fővárosi kerületi) hivatalához, valamint a NÉBIH-hez, továbbá figyelembe veszi
+(5)[^105] A megyeszékhely szerinti járási hivatal az (1) bekezdésben meghatározott feltételek fennállását igazoló hatósági bizonyítvány kiállítása során megkereséssel fordulhat a Kincstárhoz, a fővárosi és megyei kormányhivatal ingatlanügyi hatósági hatáskörében eljáró, területileg illetékes járási (fővárosi kerületi) hivatalához, valamint a NÉBIH-hez, továbbá figyelembe veszi
 
 a)[^106] a (4) bekezdés szerinti adatok esetében az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 14. §-ában meghatározott adatokat;
 
@@ -44,7 +44,7 @@ d)[^107] a kötelezően elvégzendő helyszíni szemle adatait, ha a szükséges
 [^102]: A 19. § (1) bekezdés c) pont cc) alpontja a 25/2016. (IV. 11.) FM rendelet 53. § d) pontja szerint módosított szöveg.
 [^103]: A 19. § (2) bekezdése a 25/2016. (IV. 11.) FM rendelet 53. § e) pontja, a 37/2016. (V. 18.) FM rendelet 14. § b) pontja, a 88/2016. (XII. 29.) FM rendelet 80. § f) pontja, a 13/2017. (III. 17.) FM rendelet 30. § e) pontja szerint módosított szöveg.
 [^104]: A 19. § (4) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (5) bekezdése, a 25/2016. (IV. 11.) FM rendelet 53. § f) pontja szerint módosított szöveg.
-[^105]: A 19. § (5) bekezdés nyitó szövegrésze a 13/2017. (III. 17.) FM rendelet 27. § (1) bekezdésével megállapított szöveg. [Ugyanezen módosító rendelet 30. § f) pontjával elrendelt módosítás, amely szerint az „A megyei kormányhivatal a hatósági bizonyítvány kiállítása során megkereséssel fordulhat a Kincstárhoz, a fővárosi és megyei kormányhivatal ingatlanügyi” szövegrész helyébe az „A megyeszékhely szerinti járási hivatal a hatósági bizonyítvány kiállítása során megkereséssel fordulhat a Kincstárhoz, a fővárosi és megyeszékhely szerinti járási hivatal ingatlanügyi” szöveg lép, nem vezethető át.]
+[^105]: A 19. § (5) bekezdés nyitó szövegrésze a 69/2017. (XII. 27.) FM rendelet 23. §-ával megállapított szöveg.
 [^106]: A 19. § (5) bekezdés a) pontja a 13/2017. (III. 17.) FM rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^107]: A 19. § (5) bekezdés d) pontja a 13/2017. (III. 17.) FM rendelet 30. § g) pontja szerint módosított szöveg.
 [^108]: A 19. § (6) bekezdése a 13/2017. (III. 17.) FM rendelet 27. § (2) bekezdésével megállapított szöveg.
