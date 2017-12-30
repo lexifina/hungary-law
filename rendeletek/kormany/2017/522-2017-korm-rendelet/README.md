@@ -1,0 +1,9 @@
+# 522/2017. (XII. 29.) Korm. rendelet
+
+a fogyasztóvédelmi hatóság kijelöléséről szóló 387/2016. (XII. 2.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-522-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-12-30 | 2017-522-20-22.1 | 522/2017. (XII. 29.) Korm. rendelet |
