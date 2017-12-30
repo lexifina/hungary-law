@@ -1,4 +1,4 @@
-1. melléklet a 31/2010. (XII. 23.) NFM rendelethez[^85]
+1. melléklet a 31/2010. (XII. 23.) NFM rendelethez[^91]
 
 3K88273_0
 
@@ -282,4 +282,4 @@
 
 | (*) |  | a vonatkozó ÁME hatálybalépését követően gyártott kocsik esetében típusmeghatározó adat |
 
-[^85]: Az 1. melléklet a 82/2013. (XII. 29.) NFM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^91]: Az 1. melléklet a 82/2013. (XII. 29.) NFM rendelet 22. § (1) bekezdésével megállapított szöveg.
