@@ -1,0 +1,1 @@
+## 12. § Az újabb bűncselekmények megelőzése végett a nyomozás során fokozott figyelmet kell fordítani a bűncselekmény elkövetését elősegítő, illetve megkönnyítő okok, körülmények felderítésére. Az ennek érdekében megtett intézkedéséről a parancsnok értesíti a katonai ügyészt, és a nem a parancsnok hatáskörébe tartozó intézkedésekre előterjesztést tesz.
