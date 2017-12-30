@@ -1,6 +1,6 @@
 ## 28. A szolgáltatásnyújtás bejelentése
 
-138. § (1)[^40] A KEÜSZ vagy SZEÜSZ szolgáltató köteles a felügyelet részére a szolgáltatás nyújtásának megkezdésére irányuló szándékot, valamint a megkezdés tervezett időpontját elektronikusan, a felügyelet által közétett tájékoztatás szerint bejelenteni.
+138. § (1)[^41] A KEÜSZ vagy SZEÜSZ szolgáltató köteles a felügyelet részére a szolgáltatás nyújtásának megkezdésére irányuló szándékot, valamint a megkezdés tervezett időpontját elektronikusan, a felügyelet által közétett tájékoztatás szerint bejelenteni.
 
 (2) A szolgáltató a bejelentéshez köteles csatolni:
 
@@ -54,4 +54,4 @@ g) a szolgáltatás jogszabályoknak való megfelelése
 
 (11) A szolgáltató a szolgáltatásnyújtás megkezdésének tervezett időpontját köteles a bejegyzés iránti kérelem benyújtását követő 3 hónapon túli időpontban megjelölni.
 
-[^40]: A 138. § (1) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
+[^41]: A 138. § (1) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.

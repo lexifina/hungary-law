@@ -1,4 +1,4 @@
-136/A. §[^39] (1) Az E-ügyintézési tv. 48. § (2) bekezdése szerinti esetben a felügyelet – a jogsértés mértékétől függően, a jogsértés által okozott kár és joghátrány figyelembevételével – a bírság mértékét a következők szerint állapíthatja meg:
+136/A. §[^40] (1) Az E-ügyintézési tv. 48. § (2) bekezdése szerinti esetben a felügyelet – a jogsértés mértékétől függően, a jogsértés által okozott kár és joghátrány figyelembevételével – a bírság mértékét a következők szerint állapíthatja meg:
 
 a) a bírság mértéke tízezertől ötszázezer forintig terjedhet, ha a jogsértés csak egy ügyfelet érintett, akinek a jogsértésből jelentős hátránya nem származott;
 
@@ -20,4 +20,4 @@ cc) a jogsértés több ügyfélnek jelentős hátrányt okozott.
 
 (2) A felügyelet az E-ügyintézési tv. 48. § (2) bekezdése szerinti jogkövetkezmények alkalmazása esetében – az E-ügyintézési tv. 48. § (2) bekezdés d) pontja szerinti eset kivételével – ismételt ellenőrzéssel köteles meggyőződni az intézkedés eredményességéről, a jogszabálysértésnek az elektronikus ügyintézést biztosító szerv általi megszüntetéséről.
 
-[^39]: A 136/A. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (8) bekezdése iktatta be.
+[^40]: A 136/A. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (8) bekezdése iktatta be.

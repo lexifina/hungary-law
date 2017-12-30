@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-451-20-
 | 2017-07-01 | 2016-451-20-22.3 | 171/2017. (VI. 29.) Korm. rendelet |
 | 2017-08-08 | 2016-451-20-22.4 | 221/2017. (VIII. 7.) Korm. rendelet |
 | 2017-12-01 | 2016-451-20-22.5 | 361/2017. (XI. 30.) Korm. rendelet |
+| 2017-12-30 | 2016-451-20-22.6 | 521/2017. (XII. 29.) Korm. rendelet |

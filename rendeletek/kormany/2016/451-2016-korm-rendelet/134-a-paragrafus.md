@@ -1,6 +1,6 @@
-## Központi Kormányzati Szolgáltatási Busz[^30]
+## Központi Kormányzati Szolgáltatási Busz[^31]
 
-## 134/A. §[^31] A 134/A–134/J. § alkalmazásában
+## 134/A. §[^32] A 134/A–134/J. § alkalmazásában
 
 1. autentikációs token: valamely csatlakozott szerv részére a Központi Kormányzati Szolgáltatási Busz (a továbbiakban: KKSZB) Rendszerfelhatalmazási Nyilvántartása által generált webtoken, amely biztosítja a KKSZB-n elérhető valamely szolgáltatásnak a szolgáltatást nyújtó csatlakozott szerv által engedélyezett célból és jogalapon történő igénybevételét az adott csatlakozott szerv hitelesítése útján;
 
@@ -8,5 +8,5 @@
 
 3. szolgáltatáskatalógus: az egyes, a KKSZB-hez csatlakozó nyilvántartások, SZEÜSZ-ök, KEÜSZ-ök és szakrendszerek elektronikusan nyújtott szolgáltatásainak információátadási leírásait és a kapcsolódásra vonatkozó egyéb technikai információkat tartalmazó adatbázis.
 
-[^30]: A 134/A. §-t megelőző alcímet a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
-[^31]: A 134/A. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
+[^31]: A 134/A. §-t megelőző alcímet a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
+[^32]: A 134/A. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.

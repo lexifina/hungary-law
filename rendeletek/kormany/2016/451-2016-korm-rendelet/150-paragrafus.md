@@ -1,6 +1,6 @@
 ## 35. Automatikus információátadásra köteles együttműködő szervek
 
-## 150. §[^43] Az alábbi nyilvántartások és adatbázisok közhiteles adatai tekintetében – ha jogszabály eltérően nem rendelezik – a nyilvántartást vagy adatbázist vezető együttműködő szervek a KKSZB KEÜSZ útján kötelesek automatikus információátadási szolgáltatást nyújtani, vagy azt központi szolgáltatásként a KKSZB KEÜSZ szolgáltatójától igénybe venni, amelynek keretében biztosítják az alábbi nyilvántartásokban szereplő adatok automatikus információátadás útján történő átadásának lehetőségét:
+## 150. §[^44] Az alábbi nyilvántartások és adatbázisok közhiteles adatai tekintetében – ha jogszabály eltérően nem rendelezik – a nyilvántartást vagy adatbázist vezető együttműködő szervek a KKSZB KEÜSZ útján kötelesek automatikus információátadási szolgáltatást nyújtani, vagy azt központi szolgáltatásként a KKSZB KEÜSZ szolgáltatójától igénybe venni, amelynek keretében biztosítják az alábbi nyilvántartásokban szereplő adatok automatikus információátadás útján történő átadásának lehetőségét:
 
 1. a központi címregiszter;
 
@@ -56,4 +56,4 @@
 
 27. elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartása.
 
-[^43]: A 150. § nyitó szövegrésze a 221/2017. (VIII. 7.) Korm. rendelet 8. § i) pontja szerint módosított szöveg.
+[^44]: A 150. § nyitó szövegrésze a 221/2017. (VIII. 7.) Korm. rendelet 8. § i) pontja szerint módosított szöveg.

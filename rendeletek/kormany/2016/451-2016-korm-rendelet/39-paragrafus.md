@@ -4,7 +4,7 @@ a) a 38. § (3) bekezdés a) pontja szerinti tájékoztatók tekintetében az ad
 
 b) a 38. § (3) bekezdés b) pontja szerinti tájékoztatók tekintetében az állami adóhatóság,
 
-c)[^2] a 38. § (3) bekezdés c) pontja szerinti tájékoztatók tekintetében a szabályozásért felelős szakminiszter,
+c)[^3] a 38. § (3) bekezdés c) pontja szerinti tájékoztatók tekintetében a szabályozásért felelős szakminiszter,
 
 d) a 38. § (3) bekezdés d) pontja szerinti tájékoztatók tekintetében – az Országos Bírósági Hivatal elnökének és a legfőbb ügyész véleményének kikérésével – az igazságügyért felelős miniszter,
 
@@ -22,4 +22,4 @@ e) a 38. § (3) bekezdés e) pontja szerinti tájékoztatók tekintetében az eg
 
 (7) Ha tartalmi hiba kijavításának módjáról vagy annak szükségességéről vita van a közigazgatás szervezéséért felelős miniszter és az (1) bekezdés szerinti felelős szakminiszter között, a felek kötelesek a vitát egyeztetés keretében megkísérelni rendezni.
 
-[^2]: A 39. § (1) bekezdés c) pontja a 171/2017. (VI. 29.) Korm. rendelet 29. §-a szerint módosított szöveg.
+[^3]: A 39. § (1) bekezdés c) pontja a 171/2017. (VI. 29.) Korm. rendelet 29. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 37. Az információátadási szabályzat és megállapodás bejelentése
 
-152. §[^45] (1) Az információátadási szabályzatot az együttműködő szerv – a 151. § (1) bekezdés e) pontja szerinti információk kivételével – honlapján, valamint a 34. § (2) és (3) bekezdésében meghatározott módon közzéteszi.
+152. §[^46] (1) Az információátadási szabályzatot az együttműködő szerv – a 151. § (1) bekezdés e) pontja szerinti információk kivételével – honlapján, valamint a 34. § (2) és (3) bekezdésében meghatározott módon közzéteszi.
 
 (2) A felügyelet támogató informatikai rendszert működtet az információátadási szabályzatok, megállapodások és ezek módosításai elkészítéséhez, benyújtásához. A felügyelet a 152/A. §-ban meghatározott információforrások regiszterét, valamint a 152/B. §-ban meghatározott adat- és iratmegnevezések jegyzékét ezen informatikai rendszerben vezeti.
 
@@ -28,4 +28,4 @@ c) az információforrások regisztere naprakész vezetéséhez szükséges info
 
 (11) E § rendelkezéseit az egységes információátadási szabályzat és az információátadási megállapodás bejelentése, valamint az információátadási szabályzat, az egységes információátadási szabályzat és az információátadási megállapodás módosításának bejelentése során is alkalmazni kell azzal, hogy az információátadási megállapodást bármely abban részes együttműködő szerv bejelentheti.
 
-[^45]: A 152. § a 221/2017. (VIII. 7.) Korm. rendelet 7. § (11) bekezdésével megállapított szöveg.
+[^46]: A 152. § a 221/2017. (VIII. 7.) Korm. rendelet 7. § (11) bekezdésével megállapított szöveg.
