@@ -1,3 +1,3 @@
-## Egyedek kiszállítása, exportja vagy visszaérkezése[^79]
+## Egyedek kiszállítása, exportja vagy visszaérkezése[^80]
 
-[^79]: A 29. §-t megelőző alcím a 88/2013. (X. 2.) VM rendelet 18. §-ával megállapított szöveg.
+[^80]: A 29. §-t megelőző alcím a 88/2013. (X. 2.) VM rendelet 18. §-ával megállapított szöveg.

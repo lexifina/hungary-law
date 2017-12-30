@@ -1,4 +1,4 @@
-## 41. §[^100] Ez a rendelet:
+## 41. §[^101] Ez a rendelet:
 
 a) a 820/97/EK tanácsi rendeletnek a szarvasmarhafélék azonosítási és nyilvántartási rendszerének keretében a minimálisan alkalmazandó közigazgatási szankciók végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 1998. február 27-i 494/98/EK bizottsági rendelet;
 
@@ -10,4 +10,4 @@ d) a füljelzők, marhalevelek és állomány-nyilvántartások tekintetében az
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^100]: A 41. §-t újonnan a 88/2013. (X. 2.) VM rendelet 21. §-a iktatta be.
+[^101]: A 41. §-t újonnan a 88/2013. (X. 2.) VM rendelet 21. §-a iktatta be.

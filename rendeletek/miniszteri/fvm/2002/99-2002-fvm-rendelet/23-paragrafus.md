@@ -16,13 +16,16 @@ e) az állattartó aláírását;
 
 f) a kibocsátó szervezet megnevezését;
 
-g) a kiadás időpontját és sorszámát.
+g) a kiadás időpontját és sorszámát;
 
-(2)[^62] A marhalevél első oldalának középső része a beérkezés-bejelentő szelvény, első oldalának alsó része a kikerülés-bejelentő szelvény.
+h)[^62] az elektronikus azonosító típusát, amennyiben azt az állaton elhelyezték.
 
-(3)[^63] A marhalevél második oldala (hátoldala) az állatot kísérő állat-egészségügyi bizonyítvány azonosító adatait tartalmazza. Az adatlap kitöltését követően – ha jogszabály másképp nem rendelkezik – a hátoldalon fel kell tüntetni az állat-egészségügyi bizonyítvány sorszámát, a kiállító állatorvos bélyegzőszámát és a kiállítás dátumát.
+(2)[^63] A marhalevél első oldalának középső része a beérkezés-bejelentő szelvény, első oldalának alsó része a kikerülés-bejelentő szelvény.
+
+(3)[^64] A marhalevél második oldala (hátoldala) az állatot kísérő állat-egészségügyi bizonyítvány azonosító adatait tartalmazza. Az adatlap kitöltését követően – ha jogszabály másképp nem rendelkezik – a hátoldalon fel kell tüntetni az állat-egészségügyi bizonyítvány sorszámát, a kiállító állatorvos bélyegzőszámát és a kiállítás dátumát.
 
 [^60]: A 23. §-t megelőző alcím a 88/2013. (X. 2.) VM rendelet 23. § 14. pontja szerint módosított szöveg.
 [^61]: A 23. § (1) bekezdés nyitó szövegrésze a 88/2013. (X. 2.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^62]: A 23. § (2) bekezdése a 88/2013. (X. 2.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^63]: A 23. § (3) bekezdése a 88/2013. (X. 2.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^62]: A 23. § (1) bekezdés h) pontját a 69/2017. (XII. 27.) FM rendelet 6. § (1) bekezdése iktatta be.
+[^63]: A 23. § (2) bekezdése a 88/2013. (X. 2.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^64]: A 23. § (3) bekezdése a 88/2013. (X. 2.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.

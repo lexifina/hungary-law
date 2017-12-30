@@ -1,4 +1,4 @@
-## 26. §[^70] Az ENAR-felelős köteles:
+## 26. §[^71] Az ENAR-felelős köteles:
 
 a) az elveszett vagy házilag levágott állat kikerülés- és beérkezés-bejelentő szelvénnyel egybefüggő marhalevelét a kézhezvételétől számított 4 napon belül a kikerülés-bejelentő szelvény rovatainak kitöltése után az Országos Adatbázisnak megküldeni, vagy a bejelentést elektronikus úton 4 napon belül elvégezni, és a marhalevelet a két szelvénnyel egybefüggően 30 napon belül megküldeni a tenyésztési hatóságnak;
 
@@ -14,4 +14,4 @@ f) a marhalevél megsemmisülése vagy elvesztése esetén az Országos Adatbáz
 
 g) az állattartóval információs összeköttetést fenntartani az Országos Adatbázis állományváltozást követő feladatainak ellátása érdekében.
 
-[^70]: A 26. § a 88/2013. (X. 2.) VM rendelet 15. §-ával megállapított szöveg.
+[^71]: A 26. § a 88/2013. (X. 2.) VM rendelet 15. §-ával megállapított szöveg.
