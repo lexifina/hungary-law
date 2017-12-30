@@ -46,6 +46,8 @@
 
 | 23. | Dunaújvárosi Radari Sporttelep fejlesztése | Dunaújváros közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 365/9 helyrajzi számú ingatlan | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
 
+| 24. | Szegedi új kézilabdacsarnok megvalósítása | a Szeged II. kerület, belterület 10005/4 helyrajzi számú ingatlanok | Csongrád Megyei Kormányhivatalt vezető kormánymegbízott |
+
 2. melléklet a 203/2017. (VII. 10.) Korm. rendelethez
 
 ## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
