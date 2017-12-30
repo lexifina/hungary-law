@@ -106,7 +106,9 @@ a) a foglalkoztatást elősegítő támogatásokról, valamint a Munkaerőpiaci 
 
 b) a Gazdaságfejlesztési és Innovációs Operatív Program GINOP-5.1.1-15 „Út a munkaerőpiacra”, a GINOP-5.2.1-14 „Ifjúsági Garancia”, a GINOP-6.1.1-15 „Alacsony képzettségűek és közfoglalkoztatottak képzése”, a Terület- és Településfejlesztési Operatív Program TOP-5.1.1-15 „Megyei szintű foglalkoztatási megállapodások, foglalkoztatási-gazdaságfejlesztési együttműködések”, a TOP-5.1.2-15 „Helyi foglalkoztatási együttműködések”, a TOP-6.8.2-15 „Helyi foglalkoztatási együttműködések a megyei jogú város területén és várostérségében” című európai uniós forrásokból finanszírozott programok képzési jegyzékén szereplő képzéseket valósítja meg, vagy
 
-c) az Emberi Erőforrás Fejlesztési Operatív Program EFOP-3.8.1.-14-2015-00001 azonosító számú „Felzárkóztató egészségügyi ápoló szakképzési program” című kiemelt projekt keretében indított gyakorló ápoló és gyakorló csecsemő- és gyermekápoló szakképesítéseket, és 2017. december 31-ig az ápoló és csecsemő és gyermekápoló szakképesítéseket valósítja meg.
+c)[^28]
+
+(17)[^29] 2017. december 31-ig a 2016. január 1-jén hatályos OKJ, szakmai és vizsgakövetelmények, valamint kerettantervek szerint indíthatja képzéseit az a felnőttképzést folytató intézmény, amely az Emberi Erőforrás Fejlesztési Operatív Program EFOP-3.8.1-14-2015-00001 azonosító számú „Felzárkóztató egészségügyi ápoló szakképzési program” című kiemelt projekt keretében indított gyakorló ápoló és gyakorló csecsemő- és gyermekápoló szakképesítéseket, és 2018. december 31-ig az ápoló és csecsemő- és gyermekápoló szakképesítéseket valósítja meg.
 
 [^16]: A 9. § (3) bekezdése a 84/2013. (III. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^17]: A 9. § (6) bekezdése a 331/2012. (XI. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
@@ -120,3 +122,5 @@ c) az Emberi Erőforrás Fejlesztési Operatív Program EFOP-3.8.1.-14-2015-0000
 [^25]: A 9. § (14) bekezdését a 25/2016. (II. 25.) Korm. rendelet 4. §-a iktatta be.
 [^26]: A 9. § (15) bekezdését a 25/2016. (II. 25.) Korm. rendelet 4. §-a iktatta be.
 [^27]: A 9. § (16) bekezdését a 237/2016. (VIII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^28]: A 9. § (16) bekezdés c) pontját az 507/2017. (XII. 29.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+[^29]: A 9. § (17) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 33. §-a iktatta be.

@@ -1,4 +1,4 @@
-1. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^31]
+1. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^33]
 
 1. Az Országos Képzési Jegyzék
 
@@ -1142,4 +1142,4 @@
 
 2. táblázat: részszakképesítések
 
-[^31]: Az 1. melléklet a 25/2016. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 237/2016. (VIII. 2.) Korm. rendelet 2. § (1) bekezdése, a 149/2017. (VI. 12.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^33]: Az 1. melléklet a 25/2016. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 237/2016. (VIII. 2.) Korm. rendelet 2. § (1) bekezdése, a 149/2017. (VI. 12.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
