@@ -14,7 +14,7 @@ c) – hatályos cégkivonata alapján – tulajdonosai kizárólag az a) és b)
 
 (4) A kérelmező programban történő részvételének a 2018/2019. tanítási év vagy az azt követő tanítási évek valamelyike szerinti előzetes jóváhagyása – külön kérelem benyújtása nélkül – az (1) bekezdés szerinti előzetes jóváhagyásnak tekintendő, feltéve, hogy a kérelmező az (5) bekezdésben meghatározott kérelembenyújtási határidő első napján megfelel a (2) és (3) bekezdésben meghatározott feltételeknek. A 2017/2018. tanítási év vagy az azt megelőző tanítási évek valamelyike szerinti előzetes jóváhagyás a 2018/2019-es és az azt követő tanítási évekre nem vehető figyelembe.
 
-(5) A kérelmező a 2. melléklet szerinti adattartalmú előzetes jóváhagyás iránti kérelmét a Magyar Államkincstár (a továbbiakban: Kincstár) által erre a célra rendszeresített elektronikus űrlapon, ügyfélkapun keresztül minden évben január 1. és január 31. között a (7) bekezdésben foglaltak szerint nyújthatja be. Az előzetes jóváhagyási kérelem benyújtására nyitva álló határidő jogvesztő.
+(5)[^1] A kérelmező a 2. melléklet szerinti adattartalmú előzetes jóváhagyás iránti kérelmét a Magyar Államkincstár (a továbbiakban: Kincstár) által erre a célra rendszeresített elektronikus űrlapon, ügyfélkapun keresztül minden évben március 1. és március 31. között a 3. §-ban foglaltak szerint nyújthatja be. Az előzetes jóváhagyási kérelem benyújtására nyitva álló határidő jogvesztő.
 
 (6) Az a kérelmező jogosult az (5) bekezdés szerinti kérelem benyújtására, amely a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti nyilvántartásba vételi kötelezettségének eleget tett.
 
@@ -23,3 +23,5 @@ c) – hatályos cégkivonata alapján – tulajdonosai kizárólag az a) és b)
 (8) A Kincstár a jóváhagyási kérelmekről azok hiánytalan beérkezésétől számított tizenöt napon belül hoz döntést.
 
 (9) A Kincstár a következő tanítási évre vonatkozóan előzetes jóváhagyással rendelkező kérelmezők listáját minden év február 28-áig közzéteszi a honlapján.
+
+[^1]: A 3. § (5) bekezdése a 69/2017. (XII. 27.) FM rendelet 24. §-ával megállapított szöveg.
