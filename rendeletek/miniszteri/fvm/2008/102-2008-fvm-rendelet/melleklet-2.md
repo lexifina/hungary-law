@@ -190,7 +190,7 @@ c) köztartozással nem rendelkezem;
 
 d) megfelelek az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 15. §-ban megfogalmazott követelményeinek;
 
-Hozzájárulok, hogy a Nemzeti Adó- és Vámhivatal (NAV), az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjbiztosítási Főigazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár az általam a támogatási kérelemben közölt adataimat a támogatási eljárással összefüggésben felhasználják.
+Hozzájárulok, hogy a Nemzeti Adó- és Vámhivatal (NAV), a Nemzeti Egészségbiztosítási Alapkezelő, illetve azok szervei, továbbá a Magyar Államkincstár az általam a támogatási kérelemben közölt adataimat a támogatási eljárással összefüggésben felhasználják.
 
 Tudomásul veszem, hogy meg nem fizetett köztartozás esetén az Áht. 13/A. § (6) bekezdése alapján az esedékes támogatás a köztartozások megfizetése érdekében visszatartásra kerül.
 
@@ -232,4 +232,4 @@ ____________________
 
 1 A megfelelő négyzetbe tegyen X-et!
 
-[^41]: A 2. számú melléklet a 24/2011. (III. 28.) VM rendelet 4. §-ával megállapított, a 36/2014. (IV. 4.) VM rendelet 32. § c) pontja. és 33–34. §-a, a 88/2016. (XII. 29.) FM rendelet 33. § d) pontja szerint módosított szöveg.
+[^41]: A 2. számú melléklet a 24/2011. (III. 28.) VM rendelet 4. §-ával megállapított, a 36/2014. (IV. 4.) VM rendelet 32. § c) pontja. és 33–34. §-a, a 88/2016. (XII. 29.) FM rendelet 33. § d) pontja, a 69/2017. (XII. 27.) FM rendelet 14–15. §-a szerint módosított szöveg.
