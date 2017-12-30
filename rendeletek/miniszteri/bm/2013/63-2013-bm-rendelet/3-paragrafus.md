@@ -22,4 +22,6 @@ b) rendelkezésre állásuk esetén – az a) pontban meghatározott adatokon k�
 
 (5) Európai elfogatóparancs kibocsátása esetén az adatrögzítő szerv az (1) bekezdésben meghatározott adatokon túl a SIS II. tv. által meghatározott adatokat, valamint az aláírt és bélyegzővel ellátott elfogatóparancs PDF formátumú elektronikus példányát is rögzíti a körözési nyilvántartási rendszerben.
 
-(6) A képmás rögzítése során lehetőség szerint a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés szabályairól szóló 20/2009. (VI. 19.) IRM rendelet által meghatározott minőségű fényképet kell felhasználni, kivéve, ha a körözött személyről az előírt minőségű fénykép nem áll rendelkezésre vagy a felismerhetőség szempontjából más fénykép rögzítése indokolt.
+(6)[^2]
+
+[^2]: A 3. § (6) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (4) bekezdése hatályon kívül helyezte.
