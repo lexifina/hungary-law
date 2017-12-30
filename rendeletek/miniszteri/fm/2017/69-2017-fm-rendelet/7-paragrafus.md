@@ -1,0 +1,1 @@
+## „42. § Ez a rendelet a 64/432/EGK tanácsi irányelvnek a tagállami felügyeleti hálózat részét képező számítógépes adatbázisok tekintetében történő módosításáról szóló, 2014. május 15-i 2014/64/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
