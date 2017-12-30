@@ -52,7 +52,7 @@ e) a szippantott szennyvízre vonatkozó rezsicsökkentésről, valamint egyes t
 
 a) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 2. § (7a) bekezdésében, a 36/A. § (2) bekezdés b) pontjában foglaltak,
 
-b)[^5] az Fgytv. 16/B. §-ában, 17/D. § (1)–(2) és (6a) bekezdésében, 29. § (11) bekezdésében, 37/B. §-ában foglaltak,
+b)[^5] az Fgytv. 16/B. §-ában, az Fgytv. 2. § h) pontja szerinti közszolgáltatási tevékenységet folytató vállalkozás, valamint a külön törvényben meghatározott egyéb vállalkozás esetében 17/A. §-ában, 17/B. §-ában, 17/D. § (1)–(2) és (6a) bekezdésében, 29. § (11) bekezdésében, 37/B. §-ában foglaltak,
 
 c) a gazdasági reklámok és az üzletfeliratok, továbbá egyes közérdekű közlemények magyar nyelvű közzétételéről szóló 2001. évi XCVI. törvény 4. § (1) és (2) bekezdésében foglaltak,
 
@@ -116,7 +116,9 @@ k) a kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet 4. § (
 
 ## tekintetében fogyasztóvédelmi hatóságként a megyeszékhely szerinti járási hivatalt jelöli ki.
 
-(4a)[^13] A Kormány a légi személyszállítás szabályairól szóló 25/1999. (II. 12.) Korm. rendelet 27. § (3)–(4) bekezdésében foglaltak tekintetében fogyasztóvédelmi hatóságként a nemzetközi kereskedelemi repülőtér székhelye szerint illetékes megyeszékhely szerinti járási hivatalt jelöli ki.
+(4a)[^13]
+
+(4b)[^14] A Kormány a légi személyszállítás szabályairól szóló 25/1999. (II. 12.) Korm. rendelet 27. § (3)–(4) bekezdésében foglaltak tekintetében fogyasztóvédelmi hatóságként a nemzetközi kereskedelmi repülőtér székhelye szerint illetékes megyeszékhely szerinti járási hivatalt jelöli ki.
 
 (5) Az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény 11. § (1) bekezdés e) pont ef) alpontja szerinti esetben a vámtitokról a megyeszékhely szerinti járási hivatalt a miniszter útján kell tájékoztatni.
 
@@ -138,14 +140,14 @@ f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát
 
 (8) A miniszter és a megyeszékhely szerinti járási hivatal piacfelügyeleti feladat- és hatáskörükben ellenőrzi az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 4–9., valamint 11–16. cikkében foglalt követelmények betartását, és eljár azok megsértése esetén.
 
-(9)[^14] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a járási hivatalt, a megyeszékhely szerinti járási hivatalt, valamint a Pest Megyei Kormányhivatalt jelöli ki.
+(9)[^15] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a járási hivatalt, a megyeszékhely szerinti járási hivatalt, valamint a Pest Megyei Kormányhivatalt jelöli ki.
 
-(10)[^15] A Pest Megyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.
+(10)[^16] A Pest Megyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.
 
 [^2]: A 3. § (1) bekezdés e) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
 [^3]: A 3. § (1) bekezdés i) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (1) bekezdése iktatta be.
 [^4]: A 3. § (2) bekezdés d) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § (4) bekezdés b) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^5]: A 3. § (4) bekezdés b) pontja az 522/017. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (4) bekezdés f) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^7]: A 3. § (4) bekezdés k) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
 [^8]: A 3. § (4) bekezdés p) pontja a 171/2017. (VI. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
@@ -153,6 +155,7 @@ f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát
 [^10]: A 3. § (4) bekezdés r) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
 [^11]: A 3. § (4) bekezdés s) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
 [^12]: A 3. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 27. § (4) bekezdése iktatta be.
-[^13]: A 3. § újabb (4a) bekezdését a 213/2017. (VII. 25.) Korm. rendelet 2. § (6) bekezdése iktatta be.
-[^14]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
-[^15]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
+[^13]: A 3. § újabb (4a) bekezdését a 213/2017. (VII. 25.) Korm. rendelet 2. § (6) bekezdése iktatta be, hatályon kívül helyezte az 522/017. (XII. 29.) Korm. rendelet 2. §-a.
+[^14]: A 3. § (4b) bekezdését az 522/017. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^15]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
+[^16]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
