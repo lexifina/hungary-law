@@ -88,31 +88,7 @@
 
 ## Határidő: a 2018. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-## 7. A Normafa Park történelmi sportterület megvalósításához szükséges intézkedésekről szóló 1507/2016. (IX. 21.) Korm. határozat 5. pontja helyébe a következő rendelkezés lép:
-
-## [A Kormány a Normafa Park történelmi sportterületről szóló 2013. évi CXLVIII. törvényben (a továbbiakban: Normafa tv.) foglalt célok megvalósítása érdekében]
-
-## „5. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon
-
-## a) a Budapest XII. kerület Eötvös út új nyomvonalának kialakítása és az ehhez kapcsolódó parkoló kialakítása céljára a 2018. évben 1 539 500 000 forint,
-
-## b) a Budapest XII. kerület 10525/2 helyrajzi számon nyilvántartott ingatlanon található „Hild-villa” felújításával és a hozzá kapcsolódó telek környezetrendezéssel kapcsolatos előkészítési, tervezési munkálatokra a 2018. évben 60 000 000 forint,
-
-## c) a Budapest XII. kerület 10525/2 helyrajzi számon nyilvántartott ingatlanon található „Hild-villa” felújítására és a hozzá kapcsolódó telek környezetrendezésére a 2018. évben 550 000 000 forint, a 2019. évben 1 600 000 000 forint,
-
-## d) a Budapest XII. kerület 10525/2 helyrajzi számon nyilvántartott ingatlanon található egykori Fácán Vendéglő épületének felújítására a 2018. évben 950 000 000 forint, illetve az iskolai funkcióhoz szükséges bővítéshez, továbbá a katonai oktatóépület bontására a 2018. évben 1 170 000 000 forint,
-
-## e) a Budapest XII. kerület 10760/3 helyrajzi számon nyilvántartott, egykori lóvasút-végállomás épületének műemléki felújítását és funkcióbővítő hasznosítását célzó beruházás céljára a 2017. évben legfeljebb 622 300 000 forint
-
-## forrás rendelkezésre állásáról a központi költségvetés IX. Helyi önkormányzatok támogatásai fejezetben az Önkormányzat számára;
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: a 2017. évi források, illetve az a), b) és d) pontok szerinti 2018. évi források tekintetében a felmerülés ütemében,
-
-## a c) pont szerinti 2018. évi források tekintetében a 2018. évi központi költségvetés tervezése keretében,
-
-## a 2019. évi források tekintetében a 2019. évi központi költségvetés tervezésekor”
+## 7.[^1]
 
 1. melléklet a 2145/2017. (XII. 29.) Korm. határozathoz
 
@@ -161,3 +137,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
