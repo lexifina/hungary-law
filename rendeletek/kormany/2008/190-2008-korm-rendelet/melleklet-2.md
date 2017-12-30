@@ -28,7 +28,7 @@
 
 ## n) engedélyenként (vonó járművenként) az eljárási illeték.
 
-2. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^6]
+2. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^7]
 
 .................... sorszám
 
@@ -42,4 +42,4 @@ a nehéz tehergépkocsik közlekedésének korlátozásáról szóló
 
 meghatározott közlekedési korlátozás alóli felmentésre
 
-[^6]: A 2. melléklet a 297/2014. (XII. 3.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 116. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet a 297/2014. (XII. 3.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 116. §-a szerint módosított szöveg.
