@@ -1,10 +1,10 @@
-## 8. §[^9] A támogatást a Vidékfejlesztési Minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámláról kell teljesíteni és a jogosulatlanul igénybe vett támogatást ugyanezen számlára kell visszafizetni.
+## 8. §[^10] A támogatást a Földművelésügyi Minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámláról kell teljesíteni és a jogosulatlanul igénybe vett támogatást ugyanezen számlára kell visszafizetni.
 
 9. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
 (2) E rendelet hatálybalépésével egyidejűleg a 2004. évi nemzeti hatáskörben nyújtott agrár- és vidékfejlesztési támogatások igénybevételének feltételeiről szóló 25/2004. (III. 3.) FVM rendelet 39–42. §-a hatályát veszti azzal, hogy rendelkezéseit a folyamatban lévő ügyekre alkalmazni kell.
 
-Melléklet a 99/2007. (IX. 19.) FVM rendelethez[^10]
+Melléklet a 99/2007. (IX. 19.) FVM rendelethez[^11]
 
 Kérelem birtok-összevonási célú termőföldvásárlás támogatására
 
@@ -88,7 +88,7 @@ Anyja neve:
 
 büntetőjogi felelősségem tudatában, az alábbi nyilatkozatokat teszem.
 
-1. Nyilatkozom, hogy a támogatásra való jogosultság ellenőrzése és a támogatás folyósítása céljából hozzájárulok a kérelmemben megadott adataimnak az Adó- és Pénzügyi Ellenőrzési Hivatal, a Vám- és Pénzügyőrség, az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjfolyósító Igazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár általi felhasználásához.
+1. Nyilatkozom, hogy a támogatásra való jogosultság ellenőrzése és a támogatás folyósítása céljából hozzájárulok a kérelmemben megadott adataimnak a Nemzeti Adó- és Vámhivatal, a Nemzeti Egészségbiztosítási Alapkezelő , illetve azok szervei, továbbá a Magyar Államkincstár általi felhasználásához.
 
 2. Nyilatkozom, hogy adó-, járulék-, illeték- vagy vámtartozásom nincs.
 
@@ -104,11 +104,11 @@ b) egyéb művelési ágú, legalább 1 hektár területnagyságú földrészl
 
 5. Nyilatkozom, hogy vállalkozásom megfelel az Európai Mezőgazdasági Orientációs és Garancia Alapból nyújtandó vidékfejlesztési támogatásokkal összefüggésben a tesztüzemi rendszer keretében kialakított standard fedezeti hozzájárulás értékek alkalmazásáról szóló 146/2004. (IX. 30.) FVM rendeletben előírt gazdasági életképesség kritériumának.
 
-6. Tudomásul veszem, hogy a Vidékfejlesztési Minisztérium a támogatás kifizetésétől számított öt éven belül nem járul hozzá az elidegenítési és terhelési tilalom első ranghelyen történt bejegyzésének megváltoztatásához.
+6. Tudomásul veszem, hogy a Földművelésügyi Minisztérium a támogatás kifizetésétől számított öt éven belül nem járul hozzá az elidegenítési és terhelési tilalom első ranghelyen történt bejegyzésének megváltoztatásához.
 
 7. Nyilatkozom, hogy a kérelmemben foglalt adatok, információk és dokumentációk helytállóak.
 
-8. Tudomásul veszem, hogy a kérelmem pozitív elbírálása esetén a minisztérium a Vidékfejlesztési Minisztérium honlapján a kérelmem főbb adatait közzéteszi.
+8. Tudomásul veszem, hogy a kérelmem pozitív elbírálása esetén a minisztérium a Földművelésügyi Minisztérium honlapján a kérelmem főbb adatait közzéteszi.
 
 Kelt: ................ (hely) ............... (év) ................... (hónap) ................. (nap)
 
@@ -124,13 +124,13 @@ Születési hely, idő:
 
 Lakcím:
 
-szám alatti lakos kötelezettséget vállalok arra, hogy amennyiben a Vidékfejlesztési Minisztérium az alább felsorolt termőföldek megvásárlásához támogatást biztosít, azokat a támogatás folyósításától számított öt éven belül nem idegenítem el, más célra nem hasznosítom, és a művelési águknak megfelelő tényleges mezőgazdasági műveléssel hasznosítom.
+szám alatti lakos kötelezettséget vállalok arra, hogy amennyiben a Földművelésügyi Minisztérium az alább felsorolt termőföldek megvásárlásához támogatást biztosít, azokat a támogatás folyósításától számított öt éven belül nem idegenítem el, más célra nem hasznosítom, és a művelési águknak megfelelő tényleges mezőgazdasági műveléssel hasznosítom.
 
 A támogatással megvásárolt földrészlet adatai
 
 | Település | Hrsz. | Művelési ág | Tulajdoni hányad | Adásvételi szerződés kelte |
 
-Egyidejűleg hozzájárulásomat adom, hogy a vásárláshoz nyújtott támogatás folyósítása esetén az elidegenítési és terhelési tilalom a Vidékfejlesztési Minisztérium javára első ranghelyre, a támogatás folyósításától számított ötéves időtartamra, az ingatlan-nyilvántartásba feljegyzésre kerüljön.
+Egyidejűleg hozzájárulásomat adom, hogy a vásárláshoz nyújtott támogatás folyósítása esetén az elidegenítési és terhelési tilalom a Földművelésügyi Minisztérium javára első ranghelyre, a támogatás folyósításától számított ötéves időtartamra, az ingatlan-nyilvántartásba feljegyzésre kerüljön.
 
 Kelt: ................ (hely) ............... (év) ................... (hónap) ................. (nap)
 
@@ -150,5 +150,5 @@ Előttünk, mint tanúk előtt:
 
 | Szig. sz.: | Szig. sz.: |
 
-[^9]: A 8. § a 130/2013. (XII. 21.) VM rendelet 10. §-ával megállapított szöveg.
-[^10]: A melléklet a 70/2013. (VII. 31.) VM rendelet 74. § b) pontja szerint módosított szöveg.
+[^10]: A 8. § a 130/2013. (XII. 21.) VM rendelet 10. §-ával megállapított, a 69/2017. (XII. 27.) FM rendelet 12. § b) pontja szerint módosított szöveg.
+[^11]: A melléklet a 69/2017. (XII. 27.) FM rendelet 12. § b) és g)–h) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@ b) betartja a Helyes Gazdálkodási Gyakorlat előírásait,
 
 c) vállalkozása megfelel az Európai Mezőgazdasági Orientációs és Garancia Alapból nyújtandó vidékfejlesztési támogatásokkal összefüggésben a tesztüzemi rendszer keretében kialakított standard fedezeti hozzájárulás értékek alkalmazásáról szóló 146/2004. (IX. 30.) FVM rendelet alapján a gazdaságilag életképes üzem kritériumának,
 
-d)[^4] rendelkezzen mezőgazdasági szakirányú képzettséggel vagy mezőgazdasági vállalkozó (OKJ 32 6201 02), ezüstkalászos gazda (OKJ 21 6201 01), aranykalászos gazda (OKJ 32 6201 01) szakképesítés megléte esetén a megyei kormányhivatal földművelésügyi igazgatósága (a továbbiakban: földművelésügyi igazgatóság) által igazoltan legalább öt éves mezőgazdasági szakmai gyakorlattal,
+d)[^5] rendelkezzen mezőgazdasági szakirányú képzettséggel vagy mezőgazdasági vállalkozó (OKJ 32 6201 02), ezüstkalászos gazda (OKJ 21 6201 01), aranykalászos gazda (OKJ 32 6201 01) szakképesítés megléte esetén a földművelésügyi igazgatási hatáskörben eljáró megyeszékhely szerinti járási hivatal (a továbbiakban: járási hivatal) által igazoltan legalább öt éves mezőgazdasági szakmai gyakorlattal,
 
 e) termőföldtulajdona a támogatás alapját képező, vásárlással megszerzett termőfölddel együtt a kettőszáztíz aranykoronát, szőlő és gyümölcsös művelési ágú termőföld esetében pedig a két hektárt meghaladja,
 
@@ -24,4 +24,4 @@ gb) más célra nem hasznosítja, és
 
 gc) a művelési ágának megfelelő tényleges mezőgazdasági műveléssel hasznosítja.
 
-[^4]: A 3. § (3) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 74. § c) pontja szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdés d) pontja a 69/2017. (XII. 27.) FM rendelet 12. § c) pontja szerint módosított szöveg.

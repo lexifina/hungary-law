@@ -1,6 +1,6 @@
 5. § (1) A kérelem és mellékleteinek tartalmi és formai követelményeit a melléklet tartalmazza.
 
-(2)[^5] E rendelet melléklete alapján összeállított kérelmet a 2013. évben legkésőbb 2013. december 31-éig lehet a földművelésügyi igazgatósághoz benyújtani.
+(2)[^6] E rendelet melléklete alapján összeállított kérelmet a 2013. évben legkésőbb 2013. december 31-éig lehet a járási hivatalhoz benyújtani.
 
 (3) Egy ügyfél évente legfeljebb két kérelmet nyújthat be.
 
@@ -16,4 +16,4 @@ c) a mezőgazdasági termelőtevékenységet igazoló dokumentumok (őstermelői
 
 d) a mezőgazdasági szakirányú képzettséget vagy öt éves szakmai gyakorlatot igazoló dokumentumok egyszerű másolatát, melynek eredetivel való azonosságát az ügyfél a másolaton aláírásával igazolja.
 
-[^5]: Az 5. § (2) bekezdése a 130/2013. (XII. 21.) VM rendelet 8. §-ával megállapított szöveg.
+[^6]: Az 5. § (2) bekezdése a 130/2013. (XII. 21.) VM rendelet 8. §-ával megállapított, a 69/2017. (XII. 27.) FM rendelet 12. § d) pontja szerint módosított szöveg.
