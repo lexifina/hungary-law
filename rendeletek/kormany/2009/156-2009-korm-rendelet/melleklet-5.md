@@ -52,7 +52,7 @@
 
 | R2 | Az alkalmazott/önfoglalkoztató járművezetők meghamisítják az adatokat vagy megtagadják azoknak a vizsgáló tisztviselő rendelkezésére bocsátását | NSJ | 300 000 | járművezető |
 
-5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^64]
+5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^65]
 
 ## I., II. vagy III. kockázati kategóriába tartozó cselekmény vagy mulasztás
 
@@ -254,4 +254,4 @@ A mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy l
 
 | 16. | A járművezetőnek nincs érvényes vizsga igazolása. | 40 000 | szállító (fuvarozó), járművezető |
 
-[^64]: Az 5. melléklet a 372/2016. (XI. 29.) Korm. rendelet 12. §-ával megállapított, a 476/2016. (XII. 27.) Korm. rendelet 7. § (6) bekezdése szerint módosított szöveg.
+[^65]: Az 5. melléklet a 372/2016. (XI. 29.) Korm. rendelet 12. §-ával megállapított, a 476/2016. (XII. 27.) Korm. rendelet 7. § (6) bekezdése szerint módosított szöveg.

@@ -12,7 +12,7 @@ d) a közúti járművek időszakos vizsgálata egységes feltételeinek elfogad
 
 az áru- vagy személyszállítást végző járművek közúti forgalomban való részvételére vonatkozó,
 
-e) a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendeletben meghatározott, valamint
+e)[^28] a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendeletben meghatározott,
 
 f) a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendeletben szabályozott
 
@@ -30,3 +30,4 @@ rendelkezést megsérti.
 
 [^26]: A 8. § a 261/2011. (XII. 7.) Korm. rendelet 41. § (5) bekezdésével megállapított, a 280/2013. (VII. 24.) Korm. rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^27]: A 9. § a 233/2017. (VIII. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^28]: A 9. § (1) bekezdés e) pontja az 516/2017. (XII. 29.) Korm. rendelet 13. §-a szerint módosított szöveg.
