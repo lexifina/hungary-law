@@ -1,12 +1,12 @@
-## 50. §[^45] Ha a záradék időbeli hatályán belül az átvezetésre már korábban benyújtott záradékolt változási vázrajzzal érintett földrészletek adatai időközben megváltoztak, akkor – az ingatlan-nyilvántartási átvezetés előtt – a vázrajz átdolgozása a járási hivatal feladata.
+## 50. §[^46] Ha a záradék időbeli hatályán belül az átvezetésre már korábban benyújtott záradékolt változási vázrajzzal érintett földrészletek adatai időközben megváltoztak, akkor – az ingatlan-nyilvántartási átvezetés előtt – a vázrajz átdolgozása a járási hivatal feladata.
 
-51. § (1)[^46] A földrészlethatár változással járó változási vázrajzot a járási hivatal „A helyrajzi számozás és a területszámítás helyes. Ez a záradék a keltezéstől számított egy évig hatályos, későbbi felhasználás előtt a vázrajzot újra záradékoltatni kell.” szövegű záradékkal látja el.
+51. § (1)[^47] A földrészlethatár változással járó változási vázrajzot a járási hivatal „A helyrajzi számozás és a területszámítás helyes. Ez a záradék a keltezéstől számított egy évig hatályos, későbbi felhasználás előtt a vázrajzot újra záradékoltatni kell.” szövegű záradékkal látja el.
 
-(2)[^47] A járási hivatal a 4. § (3) bekezdés a)–c), valamint e) és f) pontjai szerinti változási vázrajzokat vizsgálat és nyilvántartásba vétel után „Az állami alapadat tartalom az állami ingatlan-nyilvántartási térképi adatbázis tartalmával megegyezik. Ez a záradék a keltezéstől számított egy évig hatályos, későbbi felhasználás előtt a vázrajzot újra záradékoltatni kell.” záradékszöveggel látja el.
+(2)[^48] A járási hivatal a 4. § (3) bekezdés a)–c), valamint e) és f) pontjai szerinti változási vázrajzokat vizsgálat és nyilvántartásba vétel után „Az állami alapadat tartalom az állami ingatlan-nyilvántartási térképi adatbázis tartalmával megegyezik. Ez a záradék a keltezéstől számított egy évig hatályos, későbbi felhasználás előtt a vázrajzot újra záradékoltatni kell.” záradékszöveggel látja el.
 
-(3)[^48] A kitűzési vázrajzok esetében a járási hivatal a 47. § (2) bekezdés a)–c), e)–f), h) és j) pontjában foglalt előírásoknak való megfelelőséget vizsgálja. Ezzel egyidejűleg a „Nyilvántartásba véve.” záradékszöveggel látja el.
+(3)[^49] A kitűzési vázrajzok esetében a járási hivatal a 47. § (2) bekezdés a)–c), e)–f), h) és j) pontjában foglalt előírásoknak való megfelelőséget vizsgálja. Ezzel egyidejűleg a „Nyilvántartásba véve.” záradékszöveggel látja el.
 
-[^45]: Az 50. § a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.
-[^46]: Az 51. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.
-[^47]: Az 51. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § c) pontja szerint módosított szöveg.
-[^48]: Az 51. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.
+[^46]: Az 50. § a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.
+[^47]: Az 51. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.
+[^48]: Az 51. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § c) pontja szerint módosított szöveg.
+[^49]: Az 51. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.

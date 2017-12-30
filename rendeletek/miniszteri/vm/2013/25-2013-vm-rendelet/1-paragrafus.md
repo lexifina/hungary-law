@@ -26,6 +26,6 @@
 
 12. változási vázrajz: az állami ingatlan-nyilvántartási térképi adatbázis tartalmának változását eredményező digitális és papír alapú földmérési munkarész.
 
-13.[^1] címkoordináta: a címhez rendelt azon helyzetet leíró méter élességű koordinátapár, amely az adott ingatlan, épület illetve építmény objektumokat egyértelműen azonosítja.
+13.[^2] címkoordináta: a címhez rendelt azon helyzetet leíró méter élességű koordinátapár, amely az adott ingatlan, épület illetve építmény objektumokat egyértelműen azonosítja.
 
-[^1]: Az 1. § 13. pontját a 39/2014. (XII. 18.) FM rendelet 12. § (1) bekezdése iktatta be.
+[^2]: Az 1. § 13. pontját a 39/2014. (XII. 18.) FM rendelet 12. § (1) bekezdése iktatta be.

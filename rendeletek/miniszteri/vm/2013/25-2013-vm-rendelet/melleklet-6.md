@@ -94,6 +94,6 @@
 
 | 400 ha | - | - | - | - | 0,20 % | ± 8 000 m² |  | ± 18 000 m² |
 
-6. melléklet a 25/2013. (IV. 16.) VM rendelethez[^69]
+6. melléklet a 25/2013. (IV. 16.) VM rendelethez[^70]
 
-[^69]: A 6. melléklet a 39/2014. (XII. 18.) FM rendelet 12. § (4) bekezdése szerint módosított szöveg.
+[^70]: A 6. melléklet a 39/2014. (XII. 18.) FM rendelet 12. § (4) bekezdése szerint módosított szöveg.

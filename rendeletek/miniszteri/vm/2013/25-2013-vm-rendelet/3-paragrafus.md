@@ -2,7 +2,7 @@
 
 a) a fejlécben
 
-aa)[^4] a kiállító járási hivatal címbélyegzőjét;
+aa)[^5] a kiállító járási hivatal címbélyegzőjét;
 
 ab) a település nevét;
 
@@ -14,7 +14,7 @@ ae) a térképmásolat méretarányát és
 
 af) a vetületi rendszert;
 
-ag)[^5] a címkoordinátát
+ag)[^6] a címkoordinátát
 
 b) a rajzi részben az igényelt földrészlet és annak környezete vonatkozásában
 
@@ -28,10 +28,10 @@ ca) hiteles papíralapú másolat esetében az alábbi záradékszöveget: „A 
 
 cb) az adatszolgáltatást végző személy nevét (nyomtatott betűvel) és aláírását továbbá;
 
-cc)[^6] a járási hivatal körbélyegzőjét.
+cc)[^7] a járási hivatal körbélyegzőjét.
 
 (2) Analóg adathordozón lévő állami alapadatok szolgáltatásakor a másolaton fel kell tüntetni a készítés vagy az adattartalom utolsó aktualizálásának időpontját.
 
-[^4]: A 3. § (1) bekezdés a) pont aa) alpontja a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.
-[^5]: A 3. § (1) bekezdés a) pont ag) alpontját a 39/2014. (XII. 18.) FM rendelet 12. § (2) bekezdése iktatta be.
-[^6]: A 3. § (1) bekezdés c) pont cc) alpontja a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés a) pont aa) alpontja a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés a) pont ag) alpontját a 39/2014. (XII. 18.) FM rendelet 12. § (2) bekezdése iktatta be.
+[^7]: A 3. § (1) bekezdés c) pont cc) alpontja a 42/2017. (VIII. 17.) FM rendelet 192. § b) pontja szerint módosított szöveg.

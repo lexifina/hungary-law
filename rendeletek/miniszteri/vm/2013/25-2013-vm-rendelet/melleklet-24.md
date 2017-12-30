@@ -36,6 +36,6 @@
 
 ## f) a kitűzés dátumát.
 
-24. melléklet a 25/2013. (IV. 16.) VM rendelethez[^83]
+24. melléklet a 25/2013. (IV. 16.) VM rendelethez[^84]
 
-[^83]: A 24. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § d) és m) pontja szerint módosított szöveg.
+[^84]: A 24. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § d) és m) pontja szerint módosított szöveg.

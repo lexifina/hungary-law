@@ -28,6 +28,6 @@
 
 ## 10. A készítő és minőségtanúsító aláírása és dátum.
 
-26. melléklet a 25/2013. (IV. 16.) VM rendelethez[^84]
+26. melléklet a 25/2013. (IV. 16.) VM rendelethez[^85]
 
-[^84]: A 26. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § m) és s)–t) pontja szerint módosított szöveg.
+[^85]: A 26. melléklet a 42/2017. (VIII. 17.) FM rendelet 192. § m) és s)–t) pontja szerint módosított szöveg.
