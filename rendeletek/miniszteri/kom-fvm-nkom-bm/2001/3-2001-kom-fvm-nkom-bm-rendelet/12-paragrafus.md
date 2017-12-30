@@ -1,4 +1,4 @@
-12. § (1)[^21] Az állatotthon Átv. 41. § (1) bekezdése szerinti engedélyezése iránti kérelemnek tartalmaznia kell:
+12. § (1)[^21] Az állatotthon Átv. 41. § (1) bekezdése szerinti bejelentésnek tartalmaznia kell:
 
 a) a tulajdonos nevét, lakcímét, székhelyét, tartózkodási helyét valamint a vezető nevét, címét;
 
@@ -10,7 +10,7 @@ d) az állategészségügyi ellátást biztosító állatorvos nyilatkozatát;
 
 e) a nem kizárólagos önkormányzati tulajdonban levő állatotthon esetén igazolást a tartós működtetéshez szükséges vagyoni fedezet folyamatos rendelkezésre állásáról és biztosítékáról.
 
-(2) Az engedélykérelemhez mellékelni kell a ,,Működési szabályzatot'' és megszűnés esetére a ,,Felszámolási tervet''.
+(2)[^22] A bejelentéshez mellékelni kell a ,,Működési szabályzatot'' és megszűnés esetére a ,,Felszámolási tervet''.
 
 (3) A Működési szabályzatnak tartalmaznia kell:
 
@@ -28,9 +28,11 @@ f) veszélyes állat elhelyezése esetén az R.-ben előírt és teljesített fe
 
 g) a keletkezett állattetemek, állati hulladék, trágya kezelésének és ártalmatlanításának módját.
 
-(4) Az engedélyben rendelkezni kell az állatotthon adatszolgáltatási kötelezettségéről.
+(4)[^23] A nyilvántartásba vételi határozatban rendelkezni kell az állatotthon adatszolgáltatási kötelezettségéről.
 
-(5)[^22] Az állatotthon működését az állatvédelmi hatóság – a szakhatóságok részvételével – folyamatosan ellenőrzi, és ötévenként felülvizsgálja. A felülvizsgálat eredményétől függően az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal az állatotthont bezárathatja, vagy azonnali bezárást nem indokoló hiányosságok esetén – határidő tűzésével – a hiányosságok pótlását rendelheti el.
+(5)[^24] Az állatotthon működését az állatvédelmi hatóság – a szakhatóságok részvételével – folyamatosan ellenőrzi, és ötévenként felülvizsgálja. A felülvizsgálat eredményétől függően az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal az állatotthont bezárathatja, vagy azonnali bezárást nem indokoló hiányosságok esetén – határidő tűzésével – a hiányosságok pótlását rendelheti el.
 
-[^21]: A 12. § (1) bekezdés nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 3. § (3) bekezdése szerint módosított szöveg.
-[^22]: A 12. § (5) bekezdése a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 1. § (3) bekezdésével megállapított, a 42/2017. (VIII. 27.) FM rendelet 24. §-a szerint módosított szöveg.
+[^21]: A 12. § (1) bekezdés nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 3. § (3) bekezdése, a 69/2017. (XII. 27.) FM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^22]: A 12. § (2) bekezdése a 69/2017. (XII. 27.) FM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^23]: A 12. § (4) bekezdése a 69/2017. (XII. 27.) FM rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^24]: A 12. § (5) bekezdése a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 1. § (3) bekezdésével megállapított, a 42/2017. (VIII. 27.) FM rendelet 24. §-a szerint módosított szöveg.

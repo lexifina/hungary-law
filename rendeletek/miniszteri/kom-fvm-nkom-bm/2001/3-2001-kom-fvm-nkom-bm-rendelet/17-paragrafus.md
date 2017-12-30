@@ -1,8 +1,8 @@
-## 16. §[^27]
+## 16. §[^29]
 
-17. §[^28] Ez a rendelet a vadon élő állatok állatkertben tartásáról szóló, 1999. március 29-i 1999/22/EK irányelvnek való megfelelést szolgálja.
+17. §[^30] Ez a rendelet a vadon élő állatok állatkertben tartásáról szóló, 1999. március 29-i 1999/22/EK irányelvnek való megfelelést szolgálja.
 
-Melléklet a 3/2001. (II. 23.) KöM–FVM–NKÖM–BM együttes rendelethez[^29]
+Melléklet a 3/2001. (II. 23.) KöM–FVM–NKÖM–BM együttes rendelethez[^31]
 
 Az állatkerti állatok minimális elhelyezési feltételei
 
@@ -766,7 +766,7 @@ További egyed: az alapterület 30%-kal növelendő.
 
 | Nektármadárfélék (Nectariidae spp.), mézevőfélék (Meliphagidae spp.) | 1–2 | – | – | 3 | 6 | – | 1 |  |
 
-| Pintyfélék (Fringillidae spp.), sármányfélék (Emberizidae spp.), tangarafélék (Thraupidae spp.) |  |  |  |  |  |  |  |  |
+| Pintyfélék (Fringillidae spp.), sármányfélék (Emberizidae spp.), tangarafélék (Thraupidae spp.) | 1–20 | 4 | 12 | 4 | 12 | 0,25 | 0,25 |  |
 
 | pápaszemes madárfélék (Zosteropidae spp.) | 1–6 | 4 | 12 | 4 | 12 | 0,25 | 0,25 |  |
 
@@ -1218,6 +1218,6 @@ Speciális előírások:
 
 A tengeri fókafajok, illetve alfajok esetében az előírt medencén túl szükséges egy kis, sósvizű medencét biztosítani a fürdetéshez.
 
-[^27]: A 16. §-t a 118/2008. (V. 8.) Korm. rendelet 26. §-ának 17. pontja hatályon kívül helyezte.
-[^28]: A 17. § a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.
-[^29]: A melléklet a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 7. §-ának (2) bekezdésével megállapított, valamint a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 11. § (8) bekezdése, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 69. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^29]: A 16. §-t a 118/2008. (V. 8.) Korm. rendelet 26. §-ának 17. pontja hatályon kívül helyezte.
+[^30]: A 17. § a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.
+[^31]: A melléklet a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 7. §-ának (2) bekezdésével megállapított, valamint a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 11. § (8) bekezdése, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 69. pontja, a 69/2017. (XII. 27.) FM rendelet 3. § (2) bekezdése szerint módosított szöveg.

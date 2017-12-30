@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-3-20-66
 | 2013-06-17 | 2001-3-20-66.7 | 51/2013. (VI. 17.) VM rendelet |
 | 2016-01-16 | 2001-3-20-66.8 | 85/2015. (XII. 17.) FM rendelet |
 | 2017-08-18 | 2001-3-20-66.9 | 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet |
+| 2017-12-30 | 2001-3-20-66.10 | 69/2017. (XII. 27.) FM rendelet |
