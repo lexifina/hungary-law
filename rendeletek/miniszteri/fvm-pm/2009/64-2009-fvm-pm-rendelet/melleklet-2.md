@@ -28,44 +28,6 @@
 
 ## önkormányzat jegyzője/hegybíró
 
-2. számú melléklet a 64/2009. (V. 22.) FVM–PM együttes rendelethez[^11]
+2. számú melléklet a 64/2009. (V. 22.) FVM–PM együttes rendelethez[^12]
 
-Kérelem a mezei őrszolgálat és a hegyőrség működéséhez nyújtott támogatás igényléséhez
-
-...................... Megyei Kormányhivatal ................................ Járási Hivatala
-
-Igazolom, hogy 20..... ............................................. hó ......... naptól 20..... ........................................... hó ..... na-pig az ................................................ önkormányzat/hegyközség területén a mezei őrszolgálat/hegyőrség ............ fővel működött.
-
-A működési költségek az alábbiak voltak:
-
-– dologi kiadások
-
-Számla sorszáma: Összeg (Ft):
-
-................................................ ................................................
-
-................................................ ................................................
-
-................................................ ................................................
-
-Összesen: ................................................
-
-– személyi kiadások
-
-munkabér: ................................................
-
-járulék: ................................................
-
-Összesen: ................................................
-
-Mindösszesen: ................................................
-
-Ezek alapján kérem az önkormányzat/hegyközség részére a hatályos jogszabályok szerint ........................ Ft összegű támogatás kifizetése iránti intézkedést.
-
-................................................, 20..... ......... hó ..... nap
-
-.................................................................
-
-önkormányzat jegyzője/hegybíró
-
-[^11]: A 2. melléklet a 42/2017. (VIII. 17.) FM rendelet 127. § c) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet a 42/2017. (VIII. 17.) FM rendelet 127. § c) pontja szerint módosított szöveg.
