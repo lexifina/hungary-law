@@ -1,8 +1,4 @@
-## 1. A Kenderes Város Önkormányzata tulajdonában álló egyes ingatlanok felújításához szükséges forrás biztosításáról szóló 1481/2017. (VII. 25.) Korm. határozatban foglalt „(hrsz. 56, 895, 1079/1, 1484, 1148)” szövegrész helyébe a „(hrsz. 56, 1079/1, 1148, 1212/2, 1484)” szöveg lép.
-
-## 2. Az egyes egyházi tulajdonban, valamint fenntartásban lévő ingatlanok felújításához szükséges források biztosításáról szóló 1659/2017. (IX. 13.) Korm. határozatban foglalt „(hrsz. 1885, 935, 936)” szövegrész helyébe a „(hrsz. 1, 885, 935, 936)” szöveg lép.
-
-## 3. Az egyes települési önkormányzatok feladatainak támogatása érdekében a IX. Helyi önkormányzatok támogatásai fejezetben történő előirányzat-átcsoportosításról szóló 1680/2017. (IX. 21.) Korm. határozat 2. pontja b) alpontjában foglalt „(hrsz. 56, 895, 1079/1, 1484, 1148)” szövegrész helyébe a „(hrsz. 56, 1079/1, 1148, 1212/2, 1484)” szöveg lép.
+## 1–3.[^1]
 
 ## 4. A Kormány a 2020. évi budapesti Eucharisztikus Világkongresszus és a 2021. évi Vadászati Világkiállítás megrendezése érdekében megvalósítandó, a HUNGEXPO Budapesti Vásárközpont és egyes kapcsolódó fejlesztések elvégzéséhez szükséges forrás biztosításáról szóló 1563/2017. (VIII. 28.) Korm. határozat (a továbbiakban: HUNGEXPO határozat) 2. pontjától eltérően az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 1 527 800 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2017. évi központi költségvetéséről szóló 2016. XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 13. Hungexpo fejlesztése jogcím terhére a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím javára az 1. melléklet szerint;
 
@@ -97,3 +93,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
