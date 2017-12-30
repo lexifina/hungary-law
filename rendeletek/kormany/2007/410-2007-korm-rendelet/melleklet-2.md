@@ -24,6 +24,6 @@
 
 | g) 110 km/óra felett | g) 300 000 |  |
 
-2. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^48]
+2. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^50]
 
-[^48]: A 2. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 3. § (6) bekezdésével megállapított szöveg.
+[^50]: A 2. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 3. § (6) bekezdésével megállapított szöveg.
