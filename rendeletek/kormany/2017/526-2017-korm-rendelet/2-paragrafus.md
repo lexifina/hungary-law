@@ -1,0 +1,3 @@
+## 1. § A Modern Városok Program keretében egyes sportcélú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 203/2017. (VII. 10.) Korm. rendelet (a továbbiakban: Rendelet) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az 1. mellékletben foglalt táblázat 2., 3., 4., 5., 7., 9., 11., 12., 13., 14., 16., 17., 18., 19., 20. és 24. sora szerinti beruházásokkal összefüggésben – a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet hatálya alá tartozó építési tevékenység esetében – a központi építészeti-műszaki tervtanács véleményét be kell szerezni.”
