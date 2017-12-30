@@ -1,5 +1,5 @@
-## 9. §[^3] A törvény III. fejezetében foglalt előírásokat a megyei kormányhivatal növény-és talajvédelmi igazgatósága ellenőrzik.
+## 9. §[^3] A törvény III. fejezetében foglalt előírásokat a növény- és talajvédelmi hatáskörben eljáró megyeszékhely szerinti járási hivatal ellenőrzik.
 
 ## Záró rendelkezések
 
-[^3]: A 9. § a 70/2013. (VII. 31.) VM rendelet 58. § a) pontja szerint módosított szöveg.
+[^3]: A 9. § a 69/2017. (XII. 27.) FM rendelet 11. §-a szerint módosított szöveg.
