@@ -1,4 +1,4 @@
-## 31. §[^14]
+## 31. §[^16]
 
 1. melléklet a 176/2015. (VII. 7.) Korm. rendelethez
 
@@ -40,4 +40,4 @@ A vizsga során 3 feladatot kell a vizsgázóknak esszé formájában kifejteni 
 
 Ezeket a feladatokat a közlekedési hatóság által kiadott feladatlapokon kell elkészíteni. Az esettanulmány kitöltésére fordítható idő 30 perc.
 
-[^14]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

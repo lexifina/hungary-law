@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-176-20-
 | 2016-07-23 | 2015-176-20-22.4 | 217/2016. (VII. 23.) Korm. rendelet |
 | 2016-07-24 | 2015-176-20-22.5 | 164/2016. (VI. 23.) Korm. rendelet |
 | 2017-01-01 | 2015-176-20-22.6 | 477/2016. (XII. 27.) Korm. rendelet |
+| 2017-12-30 | 2015-176-20-22.7 | 516/2017. (XII. 29.) Korm. rendelet |

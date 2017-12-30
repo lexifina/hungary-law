@@ -1,3 +1,3 @@
-4. melléklet a 176/2015. (VII. 7.) Korm. rendelethez[^16]
+4. melléklet a 176/2015. (VII. 7.) Korm. rendelethez[^18]
 
-[^16]: A 4. melléklet a 217/2016. (VII. 22.) Korm. rendelet 53. §-a szerint módosított szöveg.
+[^18]: A 4. melléklet a 217/2016. (VII. 22.) Korm. rendelet 53. §-a szerint módosított szöveg.
