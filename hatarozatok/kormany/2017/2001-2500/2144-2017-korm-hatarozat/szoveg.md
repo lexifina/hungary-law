@@ -18,14 +18,6 @@ Határidő: a 2018. évi központi költségvetésről szóló törvény végreh
 
 a 2019–2020. évek vonatkozásában a központi költségvetés tervezése során
 
-2. A Makovecz Imre életművének gondozásáról szóló 2022/2015. (XII. 29.) Korm. határozat végrehajtásával összefüggő egyes intézkedésekről szóló 1748/2017. (X. 25.) Korm. határozat (a továbbiakban: Korm. határozat) a következő 2/A. ponttal egészül ki:
+2–3.[^1]
 
-(A Kormány)
-
-„2/A. felhívja a nemzeti fejlesztési minisztert, hogy a projekt megvalósítása érdekében kössön támogatási szerződést elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel Csenger Város Önkormányzatával a 2. pontban nyújtott forrás terhére;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2018. január 31.”
-
-3. A Korm. határozat 2. pontjában az „a csengeri autóbusz-pályaudvar felújításának céljából” szövegrész helyébe az „az új csengeri közszolgáltatási funkciót ellátó, többfunkciós központ létesítése céljából” szöveg lép.
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
