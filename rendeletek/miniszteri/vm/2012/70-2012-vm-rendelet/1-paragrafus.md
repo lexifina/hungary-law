@@ -16,4 +16,8 @@ f) ipari célú nyers alkohol hasznosítása: minden olyan tevékenység, ami ne
 
 g) szőlőtörköly: a 1234/2007/EK tanácsi rendelet III. melléklet IIIa. rész a borágazatra vonatkozó meghatározások 9. pontja szerinti maradvány, amelynek összes alkoholtartalma legalább 2,8 liter/100 kg;
 
-h) térfogatban számított összes alkoholtartalom: az 1234/2007/EK tanácsi rendelet I. melléklet IIIa. rész a borágazatra vonatkozó meghatározások 15. pontja szerinti alkoholtartalom.
+h) térfogatban számított összes alkoholtartalom: az 1234/2007/EK tanácsi rendelet I. melléklet IIIa. rész a borágazatra vonatkozó meghatározások 15. pontja szerinti alkoholtartalom;
+
+i)[^1] termelési napló: az e rendelet szerinti támogatással érintett ipari célú nyers alkohol előállításához felhasznált borászati melléktermékekről és azok felhasználásával előállított ipari célú nyers alkohol termékekről borászati melléktermékenként, naprakészen vezetett nyilvántartás.
+
+[^1]: Az 1. § i) pontját a 68/2017. (XII. 27.) FM rendelet 1. §-a iktatta be.

@@ -4,6 +4,6 @@
 
 (2) A szőlőtörköly és a borseprő kivonásával kapcsolatban keletkezett összes bizonylatot a kötelezettnek a kötelezettség teljesítését követő ötödik naptári év végéig meg kell őriznie.
 
-(3)[^3] Az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) minden év április 5-ig tájékoztatja a Magyar Államkincstár (a továbbiakban: Kincstár) az adott borpiaci évben támogatható maximális alkoholmennyiségről.
+(3)[^7] Az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) minden év április 5-ig tájékoztatja a Magyar Államkincstár (a továbbiakban: Kincstár) az adott borpiaci évben támogatható maximális alkoholmennyiségről.
 
-[^3]: A 7. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 52. § a) pontja szerint módosított szöveg.
+[^7]: A 7. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 52. § a) pontja szerint módosított szöveg.
