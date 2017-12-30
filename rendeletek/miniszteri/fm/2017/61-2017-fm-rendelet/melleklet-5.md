@@ -4135,3 +4135,19 @@
 7.3. Bajai erdőtervezési körzet
 
 7.3.1. Bácsbokod (602)
+
+7.3.2. Bácsborsód (603)
+
+7.3.3. Bácsszentgyörgy (604)
+
+7.3.4. Baja (500)
+
+7.3.5. Bátmonostor (605)
+
+7.3.6. Borota (512)
+
+7.3.7. Csátalja (606)
+
+7.3.8. Csávoly (513)
+
+7.3.9. Dávod (607)
