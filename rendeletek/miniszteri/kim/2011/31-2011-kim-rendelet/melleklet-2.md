@@ -2,7 +2,7 @@
 
 ## 1.1. A területi számjelrendszer
 
-## A területi számjelrendszer az államigazgatási területi egységek nevét és számjelét tartalmazza a 2015. január 1-jei állapotnak megfelelő államigazgatási területi beosztás szerint.
+## A területi számjelrendszer az államigazgatási területi egységek nevét és számjelét tartalmazza a 2017. január 1-jei állapotnak megfelelő államigazgatási területi beosztás szerint.
 
 ## 1.2. Területi számjel
 
@@ -10,7 +10,7 @@
 
 ## – településazonosító törzsszám (1–5. pozíció),
 
-## – csoportképző ismérvek sorozata (6–49. pozíció).
+## – csoportképző ismérvek sorozata (6–52. pozíció).
 
 ## Fejezet Pozíció Megnevezés
 
@@ -28,33 +28,43 @@
 
 ## 1.2.2.4. 11 A megyeszékhely kódja
 
-## 1.2.3. 12–13 A jogállás 2005 kódja
+## 1.2.3 12–13 A jogállás 2005 kódja
 
-## 1.2.4. 14–17 A járás kódja
+## 1.2.4. 14 A statisztikai nagyrégió kódja
 
-## 1.2.5. 18 A statisztikai nagyrégió kódja
+## 1.2.5. 15–16 A régiókód
 
-## 1.2.6. 19 A régiókód
+## 1.2.6. 17–21 A NUTS-kód
 
-## 1.2.7. 20–25 A közös önkormányzati hivatalok kódja
+## 1.2.7. 22–25 A járás kódja
 
 ## 1.2.8. 26–29 Az agglomeráció kódja
 
-## 1.2.9. 30–32 A mezőgazdasági tájkörzet kódja
+## 1.2.9. 30–35 A polgármesteri hivatalok, közös önkormányzati hivatalok kódja
 
-## 1.2.10. 33 A szőlőtermőtáj kódja
+## 1.2.10. 36–38 A mezőgazdasági tájkörzet kódja
 
-## 1.2.11. 34–35 A borvidék kódja
+## 1.2.11. 39 A borrégiók kódja
 
-## 1.2.12. 36–37 A turisztikai régió kódja
+## 1.2.12. 40–41 A borvidék kódja
 
-## 1.2.13. 38–39 A világörökségi helyszín kódja
+## 1.2.13. 42–43 A turisztikai régió kódja
 
-## 1.2.14. 40–41 A nemzeti park kódja
+## 1.2.14. 44–45 A világörökségi helyszín kódja
 
-## 1.2.15. 42 A falusi szállásadás lehetséges helyszíneinek kódja
+## 1.2.15. 46–47 A világörökségi helyszín védőövezetének kódja
 
-## 1.2.16. 43–49 A NUTS-kód.
+## 1.2.16. 48–49 A nemzeti park kódja
+
+## 1.2.17. 50 A falusi szállásadás lehetséges helyszíneinek kódja
+
+## 1.2.18. 51 A kedvezményezett települések kódja
+
+## 1.2.19. 52 A kedvezményezett járások kódja
+
+## 1.2.20. 53 A szabad vállalkozási zónák kódja
+
+## 1.2.21. 54 A területfejlesztési szempontból kiemelt térségek kódja
 
 ## 1.2.1. A településazonosító törzsszám
 
@@ -64,13 +74,13 @@
 
 ## A törzsszám használata:
 
-## A településazonosító törzsszámhoz bármelyik csoportképző ismérv kódszáma hozzárendelhető, és a kívánt csoportosítás elvégezhető. A csoportképző ismérvek nómenklatúráit a 2. alcím tartalmazza.
+## A településazonosító törzsszámhoz bármelyik csoportképző ismérv kódszáma hozzárendelhető, és a kívánt csoportosítás elvégezhető. A csoportképző ismérvek nómenklatúráit az 1. melléklet 2. fejezete tartalmazza.
 
 ## 1.2.2. A területi jelzőszám
 
 ## A területi jelzőszám az alábbi négy részből áll:
 
-## – a megyekód,
+## – megyekód,
 
 ## – a főváros kerületeinek kódja,
 
@@ -98,25 +108,25 @@
 
 ## A jogállás 2005 kód a település jogállása kódnak a nagyközségek szerepeltetésével bővített kétpozíciós rendszere.
 
-## 1.2.4. A járás kódja
-
-## A települések járásokba sorolását négypozíciós kód fejezi ki.
-
-## Az 1–3. pozíció a járáshoz való tartozást jelöli.
-
-## A 4. pozíció a járási központokat jelöli.
-
-## 1.2.5. A statisztikai nagyrégió kódja
+## 1.2.4. A statisztikai nagyrégió kódja
 
 ## A települések nagyrégiókba sorolását egypozíciós kód fejezi ki.
 
-## 1.2.6. A régiókód
+## 1.2.5. A régiókód
 
-## A települések régiókba sorolását egypozíciós kód fejezi ki.
+## A települések régiókba sorolását kétpozíciós kód fejezi ki.
 
-## 1.2.7. A közös önkormányzati hivatalok kódja
+## 1.2.6. A NUTS-kód
 
-## A települések közös önkormányzati hivatalai fenntartását hatpozíciós kód fejezi ki.
+## A területi számjelben – a NUTS rendszernek megfelelően – ötpozíciós kódot alkalmazunk, melyben a megyék szintjéig azonosítjuk a településeket.
+
+## 1.2.7. A járás kódja
+
+## A települések járásokba sorolását négypozíciós kód fejezi ki.
+
+## Az 1-3. pozíció a járáshoz való tartozást
+
+## A 4. pozíció járási központokat jelöli.
 
 ## 1.2.8. Az agglomeráció kódja
 
@@ -128,45 +138,63 @@
 
 ## – az agglomeráció egyéb településeit.
 
-## 1.2.9. A mezőgazdasági tájkörzet kódja
+## 1.2.9. A polgármesteri hivatalok, közös önkormányzati hivatalok kódja
+
+## A települések polgármesteri hivatalainak, közös önkormányzati hivatalainak fenntartását hatpozíciós kód fejezi ki.
+
+## 1.2.10. A mezőgazdasági tájkörzet kódja
 
 ## A települések mezőgazdasági tájkörzetbe való tartozását hárompozíciós kód fejezi ki.
 
 ## Az 1. pozíció a makrokörzet kódja (egyszerű sorszám 1-től 9-ig).
 
-## A 2. pozíció a mezőkörzet sorszáma a makrokörzeten belül.
+## A 2. pozíció a mezokörzet sorszáma a makrokörzeten belül.
 
 ## A 3. pozíció a mikrokörzet sorszáma a megyén belül.
 
-## 1.2.10. A szőlőtermőtáj kódja
+## 1.2.11. A borrégiók kódja
 
-## A települések szőlőtermőtájba való sorolását egypozíciós kód fejezi ki.
+## A települések borrégiókba való sorolását egypozíciós kód fejezi ki.
 
-## 1.2.11. A borvidék kódja
+## 1.2.12. A borvidék kódja
 
 ## A települések borvidékbe való sorolását kétpozíciós kód fejezi ki.
 
-## 1.2.12. A turisztikai régió kódja
+## 1.2.13. A turisztikai régió kódja
 
 ## A települések turisztikai régiókba sorolását kétpozíciós kód fejezi ki.
 
-## 1.2.13. A világörökségi helyszín kódja
+## 1.2.14. A világörökségi helyszín kódja
 
 ## A települések világörökségi helyszínekhez való tartozását kétpozíciós kód fejezi ki.
 
-## 1.2.14. A nemzeti park kódja
+## 1.2.15. A világörökségi helyszín védőövezetének kódja
+
+## A települések világörökségi helyszínek védőövezetéhez való tartozását kétpozíciós kód fejezi ki.
+
+## 1.2.16. A nemzeti park kódja
 
 ## A települések nemzeti parkokhoz való besorolását kétpozíciós kód fejezi ki.
 
-## 1.2.15. A falusi szállásadás lehetséges helyszínei
+## 1.2.17. A falusi szállásadás lehetséges helyszíneinek kódja
 
 ## A településeken a falusi szállásadás lehetséges helyszíneit egypozíciós kód fejezi ki.
 
-## 1.2.16. A NUTS-kód
+## 1.2.18. A kedvezményezett települések kódja
 
-## A területi számjelben – a NUTS rendszernek megfelelően – hétpozíciós kódot alkalmazunk, melyben a járások szintjéig azonosítjuk a településeket.
+## A települések kedvezményezett települések közé való sorolását egypozíciós kód fejezi ki.
 
-## Budapestet ebben a rendszerben egy egységnek tekintjük.
+## 1.2.19. A kedvezményezett járások kódja
+
+## A települések kedvezményezett járásokhoz való tartozását egypozíciós kód fejezi ki.
+
+## 1.2.20. A szabad vállalkozási zónák kódja
+
+## A települések szabad vállalkozási zónákhoz való tartozását egypozíciós kód fejezi ki.
+
+## 1.2.21. A területfejlesztési szempontból kiemelt térségek kódja
+
+## A települések területfejlesztési szempontból kiemelt térségekhez való tartozását egypozíciós kód fejezi ki.
 
 ## 2. A TERÜLETI SZÁMJELRENDSZERBEN ALKALMAZOTT NÓMENKLATÚRÁK
 
@@ -216,9 +244,7 @@
 
 ## Az ország területre nem bontható adatai 22
 
-## 2.2. A főváros kerületei kódjának (1.2.2.2.)
-
-## nómenklatúrája
+## 2.2. A főváros kerületei kódjának (1.2.2.2.) nómenklatúrája
 
 ## Budapest I. kerület 01
 
@@ -270,9 +296,7 @@
 
 ## Nem település (fiktív területi egység) 99
 
-## 2.3. A település jogállása kódjának (1.2.2.3.)
-
-## nómenklatúrája
+## 2.3. A település jogállása kódjának (1.2.2.3.) nómenklatúrája
 
 ## Főváros 1
 
@@ -284,9 +308,7 @@
 
 ## Nem település (kerület, fiktív területi egység) 9
 
-## 2.4. A megyeszékhely kódjának (1.2.2.4.)
-
-## nómenklatúrája
+## 2.4. A megyeszékhely kódjának (1.2.2.4.) nómenklatúrája
 
 ## Megyeszékhely 1
 
@@ -308,9 +330,121 @@
 
 ## Nem település (kerület, fiktív területi egység) 90
 
-## 2.6. A járás kódjának (1.2.4.) nómenklatúrája
+## 2.6. A statisztikai nagyrégió kódjának (1.2.4.) nómenklatúrája
 
-## 2.6.1. A járás kódja
+## Közép-Magyarország (Budapest, Pest) 1
+
+## Dunántúl (Közép-Dunántúl, Nyugat-Dunántúl, Dél-Dunántúl) 2
+
+## Alföld és Észak (Észak-Magyarország, Észak-Alföld, Dél-Alföld) 3
+
+## 2.7. A régió kódjának (1.2.5.) nómenklatúrája
+
+## A tervezési-statisztikai régiók és a hozzájuk tartozó megyék (főváros)
+
+## Budapest, (Budapest) 11
+
+## Pest (Pest) 12
+
+## Közép-Dunántúl (Fejér, Komárom-Esztergom, Veszprém) 20
+
+## Nyugat-Dunántúl (Győr-Moson-Sopron, Vas, Zala) 30
+
+## Dél-Dunántúl (Baranya, Somogy, Tolna) 40
+
+## Észak-Magyarország (Borsod-Abaúj-Zemplén, Heves, Nógrád) 50
+
+## Észak-Alföld (Hajdú-Bihar, Jász-Nagykun-Szolnok,
+
+## Szabolcs-Szatmár-Bereg) 60
+
+## Dél-Alföld (Bács-Kiskun, Békés, Csongrád) 70
+
+## Az ország területre nem bontható adatai 80
+
+## Országhatáron kívüli tevékenység 90
+
+## 2.8. A NUTS-kódrendszer (1.2.6.) nómeklatúrája
+
+## 1–2. pozíció: országazonosító – HU
+
+## 3. pozíció: 1. szint – statisztikai nagyrégió
+
+## 4. pozíció: 2. szint – tervezési-statisztikai régiók
+
+## – statisztikai nagyrégión belül
+
+## 5. pozíció: 3. szint – megyék, főváros – a régión belül
+
+## Magyarország HU
+
+## Közép-Magyarország HU1
+
+## Budapest HU11
+
+## Budapest HU110
+
+## Pest HU12
+
+## Pest HU120
+
+## Dunántúl HU2
+
+## Közép-Dunántúl HU21
+
+## Fejér HU211
+
+## Komárom-Esztergom HU212
+
+## Veszprém HU213
+
+## Nyugat-Dunántúl HU22
+
+## Győr-Moson-Sopron HU221
+
+## Vas HU222
+
+## Zala HU223
+
+## Dél-Dunántúl HU23
+
+## Baranya HU231
+
+## Somogy HU232
+
+## Tolna HU233
+
+## Alföld és Észak HU3
+
+## Észak-Magyarország HU31
+
+## Borsod-Abaúj-Zemplén HU311
+
+## Heves HU312
+
+## Nógrád HU313
+
+## Észak-Alföld HU32
+
+## Hajdú-Bihar HU321
+
+## Jász-Nagykun-Szolnok HU322
+
+## Szabolcs-Szatmár-Bereg HU323
+
+## Dél-Alföld HU33
+
+## Bács-Kiskun HU331
+
+## Békés HU332
+
+## Csongrád HU333
+
+## Nem besorolható (Extra-Régió) HUZZZ
+
+## 2.9. A járás kódjának (1.2.7.) nómenklatúrája
+
+## 2.9.1. A járás kódja
 
 ## Budapest 01. ker. 001
 
@@ -708,83 +842,13 @@
 
 ## Budapest, illetve fiktív területi egység 999
 
-## 2.6.2. A járás székhely kódja
+## 2.9.2. A járás székhely kódja
 
 ## Nem székhelytelepülés 0
 
 ## Székhelytelepülés 1
 
 ## Budapest, illetve fiktív területi egység 9
-
-## 2.7. A statisztikai nagyrégió kódjának (1.2.5.) nómenklatúrája
-
-## Közép-Magyarország (Közép-Magyarország) 1
-
-## Dunántúl (Közép-Dunántúl, Nyugat-Dunántúl, Dél-Dunántúl) 2
-
-## Alföld és Észak (Észak-Magyarország, Észak-Alföld, Dél-Alföld) 3
-
-## 2.8. A régió kódjának (1.2.6.) nómenklatúrája
-
-## A tervezési-statisztikai régiók és a hozzájuk tartozó megyék (főváros)
-
-## Közép-Magyarország (Budapest, Pest) 1
-
-## Közép-Dunántúl (Fejér, Komárom-Esztergom, Veszprém) 2
-
-## Nyugat-Dunántúl (Győr-Moson-Sopron, Vas, Zala) 3
-
-## Dél-Dunántúl (Baranya, Somogy, Tolna) 4
-
-## Észak-Magyarország (Borsod-Abaúj-Zemplén, Heves, Nógrád) 5
-
-## Észak-Alföld (Hajdú-Bihar, Jász-Nagykun-Szolnok,
-
-## Szabolcs-Szatmár-Bereg) 6
-
-## Dél-Alföld (Bács-Kiskun, Békés, Csongrád) 7
-
-## 2.9. A közös önkormányzati hivatalok (1.2.7.) kódjának nómenklatúrája
-
-## 2.9.1. A közös önkormányzati hivatalok kódja
-
-## Önálló polgármesteri hivatalt fenntartó önkormányzat 1
-
-## Közös önkormányzati hivatalt fenntartó község, város
-
-## önkormányzata, amely egyben a hivatal székhelye 2
-
-## Önálló polgármesteri hivatalt fenntartó önkormányzat,
-
-## amely más önkormányzatok közös önkormányzati hivatalának
-
-## is helyet biztosít 3
-
-## Közös önkormányzati hivatalt fenntartó község,
-
-## város önkormányzata, amely egyben a hivatal székhelye
-
-## és más közös önkormányzati hivatalnak helyet biztosít 4
-
-## Közös önkormányzati hivatalt fenntartó község önkormányzata,
-
-## a hivatal székhelye más helységben van,
-
-## a településen állandó vagy ideiglenes kirendeltség működik 5
-
-## Közös önkormányzati hivatalt fenntartó község önkormányzata,
-
-## a hivatal székhelye más helységben van 6
-
-## Nem település (kerület, fiktív területi egység) 9
-
-## 2.9.2. A közös önkormányzati hivatalok székhelyének településazonosítója
-
-## Település, ahol T=1,2,3,4 saját településazonosító
-
-## Település, ahol T=5,6 a közös önkormányzati hivatal székhelyének településazonosítója
-
-## Nem település (kerület, fiktív területi egység) 99999
 
 ## 2.10. Az agglomeráció kódjának (1.2.8.) nómenklatúrája
 
@@ -864,7 +928,7 @@
 
 ## Dunaújvárosi nagyvárosi településegyüttes 314
 
-## Nagykanizsai nagyvárosi településegyüttes 315
+## Nagykanizsai településegyüttes 315
 
 ## Településegyüttesbe nem tartozó település 999
 
@@ -878,7 +942,49 @@
 
 ## Településegyüttesbe nem tartozó település 9
 
-## 2.11. A mezőgazdasági tájkörzet kódjának (1.2.9.) nómenklatúrája
+## 2.11. A polgármesteri hivatalok, közös önkormányzati hivatalok kódjának (1.2.9.) nómenklatúrája
+
+## 2.11.1. A polgármesteri hivatalok, közös önkormányzati hivatalok kódja
+
+## Önálló polgármesteri hivatalt fenntartó önkormányzat 1
+
+## Közös önkormányzati hivatalt fenntartó község, város
+
+## önkormányzata, amely egyben a hivatal székhelye 2
+
+## Önálló polgármesteri hivatalt fenntartó önkormányzat, amely
+
+## más önkormányzatok közös önkormányzati hivatalának
+
+## is helyet biztosít 3
+
+## Közös önkormányzati hivatalt fenntartó község,
+
+## város önkormányzata, amely egyben a hivatal székhelye
+
+## és más közös önkormányzati hivatalnak helyet biztosít 4
+
+## Közös önkormányzati hivatalt fenntartó község önkormányzata,
+
+## a hivatal székhelye más helységben van, a településen állandó
+
+## vagy ideiglenes kirendeltség működik 5
+
+## Közös önkormányzati hivatalt fenntartó község önkormányzata,
+
+## a hivatal székhelye más helységben van 6
+
+## Nem település (kerület, fiktív területi egység) 9
+
+## 2.11.2. A polgármesteri hivatalok, közös önkormányzati hivatalok székhelyének településazonosítója
+
+## Település, ahol T=1, 2,3,4 saját településazonosító
+
+## Település, ahol T=5,6 a közös önkormányzati hivatal székhelyének településazonosítója
+
+## Nem település (kerület, fiktív területi egység) 99999
+
+## 2.12. A mezőgazdasági tájkörzet kódjának (1.2.10.) nómenklatúrája
 
 | Megnevezés | Makro- | Mezo- | Mikro- |
 
@@ -1050,9 +1156,9 @@
 
 ## FOLYÓK VÖLGYE I. 52
 
-## Folyók völgye I. 521
+## Folyók völgye I. 524
 
-## Folyók völgye II. 522
+## Folyók völgye II. 533
 
 ## MARCAL-MEDENCE 53
 
@@ -1082,7 +1188,7 @@
 
 ## Balaton-felvidék 633
 
-## Keszthelyi-hegység és környéke 634
+## Keszthelyi -hegység és környéke 634
 
 ## NYUGAT-MAGYARORSZÁGI
 
@@ -1144,19 +1250,21 @@
 
 ## Nem település (fiktív területi egység) 999
 
-## 2.12. A szőlőtermőtáj kódjának (1.2.10.) nómenklatúrája
+## 2.13. A borrégiók kódjának (1.2.11.) nómenklatúrája
 
-## Alföldi szőlőtermő táj 1
+## Alsó-Pannon 1
 
-## Észak-Dunántúli szőlőtermő táj 2
+## Balaton 2
 
-## Dél-Dunántúli szőlőtermő táj 3
+## Duna-Tisza közi 3
 
-## Észak-Magyarországi szőlőtermő táj 4
+## Felső-Magyarország 4
 
-## Nem település (fiktív területi egység) 9
+## Felső-Pannon 5
 
-## 2.13. A borvidék kódjának (1.2.11.) nómenklatúrája
+## Nem tartozik borrégióhoz 9
+
+## 2.14. A borvidék kódjának (1.2.12.) nómenklatúrája
 
 ## Csongrádi borvidék 01
 
@@ -1204,7 +1312,7 @@
 
 ## A település nem tartozik borvidékbe 99
 
-## 2.14. A turisztikai régió kódjának (1.2.12.) nómeklatúrája
+## 2.15. A turisztikai régió kódjának (1.2.13.) nómeklatúrája
 
 ## Budapest–Közép-dunavidéki régió 01
 
@@ -1226,31 +1334,47 @@
 
 ## Nem település (fiktív területi egység) 99
 
-## 2.15. A világörökségi helyszín kódjának (1.2.13.) nómeklatúrája
+## 2.16. A világörökségi helyszín kódjának (1.2.14.) nómeklatúrája
 
-## Budapest Duna-parti látképe, a Budai Várnegyed,
+## Budapest - a Duna-partok, a Budai Várnegyed
 
-## az Andrássy út és történelmi környezete 01
+## és az Andrássy út 01
 
-## Hollókő 02
+## Hollókő ófalu és környezete 02
 
 ## Aggteleki-karszt és Szlovák karszt barlangjai 03
 
-## Ezeréves Pannonhalmi Bencés Főapátság
-
-## és természeti környezete 04
+## Az Ezeréves Pannonhalmi Bencés Főapátság 04
 
 ## Hortobágyi Nemzeti Park – a Puszta 05
 
-## Pécsi ókeresztény sírkamrák 06
+## Pécsi (Sopianae) ókeresztény temetője 06
 
 ## Fertő/Neusiedlersee kultúrtáj 07
 
-## Tokaji történelmi borvidék kultúrtáj 08
+## Tokaj-hegyaljai történelmi borvidék kultúrtáj 08
 
 ## Nem világörökségi helyszín 99
 
-## 2.16. A nemzeti park kódjának (1.2.14.) nómeklatúrája
+## 2.17. A világörökségi helyszín védőövezeti kódjának (1.2.15.) nómeklatúrája
+
+## Budapest - a Duna-partok, a Budai Várnegyed
+
+## és az Andrássy út védőövezete 01
+
+## Aggteleki-karszt és Szlovák karszt barlangjainak
+
+## védőövezete 03
+
+## Fertő/Neusiedlersee kultúrtáj védőövezete 07
+
+## Tokaj-hegyaljai történelmi borvidék kultúrtáj
+
+## védőövezete 08
+
+## Nem világörökségi helyszín védőövezete 99
+
+## 2.18. A nemzeti park kódjának (1.2.16.) nómeklatúrája
 
 ## Aggteleki Nemzeti Park 01
 
@@ -1274,7 +1398,7 @@
 
 ## Nem tartozik nemzeti parkhoz 99
 
-## 2.17. A falusi szállásadás lehetséges helyszíneinek (1.2.15.) nómenklatúrája
+## 2.19. A falusi szállásadás lehetséges helyszíneinek (1.2.17.) nómenklatúrája
 
 ## A településen lehetséges a falusi szállásadási tevékenység 1
 
@@ -1282,424 +1406,48 @@
 
 ## Nem település (fiktív területi egység) 9
 
-## 2.18. A NUTS-kódrendszer (1.2.16.) nómeklatúrája
+## 2.20. A kedvezményezett települések kódjának (1.2.18.) nómeklatúrája
 
-## 1–2. pozíció: országazonosító – HU
+## Társadalmi-gazdasági és infrastrukturális szempontból kedvezményezett
 
-## 3. pozíció: 1. szint – statisztikai nagyrégió
+## települések 1
 
-## 4. pozíció: 2. szint – tervezési-statisztikai régiók
+## Jelentős munkanélküliséggel sújtott települések 2
 
-## – statisztikai nagyrégión belül
+## Társadalmi-gazdasági és infrastrukturális szempontból kedvezményezett
 
-## 5. pozíció: 3. szint – megyék, főváros – a régión belül
+## és a jelentős munkanélküliséggel sújtott települések 3
 
-## 6–7. pozíció: 4. szint – járások – a megyén belül
+## Nem kedvezményezett település 9
 
-## KÖZÉP-MAGYARORSZÁG
+## 2.21. A kedvezményezett járások kódjának (1.2.19.) nómeklatúrája
 
-## Budapest HU10101
+## Kedvezményezett járások 1
 
-## Pest megye
+## Fejlesztendő járások 2
 
-## Aszódi járás HU10201
+## Komplex programmal fejlesztendő járások 3
 
-## Budakeszi járás HU10202
+## Regionális szempontból kedvezményezett járások 4
 
-## Ceglédi járás HU10203
+## Nem tartozik kedvezményezett járáshoz 9
 
-## Dabasi járás HU10204
+## 2.22. A szabad vállalkozási zónák kódjának (1.2.20.) nómeklatúrája
 
-## Dunakeszi járás HU10205
+## Szabad vállalkozási zóna 1
 
-## Érdi járás HU10206
+## Nem szabad vállalkozási zóna 9
 
-## Gödöllői járás HU10207
+## 2.23. A területfejlesztési szempontból kiemelt térségek kódjának (1.2.21.) nómeklatúrája
 
-## Gyáli járás HU10208
+## Balaton Fejlesztési Tanács működési területe 1
 
-## Monori járás HU10209
+## Tokaj Borvidék Fejlesztési Tanács működési területe 2
 
-## Nagykátai járás HU10210
+## Nem tartozik területfejlesztési szempontból kiemelt
 
-## Nagykőrösi járás HU10211
-
-## Pilisvörösvári járás HU10212
-
-## Ráckevei járás HU10213
-
-## Szentendrei járás HU10214
-
-## Szigetszentmiklósi járás HU10215
-
-## Szobi járás HU10216
-
-## Váci járás HU10217
-
-## Vecsési járás HU10218
-
-## KÖZÉP-DUNÁNTÚL
-
-## Fejér megye
-
-## Bicskei járás HU21101
-
-## Dunaújvárosi járás HU21102
-
-## Enyingi járás HU21103
-
-## Gárdonyi járás HU21104
-
-## Martonvásári járás HU21105
-
-## Móri járás HU21106
-
-## Sárbogárdi járás HU21108
-
-## Székesfehérvári járás HU21109
-
-## Komárom-Esztergom megye
-
-## Esztergomi járás HU21201
-
-## Kisbéri járás HU21202
-
-## Komáromi járás HU21203
-
-## Oroszlányi járás HU21204
-
-## Tatai járás HU21205
-
-## Tatabányai járás HU21206
-
-## Veszprém megye
-
-## Ajkai járás HU21301
-
-## Balatonalmádi járás HU21302
-
-## Balatonfüredi járás HU21303
-
-## Devecseri járás HU21304
-
-## Pápai járás HU21305
-
-## Sümegi járás HU21306
-
-## Tapolcai járás HU21307
-
-## Várpalotai járás HU21308
-
-## Veszprémi járás HU21309
-
-## Zirci járás HU21310
-
-## NYUGAT-DUNÁNTÚL
-
-## Győr-Moson-Sopron megye
-
-## Csornai járás HU22101
-
-## Győri járás HU22102
-
-## Kapuvári járás HU22103
-
-## Mosonmagyaróvári járás HU22104
-
-## Pannonhalmi járás HU22105
-
-## Soproni járás HU22106
-
-## Téti járás HU22107
-
-## Vas megye
-
-## Celldömölki járás HU22201
-
-## Körmendi járás HU22202
-
-## Kőszegi járás HU22203
-
-## Sárvári járás HU22204
-
-## Szentgotthárdi járás HU22205
-
-## Szombathelyi járás HU22206
-
-## Vasvári járás HU22207
-
-## Zala megye
-
-## Keszthelyi járás HU22301
-
-## Lenti járás HU22302
-
-## Letenyei járás HU22303
-
-## Nagykanizsai járás HU22304
-
-## Zalaegerszegi járás HU22305
-
-## Zalaszentgróti járás HU22306
-
-## DÉL-DUNÁNTÚL
-
-## Baranya megye
-
-## Bólyi járás HU23101
-
-## Hegyháti járás HU23102
-
-## Komlói járás HU23103
-
-## Mohácsi járás HU23104
-
-## Pécsi járás HU23105
-
-## Pécsváradi járás HU23106
-
-## Sellyei járás HU23107
-
-## Siklósi járás HU23108
-
-## Szentlőrinci járás HU23109
-
-## Szigetvári járás HU23110
-
-## Somogy megye
-
-## Barcsi járás HU23201
-
-## Csurgói járás HU23202
-
-## Fonyódi járás HU23203
-
-## Kaposvári járás HU23204
-
-## Marcali járás HU23205
-
-## Nagyatádi járás HU23206
-
-## Siófoki járás HU23207
-
-## Tabi járás HU23208
-
-## Tolna megye
-
-## Bonyhádi járás HU23301
-
-## Dombóvári járás HU23302
-
-## Paksi járás HU23303
-
-## Szekszárdi járás HU23304
-
-## Tamási járás HU23305
-
-## Tolnai járás HU23306
-
-## ÉSZAK-MAGYARORSZÁG
-
-## Borsod-Abaúj-Zemplén megye
-
-## Cigándi járás HU31101
-
-## Edelényi járás HU31102
-
-## Encsi járás HU31103
-
-## Gönci járás HU31104
-
-## Kazincbarcikai járás HU31105
-
-## Mezőcsáti járás HU31106
-
-## Mezőkövesdi járás HU31107
-
-## Miskolci járás HU31108
-
-## Ózdi járás HU31109
-
-## Putnoki járás HU31110
-
-## Sárospataki járás HU31111
-
-## Sátoraljaújhelyi járás HU31112
-
-## Szerencsi járás HU31113
-
-## Szikszói járás HU31114
-
-## Tiszaújvárosi járás HU31115
-
-## Tokaji járás HU31116
-
-## Heves megye
-
-## Bélapátfalvai járás HU31201
-
-## Egri járás HU31202
-
-## Füzesabonyi járás HU31203
-
-## Gyöngyösi járás HU31204
-
-## Hatvani járás HU31205
-
-## Hevesi járás HU31206
-
-## Pétervásárai járás HU31207
-
-## Nógrád megye
-
-## Balassagyarmati járás HU31301
-
-## Bátonyterenyei járás HU31302
-
-## Pásztói járás HU31303
-
-## Rétsági járás HU31304
-
-## Salgótarjáni járás HU31305
-
-## Szécsényi járás HU31306
-
-## ÉSZAK-ALFÖLD
-
-## Hajdú-Bihar megye
-
-## Balmazújvárosi járás HU32101
-
-## Berettyóújfalui járás HU32102
-
-## Debreceni járás HU32103
-
-## Derecskei járás HU32104
-
-## Hajdúböszörményi járás HU32105
-
-## Hajdúhadházi járás HU32106
-
-## Hajdúnánási járás HU32107
-
-## Hajdúszoboszlói járás HU32108
-
-## Nyíradonyi járás HU32109
-
-## Püspökladányi járás HU32110
-
-## Jász-Nagykun-Szolnok megye
-
-## Jászapáti járás HU32201
-
-## Jászberényi járás HU32202
-
-## Karcagi járás HU32203
-
-## Kunhegyesi járás HU32204
-
-## Kunszentmártoni járás HU32205
-
-## Mezőtúri járás HU32206
-
-## Szolnoki járás HU32207
-
-## Tiszafüredi járás HU32208
-
-## Törökszentmiklósi járás HU32209
-
-## Szabolcs-Szatmár-Bereg megye
-
-## Baktalórántházai járás HU32301
-
-## Csengeri járás HU32302
-
-## Fehérgyarmati járás HU32303
-
-## Ibrányi járás HU32304
-
-## Kemecsei járás HU32305
-
-## Kisvárdai járás HU32306
-
-## Mátészalkai járás HU32307
-
-## Nagykállói járás HU32308
-
-## Nyírbátori járás HU32309
-
-## Nyíregyházai járás HU32310
-
-## Tiszavasvári járás HU32311
-
-## Vásárosnaményi járás HU32312
-
-## Záhonyi járás HU32313
-
-## DÉL-ALFÖLD
-
-## Bács-Kiskun megye
-
-## Bácsalmási járás HU33101
-
-## Bajai járás HU33102
-
-## Jánoshalmai járás HU33103
-
-## Kalocsai járás HU33104
-
-## Kecskeméti járás HU33105
-
-## Kiskőrösi járás HU33106
-
-## Kiskunfélegyházi járás HU33107
-
-## Kiskunhalasi járás HU33108
-
-## Kiskunmajsai járás HU33109
-
-## Kunszentmiklósi járás HU33110
-
-## Tiszakécskei járás HU33111
-
-## Békés megye
-
-## Békési járás HU33201
-
-## Békéscsabai járás HU33202
-
-## Gyomaendrődi járás HU33203
-
-## Gyulai járás HU33204
-
-## Mezőkovácsházai járás HU33205
-
-## Orosházi járás HU33206
-
-## Sarkadi járás HU33207
-
-## Szarvasi járás HU33208
-
-## Szeghalmi járás HU33209
-
-## Csongrád megye
-
-## Csongrádi járás HU33301
-
-## Hódmezővásárhelyi járás HU33302
-
-## Kisteleki járás HU33303
-
-## Makói járás HU33304
-
-## Mórahalmi járás HU33305
-
-## Szegedi járás HU33306
-
-## Szentesi járás HU33307
-
-## Nem település (kerület, fiktív területi egység) HU99999”
+## térséghez 9
 
 2. melléklet a 31/2011. (X. 24.) KIM rendelethez[^8]
 
-[^8]: A 2. melléklet a 37/2015. (VIII. 12.) MvM rendelet 5. §-ával megállapított szöveg.
+[^8]: A 2. melléklet a 39/2017. (XII. 27.) MvM rendelet 4. §-ával megállapított szöveg.

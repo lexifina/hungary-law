@@ -20,31 +20,41 @@ bd) a megyeszékhelyet,
 
 be) a jogállás 2005-öt,
 
-bf) a járást,
+bf) a statisztikai nagyrégiót,
 
-bg) a statisztikai nagyrégiót,
+bg) a régiót,
 
-bh) a régiót,
+bh) a NUTS szintet,
 
-bi) a közös önkormányzati hivatalt,
+bi) a járást,
 
 bj) az agglomerációt,
 
-bk) a mezőgazdasági tájkörzetet,
+bk) a polgármesteri hivatalt, közös önkormányzati hivatalt,
 
-bl) a szőlő termőtájat,
+bl) a mezőgazdasági tájkörzetet,
 
-bm) a borvidéket,
+bm) a borrégiót,
 
-bn) a turisztikai régiót,
+bn) a borvidéket,
 
-bo) a világörökségi helyszínt,
+bo) a turisztikai régiót,
 
-bp) a nemzeti parkot,
+bp) a világörökségi helyszínt,
 
-bq) a falusi szállásadás lehetséges helyszíneit,
+bq) a világörökségi helyszín védőövezetét,
 
-br) a NUTS szintet
+br) a nemzeti parkot,
+
+bs) a falusi szállásadás lehetséges helyszíneit,
+
+bt) a kedvezményezett településeket,
+
+bu) a kedvezményezett járásokat,
+
+bv) a szabad vállalkozási zónákat,
+
+bw) a területfejlesztési szempontból kiemelt térségeket
 
 [^1]: A 2. § (2) bekezdése a 13/2013. (VII. 9.) KIM rendelet 2. §-a szerint módosított szöveg.
-[^2]: A 2. § (3) bekezdése a 37/2015. (VIII. 12.) MvM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdése a 39/2017. (XII. 27.) MvM rendelet 1. §-ával megállapított szöveg.
