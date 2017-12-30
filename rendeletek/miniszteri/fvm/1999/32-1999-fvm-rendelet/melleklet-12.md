@@ -6,7 +6,7 @@
 
 | 2. A bizonyítvány |
 
-| 2.1. Bizonyítvány száma 2.2. Bizonyítvány megújításának határideje |
+| 2.1. Bizonyítvány száma 2.2. |
 
 | 3. A bizonyítványt kiállító szerv |
 
@@ -16,7 +16,7 @@
 
 | 3.4. Név és aláírás | 3.5. Bélyegző |
 
-12. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^126]
+12. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^127]
 
 ## A vízi szárnyasok tartásának minimális követelményei
 
@@ -32,4 +32,4 @@ b) lehetővé kell tenni az állatok számára, hogy a fejüket teljes egészéb
 
 c) olyan alternatív technológiát kell alkalmazni, amely lehetővé teszi az állatok számára, hogy a testüket benedvesítsék.
 
-[^126]: A 12. számú mellékletet a 2/2014. (VIII. 29.) FM rendelet 4. §-a iktatta be.
+[^127]: A 12. számú mellékletet a 2/2014. (VIII. 29.) FM rendelet 4. §-a iktatta be.

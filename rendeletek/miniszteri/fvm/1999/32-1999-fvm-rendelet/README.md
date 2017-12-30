@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-32-20-8
 | 2014-09-28 | 1999-32-20-82.19 | 2/2014. (VIII. 29.) FM rendelet |
 | 2016-01-01 | 1999-32-20-82.20 | 2/2014. (VIII. 29.) FM rendelet |
 | 2017-08-18 | 1999-32-20-82.21 | 42/2017. (VIII. 17.) FM rendelet |
+| 2017-12-30 | 1999-32-20-82.22 | 69/2017. (XII. 27.) FM rendelet |
