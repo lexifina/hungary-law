@@ -6,9 +6,9 @@
 
 a)[^19] a NÉBIH vagy a tenyésztési hatóság által elrendelt vizsgálat után, amennyiben a vizsgálat eredménye alapján a tenyésztőszervezet által a vizsgálatkérő bizonylaton jelzett szülő kizárható,
 
-b)[^20] ha a NÉBIH más hatóság felkérésére végez egyedazonosítást, illetve szülői származásigazolást.
+b)[^20] ha a NÉBIH más hatóság felkérésére végez egyedazonosítást, illetve szülői származás-ellenőrzést.
 
 [^17]: A 13. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § h) pontja szerint módosított szöveg.
 [^18]: A 13. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) és i) pontja szerint módosított szöveg.
 [^19]: A 13. § (3) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 205. § j) pontja szerint módosított szöveg.
-[^20]: A 13. § (3) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.
+[^20]: A 13. § (3) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja, a 69/2017. (XII. 27.) FM rendelet a 21. § b) pontja szerint módosított szöveg.
