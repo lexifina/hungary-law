@@ -2,15 +2,15 @@
 
 ## 4. A gyártó tájékoztatási kötelezettsége
 
-7. § (1)[^7] A gyártó a visszavételi, átvételi, gyűjtési, kezelési kötelezettségéről a fogyasztót, a forgalmazót és a hulladékbirtokost tájékoztatja.
+7. § (1)[^15] A gyártó a visszavételi, átvételi, gyűjtési, kezelési kötelezettségéről a fogyasztót, a forgalmazót és a hulladékbirtokost tájékoztatja.
 
 (2) A gyártó gondoskodik arról, hogy a 2005. augusztus 13. napját követően gyártott elektromos, elektronikus berendezésen vagy – ha azon a termék mérete vagy rendeltetése miatt nem lehetséges – a termék csomagolásán, a használati útmutatóban vagy a garanciajegyen
 
 a) a 4. mellékletben feltüntetett ábra,
 
-b)[^8] a gyártó azonosításra alkalmas megjelölés
+b)[^16] a gyártó azonosításra alkalmas megjelölés
 
-c)[^9]
+c)[^17]
 
 ## jól látható, felismerhető, olvasható és letörölhetetlen legyen.
 
@@ -30,9 +30,9 @@ f) a használt és a hulladékká vált elektromos, elektronikus berendezést a 
 
 g) tevékenységével milyen szerepet vállal az elektromos, elektronikus berendezés újrahasználatában, újrahasználatra történő előkészítésében, valamint a hulladékká vált elektromos, elektronikus berendezés mennyiségének csökkentésében, hasznosításában és az újrafeldolgozás egyéb formáiban; valamint
 
-h)[^10] a 12. § (1)–(5) bekezdése szerinti kötelezettségeinek teljesítésével kapcsolatban felmerült költségeket viseli, és a költségek viselésére kötelezettséget vállal.
+h)[^18] a 12. § (1)–(5) bekezdése szerinti kötelezettségeinek teljesítésével kapcsolatban felmerült költségeket viseli, és a költségek viselésére kötelezettséget vállal.
 
-(4)[^11] A gyártó a (3) bekezdésben meghatározott tájékoztatási kötelezettségét a fogyasztók részére a következő módon teljesíti:
+(4)[^19] A gyártó a (3) bekezdésben meghatározott tájékoztatási kötelezettségét a fogyasztók részére a következő módon teljesíti:
 
 a) az elektromos, elektronikus berendezésre vonatkozó hirdetést tartalmazó nyomtatott szórólapon, reklámújságban, továbbá katalógusban (ha ilyeneket a gyártó előállít) annak az internetes címnek a közzététele útján, amelyen keresztül a tájékoztatás elektronikusan korlátlanul elérhető;
 
@@ -42,19 +42,19 @@ c) a honlapján vagy egy más gyártóval vagy gyártókkal közösen üzemeltet
 
 d) a fogyasztók részére elektronikusan küldött hírlevélben és az általa üzemeltetett webáruház honlapján (ha a gyártó webáruházat üzemeltet).
 
-(5)[^12] A tájékoztatást, a tájékoztatásra történő hivatkozást, valamint az internetes címet a (4) bekezdés szerinti sajtótermék magyar nyelvű felületén mindenki számára könnyen elérhető és felismerhető helyen, jól olvasható módon kell elhelyezni.
+(5)[^20] A tájékoztatást, a tájékoztatásra történő hivatkozást, valamint az internetes címet a (4) bekezdés szerinti sajtótermék magyar nyelvű felületén mindenki számára könnyen elérhető és felismerhető helyen, jól olvasható módon kell elhelyezni.
 
-(5a)[^13] A (4) bekezdés a) pontja szerinti sajtótermék médiafelületén a tájékoztatást addig az időpontig kell megjeleníteni, amíg az adott elektromos, elektronikus berendezésre vonatkozó bármilyen jellegű hirdetés abban szerepel. A (4) bekezdés b)–d) pontja szerinti sajtótermék médiafelületén a tájékoztatást addig az időpontig kell megjeleníteni, amíg az adott berendezést a gyártó gyártja, illetve forgalmazza.
+(5a)[^21] A (4) bekezdés a) pontja szerinti sajtótermék médiafelületén a tájékoztatást addig az időpontig kell megjeleníteni, amíg az adott elektromos, elektronikus berendezésre vonatkozó bármilyen jellegű hirdetés abban szerepel. A (4) bekezdés b)–d) pontja szerinti sajtótermék médiafelületén a tájékoztatást addig az időpontig kell megjeleníteni, amíg az adott berendezést a gyártó gyártja, illetve forgalmazza.
 
 (6) A gyártó az új elektromos, elektronikus berendezés értékesítésekor a gyűjtéssel, a szállítással és a kezeléssel kapcsolatban felmerülő becsült költségeiről a fogyasztókat a számlán, a terméken, illetve annak csomagolásán tájékoztathatja. Ebben az esetben a ténylegesen felmerülő költségek nem haladhatják meg a tájékoztatás szerinti becsült költségeket.
 
-(7)[^14] A gyártó kezelési kötelezettségével összefüggő, az elektromos, elektronikus berendezés alkatrészeinek és alapanyagainak meghatározására, veszélyes anyag tartalmára vonatkozó műszaki dokumentációt, kezelési utasítást az elektromos, elektronikus berendezés forgalomba hozatalától számított 1 éven belül az átvállalónak, az állami hulladékgazdálkodást közvetítő szervezetnek, továbbá a hasznosítást végző hulladékkezelőnek elektronikus formában hozzáférhetővé teszi.
+(7)[^22] A gyártó kezelési kötelezettségével összefüggő, az elektromos, elektronikus berendezés alkatrészeinek és alapanyagainak meghatározására, veszélyes anyag tartalmára vonatkozó műszaki dokumentációt, kezelési utasítást az elektromos, elektronikus berendezés forgalomba hozatalától számított 1 éven belül az átvállalónak, az állami hulladékgazdálkodást közvetítő szervezetnek, továbbá a hasznosítást végző hulladékkezelőnek elektronikus formában hozzáférhetővé teszi.
 
-[^7]: A 7. § (1) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
-[^8]: A 7. § (2) bekezdés b) pontja a 370/2014. (XII. 30.) Korm. rendelet 39. § (2) bekezdése szerint módosított szöveg.
-[^9]: A 7. § (2) bekezdés c) pontját a 370/2014. (XII. 30.) Korm. rendelet 39. § (3) bekezdése hatályon kívül helyezte.
-[^10]: A 7. § (3) bekezdés h) pontja a 370/2014. (XII. 30.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
-[^11]: A 7. § (4) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^12]: A 7. § (5) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^13]: A 7. § (5a) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 31. §-a iktatta be.
-[^14]: A 7. § (7) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 11. § (1) bekezdés a) pontja, a 370/2014. (XII. 30.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.
+[^15]: A 7. § (1) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
+[^16]: A 7. § (2) bekezdés b) pontja a 370/2014. (XII. 30.) Korm. rendelet 39. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 7. § (2) bekezdés c) pontját a 370/2014. (XII. 30.) Korm. rendelet 39. § (3) bekezdése hatályon kívül helyezte.
+[^18]: A 7. § (3) bekezdés h) pontja a 370/2014. (XII. 30.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
+[^19]: A 7. § (4) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^20]: A 7. § (5) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^21]: A 7. § (5a) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 31. §-a iktatta be.
+[^22]: A 7. § (7) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 11. § (1) bekezdés a) pontja, a 370/2014. (XII. 30.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.

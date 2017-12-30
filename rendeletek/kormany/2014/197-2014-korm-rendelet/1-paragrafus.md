@@ -2,7 +2,7 @@
 
 1. § (1) E rendelet hatálya
 
-a) az 1. melléklet 1. pontjában meghatározott elektromos-, elektronikusberendezés-kategóriákba sorolható elektromos, elektronikus berendezésre,
+a)[^1] az 1. melléklet 1. pontjában meghatározott elektromos-, elektronikusberendezés-kategóriákba sorolt elektromos, elektronikus berendezésre,
 
 b) az a) pont szerinti hulladékká vált elektromos, elektronikus berendezésre,
 
@@ -19,3 +19,5 @@ a) az olyan elektromos, elektronikus berendezésre, amely Magyarország alapvet�
 b) az olyan elektromos, elektronikus berendezésre, amely kifejezetten egy más jellegű, e rendelet hatálya alá nem tartozó berendezés Polgári Törvénykönyv szerinti alkotórészeként lett tervezve és beszerelve, és amely csak az adott elektromos, elektronikus berendezés részeként töltheti be funkcióját, valamint
 
 c) az izzólámpára.
+
+[^1]: Az 1. § (1) bekezdés a) pontja az 525/2017. (XII. 29.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.

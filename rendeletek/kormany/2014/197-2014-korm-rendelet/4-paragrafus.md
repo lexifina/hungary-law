@@ -2,15 +2,15 @@
 
 a) az általa forgalomba hozott, hulladékká vált elektromos, elektronikus berendezést,
 
-b) a más gyártó által forgalomba hozott, hulladékká vált elektromos, elektronikus berendezést, amely a gyártó által forgalomba hozott elektromos, elektronikus berendezéssel jellegében és funkciójában azonos,
+b)[^7] a más gyártó által forgalomba hozott, hulladékká vált elektromos, elektronikus berendezést, amely a gyártó által forgalomba hozott elektromos, elektronikus berendezéssel jellegében és funkciójában azonos, valamint
 
-c) a történelmi hulladékká vált elektromos, elektronikus berendezés háztartásban képződő hulladékát, valamint
+c)[^8] a történelmi hulladékká vált elektromos, elektronikus berendezés hulladékát
 
-d) az új, az azonos vagy az azonos jellegű és funkciójú termékkel helyettesített történelmi hulladékká vált elektromos, elektronikus berendezés háztartásban képződő hulladékát
+d)[^9]
 
 – a hulladék átadásának ösztönzése érdekében – a hulladékbirtokostól átveszi és gyűjti, ha a hulladékbirtokos azt a részére átvételre felajánlja (átvételi és gyűjtési kötelezettség).
 
-(1a)[^4] Ha a természetes személy hulladékbirtokos az (1) bekezdés szerinti hulladékká vált elektromos, elektronikus berendezést a forgalmazás helyszínén a gyártónak átvételre felajánlja, a gyártó a hulladékbirtokos részére új elektromos, elektronikus berendezés vásárlása esetén az 1. melléklet 2. pontjában meghatározott összegű vásárlási utalványt ad a következő feltételek szerint:
+(1a)[^10] Ha a természetes személy hulladékbirtokos az (1) bekezdés szerinti hulladékká vált elektromos, elektronikus berendezést a forgalmazás helyszínén a gyártónak átvételre felajánlja, a gyártó a hulladékbirtokos részére új elektromos, elektronikus berendezés vásárlása esetén az 1. melléklet 2. pontjában meghatározott összegű vásárlási utalványt ad a következő feltételek szerint:
 
 a) a vásárlási utalványban szereplő összeg alapján adható árengedmény az új elektromos, elektronikus berendezés fogyasztói vételárának 10%-át nem haladhatja meg, kivéve, ha a gyártó több árengedményt vagy kedvezményt kíván a hulladékbirtokos részére biztosítani;
 
@@ -22,9 +22,9 @@ d) a vásárlási utalvány összege nem áthárítható.
 
 (2) A gyártó a hulladékká vált elektromos, elektronikus berendezés átvételét – a 25. § (2) bekezdésében meghatározott kivétellel – a hulladékbirtokost terhelő fizetési kötelezettség teljesítéséhez nem kötheti.
 
-(3)[^5] A gyártónak a hulladékot abban az esetben is át kell vennie, ha a hulladékká vált elektromos, elektronikus berendezés az elektromos, elektronikus berendezésre jellemző alapvető alkotórészeket nem tartalmazza vagy az elektromos, elektronikus berendezést megbontották. Ezekben az esetekben a gyártónak nem kell a hulladékbirtokos részére vásárlási utalványt adnia.
+(3)[^11] A gyártónak a hulladékot abban az esetben is át kell vennie, ha a hulladékká vált elektromos, elektronikus berendezés az elektromos, elektronikus berendezésre jellemző alapvető alkotórészeket nem tartalmazza vagy az elektromos, elektronikus berendezést megbontották. Ezekben az esetekben a gyártónak nem kell a hulladékbirtokos részére vásárlási utalványt adnia.
 
-(4) A gyártó a hulladékká vált elektromos, elektronikus berendezés átvételét abban az esetben tagadhatja meg, ha a hulladékká vált elektromos, elektronikus berendezés az emberi egészségre, testi épségre vagy a környezetre súlyos veszélyt jelent.
+(4)[^12] A gyártó a hulladékká vált elektromos, elektronikus berendezés átvételét abban az esetben tagadhatja meg, ha a hulladékká vált elektromos, elektronikus berendezés az átvétel során az átvételt végző egészségére vagy testi épségére súlyos veszélyt jelent.
 
 (5) Ha a gyártó a hulladékká vált elektromos, elektronikus berendezés átvételét megtagadja, jegyzőkönyvet vesz fel. A jegyzőkönyvben a berendezés azonosítására alkalmas adatokat, továbbá az átvétel megtagadásának indokát, helyét és időpontját kell rögzíteni. A jegyzőkönyvet a gyártónak és a hulladékbirtokosnak alá kell írnia. A gyártó az aláírt jegyzőkönyv egy példányát a hulladékbirtokosnak átadja.
 
@@ -36,5 +36,9 @@ d) a vásárlási utalvány összege nem áthárítható.
 
 (9) A gyártó a tárgyévben gyűjtendő hulladékmennyiséget a tárgyév február 20. napjáig elektromos-, elektronikusberendezés-kategóriánként maga állapítja meg.
 
-[^4]: A 4. § (1a) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 30. § (1) bekezdése iktatta be.
-[^5]: A 4. § (3) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (1) bekezdés b) pontja az 525/2017. (XII. 29.) Korm. rendelet 11. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdés c) pontja az 525/2017. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (1) bekezdés d) pontja az 525/2017. (XII. 29.) Korm. rendelet 12. §-a alapján hatályát vesztette.
+[^10]: A 4. § (1a) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 30. § (1) bekezdése iktatta be.
+[^11]: A 4. § (3) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^12]: A 4. § (4) bekezdése az 525/2017. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

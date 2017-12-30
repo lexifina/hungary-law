@@ -8,4 +8,6 @@
 
 (4) A hulladékká vált elektromos, elektronikus berendezés szállítását és gyűjtését úgy kell végezni, hogy a berendezésben lévő veszélyes anyagok elkülönítése, újrahasználatra előkészítése, újrafeldolgozása maradéktalanul biztosítható legyen. Az újrahasználatra előkészítés és az újrafeldolgozás különösen akkor biztosítható, ha a hulladékká vált elektromos, elektronikus berendezés szállítása és gyűjtése során a hulladék nem károsodik, szennyeződik, és nincs kitéve az időjárás hatásainak.
 
-(5) A hulladékká vált elektromos, elektronikus berendezés szállítását a 9. mellékletben meghatározott minimumkövetelményeknek megfelelően kell végezni.
+(5)[^67] A hulladékká vált és a feltételezhetően hulladéknak minősülő használt elektromos, elektronikus berendezés szállítását a 9. mellékletben meghatározott minimumkövetelményeknek megfelelően kell végezni.
+
+[^67]: A 25. § (5) bekezdése az 525/2017. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-12–13. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^77]
+12–13. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^93]
 
-[^77]: A 12–13. melléklet a 32. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^93]: A 12–13. melléklet az 525/2017. (XII. 29.) Korm. rendelet 13. §-a alapján nem lép hatályba.

@@ -1,3 +1,3 @@
-## 40–43. §[^66]
+## 42–43. §[^82]
 
-[^66]: A 40–43. § a 32. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^82]: A 42–43. § az 525/2017. (XII. 29.) Korm. rendelet 13. §-a alapján nem lép hatályba.

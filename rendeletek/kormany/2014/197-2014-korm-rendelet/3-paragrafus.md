@@ -8,7 +8,7 @@ b) a más gyártó által forgalomba hozott, használt elektromos, elektronikus 
 
 – különösen a használt elektromos, elektronikus berendezés újrahasználatának biztosítása érdekében – a fogyasztótól visszaveszi, ha azt a fogyasztó a részére visszavételre felajánlja (visszavételi kötelezettség).
 
-(1a)[^3] Ha a természetes személy fogyasztó az (1) bekezdés szerinti használt elektromos, elektronikus berendezést a forgalmazás helyszínén a gyártónak visszavételre felajánlja, a gyártó a fogyasztó részére új elektromos, elektronikus berendezés vásárlása esetén az 1. melléklet 2. pontjában meghatározott összegű vásárlási utalványt ad a következő feltételek szerint:
+(1a)[^5] Ha a természetes személy fogyasztó az (1) bekezdés szerinti használt elektromos, elektronikus berendezést a forgalmazás helyszínén a gyártónak visszavételre felajánlja, a gyártó a fogyasztó részére új elektromos, elektronikus berendezés vásárlása esetén az 1. melléklet 2. pontjában meghatározott összegű vásárlási utalványt ad a következő feltételek szerint:
 
 a) a vásárlási utalványban szereplő összeg alapján adható árengedmény az új elektromos, elektronikus berendezés fogyasztói vételárának 10%-át nem haladhatja meg, kivéve, ha a gyártó több árengedményt vagy kedvezményt kíván a fogyasztó részére biztosítani;
 
@@ -22,8 +22,9 @@ d) a vásárlási utalvány összege nem áthárítható.
 
 (3) A gyártó a használt elektromos, elektronikus berendezés visszavételét a fogyasztót terhelő fizetési kötelezettség teljesítéséhez nem kötheti.
 
-(4) A gyártó a használt elektromos, elektronikus berendezés visszavételét megtagadhatja, ha az elektromos, elektronikus berendezés az emberi egészségre, testi épségre vagy a környezetre súlyos veszélyt jelent.
+(4)[^6] A gyártó a használt elektromos, elektronikus berendezés visszavételét megtagadhatja, ha az elektromos, elektronikus berendezés a visszavétel során a visszavételt végző egészségére vagy testi épségére súlyos veszélyt jelent.
 
 (5) Ha a gyártó a (4) bekezdésben meghatározott eset valamelyikére hivatkozva a használt elektromos, elektronikus berendezés visszavételét megtagadja, a berendezést hulladéknak kell tekinteni. Ebben az esetben a Ht. 31. § (2) bekezdése alapján gondoskodni kell a hulladék kezeléséről.
 
-[^3]: A 3. § (1a) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 29. §-a iktatta be.
+[^5]: A 3. § (1a) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 29. §-a iktatta be.
+[^6]: A 3. § (4) bekezdése az 525/2017. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
