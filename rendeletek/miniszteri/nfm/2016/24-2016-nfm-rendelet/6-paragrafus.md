@@ -4,7 +4,7 @@ a) az engedélyes neve, székhelyének címe,
 
 b) a műhely címe,
 
-c) a felelősségbiztosító személye, vagy
+c)[^13] felelősségbiztosító vagy a garantőr személye, vagy
 
 d) a műszaki vezető vagy a részterületi felelős vezetők személye
 
@@ -15,3 +15,5 @@ megváltozik, az engedélyes a változásról annak bekövetkezése után 15 nap
 (3) Ha az engedélyes a tevékenységét szüneteltetni kívánja, azt bejelenti a közlekedési hatóságnak az időtartam megjelölésével. A tevékenységet legfeljebb 6 hónapra lehet szüneteltetni. Az engedélyes a műhely tevékenységének újrakezdését 15 nappal az újraindítást megelőzően bejelenti a közlekedési hatóságnak.
 
 (4) Az engedélyes legalább 15 nappal korábban bejelenti a közlekedési hatóságnak, ha a műhely működésével felhagy.
+
+[^13]: A 6. § (1) bekezdés c) pontja az 54/2017. (XII. 27.) NFM rendelet 9. §-ával megállapított szöveg.

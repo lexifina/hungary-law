@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-24-20-2
 | --- | --- | --- |
 | 2016-08-02 | 2016-24-20-2W.1 | 24/2016. (VII. 18.) NFM rendelet |
 | 2016-12-30 | 2016-24-20-2W.2 | 59/2016. (XII. 28.) NFM rendelet |
+| 2017-12-30 | 2016-24-20-2W.3 | 54/2017. (XII. 27.) NFM rendelet |

@@ -1,3 +1,5 @@
+## képesítés.
+
 ## 7. Nem országos jelentőségű vasútvonalakon közlekedő vasúti járműveket karbantartó és javító műhelyekre vonatkozó szabályok
 
 19. § (1) Az ezen alcímben meghatározott, nem országos jelentőségű vasútvonalakon közlekedő vasúti járművek karbantartását, javítását, felújítását és korszerűsítését végző műhelyekre vonatkozóan e rendelet rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
@@ -24,6 +26,8 @@ g) a 18. § (1) bekezdés a) pontja.
 
 (5) Az e §-ban szabályozott tevékenység során a 13. § (2) bekezdés a) pontját és (3) bekezdését nem kell alkalmazni.
 
-(6) A 17. § (2) bekezdés a) pontjától eltérően a műhelynek az adatok rögzítéséhez és továbbításához zárt láncú számítástechnikai berendezésekkel nem kell rendelkeznie.
+(6)[^44] A 17. § (2) bekezdés a) pontjától eltérően a műhelynek az adatok rögzítéséhez és továbbításához zárt láncú informatikai hálózattal nem kell rendelkeznie.
 
 (7) A 17. § (2) bekezdés szerinti kérelemhez csatolni kell a 13. § (1) bekezdésben meghatározott létesítmények, berendezések, eszközök meglétét igazoló nyilatkozatot is.
+
+[^44]: A 19. § (6) bekezdése az 54/2017. (XII. 27.) NFM rendelet 21. § c) pontja szerint módosított szöveg.

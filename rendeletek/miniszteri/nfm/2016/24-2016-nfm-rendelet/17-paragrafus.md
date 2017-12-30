@@ -1,16 +1,16 @@
 ## 5. Vasúti járművek időszakos és rendkívüli vizsgálatának engedélyezése
 
-17. § (1)[^3] Vasúti járművek időszakos vizsgálatát végző műhely engedélyezése iránti kérelmet csak az nyújthat be, aki rendelkezik az 5. § (1) bekezdés a), d), e) és g) pontjában meghatározott műszaki engedéllyel. A közlekedési hatóság egy eljárásban is elbírálhatja az 5. § (1) bekezdés a), d), e) és g) pontjában meghatározott és a vasúti járművek időszakos vizsgálatának végzésére vonatkozó engedély iránti kérelmet.
+17. § (1)[^33] Vasúti járművek időszakos vizsgálatát végző műhely engedélyezése iránti kérelmet csak az nyújthat be, aki rendelkezik az 5. § (1) bekezdés a), d), e) és g) pontjában meghatározott műszaki engedély valamelyikével. A közlekedési hatóság egy eljárásban is elbírálhatja az 5. § (1) bekezdés a), d), e) és g) pontjában meghatározott és a vasúti járművek időszakos vizsgálatának végzésére vonatkozó engedély iránti kérelmet.
 
 (2) Az időszakos vizsgálatra feljogosító engedély iránti kérelemhez – eredetiben vagy hiteles másolatban – a 4. § (2) bekezdésében meghatározottakon túl csatolni kell a kérelmező
 
-a) nyilatkozatát arról, hogy a műhely az időszakos járművizsgálat során az adatok rögzítésére és elektronikus továbbítására alkalmas zárt láncú (internetkapcsolattal rendelkező) számítástechnikai berendezésekkel rendelkezik,
+a)[^34] nyilatkozatát arról, hogy a műhely az időszakos járművizsgálat során az adatok rögzítésére és elektronikus továbbítására alkalmas zárt láncú (internetkapcsolattal rendelkező) informatikai hálózattal rendelkezik,
 
-b) nyilatkozatát a műszaki vizsgálat zárt láncú technológiájára vonatkozóan, mellékelve a műhely legalább 1:500 léptékű torzított helyszínrajzát, amelyen a műszaki vizsgálat helyéül szolgáló vágány, műhely rész jól beazonosítható,
+b)[^35] nyilatkozatát a műszaki vizsgálat zárt vizsgálati technológiájára vonatkozóan, mellékelve a műhely legalább 1:500 léptékű torzított helyszínrajzát, amelyen a műszaki vizsgálat helyéül szolgáló vágány, műhely rész jól beazonosítható,
 
-c) nyilatkozatát arról, hogy a 3. mellékletben megjelölt szemrevételezéses eljárással vizsgált berendezések állapotának dokumentálásra, elektronikus rögzítésre alkalmas, a felvétel készítésének időpontját a fényképpel kitörölhetetlenül összerendelő, fénykép készítésére alkalmas eszközzel rendelkezik,
+c)[^36] nyilatkozatát arról, hogy a 3. mellékletben megadott szemrevételezéses eljárással vizsgált berendezések állapotának dokumentálásra, elektronikus rögzítésre alkalmas, a felvétel készítésének időpontját a fényképpel kitörölhetetlenül összerendelő, fénykép készítésére alkalmas eszközzel rendelkezik,
 
-d) nyilatkozatát arról, hogy az időszakos vizsgálat során a műhely rendelkezésére bocsátott papíralapú és elektronikus dokumentumok biztonságos, tűzálló tárolására alkalmas helyiségben kerülnek elhelyezésre,
+d)[^37] nyilatkozatát arról, hogy az időszakos vizsgálat során a műhely rendelkezésére bocsátott papíralapú és elektronikus dokumentumok a következő vizsga sikeres lebonyolításáig biztonságos tárolására alkalmas módon kerülnek elhelyezésre,
 
 e) nyilatkozatát az elektronikus adattároló berendezés rendelkezésre állásáról és tárolókapacitásáról,
 
@@ -30,4 +30,8 @@ b) felfüggesztése vonatkozásában – a 7. § (1) bekezdés c) pont kivétel�
 
 (6) A műszaki engedély visszavonásával kapcsolatban a 9. § rendelkezéseit kell alkalmazni.
 
-[^3]: A 17. § (1) bekezdése az 59/2016. (XII. 28.) NFM rendelet 4. § b) pontja szerint módosított szöveg.
+[^33]: A 17. § (1) bekezdése az 54/2017. (XII. 27.) NFM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^34]: A 17. § (2) bekezdés a) pontja az 54/2017. (XII. 27.) NFM rendelet 21. § c) pontja szerint módosított szöveg.
+[^35]: A 17. § (2) bekezdés b) pontja az 54/2017. (XII. 27.) NFM rendelet 21. § d) pontja szerint módosított szöveg.
+[^36]: A 17. § (2) bekezdés c) pontja az 54/2017. (XII. 27.) NFM rendelet 21. § e) pontja szerint módosított szöveg.
+[^37]: A 17. § (2) bekezdés d) pontja az 54/2017. (XII. 27.) NFM rendelet 14. § (2) bekezdésével megállapított szöveg.

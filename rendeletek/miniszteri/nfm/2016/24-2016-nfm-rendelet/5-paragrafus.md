@@ -1,6 +1,6 @@
 5. § (1) Műszaki engedély kiadható:
 
-a) a vasúti járművek teljeskörű karbantartására, javítására, felújítására, korszerűsítésére,
+a)[^9] a vasúti járművek teljeskörű karbantartására, javítására vagy felújítására és korszerűsítésére,
 
 b) a vasúti járművek korlátozott szintű karbantartására, javítására, felújítására, korszerűsítésére, amelynek keretében a kérelmező felkészültsége szerint, a karbantartási tevékenység műszaki, technológia tartalma korlátozható,
 
@@ -12,9 +12,11 @@ e) keskeny nyomtávú vasúti pályahálózaton, kisvasúton, múzeumvasúton k�
 
 f) nem helyhez kötött (mobil) karbantartási, javítási tevékenységre,
 
-g)[^1] kizárólag helyi, városi vagy elővárosi vasúti pályahálózaton közlekedő vasúti járművek javítására, karbantartására, felújítására, korszerűsítésére.
+g)[^10] kizárólag helyi, városi vagy elővárosi vasúti pályahálózaton közlekedő vasúti járművek javítására, karbantartására, felújítására, korszerűsítésére.
 
-(2)[^2] A műszaki engedély az (1) bekezdés a)–g) pontjaiban meghatározott tevékenységek vonatkozásában egy vagy több járműtípusra, egy vagy több műhelyre is kiadható.
+(1a)[^11] Az (1) bekezdés c) pontjától eltérően a 2017. december 31-ig típusengedéllyel rendelkező vasúti járművek esetén az (1) bekezdés a) pontja szerinti engedélyes alvállalkozójának nem kell engedéllyel rendelkeznie a 2. melléklet 3–10., 12. és 14–16. pontjában meghatározott fődarab, szerkezeti egység vagy közlekedésbiztonsági berendezés tekintetében, ha őt az engedélyes megfelelőnek minősítette.
+
+(2)[^12] A műszaki engedély az (1) bekezdés a)–g) pontjaiban meghatározott tevékenységek vonatkozásában egy vagy több járműtípusra, egy vagy több műhelyre is kiadható.
 
 (3) A műszaki engedély tartalmazza:
 
@@ -42,5 +44,7 @@ e) a tevékenység szüneteltetésének időtartamát vagy a tevékenység felf�
 
 (6) A közlekedési hatóság a műszaki engedély visszavonásával egyidejűleg az engedélyest és a műhelyeit a nyilvántartásból törli.
 
-[^1]: Az 5. § (1) bekezdés g) pontját az 59/2016. (XII. 28.) NFM rendelet 2. §-a iktatta be.
-[^2]: Az 5. § (2) bekezdése az 59/2016. (XII. 28.) NFM rendelet 4. § a) pontja szerint módosított szöveg.
+[^9]: Az 5. § (1) bekezdés a) pontja az 54/2017. (XII. 27.) NFM rendelet 21. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés g) pontját az 59/2016. (XII. 28.) NFM rendelet 2. §-a iktatta be.
+[^11]: Az 5. § (1a) bekezdését az 54/2017. (XII. 27.) NFM rendelet 8. §-a iktatta be.
+[^12]: Az 5. § (2) bekezdése az 59/2016. (XII. 28.) NFM rendelet 4. § a) pontja szerint módosított szöveg.
