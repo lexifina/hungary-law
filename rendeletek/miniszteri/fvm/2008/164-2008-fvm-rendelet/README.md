@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-164-20-
 | 2015-01-31 | 2008-164-20-82.11 | 32/2014. (XII. 9.) FM rendelet |
 | 2017-03-07 | 2008-164-20-82.12 | 9/2017. (III. 6.) FM rendelet |
 | 2017-08-18 | 2008-164-20-82.13 | 42/2017. (VIII. 17.) FM rendelet |
+| 2017-12-30 | 2008-164-20-82.14 | 32/2014. (XII. 9.) FM rendelet |

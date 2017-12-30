@@ -14,7 +14,7 @@ c) az oltási könyv megrongálódása, elvesztése esetén az oltást végző �
 
 d) az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) 18. § (1) bekezdés g) pontjában leírtak szerint az oltás során közreműködni.
 
-(2)[^7] Az ebek veszettség elleni védőoltásának hatósági felügyeletét a megyei kormányhivatal, a védőoltás beadása szakmai és etikai feltételeit a Magyar Állatorvosi Kamara (a továbbiakban: Kamara) határozza meg.
+(2)[^7] Az ebek veszettség elleni védőoltásának hatósági felügyeletét a járási hivatal, a védőoltás beadása szakmai és etikai feltételeit a Magyar Állatorvosi Kamara (a továbbiakban: Kamara) határozza meg.
 
 (3)[^8] A veszettség elleni védőoltást valamennyi szolgáltató állatorvos elvégezheti.
 
@@ -42,7 +42,7 @@ e) az általa beoltott, embert mart állat oltottságáról a megmart embert kez
 
 f)[^13] az eb veszettség elleni védőoltásának beadását követő 8 napon belül az oltás időpontját, a felhasznált oltóanyag nevét, gyártási számát, az oltást végző állatorvos nevét, kamarai bélyegzője számát az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény (a továbbiakban: Ávt.) 42/A. § (1) bekezdése szerinti országos elektronikus adatbázisban rögzíteni,
 
-g)[^14] a megyei kormányhivatal által térítés ellenében kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címkével az oltási könyvben érvényesíteni az általa végzett oltásra vonatkozó bejegyzését;
+g)[^14] a járási hivatal által térítés ellenében kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címkével az oltási könyvben érvényesíteni az általa végzett oltásra vonatkozó bejegyzését;
 
 h)[^15] az állattartó kérelmére új oltási könyvet kiállítani az általa oltott ebről, egyidejűleg azt új, a g) pontban leírt címkével érvényesíteni.
 
@@ -63,14 +63,14 @@ e) illetékességi területén ellenőrzi az e jogszabályban foglaltak végreha
 (7)[^20] Veszettség ellen csak elektronikus transzponderrel megjelölt eb oltható.
 
 [^6]: A 4. § (1) bekezdés a) pontja a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^7]: A 4. § (2) bekezdése a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés d) pontja, a 42/2017. (VIII. 17.) FM rendelet 122. §-a szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés d) pontja, a 42/2017. (VIII. 17.) FM rendelet 122. §-a, a 69/2017. (XII. 27.) FM rendelet 16. §-a szerint módosított szöveg.
 [^8]: A 4. § (3) bekezdése a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^9]: A 4. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja, a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 121. § 1. pontja szerint módosított szöveg.
 [^10]: A 4. § (5) bekezdés nyitó szövegrésze a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^11]: A 4. § (5) bekezdés b) pont bb) alpontja a 32/2014. (XII. 9.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^12]: A 4. § (5) bekezdés c) pontját a 32/2014. (XII. 9.) FM rendelet 13. § a) pontja hatályon kívül helyezte.
 [^13]: A 4. § (5) bekezdés f) pontját a 23. § (2) bekezdése hatályon kívül helyezte, újonnan a 32/2014. (XII. 9.) FM rendelet 11. § (3) bekezdése iktatta be.
-[^14]: A 4. § (5) bekezdés g) pontja a 42/2010. (IV. 22.) FVM rendelet 16. § a) pontja, a 70/2013. (VII. 31.) VM rendelet 102. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 121. § 3. pontja szerint módosított szöveg.
+[^14]: A 4. § (5) bekezdés g) pontja a 42/2010. (IV. 22.) FVM rendelet 16. § a) pontja, a 70/2013. (VII. 31.) VM rendelet 102. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 121. § 3. pontja, a 69/2017. (XII. 27.) FM rendelet 16. §-a szerint módosított szöveg.
 [^15]: A 4. § (5) bekezdésének h) pontja e rendelet 23. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
 [^16]: A 4. § (5a) bekezdését a 127/2012. (XII. 12.) VM rendelet 4. § (1) bekezdése iktatta be, szövege a 37/2013. (V. 22.) VM rendelet 6. §-ával megállapított, a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^17]: A 4. § (6) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 121. § 2. pontja szerint módosított szöveg.
