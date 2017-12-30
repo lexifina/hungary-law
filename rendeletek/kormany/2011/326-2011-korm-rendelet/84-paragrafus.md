@@ -1,6 +1,6 @@
-84. § (1)[^234] A törzskönyvet a kérelmező a kérelem benyújtásakor tett, a közlekedési igazgatási hatóságnál történő átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően a közlekedési igazgatási hatóságnál személyesen vagy postai úton veheti át.
+84. § (1)[^236] A törzskönyvet a kérelmező a kérelem benyújtásakor tett, a közlekedési igazgatási hatóságnál történő átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően a közlekedési igazgatási hatóságnál személyesen vagy postai úton veheti át.
 
-(2)[^235] Az át nem vett törzskönyvet az értesítési cím szerint illetékes közlekedési igazgatási hatóság az okmány kiállításától számított egy évig megőrzi, ezt követően a Nyilvántartónak megsemmisítés céljából megküldi.
+(2)[^237] Az át nem vett törzskönyvet az értesítési cím szerint illetékes közlekedési igazgatási hatóság az okmány kiállításától számított egy évig megőrzi, ezt követően a Nyilvántartónak megsemmisítés céljából megküldi.
 
 (3) A törzskönyvet csak a tulajdonosnak, illetve arra feljogosított meghatalmazottnak lehet kiadni.
 
@@ -10,11 +10,11 @@
 
 a) a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló rendeletben meghatározott időpontig, ha a járművet a tulajdonos az állam által nyújtott járművásárlási támogatás felhasználásával vette,
 
-b)[^236] a jármű V betűjelű ideiglenes rendszámtáblával történő ellátása során,
+b)[^238] a jármű V betűjelű ideiglenes rendszámtáblával történő ellátása során,
 
-c)[^237] a jármű CD betűjelű különleges rendszámtáblával történő ellátása során,
+c)[^239] a jármű CD betűjelű különleges rendszámtáblával történő ellátása során,
 
-d)[^238] a jármű Z és SP betűjelű ideiglenes rendszámtáblával történő ellátása során, és
+d)[^240] a jármű Z és SP betűjelű ideiglenes rendszámtáblával történő ellátása során, és
 
 e) a négykerekű segédmotoros kerékpárok rendszámtáblával történő ellátása során.
 
@@ -26,11 +26,11 @@ b) a „haszonélvezeti joggal terhelt” bejegyzés, ha a járműre haszonélve
 
 c) a „közös tulajdon” bejegyzés, ha a jármű tulajdonjoga több személyt is megillet;
 
-d)[^239] az „előzetes eredetiségvizsgálat alól mentesült” bejegyzés, ha a jármű forgalomba helyezése vagy tulajdonjogában bekövetkezett változás nyilvántartásba vétele előzetes eredetiségvizsgálat elvégzése nélkül történik.
+d)[^241] az „előzetes eredetiségvizsgálat alól mentesült” bejegyzés, ha a jármű forgalomba helyezése vagy tulajdonjogában bekövetkezett változás nyilvántartásba vétele előzetes eredetiségvizsgálat elvégzése nélkül történik.
 
-[^234]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^235]: A 84. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
-[^236]: A 84. § (5) bekezdés b) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § p) pontja szerint módosított szöveg.
-[^237]: A 84. § (5) bekezdés c) pontja a 468/2016. (XII. 23.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
-[^238]: A 84. § (5) bekezdés d) pontja a 15/2013. (I. 28.) Korm. rendelet 38. § (5) bekezdésével megállapított szöveg.
-[^239]: A 84. § (6) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^236]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^237]: A 84. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
+[^238]: A 84. § (5) bekezdés b) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § p) pontja szerint módosított szöveg.
+[^239]: A 84. § (5) bekezdés c) pontja a 468/2016. (XII. 23.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
+[^240]: A 84. § (5) bekezdés d) pontja a 15/2013. (I. 28.) Korm. rendelet 38. § (5) bekezdésével megállapított szöveg.
+[^241]: A 84. § (6) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.

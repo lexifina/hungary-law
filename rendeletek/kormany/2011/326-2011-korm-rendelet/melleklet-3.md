@@ -2,7 +2,7 @@
 
 | „AM” kategória | Segédmotoros kerékpárok (robogók), azaz kétkerekű segédmotoros kerékpárok (L1e kategória) vagy háromkerekű segédmotoros kerékpárok (L2e kategória), amelyek legnagyobb tervezési sebessége 45 km/h (kivéve azokat, amelyek legnagyobb tervezési sebessége 25 km/h-nál kisebb vagy azzal megegyezik), és az alábbi jellemzőkkel rendelkeznek: |
 
-|  | a) kétkerekű típusnál a motor: – hengerűrtartalma nem nagyobb 50 cm3-nél a belsőégésű motorok esetében, vagy – folyamatosan leadott legnagyobb névleges teljesítménye nem több 4 kW-nál elektromos motor esetében; b) háromkerekű típusnál a motor: – hengerűrtartalma nem nagyobb 50 cm3-nél a külső gyújtású motorok esetében, – legnagyobb hasznos teljesítménye nem több 4 kW-nál egyéb belsőégésű motorok esetében, vagy – folyamatosan leadott legnagyobb névleges teljesítménye nem több 4 kW-nál elektromos motorok esetében; Könnyű négykerekű motorkerékpárok, amelyek terheletlen tömege kevesebb 350 kg-nál (L6e kategória), a 45 km/h-t meg nem haladó legnagyobb tervezési sebességű elektromos járművek esetében az akkumulátorok tömegét nem számítva, és amelyek – hengerűrtartalma nem nagyobb 50 cm3�-nél a külső gyújtású motorok esetében; – legnagyobb hasznos teljesítménye nem több 4 kW-nál egyéb belsőégésű motorok esetében, vagy folyamatosan leadott legnagyobb névleges teljesítménye nem több 4 kW-nál elektromos motorok esetében. |
+|  | a) kétkerekű típusnál a motor: – hengerűrtartalma nem nagyobb 50 cm3-nél a belsőégésű motorok esetében, vagy – folyamatosan leadott legnagyobb névleges teljesítménye nem több 4 kW-nál elektromos motor esetében; b) háromkerekű típusnál a motor: - hengerűrtartalma nem nagyobb 50 cm3-nél a külső gyújtású motorok esetében, - legnagyobb hasznos teljesítménye nem több 4 kW-nál egyéb belsőégésű motorok esetében, vagy - folyamatosan leadott legnagyobb névleges teljesítménye nem több 4 kW-nál elektromos motorok esetében; Könnyű négykerekű motorkerékpárok (mopedautó), amelyek terheletlen tömege nem több 425 kg-nál (L6e kategória), a 45 km/h-t meg nem haladó legnagyobb tervezési sebességű elektromos járművek esetében az akkumulátorok tömegét nem számítva, és amelyek - hengerűrtartalma nem nagyobb 50 cm3-nél a külső gyújtású motorok esetében; - legnagyobb hasznos teljesítménye nem több 6 kW-nál egyéb belsőégésű motorok esetében, vagy folyamatosan leadott legnagyobb névleges teljesítménye nem több 6 kW-nál elektromos motorok esetében. |
 
 | „A1” kategória | – olyan motorkerékpár, amelyek hengerűrtartalma a 125 cm3-t, teljesítménye a 11 kW-ot, teljesítmény/tömeg aránya pedig a 0,1 kW/kg-ot nem haladja meg, továbbá olyan motoros triciklik, amelyek teljesítménye a 15 kW-ot nem haladja meg |
 
@@ -54,6 +54,6 @@
 
 ## A mellékletben szereplő közúti járművek fogalmára a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet rendelkezései vonatkoznak.
 
-3. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^341]
+3. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^343]
 
-[^341]: A 3. mellékletet a 122. § (5) bekezdése hatályon kívül helyezte.
+[^343]: A 3. mellékletet a 122. § (5) bekezdése hatályon kívül helyezte.

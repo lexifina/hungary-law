@@ -1,4 +1,4 @@
-75. § (1)[^212] A megrongálódott, elhasználódott – de még azonosítható – rendszámtábla utángyártása a közlekedési igazgatási hatóság engedélyével történik. Az igazgatási szolgáltatási díj ügyfél általi megfizetése után a Nyilvántartó gondoskodik a gyártótól való megrendelésről. A megrongálódott rendszámtáblát az 57. § (8) bekezdése szerint be kell vonni.
+75. § (1)[^214] A megrongálódott, elhasználódott – de még azonosítható – rendszámtábla utángyártása a közlekedési igazgatási hatóság engedélyével történik. Az igazgatási szolgáltatási díj ügyfél általi megfizetése után a Nyilvántartó gondoskodik a gyártótól való megrendelésről. A megrongálódott rendszámtáblát az 57. § (8) bekezdése szerint be kell vonni.
 
 (2) Az elveszett, eltulajdonított, megsemmisült rendszámtábla a nyilvántartásban történő ellenőrzést követően a közlekedési igazgatási hatóság engedélye alapján gyártható le. Az utángyártás tényét a nyilvántartásban rögzíteni kell.
 
@@ -6,36 +6,36 @@
 
 (4) Nem engedélyezhető az elveszett, eltulajdonított, megsemmisült rendszámtábla utángyártása, ha a rendszámtábla másodízben, vagy ha a két rendszámtábla egyszerre, vagy szóló motorkerékpár, pótkocsi rendszámtáblája tűnik el.
 
-(4a)[^213] Az elveszett, eltulajdonított, megsemmisült, 60. § (2) bekezdés h) pontjában meghatározott különleges rendszámtábla utángyártása korlátozás nélkül engedélyezhető.
+(4a)[^215] Az elveszett, eltulajdonított, megsemmisült, 60. § (2) bekezdés h) pontjában meghatározott különleges rendszámtábla utángyártása korlátozás nélkül engedélyezhető.
 
 (5) A régi típusú elveszett, ellopott vagy megrongálódott rendszámtábla utángyártása esetén a régi típusú rendszámtábla gyártására kell intézkedni.
 
-(6)[^214] Az új típusú rendszámtábla utángyártása kizárólag a regisztrációs matrica megléte esetén engedélyezhető. Ez esetben az ügyfél a rendszámtábla utángyártására vonatkozó kérelmével egyidejűleg nyilatkozik a közlekedési igazgatási hatóságnál a regisztrációs matrica meglétéről és sértetlenségéről. A közlekedési igazgatási hatóság a forgalmi engedélyen szereplő regisztrációs matrica vonalkódja vagy az ügyfél nyilatkozata alapján engedélyezi az utángyártást. Engedélyezés hiányában csak átrendszámozás lehetséges.
+(6)[^216] Az új típusú rendszámtábla utángyártása kizárólag a regisztrációs matrica megléte esetén engedélyezhető. Ez esetben az ügyfél a rendszámtábla utángyártására vonatkozó kérelmével egyidejűleg nyilatkozik a közlekedési igazgatási hatóságnál a regisztrációs matrica meglétéről és sértetlenségéről. A közlekedési igazgatási hatóság a forgalmi engedélyen szereplő regisztrációs matrica vonalkódja vagy az ügyfél nyilatkozata alapján engedélyezi az utángyártást. Engedélyezés hiányában csak átrendszámozás lehetséges.
 
-(7)[^215] Az utángyártott rendszámtábla átadásáig, de legfeljebb az utángyártásra irányuló kérelem benyújtását követő harminc napig egy rendszámtáblával is lehet közlekedni.
+(7)[^217] Az utángyártott rendszámtábla átadásáig, de legfeljebb az utángyártásra irányuló kérelem benyújtását követő harminc napig egy rendszámtáblával is lehet közlekedni.
 
 (8) Ha a közlekedési igazgatási hatóság a (4) bekezdés alapján nem engedélyezi a hatósági jelzés utángyártását, akkor a hatósági jelzés elvesztésének, eltulajdonításának és megsemmisülésének a bejelentését követően haladéktalanul gondoskodik az elvesztés, eltulajdonítás vagy megsemmisülés tényének a nyilvántartáson történő átvezetéséről.
 
-(9)[^216] Ha a hatósági jelzés eltulajdonítása miatt a rendőrségnél feljelentést tettek, a rendőrség haladéktalanul, elektronikus úton értesíti a Nyilvántartót, amely haladéktalanul gondoskodik a hatósági jelzés eltulajdonítása tényének a nyilvántartáson történő átvezetéséről.
+(9)[^218] Ha a hatósági jelzés eltulajdonítása miatt a rendőrségnél feljelentést tettek, a rendőrség haladéktalanul, elektronikus úton értesíti a Nyilvántartót, amely haladéktalanul gondoskodik a hatósági jelzés eltulajdonítása tényének a nyilvántartáson történő átvezetéséről.
 
-(9a)[^217] A hatósági jelzés eltulajdonításának bejelentése esetén a rendőrségi feljelentést, a hatósági jelzés elvesztésének, megsemmisülésének, vagy megtalálásának bejelentése esetén az erről felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Nyilvántartónak továbbítja.
+(9a)[^219] A hatósági jelzés eltulajdonításának bejelentése esetén a rendőrségi feljelentést, a hatósági jelzés elvesztésének, megsemmisülésének, vagy megtalálásának bejelentése esetén az erről felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Nyilvántartónak továbbítja.
 
 (10) Ha a közlekedési igazgatási hatóság értesül a hatósági jelzés megtalálásáról, úgy haladéktalanul gondoskodik a találás tényének a nyilvántartáson történő átvezetéséről.
 
 (11) Ha a rendőrség értesül a hatósági jelzés megtalálásáról, úgy haladéktalanul értesíti bármely közlekedési igazgatási hatóságot, amely gondoskodik a találás tényének a nyilvántartáson történő átvezetéséről.
 
-(12)[^218] A hatósági jelzés elvesztésének, eltulajdonításának, megsemmisülésének, illetve megtalálásának a közlekedési igazgatási hatósághoz történő bejelentéséről szóló jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Nyilvántartónak továbbítja. Az elektronikus úton kérelmezett utángyártás esetében az ügyfél elektronikus úton tett, a regisztrációs matricára is kiterjedő nyilatkozata kerül a Nyilvántartónak továbbításra.
+(12)[^220] A hatósági jelzés elvesztésének, eltulajdonításának, megsemmisülésének, illetve megtalálásának a közlekedési igazgatási hatósághoz történő bejelentéséről szóló jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Nyilvántartónak továbbítja. Az elektronikus úton kérelmezett utángyártás esetében az ügyfél elektronikus úton tett, a regisztrációs matricára is kiterjedő nyilatkozata kerül a Nyilvántartónak továbbításra.
 
-(13)[^219] Az elektronikus úton folytatott eljárásban utángyártott rendszámtábla 15 napon belül az ügyfél választása szerint postázásra kerül, vagy az általa megjelölt közlekedési igazgatási hatóságnál, annak értesítése alapján átvehető.
+(13)[^221] Az elektronikus úton folytatott eljárásban utángyártott rendszámtábla 15 napon belül az ügyfél választása szerint postázásra kerül, vagy az általa megjelölt közlekedési igazgatási hatóságnál, annak értesítése alapján átvehető.
 
-(14)[^220] A közúti közlekedési szolgáltatást végző üzemben tartónak (tulajdonosnak) kiadott, különleges jellegű, egyénileg kiválasztott, illetve egyedileg előállított rendszámtábla igazgatási szolgáltatási díj megfizetése ellenében, a XIII. Kerületi Hivatal engedélye alapján fehér színben utángyártható. A különleges jellegű rendszámtáblát az utángyártott rendszámtábla átadásával egyidejűleg az 57. § (8) bekezdése szerint be kell vonni.
+(14)[^222] A közúti közlekedési szolgáltatást végző üzemben tartónak (tulajdonosnak) kiadott, különleges jellegű, egyénileg kiválasztott, illetve egyedileg előállított rendszámtábla igazgatási szolgáltatási díj megfizetése ellenében, a XIII. Kerületi Hivatal engedélye alapján fehér színben utángyártható. A különleges jellegű rendszámtáblát az utángyártott rendszámtábla átadásával egyidejűleg az 57. § (8) bekezdése szerint be kell vonni.
 
-[^212]: A 75. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
-[^213]: A 75. § (4a) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 18. §-a iktatta be.
-[^214]: A 75. § (6) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^215]: A 75. § (7) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^216]: A 75. § (9) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés h) pontja szerint módosított szöveg.
-[^217]: A 75. § (9a) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 19. §-a iktatta be.
-[^218]: A 75. § (12) bekezdése az 5/2013. (I. 16.) Korm. rendelet 14. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés g) pontja szerint módosított szöveg.
-[^219]: A 75. § (13) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 57. § (4) bekezdésével megállapított szöveg. [A 75. § (13) bekezdésében a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés e) pontjával elrendelt módosítás nem vezethető át.]
-[^220]: A 75. § (14) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 57. § (5) bekezdése iktatta be, szövege a 60/2017. (III. 20.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
+[^214]: A 75. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^215]: A 75. § (4a) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 18. §-a iktatta be.
+[^216]: A 75. § (6) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^217]: A 75. § (7) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^218]: A 75. § (9) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés h) pontja szerint módosított szöveg.
+[^219]: A 75. § (9a) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 19. §-a iktatta be.
+[^220]: A 75. § (12) bekezdése az 5/2013. (I. 16.) Korm. rendelet 14. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés g) pontja szerint módosított szöveg.
+[^221]: A 75. § (13) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 57. § (4) bekezdésével megállapított szöveg. [A 75. § (13) bekezdésében a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés e) pontjával elrendelt módosítás nem vezethető át.]
+[^222]: A 75. § (14) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 57. § (5) bekezdése iktatta be, szövege a 60/2017. (III. 20.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.

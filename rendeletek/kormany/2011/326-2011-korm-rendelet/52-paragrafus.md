@@ -2,9 +2,9 @@
 
 52. § (1) Az előzetes eredetiségvizsgálatot el kell végezni:
 
-a) a 42. § (3) bekezdés b) pontjában foglalt eseteket kivéve, a használt jármű, továbbá a gyártótól származó járműkísérő lappal nem rendelkező új jármű, valamint a járműnyilvántartásba korábban még nem vett lassú jármű, vagy egyéb jármű első forgalomba helyezésekor;
+a)[^151] a használt jármű, továbbá a gyártótól származó járműkísérő lappal nem rendelkező új jármű, valamint a járműnyilvántartásba korábban még nem vett lassú jármű vagy egyéb jármű első forgalomba helyezésekor;
 
-b)[^150] a forgalomból végleg vagy átmeneti időszakra kivont jármű ismételt forgalomba helyezésekor;
+b)[^152] a forgalomból végleg vagy átmeneti időszakra kivont jármű ismételt forgalomba helyezésekor;
 
 c) a jármű alvázszámának megváltoztatásával járó műszaki beavatkozást – alvázszámot hordozó szerkezeti elem, alváz vagy karosszéria cseréje – megelőzően;
 
@@ -20,11 +20,11 @@ d) a jármű – kivéve a lassú járművet és a lassú jármű pótkocsiját 
 
 (6) Az (1) bekezdésben felsorolt közlekedési igazgatási eljárásban a közlekedési igazgatási hatóság ellenőrzi a jármű előzetes eredetiségvizsgálatának meglétét, eredményét, valamint annak érvényességi idejét.
 
-(7)[^151] Az előzetes eredetiségvizsgálat elvégzése nélkül is nyilvántartásba kell venni a jármű tulajdonjogában bekövetkezett változást, ha annak jogalapja
+(7)[^153] Az előzetes eredetiségvizsgálat elvégzése nélkül is nyilvántartásba kell venni a jármű tulajdonjogában bekövetkezett változást, ha annak jogalapja
 
 a) öröklés,
 
-b)[^152] jogi személyek átalakulásával, egyesülésével, szétválásával bekövetkezett vagyonszerzés, feltéve, hogy az újonnan létrejött gazdálkodó szervezet a korábbinak általános jogutódja lesz,
+b)[^154] jogi személyek átalakulásával, egyesülésével, szétválásával bekövetkezett vagyonszerzés, feltéve, hogy az újonnan létrejött gazdálkodó szervezet a korábbinak általános jogutódja lesz,
 
 c) a közös tulajdon megszüntetése, ha a jármű valamelyik tulajdonostárs tulajdonába kerül vagy annak jogalapja közös tulajdon létesítése, ha az egyik tulajdonostárs korábban a jármű tulajdonosa volt,
 
@@ -34,11 +34,12 @@ e) állami vagy önkormányzati szerv, vagy önkormányzat kezelésében lévő 
 
 f) a használt jármű cégjegyzék vagy vállalkozói igazolvány alapján az adásvétel időpontjában fő tevékenysége szerint gépjármű-kereskedelemre jogosult szervezet vagy vállalkozó tulajdonába kerülése, kivéve a rendeltetésszerű használat céljából történő tulajdonszerzést,
 
-g)[^153] a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1 § (1) bekezdés 1. pontjában meghatározott közeli hozzátartozók egymás közötti tulajdonátruházása.
+g)[^155] a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1 § (1) bekezdés 1. pontjában meghatározott közeli hozzátartozók egymás közötti tulajdonátruházása.
 
 (8) A muzeális jellegű járművekkel kapcsolatos közlekedési igazgatási eljáráshoz, továbbá a négykerekű segédmotoros kerékpárok első magyarországi forgalomba helyezésére irányuló közlekedési igazgatási eljáráshoz az előzetes eredetiségvizsgálatot nem kell elvégezni.
 
-[^150]: Az 52. § (1) bekezdés b) pontja a 90/2015. (IV. 9.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^151]: Az 52. § (7) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^152]: Az 52. § (7) bekezdés b) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § i) pontja szerint módosított szöveg.
-[^153]: Az 52. § (7) bekezdés g) pontját a 60/2017. (III. 20.) Korm. rendelet 18. § (5) bekezdése iktatta be.
+[^151]: Az 52. § (1) bekezdés a) pontja az 516/2017. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^152]: Az 52. § (1) bekezdés b) pontja a 90/2015. (IV. 9.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^153]: Az 52. § (7) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^154]: Az 52. § (7) bekezdés b) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § i) pontja szerint módosított szöveg.
+[^155]: Az 52. § (7) bekezdés g) pontját a 60/2017. (III. 20.) Korm. rendelet 18. § (5) bekezdése iktatta be.

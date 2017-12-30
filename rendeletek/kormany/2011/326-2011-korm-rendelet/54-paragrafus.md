@@ -6,9 +6,9 @@
 
 (4) 2004. május 1-jét követően továbbra is régi típusú rendszámtábla kiadására kerül sor a 60. § (2) bekezdés d) és e) pontjában meghatározott járművek esetében.
 
-(5)[^155] A 2004. május 1-jét megelőzően kiadott egyénileg kiválasztott, egyedileg előállított rendszámtábla a 60. § (2a) bekezdésében meghatározott esetekben kérelemre régi típusú rendszámtáblára is cserélhető.
+(5)[^157] A 2004. május 1-jét megelőzően kiadott egyénileg kiválasztott, egyedileg előállított rendszámtábla a 60. § (2a) bekezdésében meghatározott esetekben kérelemre régi típusú rendszámtáblára is cserélhető.
 
-(6)[^156] Az új típusú rendszámtábla régi típusú rendszámtáblára nem cserélhető.
+(6)[^158] Az új típusú rendszámtábla régi típusú rendszámtáblára nem cserélhető.
 
-[^155]: Az 54. § (5) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
-[^156]: Az 54. § (6) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^157]: Az 54. § (5) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^158]: Az 54. § (6) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be.

@@ -92,87 +92,117 @@
 
 ## V. Szín- és fénytechnikai követelmények
 
-## 1. A rendszámtábla alapjának színe fehér, a betű- és számcsoportok, valamint a keret és a kötőjel fekete, az Európai Közösség tagállamjelzése pedig kék alapon sárga csillagok és fehér H betű.
+## 1. A rendszámtábla alapjának színe fehér, a betű- és számcsoportok, valamint a keret és a kötőjel fekete, az Európai Unió tagállamjelzése pedig kék alapon sárga csillagok és fehér H betű.
 
-## 2. A fehér, a kék, a sárga és a világoszöld színű felület fényvisszaverő, a fekete szín közönséges felületszín. A fehér, a kék, a sárga és a világoszöld színre az MSZ 20186/2 fényvisszaverő bevonatokra vonatkozó, a fekete színre pedig a szabvány közönséges felületszínekre vonatkozó előírásai érvényesek.
+## 2. A fehér, a kék, a sárga, a világoszöld, a szürke és a világoskék színű felület fényvisszaverő, a fekete szín közönséges felületszín. A fehér, a kék, a sárga, a világoszöld, a szürke és a világoskék színekre az MSZ 20186/2 fényvisszaverő bevonatokra vonatkozó, a fekete színre pedig a szabvány közönséges felületszínekre vonatkozó előírásai érvényesek.
 
 ## 3. A rendszámtábla felületi színének fénysűrűségi tényezője legalább:
 
-## – a fehér 0,35
+## - a fehér 0,35
 
-## – a kék 0,01
+## - a kék 0,01
 
-## – a sárga 0,27
+## - a sárga 0,27
 
-## – a világoszöld 0,34
+## - a világoszöld 0,29
 
-## – a feketéé pedig legfeljebb 0,03.
+## - a szürke 0,07
+
+## - a világoskék 0,09
+
+## - a fekete pedig legfeljebb 0,03.
 
 ## A rendszámtábla felülete nem lehet tükröző.
 
 ## Színtartományok a rendszámtábla nappali színeire vonatkozóan:
 
-| Rendszámtábla színei | Színkoordináták jele | Színtartomány sarokpontjai és azok színkoordinátái | Fénysűrűségi tényező |
+|  | A | B | C | D | E | F | G |
 
-| 1. | 2. | 3. | 4. |
+| 1. | Rendszámtábla színei | Színkoordináták jele | Színtartomány sarokpontjai és azok színkoordinátái | Fénysűrűségi tényező |
 
-| Fehér | X | 0,355 | 0,305 | 0,285 | 0,335 | >0,35 |
+| 2. |  |  | 1 | 2 | 3 | 4 |  |
 
-| Y | 0,355 | 0,305 | 0,325 | 0,375 |
+| 3. | Fehér | X | 0,355 | 0,305 | 0,285 | 0,335 | >0,35 |
 
-| Kék | X | 0,078 | 0,150 | 0,210 | 0,137 | >0,01 |
+| 4. | Y | 0,355 | 0,305 | 0,325 | 0,375 |  |
 
-| Y | 0,171 | 0,220 | 0,160 | 0,038 |
+| 5. | Kék | X | 0,137 | 0,210 | 0,172 | 0,094 | >0,01 |
 
-| Sárga | X | 0,545 | 0,487 | 0,427 | 0,465 | >0,27 |
+| 6. | Y | 0,038 | 0,160 | 0,198 | 0,125 |  |
 
-| Y | 0,454 | 0,423 | 0,483 | 0,534 |
+| 7. | Sárga | X | 0,429 | 0,467 | 0,516 | 0,490 | >0,27 |
 
-| Világoszöld | X | 0,25 | 0,25 | 0,37 | 0,37 | >0,34 |
+| 8. | Y | 0,483 | 0,531 | 0,483 | 0,435 |  |
 
-| Y | 0,36 | 0,50 | 0,50 | 0,36 |
+| 9. | Világoszöld | X | 0,250 | 0,250 | 0,370 | 0,370 | >0,29 |
+
+| 10. | Y | 0,360 | 0,500 | 0,500 | 0,360 |  |
+
+| 11. | Szürke | X | 0,270 | 0,370 | 0,370 | 0,270 | >0,07 |
+
+| 12. | Y | 0,270 | 0,270 | 0,390 | 0,390 |  |
+
+| 13. | Világoskék | X | 0,150 | 0,195 | 0,175 | 0,100 | >0,09 |
+
+| 14. | Y | 0,110 | 0,185 | 0,220 | 0,205 |  |
 
 ## Színtartományok a rendszámtábla éjszakai fehér alapszínére vonatkozóan:
 
-| Rendszámtábla színei | Színkoordináták jele | Színtartomány sarokpontjai és azok színkoordinátái | Fénysűrűségi tényező |
+|  | A | B | C | D | E | F | G |
 
-| 1. | 2. | 3. | 4. |
+| 1. | rendszámtábla színe | Színkoordináták jele | Színtartomány sarokpontjai és azok színkoordinátái | Fénysűrűségi tényező |
 
-| Fehér | X | 0,450 | 0,548 | 0,417 | 0,372 | >0,35 |
+| 2. |  |  | 1 | 2 | 3 | 4 |  |
 
-| Y | 0,513 | 0,404 | 0,359 | 0,405 |
+| 3. | Fehér | X | 0,450 | 0,548 | 0,417 | 0,372 | >0,35 |
+
+| 4. | Y | 0,513 | 0,404 | 0,359 | 0,405 |
 
 ## 4. A rendszámtáblán alkalmazott, új állapotban lévő fényvisszaverő bevonat különböző színeinek fénysűrűségi együtthatói:
 
-| Fényvisszaverő bevonat színei | Megfigyelési szög | Fénysűrűségi együttható cd 1x–1 m–2 |
+|  | A | B | C | D | E | F |
 
-| 5° | 30° | 45° | legfeljebb |
+| 1. | Fényvisszaverő bevonat színei | Megfigyelési szög | Fénysűrűségi együttható cd 1x-1 m-2 | legfeljebb |
 
-| megvilágítási szög esetén, legalább |
+| 2. |  |  | 5° | 30° | 45° |  |
 
-| Fehér | 0° 12’ | 70 | 30 | 6 | 250 |
+| 3. |  |  | megvilágítási szög esetén, legalább |  |  |  |
 
-| 0° 20’ | 50 | 25 | 3 |
+| 4. | Fehér | 0° 12’ | 70 | 30 | 6 | 250 |
 
-| 1° 30’ | 5 | 2 | 1 |
+| 5. | 0° 20’ | 50 | 25 | 3 |
 
-| Kék | 0° 12’ | 3 | 1,5 | – | 20 |
+| 6. | 1° 30’ | 5 | 2 | 1 |
 
-| 0° 20’ | – | – | – |
+| 7. | kék | 0° 12’ | 3 | 1,5 | - | 20 |
 
-| 1° 30’ | – | – | – |
+| 8. | 0° 20’ | - | - | - |
 
-| Sárga | 0° 12’ | 50 | 20 | 4 | 175 |
+| 9. | 1° 30’ | - | - | - |
 
-| 0° 20’ | 35 | 15 | 2 |
+| 10. | Sárga | 0° 12’ | 30 | 12 | 5 | 175 |
 
-| 1° 30’ | 3 | 1 | – |
+| 11. | 0° 20’ | 20 | 8 | 4 |  |
 
-| Világoszöld | 0° 12’ | 20 | 10 | 3 | – |
+| 12. | 1° 30’ | 3 | 1,5 | - |  |
 
-| 0° 20’ | 15 | 8 | 2 |
+| 13. | Világoszöld | 0° 12’ | 20 | 10 | 3 |  |
 
-| 1° 30’ | 3 | 2,5 | 1 |
+| 14. | 0° 20’ | 15 | 8 | 2 |  |
+
+| 15. | 1° 30’ | 3 | 2,5 | 1 |  |
+
+| 16. | Szürke | 0° 12’ | 20 | 12 | - |  |
+
+| 17. | 0° 20’ | 15 | 8 | - |  |
+
+| 18. | 1° 30’ | 2 | - | - |  |
+
+| 19. | Világoskék | 0° 12’ | 15 | 6 | 1 |  |
+
+| 20. | 0° 20’ | 13 | 5 | - |  |
+
+| 21. | 1° 30’ | 1 | - | - |  |
 
 ## A rendszámtábla fényvisszaverő felületét esőnek kitéve a fénysűrűségi együttható a táblázatban megadott értékek 90%-nál nem lehet kisebb.
 
