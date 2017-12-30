@@ -46,13 +46,13 @@
 
 ## III. Az e melléklet I–II. pontjának hatálya alá nem tartozó pályázó esetében
 
-## 1.[^77]
+## 1.[^78]
 
 ## 2. Nyilatkozni kell arról, hogy szerepel-e a köztartozásmentes adózói adatbázisban
 
-## 3.[^78]
+## 3.[^79]
 
-## 4.[^79]
+## 4.[^80]
 
 ## 5. Nyilatkozni kell arról, hogy van-e ISO minősítése, és ennek érvényessége
 
@@ -74,15 +74,15 @@
 
 ## 14. Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan jogerős bírósági ítélet, amely a pályázó vagy jogelődje kártérítési felelősségét állapította meg, ha igen, ezek száma, tárgya, ügyszáma
 
-## 15.[^80] Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan jogerős bírósági ítélet, amely a pályázó vagy jogelődje vezető tisztségviselőjének, kizárólagos vagy többségi tulajdonos tagjának büntetőjogi felelősségét állapította meg olyan – gazdasági, vagyon elleni, közélet tisztasága elleni, igazságszolgáltatás elleni vagy közbizalom elleni – szándékos bűncselekmény miatt, amelyet a pályázó vagy jogelődje képviselőjeként, foglalkoztatottjaként vagy megbízottjaként követett el, és amely cselekmény miatt még nem mentesült a büntetett előélethez fűződő hátrányok alól. Az ilyen esetekben nyilatkozni kell a jogerős büntető ítéletek számáról, a bírósági ügyszámról, a bűncselekményekről, az elmarasztalt személyek azonosítását lehetővé tévő megjelöléséről.
+## 15.[^81] Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan jogerős bírósági ítélet, amely a pályázó vagy jogelődje vezető tisztségviselőjének, kizárólagos vagy többségi tulajdonos tagjának büntetőjogi felelősségét állapította meg olyan – gazdasági, vagyon elleni, közélet tisztasága elleni, igazságszolgáltatás elleni vagy közbizalom elleni – szándékos bűncselekmény miatt, amelyet a pályázó vagy jogelődje képviselőjeként, foglalkoztatottjaként vagy megbízottjaként követett el, és amely cselekmény miatt még nem mentesült a büntetett előélethez fűződő hátrányok alól. Az ilyen esetekben nyilatkozni kell a jogerős büntető ítéletek számáról, a bírósági ügyszámról, a bűncselekményekről, az elmarasztalt személyek azonosítását lehetővé tévő megjelöléséről.
 
-## 16.[^81] Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben a pályázó szervezettel vagy jogelődjével szemben a szakmai testületben olyan lezárt etikai eljárás, amely elmarasztalást tartalmazott, ha igen, ezek száma, tárgya, ügyszáma.
+## 16.[^82] Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben a pályázó szervezettel vagy jogelődjével szemben a szakmai testületben olyan lezárt etikai eljárás, amely elmarasztalást tartalmazott, ha igen, ezek száma, tárgya, ügyszáma.
 
-4. számú melléklet a 114/2006. (V. 12.) Korm. rendelethez[^82]
+4. számú melléklet a 114/2006. (V. 12.) Korm. rendelethez[^83]
 
-[^77]: A 3. melléklet III. pont 1. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
-[^78]: A 3. melléklet III. pont 3. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
-[^79]: A 3. melléklet III. pont 4. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
-[^80]: A 3. melléklet III. pont 15. alpontja a 113/2013. (IV. 12.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^81]: A 3. melléklet III. pont 16. alpontja a 113/2013. (IV. 12.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
-[^82]: A 4. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^78]: A 3. melléklet III. pont 1. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^79]: A 3. melléklet III. pont 3. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^80]: A 3. melléklet III. pont 4. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^81]: A 3. melléklet III. pont 15. alpontja a 113/2013. (IV. 12.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^82]: A 3. melléklet III. pont 16. alpontja a 113/2013. (IV. 12.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
+[^83]: A 4. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.

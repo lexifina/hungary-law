@@ -124,6 +124,6 @@
 
 ## 6. Van-e ISO minősítése, és ennek érvényessége.
 
-3. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^76]
+3. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^77]
 
-[^76]: A 3. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte. A 3. számú melléklet korábbi megjelölését 3. mellékletre változtatta, és újonnan a 169/2012. (VII. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^77]: A 3. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte. A 3. számú melléklet korábbi megjelölését 3. mellékletre változtatta, és újonnan a 169/2012. (VII. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be.
