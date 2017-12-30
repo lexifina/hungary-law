@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-41-20-8
 | 2017-01-01 | 2008-41-20-82.15 | 42/2012. (V. 3.) VM rendelet |
 | 2017-02-14 | 2008-41-20-82.16 | 6/2017. (II. 13.) FM rendelet |
 | 2017-12-23 | 2008-41-20-82.17 | 66/2017. (XII. 22.) FM rendelet |
+| 2017-12-30 | 2008-41-20-82.18 | 60/2011. (VI. 30.) VM rendelet |
