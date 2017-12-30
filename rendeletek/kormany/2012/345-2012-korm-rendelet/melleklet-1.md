@@ -916,6 +916,8 @@
 
 4.14. Folyami Információs Szolgáltatások által támogatott korridormenedzsment (RIS COMEX).
 
+4.15. A magyarországi nyaralóhajózás feltételeinek megteremtése, pilot program, különösen a kikötői infrastruktúra és hajózási információs rendszer kiépítése, vízi útvonalak kijelölése.
+
 5. Egyes országos légi közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
 5.1. Szabad útvonalú (Free route) légtér a Fekete-erdőtől a Fekete tengerig.
@@ -947,4 +949,4 @@
 6.7. Kemencei Erdei Múzeumvasút (meglévő szakasz felújítás és Csarna-völgyi újjáépítés), pályafelújítás, valamint gördülőállomány felújítása és fejlesztése.
 
 [^32]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: Az 1. melléklet a 490/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 1. §-a, a 368/2017. (XII. 7.) Korm. rendelet 3. §-a, a 385/2017. (XII. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^33]: Az 1. melléklet a 490/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 1. §-a, a 368/2017. (XII. 7.) Korm. rendelet 3. §-a, a 385/2017. (XII. 12.) Korm. rendelet 1. §-a, az 527/2017. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.

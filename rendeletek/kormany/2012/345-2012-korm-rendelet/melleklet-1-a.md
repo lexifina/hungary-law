@@ -518,6 +518,8 @@
 
 4.5. Vízi úti információs rendszer kiépítése.
 
+4.6. A magyarországi nyaralóhajózáshoz kapcsolódó kikötői infrastruktúra és hajózási információs rendszer kiépítése, vízi útvonalak kijelölése.
+
 5. Keskeny nyomközű vasúti közlekedési projektek
 
 5.1. MÁV Zrt. Széchenyi-hegyi Gyermekvasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése;
@@ -534,4 +536,4 @@
 
 5.7. Kemencei Erdei Múzeumvasút (meglévő szakasz felújítás és Csarna-völgyi újjáépítés), pályafelújítás, valamint gördülőállomány felújítása és fejlesztése.
 
-[^34]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 490/2016. (XII. 28.) Korm. rendelet 2. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 2. §-a, a 368/2017. (XII. 7.) Korm. rendelet 4. §-a, a 385/2017. (XII. 12.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^34]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 490/2016. (XII. 28.) Korm. rendelet 2. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 2. §-a, a 368/2017. (XII. 7.) Korm. rendelet 4. §-a, a 385/2017. (XII. 12.) Korm. rendelet 2. §-a, az 527/2017. (XII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
