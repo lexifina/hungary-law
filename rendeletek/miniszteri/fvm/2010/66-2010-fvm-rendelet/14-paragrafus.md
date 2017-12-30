@@ -8,11 +8,11 @@
 
 (4) Ez a rendelet az Európai Parlament és a Tanács a 2004. április 29-i, a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló 882/2004/EK rendeletének való megfelelését szolgálja.
 
-(5)[^15] Ez a rendelet az Unió 2011., 2012. és 2013. évre vonatkozó, a növényi és állati eredetű élelmiszerekben, illetve azok felületén található növényvédőszer-maradékok határértékének való megfelelés biztosítására, valamint a fogyasztók ilyen növényvédőszer-maradékoknak való expozíciójának értékelésére irányuló, többéves összehangolt ellenőrzési programjáról szóló, 2010. október 12-i 915/2010/EU bizottsági rendelet végrehajtását szolgálja.
+(5)[^15]
 
-(6)[^16] Ez a rendelet a 2013., 2014. és 2015. évre vonatkozó, a növényi és állati eredetű élelmiszerekben, illetve azok felületén található növényvédőszer-maradékok határértékeinek való megfelelés biztosítására, valamint a fogyasztók ilyen növényvédőszer-maradékokból eredő expozíciójának értékelésére irányuló, többéves összehangolt uniós ellenőrzési programról szóló, 2012. augusztus 31-i 788/2012/EU bizottsági végrehajtási rendeletnek való megfelelést szolgálja.
+(6)[^16]
 
 [^13]: A 13. §-t a 15. § (2) bekezdése hatályon kívül helyezte.
 [^14]: A 14. § (1) bekezdése a 43/2010. (XII. 20.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^15]: A 14. § (5) bekezdése a 43/2010. (XII. 20.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^16]: A 14. § (6) bekezdését a 13/2013. (III. 6.) VM rendelet 25. §-a iktatta be.
+[^15]: A 14. § (5) bekezdését a 69/2017. (XII. 27.) FM rendelet 19. §-a hatályon kívül helyezte.
+[^16]: A 14. § (6) bekezdését a 13/2013. (III. 6.) VM rendelet 25. §-a iktatta be, hatályon kívül helyezte a 69/2017. (XII. 27.) FM rendelet 19. §-a.
