@@ -1,5 +1,3 @@
-## 18. §[^16] A bankkártya-elfogadó terminálok számának növeléséhez nyújtott támogatásról szóló 47/2016. (XII. 6.) NGM rendelet módosításáról szóló 31/2017. (X. 17.) NGM rendelet (a továbbiakban: Módr1.) hatálybalépését[^17] megelőzően kiadott támogatói okiratokra e rendeletnek a Módr1. hatálybalépésének napját megelőző napon hatályos rendelkezéseit a Módr1. 2. §-ával megállapított 7. § (4) és (4a) bekezdésében, a Módr1. 4. § b) pontjával megállapított 3. § (2) bekezdésében és a Módr1. 4. § h) pontjával megállapított 7. § (3) bekezdésében foglalt eltéréssel kell alkalmazni.
-
 1. melléklet a 47/2016. (XII. 6.) NGM rendelethez
 
 ## Nyilatkozat a csekély összegű támogatás igénybevételéhez
@@ -95,6 +93,3 @@ ____________________________
 7 Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. melléklete alapján.
 
 8 A csekély összegű támogatást akkor kell odaítéltnek tekinteni, amikor az alkalmazandó nemzeti jogrendszer értelmében a támogatás igénybevételének jogát a kedvezményezett vállalkozásra ruházzák, függetlenül a csekély összegű támogatás folyósításának időpontjától. Csekély összegű támogatást tartalmazó szerződésnél ez az időpont a szerződés létrejötte.
-
-[^16]: A 18. §-t a 31/2017. (X. 17.) NGM rendelet 3. §-a iktatta be.
-[^17]: A hatálybalépés időpontja 2017. október 18.
