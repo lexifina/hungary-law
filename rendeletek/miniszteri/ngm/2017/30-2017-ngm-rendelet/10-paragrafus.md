@@ -1,9 +1,8 @@
-## 6–9. §[^3]
+## 6–9. §[^4]
 
-10. § (1)[^4]
+10. § (1)[^5]
 
-(2)[^5]
+(2) Hatályát veszti a Vhr. 77. § (9) és (10) bekezdése.
 
-[^3]: A 6–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 10. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 10. § (2) bekezdése a 11. § (3) bekezdése alapján 2017. december 31-én lép hatályba.
+[^4]: A 6–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 10. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
