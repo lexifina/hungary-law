@@ -1,4 +1,4 @@
-## 23. §[^1]
+## 23. §[^3]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 23. § 2018. január 1-jén lép hatályba.
 
-[^1]: A 23. § a 24. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^3]: A 23. § a 24. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

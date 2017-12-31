@@ -1,3 +1,0 @@
-## 1. § A vasúti járművek üzembehelyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló 31/2010. (XII. 23.) NFM rendelet (a továbbiakban: R1.) 25/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A karbantartásért felelős szervezet a vasúti járművön végzett műhelyi felújításokról és javításokról a közlekedési hatóságnak évente, a tárgyévet követő év február 28. napjáig adatokat szolgáltat a pályaszám, javítási nem (futójavítás vagy fővizsgálat), valamint a javítás jellegének megjelölésével. A közlekedési hatóság az elektronikus adatszolgáltatást előírhatja. A karbantartásért felelős szervezet a közlekedési hatóság részére először 2019. február 28. napjáig köteles adatokat szolgáltatni.”
