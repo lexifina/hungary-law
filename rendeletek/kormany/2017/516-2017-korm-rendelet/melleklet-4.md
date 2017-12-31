@@ -22,4 +22,6 @@
 
 ## Egy károsult személyre (utasra) eső fedezeti összeghatár (szublimit): legalább egy kárból egy személy esetében összesen 1 millió forint.”
 
-4. melléklet az 516/2017. (XII. 29.) Korm. rendelethez
+4–5. melléklet az 516/2017. (XII. 29.) Korm. rendelethez[^18]
+
+[^18]: A 4–5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

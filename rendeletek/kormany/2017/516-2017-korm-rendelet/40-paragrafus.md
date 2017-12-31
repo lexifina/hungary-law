@@ -1,4 +1,4 @@
-## 38–39. §[^12]
+## 38–39. §[^17]
 
 ## 16. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–8. §, a 11–12. §, a 14–18. §, a 25–33. §, a 35–39. § 2018. január 1-jén lép hatályba.
 
-[^12]: A 38–39. § a 40. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^17]: A 38–39. § a 40. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
