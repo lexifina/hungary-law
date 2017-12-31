@@ -16,7 +16,7 @@
 
 | 6 | díjmentes szolgáltatás szám (SHS=80) | 180 |
 
-| 7 | díjmentes szolgáltatás szám (SHS = 40) | 180 |
+| 7 |  |  |
 
 | 8 | emelt díjas, díjkorlátos szolgáltatás szám (SHS=91) | 600 |
 
@@ -82,4 +82,4 @@
 
 | 39 | nemzeti összekötő hálózat jelzéspont kód (NISPC) | 66 000 |
 
-[^6]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a, az 1/2016. (I. 15.) NMHH rendelet 16. §-a, a 10/2017. (IX. 14.) NMHH rendelet 14. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a, az 1/2016. (I. 15.) NMHH rendelet 16. §-a és 19. § (3) bekezdése, a 10/2017. (IX. 14.) NMHH rendelet 14. §-a szerint módosított szöveg.
