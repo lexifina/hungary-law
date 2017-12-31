@@ -1,3 +1,3 @@
-## 2. §[^1]
+## 2. §[^2]
 
-[^1]: A 2. § a 4. § (2) bekezdése alapján 2018. január 1. napján lép hatályba.
+[^2]: A 2. § a 4. § (2) bekezdése alapján 2018. január 1. napján lép hatályba.
