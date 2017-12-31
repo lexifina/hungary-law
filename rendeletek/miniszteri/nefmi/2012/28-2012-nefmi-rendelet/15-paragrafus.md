@@ -1,7 +1,0 @@
-## 7. A beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek, tanulók óvodai nevelésével, illetve iskolai nevelésével és oktatásával kapcsolatos feladatok ellátásának támogatása
-
-15. § (1) A Kvt. 5. melléklet 11. pont d) alpont dg) alpontja szerinti támogatást (a továbbiakban: BTM támogatás) a fenntartó a fenntartásában lévő nevelési-oktatási intézményekben a nevelési tanácsadó érvényes szakvéleménye alapján beilleszkedési, tanulási, magatartási nehézséggel küzdő óvodai nevelésben részesülő gyermekek és a nappali rendszerű iskolai oktatásban részt vevő tanulók 2011/2012. tanévi nyitó, október 1-jei közoktatási statisztikai, és a 2012/2013. tanévi becsült nyitó létszáma alapján igényelheti.
-
-(2) A BTM támogatás kizárólag a nevelési tanácsadó szakvéleményében meghatározott fejlesztési célok megvalósításához kapcsolódó, a képességek fejlesztését szolgáló eszközök beszerzésére, valamint a leszakadás megakadályozását szolgáló, differenciált fejlesztést biztosító oktatásszervezési formák személyi és dologi költségeire használható fel a 2012. január 1. és 2012. december 31. közötti időszakban.
-
-(3) A BTM támogatás mértéke az (1) bekezdés szerint számított igénylésre jogosító létszám alapján nem haladhatja meg a 10 000 Ft/fő összeget. A BTM támogatás alapja a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek, tanulók 2011. október 1-jei tényleges és a 2012. október 1-jei tényleges létszámának matematikai átlaga.
