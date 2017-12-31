@@ -1,10 +1,10 @@
 ## Albérletidíj-hozzájárulás
 
-213. § (1)[^238] E rendelet alkalmazásában albérleti díj a honvédelmi szerv állományába tartozó hivatásos, valamint a (2) bekezdés szerinti feltételnek megfelelő szerződéses szolgálati viszonyban álló tiszt, altiszt helyett viselt (átvállalt) albérleti (szállás) díj vagy lízingdíj.
+213. § (1)[^226] E rendelet alkalmazásában albérleti díj a honvédelmi szerv állományába tartozó hivatásos, valamint a (2) bekezdés szerinti feltételnek megfelelő szerződéses szolgálati viszonyban álló tiszt, altiszt helyett viselt (átvállalt) albérleti (szállás) díj vagy lízingdíj.
 
-(2)[^239] A 210. § (1a) bekezdése szerint, szolgálati érdekből áthelyezett
+(2)[^227] A 210. § (1a) bekezdése szerint, szolgálati érdekből áthelyezett
 
-a)[^240] olyan hivatásos katonát, akinek a hivatásos szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett, továbbá
+a)[^228] olyan hivatásos katonát, akinek a hivatásos szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett, továbbá
 
 b) azt a szerződéses tisztet, altisztet,
 
@@ -18,6 +18,6 @@ bc) összesen legalább a 10. év eléréséig vállalta a további szolgálatot
 
 (3) A szállóférőhelyen történő elhelyezés lehetőségének kizárásáról – helyhiány vagy a kérelmező egyéni és családi körülményeinek vizsgálata alapján – az állományilletékes parancsnok dönt. Nem kell vizsgálni az elhelyezés lehetőségét abban az esetben, ha házastársi (élettársi) kapcsolatban élő vagy háztartásában kiskorú gyermekének (ideértve a mostoha, nevelt, örökbe fogadott gyermekét is) eltartásáról gondoskodó igénylő lakáslízinghez kéri az albérletidíj-hozzájárulást.
 
-[^238]: A 213. § (1) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^239]: A 213. § (2) bekezdése a 10/2014. (VII. 25.) HM rendelet 46. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
-[^240]: A 213. § (2) bekezdés a) pontja a 15/2015. (XII. 21.) HM rendelet 21. §-ával megállapított szöveg.
+[^226]: A 213. § (1) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^227]: A 213. § (2) bekezdése a 10/2014. (VII. 25.) HM rendelet 46. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^228]: A 213. § (2) bekezdés a) pontja a 15/2015. (XII. 21.) HM rendelet 21. §-ával megállapított szöveg.

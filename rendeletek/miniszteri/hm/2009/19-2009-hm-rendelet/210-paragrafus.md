@@ -2,7 +2,7 @@
 
 ## LAKÁSFENNTARTÁSI HOZZÁJÁRULÁSOK
 
-210. § (1)[^226] Lakbértámogatás, valamint lakásüzemeltetési hozzájárulás illeti meg
+210. § (1)[^218] Lakbértámogatás, valamint lakásüzemeltetési hozzájárulás illeti meg
 
 a) azt a szolgálati érdekből áthelyezett hivatásos katonát, akinek a szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett, valamint
 
@@ -12,7 +12,7 @@ ba) akinek a szerződéses katonai szolgálati viszonya 2014. augusztus 1-jét m
 
 bb) a katona a szerződéses szolgálatban folyamatosan 5 évet már eltöltött és összesen legalább a 10. év eléréséig vállalta a további szolgálatot.
 
-(1a)[^227] A lakbértámogatás és a lakásüzemeltetési hozzájárulás szempontjából szolgálati érdekű áthelyezésnek minősül az állomány tagjának:
+(1a)[^219] A lakbértámogatás és a lakásüzemeltetési hozzájárulás szempontjából szolgálati érdekű áthelyezésnek minősül az állomány tagjának:
 
 a) az első beosztásba történő kinevezése,
 
@@ -22,5 +22,5 @@ c) egy évet meghaladó időtartamú vezénylése.
 
 (2) A lakásfenntartási hozzájárulásokat havonta, az illetménnyel egyidejűleg kell az arra jogosult részére kifizetni.
 
-[^226]: A 210. § (1) bekezdése a 10/2014. (VII. 25.) HM rendelet 43. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
-[^227]: A 210. § (1a) bekezdését a 22/2013. (X. 7.) HM rendelet 20. §-a iktatta be.
+[^218]: A 210. § (1) bekezdése a 10/2014. (VII. 25.) HM rendelet 43. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^219]: A 210. § (1a) bekezdését a 22/2013. (X. 7.) HM rendelet 20. §-a iktatta be.

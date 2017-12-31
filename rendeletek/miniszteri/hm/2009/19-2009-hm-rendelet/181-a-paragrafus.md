@@ -1,4 +1,6 @@
-181/A. §[^178] (1) A hivatásos és szerződéses állomány hősi halottá nyilvánított, a 179. § (1) bekezdés a) pont aa) alpontjában meghatározott időbeni feltételnek megfelelő tagjának a halál bekövetkezésekor vele ténylegesen együtt élő özvegye, vagy az 5. § (1) bekezdés d) pontja szerinti feltételeknek megfelelő túlélő élettársa, az előbbiek hiányában a hősi halott saját háztartásában eltartott gyermeke részére vissza nem térítendő juttatás nyújtható
+## 181. §[^170]
+
+181/A. §[^171] (1) A hivatásos és szerződéses állomány hősi halottá nyilvánított, a 179. § (1) bekezdés a) pont aa) alpontjában meghatározott időbeni feltételnek megfelelő tagjának a halál bekövetkezésekor vele ténylegesen együtt élő özvegye, vagy az 5. § (1) bekezdés d) pontja szerinti feltételeknek megfelelő túlélő élettársa, az előbbiek hiányában a hősi halott saját háztartásában eltartott gyermeke részére vissza nem térítendő juttatás nyújtható
 
 a) tulajdoni formától függetlenül, a személyi jövedelemadóról szóló törvényben meghatározott méltányolható lakásigény mértékét meg nem haladó szobaszámú lakás vásárlásához, vagy
 
@@ -24,4 +26,5 @@ b) pénzintézeti lakáshitel esetén a fennálló tartozás 75%-a,
 
 (7) A vissza nem térítendő juttatás iránti igény a hősi halottá nyilvánítástól számított egy éves jogvesztő határidőn belül nyújtható be. A támogatás nyújtására e rendelet sorrendiségi szabályainak mellőzésével kerülhet sor.
 
-[^178]: A 181/A. §-t a 4/2012. (IV. 5.) HM rendelet 12. §-a iktatta be, szövege a 9/2017. (VIII. 31.) HM rendelet 4. §-ával megállapított szöveg.
+[^170]: A 181. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (2) bekezdése hatályon kívül helyezte.
+[^171]: A 181/A. §-t a 4/2012. (IV. 5.) HM rendelet 12. §-a iktatta be, szövege a 9/2017. (VIII. 31.) HM rendelet 4. §-ával megállapított szöveg.
