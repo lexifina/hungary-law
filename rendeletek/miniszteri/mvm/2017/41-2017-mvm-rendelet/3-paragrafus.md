@@ -8,7 +8,7 @@ a) jogi egyetemi vagy a Rendőrtiszti Főiskolán vagy a Nemzeti Közszolgálati
 
 b) tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó
 
-## tagja jelölhető ki.
+tagja jelölhető ki.
 
 (2) A parancsnok a nyomozótisztet parancsban jelöli ki. A kijelölésről a parancsnok a katonai ügyészt a parancs egy példányának megküldésével értesíti.
 
