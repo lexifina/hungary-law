@@ -1,3 +1,3 @@
 ## 27. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-45. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 81. § (1) bekezdésében a „szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez” szövegrész helyébe a „szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez, a céginformációs és az elektronikus cégeljárásban közreműködő szolgálatnak a cégnyilvántartásban szereplő személyek személyazonosságának ellenőrzéséhez” szöveg lép.
+45. §
