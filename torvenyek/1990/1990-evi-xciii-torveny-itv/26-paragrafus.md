@@ -46,7 +46,7 @@ pa) a termőföld tulajdonjogát nem idegeníti el,
 
 pb) a termőföldön vagyoni értékű jogot nem alapít, és
 
-pc) a termőföldet egyéni vállalkozóként, mezőgazdasági őstermelőként vagy családi gazdálkodóként mező-, illetve erdőgazdasági tevékenység céljára hasznosítja;
+pc) a termőföldet mező-, illetve erdőgazdasági tevékenység céljára hasznosítja;
 
 q) ingatlannak, illetve a 18. § (2) bekezdésének h) pontja szerinti vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett eszközátruházás keretében történő átruházása, az alábbi feltételek együttes teljesülése esetén:
 
