@@ -232,6 +232,6 @@
 
 ## 22. a Vksztv. 5/G. § szerinti megállapodást, amennyiben az korábban nem került benyújtásra.
 
-3. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^310]
+3. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^313]
 
-[^310]: A 3. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (3) bekezdésével megállapított szöveg.
+[^313]: A 3. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (3) bekezdésével megállapított szöveg.

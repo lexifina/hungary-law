@@ -1,6 +1,6 @@
 ## 18. A felhasználó személyében bekövetkező változás
 
-60. §[^153] (1) Ha a felhasználási helyen a felhasználó személye megváltozik, a korábbi és az új felhasználó a változást legkésőbb – a (6) bekezdésben foglalt kivétellel – a birtokátruházástól számított 15 napon belül kötelesek a víziközmű-szolgáltatónak az üzletszabályzatban foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni.
+60. §[^156] (1) Ha a felhasználási helyen a felhasználó személye megváltozik, a korábbi és az új felhasználó a változást legkésőbb – a (6) bekezdésben foglalt kivétellel – a birtokátruházástól számított 15 napon belül kötelesek a víziközmű-szolgáltatónak az üzletszabályzatban foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni.
 
 (2) A korábbi felhasználó az (1) bekezdés szerinti bejelentés keretében a közszolgáltatási szerződését is felmondja. A felmondás az új felhasználóval létrejött közszolgálati szerződés hatálybalépése napján hatályosul.
 
@@ -48,4 +48,4 @@ g) a korábbi felhasználó vagy annak helyén a (6) bekezdés szerinti bejelent
 
 (11) Ha a víziközmű-szolgáltató a (9) bekezdésben foglalt ellenőrzési feladatának a felhasználóváltás bejelentésétől számított 30 napon belül nem tesz eleget, nem hivatkozhat felhasználói szerződésszegésre, és ezen a jogcímen nem érvényesíthet igényt a felhasználóval szemben.
 
-[^153]: A 60. § a 342/2016. (XI. 17.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^156]: A 60. § a 342/2016. (XI. 17.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -1,30 +1,30 @@
 ## 19. A fogyasztásmérők leolvasása
 
-61. § (1)[^154]
+61. § (1)[^157]
 
 (2) A fogyasztásmérő leolvasásának gyakoriságát a víziközmű-szolgáltató jogosult megállapítani azzal, hogy legalább évente egy alkalommal, a felhasználó kérésére negyedévente – a felhasználó (3) bekezdésben foglalt értesítése mellett – köteles a fogyasztásmérő leolvasására.
 
 (3) A víziközmű-szolgáltató köteles legalább 5 napos időtartam megjelölésével a felhasználó figyelmét felhívni a leolvasás várható idejéről a leolvasás előtti utolsó számlában, számla mellékletében vagy egyéb módon.
 
-(4)[^155] Amennyiben a fogyasztásmérő leolvasását végző személy az előzetesen jelzett időpontban nem tudta rögzíteni a mérőállást, köteles értesítést hagyni a levélszekrényben vagy fellelhető módon a felhasználási helyen. Az értesítésben a víziközmű-szolgáltató felhívja a felhasználó figyelmét a leolvasás második megkísérlésének idejére, annak nem megfelelősége esetén az időpont-egyeztetés lehetőségére – azzal, hogy a leolvasásra legalább heti egy munkanapon 20 óráig lehetőséget biztosít –, a víziközmű-szolgáltató időpont-egyeztetésre alkalmas elérhetőségére és a leolvasás legkésőbbi időpontjára. A leolvasás időpontja tekintetében a víziközmű-szolgáltató és a felhasználó köteles megegyezni.
+(4)[^158] Amennyiben a fogyasztásmérő leolvasását végző személy az előzetesen jelzett időpontban nem tudta rögzíteni a mérőállást, köteles értesítést hagyni a levélszekrényben vagy fellelhető módon a felhasználási helyen. Az értesítésben a víziközmű-szolgáltató felhívja a felhasználó figyelmét a leolvasás második megkísérlésének idejére, annak nem megfelelősége esetén az időpont-egyeztetés lehetőségére – azzal, hogy a leolvasásra legalább heti egy munkanapon 20 óráig lehetőséget biztosít –, a víziközmű-szolgáltató időpont-egyeztetésre alkalmas elérhetőségére és a leolvasás legkésőbbi időpontjára. A leolvasás időpontja tekintetében a víziközmű-szolgáltató és a felhasználó köteles megegyezni.
 
-(5)[^156] A felhasználónak a felajánlott 5 napos időtartamon belül meg kell határoznia azt az időpontot, amely számára megfelelő. Ha a megadott időtartamon belül nem tudja biztosítani a leolvasást, ezt a víziközmű-szolgáltató felé jeleznie kell legkésőbb az időtartam kezdetét megelőző napon.
+(5)[^159] A felhasználónak a felajánlott 5 napos időtartamon belül meg kell határoznia azt az időpontot, amely számára megfelelő. Ha a megadott időtartamon belül nem tudja biztosítani a leolvasást, ezt a víziközmű-szolgáltató felé jeleznie kell legkésőbb az időtartam kezdetét megelőző napon.
 
-(5a)[^157] Ha a fogyasztásmérő leolvasására legalább egy éven keresztül nem került sor, és a felhasználó a (7) bekezdés szerint nem jelentett be fogyasztásmérő állást, valamint távleolvasási adat sem áll rendelkezésre, a víziközmű-szolgáltató az ivóvíz- és a szennyvízmennyiséget az üzletszabályzatában meghatározott számítással vagy a legutolsó sikeres leolvasást megelőző 12 hónap átlagfogyasztását alapul véve állapítja meg, valamint bekötési mérővel rendelkező felhasználási helyek esetében a sikertelen leolvasást követően, legfeljebb 30 napon belül, a kibocsátott számlában, rögzített telefonhívás keretében vagy egyéb igazolható módon a víziközmű-szolgáltató köteles a felhasználó figyelmét felhívni arra, hogy legfeljebb két hónapon belül egyeztesse le a soron kívüli leolvasás időpontját, és tegye lehetővé annak elvégzését. A víziközmű-szolgáltató a soron kívüli leolvasás elvégzésére legalább heti egy munkanapon 20 óráig lehetőséget biztosít. Az értesítésnek tartalmaznia kell a víziközmű-szolgáltató időpont-egyeztetésre alkalmas elérhetőségét is.
+(5a)[^160] Ha a fogyasztásmérő leolvasására legalább egy éven keresztül nem került sor, és a felhasználó a (7) bekezdés szerint nem jelentett be fogyasztásmérő állást, valamint távleolvasási adat sem áll rendelkezésre, a víziközmű-szolgáltató az ivóvíz- és a szennyvízmennyiséget az üzletszabályzatában meghatározott számítással vagy a legutolsó sikeres leolvasást megelőző 12 hónap átlagfogyasztását alapul véve állapítja meg, valamint bekötési mérővel rendelkező felhasználási helyek esetében a sikertelen leolvasást követően, legfeljebb 30 napon belül, a kibocsátott számlában, rögzített telefonhívás keretében vagy egyéb igazolható módon a víziközmű-szolgáltató köteles a felhasználó figyelmét felhívni arra, hogy legfeljebb két hónapon belül egyeztesse le a soron kívüli leolvasás időpontját, és tegye lehetővé annak elvégzését. A víziközmű-szolgáltató a soron kívüli leolvasás elvégzésére legalább heti egy munkanapon 20 óráig lehetőséget biztosít. Az értesítésnek tartalmaznia kell a víziközmű-szolgáltató időpont-egyeztetésre alkalmas elérhetőségét is.
 
-(6)[^158] Ha az (5) bekezdés szerinti értesítés ellenére a felhasználó nem él az időpont-egyeztetés lehetőségével, vagy az egyeztetett időpontban nem biztosítja a leolvasás elvégzését, a víziközmű-szolgáltatót a leolvasás elmaradásáért nem terheli felelősség.
+(6)[^161] Ha az (5) bekezdés szerinti értesítés ellenére a felhasználó nem él az időpont-egyeztetés lehetőségével, vagy az egyeztetett időpontban nem biztosítja a leolvasás elvégzését, a víziközmű-szolgáltatót a leolvasás elmaradásáért nem terheli felelősség.
 
-(7)[^159] A víziközmű-szolgáltató által végzett időszakos vagy eseti leolvasás nem mentesíti a felhasználót az üzletszabályzatban meghatározott rendszeres mérőleolvasás és annak bejelentése alól. Az üzletszabályzat meghatározhatja azokat az eseteket, amikor a fogyasztásmérő állásának felhasználó általi bejelentése számlázás alapjául nem szolgálhat.
+(7)[^162] A víziközmű-szolgáltató által végzett időszakos vagy eseti leolvasás nem mentesíti a felhasználót az üzletszabályzatban meghatározott rendszeres mérőleolvasás és annak bejelentése alól. Az üzletszabályzat meghatározhatja azokat az eseteket, amikor a fogyasztásmérő állásának felhasználó általi bejelentése számlázás alapjául nem szolgálhat.
 
-(8)[^160] A felhasználó köteles a víziközmű-szolgáltatóval, illetve a fogyasztásmérő leolvasását végző személlyel együttműködni, a fogyasztásmérőhöz való hozzáférést biztosítani.
+(8)[^163] A felhasználó köteles a víziközmű-szolgáltatóval, illetve a fogyasztásmérő leolvasását végző személlyel együttműködni, a fogyasztásmérőhöz való hozzáférést biztosítani.
 
-(9)[^161] A leolvasás alkalmával észlelt, az azt megelőző 12 havi átlagfogyasztást a víziközmű-szolgáltató üzletszabályzatában meghatározott mértéket meghaladó fogyasztásról a felhasználót a leolvasással egyidejűleg a víziközmű-szolgáltató jelen lévő képviselője vagy az azt követő 15 napon belül a víziközmű-szolgáltató írásban tájékoztatja. A tájékoztatás megtörténtét kétség esetén a víziközmű-szolgáltató bizonyítja.
+(9)[^164] A leolvasás alkalmával észlelt, az azt megelőző 12 havi átlagfogyasztást a víziközmű-szolgáltató üzletszabályzatában meghatározott mértéket meghaladó fogyasztásról a felhasználót a leolvasással egyidejűleg a víziközmű-szolgáltató jelen lévő képviselője vagy az azt követő 15 napon belül a víziközmű-szolgáltató írásban tájékoztatja. A tájékoztatás megtörténtét kétség esetén a víziközmű-szolgáltató bizonyítja.
 
-[^154]: A 61. § (1) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 8. pontja hatályon kívül helyezte.
-[^155]: A 61. § (4) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 12. pontja szerint módosított szöveg.
-[^156]: A 61. § (5) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^157]: A 61. § (5a) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 21. §-a iktatta be.
-[^158]: A 61. § (6) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 13. pontja szerint módosított szöveg.
-[^159]: A 61. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^160]: A 61. § (8) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^161]: A 61. § (9) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^157]: A 61. § (1) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 8. pontja hatályon kívül helyezte.
+[^158]: A 61. § (4) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 12. pontja szerint módosított szöveg.
+[^159]: A 61. § (5) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^160]: A 61. § (5a) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 21. §-a iktatta be.
+[^161]: A 61. § (6) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 13. pontja szerint módosított szöveg.
+[^162]: A 61. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^163]: A 61. § (8) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^164]: A 61. § (9) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 11. §-ával megállapított szöveg.

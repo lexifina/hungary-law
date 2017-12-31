@@ -1,3 +1,3 @@
-2. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^309]
+2. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^312]
 
-[^309]: A 2. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^312]: A 2. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
