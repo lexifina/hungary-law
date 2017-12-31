@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-46-00-00
 | 2017-06-23 | 2017. évi LVIII. törvény | 2012-46-00-00.23 |
 | 2017-07-15 | 2017. évi LVIII. törvény | 2012-46-00-00.24 |
 | 2017-09-01 | 2017. évi LVI. törvény | 2012-46-00-00.25 |
+| 2017-12-31 | 2017. évi CCV. törvény | 2012-46-00-00.26 |
