@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-143-00-00
 | 2017-02-01 | 2016. évi CLX. törvény | 2015-143-00-00.13 |
 | 2017-04-01 | 2016. évi CLXVI. törvény | 2015-143-00-00.14 |
 | 2017-12-12 | 2017. évi CLXXXIV. törvény | 2015-143-00-00.15 |
+| 2017-12-31 | 2016. évi CLX. törvény | 2015-143-00-00.16 |

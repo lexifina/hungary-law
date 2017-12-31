@@ -15,5 +15,3 @@ e) – a törvény végrehajtására a 198. § (1) bekezdés 13. pontjában adot
 f) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelv 7. cikk (1) bekezdés b) pontjának,
 
 g)
-
-h) a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek,
