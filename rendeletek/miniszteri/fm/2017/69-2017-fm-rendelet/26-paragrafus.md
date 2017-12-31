@@ -1,1 +1,0 @@
-## 21. Záró rendelkezés

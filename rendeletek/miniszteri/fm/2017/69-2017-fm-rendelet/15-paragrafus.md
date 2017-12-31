@@ -1,1 +1,0 @@
-## 14. § Az erdők felújításának csekély összegű (de minimis) támogatásáról szóló 102/2008. (VIII. 8.) FVM rendelet [a továbbiakban: 102/2008. (VIII. 8.) FVM rendelet] 2. számú mellélet 3. pontjában az „az Országos Egészségbiztosítási Pénztár” szövegrész helyébe az „a Nemzeti Egészségbiztosítási Alapkezelő” szöveg lép.
