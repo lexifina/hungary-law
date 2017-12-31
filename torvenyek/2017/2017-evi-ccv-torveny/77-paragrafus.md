@@ -1,0 +1,3 @@
+77. § A Tv. 29/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Amennyiben a (2) bekezdésben foglalt eltérést a mezőgazdasági és vidékfejlesztési támogatási szerv hivatalból – ideértve a más hatóság által elektronikus úton küldött megkeresés alapján indított eljárást is – közhiteles nyilvántartás adata alapján állapítja meg, a közhiteles nyilvántartásban szereplő adatot – a (2) bekezdés szerinti igazolásra történő felszólítás és külön értesítés nélkül – az ügyfél-nyilvántartási rendszerben átvezeti. A más hatóság elektronikus úton küldött megkeresése alapján indított eljárás esetében a mezőgazdasági és vidékfejlesztési támogatási szerv a megkereső hatóságot az adat átvezetéséről a megkereséssel megegyező elektronikus úton tájékoztatja.”

@@ -1,0 +1,7 @@
+96. § A Tv. a következő alcímmel egészül ki:
+
+„Kötelezettség-átadás
+
+45/B. § (1) Jogszabály eltérő rendelkezésének hiányában egyes nemzeti költségvetésből finanszírozott intézkedések esetén, amennyiben az ügyfél által a támogatás igénybevételével összefüggésben vállalt kötelezettségek teljesítésének időtartama alatt a mezőgazdasági üzem egészének, illetve a kötelezettség vállalásával érintett részének átruházásra kerül, a támogatási feltételek teljesítése csak a kötelezettségek átvállalásával együtt lehetséges. A jóváhagyott átvállalással az átadó mentesül a kötelezettségek további teljesítése alól, míg az átvállaló a támogatási jogviszonyban a helyére lép. Az átvállaló – a támogatás részletes feltételeit megállapító jogszabály eltérő rendelkezése hiányában – csak egy személy lehet.
+
+(2) A kötelezettség átvállalásához a mezőgazdasági és vidékfejlesztési támogatási szerv előzetes jóváhagyása szükséges. Az erre irányuló kérelmet a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített, a mezőgazdasági és vidékfejlesztési támogatási szerv honlapján közzétett nyomtatványon kell benyújtani. A jóváhagyást meg kell tagadni, ha az átvevő nem felel meg a támogatásra való jogosultsági feltételeknek.”

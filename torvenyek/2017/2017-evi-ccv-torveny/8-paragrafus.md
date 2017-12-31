@@ -1,0 +1,3 @@
+8. § Az Átv. 28. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A nyilvántartást vezető szerv az ideiglenesen elismert és az elismert fajtákról közhiteles nyilvántartást vezet. A miniszter által vezetett minisztérium hivatalos lapjában és a tenyésztési hatóság honlapján évente közzé kell tenni az elismert fajták jegyzékét.”

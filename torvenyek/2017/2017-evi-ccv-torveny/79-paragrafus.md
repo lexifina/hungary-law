@@ -1,0 +1,3 @@
+79. § A Tv. 30/A. §-a helyébe a következő rendelkezés lép:
+
+„30/A. § Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv tudomására jut, hogy az ügyfél az ügyfél-nyilvántartási rendszerhez kapcsolódó változásbejelentési kötelezettségét elmulasztotta, a bejelentési és adatszolgáltatási kötelezettség teljesítéséig, valamint az ezek elmulasztása miatt kiszabott mulasztási bírság megfizetéséig az ügyfél részére a mezőgazdasági és vidékfejlesztési támogatási szerv a törvény hatálya alá tartozó intézkedések alapján, a kérelemre induló eljárásaiban jogosultságot nem állapít meg, illetve támogatást nem folyósít, valamint az ügyfél által benyújtott új kérelmeket visszautasítja.”
