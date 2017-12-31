@@ -9,11 +9,3 @@
 (4) A 160. § 2018. február 1-jén lép hatályba.
 
 (5) A 148. § és a 149. § b) pontja 2018. július 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
