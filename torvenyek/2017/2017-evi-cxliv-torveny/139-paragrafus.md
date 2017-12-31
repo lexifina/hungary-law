@@ -21,9 +21,3 @@
 10. 130. §-a a kölcsönös elismerés elvének büntetőügyekben hozott, szabadságvesztés büntetéseket kiszabó vagy szabadságelvonással járó intézkedéseket alkalmazó ítéleteknek az Európai Unióban való végrehajtása céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/909/IB tanácsi kerethatározatnak
 
 való megfelelést szolgálja.
-
-Áder János s. k.,köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
