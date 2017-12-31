@@ -1,5 +1,0 @@
-18. § (1) Az Országgyűlés az Európai Gazdasági Térség Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus forrásaira és a kapcsolódó központi költségvetési finanszírozásra vonatkozó, a Kvtv. 49. § (1) bekezdése alapján tett, 2014. december 31-én fennálló kötelezettségvállalási állományt 14 999,5 millió forint összegben hagyja jóvá.
-
-(2) Az Országgyűlés a Svájci-Magyar Együttműködési Program forrásaira és a kapcsolódó központi költségvetési finanszírozásra vonatkozó, a Kvtv. 49. § (2) bekezdése alapján tett, 2014. december 31-én fennálló kötelezettségvállalási állományt 28 481,0 millió forint összegben hagyja jóvá.
-
-(3) Az Országgyűlés a 2007–2013-as programozási időszakra a Nemzeti Stratégiai Referenciakeretből, az Európai Mezőgazdasági Vidékfejlesztési Alapból és az Európai Halászati Alapból, valamint a Szolidaritási programokból finanszírozott programok, projektek esetén az uniós forrásokra és a kapcsolódó központi költségvetési finanszírozásra vonatkozó, a Kvtv. 49. § (3)–(8) bekezdése alapján tett, 2014. december 31-én fennálló kötelezettségvállalási állományt a 6. mellékletben meghatározott összegben hagyja jóvá.
