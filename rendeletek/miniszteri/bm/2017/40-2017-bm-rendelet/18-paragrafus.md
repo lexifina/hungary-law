@@ -1,4 +1,4 @@
-## 17. §[^21]
+## 17. §[^22]
 
 ## 18. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 14. § 2018. május 10-én lép hatályba.
 
-[^21]: A 17. § a 18. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^22]: A 17. § a 18. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
