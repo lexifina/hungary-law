@@ -1,1 +1,3 @@
-## 12. § Hatályát veszti a 197/2014. Korm. rendelet 4. § (1) bekezdés d) pontja.
+## 12. §[^4]
+
+[^4]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
