@@ -1,0 +1,3 @@
+67. § Az EUtv. 63/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A bíróság vagy az ügyész a fogvatartott személyt nyilatkoztatja, hogy az ideiglenes átadáshoz hozzájárul-e. A fogvatartott személy nyilatkozatát írásban, illetve a bíróság vagy az ügyész előtt szóban tett, és jegyzőkönyvbe foglalt nyilatkozattal teheti meg. Ha a fogvatartott személy védővel rendelkezik, az ideiglenes átadáshoz történő hozzájárulással kapcsolatban biztosítani kell, hogy a fogvatartott személy a védőjével egyeztethessen. A hozzájárulás tényét és módját az európai nyomozási határozatban fel kell tüntetni.”

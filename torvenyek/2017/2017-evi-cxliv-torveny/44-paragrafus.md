@@ -1,0 +1,5 @@
+44. § Az Szjstv. 8. §-a helyébe a következő rendelkezés lép:
+
+„8. § (1) Ha egy külföldi hatóság olyan cselekmény miatt terjeszt elő szabálysértési jogsegély iránt megkeresést, amely államának joga szerint szabálysértés, de a magyar jog szerint bűncselekmény, a központi hatóság a megkeresést teljesítés végett továbbítja a nemzetközi bűnügyi jogsegélyről szóló törvény, illetve az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerint illetékes hatósághoz, és erről a megkereső külföldi hatóságot értesíti.
+
+(2) Ha külföldi hatóság a megkeresését az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 12. számú mellékletében meghatározott olyan cselekmény tekintetében terjesztette elő, amely az államának joga szerint szabálysértés, a központi hatóság az (1) bekezdés megfelelő alkalmazásával jár el, ha cselekmény a magyar jog szerint sem szabálysértés, sem közigazgatási bírsággal sújtandó közlekedési szabályszegés megállapítására nem alkalmas.”

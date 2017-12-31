@@ -1,0 +1,3 @@
+22. § A Be. 158/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A megőrzésre kötelezést elrendelő a megőrzéssel érintett adatot minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással láthatja el. Ha az adat eredeti helyen történő megőrzése az érintettnek az adat feldolgozásával, kezelésével, tárolásával vagy továbbításával kapcsolatos tevékenységét jelentősen akadályozná, az elrendelő engedélyével az adat megőrzéséről annak más adathordozóra vagy más információs rendszerbe történő átmásolásával gondoskodhat. Az átmásolást követően az elrendelő az eredeti adatot tartalmazó adathordozóra és információs rendszerre a korlátozásokat részlegesen vagy teljesen feloldhatja.”
