@@ -1,3 +1,3 @@
-## 40. §[^10]
+## 40. §[^11]
 
-[^10]: A 40. § a 61. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^11]: A 40. § a 61. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

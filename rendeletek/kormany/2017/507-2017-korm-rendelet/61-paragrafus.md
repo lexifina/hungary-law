@@ -1,4 +1,4 @@
-## 60. §[^17]
+## 60. §[^18]
 
 ## 17. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 41. § 2018. március 1-jén lép hatályba.
 
-[^17]: A 60. § a 61. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^18]: A 60. § a 61. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
