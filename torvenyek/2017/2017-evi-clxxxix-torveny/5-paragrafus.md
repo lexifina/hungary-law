@@ -1,3 +1,0 @@
-5. § A Vbt. 104. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az (1) bekezdéstől eltérően a szerződés nem semmis, ha kiemelkedően fontos közérdek fűződik a szerződés teljesítéséhez. A szerződéshez közvetlenül kapcsolódó gazdasági érdek – így különösen a késedelmes teljesítésből, az új beszerzési eljárás lefolytatásából, a szerződő fél esetleges változásából vagy az érvénytelenségből következő kötelezettségekből eredő költség – nem tekinthető kiemelkedően fontos közérdeknek, a szerződés érvényességéhez fűződő további gazdasági érdekek pedig kizárólag akkor, ha a szerződés érvénytelensége aránytalan következményekkel járna.”
