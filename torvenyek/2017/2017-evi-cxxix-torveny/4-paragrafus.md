@@ -1,5 +1,0 @@
-4. § A Tpvt. 25. §-a helyébe a következő rendelkezés lép:
-
-„25. § (1) A 24. §-tól eltérően nem kell bejelenteni a biztosítóintézet, a hitelintézet, a pénzügyi holding társaság, a vegyes tevékenységű holding társaság, a befektetési vállalkozás vagy a vagyonkezelő szervezet átmeneti irányítás- vagy vagyonszerzését, amelynek célja a továbbértékesítés előkészítése, és az irányításszerző vállalkozás irányítási jogait nem vagy kizárólag az ehhez feltétlenül szükséges mértékben gyakorolja, ha az irányítás- vagy vagyonszerzés időtartama az egy évet nem haladja meg.
-
-(2) Ha a továbbértékesítés egy éven belül mégsem valósul meg, az összefonódást – legkésőbb az egyéves átmeneti idő lejártától számított tizenöt napon belül – be kell jelenteni a Gazdasági Versenyhivatalnak. A bejelentés elmulasztása esetén az összefonódás a 29. § szerinti tilalomba ütközően végrehajtott összefonódásnak minősül.”

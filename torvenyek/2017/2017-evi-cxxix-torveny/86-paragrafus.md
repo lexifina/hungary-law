@@ -1,11 +1,3 @@
 ## 6. A jogalkotásra vonatkozó európai uniós követelményekre utaló rendelkezés
 
 86. § Az 58. § a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról szóló 2011. március 1-jei 2011/141/EU bizottsági határozat végrehajtásához szükséges rendelkezéseket állapít meg a Gazdasági Versenyhivatal, a fogyasztóvédelmi hatóság és a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank feladatkörében és eljárásában.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke

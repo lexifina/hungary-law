@@ -1,3 +1,0 @@
-22. § A Tpvt. 51. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kizárás kérdésében a vizsgáló esetében a Gazdasági Versenyhivatal elnöke, az eljáró versenytanács tagja esetében a Versenytanács elnöke dönt a kizárási ok bejelentését követő naptól számított tizenöt napon belül, és szükség esetén kijelöli az új vizsgálót, illetve az eljáró versenytanács új tagját, továbbá dönt arról is, hogy meg kell-e ismételni azokat az eljárási cselekményeket, amelyekben a kizárt vizsgáló, illetve versenytanácstag járt el. Ha a kizárási okot az ügyfél jelentette be, a kizárásról végzésben kell dönteni, és azt az ügyféllel is közölni kell.”
