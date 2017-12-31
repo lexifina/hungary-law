@@ -1,0 +1,9 @@
+# 457/2017. (XII. 28.) Korm. rendelet
+
+az általános közigazgatási rendtartásról szóló törvény hatálybalépésével összefüggő egyes kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-457-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-12-31 | 2017-457-20-22.1 | 457/2017. (XII. 28.) Korm. rendelet |

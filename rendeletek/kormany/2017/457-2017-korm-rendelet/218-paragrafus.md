@@ -1,0 +1,5 @@
+## 216–217. §[^111]
+
+## 101. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet módosítása
+
+[^111]: A 216–217. § a 617. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
