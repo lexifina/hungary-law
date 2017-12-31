@@ -1,10 +1,4 @@
-## 24. § A bankkártya-elfogadó terminálok számának növeléséhez nyújtott támogatásról szóló 47/2016. (XII. 6.) NGM rendelet a következő 19. §-sal egészül ki:
-
-## „19. § Az 5. § (2) bekezdését és a 8. §-t a 2016. december 15-ig benyújtott kérelmek alapján létrejött támogatási jogviszonyokra azzal az eltéréssel kell alkalmazni, hogy
-
-## a) a szolgáltató az új terminálokat 2018. április 15-ig köteles telepíteni,
-
-## b) a támogatással érintett kártya-elfogadói szerződések 8. § szerinti adatairól vezetett, elkülönített, analitikus nyilvántartás adatait 2018. május 15-ig köteles továbbítani az eAdaton keresztül a kezelő szerv részére.”
+## 24. §[^18]
 
 ## 12. Záró rendelkezések
 
@@ -17,3 +11,5 @@
 (4) Az 1. § 2018. április 1-jén lép hatályba.
 
 (5) A 28. § g) pontja 2018. június 1-jén lép hatályba.
+
+[^18]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

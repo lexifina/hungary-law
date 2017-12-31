@@ -2,9 +2,9 @@
 
 ## 28. § Hatályát veszti
 
-a)–f)[^19]
+a)–f)[^20]
 
-g)[^20]
+g)[^21]
 
-[^19]: A 28. § a)–f) pontja a 25. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^20]: A 28. § g) pontja a 25. § (5) bekezdése alapján 2018. június 1-jén lép hatályba.
+[^20]: A 28. § a)–f) pontja a 25. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^21]: A 28. § g) pontja a 25. § (5) bekezdése alapján 2018. június 1-jén lép hatályba.
