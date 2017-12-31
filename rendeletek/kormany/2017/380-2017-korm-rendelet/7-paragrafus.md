@@ -4,13 +4,12 @@
 
 1–2.[^14]
 
-3.[^15]
+3. 56. §-a,
 
-4–13.[^16]
+4–13.[^15]
 
-(2)[^17]
+(2)[^16]
 
 [^14]: A 7. § (1) bekezdés 1–2. pontja a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^15]: A 7. § (1) bekezdés 3. pontja a 8. § (2) bekezdése alapján 2017. december 31-én lép hatályba.
-[^16]: A 7. § (1) bekezdés 4–13. pontja a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^17]: A 7. § (2) bekezdése a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^15]: A 7. § (1) bekezdés 4–13. pontja a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^16]: A 7. § (2) bekezdése a 8. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
