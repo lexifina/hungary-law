@@ -4,4 +4,4 @@
 
 (3) Az adatszolgáltatásért igazgatási szolgáltatási díjat kell fizetni.
 
-(4) A jogszabályok utólagos hatásvizsgálata, a jogalkotási, valamint az ágazatpolitikai döntések megalapozása érdekében a miniszter és a vízgazdálkodásért felelős miniszter számára a Hivatal biztosítja a Nyilvántartás adataiba történő korlátlan, díjmentes és közvetlen betekintést.
+(4) A jogszabályok hatásvizsgálata, a jogalkotási, valamint az ágazatpolitikai döntések megalapozása érdekében a miniszter és a vízgazdálkodásért felelős miniszter számára a Hivatal biztosítja a Nyilvántartás adataiba történő korlátlan, díjmentes és közvetlen betekintést.

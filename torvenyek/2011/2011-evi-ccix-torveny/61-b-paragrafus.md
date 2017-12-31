@@ -14,7 +14,9 @@ d) a víziközmű tulajdonosainak nevét és tulajdoni részesedését,
 
 e) a víziközmű működésében érintett ellátásért felelős(ök) nevét, ha a működésben több ellátásért felelős is érdekelt, azt is, hogy a képviseletüket ki látja el,
 
-f) a működési engedély számát és az engedélyes víziközmű-szolgáltató nevét.
+f) a működési engedély számát és az engedélyes víziközmű-szolgáltató nevét,
+
+g) a víziközmű rendszer térképi nyilvántartási adatait.
 
 (4) Az ellátásért felelősök nyilvántartása az egyes ellátásért felelősökre nézve tartalmazza:
 
@@ -30,8 +32,12 @@ b) a víziközmű-szolgáltatói, valamint a működési engedély kiadásáról
 
 c) a működtetett víziközmű-rendszerek Hivatal által képzett azonosító kódjait és az ezekre vonatkozó üzemeltetési jogviszony (ide értve a közérdekű üzemeltetői jogviszonyt is) típusát.
 
-(6) A nyilvántartás a (3) bekezdés a) és d) pontja, valamint a (5) bekezdés a) pontja kivételével közhiteles.
+(6) A nyilvántartás a (3) bekezdés a), c), d) és g) pontja, valamint a (5) bekezdés a) pontja kivételével közhiteles.
 
 (7) Eltérő megállapodás hiányában a (3) és (4) bekezdésben meghatározott adatokat az ellátásért felelős, az (5) bekezdésben meghatározott adatokat a víziközmű-szolgáltató szolgáltatja a Hivatal részére. Nem áll fenn adatszolgáltatási kötelezettség azon adatra, amelyet a Hivatal honlapján közzétett tájékoztató „Hivatalból bejegyzendő” minősítéssel lát el.
 
 (8) Adat keletkezését, változását vagy megszűnését az arra okot adó körülmény vagy tény bekövetkezését követő 15 napon belül a Hivatalhoz, a változás tényét bizonyító okirat egyidejű megküldésével kell bejelenteni.
+
+(9) A Hivatal a Nyilvántartás víziközmű-rendszer térképi nyilvántartási adatait víziközmű-rendszerenként az Országos Közhiteles Víziközmű Kataszterből biztosítja.
+
+(10) A (3) bekezdésben meghatározott adatokat a Hivatal biztosítja a miniszter részére az Országos Közhiteles Víziközmű Kataszterrel kapcsolatban.

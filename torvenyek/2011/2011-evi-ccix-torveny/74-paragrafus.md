@@ -60,6 +60,8 @@
 
 27. a bekötéssel összefüggő tervek kivitelezésre való alkalmasságának megállapítása iránt a műszaki-biztonsági hatóság előtt indított eljárás szabályait, valamint az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezésének víziközmű-szolgáltató általi megtagadása esetén a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait, továbbá a jelen pontban megjelölt tevékenységeket végző műszaki biztonsági hatóságot
 
+28. az IKVA Adatbázist üzemeltető szervezetet, valamint az IKVA Adatbázis működésének részletes szabályait, az adatszolgáltatás rendjét, a Hivatal és az IKVA adatbázist üzemeltető szervezet közötti együttműködés kereteit, az adatok IKVA Adatbázisban történő felhasználásának részletes szabályait
+
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben
