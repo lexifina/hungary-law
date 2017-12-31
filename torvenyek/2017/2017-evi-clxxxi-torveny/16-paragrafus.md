@@ -7,11 +7,3 @@
 (3) Az 1. alcím, a 2. § (2)–(10) bekezdése, a 3–14. § 2018. április 1-jén lép hatályba.
 
 (4) A 3. alcím 2018. október 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
