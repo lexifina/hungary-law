@@ -1,1 +1,0 @@
-A csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi XLIX. törvény 27/A. § (2) bekezdésében, 84/A. § (1) bekezdés c) pontjában és 84/A. § (1a) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:
