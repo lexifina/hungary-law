@@ -1,6 +1,6 @@
-## 12. § A Hatóság akkreditálásról rendelkező határozatának jogerőre emelkedése napján a határozat rendelkező részének megfelelő adattartalommal hatósági bizonyítványt (a továbbiakban: akkreditálási okirat) állít ki.
+## 12. §[^4] A Hatóság akkreditálásról rendelkező határozatának véglegessé válása napján a határozat rendelkező részének megfelelő adattartalommal hatósági bizonyítványt (a továbbiakban: akkreditálási okirat) állít ki.
 
-13. § (1) Az akkreditálási okirat a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 83. § (3) bekezdésében foglaltak mellett tartalmazza:
+13. § (1)[^5] Az akkreditálási okirat – az általános közigazgatási rendtartásról szóló törvényben foglalt tartalmi elemeken túl – tartalmazza:
 
 a) a Hatóság logóját,
 
@@ -10,15 +10,15 @@ c) az akkreditálás egyedi nyilvántartási számát,
 
 d) az akkreditált státusz kezdetének és lejáratának napját,
 
-e) az akkreditált tevékenység megnevezését a Natv. 5. § (1) bekezdése szerint,
+e) az akkreditált tevékenység (kategória) megnevezését a Natv. 5. § (1) bekezdése szerint,
 
-f)[^1] a felkészültségre vonatkozó nyilatkozatot, továbbá
+f) a felkészültségre vonatkozó nyilatkozatot,
 
-g) azon jogszabályra, szabványra, vagy egyéb dokumentumra történő hivatkozást, amely alapján az akkreditált szervezet, illetve természetes személy értékelése történt,
+g) azon jogszabályra, szabványra vagy egyéb dokumentumra történő hivatkozást, amely alapján az akkreditált szervezet, illetve természetes személy értékelése történt,
 
-h)–i)[^2]
+h) záradékot, ha az okirat kiállítására az abban foglalt adatok módosulása miatt kerül sor.
 
-(2)[^3] Az akkreditálási határozat mellékletét képező részletező okirat tartalmazza:
+(2)[^6] Az akkreditálási határozat mellékletét képező részletező okirat tartalmazza:
 
 a) tanúsító szervezet esetén a tanúsítás fajtáját, a jogszabályra, szabványra vagy egyéb dokumentumra történő hivatkozást, amely alapján termékeket, folyamatokat, személyzetet, szolgáltatásokat vagy irányítási rendszereket tanúsítanak,
 
@@ -42,6 +42,6 @@ i) referenciaanyag gyártó szervezet esetén, a referenciaanyag típusa szerint
 
 (4) Ha a Hatóság az akkreditált terület bővítéséről vagy szűkítéséről határozatot hoz, valamint amennyiben az akkreditált adataiban változás következik be, az akkreditálási okiratot a határozatnak, valamint az adatváltozásnak megfelelően módosítani kell.
 
-[^1]: A 13. § (1) bekezdés f) pontja a 398/2016. (XII. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: A 13. § (1) bekezdés h)–i) pontját a 398/2016. (XII. 5.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^3]: A 13. § (2) bekezdése a 398/2016. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 12. § a 457/2017. (XII. 28.) Korm. rendelet 559. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^5]: A 13. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 558. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^6]: A 13. § (2) bekezdése a 398/2016. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
