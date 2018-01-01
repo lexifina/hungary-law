@@ -1,1 +1,0 @@
-124/A. § A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 214. § (1a) bekezdése vagy 284. § (3) bekezdése alapján a bíróságnak megküldött polgári jogi igényt keresetlevélként kell elbírálni és úgy kell tekinteni, mintha azt már eredetileg is annál a bíróságnál terjesztették volna elő, amelyhez azt megküldték.

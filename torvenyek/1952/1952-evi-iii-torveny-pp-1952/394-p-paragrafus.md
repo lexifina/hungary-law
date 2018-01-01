@@ -1,1 +1,0 @@
-394/P. § A zártcélú távközlő hálózat útján történő meghallgatás esetén a tárgyalásról, illetve személyes meghallgatásról készült jegyzőkönyvnek ki kell terjednie a zártcélú távközlő hálózat útján történt meghallgatás lefolytatásának körülményei rögzítésére, feltüntetve a zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségben jelen lévő személyeket.

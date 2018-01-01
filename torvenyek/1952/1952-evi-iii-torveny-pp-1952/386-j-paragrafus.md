@@ -1,1 +1,0 @@
-386/J. § A kiemelt jelentőségű perekben a bíróság nem köteles a jogvita eldöntése érdekében a bizonyításra szoruló tényekről, a bizonyítási teherről, illetve a bizonyítás sikertelenségének következményeiről a feleket előzetesen tájékoztatni.

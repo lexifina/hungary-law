@@ -1,3 +1,0 @@
-19. § (1) Az a bíró, aki a személyére vonatkozó kizárási okot maga jelentette be, bejelentésének elintézéséig a perben nem járhat el. Minden más esetben az érintett bíró továbbra is eljárhat ugyan, de ha a 13. § (1) bekezdésének a)–d) pontjai alá tartozó kizárási okról van szó, a bejelentés elintézéséig az érdemi határozat hozatalában nem vehet részt. Ha ugyanaz a fél ugyanabban a perben a kizárás megtagadása után tesz újabb bejelentést a bíró ellen, ez a korlátozás sem érvényesül.
-
-(2) Ha a fél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, vagy ugyanabban a perben ugyanazon bíró ellen ismételten alaptalan bejelentést tesz, őt a kizárást megtagadó határozatban pénzbírsággal (120. §) lehet sújtani.

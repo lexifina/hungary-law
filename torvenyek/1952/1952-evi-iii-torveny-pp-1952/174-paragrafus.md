@@ -1,3 +1,0 @@
-174. § (1) A tanú a kihallgatása alkalmával a birtokában lévő okiratot, illetőleg annak a peres ügyre vonatkozó részét köteles a bíróság rendelkezésére megtekintés végett bemutatni, kivéve ha az okiratot perben nem álló harmadik személy nevében tartja birtokában. Ha a tanú az okirat bemutatását alaptalanul megtagadja, a tanúságtétel megtagadásának következményeit (185. §) kell megfelelően alkalmazni.
-
-(2) A bíróság szükség esetén elrendelheti az okirat másolatának (kivonatának) az iratokhoz való csatolását. Ha a tanú a másolatot (kivonatot) csatolni nem tudja, annak elkészítéséről a bíróság gondoskodik.

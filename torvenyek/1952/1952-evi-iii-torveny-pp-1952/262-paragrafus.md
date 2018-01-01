@@ -1,1 +1,0 @@
-262. § Az ítélet elleni perújításra vonatkozó rendelkezések megfelelő alkalmazásával perújításnak a bíróság által jóváhagyott egyezség ellen is helye van, a 260. § (1) bekezdésének a) pontja alapján azonban csak akkor, ha a perújító fél a perújítás alapjául szolgáló tényről vagy bizonyítékról (ítéletről, határozatról) az egyezség megkötésekor nem tudott.

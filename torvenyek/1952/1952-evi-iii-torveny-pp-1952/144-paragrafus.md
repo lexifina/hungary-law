@@ -1,1 +1,0 @@
-144. § Ha a folytatólagos tárgyaláson az eljáró tanács nem ugyanazokból a bírákból áll, akik a perben már korábban eljártak, az elnök ismerteti a felek által előterjesztett kérelmeket, a korábbi tárgyalásokról készült jegyzőkönyveket, valamint a bizonyítás eredményét és a per egyéb iratait; a felek az ismertetésre észrevételeket tehetnek.

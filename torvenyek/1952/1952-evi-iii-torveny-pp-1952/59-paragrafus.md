@@ -1,3 +1,0 @@
-59. § (1) A perbehívást írásban vagy a tárgyaláson szóval kell bejelenteni, egyúttal meg kell jelölni a perbehívás okát. A perbehívást a perbehívónak a perbehívottal írásban közölnie kell, abban meg kell jelölnie a perbehívás okát, és röviden elő kell adnia a per állását. A közlés perbehívott általi kézhezvételét és annak időpontját a perbehívónak a perbehívás bejelentésekor okirattal igazolnia kell.
-
-(2) Ha a perbehívó által igazolt közlést követő 30 napon belül a perbehívott a bíróság felé a perbelépésről nem nyilatkozik, úgy kell tekinteni, hogy a perbehívott a perbehívást nem fogadja el. A határidőt követően tett nyilatkozat hatálytalan.

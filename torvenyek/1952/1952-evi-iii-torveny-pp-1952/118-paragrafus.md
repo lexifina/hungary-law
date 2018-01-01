@@ -1,9 +1,0 @@
-118. § (1) A bírósági tárgyalásról a jegyzőkönyvet egyidejűleg, hangfelvétel esetén pedig legkésőbb nyolc munkanapon belül el kell készíteni. Ha a jegyzőkönyv hangfelvétel alapján készül, fel kell tüntetni a jegyzőkönyv írásba foglalásának napját, és a feleket tájékoztatni kell arról, hogy az elkészült jegyzőkönyvet mikor és hol tekinthetik majd meg, illetve vehetik át. A bíróság a jegyzőkönyvet az írásba foglalást követő további tizenöt napon belül kézbesíti, ha törvény a jegyzőkönyv megküldését írja elő.
-
-(2) A jegyzőkönyv hivatalból vagy az elnök engedélyével a felek megjegyzései alapján is kiegészíthető és módosítható; a felek erre vonatkozó kérelmét – annak elutasítása esetén – a jegyzőkönyvben fel kell tüntetni. A módosítás folytán szükségtelenné vált szövegrészeket úgy kell törölni, hogy a törölt szövegrész olvasható maradjon.
-
-(3) Ha a jegyzőkönyv elkészítésére nem az eljárási cselekménnyel egyidejűleg kerül sor, az eljárási cselekményen jelen lévő felek – amennyiben a jegyzőkönyv részükre kézbesítésre kerül – a kézbesítéstől számított 8 napon belül, ha pedig a jegyzőkönyv a felek részére nem kerül kézbesítésre, akkor az eljárási cselekménytől számított 15 napon belül a jegyzőkönyv kijavítását, kiegészítését kérhetik.
-
-(4) A jegyzőkönyvet és az esetleges módosításokat az eljáró bíró, illetve a tanács elnöke és a jegyzőkönyvvezető írja alá. Ha a bíróság tanácsban jár el, és a tanács elnöke a jegyzőkönyv aláírásában akadályoztatva van, a jegyzőkönyvet helyette – helyettesi minőségének feltüntetésével – a tanács egyik tagja írja alá.
-
-(5) Ha az eljárási cselekményen történtek rögzítése hangfelvétellel történik, a hangfelvétel írásba történő áttétele során a jegyzőkönyvvezető helyett a leírást végző bírósági alkalmazott (a továbbiakban: leíró) jár el, és aláírásával igazolja, hogy a leírást a hangfelvételnek megfelelően készítette el.

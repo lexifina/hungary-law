@@ -1,1 +1,0 @@
-265. § Ha a perújító fél az első tárgyalást elmulasztja, a bíróság a perújítási kérelmet hivatalból elutasítja; az ellenfél mulasztása a tárgyalás megtartását nem gátolja. Ez a rendelkezés nem alkalmazható abban az esetben, ha a perújító fél kérte, hogy a bíróság a tárgyalást távollétében is tartsa meg.

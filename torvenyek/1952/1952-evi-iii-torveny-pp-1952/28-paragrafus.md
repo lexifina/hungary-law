@@ -1,1 +1,0 @@
-28. § A bíróság a hatáskörének hiányát hivatalból veszi figyelembe. Ha azonban a hatáskör a per tárgyának értékétől függ, az alperes érdemi ellenkérelmének (139. §) előadása után a hatáskör hiánya figyelembe nem vehető.

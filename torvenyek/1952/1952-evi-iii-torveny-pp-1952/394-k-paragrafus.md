@@ -1,1 +1,0 @@
-394/K. § A papír alapú okiratok – jogszabályban meghatározott módon történő – digitalizálására a bíróságnak öt munkanap áll rendelkezésére. Az iratok digitalizálásához szükséges időt – legfeljebb azonban öt munkanapot – a határidő számítása szempontjából figyelmen kívül kell hagyni.

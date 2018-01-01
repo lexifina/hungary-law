@@ -1,3 +1,0 @@
-## Az ügygondnok jogállása
-
-74. § Ha a cselekvőképtelen félnek vagy a jogi személynek törvényes képviselője, illetőleg az ismeretlen helyen tartózkodó félnek meghatalmazottja nincs, a bíróság a fél részére ügygondnokot rendel. Az ügygondnokra – amennyiben a törvény másként nem rendelkezik – a per vitelére meghatalmazott jogállását szabályozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy az ügygondnok a bíróság külön felhatalmazása nélkül a peres pénzt vagy dolgot nem veheti át, továbbá egyezséget csak akkor köthet, s a vitás jogot csak akkor ismerheti el, illetőleg arról csak akkor mondhat le, ha ezáltal az általa képviselt felet nyilvánvaló károsodástól óvja meg.

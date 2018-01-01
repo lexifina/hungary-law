@@ -1,1 +1,0 @@
-139. § A felperes nyilatkozata után az alperes terjeszti elő ellenkérelmét, amely vagy a per megszüntetésére (157. §) irányul, vagy érdemi védekezést, illetve ellenkövetelést (viszontkereset, beszámítás) tartalmaz a felperes kereseti kérelmével szemben. Az ellenkérelemben elő kell adni az annak alapjául szolgáló tényeket és ezek bizonyítékait.

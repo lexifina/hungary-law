@@ -1,1 +1,0 @@
-26. § A per tárgyának értékét, a 24–25. §-ok rendelkezéseinek megfelelően, a felperesnek kell megjelölnie; ha ez az érték a köztudomással vagy a bíróság hivatalos tudomásával ellenkezik, vagy egyébként valószínűtlen, úgyszintén, ha azt az alperes vitássá teszi, a per tárgyának értékét a bíróság határozza meg.

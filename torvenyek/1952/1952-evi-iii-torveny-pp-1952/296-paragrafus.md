@@ -1,1 +1,0 @@
-296. § Az apaság megállapítására irányuló kereset – annak bírósága előtt – összekapcsolható a gyermek tartására irányuló keresettel is, illetőleg az apaság megállapítása iránt az első fokú bíróság előtt folyamatban levő perben a gyermek tartására irányuló kereseti kérelem utóbb is előterjeszthető.

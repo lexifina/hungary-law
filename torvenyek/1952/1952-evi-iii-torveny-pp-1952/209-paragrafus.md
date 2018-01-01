@@ -1,3 +1,0 @@
-209. § (1) A bíróság az előzetes bizonyítás elrendelése tárgyában – hacsak az ellenfél nem ismeretlen – az ellenfél meghallgatása után (113. §) határoz, sürgős esetben azonban enélkül is határozhat. A meghallgatás végett kitűzött határnapra szóló idézéshez csatolni kell a kérelem egy példányát. Ha a bíróság az ellenfél meghallgatását mellőzi, határozatát az ellenféllel csak előzetes bizonyítás elrendelése esetében kell közölnie; ilyenkor a kérelem egy példányát a határozathoz kell csatolni.
-
-(2) Az előzetes bizonyítás elrendelésének kérdésében fellebbezni csak a bíróság elutasító határozata ellen lehet.

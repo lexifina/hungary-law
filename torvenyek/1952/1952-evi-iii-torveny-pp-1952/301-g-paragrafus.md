@@ -1,1 +1,0 @@
-301/G. § Az elsőfokú bíróság az apaság vélelmének megdöntését megállapító jogerős határozatot, valamint a külön jegyzőkönyvbe foglalt – teljes hatályú apai elismerés tárgyában tett – nyilatkozatokat közli az illetékes anyakönyvvezetővel.

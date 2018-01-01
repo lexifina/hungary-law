@@ -1,1 +1,0 @@
-367. § A végrehajtás megszüntetési, illetőleg korlátozási perre kizárólag az a bíróság illetékes, amely a végrehajtási eljárást elrendelte; ha pedig a végrehajtási eljárást a törvényszék vagy a közigazgatási és munkaügyi bíróság, illetve a közjegyző rendelte el, kizárólag az adós lakóhelye szerinti járásbíróság illetékes.

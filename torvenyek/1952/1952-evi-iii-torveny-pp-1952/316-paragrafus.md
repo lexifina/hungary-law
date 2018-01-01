@@ -1,1 +1,0 @@
-316. § A fizetési meghagyásos eljárást követő per elintézéséből ki van zárva, és abban, mint bíró, nem vehet részt az ügyben korábban eljáró közjegyző (az őt alkalmazó közjegyző nevében eljáró közjegyzőhelyettes) és az ő 13. § (2) bekezdésében megjelölt hozzátartozója és volt házastársa.

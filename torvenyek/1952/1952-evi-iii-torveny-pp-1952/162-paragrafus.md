@@ -1,3 +1,0 @@
-162. § (1) A bíróság olyan határozata ellen, amely a per megszüntetésére irányuló kérelmet – a 157. § e) és f) pontjában foglalt esetek kivételével – elutasítja, külön fellebbezésnek helye nincs, és az ügyet befejező határozat ellen irányuló fellebbezésben is csak akkor támadható meg, ha a bíróság a pert a 158. § szerint hivatalból figyelembe veendő valamely ok ellenére sem szüntette meg.
-
-(2) Ha a bíróság a 140. § alapján a per megszüntetésére irányuló kérelemnek és a per érdemének együttes tárgyalását rendelte el, a per megszüntetésére irányuló kérelmet az ügyet befejező határozatában is elutasíthatja.

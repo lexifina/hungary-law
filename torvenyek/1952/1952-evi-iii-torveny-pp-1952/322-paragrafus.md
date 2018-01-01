@@ -1,3 +1,0 @@
-322. § (1) A jogerős fizetési meghagyás ellen a XIII. Fejezet szabályai szerint perújításnak van helye. A perújítási eljárás lefolytatására az a bíróság rendelkezik hatáskörrel és illetékességgel, amelyik – ellentmondás esetén – elsőfokú bíróságként a perré alakult eljárás lefolytatására hatáskörrel és illetékességgel rendelkezett volna.
-
-(2) A 260. § (1) bekezdésének d) pontját a jogerős fizetési meghagyással szemben előterjesztett perújítás esetén úgy kell alkalmazni, hogy perújításnak akkor van helye, ha törvény ellenére a kötelezettnek a meghagyást hirdetményi úton kézbesítették. A 260. § (4) bekezdése ebben az esetben is megfelelően irányadó.
