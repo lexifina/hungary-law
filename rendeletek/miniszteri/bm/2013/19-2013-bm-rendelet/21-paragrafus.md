@@ -1,1 +1,0 @@
-## 20. § Az önkormányzatok és társulásaik európai uniós fejlesztési pályázatai saját forrás kiegészítése 2012. évi támogatásának rendjéről szóló 6/2012. (III. 1.) BM rendelet alapján 2012. évben benyújtott, de 2013-ban folyamatban lévő, el nem bírált BM EU Önerő Alap pályázatokra e rendeletet kell alkalmazni.

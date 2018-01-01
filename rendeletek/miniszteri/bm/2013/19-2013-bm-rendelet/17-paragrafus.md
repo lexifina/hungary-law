@@ -1,3 +1,0 @@
-17. § (1) A kedvezményezett a BM EU Önerő Alap támogatással létrehozott ingatlanvagyonnak a projekt zárásától számított 5 évig az eredeti rendeltetésnek megfelelő használatát köteles biztosítani és azt nem idegenítheti el.
-
-(2) Ha a támogatás alapját képező okirat alapján vállalt kötelezettség megvalósítása meghiúsul, tartós akadályba ütközik vagy a támogatási szerződésben a támogatási szerződést érintő adatok és körülmények megváltoznak, a kedvezményezett haladéktalanul köteles e tényt írásban a miniszternek bejelenteni. A bejelentés alapján a támogatási szerződést a megváltozott körülményeknek megfelelően – indokolt esetben – módosítani kell.
