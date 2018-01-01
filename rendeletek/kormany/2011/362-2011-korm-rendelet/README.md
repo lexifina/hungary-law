@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-362-20-
 | 2016-12-17 | 2011-362-20-22.17 | 442/2016. (XII. 16.) Korm. rendelet |
 | 2017-01-01 | 2011-362-20-22.18 | 210/2015. (VII. 23.) Korm. rendelet |
 | 2017-01-02 | 2011-362-20-22.19 | 442/2016. (XII. 16.) Korm. rendelet |
+| 2018-01-01 | 2011-362-20-22.20 | 457/2017. (XII. 28.) Korm. rendelet |

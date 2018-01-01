@@ -1,3 +1,3 @@
-## 26/A. §[^83] A közreműködő intézmény a pedagógusigazolványra jogosult kérelmére az elektronikus igénylés továbbítása nélkül is kiadja a 12. § szerinti igazolást, amely 180 napig érvényes.
+## 26/A. §[^84] A közreműködő intézmény a pedagógusigazolványra jogosult kérelmére az elektronikus igénylés továbbítása nélkül is kiadja a 12. § szerinti igazolást, amely 180 napig érvényes.
 
-[^83]: A 26/A. §-t a 442/2016. (XII. 16.) Korm. rendelet 10. §-a iktatta be.
+[^84]: A 26/A. §-t a 442/2016. (XII. 16.) Korm. rendelet 10. §-a iktatta be.
