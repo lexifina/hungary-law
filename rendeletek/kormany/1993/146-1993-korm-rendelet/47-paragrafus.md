@@ -22,7 +22,7 @@ g) a polgárok jogainak érvényesítésével összefüggő adatletiltási, adat
 
 h) a felügyeleti, irányítási, ellenőrzési tevékenységet;
 
-i)[^246]
+i)[^254]
 
 j) a hivatali munkarendtől eltérő, folyamatos üzemeltetést;
 
@@ -30,4 +30,4 @@ k) a nyilvántartás fejlesztését.
 
 (2) A nyilvántartás szervein kívüli, továbbá a nyilvántartás szervei között nem a nyilvántartás vezetésével összefüggő adatátadás adatszolgáltatásnak minősül.
 
-[^246]: Az R.47. §-a (1) bekezdésének i) pontját a 230/2000. (XII. 23.) Korm. rendelet 22. §-ának (2) bekezdése hatályon kívül helyezte.
+[^254]: Az R.47. §-a (1) bekezdésének i) pontját a 230/2000. (XII. 23.) Korm. rendelet 22. §-ának (2) bekezdése hatályon kívül helyezte.

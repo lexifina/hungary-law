@@ -1,4 +1,4 @@
-10/A. §[^36] A kijelölt kormányhivatal elsőfokú hatósági jogkörében:
+10/A. §[^38] A kijelölt kormányhivatal elsőfokú hatósági jogkörében:
 
 a) dönt a 3. § (1) és (4) bekezdése szerinti esetekben a nyilvántartásba vételről, a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadásáról, visszavonásáról, valamint a külföldön élő magyar állampolgárok adatainak helyesbítéséről, módosításáról;
 
@@ -22,4 +22,4 @@ j) dönt a külföldön élő magyar állampolgárok külföldi lakóhely válto
 
 k) átvezeti a nyilvántartáson az adatváltozásokat és adatjavításokat a személyazonosító igazolvány, illetve a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadásával kapcsolatos – kormányrendeletben megállapított – hatósági jogkörében eljárva.
 
-[^36]: Az R. 10/A. §-át a 379/2016. (XII. 2.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^38]: Az R. 10/A. §-át a 379/2016. (XII. 2.) Korm. rendelet 11. § (4) bekezdése iktatta be.
