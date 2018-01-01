@@ -18,7 +18,7 @@
 
 ## f) a fajok költő-, vedlő- és telelő területeire, valamint vonulási útvonaluk pihenőhelyeire.
 
-## II.[^73] Különleges, valamint kiemelt jelentőségű természetmegőrzési területek
+## II.[^74] Különleges, valamint kiemelt jelentőségű természetmegőrzési területek
 
 ## A területek relatív jelentőségének értékelése a természetes élőhelyek és vadon élő állatok és növények megőrzéséről szóló, 1992. május 21-i 92/43/EGK tanácsi irányelv 2–3. számú mellékletében szereplő közösségi és kiemelt közösségi jelentőségű fajok, valamint a 4. számú mellékletében szereplő közösségi és kiemelt közösségi jelentőségű élőhelytípusok tekintetében az A–D. pontok alapján történik:
 
@@ -46,7 +46,7 @@
 
 ## D. Az A. és B. pont alapján kiválasztott területek jegyzékében fel kell tünteti azokat a területeket, amelyeken kiemelt közösségi jelentőségű élőhelytípusok, illetve kiemelt közösségi jelentőségű fajok fordulnak elő.
 
-10. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^74]
+10. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^75]
 
-[^73]: A 9. számú melléklet II. pontja a 375/2012. (XII. 19.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^74]: A 10. számú mellékletet a 201/2006. (X. 2.) Korm. rendelet 15. §-a iktatta be.
+[^74]: A 9. számú melléklet II. pontja a 375/2012. (XII. 19.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^75]: A 10. számú mellékletet a 201/2006. (X. 2.) Korm. rendelet 15. §-a iktatta be.

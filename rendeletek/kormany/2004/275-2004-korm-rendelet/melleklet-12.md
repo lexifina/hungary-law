@@ -152,8 +152,8 @@
 
 | HUON20020 | Gyöngyös-patak és kőszegi Alsó-rét |
 
-12. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^76]
+12. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^77]
 
 Jóváhagyott kiemelt jelentőségű természetmegőrzési területek
 
-[^76]: A 12. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be, szövege a 23/2010. (II. 11.) Korm. rendelet 6. § (2) bekezdés d) pontja, a 375/2012. (XII. 19.) Korm. rendelet 4. §-a, a 337/2013. (IX. 25.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^77]: A 12. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be, szövege a 23/2010. (II. 11.) Korm. rendelet 6. § (2) bekezdés d) pontja, a 375/2012. (XII. 19.) Korm. rendelet 4. §-a, a 337/2013. (IX. 25.) Korm. rendelet 7. §-a szerint módosított szöveg.

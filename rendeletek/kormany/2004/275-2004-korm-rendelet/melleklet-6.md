@@ -134,6 +134,6 @@
 
 | HUON10001 | Őrség |
 
-6. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^67]
+6. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^68]
 
-[^67]: A 6. számú mellékletet újonnan a 375/2012. (XII. 19.) Korm. rendelet 6. §-a helyezte hatályon kívül.
+[^68]: A 6. számú mellékletet újonnan a 375/2012. (XII. 19.) Korm. rendelet 6. §-a helyezte hatályon kívül.
