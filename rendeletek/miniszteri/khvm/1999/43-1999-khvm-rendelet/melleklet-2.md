@@ -1,4 +1,4 @@
-2. melléklet a 43/1999. (XII. 26.) KHVM rendelethez[^33]
+2. melléklet a 43/1999. (XII. 26.) KHVM rendelethez[^32]
 
 ## A VKJ kiszámításának szempontjából:
 
@@ -34,4 +34,4 @@
 
 7. vízkészlet: meghatározott helyen, térrészben, adott időpontban vagy időszakban mérhető, vagy különféle feltételekkel meghatározható vízmennyiség (m3), vagy időegység alatti vízforgalom (m3/év, m3/s stb.).
 
-[^33]: A 2. melléklet szövegét megállapította és megjelölését 2. mellékletre változtatta a 34/2016. (VIII. 2.) BM rendelet 9. § (2) bekezdése.
+[^32]: A 2. melléklet szövegét megállapította és megjelölését 2. mellékletre változtatta a 34/2016. (VIII. 2.) BM rendelet 9. § (2) bekezdése.

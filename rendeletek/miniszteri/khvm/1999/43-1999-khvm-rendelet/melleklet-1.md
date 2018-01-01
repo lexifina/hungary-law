@@ -1,6 +1,6 @@
-## 11/B. §[^31] Ez a rendelet a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
+## 11/B. §[^30] Ez a rendelet a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
 
-1. melléklet a 43/1999. (XII. 26.) KHVM rendelethez[^32]
+1. melléklet a 43/1999. (XII. 26.) KHVM rendelethez[^31]
 
 ## A vízkészletjárulék mértéke
 
@@ -426,5 +426,5 @@ e) Az alapjárulékot a vízhasználat és a vízkészlet jellegétől függően
 
 3.4.3. ha a 10/2010. VM rendelet a szárazföldi felszíni vizekre csak éves átlag értéket tartalmaz, akkor az átlagérték kétszeresét.
 
-[^31]: A 11/B. §-t a 34/2016. (VIII. 2.) BM rendelet 8. §-a iktatta be.
-[^32]: Az 1. melléklet szövegét megállapította és megjelölését 1. mellékletre változtatta a 34/2016. (VIII. 2.) BM rendelet 9. § (1) bekezdése.
+[^30]: A 11/B. §-t a 34/2016. (VIII. 2.) BM rendelet 8. §-a iktatta be.
+[^31]: Az 1. melléklet szövegét megállapította és megjelölését 1. mellékletre változtatta a 34/2016. (VIII. 2.) BM rendelet 9. § (1) bekezdése.
