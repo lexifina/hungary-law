@@ -8,9 +8,9 @@
 
 (5) A települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán az MNF a települési önkormányzat képviselő-testületének rendeletében foglalt feltételek felhasználásával elkészíti a hatósági szerződés tervezetét, amelyet a kérelemmel együtt jóváhagyásra továbbít a települési önkormányzatnak, valamint tájékoztatásul megküld a kérelmező részére.
 
-(6) A hatósági szerződésnek – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényben (a továbbiakban: Ket.) meghatározottakon túl – tartalmaznia kell
+(6)[^1] A hatósági szerződésnek – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) meghatározottakon túl – tartalmaznia kell
 
-a) az MNF megnevezését, a Magyar Államkincstárnál vezetett számlaszámát, az ügy számát, valamint ügyintézőjének a nevét,
+a) az MNF Magyar Államkincstárnál vezetett számlaszámát, az ügy számát, valamint az ügyintéző nevét,
 
 b) a kérelmező 1. melléklet szerinti adatait,
 
@@ -22,6 +22,13 @@ e) a közterület-használatért fizetendő díj mértékét, megfizetésének m
 
 f) a közterület-használat kezdő és befejező időpontját és az igénybe venni kívánt közterület pontos megnevezését, nagyságát,
 
-g) a kérelmező nyilatkozatát arról, hogy valamennyi – e rendelet alapján a szerződésben foglalt – kötelezettség tekintetében aláveti magát a szerződésszegés Ket. szerinti következményeinek.
+g) a felek közötti kapcsolattartás módját,
 
-(7) Az MNF hatósági szerződés megkötésével kapcsolatos eljárásában, valamint az Mktv. 35. § (3)–(4) bekezdése szerinti eljárásban a kérelmező számára kiadott hiánypótlási felhívás teljesítésének ideje az ügyintézési határidőbe beszámít. Hiánypótlás esetén a felhívást úgy kell kiadni, hogy a hiánypótlás legkésőbb a 3. § szerinti egyeztetésen teljesülhessen.
+h) a felmondási okokat,
+
+i) a kérelmező nyilatkozatát arról, hogy valamennyi – e rendelet alapján a szerződésben foglalt – kötelezettség tekintetében aláveti magát a szerződésszegés Ákr. szerinti következményeinek.
+
+(7)[^2] Hiánypótlás esetén a felhívást úgy kell kiadni, hogy a hiánypótlás legkésőbb a 3. § szerinti egyeztetésen teljesülhessen.
+
+[^1]: A 2. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 579. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^2]: A 2. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 579. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,4 +1,4 @@
-## 8. §[^1]
+## 8. §[^4]
 
 1. melléklet a 302/2016. (X. 13.) Korm. rendelethez
 
@@ -110,4 +110,4 @@ Kérelmező
 
 [cégszerű aláírás vagy a meghatalmazott cégszerű aláírása]
 
-[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
