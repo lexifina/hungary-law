@@ -24,13 +24,13 @@
 
 | 10. | Az engedély műszaki adattartalmát nem érintő adatokba (engedélyes neve, lakóhelye, székhelye) bekövetkezett változás esetén új engedély kiadása | 9 200 | 7 000 |
 
-2. melléklet az 53/2012. (X. 26.) BM rendelethez
+2. melléklet az 53/2012. (X. 26.) BM rendelethez[^2]
 
 A megyei (fővárosi) rendőr-főkapitányságok előirányzat-felhasználási keretszámla számai
 
 |  | Rendőr-főkapitányság megnevezése | Előirányzat-felhasználási keretszámla száma |
 
-| 1. | Országos Rendőr-főkapitányság | 10023002-01451715-00000000 |
+| 1. |  |  |
 
 | 2. | Budapesti Rendőr-főkapitányság | 10023002-01451430-00000000 |
 
@@ -71,3 +71,5 @@ A megyei (fővárosi) rendőr-főkapitányságok előirányzat-felhasználási k
 | 20. | Veszprém Megyei Rendőr-főkapitányság | 10048005-01451643-00000000 |
 
 | 21. | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
+
+[^2]: A 2. melléklet a 44/2017. (XII. 29.) BM rendelet 81. §-a szerint módosított szöveg.
