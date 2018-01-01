@@ -16,7 +16,7 @@ is közli.
 
 a) nem alkalmazhatók a törvénynek
 
-aa) hatósági közvetítőre,
+aa)
 
 ab) eljárási költség viselésére,
 
