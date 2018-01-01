@@ -1,6 +1,6 @@
 ### 3:101. § [Előtársaság]
 
-(1) A gazdasági társaság a létesítő okirat közjegyzői okiratba foglalásától vagy ügyvédi vagy jogtanácsosi ellenjegyzésétől kezdődően a létrehozni kívánt társaság előtársaságaként működhet. Üzletszerű gazdasági tevékenységet az előtársaság a nyilvántartásba-vételi kérelem benyújtását követően folytathat. Az előtársasági jelleget a társaság iratain és jognyilatkozatain fel kell tüntetni; ennek hiányában az előtársaság által tett jognyilatkozat – ha a nyilvántartó bíróság a társaságot nem jegyzi be – az alapítók által együttesen tett jognyilatkozatnak minősül.
+(1) A gazdasági társaság a létesítő okirat közjegyzői okiratba foglalásától vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzésétől kezdődően a létrehozni kívánt társaság előtársaságaként működhet. Üzletszerű gazdasági tevékenységet az előtársaság a nyilvántartásba-vételi kérelem benyújtását követően folytathat. Az előtársasági jelleget a társaság iratain és jognyilatkozatain fel kell tüntetni; ennek hiányában az előtársaság által tett jognyilatkozat – ha a nyilvántartó bíróság a társaságot nem jegyzi be – az alapítók által együttesen tett jognyilatkozatnak minősül.
 
 (2) Az előtársaságra a létrehozni kívánt gazdasági társaságra irányadó szabályokat kell alkalmazni azzal az eltéréssel, hogy
 

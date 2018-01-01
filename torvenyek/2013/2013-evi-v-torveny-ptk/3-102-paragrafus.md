@@ -10,4 +10,4 @@
 
 (3) Valamennyi tag egyhangú határozatára van szükség, ha a módosítás egyes tagok jogait hátrányosan érintené, vagy helyzetét terhesebbé tenné. Az e kérdésben való szavazásnál azok a tagok is szavazhatnak, akik egyébként szavazati joggal nem rendelkeznek.
 
-(4) A létesítő okirat módosítására egyebekben a társaság alapítására vonatkozó rendelkezéseket kell megfelelően alkalmazni, azzal, hogy a módosítást tartalmazó okiratot a tagoknak nem kell aláírniuk, és azt a társaság jogtanácsosa is ellenjegyezheti.
+(4) A létesítő okirat módosítására egyebekben a társaság alapítására vonatkozó rendelkezéseket kell megfelelően alkalmazni, azzal, hogy a módosítást tartalmazó okiratot a tagoknak nem kell aláírniuk, és azt a társaság kamarai jogtanácsosa is ellenjegyezheti.

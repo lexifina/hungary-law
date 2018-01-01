@@ -4,7 +4,7 @@
 
 (2) Az elfogadott alapszabályt minden alapító tagnak alá kell írnia. Az alapszabályt a tag helyett közokiratba vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazással rendelkező képviselője is aláírhatja.
 
-(3) Az alapszabályt közjegyzői okiratba, ügyvéd vagy valamelyik alapító jogtanácsosa által ellenjegyzett magánokiratba kell foglalni. Ezt a szabályt kell alkalmazni az alapszabály módosítása vagy a jegyzőkönyvbe foglalt alapszabály-módosítás esetén is azzal, hogy azt a tag jogtanácsosa vagy a szövetkezet jogtanácsosa is ellenjegyezheti.
+(3) Az alapszabályt közjegyzői okiratba, ügyvéd vagy valamelyik alapító kamarai jogtanácsosa által ellenjegyzett magánokiratba kell foglalni. Ezt a szabályt kell alkalmazni az alapszabály módosítása vagy a jegyzőkönyvbe foglalt alapszabály-módosítás esetén is azzal, hogy azt a tag kamarai jogtanácsosa vagy a szövetkezet kamarai jogtanácsosa is ellenjegyezheti.
 
 (4) A jogi személy létesítő okiratának általánosan kötelező tartalmi elemein túl a szövetkezet alapszabályában meg kell határozni
 

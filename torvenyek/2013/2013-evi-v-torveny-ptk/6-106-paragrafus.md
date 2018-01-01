@@ -1,6 +1,6 @@
 ### 6:106. § [Vállalkozások közötti szerződéssel, valamint szerződő hatóság szerződő hatóságnak nem minősülő vállalkozással kötött szerződésével kapcsolatos közérdekű kereset]
 
-(1) Vállalkozások közötti szerződés részévé általános szerződési feltételként váló, a pénztartozás teljesítésének idejét, a késedelmi kamat mértékét, esedékességét a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a jogosult hátrányára megállapító kikötést – mint tisztességtelen kikötést – a vállalkozások érdekeinek képviseletét ellátó szervezet is megtámadhatja.
+(1) Vállalkozások közötti szerződés részévé általános szerződési feltételként váló, a pénztartozás teljesítésének idejét, a késedelmi kamat mértékét, esedékességét a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a jogosult hátrányára megállapító kikötést – mint tisztességtelen kikötést – a vállalkozások érdekeinek képviseletét ellátó szervezet is megtámadhatja a polgári perrendtartásról szóló törvény közérdekből indított perre vonatkozó rendelkezései alapján.
 
 (2) A szerződő hatóság és a szerződő hatóságnak nem minősülő vállalkozás közötti szerződés részévé általános szerződési feltételként váló, a pénztartozás teljesítésének idejét
 
