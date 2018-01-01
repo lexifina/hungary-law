@@ -1,6 +1,6 @@
 152. § (1) A könyvviteli szolgáltatást végzők kötelesek a már megszerzett ismereteket naprakészen tartani, fejleszteni, a változásokból eredő követelményekkel összhangba hozni. Ennek érdekében kötelező számukra a szakmai továbbképzés.
 
-(2) Az (1) bekezdés szerinti továbbképzést – ide nem értve a (3) bekezdés szerinti eseteket – a miniszter által akkreditált szervezet, a miniszter által kreditpont-minősítési eljárásban minősített szakmai továbbképzési program alapján végezheti.
+(2) Az (1) bekezdés szerinti továbbképzést – ide nem értve a (3) bekezdés szerinti eseteket – a nyilvántartásba vételt végző szervezet által akkreditált szervezet, a nyilvántartásba vételt végző szervezet által kreditpont-minősítési eljárásban minősített szakmai továbbképzési program alapján végezheti.
 
 (2a) E törvény alkalmazásában nem lehet akkreditált szervezet, amely tekintetében a következő feltételek valamelyike megvalósul:
 
@@ -14,7 +14,7 @@ c) olyan nem szabályozott tőzsdén jegyzett társaság, amelynek a pénzmosás
 
 (3) Az (1) bekezdés szerinti továbbképzési kötelezettség a 151. § (4) bekezdés szerinti kormányrendeletben meghatározott egyéb módon is teljesíthető.
 
-(4) A továbbképzésen résztvevőkről a (2) bekezdés szerinti akkreditált szervezet nyilvántartást vezet, amely alapján a 151. § (4) bekezdésben hivatkozott kormányrendeletben meghatározott módon és az alábbi adattartalommal megküldi a továbbképzési kötelezettség igazolásához szükséges adatokat a miniszternek:
+(4) A továbbképzésen résztvevőkről a (2) bekezdés szerinti akkreditált szervezet nyilvántartást vezet, amely alapján a 151. § (4) bekezdésben hivatkozott kormányrendeletben meghatározott módon és az alábbi adattartalommal megküldi a továbbképzési kötelezettség igazolásához szükséges adatokat a nyilvántartásba vételt végző szervezetnek:
 
 a) az akkreditált szervezet sorszáma, neve, címe,
 

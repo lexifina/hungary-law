@@ -28,7 +28,7 @@ g) hivatkozást bármely olyan kérdésre, amelyre a könyvvizsgáló hangsúlyo
 
 h) a könyvvizsgáló véleményét arról, hogy az üzleti jelentés összhangban van-e a beszámolóval, illetve az e törvény, illetve egyéb más jogszabály vonatkozó előírásaival;
 
-i) a könyvvizsgáló nyilatkozatát arra vonatkozóan, hogy tudomására jutott-e bármely lényegesnek tekinthető hibás közlés az üzleti jelentésben és az összevont (konszolidált) üzleti jelentésben, és ha igen, akkor a szóban forgó hibás közlés milyen jellegű;
+i) a könyvvizsgáló nyilatkozatát arra vonatkozóan, hogy tudomására jutott-e bármilyen lényeges hibás állítás az üzleti jelentésben és az összevont (konszolidált) üzleti jelentésben, és ha igen, akkor a szóban forgó hibás állítás milyen jellegű;
 
 j) a könyvvizsgáló véleményét a 95/B. § (2) bekezdés e) és f) pontja alapján összeállított információkról, valamint a könyvvizsgáló nyilatkozatát arról, hogy rendelkezésre bocsátották-e a 95/B. § (2) bekezdés a)–d), g) és h) pontjában említett információkat;
 

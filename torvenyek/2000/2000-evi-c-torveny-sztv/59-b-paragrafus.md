@@ -32,6 +32,6 @@ b) a cash-flow fedezeti ügylet, valamint a külföldi gazdálkodó szervezetben
 
 (13) A 60. § (8) bekezdésének alkalmazása esetén biztosítani kell, hogy a mérlegben lévő pénzügyi eszközök és pénzügyi kötelezettségek értékelési különbözetében, illetve értékvesztésében megjelenő deviza-árfolyamkülönbözet a valós értékváltozás hatásától elkülönítetten kimutatható legyen.
 
-(14) A származékos leszállítási ügyletek zárásakor az ügyletet az azonnali adásvétel szabályai szerint kell elszámolni. A származékos leszállítási ügylet keretében beszerzett pénzügyi eszközöket a bekerülés (beszerzés) napján valós értékre kell átértékelni – az 59/A. § (6) bekezdésétől eltérően – az eszköz besorolásától függetlenül, minden esetben a pénzügyi műveletek egyéb bevételeivel, illetve a pénzügyi műveletek egyéb ráfordításaival szemben.
+(14)
 
-(15) A valós értéken történő értékelés alkalmazása esetén a forint ellenében vásárolt valuta-, illetve devizakészletet a bekerülés napján is át kell értékelni a 60. § (4)–(6) bekezdése szerinti választott devizaárfolyamon, a pénzügyi műveletek egyéb bevételeivel, illetve a pénzügyi műveletek egyéb ráfordításaival szemben.
+(15)

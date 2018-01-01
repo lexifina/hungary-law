@@ -66,7 +66,7 @@ h) a névérték felett vásárolt, hitelviszonyt megtestesítő kamatozó ért�
 
 i) a névérték felett vásárolt, hitelviszonyt megtestesítő kamatozó értékpapír bekerülési értéke és névértéke közötti – veszteségjellegű – különbözet időbelileg elhatárolt összegének megszüntetését;
 
-j) ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken történő értékelést, a kamat swap ügyletek kivételével a származékos ügyletek zárása időpontjában érvényes piaci árfolyam és kötési (határidős) árfolyam közötti – veszteségjellegű – különbözet teljes összegét, ha az ügylet zárása a mérleg fordulónapjáig megtörtént, valamint az ügylethez kapcsolódóan a 32. § (5) bekezdés a) pontja vagy a 44. § (5) bekezdés a) pontja szerint kimutatott elhatárolás megszüntetését;
+j) ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken történő értékelést és az ügylet zárása a mérleg fordulónapjáig megtörtént, a kamat swap ügyletek kivételével a származékos ügyletek zárása időpontjában érvényes piaci árfolyam és kötési (határidős) árfolyam közötti – veszteségjellegű – különbözet teljes összegét, beleértve a származékos leszállítási ügylet keretében beszerzett eszközök bekerülés (beszerzés) napján valós értékre történő – 47. § (12) bekezdése szerinti – átértékelése miatt keletkező veszteségjellegű – különbözet összegét is, valamint az ügylethez kapcsolódóan a 32. § (5) bekezdés a) pontja vagy a 44. § (5) bekezdés a) pontja szerint kimutatott elhatárolás megszüntetését;
 
 k) ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken történő értékelést, a kamat swap ügyletek kivételével a származékos ügyletek fordulónapi valós értéke vagy belső értéke alapján a 44. § (5) bekezdés c) pontja szerinti elhatárolás összegét, és az előző időszakokban így kimutatott elhatárolás megszüntetését, valamint a nem kamatfedezeti célú, egyéb cash-flow fedezeti célú ügyletek esetén a 44. § (5) bekezdés e) pontja szerinti elhatárolás összegét és annak megszüntetését;
 
@@ -88,7 +88,9 @@ t) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkal
 
 u) az 59/A–59/F. §-ok szerinti valós értéken értékelt kereskedési célú, mérlegben szereplő pénzügyi eszközök negatív értékelési különbözetét;
 
-v) a 85. § (1) és (1a) bekezdésében meghatározott gazdasági események veszteségjellegű eredményeit, amennyiben azok a forgóeszközök között kimutatott részesedésekhez, értékpapírokhoz és vásárolt követelésekhez kapcsolódnak, kivéve a befektetési jegyek eladásakor, beváltásakor a nettó eszközérték és a könyv szerinti érték különbözetében realizált veszteséget, amelyet a fizetendő kamatok és kamatjellegű ráfordítások között kell elszámolni.
+v) a 85. § (1) és (1a) bekezdésében meghatározott gazdasági események veszteségjellegű eredményeit, amennyiben azok a forgóeszközök között kimutatott részesedésekhez, értékpapírokhoz és vásárolt követelésekhez kapcsolódnak, kivéve a befektetési jegyek eladásakor, beváltásakor a nettó eszközérték és a könyv szerinti érték különbözetében realizált veszteséget, amelyet a fizetendő kamatok és kamatjellegű ráfordítások között kell elszámolni;
+
+w) ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken történő értékelést, a nem pénzügyi eszköz eladásával teljesülő származékos ügyletek esetében a 72. § (5) bekezdése szerint elszámolt, a nem pénzügyi eszköznek az ügylet zárása időpontjában érvényes piaci ára és a kötési ára (árfolyama) közötti különbözetet (az ügylet zárás napján érvényes valós értékét), amennyiben a piaci ár a nagyobb.
 
 (4)
 

@@ -4,8 +4,8 @@
 
 (3) A (2) bekezdés alapján megismert személyes adatokat a nyilvántartásba vételt végző szervezet
 
-a) a könyvviteli szolgáltatás végzésére jogosító engedély kiadása iránti eljárás jogerős befejezéséig vagy
+a) a könyvviteli szolgáltatás végzésére jogosító engedély kiadása iránti eljárásban a hatóság végleges döntéséig vagy
 
-b) a könyvviteli szolgáltatás végzésére jogosító engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+b) a könyvviteli szolgáltatás végzésére jogosító engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban a hatóság végleges döntéséig
 
 kezeli.
