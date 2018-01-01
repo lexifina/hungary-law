@@ -2,8 +2,8 @@
 
 18. § (1) A fémkereskedő telephelyén a fémkereskedelmi engedélyköteles anyagokat a vámtarifaszám első négy számjegye szerint, egymástól elkülönítve köteles tárolni. A tárolóhelyiségeket, tárolóhelyeket egyértelműen beazonosítható módon, a vázlatrajzon jelölni köteles.
 
-(2)[^19]
+(2)[^27]
 
 (3) A fémkereskedő a vegyes fémként nyilvántartásba vett fémkereskedelmi engedélyköteles anyagot vegyes fémként a telephelyén a szétválogatás elvégzéséig, de legkésőbb az átvételtől számított hatodik naptári napig tárolhatja.
 
-[^19]: A 18. § (2) bekezdését a 40. § hatályon kívül helyezte.
+[^27]: A 18. § (2) bekezdését a 40. § hatályon kívül helyezte.

@@ -6,7 +6,7 @@
 
 (3) A hulladékgazdálkodási közszolgáltatást nyújtó szervezet az értékesítéshez kapcsolódó kötelezettségét a beszállítás helye szerint illetékes fémkereskedelmi hatósághoz köteles teljesíteni.
 
-(4)[^1] A közszolgáltatást nyújtó gazdálkodó szervezet a Fémtv. 3. § (6) bekezdésében meghatározott írásbeli szerződés egy példányát a NAV Központi Irányítása részére köteles megküldeni, amely a szerződéseket nyilvántartja és közzéteszi a fémkereskedelmi hatóság szervezeti egységei részére.
+(4)[^2] A közszolgáltatást nyújtó gazdálkodó szervezet a Fémtv. 3. § (6) bekezdésében meghatározott írásbeli szerződés egy példányát a NAV Központi Irányítása részére köteles megküldeni, amely a szerződéseket nyilvántartja és közzéteszi a fémkereskedelmi hatóság szervezeti egységei részére.
 
 (5) Amennyiben a Fémtv. 3. § (6) bekezdése alapján kötött szerződésben meghatározott fémkereskedő több telephellyel is rendelkezik, az értékesítések tekintetében érintett telephelyek feltüntetése is kötelező tartalmi elem.
 
@@ -26,7 +26,7 @@ f) mellékletként az átadott fémkereskedelmi engedélyköteles anyagról beaz
 
 (7) A Fémtv. 3. § (6) bekezdésében meghatározott írásbeli szerződés a telephely fenntartása nélkül fémkereskedelmi tevékenységet folytató fémkereskedővel nem köthető.
 
-(8)[^2] A fémkereskedelmi hatóság a NAV illetékes megyei (fővárosi) adó- és vámigazgatóságainak elérhetőségét honlapján közzéteszi.
+(8)[^3] A fémkereskedelmi hatóság a NAV illetékes megyei (fővárosi) adó- és vámigazgatóságainak elérhetőségét honlapján közzéteszi.
 
 (9) A Fémtv. 3. § (7) bekezdésében meghatározott bejelentésben a fémkereskedőre vonatkozó adatok megadása során a beazonosítás érdekében a fémkereskedő telephelye engedélyszámát meg kell adni. A fémkereskedők adatai a fémkereskedelmi hatóság honlapján, a Fémtv. 4. § (10) bekezdésében meghatározott közhiteles nyilvántartásban elérhetőek.
 
@@ -56,5 +56,5 @@ b) a fémkereskedő engedélyének (telephely engedélyének) számát, kivéve 
 
 (14) A Fémtv. 3. § (10) bekezdése kapcsán az e rendelet 27. § (3) és (7)–(8) bekezdésében foglaltakat alkalmazni kell.
 
-[^1]: A 3. § (4) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
-[^2]: A 3. § (8) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^2]: A 3. § (4) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (8) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.

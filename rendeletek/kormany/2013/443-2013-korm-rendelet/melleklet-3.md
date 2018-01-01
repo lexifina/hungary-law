@@ -1,4 +1,4 @@
-3. melléklet a 443/2013. (XI. 27.) Korm. rendelethez
+3. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^32]
 
 ## A fémkereskedelmi engedély adattartalma
 
@@ -8,7 +8,7 @@ FÉMKERESKEDELMI ENGEDÉLY
 
 2. A fémkereskedelmi engedély száma:
 
-3. A Fémtv. 6. §-a és a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 71. § (1) bekezdése alapján a fémkereskedelmi tevékenységet az alábbiak szerint engedélyezem:
+3. A Fémtv. 6. §-a és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 80. §-a alapján a fémkereskedelmi tevékenységet az alábbiak szerint engedélyezem:
 
 4. A fémkereskedő
 
@@ -61,3 +61,5 @@ Kelt: ...................................................
 ..................................................................................
 
 kiadmányozó
+
+[^32]: A 3. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 468. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

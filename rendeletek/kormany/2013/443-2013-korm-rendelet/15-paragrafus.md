@@ -12,8 +12,9 @@ c) együttműködik az ellenőrzést végzőkkel és részükre a szükséges fe
 
 (3) A Fémtv. 4. § (4) bekezdés a) és b) pontjában meghatározott telephelyen kívüli tárolás alapjául szolgáló szerződéseket, dokumentumokat, bizonylatokat, igazolásokat a fémkereskedelmi hatóság ellenőrzése során rendelkezésre kell bocsátani.
 
-(4) Figyelemmel a Fémtv. 14. § (2) bekezdésében meghatározottakra a lefoglalt dolgok tárolásával érintett fémkereskedő az árverés, elektronikus árverés során köteles a fémkereskedelmi hatósággal együttműködni.
+(4)[^25] Figyelemmel a Fémtv. 14. § (2b) bekezdésében meghatározottakra, a zár alá vett dolgok tárolásával érintett fémkereskedő az árverés, elektronikus árverés során köteles a fémkereskedelmi hatósággal együttműködni.
 
-(5)[^18] A Fémtv. 4. § (11) bekezdése alapján a NAV megyei (fővárosi) adó- és vámigazgatósága, valamint a Kiemelt Adó- és Vámigazgatóság felkéri az illetékességi területén tevékenységet végző, sorsolással kiválasztott fémkereskedő(ke)t, hogy szolgáltasson adatot a fémkereskedelmi engedélyköteles anyagok fajtái szerint a jogi személyek által értékesített fémkereskedelmi engedélyköteles anyagok vételárával kapcsolatosan.
+(5)[^26] A Fémtv. 4. § (11) bekezdése alapján a NAV megyei (fővárosi) adó- és vámigazgatósága, valamint a Kiemelt Adó- és Vámigazgatóság felkéri az illetékességi területén tevékenységet végző, sorsolással kiválasztott fémkereskedő(ke)t, hogy szolgáltasson adatot a fémkereskedelmi engedélyköteles anyagok fajtái szerint a jogi személyek által értékesített fémkereskedelmi engedélyköteles anyagok vételárával kapcsolatosan.
 
-[^18]: A 15. § (5) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § c) pontja szerint módosított szöveg.
+[^25]: A 15. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 467. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^26]: A 15. § (5) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § c) pontja szerint módosított szöveg.

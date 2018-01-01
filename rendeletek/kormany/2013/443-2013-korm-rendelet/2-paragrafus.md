@@ -1,4 +1,4 @@
-## 1. § A Kormány a fémkereskedelemről szóló 2013. évi CXL. törvény (a továbbiakban: Fémtv.) szerinti fémkereskedelmi hatóságként a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) vámszervét jelöli ki.
+## 1. §[^1] A Kormány a fémkereskedelemről szóló 2013. évi CXL. törvény (a továbbiakban: Fémtv.) szerinti fémkereskedelmi hatóságként a Nemzeti Adó- és Vámhivatalt (a továbbiakban: NAV) jelöli ki.
 
 ## 2. § E rendelet alkalmazásában:
 
@@ -15,3 +15,5 @@
 6. vámtarifaszám: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet által meghatározott 2009. január 1-jén érvényes vámtarifaszám, ami alá a fémkereskedelmi engedélyköteles anyag a Fémtv. melléklete szerinti több fémet tartalmazó anyag esetén a legnagyobb tömegarányú fémalkotó szerint besorolható,
 
 7. vegyes fém: a Fémtv. melléklete szerinti több fémet tartalmazó, a telephelyre beszállított, még szét nem válogatott dolgok összessége, melyek az átvételkor – annak jelentős mennyisége okán – szemrevételezéssel egyértelműen nem sorolhatók be egyetlen vámtarifaszám alá sem.
+
+[^1]: Az 1. § a 457/2017. (XII. 28.) Korm. rendelet 467. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
