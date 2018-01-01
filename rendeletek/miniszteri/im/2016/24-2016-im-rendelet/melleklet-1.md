@@ -1,3 +1,1 @@
-1–2. melléklet a 24/2016. (XII. 23.) IM rendelethez[^7]
-
-[^7]: Az 1–2. melléklet a 41. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+1. melléklet a 24/2016. (XII. 23.) IM rendelethez

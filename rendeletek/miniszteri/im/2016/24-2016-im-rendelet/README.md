@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-24-20-0
 | --- | --- | --- |
 | 2017-01-01 | 2016-24-20-06.1 | 24/2016. (XII. 23.) IM rendelet |
 | 2017-01-02 | 2016-24-20-06.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2016-24-20-06.3 | 2010: CXXX. törvény |
