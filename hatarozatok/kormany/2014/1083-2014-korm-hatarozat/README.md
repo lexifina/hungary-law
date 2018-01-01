@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1083-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-02-26 | 2014-1083-30-22.1 | 1083/2014. (II. 26.) Korm. határozat |
+| 2018-01-01 | 2014-1083-30-22.2 | 2011. évi CXCV. törvény |

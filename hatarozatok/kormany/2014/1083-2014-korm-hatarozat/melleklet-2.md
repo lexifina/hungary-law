@@ -1,5 +1,3 @@
-## A Tokaj-Hegyalja borvidék településeinek fejlesztési támogatása
-
 | Önkormányzat neve | Támogatás (ezer forintban) |
 
 | Abaújszántó | 50 000 |
@@ -57,3 +55,5 @@
 | Vámosújfalu | 40 000 |
 
 2. melléklet az 1083/2014. (II. 26.) Korm. határozathoz
+
+Önkormányzatok átmeneti támogatása
