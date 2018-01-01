@@ -1,3 +1,5 @@
+## 22–26. §
+
 ## VIII. Fejezet
 
 ## KÉPESÍTÉST IGAZOLÓ OKIRATOK

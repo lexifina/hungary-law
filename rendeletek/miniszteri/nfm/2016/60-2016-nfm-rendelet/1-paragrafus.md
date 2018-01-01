@@ -8,6 +8,9 @@
 
 a) a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet (a továbbiakban: 14/2015. Korm. rendelet) 4. melléklet 1. pontjában foglalt táblázat 3–10. sorában szereplő természetes személyek képzésére, továbbképzésére, vizsgáztatására és képesítésére,
 
-b) a 14/2015. Korm. rendelet 4. melléklet 2. pontjában foglalt táblázat 2–10. sorában szereplő képesítési kategóriájú vállalkozások képesítésére, valamint
+b)[^1] a 14/2015. Korm. rendelet 4. melléklet 2. pontjában foglalt táblázat 2–10. sorában szereplő képesítési kategóriájú vállalkozások képesítésére
 
-c) a 14/2015. Korm. rendelet 2. § (1) bekezdés 24. pontja szerinti regisztrált vállalkozásokra
+c)[^2]
+
+[^1]: Az 1. § b) pontja az 59/2017. (XII. 29.) NFM rendelet 5. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § c) pontját az 59/2017. (XII. 29.) NFM rendelet 5. § b) pontja hatályon kívül helyezte.
