@@ -2,9 +2,9 @@
 
 10. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba. Rendelkezéseit a hatálybalépést követően kezdeményezett eljárások esetében kell alkalmazni.
 
-(2)[^11]
+(2)[^12]
 
-Melléklet a 78/1997. (XII. 30.) IKIM rendelethez[^12]
+Melléklet a 78/1997. (XII. 30.) IKIM rendelethez[^13]
 
 Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárási díjai
 
@@ -462,5 +462,5 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 22211 | Hitelesítési bizonyítvány kiadása (a kötelezően elő nem írt esetekben) | db | 0,15 |
 
-[^11]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 16. §-ának 9. pontja hatályon kívül helyezte.
-[^12]: A melléklet a 27/2010. (XII. 31.) NGM rendelet 11. § (4) bekezdésével megállapított szöveg. E módosító rendelet 76. § (2) bekezdése alapján a rendelkezést a 2010. december 31-ét követően indult eljárásokban kell alkalmazni.
+[^12]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 16. §-ának 9. pontja hatályon kívül helyezte.
+[^13]: A melléklet a 27/2010. (XII. 31.) NGM rendelet 11. § (4) bekezdésével megállapított szöveg. E módosító rendelet 76. § (2) bekezdése alapján a rendelkezést a 2010. december 31-ét követően indult eljárásokban kell alkalmazni.
