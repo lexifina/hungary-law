@@ -1,5 +1,5 @@
 171. § Hatályát veszti a Készpénztörvény
 
-a)
+a) 1/A. §-a,
 
 b)

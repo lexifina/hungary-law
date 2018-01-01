@@ -1,0 +1,1 @@
+109. § A Gjt. 18. § 10. pontjában az „az államháztartásról szóló 2011. évi CXCV. törvény” szövegrész helyébe az „az állam, a helyi önkormányzat, a nemzetiségi önkormányzat és az államháztartásról szóló 2011. évi CXCV. törvény” szöveg lép.

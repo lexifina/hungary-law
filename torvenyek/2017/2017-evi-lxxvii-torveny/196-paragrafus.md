@@ -1,0 +1,3 @@
+196. § Az Szt. 45. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A támogatásonként, a véglegesen átvett pénzeszközönként, a térítés nélkül átvett eszközönként kimutatott halasztott bevételt a fejlesztés során megvalósított eszköz, az elengedett, valamint a harmadik személy által átvállalt kötelezettséghez kapcsolódó eszköz, illetve a térítés nélkül átvett eszköz (ideértve az ajándékként, a hagyatékként kapott, a többletként fellelt eszközöket is) 47–51. § szerint meghatározott bekerülési értékének, illetve bekerülési értéke arányos részének költségkénti, illetve ráfordításkénti elszámolásakor kell megszüntetni. Meg kell szüntetni a fejlesztési támogatás miatt kimutatott halasztott bevételt a visszafizetendő támogatás ráfordításkénti elszámolásakor is.”
