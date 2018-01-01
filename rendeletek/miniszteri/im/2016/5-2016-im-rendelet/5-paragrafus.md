@@ -18,10 +18,13 @@ f) azt a címet, illetve elektronikus levélcímet, ahová a tanúsítvány megk
 
 g) a kérelmezőnek a büntetőjogi felelőssége tudatában előterjesztett nyilatkozatát a kérelmezőre vonatkozó, valamint az adatkéréshez fűződő jogi érdek és cél alapjául megjelölt adatok valódiságáról.
 
-(3) A papíralapú kérelemnek meg kell felelnie a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 196. § (1) bekezdés b), c) vagy d) pontjában, ügyvédi képviselet esetén pedig a Pp. 93. § (3) bekezdésében foglaltaknak.
+(3)[^2] A papíralapú kérelemnek meg kell felelnie a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 325. § (1) bekezdés b), c) vagy d) pontjában, ügyvédi képviselet esetén pedig a Pp. 114. § (3) bekezdésében foglaltaknak.
 
 (4) Az elektronikus úton előterjesztett kérelmet legalább fokozott biztonságú elektronikus aláírással ellátva kell benyújtani. A kérelem részeként a Karnak megküldhető az elektronikus aláírás titkosító tanúsítványa, ebben az esetben a Kar a tanúsítványt vagy az elutasítás okáról való tájékoztatást ezzel titkosítva kézbesíti a kérelmező részére.
 
 (5) A kérelemhez – papír alapon vagy elektronikus úton – csatolni kell a költségtérítés befizetésének igazolását, valamint a meghatalmazott útján előterjesztett kérelemhez a kérelem előterjesztésére vonatkozó meghatalmazást.
 
-(6) A Kar Hivatali szerve a tanúsítványt vagy az elutasítás okáról szóló tájékoztatást elektronikus úton akként kézbesíti, hogy a kézbesítési folyamat részeként a kézbesítés időpontját, a kézbesített irat átvételét vagy a kézbesítés sikertelenségét igazoló, automatikusan létrejövő igazolás keletkezzen. Ha a tanúsítványt vagy az elutasítás okáról szóló tájékoztatást öt munkanapon belül nem veszik át, azt kézbesítettnek kell tekinteni. A kézbesítési vélelem beálltáról – a kézbesítési folyamat részeként – mind a Kar Hivatali szerve, mind a kérelmező értesítést kap. Papíralapú kézbesítés esetén a Pp.-nek a bírósági iratok kézbesítésére vonatkozó szabályait kell alkalmazni.
+(6)[^3] A Kar Hivatali szerve a tanúsítványt vagy az elutasítás okáról szóló tájékoztatást elektronikus úton akként kézbesíti, hogy a kézbesítési folyamat részeként a kézbesítés időpontját, a kézbesített irat átvételét vagy a kézbesítés sikertelenségét igazoló, automatikusan létrejövő igazolás keletkezzen. Ha a tanúsítványt vagy az elutasítás okáról szóló tájékoztatást öt munkanapon belül nem veszik át, azt kézbesítettnek kell tekinteni. A kézbesítési fikció beálltáról – a kézbesítési folyamat részeként – mind a Kar Hivatali szerve, mind a kérelmező értesítést kap. Papíralapú kézbesítés esetén a Pp.-nek a bírósági iratok kézbesítésére vonatkozó szabályait kell alkalmazni.
+
+[^2]: Az 5. § (3) bekezdése a 20/2017. (XII. 21.) IM rendelet 48. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 5. § (6) bekezdése a 20/2017. (XII. 21.) IM rendelet 48. § (2) bekezdése szerint módosított szöveg.
