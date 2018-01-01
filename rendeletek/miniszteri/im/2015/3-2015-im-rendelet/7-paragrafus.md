@@ -1,6 +1,6 @@
 ## 4. A panaszügy iratainak és a panasz adatainak kezelése
 
-7. §[^25] (1) A Kar panaszügy iratai között kezeli a benyújtott panaszt, a panaszelbírálás során megtett intézkedéseket és panaszolti nyilatkozatokat, továbbá szükség szerint a panaszolt intézkedés iratának vagy a panaszolt ügyiratainak a másolatát. A Kar a panaszügy iratait rendszerezetten és 5 évig köteles őrizni.
+7. §[^26] (1) A Kar panaszügy iratai között kezeli a benyújtott panaszt, a panaszelbírálás során megtett intézkedéseket és panaszolti nyilatkozatokat, továbbá szükség szerint a panaszolt intézkedés iratának vagy a panaszolt ügyiratainak a másolatát. A Kar a panaszügy iratait rendszerezetten és 5 évig köteles őrizni.
 
 (2) A panaszügy iratait úgy kell kezelni, hogy abból a válaszadási határidő és annak betartása egyértelműen megállapítható legyen. A Kar a benyújtott panaszokról legalább az alábbi adatokkal vezet nyilvántartást:
 
@@ -30,4 +30,4 @@ l) a felülbírálati kérelem benyújtásának időpontja,
 
 m) a Kar Hivatali szerve panaszügyeket elbíráló hivatali szervezeti egységének vezetője által megküldött értesítés időpontja.
 
-[^25]: A 7. § a 26/2016. (XII. 27.) IM rendelet 19. § (10) bekezdésével megállapított szöveg.
+[^26]: A 7. § a 26/2016. (XII. 27.) IM rendelet 19. § (10) bekezdésével megállapított szöveg.

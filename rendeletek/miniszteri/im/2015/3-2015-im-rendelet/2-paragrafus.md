@@ -4,8 +4,9 @@
 
 a) az adós, a végrehajtást kérő, illetve egyéb érdekelt, vagy meghatalmazottjuk (a továbbiakban együtt: panaszos) tájékoztatására vonatkozó kötelezettségének nem tesz eleget,
 
-b) panaszossal szemben tanúsított magtartása nem megfelelő,
+b)[^2] panaszossal szemben tanúsított magatartása nem megfelelő,
 
 c) ügyfélfogadási időben nem érhető el személyesen, telefonon, vagy felvilágosítás adására jogosult alkalmazottja útján.
 
 [^1]: A 2. § a 26/2016. (XII. 27.) IM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § b) pontja a 20/2017. (XII. 21.) IM rendelet 44. §-a szerint módosított szöveg.
