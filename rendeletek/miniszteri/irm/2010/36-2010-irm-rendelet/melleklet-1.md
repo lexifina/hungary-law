@@ -46,7 +46,7 @@
 
 6. A sorsolási művelet elvégzése és naplózása
 
-6.1. A számítógépes program a sorsolási műveletek elvégzésénél kizárólag a felszámolók névjegyzékébe jogerősen bejegyzett felszámoló szervezeteket veheti figyelembe a Felsz. kijr. által a sorsolási műveletre előírt rendelkezések betartásával.
+6.1. A számítógépes program a sorsolási műveletek elvégzésénél kizárólag a felszámolók névjegyzékébe véglegesen bejegyzett felszámoló szervezeteket veheti figyelembe a Felsz. kijr. által a sorsolási műveletre előírt rendelkezések betartásával.
 
 6.2. A számítógépes program minden sorsolási és egyéb műveletet, annak időpontját és azok minden adatát naplózza. A naplózás adatait a felszámolási eljárás jogerős befejezéséig, de legalább három évig kell archiválni.
 
@@ -54,9 +54,9 @@
 
 7. A felszámoló szervezetek körében és adataiban bekövetkezett változások átvezetése
 
-7.1. A felszámolók névjegyzékébe bejegyzett felszámoló szervezetek körében és a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvényben meghatározott cégadataikban bekövetkező változások (a továbbiakban együtt: adatváltozás) kizárólag a felszámolók névjegyzékét vezető szerv által meghozott jogerős közigazgatási határozat alapján vezethetők át a számítógépes programban.
+7.1. A felszámolók névjegyzékébe bejegyzett felszámoló szervezetek körében és a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvényben meghatározott cégadataikban bekövetkező változások (a továbbiakban együtt: adatváltozás) kizárólag a felszámolók névjegyzékét vezető szerv által meghozott véglegessé vált közigazgatási határozat alapján vezethetők át a számítógépes programban.
 
-7.2. Üzemeltető az adatváltozásokat a határozat jogerőre emelkedését és a változásnak a felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet szerinti – a Cégközlönyben történő – közzétételét követően haladéktalanul átvezeti a számítógépes program adatbázisában annak érdekében, hogy a kijelölésekre a felszámolók névjegyzékének mindenkor hatályos adatai alapján kerülhessen sor.
+7.2. Üzemeltető az adatváltozásokat a határozat véglegessé válását és a változásnak a felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet szerinti – a Cégközlönyben történő – közzétételét követően haladéktalanul átvezeti a számítógépes program adatbázisában annak érdekében, hogy a kijelölésekre a felszámolók névjegyzékének mindenkor hatályos adatai alapján kerülhessen sor.
 
 8. A hibajavítás szabályai
 
@@ -143,4 +143,4 @@ Az „Adatváltoztatás kérésének indokolása” rovat kitöltése minden ese
 bíró/titkár aláírása
 
 [^21]: A 9. § a (2) bekezdés alapján hatályát vesztette.
-[^22]: Az 1. mellékletet a 64/2015. (XI. 13.) NFM rendelet 3. §-a iktatta be.
+[^22]: Az 1. mellékletet a 64/2015. (XI. 13.) NFM rendelet 3. §-a iktatta be, szövege a 25/2017. (XII. 22.) IM rendelet 13. §-a szerint módosított szöveg.
