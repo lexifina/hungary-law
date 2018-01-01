@@ -14,9 +14,11 @@ d) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekm�
 
 e) az ügyész a vádemelést elhalasztotta és annak tartama eredményesen telt el,
 
-f) a tartalma a közigazgatási bíróság adott ügyben hozott határozatával ellentétes, vagy
+f) a tartalma a közigazgatási bíróság adott ügyben hozott határozatával ellentétes,
 
-g) annak meghozatala során valamely, törvényben meghatározott súlyos eljárási jogszabálysértést követtek el.
+g) az eljárásba további ügyfél bevonásának lett volna helye, vagy
+
+h) valamely súlyos eljárási jogszabálysértést törvény semmisségi oknak minősít.
 
 (2) A döntés – a (3) bekezdésben foglaltak kivételével – semmisségi ok esetén sem semmisíthető meg, ha
 

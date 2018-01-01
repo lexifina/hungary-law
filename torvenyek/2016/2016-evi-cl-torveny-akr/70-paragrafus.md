@@ -6,4 +6,4 @@
 
 (3) Ha a helyszíni szemlére életveszéllyel vagy súlyos kárral fenyegető helyzetben, azonnali eljárási cselekmény érdekében van szükség, illetve, ha ezt törvény más fontos okból megengedi, a helyszíni szemlét a hatóság a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is megtarthatja.
 
-(4) A (3) bekezdésben meghatározott módon történő szemle megtartásáról az ügyészt előzetesen – a szemle megtartásáról való hatósági döntést követően haladéktalanul – értesíteni kell, továbbá ahhoz a rendőrség és lehetőség szerint hatósági tanú közreműködését kell kérni.
+(4) A (3) bekezdésben meghatározott módon történő szemle megtartásáról az ügyészt előzetesen – a szemle megtartásáról való hatósági döntést követően haladéktalanul – értesíteni kell, továbbá ahhoz a rendőrség és lehetőség szerint hatósági tanú közreműködését kell kérni. Ha az ügyész a szemle megtartásával nem ért egyet, azt megtiltja.

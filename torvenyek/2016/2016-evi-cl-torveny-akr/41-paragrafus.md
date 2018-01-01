@@ -1,6 +1,6 @@
 ### 41. § [A sommás eljárás]
 
-(1) A hatóság sommás eljárásban a döntését azonnal, de legfeljebb nyolc napon belül meghozza, ha
+(1) Sommás eljárásnak van helye, ha
 
 a) a hiánytalanul előterjesztett kérelem és mellékletei, valamint a hatóság rendelkezésére álló adatok alapján a tényállás tisztázott és
 

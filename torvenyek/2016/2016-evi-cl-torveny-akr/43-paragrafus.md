@@ -42,11 +42,11 @@ d) az eljárást felfüggeszti vagy a beadvány elintézését függőben tartja
 
 e) az eljárás szünetel.
 
-(8) Nincs helye függő hatályú döntés meghozatalának
+(8) Nincs helye függő hatályú döntés meghozatalának, ha
 
-a) ha a döntés
+a) a döntés
 
-aa) – központi hivatal kivételével – központi államigazgatási szerv, vagy
+aa) – központi hivatal kivételével – központi államigazgatási szerv vagy annak vezetője, vagy
 
 ab) a Magyar Nemzeti Bank
 
@@ -62,4 +62,4 @@ b) az ügy tárgya honvédelmi és katonai, továbbá nemzetbiztonsági célú �
 
 (12) A függő hatályú határozattal szembeni jogorvoslati és döntés-felülvizsgálati eljárásban vizsgálni kell, hogy a kérelmezett jogosultság gyakorlásának feltételei – ide nem értve e § rendelkezéseit – fennállnak-e.
 
-(13) Ha az (1) bekezdés szerinti döntés meghozatalának nincs helye, a hatóság az ügyet teljes eljárásban intézi el. A hatóság – szükség esetén – szakhatóságot keres meg, rendelkezik a (7) bekezdés d) és e) pontjában meghatározottakról, a tényállás tisztázásához szükséges előre látható eljárási cselekményekről, hiánypótlásra hív fel, továbbá tájékoztatást ad a határidő túllépésének jogkövetkezményeiről.
+(13) Ha az (1) bekezdés szerinti döntés meghozatalának nincs helye, a hatóság az ügyet ez esetben is teljes eljárásban intézi el. A hatóság – szükség esetén – szakhatóságot keres meg, rendelkezik a (7) bekezdés d) és e) pontjában meghatározottakról, a tényállás tisztázásához szükséges előre látható eljárási cselekményekről, hiánypótlásra hív fel, továbbá tájékoztatást ad a határidő túllépésének jogkövetkezményeiről.

@@ -1,6 +1,6 @@
 ### 79. § [A hatósági tanú]
 
-(1) A hatóság a biztosítási intézkedés alkalmazása során, szemlénél, lefoglalásnál és hatósági ellenőrzésnél hatósági tanút vehet igénybe, aki az eljárási cselekmény során történt eseményeket és az általa tapasztalt tényeket igazolja. Hatósági tanúként való közreműködésre senki nem kötelezhető.
+(1) A hatóság a biztosítási intézkedés alkalmazása során, szemlénél, lefoglalásnál, zár alá vételnél és hatósági ellenőrzésnél hatósági tanút vehet igénybe, aki az eljárási cselekmény során történt eseményeket és az általa tapasztalt tényeket igazolja. Hatósági tanúként való közreműködésre senki nem kötelezhető.
 
 (2) Nem lehet hatósági tanú az ügyfél, az ügyfél hozzátartozója vagy képviselője, az eljáró hatósággal közszolgálati, illetve egyéb munkavégzésre irányuló jogviszonyban álló személy és az eljárási képességgel nem rendelkező személy.
 

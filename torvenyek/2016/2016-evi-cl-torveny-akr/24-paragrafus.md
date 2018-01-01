@@ -6,7 +6,7 @@
 
 (3) Ha az ügyfél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, vagy ugyanabban az eljárásban ugyanazon ügyintéző ellen ismételten alaptalan bejelentést tesz, őt a kizárást megtagadó végzésben eljárási bírsággal lehet sújtani.
 
-(4) Ha a kizárási ok a hatáskör gyakorlójával vagy a hatósággal szemben merül fel, az ügyben – jogszabály eltérő rendelkezése hiányában – a felügyeleti szerv vezetője által kijelölt másik azonos hatáskörű hatóság jár el.
+(4) Ha a kizárási ok a hatósággal szemben merül fel, az ügyben – jogszabály eltérő rendelkezése hiányában – a felügyeleti szerv vezetője által kijelölt másik azonos hatáskörű hatóság jár el.
 
 (5) Ha
 

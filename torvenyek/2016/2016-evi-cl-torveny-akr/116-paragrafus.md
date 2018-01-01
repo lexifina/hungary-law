@@ -51,3 +51,5 @@ d) ha nincs kijelölt másodfokú hatóság,
 e) nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított ügyben,
 
 f) ha a hatósági szerződés alapján végrehajtást rendeltek el.
+
+(5) A (2) bekezdésben foglalt esetekben sincs helye fellebbezésnek, ha törvény a fellebbezést kizárja.
