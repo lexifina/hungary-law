@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-369-20-
 | 2014-03-15 | 2004-369-20-22.8 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2004-369-20-22.9 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2017-01-01 | 2004-369-20-22.10 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2018-01-01 | 2004-369-20-22.11 | 351/2010. (XII. 30.) Korm. rendelet |
