@@ -1,0 +1,1 @@
+40/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a névjegyzék vezetésére, a névjegyzékbe történő felvétel iránti bejelentés benyújtására, a névjegyzékben szereplő adatok kezelésére vonatkozó részletes szabályokat.

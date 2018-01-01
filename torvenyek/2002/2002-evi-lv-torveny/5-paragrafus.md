@@ -14,6 +14,6 @@ b) van közvetítői tevékenység folytatására feljogosított tagja, vagy mun
 
 (3) A bejelentő a névjegyzékbe történő felvételért díjat köteles fizetni.
 
-(4) A természetes személy a miniszter rendeletében meghatározott módon köteles igazolni, hogy a közvetítői tevékenységhez szükséges elméleti és gyakorlati ismereteket a közvetítői szakmai képzés elvégzésével elsajátította.
+(4) A természetes személy a jogszabályban meghatározott módon köteles igazolni, hogy a közvetítői tevékenységhez szükséges elméleti és gyakorlati ismereteket a közvetítői szakmai képzés elvégzésével elsajátította.
 
-(5) Vizsgálat alapján történő törlés esetén a természetes személy és jogi személy a törlésről szóló határozat jogerőre emelkedésétől számított öt évig nem vehető fel a névjegyzékbe.
+(5) Vizsgálat alapján történő törlés esetén a természetes személy és jogi személy a törlésről szóló határozat véglegessé válásától számított öt évig nem vehető fel a névjegyzékbe.

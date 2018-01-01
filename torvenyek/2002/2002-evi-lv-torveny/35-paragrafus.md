@@ -12,7 +12,7 @@ d) a felek eltérő megállapodása hiányában a nyilatkozat aláírásának na
 
 (2) A közvetítő a felek együttes jelenlétében megkötött megállapodást a közvetítői eljárás lefolytatására választott nyelven írásba foglalja és a megállapodást tartalmazó okiratot a feleknek átadja. A megállapodást a közvetítő és az együttesen, személyesen jelen lévő felek aláírásukkal látják el. A megállapodás írásba foglalásának elmaradása esetén a megállapodás – részben vagy egészben – történő teljesítése a kötelező alakiság mellőzése miatti érvénytelenséget nem orvosolja.
 
-(3) Ha a közvetítői eljárásban jogtanácsos, közjegyző vagy ügyvéd vett részt közvetítőként, az eljárás során létrejött, írásba foglalt megállapodás alapján joghatás kiváltására alkalmas okiratot nem készíthet és a közvetítő jogtanácsosként vagy ügyvédként annak ellenjegyzésére sem jogosult.
+(3) Ha a közvetítői eljárásban közjegyző, ügyvéd vagy kamarai jogtanácsos vett részt közvetítőként, az eljárás során létrejött, írásba foglalt megállapodás alapján joghatás kiváltására alkalmas okiratot nem készíthet és a közvetítő ügyvédként vagy kamarai jogtanácsosként annak ellenjegyzésére sem jogosult.
 
 (4) Ha a megállapodásban névcsere, hibás név- vagy számelírás, számítási hiba vagy más hasonló elírás történt, a felek együttes kérelme alapján a közvetítő – a kérelem kézhezvételét követő – 15 napon belül kijavítja a megállapodást.
 

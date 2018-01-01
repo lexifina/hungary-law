@@ -4,7 +4,7 @@
 
 a) a közvetítői igazolvány kiadására vonatkozó szabályokat, valamint az igazolvány tartalmi elemeit és formai kellékeit,
 
-b) a névjegyzék vezetésére, a névjegyzékbe történő felvételi kérelem benyújtására, a közvetítő adatváltozás bejelentési kötelezettségére és a névjegyzékben szereplő adatok kezelésére vonatkozó részletes szabályokat,
+b)
 
 c) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe történő felvételi eljárás lefolytatásért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait,
 

@@ -14,7 +14,7 @@ e) közvetítői tevékenysége megkezdésének, szünetelésének, megszűnés�
 
 f) által megjelölt idegen nyelvet, amelyen közvetítést vállal,
 
-g) szakterületét, amelyet a kérelemben megjelölt,
+g) szakterületét, amelyet a bejelentésben megjelölt,
 
 h) irodájának címét,
 
