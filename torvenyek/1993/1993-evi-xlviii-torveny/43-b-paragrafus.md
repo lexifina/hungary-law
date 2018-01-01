@@ -1,43 +1,27 @@
-43/B. § (1) A bányafelügyelet eljárása során az ügyintézés határideje
+43/B. § (1) A szilárd ásványi nyersanyag esetében a bányatelek megállapítására indított eljárásban, a kutatási, kitermelési, szüneteltetési vagy bányabezárási, valamint mezőfelhagyási műszaki üzemi tervek jóváhagyására indult eljárásban, továbbá a bányafelügyelet építésügyi hatósági hatáskörébe tartozó engedélyezési eljárásokban a műszaki üzemi tervben tervezett bányászati tevékenységgel ténylegesen igénybe vett területekkel, valamint a létesítmény és biztonsági övezete területével érintett ingatlan tulajdonosa, továbbá az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
-a) a szén-dioxid geológiai tárolásával kapcsolatban
+(2) A bányatelek megállapítására indított eljárásban a megyei területrendezési tervekkel való összhang vonatkozásában a megyei önkormányzat ügyfélnek minősül.
 
-aa) a tárolás engedélyezésére vonatkozó eljárás során 70 nap,
+(3) Az e törvényben vagy az e törvény végrehajtására kiadott jogszabályban meghatározott hatásterületen lévő ingatlan tulajdonosa, és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
-ab) a bezárást követő időszakra vonatkozó terv elbírálására 45 nap,
+(4) A bányafelügyelet a kérelemre indult eljárásban az eljárás megindításáról – a kérelmező ügyfél kivételével – az ügyfeleket nyolc napon belül értesíti, kivéve, ha az eljárás megindítását követő nyolc napon belül dönt, az eljárást megszünteti vagy függő hatályú döntést hoz.
 
-b) a bányatelek megállapítására indított eljárás során 60 nap,
+(5) A bányafelügyelet hatósági eljárásaiban
 
-c) a kutatás engedélyezésére vonatkozó eljárás során 20 nap.
+a) az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható,
 
-(1a) A bányafelügyelet hatósági eljárásaiban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+b) az ügyfél köteles valamennyi olyan okiratot, amelynek benyújtására jogszabályi előírás kötelezi, eredetiben vagy hitelesített másolatban benyújtani, továbbá
 
-(2) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a bányafelügyelet a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.
+c) a döntés szóban nem közölhető.
 
-(3) A bányafelügyelet eljárásaiban hozott döntésekkel szembeni fellebbezést indokolni kell. Fellebbezni csak a megtámadott döntésre vonatkozóan, tartalmilag közvetlenül összefüggő okból, illetve csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre hivatkozva lehet.
+(6) A bányafelügyelet döntésének véglegessé válásától számított hat hónapos határidőn túl további ügyfél nem vehet részt az eljárásban.
 
-(3a) A bányafelügyeleti hatáskörében eljáró kormányhivatal bányászati szakigazgatási hatósági elsőfokú műszaki-biztonsági, munkavédelmi, építésügyi hatósági, építésfelügyeleti, bányászati tevékenység engedélyezésével és felügyeletével kapcsolatos, piacfelügyeleti és földtani hatáskörében, valamint a 44. § (1) bekezdés b)–o), q), s) és t) pontjában meghatározott ügyekben hozott döntéseivel szemben fellebbezésnek van helye.
+(7) Ha a bányafelügyelet engedélyezési eljárásaiban – ellenérdekű ügyfél hiányában – a szakhatóság az előírt határidőn belül nem ad állásfoglalást, a szakhatósági hozzájárulást megadottnak kell tekinteni.
 
-(4) A műszaki üzemi tervek jóváhagyására indított eljárásban e törvény alapján iratbetekintésre jogosult a műszaki üzemi tervben körülhatárolt terület 500 méteres környezetében lévő ingatlan tulajdonosa, továbbá az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
+(8) Megállapítható, hogy nincs ellenérdekű ügyfél, ha a kérelmező ügyfél benyújtotta az ügyben érintett összes ismert ügyfélnek a kérelmezett tevékenység végzéséhez történő hozzájáruló nyilatkozatát vagy a tevékenység végzését lehetővé tevő megállapodást.
 
-(5) Hivatalból indított eljárásban az ügyfél, a kérelemre indított eljárásban az ellenérdekű ügyfél a bányafelügyelet felhívására köteles közölni az érdemi döntéshez szükséges adatokat. Ha a teljesítés elmaradása a kötelezettnek felróható, a bányafelügyelet a kötelezettel szemben vagyoni helyzete és jövedelmi viszonyai vizsgálata nélkül eljárási bírságot szabhat ki.
+(9) A bányafelügyelet által adott engedély jogosítottjának polgári jog szerinti jogutódja az engedély alapján jogosított helyébe léphet, köteles azonban a jogutódlást – annak megfelelő igazolása mellett – az engedélyben meghatározott tevékenység megkezdése vagy folytatása előtt írásban a bányafelügyeletnek bejelenteni.
 
-(6) A bányafelügyelet
+(10) A bányafelügyelet hatósági eljárása során a székhelyén lakcímmel nem rendelkező természetes személyt vagy a székhellyel nem rendelkező jogi személy törvényes képviselőjét is idézheti székhelyére.
 
-a) a műszaki üzemi terv jóváhagyására irányuló határozatát munkavédelmi, környezet- vagy természetvédelmi okból, továbbá közérdekű közlekedési infrastruktúra kialakítása, illetve az energiaellátás folyamatos biztosítása érdekében,
-
-b) a 41. § (1)–(5) és (7) bekezdése alapján tevékenység eltiltására irányuló határozatát munkavédelmi, környezet- vagy természetvédelmi okból, továbbá közérdekű közlekedési infrastruktúra kialakítása, illetve az energiaellátás folyamatos biztosítása érdekében,
-
-c) a bányászati létesítmény környezetet veszélyeztető állapotának megszüntetésére irányuló határozatát munkavédelmi, környezet- vagy természetvédelmi okból, továbbá közérdekű közlekedési infrastruktúra kialakítása, illetve az energiaellátás folyamatos biztosítása érdekében,
-
-d) vezetékjog, használati jog alapítására irányuló határozatát közérdekű közlekedési infrastruktúra kialakítása, továbbá az energiaellátás folyamatos biztosítása érdekében,
-
-e) a bányászati hulladék kezelésével kapcsolatos döntését környezet- vagy természetvédelmi okból vagy a személy- és vagyonbiztonság érdekében
-
-f) a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavar és súlyos munkabaleset bejelentésének és vizsgálatának rendjéről szóló biztonsági szabályzat szerinti súlyos baleset és súlyos üzemzavar kivizsgálásáról szóló határozatát munkavédelmi, környezet- és természetvédelmi, továbbá az energiaellátás folyamatos biztosítása érdekében,
-
-g) az építésügyi hatáskörében hozott határozatát az energiaellátás folyamatos biztosítása érdekében,
-
-h) a biztonsági övezet megsértésével kapcsolatban hozott határozatát az energiaellátás folyamatos biztosítása érdekében
-
-fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
+(11) Ha az eljárás a hatásterületen lévő ingatlan tulajdonosát, vagy azt, akinek a jogát az ingatlan-nyilvántartásba bejegyezték, illetve több mint ötven ügyfelet érint – az eljárás megindításáról szóló értesítés, valamint az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a bányafelügyelet a döntéseit hirdetményi úton közli.

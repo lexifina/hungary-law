@@ -12,7 +12,7 @@
 
 (5) A törvény 9. §-ában megjelölt területek minősítéséről, a minősítések ötévenként történő felülvizsgálatáról és a koncesszióra jelölhető zárt területek közzétételéről a bányafelügyelet gondoskodik.
 
-(6) E törvény hatálybalépésekor bányászati joggal rendelkező gazdálkodó szervezetek [polgári perrendtartásról szóló 1952. évi III. törvény 396. §] és természetes személyek
+(6) E törvény hatálybalépésekor bányászati joggal rendelkező gazdálkodó szervezetek és természetes személyek
 
 a) a bányászati tevékenységet a művelés alatt álló bányáikban tovább folytathatják; valamint
 
@@ -53,3 +53,5 @@ c) a kiadott és érvényes kutatási engedélyükben meghatározott nyersanyagr
 (22) E törvénynek a Módtv2.-vel megállapított 26/A. § (6b) bekezdése szerinti egyéves határidőt a Módtv2. hatálybalépése előtt kijelölt új jogosítottak esetében a Módtv2. hatálybalépésének napját követő naptól kell számítani.
 
 (23) Az egyes energetikai tárgyú törvények módosításáról szóló 2015. évi CXCVI. törvénnyel megállapított 43. § (9c) bekezdése szerinti visszafizetést a Hivatal elsőként 2017. január 1-jét követően alkalmazza.
+
+(24) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.

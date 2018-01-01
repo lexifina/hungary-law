@@ -8,4 +8,4 @@
 
 (4) A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatás időtartama legfeljebb 4 év. Ha a kutatási tevékenység befejezéséhez az engedélyben meghatározott időtartam nem elegendő, a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély legfeljebb két évvel meghosszabbítható, feltéve hogy a tevékenységet az engedélynek megfelelően végezték.
 
-(5) A bányafelügyelet jogerős határozata alapján a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási tevékenység végzésére jogosított engedélyes helyébe jogutódja léphet.
+(5) A bányafelügyelet véglegessé vált határozata alapján a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási tevékenység végzésére jogosított engedélyes helyébe jogutódja léphet.

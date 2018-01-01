@@ -58,4 +58,4 @@ t) a vizek kártételei elleni védelem és védekezés célját szolgáló köz
 
 (6) Az 1. § (7) bekezdése szerinti tevékenységek jogszerűségének vizsgálata a bányafelügyelet hatáskörébe tartozik.
 
-(7) Polgári felhasználású robbanóanyag forgalmazását és polgári robbantási tevékenység végzését érintő eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(7) Polgári felhasználású robbanóanyag forgalmazását és polgári robbantási tevékenység végzését érintő eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.

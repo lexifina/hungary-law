@@ -8,7 +8,7 @@
 
 a) a kutatási terület esetében
 
-aa) a kutatást engedélyező határozat számát és jogerőre emelkedésének napját, kutatási jogadomány esetén a koncessziós szerződés iktatási számát és hatálybalépésének időpontját,
+aa) a kutatást engedélyező határozat számát és véglegessé válásának napját, kutatási jogadomány esetén a koncessziós szerződés iktatási számát és hatálybalépésének időpontját,
 
 ab) a kutatási terület közigazgatási megjelölését az érintett települések megnevezésével, valamint az egységes országos vetületi rendszer (a továbbiakban: EOV rendszer) szerinti koordinátákkal történő lehatárolását, a kutatási blokkok EOV rendszer szerinti koordinátákkal történő lehatárolását, a kutatási terület alap- és fedőlapját,
 
@@ -22,7 +22,7 @@ af) a kutatási jog visszavonása esetén, a kutatási jog megszűnésének napj
 
 b) a bányatelek esetében
 
-ba) a bányatelket megállapító határozat számát, jogerőre emelkedésének napját,
+ba) a bányatelket megállapító határozat számát, véglegessé válásának napját,
 
 bb) a bányatelek védnevét, jogosítottjának nevét és lakóhelyét, illetve megnevezését és székhelyét, határvonal töréspontjainak EOV rendszer szerinti koordinátáit, területét (felszíni vetületét), alap- és fedőlapját,
 
@@ -30,10 +30,10 @@ bc) a bányatelekben található ásványi nyersanyagok megnevezését, mennyis�
 
 bd) az ásványi nyersanyag kitermelésének módját,
 
-be) a bányatelket törlő határozat számát, jogerőre emelkedésének napját.
+be) a bányatelket törlő határozat számát, véglegessé válásának napját.
 
 (3b) A (3a) bekezdés szerinti nyilvántartás – a jogosítottjának neve és lakóhelye, illetve megnevezése és székhelye kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(4) A bányafelügyelet a bányatelket kérelemre módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező jogerős határozattal megkeresi az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett. A bányatelek módosítására a bányatelek megállapítására vonatkozó szabályokat kell megfelelően alkalmazni.
+(4) A bányafelügyelet a bányatelket kérelemre módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett. A bányatelek módosítására a bányatelek megállapítására vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(5) A bányavállalkozó kérelmére vagy hivatalból a bányatelket a bányafelügyelet a nyilvántartásból törli és erről az érintetteket értesíti, valamint a jogerős határozattal megkeresi az ingatlanügyi hatóságot a bányatelek ingatlan-nyilvántartásból történő törlése végett. A bányatelek volt jogosultjának kötelezettségei a bányakárok megtérítése, a tájrendezés és a biztonság, valamint a környezet- és természetvédelem tekintetében a bányatelek törlését követően is fennállnak.
+(5) A bányavállalkozó kérelmére vagy hivatalból a bányatelket a bányafelügyelet a nyilvántartásból törli és erről az érintetteket értesíti, valamint a véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a bányatelek ingatlan-nyilvántartásból történő törlése végett. A bányatelek volt jogosultjának kötelezettségei a bányakárok megtérítése, a tájrendezés és a biztonság, valamint a környezet- és természetvédelem tekintetében a bányatelek törlését követően is fennállnak.

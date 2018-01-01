@@ -36,7 +36,7 @@ m) az ásványvagyon-gazdálkodási célokat szolgáló, a szénhidrogén kutat�
 
 (4a) A bányafelügyelet kutatási engedélyt nem ad, bányatelket nem állapít meg, valamint az (1) bekezdés szerinti engedély iránti kérelmet – a bányabezárási és tájrendezési műszaki üzemi terv jóváhagyási kérelem kivételével – elutasítja, ha
 
-a) a kérelmezőnek koncessziós díj, bányajáradék, felügyeleti díj, jogerős és végrehajtható határozattal megállapított kiesett bányajáradék pótlására megállapított díj, térítési díj vagy bírság tartozása van, vagy
+a) a kérelmezőnek koncessziós díj, bányajáradék, felügyeleti díj, véglegessé vált határozattal megállapított kiesett bányajáradék pótlására megállapított díj, térítési díj vagy bírság tartozása van, vagy
 
 b) a kérelmező a bányajáradék bevallására vonatkozó kötelezettségét nem teljesítette.
 

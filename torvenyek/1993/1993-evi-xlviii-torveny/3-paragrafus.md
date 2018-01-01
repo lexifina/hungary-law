@@ -4,7 +4,7 @@
 
 Ebben az esetben az 1,4-szeres bányajáradék-összegnek
 
-a) az ásványi nyersanyag után keletkező érték 12%-át meghaladó részét a tulajdonba adásról rendelkező bányafelügyeleti határozat jogerőre emelkedését követő 60 napon belül,
+a) az ásványi nyersanyag után keletkező érték 12%-át meghaladó részét a tulajdonba adásról rendelkező bányafelügyeleti határozat véglegessé válását követő 60 napon belül,
 
 b) az ásványi nyersanyag után keletkező érték 12%-ának megfelelő részét a kitermeléskor
 

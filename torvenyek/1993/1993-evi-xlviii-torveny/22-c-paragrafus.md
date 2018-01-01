@@ -8,7 +8,7 @@
 
 (4) Az ismételt kutatást a kutatási műszaki üzemi terv jóváhagyását követő négy éven belül kell befejezni. Az ismételt kutatási időszak nem hosszabbítható meg.
 
-(5) A bányafelügyelet a bányatelket csökkenti annak a bányatelek résznek a területével, amelyre vonatkozóan a bányavállalkozó az (1)–(4) bekezdésben foglalt kötelezettséget neki felróható okból nem teljesíti, vagy az ismételt kutatási műszaki üzemi terv iránti kérelmet a bányafelügyelet elutasította –, és a döntés jogerős és végrehajtható.
+(5) A bányafelügyelet a bányatelket csökkenti annak a bányatelek résznek a területével, amelyre vonatkozóan a bányavállalkozó az (1)–(4) bekezdésben foglalt kötelezettséget neki felróható okból nem teljesíti, vagy az ismételt kutatási műszaki üzemi terv iránti kérelmet a bányafelügyelet elutasította –, és a döntés véglegessé vált.
 
 (6) E § alkalmazásában hatályos műszaki üzemi terv alapján üzemelő szénhidrogén mező az,
 

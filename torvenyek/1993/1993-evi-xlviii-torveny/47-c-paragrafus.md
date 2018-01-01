@@ -4,7 +4,7 @@
 
 a) az engedély nyilvántartási számát,
 
-b) az engedély iktatási számát, jogerőre emelkedésének és végrehajthatóságának időpontját,
+b) az engedély iktatási számát, véglegessé válásának időpontját,
 
 c) az anyagnyerő hely engedélyesének megnevezését, székhelyét,
 

@@ -1,12 +1,12 @@
-26/A. § (1) A bányavállalkozó a kutatási zárójelentést elfogadó határozat jogerőssé és végrehajthatóvá válásától számított 5 hónapon belül kezdeményezheti a bányatelek megállapítását, illetve a geotermikus védőidom kijelölését. Az 5 hónapos időtartamba nem számít bele a környezetvédelmi engedélyezési eljárás és a 23. § (1a) és (1b) bekezdése szerint tevékenység időtartama. A határidő elmulasztása esetén a bányavállalkozó bányatelek megállapításának, illetve geotermikus védőidom kijelölésének kezdeményezésére vonatkozó joga megszűnik.
+26/A. § (1) A bányavállalkozó a kutatási zárójelentést elfogadó határozat véglegessé válásától számított 5 hónapon belül kezdeményezheti a bányatelek megállapítását, illetve a geotermikus védőidom kijelölését. Az 5 hónapos időtartamba nem számít bele a környezetvédelmi engedélyezési eljárás és a 23. § (1a) és (1b) bekezdése szerint tevékenység időtartama. A határidő elmulasztása esetén a bányavállalkozó bányatelek megállapításának, illetve geotermikus védőidom kijelölésének kezdeményezésére vonatkozó joga megszűnik.
 
-(2) Bányatelek megállapítását jogszerűen megszerzett adattári adatok, új elméleti földtani értelmezés eredményei vagy bejelentés alapján végzett felszíni előkutatás adatai felhasználásával készített készletszámítási jelentés alapján is lehet kérelmezni. A készletszámítási jelentés alapján benyújtott kérelem esetén a bányafelügyelet felhívja a kérelmezőt – a kőolaj, földgáz, ideértve a szén-dioxid gáz ásványi nyersanyagra irányuló bányatelek megállapítás kivételével – a környezetvédelmi engedélyezési eljárás megindítására, és a környezetvédelmi engedélyezési eljárás jogerős lezárásáig a bányatelek megállapítási eljárást felfüggeszti.
+(2) Bányatelek megállapítását jogszerűen megszerzett adattári adatok, új elméleti földtani értelmezés eredményei vagy bejelentés alapján végzett felszíni előkutatás adatai felhasználásával készített készletszámítási jelentés alapján is lehet kérelmezni. A készletszámítási jelentés alapján benyújtott kérelem esetén a bányafelügyelet felhívja a kérelmezőt – a kőolaj, földgáz, ideértve a szén-dioxid gáz ásványi nyersanyagra irányuló bányatelek megállapítás kivételével – a környezetvédelmi engedélyezési eljárás megindítására, és a környezetvédelmi engedélyezési eljárás véglegessé vált döntéssel való lezárásáig a bányatelek megállapítási eljárást felfüggeszti.
 
 (3) Meghatározott ásványi nyersanyag feltárására és kitermelésére a bányafelügyelet a bányatelket akkor állapítja meg, ha a kérelmező
 
 a) kutatási adatokkal (kutatási zárójelentés vagy készletszámítási jelentés) igazolja, hogy a bányatelekkel lehatárolni kért lelőhely kitermelhető ásványinyersanyag-vagyonnal rendelkezik,
 
-b) szilárd ásványi nyersanyag feltárása és kitermelése esetében – a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendeletben meghatározott esetekben – a tevékenység végzéséhez szükséges környezetvédelmi, illetve egységes környezethasználati engedéllyel vagy a környezetvédelmi hatóság előzetes vizsgálati eljárást lezáró határozatával rendelkezik,
+b) szilárd ásványi nyersanyag feltárása és kitermelése esetében – a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendeletben meghatározott esetekben – a tevékenység végzéséhez szükséges környezetvédelmi, illetve egységes környezethasználati engedéllyel vagy a környezetvédelmi hatóság előzetes vizsgálati eljárást lezáró végleges határozatával rendelkezik,
 
 c) meghatározza az általa alkalmazni kívánt bányaművelési technológiát (mélyművelés, külfejtés, fúrólyukas kitermelés), és műszaki leírással igazolja a kitermelési feltételek teljesíthetőségét, valamint megjelöli a kitermelés ütemterv szerinti időpontját,
 
@@ -20,7 +20,7 @@ a) az üzemszerű kitermelés megkezdésére megállapított határidő lejárt�
 
 aa) a kitermelési határidő meghosszabbítását a bányafelügyeletnél nem kezdeményezi, vagy
 
-ab) a bányafelügyelet a meghosszabbítás iránti kérelmet jogerős döntésében elutasította és a döntés végrehajtható,
+ab) a bányafelügyelet a meghosszabbítás iránti kérelmet végleges döntésében elutasította,
 
 b) a térítésfizetési kötelezettségének határidőre nem tesz eleget, vagy
 
@@ -34,4 +34,4 @@ c) a gazdálkodó szervezet jogutód nélkül megszűnik.
 
 (7) A pályázatot a bányafelügyelet a honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben – szénhidrogének esetében az Európai Unió hivatalos lapjában is – meghirdeti.
 
-(8) Nem lehet a (6) bekezdés szerinti pályázaton meghirdetni az olyan bányatelket, amely a benne található ásványi nyersanyag tekintetében zárt területnek minősül. A bányatelket a bányászati jogot törlő határozat jogerőssé és végrehajthatóvá válását követően a bányafelügyelet a 26/B. § (5) bekezdése szerint hivatalból törli a nyilvántartásból.
+(8) Nem lehet a (6) bekezdés szerinti pályázaton meghirdetni az olyan bányatelket, amely a benne található ásványi nyersanyag tekintetében zárt területnek minősül. A bányatelket a bányászati jogot törlő határozat véglegessé válását követően a bányafelügyelet a 26/B. § (5) bekezdése szerint hivatalból törli a nyilvántartásból.

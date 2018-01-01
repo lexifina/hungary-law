@@ -16,11 +16,11 @@ az állami földtani feladatokat ellátó szervnek megküldeni.
 
 (3) Üzleti titokként kell kezelni
 
-a) a bányavállalkozó által a kutatás során szolgáltatott adatokat a kutatási jog megszűnéséig, de legkésőbb a bányatelek megállapítására irányuló kérelem jogerős elbírálásáig,
+a) a bányavállalkozó által a kutatás során szolgáltatott adatokat a kutatási jog megszűnéséig, de legkésőbb a bányatelek megállapítására irányuló kérelem tárgyában meghozott döntés véglegessé válásáig,
 
 b) a bányatelken belül a bányavállalkozó által szolgáltatott földtani adatokat a bányászati jog megszűnéséig, de legkésőbb az adatszolgáltatási kötelezettség időpontjától számított három évig,
 
-c) a földtani kutatás engedélyese által szolgáltatott adatokat az összefoglaló földtani jelentést elfogadó határozat jogerőre emelkedésétől számított egy évig,
+c) a földtani kutatás engedélyese által szolgáltatott adatokat az összefoglaló földtani jelentést elfogadó határozat véglegessé válásától számított egy évig,
 
 d) az együttes művelési tervhez szolgáltatott földtani adatokat, a 29. § (2) bekezdése szerinti műszaki üzemi terv teljesítési idejét követő három évig.
 

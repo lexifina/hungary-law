@@ -12,11 +12,11 @@ a) a kitermelés szüneteltetésének időtartama eléri a 6 évet,
 
 b) a bányavállalkozó a kiesett bányajáradék pótlására megállapított díjfizetési kötelezettségének felhívás ellenére határidőre nem tesz eleget vagy
 
-c) a bányavállalkozónak a szüneteltetést követő időszakra vonatkozó műszaki üzemi terv jóváhagyása iránti kérelmét – a bányabezárási és tájrendezési műszaki üzemi terv kivételével – a bányafelügyelet végrehajtható döntésben elutasította vagy az eljárást megszüntette.
+c) a bányavállalkozónak a szüneteltetést követő időszakra vonatkozó műszaki üzemi terv jóváhagyása iránti kérelmét – a bányabezárási és tájrendezési műszaki üzemi terv kivételével – a bányafelügyelet véglegessé vált döntésben elutasította vagy az eljárást megszüntette.
 
-(4a) A bányavállalkozó a bánya bezárását és a tájrendezés elvégzését elrendelő bányafelügyeleti határozat jogerőssé és végrehajthatóvá válásától számított 30 napon belül köteles a 42. § szerinti műszaki üzemi terv jóváhagyása iránti kérelmet benyújtani.
+(4a) A bányavállalkozó a bánya bezárását és a tájrendezés elvégzését elrendelő bányafelügyeleti határozat véglegessé válásától számított 30 napon belül köteles a 42. § szerinti műszaki üzemi terv jóváhagyása iránti kérelmet benyújtani.
 
-(5) Ha a bányavállalkozó a (4a) bekezdésben előírt kötelezettségét nem teljesíti vagy az általa benyújtott bányabezárási műszaki üzemi tervet a bányafelügyelet jogerős és végrehajtható határozatával elutasította, vagy az eljárást jogerősen megszüntette, a koncessziós szerződés alapján folytatott bányászati tevékenység esetén a koncessziós szerződés megszűnik, a bányafelügyeleti engedély alapján folytatott bányászati tevékenység esetén a bányafelügyelet törli a bányavállalkozó bányászati jogát.
+(5) Ha a bányavállalkozó a (4a) bekezdésben előírt kötelezettségét nem teljesíti vagy az általa benyújtott bányabezárási műszaki üzemi tervet a bányafelügyelet véglegessé vált határozatával elutasította, vagy az eljárást véglegessé vált döntéssel megszüntette, a koncessziós szerződés alapján folytatott bányászati tevékenység esetén a koncessziós szerződés megszűnik, a bányafelügyeleti engedély alapján folytatott bányászati tevékenység esetén a bányafelügyelet törli a bányavállalkozó bányászati jogát.
 
 (6) Ha az (5) bekezdés alapján
 

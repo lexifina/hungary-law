@@ -1,6 +1,6 @@
 ## Jogkövetkezmények
 
-42/W. § (1) A bányafelügyelet azt a természetes vagy jogi személyt, amely a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási tevékenységet kutatási engedély nélkül folytatja, bírsággal sújtja és elrendeli az eredeti állapot helyreállítását. A bányafelügyelet az eredeti állapot helyreállítását elrendelő határozatát munkavédelmi, környezet- vagy természetvédelmi okból fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
+42/W. § (1) A bányafelügyelet azt a természetes vagy jogi személyt, amely a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási tevékenységet kutatási engedély nélkül folytatja, bírsággal sújtja és elrendeli az eredeti állapot helyreállítását. A bányafelügyelet az eredeti állapot helyreállítását elrendelő határozatát munkavédelmi, környezet- vagy természetvédelmi okból azonnal végrehajthatónak nyilváníthatja.
 
 (2) Ha az üzemeltető a szén-dioxid geológiai tárolására irányuló tevékenységet tárolási engedély nélkül folytatja, a bányafelügyelet a tárolóhelyet haladéktalanul bezárja, és az üzemeltetőt bírság megfizetésére kötelezi.
 

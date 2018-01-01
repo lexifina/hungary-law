@@ -18,7 +18,7 @@
 
 (7) A koncessziós szerződésben az állam által vállalt kisajátítással kapcsolatban felmerült kiadásokat (kártalanítás, eljárási költségek stb.) a bányavállalkozó köteles viselni. A kiadások összegét a bányavállalkozó köteles a kisajátítási eljárásban az állam képviseletében eljáró szervezetnek megelőlegezni. Egyéb esetben a bányászati célból történő kisajátítást a bányavállalkozó harmadik személy kisajátítást kérőként kérheti, a kisajátítással kapcsolatos kártalanítást, költségeket a bányavállalkozó köteles megfizetni. A kisajátított ingatlan mindkét esetben az állam tulajdonába kerül, a kisajátított ingatlanon – a bányászati jogosultság időtartama alatt – a bányavállalkozót megilletik az ingatlan birtoklására és ingyenes használatára vonatkozó jogok.
 
-(8) A bányászati célú kisajátítás esetén a bányavállalkozó kisajátított ingatlanra vonatkozó használati jogát az ingatlanügyi hatóság a jogerős kisajátítási határozat alapján jegyzi be az ingatlan-nyilvántartásba.
+(8) A bányászati célú kisajátítás esetén a bányavállalkozó kisajátított ingatlanra vonatkozó használati jogát az ingatlanügyi hatóság a véglegessé vált kisajátítási határozat alapján jegyzi be az ingatlan-nyilvántartásba.
 
 (9) Ha a bányászati célú kisajátítás feltételei állami tulajdonban álló ingatlan tekintetében állnak fenn, akkor az ingatlan tekintetében szolgalomalapítási eljárást kell lefolytatni a bányavállalkozó kérelmére attól függetlenül, hogy a bányászati célú igénybevétel az ingatlan rendeltetésszerű használatát kizárja.
 

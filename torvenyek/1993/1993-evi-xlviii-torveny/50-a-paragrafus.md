@@ -84,7 +84,9 @@ m) az Európai Bizottság számára megküldendő jelentés előkészítésére 
 
 29. a nyugdíjas bányászok szénjárandóságának pénzbeli megváltására,
 
-30. a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges anyagnyerő hely engedélyezésére, az engedély iránti kérelem tartalmi követelményeire, a komplex műveleti terv tartalmára, az anyagnyerő hely létesítéséhez szükséges biztosítékokra, az anyagnyerő hely megszüntetésére irányuló kérelem tartalmi követelményeire, a bírság mértékére
+30. a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges anyagnyerő hely engedélyezésére, az engedély iránti kérelem tartalmi követelményeire, a komplex műveleti terv tartalmára, az anyagnyerő hely létesítéséhez szükséges biztosítékokra, az anyagnyerő hely megszüntetésére irányuló kérelem tartalmi követelményeire, a bírság mértékére,
+
+31. a bányászati hatósági feladatokat ellátó szervek által – közigazgatási hatósági hatáskörében eljárva – alkalmazandó kiegészítő eljárási szabályokra
 
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
@@ -128,7 +130,7 @@ rendeletben történő megállapítására.
 
 (3) Felhatalmazást kap
 
-a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a felügyeleti díj fizetésének, beszedésének, kezelésének és nyilvántartásának szabályait, az igazgatási szolgáltatási díjak és a jogszabályban meghatározható egyéb eljárási költségek körét, mértékét és beszedésének, kezelésének, megosztásának, nyilvántartásának szabályait rendeletben állapítsa meg,
+a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a felügyeleti díj fizetésének, beszedésének, kezelésének és nyilvántartásának szabályait, az igazgatási szolgáltatási díjak körét, mértékét és beszedésének, kezelésének, megosztásának, nyilvántartásának szabályait rendeletben állapítsa meg,
 
 b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 

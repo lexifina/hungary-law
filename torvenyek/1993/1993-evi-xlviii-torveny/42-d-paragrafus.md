@@ -6,4 +6,4 @@
 
 (3) A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházható, amelyhez a bányafelügyelet hozzájárulása szükséges. A kérelmet az átvevőnek kell benyújtania a bányafelügyelethez.
 
-(4) A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházására irányuló szerződés a bányafelügyelet hozzájáruló határozatának jogerőssé és végrehajthatóvá válásának napján válik hatályossá. A bányafelügyelet a hozzájáruló határozatának meghozatalával egyidejűleg módosítja a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedélyben az engedélyes személyét.
+(4) A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházására irányuló szerződés a bányafelügyelet hozzájáruló határozatának véglegessé válásának napján válik hatályossá. A bányafelügyelet a hozzájáruló határozatának meghozatalával egyidejűleg módosítja a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedélyben az engedélyes személyét.
