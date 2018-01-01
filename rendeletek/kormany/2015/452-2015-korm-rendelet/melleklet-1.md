@@ -1,10 +1,10 @@
-## 11. §[^21] A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2015. (XII. 28.) Korm. rendelet módosításáról szóló 124/2017. (VI. 7.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 6/C. §-t a Módr3. hatálybalépésekor[^22] folyamatban lévő ügyekben is alkalmazni kell.
+## 11. §[^23] A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2015. (XII. 28.) Korm. rendelet módosításáról szóló 124/2017. (VI. 7.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 6/C. §-t a Módr3. hatálybalépésekor[^24] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 452/2015. (XII. 28.) Korm. rendelethez
 
 ## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
-1.[^23] építésügyi engedélyezési és tudomásulvételi eljárások,
+1.[^25] építésügyi engedélyezési és tudomásulvételi eljárások,
 
 2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -30,7 +30,7 @@
 
 13. vasúti hatósági eljárások,
 
-13a.[^24] hajózási hatósági eljárások,
+13a.[^26] hajózási hatósági eljárások,
 
 14. ingatlan-nyilvántartással összefüggő hatósági eljárások,
 
@@ -50,7 +50,7 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^21]: A 11. §-t a 124/2017. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
-[^22]: A hatálybalépés időpontja 2017. június 8.
-[^23]: Az 1. melléklet 1. pontja a 113/2017. (V. 2.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^24]: Az 1. melléklet 13a. pontját a 163/2016. (VI. 17.) Korm. rendelet 5. §-a iktatta be.
+[^23]: A 11. §-t a 124/2017. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2017. június 8.
+[^25]: Az 1. melléklet 1. pontja a 113/2017. (V. 2.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^26]: Az 1. melléklet 13a. pontját a 163/2016. (VI. 17.) Korm. rendelet 5. §-a iktatta be.
