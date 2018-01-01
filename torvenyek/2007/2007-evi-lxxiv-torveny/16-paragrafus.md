@@ -1,6 +1,6 @@
 ## Műsorszórásra felosztott frekvenciák rádióengedélye
 
-16. § (1) A Hatóság a műsorszóró adó rádióengedélyét a 15. § szerinti jogerős frekvenciakijelölésben foglaltak teljesítése esetén adja ki.
+16. § (1) A Hatóság a műsorszóró adó rádióengedélyét a 15. § szerinti végleges frekvenciakijelölésben foglaltak teljesítése esetén adja ki.
 
 (2) A műsorszóró adó rádióengedélye tartalmazza:
 
