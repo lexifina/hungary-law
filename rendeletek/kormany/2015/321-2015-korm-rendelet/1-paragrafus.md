@@ -14,4 +14,7 @@
 
 (6) A közbeszerzési műszaki leírást a VII. Fejezetnek megfelelően kell összeállítani.
 
+(7)[^2] A kizáró okokra és az alkalmassági követelményekre vonatkozóan a közbeszerzés megkezdését megelőzően kiállított igazolások is benyújthatóak (felhasználhatóak) mindaddig, ameddig az igazolásokban foglalt tény, illetve adat tartalma valós. Az ajánlatkérő – ellenkező bizonyításig – az adat valóságtartalmát az ajánlattevő erre vonatkozó külön nyilatkozata nélkül vélelmezi.
+
 [^1]: Az 1. § (1) bekezdése a 487/2016. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (7) bekezdését a 481/2017. (XII. 28.) Korm. rendelet 11. §-a iktatta be.

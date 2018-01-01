@@ -3,3 +3,7 @@
 (2) Ha egy ajánlattevő vagy részvételre jelentkező az előírt alkalmassági követelményeknek más szervezet vagy személy kapacitásaira támaszkodva kíván megfelelni, az érintett szervezetek vagy személyek mindegyike által kitöltött és aláírt külön formanyomtatványokat is benyújtja. Ilyen esetben a kapacitásaikat rendelkezésre bocsátó szervezetek vagy személyek az alkalmassági feltételek vonatkozásában csak azokról nyilatkoznak, amelyeket az ajánlattevő vagy részvételre jelentkező igénybe kíván venni alkalmasságának igazolásához.
 
 (3) Közös ajánlattétel vagy részvételi jelentkezés esetén a közös ajánlattevők vagy részvételre jelentkezők mindegyike külön formanyomtatványt nyújt be.
+
+(3a)[^5] Amennyiben az egységes európai közbeszerzési dokumentumot az ajánlatkérő a Miniszterelnökség által üzemeltetett, egységes, elektronikus közbeszerzési rendszerben elektronikus űrlapként bocsátja a gazdasági szereplők rendelkezésére, a közös ajánlattevők vagy részvételre jelentkezők képviseletében a nyilatkozatot az ajánlatot vagy részvételi jelentkezést benyújtó gazdasági szereplő teszi meg.
+
+[^5]: A 3. § (3a) bekezdését a 481/2017. (XII. 28.) Korm. rendelet 12. §-a iktatta be.
