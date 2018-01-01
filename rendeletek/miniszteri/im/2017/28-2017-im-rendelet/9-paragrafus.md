@@ -1,0 +1,3 @@
+9. § (1) A félnek minden vagyonáról – így különösen: készpénz, pénzügyi intézménnyel szemben fennálló követelés, értékpapír, ingó vagyontárgy, követelés, vagyoni értékű jog – nyilatkoznia kell, kivéve a szokásos életszükségleti és berendezési tárgyakat, valamint az olyan összegű készpénzt vagy pénzügyi intézménnyel szemben fennálló követelést, amely a bírósági végrehajtásról szóló törvény szerint mentes a végrehajtás alól.
+
+(2) Szokásos életszükségleti és berendezési tárgynak kell tekinteni a gépjármű kivételével különösen azt az ingóságot, amely a bírósági végrehajtásról szóló törvény szerint mentes a végrehajtás alól.

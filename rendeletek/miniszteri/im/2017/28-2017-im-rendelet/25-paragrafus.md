@@ -1,0 +1,1 @@
+## 24. § Ha a fél a 23. § (1) bekezdésében nem szereplő okból kéri másik pártfogó ügyvéd meghatalmazásának engedélyezését, a kérelme csak akkor teljesíthető, ha a pártfogó ügyvédi képviselet ellátásának elháríthatatlan akadálya van.
