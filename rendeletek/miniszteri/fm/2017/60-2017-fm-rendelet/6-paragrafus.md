@@ -1,0 +1,3 @@
+## 5. § Az Inyvhr. 39/B. §-a helyébe a következő rendelkezés lép:
+
+## „39/B. § Az ingatlan-nyilvántartási eljárás felfüggesztése tényének tulajdoni lapra történő feljegyzésekor annak időtartamát is fel kell tüntetni, vagy utalni kell arra, hogy a felfüggesztés az eljáró hatóság döntésének jogerőssé, illetve véglegessé válásáig tart. Az ingatlan-nyilvántartási eljárás felfüggesztése tényének törléséről a járási hivatalnak legkésőbb a feljegyzésben meghatározott időpontban, vagy az eljáró hatóság jogerős, illetve végleges döntésének a járási hivatalhoz történő beérkezését követően hozott döntésében kell rendelkeznie.”
