@@ -1,6 +1,6 @@
-## Igazságügyi orvostani vizsgálat[^2]
+## Igazságügyi orvostani vizsgálat[^3]
 
-16/A. §[^3] (1) Ha a szakkérdés
+16/A. §[^4] (1) Ha a szakkérdés
 
 a) sérülések gyógytartamának, keletkezési módjának megállapítására,
 
@@ -22,5 +22,5 @@ irányul, igazságügyi orvostani szakértői vizsgálatot kell végezni.
 
 (5) A (2) és (4) bekezdésben megjelölt klinikai szakkérdés vizsgálatát – a kirendelő rendelkezésének megfelelően – szakkonzultáns is elvégezheti.
 
-[^2]: A 16/A. §-t megelőző alcímet a 31/2012. (VI. 29.) KIM rendelet 16. § (2) bekezdése iktatta be.
-[^3]: A 16/A. §-t a 31/2012. (VI. 29.) KIM rendelet 16. § (2) bekezdése iktatta be.
+[^3]: A 16/A. §-t megelőző alcímet a 31/2012. (VI. 29.) KIM rendelet 16. § (2) bekezdése iktatta be.
+[^4]: A 16/A. §-t a 31/2012. (VI. 29.) KIM rendelet 16. § (2) bekezdése iktatta be.
