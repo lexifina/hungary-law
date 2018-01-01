@@ -1,8 +1,8 @@
-40. § (1) Ha jogszabály a fenntartói irányítás körébe tartozó valamely döntés meghozatalát előzetes vélemény, egyetértés, szakvélemény beszerzéséhez köti, az ennek elmulasztásával hozott döntés megtámadható. A sikeresen megtámadott döntés a meghozatalának időpontjától kezdődő hatállyal érvénytelenné válik. Megtámadásra a sérelmet szenvedett fél és az jogosult, akinek a megtámadáshoz törvényes érdeke fűződik. A megtámadást három hónapon belül írásban kell közölni, majd a közlés eredménytelensége esetében tizenöt napon belül érvényesíteni. Az érvénytelenség megállapítását a bíróságnál, települési önkormányzati fenntartó esetében a köznevelési feladatokat ellátó hatóságnál lehet kezdeményezni. A három hónapos határidő a döntésnek az érdekelt részére történő közlésének napján kezdődik. Ha ez a nap nem állapítható meg, a közlés napja a döntés meghozatalát követő tizenötödik munkanap. A megtámadáshoz biztosított határidő jogvesztő, igazolásnak helye nincs.
+40. § (1) Ha jogszabály a fenntartói irányítás körébe tartozó valamely döntés meghozatalát előzetes vélemény, egyetértés, szakvélemény beszerzéséhez köti, az ennek elmulasztásával hozott döntést a sérelmet szenvedett fél és az, akinek a megtámadáshoz törvényes érdeke fűződik közigazgatási perben megtámadhatja. A megtámadást három hónapon belül írásban kell közölni, majd a közlés eredménytelensége esetében tizenöt napon belül érvényesíteni. A három hónapos határidő a döntésnek az érdekelt részére történő közlésének napján kezdődik. Ha ez a nap nem állapítható meg, a közlés napja a döntés meghozatalát követő tizenötödik munkanap. A megtámadásra biztosított határidő jogvesztő, igazolásnak helye nincs. A keresetlevelet a bíróságnál, települési önkormányzati fenntartó esetében a köznevelési feladatokat ellátó hatóságnál kell benyújtani.
 
 (2) Az érvénytelenség megállapítása a jóhiszeműen szerzett és gyakorolt jogokat nem érinti.
 
-(3) Érvénytelenség megállapítása esetén a köznevelési feladatokat ellátó hatóság, a bíróság
+(3) Érvénytelenség megállapítása esetén aa közigazgatási ügyben eljáró bíróság
 
 a) elrendelheti
 
@@ -14,4 +14,4 @@ ac) a jogsértő költségén a jogsértés előtti állapot helyreállítását
 
 b) meghatározott időre vagy feltételek teljesítéséig megtilthatja adott nevelési-oktatási intézmény vagy annak tagintézménye tekintetében az új óvodai nevelési jogviszony, tanulói jogviszony, kollégiumi tagsági viszony létesítését, feltéve, hogy a településen másik intézményben megoldható az érintett gyermekek, tanulók felvétele.
 
-(4) Az érvénytelen döntés érvényessé nyilvánítható, ha az érvénytelenség oka megszüntethető.
+(4)

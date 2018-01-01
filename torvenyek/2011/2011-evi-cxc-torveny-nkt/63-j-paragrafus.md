@@ -14,7 +14,7 @@
 
 (8) Amennyiben olyan tag ellen indul etikai eljárás, aki a Karban tisztséget tölt be, az etikai eljárás megindításával egyidejűleg e tisztségének gyakorlása alól fel kell függeszteni az érdemi döntés meghozataláig.
 
-(9) Az etikai eljárásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény III., IV. és VII. Fejezeteinek rendelkezéseit kell megfelelően alkalmazni azzal, hogy az eljárás során legalább egy tárgyalás tartása és az eljárás alá vont tag meghallgatása kötelező.
+(9) Az etikai eljárásra – e törvény eltérő rendelkezése hiányában – az általános közigazgatási rendtartásról szóló törvény III., IV. és IX. Fejezetének rendelkezéseit kell megfelelően alkalmazni azzal, hogy az eljárás során legalább egy tárgyalás tartása és az eljárás alá vont tag meghallgatása kötelező.
 
 (10) Az etikai vétséget elkövető taggal szemben az etikai eljárást lefolytató testület a következő intézkedéseket hozhatja:
 
@@ -26,10 +26,10 @@ c) a Karban betöltött tisztségtől való megfosztás.
 
 (11) A (10) bekezdés b) és c) pontjában meghatározott intézkedések időbeli hatálya legfeljebb öt év lehet.
 
-(12) A Területi Etikai Bizottság határozatával szemben a fellebbezést az Országos Etikai Bizottsághoz kell benyújtani, az elsőfokú határozat kézhezvételét követő tizenöt napon belül. A fellebbezés alapján az Országos Etikai Bizottság folytatja le a másodfokú eljárást. Az Országos Etikai Bizottság döntése ellen a határozat kézhezvételét követő tizenöt napon belül a munkahely székhelye szerint illetékes bírósághoz lehet fordulni.
+(12) A Területi Etikai Bizottság határozatával szemben a fellebbezést az Országos Etikai Bizottsághoz kell benyújtani, az elsőfokú határozat kézhezvételét követő tizenöt napon belül. A fellebbezés alapján az Országos Etikai Bizottság folytatja le a másodfokú eljárást. Az Országos Etikai Bizottság döntése ellen a határozat kézhezvételét követő tizenöt napon belül a közigazgatási ügyben eljáró bírósághoz lehet fordulni.
 
 (13) A másodfokú eljárás lefolytatására az elsőfokú eljárásra vonatkozó szabályokat kell alkalmazni.
 
-(14) Az etikai eljárás eredményéről az eljárás jogerős befejezését követően a Területi Etikai Bizottság a határozat megküldésével tájékoztatja a munkáltatót. Ha a közalkalmazott bírósághoz fordult, a határozatot a munkáltató részére a bírósági eljárás jogerős befejezését követően lehet megküldeni.
+(14) Az etikai eljárás eredményéről az eljárás végleges befejezését követően a Területi Etikai Bizottság a határozat megküldésével tájékoztatja a munkáltatót. Ha a közalkalmazott bírósághoz fordult, a határozatot a munkáltató részére a bírósági eljárás jogerős befejezését követően lehet megküldeni.
 
 (15) A választott szakszervezeti tisztséget betöltő közalkalmazottal szembeni etikai eljárás megindításakor a közvetlen felsőbb szakszervezeti szervet tájékoztatni kell.

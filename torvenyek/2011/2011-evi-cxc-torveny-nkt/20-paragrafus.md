@@ -14,7 +14,7 @@ e) általános művelődési központ,
 
 f) egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmény (a továbbiakban: EGYMI),
 
-g) a szakképzési törvény szerinti szakképzési centrum.
+g) a szakképzésről szóló törvény szerinti szakképzési centrum.
 
 (2) Többcélú intézmény akkor létesíthető, ha a létesítés és a működés anyagi, tárgyi, technikai és személyi feltételei valamennyi feladat ellátásához biztosítva vannak.
 

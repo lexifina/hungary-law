@@ -4,4 +4,4 @@
 
 (3) A köznevelési feladatokat ellátó hatóság a törvényességi ellenőrzés körében – megfelelő határidő biztosításával – felhívja a fenntartót a törvénysértés megszüntetésére. Ha a fenntartó a megadott határidőn belül nem intézkedett, a köznevelési feladatokat ellátó hatóság a köznevelési intézményt törli a nyilvántartásból.
 
-(4) A köznevelési feladatokat ellátó hatóság törvényességi ellenőrzési eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó szabályait kell megfelelően alkalmazni.
+(4) A köznevelési feladatokat ellátó hatóság törvényességi ellenőrzési eljárására az általános közigazgatási rendtartásról szóló törvény hatósági ellenőrzésre vonatkozó szabályait kell megfelelően alkalmazni.

@@ -30,13 +30,13 @@ f) az alapfokú művészeti iskolában, ha kiskorú tanuló esetén a szülő va
 
 g) a tankötelezettség megszűnése után – ha a szülő a tanuló egyetértésével, nagykorú tanuló esetén a tanuló írásban bejelenti, hogy kimarad –, a bejelentés tudomásulvételének napján,
 
-h) ha a tanuló tanulói jogviszonyát – a tanköteles tanuló kivételével – fizetési hátralék miatt az igazgató a szülő, nagykorú tanuló esetén a tanuló eredménytelen felszólítása és a tanuló szociális helyzetének vizsgálata után megszünteti, a megszüntetés tárgyában hozott döntés jogerőre emelkedésének napján.
+h) ha a tanuló tanulói jogviszonyát – a tanköteles tanuló kivételével – fizetési hátralék miatt az igazgató a szülő, nagykorú tanuló esetén a tanuló eredménytelen felszólítása és a tanuló szociális helyzetének vizsgálata után megszünteti, a megszüntetés tárgyában hozott döntés véglegessé válásának napján.
 
 (3) A (2) bekezdés h) pontjában foglalt rendelkezés nem alkalmazható, ha a tanuló hátrányos helyzetű.
 
 (4) Megszűnik a tanuló tanulói jogviszonya – a tanköteles tanuló kivételével – ha az iskola kötelező foglalkozásairól a jogszabályban meghatározott időnél igazolatlanul többet mulasztott.
 
-(5) Megszűnik a tanulói jogviszony a kizárás az iskolából fegyelmi határozat jogerőre emelkedésének napján.
+(5) Megszűnik a tanulói jogviszony a kizárás az iskolából fegyelmi határozat véglegessé válásának napján.
 
 (6) Az iskola a tanítási év utolsó napján egyoldalú nyilatkozattal is megszüntetheti annak a tanulónak a tanulói jogviszonyát, aki nem tanköteles, ha ugyanannak az évfolyamnak a tanulmányi követelményeit második alkalommal nem teljesítette. Az iskolai tanítási év utolsó napján megszüntethető egyoldalú nyilatkozattal annak a tanulónak a tanulói jogviszonya is, aki a nappali rendszerű iskolai oktatásban nem vehet részt, feltéve, hogy az iskolában nincs felnőttoktatás, vagy a tanuló abban nem kíván részt venni.
 
@@ -46,9 +46,9 @@ h) ha a tanuló tanulói jogviszonyát – a tanköteles tanuló kivételével �
 
 a) az 52. § (4) bekezdésben meghatározott esetben a tanulói jogviszony megszűnésével, egyébként a tanév végén,
 
-b) a kollégiumból kizáró fegyelmi határozat jogerőre emelkedésével,
+b) a kollégiumból kizáró fegyelmi határozat véglegessé válásával,
 
-c) ha a tanuló kollégiumi tagságát fizetési hátralék miatt az igazgató – a szülő, nagykorú tanuló esetében a tanuló eredménytelen felszólítása és a tanuló szociális helyzetének vizsgálata után – megszünteti, a megszűnés tárgyában hozott döntés jogerőre emelkedésének napján,
+c) ha a tanuló kollégiumi tagságát fizetési hátralék miatt az igazgató – a szülő, nagykorú tanuló esetében a tanuló eredménytelen felszólítása és a tanuló szociális helyzetének vizsgálata után – megszünteti, a megszűnés tárgyában hozott döntés véglegessé válásának napján,
 
 d) ha a tanuló, kiskorú tanuló esetén a szülő a tanuló kollégiumi tagságáról írásban lemond, a nyilatkozatban megjelölt napon,
 

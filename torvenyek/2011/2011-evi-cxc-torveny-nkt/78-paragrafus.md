@@ -34,7 +34,7 @@ k) évenként országos és térségi mérési, értékelési feladatok elrendel
 
 (9) Az oktatásért felelős miniszter – ha enélkül a szükséges intézkedés megtételére nincs lehetőség – az (1) bekezdés b) pontjában foglalt rendkívüli intézkedései során a vizsgaszabályzatban, valamint a tanév rendjében foglaltaktól – az adott ügy elintézéséhez szükséges mértékben – eltérő módon is eljárhat. Az oktatásért felelős miniszter döntését három munkanapon belül meghozza és közzéteszi. Az oktatásért felelős miniszter intézkedése a közzététel után azonnal végrehajtható. Az oktatásért felelős miniszter intézkedését elektronikus úton is közzéteheti.
 
-(10) Az oktatásért felelős miniszter – a vizsgaszabályzatról szóló rendeletben meghatározott feltételek fennállása esetén a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben szabályozott eljárás keretében –
+(10) Az oktatásért felelős miniszter – a vizsgaszabályzatról szóló rendeletben meghatározott feltételek fennállása esetén az általános közigazgatási rendtartásról szóló törvényben szabályozott eljárás keretében –
 
 a) megvonhatja az iskolától az érettségi vizsga, a szakmai vizsga megszervezésének, lebonyolításának jogát,
 

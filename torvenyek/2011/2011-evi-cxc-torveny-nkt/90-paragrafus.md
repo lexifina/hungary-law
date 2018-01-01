@@ -8,6 +8,8 @@
 
 (4) Ha a működés helye szerinti állam belső joga vagy nemzetközi szerződés ezt lehetővé teszi, magyar köznevelési intézmény külföldön az oktatásért felelős miniszter engedélyével alapítható. Ha a magyar nevelési-oktatási intézmény székhelye külföldön, magyar külképviseleten van, az oktatásért felelős miniszter veszi nyilvántartásba, és ellátja a törvényességi ellenőrzéssel kapcsolatos feladatokat.
 
+(4a) Ha a működés helye szerinti állam belső joga vagy nemzetközi szerződés ezt lehetővé teszi, Magyarországon működő magyar szakképző iskola tagintézménye külföldön folytathat nevelési-oktatási, szakképzési tevékenységet és ehhez kapcsolódóan kollégiumi ellátást az oktatásért felelős miniszter engedélyével és a szakképzésért és felnőttképzésért felelős miniszter, valamint az érintett szakképesítésért felelős miniszter egyetértésével. A tagintézmény nyilvántartásba vételére a (4) és (5) bekezdésben foglaltakat kell alkalmazni. A köznevelési intézmény felett a 79. § (2) bekezdése szerinti hatósági ellenőrzési jogkört az érintett szakképesítésért felelős miniszter gyakorolja.
+
 (5) A külföldön működő magyar nevelési-oktatási intézmény létesítéséhez és működéséhez adott engedélyben meg kell határozni az alapítás és működés feltételeit. A külföldön működő magyar nevelési-oktatási intézményt az oktatásért felelős miniszter nyilvántartásba veszi és gyakorolja a 34. § (2) bekezdésében meghatározott jogköröket.
 
 (6) Az a külföldi köznevelési intézmény, amelyet abban az államban, ahonnan származik, nevelési-oktatási intézménynek nem ismerték el, Magyarország területén csak akkor működhet, ha az oktatásért felelős miniszter nyilvántartásba vette.
