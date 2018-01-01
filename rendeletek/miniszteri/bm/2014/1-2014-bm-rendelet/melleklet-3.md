@@ -1,4 +1,4 @@
-3. melléklet az 1/2014. (I. 10.) BM rendelethez[^17]
+3. melléklet az 1/2014. (I. 10.) BM rendelethez[^19]
 
 1. Az általános rendőrségi feladatok ellátására létrehozott szervnél rendszeresített azon szolgálati beosztások, illetve azon szolgálati feladatok, amelyek esetében a kötelező védőoltás elrendelésének van helye
 
@@ -388,4 +388,4 @@ A Nemzetbiztonsági Szakszolgálatnál kötelező védőoltás elrendelésének 
 
 5. azon szolgálati beosztást betöltők esetében, akik járványügyi kockázatnak kitett külföldi személyekkel személyes találkozással járó kapcsolatot tartanak.
 
-[^17]: A 3. melléklet a 19/2017. (VIII. 10.) BM rendelet 3. §-ával megállapított szöveg.
+[^19]: A 3. melléklet a 19/2017. (VIII. 10.) BM rendelet 3. §-ával megállapított szöveg.

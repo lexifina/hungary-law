@@ -1,4 +1,4 @@
-## 9. [^8] A hivatásos állomány vonatkozásában a szolgálati beosztáshoz, illetve szolgálati feladatokhoz kapcsolódó kötelező védőoltások
+## 9. [^10] A hivatásos állomány vonatkozásában a szolgálati beosztáshoz, illetve szolgálati feladatokhoz kapcsolódó kötelező védőoltások
 
 13. § (1) Ha a szolgálati beosztáshoz vagy egyes szolgálati feladatokhoz kapcsolódóan a hivatásos állomány tagjának vagy egyes csoportjainak egészségét, biztonságát veszélyeztető biológiai kockázat áll fenn, a hivatásos állomány veszélyeztetett munkakörben dolgozó vagy veszélyeztetett szolgálati feladatot ellátó tagját a kockázat csökkentése érdekében megfelelő védőoltásban kell részesíteni. A 3. melléklet tartalmazza azokat a rendvédelmi szerveknél rendszeresített szolgálati beosztásokat vagy szolgálati feladatokat, ahol a (2) bekezdésben meghatározott megbetegedések megelőzése érdekében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 102. § (4) bekezdésében meghatározott rendben kötelező védőoltás elrendelésének van helye, valamint speciális védelmi intézkedések szükségesek.
 
@@ -28,4 +28,4 @@ javasolja a kötelező védőoltás elrendelését.
 
 (4) A rendészeti szakgimnáziumba vagy rendvédelmi szervhez történő jelentkezés esetén oltási könyv bemutatása szükséges.
 
-[^8]: A 9. alcím (13–14/A. §) a 19/2017. (VIII. 10.) BM rendelet 2. §-ával megállapított szöveg.
+[^10]: A 9. alcím (13–14/A. §) a 19/2017. (VIII. 10.) BM rendelet 2. §-ával megállapított szöveg.
