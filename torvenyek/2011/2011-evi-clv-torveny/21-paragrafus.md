@@ -2,4 +2,4 @@
 
 (2) Az alaprészből kifizetések az adott naptári évben csak a ténylegesen befolyt bevételek erejéig teljesíthetők.
 
-(3) Tárgyéven túli fizetési kötelezettséget a szakképzésért és felnőttképzésért felelős miniszter az alaprész 40 százaléka mértékéig vállalhat.
+(3)

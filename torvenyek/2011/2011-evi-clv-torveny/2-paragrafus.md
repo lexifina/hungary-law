@@ -16,7 +16,7 @@ f) a személyi jövedelemadóról szóló törvényben meghatározott egyéni v�
 
 g) egyéni cég,
 
-h) a szakképzésről szóló törvény 43. § (2) bekezdés a) és c) pontjában meghatározott, tanulószerződés alapján gyakorlati képzést folytató egyéb szervezet (a továbbiakban: Szt. szerinti egyéb szervezet), ha az állami adóhatóságnak az erre a célra rendszeresített nyomtatványon bejelenti, hogy a szakképzési hozzájárulást az 5. § a) pont ab) alpontja szerint teljesíti, a választás bejelentését követő hónap első napjától.
+h) a szakképzésről szóló törvény 43. § (2) bekezdés a)–c) pontjában meghatározott egyéb szerv, szervezet (a továbbiakban: Szt. szerinti egyéb szervezet), ha az állami adóhatóságnak az erre a célra rendszeresített nyomtatványon bejelenti, hogy a szakképzési hozzájárulást az 5. § a) pont aa) vagy ab) alpontja szerint teljesíti, a választás bejelentését követő hónap első napjától.
 
 (2) Szakképzési hozzájárulásra kötelezett a belföldön vállalkozási tevékenységet folytató, külföldi székhelyű jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet is, ha belföldön telephellyel, fiókteleppel rendelkezik [az (1) és (2) bekezdésben foglaltak a továbbiakban együtt: hozzájárulásra kötelezett].
 

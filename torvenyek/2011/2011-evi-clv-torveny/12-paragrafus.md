@@ -12,11 +12,11 @@ c) a 16. § szerinti ösztöndíj és az ezzel összefüggésben felmerült köl
 
 d) a decentralizált keretösszeget,
 
-e) a szakképzésért és felnőttképzésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére felhasználható keretösszeget,
+e) a szakképzésért és felnőttképzésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére, beruházási és felújítási célú támogatására felhasználható keretösszeget,
 
-f) a szakképesítésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére felhasználható keretösszeget,
+f) a szakképesítésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére, beruházási és felújítási célú támogatására felhasználható keretösszeget,
 
-g) az állami fenntartású szakképző iskolák felnőttoktatási tevékenységének támogatására szolgáló keretösszeget,
+g)
 
 h) a központi keretösszeget,
 
@@ -24,4 +24,4 @@ i)
 
 j) az állami fenntartású szakképző iskolák működési költségéhez való hozzájárulásra biztosítható keretösszeget,
 
-k) a szakképzésről szóló 2011. évi CLXXXVII. törvény 24/A. § (6) bekezdése alapján a Szakképzési Hídprogramban részt vevő tanuló részére ösztöndíj formájában nyújtott támogatásra, és a pedagógus pótlék biztosítására szolgáló keretösszeget.
+k) a szakképzésről szóló törvény 24/A. § (6) bekezdése alapján a Szakképzési Hídprogramban részt vevő tanuló részére ösztöndíj formájában nyújtott támogatás, a pedagóguspótlék és az ezekkel összefüggésben felmerülő költségek biztosítására szolgáló keretösszeget.

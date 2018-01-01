@@ -20,4 +20,4 @@ maga állapítja meg, elektronikus úton vallja be és fizeti meg a tárgyévet 
 
 (7) A hozzájárulásra kötelezett a visszajáró összeg kiutalását vagy átvezetését legkorábban a bevallás esedékességének napjától kezdeményezheti.
 
-(8) Az állami adóhatóság a visszatérítés tekintetében az Art. szerint jár el. A kapott visszatérítést egyéb bevételként kell elszámolni.
+(8) Az állami adóhatóság a visszatérítés tekintetében az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) és az Art. szerint jár el. A kapott visszatérítést egyéb bevételként kell elszámolni.

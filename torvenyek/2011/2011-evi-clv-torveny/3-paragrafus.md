@@ -14,7 +14,7 @@ b) szociális hozzájárulási adóalap: Az egyes adótörvények és azzal öss
 
 c) egészségügyi közszolgáltatás: az Eü. tv. 3. § e) pontjában meghatározott, részben vagy egészben az államháztartás terhére támogatott szolgáltató tevékenység;
 
-d) nem főtevékenységként gyakorlati képzést folytató hozzájárulásra kötelezett: az a hozzájárulásra kötelezett, amelynek az árbevétele a tárgyévet megelőző két üzleti évben az általa folytatott gyakorlati képzés után a 8. § szerint elszámolható éves csökkentő tétel összegének legalább 400%-a volt;
+d)
 
 e) kis- és középvállalkozás:
 

@@ -4,7 +4,7 @@
 
 (3) A szakképzésért és felnőttképzésért felelős miniszter – a (2) bekezdésben foglaltakon túl –
 
-a) dönt a decentralizált keret megyénkénti felosztásáról, a decentralizált keret terhére kiírandó pályázati célok prioritásairól, valamint a 12. § a), d), g) és h) pontjában meghatározott keret terhére nyújtandó támogatásokról,
+a) dönt a decentralizált keret megyénkénti felosztásáról, a decentralizált keret terhére kiírandó pályázati célok prioritásairól, valamint a 12. § a), d), e) és h) pontjában meghatározott keret terhére nyújtandó támogatásokról,
 
 b) felelős az alaprész
 
