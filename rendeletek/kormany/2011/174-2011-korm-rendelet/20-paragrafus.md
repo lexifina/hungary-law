@@ -6,7 +6,7 @@
 
 (3) A gyakorlati írásbeli és a szóbeli részvizsgát úgy kell megszervezni, hogy az egy munkanapon belül teljesíthető legyen olyan módon, hogy a vizsgázó a gyakorlati részvizsgát követően – annak eredményessége esetén – kezdheti meg a szóbeli részvizsgát.
 
-(4)[^66] Ha a vizsgázó 2010. április 1-jét követően titkos ügykezelői vizsgát tett és az arról szóló bizonyítvány másolatát a vizsga napján a vizsgabizottság részére bemutatja, a gyakorlati és a szóbeli részvizsgán mentesül a titkos ügykezelési és a minősített adatok kezelése témakörből történő számonkérés alól. A titkos ügykezelői vizsga sorszámát a vizsgabiztos a jegyzőkönyvbe felvezeti.
+(4)[^64] Ha a vizsgázó 2010. április 1-jét követően titkos ügykezelői vizsgát tett és az arról szóló bizonyítvány másolatát a vizsga napján a vizsgabizottság részére bemutatja, a gyakorlati és a szóbeli részvizsgán mentesül a titkos ügykezelési és a minősített adatok kezelése témakörből történő számonkérés alól. A titkos ügykezelői vizsga sorszámát a vizsgabiztos a jegyzőkönyvbe felvezeti.
 
 (5) A vizsgáztató bizottság a gyakorlati és szóbeli részvizsgát egy-egy érdemjeggyel – jeles (5), jó (4), közepes (3), elégséges (2), elégtelen (1) – értékeli és a minősítést a két osztályzat számtani átlaga adja meg.
 
@@ -20,4 +20,4 @@
 
 (10) Az ismétlő-, a javító- és a halasztott vizsgát a vizsga időpontjában érvényes vizsgakövetelmények alapján lehet tenni az alapvizsgára vonatkozó általános szabályok alkalmazásával.
 
-[^66]: A 20. § (4) bekezdése a 108/2016. (V. 18.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^64]: A 20. § (4) bekezdése a 108/2016. (V. 18.) Korm. rendelet 15. §-ával megállapított szöveg.
