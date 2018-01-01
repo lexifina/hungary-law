@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-129-20-
 | --- | --- | --- |
 | 2015-06-12 | 2015-129-20-22.1 | 129/2015. (V. 27.) Korm. rendelet |
 | 2017-01-01 | 2015-129-20-22.2 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2015-129-20-22.3 | 457/2017. (XII. 28.) Korm. rendelet |
