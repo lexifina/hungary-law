@@ -1,0 +1,9 @@
+# 486/2017. (XII. 29.) Korm. rendelet
+
+a megkülönböztető és figyelmeztető jelzés felszerelésével, engedélyezésével, használatával és visszavonásával kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-486-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-01-01 | 2017-486-20-22.1 | 486/2017. (XII. 29.) Korm. rendelet |

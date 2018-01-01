@@ -1,0 +1,1 @@
+## 2. § A hatósági ellenőrzés keretében az engedélyező hatóság felhívására a megkülönböztető jelzést adó készülék használatára jogosult köteles bemutatni a miniszteri rendeletben meghatározott előírásoknak megfelelő, megkülönböztető jelzés használatáról szóló bejegyzést tartalmazó menetlevelet vagy annak megfelelő más okmányt, illetve azok másolatát.
