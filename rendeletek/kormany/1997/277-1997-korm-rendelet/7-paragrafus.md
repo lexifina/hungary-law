@@ -8,7 +8,7 @@ a) az érintett országos nemzetiségi önkormányzat véleményét, amennyiben 
 
 b) az igazgatási szolgáltatási díj befizetésének igazolását.
 
-(2a)[^32] A Hivatal a pedagógus-továbbképzési program engedélyezési eljárásában közreműködő hatóságként – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 58. § (1) bekezdése alapján – szakértőt rendel ki.
+(2a)[^32] A Hivatal a pedagógus-továbbképzési program engedélyezési eljárásában közreműködő hatóságként szakértői véleményt szerez be.
 
 (3) Ha a továbbképzési program teljes egészében a szakvizsgára történő felkészítés oktatási és tanulmányi követelményeire épül úgy, hogy a továbbképzés követelményeinek teljesítése a szakvizsgára történő felkészülésbe beszámít, a kérelemhez a következőket kell csatolni:
 
@@ -32,7 +32,7 @@ a) az alapítási engedélykérelem benyújtója, a benyújtó képviselője,
 
 b) az, aki az alapítási engedélykérelem benyújtójával munkaviszonyban, közalkalmazotti jogviszonyban áll,
 
-c) az a)–b) pontban felsoroltak – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti – hozzátartozója.
+c)[^35] az a)–b) pontban felsoroltak hozzátartozója.
 
 (8) A Pedagógus-továbbképzési Akkreditációs Testület valamennyi továbbképzési program jóváhagyására és az alapítási engedély kiadására irányuló kérelmet – támogató vagy elutasító – javaslatával együtt megküldi az oktatásért felelős miniszter részére.
 
@@ -42,19 +42,20 @@ c) az a)–b) pontban felsoroltak – a közigazgatási hatósági eljárás ál
 
 a) a továbbképzési program követelményeinek teljesítéséhez nincs szükség legalább harminc foglalkozási órára,
 
-b)[^35] a továbbképzési program nem felel meg az e rendeletben megállapított pedagógus-továbbképzési programok bírálati szempontjainak.
+b)[^36] a továbbképzési program nem felel meg az e rendeletben megállapított pedagógus-továbbképzési programok bírálati szempontjainak.
 
-(11)[^36] A Pedagógus-továbbképzési Akkreditációs Testület javasolhatja a program kiegészítését, kijavítását. A kiegészített, kijavított programot a kérelmezőnek az oktatásért felelős miniszter által vezetett minisztériumba kell megküldeni.
+(11)[^37] A Pedagógus-továbbképzési Akkreditációs Testület javasolhatja a program kiegészítését, kijavítását. A kiegészített, kijavított programot a kérelmezőnek az oktatásért felelős miniszter által vezetett minisztériumba kell megküldeni.
 
-(12)[^37] Ha a továbbképzési program szakmai elméleti, szakmai előkészítő tantárgyakat oktató pedagógusok, gyakorlati képzést végző pedagógusok továbbképzése céljából készült, a továbbképzési program engedélyezéséről, az alapítási engedély megadásáról az oktatásért felelős miniszter a szakképesítésért felelős miniszter véleményének kikérése után dönt. A Hivatal megkeresi a szakképesítésért felelős minisztert véleményének kikérése érdekében.
+(12)[^38] Ha a továbbképzési program szakmai elméleti, szakmai előkészítő tantárgyakat oktató pedagógusok, gyakorlati képzést végző pedagógusok továbbképzése céljából készült, a továbbképzési program engedélyezéséről, az alapítási engedély megadásáról az oktatásért felelős miniszter a szakképesítésért felelős miniszter véleményének kikérése után dönt. A Hivatal megkeresi a szakképesítésért felelős minisztert véleményének kikérése érdekében.
 
 [^28]: A 7. §-t megelőző alcím a 3/2010. (I. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^29]: A 7. § a 3/2010. (I. 14.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^30]: A 7. § (1) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
 [^31]: A 7. § (2) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított, nyitó szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^32]: A 7. § (2a) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^32]: A 7. § (2a) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 29. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 53. § a) pontja és 54. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^33]: A 7. § (3) bekezdés c) pontját a 346/2013. (IX. 30.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
 [^34]: A 7. § (6) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^35]: A 7. § (10) bekezdés b) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
-[^36]: A 7. § (11) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 15. pontja szerint módosított szöveg.
-[^37]: A 7. § (12) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (18) bekezdése, a 346/2013. (IX. 30.) Korm. rendelet 17. § 9. pontja szerint módosított szöveg.
+[^35]: A 7. § (7) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 54. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^36]: A 7. § (10) bekezdés b) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
+[^37]: A 7. § (11) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 15. pontja szerint módosított szöveg.
+[^38]: A 7. § (12) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (18) bekezdése, a 346/2013. (IX. 30.) Korm. rendelet 17. § 9. pontja szerint módosított szöveg.

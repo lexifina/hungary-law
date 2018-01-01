@@ -102,7 +102,7 @@
 
 ## Megfelelő volt-e a továbbképzés szervezettsége?
 
-3. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^136]
+3. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^137]
 
 ## Az igazgatási szolgáltatási díj mértéke
 
@@ -118,7 +118,7 @@ d) százötvennyolcezer forint, amennyiben a foglalkozási órák száma meghala
 
 2. A továbbképzési jegyzékre történő felvételért fizetendő igazgatási szolgáltatási díj összege – továbbképzési programonként – húszezer-ötszáz forint.
 
-3. Abban az esetben, ha a továbbképzési program készítője az oktatásért felelős miniszter alapítási engedély kiadási kérelmet elutasító határozatának jogerőre emelkedésétől számított fél éven belül ugyanazt a programot átdolgozva újra beadja, a fizetendő igazgatási szolgáltatási díj összege
+3.[^138] Abban az esetben, ha a továbbképzési program készítője az oktatásért felelős miniszter alapítási engedély kiadási kérelmet elutasító határozatának véglegessé válásától számított fél éven belül ugyanazt a programot átdolgozva újra beadja, a fizetendő igazgatási szolgáltatási díj összege
 
 a) ötvenötezer forint, amennyiben a foglalkozási órák száma nem haladja meg a harminc órát,
 
@@ -128,4 +128,5 @@ c) ötvenkilencezer-ötszáz forint, amennyiben a foglalkozási órák száma me
 
 d) hatvannégyezer forint, amennyiben a foglalkozási órák száma meghaladja a kilencven órát.
 
-[^136]: A 3. számú melléklet a 3/2010. (I. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^137]: A 3. számú melléklet a 3/2010. (I. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^138]: A 3. számú melléklet 3. pont nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

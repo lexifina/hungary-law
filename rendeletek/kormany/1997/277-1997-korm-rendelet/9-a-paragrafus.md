@@ -1,8 +1,8 @@
 ## képviselője részt vehet a feladatok ellátásában.
 
-## A pedagógus-továbbképzési programok bírálati szempontjai[^75]
+## A pedagógus-továbbképzési programok bírálati szempontjai[^76]
 
-9/A. §[^76] (1) A pedagógus-továbbképzési programok értékelése a következő bírálati szempontok alapján történik:
+9/A. §[^77] (1) A pedagógus-továbbképzési programok értékelése a következő bírálati szempontok alapján történik:
 
 a) a továbbképzési program témája megfelel a 4. § (1) bekezdésében felsorolt célok valamelyikének,
 
@@ -22,5 +22,5 @@ h) a részletes tematika összhangban áll a céllal, a tartalmi követelmények
 
 i) a program összhangban áll az Nkt. céljaival és alapelveivel.
 
-[^75]: A 9/A. §-t megelőző alcímet a 346/2013. (IX. 30.) Korm. rendelet 11. §-a iktatta be.
-[^76]: A 9/A. §-t a 346/2013. (IX. 30.) Korm. rendelet 11. §-a iktatta be.
+[^76]: A 9/A. §-t megelőző alcímet a 346/2013. (IX. 30.) Korm. rendelet 11. §-a iktatta be.
+[^77]: A 9/A. §-t a 346/2013. (IX. 30.) Korm. rendelet 11. §-a iktatta be.
