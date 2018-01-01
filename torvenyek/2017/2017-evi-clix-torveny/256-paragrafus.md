@@ -1,1 +1,1 @@
-256. §
+256. § A 202. § (1) és (2) bekezdése a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről szóló, 1992. október 19-i 92/85/EGK tanácsi irányelv 5. cikkének való megfelelést szolgálja.

@@ -1,3 +1,5 @@
 ## 7. A gépjárműadóról szóló 1991. évi LXXXII. törvény módosítása
 
-30. §
+30. § A gépjárműadóról szóló 1991. évi LXXXII. törvény 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Gépjárműadóügyben az önkormányzati adóhatóság jár el első fokon. Az adóztatási feladatokat – a (3) bekezdésben foglalt kivétellel – az adóalany hatósági nyilvántartás címadat rovatába bejegyzett lakcíme, székhelye vagy telephelye szerint illetékes települési, a fővárosban a kerületi önkormányzati, a Margitsziget tekintetében pedig a Budapest XIII. kerületi önkormányzati adóhatóság (a továbbiakban együtt: adóhatóság) látja el. Ha a nyilvántartásban a lakcím, a székhely vagy a telephely megváltozik, az adóztatási feladatok ellátására a változást követő év első napjától az új lakcím, székhely vagy telephely szerint illetékes adóhatóság jogosult. Gépjármű tulajdonátruházása esetén, ha a tulajdonváltozással érintett felek egyike sem tesz eleget a külön jogszabály által meghatározott bejelentési kötelezettségének, akkor a tulajdonváltozás bejelentése évének utolsó napjáig a 2. § (1) bekezdése szerinti tulajdonos nyilvántartásba bejegyzett lakcíme, székhelye vagy telephelye szerinti önkormányzati adóhatóság az illetékes a tulajdonváltozással érintett gépjármű adóztatására.”
