@@ -1,0 +1,5 @@
+5. § (1) Az elektronikus hírközlő hálózat útján tartott meghallgatás megkezdése előtt a kezelő személynek az elektronikus hírközlő hálózat útján történő meghallgatást biztosító technikai eszközök üzemszerű működéséről teljeskörűen meg kell győződnie.
+
+(2) Ha az elektronikus hírközlő hálózat útján történő meghallgatást biztosító technikai eszközök üzemszerű működésének bármely akadálya áll fenn, a kezelő személy a hibát a tárgyalás kitűzött helyszínén jelen lévő bírónak, illetve bírósági titkárnak azonnal jelenti, valamint haladéktalanul gondoskodik a hiba elhárításáról, majd a hibát és a megtett intézkedéseket írásban is jelenti felettesének.
+
+(3) A hiba elhárításáig az elektronikus hírközlő hálózat útján tartott meghallgatás nem kezdhető meg, valamint nem folytatható tovább. Az elektronikus hírközlő hálózat útján történő meghallgatást biztosító technikai eszközök hibája vagy nem e rendeletnek megfelelő működtetése mellett végzett eljárási cselekményt a szükséges mértékben meg kell ismételni.
