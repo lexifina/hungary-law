@@ -18,8 +18,9 @@ b) a nyilvántartásba vett személy elhalálozott,
 
 c) a tevékenység végzésére vonatkozó, külön jogszabályban előírt jogosultságát elveszti, vagy
 
-d) a foglalkozástól jogerősen eltiltották.
+d)[^15] a foglalkozástól véglegesen eltiltották.
 
-(3)[^15] A nyilvántartás az (1) bekezdés b)–e) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3)[^16] A nyilvántartás az (1) bekezdés b)–e) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-[^15]: A 23. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 16. §-a iktatta be.
+[^15]: A 23. § (2) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 262. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^16]: A 23. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 16. §-a iktatta be.

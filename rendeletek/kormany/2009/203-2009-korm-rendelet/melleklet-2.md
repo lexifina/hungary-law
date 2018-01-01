@@ -358,7 +358,7 @@
 
 | Fordítókorong-kezelő | A fordítókorong üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása, a csörlő működtetése. |
 
-2. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^31]
+2. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^32]
 
 ## Egészségi alkalmasságot kizáró, korlátozó állapotok, fogyatékosságok és betegségek előzetes egészségi alkalmassági vizsgálatok során (BNO X.)
 
@@ -550,4 +550,4 @@ c) sérülés utáni – a munkakör ellátását akadályozó funkciózavart ok
 
 (16) Fertőző betegségek (B2000-B2400; B1500-B1990; A5100-A5390; D8000-D8990)
 
-[^31]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 13. § a) pontjával megállapított szöveg.
+[^32]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 13. § a) pontjával megállapított szöveg.
