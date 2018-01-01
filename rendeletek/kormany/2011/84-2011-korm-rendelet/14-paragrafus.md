@@ -6,7 +6,7 @@
 
 (2) Az illetménytöbblet havi összege a garantált illetmény 115%-ának és a közalkalmazott – illetménypótlék és kereset-, illetve illetménykiegészítés nélkül számított – illetményének a különbözete, illetve annak az a része, amely folyósítása esetén a közalkalmazott havi rendszeres járandósága a Kjt. 21. § (3) bekezdése szerinti mértéket nem haladja meg. Az illetménytöbblet havi összegét a kerekítés általános szabályai szerint száz forintra kerekítve kell megállapítani.
 
-Melléklet a 84/2011. (V. 26.) Korm. rendelethez
+Melléklet a 84/2011. (V. 26.) Korm. rendelethez[^6]
 
 A költségvetési szervként működő kutatóközpontokban, kutatóintézetekben,
 
@@ -46,7 +46,7 @@ Főmérnök besoroláshoz mesterfokozat vagy alapfokozat és szakirányú szakk�
 
 Műszaki fejlesztő mérnök elnevezésű munkakörbe kell besorolni azt a mesterfokozattal vagy alapfokozattal és természettudományos vagy mérnöki szakirányú szakképzettséggel rendelkező közalkalmazottat, aki műszaki fejlesztő tevékenységet folytat.
 
-Ügyvivő-szakértő elnevezésű munkakörbe kell besorolni azt a mesterfokozattal vagy alapfokozattal és szakképzettséggel rendelkező, önálló tevékenységet, szakértői munkát végző közalkalmazottat (pl. a jogtanácsost, a jogi előadót, a közgazdászt), továbbá a kutatóhely funkcionális egységének vezetőjét és helyettesét, aki nem vesz részt a kutatásban. A gazdasági szervezet vezetőjének mesterfokozat vagy alapfokozat mellett szakirányú (pénzügyi, számviteli, közgazdasági) szakképzettséggel is rendelkeznie kell.
+Ügyvivő-szakértő elnevezésű munkakörbe kell besorolni azt a mesterfokozattal vagy alapfokozattal és szakképzettséggel rendelkező, önálló tevékenységet, szakértői munkát végző közalkalmazottat (pl. a kamarai jogtanácsost, az ügyvédi kamarai nyilvántartásba vett jogi előadót, a közgazdászt), továbbá a kutatóhely funkcionális egységének vezetőjét és helyettesét, aki nem vesz részt a kutatásban. A gazdasági szervezet vezetőjének mesterfokozat vagy alapfokozat mellett szakirányú (pénzügyi, számviteli, közgazdasági) szakképzettséggel is rendelkeznie kell.
 
 Ügyintéző (gazdasági, műszaki, igazgatási) elnevezésű munkakörbe kell besorolni a középiskolai végzettséget igazoló szakképesítéssel vagy középiskolai végzettséggel és felsőfokú végzettségi szintet nem tanúsító – felsőfokú szakképesítést igazoló – bizonyítvánnyal vagy alapfokozattal rendelkező, szakmai döntés-előkészítést végző közalkalmazottat.
 
@@ -58,3 +58,4 @@ Technikus, laboráns munkakörben a besorolás szempontjából felsőfokú szakk
 
 [^4]: A 14. §-t megelőző alcímet a 265/2016. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
 [^5]: A 14. §-t a 265/2016. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A melléklet a 393/2017. (XII. 13.) Korm. rendelet 37. §-a szerint módosított szöveg.
