@@ -1,8 +1,8 @@
-## 6. §[^14]
+## 6. §[^15]
 
 7. § Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
-Melléklet a 67/2006. (III. 27.) Korm. rendelethez[^15]
+Melléklet a 67/2006. (III. 27.) Korm. rendelethez[^16]
 
 ADATLAP
 
@@ -160,21 +160,11 @@ Nyilatkozat: Büntetőjogi felelősségem tudatában kijelentem, hogy a sérelme
 
 |  |  |  |  | aláírás |
 
-Feltétlenül csatolandó iratok: (élet elvesztése esetén)
+| Feltétlenül csatolandó iratok: (élet elvesztése esetén) |
 
-1. Ha az igénylő
+| 1. Ha az igénylő egyházi jogi személy elöljárója: a sérelmet szenvedett egyházi személy voltát igazoló okmány. |
 
-a) az özvegy: házassági anyakönyvi kivonat
-
-b) a szülő: a sérelmet szenvedett születési anyakönyvi kivonata
-
-c) a gyermek: saját születési anyakönyvi kivonata
-
-d) a testvér: a sérelmet szenvedett és a saját születési anyakönyvi kivonata
-
-e) egyházi jogi személy elöljárója: a sérelmet szenvedett egyházi személy voltát igazoló okmány.
-
-2. Valamennyi igénylő esetében: a sérelmet szenvedett halálát tanúsító okmány, igazolás.(Halotti anyakönyvi kivonat, holttá nyilvánító végzés)
+| 2. Valamennyi igénylő esetében: a sérelmet szenvedett halálát tanúsító okmány, igazolás (halotti anyakönyvi kivonat, holttá nyilvánító végzés). |
 
 Tájékoztató
 
@@ -202,11 +192,13 @@ Az igénylő jogosultsága:
 
 | − túlélő házastársként. (2) |  |  |  |
 
-Túlélő házastárs esetén:
+| Túlélő házastárs esetén: |
 
-Házassági anyakönyvi kivonat, a sérelmet szenvedett halálát tanúsító okmány (igazolás).
+| A sérelmet szenvedett halálát tanúsító okmány (igazolás). |
 
-Nyilatkozat arról, hogy a néhai sérelmet szenvedettnek Ön hányadik házastársa volt.
+| Nyilatkozat arról, hogy a néhai sérelmet szenvedettnek Ön hányadik házastársa volt. |
+
+| ................................................................... | .................................................................. |
 
 | A munkaszolgálat időtartama: | 44 |
 
@@ -340,7 +332,7 @@ IV. Igénybejelentés egyösszegű kárpótlása az élet elvesztéséért
 
 38–41. rovat: Az előző rovatban érintett, az igénylőn kívül még a sérelmet szenvedett 1997. június 7-én még élő hozzátartozóinak számát kell beírni.
 
-42. rovat:[^16] Kitöltése és aláírása minden esetben kötelező, ahol az igénylő arról nyilatkozik, hogy részesült-e a hozzátartozója életelvesztéséért vagy az államtól, vagy más államtól kártalanításban, kárpótlásban vagy bármilyen jóvátételben.
+42. rovat:[^17] Kitöltése és aláírása minden esetben kötelező, ahol az igénylő arról nyilatkozik, hogy részesült-e a hozzátartozója életelvesztéséért vagy az államtól, vagy más államtól kártalanításban, kárpótlásban vagy bármilyen jóvátételben.
 
 V. Kárpótlási igény a II. világháború alatt teljesített munkaszolgálatért
 
@@ -348,7 +340,7 @@ V. Kárpótlási igény a II. világháború alatt teljesített munkaszolgálat�
 
 44. rovat: A munkaszolgálat pontos kezdő- és befejező időpontját és helyét kérjük feltüntetni, többszöri sérelem esetén időrendi sorrendben!
 
-45. rovat: A munkaszolgálatért járó kárpótlás kért formáját (havi életjáradék vagy kárpótlási jegy kifejezést) szíveskedjék aláhúzni, a megfelelő kódszámot beírni és a nyilatkozatot aláírni. Felhívjuk figyelmét, hogy a kérelmében hozott határozat jogerőre emelkedéséig a kárpótlás formájának megváltozását írásban kérheti!
+45. rovat: A munkaszolgálatért járó kárpótlás kért formáját (havi életjáradék vagy kárpótlási jegy kifejezést) szíveskedjék aláhúzni, a megfelelő kódszámot beírni és a nyilatkozatot aláírni. Felhívjuk figyelmét, hogy a kérelmében hozott határozat véglegessé válásáig vagy jogerőre emelkedéséig a kárpótlás formájának megváltozását írásban kérheti!
 
 46–55. rovat: Az örökös által bejelentett igény esetén kell kitölteni. Amennyiben a munkaszolgálat miatt a kérelem benyújtására eredetileg jogosult személy életében nem terjesztett be kárpótlási igényt, és 1992. július 2-át követően elhunyt mielőtt a kérelmét benyújthatta volna, és nincs túlélő házastársa, akkor az örököse jogosult bejelenteni az igényt. Ebben az esetben az örökös kapja meg az elhunyt jogosultnak járó kárpótlást, amely őt kizárólag kárpótlási jegyben illeti meg.
 
@@ -364,6 +356,6 @@ Az adatlap végén minden esetben szükséges a nyilatkozat aláírása, amellye
 
 Az adatlappal együtt benyújtott okiratokat eredetiben vagy hiteles másolatban kell csatolni.
 
-[^14]: A 6. §-t a 182/2009. (IX. 10.) Korm. rendelet 456. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 456. §-a, a 297/2013. (VII. 29.) Korm. rendelet 31. §-a, a 221/2014. (IX. 4.) Korm. rendelet 318. § b) és c) pontja szerint módosított szöveg.
-[^16]: A Melléklet IV. Igénybejeletés egyösszegű kárpótlásra az élet elvesztéséért pont 42. rovat a 221/2014. (IX. 4.) Korm. rendelet 318. § b) pontja szerint módosított szöveg.
+[^15]: A 6. §-t a 182/2009. (IX. 10.) Korm. rendelet 456. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 456. §-a, a 297/2013. (VII. 29.) Korm. rendelet 31. §-a, a 221/2014. (IX. 4.) Korm. rendelet 318. § b) és c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 169. §-a és 170. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^17]: A Melléklet IV. Igénybejeletés egyösszegű kárpótlásra az élet elvesztéséért pont 42. rovat a 221/2014. (IX. 4.) Korm. rendelet 318. § b) pontja szerint módosított szöveg.
