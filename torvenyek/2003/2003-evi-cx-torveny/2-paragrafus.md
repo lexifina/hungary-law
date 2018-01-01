@@ -6,7 +6,7 @@ a) belföldön első ízben történő nyilvántartásba vétele és a forgalmi 
 
 b) átalakítás esetében az átalakítás tényének nyilvántartásba vétele és a forgalmi engedélybe történő bejegyzése,
 
-c) 12. § a) és b) pontjában meghatározott adómentességének megszűnése;
+c) 12. § a) pontjában meghatározott adómentességének megszűnése;
 
 d) törvényben kihirdetett nemzetközi szerződésben vagy törvényben meghatározott adómentesség megszűnése;
 

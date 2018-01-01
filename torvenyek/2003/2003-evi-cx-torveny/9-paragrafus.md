@@ -18,7 +18,7 @@ a) a gépjármű rendszáma, alvázszáma, motorszáma;
 
 b) a forgalomba helyezés időpontja.
 
-(7) Az e törvényben nem szabályozott, az adózással kapcsolatos egyéb eljárásban az Art. rendelkezéseit kell alkalmazni.
+(7) Az e törvényben nem szabályozott, az adózással kapcsolatos egyéb eljárásban az Air. és az Art. rendelkezéseit kell alkalmazni.
 
 (8) Adóigazgatási eljárásban képviselőként vámjogi képviselőként eljáró személy is jogosult eljárni.
 
