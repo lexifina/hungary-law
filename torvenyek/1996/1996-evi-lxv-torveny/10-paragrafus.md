@@ -1,1 +1,1 @@
-10. § Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az 5. § (5) bekezdésében meghatározott méltányossági hozzájárulás iránti kérelemhez csatolandó okiratok, tervek és adatok körét, a méltányossági eljárás szabályait, valamint a 7. § (1) bekezdés szerinti ellenőrzés részletes szabályait.
+10. §
