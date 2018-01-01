@@ -8,7 +8,7 @@ b) a gyógyszertár közfinanszírozott gyógyszerek forgalmazásából származ
 
 c) az adott gyógyszertárat működtető gazdasági társaság vagy egyéni vállalkozó kizárólag – az a) és b) pontban foglalt feltételeknek megfelelő – egy gyógyszertárat működtet, és
 
-d) a kérelem benyújtásakor a gyógyszertár nem rendelkezik olyan, az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 20. pontjában meghatározott köztartozással, amely esedékességének időpontja 60 napnál régebben lejárt.
+d)[^29] a kérelem benyújtásakor a gyógyszertár nem rendelkezik olyan, az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontjában meghatározott köztartozással, amely esedékességének időpontja 60 napnál régebben lejárt.
 
 (2) Az előleg összege a kérelemben megjelölt összeg, de maximum 4 millió forint, fiókgyógyszertárat működtető közforgalmú gyógyszertár esetében pedig a kérelemben megjelölt összeg, de maximum 5 millió forint.
 
@@ -20,3 +20,4 @@ d) a kérelem benyújtásakor a gyógyszertár nem rendelkezik olyan, az adózá
 
 [^27]: A 6. § a 89/2003. (VI. 25.) Korm. rendelet 66. §-ával megállapított,a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^28]: A 6/A. §-t a 308/2001. (XII. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^29]: A 6/A. § (1) bekezdés d) pontja a 475/2017. (XII. 28.) Korm. rendelet 13. §-a szerint módosított szöveg.
