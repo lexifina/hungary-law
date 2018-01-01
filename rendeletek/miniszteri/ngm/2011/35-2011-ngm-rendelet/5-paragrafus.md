@@ -1,3 +1,0 @@
-5. § (1) Ha a kereskedő a székhelyén, illetve az 1. § (1) bekezdés c) pontjában meghatározott helyen kívül alkalmi rendezvényen, közterületi értékesítés keretében a húsvéti, karácsonyi és szilveszteri ünnepeken, valamint évente egy alkalommal kizárólag az adott ünnepen és az azt megelőző 20 napban, vagy vásáron, illetve piacon kíván forgalmazásra irányuló kereskedelmi tevékenységet folytatni, köteles 5 nappal a tevékenység megkezdése előtt bejelenteni a hatóságnak az értékesítés helyét és időpontját.
-
-(2) A hatóság a bejelentésről értesíti a területileg illetékes vámhatóságot, valamint a kereskedőről nyilvántartást vezető jegyzőt.

@@ -1,5 +1,0 @@
-## 6. § A nemesfém tárgy a nemesfém tárgyak vizsgálatáról, hitelesítéséről és nemesfémtartalmuk tanúsításáról, valamint a hitelesítés és tanúsítás egyenértékűségéről szóló 187/2011. (IX. 14.) Korm. rendelet (a továbbiakban: R.) meghatározott nemesfémen kívül csak olyan ötvöző fémet tartalmazhat, amely lehetővé teszi, hogy az e rendelet 18. §-ában meghatározott vizsgálati eljárásokkal a nemesfém tárgy minden részében kétségtelenül megállapítható legyen annak finomsági foka.
-
-7. § (1) A nemesfém tárgy összeszerelése alkalmával a nemesfém tárgy használhatóságának biztosítására feltétlenül szükséges szerelvény bármilyen megfelelő szilárdságú anyagból készülhet, amennyiben a szerelvény különállása könnyen felismerhető, és az a nemesfém tárgytól elválasztható.
-
-(2) Könnyen felismerhető és elválasztható szerelvényt tilos a nemesfém tárgyhoz úgy kapcsolni, hogy az a nemesfém tárggyal egyező anyagnak látsszon, tilos továbbá az ilyen, nem nemesfémből készült szerelvényt aranyozni, ezüstözni, platinázni vagy palládiumozni.
