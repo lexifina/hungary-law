@@ -1,0 +1,1 @@
+A Kormány a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 38. § (1) bekezdés h) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
