@@ -1,4 +1,4 @@
-19. § (1) A pénztár tevékenységi engedély iránti kérelmét a Felügyelet akkor utasíthatja el, ha a kérelem és mellékletei nem felelnek meg a jogszabályi előírásoknak, és a pénztár határidőre nem tesz eleget az esetleges hiánypótlási felhívásnak.
+19. § (1)
 
 (2) A Felügyelet a benyújtott okiratok módosítását írhatja elő, ha azokból valószínűsíthető, hogy a pénztár működése nem biztonságos, illetve az okiratok szakszerűtlen rendelkezéseket tartalmaznak.
 

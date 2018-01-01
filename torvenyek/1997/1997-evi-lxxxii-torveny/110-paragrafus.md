@@ -30,7 +30,7 @@ m) kezdeményezheti a pénztár felszámolását.
 
 (2) A tevékenységi engedély visszavonására akkor kerülhet sor, ha a pénztár
 
-a) tevékenységének folytatását az engedély jogerőre emelkedésének napjától számított 180 napon belül nem kezdi meg, vagy azt a Felügyelet hozzájárulása nélkül szünetelteti,
+a) tevékenységének folytatását az engedély véglegessé válásának napjától számított 180 napon belül nem kezdi meg, vagy azt a Felügyelet hozzájárulása nélkül szünetelteti,
 
 b) az engedélykérelemben valótlan adatot vagy nyilatkozatot közölt, és felszólítás ellenére 30 napon belül az adatot vagy nyilatkozatot megfelelően nem módosította,
 

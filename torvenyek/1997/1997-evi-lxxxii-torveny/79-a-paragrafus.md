@@ -24,7 +24,7 @@ cd) a könyvvizsgáló által hitelesített vagyonmérleg-tervezeteket – ideé
 
 d) a Felügyelet a tevékenységi engedélyezésre irányuló eljárásban a pénztárat ellenőrzi és a kérelemhez csatolt dokumentumok, valamint az ellenőrzés alapján dönt az engedély megadásáról;
 
-e) a bíróság az átalakulást a Felügyelet által adott tevékenységi engedély(ek) jogerőre emelkedését követően, a jogelőd(ök) törlésével és a jogutód(ok) bejegyzésével vezeti át a nyilvántartáson.
+e) a bíróság az átalakulást a Felügyelet által adott tevékenységi engedély(ek) véglegessé válását követően, a jogelőd(ök) törlésével és a jogutód(ok) bejegyzésével vezeti át a nyilvántartáson.
 
 (3) Az e fejezet alapján történő átalakuláskor – törvény eltérő rendelkezése hiányában – külön adó- és illetékfizetési kötelezettség nem keletkezik.
 

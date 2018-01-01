@@ -12,7 +12,7 @@ e) az igazgatótanács éves beszámolójának – ezen belül a mérleg és az 
 
 f) a pénztár pénzügyi tervének elfogadása,
 
-g) a tevékenységi engedély jogerőre emelkedése előtt a pénztár nevében eljáró személyek, az igazgatótanács és az ellenőrző bizottság tagjai elleni kártérítési igény érvényesítése, továbbá intézkedés a pénztár képviseletére jogosultak ellen indított perekben a pénztár képviseletéről,
+g) a tevékenységi engedély véglegessé válása előtt a pénztár nevében eljáró személyek, az igazgatótanács és az ellenőrző bizottság tagjai elleni kártérítési igény érvényesítése, továbbá intézkedés a pénztár képviseletére jogosultak ellen indított perekben a pénztár képviseletéről,
 
 h) döntés érdekképviseleti szervhez történő csatlakozásról, illetve az abból történő kiválásról,
 
