@@ -16,7 +16,13 @@ g) az utazásszervezői és utazásközvetítői tevékenységre vonatkozó beje
 
 h) a kereskedelmi hatóság vagy hatóságok kijelölését,
 
-i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének részletes szabályait
+i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének részletes szabályait,
+
+j) a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazására irányuló kereskedelmi tevékenység gyakorlásának feltételeit, az e tevékenységre vonatkozó bejelentés rendjét és feltételeit, az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+
+k) a vidámparki, mutatványos és hasonló szórakoztató berendezések és szerkezetek időszakos műszaki vizsgáztatásának rendjét,
+
+l) a 6. § (8) bekezdésében meghatározott, a jegyzői hatáskörbe tartozó engedélyezési eljárásban történő szakhatósági közreműködés szabályait és az azzal kapcsolatos szakkérdéseket
 
 rendeletben állapítsa meg.
 
@@ -24,11 +30,11 @@ rendeletben állapítsa meg.
 
 a) egyes ipari, kereskedelmi tevékenységek végzéséhez szükséges szakképesítéseket,
 
-b) a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazására irányuló kereskedelmi tevékenység gyakorlásának feltételeit, az e tevékenységre vonatkozó bejelentés rendjét és feltételeit, az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+b)
 
 c)
 
-d) a vidámparki, mutatványos és hasonló szórakoztató berendezések és szerkezetek időszakos műszaki vizsgáztatásának rendjét,
+d)
 
 e)
 
@@ -40,7 +46,7 @@ rendeletben állapítsa meg.
 
 a) a motorhajtó anyagok és egyes kőolajtermékek belföldi forgalmazásának feltételeit,
 
-b) a gépjármű-hajtóanyagok minőségi követelményeit
+b) a motorhajtó anyagok minőségi követelményeit
 
 rendeletben állapítsa meg.
 
@@ -62,4 +68,4 @@ rendeletben állapítsa meg.
 
 (7) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg a műszaki biztonsági hatóság részére a műszaki biztonsági hatósági eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
-(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a 6. § (8) bekezdésében meghatározott, a jegyzői hatáskörbe tartozó engedélyezési eljárásban történő szakhatósági közreműködés szabályait és az azzal kapcsolatos szakkérdéseket rendeletben szabályozza.
+(8)

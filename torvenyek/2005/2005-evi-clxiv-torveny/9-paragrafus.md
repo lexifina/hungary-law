@@ -4,7 +4,7 @@
 
 (2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – az 5. § (2) és (4) bekezdésében, az 5/C. §-ban, a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(3) A jelentős piaci erővel rendelkező kereskedő felett a 7. § szerinti visszaéléssel kapcsolatos felügyeletet a Gazdasági Versenyhivatal a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvényben (a továbbiakban: Tpvt.) foglalt eljárási szabályok alkalmazásával végzi oly módon, hogy eljárásaiban a Tpvt. 21. §-ának megsértése esetén irányadó rendelkezéseket alkalmazza.
+(3) A 7. § megsértése miatt a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban, a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 21. §-ának megsértése esetén irányadó rendelkezések szerint.
 
 (4) A tevékenységre vonatkozó jogszabályi és hatósági előírások megsértése esetén – a külön jogszabályban foglaltak szerint – a kereskedelmi hatóság
 
@@ -28,4 +28,4 @@ f) közterületi értékesítés szabályainak megszegése kivételével bírsá
 
 g) a külön jogszabályban meghatározott egyéb jogkövetkezményt alkalmaz.
 
-(5) A kereskedelmi hatóságnak a (4) bekezdés a), valamint c)–g) pontjában foglaltak megsértése esetén hozott határozata ellen nincs helye fellebbezésnek.
+(5) A kereskedelmi hatóságnak a (4) bekezdés a), valamint c–g) pontjában foglaltak megsértése esetén hozott határozata ellen nincs helye fellebbezésnek.
