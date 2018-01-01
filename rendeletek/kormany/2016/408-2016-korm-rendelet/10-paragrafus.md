@@ -36,7 +36,7 @@ k) a cselekmény engedély nélkül vagy engedélytől eltérően végzett jelle
 
 (3) Az 1143/2014/EU európai parlamenti és tanácsi rendelet érvényesítése érdekében a Tvt. 10. § (4) bekezdése szerinti hatóság a feladat- és hatáskörébe tartozó ügyekben – a (2) bekezdésben foglalt mérlegelési szempontok figyelembevételével – az alábbi intézkedéseket rendelheti el:
 
-a) az idegenhonos inváziós fajok egyedeinek lefoglalása vagy elkobzása,
+a)[^1] az idegenhonos inváziós fajok egyedeinek zár alá vétele vagy elkobzása,
 
 b) az engedély hatályának felfüggesztése vagy az engedély visszavonása,
 
@@ -59,3 +59,5 @@ j) idegenhonos inváziós fajok tárolására, raktározására szolgáló föld
 k) inváziós faj elleni közérdekű védekezés vagy inváziós faj elleni állami védekezés elrendelése.
 
 (4) A (3) bekezdés szerinti intézkedések együttesen is elrendelhetők.
+
+[^1]: A 10. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 599. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
