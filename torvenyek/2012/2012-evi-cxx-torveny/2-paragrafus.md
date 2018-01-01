@@ -12,7 +12,7 @@ ac) a hivatásos vadász esetében a vad védelméről, a vadgazdálkodásról, 
 
 ad) közterület-felügyelő esetében a közterület-felügyeletről szóló törvényben,
 
-ae) a halászati őr esetében a halászatról és a horgászatról szóló törvényben,
+ae) a halászati őr esetében a halgazdálkodásról és a hal védelméről szóló törvényben,
 
 af) az erdészeti hatóság rendészeti feladatokat ellátó tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet esetében az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben
 
@@ -30,7 +30,7 @@ bd) a hegyőr tekintetében a hegyközség működési területéhez tartozó sz
 
 be) a hivatásos vadász tekintetében a vadászterületet és a közforgalom elől elzárt magánutat,
 
-bf) a halászati őr tekintetében a halászati vízterületet, halastavat, valamint annak partját,
+bf) halászati őr tekintetében a halgazdálkodási vízterületet, halastavat, valamint annak partját, állami alkalmazásban álló halászati őr tekintetében országos illetékességet,
 
 bg) rendészeti feladatokat ellátó erdészeti szakszemélyzet és rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet tekintetében az erdőt, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet és az erdészeti magánutat,
 

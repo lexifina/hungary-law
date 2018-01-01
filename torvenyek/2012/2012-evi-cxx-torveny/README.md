@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-120-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 2012-120-00-00.10 |
 | 2017-03-01 | 2015. évi CLXXXIII. törvény | 2012-120-00-00.11 |
 | 2017-05-05 | 2010. évi CXXX. törvény | 2012-120-00-00.12 |
+| 2018-01-01 | 2017. évi L. törvény | 2012-120-00-00.13 |

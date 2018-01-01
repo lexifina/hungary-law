@@ -32,7 +32,7 @@ d) az 1. § (1) bekezdés f) pontjában meghatározottak esetében a vadászati 
 
 e) az 1. § (1) bekezdés g) és h) pontjában meghatározottak esetében az erdészeti hatóság,
 
-f) az 1. § (1) bekezdés i) pontjában meghatározottak esetében a halászati hatóság,
+f) az 1. § (1) bekezdés i) pontjában meghatározottak esetében a halgazdálkodási hatóság,
 
 g) az 1. § (1) bekezdés l) pontjában meghatározottak esetében a mezőgazdasági igazgatási szerv
 

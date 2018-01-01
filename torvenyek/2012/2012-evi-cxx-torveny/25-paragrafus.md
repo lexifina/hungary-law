@@ -1,9 +1,3 @@
-## V. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK
-
-## 17. Felhatalmazó rendelkezések
-
 25. § Felhatalmazást kap a rendészetért felelős miniszter, hogy
 
 a) a képzés, kiegészítő képzés és vizsgák részletes tartalmi feltételeit, valamint a vizsgaszabályzatot az oktatásért felelős miniszterrel és az agrárpolitikáért, az erdőgazdálkodásért, a vadgazdálkodásért, a halgazdálkodásért és a természetvédelemért felelős miniszterrel egyetértésben,
