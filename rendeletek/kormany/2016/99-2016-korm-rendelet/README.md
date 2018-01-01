@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-99-20-2
 | 2016-07-02 | 2016-99-20-22.2 | 2010: CXXX. törvény |
 | 2016-12-17 | 2016-99-20-22.3 | 441/2016. (XII. 16.) Korm. rendelet |
 | 2017-09-26 | 2016-99-20-22.4 | 263/2017. (IX. 11.) Korm. rendelet |
+| 2018-01-01 | 2016-99-20-22.5 | 457/2017. (XII. 28.) Korm. rendelet |

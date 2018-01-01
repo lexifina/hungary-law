@@ -22,7 +22,7 @@ bb) f) pontjában meghatározott vizsgálat
 
 (5) A tűzvédelmi hatóság kérelemre hatósági eljárásban vizsgálja ki a kéményseprő-ipari szolgáltató által kiállított, a Kstv. 2. § (8) bekezdése szerinti, a kéményseprő-ipari tevékenység elvégzésének eredményét tartalmazó dokumentum kiadásával, valamint a Kstv. 3. § (6) bekezdése szerinti felmérésről szóló értesítéssel kapcsolatos vitás ügyeket, és azok tartalmát felülvizsgálja.
 
-(6) Az (5) bekezdésben meghatározott eljárás megindítására irányuló kérelem a Kstv. 2. § (8) bekezdése szerinti dokumentum, illetve a Kstv. 3. § (6) bekezdése szerinti felmérésről szóló értesítés kézhezvételétől számított tizenöt napon belül nyújtható be a tűzvédelmi hatósághoz. A kérelemhez mellékelni kell a dokumentum, illetve értesítés másolatát és az első fokú hatósági eljárásért fizetendő eljárási illeték megfizetését igazoló okiratot.
+(6)[^8] Az (5) bekezdésben meghatározott eljárás megindítására irányuló kérelem a Kstv. 2. § (8) bekezdése szerinti dokumentum, illetve a Kstv. 3. § (6) bekezdése szerinti felmérésről szóló értesítés kézhezvételétől számított tizenöt napon belül nyújtható be a tűzvédelmi hatósághoz.
 
 (7) Ha a tűzvédelmi hatóság az (5) bekezdés szerinti eljárása során megállapítja, hogy a kéményseprő-ipari szolgáltató nem tett eleget a Kstv. 2. § (8) bekezdése, illetve a Kstv. 3. § (6) bekezdése szerinti kötelezettségnek, határozatban állapítja meg a dokumentum három munkanapon belül történő kiadásának kötelezettségét. A tűzvédelmi hatóság a (6) bekezdés szerinti kérelmet elutasítja, ha a Kstv. 2. § (8) bekezdése, illetve a Kstv. 3. § (6) bekezdése szerinti dokumentumot a kéményseprő-ipari szolgáltató kiadta.
 
@@ -38,6 +38,15 @@ b) kivizsgálja a kéményseprő-ipari szerv által kiállított, a Kstv. 2. § 
 
 c) megvizsgálja az égéstermék-elvezető használati és műszaki állapota kéményseprő-ipari szerv általi, a Kstv. 3. § (6) bekezdése szerinti felmérésének tartalmát,
 
+## és a kéményseprő-ipari szervet – határidő tűzésével – írásban a jogszerű állapot helyreállítására hívja fel, valamint intézkedéséről az ingatlan használóját, tulajdonosát értesíti.
+
+(11)[^9] A kéményseprő-ipari tevékenységet ellátó a panaszról felvett jegyzőkönyvet és a válasz másolati példányát az ellenőrző hatóságoknak felhívásra bemutatja.
+
+(12)[^10] A kéményseprő-ipari tevékenységet ellátó ügyfélnek minősül azon hatósági eljárásban, amelyet a tűzvédelmi hatóság a kéményseprő-ipari tevékenységet ellátótól érkezett értesítés alapján indít a kötelezettségét nem teljesítő ingatlantulajdonossal szemben.
+
 [^5]: A 2. § (1) bekezdése a 263/2017. (IX. 11.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 62. §-ával megállapított, nyitó szövegrésze a 263/2017. (IX. 11.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^7]: A 2. § (2a) bekezdését a 263/2017. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
+[^8]: A 2. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 573. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^9]: A 2. § (11) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 573. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^10]: A 2. § (12) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 573. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
