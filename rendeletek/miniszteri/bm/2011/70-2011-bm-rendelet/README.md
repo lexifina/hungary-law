@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-70-20-0
 | 2016-01-01 | 2011-70-20-0A.9 | 76/2015. (XII. 22.) BM rendelet |
 | 2016-07-17 | 2011-70-20-0A.10 | 29/2016. (VII. 15.) BM rendelet |
 | 2017-01-01 | 2011-70-20-0A.11 | 55/2016. (XII. 22.) BM rendelet |
+| 2018-01-01 | 2011-70-20-0A.12 | 44/2017. (XII. 29.) BM rendelet |
