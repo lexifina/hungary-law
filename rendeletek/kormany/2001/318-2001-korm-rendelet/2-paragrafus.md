@@ -1,4 +1,4 @@
-2. §[^2] (1) Az elbíráló hatóság elsőfokú hatósági jogkörében eljárva:
+2. §[^2] (1)[^3] Az elbíráló hatóság hatósági jogkörében eljárva:
 
 a) dönt az igazolvány kiállításáról, cseréjéről, kicseréléséről, pótlásáról, kiállításának megtagadásáról, az igazolvány visszavonásáról és gondoskodik ezen tények nyilvántartásban történő feltüntetéséről,
 
@@ -23,3 +23,4 @@ b) adatszolgáltatást teljesít a nyilvántartásból,
 c) őrzi a b) pontban foglalt eljárás alapiratait.
 
 [^2]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 48. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 105. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
