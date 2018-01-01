@@ -42,7 +42,7 @@ i) legalább a közkézhányad mértékének megfelelő névértékben törzsré
 
 (5) A szabályozott ingatlanbefektetési elővállalkozásként vagy társaságként történő nyilvántartásba vétel érdekében a bejelentést az adózó akkor teheti meg, ha nincs az állami adóhatóságnál, vámhatóságnál valamint önkormányzati adóhatóságnál nyilvántartott köztartozása. E tényről az adózó a bejelentéskor nyilatkozik. Nem tehet bejelentést az az adózó, amelyet a bejelentést megelőző két naptári éven belül a szabályozott ingatlanbefektetési elővállalkozások vagy társaságok nyilvántartásából töröltek, ide nem értve azt az esetet, ha a törlésre az 5. § (3) bekezdésének f) pontja alapján került sor.
 
-(6) Az állami adóhatóság a bejelentés alapján történő nyilvántartásba vétel tekintetében az adózás rendjéről szóló 2003. évi XCII. törvény alapján jár el.
+(6) Az állami adóhatóság a bejelentés alapján történő nyilvántartásba vétel tekintetében az adózás rendjéről szóló törvény alapján jár el.
 
 (7) Szabályozott ingatlanbefektetési társaság projekttársasága csak olyan vállalkozás lehet,
 
