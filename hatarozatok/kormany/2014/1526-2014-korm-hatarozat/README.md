@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1526-30
 | 2016-02-26 | 2014-1526-30-22.3 | 1071/2016. (II. 25.) Korm. határozat |
 | 2016-05-25 | 2014-1526-30-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-03-06 | 2014-1526-30-22.5 | 1104/2017. (III. 6.) Korm. határozat |
+| 2018-01-01 | 2014-1526-30-22.6 | 2011. évi CXCV. törvény |
