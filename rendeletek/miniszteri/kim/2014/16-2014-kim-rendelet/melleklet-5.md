@@ -1,4 +1,4 @@
-5. melléklet a 16/2014. (III. 13.) KIM rendelethez[^18]
+5. melléklet a 16/2014. (III. 13.) KIM rendelethez[^20]
 
 ## Az OBH adatszolgáltatásának vagy az adatszolgáltatás teljesíthetetlensége esetén az erről szóló tájékoztatásnak az adattartalma
 
@@ -32,9 +32,9 @@
 
 5.2. arról való tájékoztatás, hogy a nyilvántartás nem tartalmaz adatot
 
-6. Az adatszolgáltatás iránti kérelem elutasítása esetén
+6. Az adatszolgáltatás iránti kérelem elutasítása vagy visszautasítása esetén
 
-6.1. arra való utalás, hogy az OBH a kérelmet milyen indokok alapján utasította el
+6.1. arra való utalás, hogy az OBH a kérelmet milyen indokok alapján utasította el vagy utasította vissza
 
 6.2. arra való utalás, hogy a felvilágosítást kérő a kérelmet újból előterjesztheti
 
@@ -48,4 +48,4 @@
 
 9. Az OBH bélyegzőlenyomata vagy elektronikus bélyegzője
 
-[^18]: Az 5. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § e) pontjával megállapított szöveg.
+[^20]: Az 5. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § e) pontjával megállapított, a 20/2017. (XII. 21.) IM rendelet 40. § b)–c) pontja szerint módosított szöveg.

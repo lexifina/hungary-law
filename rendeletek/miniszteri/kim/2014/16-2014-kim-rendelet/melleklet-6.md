@@ -1,4 +1,4 @@
-6. melléklet a 16/2014. (III. 13.) KIM rendelethez[^19]
+6. melléklet a 16/2014. (III. 13.) KIM rendelethez[^21]
 
 ## Az OBH adatszolgáltatási díj megfizetésére irányuló felhívásának adattartalma
 
@@ -28,4 +28,4 @@
 
 6. Az OBH bélyegzőlenyomata vagy elektronikus bélyegzője
 
-[^19]: A 6. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § f) pontjával megállapított szöveg.
+[^21]: A 6. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § f) pontjával megállapított szöveg.

@@ -1,4 +1,4 @@
-3. melléklet a 16/2014. (III. 13.) KIM rendelethez[^16]
+3. melléklet a 16/2014. (III. 13.) KIM rendelethez[^18]
 
 ## Az előzetes jognyilatkozatok nyilvántartásából történő adatigényléshez szükséges kérelem adattartalma
 
@@ -60,4 +60,4 @@
 
 6.2. címe
 
-[^16]: A 3. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § c) pontjával megállapított szöveg.
+[^18]: A 3. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § c) pontjával megállapított szöveg.
