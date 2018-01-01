@@ -1,34 +1,34 @@
-3. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez
+3. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^205]
 
 ## A szennyvízkibocsátás engedélyezéséhez benyújtandó engedélykérelmi dokumentáció tartalmi követelményei
 
 A) A tartalmi követelményekre vonatkozó általános előírások
 
-A szennyvízkibocsátás engedélyezéséhez az e rendelet 21. § (1)–(3) bekezdéseiben előírt engedélyezési eljárás során a külön jogszabályok szerinti engedélykérő dokumentáció tartalmi követelményeire vonatkozó előírásokat csak új létesítmények vízjogi engedélyezése, új és meglévő létesítmények egységes környezethasználati engedélyezése és meglévő létesítmények felülvizsgálata során kell teljesíteni, továbbá az engedélykérelemnek tartalmaznia kell a B) fejezet szerint meghatározott adatokat is.
+A szennyvízkibocsátás engedélyezéséhez a 21. § (1)-(3) bekezdésében előírt engedélyezési eljárás során a külön jogszabályok szerinti engedélykérő dokumentáció tartalmi követelményeire vonatkozó előírásokat csak új létesítmények vízjogi engedélyezése, új és meglévő létesítmények egységes környezethasználati engedélyezése és meglévő létesítmények felülvizsgálata során kell teljesíteni, továbbá az engedélykérelemnek tartalmaznia kell a B) fejezet szerint meghatározott adatokat is.
 
-B)[^204] Meglévő létesítményből kibocsátók engedélyének (vízjogi üzemeltetési, környezetvédelmi, működési, egységes környezethasználati, 25. § szerinti) szennyvízkibocsátással kapcsolatos megújításához, illetve meglévő, a 21. § (3) bekezdés szerinti kibocsátást folytatók kibocsátási határértékeinek megállapításához az e rendelet hatálybalépése után benyújtott engedélykérő dokumentációnak a következő adatokat, tervrészleteket kell tartalmaznia:
+B) Meglévő létesítményből kibocsátók engedélyének (vízjogi üzeméltetési, környezetvédelmi, működési, egységes környezethasználati, 25. § szerinti) szennyvízkibocsátással kapcsolatos megújításához, illetve meglévő, a 21. § (3) bekezdése szerinti kibocsátást folytatók kibocsátási határértékeinek megállapításához az e rendelet hatálybalépése után benyújtott engedélykérő dokumentációnak a következő adatokat, tervrészleteket kell tartalmaznia:
 
 1. Általában szükséges adatok minden kibocsátóra értelemszerűen vonatkoztatva
 
-1.1. A külön jogszabályban[^205] meghatározott adatok.
+1.1. A külön jogszabályban meghatározott adatok.
 
 1.2. Termelő üzemekből kibocsátók termelésre, gyártástechnológiára vonatkozó, az 1.1. pontban előírtakon túli, egyéb jellemző adatai:
 
-a) a szennyvíz keletkezését eredményező gyártástechnológia, a felhasznált alap- és segédanyagok, az ezekkel összefüggő – az anyagokban előforduló – károsító anyagok fajtái. A termelés jellemző volumen adata, illetőleg a termelési kapacitás;
+a) a szennyvíz keletkezését eredményező gyártástechnológia, a felhasznált alap- és segédanyagok, az ezekkel összefüggő – az anyagokban előforduló – károsító anyagok fajtái; a termelés jellemző volumen adata, illetve a termelési kapacitás,
 
-b) a termelési időszakok időtartama;
+b) a termelési időszakok időtartama,
 
-c) a szennyvíz keletkezését befolyásoló munkarend, az éves üzemnapok száma;
+c) a szennyvíz keletkezését befolyásoló munkarend, az éves üzemnapok száma,
 
-d) idényben vagy időszakosan működő kibocsátóknál az aktuális idény vagy időszak tartama, jellemzői;
+d) idényben vagy időszakosan működő kibocsátóknál az aktuális idény vagy időszak tartama, jellemzői,
 
-e) több műszakban, eltérő technológiákkal üzemelő kibocsátóknál a szennyvíz műszakonkénti megoszlása;
+e) több műszakban, eltérő technológiákkal üzemelő kibocsátóknál a szennyvíz műszakonkénti megoszlása,
 
-f) a vízveszteségnek az alkalmazott technológia jellemzői alapján mért vagy számított mértéke;
+f) a vízveszteségnek az alkalmazott technológia jellemzői alapján mért vagy számított mértéke,
 
-g) amennyiben az adott gyártási technológiára vonatkozóan a külön jogszabályban technológiai határértékek vannak érvényben, meg kell adni, hogy a folytatott (vagy folytatni kívánt) tevékenység(ek) a jogszabály mellékletében szereplő technológiák melyikével azonosítható (sorszám és pontos megnevezés megjelölésével);
+g) ha az adott gyártási technológiára vonatkozóan a külön jogszabályban technológiai határértékek vannak érvényben, meg kell adni, hogy a folytatott (vagy folytatni kívánt) tevékenység(ek) a jogszabály mellékletében szereplő technológiák melyikével azonosítható(ak) (sorszám és pontos megnevezés megjelölésével),
 
-h) több – technológiai határértékkel bíró – gyártási technológia esetében a szennyvízmennyiség megadása technológiai bontásban, m3/nap mértékegységben. Amennyiben a technológiai határérték(ek) a felhasznált anyag vagy termék egységére vetített szennyező anyag mennyiségben van megadva (kg/t), akkor szükséges a felhasznált anyag vagy előállított termék mennyiségének megadása technológiánként.
+h) több – technológiai határértékkel bíró – gyártási technológia esetében a szennyvízmennyiség megadása technológiai bontásban, m3/nap mértékegységben; ha a technológiai határérték(ek) a felhasznált anyag vagy termék egységére vetített szennyező anyag mennyiségben van(nak) megadva (kg/t), akkor szükséges a felhasznált anyag vagy előállított termék mennyiségének megadása technológiánként.
 
 1.3. Közvetlen bevezetést folytató kibocsátások esetében a befogadó jellemző adatai:
 
@@ -36,7 +36,7 @@ a) megnevezése,
 
 b) vízhozamának jellemzői,
 
-c) vízminőségvédelmi területi kategória szerinti besorolása,
+c) vízminőség-védelmi területi kategória szerinti besorolása,
 
 d) a közvetlen bevezetés helyének szelvényszáma, EOV koordinátái,
 
@@ -46,45 +46,43 @@ e) a bevezetés jellegének (parti, sodorvonali, hígulási) leírása.
 
 a) a tisztítótelep lakott területtől való távolsága,
 
-b)[^206]
+b) az üzemelés (szennyvíztisztítás) megkezdésének időpontja,
 
-c) az üzemelés (szennyvíztisztítás) megkezdésének időpontja,
+c) az engedély véglegessé válását követő érdemi, a szennyvíztisztítás hatékonyságát befolyásoló változások ismertetése,
 
-d) az engedély jogerőre emelkedését követő érdemi, a szennyvíztisztítás hatékonyságát befolyásoló változások ismertetése,
+d) a szennyvíztisztító mértékadó kapacitás (m3/d; LE),
 
-e) a szennyvíztisztító mértékadó kapacitás (m3/d; LE),
+e) a szennyvíztisztító telep jellemző szennyező anyag terhelése,
 
-f) a szennyvíztisztító telep jellemző szennyező anyag terhelése,
+f) a szennyvíztisztítási technológia leírása,
 
-g) a szennyvíztisztítási technológia leírása,
+g) az üzemelő tisztító műtárgyak ismertetése,
 
-h) az üzemelő tisztító műtárgyak ismertetése,
+h) a szennyvíztisztítás hatásfoka,
 
-i) a szennyvíztisztítás hatásfoka,
+i) a keletkező iszap mennyiségi, minőségi adatai, kezelése, végleges elhelyezése.
 
-j) a keletkező iszap mennyiségi, minőségi adatai, kezelése, végleges elhelyezése.
-
-1.5. A szennyvízelőkezelő és szennyvíztisztító létesítmények üzemeltetési és kárelhárítási szabályzatának leírása
+1.5. A szennyvíz-előkezelő és szennyvíztisztító létesítmények üzemeltetési és kárelhárítási szabályzatának leírása.
 
 1.6. A kibocsátás szabályozására vonatkozó, a kibocsátó kérelmét, javaslatát tartalmazó adatok
 
 a) egyedi kibocsátási határérték kérelmére és a kérelem alátámasztására vonatkozó adatok, ismertetések;
 
-b)[^207] a szennyvízkibocsátás ellenőrzésére vonatkozó adatok
+b) a szennyvízkibocsátás ellenőrzésére vonatkozó adatok:
 
-– mintavételi helyek (önellenőrzési és hatósági mintavétel a nyers szennyvíz és a kibocsátott szennyvíz ellenőrzésére),
+ba) mintavételi helyek (önellenőrzési és hatósági mintavétel a nyers szennyvíz és a kibocsátott szennyvíz ellenőrzésére),
 
-= keletkezési helyre előírt technológiai határérték ellenőrzési helye,
+baa) keletkezési helyre előírt technológiai határérték ellenőrzési helye,
 
-= elkeveredés előtti helyre előírt technológiai határérték ellenőrzési helye,
+bab) elkeveredés előtti helyre előírt technológiai határérték ellenőrzési helye,
 
-= közcsatornába vagy közös üzemi csatornába vezetésre előírt határérték ellenőrzési helye,
+bac) közcsatornába vagy közös üzemi csatornába vezetésre előírt határérték ellenőrzési helye,
 
-= felszíni víz befogadóba való közvetlen bevezetésre előírt kibocsátási határérték ellenőrzési helye,
+bad) felszíni víz befogadóba való közvetlen bevezetésre előírt kibocsátási határérték ellenőrzési helye,
 
-– önellenőrzést végző akkreditált laboratórium megnevezése.
+bb) önellenőrzést végző akkreditált laboratórium megnevezése.
 
-1.7. Benyújtandó egyéb tervrészletek, adatok:
+1.7. Egyéb tartalmi elemek:
 
 a) átnézetes helyszínrajz,
 
@@ -94,15 +92,13 @@ c) a szennyvíz-előtisztító, illetve tisztító technológia működési hoss
 
 d) szennyvízre, szennyvíziszapra vonatkozó – lehetőleg – akkreditált laboratórium által elvégzett önkontroll vizsgálati eredmények,
 
-e)[^208] a vízvédelmi hatóság hatáskörébe nem tartozó alkalmazási, működési és használatbavételi engedélyek, valamint a közegészségügyi hatóság által kiadott engedély másolatai és a telep nyilvántartási száma,
+e) az eddig előfordult üzemzavarok, havária események rövid ismertetése.
 
-f) az eddig előfordult üzemzavarok, havária események rövid ismertetése.
+2. Egyes vízilétesítményekből való kibocsátás esetén az 1.1., 1.3-1.7. pontban előírtak értelemszerű megadásán túl az engedélykérő dokumentáció részei:
 
-2. Egyes vízilétesítményekből való kibocsátás esetén az 1.1., 1.3–1.7. pontokban előírtak értelemszerű megadásán túl az engedélykérő dokumentációhoz a következőket is csatolni kell:
+2.1. Települési szennyvíztisztítóból való kibocsátás esetén
 
-2.7. Települési szennyvíztisztítóból való kibocsátás esetén
-
-a) a telep lakosegyenértékben (60 g BOI5/főxnap) kifejezett szervesanyag eltávolító kapacitása,
+a) a telep lakosegyenértékben (60 g BOI5/fő x nap) kifejezett szervesanyag eltávolító kapacitása,
 
 b) nitrifikációra vonatkozó adatok, műtárgyak, tartózkodási idők, berendezések,
 
@@ -110,70 +106,50 @@ c) denitrifikációra vonatkozó adatok, műtárgyak, tartózkodási idők, bere
 
 d) foszfor eltávolításra vonatkozó adatok, műtárgyak, tartózkodási idők, berendezések, használt vegyszerek megnevezése, mennyisége,
 
-e) a telep lakosegyenértékben (60 g BOI5/főxnap) kifejezett szervesanyag terhelése,
+e) a telep lakosegyenértékben (60 g BOI5/fő x nap) kifejezett szervesanyag terhelése,
 
 f) csatornamű hulladékok mennyiségére, minőségére, kezelésére vonatkozó adatok.
 
-2.8. Szivattyútelepről való közvetlen bevezetést folytató kibocsátás esetén
+2.2. Szivattyútelepről való közvetlen bevezetést folytató kibocsátás esetén
 
-a)[^209]
+a) az engedély véglegessé válását követő érdemi, a kibocsátást befolyásoló változások ismertetése,
 
-b) az engedély jogerőre emelkedését követő érdemi, a kibocsátást befolyásoló változások ismertetése,
+b) a kibocsátott szennyvíz mennyiségére és minőségére vonatkozó (önellenőrzési) adatok,
 
-c) a kibocsátott szennyvíz mennyiségére és minőségére vonatkozó (önellenőrzési) adatok,
+c) egyéb csatornamű hulladékok mennyiségére, minőségére és ártalmatlanítására vonatkozó adatok,
 
-d) egyéb csatornamű hulladékok mennyiségére, minőségére és ártalmatlanítására vonatkozó adatok,
+d) üzemeltetési szabályzat,
 
-e) üzemeltetési szabályzat,
+e) kárelhárítás szabályzat.
 
-f) kárelhárítás szabályzat.
+2.3. A végpontján szennyvíztisztító teleppel nem rendelkező szennyvízelvezető hálózatból (szabadkiömlőből) való közvetlen bevezetés esetén
 
-2.9. A végpontján szennyvíztisztító teleppel nem rendelkező szennyvízelvezető hálózatból (szabadkiömlőből) való közvetlen bevezetés esetén
+a) az engedély véglegessé válását követő érdemi, a kibocsátást befolyásoló változások ismertetése,
 
-a)[^210]
+b) a kibocsátott szennyvíz mennyiségére és minőségére vonatkozó (önellenőrzési) adatok,
 
-b) az engedély jogerőre emelkedését követő érdemi, a kibocsátást befolyásoló változások ismertetése,
+c) kárelhárítási szabályzat.
 
-c) a kibocsátott szennyvíz mennyiségére és minőségére vonatkozó (önellenőrzési) adatok,
+3. Ha a meglévő létesítményből kibocsátást folytató vízjogi engedélyköteles kibocsátó nem rendelkezik érvényes vízjogi üzemeltetési engedéllyel az 1. és 2. pontban előírtak értelemszerű alkalmazásával megadott adatokon túl az engedélykérő dokumentáció részei:
 
-d) kárelhárítási szabályzat.
-
-3. Amennyiben a meglévő létesítményből kibocsátást folytató vízjogi engedélyköteles kibocsátó nem rendelkezik érvényes vízjogi üzemeltetési engedéllyel az 1., 2. fejezetekben előírtak értelemszerű alkalmazásával megadott adatokon túl a következőket is csatolni kell az engedélykérő dokumentációhoz:
-
-3.7.[^211]
-
-3.8. Amennyiben a kibocsátó nem nyújtott be engedélykérelmet
-
-a) szennyvíztisztító telepről vagy szennyvíz-előtisztító (kezelő) létesítményből való kibocsátás esetében
-
-– a külön jogszabályban[^212] előírtak;
+a) szennyvíztisztító telepről vagy szennyvíz-előtisztító (kezelő) létesítményből való kibocsátás esetében a vízjogi engedélyezési eljáráshoz szükséges dokumentáció tartalmáról szóló miniszteri rendeletben előírtak;
 
 b) szivattyútelepről való közvetlen bevezetés esetében
 
-– a vízgyűjtőterület jellemzése,
+ba) a vízgyűjtőterület jellemzése,
 
-– a vízgyűjtőterületen működő, a környezetre potenciális veszélyt jelentő, nagyobb ipari szennyvízkibocsátók megnevezése, ezen kibocsátók szennyvizeinek jellemzése,
+bb) a vízgyűjtőterületen működő, a környezetre potenciális veszélyt jelentő, nagyobb ipari szennyvízkibocsátók megnevezése, ezen kibocsátók szennyvizeinek jellemzése,
 
-–[^213] a vízgyűjtőterületen leeresztett nem közművel összegyűjtött háztartási szennyvíz mennyisége, minősége,
+bc) a vízgyűjtőterületen leeresztett nem közművel összegyűjtött háztartási szennyvíz mennyisége, minősége,
 
-– a szivattyútelep műtárgyainak és berendezéseinek leírása, vázlatrajza;
+bd) a szivattyútelep műtárgyainak és berendezéseinek leírása, vázlatrajza;
 
 c) szabadkiömlőből való közvetlen bevezetés esetében
 
-– a vízgyűjtőterület jellemzése,
+ca) a vízgyűjtőterület jellemzése,
 
-– a vízgyűjtőterületen működő, a környezetre veszélyt jelentő, nagyobb ipari szennyvízkibocsátók megnevezése, ezen kibocsátók szennyvizeinek jellemzése,
+cb) a vízgyűjtőterületen működő, a környezetre veszélyt jelentő, nagyobb ipari szennyvízkibocsátók megnevezése, ezen kibocsátók szennyvizeinek jellemzése,
 
-–[^214] a vízgyűjtőterületen leeresztett nem közművel összegyűjtött háztartási szennyvíz mennyisége, minősége.
+cc) a vízgyűjtőterületen leeresztett nem közművel összegyűjtött háztartási szennyvíz mennyisége, minősége.
 
-[^204]: A 3. számú melléklet B)pont nyitó szövegrésze a 310/2014. (XII. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^205]: A használt és szennyvizek kibocsátásának méréséről, ellenőrzéséről, adatszolgáltatásáról, valamint a vízszennyezési bírság sajátos szabályairól szóló 7/2002. (III. 1.) KöM rendelet 3/I. számú mellékletének 1–22. pontja.
-[^206]: A 3. számú melléklet 1.4. pontjának b) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^207]: A 3. számú melléklet B) 1. pont 1.6. alpont b) alpontja a 310/2014. (XII. 11.) Korm. rendelet 4. § (6) pontjával megállapított szöveg.
-[^208]: A 3. számú melléklet 1.7. pontjának e) alpontja a 182/2009. (IX. 10.) Korm. rendelet 360. § (5) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
-[^209]: A 3. számú melléklet 2.8. pontjának a) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^210]: A 3. számú melléklet 2.9. pontjának a) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^211]: A 3. számú melléklet 3.7. pontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^212]: A vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló 18/1996. (VI. 13.) KHVM rendelet 2. §-ban.
-[^213]: A 3. számú melléklet B) rész 3.8. pont b) alpont harmadik franciabekezdése a 441/2012. (XII. 29.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^214]: A 3. számú melléklet B) rész 3.8. pont c) alpont harmadik franciabekezdése a 441/2012. (XII. 29.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^205]: A 3. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 135. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

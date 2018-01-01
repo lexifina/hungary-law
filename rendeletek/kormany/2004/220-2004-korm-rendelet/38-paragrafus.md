@@ -46,13 +46,13 @@ tizedik évétől a megállapított bírság 20%-ában
 
 a) a határértékek teljesítéséhez szükséges beruházás
 
-aa) vízjogi létesítési engedélye 2010. december 31-ig jogerőre emelkedett, vagy
+aa)[^138] vízjogi létesítési engedélye 2010. december 31-ig véglegessé vált, vagy
 
 ab) támogatásáról a Környezet és Energia Operatív Program Irányító Hatósága által jóváhagyott döntés megszületett, és
 
 b) a települési szennyvíztisztítóból kibocsátott szennyvíz a dikromátos oxigénfogyasztás (KOIk), a biokémiai oxigénigény (BOI5) és az összes lebegőanyag (ÖLA) koncentrációja vagy minimális eltávolítási hatásfoka tekintetében nem haladja meg a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben a települések szennyvíz-elvezetésére és -tisztítására vonatkozó technológiai határértékekként meghatározott követelményeket.
 
-(6)[^138] Ha a nem szolgáltató kibocsátó a hatóság által jóváhagyott szennyezéscsökkentési ütemtervének végrehajtását megkezdte, de azt az ütemezésnek megfelelően nem tudja teljesíteni, akkor – kérelmére – a hatóság a (7) bekezdésben meghatározott türelmi időn belüli határnapot állapíthat meg, ha a nem szolgáltató kibocsátó csatolta a kérelemhez:
+(6)[^139] Ha a nem szolgáltató kibocsátó a hatóság által jóváhagyott szennyezéscsökkentési ütemtervének végrehajtását megkezdte, de azt az ütemezésnek megfelelően nem tudja teljesíteni, akkor – kérelmére – a hatóság a (7) bekezdésben meghatározott türelmi időn belüli határnapot állapíthat meg, ha a nem szolgáltató kibocsátó csatolta a kérelemhez:
 
 a) a módosított szennyezéscsökkentési ütemtervet, valamint
 
@@ -60,7 +60,7 @@ b) az előrehaladás állapotáról szóló jelentést, és
 
 az ezekben foglalt adatok alapján megállapítható, hogy a meghatározott határnapig a módosított szennyezéscsökkentési ütemterv teljesül.
 
-(7)[^139] Az (5) és a (6) bekezdésekben meghatározott esetekben a türelmi idő utolsó napja:
+(7)[^140] Az (5) és a (6) bekezdésekben meghatározott esetekben a türelmi idő utolsó napja:
 
 a) 2015. december 31.
 
@@ -76,5 +76,6 @@ b) 2012. december 31. az a) pont alá nem tartozó esetben.
 [^135]: A 38. § új (3) bekezdését a 208/2006. (X. 16.) Korm. rendelet 7. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva.
 [^136]: A 38. § (3) bekezdésének záró szövegrésze a 312/2005. (XII. 25.) Korm. rendelet 5. § a) pontjával megállapított szöveg. A 38. § eredeti (3) bekezdésének számozását a 208/2006. (X. 16.) Korm. rendelet 7. § (2) bekezdése (4) bekezdésre változtatta.
 [^137]: A 38. § (5) bekezdését a 307/2010. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^138]: A 38. § (6) bekezdését a 307/2010. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^139]: A 38. § (7) bekezdését a 307/2010. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^138]: A 38. § (5) bekezdés a) pont aa) alpontja a 457/2017. (XII. 28.) Korm. rendelet 136. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^139]: A 38. § (6) bekezdését a 307/2010. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^140]: A 38. § (7) bekezdését a 307/2010. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
