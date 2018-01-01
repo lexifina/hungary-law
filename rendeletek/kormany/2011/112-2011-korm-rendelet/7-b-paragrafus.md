@@ -1,13 +1,13 @@
-## 7/A. §[^21] Az 1. § (1) bekezdés i) pontja szerinti bejelentést első alkalommal legkésőbb 2015. augusztus 23-ig meg kell tenni.
+## 7/A. §[^26] Az 1. § (1) bekezdés i) pontja szerinti bejelentést első alkalommal legkésőbb 2015. augusztus 23-ig meg kell tenni.
 
-7/B. §[^22] (1) Az egyes atomenergetikai tárgyú kormányrendeletek módosításáról szóló 139/2014. (IV. 30.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított 5/A. § (1) bekezdését a Mód. Kr. hatálybalépésekor[^23] folyamatban lévő eljárásokban is alkalmazni kell az olyan eljárási cselekmények kivételével, amelyek teljesítésére előírt határidő a Mód. Kr. hatálybalépése előtt már letelt.
+7/B. §[^27] (1) Az egyes atomenergetikai tárgyú kormányrendeletek módosításáról szóló 139/2014. (IV. 30.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított 5/A. § (1) bekezdését a Mód. Kr. hatálybalépésekor[^28] folyamatban lévő eljárásokban is alkalmazni kell az olyan eljárási cselekmények kivételével, amelyek teljesítésére előírt határidő a Mód. Kr. hatálybalépése előtt már letelt.
 
-(2) A szakhatóság a Mód. Kr. hatálybalépését követő nyolc napon belül írásban tájékoztatja az (1) bekezdés szerinti eljárások ügyfeleit az eljárási határidők változásáról, valamint az eljárás várható időtartamáról, kivéve, ha a szakhatóság a Mód. Kr. hatálybalépését követő nyolc napon belül az állásfoglalását kiadja.
+(2)[^29]
 
-(3)[^24] Az 1. mellékletben foglalt táblázatnak a fővárosi és megyei kormányhivatalok működésével összefüggő egyes kormányrendeletek módosításáról szóló 52/2017. (III. 20.) Korm. rendelettel megállapított 7.5. sora hatálybalépése előtt megkezdett és a hatálybalépése[^25] időpontjában folyamatban lévő eljárásokat az eljárás megindításakor hatályos rendelkezések szerint kell befejezni.
+(3)[^30]
 
-[^21]: A 7/A. §-t a 216/2013. (VI. 21.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^22]: A 7/B. §-t a 139/2014. (IV. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^23]: A hatálybalépés napja: 2014. május 1.
-[^24]: A 7/B. § (3) bekezdését az 52/2017. (III. 20.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^25]: A hatálybalépés időpontja 2017. március 21.
+[^26]: A 7/A. §-t a 216/2013. (VI. 21.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^27]: A 7/B. §-t a 139/2014. (IV. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^28]: A hatálybalépés napja: 2014. május 1.
+[^29]: A 7/B. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 331. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^30]: A 7/B. § (3) bekezdését az 52/2017. (III. 20.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 331. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

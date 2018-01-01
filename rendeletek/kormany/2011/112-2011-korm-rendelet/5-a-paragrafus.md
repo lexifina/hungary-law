@@ -1,20 +1,33 @@
-## 5. §[^16] A Kormány az OAH 1. és 2. melléklet szerinti hatósági eljárásaiban – az 1. és 2. mellékletben meghatározott feltételek esetében és szakkérdésben – az 1. és 2. melléklet szerinti hatóságokat szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság előzetes szakhatósági állásfoglalást ad ki, amely egy évig hatályos.
+5/A. §[^17] (1) Az OAH hatósági bizonyítványt állít ki a zárt sugárforrás első forgalomba helyezésekor az első tulajdonos részére, továbbá – a radioaktív hulladékká minősített zárt sugárforrásokat kivéve – a zárt sugárforrás tulajdonjogának valamennyi átruházása esetében az új tulajdonosa részére. A hatósági bizonyítvány iránti kérelmet az első tulajdonos az első forgalomba helyezést megelőzően legalább 30 nappal, az új tulajdonos a tulajdonos-változást követő 30 napon belül köteles előterjeszteni.
 
-5/A. §[^17] (1) A szakhatóság eljárására irányadó ügyintézési határidő
+(2) Az (1) bekezdés szerinti hatósági bizonyítvány a zárt sugárforrások egyedi azonosítására és a tulajdonjog igazolására szolgál. A hatósági bizonyítvány – az általános közigazgatási rendtartásról szóló törvényben foglalt tartalmi elemek mellett – a következő adatokat tartalmazza:
 
-a) negyvenöt nap
+a) hatósági azonosító,
 
-aa) az Atv. 17. § (2) bekezdés 1. pontjában meghatározott ügyekben,
+b) eredeti műbizonylat száma,
 
-ab) az Atv. 17. § (2) bekezdés 5. pontjában meghatározott ügyekben, ha a nukleáris létesítmény átalakítása a nukleáris létesítmény üzemeltetési engedélyének módosítását igényli,
+c) tulajdonos neve és címe,
 
-ac) az Atv. 17. § (2) bekezdés 10. pontjában meghatározott ügyekben, valamint
+d) radionuklid (elem és tömegszám).
 
-ad) az Atv. 17. § (2) bekezdés 18. pontja szerinti, a tervezési alapfenyegetettség első alkalommal történő megállapítása és a fizikai védelmi rendszer első alkalommal történő engedélyezése esetében,
+e) eredeti aktivitás, aktivitás dátuma,
 
-b) harminc nap – az a) pont ab) alpontjában meghatározott kivétellel – az Atv. 17. § (2) bekezdés 3–9. pontjában meghatározott ügyekben.
+f) rendeltetés,
 
-(2) A szakhatóság vezetője indokolt esetben a szakhatósági eljárásra irányadó (1) bekezdés szerinti ügyintézési határidőt egy alkalommal, tíz nappal meghosszabbíthatja. Az ügyintézési határidő meghosszabbításáról a szakhatóság értesíti az ügyfelet és az OAH-t.
+g) gyártási szám,
 
-[^16]: Az 5. § a 156/2014. (VI. 30.) Korm. rendelet 2. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^17]: Az 5/A. §-t a 139/2014. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+h) felhasználási idő,
+
+i) fizikai, kémiai forma (ha ismert),
+
+j) nagyaktivitású zárt sugárforrás esetében a sugárforrás gyártója vagy forgalmazója által a sugárforrás típusáról és a sugárforrástartó típusáról készített fénykép.
+
+(3) A hatósági bizonyítvány kiállításáig a zárt sugárforrások azonosítása az eredeti műbizonylattal történik.
+
+(4) A radioaktív anyagokról országosan összesített számítógépes központi, valamint helyi nyilvántartást kell vezetni. A központi nyilvántartás rendszerének kialakítása, működtetése, továbbá a tulajdonosok és birtokosok által vezetett helyi nyilvántartások esetében alkalmazandó nyilvántartó program térítésmentes biztosítása, a helyi nyilvántartások ellenőrzése az OAH feladata.
+
+(5) A központi nyilvántartás működésének költségeit az OAH éves költségvetésében tervezett módon biztosítja.
+
+(6) Az OAH a tulajdonos vagy birtokos kérelmére a (4) bekezdésben meghatározott nyilvántartó programtól eltérő módon vezetett helyi nyilvántartás alkalmazását engedélyezheti. Az engedélykérelemben be kell mutatni, hogy az eltérő módon vezetett nyilvántartás alkalmas a jogszabályokban meghatározott adatok kezelésére, ideértve a leltározási és adatszolgáltatási kötelezettségek teljes körű támogatását is. Az engedélykérelemhez mellékelni kell a jogszabályi előírásoknak megfelelő, a tulajdonos vagy birtokos működését szabályozó belső dokumentációt.
+
+[^17]: Az 5/A. §-t a 139/2014. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 329. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

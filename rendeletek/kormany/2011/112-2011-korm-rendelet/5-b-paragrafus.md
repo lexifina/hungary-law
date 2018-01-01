@@ -1,23 +1,5 @@
-5/B. §[^18] (1) A szakhatóság eljárására irányadó ügyintézési határidő a radioaktívhulladék-tárolók és radioaktív hulladék átmeneti tárolók (a továbbiakban: radioaktívhulladék-tárolók) tekintetében
+5/B. §[^18] (1) Ha a tulajdonos vagy a birtokos jelzése szerint a radioaktív anyagok leltározásakor bármely hiány vagy többlet mutatkozik, az OAH haladéktalanul értesíti az Országos Rendőr-főkapitányságot (a továbbiakban: ORFK), a TEK-et, a polgári nemzetbiztonsági szolgálatokat és az országos tisztifőorvos által működtetett Országos Sugár-egészségügyi Készenléti Szolgálatot. Az e bekezdésben felsorolt szervek a bejelentés ügyében hozott – az OAH hatáskörét érintő – intézkedéseikről tájékoztatják az OAH-t.
 
-a) negyvenöt nap
+(2) Ha az országos tisztifőorvos, az ORFK, a nemzetbiztonsági szolgálatok vagy a BM OKF a radioaktív anyagok nyilvántartásának és ellenőrzésének rendjéről, valamint a kapcsolódó adatszolgáltatásról szóló miniszteri rendeletben és e kormányrendeletben meghatározott előírás megsértését észleli, erről haladéktalanul tájékoztatja az OAH-t.
 
-aa) a telephely vizsgálatára és értékelésére irányuló ügyekben, valamint
-
-ab) az Atv. 17. § (2) bekezdés 15. pontjában meghatározott ügyekben,
-
-b) harminc nap az alábbi ügyekben:
-
-ba) a radioaktívhulladék-tárolóval összefüggő építmények hatósági engedélyezése és ellenőrzése, továbbá az építmények felvonóinak hatósági engedélyezése,
-
-bb) a radioaktívhulladék-tárolók rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése,
-
-bc) a radioaktívhulladék-tárolók átalakításához szükséges engedélyezés és ellenőrzés,
-
-bd) a radioaktívhulladék-tárolók rendszerének, rendszerelemének, az engedélyes szervezeti felépítésének, irányítási rendszerének, műszaki és szabályozó dokumentumainak átalakításához szükséges engedélyezés és ellenőrzés,
-
-be) a radioaktívhulladék-tárolók nukleárisbaleset-elhárítási intézkedési tervének jóváhagyásához szükséges nukleáris biztonsági engedélyezés.
-
-(2) A szakhatóság vezetője indokolt esetben a szakhatósági eljárásra irányadó ügyintézési határidőt egy alkalommal, tíz nappal meghosszabbíthatja. Az ügyintézési határidő meghosszabbításáról a szakhatóság értesíti az ügyfelet és az OAH-t.
-
-[^18]: Az 5/B. §-t a 156/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^18]: Az 5/B. §-t a 156/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 329. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
