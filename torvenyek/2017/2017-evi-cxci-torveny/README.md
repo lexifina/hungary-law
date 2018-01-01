@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-191-00-00
 | --- | --- | --- |
 | 2017-12-19 | 2017. évi CXCI. törvény | 2017-191-00-00.0 (közlönyállapot) |
 | 2017-12-19 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-191-00-00.1 |
+| 2018-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-191-00-00.2 |
