@@ -84,7 +84,7 @@
 
 | 1.4.3. |  | Rendelkezés sztrájk esetére |
 
-| 2. |  | Egy, illetve több, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alatt működő költségvetési intézményre (munkáltatóra) kiterjedő hatályú, a Kjt. rendelkezéseinek alkalmazásával kötött kollektív szerződés nyilvántartásba vételére szolgáló adatlap tartalmának pontjai: |
+| 2. |  | Egy, illetve több, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alatt működő költségvetési intézményre (munkáltatóra) kiterjedő hatályú, a Kjt. rendelkezéseinek alkalmazásával, illetve egyéb jogszabályi felhatalmazással rendelkező államigazgatási szerv által kötött kollektív szerződés nyilvántartásba vételére szolgáló adatlap tartalmának pontjai: |
 
 | 2.1. |  | A szerződő felek és a kollektív szerződés általános adatai |
 
@@ -158,6 +158,6 @@
 
 | 2.4.3. |  | Rendelkezés sztrájk esetére |
 
-2–5. számú melléklet a 2/2004. (I. 15.) FMM rendelethez[^15]
+2–5. számú melléklet a 2/2004. (I. 15.) FMM rendelethez[^17]
 
-[^15]: A 2–5. számú mellékletet a 9/2010. (IV. 13.) SZMM rendelet 3. §-a hatályon kívül helyezte.
+[^17]: A 2–5. számú mellékletet a 9/2010. (IV. 13.) SZMM rendelet 3. §-a hatályon kívül helyezte.
