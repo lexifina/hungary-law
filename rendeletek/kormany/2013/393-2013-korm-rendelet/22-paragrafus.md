@@ -8,9 +8,9 @@ b) az Fktv. 1. § (2) bekezdés c) és d) pontja szerinti képzés esetén a ké
 
 kerül sor.
 
-(2)[^72] A kérdőív kitöltésére legalább tizenöt percet kell biztosítani. A kérdőív – a 3. mellékletben foglaltak kötelező feltüntetésével – legfeljebb tizenöt kérdésből állhat azzal, hogy a kitöltő az érintett képzéssel összefüggő kérdésekre válaszol.
+(2)[^75] A kérdőív kitöltésére legalább tizenöt percet kell biztosítani. A kérdőív – a 3. mellékletben foglaltak kötelező feltüntetésével – legfeljebb tizenöt kérdésből állhat azzal, hogy a kitöltő az érintett képzéssel összefüggő kérdésekre válaszol.
 
-(3)[^73] A felnőttképzést folytató intézmény a kérdőívet postai úton – a feladó megjelölése nélküli díjmentes válaszborítékot mellékelve – küldi meg a képzésben résztvevő számára, vagy a válaszadó azonosíthatóságát kizáró módon biztosítja a kérdőív elektronikus kitöltésének lehetőségét, ha
+(3)[^76] A felnőttképzést folytató intézmény a kérdőívet postai úton – a feladó megjelölése nélküli díjmentes válaszborítékot mellékelve – küldi meg a képzésben résztvevő számára, vagy a válaszadó azonosíthatóságát kizáró módon biztosítja a kérdőív elektronikus kitöltésének lehetőségét, ha
 
 a) az (1) bekezdés a) pontja szerinti képzés elvégzését igazoló bizonyítványt vagy tanúsítványt megbízott veszi át vagy a vizsga eredménytelen vagy sikertelen,
 
@@ -20,8 +20,8 @@ b) az (1) bekezdés b) pontja szerinti képzés esetén a kérdőív kitöltés�
 
 (5) A kérdőívet a támogató javaslatainak figyelembevételével kell véglegesíteni.
 
-(6)[^74]
+(6)[^77]
 
-[^72]: A 22. § (2) bekezdése a 136/2014. (IV. 24.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^73]: A 22. § (3) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^74]: A 22. § (6) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.
+[^75]: A 22. § (2) bekezdése a 136/2014. (IV. 24.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^76]: A 22. § (3) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^77]: A 22. § (6) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.

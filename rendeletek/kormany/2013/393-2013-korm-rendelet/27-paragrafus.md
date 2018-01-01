@@ -1,8 +1,8 @@
-27. § (1)[^91] A szakértői bizottság a 26. § (3) bekezdésében foglaltakon túl bármely folyamatban lévő képzés és legalább egy lezárt képzés teljes dokumentációját is megvizsgálja.
+27. § (1)[^95] A szakértői bizottság a 26. § (3) bekezdésében foglaltakon túl bármely folyamatban lévő képzés és legalább egy lezárt képzés teljes dokumentációját is megvizsgálja.
 
-(2)[^92] A szakértői bizottság vezetője, vagy az általa kijelölt bizottsági tag (a továbbiakban: kijelölt bizottsági tag) a folyamatban lévő képzés ellenőrzése keretében elméleti órát, illetve gyakorlati képzési részt tartalmazó képzés esetén gyakorlati képzést látogat. A kijelölt bizottsági tag csak olyan elméleti órát, gyakorlati képzést látogathat, amelynek szakmai tartalmához a felnőttképzési szakértő vagy a felnőttképzési programszakértő nyilvántartásban szereplő szakterülete igazodik.
+(2)[^96] A szakértői bizottság vezetője, vagy az általa kijelölt bizottsági tag (a továbbiakban: kijelölt bizottsági tag) a folyamatban lévő képzés szakértői vizsgálata keretében elméleti órát, illetve gyakorlati képzési részt tartalmazó képzés esetén gyakorlati képzést látogat. A kijelölt bizottsági tag csak olyan elméleti órát, gyakorlati képzést látogathat, amelynek szakmai tartalmához a felnőttképzési szakértő vagy a felnőttképzési programszakértő nyilvántartásban szereplő szakterülete igazodik.
 
-(3)[^93] A kijelölt bizottsági tag a (2) bekezdés szerinti látogatás keretében megvizsgálja, hogy
+(3)[^97] A kijelölt bizottsági tag a (2) bekezdés szerinti látogatás keretében megvizsgálja, hogy
 
 a) az oktatók megfelelően vezetik-e a haladási naplót, és a jelenlévő képzésben résztvevők aláírása szerepel-e a jelenléti íven,
 
@@ -12,9 +12,9 @@ c) a tanóra, illetve a gyakorlati képzés tartalmában a képzési program meg
 
 d) az oktató által alkalmazott módszerek a szakmai és a pedagógiai, andragógiai követelményeknek megfelelnek-e.
 
-(4)[^94] A kijelölt bizottsági tag az óralátogatáson szerzett tapasztalatairól – a foglalkozást követően – a felnőttképzést folytató intézmény vezetőjének jelenlétében megbeszélést tart az oktatóval, amely során ismerteti a látogatás során szerzett tapasztalatait.
+(4)[^98] A kijelölt bizottsági tag az óralátogatáson szerzett tapasztalatairól – a foglalkozást követően – a felnőttképzést folytató intézmény vezetőjének jelenlétében megbeszélést tart az oktatóval, amely során ismerteti a látogatás során szerzett tapasztalatait.
 
-[^91]: A 27. § (1) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^92]: A 27. § (2) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^93]: A 27. § (3) bekezdés nyitó szövegrésze a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés g) pontja szerint módosított szöveg.
-[^94]: A 27. § (4) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^95]: A 27. § (1) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^96]: A 27. § (2) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 16. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 463. § k) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^97]: A 27. § (3) bekezdés nyitó szövegrésze a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^98]: A 27. § (4) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés g) pontja szerint módosított szöveg.
