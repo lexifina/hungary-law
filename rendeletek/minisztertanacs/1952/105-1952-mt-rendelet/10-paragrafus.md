@@ -1,1 +1,0 @@
-## 9. § A bíróság a kérelem tárgyában végzéssel határoz. Ha a kérelemnek helyt ad, a házastársi vagyonközösséget a végzés jogerőre emelkedését követő hónap utolsó napját követő időre nézve megszünteti. A végzést a házastársak ismert közös hitelezőinek is kézbesíttetni kell.
