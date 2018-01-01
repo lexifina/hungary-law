@@ -12,9 +12,9 @@ e) a pénztár pénzügyi tervének elfogadása;
 
 f) az alapszabály által meghatározott körben a munkáltatói taggal (tagokkal) kötött szerződés jóváhagyása;
 
-g) a tevékenységi engedély jogerőre emelkedése előtt kötött szerződések jóváhagyása;
+g) a tevékenységi engedély véglegessé válása előtt kötött szerződések jóváhagyása;
 
-h) a tevékenységi engedély jogerőre emelkedése előtt a pénztár nevében eljáró személyek, az igazgatótanács és az ellenőrző bizottság tagjai elleni kártérítési igény érvényesítése, továbbá intézkedés a pénztár képviseletére jogosultak ellen indított perekben a pénztár képviseletéről;
+h) a tevékenységi engedély véglegessé válása előtt a pénztár nevében eljáró személyek, az igazgatótanács és az ellenőrző bizottság tagjai elleni kártérítési igény érvényesítése, továbbá intézkedés a pénztár képviseletére jogosultak ellen indított perekben a pénztár képviseletéről;
 
 i) döntés érdekképviseleti szervhez történő csatlakozásról, illetve az abból történő kiválásról;
 

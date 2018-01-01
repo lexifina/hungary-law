@@ -2,13 +2,13 @@
 
 (2) Az (1) bekezdés alapján megismert személyes adatokat a pénztár a vagyonkezelői tevékenység irányítójának alkalmazásáról, illetve ingatlanértékelő megbízásáról meghozott döntésig, a vagyonkezelő alkalmazása vagy ingatlanértékelő megbízása esetén a jogviszony fennállásáig kezeli.
 
-(3) A pénztár az ingatlanértékelő megbízását követő huszonegy napon belül a Felügyeletnek jóváhagyás végett bejelenti az értékelő személyét, és csatolja az ingatlanértékelő hatósági bizonyítványát – annak igazolására, hogy büntetlen előéletű, nem áll az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, vele szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok –, valamint a végzettségét és gyakorlatát igazoló dokumentumok hiteles másolatát.
+(3) A pénztár az ingatlanértékelő megbízását követő huszonegy napon belül a Felügyeletnek jóváhagyás végett bejelenti az értékelő személyét.
 
 (4) A Felügyelet hatósági ellenőrzés keretében ellenőrizheti, hogy az ingatlanértékelő büntetlen előéletű, nem áll az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, és vele szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok. A hatósági ellenőrzést folytató Felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az ingatlanértékelő büntetlen előéletű-e, az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll-e, valamint fennáll-e vele szemben a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok.
 
 (5) A Felügyelet az ingatlanértékelő
 
-a) (3) bekezdés alapján megismert személyes adatait az ingatlanértékelő megbízásának jóváhagyásáig,
+a) (3) bekezdés alapján megismert személyes adatait az ingatlanértékelő jogviszonyának megszűnésétől számított legfeljebb 5 évig,
 
 b) a (4) bekezdés alapján megismert személyes adatait a hatósági ellenőrzés időtartamára vagy a pénztár az ingatlanértékelő jogviszonyának megszüntetéséről szóló (6) bekezdés szerinti értesítésének a Felügyelethez történő megérkezéséig
 

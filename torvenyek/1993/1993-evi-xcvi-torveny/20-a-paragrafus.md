@@ -2,7 +2,7 @@
 
 (2) A pénztár megalakulásakor és a vezető tisztségviselők, az ügyvezető (helyettes ügyvezető), illetve a kötelező alkalmazottak, megbízottak változása esetén – ideértve azok újraválasztását vagy újbóli kinevezését is – figyelemmel a (3) bekezdésben foglaltakra a pénztár csatolja
 
-a) a 20. § (2) bekezdésében meghatározott kizáró ok hiányát igazoló hatósági bizonyítvány eredeti vagy hiteles másolati példányát,
+a) nem magyar állampolgár esetén a 20. § (2) bekezdésében meghatározott kizáró ok hiányát igazoló, a nem magyar állampolgár személyes joga szerinti, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti hatósági bizonyítványnak megfelelő okiratot,
 
 b) az érintett személy nyilatkozatát arról, hogy vele szemben jogszabályban meghatározott összeférhetetlenségi ok nem áll fenn,
 

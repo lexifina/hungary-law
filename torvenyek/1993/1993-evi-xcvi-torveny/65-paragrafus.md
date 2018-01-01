@@ -34,7 +34,7 @@ n) vezetői vagy működési hiba esetén figyelmeztetheti a vezető tisztségvi
 
 (4) A pénztártevékenység folytatására adott engedély visszavonására akkor kerülhet sor, ha a pénztár
 
-a) tevékenységének folytatását az engedély jogerőre emelkedésének napjától számított 180 napon belül nem kezdi meg, vagy azt a Felügyelet hozzájárulása nélkül szünetelteti;
+a) tevékenységének folytatását az engedély véglegessé válásának napjától számított 180 napon belül nem kezdi meg, vagy azt a Felügyelet hozzájárulása nélkül szünetelteti;
 
 b) az engedélykérelemben valótlan adatot vagy nyilatkozatot közölt;
 

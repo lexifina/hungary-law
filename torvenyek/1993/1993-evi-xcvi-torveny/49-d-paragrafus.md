@@ -20,7 +20,7 @@ d) a szabályzat alapján a rendszer megbízható és biztonságos működtetés
 
 e) a rendszer működtetése veszélyezteti a tagok megtakarításainak biztonságát.
 
-(4) A Felügyelet a választható portfoliós rendszer működtetésének megkezdésére, folytatására, illetve módosítására vonatkozó engedély iránti kérelmet elutasítja, ha a (módosított) szabályzat a (3) bekezdés alapján előírt módosításra vonatkozó ismételt felszólítás után sem felel meg a (3) bekezdésben meghatározott követelményeknek, vagy a pénztár a kérelmet ismételten hiányosan nyújtja be.
+(4)
 
 (5) A Felügyelet a választható portfoliós rendszer működtetésére kiadott engedélyt visszavonja, ha
 

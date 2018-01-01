@@ -32,7 +32,7 @@ h) a bírósági nyilvántartásba vétel iránti kérelem benyújtását igazol
 
 a) a pénztár alapításkori vagyonát tételes és értékkel ellátott bontásban és az alapok közötti felosztását;
 
-b) a tevékenységi engedély jogerőre emelkedésének napjáig tervezetten felmerülő költségek fajtáit és mértékét, valamint ezek várható fedezetét;
+b) a tevékenységi engedély véglegessé válásának napjáig tervezetten felmerülő költségek fajtáit és mértékét, valamint ezek várható fedezetét;
 
 c) a pénztár pénzügyi tervét.
 

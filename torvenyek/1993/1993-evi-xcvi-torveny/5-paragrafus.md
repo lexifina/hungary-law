@@ -6,4 +6,4 @@
 
 (3) Az alakuló közgyűlésről készült jegyzőkönyvet a közgyűlés által választott elnök és a jegyzőkönyvvezető írja alá, és az erre a tisztségre megválasztott két tag hitelesíti. A közgyűlésen felvett jelenléti ívet a közgyűlés elnöke és a jegyzőkönyvvezető aláírásával hitelesíti.
 
-(4) Az alapszabályt, és annak módosítását közokiratba vagy ügyvéd (jogtanácsos) által ellenjegyzett okiratba kell foglalni.
+(4) Az alapszabályt, és annak módosítását közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba kell foglalni.
