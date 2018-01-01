@@ -1,0 +1,1 @@
+## 14. § Hatályát veszti az R.3. 50. § (4) bekezdésében az „és a hozzá csatlakozó, a 19. század második felében és a 20. század első felében épült műhelyépületek”, valamint az „és ipartörténeti” szövegrész.

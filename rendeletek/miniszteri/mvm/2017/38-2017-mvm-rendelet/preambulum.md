@@ -1,0 +1,5 @@
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (2) bekezdés n) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 11. pontjában meghatározott feladatkörömben eljárva,
+
+a 15. § tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 17. pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:
