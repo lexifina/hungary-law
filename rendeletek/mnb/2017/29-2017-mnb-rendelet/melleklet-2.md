@@ -236,6 +236,4 @@
 
 ## 5.6. Az értékpapírok állományára vonatkozó jelentésekben az érvénytelen, valamint a lejárt értékpapírokat nem kell szerepeltetni.
 
-2. melléklet a 29/2017. (XI. 22.) MNB rendelethez[^4]
-
-[^4]: A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–31. és 33–61. sora, valamint az ott meghatározott felügyeleti jelentések táblái a 12. § (2) bekezdése alapján 2018. január 1-jén lépnek hatályba.
+2. melléklet a 29/2017. (XI. 22.) MNB rendelethez

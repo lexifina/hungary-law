@@ -6,6 +6,4 @@
 
 (4) A kitöltésre vonatkozó általános előírásokat az 1. melléklet, a kitöltésre vonatkozó részletes előírásokat a 3. melléklet tartalmazza.
 
-(5)[^1]
-
-[^1]: A 4. § (5) bekezdése a 12. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+(5) A Tpt. szerinti központi értéktári tevékenységet végző szervezet a központi értékpapír-nyilvántartás adatait – az értékpapír ISIN azonosítójának, fajtájának, egyéb jellemzőinek, valamint a kibocsátó adatainak megnevezésével – elektronikus formában, a tárgyidőszakot követő munkanap 10.00 óráig küldi meg az MNB részére.
