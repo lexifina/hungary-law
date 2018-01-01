@@ -16,6 +16,6 @@ b) a tranzitterület létesítését vámellenőrzési szempontból engedélyez�
 
 c) az EMGA felülellenőrzés végrehajtására kijelölt vámszervet,
 
-d) a vámtanácsadói és vámügynöki nyilvántartásba történő felvétel és törlés végrehajtását, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, a nyilvántartásba vett személyek kötelező továbbképzésére, valamint a kreditpont minősítési eljárásra és az eljárásért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes szabályokat
+d)
 
 rendeletben állapítsa meg.

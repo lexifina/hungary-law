@@ -16,14 +16,6 @@ lép.
 
 (3) Hatályát veszti az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény.
 
-(4) Hatályát veszti a 29. § (5) és (6) bekezdése.
+(4)
 
-(5) Hatályát veszti a 213. § (1) bekezdés 20. pontja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
+(5)
