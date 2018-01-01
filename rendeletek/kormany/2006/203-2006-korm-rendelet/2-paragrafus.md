@@ -1,6 +1,6 @@
 ## A pályázati eljárás
 
-2. §[^2] (1) Az egy pályázati eljárás során terjesztésre felkínált filmalkotások körét a Filmarchívum állapítja meg, figyelembe véve a pályázati felhívásig általa a Kincstári Vagyoni Igazgatóságtól megszerzett vagyonkezelői jogok körét, a terjesztésre vonatkozó piaci igényeket, a terjesztésre kerülő alkotások csoportjainak sokszínűségéhez fűződő érdeket, a rendelkezésére álló kópiák minőségét, valamint a terjesztésre vonatkozó minőségi előírásokat.
+2. §[^3] (1) Az egy pályázati eljárás során terjesztésre felkínált filmalkotások körét a Filmarchívum állapítja meg, figyelembe véve a pályázati felhívásig általa a Kincstári Vagyoni Igazgatóságtól megszerzett vagyonkezelői jogok körét, a terjesztésre vonatkozó piaci igényeket, a terjesztésre kerülő alkotások csoportjainak sokszínűségéhez fűződő érdeket, a rendelkezésére álló kópiák minőségét, valamint a terjesztésre vonatkozó minőségi előírásokat.
 
 (2) A pályázati felhívásnak legalább a következőket kell tartalmaznia:
 
@@ -24,4 +24,4 @@ i) a pályázati ajánlat érvényességének feltételeit.
 
 (3) A Filmarchívum köteles a nyilvános pályázati felhívás teljes szövegét legalább egy országos napilapban és a saját honlapján közzétenni. A pályázati felhívásban foglalt határidők számítása szempontjából a pályázat meghirdetésének időpontja a napilapban való közzététel napja.
 
-[^2]: A 2. § e rendelet 10. § (2) bekezdése alapján 2007. január 1. napján lépett hatályba.
+[^3]: A 2. § e rendelet 10. § (2) bekezdése alapján 2007. január 1. napján lépett hatályba.
