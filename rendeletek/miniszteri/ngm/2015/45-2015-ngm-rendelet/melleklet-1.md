@@ -1,6 +1,6 @@
-## 6. §[^2] E rendeletnek a Nemzeti Akkreditáló Hatóság eljárásaiért fizetendő igazgatási szolgáltatási díjakról szóló 45/2015. (XII. 30.) NGM rendelet módosításáról szóló 2/2017. (III. 22.) NGM rendelettel (a továbbiakban: Módrendelet) megállapított 1. § (5) bekezdését és 1. mellékletét a Módrendelet hatálybalépésekor[^3] folyamatban lévő eljárásokban is alkalmazni kell.
+## 6. §[^3] E rendeletnek a Nemzeti Akkreditáló Hatóság eljárásaiért fizetendő igazgatási szolgáltatási díjakról szóló 45/2015. (XII. 30.) NGM rendelet módosításáról szóló 2/2017. (III. 22.) NGM rendelettel (a továbbiakban: Módrendelet) megállapított 1. § (5) bekezdését és 1. mellékletét a Módrendelet hatálybalépésekor[^4] folyamatban lévő eljárásokban is alkalmazni kell.
 
-1. melléklet a 45/2015. (XII. 30.) NGM rendelethez[^4]
+1. melléklet a 45/2015. (XII. 30.) NGM rendelethez[^5]
 
 ## Akkreditálási eljárásért fizetendő igazgatási szolgáltatási díjak (Ft)
 
@@ -302,6 +302,6 @@
 
 11.3. A díjat minden egyes tevékenységcsoportra és alkalmazási körre külön-külön meg kell fizetni. Azon tevékenységcsoportok száma alapján, amely alá a kérelmezett akkreditációs alkalmazási körök tartoznak, 5-5% kedvezményre jogosult a hitelesítő szervezet. Ezek a százalékos kedvezmények összeadódnak, és az így kiszámolt %-os kedvezmény az egyes tevékenységcsoporton belüli első akkreditációs alkalmazási körök díjaiból kerül levonásra. Az egyes tevékenységi csoportokon belüli további akkreditációs alkalmazási körök díja az ugyanazon csoport első tevékenységi körére vonatkozóan a fenti számításnak megfelelően meghatározott díjtétel 50%-ában határozandó meg.
 
-[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 2/2017. (III. 22.) NGM rendelet 2. §-a iktatta be.
-[^3]: A hatálybalépés időpontja 2017. április 22.
-[^4]: Az 1. melléklet a 2/2017. (III. 22.) NGM rendelet 3. §-a szerint módosított szöveg.
+[^3]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 2/2017. (III. 22.) NGM rendelet 2. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2017. április 22.
+[^5]: Az 1. melléklet a 2/2017. (III. 22.) NGM rendelet 3. §-a szerint módosított szöveg.
