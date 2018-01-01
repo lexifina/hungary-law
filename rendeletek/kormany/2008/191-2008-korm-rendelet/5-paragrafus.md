@@ -8,7 +8,7 @@ a) egy fenntartó azonos vagy részben azonos ellátási területen szolgáltat�
 
 b) a fenntartó ugyanarra a szolgáltatásra nem nyújthat be pályázatot, ha azonos vagy részben azonos ellátási területen az általa fenntartott másik szolgáltató támogatására már rendelkezik finanszírozási szerződéssel.
 
-(3a)[^35] Krízisközpont és titkos menedékház esetén a pályázat benyújtásának feltétele, hogy a krízisközpontot, illetve a titkos menedékházat működtető családok átmeneti otthona legalább egy éve jogerősen be legyen jegyezve a szolgáltatói nyilvántartásba.
+(3a)[^35] Krízisközpont és titkos menedékház esetén a pályázat benyújtásának feltétele, hogy a krízisközpontot, illetve a titkos menedékházat működtető családok átmeneti otthona legalább egy éve végleges határozattal be legyen jegyezve a szolgáltatói nyilvántartásba.
 
 (4) A pályázati feltételek teljesítése nem jelent jogosultságot a pályázatban megjelölt összegű működési támogatás igénybevételére.
 
@@ -41,7 +41,7 @@ i)[^42] Biztos Kezdet Gyerekház esetén a pályázó nyilatkozatát, hogy váll
 [^32]: Az 5. § (1) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított, a 419/2015. (XII. 23.) Korm. rendelet 24. § 6. pontja, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^33]: Az 5. § (2) bekezdése a 369/2013. (X. 24.) Korm. rendelet 56. § (1) bekezdésével megállapított, a 419/2015. (XII. 23.) Korm. rendelet 24. § 7. pontja szerint módosított szöveg.
 [^34]: Az 5. § (3) bekezdése a 419/2051. (XII. 23.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^35]: Az 5. § (3a) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^35]: Az 5. § (3a) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 32. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 225. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^36]: Az 5. § (5) bekezdés b) pontját a 369/2013. (X. 24.) Korm. rendelet 56. § (6) bekezdés a) pontja hatályon kívül helyezte.
 [^37]: Az 5. § (5) bekezdés c) pontja a 419/2051. (XII. 23.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
 [^38]: Az 5. § (5) bekezdés d) pontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 8. pontja hatályon kívül helyezte.

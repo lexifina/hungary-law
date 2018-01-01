@@ -30,7 +30,7 @@ d) a pénzügyi-gazdálkodási tervben tervezett bevételek nem teljesíthetőek
 
 a) a fenntartó nevét, székhelyét és adószámát;
 
-b)[^63] a szolgáltató nevét, székhelyét, illetve telephelyét és – amennyiben jogerősen be van jegyezve a szolgáltatói nyilvántartásba – ágazati azonosítóját;
+b)[^63] a szolgáltató nevét, székhelyét, illetve telephelyét és – amennyiben végleges határozattal be van jegyezve a szolgáltatói nyilvántartásba – ágazati azonosítóját;
 
 c) nyertes pályázat esetén
 
@@ -52,7 +52,7 @@ d) elutasított pályázat esetén az elutasítás indokát.
 
 a)[^66] az (5) bekezdés ca)–cc) alpontja szerinti feltételek eltérnek attól, amit a fenntartó a pályázatában vállalt, és azt a fenntartó nem fogadja el, vagy
 
-b)[^67] a finanszírozási szerződés a döntésről szóló értesítésben megjelölt időpontig, a szolgáltatói nyilvántartásba ebben az időpontban nem vagy nem a döntésnek megfelelően bejegyzett szolgáltató esetén a bejegyzés, illetve az adatmódosítás jogerőre emelkedését követő 30 napon belül a fenntartó mulasztásából vagy neki felróható egyéb okból nem jön létre, vagy
+b)[^67] a finanszírozási szerződés a döntésről szóló értesítésben megjelölt időpontig, a szolgáltatói nyilvántartásba ebben az időpontban nem vagy nem a döntésnek megfelelően bejegyzett szolgáltató esetén a bejegyzés, illetve az adatmódosítás véglegessé válását követő 30 napon belül a fenntartó mulasztásából vagy neki felróható egyéb okból nem jön létre, vagy
 
 c) a fenntartó a pályázatban vagy az ahhoz csatolt iratokban szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében a pályázat nem került volna támogatásra.
 
@@ -65,9 +65,9 @@ c) a fenntartó a pályázatban vagy az ahhoz csatolt iratokban szándékosan va
 [^60]: A 7. § (2) bekezdés d) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 16. pontja, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^61]: A 7. § (3) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 24. § 17. pontja hatályon kívül helyezte.
 [^62]: A 7. § (5) bekezdés nyitó szövegrésze a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés c) pont cd) alpontja, a 317/2012. (XI. 13.) Korm. rendelet 26. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^63]: A 7. § (5) bekezdés b) pontja a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés c) pont ce) alpontja, a 369/2013. (X. 24.) Korm. rendelet 56. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^63]: A 7. § (5) bekezdés b) pontja a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés c) pont ce) alpontja, a 369/2013. (X. 24.) Korm. rendelet 56. § (5) bekezdés c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 225. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^64]: A 7. § (5) bekezdés c) pont cb) alpontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 18. pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 34. §-a iktatta be.
 [^65]: A 7. § (5) bekezdés c) pont cd) alpontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 18. pontja hatályon kívül helyezte.
 [^66]: A 7. § (6) bekezdés a) pontja a 419/2051. (XII. 23.) Korm. rendelet 23. § d) pontja, a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdés j) pontja szerint módosított szöveg.
-[^67]: A 7. § (6) bekezdés b) pontja a 369/2013. (X. 24.) Korm. rendelet 56. § (2) bekezdésével megállapított, a 419/2015. (XII. 23.) Korm. rendelet 24. § 16. pontja szerint módosított szöveg.
+[^67]: A 7. § (6) bekezdés b) pontja a 369/2013. (X. 24.) Korm. rendelet 56. § (2) bekezdésével megállapított, a 419/2015. (XII. 23.) Korm. rendelet 24. § 16. pontja, a 457/2017. (XII. 28.) Korm. rendelet 225. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^68]: A 7. § (7) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.

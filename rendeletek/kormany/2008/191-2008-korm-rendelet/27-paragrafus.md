@@ -1,3 +1,3 @@
-## 26. §[^164]
+## 26. §[^169]
 
-[^164]: A 26. §-t újonnan a 89/2013. (III. 28.) Korm. rendelet 2. §-a iktatta be, a 448/2016. (XII. 19.) Korm. rendelet 40. § d) pontja hatályon kívül helyezte.
+[^169]: A 26. §-t újonnan a 89/2013. (III. 28.) Korm. rendelet 2. §-a iktatta be, a 448/2016. (XII. 19.) Korm. rendelet 40. § d) pontja hatályon kívül helyezte.
