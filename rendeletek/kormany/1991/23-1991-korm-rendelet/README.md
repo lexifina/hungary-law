@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-23-20-2
 | 2016-01-01 | 1991-23-20-22.15 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 1991-23-20-22.16 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-11-01 | 1991-23-20-22.17 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 1991-23-20-22.18 | 457/2017. (XII. 28.) Korm. rendelet |

@@ -1,6 +1,6 @@
-5/G. §[^31] (1)[^32] A járadék havi összege a megállapításkor megegyezik az 5/F. § (1) bekezdés d) pontja szerinti ellátásnak a járadék megállapítását megelőzően folyósított összegével, de 2013. január 1-jétől nem lehet magasabb az öregségi nyugdíj legkisebb összege háromszorosának a nyugellátások 2013. január havi emelésének mértékével megemelt összegénél.
+5/G. §[^32] (1)[^33] A járadék havi összege a megállapításkor megegyezik az 5/F. § (1) bekezdés d) pontja szerinti ellátásnak a járadék megállapítását megelőzően folyósított összegével, de 2013. január 1-jétől nem lehet magasabb az öregségi nyugdíj legkisebb összege háromszorosának a nyugellátások 2013. január havi emelésének mértékével megemelt összegénél.
 
-(1a)[^33] Az 5/F. § (2) bekezdése alapján megállapított járadék havi összege – az (1) bekezdésben foglaltaktól eltérően – megegyezik a megváltozott munkaképességű személyek ellátásának
+(1a)[^34] Az 5/F. § (2) bekezdése alapján megállapított járadék havi összege – az (1) bekezdésben foglaltaktól eltérően – megegyezik a megváltozott munkaképességű személyek ellátásának
 
 a) – amennyiben az Mmtv. 19. §-a, vagy 33. § (6) bekezdése szerinti felülvizsgálatot (a továbbiakban együtt: felülvizsgálat) elvégezték – a felülvizsgálatot megelőző hónapra járó összegével,
 
@@ -14,9 +14,9 @@ Az 5/F. § (2) bekezdése alapján megállapított járadékra a (2)–(4) bekez
 
 (4) A (2) és a (3) bekezdés alkalmazásakor a szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek és a szociális biztonsági tárgyú nemzetközi egyezmények hatálya alá tartozó államból származó özvegyi nyugdíjnak megfelelő ellátást is figyelembe kell venni.
 
-(5)[^34] A járadékot a társadalombiztosítási nyugellátásról szóló törvény nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell. Az (1) bekezdésben meghatározott korlát összege a társadalombiztosítási nyugellátásról szóló törvény nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező mértékben emelkedik.
+(5)[^35] A járadékot a társadalombiztosítási nyugellátásról szóló törvény nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell. Az (1) bekezdésben meghatározott korlát összege a társadalombiztosítási nyugellátásról szóló törvény nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező mértékben emelkedik.
 
-[^31]: Az 5/G. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
-[^32]: Az 5/G. § (1) bekezdése a 426/2012. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^33]: Az 5/G. § (1a) bekezdését a 426/2012. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^34]: Az 5/G. § (5) bekezdését a 426/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^32]: Az 5/G. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
+[^33]: Az 5/G. § (1) bekezdése a 426/2012. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^34]: Az 5/G. § (1a) bekezdését a 426/2012. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^35]: Az 5/G. § (5) bekezdését a 426/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
