@@ -4,7 +4,6 @@
 
 1–4.[^3]
 
-5.[^4]
+5. 5. mellékletében foglalt táblázatban a „889120 Családi napközis ellátás” szövegrész helyébe a „889120 Napközbeni gyermekfelügyelet” szöveg
 
 [^3]: A 2. § 1–4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 2. § 5. pontja a 4. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
