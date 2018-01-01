@@ -40,7 +40,7 @@ I.
 
 | Csoportvezető I. |  |  |  |  | * | * | * | * | * |  |
 
-| Jogász, jogtanácsos |  |  |  |  |  |  |  | * | * |  |
+| Kamarai jogtanácsos, ügyvédi kamarai nyilvántartásba vett jogi előadó, jogász |  |  |  |  |  |  |  | * | * |  |
 
 | Belső ellenőr |  |  |  |  |  | * | * | * | * |  |
 
@@ -380,4 +380,4 @@ biztosítja.
 
 A fenti munkakörök valamelyikét ellátó közalkalmazottak besorolását a tevékenység jellegére és az azt ellátó közalkalmazottól megkívánt iskolai végzettség, szakképesítés fokára tekintettel kell elvégezni. A közalkalmazott kinevezésében megkülönböztető jelzővel kell utalni a munkaköri tevékenység lényegére.
 
-[^18]: A 2. számú melléklet a 29/1997. (II. 13.) Korm. rendelet 4. §-ával, valamint mellékletével megállapított és a 182/1999. (XII. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^18]: A 2. számú melléklet a 29/1997. (II. 13.) Korm. rendelet 4. §-ával, valamint mellékletével megállapított, a 182/1999. (XII. 13.) Korm. rendelet 1. §-a, a 393/2017. (XII. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
