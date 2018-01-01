@@ -364,7 +364,7 @@
 
 |  |  | Technikusóra | 7 000 |
 
-2. számú melléklet a 72/2007. (IV. 17.) Korm. rendelethez[^7]
+2. számú melléklet a 72/2007. (IV. 17.) Korm. rendelethez[^8]
 
 A közigazgatási szerv fizetési számlája
 
@@ -436,4 +436,4 @@ A közigazgatási szerv fizetési számlája
 
 | 33. | Vas Megyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
 
-[^7]: A 2. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 91. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 91. § (2) bekezdésével megállapított szöveg.
