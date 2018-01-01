@@ -1,3 +1,3 @@
-## 54. §[^83]
+## 54. §[^59]
 
-[^83]: Az 54. §-t a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^59]: Az 54. §-t a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.

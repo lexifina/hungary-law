@@ -1,3 +1,3 @@
-## Jelentés az Európai Bizottság részére[^80]
+## Jelentés az Európai Bizottság részére[^56]
 
-[^80]: Az 52/A. §-t megelőző alcímet a 32/2008. (XI. 6.) KHEM rendelet 1. §-a iktatta be.
+[^56]: Az 52/A. §-t megelőző alcímet a 32/2008. (XI. 6.) KHEM rendelet 1. §-a iktatta be.

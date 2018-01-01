@@ -1,3 +1,5 @@
+## 47–48. §[^53]
+
 ## V. Fejezet
 
 ## A SZOLGÁLTATÓKRA VONATKOZÓ RENDELKEZÉSEK
@@ -21,3 +23,5 @@ e) operatív munkahelyen teljesített munkaidejét.
 (4) A szolgáltatónak olyan eljárást kell kidolgoznia és alkalmaznia, amelynek segítségével a szakszemélyzet tekintetében ellenőrizheti, illetve megelőzheti a szakszolgálat ellátására hátrányosan ható szer használatát.
 
 (5) A szolgáltató az engedélyest a szakszolgálat ellátásától eltiltja, ha tudomására jut, hogy az engedélyes a szolgálati tevékenység ellátására alkalmatlanná vált.
+
+[^53]: A 47–48. §-t az 55/2017. (XII. 27.) NFM rendelet 37. § f) pontja hatályon kívül helyezte.

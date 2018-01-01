@@ -1,4 +1,4 @@
-4. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^144]
+4. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^120]
 
 ## Nyelvismereti vizsga követelményei
 
@@ -6,7 +6,7 @@ I. NYELVISMERETI KÖVETELMÉNYEK
 
 1. A repüléstájékoztató szakszemélyzet nyelvismereti követelményei
 
-1.1. A 46. §-ban meghatározott nyelvismereti vizsga angol nyelvből, illetve nem magyar anyanyelvű személy esetén magyar nyelvből akkor tekinthető sikeresnek, ha a vizsgázó beszédkészségből és szövegértésből legalább az 1.2. pontban meghatározott módon és a 2015/340 bizottsági rendelet I. melléklet 1. függeléke szerinti táblázatban szereplő 4-es szinten teljesíti a vizsgát.
+1.1. A légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló Korm. rendeletben meghatározott nyelvismereti vizsga angol nyelvből, illetve nem magyar anyanyelvű személy esetén magyar nyelvből akkor tekinthető sikeresnek, ha a vizsgázó beszédkészségből és szövegértésből legalább az 1.2. pontban meghatározott módon és a 2015/340 bizottsági rendelet I. melléklet 1. függeléke szerinti táblázatban szereplő 4-es szinten teljesíti a vizsgát.
 
 1.2. Megfelelő a nyelvismeret, ha mind a szakterminológia használata, mind a köznapi nyelv tekintetében
 
@@ -122,4 +122,4 @@ n) a nyelvi követelmények bemutatása minden egyes szinten
 
 o) vizsgaminták.
 
-[^144]: A 4. melléklet a 62/2012. (XI. 26.) NFM rendelet 10. § k) pontja, a 43/2016. (XI. 2.) NFM rendelet 13. § 45. pontja és 14. § 38. pontja szerint módosított szöveg.
+[^120]: A 4. melléklet a 62/2012. (XI. 26.) NFM rendelet 10. § k) pontja, a 43/2016. (XI. 2.) NFM rendelet 13. § 45. pontja és 14. § 38. pontja, az 55/2017. (XII. 27.) NFM rendelet 36. §-a szerint módosított szöveg.

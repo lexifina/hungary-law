@@ -114,7 +114,7 @@
 
 | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 3/4 | dátum |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 4/4 | dátum |
 
-3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^143]
+3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^119]
 
 ## SZAKSZOLGÁLATI ENGEDÉLY KÉRŐ LAP
 
@@ -224,6 +224,12 @@
 
 | 7b. A szolgáltató igazolása légiforgalmi tiszt szakszolgálati engedély jogosítás vagy jogosítás kiterjesztésének meghosszabbítása esetén |
 
+| A kérelmező a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló Korm. rendeletben meghatározott feltételeket teljesítette. |
+
+| Név | Aláírás | Dátum |
+
+| 7b. A szolgáltató igazolása légiforgalmi tiszt szakszolgálati engedély jogosítás vagy jogosítás kiterjesztésének meghosszabbítása esetén |
+
 | A kérelmező a léginavigációs szolgálatot és a légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendelet 35. § (3) bekezdésben meghatározott feltételeket teljesítette. |
 
 | Név | Aláírás | Dátum |
@@ -246,4 +252,4 @@
 
 | Oldal 2/2 |
 
-[^143]: A 3. melléklet a 43/2016. (XI. 2.) NFM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^119]: A 3. melléklet a 43/2016. (XI. 2.) NFM rendelet 12. § (3) bekezdésével megállapított, az 55/2017. (XII. 27.) NFM rendelet 35. §-a szerint módosított szöveg.
