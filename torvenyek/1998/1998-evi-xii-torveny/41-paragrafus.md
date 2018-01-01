@@ -6,7 +6,9 @@ b) az útlevél kivételével az egyéb úti okmányok fajtáit;
 
 c) az eljárás részletes szabályait, valamint az úti okmányok kezelésére vonatkozó rendelkezéseket;
 
-d) a törvénnyel kihirdetett nemzetközi szerződések alapján kiállításra kerülő közokiratok kiadásáért és a kiadott közokiratok nyilvántartásáért felelős szervet.
+d) a törvénnyel kihirdetett nemzetközi szerződések alapján kiállításra kerülő közokiratok kiadásáért és a kiadott közokiratok nyilvántartásáért felelős szervet,
+
+e) a külpolitikáért felelős miniszter által kiadott útlevelek kiadásának és kezelésének részletes szabályait.
 
 (1a) Felhatalmazást kap a Kormány, hogy az adatkezelő szervet rendeletben jelölje ki.
 
@@ -28,6 +30,6 @@ g) a 28. § (1), (2) és (2b) bekezdése szerinti adatszolgáltatás iránti ké
 
 h) az adópolitikáért felelős miniszterrel egyetértésben a törvénnyel kihirdetett nemzetközi szerződés alapján kiállítandó közokirat kiadásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint megfizetésének szabályait.
 
-(3) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az általa kiadott útlevelek kezelésének részletes szabályait.
+(3)
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a külföldre utazás szabályozásáért felelős miniszterrel egyetértésben a NATO menetparancs (az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló, 1951. június 19-én, Londonban kelt Megállapodás (NATO-SOFA Megállapodás) III. Cikk 2/b) pontjában meghatározott okmány) alkalmazásával kapcsolatos részletes szabályokat rendeletben állapítsa meg.

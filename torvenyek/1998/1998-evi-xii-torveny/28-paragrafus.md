@@ -20,7 +20,7 @@ d) törvény, illetve az érintett hozzájárulása alapján az adat kezelésér
 
 (4) Az e törvény alapján kezelt személyes adatok külföldi adatkezelő részére – ideértve a nemzetközi szervezeteket is – nemzetközi szerződés alapján továbbíthatók, feltéve, ha az adatkezelés feltételei a külföldi adatkezelőnél minden egyes adatra nézve azonosan teljesülnek.
 
-(5) Ha az adatszolgáltatás iránti kérelemben hatósági bizonyítvány kiállítását nem kérik, az adatszolgáltatás ügyintézési határideje – a kérelem beérkezését követő naptól számított – húsz nap. Az adatszolgáltatás elektronikus információátadás keretén kívül is teljesíthető.
+(5) Az adatszolgáltatási ügyekben az ügyintézési határidő 20 nap. Az adatszolgáltatás elektronikus információátadás keretén kívül is teljesíthető.
 
 (6) Az (1), (2) és (2b) bekezdésben meghatározott adatszolgáltatási eljárásért igazgatási szolgáltatási díjat kell fizetni.
 

@@ -2,6 +2,6 @@
 
 (2) Az elvett úti okmányt haladéktalanul meg kell küldeni az útlevélhatóságnak.
 
-(3) Az úti okmány elvétele ellen önálló jogorvoslatnak nincs helye, az az úti okmány visszavonását elrendelő határozat elleni fellebbezésben támadható meg.
+(3) Az úti okmány elvétele ellen önálló jogorvoslatnak nincs helye, az az úti okmány visszavonását elrendelő határozat elleni közigazgatási per keretében támadható meg.
 
 (4)
