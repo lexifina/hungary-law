@@ -1,0 +1,1 @@
+A Kormány a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 76. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
