@@ -28,4 +28,6 @@ c) a gyermekjogi képviselő esetében a gyermekjóléti alapellátási és gyer
 
 ## kell érteni.
 
-(8) Ügyvéd – az ügyvédekről szóló törvény szerint az ügyvédi tevékenységét szüneteltető ügyvéden kívül – nem lehet jogvédelmi képviselő.
+(8)[^1] Ügyvédi tevékenységet gyakorló – az ügyvédi tevékenységét szüneteltető személy kivételével – nem lehet jogvédelmi képviselő.
+
+[^1]: A 4. § (8) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.

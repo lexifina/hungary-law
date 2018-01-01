@@ -128,17 +128,11 @@
 
 ## j) Esetfeldolgozások, a gyermekek jogsérelmeinek kezelése
 
-2. melléklet a 381/2016. (XII. 2.) Korm. rendelethez
+2. melléklet a 381/2016. (XII. 2.) Korm. rendelethez[^13]
 
 ## A kérelem adattartalma
 
-I. Kérelem arra vonatkozóan, hogy a Szolgálat a kérelemben, valamint a mellékelt okiratokban foglaltak alapján
-
-1. a kérelmezőt jogvédelmi képviselőként nyilvántartásba vegye, a nyilvántartáson az adatainak változását átvezesse vagy
-
-2. a kérelmezőt a nyilvántartásból törölje vagy
-
-3. a nyilvántartásban a továbbképzési kötelezettség teljesítését regisztrálja.
+I. Kérelem arra vonatkozóan, hogy a Szolgálat a kérelemben és a mellékelt okiratokban foglaltak alapján a kérelmezőt jogvédelmi képviselőként nyilvántartásba vegye vagy a nyilvántartáson az adatainak változását átvezesse.
 
 II. Személyes adatok
 
@@ -162,7 +156,7 @@ II. Személyes adatok
 
 10. e-mail cím
 
-A 8–10. pontokba foglalt adattartalom megadása nem kötelező, kitöltése esetén a kérelmező egyidejűleg hozzájárulását adja ezen adatoknak az Eütv. 33/A. § (3) bekezdés szerinti kezeléséhez.
+A 8-10. pontban foglalt adattartalom megadása nem kötelező, kitöltése esetén a kérelmező egyidejűleg hozzájárulását adja ezen adatoknak az Eütv. 33/A. § (3) bekezdése szerinti kezeléséhez.
 
 III. A szakképesítésre vonatkozó adatok
 
@@ -188,22 +182,8 @@ V. Egyéb
 
 1. Változásjelentés esetén a megváltozott adatok
 
-2. Továbbképzési kötelezettség teljesítése esetén a képzőhely megnevezése, a továbbképzés teljesítését igazoló dokumentum száma, kelte, a teljesített órák száma
-
 VI. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek
 
-VII. A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett adatainak a Szolgálat általi ellenőrzéséhez
+VII. A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett adatainak a Szolgálat általi – az információs önrendelkezési jogról és az információszabadságról szóló 2011. CXII. törvény alapján történő – kezeléséhez.
 
-## VIII. A kérelemhez az alábbi dokumentumokat kell csatolni:
-
-1. A nyilvántartásba vételi kérelemhez:
-
-a) a szakképesítést igazoló dokumentum(ok) másolatát,
-
-b) a jogvédelmi képviselői tanfolyam sikeres elvégzését igazoló tanúsítvány másolatát.
-
-2. A változás bejelentésére vonatkozó kérelemhez az adatváltozást igazoló eredeti okiratot vagy annak hiteles másolatát a Ket.-ben meghatározott kivételek figyelembevételével.
-
-3. Törlésre irányuló kérelemhez a jogvédelmi képviselő nyilvántartási igazolványát, ha rendelkezett ilyennel.
-
-4. A továbbképzés teljesítésének regisztrálására vonatkozó kérelemhez a továbbképzés teljesítéséről szóló okirat másolatát.
+[^13]: A 2. melléklet az 507/2017. (XII. 29.) Korm. rendelet 55. §-ával megállapított szöveg.

@@ -14,7 +14,7 @@ c) az ellátott vagy a gyermek jogai gyakorlásának súlyos megsértésekor má
 
 a) együttműködik a szolgáltatást nyújtókkal, azok fenntartóival és a szolgáltatást igénybe vevőkkel,
 
-b) a Szolgálat ügyrendjében meghatározott rendszerességgel és időpontban fogadóórát tart a Szolgálat által működtetett területi irodákban,
+b)[^6] a Szolgálat által meghatározott rendszerességgel és időtartamban fogadóórát tart a Szolgálat által meghatározott helyen,
 
 c) a megkereséseket, valamint eljárását és intézkedéseit dokumentálja,
 
@@ -53,3 +53,5 @@ b) a megfelelő szolgáltatásnyújtáshoz való hozzájutás segítésében leh
 c) a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala kirendelésében foglaltak figyelembevételével személyesen képviseli a gyermeket, megismeri az eljárás során keletkezett dokumentáció tartalmát és folyamatosan figyelemmel kíséri a gyermek jogainak az eljárás során történő érvényesítését,
 
 d) a gyermekvédelmi bírság kiszabására irányuló javaslattétele során figyelembe veszi a jogsértés jellegét, súlyát, az érintettek létszámának nagyságát a szolgáltatás jellegének arányában, javaslatát megfelelően indokolja.
+
+[^6]: A 7. § (2) bekezdés b) pontja az 507/2017. (XII. 29.) Korm. rendelet 50. §-ával megállapított szöveg.

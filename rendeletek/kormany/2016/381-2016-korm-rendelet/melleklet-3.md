@@ -40,7 +40,7 @@ III. A szakmai gyakorlatról szóló adatok
 
 IV. Egyéb
 
-1. ügyvéd esetén a tevékenység szüneteltetésére vonatkozó bejegyzés
+1.[^14] az ügyvédi tevékenység szüneteltetésére vonatkozó bejegyzés
 
 V. A továbbképzési kötelezettséggel kapcsolatos adatok
 
@@ -59,3 +59,5 @@ VII. A nyilvántartás megszűnésére, megszüntetésére vonatkozó adatok
 1. A megszűnés/megszüntetés időpontja
 
 2. A megszűnés/megszüntetés jogalapja
+
+[^14]: A 3. melléklet IV. pont 1. alpontja a 393/2017. (XII. 13.) Korm. rendelet 68. § (2) bekezdés b) pontja szerint módosított szöveg.
