@@ -1,1 +1,0 @@
-## 11. § Ha a károsultakkal az ingóságok tekintetében a Katasztrófa elhárítási célelőirányzatok felhasználásáról szóló 5/2010. (XII. 3.) BM rendelet alapján már megkötött szerződések e rendelet hatálybalépését követően a károsult részére kedvezőbb feltételekkel lennének megköthetőek, a károsult kérelem útján kezdeményezheti a szerződések e rendelet szerinti módosítását.

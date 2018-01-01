@@ -1,3 +1,0 @@
-## 1/A. §[^2] Nem ítélhető meg és nem fizethető ki támogatás annak a mezőgazdasági termelőnek vagy családi gazdálkodónak, amelyet az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Mezőgazdasági Garanciaalapból vagy az Európai Halászati Alapból finanszírozott vagy társfinanszírozott támogatásokból a támogatási szabályok megsértése miatt korábban kizártak. Ha a kedvezményezett a támogatási időszak alatt megsérti az ezekből a forrásokból finanszírozott vagy társfinanszírozott támogatás nyújtására vonatkozó szabályokat, a támogatást a jogsértés súlyával arányos mértékben köteles visszafizetni.
-
-[^2]: Az 1/A. §-t a 38/2012. (VIII. 2.) BM rendelet 1. §-a iktatta be.
