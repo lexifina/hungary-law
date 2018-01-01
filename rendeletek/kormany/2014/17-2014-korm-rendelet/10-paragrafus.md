@@ -22,8 +22,9 @@ f) kis értékű (1 millió forint alatti becsértékű) készletek, termény, �
 
 (5)[^12] Az EÉR felületén a Cégközlönyben – a Cstv. 49/A. § (1) bekezdése szerinti módon közzétett – értékesítési hirdetménnyel azonos tartalmú hirdetményt kell közzétenni, legkésőbb a Cégközlönyben történő közzétételt követő munkanap 24 óráig. A hirdetményt az értékesítő hozza létre az EÉR felületén.
 
-(6) Az értékesítéssel kapcsolatban minden más információt is az EÉR-en kell közzétenni.
+(6)[^13] Az értékesítéssel kapcsolatban minden más információt is az EÉR felületén kell közzétenni. A műszaki azonosításhoz szükséges adatok megjelölése kötelező. A 10. § (1) bekezdés c), d) és – az értékesítő döntése szerint – az f) pontja szerinti vagyontárgy értékesítése esetén a hirdetmény mellett az EÉR felületén közzé kell tenni az értékesítendő vagyontárgyat bemutató képfelvételt is.
 
 [^10]: A 10. § (1) bekezdés b) pontja a 299/2014. (XII. 5.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^11]: A 10. § (1) bekezdés d) pontja a 299/2014. (XII. 5.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^12]: A 10. § (5) bekezdése a 299/2014. (XII. 5.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^13]: A 10. § (6) bekezdése az 520/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
