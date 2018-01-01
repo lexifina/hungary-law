@@ -2,6 +2,6 @@
 
 ## 26. Módosító rendelkezések
 
-44. §[^93]
+44. §[^94]
 
-[^93]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
