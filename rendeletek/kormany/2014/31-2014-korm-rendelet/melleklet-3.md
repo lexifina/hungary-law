@@ -1,3 +1,3 @@
-3. melléklet a 31/2014. (II. 12.) Korm. rendelethez[^33]
+3. melléklet a 31/2014. (II. 12.) Korm. rendelethez[^54]
 
-[^33]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 265. § (3) bekezdés a) pontjával megállapított szöveg.
+[^54]: A 3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 486. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

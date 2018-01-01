@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-31-20-2
 | 2017-01-01 | 2014-31-20-22.10 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2014-31-20-22.11 | 70/2015. (III. 30.) Korm. rendelet |
 | 2017-07-01 | 2014-31-20-22.12 | 70/2015. (III. 30.) Korm. rendelet |
+| 2018-01-01 | 2014-31-20-22.13 | 457/2017. (XII. 28.) Korm. rendelet |

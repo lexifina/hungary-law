@@ -16,14 +16,16 @@ b) tájékoztatásul azzal, akinek az építési tevékenységgel érintett tele
 
 c) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adott.
 
-(3) A jogerős döntést közölni kell
+(3)[^30] A végleges döntést közölni kell
 
 a) az építtetővel vagy meghatalmazottjával,
 
-b)–d)[^20]
+b)–d)[^31]
 
 e) mindazokkal, akiknek értesítését jogszabály előírja.
 
-(4) Az építési engedélyezési eljárás során hozott jogerős döntés a hozzátartozó, engedélyezési záradékkal ellátott tervdokumentációban foglaltakkal együtt hatályos.
+(4)[^32] Az építési engedélyezési eljárás során hozott végleges döntés a hozzátartozó, engedélyezési záradékkal ellátott tervdokumentációban foglaltakkal együtt hatályos.
 
-[^20]: A 14. § (3) bekezdés b)–d) pontját a 70/2015. (III. 30.) Korm. rendelet 243. § (6) bekezdés b) pontja hatályon kívül helyezte.
+[^30]: A 14. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 485. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^31]: A 14. § (3) bekezdés b)–d) pontját a 70/2015. (III. 30.) Korm. rendelet 243. § (6) bekezdés b) pontja hatályon kívül helyezte.
+[^32]: A 14. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 485. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

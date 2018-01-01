@@ -1,25 +1,3 @@
-## Az építésügyi hatóság engedélyezési eljárásában kijelölt szakhatóságok
+3/A. melléklet a 31/2014. (II. 12.) Korm. rendelethez[^55]
 
-|  | A | B | C | D |
-
-| 1. | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
-
-| 2. | Honvédelmi és katonai célú építmény működési vagy védőterületén tervezett sajátos építmény építésügyi eljárásaiban, a bontási engedélyezési eljárás kivételével. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | honvédelemért felelős miniszter |  |
-
-| 3. | Ha a tevékenység megkezdéséhez egységes környezethasználati engedély vagy környezetvédelmi engedély nem szükséges. | Annak elbírálása, hogy a felszíni vizek, a felszín alatti vizek és a földtani közeg minősége védelmére jogszabályban foglalt követelmények a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e. | területi vízvédelmi hatósági feladatkörében eljáró katasztrófavédelmi igazgatóság | vízvédelmi hatósági feladatkörében eljáró BM Országos Katasztrófavédelmi Főigazgatóság |
-
-| 4. | Minden engedélyezési eljárásban. | A településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés kérdésében, valamint annak elbírálása kérdésében, hogy az építmény vagy tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | az építési tevékenység helye szerinti települési, fővárosi kerületi önkormányzat jegyzője, a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző |  |
-
-| 5. | Az éghető töltetű nyomástartó vagy töltő rendszerek, éghető folyadék- és olvadéktárolók, közforgalmú üzemanyagtöltő állomások műtárgyai az utak kivételével, közforgalmú autógáz-töltőállomások műtárgyai az utak kivételével, éghető gáz és olaj előállító és tároló energetikai építmény, az ipari és mezőgazdasági célú földgázfogyasztó hőfejlesztő-hőhasznosító létesítmény, erőmű esetén, a bontási engedélyezési eljárás kivételével. | Az építménnyel, létesítménnyel összefüggő tűzvédelmi követelmények érvényre juttatása. | első fokon eljáró tűzvédelmi szakhatóság | másodfokon eljáró tűzvédelmi szakhatóság |
-
-| 6. | A vasúti pálya szélső vágányának tengelyétől számított 50 méteren, erőmű esetén 100 méteren belüli építmény építése, elhelyezése, megszüntetése esetén, ha a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása, hogy a vasúti pálya területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a tervezett igénybevételnek a vasút állagára, a vasúti forgalom biztonságára, a vasútkezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | közlekedésért felelős miniszter |  |
-
-| 7. | A repülőtér és a repülés biztonságát szolgáló földi berendezések biztonsági övezetén belül létesített minden építmény építése esetén, a repülőtér telekhatárától mért 15 kilométer távolságon | A polgári célú repülés biztonsága érdekében az építmény elhelyezése, magassága közvetlen és közvetett hatásainak vizsgálata a légiközlekedésre, a földi telepítésű berendezések működésére és a légiközlekedés biztonságára. | légiközlekedési hatóság |  |
-
-|  | belül 40 méternél, bárhol másutt a beépítésre szánt területen 100 méternél, beépítésre nem szánt területen 50 méternél magasabb építmény építése, építménymagasságot növelő bővítése, kizárólag helikopter-leszállóhellyel rendelkező repülőtér telkének szélétől mért 500 méteren belül 40 méternél magasabb építmény építése, építménymagasságot növelő bővítése esetén, bontási engedélyezési eljárás kivételével. |  |  |  |
-
-| 8. |  | Az állami célú repülés biztonsága érdekében az építmény elhelyezése, magassága közvetlen és közvetett hatásainak vizsgálata a légiközlekedésre, a földi telepítésű berendezések működésére és a légiközlekedés biztonságára. | katonai légügyi hatóság |  |
-
-3/A. melléklet a 31/2014. (II. 12.) Korm. rendelethez[^34]
-
-[^34]: A 3/A. mellékletet a 70/2015. (III. 30.) Korm. rendelet 243. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 265. § (3) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 265. § (2) bekezdés b) pontja, a 162/2017. (VI. 28.) Korm. rendelet 65. §-a szerint módosított szöveg.
+[^55]: A 3/A. mellékletet a 70/2015. (III. 30.) Korm. rendelet 243. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 265. § (3) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 265. § (2) bekezdés b) pontja, a 162/2017. (VI. 28.) Korm. rendelet 65. §-a szerint módosított szöveg.

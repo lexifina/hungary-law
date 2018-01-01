@@ -1,4 +1,4 @@
-13. § (1) Az építési engedélynek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 72. § (1) bekezdésében foglaltakon túl tartalmaznia kell:
+13. § (1)[^28] Az építési engedélynek az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) 81. §-ában foglaltakon túl tartalmaznia kell:
 
 a) az engedélyezett építési tevékenység feltételeit,
 
@@ -20,10 +20,13 @@ f) az esetleges próbaüzemre vonatkozó feltételeket.
 
 (2) A határozat az engedély tárgyától függően tartalmaz
 
-a) figyelmeztetést arra, hogy az építtető építési tevékenységet csak a jogerős építési engedély és az ahhoz tartozó – engedélyezési záradékkal ellátott – tervdokumentáció alapján, az engedély hatályának időtartama alatt, továbbá a saját felelősségére és veszélyére végezhet,
+a)[^29] figyelmeztetést arra, hogy az építtető építési tevékenységet csak a végleges építési engedély és az ahhoz tartozó – engedélyezési záradékkal ellátott – tervdokumentáció alapján, az engedély hatályának időtartama alatt, továbbá a saját felelősségére és veszélyére végezhet,
 
 b) figyelmeztetést arra, hogy az építési engedély polgári jogi igényt nem dönt el,
 
 c) figyelmeztetést arra vonatkozóan, hogy a létrehozott építmény csak használatbavételi engedély kiadását vagy tudomásulvételt követően használható,
 
 d) tájékoztatást arról, hogy a jogorvoslatra nyitva álló idő alatt az ügyfél az engedélyezés tárgyát képező tervdokumentációba milyen módon tekinthet be.
+
+[^28]: A 13. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 485. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^29]: A 13. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 485. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

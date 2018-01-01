@@ -34,7 +34,7 @@ k) a tervezett próbaüzem tervei, a próbaüzem szükségességének indokolás
 
 (7) A tervezett építési tevékenység szempontjából érdemi adatot, tényt, körülményt nem tartalmazó dokumentáció-részek elhagyhatók.
 
-(8) A jogerős és végrehajtható építési engedélyezési dokumentációtól való eltérésre irányuló kérelem (módosított építési engedély iránti kérelem) mellékletét szolgáló dokumentációnak csak az eltérést ábrázoló tervrajzokat, valamint az azokat ismertető munkarészeket (pl. műszaki leírást és számításokat) kell tartalmaznia. A műszaki leírásban egyértelműen meg kell nevezni és fel kell sorolni az eltéréseket.
+(8)[^48] A végleges és végrehajtható építési engedélyezési dokumentációtól való eltérésre irányuló kérelem (módosított építési engedély iránti kérelem) mellékletét szolgáló dokumentációnak csak az eltérést ábrázoló tervrajzokat, valamint az azokat ismertető munkarészeket (pl. műszaki leírást és számításokat) kell tartalmaznia. A műszaki leírásban egyértelműen meg kell nevezni és fel kell sorolni az eltéréseket.
 
 (9) A bontási engedélyezési dokumentáció részét képező műszaki leírásnak ismertetnie kell az építmény rendeltetését, főbb és jellemző méreteit, szükség szerint anyagait és szerkezeteit, a csatlakozó közművek fajtáját, állapotát és helyzetét.
 
@@ -45,3 +45,5 @@ k) a tervezett próbaüzem tervei, a próbaüzem szükségességének indokolás
 (12) A szabálytalanul megépített vagy befejezetlen építmény esetében a jelenlegi állapotot és a szándékolt továbbépített állapotot külön-külön kell ábrázolni. A fennmaradási engedélyezési tervben egyértelműen ábrázolni kell, hogy miben nyilvánult meg a szabálytalanság (méretekkel), és a szabálytalanságot milyen módon szüntetik meg.
 
 (13) Ha a kivitelezés során – építési naplóba bejegyzetten – módosított építési engedélyezést nem igénylő eltérés történik, a használatbavételi engedélyezéshez, tudomásulvételhez a megépült állapotot dokumentálni szükséges.
+
+[^48]: A 38. § (8) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 485. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
