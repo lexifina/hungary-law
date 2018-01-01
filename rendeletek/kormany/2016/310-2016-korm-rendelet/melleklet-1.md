@@ -1,4 +1,4 @@
-## 8. §[^2]
+## 8. §[^5]
 
 1. melléklet a 310/2016. (X. 13.) Korm. rendelethez
 
@@ -52,4 +52,4 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
