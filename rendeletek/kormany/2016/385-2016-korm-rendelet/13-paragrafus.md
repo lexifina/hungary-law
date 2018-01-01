@@ -10,6 +10,6 @@ b) ha első fokon a kormányhivatal vagy – ha jogszabály eltérően nem rende
 
 ## hatáskörébe tartozik.
 
-(3)[^11] Az országos tisztifőorvos a hatáskörébe tartozó feladatokat az ország egész területére kiterjedő illetékességgel látja el.
+(3)[^13] Az országos tisztifőorvos a hatáskörébe tartozó feladatokat az ország egész területére kiterjedő illetékességgel látja el.
 
-[^11]: A 13. § (3) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 70. §-a iktatta be.
+[^13]: A 13. § (3) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 70. §-a iktatta be.

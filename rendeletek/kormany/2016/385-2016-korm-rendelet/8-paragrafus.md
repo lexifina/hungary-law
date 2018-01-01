@@ -114,8 +114,8 @@ d) a munkaegészségügyi vonatkozású hazai és európai uniós programok vég
 
 e) a munkaegészségüggyel foglalkozó hazai és nemzetközi szervezetek tevékenységében.
 
-(4)–(5)[^8]
+(4)–(5)[^10]
 
 (6) A Kormány nemzeti koordinációs fókuszpontként az országos tisztifőorvost jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
 
-[^8]: A 8. § (4)–(5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte.
+[^10]: A 8. § (4)–(5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte.

@@ -34,6 +34,6 @@ h) az egészségügyi államigazgatási feladatok tekintetében az egyes közszo
 
 (2) A Kormány egészségügyi államigazgatási szervként a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok és a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben meghatározott elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlóját jelöli ki az Nvt. 2. § (9) bekezdése és 7. §-a szerinti feladatok ellátására.
 
-(3)[^9] A Kormány hatóságként a kormányhivatalt jelöli ki az Eütv. 110. § (4) bekezdése szerinti feladatok ellátására.
+(3)[^11] A Kormány hatóságként a kormányhivatalt jelöli ki az Eütv. 110. § (4) bekezdése szerinti feladatok ellátására.
 
-[^9]: A 9. § (3) bekezdése a 171/2017. (VI. 29.) korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 9. § (3) bekezdése a 171/2017. (VI. 29.) korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.
