@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-67-00-00
 | 2011-01-01 | 2010. évi CXXX. törvény | 2004-67-00-00.10 |
 | 2011-03-30 | 2011. évi XXII. törvény | 2004-67-00-00.11 |
 | 2012-01-01 | 2011. évi CXCV. törvény | 2004-67-00-00.12 |
+| 2018-01-01 | 2017. évi L. törvény | 2004-67-00-00.13 |
