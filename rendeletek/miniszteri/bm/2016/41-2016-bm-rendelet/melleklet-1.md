@@ -1,8 +1,6 @@
-## 12. §[^1]
-
 1. melléklet a 41/2016. (X. 13.) BM rendelethez
 
-## KÉRELEM a 41/2016. (X. 13.) BM rendelet alapján kijelölési engedély kiadása iránt, a minősített elektronikus aláírást vagy bélyegzőt létrehozó eszköz megfelelőségének tanúsítása tárgyában
+KÉRELEM a 41/2016. (X. 13.) BM rendelet alapján kijelölési engedély kiadása iránt, a minősített elektronikus aláírást vagy bélyegzőt létrehozó eszköz megfelelőségének tanúsítása tárgyában
 
 1. A kérelmező adatai
 
@@ -60,21 +58,7 @@ Képzettség:
 
 Gyakorlat:
 
-4. Mellékletként csatolva a kérelmező azon dokumentumai, amelyek a kijelölés iránti kérelem megalapozottságát igazolják:
-
-a) A létesítő okirat hiteles másolata;
-
-b) A kérelmező minőségirányítási kézikönyve vagy ennek a kijelölés szakterületéhez kapcsolódó része;
-
-c) A nemzetközi tanúsítási rendszerekben kapott elismerések elérhetősége, azonosítója, vagy ha az elismerés nyilvános forrásból nem elérhető, akkor annak hiteles másolata;
-
-d) A felelősségbiztosítási szerződés megkötését igazoló okirat;
-
-e) A kérelmező általános szerződési feltételei;
-
-f) A tanúsítási tevékenységre vonatkozó eljárási szabályzatai;
-
-g) A tanúsítási tevékenységet végző alkalmazottak és a kérelmező által igénybe vett közreműködők szakmai képzettségét igazoló okiratok hiteles másolata.
+4.[^6]
 
 5. Rendelkezik-e a kérelmező védjegyeztetett tanúsítási vagy jóváhagyási jelöléssel?
 
@@ -166,4 +150,4 @@ Kelt: ...................
 
 cégszerű aláírás
 
-[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet 4. pontját a 44/2017. (XII. 29.) BM rendelet 113. § (3) bekezdés b) pontja hatályon kívül helyezte.
