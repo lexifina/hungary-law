@@ -1,7 +1,0 @@
-## 3. §[^4]
-
-## 2. Az egyes miniszteri rendeleteknek az egyes migrációs tárgyú törvények jogharmonizációs célú módosításáról szóló 2010. évi CXXXV. törvény végrehajtásához szükséges módosításáról szóló
-
-## BM rendeletről szóló 12/2010. (XII. 23.) BM rendelet módosítása
-
-[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
