@@ -28,15 +28,27 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság – a hajózási b
 
 (2) A bírság összege legfeljebb 1 000 000 forint.
 
-(3) A hajózási hatóság a hajózási bírság összegét a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott mérlegelési szempontok alapján állapítja meg, figyelembe véve
+(3) A hajózási hatóság a hajózási bírság összegének megállapításánál mérlegeli:
 
 a) a jogsértés víziközlekedés biztonságára gyakorolt hatását,
 
-b) a jogsértő vagyoni helyzetét, jövedelmi viszonyait,
+b) a jogsértő vagyoni helyzetét jövedelmi viszonyait,
 
 c) a jogsértő magatartás felróhatóságát, valamint a jogsértő személy korábbi jogsértő magatartását,
 
-d) a jogsértő magatartás emberi életet és testi épséget veszélyeztető jellegét.
+d) a jogsértő magatartás emberi életet és testi épséget veszélyeztető jellegét,
+
+e) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket, illetve a jogsértéssel elért előny mértékét,
+
+f) a jogsértéssel okozott hátrány visszafordíthatóságát,
+
+g) a jogsértéssel érintettek körének nagyságát,
+
+h) a jogsértő állapot időtartamát,
+
+i) a jogsértő magatartás ismétlődését és gyakoriságát,
+
+j) a jogsértést elkövető eljárást segítő, együttműködő magatartását.
 
 (4) A hajózási bírság ugyanazon cselekményért ismételten is kiszabható, ha a kötelezett a jogsértő tevékenységgel nem hagy fel, vagy a jogsértő állapotot nem szünteti meg.
 

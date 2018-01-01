@@ -14,6 +14,6 @@
 
 a) a hatósági ellenőrzés időtartamára vagy
 
-b) a víziközlekedési szakértői tevékenység folytatásának megtiltására irányuló eljárásban az eljárás jogerős befejezéséig
+b) a víziközlekedési szakértői tevékenység folytatásának megtiltására irányuló eljárásban az eljárás végleges döntéssel történő befejezéséig
 
 kezeli.

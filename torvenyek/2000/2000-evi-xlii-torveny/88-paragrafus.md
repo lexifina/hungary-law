@@ -32,7 +32,11 @@ m) a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk
 
 n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak,
 
-o) a hajózási bírság mértékének és kivetése szabályainak
+o) a hajózási bírság mértékének és kivetése szabályainak,
+
+p) a kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítése, használatbavétele, üzemben tartása és megszüntetése részletes szabályainak,
+
+q) egyes hajózási hatósági eljárások részletes szabályainak
 
 rendeletben történő megállapítására.
 
@@ -58,7 +62,7 @@ rendeletben történő megállapítására.
 
 10. a víziközlekedés forgalmának irányítására, és a hajóút kitűzésére szolgáló jelek létesítése, üzemeltetése és megszüntetése szabályainak,
 
-11. a kikötő – ideértve a kikötőhelyet és a veszteglőhelyet is –, továbbá a komp- és révátkelőhelyek létesítése, üzemben tartása, megszüntetése feltételeinek, továbbá használata általános rendjének,
+11.
 
 12. a hajózással kapcsolatos egyes veszélyes tevékenységek biztonsági követelményeinek,
 
