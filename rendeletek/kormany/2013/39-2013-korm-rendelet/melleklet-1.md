@@ -1,6 +1,6 @@
-## 25. §[^100] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 11. § (2) és (4) bekezdésének hatálybalépése előtt megkezdett és a hatálybalépése időpontjában[^101] folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+## 25. §[^103] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 11. § (2) és (4) bekezdésének hatálybalépése előtt megkezdett és a hatálybalépése időpontjában[^104] folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
 
-1. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^102]
+1. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^105]
 
 Regisztrációs lap tartalmi elemei
 
@@ -58,6 +58,6 @@ importáló, bejegyzett kereskedő
 
 vagy tároló adóraktár engedélyes neve
 
-[^100]: A 25. §-t a 171/2017. (VI. 29.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^101]: A hatálybalépés időpontja 2017. július 1.
-[^102]: Az 1. melléklet a 239/2016. (VIII. 16.) Korm. rendelet 19. § (1) bekezdése, a 20. § g) pontja, a 419/2016. (XII. 14.) Korm. rendelet 8. § (8) bekezdése szerint módosított szöveg.
+[^103]: A 25. §-t a 171/2017. (VI. 29.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^104]: A hatálybalépés időpontja 2017. július 1.
+[^105]: Az 1. melléklet a 239/2016. (VIII. 16.) Korm. rendelet 19. § (1) bekezdése, a 20. § g) pontja, a 419/2016. (XII. 14.) Korm. rendelet 8. § (8) bekezdése szerint módosított szöveg.

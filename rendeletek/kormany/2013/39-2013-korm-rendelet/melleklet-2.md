@@ -1,3 +1,3 @@
-2. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^103]
+2. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^106]
 
-[^103]: A 2. mellékletet a 239/2016. (VIII. 16.) Korm. rendelet 21. § e) pontja hatályon kívül helyezte.
+[^106]: A 2. mellékletet a 239/2016. (VIII. 16.) Korm. rendelet 21. § e) pontja hatályon kívül helyezte.

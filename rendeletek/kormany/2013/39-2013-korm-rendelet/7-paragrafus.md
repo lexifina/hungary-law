@@ -1,4 +1,4 @@
-7. §[^32] (1)[^33] A 2. § 3. pont a), e) és g) alpontjában meghatározott dohányzásra szánt dohánytermékeken kombinált egészségvédő figyelmezetést kell feltüntetni. A kombinált egészségvédő figyelmezetésnek
+7. §[^34] (1)[^35] A 2. § 3. pont a), e) és g) alpontjában meghatározott dohányzásra szánt dohánytermékeken kombinált egészségvédő figyelmezetést kell feltüntetni. A kombinált egészségvédő figyelmezetésnek
 
 a) a csomagolási egység mind elülső, mind hátsó oldala külső felületének, valamint minden gyűjtőcsomag mind elülső, mind hátsó oldala külső felületének 65%-át ki kell töltenie,
 
@@ -14,5 +14,5 @@ db) szélesség: legalább 52 mm.
 
 (2) A kombinált egészségvédő figyelmeztetések fölé márkanév és – ha az feltüntethető – logó abban az esetben sem helyezhető, ha a 21/A. § (13) bekezdése szerint megengedett eltérés alapján a kombinált egészségvédő figyelmeztetéseket 2019. május 20-áig nem a csomagolás felső szélén helyezik el.
 
-[^32]: A 7. §-t a 239/2016. (VIII. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^33]: A 7. § (1) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: A 7. §-t a 239/2016. (VIII. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^35]: A 7. § (1) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
