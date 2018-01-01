@@ -26,6 +26,6 @@ d) átalakulással, egyesüléssel, szétválással létrejött adóalany eseté
 
 (9) Az adóval kapcsolatos hatósági feladatokat az állami adóhatóság látja el, az adóból származó bevétel a központi költségvetés bevétele.
 
-(10) Az e törvényben nem szabályozott eljárási kérdésekben az adózás rendjéről szóló 2003. évi XCII. törvény előírásai az irányadók.
+(10)
 
 (11) Az Szt. hatálya alá tartozó adóalany az e törvény alapján megállapított adót az adózás előtti eredmény terhére számolja el.

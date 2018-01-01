@@ -2,4 +2,4 @@
 
 (2) Ha az (1) bekezdés szerinti adóalany a 3. § (3) bekezdés szerinti nyilatkozattételi kötelezettsége teljesítését ugyanazon megrendelő számára ismételten elmulasztja, akkor az állami adóhatóság 10 millió forint mulasztási bírságot szab ki. A nyilatkozattételi kötelezettség minden további, ugyanazon megrendelő számára történő elmulasztása esetén az állami adóhatóság az előző alkalommal kiszabott mulasztási bírság háromszorosát kitevő mulasztási bírságot szab ki.
 
-(3) Az állami adóhatóság (1)–(2) bekezdés szerinti mulasztási bírságot kiszabó határozata a közléssel jogerős és végrehajtható. A határozat ellen bírósági felülvizsgálatnak van helye.
+(3) Az állami adóhatóság (1) és (2) bekezdés szerinti mulasztási bírságot kiszabó határozata a közléssel véglegessé válik és végrehajtható. A határozat közigazgatási perben támadható meg.

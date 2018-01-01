@@ -4,6 +4,6 @@
 
 (3) A mulasztás ismételt megállapítása esetén az állami adóhatóság az előző alkalommal kiszabott mulasztási bírság háromszorosát kitevő mulasztási bírságot szab ki.
 
-(4) Az állami adóhatóság az (1) bekezdés szerinti bejelentkezési kötelezettség elmulasztását naponta határozatban állapítja meg, amely a közléssel jogerős és végrehajtható, ellene bírósági felülvizsgálatnak van helye. A bírósági felülvizsgálati eljárásban kizárólag okirati bizonyításnak van helye és a bíróság tárgyaláson kívül határoz.
+(4) Az állami adóhatóság az (1) bekezdés szerinti bejelentkezési kötelezettség elmulasztását naponta határozatban állapítja meg, amely a közléssel véglegessé válik és végrehajtható. A határozat közigazgatási perben támadható meg, mely során kizárólag okirati bizonyításnak van helye és az eljáró bíróság tárgyaláson kívül határoz.
 
 (5) Ha az adóalany az állami adóhatóság első alkalommal való felhívására bejelentkezési kötelezettségét teljesíti, akkor a (2) és (3) bekezdés szerinti bírság korlátlanul enyhíthető.
