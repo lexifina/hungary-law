@@ -1,3 +1,1 @@
-11. §[^1]
-
-[^1]: A 11. § a 10. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+11. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományának 2017. évi ruházati utánpótlási ellátmánya terhére kiadott természetbeni ellátásról szóló 38/2016. (IX. 29.) BM rendelet.
