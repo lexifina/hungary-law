@@ -34,7 +34,7 @@ b) szomszédos erdőrészleteket érintően
 
 helyezkedik el.
 
-(5)[^17] A támogatási határozat közléséig a kérelmező a támogatott erdészeti potenciál helyreállítási tevékenységeket csak saját felelősségére, kizárólag az erdészeti hatóság felújítási kötelezettséget előíró vagy módosító határozatának jogerőre emelkedése után kezdheti meg.
+(5)[^17] A támogatási határozat közléséig a kérelmező a támogatott erdészeti potenciál helyreállítási tevékenységeket csak saját felelősségére, kizárólag az erdészeti hatóság felújítási kötelezettséget előíró vagy módosító határozatának véglegessé válása után kezdheti meg.
 
 (6)[^18]
 
@@ -49,7 +49,7 @@ helyezkedik el.
 [^14]: Az 5. § (1) bekezdés d) pontját a 87/2011. (IX. 2.) VM rendelet 11. § a) pontja hatályon kívül helyezte.
 [^15]: Az 5. § (3) bekezdése a 87/2011. (IX. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^16]: Az 5. § (4) bekezdése a 87/2011. (IX. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^17]: Az 5. § (5) bekezdése a 87/2011. (IX. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (5) bekezdése a 87/2011. (IX. 2.) VM rendelet 4. § (2) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 11. § a) pontja szerint módosított szöveg.
 [^18]: Az 5. § (6) bekezdését a 87/2011. (IX. 2.) VM rendelet 11. § b) pontja hatályon kívül helyezte.
 [^19]: Az 5. § (7) bekezdése a 87/2011. (IX. 2.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^20]: Az 5. § (8) bekezdését a 87/2011. (IX. 2.) VM rendelet 4. § (4) bekezdése iktatta be.
