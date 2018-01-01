@@ -1,3 +1,3 @@
-## 96. §[^33]
+## 96. §[^41]
 
-[^33]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
