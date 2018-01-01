@@ -1,0 +1,1 @@
+## „(2) Az (1) bekezdés c) pont cc) és cd) alpontja alapján működő, állami fenntartásban és tulajdonban álló országos gyógyintézetek és országos társ-gyógyintézetek körét az 5. melléklet határozza meg.”
