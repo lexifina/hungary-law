@@ -1,4 +1,3 @@
-25/A. §[^48] (1)[^49] Ha a gazdálkodó szervezet földkijelölési kötelezettsége több települést érint, és valamelyik településen a földkijelölés vitás, azokon a településeken, ahol a földalapok kijelölését nem vitatják és az a jogszabályoknak is megfelel, a kárpótlási hatóság az árverést kitűzheti.
+25/A. §[^33]
 
-[^48]: A Vhr. 25/A.§-át a 163/1993. (XI.30.) Korm. rendelet 5.§-a iktatta a szövegbe.
-[^49]: A Vhr. 25/A. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés o) pontja szerint módosított szöveg.
+[^33]: A Vhr. 25/A. §-át a 163/1993. (XI. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 8. § b) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

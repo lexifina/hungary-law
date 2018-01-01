@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-104-20-
 | 2015-07-08 | 1991-104-20-22.27 | 111/2011. (VII. 4.) Korm. rendelet |
 | 2016-01-01 | 1991-104-20-22.28 | 124/1995. (X. 18.) Korm. rendelet |
 | 2017-01-01 | 1991-104-20-22.29 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 1991-104-20-22.30 | 457/2017. (XII. 28.) Korm. rendelet |

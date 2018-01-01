@@ -1,1 +1,0 @@
-43. § A termőföld mezőgazdasági hasznosítására vállalt kötelezettségnek a tulajdonos akkor tesz eleget, ha a terület művelési ágának megfelelő termelést folytat. Nem minősül hasznosítási kötelezettség megszegésének, ha a termelést szünetelteti, de változatlanul gondoskodik a termőtalaj védelméről a terület fertőző és gyommentes állapotának fenntartásáról.

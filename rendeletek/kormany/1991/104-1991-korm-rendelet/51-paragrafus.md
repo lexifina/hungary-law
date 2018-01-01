@@ -1,1 +1,0 @@
-51. § A Tv. alapján kárpótlásként adott termőföldet (földrészletet) külön-külön tulajdoni lapon kell nyilvántartani. A tulajdoni lap I. részén jogi jellegként a ,,kárpótlás'' megjelölést kell feltüntetni. A tulajdoni lap II. részén a tulajdonjog megszerzése jogcíméül ,,árverés'' megjelölést kell feltüntetni.

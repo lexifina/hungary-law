@@ -1,6 +1,3 @@
-34/B. §[^59] (1) Ha a földrészlet árverésre való előkészítése az árverés kitűzött időpontjáig nem fejeződött be, az árverés vezetője a földrészletet előzetes árverésre bocsáthatja. Ebben az esetben az árverés vezetője a jegyzőkönyvben rögzíti az árverezni kívánó személyek és az árveréssel érintett földrészletek azonosításra alkalmas adatait, az árverés megtartására azonban újabb időpontot tűz. Az árverés időpontját és helyét a jelenlevőkkel szóban közli, ennek megtörténtét pedig a jegyzőkönyvben rögzíti.
+34/B. §[^39]
 
-(2)[^60] Az (1) bekezdés szerint kitűzött árverést az árverés vezetője a kárpótlási hatóság hivatalos helyiségében folytatja le. Ezen az árverésen csak az előzetes árverésre bocsátás során bejelentkezett és jegyzőkönyvben rögzített személyek vehetnek részt. Az árverés ilyen esetben a 26. §-ban foglaltak alkalmazása nélkül is megtartható.
-
-[^59]: A Vhr. 34/B. §-át a 163/1993. (XI.30.) Korm. rendelet 8.§-a iktatta a szövegbe.
-[^60]: A Vhr. 34/B. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^39]: A Vhr. 34/B. §-át a 163/1993. (XI. 30.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 8. § b) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
