@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-21-20-2
 | --- | --- | --- |
 | 2013-03-31 | 2013-21-20-22.1 | 21/2013. (I. 30.) Korm. rendelet |
 | 2017-01-01 | 2013-21-20-22.2 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2013-21-20-22.3 | 379/2016. (XII. 2.) Korm. rendelet |
