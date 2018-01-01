@@ -1,4 +1,4 @@
-## 17. §[^5] A Testnevelési Egyetem új kampusza, valamint a hozzá kapcsolódó sportlétesítmények, szálláshelyek és szolgáltató egységek megépítése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint a beruházások megvalósításával összefüggő beépítési szabályok megállapításáról szóló 309/2016. (X. 13.) Korm. rendelet módosításáról szóló 241/2017. (VIII. 28.) Korm. rendelettel (a továbbiakban: Módr.) módosított 10. §-át a Módr. hatálybalépésekor[^6] folyamatban lévő ügyekben is alkalmazni kell.
+## 17. §[^9] A Testnevelési Egyetem új kampusza, valamint a hozzá kapcsolódó sportlétesítmények, szálláshelyek és szolgáltató egységek megépítése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint a beruházások megvalósításával összefüggő beépítési szabályok megállapításáról szóló 309/2016. (X. 13.) Korm. rendelet módosításáról szóló 241/2017. (VIII. 28.) Korm. rendelettel (a továbbiakban: Módr.) módosított 10. §-át a Módr. hatálybalépésekor[^10] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 309/2016. (X. 13.) Korm. rendelethez
 
@@ -20,7 +20,7 @@
 
 8. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
 
-9.[^7] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+9.[^11] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 10. műszaki biztonsági hatósági engedélyezési eljárások,
 
@@ -50,6 +50,6 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^5]: A 17. §-t a 241/2017. (VIII. 28.) Korm. rendelet 3. §-a iktatta be.
-[^6]: A hatálybalépés időpontja 2017. augusztus 29.
-[^7]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 117. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 17. §-t a 241/2017. (VIII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2017. augusztus 29.
+[^11]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 117. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.

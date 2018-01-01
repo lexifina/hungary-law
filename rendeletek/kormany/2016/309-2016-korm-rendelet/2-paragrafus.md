@@ -1,13 +1,9 @@
-2. § (1) A Kormány az 1. § (1) bekezdés a) és b) pontjában megjelölt beruházások tekintetében
+## 2. §[^2] A Kormány az 1. § (1) bekezdés a) és b) pontjában megjelölt beruházások tekintetében
 
-a) az 1. melléklet 1., 2. és 21. pontja szerinti közigazgatási hatósági ügyekben első fokon eljáró hatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát, másodfokon eljáró hatóságként Budapest Főváros Kormányhivatalát,
+a) az 1. melléklet 1., 2. és 21. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát,
 
-b) az 1. melléklet 17. pontja szerinti közigazgatási hatósági ügyekben első fokon eljáró hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot
+b) az 1. melléklet 17. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot
 
-## jelöli ki.
+jelöli ki.
 
-(2) A Kormány az 1. § (1) bekezdés a) és b) pontjában megjelölt beruházások tekintetében az 1. melléklet szerinti kiemelt jelentőségű ügyekben
-
-a) építésügyi, településrendezési eszközöknek való megfelelőség, valamint örökségvédelmi szakkérdésben első fokú eljárásban eljáró szakhatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát, másodfokú eljárásban eljáró szakhatóságként Budapest Főváros Kormányhivatalát,
-
-b) tűzvédelmi szakkérdésben első fokú eljárásban eljáró szakhatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot
+[^2]: A 2. § a 458/2017. (XII. 28.) Korm. rendelet 288. § (1) bekezdésével megállapított szöveg.

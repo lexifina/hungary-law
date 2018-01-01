@@ -1,7 +1,1 @@
 ## jelöli ki.
-
-4. § (1) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére az 1. § (1) bekezdése szerinti hatósági ügyekben a szakhatóság – a hatóság határozatának meghozataláig felhasználható – előzetes szakhatósági állásfoglalást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 44. § (8) bekezdése szerint használja fel.
-
-(2) A hatóságnak az 1. § (1) bekezdése szerinti hatósági ügyekben a Ket. 45. § (2) és (3) bekezdése szerinti esetben úgy kell egyeztetnie a szakhatósággal, hogy az egyeztetésre és a felülvizsgált állásfoglalás kiadására legfeljebb 8 nap, környezetvédelmi, természetvédelmi és vízügyi tárgyú szakhatósági közreműködés esetén legfeljebb 15 nap áll rendelkezésre.
-
-(3) A hatóságnak az 1. § (1) bekezdése szerinti hatósági ügyekben az ügyintézésre a szakhatósági vélemények, engedélyek rendelkezésre állását követően legfeljebb 5 nap áll rendelkezésre.

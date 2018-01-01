@@ -2,7 +2,7 @@
 
 13. § (1) Az 1. § (1) bekezdésében megjelölt beruházásokkal összefüggésben
 
-a)[^4] a központi építészeti-műszaki tervtanács véleményét be kell szerezni,
+a)[^8] a központi építészeti-műszaki tervtanács véleményét be kell szerezni,
 
 b) nem kell településképi véleményezési eljárást lefolytatni, valamint
 
@@ -18,4 +18,4 @@ c) településképi bejelentési eljárásnak nincs helye.
 
 (6) Az 1. § (1) bekezdés a) és b) pontjában megjelölt beruházásokkal összefüggésben a beruházásokkal érintett földrészleteken lévő fás szárú növények kivágása esetén azok pótlásáról legkésőbb 2019. december 31. napjáig kell gondoskodni azzal, hogy a kivágott fák és cserjék pótlásának várható időpontját a kérelemben fel kell tüntetni.
 
-[^4]: A 13. § (1) bekezdés a) pontja a 241/2017. (VIII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A 13. § (1) bekezdés a) pontja a 241/2017. (VIII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-10. §[^3] (1) Az 1. § (1) bekezdés a) pontjában megjelölt beruházás tekintetében az 1. § (1) bekezdés a) pontja szerinti ingatlanokat egy tömbnek tekintve
+10. §[^7] (1) Az 1. § (1) bekezdés a) pontjában megjelölt beruházás tekintetében az 1. § (1) bekezdés a) pontja szerinti ingatlanokat egy tömbnek tekintve
 
 a) a zöldfelület legkisebb mértéke 22%,
 
@@ -22,4 +22,4 @@ e) a telek terepszint alatti beépítettség megengedett legnagyobb mértéke 40
 
 (3) Az 1. § (1) bekezdés szerinti beruházással érintett ingatlanokon egészségügyi, oktatási, iroda-, sport-, kollégium- és apartmanfunkciójú épületek is elhelyezhetők, illetve a meglévő épületek rendeltetése az előbbiekben felsorolt funkciókra megváltoztatható.
 
-[^3]: A 10. § a 241/2017. (VIII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 10. § a 241/2017. (VIII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

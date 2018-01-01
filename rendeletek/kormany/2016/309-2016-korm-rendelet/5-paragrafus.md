@@ -1,7 +1,3 @@
-## 5. §[^1] Az 1. § (1) bekezdése szerinti hatósági ügyekben eljáró hatóság ügygondnokot rendel ki annak a természetes személynek, akinek az 1. § (1) bekezdésében megjelölt beruházásokkal összefüggő közigazgatási hatósági ügy jogát vagy jogos érdekét érintheti, és a személyiadat- és lakcímnyilvántartásban lakcímeként szereplő valamennyi címre – címenként legfeljebb egy alkalommal – megküldött postai küldeményt a postai szolgáltató
+## 4. §[^3] A hatóságnak az 1. § (1) bekezdése szerinti hatósági ügyekben az ügyintézésre a szakhatósági vélemények, engedélyek rendelkezésre állását követően legfeljebb 5 nap áll rendelkezésre.
 
-a) „a címzett ismeretlen” vagy
-
-b) „elköltözött”
-
-[^1]: Az 5. § a 440/2016. (XII. 16.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^3]: A 4. § a 458/2017. (XII. 28.) Korm. rendelet 288. § (2) bekezdésével megállapított szöveg.
