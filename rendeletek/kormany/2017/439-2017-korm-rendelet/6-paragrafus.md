@@ -1,0 +1,1 @@
+## 5. § A 3. és 4. § rendelkezéseit azon személyek esetében is alkalmazni kell, akiknek szolgálati kötelmekkel összefüggő baleseti sérülés vagy szolgálati eredetű betegség következtében fennálló egészségkárosodásuk alapján került a szolgálati viszonyuk megszüntetésre, és részükre a központi pénzügyi szervezet baleseti járadékot állapított meg.
