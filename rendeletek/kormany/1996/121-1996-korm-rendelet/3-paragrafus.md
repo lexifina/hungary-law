@@ -24,9 +24,15 @@ c)[^12] bakteriológiai kifogásoltság esetén soron kívül bakteriológiai vi
 
 d)[^13] három egymást követő kifogásoltság esetén a medence üzemeltetését – a járási hivatalnak egyidejű értesítésével – fel kell függeszteni, majd takarítás, fertőtlenítés és újratöltés után bakteriológiai vizsgálatot kell végeztetni és annak megfelelő eredménye esetén a medence üzemeltetése folytatható.
 
+(5)[^14] A közfürdő fekvése szerint illetékes járási hivatal a folyamatosan üzemeltetett közfürdő esetén évente egyszer, az időszakosan működő közfürdő esetén a fürdési idény megkezdése előtt a közfürdőt tápláló összes vízből külön-külön vízmintát vesz, és azt az illetékes megyei kormányhivatalnak megküldi. A vízminták vételére és az azzal kapcsolatos adatszolgáltatásra az ivóvízvizsgálatokra előírt szabályok az irányadók.
+
+(6)[^15] A megyei kormányhivatal évente legalább egyszer megvizsgál minden olyan zárt (fedett) közfürdőt, amelynek megengedett legnagyobb terhelése az 50 főt, nyitott (szabadtéri) közfürdő esetén a 100 főt meghaladja. A helyszíni vizsgálat során a közfürdő legnagyobb terhelése idején kell mintát venni a közfürdőt tápláló összes vízből, valamint az egyes medencékből elfolyó, használt vizekből külön-külön.
+
 [^8]: A 3. § (1) bekezdésének utolsó mondatát a 273/2001. (XII. 21.) Korm. rendelet 11. § (5) bekezdésének b) pontja iktatta a szövegbe.
 [^9]: A 3. § (2) bekezdése a 273/2001. (XII. 21.) Korm. rendelet 11. § (5) bekezdésének c) pontjával megállapított, nyitó szövegrésze a 276/2005. (XII. 20.) Korm. rendelet 19. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 5. §-a, a 379/2016. (XII. 2.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^10]: A 3. § (2) bekezdésének d) pontját a 273/2002. (XII. 21.) Korm. rendelet 4. §-a hatályon kívül helyezte.
 [^11]: A 3. § (4) bekezdését a 77/2005. (IV. 28.) Korm. rendelet 1. §-a iktatta be, felvezető szövege a 330/2005. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^12]: A 3. § (4) bekezdés c) pontja a 296/2012. (X. 17.) Korm. rendelet 5. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
 [^13]: A 3. § (4) bekezdés d) pontja a 296/2012. (X. 17.) Korm. rendelet 5. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^14]: A 3. § (5) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 3. § (6) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
