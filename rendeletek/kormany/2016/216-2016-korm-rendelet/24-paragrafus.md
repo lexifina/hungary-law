@@ -8,6 +8,7 @@ a) a felügyelt szervezetet – legalább 8 napos határidő tűzésével – v�
 
 b) helyszíni ellenőrzést tarthat.
 
-(2) A helyszíni ellenőrzésről a felügyelt szervezetet előzetesen értesíteni kell, kivéve, ha az értesítés a helyszíni ellenőrzés eredményességét veszélyeztetné. A helyszíni ellenőrzésre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szemlére vonatkozó rendelkezéseit kell alkalmazni.
+(2)[^5] A helyszíni ellenőrzésről a felügyelt szervezetet előzetesen értesíteni kell, kivéve, ha az értesítés a helyszíni ellenőrzés eredményességét veszélyeztetné. A helyszíni ellenőrzésre az általános közigazgatási rendtartásról szóló törvény szemlére vonatkozó rendelkezéseit kell alkalmazni.
 
 [^4]: A 23. §-t a 477/2016. (XII. 27.) Korm. rendelet 87. § (4) bekezdés b) pontja hatályon kívül helyezte.
+[^5]: A 24. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 578. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
