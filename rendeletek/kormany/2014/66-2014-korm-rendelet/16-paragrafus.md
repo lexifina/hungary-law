@@ -1,4 +1,4 @@
-16. § (1) Az elkésett vagy alaptalan kérelmet a bíróság elutasítja.
+16. § (1)[^3] A bíróság az elkésett kérelmet visszautasítja, az alaptalan kérelmet elutasítja.
 
 (2) Ha a bíróság a 14. § (1) bekezdés a) pontja szerinti kérelemnek helyt ad, a bíróság a zálogjogosult kielégítési jogának gyakorlását a kifogásolt zálogjogosulti intézkedés tekintetében végzéssel felfüggeszti; a kifogásolt zálogjogosulti intézkedést ez esetben úgy kell tekinteni, mintha azt meg sem tették volna.
 
@@ -7,3 +7,5 @@
 (4) Ha a bíróság a kérelemnek helyt ad és e nélkül a kérelmező jogainak védelme nem biztosítható, végzését előzetesen végrehajthatóvá nyilváníthatja.
 
 (5) A kérelmet elbíráló végzést a bíróság a kérelmezőnek és a zálogjogosultnak – a kérelemnek való helyt adás esetén a kérelmezőn kívüli értesítésre jogosultaknak is – kézbesíti.
+
+[^3]: A 16. § (1) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 60. § (3) bekezdésével megállapított szöveg.
