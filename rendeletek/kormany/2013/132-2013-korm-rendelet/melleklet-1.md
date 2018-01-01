@@ -1,3 +1,3 @@
-1. melléklet a 132/2013. (V. 9.) Korm. rendelethez[^11]
+1. melléklet a 132/2013. (V. 9.) Korm. rendelethez[^15]
 
-[^11]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 41. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^15]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 41. § (1) bekezdés a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 77. §-a és 78. § c) pontja szerint módosított szöveg.

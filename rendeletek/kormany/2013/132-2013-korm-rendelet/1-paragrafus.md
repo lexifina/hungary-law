@@ -2,6 +2,8 @@
 
 (2) Az (1) bekezdés szerinti közigazgatási hatósági ügyekben az 1. mellékletben meghatározott hatóságok járnak el.
 
-(3) Azokban az esetekben, amikor az 1. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, az (1) bekezdés szerinti közigazgatási hatósági ügyekben szakhatóságként a 2. mellékletben meghatározott hatóságok járnak el.
+(3)[^2]
 
 (4) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni azokat a közigazgatási hatósági ügyeket, amelyek a beruházás megvalósításához, használatbavételéhez és a működés megkezdéséhez közvetlenül szükségesek.
+
+[^2]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 78. § a) pontja hatályon kívül helyezte.
