@@ -1,0 +1,3 @@
+9. § (1) Ha a kérelmező a Kmtv. 5. § (1) bekezdés b)–f) pontjaiban foglaltakra tekintettel kéri a költségmentesség engedélyezését, úgy – a (2) bekezdésben foglaltak kivételével – az ennek alapjául szolgáló ellátásról vagy ellátásra jogosultságról kell igazolást mellékelnie, és elegendő csak a nyomtatvány személyi adatokra vonatkozó részét kitöltenie.
+
+(2) A Kmtv. 5. § (1) bekezdésének e) pontja alá tartozó, menekültkénti vagy menedékeskénti, illetve hontalankénti elismerését kérő, továbbá a kiegészítő védelemben részesítését kérő személy rászorultságát a menekültügyi hatóság által kiállított humanitárius célú tartózkodási engedélyével igazolja.

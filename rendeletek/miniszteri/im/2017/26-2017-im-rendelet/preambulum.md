@@ -1,0 +1,1 @@
+A költségmentesség és a költségfeljegyzési jog polgári és közigazgatási bírósági eljárásban történő alkalmazásáról szóló 2017. évi CXXVIII. törvény 16. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

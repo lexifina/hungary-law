@@ -1,0 +1,5 @@
+8. § (1) A vállalkozó kérelmezőnek havi nettó jövedelemként a kérelem előterjesztését megelőző naptári évben elért éves adózott jövedelmének tizenketted részét kell feltüntetnie. A nyomtatványhoz mellékelni kell az éves adózott jövedelem összegéről az állami adó- és vámhatóság által kiállított igazolást. Ha a kérelmező a kérelme előterjesztésének időpontjában még nem tett adóbevallást, a kérelem előterjesztését megelőző naptári évben elért jövedelme alapján kell nyilatkoznia a havi nettó jövedelméről.
+
+(2) A mezőgazdasági őstermelő kérelmezőnek fel kell tüntetnie, ha a személyi jövedelemadóról szóló törvény szerint a kérelem előterjesztését megelőző naptári évben adóbevallásra és egyszerűsített bevallási nyilatkozat tételére sem volt köteles. Ebben az esetben a kérelem előterjesztését megelőző naptári évben megszerzett jövedelem tizenketted részét kell – külön igazolás nélkül – havi nettó jövedelemként feltüntetni.
+
+(3) E § nem mentesíti a kérelmezőt a 7. § szerinti egyéb jövedelmének feltüntetése és igazolása alól.

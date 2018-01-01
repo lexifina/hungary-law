@@ -1,0 +1,5 @@
+10. § (1) A kérelmezőnek minden vagyonáról nyilatkoznia kell – így különösen: ingatlan, készpénz, pénzügyi intézménnyel szemben fennálló követelés, értékpapír, ingó vagyontárgy, követelés, vagyoni értékű jog –, kivéve a szokásos életszükségleti és berendezési tárgyakat, valamint az olyan összegű készpénzt és pénzügyi intézménnyel szemben fennálló követelést, amely a bírósági végrehajtásról szóló törvény szerint mentes a végrehajtás alól.
+
+(2) Szokásos életszükségleti és berendezési tárgynak kell tekinteni a gépjármű kivételével különösen azt az ingóságot, amely a bírósági végrehajtásról szóló törvény szerint mentes a végrehajtás alól.
+
+(3) A nyomtatványhoz mellékelni kell három hónapra visszamenőleg a fizetési számlát vezető pénzforgalmi szolgáltató igazolását a fizetési számla egyenlegéről, valamint három hónapra visszamenőleg a fizetésiszámla-kivonatot. Ha a kérelmező több fizetési számlával rendelkezik egy pénzforgalmi szolgáltatónál vagy több pénzforgalmi szolgáltató vezet részére fizetési számlát, mindegyik vonatkozásában köteles az igazolásokat mellékelni.
