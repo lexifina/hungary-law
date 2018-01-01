@@ -1,3 +1,11 @@
-4. § (1) A fél kérheti, hogy az ügyvédnek az eljárásban felmerült készkiadásait a bíróság az ügyvéd által benyújtott tételes kimutatás alapján állapítsa meg. A bíróság szükség esetén kötelezi az ügyvédet a kimutatásban szereplő kiadások igazolására.
+4. §[^8] (1) A kamarai jogtanácsos által képviselt fél kamarai jogtanácsosi költségként
 
-(2) Ha az ügyvéd a bíróság által megszabott határidőn belül készkiadásait nem részletezi, vagy nem igazolja, a bíróság a 2. § (1) bekezdésének b) pontjában meghatározott készkiadások megállapítását mellőzi.
+a) a 3. § szerinti munkadíj, valamint
+
+b) a képviselet ellátásával összefüggésben felmerült, indokolt készkiadások
+
+együttes összegét számíthatja fel.
+
+(2) A munkadíj megállapítása során a 3. § (6) bekezdését alkalmazni kell.
+
+[^8]: A 4. § a 20/2017. (XII. 21.) IM rendelet 15. § (6) bekezdésével megállapított szöveg.
