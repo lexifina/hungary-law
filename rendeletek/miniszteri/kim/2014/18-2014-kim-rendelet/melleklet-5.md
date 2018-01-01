@@ -1,4 +1,4 @@
-5. melléklet a 18/2014. (III. 13.) KIM rendelethez[^38]
+5. melléklet a 18/2014. (III. 13.) KIM rendelethez[^45]
 
 ## Ranghelyszerződés megkötése tényének bejegyzésére irányuló hitelbiztosítéki nyilatkozat adattartalma
 
@@ -24,4 +24,4 @@
 
 8. A hitelbiztosítéki nyilatkozat alapjául szolgáló jogügylettel kapcsolatos megjegyzések
 
-[^38]: Az 5. mellékletet a 10/2017. (VIII. 11.) IM rendelet 7. § (5) bekezdése iktatta be.
+[^45]: Az 5. mellékletet a 10/2017. (VIII. 11.) IM rendelet 7. § (5) bekezdése iktatta be.

@@ -12,6 +12,8 @@ c) a hitelbiztosítéki nyilatkozat azonosítóját.
 
 (4) Ha a természetes személy regisztrált felhasználó a hitelbiztosítéki rendszer regisztrált felhasználójává személyes regisztráció útján vált, vagy utóbb személyesen regisztrált a hitelbiztosítéki rendszerbe, a rendszerüzenet érkezéséről mind a természetes személy regisztrált felhasználó, mind annak állandó képviselője (2) bekezdés szerinti figyelmeztetést kap.
 
-(5) Ha a regisztrált felhasználó helyett a hitelbiztosítéki nyilatkozatot a Hbnytv. 8. §-a szerint a közjegyző vagy a Hbnytv. 10. §-a alapján a hitelbiztosítéki rendszerben azonosított, regisztrált felhasználó ügyvéd teszi meg, a hitelbiztosítéki nyilatkozattal kapcsolatos rendszerüzenetet a regisztrált felhasználó és a közjegyző, illetve az ügyvéd tárhelyére is meg kell küldeni.
+(5)[^2] Ha a regisztrált felhasználó helyett a hitelbiztosítéki nyilatkozatot a Hbnytv. 8. §-a szerint a közjegyző vagy a Hbnytv. 10. §-a alapján a hitelbiztosítéki rendszerben azonosított, regisztrált felhasználó ügyvéd vagy kamarai jogtanácsos teszi meg, a hitelbiztosítéki nyilatkozattal kapcsolatos rendszerüzenetet a regisztrált felhasználó és a közjegyző, illetve az ügyvéd vagy kamarai jogtanácsos tárhelyére is meg kell küldeni.
 
 (6) A regisztrált felhasználó rendszerben rögzített adatainak módosulásáról rendszerüzenetben kell tájékoztatást adni azon regisztrált felhasználók számára, akik a módosulással érintett regisztrált felhasználó hitelbiztosítéki nyilatkozatával érintettek.
+
+[^2]: A 6. § (5) bekezdése a 20/2017. (XII. 21.) IM rendelet 42. § a) pontja szerint módosított szöveg.

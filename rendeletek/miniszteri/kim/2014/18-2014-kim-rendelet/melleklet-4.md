@@ -1,4 +1,4 @@
-4. melléklet a 18/2014. (III. 13.) KIM rendelethez[^37]
+4. melléklet a 18/2014. (III. 13.) KIM rendelethez[^44]
 
 ## A hitelbiztosítéki nyilatkozat törlésére irányuló nyilatkozat adattartalma
 
@@ -134,4 +134,4 @@
 
 8. A nyilatkozat megtételének időpontja
 
-[^37]: A 4. melléklet a 10/2017. (VIII. 11.) IM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^44]: A 4. melléklet a 10/2017. (VIII. 11.) IM rendelet 7. § (4) bekezdésével megállapított szöveg.

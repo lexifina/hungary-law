@@ -1,6 +1,6 @@
-## 58. §[^33]
+## 58. §[^37]
 
-1. melléklet a 18/2014. (III. 13.) KIM rendelethez[^34]
+1. melléklet a 18/2014. (III. 13.) KIM rendelethez[^38]
 
 ## Statisztikai jelentés adattartalma a hitelbiztosítéki nyilatkozatokról
 
@@ -56,7 +56,7 @@
 
 2.2. regisztrált állandó képviselők
 
-3. Meghatalmazott ügyvédek útján tett hitelbiztosítéki nyilatkozatok száma
+3.[^39] Meghatalmazott ügyvédek vagy kamarai jogtanácsosok útján tett hitelbiztosítéki nyilatkozatok száma
 
 4. Közjegyző előtt tett hitelbiztosítéki nyilatkozatok száma
 
@@ -64,9 +64,11 @@
 
 5.1. közjegyző által rögzített hitelbiztosítéki nyilatkozatok száma
 
-5.2. ügyvéd által rögzített hitelbiztosítéki nyilatkozatok száma
+5.2.[^40] ügyvéd vagy kamarai jogtanácsos által rögzített hitelbiztosítéki nyilatkozatok száma
 
 6. Képviselő nélkül tett hitelbiztosítéki nyilatkozatok száma
 
-[^33]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^34]: Az 1. melléklet a 10/2017. (VIII. 11.) IM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^37]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: Az 1. melléklet a 10/2017. (VIII. 11.) IM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^39]: Az 1. melléklet 3. pontja a 20/2017. (XII. 21.) IM rendelet 42. § c) pontja szerint módosított szöveg.
+[^40]: Az 1. melléklet 5.2. pontja a 20/2017. (XII. 21.) IM rendelet 42. § b) pontja szerint módosított szöveg.
