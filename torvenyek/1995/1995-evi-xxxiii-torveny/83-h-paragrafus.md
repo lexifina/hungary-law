@@ -2,8 +2,8 @@
 
 (2) A gyógyszerészeti államigazgatási szerv az (1) bekezdés szerinti jogerős határozatának másolatát megküldi a Szellemi Tulajdon Nemzeti Hivatalának.
 
-(3) A gyógyszerészeti államigazgatási szerv (1) bekezdés alapján hozott határozata ellen fellebbezésnek helye nincs.
+(3)
 
-(4) A gyógyszerészeti államigazgatási szerv hazai forgalmazást megtiltó határozatának jogerőre emelkedését követően a vámhatóság intézkedik a gyógyszeripari termék lefoglalása és az importőr költségén történő megsemmisítése iránt, és erről értesíti a Szellemi Tulajdon Nemzeti Hivatalát.
+(4) A gyógyszerészeti államigazgatási szerv hazai forgalmazást megtiltó határozatának jogerőre emelkedését követően a vámhatóság intézkedik a gyógyszeripari termék zár alá vétele és az importőr költségén történő megsemmisítése iránt, és erről értesíti a Szellemi Tulajdon Nemzeti Hivatalát.
 
 (5) A Szellemi Tulajdon Nemzeti Hivatala értesíti az Európai Bizottságot az (1) bekezdés szerinti határozatról és a (4) bekezdésben említett intézkedésekről.

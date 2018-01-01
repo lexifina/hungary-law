@@ -1,6 +1,8 @@
 ## Tárgyalás és bizonyítás
 
-98. § (1) Az elsőfokú bíróság a Pp. szabályai szerint bizonyítást folytat le, és tárgyalást tart.
+98. § (1) Az elsőfokú bíróság a Pp. szabályai szerint bizonyítást folytat le, és a Pp. érdemi tárgyalásra vonatkozó szabályai szerint tart tárgyalást.
+
+(1a) A bírósági eljárásban szünetelésnek nincs helye.
 
 (2) Ha az eljárásban ellenérdekű fél nem vesz részt, és az ügy az iratok alapján elbírálható, a bíróság tárgyaláson kívül is hozhat határozatot, azonban a felet — kívánságára — meg kell hallgatnia.
 

@@ -6,7 +6,7 @@
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi eljárást az ügyfél kérelmére vagy hivatalból felfüggeszti, ha az ügy az azzal szorosan összefüggő, a hatáskörébe tartozó egyéb eljárásban hozott döntése nélkül megalapozottan nem dönthető el.
 
-(4) A szabadalom megadására irányuló eljárás a bejelentő kérelmére nem függeszthető fel, kivéve, ha az (1) vagy a (3) bekezdés alkalmazásának volna helye.
+(4) A szabadalom megadására irányuló eljárás a bejelentő kérelmére nem szünetelhet, kivéve, ha az (1) vagy a (3) bekezdés alkalmazásának volna helye.
 
 (5) Az eljárás felfüggesztésekor minden határidő megszakad, és az eljárás felfüggesztésének megszüntetésekor újra kezdődik.
 

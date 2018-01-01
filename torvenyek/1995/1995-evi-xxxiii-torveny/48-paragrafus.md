@@ -12,6 +12,6 @@
 
 (6) Az eljárás folytatása iránt nem terjeszthető elő kérelem a megsemmisítési eljárásban, a nemleges megállapítási eljárásban és a 83/E–83/G. §-okban szabályozott eljárásokban.
 
-(7) A szabadalmi eljárásokban nem érvényesül a Ket.-ben megállapított ügyintézési határidő, továbbá nem alkalmazhatók a Ket.-nek azok a rendelkezései sem, amelyek az eljáró hatóság egyéb intézkedésére állapítanak meg határidőt.
+(7) A szabadalmi eljárásokban nem érvényesül az Ákr.-ben megállapított ügyintézési határidő, továbbá nem alkalmazhatók az Ákr.-nek azok a rendelkezései sem, amelyek az eljáró hatóság egyéb intézkedésére állapítanak meg határidőt.
 
 (8) Szabadalmi ügyekben a postán küldött beadvány előterjesztési ideje a Szellemi Tulajdon Nemzeti Hivatalához való beérkezés napja. A Szellemi Tulajdon Nemzeti Hivatala által kitűzött határidőhöz képest elkésetten beérkező beadványt azonban határidőben beérkezettnek kell tekinteni, ha azt ajánlott küldeményként a határidő lejárta előtt postára adták, kivéve, ha a beadvány a határidő lejártát követő két hónap eltelte után érkezett be.

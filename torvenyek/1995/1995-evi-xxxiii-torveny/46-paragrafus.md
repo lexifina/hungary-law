@@ -16,4 +16,4 @@ b) a postai küldemény azzal a megjegyzéssel érkezik vissza, hogy a címzett 
 
 (6) Ha az 51. § (1) bekezdése alkalmazásának van helye, valamennyi döntést a képviselő részére kell kézbesíteni.
 
-(7) Szabadalmi ügyben a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a határozat közzétételére vonatkozó rendelkezései nem alkalmazhatóak.
+(7) Szabadalmi ügyben az Ákr.-nek a határozat közhírré tételére vonatkozó rendelkezései nem alkalmazhatóak.

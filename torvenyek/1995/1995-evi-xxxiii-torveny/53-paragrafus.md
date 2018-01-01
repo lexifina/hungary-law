@@ -4,13 +4,13 @@
 
 (1a) A kérelemre megtekinthető iratokba való betekintést a Szellemi Tulajdon Nemzeti Hivatala személyes megjelenéshez kötötten biztosítja.
 
-(2) A közigazgatási hatósági eljárás általános szabályairól szóló törvényben szabályozott eseteken kívül a közzétételt követően sem tekinthetők meg
+(2) A közzétételt követően sem tekinthetők meg
 
 a) a döntéseket és a szakértői véleményeket előkészítő, a felekkel nem közölt iratok,
 
 b) a feltaláló megnevezését tartalmazó iratok, ha a feltaláló nevének nyilvánosságra hozatalát mellőzni kérte,
 
-c) a szabadalmi lajstromban fel nem tüntetett és a hatósági tájékoztatás során nem közölt személyes adatok, kivéve, ha megtekinthetővé tételükhöz az érintett kifejezetten hozzájárult, vagy ha a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint harmadik személy a személyes adatot tartalmazó iratba betekinthet.
+c) a szabadalmi lajstromban fel nem tüntetett és a hatósági tájékoztatás során nem közölt személyes adatok, kivéve, ha megtekinthetővé tételükhöz az érintett kifejezetten hozzájárult, vagy ha az Ákr. rendelkezései szerint harmadik személy a személyes adatot tartalmazó iratba betekinthet.
 
 (3) A megtekinthető iratokról a Szellemi Tulajdon Nemzeti Hivatala – ha azokat nem bíróság, ügyész vagy nyomozó hatóság kéri, díjfizetés ellenében – másolatot ad.
 
