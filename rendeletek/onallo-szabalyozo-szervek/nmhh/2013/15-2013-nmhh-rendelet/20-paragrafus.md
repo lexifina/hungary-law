@@ -12,6 +12,8 @@ b) elektronikus hírközlésre vonatkozó szabályban foglalt előírások súly
 
 (4) Ha az amatőr engedély visszavonására a (2) bekezdés a) pontja alapján került sor, akkor új rádióamatőr engedély a bíróság döntése szerint – kérelemre – adható ki újra.
 
-(5) Ha az amatőr engedély visszavonására a (2) bekezdés b) pontja alapján került sor, akkor a hatóság az engedélyestől visszavonja valamennyi rádióamatőr engedélyét, és a visszavonó határozat jogerőre emelkedésének napjától számított 180 nap letelte után adható újra ki – kérelemre – rádióamatőr engedély az engedélyes részére.
+(5)[^6] Ha az amatőr engedély visszavonására a (2) bekezdés b) pontja alapján került sor, akkor a hatóság az engedélyestől visszavonja valamennyi rádióamatőr engedélyét, és a visszavonó határozat véglegessé válásának napjától számított 180 nap letelte után adható újra ki – kérelemre – rádióamatőr engedély az engedélyes részére.
 
 (6) A rádióamatőr engedély megszűnik az engedélyes halálával vagy jogutód nélküli megszűnésével.
+
+[^6]: A 20. § (5) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 10. § bekezdése szerint módosított szöveg.

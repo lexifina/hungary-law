@@ -1,4 +1,4 @@
-## Rádióamatőr vizsga tárgykörök[^7]
+## Rádióamatőr vizsga tárgykörök[^8]
 
 ## A vizsga anyaga csak az amatőrállomásokon végzett forgalmazások, kísérletek és vizsgálatok szempontjából jelentős tárgykörökre terjed ki. Ebbe beletartoznak az áramkörök és diagramjaik. A kérdések vonatkozhatnak integrált vagy diszkrét alkatrészekből épült áramkörökre.
 
@@ -858,4 +858,4 @@
 
 2. melléklet a 15/2013. (IX. 25.) NMHH rendelethez
 
-[^7]: A CEPT T/R 61-02 Ajánlása és ERC 32. Jelentése alapján
+[^8]: A CEPT T/R 61-02 Ajánlása és ERC 32. Jelentése alapján
