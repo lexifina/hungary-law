@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-301-20-
 | 2014-03-15 | 2009-301-20-22.7 | 53/2014. (III. 3.) Korm. rendelet |
 | 2016-01-01 | 2009-301-20-22.8 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2009-301-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2009-301-20-22.10 | 457/2017. (XII. 28.) Korm. rendelet |
