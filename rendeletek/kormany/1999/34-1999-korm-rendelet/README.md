@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-34-20-2
 | 2014-03-15 | 1999-34-20-22.9 | 22/2014. (II. 3.) Korm. rendelet |
 | 2014-09-05 | 1999-34-20-22.10 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 1999-34-20-22.11 | 296/2012. (X. 17.) Korm. rendelet |
+| 2018-01-01 | 1999-34-20-22.12 | 457/2017. (XII. 28.) Korm. rendelet |

@@ -4,7 +4,7 @@
 
 ## Vegyes és záró rendelkezések
 
-26. §[^32] (1) A személyi védelem költsége
+26. §[^35] (1) A személyi védelem költsége
 
 a) a rendőrség által nyújtott személyi védelemmel összefüggésben rendészetért felelős miniszter által vezetett minisztérium költségvetési fejezetének,
 
@@ -16,4 +16,4 @@ c) a büntetés-végrehajtási szervezet által nyújtott személyi védelemmel 
 
 (2) A személyi védelem végrehajtására, illetve a személyi védelem elrendelésére, fenntartására, megszüntetésére, elrendelésére jogosultak együttműködésének részletes szabályait a rendészetért felelős miniszter, a büntetés-végrehajtásért felelős miniszter és az államháztartásért felelős miniszter együttes utasításban állapítja meg.
 
-[^32]: A 26. § a 221/2014. (IX. 4.) Korm. rendelet 193. §-ával megállapított szöveg.
+[^35]: A 26. § a 221/2014. (IX. 4.) Korm. rendelet 193. §-ával megállapított szöveg.

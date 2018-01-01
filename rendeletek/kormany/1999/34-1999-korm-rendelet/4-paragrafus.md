@@ -6,7 +6,7 @@
 
 ## A személyi védelem kezdeményezése
 
-4. §[^10] (1) A 2. § (1) bekezdés a) pontjában meghatározott, illetve – a személyükre tekintettel – a c) pontban felsoroltak személyi védelmének elrendelését a büntetőeljárás tartama alatt, illetve azt követően az a nyomozó szerv, ügyész vagy bíróság kezdeményezheti, amely előtt a büntetőeljárás folyik vagy folyt.
+4. §[^11] (1) A 2. § (1) bekezdés a) pontjában meghatározott, illetve – a személyükre tekintettel – a c) pontban felsoroltak személyi védelmének elrendelését a büntetőeljárás tartama alatt, illetve azt követően az a nyomozó szerv, ügyész vagy bíróság kezdeményezheti, amely előtt a büntetőeljárás folyik vagy folyt.
 
 (2) A büntetés-végrehajtási intézetben vagy katonai fogdában fogvatartott esetében a személyi védelem elrendelését a büntetés-végrehajtási intézet vagy katonai fogda parancsnoka, az ügyész, illetve a büntetés-végrehajtási bíró, illetve a javítóintézetben fogvatartott érintett esetében a javítóintézet igazgatója is kezdeményezheti.
 
@@ -16,4 +16,4 @@
 
 (5) A Tanúvédelmi Szolgálat vezetője kezdeményezheti az olyan érintett személyi védelmét, akivel szemben a Védelmi Program hatálya megszűnik, de a személyi védelem feltételei még fennállnak.
 
-[^10]: A 4. § a 28/2002. (II. 27.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^11]: A 4. § a 28/2002. (II. 27.) Korm. rendelet 29. §-ával megállapított szöveg.

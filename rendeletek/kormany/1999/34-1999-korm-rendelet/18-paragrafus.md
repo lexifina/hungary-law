@@ -1,10 +1,10 @@
-18. §[^25] (1) A személyi védelmet haladéktalanul meg kell szüntetni, ha
+18. §[^28] (1) A személyi védelmet haladéktalanul meg kell szüntetni, ha
 
 a) az elrendelés feltételei már nem állnak fenn;
 
 b) az érintett a személyi védelemről írásban lemond;
 
-c)[^26] – kiskorú, illetve bármely ügycsoportban korlátozott nagykorú vagy cselekvőképtelen érintett esetében – a törvényes képviselő, a gondnok, illetve a gyám a személyi védelemről írásban lemond.
+c)[^29] – kiskorú, illetve bármely ügycsoportban korlátozott nagykorú vagy cselekvőképtelen érintett esetében – a törvényes képviselő, a gondnok, illetve a gyám a személyi védelemről írásban lemond.
 
 (2) A személyi védelem megszüntethető, ha
 
@@ -22,5 +22,5 @@ f) a tolmács a tolmácsolást a személyi védelem elrendelésének alapjául s
 
 (3) A tanú, a terhelt, a szakértő, illetve a szaktanácsadó védelmének a (2) bekezdés c) vagy d) pontjában foglalt okból történő megszüntetése esetén a személyükre tekintettel más személyt érintő személyi védelmet is meg kell szüntetni.
 
-[^25]: A 18. § a 28/2002. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^26]: A 18. § (1) bekezdés c) pontja a 22/2014. (II. 3.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^28]: A 18. § a 28/2002. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^29]: A 18. § (1) bekezdés c) pontja a 22/2014. (II. 3.) Korm. rendelet 4. §-a szerint módosított szöveg.
