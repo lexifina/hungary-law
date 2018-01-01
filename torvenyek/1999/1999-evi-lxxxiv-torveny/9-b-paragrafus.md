@@ -16,10 +16,10 @@ g) a külön jogszabályban meghatározott minősítés esetén szükséges egy�
 
 h) a jármű azonosító és műszaki adatait, valamint motorjának egyedi azonosító jelét, illetve kódját.
 
-(2) Az (1) bekezdés a)–f) pontjaiban szereplő adatokat az előzetes eredetiségvizsgálati eljárás során rögzítik.
+(2) Az (1) bekezdés a)–h) pontjában szereplő adatokat az előzetes eredetiségvizsgálati eljárás során rögzítik.
 
-(3) Az (1) bekezdés h) pontjában szereplő adat a járműnyilvántartásból kerül az eredetiségvizsgálati nyilvántartásba.
+(3) Az (1) bekezdés j) pontjában szereplő adat a járműnyilvántartásból kerül az eredetiségvizsgálati nyilvántartásba.
 
 (4) Az előzetes eredetiségvizsgálati eljárás során felvett adatokat a nyilvántartó ellenőrzés céljából jogosult a járműnyilvántartás adataival összevetni.
 
-(5) Az előzetes eredetiségvizsgálati nyilvántartás az (1) bekezdés b)–g) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(5) Az előzetes eredetiségvizsgálati nyilvántartás az (1) bekezdés b)–h) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.

@@ -12,7 +12,7 @@ d) a tulajdonos (üzembentartó) bejelentése alapján a 9. § (1) bekezdésébe
 
 (2) A nyilvántartót értesíti:
 
-a) a járműokmányt kiadó, érvényesítő, cserélő, visszavonó, visszaadó, a járműokmányba bejegyzést tevő hatóság a jogerős határozatáról, a járműokmány adatairól vagy az adatváltozásról;
+a) a járműokmányt kiadó, érvényesítő, cserélő, visszavonó, visszaadó, a járműokmányba bejegyzést tevő hatóság a végleges határozatáról, a járműokmány adatairól vagy az adatváltozásról;
 
 b) a személyiadat- és lakcímnyilvántartás szerve a polgár nyilvántartásba bejegyzett adatai megváltozásáról, illetve elhalálozásának idejéről;
 

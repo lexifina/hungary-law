@@ -1,0 +1,1 @@
+22/B. § A járműnyilvántartásból történő terület alapú adatszolgáltatás esetén a lekérdezés alapja a kapcsolati kód alkalmazásával a személyiadat- és lakcímnyilvántartás által szolgáltatott aktuális lakcímadat, kivéve, ha az adatszolgáltatás az érvényes okmányban szereplő, vagy történeti lakcímadatok szerinti lekérdezésre irányul.

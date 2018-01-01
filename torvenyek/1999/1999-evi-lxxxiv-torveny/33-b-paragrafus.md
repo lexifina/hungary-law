@@ -8,4 +8,4 @@ bűncselekmény miatt büntetőeljárás indult.
 
 (2) A nyilvántartó a vizsgálói tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vizsgáló büntetlen előéletű és nem áll a vizsgálói tevékenységet kizáró foglalkozástól eltiltás vagy az (1) bekezdés szerinti büntetőeljárás hatálya alatt. A hatósági ellenőrzés céljából a nyilvántartó adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a közúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás vagy az (1) bekezdés szerinti büntetőeljárás hatálya alatt áll-e.
 
-(3) A nyilvántartó a vizsgáló (2) bekezdés szerinti személyes adatait a hatósági ellenőrzés időtartamára vagy a vizsgálói tevékenység megtiltásáról szóló döntés jogerőre emelkedéséig kezeli.
+(3) A nyilvántartó a vizsgáló (2) bekezdés szerinti személyes adatait a hatósági ellenőrzés időtartamára vagy a vizsgálói tevékenység megtiltásáról szóló döntés véglegessé válásáig kezeli.

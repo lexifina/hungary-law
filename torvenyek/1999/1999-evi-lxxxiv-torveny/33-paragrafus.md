@@ -2,15 +2,19 @@
 
 ## VEGYES RENDELKEZÉSEK
 
-33. § (1) A nyilvántartásba bejegyzett adatok módosítására okot adó körülmény bekövetkeztétől számított 15 napon belül köteles bejelenteni a bejegyzésre jogosult hatóságnál:
+33. § (1) A nyilvántartásba bejegyzett adatok módosítására okot adó körülmény bekövetkeztétől számított 15 napon belül köteles a bejegyzésre jogosult hatóságnál
 
-a) a járművezető, a járműtulajdonos (üzembentartó) a természetes személyazonosító adatának, jogi személy és jogi személyiséggel nem rendelkező szervezet a megnevezésének, székhelye (telephelye) címének, cégjegyzék- (nyilvántartási) számának változását;
+a) a járművezető, a járműtulajdonos, az üzembentartó a természetes személyazonosító adatának, jogi személy és jogi személyiséggel nem rendelkező szervezet a megnevezésének, székhelye, telephelye címének, cégjegyzék- vagy nyilvántartási számának megváltozásának,
 
-b) a jármű új tulajdonosa a jármű tulajdonjogának, a tulajdonos az üzembentartó személyének, valamint a járműokmányokban megjelölt műszaki adatoknak a változását;
+b) a jármű új tulajdonosa a jármű tulajdonjoga megváltozásának,
 
-c) használt járművek, járműalkatrészek értékesítésével foglalkozó kereskedő a használt és a bontásra vásárolt jármű járműazonosító adatait és az előző tulajdonosának természetes személyazonosító adatát, jogi személy és jogi személyiséggel nem rendelkező szervezet megnevezését, székhelyét (telephelyét);
+c) a járműtulajdonos az üzembentartó személye megváltozásának, valamint a járműokmányokban megjelölt műszaki adatok változásának,
 
-d) a jogosult a parkolási igazolványra való jogosultság, illetve a nyilvántartásban szereplő adatainak megváltozásával összefüggő adatokat.
+d) használt járművek, járműalkatrészek értékesítésével foglalkozó kereskedő a használt és a bontásra vásárolt jármű járműazonosító adatainak és az előző tulajdonosának természetes személyazonosító adatának, jogi személy és jogi személyiséggel nem rendelkező szervezet megnevezésének, székhelyének, telephelyének, valamint
+
+e) a jogosult a parkolási igazolványra való jogosultság, továbbá a nyilvántartásban szereplő adatainak megváltozásának
+
+nyilvántartásban történő átvezetését kezdeményezni.
 
 (2) Az (1) bekezdésben megjelölt határidőn belül a forgalomból kivonásra jogosult hatóságnak köteles bejelenteni:
 

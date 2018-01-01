@@ -12,7 +12,7 @@ e) a települési önkormányzat jegyzője
 
 ea) gépjármű-adóztatási feladatok ellátásához a 9. §-ban és a 9/A. § (1) bekezdésében megjelölt adatokat,
 
-eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdés a)–e) pontjában megjelölt adatokat;
+eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdés a)–e) pontjában megjelölt adatokat;
 
 f) az adóhatóság az adóigazgatási eljáráshoz a 8. §(1) bekezdés a) pont aa) és ab) alpontjában, valamint a b) pont ba) és bc) alpontjában, a 9. § (1)–(1b) bekezdésében, a 9. § (2) bekezdés a)–c) pontjában és a 9/A. § (1) bekezdés a)–e) pontjában meghatározott adatokat;
 
@@ -20,7 +20,7 @@ g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelm
 
 h) a közterület-felügyelet
 
-ha) közúti közlekedéssel összefüggő feladati ellátása céljából a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében meghatározott adatokat,
+ha) közúti közlekedéssel összefüggő feladati ellátása céljából a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében meghatározott adatokat,
 
 hb) a várakozásidíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjában, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, továbbá (3) bekezdésében megjelölt adatokat;
 
@@ -30,7 +30,7 @@ j) nemzetközi bűnüldözési szervezet a Nemzetközi Bűnügyi Együttműköd�
 
 k) külföldi bűnüldöző szerv nemzetközi szerződés alapján;
 
-l) a gépjármű-felelősségbiztosítást ellátó biztosító a kárrendezési eljáráshoz a 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, a 9. § (1a) bekezdésében, a (2) bekezdés a), b) és d) pontjaiban, továbbá a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
+l) a gépjármű-felelősségbiztosítást ellátó biztosító a kárrendezési eljáráshoz a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a (2) bekezdés a), b) és d) pontjaiban, továbbá a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
 
 m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
 
@@ -48,7 +48,7 @@ s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jo
 
 t) az anyakönyvvezető a személyazonosság ellenőrzése és az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
 
-u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a) és b) pontjában, valamint (2) bekezdés a)–c) pontjaiban megjelölt adatokat;
+u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, valamint (2) bekezdés a)–c) pontjaiban megjelölt adatokat;
 
 v) a környezetvédelmi és természetvédelmi hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésben megjelölt adatokat;
 
@@ -74,6 +74,10 @@ cb) a jármű műszaki adatainak és alkalmasságának megállapításával kapc
 
 d) a közfeladatot ellátó személyek vagy szervezetek, továbbá a 19. §-ban nem nevesített egyéb hatóságok, állami vagy önkormányzati szervek a rájuk vonatkozó jogszabályban meghatározott célok és feltételek teljesülése esetén, az ott meghatározott adatokra vonatkozóan,
 
-(3) A külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata adatszolgáltatást igényelhet az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről.
+(3) A nyilvántartásból adatot igényelhet:
+
+a) a külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről, továbbá az érintett személy kezdeményezésére vezetői engedélye külföldön történő cseréjének elősegítése érdekében, a 8. § (1) bekezdés a) pont aa), ae), ah), ai) alpontjában és b) pontjában meghatározott adatok tekintetében,
+
+b) az Európai Gazdasági Térségről szóló megállapodásban részes állam vezetői engedély kiadására, lecserélésére, pótlására, megújítására vagy visszavonására hatáskörrel rendelkező hatósága az erre irányuló eljárásához a 8. § (1) bekezdés a) pont aa), ae), ah), ai) alpontjában és b) pontjában meghatározott adatok tekintetében.
 
 (4) A szerencsejáték szervezéséről szóló törvény szerinti szervező adatszolgáltatást igényelhet a természetes személy személyazonosságának igazoló ellenőrzése céljából a természetes személy által megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségéről és a vezetői engedély érvényességének tényéről.

@@ -12,7 +12,9 @@ da) megnevezését,
 
 db) székhelyének (telephelyének) címét,
 
-dc) cégjegyzék-, vagy nyilvántartási számát.
+dc) cégjegyzék-, vagy nyilvántartási számát,
+
+e) tulajdonjoga és üzembentartói joga kezdetének, valamint megszűnésének időpontját.
 
 (1a) A járműnyilvántartás tulajdonjog változás esetén – a tulajdonszerző bejelentéséig – tartalmazza a járműnyilvántartásba bejegyzett tulajdonos (tulajdonjog átruházó) által a 33. § (6) bekezdésében meghatározott tulajdon átruházási szerződés alapján teljesített bejelentésben foglaltak szerint a tulajdonszerzőre vonatkozó, az (1) bekezdésben meghatározott adatokat, a tulajdonjog-átruházás időpontját, valamint a bejelentés tényét és időpontját.
 
