@@ -2,4 +2,4 @@
 
 (2) A bíróság az eljárást – kivéve a költségmentesség esetét – megszünteti akkor is, ha a kérelmező a fordítás költségeit felhívásra nem előlegezte meg.
 
-(3) Ha a kérelem továbbítása elutasításának vagy az eljárás megszüntetésének nincs helye, a bíróság a hiánytalan kérelmet és mellékleteit megküldi a központi hatóságnak és értesíti arról, hogy a kérelmezőt költségmentességben részesítette vagy a fordítási költségek letétbe helyezésére sor került.
+(3) Ha a kérelem továbbítása elutasításának vagy az eljárás megszüntetésének nincs helye, a bíróság a hiánytalan kérelmet és mellékleteit megküldi a központi hatóságnak, és értesíti arról, hogy a kérelmezőt költségmentességben részesítette vagy a fordítási költségek letétbe helyezésére sor került. A kérelem megküldéséről rendelkező végzés ellen a kérelmező részéről fellebbezésnek nincs helye.
