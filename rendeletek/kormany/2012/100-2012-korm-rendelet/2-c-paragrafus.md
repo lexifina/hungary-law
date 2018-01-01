@@ -1,6 +1,6 @@
-## 2/B. §[^10] A beruházás keretében megvalósuló új önálló rendeltetési egységek rendeltetésszerű használatához személygépkocsi elhelyezését nem kell biztosítani.
+## 2/B. §[^13] A beruházás keretében megvalósuló új önálló rendeltetési egységek rendeltetésszerű használatához személygépkocsi elhelyezését nem kell biztosítani.
 
-2/C. §[^11] (1) A beruházás keretében a Budapest V. kerület 24710/4 hrsz. telekre a Kormány a következő beépítési szabályokat állapítja meg:
+2/C. §[^14] (1) A beruházás keretében a Budapest V. kerület 24710/4 hrsz. telekre a Kormány a következő beépítési szabályokat állapítja meg:
 
 a) a kialakítható telek legkisebb területe: 800 m2,
 
@@ -24,5 +24,5 @@ a) terepszint alatti építmény a szükséges közműkiváltásokkal létesíth
 
 b) terepszint alatt az Országházhoz kapcsolódó látogató vagy fogadóépítmény és mélygarázs a hozzájuk tartozó kiszolgáló rendeltetések elhelyezését biztosító építményrészekkel, közlekedési célú építmény, épületgépészeti célú építmény, közműellátás építménye, illetve az (1) bekezdés g) pontja szerinti építményrész helyezhető el.
 
-[^10]: A 2/B. §-t a 294/2016. (IX. 29.) Korm. rendelet 3. §-a iktatta be.
-[^11]: A 2/C. §-t a 294/2016. (IX. 29.) Korm. rendelet 3. §-a iktatta be.
+[^13]: A 2/B. §-t a 294/2016. (IX. 29.) Korm. rendelet 3. §-a iktatta be.
+[^14]: A 2/C. §-t a 294/2016. (IX. 29.) Korm. rendelet 3. §-a iktatta be.

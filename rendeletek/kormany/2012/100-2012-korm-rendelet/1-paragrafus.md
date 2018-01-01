@@ -24,10 +24,11 @@ d)[^2] a beruházással érintett épületek homlokzatához való illeszkedés �
 
 (3) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 
-(4) Azokban az esetekben, amikor az 1. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
+(4)[^3]
 
-(5)[^3] A Kormány az 1. mellékletben meghatározott közigazgatási hatósági eljárásokban – az 1. mellékletben foglalt táblázat C:2. mezője szerinti hatósági eljárások kivételével – az egységes térrendezési szempontoknak az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 18. §-ában foglaltak szerinti érvényesítése kérdésében, a 2. mellékletben foglalt táblázat 2. sorában foglalt hatóságokat az ott megjelöltek szerint szakhatóságként jelöli ki.
+(5)[^4]
 
 [^1]: Az 1. § (1) bekezdése a 294/2016. (IX. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés d) pontját a 294/2016. (IX. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^3]: Az 1. § (5) bekezdését a 127/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 49. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (5) bekezdését a 127/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 458/2017. (XII. 28.) Korm. rendelet 49. § a) pontja.
