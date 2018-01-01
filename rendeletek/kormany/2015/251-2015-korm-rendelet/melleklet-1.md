@@ -1,4 +1,4 @@
-## 7. §[^2] E rendeletnek a Melis Investment Kft. Budapesten megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 251/2015. (IX. 8.) Korm. rendelet módosításáról szóló 327/2016. (X. 27.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4/A. §-át a Módr. hatálybalépésekor[^3] folyamatban lévő ügyekben is alkalmazni kell.
+## 7. §[^4] E rendeletnek a Melis Investment Kft. Budapesten megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 251/2015. (IX. 8.) Korm. rendelet módosításáról szóló 327/2016. (X. 27.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4/A. §-át a Módr. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 251/2015. (IX. 8.) Korm. rendelethez
 
@@ -46,5 +46,5 @@
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: A 7. §-t a 327/2016. (X. 27.) Korm. rendelet 2. §-a iktatta be.
-[^3]: A hatálybalépés napja 2016. október 28.
+[^4]: A 7. §-t a 327/2016. (X. 27.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A hatálybalépés napja 2016. október 28.

@@ -1,4 +1,4 @@
-4/A. §[^1] (1) Az 1. § (1) bekezdése szerinti beruházás és ingatlan esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet, valamint a hatályos településrendezési eszközöket azzal az eltéréssel kell alkalmazni, hogy az 1. § (1) bekezdése szerinti épület vonatkozásában építési követelményként érvényesíteni kell a következőket:
+4/A. §[^3] (1) Az 1. § (1) bekezdése szerinti beruházás és ingatlan esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet, valamint a hatályos településrendezési eszközöket azzal az eltéréssel kell alkalmazni, hogy az 1. § (1) bekezdése szerinti épület vonatkozásában építési követelményként érvényesíteni kell a következőket:
 
 a) a szintterületi mutató legfeljebb 7 m2/m2,
 
@@ -12,4 +12,4 @@ d) tetőtérben két építményszint építhető, valamint tetősíkban a nyíl
 
 (3) Az 1. § (1) bekezdése szerinti épület épületszerkezeteinek vonatkozásában a KK kockázati osztály besorolása az irányadó.
 
-[^1]: A 4/A. §-t a 327/2016. (X. 27.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 4/A. §-t a 327/2016. (X. 27.) Korm. rendelet 1. §-a iktatta be.
