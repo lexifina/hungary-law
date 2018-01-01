@@ -12,4 +12,6 @@ e) a díjfizetés törlésére és visszatérítésére az Itv. 80. § (1) bekez
 
 ## foglaltakat kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
 
-(2) Ha a díj visszatérítése azért vált szükségessé, mert a jogorvoslati eljárásban felülvizsgált döntés vagy intézkedés a kérelmező hátrányára részben vagy egészben jogszabálysértőnek bizonyult, akkor a hatóság a visszatérítésről hivatalból, a jogorvoslati eljárás során hozott határozatban rendelkezik.
+(2)[^4]
+
+[^4]: A 3. § (2) bekezdését az 51/2017. (XII. 29.) NGM rendelet 28. § (2) bekezdés c) pontja hatályon kívül helyezte.

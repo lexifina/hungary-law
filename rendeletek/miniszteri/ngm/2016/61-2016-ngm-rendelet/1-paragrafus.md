@@ -8,6 +8,8 @@
 
 (3) A díj mértékét az 1. melléklet állapítja meg.
 
-(4) Az ügyfél kérelmére soron kívül legfeljebb 15 napon belül, illetve munkaidőn túl végezhető hatósági tevékenység esetében a díj mértéke a vonatkozó díj 150%-a, a munkaszüneti napon végzett tevékenység esetén a díj mértéke a vonatkozó díj 200%-a.
+(4)[^1]
 
 (5) Amennyiben egy kérelem alapján a műszaki biztonsági hatóságnál több, egymástól elkülönült hatósági eljárás indul, az egyes eljárásokra megállapított díjat minden eljárásra külön meg kell fizetni.
+
+[^1]: Az 1. § (4) bekezdését az 51/2017. (XII. 29.) NGM rendelet 28. § (2) bekezdés a) pontja hatályon kívül helyezte.
