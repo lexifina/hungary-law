@@ -18,4 +18,6 @@ h) a fatermék eredetének megállapítását célzó genetikai vizsgálat,
 
 i) talajminta-vizsgálat, és
 
-j) más ország hatóságaitól kért jogsegély keretében szolgáltatott adatok
+j)[^1] más ország hatóságai felé tett megkeresés keretében szolgáltatott adatok
+
+[^1]: A 7. § j) pontja a 14. § (1) bekezdése szerint módosított szöveg.
