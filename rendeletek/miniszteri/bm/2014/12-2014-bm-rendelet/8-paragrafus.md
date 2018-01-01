@@ -1,1 +1,3 @@
-## 7. § Az e rendelet hatálybalépésétől számított 60. napig a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény 9. § (5) és (6) bekezdésében meghatározott kötelezettség vonatkozásában a szén-monoxid érzékelő berendezésre vonatkozó műszaki követelmények meghatározásáról és egyes tűzvédelmi tárgyú miniszteri rendeletek módosításáról szóló 64/2013. (XII. 4.) BM rendelet 1. §-a alapján alkalmazható berendezések alkalmazását is el kell fogadni.
+## 7. §[^2]
+
+[^2]: A 7. §-t a 44/2017. (XII. 29.) BM rendelet 99. §-a hatályon kívül helyezte.
