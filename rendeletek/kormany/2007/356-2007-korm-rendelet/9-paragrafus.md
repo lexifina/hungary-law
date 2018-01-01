@@ -1,18 +1,18 @@
-## 8. §[^34] Ha a szerződő felek a földhasználat kezdetét a jóváhagyó záradékkal ellátott szerződésnek az ingatlanügyi hatósághoz történő megérkezését követő időpontban határozták meg, akkor az ingatlanügyi hatóság az időpont bekövetkezését követő munkanapon hivatalból megindítja a földhasználati nyilvántartásbavételi eljárást.
+## 8. §[^39] Ha a szerződő felek a földhasználat kezdetét a jóváhagyó záradékkal ellátott szerződésnek az ingatlanügyi hatósághoz történő megérkezését követő időpontban határozták meg, akkor az ingatlanügyi hatóság az időpont bekövetkezését követő munkanapon hivatalból megindítja a földhasználati nyilvántartásbavételi eljárást.
 
-9. §[^35] (1)[^36] A nyilvántartásbavétel iránti kérelmet hiánypótlási felhívás kibocsátása nélkül el kell utasítani, ha a nyilvántartásbavétel alapjául szolgáló adatlaphoz csatolt szerződés nyilvánvalóan érvénytelen. A nyilvánvaló érvénytelenség esete akkor áll fenn, ha az érvénytelenség kétségkívül megállapítható a szerződésből.
+9. §[^40] (1)[^41] A nyilvántartásbavétel iránti kérelmet hiánypótlási felhívás kibocsátása nélkül vissza kell utasítani, ha a nyilvántartásbavétel alapjául szolgáló adatlaphoz csatolt szerződés nyilvánvalóan érvénytelen. A nyilvánvaló érvénytelenség esete akkor áll fenn, ha az érvénytelenség kétségkívül megállapítható a szerződésből.
 
-(2)[^37] A Fétv. 98. §-a szerinti ügyészi értesítéssel egyidejűleg a nyilvántartásbavétel iránti kérelmet hiánypótlási felhívás kibocsátása nélkül el kell utasítani.
+(2)[^42] A Fétv. 98. §-a szerinti ügyészi értesítéssel egyidejűleg a nyilvántartásbavétel iránti kérelmet hiánypótlási felhívás kibocsátása nélkül vissza kell utasítani.
 
-(3)[^38] A (2) bekezdésben foglaltakon túl hiánypótlási felhívás kibocsátása nélkül el kell utasítani a bejelentést akkor is, ha
+(3)[^43] A (2) bekezdésben foglaltakon túl hiánypótlási felhívás kibocsátása nélkül kell visszautasítani a bejelentést akkor is, ha
 
-a)[^39] az adatlaphoz csatolt földhasználati szerződés hatósági jóváhagyáshoz kötött, de azon nem szerepel a hatóság jóváhagyó záradéka;
+a) az adatlaphoz csatolt földhasználati szerződés hatósági jóváhagyáshoz kötött, de azon nem szerepel a hatóság jóváhagyó záradéka;
 
-b) az adatlap, vagy az adatlap és az ahhoz csatolt okirat(ok) tartalma ellentmondó;
+b) az adatlap, vagy az adatlap és az ahhoz csatolt okiratok tartalma ellentmondó;
 
-c)[^40] a földhasználati szerződés, a tulajdonostársak közötti használati megosztásról szóló megállapodás illetve többlethasználati megállapodás értelmezhetetlen kikötést, feltételt tartalmaz;
+c) a földhasználati szerződés, a tulajdonostársak közötti használati megosztásról szóló megállapodás, illetve többlethasználati megállapodás értelmezhetetlen kikötést, feltételt tartalmaz;
 
-d)[^41] a kérelmező tulajdonosként (tulajdonosi jogokat gyakorló szervezetként), haszonélvezeti jog jogosultjaként vagy vagyonkezelőként tett földhasználati bejelentést, de ezen jogállása a bejelentés megtételekor az ingatlan-nyilvántartásban nem szerepel; vagy
+d) a kérelmező tulajdonosként (tulajdonosi jogokat gyakorló szervezetként), haszonélvezeti jog jogosultjaként vagy vagyonkezelőként tett földhasználati bejelentést, de ezen jogállása a bejelentés megtételekor az ingatlan-nyilvántartásban nem szerepel;
 
 e) a hatósági jóváhagyáshoz nem kötött haszonbérleti szerződés esetén
 
@@ -20,20 +20,19 @@ ea) az előhaszonbérleti jog fennállása ellenére a szerződés a Földforgal
 
 eb) a szerződésnek az előhaszonbérletre jogosultakkal való közlése során az előhaszonbérleti jog gyakorlására nyitva álló határidő biztosítása rövidebb volt a Földforgalmi tv.-ben meghatározott határidőnél, vagy
 
-ec)[^42] az Előkr.-ben meghatározott, a jegyző által elmulasztott eljárási cselekményt, vagy igazolást kellene pótolni, ide nem értve a jegyzőnek az elektronikus tájékoztató közzététele érdekében tett intézkedését,
+ec) az Előkr.-ben meghatározott, a jegyző által elmulasztott eljárási cselekményt, vagy igazolást kellene pótolni, ide nem értve a jegyzőnek az elektronikus tájékoztató közzététele érdekében tett intézkedését;
 
-f)[^43]
+f) a bejelentést nem a 2. § (1b) bekezdésében meghatározott adatlapon nyújtják be;
 
-(4)[^44] Azokban az esetekben, amikor a bejelentésre induló földhasználati nyilvántartásbavételi eljárás során a bejelentést hiánypótlási felhívás kibocsátása nélkül el kell utasítani, a hivatalból induló eljárást meg kell szüntetni.
+g) a bejelentés benyújtására a Fétv. 95. § (1) bekezdésben meghatározott időpont előtt kerül sor; vagy
 
-[^34]: A 8. §-t a 45/2016. (III. 10.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte, újonnan a 440/2016. (XII. 16.) Korm. rendelet 14. § (4) bekezdése iktatta be.
-[^35]: A 9. § a 23/2012. (II. 29.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
-[^36]: A 9. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 95. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^37]: A 9. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 95. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^38]: A 9. § (3) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^39]: A 9. § (3) bekezdés a) pontja a 45/2016. (III. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^40]: A 9. § (3) bekezdés c) pontja a 473/2016. (XII. 27.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^41]: A 9. § (3) bekezdés d) pontja a 441/2015. (XII. 28.) Korm. rendelet 95. § (2) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^42]: A 9. § (3) bekezdés e) pont ec) alpontja a 45/2016. (III. 10.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
-[^43]: A 9. § (3) bekezdés f) pontját az 504/2013. (XII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 121/2014. (IV. 8.) Korm. rendelet 2. §-a.
-[^44]: A 9. § (4) bekezdését újonnan a 440/2016. (XII. 16.) Korm. rendelet 14. § (5) bekezdése iktatta be.
+h) a használatba adó a Földforgalmi tv. 13. §-a szerinti saját használatra vonatkozó kötelezettséget vállalt.
+
+(4)[^44] Azokban az esetekben, amikor a bejelentésre induló földhasználati nyilvántartásbavételi eljárás során a bejelentést hiánypótlási felhívás kibocsátása nélkül vissza kell utasítani, a hivatalból induló eljárást meg kell szüntetni.
+
+[^39]: A 8. §-t a 45/2016. (III. 10.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte, újonnan a 440/2016. (XII. 16.) Korm. rendelet 14. § (4) bekezdése iktatta be.
+[^40]: A 9. § a 23/2012. (II. 29.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^41]: A 9. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 95. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 209. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^42]: A 9. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 95. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 209. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^43]: A 9. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 208. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^44]: A 9. § (4) bekezdését újonnan a 440/2016. (XII. 16.) Korm. rendelet 14. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 209. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

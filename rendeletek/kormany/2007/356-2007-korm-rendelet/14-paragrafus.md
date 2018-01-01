@@ -26,7 +26,7 @@ f)[^67] a bejegyzett használat olyan földrészleten vagy a földrészlet olyan
 
 g)[^68] a bejegyzett földhasználat alapjául szolgáló földhasználati szerződés szerinti földhasználó személye a bíróság jogerős döntésével változott meg,
 
-h)[^69] a bejegyzett földhasználat alapjául szolgáló földhasználati szerződés szerinti földhasználó személye a hatóság jogerős döntésével változott meg, vagy
+h)[^69] a bejegyzett földhasználat alapjául szolgáló földhasználati szerződés szerinti földhasználó személye a hatóság végleges döntésével változott meg, vagy
 
 i)[^70] ha a földhasználat bejegyzésének alapjául olyan földhasználati szerződés kerül benyújtásra, melyet nem a földrészlet bejegyzett tulajdonosa kötött, de a szerződés a benyújtása időpontjában érvényesen és hatályosan fennáll.
 
@@ -36,7 +36,7 @@ i)[^70] ha a földhasználat bejegyzésének alapjául olyan földhasználati sz
 
 (5)[^72] Ha a nyilvántartásba bejegyzett szívességi földhasználat a Fétv. 68. § (2) bekezdés d) pontja alapján szűnik meg, a földhasználó vagy a használatba adó által benyújtott törlés-bejelentési adatlaphoz csatolni kell a közeli hozzátartozói viszony megszűnését igazoló okiratot.
 
-(6)[^73] A (2) bekezdés g)–i) pontjában foglalt esetben a bejegyzett földhasználónak a nyilvántartásból való törlését a bejelentés szerinti földhasználó bejegyzésével egyidejűleg kell elvégezni. A bejelentési adatlaphoz mellékelni kell azt a jogerős hatósági döntést, bírósági ítéletet, érvényes földhasználati szerződést, amely a földhasználó személyében bekövetkezett változást igazolja.
+(6)[^73] A (2) bekezdés g)–i) pontjában foglalt esetben a bejegyzett földhasználónak a nyilvántartásból való törlését a bejelentés szerinti földhasználó bejegyzésével egyidejűleg kell elvégezni. A bejelentési adatlaphoz mellékelni kell azt a végleges hatósági döntést, jogerős bírósági ítéletet, érvényes földhasználati szerződést, amely a földhasználó személyében bekövetkezett változást igazolja.
 
 [^61]: A 14. § a 429/2012. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^62]: A 14. § (1) bekezdés nyitó szövegrésze a 473/2013. (XII. 12.) Korm. rendelet 14. § (1) bekezdés j) pontja szerint módosított szöveg.
@@ -46,8 +46,8 @@ i)[^70] ha a földhasználat bejegyzésének alapjául olyan földhasználati sz
 [^66]: A 14. § (2) bekezdés e) pontját a 373/2014. (XII. 31.) Korm. rendelet 48. §-a iktatta be, szövege a 45/2016. (III. 10.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 341/2016. (XI. 17.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^67]: A 14. § (2) bekezdés f) pontját a 45/2016. (III. 10.) Korm. rendelet 8. § (1) bekezdése iktatta be, szövege a 473/2016. (XII. 27.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
 [^68]: A 14. § (2) bekezdés g) pontját a 341/2016. (XI. 17.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^69]: A 14. § (2) bekezdés h) pontját a 473/2016. (XII. 27.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^69]: A 14. § (2) bekezdés h) pontját a 473/2016. (XII. 27.) Korm. rendelet 5. § (7) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 209. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^70]: A 14. § (2) bekezdés i) pontját a 473/2016. (XII. 27.) Korm. rendelet 5. § (7) bekezdése iktatta be.
 [^71]: A 14. § (3) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
 [^72]: A 14. § (5) bekezdését a 45/2016. (III. 10.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^73]: A 14. § (6) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 473/2016. (XII. 27.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^73]: A 14. § (6) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 473/2016. (XII. 27.) Korm. rendelet 5. § (9) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 209. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

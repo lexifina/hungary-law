@@ -2,6 +2,6 @@
 
 (2) Ha a földhasználó újabb használat nyilvántartását kéri, a földhasználati lapot helyre kell állítani.
 
-(3)[^76] Ha a járási hivatal ellenőrzése során vagy bejelentés alapján észleli, hogy a földhasználati lap törlés tévesen történt, a földhasználati lapot helyre kell állítani.”
+(3)[^77] Ha a járási hivatal ellenőrzése során vagy bejelentés alapján észleli, hogy a földhasználati lap törlés tévesen történt, a földhasználati lapot helyre kell állítani.”
 
-[^76]: A 15. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
+[^77]: A 15. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
