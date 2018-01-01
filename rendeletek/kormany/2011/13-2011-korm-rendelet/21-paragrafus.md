@@ -4,7 +4,7 @@
 
 ## 15. Nemzetközi importigazolás
 
-21. § (1)[^51] A kettős felhasználású termékek az Európai Unió vámterületén kívülről Nemzetközi importigazolással (a továbbiakban: Igazolás) hozhatók be Magyarország területére, ha:
+21. § (1)[^53] A kettős felhasználású termékek az Európai Unió vámterületén kívülről Nemzetközi importigazolással (a továbbiakban: Igazolás) hozhatók be Magyarország területére, ha:
 
 a) az 1. § (1) bekezdés d) pontjában említett termék behozatala esetén a származási ország hatósága igényli annak kiállítását;
 
@@ -16,4 +16,4 @@ c) a termék a 428/2009/EK tanácsi rendelet I. melléklete „0. kategóriájá
 
 (3) Az Igazolás kiadása iránti kérelmet a 4. melléklet A) részében meghatározott tartalommal kell benyújtani.
 
-[^51]: A 21. § (1) bekezdés nyitó szövegrésze a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^53]: A 21. § (1) bekezdés nyitó szövegrésze a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.

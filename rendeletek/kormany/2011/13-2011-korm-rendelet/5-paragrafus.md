@@ -8,5 +8,11 @@
 
 (4)[^22] Az 1. § (1) bekezdésében meghatározott ügyletekkel összefüggő vámeljárásban, a kérelmezőnek az egységes vám-árunyilatkozat 44. rovatában fel kell tüntetnie az engedély vagy a Nemzetközi importigazolás számát, Uniós Általános Exportengedély használata esetén annak azonosító számát. Az egységes vám-árunyilatkozat 31. rovatában a kérelmezőnek az engedélyen vagy a Nemzetközi importigazoláson szereplő árumegnevezést, ellenőrzési jegyzékszámot, vegyi anyagok esetében a vegyületet egyedileg azonosító számot (a továbbiakban: CAS szám) is fel kell tüntetnie.
 
+(5)[^23] Az e rendelet szerinti eljárásokban az iratok az ügyfél nyilatkozatával nem pótolhatóak.
+
+(6)[^24] Az e rendelet szerinti engedélyezési eljárásokban az ügyintézési határidő 25 nap.
+
 [^21]: Az 5. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) és e) pontja szerint módosított szöveg.
 [^22]: Az 5. § (4) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 3. §-ával megállapított, a 88/2016. (IV. 29.) Korm. rendelet 27. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^23]: Az 5. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 318. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^24]: Az 5. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 318. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
