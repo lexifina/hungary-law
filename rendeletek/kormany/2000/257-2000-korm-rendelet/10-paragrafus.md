@@ -1,12 +1,10 @@
-## [A törvény 61. §-ának (4) bekezdéséhez][^50]
-
-10. §[^51] (1) A
+10. §[^53] (1) A
 
 a) gyermekotthonban a gyermekvédelmi asszisztens, a gyermekfelügyelő és a kisgyermeknevelő munkakörre,
 
 b) javítóintézetben a gyermekfelügyelő munkakörre,
 
-c)[^52] bölcsődében, mini bölcsődében a kisgyermeknevelő munkakörre,
+c)[^54] bölcsődében, mini bölcsődében a kisgyermeknevelő munkakörre,
 
 d) gyermekek átmeneti otthonában a gyermekfelügyelő munkakörre
 
@@ -14,6 +12,5 @@ d) gyermekek átmeneti otthonában a gyermekfelügyelő munkakörre
 
 (2) A képesítési előírás alól a felmentést a munkáltatói jogkör gyakorlója határozott időre, legfeljebb három évre adhatja meg.
 
-[^50]: A 10. §-t megelőző alcímet a 257/2013. (VII. 5.) Korm. rendelet 16. §-a iktatta be.
-[^51]: A 10. §-t és az azt megelőző alcímet a 326/2008. (XII. 29.) Korm. rendelet 9. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 257/2013. (VII. 5.) Korm. rendelet 16. §-a iktatta be.
-[^52]: A 10. § (1) bekezdés c) pontja a 191/2016. (VII. 13.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^53]: A 10. §-t és az azt megelőző alcímet újonnan a 257/2013. (VII. 5.) Korm. rendelet 16. §-a iktatta be, a 10. §-t megelőző alcímet a 406/2017. (XII. 15.) Korm. rendelet 5. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^54]: A 10. § (1) bekezdés c) pontja a 191/2016. (VII. 13.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.

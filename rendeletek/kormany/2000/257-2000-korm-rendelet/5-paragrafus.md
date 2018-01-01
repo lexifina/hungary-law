@@ -18,9 +18,10 @@ b) legalább tízéves szociális, valamint gyermek- és ifjúságvédelem terü
 
 c) tartósan magas színvonalú tevékenységet végez.
 
-(3) A szociális szakvizsga megszerzése az adományozás során előnyt jelent.
+(3)[^32] A szociális szakvizsga az adományozás során előnyt jelent.
 
 (4) A címpótlék mértéke a pótlékalap 100%-a.
 
 [^30]: A 4. §-t a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés f) pontja hatályon kívül helyezte.
 [^31]: Az 5. § (2) bekezdésének a) pontja a 224/2007. (VIII. 31.) Korm. rendelet 8. § (3) bekezdésének d) pontja szerint módosított szöveg.
+[^32]: Az 5. § (3) bekezdése a 406/2017. (XII. 15.) Korm. rendelet 5. § (1) bekezdés a) pontja szerint módosított szöveg.
