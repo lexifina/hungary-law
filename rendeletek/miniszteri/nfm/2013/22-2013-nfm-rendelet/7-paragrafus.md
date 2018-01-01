@@ -1,3 +1,5 @@
+## 6. §[^2]
+
 ## 5. Az ellenőrre vonatkozó követelmények és feladatkörei leírása
 
 7. § (1) Külső minőségbiztosítási ellenőrző tevékenységet az a személy végezhet (a továbbiakban: ellenőr), aki
@@ -21,3 +23,5 @@ b) nem lehet az ellenőrzött szervezet légiközlekedés védeleméért felelő
 (4) Az ellenőrnek tájékoztatnia kell a légiközlekedési hatóságot, ha nem felel meg az (1)–(3) bekezdésben meghatározott feltételeknek.
 
 (5) Az ellenőr az ellenőrzés során tudomására jutott információkat nem adhatja át jogosulatlan személy számára.
+
+[^2]: A 6. §-t az 55/2017. (XII. 27.) NFM rendelet 69. § b) pontja hatályon kívül helyezte.

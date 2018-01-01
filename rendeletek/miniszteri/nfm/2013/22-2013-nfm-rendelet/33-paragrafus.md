@@ -1,4 +1,4 @@
-## 32. § A légiközlekedési hatóság az Európai Bizottság által meghatározott formában jelentést készít a minőségbiztosítási program hatékonyságáról, az éves minőségbiztosítási ellenőrzés program alapján végrehajtott légiközlekedés védelmi minőségbiztosítási ellenőrzésekről, az ellenőrzött szervezetek légiközlekedés védelmi helyzetéről. A jelentést a légiközlekedési hatóság évente március 15-éig megküldi a miniszternek.
+## 32. §[^13]
 
 ## 13. Belső minőségbiztosítási eljárások
 
@@ -10,6 +10,9 @@
 
 (4) A védelmi tiszt által végrehajtott belső minőségbiztosítási dokumentációt más iratoktól elkülönítetten kell kezelni és a légiközlekedési hatóság felhívására be kell azt mutatni.
 
-(5) A légiközlekedési hatóság ellenőrizheti a belső minőségbiztosítási dokumentációt bármely minőségbiztosítási ellenőrzés keretében. A légiközlekedési hatóság további kiegészítő intézkedéseket határozhat meg, amennyiben nem találja kielégítőnek a szervezet belső minőségbiztosítási tevékenységét.
+(5)[^14]
 
 (6) A belső minőségbiztosítási ellenőrző tevékenységet az e rendeletben meghatározottak szerint a belső minőségbiztosítási tevékenység sajátosságainak megfelelően kell végrehajtani.
+
+[^13]: A 32. §-t az 55/2017. (XII. 27.) NFM rendelet 69. § i) pontja hatályon kívül helyezte.
+[^14]: A 33. § (5) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § j) pontja hatályon kívül helyezte.

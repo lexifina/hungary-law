@@ -1,4 +1,4 @@
-15. § (1) A külső éves minőségbiztosítási ellenőrzési programot – figyelembe véve a korábbi minőségbiztosítási ellenőrzések tapasztalatait, valamint a Korm. rendelet szerinti tájékoztatásokat – a légiközlekedési hatóság a tárgyévet megelőző év december 31-ig készíti el.
+15. § (1)[^3]
 
 (2) A légiközlekedési hatóság által vezetett légiközlekedési vagy a légiközlekedéssel összefüggő tevékenységre kiadott engedélyek nyilvántartása alapján kerül sor a külső éves minőségbiztosítási ellenőrzési program összeállítására. A külső éves minőségbiztosítási ellenőrzési programban jelölni kell azokat a minőségbiztosítási ellenőrzéseket, amelyeket előre be nem jelentetten terveznek végrehajtani. Az előre be nem jelentett minőségbiztosítási ellenőrzés aránya az éves terv legkevesebb 15%-a olyan elosztásban, hogy arra a légiközlekedés védelmi területek mindegyikén legalább egyszer sor kerüljön.
 
@@ -20,4 +20,7 @@ b) a légiközlekedés védelmében közreműködő szervezeteknél év közben 
 
 (7) A külső éves minőségbiztosítási ellenőrzési programot a minősített adat védelméről szóló 2009. évi CLV. törvény szerint kell minősíteni.
 
-(8) A külső éves minőségbiztosítási ellenőrzési programot tájékoztatásul a légiközlekedési hatóság megküldi az általános rendőrségi feladatok ellátására létrehozott szervnek, az AH-nak, a TEK-nek és a miniszternek.
+(8)[^4]
+
+[^3]: A 15. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § c) pontja hatályon kívül helyezte.
+[^4]: A 15. § (8) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § c) pontja hatályon kívül helyezte.

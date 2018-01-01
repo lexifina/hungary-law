@@ -12,4 +12,6 @@ c) a Nemzetközi Polgári Repülési Szervezetnek a polgári légiközlekedés e
 
 d) a légközlekedési hatóság által a Minőségbiztosítási Programmal kapcsolatban készített éves összefoglaló jelentés.
 
-(3) A felülvizsgálatot a légiközlekedési hatóság, a miniszter által vezetett minisztérium, az AH, a TEK és az általános rendőrségi feladatot ellátó szervek bevonásával végzi, szükség esetén kezdeményezi a Minőségbiztosítási Programmal kapcsolatos módosításokat.
+(3)[^15]
+
+[^15]: A 34. § (3) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § k) pontja hatályon kívül helyezte.
