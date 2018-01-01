@@ -14,7 +14,7 @@
 
 (4a) Azt a 12. § (3) bekezdése szerinti ismertetési tevékenységet folytató, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény szerinti kis- és közepes vállalkozást, amely maximum 12 fő ismertető személyt foglalkoztat munkavégzésre irányuló jogviszony keretében és magyarországi gyógyszergyártási engedéllyel rendelkezik, és az ismertető személy kizárólag azokat a termékeket ismerteti, melyek esetében az ismertetési tevékenységet folytató kis- és közepes vállalkozás a forgalomba hozatali engedély jogosultja, továbbá a gyógyszergyártásra jogosító engedély nem kizárólag csomagolásra, illetve gyártási tétel felszabadításra vonatkozik, úgy az ismertetési tevékenységet folytató által munkavégzésre irányuló jogviszony keretében foglalkoztatott, a 13/A. § (1) bekezdése szerint nyilvántartásba vett ismertető személy tevékenysége után havonta nyolcvanháromezer forint összegű befizetési kötelezettség terheli.
 
-(5) Az (1)–(4) bekezdésekben, valamint a 42. §-ban foglalt befizetési kötelezettségekre az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(5) Az (1)–(4) bekezdésekben, valamint a 42. §-ban foglalt befizetési kötelezettségekre az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (6) Az állami adóhatóság az (1) bekezdés szerinti, a forgalomba hozatali engedély jogosultja és a forgalmazó közötti megállapodás jóváhagyásáról, a jóváhagyás napját követő nyolc napon belül tájékoztatja az egészségbiztosítási szervet.
 

@@ -22,7 +22,7 @@ d) egy eszköz minőségével, rendeltetésének való megfelelésével kapcsola
 
 (6) Az (5) bekezdés szerinti eljárásokban – a külön jogszabályban meghatározott esetben – a közfinanszírozás alapjául szolgáló árra irányuló ajánlatok nem vonhatók vissza. Az ajánlattételre, a nyilvánosságra, a százalékos, illetve a fix összegű támogatás megállapítására, a csoportképzésre vonatkozó részletes szabályokat külön jogszabály állapítja meg.
 
-(7) Az egészségbiztosítási szerv minden olyan hivatalból indított felülvizsgálati eljárásban, amelynek eredményeképpen az eljárással érintett gyógyászati segédeszköz nem kerül kizárásra, az eljárással érintett gyógyászati segédeszközre vonatkozóan a (8) bekezdés szerinti határozatot hoz, amelyet hirdetményi úton honlapján közöl. Az egészségbiztosítási szerv a határozathozatalról és a hirdetmény elérhetőségéről az ügyfeleket elektronikus levélben értesíti.
+(7) Az egészségbiztosítási szerv minden olyan hivatalból indított felülvizsgálati eljárásban, amelynek eredményeképpen az eljárással érintett gyógyászati segédeszköz nem kerül kizárásra, az eljárással érintett gyógyászati segédeszközre vonatkozóan a (8) bekezdés szerinti határozatot hoz, amelyet honlapján közhírré tesz. Az egészségbiztosítási szerv a határozathozatalról és a közhírré tett közlemény elérhetőségéről az ügyfeleket elektronikus levélben értesíti.
 
 (8) A (7) bekezdés szerinti határozat tartalmazza:
 
@@ -32,9 +32,9 @@ b) az ügy tárgyának megjelölését,
 
 c) a rendelkező részben
 
-ca) a hatóság döntését, továbbá a jogorvoslat lehetőségéről, benyújtásának helyéről és határidejéről, valamint a jogorvoslati eljárásról, bírósági felülvizsgálat esetén a tárgyalás tartása iránti kérelem lehetőségéről való tájékoztatást,
+ca) a hatóság döntését, továbbá a jogorvoslat lehetőségéről tájékoztatást,
 
-cb) az eljárás lefolytatásáért fizetendő illetéknek vagy díjnak az ügyfél vagy központi költségvetés részére történő megfizetésre vonatkozó döntést,
+cb) az eljárás lefolytatásáért fizetendő illetéknek vagy díjnak az ügyfél részére történő megfizetésre vonatkozó döntést,
 
 d) az indokolásban
 

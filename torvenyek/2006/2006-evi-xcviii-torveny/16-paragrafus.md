@@ -12,19 +12,19 @@ bb) gyógyászati segédeszköz esetén az ismertetni kívánt gyógyászati seg
 
 c) az ismertető személyek nevét és nyilvántartási számát,
 
-d) azon ismertetési tevékenységet folytatók, illetve ismertető személyek nevét, akik vonatkozásában az ismertetési tevékenység folytatását jogerősen megtiltotta,
+d) azon ismertetési tevékenységet folytatók, illetve ismertető személyek nevét, akik vonatkozásában az ismertetési tevékenység folytatását végleges döntéssel megtiltotta,
 
 e) a bejelentéstől a rendezvény lezajlásáig a tervezett rendezvény nevét, helyszínét, időpontját, programját és a rendezvény támogatójának nevét,
 
 f) a rendezvény lebonyolítását követő egy évig a rendezvény nevét, a rendezvénnyel kapcsolatban eszközölt támogatások összegét, továbbá a rendezvény támogatójának nevét.
 
-(3) A gyógyszerészeti államigazgatási szerv a 19. § (2) bekezdés d) pontja és a (2a) bekezdése szerinti jogerős határozatát – ide nem értve az egymillió forintot meg nem haladó összegű pénzbírságot megállapító határozatát – az (5) bekezdésben meghatározott terjedelemben közzéteszi.
+(3) A gyógyszerészeti államigazgatási szerv a 19. § (2) bekezdés d) pontja és a (2a) bekezdése szerinti végleges határozatát – ide nem értve az egymillió forintot meg nem haladó összegű pénzbírságot megállapító határozatát – az (5) bekezdésben meghatározott terjedelemben közhírré teszi.
 
-(4) A gyógyszerészeti államigazgatási szerv a 19. § (2) bekezdés b) és c) pontja szerinti, valamint a d) pontja szerinti egymillió forintot meg nem haladó összegű pénzbírságot megállapító jogerős határozatát ismételt jogszabálysértés esetén az (5) bekezdésben meghatározott terjedelemben közzéteszi.
+(4) A gyógyszerészeti államigazgatási szerv a 19. § (2) bekezdés b) és c) pontja szerinti, valamint a d) pontja szerinti egymillió forintot meg nem haladó összegű pénzbírságot megállapító végleges határozatát ismételt jogszabálysértés esetén az (5) bekezdésben meghatározott terjedelemben közhírré teszi.
 
-(5) A közétett dokumentumnak tartalmaznia kell:
+(5) A közhírré tett dokumentumnak tartalmaznia kell:
 
-a) a közzététel napját,
+a) a közhírré tétel napját,
 
 b) az eljáró hatóság megnevezését,
 
@@ -40,10 +40,10 @@ g) a döntés rendelkező részét, valamint
 
 h) a döntéssel szembeni jogorvoslati eljárás tényét.
 
-(6) A gyógyszerészeti államigazgatási szerv a jogorvoslat során hozott és a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutásakor – a döntés közzétételével megegyező módon – közzéteszi:
+(6) A gyógyszerészeti államigazgatási szerv a jogorvoslat során hozott és a közhírré tett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutásakor – a döntés közhírré tételével megegyező módon – közhírré teszi:
 
 a) a jogorvoslattal érintett döntésre vonatkozó (5) bekezdés szerinti információkat,
 
 b) a jogorvoslat során hozott hatósági döntést vagy bírósági határozatot, annak rövid indokolását, valamint
 
-c) a közzététel napját.
+c) a közhírré tétel napját.

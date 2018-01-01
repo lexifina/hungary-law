@@ -16,7 +16,13 @@ g) az egészségbiztosítási szerv által működtetett internetes gyógyászat
 
 h) a gyógyszertárak részére nyújtandó szolgáltatási díj folyósítására és mértékére vonatkozó részletes szabályokat,
 
-i) gyógyszertár-létesítési és működési engedélyezési eljárásra, új közforgalmú gyógyszertár létesítésére irányuló pályázat kiírására, pályázat elbírálására vonatkozó részletes szabályokat
+i) gyógyszertár-létesítési és működési engedélyezési eljárásra, új közforgalmú gyógyszertár létesítésére irányuló pályázat kiírására, pályázat elbírálására vonatkozó részletes szabályokat,
+
+j) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének eljárási szabályait,
+
+k) a gyógyászatisegédeszköz-szállítójegyzékre és a szállító-előminősítésre vonatkozó részletes eljárási szabályokat,
+
+l) az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait
 
 rendeletben állapítsa meg.
 
@@ -38,7 +44,7 @@ g) a gyógyszertárak nyilvántartási, ügyviteli rendjét,
 
 h) a gyógyszerészek nyilvántartásának szabályait,
 
-i) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének szabályait,
+i)
 
 j) a gyógyszer, gyógyászati segédeszköz, illetve tápszer ismertetésének és az ismertetési tevékenység folytatásának részletes feltételeit, az ismertetési tevékenység bejelentésére és az ismertetési tevékenységet folytatók, valamint az ismertető személyek nyilvántartásának vezetésére, az ismertetői igazolvány kiállítására és módosítására, az igazolvány személyes adatot nem tartalmazó adattartalmára vonatkozó részletes eljárási szabályokat, továbbá a gyógyszer, gyógyászati segédeszköz és a tápszer ismertetésére jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, a gyógyszerrel, gyógyászati segédeszközzel, valamint a gyógyszernek nem minősülő gyógyhatású készítménnyel, illetve tápszerrel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokat, továbbá az ismertetési tevékenységet folytató által szervezett rendezvénnyel, tanfolyammal összefüggésben bejelenteni köteles adatokat,
 
@@ -46,13 +52,13 @@ k) az egészségügyi szolgáltatók gyógyszerrendelése értékelésének alap
 
 l) a 24. § (4) bekezdésében, valamint a 33. § (6) bekezdésében foglalt, a társadalombiztosítási támogatásba befogadott gyógyszerek, tápszerek és gyógyászati segédeszközök körét tartalmazó közlemény adattartalmát és a közzététel eljárási rendjét,
 
-m) a szállítójegyzékre és a szállító-előminősítésre vonatkozó részletes szabályokat,
+m)
 
 n) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógusra vonatkozó részletes szabályokat,
 
-o) az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait,
+o)
 
-p)
+p) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének feltételeit,
 
 q) a gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet által vezetendő, a gyógyszertárak gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet felé fennálló pénzügyi kötelezettségét tartalmazó nyilvántartás tartalmára és a tájékoztatásra vonatkozó részletes szabályokat,
 

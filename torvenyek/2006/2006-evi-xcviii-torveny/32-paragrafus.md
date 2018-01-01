@@ -32,15 +32,15 @@ irányulhat.
 
 (4) Az egészségbiztosítási szerv
 
-a) a (2) bekezdés aa), ab), ba), bc) és bf) alpontja szerinti kérelmekről a külön jogszabályban foglalt feltételek alapján, normál eljárásban 90 napon belül dönt;
+a) a (2) bekezdés aa), ab), ba), bc) és bf) alpontja szerinti kérelmekről a külön jogszabályban foglalt feltételek alapján, normál eljárásban a kérelem hiánytalan beérkezését követő naptól számított 90 napon belül dönt;
 
-b) a (2) bekezdés aa), ab) és bc) alpontja szerinti kérelmekről – az a) pontban foglaltaktól eltérően, külön jogszabályban foglalt feltételek alapján – gyorsított eljárásban, 60 napon belül dönt abban az esetben, ha a gyógyászati segédeszköz forgalomba hozója a termékre vonatkozóan
+b) a (2) bekezdés aa), ab) és bc) alpontja szerinti kérelmekről – az a) pontban foglaltaktól eltérően, külön jogszabályban foglalt feltételek alapján – gyorsított eljárásban, a kérelem hiánytalan beérkezését követő naptól számított 60 napon belül dönt abban az esetben, ha a gyógyászati segédeszköz forgalomba hozója a termékre vonatkozóan
 
 ba) kérelmében az adott funkcionális csoportba (alcsoportba) már befogadott, legalacsonyabb közfinanszírozás alapjául szolgáló árú termék áránál legalább 10%-kal alacsonyabb közfinanszírozás alapjául szolgáló árat jelöl meg, vagy
 
 bb) kérelméhez legalább 100 betegre kiterjedő, Magyarországon végzett klinikai vizsgálat evidenciáit csatolja.
 
-(5) Az egészségbiztosítási szerv a (2) bekezdés bd) és bh) alpontja szerinti kérelmekről a külön jogszabályban foglalt feltételek alapján egyszerűsített eljárásban, a kérelem megérkezését követő naptól számított 30 napon belül határozatban dönt.
+(5) Az egészségbiztosítási szerv a (2) bekezdés bd) és bh) alpontja szerinti kérelmekről a külön jogszabályban foglalt feltételek alapján egyszerűsített eljárásban, a kérelem hiánytalan megérkezését követő naptól számított 30 napon belül határozatban dönt.
 
 (6) A támogatott gyógyászati segédeszköz forgalomba hozójának a (2) bekezdés bb), be) és bg) alpontja esetében bejelentési kötelezettsége van. Az egészségbiztosítási szerv e bejelentéseket a külön jogszabályban foglalt feltételek szerint a bejelentést követő 15 napon belül közzéteszi.
 
@@ -76,9 +76,9 @@ l) az eszköz beteg által fizetendő térítési díját.
 
 (8) A forgalomba hozó a (4)–(5) bekezdés szerinti eljárásért a külön jogszabályban meghatározottak alapján igazgatási szolgáltatási díjat fizet.
 
-(9) A (4)–(5) bekezdés szerinti eljárásokban újrafelvételi eljárásnak nincs helye.
+(9)
 
-(10) A nyilvánosság biztosítása érdekében az egészségbiztosítási szerv internetes honlapján közzéteszi:
+(10) A nyilvánosság biztosítása érdekében az egészségbiztosítási szerv internetes honlapján közzéteszi illetve közhírré teszi:
 
 a) a beérkezését, illetve a hiánypótlás teljesítését követő huszonegy napon belül a formai szempontból megfelelő kérelemhez kapcsolódóan
 
@@ -96,9 +96,9 @@ af) az iratokba való betekintés és a nyilatkozattétel lehetőségére irány
 
 ag) a kérelmező ügyfél nevét, és
 
-b) az ügy elbírálását követő tizenöt napon belül az ügyben hozott jogerős határozat kivonatát, mely tartalmazza
+b) az ügy elbírálását követő tizenöt napon belül az ügyben hozott végleges határozat kivonatát, mely tartalmazza
 
-ba) a közzététel napját,
+ba) a közhírré tétel napját,
 
 bb) az eljáró hatóság megnevezését,
 
@@ -108,7 +108,7 @@ bd) a hatóság döntését,
 
 be) azokat a jogszabályhelyeket, amelyek alapján a hatóság a határozatot hozta,
 
-bf) a jogorvoslat lehetőségéről, benyújtásának helyéről és határidejéről, valamint a jogorvoslati eljárásról, bírósági felülvizsgálat esetén a tárgyalás tartása iránti kérelem lehetőségéről való tájékoztatást,
+bf) a jogorvoslat lehetőségéről tájékoztatást,
 
 bg) a döntéshozatal helyét és idejét,
 

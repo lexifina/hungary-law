@@ -84,7 +84,7 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 39. preferált biológiai gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján a biológiai gyógyszerekre vonatkozó eljárás során meghatározott gyógyszerek közül az adott csoportba tartozó legkedvezőbb napi terápiás költségű, és azt legfeljebb 10%-kal meghaladó napi terápiás költségű gyógyszer;
 
-40. folyamatos ellátás: a forgalomba hozatali engedély jogosultjával vagy abban az esetben, ha az belföldön forgalmazási tevékenységet nem végez, a forgalmazóval szerződött gyógyszer-nagykereskedők megrendeléseinek szokásos üzletmenet szerinti kielégítése. A közfinanszírozásban részesülő gyógyszerrel való folyamatos ellátásról a forgalomba hozatali engedély jogosultja ennek hiányában a forgalmazó köteles gondoskodni;
+40.
 
 41. munkavégzésre irányuló jogviszony: a munka törvénykönyvéről szóló törvény szerinti munkaviszony, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei;
 

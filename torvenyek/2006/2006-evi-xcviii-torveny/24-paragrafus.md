@@ -2,7 +2,7 @@
 
 (2) A fix csoportok képzése folyamatosan történik, melynek során a termelői árra irányuló ajánlatok nem vonhatók vissza. Az ajánlattételre, a nyilvánosságra, a százalékos, illetve a fix összegű támogatás megállapítására, a csoportképzésre és befogadási eljárás rendjére vonatkozó részletes szabályokat az egészségbiztosításért felelős miniszter rendelete állapítja meg. Az egészségbiztosítási szerv a fix csoportok képzése során hozott döntéseit elektronikus úton közli.
 
-(2a) A biológiai gyógyszerek csoportjának képzése folyamatosan történik. Az ajánlattételre, a nyilvánosságra, illetve a támogatás megállapítására, a csoportképzésre és a befogadási eljárás rendjére vonatkozó részletes szabályokat az egészségbiztosításért felelős miniszter rendelete állapítja meg.
+(2a) A biológiai gyógyszerek csoportjának képzése folyamatosan történik. Az ajánlattételre, a nyilvánosságra, illetve a támogatás megállapítására és a csoportképzésre vonatkozó részletes szabályokat az egészségbiztosításért felelős miniszter rendelete állapítja meg.
 
 (3) A 23. § (3)–(4) és (6) bekezdése szerinti döntéseket tartalmazó határozatoknak – külön jogszabályban meghatározott – objektív és ellenőrizhető kritériumokon alapuló indokolást kell tartalmazniuk.
 
@@ -20,4 +20,4 @@ b) támogatásának mértékéről, összegéről
 
 közhiteles hatósági nyilvántartást vezet.
 
-(7) Az egészségbiztosítási szervnek a 23. § (3)–(4) és (6)–(8a) bekezdése szerinti eljárásban hozott döntése ellen nincs helye fellebbezésnek.
+(7) A bíróság az egészségbiztosítási szervnek a 23. § (3) és (4) bekezdése, valamint a (6)–(8a) bekezdése szerinti eljárásban hozott döntését nem változtathatja meg.

@@ -30,12 +30,12 @@ bb) a társadalombiztosítási támogatással történő rendelésre jogosult jo
 
 (4)
 
-(5) A (2) bekezdés e) és f) pontja, továbbá a (3) bekezdés alkalmazása során
+(5) A (3) bekezdés alkalmazása során
 
-a) ismételt jogszabálysértésnek minősül, ha a jogszabálysértést elkövetővel azonos személyt vagy meghatalmazott képviselőjét e minőségében, illetve meghatalmazóját két éven belül e törvény vagy a rendelet előírásainak megsértése miatt jogerősen már elmarasztalták,
+a) ismételt jogszabálysértésnek minősül, ha a jogszabálysértést elkövetővel azonos személyt vagy meghatalmazott képviselőjét e minőségében, illetve meghatalmazóját két éven belül e törvény vagy a rendelet előírásainak megsértése miatt végleges döntéssel már elmarasztalták,
 
 b) súlyos jogszabálysértésnek minősül, ha a gyógyszerekkel, illetve gyógyászati segédeszközökkel kapcsolatos jogsértő kereskedelmi gyakorlat szokásos piaci ellenértéke a huszonöt millió forintot meghaladta.
 
 (6) Az eljárás során nem kell alkalmazni a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 12/A. §-ának rendelkezéseit.
 
-(7) A gyógyszerek és a gyógyászati segédeszközök ismertetésének a törvényben, illetve a rendeletben meghatározott szabályai megsértése esetén lefolytatott ellenőrzési eljárásokban hozott döntés a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajtható.
+(7)

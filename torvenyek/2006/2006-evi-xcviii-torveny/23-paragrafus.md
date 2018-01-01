@@ -8,19 +8,11 @@ c) a hivatalból indult eljárás esetén az egészségbiztosítási szerv álta
 
 irányulhat.
 
-(2) Az (1) bekezdés a) és b) pontja szerinti kérelmet, illetve bejelentést a külön jogszabályban meghatározott formában és tartalommal a gyógyszer forgalomba hozatali engedélyének jogosultja, illetve a tápszer forgalmazója az egészségbiztosítási szervhez nyújtja be.
+(2)
 
-(3) Az egészségbiztosítási szerv az egyes forgalomba hozatalra engedélyezett gyógyszerek vagy a tápszerek társadalombiztosítási támogatásba való befogadásáról, a támogatás kategóriájáról, módszeréről, mértékéről vagy összegéről, valamint az árához nyújtott társadalombiztosítási támogatás igénybevételének kezdőnapjáról (a továbbiakban: finanszírozás kezdőnapja), a társadalombiztosítási támogatásból való kizárásról, valamint a 29. § (4) bekezdésben jelölt adatok változásáról – a (4) bekezdésben foglalt esetet kivéve – 90 napon belül dönt.
+(3) Az egészségbiztosítási szerv az egyes forgalomba hozatalra engedélyezett gyógyszerek vagy a tápszerek társadalombiztosítási támogatásba való befogadásáról, a támogatás kategóriájáról, módszeréről, mértékéről vagy összegéről, valamint az árához nyújtott társadalombiztosítási támogatás igénybevételének kezdőnapjáról (a továbbiakban: finanszírozás kezdőnapja), a társadalombiztosítási támogatásból való kizárásról, valamint a 29. § (4) bekezdésben jelölt adatok változásáról 90 napon belül dönt.
 
-(4) Az egészségbiztosítási szerv a (3) bekezdéstől eltérően 60 napon belül dönt, ha
-
-a) a gyógyszer társadalombiztosítási támogatásba való befogadási kérelme már támogatott hatóanyagú gyógyszer új generikumára érkezik, vagy
-
-b) az a) pont hatálya alá nem tartozó készítmény ára a már támogatott hatóanyagú gyógyszer(ek) áránál a külön jogszabályban foglalt kötelező mértéknél alacsonyabb,
-
-c) a kérelem tápszer vagy forgalomba hozatalra engedélyezett a Szabványos Vényminta Gyűjteményben vagy a Gyógyszerkönyvben is szereplő gyógyszer támogatására, illetve közfinanszírozása alapjául elfogadott árának emelésére érkezett,
-
-d) a gyógyszer társadalombiztosítási támogatásba való befogadási kérelme kedvezményezetti státusz megszerzésére is irányul.
+(4)
 
 (5) A kérelmező a (3)–(4) bekezdés szerinti eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat fizet. Nem kell igazgatási szolgáltatási díjat fizetni a kedvezményezetti státusszal rendelkező gyógyszerekkel kapcsolatos eljárásokért.
 
@@ -44,11 +36,11 @@ f) a kiemelt és emelt indikációhoz kötött támogatási kategóriában megha
 
 (8) A (7) bekezdésben meghatározott esetekben a felülvizsgálatot követően az egészségbiztosítási szerv 90 napon belül dönt a befogadott gyógyszer támogatásból való kizárásáról, támogatása mértékének, kategóriájának, módszerének módosításáról, kedvezményezetti státuszának megszüntetéséről illetve a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbításáról vagy előírásáról.
 
-(8a) A 22/A. § szerinti esetben az egészségbiztosítási szerv 30 napon belül dönt a gyógyszer társadalombiztosítási támogatásba történő befogadásáról.
+(8a)
 
 (9) Az egészségbiztosítási szerv az (1) bekezdés a) pontja szerinti eljárások során a külön jogszabályban foglalt normál és egyszerűsített eljárásrendet alkalmazza.
 
-(10) Az egészségbiztosítási szerv minden olyan hivatalból indított felülvizsgálati eljárásban, amelynek eredményeképpen az eljárással érintett gyógyszer nem kerül kizárásra, az eljárással érintett gyógyszerre vonatkozóan a (11) bekezdés szerinti határozatot hoz, amelyet hirdetményi úton honlapján közöl. Az egészségbiztosítási szerv a határozathozatalról és a hirdetmény elérhetőségéről az ügyfeleket elektronikus levélben értesíti.
+(10) Az egészségbiztosítási szerv minden olyan hivatalból indított felülvizsgálati eljárásban, amelynek eredményeképpen az eljárással érintett gyógyszer nem kerül kizárásra, az eljárással érintett gyógyszerre vonatkozóan a (11) bekezdés szerinti határozatot hoz, amelyet honlapján közhírré tesz. Az egészségbiztosítási szerv a határozathozatalról és a közhírré tett közlemény elérhetőségéről az ügyfeleket elektronikus levélben értesíti.
 
 (11) A (10) bekezdés szerinti határozat tartalmazza:
 
@@ -58,9 +50,9 @@ b) az ügy tárgyának megjelölését,
 
 c) a rendelkező részben
 
-ca) a hatóság döntését, továbbá a jogorvoslat lehetőségéről, benyújtásának helyéről és határidejéről, valamint a jogorvoslati eljárásról, bírósági felülvizsgálat esetén a tárgyalás tartása iránti kérelem lehetőségéről való tájékoztatást,
+ca) a hatóság döntését, továbbá a jogorvoslat lehetőségéről tájékoztatást,
 
-cb) az eljárás lefolytatásáért fizetendő illetéknek vagy díjnak az ügyfél vagy központi költségvetés részére történő megfizetésre vonatkozó döntést,
+cb) az eljárás lefolytatásáért fizetendő illetéknek vagy díjnak az ügyfél részére történő megfizetésre vonatkozó döntést,
 
 d) az indokolásban
 

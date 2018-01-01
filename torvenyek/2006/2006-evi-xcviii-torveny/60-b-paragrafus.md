@@ -1,5 +1,5 @@
 60/B. § (1) A személyi jog – az egészségügyi államigazgatási szerv engedélyével és a gyógyszertárat működtető gazdasági társaság jóváhagyásával – a személyi jogra e jogszabály alapján jogosult személynek átruházható, ebben az esetben a működési engedély módosításra kerül.
 
-(2) Átruházás kezdeményezése esetén az átruházó személyi jogos gyógyszerész felelős a gyógyszertár szakmai működéséért mindaddig, míg a működési engedélyt módosító döntés a személyi jog átruházására tekintettel jogerőre nem emelkedik.
+(2) Átruházás kezdeményezése esetén az átruházó személyi jogos gyógyszerész felelős a gyógyszertár szakmai működéséért mindaddig, míg a működési engedélyt módosító döntés a személyi jog átruházására tekintettel véglegessé nem válik.
 
 (3) A működtető az átruházásra vonatkozó jóváhagyása esetén az 53/A. § (1) bekezdése szerint köteles eljárni a működési engedély módosítása tárgyában.

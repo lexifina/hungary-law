@@ -4,7 +4,7 @@
 
 21. § (1) Az egészségbiztosítási szerv a gyógyszer, tápszer és gyógyászati segédeszköz társadalombiztosítási támogatásba való befogadási eljárása során a támogatásba való befogadást meghatározott időtartamú, de legalább három év támogatással történő forgalmazásra való kötelezettségvállaláshoz, illetve külön jogszabályban foglalt esetben meghatározott mennyiségű készletben tartási kötelezettségvállaláshoz kötheti.
 
-(1a) A forgalomba hozatali engedély jogosultja köteles biztosítani a betegellátási érdekből kedvezményezetti státuszú gyógyszerrel (a továbbiakban: kedvezményezetti státusszal rendelkező gyógyszer) való folyamatos gyógyszerellátást a kedvezményezetti státusz fennállása alatt.
+(1a) A forgalomba hozatali engedély jogosultja köteles biztosítani a betegellátási érdekből kedvezményezetti státuszú gyógyszerrel (a továbbiakban: kedvezményezetti státusszal rendelkező gyógyszer) való folyamatos ellátást a kedvezményezetti státusz fennállása alatt.
 
 (1b) Ha a forgalomba hozatali engedély jogosultja a kedvezményezetti státusz 31/C. § (3) bekezdése szerinti ötéves lejárta előtt meg kívánja szüntetni a gyógyszer kedvezményezetti státuszát, úgy azt köteles a tervezett megszüntetés előtt legalább hat hónappal bejelenteni az egészségbiztosítási szervnek.
 

@@ -8,4 +8,4 @@
 
 (5) A közforgalmú gyógyszertárat működtető vállalkozás az (1) bekezdés szerinti működési célú támogatást a tárgynegyedévet követő negyedik hónap első napjától igényelheti az illetékes elsőfokú állami adóhatóságtól.
 
-(6) Az (1) bekezdés szerinti támogatás az Art. szerinti költségvetési támogatásnak minősül. A támogatás igénylésére és folyósítására az Art. rendelkezései irányadóak. A jogosultság megállapításának feltételeit jogszabály állapítja meg.
+(6) Az (1) bekezdés szerinti támogatás az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény szerinti költségvetési támogatásnak minősül. A támogatás igénylésére és folyósítására az Art. rendelkezései irányadóak. A jogosultság megállapításának feltételeit jogszabály állapítja meg.

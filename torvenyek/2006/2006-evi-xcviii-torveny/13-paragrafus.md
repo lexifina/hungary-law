@@ -1,4 +1,4 @@
-13. § (1) Az ismertetési tevékenységet folytató az ismertetési tevékenységet csak az általa munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott, az egészségügyért felelős miniszter rendeletében meghatározott képzettségi követelményeknek megfelelő és a 13/A. § (2) bekezdés szerint ismertetői igazolvánnyal rendelkező természetes személy (a továbbiakban: ismertető személy) útján folytathatja.
+13. § (1) Az ismertetési tevékenységet folytató az ismertetési tevékenységet csak az általa munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott, az egészségügyért felelős miniszter rendeletében meghatározott képzettségi követelményeknek megfelelő és ismertetői igazolvánnyal rendelkező természetes személy (a továbbiakban: ismertető személy) útján folytathatja.
 
 (2)
 

@@ -14,7 +14,7 @@ ha valószínűsíthető, hogy az adott helyszínen a 73. §-ban, a 74. § (3), 
 
 (5) Az egészségügyi államigazgatási szerv a tényállás tisztázása érdekében jogosult
 
-a) a gyógyszertárat működtető gazdasági társaság és vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állók közötti,
+a) a gyógyszertárat működtető gazdasági társaság és vele munkavégzésre irányuló jogviszonyban állók közötti,
 
 b) a gyógyszertárat működtető gazdasági társaság és a vele szerződéses jogviszonyban álló, gyógyszertár működésével összefüggésbe hozható személy vagy szervezet közötti,
 

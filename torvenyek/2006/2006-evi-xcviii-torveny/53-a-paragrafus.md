@@ -14,4 +14,4 @@
 
 (5) Az egészségügyi államigazgatási szerv határidő tűzésével felfüggeszti a gyógyszertár működését, ha a gyógyszertár ellenőrzése során megállapítja, hogy egyes személyi, tárgyi feltételek átmenetileg hiányoznak. Ha a gyógyszertár működtetője az előírt határidőn belül a hiányt nem pótolta az egészségügyi államigazgatási szerv a működési engedélyt a létesítési engedéllyel egyidejűleg visszavonja.
 
-(6) Az egészségügyi államigazgatási szerv (5) bekezdés szerinti felfüggesztő végzése fellebbezésre tekintet nélkül végrehajtható.
+(6) Ha a gyógyszertár áthelyezése, átépítése vagy vis maior helyzet következtében a gyógyszertár működtetése átmenetileg ellehetetlenül, a működtető írásbeli kérelme alapján az egészségügyi államigazgatási szerv a gyógyszertár működtetésének felfüggesztését engedélyezi legfeljebb 1 év időtartamra. A gyógyszertár működési engedélye a létesítési engedéllyel egyidejűleg visszavonásra kerül, ha a felfüggesztő döntésben megjelölt 1 éves határidőn belül a működtető a gyógyszertár működésének megkezdését nem jelenti be.

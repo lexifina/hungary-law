@@ -14,7 +14,7 @@
 
 a) a személyi jog megszűnik, a személyi jog megszűnésének napján,
 
-b) a felelős vezető számára a személyi jogot engedélyezik, a személyi jogot engedélyező határozat jogerőre emelkedésének napján,
+b) a felelős vezető számára a személyi jogot engedélyezik, a személyi jogot engedélyező határozat véglegessé válása napján,
 
 c) a felelős vezető neki felróható okból a gyógyszertár működtetését nem biztosítja, vagy a gyógyszertárba hatósági vezető kirendelése szükséges.
 

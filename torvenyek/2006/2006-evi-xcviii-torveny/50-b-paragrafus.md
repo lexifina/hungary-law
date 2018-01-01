@@ -12,4 +12,4 @@ az egészségügyi államigazgatási szerv – erre irányuló kérelem esetén 
 
 (3) A kérelmező a (1) bekezdés szerinti eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat fizet.
 
-(4) Az egészségügyi államigazgatási szerv ideiglenesen telepített fiókgyógyszertár működtetésére szóló határozata fellebbezésre tekintet nélkül végrehajtható.
+(4)
