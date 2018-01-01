@@ -1,37 +1,34 @@
-## 55. §[^74]
-
 ## 56. Az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet módosítása
 
-56. § (1)[^75]
+56. § (1)[^76]
 
-(2)[^76]
+(2)[^77]
 
 (3) Az R28.
 
-a)[^77]
+a)[^78]
 
-b)[^78]
+b)[^79]
 
-c)–f)[^79]
+c)–f)[^80]
 
-g)[^80]
+g)[^81]
 
-h)[^81]
+h)[^82]
 
-i)[^82]
+i)[^83]
 
-j)[^83]
+j)[^84]
 
-k)[^84]
+k)[^85]
 
-[^74]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^75]: Az 56. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^76]: Az 56. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^77]: Az 56. § (3) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^78]: Az 56. § (3) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^79]: Az 56. § (3) bekezdés c)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^80]: Az 56. § (3) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^81]: Az 56. § (3) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^82]: Az 56. § (3) bekezdés i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^83]: Az 56. § (3) bekezdés j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^84]: Az 56. § (3) bekezdés k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: Az 56. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: Az 56. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: Az 56. § (3) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: Az 56. § (3) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: Az 56. § (3) bekezdés c)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: Az 56. § (3) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: Az 56. § (3) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: Az 56. § (3) bekezdés i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: Az 56. § (3) bekezdés j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: Az 56. § (3) bekezdés k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

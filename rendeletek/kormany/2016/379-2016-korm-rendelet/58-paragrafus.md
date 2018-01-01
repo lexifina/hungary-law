@@ -1,5 +1,5 @@
-## 57. §[^85]
-
 ## 58. A kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet módosítása
 
-[^85]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+58. §[^87]
+
+[^87]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
