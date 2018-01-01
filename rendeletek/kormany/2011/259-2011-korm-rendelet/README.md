@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-259-20-
 | 2016-09-09 | 2011-259-20-22.19 | 271/2016. (IX. 1.) Korm. rendelet |
 | 2017-01-02 | 2011-259-20-22.20 | 501/2016. (XII. 28.) Korm. rendelet |
 | 2017-06-17 | 2011-259-20-22.21 | 137/2017. (VI. 9.) Korm. rendelet |
+| 2018-01-01 | 2011-259-20-22.22 | 457/2017. (XII. 28.) Korm. rendelet |
