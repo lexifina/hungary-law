@@ -2,130 +2,128 @@
 
 1. Kiemelt minősítésű színházművészeti szervezet:
 
-1.1. Önkormányzati fenntartású kiemelt szervezet
+1.1. Önkormányzati fenntartású kiemelt szervezet:
 
-Bartók Kamaraszínház és Művészetek Háza (Dunaújváros)
+1.1.1. Bartók Kamaraszínház és Művészetek Háza (Dunaújváros)
 
-Békéscsabai Jókai Színház (Békéscsaba)
+1.1.2. Békéscsabai Jókai Színház (Békéscsaba)
 
-Békéscsabai Napsugár Bábszínház (Békéscsaba)
+1.1.3. Békéscsabai Napsugár Bábszínház (Békéscsaba)
 
-Bóbita Bábszínház Nonprofit Kft. (Pécs)
+1.1.4. Budaörsi Latinovits Színház (Budaörs)
 
-Budaörsi Latinovits Színház (Budaörs)
+1.1.5. Budapest Bábszínház Közhasznú Nonprofit Kft. (Budapest)
 
-Budapest Bábszínház Közhasznú Nonprofit Kft. (Budapest)
+1.1.6. Ciróka Bábszínház (Kecskemét)
 
-Centrál Színház Színházművészeti Nonprofit Kft. (Budapest)
+1.1.7. Csiky Gergely Színház Közhasznú Nonprofit Kft. (Kaposvár)
 
-Ciróka Bábszínház (Kecskemét)
+1.1.8. Gárdonyi Géza Színház (Eger)
 
-Csiky Gergely Színház Közhasznú Nonprofit Kft. (Kaposvár)
+1.1.9. Griff Bábszínház (Zalaegerszeg)
 
-Gárdonyi Géza Színház (Eger)
+1.1.10. Harlekin Bábszínház (Eger)
 
-Griff Bábszínház (Zalaegerszeg)
+1.1.11. Hevesi Sándor Színház (Zalaegerszeg)
 
-Harlekin Bábszínház (Eger)
+1.1.12. József Attila Színház Nonprofit Kft. (Budapest)
 
-Hevesi Sándor Színház (Zalaegerszeg)
+1.1.13. Kabóca Bábszínház és Gyermek Közművelődési Intézmény (Veszprém)
 
-József Attila Színház Nonprofit Kft. (Budapest)
+1.1.14. Katona József Színház Közhasznú Nonprofit Kft. (Budapest)
 
-Kabóca Bábszínház és Gyermek Közművelődési Intézmény (Veszprém)
+1.1.15. Katona József Színház (Kecskemét)
 
-Katona József Színház Közhasznú Nonprofit Kft. (Budapest)
+1.1.16. Kolibri Gyermek- és Ifjúsági Színház Közhasznú Nonprofit Kft. (Budapest)
 
-Katona József Színház (Kecskemét)
+1.1.17. Kövér Béla Bábszínház (Szeged)
 
-Kolibri Gyermek- és Ifjúsági Színház Közhasznú Nonprofit Kft. (Budapest)
+1.1.18. Madách Színház Nonprofit Kft. (Budapest)
 
-Kövér Béla Bábszínház (Szeged)
+1.1.19. Mesebolt Bábszínház (Szombathely)
 
-Madách Színház Nonprofit Kft. (Budapest)
+1.1.20. Miskolci Csodamalom Bábszínház Nonprofit Kft. (Miskolc)
 
-Mesebolt Bábszínház (Szombathely)
+1.1.21. Móricz Zsigmond Színház Nonprofit Kft. (Nyíregyháza)
 
-Miskolci Csodamalom Bábszínház Nonprofit Kft. (Miskolc)
+1.1.22. Örkény István Színház Nonprofit Kft. (Budapest)
 
-Móricz Zsigmond Színház Nonprofit Kft. (Nyíregyháza)
+1.1.23. Pécsi Harmadik Színház Nonprofit Kft. (Pécs)
 
-Örkény István Színház Nonprofit Kft. (Budapest)
+1.1.24. Pro Kultúra Sopron Nonprofit Kft – Petőfi Színház. (Sopron)
 
-Pécsi Harmadik Színház Nonprofit Kft. (Pécs)
+1.1.25. Radnóti Miklós Színház Nonprofit Kft. (Budapest)
 
-Pro Kultúra Sopron Nonprofit Kft. (Petőfi Színház) (Sopron)
+1.1.26. Szolnoki Szigligeti Színház Nonprofit Kft. (Szolnok)
 
-Radnóti Miklós Színház Nonprofit Kft. (Budapest)
+1.1.27. Tatabánya Megyei Jogú Város Jászai Mari Színház, Népház (Tatabánya)
 
-Szolnoki Szigligeti Színház Nonprofit Kft. (Szolnok)
+1.1.28. Thália Színház Nonprofit Kft. (Budapest)
 
-Tatabánya Megyei Jogú Város Jászai Mari Színház, Népház (Tatabánya)
+1.1.29. Trafó Kortárs Művészetek Háza Nonprofit Kft. (Budapest)
 
-Thália Színház Nonprofit Kft. (Budapest)
+1.1.30. Új Színház Nonprofit Kft. (Budapest)
 
-Trafó Kortárs Művészetek Háza Nonprofit Kft. (Budapest)
+1.1.31. Vaskakas Bábszínház (Győr)
 
-Új Színház Nonprofit Kft. (Budapest)
+1.1.32. Veszprémi Petőfi Színház (Veszprém)
 
-Vaskakas Bábszínház (Győr)
+1.1.33. Vígszínház Nonprofit Kft. (Budapest)
 
-Veszprémi Petőfi Színház (Veszprém)
+1.1.34. Vojtina Bábszínház (Debrecen)
 
-Vígszínház Nonprofit Kft. (Budapest)
+1.1.35. Vörösmarty Színház (Székesfehérvár)
 
-Vojtina Bábszínház (Debrecen)
+1.1.36. Weöres Sándor Színház Nonprofit Kft. (Szombathely)
 
-Vörösmarty Színház (Székesfehérvár)
+1.2. Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
 
-Weöres Sándor Színház Nonprofit Kft. (Szombathely)
+1.2.1. Bethlen Téri Színház Nonprofit Kft. (Budapest)
 
-1.2. Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet
+1.2.2. Bóbita Bábszínház Nonprofit Kft. (Pécs)
 
-Angolnyelvű Színház Közhasznú Alapítvány (Budapest)
+1.2.3. Budapest Art Center Szolgáltató Nonprofit Kft. (Budapest)
 
-Bethlen Téri Színház Nonprofit Kft. (Budapest)
+1.2.4. Centrál Színház Színházművészeti Nonprofit Kft. (Budapest)
 
-Karinthy és Karinthy Kulturális Szolgáltató Nonprofit Kft. (Budapest)
+1.2.5. Karinthy és Karinthy Kulturális Szolgáltató Nonprofit Kft. (Budapest)
 
-Turay Ida Színház Közhasznú Nonprofit Kft. (Budapest)
+1.2.6. Turay Ida Színház Közhasznú Nonprofit Kft. (Budapest)
 
 2. Kiemelt minősítésű táncművészeti szervezet:
 
-2.1. Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet
+2.1. Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
 
-Bozsik Yvette Alapítvány (Budapest)
+2.1.1. Bozsik Yvette Alapítvány (Budapest)
 
-Budapest Táncszínházért Alapítvány (Budapest)
+2.1.2. Budapest Táncszínházért Alapítvány (Budapest)
 
-Előadó és Alkotóművészetért Alapítvány (Budapest)
+2.1.3. Előadó- és Alkotóművészetért Alapítvány (Balatonföldvár Önkormányzata)
 
-Közép-Európa Táncszínház Egyesület (Budapest)
+2.1.4. Közép-Európa Táncszínház Egyesület (Budapest)
 
-Rivalda Stúdió Művészeti Iroda Közhasznú Nonprofit Kft. (Budapest)
-
-Univers'Art Művészeti Egyesület (Budapest)
+2.1.5. Univers'Art Művészeti Egyesület (Törökbálint Város Önkormányzata)
 
 3. Kiemelt minősítésű zeneművészeti szervezet:
 
 3.1. Önkormányzati fenntartású kiemelt szervezet:
 
-Budafoki Dohnányi Ernő Szimfonikus Zenekar Közhasznú Nonprofit Kft. (Budapest)
+3.1.1. Budafoki Dohnányi Ernő Szimfonikus Zenekar Közhasznú Nonprofit Kft. (Budapest)
 
-Óbudai Danubia Zenekar Nonprofit Kft. (Budapest)
+3.1.2. Óbudai Danubia Zenekar Nonprofit Kft. (Budapest)
 
-Szolnoki Szimfonikus Zenekar Nonprofit Kft. (Szolnok)
+3.1.3. Szolnoki Szimfonikus Zenekar Nonprofit Kft. (Szolnok)
 
-Szolnoki Szimfonikus Zenekar Nonprofit Kft. (Bartók Béla Kamarakórus) (Szolnok)
+3.1.4. Szolnoki Bartók Béla Kamarakórus (Szolnok)
 
-Zuglói Filharmónia Non-profit Kft. (Budapest)
+3.1.5. Zuglói Filharmónia Nonprofit Kft. (Budapest)
 
 3.2. Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
 
-Budapesti Vonósok Alapítványa (Budapest)
+3.2.1. Budapesti Vonósok Alapítványa (Budapest)
 
-MÁV Szimfonikusok Zenekari Alapítványa (Budapest)
+3.2.2. MÁV Szimfonikusok Zenekari Alapítványa (Budapest)
 
-Mendelssohn Kamarazenekar Közhasznú Egyesület (Veszprém)
+3.2.3. Mendelssohn Kamarazenekar Közhasznú Egyesület (Veszprém)
 
-[^2]: A 2. melléklet az 53/2015. (XI. 24.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. melléklet a 37/2017. (XII. 29.) EMMI rendelet 1. §-ával megállapított szöveg.
