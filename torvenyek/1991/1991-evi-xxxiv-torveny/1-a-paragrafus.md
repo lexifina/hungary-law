@@ -1,0 +1,3 @@
+1/A. § (1) A szerencsejáték felügyeleti hatóság szerencsejáték ügyben, illetve e törvény hatálya alá tartozó egyéb ügyben rendelkezésre álló személyes adatokat, valamint az egyéb államigazgatási feladatainak ellátásához az ügyfelek, egyéb érintettek, eljárás alá vontak, egyéb közreműködők személyes adatait kezeli.
+
+(2) A szerencsejáték-felügyeleti hatóság megkeresésre tájékoztatja az állami adó- és vámhatóságot a szerencsejáték ügyben, valamint az e törvény hatálya alá tartozó egyéb ügyben rendelkezésére álló adatról vagy információról, ha az az állami adó- és vámhatóság jogszabályban meghatározott feladatainak ellátásához szükséges.

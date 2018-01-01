@@ -11,3 +11,13 @@
 (4) A szerencsejáték-felügyeleti hatóság csak azokat a játékautomatákat veszi nyilvántartásba, amelyek a jogszabályban a játékautomatákra előírt műszaki követelményeknek megfelelnek.
 
 (5) A (3) bekezdés szerint bejelentési kötelezettség elmulasztása esetén a 26/A. § rendelkezéseit megfelelően alkalmazni kell.
+
+(6) A játékautomata üzemeltetésének nyilvántartás céljából történő bejelentését játékautomatánként a szerencsejáték-felügyeleti hatóság honlapján közzétett formanyomtatványon kell teljesíteni. A bejelentést a szerencsejáték-felügyeleti hatóság honlapján közzétett számítógépes program segítségével kell kitölteni és előállítani. A kérelmet elektronikus úton vagy a kinyomtatott iratot aláírva kell személyesen vagy postai úton a szerencsejáték-felügyeleti hatóságnak benyújtani.
+
+(7) A kérelemhez elektronikus úton történő előterjesztés esetén meg kell küldeni, illetve kinyomtatott és aláírt bejelentés esetén egyidejűleg mellékelni kell:
+
+a) a játékautomata hitelesítési bizonyítványának egy eredeti példányát,
+
+b) az első féléves játékadó befizetésének igazolását.
+
+(8) A szerencsejáték-felügyeleti hatóság a játékautomata nyilvántartásba vételéről a Vhr. szerinti tartalmi és formai elemeket tartalmazó nyilvántartásba-vételi igazolást állít ki a kérelmező részére.

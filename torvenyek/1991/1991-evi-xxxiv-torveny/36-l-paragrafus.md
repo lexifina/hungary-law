@@ -1,6 +1,6 @@
 ## Nemzetközi közigazgatási együttműködés
 
-36/L. § (1) Az EGT államok szerencsejáték szabályozó és felügyeleti hatóságai közötti, az online szerencsejátékkal összefüggő Együttműködési Megállapodás (a továbbiakban: Megállapodás) végrehajtása során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény nemzetközi jogsegélyről szóló rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+36/L. § (1) Az EGT államok szerencsejáték szabályozó és felügyeleti hatóságai közötti, az online szerencsejátékkal összefüggő Együttműködési Megállapodás (a továbbiakban: Megállapodás) végrehajtása során az általános közigazgatási rendtartásról szóló törvény megkeresésre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A Megállapodás végrehajtása során hatáskörrel rendelkező hatóság (a továbbiakban: magyar hatóság) az adópolitikáért felelős miniszter. A magyar hatóság a Megállapodás végrehajtása során a szerencsejáték-szervezés állami felügyeletéért felelős miniszterrel együttműködve jár el, és a Megállapodás végrehajtásával kapcsolatos eljárási cselekményeket a szerencsejáték-felügyeleti hatóság útján is teljesítheti.
 

@@ -6,10 +6,4 @@
 
 (3) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatot a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 3 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. A határozat közlésének napja a hirdetmény közzétételét követő 3. nap.
 
-(4) A (3) bekezdés szerinti hirdetmény tartalmazza:
-
-a) az ügy tárgyát és rövid ismertetését,
-
-b) az elektronikus adat ideiglenes hozzáférhetetlenné tételéhez szükséges adatokat,
-
-c) a tájékoztatást arról, hogy az érintettek hol és mikor tekinthetnek be az ügy irataiba.
+(4)

@@ -1,0 +1,3 @@
+8/B. § (1) A szerencsejáték-felügyeleti hatóság vezetője a szerencsejáték-felügyeleti hatóságnál foglalkoztatott kormánytisztviselőt és munkavállalót a hivatali, szervezeti célok megvalósítását elősegítő kiemelkedő teljesítménye, illetve tartósan jó munkavégzése alapján a (2) bekezdés szerinti intézményi feladatok teljesülése esetén feltételekhez kötött személyi juttatásban részesítheti.
+
+(2) A feltételekhez kötött személyi juttatás – negyedévekre lebontott – éves keretösszegét és a szerencsejáték-felügyeleti hatóság számára negyedévekre előírt intézményi feladatok körét a tárgyév január 31. napjáig a szerencsejáték-szervezés állami felügyeletéért felelős miniszter határozza meg.

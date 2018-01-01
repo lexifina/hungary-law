@@ -1,8 +1,8 @@
-11. § (1) A szerencsejáték szervezésének engedélyezéséért és a szerencsejáték-felügyeleti hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért igazgatási-szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási-szolgáltatási díjat nem kell visszatéríteni.
+11. § (1)
 
 (1a)
 
-(2) A szerencsejáték-szervező tevékenységre jogosító engedély iránti, a játékterv felülvizsgálatára, továbbá a játékterv módosítására irányuló kérelem benyújtásával egyidejűleg – külön felhívás nélkül – kell az igazgatási-szolgáltatási díjat készpénz-átutalási megbízással vagy átutalással megfizetni.
+(2)
 
 (3)
 
@@ -12,7 +12,7 @@
 
 (6)
 
-(7) Az állami adóhatóság díjbevételéből kell fedezni a koncessziós pályázatok kiírásának és elbírálásának költségeit is.
+(7) A szerencsejáték-felügyeleti hatóság díjbevételéből kell fedezni a koncessziós pályázatok kiírásának és elbírálásának költségeit is.
 
 (7a) A nyertes játékos részére a nyeremény igénylésére a jóváhagyott játéktervben meghatározottak szerint, a sorsolás, illetve a fogadási esemény napját követő 90 napos jogvesztő határidőn belül van lehetőség. A szervező a nyeremény igénylését követően a nyeremény átadása érdekében haladéktalanul köteles a szükséges intézkedéseket megtenni és a nyeremény átadását a nyertes játékos részére a nyeremény igénylésétől számított 30 napos jogvesztő határidőn belül biztosítani.
 

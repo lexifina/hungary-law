@@ -12,7 +12,7 @@ d) amely engedély nélkül végzett szerencsejáték szervezés eszközéül ha
 
 (2) Az (1) bekezdés alkalmazásában dolognak minősül a birtokba vehető ingó dolog, valamint a pénz és az értékpapír.
 
-(3) A szerencsejáték-felügyeleti hatóság lefoglalhatja azt a dolgot, amely e törvény értelmében elkobozható. A lefoglalást végzéssel meg kell szüntetni, ha a tiltott szerencsejáték szervezéssel összefüggésben indult büntetőeljárásban lefoglalásnak van helye és ennek érdekében a büntetőügyben eljáró hatóság a szerencsejáték-felügyeleti hatóságot megkereste.
+(3) A szerencsejáték-felügyeleti hatóság elrendelheti a dolog zár alá vételét, amennyiben a rendelkezésére álló adatok alapján megalapozottan feltehető, hogy az e törvény értelmében elkobozható.
 
 (4) A szerencsejáték-felügyeleti hatóság az elkobzást akkor is elrendelheti, ha a dolog nem a jogsértő tulajdona. Ha az elkobzott dolog tulajdonosa nem ismert, az elkobzást elrendelő döntést – a tulajdonos megjelölése nélkül – a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 15 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. Az elkobzás kivételesen mellőzhető, ha az a jogsértőre vagy a dolog tulajdonosára a jogsértés súlyával arányban nem álló, méltánytalan hátrányt jelentene. Az elkobzott dolog tulajdonjoga az államra száll.
 
@@ -22,9 +22,9 @@ a) tőkeösszegként értékesítés esetén az értékesítés során ténylege
 
 b) késedelmi kamatként az a) pont szerinti összeg után az elkobzást elrendelő határozat jogerőre emelkedésétől a visszatérítést elrendelő határozat meghozatala napjáig terjedő időszakra, naptári naponként ez utóbbi határozat meghozatala napján érvényes jegybanki alapkamat kétszerese 365-öd részének megfelelő összeget kell visszatéríteni.
 
-(6) Az elkobzott dolgot az állami adóhatóság az adózás rendjéről szóló törvény végrehajtási eljárásról szóló 144–163. §-ai értékesítésre vonatkozó szabályainak megfelelő alkalmazásával értékesíti. A lefoglalást elrendelő rendelkezéssel (döntéssel) szemben benyújtott keresetlevélnek a határozat végrehajtására nincs halasztó hatálya.
+(6) Az elkobzott dolgot az állami adóhatóság az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény értékesítésre vonatkozó szabályai megfelelő alkalmazásával értékesíti vagy megsemmisíti.
 
-(7) Ha az elkobzott dolgot nem sikerült értékesíteni vagy az értéktelen, az állami adóhatóság – jegyzőkönyv felvétele mellett – intézkedik az elkobzott dolog megsemmisítése érdekében.
+(7)
 
 (8) Az állami adóhatóság az elkobzott dolog értékesítését vagy megsemmisítését követően az értékesítés vagy megsemmisítés költségeiről végzést hoz. A kötelezett az értékesítésért vagy megsemmisítésért 20 000 forint összegű költségátalány fizetésére köteles. E költségátalányon túlmenően az állami adóhatóság végzésben kötelezi az értékesítéshez vagy megsemmisítéshez kapcsolódó számszerűsíthető és számlával igazolt költségek megfizetésére a kötelezettet.
 

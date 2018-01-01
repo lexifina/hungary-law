@@ -1,0 +1,1 @@
+23/A. § A bejelentésköteles játékok megbízás alapján történő lebonyolításakor a megbízási szerződés egy eredeti példányát is mellékelni kell a bejelentéshez. A megbízási szerződés hiányában a bejelentési kötelezettség teljesítőjét kell a bejelentésköteles játékok szervezőjének tekinteni.

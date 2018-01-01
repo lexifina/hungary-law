@@ -22,7 +22,7 @@ meghatározott koncessziós díj jogszabályi minimuma és a tárgyévi tervezet
 
 (9) A szerencsejáték-szervezők közül kizárólag – az e törvényben előírtaknak megfelelően – a játékkaszinó üzemeltetésére szóló koncessziós joggal rendelkező szerencsejáték-szervező, illetve koncessziós társaság és állami játékszervező jogosult a kereskedelmi kommunikációjában a kaszinó elnevezést, e fogalom összetételeit, jelzős alakját, továbbá rokon értelmű vagy idegen nyelvű megfelelőjét szerepeltetni. E korlátozás nem vonatkozik a szerencsejáték-szervezők szakmai és érdek-képviseleti szervezeteire.
 
-(10) Játékkaszinó működtetése során a 29/H. § (2) és (3) bekezdése megfelelően alkalmazandó.
+(10) Játékkaszinó működtetése során a 29/H. § (2)–(3b) bekezdése megfelelően alkalmazandó.
 
 (11) A játékkaszinót 18 éven aluliak nem látogathatják.
 

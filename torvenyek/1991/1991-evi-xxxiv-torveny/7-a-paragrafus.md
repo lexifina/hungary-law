@@ -1,20 +1,16 @@
-7/A. § (1) A szerencsejáték-felügyeleti hatóság szerencsejáték ügyben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint jár el azzal, hogy újrafelvételi eljárásnak, valamint fizetési kedvezmény engedélyezésének nincs helye.
+7/A. § (1) A szerencsejáték-felügyeleti hatóság szerencsejáték ügyben és – a koncessziós pályázati eljárás kivételével – az e törvény hatálya alá tartozó egyéb ügyben az e törvényben és a felelős játékszervezés részletes szabályairól szóló kormányrendeletben meghatározott eltérésekkel és kiegészítésekkel az általános közigazgatási rendtartásról szóló törvény szerint jár el.
 
-(2) A szerencsejáték-felügyeleti hatóság szerencsejáték ügyben, valamint ajándéksorsolás és játékautomata-üzemeltetés tekintetében a nyilvántartásba vételi, ellenőrzési, továbbá jogkövetkezmények megállapítására irányuló eljárásban hozott határozatai ellen fellebbezésnek nincs helye. Az e törvényben meghatározott ügyben hozott határozat (végzés) ellen – a bírságot kiszabó határozat (végzés) kivételével – benyújtott keresetlevélnek, illetve kérelemnek, az e törvényben foglalt kivételekkel, a végrehajtásra halasztó hatálya van. A szerencsejáték-felügyeleti hatóság az e törvényben meghatározott ügyben hozott határozatot (végzést) jogorvoslatra, valamint a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatóvá nyilváníthatja, ha
+(2) Az (1) bekezdés szerinti ügyben az ügyfél kérelmére nincs helye az eljárás szünetelésének.
 
-a) a közbiztonság vagy a közrend fenntartása érdekében, illetve a közszemérem, valamint játékosvédelmi, gyermek- vagy ifjúságpolitikai érdek védelmében szükséges,
+(2a) Az ügyfél személyes jelenléte nélkül nem lefolytatható, az (1) bekezdés szerinti ügyben – különösen a szerencsejáték-szervezői tevékenység engedélyezése, illetve a játékautomata-üzemeltetés bejelentése iránti eljárásban – a kapcsolattartási forma ügyfél által történő megválasztásának nincs helye.
 
-b) a döntéssel érintett tevékenység vagy mulasztás folytatása más közösségi érdek sérelmével járna,
+(2b) Az e törvényben meghatározott ügyben hozott döntés ellen – a bírságot kiszabó döntés kivételével – benyújtott keresetlevélnek halasztó hatálya van, kivéve, ha a hatóság a döntést azonnal végrehajthatóvá nyilvánította.
 
-c) a végrehajtás késedelme jelentős vagy helyrehozhatatlan kárral járna, valamint ilyen kár bekövetkeztének elhárítása vagy következményeinek enyhítése érdekében.
+(3) A szerencsejáték-felügyeleti hatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított tizenöt napon belül a szerencsejáték-felügyeleti hatóság intézkedik a hiánypótlási felhívás kibocsátásáról. Hiánypótlási felhívásnak több ízben is helye van.
 
-A szerencsejáték-felügyeleti hatóság jogorvoslatra tekintet nélkül végrehajthatóvá nyilváníthatja különösen az engedély felfüggesztését vagy a tevékenységtől történő eltiltást megállapító határozatot, ha a szerencsejáték-szervező nem teljesíti a játékadó bevallásával vagy megfizetésével kapcsolatos kötelezettségét.
+(4) A szerencsejáték-felügyeleti hatóság a szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról hetvenöt napon belül, játékautomata nyilvántartásba vételéről tizenöt napon belül dönt.
 
-(3) A szerencsejáték-felügyeleti hatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított tizenöt napon belül a szerencsejáték-felügyeleti hatóság intézkedik a hiánypótlási felhívás kibocsátásáról.
-
-(4) A szerencsejáték-felügyeleti hatóság a szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról két hónapon, játékautomata nyilvántartásba vételéről pedig tizenöt napon belül dönt . E törvény hatálya alá tartozó hatósági engedélyezési, ellenőrzési és bírságolási eljárások megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legfeljebb az engedély lejárata előtt 100 nappal benyújtható.
-
-(5) A szerencsejáték ügyben, valamint ajándéksorsolás és játékautomata üzemeltetés tekintetében a nyilvántartásba vételi, ellenőrzési, továbbá jogkövetkezmények megállapítására irányuló eljárásokra tekintettel az ügyfél a képviselet ellátására állandó meghatalmazást vagy megbízást adhat és ezt a szerencsjáték-felügyeleti hatósághoz bejelentheti. Az állandó meghatalmazás, megbízás – a külön jogszabályban meghatározott feltételek teljesítésén túl – a szerencsejáték-felügyeleti hatóság előtti eljárásban akkor érvényes, ha azt az ügyfél, vagy annak képviselője a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon jelenti be. Ha az állandó meghatalmazást, megbízást vagy annak megszűnését az ügyfél képviselője jelenti be, a szerencsejáték-felügyeleti hatóság a bejelentésről az ügyfelet írásban értesíti. Az ügyfél az eseti, illetve az állandó meghatalmazás, megbízás visszavonását, felmondását haladéktalanul köteles bejelenteni a szerencsjáték-felügyeleti hatósághoz, illetve a képviseleti jog megszűnését a meghatalmazott, megbízott is bejelentheti a szerencsejáték-felügyeleti hatóságnál. A képviseleti jog keletkezése és megszűnése a szerencsejáték-felügyeleti hatósággal szemben a szerencsjáték-felügyeleti hatósághoz történő bejelentéstől hatályos azzal, hogy a képviseleti jog megszűnésének bejelentése napján a meghatalmazottat még a szerencsejáték-felügyeleti hatósági iratok átvételére jogosult személynek kell tekinteni.
+(5)
 
 (6) A szerencsejáték-felügyeleti hatóság a 7. §-ban megjelölt feladatok ellátása érdekében a következők szerint jogosult a szerencsejáték-szervező vezető tisztségviselőjének, tagjának, a szerencsejáték-szervezővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló, továbbá a közigazgatási hatósági eljárásban ügyfél személyes adatainak kezelésére és feldolgozására: a szerencsejáték-felügyeleti hatóság az eljárásban olyan személyes adatokat kezelhet, amelyek a feladatai ellátása céljából elengedhetetlenek, így az érintett természetes személyazonosító adatait, állampolgárságát, bejelentett lakóhelyének, illetve azon tartózkodási helyének adatait, ahol 3 hónapnál tovább tartózkodik. A szerencsejáték-felügyeleti hatóság a személyes adatokat az eljárás megindításától az alapul szolgáló irat selejtezéséig kezeli.
 
@@ -24,10 +20,10 @@ A szerencsejáték-felügyeleti hatóság jogorvoslatra tekintet nélkül végre
 
 (9) A (7) és (8) bekezdés alapján megismert személyes adatokat a szerencsejáték-felügyeleti hatóság
 
-a) az engedélyezési eljárás során az eljárás jogerős befejezéséig,
+a) az engedélyezési eljárás során az eljárás befejezéséig,
 
-b) a személyi megfelelőség megállapítására irányuló eljárás során az eljárás jogerős befejezéséig, vagy
+b) a személyi megfelelőség megállapítására irányuló eljárás során az eljárás befejezéséig, vagy
 
-c) a tevékenység hatósági ellenőrzés során a hatósági ellenőrzés időtartamára, de legfeljebb a jogkövetkezmények megállapítására irányuló eljárás jogerős befejezéséig
+c) a tevékenység hatósági ellenőrzés során a hatósági ellenőrzés időtartamára, de legfeljebb a jogkövetkezmények megállapítására irányuló eljárás befejezéséig
 
 kezeli.

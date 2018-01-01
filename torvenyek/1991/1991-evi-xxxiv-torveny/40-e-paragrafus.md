@@ -1,0 +1,1 @@
+40/E. § A 40/D. §-ban meghatározott átmeneti időszakot követően az állami adó- és vámhatóság megkeresésre tájékoztatja a szerencsejáték-felügyeleti hatóságot az adó- és vámtitkot képező adatról vagy információról, ha az a szerencsejáték-felügyeleti hatóság hatósági feladatának ellátásához szükséges.

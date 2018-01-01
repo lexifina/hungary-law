@@ -36,13 +36,13 @@ e) a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékk
 
 f) a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével
 
-g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve a szerencsejáték-felügyeleti hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
+g)
 
 h)
 
 i) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és a szerencsejáték-felügyeleti hatóság feladataival,
 
-j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával
+j)
 
 k) a pénzforgalmi szolgáltató 13/A. § (1) bekezdés szerinti eljárásával és ezen eljárás ellenőrzésével
 
@@ -50,4 +50,10 @@ kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter a lóversenyek és az agárversenyek szabályainak rendeletben történő megállapítására.
 
-(4) Felhatalmazást kap a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, hogy a szerencsejáték-felügyeleti hatóságnál foglalkoztatott kormánytisztviselők személyi illetményének megállapítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
+(4) Felhatalmazást kap a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, hogy a szerencsejáték-felügyeleti hatóságnál foglalkoztatott
+
+a) kormánytisztviselők személyi illetményének, továbbá
+
+b) kormánytisztviselők és munkavállalók részére feltételekhez kötött személyi juttatás és az intézményi feladatok
+
+megállapítására vonatkozó részletes szabályokat rendeletben állapítsa meg.

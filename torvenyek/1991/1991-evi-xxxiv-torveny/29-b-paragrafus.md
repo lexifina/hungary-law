@@ -20,11 +20,29 @@
 
 (10) A kártyaterem jogszerű birtoklásának igazolását a szerencsejáték-felügyeleti hatóság a szerencsejáték-szervezőtől a kártyaterem működtetésének engedélyezett időtartama alatt bármikor kérheti. Ha a szerencsejáték-szervező e kötelezettségének nem tesz eleget, a szerencsejáték-felügyeleti hatóság az engedélyt visszavonhatja.
 
-(11) A 26. § (18) bekezdését a kártyatermet üzemeltető szerencsejáték-szervezőre is alkalmazni kell.
+(11)
 
 (12) A szerencsejáték-felügyeleti hatóság a játékterv jóváhagyásával lehetővé teheti az alkalmazottak számára borravaló elfogadását. A kártyateremben adott borravalóra egyebekben a játékkaszinóban adott borravalóra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(13) A 29/H. § (2)–(3) bekezdését a kártyatermet üzemeltető szerencsejáték-szervezőre is alkalmazni kell.
+(13) A 29/H. § (2)–(3b) bekezdését a kártyatermet üzemeltető szerencsejáték-szervezőre is alkalmazni kell.
+
+(14) A kártyaterem működtetése iránti kérelmet a (3) bekezdés szerinti társaság a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon nyújtja be.
+
+(15) A kérelemhez a 7/B. § (3) bekezdésében foglaltakon túl csatolni kell:
+
+a) a kártyaterem 1:200 léptékű berendezési tervét,
+
+b) a kérelmező nyilatkozatát a kártyaterem alapterületére és a vendéglátásra szolgáló helyiség alapterületére vonatkozóan,
+
+c) a kártyateremben működtetni kívánt szerencsejáték-eszközök jogszerű birtoklását igazoló okiratot, valamint a Vhr. 1. § (2) bekezdés szerint hitelesítendő eszközök esetében a hitelesítéséről készült bizonyítványok egy-egy eredeti példányát, továbbá az Európai Gazdasági Térség területén bejegyzett informatikai rendszerek auditálására jogosult cég által kiállított, a kártyaterem minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet.
+
+d) a bevezetni kívánt zsetonok valamennyi fajtájából egy-egy érvénytelenített példányt, továbbá
+
+e) a 27/B. § (2) bekezdés c) és f) pontjában foglaltakat,
+
+f) a számítógépes elszámolási rendszer leírását (amennyiben a szervező elszámolásai elkészítése során használ ilyen rendszert).
+
+(16) Amennyiben a szervező el akar térni a jóváhagyott játéktervtől, a módosított játékterv jóváhagyására irányuló kérelmet a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kell előterjeszteni, és ahhoz csatolni kell jóváhagyás és hitelesítés céljából a módosított játéktervet.
 
 5. CÍM
 

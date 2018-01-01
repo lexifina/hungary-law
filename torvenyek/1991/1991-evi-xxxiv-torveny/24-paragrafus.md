@@ -5,7 +5,3 @@
 (3) A keno olyan számsorsjáték, melyben a játékos nyerés esetén a játéktervben összegszerűen meghatározott nyereményre válik jogosulttá.
 
 (4) A joker olyan folyamatosan szervezett számsorsjáték, amelyben a játékos nyerés esetén a játéktervben összegszerűen vagy arányosan meghatározott nyereményre válik jogosulttá. A joker – a szerencsejáték-felügyeleti hatóság engedélye alapján – más szerencsejátékokkal együtt is szervezhető. Ebben az esetben a jokerben való részvétel a kapcsolt másik játékban való részvételtől függővé tehető.
-
-2. CÍM
-
-Nem sorsolásos játék. Pénznyerő automaták üzemeltetése

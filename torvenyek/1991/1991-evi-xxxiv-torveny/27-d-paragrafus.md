@@ -1,0 +1,1 @@
+27/D. § A szervező a szerencsejáték-felügyeleti hatóság jóváhagyásával, legfeljebb a belépődíj összegének mértékéig – a játékasztaloknál használatos és az ajándékzsetonoktól különböző – belépőzsetont bocsáthat a látogatók rendelkezésére, amely tétnek minősül és a pénztárnál nem váltható be.
