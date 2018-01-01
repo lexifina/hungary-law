@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-152-20-
 | 2017-08-12 | 2014-152-20-22.43 | 223/2017. (VIII. 11.) Korm. rendelet |
 | 2017-10-02 | 2014-152-20-22.44 | 289/2017. (IX. 25.) Korm. rendelet |
 | 2017-11-01 | 2014-152-20-22.45 | 167/2014. (VII. 17.) Korm. rendelet |
+| 2018-01-01 | 2014-152-20-22.46 | 393/2017. (XII. 13.) Korm. rendelet |

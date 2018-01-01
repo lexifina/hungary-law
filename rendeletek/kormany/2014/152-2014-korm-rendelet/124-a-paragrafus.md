@@ -1,4 +1,4 @@
-124/A. §[^144] (1) A miniszter a turizmusért való felelőssége keretében előkészíti a turizmusra, az utazásszervező és -közvetítő tevékenységre, az utazási és utazást közvetítői szerződésre, a falusi és agroturizmusra, valamint – a gyógy- és egészségügyi tényezők vonatkozásában az egészségügyért felelős miniszterrel együttműködve – az egészségturizmusra vonatkozó jogszabályokat.
+124/A. §[^147] (1) A miniszter a turizmusért való felelőssége keretében előkészíti a turizmusra, az utazásszervező és -közvetítő tevékenységre, az utazási és utazást közvetítői szerződésre, a falusi és agroturizmusra, valamint – a gyógy- és egészségügyi tényezők vonatkozásában az egészségügyért felelős miniszterrel együttműködve – az egészségturizmusra vonatkozó jogszabályokat.
 
 (2) A miniszter a turizmusért való felelőssége keretében
 
@@ -10,13 +10,13 @@ c) összehangolja az európai uniós tagságból adódó kormányzati turisztika
 
 d) irányítja a belföldi és nemzetközi turisztikai marketingtevékenységet,
 
-e)[^145] kidolgozza és megvalósítja a nemzeti rendezvények koncepcióját,
+e)[^148] kidolgozza és megvalósítja a nemzeti rendezvények koncepcióját,
 
-f)[^146] kidolgozza a világkiállításokon való magyar részvételre irányuló javaslatokat, valamint ellátja a világkiállításokon való magyar részvétellel kapcsolatos szervezési és lebonyolítási feladatokat,
+f)[^149] kidolgozza a világkiállításokon való magyar részvételre irányuló javaslatokat, valamint ellátja a világkiállításokon való magyar részvétellel kapcsolatos szervezési és lebonyolítási feladatokat,
 
-g)[^147] a sportpolitikáért felelős miniszter részére szakmai támogatást biztosít a Magyarországon megvalósuló, kiemelt nemzetközi sportesemények lebonyolításához.
+g)[^150] a sportpolitikáért felelős miniszter részére szakmai támogatást biztosít a Magyarországon megvalósuló, kiemelt nemzetközi sportesemények lebonyolításához.
 
-[^144]: A 124/A. §-t a 87/2016. (IV. 25.) Korm. rendelet 2. §-a iktatta be.
-[^145]: A 14/A. § (2) bekezdés e) pontját a 114/2017. (V. 10.) Korm. rendelet 2. §-a iktatta be.
-[^146]: A 14/A. § (2) bekezdés f) pontját a 114/2017. (V. 10.) Korm. rendelet 2. §-a iktatta be.
-[^147]: A 14/A. § (2) bekezdés g) pontját a 114/2017. (V. 10.) Korm. rendelet 2. §-a iktatta be.
+[^147]: A 124/A. §-t a 87/2016. (IV. 25.) Korm. rendelet 2. §-a iktatta be.
+[^148]: A 14/A. § (2) bekezdés e) pontját a 114/2017. (V. 10.) Korm. rendelet 2. §-a iktatta be.
+[^149]: A 14/A. § (2) bekezdés f) pontját a 114/2017. (V. 10.) Korm. rendelet 2. §-a iktatta be.
+[^150]: A 14/A. § (2) bekezdés g) pontját a 114/2017. (V. 10.) Korm. rendelet 2. §-a iktatta be.
