@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-284-20-
 | 2016-01-01 | 1997-284-20-22.28 | 413/2015. (XII. 23.) Korm. rendelet |
 | 2017-01-15 | 1997-284-20-22.29 | 3/2017. (I. 12.) Korm. rendelet |
 | 2017-09-06 | 1997-284-20-22.30 | 520/2013. (XII. 30.) Korm. rendelet |
+| 2018-01-01 | 1997-284-20-22.31 | 507/2017. (XII. 29.) Korm. rendelet |
