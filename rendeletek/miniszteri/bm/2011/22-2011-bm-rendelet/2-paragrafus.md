@@ -1,1 +1,0 @@
-## „(3) Rögzített üzemmódú megkülönböztető jelzést adó készülék felszerelése – a forgalomba helyezés előtt (gyárilag) rögzített üzemmódú megkülönböztető jelzést adó készülékkel igazoltan felszerelt gépjárművek kivételével – abban az esetben engedélyezhető, ha a gépjárművel állandó jelleggel és kizárólag az engedélyezés alapjául szolgáló tevékenységet látják el.”
