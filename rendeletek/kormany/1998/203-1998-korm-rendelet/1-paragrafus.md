@@ -14,7 +14,7 @@ d) az előkutatás tervezett időtartamát, módszerét.
 
 (3) A bejelentéshez mellékelni kell a külön jogszabályban előírt hatósági engedélyt és az előkutatással érintett ingatlan tulajdonosával (kezelőjével, használójával) kötött megállapodást, valamint helyszínrajzot.
 
-(4)[^4]
+(4)[^4] Ha a Bt. eltérően nem rendelkezik, az e rendelet hatálya alá tartozó eljárásokban az ügyintézési határidő 25 nap.
 
 (5)[^5] A bányafelügyelet intézkedni köteles, ha a bejelentés alapján megállapítható, hogy
 
@@ -28,6 +28,6 @@ c) a tervezett kutatási módszerek nem minősülnek előkutatásnak.
 
 [^2]: A Vhr. 1. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 148. §-a, a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés a) pontja szerint módosított szöveg.
 [^3]: A Vhr. 1. §-ának (2) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: A Vhr. 1. §-ának (4) bekezdését a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
+[^4]: A Vhr. 1. § (4) bekezdését a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 62. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^5]: A Vhr. 1. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
 [^6]: A Vhr. 1. §-ának (6) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 1. §-ával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.

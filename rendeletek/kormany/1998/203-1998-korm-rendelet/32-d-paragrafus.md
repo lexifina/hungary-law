@@ -1,3 +1,3 @@
-32/D. §[^305] A Bt. 47/F. § (1) bekezdése szerinti bírság összegének felső határa húszmillió forint, a Bt. 47/F. § (2) bekezdése szerinti bírság felső határa tízmillió forint.
+32/D. §[^320] A Bt. 47/F. § (1) bekezdése szerinti bírság összegének felső határa húszmillió forint, a Bt. 47/F. § (2) bekezdése szerinti bírság felső határa tízmillió forint.
 
-[^305]: A Vhr. 32/D. §-át a 311/2014. (XII. 11.) Korm. rendelet 16. §-a iktatta be.
+[^320]: A Vhr. 32/D. §-át a 311/2014. (XII. 11.) Korm. rendelet 16. §-a iktatta be.

@@ -1,10 +1,10 @@
-28. § (1)[^268] A bányafelügyelet tűzvédelmi hatósági jogköre a következőkre terjed ki:
+28. § (1)[^280] A bányafelügyelet tűzvédelmi hatósági jogköre a következőkre terjed ki:
 
 a) ásványi nyersanyag feltárása, kitermelése céljából bányászati technológiával kialakított föld alatti bányatérség, valamint a felhagyott bányák nyitvamaradó térségei;
 
 b) a föld alatti bányatérséghez a föld felszínén közvetlenül csatlakozó építmények és berendezések (pl. az aknatorony, az aknaszállító berendezés, a szellőztetőberendezés, a föld alatti szállítóberendezés külszínen lévő gépháza);
 
-c)[^269]
+c)[^281]
 
 d) a folyékony és gáznemű ásványi nyersanyag kutatására, termelésére irányuló mélyfúrás, valamint a fúrási tevékenységhez szükséges, a biztonsági övezeten, a fúrási telepen belül lévő berendezések;
 
@@ -14,16 +14,16 @@ f) a föld alatti gáztárolásra szolgáló földtani szerkezet, természetes v
 
 g) mezőbeli kőolaj- és földgázvezetékek és tartozékai (pl. a hozzájuk kapcsolódó szeparátorok, gázsűrítők, szivattyúk és csapadékleválasztók);
 
-h)[^270]
+h)[^282]
 
 (2) A bányák (1) bekezdés b)–h) pontjaiban felsorolt létesítményeiben keletkezett tüzek eloltásában a tűzoltóság – a bányavállalkozó felkérésére – a rendelkezésre álló erők és eszközök alkalmazásával működik közre.
 
-(3)[^271] A bányák föld feletti létesítményeinek tűzvédelmi ellenőrzésére a bányafelügyeletet meg kell hívni.
+(3)[^283] A bányák föld feletti létesítményeinek tűzvédelmi ellenőrzésére a bányafelügyeletet meg kell hívni.
 
-(4)[^272]
+(4)[^284]
 
-[^268]: A Vhr. 28. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^269]: A Vhr. 28. § (1) bekezdés c) pontját a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte.
-[^270]: A Vhr. 28. § (1) bekezdés h) pontját a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte.
-[^271]: A Vhr. 28. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés f) pontja szerint módosított szöveg.
-[^272]: A Vhr. 28. §-ának (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^280]: A Vhr. 28. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^281]: A Vhr. 28. § (1) bekezdés c) pontját a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^282]: A Vhr. 28. § (1) bekezdés h) pontját a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^283]: A Vhr. 28. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés f) pontja szerint módosított szöveg.
+[^284]: A Vhr. 28. §-ának (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
