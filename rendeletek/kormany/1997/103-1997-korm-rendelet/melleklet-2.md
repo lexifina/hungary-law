@@ -144,7 +144,7 @@
 
 | Életvesztés körülményeinek leírása, a bizonyítékok ismertetése.(Amennyiben az adatlapon rendelkezésre álló hely nem elegendő külön íven is mellékelheti a leírást.) |
 
-| Feltétlenül csatolandó igazolások (élet elvesztése esetén) 1. Ha az igénylő a) az özvegy: házassági anyakönyvi kivonat b) a szülő: a sérelmet szenvedett születési anyakönyvi kivonata c) a gyermek: saját születési anyakönyvi kivonata d) a testvér: a sérelmet szenvedett és a saját születési anyakönyvi kivonata e) egyházi jogi személy elöljárója: a sérelmet szenvedett egyházi személy voltát igazoló okmány. 2. Valamennyi igénylő esetében: a sérelmet szenvedett halálát tanúsító okmány (igazolás). |
+| Feltétlenül csatolandó igazolások (élet elvesztése esetén) Ha az igénylő egyházi jogi személy elöljárója: a sérelmet szenvedett egyházi személy voltát igazoló okmány. Valamennyi igénylő esetében: a sérelmet szenvedett halálát tanúsító okmány (igazolás). |
 
 | V. Kárpótlási igény a II. világháború alatt (1941.06.27.-1945.05.9.) faji, vallási vagy politikai okból teljesített munkaszolgálatért: |
 
@@ -244,7 +244,7 @@
 
 |  | Az adatlappal együtt benyújtott bizonyító okiratok felsorolása |  |
 
-2. számú melléklet a 103/1997. (VI. 13.) Korm. rendelethez[^19]
+2. számú melléklet a 103/1997. (VI. 13.) Korm. rendelethez[^16]
 
 | A hivatal tölti ki! |
 
@@ -296,4 +296,4 @@
 
 | V. A letétbe helyezett kárpótlási jegyeimet átvettem 199 ………..év ……………………………hó …………….nap …………………………………...…………. igénylő (meghatalmazott) aláírása |
 
-[^19]: Lásd: 1997. MK 51. szám 3896. oldal.
+[^16]: Lásd: 1997. MK 51. szám 3896. oldal.
