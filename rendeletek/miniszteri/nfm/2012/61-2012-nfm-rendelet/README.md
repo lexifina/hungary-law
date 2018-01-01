@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-61-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-02-20 | 2012-61-20-2W.1 | 61/2012. (XI. 22.) NFM rendelet |
+| 2018-01-01 | 2012-61-20-2W.2 | 71/2021. (XII. 30.) ITM rendelet |
