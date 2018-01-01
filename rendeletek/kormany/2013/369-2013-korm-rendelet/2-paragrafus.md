@@ -4,6 +4,6 @@
 
 ## 1. A szolgáltatói nyilvántartást vezető szerv
 
-2. §[^8] A Kormány a szolgáltatói nyilvántartást vezető szervnek és a szolgáltatói nyilvántartás elektronikus adatfeldolgozójának a Magyar Államkincstár központi szervét (a továbbiakban: Központ) jelöli ki.
+2. §[^9] A Kormány a szolgáltatói nyilvántartást vezető szervnek és a szolgáltatói nyilvántartás elektronikus adatfeldolgozójának a Magyar Államkincstár központi szervét (a továbbiakban: Központ) jelöli ki.
 
-[^8]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 248. § (1) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 248. § (1) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.

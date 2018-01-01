@@ -1,4 +1,4 @@
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^185]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^156]
 
 A szolgáltatói nyilvántartás adatai
 
@@ -28,9 +28,9 @@ A szolgáltatói nyilvántartás adatai
 
 3.1. az engedélyes által nyújtott szolgáltatás megnevezése az alábbiak szerint, továbbá az egyes szolgáltatásokra vonatkozó alábbi adatok:
 
-3.1.1. falugondnoki szolgáltatás: a szolgáltatáshoz használt gépjármű gyártmánya, típusa és rendszáma,
+3.1.1. falugondnoki szolgáltatás,
 
-3.1.2. tanyagondnoki szolgáltatás: a szolgáltatáshoz használt gépjármű gyártmánya, típusa és rendszáma,
+3.1.2. tanyagondnoki szolgáltatás,
 
 3.1.3. szociális étkeztetés,
 
@@ -104,7 +104,15 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.12. ápolást, gondozást nyújtó intézményi ellátás:
 
-3.1.12.1. idősek otthona: férőhelyszám,
+3.1.12.1. idősek otthona:
+
+3.1.12.1.1. férőhelyszám,
+
+3.1.12.1.2. ha az idősek otthona szakápolási központként működik,
+
+3.1.12.1.2.1. az erre vonatkozó adat,
+
+3.1.12.1.2.2. a szakápolási központként működtethető férőhelyek száma,
 
 3.1.12.2. fogyatékos személyek otthona: férőhelyszám,
 
@@ -230,6 +238,10 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.27.3.2. a félutas ház címe,
 
+3.1.27.4. a külső férőhelyek címe és összesített férőhelyszáma,
+
+3.1.27.5. a Gyvt. 184. § (1) bekezdése alapján bejegyzett szolgáltatási hely címe és a férőhelyek címenkénti száma,
+
 3.1.28. nevelőszülői hálózat:
 
 3.1.28.1. a nyújtott szolgáltatások az alábbiak szerint:
@@ -342,7 +354,7 @@ A szolgáltatói nyilvántartás adatai
 
 3.5. a támogatott lakhatás és a fejlesztő foglalkoztatás kivételével valamennyi szolgáltatás esetén az arra vonatkozó adat, hogy a szolgáltatás bejegyzése határozatlan idejű, határozott idejű vagy ideiglenes hatályú, továbbá határozott idejű bejegyzés és ideiglenes hatályú bejegyzés esetén a bejegyzés hatályának záró időpontja,
 
-3.6. az egyedi előírás, feltétel, illetve az egyedi szakhatósági előírás, feltétel, ha szakkérdésben ilyet határoztak meg, vagy a működést engedélyező szerv jogszabályban foglaltak szerint az ideiglenes hatályú bejegyzés során egyéb feltételt határozott meg,
+3.6. a miniszteri rendeletben meghatározott nem ágazati feltételekkel kapcsolatos egyedi előírás, feltétel, illetve az egyedi szakhatósági előírás, feltétel, ha szakkérdésben ilyet határoztak meg, vagy a működést engedélyező szerv jogszabályban foglaltak szerint az ideiglenes hatályú bejegyzés során egyéb feltételt határozott meg,
 
 3.7. valamennyi szolgáltatás esetén az ellátási terület,
 
@@ -354,7 +366,7 @@ A szolgáltatói nyilvántartás adatai
 
 4.1. az eljáró hatóság megnevezése,
 
-4.2. a bejegyzés, illetve az adatmódosítás kelte, száma, valamint végrehajthatóvá válásának és jogerőre emelkedésének napja.
+4.2. a bejegyzés, illetve az adatmódosítás kelte, száma, valamint véglegessé válásának és végrehajthatóvá válásának napja.
 
 5. A történeti állomány adatai:
 
@@ -362,7 +374,7 @@ A szolgáltatói nyilvántartás adatai
 
 5.2. a törlés ügyében eljáró hatóság megnevezése,
 
-5.3. a törlés kelte, száma, valamint végrehajthatóvá válásának és jogerőre emelkedésének napja.
+5.3. a törlés kelte, száma, valamint véglegessé válásának és végrehajthatóvá válásának napja.
 
 6. Kiegészítő szabályok:
 
@@ -378,4 +390,4 @@ A szolgáltatói nyilvántartás adatai
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^185]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 191/2016. (VII. 13.) Korm. rendelet 18. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (1)–(2) bekezdése és 55. § (1) bekezdése szerint módosított szöveg.
+[^156]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 191/2016. (VII. 13.) Korm. rendelet 18. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (1)–(2) bekezdése és 55. § (1) bekezdése, a 381/2017. (XII. 11.) Korm. rendelet 18. §-a, a 457/2017. (XII. 28.) Korm. rendelet 457. § 17–18. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

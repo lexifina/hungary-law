@@ -1,4 +1,4 @@
-25. § (1)[^93] A fenntartó köteles az ok bekövetkeztétől számított öt napon belül bejelenteni az érintett ellátottaknak és törvényes képviselőiknek, az általánosan illetékes működést engedélyező szervnek és – ahol működik – az érdekképviseleti fórumnak, illetve az ellátotti önkormányzatnak, ha
+25. § (1)[^73] A fenntartó köteles az ok bekövetkeztétől számított öt napon belül bejelenteni az érintett ellátottaknak és törvényes képviselőiknek, az általánosan illetékes működést engedélyező szervnek és – ahol működik – az érdekképviseleti fórumnak, illetve az ellátotti önkormányzatnak, ha
 
 a) az egyéni vállalkozói tevékenységre való jogosultsága a (2) bekezdésben nem említett esetben megszűnt vagy szünetel,
 
@@ -10,11 +10,13 @@ d) a jogutód nélküli megszűnése iránt eljárás indult,
 
 e) a jogutód nélküli megszűnése iránt indult eljárás befejeződött.
 
-(2)[^94] Ha a fenntartó egyéni vállalkozó meghal, vagy cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezik, az özvegy, az örökös, illetve a gondnok köteles ezt az általánosan illetékes működést engedélyező szervnek az ok bekövetkeztétől számított tíz napon belül bejelenteni.
+(2)[^74] Ha a fenntartó egyéni vállalkozó meghal, vagy cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezik, az özvegy, az örökös, illetve a gondnok köteles ezt az általánosan illetékes működést engedélyező szervnek az ok bekövetkeztétől számított tíz napon belül bejelenteni.
 
-(3) Az (1) vagy (2) bekezdés alapján teljesített bejelentéshez mellékelni kell a bejelentésben foglaltakat alátámasztó okirat másolatát.
+(3)[^75] Az (1) vagy (2) bekezdés alapján teljesített bejelentéshez mellékelni kell a bejelentésben foglaltakat alátámasztó okirat másolatát, kivéve, ha az adat bírósági vagy hatósági nyilvántartásban rendelkezésre áll.
 
-(4) Ha a bejelentésre kötelezett az (1) bekezdés a)–c) pontja, bírósági vagy hatósági nyilvántartásba vett fenntartó esetén az (1) bekezdés d) és e) pontja vagy a (2) bekezdés alapján teljesített bejelentésben foglaltakat nem igazolja, és az adat bírósági vagy hatósági nyilvántartásban rendelkezésre áll, a bejelentésben foglaltakat a működést engedélyező szerv a bírósági, illetve hatósági nyilvántartásból szerzi be, illetve ellenőrzi.
+(4)[^76]
 
-[^93]: A 25. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés e) pontja szerint módosított szöveg.
-[^94]: A 25. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés e) pontja szerint módosított szöveg.
+[^73]: A 25. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés e) pontja szerint módosított szöveg.
+[^74]: A 25. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés e) pontja szerint módosított szöveg.
+[^75]: A 25. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 455. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^76]: A 25. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 458. § h) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

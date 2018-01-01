@@ -1,7 +1,7 @@
-21. §[^86] (1)[^87]
+21. §[^66] (1)[^67]
 
-(2)[^88] Időszakos férőhelybővítés és kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthon esetén az ügyintézési határidő tíz munkanap.
+(2)[^68]
 
-[^86]: A 21. § a 70/2015. (III. 30.) Korm. rendelet 234. § (7) bekezdésével megállapított szöveg.
-[^87]: A 21. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 209. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^88]: A 21. § (2) bekezdése a 284/2015. (IX. 29.) Korm. rendelet 17. § h) pontja, a 441/2015. (XII. 28.) Korm. rendelet 209. § b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^66]: A 21. § a 70/2015. (III. 30.) Korm. rendelet 234. § (7) bekezdésével megállapított szöveg.
+[^67]: A 21. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 209. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^68]: A 21. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 458. § g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
