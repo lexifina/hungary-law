@@ -6,4 +6,4 @@ b) aki olyan gazdálkodó szervezet vezető tisztségviselője, amelynek a 30. �
 
 (2) Az (1) bekezdés szerinti nyilvántartás az érintett személy természetes személyazonosító adatait, lakóhelyét és – az (1) bekezdés b) pontja szerinti személy esetén – a gazdálkodó szervezet nevét és székhelyét tartalmazza.
 
-(3) A temetkezési szolgáltatást engedélyező hatóság a (2) bekezdésben megjelölt adatokat az (1) bekezdés szerinti engedély visszavonásáról szóló határozat jogerőre emelkedésétől számított 5 évig kezeli.
+(3) A temetkezési szolgáltatást engedélyező hatóság a (2) bekezdésben megjelölt adatokat az (1) bekezdés szerinti engedély visszavonásáról szóló határozat véglegessé válásától számított 5 évig kezeli.

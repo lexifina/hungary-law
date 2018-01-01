@@ -10,7 +10,7 @@ c) aki rendelkezik az alapvető kegyeleti feltételeknek, valamint a munkavégz�
 
 d) akivel szemben összeférhetetlenség nem áll fenn, és
 
-e) aki saját maga, vagy legalább egy, a temetkezési szolgáltatási tevékenységben személyesen közreműködő alkalmazottja rendelkezik a kormányrendeletben meghatározott szakmai képesítéssel és megfelel az ott meghatározott feltételeknek,
+e) aki saját maga, gazdálkodó szervezet esetében, akinek vezető tisztségviselője rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel és megfelel az abban meghatározott feltételeknek,
 
 f) aki vagy gazdálkodó szervezet esetében, amelynek vezető tisztségviselője a temetkezési szolgáltatásokat engedélyező hatóság 31. §-a szerinti nyilvántartásában nem szerepel.
 
@@ -28,12 +28,12 @@ kell igazolnia.
 
 (5) A temetkezési szolgáltatásokat engedélyező hatóság az engedéllyel rendelkező szolgáltatókról nyilvántartást vezet.
 
-(6)
+(6) A temetkezési szolgáltatásokat engedélyező hatóság a temetkezési szolgáltatási tevékenység gyakorlásának időtartama alatt legalább 2 évente ellenőrzi a szolgáltatókat. A telephely ellenőrzését végző temetkezési szolgáltatásokat engedélyező hatóság a hatósági ellenőrzés eredményét a szolgáltató székhelye szerint illetékes temetkezési szolgáltatásokat engedélyező hatóságnak is megküldi.
 
 (7) A (2) bekezdés a) pontjában meghatározott feltételt igazolására szolgáló személyes adatokat a temetkezési szolgáltatásokat engedélyező hatóság
 
-a) a temetkezési szolgáltatási tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
+a) a temetkezési szolgáltatási tevékenység engedélyezése iránti eljárás végleges befejezéséig vagy
 
-b) a temetkezési szolgáltató nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
+b) a temetkezési szolgáltató nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás végleges befejezéséig
 
 kezeli.

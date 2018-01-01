@@ -13,3 +13,5 @@ b) ilyen összeg erejéig vállalt bankgarancia vagy felelősségbiztosítás.
 (3) Ha a gazdasági társaság vagy az egyéni vállalkozó az (1) bekezdés a) pontjában meghatározott adatokat nem igazolja, és nem szerepel a köztartozásmentes adózói adatbázisban, a temetkezési szolgáltatásokat engedélyező hatóság – a pénzügyi teljesítőképesség igazolása céljából – megkeresi az (1) bekezdés a) pontjában szereplő adatokról nyilvántartást vezető hatóságot. A megkeresett hatóság az adatszolgáltatása körében arról ad tájékoztatást, hogy az alapítónak van-e meg nem fizetett, lejárt köztartozása.
 
 (4) Ha a temetkezési szolgáltatónak meg nem fizetett köztartozása van, az (1) bekezdés a) pontjában szereplő adatokról nyilvántartást vezető hatóság értesíti erről a tényről a temetkezési szolgáltatásokat engedélyező hatóságot.
+
+(5) Az adóhatóság az erről szóló bejelentés esetén vagy hatóság megkeresésére hivatalból köteles vizsgálni, hogy a temetkezési szolgáltató az (1) bekezdés a) pontja szerinti feltételeknek megfelel-e.
