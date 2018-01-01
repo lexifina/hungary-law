@@ -1,0 +1,3 @@
+99. § A Bv. tv. 99. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Végrehajtási fokozattól függetlenül az elítéltek – az adott részlegen belül a zárkában és lakóhelyiségben is – együtt helyezhetők el a gyógyító-terápiás részlegen, az átmeneti részlegen, a drogprevenciós részlegen, a pszichoszociális részlegen, a vallási részlegen, valamint az enyhébb végrehajtási szabályok alkalmazása során. Az elítéltek végrehajtási fokozattól függetlenül – az adott részlegen belül – együtt helyezhetők el a hosszú időre ítéltek részlegén, a fiatalkorú elítéltek részlegén és az anya-gyermek részlegen.”

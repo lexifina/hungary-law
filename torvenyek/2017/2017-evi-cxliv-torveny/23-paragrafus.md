@@ -1,0 +1,3 @@
+23. § A Be. 166. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A jegyzőkönyvet az ügyész vagy a nyomozó hatóság eljáró tagja szükség esetén kijavítja vagy kiegészíti, a kijavítást és a kiegészítést aláírja, és arról az érdekelteket értesíti. Akik a nyomozási cselekményen jelen voltak, a jegyzőkönyv általuk történt megismerését követően a jegyzőkönyv kijavítását vagy kiegészítését indítványozhatják. A kijavítást a jegyzőkönyvben a kijavítás dátumának megjelölésével fel kell jegyezni, vagy az indítvány elutasítását az iratokban fel kell tüntetni. Elektronikus irat kijavítását vagy kiegészítését a kijavítandó vagy kiegészítendő rész megjelölésével külön elektronikus iratban kell elkészíteni.”

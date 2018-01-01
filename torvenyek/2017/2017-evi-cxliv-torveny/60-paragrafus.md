@@ -2,10 +2,14 @@
 
 a)–c)
 
-d)–g)
+d) 286. § (1) bekezdésében az „ügyvédi, jogtanácsosi vagy közjegyzői” szövegrész helyébe az „ügyvédi, szabadalmi ügyvivői vagy közjegyzői” szöveg,
 
-h) 422. § (1) bekezdés a) pontjában az „egyéb helyiségét” szövegrész helyébe az „ahhoz tartozó egyéb helyiségét” szöveg,
+e) 286. § (2) bekezdésében az „ügyvédi, jogtanácsosi vagy közjegyzői” szövegrész helyébe az „ügyvédi, szabadalmi ügyvivői vagy közjegyzői” szöveg,
 
-i) 422. § (1) bekezdés b) pontjában az „egyéb helyiségében” szövegrész helyébe az „ahhoz tartozó egyéb helyiségében” szöveg
+f) 349. § (3) bekezdésében a „jogtanácsos” szövegrész helyébe a „kamarai jogtanácsos” szöveg,
+
+g) 399. § (4) bekezdés c) pontjában, 400. § (2) bekezdés b) pontjában, 402. § (2) bekezdésében és 403. § (3) bekezdésében a „tőzsdei, elszámolóházi, központi értéktári” szövegrész helyébe a „tőzsdei, központi értéktári” szöveg
+
+h)–i)
 
 lép.
