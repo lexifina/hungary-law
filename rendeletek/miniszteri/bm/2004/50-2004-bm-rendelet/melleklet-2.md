@@ -1,6 +1,6 @@
 ## A fegyverekkel, lőszerekkel kapcsolatos tevékenységek engedélyezése igazgatási szolgáltatási díjai
 
-| A díjak mértéke forintban |
+| Az igazgatási szolgáltatási díjak mértéke forintban |
 
 | 1. | Gyártás engedélyezése | 150 000 |
 
@@ -12,7 +12,7 @@
 
 | 5. | Lőfegyver kiállítás engedélyezése | 20 000 |
 
-| 6. | Lőfegyver, lőszer, lőszerelem tárolóhely engedélyezése – 25 db lőfegyverig és/vagy 5000 db lőszerig – 26–50 db lőfegyverig és/vagy 10 000 db lőszerig – 50 db lőfegyver felett és/vagy 10 000 db lőszer felett – lőszerelem tárolóhely Nem kell a 6. sor szerinti díjat külön leróni, ha az 1–5., illetve a 23. sor szerinti tevékenység engedélyezésével egyidejűleg a tárolóhely is elbírálásra kerül, feltéve, hogy a tárolóhely közvetlen fizikai kapcsolatban áll a tevékenység gyakorlásának helyszínével | 15 000 35 000 45 000 35 000 |
+| 6. | Lőfegyver, lőszer, lőszerelem tárolóhely engedélyezése – 25 db lőfegyverig és/vagy 5000 db lőszerig – 26–50 db lőfegyverig és/vagy 10 000 db lőszerig – 50 db lőfegyver felett és/vagy 10 000 db lőszer felett – lőszerelem tárolóhely Nem kell a 6. sor szerinti igazgatási szolgáltatási díjat külön leróni, ha az 1–5., illetve a 23. sor szerinti tevékenység engedélyezésével egyidejűleg a tárolóhely is elbírálásra kerül, feltéve, hogy a tárolóhely közvetlen fizikai kapcsolatban áll a tevékenység gyakorlásának helyszínével | 15 000 35 000 45 000 35 000 |
 
 | 7. | Szervezeteknél a lőfegyvert, lőszert birtokló alkalmazottak foglalkoztatásához szükséges hozzájárulás, illetve az alkalmazotti engedély kiadása | 2 000 |
 
@@ -54,7 +54,7 @@
 
 | 26. | Elöltöltő fegyver vadászati célú használatának engedélyezése az engedély meglétét igazoló okmány kiállításával (az engedély cseréje, pótlása is) | 6000 |
 
-2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^12]
+2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^19]
 
 |  | A | B |
 
@@ -102,4 +102,4 @@
 
 | 22. | Országos Rendőr-főkapitányság | 10023002-01451715-00000000 |
 
-[^12]: A 2. számú melléklet a 32/2016. (VII. 20.) BM rendelet 3. § b) pontjával megállapított szöveg.
+[^19]: A 2. számú melléklet a 32/2016. (VII. 20.) BM rendelet 3. § b) pontjával megállapított szöveg.
