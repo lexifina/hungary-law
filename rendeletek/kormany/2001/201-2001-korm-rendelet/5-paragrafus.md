@@ -1,6 +1,6 @@
 ## A vízminőség ellenőrzése
 
-5. § (1)[^42] Az üzemeltető köteles gondoskodni arról, hogy az ivóvíz minőségét ivóvízvizsgálatra akkreditált laboratórium a 2. számú mellékletben meghatározottak alapján az illetékes hatóság által évente határozatban jóváhagyott vizsgálati program szerint ellenőrizze. Több települést ellátó vízmű esetében minden településről évente legalább egy minta ellenőrző vizsgálatát el kell végezni. Ha az ivóvizet fertőtlenítik, az üzemeltető köteles gondoskodni az alkalmazott fertőtlenítés hatékonyságának ellenőrzéséről és biztosítani, hogy a fertőtlenítőszer melléktermékeiből származó szermaradvány az ivóvízben – a fertőtlenítő hatás veszélyeztetése nélkül – a lehető legalacsonyabb szintű legyen, és az 1. számú melléklet B) részében foglalt táblázatban megadott határértékeket ne lépje túl.
+5. § (1)[^42] Az üzemeltető köteles gondoskodni arról, hogy az ivóvíz minőségét ivóvízvizsgálatra akkreditált laboratórium a 2. számú mellékletben meghatározottak alapján az illetékes népegészségügyi szerv által évente határozatban jóváhagyott vizsgálati program szerint ellenőrizze. A vizsgálati program jóváhagyása során dönt az illetékes népegészségügyi szerv a 2. számú melléklet B) rész 2.5. és 2.7. pontja szerinti vizsgálati szám csökkentéséről, és ennek figyelembevételével dönt a vizsgálati program elfogadásáról. Több települést ellátó vízmű esetében minden településről évente legalább egyszer a 2. számú melléklet B) rész 2. pont 2.1. alpontja szerinti, A csoportba tartozó ellenőrző paraméterek vizsgálatát el kell végezni. Ha az ivóvizet fertőtlenítik, az üzemeltető köteles gondoskodni az alkalmazott fertőtlenítés hatékonyságának ellenőrzéséről, és biztosítani, hogy a fertőtlenítőszer melléktermékeiből származó szermaradvány az ivóvízben – a fertőtlenítő hatás veszélyeztetése nélkül – a lehető legalacsonyabb szintű legyen, és az 1. számú melléklet B) részében foglalt táblázatban megadott határértékeket ne lépje túl.
 
 (1a)[^43] A vízmintavételi helyeket a 4. § (1) bekezdés a)–c) pontja szerinti pontokon az illetékes népegészségügyi szerv a vízellátó rendszer üzemeltetője kérelmére határozatban hagyja jóvá. Az illetékes népegészségügyi szerv a vízmintavételi helyek jóváhagyáskori feltételeinek fennállását legalább évente felülvizsgálja, és szükség esetén módosítja a vízmintavételi helyeket.
 
@@ -26,7 +26,7 @@
 
 (10)[^54] Az élelmiszerlánc-felügyeleti szerv és a kormányhivatal kölcsönösen tájékoztatják egymást azokról az eltérésekről, illetve adatokról, amelyek egészségügyi vagy élelmiszer-biztonsági kockázattal vannak összefüggésben.
 
-[^42]: Az 5. § (1) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 5. §-ával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^42]: Az 5. § (1) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^43]: Az 5. § (1a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 44. §-a iktatta be.
 [^44]: Az 5. § (1b) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 44. §-a iktatta be.
 [^45]: Az 5. § (1c) bekezdését a 313/2015. (X. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be.
