@@ -66,7 +66,7 @@
 
 ## e) a záróréteg rendszer kiépítésének költségeit.
 
-## 1.2.1.[^74] Az átmeneti felső záróréteg rendszer felépítése és funkciója
+## 1.2.1.[^72] Az átmeneti felső záróréteg rendszer felépítése és funkciója
 
 ## Az átmeneti felső záróréteg rendszer legfontosabb feladata az, hogy a végleges felső záróréteg rendszer kiépítése érdekében tegye lehetővé elegendő vízmennyiségnek a hulladéktestbe való bejutását, ezáltal biztosítva a lerakott hulladékban lévő szerves összetevők biológiai lebomlását és a hulladéktest stabilizálódását. A rétegrend kialakítását egyedileg a tervező határozza meg és a környezetvédelmi hatóság hagyja jóvá az engedélyben. Alkalmazása azért is indokolt, mert a biohulladék lebomlása következtében a hulladéktestben roskadás, a felszínén jelentős süllyedések várhatóak, ami a végleges felső záróréteg rendszer egyenlőtlen süllyedéséhez, repedezéséhez vezetne, és ez a szigetelő funkció megszűnését okozná.
 
@@ -138,7 +138,7 @@
 
 ## Anyaga: nem mélygyökérzetű, kis tápanyagigényű, szárazság- és forróságtűrő növények, amelyek megfelelnek az ökológiai környezetnek is.
 
-## 1.3.[^75] A hulladéklerakó-gáz gyűjtési és kezelési rendszerének kialakításával és működtetésével kapcsolatos követelmények (1. számú melléklet 5. pont)
+## 1.3.[^73] A hulladéklerakó-gáz gyűjtési és kezelési rendszerének kialakításával és működtetésével kapcsolatos követelmények (1. számú melléklet 5. pont)
 
 ## Aktív hulladéklerakó-gáz gyűjtő rendszert B3 alkategóriájú hulladéklerakón kell kiépíteni. A hulladéklerakó-gázt a hulladéklerakó engedélyében meghatározott módon kell hasznosítani, egyéb esetben elfáklyázással kell ártalmatlanítani. A környezetvédelmi hatóság jogosult a gázkezelő rendszer utólagos kiépítésének követelményétől eltekinteni, amennyiben a tervező a rekultivációs tervben számításokkal igazolja, hogy a lerakott hulladék szervesanyag tartalmának bomlásából keletkező gáz várható mennyisége és minősége a hasznosítást gazdaságilag nem alapozza meg, illetve az ártalmatlanítás (fáklyázás) környezeti haszon szempontjából nem célszerű.
 
@@ -174,7 +174,7 @@
 
 ## A hulladéklerakó meglévő, de a rekultivációs és utógondozási tevékenységekhez nem szükséges infrastruktúráját (építményeket, berendezéseket és eszközöket) fel lehet számolni. Az így felszabaduló területet is be kell vonni a rekultiváció és utógondozás célterületébe.
 
-## 1.8.[^76] A fenntartási és állagmegóvási munkák végzésével, valamint az utógondozás befejezésével kapcsolatos követelmények
+## 1.8.[^74] A fenntartási és állagmegóvási munkák végzésével, valamint az utógondozás befejezésével kapcsolatos követelmények
 
 ## A rekultivációs és utógondozási időszakban biztosítani kell a szükséges infrastruktúra (létesítmények, berendezések és eszközök) működőképességét, használatát, a bezárt hulladéklerakóra történő szabad bejutás megakadályozását, a terület rendjét és tisztaságát. A hulladéklerakó területén gondoskodni kell a tervnek megfelelő növényborítottságról, annak szükség szerinti pótlásáról, locsolásáról, kaszálásáról stb.
 
@@ -182,7 +182,7 @@
 
 ## 2. Eltérések a rekultivációra előírt követelményektől
 
-## 2.1.[^77] A B3 alkategóriájú hulladéklerakók esetében, amennyiben a hulladéklerakóban 10 000 m3-nél kevesebb a lerakott hulladék mennyisége, a rekultivációt a végleges záróréteg rendszer kialakításával, 1 ütemben is el lehet végezni. A környezetvédelmi hatóság ebben az esetben az összes körülmény figyelembevételével (különösen környezetszennyezés vagy jelentős környezetvédelmi kockázat hiányában) mérlegelheti a rekultivációra vonatkozó 1.2–1.8. pontokban foglalt követelmények mérséklését vagy elengedését. A 2001. előtt létesült hulladéklerakóknál ugyancsak mérlegelhető az 1.2–1.8. pontok szerinti előírások mérséklése vagy elengedése, amennyiben az átmeneti lezárás (legfeljebb 10 év) letelte után az összegyűlt monitoring adatok ezt megalapozzák.
+## 2.1.[^75] A B3 alkategóriájú hulladéklerakók esetében, amennyiben a hulladéklerakóban 10 000 m3-nél kevesebb a lerakott hulladék mennyisége, a rekultivációt a végleges záróréteg rendszer kialakításával, 1 ütemben is el lehet végezni. A környezetvédelmi hatóság ebben az esetben az összes körülmény figyelembevételével (különösen környezetszennyezés vagy jelentős környezetvédelmi kockázat hiányában) mérlegelheti a rekultivációra vonatkozó 1.2–1.8. pontokban foglalt követelmények mérséklését vagy elengedését. A 2001. előtt létesült hulladéklerakóknál ugyancsak mérlegelhető az 1.2–1.8. pontok szerinti előírások mérséklése vagy elengedése, amennyiben az átmeneti lezárás (legfeljebb 10 év) letelte után az összegyűlt monitoring adatok ezt megalapozzák.
 
 ## 2.2. Amennyiben a rekultiváció a hulladék teljes felszedésével és helyben vagy más helyen történő kezelésével mint műszaki beavatkozással valósul meg, a rekultivációs tervnek az 1.1. pontban foglalt követelményektől eltérően az alábbiakat kell tartalmaznia:
 
@@ -198,10 +198,10 @@
 
 ## f) költségszámítás, különösen a beavatkozás környezeti előnyeinek bemutatására vonatkozóan.
 
-5. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^78]
+5. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^76]
 
-[^74]: A 4. számú melléklet 1.2.1. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^75]: A 4. számú melléklet 1.3. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^76]: A 4. számú melléklet 1.8. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^77]: A 4. számú melléklet 2.1. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^78]: Az 5. számú mellékletet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^72]: A 4. számú melléklet 1.2.1. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^73]: A 4. számú melléklet 1.3. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^74]: A 4. számú melléklet 1.8. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^75]: A 4. számú melléklet 2.1. alpontja a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^76]: Az 5. számú mellékletet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.

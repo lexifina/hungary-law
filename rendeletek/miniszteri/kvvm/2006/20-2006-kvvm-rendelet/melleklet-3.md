@@ -436,7 +436,7 @@
 
 ## h) az esetleges észrevételeket.
 
-3. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^72]
+3. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^70]
 
 ## Monitoringrendszer a hulladéklerakó üzemeltetési és az utógondozási időszakában
 
@@ -608,4 +608,4 @@ c) A telephelynek rendelkeznie kell veszélyhelyzeti tervvel, valamint a fémhig
 
 A 2. számú melléklet 2.5. pontjában és a 7.1. pontban említett információkat tartalmazó valamennyi dokumentumot, beleértve a tartályt kísérő tanúsítványt, valamint a fémhigany ideiglenes tárolás utáni kitárolásáról, átadásáról, rendeltetési helyéről és tervezett kezeléséről készített feljegyzéseket is, a tárolás befejezését követően legalább három évig meg kell őrizni.
 
-[^72]: A 3. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés c) pontja, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) és e) pontja szerint módosított szöveg.
+[^70]: A 3. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés c) pontja, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) és e) pontja szerint módosított szöveg.
