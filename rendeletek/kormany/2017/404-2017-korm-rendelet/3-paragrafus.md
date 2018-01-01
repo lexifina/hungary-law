@@ -1,0 +1,3 @@
+## 2. § Az Ebtvhr. 47. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az (1) bekezdésben említett nyilatkozatot a táppénz megállapítására jogosult szerv megkeresésére a táppénzben részesülő személy kiállítja és tizenöt napon belül visszajuttatja a táppénzt megállapító szervhez. Ha a táppénzt megállapító szerv a nyilatkozatban foglaltak alapján azt állapítja meg, hogy a balesetet nem a biztosított, hanem más személy okozta, a nyilatkozatot további intézkedésre a foglalkoztató székhelye szerint illetékes kormányhivatalnak küldi meg, a baleset miatt folyósított táppénzre vonatkozó adatok közlésével együtt.”
