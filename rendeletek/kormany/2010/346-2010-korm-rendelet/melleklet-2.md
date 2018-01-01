@@ -10,6 +10,6 @@
 
 ## e) K-600/KTIR Hírközlési és Informatikai Rendszer.
 
-2. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^130]
+2. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^132]
 
-[^130]: A 2. melléklet a 169/2013. (V. 29.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^132]: A 2. melléklet a 169/2013. (V. 29.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
