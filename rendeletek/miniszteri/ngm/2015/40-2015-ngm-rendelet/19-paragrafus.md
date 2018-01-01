@@ -2,17 +2,17 @@
 
 19. § (1) A hatósági képzéssel, illetve vizsgával kapcsolatban – a vizsgaszabályzatban és az e rendeletben foglaltak megsértése esetén – a tudomásszerzéstől számított nyolc napon belül a képző szervnél benyújtandó kifogásnak van helye.
 
-(2)[^23] Az (1) bekezdés szerinti tudomásszerzés napja
+(2)[^24] Az (1) bekezdés szerinti tudomásszerzés napja
 
 a) hatósági képzéssel kapcsolatos sérelem esetén legkésőbb az a nap, amikor a képzésben részt vevő a 7. § (1) bekezdés szerinti igazolást kézhez vette,
 
 b) hatósági vizsgával kapcsolatos sérelem esetén a vizsga napja.
 
-(3)[^24]
+(3)[^25]
 
 (4) A képző szerv a kifogást – annak beérkezésétől számított nyolc napon belül – megküldi a Hatóságnak, kivéve, ha a képző szerv a kifogás tárgyát képező intézkedését visszavonja, vagy, ha a kifogásnak megfelelően jár el.
 
 (5) A Hatóság a kifogás beérkezésétől számított harminc napon belül a kifogást megvizsgálja, és annak eredményéről értesíti a kifogás előterjesztőjét.
 
-[^23]: A 19. § (2) bekezdése a 21/2016. (VI. 29.) NGM rendelet 17. §-ával megállapított szöveg.
-[^24]: A 19. § (3) bekezdését a 21/2016. (VI. 29.) NGM rendelet 23. § d) pontja hatályon kívül helyezte.
+[^24]: A 19. § (2) bekezdése a 21/2016. (VI. 29.) NGM rendelet 17. §-ával megállapított szöveg.
+[^25]: A 19. § (3) bekezdését a 21/2016. (VI. 29.) NGM rendelet 23. § d) pontja hatályon kívül helyezte.

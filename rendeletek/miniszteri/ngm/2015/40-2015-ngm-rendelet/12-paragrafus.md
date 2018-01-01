@@ -14,7 +14,7 @@ b) középfokú végzettséggel rendelkezik, és hitelintézetnél, pénzügyi v
 
 (4) Ha a Hatóság az ellenőrzése során a vizsgabiztossal szemben az e rendelet vagy a vizsgaszabályzat megsértését állapítja meg, az adott vizsgára történő vizsgabiztosi megbízását visszavonhatja.
 
-(5) Akivel szemben a Hatóság ismételt vagy súlyos jogszabálysértést, vagy a vizsgaszabályzat ismételt vagy súlyos megsértését állapítja meg, vizsgabiztosnak az ezt megállapító határozat jogerőre emelkedésétől számított öt évig nem bízható meg.
+(5)[^14] Akivel szemben a Hatóság ismételt vagy súlyos jogszabálysértést, vagy a vizsgaszabályzat ismételt vagy súlyos megsértését állapítja meg, vizsgabiztosnak az ezt megállapító határozat véglegessé válásától számított öt évig nem bízható meg.
 
 (6) Az adott vizsga lebonyolítására megbízott vizsgabiztos nem lehet olyan személy, aki a vizsgázó Polgári Törvénykönyvről szóló törvény szerinti hozzátartozója, vagy aki a vizsgázó hatósági képzésében részt vett.
 
@@ -23,3 +23,4 @@ b) középfokú végzettséggel rendelkezik, és hitelintézetnél, pénzügyi v
 [^11]: A 12. § (1) bekezdés nyitó szövegrésze a 21/2016. (VI. 29.) NGM rendelet 20. § j) pontja szerint módosított szöveg.
 [^12]: A 12. § (1a) bekezdését a 21/2016. (VI. 29.) NGM rendelet 13. § (1) bekezdése iktatta be, szövege a 21/2016. (VI. 29.) NGM rendelet 13. § (2) bekezdésével megállapított szöveg.
 [^13]: A 12. § (1b) bekezdését a 21/2016. (VI. 29.) NGM rendelet 13. § (3) bekezdése iktatta be.
+[^14]: A 12. § (5) bekezdése az 51/2017. (XII. 29.) NGM rendelet 31. §-a szerint módosított szöveg.

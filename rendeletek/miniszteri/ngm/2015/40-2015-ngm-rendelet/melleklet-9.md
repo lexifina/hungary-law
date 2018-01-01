@@ -26,6 +26,6 @@
 
 ## aláírás
 
-9. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^30]
+9. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^31]
 
-[^30]: A 9. melléklet a 21/2016. (VI. 29.) NGM rendelet 19. §-ával megállapított szöveg.
+[^31]: A 9. melléklet a 21/2016. (VI. 29.) NGM rendelet 19. §-ával megállapított szöveg.

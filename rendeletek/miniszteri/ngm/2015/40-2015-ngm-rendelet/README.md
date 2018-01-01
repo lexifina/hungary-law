@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-40-20-2
 | 2016-01-30 | 2015-40-20-2X.2 | 21/2016. (VI. 29.) NGM rendelet |
 | 2016-08-01 | 2015-40-20-2X.3 | 21/2016. (VI. 29.) NGM rendelet |
 | 2017-07-01 | 2015-40-20-2X.4 | 21/2016. (VI. 29.) NGM rendelet |
+| 2018-01-01 | 2015-40-20-2X.5 | 51/2017. (XII. 29.) NGM rendelet |
