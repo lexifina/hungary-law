@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-146-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-08-15 | 2011-146-20-22.1 | 146/2011. (VII. 27.) Korm. rendelet |
+| 2018-01-01 | 2011-146-20-22.2 | 457/2017. (XII. 28.) Korm. rendelet |
