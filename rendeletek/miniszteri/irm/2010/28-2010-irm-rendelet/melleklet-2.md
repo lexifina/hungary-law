@@ -8,17 +8,17 @@
 
 ## 3. fizetési meghagyással érvényesített követelések
 
-## 3.1. főkövetelés összeg szerint: kérelmek száma 10 ezer Ft alatt, 10 000–100 000 Ft között, 100 000 Ft–1 millió Ft között, 1 millió Ft–10 millió Ft között, 10 millió Ft felett
+## 3.1.[^28] főkövetelés összeg szerint: kérelmek száma 10 ezer Ft alatt, 10 000–100 000 Ft között, 100 000 Ft–1 millió Ft között, 1 millió Ft – 3 millió Ft között, 3 millió Ft – 10 millió Ft között, 10 millió Ft felett
 
 ## 3.2. követelés jogcíme szerint
 
-## 3.3.[^12] belföldi fizetési meghagyás kibocsátása iránt előterjesztett kérelmek száma
+## 3.3.[^29] belföldi fizetési meghagyás kibocsátása iránt előterjesztett kérelmek száma
 
 ## 4. fizetési meghagyásos eljárás befejezésének módja
 
 ## 4.1. fizetési meghagyás kibocsátása
 
-## 4.2. kérelem elutasítása
+## 4.2.[^30] kérelem visszautasítása
 
 ## 4.3. eljárás megszüntetése
 
@@ -54,10 +54,12 @@
 
 ## 13. biztosítási intézkedés elrendelése iránti ügyben előterjesztett jogorvoslatok száma
 
-## 14.[^13] törvényszéki és önálló bírósági végrehajtóknak átadott végrehajtható okiratok száma.
+## 14.[^31] törvényszéki és önálló bírósági végrehajtóknak átadott végrehajtható okiratok száma.
 
-2. melléklet a 28/2010. (V. 12.) IRM rendelethez[^14]
+2. melléklet a 28/2010. (V. 12.) IRM rendelethez[^32]
 
-[^12]: Az 1. melléklet 3. pont 3.3. alpontja a 28/2010. (XII. 31.) KIM rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^13]: Az 1. melléklet 14. pontja a 40/2011. (XII. 30.) KIM rendelet 35. §-a szerint módosított szöveg.
-[^14]: A 2. mellékletet a 43. § (1) bekezdése hatályon kívül helyezte.
+[^28]: Az 1. melléklet 3. pont 3.1. alpontja a 20/2017. (XII. 21.) IM rendelet 34. § (3) bekezdés l) pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet 3. pont 3.3. alpontja a 28/2010. (XII. 31.) KIM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^30]: Az 1. melléklet 4. pont 4.2. alpontja a 20/2017. (XII. 21.) IM rendelet 34. § (3) bekezdés m) pontja szerint módosított szöveg.
+[^31]: Az 1. melléklet 14. pontja a 40/2011. (XII. 30.) KIM rendelet 35. §-a szerint módosított szöveg.
+[^32]: A 2. mellékletet a 43. § (1) bekezdése hatályon kívül helyezte.

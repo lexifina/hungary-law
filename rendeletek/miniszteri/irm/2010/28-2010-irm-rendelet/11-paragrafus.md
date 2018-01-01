@@ -10,11 +10,11 @@ c) amely a kérelem önálló elintézését, vagy a már befejezett üggyel kap
 
 (2) Kezdőiratnak minősül különösen:
 
-a)[^3] a fizetési meghagyás kibocsátása iránti kérelem,
+a)[^7] a fizetési meghagyás kibocsátása iránti kérelem,
 
-b)[^4] a fizetési meghagyás kibocsátása iránti kérelem az eljáró közjegyzőnél, ha kizárás miatt vagy az Fmhtv. 9. § (3) bekezdése alapján a közjegyzői kamara elnöke az eljárásra más közjegyzőt jelöl ki,
+b)[^8] a fizetési meghagyás kibocsátása iránti kérelem az eljáró közjegyzőnél, ha kizárás miatt vagy az Fmhtv. 9. § (3) bekezdése alapján a közjegyzői kamara elnöke az eljárásra más közjegyzőt jelöl ki,
 
-c)[^5] a fizetési meghagyás végrehajtásának elrendelésére irányuló kérelem,
+c)[^9] a fizetési meghagyás végrehajtásának elrendelésére irányuló kérelem,
 
 d) biztosítási intézkedés elrendelése iránti kérelem,
 
@@ -28,6 +28,6 @@ f) a jogosult és a végrehajtást kérő (biztosítási intézkedést kérő) k
 
 (5) A papíralapú kezdő- és utóiratok kezelésére a Küsz. 27. § (2) és (3) bekezdését alkalmazni kell.
 
-[^3]: A 11. § (2) bekezdés a) pontja a 28/2010. (XII. 31.) KIM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^4]: A 11. § (2) bekezdés b) pontja a 28/2010. (XII. 31.) KIM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^5]: A 11. § (2) bekezdés c) pontja a 28/2010. (XII. 31.) KIM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^7]: A 11. § (2) bekezdés a) pontja a 28/2010. (XII. 31.) KIM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^8]: A 11. § (2) bekezdés b) pontja a 28/2010. (XII. 31.) KIM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^9]: A 11. § (2) bekezdés c) pontja a 28/2010. (XII. 31.) KIM rendelet 6. § (3) bekezdésével megállapított szöveg.
