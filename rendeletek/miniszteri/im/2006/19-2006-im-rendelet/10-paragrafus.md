@@ -2,12 +2,7 @@
 
 (2)[^12]
 
-(3) Az igazolvány új igazolványra történő kicserélésére hivatalból, a szakértői jogosultság külön jogszabály szerinti felülvizsgálata után kerül sor az igazolvány egyidejű bevonásával.
-
-(4)[^13] Az igazolvány cseréje érdekében a szakértő köteles a miniszter felhívására két darab, felismerésre alkalmas színes arcképet (igazolványképet) a területi igazságügyi szakértői kamara vagy a miniszter részére átadni, amely a fényképet a szakértő egyedi azonosítására alkalmas módon továbbítja a miniszter részére.
-
-(5)[^14] Az új igazolványt a miniszter a személyazonosság igazolása és az igazolvány egyidejű bevonása mellett adja át a szakértő részére. Az átvétel időpontjáról és helyéről a szakértő előzetes értesítést kap.
+(3)–(5)[^13]
 
 [^12]: A 10. § (2) bekezdését a 43/2009. (IX. 22.) IRM rendelet 37. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^13]: A 10. § (4) bekezdése a 43/2009. (IX. 22.) IRM rendelet 35. § (2) bekezdés c) és f) pontja szerint módosított szöveg. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^14]: A 10. § (5) bekezdése a 43/2009. (IX. 22.) IRM rendelet 35. § (2) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 10. § (3)–(5) bekezdését a 20/2017. (XII. 21.) IM rendelet 21. § (3) bekezdés b) pontja hatályon kívül helyezte.
