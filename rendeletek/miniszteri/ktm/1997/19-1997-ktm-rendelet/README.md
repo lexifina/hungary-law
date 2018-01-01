@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-19-20-6
 | 2015-04-01 | 1997-19-20-6D.5 | 15/2015. (III. 31.) FM rendelet |
 | 2015-11-03 | 1997-19-20-6D.6 | 66/2015. (X. 26.) FM rendelet |
 | 2017-01-01 | 1997-19-20-6D.7 | 132/2013. (XII. 23.) VM rendelet |
+| 2018-01-01 | 1997-19-20-6D.8 | 70/2017. (XII. 29.) FM rendelet |

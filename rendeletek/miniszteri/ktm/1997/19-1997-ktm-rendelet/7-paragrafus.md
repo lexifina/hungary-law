@@ -26,4 +26,6 @@ a hasznosítását természetvédelmi szervezetnél, botanikus (gyűjteményes) 
 
 (4) Abban az esetben, ha a (2)–(3) bekezdések szerinti elhelyezésre nincs lehetőség, a védett növényfaj egyede – az állam tulajdonjogának fenntartásával – magángyűjteményben is elhelyezhető.
 
-(5) Ha védett növényfaj egyedének az (1)–(4) bekezdések szerinti hasznosítására (elhelyezésére) az elkobzást kimondó határozat jogerőre emelkedésétől számított 6 hónapon belül nincs lehetőség, a további megőrzés aránytalanul magas költségekkel jár, és a hasznosítási (elhelyezési) kísérletektől a jövőben nem várható eredmény, azt meg kell semmisíteni.
+(5)[^6] Ha védett növényfaj egyedének az (1)–(4) bekezdések szerinti hasznosítására (elhelyezésére) az elkobzást kimondó határozat véglegessé válásától számított 6 hónapon belül nincs lehetőség, a további megőrzés aránytalanul magas költségekkel jár, és a hasznosítási (elhelyezési) kísérletektől a jövőben nem várható eredmény, azt meg kell semmisíteni.
+
+[^6]: A 7. § (5) bekezdése a 70/2017. (XII. 29.) FM rendelet 2. § b) pontja szerint módosított szöveg.
