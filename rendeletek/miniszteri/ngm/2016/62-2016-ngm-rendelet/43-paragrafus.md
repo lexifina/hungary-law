@@ -1,5 +1,5 @@
-## 42. §[^45]
+## 42. §[^46]
 
 ## 43. Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automaták műszaki követelményeiről, az automaták üzemeltetéséről és szervizeléséről, valamint az automatákban rögzített adatoknak az állami adó- és vámhatóság felé történő szolgáltatásáról szóló 31/2016. (IX. 2.) NGM rendelet módosítása
 
-[^45]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

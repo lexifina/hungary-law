@@ -1,5 +1,5 @@
-## 26. §[^29]
+## 26. §[^30]
 
 ## 27. A gáz csatlakozóvezetékekre, a felhasználói berendezésekre, a telephelyi vezetékekre vonatkozó műszaki biztonsági előírásokról és az ezekkel összefüggő hatósági feladatokról szóló 11/2013. (III. 21.) NGM rendelet módosítása
 
-[^29]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

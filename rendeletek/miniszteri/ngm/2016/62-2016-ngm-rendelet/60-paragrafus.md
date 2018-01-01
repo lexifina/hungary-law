@@ -2,7 +2,6 @@
 
 60. § (1)–(7)[^68]
 
-(8)[^69]
+(8) Hatályát veszti a 12/2006. EüM rendelet 4. § (3a) bekezdése.
 
 [^68]: A 60. § (1)–(7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^69]: A 60. § (8) bekezdése a 71. § (4) bekezdése alapján 2018. január 1-jén lép hatályba.

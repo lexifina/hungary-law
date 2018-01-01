@@ -1,5 +1,5 @@
-## 22. §[^25]
+## 22. §[^26]
 
 ## 23. A szállítható nyomástartó berendezések biztonsági követelményeiről és megfelelőség-tanúsításáról szóló 29/2011. (VIII. 3.) NGM rendelet módosítása
 
-[^25]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

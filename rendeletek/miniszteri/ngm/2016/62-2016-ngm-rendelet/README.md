@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-62-20-2
 | 2017-01-30 | 2016-62-20-2X.4 | 2010: CXXX. törvény |
 | 2017-04-01 | 2016-62-20-2X.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-04-02 | 2016-62-20-2X.6 | 2010: CXXX. törvény |
+| 2018-01-01 | 2016-62-20-2X.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
