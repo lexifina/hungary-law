@@ -2,7 +2,7 @@
 
 36. § (1) A hegyközségi tanács borvidéki rendtartást alkot.
 
-(2) A borvidéki rendtartás a borvidék borszőlő termőhelyi kataszterbe sorolt területre kiterjedő hatállyal érvényes.
+(2) A borvidéki rendtartás a borvidék borszőlő termőhelyi kataszterbe sorolt területre és a borvidék területén működő borászati üzemekre kiterjedő hatállyal érvényes.
 
 (3) Az elfogadott borvidéki rendtartást meg kell küldeni a Hegyközségek Nemzeti Tanácsának, amely kifogást emelhet a rendtartás ellen, ha az törvénysértő, ellentétes a Hegyközségek Nemzeti Tanácsának a rendtartás megküldéséig elfogadott határozataival, vagy nyilvánvalóan szakszerűtlen rendelkezést tartalmaz. A hegyközségi tanácsnak a kifogásolt rendelkezést újra kell tárgyalnia. A borvidéki rendtartást – kifogás híján – a Hegyközségek Nemzeti Tanácsának történő megküldését követő harminc nap elteltével közzé kell tenni.
 

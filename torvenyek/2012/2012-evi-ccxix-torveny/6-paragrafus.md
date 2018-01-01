@@ -30,7 +30,21 @@ illeti meg azzal, hogy egy tag az összes szavazat legfeljebb tíz százalékát
 
 (7) Ha e törvény vagy az alapszabály másként nem rendelkezik a közgyűlés a határozatait a jelenlévő tagokat megillető szavazatok szerint megállapított egyszerű szavazattöbbséggel hozza.
 
-(8) A hegyközségi tanács szőlészeti szekciójába tartozó küldöttet a szőlészeti termelők választják meg, a hegyközségi tanács borászati szekciójába tartozó küldöttet a borászati termelők választják meg.
+(8) A hegyközségi tanács szőlészeti szekciójába tartozó küldöttet a szőlészeti termelők választják meg, a hegyközségi tanács borászati szekciójába tartozó küldöttet a borászati termelők választják meg maguk közül.
+
+(8a) Nem választható szőlészeti küldötté az a tag, akire a választás időpontját megelőző utolsó három lezárt borpiaci év bármelyikében teljesül, hogy
+
+a) ő maga,
+
+b) olyan gazdasági társaság, amelynek vezető tisztségviselője,
+
+c) saját vagy közeli hozzátartozója összesen legalább 25%-os tulajdonában álló gazdasági társaság,
+
+d) közeli hozzátartozója
+
+– az a)–d) pontban meghatározottak közötti tranzakciókat nem számolva – összességében legalább fele akkora mennyiségű szőlőt vásárolt fel, mint amennyit megtermelt.
+
+(8b) A (8a) bekezdésben foglaltaknak megfelelést az ellenőrző bizottság igazolja a hegybíró adatszolgáltatása alapján.
 
 (9) A határozathozatal és a tisztségviselők választásának rendjét az alapszabályban kell meghatározni.
 

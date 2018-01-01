@@ -30,6 +30,6 @@ c) szőlészeti és borászati felvásárló esetében a felvásárolt szőlő, 
 
 (3b) A szőlészeti termelőnek nem kell hegyközségi járulékot fizetni azon megtermelt szőlőmennyiség után, amelyet borászati termelő hegyközségi tag, vagy szőlészeti és borászati felvásárló részére értékesített.
 
-(4) A hegyközségi járulékot a tag az adózás szempontjából költségként számolhatja el. Meg nem fizetés esetén a járulékot – a hegyközség javára – adók módjára kell behajtani.
+(4) A hegyközségi járulékot a tag az adózás szempontjából költségként számolhatja el.
 
 (5) Adományt, valamint más vagyoni előnyt csak olyan személytől lehet elfogadni, aki a hegyközség tevékenységében nem érdekelt.

@@ -10,4 +10,4 @@ d) a borvidéket érintő közéleti eseményekkel
 
 kapcsolatos feladatok ellátása.
 
-(2) A szőlészeti és a borászati szekció a tagjai közül megválasztja a Hegyközségek Nemzeti Tanácsába szekciónként delegált egy-egy küldöttet. Amennyiben a borvidéken csak egy hegyközség működik a Hegyközségek Nemzeti Tanácsába delegált egy-egy küldöttet a 6. § (8) bekezdése szerint kell megválasztani.
+(2) A szőlészeti szekció a tagjai közül megválasztja a Hegyközségek Nemzeti Tanácsába delegált szőlész küldöttet. A borászati szekció a tagjai közül megválasztja a Hegyközségek Nemzeti Tanácsába delegált borász küldöttet. Amennyiben a borvidéken csak egy hegyközség működik a Hegyközségek Nemzeti Tanácsába delegált egy-egy küldöttet a 6. § (8)–(8b) bekezdése szerint kell megválasztani.

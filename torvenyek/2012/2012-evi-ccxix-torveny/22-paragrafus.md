@@ -6,7 +6,7 @@
 
 22. § (1) A hegyközségek borvidékenként hegyközségi tanácsot alakítanak. Amennyiben egy borvidéken csak egy hegyközség alakul meg, a hegyközségi tanácsot nem kell létrehozni, illetve a hegyközségi tanács megszűnik, és a hegyközségi tanácsi feladatokat a hegyközség látja el.
 
-(2) A hegyközségi tanács tagjai a 6. § (8) bekezdésében foglaltak alapján megválasztott küldöttek.
+(2) A hegyközségi tanács tagjai a 6. § (8)–(8b) bekezdésében foglaltak alapján megválasztott küldöttek.
 
 (3) A küldöttek a hegyközségi tanácsban szőlészeti és borászati szekciót alakítanak.
 

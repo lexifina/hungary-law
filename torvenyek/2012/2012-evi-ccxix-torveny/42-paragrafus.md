@@ -1,6 +1,6 @@
 ## 25. Közigazgatási hatósági ügyekkel kapcsolatos szabályok
 
-42. § (1) A hegybírónak és a Hegyközségek Nemzeti Tanácsának közigazgatási hatósági ügyekben való eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+42. § (1) A hegybírónak és a Hegyközségek Nemzeti Tanácsának közigazgatási hatósági ügyekben való eljárására az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) A hegybíró határozata ellen a Hegyközségek Nemzeti Tanácsához lehet fellebbezni.
 
@@ -11,3 +11,5 @@ a) hegyközségnél a hegybíró,
 b) a Hegyközségek Nemzeti Tanácsánál a főtitkár
 
 jár el.
+
+(4) A hegyközségi rendtartást közhírré tétel útján is közölni kell.
