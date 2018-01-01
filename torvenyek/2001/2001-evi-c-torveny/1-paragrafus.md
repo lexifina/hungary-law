@@ -16,4 +16,4 @@
 
 (4) E törvényt kell alkalmazni a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítványok kiállítása során is.
 
-(5) E törvényt akkor kell alkalmazni, ha nemzetközi szerződés eltérően nem rendelkezik. Az elismerési és honosítási eljárás során a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(5) E törvényt akkor kell alkalmazni, ha nemzetközi szerződés eltérően nem rendelkezik. Az elismerési és honosítási eljárás során az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezéseit kell alkalmazni.

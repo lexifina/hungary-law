@@ -1,6 +1,6 @@
 9. § (1) Az eljáró hatóság húsz napon belül hiánypótlásra hívja fel a kérelmezőt, ha a kérelmet nem a jogszabályoknak megfelelően nyújtotta be.
 
-(2) Az eljáró hatóság a II. és III. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított negyvenöt napon belül, a IV. és V. Fejezet, valamint a VII–IX/B. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított két hónapon belül dönt. A IX. Fejezet szerinti eljárás határideje nem hosszabbítható meg.
+(2) Az eljáró hatóság a II. és III. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított negyvenöt napon belül, a IV. és V. Fejezet, valamint a VII–IX/B. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított hetvenöt napon belül dönt.
 
 (3) Az eljáró hatóság a XI. és a XI/A. Fejezet szerinti eljárásban egy hónapon belül dönt. Ha a kérelem célja olyan európai szakmai kártya létrehozása, amellyel előzetes ellenőrzés alá nem tartozó határon átnyúló szolgáltatást kíván nyújtani a kérelmező, az eljáró hatóság huszonegy napon belül dönt.
 
@@ -10,4 +10,4 @@
 
 (6) Ha a kérelmező európai szakmai kártya igénybevételével kéri a képesítése VIII–IX/B. Fejezet szerinti elismerését, az eljáró hatóság a (2) bekezdéstől eltérően a kérelem megérkezését követő naptól számított huszonegy napon belül dönt.
 
-(7) Az eljáró hatóságnak az (5) és a (6) bekezdés szerinti eljárási határidejébe beszámít a nemzetközi jogsegély időtartama, ha az eljáró hatóság a kérelmet megalapozó dokumentum vagy dokumentumok hiteles másolatát kérte a származási tagállam illetékes hatóságától.
+(7)

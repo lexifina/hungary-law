@@ -2,7 +2,11 @@
 
 ## AZ ELJÁRÁS DÍJA
 
-64. § (1)–(3)
+64. § (1) Az alkalmassági és a szakmai vizsga lebonyolításáért az oktatási intézmény a kérelmező által fizetendő költségtérítést szabhat meg, amely azonban nem haladhatja meg – a tárgyak számától függetlenül – a 150 000 forintot.
+
+(2) Nem kell a kérelmezőnek eljárási díjat fizetnie, ha az európai szakmai kártya birtokosaként a belső piaci információs rendszerben tárolt adatainak kijavítását, kiegészítését, törlését vagy zárolását kéri az eljáró hatóságtól.
+
+(3)
 
 (3a)
 

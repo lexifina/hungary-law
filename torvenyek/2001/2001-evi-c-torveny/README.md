@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-100-00-00
 | 2016-09-30 | 2016. évi XXXIX. törvény | 2001-100-00-00.29 |
 | 2016-11-30 | 2016. évi CXXVI. törvény | 2001-100-00-00.30 |
 | 2017-01-01 | 2016. évi LXVII. törvény | 2001-100-00-00.31 |
+| 2018-01-01 | 2017. évi L. törvény | 2001-100-00-00.32 |

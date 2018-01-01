@@ -1,6 +1,6 @@
 55. § (1) A külön jogszabályban meghatározott, riasztási mechanizmusban közreműködő hatóság tájékoztatja a többi tagállam illetékes hatóságát azon személyről, akit a hazai hatóság vagy bíróság a külön jogszabályban meghatározott képesítéssel gyakorolható szakma gyakorlásától eltiltott, vagy akinek a szakmagyakorlási jogát felfüggesztette.
 
-(2) A riasztási mechanizmusban közreműködő hatóság a szakma gyakorlásától eltiltó vagy a szakmagyakorlási jogot felfüggesztő döntés jogerőre emelkedésétől, vagy ha a döntés fellebbezésre tekintet nélkül végrehajtható, a döntés közlésétől számított három napon belül a belső piaci információs rendszeren keresztül tájékoztatást ad a többi tagállam illetékes hatóságának a döntésről.
+(2) A riasztási mechanizmusban közreműködő hatóság a szakma gyakorlásától eltiltó vagy a szakmagyakorlási jogot felfüggesztő döntés jogerőre emelkedésétől illetve véglegessé válásától, vagy ha a döntés fellebbezésre tekintet nélkül illetve azonnal végrehajtható, a döntés közlésétől számított három napon belül a belső piaci információs rendszeren keresztül tájékoztatást ad a többi tagállam illetékes hatóságának a döntésről.
 
 (3) A (2) bekezdés szerinti tájékoztatás a következő adatokat tartalmazza:
 

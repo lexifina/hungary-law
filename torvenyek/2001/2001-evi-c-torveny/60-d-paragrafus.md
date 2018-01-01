@@ -6,7 +6,7 @@
 
 a) engedélyhez vagy más feltételhez kötött tevékenység folytatása esetén az érintett személy rendelkezik-e a szükséges engedéllyel, feltételekkel, vagy
 
-b) a kérelmező nem áll-e az adott szakma gyakorlását megtiltó vagy az adott szakma gyakorlását meghatározott ideig vagy mértékben korlátozó jogerős hatósági határozat vagy jogszabályban kötelezően előírt valamely szervezethez tartozás esetén az ilyen szervezet által kiszabott jogerős fegyelmi büntetés hatálya alatt.
+b) a kérelmező nem áll-e az adott szakma gyakorlását megtiltó vagy az adott szakma gyakorlását meghatározott ideig vagy mértékben korlátozó végleges hatósági határozat vagy jogszabályban kötelezően előírt valamely szervezethez tartozás esetén az ilyen szervezet által kiszabott végleges fegyelmi büntetés hatálya alatt.
 
 (4) Az eljáró hatóság a (2) és a (3) bekezdés alapján, valamint a szakmai tevékenység ellenőrzése céljából általa kezelt más adatokból levont következtetéseiről és az ezeket megalapozó adatokról a másik EGT-állam illetékes hatóságát a megkeresésben feltett kérdésekre válaszolva, az ahhoz szükséges körben és mértékben tájékoztatja.
 

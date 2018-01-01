@@ -6,6 +6,8 @@ b) állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magy
 
 c) határozza meg az elismerési és honosítási eljárásban a kérelemmel benyújtandó dokumentumok körét, e dokumentumok hiteles fordítására és hiteles másolatára vonatkozó szabályokat, a külföldön kiállított okiratok felhasználására, a nemzetközi jogsegélyre vonatkozó szabályokat,
 
+d) közzétegye az 53/A. § (1) bekezdése szerinti szakmai tevékenységek felsorolását, kijelölje azt a hatóságot, amelynek feladatkörébe tartozik a Magyarországon folytatott, mérgező termékek kereskedelmére, forgalmazására vagy felhasználására vonatkozó szakmai gyakorlatról vagy jogosultságról szóló igazolás kiállítása, megállapítsa a mérgező termékekkel kapcsolatos szakmai tevékenységek szakmai gyakorlaton alapuló elismerésének részletes eljárási szabályait.
+
 (2) Felhatalmazást kap az oktatásért felelős miniszter, hogy rendeletben hirdesse ki
 
 a) az adópolitikáért felelős miniszterrel egyetértésben a külföldi bizonyítványok és oklevelek elismeréséhez és honosításához, az oklevelekről és bizonyítványokról szóló hatósági bizonyítványok kiállításához kapcsolódó igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
@@ -34,13 +36,7 @@ c) az építésügyért felelős miniszter, hogy rendeletben hirdesse ki az okle
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter és a környezetvédelemért felelős miniszter egyetértésével kiadott rendeletben meghatározza az 53/A. § (5) bekezdése szerinti nagyon mérgező termékek, illetve irtószerek körét.
 
-(6) Felhatalmazást kap az egészségügyért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter, hogy hatáskörében – a nagyon mérgező termékek vonatkozásában a kereskedelemért felelős miniszterrel egyetértésben –
-
-a) rendeletben közzétegye az 53/A. § (1) bekezdésének a) és b) pontja szerinti szakmai tevékenységek felsorolását,
-
-b) kijelölje azt a hatóságot, amelynek feladatkörébe tartozik a Magyarországon folytatott, mérgező termékek kereskedelmére, forgalmazására vagy felhasználására vonatkozó szakmai gyakorlatról vagy jogosultságról szóló igazolás kiállítása,
-
-c) megállapítsa a mérgező termékekkel kapcsolatos szakmai tevékenységek szakmai gyakorlaton alapuló elismerésének részletes eljárási szabályait.
+(6)
 
 (7) Az oktatásért felelős miniszter – az érintett miniszterek közreműködésével – elkészíti és a Magyar Közlönyben rendszeresen közzéteszi a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését tartalmazó jegyzéket, továbbá gondoskodik annak interneten való hozzáférhetőségéről. A szabályozott szakmára vonatkozó jogszabály módosulása esetén az érintett miniszter kezdeményezi az oktatásért felelős miniszternél a jegyzék módosítását. A miniszter tájékoztatja az Európai Bizottságot a hatáskörébe tartozó szabályozott szakmákról, a szabályozott szakmákhoz tartozó szabályozott szakmai tevékenységekről, a szakma szabályozottságának indokairól, valamint az előzetes ellenőrzés alá tartozó szakmákról és ennek indokairól.
 
