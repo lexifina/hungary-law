@@ -1,10 +1,10 @@
-## 1. § Az ügyvédekről szóló 1998. évi XI. törvény 89/A. §-ának (1) bekezdése szerinti európai közösségi jogászok a Magyar Köztársaság területén ügyvédi tevékenység folytatására a mellékletben meghatározott szakmai megnevezések alatt jogosultak.
+## 1. §[^1] Az ügyvédi tevékenységről szóló törvény szerinti európai közösségi jogászok, valamint alkalmazott európai közösségi jogászok Magyarország területén ügyvédi tevékenység folytatására a Mellékletben meghatározott szakmai megnevezések alatt jogosultak.
 
 2. § (1) Ez a rendelet 2007. július 1-jén lép hatályba.
 
-(2)[^1] E rendeletnek az európai közösségi jogászok szakmai megnevezéseiről szóló 18/2007. (III. 19.) IRM rendelet módosításáról szóló 27/2013. (XI. 6.) KIM rendelet 1. mellékletével megállapított rendelkezéseit 2013. július 1-jétől kell alkalmazni.
+(2)[^2] E rendeletnek az európai közösségi jogászok szakmai megnevezéseiről szóló 18/2007. (III. 19.) IRM rendelet módosításáról szóló 27/2013. (XI. 6.) KIM rendelet 1. mellékletével megállapított rendelkezéseit 2013. július 1-jétől kell alkalmazni.
 
-(3)[^2] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+(3)[^3] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) az ügyvédi hivatásnak a képesítés megszerzése országától eltérő tagállamokban történő folyamatos gyakorlásának elősegítéséről szóló, 1998. február 16-i 98/5/EK európai parlamenti és tanácsi irányelv,
 
@@ -12,7 +12,7 @@ b) az ügyvédi szolgáltatásnyújtás szabadsága tényleges gyakorlásának e
 
 c) a letelepedés és a szolgáltatásnyújtás szabadsága területén elfogadott egyes irányelveknek a Horvát Köztársaság csatlakozására tekintettel történő kiigazításáról szóló, 2013. május 13-i 2013/25/EU tanácsi irányelv.
 
-Melléklet a 18/2007. (III. 19.) IRM rendelethez[^3]
+Melléklet a 18/2007. (III. 19.) IRM rendelethez[^4]
 
 Országok és szakmai megnevezések
 
@@ -78,6 +78,7 @@ Országok és szakmai megnevezések
 
 | 31. | Szlovénia | Odvetnik/Odvetnica |
 
-[^1]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 19. pontja hatályon kívül helyezte, újonnan a 27/2013. (XI. 6.) KIM rendelet 1. §-a iktatta be.
-[^2]: A 2. § (3) bekezdését a 27/2013. (XI. 6.) KIM rendelet 1. §-a iktatta be.
-[^3]: A melléklet a 27/2013. (XI. 6.) KIM rendelet 2. §-ával megállapított szöveg.
+[^1]: Az 1. § a 20/2017. (XII. 21.) IM rendelet 24. §-ával megállapított szöveg.
+[^2]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 19. pontja hatályon kívül helyezte, újonnan a 27/2013. (XI. 6.) KIM rendelet 1. §-a iktatta be.
+[^3]: A 2. § (3) bekezdését a 27/2013. (XI. 6.) KIM rendelet 1. §-a iktatta be.
+[^4]: A melléklet a 27/2013. (XI. 6.) KIM rendelet 2. §-ával megállapított szöveg.
