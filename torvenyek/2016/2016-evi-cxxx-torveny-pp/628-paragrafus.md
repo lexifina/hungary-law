@@ -20,7 +20,7 @@ e) az elővezetés végrehajtásával felmerült költség mértékére, megtér
 
 f) – az informatikáért felelős miniszterrel egyetértésben, az Országos Bírósági Hivatal elnöke véleményének kikérésével –a tárgyalás (meghallgatás) elektronikus hírközlő hálózat útján történő megtartására,
 
-g) a polgári peres eljárásban használt elektronikus beadványok űrlapjának tartalmi és formai kellékeire, az űrlaphoz csatolható mellékletekre, valamint az űrlapok közzétételének módjára,
+g) a polgári peres eljárásban kötelezően alkalmazandó nyomtatványokra,
 
 h) a bíróságokkal történő elektronikus kapcsolattartásra és az elektronikus bírósági iratkezelésre,
 

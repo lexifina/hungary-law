@@ -4,13 +4,13 @@
 
 a) a kiállító az okiratot saját kezűleg írta és aláírta,
 
-b) két tanú igazolja, hogy az okirat aláírója a részben vagy egészben nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el; az igazoláshoz az okiraton mindkét tanú elhelyezi az aláírását, továbbá saját kezűleg, olvashatóan feltünteti a nevét és lakóhelyét, ennek hiányában tartózkodási helyét,
+b) két tanú igazolja, hogy az okirat aláírója a részben vagy egészben nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el; igazolásként az okiratot mindkét tanú aláírja, továbbá az okiraton a tanúk nevét és lakóhelyét – ennek hiányában tartózkodási helyét – olvashatóan is fel kell tüntetni,
 
 c) az okirat aláírójának aláírását vagy kézjegyét az okiraton bíró vagy közjegyző hitelesíti,
 
 d) az okiratot a jogi személy képviseletére jogosult személy a rá vonatkozó szabályok szerint megfelelően aláírja,
 
-e) ügyvéd vagy jogtanácsos az általa készített okirat szabályszerű ellenjegyzésével bizonyítja, hogy az okirat aláírója a más által írt okiratot előtte írta alá vagy aláírását előtte saját kezű aláírásának ismerte el,
+e) ügyvéd vagy kamarai jogtanácsos az általa készített okirat szabályszerű ellenjegyzésével bizonyítja, hogy az okirat aláírója a más által írt okiratot előtte írta alá vagy aláírását előtte saját kezű aláírásának ismerte el,
 
 f) az elektronikus okiraton az aláíró a minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírását vagy bélyegzőjét helyezte el, és – amennyiben jogszabály úgy rendelkezik – azon időbélyegzőt helyez el,
 

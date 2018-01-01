@@ -24,4 +24,4 @@ d) annak kiegészítése az ellenfél magánszakértői véleményével szemben 
 
 e) közte és az ellenfél magánszakértői véleménye között szakkérdésben ellentét áll fenn, és az a)–d) pontban foglalt okok egyik magánszakértői vélemény tekintetében sem állnak fenn.
 
-(3) A kizárt vagy a kirendelés alól felmentett szakértő szakvéleménye, az aggályos magánszakértői vélemény vagy kirendelt szakértőtől származó szakvélemény, valamint a jelen fejezetben foglalt rendelkezések megsértésével benyújtott magánszakértői vélemény vagy más eljárásban kirendelt szakértőtől származó szakvélemény a perben bizonyítékként nem vehető figyelembe.
+(3) A kizárt vagy a kirendelés alól felmentett szakértő szakvéleménye, az aggályos magánszakértői vélemény vagy kirendelt szakértőtől származó szakvélemény, valamint törvény rendelkezése ellenére vagy a jelen fejezetben foglalt rendelkezések megsértésével benyújtott magánszakértői vélemény vagy más eljárásban kirendelt szakértőtől származó szakvélemény a perben bizonyítékként nem vehető figyelembe.

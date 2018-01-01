@@ -4,7 +4,7 @@
 
 a) a perre magyar bíróság joghatósága – törvény, az Európai Unió kötelező jogi aktusa, nemzetközi egyezmény alapján – kizárt, vagy külföldi bíróság rendelkezik kizárólagos joghatósággal,
 
-b) az igény elbírálása más hatóság – ideértve a büntető vagy szabálysértési ügyben eljáró bíróságot és a választottbíróságot is – hatáskörébe tartozik vagy polgári nemperes bírósági eljárásban érvényesíthető,
+b) az igény elbírálása más hatóság – ideértve a büntető vagy szabálysértési ügyben eljáró bíróságot is – hatáskörébe tartozik vagy polgári nemperes bírósági eljárásban érvényesíthető,
 
 c) a pert törvényben meghatározott más hatósági vagy egyéb eljárásnak, illetve a 24. § (3) bekezdése szerinti eljárásnak kell megelőznie,
 

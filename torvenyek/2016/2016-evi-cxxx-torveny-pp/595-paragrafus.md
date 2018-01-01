@@ -21,3 +21,5 @@ c) a felperesnek az alperes által elismert követelése, vagy a belföldi ingat
 (6) Ha az (5) bekezdésben meghatározott körülmények utóbb lényegesen módosulnak, a bíróság bármelyik fél kérelmére – az ellenfél meghallgatása után – a biztosíték összegét módosítja. Ennek során az (5) bekezdésben foglaltaknak megfelelően jár el vagy elrendeli a letétbe helyezett összeg meghatározott részének visszafizetését. A visszafizetést elrendelő végzés ellen külön fellebbezésnek van helye.
 
 (7) Ha a biztosíték adásának oka a per folyamán megszűnik, a bíróság a felperes kérelmére – az alperes meghallgatása után – elrendeli a letétbe helyezett teljes összeg visszafizetését. E végzés ellen külön fellebbezésnek van helye.
+
+(8) A biztosíték adása iránti kérelmet visszautasító vagy elutasító végzés ellen az alperes külön fellebbezéssel élhet.

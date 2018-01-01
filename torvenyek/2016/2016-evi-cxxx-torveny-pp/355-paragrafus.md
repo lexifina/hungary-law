@@ -6,7 +6,7 @@
 
 (3) A kiegészítés iránti kérelem az ítélet közlésétől számított tizenöt nap alatt terjeszthető elő. A kiegészítés iránt határozott kérelmet kell előterjeszteni, és abban meg kell jelölni, hogy a kiegészítésnek milyen okból és mennyiben van helye. A kérelemnek az ítélet elleni fellebbezés beadására és az ítélet végrehajtására nincs halasztó hatálya, a bíróság azonban az ítélet végrehajtását a kiegészítési kérelem elintézéséig hivatalból is felfüggesztheti.
 
-(4) A bíróság visszautasítja a kiegészítés iránti kérelmet, ha az elkésett vagy az ítéletnek olyan részére irányul, amely vonatkozásában nincs helye kiegészítésnek. A végzés ellen külön fellebbezésnek van helye.
+(4) A bíróság visszautasítja a kiegészítés iránti kérelmet, ha az elkésett vagy az ítéletnek olyan részére irányul, amely vonatkozásában nincs helye kiegészítésnek. A kiegészítés iránti kérelem visszautasítása tárgyában hozott végzés ellen külön fellebbezésnek van helye.
 
 (5) A bíróság az ítélet kiegészítéséről tárgyalás alapján határoz, kivéve, ha
 

@@ -14,7 +14,7 @@ c) az illeték vagy az állam által előlegezett költség az eljárást befeje
 
 a meg nem fizetett illeték és az állam által előlegezett költség megfizetéséről a bíróság külön határozatban rendelkezik, amely ellen külön fellebbezésnek van helye.
 
-(3) A bíróság az eljárást befejező határozatában – a díj összegének meghatározása nélkül, az állam által előlegezett költség megfizetésére vonatkozó szabályok alkalmazásával – megállapítja, hogy a pártfogó ügyvédi díj viselésére melyik fél köteles. Az elsőfokon eljárt bíróság a jogerős határozatról a következő – eljárási szakaszonként megállapított – adatok közlésével nyolc napon belül értesíti a jogi segítségnyújtó szolgálatot:
+(3) A bíróság az eljárást befejező vagy az eljárás megszűnését megállapító határozatában – a díj összegének meghatározása nélkül, az állam által előlegezett költség megfizetésére vonatkozó szabályok alkalmazásával – megállapítja, hogy a pártfogó ügyvédi díj viselésére melyik fél köteles. Az elsőfokon eljárt bíróság a jogerős határozatról a következő – eljárási szakaszonként megállapított – adatok közlésével nyolc napon belül értesíti a jogi segítségnyújtó szolgálatot:
 
 a) a felek neve,
 

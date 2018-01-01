@@ -8,4 +8,6 @@ b) csak részben teljesíti illetékfizetési kötelezettségét, illetve a kere
 
 (2) Ha a felperes a járásbíróság hatáskörébe tartozó perben jogi képviselő nélkül jár el, az (1) bekezdés b) pontjában meghatározott esetben, valamint ha a keresetet tartalmazó iratot nem jogszabály szerinti nyomtatványon terjeszti elő, az eljárás megszüntetésének csak akkor van helye, ha a bíróság tizenöt napos határidővel – a mulasztás következményére történő figyelmeztetés mellett – a felperest hiánypótlásra felhívta és az eredménytelenül eltelt.
 
-(3) Az (1) és (2) bekezdés szerinti végzés ellen külön fellebbezésnek van helye.
+(3) Ha keresetlevéllel indult per esetében a 176. § (1) bekezdés a)–i) pontjában vagy (2) bekezdés a)–c) pontjában foglalt valamely ok miatt a keresetlevél visszautasításának lenne helye, a 255. § (1) bekezdésében meghatározott per esetében az eljárást hivatalból meg kell szüntetni.
+
+(4) Az (1)–(3) bekezdés szerinti végzés ellen külön fellebbezésnek van helye.

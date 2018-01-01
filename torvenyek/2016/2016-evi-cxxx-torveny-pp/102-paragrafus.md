@@ -10,4 +10,4 @@
 
 (5) Az alperes a részére kirendelt ügygondnok eljárása miatt meg nem fizetett illeték és állam által előlegezett költség megfizetésére nem köteles.
 
-(6) Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés rendelkezése szerinti költség, a költségkedvezmény folytán, továbbá a (3)–(5) bekezdés szerint meg nem térülő költség és illeték az állam terhén marad.
+(6) Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés rendelkezése szerinti költség, a költségkedvezmény folytán, továbbá az (1)–(5) bekezdés szerint meg nem térülő költség és illeték az állam terhén marad.

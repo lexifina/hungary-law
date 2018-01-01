@@ -1,6 +1,6 @@
 ### 104. § [Az ideiglenes intézkedés elbírálása]
 
-(1) Az ideiglenes intézkedés iránti kérelem tárgyában a bíróság a keresetlevél perfelvételre való alkalmassága esetén intézkedik. Az ideiglenes intézkedés elbírálása során a bíróság az intézkedéseit haladéktalanul, de legkésőbb nyolc napon belül teszi meg.
+(1) Az ideiglenes intézkedés iránti kérelem tárgyában a bíróság a keresetlevél perfelvételre való alkalmassága esetén intézkedik. Az ideiglenes intézkedés elbírálása során a bíróság soron kívül jár el, az intézkedéseit haladéktalanul, de legkésőbb nyolc napon belül teszi meg.
 
 (2) Az ideiglenes intézkedés iránti kérelem elbírálása során a bíróságnak mérlegelnie kell, hogy az intézkedés elrendelése – figyelemmel az esetleges biztosítékadásra is – nem okoz-e súlyosabb hátrányt a kérelmező ellenfelének, mint annak elmaradása a kérelmezőnek.
 

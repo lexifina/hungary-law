@@ -6,6 +6,6 @@
 
 (3) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) a meghatalmazásra vonatkozó jognyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban történő rögzítésével érvényes.
 
-(4) Az ügyvéd és a jogtanácsos meghatalmazásának igazolásáról jogszabály eltérően rendelkezhet.
+(4) Az ügyvéd és a kamarai jogtanácsos meghatalmazásának igazolásáról jogszabály eltérően rendelkezhet.
 
 (5) Az idegen nyelven kiállított meghatalmazás hiteles magyar fordítását csak akkor kell bemutatni, ha ezt a bíróság szükségesnek tartja.

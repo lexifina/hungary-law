@@ -4,9 +4,9 @@
 
 a) az ügyvédet és az ügyvédi irodát,
 
-b) a jogtanácsost, azokban a perekben, amelyekben jogszabály a képviseletre feljogosítja,
+b) a kamarai jogtanácsost, az ügyvédi tevékenységről szóló törvényben meghatározott körben,
 
-c) a jogi személy bíróság képviseletére jogosult bírót,
+c) a jogi személy bíróság képviseletére jogosult bírót és bírósági titkárt,
 
 d) a Legfőbb Ügyészség képviseletére jogosult ügyészt, valamint
 
@@ -20,6 +20,6 @@ b) az ügyész abban a perben, amelynek megindítására törvény jogosítja fe
 
 jogi képviselő nélkül is eljárhat, őt úgy kell tekinteni, mintha jogi képviselővel járna el.
 
-(3) Ügyvédjelölt és jogi előadó a jogi képviseletre kötelezett fél nevében kizárólag az iratok megtekintése, azokról másolat kérése vagy készítése érdekében járhat el.
+(3) Ügyvédjelölt és ügyvédi kamarai nyilvántartásba vett jogi előadó (a továbbiakban: jogi előadó) a jogi képviseletre kötelezett fél nevében kizárólag az iratok megtekintése, azokról másolat kérése vagy készítése érdekében járhat el.
 
 (4) A (2) bekezdés a) pontjában foglaltak alkalmazása esetén a jogi szakvizsgával rendelkező félnek a jogi szakvizsga megszerzését igazoló okiratot, az azzal egyenértékű okiratot vagy ezek hiteles másolatát azon eljárási szakaszban történő első jelentkezésekor kell a bíróságnak bemutatnia vagy a beadványához csatolnia, amelyben a jogi képviselet a fél számára kötelező. Ha a jogi szakvizsga megszerzését igazoló okiratot, az azzal egyenértékű okiratot vagy ezek hiteles másolatát a bíróságnak bemutatták, ennek tényét elegendő a jegyzőkönyvben rögzíteni, azt az iratokhoz nem kell csatolni.
