@@ -32,6 +32,8 @@ d) a szabályozott szolgáltatásokkal kapcsolatos igényeik a repülőtéren.
 
 (4) A repülőtér üzemben tartója a Díjszabályzat kiadását követően évente legalább egyszer konzultál a repülőtér használóival, kivéve, ha az érintett felek a legutolsó konzultáció alkalmával ettől eltérően állapodtak meg. A konzultációk gyakoriságát a Díjszabályzatban kell meghatározni.
 
-(5) A légiközlekedési hatóság felszólítására a repülőtér üzemben tartója a (4) bekezdésben foglaltakon túl további konzultációt folytat a repülőtér használóival.
+(5)[^1]
 
 (6) A repülőtér üzemben tartója a díjtételekre vagy a szabályozott szolgáltatásokra hatással lévő új infrastrukturális beruházásaira vonatkozó terveinek véglegesítése előtt is konzultációt folytat a repülőtér használóival.
+
+[^1]: Az 5. § (5) bekezdését az 55/2017. (XII. 27.) NFM rendelet 51. § a) pontja hatályon kívül helyezte.

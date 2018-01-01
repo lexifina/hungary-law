@@ -8,4 +8,6 @@
 
 (4) Amennyiben a repülőtér üzemben tartójánál az utaskiszolgálás, a repülési tevékenység vagy az infrastruktúra biztosítása területén a repülőtér üzemben tartója által nyújtott szolgáltatások bármelyike „jóval átlag alattinak” minősül, a repülőtér üzemben tartójának a Felmérés megjelenését követő három hónapon belül – tájékoztató jelleggel – korrekciós intézkedési tervet kell benyújtania a légiközlekedési hatósághoz.
 
-(5) A Díjszabályzat vagy a Díjszabályzat módosításának jóváhagyását a légiközlekedési hatóság megtagadja, ha a repülőtér üzemben tartója az (1) bekezdésben a megbízott piackutató cég vonatkozásában előírt követelmények teljesülését a légiközlekedési hatóság felhívására teljes bizonyító erejű magánokirattal vagy közokirattal nem bizonyítja.
+(5)[^6]
+
+[^6]: A 18. § (5) bekezdését az 55/2017. (XII. 27.) NFM rendelet 51. § d) pontja hatályon kívül helyezte.

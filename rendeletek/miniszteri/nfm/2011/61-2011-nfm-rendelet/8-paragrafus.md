@@ -8,7 +8,7 @@ b) amely – a légitársaságok (1) bekezdésben foglalt támogatása hiányáb
 
 (2) Az (1) bekezdés b) pontjában említett alapértelmezett árplafon bármikor helyettesíthető a légitársaságok által az (1) bekezdés a) pontja szerint támogatott értékkel.
 
-(3) A légiközlekedési hatóság a repülőtér üzemben tartója által a Díjszabályzattal egyidejűleg az alapértelmezett árplafontól eltérő árplafont is jóváhagyhat. Ebben az esetben a Díjszabályzat elbírálása során a légiközlekedési hatóság a csak a szabályozott szolgáltatások után szedett bevételekre vonatkozó, ún. „kétkasszás” módszer alkalmazása mellett az alábbi tényezőket veszi figyelembe:
+(3)[^2] A Díjszabályzat elbírálása során a légiközlekedési hatóság a csak a szabályozott szolgáltatások után szedett bevételekre vonatkozó, ún. „kétkasszás” módszer alkalmazása mellett az alábbi tényezőket veszi figyelembe:
 
 a) a szabályozott szolgáltatásokhoz felhasznált tőke és a működési költségek szabályozott és szabályozatlan szolgáltatások közötti megoszlása,
 
@@ -30,6 +30,7 @@ i) a jövőbeni díjmódosítások iránt a légitársaságok részéről megnyi
 
 j) a belgrádi, a bécsi, a pozsonyi és a prágai nemzetközi repülőtereken megfigyelhető, egy gépmozgásra eső összes költség, figyelembe véve a szolgáltatás színvonalát is.
 
-(4) A Díjszabályzatnak az 5. § szerinti konzultáció keretében kialakult megállapodást kell tartalmaznia.
+(4)–(5)[^3]
 
-(5) Amennyiben a repülőtér üzemben tartója és a repülőtér használói között nem jön létre a (4) bekezdés szerinti megállapodás, a repülőtér üzemben tartójának a repülőtér használóinak véleményére figyelemmel meg kell indokolnia Díjszabályzatát. Az indoklás vizsgálata során a légiközlekedési hatóság konzultál az érintett felekkel, amelyek a légiközlekedési hatóság kérésére megadnak a döntéshez szükséges valamennyi információt.
+[^2]: A 8. § (3) bekezdés nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 48. §-ával megállapított szöveg.
+[^3]: A 8. § (4)–(5) bekezdését az 55/2017. (XII. 27.) NFM rendelet 51. § b) pontja hatályon kívül helyezte.

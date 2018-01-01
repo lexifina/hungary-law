@@ -8,4 +8,6 @@ b) a Díjszabályzat vagy az árplafon forgalomhoz kapcsolódó módosítását 
 
 (2) Az (1) bekezdésben meghatározott esetben – az eljárás rövidítéséről szóló indoklás megadásával – a repülőtér üzemben tartója az árplafon vagy a Díjszabályzat módosításának érvénybe lépése előtt kevesebb, mint négy hónappal is kezdeményezheti a konzultáció lefolytatását.
 
-(3) A konzultációt ebben az esetben is a Díjszabályzat módosítása vagy az árplafon felülvizsgálata iránti kérelem benyújtását megelőzően kell lefolytatni, és a repülőtér használók módosítással kapcsolatos álláspontját a kérelemhez mellékelni kell. A légiközlekedési hatóság a repülőtér használók álláspontját figyelembe veheti, azonban azok egyetértése a Díjszabályzat vagy az árplafon módosítására vonatkozó kérelem elfogadásának nem feltétele.
+(3)[^4] A konzultációt a Díjszabályzat módosítása vagy az árplafon felülvizsgálata iránti kérelem benyújtását megelőzően kell lefolytatni, és a repülőtér használók módosítással kapcsolatos álláspontját a kérelemhez mellékelni kell.
+
+[^4]: A 13. § (3) bekezdése az 55/2017. (XII. 27.) NFM rendelet 49. §-ával megállapított szöveg.
