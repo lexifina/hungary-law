@@ -1,3 +1,1 @@
-60. § (1) Ha az illeték előzetes megfizetése a félnek jövedelmi és vagyoni viszonyaival arányban nem álló megterhelést jelentene, mentesíteni lehet az illeték előzetes megfizetése alól, különösen, ha a lerovandó illeték a fél és a házastársa, valamint vele egy háztartásban élő, általa eltartott gyermekei előző adóévben elért egy főre eső adóköteles jövedelme 25%-át meghaladja.
-
-(2) Illetékfeljegyzési jog illeti meg az ügygondnokot és a gyámhatóság által kirendelt eseti gondnokot, valamint azt a felet, akinek érdekében az őt megillető igény érvényesítése céljából az ügyész, vagy az erre jogosult szervezet indított pert.
+60. §

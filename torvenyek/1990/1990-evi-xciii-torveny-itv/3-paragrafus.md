@@ -18,7 +18,7 @@ a) a szerződés megkötése napján,
 
 b) árverési vétel esetében az árverés napján,
 
-c) ingatlannak, ingónak, vagyoni értékű jognak bírósági, hatósági határozattal történő megszerzése esetén a határozat jogerőre emelkedése napján,
+c) ingatlannak, ingónak, vagyoni értékű jognak bírósági, hatósági határozattal történő megszerzése esetén a határozat jogerőre emelkedése, véglegessé válása napján,
 
 d) az a)—c) pontban nem említett esetekben a vagyonszerzéskor
 

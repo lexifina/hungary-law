@@ -4,7 +4,7 @@
 
 Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltározás során meghallgatott örököst a leltározásra jogosult szerv figyelmeztetni köteles. A figyelmeztetés megtörténtét az eljárás során az iraton fel kell tüntetni.
 
-(2) Ha a hagyatéki kimutatásban bejegyzett adatok a köztudomással vagy az állami adóhatóság tudomásával ellentétesek, az állami adóhatóság jogosult azokat felülvizsgálni és ezzel kapcsolatban ellenőrzést végezni. Erre az adózás rendjéről szóló törvény rendelkezései az irányadók.
+(2) Ha a hagyatéki kimutatásban bejegyzett adatok a köztudomással vagy az állami adóhatóság tudomásával ellentétesek, az állami adóhatóság jogosult azokat felülvizsgálni és ezzel kapcsolatban ellenőrzést végezni. Erre az adóigazgatási rendtartásról szóló törvény rendelkezései az irányadók.
 
 (3) Ha a hagyatéki eljárást sem hivatalból, sem kérelemre nem kell megindítani, a közjegyző a hozzá beterjesztett hagyatéki kimutatást az illetékes állami adóhatóságnak továbbítja.
 

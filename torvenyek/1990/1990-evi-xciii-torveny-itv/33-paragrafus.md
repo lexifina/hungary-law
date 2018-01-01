@@ -42,7 +42,7 @@ d)
 
 14. a munkaviszony, szövetkezeti tagsági viszony létesítéséhez, igazolásához szükséges irat ;
 
-15. foglalkoztatáspolitika körébe tartozó juttatások (munkanélküli segély, járadék, átképzési támogatás stb.) , a korhatár előtti ellátás, a szolgálati járandóság, a táncművészeti életjáradék és az átmeneti bányászjáradék igénybevételével, nyugdíjazással kapcsolatos eljárások és az eljáráshoz szükséges iratok;
+15. foglalkoztatáspolitika körébe tartozó juttatások (munkanélküli segély, járadék, átképzési támogatás stb.) , a korhatár előtti ellátás, a szolgálati járandóság, a táncművészeti életjáradék és az átmeneti bányászjáradék igénybevételével, nyugdíjazással, nyugdíjfolyósítással kapcsolatos eljárások és az eljáráshoz szükséges iratok;
 
 16. a kitüntetés adományozásával, viselésének engedélyezésével kapcsolatos eljárás;
 
@@ -132,9 +132,9 @@ d)
 
 59. a közérdekű önkéntes tevékenységről szóló törvény alapján a fogadó szervek bejelentésére és nyilvántartásba vételére irányuló eljárás, a nyilvántartásba vett adatok változásának bejelentésére irányuló eljárás és a közérdekű önkénteseket foglalkoztató szervezetek nyilvántartásából való törlésére irányuló eljárás;
 
-60. a lakáscélú állami támogatás igényléséhez szükséges, a fennálló biztosítási jogviszonyt igazoló egészségbiztosítási pénztári hatósági bizonyítvány kiállítása évente két alkalommal;
+60. a lakáscélú állami támogatás igénylésével kapcsolatos hatósági eljárások;
 
-61. közműpótló talajvízkút létesítésének, átalakításának, megszüntetésének engedélyezése;
+61.
 
 62. hatósági bizonyítvány kiállítása az egyéni vállalkozók nyilvántartásában szereplő adatokról;
 
@@ -148,6 +148,10 @@ d)
 
 67. a termőföld birtokösszevonási célú telekcsoport-újraosztására és telekegyesítésére irányuló telekalakítási eljárás;
 
-68. a családi név korrekciójára irányuló eljárás.
+68. a családi név korrekciójára irányuló eljárás;
+
+69. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti belső szabályzat jóváhagyására irányuló eljárás;
+
+71. az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott támogatás megállapítására irányuló hatósági eljárás.
 
 (3) A 18. életévét be nem töltött személy mentesül a 29. § (1) bekezdés szerinti illeték megfizetése alól.

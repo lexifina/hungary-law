@@ -12,9 +12,9 @@
 
 (2) Az illetékkötelezettség akkor is fennáll, ha a hatóság
 
-a) a kérelemnek részben vagy egészben helyt ad, vagy azt elutasítja, ide nem értve az érdemi vizsgálat nélkül történő elutasítást;
+a) a kérelemnek részben vagy egészben helyt ad, vagy azt elutasítja;
 
-b) az eljárást megszünteti, ide nem értve az illeték meg nem fizetése címén történő megszüntetést, valamint ha az eljárás megszüntetésének oka az, hogy a kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, vagy az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, és törvény nem biztosít lehetőséget az eljárás felfüggesztésére;
+b) az eljárást megszünteti, ide nem értve az illeték meg nem fizetése címén történő megszüntetést, valamint ha az eljárás megszüntetésének oka az, hogy a kérelem visszautasításának lett volna helye, vagy az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, és törvény nem biztosít lehetőséget az eljárás felfüggesztésére;
 
 c) az eljárást egyezséget jóváhagyó határozattal zárja le.
 

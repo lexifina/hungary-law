@@ -10,9 +10,9 @@
 
 (1d) Az (1b) bekezdés szerinti bevallás, továbbá az önellenőrzéssel módosított, javított bevallás (a továbbiakban együtt: bevallás) tartalmáról az állami adóhatóság legkésőbb annak beérkezésétől számított 8. munkanapon papír alapú igazolást küld az eljárást kezdeményező fél (vagy képviselője) és az eljáró bíróság részére, amennyiben az állami adóhatóság az eljárást kezdeményező fél adószámláján nem tart nyilván 5000 forintot meghaladó önadózással teljesítendő bírósági eljárási illetéktartozást. Az igazolás tartalmazza a bevallott illeték összegét, az állami adóhatóság által kiadott ügyszámot, valamint a bevallásban szereplő valamennyi adatot. Az eljárást kezdeményező fél az eredeti igazolást az eljárást kezdeményező irathoz köteles csatolni.
 
-(2) Ha az illeték megfizetését a kötelezett felhívás ellenére elmulasztotta, de a beadványt nem utasították el, a meg nem fizetett illetéket a mulasztási bírsággal együtt lelet alapján az állami adóhatóság előírja.
+(2) Ha az illeték megfizetését a kötelezett felhívás ellenére elmulasztotta, de a beadványt nem utasították vissza, a meg nem fizetett illetéket a mulasztási bírsággal együtt lelet alapján az állami adóhatóság előírja.
 
-(3) Az illetékfeljegyzési jog engedélyezésére és megvonására, valamint az eljárás kezdeményezésekor meg nem fizetett illeték, illetve a cégbírósági felügyeleti illeték viselésére, nyilvántartására és a megfizetésével kapcsolatos bírósági intézkedésekre az e törvényben nem rendezett kérdésekben a költségmentességről szóló jogszabályok rendelkezései az irányadóak.
+(3) Az eljárás kezdeményezésekor meg nem fizetett illeték, illetve a cégbírósági felügyeleti illeték viselésére, nyilvántartására és a megfizetésével kapcsolatos bírósági intézkedésekre az e törvényben nem rendezett kérdésekben a költségkedvezményekről szóló jogszabályok rendelkezései az irányadóak.
 
 (4) A választottbírósági eljárásban az illetéket a megállapított költségekkel együtt kell megfizetni és azt az eljárás befejezésekor az eljárt választottbíróság utalja át az állami adóhatóságnak.
 

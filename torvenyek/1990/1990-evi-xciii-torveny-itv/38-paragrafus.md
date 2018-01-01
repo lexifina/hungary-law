@@ -5,3 +5,5 @@
 (2) Több kötelezett esetén — ha az érvényesített jog nem osztható meg, vagy az érdekeltség aránya egyébként nem állapítható meg — a kötelezettek egyetemlegesen, egyébként az érdekeltség arányában kötelesek az illetéket megfizetni.
 
 (3) Ha az eljárást nem a jogosult, hanem ennek nevében és érdekében az arra feljogosított indítja, a kötelezettség azt terheli, akinek érdekében az eljárás indul.
+
+(4) Nem köteles az illeték előzetes megfizetésére az ügygondnok, a gyámhatóság által kirendelt eseti gondnok és eseti gyám, valamint az a fél, akinek érdekében az őt megillető igény érvényesítése céljából az ügyész, vagy az erre jogosult személy vagy szervezet pert indított.

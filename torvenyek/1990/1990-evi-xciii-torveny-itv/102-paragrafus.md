@@ -26,7 +26,7 @@ lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy 
 
 g) értékpapírnak olyan okirat vagy – jogszabályban megjelölt – más módon rögzített, nyilvántartott és továbbított adat tekinthető, amely jogszabályban meghatározott kellékekkel rendelkezik és kiállítását (kibocsátását), illetve ebben a formában történő megjelenítését jogszabály lehetővé teszi;
 
-h) gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó;
+h) gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó, továbbá az ezeknek megfelelő külföldi jogalany;
 
 i) gépjármű: az olyan közúti szállító- vagy vontatóeszköz – a mezőgazdasági vontató, az önjáró vagy vontatott munkagép, a lassú jármű és a segédmotoros kerékpár kivételével –, amelyet beépített erőgép hajt és nyilvántartásba vételét jogszabály írja elő;
 
@@ -66,7 +66,7 @@ t) vállalkozói vagyon: minden olyan üzleti célt szolgáló ingatlan (termőf
 
 v) alapítvány (közalapítvány): magánszemély, jogi személy által tartós közérdekű célra alapított, az alapítvány székhelye szerint illetékes törvényszék által nyilvántartásba vett szervezet;
 
-w) közigazgatási hatósági eljárás: a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti hatósági ügy, a Polgári Törvénykönyv szerinti eredeti birtokállapot helyreállítására vagy a birtokállapot zavarásának megszüntetésére irányuló eljárás, valamint minden olyan eljárás, amelyre a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései irányadók, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentés.
+w) közigazgatási hatósági eljárás: az az eljárás, amelynek intézése során a hatóság döntésével az ügyfél jogát vagy kötelezettségét megállapítja, jogvitáját eldönti, jogsértését megállapítja, tényt, állapotot, adatot igazol vagy nyilvántartást vezet, illetve az ezeket érintő döntését érvényesíti, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentés;
 
 z) cég: a cégnyilvánosságról, a bírósági eljárásról és a végelszámolásról szóló 2006. évi V. törvény 2. §-ában meghatározott jogalany.
 

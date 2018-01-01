@@ -8,7 +8,7 @@
 
 (3) A fizetendő díj mértékét úgy kell megállapítani, hogy az az adott eljárással kapcsolatban az eljáró hatóságnál felmerülő és másra át nem hárítható valamennyi költségre fedezetet biztosítson. Változó költségigényű eljárások (szolgáltatások) esetében a díj összegét átalány jelleggel kell meghatározni.
 
-(3a) A hatósági eljárásért fizetendő díjat megállapító jogszabály – az egyéb eljárási költségek tételes megjelölésével – rendelkezhet úgy, hogy a díj mértékébe egyes, a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti eljárási költségek beleszámítanak. A hatósági eljárásért fizetendő díjat megállapító jogszabály – a díj összegének átalányjelleggel való megállapítása mellett – rendelkezhet úgy, hogy a díjba valamennyi, a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti eljárási költség beleszámít.
+(3a) A hatósági eljárásért fizetendő díjat megállapító jogszabály – az egyéb eljárási költségek tételes megjelölésével – rendelkezhet úgy, hogy a díj mértékébe egyes eljárási költségek beleszámítanak. A hatósági eljárásért fizetendő díjat megállapító jogszabály – a díj összegének átalányjelleggel való megállapítása mellett – rendelkezhet úgy, hogy a díjba valamennyi eljárási költség beleszámít.
 
 (3b) A díj összegének alapjául szolgáló költségszámítást a szakmai tevékenység irányításáért felelős miniszter az általa vezetett minisztérium, valamint az eljáró hatóság a saját honlapján közzéteszi.
 

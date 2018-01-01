@@ -20,9 +20,9 @@ i) mindazokban a bírósági eljárásokban, ahol az eljárás illetékmentes, v
 
 j) a hatóság visszatéríti a természetes személy ügyfél által lerótt illetéket, ha számára az eljárás során költségmentességet engedélyez, vagy ha hatásköre az ügy elbírálása alatt megszűnt, és az ügy elbírálására nincs hatáskörrel rendelkező más hatóság;
 
-k) ha a hatóság a kérelmet érdemi vizsgálat nélkül utasítja el, vagy ha az eljárás megszüntetésének oka az, hogy
+k) ha a hatóság a kérelmet visszautasítja, vagy ha az eljárás megszüntetésének oka az, hogy
 
-ka) a kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, vagy
+ka) a kérelem visszautasításának lett volna helye, vagy
 
 kb) az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, és törvény nem biztosít lehetőséget az eljárás felfüggesztésére;
 

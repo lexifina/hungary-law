@@ -1,37 +1,35 @@
 ## Mérsékelt illeték
 
-58. § (1) Az illeték a peres eljárás illetékének 10%-a
+58. § (1) Az illeték a peres eljárás illetékének 10%-a, ha
 
-a) ha a felperes keresetétől legkésőbb az első tárgyaláson eláll;
+a) a perfelvételt lezáró végzés meghozataláig – közigazgatási perben legkésőbb az első tárgyalásig, tárgyaláson kívüli elbírálás esetén az ítélet meghozatala előtt –
 
-b) ha az első tárgyaláson a per szünetelésére kerül sor, és a per e szünetelés folytán megszűnik;
+aa) a felperes eláll a keresetétől;
 
-c) ha az alperes a követelést az első tárgyaláson azonnal elismeri, vagy az első tárgyalás előtt a követelést teljesíti;
+ab) az eljárás szünetel, és az eljárás e szünetelés folytán megszűnik;
 
-d) ha a felek az első tárgyaláson egyezséget kötnek;
+ac) az alperes a követelést elismeri vagy a követelést teljesíti;
 
-e) ha a felek a per megszüntetését az első tárgyaláson közösen kérik.
+ad) a felek egyezséget kötnek;
 
-f) ha a bíróság az eljárást megindító beadványt idézés kibocsátása – nemperes eljárás esetén érdemi vizsgálat, cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása – nélkül, hivatalból elutasítja, vagy a pert a Pp. 157. §-a a) pontja alapján megszünteti.
+ae) a felek az eljárás megszüntetését közösen kérik;
 
-(2) Az illeték a peres eljárás illetékének 30%-a, ha az első tárgyalást követően az eljárás szüneteléssel vagy a felperes keresetétől való elállása folytán szűnik meg, illetőleg a per megszüntetését a felek közösen kérik.
+b) a bíróság az eljárást megindító beadványt visszautasítja – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélkül visszautasítja –, vagy az eljárást az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt, a Pp. 259. §-ában foglalt okokból, vagy azért szünteti meg, mert az eljárást megindító beadvány visszautasításának lett volna helye.
 
-(3) Az illeték a peres eljárás illetékének 50%-a, ha az egyezségkötésre az első tárgyalást követően kerül sor. Ha a felek az első tárgyalást követően külön törvényben szabályozott közvetítői eljárásban vettek részt, és ezt követően a bíróság az egyezséget jóváhagyja, az egyébként fizetendő peres eljárás illetékek 50%-ának a közvetítő általános forgalmi adóval növelt díjával, de legfeljebb 50 000 forinttal csökkentett összegét kell megfizetni, feltéve ha a közvetítői eljárást törvény nem zárja ki; a fizetendő illeték mértéke azonban ebben az esetben sem lehet kevesebb a peres eljárás illetékének 30%-ánál.
+(2) Az (1) bekezdés b) pontja szerinti esetben a megfizetett illeték mérsékelt összegén felüli része beszámít a keresetlevél előterjesztése és a perindítás joghatásainak a fenntartására irányadó szabályoknak megfelelően, ismételten benyújtott kérelem folytán keletkező eljárás illetékébe.
 
-(4) Ha a per szünetelés folytán szűnik meg, a bíróság az eljárást kezdeményező felet kötelezi az illeték megfizetésére.
+(3) Az illeték a peres eljárás illetékének 30%-a, ha a perfelvételt lezáró végzés meghozatalát – közigazgatási perben az első tárgyalást – követően az eljárás szüneteléssel vagy a felperes keresetétől való elállása folytán szűnik meg, illetve az eljárás megszüntetését a felek közösen kérik.
 
-(5) Az (1) bekezdés a) pontjának rendelkezését a nemperes eljárásokban megfelelően alkalmazni kell, ha a kérelemtől való elállásra a bíróság érdemi határozatának meghozatala előtt kerül sor. A 42. § (1) bekezdésének c) pontjában említett eljárásoknál, valamint a fizetési meghagyásos eljárást követően indult peres eljárásban [42. § (2) bek. 2. mondat] – amennyiben ennek feltételei egyébként fennállnak – a mérséklési kötelezettség csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.
+(4) Az illeték a peres eljárás illetékének 50%-a, ha a felek a perfelvételt lezáró végzés meghozatalát – közigazgatási perben az első tárgyalást – követően egyezséget kötnek. Ha a felek a perfelvételt lezáró végzés meghozatalát – közigazgatási perben az első tárgyalást – követően törvényben szabályozott közvetítői eljárásban vettek részt, és ezt követően a bíróság az egyezséget jóváhagyja, az egyébként fizetendő peres eljárás illetéke 50%-ának a közvetítő általános forgalmi adóval növelt díjával, de legfeljebb 50 000 forinttal csökkentett összegét kell megfizetni, feltéve, hogy a közvetítői eljárást törvény nem zárja ki; a fizetendő illeték mértéke azonban ebben az esetben sem lehet kevesebb a peres eljárás illetékének 30%-ánál.
 
-(6) A büntető eljárásban érvényesített polgári jogi igény illetékére az (1)—(2) bekezdés rendelkezéseit megfelelően alkalmazni kell.
+(5) Ha az illeték mérséklésének az oka a fellebbezési eljárásban vagy a felülvizsgálati eljárásban merül fel, a mérsékelt illeték kedvezménye csak a fellebbezési vagy a felülvizsgálati eljárás illetékére terjed ki.
 
-(7) A polgári és büntető fellebbezési eljárás, illetve felülvizsgálati eljárás illetékének a 10%-át kell megfizetni, ha a fellebbezést vagy a felülvizsgálati kérelmet az annak elbírálására jogosult bíróság tárgyalásának megkezdése előtt visszavonják, vagy a kérelem visszavonására a tárgyaláson kívüli elbírálás időpontjáig kerül sor.
+(6) Az (1) bekezdés b) pontja esetében a bíróság az eljárást kezdeményező felet kötelezi az illeték megfizetésére.
 
-(8) A csatlakozó fellebbezés illetékére a (2), (3) és (7) bekezdés rendelkezéseit kell megfelelően alkalmazni. Ha a fellebbező fél a fellebbezést a tárgyalás megkezdése után vonja vissza, a csatlakozó fellebbezést előterjesztő az eljárási illetéknek csak a 10%-át köteles megfizetni.
+(7) Az (1) bekezdés a) pont aa) alpontjának rendelkezését a nemperes eljárásban, továbbá az egyéb közigazgatási bírósági eljárásban megfelelően alkalmazni kell, ha a fél a bíróság érdemi határozatának meghozatala előtt áll el a kérelmétől. A fizetési meghagyásos eljárást követően indult peres eljárásban [42. § (2) bekezdés] – amennyiben ennek feltételei egyébként fennállnak – a mérsékelt illeték kedvezménye csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.
 
-(9) Ha a felek a polgári eljárást megelőzően külön törvényben szabályozott közvetítői eljárásban vettek részt, az eljárás illetékének a közvetítő általános forgalmi adóval növelt – az illetékfizetésre kötelezett fél által viselt – díjával, de legfeljebb 50 000 forinttal csökkentett összegét, de legalább az egyébként fizetendő illeték 50%-át kell megfizetni. Nem jár illetékkedvezmény, ha
+(8) A büntető eljárásban érvényesített polgári jogi igény illetékére az (1)–(5) bekezdés rendelkezéseit megfelelően alkalmazni kell.
 
-a) a közvetítői eljárást törvény kizárja, vagy
+(9) A fellebbezési eljárás, illetve felülvizsgálati eljárás illetékének a 10%-át kell megfizetni, ha a fellebbezést vagy a felülvizsgálati kérelmet az annak elbírálására jogosult bíróság tárgyalásának megkezdése előtt visszavonják, vagy a kérelem visszavonására a tárgyaláson kívüli elbírálás időpontjáig kerül sor.
 
-b) a közvetítői eljárásban létrejött megállapodás ellenére a megállapodással rendezett jogvita tárgyában a felek bármelyike bírósághoz fordul, kivéve ha a per tárgya kizárólag a megállapodásban foglaltak érvényesítése.
-
-(10) Az eljárási illeték az egyébként fizetendő illeték 50%-a, ha a polgári pert – akár közjegyző, akár bíróság előtt lefolytatott – előzetes bizonyítási eljárás előzte meg.
+(10) A csatlakozó fellebbezés illetékére a (3), (4) és (9) bekezdés rendelkezéseit kell megfelelően alkalmazni. Ha a fellebbező fél a fellebbezést a tárgyalás megkezdése után vonja vissza, a csatlakozó fellebbezést előterjesztő az eljárási illetéknek csak a 10%-át köteles megfizetni.

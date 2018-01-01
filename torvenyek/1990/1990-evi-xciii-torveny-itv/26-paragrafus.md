@@ -20,7 +20,7 @@ d) az állami tulajdonban lévő természetvédelmi terület kezelői jogának a
 
 e) állami vagyon vagyonkezelői jogának megszerzése;
 
-f) a vállalkozó által értékesítés céljára újonnan épített, építtetett – ideértve az ingatlan-nyilvántartásban nem lakóház vagy lakás megnevezéssel nyilvántartott és ténylegesen sem lakás céljára használt épület átalakításával, továbbá a lakóépület bővítésével (pl. tetőtér-beépítéssel) létesített – 15 millió forintot meg nem haladó forgalmi értékű új lakás tulajdonjogának, ilyen lakás tulajdoni hányadának megvásárlása. Amennyiben az új lakás forgalmi értéke nem haladja meg a 30 millió forintot és a vagyonszerző másik lakástulajdon eladását nem igazolja, akkor a megállapított illetékből nem kell megfizetni azt az összeget, amely akkor járna, ha a lakás forgalmi értéke 15 millió forint lenne. Ilyen lakás tulajdoni hányada esetén a kedvezmény a 15 millió forintnak a szerzett tulajdoni hányaddal arányos részére illeti meg a vagyonszerzőt,
+f) a vállalkozó által értékesítés céljára újonnan épített, építtetett – ideértve az ingatlan-nyilvántartásban nem lakóház vagy lakás megnevezéssel nyilvántartott és ténylegesen sem lakás céljára használt épület átalakításával, továbbá a lakóépület bővítésével (pl. tetőtér-beépítéssel) létesített – 15 millió forintot meg nem haladó forgalmi értékű új lakás tulajdonjogának, ilyen lakás tulajdoni hányadának megvásárlása. Amennyiben az új lakás forgalmi értéke vagy a 21. § (1) bekezdés szerinti csökkentett értéke nem haladja meg a 30 millió forintot és a vagyonszerző másik lakástulajdon eladását nem igazolja, akkor a megállapított illetékből nem kell megfizetni azt az összeget, amely akkor járna, ha a lakás forgalmi értéke 15 millió forint lenne. Ilyen lakás tulajdoni hányada esetén a kedvezmény a 15 millió forintnak a szerzett tulajdoni hányaddal arányos részére illeti meg a vagyonszerzőt,
 
 g) a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett átalakulás keretében történő vagyonszerzés;
 
@@ -38,7 +38,7 @@ m) a helyi önkormányzat vagy az állam tulajdonában álló lakás tulajdonjog
 
 n) a birtokösszevonási célú földcsere keretében létrejött megállapodáson alapuló termőföldtulajdon szerzése, valamint ehhez kapcsolódóan haszonélvezet, használat jogának alapítása, abban az esetben, ha az elcserélt földrészletet azonos jogosult javára haszonélvezet, használat joga terhelte;
 
-o) az ügyvédi iroda olyan átalakulással (egyesülés,szétválás) bekövetkező vagyonszerzése, amikor a létrejövő iroda (irodák) a korábbinak jogutódja(i) lesz(nek);
+o) az ügyvédi iroda olyan átalakulással (egyesülés, szétválás), kamarai formaváltással bekövetkező vagyonszerzése, amikor a létrejövő iroda (irodák) a korábbinak jogutódja(i) lesz(nek);
 
 p) a termőföldnek a földműves általi, ellenérték fejében történő megszerzése, feltéve, ha a birtokbaadástól, de legkésőbb az illetékkötelezettség keletkezését követő 12. hónap utolsó napjától – vagyoni értékű joggal terhelt termőföld szerzése esetén a vagyoni értékű jog megszűnésétől, megszüntetésétől, de legkésőbb az illetékkötelezettség keletkezését követő 5. év utolsó napjától – számítva 5 évig
 
@@ -72,7 +72,7 @@ w) a gépjárműadóról szóló törvény szerinti környezetkímélő gépkocs
 
 x) az ingatlannak a futamidő végén tulajdonjog átszállást eredményező lízingszerződés keretében történő megszerzése, ha az ingatlan a lízingszerződés megkötéséig a lízingbevevő tulajdona volt, és a tulajdonjog a lízingszerződés megkötése érdekében került a lízingbeadónak átadásra;
 
-y) a lakástulajdon magánszemély általi cseréje és vásárlása, ha a magánszemély a másik lakástulajdonát a vásárlást megelőző vagy azt követő egy éven belül eladja, és a szerzett lakástulajdon forgalmi értéke az elcserélt, eladott lakástulajdon forgalmi értékénél kisebb;
+y) a lakástulajdon magánszemély általi cseréje és vásárlása, ha a magánszemély a másik lakástulajdonát a vásárlást megelőző három éven belül vagy a vásárlást követő egy éven belül eladja, és a szerzett lakástulajdon forgalmi értéke az elcserélt, eladott lakástulajdon forgalmi értékénél kisebb;
 
 z) a vagyonszerzés, ha
 
@@ -98,11 +98,11 @@ e) a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
-a) a határidő elteltét követő 15 napon belüli megkeresésére az illetékes építésügyi hatóság arról tájékoztatja, hogy a határidőn belül – a vagyonszerző nevére szóló – jogerős használatbavételi engedélyt adott ki, illetve a használatbavételt tudomásul vette; vagy
+a) a határidő elteltét követő 15 napon belüli megkeresésére az illetékes építésügyi hatóság arról tájékoztatja, hogy a határidőn belül – a vagyonszerző nevére szóló – jogerős vagy végleges használatbavételi engedélyt adott ki, illetve a használatbavételt tudomásul vette; vagy
 
-b) a vagyonszerző a lakóház felépítését az illetékes építésügyi hatóság által határidőn belül kiadott – a vagyonszerző nevére szóló – jogerős használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+b) a vagyonszerző a lakóház felépítését az illetékes építésügyi hatóság által határidőn belül kiadott – a vagyonszerző nevére szóló – jogerős vagy végleges használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
 
-Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerző nevére – kiadott használatbavételi engedély a határidőn belül nem emelkedett jogerőre, az állami adóhatóság a felfüggesztett illetéket akkor törli, ha a használatbavételi engedély a határidő lejártát követően változatlan tartalommal – ide nem értve a kijavítással érintett részeket – jogerőre emelkedik, és az építésügyi hatóság a használatbavételi engedély kiadására irányuló hatósági eljárás jogerős befejezéséről az állami adóhatóságot külön értesíti. Az építésügyi hatóság az értesítéssel egyidejűleg közli, hogy a jogerős használatbavételi engedély – a kijavítással érintett részeket figyelmen kívül hagyva – tartalmában megegyezik-e a határidő lejárta előtt kiadott használatbavételi engedéllyel.
+Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerző nevére – kiadott használatbavételi engedély a határidőn belül nem emelkedett jogerőre vagy nem vált véglegessé, az állami adóhatóság a felfüggesztett illetéket akkor törli, ha a használatbavételi engedély a határidő lejártát követően változatlan tartalommal – ide nem értve a kijavítással érintett részeket – jogerőre emelkedik vagy véglegessé válik, és az építésügyi hatóság erről a tényről az állami adóhatóságot külön értesíti. Az építésügyi hatóság az értesítéssel egyidejűleg közli, hogy a jogerős vagy végleges használatbavételi engedély – a kijavítással érintett részeket figyelmen kívül hagyva – tartalmában megegyezik-e a határidő lejárta előtt kiadott használatbavételi engedéllyel.
 
 (2b) Amennyiben a vagyonszerző több telket vásárolt, és mindegyik esetében vállalta lakóház felépítését, majd a telkeket utóbb egyesíttette, az illetéket az adóhatóság akkor törli, ha az új telek esetén a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Ellenkező esetben valamennyi telek után meg kell fizetni az illetéket és a késedelmi pótlék összegét is. Ha a vagyonszerző a megszerzett telket utóbb megosztja, az adóhatóság a felfüggesztett illetékből csak azt az illetéket törli, amely arra a megosztás során létrejött telekre esik, amelyen a lakóház felépült, feltéve, hogy a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Az illeték fennmaradó részét késedelmi pótlékkal növelt összegben kell megfizetni.
 
@@ -110,7 +110,7 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 (2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása, egyesülése, szétválása vagy magánszemély vagyonszerző halála esetén a lakóház felépítését az ingatlant megszerző jogutód, örökös is teljesítheti. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
 
-(2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
+(2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős vagy végleges használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
 
 (2f) Ha a magánszemély vagyonszerző a természetes személyek adósságrendezéséről szóló törvény rendelkezései szerint bíróságon kívüli vagy bírósági adósságrendezést kezdeményezett, és az említett eljárások időszaka alatt a lakóház építésére alkalmas telektulajdont értékesítik, akkor a 87. § (2) bekezdése nem alkalmazható, továbbá – ha a telektulajdont megszerző vevő nyilatkozik arról, hogy a megszerzett telek után az (1) bekezdés a) pontja szerinti mentességet igénybe kívánja venni vagy a telektulajdont megszerzőnek a telekre elővásárlási joga van – az említett eljárások alá vont magánszemélynek a (2a) bekezdés szerint felfüggesztett illetéket nem kell megfizetni.
 
@@ -190,7 +190,15 @@ d) a vagyonszerző vagy a vagyonszerző közeli hozzátartozója a mezőgazdasá
 
 az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet vagy közeli hozzátartozó által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.
 
-(19) Az (1) bekezdés y) pontja szerinti illetékmentesség alkalmazása során, ha a magánszemély egy éven belül több lakástulajdont cserél, vásárol, illetve értékesít, minden egyes lakáscserével, lakásvásárlással szemben – a szerzést közvetlenül megelőző vagy követő, azonos jogcímű – egyetlen értékesítést lehet figyelembe venni. Az (1) bekezdés y) pontja szerinti illetékmentesség, valamint e bekezdés alkalmazása során nem minősül tehernek a lakástulajdonhoz kapcsolódó haszonélvezet, használat joga. Az (1) bekezdés y) pontjában meghatározott illetékmentességi rendelkezést lakástulajdonhoz kapcsolódó vagyoni értékű jog magánszemélyek általi megszerzésekor megfelelően kell alkalmazni.
+(19) Az (1) bekezdés y) pontja szerinti illetékmentességet:
+
+a) ha a magánszemély a vásárlást megelőző három éven belül vagy a vásárlást követő egy éven belül több lakástulajdont cserél, vásárol, illetve értékesít, akként kell alkalmazni, hogy minden egyes lakáscserével, lakásvásárlással szemben – a szerzést közvetlenül megelőző vagy követő, azonos jogcímű – egyetlen értékesítést lehet figyelembe venni,
+
+b) a lakástulajdonhoz kapcsolódó vagyoni értékű jog magánszemélyek általi megszerzésekor is megfelelően alkalmazni kell,
+
+c) a 21. § (5) bekezdésében foglaltak figyelembevételével kell alkalmazni,
+
+azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkalmazásában nem minősül tehernek a lakástulajdonhoz kapcsolódó haszonélvezet, használat joga.
 
 (20) Az (1) bekezdés g), h), q) és t) pontja szerinti mentesség a 17. § (4) bekezdésében említett feltételek fennállásakor vehető igénybe.
 

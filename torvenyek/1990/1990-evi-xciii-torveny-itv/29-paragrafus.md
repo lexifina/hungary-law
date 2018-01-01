@@ -4,7 +4,7 @@
 
 (2) Az első fokú közigazgatási határozat elleni fellebbezés illetéke – ha e törvény másként nem rendelkezik, és a fellebbezés tárgyának értéke pénzben megállapítható – a fellebbezéssel érintett vagy vitatott összeg minden megkezdett 10 000 forintja után 400 forint, de legalább 5000 forint, legfeljebb 500 000 forint. Ha a fellebbezés tárgyának értéke pénzben nem állapítható meg, a fellebbezés illetéke 5000 forint. A gazdálkodó szervezet – ide nem értve az egyéni vállalkozót – által az adóhatóságnál, illetve a vámhatóságnál kezdeményezett fizetési könnyítésre, adómérséklésre irányuló fellebbezés illetéke a fellebbezéssel érintett vagy vitatott összeg minden megkezdett 10 000 forintja után 400 forint, de legalább 15 000 forint, legfeljebb 500 000 forint, ha a fellebbezés tárgyának értéke pénzben nem állapítható meg, a fellebbezés illetéke 15 000 forint.
 
-(3) Az adózás rendjéről szóló törvényben meghatározott felügyeleti intézkedés iránti kérelemért a 29. § (2) bekezdésében meghatározott illetéket kell fizetni.
+(3) Az adóigazgatási rendtartásról szóló törvényben meghatározott felügyeleti intézkedés iránti kérelemért a 29. § (2) bekezdésében meghatározott illetéket kell fizetni.
 
 (4) Végzés elleni fellebbezésért – ha e törvény másként nem rendelkezik – 3000 forint illetéket kell fizetni. Ha a végzés csak a határozat vagy az eljárást megszüntető végzés elleni fellebbezéssel együtt támadható meg, és az ügyfél a végzés felülvizsgálatát is kéri, akkor csak a határozat elleni fellebbezés illetékét kell megfizetni.
 

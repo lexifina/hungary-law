@@ -1,6 +1,6 @@
-62. § (1) A feleket jövedelmi és vagyoni viszonyaikra tekintet nélkül illetékfeljegyzési jog illeti meg:
+62. § (1) A felet – ideértve a beavatkozót és az érdekeltet is – illetékfeljegyzési jog illeti meg:
 
-a) a munkaügyi perben, ha az a munkavállaló szándékos vagy súlyos gondatlan károkozásával, valamint a vezető állású munkavállaló polgári jog szabályai szerinti kártérítési felelősségével kapcsolatban indult; továbbá a végkielégítés iránti per a törvény alapján járó összegen felüli részében, ha az a minimálbér hússzorosát meghaladja;
+a) a munkaügyi vagy közszolgálati jogviszonnyal kapcsolatos perben, ha az a munkavállaló vagy az állam nevében foglalkoztatott személy szándékos vagy súlyos gondatlan károkozásával, valamint a vezető állású munkavállaló kártérítési felelősségével kapcsolatban indult; továbbá a végkielégítés iránti per a törvény alapján járó összegen felüli részében, ha az a minimálbér hússzorosát meghaladja;
 
 b) a személy életében, testi épségében vagy egészségében okozott, illetve a vagyonában bekövetkezett olyan kár megtérítése iránti igény esetén, amikor a személy élete, testi épsége vagy egészsége is veszélyeztetve volt;
 
@@ -12,9 +12,9 @@ e) a névviselési jog megszüntetése iránti perben;
 
 f) a személyek polgári jogi védelmével kapcsolatos perben;
 
-g) a közigazgatási jogkörben okozott kár megtérítése iránti perben;
+g) a közhatalom gyakorlásával okozott kár megtérítése iránti perben;
 
-h) a közigazgatási határozat felülvizsgálata iránti eljárásban;
+h) a közigazgatási bírósági eljárásban, a közszolgálati jogviszonnyal kapcsolatos pert és a szerződő fél által indított közigazgatási szerződéssel kapcsolatos pert kivéve;
 
 i) a munkaviszonyból származó munkabér- és egyéb követelésre tekintettel indított felszámolási eljárásokban, valamint a csőd-, a felszámolási és a helyi önkormányzatok adósságrendezési eljárása alatt a vagyonfelügyelő, a felszámoló, illetve a pénzügyi gondnok által indított bírósági eljárásokban;
 
@@ -32,7 +32,7 @@ o) külön törvényben meghatározott referenciaadat-szolgáltató és központ
 
 p) a hivatalbóli bejegyzéssel nyilvántartásba vett, hibás adatokon alapuló vagy más okból hibás bejegyzések kijavítása iránti eljárásban, valamint abban az eljárásban, mely annak megállapítására irányul, hogy valamely hatóság vagy bíróság nem tett eleget a cégjegyzékbe hivatalbóli bejegyzéssel nyilvántartásba kerülő adat megküldésére vonatkozó kötelezettségének;
 
-r) a közigazgatási eljárás során hozott végzés felülvizsgálatára irányuló nemperes eljárásban;
+r)
 
 s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban,
 
@@ -42,6 +42,6 @@ u) a hallgatói hitelből eredő követelés érvényesítése és behajtása ir
 
 v) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33/A., 40., 63. és 63/A. §-a alapján a hitelezők által indított perekben.
 
-(2) Az (1) bekezdés a)–c) és g)–h), továbbá l) pontjaiban említett perek esetén, ha az összegszerűség megállapítása a bíróság mérlegelésétől függ és a kereset nem volt nyilvánvalóan eltúlzott, részleges pervesztesség esetén a bíróság a fél illetékfizetésre való kötelezését mellőzheti.
+(2)
 
 (3) Az (1) bekezdés i) pontjában meghatározott, a munkaviszonyból származó munkabér- és egyéb követelésre tekintettel indított felszámolási eljárás esetén az illeték viseléséről a bíróság az eljárást megszüntető vagy a felszámolást elrendelő végzésében dönt.

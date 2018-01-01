@@ -342,7 +342,7 @@ XXII. A vízgazdálkodással kapcsolatos helyi önkormányzati hatósági eljár
 
 1. Kérelemre indult eljárások illetéke
 
-a) közműpótló berendezés – a külön jogszabályban meghatározott talajvízkút kivételével – létesítésének, átalakításának, megszüntetésének engedélyezése esetén, továbbá vízi állás létesítésének, használatbavételének, fennmaradásának vagy átalakításának engedélyezése esetén 5000 forint;
+a)
 
 b) szennyvíz-előtisztító berendezés létesítésének, átalakításának, illetve használatbavételének engedélyezése esetén 10 000 forint.
 

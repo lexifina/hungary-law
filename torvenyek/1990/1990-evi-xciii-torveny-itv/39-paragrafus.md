@@ -1,10 +1,8 @@
-## A POLGÁRI ELJÁRÁSI ILLETÉKEK
-
 ## A polgári eljárás illetékének alapja
 
 39. § (1) A polgári peres és nemperes eljárásban az illeték alapja — ha törvény másként nem rendelkezik — az eljárás tárgyának az eljárás megindításakor fennálló értéke, jogorvoslati eljárásban pedig a vitássá tett követelés vagy követelésrész értéke.
 
-(2) A polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 24. §-a (2) bekezdésében felsorolt perekben az illeték számításának alapja az ott meghatározott pertárgy értéke.
+(2) Azon perek és igények esetén, amelyek tekintetében a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) a per tárgyának az értékét meghatározza, az illeték számításának alapja az ott meghatározott érték.
 
 (3) Ha az eljárás tárgyának értéke az (1) bekezdésben foglaltak szerint nem állapítható meg, és ha törvény másként nem rendelkezik, az illeték számításának alapja:
 
