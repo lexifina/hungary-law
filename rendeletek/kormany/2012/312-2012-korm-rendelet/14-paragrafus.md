@@ -8,4 +8,6 @@ b) a településfejlesztési koncepcióról, az integrált településfejleszté
 
 véleményezési eljárás előzi meg.
 
-(2) Az építésügyi hatóság az (1) bekezdés szerinti véleményt a döntése meghozatalához szükséges tényállás tisztázása érdekében – különös tekintettel az építészeti minőségre, a helyi építészeti örökségre, az építészeti értékvédelemre, valamint a településképre és a környezethez való illeszkedésre – az építésügyi hatósági engedélykérelem benyújtásakor rendelkezésre álló és jogszabályon alapuló bizonyítékként veszi figyelembe.
+(2)[^66]
+
+[^66]: A 14. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 15. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

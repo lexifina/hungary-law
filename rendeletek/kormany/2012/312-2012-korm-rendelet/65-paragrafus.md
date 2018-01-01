@@ -1,6 +1,6 @@
 ## 48. Építésfelügyeleti hatósági intézkedések
 
-65. §[^221] (1) Az építésfelügyeleti hatóság az elektronikus építési naplóba történő egyidejű bejegyzéssel megtiltja az építőipari kivitelezési tevékenység folytatását, ha súlyos szabálytalanságot észlel. Súlyos szabálytalanságnak minősül
+65. §[^319] (1) Az építésfelügyeleti hatóság az elektronikus építési naplóba történő egyidejű bejegyzéssel megtiltja az építőipari kivitelezési tevékenység folytatását, ha súlyos szabálytalanságot észlel. Súlyos szabálytalanságnak minősül
 
 a) a jogszabállyal kötelezően előírt építtetői fedezetkezelő közreműködésének elmaradása,
 
@@ -12,9 +12,9 @@ d) ha az építési munkaterület átadására vagy építőipari kivitelezési 
 
 e) ha az építési naplóban az eltakarásra kerülő épületszerkezetek ellenőrzésének dokumentálása elmarad,
 
-f)[^222] a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott kötelező felelősségbiztosítás hiánya,
+f)[^320] a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott kötelező felelősségbiztosítás hiánya,
 
-g)[^223] ha az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységet
+g)[^321] ha az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységet
 
 ga) az egyszerű bejelentés kivitelezési dokumentációja alapján, de az Étv. 13. § (2) bekezdés a) és b) pontjának megsértésével végzik,
 
@@ -30,13 +30,14 @@ b) az Épkiv. 24. §-ában meghatározott építési tevékenységet elektroniku
 
 (4) Az építésfelügyeleti hatóság a jegyzőkönyv vagy a közbenső végzés egy példányát a helyszínen a kötelezett vagy képviselője részére átadja – ha ez nem lehetséges – a kötelezettel egyéb módon közli. A (3) bekezdés a) pontja szerinti esetben a jegyzőkönyvet és a közbenső végzést az elektronikus építési naplóba feltölti az eseti bejegyzéssel egyidejűleg.
 
-(5)[^224] Az építésfelügyeleti hatóság, ha az építési tevékenység végzését megtiltotta, az ellenőrzéstől számított nyolc napon belül a helyszínen felvett jegyzőkönyv megállapításai alapján határozatban elrendeli a szabálytalan állapot megszüntetését. A határozat a (3) bekezdés szerinti esetben fellebbezésre tekintet nélkül végrehajtható. Az építőipari kivitelezési tevékenységet tovább folytatni csak a szabálytalan állapot megszüntetése után lehet. Az e bekezdés szerinti kötelezés végrehajtásának teljesítését az építésfelügyeleti hatóság a helyszínen ellenőrzi és dokumentálja.
+(5)[^322] Az építésfelügyeleti hatóság, ha az építési tevékenység végzését megtiltotta, az ellenőrzéstől számított nyolc napon belül a helyszínen felvett jegyzőkönyv megállapításai alapján határozatban elrendeli a szabálytalan állapot megszüntetését. A (3) bekezdés szerinti esetekben az építésfelügyeleti hatóság elrendeli a határozat azonnali végrehajthatóságát. Az építőipari kivitelezési tevékenységet tovább folytatni csak a szabálytalan állapot megszüntetése után lehet. Az e bekezdés szerinti kötelezés végrehajtásának teljesítését az építésfelügyeleti hatóság a helyszínen ellenőrzi és dokumentálja.
 
 (6) Az építésfelügyeleti hatóság az építési folyamat résztvevőinek jogosultságát az OÉNY alkalmazásával ellenőrzi.
 
-(7) Az építésfelügyeleti hatóság az építési folyamat résztvevőivel szemben bírságot kiszabó jogerős döntése ellen újrafelvételi kérelem nem nyújtható be.
+(7)[^323]
 
-[^221]: A 65. § a 156/2016. (VI. 13.) Korm. rendelet 12. § (8) bekezdésével megállapított szöveg.
-[^222]: A 65. § (1) bekezdés f) pontját a 353/2016. (XI. 18.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^223]: A 65. § (1) bekezdés g) pontját a 482/2016. (XII. 28.) Korm. rendelet 29. §-a iktatta be, szövege a 144/2017. (VI. 12.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^224]: A 65. § (5) bekezdése a 353/2016. (XI. 18.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^319]: A 65. § a 156/2016. (VI. 13.) Korm. rendelet 12. § (8) bekezdésével megállapított szöveg.
+[^320]: A 65. § (1) bekezdés f) pontját a 353/2016. (XI. 18.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^321]: A 65. § (1) bekezdés g) pontját a 482/2016. (XII. 28.) Korm. rendelet 29. §-a iktatta be, szövege a 144/2017. (VI. 12.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^322]: A 65. § (5) bekezdése a 353/2016. (XI. 18.) Korm. rendelet 3. §-a, a 457/2017. (XII. 28.) Korm. rendelet 412. § 80. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^323]: A 65. § (7) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 43. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

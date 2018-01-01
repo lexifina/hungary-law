@@ -14,10 +14,8 @@ c) a zártsorú vagy ikres beépítésű építmény esetén az építmény alap
 
 bontási tevékenység.
 
-(2) A bontási engedély iránti kérelemhez elektronikus formátumban mellékelni kell
-
-a) a 8. mellékletben meghatározott építészeti-műszaki dokumentációt, valamint
-
-b) az eljárási illeték befizetésének igazolását.
+(2)[^218] A bontási engedély iránti kérelemhez elektronikus formátumban mellékelni kell a 8. mellékletben meghatározott építészeti-műszaki dokumentációt, valamint a benyújtással egyidejűleg igazolni kell az eljárási illeték befizetését.
 
 (3) A kérelemhez mellékelni lehet a 4. § (4) bekezdése szerinti nyilatkozatokat, illetve az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
+
+[^218]: A 45. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (18) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

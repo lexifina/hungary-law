@@ -292,7 +292,7 @@
 
 ## 9.4.9. az adott rendeltetéssel érintett építmény, építményrész tartalmaz-e azbesztet.
 
-9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^269]
+9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^373]
 
 Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvételéhez
 
@@ -338,4 +338,4 @@ Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvé
 
 | 16. | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^269]: A 9. melléklet a 482/2016. (XII. 28.) Korm. rendelet 32. § j) pontja és 33. § d) pontja szerint módosított szöveg.
+[^373]: A 9. melléklet a 482/2016. (XII. 28.) Korm. rendelet 32. § j) pontja és 33. § d) pontja szerint módosított szöveg.

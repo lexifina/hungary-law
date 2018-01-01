@@ -1,4 +1,4 @@
-5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^265]
+5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^369]
 
 ## Szakhatósági vagy szakkérdés vizsgálatára alkalmas dokumentációk tartalma építésügyi hatósági engedélyezéshez
 
@@ -60,7 +60,7 @@ III. A közlekedési szakhatóság állásfoglalásának megkéréséhez vagy sz
 
 1.2. Mellékelni kell a telek közúti csatlakozása kialakításának műszaki dokumentációját (műszaki leírás, helyszínrajzi és forgalomtechnikai kialakítás).
 
-1.3. A fenti esetekben a közútkezelő hozzájárulását is csatolni szükséges.
+1.3.
 
 2. Vasúti közlekedési szakterületi szempontból
 
@@ -78,9 +78,9 @@ Vasút területén, az alatt vagy felett építmény, belterületen a vasút mel
 
 2.4. a tervezett építménnyel összefüggésben szükségessé váló, a vasutat érintő és a közlekedési hatóság engedélyezési hatáskörébe tartozó tervezett építési tevékenységek felsorolása (vasúti pálya, peron, pályatartozékok, utaskényelmi berendezések stb.),
 
-2.5. a tervezett létesítményt kiszolgáló, vasutat keresztező, vagy megközelítő utak, járdák, feltüntetése a helyszínrajzon, valamint a keresztezésekre biztosítási módjára vonatkozó közúti hatóság által kiadott döntés,
+2.5.
 
-2.6. a vasúti pálya működtetőjének állásfoglalása.
+2.6.
 
 IV. A műszaki biztonsági szakhatóság állásfoglalásának megkéréséhez szükséges dokumentáció
 
@@ -156,9 +156,7 @@ vonatkozó megoldásokat.
 
 1.2.4. metszetrajz.
 
-1.3. Melléklet:
-
-1.3.1. Az oltóvízellátás biztosítására vonatkozó közműszolgáltatói nyilatkozat.
+1.3.
 
 2. Az összevont építési engedélyezési eljárás elvi építési keretengedélyezési eljárása esetén
 
@@ -186,7 +184,7 @@ VII. A műemléki érték védelmével kapcsolatos szakhatósági állásfoglal�
 
 2.1.2. a nyilvántartott műemléki érték, műemlék vagy műemlék telkén új építmény építése esetén külön jogszabályban meghatározott tartalmú építéstörténeti tudományos dokumentációt,
 
-2.1.3. a védett építmény bővítése esetén amennyiben tetőszerkezetének megerősítése, terhének növekedésével járó átalakítása esetén az elemek teljes vagy részleges cseréjének, megerősítésének rajzi mellékleteken történő tételes feltüntetését, amennyiben az építmény fa- és faalapú anyagokat is tartalmaz faanyagvédelmi szakvéleményt.
+2.1.3.
 
 2.2. A fennmaradási engedélyezési eljáráshoz a nyilvántartott műemléki érték, a műemlék vagy a műemlék telkén álló építmény esetében az építészeti műszaki dokumentációnak – a 8. melléklet III. rész 7. pontjában meghatározottakon túl – fotódokumentációt is tartalmaznia kell.
 
@@ -196,6 +194,6 @@ VII. A műemléki érték védelmével kapcsolatos szakhatósági állásfoglal�
 
 2.3.2. nyilvántartott műemléki érték, műemlék esetén a kulturális örökség védelmével kapcsolatos szabályokról szóló 496/2016. (XII. 28.) Korm. rendelet 9. melléklet II. rész D. pontjában meghatározott építéstörténeti tudományos dokumentációt,
 
-2.3.3. nyilvántartott műemléki érték, műemlék esetén a tartószerkezeti szakértői vagy amennyiben releváns egyéb épületdiagnosztikai szakvéleményt.
+2.3.3.
 
-[^265]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 156/2016. (VI. 13.) Korm. rendelet 12. § (11) bekezdése, 13. § 27–30. pontja, a 306/2016. (X. 13.) korm. rendelet 14. § c) pontja, a 497/2016. (XII. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^369]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 156/2016. (VI. 13.) Korm. rendelet 12. § (11) bekezdése, 13. § 27–30. pontja, a 306/2016. (X. 13.) korm. rendelet 14. § c) pontja, a 497/2016. (XII. 28.) Korm. rendelet 5. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 45. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

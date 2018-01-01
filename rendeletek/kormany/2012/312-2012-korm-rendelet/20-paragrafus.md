@@ -22,26 +22,30 @@ bb) az építési tevékenység helye szerinti települési önkormányzat polg�
 
 c) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adott.
 
-(3) A jogerős döntést közölni kell
+(3)[^103] A végleges döntést közölni kell
 
 a) az építtetővel vagy meghatalmazottjával,
 
 b) az építésfelügyeleti hatósággal az ÉTDR-en keresztül,
 
-c)[^81] az illetékes környezetvédelmi és természetvédelmi hatósággal, valamint a területi vízügyi hatósággal, ha az építési engedélyezési eljárás környezetvédelmi vagy egységes környezethasználati engedély köteles építményre vonatkozott,
+c)[^104] az illetékes környezetvédelmi és természetvédelmi hatósággal, valamint a területi vízügyi hatósággal, ha az építési engedélyezési eljárás környezetvédelmi vagy egységes környezethasználati engedély köteles építményre vonatkozott,
 
-d)[^82] a munkavédelmi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal, ha az építési tevékenységgel érintett építmény azbesztet tartalmaz,
+d)[^105] a munkavédelmi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal, ha az építési tevékenységgel érintett építmény azbesztet tartalmaz,
 
 e) mindazokkal, akiknek értesítését jogszabály előírja.
 
-(4)[^83]
+(4)[^106]
 
-(5) Az építési engedély jogerőre emelkedése esetén az építésügyi hatóság a jogerőre emelkedés napját az ÉTDR-ben rögzíti és az engedélyezésre benyújtott építészeti-műszaki dokumentációt elektronikus engedélyezési záradékkal látja el.
+(5)[^107] Az építési engedély véglegessé válása esetén az építésügyi hatóság a véglegessé válás napját az ÉTDR-ben rögzíti és az engedélyezésre benyújtott építészeti-műszaki dokumentációt elektronikus engedélyezési záradékkal látja el.
 
-(6) Az építési engedélyezési eljárás során hozott jogerős döntés a hozzátartozó, engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltakkal együtt hatályos.
+(6)[^108] Az építési engedélyezési eljárás során hozott végleges döntés a hozzátartozó, engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltakkal együtt hatályos.
 
-(7) Az építésügyi hatóság – az építési engedélykérelemben erre irányuló külön kérelem esetén – a jogerős építési engedélyt és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációt a jogerőre emelkedés időpontjának tudomásra jutásától számított három napon belül az építtető vagy meghatalmazottjának a kapcsolattartás módjára megjelölt rendelkezésének megfelelően megküldi.
+(7)[^109] Az építésügyi hatóság – az építési engedélykérelemben erre irányuló külön kérelem esetén – a végleges építési engedélyt és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációt a véglegessé válás időpontjának tudomásra jutásától számított három napon belül az építtető vagy meghatalmazottjának a kapcsolattartás módjára megjelölt rendelkezésének megfelelően megküldi.
 
-[^81]: A 20. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 123. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
-[^82]: A 20. § (3) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
-[^83]: A 20. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 4. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^103]: A 20. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 20. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^104]: A 20. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 123. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
+[^105]: A 20. § (3) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
+[^106]: A 20. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 4. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^107]: A 20. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 21–22. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^108]: A 20. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 23. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^109]: A 20. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 24–25. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

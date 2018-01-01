@@ -4,8 +4,9 @@
 
 ## 42. Jogutódlás tudomásulvétele
 
-53. § (1)[^158] Az építésügyi hatóság – a használatbavételi és a fennmaradási engedélyezési, valamint használatbavétel tudomásulvételi eljárás kivételével – az engedélyek és kötelezettségek tekintetében a jogutódlásról végzéssel dönt, döntéséről az építésfelügyeleti hatóságot értesíti.
+53. § (1)[^251] Az építésügyi hatóság – a használatbavételi és a fennmaradási engedélyezési, valamint használatbavétel tudomásulvételi eljárás kivételével – az engedélyek és kötelezettségek tekintetében a jogutódlásról végzéssel dönt, döntéséről az építésfelügyeleti hatóságot értesíti.
 
-(2) A jogutódlás megállapítására irányuló eljárás során az építésügyi hatóság az eljárás megindításáról értesítést és hiánypótlási felhívást nem bocsát ki, és a szakhatóságot nem keresi meg.
+(2)[^252] A jogutódlás megállapítására irányuló eljárás során az építésügyi hatóság az eljárás megindításáról értesítést és hiánypótlási felhívást nem bocsát ki.
 
-[^158]: Az 53. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 180. § 10. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^251]: Az 53. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 180. § 10. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^252]: Az 53. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 413. § 37. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

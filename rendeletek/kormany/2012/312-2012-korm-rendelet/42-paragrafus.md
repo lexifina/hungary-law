@@ -4,15 +4,15 @@
 
 ## 33. A fennmaradási engedély iránti kérelem és mellékletei
 
-42. § (1)[^134] Az építésügyi hatóság az Étv. 48. § (2) bekezdés a)–c) pontjában meghatározott jogszerűtlen és az Étv. 48. § (5) bekezdésében meghatározott szakszerűtlen építési tevékenységek esetén, amennyiben annak jogszabályi feltételei fennállnak, az építtető, vagy amennyiben az építtető személye nem ismert, a tulajdonos kérelmére fennmaradási engedélyt ad.
+42. § (1)[^204] Az építésügyi hatóság az Étv. 48. § (2) bekezdés a)–c) pontjában meghatározott jogszerűtlen és az Étv. 48. § (5) bekezdésében meghatározott szakszerűtlen építési tevékenységek esetén, amennyiben annak jogszabályi feltételei fennállnak, az építtető, vagy amennyiben az építtető személye nem ismert, a tulajdonos kérelmére fennmaradási engedélyt ad.
 
-(2)[^135]
+(2)[^205]
 
 (3) A fennmaradási engedély iránti kérelemben
 
 a) az országos építési követelményektől eltérő műszaki megoldás engedélyezésére,
 
-b)[^136]
+b)[^206]
 
 c) az (1) bekezdés szerinti jogszerűtlenül vagy szakszerűtlenül megépített építmény
 
@@ -22,25 +22,19 @@ cb) használatbavételére
 
 ## irányuló kérelem is előterjeszthető.
 
-(4) A fennmaradási engedély iránti kérelemhez, a tartalmától függően mellékelni kell:
+(4)[^207] A fennmaradási engedély iránti kérelemhez tartalmától függően mellékelni kell az Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatot, ha az építési tevékenységet építési napló vezetése nélkül végezték. A fennmaradási engedély iránti kérelem benyújtásával egyidejűleg igazolni kell az eljárási illeték, igazgatási szolgáltatási díj befizetését. Jogszabályban előírt esetekben igazolni kell, hogy
 
-a) jogszabályban előírt esetekben
+a) a települési önkormányzat polgármestere településképi véleményében az építési tevékenységet engedélyezésre javasolta,
 
-aa) a települési önkormányzat polgármesterének településképi véleményét vagy
-
-ab)[^137] a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
-
-b)[^138] az Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatot, ha az építési tevékenységet építési napló vezetése nélkül végezték,
-
-c) az eljárási illeték, igazgatási szolgáltatási díj befizetésének igazolását.
+b) a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményében a tervdokumentációt engedélyezésre ajánlotta.
 
 (5) Amennyiben a kérelmező birtokában van
 
-a) a Khvr.-ben meghatározott esetekben jogerős környezetvédelmi vagy jogerős egységes környezethasználati engedély – kivéve, ha az az összevont telepítési eljárásban került kiadásra –, illetve az előzetes vizsgálati eljárást lezáró határozat, több megvalósulási szakaszra bontott építkezés esetén az összes szakaszra együttesen,
+a)[^208] a Khvr.-ben meghatározott esetekben végleges környezetvédelmi, illetve egységes környezethasználati engedély – kivéve, ha az az összevont telepítési eljárásban került kiadásra –, illetve az előzetes vizsgálati eljárást lezáró határozat, több megvalósulási szakaszra bontott építkezés esetén az összes szakaszra együttesen,
 
 b) erdőterület igénybevétele esetén az erdészeti hatóság engedélye – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
 
-c) termőföld igénybevétele esetén a termőföld végleges más célú hasznosításának engedélyezéséről szóló jogerős hatósági határozat – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
+c)[^209] termőföld igénybevétele esetén a termőföld végleges más célú hasznosításának engedélyezéséről szóló végleges hatósági határozat – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
 
 ## az iktatószám megjelölésével nyilatkozhat ezek meglétéről vagy mellékelheti azokat a kérelemhez.
 
@@ -56,8 +50,9 @@ a) ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakh
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, és az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
 
-[^134]: A 42. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 19. pontja, a 482/2016. (XII. 28.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
-[^135]: A 42. § (2) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 14. § l) pontja hatályon kívül helyezte.
-[^136]: A 42. § (3) bekezdés b) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § m) pontja hatályon kívül helyezte.
-[^137]: A 42. § (4) bekezdés a) pont ab) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 7. pontja szerint módosított szöveg.
-[^138]: A 42. § (4) bekezdés b) pontját a 77. § hatályon kívül helyezte, újonnan a 441/2015. (XII. 28.) Korm. rendelet 179. § (13) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^204]: A 42. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 19. pontja, a 482/2016. (XII. 28.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^205]: A 42. § (2) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 14. § l) pontja hatályon kívül helyezte.
+[^206]: A 42. § (3) bekezdés b) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § m) pontja hatályon kívül helyezte.
+[^207]: A 42. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (16) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^208]: A 42. § (5) bekezdése a) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 63. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^209]: A 42. § (5) bekezdése c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 64. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

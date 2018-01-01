@@ -1,6 +1,6 @@
 ## 7. Az engedély iránti kérelem tartalma
 
-7. § (1)[^26] Az építésügyi hatósági engedély iránti kérelem a a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 35. § (1) bekezdésében foglaltakon kívül tartalmazza:
+7. § (1)[^26] Az építésügyi hatósági engedély iránti kérelem a az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 36. § (1) bekezdésében foglaltakon kívül tartalmazza:
 
 a)[^27] az építési tevékenységgel érintett telek címét, helyrajzi számát, mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek helyrajzi számát,
 
@@ -18,14 +18,20 @@ dc) a hat hónapnál nem régebbi előzetes szakhatósági állásfoglalás megn
 
 e) a kérelemhez csatolt mellékletek felsorolását,
 
-f) – a használatbavételi engedély iránti kérelem kivételével – az építtető vagy meghatalmazottjának a rendelkezését arról, hogy a jogerős engedélyhez tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentáció papír alapú hitelesített másolatát kéri-e, ha igen, hány példányban,
+f)[^29] – a használatbavételi engedély iránti kérelem kivételével – az építtető vagy meghatalmazottjának a rendelkezését arról, hogy a végleges engedélyhez tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentáció papír alapú hitelesített másolatát kéri-e, ha igen, hány példányban,
 
-g) meghatalmazott esetén az építtető meghatalmazását és
+g)[^30]
 
 h) az építtető aláírását.
 
-(2) A kérelmet az ÉTDR által biztosított elektronikus vagy papírformátumú formanyomtatványon lehet benyújtani, mely egyben a külön jogszabályban meghatározott kísérőlap is.
+(2)[^31] A kérelmet az ÉTDR által biztosított elektronikus formanyomtatványon lehet benyújtani, mely egyben a külön jogszabályban meghatározott kísérőlap is.
 
-[^26]: A 7. § (1) bekezdés nyitó szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 64. § (3) bekezdés b) pontja szerint módosított szöveg.
+(3)[^32] A kérelemre induló eljárásokban a kérelem benyújtásával egyidejűleg igazolni kell az eljárási illeték, igazgatási szolgáltatási díj megfizetését.
+
+[^26]: A 7. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 3. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^27]: A 7. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (3) bekezdésével megállapított szöveg.
 [^28]: A 7. § (1) bekezdés c) pontja a 441/2015. (XII. 28.) Korm. rendelet 180. § 5. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^29]: A 7. § (1) bekezdés f) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 4. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^30]: A 7. § (1) bekezdés g) pontját a 457/2017. (XII. 28.) Korm. rendelet 413. § 5. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^31]: A 7. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 413. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^32]: A 7. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 410. § (3) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

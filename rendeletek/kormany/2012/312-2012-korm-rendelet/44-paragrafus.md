@@ -1,12 +1,12 @@
-44. § (1)[^139]
+44. § (1)[^214]
 
-(2)[^140] Az építésügyi hatóság a fennmaradási engedély iránti kérelmet elutasítja, ha az engedélyezést a polgármester a településképi véleményében nem javasolta.
+(2)[^215] Az építésügyi hatóság a fennmaradási engedély iránti kérelmet elutasítja, ha az engedélyezést a polgármester a településképi véleményében nem javasolta.
 
 (3) A fennmaradási engedélyt megadó határozatában az építésügyi hatóság egyidejűleg rendelkezik az építésügyi bírság kiszabásáról – az Étv. 49. § (5) bekezdésében foglaltak kivételével –, a szükséges átalakítási kötelezettség elrendeléséről, teljesítési határidejéről és a 42. § (3) bekezdése szerinti kérelmek elbírálásáról.
 
 (4) Ha az építményt, építményrészt jogszerűtlenül bontották le, az építésügyi hatóság azt – építésügyi bírság megállapítása mellett – határozattal tudomásul veszi.
 
-(5)[^141] Ha az építmény fennmaradási engedélyezésére az építmény befejezése (rendeltetésszerű és biztonságos használatra való alkalmas állapotának elérése) előtt kerül sor, a továbbépítésre is engedélyt kell kérni,
+(5)[^216] Ha az építmény fennmaradási engedélyezésére az építmény befejezése (rendeltetésszerű és biztonságos használatra való alkalmas állapotának elérése) előtt kerül sor, a továbbépítésre is engedélyt kell kérni,
 
 a) amennyiben a fennmaradó munkálatok elvégzése építési engedélyezéshez kötött,
 
@@ -14,7 +14,7 @@ b) az Étv. 33/A. § (1) bekezdése szerint egyszerű bejelentéssel megkezdett 
 
 c) az Étv. 33/A. § (2) vagy (3) bekezdése szerint egyszerű bejelentéssel megkezdett építési tevékenység esetén, ha azt nem természetes személy építtető vagy nem saját lakhatásának biztosítása céljából végzi.
 
-(5a)[^142] Az (5) bekezdésben meghatározott esetekben a fennmaradási és a továbbépítési engedélykérelmet egyszerre kell benyújtani, és az építésügyi hatóság a két kérelem tárgyában döntéseit egybefoglalja.
+(5a)[^217] Az (5) bekezdésben meghatározott esetekben a fennmaradási és a továbbépítési engedélykérelmet egyszerre kell benyújtani, és az építésügyi hatóság a két kérelem tárgyában döntéseit egybefoglalja.
 
 (6) Ha az építmény fennmaradási engedélyezésére az építmény rendeltetésszerű és biztonságos használatra alkalmas állapotában kerül sor, a fennmaradási engedély egyben használatbavételi engedély is, arra külön kérelmet benyújtani és a tárgyban külön döntést hozni nem szükséges.
 
@@ -54,7 +54,7 @@ e) a bírság összegének tételes kiszámítását, feltüntetve az alapbírs�
 
 (11) A fennmaradási engedélyezési eljárásra az építési, a használatbavételi és országos építési követelményektől való eltérés engedélyezési eljárás szabályait az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 
-[^139]: A 44. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 12. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^140]: A 44. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 180. § 7. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^141]: A 44. § (5) bekezdése a 144/2017. (VI. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^142]: A 44. § (5a) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 11. §-a iktatta be.
+[^214]: A 44. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 12. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^215]: A 44. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 180. § 7. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^216]: A 44. § (5) bekezdése a 144/2017. (VI. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^217]: A 44. § (5a) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 11. §-a iktatta be.

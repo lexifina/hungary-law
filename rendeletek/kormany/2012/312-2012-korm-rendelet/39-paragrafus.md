@@ -4,21 +4,21 @@
 
 ## 30. A használatbavételi engedély iránti kérelem és mellékletei
 
-39. § (1)[^114] Használatbavételi engedély alapján vehető használatba az a rendeltetésszerű és biztonságos használatra alkalmas építmény, építményrész, amelyre az építtetőnek építési engedélyt kellett kérnie, ha
+39. § (1)[^175] Használatbavételi engedély alapján vehető használatba az a rendeltetésszerű és biztonságos használatra alkalmas építmény, építményrész, amelyre az építtetőnek építési engedélyt kellett kérnie, ha
 
-a)[^115]
+a)[^176]
 
 b) annak használatbavételi engedélyezési eljárásába szakhatóságot szükséges bevonni, vagy
 
 c) a 11/A. § (1) bekezdés szerinti építésügyi hatóság építési engedélye a 6. melléklet III. táblázatában meghatározott valamely szakkérdés tekintetében kikötést vagy feltételt tartalmazott, vagy ha az építési tevékenységgel az engedélyezett tervektől eltértek és az eltérés a vizsgált szakkérdést érinti.
 
-(2) Szakhatóságot kell bevonni a használatbavételi engedélyezési eljárásba, ha az építési engedélyezési eljárás lefolytatásához a szakhatóság kikötéssel vagy feltételekkel járult hozzá, vagy ha az építési tevékenység folyamán az engedélyezett tervektől eltértek és az eltérés a szakhatóság állásfoglalásának tartalmát érinti.
+(2)[^177]
 
 (3) A használatbavételi engedély iránti kérelemmel egy időben a fennmaradási engedélyezésre irányuló kérelem is előterjeszthető.
 
-(4)[^116] A használatbavételi engedély iránti kérelmet az építtető az építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor, az építési munkaterület építtető részére történő, építési naplóban igazolt átadását követően, az építési engedély hatályossága alatt – a használatbavétel előtt – nyújtja be az építésügyi hatósághoz.
+(4)[^178] A használatbavételi engedély iránti kérelmet az építtető az építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor, az építési munkaterület építtető részére történő, építési naplóban igazolt átadását követően, az építési engedély hatályossága alatt – a használatbavétel előtt – nyújtja be az építésügyi hatósághoz.
 
-(5)[^117] Új épület építése vagy meglévő épület – az ingatlan-nyilvántartásban változást eredményező – bővítése esetén a használatbavételi engedély iránti kérelem előterjesztésével egyidőben az ingatlanügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal által hatályos záradékkal ellátott, a változás ingatlan-nyilvántartási átvezetéséhez külön jogszabályban előírt változási vázrajzot az Országos Építésügyi Nyilvántartásba (a továbbiakban: OÉNY) elektronikusan fel kell tölteni.
+(5)[^179] Új épület építése vagy meglévő épület – az ingatlan-nyilvántartásban változást eredményező – bővítése esetén a használatbavételi engedély iránti kérelem előterjesztésével egyidőben az ingatlanügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal által hatályos záradékkal ellátott, a változás ingatlan-nyilvántartási átvezetéséhez külön jogszabályban előírt változási vázrajzot az Országos Építésügyi Nyilvántartásba (a továbbiakban: OÉNY) elektronikusan fel kell tölteni.
 
 (6) Az (5) bekezdésben meghatározott változási vázrajz feltöltésének hiánya a használatbavételi engedélyezési eljárás lefolytatását és a használatbavételi engedély kiadását nem akadályozza, azonban ha az (5) bekezdésben foglaltaknak a kérelmező nem tett eleget, az építésügyi hatóság a használatbavételi engedély rendelkező részében határidő megjelölésével kötelezi az építtetőt a változási vázrajznak az OÉNY-be történő elektronikus feltöltésére.
 
@@ -32,13 +32,13 @@ aa) az építőipari kivitelezési tevékenységről szóló kormányrendeletben
 
 ab) a 4. melléklet szerint kitöltött statisztikai lapot,
 
-b)[^118] a szakhatóság megkereséséhez szükséges 5. melléklet szerinti dokumentációt, ha a kérelem benyújtásakor előzetes szakhatósági állásfoglalás nem áll rendelkezésre,
+b)[^180] a szakhatóság megkereséséhez szükséges 5. melléklet szerinti dokumentációt, ha a kérelem benyújtásakor előzetes szakhatósági állásfoglalás nem áll rendelkezésre,
 
-c)[^119] az eljárási illeték, igazgatási szolgáltatási díj befizetésének igazolását, valamint
+c)[^181]
 
-d)[^120] meglévő épület bővítése esetén, ha a bővítés mértéke meghaladja a bővítendő épület hasznos alapterületének 100%-át, az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendeletben meghatározott követelményeknek való megfelelést igazoló épületenergetikai számítást.
+d)[^182]
 
-(8a)[^121] Az építtetőnek a használatbavételi engedély iránti kérelem benyújtásáig az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet hatálya alá tartozó épületek esetében az energetikai tanúsítványt az OÉNY-ben ki kell állíttatnia.
+(8a)[^183] Az építtetőnek a használatbavételi engedély iránti kérelem benyújtásáig az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet hatálya alá tartozó épületek esetében az energetikai tanúsítványt az OÉNY-ben ki kell állíttatnia.
 
 (9) A kérelemhez mellékelni lehet
 
@@ -46,11 +46,15 @@ a) az ügyben érintett szakhatóság előzetes állásfoglalását – amennyib
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, illetve az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
 
-[^114]: A 39. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (10) bekezdésével megállapított, nyitó szövegrésze a 144/2017. (VI. 12.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
-[^115]: A 39. § (1) bekezdés a) pontját a 306/2016. (X. 13.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
-[^116]: A 39. § (4) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés d) pontja szerint módosított szöveg.
-[^117]: A 39. § (5) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés e) pontja, a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 7. pontja szerint módosított szöveg.
-[^118]: A 39. § (8) bekezdés b) pontja a 262/2015. (IX. 14.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^119]: A 39. § (8) bekezdés c) pontja a 262/2015. (IX. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^120]: A 39. § (8) bekezdés d) pontját a 262/2015. (IX. 14.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^121]: A 39. § (8a) bekezdését a 262/2015. (IX. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+(10)[^184] Meglévő épület bővítése esetén, ha a bővítés mértéke meghaladja a bővítendő épület hasznos alapterületének 100%-át, igazolni kell az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendeletben meghatározott követelményeknek való megfelelést.
+
+[^175]: A 39. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (10) bekezdésével megállapított, nyitó szövegrésze a 144/2017. (VI. 12.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^176]: A 39. § (1) bekezdés a) pontját a 306/2016. (X. 13.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
+[^177]: A 39. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 28. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^178]: A 39. § (4) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^179]: A 39. § (5) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés e) pontja, a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 7. pontja szerint módosított szöveg.
+[^180]: A 39. § (8) bekezdés b) pontja a 262/2015. (IX. 14.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^181]: A 39. § (8) bekezdés c) pontját a 457/2017. (XII. 28.) Korm. rendelet 413. § 29. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^182]: A 39. § (8) bekezdés d) pontját a 262/2015. (IX. 14.) Korm. rendelet 5. § (1) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 413. § 29. pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^183]: A 39. § (8a) bekezdését a 262/2015. (IX. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^184]: A 39. § (10) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 410. § (14) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,18 +1,20 @@
 ## 25. Telepítési hatásvizsgálati szakasz
 
-32. §[^103] (1) A kérelemhez – a THSZ-ben összevonható kérelmezett eljárásoktól függően – mellékelni kell
+32. §[^139] (1) A kérelemhez – a THSZ-ben összevonható kérelmezett eljárásoktól függően – mellékelni kell
 
 a) a 8. mellékletben meghatározott építészeti-műszaki dokumentációt,
 
-b) a 7. mellékletben meghatározott mellékletet,
+b)[^140] a kérelmezett engedélytől függően az arra vonatkozó jogszabályban meghatározott mellékletet,
 
-c) a településrendezési szerződés másolatát, a településrendezési eszköz tervezetét,
+c)[^141]
 
-d) ha a kérelem benyújtásakor rendelkezésre áll a 29. § (1) bekezdése szerinti eljárásokban hozott jogerős döntések megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
+d)[^142] ha a kérelem benyújtásakor rendelkezésre áll a 29. § (1) bekezdése szerinti eljárásokban hozott jogerős vagy végleges döntések megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
 
-e) az eljárási illeték, igazgatási szolgáltatási díj megfizetésének igazolását.
+e)[^143]
 
-(2) Az építésügyi hatóság a THSZ-ben a 7. melléklet II. pontja szerinti szakhatóságot keresi meg a szakhatóság állásfoglalásának beszerzése érdekében.
+(1a)[^144] A telepítési hatásvizsgálati szakaszban – a THSZ-ben összevonható kérelmezett eljárásoktól függően – igazolni kell, hogy a településrendezési szerződés megkötésre került, vagy a településrendezési eszköz tervezete a jogszabályi követelményeknek megfelel.
+
+(2)[^145] Az építésügyi hatóság a THSZ-ben a kormányrendelet szerinti szakhatóságot keresi meg a szakhatóság állásfoglalásának beszerzése érdekében.
 
 (3) A szakhatóság a dokumentáció hiányainak pótlására az eljárásában egy alkalommal bocsáthat ki hiánypótlási felhívást, a szakhatósági megkereséstől számított öt napon belül és legfeljebb tíz napos teljesítési határidő megjelölésével.
 
@@ -20,4 +22,10 @@ e) az eljárási illeték, igazgatási szolgáltatási díj megfizetésének iga
 
 (5) Az építésügyi hatóság a kérelem tartalmától függően a 7. melléklet III. pontjában meghatározott szakkérdéseket vizsgálja.
 
-[^103]: A 32. § a 70/2015. (III. 30.) Korm. rendelet 206. § (13) bekezdésével megállapított szöveg.
+[^139]: A 32. § a 70/2015. (III. 30.) Korm. rendelet 206. § (13) bekezdésével megállapított szöveg.
+[^140]: A 32. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 39. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^141]: A 31. § (1) bekezdés c) pontját a 457/2017. (XII. 28.) Korm. rendelet 413. § 22. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^142]: A 32. § (1) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 40. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^143]: A 31. § (1) bekezdés e) pontját a 457/2017. (XII. 28.) Korm. rendelet 413. § 22. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^144]: A 32. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 410. § (12) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^145]: A 32. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 41. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

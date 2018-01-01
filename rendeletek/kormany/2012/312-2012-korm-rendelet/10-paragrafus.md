@@ -2,39 +2,45 @@
 
 10. § (1) Az elektronikus mappában lévő kérelem automatikusan ÉTDR-azonosítót kap, amely alkalmas a beérkezett irat és mellékletei azonosítására, valamint tartalmazza az ügy azonosítóját, amely biztosítja az ügyhöz később csatolt dokumentumok azonosíthatóságát. Az ÉTDR az azonosítókról a kérelem és mellékletei feltöltésekor automatikusan értesítést küld a kérelmezőnek, építtetőnek.
 
-(2) A kérelemre induló eljárás a kérelemnek az ÉTDR-be való érkeztetését követő első munkanapon indul.
+(2)[^40]
 
-(3)[^33] Az eljáró hatóság – a 11. § (2) bekezdés kivételével – az ÉTDR-ben kiállított dokumentummal az ügyfél által megjelölt kapcsolattartási forma alkalmazásával értesíti az eljárás megindulásáról az építtetőt és a már ismert ügyfelet. Amennyiben az építésügyi hatóság a Ket. szerinti függő hatályú döntést is hoz, az értesítést a döntésbe foglalja.
+(3)[^41] Az eljáró hatóság – a 11. § (2) bekezdés kivételével – az ÉTDR-ben kiállított dokumentummal az ügyfél által megjelölt kapcsolattartási forma alkalmazásával értesíti az eljárás megindulásáról az építtetőt és a már ismert ügyfelet. Amennyiben az építésügyi hatóság függő hatályú döntést is hoz, az értesítést a döntésbe foglalja.
 
-(4) A (3) bekezdés szerinti értesítés a Ket. 29. § (5) bekezdésében foglaltakon kívül tartalmazza
+(4)[^42] A (3) bekezdés szerinti értesítés tartalmazza
 
-a) az ÉTDR ügy- és iratazonosítót,
+a) az ügy tárgyát, iktatási számát, az eljárás megindításának napját és az adott ügyfajtára irányadó ügyintézési határidőt, az ügyintézési határidőbe nem számító időtartamokat, az ügyintéző nevét és hivatali elérhetőségét,
 
-b) ha e rendelet alapján helyszíni szemle lefolytatására kerül sor, annak időpontját, továbbá figyelmeztetést a részvétel elmulasztásának, a helyszíni szemle akadályozásának a jogkövetkezményére,
+b) az iratokba való betekintés és a nyilatkozattétel lehetőségére irányuló tájékoztatást,
 
-c) tájékoztatást a kapcsolattartás lehetséges formáiról, a kapcsolattartási forma választási lehetőségéről,
+c) a kérelmező ügyfél nevét,
 
-d) az elektronikus iratbetekintés módját,
+d) az ÉTDR ügy- és iratazonosítót,
 
-e) tájékoztatást arról, hogy ha több mint ötven ügyfél érintett az eljárásban, az építésügyi hatóság hirdetményi úton tart kapcsolatot,
+e) ha helyszíni szemle lefolytatására kerül sor, annak időpontját, továbbá figyelmeztetést a részvétel elmulasztásának, a helyszíni szemle akadályozásának a jogkövetkezményére,
 
-f) tájékoztatást arról, hogy ha az ügyfél az első fokú eljárásban nyilatkozatot nem tesz, vagy kérelmet nem nyújt be, ügyféli jogát nem gyakorolhatja,
+f) a tájékoztatást a kapcsolattartás lehetséges formáiról, a kapcsolattartási forma választási lehetőségéről,
 
-g) tájékoztatást az ügyre vonatkozó minden egyéb lényeges információról, a szakhatósági megkeresés szükségességéről, annak idejéről,
+g) az elektronikus iratbetekintés módját,
 
-h)[^34] tájékoztatást arról, hogy a Ket. 28/A. § (1) bekezdés a) pontjában meghatározottakon túl, ha a kapcsolattartás módjáról (papír alapú vagy elektronikus) nyolc napon belül nem nyilatkozik, az eljárással kapcsolatos érdemi döntésről az ÉTDR általános felületén milyen módon értesülhet.
+h) a tájékoztatást arról, hogy ha több mint ötven ügyfél érintett az eljárásban, az építésügyi hatóság az Ákr.-ben foglalt feltételeknek megfelelően döntését hirdetmény útján közli, valamint a döntésről készült közleményt közhírré teszi,
 
-(5)[^35] Az építésügyi és az építésfelügyeleti hatóság az eljárásában az ügyfelek és az értesítendők adatait
+i) a tájékoztatást arról, hogy ha az ügyfél az elsőfokú eljárásban nyilatkozatot nem tesz, vagy kérelmet nem nyújt be, ügyféli jogát nem gyakorolhatja,
+
+j) a tájékoztatást az ügyre vonatkozó minden egyéb lényeges információról, a szakhatósági megkeresés szükségességéről, annak idejéről,
+
+k) a tájékoztatást arról, hogy – az Ákr. 26. § (1) bekezdésében meghatározottakon túl – ha a kapcsolattartás módjáról nyolc napon belül nem nyilatkozik, az eljárással kapcsolatos érdemi döntésről az ÉTDR általános felületén milyen módon értesülhet.
+
+(5)[^43] Az építésügyi és az építésfelügyeleti hatóság az eljárásában az ügyfelek és az értesítendők adatait
 
 a) az ingatlan-nyilvántartásból,
 
-b)[^36] polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartásból, vagy
+b)[^44] polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartásból, vagy
 
 c) az elektronikus elérhetőségi adatai tekintetében az ügyintézési rendelkezési nyilvántartásból
 
 elektronikus úton közvetlen lekérdezés útján a vonatkozó jogszabályok szerint szerzi be.
 
-(6)[^37] Az építésügyi hatóság az ÉTDR általános tájékoztatási felületén mindenki által hozzáférhető módon – személyes adatot nem tartalmazó – általános tájékoztatást ad a hatáskörébe tartozó megindult és lezárult engedélyezési eljárás következő főbb ismérveiről:
+(6)[^45] Az építésügyi hatóság az ÉTDR általános tájékoztatási felületén mindenki által hozzáférhető módon – személyes adatot nem tartalmazó – általános tájékoztatást ad a hatáskörébe tartozó megindult és lezárult engedélyezési eljárás következő főbb ismérveiről:
 
 a) az eljárás megindulását követő munkanapon
 
@@ -48,10 +54,12 @@ ad) a 8. mellékletben meghatározott tartalmú helyszínrajz, utcai homlokzati 
 
 b) a döntés kiadmányozását követő munkanapon a döntés rövid tartalma és meghozatalának időpontja,
 
-c) a döntés jogerőre emelkedését követően, az építtető értesítésével egyidejűleg a döntés jogerőre emelkedésének napja.
+c)[^46] a döntés véglegessé válását követően, az építtető értesítésével egyidejűleg a döntés véglegessé válásának napja.
 
-[^33]: A 10. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (5) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. A bekezdés a 156/2016. (VI. 13.) Korm. rendelet 13. § 13. pontja szerint módosított szöveg.
-[^34]: A 10. § (4) bekezdés h) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 3. pontja szerint módosított szöveg.
-[^35]: A 10. § (5) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^36]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^37]: A 10. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (6) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. A bekezdés a 156/2016. (VI. 13.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
+[^40]: A 10. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 10. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^41]: A 10. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (5) bekezdésével megállapított, a 156/2016. (VI. 13.) Korm. rendelet 13. § 13. pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 11. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^42]: A 10. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^43]: A 10. § (5) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^44]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^45]: A 10. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (6) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. A bekezdés a 156/2016. (VI. 13.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
+[^46]: A 10. § (6) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 9–10. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
