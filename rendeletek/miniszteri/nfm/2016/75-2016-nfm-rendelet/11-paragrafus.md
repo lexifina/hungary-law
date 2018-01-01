@@ -18,14 +18,6 @@ b) továbbképzési képesítés megszerzését követő 3 éven belül
 
 a menetíró készülék működési elvéhez igazodó továbbképzési képesítést kell szereznie.
 
-(4) Az engedély iránti kérelemben meg kell adni a kérelmezőnek a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 27/B. § (2) bekezdés a)–d) pontjai szerinti adatait.
+(4)–(6)[^4]
 
-(5) A kérelemhez mellékelni kell:
-
-a) az előírt iskolai végzettséget, szakképesítést igazoló okirat másolatát;
-
-b) a kérelmező nyilatkozatát arról, hogy vele szemben nem áll fenn a 14. § szerinti összeférhetetlenség;
-
-c) az (1) bekezdés b) pontjában előírt szaktanfolyam elvégzését igazoló dokumentum másolatát.
-
-(6) A szerelői engedély tartalmazza a Kkt. 27/B. § (2) bekezdésben felsorolt adatokat.
+[^4]: A 11. § (4)–(6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 110. § c) pontja hatályon kívül helyezte.

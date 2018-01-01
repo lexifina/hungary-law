@@ -10,7 +10,7 @@ d) a közlekedési hatóság visszavonja a menetíró szerelő szerelői engedé
 
 e) a műhelykártya kérelmezése során a menetíró szerelő valótlan adatokat adott meg,
 
-f) a menetíró szerelő az e rendeletben meghatározott kötelezettségeit – az első megszegést megállapító határozat jogerőre emelkedésétől számított – 2 éven belül legalább további 3 esetben megszegte,
+f)[^12] a menetíró szerelő az e rendeletben meghatározott kötelezettségeit – az első megszegést megállapító határozat véglegessé válásától számított – 2 éven belül legalább további 3 esetben megszegte,
 
 g) a menetíró szerelő az e rendeletben előírt továbbképzési kötelezettségét határidőn belül nem teljesítette, és a határidő elmulasztása esetén igazolási kérelmet nem nyújtott be, vagy benyújtott, de azt a közlekedési hatóság elutasította.
 
@@ -23,3 +23,5 @@ b) a menetíró készülék működésének befolyásolására alkalmas eszközt
 c) a menetíró készüléket úgy kalibrálja, hogy az a rögzített adatok befolyásolására, megváltoztatatására alkalmas, vagy
 
 d) valótlan adatot rögzít.
+
+[^12]: A 30. § (1) bekezdés f) pontja az 55/2017. (XII. 27.) NFM rendelet 109. § d) pontja szerint módosított szöveg.

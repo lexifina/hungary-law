@@ -1,4 +1,4 @@
-23. § (1) A kártyakiadási eljárás megkezdésekor a kártyakibocsátó hatóság a bemutatott okmányok, a Kkt. 44/A. §-a szerint nyilvántartás (a továbbiakban: kártyanyilvántartás), valamint az EGT tagállamok közti elektronikus kapcsolat útján ellenőrzi, hogy a kérelmező rendelkezik-e érvényes tachográf-kártyával.
+23. § (1)[^10]
 
 (2) A tachográf-kártyához elektronikus biztonsági kódok abban az esetben rendelhetők, ha
 
@@ -9,3 +9,5 @@ b) azonos típusú érvényes tachográf-kártyával a kérelmező nem rendelkez
 c) a kérelmező személy szokásos tartózkodási helye Magyarország területén van.
 
 (3) A (2) bekezdésben foglaltak teljesülése esetén állítható elő a megszemélyesített tachográf-kártya.
+
+[^10]: A 23. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 110. § h) pontja hatályon kívül helyezte.

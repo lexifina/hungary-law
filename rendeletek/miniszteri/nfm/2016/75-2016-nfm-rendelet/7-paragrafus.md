@@ -1,3 +1,5 @@
+## 6. §[^2]
+
 7. § (1) A közlekedési hatóság a műhelyengedélyt kiadja a kérelmezőnek, ha az teljesíti
 
 a) a menetíró készülék szerelését végző menetíró szerelőműhelyekre vonatkozó személyi és tárgyi feltételeket, valamint
@@ -24,10 +26,7 @@ c) a közlekedési hatóság által működtetett információs rendszerben nyil
 
 d) a műhely által alkalmazott jeleket és elektronikus biztonsági adatokat.
 
-(3) A műhelyengedélyben szereplő adatok változása esetén a menetíró szerelőműhely képviselője 8 napon belül köteles a változást bejelenteni és a műhelyengedély módosítását kérni.
+(3)–(6)[^3]
 
-(4) A műhelyengedély jogosultja helyébe polgári jogi jogutódja léphet, amennyiben a jogutódlást követő 30 napon belül a jogutódlás megállapítása iránt kérelmet terjeszt elő, és a jelen rendeletben előírt feltételeknek megfelel.
-
-(5) Ha a menetíró szerelőműhely az engedélyezés alapjául szolgáló feltételeket nem tudja biztosítani, a tevékenységét szüneteltetnie kell, amely szüneteltetést a menetíró szerelőműhely köteles a közlekedési hatóságnak 8 napon belül – a szüneteltetés várható időtartamának megjelölésével – írásban vagy elektronikus úton bejelenteni.
-
-(6) A menetíró szerelőműhely a tevékenységét csak a műhelyengedélyben és a vonatkozó technológiai utasításokban foglaltaknak megfelelően végezheti.
+[^2]: A 6. §-t az 55/2017. (XII. 27.) NFM rendelet 110. § a) pontja hatályon kívül helyezte.
+[^3]: A 7. § (3)–(6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 110. § b) pontja hatályon kívül helyezte.

@@ -1,14 +1,6 @@
 ## 7. A menetíró készülék szerelésének hatósági ellenőrzése
 
-19. § (1) A közlekedési hatóság
-
-a) előzetes tájékoztatás nélküli ellenőrzés formájában,
-
-b) eseti célellenőrzés formájában, vagy
-
-c) a rendelkezésre álló elektronikus adatok elemzésével
-
-## rendszeresen ellenőrzi a menetíró készülékek szerelését, amely során kiemelten vizsgálja a menetíró szerelőműhely tevékenységét, a jogszabályi előírásoknak, illetve a műhelyengedélyben foglaltaknak való megfelelést, valamint a műhelykártya jogszerű használatát.
+19. § (1)[^6]
 
 (2) A közlekedési hatóság a műhelykártya jogosulatlan vagy szabálytalan használata, vagy a műhelykártya meghamisításának alapos gyanúja esetén – ismétlődő, vagy a menetíró szerelőműhely vezetőjének felróható esetben – a menetíró szerelőműhely tevékenységét egy évig terjedő időre felfüggesztheti.
 
@@ -34,4 +26,7 @@ h) az adatletöltési, adattovábbítási vagy adatmegőrzési kötelezettségé
 
 ## a közlekedési hatóság a műhelyengedélyét első alkalommal történő elkövetés esetén 30 napig, második alkalommal történő elkövetés esetén 90 napig felfüggeszti.
 
-(5) Ha a műhelyengedélyt a közlekedési hatóság a 8. § f) pontja szerint visszavonja a menetíró szerelőműhely részére újabb műhelyengedély legkorábban a visszavonásról szóló határozat jogerőre emelkedésének napját követő egy év elteltével adható.
+(5)[^7] Ha a műhelyengedélyt a közlekedési hatóság a 8. § f) pontja szerint visszavonja a menetíró szerelőműhely részére újabb műhelyengedély legkorábban a visszavonásról szóló határozat véglegessé válásának napját követő egy év elteltével adható.
+
+[^6]: A 19. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 110. § e) pontja hatályon kívül helyezte.
+[^7]: A 19. § (5) bekezdése az 55/2017. (XII. 27.) NFM rendelet 109. § c) pontja szerint módosított szöveg.
