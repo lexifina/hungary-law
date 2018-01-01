@@ -10,4 +10,4 @@ d) a tag halálával,
 
 e) ha a tagot cselekvőképességének korlátozottsága vagy hiánya miatt gondnokság alá helyezték,
 
-f) a 29. § (3) bekezdés szerinti jogerős megszüntető határozattal.
+f) a 29. § (3) bekezdés szerinti végleges megszüntető határozattal.

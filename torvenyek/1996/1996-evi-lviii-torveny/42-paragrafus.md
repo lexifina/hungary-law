@@ -2,7 +2,7 @@
 
 ## Közigazgatási hatósági ügyek intézése
 
-42. § (1) A területi, illetve országos kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el – az e §-ban foglalt eltérésekkel – a következő ügyekben (a továbbiakban együtt: közigazgatási ügy):
+42. § (1) A területi, illetve országos kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el – az e §-ban foglalt eltérésekkel – a következő ügyekben (a továbbiakban együtt: közigazgatási ügy):
 
 a) mérnöki, illetve építészeti tevékenység engedélyezése, az engedély visszavonása és az ezzel összefüggő névjegyzékbevétel, illetve a névjegyzékből való törlés, a mérnöki, illetve az építészeti tevékenységre való jogosultságról hatósági igazolvány kiállítása, valamint a külön jogszabály szerinti szakmai továbbképzési kötelezettség teljesítésének igazolására szolgáló hatósági bizonyítvány kiállítása,
 
@@ -16,7 +16,7 @@ a) nem folytathat olyan tevékenységet, nem tanúsíthat olyan magatartást, am
 
 b) pártban tisztséget nem viselhet, párt nevében vagy érdekében közszereplést nem vállalhat.
 
-(4) Ha kormányrendelet másként nem rendelkezik a közigazgatási ügyben első fokon a területi kamara jár el. A területi kamara döntése elleni fellebbezés elbírálására az országos kamara jogosult.
+(4) Ha kormányrendelet másként nem rendelkezik, közigazgatási hatósági ügyben első fokon a területi kamara jár el. A területi kamara elsőfokú határozata ellen fellebbezésnek van helye. A területi kamara döntése elleni fellebbezés elbírálására az országos kamara jogosult.
 
 (5) A 3. § (1) bekezdés a) pontja szerinti engedély visszavonására irányuló eljárást hivatalból meg kell indítani, ha a kamara a visszavonási okról tudomást szerez. A kamara a törlési eljárás során az ügyfelet nyilatkozattételre és adatszolgáltatásra kötelezheti.
 

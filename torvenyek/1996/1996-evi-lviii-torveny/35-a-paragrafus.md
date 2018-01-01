@@ -1,4 +1,4 @@
-35/A. § (1) A fegyelmi tanácsnak további vizsgálat nélkül el kell utasítania a panaszt, ha
+35/A. § (1) A fegyelmi tanács végzésben visszautasítja a panaszt, ha
 
 a) a bejelentés nyilvánvalóan megalapozatlan, vagy a bejelentett tények alapján fegyelmi vétség elkövetésének alapos gyanúja nem állapítható meg,
 
