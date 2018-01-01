@@ -1,4 +1,4 @@
-5. § (1)[^3] A természetvédelmi hatóság a korlátozás elrendeléséről határozatban
+5. § (1)[^4] A természetvédelmi hatóság a korlátozás elrendeléséről határozatban
 
 a) egyértelmű azonosítást biztosító jellemzőkkel lehatárolja a 4. § szerinti területet, melyet ingatlan-nyilvántartási helyrajzi számmal, erdő esetén erdészeti üzemtervi jellel (helység, tag, erdőrészlet bontásban) jelöl meg,
 
@@ -16,4 +16,4 @@ g) utal a jogszerűen folytatott tevékenységek korlátozása esetén igényelh
 
 (2) A korlátozás a tevékenység időtartamára, módjára, módszereire, technológiájára, az alkalmazott anyagokra, eszközökre terjedhet ki.
 
-[^3]: Az 5. § (1) bekezdés nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 14. § b) pontja szerint módosított szöveg.
+[^4]: Az 5. § (1) bekezdés nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 14. § b) pontja szerint módosított szöveg.
