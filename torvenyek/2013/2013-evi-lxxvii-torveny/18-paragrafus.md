@@ -6,7 +6,7 @@
 
 (2) A felnőttképzési szakmai programkövetelmények elektronikus nyilvántartását a kamara vezeti. A nyilvántartásba vételről, a nyilvántartásba vétel módosításáról, valamint a nyilvántartásból történő törlésről öttagú bizottság dönt, amelybe a felnőttképzési programszakértők közül három tagot a kamara, egy tagot az agrárkamara, egy tagot a szakmai programkövetelményre irányuló javaslat OKJ–ban szereplő szakmacsoportjának megfelelő, a szakmacsoporton belüli szakképesítések többségéért felelős miniszter delegál. A bizottságnak a kamara és az agrárkamara által delegált tagjait és elnökét a miniszter nevezi ki és menti fel.
 
-(3) A bizottság szervezeti és működési szabályzatát, valamint ügyrendjét a kamara elnöke az agrárkamara elnökének és a miniszternek az egyetértésével állapítja meg. A bizottság elnöke feladatkörében képviseli a testületet. A bizottság tagja nem lehet olyan személy, aki e törvény szerinti felnőttképzési tevékenységet folytató szervezetnek, illetve a szervezet jogi személyiséggel rendelkező szervezeti egységének vezető tisztségviselője, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, egyesület ügyintéző vagy képviseleti szervének tagja, gazdasági társaságnak bármilyen arányban tulajdonosa.
+(3) A bizottság szervezeti és működési szabályzatát, valamint ügyrendjét a kamara elnöke az agrárkamara elnökének és a miniszternek az egyetértésével állapítja meg. A bizottság elnöke feladatkörében képviseli a testületet. A bizottság tagja nem lehet olyan személy, aki e törvény szerinti felnőttképzési tevékenységet folytató szervezetnek, illetve a szervezet jogi személyiséggel rendelkező szervezeti egységének vezető tisztségviselője, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, egyesület ügyintéző vagy képviseleti szervének tagja, felnőttképzési tevékenységet folytató gazdasági társaságnak bármilyen arányban tulajdonosa.
 
 (4) Felnőttképzési szakmai programkövetelmények nyilvántartásba vételére vonatkozó javaslatot bármely jogi személy, egyéni cég, egyéni vállalkozó benyújthat – kizárólag elektronikus formában – a nyilvántartást vezető szervhez. A javaslatnak tartalmaznia kell
 
@@ -22,7 +22,11 @@ e) a szakmai követelmények leírását,
 
 f) a szakmai végzettség jellegétől függően az elméleti és gyakorlati képzési idő arányát,
 
-g) a szakmai végzettség megszerzését igazoló dokumentum kiadásának feltételeit.
+g) a szakmai végzettség megszerzését igazoló dokumentum kiadásának feltételeit,
+
+h) a javaslatot benyújtó nyilatkozatát a szakmai végzettség megszerzéséhez szükséges képzési tartalom szabadalmi vagy szerzői jogi oltalmáról vagy annak hiányáról,
+
+i) a modulzáró vizsgával érintett szakmai követelménymodul teljes átvétele esetén a szakmai követelménymodulra vonatkozó, a 12. § (3) bekezdésben foglaltaknak megfelelő vizsgáztatási szabályokat.
 
 (5) A felnőttképzési szakmai programkövetelmények nyilvántartásba vételére vonatkozó javaslat elutasítása esetén a javaslatot benyújtó az elutasításról szóló értesítés kézhezvételétől számított öt munkanapon belül az indok megjelölésével írásbeli kifogást nyújthat be a miniszterhez. A miniszter az elutasításról szóló döntés ellen benyújtott kifogás vizsgálatára irányuló eljárás során szakmai állásfoglalást kér a felnőttképzési szakmai programkövetelményre vonatkozó javaslattal érintett szakképesítésért felelős minisztertől a javaslat nyilvántartásba vételéről. A miniszter a kifogásról – a szakmai állásfoglalás kiadására jogosult miniszter válaszát követő – húsz munkanapon belül dönt, döntése ellen további kifogásnak helye nincs. A miniszter kifogásnak helyt adó döntése esetén a kamara – a miniszter erről szóló értesítése alapján – a felnőttképzési szakmai programkövetelményt nyilvántartásba veszi.
 

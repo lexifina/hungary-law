@@ -4,7 +4,7 @@
 
 ## 1. A törvény személyi és tárgyi hatálya
 
-1. § (1) E törvény hatálya kiterjed
+1. § (1) E törvény hatálya – az (1a) bekezdésben foglalt kivétellel – kiterjed
 
 a) a felnőttképzésben részt vevő és a felnőttképzést kiegészítő tevékenységet igénybevevő felnőttre,
 
@@ -33,6 +33,8 @@ jb) a 21. § (4) bekezdése szerinti adatszolgáltatásra
 irányuló tevékenységére,
 
 k) az állami szakképzési és felnőttképzési szervre.
+
+(1a) A VIII/A. Fejezet hatálya a felsőoktatási képzés keretében jogász osztatlan szakon okleveles jogász szakképzettséget szerzett személyekre terjed ki.
 
 (2) E törvény alkalmazásában felnőttképzési tevékenység az (1) bekezdés c) pontjában meghatározott jogalanyoknak az (1) bekezdés a) és b) pontjában meghatározott természetes személyek iskolarendszeren kívüli képzésére irányuló tevékenysége, amely az (5)–(6) bekezdésben foglaltak kivételével
 

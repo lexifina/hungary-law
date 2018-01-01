@@ -4,13 +4,23 @@
 
 1. általános nyelvi képzés: az Európa Tanács Közös Európai Referenciakeretben ajánlott hatfokozatú rendszer szintjeiben megfogalmazott követelmények teljesítésére irányuló, további kimeneti szintekre osztott nyelvi képzés;
 
-2. belső képzés: a munkáltató által a saját munkavállalói részére saját munkaszervezetén belül, nem üzletszerűen szervezett, a 23. § (1) bekezdésében foglalt forrás terhére megvalósuló képzés, amely nem lehet az 1. § (2) bekezdés a) pontjában, valamint a 2. § 1. pontjában meghatározott képzés. A belső képzés szempontjából munkavállaló a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés b) pontjában munkavállalóként meghatározott személy;
+2. belső képzés: a munkáltató által a saját munkavállalói részére saját munkaszervezetén belül, a munkáltató beszállítóinak munkavállalói részére, vagy a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozások munkavállalói részére nem üzletszerűen szervezett, a 23. § (1) bekezdésében foglalt forrás terhére megvalósuló képzés, amely nem lehet az 1. § (2) bekezdés a) pontjában, valamint a 2. § 1. pontjában meghatározott képzés. A belső képzés szempontjából munkavállaló a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés b) pontjában munkavállalóként meghatározott személy;
 
 3. bemeneti kompetencia: a képzés megkezdéséhez szükséges kompetencia;
 
 4. bemeneti kompetenciamérés: a bemeneti kompetenciával való rendelkezést igazoló dokumentum hiánya esetén annak felmérése, hogy a képzésre jelentkező birtokában van-e azoknak a kompetenciáknak, amelyek a képzés megkezdéséhez és annak sikeres elvégzéséhez feltétlenül szükségesek;
 
-5. egyéb képzés: olyan képzés, amely az általános műveltség növelését, megnevezhető szakképesítéshez, szakmai végzettséghez vagy nyelvi képzettséghez nem köthető kompetenciák fejlesztését célozza, hozzájárul a felnőtt személyiségének fejlődéséhez, a társadalmi esélyegyenlőség és az állampolgári kompetencia kialakulásához;
+4a. beszállító: az a természetes személy, jogi személy vagy egyéb gazdálkodó szervezet,
+
+a) amely a végtermék gyártási vagy összeszerelési folyamata során alapanyagot szállít, alkatrészt, illetve részegységet fejleszt vagy állít elő, vagy a végtermék gyártási vagy összeszerelési folyamatával szorosan összefüggő szolgáltatást nyújt a végterméket gyártó, vagy annak beszállítói integrátora részére,
+
+b) amely által szállított alapanyag vagy az általa előállított alkatrész vagy nyújtott szolgáltatás nem kerül közvetlen kereskedelmi forgalomba, és
+
+c) amelyet közvetlen vagy a beszállítói integrátoron keresztül közvetett beszállítói – a beszállító minőségbiztosítási és logisztikai rendszerével, a fejlesztésekkel és garanciális tényezőkkel összefüggő jogokat és kötelezettségeket tartalmazó – szerződés köt a végtermék gyártójához;
+
+4b. beszállítói integrátor: az a beszállító, amely közvetlen szerződéses kapcsolatban van a végtermék gyártójával vagy összeszerelőjével és e szerződésben foglaltak alapján integrálja a beszállítási láncban résztvevő további beszállítókat.
+
+5. egyéb képzés: a harminc óra képzési időt nem meghaladó időtartamú bármely képzés, vagy olyan, harminc óra képzési időt meghaladó időtartamú képzés, amely az általános műveltség növelését, megnevezhető szakképesítéshez, szakmai végzettséghez vagy nyelvi képzettséghez nem köthető kompetenciák fejlesztését célozza, hozzájárul a felnőtt személyiségének fejlődéséhez, a társadalmi esélyegyenlőség és az állampolgári kompetencia kialakulásához;
 
 5a. egyéb nyelvi képzés: bármely szakterületre kiterjedő szaknyelvi képzés;
 
@@ -18,7 +28,7 @@
 
 7. elméleti tanóra: a képzésnek a megszerezni kívánt képesítéshez, kompetenciához szükséges elméleti tudás megszerzését biztosító, 45 percet elérő időtartamú egysége;
 
-8. előzetes tudás mérése: annak felmérése, hogy a képzésre jelentkező dokumentumokkal nem igazolt tanulmányai vagy megszerzett gyakorlati tapasztalatai alapján képes-e a képzés során elsajátítandó tananyagegység követelményeinek teljesítésére, amelynek eredményeként a követelmények megfelelő szintű teljesítése esetén a tananyagegység elsajátítására irányuló képzési rész – nyelvi képzés esetén a teljesített nyelvi képzettségi szint – alól a képzésre jelentkezőt fel kell menteni;
+8. előzetes tudás mérése: annak felmérése, hogy a képzésre jelentkező dokumentumokkal nem igazolt tanulmányai vagy megszerzett gyakorlati tapasztalatai alapján képes-e a képzés során elsajátítandó tananyagegység követelményeinek teljesítésére, amelynek eredményeként a követelmények megfelelő szintű teljesítése esetén a tananyagegység elsajátítására irányuló képzési rész alól a képzésre jelentkezőt fel kell menteni;
 
 9. felnőtt: a felnőttképzésben részt vevő természetes személy, aki a nemzeti köznevelésről szóló törvény alapján a tankötelezettségét teljesítette;
 
@@ -37,6 +47,8 @@
 16. hatósági jellegű képzés: jogszabályban szabályozott tartalmú és célú olyan, az Országos Képzési Jegyzékben (a továbbiakban: OKJ) nem szereplő képesítés megszerzésére irányuló képzés, amelynek eredményeként dokumentum kiadására kerül sor, és e dokumentum hiányában jogszabályban meghatározott tevékenység, munkakör nem folytatható, nem tölthető be, vagy tevékenység, munkakör a képzést megelőző szakmai szinthez képest magasabb követelményeknek megfelelően folytatható, tölthető be, vagy a dokumentum a képzésben részt vevő számára a képzést megelőző állapothoz képest többletjogosultságot biztosít jogszabályban meghatározott tevékenység, munkakör végzésével, betöltésével összefüggésben;
 
 17. iskolarendszeren kívüli képzés: olyan képzés, amelynek résztvevői nem állnak a képző intézménnyel – a nemzeti köznevelésről szóló törvényben vagy a nemzeti felsőoktatásról szóló törvényben meghatározott – tanulói vagy hallgatói jogviszonyban;
+
+17a. képzés megkezdésének időpontja: egyéni felkészítés és csoportos képzés esetén a képzés első kontaktórájának időpontja, folyamatban lévő – a felsorolt képzési formák szerinti – képzésbe bekapcsolódó résztvevő első kontaktórájának időpontja, távoktatás esetén a tananyagnak vagy résztananyagnak a képzésben résztvevő számára történő megküldési időpontja;
 
 18. képzési forma: az 1. § (2) bekezdés a), b) és d) pontja szerinti képzések esetén egyéni felkészítés, csoportos képzés és távoktatás, az 1. § (2) bekezdés c) pontja szerinti kontaktórás képzés esetén csoportos képzés és egyéni felkészítés;
 
@@ -58,7 +70,7 @@
 
 23b. nyelvi képzés fajtái: általános nyelvi képzés, egyéb nyelvi képzés vagy kombinált nyelvi képzés;
 
-23c. nyelvi képzés szintje: általános nyelvi képzés esetén a „KER” ajánlott hatfokozatú rendszer szintjei, amelyek további bemeneti és kimeneti követelmények által meghatározott képzési szintekre bonthatók, egyéb nyelvi képzés esetén a nyelvi készségek, képességek és ismeretek felnőttképzési nyelvi programkövetelményben meghatározott, „KER” szintekhez köthető szintjei;
+23c. nyelvi képzés szintje: általános nyelvi képzés esetén a „KER” ajánlott hatfokozatú rendszer szintjei, amelyek további bemeneti és kimeneti követelmények által meghatározott képzési szintekre bonthatók, egyéb, vagy kombinált nyelvi képzés esetén a nyelvi készségek, képességek és ismeretek felnőttképzési nyelvi programkövetelményben meghatározott, „KER” szintekhez köthető szintjei;
 
 23d. nyelvi képzés típusa: kontaktórás képzés vagy az 1. § (3) bekezdése alapján megvalósuló képzés esetén kontaktórás képzés vagy távoktatás;
 
@@ -68,4 +80,4 @@
 
 26. támogatott képzés: részben vagy egészben a 23. § (1) bekezdésében szereplő források terhére megvalósuló képzés;
 
-27. távoktatás: az oktatásnak az a formája, amelynél a résztvevő a képzési idő több, mint felében – nyelvi képzés esetén legfeljebb a képzési idő harminc százalékában – egyedül, önállóan, a távoktatási tananyagba épített iránymutatás mellett tanul, a képzési idő kevesebb, mint felében pedig konzultációkon vagy a távoktatás vegyes képzési módszerrel történő megvalósulása (a kontaktórás képzés és a távoktatás módszereinek kombinált alkalmazása) esetén hagyományos tanórákon – nyelvi képzés esetén a képzési idő legalább hetven százalékában kontaktórákon – vesz részt, és az elsajátítási folyamat önálló megvalósításához szükséges tananyaghordozó, felmérő és útmutató anyagokat tartalmazó tanulócsomagot a képző intézmény bocsátja rendelkezésére; a konzultációkon, amelyek a kapcsolattartás bármely formájában – különösen személyes megbeszélés, internet, telefon – megvalósulhatnak, a résztvevők az önállóan szerzett ismereteiket pontosítják, illetve elmélyítik; a távoktatás minden fázisát infokommunikációs technológiai adathordozók felhasználása is segítheti.
+27. távoktatás: az oktatásnak az a formája, amelynél a résztvevő a képzési idő több, mint felében egyedül, önállóan, a távoktatási tananyagba épített iránymutatás mellett tanul, a képzési idő kevesebb, mint felében pedig konzultációkon vagy a távoktatás vegyes képzési módszerrel történő megvalósulása (a kontaktórás képzés és a távoktatás módszereinek kombinált alkalmazása) esetén hagyományos tanórákon vesz részt, és az elsajátítási folyamat önálló megvalósításához szükséges tananyaghordozó, felmérő és útmutató anyagokat tartalmazó tanulócsomagot a képző intézmény bocsátja rendelkezésére; a konzultációkon, amelyek a kapcsolattartás bármely formájában – különösen személyes megbeszélés, internet, telefon – megvalósulhatnak, a résztvevők az önállóan szerzett ismereteiket pontosítják, illetve elmélyítik; a távoktatás minden fázisát infokommunikációs technológiai adathordozók felhasználása is segítheti.

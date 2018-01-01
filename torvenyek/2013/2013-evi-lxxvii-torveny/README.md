@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-77-00-00
 | 2016-06-18 | 2016. évi LXVII. törvény | 2013-77-00-00.11 |
 | 2017-01-01 | 2016. évi CIV. törvény | 2013-77-00-00.12 |
 | 2017-07-01 | 2016. évi CIV. törvény | 2013-77-00-00.13 |
+| 2018-01-01 | 2017. évi CXCII. törvény | 2013-77-00-00.14 |

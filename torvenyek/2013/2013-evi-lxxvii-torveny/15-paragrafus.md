@@ -4,7 +4,7 @@
 
 a) a felnőttképzést folytató intézmény megnevezésére, székhelyére, az engedély megszerzésének időpontjára és számára,
 
-b) a képzés megnevezésére, OKJ szerinti szakképesítés megszerzésére irányuló képzés esetén a szakképesítés azonosító számára és megnevezésére,
+b) a képzés 1. § (2) bekezdés szerinti megnevezésére, OKJ szerinti szakképesítés megszerzésére irányuló képzés esetén a szakképesítés azonosító számára és megnevezésére, egyéb szakmai képzés, általános nyelvi képzés, egyéb nyelvi képzés vagy kombinált nyelvi képzés esetén a képzés engedélyezéséhez szükséges felnőttképzési szakmai programkövetelmény vagy a felnőttképzési nyelvi programkövetelmény nyilvántartásban szereplő azonosítószámára,
 
 c) a képzési csoport
 
@@ -48,7 +48,7 @@ c) az (1a) bekezdésben meghatározott adatszolgáltatási kötelezettségének 
 
 köteles eleget tenni.
 
-(4) A NYAK képző intézményenként, nyelvenként és nyelvi szintenként a hatóság részére
+(4) A NYAK nyelvenként és nyelvi szintenként a hatóság részére
 
 a) a vizsgára jelentkezettek,
 

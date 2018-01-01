@@ -24,7 +24,7 @@ e) az elméleti tanórákról, a gyakorlati képzésről, illetve a konzultáci�
 
 f) a gyakorlati képzés helyét, időtartamát, ütemezését, valamint a felnőtt számára a gyakorlati foglalkozással összefüggésben esetlegesen biztosított juttatásokat,
 
-g) a vizsga szervezésének módját, formáját, OKJ szerinti szakképesítés, illetve nyelvi képzés esetén az előírt vagy javasolt vizsgaszervező intézmény megnevezését,
+g) a vizsga szervezésének módját, formáját, OKJ szerinti szakképesítés, esetén az előírt vagy javasolt vizsgaszervező intézmény megnevezését,
 
 h) a képzési díj – külön a g) pont szerinti vizsgaszervező intézmény által megjelölt vizsgadíj és az esetlegesen szükséges javítóvizsga díjának – mértékét és fizetésének módját, figyelembe véve az előzetesen megszerzett tudás beszámítását, valamint a képzési díj megfizetésének a képzés megvalósítása teljesítésével arányban álló ütemezését,
 

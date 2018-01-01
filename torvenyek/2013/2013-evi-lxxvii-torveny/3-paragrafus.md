@@ -8,7 +8,7 @@
 
 (1a) Az engedéllyel rendelkező felnőttképzést folytató intézmény a felnőttképzési tevékenységét kizárólag saját szervezeti rendszerének keretén belül végezheti, a felnőttképzési tevékenység végzésére – az oktatókkal kötött megbízási, valamint a képzés gyakorlati részének megvalósítására kötött szerződések kivételével – más jogalannyal nem állapodhat meg.
 
-(2) Az engedély kiadására, módosítására, kiegészítésére irányuló kérelmet vagy az engedély kiegészítésére irányuló bejelentést a hatóságnál kell benyújtani. Az engedélyezési eljárásra egyebekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni azzal, hogy a hatóság az engedély kiadására, módosítására vagy kiegészítésére irányuló kérelemről hatvan napon belül dönt, míg a bejelentés alapján az engedélyt a bejelentést követő tizenöt napon belül kiegészíti. Az engedély kiegészítésének bejelentés alapján történő eseteit az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
+(2) Az engedély kiadására, módosítására, kiegészítésére irányuló kérelmet vagy az engedély kiegészítésére irányuló bejelentést a hatóságnál kell benyújtani; a kérelem vagy bejelentés nem terjeszthető elő, illetve nem tehető meg kormányablaknál. A hatóság a bejelentés alapján az engedélyt a bejelentést követő tizenöt napon belül egészíti ki. Az engedély bejelentés alapján történő kiegészítésének eseteit az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
 
 (3) Az (1)–(2) bekezdésben foglalt rendelkezést a felnőttképzési tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
 
@@ -22,4 +22,4 @@
 
 (8) A (6) bekezdésben foglalt rendelkezést alkalmazni kell az engedély visszavonásával érintett intézmény alapítójának, vagy köznevelési intézmény érintettsége esetén a köznevelési törvény szerinti fenntartójának képviselője – kivéve a tankerület képviselőjét – esetében is azzal, hogy a hatóság teljesen visszavonja az engedélyét annak a felnőttképzést folytató intézménynek, amelynek esetében az alapító vagy fenntartó képviselőjének személye az eltiltással érintett időszak alatt változatlan.
 
-(9) Az 1. § (1) bekezdés c) pontjában meghatározott jogalanyok az engedélyezési eljárás, valamint az engedélyezési eljáráshoz kapcsolódó fellebbezési eljárás során kizárólag elektronikus úton kötelesek a hatósággal kapcsolatot tartani.
+(9) Az 1. § (1) bekezdés c) pontjában meghatározott jogalanyok az engedélyezési eljárás során kizárólag elektronikus úton kötelesek a hatósággal kapcsolatot tartani.

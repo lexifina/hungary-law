@@ -29,3 +29,17 @@ a) az 1. § (2) bekezdés a) pontjában foglalt képzés megvalósítására ir�
 b) az 1. § (2) bekezdés b) és c) pontjában foglalt képzés megvalósítására irányuló kérelem esetén a felnőttképzési szakmai programkövetelmények vagy nyelvi programkövetelmények nyilvántartásában szereplő program alapján kidolgozott képzési program
 
 lehet.
+
+(3) A (2) bekezdés a) pontja alapján a képzési program részét képező modulzáró vizsgák szervezésének és dokumentálásának rendszere magában foglalja
+
+a) a modulzáró vizsga
+
+aa) formáját, ütemezését,
+
+ab) lefolytatása során keletkezett és kezelt dokumentumok megnevezését és
+
+ac) tevékenységeinek tartalmát, időtartamát, helyszínét,
+
+b) a modulzáró vizsgán megszerezhető minősítéseket és az egyes minősítésekhez tartozó követelményeket, és
+
+c) a sikertelen teljesítés következményeit.

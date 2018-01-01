@@ -2,7 +2,7 @@
 
 a) az elméleti tanórán, gyakorlati foglalkozáson, konzultáción vezetett, a képzésben részt vevő felnőtt által aláírt jelenléti íveket, valamint a képzésben résztvevővel elektronikus úton folytatott szakmai felkészítést, ellenőrzést igazoló dokumentumokat,
 
-b) a képzésben részt vevő felnőtt 21. § (1) bekezdése alapján kezelt személyi adatait, valamint a képzés megkezdéséhez és folytatásához szükséges feltételeket igazoló eredeti dokumentumokat vagy azoknak a felnőttképzést folytató intézmény által hitelesített másolatait,
+b) a képzésben részt vevő felnőtt 21. § (1) bekezdése alapján kezelt személyi adatait, valamint a képzés megkezdéséhez és folytatásához szükséges feltételeket igazoló eredeti dokumentumokat vagy azoknak a felnőttképzést folytató intézmény által hitelesített másolatait, továbbá a bemeneti kompetenciamérést és az előzetes tudásmérést igazoló dokumentumokat,
 
 c) a felnőttképzési szerződést, a képzési programot, a képzésnek a képzési program szerinti megvalósítását igazoló dokumentumokat, valamint a résztvevők hiányzásait dokumentáló haladási naplót,
 

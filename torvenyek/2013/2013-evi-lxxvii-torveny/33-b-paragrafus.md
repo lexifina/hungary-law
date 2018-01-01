@@ -1,1 +1,1 @@
-33/B. § Az FSZB-nek a felnőttképzést folytató intézmények tevékenységének az e törvény 14. § (2) bekezdése szerinti külső értékelését első alkalommal 2018-ban kell elvégeznie azon intézményeknél, amelyek a külső értékelést – 2016. június 18-át megelőzően – a 2016. évben már elvégeztették.
+33/B. § A felnőttképzést folytató intézmények a 2018. március 31. napjáig esedékes és a Felnőttképzési Szakértői Bizottság által nem elvégeztetett, a 14. § (2) bekezdése szerinti külső értékelést 2018. december 31-ig kötelesek elvégeztetni.
