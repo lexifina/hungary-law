@@ -12,13 +12,15 @@
 
 ## d) 6–7. karakter: a termék újrahasználhatóságát vagy speciális csomagolószer jellegét jelölő kód
 
-## 2. A CsK kódok adattartalma:
+## 2. A következő táblázatok a CsK kódok adattartalmát tartalmazzák
 
-## a) a CsK kód 1. karaktere
+## 2.1. a CsK kód 1. karaktere
+
+## 2.1.1. az aktuális CsK kód 1. karaktere
 
 |  | A | B |
 
-| 1. | Kód (1. karakter) | Megnevezés |
+| 1. | Kód | Megnevezés |
 
 | 2. | A | Csomagolóanyag vagy csomagolóanyagként is felhasználható termék |
 
@@ -28,19 +30,27 @@
 
 | 5. | H | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött csomagolószer |
 
-| 6. | K | Kereskedelmi csomagolószer |
+| 6. | F | Fém ital-csomagolószer |
 
 | 7. | M | Műanyag bevásárló reklámtáska |
 
 | 8. | S | Csomagolási segédanyag vagy csomagolási segédanyagként is felhasználható termék |
 
-| 9. | Z | Elkülönített hulladék gyűjtő műanyag zsák |
+| 9. | Z | Elkülönített hulladék gyűjtésére szolgáló műanyag zsák |
 
-## b) a CsK kód 2–3. karaktere
+## 2.1.2. az elévülési időszakon belüli visszaigénylésnél alkalmazható CsK kód 1. karaktere
 
 |  | A | B |
 
-| 1. | Kód (2–3. karakter) | Megnevezés |
+| 1. | Kód | Megnevezés |
+
+| 2. | K | Kereskedelmi csomagolószer |
+
+## 2.2. a CsK kód 2–3. karaktere
+
+|  | A | B |
+
+| 1. | Kód | Megnevezés |
 
 | 2. | Műanyag |
 
@@ -148,11 +158,11 @@
 
 | 54. | 99 | egyéb anyag |
 
-## c) a CsK kód 4–5. karaktere
+## 2.3. a CsK kód 4–5. karaktere
 
 |  | A | B |
 
-| 1. | Kód (4–5. karakter) | Megnevezés |
+| 1. | Kód | Megnevezés |
 
 | 2. | Belföldi előállítású csomagolószer |
 
@@ -162,9 +172,9 @@
 
 | 5. | 12 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés b) pont bb) alpontja szerint adott nyilatkozata alapján |
 
-| 6. | 1B | teljes díjtétel, a Ktdt. 2. melléklete alapján (kollektív teljesítés) termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
+| 6. | 1B | teljes díjtétel, a Ktdt. 2. melléklete alapján (kollektív teljesítés) termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
-| 7. | 1C | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
+| 7. | 1C | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
 | 8. | 13 | teljes díjtétel a Ktdt. 2. melléklete alapján (kollektív teljesítés), eltérő felhasználás esetén |
 
@@ -174,61 +184,61 @@
 
 | 11. | 16 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés c) pont ca) vagy cb) alpontja szerint adott nyilatkozata alapján |
 
-| 12. | 17 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont aa) alpontja alapján szerződéssel átvállalta |
+| 12. | 1R | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés d) pontja szerint adott nyilatkozata alapján |
 
-| 13. | 1J | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés c) pontja alapján |
+| 13. | 1E | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés e) pontja szerint adott nyilatkozata alapján |
 
-| 14. | 1K | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés d) pontja alapján |
+| 14. | 1F | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés f) pontja szerint adott nyilatkozata alapján |
 
-| 15. | 1L | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés e) pontja alapján |
+| 15. | 1J | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés c) pontja alapján |
 
-| 16. | 1U | a termékdíj nem kerül megfizetésre a Ktdt. 3/A. § (1) bekezdése alapján |
+| 16. | 1K | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés d) pontja alapján |
 
-| 17. | 1A | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont ab) alpontja alapján szerződéssel átvállalta |
+| 17. | 1L | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés e) pontja alapján |
 
-| 18. | 18 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés b) pontja szerinti bérgyártó szerződéssel átvállalta |
+| 18. | 1U | a termékdíj nem kerül megfizetésre a Ktdt. 3/A. § (1) bekezdése alapján |
 
-| 19. | 19 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés c) pontja szerinti termelői szerveződés szerződéssel átvállalta |
+| 19. | 17 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont aa) alpontja alapján szerződéssel átvállalta |
 
-| 20. | 1R | a termékdíj nem kerül megfizetésre a termékdíj raktárba beszállító vevő nyilatkozata alapján |
+| 20. | 1A | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont ab) alpontja alapján szerződéssel átvállalta |
 
-| 21. | 20 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés d) pontja alapján szerződéssel átvállalta |
+| 21. | 18 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés b) pontja szerinti bérgyártó szerződéssel átvállalta |
 
-| 22. | 21 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont ea) alpontja alapján szerződéssel átvállalta |
+| 22. | 19 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés c) pontja szerinti termelői szerveződés szerződéssel átvállalta |
 
-| 23. | 2E | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont eb) alpontja alapján szerződéssel átvállalta |
+| 23. | 20 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés d) pontja alapján szerződéssel átvállalta |
 
-| 24. | 2F | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fa) alpontja alapján szerződéssel átvállalta |
+| 24. | 21 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont ea) alpontja alapján szerződéssel átvállalta |
 
-| 25. | F2 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fb) alpontja alapján szerződéssel átvállalta |
+| 25. | 2E | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont eb) alpontja alapján szerződéssel átvállalta |
 
-| 26. | 2G | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont ga) alpontja alapján szerződéssel átvállalta |
+| 26. | 2F | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fa) alpontja alapján szerződéssel átvállalta |
 
-| 27. | G2 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont gb) alpontja alapján szerződéssel átvállalta |
+| 27. | F2 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fb) alpontja alapján szerződéssel átvállalta |
 
-| 28. | 2H | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés h) pontja alapján visszaigénylésre kerül |
+| 28. | 2G | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont ga) alpontja alapján szerződéssel átvállalta |
 
-| 29. | 22 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés a) pontja alapján visszaigénylésre kerül |
+| 29. | G2 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont gb) alpontja alapján szerződéssel átvállalta |
 
-| 30. | 23 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés b) pontja alapján visszaigénylésre kerül |
+| 30. | 2H | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés h) pontja alapján visszaigénylésre kerül |
 
-| 31. | 24 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés c) pontja alapján visszaigénylésre kerül |
+| 31. | 22 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés a) pontja alapján visszaigénylésre kerül |
 
-| 32. | 25 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés d) pontja alapján visszaigénylésre kerül |
+| 32. | 23 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés b) pontja alapján visszaigénylésre kerül |
 
-| 33. | 26 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerül, kivéve selejt, hulladék |
+| 33. | 24 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés c) pontja alapján visszaigénylésre kerül |
 
-| 34. | 27 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerülő selejt, hulladék |
+| 34. | 25 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés d) pontja alapján visszaigénylésre kerül |
 
-| 35. | 28 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés g) pontja alapján visszaigénylésre kerül |
+| 35. | 26 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerül, kivéve selejt, hulladék |
 
-| 36. | 29 | a csomagolószer termékdíja a Ktdt. 25. § (2a) bekezdése alapján visszaigénylésre kerül |
+| 36. | 27 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerülő selejt, hulladék |
 
-| 37. | 2V | a csomagolószer termékdíja ipari termékdíj raktárba történő beszállítása alapján visszaigénylésre kerül |
+| 37. | 28 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés g) pontja alapján visszaigénylésre kerül |
 
-| 38. | 1E | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés e) pontja szerint adott nyilatkozata alapján |
+| 38. | 29 | a csomagolószer termékdíja a Ktdt. 25. § (2a) bekezdése alapján visszaigénylésre kerül |
 
-| 39. | 1F | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés f) pontja szerint adott nyilatkozata alapján |
+| 39. | 2V | a csomagolószer termékdíja ipari termékdíj raktárba történő beszállítása alapján visszaigénylésre kerül |
 
 | 40. | Külföldről behozott csomagolószer |
 
@@ -236,9 +246,9 @@
 
 | 42. | 31 | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel |
 
-| 43. | 3B | teljes díjtétel, a Ktdt. 2. melléklete alapján (kollektív teljesítés) termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
+| 43. | 3B | teljes díjtétel, a Ktdt. 2. melléklete alapján (kollektív teljesítés) termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
-| 44. | 3C | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
+| 44. | 3C | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
 | 45. | 33 | teljes díjtétel a Ktdt. 2. melléklete alapján (kollektív teljesítés), eltérő felhasználás esetén |
 
@@ -248,57 +258,57 @@
 
 | 48. | 36 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés c) pont ca) vagy cb) alpontja szerint adott nyilatkozata alapján |
 
-| 49. | 3K | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés d) pontja alapján |
+| 49. | 3R | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés d) pontja szerint adott nyilatkozata alapján |
 
-| 50. | 3L | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés e) pontja alapján |
+| 50. | 3E | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés e) pontja szerint adott nyilatkozata alapján |
 
-| 51. | 37 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont aa) alpontja alapján szerződéssel átvállalta |
+| 51. | 3F | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés f) pontja szerint adott nyilatkozata alapján |
 
-| 52. | 3U | a termékdíj nem kerül megfizetésre a Ktdt. 3/A. § (1) bekezdése alapján |
+| 52. | 3K | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés d) pontja alapján |
 
-| 53. | 3A | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont ab) alpontja alapján szerződéssel átvállalta |
+| 53. | 3L | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés e) pontja alapján |
 
-| 54. | 38 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés b) pontja szerinti bérgyártó szerződéssel átvállalta |
+| 54. | 3U | a termékdíj nem kerül megfizetésre a Ktdt. 3/A. § (1) bekezdése alapján |
 
-| 55. | 39 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés c) pontja szerinti termelői szerveződés szerződéssel átvállalta |
+| 55. | 37 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont aa) alpontja alapján szerződéssel átvállalta |
 
-| 56. | 3R | a termékdíj nem kerül megfizetésre a termékdíj raktárba beszállító vevő nyilatkozata alapján |
+| 56. | 3A | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont ab) alpontja alapján szerződéssel átvállalta |
 
-| 57. | 40 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés d) pontja alapján szerződéssel átvállalta |
+| 57. | 38 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés b) pontja szerinti bérgyártó szerződéssel átvállalta |
 
-| 58. | 41 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont ea) alpontja alapján szerződéssel átvállalta |
+| 58. | 39 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés c) pontja szerinti termelői szerveződés szerződéssel átvállalta |
 
-| 59. | 4E | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont eb) alpontja alapján szerződéssel átvállalta |
+| 59. | 40 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés d) pontja alapján szerződéssel átvállalta |
 
-| 60. | 4F | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fa) alpontja alapján szerződéssel átvállalta |
+| 60. | 41 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont ea) alpontja alapján szerződéssel átvállalta |
 
-| 61. | F4 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fb) alpontja alapján szerződéssel átvállalta |
+| 61. | 4E | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont eb) alpontja alapján szerződéssel átvállalta |
 
-| 62. | 4G | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont ga) alpontja alapján szerződéssel átvállalta |
+| 62. | 4F | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fa) alpontja alapján szerződéssel átvállalta |
 
-| 63. | G4 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont gb) alpontja alapján szerződéssel átvállalta |
+| 63. | F4 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fb) alpontja alapján szerződéssel átvállalta |
 
-| 64. | 4H | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés h) pontja alapján visszaigénylésre kerül |
+| 64. | 4G | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont ga) alpontja alapján szerződéssel átvállalta |
 
-| 65. | 43 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés a) pontja alapján visszaigénylésre kerül |
+| 65. | G4 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont gb) alpontja alapján szerződéssel átvállalta |
 
-| 66. | 44 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés b) pontja alapján visszaigénylésre kerül |
+| 66. | 43 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés a) pontja alapján visszaigénylésre kerül |
 
-| 67. | 45 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés c) pontja alapján visszaigénylésre kerül |
+| 67. | 44 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés b) pontja alapján visszaigénylésre kerül |
 
-| 68. | 46 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés d) pontja alapján visszaigénylésre kerül |
+| 68. | 45 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés c) pontja alapján visszaigénylésre kerül |
 
-| 69. | 47 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerül, kivéve selejt, hulladék |
+| 69. | 46 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés d) pontja alapján visszaigénylésre kerül |
 
-| 70. | 48 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerülő selejt, hulladék |
+| 70. | 47 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerül, kivéve selejt, hulladék |
 
-| 71. | 49 | a csomagolószer termékdíja a Ktdt. 25. § (2a) bekezdése alapján visszaigénylésre kerül |
+| 71. | 48 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerülő selejt, hulladék |
 
-| 72. | 4V | a csomagolószer termékdíja ipari termékdíj raktárba történő beszállítás alapján visszaigénylésre kerül |
+| 72. | 4H | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés h) pontja alapján visszaigénylésre kerül |
 
-| 73. | 3E | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés e) pontja szerint adott nyilatkozata alapján |
+| 73. | 49 | a csomagolószer termékdíja a Ktdt. 25. § (2a) bekezdése alapján visszaigénylésre kerül |
 
-| 74. | 3F | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés f) pontja szerint adott nyilatkozata alapján |
+| 74. | 4V | a csomagolószer termékdíja ipari termékdíj raktárba történő beszállítás alapján visszaigénylésre kerül |
 
 | 75. | Külföldről behozott csomagolás részét képező csomagolószer |
 
@@ -306,17 +316,17 @@
 
 | 77. | 51 | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel |
 
-| 78. | 5B | teljes díjtétel, a Ktdt. 2. melléklete alapján (kollektív teljesítés) termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
+| 78. | 5B | teljes díjtétel, a Ktdt. 2. melléklete alapján (kollektív teljesítés) termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
-| 79. | 5C | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
+| 79. | 5C | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
-| 80. | 5L | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés e) pontja alapján |
+| 80. | 5R | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés d) pontja szerint adott nyilatkozata alapján |
 
-| 81. | 54 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont aa) alpontja alapján szerződéssel átvállalta |
+| 81. | 5L | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés e) pontja alapján |
 
-| 82. | 5A | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont ab) alpontja alapján szerződéssel átvállalta |
+| 82. | 54 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont aa) alpontja alapján szerződéssel átvállalta |
 
-| 83. | 5R | a termékdíj nem kerül megfizetésre a termékdíj raktárba beszállító vevő nyilatkozata alapján |
+| 83. | 5A | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont ab) alpontja alapján szerződéssel átvállalta |
 
 | 84. | 55 | a termékdíj a Ktdt. 25. § (1) bekezdés a) pontja alapján visszaigénylésre kerül |
 
@@ -334,7 +344,7 @@
 
 | 91. | 6V | a csomagolószer termékdíja ipari termékdíj raktárba történő beszállítás alapján visszaigénylésre kerül |
 
-## d) CsK kód 6–7. karaktere
+## 2.4. a CsK kód 6–7. karaktere
 
 |  | A | B |
 
@@ -376,9 +386,11 @@
 
 ## KT kódok
 
-## 1. A következő táblázatok az aktuális KT kódok első 3 jegyét tartalmazzák.
+## 1. A következő táblázatok a KT kódok adattartalmát tartalmazzák
 
-## a) akkumulátor KT kódjai
+## 1.1. az aktuális KT kódok 1–3. karaktere
+
+## 1.1.1. akkumulátor KT kódja
 
 |  | A | B |
 
@@ -392,7 +404,7 @@
 
 | 5. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött elektrolittal fel nem töltött akkumulátor | 512 |
 
-## b) egyéb kőolajtermék KT kódjai
+## 1.1.2. egyéb kőolajtermék KT kódja
 
 |  | A | B |
 
@@ -400,49 +412,33 @@
 
 | 2. | Kenőolaj | 601 |
 
-## c) elektromos, elektronikai berendezés KT kódjai
+## 1.1.3. elektromos, elektronikai berendezés KT kódja
 
 |  | A | B |
 
 | 1. | Termékkör megnevezése | KT kód |
 
-| 2. | Nagygép | 101 |
+| 2. | Hőcserélő berendezések | 151 |
 
-| 3. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött nagygép | 111 |
+| 3. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött hőcserélő berendezések | 152 |
 
-| 4. | Kisgép | 102 |
+| 4. | Képernyők, monitorok és olyan berendezések, amelyek 100 cm2-nél nagyobb felszíni képernyőt tartalmaznak | 161 |
 
-| 5. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött kisgép | 112 |
+| 5. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött képernyők, monitorok és olyan berendezések, amelyek 100 cm2-nél nagyobb felszíni képernyőt tartalmaznak | 162 |
 
-| 6. | Információs (IT) és távközlési berendezés, kivéve rádiótelefon készülék | 103 |
+| 6. | Nagygépek (bármely külső méret meghaladja az 50 cm-t) | 171 |
 
-| 7. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött információs (IT) és távközlési berendezés, kivéve rádiótelefon készülék | 113 |
+| 7. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött nagygépek (bármely külső méret meghaladja az 50 cm-t) | 172 |
 
-| 8. | Szórakoztatóelektronikai cikk | 104 |
+| 8. | Kisgépek (egyik külső méretük sem haladja meg az 50 cm-t) | 181 |
 
-| 9. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött szórakoztatóelektronikai cikk | 114 |
+| 9. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött kisgépek (egyik külső méretük sem haladja meg az 50 cm-t) | 182 |
 
-| 10. | Elektromos és elektronikus barkácsgép, szerszám, kivéve a helyhez kötött, nagyméretű ipari szerszám | 105 |
+| 10. | Kisméretű számítástechnikai berendezések és távközlési berendezések (egyik külső méretük sem haladja meg az 50 cm-t) | 191 |
 
-| 11. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött elektromos és elektronikus barkácsgép, szerszám, kivéve a helyhez kötött, nagyméretű ipari szerszám | 115 |
+| 11. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött kisméretű számítástechnikai berendezések és távközlési berendezések (egyik külső méretük sem haladja meg az 50 cm-t) | 192 |
 
-| 12. | Játék, szabadidős és sportfelszerelés | 106 |
-
-| 13. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött játékok, szabadidős és sportfelszerelés | 116 |
-
-| 14. | Ellenőrző, vezérlő és megfigyelő eszköz | 107 |
-
-| 15. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött ellenőrző, vezérlő és megfigyelő eszköz | 117 |
-
-| 16. | Adagoló automata | 108 |
-
-| 17. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött adagoló automata | 118 |
-
-| 18. | Rádiótelefon-készülék | 109 |
-
-| 19. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött rádiótelefon-készülék | 119 |
-
-## d) gumiabroncs KT kódja
+## 1.1.4. gumiabroncs KT kódja
 
 |  | A | B |
 
@@ -452,15 +448,15 @@
 
 | 3. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött gumiabroncs | 212 |
 
-## e) reklámhordozó papír KT kódja
+## 1.1.5. reklámhordozó papír KT kódja
 
 |  | A | B |
 
 | 1. | Termék megnevezése | KT kód |
 
-| 2. | Reklámhordozó papírok | 900 |
+| 2. | Reklámhordozó papír | 900 |
 
-## f) egyéb műanyagtermék KT kódja
+## 1.1.6. egyéb műanyagtermék KT kódja
 
 |  | A | B |
 
@@ -468,7 +464,7 @@
 
 | 2. | Műanyag művirág, levél- és gyümölcsutánzat és ezek részei; ezekből készült áru | 301 |
 
-## g) egyéb vegyipari termék KT kódja
+## 1.1.7. egyéb vegyipari termék KT kódja
 
 |  | A | B |
 
@@ -478,7 +474,7 @@
 
 | 3. | Szépség- vagy testápoló készítmény | 702 |
 
-## h) irodai papírok környezetvédelmi termékkódjai
+## 1.1.8. irodai papír KT kódja
 
 |  | A | B |
 
@@ -486,93 +482,107 @@
 
 | 2. | Irodai papír | 801 |
 
-## i) a gépjármű termékdíjköteles alkotórésze, tartozéka után meghatározott összegű termékdíjátalány alkalmazásának KT kódja
+## 1.1.9. a gépjármű termékdíjköteles alkotórésze, tartozéka után meghatározott összegű termékdíjátalány alkalmazásának KT kódja
 
 |  | A | B |
 
-| 1. | Vtsz. és megnevezés | KT kód |
+| 1. | Vtsz. és HR alszám, megnevezés | KT kód |
 
-| 2. | 8702 10 Kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral működő | J02 |
+| 2. | 8702 10 Kizárólag kompressziós gyújtású, dugattyús, belső égésű (dízel- vagy féldízel) motorral működő | J02 |
 
-| 3. | 8702 90 Más gépjármű a vezetőt is beleértve 10 vagy annál több személy szállítására | J03 |
+| 3. | 8702 20 Kompressziós gyújtású, dugattyús, belső égésű (dízel- vagy féldízel) motorral és hajtómotorként elektromos motorral is működő | H01 |
 
-| 4. | 8703 10 Speciálisan, havon való közlekedésre tervezett járművek; golfkocsik és hasonló járművek | J13 |
+| 4. | 8702 30 Szikragyújtású, dugattyús, belső égésű motorral és hajtómotorként elektromos motorral is működő | H02 |
 
-| 5. | 8703 21 Más szikragyújtású, dugattyús, belső égésű motorral működő jármű legfeljebb 1000 cm3 hengerűrtartalommal | J21 |
+| 5. | 8702 40 Kizárólag elektromos hajtómotorral működő | V01 |
 
-| 6. | 8703 22 Más szikragyújtású, dugattyús, belső égésű motorral működő jármű 1000 cm3 -t meghaladó, de legfeljebb 1500 cm3 hengerűrtartalommal | J22 |
+| 6. | 8702 90 Más gépjármű a vezetőt is beleértve 10 vagy annál több személy szállítására | J03 |
 
-| 7. | 8703 23 Más szikragyújtású, dugattyús, belső égésű motorral működő jármű 1500 cm3-t meghaladó, de legfeljebb 3000 cm3 hengerűrtartalommal | J23 |
+| 7. | 8703 10 Speciálisan, havon való közlekedésre tervezett farművek; golfkocsik és hasonló járművek | J13 |
 
-| 8. | 8703 24 Más szikragyújtású, dugattyús, belső égésű motorral működő jármű 3000 cm3-t meghaladó hengerűrtartalommal | J24 |
+| 8. | 8703 21 Más jármű, kizárólag szikragyújtású, dugattyús, belső égésű motorral működő, legfeljebb 1000 cm3 | J21 |
 
-| 9. | 8703 31 Más kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral működő legfeljebb 1500 cm3 hengerűrtartalommal | J31 |
+| 9. | 8703 22 Más jármű, kizárólag szikragyújtású, dugattyús, belső égésű motorral működő, 1000 cm3 -t meghaladó, de legfeljebb 1500 cm3 hengerűrtartalommal | J22 |
 
-| 10. | 8703 32 Más kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral működő 1500 cm3-t meghaladó, de legfeljebb 2500 cm3hengerűrtartalommal | J32 |
+| 10. | 8703 23 Más jármű, kizárólag szikragyújtású, dugattyús, belső égésű motorral működő, 1500 cm3-t meghaladó, de legfeljebb 3000 cm3 hengerűrtartalommal | J23 |
 
-| 11. | 8703 33 Más kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral működő 2500 cm3-t meghaladó hengerűrtartalommal | J33 |
+| 11. | 8703 24 Más jármű, kizárólag szikragyújtású, dugattyús, belső égésű motorral működő, 3000 cm3 -t meghaladó hengerűrtartalommal | J24 |
 
-| 12. | 8703 90 Más (elektromos motorral, más) | J90 |
+| 12. | 8703 31 Más jármű, kizárólag kompressziós gyújtású, dugattyús, belső égésű (dízel- vagy féldízel) motorral működő legfeljebb 1500 cm3 hengerűrtartalommal | J31 |
 
-| 13. | 8704 10 Áruszállító gépjármű, dömper, terepjáró kivitelű | J41 |
+| 13. | 8703 32 Más jármű, kizárólag kompressziós gyújtású, dugattyús, belső égésű (dízel- vagy féldízel) motorral működő 1500 cm3-t meghaladó, de legfeljebb 2500 cm3 hengerűrtartalommal | J32 |
 
-| 14. | 8704 21 Más, áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral működő, legfeljebb 5 tonna össztömegű | J42 |
+| 14. | 8703 33 Más jármű, kizárólag kompressziós gyújtású, dugattyús, belső égésű (dízel- vagy féldízel) motorral működő 2500 cm3-t meghaladó hengerűrtartalommal | J33 |
 
-| 15. | 8704 22 Más, áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral működő, 5 tonnát meghaladó, de legfeljebb 20 tonna össztömegű | J43 |
+| 15. | 8703 40 Más jármű, szikragyújtású, dugattyús, belső égésű motorral és hajtómotorként elektromos motorral is működő, a külső elektromos áramforrásra csatlakoztathatóan tölthetők kivételével | H03 |
 
-| 16. | 8704 23 Más, áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral működő, 20 tonna össztömeget meghaladó | J44 |
+| 16. | 8703 50 Más jármű, kompressziós gyújtású, dugattyús, belső égésű (dízel- vagy féldízel) motorral és hajtómotorként elektromos motorral is működő, a külső elektromos áramforrásra csatlakoztathatóan tölthetők kivételével | H04 |
 
-| 17. | 8704 31 Más, áruszállító gépjármű, szikragyújtású, dugattyús, belső égésű motorral működő, legfeljebb 5 tonna össztömegű | J45 |
+| 17. | 8703 60 Más jármű, szikragyújtású, dugattyús, belső égésű motorral és hajtómotorként elektromos motorral is működő, külső elektromos áramforrásra csatlakoztathatóan tölthető | H05 |
 
-| 18. | 8704 32 Más, áruszállító gépjármű, szikragyújtású, dugattyús, belső égésű motorral működő, 5 tonna össztömeget meghaladó | J46 |
+| 18. | 8703 70 Más jármű, kompressziós gyújtású, dugattyús, belső égésű (dízel- vagy féldízel) motorral és hajtómotorként elektromos motorral is működő, külső elektromos áramforrásra csatlakoztathatóan tölthető | H06 |
 
-| 19. | 8704 90 Más áruszállító gépjármű | J47 |
+| 19. | 8703 80 Más jármű, kizárólag elektromos hajtómotorral működő | V02 |
 
-| 20. | 8711 10 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; legfeljebb 50 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J10 |
+| 20. | 8703 90 Más gépkocsi és más gépjármű, elsősorban személyszállításra tervezett (a 8702 vtsz. alá tartozó kivételével), beleértve a kombi típusú gépkocsit és a versenyautót is | J90 |
 
-| 21. | 8711 20 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 50 cm3-t meghaladó, de legfeljebb 250 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J20 |
+| 21. | 8704 10 Dömper, terepjáró kivitelű | J41 |
 
-| 22. | 8711 30 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 250 cm3-t meghaladó, de legfeljebb 500 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J30 |
+| 22. | 8704 21 Más áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel- vagy féldízel) motorral működő, legfeljebb 5 tonna össztömegű | J42 |
 
-| 23. | 8711 40 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 500 cm3-t meghaladó, de legfeljebb 800 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J40 |
+| 23. | 8704 22 Más áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel- vagy féldízel) motorral működő, 5 tonnát meghaladó, de legfeljebb 20 tonna össztömegű | J43 |
 
-| 24. | 8711 50 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 800 cm3-t meghaladó hengerűrtartalmú, dugattyús, belső égésű motorral működő | J50 |
+| 24. | 8704 23 Más áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel- vagy féldízel) motorral működő, 20 tonna össztömeget meghaladó | J44 |
 
-## 2. A következő táblázat az elévülési időn belüli visszaigénylések során alkalmazható KT kódok első 3 jegyét tartalmazzák
+| 25. | 8704 31 Más áruszállító gépjármű, szikragyújtású, dugattyús, belső égésű motorral működő, legfeljebb 5 tonna össztömegű | J45 |
 
-## A 2011. évben alkalmazott kereskedelmi csomagolás környezetvédelmi termékdíj kódjai
+| 26. | 8704 32 Más áruszállító gépjármű, szikragyújtású, dugattyús, belső égésű motorral működő, 5 tonna össztömeget meghaladó | J46 |
 
-|  | A | B |
+| 27. | 8704 90 Más áruszállító gépjármű | J47 |
 
-|  | Csomagolás típusa | KT kód |
+| 28. | 8711 10 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; legfeljebb 50 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J10 |
 
-| 1. | Műanyag [kivéve műanyag (bevásárló-reklám) táska] | 4MA |
+| 29. | 8711 20 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 50 cm3-t meghaladó, de legfeljebb 250 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J20 |
 
-| 2. | Műanyag (bevásárló-reklám) táska | 4MT |
+| 30. | 8711 30 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 250 cm3-t meghaladó, de legfeljebb 500 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J30 |
 
-| 3. | Üveg | 4ÜV |
+| 31. | 8711 40 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 500 cm3-t meghaladó, de legfeljebb 800 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J40 |
 
-| 4. | Társított csomagolás |  |
+| 32. | 8711 50 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 800 cm3-t meghaladó hengerűrtartalmú, dugattyús, belső égésű motorral működő | J50 |
 
-| 5. | Rétegzett italcsomagolás | 4RI |
+| 33. | 8711 60 Elektromos hajtómotorral működő motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is (kivéve a 8711 60 9 0 vtsz. hatálya alá tartozó termékek) | V03 |
 
-| 6. | Egyéb | 4TE |
+## 1.2. A következő táblázat az elévülési időn belüli visszaigénylések során alkalmazható KT kódok 1–3. karakterét tartalmazza
 
-| 7. | Fém (kivéve alumínium) | 4FM |
-
-| 8. | Alumínium | 4LU |
-
-| 9. | Egyéb anyagok | 4EG |
-
-| 10. | Gyűjtő kód újrahasználható csomagolás levonásához | 4ÚL |
-
-| 11. | Gyűjtő kód nem újrahasználható csomagolás a környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény 5/E. § (1) bekezdés szerinti levonásához | 4OC |
-
-## 3. A KT kód 4–5. jegye:
+## 1.2.1. az elektromos, elektronikai berendezések KT kódjának 1–3. karaktere
 
 |  | A | B |
 
-| 1. | KT kód | Megnevezés |
+| 1. | Termékkör megnevezése | KT kód |
+
+| 2. | Nagygép | 101 |
+
+| 3. | Kisgép | 102 |
+
+| 4. | Információs (IT) és távközlési berendezés, kivéve rádiótelefon készülék | 103 |
+
+| 5. | Szórakoztatóelektronikai cikk | 104 |
+
+| 6. | Elektromos és elektronikus barkácsgép, szerszám, kivéve a helyhez kötött, nagyméretű ipari szerszám | 105 |
+
+| 7. | Játék, szabadidős és sportfelszerelés | 106 |
+
+| 8. | Ellenőrző, vezérlő és megfigyelő eszköz | 107 |
+
+| 9. | Adagoló automata | 108 |
+
+| 10. | Rádiótelefon-készülék | 109 |
+
+## 2. A KT kód 4–5. jegye:
+
+|  | A | B |
+
+| 1. | Kód | Megnevezés |
 
 | 2. | 01 | ha a termékdíj megfizetése a Ktdt. 2. mellékletében foglalt díjtételekkel történik (kollektív teljesítés) |
 
@@ -580,43 +590,63 @@
 
 | 4. | 03 | ha a termékdíjátalány megfizetése a Ktdt. 4. mellékletben foglalt díjtételekkel történik |
 
-| 5. | 04 | ha a termékdíj megfizetése a Ktdt. 2. mellékletében foglalt díjtételekkel történik (kollektív teljesítés) termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
+| 5. | 04 | ha a termékdíj megfizetése a Ktdt. 2. mellékletében foglalt díjtételekkel történik (kollektív teljesítés) termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
-| 6. | 05 | ha a termékdíj megfizetése a Ktdt. 3. mellékletében foglalt számított díjtételekkel történik termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
+| 6. | 05 | ha a termékdíj megfizetése a Ktdt. 3. mellékletében foglalt számított díjtételekkel történik termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
-| 7. | 06 | ha a termékdíjátalány megfizetése a Ktdt. 4. mellékletben foglalt díjtételekkel történik termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
+| 7. | 06 | ha a termékdíjátalány megfizetése a Ktdt. 4. mellékletben foglalt díjtételekkel történik termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
-| 8. | 71 | ha a termékdíjat az egyéb kőolajtermék alapanyagként történő felhasználása esetén nem kell megfizetni |
+| 8. | 7R | ha a termékdíj nem kerül megfizetésre a termékdíj raktár engedélyes vevő nyilatkozata alapján |
 
-| 9. | 72 | ha a termékdíjat az egyéb kőolajtermék R9 eljárással történő előállítása esetén nem kell megfizetni |
+| 9. | 07 | ha a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés g) pontja szerint adott nyilatkozata alapján |
 
-| 10. | 73 | ha a termékdíj-kötelezettség az egyéb kőolajtermék után számlán átvállalásra került |
+| 10. | 08 | ha a termékdíj a Ktdt. 3/B. a) pontja alapján (70%-os mértékben) kerül megfizetésre |
 
-| 11. | 74 | ha a termékdíjat az újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött termék után nem kell megfizetni |
+| 11. | 09 | ha a termékdíj a Ktdt. 3/B. b) pontja alapján (50%-os mértékben) kerül megfizetésre |
 
-| 12. | 77 | ha a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés a) pontja alapján szerződéssel átvállalásra került |
+| 12. | 10 | ha a 4. mellékletben foglalt termékdíjátalány a Ktdt. 3/B. § a) pontja alapján (70%-os mértékben) kerül megfizetésre |
 
-| 13. | 78 | ha a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés b) pontja alapján szerződéssel átvállalásra került |
+| 13. | 11 | ha a 4. mellékletben foglalt termékdíjátalány a Ktdt. 3/B. § b) pontja alapján (50%-os mértékben) kerül megfizetésre |
 
-| 14. | 7R | ha a termékdíj nem kerül megfizetésre a termékdíj raktár engedélyes vevő nyilatkozata alapján |
+| 14. | 12 | ha a 4. mellékletben foglalt termékdíjátalány a Ktdt. 3/B. § a) pontja alapján (70%-os mértékben) kerül megfizetésre a termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
-| 15. | 81 | ha a termékdíj megfizetésre került és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés a) pontja alapján |
+| 15. | 13 | ha a 4. mellékletben foglalt termékdíjátalány a Ktdt. 3/B. § b) pontja alapján (50%-os mértékben) kerül megfizetésre a termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
-| 16. | 82 | ha a termékdíj megfizetésre került és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés b) pontja alapján |
+| 16. | 14 | teljes díjtétel a Ktdt. 2. melléklete alapján (kollektív teljesítés), nyilatkozattól való eltérő felhasználás esetén |
 
-| 17. | 83 | ha a termékdíj megfizetésre került és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés c) pontja alapján |
+| 17. | 61 | ha a termékdíj a Ktdt. 3. § (9) bekezdés f) pont fa) alpontja alapján nem kell megfizetni |
 
-| 18. | 84 | ha a termékdíj megfizetésre került és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés d) pontja alapján |
+| 18. | 62 | ha a termékdíj a Ktdt. 3. § (9) bekezdés f) pont fb) alpontja alapján nem kell megfizetni |
 
-| 19. | 85 | ha a termékdíj megfizetésre került és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés e) pontja alapján |
+| 19. | 71 | ha a termékdíjat az egyéb kőolajtermék alapanyagként történő felhasználása esetén nem kell megfizetni |
 
-| 20. | 86 | ha a termékdíj megfizetésre került és az anyagában történő hasznosítás következtében visszaigénylésre kerül a Ktdt. 25. § (2) bekezdése alapján |
+| 20. | 72 | ha a termékdíjat az egyéb kőolajtermék R9 eljárással történő előállítása esetén nem kell megfizetni |
 
-| 21. | 89 | ha a termékdíj megfizetésre került és a visszaigénylésre egyéb jogcímen kerül sor |
+| 21. | 73 | ha a termékdíj-kötelezettség az egyéb kőolajtermék után számlán átvállalásra került |
 
-| 22. | 8V | ha a termékdíj visszaigénylésre kerül az ipari termékdíj raktárba történő beszállítás alapján |
+| 22. | 74 | ha a termékdíjat az újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött termék után nem kell megfizetni |
 
-## 4. A KT kód 6–7. kiegészítő jegye:
+| 23. | 77 | ha a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés a) pontja alapján szerződéssel átvállalásra került |
+
+| 24. | 78 | ha a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés b) pontja alapján szerződéssel átvállalásra került |
+
+| 25. | 81 | ha a termékdíj megfizetésre került és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés a) pontja alapján |
+
+| 26. | 82 | ha a termékdíj megfizetésre került és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés b) pontja alapján |
+
+| 27. | 83 | ha a termékdíj megfizetésre került és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés c) pontja alapján |
+
+| 28. | 84 | ha a termékdíj megfizetésre került és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés d) pontja alapján |
+
+| 29. | 85 | ha a termékdíj megfizetésre került és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés e) pontja alapján |
+
+| 30. | 86 | ha a termékdíj megfizetésre került és az anyagában történő hasznosítás következtében visszaigénylésre kerül a Ktdt. 25. § (2) bekezdése alapján |
+
+| 31. | 89 | ha a termékdíj megfizetésre került és a visszaigénylésre egyéb jogcímen kerül sor |
+
+| 32. | 8V | ha a termékdíj visszaigénylésre kerül az ipari termékdíj raktárba történő betárolás alapján |
+
+## 3. A KT kód 6–7. kiegészítő jegye:
 
 |  | A | B |
 
@@ -636,7 +666,7 @@
 
 | 8. | K2 | külföldről behozott, nem termékdíjköteles termék termékdíjköteles alkotórésze, tartozéka esetén |
 
-## 5. A 7 számjegyű HKT kód felépítése
+## 4. A 7 számjegyű HKT kód felépítése
 
 |  | A | B | C |
 
@@ -704,10 +734,10 @@
 
 | 32. | 4** | – csomagolás hulladéka ** a CsK kód 2–3. karaktere szerint |
 
-| 33. |  | 5** | – akkumulátor hulladéka ** a KT kód 2–3. karaktere szerint |
+| 33. | 5** | – akkumulátor hulladéka ** a KT kód 2–3. karaktere szerint |
 
-| 34. | 6** | – kenő olaj hulladéka ** a KT kód 2–3. karaktere szerint |
+| 34. | 6** | – kenőolaj hulladéka ** a KT kód 2–3. karaktere szerint |
 
-2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^113]
+2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^114]
 
-[^113]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^114]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.

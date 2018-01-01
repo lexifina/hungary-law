@@ -1,4 +1,4 @@
-9. §[^24] (1) A termékdíj-kötelezettség szerződés alapján való átvállalása esetén a szerződés
+9. §[^26] (1) A termékdíj-kötelezettség szerződés alapján való átvállalása esetén a szerződés
 
 a) a szerződő felek nevét, címét, adószámát vagy adószám hiányában adóazonosító jelét,
 
@@ -28,4 +28,4 @@ igazolja.
 
 (3) Szerződéses átvállalás esetén a belföldi forgalomba hozatalról szóló számlán – a számla tételeire hivatkozva – a következő szöveget kell feltüntetni: „a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés ...) pontja ...) alpontja alapján a vevőt terheli”.
 
-[^24]: A 9. § a 446/2016. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^26]: A 9. § a 446/2016. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.

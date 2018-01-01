@@ -1,6 +1,6 @@
-## 2/A. [^6] Termékdíj raktár
+## 2/A. [^8] Termékdíj raktár
 
-2/B. §[^7] (1) A termékdíj raktár engedélyezése feltételeinek fennállását az állami adó- és vámhatóság előzetesen a helyszínen is megvizsgálja.
+2/B. §[^9] (1) A termékdíj raktár engedélyezése feltételeinek fennállását az állami adó- és vámhatóság előzetesen a helyszínen is megvizsgálja.
 
 (2) A termékdíj raktár engedély iránti kérelem elektronikus úton, az állami adóhatóság által közzétett – a (3) bekezdésben meghatározott tartalmú – elektronikus formanyomtatvány alkalmazásával nyújtható be.
 
@@ -8,7 +8,7 @@
 
 a) a kérelmező nevét, címét, adószámát,
 
-b)[^8] a termékdíj raktár típusát (ipari vagy kereskedelmi termékdíj raktár) és a beszállítani kívánt termékdíjköteles termékek termék- és anyagáramának megnevezését,
+b)[^10] a termékdíj raktár típusát (ipari vagy kereskedelmi termékdíj raktár) és a betárolni kívánt termékdíjköteles termékek termék- és anyagáramának megnevezését,
 
 c) a nyilvántartási és bizonylati rend bemutatását,
 
@@ -24,11 +24,11 @@ f) a termékdíj ügyintéző szakképesítéssel rendelkező foglalkoztatott va
 
 (4) Az állami adó- és vámhatóság a termékdíj raktár engedélyezésére vonatkozó kérelmet 30 napon belül bírálja el.
 
-(5)[^9] A termékdíj raktár engedélyese a termék- és anyagáram bővítését vagy szűkítését, a termékdíj raktár címén, helyrajzi számán belüli termékdíj raktár területének megváltoztatását, továbbá az ideiglenes kiadás alkalmazására irányuló nyilatkozat módosítását az engedély módosítására irányuló kérelem útján, a (2) bekezdésben meghatározott módon kezdeményezheti.
+(5)[^11] A termékdíj raktár engedélyese a termék- és anyagáram bővítését vagy szűkítését, a termékdíj raktár címén, helyrajzi számán belüli termékdíj raktár területének megváltoztatását, továbbá az ideiglenes kiadás alkalmazására irányuló nyilatkozat módosítását vagy az engedély hatályának a meghosszabbítását az engedély módosítására irányuló kérelem útján, a (2) bekezdésben meghatározott módon kezdeményezheti.
 
 (6) Az engedély módosítására irányuló (5) bekezdés szerinti kérelmet az állami adó- és vámhatóság 30 napon belül bírálja el. Az állami adó- és vámhatóság a kérelem elbírálása során az (1) bekezdésben meghatározott helyszíni vizsgálatot végezhet.
 
-[^6]: A 2/A. alcímet (2/B–2/F. §) az 529/2013. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^7]: A 2/B. § a 386/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^8]: A 2/B. § (3) bekezdés b) pontja a 407/2015. (XII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^9]: A 2/B. § (5) bekezdése a 407/2015. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2/A. alcímet (2/B–2/F. §) az 529/2013. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^9]: A 2/B. § a 386/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 2/B. § (3) bekezdés b) pontja a 407/2015. (XII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 446/2017. (XII. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^11]: A 2/B. § (5) bekezdése a 407/2015. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 446/2017. (XII. 27.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.

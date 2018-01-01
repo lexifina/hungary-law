@@ -1,6 +1,6 @@
-## 11. [^61] Az állami hulladékgazdálkodást közvetítő szervezet, a környezetvédelmi hatóság, valamint az állami adó- és vámhatóság közötti adatszolgáltatás szabályai
+## 11. [^63] Az állami hulladékgazdálkodást közvetítő szervezet, a környezetvédelmi hatóság, valamint az állami adó- és vámhatóság közötti adatszolgáltatás szabályai
 
-21. § (1)[^62] A termékdíj-kötelezettséggel, illetve a Ktdt.-ből adódó feladatok végrehajtása érdekében az állami hulladékgazdálkodást közvetítő szervezet számára adatot szolgáltat a környezetvédelmi hatóság, valamint az állami adó- és vámhatóság.
+21. § (1)[^64] A termékdíj-kötelezettséggel, illetve a Ktdt.-ből adódó feladatok végrehajtása érdekében az állami hulladékgazdálkodást közvetítő szervezet számára adatot szolgáltat a környezetvédelmi hatóság, valamint az állami adó- és vámhatóság.
 
 (2) Az adatszolgáltatás térítésmentesen, az alábbi formákban történhet:
 
@@ -10,11 +10,11 @@ b) a környezetvédelmi hatóság, valamint a környezetvédelemért felelős mi
 
 c) eseti megkeresésre.
 
-(3)[^63] A hatóságok eseti megkeresése az állami hulladékgazdálkodást közvetítő szervezet részéről írásban történik. A hatóság a kérés beérkezésétől számított 15 napon belül megküldi a kért adatokat.
+(3)[^65] A hatóságok eseti megkeresése az állami hulladékgazdálkodást közvetítő szervezet részéről írásban történik. A hatóság a kérés beérkezésétől számított 15 napon belül megküldi a kért adatokat.
 
-(4)[^64] Az állami adó- és vámhatóság az egyéni hulladékkezelők hulladékgazdálkodással kapcsolatos – 2. és 4. mellékletben megjelölt – adatait a környezetvédelemért felelős miniszternek rendszeresen megküldi.
+(4)[^66] Az állami adó- és vámhatóság az egyéni hulladékkezelők hulladékgazdálkodással kapcsolatos – 2. és 4. mellékletben megjelölt – adatait a környezetvédelemért felelős miniszternek rendszeresen megküldi.
 
-[^61]: A 11. alcím címe a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése, a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^62]: A 21. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése, a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^63]: A 21. § (3) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^64]: A 21. § (4) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 190. § b) pontja szerint módosított szöveg.
+[^63]: A 11. alcím címe a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése, a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^64]: A 21. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése, a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^65]: A 21. § (3) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^66]: A 21. § (4) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 190. § b) pontja szerint módosított szöveg.

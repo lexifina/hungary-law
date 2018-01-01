@@ -1,4 +1,4 @@
-7. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^136]
+7. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^138]
 
 1. A termékdíj raktár nyilvántartásának adattartalma
 
@@ -28,9 +28,9 @@ A termékdíjköteles termék:
 
 1.1.4.6. tömege (kg),
 
-1.1.4.7. a termék termékdíjfizetési státusza (megfizetett, nem került még megfizetésre, visszatérítésre került az eladó részére);
+1.1.4.7.[^139] a termék termékdíjfizetési státusza (megfizetett, nem került még megfizetésre, visszatérítésre kerül az eladó részére);
 
-1.1.5.[^137] a tárolás célja (tárolás, feldolgozás, előállítás, újbóli felhasználásra előkészítés, készletezés vagy alkotórészként, tartozékként más termékbe történő beépítés);
+1.1.5.[^140] a tárolás célja (tárolás, feldolgozás, előállítás, újbóli felhasználásra előkészítés, készletezés vagy alkotórészként, tartozékként más termékbe történő beépítés);
 
 1.1.6. a tulajdonos adatai (név, cím, adószám);
 
@@ -54,13 +54,13 @@ A termékdíjköteles termék:
 
 1.2.3. a gyártási tevékenység és a felhasznált anyagok rövid leírása;
 
-1.2.4.[^138] anyagmérleg, amely pontosan bemutatja a gyártáshoz, feldolgozáshoz, újbóli felhasználásra előkészítéshez közvetlen anyagként felhasznált termékdíjköteles termékek mennyiségét, illetve a létrejött termékdíjköteles termék mennyiségét és az egységnyi termékdíjköteles termék létrehozásához felhasznált anyagok mennyiségét (anyagnormáját);
+1.2.4.[^141] anyagmérleg, amely pontosan bemutatja a gyártáshoz, feldolgozáshoz, újbóli felhasználásra előkészítéshez közvetlen anyagként felhasznált termékdíjköteles termékek mennyiségét, illetve a létrejött termékdíjköteles termék mennyiségét és az egységnyi termékdíjköteles termék létrehozásához felhasznált anyagok mennyiségét (anyagnormáját);
 
-1.3.[^139] kiszállításának adatai:
+1.3.[^142] kitárolásának adatai:
 
-1.3.1.[^140] kiszállítás napja;
+1.3.1.[^143] kitárolás napja;
 
-1.3.2.[^141] a kiszállítás oka (forgalomba hozatal belföldre, kiszállítás külföldre, saját célú felhasználás) vagy az újrahasználható csomagolószer bérbe adása;
+1.3.2.[^144] a kitárolás oka (forgalomba hozatal belföldre, kiszállítás külföldre, saját célú felhasználás) vagy az újrahasználható csomagolószer bérbe adása;
 
 1.3.3. értékesítés esetén a vevő adatai (név, cím, belföldi vagy közösségi adószám, ha a vevő adószámmal rendelkezik);
 
@@ -76,11 +76,11 @@ A termékdíjköteles termék:
 
 1.3.5.4. mennyisége (db), egységnyi tömege (kg/db), tömege (kg);
 
-1.3.6. a termék termékdíjfizetési státusza (a kiszállításkor keletkező kötelezettség, nem kell megfizetni, nem keletkezik fizetési kötelezettség, a vevő szerződéssel átvállalta, visszatérítésre kerül a kitároló részére);
+1.3.6.[^145] a termék termékdíjfizetési státusza (a kitároláskor keletkező kötelezettség, nem kell megfizetni, nem keletkezik fizetési kötelezettség, a vevő szerződéssel átvállalta, visszatérítésre kerül a kitároló részére);
 
-1.3.7. a termékdíj-kötelezettség keletkezésének napja vagy ennek hiányában a kötelezettség megszűnésének napja és pontos jogszabályi helyének megjelölése.
+1.3.7.[^146] a termékdíj-kötelezettség keletkezésének napja vagy ennek hiányában a kötelezettség megszűnése jogszabályi helyének megjelölése.
 
-1.4.[^142] ideiglenes kiadásának adatai:
+1.4.[^147] ideiglenes kiadásának adatai:
 
 1.4.1. ideiglenes kiadás napja;
 
@@ -96,13 +96,13 @@ A termékdíjköteles termék:
 
 1.4.3.4. mennyisége (db), egységnyi tömege (kg/db), tömege (kg).
 
-2. A termékdíj raktári beszállítás és kiszállítás rendje
+2.[^148] A termékdíj raktári betárolás és kitárolás rendje
 
-2.1. A termékdíj raktározási eljárás a termékdíjköteles termék termékdíj raktárba történő beszállítását, az ott történő tárolását, feldolgozását, előállítását, készletezését, továbbá az újbóli felhasználásra történő előkészítését, ideiglenes kiadását és az abból történő visszavételét, valamint az onnan történő kiszállítását foglalja magában.
+2.1.[^149] A termékdíj raktározási eljárás a termékdíjköteles termék termékdíj raktárba történő betárolását, az ott történő tárolását, feldolgozását, előállítását, készletezését, továbbá az újbóli felhasználásra történő előkészítését, ideiglenes kiadását és az abból történő visszavételét, valamint az onnan történő kitárolását foglalja magában.
 
 2.2. Abban az esetben, ha a termékdíj raktárban tárolt terméket a termékdíj raktározási eljárás alatt értékesítették, az engedélyes köteles az értékesítés tényét a termékdíj raktár nyilvántartásába bejegyezni és a továbbiakban a termék tulajdonosa jogosult a termékdíjköteles termék kiszállítására.
 
-2.3.[^143] Egyik termékdíj raktárból egy másik termékdíj raktárba történő áttárolás abban az esetben végezhető, ha az áttárolás során a tulajdonjogban változás nem következik be.
+2.3.[^150] Egyik termékdíj raktárból egy másik termékdíj raktárba történő áttárolás abban az esetben végezhető, ha az áttárolás során a tulajdonjogban változás nem következik be.
 
 3. A termékdíj raktárban végezhető szokásos kezelési módok listája
 
@@ -122,11 +122,11 @@ Az alább felsorolt szokásos kezelési módok az engedélybe foglalás nélkül
 
 3.7. a termékek megosztása vagy méretre vágása, ha csak egyszerű műveletekről van szó;
 
-3.8.[^144] csomagolás létrehozása, kicsomagolás, a csomagolás megváltoztatása, lefejtés, szállítótartályokba történő egyszerű áthelyezés, jelzések, pecsétek, címkék, árcédulák vagy más hasonló megkülönböztető jelek rögzítése, eltávolítása és megváltoztatása;
+3.8.[^151] csomagolás létrehozása, kicsomagolás, a csomagolás megváltoztatása, lefejtés, szállítótartályokba történő egyszerű áthelyezés, jelzések, pecsétek, címkék, árcédulák vagy más hasonló megkülönböztető jelek rögzítése, eltávolítása és megváltoztatása;
 
 3.9. gépek, berendezések és járművek tesztelése, beállítása, beszabályozása és üzembe helyezése, különösen a műszaki szabványoknak való megfelelés ellenőrzése végett, ha csak egyszerű műveletekről van szó.
 
-4. A termékdíj raktárba történő be- és kiszállításról, továbbá a raktárkészletről szóló adatszolgáltatás adattartalma
+4.[^152] A termékdíj raktárba történő be- és kitárolásról, továbbá a raktárkészletről szóló adatszolgáltatás adattartalma
 
 4.1. Alapadatok
 
@@ -158,67 +158,81 @@ Az alább felsorolt szokásos kezelési módok az engedélybe foglalás nélkül
 
 4.3.4. összesített mennyisége,
 
-4.3.5.[^145] a kiszállítás oka jogcíme:
+4.3.5.[^153] a kitárolás oka, jogcíme:
 
-| B01 | belföldi forgalomba hozatal termékdíj megfizetésével |
+|  | A | B |
 
-| B10 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés a) pontja szerint adott nyilatkozata alapján |
+| 1. | B01 | belföldi forgalomba hozatal termékdíj megfizetésével |
 
-| B11 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés b) pontja szerint adott nyilatkozata alapján |
+| 2. | B10 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés a) pontja szerint adott nyilatkozata alapján |
 
-| B12 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés c) pontja szerint adott nyilatkozata alapján |
+| 3. | B11 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés b) pontja szerint adott nyilatkozata alapján |
 
-| B13 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés d) pontja szerint adott nyilatkozata alapján |
+| 4. | B12 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés c) pontja szerint adott nyilatkozata alapján |
 
-| B14 | belföldi forgalomba hozatal, a termékdíjat az egyéb kőolajtermék alapanyagként történő felhasználása esetén nem kell megfizetni |
+| 5. | B13 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés d) pontja szerint adott nyilatkozata alapján |
 
-| B15 | belföldi forgalomba hozatal, a termékdíjat az egyéb kőolajtermék R9 eljárással történő előállítása esetén nem kell megfizetni |
+| 6. | B14 | belföldi forgalomba hozatal, a termékdíjat az egyéb kőolajtermék alapanyagként történő felhasználása esetén nem kell megfizetni |
 
-| B16 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés e) pontja szerint adott nyilatkozata alapján |
+| 7. | B15 | belföldi forgalomba hozatal, a termékdíjat az egyéb kőolajtermék R9 eljárással történő előállítása esetén nem kell megfizetni |
 
-| B17 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés f) pontja szerint adott nyilatkozata alapján |
+| 8. | B16 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés e) pontja szerint adott nyilatkozata alapján |
 
-| B20 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés a) pontja alapján szerződéssel átvállalásra került |
+| 9. | B17 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés f) pontja szerint adott nyilatkozata alapján |
 
-| B21 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés b) pontja alapján szerződéssel átvállalásra került |
+| 10. | B20 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés a) pontja alapján szerződéssel átvállalásra került |
 
-| B22 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés c) pontja alapján szerződéssel átvállalásra került |
+| 11. | B21 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés b) pontja alapján szerződéssel átvállalásra került |
 
-| B23 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés d) pontja alapján szerződéssel átvállalásra került |
+| 12. | B22 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés c) pontja alapján szerződéssel átvállalásra került |
 
-| B24 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés e) pontja alapján szerződéssel átvállalásra került |
+| 13. | B23 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés d) pontja alapján szerződéssel átvállalásra került |
 
-| B25 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés f) pontja alapján szerződéssel átvállalásra került |
+| 14. | B24 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés e) pontja alapján szerződéssel átvállalásra került |
 
-| B26 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés g) pontja alapján szerződéssel átvállalásra került |
+| 15. | B25 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés f) pontja alapján szerződéssel átvállalásra került |
 
-| B30 | belföldi forgalomba hozatal, a termékdíj korábban, a beszállítás előtt már megfizetésre került |
+| 16. | B26 | belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés g) pontja alapján szerződéssel átvállalásra került |
 
-| I00 | ideiglenes kiadás |
+| 17. | B27 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés c) pontja alapján |
 
-| K00 | külföldre történő kiszállítás |
+| 18. | B28 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés d) pontja alapján |
 
-| S01 | saját célú felhasználás |
+| 19. | B29 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés e) pontja alapján |
 
-| T00 | áttárolás másik termékdíj raktárba a tulajdonjog megváltozása nélkül |
+| 20. | B30 | belföldi forgalomba hozatal, a termékdíj korábban, a betárolás előtt már megfizetésre került |
 
-| U10 | újrahasználható csomagolószer bérbe adása a Ktdt. 3/A. § szerinti engedélyezett bérleti rendszer keretében |
+| 21. | B31 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés f) pont fa) alpontja alapján |
 
-| B40 | belföldre irányuló kitárolás, a termékdíj korábban, a beszállítás előtt már megfizetésre került |
+| 22. | B32 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés f) pont fb) alpontja alapján |
 
-| I90 | ideiglenes kiadás alatt lévő termékdíjköteles termék saját célú felhasználása |
+| 23. | B33 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a Ktdt. 3. § (6) bekezdés g) pontja alapján |
 
-| SH9 | ideiglenes kiadás alatt lévő termékdíjköteles termék felhasználása esetében a gyártási folyamat során keletkező gyártási selejt, hulladék |
+| 24. | I00 | ideiglenes kiadás |
 
-| SH1 | termékdíj raktárban lévő termékdíjköteles termék felhasználása esetében a gyártási folyamat során keletkező gyártási selejt, hulladék |
+| 25. | K00 | külföldre történő kitárolás |
 
-| TM0 | beszállítás előtt a termékdíj megfizetésre került (a termékdíj raktáron belül csomagolás részét képező csomagolószerek esetében a csomagolás végleges elválasztásra kerül a termékről) |
+| 26. | S01 | saját célú felhasználás |
 
-| KN0 | kiszállítás, nem keletkezik termékdíj-kötelezettség |
+| 27. | T00 | áttárolás másik termékdíj raktárba a tulajdonjog megváltozása nélkül |
 
-| KEJ | kiszállítás belföldre, egyéb jogcímen (termékdíj-kötelezettség keletkezik) |
+| 28. | U10 | újrahasználható csomagolószer bérbe adása a Ktdt. 3/A. § szerinti engedélyezett bérleti rendszer keretében |
 
-| V01 | kiszállítás, termékdíj visszaigénylésre kerül |
+| 29. | B40 | belföldre irányuló kitárolás, a termékdíj korábban, a betárolás előtt már megfizetésre került |
+
+| 30. | I90 | ideiglenes kiadás alatt lévő termékdíjköteles termék saját célú felhasználása |
+
+| 31. | SH9 | ideiglenes kiadás alatt lévő termékdíjköteles termék felhasználása esetében a gyártási folyamat során keletkező gyártási selejt, hulladék |
+
+| 32. | SH1 | termékdíj raktárban lévő termékdíjköteles termék felhasználása esetében a gyártási folyamat során keletkező gyártási selejt, hulladék |
+
+| 33. | TM0 | betárolás előtt a termékdíj megfizetésre került (a termékdíj raktáron belül csomagolás részét képező csomagolószerek esetében a csomagolás végleges elválasztásra kerül a termékről) |
+
+| 34. | KN0 | kitárolás, nem keletkezik termékdíj-kötelezettség |
+
+| 35. | KEJ | kitárolás belföldre, egyéb jogcímen (termékdíj-kötelezettség keletkezik) |
+
+| 36. | V01 | kitárolás, termékdíj visszaigénylésre kerül |
 
 4.4. A készleten lévő termékdíjköteles termék
 
@@ -230,13 +244,19 @@ Az alább felsorolt szokásos kezelési módok az engedélybe foglalás nélkül
 
 4.4.4. mennyisége.
 
-[^136]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 529/2013. (XII. 30.) Korm. rendelet 12. § (8) bekezdése iktatta be.
-[^137]: A 7. melléklet 1. pont 1.1. pont 1.1.5. alpontja a 407/2015. (XII. 15.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^138]: A 7. melléklet 1. pont 1.2.4. alpotja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^139]: A 7. melléklet 1. pont 1.3. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^140]: A 7. melléklet 1. pont 1.3.1. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^141]: A 7. melléklet 1. pont 1.3.2. alpotja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^142]: A 7. melléklet 1. pont 1.4. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^143]: A 7. melléklet 2. pont 2.3. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^144]: A 7. melléklet 3. pont 3.8. alpotja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^145]: A 7. melléklet 4. pont 4.3.5. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 407/2015. (XII. 15.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^138]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 529/2013. (XII. 30.) Korm. rendelet 12. § (8) bekezdése iktatta be.
+[^139]: A 7. melléklet 1.1.4.7. pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^140]: A 7. melléklet 1. pont 1.1. pont 1.1.5. alpontja a 407/2015. (XII. 15.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^141]: A 7. melléklet 1. pont 1.2.4. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^142]: A 7. melléklet 1. pont 1.3. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^143]: A 7. melléklet 1. pont 1.3.1. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^144]: A 7. melléklet 1. pont 1.3.2. alpontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^145]: A 7. melléklet 1. pont 1.3.6. alpotja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^146]: A 7. melléklet 1. pont 1.3.7. alpontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^147]: A 7. melléklet 1. pont 1.4. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^148]: A 7. melléklet 2. pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^149]: A 7. melléklet 2.1 pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^150]: A 7. melléklet 2. pont 2.3. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^151]: A 7. melléklet 3. pont 3.8. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^152]: A 7. melléklet 4. pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^153]: A 7. melléklet 4. pont 4.3.5. alpontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
