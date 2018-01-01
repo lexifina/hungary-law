@@ -1,9 +1,0 @@
-## ÖTÖDIK RÉSZ
-
-## AZ ÜGYVÉDI TEVÉKENYSÉGET GYAKORLÓ SZERVEZETEK
-
-## XVIII. Fejezet
-
-## AZ ÜGYVÉDI IRODA
-
-### 87–88. §

@@ -8,4 +8,4 @@
 
 ## 4. Az ügyvédi függetlenség
 
-### 6. §
+6. § Az ügyvéd, az európai közösségi jogász és a külföldi jogi tanácsadó e tevékenységében szabad és független, és nem vállalhat olyan kötelezettséget, amely a hivatásbeli függetlenségét veszélyezteti.

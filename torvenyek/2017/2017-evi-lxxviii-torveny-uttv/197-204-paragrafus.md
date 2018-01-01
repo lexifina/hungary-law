@@ -1,5 +1,0 @@
-## NYOLCADIK RÉSZ
-
-## A TÖRVÉNYESSÉGI FELÜGYELET
-
-### 197–204. §

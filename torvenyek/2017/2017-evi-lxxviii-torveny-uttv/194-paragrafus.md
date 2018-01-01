@@ -1,0 +1,3 @@
+194. § (1) A területi kamara és a Magyar Ügyvédi Kamara az ügyvédi kamarai nyilvántartás adatait jogszabályban, alapszabályban és kamarai szabályzatban meghatározott feladatai ellátásához szükséges mértékben jogosult megismerni és kezelni.
+
+(2) A területi kamara és a Magyar Ügyvédi Kamara eljárása, illetve szolgáltatás teljesítése során az eljárásban részt vevő, valamint a szolgáltatást igénybe vevő természetes személy természetes személyazonosító adatait és lakcímét, valamint az eljárás lefolytatásához, illetve a szolgáltatás nyújtásához elengedhetetlenül szükséges személyes adatokat megismerheti és kezelheti.

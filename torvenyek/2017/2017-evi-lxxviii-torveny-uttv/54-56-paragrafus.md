@@ -1,5 +1,0 @@
-## VIII. Fejezet
-
-## AZ ÜGYVÉDI TEVÉKENYSÉG SZÜNETELTETÉSE
-
-### 54–56. §

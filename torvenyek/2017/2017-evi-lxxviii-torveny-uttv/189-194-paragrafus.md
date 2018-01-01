@@ -1,5 +1,0 @@
-## XXVI. Fejezet
-
-## KAMARAI NYILVÁNTARTÁS ÉS ADATKEZELÉS
-
-### 189–194. §

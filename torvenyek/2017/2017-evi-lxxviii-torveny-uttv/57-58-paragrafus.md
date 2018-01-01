@@ -1,9 +1,0 @@
-## NEGYEDIK RÉSZ
-
-## AZ ÜGYVÉDI TEVÉKENYSÉGET GYAKORLÓ TERMÉSZETES SZEMÉLY
-
-## IX. Fejezet
-
-## AZ ÜGYVÉD
-
-### 57–58. §

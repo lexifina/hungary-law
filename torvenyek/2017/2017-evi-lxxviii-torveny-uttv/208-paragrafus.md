@@ -87,3 +87,5 @@ c) a kamarai jogtanácsosok és az alkalmazott ügyvédek tagozatai az a) pont s
 (33) Az ügyvédi kamarák az Eüsztv. 109. § (3) bekezdése szerinti információátadási szabályzataikat a 2018. január 1-jétől hatályos szabályoknak megfelelő tartalommal 2017. október 1-ig kötelesek a Felügyeletnek véleményezés céljából megküldeni.
 
 (34) Ha a 2018. január 1-je előtt indult bírósági, hatósági vagy más közhatalmi eljárásban alkalmazandó jogszabály jogtanácsos jogi képviseleti jogáról rendelkezik, 2018. január 1-jétől jogi képviselőként – a (6) bekezdésben meghatározott kivétellel – kamarai jogtanácsos járhat el, és az e jogszabályoknak a jogi előadóra vonatkozó szabályai szerint 2018. január 1-jétől ügyvédi kamarai nyilvántartásba vett jogi előadó járhat el.
+
+(35) 2018. július 1-jéig e törvény szabályainak megfelelőnek kell tekinteni a felelősségbiztosítást, ha a Magyar Ügyvédi Kamara 2017. december 31-én hatályos szabályzatának és iránymutatásának – a (9) bekezdés a) pontjában meghatározott eltéréssel – megfelel.
