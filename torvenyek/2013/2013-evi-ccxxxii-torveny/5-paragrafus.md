@@ -12,14 +12,12 @@ c) a könyvtárellátó és a tankönyvforgalmazó között megköthető szerző
 
 d) a miniszter és a szakképesítésért felelős miniszter tankönyvvé nyilvánítással összefüggő feladatait,
 
+e) a tankönyvvé, a pedagógiai-kézikönyvvé nyilvánítási eljárás és a nevelési-oktatási program részeként jóváhagyott információhordozók és feladathordozók tankönyvvé nyilvánításának rendjét,
+
+f) a tankönyvjegyzék elkészítését és kiadását, a tankönyvjegyzékre való felvétel feltételeit és eljárását, az iskolai terjesztési árat, a tankönyvjegyzékből való törlés rendjét és eljárását
+
 rendeletben határozza meg.
 
-(3) Felhatalmazást kap a miniszter, hogy – a szakképzési tankönyvek tekintetében a szakképzésért és felnőttképzésért felelős miniszterrel, az igazgatási szolgáltatási díj, az állami tankönyvtámogatás rendje tekintetében az államháztartásért felelős miniszterrel egyetértésben – rendeletben határozza meg a tankönyvvé, a pedagógiai kézikönyvvé nyilvánítási eljárás részletes szabályait, a tankönyvtámogatás, valamint az iskolai tankönyvellátás rendjét, továbbá a nevelési-oktatási program részeként jóváhagyott információhordozók és feladathordozók tankönyvvé nyilvánításának szabályait, ennek keretében különösen
-
-a) a tankönyv, a pedagógiai kézikönyv – beleértve a nem nyomtatott formában megjelenő műveket is – jóváhagyási eljárását, valamint beválásának vizsgálatát, a tankönyvjegyzék vezetését, elkészítését, összeállítását és nyilvánosságra hozatalát, a tankönyvvé nyilvánítás megszűnését,
-
-b) az iskolai tanulói tankönyvtámogatás elveinek, felhasználási szabályainak megállapítását, az országos és az iskolai tankönyvellátás és tankönyvrendelés szabályait,
-
-c) az egyházi jogi személy által szervezett, a nevelési-oktatási intézményben folyó hitoktatásban, iskolában folyó hit- és erkölcstanoktatásban alkalmazott könyvek jegyzékének összeállítását és közzétételét.
+(3) Felhatalmazást kap a miniszter, hogy – a tankönyvvé, a pedagógiai kézikönyvvé nyilvánítási eljárás igazgatási szolgáltatási díja tekintetében az adópolitikáért felelős miniszterrel, az állami tankönyvtámogatás rendje tekintetében az államháztartásért felelős miniszterrel egyetértésben – a tankönyvtámogatás, valamint az iskolai tankönyvellátás rendjét, ennek keretében különösen az iskolai tanulói tankönyvtámogatás elveinek, felhasználási szabályainak megállapítását, az országos és az iskolai tankönyvellátás és tankönyvrendelés szabályait rendeletben határozza meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a szakképzésért és felnőttképzésért felelős miniszterrel egyetértésben, rendeletben határozza meg a Szakképzési Tankönyv és Taneszköz Tanács összetételét, működési rendjét.
