@@ -1,3 +1,0 @@
-4. § (1) A hangfelvételt – ha annak alapján jegyzőkönyv nem készült – egy évig kell őrizni. Az egy évet az eljárást befejező, illetőleg a félbeszakadást megállapító határozat jogerőre emelkedésétől, szünetelés esetében a per megszűnésétől kell számítani.
-
-(2) Az eljáró tanács elnöke az őrzési idő eltelte előtt elrendelheti a hangfelvétel más szalagra való átmásolását, ha előreláthatólag az őrzési idő eltelte után kerül sor az eljárás folytatására, így különösen az eljárás félbeszakadása (Pp. 111. §), a tárgyalás felfüggesztése (Pp. 152. §) esetében, valamint akkor, ha a mulasztó felet a megjelent fél perbeli cselekményeiről kell tájékoztatni [Pp. 136/B. § (2) bekezdés].
