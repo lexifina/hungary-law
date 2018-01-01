@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-155-20-
 | --- | --- | --- |
 | 2014-06-30 | 2014-155-20-22.1 | 155/2014. (VI. 30.) Korm. rendelet |
 | 2014-07-01 | 2014-155-20-22.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2014-155-20-22.3 | 457/2017. (XII. 28.) Korm. rendelet |
