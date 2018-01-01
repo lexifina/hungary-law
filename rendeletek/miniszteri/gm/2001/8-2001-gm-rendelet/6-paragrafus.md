@@ -548,7 +548,7 @@ A műszaki-biztonságtechnikai vizsgálatok a kivitelezés részét képezik. C�
 
 5.1.2.11. Atomerőmű létesítése alkalmával a nukleáris biztonságtechnikára vonatkozó jogszabály előírásait is figyelembe kell venni.
 
-5.1.2.12.[^5] Szélerőművek létesítése során betartandó kiegészítő előírások
+5.1.2.12.[^9] Szélerőművek létesítése során betartandó kiegészítő előírások
 
 5.1.2.12.1. Egy szélturbina toronyba legfeljebb 2,0 MW-os villamos termelőegység építhető be.
 
@@ -860,4 +860,4 @@ d) a villamosműre vonatkozó belső szabályzatokat.
 
 5.3.4.3. A megszüntetési tervben szereplő munkák befejezésekor a maradó létesítmények, technológiák figyelembevételével a végállapot ismertetését tartalmazó dokumentumokat el kell készíteni – beleértve a jogi rendelkezéseket is –, a megszüntetést engedélyező hatóságnak be kell nyújtani és dokumentálni kell.
 
-[^5]: A Melléklet 5. „Villamosmű és berendezéseinek létesítése, üzemeltetése és megszüntetése” alcím 5.1. pont 5.1.2. alpont 5.1.2.12. pontját (5.1.2.12.1.–5.1.2.12.9. alpont) a 34/2016. (IX. 14.) NGM rendelet 1. §-a iktatta be.
+[^9]: A Melléklet 5. „Villamosmű és berendezéseinek létesítése, üzemeltetése és megszüntetése” alcím 5.1. pont 5.1.2. alpont 5.1.2.12. pontját (5.1.2.12.1.–5.1.2.12.9. alpont) a 34/2016. (IX. 14.) NGM rendelet 1. §-a iktatta be.
