@@ -12,6 +12,8 @@ ac) horgászat esetén az állami horgászjegyet vagy a turista állami horgász
 
 b) a nem nyilvántartott halgazdálkodási vízterületen az állami horgászjegyet és a fogási naplót vagy a turista állami horgászjegyet és a fogási naplót,
 
+c) a haltermelési létesítményen folytatott horgászat esetén az állami horgászjegyet vagy a turista állami horgászjegyet,
+
 – a továbbiakban együtt: halfogásra jogosító okmányok –, és azokat a halgazdálkodási hatóság, a halgazdálkodásra jogosult, a halászati őr, a mezőőr, a természetvédelmi őr, a társadalmi halőr és a rendvédelmi hatóság ellenőrzésre felhatalmazott képviselőjének felhívására bemutatni és átadni.
 
 (2) A halfogásra jogosító okmányokat a halfogásra irányuló tevékenység végzése közben a jogosult köteles magánál tartani, amelyek csak a személyazonosság igazolására szolgáló arcképes igazolvány birtokában jogosítják az okmányok birtokosát a halfogásra.

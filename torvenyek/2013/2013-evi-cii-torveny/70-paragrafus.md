@@ -8,4 +8,6 @@ b) halfogásra jogosító okmányok nélkül bemutatási vagy ökológiai célb�
 
 c) a nem nyilvántartott halgazdálkodási vízterületen halfogásra jogosító okmányok nélkül horgászott, de a halgazdálkodási hatóság által előírt határidőn belül bemutatja a horgászat időpontjában érvényes állami horgászjegyét és fogási naplóját, valamint a személyazonosság igazolására szolgáló arcképes igazolványát, amennyiben az ellenőrzés időpontjáig az előírás ellenére a fogási naplóban nem rögzített halat nem tartotta meg, vagy
 
-d) a horgászat megkezdésének a fogási napló naptárában való megjelölését első alkalommal mulasztja el.
+d) a horgászat megkezdésének a fogási napló naptárában való megjelölését első alkalommal mulasztja el,
+
+e) a haltermelési létesítményen halfogásra jogosító okmányok nélkül horgászott, de a halgazdálkodási hatóság által előírt határidőn belül bemutatja a horgászat időpontjában érvényes állami horgászjegyét vagy turista állami horgászjegyét, továbbá a személyazonosság igazolására szolgáló arcképes igazolványát.

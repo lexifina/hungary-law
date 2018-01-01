@@ -14,4 +14,4 @@ c) természetvédelmi
 
 érdekből a telepítést megtilthatja, felfüggesztheti, a nem engedélyezett telepítő anyagot elkobozhatja.
 
-(4) A (3) bekezdés szerinti döntés fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(4)

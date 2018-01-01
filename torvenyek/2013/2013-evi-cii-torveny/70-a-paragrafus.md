@@ -1,3 +1,3 @@
-## 21/A. A fellebbezés kizárása
+## 21/A.
 
-70/A. § A halgazdálkodási hatóság elsőfokú hatósági döntése ellen nincs helye fellebbezésnek.
+### 70/A. §

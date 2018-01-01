@@ -30,7 +30,7 @@ l) a halgazdálkodással összefüggő berendezéseket, eszközöket ellenőrizh
 
 m) eljárása dokumentálására a helyszínen kép-, illetve hangfelvételt készíthet;
 
-n) jogszabálysértés alapos gyanúja esetén jogosult a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni;
+n) azonnali eljárási cselekmény érdekében a helyszíni szemlét a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is megtarthatja;
 
 o) vízszennyezést, illetve halpusztulást követő állapotok megállapítása céljából állományfelmérő hatósági mintavételt végezhet.
 

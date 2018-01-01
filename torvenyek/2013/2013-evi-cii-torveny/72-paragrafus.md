@@ -20,7 +20,7 @@
 
 10. az állami halászjegy, az állami horgászjegy és a turista állami horgászjegy, valamint a papíralapú és az elektronikus fogási napló és a fogási tanúsítvány díját, megfizetésének és kezelésének részletes szabályait;
 
-11. az egyenáramú elektromos eszközzel végzett, tudományos kutatási, valamint az egyéb célú halfogási engedély kiadásának részletes szabályait;
+11.
 
 12. az idegen és nem honos halfajok telepítésének és haltermelésben történő felhasználásának szabályait; a Pannon biogeográfiai régión kívülről behozott hal haltermelő létesítménybe telepítésének feltételeit és módját, valamint a Pannon biogeográfiai régióból származó hal halgazdálkodási vízterületre történő telepítésének feltételeit és módját;
 
@@ -62,11 +62,11 @@
 
 31. a halgazdálkodási hatóság által elvégeztetett halállománymentésre vonatkozó szabályokat;
 
-32. a halgazdálkodási vízterület különleges rendeltetésűvé nyilvánításának szempontjait és kijelölésére irányuló eljárás részletes szakmai és eljárási szabályait;
+32.
 
 33. az egyes víztípusok halgazdálkodási értéke alapján a halgazdálkodási jog haszonbérletéért fizetendő haszonbérleti díj, a vagyonkezelésbe adható halgazdálkodási jog esetében a vagyonkezelési díj mértékét, valamint e díjak megfizetése alóli felmentés és az e díjakra vonatkozó díjkedvezmény szabályait;
 
-34. a halgazdálkodási kíméleti terület kijelölésére irányuló eljárás részletes szakmai és eljárási szabályait;
+34.
 
 35. az országhatárral metszett halgazdálkodási vízterületre a horgászat és a halászat rendjét; és
 

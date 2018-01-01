@@ -13,3 +13,5 @@ e törvény rendelkezéseinek betartásával folytatható.
 (2) A nyilvántartott halgazdálkodási vízterületen halfogási tevékenység végzéséhez fogási napló, valamint, ha azt nem a halgazdálkodásra jogosult vagy a halászati engedéllyel rendelkező személy végzi, a halgazdálkodásra jogosult területi jegye is szükséges.
 
 (3) A halászati engedély, az állami halászjegy, az állami horgászjegy, valamint a turista állami horgászjegy nem ruházható át. Egy személynek – az adott típusból – egy naptári évben csak egy adható, kivéve az ökológiai célú szelektív halászatra vonatkozó engedélyt, valamint a 43. § (4) bekezdése szerinti esetet.
+
+(4) A haltermelési létesítményen a hal fogása és a halfogásra irányuló tevékenység horgászat esetén állami horgászjeggyel vagy turista állami horgászjeggyel e törvény rendelkezéseinek betartásával folytatható.
