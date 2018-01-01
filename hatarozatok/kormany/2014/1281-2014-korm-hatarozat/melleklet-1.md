@@ -2,20 +2,12 @@
 
 ## 2. egyetért azzal, hogy az 1. pont szerinti értékesítési bevétel felhasználásával megvalósuló beszerzésekre a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozatot nem kell alkalmazni;
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva
-
-## a) elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 20. Az Európai Rendőr-akadémia (CEPOL) környezete településképének javítása címmel történő kiegészítését,
-
-## b) az Európai Rendőr-akadémia (CEPOL) környezete településképének javítása érdekében 20,0 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 3. A helyi önkormányzatok kiegészítő támogatásai cím terhére , a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 20. Az Európai Rendőr-akadémia (CEPOL) környezete településképének javítása cím javára a 2. melléklet szerint;
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## 3.[^1]
 
 ## 4. egyetért azzal, hogy a belügyminiszter a Kvtv. helyi önkormányzatok támogatásait tartalmazó költségvetési fejezetéből a Budapest Főváros VI. kerület Terézváros Önkormányzat feladatainak támogatása érdekében nyújtandó támogatás felhasználásának és elszámolásának feltételeiről 2014. május 14-éig támogatási megállapodást köt Budapest Főváros VI. kerület Terézváros Önkormányzatával;
 
 ## 5. egyetért azzal, hogy a belügyminiszter a 3. pont b) alpontja szerinti támogatást – a 4. pont szerinti megállapodás megkötését követően, legkésőbb 2015. december 15-éig történő elszámolási kötelezettséggel – folyósítsa Budapest Főváros VI. kerület Terézváros Önkormányzata számára.
 
 1. melléklet az 1281/2014. (IV. 30.) Korm. határozathoz
+
+[^1]: A 3. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
