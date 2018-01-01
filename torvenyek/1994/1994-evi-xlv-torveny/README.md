@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-45-00-00
 | 2017-01-01 | 2016. évi CLXXXIV. törvény | 1994-45-00-00.22 |
 | 2017-01-02 | 2016. évi CXXVII. törvény | 1994-45-00-00.23 |
 | 2017-07-01 | 2017. évi LIV. törvény | 1994-45-00-00.24 |
+| 2018-01-01 | 2016. évi CLXXXIV. törvény | 1994-45-00-00.25 |

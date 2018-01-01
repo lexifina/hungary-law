@@ -1,6 +1,6 @@
 ## Hadigondozott családtag járadéka
 
-15. § (1) A hadigondozott családtagot havi rendszeres járadék illeti meg, amelynek összege az egyéb ellátástól függetlenül az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
+15. § (1) A hadigondozott családtagot egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 30%-ának megfelelő összeg.
 
 (2) Több jogosult esetén a járadék mindegyik jogosultat külön-külön megilleti.
 

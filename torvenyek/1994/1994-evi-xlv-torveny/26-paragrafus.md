@@ -2,7 +2,7 @@
 
 26. § (1) A hadigondozás iránti kérelem határidő-korlátozás nélkül bármikor előterjeszthető.
 
-(2) A hadigondozotti ügyekben első- és másodfokon a Kormány által rendeletben, hadigondozási hatóságként kijelölt szerv jár el.
+(2) A hadigondozotti ügyben elsőfokon hozott határozattal szemben – a Kormány által kijelölt hatósághoz – fellebbezésnek van helye.
 
 (2a)
 
@@ -32,8 +32,8 @@ d) a természetes személyazonosító adatait, lakcímét, családi állapotát,
 
 (6) Az e törvény hatálybalépéséig megállapított hadigondozotti minősítések — a jogosultságra kiható változás esetét kivéve — érvényben maradnak, azok felülvizsgálatát csak a jogosult kérésére kell elvégezni.
 
-(7) A másodfokú hadigondozási hatóság határozatát a bíróság megváltoztathatja.
+(7) A hadigondozási hatóság határozatát a bíróság megváltoztathatja.
 
-(8) Az eljáró hadigondozási hatóság az egyösszegű térítésre, a hadigondozási járadékra és az egyéb pénzellátásokra való jogosultságot jogerősen megállapító, módosító, megszüntető határozatát megküldi a nyugdíjfolyósító szervnek, amely intézkedik az egyösszegű térítés, illetve a pénzellátás folyósítása iránt.
+(8) Az eljáró hadigondozási hatóság az egyösszegű térítésre, a hadigondozási járadékra és az egyéb pénzellátásokra való jogosultságot véglegesen megállapító, módosító, megszüntető határozatát megküldi a nyugdíjfolyósító szervnek, amely intézkedik az egyösszegű térítés, illetve a pénzellátás folyósítása iránt.
 
 (9) A hadigondozotti járadékot, valamint a temetési hozzájárulást a nyugdíjfolyósító szerv az esedékesség hónapjában a nyugdíjjal egyidejűleg — ennek hiányában önállóan — folyósítja, de a nyugdíjtól elkülönítetten kezeli. A járadéknak a nyugdíjjal kapcsolatos értékhatárokra kihatása nincs.

@@ -6,8 +6,8 @@ a) a pénzellátását a hadirokkantak és más hadigondozottak ellátásáról 
 
 b) a pénzellátását politikai okból megszüntették vagy szüneteltették,
 
-c) a pénzellátás iránti kérelmét politikai okból elutasították vagy
+c) a pénzellátás iránti kérelmét politikai okból elutasították, vagy
 
-d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette
+d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette,
 
-egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 30%-ának megfelelő összeg.
