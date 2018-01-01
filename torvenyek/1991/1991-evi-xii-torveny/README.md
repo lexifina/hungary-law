@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-12-00-00
 | 2007-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1991-12-00-00.8 |
 | 2012-08-01 | 2012. évi CXII. törvény | 1991-12-00-00.9 |
 | 2013-04-01 | 2013. évi XXVII. törvény | 1991-12-00-00.10 |
+| 2018-01-01 | 2017. évi L. törvény | 1991-12-00-00.11 |
