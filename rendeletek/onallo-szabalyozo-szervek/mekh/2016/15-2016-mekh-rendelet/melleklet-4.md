@@ -70,7 +70,7 @@
 
 ## c) a b) pont alá nem tartozó, földkábellel létesítendő csatlakozóvezeték esetén 4000 Ft/m.
 
-4. melléklet a 15/2016. (XII. 20.) MEKH rendelethez
+4. melléklet a 15/2016. (XII. 20.) MEKH rendelethez[^3]
 
 Az elosztó által külön díj ellenében végzett szolgáltatások díjai
 
@@ -110,11 +110,11 @@ Az elosztó által külön díj ellenében végzett szolgáltatások forintban f
 
 | 13. | A felhasználási helyen hibaelhárítás céljából történő megjelenés esetében, ha a hiba a csatlakozási pont után, a felhasználói berendezésben van | 15 | eset |
 
-| 14. | A kiserőműtől – a háztartási méretű kiserőmű kivételével – a csatlakozási helyre vonatkozó igénybejelentésre vonatkozó tájékoztató elkészítéséért | 400 | eset |
+| 14. | A kiserőművi csatlakozást igénylőtől – a háztartási méretű kiserőmű kivételével – a csatlakozásra vonatkozó igénybejelentésre adott tájékoztató elkészítéséért (kiserőművenként) | 400 | eset |
 
-| 15. | A kiserőműtől – a háztartási méretű kiserőmű kivételével – a csatlakozási helyre vonatkozó megvalósíthatósági tanulmány felülvizsgálatáért | 500 | eset |
+| 15. | A kiserőművi csatlakozást igénylőtől – a háztartási méretű kiserőmű kivételével – a csatlakozásra vonatkozó megvalósíthatósági tanulmány felülvizsgálatáért (kiserőművenként) | 500 | eset |
 
-| 16. | A kiserőműtől – a háztartási méretű kiserőmű kivételével – a csatlakozási helyre vonatkozó csatlakozási terv felülvizsgálatáért | 500 | eset |
+| 16. | A kiserőművi csatlakozást igénylőtől – a háztartási méretű kiserőmű kivételével – a csatlakozásra vonatkozó csatlakozási terv felülvizsgálatáért (kiserőművenként) | 500 | eset |
 
 2. A felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások és díjaik kiszámítási módja:
 
@@ -147,3 +147,5 @@ Az elosztó által külön díj ellenében végzett szolgáltatások forintban f
 | 1. | A külön díj mértéke az elosztói alapdíj százalékában | A díj felszámításának alapja |
 
 | 2. | 10 | eset |
+
+[^3]: A 4. melléklet a 15/2017. (XII. 13.) MEKH rendelet 3. § (3) bekezdése szerint módosított szöveg.
