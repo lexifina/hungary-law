@@ -2,11 +2,11 @@
 
 5. § (1) Az e rendelet 2–3. §-aiban szabályozott támogatás az Flt. 58. § (5) bekezdésének k) pontjában meghatározott életkor betöltését követően akkor folyósítható, ha a támogatás megállapítására már az életkor betöltését megelőzően sor kerül.
 
-(2)[^17] Az e rendeletben szabályozott támogatásokkal kapcsolatos ügyekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni az Flt. 21. §-ában, 54. §-ában és 55. §-ában, valamint a (3)–(8) bekezdésben foglaltak figyelembevételével.
+(2)[^17] Az e rendeletben szabályozott támogatásokkal kapcsolatos ügyekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni az Flt. 21. §-ában, VI/A. fejezetében, 54. §-ában és 55. §-ában, valamint a (3)–(8) bekezdésben foglaltak figyelembevételével azzal, hogy az ügyintézési határidő 25 nap.
 
 (3)[^18] Az e rendeletben meghatározott támogatások akkor nyújthatók, ha a munkaadó megfelel a rendezett munkaügyi kapcsolatok – az államháztartásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározott – feltételeinek, illetve e feltételek fennállása a külön jogszabályban meghatározott módon igazolásra kerül.
 
-(4)[^19] Az a munkaadó, aki e rendeletben, továbbá az Flt. 16. §-ában, valamint 18. és 19. §-ában meghatározott támogatásokra vonatkozó hatósági szerződésben foglaltakat megszegte, a kötelezettségszegés tényének jogerős megállapításától számított három éven belül e rendeletben meghatározott támogatásban nem részesülhet.
+(4)[^19] Az a munkaadó, aki e rendeletben, továbbá az Flt. 16. §-ában, valamint 18. és 19. §-ában meghatározott támogatásokra vonatkozó hatósági szerződésben foglaltakat megszegte, a kötelezettségszegés tényének végleges megállapításától számított három éven belül e rendeletben meghatározott támogatásban nem részesülhet.
 
 (5)[^20] Nem nyújtható az e rendeletben meghatározott támogatás az Mt. 53. §-a, 214. § (1) bekezdés a) pontja, 146. § (1) és (2) bekezdése szerinti foglalkoztatáshoz.
 
@@ -16,9 +16,9 @@
 
 (8)[^22] A 2. §-ban meghatározott támogatással kapcsolatos feladatokat a foglalkoztatni kívánt pályakezdő álláskeresőt nyilvántartó járási hivatal látja el.
 
-[^17]: Az 5. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 132. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 240. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^18]: Az 5. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 132. § (1) bekezdésével megállapított szöveg.
-[^19]: Az 5. § (4) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^19]: Az 5. § (4) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés h) pontja, a 457/2017. (XII. 28.) Korm. rendelet 241. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^20]: Az 5. § (5) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
 [^21]: Az 5. § (6) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés i) pontja szerint módosított szöveg.
 [^22]: Az 5. § (8) bekezdését a 354/2014. (XII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 132. § (2) bekezdés b) pontja szerint módosított szöveg.
