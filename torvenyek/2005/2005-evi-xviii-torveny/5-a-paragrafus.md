@@ -1,0 +1,1 @@
+5/A. § Az e törvényben meghatározott eljárásokban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályait az e törvényben, valamint a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.

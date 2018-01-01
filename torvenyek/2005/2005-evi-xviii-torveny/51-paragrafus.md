@@ -44,6 +44,6 @@ b) az adott felhasználási helyre történő bejutási kísérlete sikertelen v
 
 (12) A bíróság – ha a döntéséhez szükséges – a feleket meghallgathatja és a felek indítványára további bizonyítást rendelhet el.
 
-(13) A polgári nemperes eljárásban nincs helye perújításnak és felülvizsgálatnak.
+(13) A polgári nemperes eljárásban nincs helye felülvizsgálatnak.
 
-(14) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadó.
+(14) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel –, továbbá a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvény bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezései megfelelően irányadók.

@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-18-00-00
 | 2017-01-01 | 2016. évi CXXVII. törvény | 2005-18-00-00.34 |
 | 2017-04-01 | 2016. évi CXLIII. törvény | 2005-18-00-00.35 |
 | 2017-12-22 | 2017. évi CCVIII. törvény | 2005-18-00-00.36 |
+| 2018-01-01 | 2017. évi L. törvény | 2005-18-00-00.37 |

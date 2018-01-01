@@ -2,7 +2,7 @@
 
 22. § (1) A távhőtermelő létesítmény, illetőleg a távhővezeték-hálózat, illetve annak részét képező berendezés és vezeték létesítésével kapcsolatban az engedélyes előmunkálati jog engedélyezését kérheti.
 
-(2) Az előmunkálati jog alapján, a jogosult vagy megbízottja az idegen ingatlanon jogerős határozat felhatalmazása alapján, – a felhatalmazást követő egy éven belül – a szükséges jeleket elhelyeztetheti, méréseket, vizsgálatokat végezhet. Az ingatlan tulajdonosa e munkálatok végzését – kártalanítás ellenében – tűrni köteles.
+(2) Az előmunkálati jog alapján, a jogosult vagy megbízottja az idegen ingatlanon véglegessé vált határozat felhatalmazása alapján, – a felhatalmazást követő egy éven belül – a szükséges jeleket elhelyeztetheti, méréseket, vizsgálatokat végezhet. Az ingatlan tulajdonosa e munkálatok végzését – kártalanítás ellenében – tűrni köteles.
 
 (3) Az előmunkálati jog iránti kérelemhez csatolandó műszaki leírásokat, helyszínrajzokat, ütemtervet a kormány rendeletében meghatározott tartalommal, méretben és példányszámban az engedélyesnek kell elkészítenie.
 

@@ -2,7 +2,7 @@
 
 ## ÁRMEGÁLLAPÍTÁS
 
-57. § (1) A távhőszolgáltatás csatlakozási díjának megállapítása során – az 57/A–57/B. §-ban foglalt eltéréssel – az árak megállapításáról szóló törvényt kell alkalmazni.
+57. § (1) A távhőszolgáltatás csatlakozási díjának megállapítása során az árak megállapításáról szóló törvényt kell alkalmazni.
 
 (2) A távhőszolgáltatónak értékesített távhő árát, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás díját a költségekre, árakra, díjakra vonatkozó összehasonlító elemzések felhasználásával, a következő szempontokra is figyelemmel kell meghatározni:
 

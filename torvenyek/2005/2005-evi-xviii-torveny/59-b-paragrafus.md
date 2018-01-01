@@ -2,6 +2,6 @@
 
 (2) Az (1) bekezdés szerinti távhőtermelő kérelmező mentesül az igazgatási szolgáltatási díjfizetési kötelezettsége alól.
 
-(3) Az (1) bekezdés szerinti működési engedély az e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított rendelkezései alapján kiadott működési engedély vagy a Hivatal működési engedélyt visszavonó határozatának jogerőre emelkedéséig hatályos.
+(3) Az (1) bekezdés szerinti működési engedély az e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított rendelkezései alapján kiadott működési engedély vagy a Hivatal működési engedélyt visszavonó határozatának véglegessé válásáig hatályos.
 
 (4) Az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény 223. §-ának rendelkezéseit a hatálybalépését megelőzően indult távhőtermelői és távhőszolgáltatói engedélyezési eljárásokban is alkalmazni kell.
