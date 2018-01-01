@@ -10,6 +10,6 @@ a) a kérelem benyújtásáról értesíti az adópolitikáért felelős miniszt
 
 b) amennyiben a pénzügyi és vagyoni korlátozó intézkedés vonatkozásában azt ENSZ BT határozat előírja, haladéktalanul tájékoztatja – a külpolitikáért felelős miniszter útján – az ENSZ BT illetékeseit.
 
-(5) A hatóság harminc napon belül megvizsgálja a mentesítési kérelmet és dönt az uniós jogi aktusban, illetve ENSZ BT határozatban rögzített feltételek alapján és szempontoknak megfelelően. A hatóság eljárására a közigazgatási hatósági eljárásról szóló törvény szabályai irányadóak.
+(5) A hatóság harminc napon belül megvizsgálja a mentesítési kérelmet és dönt az uniós jogi aktusban, illetve ENSZ BT határozatban rögzített feltételek alapján és szempontoknak megfelelően. A hatóság eljárására az általános közigazgatási rendtartásról szóló törvény szabályai irányadóak.
 
 (6) A hatóság az uniós jogi aktusban rögzített esetekben a határozatát megküldi az adópolitikáért felelős miniszter részére, aki az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
