@@ -24,11 +24,11 @@ b) az ebet veszélyesnek minősítheti,
 
 c) elrendelheti az eb életének kioltását, az Ávtv. 24/C. § szerinti esetekben.
 
-(5) A sérülés keletkezésének kivizsgálása során vizsgálni kell az eb által okozott sérülés bekövetkezésének körülményeit, különösen a sérült ember vagy állat magatartását. Szükség esetén az eljárásba be kell vonni az ebek viselkedésének megítélésében jártas szakértőt.
+(5)[^70] A sérülés keletkezésének kivizsgálása során vizsgálni kell az eb által okozott sérülés bekövetkezésének körülményeit, különösen a sérült ember vagy állat magatartását.
 
 (6) Amennyiben ebek falkában okoznak sérülést, a falka összes tagja tekintetében jogkövetkezményeket kell megállapítani és alkalmazni.
 
-(7)[^70] Amennyiben az eb ismételten nyolc napon túl gyógyuló, vagy annál súlyosabb sérülést okozott embernek, a sérülés keletkezésének vizsgálatába minden esetben be kell vonni az ebek viselkedésének megítélésében jártas szakértőt, és a járási állat-egészségügyi hatóság a (3) bekezdés b), c), d) pontja és a (4) bekezdés a), b) vagy c) pontja szerinti jogkövetkezménnyel élhet.
+(7)[^71] Ha az eb ismételten nyolc napon túl gyógyuló, vagy annál súlyosabb sérülést okozott embernek, a sérülés keletkezésének vizsgálata során a járási állat-egészségügyi hatóság a (3) bekezdés b)–d) pontja és a (4) bekezdés a), b) vagy c) pontja szerinti jogkövetkezménnyel élhet.
 
 (8) E § rendelkezései nem vonatkoznak
 
@@ -44,4 +44,5 @@ c) a vadászat során a vadnak sérülést okozó vadászebekre.
 [^67]: A 17/C. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.
 [^68]: A 17/C. § (3) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.
 [^69]: A 17/C. § (4) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.
-[^70]: A 17/C. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.
+[^70]: A 17/C. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 286. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^71]: A 17/C. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 286. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

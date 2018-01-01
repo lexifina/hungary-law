@@ -1,3 +1,3 @@
-## 19. §[^99]
+## 19. §[^101]
 
-[^99]: A 19. §-t a 327/2010. (XII. 27.) Korm. rendelet 30. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^101]: A 19. §-t a 327/2010. (XII. 27.) Korm. rendelet 30. § (1) bekezdés c) pontja hatályon kívül helyezte.
