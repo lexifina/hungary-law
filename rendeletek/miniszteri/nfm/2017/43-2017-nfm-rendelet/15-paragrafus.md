@@ -1,3 +1,3 @@
-## 13–14. §[^5]
+## 14. § A 62/2016. (XII. 28.) NFM rendelet 8. §-a a következő (9) bekezdéssel egészül ki:
 
-[^5]: A 13–14. § a 31. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## „(9) A pályázatokat a kiírási dokumentációban foglalt módon kell a Hivatalnál előterjeszteni.”

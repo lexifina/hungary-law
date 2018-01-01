@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-43-20-2
 | --- | --- | --- |
 | 2017-11-09 | 2017-43-20-2W.1 | 43/2017. (XI. 8.) NFM rendelet |
 | 2017-11-10 | 2017-43-20-2W.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2017-43-20-2W.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
