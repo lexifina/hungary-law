@@ -1,0 +1,1 @@
+A Kormány a magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény 31. § (6) bekezdés b) és c) pontjában, valamint a 15. § tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
