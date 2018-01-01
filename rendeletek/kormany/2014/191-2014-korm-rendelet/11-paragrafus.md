@@ -34,7 +34,7 @@ k) a jelen levők kérelmét és észrevételét, az észrevételekre adott vál
 
 l) a jogszabályban meghatározott egyéb adatokat és körülményeket.
 
-(2)[^18] Az (1) bekezdés g) és h) pontjában megjelölt adatokat, valamint az árverésen hozott döntéseket a mezőgazdasági igazgatási szerv a jegyzőkönyvbe foglalt határozattal állapítja meg.
+(2)[^18] Az (1) bekezdés g) és h) pontjában megjelölt adatokat, valamint az árverésen hozott döntéseket a mezőgazdasági igazgatási szerv határozattal állapítja meg.
 
 (3) Az árverési jegyzőkönyvet az árverési vevő is aláírásával látja el.
 
@@ -57,5 +57,5 @@ e) azokkal, akiknek a földre vonatkozólag az ingatlan-nyilvántartásba bejegy
 (7) Ahol jogszabály a megkereső további eljárásával kapcsolatban árverési jegyzőkönyvet vagy árverési hirdetményt említ, azon az e rendelet szerinti árverési jegyzőkönyvet kell érteni.
 
 [^17]: A 11. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^18]: A 11. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 11. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 502. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^19]: A 11. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés j) pontja szerint módosított szöveg.
