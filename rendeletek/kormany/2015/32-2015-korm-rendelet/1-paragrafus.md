@@ -8,14 +8,6 @@ c) KÖZOP-1.5.0-09-11-2012-008, KÖZOP-3.5.0-09-11-2012-0017 és KÖZOP-5.5.0-09
 
 közigazgatási hatósági ügyeket.
 
-(2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró
+(2)–(3)[^1]
 
-a) elsőfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként jár el,
-
-b) elsőfokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú szakhatóságként jár el.
-
-(3) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró
-
-a) másodfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként jár el,
-
-b) másodfokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú szakhatóságként jár el.
+[^1]: Az 1. § (2)–(3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 179. § a) pontja hatályon kívül helyezte.
