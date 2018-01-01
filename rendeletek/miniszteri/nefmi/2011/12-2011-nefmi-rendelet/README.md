@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-12-20-2
 | 2016-09-30 | 2011-12-20-2V.8 | 28/2016. (IX. 29.) EMMI rendelet |
 | 2016-10-04 | 2011-12-20-2V.9 | 29/2016. (X. 3.) EMMI rendelet |
 | 2017-01-01 | 2011-12-20-2V.10 | 44/2014. (X. 27.) EMMI rendelet |
+| 2018-01-01 | 2011-12-20-2V.11 | 38/2017. (XII. 29.) EMMI rendelet |
