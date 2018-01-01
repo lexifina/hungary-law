@@ -1,20 +1,20 @@
 ## A díj mértéke
 
-6. §[^27] (1) A díj mértéke a jármű fajtája és a forgalmi engedélyébe bejegyzett műszaki adatai alapján a következőképpen meghatározott díjkategóriájától függ:
+6. §[^32] (1)[^33] A díj mértéke a közúti forgalomban érvényes hatósági engedélyben szereplő bejegyzésben, vagy más, a járműre kiadott egyéb hiteles okmányban foglaltak szerint a jármű fajtája és műszaki adatai alapján a következőképpen meghatározott díjkategóriájától függ:
 
-a) D1 díjkategória: a motorkerékpár, valamint a legfeljebb 3500 kg megengedett legnagyobb össztömegű, – a vezetővel együtt – legfeljebb 7 személy szállítására alkalmas személygépkocsi és annak pótkocsija,
+a) D1 díjkategória: a motorkerékpár, és a legfeljebb 3500 kg megengedett legnagyobb össztömegű, – a vezetővel együtt – legfeljebb 7 személy szállítására alkalmas személygépkocsi és annak pótkocsija,
 
-b) D2 díjkategória: a D1 kategóriába nem tartozó valamennyi személygépkocsi, továbbá a legfeljebb 3,5 tonna megengedett legnagyobb össztömegű tehergépkocsi, és a lakófelépítményű gépkocsi (lakóautó),
+b) D2 díjkategória: valamennyi olyan gépkocsi, amely egyéb díjkategóriába nem tartozik, és külön jogszabály szerint nem minősül útdíjköteles gépjárműnek;
 
-c) B2 díjkategória: az autóbusz,
+c) B2 díjkategória: az autóbusz;
 
 d) U díjkategória: a D2 és a B2 díjkategóriába tartozó járművek által vontatott pótkocsi (utánfutó).
 
-(2) A gépjármű megengedett legnagyobb össztömegét és a szállítható személyek számát a forgalmi engedélyben szereplő hatósági bejegyzés alapján kell meghatározni.
+(2)[^34]
 
-(3)[^28] A díjköteles gépjárművek után egy, vagy több megye díjköteles úthálózatára érvényes jogosultság váltható, mely jogosultság érvényességét a díjfizetés ellenében használható autópályákról, autóutakról és főutakról szóló miniszteri rendelet határozza meg (a továbbiakban együtt: megyei jogosultság). A megyei jogosultság érvényességi ideje megegyezik a 3. § (2) bekezdés c) pontjában meghatározott érvényességi idővel, azzal, hogy a 3. § (1) bekezdésében foglaltak e jogosultságra nézve is irányadóak.
+(3)[^35] A díjköteles gépjárművek után egy, vagy több megye díjköteles úthálózatára érvényes jogosultság váltható, mely jogosultság érvényességét a díjfizetés ellenében használható autópályákról, autóutakról és főutakról szóló miniszteri rendelet határozza meg (a továbbiakban együtt: megyei jogosultság). A megyei jogosultság érvényességi ideje megegyezik a 3. § (2) bekezdés c) pontjában meghatározott érvényességi idővel, azzal, hogy a 3. § (1) bekezdésében foglaltak e jogosultságra nézve is irányadóak.
 
-(4)[^29]
+(4)[^36]
 
 (5) A Pest megyére megváltott jogosultsággal a Főváros közigazgatási határán belüli díjköteles úthálózat is használható, illetve kizárólag a Főváros területére eső díjköteles úthálózatra jogosultság nem váltható.
 
@@ -34,9 +34,11 @@ d) U díjkategória: a D2 és a B2 díjkategóriába tartozó járművek által 
 
 (7) A motorkerékpár után fizetendő heti úthasználati jogosultság általános forgalmi adóval terhelt ára 1470 forint.
 
-(8) [^30] A 4. § (7) bekezdésében foglalt átalány-költségtérítésen felül a viszonteladó további szolgáltatási-kezelési díj felszámítására nem jogosult a személyes ügyintézéssel történő értékesítés esetén.
+(8)[^37]
 
-[^27]: A 6. § az 57/2014. (XII. 30.) NFM rendelet 3. §-ával megállapított szöveg.
-[^28]: A 6. § (3) bekezdése a 3/2015. (I. 29.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^29]: A 6. § (4) bekezdését a 75/2015. (XII. 29.) NFM rendelet 19. § b) pontja hatályon kívül helyezte.
-[^30]: A 6. § (8) bekezdését a 3/2015. (I. 29.) NFM rendelet 1. § (3) bekezdése iktatta be.
+[^32]: A 6. § az 57/2014. (XII. 30.) NFM rendelet 3. §-ával megállapított szöveg.
+[^33]: A 6. § (1) bekezdése az 58/2017. (XII. 29.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^34]: A 6. § (2) bekezdését az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^35]: A 6. § (3) bekezdése a 3/2015. (I. 29.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^36]: A 6. § (4) bekezdését a 75/2015. (XII. 29.) NFM rendelet 19. § b) pontja hatályon kívül helyezte.
+[^37]: A 6. § (8) bekezdését a 3/2015. (I. 29.) NFM rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés b) pontja.

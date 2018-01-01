@@ -1,3 +1,4 @@
-9/B. §[^69]
+## 9/A. §[^68] A 2. § (1) bekezdés a)–e) pontja szerint a díjfizetés alól mentesülő járművek üzemben tartói az autópályák, autóutak, és főutak használatának díjáról szóló 36/2007. (III. 26.) GKM rendelet módosításáról szóló 58/2017. (XII. 29.) NFM rendelet (a továbbiakban: Módr.) hatálybalépését[^69] követő 30 napon belül jogosultak a 2. § (1) bekezdése alapján jogosult járműveknek a 2. § (3) bekezdése szerinti nyilvántartásba történő bejegyzését kérni arra a 2017. február első napja és a bejegyzés napja közti időszakra (a továbbiakban: mentességi időszak), amely időszakban a 2. § (1) bekezdése szerinti díjmentességi ok fennállt. A bejegyzés tényének igazolása és a 8. § (9) bekezdése szerinti szolgáltatási díjnak a nyilvántartást vezető hatóság általi bejegyzést követő 15 napon belüli megfizetése esetén a mentességi időszakban kiszabott pótdíjak elengedésre kerülnek.
 
-[^69]: A 9/B. §-t a 3/2015. (I. 29.) NFM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 2010: CXXX. törvény 12. § (2) bekezdése.
+[^68]: Az újabb 9/A. §-t az 58/2017. (XII. 29.) NFM rendelet 11. §-a iktatta be.
+[^69]: A hatálybalépés időpontja 2018. január 1.

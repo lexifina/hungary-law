@@ -1,12 +1,12 @@
 ## Ellenőrzés
 
-7. §[^33] (1)[^34] A Kkt. 33/B. § (8) bekezdése szerint díjfizetés ellenőrzésére jogosult szervezet (a továbbiakban: díjfizetés ellenőrzésére jogosult szervezet) a megfelelő jogosultságot, és annak megvásárlását a forgalmi rendszám, felségjel és a díjkategória alapján ellenőrzi.
+7. §[^40] (1)[^41] A Kkt. 33/B. § (8) bekezdése szerint díjfizetés ellenőrzésére jogosult szervezet (a továbbiakban: díjfizetés ellenőrzésére jogosult szervezet) a megfelelő jogosultságot, és annak megvásárlását a forgalmi rendszám, felségjel és a díjkategória alapján ellenőrzi.
 
-(2)[^35] Megállítás útján történő ellenőrzés alkalmával a gépjármű vezetője köteles az ellenőrző pontnál megállni, a díjkategória ellenőrzésére a gépjármű forgalmi engedélyét a díjfizetés ellenőrzésére jogosult szervezet ellenőrének átadni.
+(2)[^42] Megállítás útján történő ellenőrzése alkalmával a gépjármű vezetője köteles az ellenőrző pontnál megállni a jogosultság ellenőrzése végett, és jogosulatlan úthasználat megállapítása esetén a kapcsolódó adminisztratív tevékenység ellátásának idejére a gépjármű közúti forgalomban érvényes hatósági engedélyét a díjfizetés ellenőrzésére jogosult szervezet ellenőrének átadni. Jogosulatlan úthasználat esetében megállítás útján történő ellenőrzéskor a helyszínen a gépjármű vezetője köteles a megfelelő pótdíjat vagy a pótdíjkülönbözetet megfizetni, vagy ha annak feltételei fennállnak, díjkategóriájának megfelelő úthasználati jogosultságot vásárolni. Ha a helyszíni megállítás alkalmával elmulasztja a jogosultság megvásárlását, a 7/A. § (3) bekezdésében foglaltak alkalmazásának a vásárlás elmulasztását követően nincs helye.
 
-(3)[^36] A díj megfizetése a díjfizetés ellenében használható autópályákról, autóutakról és főutakról szóló miniszteri rendelet szerinti díjköteles útszakasz – a közúti közlekedés szabályairól szóló miniszteri rendelet szerint lakott területnek minősülő részei kivételével – bármely pontján, és csomópontjain ellenőrizhető.
+(3)[^43] Az úthasználati jogosultság fennállása a díjfizetés ellenében használható autópályákról, autóutakról és főutakról szóló miniszteri rendelet szerinti díjköteles útszakasz – a közúti közlekedés szabályairól szóló miniszteri rendelet szerint lakott területnek minősülő részei kivételével – bármely pontján, és csomópontjain is ellenőrizhető.
 
-[^33]: A 7. § a 108/2007. (XII. 23.) GKM rendelet 6. §-ával megállapított szöveg.
-[^34]: A 7. § (1) bekezdése a 75/2015. (XII. 29.) NFM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^35]: A 7. § (2) bekezdése a 95/2011. (XII. 30.) NFM rendelet 6. §-ával megállapított, a 3/2015. (I. 29.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^36]: A 7. § (3) bekezdése a 75/2015. (XII. 29.) NFM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^40]: A 7. § a 108/2007. (XII. 23.) GKM rendelet 6. §-ával megállapított szöveg.
+[^41]: A 7. § (1) bekezdése a 75/2015. (XII. 29.) NFM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^42]: A 7. § (2) bekezdése az 58/2017. (XII. 29.) NFM rendelet 8. §-ával megállapított szöveg.
+[^43]: A 7. § (3) bekezdése az 58/2017. (XII. 29.) NFM rendelet 8. §-ával megállapított szöveg.

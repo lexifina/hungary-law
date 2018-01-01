@@ -1,28 +1,10 @@
-## A jogosultság érvényesítése[^21]
+## A jogosultság érvényesítése[^30]
 
-5. §[^22] (1)[^23] A jogosultság rögzítése csak elektronikus úton történhet. A jogosultság csak akkor érvényes, ha a vásárló a vásárlást és az érvényességet nyugtázó értesítést megkapta, vagy a vásárlás során az ellenőrző szelvény eladói példányát aláírta és kézhez kapta az ellenőrző szelvény vevői példányát. Az aláírás vagy az elektronikus értékesítési csatornák esetében az elektronikus megerősítő válasz azt igazolja, hogy az ellenőrző szelvény a valóságnak és a vásárló akaratának megfelelően tartalmazza az összes tényt és adatot.
+5. §[^31] (1) Az úthasználati jogosultság rögzítése elektronikusan történik, a NÚSZ Zrt. központi rendszerében. Az úthasználati jogosultság csak akkor tekinthető érvényesnek, ha a vásárló a díj megfizetését követően az érvényességet nyugtázó értesítést megkapta, vagy a vásárlás során az ellenőrző szelvény eladói példányát aláírta és kézhez kapta az ellenőrző szelvény vevői példányát. Az aláírás vagy az elektronikus értékesítési csatornák esetében az elektronikus megerősítő válasz azt igazolja, hogy az ellenőrző szelvény a valóságnak és a vásárló akaratának megfelelően tartalmazza az összes tényt és adatot.
 
-(2)[^24] A vásárlást és érvényességet nyugtázó értesítés vagy ellenőrző szelvény az alábbi adatokat tartalmazza:
+(2) Az érvényességet nyugtázó értesítés vagy ellenőrző szelvény a 4. § (2a) bekezdésében foglaltakon túl a jogosultság egyedi azonosító számát tartalmazza.
 
-a) forgalmi rendszám, felségjel,
+(3) A mobiltelefon útján történő vásárlást nyugtázó értesítés nem kell, hogy tartalmazza az értékesítés időpontjára és az értékesítő személyére vonatkozó adatokat.
 
-b) díjkategória, érvényességi időtartam,
-
-c) a jogosultság érvényességének záró időpontja év, hónap, nap, óra és perc értékekkel megadva,
-
-d) a jogosultság egyedi azonosító száma,
-
-e) az értékesítő neve és címe vagy székhelye,
-
-f) az értékesítés helye, az értékesítés ideje és a jogosultság érvényességének kezdő időpontja év, hónap, nap, óra és perc értékkel megadva.
-
-(3)[^25] A mobil telefon útján történő vásárlást nyugtázó értesítés a (2) bekezdés a)–d) pontja szerinti adatokat tartalmazza.
-
-(4)[^26]
-
-[^21]: Az 5. §-t megelőző alcím a 108/2007. (XII. 23.) GKM rendelet 4. §-ával megállapított szöveg.
-[^22]: Az 5. § a 108/2007. (XII. 23.) GKM rendelet 4. §-ával megállapított szöveg.
-[^23]: Az 5. § (1) bekezdése a 95/2011. (XII. 30.) NFM rendelet 4. §-ával megállapított szöveg.
-[^24]: Az 5. § (2) bekezdése a 95/2011. (XII. 30.) NFM rendelet 4. §-ával megállapított szöveg.
-[^25]: Az 5. § (3) bekezdése a 95/2011. (XII. 30.) NFM rendelet 4. §-ával megállapított, a 75/2015. (XII. 29.) NFM rendelet 19. § a) pontja szerint módosított szöveg.
-[^26]: Az 5. § (4) bekezdését a 95/2011. (XII. 30.) NFM rendelet 9. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^30]: Az 5. §-t megelőző alcím a 108/2007. (XII. 23.) GKM rendelet 4. §-ával megállapított szöveg.
+[^31]: Az 5. § az 58/2017. (XII. 29.) NFM rendelet 5. §-ával megállapított szöveg.
