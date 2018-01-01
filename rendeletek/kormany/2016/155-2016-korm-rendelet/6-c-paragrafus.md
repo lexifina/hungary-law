@@ -1,4 +1,4 @@
-6/C. §[^26] (1) A felelősségbiztosításnak
+6/C. §[^28] (1) A felelősségbiztosításnak
 
 a) a tervező esetében
 
@@ -20,4 +20,4 @@ kell fedezetet biztosítania.
 
 (2) Beruházási költségkeret alatt a beruházásnak az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet 16. § (3) bekezdés e) pontja alatti költségkeretét kell érteni.
 
-[^26]: A 6/C. §-t a 353/2016. (XI. 18.) korm. rendelet – 482/2016. (XII. 28.) Korm. rendelet 61. § (1) bekezdése szerint módosított – 5. § (1) bekezdése iktatta be.
+[^28]: A 6/C. §-t a 353/2016. (XI. 18.) korm. rendelet – 482/2016. (XII. 28.) Korm. rendelet 61. § (1) bekezdése szerint módosított – 5. § (1) bekezdése iktatta be.

@@ -10,6 +10,4 @@ c) a lakások, önálló rendeltetési egységek számát vagy
 
 d) az épület telken belüli elhelyezkedését
 
-érinti.
-
 [^10]: A 4. § (2) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 55. §-ával megállapított szöveg.
