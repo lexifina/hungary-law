@@ -1,1 +1,0 @@
-## 23. § A kártya megszemélyesítési folyamatának leírását a megszemélyesítő által elkészített, a működtető által jóváhagyott, egységes tartalmi elemekből felépülő megszemélyesítési szolgáltatási szabályzat tartalmazza.

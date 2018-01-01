@@ -1,1 +1,0 @@
-## 28. § A működtető a kártyakibocsátási kérelmet és mellékleteit azok hiánytalan beérkezését követően – szakhatósági állásfoglalás kiadása érdekében – haladéktalanul továbbítja az Alkotmányvédelmi Hivatalnak.

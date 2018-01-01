@@ -1,3 +1,0 @@
-39. § (1) Ha a működtető az ellenőrzés során azt állapítja meg, hogy az ellenőrzés alá vont a jogszabályban meghatározott kötelezettségét megszegi, az érintett NEK-kel kapcsolatos tevékenységét azonnali hatállyal felfüggesztheti.
-
-(2) Ha a működtető az ellenőrzés során azt állapítja meg, hogy az ellenőrzés alá vont a működési rendben, illetve a szolgáltatási szabályzatában meghatározott kötelezettségét megszegi, határidő tűzésével kötelezi az érintettet a hiányosság pótlására, egyidejűleg a NEK-kel kapcsolatos tevékenységét – a NEK biztonságos működését súlyosan veszélyeztető esetben – azonnali hatállyal felfüggesztheti.
