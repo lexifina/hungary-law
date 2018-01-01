@@ -18,7 +18,7 @@ e) a 17. § (2) bekezdés alapján építtetői fedezetkezelő működik közre.
 
 a)[^113] az Étv. 43. § (1) bekezdés e)–h) pontjában meghatározottak,
 
-b)[^114] az építőipari kivitelezési tevékenység, az építési-szerelési munka szakszerűségének ellenőrzése a jogerős építési (létesítési) engedély és a hozzá tartozó jóváhagyott építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció alapján,
+b)[^114] az építőipari kivitelezési tevékenység, az építési-szerelési munka szakszerűségének ellenőrzése a végleges építési (létesítési) engedély és a hozzá tartozó jóváhagyott építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció alapján,
 
 c)[^115] az építmény kitűzése helyességének, szükség esetén a geotechnikai, környezetvédelmi és egyéb felmérések, vizsgálatok megtörténtének ellenőrzése,
 
@@ -85,7 +85,7 @@ g) az építési műszaki ellenőrnek a jogszabályban meghatározott feladatoko
 [^111]: A 16. § (1) bekezdés nyitó szövegrésze a 156/2016. (VI. 13.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
 [^112]: A 16. § (1) bekezdés d) pontja a 156/2016. (VI. 13.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
 [^113]: A 16. § (3) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § i) pontja szerint módosított szöveg.
-[^114]: A 16. § (3) bekezdés b) pontja a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont ka) alpontja szerint módosított szöveg.
+[^114]: A 16. § (3) bekezdés b) pontja a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont ka) alpontja, a 457/2017. (XII. 28.) Korm. rendelet 257. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^115]: A 16. § (3) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 10. pontja szerint módosított szöveg.
 [^116]: A 16. § (3) bekezdés g) pontja a 62/2014. (III. 6.) Korm. rendelet 11. § (10) bekezdésével megállapított szöveg.
 [^117]: A 16. § (3) bekezdés h) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 9. pontja szerint módosított szöveg.

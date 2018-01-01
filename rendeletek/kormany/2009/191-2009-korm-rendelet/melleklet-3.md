@@ -500,13 +500,13 @@
 
 ## A fővállalkozó kivitelező(k) vagy annak felelős műszaki vezetője(ik) nyilatkozata az építési naplóban tett alábbi bejegyzésekről:
 
-## a) az építőipari kivitelezési tevékenységet a jogerős építési engedélynek és a hozzátartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak, valamint az 1. melléklet szerinti kivitelezési dokumentációnak megfelelően,
+## a) az építőipari kivitelezési tevékenységet a végleges építési engedélynek és a hozzátartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak, valamint az 1. melléklet szerinti kivitelezési dokumentációnak megfelelően,
 
 ## b) az építőipari kivitelezési tevékenységre vonatkozó jogszabályok, általános érvényű és eseti előírások, így különösen a statikai és az épületenergetikai követelmények, szakmai, minőségi, környezetvédelmi és biztonsági előírások megtartásával szakszerűen végezték-e,
 
 ## c) az építmény kivitelezése során alkalmazott műszaki megoldás az Étv. 31. § (2) bekezdésében meghatározott követelményeknek megfelel,
 
-## d) a jogerős építési engedélytől és a hozzátartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációtól, valamint az 1. melléklet szerinti kivitelezési dokumentációtól eltértek-e, az eltérés felsorolásával és szükségességének ismertetésével,
+## d) a végleges építési engedélytől és a hozzátartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációtól, valamint az 1. melléklet szerinti kivitelezési dokumentációtól eltértek-e, az eltérés felsorolásával és szükségességének ismertetésével,
 
 ## e) a külön jogszabályban előírt egyeztetés eredményeképpen a közműellátás szakszerűen biztosított-e,
 

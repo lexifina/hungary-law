@@ -1,18 +1,8 @@
-## A bírósági értesítéssel és a nemfizetési jelzéssel kapcsolatos eljárás[^306]
+## A bírósági értesítéssel és a nemfizetési jelzéssel kapcsolatos eljárás[^311]
 
-40/B. §[^307] (1)[^308] Az Étv. 58. § (11) bekezdése szerinti bírósági értesítéseknek az e-szankció elektronikus alkalmazásban történő rögzítését az OÉNY üzemeltetője köteles a beérkezést követően haladéktalanul, de legkésőbb a beérkezést követő munkanapon elvégezni. Az üzemeltető a rögzítéssel egyidejűleg az MKIK-t elektronikus úton értesíti. Az Étv. 58. § (11) bekezdése szerinti bírósági értesítéssel egyenértékűnek tekintendő, ha az MKIK tudomására jut olyan egyéb jogerős érdemi bírósági határozat, vagy jogerős fizetési meghagyás, amely ugyanazon adatokat tartalmazza.
+40/B. §[^312] (1)[^313] Az Étv. 58. § (11) bekezdése szerinti bírósági értesítéseknek az e-szankció elektronikus alkalmazásban történő rögzítését az OÉNY üzemeltetője köteles a beérkezést követően haladéktalanul, de legkésőbb a beérkezést követő munkanapon elvégezni. Az üzemeltető a rögzítéssel egyidejűleg az MKIK-t elektronikus úton értesíti. Az Étv. 58. § (11) bekezdése szerinti bírósági értesítéssel egyenértékűnek tekintendő, ha az MKIK tudomására jut olyan egyéb jogerős érdemi bírósági határozat, vagy jogerős fizetési meghagyás, amely ugyanazon adatokat tartalmazza.
 
-(2)[^309] A vállalkozó kivitelező
-
-a) teljes bizonyító erejű magánokiratba foglalt, vagy közvetítői eljárás eredményeként létrejött egyezséggel,
-
-b) közokiratba foglalt fizetési kötelezettségvállalással,
-
-c) teljesítésigazolással, vagy
-
-d) a Teljesítésigazolási Szakértői Szerv szakvéleményével
-
-igazolva írásban bejelentheti az MKIK-nak, hogy másik vállalkozó kivitelezővel (fizetésre kötelezett) megkötött kivitelezési szerződésből eredően díjazásra jogosult, de a fizetés sem a vállalt határidőben, sem a bejelentés megtételéig nem történt meg (nemfizetési jelzés).
+(2)[^314]
 
 (3) Az MKIK az (1) bekezdés szerinti értesítés érkezését követő 8 napon belül
 
@@ -42,7 +32,7 @@ c) tájékoztatja a feleket arról, hogy a határidő eredménytelen lejártát 
 
 (6) A (3) és az (5) bekezdésben meghatározott igazolás határidőben történő megérkezése esetén az MKIK az eljárást 8 napon belül megszünteti és a bejelentőt erről, valamint arról értesíti, hogy az eljárás megszüntetése a díjigény egyéb úton történő érvényesítését nem érinti.
 
-[^306]: A 40/B. §-t megelőző alcímet a 109/2013. (IV. 9.) Korm. rendelet 2. § (17) bekezdése iktatta be.
-[^307]: A 40/B. §-t a 109/2013. (IV. 9.) Korm. rendelet 2. § (17) bekezdése iktatta be.
-[^308]: A 40/B. § (1) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^309]: A 40/B. § (2) bekezdés záró szövegrésze a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
+[^311]: A 40/B. §-t megelőző alcímet a 109/2013. (IV. 9.) Korm. rendelet 2. § (17) bekezdése iktatta be.
+[^312]: A 40/B. §-t a 109/2013. (IV. 9.) Korm. rendelet 2. § (17) bekezdése iktatta be.
+[^313]: A 40/B. § (1) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^314]: A 40/B. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 258. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

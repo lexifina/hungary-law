@@ -82,7 +82,7 @@ c) az építési napló vezetése, külön megállapodás esetén az alvállalko
 
 (5)[^91] A vállalkozó kivitelező a saját e-építési naplójának a vezetésével megbízhatja a felelős műszaki vezetőjét. Az erre irányuló megállapodást mindkét fél elfogadásával a vállalkozó kivitelező e-építési naplójában kell rögzíteni.
 
-(6)[^92] Az építőipari kivitelezési tevékenység építési szakmunkáit vagy annak egyes munkafázisait saját részre vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti hozzátartozó részére a vállalkozó kivitelezői tevékenység végzésére nem jogosult személy is végezheti, szakirányú szakképesítés nélkül, a szakmai szabályok betartása mellett
+(6)[^92] Az építőipari kivitelezési tevékenység építési szakmunkáit vagy annak egyes munkafázisait saját részre vagy a Polgári Törvénykönyvről szóló törvény szerinti hozzátartozó részére a vállalkozó kivitelezői tevékenység végzésére nem jogosult személy is végezheti, szakirányú szakképesítés nélkül, a szakmai szabályok betartása mellett
 
 a) építési engedélyhez vagy az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött esetben,
 
@@ -104,4 +104,4 @@ b) építési engedélyhez vagy az Étv. 33/A. §-a szerinti egyszerű bejelent�
 [^89]: A 12. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 11. § (8) bekezdésével megállapított szöveg.
 [^90]: A 12. § (4) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont ec) alpontja szerint módosított szöveg.
 [^91]: A 12. § (5) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 68. § (2) bekezedésével megállapított, a 482/2016. (XII. 28.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
-[^92]: A 12. § (6) bekezdését a 62/2014. (III. 6.) Korm. rendelet 11. § (9) bekezdése iktatta be, szövege a 156/2016. (VI. 13.) Korm. rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^92]: A 12. § (6) bekezdését a 62/2014. (III. 6.) Korm. rendelet 11. § (9) bekezdése iktatta be, szövege a 156/2016. (VI. 13.) Korm. rendelet 9. § (5) bekezdésével megállapított, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 257. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

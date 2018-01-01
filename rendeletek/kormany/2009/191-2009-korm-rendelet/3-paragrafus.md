@@ -6,7 +6,7 @@
 
 a) üzletszerű gazdasági tevékenységként folytatott építőipari kivitelezési tevékenység esetén írásba kell foglalni, és
 
-b)[^19] – ha az építtető és a fővállalkozó kivitelező között jön létre – a 17. § (2) bekezdés a) pontja szerinti esetben ügyvéd vagy jogtanácsos általi ellenjegyzése szükséges.
+b)[^19] – ha az építtető és a fővállalkozó kivitelező között jön létre – a 17. § (2) bekezdés a) pontja szerinti esetben ügyvéd vagy kamarai jogtanácsos általi ellenjegyzése szükséges.
 
 A kivitelezési szerződés megkötését követően a vállalkozó kivitelező viseli annak jogkövetkezményét, amely a tervdokumentáció olyan hiányosságából adódik, melyet a vállalkozó kivitelezőnek a tőle elvárható szakmai gondosság mellett észlelnie kellett volna, de a szerződéskötést megelőzően nem jelzett.
 
@@ -87,7 +87,7 @@ bb)[^32] a tervezett nyereséget, amennyiben azt a rezsióradíj nem tartalmazza
 (12)[^38] Ha a kivitelezési szerződés az Fgyr. szerinti üzlethelyiségen kívül kötött szerződésnek minősül és az építtető nem tett (2) bekezdés q) pont qb) alpontja szerinti nyilatkozatot, akkor a vállalkozó kivitelező a teljesítést a szerződés megkötésétől számított 14. napot követően kezdi meg. E bekezdés vonatkozásában üzlethelyiségnek minősül különösen a vállalkozó kivitelező valamint a nevében vagy képviseletében eljáró személy székhelye, telephelye, fióktelepe vagy irodája.
 
 [^18]: A 3. § (1) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja, záró szövegrésze a 12. § 4. pontja szerint módosított szöveg.
-[^19]: A 3. § (1) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
+[^19]: A 3. § (1) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 3. pontja, a 393/2017. (XII. 13.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^20]: A 3. § (2) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
 [^21]: A 3. § (2) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a, a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont aa) alpontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 5. pontja, a 482/2016. (XII. 28.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
 [^22]: A 3. § (2) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a, a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont ab) alpontja, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 2. pontja szerint módosított szöveg.

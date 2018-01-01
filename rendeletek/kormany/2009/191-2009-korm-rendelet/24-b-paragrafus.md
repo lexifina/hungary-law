@@ -16,7 +16,7 @@ a) az építésügyi hatóság
 
 aa) ha az e-főnaplót az építésügyi hatósági engedély hatályossága alatt nem nyitották meg és az engedély hatályának hosszabbítását sem kérelmezték,
 
-ab) ha az építtető az elkészült építményre jogerős és végrehajtható használatbavételi engedéllyel rendelkezik vagy a használatára tudomásulvétellel jogosulttá vált,
+ab)[^234] ha az építtető az elkészült építményre végleges használatbavételi engedéllyel rendelkezik vagy a használatára tudomásulvétellel jogosulttá vált,
 
 ac) a használatbavételi engedélyhez előírt kikötés esetén, ha a teljesítésigazolás feltöltése megtörtént, vagy
 
@@ -28,7 +28,7 @@ ba) az építésügyi hatósági engedélyhez nem kötött építőipari kivitel
 
 bb) az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építőipari kivitelezési tevékenység esetében az épület felépítésének, bővítésének megtörténtét tanúsító hatósági bizonyítvány feltöltését követően.
 
-(7)[^234] Ha a használatbavételi engedély rendelkezik a hiányzó építési tevékenységek elvégzésének kötelezettségéről, akkor az építésügyi hatóság e tevékenységek befejezését követően szünteti meg az e-építési napló készenlétét.
+(7)[^235] Ha a használatbavételi engedély rendelkezik a hiányzó építési tevékenységek elvégzésének kötelezettségéről, akkor az építésügyi hatóság e tevékenységek befejezését követően szünteti meg az e-építési napló készenlétét.
 
 [^226]: A 24/B. §-t megelőző alcímet a 336/2013. (IX. 20.) Korm. rendelet 11. §-a iktatta be, szövege a 482/2016. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^227]: A 24/B. §-t a 336/2013. (IX. 20.) Korm. rendelet 11. §-a iktatta be.
@@ -38,4 +38,5 @@ bb) az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építőipari
 [^231]: A 24/B. § (4) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
 [^232]: A 24/B. § (5) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
 [^233]: A 24/B. § (6) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
-[^234]: A 24/B. § (7) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
+[^234]: A 24/B. § (6) bekezdés a) pont ab) alpontja a 457/2017. (XII. 28.) Korm. rendelet 257. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^235]: A 24/B. § (7) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be.

@@ -62,7 +62,7 @@ d) az épületvillamossági kivitelezési dokumentáció.
 
 (4)–(5)[^200]
 
-(6)[^201] A kivitelezési dokumentáció tartalma nem térhet el a jogerős építésügyi hatósági engedélyben és a hozzá tartozó, jóváhagyott és engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltaktól vagy a tudomásulvételhez mellékelt dokumentáció tartalmától kivéve, ha maga az eltérés megfelel az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 22. § (1) bekezdésében foglaltaknak. Ennek betartásáért a tervező felel.
+(6)[^201] A kivitelezési dokumentáció tartalma nem térhet el a végleges építésügyi hatósági engedélyben és a hozzá tartozó, jóváhagyott és engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltaktól vagy a tudomásulvételhez mellékelt dokumentáció tartalmától kivéve, ha maga az eltérés megfelel az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 22. § (1) bekezdésében foglaltaknak. Ennek betartásáért a tervező felel.
 
 [^193]: A 22. § a 322/2012. (XI. 16.) Korm. rendelet 77. §-ával megállapított szöveg.
 [^194]: A 22. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 9. § (7) bekezdésével megállapított szöveg.
@@ -72,4 +72,4 @@ d) az épületvillamossági kivitelezési dokumentáció.
 [^198]: A 22. § (2) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^199]: A 22. § (3) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^200]: A 22. § (4)–(5) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
-[^201]: A 22. § (4) bekezdés a) pont ab) alpontja a 62/2014. (III. 6.) Korm. rendelet 12. § 20. pontja szerint módosított szöveg.
+[^201]: A 22. § (6) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 20. pontja, a 457/2017. (XII. 28.) Korm. rendelet 257. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
