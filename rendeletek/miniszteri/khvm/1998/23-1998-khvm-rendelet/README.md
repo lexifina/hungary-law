@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-23-20-6
 | 2014-01-01 | 1998-23-20-6B.6 | 132/2013. (XII. 23.) VM rendelet |
 | 2014-11-29 | 1998-23-20-6B.7 | 52/2014. (XI. 28.) BM rendelet |
 | 2016-06-15 | 1998-23-20-6B.8 | 19/2016. (VI. 8.) BM rendelet |
+| 2018-01-01 | 1998-23-20-6B.9 | 44/2017. (XII. 29.) BM rendelet |
