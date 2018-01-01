@@ -6,4 +6,6 @@ b) a hatóság részvételével más laboratóriumban vagy
 
 c) a gyártás vagy az üzembe helyezés helyszínén.
 
-(2) A típusvizsgálat lefolytatásához a kérelmező köteles minden olyan feltételt a mérésügyi hatóság számára biztosítani, amely a vizsgált WIM eszköz e rendelet szerinti működésének ellenőrzéséhez szükséges.
+(2)[^2]
+
+[^2]: Az 5. § (2) bekezdését az 51/2017. (XII. 29.) NGM rendelet 29. § b) pontja hatályon kívül helyezte.

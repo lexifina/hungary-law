@@ -2,16 +2,11 @@
 
 ## 4. Hitelesítés
 
-8. § (1) Első esetben csak olyan WIM eszköz hitelesíthető, amelynek típusa rendelkezik hatályos hitelesítési engedéllyel.
-
-(2) A WIM eszköz első hitelesítését a forgalmazó kérelmezi.
-
-(3) A hitelesítést a WIM eszköz esetén az üzembe helyezésének helyén kell elvégezni.
+8. § (1)–(3)[^4]
 
 (4) A hitelesítés során a mérésügyi hatóság megvizsgálja és tanúsítja, hogy az eljárásával ellenőrzött WIM eszköz megfelel a hitelesítési engedély szerinti típusmintának és az 1. mellékletben meghatározott követelményeknek.
 
-(5) A mérésügyi hatóság az eszközönkénti vizsgálat során a megfelelőnek ítélt WIM eszközről hitelesítési bizonyítványt állít ki, és a WIM eszközön elhelyezi a hitelesítési engedélyben meghatározott tanúsító jeleket és lezárásokat.
+(5)–(7)[^5]
 
-(6) A hitelesített WIM eszközt, amennyiben a használat során meghibásodik, a javítás után ismételten hitelesíttetni kell a hitelesítési előírásban és a hitelesítési engedélyben leírtaknak megfelelően.
-
-(7) A WIM eszköz időszakos hitelesítését meghatározott időközönként, a hitelesítési előírásban, illetve a hitelesítési engedélyben leírtaknak megfelelően kell elvégezni.
+[^4]: A 8. § (1)–(3) bekezdését az 51/2017. (XII. 29.) NGM rendelet 29. § d) pontja hatályon kívül helyezte.
+[^5]: A 8. § (5)–(7) bekezdését az 51/2017. (XII. 29.) NGM rendelet 29. § d) pontja hatályon kívül helyezte.

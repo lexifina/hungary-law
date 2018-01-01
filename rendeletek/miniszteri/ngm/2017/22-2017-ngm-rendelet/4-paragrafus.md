@@ -10,20 +10,8 @@ b) a WIM eszköz, illetve részegységeinek gyártmányát, típusát vagy – h
 
 c) a WIM eszközre vonatkozó tervdokumentációt.
 
-(3) A tervdokumentációnak az értékelés szempontjából lényeges, a WIM eszköz szerkezetére, gyártására és működésére vonatkozó alábbi dokumentumokat kell tartalmaznia:
-
-a) a WIM eszköz általános leírását,
-
-b) az alkatrészek, részegységek vázlatrajzát, az áramkörök konstrukciós terveit, a gyártási, összeállítási és kapcsolási rajzokat,
-
-c) a WIM eszköz működéséhez és annak megértéséhez szükséges leírásokat és magyarázatokat,
-
-d) az alkalmazott szabványok, nemzetközi ajánlások jegyzékét és azon megoldások leírását, amelyek eltérnek ezek követelményeitől,
-
-e) a tervezési számítások és vizsgálatok eredményeit,
-
-f) a WIM eszközről készített vizsgálati jelentéseket, jegyzőkönyveket és
-
-g) a beépített alkatrészek, részegységek vizsgálati adatait.
+(3)[^1]
 
 (4) A kérelmező a típusvizsgálati eljárás lefolytatásához ingyenesen típusmintát bocsát a mérésügyi hatóság rendelkezésére. A típusminta több típusváltozatot is reprezentálhat, ha a változatok megfelelőségéről a típusminta vizsgálatával meg lehet győződni.
+
+[^1]: A 4. § (3) bekezdését az 51/2017. (XII. 29.) NGM rendelet 29. § a) pontja hatályon kívül helyezte.
