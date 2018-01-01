@@ -1,4 +1,4 @@
-## III/A. Fejezet[^70]
+## III/A. Fejezet[^72]
 
 ## HALASTÓ ELADÁSÁRA VAGY HASZONBÉRBE ADÁSÁRA IRÁNYULÓ PÁLYÁZTATÁS KÜLÖNÖS SZABÁLYAI
 
@@ -24,4 +24,4 @@
 
 (10) Halastavat tartalmazó földrészlet esetében a haszonbérleti szerződésben ki kell kötni, hogy a haszonbérlet időtartama alatt a bérelt földrészleten található halastó kultúrállapota és műszaki állapota nem romolhat.
 
-[^70]: A III/A. fejezetet (28/A. §) a 29/2016. (II. 25.) Korm. rendelet 2. §-a iktatta be.
+[^72]: A III/A. fejezetet (28/A. §) a 29/2016. (II. 25.) Korm. rendelet 2. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 (2) Nem kell pályáztatási eljárást lefolytatni, ha
 
-a)[^113]
+a)[^115]
 
 b) a haszonbérbe adandó védett területek együttes térmértéke nem haladja meg az 5 hektárt.
 
@@ -12,7 +12,7 @@ b) a haszonbérbe adandó védett területek együttes térmértéke nem haladja
 
 (5) A pályázati eljárásban résztvevő pályázókra vonatkozó előírások kapcsán a 26. § (2) bekezdés b) pontját nem kell alkalmazni.
 
-(6)[^114] A pályázó a pályázatát köteles a pályázat benyújtására nyitva álló határidőben, a pályázati azonosítószám feltüntetésével elektronikus úton benyújtani.
+(6)[^116] A pályázó a pályázatát köteles a pályázat benyújtására nyitva álló határidőben, a pályázati azonosítószám feltüntetésével elektronikus úton benyújtani.
 
 (7) A 14. § (1) bekezdésében foglaltakon túl érvénytelen az a pályázat is, ha a pályázati eljárás kezdő napját megelőző
 
@@ -28,13 +28,13 @@ c) 7 éven belül a pályázónak természetkárosítás bűntette miatti bünte
 
 (10) A pályázatok értékelése során előnyben kell részesíteni azt a pályázót, aki vagy amely
 
-a)[^115] a Földforgalmi tv. szerinti helyben lakónak minősül és az adott tájegységre jellemző hagyományos gazdálkodást folytat,
+a)[^117] a Földforgalmi tv. szerinti helyben lakónak minősül és az adott tájegységre jellemző hagyományos gazdálkodást folytat,
 
-b)[^116]
+b)[^118]
 
 c) a régi magyar háziállatfajták tartását, tenyésztését és genetikai állományának megőrzését végzi, különös tekintettel a legeltetett fajokra és fajtákra.
 
-[^113]: A 43/D. § (2) bekezdés a) pontját a 153/2013. (V. 24.) Korm. rendelet 20. § f) pontja hatályon kívül helyezte.
-[^114]: A 43/D. § (6) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg.
-[^115]: A 43/D. § (10) bekezdés a) pontja a 91/2014. (III. 20.) Korm. rendelet 12. § n) pontja szerint módosított szöveg.
-[^116]: A 43/D. § (10) bekezdés b) pontját a 405/2012. (XII. 28.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
+[^115]: A 43/D. § (2) bekezdés a) pontját a 153/2013. (V. 24.) Korm. rendelet 20. § f) pontja hatályon kívül helyezte.
+[^116]: A 43/D. § (6) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg.
+[^117]: A 43/D. § (10) bekezdés a) pontja a 91/2014. (III. 20.) Korm. rendelet 12. § n) pontja szerint módosított szöveg.
+[^118]: A 43/D. § (10) bekezdés b) pontját a 405/2012. (XII. 28.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.

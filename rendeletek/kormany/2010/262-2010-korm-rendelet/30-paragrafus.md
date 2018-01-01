@@ -2,12 +2,12 @@
 
 (2) Amennyiben a kikiáltási áron érvényes vételi ajánlatot nem tettek, az árverést eredménytelennek kell nyilvánítani.
 
-(3)[^75] Az árverési biztosíték a földrészlet kikiáltási árának 10%-a, amit az árverésen való licitálás feltételeként az árverezőnek – helyrajzi számonként – az árverési hirdetményben meghatározottak szerint kell megfizetni legkésőbb az árverést megelőző munkanapon 12 óráig.
+(3)[^77] Az árverési biztosíték a földrészlet kikiáltási árának 10%-a, amit az árverésen való licitálás feltételeként az árverezőnek – helyrajzi számonként – az árverési hirdetményben meghatározottak szerint kell megfizetni legkésőbb az árverést megelőző munkanapon 12 óráig.
 
-(4)[^76] Az árverési biztosíték elhelyezésére az NFA közvetlen vagy közvetett többségi állami tulajdonú hitelintézetnél letéti számlát nyit. A letéti számla megnyitásához az államháztartásért felelős miniszter engedélye nem szükséges.
+(4)[^78] Az árverési biztosíték elhelyezésére az NFA közvetlen vagy közvetett többségi állami tulajdonú hitelintézetnél letéti számlát nyit. A letéti számla megnyitásához az államháztartásért felelős miniszter engedélye nem szükséges.
 
-(5)[^77] A nyertes árverező esetében az árverési biztosíték a vételárba beszámításra kerül, a nem nyertes árverezők esetén az árverés napját követő 8 munkanapon belül intézkedni kell az árverési biztosíték visszafizetése iránt.
+(5)[^79] A nyertes árverező esetében az árverési biztosíték a vételárba beszámításra kerül, a nem nyertes árverezők esetén az árverés napját követő 8 munkanapon belül intézkedni kell az árverési biztosíték visszafizetése iránt.
 
-[^75]: A 30. § (3) bekezdése a 285/2015. (X. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^76]: A 30. § (4) bekezdése a 285/2015. (X. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^77]: A 30. § (5) bekezdését a 285/2015. (X. 5.) Korm. rendelet 6. §-a iktatta be.
+[^77]: A 30. § (3) bekezdése a 285/2015. (X. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^78]: A 30. § (4) bekezdése a 285/2015. (X. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^79]: A 30. § (5) bekezdését a 285/2015. (X. 5.) Korm. rendelet 6. §-a iktatta be.

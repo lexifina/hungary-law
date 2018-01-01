@@ -1,8 +1,8 @@
-31. § (1)[^78] Az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében előírt módon, a kormányhivatalnak az árverezés helye szerinti megyei jogú városban található hivatali helyiségében, az árveréssel érintett földrészlet fekvése szerinti településen a helyben szokásos módon, valamint az árverés helyszínén is ki kell függeszteni, továbbá megyei, illetve helyi sajtótermékekben is közzé kell tenni. A közös önkormányzati hivatal esetében az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében meghatározottak alapján a közös önkormányzati hivatalnál is közzé kell tenni. Az árverés meghirdetésének napja az árverési hirdetménynek az NFA internetes honlapján történő közzétételének napja.
+31. § (1)[^80] Az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében előírt módon, a kormányhivatalnak az árverezés helye szerinti megyei jogú városban található hivatali helyiségében, az árveréssel érintett földrészlet fekvése szerinti településen a helyben szokásos módon, valamint az árverés helyszínén is ki kell függeszteni, továbbá megyei, illetve helyi sajtótermékekben is közzé kell tenni. A közös önkormányzati hivatal esetében az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében meghatározottak alapján a közös önkormányzati hivatalnál is közzé kell tenni. Az árverés meghirdetésének napja az árverési hirdetménynek az NFA internetes honlapján történő közzétételének napja.
 
-(2)[^79] Az árverési hirdetmény közzétételének időpontja legalább harminc nappal meg kell, hogy előzze a hirdetményben megjelölt árverési időpontot.
+(2)[^81] Az árverési hirdetmény közzétételének időpontja legalább harminc nappal meg kell, hogy előzze a hirdetményben megjelölt árverési időpontot.
 
-(3)[^80] A hirdetményben fel kell tüntetni
+(3)[^82] A hirdetményben fel kell tüntetni
 
 1. az árverést kiíró megnevezését és székhelyét;
 
@@ -58,11 +58,11 @@
 
 24. mindazon további információt, amit az NFA szükségesnek tart.
 
-(4)[^81]
+(4)[^83]
 
 (5) A (3) bekezdés 11. pontjában foglalt adatokat az NFA a Mezőgazdasági és Vidékfejlesztési Hivatal adatszolgáltatása alapján állapítja meg.
 
-[^78]: A 31. § (1) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^79]: A 31. § (2) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^80]: A 31. § (3) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^81]: A 31. § (4) bekezdését a 285/2015. (X. 5.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^80]: A 31. § (1) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^81]: A 31. § (2) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^82]: A 31. § (3) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^83]: A 31. § (4) bekezdését a 285/2015. (X. 5.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.

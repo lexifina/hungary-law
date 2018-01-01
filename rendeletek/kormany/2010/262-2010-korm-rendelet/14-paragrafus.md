@@ -18,10 +18,10 @@ h) a pályázóval szemben a Nemzeti Földalapba tartozó földrészlet hasznos�
 
 i) az NFA-val szemben 120 napot meghaladó lejárt tartozása van a pályázónak vagy közeli hozzátartozójának, illetve élettársának, vagy annak a gazdasági társaságnak, amelyben a pályázó vagy közeli hozzátartozója, illetve élettársa többségi befolyással rendelkezik;
 
-j)[^44] a pályázóval szemben megállapításra kerül, hogy nyertessége esetén a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben (a továbbiakban: Földforgalmi tv.) foglalt szerzési korlátok megsértése állna fenn.
+j)[^46] a pályázóval szemben megállapításra kerül, hogy nyertessége esetén a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben (a továbbiakban: Földforgalmi tv.) foglalt szerzési korlátok megsértése állna fenn.
 
 (2) Az NFA érvénytelennek nyilváníthatja a pályázatot, ha pályázó vagy az érdekkörébe tartozó más személy a 12. §-ban foglalt titoktartási kötelezettségét megsértette.
 
 (3) Az érvénytelen vagy érvénytelennek nyilvánított pályázatot benyújtó pályázó a pályázati eljárásban, illetve annak további szakaszában nem vehet részt. Erről – az érvénytelenség okának megjelölésével – az NFA írásban értesíti a pályázót.
 
-[^44]: A 14. § (1) bekezdés j) pontját a 91/2014. (III. 20.) Korm. rendelet 4. §-a iktatta be.
+[^46]: A 14. § (1) bekezdés j) pontját a 91/2014. (III. 20.) Korm. rendelet 4. §-a iktatta be.

@@ -16,6 +16,6 @@ c) a pályázatok felbontásakor, illetve ismertetésekor bejelentett esetleges 
 
 (5) Az NFA a pályázók számát a pályázatok bontásáig, a pályázatok tartalmát a döntéshozatalig titkosan kezeli, arról felvilágosítást sem kívülállóknak, sem a pályázaton részt vevőknek nem ad.
 
-(6)[^45] A pályázatok felbontása után az NFA képviselője a pályázat anyagát értékelés céljából átadja a 16. §-ban meghatározott értékelő bizottságnak.
+(6)[^47] A pályázatok felbontása után az NFA képviselője a pályázat anyagát értékelés céljából átadja a 16. §-ban meghatározott értékelő bizottságnak.
 
-[^45]: A 15. § (6) bekezdése a 153/2013. (V. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^47]: A 15. § (6) bekezdése a 153/2013. (V. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
