@@ -4,17 +4,19 @@
 
 27. § (1) Az e rendelet hatálya alá tartozó közlekedési építmény megszüntetése iránti kérelmet a megszüntetés tervezett időpontja előtt legkésőbb 60 nappal kell a közlekedési hatósághoz benyújtani. A kérelemhez mellékelni kell:
 
-a)[^8] a bontási tervet három példányban; továbbá a szakhatósági állásfoglalást vagy a szakkérdés vizsgálatát igénylő esetekben a szakhatósági megkeresésekhez, a szakkérdés vizsgálatához szükséges tartalommal és részletességgel összeállított tervdokumentációt egy-egy példányban,
+a)[^29] a bontási tervet három példányban; továbbá a szakhatósági állásfoglalást vagy a szakkérdés vizsgálatát igénylő esetekben a szakhatósági megkeresésekhez, a szakkérdés vizsgálatához szükséges tartalommal és részletességgel összeállított tervdokumentációt egy-egy példányban,
 
-b) a tervező nyilatkozatát arról, hogy a tervezett műszaki megoldás megfelel a jogszabályoknak, műszaki előírásoknak és az általános érvényű szakmai követelményeknek,
+b)–d)[^30]
 
-c) az útkezelő és a vagyonkezelő nyilatkozatát a bontási tervhez való hozzájárulásról,
+(1a)[^31] A kérelmezőnek igazolnia kell, hogy
 
-d) az érintett közműszolgáltatók és közösségi közlekedési szolgáltatók, vagyonkezelők, az ismert ügyfelek, a közforgalom elől el nem zárt magánút esetében a tulajdonos (tulajdonosok) név- és címjegyzékét nyomtatott és elektronikus formában.
+a) a tervezett műszaki megoldás megfelel a jogszabályoknak, műszaki előírásoknak és az általános érvényű szakmai követelményeknek,
 
-(2) A megszüntetési eljárásban tartott helyszíni szemlére a 12. §-ban foglaltakat kell alkalmazni.
+b) az útkezelő és a vagyonkezelő a bontási tervhez hozzájárult.
 
-(3) Az építmény megszüntetéséről szóló határozat – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túlmenően – tartalmazza:
+(2)[^32]
+
+(3)[^33] Az építmény megszüntetéséről szóló határozat – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően – tartalmazza:
 
 a) a közlekedési építmény pontos megnevezését, helyét, a bontási terv azonosító adatait és a bontási munka rövid leírását,
 
@@ -34,4 +36,8 @@ f) az építtető kötelezését arra, hogy a kivitelezés megkezdésének időp
 
 (6) Az út megszüntetéséről szóló határozat időbeli hatályára a 15. §-ban foglaltak az irányadóak.
 
-[^8]: A 27. § (1) bekezdés a) pontja a 70/2015. (III. 30.) 200. § (3) bekezdésével megállapított szöveg.
+[^29]: A 27. § (1) bekezdés a) pontja a 70/2015. (III. 30.) 200. § (3) bekezdésével megállapított szöveg.
+[^30]: A 27. § (1) bekezdés b)–d) pontját a 457/2017. (XII. 28.) Korm. rendelet 394. § g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^31]: A 27. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 392. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^32]: A 27. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 394. § g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^33]: A 27. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 393. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

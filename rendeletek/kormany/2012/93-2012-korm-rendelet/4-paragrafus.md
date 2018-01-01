@@ -14,9 +14,9 @@ ad) az út műtárgyai közül az áteresz építése,
 
 ae) az úttartozékok közül a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb építmények, berendezések – kivéve a pihenőhely – építése, továbbá a hóvédő erdősáv, fasor, cserjesáv telepítése,
 
-af)[^1] az elektronikus útdíjszedési és díjellenőrzési létesítmények építése, átépítése, üzemeltetése és karbantartása,
+af)[^2] az elektronikus útdíjszedési és díjellenőrzési létesítmények építése, átépítése, üzemeltetése és karbantartása,
 
-ag)[^2] a külön jogszabályban meghatározott járda, valamint gyalogút építése, korszerűsítése, megszüntetése (elbontása);
+ag)[^3] a külön jogszabályban meghatározott járda, valamint gyalogút építése, korszerűsítése, megszüntetése (elbontása);
 
 b) külterületen:
 
@@ -34,10 +34,10 @@ ca) a meglévő út burkolatának további forgalmi sáv – beleértve a külö
 
 cb) a meglévő csomópontnak további forgalmi sáv – beleértve a többlet- és különleges forgalmi sávot is – létesítésével nem járó átépítése, forgalomirányító lámpával való ellátása; kivéve a körforgalmú csomóponttá történő átépítést.
 
-(1a)[^3] Az (1) bekezdés a) pont ag) alpontjában meghatározott tevékenység megkezdését a hatósághoz be kell jelenteni.
+(1a)[^4] Az (1) bekezdés a) pont ag) alpontjában meghatározott tevékenység megkezdését a hatósághoz be kell jelenteni.
 
 (2) A közlekedési hatósági engedély mellőzése a munkavégzéssel kapcsolatos egyéb engedélyek beszerzésének szükségességét nem érinti, és nem mentesít a munkavégzés szabályszerűségéért való felelősség alól.
 
-[^1]: A 4. § (1) bekezdés a) pont af) alpontját a 32/2013. (II. 13.) Korm. rendelet 1. §-a iktatta be.
-[^2]: A 4. § (1) bekezdés a) pont ag) alpontját a 60/2017. (III. 20.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^3]: A 4. § (1a) bekezdését a 60/2017. (III. 20.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^2]: A 4. § (1) bekezdés a) pont af) alpontját a 32/2013. (II. 13.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 4. § (1) bekezdés a) pont ag) alpontját a 60/2017. (III. 20.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^4]: A 4. § (1a) bekezdését a 60/2017. (III. 20.) Korm. rendelet 24. § (2) bekezdése iktatta be.
