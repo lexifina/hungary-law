@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-12-20-0
 | --- | --- | --- |
 | 2008-02-22 | 1994-12-20-06.3 | 12/1994. (IX. 8.) IM rendelet |
 | 2012-07-07 | 1994-12-20-06.4 | 31/2012. (VI. 29.) KIM rendelet |
+| 2018-01-01 | 1994-12-20-06.5 | 20/2017. (XII. 21.) IM rendelet |

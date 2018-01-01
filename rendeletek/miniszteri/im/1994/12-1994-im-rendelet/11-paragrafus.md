@@ -1,8 +1,8 @@
 ## 11. §
 
-(1)[^22] Az ügyvéd a végrehajtható okiratnak, a végrehajtási eljárás során hozott határozatnak és a végrehajtó intézkedésének az ügyvédi díj megállapítására vonatkozó része ellen azokkal a jogorvoslatokkal élhet, amelyek a Vht. szerint a végrehajtást kérő részére is nyitva állnak.
+(1)[^26]
 
-(2)[^23] A végrehajtást kérő és az adós az ügyvédi díj megállapítására vonatkozó határozat (intézkedés) ellen a Vht. szerint élhet jogorvoslattal.
+(2)[^27] A végrehajtást kérő és az adós az ügyvédi díj megállapítására vonatkozó határozat (intézkedés) ellen a Vht. szerint élhet jogorvoslattal.
 
-[^22]: A 11. § (1) bekezdése a 4/2008. (II. 7.) IRM rendelet 4. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 5. § (3) bekezdése alapján a rendelkezést a 2008. február 22. napját követően előterjesztett végrehajtási kérelmek alapján elrendelt végrehajtásokban kell alkalmazni.
-[^23]: A 11. § (2) bekezdése a 4/2008. (II. 7.) IRM rendelet 4. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 5. § (3) bekezdése alapján a rendelkezést a 2008. február 22. napját követően előterjesztett végrehajtási kérelmek alapján elrendelt végrehajtásokban kell alkalmazni.
+[^26]: A 11. § (1) bekezdését a 20/2017. (XII. 21.) IM rendelet 5. § (6) bekezdés c) pontja hatályon kívül helyezte.
+[^27]: A 11. § (2) bekezdése a 4/2008. (II. 7.) IRM rendelet 4. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 5. § (3) bekezdése alapján a rendelkezést a 2008. február 22. napját követően előterjesztett végrehajtási kérelmek alapján elrendelt végrehajtásokban kell alkalmazni.
