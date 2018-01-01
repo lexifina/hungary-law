@@ -6,7 +6,7 @@
 
 a) annak a nőnek, aki a gyermeket örökbefogadási szándékkal nevelésbe vette, a gondozásba vétel napjától,
 
-b) annak a gyámnak, aki a gyermeket jogerős döntés alapján gondozza, a kirendelés napjától,
+b) annak a gyámnak, aki a gyermeket véglegessé vált döntés alapján gondozza, a kirendelés napjától,
 
 c) a gyermeket gondozó vér szerinti apának, ha a szülő nő igazoltan, az egészségi állapota miatt kikerül abból a háztartásból, ahol a gyermeket gondozzák, az igazoláson feltüntetett naptól ezen egészségi állapot fennállásáig,
 

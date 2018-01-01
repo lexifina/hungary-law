@@ -8,7 +8,7 @@ b) a kötelezettségszegés elbírálása olyan előzetes kérdéstől függ, me
 
 a) az (1) bekezdés a) pontja esetén legfeljebb az akadály megszűnéséig,
 
-b) az (1) bekezdés b) pontja esetén legfeljebb az eljárás jogerős befejezéséig vagy a szakvélemény elkészítéséig
+b) az (1) bekezdés b) pontja esetén legfeljebb az eljárás jogerős vagy végleges befejezéséig vagy a szakvélemény elkészítéséig
 
 tart.
 

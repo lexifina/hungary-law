@@ -4,9 +4,9 @@
 
 ## 18. A szolgálati viszony létesítésének feltételei
 
-31. § (1) Szolgálati viszony a 18. életévét betöltött, cselekvőképes, állandó belföldi lakóhellyel vagy tartózkodási hellyel rendelkező és a katonai szolgálatra egészségi, pszichikai és fizikai szempontból alkalmas magyar állampolgárral létesíthető, akivel szemben a (2) és a (3) bekezdés szerinti kizáró ok nem áll fenn.
+31. § (1) Szolgálati viszony a 18. életévét betöltött, cselekvőképes, állandó belföldi lakóhellyel vagy tartózkodási hellyel rendelkező magyar állampolgárral létesíthető, akivel szemben a (2) és a (3) bekezdés szerinti kizáró ok nem áll fenn.
 
-(1a) A katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasság feltételeit és az alkalmasság vizsgálatának rendjét miniszteri rendelet határozza meg.
+(1a) A szolgálati viszony miniszteri rendeletben meghatározott egészségi, pszichikai és fizikai alkalmassági feltételek esetén létesíthető, illetve tartható fenn. A katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasság feltételeit és az alkalmasság vizsgálatának rendjét miniszteri rendelet határozza meg.
 
 (2) Nem létesíthető szolgálati viszony azzal,
 

@@ -1,6 +1,6 @@
 ## 105. A szolgálati viszony jogellenes megszüntetésének jogkövetkezményei
 
-189. § (1) Ha a bíróság megállapítja, hogy a Honvédség az állomány tagjának szolgálati viszonyát jogellenesen szüntette meg, a szolgálati viszony megszüntetéséről hozott határozatot az (5) vagy a (6) bekezdés szerint hatályon kívül helyezi, és a (2) vagy a (3) bekezdés szerint rendelkezik az eredeti szolgálati beosztásban történő továbbfoglalkoztatásról vagy mellőzi azt.
+189. § (1) Ha a bíróság megállapítja, hogy a Honvédség az állomány tagjának szolgálati viszonyát jogellenesen szüntette meg, a szolgálati viszony megszüntetéséről hozott határozatot az (5) vagy a (6) bekezdés szerint megsemmisíti, és a (2) vagy a (3) bekezdés szerint rendelkezik az eredeti szolgálati beosztásban történő továbbfoglalkoztatásról vagy mellőzi azt.
 
 (2) Az állomány tagja abban az esetben kérheti az eredeti szolgálati beosztásban történő továbbfoglalkoztatását, ha
 

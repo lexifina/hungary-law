@@ -14,4 +14,4 @@ a) ha a címzett vagy az átvételre jogosult más személy a küldemény átvé
 
 b) ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot nem vette át, az „nem kereste” jelzéssel érkezett vissza, a postai kézbesítés második megkísérlésének napját követő 5. munkanapon.
 
-(6) Az olyan jognyilatkozattal kapcsolatban, amellyel szemben e törvény alapján bírósági eljárásnak van helye, a (2) bekezdésben szabályozott kézbesítési vélelem megdöntése iránt az eljárás kezdeményezésével egyidejűleg, a kézbesítési vélelem beálltáról való tudomásszerzéstől számított 15 napon, de legkésőbb a vélelem beálltától számított 6 hónapon belül terjeszthető elő kérelem a bíróságnál. A kézbesítési vélelem megdöntésére egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A vélelem megdöntése esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
+(6)

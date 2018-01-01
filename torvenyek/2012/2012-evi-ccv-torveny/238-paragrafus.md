@@ -16,7 +16,9 @@ d) a tiszti és az altiszti állomány tagjára vonatkozó teljesítményérték
 
 e) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat,
 
-f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
+f) a 47. § (4) bekezdése szerinti együttműködés rendjét,
+
+g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati kötelmekkel való összefüggésének, valamint a baleseti járadékra való jogosultság vizsgálatának és megállapításának szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
@@ -68,7 +70,7 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 24. a napi és a heti szolgálatteljesítési időre, a szolgálatteljesítési időkeretre, különösen annak kiszámítására és az elszámolásra vonatkozó végrehajtási szabályokat, a szolgálatteljesítési idő egyenlőtlen, vasárnapra vagy munkaszüneti napra történő beosztására, a túlszolgálat, az őr-, az ügyeleti és a készenléti szolgálat, továbbá a nemzetközi kötelezettséggel összefüggő feladatvégzésre kijelölésen alapuló egyéb készenléti tevékenység elrendelésére, nyilvántartására, az ezeket követő pihenőidő vagy szabadnap kiadására,, valamint az ellentételezésük nyilvántartására, a visszarendelés következtében szolgálatteljesítéssel töltött idő ellentételezésére, a szabadság nyilvántartására és kiadására vonatkozó szabályokat, továbbá az olyan jellegű szolgálati beosztásokat, amelyekhez az éves szolgálatteljesítési időkeret kapcsolható,
 
-25. a baleseti járadékra való jogosultság vizsgálatának szabályait, a kiegészítő támogatások megállapításának és folyósításának szabályait, a térítéses szolgáltatásokat és az azokra jogosultak körét, a baleset, betegség szolgálati kötelmekkel való összefüggésének megállapításával kapcsolatos eljárást, valamint a szolgáltatások térítésének szabályait,
+25. a kiegészítő támogatások megállapításának és folyósításának szabályait, a térítéses szolgáltatásokat és az azokra jogosultak körét, valamint a szolgáltatások térítésének szabályait,
 
 26. a kegyeleti minősítés szempontjait és feltételeit, a katonai temetés feltételeit és módját, a kegyeleti költségeket és a kegyeleti gondoskodás egyéb költségeit, azok összeghatárát, a költségekhez való hozzájárulás feltételeit és mértékét, az elszámolás rendjét, továbbá a temetési segélyre való jogosultság feltételeit és mértékét, az elszámolás rendjét,
 
@@ -88,7 +90,7 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 34. a kártérítési eljárás rendjére, a szakértő kijelölésére, az eljárási határidőkre, a tényállás tisztázására, a képviseletre vonatkozó szabályokat, a kártérítési igény elbírálására jogosult honvédségi szervezetet, a kártérítésre kötelezésre vagy annak mellőzésére, a kártérítés megállapítására, az eljárás felfüggesztésére és megszüntetésére, az utólagos mérsékelésre, az elengedésre, a végrehajtás elhalasztására, a részletfizetés engedélyezésére vonatkozó szabályokat, a határozatok formai és tartalmi követelményeit, a honvéd tisztjelöltre és a honvéd altiszt-jelöltre, valamint a külföldi szolgálatra irányadó szabályokat,
 
-35. a szolgálattal összefüggő balesetekkel, a szolgálattal összefüggésben kialakult vagy súlyosbodott betegségekkel kapcsolatos kárigények elbírálásának rendjét,
+35. az állomány tagja balesetének szolgálati kötelmekkel való összefüggése vizsgálatának, a szolgálattal összefüggő balesetekkel, a szolgálattal összefüggésben kialakult vagy súlyosbodott betegségekkel kapcsolatos kárigények elbírálásának rendjét,
 
 36. a kérelem, a szolgálati panasz és a fellebbezés elbírálásának rendjét,
 
