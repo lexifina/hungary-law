@@ -2,7 +2,7 @@
 
 1. az építésügyi és építésfelügyeleti
 
-1.1. hatóságok kijelölését, illetékességi területük lehatárolását, feladat- és hatáskörét,
+1.1. hatóságok kijelölését, illetékességi területük lehatárolását, feladat- és hatáskörét, felügyeleti szervét,
 
 1.2. hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását, az építési folyamat felügyeletét ellátó döntéshozó és döntést előkészítő köztisztviselők és kormánytisztviselők, valamint állami tisztviselők foglalkoztatási feltételeit,
 
@@ -62,7 +62,7 @@
 
 12. a sajátos építményfajták körébe tartozó honvédelmi, katonai és nemzetbiztonsági célú építményekre vonatkozóan
 
-12.1. az építésügyi és építésfelügyeleti hatóságok kijelölését,
+12.1. az építésügyi és építésfelügyeleti hatóságok és felügyeleti szerveik kijelölését és az építésügyi és építésfelügyeleti hatóság eljárására vonatkozó részletes szabályokat,
 
 12.2. az építésfelügyeleti tevékenység részletes szakmai szabályait,
 
@@ -102,7 +102,7 @@
 
 16.4. eljárási rendjét, a tervtanácsi jegyzőkönyv és a tervtanácsi vélemény tartalmi követelményeit,
 
-17. az építésügyi és az építésfelügyeleti hatósági tevékenység, az építésügyi és építésfelügyeleti hatósági engedélyezési, tudomásulvételi, kötelezési és végrehajtási eljárások, a hatósági bizonyítvány kiállításának, valamint az építésügyi és építésfelügyeleti hatósági ellenőrzés részletes szakmai szabályait, a hatósági határozatok és végzések tartalmi követelményeinek részletes szabályait, az elektronikus építésügyi, építésfelügyeleti hatósági ügyintézés részletes szabályait, a szolgáltatásnyújtás részletes szabályait, a nemzetgazdasági szempontból kiemelt beruházások esetében a keresetlevél építésügyi hatóság általi, bírósági felülvizsgálat céljából történő továbbításának szabályait, az építésügyi hatósági eljáráshoz kötött építési tevékenységek körét,
+17. az építésügyi és az építésfelügyeleti hatósági tevékenység, az építésügyi és építésfelügyeleti hatósági engedélyezési, tudomásulvételi, kötelezési és végrehajtási eljárások, a hatósági bizonyítvány kiállításának, valamint az építésügyi és építésfelügyeleti hatósági ellenőrzés részletes szakmai szabályait, a hatósági határozatok és végzések tartalmi követelményeinek részletes szabályait, az elektronikus építésügyi, építésfelügyeleti hatósági ügyintézés részletes szabályait, a szolgáltatásnyújtás részletes szabályait, a nemzetgazdasági szempontból kiemelt beruházások esetében a keresetlevél építésügyi hatóság általi, bíróság részére történő továbbításának szabályait, az építésügyi hatósági eljáráshoz kötött építési tevékenységek körét,
 
 18. az építési beruházások megvalósításához szükséges eljárások integrált intézéséhez a közreműködő hatóságok kijelölését és feladatait, az integrált eljárásban a hatóságok együttműködésének közös és különös szabályait, továbbá az integrált eljárás kötelezően alkalmazandó esetköreit,
 

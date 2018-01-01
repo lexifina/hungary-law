@@ -18,9 +18,9 @@ aa) engedély vagy tudomásulvétel nélkül,
 
 ab) az engedélytől vagy tudomásulvételtől eltérően,
 
-ac) az engedély jogerőssé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –, vagy
+ac) az engedély véglegessé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –, vagy
 
-ad) a jogerős engedély végrehajthatóságának felfüggesztése ellenére;
+ad) a végleges engedély végrehajthatóságának felfüggesztése ellenére;
 
 b) a 33/A. § szerinti egyszerű bejelentéshez kötött építési tevékenységet
 
@@ -36,7 +36,7 @@ c) ahhoz jogszabály alapján építési napló vezetése szükséges és a tev�
 
 végzik.
 
-(3) Nem minősül jogszerűtlen építési tevékenységnek az építési engedélytől a jogszabályban meghatározott szabvány szerinti tűréshatáron belüli eltérés, valamint ha a bíróság a jogerős építési engedély alapján végzett építési tevékenység végrehajthatóságát nem függeszti fel.
+(3) Nem minősül jogszerűtlen építési tevékenységnek az építési engedélytől a jogszabályban meghatározott szabvány szerinti tűréshatáron belüli eltérés, valamint ha a bíróság a végleges építési engedély alapján végzett építési tevékenység végrehajthatóságát nem függeszti fel.
 
 (4) Jogosulatlan a 16. §, a 32. §, a 38/A. § és a 38/D. § szerinti tevékenység, továbbá a vállalkozó kivitelezői tevékenység, ha az építési folyamat e törvényben és kormányrendeletben meghatározott résztvevője az általa folytatott tevékenység végzéséhez nem rendelkezik megfelelő jogosultsággal vagy szakképesítéssel, vagy a vállalkozó nem rendelkezik kivitelezői névjegyzéki nyilvántartási számmal, vagy kivitelezési tevékenység végzéséhez szükséges jogosultság felfüggesztésének időtartama alatt folytat kivitelezési tevékenységet.
 

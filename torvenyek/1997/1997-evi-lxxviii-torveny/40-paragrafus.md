@@ -12,7 +12,7 @@ a) az építményfajtának, építési tevékenységnek megfelelő jogosultság�
 
 b) a szakmunka irányításáért,
 
-c) – kormányrendeletben meghatározott feladatai körében – az építmény, építményrész jogerős és végrehajtható építési engedélynek és a hozzá tartozó jóváhagyott engedélyezési terveknek, illetve a jogszabályban meghatározott kivitelezési dokumentációnak megfelelő megvalósításáért, továbbá
+c) – kormányrendeletben meghatározott feladatai körében – az építmény, építményrész végleges építési engedélynek és a hozzá tartozó jóváhagyott engedélyezési terveknek, illetve a jogszabályban meghatározott kivitelezési dokumentációnak megfelelő megvalósításáért, továbbá
 
 d) az építési tevékenységre vonatkozó szakmai, minőségi és biztonsági előírások megtartásáért és
 

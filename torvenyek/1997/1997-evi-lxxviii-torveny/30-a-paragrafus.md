@@ -1,6 +1,6 @@
 ## Településrendezési szerződés
 
-30/A. § (1) A települési önkormányzat egyes településfejlesztési célok megvalósítására településrendezési szerződést (a továbbiakban: szerződés) köthet az érintett telek tulajdonosával, illetve a telken beruházni szándékozóval (a továbbiakban együtt: a cél megvalósítója).
+30/A. § (1) A települési önkormányzat egyes településfejlesztési célok megvalósítására településrendezési szerződést (a továbbiakban: szerződés) köthet az érintett telek tulajdonosával, illetve a telken beruházni szándékozóval (a továbbiakban együtt: a cél megvalósítója). A településrendezési szerződés közigazgatási szerződésnek minősül.
 
 (2) A szerződés megkötése előtt a települési önkormányzat képviselő-testülete dönt a cél megvalósítója által készített telepítési tanulmánytervről annak hiánytalan benyújtásától számított 30 napon belül.
 
