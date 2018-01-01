@@ -52,7 +52,7 @@ bj) a Nógrád Megyei Kormányhivatalt
 
 ## érintő másodfokú ingatlan-nyilvántartási eljárás lefolytatására.
 
-(3) A termőföld védelméről szóló törvény szerinti földvédelmi (ideértve a földvédelmi szakhatósági közreműködést és a földvédelmi szakkérdés vizsgálatát is), földminősítési és újrahasznosítási eljárást, ha az eljárás tárgyát képező földrészletek a megyén belül különböző, az e §-ban meghatározott hatáskörében eljáró járási hivatal illetékességi területéhez tartoznak, ingatlanügyi hatóságként
+(3)[^34] A termőföld védelméről szóló törvény szerinti földvédelmi, földminősítési és újrahasznosítási eljárást, ha az eljárás tárgyát képező földrészletek a megyén belül különböző, az e §-ban meghatározott hatáskörében eljáró járási hivatal illetékességi területéhez tartoznak, ingatlanügyi hatóságként
 
 a) a megyeszékhely szerinti járási hivatal,
 
@@ -69,3 +69,5 @@ a) végzi a járási mintaterek kijelölését, karbantartását, a járási min
 b) folytatja le a földminősítési eljárást, ha a különböző becslőjárásba vagy osztályozási vidékbe tartozó települések határa területrész átadása-átvétele következtében megváltozik.
 
 (5) A több megye területére kiterjedő becslőjárás, illetve osztályozási vidék esetén a járási mintaterek felülvizsgálatával, újak kijelölésével kapcsolatos feladatokat – az érintett megyei kormányhivatalok javaslatainak figyelembevételével – a legnagyobb területtel érintett megyei (fővárosi) kormányhivatal látja el.
+
+[^34]: A 37. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 591. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,1 +1,3 @@
+## 79/I. § A telekalakítási eljárásokban, ha az eljárás erdő megosztására irányul az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. §-a alapján a fenntartható erdőgazdálkodást (erdészeti szakkérdés) is vizsgálni kell.
+
 ## VII. ZÁRÓ RENDELKEZÉSEK

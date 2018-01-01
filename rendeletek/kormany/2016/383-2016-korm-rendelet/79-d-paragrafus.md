@@ -1,0 +1,5 @@
+79/D. § (1) A 79/B. § (1) bekezdésében meghatározott eljárásokban, ha az eljárás olyan földrészletet érint, amely a nyilvántartott vagy védetté nyilvánított régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket, nyilvántartott műemléki értékeket és műemlékeket tartalmazó kulturális örökségvédelmi hatósági nyilvántartásban szerepel, a (2) bekezdésben meghatározott kulturális örökségvédelmi szakkérdést is vizsgálni kell.
+
+(2) A kulturális örökségvédelmi szakkérdés vizsgálata annak megállapítására irányul, hogy a termőföld újrahasznosítása, más célú hasznosításának engedélyezése, illetve az engedély nélküli más célú hasznosítása a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e a kulturális örökség védelme törvényben rögzített követelményeinek.
+
+(3) Ha a (2) bekezdés szerinti kulturális örökségvédelmi szakkérdés elbírálására a másodfokú ingatlanügyi hatóság nem rendelkezik szakértelemmel, a szakkérdés vizsgálatára szakértőként a kulturális örökség védelméért felelős miniszter rendelhető ki.

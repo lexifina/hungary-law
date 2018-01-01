@@ -8,6 +8,6 @@
 
 (2) A miniszter (1) bekezdés szerinti szakmai irányító jogkörei gyakorlásában – a földügyi igazgatás kivételével – a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) jogszabályban meghatározottak szerint közreműködik.
 
-(3)[^1] A fővárosi és megyei kormányhivatalnak az (1) bekezdésben, valamint a NÉBIH-nek e rendeletben meghatározott hatáskörébe tartozó közigazgatási hatósági ügyekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályiról szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 116. §-ában meghatározott felügyeleti szervet megillető hatásköröket a miniszter gyakorolja.
+(3)[^1] A fővárosi és megyei kormányhivatalnak az (1) bekezdésben, valamint a NÉBIH-nek e rendeletben meghatározott hatáskörébe tartozó közigazgatási hatósági ügyekben a felügyeleti szervet megillető hatásköröket a miniszter gyakorolja.
 
-[^1]: A 2. § (3) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^1]: A 2. § (3) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 23. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 591. § a) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

@@ -4,11 +4,11 @@ a) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 20
 
 b) az Evt. 90/A–90/M. §-a,
 
-c)[^9] az Evt. 108. § (4)–(6) bekezdése,
+c)[^10] az Evt. 108. § (4)–(6) bekezdése,
 
 d) az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: 2012. évi CXX. törvény) 9. § (3) bekezdés b) és e) pontja,
 
-e)[^10] az Evt. 76/A. § (2) és (3) bekezdése
+e)[^11] az Evt. 76/A. § (2) és (3) bekezdése
 
 ## szerinti erdészeti hatóságként.
 
@@ -16,17 +16,17 @@ e)[^10] az Evt. 76/A. § (2) és (3) bekezdése
 
 a) az Országos Erdőállomány Adattárat,
 
-b)[^11] az Evt. 98. § (1) bekezdés szerinti névjegyzéket,
+b)[^12] az Evt. 98. § (1) bekezdés szerinti névjegyzéket,
 
 c) az Evt. 111/A. § (1) bekezdés szerinti nyilvántartást,
 
-d)[^12] az Evt. 17. § (1) bekezdése szerinti nyilvántartást és
+d)[^13] az Evt. 17. § (1) bekezdése szerinti nyilvántartást és
 
-e)[^13] az Evt. 76/B. §-a szerinti nyilvántartást.
+e)[^14] az Evt. 76/B. §-a szerinti nyilvántartást.
 
 (3) A Pest Megyei Kormányhivatal jár el
 
-a) az adózás rendjéről szóló 2003. évi XCII. törvény 52. § (13) bekezdés b) pontja szerinti erdészeti hatóságként és
+a)[^15] az adózás rendjéről szóló 2017. évi CL. törvény 101. § b) pontja szerinti erdészeti hatóságként és
 
 b) a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 20. § (7) bekezdése szerinti
 
@@ -34,9 +34,9 @@ b) a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 20. § (7) beke
 
 (4) Az erdészeti hatóságként eljáró Pest Megyei Kormányhivatal vezeti
 
-a)[^14] az Evt. 93. § (6) bekezdése szerinti nyilvántartást,
+a)[^16] az Evt. 93. § (6) bekezdése szerinti nyilvántartást,
 
-b)[^15]
+b)[^17]
 
 c) az Evt. 72. § (5) bekezdés szerinti nyilvántartást.
 
@@ -48,15 +48,16 @@ b) látja el az erdészeti igazgatási feladatokat.
 
 (6) Az erdészeti igazgatási feladatkörében eljáró Pest Megyei Kormányhivatal vezeti
 
-a)[^16] az Evt. 72. § (4) bekezdés b) pontja szerinti, illetve
+a)[^18] az Evt. 72. § (4) bekezdés b) pontja szerinti, illetve
 
 b) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 20. § (1) bekezdése szerinti
 
-[^9]: A 12. § (1) bekezdés c) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^10]: A 12. § (1) bekezdés e) pontját a 433/2017. (XII. 21.) Korm. rendelet 29. § (1) bekezdése iktatta be.
-[^11]: A 12. § (2) bekezdés b) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^12]: A 12. § (2) bekezdés d) pontját a 433/2017. (XII. 21.) Korm. rendelet 29. § (2) bekezdése iktatta be.
-[^13]: A 12. § (2) bekezdés e) pontját a 433/2017. (XII. 21.) Korm. rendelet 29. § (2) bekezdése iktatta be.
-[^14]: A 12. § (4) bekezdés a) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (3) bekezdésével megállapított szöveg.
-[^15]: A 12. § (4) bekezdés b) pontját a 433/2017. (XII. 21.) Korm. rendelet 29. § (6) bekezdése hatályon kívül helyezte.
-[^16]: A 12. § (6) bekezdés a) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A 12. § (1) bekezdés c) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 12. § (1) bekezdés e) pontját a 433/2017. (XII. 21.) Korm. rendelet 29. § (1) bekezdése iktatta be.
+[^12]: A 12. § (2) bekezdés b) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^13]: A 12. § (2) bekezdés d) pontját a 433/2017. (XII. 21.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^14]: A 12. § (2) bekezdés e) pontját a 433/2017. (XII. 21.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^15]: A 12. § (3) bekezdés a) pontja a 475/2017. (XII. 28.) Korm. rendelet 84. §-a szerint módosított szöveg.
+[^16]: A 12. § (4) bekezdés a) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (3) bekezdésével megállapított szöveg.
+[^17]: A 12. § (4) bekezdés b) pontját a 433/2017. (XII. 21.) Korm. rendelet 29. § (6) bekezdése hatályon kívül helyezte.
+[^18]: A 12. § (6) bekezdés a) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (5) bekezdés c) pontja szerint módosított szöveg.

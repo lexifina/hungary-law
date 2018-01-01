@@ -1,5 +1,5 @@
-## 22. Szakhatósági közreműködés egyes halgazdálkodási hatósági eljárásokban
+## 63–64. §
 
-65. § (1) A Kormány a halgazdálkodási terv jóváhagyására, a jóváhagyott halgazdálkodási terv módosításának jóváhagyására, valamint a halgazdálkodási terv hivatalból történő módosítására irányuló elsőfokú eljárásban a területi vízvédelmi hatóságot, vízilétesítmény esetén a területi vízügyi hatóságot szakhatóságként jelöli ki.
+## 22.[^53]
 
-(2) Az (1) bekezdésben meghatározott eljárásokban a területi vízvédelmi hatóság szakhatósági közreműködése a felszíni víztest állapotának védelme, továbbá a jó állapot, a jó ökológiai állapot, illetve potenciál és jó kémiai állapot elérése érdekében a halgazdálkodási tevékenységgel járó terhelés és beavatkozás vízminőségi és mennyiségi hatásainak vizsgálatára, a környezeti célkitűzéseknek való megfelelés megítélésére, a monitoring tevékenység feltételei meglétének vizsgálatára, a területi vízügyi hatóság szakhatósági közreműködése a zsilipek és az engedélyezett és tényleges mederállapot mellett gyakorolható halgazdálkodás feltételeinek, valamint a szükséges és lehetséges beavatkozások, a vízkormányzás szakszerű biztosításának vizsgálatára terjed ki.
+[^53]: A 22. alcímet (65. §-t) a 457/2017. (XII. 28.) Korm. rendelet 591. § c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

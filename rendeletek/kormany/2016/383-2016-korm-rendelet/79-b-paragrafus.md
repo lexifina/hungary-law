@@ -1,0 +1,3 @@
+79/B. § (1) Az ingatlanügyi hatóság által lefolytatott újrahasznosítási eljárásban, a termőföld időleges, illetve végleges más célú hasznosításának engedélyezésére irányuló eljárásban, valamint a termőföld engedély nélküli más célú hasznosítása miatt indított eljárásban minden esetben meg kell történnie a (2) bekezdésben meghatározott talajvédelmi szakkérdés vizsgálatának.
+
+(2) A talajvédelmi szakkérdés vizsgálata annak megállapítására irányul, hogy a termőföld újrahasznosítása, más célú hasznosításának engedélyezése, illetve az engedély nélküli más célú hasznosítása megfelel-e a termőföld minőségi védelme tekintetében meghatározott követelményeknek.
