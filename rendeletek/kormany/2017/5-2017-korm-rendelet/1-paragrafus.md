@@ -2,8 +2,10 @@
 
 (2) Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
 
-a) a Beruházások keretében az 1. mellékletben megjelölt ingatlanokból telekalakítási eljárások jogerős befejezését követően kialakított ingatlanokon valósulnak meg,
+a)[^1] a Beruházások keretében az 1. mellékletben megjelölt ingatlanokból telekalakítási eljárások véglegessé válását követően kialakított ingatlanokon valósulnak meg,
 
 b) a Beruházások keretében vagy azokhoz kapcsolódóan útépítési, közműfejlesztési és -csatlakozási munkák érdekében az 1. mellékletben megjelölt ingatlanokkal szomszédos ingatlanokat érintik, valamint
 
 c) a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+[^1]: Az 1. § (2) bekezdés a) pontja a 458/2017. (XII. 28.) Korm. rendelet 323. §-a szerint módosított szöveg.
