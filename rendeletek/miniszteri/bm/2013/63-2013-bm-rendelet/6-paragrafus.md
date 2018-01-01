@@ -16,29 +16,36 @@ d) az a)–c) pontban felsoroltak hiányában a személlyel kapcsolatban köröz
 
 (4)[^6] A (3) bekezdésben meghatározott esetben a megkereső vagy a megkeresett rendőri szerv a közös közvetlen felettes szervnél, ennek hiányában a Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) igazgatójánál kezdeményezheti kijelölését a körözési eljárás lefolytatására, ha a körözési érdek ezt indokolja.
 
-(5) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 73. § (1), (3), (6) és (7) bekezdése, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 68. § (3) bekezdése, 117. § (8) bekezdése alapján elrendelt körözés során a körözési eljárás lefolytatására
+(5)[^7] A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 73. § (1), (3), (6) és (7) bekezdése, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 68. § (3) bekezdése és 117. § (8) bekezdése alapján elrendelt körözés során a körözési eljárás lefolytatására a körözést elrendelő rendőri szerv illetékes.
 
-a) a körözést elrendelő rendőri szerv,
+(5a)[^8] A Be. 73. § (7) bekezdése, valamint a Szabs. tv. 68. § (3) bekezdése alapján nem rendőri szerv által dolog tekintetében elrendelt körözés esetén a körözési eljárás lefolytatására a körözést elrendelő szerv, hatóság vagy egyéb szerv székhelye szerinti rendőrkapitányság illetékes.
 
-b) nem rendőri szerv által dolog tekintetében elrendelt körözés esetén az (1) bekezdés d) pontjában meghatározott rendőri szerv
+(5b)[^9] A kulturális javak körébe tartozó tárgykörözés esetén a körözési eljárás lefolytatására a tárgy utolsó ismert őrzési helye szerinti rendőrkapitányság illetékes.
 
-illetékes.
+(5c)[^10] A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33. § (1a) bekezdése alapján elrendelt tárgykörözés esetén a körözési eljárás lefolytatására a gazdálkodó szervezet székhelye szerinti rendőrkapitányság illetékes.
 
-(6)[^7] A büntetőeljárás jogerős befejezéséig az ügyészség vagy bíróság által elrendelt elfogatóparancs az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 25. § (1) bekezdése alapján elrendelt európai elfogatóparancs, valamint a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény 32. § (1) bekezdése alapján elrendelt nemzetközi elfogatóparancs kapcsán a körözési eljárás lefolytatására a körözés alapját képező bűncselekmény nyomozására hatáskörrel és illetékességgel rendelkező rendőri szerv az illetékes.
+(5d)[^11] Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 47. § (3) bekezdése alapján elrendelt járműkörözés esetén a körözési eljárás lefolytatására az adós lakóhelye vagy székhelye szerinti rendőrkapitányság illetékes.
 
-(7)[^8] Az országos rendőrfőkapitány egyedi ügyekben – különösen, ha ez a hatékonyabb bűnüldözés érdekében szükséges vagy ezt a körözési érdek indokolja – hivatalból vagy a körözési eljárást lefolytató rendőri szerv előterjesztése alapján a Készenléti Rendőrség Nemzeti Nyomozó Iroda (a továbbiakban: KR NNI) hatáskörébe utalhatja a bűncselekménnyel összefüggésben vagy az eltűnés miatt elrendelt körözés végrehajtása során alkalmazható, a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) VII. Fejezete szerinti intézkedések végrehajtását.
+(6)[^12] A büntetőeljárás jogerős befejezéséig az ügyészség vagy bíróság által elrendelt elfogatóparancs az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 25. § (1) bekezdése alapján elrendelt európai elfogatóparancs, valamint a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény 32. § (1) bekezdése alapján elrendelt nemzetközi elfogatóparancs kapcsán a körözési eljárás lefolytatására a körözés alapját képező bűncselekmény nyomozására hatáskörrel és illetékességgel rendelkező rendőri szerv az illetékes.
 
-(8)[^9] A KR NNI vezetője – különösen, ha ez a hatékonyabb bűnüldözés érdekében szükséges vagy ezt a körözési érdek indokolja – rövid úton előterjesztést tehet az országos rendőrfőkapitány felé, ha bűncselekménnyel összefüggésben vagy az eltűnés miatt elrendelt körözés végrehajtása során alkalmazható, az Rtv. VII. Fejezete szerinti intézkedések végrehajtásának hatáskörébe utalását indokoltnak tartja. Az országos rendőrfőkapitány a döntését szóban közli a KR NNI vezetőjével, aki erről feljegyzést készít.
+(7)[^13] Az országos rendőrfőkapitány egyedi ügyekben – különösen, ha ez a hatékonyabb bűnüldözés érdekében szükséges vagy ezt a körözési érdek indokolja – hivatalból vagy a körözési eljárást lefolytató rendőri szerv előterjesztése alapján a Készenléti Rendőrség Nemzeti Nyomozó Iroda (a továbbiakban: KR NNI) hatáskörébe utalhatja a bűncselekménnyel összefüggésben vagy az eltűnés miatt elrendelt körözés végrehajtása során alkalmazható, a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) VII. Fejezete szerinti intézkedések végrehajtását.
 
-(9)[^10] A (7) és a (8) bekezdésben meghatározott döntést haladéktalanul írásba kell foglalni és a KR NNI vezetője, valamint a körözési eljárást lefolytató rendőri szerv vezetője részére meg kell küldeni.
+(8)[^14] A KR NNI vezetője – különösen, ha ez a hatékonyabb bűnüldözés érdekében szükséges vagy ezt a körözési érdek indokolja – rövid úton előterjesztést tehet az országos rendőrfőkapitány felé, ha bűncselekménnyel összefüggésben vagy az eltűnés miatt elrendelt körözés végrehajtása során alkalmazható, az Rtv. VII. Fejezete szerinti intézkedések végrehajtásának hatáskörébe utalását indokoltnak tartja. Az országos rendőrfőkapitány a döntését szóban közli a KR NNI vezetőjével, aki erről feljegyzést készít.
 
-(10)[^11] A (7) és a (8) bekezdés rendelkezései a körözési eljárás lefolytatására való illetékességet nem érintik.
+(9)[^15] A (7) és a (8) bekezdésben meghatározott döntést haladéktalanul írásba kell foglalni és a KR NNI vezetője, valamint a körözési eljárást lefolytató rendőri szerv vezetője részére meg kell küldeni.
+
+(10)[^16] A (7) és a (8) bekezdés rendelkezései a körözési eljárás lefolytatására való illetékességet nem érintik.
 
 [^4]: A 6. § (1) bekezdés nyitó szövegrésze a 40/2017. (XII. 29.) BM rendelet 8. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^5]: A 6. § (2a) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (1) bekezdése iktatta be.
 [^6]: A 6. § (4) bekezdése a 74/2015. (XII. 21.) BM rendelet 5. § (2) bekezdésével megállapított, a 40/2017. (XII. 29.) BM rendelet 8. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^7]: A 6. § (6) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 40/2017. (XII. 29.) BM rendelet 8. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^8]: A 6. § (7) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be.
-[^9]: A 6. § (8) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be.
-[^10]: A 6. § (9) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be.
-[^11]: A 6. § (10) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be.
+[^7]: A 6. § (5) bekezdése a 40/2017. (XII. 29.) BM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^8]: A 6. § (5a) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (2) bekezdése iktatta be.
+[^9]: A 6. § (5b) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (2) bekezdése iktatta be.
+[^10]: A 6. § (5c) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (2) bekezdése iktatta be.
+[^11]: A 6. § (5d) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (2) bekezdése iktatta be.
+[^12]: A 6. § (6) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 40/2017. (XII. 29.) BM rendelet 8. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^13]: A 6. § (7) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be.
+[^14]: A 6. § (8) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be.
+[^15]: A 6. § (9) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be.
+[^16]: A 6. § (10) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be.
