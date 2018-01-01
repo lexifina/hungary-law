@@ -1,1 +1,1 @@
-17. § Felhatalmazást kap a földügyért felelős miniszter, hogy a földkiadó bizottságok által lefolytatott közigazgatási hatósági eljárásokban a szakértő kirendelésére, valamint a szakértői névjegyzék összeállítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
+17. §

@@ -20,4 +20,4 @@ c) tanyatulajdonos: e törvény vonatkozásában tanyatulajdonosnak kell tekinte
 
 (7)
 
-(8) Az 5. § (1) bekezdésében és a 8. § (2) bekezdésében, valamint a 13. § (5) bekezdésében meghatározott határidőket az 1992. évi II. törvény 13—21. §-ai szerinti földkijelölési határozat jogerőre emelkedésének napjától kell számítani. A földkiadó bizottság a földkijelölési határozat jogerőre emelkedéséről az érdekelteket a helyben szokásos módon értesíti.
+(8) Az 5. § (1) bekezdésében és a 8. § (2) bekezdésében, valamint a 13. § (5) bekezdésében meghatározott határidőket az 1992. évi II. törvény 13—21. §-ai szerinti földkijelölési határozat véglegessé válásának napjától kell számítani. A földkiadó bizottság a földkijelölési határozat véglegessé válásáról az érdekelteket a helyben szokásos módon értesíti.

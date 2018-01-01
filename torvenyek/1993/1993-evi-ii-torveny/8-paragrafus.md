@@ -4,7 +4,7 @@
 
 (2) A tanyatulajdonos az (1) bekezdés szerinti kérelmét a tanya fekvése szerinti földrendező bizottságnál nyújthatja be az e törvény hatálybalépését követő 60 napon belül. A földrendező bizottság a kérelemről haladéktalanul értesíti az érintett földkiadó bizottságot.
 
-(3) A (2) bekezdés szerinti bizottságok a tanya körüli földnek részarány-földtulajdon fedezetéül szolgáló földalapba, illetőleg kárpótlási földalapba történt kijelölését követően javaslatot tesznek kárpótlási hatóságnak a földkijelölési határozat megfelelő módosítására. Ennek során a részarány-tulajdonok fedezetéül kijelölt földalapokat a kárpótlási földalap, illetőleg a kárpótlási földalapokat a részarány-tulajdonok fedezetéül kijelölt földalapok terhére növelni kell. A kárpótlási hatóság a jogerős földkijelölés módosítását akkor tagadhatja meg, ha annak következtében a már kijelölt egyes földalapok AK értéke külön-külön megváltozna.
+(3) A (2) bekezdés szerinti bizottságok a tanya körüli földnek részarány-földtulajdon fedezetéül szolgáló földalapba, illetőleg kárpótlási földalapba történt kijelölését követően javaslatot tesznek kárpótlási hatóságnak a földkijelölési határozat megfelelő módosítására. Ennek során a részarány-tulajdonok fedezetéül kijelölt földalapokat a kárpótlási földalap, illetőleg a kárpótlási földalapokat a részarány-tulajdonok fedezetéül kijelölt földalapok terhére növelni kell. A kárpótlási hatóság a végleges döntésbe foglalt földkijelölés módosítását akkor tagadhatja meg, ha annak következtében a már kijelölt egyes földalapok AK értéke külön-külön megváltozna.
 
 (4) Az (1)—(3) bekezdésben foglaltakat kell alkalmazni akkor is, ha
 

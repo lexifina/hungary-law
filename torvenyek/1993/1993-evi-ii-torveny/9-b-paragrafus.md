@@ -1,4 +1,4 @@
-9/B. § (1) Ha a földkiadó bizottság a feladatainak végrehajtását a 9/A. § (1) bekezdésében, valamint (3) bekezdésének a) pontjában, továbbá a (4) bekezdésében meghatározott határidőig sem fejezi be, vagy a közgyűlés még ezt megelőzően megállapítja megszűnését, a földkiadó bizottság a még jogerős határozattal le nem zárt, folyamatban levő földkiadási ügyeket átteszi a mezőgazdasági igazgatási szervhez.
+9/B. § (1) Ha a földkiadó bizottság a feladatainak végrehajtását a 9/A. § (1) bekezdésében, valamint (3) bekezdésének a) pontjában, továbbá a (4) bekezdésében meghatározott határidőig sem fejezi be, vagy a közgyűlés még ezt megelőzően megállapítja megszűnését, a földkiadó bizottság a még végleges határozattal le nem zárt, folyamatban levő földkiadási ügyeket átteszi a mezőgazdasági igazgatási szervhez.
 
 (2) A mezőgazdasági igazgatási szerv az (1) bekezdés rendelkezései alapján a hozzá áttett ügyekben a 4/B. § (5) bekezdésének szabályai szerint jár el.
 

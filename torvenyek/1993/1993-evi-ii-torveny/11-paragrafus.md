@@ -8,7 +8,7 @@ b) a részarány-földtulajdon helyének meghatározására;
 
 c) a földterület tulajdonba adására és az értéknövekedést eredményező beruházási költség megállapítására;
 
-d) a részarány-földtulajdonosok AK értékének arányos módosítására irányuló eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvényt kell alkalmazni.
+d) a részarány-földtulajdonosok AK értékének arányos módosítására irányuló eljárásában az általános közigazgatási rendtartásról szóló törvényt kell alkalmazni.
 
 (2) A földkiadó bizottság eljárása illetékmentes, a földkiadási kérelem bejelentésére előírt határidő elmulasztása esetén igazolásnak nincs helye.
 

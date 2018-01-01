@@ -6,4 +6,4 @@
 
 (4) Ha a szövetkezet földhasználati jogával terhelt földön haszonbérlet áll fenn a kijelöléskor, illetőleg a föld kiadásakor, a haszonbérbe adói jog a föld tulajdonosát illeti meg.
 
-(5) A szövetkezet a földhasználati jogával terhelt földeket a földalap elkülönítési tervezetet jóváhagyó határozat jogerőre emelkedése után egy évnél hosszabb időre haszonbérbe nem adhatja.
+(5) A szövetkezet a földhasználati jogával terhelt földeket a földalap elkülönítési tervezetet jóváhagyó határozat véglegessé válása után egy évnél hosszabb időre haszonbérbe nem adhatja.

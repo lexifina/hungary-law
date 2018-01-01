@@ -4,6 +4,6 @@
 
 (3) A sorsolásra és a sorsolás szabálytalan lebonyolítása ellen benyújtható kifogásra a 9/C. § (2)–(3) bekezdésében foglaltakat kell alkalmazni.
 
-(4) Ha a sorsolás lebonyolítása ellen kifogás nem érkezett, illetve a kifogással kapcsolatos jogorvoslati eljárás jogerősen befejeződött, a mezőgazdasági igazgatási szerv a visszamaradt hányad tulajdonba adásáról ingatlan-nyilvántartási bejegyzésre alkalmas földkiadási határozatot hoz.
+(4) Ha a sorsolás lebonyolítása ellen kifogás nem érkezett, illetve a kifogással kapcsolatos jogorvoslati eljárásban végleges hatósági döntés született, a mezőgazdasági igazgatási szerv a visszamaradt hányad tulajdonba adásáról ingatlan-nyilvántartási bejegyzésre alkalmas földkiadási határozatot hoz.
 
 (5) Az e §-ban meghatározott földkiadási eljárás eredményeként létrejött osztatlan közös tulajdon tulajdonostársait a 12/F–12/H. § alkalmazása során olyan tulajdonostársaknak kell tekinteni, mint akik a 12/F. § (1) bekezdésében foglalt határidőn belül kérelmet nyújtottak be az osztatlan közös tulajdon megszüntetésére.

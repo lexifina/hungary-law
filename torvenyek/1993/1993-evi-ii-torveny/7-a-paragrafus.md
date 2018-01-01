@@ -4,9 +4,9 @@
 
 (3)
 
-(4) Az ingatlanügyi hatóság az adott szövetkezetet érintő valamennyi földkiadással kapcsolatos ingatlan-nyilvántartási bejegyzésről az utolsó határozat jogerőre emelkedését követő két hónapon belül értesíti a mezőgazdasági igazgatási szervet. A mezőgazdasági igazgatási szerv az értesítés alapján határozattal dönt a kártalanításról.
+(4) Az ingatlanügyi hatóság az adott szövetkezetet érintő valamennyi földkiadással kapcsolatos ingatlan-nyilvántartási bejegyzésről az utolsó határozat véglegessé válását követő két hónapon belül értesíti a mezőgazdasági igazgatási szervet. A mezőgazdasági igazgatási szerv az értesítés alapján határozattal dönt a kártalanításról.
 
-(5) A kártalanítási eljárásban hozott határozatot közölni kell az ingatlanügyi hatósággal. A határozat ellen fellebbezésnek helye nincs. A bíróság a határozatot megváltoztathatja.
+(5) A kártalanítási eljárásban hozott határozatot közölni kell az ingatlanügyi hatósággal. A határozat ellen fellebbezésnek helye nincs.
 
 (6)
 

@@ -6,7 +6,7 @@ b) működésképtelensége miatt a 4/A. § (2) bekezdése szerinti közgyűlés
 
 (2) Az (1) bekezdés b) pontja szerinti határozatot közölni kell a mezőgazdasági igazgatási szervvel. Az ingatlanügyi hatóság a határozatról és annak az (5) bekezdésben foglalt jogkövetkezményeiről a helyben szokásos módon, hirdetmény útján értesíti a részarány-földtulajdonosokat.
 
-(3) A földkiadó bizottság megszűnését megállapító határozat bírósági felülvizsgálatának helye nincs.
+(3) A földkiadó bizottság megszűnését megállapító határozat ellen közigazgatási pernek helye nincs.
 
 (4) A földkiadó bizottság működésképtelen, ha feladatai ellátását a törvényben megállapított határidőben vagy újraválasztásától számított 30 napon belül nem kezdi meg, vagy feladatainak ellátását 30 napot meghaladóan szünetelteti, illetőleg nem e törvény rendelkezései szerint járt el.
 

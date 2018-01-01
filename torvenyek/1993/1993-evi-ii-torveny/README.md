@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-2-00-00
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 1993-2-00-00.29 |
 | 2017-01-01 | 2016. évi CIV. törvény | 1993-2-00-00.30 |
 | 2017-06-23 | 2017. évi LVIII. törvény | 1993-2-00-00.31 |
+| 2018-01-01 | 2017. évi L. törvény | 1993-2-00-00.32 |

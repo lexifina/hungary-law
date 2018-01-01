@@ -4,10 +4,10 @@
 
 a) amelynek költségét a kérelmező megelőlegezte, a költségvállalást tartalmazó nyilatkozat benyújtásának,
 
-b) amelyben az ingatlanügyi hatóság a keretmérést elvégezte, vagy jogerős határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának
+b) amelyben az ingatlanügyi hatóság a keretmérést elvégezte, vagy végleges határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának
 
 időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
 
-(2a) 2012. december 29-e előtt indult olyan eljárást, amelyben az ingatlanügyi hatóság a keretmérést elvégezte, illetve jogerős határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
+(2a) 2012. december 29-e előtt indult olyan eljárást, amelyben az ingatlanügyi hatóság a keretmérést elvégezte, illetve végleges határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
 
 (3)
