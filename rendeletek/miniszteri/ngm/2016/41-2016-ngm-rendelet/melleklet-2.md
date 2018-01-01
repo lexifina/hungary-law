@@ -104,7 +104,7 @@
 
 ## a) nyilvántartásba vétel iránti kérelem esetén:
 
-## aa) 1 darab 2,5×3,2 cm méretű, jó minőségű (fotópapíron vagy elektronikus úton, „JPEG” formátumban) benyújtott, 6 hónapnál nem régebbi igazolványkép,
+## aa) 1 darab, 6 hónapnál nem régebbi, igazolványkép 2,5×3,2 cm méretű fotópapíron vagy elektronikus úton, legalább 300 dpi felbontású „JPEG” formátumban,
 
 ## ab) az igazgatási szolgáltatási díj megfizetését igazoló dokumentum (a fizetési számlára történő készpénzbefizetés esetén a készpénzbefizetési megbízás igazoló szelvényrészének, vagy a fizetési számla megterhelését tartalmazó számlakivonatnak a másolata),
 
@@ -116,7 +116,7 @@
 
 ## b) igazolvány pótlása esetén:
 
-## ba) 1 darab 2,5×3,2 cm méretű, jó minőségű (fotópapíron vagy elektronikus úton, „JPEG” formátumban) benyújtott, 6 hónapnál nem régebbi igazolványkép,
+## ba) 1 darab, 6 hónapnál nem régebbi, igazolványkép 2,5×3,2 cm méretű fotópapíron vagy elektronikus úton, legalább 300 dpi felbontású „JPEG” formátumban,
 
 ## bb) az igazgatási szolgáltatási díj megfizetését igazoló dokumentum (a fizetési számlára történő készpénzbefizetés esetén a készpénzbefizetési megbízás igazoló szelvényrészének, vagy a fizetési számla megterhelését tartalmazó számlakivonatnak a másolata),
 

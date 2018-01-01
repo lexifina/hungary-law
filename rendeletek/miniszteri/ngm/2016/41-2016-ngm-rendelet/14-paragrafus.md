@@ -1,4 +1,4 @@
-## 13. § Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
+## 13/A. § Az uniós vámjog végrehajtásáról szóló törvény hatálybalépésével, az adóigazgatási rendtartásról és az adózás rendjéről szóló törvény hatálybalépésével, valamint a Nemzeti Adó- és Vámhivatal tevékenységével összefüggő egyes miniszteri rendeletek módosításáról szóló 48/2017. (XII. 29.) NGM rendelettel módosított 2. § (3) bekezdés hatálybalépése előtt a 2016. május 1-jét követően kiadott vámtanácsadói és vámügynöki igazolványok 2028. december 31-ig érvényesek.
 
 ## 5. Az Európai Unió jogának való megfelelés
 

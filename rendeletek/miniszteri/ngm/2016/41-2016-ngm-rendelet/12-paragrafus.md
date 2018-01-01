@@ -1,6 +1,8 @@
+## 11. §[^13] A nyilvántartásba vételt végző szervezet az e rendelet szerinti továbbképzések szervezésével és lebonyolításával kapcsolatos tevékenységeket, valamint a továbbképzésre vonatkozó követelmények teljesítését ellenőrizheti.
+
 ## 3. Az igazgatási szolgáltatási díjra vonatkozó rendelkezések
 
-12. § (1) A vámtanácsadói, illetve vámügynöki nyilvántartásba való felvételért, az igazolvány pótlásáért, a nyilvántartásban szereplő adatok módosításáért és a kérelemre történő nyilvántartásból való törlésért a nyilvántartásba vételt, az igazolvány cseréjét kérő természetes személynek, továbbá az igazolvány pótlását, az adatok módosítását, valamint a nyilvántartásból való törlést kérő nyilvántartásban szereplő természetes személynek, továbbá a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárás lefolytatásáért a bejelentést tevő természetes személynek igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetnie az eljárás kezdeményezésével egyidejűleg. A vámtanácsadói és vámügynöki tevékenység egyidejűleg történő nyilvántartásba vételéhez külön-külön kell a díjat megfizetni.
+12. § (1)[^14]
 
 (2) A nyilvántartásba vételi eljárás díja 9000 forint.
 
@@ -12,8 +14,10 @@
 
 (6) A (2)–(4) bekezdés szerinti díj az adópolitikáért felelős miniszter által vezetett minisztérium működési bevétele.
 
-(7) Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a (2) és (3) bekezdésben meghatározott mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
-
-(8) A többlet visszatérítést hivatalból kell elrendelni, és annak teljesítéséről 30 napon belül intézkedni kell.
+(7)–(8)[^15]
 
 (9) A díjfizetés vonatkozásában az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2) és (3) bekezdésében, 31. § (1) és (3) bekezdésében, valamint 73/A. §-ában foglaltakat, a mulasztási bírságra az Itv. 82. §-ában foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített illeték helyett díjat kell érteni.
+
+[^13]: A 11. § a 48/2017. (XII. 29.) NGM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^14]: A 12. § (1) bekezdését a 48/2017. (XII. 29.) NGM rendelet 23. § b) pontja hatályon kívül helyezte.
+[^15]: A 12. § (7)–(8) bekezdését a 48/2017. (XII. 29.) NGM rendelet 23. § b) pontja hatályon kívül helyezte.
