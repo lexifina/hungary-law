@@ -10,4 +10,4 @@
 
 (6) Ha a szakértőt a hatóság a kirendelés alól bármely okból felmenti, az erről szóló döntésben – ha a költségelőleg megfizetésre került – a szakértőt a költségelőleg visszafizetésére is kötelezi.
 
-(7) Ha a jogerősen megállapított szakértői díj nem éri el a költségelőleget, a hatóság a különbözet visszafizetésére külön döntésben kötelezi a szakértőt.
+(7) Ha a jogerősen vagy véglegesen megállapított szakértői díj nem éri el a költségelőleget, a hatóság a különbözet visszafizetésére külön döntésben kötelezi a szakértőt.

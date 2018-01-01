@@ -22,7 +22,7 @@ A szakértői nyilvántartás tartalma
 
 7.3. a szakvélemény kirendelő szerv vagy megbízó részére történő elküldésének időpontja (év, hónap, nap megjelölésével) és módja,
 
-7.4. a jogerős díjmegállapító határozatban megjelölt szakértői díj összege és megfizetésének időpontja,
+7.4. a jogerős vagy véglegessé vált díjmegállapító határozatban megjelölt szakértői díj összege és megfizetésének időpontja,
 
 8. kiegészítő adatkérés esetén:
 

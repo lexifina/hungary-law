@@ -22,7 +22,7 @@ g) nem áll cselekvőképességet érintő gondnokság, támogatott döntéshoza
 
 a) akivel szemben büntetőeljárás – a magánvád és a pótmagánvád esetét kivéve – van folyamatban,
 
-b) akit a Kamarából kizártak, a kizárást kimondó határozat jogerőre emelkedésétől számított öt évig,
+b) akit a Kamarából kizártak, a kizárást kimondó határozat véglegessé válásától számított öt évig,
 
 c) aki a 13. § (2) bekezdésében foglaltak hatálya alatt áll vagy
 

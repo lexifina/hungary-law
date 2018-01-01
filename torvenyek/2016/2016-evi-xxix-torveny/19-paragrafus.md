@@ -4,8 +4,8 @@
 
 (3) Az értékelést megalapozó vizsgálatról a jegyzőkönyvet a főtitkár által kijelölt jegyzőkönyvvezető vezeti.
 
-(4) Az értékelést megalapozó vizsgálat lefolytatásának elrendelését az igazságügyi szakértővel írásban kell közölni. A közlésnek tartalmaznia kell a szakmai értékelő tanács személyi összetételét is, amellyel szemben az igazságügyi szakértő a közlés átvételétől számított tizenöt napon belül kifogást nyújthat be a minőségbiztosítási bizottság elnökéhez. A kifogásról a minőségbiztosítási bizottság elnöke tizenöt napon belül indokolt határozatot hoz.
+(4) Az értékelést megalapozó vizsgálat lefolytatásának elrendelését az igazságügyi szakértővel írásban kell közölni. A közlésnek tartalmaznia kell a szakmai értékelő tanács személyi összetételét is, amellyel szemben az igazságügyi szakértő a közlés átvételétől számított tizenöt napon belül kifogást nyújthat be a minőségbiztosítási bizottság elnökéhez. A kifogásról a minőségbiztosítási bizottság elnöke tizenöt napon belül indokolt végzést hoz.
 
-(5) A minőségbiztosítási bizottság elnökének határozatával szemben az igazságügyi szakértő harminc napon belül bírósági jogorvoslat iránti kérelmet nyújthat be.
+(5) A minőségbiztosítási bizottság elnökének (4) bekezdés szerinti végzését az igazságügyi szakértő közigazgatási perben megtámadhatja.
 
-(6) A bíróság az (5) bekezdés alapján benyújtott kérelmet nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(6)

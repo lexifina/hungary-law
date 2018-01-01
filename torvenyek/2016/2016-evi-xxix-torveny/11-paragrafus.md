@@ -1,6 +1,6 @@
 ## 5. A névjegyzék
 
-11. § (1) Az igazságügyi szakértő 1. mellékletben meghatározott adatait és a tevékenységével kapcsolatos egyes tényeket a névjegyzék tartalmazza. A névjegyzék vezetésének és a névjegyzékkel összefüggő adatszolgáltatás szabályait a miniszter rendeletben állapítja meg.
+11. § (1) Az igazságügyi szakértő 1. mellékletben meghatározott adatait és a tevékenységével kapcsolatos egyes tényeket a névjegyzék tartalmazza. A névjegyzék vezetésének és a névjegyzékkel összefüggő adatszolgáltatás szabályait a Kormány rendeletben állapítja meg.
 
 (2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1.–1.5., 1.7.–1.8., 1.11., 1.13., pontjában, valamint 1.18.1. és 1.18.2. alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 

@@ -30,11 +30,11 @@ i) meghalt.
 
 (2) Ha a névjegyzékből történő törlésre
 
-a) az (1) bekezdés h) pont ha) alpontja alapján került sor, az igazságügyi szakértő a határozat jogerőre emelkedésétől számított öt éven belül,
+a) az (1) bekezdés h) pont ha) alpontja alapján került sor, az igazságügyi szakértő a határozat véglegessé válásától számított öt éven belül,
 
-b) az (1) bekezdés d) és f) pontja alapján kerül sor, az igazságügyi szakértő a határozat jogerőre emelkedésétől számított két éven belül vagy
+b) az (1) bekezdés d) és f) pontja alapján kerül sor, az igazságügyi szakértő a határozat véglegessé válásától számított két éven belül vagy
 
-c) az (1) bekezdés c), e) és g) pontja, vagy h) pontjának hb), és hc) alpontjai alapján kerül sor, a határozat jogerőre emelkedésétől számított egy éven belül
+c) az (1) bekezdés c), e) és g) pontja, vagy h) pontjának hb), és hc) alpontjai alapján kerül sor, a határozat véglegessé válásától számított egy éven belül
 
 a névjegyzékbe nem vehető fel.
 

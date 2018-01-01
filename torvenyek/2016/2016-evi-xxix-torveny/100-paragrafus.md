@@ -32,6 +32,6 @@ b) a fegyelmi bizottság elnökére vonatkozik, az érintett tagja kivételével
 
 hoz határozatot, és azt kézbesíti a fegyelmi eljárás alá vont igazságügyi szakértőnek és a kizárási indítvánnyal érintett személynek. A kizárási indítványt tizenöt napon belül el kell bírálni.
 
-(6) A kizárási indítványt elutasító határozat ellen a Kamara elnöke vagy az eljárás alá vont igazságügyi szakértő bírósági jogorvoslat iránti kérelmet nyújthat be a határozat kézbesítésétől számított harminc napon belül.
+(6) A kizárási indítványt elutasító döntést a Kamara elnöke vagy az eljárás alá vont igazságügyi szakértő közigazgatási perben támadhatja meg.
 
-(7) A (6) bekezdés szerinti kérelmet a bíróság nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(7)

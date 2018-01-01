@@ -6,7 +6,7 @@
 
 (4) Az (1) bekezdés alkalmazásában befejezettnek minősül a kirendelés vagy megbízás, ha
 
-a) a szakértői tevékenységért járó díj a szakértői megbízás vagy kirendelés teljesítését követően jogerős díjmegállapító végzéssel megállapításra és megfizetésre kerül,
+a) a szakértői tevékenységért járó díj a szakértői megbízás vagy kirendelés teljesítését követően jogerős vagy véglegessé vált díjmegállapító végzéssel megállapításra és megfizetésre kerül,
 
 b) a szakértőt a hatóság a kirendelés alól felmenti vagy a kirendelés alapját képező ügyből kizárja,
 

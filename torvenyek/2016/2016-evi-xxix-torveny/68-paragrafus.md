@@ -4,13 +4,13 @@
 
 (2) Az igazságügyi szakértő a szünetelés alatt igazságügyi szakértői tevékenységet nem végezhet, hatóság előtt szakértőként nem járhat el, az e törvényből és a kamarai tagságból eredő jogai és kötelezettségei szünetelnek. A kamarai tagság szünetelésének ténye a 45. § (4) bekezdés c) pontja szerinti akadálynak minősül.
 
-(3) Az igazságügyi szakértő részére a szünetelés a jövőre nézve engedélyezhető. A szünetelés időtartama legfeljebb a szünetelést engedélyező kamarai határozat jogerőre emelkedésétől számított két év, amely indokolt esetben évente meghosszabbítható. A meghosszabbított szünetelés időtartama az öt évet nem haladhatja meg.
+(3) Az igazságügyi szakértő részére a szünetelés a jövőre nézve engedélyezhető. A szünetelés időtartama legfeljebb a szünetelést engedélyező kamarai határozat véglegessé válásától számított két év, amely indokolt esetben évente meghosszabbítható. A meghosszabbított szünetelés időtartama az öt évet nem haladhatja meg.
 
 (4) A Kamara a szünetelés iránti kérelemről harminc napon belül határoz. A Kamara a szünetelés tárgyában meghozott határozatot, a határozat meghozatalától számított tizenöt napon belül megküldi a névjegyzéket vezető hatóságnak.
 
-(5) A kamarai tagságát szüneteltető igazságügyi szakértő a szünetelést engedélyező határozatban foglaltaktól eltérően, a szünetelés időtartamának lejárta előtt kérheti a szünetelés megszüntetését. A szünetelés visszavonását kérelmező igazságügyi szakértő a szünetelés visszavonását megállapító határozat jogerőre emelkedéséig igazságügyi szakértői tevékenységet nem végezhet, hatóság előtt szakértőként nem járhat el, a kamarai tagságából eredő jogai és kötelezettségei szünetelnek.
+(5) A kamarai tagságát szüneteltető igazságügyi szakértő a szünetelést engedélyező határozatban foglaltaktól eltérően, a szünetelés időtartamának lejárta előtt kérheti a szünetelés megszüntetését. A szünetelés visszavonását kérelmező igazságügyi szakértő a szünetelés visszavonását megállapító határozat véglegessé válásáig igazságügyi szakértői tevékenységet nem végezhet, hatóság előtt szakértőként nem járhat el, a kamarai tagságából eredő jogai és kötelezettségei szünetelnek.
 
-(6) A Kamara a jogerős határozatot megküldi a névjegyzéket vezető hatóságnak a névjegyzékbe történő bejegyzés céljából. A Kamara a szünetelés visszavonása tárgyában meghozott határozatot, a határozat meghozatalától számított tizenöt napon belül megküldi a névjegyzéket vezető hatóságnak. A szünetelés engedélyezésének és visszavonásának részletes szabályairól az alapszabály rendelkezik.
+(6) A Kamara a véglegessé vált határozatot megküldi a névjegyzéket vezető hatóságnak a névjegyzékbe történő bejegyzés céljából. A Kamara a szünetelés visszavonása tárgyában meghozott határozatot, a határozat meghozatalától számított tizenöt napon belül megküldi a névjegyzéket vezető hatóságnak. A szünetelés engedélyezésének és visszavonásának részletes szabályairól az alapszabály rendelkezik.
 
 (7) A Kamara engedélye nem szükséges a kamarai tagságnak
 

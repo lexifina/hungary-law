@@ -6,6 +6,6 @@
 
 (4) Ha a Kamara tájékoztatásában foglalt indokokkal a miniszter nem ért egyet vagy a (3) bekezdés szerinti módosított szabályzat tekintetében is fennáll a jogsértés, a (3) bekezdés szerinti felhívás még egyszer megismételhető.
 
-(5) Ha a (3) és (4) bekezdés szerinti felhívásban megjelölt határidő elteltét követően a jogsértés továbbra is megállapítható, a miniszter harminc napon belül bírósághoz fordulhat a jogsértés megszüntetése érdekében. Ha a bíróság a jogsértést megállapítja, a jogsértő szabályzatot hatályon kívül helyezi és új eljárás lefolytatását rendeli el.
+(5)
 
 (6) A szabályzat nem lehet jogszabállyal ellentétes, a szabályzatnak jogszabályba ütköző rendelkezése semmis.

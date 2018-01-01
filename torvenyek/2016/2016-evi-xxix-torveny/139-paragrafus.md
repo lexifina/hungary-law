@@ -20,7 +20,11 @@ e) az igazságügyi névjegyzéket vezető hatóság kijelölését és
 
 f) az igazságügyi szakértők részére szükséges jogi ismeretek oktatására kijelölt vizsgaszervező szervet,
 
-g) az igazságügyi szakértői intézmény irányításával kapcsolatos, a középirányító szervre átruházható hatásköröket, a középirányító kijelölését, a 30. § (2) bekezdés b) pontja szerinti hatáskör-átruházás szabályait, valamint az igazságügyi szakértői intézmény igazságügyi szakértői tevékenységnek nem minősülő egyes feladatait
+g) az igazságügyi szakértői intézmény irányításával kapcsolatos, a középirányító szervre átruházható hatásköröket, a középirányító kijelölését, a 30. § (2) bekezdés b) pontja szerinti hatáskör-átruházás szabályait, valamint az igazságügyi szakértői intézmény igazságügyi szakértői tevékenységnek nem minősülő egyes feladatait,
+
+h) a névjegyzék vezetésének, és a névjegyzékkel összefüggő adatszolgáltatás részletes szabályait,
+
+i) a szakmai gyakorlati idő szakirányú jellegének igazolására szolgáló hatósági bizonyítvány kiadásának részletes szabályait
 
 rendeletben határozza meg.
 
@@ -28,7 +32,7 @@ rendeletben határozza meg.
 
 a) az igazságügyi szakértői szakterületeket, az igazságügyi szakértők szakterületének besorolását és a szakterületekhez kapcsolódó képesítési és egyéb szakmai feltételeket, a kötelező szakértőjelölti idő vagy ügyszám mértékét, a képesítés egyenértékűségére vonatkozó feltételeket, az egyes szakterületek esetében a névjegyzékbe-vételi eljárás során figyelembe vehető szakértőjelölti szakmai gyakorlati tapasztalatra, rövidebb kötelező szakmai gyakorlat időtartamára, tudományos fokozatra, képesítésre és ágazati szakértői jogosultságra, ezek igazolására, valamint a névjegyzékbe bejegyzett igazságügyi szakértő esetében a feltételek alóli mentesülésre vonatkozó feltételeket,
 
-b) a névjegyzék vezetésének és a névjegyzékkel összefüggő adatszolgáltatás részletes szabályait, a névjegyzékből a kamarai tagság megszűnése miatti törlésre vonatkozó eljárás szabályait,
+b) a névjegyzékből a kamarai tagság megszűnése miatti törlésre vonatkozó eljárás szabályait,
 
 c) az igazságügyi szakértő által vezetett adattovábbítási nyilvántartás adattartalmára vonatkozó szabályokat,
 

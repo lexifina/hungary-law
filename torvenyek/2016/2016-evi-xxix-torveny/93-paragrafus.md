@@ -18,4 +18,4 @@ b) akinek a 130. § szerinti etikai vétsége az etikai vétség súlyára, az e
 
 (4) A (2) bekezdés b) pontja szerinti etikai vétségek fegyelmi vétségnek történő minősítéséről a fegyelmi tanács, a fegyelmi eljárás előkészítése során határoz. A fegyelmi tanács által meghozott határozat ellen a 126. §-ban meghatározottak szerinti bírósági jogorvoslatnak van helye.
 
-(5) A fegyelmi eljárás során szakmai szempontból nem vizsgálható az a szakvélemény, amelyet a hatóság jogerős határozatának meghozatala során elfogadott.
+(5) A fegyelmi eljárás során szakmai szempontból nem vizsgálható az a szakvélemény, amelyet a hatóság jogerős vagy véglegessé vált határozatának meghozatala során elfogadott.

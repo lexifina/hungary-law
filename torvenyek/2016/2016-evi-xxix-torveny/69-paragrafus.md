@@ -12,6 +12,6 @@ b) a kötelező szakmai kamarai tagsággal rendelkező igazságügyi szakértő 
 
 (4) A felfüggesztés az (1) bekezdés a) pontja esetében az eljárás jogerős befejezéséig, az (1) bekezdés b) pontja esetében pedig addig tart, amíg a szakértő szakmai kamarai tagsága felfüggesztése hatálya alatt áll.
 
-(5) Ha a Kamara határozatában nem dönt az igazságügyi szakértő felfüggesztéséről, a miniszter a határozat kézbesítésétől számított harminc napon belül bírósághoz fordulhat.
+(5) Ha a Kamara határozatában nem dönt az igazságügyi szakértő felfüggesztéséről, a miniszter a közigazgatási ügyben eljáró bírósághoz fordulhat.
 
 (6) Az igazságügyi szakértő a felfüggesztés időtartama alatt igazságügyi szakértői tevékenységet nem végezhet, hatóság előtt nem járhat el, az e törvényből és a kamarai tagságból eredő jogai és kötelezettségei szünetelnek.

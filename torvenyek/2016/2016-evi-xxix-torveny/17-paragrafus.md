@@ -4,7 +4,7 @@
 
 (2) Az értékelés célja az igazságügyi szakértő munkájának elfogulatlan megítélése, a teljesítményét befolyásoló ismeretek, képességek és személyiségjegyek feltárása, ezáltal a szakmai fejlődésének az elősegítése.
 
-(3) Az értékelést megalapozó vizsgálatnak – alapvetően a jogerősen befejezett ügyek alapján – fel kell tárnia az igazságügyi szakértő gyakorlatát, különös tekintettel arra, hogy
+(3) Az értékelést megalapozó vizsgálatnak – alapvetően a jogerősen befejezett vagy véglegessé vált döntéssel lezárt ügyek alapján – fel kell tárnia az igazságügyi szakértő gyakorlatát, különös tekintettel arra, hogy
 
 a) a szakvélemény előkészítése, elkészítése, valamint előterjesztése a vonatkozó jogszabályoknak megfelelt-e,
 
