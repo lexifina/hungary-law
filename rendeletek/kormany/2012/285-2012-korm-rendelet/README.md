@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-285-20-
 | 2015-07-08 | 2012-285-20-22.8 | 374/2013. (X. 25.) Korm. rendelet |
 | 2015-07-11 | 2012-285-20-22.9 | 374/2013. (X. 25.) Korm. rendelet |
 | 2015-11-25 | 2012-285-20-22.10 | 374/2013. (X. 25.) Korm. rendelet |
+| 2018-01-01 | 2012-285-20-22.11 | 640/2023. (XII. 28.) Korm. rendelet |
