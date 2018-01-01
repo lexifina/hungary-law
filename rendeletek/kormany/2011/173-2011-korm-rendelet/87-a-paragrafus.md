@@ -1,4 +1,4 @@
-87/A. §[^75] (1) Ha a gyártó megállapítja, hogy az általa gyártott pirotechnikai termék nem felel meg az e rendeletben meghatározott követelményeknek, és a pirotechnikai termék közvetlen veszélyt jelent a természetes személyek életére, testi épségére, a pirotechnikai terméket azonnal visszahívja, és soron kívül intézkedik a pirotechnikai termék e rendelet szerinti EU-típus megfelelőségi felülvizsgálatának ismételt lefolytatásáról.
+87/A. §[^82] (1) Ha a gyártó megállapítja, hogy az általa gyártott pirotechnikai termék nem felel meg az e rendeletben meghatározott követelményeknek, és a pirotechnikai termék közvetlen veszélyt jelent a természetes személyek életére, testi épségére, a pirotechnikai terméket azonnal visszahívja, és soron kívül intézkedik a pirotechnikai termék e rendelet szerinti EU-típus megfelelőségi felülvizsgálatának ismételt lefolytatásáról.
 
 (2) Ha a gyártó megállapítja, hogy az általa gyártott pirotechnikai termék nem felel meg az e rendeletben meghatározott követelményeknek, azonban a pirotechnikai termék nem jelent közvetlen veszélyt a természetes személyek életére, testi épségére, a pirotechnikai termék forgalmazását felfüggeszti és soron kívül intézkedik az e rendelet szerinti követelmények teljesítéséről.
 
@@ -16,4 +16,4 @@ c) forgalmazásának felfüggesztéséről
 
 (5) A gyártó a rendőrség piacfelügyeleti tevékenysége elvégzése céljából, a rendőrség indokolt megkeresésére a megkeresést követő 3 napon belül átadja a (4) bekezdés szerinti nyilvántartást, valamint az általa gyártott és forgalmazott pirotechnikai termékek e rendeletben előírtaknak való megfelelését igazoló dokumentumot nyomtatott és elektronikus formában.
 
-[^75]: A 87/A. §-t a 100/2015. (IV. 20.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^82]: A 87/A. §-t a 100/2015. (IV. 20.) Korm. rendelet 18. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## foglalja magában.
 
-8. § (1)[^25] Az e rendeletben meghatározott hatóság engedélyével rendelkező gyártó a bejelentett szervezet felé közli a teljesítményi jellemzőket a lehető legnagyobb biztonság és megbízhatóság elérése érdekében.
+8. § (1)[^26] Az e rendeletben meghatározott hatóság engedélyével rendelkező gyártó a bejelentett szervezet felé közli a teljesítményi jellemzőket a lehető legnagyobb biztonság és megbízhatóság elérése érdekében.
 
 (2) A pirotechnikai terméket úgy kell megtervezni és előállítani, hogy a megfelelő eljárás alkalmazásával biztonságosan kezelt hulladékként a lehető legkisebb hatást gyakorolja a környezetre.
 
@@ -30,4 +30,4 @@ j) a pirotechnikai termék biztonságos működéséhez szükséges eszközök �
 
 (5) A szállítás és a szokásos körülmények közötti tárolás során a pirotechnikai termék összetétele nem változhat meg, kivéve, ha a gyártó a használati és kezelési útmutatóban másként nem rendelkezett.
 
-[^25]: A 8. § (1) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^26]: A 8. § (1) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 4. §-ával megállapított szöveg.

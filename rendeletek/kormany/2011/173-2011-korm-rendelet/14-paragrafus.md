@@ -26,13 +26,13 @@ i) egy lakóegységen belül csak egy magánszemély tárolhat pirotechnikai ter
 
 (4) A (3) bekezdés szerinti címke tartalmazza:
 
-a)[^29] a gyártó nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai címét, ha a gyártó az Európai Unióban vagy valamely EGT-államban nem letelepedett, akkor a gyártó neve mellett az importőr nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai címét,
+a)[^30] a gyártó nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai címét, ha a gyártó az Európai Unióban vagy valamely EGT-államban nem letelepedett, akkor a gyártó neve mellett az importőr nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai címét,
 
-b)[^30] a pirotechnikai termék nevét, típusát, pirotechnikai osztályát, a tanúsítási regisztrációs számát és a 7/A. § szerinti nyilvántartási számát,
+b)[^31] a pirotechnikai termék nevét, típusát, pirotechnikai osztályát, a tanúsítási regisztrációs számát és a 7/A. § szerinti nyilvántartási számát,
 
 c) a nettó hatóanyag-tartalmát,
 
-d)[^31] a felhasználhatósági időt, valamint a 3. és 4. pirotechnikai osztályba tartozó tűzijáték termékek esetében a gyártás évét,
+d)[^32] a felhasználhatósági időt, valamint a 3. és 4. pirotechnikai osztályba tartozó tűzijáték termékek esetében a gyártás évét,
 
 e) a pirotechnikai termék felhasználásához szükséges – e rendelet szerinti – alsó korhatárt,
 
@@ -54,6 +54,6 @@ k) a 3. pirotechnikai osztályba tartozó tűzijáték termék esetében a term�
 
 (7) A gyártó köteles a pirotechnikai terméket jól látható és olvasható kitörölhetetlen címkével ellátni az értékesítés helye szerinti ország hivatalos nyelvén, amelyben a terméket a fogyasztó számára értékesítik.
 
-[^29]: A 14. § (4) bekezdés a) pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^30]: A 14. § (4) bekezdés b) pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^31]: A 14. § (4) bekezdés d) pontja a 100/2015. (IV. 20.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^30]: A 14. § (4) bekezdés a) pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^31]: A 14. § (4) bekezdés b) pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^32]: A 14. § (4) bekezdés d) pontja a 100/2015. (IV. 20.) Korm. rendelet 7. §-ával megállapított szöveg.

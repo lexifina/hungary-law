@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-173-20-
 | 2016-10-17 | 2011-173-20-22.11 | 100/2015. (IV. 20.) Korm. rendelet |
 | 2017-01-01 | 2011-173-20-22.12 | 288/2016. (IX. 22.) Korm. rendelet |
 | 2017-06-17 | 2011-173-20-22.13 | 137/2017. (VI. 9.) Korm. rendelet |
+| 2018-01-01 | 2011-173-20-22.14 | 457/2017. (XII. 28.) Korm. rendelet |

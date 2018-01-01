@@ -1,4 +1,4 @@
-3. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^126]
+3. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^144]
 
 1. A pirotechnikai termék gyártásához szükséges engedélykérelem kötelező tartalmi elemei
 
@@ -546,4 +546,4 @@
 
 | 9. |  | A bejelentést tevő cégszerű aláírása |
 
-[^126]: A 3. melléklet a 288/2016. (IX. 22.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^144]: A 3. melléklet a 288/2016. (IX. 22.) Korm. rendelet 16. § (1) bekezdése iktatta be.
