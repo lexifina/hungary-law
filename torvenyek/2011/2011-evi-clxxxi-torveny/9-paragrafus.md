@@ -1,4 +1,4 @@
-9. § (1) A jogi képviselő feladata az általa készített okiratok mellett a kérelem mellékletét képező, nem általa készített okiratok elektronikus okirati formába történő átalakítása. A jogi képviselő az eredetileg nem elektronikus formában készült okiratok megőrzéséről az ügyvédekről szóló törvényben szabályozott módon gondoskodik.
+9. § (1) A jogi képviselő feladata az általa készített okiratok mellett a kérelem mellékletét képező, nem általa készített okiratok elektronikus okirati formába történő átalakítása. A jogi képviselő az eredetileg nem elektronikus formában készült okiratok megőrzéséről az ügyvédi tevékenységről szóló törvényben szabályozott módon gondoskodik.
 
 (2) Az elektronikus útra kötelezett – ha nem jogi képviselővel jár el – és az elektronikus eljárást választó kérelmező köteles gondoskodni a beadvány mellékleteit képező papír alapú okiratok elektronizálásáról és a papír alapú okiratok őrzéséről.
 

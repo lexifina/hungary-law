@@ -4,7 +4,7 @@
 
 (3) A számviteli törvény és az Ectv. szerinti beszámoló elektronikus okiratként történő elkészítése nem jogosít a beszámoló összeállítását (formáját, szerkezetét, tagolását) illetően a számviteli törvényben és az Ectv.-ben előírt rendelkezésektől való eltérésre.
 
-(4) A beszámolót a szervezetnek az adózás rendjéről szóló 2003. évi XCII. törvény 7. §-ának (2) bekezdése szerinti – a szervezet nyilvántartásba bejegyzett képviselője kivételével meghatalmazással igazolt – képviselője küldi meg az OBH részére.
+(4) A beszámolót a szervezetnek – a szervezet nyilvántartásba bejegyzett képviselője kivételével meghatalmazással igazolt – képviselője küldi meg az OBH részére.
 
 (5) Ha a szervezet a beszámolóról – külön jogszabály szerint arra feljogosított által aláírt – papír alapú okirat alapján határozott, úgy a (4) bekezdés szerinti személy egyben igazolja, hogy az ezt követően elektronikus úton megküldött beszámoló megegyezik a jóváhagyott beszámolóval. Ebben az esetben a (4) bekezdés szerinti személy a papír alapú beszámoló egy eredeti példányát – annak elfogadásától számított tíz évig – megőrzi, és amennyiben a megküldött beszámoló szabályszerűségével összefüggésben kétség merülne fel, köteles azt a bíróság, illetve a törvényességi ellenőrzést folytató ügyészség felhívására bemutatni.
 

@@ -1,6 +1,6 @@
-## 11. A kérelem elutasítása
+## 11. A kérelem visszautasítása
 
-29. § (1) A bíróság a nyilvántartásba vételi kérelmet hivatalból végzéssel elutasítja, ha
+29. § (1) A bíróság a nyilvántartásba vételi kérelmet hiánypótlási felhívás kiadását mellőzve végzéssel visszautasítja, ha
 
 a) az eljárásra a bíróság joghatósága törvény, európai uniós jogszabály vagy nemzetközi egyezmény rendelkezése alapján kizárt,
 
@@ -14,6 +14,8 @@ e) a szervezet alapításában olyan alapító vesz részt, aki a szervezet alap
 
 f) a kérelmet nem a jogszabályban arra feljogosított személy nyújtja be.
 
-(2) A bíróság a nyilvántartásba vétel iránti kérelmet hatvan napon belül elutasítja, ha a kérelmező a hiánypótlási felhívást követően a kitűzött határidő alatt a hiánytalan kérelmet (annak hiánypótlási felhívásban megjelölt részét) nem nyújtotta be, és emiatt a kérelem nem bírálható el.
+(2)
 
-(3) Ha a nyilvántartásba vételi kérelem elutasítását követően harminc napon belül ismételten kérik a szervezet nyilvántartásba vételét, a korábbi eljárásban benyújtott – hiánypótlási felhívással nem érintett – iratokat nem kell ismételten benyújtani, azok az új eljárásban felhasználhatóak. A határidő elmulasztása miatt igazolásnak helye nincs.
+(3) Ha a nyilvántartásba vételi kérelmet visszautasító végzés jogerőre emelkedésétől számított harminc napon belül az ügy előzményére hivatkozással ismételten kérik a szervezet nyilvántartásba vételét, a korábbi eljárásban benyújtott iratokat nem kell ismételten benyújtani, azok az új eljárásban felhasználhatóak. A határidő elmulasztása esetén igazolásnak helye nincs.
+
+(4) Ha a nyilvántartásba vételi kérelmet visszautasító végzés jogerőre emelkedését megelőzően ismételten kérik a szervezet nyilvántartásba vételét, azt a visszautasító végzés ellen előterjesztett fellebbezés visszavonásának vagy a végzés elleni fellebbezési jogról való lemondásnak kell tekinteni; az ezzel ellentétes nyilatkozat hatálytalan.

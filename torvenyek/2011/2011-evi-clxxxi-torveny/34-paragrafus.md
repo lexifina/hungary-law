@@ -4,9 +4,9 @@
 
 (2) Az (1) bekezdés szerinti kérelemhez kizárólag a jogszabályban meghatározott mintaokirat szerinti mellékleteket lehet csatolni.
 
-(3) Ha a mintaokirat kiegészítésére vagy bármely rendelkezésének elhagyására kerül sor – ideértve azt az esetet is, ha elhagyásra kerül a mintaokirat jellegre történő utalás – a bíróság a kérelmet érdemi vizsgálat nélkül elutasítja.
+(3) Ha a mintaokirat kiegészítésére vagy bármely rendelkezésének elhagyására kerül sor – ideértve azt az esetet is, ha elhagyásra kerül a mintaokirat jellegre történő utalás – vagy a kérelemhez nem csatolják a jogszabályban meghatározott, a kérelem tartalmára figyelemmel szükséges valamely mellékletet, a bíróság a kérelmet visszautasítja.
 
-(4) A nyilvántartásba vételi kérelem elbírálásáról a bíróság a kérelem érkezését követő tizenöt napon belül határoz. A bíróság e határidőn belül intézkedik a nyilvántartásba vételt elrendelő, illetőleg a nyilvántartásba vételi kérelmet elutasító végzés kézbesítése iránt.
+(4) A nyilvántartásba vételi kérelem elbírálásáról a bíróság a kérelem érkezését követő tizenöt napon belül határoz. A bíróság e határidőn belül intézkedik a nyilvántartásba vételt elrendelő, illetőleg a nyilvántartásba vételi kérelmet elutasító, visszautasító végzés kézbesítése iránt.
 
 (5) A bíróság az egyszerűsített nyilvántartásba vétel iránti kérelmet akkor is elutasítja, ha hiánypótlási felhívás kibocsátásának vagy áttételnek lenne helye.
 

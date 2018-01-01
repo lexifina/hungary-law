@@ -14,10 +14,10 @@ d) az kéri, akit jogszabály az eljárás kezdeményezésére kötelez.
 
 (3) A kérelemnek az ügy elbírálásához szükséges valamennyi tényt, illetve adatot tartalmaznia kell. A törvényességi felügyeleti eljárás során a kérelmező a kérelme előterjesztésének okát nem változtathatja meg. A törvényességi felügyeleti eljárás lefolytatásával felmerülő költségeket a Pp. általános szabályai szerint a kérelmező köteles előlegezni. A költségek viselése csak akkor terheli a kérelmezőt, ha kérelme alaptalan volt.
 
-(4) A bíróság a kérelmet elutasítja, ha a kérelem nem felel meg az (1) bekezdésben foglalt feltételeknek. A bíróság a kérelmet elutasítja akkor is, ha megállapítja, hogy a kérelemben jelzett jogsértés nem áll fenn.
+(4) A bíróság a kérelmet visszautasítja, ha a kérelem nem felel meg az (1) bekezdésben foglalt feltételeknek. A bíróság a kérelmet elutasítja, ha megállapítja, hogy a kérelemben jelzett jogsértés nem áll fenn.
 
 (5) Az eljárás során a kérelmező a kérelmét bármikor visszavonhatja. Ilyen esetben az eljárást meg kell szüntetni. Az eljárás során felmerült költségeket a Pp. általános szabályai szerint a kérelmező viseli.
 
-(6) Az (5) bekezdésben meghatározott esetben, illetve ha a kérelem elutasítására került sor, a bíróság az eljárást hivatalból megindíthatja, ha a törvényességi felügyeleti eljárásnak hivatalból is helye van.
+(6) Az (5) bekezdésben meghatározott esetben, illetve ha a kérelem visszautasítására került sor, a bíróság az eljárást hivatalból megindíthatja, ha a törvényességi felügyeleti eljárásnak hivatalból is helye van.
 
-(7) A kérelemre induló törvényességi felügyeleti eljárásban fél a szervezet és a kérelmező is.
+(7) A kérelemre induló törvényességi felügyeleti eljárásban fél a szervezet és a kérelmező is. A kérelemre indult törvényességi felügyeleti eljárásban hozott érdemi határozatokkal szemben a szervezet és a kérelmező jogorvoslattal élhet.

@@ -2,7 +2,7 @@
 
 (2) A kérelemhez csatolni kell a jogi személy szervezeti egység jogi személyiségének megszűnéséről szóló döntést tartalmazó okiratot is.
 
-(3) Ha a kérelem áttételének, hivatalból történő elutasításának vagy hiánypótlásnak nincs helye, a bíróság – külön jogszabályban meghatározott módon – az OBH útján az országos névjegyzék részeként, a bíróságok központi internetes oldalán közzéteszi
+(3) Ha a kérelem áttételének, hiánypótlási felhívás kiadását mellőzve történő visszautasításának vagy hiánypótlásnak nincs helye, a bíróság – külön jogszabályban meghatározott módon – az OBH útján az országos névjegyzék részeként, a bíróságok központi internetes oldalán közzéteszi
 
 a) a jogi személy szervezeti egység jogi személyiségének megszűnéséről szóló döntésről szóló okiratot és
 

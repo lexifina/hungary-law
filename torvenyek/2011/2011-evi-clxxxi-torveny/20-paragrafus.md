@@ -42,7 +42,7 @@ b) a jogi személy szervezeti egység ügyintéző és képviseleti szervének n
 
 a) a szervezet képviselőjének adóazonosító számát,
 
-b) az általános forgalmi adó alanyának az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti, az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozatát,
+b) az általános forgalmi adó alanyának az adózás rendjéről szóló törvény szerinti, az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozatát,
 
 c) a szervezet kiegészítő jellegű gazdasági főtevékenységét és ténylegesen végzett tevékenységi köreit azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével,
 

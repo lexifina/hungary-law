@@ -8,7 +8,7 @@
 
 (4) Ha a törvényességi felügyeleti eljárásnak az az oka, hogy a szervezetnek nincs megválasztott vezető tisztségviselője (képviselője), a felügyelőbiztos – a bíróság végzésében meghatározottak szerint – a vezető tisztségviselő (képviselő) jogkörét gyakorolja. Erre tekintettel a bíróság a felügyelőbiztost – szükség esetén a korábbi vezető tisztségviselő (képviselő) törlésével egyidejűleg – a nyilvántartásba hivatalból bejegyzi.
 
-(5) A szervezet vezető munkavállalói, illetve tagjai kötelesek a felügyelőbiztos részére minden olyan eszközt, iratot, illetve információt biztosítani, amely hozzásegíti ahhoz, hogy a vezető tisztségviselői feladatait elláthassa. A felügyelőbiztos kérelmére a bíróság a felügyelőbiztos tevékenységét akadályozó személyt a Pp. 120. §-ában meghatározott pénzbírsággal sújtja. A pénzbírság többször is kiszabható.
+(5) A szervezet vezető munkavállalói, illetve tagjai kötelesek a felügyelőbiztos részére minden olyan eszközt, iratot, illetve információt biztosítani, amely hozzásegíti ahhoz, hogy a vezető tisztségviselői feladatait elláthassa. A felügyelőbiztos kérelmére a bíróság a felügyelőbiztos tevékenységét akadályozó személyt a Pp. 166. §-ában meghatározott pénzbírsággal sújtja. A pénzbírság többször is kiszabható.
 
 (6) Ha a felügyelőbiztos kirendelésére a szervezet tagja kérelmére került sor, a felügyelőbiztos a vezető tisztségviselő (képviselő) jogkörében a halaszthatatlan intézkedések megtételére is jogosult. Szerződést azonban csak akkor köthet, követelést csak akkor ismerhet el, illetve jogról csak akkor mondhat le, ha ezáltal az általa képviselt szervezetet nyilvánvaló károsodástól óvja meg.
 

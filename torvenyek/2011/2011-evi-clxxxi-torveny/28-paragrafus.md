@@ -8,7 +8,7 @@
 
 a) az ügy áttételének,
 
-b) a kérelem hivatalból történő elutasításának vagy
+b) a kérelem hiánypótlási felhívás kiadását mellőzve történő visszautasításának vagy
 
 c) hiánypótlásnak
 

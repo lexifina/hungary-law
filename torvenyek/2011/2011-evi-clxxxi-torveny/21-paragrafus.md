@@ -18,10 +18,10 @@ b) a székhelyhasználat jogcímét igazoló okirat másolatát.
 
 (7) Ha a kérelmező a szervezet magyar nyelvű elnevezésének megfelelő idegen nyelvű elnevezését is kéri nyilvántartásba venni, a magyar nyelvű elnevezés – a külön jogszabályban foglaltak szerint arra jogosult által készített – idegen nyelvű fordításával kell igazolnia, hogy az idegen nyelvű elnevezés a magyar nyelvű elnevezésének megfelel. Ha a bíróságnak a fordítás megfelelőségével szemben kétsége merül fel, a kérelmezőtől a magyar nyelvű elnevezés idegen nyelvű hiteles fordítást kérheti.
 
-(8) Képviselet esetén a Pp. 69–73. §-át megfelelően alkalmazni kell.
+(8) Képviselet esetén a Pp. 67–71. §-át megfelelően alkalmazni kell.
 
-(9) Ha több kérelmező a kérelmet elektronikus úton nyújtja be, a kérelemhez csatolni kell valamennyi kérelmező nyilatkozatát arról, hogy:
+(9) Ha több kérelmező a kérelmet elektronikus úton nyújtja be, a kérelemhez csatolni kell valamennyi kérelmező nyilatkozatának másolatát arról, hogy
 
-a) hozzájárul ahhoz, hogy a kérelmet a benyújtó személy ügyfélkapuján keresztül nyújtják be,
+a) hozzájárul ahhoz, hogy a kérelmet a benyújtó személy által elektronikus úton nyújtják be, és
 
-b) tudomásul veszi, hogy szabályszerű kézbesítésnek minősül a bírósági iratnak a benyújtó személy ügyfélkapujára történő kézbesítése.
+b) tudomásul veszi, hogy szabályszerű kézbesítésnek minősül a bírósági iratnak a benyújtó személy részére történő elektronikus kézbesítése.

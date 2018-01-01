@@ -50,6 +50,6 @@ p) a szervezet külön törvényben meghatározott adatait.
 
 (4) Ha a szervezet – alapítvány esetében a képviselő – a bíróság részére olyan, a pénzforgalmi szolgáltató által kiállított igazolást nyújt be, amely tartalmazza a szervezet pénzforgalmi számláját, valamint az azt vezető pénzforgalmi szolgáltató nevét és székhelyét, a bíróság a szervezet pénzforgalmi számláját, valamint az azt vezető pénzforgalmi szolgáltató nevét és székhelyét – változásbejegyzési eljárás lefolytatása nélkül – hivatalból bejegyzi a nyilvántartásba. Ez a rendelkezés irányadó a pénzforgalmi számla megszűnéséről szóló igazolás benyújtása esetén is.
 
-(5) A (2)–(4) bekezdésben meghatározott esetben az adat bejegyzéséről nem kell végzést hozni, ha az ilyen módon bejegyzett adat eltér a bejegyzés alapjául szolgáló határozatban vagy értesítésben szereplő adattól, a nyilvántartásban szereplő adat kijavítására a Pp. 224. § (1) és (2) bekezdését kell megfelelően alkalmazni, azzal, hogy a kijavításról nem kell végzést hozni.
+(5) A (2)–(4) bekezdésben meghatározott esetben az adat bejegyzéséről nem kell végzést hozni, ha az ilyen módon bejegyzett adat eltér a bejegyzés alapjául szolgáló határozatban vagy értesítésben szereplő adattól, a nyilvántartásban szereplő adat kijavítására a Pp. 352. § (1) és (2) bekezdését kell megfelelően alkalmazni, azzal, hogy a kijavításról nem kell végzést hozni.
 
 (6) Az (5) bekezdés szerint kell eljárni akkor is, ha a nyilvántartásba bejegyzett adat eltér a bejegyzés alapjául szolgáló végzés tartalmától.

@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-181-00-00
 | 2016-10-20 | 2016. évi CI. törvény | 2011-181-00-00.23 |
 | 2017-03-01 | 2016. évi CLXXIX. törvény | 2011-181-00-00.24 |
 | 2017-06-27 | 2017. évi LXXVI. törvény | 2011-181-00-00.25 |
+| 2018-01-01 | 2017. évi CXXX. törvény | 2011-181-00-00.26 |
