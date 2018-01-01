@@ -1,6 +1,6 @@
 12. §[^29] (1) A Tny. 18. § (2b)–(2c) bekezdése szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal szerzett jogosultsági időnek
 
-a)[^30] az 1997. december 31-ét követően a Tbj. 5. § (1) bekezdés a), b) és e)–i) pontjában, valamint (2) és (3) bekezdésében meghatározott jogviszonyban – ideértve az alkalmi munkavállalói könyvvel történő foglalkoztatást, az egyszerűsített foglalkoztatást, a szakmunkástanuló és a szakközépiskolai tanuló kötelező nyári gyakorlatát, továbbá a Tbj. 1998. január 1-je és 1999. december 31-e között hatályos 7. § (2) bekezdése szerinti biztosítási időt is –;
+a)[^30] az 1997. december 31-ét követően a Tbj. 5. § (1) bekezdés a), b) és e)–k) pontjában, valamint (2) és (3) bekezdésében meghatározott jogviszonyban – ideértve az alkalmi munkavállalói könyvvel történő foglalkoztatást, az egyszerűsített foglalkoztatást, a szakmunkástanuló és a szakközépiskolai tanuló kötelező nyári gyakorlatát, továbbá a Tbj. 1998. január 1-je és 1999. december 31-e között hatályos 7. § (2) bekezdése szerinti biztosítási időt is –;
 
 b) az 1998. január 1-jét megelőzően
 
@@ -63,7 +63,7 @@ b) a súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekre tekint
 (4)–(5)[^35]
 
 [^29]: A 12. §-t a 164/2009. (VIII. 14.) Korm. rendelet 11. § (7) bekezdés e) pontja hatályon kívül helyezte, újonnan a 354/2010. (XII. 30.) Korm. rendelet 3. §-a iktatta be. A 12. §-t megelőző alcímet a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^30]: A 12. § (1) bekezdés a) pontja a 90/2014. (III. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^30]: A 12. § (1) bekezdés a) pontja a 90/2014. (III. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 360/2017. (XI. 30.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^31]: A 12. § b) pont 8. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^32]: A 12. § b) pont 10. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^33]: A 12. § (3) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 90/2014. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
