@@ -1,0 +1,1 @@
+## „c) ha a vizsgabizottsági felkérésnek egymást követő három alkalommal – az akadályoztatás esetét kivéve – nem tesz eleget, vagy ha a 11. § (2) bekezdése szerinti továbbképzési kötelezettségének 4 hónapon belül nem tesz eleget;”
