@@ -1,4 +1,4 @@
-1. melléklet a 16/2016. (V. 12.) BM rendelethez[^7]
+1. melléklet a 16/2016. (V. 12.) BM rendelethez[^23]
 
 ## A víziközmű üzemeltetéséért felelős vezetők szakmai képesítési előírásai
 
@@ -36,15 +36,15 @@
 
 |  | A) | B) | C) | D) | E) |
 
-|  | Munkakörök megnevezése | Nagyobb, mint 10 000 m3/nap | Nagyobb, mint 3000 m3/nap és kisebb-egyenlő, mint 10 000 m3/nap | 3000–500 m3/nap között | Kisebb, mint 500 m3/nap |
+|  | Munkakörök megnevezése | Nagyobb, mint 10 000 m3/nap | Nagyobb, mint 3000 m3/nap és kisebb- egyenlő, mint 10 000 m3/nap | 3000–500 m3/nap között | Kisebb, mint 500 m3/nap |
 
-| Minimálisan szükséges kompetencia [AK1/SZT2] | Minimálisan szükséges kompetencia [AK1/SZT2] | Minimálisan szükséges kompetencia [AK1] | Minimálisan szükséges kompetencia [AK1] |
+| Szükséges kompetencia [AK1/SZT2] | Szükséges kompetencia [AK1/SZT2] | Szükséges kompetencia [AK1] | Szükséges kompetencia [AK1] |
 
-| 1. | Területi vagy szakági irányító vezető | EM1 EM2 EM3 | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2 M3 | – |
+| 1. | Területi vagy szakági irányító vezető | EM1 EM2 EM3 M1 | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2 M3 | – |
 
-| 2. | Felszíni vízbázisra települt közcélú víztermelő, víztisztító telepvezető | EM1 EM2/SZT EM3/SZT M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2 M3 | T1 T2 |
+| 2. | Felszíni vízbázisra települt közcélú víztermelő, víztisztító telepvezető | EM1 EM2/SZT EM3/SZT M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2 M3 T1 T2 | T1 T2 |
 
-| 3. | Felszín alatti vízbázisra települt közcélú víztermelő, víztisztító telepvezetője | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2 M3 | T1 T2 |
+| 3. | Felszín alatti vízbázisra települt közcélú víztermelő, víztisztító telepvezetője | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2 M3 T1 T2 | T1 T2 |
 
 | 4. | Közüzemi ivóvízhálózat üzemeltetés irányító vezető | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2 M3 | EM1 EM2 EM3 M1 M2 M3 T1 T2 | T1 T2 |
 
@@ -60,11 +60,11 @@
 
 |  | A) | B) | C) | D) |
 
-|  | Munkakörök megnevezése | Nagyobb, mint 10 000 LE | Nagyobb, mint 3000 LE és kisebb-egyenlő, mint 10 000 LE | Kisebb-egyenlő, mint 3000 LE |
+|  | Munkakörök megnevezése | Nagyobb, mint 100 000 LE | Nagyobb, mint 15 000 LE és kisebb-egyenlő, mint 100 000 LE | Kisebb-egyenlő, mint 15 000 LE |
 
-| Minimálisan szükséges kompetencia [AK1/SZT2] | Minimálisan szükséges kompetencia [AK1/SZT2] | Minimálisan szükséges kompetencia [AK1] |
+| Szükséges kompetencia [AK1/SZT2] | Szükséges kompetencia [AK1/SZT2] | Szükséges kompetencia [AK1] |
 
-| 1. | Területi vagy szakági irányító vezető | EM1 EM2 EM3 | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2 M3 |
+| 1. | Területi vagy szakági irányító vezető | EM1 EM2 EM3 M1 | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2 M3 |
 
 | 2. | Közcélú szennyvíztisztító telepvezető | EM1 EM2 EM3 M1 M2/SZT M3/SZT | EM1 EM2 EM3 M1 M2 M3 | EM1 EM2 EM3 M1 M2 M3 T1 T2 |
 
@@ -102,79 +102,81 @@ C) Alkalmazott jelölések, kapcsolódó képesítések a kompetenciát igényl�
 
 C1. AK – Alapképzettség:
 
+A korábbi ötéves egyetemi képzés megfelel a jelenlegi mesterfokozat (MSc) képesítésnek, a korábbi hároméves főiskolai/üzemmérnöki képzés a jelenlegi alapfokozat (BSc) képesítésnek.
+
 |  | A | B | C | D |
 
-| 1. | képzettség | szakok |
+|  | képzettség | szakok |
 
-| 2. |  | végzettségi szint | rövidítése | megnevezése |
+|  |  | végzettségi szint | rövidítése | megnevezése |
 
-| 3. |  |  | EM1 | infrastruktúra-építőmérnöki |
+| 1. |  |  | EM1 | infrastruktúra-építőmérnöki |
 
-| 4. |  |  |  | hidrogeológus mérnöki |
+| 2. |  |  |  | építőmérnöki |
 
-| 5. |  |  | EM2 | vegyészmérnöki |
+| 3. |  |  | hidrogeológus mérnöki |
 
-| 6. |  |  |  | vegyész |
+|  |  |  | EM2 | vegyészmérnöki |
 
-| 7. |  |  |  | biomérnöki |
+| 4. |  |  |  | vegyész |
 
-| 8. |  |  |  | biológus |
+| 5. |  |  |  | biomérnöki |
 
-| 9. |  |  |  | molekuláris biológia |
+| 6. |  |  |  | biológus (összes szakirány) |
 
-| 10. |  |  |  | hidrobiológus |
+| 7. |  |  |  | gyógyszervegyész-mérnöki |
 
-| 11. |  | MSc |  | gyógyszervegyész-mérnöki |
+| 8. |  |  |  | környezetmérnöki |
 
-| 12. |  |  |  | környezetmérnöki |
+| 9. |  | MSc |  | gépészmérnöki |
 
-| 13. |  |  |  | gépészmérnöki |
+| 10. |  |  |  | épületgépészeti és eljárástechnikai gépészmérnöki |
 
-| 14. |  |  |  | épületgépészeti és eljárástechnikai gépészmérnöki |
+| 11. |  |  |  | villamosmérnöki |
 
-| 15. |  |  |  | villamosmérnöki |
+| 12. |  |  |  | élelmiszertechnológus mérnök |
 
-| 16. |  |  | EM3 | településmérnöki |
+| 13. |  |  | EM3 | településmérnöki |
 
-| 17. |  |  |  | környezettudomány |
+| 14. |  |  |  | környezettudomány |
 
-| 18. |  |  |  | földtudományi mérnöki |
+| 15. |  |  |  | földtudományi mérnöki |
 
-| 19. | Alapképzettség |  |  | földtudomány |
+| 16. | Alapképzettség |  |  | földtudomány |
 
-| 20. |  |  |  | geológus |
+| 17. |  |  |  | geológus |
 
-| 21. |  |  |  | mezőgazdasági vízgazdálkodási mérnök |
+| 18. |  |  |  | mezőgazdasági vízgazdálkodási mérnök |
 
-| 22. |  |  | M1 | vízügyi üzemeltetési mérnöki |
+| 19. |  |  | M1 | vízügyi üzemeltetési mérnöki |
 
-| 23. |  |  |  | építőmérnöki |
+| 20. |  |  |  | építőmérnöki |
 
-| 24. |  |  |  | vegyészmérnöki |
+| 21. |  |  |  | vegyészmérnöki |
 
-| 25. |  |  | M2 | biomérnöki |
+| 22. |  |  | M2 | biomérnöki |
 
-| 26. |  |  |  | kémia |
+| 23. |  |  |  | kémia |
 
-| 27. |  | BSc |  | biológia |
+| 24. |  | BSc |  | biológia |
 
-| 28. |  |  |  | környezetmérnöki |
+| 25. |  |  |  | környezetmérnöki |
 
-| 29. |  |  |  | földtudományi |
+| 26. |  |  |  | földtudományi |
 
-| 30. |  |  |  | műszaki földtudományi |
+| 27. |  |  |  | műszaki földtudományi |
 
-| 31. |  |  | M3 | gépészmérnöki |
+| 28. |  |  | M3 | gépészmérnöki |
 
-| 32. |  |  |  | villamosmérnöki |
+| 29. |  |  |  | villamosmérnöki |
 
-| 33. |  |  |  | környezettan |
+| 30. |  |  |  | környezettan |
 
-| 34. |  | Technikus | T1 | vízügyi technikus |
+| 31. |  | Technikus | T1 | vízügyi technikus |
 
-| 35. |  |  |  | víz- és szennyvízkezelő |
+| 32. |  |  |  | víz- és szennyvízkezelő |
 
-| 36. |  |  | T2 | vegyész technikus |
+| 33. |  |  | T2 | vegyész technikus |
 
 C2. SZT – Szakirányú továbbképzés
 
@@ -188,4 +190,4 @@ C3. GY – Gyakorlati idő
 
 Közüzemi ivóvízellátás-csatornázás üzemeltetési munkahelyeken az alapdiploma megszerzését követően eltöltött idő.
 
-[^7]: Az 1. melléklet az 5/2017. (V. 5.) BM rendelet 4. §-a szerint módosított szöveg.
+[^23]: Az 1. melléklet az 5/2017. (V. 5.) BM rendelet 4. §-a, a 42/2017. (XII. 29.) BM rendelet 19. § a) pontja szerint módosított szöveg.

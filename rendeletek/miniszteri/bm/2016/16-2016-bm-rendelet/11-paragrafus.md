@@ -6,7 +6,7 @@ a) a műtárgyakra és berendezésekre vonatkozó dokumentációkat, kezelési, 
 
 b) munkavédelmi és érintésvédelmi bizonylatokat;
 
-c) műszaki átadás-átvételi jegyzőkönyveket;
+c)[^18] a vízjogi üzemeltetési engedély véglegessé válásáig a műszaki átadás-átvételi jegyzőkönyveket;
 
 d) a geodéziai felméréseket, a közművek egyeztetett hálózati térképeit;
 
@@ -25,3 +25,5 @@ j) a szennyezéscsökkentési ütemtervet (ha a közcélú szennyvízelvezető �
 k) az önellenőrzési tervet.
 
 (2) A közcélú szennyvízelvezető, -tisztító mű üzemeltetőjének az (1) bekezdésben foglaltakat figyelembe véve üzemeltetési utasítást kell készíteni.
+
+[^18]: A 11. § (1) bekezdés c) pontja a 42/2017. (XII. 29.) BM rendelet 15. §-ával megállapított szöveg.

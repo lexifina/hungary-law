@@ -18,13 +18,13 @@ c) új víziközmű üzembe helyezése során a víziközmű ideiglenes üzemelt
 
 6. üzemeltetési szabályzat: az üzemeltető által működtetett víziközművek összességének üzemeltetésére vonatkozó műszaki előírás;
 
-7. üzemeltetési utasítás: egy adott vízilétesítmény üzemeltetésére vonatkozó műszaki előírás;
+7.[^2] üzemeltetési utasítás: ivóvízkezelő művek, illetve szennyvíztisztító telepek üzemeltetésére vonatkozó műszaki előírás;
 
 8. vízkivételi mű: a felszíni vagy a felszín alatti víz igénybevételére, termelésére szolgáló vízilétesítmény, amely lehet
 
 a) felszíni vízkivételi mű: a felszíni víz kitermelésére szolgáló vízilétesítmény (völgyzárógátas, aknás, szívófejes, szűrőgátas vízkivétel),
 
-b)[^1] felszín alatti vízkivételi mű: a felszín alatti víz kitermelésére szolgáló vízilétesítmény (fúrt vagy csápos kút, forrásfoglalás, galéria, vízakna, szivornya);
+b)[^3] felszín alatti vízkivételi mű: a felszín alatti víz kitermelésére szolgáló vízilétesítmény (fúrt vagy csápos kút, forrásfoglalás, galéria, vízakna, szivornya);
 
 9. védett felszín alatti vízbázisra telepített vízkivételi mű: az a vízkivételi mű, amelyen keresztül az igénybe vett vízkészletből kitermelt vízben mért trícium koncentráció kisebb, mint 0,06 Bq/l (0,5 TU);
 
@@ -48,4 +48,5 @@ b)[^1] felszín alatti vízkivételi mű: a felszín alatti víz kitermelésére
 
 19. részletes vizsgálati terv: a biztonságos közüzemi ivóvízellátás érdekében a vizsgálandó ivóvízvételi helyeket, komponenseket és a vizsgálatokat tartalmazó vizsgálati terv.
 
-[^1]: A 2. § 8. pont b) alpontja az 5/2017. (V. 5.) BM rendelet 3. §-a szerint módosított szöveg.
+[^2]: A 2. § 7. pontja a 42/2017. (XII. 29.) BM rendelet 12. §-ával megállapított szöveg.
+[^3]: A 2. § 8. pont b) alpontja az 5/2017. (V. 5.) BM rendelet 3. §-a szerint módosított szöveg.

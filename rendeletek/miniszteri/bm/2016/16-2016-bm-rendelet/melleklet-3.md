@@ -16,9 +16,9 @@
 
 | 7. | klorid | mg/l |
 
-| 8. | Ellenőrző radiológiai vizsgálat (Az ellenőrző kémiai vizsgálatokkal együtt kell elvégezni) | ER |
+| 8. |  |  |
 
-| 9. | trícium1 | Bq/l / TU |
+| 9. |  |  |
 
 | 10. | Bakteriológiai vizsgálatok | B |
 
@@ -68,9 +68,9 @@
 
 | 33. | kémiai oxigénigény (KOIps) | mg/l |
 
-| 34. | összes cianid2 | μg/l |
+| 34. | összes cianid25 | μg/l |
 
-| 35. | arzén3 | μg/l |
+| 35. | arzén26 | μg/l |
 
 | 36. | felszíni vízkivételi művek esetén összes oldott szerves szén (DOC) | mg/l |
 
@@ -90,7 +90,7 @@
 
 | 44. | AOX | μg/l |
 
-| 45. | TPH (összes alifás szénhidrogén) | μg/l |
+| 45. | TPH (összes alifás szénhidrogén C5-C40) | μg/l |
 
 | 46. | antimon | μg/l |
 
@@ -118,7 +118,7 @@
 
 | 58. | radon | Bq/l |
 
-| 59. | trícium | Bq/l |
+| 59. | trícium27 | Bq/l |
 
 | 60. | indikatív dózis | mSv |
 
@@ -294,11 +294,11 @@
 
 | 146. | összes alifás szénhidrogén C5-C40 | μg/l |
 
-## 1 Felszín alatti vízkivételi mű esetén az első alapállapot-vizsgálattal egy időben, majd védett felszín alatti vízbázisra telepített vízkivételi mű esetén 6 évente kell mérni. Nem védett felszín alatti, illetve felszíni vízbázisra telepített vízkivételi mű esetén nem mérendő.
+## 25 Csak akkor kell mérni, ha a szolgáltatott ivóvízben kimutatható.
 
-## 2 Csak akkor kell mérni, ha a szolgáltatott ivóvízben kimutatható.
+## 26 Csak akkor kell mérni, ha a kevert (szolgáltatott) ivóvízben az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet szerinti 10 μg/l határértéket meghaladó érték az előző két évben előfordult.
 
-## 3 Csak akkor kell mérni, ha a kevert (szolgáltatott) ivóvízben az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet szerinti 10 μg/l határértéket meghaladó érték az előző két évben előfordult.
+## 27 Felszín alatti vízkivételi mű esetén az első alapállapot-vizsgálattal egy időben, majd védett felszín alatti vízbázisra telepített vízkivételi mű esetén 6 évente kell mérni. Nem védett felszín alatti, illetve felszíni vízbázisra telepített vízkivételi mű esetén nem mérendő.
 
 ## A *-gal jelölt komponensek közül csak azok vizsgálandók, amelyeket a kutak utánpótlódási területén kockázatosként azonosíthatók, vagy ha az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet szerint a víziközmű-rendszer vonatkozásában a HUMVI rendszerben a tárgyévet megelőző naptári évben a komponens határérték túllépése rögzítésre került.
 

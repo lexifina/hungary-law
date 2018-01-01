@@ -1,4 +1,4 @@
-8. § (1) A közcélú ivóvízmű üzemeltetőjének ivóvízbiztonsági tervben nem szereplő esetkör bekövetkezésekor haladéktalanul fel kell tárnia az észlelt problémát és el kell készítenie a további biztonságos ivóvízellátást biztosító részletes vizsgálati tervet
+8. § (1)[^17] A közcélú ivóvízmű üzemeltetőjének ivóvízbiztonsági tervben nem szereplő esetkör bekövetkezésekor haladéktalanul fel kell tárnia az észlelt problémát és a feltárt kockázatokkal, valamint azok kezelésének lehetőségeivel ki kell egészítenie a további biztonságos ivóvízellátást biztosító részletes vizsgálati tervet
 
 a) ha az ivóvízvételi helyen, a felszín alatti vizek védelméről szóló kormányrendelet és a felszíni vizek minősége védelméről szóló kormányrendelet szerinti vizsgálatok adatai vagy egyéb helyről származó információk alapján várható a vízkivételi műnél nem vizsgált jellemző megjelenése;
 
@@ -27,3 +27,5 @@ d) amennyiben a mért TPH (összes alifás szénhidrogén) paraméter kontroll v
 (7) A felszín alatti vizet termelő ivóvízmű üzemeltetője köteles a kitermelt víz mennyiségét, kutankénti üzemi vízhozamát és üzemi víz(nyomás)szintjét, nyugalmi víz(nyomás)szintjét és a termelt víz hőmérsékletét legalább havi gyakorisággal mérni, és az adatokat a tárgyévet követő év március 31-ig az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti adatszolgáltatást a területi vízügyi igazgatási szervhez eljuttatni.
 
 (8) A figyelőkút, valamint az ideiglenesen üzemen kívül helyezett és üzemen kívüli vízkivételi mű esetében az illetékes vízügyi hatóság által előírt gyakorisággal, de legalább évente egy alkalommal a nyugalmi víz(nyomás) szintmérést is el kell végezni.
+
+[^17]: A 8. § (1) bekezdés nyitó szövegrésze a 42/2017. (XII. 29.) BM rendelet 18. § h) pontja szerint módosított szöveg.

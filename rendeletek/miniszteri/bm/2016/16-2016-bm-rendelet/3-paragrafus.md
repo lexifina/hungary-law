@@ -46,6 +46,8 @@ i) a vízkivételi mű védettség szerinti kategorizálását, illetve annak v�
 
 a) a vizsgálatok gyakorisága;
 
-b) a vizsgálandó fizikai, kémiai és bakteriológiai összetevők;
+b)[^4] a vizsgálandó fizikai, kémiai mikroszkópos biológiai és bakteriológiai összetevők;
 
 c) a vizsgálandó minták száma
+
+[^4]: A 3. § (6) bekezdés b) pontja a 42/2017. (XII. 29.) BM rendelet 18. § a) pontja szerint módosított szöveg.
