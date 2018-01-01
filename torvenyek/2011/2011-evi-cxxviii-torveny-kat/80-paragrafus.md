@@ -28,7 +28,7 @@ j)
 
 k) a küszöbérték alatti üzemek körét, katasztrófavédelmi hatósági felügyeleti rendjét és az üzemeltetői kötelezettségeket,
 
-l) az e törvény IV. fejezetének hatálya alá tartozó üzemekkel és azok veszélyes tevékenységével összefüggésben alkalmazható bírságok rendszerét és részletes szabályait,
+l) a IV. Fejezet hatálya alá tartozó üzemekkel és azok veszélyes tevékenységével összefüggésben folytatott hatósági eljárások kiegészítő szabályait, az alkalmazható bírságok rendszerét és részletes szabályait,
 
 m) a katasztrófavédelmi szabályzat részletes szabályait, ezen belül
 
@@ -55,3 +55,5 @@ o) a veszélyes anyagokkal foglalkozó üzemekre vonatkozó hatósági koordiná
 p) a katasztrófavédelmi feladatok ellátásához szükséges földmérési és térképészeti állami alapadatok, illetve termékek, továbbá az ingatlan-nyilvántartási adatok (jogok, tények) körét, valamint ezek szolgáltatásának részletes szabályait,
 
 q) a veszélyes anyagok, veszélyes áruk telephelyi tárolásának katasztrófavédelmi szabályait,
+
+r) a személyes polgári védelmi kötelezettség és a gazdasági-anyagi szolgáltatási kötelezettség teljesítésével kapcsolatos jogorvoslati eljárás kiegészítő szabályait.

@@ -4,7 +4,7 @@
 
 (3) Az üzemeltető által benyújtott súlyos káresemény elhárítási tervet az iparbiztonsági hatóság értékeli, és dönt a katasztrófavédelmi engedély kiadásáról. Ha a benyújtott súlyos káresemény elhárítási terv nem felel meg a külön jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított harminc napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
 
-(3a) A küszöbérték alatti üzemek elsőfokú engedélyezési eljárásának ügyintézési határideje és a másodfokú eljárás ügyintézési határideje 45 nap.
+(3a)
 
 (4) Ha az üzemeltető nem vagy nem megfelelő módon tesz eleget a súlyos káresemény elhárítási tervvel kapcsolatos hiánypótlási felhívásnak vagy a súlyos káresemény elhárítási tervben a biztonságos üzemeltetést bizonyítani nem tudja, annak teljesítéséig az iparbiztonsági hatóság a 35. §-ban meghatározott szankciókat alkalmazhatja.
 

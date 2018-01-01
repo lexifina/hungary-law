@@ -30,6 +30,6 @@ c) a veszélyes tevékenységgel kapcsolatos súlyos balesettel, vagy üzemzavar
 
 (7) A bírság egy eljárásban ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
 
-(8) A bírság megfizetése nem mentesít a büntetőjogi, illetve a polgári jogi felelősség, valamint az elmulasztott kötelezettség teljesítése alól. A jogerősen kiszabott és be nem fizetett bírság adók módjára behajtandó köztartozásnak minősül.
+(8) A bírság megfizetése nem mentesít a büntetőjogi, illetve a polgári jogi felelősség, valamint az elmulasztott kötelezettség teljesítése alól.
 
 (9) A katasztrófavédelmi bírság a központi költségvetés központosított bevételét képezi.

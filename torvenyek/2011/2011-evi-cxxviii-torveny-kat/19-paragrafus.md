@@ -1,6 +1,6 @@
 ## 14. Egyéb rendelkezések
 
-19. § (1) A megyei és a fővárosi védelmi bizottság elnöke és a polgármester a katasztrófavédelmi feladatoknak e törvényben meghatározott irányítása és végrehajtása során államigazgatási jogkörben jár el.
+19. § (1) A polgármester, a főpolgármester, a helyi védelmi bizottság elnöke, a fővárosi és megyei védelmi bizottság elnöke a katasztrófavédelmi feladatoknak e törvényben meghatározott irányítása és végrehajtása során államigazgatási jogkörben jár el. Az elsőfokú államigazgatási hatósági eljárásban hozott határozataik ellen fellebbezésnek van helye.
 
 (2) A főpolgármester és a megyei közgyűlés elnöke, a polgármester a katasztrófavédelmi feladatait a hivatásos katasztrófavédelmi szerv közreműködésével látja el.
 
