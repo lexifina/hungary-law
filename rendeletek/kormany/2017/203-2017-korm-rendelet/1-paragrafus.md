@@ -6,4 +6,6 @@ a) a Beruházásokhoz közvetlenül kapcsolódó útépítési, közműfejleszt�
 
 b) a Beruházások megvalósításához és használatbavételéhez szükségesek,
 
-c) az 1. mellékletben a Beruházások megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási eljárások jogerős befejezését követően kialakított ingatlanokat érintik.
+c)[^1] az 1. mellékletben a Beruházások megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási eljárások véglegessé válását követően kialakított ingatlanokat érintik.
+
+[^1]: Az 1. § (2) bekezdés c) pontja a 458/2017. (XII. 28.) Korm. rendelet 390. §-a szerint módosított szöveg.
