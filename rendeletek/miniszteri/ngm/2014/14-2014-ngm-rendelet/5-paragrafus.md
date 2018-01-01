@@ -1,10 +1,10 @@
-## 3. [^11] A bejelentéssel összefüggő eljárás
+## 3. [^15] A bejelentéssel összefüggő eljárás
 
-5. § (1)[^12] A felnőttképzési szakértői tevékenység folytatására irányuló bejelentést a Pest Megyei Kormányhivatalhoz (a továbbiakban: kormányhivatal), a felnőttképzési programszakértői tevékenység folytatására irányuló bejelentést a Magyar Kereskedelmi és Iparkamarához (a továbbiakban: Kamara) kell benyújtani (a továbbiakban együtt: hatóság).
+5. § (1)[^16] A felnőttképzési szakértői tevékenység folytatására irányuló bejelentést a Pest Megyei Kormányhivatalhoz (a továbbiakban: kormányhivatal), a felnőttképzési programszakértői tevékenység folytatására irányuló bejelentést a Magyar Kereskedelmi és Iparkamarához (a továbbiakban: Kamara) kell benyújtani (a továbbiakban együtt: hatóság).
 
-(2)[^13] Az (1) bekezdés szerinti bejelentés tartalmazza
+(2)[^17] Az (1) bekezdés szerinti bejelentés tartalmazza
 
-a)[^14] a bejelentő
+a)[^18] a bejelentő
 
 aa) nevét, születési nevét, születési helyét és idejét, anyja nevét,
 
@@ -22,11 +22,11 @@ af) iskolai végzettségét igazoló dokumentum számát és keltét
 
 b) a választott szakterület megnevezését, valamint az 1. § (1) bekezdés b) pontja szerinti szakterület megnevezése esetén az 1. § (2) bekezdés szerinti rész-szakterület megnevezését.
 
-(3)[^15] A bejelentéshez mellékelni kell:
+(3)[^19] A bejelentéshez mellékelni kell:
 
-a) a szakmai képesítést igazoló okirat hiteles másolatát, honosított okirat esetében a magyar nyelvű fordítás hiteles másolatát,
+a)[^20] a szakmai képesítést igazoló okirat másolatát, honosított okirat esetében a magyar nyelvű fordítás másolatát,
 
-b) a szakmai gyakorlat igazolásáról szóló okiratot vagy annak hiteles másolatát, mely tartalmazza
+b)[^21] a szakmai gyakorlat igazolásáról szóló okirat másolatát, mely tartalmazza
 
 ba) az igazolást kérő (2) bekezdés a) pont aa) és ab) alpontjában foglalt adatait,
 
@@ -36,25 +36,27 @@ bc) a 2. § (5) vagy (6) bekezdés szerinti jogviszony megnevezését és a jogv
 
 bd) a munkáltató, foglalkoztató vagy a bb) alpont szerinti tevékenység teljesítését igazoló szerv vagy személy megnevezését, címét és cégszerű aláírását,
 
-c)[^16]
+c)[^22]
 
 és
 
-d)[^17] az illetékekről szóló törvény szerinti általános tételű eljárási illeték (a továbbiakban: eljárási illeték) – a benyújtott bejelentésen – illetékbélyeggel történő lerovását, vagy elektronikus úton benyújtott bejelentés esetén az eljárási illeték banki átutalással történő megfizetését bizonyító, bank által kiadott igazolás eredeti példányát vagy az átutalást igazoló bizonylat másolatát.
+d)[^23] az illetékekről szóló törvény szerinti általános tételű eljárási illeték (a továbbiakban: eljárási illeték) – a benyújtott bejelentésen – illetékbélyeggel történő lerovását, vagy elektronikus úton benyújtott bejelentés esetén az eljárási illeték banki átutalással történő megfizetését bizonyító, bank által kiadott igazolás eredeti példányát vagy az átutalást igazoló bizonylat másolatát.
 
-(4)[^18] Ha a bejelentéshez a szakmai gyakorlat (3) bekezdés b) pontjában foglalt tartalmú igazolása a munkáltató, foglalkoztató vagy a (3) bekezdés b) pontja bb) alpontjában foglalt tevékenység teljesítését igazoló szerv jogutód nélküli megszűnése, vagy egyéb ok miatt nem mellékelhető, a szakmai gyakorlat az igazolást kérő (2) bekezdés a) pont aa) és ab) alpontjában szereplő adatait tartalmazó munkaszerződés vagy a munkavégzés igazolására alkalmas más dokumentum – (3) bekezdés a) pontjában foglalt módon történő – benyújtásával is igazolható.
+(4)[^24] Ha a bejelentéshez a szakmai gyakorlat (3) bekezdés b) pontjában foglalt tartalmú igazolása a munkáltató, foglalkoztató vagy a (3) bekezdés b) pontja bb) alpontjában foglalt tevékenység teljesítését igazoló szerv jogutód nélküli megszűnése, vagy egyéb ok miatt nem mellékelhető, a szakmai gyakorlat az igazolást kérő (2) bekezdés a) pont aa) és ab) alpontjában szereplő adatait tartalmazó munkaszerződés vagy a munkavégzés igazolására alkalmas más dokumentum – (3) bekezdés a) pontjában foglalt módon történő – benyújtásával is igazolható.
 
-(5)[^19]
+(5)[^25]
 
-(6)[^20] Az (1) bekezdés szerinti bejelentés több – az 1. § (1)–(3) bekezdése szerinti – szakterületre és rész-szakterületre is benyújtható.
+(6)[^26] Az (1) bekezdés szerinti bejelentés több – az 1. § (1)–(3) bekezdése szerinti – szakterületre és rész-szakterületre is benyújtható.
 
-[^11]: A 3. alcím címe a 42/2015. (XII. 30.) NGM rendelet 11. §-ával megállapított szöveg.
-[^12]: Az 5. § (1) bekezdése a 42/2015. (XII. 30.) NGM rendelet 12. §-ával megállapított, a 62/2016. (XII. 29.) NGM rendelet 67. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^13]: Az 5. § (2) bekezdés nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § d) pontja szerint módosított szöveg.
-[^14]: Az 5. § (2) bekezdés a) pont nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § e) pontjával megállapított szöveg.
-[^15]: Az 5. § (3) bekezdés nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § f) pontja szerint módosított szöveg.
-[^16]: Az 5. § (3) bekezdés c) pontját a 42/2015. (XII. 30.) NGM rendelet 16. § a) pontja hatályon kívül helyezte.
-[^17]: Az 5. § (3) bekezdés d) pontja a 42/2015. (XII. 30.) NGM rendelet 15. § d) és g) pontja szerint módosított szöveg.
-[^18]: Az 5. § (4) bekezdése a 42/2015. (XII. 30.) NGM rendelet 15. § f) pontja szerint módosított szöveg.
-[^19]: Az 5. § (5) bekezdését a 42/2015. (XII. 30.) NGM rendelet 16. § b) pontja hatályon kívül helyezte.
-[^20]: Az 5. § (6) bekezdése a 42/2015. (XII. 30.) NGM rendelet 15. § d) pontja szerint módosított szöveg.
+[^15]: A 3. alcím címe a 42/2015. (XII. 30.) NGM rendelet 11. §-ával megállapított szöveg.
+[^16]: Az 5. § (1) bekezdése a 42/2015. (XII. 30.) NGM rendelet 12. §-ával megállapított, a 62/2016. (XII. 29.) NGM rendelet 67. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^17]: Az 5. § (2) bekezdés nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § d) pontja szerint módosított szöveg.
+[^18]: Az 5. § (2) bekezdés a) pont nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § e) pontjával megállapított szöveg.
+[^19]: Az 5. § (3) bekezdés nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § f) pontja szerint módosított szöveg.
+[^20]: Az 5. § (3) bekezdés a) pontja az 51/2017. (XII. 29.) NGM rendelet 5. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^21]: Az 5. § (3) bekezdés b) pont nyitó szövegrésze az 51/2017. (XII. 29.) NGM rendelet 5. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^22]: Az 5. § (3) bekezdés c) pontját a 42/2015. (XII. 30.) NGM rendelet 16. § a) pontja hatályon kívül helyezte.
+[^23]: Az 5. § (3) bekezdés d) pontja a 42/2015. (XII. 30.) NGM rendelet 15. § d) és g) pontja szerint módosított szöveg.
+[^24]: Az 5. § (4) bekezdése a 42/2015. (XII. 30.) NGM rendelet 15. § f) pontja szerint módosított szöveg.
+[^25]: Az 5. § (5) bekezdését a 42/2015. (XII. 30.) NGM rendelet 16. § b) pontja hatályon kívül helyezte.
+[^26]: Az 5. § (6) bekezdése a 42/2015. (XII. 30.) NGM rendelet 15. § d) pontja szerint módosított szöveg.

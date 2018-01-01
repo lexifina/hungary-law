@@ -1,8 +1,8 @@
-## 13. §[^33]
+## 13. §[^40]
 
-14–15. §[^34]
+14–15. §[^41]
 
-Melléklet a 14/2014. (III. 31.) NGM rendelethez[^35]
+Melléklet a 14/2014. (III. 31.) NGM rendelethez[^42]
 
 A szakértői továbbképzés témakörei
 
@@ -10,49 +10,59 @@ I. Felnőttképzési szakértő – felnőttképzési igazgatás szakterület
 
 1. Szabályozási ismeretek
 
-1.1. A közigazgatási eljárás és szolgáltatás szabályozása területén:
+1.1. Az általános közigazgatási rendtartás területén:
 
-1.1.1. A közigazgatási hatósági eljárás és szolgáltatás általános szabályai
+1.1.1. Az általános közigazgatási rendtartás alapelvei, a törvény hatálya és alapvető rendelkezései
 
-1.1.2. Az ügyfél fogalma
+1.1.2. Az ügyfél, a hatóság és a hatósági ügy fogalma
 
-1.1.3. Az első fokú eljárás megindítása, kérelem és mellékletei
+1.1.3. Hatásköri és illetékességi szabályok, az eljárási kötelezettség, a kizárás, kapcsolattartás általános szabályai
 
-1.1.4. A tényállás tisztázása
+1.1.4. A kérelemre induló hatósági eljárás
 
-1.1.5.
+1.1.5. A kérelem tartalma, az eljárás fajtái
 
-1.1.6. A határozat tartalma és közlése
+1.1.6. A tényállás tisztázása
 
-1.1.7. A jogorvoslati lehetőségek
+1.1.7. A hatóság által felhasználható bizonyítékok
+
+1.1.8. A szakértő kirendelése, a szakértői vizsgálatra vonatkozó általános szabályok, a szakértői vélemény, a szakértő jogai és kötelezettségei
+
+1.1.9. A hatóság döntése, a döntés formái és közlése
+
+1.1.10. A hatósági nyilvántartásra vonatkozó szabályok
+
+1.1.11. A hatósági ellenőrzés
+
+1.1.12. A hivatalbóli eljárás
+
+1.1.13. Jogorvoslathoz való jog, jogorvoslati eljárások
 
 1.2. A felnőttképzés szabályozása területén:
 
-1.2.1. A felnőttképzési tevékenység folytatásának engedélyezése
+1.2.1. A felnőttképzési tevékenység folytatására irányuló engedély feltételei
 
-1.2.2. Engedély kiadása, az engedély feltételei
+1.2.2. A felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárás
 
-1.2.3. A felnőttképzési tevékenység folytatásának engedélyezési eljárása
+1.2.3. A felnőttképzési szakértői rendszer
 
-1.2.4. A felnőttképzési szakértői rendszer
+1.2.4. Vagyoni biztosíték
 
-1.2.5. Vagyoni biztosíték
+1.2.5. Felnőttképzési minőségbiztosítási keretrendszer
 
-1.2.6. Felnőttképzési minőségbiztosítási keretrendszer
+1.2.6. A felnőttképzési információs rendszer
 
-1.2.7. A felnőttképzési információs rendszer
+1.2.7. A képzés megvalósításával összefüggő dokumentumok
 
-1.2.8. A képzés megvalósításával összefüggő dokumentumok
+1.2.8. A felnőttképzést folytató intézmények tájékoztatási kötelezettsége
 
-1.2.9. A felnőttképzést folytató intézmények tájékoztatási kötelezettsége
+1.2.9. A képzési program tartalma
 
-1.2.10. A képzési program tartalma
+1.2.10. Felnőttképzési programkövetelmények
 
-1.2.11. Felnőttképzési programkövetelmények
+1.2.11. A felnőttképzést folytató intézményekben kezelt személyes és különleges adatok
 
-1.2.12. A felnőttképzést folytató intézményekben kezelt személyes és különleges adatok
-
-1.2.13. A felnőttképzés támogatásának forrásai
+1.2.12. A felnőttképzés támogatásának forrásai
 
 1.3. A szakképzés szabályozása területén:
 
@@ -60,9 +70,9 @@ I. Felnőttképzési szakértő – felnőttképzési igazgatás szakterület
 
 1.3.2. A szakképzés kimeneti követelményei (szakmai és vizsgakövetelmények, modulokról szóló kormányrendelet)
 
-1.3.3. A komplex szakmai vizsga, a modulzáró vizsga
+1.3.3. A szakképzési kerettantervek
 
-1.3.4. A szakképzési kerettantervek
+1.3.4. A komplex szakmai vizsga, a modulzáró vizsga
 
 1.4. A minőségbiztosítás területén:
 
@@ -104,17 +114,37 @@ II. Felnőttképzési szakértő – nyelvi szakterület
 
 1. Szabályozási ismeretek
 
-1.1. A közigazgatási eljárás és szolgáltatás szabályozása területén:
+1.1. Az általános közigazgatási rendtartás területén:
 
-1.1.1. A közigazgatási hatósági eljárás és szolgáltatás általános szabályai
+1.1.1. Az általános közigazgatási rendtartás alapelvei, a törvény hatálya és alapvető rendelkezései
 
-1.1.2. Az első fokú eljárás megindítása, kérelem és mellékletei
+1.1.2. Az ügyfél, a hatóság és a hatósági ügy fogalma
 
-1.1.3. A tényállás tisztázása
+1.1.3. Hatásköri és illetékességi szabályok, az eljárási kötelezettség, a kizárás, kapcsolattartás általános szabályai
+
+1.1.4. A kérelemre induló hatósági eljárás
+
+1.1.5. A kérelem tartalma, az eljárás fajtái
+
+1.1.6. A tényállás tisztázása
+
+1.1.7. A hatóság által felhasználható bizonyítékok
+
+1.1.8. A szakértő kirendelése, a szakértői vizsgálatra vonatkozó általános szabályok, a szakértői vélemény, a szakértő jogai és kötelezettségei
+
+1.1.9. A hatóság döntése, a döntés formái és közlése
+
+1.1.10. A hatósági nyilvántartásra vonatkozó szabályok
+
+1.1.11. A hatósági ellenőrzés
+
+1.1.12. A hivatalbóli eljárás
+
+1.1.13. Jogorvoslathoz való jog, jogorvoslati eljárások
 
 1.2. A felnőttképzés szabályozása területén:
 
-1.2.1. Engedély kiadása, az engedély feltételei
+1.2.1. A felnőttképzési tevékenység folytatására irányuló engedély feltételei
 
 1.2.2. Felnőttképzési minőségbiztosítási keretrendszer
 
@@ -152,7 +182,7 @@ II. Felnőttképzési szakértő – nyelvi szakterület
 
 3.2. A nyelvi programkövetelmény tartalma, részei, koherenciája
 
-3.3. A téma kiválasztása, alkalmazkodás a célcsoporthoz, és a résztvevőhöz
+3.3. A téma kiválasztása, alkalmazkodás a célcsoporthoz és a résztvevőhöz
 
 3.4. A tanórán alkalmazható módszerek, a tanári magatartás formái
 
@@ -176,19 +206,39 @@ III. Felnőttképzési programszakértők
 
 1. Szabályozási ismeretek
 
-1.1. A közigazgatási eljárás és szolgáltatás szabályozása területén:
+1.1. Az általános közigazgatási rendtartás területén:
 
-1.1.1. A közigazgatási hatósági eljárás és szolgáltatás általános szabályai
+1.1.1. Az általános közigazgatási rendtartás alapelvei, a törvény hatálya és alapvető rendelkezései
 
-1.1.2. Az első fokú eljárás megindítása, kérelem és mellékletei
+1.1.2. Az ügyfél, a hatóság és a hatósági ügy fogalma
 
-1.1.3. A tényállás tisztázása
+1.1.3. Hatásköri és illetékességi szabályok, az eljárási kötelezettség, a kizárás, kapcsolattartás általános szabályai
+
+1.1.4. A kérelemre induló hatósági eljárás
+
+1.1.5. A kérelem tartalma, az eljárás fajtái
+
+1.1.6. A tényállás tisztázása
+
+1.1.7. A hatóság által felhasználható bizonyítékok
+
+1.1.8. A szakértő kirendelése, a szakértői vizsgálatra vonatkozó általános szabályok, a szakértői vélemény, a szakértő jogai és kötelezettségei
+
+1.1.9. A hatóság döntése, a döntés formái és közlése
+
+1.1.10. A hatósági nyilvántartásra vonatkozó szabályok
+
+1.1.11. A hatósági ellenőrzés
+
+1.1.12. A hivatalbóli eljárás
+
+1.1.13. Jogorvoslathoz való jog, jogorvoslati eljárások
 
 1.2. A felnőttképzés szabályozása területén:
 
-1.2.1. A felnőttképzési tevékenység folytatásának feltételei
+1.2.1. A felnőttképzési tevékenység folytatására irányuló engedély feltételei
 
-1.2.2. Az engedélyezési eljárás
+1.2.2. A felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárás
 
 1.2.3. Felnőttképzési minőségbiztosítási keretrendszer
 
@@ -264,6 +314,6 @@ III. Felnőttképzési programszakértők
 
 4.4. Konfliktuskezelés
 
-[^33]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^34]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^35]: A Melléklet a 42/2015. (XII. 30.) NGM rendelet 16. § d) pontja szerint módosított szöveg.
+[^40]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A melléklet az 51/2017. (XII. 29.) NGM rendelet 5. § (4) bekezdésével megállapított szöveg.
