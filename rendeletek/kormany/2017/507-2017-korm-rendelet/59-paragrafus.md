@@ -1,0 +1,1 @@
+## 58. § A 385/2016. Korm. rendelet 12. § b) pontjában az „az Ehi. 6. § (1) bekezdés g) pontja” szövegrész helyébe az „az Ehi. 4/D. § (1) bekezdés b) pontja és 6. § (1) bekezdés g) pontja” szöveg lép.

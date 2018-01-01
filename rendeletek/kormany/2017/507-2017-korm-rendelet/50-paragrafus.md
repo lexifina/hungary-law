@@ -1,0 +1,1 @@
+## „(4a) Mentesül a tanfolyam és vizsga letétele alól a jogi szakokleveles betegjogi, ellátottjogi és gyermekjogi jogvédői képesítéssel, vagy betegjogi, ellátottjogi és gyerekjogi, vagy egészségügyi szakjogász végzettséggel rendelkező személy.”

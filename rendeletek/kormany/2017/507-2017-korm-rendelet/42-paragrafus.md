@@ -1,3 +1,3 @@
-## 41. §[^12]
+## 41. §[^2]
 
-[^12]: A 41. § a 61. § (3) bekezdése alapján 2018. március 1-jén lép hatályba.
+[^2]: A 41. § a 61. § (3) bekezdése alapján 2018. március 1-jén lép hatályba.
