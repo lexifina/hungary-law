@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-115-00-00
 | 2014-02-18 | 2014. évi XI. törvény | 2004-115-00-00.10 |
 | 2015-04-01 | 2015. évi VI. törvény | 2004-115-00-00.11 |
 | 2017-01-01 | 2016. évi CXXVII. törvény | 2004-115-00-00.12 |
+| 2018-01-01 | 2017. évi CXXXVI. törvény | 2004-115-00-00.13 |

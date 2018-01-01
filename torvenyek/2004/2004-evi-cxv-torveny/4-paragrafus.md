@@ -44,6 +44,6 @@ r) a törvény által előírt vagy a közgyűlés által szükségesnek tartott
 
 (4) Ha az alapszabály a lakásszövetkezet működésének időtartamáról nem rendelkezik, a lakásszövetkezet határozatlan időre alakul meg.
 
-(5) A közgyűlés az alapszabályt – a jelenlévők szavazatának kétharmados többségével – bármikor módosíthatja. Az alapszabályt és annak módosítását közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+(5) A közgyűlés az alapszabályt – a jelenlévők szavazatának kétharmados többségével – bármikor módosíthatja. Az alapszabályt és annak módosítását közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 (6) A (2) bekezdés i) pontja szerinti igények érvényesítése iránti perben a tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek, fizetési meghagyásos eljárás perré alakulása esetén pedig az iratoknak a bírósághoz történő érkezésétől számított harmincadik napra kell kitűzni. A kereset más keresettel nem kapcsolható össze, keresetváltoztatásnak és szünetelésnek helye nincs.
