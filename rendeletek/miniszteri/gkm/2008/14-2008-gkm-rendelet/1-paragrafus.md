@@ -12,7 +12,7 @@ c)[^2] víz, kitermelt víz visszasajtolása a felszín alatti vizek védelmér�
 
 d) a bányászati hulladékok radioaktivitásával kapcsolatos ártalmatlanítási, mentesítési, környezeti rehabilitációs tevékenység.
 
-(3)[^3] Az ásványi nyersanyagok kutatásából, kitermeléséből, feldolgozásából, tárolásából, valamint a bányászat működéséből származó inert hulladékra és nem szennyezett talajra, továbbá a tőzeg kitermeléséből, feldolgozásából és tárolása során keletkező hulladékra a 6. §, a 7. §, a 10. § (1) és (4)–(5) bekezdés, a 11. §, a 12. § (6) bekezdés és a 13. § rendelkezéseit akkor kell alkalmazni, ha a hulladék „A” osztályba sorolt hulladékkezelő létesítményben került lerakásra.
+(3)[^3] Az ásványi nyersanyagok kutatásából, kitermeléséből, feldolgozásából, tárolásából, valamint a bányászat működéséből származó inert hulladékra és nem szennyezett talajra, továbbá a tőzeg kitermeléséből, feldolgozásából és tárolása során keletkező hulladékra a 10. § (1) és (4)–(5) bekezdés, a 11. §, a 12. § (6) bekezdés és a 13. § rendelkezéseit akkor kell alkalmazni, ha a hulladék „A” osztályba sorolt hulladékkezelő létesítményben került lerakásra.
 
 (4)[^4] A nem veszélyes és nem inert bányászati hulladékra a 10. § (4)–(5) bekezdésében, a 11. § (4)–(6) bekezdésében, a 12. § (6) bekezdésében és a 13. §-ban foglalt rendelkezéseket akkor kell alkalmazni, ha a hulladék „A” osztályba sorolt hulladékkezelő létesítményben került kezelésre.
 
@@ -20,6 +20,6 @@ d) a bányászati hulladékok radioaktivitásával kapcsolatos ártalmatlanítá
 
 [^1]: Az 1. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés c) pontja a 11/2011. (IV. 7.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (3) bekezdése a 11/2011. (IV. 7.) NFM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése a 11/2011. (IV. 7.) NFM rendelet 1. § (3) bekezdésével megállapított, az 52/2017. (XII. 22.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdése a 11/2011. (IV. 7.) NFM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (5) bekezdését a 11/2011. (IV. 7.) NFM rendelet 1. § (4) bekezdése iktatta be.

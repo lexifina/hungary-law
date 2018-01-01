@@ -1,6 +1,6 @@
 ## Bányászatihulladék-gazdálkodási terv
 
-4. § (1)[^14] Az üzemeltető hulladékgazdálkodási tervet köteles készíteni a bányászati hulladék mennyiségének minimálisra csökkentésére, előkezelésére, hasznosítására és ártalmatlanítására.
+4. § (1)[^16] Az üzemeltető hulladékgazdálkodási tervet köteles készíteni a bányászati hulladék mennyiségének minimálisra csökkentésére, előkezelésére, hasznosítására és ártalmatlanítására.
 
 (2) A bányászatihulladék-gazdálkodási terv célkitűzései:
 
@@ -12,11 +12,11 @@ ab) változások, amelyeken a bányászati hulladék a reakcióképes felület n
 
 ac) a bányászati hulladéknak az ásványi nyersanyag kitermelését követően a bányatérségbe való visszatöltése amennyire az műszakilag és gazdaságilag kivitelezhető és környezetbarát a környezetvédelmi jogszabályi előírásoknak és e rendelet rendelkezéseinek megfelelően,
 
-ad)[^15] a termőtalaj visszahelyezése a hulladékkezelő létesítmény bezárása után, vagy ha ez a gyakorlatban nem kivitelezhető, a termőtalaj máshol történő hasznosítása,
+ad)[^17] a termőtalaj visszahelyezése a hulladékkezelő létesítmény bezárása után, vagy ha ez a gyakorlatban nem kivitelezhető, a termőtalaj máshol történő hasznosítása,
 
 ae) kevésbé veszélyes anyagok használata az ásványi nyersanyagok előkészítéséhez;
 
-b)[^16] a bányászati hulladék újrafeldolgozással, újrahasználattal vagy visszanyeréssel történő hasznosításának ösztönzése a környezetvédelmi előírásoknak és e rendelet rendelkezéseinek megfelelően;
+b)[^18] a bányászati hulladék újrafeldolgozással, újrahasználattal vagy visszanyeréssel történő hasznosításának ösztönzése a környezetvédelmi előírásoknak és e rendelet rendelkezéseinek megfelelően;
 
 c) a bányászati hulladék rövid és hosszú távú biztonságos ártalmatlanításának biztosítása, különös tekintettel a tervezési fázisban a hulladékkezelő létesítmény működése közbeni és a bezárása utáni irányításra, valamint egy olyan terv kiválasztására, amely
 
@@ -30,7 +30,7 @@ cc) biztosítja minden, az eredeti terepszintet meghaladó gát vagy meddőhány
 
 a) ahol alkalmazható, a hulladékkezelő létesítmény javasolt osztályozását az 1. mellékletben megállapított kritériumokkal összhangban:
 
-aa)[^17] „A” osztályba sorolt hulladékkezelő létesítmény esetén az üzemeltető nyilatkozatát arra vonatkozóan, hogy az 5. § (3) bekezdésében előírt súlyos balesetek megelőzésére szolgáló tervet és az annak végrehajtására szolgáló biztonsági irányítási rendszert, valamint a belső vészhelyzeti tervet elkészítette,
+aa)[^19] „A” osztályba sorolt hulladékkezelő létesítmény esetén az üzemeltető nyilatkozatát arra vonatkozóan, hogy az 5. § (3) bekezdésében előírt súlyos balesetek megelőzésére szolgáló tervet és az annak végrehajtására szolgáló biztonsági irányítási rendszert, valamint a belső vészhelyzeti tervet elkészítette,
 
 ab) nem „A” osztályú hulladékkezelő létesítmény esetén, az ezt igazoló elegendő információt, ideértve a balesetveszélyek meghatározását is;
 
@@ -44,24 +44,24 @@ e) a javasolt ellenőrzési és monitoring eljárásokat a 9. §-nak – ahol al
 
 f) a javasolt bezárási tervet – beleértve a rehabilitációt is –, a bezárás után követendő eljárásokat és a monitoringot a 11. § rendelkezéseinek megfelelően;
 
-g)[^18] a víz állapotromlását megakadályozó intézkedéseket a vízgazdálkodásra és a vizek védelmére vonatkozó jogszabályokkal összhangban, valamint a levegő és a talaj szennyezését megakadályozó intézkedéseket, vagy ha a szennyezés elkerülhetetlen, annak a lehető legkisebb mértékűre való csökkentése érdekében szükséges intézkedéseket, figyelembe véve a 12. § rendelkezéseit;
+g)[^20] a víz állapotromlását megakadályozó intézkedéseket a vízgazdálkodásra és a vizek védelmére vonatkozó jogszabályokkal összhangban, valamint a levegő és a talaj szennyezését megakadályozó intézkedéseket, vagy ha a szennyezés elkerülhetetlen, annak a lehető legkisebb mértékűre való csökkentése érdekében szükséges intézkedéseket, figyelembe véve a 12. § rendelkezéseit;
 
-h)[^19] a hulladékkezelő létesítmény által érintett talaj vizsgálatára vonatkozó adatokat;
+h)[^21] a hulladékkezelő létesítmény által érintett talaj vizsgálatára vonatkozó adatokat;
 
-i)[^20] a 4. § (2) bekezdés a) pont aa) alpontja szerinti módszer vagy eljárás hogyan valósítja meg a (2) bekezdés a) pontjában meghatározott célokat.
+i)[^22] a 4. § (2) bekezdés a) pont aa) alpontja szerinti módszer vagy eljárás hogyan valósítja meg a (2) bekezdés a) pontjában meghatározott célokat.
 
-(4)[^21] A bányafelügyelet a bányászatihulladék-gazdálkodási tervet akkor hagyja jóvá, ha az alkalmas a (2) bekezdés a) pontjában meghatározott hulladékgazdálkodási célok megvalósítására és tartalmazza az ennek megállapításához szükséges adatokat és leírásokat.
+(4)[^23] A bányafelügyelet a bányászatihulladék-gazdálkodási tervet akkor hagyja jóvá, ha az alkalmas a (2) bekezdés a) pontjában meghatározott hulladékgazdálkodási célok megvalósítására és tartalmazza az ennek megállapításához szükséges adatokat és leírásokat.
 
-(5)[^22] Az üzemeltető a bányászatihulladék-gazdálkodási tervet ötévenként felülvizsgálja. Ha a hulladékkezelő létesítmény üzemelésében vagy az elhelyezett hulladék minőségében vagy mennyiségében változás következik be, a változásról a bányafelügyeletet tájékoztatni kell. Ha a változás jelentős változásnak minősül, a bányafelügyelet az üzemeltetőt a bányászatihulladék-gazdálkodási terv módosítására kötelezi. Az üzemeltető a módosított bányászatihulladék-gazdálkodási tervet jóváhagyásra megküldi a bányafelügyeletnek.
+(5)[^24] Az üzemeltető a bányászatihulladék-gazdálkodási tervet ötévenként felülvizsgálja. Ha a hulladékkezelő létesítmény üzemelésében vagy az elhelyezett hulladék minőségében vagy mennyiségében változás következik be, a változásról a bányafelügyeletet tájékoztatni kell. Ha a változás jelentős változásnak minősül, a bányafelügyelet az üzemeltetőt a bányászatihulladék-gazdálkodási terv módosítására kötelezi. Az üzemeltető a módosított bányászatihulladék-gazdálkodási tervet jóváhagyásra megküldi a bányafelügyeletnek.
 
 (6) A (3) bekezdésben meghatározott információkat tartalmazó, külön jogszabály szerint készített terveket és engedélyezési dokumentációt fel lehet használni az azokra való tételes hivatkozással, ha így elkerülhető az ismételt információszolgáltatás, feltéve hogy az (1)–(5) bekezdésben foglalt követelmények teljesülnek.
 
-[^14]: A 4. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 11. §-a szerint módosított szöveg.
-[^15]: A 4. § (2) bekezdés a) pont ad) alpontja a 11/2011. (IV. 7.) NFM rendelet 11. §-a szerint módosított szöveg.
-[^16]: A 4. § (2) bekezdés b) pontja a 11/2011. (IV. 7.) NFM rendelet 11. §-a szerint módosított szöveg.
-[^17]: A 4. § (3) bekezdés a) pont aa) alpontja a 11/2011. (IV. 7.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^18]: A 4. § (3) bekezdés g) pontja a 11/2011. (IV. 7.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^19]: A 4. § (3) bekezdés h) pontja a 11/2011. (IV. 7.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^20]: A 4. § (3) bekezdés i) pontját a 11/2011. (IV. 7.) NFM rendelet 4. § (3) bekezdése iktatta be.
-[^21]: A 4. § (4) bekezdése a 11/2011. (IV. 7.) NFM rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^22]: A 4. § (5) bekezdése a 11/2011. (IV. 7.) NFM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^16]: A 4. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 11. §-a szerint módosított szöveg.
+[^17]: A 4. § (2) bekezdés a) pont ad) alpontja a 11/2011. (IV. 7.) NFM rendelet 11. §-a szerint módosított szöveg.
+[^18]: A 4. § (2) bekezdés b) pontja a 11/2011. (IV. 7.) NFM rendelet 11. §-a szerint módosított szöveg.
+[^19]: A 4. § (3) bekezdés a) pont aa) alpontja a 11/2011. (IV. 7.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: A 4. § (3) bekezdés g) pontja a 11/2011. (IV. 7.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^21]: A 4. § (3) bekezdés h) pontja a 11/2011. (IV. 7.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^22]: A 4. § (3) bekezdés i) pontját a 11/2011. (IV. 7.) NFM rendelet 4. § (3) bekezdése iktatta be.
+[^23]: A 4. § (4) bekezdése a 11/2011. (IV. 7.) NFM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^24]: A 4. § (5) bekezdése a 11/2011. (IV. 7.) NFM rendelet 4. § (4) bekezdésével megállapított szöveg.

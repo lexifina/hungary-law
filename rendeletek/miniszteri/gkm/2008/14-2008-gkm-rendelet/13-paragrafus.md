@@ -1,6 +1,6 @@
 ## Pénzügyi biztosíték
 
-13. § (1)[^44] A bányászati hulladék hulladékkezelő létesítményben való elhelyezése előtt az üzemeltető köteles pénzügyi biztosíték meglétéről gondoskodni, és a biztosíték jóváhagyását a 6. § szerinti eljárás során a bányafelügyeletnél kérelmezni. A biztosítékot a bányafelügyelet akkor hagyja jóvá, ha
+13. § (1)[^44] A bányászati hulladék hulladékkezelő létesítményben való elhelyezése előtt az üzemeltető köteles pénzügyi biztosíték meglétéről gondoskodni, és a biztosíték jóváhagyását a Bt. Vhr. 1/A. § szerinti eljárás során a bányafelügyeletnél kérelmezni. A biztosítékot a bányafelügyelet akkor hagyja jóvá, ha
 
 a) az megfelelő fedezetet nyújt a bányafelügyelet, vagy az e rendelet által előírt kötelezettség, ideértve a bezárás utáni rendelkezéseket is, teljesítésének finanszírozásához és
 
@@ -32,7 +32,7 @@ g) a tájrendezés biztosításához, a bezáráshoz és a bezárás utáni idő
 
 (6)[^49] A fedezeti megállapodás, az óvadéki és a zálogjogi szerződés módosításához vagy megszüntetéséhez a bányafelügyelet hozzájárulása szükséges. A bányafelügyeleti hozzájárulás szükségességét a fedezeti megállapodásnak, az óvadéki és a zálogjogi szerződésnek tartalmaznia kell. A biztosíték igénybevételéről a bányafelügyelet végrehajtást elrendelő döntésben rendelkezhet.
 
-[^44]: A 13. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^44]: A 13. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 9. § (1) bekezdésével megállapított, nyitó szövegrésze az 52/2017. (XII. 22.) NFM rendelet 9. § d) pontja szerint módosított szöveg.
 [^45]: A 13. § (2) bekezdése a 22/2010. (III. 19.) KHEM rendelet 2. §-ával megállapított szöveg. A 13. § (2) bekezdés nyitó szövegrésze a 11/2011. (IV. 7.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^46]: A 13. § (2) bekezdés a) pontja a 11/2011. (IV. 7.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^47]: A 13. § (3a) bekezdését a 11/2011. (IV. 7.) NFM rendelet 9. § (3) bekezdése iktatta be.

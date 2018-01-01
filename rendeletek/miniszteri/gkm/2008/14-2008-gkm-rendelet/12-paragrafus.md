@@ -6,7 +6,7 @@ a) értékeli a csurgalékvíz-termelődés lehetőségét, beleértve a hullad�
 
 b) megelőzi vagy minimalizálja a csurgalékvíz termelődését, valamint a felszíni víz vagy a felszín alatti víz és a talaj hulladék általi szennyeződését,
 
-c) a hulladékkezelő létesítményben lévő szennyezett vizet és a csurgalékvizet a 4. §-ban és a 6. §-ban meghatározott bányafelügyeleti engedélyben rögzített kibocsátási követelményeknek megfelelően gyűjti és kezeli.
+c)[^43] a hulladékkezelő létesítményben lévő szennyezett vizet és a csurgalékvizet a 4. §-ban és a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet (a továbbiakban: Bt. Vhr.) 1/A. §-ában meghatározott bányafelügyeleti engedélyben rögzített kibocsátási követelményeknek megfelelően gyűjti és kezeli.
 
 (2) Az üzemeltető megteszi a megfelelő intézkedéseket a por- és gázkibocsátás megelőzésére vagy csökkentésére.
 
@@ -17,3 +17,5 @@ c) a hulladékkezelő létesítményben lévő szennyezett vizet és a csurgalé
 (5) Amikor a bányászati hulladékot a bezárás után elárasztandó bányatérségekbe helyezik vissza – tekintet nélkül arra, hogy a hulladék felszíni vagy felszín alatti kitermelés során keletkezett –, az üzemeltető megfelelő intézkedéseket hoz annak érdekében, hogy megakadályozza vagy minimálisra csökkentse a víz állapotának romlását, a talaj szennyezését az (1) és a (3) bekezdéssel összhangban, és erről tájékoztatja a bányafelügyeletet.
 
 (6) Cianidot tartalmazó tározó esetében az üzemeltető biztosítja, hogy a tározóban a gyenge sav hatására bomló cianid koncentrációját az elérhető legjobb technikákat használva a lehető legalacsonyabb szintre csökkenti, a dúsítási maradékok gyenge sav hatására bomló cianid koncentrációja a feldolgozóüzemből a tározóba bocsátáskor nem haladja meg a 10 ppm-et a 2008. május 1-je után kiadott engedéllyel rendelkező hulladéktároló létesítmények esetében. Az üzemeltető, ha a bányafelügyelet ezt elrendeli, a telep feltételeit figyelembe vevő kockázatfelméréssel bizonyítja, hogy ezeket a koncentráció-határértékeket nem szükséges tovább csökkenteni.
+
+[^43]: A 12. § (1) bekezdés c) pontja az 52/2017. (XII. 22.) NFM rendelet 7. §-ával megállapított szöveg.

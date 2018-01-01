@@ -6,7 +6,7 @@ a) az engedélyben megszabott vonatkozó feltételek teljesülnek,
 
 b) az üzemeltető kérelmére a bányafelügyelet erre engedélyt ad vagy
 
-c)[^43] a bányafelügyelet erre vonatkozóan ilyen értelmű határozatot hoz.
+c)[^42] a bányafelügyelet erre vonatkozóan ilyen értelmű határozatot hoz.
 
 (2) A hulladékkezelő létesítmény akkor tekinthető véglegesen bezártnak, ha a bányafelügyelet végrehajtotta az érintett szakhatóság bevonásával végső helyszíni vizsgálatát, kiértékelte az üzemeltető által benyújtott összes jelentést, megállapította, hogy a hulladékkezelő létesítmény által érintett területet rehabilitálták és közölte az üzemeltetővel, hogy jóváhagyja a bezárást. A jóváhagyás nem mentesíti az üzemeltetőt az engedélyezési feltételekben foglalt vagy egyéb jogszabályi kötelezettségei alól.
 
@@ -22,4 +22,4 @@ b) a túlfolyócsatornákat és a bukógátakat tisztán és szabadon tartsák.
 
 (6) A bányafelügyelet által meghatározott esetekben és gyakorisággal az üzemeltető az összegyűjtött adatok alapján jelentést készít az ellenőrzési eredményekről abból a célból, hogy bizonyítsa az engedélyezési feltételek betartását, valamint gyarapítsa a hulladék és a hulladékkezelő létesítmény viselkedésére vonatkozó ismereteket.
 
-[^43]: A 11. § (1) bekezdés c) pontja a 22/2010. (III. 19.) KHEM rendelet 6. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
+[^42]: A 11. § (1) bekezdés c) pontja a 22/2010. (III. 19.) KHEM rendelet 6. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.

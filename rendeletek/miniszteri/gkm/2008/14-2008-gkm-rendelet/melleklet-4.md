@@ -1,4 +1,4 @@
-4. melléklet a 14/2008. (IV. 3.) GKM rendelethez[^61]
+4. melléklet a 14/2008. (IV. 3.) GKM rendelethez[^63]
 
 ## A belső vészhelyzeti terv tartalmi követelményei
 
@@ -32,4 +32,4 @@
 
 a létesítmény egész területét és minden veszélyes létesítményét, valamint a veszélyeztetett területeket.
 
-[^61]: A 4. mellékletet a 11/2011. (IV. 7.) NFM rendelet 12. § (2) bekezdése iktatta be.
+[^63]: A 4. mellékletet a 11/2011. (IV. 7.) NFM rendelet 12. § (2) bekezdése iktatta be.

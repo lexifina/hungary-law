@@ -1,6 +1,6 @@
 ## A hulladékkezelő létesítmények építése és irányítása
 
-10. § (1)[^42] Az üzemeltető a hulladékkezelő létesítmény működésének irányítását kizárólag illetékes személy közreműködésével végezheti. Az üzemeltetőnek gondoskodnia kell a hulladékkezelő létesítmény üzemeltetésében résztvevők szakmai képzéséről, melynek keretében évente legalább egy alkalommal ismertetni kell a hulladékkezeléssel kapcsolatos jogszabályi és hatósági rendelkezéseket, valamint a súlyos balesetek és más üzemzavarok esetén szükséges intézkedéseket. Az oktatásról jegyzőkönyvet kell készíteni, amely tartalmazza a résztvevők nevét, aláírását, az oktatás időpontját, helyét és tematikáját.
+10. § (1)[^41] Az üzemeltető a hulladékkezelő létesítmény működésének irányítását kizárólag illetékes személy közreműködésével végezheti. Az üzemeltetőnek gondoskodnia kell a hulladékkezelő létesítmény üzemeltetésében résztvevők szakmai képzéséről, melynek keretében évente legalább egy alkalommal ismertetni kell a hulladékkezeléssel kapcsolatos jogszabályi és hatósági rendelkezéseket, valamint a súlyos balesetek és más üzemzavarok esetén szükséges intézkedéseket. Az oktatásról jegyzőkönyvet kell készíteni, amely tartalmazza a résztvevők nevét, aláírását, az oktatás időpontját, helyét és tematikáját.
 
 (2) A bányafelügyelet ellenőrzi, hogy új hulladékkezelő létesítmény építése vagy egy már meglévő átalakítása során az üzemeltető biztosítja a következőket:
 
@@ -26,4 +26,4 @@ e) megfelelő intézkedések születnek a hulladékkezelő létesítmény bezár
 
 (5) A bányafelügyelet által meghatározott gyakorisággal, de legalább évente egy alkalommal az üzemeltető az összegyűjtött adatok alapján jelentést készít a monitoring eredményekről a bányafelügyeletnek abból a célból, hogy információt szolgáltasson az engedélyezési feltételek betartásáról, valamint adatot szolgáltasson a létesítmény működéséről és a hulladék viselkedéséről. E jelentés alapján a bányafelügyelet dönthet úgy, hogy a jelentésnek egy független szakértő által készített megerősítése szükséges.
 
-[^42]: A 10. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 8. §-ával megállapított szöveg.
+[^41]: A 10. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 8. §-ával megállapított szöveg.

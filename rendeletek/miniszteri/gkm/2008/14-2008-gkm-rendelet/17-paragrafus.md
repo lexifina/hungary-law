@@ -8,13 +8,7 @@
 
 (3) A (2) bekezdés nem vonatkozik a 2008. május 1-jéig bezárt hulladékkezelő létesítményekre.
 
-(4) A 4. §, az 5. § (3)–(11) bekezdése, a 6. §, a 7. §, a 11. § (1) bekezdése és a 13. § (1)–(3) bekezdése nem alkalmazandóak azokra a hulladékkezelő létesítményekre, amelyek:
-
-a) 2006. május 1. előtt megszüntették a hulladékok befogadását,
-
-b) a bányafelügyelet engedélyének megfelelően teljesítik a bezárási eljárást, és
-
-c) ténylegesen bezárnak 2010. december 31-ig.
+(4)[^52] A 4. §, az 5. § (3)–(11) bekezdése, a 11. § (1) bekezdése és a 13. § (1)–(3) bekezdése nem alkalmazandóak azokra a hulladékkezelő létesítményekre, amelyek a bányafelügyelet engedélyének megfelelően teljesítik a bezárási eljárást.
 
 (5) A 12. § (6) bekezdésében foglalt előírást a 2008. május 1-jét megelőzően engedéllyel rendelkező vagy már működő létesítmények a következők szerint teljesítik:
 
@@ -24,12 +18,13 @@ b) ha a cianid koncentrációja nem haladja meg a 25 ppm-et, akkor 2013. május 
 
 c) ha a cianid koncentrációja nem haladja meg a 10 ppm-et, akkor 2018. május 1-jétől.
 
-(6)[^52] Magyarország képviseletében a bányafelügyelet bejelenti a (4) bekezdés szerinti létesítményeket az Európai Bizottságnak 2008. augusztus 1-jéig, továbbá gondoskodik arról, hogy e létesítmények kezelése ne veszélyeztesse e rendelet, különösen a 3. § (1) bekezdése céljainak és más környezetvédelmi jogszabályoknak a megvalósítását.
+(6)[^53] Magyarország képviseletében a bányafelügyelet bejelenti a (4) bekezdés szerinti létesítményeket az Európai Bizottságnak 2008. augusztus 1-jéig, továbbá gondoskodik arról, hogy e létesítmények kezelése ne veszélyeztesse e rendelet, különösen a 3. § (1) bekezdése céljainak és más környezetvédelmi jogszabályoknak a megvalósítását.
 
 (7) A 15. §-ban meghatározott nyilvántartást 2012. május 1-jéig kell elkészíteni és hozzáférhetővé tenni a nyilvánosság számára.
 
-(8)[^53] A Magyar Bányászati és Földtani Szolgálat közleményt jelentet meg az inert hulladéknak tekintendő bányászati hulladékok listájáról a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben.
+(8)[^54] A Magyar Bányászati és Földtani Szolgálat közleményt jelentet meg az inert hulladéknak tekintendő bányászati hulladékok listájáról a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben.
 
 [^51]: A 16. § a 11/2011. (IV. 7.) NFM rendelet 10. §-a szerint módosított szöveg.
-[^52]: A 17. § (6) bekezdése a 91/2011. (XII. 30.) NFM rendelet 59. §-a szerint módosított szöveg.
-[^53]: A 17. § (8) bekezdését a 22/2010. (III. 19.) KHEM rendelet 3. §-a iktatta be, szövege a 24/2017. (VI. 30.) NFM rendelet 6. §-a szerint módosított szöveg.
+[^52]: A 17. § (4) bekezdése az 52/2017. (XII. 22.) NFM rendelet 8. §-ával megállapított szöveg.
+[^53]: A 17. § (6) bekezdése a 91/2011. (XII. 30.) NFM rendelet 59. §-a szerint módosított szöveg.
+[^54]: A 17. § (8) bekezdését a 22/2010. (III. 19.) KHEM rendelet 3. §-a iktatta be, szövege a 24/2017. (VI. 30.) NFM rendelet 6. §-a szerint módosított szöveg.
