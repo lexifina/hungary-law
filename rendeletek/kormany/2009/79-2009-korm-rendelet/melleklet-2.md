@@ -1,133 +1,89 @@
 ## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyek és eljárások lefolytatására hatáskörrel rendelkező hatóságok
 
-|  | A | B | C | D | E |
+|  | A | B | C | D |
 
-| 1. | Projektelem, létesítmény | A létesítmény azonosító adatai | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
+| 1. | Projektelem, létesítmény | A létesítmény azonosító adatai | A beruházás megvalósításával kapcsolatos engedélyek | Eljáró hatóság |
 
 | 2. | 1. Hullámtéri rekonstrukciós beavatkozások |
 
-| 3. | bejáró utak-, belvízcsatorna-depóniák visszabontása, tereprendezés | Szolnok vasúti híd (340,00 fkm), Kisköre (401,6 fkm) közötti szakasz | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 3. | bejáró utak-, belvízcsatorna-depóniák visszabontása, tereprendezés | Szolnok vasúti híd (340,00 fkm), Kisköre (401,6 fkm) közötti szakasz | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 4. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 4. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
 | 5. | 2. Nyárigátak rendezése |
 
-| 6. | meglévő nyárigátak visszabontása, elbontása | Tiszaroff-felsőréti nyárigát | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 6. | meglévő nyárigátak visszabontása, elbontása | Tiszaroff-felsőréti nyárigát | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 7. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 8. | műtárgyak felújítása a nyárigátakon | Tiszaroff-felsőréti nyárigát | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 8. | műtárgyak felújítása a nyárigátakon | Tiszaroff-felsőréti nyárigát | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 9. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 10. | műtárgyak építése | Tiszasüly-Kőtelki nyárigát | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 10. | műtárgyak építése | Tiszasüly-Kőtelki nyárigát | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 11. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 11. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
 | 12. | 3. Övzátonyokkal kapcsolatos beavatkozások |
 
-| 13. | övzátonyok rendezése | 358,80-359,50 fkm 363,30-364,10 fkm 396,70-397,80 fkm 401,10-401,60 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 13. | övzátonyok rendezése | 358,80-359,50 fkm 363,30-364,10 fkm 396,70-397,80 fkm 401,10-401,60 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 14. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 14. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
 | 15. | 4. Folyószabályozási beavatkozások |
 
-| 16. | partbiztosítások | 358,90-359,70 fkm 363,50-364,70 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 16. | partbiztosítások | 358,90-359,70 fkm 363,50-364,70 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 17. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 17. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
 | 18. | 5. Árvízvédelmi fővédvonalakkal kapcsolatos beavatkozások |
 
-| 19. | meglévő árvízvédelmi fővédvonalak elbontása | Szajol 342,80-343,00 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 19. | meglévő árvízvédelmi fővédvonalak elbontása | Szajol 342,80-343,00 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 20. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 20. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 21. | Szórópuszta-Doba 350,00-354,30 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 21. | Szórópuszta-Doba 350,00-354,30 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 22. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 22. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 23. | Óballa 352,40-358,00 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 23. | Óballa 352,40-358,00 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 24. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 24. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 25. | új árvízvédelmi fővédvonalak építése | Szajol 342,80-343,00 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 25. | új árvízvédelmi fővédvonalak építése | Szajol 342,80-343,00 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 26. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 26. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 27. | Szórópuszta-Doba 350,00-354,30 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 27. | Szórópuszta-Doba 350,00-354,30 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 28. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 28. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 29. | Óballa 352,40-358,00 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 29. | Óballa 352,40-358,00 fkm | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 30. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 30. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
 | 31. | 6. A tározókkal kapcsolatos hullámtéri beavatkozások |
 
-| 32. | vízbevezető, illetve leeresztő csatorna | Tiszaroffi tározó | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 32. | vízbevezető, illetve leeresztő csatorna | Tiszaroffi tározó | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 33. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 33. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 34. | Nagykunsági tározó | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 34. | Nagykunsági tározó | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 35. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 35. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 36. | Hanyi-Tiszasülyi tározó | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 36. | Hanyi-Tiszasülyi tározó | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 37. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 37. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 38. | Nagykörűi tározó | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
+| 38. | Nagykörűi tározó | környezetvédelmi engedély | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala |
 
-| 39. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 39. | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
 | 40. | 7. Vízimunka, közlekedési korlátozás, rakodási tevékenység |
 
-| 41. | vízimunka, közlekedési korlátozás, rakodási tevékenység |  | hajózási hatósági engedélyek | Budapest Főváros Kormányhivatala | közlekedésért felelős miniszter |
+| 41. | vízimunka, közlekedési korlátozás, rakodási tevékenység |  | hajózási hatósági engedélyek | Budapest Főváros Kormányhivatala |
 
-2. számú melléklet a 79/2009. (IV. 8.) Korm. rendelethez[^8]
+2. számú melléklet a 79/2009. (IV. 8.) Korm. rendelethez[^9]
 
-A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
-
-|  | A | B | C |
-
-| 1. | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
-
-| 2. | építésügy | illetékes járási (fővárosi kerületi) hivatal | illetékes fővárosi és megyei kormányhivatal |
-
-| 3. | közlekedés: közút | illetékes járási (fővárosi kerületi) hivatal | illetékes fővárosi és megyei kormányhivatal |
-
-| 4. | közlekedés: vasút | közlekedésért felelős miniszter | nincs |
-
-| 5. | közlekedés: hajózás | Budapest Főváros Kormányhivatala | közlekedésért felelős miniszter |
-
-| 6. | légiközlekedés: polgári célú | közlekedésért felelős miniszter | nincs |
-
-| 7. | légiközlekedés állami célú | honvédelemért felelős miniszter | nincs |
-
-| 8. | földtan | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
-
-| 9. | bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
-
-| 10. | rendészet (rendőrség) gyorsforgalmi utak esetében | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
-
-| 11. | rendészet (rendőrség) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | illetékes megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
-
-| 12. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
-
-| 13. | honvédelem | honvédelemért felelős miniszter | nincs |
-
-| 14. | termőföldvédelem | illetékes járási hivatal | illetékes megyei kormányhivatal |
-
-| 15. | földművelésügy: talajvédelem | illetékes járási hivatal | illetékes megyei kormányhivatal |
-
-| 16. | földművelésügy: erdővédelem | illetékes járási hivatal | Pest Megyei Kormányhivatal |
-
-| 17. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
-
-| 18. | egészségügy | illetékes járási (fővárosi kerületi) hivatal | illetékes fővárosi és megyei kormányhivatal |
-
-| 19. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
-
-| 20. | műszaki biztonság | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
-
-[^8]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 11. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^9]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
