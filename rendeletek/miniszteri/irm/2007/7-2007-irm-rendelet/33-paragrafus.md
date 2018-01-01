@@ -1,12 +1,10 @@
-## 32. § A nukleáris és radioaktív anyagok hatósága jogosult helyszíni ellenőrzést végezni bármely szervezetnél, amennyiben valószínűsíthető, hogy az a jelen rendelet hatálya alá tartozó anyaggal rendelkezik vagy tevékenységet folytat. A helyszíni ellenőrzésen részt vehetnek a Nemzetközi Atomenergia Ügynökség ellenőrei. Az ilyen ellenőrzés célja kizárólag az lehet, hogy a kérdéses anyag, illetve tevékenység létét igazolja vagy kizárja.
+## 32. §[^42]
 
 ## Nemzetközi helyszíni ellenőrzés
 
-33. § (1)[^33] A Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben Magyarország által vállalt kötelezettségek teljesítésének igazolására a Nemzetközi Atomenergia Ügynökség ellenőrei jogosultak a nukleáris anyaggal rendelkező, illetve az adatszolgáltatásra kötelezett szervezetnél, valamint a telephely bármely részén helyszíni ellenőrzést tartani.
+33. § (1)–(2)[^43]
 
-(2)[^34] Az Euratom Szerződésben és az Euratom rendeletben előírt, valamint a Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben a nukleáris anyagok vonatkozásában Magyarország által vállalt kötelezettségek teljesítésének igazolására az Európai Bizottság ellenőrei jogosultak a nukleáris anyaggal rendelkező szervezetnél helyszíni ellenőrzést tartani.
-
-(3) Az (1) és (2) bekezdés szerinti nemzetközi helyszíni ellenőrzések terjedelmét és szabályait az Euratom Szerződés 77–85. cikke, a Biztosítéki Egyezmény 48., valamint 70–84. cikke, továbbá a Kiegészítő Jegyzőkönyv 4–9. cikke tartalmazza.
+(3)[^44] Az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII.4.) Korm. rendelet 5/G. § (1) és (2) bekezdés szerinti nemzetközi helyszíni ellenőrzések terjedelmét és szabályait az Euratom Szerződés 77–85. cikke, a Biztosítéki Egyezmény 48., valamint 70–84. cikke, továbbá a Kiegészítő Jegyzőkönyv 4–9. cikke tartalmazza.
 
 (4) Kölcsönös és haladéktalan tájékoztatás valósul meg a nukleáris és radioaktív anyagok hatósága és a nemzetközi ellenőrzés alá eső szervezet között:
 
@@ -14,9 +12,9 @@ a) amennyiben a nemzetközi ellenőrzést a Nemzetközi Atomenergia Ügynökség
 
 b) amennyiben a nemzetközi ellenőrzést a Nemzetközi Atomenergia Ügynökség, illetve az Európai Bizottság közvetlenül az ellenőrzött szervezetnél jelenti be, az érintett szervezet az ellenőrzés időpontjáról, helyszínéről és tárgyáról haladéktalanul tájékoztatja nukleáris és radioaktív anyagok hatóságát.
 
-(5) A nukleáris és radioaktív anyagok hatósága jogosult minden az (1) és (2) bekezdés szerinti nemzetközi helyszíni ellenőrzésen részt venni. Amennyiben a nukleáris és radioaktív anyagok hatósága a nemzetközi helyszíni ellenőrzésen való részvételi szándékát bejelenti, akkor a nemzetközi ellenőrzés a nukleáris és radioaktív anyagok hatóságának ellenőre megérkezéséig nem kezdhető meg.
+(5)–(6)[^45]
 
-(6) A nemzetközi ellenőrzésről jegyzőkönyvet kell felvenni. A jegyzőkönyvnek tartalmaznia kell az ellenőrzés helyét és időpontját, az ellenőrzésen részt vevők nevét, az ellenőrzési tevékenység leírását és eredményét, az észlelt hiányosságokat és az azok megszüntetésére tett intézkedéseket. Az ellenőrzési jegyzőkönyvet az ellenőrzött szervezet üzemeltetési feljegyzései részének kell tekinteni. Az ellenőrzési jegyzőkönyvek másolatát nukleáris és radioaktív anyagok hatósága részére haladéktalanul meg kell küldeni.
-
-[^33]: A 33. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.
-[^34]: A 33. § (2) bekezdése a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.
+[^42]: A 32. §-t az 52/2017. (XII. 22.) NFM rendelet 6. § k) pontja hatályon kívül helyezte.
+[^43]: A 33. § (1)–(2) bekezdését az 52/2017. (XII. 22.) NFM rendelet 6. § l) pontja hatályon kívül helyezte.
+[^44]: A 33. § (3) bekezdése az 52/2017. (XII. 22.) NFM rendelet 5. § b) pontja szerint módosított szöveg.
+[^45]: A 33. § (5)–(6) bekezdését az 52/2017. (XII. 22.) NFM rendelet 6. § l) pontja hatályon kívül helyezte.

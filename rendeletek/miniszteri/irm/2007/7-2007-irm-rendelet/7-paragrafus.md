@@ -2,7 +2,7 @@
 
 a) az 5. § (1), (2), (3) és (6) bekezdései szerinti kötelezettségeknek az Euratom rendelet 7–9. cikke szerinti nyilvántartás, illetve üzemeltetési feljegyzések vezetésével kell, hogy eleget tegyen;
 
-b) az 5. § (7) bekezdés szerinti fizikai leltár felvételének gyakoriságát és időpontját a nukleáris és radioaktív anyagok hatósága az Euratom rendelet 13. cikke szerinti leltározási kötelezettség figyelembevételével állapítja meg;
+b)[^18]
 
 c) az 5. § (8) bekezdése szerinti jelentési kötelezettségnek az Euratom rendelet 10–14. cikke szerinti nukleárisanyag-jelentéseknek a nukleáris és radioaktív anyagok hatósága számára történő egyidejű megküldésével kell, hogy eleget tegyen;
 
@@ -16,6 +16,7 @@ b) az 5. § (8) bekezdése szerinti jelentési kötelezettségének az a) pont s
 
 c) a 6. § (2) bekezdésének f) pontja szerinti üzemeltetési programot nem köteles elkészíteni.
 
-(3)[^13] Amennyiben a nukleáris és radioaktív anyagok hatósága az 5. § (8) bekezdése szerinti jelentéseket a központi nyilvántartás adatai alapján hibásnak minősíti, a hiba okát tisztázni kell. Amennyiben a jelentéstételre kötelezett szervezet észleli, hogy a közölt adatok nem felelnek meg a valóságnak, kiigazítási, illetőleg helyesbítési jelentést készít 5 napon belül.
+(3)[^19]
 
-[^13]: A 7. § (3) bekezdése a 40/2010. (XII. 31.) NFM rendelet 1. §-a szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^18]: A 7. § (1) bekezdés b) pontját az 52/2017. (XII. 22.) NFM rendelet 6. § d) pontja hatályon kívül helyezte.
+[^19]: A 7. § (3) bekezdését az 52/2017. (XII. 22.) NFM rendelet 6. § e) pontja hatályon kívül helyezte.
