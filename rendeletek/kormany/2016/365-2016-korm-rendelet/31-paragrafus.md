@@ -1,3 +1,6 @@
-## 30. § A Kormány Budapest Főváros Kormányhivatalának a közbiztonságra különösen veszélyes eszközök behozatalának engedélyezésével kapcsolatos eljárásában – annak elbírálása kérdésében, hogy a kérelemben megjelölt, közbiztonságra különösen veszélyes eszköz, annak behozatali céljára figyelemmel közbiztonsági kockázatot jelent-e – az Országos Rendőr-főkapitányságot szakhatóságként jelöli ki.
+## 26–30. §[^15]
 
-## 15. Budapest Főváros Kormányhivatala szakhatósági közreműködése
+## 15.[^16]
+
+[^15]: A 26–30. § a 457/2017. (XII. 28.) Korm. rendelet 583. § (6) bekezdése alapján hatályát vesztette, alkalmazására lásd e módosító rendelet 618. §-át.
+[^16]: A 15. alcímet (31. §–t) a 457/2017. (XII. 28.) Korm. rendelet 585. § c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

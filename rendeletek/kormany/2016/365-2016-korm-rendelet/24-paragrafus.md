@@ -22,4 +22,8 @@ kijelölésével és bejelentésével kapcsolatos feladatokat,
 
 f) ellátja a veszélyes áruk szállítására használt nyomástartó tartályok, tartányok vonatkozásában megfelelőségértékelési tevékenységet végző szervek kijelölésével kapcsolatos feladatokat,
 
-g) kezeli a hatósági jogkörének gyakorlásához szükséges adatokat, valamint e körben irányítja és összehangolja az információfeldolgozó, -elemző munkát.
+g) kezeli a hatósági jogkörének gyakorlásához szükséges adatokat, valamint e körben irányítja és összehangolja az információfeldolgozó, -elemző munkát,
+
+h)[^13] ellátja a fővárosi és megyei kormányhivatalok járási (fővárosi kerületi) hivatalának e rendelet szerinti feladatköreinek gyakorlásával összefüggésben a felügyeleti szerv feladatait.
+
+[^13]: A 24. § h) pontját a 457/2017. (XII. 28.) Korm. rendelet 583. § (5) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
