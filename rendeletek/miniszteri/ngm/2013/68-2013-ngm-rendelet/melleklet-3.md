@@ -1752,6 +1752,10 @@
 
 | 59d |  |  | Ide tartozik: - az önmagukról betegségük miatt otthonukban időlegesen gondoskodni nem képes demens személyek legfeljebb egyévi időtartamú, átmeneti jellegű teljes körű ellátásával, támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873014 szakfeladatot kell elszámolni. Nem ebbe a funkcióba tartozik: - időskorú személyek átmeneti ellátása (102023). Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
+| 59e |  | 102027 | Szakápolási központ |
+
+| 59f |  |  | Ide tartozik: – a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben meghatározott szakápolási központ keretében ellátott feladatok, kifizetések teljesítése. |
+
 | 60 |  | 102031 | Idősek nappali ellátása |
 
 | 61 |  |  | Ide tartozik: - a saját otthonukban élő, idős koruk miatt szociális és mentális támogatásra szoruló, önmagukról való gondoskodásra részben képes személyek intézményi napközbeni ellátásával, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 881011 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
@@ -1792,23 +1796,23 @@
 
 | 75 |  |  | Ide tartozik: - a javítóintézetben elhelyezettek ellátásával összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 879020 szakfeladaton el kell számolni. Feladatmutató: ellátási napok száma a tárgyévben (ellátási nap) |
 
-| 76 |  | 104030 | Gyermekek napközbeni ellátása |
+| 76 |  | 104030 | Gyermekek napközbeni ellátása családi bölcsőde, munkahelyi bölcsőde, napközbeni gyermekfelügyelet vagy alternatív napközbeni ellátás útján |
 
-| 77 |  |  | Ide tartozik: - a családi napközibe felvettek ellátásával, a házi gyermekfelügyeletben részesülők ellátásával, a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal, valamint - a családi napközi alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszóházzal, baba-mama klubbal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Nem itt kell elszámolni: - a bölcsődei ellátásokkal kapcsolatos feladatok ellátását (104031) - a gyermekétkeztetéssel kapcsolatos feladatok bevételeit és kiadásait. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében 889102 szakfeladatokon kell elszámolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 77 |  |  | Ide tartozik: – a bölcsődei ellátások közül a családi bölcsődével és a munkahelyi bölcsődével, a napközbeni gyermekfelügyeletben részesülők ellátásával, valamint a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal összefüggő feladatok ellátása, kifizetések teljesítése. Nem itt kell elszámolni: – a bölcsődei ellátások közül a bölcsőde és mini bölcsőde szervezeti keretei között megvalósuló feladatok ellátását (104031), – a gyermekétkeztetéssel kapcsolatos feladatok bevételeit és kiadásait. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében 889101 és 889102 szakfeladatokon kell elszámolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
-| 77a |  | 104031 | Gyermekek bölcsődei ellátása |
+| 77a |  | 104031 | Gyermekek bölcsődében és mini bölcsődében történő ellátása |
 
-| 77b |  |  | Ide tartozik: - a bölcsődei feladatok ellátásával, valamint - a bölcsőde alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszóházzal, baba-mama klubbal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Nem itt kell elszámolni: - a bölcsődei gyermekétkeztetéssel kapcsolatos feladatok bevételeit és kiadásait (104035). Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében 889101 szakfeladatokon kell elszámolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 77b |  |  | Ide tartozik: – a bölcsődei feladatok ellátásával, valamint – a bölcsőde alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszócsoporttal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése, amennyiben a fenti feladatok bölcsőde vagy mini bölcsőde keretei között kerül megvalósításra. Nem itt kell elszámolni: – a bölcsődei ellátások közül a családi bölcsőde és munkahelyi bölcsőde szervezeti keretek között megvalósuló feladatok ellátását (104030), – a bölcsődei gyermekétkeztetéssel kapcsolatos feladatok bevételeit és kiadásait (104035). Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében 889101 szakfeladatokon kell elszámolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
-| 77c |  | 104035 | Gyermekétkeztetés bölcsődésben, fogyatékosok nappali intézményében |
+| 77c |  | 104035 | Gyermekétkeztetés bölcsődében, fogyatékosok nappali intézményében |
 
-| 77d |  |  | Ide tartozik: - a bölcsődei ellátottak és a fogyatékosok nappali intézményében elhelyezett gyermekek részére nyújtott gyermekétkeztetéssel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 889103 szakfeladaton kell elszámolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 77d |  |  | Ide tartozik: – a bölcsődei ellátottak és a fogyatékosok nappali intézményében elhelyezett gyermekek részére nyújtott gyermekétkeztetéssel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 889103 szakfeladaton kell elszámolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
-| 77e |  | 104036 Munkahelyi étkeztetés bölcsődében |
+| 77e |  | 104036 | Munkahelyi étkeztetés gyermekek napközbeni ellátását biztosító intézményben |
 
-| 77f |  |  | Ide tartozik: - a bölcsődei ellátással, a családi napközibe felvettek ellátásával, a házi gyermekfelügyeletben részesülők ellátásával, a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal, valamint - a bölcsőde és a családi napközi alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszóházzal, baba-mama klubbal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 562917 szakfeladaton kell elszámolni. |
+| 77f |  |  | Ide tartozik: – a gyermekek napközbeni ellátását biztosító intézményben dolgozók és más munkavállalók részére biztosított étkezéssel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 562917 szakfeladaton kell elszámolni. |
 
-| 77g |  | 104037 Intézményen kívüli gyermekétkeztetés |
+| 77g |  | 104037 | Intézményen kívüli gyermekétkeztetés |
 
 | 77h |  |  | Ide tartozik: - a rászoruló gyermekek intézményen kívüli szünidei étkeztetésének biztosításával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 562918 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
