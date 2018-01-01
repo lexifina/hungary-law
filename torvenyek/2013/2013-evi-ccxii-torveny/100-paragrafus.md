@@ -58,7 +58,7 @@ ca) az üzemközpont fekvése szerinti ingatlan helyrajzi számát, a fekvése s
 
 cb) azt, hogy a földművesnek, illetve a mezőgazdasági termelőszervezetnek az ingatlanon tulajdonjoga, haszonélvezeti joga, vagyonkezelői joga, vagy használati joga áll fenn, és
 
-cc) a cb) alpont szerinti jogosultság megszerzésének kezdő időpontját.
+cc)
 
 (4) A nyilvántartásba bejegyzett természetes személy és gazdálkodó szervezet azonosításához a mezőgazdasági igazgatási szerv jogosult kezelni
 

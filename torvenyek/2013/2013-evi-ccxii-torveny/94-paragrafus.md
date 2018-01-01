@@ -10,7 +10,9 @@ bb) lakcímét,
 
 bc) állampolgárságát,
 
-bd) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek esetében a személyi azonosítóját;
+bd) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek esetében a személyi azonosítóját,
+
+be) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá nem tartozó természetes személyek esetében a belső egyedi azonosítóját;
 
 c) a földrészlet (alrészlet) vagy földrészletek gazdálkodó szervezet földhasználójának
 

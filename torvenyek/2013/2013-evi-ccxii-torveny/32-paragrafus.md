@@ -17,3 +17,5 @@ b) az eredeti vagy közjegyző által hitelesített aláírási címpéldányt.
 (4) Ha a jogügylet jóváhagyásához szükséges adatokat a cégnyilvántartás, az egyéni vállalkozók nyilvántartása, továbbá a 29. § (1) bekezdésében meghatározott valamely nyilvántartás tartalmazza és ezen adatok a nyilvántartásban elektronikus formában állnak rendelkezésre, a mezőgazdasági igazgatási szerv azokat elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
 (5) A szerző fél köteles a Földforgalmi törvényben meghatározott, a tulajdonszerzési jogosultság fennállásához, valamint a jogügylet jóváhagyásához szükséges adatokban az eljárás alatt bekövetkező változásokról a mezőgazdasági igazgatási szervet tájékoztatni, és az azokat igazoló dokumentumokat a mezőgazdasági igazgatási szerv rendelkezésére bocsátani.
+
+(6) Az elővásárlási és az előhaszonbérleti jogosultságot bizonyító okiratok az ügyfél nyilatkozatával nem pótolhatóak.

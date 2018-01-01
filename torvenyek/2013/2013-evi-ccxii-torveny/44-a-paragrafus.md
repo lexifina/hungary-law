@@ -1,6 +1,6 @@
 ## 9/A. A biztonsági okmánnyal összefüggő kötelezettségek ellenőrzése
 
-44/A. § (1) A mezőgazdasági igazgatási szerv ellenőrzi a föld tulajdonjogának átruházására, vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására szolgáló biztonsági okmánnyal összefüggő kötelezettségek betartását a biztonsági okmányt kezelő közjegyzőnél, ügyvédnél vagy annál a szervezetnél, amelynél a jogtanácsos működik (e § alkalmazásában a továbbiakban együtt: felhasználó).
+44/A. § (1) A mezőgazdasági igazgatási szerv ellenőrzi a föld tulajdonjogának átruházására, vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására szolgáló biztonsági okmánnyal összefüggő kötelezettségek betartását a biztonsági okmányt kezelő közjegyzőnél, ügyvédnél vagy annál a szervezetnél, amelynél a kamarai jogtanácsos működik (e § alkalmazásában a továbbiakban együtt: felhasználó).
 
 (2) A mezőgazdasági igazgatási szerv a felhasználót a biztonsági okmány kezelésével, felhasználásával, visszaszolgáltatásával kapcsolatos kötelezettségeinek megsértése esetén bírsággal sújtja, vagy figyelmeztetésben részesíti, egyidejűleg felhívja a jogsértő állapot megszüntetésére.
 

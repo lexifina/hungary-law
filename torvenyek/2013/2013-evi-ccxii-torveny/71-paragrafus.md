@@ -38,6 +38,8 @@ b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogu
 
 (9) A használati megosztásról szóló megállapodásban részes tulajdonostársaknak az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott – 30 napnál nem régebbi – hiteles szemle másolaton egyértelmű jelzéssel, a használati megosztásról szóló megállapodásnak megfelelően, azzal azonosítható módon ábrázolni kell az egyes tulajdonostársak részére kijelölt területet. A térképi kimutatást a használati megállapodásban részes tulajdonostársaknak alá kell írni.
 
+(9a) Erdőnek minősülő földre kötött használati megosztásról szóló megállapodás esetében a (9) bekezdés szerinti térképi kimutatás alatt az erdészeti hatóság által kiadott, 30 napnál nem régebbi erdészeti térkép felhasználásával, jogosult erdészeti szakszemélyzet által készített, külön jogszabályban meghatározott erdészeti térképi mellékletet kell érteni.
+
 (10) Nem kell térképi kimutatást készíteni, ha a használati megosztásról szóló megállapodás alapján
 
 a) egy tulajdonostárs használja a föld teljes területét, vagy

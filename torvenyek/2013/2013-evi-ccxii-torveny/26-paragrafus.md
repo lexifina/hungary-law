@@ -1,3 +1,11 @@
-26. § (1) A földhasználót a más használatában levő ingatlanon öntözési szolgalom illeti meg, ha mezőgazdasági tevékenysége folytatásához szükséges öntözés érdekében a víz odajuttatását, szétosztását, illetve annak elvezetését másként nem, vagy csak aránytalanul nagy nehézséggel vagy költséggel lehetne biztosítani.
+26. § (1) Öntözési célt szolgáló vízilétesítmény megvalósításához az érintett földrészlet vonatkozásában haszonélvezeti jog fennállása esetén a haszonélvezőnek, ennek hiányában a tulajdonosnak, állami tulajdonban álló ingatlan esetében az ingatlan-nyilvántartásba bejegyzett vagyonkezelőnek, vagyonkezelői jog fennállása hiányában a tulajdonosi joggyakorló szervezetnek a hozzájárulása szükséges.
 
-(2) Az öntözési szolgalom úgy gyakorolható, hogy az ne akadályozza, aránytalanul ne nehezítse a szolgalmi joggal terhelt föld művelési ágának megfelelő használatát, hasznosítását.
+(2) Ha a földrészlet közös tulajdonban áll, a hozzájáruláshoz a 71. § (3) és (4) bekezdésének alkalmazásával
+
+a) földfelszín alatt vezetett vízilétesítmény esetében az érintett személyek tulajdoni hányad alapján számított többségi,
+
+b) földfelszín felett vezetett vízilétesítmény esetében az érintett személyek egyhangú
+
+döntése szükséges.
+
+(3) A földhasználót a más használatában levő ingatlanon – a mezőgazdasági tevékenysége folytatásához szükséges öntözés érdekében, amennyiben az másként nem, vagy csak aránytalanul nagy nehézséggel vagy költséggel biztosítható – a víz odajutását, szétosztását és elvezetését biztosító öntözési szolgalom illeti meg, amely úgy gyakorolható, hogy az ne akadályozza, aránytalanul ne nehezítse a szolgalmi joggal terhelt föld művelési ágának megfelelő használatát, hasznosítását.

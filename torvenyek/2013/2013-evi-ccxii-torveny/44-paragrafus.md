@@ -2,4 +2,4 @@
 
 (2) Az eljárás a bíróság, vagy közjegyző megkeresésének a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik.
 
-(3) Az eljárás ügyintézési határideje 30 nap.
+(3)

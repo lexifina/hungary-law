@@ -24,7 +24,7 @@ elektronikus dokumentumként elektronikusan feldolgozható formában adatot szol
 
 (1d) Az egyedi megállapodásnak tartalmaznia kell az adatfeldolgozási tevékenység meghatározását, az elektronikus dokumentum adattartalmát, formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve az ingyenességét.
 
-(2) A földhasználati nyilvántartás adatbázisából a földhasználó által az ország területén használt valamennyi földterület területnagyságát és AK–értékét, valamint a földhasználat jogcímét tartalmazó földhasználati összesítő állítható ki a nyilvántartásnak a 94. § (1) bekezdés b) pont bd) alpontjában, valamint c) pont cc) és cd) alpontjában foglalt azonosító adatai alapján.
+(2) A földhasználati nyilvántartás adatbázisából a földhasználó által az ország területén használt valamennyi földterület területnagyságát és AK-értékét, valamint a földhasználat jogcímét tartalmazó földhasználati összesítő állítható ki a nyilvántartásnak a 94. § (1) bekezdés b) pont ba), bd) és be) alpontjában, valamint c) pont ca), cc) és cd) alpontjában foglalt azonosító adatai alapján.
 
 (3) A földhasználati lap másolat szolgáltatását bárki igényelheti.
 

@@ -18,9 +18,9 @@ c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatároz
 
 (6) A földhasználati nyilvántartási eljárás – a 95/A. § (1) bekezdése szerinti eljárás kivételével – a (2) és (5) bekezdésben meghatározott földhasználati bejelentési és a változás-bejelentési (a továbbiakban együtt: bejelentési) adatlapnak, valamint a (3) bekezdésben meghatározott okiratoknak az ingatlanügyi hatósághoz való benyújtásával indul meg.
 
-(7)
+(7) A földhasználati nyilvántartási eljárásokban sommás eljárásnak nincs helye.
 
-(8) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával írásban felszólítja a bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság földhasználati bírsággal sújtja, aminek mértéke a föld ingatlan-nyilvántartás szerinti aranykorona (a továbbiakban: AK) értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás legkisebb összegénél.
+(8) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával írásban felszólítja a bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság földhasználati bírsággal sújtja, aminek mértéke a föld ingatlan-nyilvántartás szerinti aranykorona (a továbbiakban: AK) értékének ezerszerese, azzal, hogy a bírság összege nem lehet kevesebb tízezer forintnál.
 
 (9) A föld elkülönített közös használata esetében, illetve a közös tulajdonban álló föld esetében a (8) bekezdés szerinti bírság megfizetésére a mulasztó földhasználók, illetve a tulajdonostársak egyetemlegesen kötelezhetők.
 
