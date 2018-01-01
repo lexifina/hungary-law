@@ -2,4 +2,4 @@
 
 (2) A szakértő kirendelésének költségeit a kérelmező viseli, ideértve azt az esetet is, ha – tekintettel a 3. § (4) bekezdésére – a szakértő a szakvélemény elkészítéséhez szükséges vizsgálatot nem tudta lefolytatni.
 
-(3) A kirendelt szakértőre a Pp. 185. §-ának (2)–(4) bekezdéseit megfelelően alkalmazni kell.
+(3) A kirendelt szakértőre a Pp. a közreműködőkkel szemben alkalmazható kényszerítő eszközökre és a kirendelt szakértő díjának a csökkentésére irányadó szabályait megfelelően alkalmazni kell.

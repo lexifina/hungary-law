@@ -8,4 +8,4 @@
 
 (5) A szakértő kirendelésére irányuló eljárás nemperes eljárás, amelyben bizonyításnak, felfüggesztésnek és szünetelésnek nincs helye.
 
-(6) Azokra az eljárási kérdésekre, amelyeket ez a törvény nem szabályoz, a Polgári Perrendtartásról szóló 1952. évi III. törvény (Pp.) szabályai – a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadók.
+(6) Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.

@@ -6,4 +6,4 @@
 
 (4) A szakvéleményhez szükséges vizsgálat tűrésére senki nem kötelezhető.
 
-(5) A bíróságnak a kérelmet elutasító végzése ellen a kérelmező fellebbezhet. A kérelemnek helyt adó végzés ellen nincs helye fellebbezésnek.
+(5) A kérelemnek helyt adó végzés ellen nincs helye fellebbezésnek.
