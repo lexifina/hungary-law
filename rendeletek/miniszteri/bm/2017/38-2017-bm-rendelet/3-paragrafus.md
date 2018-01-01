@@ -1,0 +1,1 @@
+## „(1a) A bevándorolt vagy letelepedett jogállással rendelkező személy az állandó tartózkodási kártya kiállítása iránti kérelmet a 3. melléklet II. pontjában meghatározott formanyomtatványon nyújthatja be, amelyhez csatolni kell egy darab arcfényképet. A kérelmet saját kezűleg alá kell írni. A cselekvőképtelen személy kérelmét a törvényes képviselő írja alá.”
