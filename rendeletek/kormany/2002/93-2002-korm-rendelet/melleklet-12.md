@@ -1,4 +1,4 @@
-12. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^202]
+12. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^209]
 
 ## ADATLAP a szakmai szervezeti minősítési eljárás iránti kérelemhez
 
@@ -34,11 +34,13 @@ m) bejelentő gazdálkodó levelezési címe,1
 
 n) bejelentő gazdálkodó felelős vezetőjének neve.[^1.]
 
-2. Nyilatkozat:
+2. Nyilatkozatok:
 
-a) Kijelentem, hogy a fenti kérelemben, valamint mellékleteiben szereplő adatok a valóságnak megfelelnek. A szakmai szervezet megfelel a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet (a továbbiakban: Rendelet) 10/B. § (8), illetve (8a) bekezdésében foglalt feltételeknek.
+a) „Kijelentem, hogy szakmai szervezetünk által a fenti kérelemben feltüntetett adatok a valóságnak megfelelnek.”
 
-b) Kijelentem, hogy minden továbbképzési év tekintetében a nyilvántartásba vételt végző szervezet részére a szakmai szervezet az érintettek kifejezett hozzájárulása esetén megküldi azon továbbképzésre kötelezett személyek Rendeletben meghatározott adatait, akik a továbbképzési évben 3 hónapot meghaladóan, és a továbbképzési év utolsó napjáig a szervezet tagjaként jogosult volt szervezetünk szervezésében szakmai konzultáción, képzésen vagy egyéb szakmai rendezvényen részt venni.
+b) „Kijelentem, hogy a szakmai szervezetünk megfelel a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet (a továbbiakban: Rendelet) 10/B. § (8), illetve (8a) bekezdésében foglalt feltételeknek.”
+
+c) „Kijelentem, hogy szakmai szervezetünk minden továbbképzési év tekintetében a nyilvántartásba vételt végző szervezet részére az érintettek kifejezett hozzájárulása esetén megküldi azon továbbképzésre kötelezett személyek Rendeletben meghatározott adatait, akik a továbbképzési évben 3 hónapot meghaladóan, és a továbbképzési év utolsó napjáig a szervezet tagjaként jogosultak voltak szervezetünk szervezésében szakmai konzultáción, képzésen vagy egyéb szakmai rendezvényen részt venni.”
 
 3. Dátum
 
@@ -46,5 +48,5 @@ b) Kijelentem, hogy minden továbbképzési év tekintetében a nyilvántartásb
 
 5. Cégszerű aláírás
 
-[^202]: A 12. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 226/2013. (VI. 24.) Korm. rendelet 8. § (4) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 85. § (4) bekezdése szerint módosított szöveg.
+[^209]: A 12. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 226/2013. (VI. 24.) Korm. rendelet 8. § (4) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 85. § (4) bekezdése, a 445/2017. (XII. 27.) Korm. rendelet 23. § 4. pontja szerint módosított szöveg.
 [^1.]: A Rendelet 10/B. § (8a) bekezdése szerinti szakmai szervezeti minősítési eljárás esetén alkalmazandó.

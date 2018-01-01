@@ -1,71 +1,91 @@
-10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^198]
+10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^205]
 
 ADATLAP
 
-a könyvviteli szolgáltatást végzők továbbképzésének szervezésére és lebonyolítására akkreditált szervezetek részére a továbbképzési programok kreditpont-minősítési és egyszerűsített kreditpont-minősítési eljárása iránti kérelemhez
+a könyvviteli szolgáltatást végzők továbbképzésének szervezésére és lebonyolítására akkreditált szervezetek részére a továbbképzési programok kreditpont-minősítési eljárása iránti kérelemhez
 
 Az adatlap kötelező tartalmi elemei a következők:
 
-1. A továbbképzési program minősítéséhez az adatlapon kötelezően szükséges megadni a következő adatokat:
+1. Az akkreditált szervezet
 
-a) akkreditált szervezet neve,
+a) neve,
 
-b) akkreditált szervezet székhelye,
+b) székhelye,
 
-c) akkreditált szervezet levelezési címe,
+c) levelezési címe,
 
-d) akkreditált szervezet akkreditációs száma,
+d) akkreditációs száma,
 
-e) akkreditált szervezet cégjegyzékszáma, a szervezet adószáma,
+e) cégjegyzékszáma, adószáma,
 
-f) akkreditált szervezet honlapjának címe,
+f) honlapjának címe,
 
-g) akkreditált szervezet hivatalos képviselőjének neve, beosztása, telefonszáma, faxszáma, elektronikus elérhetősége,
+g) hivatalos képviselőjének neve, beosztása, telefonszáma, faxszáma, elektronikus elérhetősége,
 
-h) akkreditált szervezet által vállalt továbbképzési program bemutatása legalább 1500, legfeljebb 6000 karakter terjedelemben (címe, elszámolhatóság kérelmezett időszaka, időtartama percben szünetek nélkül, szakmai tartalma, tematikája),1
+h) által a továbbképzéssel összefüggő kapcsolattartásra kijelölt személy vagy oktatásszervező neve, beosztása, telefonszáma, faxszáma, elektronikus elérhetősége.
 
-i) akkreditált szervezet által a továbbképzés résztvevői számára biztosított információs anyag bemutatása (amennyiben vállalja ilyen információs anyag biztosítását a továbbképzésen),
+2. Az akkreditált szervezet által minősítésre benyújtott továbbképzési program
 
-j) a szakterület és témakör megnevezése, amelyen az akkreditált szervezet kéri a továbbképzési program minősítését,[^1.]
+a) címe,
 
-k) akkreditált szervezet által vállalt, már minősített továbbképzési program címe és a minősítéskor kapott azonosítója.2
+b) szakterülete [vállalkozási, államháztartási, pénzügyi, egyéb szervezeti (nonprofit), IFRS],
 
-l) akkreditált szervezet által a továbbképzéssel összefüggő kapcsolattartásra kijelölt személy vagy oktatásszervező neve, beosztása, telefonszáma, faxszáma, elektronikus elérhetősége,
+c) témaköre (számvitel, nem számvitel),
 
-m) elektronikus képzési formában tervezett megvalósítása esetén a technikai hátteret bemutató leírás (ideértve a képzés elektronikus rendszerének bemutatását, elérésének helyét, megvalósításának módját, a naplózást, ellenőrzés módszerét, igazolás kiállítását, a nyilvántartásba vételt végző szervezet tájékoztatásának módját stb.),
+d) továbbképzési formája (előadás, e-learning, online),
 
-n) akkreditált szervezet által vállalt továbbképzési program oktatóinak név szerinti felsorolása.
+e) időtartama (percben, szünetek nélkül),
 
-2. Nyilatkozatok:
+f) elszámolhatóságának kérelmezett időszaka,
+
+g) jellege (gyakorlati, elméleti),
+
+h) kapcsolódó információs segédanyagának bemutatása (amennyiben az akkreditált szervezet vállalja ilyen információs anyag biztosítását a továbbképzésen),
+
+i) oktatóinak név szerinti felsorolása,
+
+j) szakmai tartalmának, tematikájának bemutatása (legalább 2000, legfeljebb 12 000 karakter terjedelemben),
+
+k) elektronikus képzés esetén a technikai hátteret bemutató leírás (ideértve a képzés elektronikus rendszerének bemutatását, elérésének helyét, megvalósításának módját, a naplózást, ellenőrzés módszerét, igazolás kiállítását, a nyilvántartásba vételt végző szervezet tájékoztatásának módját stb.).
+
+3. Nyilatkozatok:
 
 a) „Hozzájárulok ahhoz, hogy a nyilvántartásba vételt végző szervezet a kérelemben foglalt adatokat a hatályos jogszabályoknak megfelelően kezelje és az egységes Kormányzati Portálon közzétegye.”
 
-b) „Kijelentem, hogy
+b) „Vállalom, hogy akkreditált szervezetünk
 
-– a fenti kérelemben, valamint mellékleteiben szereplő adatok megfelelnek a valóságnak;
+– a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet
 
-– akkreditált szervezetünk nem áll csőd-, felszámolási eljárás vagy végelszámolás alatt;
+(a továbbiakban: Rendelet) 10/G. §-ában előírt továbbképzéssel kapcsolatos kötelezettségeit teljesíti,
 
-– a fenti kérelemhez csatolt már minősített továbbképzési programot változatlan formában és tartalommal nyújtottuk be, amelynek felhasználási jogát igazoló, ……………………………………………… akkreditált szervezettel kötött megállapodást jelen kérelemhez csatoltuk.[^2”]
+– kizárólag a kreditpontra minősített, a 2. pontban (a továbbképzési program bemutatása) foglaltak szerint lebonyolított továbbképzési program teljesítése esetén adja ki a nyilvántartásba vételt végző szervezet által meghatározott kreditpontról szóló igazolást a továbbképzésben részt vevőknek,
 
-c) „Vállalom, hogy akkreditált szervezetünk a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet (a továbbiakban: Rendelet) 10/G. §-ában előírt továbbképzéssel kapcsolatos kötelezettségeit teljesíti.”
+– amennyiben a fenti kérelem tartalmában változás következik be, vagy ha akkreditált szervezetünk a továbbiakban nem felel meg a Rendeletben meghatározott követelményeknek, azt haladéktalanul bejelenti a nyilvántartásba vételt végző szervezetnek.”
 
-d) „Kijelentem, hogy az akkreditált szervezetünk Rendelet alapján nyilvántartott adataiban az akkreditációs eljárás befejezése, illetve a legutóbb bejelentett adatváltozás óta nem történt változás.”
+c) „Kijelentem, hogy akkreditált szervezetünk
 
-e) „Kijelentem továbbá, hogy akkreditált szervezetünk
+– létesítő okirata alapján a felnőttek szakmai oktatására irányuló oktatási, képzési, oktatásszervezési tevékenységet folytat,
 
-– a létesítő okirata alapján a felnőttek szakmai oktatására irányuló oktatási, képzési, oktatásszervezési tevékenységet folytat,
+– teljeskörűen megfelel a Rendeletben foglalt továbbképzéssel kapcsolatos követelményeknek,
+
+– által a fenti kérelemben feltüntetett, valamint a Rendelet szerinti feltételeket igazoló adatok megfelelnek a valóságnak,
+
+– nem áll csőd-, felszámolási, kényszertörlési eljárás vagy végelszámolás alatt,
+
+– jelen nyilatkozattétel időpontjában köztartozásmentes adózónak minősül az adózás rendjéről szóló törvény szerint,
 
 – megfelel a számvitelről szóló 2000. évi C. törvény 152. § (2a) és (2b) bekezdésében meghatározott követelményeknek, valamint
 
-– jelen nyilatkozattétel időpontjában az adózás rendjéről szóló 2003. évi XCII. törvény 178. §-ának 32. pontja szerint köztartozásmentes adózónak minősül.”
+– Rendelet alapján nyilvántartott adataiban az akkreditációs eljárás befejezése, illetve a legutóbb bejelentett adatváltozás óta nem történt változás.”
 
-3. Dátum
+d) „Kijelentem, hogy akkreditált szervezetünk a Rendelet 10/D. § (2a) bekezdésében meghatározott feltételeket a ........................................................................................ című, ...... év .................... hónap ...... napján benyújtott kreditpont-minősítési kérelem benyújtása során igazolta, azok tartalma a benyújtás óta nem változott.”
 
-4. Bélyegző
+e) „Kijelentem, hogy akkreditált szervezetünk elektronikus továbbképzési rendszere – a továbbképzési program elektronikus továbbképzési formában tervezett megvalósítása esetén – teljeskörűen megfelel a Rendelet 10/E. § (4) bekezdésében foglalt feltételeknek.”
 
-5. Cégszerű aláírás
+4. Dátum
 
-[^198]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 226/2013. (VI. 24.) Korm. rendelet 11. § c) pontja, a 362/2014. (XII. 30.) Korm. rendelet 49. § (6) bekezdése, a 484/2015. (XII. 29.) Korm. rendelet 85. § (3) bekezdése szerint módosított szöveg.
-[^1.]: Kreditpont-minősítési eljárás esetén kell megadni.
-[^2”]: Egyszerűsített kreditpont-minősítési eljárás során kell megadni.
+5. Bélyegző
+
+6. Cégszerű aláírás
+
+[^205]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 23. § 3. pontjával megállapított szöveg.
