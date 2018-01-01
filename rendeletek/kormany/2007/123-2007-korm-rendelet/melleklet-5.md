@@ -52,7 +52,7 @@
 
 ## cégszerű aláírás
 
-5. számú melléklet a 123/2007. (V. 31.) Korm. rendelethez[^33]
+5. számú melléklet a 123/2007. (V. 31.) Korm. rendelethez[^34]
 
 A fogyatékosság igazolása
 
@@ -66,4 +66,4 @@ A rendelet alapján a fogyatékkal élő felnőttek képzéséhez nyújtható no
 
 – beszéd- és más fogyatékkal élő felnőttek esetében a területileg illetékes szakintézet szakorvosa/szakfőorvosa.
 
-[^33]: Az 5. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 97. §-a szerint módosított szöveg.
+[^34]: Az 5. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 97. §-a szerint módosított szöveg.
