@@ -1,5 +1,8 @@
-8/A. §[^6] (1) Az 5. § (1) bekezdése szerinti oktató esetében a szakmai képzés igazolásának minősül az is, ha a képző intézmény nyilatkozik (ideértve a képzési programról vezetett nyilvántartásba vételi kérelmet is) arról, hogy az oktató a szakmai képzésben oktatóként közreműködött. A szakmai képzésben való oktatókénti közreműködés a közvetítő továbbképzési időszaka alatt a 7. § (2) bekezdés a) és b) pontjainak megfelelő alkalmazásával 10-10 kreditpont megszerzésének minősül.
+## 8. §[^4]
 
-(2) A felsőoktatási intézmény oktatási alaptevékenysége keretében közvetítést oktató, vagy a közvetítés jogintézményével kapcsolatos tudományos fokozatot megszerző személy e tevékenységének a miniszter számára történő bemutatásával is igazolhatja szakmai képzettségét. A felsőfokú oktatási intézményben történő oktatás a közvetítő továbbképzési időszaka alatt a 7. § (2) bekezdés a) és b) pontjainak megfelelő alkalmazásával 10-10 kreditpont megszerzésének minősül. A közvetítés jogintézményével kapcsolatos tudományos fokozatszerzés a közvetítő továbbképzési időszaka alatt 50 kreditpont megszerzésének minősül.
+8/A. §[^5] (1) A szakmai képzésben való oktatókénti közreműködés a közvetítő továbbképzési időszaka alatt a 7. § (2) bekezdés a) és b) pontjainak megfelelő alkalmazásával 10-10 kreditpont megszerzésének minősül.
 
-[^6]: A 8/A. §-t a 21/2014. (III. 13.) KIM rendelet 23. § (1) bekezdése iktatta be.
+(2) A felsőfokú oktatási intézményben történő oktatás a közvetítő továbbképzési időszaka alatt a 7. § (2) bekezdés a) és b) pontjainak megfelelő alkalmazásával 10-10 kreditpont megszerzésének minősül. A közvetítés jogintézményével kapcsolatos tudományos fokozatszerzés a közvetítő továbbképzési időszaka alatt 50 kreditpont megszerzésének minősül.
+
+[^4]: A 8. §-t a 20/2017. (XII. 21.) IM rendelet 29. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^5]: A 8/A. §-t a 21/2014. (III. 13.) KIM rendelet 23. § (1) bekezdése iktatta be, szövege a 20/2017. (XII. 21.) IM rendelet 29. § (1) bekezdésével megállapított szöveg.

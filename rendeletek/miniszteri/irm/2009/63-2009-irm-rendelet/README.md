@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-63-20-1
 | 2010-01-02 | 2009-63-20-1U.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-03-15 | 2009-63-20-1U.3 | 21/2014. (III. 13.) KIM rendelet |
 | 2016-01-01 | 2009-63-20-1U.4 | 43/2015. (XII. 30.) IM rendelet |
+| 2018-01-01 | 2009-63-20-1U.5 | 20/2017. (XII. 21.) IM rendelet |
