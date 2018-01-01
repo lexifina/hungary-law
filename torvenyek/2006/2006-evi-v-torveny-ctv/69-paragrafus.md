@@ -2,7 +2,7 @@
 
 (2) Perindításnak valamennyi cégforma tekintetében csak a következő érvénytelenségi ok fennállása esetében van helye:
 
-a) a létesítő okirat ügyvédi, illetve az alapító jogtanácsosa általi ellenjegyzésére vagy közjegyzői okiratba foglalására nem került sor;
+a) a létesítő okirat ügyvédi, illetve az alapító kamarai jogtanácsosa általi ellenjegyzésére vagy közjegyzői okiratba foglalására nem került sor;
 
 b) a létesítő okirat nem tartalmazza a cég cégnevét, főtevékenységét, jegyzett tőkéjét, továbbá a tag vagyoni hozzájárulása mértékét;
 

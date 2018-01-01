@@ -2,7 +2,7 @@
 
 (1a) Vagyonrendezési eljárásnak van helye abban az esetben is, ha a korlátolt felelősségű társaságban üzletrésszel rendelkező tag jogutód nélkül úgy szűnt meg, hogy üzletrészéről nem rendelkeztek.
 
-(2) A vagyonrendezési eljárás nemperes eljárás, amelyre a Pp. szabályait – ha e fejezet másként nem rendelkezik – megfelelően alkalmazni kell, szünetelésnek azonban nincs helye.
+(2) A vagyonrendezési eljárás polgári nemperes eljárás, amelyre a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit – ha e törvény eltérően nem rendelkezik – kell alkalmazni, szünetelésnek azonban nincs helye.
 
 (3) A vagyonrendezési eljárást a törölt cég utolsó bejegyzett székhelye szerint illetékes törvényszék folytatja le.
 

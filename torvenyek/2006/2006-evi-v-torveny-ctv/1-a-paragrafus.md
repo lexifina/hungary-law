@@ -2,9 +2,9 @@
 
 (2) Bíró hozza meg a következő határozatokat:
 
-a) az egyszerűsített cégeljárás, az egyéni cég, a közkereseti társaság, a betéti társaság, valamint a 45. § (2) bekezdésében szabályozott hiánypótlási eljárás lefolytatása nélküli elutasító végzés kivételével a bejegyzési eljárásban hozott határozatok;
+a) az egyszerűsített cégeljárás, az egyéni cég, a közkereseti társaság, a betéti társaság, valamint a 45. § (2) bekezdésében szabályozott visszautasító végzés kivételével a bejegyzési eljárásban hozott határozatok;
 
-b) az egyéni cég, a közkereseti társaság, a betéti társaság, – e törvényben meghatározott esetekben – a korlátolt felelősségű társaság, valamint a 45. § (2) bekezdésében szabályozott hiánypótlási eljárás lefolytatása nélküli elutasító végzés kivételével a változásbejegyzési eljárásban hozott határozatok;
+b) az egyéni cég, a közkereseti társaság, a betéti társaság, – e törvényben meghatározott esetekben – a korlátolt felelősségű társaság, valamint a 45. § (2) bekezdésében szabályozott visszautasító végzés kivételével a változásbejegyzési eljárásban hozott határozatok;
 
 c)
 

@@ -1,4 +1,4 @@
-## Azok a mellékletek, amelyeknek hiánya esetén a cégbejegyzési, illetve a változásbejegyzési kérelem hiánypótlási eljárás nélküli elutasítására kerül sor
+## Azok a mellékletek, amelyeknek hiánya esetén a cégbejegyzési, illetve a változásbejegyzési kérelem hiánypótlás nélküli visszautasítására kerül sor
 
 ## I. Ha a bejegyzési kérelem tartalmára tekintettel kötelező, valamennyi cég bejegyzéséhez (változásbejegyzéséhez) szükséges okiratok:
 
@@ -36,11 +36,11 @@
 
 ## 11. a jogi képviselő meghatalmazása, illetve képviseleti jogának igazolása;
 
-## 12. az adószám megállapításához szükséges, az általános forgalmi adó alanyának az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozat [az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése].
+## 12. az adószám megállapításához szükséges, az általános forgalmi adó alanyának az adóköteles tevékenysége megkezdésének bejelentésével összefüggő, az adózás rendjéről szóló törvény szerinti nyilatkozat.
 
 ## 13.
 
-## a) a székhelyhasználat jogszerűségéről szóló legalább teljes bizonyító erejű magánokirat
+## a) a székhelyhasználat jogszerűségéről szóló legalább teljes bizonyító erejű magánokirat, székhelyszolgáltatás esetén szükség szerint ideértve az ingatlan tulajdonosának előzetes írásbeli hozzájárulását
 
 ## b) a telephely(ek) használatának jogszerűségéről szóló legalább teljes bizonyító erejű magánokirat
 
@@ -54,7 +54,7 @@
 
 ## b) a vagyoni hozzájárulással kapcsolatban
 
-## ba) pénzforgalmi szolgáltató igazolása a pénzbeli vagyoni hozzájárulás befizetéséről, vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli vagyoni hozzájárulásnak a társaság rendelkezésére bocsátásáról, illetve bejegyzett társaság esetében taggyűlési határozatban meghatározottak szerint történő megfizetéséről,
+## ba) pénzforgalmi szolgáltató igazolása a pénzbeli vagyoni hozzájárulás befizetéséről, vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli vagyoni hozzájárulásnak a társaság rendelkezésére bocsátásáról, illetve bejegyzett társaság esetében taggyűlési határozatban meghatározottak szerint történő megfizetéséről,
 
 ## bb) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról, a tagoknak a nem pénzbeli hozzájárulás értékelésére vonatkozó nyilatkozatával együtt;
 
@@ -90,7 +90,7 @@
 
 ## c) a vagyoni hozzájárulással kapcsolatban
 
-## ca) pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt vezető tisztségviselői nyilatkozat a pénzbeli hozzájárulásnak a szövetkezet rendelkezésére bocsátásáról,
+## ca) pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt vezető tisztségviselői nyilatkozat a pénzbeli hozzájárulásnak a szövetkezet rendelkezésére bocsátásáról,
 
 ## cb) vezető tisztségviselői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról;
 
@@ -136,11 +136,11 @@
 
 ## 9. egyéni cég esetén
 
-## a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről, illetve ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
+## a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről, illetve ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
 
 ## b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról, a tagnak a nem pénzbeli hozzájárulás értékelésére vonatkozó nyilatkozatával együtt;
 
-## 10. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kar alapítási engedélye;
+## 10. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kar alapítási, a cégbejegyzést követően az alapító okiratának, illetve cégadatának módosítási engedélye;
 
 ## 11. közjegyzői iroda esetén a területi kamara elnökségének alapítási engedélye.
 

@@ -4,7 +4,7 @@
 
 ## 1. a szerződésminta alapján készült létesítő okirat;
 
-## 2. az adószám megállapításához szükséges, az általános forgalmi adó alanyának az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozat [az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése];
+## 2. az adószám megállapításához szükséges, az általános forgalmi adó alanyának az adóköteles tevékenysége megkezdésének bejelentésével összefüggő, az adózás rendjéről szóló törvény szerinti nyilatkozat;
 
 ## 3. a jogi képviselő meghatalmazása, illetve képviseleti jogának igazolása;
 
@@ -20,7 +20,7 @@
 
 ## b) az a) pontban említettek megválasztásának időtartamát tartalmazó okirat;
 
-## c) a cégjegyzésre jogosult hiteles cégaláírási nyilatkozata (közjegyzői aláírás-hitelesítéssel ellátott címpéldánya) vagy ügyvéd által ellenjegyzett aláírás-mintája, ha a csatolás tényét a kérelmen feltüntették;
+## c) a cégjegyzésre jogosult hiteles cégaláírási nyilatkozata (közjegyzői aláírás-hitelesítéssel ellátott címpéldánya) vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintája, ha a csatolás tényét a kérelmen feltüntették;
 
 ## 3. ha a könyvvizsgáló szervezet, a könyvvizsgálatot ellátó személynek a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata;
 
@@ -54,7 +54,7 @@
 
 ## a) a tagjegyzék, közös tulajdonú törzsbetét esetében a résztulajdonosok és a képviselőjük feltüntetésével;
 
-## b) pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
+## b) pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
 
 ## c) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról;
 
@@ -70,7 +70,7 @@
 
 ## 16. az egyéni cég esetén
 
-## a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
+## a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
 
 ## b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról.
 

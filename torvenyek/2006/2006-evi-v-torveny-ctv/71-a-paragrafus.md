@@ -1,16 +1,24 @@
-71/A. § (1) A gazdasági társaság és a szövetkezet tagjának kizárása iránti perben a tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz történő érkezésétől számított tizenötödik napra kell kitűzni.
+71/A. § (1) A gazdasági társaság és a szövetkezet tagjának kizárása iránti perben a tag kizárása iránti kereset más keresettel nem kapcsolható össze. A keresetlevélhez – a Pp. 171. §-ában meghatározottakon túl – csatolni kell a legfőbb szervnek a tag kizárása és a perindítás tárgyában hozott határozatát.
 
-(2) A tag kizárása iránti kereset más keresettel nem kapcsolható össze, keresetváltoztatásnak, viszontkereset előterjesztésének nincs helye.
+(2) A perben
 
-(3) A kizárási perben szünetelésnek, felfüggesztésnek, bírósági meghagyás kibocsátásának nincs helye; a felperes a keresettől a per bármely szakában alperesi hozzájárulás nélkül elállhat.
+a) viszontkeresetnek,
 
-(4) A jogerős ítélet ellen felülvizsgálat és perújítás nem kezdeményezhető.
+b) a perfelvétel során további írásbeli perfelvétel elrendelésének,
 
-(5) Az alperes tagsági jogait felfüggesztő bírósági határozat ellen fellebbezésnek nincs helye, a bíróság azonban az ilyen végzést kérelemre maga is megváltoztathatja.
+c) a felek megegyezésén alapuló szünetelésnek, valamint
 
-(6) A felperes a perindítást elhatározó társasági, szövetkezeti határozatban foglaltakon kívül más kizárási okra a perben nem hivatkozhat.
+d) az eljárás felfüggesztésének
 
-(7) A perindítást elhatározó társasági, szövetkezeti határozat bírósági felülvizsgálata iránt külön per nem indítható, annak jogsértő voltára azonban a kizárási perben az alperes hivatkozhat.
+nincs helye.
+
+(3) A felperes a perindítást elhatározó társasági, szövetkezeti határozatban foglaltakon kívül más kizárási okra nem hivatkozhat és a keresettel érvényesített jog megváltoztatásának nincs helye. A felperes a keresettől az eljárás bármely szakaszában alperesi hozzájárulás nélkül elállhat.
+
+(4) A perindítást elhatározó társasági, szövetkezeti határozat bírósági felülvizsgálata iránt külön per nem indítható, annak jogsértő voltára azonban a kizárási perben az alperes hivatkozhat.
+
+(5) Az alperes tagsági jogait felfüggesztő végzés és a felfüggesztő végzés megváltoztatása iránti kérelmet elutasító végzés ellen nincs helye fellebbezésnek; a bíróság a felfüggesztő végzést kérelemre megváltoztathatja. A felfüggesztés iránti kérelmet elutasító végzés ellen külön fellebbezésnek van helye.
+
+(6) Az ítélet ellen felülvizsgálatnak és perújításnak nincs helye.
 
 ## VI. Fejezet
 

@@ -4,7 +4,7 @@
 
 (3) Ha a választott cégnév a cégnyilvántartásba bejegyezhető, a cégbíróság végzésével a megjelölt cégnevet hatvannapos időtartamra a kérelmező részére lefoglalja és a cégnevek elektronikus úton vezetett nyilvántartásában feltünteti. Ez alatt az idő alatt más jogalany ezzel a cégnévvel a cégnyilvántartásba nem jegyezhető be, illetve a cégnév nem foglalható le. A cégbíróságnak a nyilvántartásba vétel elutasításáról hozott határozata ellen jogorvoslatnak helye nincs. Ha a cég bejegyzésére, illetve a cégnév változásának bejegyzésére irányuló kérelem benyújtására hatvan napon belül nem kerül sor, a névfoglalás megszűnik.
 
-(4) A névfoglalás egyszeri alkalommal 8 nappal meghosszabbodik, ha ugyan a hatvan napos határidő lejárt, a cégnevet lefoglaló jogalany bejegyzési kérelmét elutasították, de azt 8 napon belül ismételten beadja.
+(4) A névfoglalás egyszeri alkalommal 8 nappal meghosszabbodik, ha ugyan a hatvan napos határidő lejárt, a cégnevet lefoglaló jogalany bejegyzési kérelmét visszautasították, de azt 8 napon belül ismételten beadja.
 
 (5) A névfoglalásra vonatkozó eljárásra fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 

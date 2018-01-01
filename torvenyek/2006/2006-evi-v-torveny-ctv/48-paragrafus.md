@@ -28,4 +28,6 @@ f) észleli, hogy azok az adatok, amelyeknek bejegyzését az adott cégformára
 
 (9) Ha a cégbejegyzési kérelmet elutasító végzés közlését követően nyolc napon belül ismételten kérik a cég bejegyzését, az elutasításhoz fűződő jogkövetkezmények nem alkalmazhatóak, és a korábbi eljárás során benyújtott okiratokat – ideértve a korábbi eljárásban az illeték megfizetéséről szóló igazolást is – ismételten fel lehet használni az új bejegyzési kérelemhez. A határidő elmulasztása miatt igazolásnak nincs helye. Ismételt benyújtásnak egy alkalommal van helye.
 
+(10) Ha a cég bejegyzését az elutasító végzés jogerőre emelkedését megelőzően, de a (9) bekezdésben meghatározott határidőn túl kérik, azt az elutasító végzés ellen előterjesztett fellebbezés visszavonásának vagy a végzés elleni fellebbezési jogról való lemondásnak kell tekinteni; az ezzel ellentétes nyilatkozat hatálytalan.
+
 9. CÍM

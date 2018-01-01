@@ -6,7 +6,7 @@
 
 (4) A számviteli törvény szerinti beszámoló elektronikus okiratként történő elkészítése nem jogosít a beszámoló összeállítását (formáját, szerkezetét, tagolását) illetően a számviteli törvényben előírt rendelkezésektől való eltérésre.
 
-(5) A beszámolót a cégnek az adózás rendjéről szóló 2003. évi XCII. törvény 7. §-ának (2) bekezdése szerinti képviselője küldi meg a céginformációs szolgálat részére.
+(5)
 
 (6) Ha a cég a beszámolóról – külön jogszabály szerint arra feljogosított által aláírt – papír alapú okirat alapján határozott, úgy az (5) bekezdés szerinti személy egyben igazolja, hogy az ezt követően elektronikus úton megküldött beszámoló megegyezik a jóváhagyott beszámolóval. Ebben az esetben az (5) bekezdés szerinti személy a papír alapú beszámoló egy eredeti példányát – annak elfogadásától számított tíz évig – megőrzi, és amennyiben a megküldött beszámoló szabályszerűségével összefüggésben kétség merülne fel, köteles azt a cégbíróság felhívására bemutatni.
 

@@ -6,7 +6,7 @@
 
 (4) Ha hitelezői igényt nem jelentettek be, vagy a rendelkezésre álló összeg a hitelezői igényeket meghaladja, az összeg felosztása a volt tagok között – a létesítő okirat eltérő rendelkezésének hiányában – a cég törlésekor fennálló részesedésük arányában történik meg azzal, hogy a felosztás során azok a tagok, akik igényt nem jelentettek be, figyelmen kívül maradnak.
 
-(5) Ha a vagyonrendezési eljárás lefolytatása kötelező, akkor is a (3)–(4) bekezdés szerint kell eljárni. Igénybejelentés hiányában a vagyonrendezési eljárás során befolyt összeget bírói letétbe kell helyezni.
+(5) Ha a vagyonrendezési eljárás lefolytatása kötelező, akkor is a (3)–(4) bekezdés szerint kell eljárni. Igénybejelentés hiányában a vagyonrendezési eljárás során befolyt összeget bírósági letétbe kell helyezni.
 
 (6) Ha a vagyonrendezési eljárás lefolytatása kötelező és a vagyontárgy értékesítése nem járt sikerrel, a vagyonrendező felmerült költségeinek és díjának megfizetése esetében a vagyontárgyat a jogosultnak természetben kell kiadni. Ha nincs igénybejelentő vagy a kérelmező természetben nem tart igényt a vagyontárgyra, az ingó vagyontárgy a Ptk. szabályai szerint uratlan vagyonnak minősül, ingatlan vagyontárgy esetében pedig az állam tulajdonjogának az ingatlan-nyilvántartásba történő bejegyzését rendeli el a bíróság.
 

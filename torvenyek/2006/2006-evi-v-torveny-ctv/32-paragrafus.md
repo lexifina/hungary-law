@@ -1,4 +1,4 @@
-32. § (1) A cégbejegyzési (változásbejegyzési) eljárás első és másodfokon elektronikus nemperes eljárás, amelyre a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait – ha e törvény másként nem rendelkezik – megfelelően alkalmazni kell, szünetelésnek azonban nincs helye. Az eljárás felfüggesztésére
+32. § (1) A cégbejegyzési (változásbejegyzési) eljárás első és másodfokon elektronikus polgári nemperes eljárás, amelyre a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit – ha e törvény eltérően nem rendelkezik – kell alkalmazni, szünetelésnek azonban nincs helye. Az eljárás felfüggesztésére
 
 a) a bejegyzési eljárás folyamata alatt törvényességi felügyeleti kérelem benyújtása esetén,
 
@@ -12,6 +12,6 @@ kerülhet sor.
 
 (2) Az eljárás során csak okirati bizonyítás folytatható le.
 
-(3) Az eljárás során költségmentesség, illetve illeték- és költségfeljegyzési jog nem engedélyezhető.
+(3) Az eljárás során költségkedvezmény nem engedélyezhető.
 
 (4) A cégbejegyzési (változásbejegyzési) eljárásban a jogi képviselet kötelező.

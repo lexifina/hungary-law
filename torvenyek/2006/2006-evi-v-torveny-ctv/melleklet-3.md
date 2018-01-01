@@ -4,7 +4,7 @@
 
 ## 1. ha a cég az Európai Unió valamely hivatalos nyelvén történő nyilvántartását is kéri, a cégbejegyzésre irányuló nyomtatványnak a választott nyelven kitöltött példánya, valamint a létesítő okirat e nyelvre történt hiteles fordítása;
 
-## 2. a cégjegyzésre jogosult hiteles cégaláírási nyilatkozata (közjegyzői aláírás-hitelesítéssel ellátott címpéldánya) vagy ügyvéd által ellenjegyzett aláírás-mintája, ha a csatolás tényét a kérelmen feltüntették;
+## 2. a cégjegyzésre jogosult hiteles cégaláírási nyilatkozata (közjegyzői aláírás-hitelesítéssel ellátott címpéldánya) vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintája, ha a csatolás tényét a kérelmen feltüntették;
 
 ## 3. a) ha a cég elnevezésében történelmi személyiség neve szerepel, vagy a cégnévhez másnak jogi érdeke fűződik, a Ctv. 4. §-ának (4) bekezdésében meghatározott személy vagy szervezet hozzájárulását tartalmazó okirat, a Ctv. 4. §-ának (5) bekezdésében meghatározott esetben pedig annak igazolása, hogy a cégben az állam többségi befolyással rendelkezik,
 
@@ -96,7 +96,7 @@
 
 ## b) részvénytársaság tőkeváltozásával kapcsolatban
 
-## ba) új részvényekkel történő alaptőke-emelés esetében annak igazolása, hogy a tőkeemelést megelőzően forgalomba hozott részvények névértéke (kibocsátási értéke) befizetésre került és az érintettnek minősülő részvényfajta, illetve részvényosztály részvényeseinek hozzájárulást igazoló okiratok, továbbá a pénzforgalmi szolgáltató igazolása a már teljesített pénzbeli vagyoni hozzájárulás befizetéséről, illetve ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt vezető tisztségviselői nyilatkozat a pénzbeli vagyoni hozzájárulásnak a közgyűlési határozatban meghatározottak szerint történő megfizetéséről,
+## ba) új részvényekkel történő alaptőke-emelés esetében annak igazolása, hogy a tőkeemelést megelőzően forgalomba hozott részvények névértéke (kibocsátási értéke) befizetésre került és az érintettnek minősülő részvényfajta, illetve részvényosztály részvényeseinek hozzájárulást igazoló okiratok, továbbá a pénzforgalmi szolgáltató igazolása a már teljesített pénzbeli vagyoni hozzájárulás befizetéséről, illetve ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt vezető tisztségviselői nyilatkozat a pénzbeli vagyoni hozzájárulásnak a közgyűlési határozatban meghatározottak szerint történő megfizetéséről,
 
 ## bb) a jegyzett tőkén felüli vagyonból történő tőkeemelés vagy dolgozói részvény kialakítása esetében a taggyűlés által elfogadott számviteli törvény szerinti beszámoló mérlege, illetve a közbenső mérleg,
 

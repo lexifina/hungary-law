@@ -1,4 +1,4 @@
-72/A. § (1) A törvényességi felügyeleti eljárásban az e §-ban foglaltakkal összhangban megfelelően alkalmazni kell a Pp. 394/B. § (2), (6), (8) és (9) bekezdése, valamint 394/E. §-a szerinti elektronikus kommunikációra vonatkozó szabályait.
+72/A. § (1) A törvényességi felügyeleti eljárásban az e §-ban foglaltakkal összhangban megfelelően alkalmazni kell a Pp. 605. § (2) bekezdése, 606. §-a, 608. §-a, 610. §-a, valamint 613. §-a szerinti elektronikus kapcsolattartásra vonatkozó szabályait.
 
 (2) A törvényességi felügyeleti eljárás iránti elektronikus kérelmet, illetve a törvényességi felügyeleti eljárás során benyújtandó egyéb beadványt, valamint azok mellékleteit (a továbbiakban e § alkalmazásában együttesen: kérelem) a céginformációs szolgálathoz kell megküldeni. A kérelemhez elektronikus űrlapot kell mellékelni. A kérelem és az űrlap informatikai feltételeire – a (4) bekezdésben foglalt kivétellel – a cégbejegyzési eljárásban benyújtható okiratokra vonatkozó szabályokat kell alkalmazni.
 

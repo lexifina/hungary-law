@@ -10,4 +10,4 @@
 
 1. CÍM
 
-A zárgondnok kirendelése
+A CÉG MŰKÖDÉSÉNEK FELFÜGGESZTÉSE
