@@ -2,6 +2,6 @@
 
 (2) Az MMA tevékenységét a közgyűlés határozatainak megfelelően és az Alapszabályban meghatározott módon az elnök irányítja és gyakorolja a tulajdonosi jogokat a jelen törvény és egyéb jogszabályok alapján. Az MMA-t az elnök képviseli. Az elnök ellátja az MMA költségvetési fejezetét irányító szerv vezetőjének feladatait.
 
-(2a) Az elnök dönt az egyéb kötelezettségvállalásról, ha annak értéke nem haladja meg az 50 millió forintot és a döntés nem tartozik az elnökség vagy a közgyűlés kizárólagos hatáskörébe.
+(2a) Az elnök dönt az egyéb kötelezettségvállalásról, ha annak értéke nem haladja meg a 150 millió forintot és a döntés nem tartozik az elnökség vagy a közgyűlés kizárólagos hatáskörébe. Az elnök az 50 millió forintot meghaladó értékű egyéb kötelezettségvállalásokról való döntéséről a soron következő közgyűlésen beszámol.
 
 (3) Az elnököt – akadályoztatása esetén – a főtitkár helyettesíti.

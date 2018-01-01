@@ -24,13 +24,9 @@ ib) használatba adásának, egyéb módon történő hasznosításának elveir�
 
 j) dönt zártkörűen működő részvénytársaság vagy korlátolt felelősségű társaság alapítása, ilyen gazdasági társaságokban részesedés szerzése elveiről;
 
-k) dönt – az i) pont ia) alpontjában foglalt eltéréssel – az MMA általi kötelezettségvállalásról (a továbbiakban: egyéb kötelezettségvállalás), ha annak értéke meghaladja a 100 millió forintot;
+k) dönt – az i) pont ia) alpontjában foglalt eltéréssel – az MMA általi kötelezettségvállalásról (a továbbiakban: egyéb kötelezettségvállalás), ha annak értéke meghaladja az 500 millió forintot;
 
-l) elfogadja az Alapszabály részét képező
-
-la) az i) pont ia) és ib) alpontja, valamint a j) pont szerinti elvekre is figyelemmel megállapított vagyongazdálkodási szabályzatot és
-
-lb) közbeszerzési szabályzatot;
+l) elfogadja az i) és j) pont szerinti elvekre is figyelemmel megállapított vagyongazdálkodási szabályzatot;
 
 m) jóváhagyja a felügyelő testület ügyrendjét;
 

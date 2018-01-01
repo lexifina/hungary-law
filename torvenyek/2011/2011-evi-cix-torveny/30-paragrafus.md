@@ -1,17 +1,11 @@
 ## 11. Átmeneti rendelkezések
 
-30. § (1) A törvény hatálybalépését követő 120 napon belül – de legkorábban a (4) bekezdésben a nyilatkozattételre meghatározott határidő lejártát követő 15 nap elteltével – az MMA alakuló közgyűlést tart.
+30. § (1) A közgyűlési képviselők megbízatása 2018. május 31-én megszűnik; az új közgyűlési képviselőket az egyes kulturális és sporttárgyú törvények, valamint egyéb kapcsolódó törvények módosításáról szóló 2017. évi CLXXX. törvény (a továbbiakban: Módtv.) által módosított 8/B. § alapján 2018. május 31-éig – 2018. június 1-jén kezdődő mandátummal – meg kell választani. A 2018. május 31-én megszűnő közgyűlési képviselői megbízást a közgyűlési képviselő újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni.
 
-(2) Az alakuló közgyűlés előkészítésére nyolctagú bizottság (a továbbiakban: Szervező Bizottság) alakul, amelynek két tagját a köztársasági elnök, két tagját a miniszterelnök, két tagját az Országgyűlés elnöke, két tagját az Országgyűlés kulturális ügyekért felelős bizottsága kéri fel a törvény hatálybalépését követő 15 napon belül.
+(2) A Módtv. hatálybalépését követően a pártoló tag felvételének lehetősége megszűnik azzal, hogy a már megválasztott pártoló tagok tagsági jogviszonya fennmarad.
 
-(3) A Szervező Bizottság feladata az alakuló közgyűlésen részt vevők minősítése és regisztrációja.
+(3) A felügyelő testületi tagok megbízatása 2019. május 31-én megszűnik; az új felügyelő testületi tagokat a Módtv. által megállapított 18. § (1) bekezdése alapján 2019. május 31-éig – 2019. június 1-jével kezdődő mandátummal – meg kell választani. A 2019. május 31-én megszűnő felügyelő testületi tagi megbízást a felügyelő testületi tag újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni.
 
-(4) Az MMA alakuló közgyűlésén az 1992. január 31-én alapított Magyar Művészeti Akadémia civil szervezet azon tagjai vehetnek részt, akik 2011. január 1-jén rendes tagjai voltak civil szervezeteknek és megfelelnek a 7. § (1) bekezdésben támasztott feltételeknek, és amennyiben erre irányuló szándékukat a törvény hatálybalépését követő 45 napon belül a Szervező Bizottság felhívására és részére írásban kinyilvánítják.
+(4) A tagozatvezetők megbízatása 2018. március 31-én megszűnik, az új tagozatvezetőket a Módtv. által megállapított 20. § (4) bekezdése alapján 2018. március 31-éig – 2018. április 1-jével kezdődő mandátummal – meg kell választani. A 2018. március 31-én megszűnő tagozatvezetői megbízást a tagozatvezető újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni.
 
-(5) Az alakuló közgyűlést a (4) bekezdés szerinti körben az (1) bekezdésben meghatározottak szerint a Szervező Bizottság hívja össze. Az alakuló közgyűlés dönt az Alapszabály elfogadásáról, megválasztja az elnököt, a két alelnököt, a főtitkárt, a közgyűlés által választandó egyéb elnökségi tagokat és a felügyelő testület egy tagját.
-
-(6) Az első felügyelő testület tagjait a törvény hatálybalépését követő 120 napon belül kell kinevezni. A felügyelő testület a valamennyi tagja kinevezését, megválasztását követő 30 napon belül köteles ügyrendjének megállapítására, amelyet az alakuló ülést követő első közgyűlés hagy jóvá.
-
-(7) Az MMA az alakuló közgyűlést követően tagválasztásra köteles, akként, hogy az MMA rendes tagjainak száma 2012. december 31-ig lehetőleg elérje a 200 főt.
-
-(8) A (6) bekezdés szerint 2012. december 31-ig kinevezett és megválasztott felügyelő testületi tagok megbízatása 2014. május 31. napján megszűnik. Az új felügyelő testületi tagokat 2014. május 31-ig kell kinevezni, megválasztani a Magyar Művészeti Akadémia kultúrstratégiai szerepének megerősítése érdekében szükséges törvénymódosításokról, valamint egyéb kulturális tárgyú törvények módosításáról szóló 2012. évi CCXXI. törvénnyel megállapított 18. § (1) bekezdése szerint, 2014. június 1-jei hatállyal. Az új felügyelő testület 2014. július 30-ig köteles az ügyrendjének megállapítására, amelyet az új testület alakuló ülését követő első közgyűlés hagy jóvá.
+(5) A 24. § (1) bekezdését 2026. november 5-éig akként kell alkalmazni, hogy ha a főtitkár mandátuma a megbízásától számított öt éven belül megszűnik, új főtitkárt a közgyűlés az előző főtitkár eredeti mandátumából hátralévő időre választ. A főtitkár ezen okból rövidebb mandátumát az újraválaszthatósága korlátozása szempontjából nem kell figyelembe venni.

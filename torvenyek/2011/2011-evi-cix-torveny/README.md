@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-109-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 2011-109-00-00.13 |
 | 2017-11-24 | 2017. évi CLXV. törvény | 2011-109-00-00.14 |
 | 2017-12-14 | 2017. évi CLXXX. törvény | 2011-109-00-00.15 |
+| 2018-01-01 | 2017. évi CLXXX. törvény | 2011-109-00-00.16 |

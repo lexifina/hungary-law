@@ -2,7 +2,7 @@
 
 17. § (1) Két közgyűlés között az elnökség az MMA döntéshozó testülete azzal, hogy a 14. § a)–d), f) és h–m) pontjában meghatározott ügyekben dönteni kizárólag a közgyűlés jogosult, a 14. § i) pont ia) alpontja és k) pontja szerinti esetben értékhatártól függően, figyelemmel az (5) bekezdésben foglaltakra.
 
-(2) Az elnökség két közgyűlés között az (1) bekezdés szerint hozott döntéseiről – a döntést követő első közgyűlésen – a közgyűlés számára beszámolni köteles.
+(2) Az elnökség két közgyűlés között az (1) bekezdés és az (5) bekezdés h) pontja szerint hozott döntéseiről – a döntést követő első közgyűlésen – a közgyűlés számára beszámolni köteles.
 
 (3) Az MMA elnökségének tagjai:
 
@@ -42,7 +42,9 @@ gb) az MMA vagyona használatba adásáról, egyéb módon történő hasznosít
 
 gc) zártkörűen működő részvénytársaság vagy korlátolt felelősségű társaság alapításáról, ilyen gazdasági társaságokban részesedés szerzéséről;
 
-h) dönt az MMA általi egyéb kötelezettségvállalásról, amennyiben annak értéke meghaladja az 50 millió forintot és a döntés nem tartozik a közgyűlés kizárólagos hatáskörébe;
+gd) a közbeszerzési szabályzat elfogadásáról,
+
+h) dönt az MMA általi egyéb kötelezettségvállalásról, amennyiben annak értéke meghaladja a 150 millió forintot és a döntés nem tartozik a közgyűlés kizárólagos hatáskörébe;
 
 i) javaslatot tesz az 5/A. § (2) bekezdése szerinti stratégiai együttműködési megállapodás megkötésére;
 
