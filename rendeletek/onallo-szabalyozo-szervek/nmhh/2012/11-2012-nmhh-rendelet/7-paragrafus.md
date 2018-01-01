@@ -26,7 +26,7 @@ a) a filmalkotás forgatása (előforgatása) megkezdésének időpontja;
 
 b) a filmalkotás gyártása (előkészítése) megkezdésének időpontja;
 
-c) az Mktv. 26/B. § (1) bekezdése szerinti besorolási eljárásban hozott jogerős határozatban meghatározott, a magyar részvételi arány szerinti kategória;
+c)[^4] az Mktv. 26/B. § (1) bekezdése szerinti besorolási eljárásban hozott véglegessé vált határozatban meghatározott, a magyar részvételi arány szerinti kategória;
 
 d) a filmalkotás koprodukciós minősítése;
 
@@ -41,3 +41,5 @@ h) a filmalkotás közvetlen filmgyártási költségének összege;
 i) a filmalkotás közvetlen magyarországi filmgyártási költségének összege;
 
 j) a Hivatal által ellenőrzött gyártási időszakonként az adott időszakra vonatkozóan a Hivatal által a támogatási igazolásban megállapított közvetlen filmgyártási költség és a megállapított közvetett támogatás összege.
+
+[^4]: A 7. § (3) bekezdés c) pontja a 13/2017. (XII. 29.) NMHH rendelet 7. § b) pontja szerint módosított szöveg.

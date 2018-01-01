@@ -12,4 +12,6 @@ b) „art” mozi, illetve az „art” moziterem elnevezése, címe;
 
 c) az „art” minősítés ténye;
 
-d) az „art” minősítés visszavonásának ténye, és a visszavonás tárgyában hozott határozat jogerőre emelkedésének dátuma.
+d)[^5] az „art” minősítés visszavonásának ténye, és a visszavonás tárgyában hozott határozat véglegessé válásának dátuma.
+
+[^5]: A 10. § (2) bekezdés d) pontja a 13/2017. (XII. 29.) NMHH rendelet 7. § c) pontja szerint módosított szöveg.
