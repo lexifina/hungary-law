@@ -1,3 +1,5 @@
-## 8. §[^2]
+## 8. § Az R. 8. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
 
-[^2]: A 8. § a 11. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## (Az ösztöndíjas szerződésnek tartalmaznia kell:)
+
+## „f) a felsőoktatási tanulmányok szüneteltetésének és megszűnésének rendjét.”
