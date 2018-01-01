@@ -38,7 +38,7 @@
 
 ## cégszerű aláírás
 
-2. melléklet a 91/2006. (XII. 26.) GKM rendelethez[^13]
+2. melléklet a 91/2006. (XII. 26.) GKM rendelethez[^14]
 
 ## A csomagolás-összetevőre vonatkozó megfelelőségi igazolás tartalmi követelményei
 
@@ -78,4 +78,4 @@ Dátum: ...........................................................
 
 cégszerű aláírás
 
-[^13]: A 2. melléklet a 16/2010. (IV. 28.) NFGM rendelet 21. § (6) bekezdésével megállapított szöveg.
+[^14]: A 2. melléklet a 16/2010. (IV. 28.) NFGM rendelet 21. § (6) bekezdésével megállapított szöveg.

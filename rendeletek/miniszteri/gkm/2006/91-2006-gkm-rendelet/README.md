@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-91-20-0
 | 2010-05-01 | 2006-91-20-0L.2 | 16/2010. (IV. 28.) NFGM rendelet |
 | 2012-05-19 | 2006-91-20-0L.3 | 16/2010. (IV. 28.) NFGM rendelet |
 | 2017-01-01 | 2006-91-20-0L.4 | 16/2010. (IV. 28.) NFGM rendelet |
+| 2018-01-01 | 2006-91-20-0L.5 | 51/2017. (XII. 29.) NGM rendelet |
