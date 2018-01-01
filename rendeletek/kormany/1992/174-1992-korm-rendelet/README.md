@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-174-20-
 | 2014-12-13 | 1992-174-20-22.7 | 316/2014. (XII. 12.) Korm. rendelet |
 | 2017-02-14 | 1992-174-20-22.8 | 28/2017. (II. 13.) Korm. rendelet |
 | 2017-08-19 | 1992-174-20-22.9 | 349/2011. (XII. 30.) Korm. rendelet |
+| 2018-01-01 | 1992-174-20-22.10 | 457/2017. (XII. 28.) Korm. rendelet |
