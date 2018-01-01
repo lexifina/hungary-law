@@ -1,0 +1,5 @@
+12. § (1) A hagyományos tárgyalkotó népművészeti alkotás és a népi iparművészeti alkotás minősítését a 7. mellékletben meghatározott adattartalmú kérelemben kell kezdeményezni. A kérelemhez mellékelni kell a minősíttetni kívánt alkotást, vagy ha annak a helyszínre történő szállítása és bemutatása fizikai nehézségbe ütközik, úgy a minősítendő alkotásról készített fotódokumentációt. Indokolt esetben a zsűri a helyszínen is megtekintheti az alkotást.
+
+(2) A hagyományos tárgyalkotó népművészeti alkotás és a népi iparművészeti alkotás minősítése tárgyában a zsűri javaslata figyelembevételével a főigazgató határoz. A határozat tartalmazza a népi iparművészeti alkotás vagy a hagyományos tárgyalkotó népművészeti alkotás azonosítását lehetővé tevő zsűriszámot, valamint a „népi iparművészeti alkotás” vagy a „hagyományos tárgyalkotó népművészeti alkotás” jelölés használati jogára vonatkozó megállapítást.
+
+(3) A zsűriszámmal rendelkező termék értékesítésénél az általános forgalmi adóról szóló törvényben foglaltak szerint kell eljárni, és a minősített alkotást el kell látni a népi iparművészeti vagy a hagyományos tárgyalkotó népművészeti védjeggyel.
