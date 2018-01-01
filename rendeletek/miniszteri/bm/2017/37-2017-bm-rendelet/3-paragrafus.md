@@ -1,3 +1,5 @@
-## 2. §[^2]
+## 2. § Az R. 2. §-a a következő q) ponttal egészül ki:
 
-[^2]: A 2. § a 4. § (2) bekezdése alapján 2018. január 1. napján lép hatályba.
+## [A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet (a továbbiakban: R.) 7. §-ában szabályozott módon a központosított informatikai és elektronikus hírközlési szolgáltatásokat a következő költségvetési szervek és 100%-os állami tulajdonban levő gazdasági társaságok kötelesek egyedi szolgáltatási megállapodás és közvetlen finanszírozás útján igénybe venni:]
+
+## „q) Szerencsejáték Felügyelet.”
