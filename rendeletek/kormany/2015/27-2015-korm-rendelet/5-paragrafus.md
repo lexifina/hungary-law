@@ -1,5 +1,3 @@
-## 4/A. §[^13] A 3. § a) és b) pontja, valamint a 4. § nem alkalmazható azon kórházakra, amelyek tekintetében a miniszter a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (2) vagy (3) bekezdése alapján egészségügyi felsőoktatási intézményre ruházta át az irányítási hatásköröket.
-
 5. § (1) Az ÁEEK a 4. § szerinti intézmények vonatkozásában
 
 a) érvényesíti, illetve – módszertani segítséget is nyújtva – érvényesítteti a közfeladatok ellátására vonatkozó követelményeket, és az erőforrásokkal – így az előirányzatokkal, a létszámokkal és a vagyonnal – való szabályszerű és hatékony gazdálkodás követelményeit, továbbá számon kéri, ellenőrzi e követelmények érvényre juttatását,
@@ -36,6 +34,5 @@ mb) az ma) alpont alapján kötött kollektív szerződést a munkáltatók ált
 
 (3)[^15] Az ÁEEK által kötött kollektív szerződés hatálya a meghatalmazást adó munkáltatónál közalkalmazotti jogviszonyban álló egészségügyi dolgozókra terjed ki és a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 276. § (5) bekezdése szerint több munkáltatós kollektív szerződésnek minősül az egészségügyi ágazatban. A meghatalmazást adó munkáltató a kollektív szerződést magára kiterjedő hatállyal az Mt. 280. §-a szerint mondhatja fel.
 
-[^13]: A 4/A. §-t a 464/2016. (XII. 23.) Korm. rendelet 39. §-a iktatta be.
 [^14]: Az 5. § (1) bekezdés m) pontját a 172/2016. (VII. 1.) Korm. rendelet 70. § (1) bekezdése iktatta be.
 [^15]: Az 5. § (3) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 70. § (2) bekezdése iktatta be.
