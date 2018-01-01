@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-141-20-
 | 2017-01-01 | 2000-141-20-22.22 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-07-01 | 2000-141-20-22.23 | 171/2017. (VI. 29.) Korm. rendelet |
 | 2017-11-01 | 2000-141-20-22.24 | 311/2017. (X. 31.) Korm. rendelet |
+| 2018-01-01 | 2000-141-20-22.25 | 457/2017. (XII. 28.) Korm. rendelet |

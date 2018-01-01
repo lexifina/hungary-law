@@ -70,6 +70,6 @@
 
 | 34. | Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala | Keszthelyi Járási Hivatal Lenti Járási Hivatal Letenyei Járási Hivatal Zalaegerszegi Járási Hivatal Zalaszentgróti Járási Hivatal |
 
-4. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^93]
+4. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^98]
 
-[^93]: A 4. számú mellékletet a 206/2000. (XII. 11.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 191. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^98]: A 4. számú mellékletet a 206/2000. (XII. 11.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 191. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
