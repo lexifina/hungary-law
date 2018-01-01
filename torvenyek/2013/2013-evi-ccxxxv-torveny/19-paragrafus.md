@@ -2,4 +2,4 @@
 
 (2) A Felügyelet az általa kiadott engedélyekről, azok módosításáról vagy visszavonásáról szóló határozatát haladéktalanul megküldi a cégbíróságnak.
 
-(3) A Felügyelet az engedély iránti kérelmet elutasító jogerős határozatát megküldi a cégbíróságnak.
+(3) A Felügyelet az engedély iránti kérelmet elutasító végleges határozatát megküldi a cégbíróságnak.

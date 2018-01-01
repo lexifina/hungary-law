@@ -1,6 +1,6 @@
 29. § (1) A Felügyelet előzetes engedélyével választható meg vagy nevezhető ki a pénzforgalmi intézménynél, az elektronikuspénz-kibocsátó intézménynél a vezető állású személy.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel.
+(2)
 
 (3) Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
 
@@ -14,9 +14,9 @@ aa) amely esetében a fizetésképtelenséget csak a Felügyelet által alkalmaz
 
 ab) amelyet a tevékenységi engedély visszavonása miatt fel kellett számolni,
 
-és akinek személyes felelősségét e helyzet kialakulásáért jogerős határozat megállapította;
+és akinek személyes felelősségét e helyzet kialakulásáért végleges határozat megállapította;
 
-b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította;
+b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság végleges határozata vagy a bíróság jogerős ítélete öt évnél nem régebben megállapította;
 
 c) büntetett előéletű;
 
@@ -36,4 +36,4 @@ b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiak
 
 meghatározott bűncselekmény miatt az ügyész vádat emelt, vagy külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárás befejezéséig vezető állású személyként nem foglalkoztatható, és az ilyen feladatok általa történő ellátását az intézmény felfüggeszti.
 
-(7) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt az (5) bekezdés c) pontjában meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás jogerős befejezéséig kezelheti.
+(7) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt az (5) bekezdés c) pontjában meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás végleges befejezéséig kezelheti.

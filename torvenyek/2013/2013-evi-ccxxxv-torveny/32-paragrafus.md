@@ -40,4 +40,4 @@ d) felsőfokú vagy posztgraduális bankszakmai képesítést
 
 szerzett.
 
-(7) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt az (5) bekezdés c) pontjában meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti, és a megismert személyes adatokat a Felügyelet az eljárás jogerős befejezéséig kezelheti.
+(7) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt az (5) bekezdés c) pontjában meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti, és a megismert személyes adatokat a Felügyelet az eljárás végleges befejezéséig kezelheti.

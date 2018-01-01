@@ -56,7 +56,7 @@ h) az előírt vagy a szükséges szabályzatok, nyilvántartások, informatikai
 
 i) az előírásoknak való meg nem felelés miatt a vele szemben alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
 
-j) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalmazott intézkedést vagy bírságot megállapító határozat jogerőre emelkedését követő két éven belül – ismételten megsérti, vagy
+j) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalmazott intézkedést vagy bírságot megállapító határozat véglegessé válását követő két éven belül – ismételten megsérti, vagy
 
 k) a rá vonatkozó tőkemegfelelési előírásnak csak úgy tud megfelelni, hogy nem fizeti vissza lejáratkor a kiegészítő alárendelt kölcsönt.
 
@@ -82,6 +82,6 @@ e) a szükséges számviteli, vezetői információs vagy belső ellenőrzési r
 
 f) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése, vagy az adózott eredmény vagy a tőkekövetelmény módosítása céljából,
 
-g) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését követő öt éven belül – ismételten megsérti, vagy
+g) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat véglegessé válását követő öt éven belül – ismételten megsérti, vagy
 
 h) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti.

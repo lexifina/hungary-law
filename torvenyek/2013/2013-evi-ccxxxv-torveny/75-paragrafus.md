@@ -6,7 +6,7 @@ b) kötelezi az igazgatóságot a közgyűlés összehívására, továbbá megh
 
 c) felügyeleti biztost rendel ki a pénzforgalmi intézményhez, elektronikuspénz-kibocsátó intézményhez, utalványkibocsátóhoz, vagy
 
-d) visszavonhatja annak a vezető állású személynek a megválasztására vagy a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért jogerős határozatban megállapította, és kezdeményezi a pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél, utalványkibocsátónál más vezető állású személy megválasztását vagy kinevezését azzal, hogy ezen kivételes intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság.
+d) visszavonhatja annak a vezető állású személynek a megválasztására vagy a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért végleges határozatban megállapította, és kezdeményezi a pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél, utalványkibocsátónál más vezető állású személy megválasztását vagy kinevezését azzal, hogy ezen kivételes intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság.
 
 (2) Az (1) bekezdés c) pontjában meghatározott kivételes intézkedést a Felügyelet határozott időtartamra, de legfeljebb egy évre hozhatja meg. Ezt a határidőt a Felügyelet egy alkalommal, legfeljebb hat hónappal meghosszabbíthatja.
 

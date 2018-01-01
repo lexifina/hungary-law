@@ -6,7 +6,7 @@
 
 (4) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja, ügyvezetője a Ptk. rendelkezéseiben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának, ügyvezetőjének törvényben és alapszabályban megállapított jogait és kötelezettségeit.
 
-(5) A (4) bekezdéstől eltérően az igazgatóság vagy a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel, utalványkibocsátóval szemben hozott határozat ellen, e jogorvoslati eljárásban a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó képviselheti vagy a képviselet ellátására megbízást adhat.
+(5) A (4) bekezdéstől eltérően az igazgatóság vagy a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogosult arra, hogy a felügyeleti biztost kirendelő határozatot és a Felügyelet által a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel, utalványkibocsátóval szemben hozott határozatot közigazgatási perben megtámadja.
 
 (6) Ha a Felügyelet a 73. § (2) bekezdés c) pont cc) alpontja szerinti intézkedést a Tvt. alapján fizetést korlátozó eljárásnak minősíti, akkor az erről való döntés közlését követő hatállyal jogosult az eljárás alá vont, a fizetési rendszerhez közvetlenül csatlakozó résztvevő esetében a javára benyújtott fizetési megbízásnak a fizetési rendszer általi elszámolását, teljesítését átmenetileg vagy véglegesen megtiltani. A Felügyelet ezen döntéséről haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét.
 
