@@ -19,3 +19,5 @@ f) a közjegyző aláírását, pecsétjét.
 (4) A közjegyző az óvatolt váltót az óvatolásra utaló záradékkal látja el, melyet a váltóhoz fűz.
 
 (5) A közraktári jegy zálogjegy része óvásának szabályait a közraktározásról szóló törvény határozza meg.
+
+(6) Az óvás szabályait megfelelően kell alkalmazni minden olyan esetben, amikor jogszabály közhitelű óvás felvételét követeli meg vagy teszi lehetővé.

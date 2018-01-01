@@ -16,7 +16,13 @@ g) eredményes közjegyzői vizsgát tett, és
 
 h) az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét igazolta.
 
-(2) Az (1) bekezdés e) pontjában említett gyakorlatnak megfelel a legalább 3 éves bírói, ügyészi, ügyvédi, jogtanácsosi vagy közjegyzői gyakorlat.
+(2) Az (1) bekezdés e) pontjában említett gyakorlatnak megfelel a legalább 3 éves
+
+a) bírói, ügyészi, ügyvédi, kamarai jogtanácsosi vagy közjegyzői működés,
+
+b) a jogi szakvizsga megszerzését követően központi közigazgatási szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben szerzett kormánytisztviselői, illetve köztisztviselői gyakorlat, vagy
+
+c) a jogi szakvizsga megszerzését követően szerzett alkotmánybírói, nemzetközi szervezetnél vagy az Európai Unió valamely szervénél ítélkezési vagy az igazságszolgáltatással összefüggő tevékenységből eredő gyakorlat.
 
 (3) Nem nevezhető ki közjegyzővé az,
 

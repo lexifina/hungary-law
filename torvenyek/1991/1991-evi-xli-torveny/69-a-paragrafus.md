@@ -1,6 +1,6 @@
 69/A. § (1) A területi elnökség a működési vizsgálatot hivatalból indítja meg és kijelöli a vizsgálatot lefolytató kamarai tagokat.
 
-(2) A területi elnökség a vizsgálat keretében a közjegyző irodájába beléphet, iratait, nyilvántartásait megtekintheti, azokról másolatot készíthet.
+(2) A területi elnökség a vizsgálat keretében a közjegyző irodájába beléphet, iratait (ideértve a közjegyzői levéltárba és az elektronikus levéltárba leadott iratokat is), nyilvántartásait megtekintheti, azokról másolatot készíthet; valamint megismerheti az országos kamara által vezetett nyilvántartások és az országos kamara által működtetett nyilvántartások és elektronikus rendszerek adatait.
 
 (3) A közjegyző köteles a vizsgálat lefolytatását elősegíteni, a kamara felhívásában, határozatában foglaltakat teljesíteni, a helyszíni vizsgálat lefolytatását lehetővé tenni.
 

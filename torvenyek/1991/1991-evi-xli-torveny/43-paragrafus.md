@@ -2,4 +2,4 @@
 
 (2) A területi kamara üléséről alapos ok nélkül távolmaradó és mulasztását ki nem mentő közjegyző, közjegyzőjelölt és közjegyzőhelyettes ellen fegyelmi eljárás kezdeményezhető.
 
-(3) A területi kamara tagja nem vehet részt az olyan határozat meghozatalában, amelynek tárgya a saját személyét, hozzátartozóját [Pp. 13. § (2) bekezdés], a nála szolgálatot teljesítő közjegyzőjelöltet vagy közjegyzőhelyettest, továbbá a vele közös irodában működő közjegyzőt érinti. E körülményt a területi kamara tagja az ülés megnyitásakor az elnöknek köteles bejelenteni.
+(3) A területi kamara tagja nem vehet részt az olyan határozat meghozatalában, amelynek tárgya a saját személyét, a Polgári Törvénykönyv szerinti hozzátartozóját, a nála szolgálatot teljesítő közjegyzőjelöltet vagy közjegyzőhelyettest, továbbá a vele közös irodában működő közjegyzőt érinti. E körülményt a területi kamara tagja az ülés megnyitásakor az elnöknek köteles bejelenteni.

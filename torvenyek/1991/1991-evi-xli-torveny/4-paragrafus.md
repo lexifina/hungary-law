@@ -1,1 +1,1 @@
-4. § A közjegyző nem járhat el abban az ügyben, amelyben mint bíró a Polgári perrendtartásnak (a továbbiakban: Pp.) a bíró kizárására vonatkozó szabálya szerint nem járhatna el.
+4. § A közjegyző nem járhat el abban az ügyben, amelyben mint bíró a polgári perrendtartásról szóló 2016. évi CXXX. törvénynek (a továbbiakban: Pp.) a bíró kizárására vonatkozó szabálya szerint nem járhatna el.

@@ -14,6 +14,6 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által e cé
 
 a) a közjegyzői pályázat elbírálásáig,
 
-b) a közjegyzői kinevezés esetén a hatósági ellenőrzés időtartamára vagy a közjegyzői szolgálat megszűnésének megállapítására irányuló eljárásban az eljárás jogerős befejezéséig
+b) a közjegyzői kinevezés esetén a hatósági ellenőrzés időtartamára vagy a közjegyzői szolgálat megszűnésének megállapítására irányuló eljárásban az eljárás véglegessé válásáig
 
 kezeli.

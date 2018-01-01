@@ -12,4 +12,4 @@ d) az eredeti okiraton változtatás, sérülés vagy aggályt keltő más kör�
 
 (3) A másolatok hitelesítésére vonatkozó szabályokat kell megfelelően alkalmazni az okiratról, illetve az elektronikus úton vezetett adatbázisból a közjegyző felügyelete mellett, elektronikus úton előállított másolat és kivonat hitelesítésére, továbbá az elektronikus okiratról készített papíralapú másolat és kivonat hitelesítésére. A közjegyző az elektronikus úton készített másolatot és kivonatot minősített elektronikus aláírással látja el.
 
-(4) Nem kell hitelesítési záradékkal ellátni az elektronikus okiratról készített kiadmányt és másolatot, ha az sérülésmentes papír alapú okiratról készült és tartalmazza a teljes okiratot, továbbá a közjegyző elektronikus aláírását és az időbélyegzőt.
+(4) Nem kell hitelesítési záradékkal ellátni az elektronikus hiteles kiadmányt és hiteles másolatot, ha az sérülésmentes papíralapú okiratról vagy elektronikus közjegyzői okiratról készült és tartalmazza a teljes okiratot, továbbá a közjegyző minősített elektronikus aláírását és az időbélyegzőt.

@@ -1,5 +1,5 @@
 10. § (1) A közjegyző a közjegyzői működése körében okozott kár megtérítésére és személyiségi jogsértésért sérelemdíj megfizetésére a Polgári Törvénykönyv szabályai szerint köteles.
 
-(2) A kártérítés, illetve a sérelemdíj fedezetére a közjegyző köteles legalább ötvenmillió forint értékű felelősségbiztosítást kötni és azt közjegyzői működésének tartama alatt fenntartani.
+(2) A kártérítés, illetve a sérelemdíj fedezetére legalább százmillió forint értékű felelősségbiztosítást kell kötni és azt a közjegyzői működés tartama alatt fenn kell tartani.
 
-(3) A Magyar Országos Közjegyzői Kamara választmányának felhatalmazása alapján a közjegyző javára és érdekében a felelősségbiztosítás kötelező értékéig a Magyar Országos Közjegyzői Kamara köti meg a felelősségbiztosítást; a kiegészítő felelősségbiztosítás megkötésére ebben az esetben is a közjegyző jogosult.
+(3) A felelősségbiztosítást annak kötelező értékéig a közjegyző javára és érdekében a Magyar Országos Közjegyzői Kamara köti meg; a kiegészítő felelősségbiztosítás megkötésére a közjegyző jogosult.

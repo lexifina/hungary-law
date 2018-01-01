@@ -6,9 +6,11 @@ a) bejegyzés a közjegyzőhelyettesek és közjegyzőjelöltek kamarai névjegy
 
 b) a közjegyzői iroda alapítási engedélyének megadása iránti eljárás,
 
-c) felvétel a közjegyzői irodák kamarai nyilvántartásába, törlés a nyilvántartásból – kivéve, ha a törlésre a cégbíróságnak a közjegyzői irodát a cégjegyzékből törlő jogerős határozata alapján kerül sor – (a továbbiakban együtt: kamarai hatósági eljárás).
+c) felvétel a közjegyzői irodák kamarai nyilvántartásába, törlés a nyilvántartásból, kivéve, ha a törlésre a cégbíróságnak a közjegyzői irodát a cégjegyzékből törlő jogerős határozata alapján kerül sor, valamint
 
-(2) A kamarai hatósági eljárásban ügyfélnek minősül a közjegyzőjelölt, a közjegyzőhelyettes, illetőleg az őket foglalkoztató vagy foglalkoztatni kívánó közjegyző, valamint a közjegyzői iroda tagja és volt tagja.
+d) bejegyzés a közjegyzői irodai ügyintézők nyilvántartásába, törlés a nyilvántartásból (a továbbiakban együtt: kamarai hatósági eljárás).
+
+(2)
 
 (3) A kamarai hatósági eljárás lefolytatása iránti kérelmet csak a területi kamaránál, szóbeli kérelmet pedig csak személyesen lehet előterjeszteni.
 
@@ -16,7 +18,7 @@ c) felvétel a közjegyzői irodák kamarai nyilvántartásába, törlés a nyil
 
 (5)
 
-(6) A közigazgatási hatósági eljárás általános szabályairól szóló törvény kizárásra vonatkozó szabályait e törvény kizárási szabályaival együtt kell alkalmazni.
+(6) Az általános közigazgatási rendtartásról szóló törvény kizárásra vonatkozó szabályait e törvény kizárási szabályaival együtt kell alkalmazni.
 
 (7) A kamarai nyilvántartásból történő törlés iránti eljárást hivatalból meg kell indítani, ha a kamara a törlési okról tudomást szerez. A kamara a törlési eljárás során az ügyfelet nyilatkozattételre és adatszolgáltatásra kötelezheti.
 
@@ -26,10 +28,12 @@ c) felvétel a közjegyzői irodák kamarai nyilvántartásába, törlés a nyil
 
 a) a kamara nevét, a kamarai hatósági ügy számát, a kiadmányozó nevét és cégszerű aláírását, az okirat kiállításának helyét és időpontját,
 
-b) a névjegyékbe vétel, illetve a nyilvántartásba történő bejegyzés napját,
+b) a névjegyzékbe vétel, illetve a nyilvántartásba történő bejegyzés napját,
 
 c) közjegyzőhelyettes és közjegyzőjelölt névjegyzékbe vétele esetén nevét, születési helyét és időpontját, anyja nevét, a névjegyzékbe vétel időpontját, az alkalmazó közjegyző nevét és székhelyét,
 
 d) szükség esetén a közjegyzői iroda nevét, székhelyét, cégjegyzékszámát, tagjainak nevét és személyazonosító adatait.
+
+e) közjegyzői irodai ügyintéző nyilvántartásba vétele esetén nevét, születési helyét és időpontját, anyja nevét, a nyilvántartásba vétel időpontját, az alkalmazó közjegyző nevét és székhelyét.
 
 (10) A Magyar Országos Közjegyzői Kamara és a területi közjegyzői kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül közigazgatási hatósági ügynek.
