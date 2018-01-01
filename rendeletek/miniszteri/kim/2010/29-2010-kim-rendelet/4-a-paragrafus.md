@@ -16,6 +16,7 @@ e) az örökhagyó idegenrendészeti státusza, illetve
 
 f) az örökhagyó tulajdonát képező jelentősebb vagyontárgyai helye.
 
-(3) A jegyző az (1) bekezdés szerinti adatokról a hagyatéki leltár megküldésével egyidejűleg tájékoztatja a közjegyzőt.
+(3)[^7]
 
 [^6]: Az 1/A. alcímet (4/A. §) a 12/2015. (VII. 23.) IM rendelet 4. § (1) bekezdése iktatta be.
+[^7]: A 4/A. § (3) bekezdését a 20/2017. (XII. 21.) IM rendelet 35. § (3) bekezdése hatályon kívül helyezte.
