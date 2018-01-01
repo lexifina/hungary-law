@@ -22,4 +22,4 @@ e) a távolmaradás következményeire való figyelmeztetést.
 
 (7) A kiskorú idézéséről az őt gondozó törvényes képviselőt vagy más személyt azzal a felhívással kell értesíteni, hogy a megjelenéséről gondoskodjék. Ha a kiskorú a tizennegyedik életévét nem töltötte be, a törvényes képviselője útján kell idézni, illetve értesíteni. A kiskorú idézését, illetve értesítését a törvényes képviselőjével is közölni kell.
 
-(8) Ha a (7) bekezdés szerint idézett személy nem jelenik meg, és törvényes képviselője nem igazolja, hogy ez neki nem róható fel, a törvényes képviselő a Ket. szerinti eljárási bírsággal (a továbbiakban: bírság) sújtható.
+(8) Ha a (7) bekezdés szerint idézett személy nem jelenik meg, és törvényes képviselője nem igazolja, hogy ez neki nem róható fel, a törvényes képviselő az Ákr. szerinti eljárási bírsággal (a továbbiakban: bírság) sújtható.

@@ -1,0 +1,1 @@
+4/A. § Nem rögzíthető a körözött dolgok nyilvántartásában olyan rendszám körözésének az elrendelése, amely rendszám utángyártása a közúti közlekedési igazgatási feladatokról, közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet alapján engedélyezhető.

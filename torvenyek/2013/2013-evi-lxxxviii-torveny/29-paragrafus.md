@@ -16,4 +16,12 @@ b) a 26. § (1) bekezdés b) pontja
 
 szerinti intézkedést alkalmazhatja.
 
+(3a) A körözési eljárást lefolytató szerv a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33. § (1a) bekezdése alapján elrendelt dolgok körözésének végrehajtása során az Rtv. 29. §-a, 30. §-a, 32. §-a, 39. §-a és 42. § (1) bekezdése szerinti intézkedést alkalmazhatja.
+
 (4) A találatot elérő szerv a rejtett ellenőrzés végrehajtása során az Rtv. 46/C. §-ban foglalt intézkedést foganatosítja.
+
+(5) A körözési eljárást lefolytató szerv az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény alapján elrendelt dolgok körözése végrehajtása során
+
+a) az Rtv. 29. §, 32. §, 42. § (1) bekezdése szerinti intézkedéseket alkalmazhatja,
+
+b) az Rtv. 91/C. §-ban meghatározottakon kívül – az ott meghatározott rendelkezések alapulvételével – az ismeretlen helyen lévő járművek – beleértve az ismeretlen helyen lévő személyek által használt járműveket is – felkutatása érdekében a polgárőr szervezet, továbbá bűnmegelőzési, illetve vagyonvédelmi célú szervezet által üzemeltetett rendszámfelismerő- és azonosító rendszerekben együttműködési megállapodásban foglaltak szerint jelzés elhelyezését rendelheti el, amelyben a jármű észlelése esetén értesítés adását kérheti.

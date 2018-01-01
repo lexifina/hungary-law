@@ -1,6 +1,6 @@
-20/A. § (1) A 20. § szerint folytatott körözési eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek (a továbbiakban: Ket.)
+20/A. § (1) A 20. § szerint folytatott körözési eljárás során az általános közigazgatási rendtartásról szóló törvénynek (a továbbiakban: Ákr.)
 
-a) a lefoglalásra,
+a) a zár alá vételre és lefoglalásra,
 
 b) a tanúra és a hatósági tanúra,
 
