@@ -2,4 +2,6 @@
 
 (2) A bírósági közvetítés lefolytatása iránti olyan kérelem esetében, amely alapján bírósági közvetítésnek nincs helye, a bíróság szükség szerint a felet tájékoztatja a közvetítői eljárás és a bírósági közvetítői eljárás lényegéről, valamint a közvetítői eljárás és a bírósági közvetítői eljárás igénybevételének feltételeiről; ennek keretében tájékoztatás adható az igazságügyért felelős miniszter által a közvetítőkről vezetett névjegyzéknek a világhálón való elérhetőségi címéről. Ha a bíróságon bírósági közvetítő működik, a tájékoztatást a bírósági közvetítő adja meg.
 
-(3) Az OBH a bíróságok központi internetes honlapján tájékoztatást ad a bírósági közvetítési feladatokat ellátó bíróságokról.
+(3)[^151] Az OBH a központi honlapon tájékoztatást ad a bírósági közvetítési feladatokat ellátó bíróságokról.
+
+[^151]: A 75/B. § (3) bekezdése a 20/2017. (XII. 21.) IM rendelet 12. § h) pontja szerint módosított szöveg.

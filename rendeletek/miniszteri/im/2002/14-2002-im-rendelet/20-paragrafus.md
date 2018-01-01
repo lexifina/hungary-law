@@ -1,14 +1,6 @@
-## Az általános meghatalmazások jegyzéke
+## 19/A. §[^39] A bíróság az eljárási cselekmény időpontjának kitűzése során – amennyiben az akadályba nem ütközik, kérelemre – figyelembe veszi az idézendő személyek megjelenését befolyásoló körülményeket is.
 
-20. § (1)[^34] A bejelentett általános meghatalmazásokról a polgári vagy a peren kívüli iroda bekötött, lapszámozással ellátott, hitelesített névjegyzéket vezet. A jegyzékeket minden év utolsó napján le kell zárni. A jegyzékbe az iroda csak bírói rendelkezés alapján tehet bejegyzést. A névjegyzék elektronikus úton is vezethető.
+## A bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartása[^40]
 
-(2) A jegyzék adatairól bárki felvilágosítást kaphat.
-
-(3) A bejelentett általános meghatalmazásokat érkezésük sorrendjében kell a jegyzékbe bevezetni, a jegyzék sorszámát a bejelentés eredeti példányára fel kell jegyezni.
-
-(4) Az általános meghatalmazás visszavonása esetén a bejegyzést át kell húzni és a visszavonás tényét a bejegyzés mellett fel kell tüntetni.
-
-(5)[^35] Ha az általános meghatalmazás hatályát vesztette, a bejegyzést át kell húzni és a hatályvesztés tényét a bejegyzés mellett fel kell tüntetni.
-
-[^34]: A 20. § (1) bekezdésének negyedik mondatát a 22/2004. (V. 18.) IM rendelet 6. §-a iktatta be, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^35]: A 20. § (5) bekezdését a 21/2014. (III. 13.) KIM rendelet 12. § (1) bekezdése iktatta be.
+[^39]: A 19/A. §-t a 20/2017. (XII. 21.) IM rendelet 8. § (8) bekezdése iktatta be.
+[^40]: A bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartása (20. §) a 20/2017. (XII. 21.) IM rendelet 8. § (9) bekezdésével megállapított szöveg.

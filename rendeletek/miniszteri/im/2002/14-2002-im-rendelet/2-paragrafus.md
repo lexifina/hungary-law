@@ -48,7 +48,9 @@
 
 22. ügykönyv: az elítélt és a büntetés-végrehajtási (a továbbiakban: bv.) ügy legfontosabb adatairól elektronikus úton vezetett nyilvántartás vagy külön ívekből álló, évenként megnyitott és az év utolsó napján hitelesítetten lezárt, oldalszámmal ellátott és bekötött könyv;
 
-23.[^9] ügyvitel: a bírósági eljárásra vonatkozó törvények, más jogszabályok és OBH elnöki szabályzatok által meghatározott, az ügyintézés egymás utáni résztevékenységeinek (mozzanatainak) sorozata, illetve összessége, amely az ügyintézés formai és technikai feltételeit, az ítélkezés teljesítését célozza.
+22a.[^9] ügyszak: a bírósági jogalkalmazásra tartozó ügycsoportok jogágak szerinti, vagy az adott jogágon belül az eljárásban résztvevő személyek szerinti egysége (büntető, katonai büntető, büntetés-végrehajtási, szabálysértési, polgári, gazdasági, közigazgatási, munkaügyi);
+
+23.[^10] ügyvitel: a bírósági eljárásra vonatkozó törvények, más jogszabályok és OBH elnöki szabályzatok által meghatározott, az ügyintézés egymás utáni résztevékenységeinek (mozzanatainak) sorozata, illetve összessége, amely az ügyintézés formai és technikai feltételeit, az ítélkezés teljesítését célozza.
 
 [^3]: A 2. § 2. pontja a 18/2016. (VIII. 30.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § 6. pontja a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés b) pontja szerint módosított szöveg.
@@ -56,4 +58,5 @@
 [^6]: A 2. § 11. pontja a 22/2004. (V. 18.) IM rendelet 1. §-ával megállapított, a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^7]: A 2. § 13. pontja a 41/2004. (XII. 21.) IM rendelet 1. §-ával megállapított, a 18/2016. (VIII. 30.) IM rendelet 8. § a) pontja szerint módosított szöveg.
 [^8]: A 2. § 19. pontja a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^9]: A 2. § 23. pontja a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^9]: A 2. § 22a. pontját a 20/2017. (XII. 21.) IM rendelet 8. § (1) bekezdése iktatta be.
+[^10]: A 2. § 23. pontja a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés e) pontja szerint módosított szöveg.

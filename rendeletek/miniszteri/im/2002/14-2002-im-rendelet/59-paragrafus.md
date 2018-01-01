@@ -1,7 +1,5 @@
-59. § (1)[^90] A cég székhelyének megváltozásakor az eredeti székhely szerinti cégbíróság (átadó bíróság) cégjegyzékén az ügyintéző az iratmegküldés tényét és időpontját feltünteti, majd az iratot az új székhely szerinti cégbírósághoz (átvevő bíróság) továbbítja. Az elektronikus cégiratokat az átadó bíróság elektronikus úton küldi meg az átvevő bíróságnak.
+59. §[^91] (1) Ha a cég székhelyének más bíróság területére történő áthelyezésre irányuló változásbejegyzési kérelmével együtt végelszámolásának megindítását is bejelenti, a bíróság a végelszámolás megindításáról külön végzést hoz.
 
-(2) Az átvevő bíróság a saját nyilvántartása szerint, új cégjegyzékszámra lajstromozza a megküldött cégiratot. A cégjegyzék adatait a számítógépes program az átvevő bíróság ügyintézőjének megkeresésére a cég eredeti székhelye szerinti nyilvántartó-rendszerből az új székhely szerinti nyilvántartó-rendszerbe továbbítja. Ha az átvevő bíróság nyilvántartási rendszerébe a cég adatai megérkeztek, az átadó bíróság nyilvántartásából az átvevő bíróság ,,áttétel folytán törölve'' megjegyzéssel törli a céget; a törlés az átvétel időpontjától hatályos. Ettől az időponttól kezdve a céggel kapcsolatos felvilágosításra az átvevő bíróság köteles.
+(2) Ha a cég székhelyének más bíróság területére történő áthelyezésre irányuló változásbejegyzési kérelmével együtt a cég törlésére irányuló kérelmét is benyújtja, a bíróság a cég törlését megelőzően intézkedik a székhely áthelyezésének bejegyzéséről.
 
-(3) A székhelyváltozás bejegyzésének elutasítása után a bíróság az iratot a cég bejegyzett székhelye szerinti bíróságnak visszaküldi, ebben az esetben a lajstromozás a régi cégjegyzékszám alapján történik.
-
-[^90]: Az 59. § (1) bekezdésének utolsó mondatát a 41/2004. (XII. 21.) IM rendelet 6. §-a iktatta a szövegbe.
+[^91]: Az 59. § a 20/2017. (XII. 21.) IM rendelet 9. § (4) bekezdésével megállapított szöveg.

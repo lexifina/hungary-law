@@ -1,4 +1,4 @@
-## 12/F. §[^25] A BETFR használatához az ügyfelek képviselői által megadott természetes személyes azonosító adatokat tartalmazó iratokat az iroda kigyűjtve, az egyéb iratoktól elkülönítetten, a 41. § megfelelő alkalmazásával, zártan kezeli.
+## 12/F. §[^29] A BETFR használatához az ügyfelek képviselői által megadott természetes személyes azonosító adatokat tartalmazó iratokat az iroda kigyűjtve, az egyéb iratoktól elkülönítetten, a 41. § megfelelő alkalmazásával, zártan kezeli.
 
 ## Másolatok készítése, mellékletek kiadása
 
@@ -14,4 +14,4 @@
 
 (6) A külföldi felhasználásra szánt hiteles másolatot – ha nemzetközi szerződés alapján vagy nemzetközi szerződés hiányában azt felülhitelesíteni kell – a bíróság elnöke vagy elnökhelyettese az aláírásával, a hitelesítés időpontjának feltüntetésével és a bíróság bélyegzőlenyomatával hitelesíti. A hitelesítési záradék szövege a következő: ,,… (név) aláírását és a bíróság bélyegzőjének lenyomatát hitelesítem.''
 
-[^25]: A 12/F. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.
+[^29]: A 12/F. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.

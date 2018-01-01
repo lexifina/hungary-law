@@ -1,4 +1,4 @@
-## 35/A. §[^61] Külföldi bíróságok polgári ügyiratai esetében – ha a postai szolgáltató által a sikertelen kézbesítés alkalmával elhelyezett értesítőben megjelölt átvételi határidő eredménytelen elteltét követően a postai szolgáltató a hivatalos iratot a tértivevényen megjelölt ,,nem kereste'' jelzéssel a feladónak visszaküldi – a bíróság az így visszaküldött ügyiratot tizenöt napig magánál tartja, és ha a címzett azt ez idő alatt sem veszi át, a bíróság úgy jár el, mintha a címzett a kézbesítés során az átvételt megtagadta volna.
+## 35/A. §[^65] A külföldön kézbesítendő irat külföldre továbbítása iránt a bíró (tanács elnöke) teszi meg a nemzetközi magánjogról szóló 2017. évi XXVIII. törvény 73. § (1)–(3) bekezdése vagy a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről („iratkézbesítés”) és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és tanácsi rendelet 4. cikke szerinti intézkedéseket.
 
 ## Az irat csatolása és az ügyek egyesítése
 
@@ -8,4 +8,4 @@
 
 (3) A bírósági nyilvántartásokban a csatolást vagy az egyesítést oly módon kell feltüntetni, hogy annak időpontja megállapítható legyen.
 
-[^61]: A 35/A. §-t a 22/2004. (V. 18.) IM rendelet 9. §-a iktatta be, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^65]: A 35/A. §-t a 22/2004. (V. 18.) IM rendelet 9. §-a iktatta be, szövege a 20/2017. (XII. 21.) IM rendelet 8. § (11) bekezdésével megállapított szöveg.
