@@ -1,4 +1,4 @@
-## A szakoktatói, iskolavezetői képesítés megszerzéséhez szükséges tantervek oktatási témakörei[^361]
+## A szakoktatói, iskolavezetői képesítés megszerzéséhez szükséges tantervek oktatási témakörei[^365]
 
 ## 1. A szakoktatói képesítéshez:
 
@@ -32,7 +32,7 @@
 
 ## o) Önismereti, kommunikációs és konfliktuskezelési tréning.
 
-## 1/A.[^362] A szakoktatói képzés engedélyezésének feltételei:
+## 1/A.[^366] A szakoktatói képzés engedélyezésének feltételei:
 
 ## A felsőoktatási intézménynek igazolnia kell, hogy a hospitálási és tanítási gyakorlat elvégzésére érvényes megállapodással rendelkezik a tanulók fogadására (a hospitálási és a tanítási gyakorlat tantárgy tanításában való közreműködésre) olyan a 3. § (1) bekezdésében meghatározott képzési engedéllyel rendelkező képző szervvel (továbbiakban: gyakorló képző szerv), amely
 
@@ -42,13 +42,13 @@
 
 ## B) Tanítási és hospitálási gyakorlat tantárgyat olyan szakoktató oktathat, aki „Közlekedési ismeretek”, „Műszaki ismeretek” és A, B, C, D, E kategóriából „Járművezetési gyakorlat” szakos szakoktatói képesítéssel rendelkezik, szerepel a szakoktatói névjegyzékben az előbb említett tevékenységekre nem ideiglenesen és legalább 5 éves szakoktatói gyakorlattal rendelkezik.
 
-## 1/B.[^363] A szakoktatói továbbképzés ismeretanyaga
+## 1/B.[^367] A szakoktatói továbbképzés ismeretanyaga
 
 ## A szakoktatói továbbképzés ismeretanyagát a közlekedési hatóságnak az 1. pont figyelembevételével kell meghatároznia.
 
-## 1/C[^364] A képzést és továbbképzést követő vizsgakövetelményeket a közlekedési hatóságnak az 1. pont figyelembevételével kell meghatároznia.
+## 1/C[^368] A képzést és továbbképzést követő vizsgakövetelményeket a közlekedési hatóságnak az 1. pont figyelembevételével kell meghatároznia.
 
-## 2.[^365] Az iskolavezetői képesítéshez szükséges tantárgyak és vizsgatárgyak:
+## 2.[^369] Az iskolavezetői képesítéshez szükséges tantárgyak és vizsgatárgyak:
 
 ## a) Közigazgatási eljárási és polgári jogi ismeretek,
 
@@ -56,21 +56,21 @@
 
 ## c) A közúti közlekedési szakemberek képzésének rendszere.
 
-## 2/A.[^366] Az iskolavezetői továbbképzés ismeretanyagának ki kell terjednie:
+## 2/A.[^370] Az iskolavezetői továbbképzés ismeretanyagának ki kell terjednie:
 
 ## a) a 2. pontban meghatározott tan- és vizsgatárgyakra
 
 ## b) a képzés és vizsgáztatás helyzetére az elmúlt évben.
 
-## 3.[^367]
+## 3.[^371]
 
-12. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^368]
+12. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^372]
 
-[^361]: A 11. melléklet címe az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdésével megállapított szöveg.
-[^362]: A 11. melléklet 1/A. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdése iktatta be.
-[^363]: A 11. melléklet 1/B. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdése iktatta be.
-[^364]: A 11. melléklet 1/C pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdése iktatta be.
-[^365]: A 11. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdésével megállapított szöveg.
-[^366]: A 11. melléklet 2/A. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdése iktatta be.
-[^367]: A 11. melléklet 3. pontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
-[^368]: A 12. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.
+[^365]: A 11. melléklet címe az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdésével megállapított szöveg.
+[^366]: A 11. melléklet 1/A. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdése iktatta be.
+[^367]: A 11. melléklet 1/B. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdése iktatta be.
+[^368]: A 11. melléklet 1/C pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdése iktatta be.
+[^369]: A 11. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdésével megállapított szöveg.
+[^370]: A 11. melléklet 2/A. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (9) bekezdése iktatta be.
+[^371]: A 11. melléklet 3. pontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
+[^372]: A 12. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.

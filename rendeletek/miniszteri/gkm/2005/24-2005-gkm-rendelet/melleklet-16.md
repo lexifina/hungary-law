@@ -1,4 +1,4 @@
-16. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^430]
+16. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^434]
 
 ## Az e-learning rendszerű képzésekre vonatkozó követelmények
 
@@ -6,9 +6,9 @@ I. Akkreditációs eljárás
 
 1. A közlekedési hatóság évente egy alkalommal pályázatot hirdet az e-learning rendszerű képzésben alkalmazható zárt rendszerű távoktatási képzésmenedzsment rendszer (továbbiakban: Rendszer) és az e-learning rendszerű képzéshez szükséges digitális tananyagok (továbbiakban: Tananyag) tanúsításának, minősítésének (továbbiakban: akkreditációjának) megszerzésére.
 
-2.[^431] A Közlekedési Szakértői Testület az akkreditációs eljárás követelményeinek meghatározására, az akkreditációs jog visszavonására vonatkozóan az ügyrendje alapján – javaslatot tesz a közlekedésért felelős miniszter részére minden év december 15-ig. A közlekedésért felelős miniszter minden év december 31-ig közzéteszi az (1) bekezdés szerinti pályázati kiírást a közlekedésért felelős miniszter által vezetett minisztérium honlapján. A pályázatok beadásának határideje a kiírástól számított 30 nap, a pályázathoz mellékelni kell az igazgatási szolgáltatási díj befizetésének igazolását.
+2.[^435] A Közlekedési Szakértői Testület az akkreditációs eljárás követelményeinek meghatározására, az akkreditációs jog visszavonására vonatkozóan az ügyrendje alapján – javaslatot tesz a közlekedésért felelős miniszter részére minden év december 15-ig. A közlekedésért felelős miniszter minden év december 31-ig közzéteszi az (1) bekezdés szerinti pályázati kiírást a közlekedésért felelős miniszter által vezetett minisztérium honlapján. A pályázatok beadásának határideje a kiírástól számított 30 nap, a pályázathoz mellékelni kell az igazgatási szolgáltatási díj befizetésének igazolását.
 
-3. A Közlekedési hatóság az akkreditáció megszerzésére irányuló pályázattal kapcsolatos döntését a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint meghozott határozat formájában a Közlekedési Szakértői Testület állásfoglalásának figyelembe vételével hozza.
+3.[^436] A Közlekedési hatóság az akkreditáció megszerzésére irányuló pályázattal kapcsolatos döntését az általános közigazgatási rendtartásról szóló törvény szerint meghozott határozat formájában a Közlekedési Szakértői Testület állásfoglalásának figyelembe vételével hozza.
 
 4. Akkreditálni a Rendszert és valamely képzés teljes elméleti ismeretanyagát megfelelően feldolgozó e-learning Tananyagot lehet. Az akkreditálásra benyújtott Rendszernek és a Tananyagnak meg kell felelnie a II. pontban előírt követelményeknek és a (1) bekezdés szerinti pályázati kiírásnak.
 
@@ -28,7 +28,7 @@ ba) a jogszabályi követelményeknek,
 
 bb) a II. pontban előírt követelményeknek,
 
-bc)[^432] a közlekedésért felelős miniszter által kiadott tantervi, valamint
+bc)[^437] a közlekedésért felelős miniszter által kiadott tantervi, valamint
 
 bd) a pályázati kiírásnak, és
 
@@ -44,11 +44,11 @@ be) színvonala és kidolgozottsága – ide értve de nem kizárólagosan a spe
 
 10. Amennyiben az akkreditált Rendszer vagy Tananyag a 9. pont szerinti kötelező módosítását követő aktuális változata az erre vonatkozó felszólítást követő 10 munkanapon belül sem felel meg a jogszabályi, tantervi, akkreditációs előírásoknak, úgy a közlekedési hatóság a Rendszer vagy a Tananyag akkreditációját visszavonja.
 
-11.[^433] A közlekedésért felelős miniszter az akkreditált Rendszerek és a Tananyagok listáját és akkreditációs számát hivatalos honlapján közzéteszi.
+11.[^438] A közlekedésért felelős miniszter az akkreditált Rendszerek és a Tananyagok listáját és akkreditációs számát hivatalos honlapján közzéteszi.
 
 II. Követelmények
 
-1.[^434] Az e-learning rendszerű képzésben alkalmazható Rendszereknek akkreditációjára és üzemeltetésre vonatkozó követelmények, előírások:
+1.[^439] Az e-learning rendszerű képzésben alkalmazható Rendszereknek akkreditációjára és üzemeltetésre vonatkozó követelmények, előírások:
 
 a) a Rendszer akkreditációját megszerezni kívánó képző szervnek az akkreditációs időszak teljes idejére igazolnia kell a tanúsított és szabványos Rendszer jogszerű felhasználhatóságát legalább ezer konkurens (egyidejű) felhasználóra vonatkozóan,
 
@@ -80,11 +80,12 @@ m) a modulok végén önellenőrző tesztet kell biztosítani a tanuló számár
 
 a) a képzés Tananyagát – az e-learning tananyagokra vonatkozó speciális pedagógiai és didaktikai elvárásokra figyelemmel – olyan mennyiségű és színvonalú animációval és önellenőrző teszttel kell megvalósítani, hogy az előírt ismeretanyagot egy átlagos képességű tanuló külső segítség nélkül is el tudja sajátítani és megszerzett tudásának megfelelőségéről önállóan meg tudjon győződni,
 
-b)[^435] képzésen belül a Tananyagnak modulárisan kell felépülnie, oly módon, hogy egy átlagos képességű tanulónak képesnek kell lennie bármely modul egyszerre történő elvégzésére. A modulokat fejezetekbe kell szervezni olyan módon, hogy egy fejezet legfeljebb tíz modult tartalmazhat.
+b)[^440] képzésen belül a Tananyagnak modulárisan kell felépülnie, oly módon, hogy egy átlagos képességű tanulónak képesnek kell lennie bármely modul egyszerre történő elvégzésére. A modulokat fejezetekbe kell szervezni olyan módon, hogy egy fejezet legfeljebb tíz modult tartalmazhat.
 
-[^430]: A 16. mellékletet az 58/2011. (XI. 24.) NFM rendelet 39. § (14) bekezdése iktatta be.
-[^431]: A 16. melléklet I. pont 2. alpontja az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés d) pont da) alpontja szerint módosított szöveg.
-[^432]: A 16. melléklet I. pont 5. pont bc) alpontja az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés d) pont db) alpontja szerint módosított szöveg.
-[^433]: A 16. melléklet I. pont 11. alpontja az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés d) pont dc) alpontja szerint módosított szöveg.
-[^434]: A 16. melléklet II. Fejezet 1. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (10) bekezdésével megállapított szöveg.
-[^435]: A 16. melléklet II. Fejezet 2. pont c) alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (10) bekezdésével megállapított szöveg.
+[^434]: A 16. mellékletet az 58/2011. (XI. 24.) NFM rendelet 39. § (14) bekezdése iktatta be.
+[^435]: A 16. melléklet I. pont 2. alpontja az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés d) pont da) alpontja szerint módosított szöveg.
+[^436]: A 16. melléklet I. fejezet 3. pontja az 55/2017. (XII. 27.) NFM rendelet 29. § c) pontja szerint módosított szöveg.
+[^437]: A 16. melléklet I. pont 5. pont bc) alpontja az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés d) pont db) alpontja szerint módosított szöveg.
+[^438]: A 16. melléklet I. pont 11. alpontja az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés d) pont dc) alpontja szerint módosított szöveg.
+[^439]: A 16. melléklet II. Fejezet 1. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (10) bekezdésével megállapított szöveg.
+[^440]: A 16. melléklet II. Fejezet 2. pont c) alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (10) bekezdésével megállapított szöveg.

@@ -22,10 +22,11 @@ c)[^111] érvényes vezetői engedéllyel rendelkezik és egyetlen jármű-kateg
 
 d) nem vonatkozik olyan rendelkezés, amely szerint vezetői engedélyét csak utánképzés elvégzését követően kaphatja vissza, illetve tarthatja meg,
 
-e) a közlekedési hatóság a szakoktatói tevékenység végzésére vonatkozó előírások súlyos megszegése miatt jogerős határozatban az engedélyezési kérelem benyújtását megelőző 2 éven belül nem marasztalta el.
+e)[^112] a közlekedési hatóság a szakoktatói tevékenység végzésére vonatkozó előírások súlyos megszegése miatt végleges határozatban az engedélyezési kérelem benyújtását megelőző 2 éven belül nem marasztalta el.
 
 (6) A (4) bekezdés b) pontja szerinti jelentkező ideiglenesen engedélyezett szakoktatói tevékenységének időtartama alatt szakoktatói oklevelének bemutatásával külön eljárási díj nélkül kérheti szakoktatói tevékenysége időbeli korlátozásának törlését.
 
 [^109]: A 17. § az 58/2011. (XI. 24.) NFM rendelet 18. §-ával megállapított szöveg.
 [^110]: A 17. § (4) bekezdés a) pontja a 45/2013. (VIII. 7.) NFM rendelet 20. § f) pontja szerint módosított szöveg.
 [^111]: A 17. § (5) bekezdés c) pontja a 45/2013. (VIII. 7.) NFM rendelet 20. § g) pontja szerint módosított szöveg.
+[^112]: A 17. § (5) bekezdés e) pontja az 55/2017. (XII. 27.) NFM rendelet 29. § a) pontja szerint módosított szöveg.

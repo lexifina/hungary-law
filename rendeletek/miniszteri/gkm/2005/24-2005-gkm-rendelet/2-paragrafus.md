@@ -78,7 +78,7 @@
 
 45.[^17] Automata sebességváltóval rendelkező jármű: a 44. pontban előírt feltételeknek nem megfelelő jármű, amely tengelykapcsoló-pedállal vagy kézi váltókarral nem rendelkezik és ezeknek a működtetése a jármű elindításához nem szükséges.
 
-46.[^18] Érvényes vezetői engedély, igazolvány: a közlekedési hatóság által kiadott jogerős vezetői engedély, igazolvány, annak időbeli hatálya alatt.
+46.[^18] Érvényes vezetői engedély, igazolvány: a közlekedési hatóság által kiadott végleges vezetői engedély, igazolvány, annak időbeli hatálya alatt.
 
 (2) E rendeletben az (1) bekezdésben nem meghatározott fogalmak értelmezésekor a közúti közlekedésről szóló törvényben, és a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló kormányrendeletben foglalt értelmező rendelkezéseket kell megfelelően alkalmazni.
 
@@ -98,4 +98,4 @@
 [^15]: A 2. § (1) bekezdés 43. pontját a 45/2013. (VIII. 7.) NFM rendelet 1. § (3) bekezdése iktatta be.
 [^16]: A 2. § (1) bekezdés 44. pontját a 2/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.
 [^17]: A 2. § (1) bekezdés 45. pontját a 2/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.
-[^18]: A 2. § (1) bekezdés 46. pontját a 74/2016. (XII. 29.) NFM rendelet 3. §-a iktatta be.
+[^18]: A 2. § (1) bekezdés 46. pontját a 74/2016. (XII. 29.) NFM rendelet 3. §-a iktatta be, szövege az 55/2017. (XII. 27.) NFM rendelet 29. § a) pontja szerint módosított szöveg.

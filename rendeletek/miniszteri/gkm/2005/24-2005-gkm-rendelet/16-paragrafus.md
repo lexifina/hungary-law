@@ -40,7 +40,7 @@ ea) az engedélyezett tevékenységének végzése közben tanúsított magatart
 
 eb)[^105] olyan magatartást tanúsít, amely alkalmas arra, hogy a vizsga eredményét vagy az erről vezetett nyilvántartások ellenőrizhetőségét befolyásolja vagy a 13. § (5) bekezdése szerinti eljárása során a vizsga rendjét megzavarta, vagy a vezetési kartont elveszítette,
 
-ec)[^106] az iskolavezető cselekménye következtében a közlekedési hatóság a képző szerv tevékenységét jogerősen legalább 60 napra felfüggesztette,
+ec)[^106] az iskolavezető cselekménye következtében a közlekedési hatóság a képző szerv tevékenységét véglegesen legalább 60 napra felfüggesztette,
 
 ed)[^107] ha a kijelölt biztosító személy feladatainak ellátásán túlmenően a szakoktató a járművezetéssel járó gyakorlati oktatás és az azt követő vizsga során – ide nem értve az „AM”, az „A1”, az „A2”, az „A” és a „T” kategóriás gyakorlati oktatást és az azt követő vizsgát – nem tartózkodik a járműben,
 
@@ -50,6 +50,6 @@ f)[^108] meghatározza – a 12. számú melléklet 7. pontja és 13. számú me
 [^103]: A 16. § az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
 [^104]: A 16. § a) pont ai) alpontját a 45/2013. (VIII. 7.) NFM rendelet 21. § c) pontja hatályon kívül helyezte.
 [^105]: A 16. § e) pont eb) alpontja a 14/2015. (III. 31.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
-[^106]: A 16. § e) pont ec) alpontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (1) bekezdése iktatta be.
+[^106]: A 16. § e) pont ec) alpontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (1) bekezdése iktatta be, szövege az 55/2017. (XII. 27.) NFM rendelet 29. § b) pontja szerint módosított szöveg.
 [^107]: A 16. § e) pont ed) alpontját a 74/2016. (XII. 29.) NFM rendelet 8. §-a iktatta be.
 [^108]: A 16. § f) pontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (2) bekezdése iktatta be.
