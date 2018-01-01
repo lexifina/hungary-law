@@ -6,20 +6,20 @@
 
 (3) A rendelet 5. §-ának (2) bekezdése, 6. §-ának (2) bekezdése, 19. §-ának (1), (6) és (7) bekezdése, valamint 20. §-ának (3) bekezdése 2006. január 1-jén lép hatályba.
 
-(4)–(7)[^52]
+(4)–(7)[^53]
 
 Melléklet a 47/2004. (V. 11.) ESZCSM rendelethez
 
 A folyamatos egészségügyi ellátás szervezésének elvei
 
-I.[^53] Megszakítás nélküli munkarend kialakítása során műszak szervezése az alábbi esetekben kötelező:
+I.[^54] Megszakítás nélküli munkarend kialakítása során műszak szervezése az alábbi esetekben kötelező:
 
 1. sürgősségi betegellátó osztályon, sürgősségi centrumban,
 
 2. mentés.
 
-II–V.[^54]
+II–V.[^55]
 
-[^52]: A 23. § (4)–(7) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 30. pontja hatályon kívül helyezte.
-[^53]: A melléklet I. pontja a 12/2005. (IV. 19.) EüM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
-[^54]: A melléklet II–V. pontját a 34/2007. (VI. 29.) EüM rendelet 3. § (1) bekezdésének c) pontja hatályon kívül helyezte.
+[^53]: A 23. § (4)–(7) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 30. pontja hatályon kívül helyezte.
+[^54]: A melléklet I. pontja a 12/2005. (IV. 19.) EüM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
+[^55]: A melléklet II–V. pontját a 34/2007. (VI. 29.) EüM rendelet 3. § (1) bekezdésének c) pontja hatályon kívül helyezte.

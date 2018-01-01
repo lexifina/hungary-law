@@ -18,7 +18,7 @@ ec) más, a beteg állapota által indokolt ellátási szinten működő egészs
 
 f) a legfeljebb 24 óra alatti végleges ellátás, illetve a megfigyelést igénylő esetek ellátása és a betegnek közvetlenül az osztályról történő elbocsátása.
 
-(2) Speciális sürgősségi centrumot egy-egy térség ellátására az egyetemek, egyes országos intézetek, illetve speciális kórházi osztállyal rendelkező egészségügyi szolgáltatók a következő szakterületeken működtetnek:
+(2)[^38] Speciális sürgősségi centrumot egy-egy térség ellátására az egyetemek, egyes országos gyógyintézetek és országos társ-gyógyintézetek, illetve speciális kórházi osztállyal rendelkező egészségügyi szolgáltatók a következő szakterületeken működtetnek:
 
 a) szívsebészet a progresszivitás harmadik szintjén,
 
@@ -35,3 +35,4 @@ f) neurológia stroke ellátással együtt a progresszivitás második és harma
 g) infektológia a progresszivitás harmadik szintjén.
 
 [^37]: A 19. § a 41/2014. (VI. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^38]: A 19. § (2) bekezdés nyitó szövegrésze a 38/2017. (XII. 29.) EMMI rendelet 5. §-a szerint módosított szöveg.
