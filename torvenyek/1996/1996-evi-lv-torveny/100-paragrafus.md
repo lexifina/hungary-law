@@ -48,7 +48,7 @@ c) rendeletben szabályozza
 
 16. a vadászterület kialakításának, valamint határa megállapításának részletes szabályait,
 
-17. a vadászterületek és a vadászatra jogosultak nyilvántartásának szabályait,
+17. a vadászterületek nyilvántartásának szabályait,
 
 18. az önálló és a társult vadászati jog gyakorlásának szabályait,
 
@@ -68,13 +68,13 @@ c) rendeletben szabályozza
 
 26. a vadgazdálkodási-vadászati, valamint vadhúsvizsgálói képzettségekre, képesítésekre vonatkozó szabályokat,
 
-27. a vadászati hatóság eljárására vonatkozó szabályokat,
+27.
 
 28.
 
 29. az Országos Vadgazdálkodási Adattárból történő adatszolgáltatás módját,
 
-30. az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+30.
 
 31. a vadgazdálkodási és a vadvédelmi bírság befizetésének rendjét,
 
@@ -95,3 +95,11 @@ c) rendeletben szabályozza
 (1a) Felhatalmazást kap a miniszter, hogy rendeletben jelölje ki a vadgazdálkodási tájegységeket.
 
 (2) Felhatalmazást kap a Kormány arra, hogy a vadászati hatóságot vagy hatóságokat rendeletben jelölje ki.
+
+(3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+a) a vadászati hatóság eljárására,
+
+b) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeire, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmára, valamint a bejelentésre és a nyilvántartás vezetésére, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre
+
+vonatkozó szabályokat.

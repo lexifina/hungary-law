@@ -26,4 +26,4 @@ c) gondoskodik a hazai trófea-ranglista – zárttéri vadtartó létesítmény
 
 d) engedélyezi a nemzeti értékké nyilvánított trófea Magyarország területéről való kivitelét.
 
-(7) Az Országos Trófeabíráló Testület döntésével szemben jogorvoslatként csak a döntés bírósági felülvizsgálata kezdeményezhető.
+(7)

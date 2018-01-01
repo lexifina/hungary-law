@@ -8,4 +8,4 @@
 
 (4) A vadászati hatóság az (1) bekezdés szerinti szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű, és nem áll a szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a vadászati hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
-(5) A vadászati hatóság a szakértő (4) bekezdésben meghatározott személyes adatait a szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
+(5) A vadászati hatóság a szakértő (4) bekezdésben meghatározott személyes adatait a szakértő nyilvántartásból való törléséről szóló döntés véglegessé válásáig kezeli.

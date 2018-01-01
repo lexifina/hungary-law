@@ -10,6 +10,6 @@
 
 a) az engedélyes a vadászati hatóság felszólítását követően sem teljesíti a jogszabályban vagy a létesítési engedélyben előírt feltételeket,
 
-b) az engedélyessel szemben a vadászati hatóság 5 éven belül jogerősen 3 alkalommal szab ki bírságot a zárttéri vadtartás szabályai megsértése miatt,
+b) az engedélyessel szemben a vadászati hatóság 5 éven belül véglegesen 3 alkalommal szab ki bírságot a zárttéri vadtartás szabályai megsértése miatt,
 
 hivatalból visszavonja.

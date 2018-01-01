@@ -4,4 +4,4 @@
 
 (3) A vadászati engedély kiadásakor a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben megállapított összegű díjat kell fizetni.
 
-(4) A vadászati engedély kiállításának részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
+(4) A vadászati engedély kiállításának részletes szabályait az e törvény felhatalmazása alapján kiadott rendelet állapítja meg.
