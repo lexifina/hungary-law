@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-489-20-
 | 2017-01-01 | 2013-489-20-22.9 | 419/2015. (XII. 23.) Korm. rendelet |
 | 2017-02-02 | 2013-489-20-22.10 | 18/2017. (II. 1.) Korm. rendelet |
 | 2017-06-08 | 2013-489-20-22.11 | 123/2017. (VI. 7.) Korm. rendelet |
+| 2018-01-01 | 2013-489-20-22.12 | 457/2017. (XII. 28.) Korm. rendelet |

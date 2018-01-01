@@ -1,4 +1,4 @@
-## 34. §[^35]
+## 34. §[^53] E rendeletnek az általános közigazgatási rendtartásról szóló törvény hatálybalépésével összefüggő egyes kormányrendeletek módosításáról szóló 457/2017. (XII. 28.) Korm. rendelettel megállapított rendelkezéseit a rendelkezések hatálybalépését[^54] követően indult és a megismételt eljárásokban kell alkalmazni.
 
 1. melléklet a 489/2013. (XII. 18.) Korm. rendelethez
 
@@ -30,4 +30,5 @@
 
 3. Tájékoztató adatok a szakmai dolgozók létszámáról és átlagbéréről.
 
-[^35]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 457/2017. (XII. 28.) Korm. rendelet 475. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^54]: A hatálybalépés napja 2017. december 31.

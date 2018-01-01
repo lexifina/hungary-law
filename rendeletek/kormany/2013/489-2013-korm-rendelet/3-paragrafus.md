@@ -4,10 +4,12 @@
 
 (3) A fenntartó olyan engedélyes, illetve szolgáltatás után igényelhet támogatást, amely
 
-a) a tárgyévben jogerősen be van jegyezve a szolgáltatói nyilvántartásba,
+a)[^3] a tárgyévben véglegessé vált döntéssel be van jegyezve a szolgáltatói nyilvántartásba,
 
 b) – a támogatott lakhatás, valamint az Szt. 58/A. § (2d) bekezdésében és a Gyvt. 145. § (2b) bekezdésében foglaltak kivételével – a tárgyévben befogadást nyert, és
 
 c) megfelel a jogosultság jogszabályban meghatározott egyéb feltételeinek.
 
 (4) Ha a tárgyévben új engedélyest vagy szolgáltatást jegyeznek be a szolgáltatói nyilvántartásba, vagy az engedélyest, illetve az általa nyújtott valamely szolgáltatást a tárgyévben törlik a szolgáltatói nyilvántartásból, ezen engedélyesek, illetve szolgáltatások után a fenntartót a támogatás időarányosan illeti meg.
+
+[^3]: A 3. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 476. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

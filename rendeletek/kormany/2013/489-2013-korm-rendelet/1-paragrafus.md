@@ -24,6 +24,6 @@ j) tárgyév: az a naptári év, amelyre tekintettel a támogatást megállapít
 
 k) új fenntartó: az a fenntartó, amely tárgyév január 1-jén nem részesül támogatásban,
 
-l)[^1] működési támogatás: a központi költségvetésről szóló törvényben a szolgáltatások működéséhez biztosított támogatás, ide nem értve a szociális ágazati összevont pótlékhoz, valamint a bölcsődei pótlékhoz nyújtott támogatást.
+l)[^1] működési támogatás: a központi költségvetésről szóló törvényben a szolgáltatások működéséhez biztosított támogatás, ide nem értve a szociális ágazati összevont pótlékhoz, valamint az egészségügyi kiegészítő pótlékhoz nyújtott támogatást.
 
-[^1]: Az 1. § l) pontját a 18/2017. (II. 1.) Korm. rendelet 1. §-a iktatta be.
+[^1]: Az 1. § l) pontját a 18/2017. (II. 1.) Korm. rendelet 1. §-a iktatta be, szövege a 349/2017. (XI. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
