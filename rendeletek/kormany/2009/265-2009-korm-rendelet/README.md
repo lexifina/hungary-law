@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-265-20-
 | 2013-03-30 | 2009-265-20-22.4 | 99/2013. (III. 29.) Korm. rendelet |
 | 2013-10-01 | 2009-265-20-22.5 | 99/2013. (III. 29.) Korm. rendelet |
 | 2015-04-01 | 2009-265-20-22.6 | 70/2015. (III. 30.) Korm. rendelet |
+| 2018-01-01 | 2009-265-20-22.7 | 110/2020. (IV. 14.) Korm. rendelet |
