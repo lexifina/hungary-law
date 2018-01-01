@@ -2,9 +2,7 @@
 
 A törvény 29. § (1) bekezdés b) pontjában meghatározott bűncselekmények az alábbiak:
 
-1. emberölés [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 160. §, illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény)
-
-166. §],
+1. emberölés [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 160. §, illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 166. §],
 
 2. kábítószer-kereskedelem (Btk. 176–177. §) és kábítószer birtoklása (Btk. 178–179. §), illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti visszaélés kábítószerrel egyes esetei (1978. évi IV. törvény 282–282/A. §, 282/B. § (1)–(4) és (6)–(7) bekezdés, 282/C. §),
 
@@ -16,7 +14,7 @@ A törvény 29. § (1) bekezdés b) pontjában meghatározott bűncselekmények 
 
 6. radioaktív anyaggal visszaélés (Btk. 250. §), illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti visszaélés radioaktív anyaggal (1978. évi IV. törvény 264. §),
 
-7. terrorcselekmény (Btk. 314-316. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 261. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és terrorizmus finanszírozása (Btk. 318. §),
+7. terrorcselekmény (Btk. 314-316/A. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 261. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §),
 
 8. közveszély okozása (Btk. 322. §), illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti közveszélyokozás (1978. évi IV. törvény 259. §),
 

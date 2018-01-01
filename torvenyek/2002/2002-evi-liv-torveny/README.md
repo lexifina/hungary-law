@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2002-54-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2002-54-00-00.15 |
 | 2016-01-01 | 2015. évi CLXXIX. törvény | 2002-54-00-00.16 |
 | 2017-05-01 | 2016. évi CXVI. törvény | 2002-54-00-00.17 |
+| 2018-01-01 | 2017. évi XXXIX. törvény | 2002-54-00-00.18 |
