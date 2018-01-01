@@ -1,6 +1,22 @@
 ## Fellebbezés
 
-109. § (1) A közjegyző hagyatéki eljárást érdemben befejező (ideértve az öröklési bizonyítvány kiállítása iránti kérelem tárgyában hozott végzést is), valamint az eljárási költséget megállapító és annak viselésére kötelező, továbbá pénzbírságot kiszabó végzése ellen fellebbezésnek van helye.
+109. § (1) A hagyatéki eljárásban hozott
+
+a) ideiglenes hatályú hagyatékátadó végzés,
+
+b) teljes hatályú hagyatékátadó végzés,
+
+c) ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés,
+
+d) a 89. § szerinti végzés,
+
+e) az öröklési bizonyítvány kiállítása iránti kérelem tárgyában hozott végzés,
+
+f) az eljárási költséget megállapító és annak viselésére kötelező, valamint
+
+g) a pénzbírságot kiszabó végzés
+
+ellen fellebbezésnek van helye.
 
 (2) A közjegyző a biztosítási intézkedésről szóló végzést – a fellebbezésben foglaltaknak megfelelően – részben vagy egészben maga is megváltoztathatja.
 

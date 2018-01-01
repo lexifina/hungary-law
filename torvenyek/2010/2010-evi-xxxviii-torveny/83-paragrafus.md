@@ -2,7 +2,7 @@
 
 83. § (1) A közjegyző a hagyatékot teljes hatállyal adja át, ha a hagyaték átadásának nincs törvényes akadálya, és
 
-a) a hagyatékra csak egy örökösként érdekelt jelentett be igényt és a rendelkezésre álló adatok szerint másnak a hagyatékra öröklés, halál esetére szóló ajándékozás, dologi hagyomány vagy közérdekű meghagyás jogcímén igénye nincs, vagy
+a) a hagyatékban örökösként csak egy személy érdekelt, a rendelkezésre álló adatok szerint másnak a hagyatékra öröklés, halál esetére szóló ajándékozás, dologi hagyomány, közérdekű meghagyás, végintézkedéssel alapított bizalmi vagyonkezelési jogviszony vagy a végintézkedéssel létesített alapítvány jogcímén igénye nincs, vagy
 
 b) a hagyatéki eljárásban a hagyatéki vagyon átadása tekintetében nincs öröklési jogi vita vagy – figyelembe véve a (2) bekezdésben foglaltakat – másodlagos öröklési vita.
 
@@ -21,3 +21,5 @@ bb) a bíróság jogerős érdemi döntésének megfelelően módosítani kell.
 (4) A (3) bekezdés b) pontjában foglalt ingatlan-nyilvántartási eljárások költségét az viseli, akinek javára a jelzálogjog-törlési vagy -módosítási – felemelésre vagy leszállításra irányuló – eljárást megindítják.
 
 (5) A (2) bekezdésben meghatározott bírósági eljárást kezdeményező keresetlevélben – a jogszabályban meghatározottakon kívül – fel kell tüntetni a pénzösszeg letételének, illetve a jelzálogjog bejegyzésének tényét, és kérelmet kell előterjeszteni az azokról való döntés iránt. A bíróság jogerős ítéletét vagy a pert megszüntető vagy megszűnését megállapító végzését a közjegyzői letéttel kapcsolatos intézkedések megtétele céljából a közjegyzőnek, a jelzálogjoggal kapcsolatos intézkedések megtétele céljából az ingatlanügyi hatóságnak is megküldi; ugyanezen célból a keresetlevél idézés kibocsátása nélkül történő jogerős elutasításáról szóló végzést csak akkor küldi meg a közjegyzőnek, illetve az ingatlanügyi hatóságnak, ha a keresetlevél beadásához fűződő jogi hatályok fennmaradása nem következett be.
+
+(6) A 6. § (1) bekezdés jb) pontja szerinti másodlagos öröklési vita a hagyaték teljes hatályú átadásának nem akadálya.

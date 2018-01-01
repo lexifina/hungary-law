@@ -28,10 +28,12 @@ tárgyában bírósági vagy hatósági eljárás van folyamatban, vagy
 
 d) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mezőgazdasági igazgatási szerv által kiadott hatósági bizonyítvány szükséges.
 
+(2a) A közjegyző a hagyatéki eljárást a 18/A. § (2) bekezdése szerinti közjegyzői felhívás kibocsátásával egyidejűleg, a 18/A. § (6) bekezdése szerinti, a bizalmi vagyonkezelési jogviszony létrejöttét vagy létre nem jöttét megállapító közjegyzői végzés jogerőre emelkedéséig felfüggeszti.
+
 (3) Ha az (1) bekezdésben és a (2) bekezdés a)–c) pontjában meghatározott eljárás még nincs megindítva, de a rendelkezésre álló adatok és a megindításra jogosult nyilatkozata alapján rövid időn belül megindulása valószínűnek mutatkozik, a közjegyző az eljárás megindítására és annak igazolására az arra jogosultnak megfelelő határidőt tűz. Ha a határidő eredménytelenül telik le, az eljárás felfüggesztésének nincs helye. A (2) bekezdés d) pontjában meghatározott esetben a közjegyző a mező- és erdőgazdasági földek forgalmáról szóló törvény szerint szükséges feltételek fennállásáról szóló hatósági bizonyítvány kiadása céljából megkeresi a mezőgazdasági igazgatási szervet.
 
-(4) A hagyatéki eljárás felfüggesztése az (1) és (2) bekezdésekben meghatározott eljárások jogerős befejezéséig tarthat.
+(4) A hagyatéki eljárás felfüggesztése az (1) és (2) bekezdésekben meghatározott eljárások jogerős, illetve végleges befejezéséig tarthat.
 
 (5) A hagyatéki eljárás felfüggesztése alatt rész-hagyatékátadó végzés (79. §) hozható.
 
-(6) Ha a mezőgazdasági igazgatási szerv a mező- és erdőgazdasági földek forgalmáról szóló törvény alapján a hatósági bizonyítvány kiadását megtagadja, a közjegyző a végrendelet ezzel ellentétes rendelkezését semmisnek tekinti; a hagyaték érintett része tekintetében a végrendeleti örökösre való átszállás nem állapítható meg, illetve a hagyaték érintett része a végrendeleti örökösnek ideiglenes hatállyal sem adható át.
+(6) Ha a mezőgazdasági igazgatási szerv a mező- és erdőgazdasági földek forgalmáról szóló törvény alapján a hatósági bizonyítvány kiadását megtagadja, a közjegyző a végintézkedés ezzel ellentétes rendelkezését semmisnek tekinti; a hagyaték érintett része tekintetében a végrendeleti örökösre, a bizalmi vagyonkezelőre, vagy a végintézkedéssel létesített alapítványra való átszállás nem állapítható meg, illetve a hagyaték érintett része a végrendeleti örökösnek, a bizalmi vagyonkezelőnek, a végintézkedéssel létesített alapítványnak ideiglenes hatállyal sem adható át.

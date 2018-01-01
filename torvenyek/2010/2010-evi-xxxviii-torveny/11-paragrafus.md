@@ -6,4 +6,4 @@
 
 (4) Ha a hagyatéki eljárásban érdekelt gazdálkodó szervezet vagy jogi képviselővel rendelkező személy vagy szervezet vesz részt, részére az iratokat a Pp.-ben meghatározottak szerinti elektronikus úton kell kézbesíteni.
 
-(5) Az elektronikus úton való kézbesítés alóli kivételt jelenti, ha az okirat papír alapú bemutatása, megtekintése szükséges, vagy a kézbesítés elektronikus úton nem lehetséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú okiratok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás. A postai úton történő kézbesítést a közjegyző hivatalból elrendelheti és indokolt kérelemre engedélyezheti.
+(5) Ha a hagyatéki eljárásban érdekelt a részére az iratoknak elektronikus úton való kézbesítését kérte, utóbb a beadvány papíralapú benyújtásával egyidejűleg kérheti a közjegyzőtől a papíralapú eljárásra történő áttérés engedélyezését a Pp. szabályainak alkalmazásával. Az elektronikus úton való kézbesítés alóli kivételekre a Pp. és az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény rendelkezései alkalmazandók.

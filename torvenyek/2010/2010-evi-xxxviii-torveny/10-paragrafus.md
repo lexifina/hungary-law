@@ -1,1 +1,1 @@
-10. § A közjegyző a hagyatéki eljárás során felmerült kérdésekben végzéssel dönt.
+10. § Az eljárásban az ügy érdemében is végzéssel kell határozni.

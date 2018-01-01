@@ -10,4 +10,4 @@ c) a biztosítási intézkedés elrendelésével és foganatosításával kapcso
 
 d) a külföldi hatósághoz intézett megkereséssel összefüggésben felmerült költség.
 
-(2) A Pp. költségkedvezményekre vonatkozó rendelkezései a hagyatéki eljárásban nem alkalmazhatók.
+(2) A hagyatéki eljárásban – ideértve a közjegyző határozata ellen előterjesztett fellebbezés elbírálása iránti bírósági eljárást is – nincs helye költségmentességnek és költségfeljegyzési jognak.

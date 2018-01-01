@@ -1,16 +1,20 @@
-73. § (1) A hagyatéki eljárás költségét – a közjegyzői díjazás kivételével – a hagyatéki eljárásban
+73. § (1) A hagyatéki eljárás költségét – a közjegyzői munkadíj kivételével – a hagyatéki eljárásban
 
 a) annak kell előlegeznie,
 
-aa) aki a költséggel járó intézkedés megtételét kérte, vagy
+aa) aki a költséggel járó intézkedés megtételét kérte,
 
-ab) aki örökösként érdekelt (ha az intézkedés hivatalból történt);
+ab) aki örökösként érdekelt (ha az intézkedés hivatalból történt), vagy
 
-b) az viseli, akinek az eljárásbeli cselekménye folytán a költséggel járó intézkedés megtétele szükségessé vált; ha ez a személy nem állapítható meg, az örökös.
+ac) akinek a cselekménye folytán a fordítás szükségessé vált;
 
-(2) Az (1) bekezdés ab) pontja szerint előlegezett összeg hagyatékátadási tehernek minősül.
+b) az viseli, akinek az eljárásbeli cselekménye folytán a költséggel járó intézkedés megtétele szükségessé vált;
 
-(3) Ha jogszabály eltérően nem rendelkezik, a gondnoki díjazást és a biztosítási intézkedés költségét – ha az (1) bekezdés b) pontja szerinti személy nem állapítható meg vagy nem örököl – az örökös viseli.
+c) ha a b) pont szerinti személy nem állapítható meg, akkor egyetemleges kötelezettekként az örökös, a végintézkedéssel alapított bizalmi vagyonkezelési jogviszony szerinti bizalmi vagyonkezelő és a végintézkedéssel létesített alapítvány viseli.
+
+(2) Az (1) bekezdés szerint előlegezett összeg hagyatékátadási tehernek minősül.
+
+(3) Ha jogszabály eltérően nem rendelkezik, a gondnoki díjazást és a biztosítási intézkedés költségét – ha az (1) bekezdés b) pontja szerinti személy nem állapítható meg vagy nem örököl –, egyetemleges kötelezettekként az örökös, a végintézkedéssel alapított bizalmi vagyonkezelési jogviszony szerinti bizalmi vagyonkezelő és a végintézkedéssel létesített alapítvány viseli.
 
 (4) A közjegyzői munkadíj megelőlegezése elrendelésének nincs helye; a közjegyzői díjazást egyéb tekintetben
 
@@ -20,8 +24,6 @@ aa) aki a költséggel járó intézkedés megtételét kérte, vagy
 
 ab) aki örökösként érdekelt (ha az intézkedés hivatalból történt);
 
-b) az viseli, aki örököl; ilyen személy hiányában az, aki a hagyatékra igényt terjesztett elő.
+b) az viseli, aki örököl, aki a hagyatékból dologi hagyományosként, halál esetére megajándékozottként, végintézkedéssel alapított bizalmi vagyonkezelési jogviszony szerinti bizalmi vagyonkezelőként, a végintézkedéssel létesített alapítványként részesül; ilyen személy hiányában az egyéb öröklésben érdekeltek, ha egyéb öröklésben érdekeltek sincsenek, akkor az, aki a hagyatéki eljárás megindulását kezdeményezte.
 
-(5) Ha a hagyatéki eljárás díjának előlegezésére, illetve viselésére többen kötelesek, e kötelezettség őket egyetemlegesen terheli.
-
-(6) A 21. § (3) bekezdésében meghatározott esetben a közjegyző a jegyző költségére végzi el a leltározást. Ebben az esetben a leltározással összefüggésben felmerülő hagyatéki költség megelőlegezésének nincs helye.
+(5) Ha a hagyatéki eljárás költségének előlegezésére, illetve viselésére többen kötelesek, e kötelezettség őket egyetemlegesen terheli.

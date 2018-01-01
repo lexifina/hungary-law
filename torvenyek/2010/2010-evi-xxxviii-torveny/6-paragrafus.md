@@ -32,7 +32,11 @@ h) kieséses örökös: aki a hagyaték megnyíltával az örökhagyónak – se
 
 i) lajstromozott vagyontárgy: olyan ingó dolog vagy jog, amelyre vonatkozóan a tulajdonjog vagy a lajstromozott jog megszerzését belföldön vezetett közhiteles nyilvántartásba történő bejegyzés igazolja;
 
-j) másodlagos öröklési vita: az öröklésben érdekeltek között a hagyatéki hitelezői igény, a nem természetben kiadni igényelt kötelesrész iránti igény, illetve a kötelmi hagyomány iránti igény jogalapja vagy annak összegszerűsége tárgyában felmerült vita;
+j) másodlagos öröklési vita:
+
+ja) az öröklésben érdekeltek között a hagyatéki hitelezői igény, a nem természetben kiadni igényelt kötelesrész iránti igény, illetve a kötelmi hagyomány iránti igény jogalapja vagy annak összegszerűsége tárgyában felmerült vita,
+
+jb) a végrendeleti végrehajtó és más öröklésben érdekelt között, a végrendeleti végrehajtó feladatai, jogai, kötelezettségei, valamint a végrendeleti végrehajtói tevékenysége (intézkedése vagy mulasztása) tárgyában felmerült vita.
 
 k) osztályos egyezség: a hagyatéki eljárásban az örökösként érdekeltek között létrejött – a hagyatékban való részesedés mellett és kizárólag a hagyatéki vagyonra (annak egészére vagy részére) vonatkozóan kötött –, a hagyatékból való részesedést a hagyaték megnyíltára visszamenőleges hatállyal meghatározó, élők közötti jogügyletnek nem minősülő egyezség;
 
@@ -51,3 +55,5 @@ o) utóörökös: aki az örökhagyó végrendeleti intézkedése alapján az ö
 (4) Ha az örökhagyó végakaratának egésze vagy része végrehajtására végrendeletében cselekvőképes nagykorú vagy jogi személyt nevez meg, e személy (végrendeleti végrehajtó) öröklésben érdekeltnek tekintendő.
 
 (5) Ha végintézkedésében az örökhagyó alapítvány létrehozásáról rendelkezett, azt a hagyatéki eljárásban örökösként érdekeltnek kell tekinteni.
+
+(6) Ha az örökhagyó végintézkedéssel bizalmi vagyonkezelési jogviszonyt alapított és a bizalmi vagyonkezelővé való kijelölést a bizalmi vagyonkezelő a 18/A. § rendelkezései szerint a végintézkedésben meghatározott tartalommal elfogadta, a bizalmi vagyonkezelőt a hagyatéki eljárásban örökösként érdekeltnek kell tekinteni.

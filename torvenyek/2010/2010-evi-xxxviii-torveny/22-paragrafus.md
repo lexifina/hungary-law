@@ -2,13 +2,13 @@
 
 (2) Ha a hagyatéki leltárt a közjegyző maga készíti el, azt a hagyatéki tárgyalási jegyzőkönyvbe is foglalhatja.
 
-(3) A jegyző eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényből
+(3) A jegyző eljárására az Ákr.-ből
 
-a) a jegyzőkönyvre,
+a) a jegyzőkönyvre és feljegyzésre,
 
 b) a tényállás tisztázására,
 
-c) a belföldi és nemzetközi jogsegélyre, a Ket. 36. § (2) bekezdése alapján adatnak az ott meghatározott szervek nyilvántartásából történő beszerzésére,
+c) a megkeresésre, az Ákr.. 36. § (2) bekezdése alapján adatnak az ott meghatározott szervek nyilvántartásából történő beszerzésére,
 
 d) az idézésre, valamint
 

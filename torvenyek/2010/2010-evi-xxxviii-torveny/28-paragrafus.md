@@ -22,4 +22,4 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 (5) Ha a leltározás során az örökhagyó életbiztosítási vagy halálesetre szóló balesetbiztosítási szerződése a jegyző vagy a közjegyző birtokába kerül, akkor a szerződésben szereplő biztosítót az örökhagyó haláláról értesíti.
 
-(6) Ha a leltározás során az örökhagyó bizalmi vagyonkezelési szerződése a jegyző vagy a közjegyző birtokába kerül, vagy egyébként adat merül fel ilyen szerződés létrejöttére, vagy arra vonatkozóan, hogy az örökhagyó bizalmi vagyonkezelő volt, a jegyző vagy a közjegyző haladéktalanul értesíti a halálesetről a szerződésben szereplő vagyonrendelőt, további vagy új vagyonkezelőt és a kedvezményezettet.
+(6) Ha a leltározás során az örökhagyó bizalmi vagyonkezelési szerződése a jegyző vagy a közjegyző birtokába kerül, vagy egyébként adat merül fel ilyen szerződés létrejöttére, vagy arra vonatkozóan, hogy az örökhagyó bizalmi vagyonkezelő volt, a jegyző vagy a közjegyző haladéktalanul értesíti a halálesetről a szerződésben szereplő vagyonrendelőt (a vagyonrendelő jogutódát), valamint – ha az ismert, akkor – a további vagy új vagyonkezelőt és a kedvezményezettet.

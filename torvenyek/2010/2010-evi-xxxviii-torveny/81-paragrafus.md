@@ -12,7 +12,7 @@ hogy az ingó vagyontárgy nem tartozik a hagyatékhoz, hanem az igénylőt ille
 
 (3) Közhiteles nyilvántartásban az örökhagyó tulajdonaként bejegyzett vagyontárgyat csak abban az esetben lehet a hagyatékból kihagyni, ha
 
-a) jogerős bírósági vagy közigazgatási határozat alapján megállapítható, hogy az nem tartozott az örökhagyó hagyatékához, vagy
+a) jogerős bírósági vagy véglegessé vált közigazgatási határozat alapján megállapítható, hogy az nem tartozott az örökhagyó hagyatékához, vagy
 
 b) a vagyontárgy tulajdonjogára igényt tartó személy a hagyatéki tárgyalás berekesztéséig közokirattal igazolja, hogy javára a tulajdonjogot a nyilvántartásba bejegyezték.
 

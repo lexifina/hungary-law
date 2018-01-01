@@ -11,3 +11,7 @@ b) intézkedik az iratok illetékességi okból történő áttételéről,
 c) saját hatáskörben, illetve a jegyző megkeresésével intézkedik a hiányos leltár kiegészítése érdekében, vagy
 
 d) megszünteti a hagyatéki eljárást.
+
+(3) A közjegyző az örökhagyó esetleges végrendelete iránti tudakozódás céljából elektronikus úton megkeresi a Végrendeletek Országos Nyilvántartását.
+
+(4) A közjegyző az örökhagyó esetleges vagyonjogi szerződése iránti tudakozódás céljából elektronikus úton megkeresi a házassági és az élettársi vagyonjogi szerződések elektronikus nyilvántartását, valamint a bejegyzett adatok alapján a vagyonjogi szerződést beszerzi.
