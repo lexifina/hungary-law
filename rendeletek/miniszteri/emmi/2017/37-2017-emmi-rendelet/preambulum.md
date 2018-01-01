@@ -1,0 +1,1 @@
+Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 47. § (2) bekezdés b) pontjában kapott felhatalmazás alapján – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 48. § 9. pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
