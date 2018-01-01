@@ -84,6 +84,6 @@
 
 ## Az egyéni vállalkozók esetében az egyéni vállalkozók nyilvántartásában szereplő családi és utónév.
 
-3. melléklet a 141/2011. (VII. 21.) Korm. rendelethez[^15]
+3. melléklet a 141/2011. (VII. 21.) Korm. rendelethez[^16]
 
-[^15]: A 3. melléklet a 44/2014. (II. 25.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^16]: A 3. melléklet a 44/2014. (II. 25.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.

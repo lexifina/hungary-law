@@ -14,12 +14,13 @@ c) a vállalkozás vezető tisztségviselőjének, vezető állású munkaválla
 
 d) az e rendelet hatálya alá tartozó tevékenységhez kapcsolódó írásbeli tájékoztatót magyar nyelven, valamint a szerződésmintát magyar nyelven,
 
-e) ha az ingatlan fekvése szerinti államban az ingatlan használatba vétele, illetve építése engedélyhez kötött, a jogerős használatbavételi engedély vagy – ha az ingatlan építés alatt áll vagy építése még nem kezdődött meg – a jogerős építési engedély másolatát és az építőipari kivitelezési tevékenység előrelátható befejezésének időpontját,
+e)[^6] ha az ingatlan fekvése szerinti államban az ingatlan használatba vétele, illetve építése engedélyhez kötött, a végleges használatbavételi engedély vagy – ha az ingatlan építés alatt áll vagy építése még nem kezdődött meg – a végleges építési engedély másolatát és az építőipari kivitelezési tevékenység előrelátható befejezésének időpontját,
 
 f) az ingatlan címét, és ha van, helyrajzi számát, továbbá
 
 g) ingatlannak nem minősülő szállás esetében annak azonosítására szolgáló adatát.
 
-(2)[^6] A kereskedelmi hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: kormányhivatal) által a tartós szálláshasználati szolgáltatást nyújtókról vezetett nyilvántartás (a továbbiakban: nyilvántartás) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza az (1) bekezdés a)–c) és e)–g) pontjában meghatározott adatokat. A nyilvántartás az (1) bekezdés a), c) és e)–g) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2)[^7] A kereskedelmi hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: kormányhivatal) által a tartós szálláshasználati szolgáltatást nyújtókról vezetett nyilvántartás (a továbbiakban: nyilvántartás) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza az (1) bekezdés a)–c) és e)–g) pontjában meghatározott adatokat. A nyilvántartás az (1) bekezdés a), c) és e)–g) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-[^6]: A 29. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 177. § (1) bekezdésével megállapított szöveg.
+[^6]: A 29. § (1) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 334. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: A 29. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 177. § (1) bekezdésével megállapított szöveg.
