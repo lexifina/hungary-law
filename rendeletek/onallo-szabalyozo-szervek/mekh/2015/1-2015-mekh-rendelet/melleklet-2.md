@@ -92,4 +92,4 @@
 
 2. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^31]
 
-[^31]: A 2. mellékletet az 5/2017. (VI. 8.) MEKH rendelet 8. § b) pontjável megállapított szöveg.
+[^31]: A 2. melléklet a 16/2017. (XII. 13.) MEKH rendelet 1. §-ával megállapított szöveg.
