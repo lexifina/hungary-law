@@ -1,8 +1,9 @@
-19. § (1)[^8]
+19. § (1)[^9]
 
-(2)[^9]
+(2)[^10]
 
-(3) Az R4 1. mellékletébe foglalt táblázat 7. sora 2017. december 31-én hatályát veszti.
+(3)[^11]
 
-[^8]: A 19. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 19. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 19. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 19. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 19. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
