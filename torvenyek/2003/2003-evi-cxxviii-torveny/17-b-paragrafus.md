@@ -22,7 +22,7 @@ c) az előzetesen elvégzett talajmechanikai kutatás (vizsgálat) eredményét,
 
 d) a cél-kitermelőhely teleptani, tektonikai, hidrogeológiai, talajmechanikai viszonyainak ismertetését,
 
-e) az igénybevételre tervezett ingatlanok tulajdonosainak név- és címjegyzékét,
+e)
 
 f) a kitermelni tervezett nyersanyag mennyiségét,
 
@@ -62,9 +62,9 @@ g) a kitermelés miatt eltávolított humusz, illetve a fel nem használt tölt�
 
 a) az igénybe venni tervezett ingatlan tulajdonosával (vagyonkezelőjével) az ingatlanhasználatra kötött megállapodás hiteles másolatát,
 
-b) termőföld védelméről szóló törvényben meghatározott termőföld esetében a más célú hasznosítást engedélyező jogerős ingatlanügyi hatósági határozatot,
+b) termőföld védelméről szóló törvényben meghatározott termőföld esetében a más célú hasznosítást engedélyező végleges ingatlanügyi hatósági határozatot,
 
-c) az út megépítésére vonatkozó jogerős építési engedélyt.
+c) az út megépítésére vonatkozó végleges építési engedélyt.
 
 d)
 

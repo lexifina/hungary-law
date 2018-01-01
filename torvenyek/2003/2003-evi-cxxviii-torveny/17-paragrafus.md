@@ -6,7 +6,7 @@ b) a Kormány által, a megvalósítandó gyorsforgalmi út számára rendelette
 
 széles területsáv.
 
-(1a) Az (1) bekezdés b) pontja szerinti esetben a korlátozás a gyorsforgalmi út építésére kiadott építési engedély jogerőre emelkedésével hatályát veszti.
+(1a) Az (1) bekezdés b) pontja szerinti esetben a korlátozás a gyorsforgalmi út építésére kiadott építési engedély véglegessé válásával hatályát veszti.
 
 (2) A Kormány a 6. §-ban említett rendeletben – amennyiben a műszaki feltételek ezt lehetővé teszik – az (1) bekezdésben meghatározottnál keskenyebb területsávot is megállapíthat.
 
@@ -14,7 +14,7 @@ széles területsáv.
 
 (4) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a területsáv védettségének időtartamát meghatározó kormányrendeletben meghatározott időtartamon belül –
 
-a) más hatóság hatáskörébe tartozó építési vagy egyéb sajátos építményfajtákra vonatkozó jogerős engedély alapján végezhető tevékenység csak akkor kezdhető meg, illetve folytatható,
+a) más hatóság hatáskörébe tartozó építési vagy egyéb sajátos építményfajtákra vonatkozó végleges engedély alapján végezhető tevékenység csak akkor kezdhető meg, illetve folytatható,
 
 b) a földrészlet művelési ágát és minőségi osztályát csak akkor lehet megváltoztatni,
 
@@ -32,7 +32,7 @@ b) a tevékenység értéknövekedést nem eredményez vagy eredményez ugyan, d
 
 (7a) Amennyiben a nyomvonal felszín alatti vonalvezetéssel tervezett, a nyomvonal felszín alatti szakaszán a tengelytől számított 50 méteren belül a (4) bekezdés szerinti engedély a (7) bekezdésben foglaltak szerint adható ki. Az (1) bekezdés szerint védett terület fennmaradó részén a közlekedési hatóság az építtető hozzájárulásával megadhatja a (4) bekezdés szerinti engedélyt, ha a tevékenység értéknövekedést nem eredményez, vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy az autópálya építtetővel kötendő adásvételi szerződés esetén – lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről.
 
-(8) A (3)–(4) bekezdés szerinti tilalom, illetve használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően jogerősen engedélyezett építési munkákra.
+(8) A (3)–(4) bekezdés szerinti tilalom, illetve használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően véglegesen vagy jogerősen engedélyezett építési munkákra.
 
 (9) A (3)–(4) bekezdés szerinti tilalommal, illetve használati korlátozással bekövetkező akadályoztatás (az ingatlannak gyorsforgalmi út céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás (rendelkezésre tartás) időtartamára, jellegére, az akadályoztatást megelőző használathoz képest megállapítható mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan gyorsforgalmi út céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
 

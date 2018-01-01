@@ -6,10 +6,4 @@
 
 (2) A gyorsforgalmi úthálózat fejlesztésében közreműködő egyes szervek és személyek feladataikat az általános szabályok szerint, de az e törvényben foglalt eltérésekkel kötelesek ellátni.
 
-(3) A gyorsforgalmi úthálózat fejlesztésével összefüggő
-
-a)
-
-b) határozat bírósági felülvizsgálatára – ha e törvény eltérően nem rendelkezik – a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó
-
-rendelkezéseit kell alkalmazni.
+(3)
