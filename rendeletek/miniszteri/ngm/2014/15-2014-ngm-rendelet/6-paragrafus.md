@@ -2,7 +2,7 @@
 
 a) lakás tulajdonjogának és a lakáshoz kapcsolódó földhasználati jognak a megszerzése esetén az érvényes szerződés és az ingatlanügyi hatóságnak a tulajdonjog, földhasználati jog bejegyzését igazoló okirata, vagy az előzőekben felsorolt dokumentumok helyett a tulajdoni lap, valamint – a támogatás folyósítását megelőző hat hónapon belül és a folyósítás évét követő év március 31. napja közötti időszakra vonatkozó – az összeg felhasználását – ideértve különösen a vételárnak az eladó részére történő kifizetését – igazoló okirat;
 
-b) lakás építése, építtetése és lakás alapterületének növelése esetén a jogerős építési engedély, a lakóépület építésének egyszerű bejelentéséről szóló kormányrendelet szerinti bejelentés, valamint az összeg felhasználását igazoló, a támogatás folyósítását megelőző hat hónapon belül és a folyósítás évét követő év utolsó napjáig kiállított, a magánszemély vagy a magánszemély Polgári Törvénykönyv szerinti közeli hozzátartozója vagy élettársa nevére kiállított számla;
+b)[^11] lakás építése, építtetése és lakás alapterületének növelése esetén a jogerős vagy véglegessé vált építési engedély, a lakóépület építésének egyszerű bejelentéséről szóló kormányrendelet szerinti bejelentés, valamint az összeg felhasználását igazoló, a támogatás folyósítását megelőző hat hónapon belül és a folyósítás évét követő év utolsó napjáig kiállított, a magánszemély vagy a magánszemély Polgári Törvénykönyv szerinti közeli hozzátartozója vagy élettársa nevére kiállított számla;
 
 c) lakás korszerűsítése esetén a támogatás folyósítását megelőző hat hónapon belül és a folyósítás évét követő év utolsó napjáig kiállított, a magánszemély vagy a magánszemély Polgári Törvénykönyv szerinti közeli hozzátartozója vagy élettársa nevére kiállított számla;
 
@@ -20,12 +20,13 @@ a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény 
 
 b) az a hitel- vagy kölcsönszerződés, amelyet lakást terhelő jelzálogjog nem biztosít, de amelyet a hitelszerződésből vagy a hiteligénylésből megállapítható módon az Szja tv. 1. számú melléklet 9. pont 9.3.1. alpontja szerinti lakáscélú felhasználás céljából kötöttek, vagy
 
-c)[^11] az a kölcsön- vagy hitelszerződés, amelyet a hitelszerződésből megállapítható módon az a) és b) pontban meghatározott kölcsön- vagy hitelszerződés visszafizetése céljából kötöttek, ideértve az ilyen kölcsön- vagy hitelszerződés visszafizetése céljából kötött újabb szerződést, szerződéseket, továbbá a gyűjtőszámlahitel-szerződést is.
+c)[^12] az a kölcsön- vagy hitelszerződés, amelyet a hitelszerződésből megállapítható módon az a) és b) pontban meghatározott kölcsön- vagy hitelszerződés visszafizetése céljából kötöttek, ideértve az ilyen kölcsön- vagy hitelszerződés visszafizetése céljából kötött újabb szerződést, szerződéseket, továbbá a gyűjtőszámlahitel-szerződést is.
 
 (3) Az (1) bekezdés d) pontja szerinti igazolás beszerzése nem szükséges akkor, ha a hitelintézettől lakáscélú felhasználásra felvett hitel visszafizetéséhez, törlesztéséhez, a hitelhez kapcsolódó más kötelezettségek megfizetéséhez nyújtott támogatást a magánszemély önálló (giro-képes) hitelszámlájára, vagy a hitelt nyújtó hitelintézet törlesztéshez használt központi elszámoló számlájára utalják.
 
-(4)[^12] Nem vehető figyelembe a további támogatás felhasználásának igazolása során az (1) bekezdés szerint igazolt azon összeg, amelyet a munkáltató bármely korábban folyósított támogatás felhasználásának igazolása során már figyelembe vett, továbbá az az összeg, amely a hitelszerződésből megállapítható módon, vagy az erről szóló hitelintézeti igazolás alapján közvetve szolgálja a tőke törlesztését, és a tőketörlesztés időpontját megelőzően az (1) bekezdés szerint már igazolásra került.
+(4)[^13] Nem vehető figyelembe a további támogatás felhasználásának igazolása során az (1) bekezdés szerint igazolt azon összeg, amelyet a munkáltató bármely korábban folyósított támogatás felhasználásának igazolása során már figyelembe vett, továbbá az az összeg, amely a hitelszerződésből megállapítható módon, vagy az erről szóló hitelintézeti igazolás alapján közvetve szolgálja a tőke törlesztését, és a tőketörlesztés időpontját megelőzően az (1) bekezdés szerint már igazolásra került.
 
 [^10]: A 6. § (1) bekezdése a 66/2016. (XII. 29.) NGM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^11]: A 6. § (2) bekezdés c) pontja a 48/2014. (XII. 30.) NGM rendelet 10. §-ával megállapított szöveg.
-[^12]: A 6. § (4) bekezdése a 66/2016. (XII. 29.) NGM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^11]: A 6. § (1) bekezdés b) pontja az 52/2017. (XII. 29.) NGM rendelet 20. §-a szerint módosított szöveg.
+[^12]: A 6. § (2) bekezdés c) pontja a 48/2014. (XII. 30.) NGM rendelet 10. §-ával megállapított szöveg.
+[^13]: A 6. § (4) bekezdése a 66/2016. (XII. 29.) NGM rendelet 4. § (2) bekezdésével megállapított szöveg.
