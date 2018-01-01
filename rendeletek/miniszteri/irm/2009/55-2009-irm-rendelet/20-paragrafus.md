@@ -8,9 +8,9 @@
 
 (4) Ha a kerékbilincs alkalmazásával, illetve a jármű elszállításával, tárolásával kapcsolatban az önkormányzat 2009. augusztus 31-én hatályos rendelete az e rendelet mellékletében meghatározottaktól eltérő költséget állapított meg, akkor a kerékbilincs alkalmazásáért, illetve a jármű elszállításáért, tárolásáért az önkormányzati rendeletben meghatározott összeget kell megfizetni mindaddig, amíg az hatályban van, de legkésőbb 2010. december 31-ig.
 
-(5)[^5]
+(5)[^9]
 
-Melléklet az 55/2009. (X. 16.) IRM rendelethez[^6]
+Melléklet az 55/2009. (X. 16.) IRM rendelethez[^10]
 
 A kerékbilincs alkalmazásával és a jármű elszállításával kapcsolatos költségek
 
@@ -38,5 +38,5 @@ A kerékbilincs alkalmazásával és a jármű elszállításával kapcsolatos k
 
 | 7. | A település lakosságszámának 1. pont szerinti meghatározása esetén a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervnek az adott év január 1-jei állapot szerint közzétett adatai az irányadók. |
 
-[^5]: A 20. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^6]: A Melléklet az 58/2016. (XII. 22.) BM rendelet 23. §-a szerint módosított szöveg.
+[^9]: A 20. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^10]: A Melléklet az 58/2016. (XII. 22.) BM rendelet 23. §-a szerint módosított szöveg.
