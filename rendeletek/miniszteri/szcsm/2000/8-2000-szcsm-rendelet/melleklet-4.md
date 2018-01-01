@@ -36,4 +36,4 @@
 
 4. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^19]
 
-[^19]: A 4. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának c) pontjával megállapított szöveg.
+[^19]: A 4. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 22. § (8) bekezdésével megállapított szöveg.

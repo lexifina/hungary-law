@@ -2,29 +2,37 @@
 
 ## a személyes gondoskodást végző személyek működési nyilvántartásba vételéről
 
-| Igazolás a személyes gondoskodást végző személyek működési nyilvántartásba vételéről |
+## 1. Név:
 
-| Név: …………………………………………………………………………………………………………………………………. |
+## 2. Születési családi és utónév:
 
-| Leánykori név: ……………………………………………………………………………………………………………………… |
+## 3. Születési hely:
 
-| Születési hely: ……………………………………………………………………………………………………………….……… |
+## 4. Születési idő:
 
-| Születési idő: ………………………………………………………………………………………………………………………... |
+## 5. Anyja neve:
 
-| Anyja neve: ………………………………………………………………………………………………………………….……… |
+## 6. Nyilvántartási száma: ____________________
 
-| Nyilvántartási száma: |  |  |  |  |  |  |  |  |  |  |  |  |
+## 7. A személyes gondoskodást végző személyek adatainak nyilvántartását vezető Szociális és Gyermekvédelmi Főigazgatóság nevében igazolom, hogy
 
-| A személyes gondoskodást végző személyek adatainak nyilvántartását vezető Szociális és Gyermekvédelmi Főigazgatóság nevében igazolom, hogy a fent nevezettet felvettük a személyes gondoskodást végző személyek működési nyilvántartásába. |
+## a) a fent nevezettet felvettük a személyes gondoskodást végző személyek működési nyilvántartásába
 
-| Az igazolás érvényes: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -ig |
+## b) a fent nevezett továbbképzési, képzési kötelezettsége jellegének változása okán a működési nyilvántartásba vételéről szóló igazolás érvényessége a 8. pontban foglaltak szerint módosult
 
-| Dátum: …………………………………………………….. |
+## c) a fent nevezett a továbbképzési, vezetőképzési kötelezettségének eleget tett, valamint részére új továbbképzési, képzési időszak indult, így a működési nyilvántartásba vételéről szóló igazolás érvényessége a 8. pontban foglaltak szerint módosult
 
-| P. H. |
+## (A megfelelő rész aláhúzandó!)
 
-|  | ……………………………………………….. a nyilvántartó képviselőjének aláírása |
+## 8. Az igazolás érvényes: ____________________- ig
+
+## Dátum: .................................................................
+
+## P. H.
+
+## ..................................................................................
+
+## a nyilvántartó képviselőjének aláírása
 
 6. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^21]
 

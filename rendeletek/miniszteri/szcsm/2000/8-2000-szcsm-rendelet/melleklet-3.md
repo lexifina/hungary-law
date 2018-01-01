@@ -1,69 +1,109 @@
-## Adatlap a személyes gondoskodást végző személyek adataiban bekövetkezett
+## Adatlap a személyes gondoskodást végző személyek adataiban bekövetkezett változások bejelentéséhez
 
-## változások bejelentéséhez
+## Nyilvántartási szám: __________
 
-| Nyilvántartás szám: |  |  |  |  |
+## I. Személyes adatok
 
-## Név: ............................................................... Születési, családi és utónév: .............................................................................................................................
+## 1. Név:
 
-## Anyja neve: .................................................... Születési dátum: ...............................................................................................................................................
+## 2. Születési családi és utónév:
 
-## A változás oka:
+## 3. Születési hely, idő:
 
-## 1. Munkahelyen belüli telephely váltás:
+## 4. Anyja neve:
 
-| Régi telephely neve, címe: ................................................................................................................................................................ kódja: |  |  |  |  |
+## II. A változás oka
 
-|  | Ellátási forma: |
+## 1. Munkahelyen belüli telephelyváltás
 
-| Új telephely neve, címe: ................................................................................................................................................................... kódja: |  |  |  |  |
+## 1.1. Régi telephely neve, címe:
 
-|  | Ellátási forma: |
+## 1.2. Régi telephely kódja: _________
 
-## 2. Személyes adatok változása:
+## 1.3. Ellátási forma:
 
-|  | Nyilvántartásban szereplő név: |
+## 1.4. Új telephely neve, címe:
 
-|  | Új név: |
+## 1.5. Új telephely kódja: _________
 
-## 3. Munkakör változása:
+## 1.6. Ellátási forma:
 
-|  | Nyilvántartásban szereplő munkakör: |
+## 2. Személyes adatok változása
 
-|  | Új munkakör: |
+## 2.1. Nyilvántartásban szereplő név:
 
-|  | (Az új munkakör betöltéséhez szükséges szakképzettségről szóló bizonyítvány másolatát mellékeljék!) |
+## 2.2. Új név:
 
-## 4. Szakképzettség változása:
+## 3. Munkakör változása
 
-| A munkakörhöz, tevékenységi körhöz kapcsolódó új szakképesítés | Az oklevelet, bizonyítványt kiállító (képző) intézmény | Az oklevél, bizonyítvány száma | A bizonyítvány, oklevél kiállításának ideje |
+## 3.1. Nyilvántartásban szereplő munkakör:
 
-## (Az új szakképesítés megszerzéséről szóló bizonyítvány másolatát mellékeljék!)
+## 3.2. Új munkakör:
 
-## 5. Szüneteltetés:
+## (Az új munkakör betöltéséhez szükséges szakképzettségről szóló bizonyítvány másolatát kérjük mellékelni!)
 
-| A szüneteltetés kezdő időpontja: |  |  |  |  |  |  |  |  |
+## 4. Szakképzettség változása
 
-## Szüneteltetés oka: (A megfelelő rész aláhúzandó)
+|  | A munkakörhöz, tevékenységi körhöz kapcsolódó új szakképesítés | Az oklevelet, bizonyítványt kiállító (képző) intézmény | Az oklevél, bizonyítvány száma | A bizonyítvány, oklevél kiállításának ideje |
 
-## 1. Gyermekgondozási segély
+## (Az új szakképesítés megszerzéséről szóló bizonyítvány másolatát kérjük mellékelni!)
 
-## 2. Gyermekgondozási díj
+## 5. Szünetelés:
 
-## 3. Sorkatonai szolgálat
+## 5.1. A továbbképzési, vezetőképzési kötelezettség jellege
 
-## 4. Polgári szolgálat
+## 5.1.1. továbbképzési időszak
 
-## 5. Három hónapot meghaladó fizetés nélküli szabadság
+## 5.1.2. képzési időszak
 
-| A szüneteltetés befejezésének időpontja: |  |  |  |  |  |  |  |  |
+## (A megfelelő rész aláhúzandó.)
 
-## Dátum: ...................................................
+## 5.2. A szünetelés kezdő időpontja: ____________
+
+## 5.3. A szünetelés oka:
+
+## 5.3.1. Három hónapot meghaladó fizetés nélküli szabadság
+
+## 5.3.2. Hat hónapot meghaladó táppénz, baleseti táppénz
+
+## 5.3.3. Szülési szabadság
+
+## (A megfelelő rész aláhúzandó.)
+
+## 5.4. A szünetelés befejezésének időpontja: ______________
+
+## 6. A továbbképzési, vezetőképzési kötelezettség jellegének változása
+
+## 6.1. A kötelezettség változásának kezdő időpontja: _________________
+
+## (A vezetői megbízás, illetve az új vezetői megbízás kezdő időpontját, illetve a vezetői megbízás visszavonásának időpontját kell feltüntetni.)
+
+## 6.2. A kötelezettség változásának módja:
+
+## 6.2.1. mester vezetőképzés helyett alap vezetőképzésre kötelezett
+
+## 6.2.2. alap vezetőképzés helyett mester vezetőképzésre kötelezett
+
+## 6.2.3. alap vezetőképzés helyett továbbképzésre kötelezett
+
+## 6.2.4. mester vezetőképzés helyett továbbképzésre kötelezett
+
+## 6.2.5. továbbképzés helyett alap vezetőképzésre kötelezett
+
+## 6.2.6. továbbképzés helyett mester vezetőképzésre kötelezett
+
+## 6.2.7. továbbképzésre nem kötelezett alap vezetőképzésre kötelezetté válik
+
+## 6.2.8. továbbképzésre nem kötelezett mester vezetőképzésre kötelezetté válik
+
+## (A megfelelő rész aláhúzandó.)
+
+## Dátum: ............................
 
 ## P. H.
 
-|  | ....................................................................................... |
+## ...................................................................
 
-|  | a bejelentésre kötelezett aláírása |
+## a bejelentésre kötelezett aláírása
 
 3. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez

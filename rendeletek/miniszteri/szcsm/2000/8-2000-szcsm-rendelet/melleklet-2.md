@@ -80,7 +80,11 @@
 
 | 12. mentálhigiénés munkatárs | 24. gyermekvédelmi gyám | 37. terápiás munkatárs |
 
-|  | 25. gyermekgondozó | 38. egyéb, éspedig: |
+|  | 25. gyermekgondozó | 38. szakápoló |
+
+|  |  | 39. vezető szakápoló |
+
+|  |  | 40. egyéb, éspedig: …………………….. |
 
 | 13.1. Jelenlegi munkáltatónál a munkaviszony kezdete: |  |  |  |  |  |  |  |  |  |
 
@@ -96,7 +100,9 @@
 
 | A képzettség megnevezése*** | Az oklevelet, bizonyítványt kiállító (képző) intézmény | Az oklevél, bizonyítvány száma | A bizonyítvány, oklevél kiállításának ideje |
 
-| 16. Szakvizsgára kötelezett-e:**** | 1. Igen | 2. Nem |  |  |
+## 16. Alap vezetőképzésre kötelezett-e: 1. Igen 2. Nem
+
+## Mester vezetőképzésre kötelezett-e: 1. Igen 2. Nem
 
 ## Dátum: ......................................................
 
@@ -118,4 +124,4 @@
 
 2. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^18]
 
-[^18]: A 2. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának b) pontjával megállapított szöveg.
+[^18]: A 2. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 22. § (7) bekezdésével megállapított szöveg.

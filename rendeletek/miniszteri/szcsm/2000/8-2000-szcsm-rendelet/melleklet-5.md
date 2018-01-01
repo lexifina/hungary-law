@@ -1,53 +1,71 @@
-## Adatlap a személyes gondoskodást végző személyek szakvizsga és továbbképzési kötelezettsége teljesítésének bejelentéséhez
+## Adatlap a személyes gondoskodást végző személyek továbbképzési, illetve vezetőképzési kötelezettsége teljesítésének bejelentéséhez
 
-| Nyilvántartási szám: |  |  |  |  |  |  |
+## Nyilvántartási szám: ______________
 
-| Munkáltató kódja: |  |  |  |  |  |  |
+## Munkáltató kódja: _______________
 
-## 1. Név: ........................................................................ Születési, családi és utónév: .............................................................................................................…...
+## I. Személyes adatok
 
-## 2. A bejelentés oka:
+## 1. Név:
 
-## 2.1. Szakvizsga letétele
+## 2. Születési családi és utónév:
 
-| A szakvizsga letételének időpontja: |  |  |  |  |  |  |  |  |  |  |
+## 3. Születési hely, idő:
 
-## A szakvizsgát szervező intézmény neve, címe: …………………………………………………………………………………………………………
+## 4. Anyja neve:
 
-## A szakvizsgát tanúsító oklevél száma: ………………………………………………………………………………………………………………….
+## II. Továbbképzési kötelezettség teljesítése
 
-## (A szakvizsga letételét igazoló oklevél másolatát kérjük csatolják!)
+## 1. A személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló 9/2000. (VIII. 4.) SZCSM rendelet alapján a szociális és gyermekvédelmi területen minősített továbbképzések:
 
-## 2.2. Továbbképzési kötelezettség teljesítése:
+|  | A továbbképzés engedélyszáma | A továbbképzés megnevezése, címe | A továbbképzést szervező intézmény neve, címe | A továbbképzési pont megszerzésének időpontja | Megszerzett pontérték |
 
-## A 9/2000. (VIII. 4.) SZCSM rendelet alapján a szociális és gyermekvédelmi területen akkreditált továbbképzések:
+## (A továbbképzési kötelezettség teljesítését igazoló dokumentumok másolatát kérjük csatolni!)
 
-| A továbbképzés engedélyszáma | A továbbképzés megnevezése, címe | A továbbképzést szervező intézmény neve, címe | A továbbképzési pont megszerzésének időpontja | Megszerzett pontérték |
+## 2. Külön jogszabály által előírt továbbképzések teljesítése
 
-## (A továbbképzési kötelezettség teljesítését igazoló dokumentumok másolatát kérjük csatolják!)
+## 2.1. Az egészségügyi szakdolgozók továbbképzésének szabályairól szóló 63/2011. (XI. 29.) NEFMI rendelet alapján egészségügyi továbbképzésként nyilvántartásba vett képzések:
 
-## 2.3. Külön jogszabály által előírt továbbképzések teljesítése:
+|  | A továbbképzés engedélyszáma | A továbbképzés megnevezése, címe | A továbbképzést szervező intézmény neve, címe | A továbbképzési pont megszerzésének időpontja | Megszerzett pontérték |
 
-## A 28/1998. (VI. 17.) NM rendelet alapján az egészségügyi továbbképzési rendszerben akkreditált képzések:
+## (A továbbképzési kötelezettség teljesítését igazoló dokumentumok másolatát kérjük csatolni!)
 
-| A továbbképzés engedélyszáma | A továbbképzés megnevezése, címe | A továbbképzést szervező intézmény neve, címe | A továbbképzési pont megszerzésének időpontja | Megszerzett pontérték |
+## 2.2. A pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló 277/1997. (XII. 22.) Korm. rendelet alapján pedagógus-továbbképzésként akkreditált képzések:
 
-## (A továbbképzési kötelezettség teljesítését igazoló dokumentumok másolatát kérjük csatolják!)
+|  | A továbbképzés engedélyszáma | A továbbképzés megnevezése, címe | A továbbképzést szervező intézmény neve, címe | A továbbképzési pont megszerzésének időpontja | Megszerzett pontérték |
 
-## A 277/1997. (XII. 22.) Korm. rendelet alapján a pedagógus továbbképzési rendszerben akkreditált képzések:
+## (A továbbképzési kötelezettség teljesítését igazoló dokumentumok másolatát kérjük csatolni!)
 
-| A továbbképzés indítási engedélyszáma | A továbbképzés megnevezése, címe | A továbbképzést szervező intézmény neve, címe | A továbbképzés óraszáma |
+## III. Vezetőképzési kötelezettség teljesítése:
 
-## (A továbbképzési kötelezettség teljesítését igazoló dokumentumok másolatát kérjük csatolják!)
+## 1. A képzés szintje, szakasza:
 
-## Dátum: ..........................................................................................
+## 1.1. Alap vezetőképzés:
+
+## a) alapozó képzése
+
+## b) megújító képzése
+
+## 1.2. Mester vezetőképzés
+
+## a) alapozó képzése
+
+## b) megújító képzése
+
+## (A megfelelő rész aláhúzandó.)
+
+## 2. A vezetőképzés elvégzéséről szóló tanúsítvány száma:
+
+## (A vezetőképzés elvégzését igazoló tanúsítványt kérjük csatolni!)
+
+## Dátum: ............................................
 
 ## P. H.
 
-|  | ................................................................................. |
+## ....................................................................
 
-|  | a bejelentésre kötelezett aláírása |
+## a bejelentésre kötelezett aláírása
 
 5. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^20]
 
-[^20]: Az 5. számú melléklet a 39/2015. (VIII. 28.) EMMI rendelet 4. §-a, a 43/2016. (XII. 27.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
+[^20]: Az 5. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 22. § (9) bekezdésével megállapított szöveg.
