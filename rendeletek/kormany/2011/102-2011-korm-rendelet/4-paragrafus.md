@@ -2,7 +2,7 @@
 
 ## 2. Személygépkocsi szerzési támogatás
 
-4. § (1)[^16] A személygépkocsi szerzési támogatás (a továbbiakban: szerzési támogatás)
+4. § (1)[^17] A személygépkocsi szerzési támogatás (a továbbiakban: szerzési támogatás)
 
 a) súlyos mozgáskorlátozott, illetve egyéb fogyatékossággal élő személy esetén a közúti járművek műszaki megvizsgálásáról szóló rendelet értelmében új járműnek minősülő személygépkocsi, vagy
 
@@ -16,14 +16,14 @@ szerzésére felhasználható, a vételár megtérítéséhez nyújtott hozzáj�
 
 (2) A szerzési támogatás mértéke
 
-a)[^17] az (1) bekezdés a) pontja szerinti esetben 1 000 000 forint,
+a)[^18] az (1) bekezdés a) pontja szerinti esetben 1 000 000 forint,
 
 b) az (1) bekezdés b)–d) pontja szerinti esetben a vételár 60%-a, de legfeljebb 600 000 forint.
 
 (3) Az (1) bekezdés c)–d) pontja szerinti esetben vételárnak a társadalombiztosítási támogatással csökkentett vételár minősül.
 
-(4)[^18] A szerzési támogatással vásárolt személygépkocsi kizárólag a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személy érdekében használható.
+(4)[^19] A szerzési támogatással vásárolt személygépkocsi kizárólag a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személy érdekében használható.
 
-[^16]: A 4. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^17]: A 4. § (2) bekezdés a) pontja a 66/2016. (III. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^18]: A 4. § (4) bekezdését a 189/2011. (IX. 19.) Korm. rendelet 2. §-a iktatta be, szövege a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^17]: A 4. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 4. § (2) bekezdés a) pontja a 66/2016. (III. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^19]: A 4. § (4) bekezdését a 189/2011. (IX. 19.) Korm. rendelet 2. §-a iktatta be, szövege a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

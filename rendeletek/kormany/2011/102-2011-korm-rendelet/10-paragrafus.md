@@ -1,18 +1,22 @@
-10. § (1)[^53] A finanszírozó szervezet a jogosultságot megállapító határozat jogerőre emelkedését követően harminc napon belül megkeresi a 9. § (2) bekezdése szerinti személyt a kölcsönszerződés megkötése céljából.
+10. § (1)[^56] A közreműködő szervezet a jogosultságot megállapító határozat véglegessé válását követő harminc napon belül megkeresi a 9. § (2) bekezdése szerinti személyt, és tájékoztatja
 
-(2)[^54] A kölcsönszerződést – a megállapított szerzési támogatás összegének, valamint a szerzési támogatás jogosultja által befizetett önerő levonásával a vételárból fennmaradó összegre – három éves futamidővel kell megkötni. A szerzési támogatás jogosultjának és a finanszírozó szervezetnek a megállapodása alapján a kölcsönszerződés futamideje egy alkalommal, legfeljebb további három évvel meghosszabbítható.
+a) a rendelkezésre álló személygépkocsik megvásárlásának feltételeiről,
 
-(3)[^55] Ha a kölcsönszerződés a határozat jogerőre emelkedésétől számított három hónapon belül nem jön létre, a szerzési támogatás nem folyósítható. Ebben az esetben a hivatal a felszabadult szerzési támogatásnak megfelelő összegben új jogosultat jelöl ki.
+b) arról, hogy milyen feltételekkel vehet igénybe kölcsönt a személygépkocsi megvásárlásához.
 
-(4)[^56] A kölcsönszerződés egy példányát a miniszternek meg kell küldeni. A miniszter a szerzési támogatás összegét a szerződés beérkezését követő 15 napon belül utalja át a finanszírozó szervezet részére.
+(2)[^57] Az (1) bekezdés b) pontja szerinti igény esetén a kölcsönszerződést a megállapított szerzési támogatás összegének, valamint a szerzési támogatás jogosultja által befizetett önerő levonásával a vételárból fennmaradó összegre kell megkötni.
 
-(5)[^57] A miniszter a kölcsönszerződés létrejöttéről és a szerzési támogatás átutalásáról az átutalástól számított nyolc napon belül értesíti a hivatalt.
+(3)[^58] Ha az adásvételi szerződés a határozat véglegessé válásától számított négy hónapon belül nem jön létre, a szerzési támogatás nem folyósítható. Ebben az esetben a hivatal a felszabadult szerzési támogatásnak megfelelő összegben új jogosultat jelöl ki.
 
-(6)[^58] A 4. § (1) bekezdés b) pontja szerinti személygépkocsi esetében a (2) bekezdés szerinti kölcsönszerződés megkötésére abban az esetben van lehetőség, ha a személygépkocsit a belföldi kereskedelmi forgalomban személygépkocsik értékesítésével foglalkozó, adószámmal rendelkező szervezettől vagy személytől vásárolják meg.
+(4)[^59] Az adásvételi szerződés egy példányát a miniszternek meg kell küldeni. A miniszter a szerzési támogatás összegét a szerződés beérkezését követő 15 napon belül utalja át a közreműködő szervezet vagy az autókereskedő részére.
 
-[^53]: A 10. § (1) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja, a 66/2016. (III. 31.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^54]: A 10. § (2) bekezdése a 66/2016. (III. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^55]: A 10. § (3) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja, a 250/2012. (IX. 7.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
-[^56]: A 10. § (4) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^57]: A 10. § (5) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja, a 66/2016. (III. 31.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^58]: A 10. § (6) bekezdését a 189/2011. (IX. 19.) Korm. rendelet 11. § (2) bekezdés c) pontja hatályon kívül helyezte, újonnan a 66/2016. (III. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+(5)[^60] A miniszter az adásvételi szerződés létrejöttéről és a szerzési támogatás átutalásáról az átutalástól számított nyolc napon belül értesíti a hivatalt.
+
+(6)[^61] A 4. § (1) bekezdés a) és b) pontja szerinti személygépkocsi a támogatást megállapító határozat véglegessé válását követően vásárolható meg. A határozat véglegessé válása előtti megvásárlás esetén a szerzési támogatás nem folyósítható.
+
+[^56]: A 10. § (1) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. [A 10. § (1) bekezdésének a 457/2017. (XII. 28.) Korm. rendelet 325. § a) pontjával elrendelt módosítása, amely szerint a „jogerőre emelkedését” szövegrész helyébe a „véglegessé válását” szöveg lép, nem vezethető át.]
+[^57]: A 10. § (2) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^58]: A 10. § (3) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja, a 250/2012. (IX. 7.) Korm. rendelet 9. § h) pontja, a 402/2017. (XII. 15.) Korm. rendelet 7. § d) és e) pontja, a 457/2017. (XII. 28.) Korm. rendelet 325. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^59]: A 10. § (4) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja, a 402/2017. (XII. 15.) Korm. rendelet 7. § f) és g) pontja szerint módosított szöveg.
+[^60]: A 10. § (5) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja, a 66/2016. (III. 31.) Korm. rendelet 7. § a) pontja, a 402/2017. (XII. 15.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^61]: A 10. § (6) bekezdését újonnan a 66/2016. (III. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 402/2017. (XII. 15.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

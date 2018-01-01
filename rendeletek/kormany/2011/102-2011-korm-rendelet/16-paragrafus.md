@@ -1,3 +1,3 @@
-16–18. §[^78]
+16–18. §[^88]
 
-[^78]: A 16–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 16–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
