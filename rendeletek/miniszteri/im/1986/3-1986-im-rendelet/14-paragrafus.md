@@ -1,3 +1,3 @@
-## 13. §[^48]
+## 13. §[^52]
 
-[^48]: A 13. §-t a 65/2007. (XII. 23.) IRM rendelet 12. § (4) bekezdésének f) pontja hatályon kívül helyezte.
+[^52]: A 13. §-t a 65/2007. (XII. 23.) IRM rendelet 12. § (4) bekezdésének f) pontja hatályon kívül helyezte.
