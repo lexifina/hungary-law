@@ -22,6 +22,6 @@
 
 ## 2.2. A 2.1. pont alapján meghatározott frekvenciahasználati díjat több engedélyezett állomás vagy berendezés esetében az azonos kategóriába tartozó állomások vagy berendezések számával meg kell szorozni és az eredményül kapott frekvenciahasználati díjakat össze kell adni.
 
-6. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^61]
+6. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^63]
 
-[^61]: A 6. számú mellékletet a 2/2016. (II. 26.) NMHH rendelet 12. § f) pontja hatályon kívül helyezte.
+[^63]: A 6. számú mellékletet a 2/2016. (II. 26.) NMHH rendelet 12. § f) pontja hatályon kívül helyezte.
