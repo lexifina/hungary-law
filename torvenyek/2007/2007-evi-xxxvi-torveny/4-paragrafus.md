@@ -16,7 +16,7 @@ c) a kézbesítés iránti megkeresés kivételével az eljárás tárgyát kép
 
 d) a tanúnak, a szakértőnek és az eljárás alá vont személynek a szabálysértési jogsegély teljesítéséhez szükséges személyes adatait,
 
-e) a megkereső hatóság képviselőjének nevét, beosztását, aláírását és bélyegzőlenyomatát.
+e) a megkereső hatóság képviselőjének nevét, beosztását, aláírását.
 
 (3) A szabálysértési hatóság, illetve bíróság a szabálysértési jogsegély iránti megkeresést és mellékleteit a megkeresett külföldi hatóság államának hivatalos nyelvén, vagy nyelveinek egyikén, illetve olyan más nyelven terjeszti elő, amelyen a megkeresést a megkeresett állam elfogadja.
 

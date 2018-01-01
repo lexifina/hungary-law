@@ -12,4 +12,4 @@ alkalmazandó.
 
 (2) Nemzetközi szerződés eltérő rendelkezése esetén a nemzetközi szerződés irányadó.
 
-(3) E törvény csak olyan cselekmény esetében alkalmazható, amely a magyar jog szerint szabálysértés, és a külföldi állam joga szerint is büntetendő.
+(3) E törvény – eltérő rendelkezés hiányában – csak olyan cselekmény esetében alkalmazható, amely a magyar jogszabályok szerint szabálysértés, és a külföldi állam joga szerint is büntetendő.

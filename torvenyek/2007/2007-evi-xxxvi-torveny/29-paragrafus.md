@@ -1,6 +1,6 @@
 29. § (1) A külföldi határozat végrehajtásának átvételét meg kell tagadni, ha
 
-a) a magyar törvény szerint a büntetés elévült,
+a) határozat végrehajthatósága a Szabs. tv. szerint elévült, és a határozat olyan cselekményre vonatkozik, amely a magyar joghatóság alá tartozik,
 
 b) a külföldi határozat alapjául szolgáló cselekményt a magyar szabálysértési hatóság vagy a bíróság már jogerősen elbírálta,
 
@@ -12,6 +12,6 @@ e) nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi h
 
 (1a) A 27. § (4) bekezdés alapján átvett határozat végrehajtása megtagadható, ha a formanyomtatvány tanúsítvány hiányos. A központi hatóság ez esetben a külföldi határozat megküldését vagy egyéb kiegészítő információk megadását is kérheti.
 
-(2) Nincs helye a külföldi határozat végrehajtásának, ha annak jogerőre emelkedése óta egy év eltelt.
+(2) A külföldi határozat végrehajthatóságára a Szabs. tv. elévülésre vonatkozó szabályait azzal kell alkalmazni, hogy az elévülés határideje a végrehajtás átvétele iránti megkeresés központi hatósághoz érkezésének napján kezdődik.
 
-(3) Az elévülési időn belül megkezdett végrehajtás folytatásának nem akadálya, ha az elévülési idő már eltelt.
+(3)
