@@ -1,0 +1,3 @@
+5. § (1) A pályaalkalmassági vizsgálat megkezdése előtt a gépjárművezetőnek igazolnia kell, hogy a közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet 3. §-ában meghatározottak alapján gépjárművezetésre egészségi szempontból alkalmas. Rendkívüli pályaalkalmassági vizsgálat esetén legalább az alkalmasság alacsonyabb csoportú igazolása szükséges.
+
+(2) A pályaalkalmassági vizsgálat abban az esetben végezhető el, ha a gépjárművezető a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (a továbbiakban: KRESZ) 4. § (1) bekezdés b) és c) pontjában meghatározott személyi állapotra vonatkozó követelményeknek megfelel.

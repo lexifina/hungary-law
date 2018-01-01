@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya – a (2) bekezdésben foglalt kivétellel – azokra a gépjárművezetőkre és vezetési jogosultságot megszerezni szándékozókra terjed ki, akik gépjárművezetői tevékenység végzéséhez pályaalkalmassági minősítést kívánnak szerezni, továbbá azokra, akiket pályaalkalmassági minősítés megszerzésére köteleztek (a továbbiakban együtt: gépjárművezető).
+
+(2) A rendelet hatálya nem terjed ki a rendőrség, az Országgyűlési Őrség, a hivatásos katasztrófavédelmi szervek, az önkormányzati tűzoltóság és a büntetés-végrehajtási szervezet állományába tartozó hivatásos szolgálati jogviszonyban álló azon személyekre, akik e szervek megkülönböztető jelzést használó gépjárműveinek vezetésére jogosultak és ilyen gépjárművet vezetnek.

@@ -1,0 +1,3 @@
+4. § (1) A pályaalkalmassági vizsgálat elvégzésére vonatkozó kérelmet a közlekedési hatósághoz kell benyújtani, amely a 3. § (2) bekezdés b)–d) pontja kivételével a pályaalkalmassági vizsgálatot a gépjárművezető kérelmére végzi el.
+
+(2) Az I. és II. pályaalkalmassági minősítés megszerzése céljából pályaalkalmassági vizsgálatra az jelentkezhet, aki legalább két éve rendelkezik a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott bármely nemzetközi kategóriában folyamatosan hatályos vezetői engedéllyel, és nem minősül – a külön jogszabályban foglaltak alapján – kezdő vezetőnek.
