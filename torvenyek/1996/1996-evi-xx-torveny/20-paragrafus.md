@@ -10,7 +10,7 @@ a) az Egészségbiztosítási és Nyugdíjbiztosítási Alap, valamint az elkül
 
 b) A munkaügyi igazgatás szerve annak megállapítása érdekében, hogy a polgárnak a munkaügyi ellátás mellett van-e kereső tevékenységből származó jövedelme; illetőleg annak ellenőrzése céljából, hogy a polgár eleget tett-e munkavállalói járulék befizetési kötelezettségének, az adatszolgáltatás teljesítése érdekében;
 
-c) a bíróság, igazságszolgáltatási feladatának ellátásával, valamint az adózással kapcsolatos közigazgatási határozat törvényességi felülvizsgálatával összefüggésben;
+c) a bíróság, igazságszolgáltatási feladatának ellátásával összefüggésben;
 
 d) a nyomozó hatóság, az ügyész által jóváhagyott megkeresés alapján, ha az adóazonosító jel megismerése a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
 
@@ -36,4 +36,6 @@ n) a mezőgazdasági igazgatási szerv a föld tulajdonjoga vagy a földhasznál
 
 o) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben;
 
-p) a Központi Statisztikai Hivatal statisztikai célra.
+p) a Központi Statisztikai Hivatal statisztikai célra;
+
+q) az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására a Kormány rendeletében kijelölt szerv, valamint a felsőoktatási intézmények nyilvántartását vezető szerv (a továbbiakban együtt: oktatási hivatal) az oktatással kapcsolatos hatáskörei gyakorlásához, a nemzetgazdasági szintű tervezéshez, továbbá az oktatásban résztvevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez szükséges feladatainak ellátásával összefüggésben.

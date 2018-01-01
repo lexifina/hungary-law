@@ -2,7 +2,7 @@
 
 37. § (1) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – köteles rendszeres adatszolgáltatást teljesíteni:
 
-a) az állami adóhatóságnak az adóalanyok nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
+a) az állami adóhatóságnak az adóalanyok nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
 
 b) a társadalombiztosítási szervnek az egészségbiztosítási nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről, továbbá az Nytv. hatálya alá tartozó újszülöttek nyilvántartásában szereplő adatairól;
 
@@ -18,7 +18,9 @@ g) a központi ügyfél-regisztrációs szerv részére az adatbázisban szerepl
 
 g)
 
-h) az egyéni vállalkozók nyilvántartását vezető szervnek az egyéni vállalkozók nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, az érintett elhalálozásáról.
+h) az egyéni vállalkozók nyilvántartását vezető szervnek az egyéni vállalkozók nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, az érintett elhalálozásáról;
+
+i) a nyilvántartást vezető szervnek a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvény szerinti nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
 
 (1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – a hallgatói hitelrendszert működtető szervezet erre irányuló igénye esetén adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
 
@@ -27,6 +29,8 @@ h) az egyéni vállalkozók nyilvántartását vezető szervnek az egyéni váll
 (1c) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – a mezőgazdasági és vidékfejlesztési támogatási szerv erre irányuló igénye esetén rendszeres adatátadást teljesít a mezőgazdasági és vidékfejlesztési támogatási szerv részére az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben nyilvántartott polgár családi és utónevéről, névváltozásáról, születési nevéről, anyja nevéről, születési helyéről és idejéről, a lakóhelyének változásáról, valamint az érintett elhalálozásáról.
 
 (1d) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – az erdészeti hatóság erre irányuló igénye esetén rendszeres adatátadást teljesít az erdészeti hatóság részére az erdőgazdálkodói nyilvántartásban nyilvántartott polgár családi és utónevéről, névváltozásáról, születési nevéről, anyja nevéről, születési helyéről és idejéről, a lakóhelyének változásáról, külföldön történő letelepedéséről, valamint az érintett elhalálozásáról.
+
+(1e) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – rendszeres adatátadást teljesít a közúti közlekedési nyilvántartás járműnyilvántartását vezető szervnek a személyiadat- és lakcímnyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja születési, családi és utónevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, külföldön történő letelepedéséről, valamint az érintett elhalálozásáról.
 
 (2) A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:
 
@@ -44,4 +48,4 @@ f) a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető s
 
 g) a választójoggal nem rendelkező polgárok nyilvántartását vezető szervnek a választójoggal nem rendelkező polgárok nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
 
-(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek – az (1) bekezdés g) pontja szerinti központi ügyfél-regisztrációs szerv kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
+(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek – az (1) bekezdés a) pontja szerinti állami adóhatóság és az (1) bekezdés g) pontja szerinti központi ügyfél-regisztrációs szerv kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.

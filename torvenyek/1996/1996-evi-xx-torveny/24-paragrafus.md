@@ -24,4 +24,6 @@ k) a kincstár a 20. § (2) bekezdés g) pontjában meghatározott feladata telj
 
 l) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve és a katonai igazgatás területi szervei egymás között a törvényben meghatározott hadkiegészítési és érdekvédelmi feladataik ellátásához;
 
-m) a családtámogatások, a fogyatékossági támogatás és a bányászati keresetkiegészítés ügyében eljáró szerv, valamint a családtámogatási kifizetőhely a 23. § i) és n) pontjában meghatározott feladatainak teljesítéséhez.
+m) a családtámogatások, a fogyatékossági támogatás és a bányászati keresetkiegészítés ügyében eljáró szerv, valamint a családtámogatási kifizetőhely a 23. § i) és n) pontjában meghatározott feladatainak teljesítéséhez;
+
+n) az oktatási hivatal a hallgatói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére.

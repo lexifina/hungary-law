@@ -4,4 +4,4 @@
 
 (3) A személyiadat- és lakcímnyilvántartás szerve – a személyazonosító jelet is tartalmazó adatszolgáltatási igényre adott válasz kivételével – az adóhatóságnak a személyazonosító jelet 1996. december 31-e után nem továbbíthatja.
 
-(4) A foglalkoztató és kifizető a személyazonosító jelet az Art.-ban meghatározott kötelezettsége teljesítése érdekében kezelheti, és az állami adóhatóságnak továbbíthatja.
+(4) A foglalkoztató és kifizető a személyazonosító jelet az adózás rendjéről szóló törvényben meghatározott kötelezettsége teljesítése érdekében kezelheti, és az állami adóhatóságnak továbbíthatja.
