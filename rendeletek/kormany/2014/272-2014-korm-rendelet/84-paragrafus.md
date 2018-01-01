@@ -30,7 +30,7 @@ k) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifize
 
 l) társasház és lakásszövetkezet a szociális célú városrehabilitációra vonatkozó felhívás keretében,
 
-m)[^437] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes (tizenkét naptári hónapot jelentő) üzleti évvel, és szerepel az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 32. pontja szerint közzétett köztartozásmentes adózói adatbázisban.
+m)[^437] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes (tizenkét naptári hónapot jelentő) üzleti évvel, és szerepel az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerint közzétett köztartozásmentes adózói adatbázisban.
 
 (2) A felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
 
@@ -44,6 +44,6 @@ b) kutatás-fejlesztésre vagy innovációra irányul.
 
 [^435]: A 84. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 91. pontjával megállapított szöveg.
 [^436]: A 84. § (1) bekezdés h) pont hb) alpontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 21. pontja szerint módosított szöveg.
-[^437]: A 84. § (1) bekezdés m) pontját a 358/2014. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 144/2015. (VI. 12.) Korm. rendelet 100. § 92. pontja szerint módosított szöveg.
+[^437]: A 84. § (1) bekezdés m) pontját a 358/2014. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 144/2015. (VI. 12.) Korm. rendelet 100. § 92. pontja, a 475/2017. (XII. 28.) Korm. rendelet 59. §-a szerint módosított szöveg.
 [^438]: A 84. § (3) bekezdését a 358/2014. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 144/2015. (VI. 12.) Korm. rendelet 100. § 93. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 29. pontja szerint módosított szöveg.
 [^439]: A 84. § (4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 49. §-a iktatta be, szövege a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 18. pontja szerint módosított szöveg.

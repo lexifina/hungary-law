@@ -1,6 +1,6 @@
 77. § (1) A támogatási szerződés megkötéséhez vagy – ha a felhívás lehetővé teszi – legkésőbb az első kifizetési kérelemhez a kedvezményezett köteles benyújtani
 
-a)[^393] a kedvezményezett nevében aláíró személy vagy személyek – a költségvetési szerv, a helyi önkormányzat, a kisebbségi önkormányzat, az egyházi jogi személy, a felsőoktatási intézmény, a közalapítvány és az állam kizárólagos tulajdonában lévő gazdasági társaság kivételével – pénzügyi intézmény által igazolt, ügyvéd által ellenjegyzett vagy közjegyző által hitelesített aláírás mintáját,
+a)[^393] a kedvezményezett nevében aláíró személy vagy személyek – a költségvetési szerv, a helyi önkormányzat, a kisebbségi önkormányzat, az egyházi jogi személy, a felsőoktatási intézmény, a közalapítvány és az állam kizárólagos tulajdonában lévő gazdasági társaság kivételével – pénzügyi intézmény által igazolt, ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját, közjegyző által hitelesített aláírási címpéldányát, vagy ezek közjegyző által hitelesített másolatát,
 
 b)[^394]
 
@@ -36,7 +36,7 @@ a) az állami adóhatóságnál a kedvezményezett és a kedvezményezettben tö
 
 b) természetes személy kedvezményezett esetén a 164. § (3) bekezdés e) pontja szerinti kizárását az e rendelet hatálya alá tartozó támogatások igénybevételéből.
 
-[^393]: A 77. § (1) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^393]: A 77. § (1) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 14. pontja, a 393/2017. (XII. 13.) Korm. rendelet 62. §-a szerint módosított szöveg.
 [^394]: A 77. § (1) bekezdés b) pontját a 387/2017. (XII. 12.) Korm. rendelet 14. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^395]: A 77. § (1) bekezdés c) pontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 20. pontja szerint módosított szöveg.
 [^396]: A 77. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 45. §-ával megállapított szöveg.

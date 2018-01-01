@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2017-11-11 | 2014-272-20-22.40 | 328/2017. (XI. 8.) Korm. rendelet |
 | 2017-12-14 | 2014-272-20-22.41 | 397/2017. (XII. 13.) Korm. rendelet |
 | 2017-12-15 | 2014-272-20-22.42 | 387/2017. (XII. 12.) Korm. rendelet |
+| 2018-01-01 | 2014-272-20-22.43 | 358/2014. (XII. 29.) Korm. rendelet |
