@@ -20,7 +20,7 @@ e) a pénztár befektetéssel foglalkozó alkalmazottai, a letétkezelő, a vagy
 
 (6)[^31] A vagyonkezelési irányelvek esetében referencia index alatt értendő a kezelt portfólió jellemző összetételét tükröző tőkepiaci index vagy több tőkepiaci index kombinációja, melynek adott időszak alatti változása összehasonlítható a kezelt portfólió adott időszak alatti, az adott portfólióval kapcsolatos pénzáramlást figyelembe vevő vagyonkezelői hozamrátával. A vagyonkezelési irányelvekben foglalt referencia indexeknek összességében összhangban kell állniuk a pénztárszintű befektetési politika referencia indexével.
 
-(7)[^32] A befektetési politikát a pénztár a tevékenységi engedély hatálybalépését követő 180 napon belül egy alkalommal köteles – az annak elfogadását követő 15 napon belül – a Felügyelethez benyújtani. A pénztár ugyancsak köteles az alapszabálynak – a saját járadékszolgáltatás lehetőségét tartalmazó – módosítását követő 15 napon belül, a szolgáltatási tartalék eszközeinek befektetésére vonatkozó rendelkezésekkel kiegészített befektetési politikát a Felügyelet részére megküldeni. A Felügyelet megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak.
+(7)[^32] A befektetési politikát a pénztár a tevékenységi engedély véglegessé válását követő 180 napon belül egy alkalommal köteles – az annak elfogadását követő 15 napon belül – a Felügyelethez benyújtani. A pénztár ugyancsak köteles az alapszabálynak – a saját járadékszolgáltatás lehetőségét tartalmazó – módosítását követő 15 napon belül, a szolgáltatási tartalék eszközeinek befektetésére vonatkozó rendelkezésekkel kiegészített befektetési politikát a Felügyelet részére megküldeni. A Felügyelet megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak.
 
 (8) Az igazgatótanács legalább évente köteles döntést hozni a befektetési politika fenntartása vagy módosítása kérdésében. A meghozott döntésről az igazgatótanács legkésőbb a pénztár közgyűlésének soron következő ülésén ad tájékoztatást.
 
@@ -38,6 +38,6 @@ c) a (8) bekezdés szerinti döntést követő 8 munkanapon belül a Felügyelet
 
 [^30]: A 16. § (1) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^31]: A 16. § (6) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^32]: A 16. § (7) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^32]: A 16. § (7) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 101. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^33]: A 16. § (10) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
 [^34]: A 16. § (11) bekezdését a 302/2002. (XII. 27.) Korm. rendelet 2. §-a iktatta a szövegbe.

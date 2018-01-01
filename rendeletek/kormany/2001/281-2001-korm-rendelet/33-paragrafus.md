@@ -1,11 +1,11 @@
-33. § (1)[^102]
+33. § (1)[^98]
 
 (2) A magánnyugdíjpénztári feladatokat is ellátó pénztár pénzügyi tervében elkülönítetten kell megjeleníteni az önkéntes, illetve a magánnyugdíjpénztári részre vonatkozó adatokat.
 
-(3)–(4)[^103]
+(3)–(4)[^99]
 
-(5)[^104]
+(5)[^100]
 
-[^102]: A 33. § (1) bekezdését a 470/2015. (XII. 29.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
-[^103]: A 33. § (3)–(4) bekezdését a 470/2015. (XII. 29.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
-[^104]: A 33. § (5) bekezdését a 302/2002. (XII. 27.) Korm. rendelet 12. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^98]: A 33. § (1) bekezdését a 470/2015. (XII. 29.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^99]: A 33. § (3)–(4) bekezdését a 470/2015. (XII. 29.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^100]: A 33. § (5) bekezdését a 302/2002. (XII. 27.) Korm. rendelet 12. § (2) bekezdésének b) pontja hatályon kívül helyezte.

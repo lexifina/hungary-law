@@ -1,3 +1,3 @@
-## A magánnyugdíjpénztárból átutalt tagdíj-kiegészítésre vonatkozó különös szabályok[^85]
+## A magánnyugdíjpénztárból átutalt tagdíj-kiegészítésre vonatkozó különös szabályok[^81]
 
-[^85]: A 29/B. § előtti alcímet a 293/2005. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^81]: A 29/B. § előtti alcímet a 293/2005. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
