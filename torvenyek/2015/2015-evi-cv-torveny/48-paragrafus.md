@@ -14,8 +14,8 @@ a) ha a 47. § (2) bekezdés szerinti hitelezői besorolási értesítésre ész
 
 b) ha a 47. § (2) bekezdés szerinti hitelezői besorolásra olyan észrevétel érkezett, amelyről szóló vagyonfelügyelői döntés ellen a bírósághoz kifogást nem nyújtottak be, a kifogás benyújtására nyitva álló határidő utolsó napjától számított
 
-c) ha a 47. § (2) bekezdés szerinti hitelezői besorolásra olyan észrevétel érkezett, amelyről szóló vagyonfelügyelői döntés ellen a bírósághoz kifogást nyújtottak be, de a bíróság a kifogást elutasította, az erről szóló végzés kézhezvételétől számított
+c) ha a 47. § (2) bekezdés szerinti hitelezői besorolásra olyan észrevétel érkezett, amelyről szóló vagyonfelügyelői döntés ellen a bírósághoz kifogást nyújtottak be, de a bíróság a kifogást elutasította, az erről szóló jogerős végzés kézhezvételétől számított
 
-d) ha a 47. § (2) bekezdés szerinti hitelezői besorolási értesítésre olyan észrevétel érkezett, amelyről szóló vagyonfelügyelői döntés ellen a bírósághoz kifogást nyújtottak be, és a bíróság a kifogásban foglaltaknak helyt adott, az átdolgozott hitelezői besorolás megküldésétől számított
+d) ha a 47. § (2) bekezdés szerinti hitelezői besorolási értesítésre olyan észrevétel érkezett, amelyről szóló vagyonfelügyelői döntés ellen a bírósághoz kifogást nyújtottak be, és a bíróság a kifogásban foglaltaknak jogerős végzéssel helyt adott, az átdolgozott hitelezői besorolás megküldésétől számított
 
 30 napon belül kell megtenni; a határidő elmulasztása esetén igazolásnak nincs helye. A családi vagyonfelügyelő az említett feltételek bekövetkezéséről 8 napon belül az időpont pontos megjelölésével köteles tájékoztatni valamennyi hitelezőt.

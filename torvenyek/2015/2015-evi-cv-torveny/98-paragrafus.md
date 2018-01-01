@@ -1,6 +1,6 @@
-98. § (1) A bíróság a kifogást haladéktalanul, de legkésőbb a beérkezését követő 15 munkanapon belül megvizsgálja annak megállapítása érdekében, hogy nincs-e szükség hiánypótlásra, nincs-e helye áttételnek vagy a kifogás érdemi vizsgálat nélküli elutasításának, és a szükséges intézkedéseket megteszi.
+98. § (1) A bíróság a kifogást haladéktalanul, de legkésőbb a beérkezését követő 15 munkanapon belül megvizsgálja annak megállapítása érdekében, hogy nincs-e szükség hiánypótlásra, nincs-e helye áttételnek vagy a kifogás érdemi vizsgálat nélküli visszautasításának, és a szükséges intézkedéseket megteszi.
 
-(2) A bíróság a kifogást érdemi vizsgálat nélkül elutasítja, ha
+(2) A bíróság a kifogást – érdemi vizsgálat nélkül – visszautasítja, ha
 
 a) a kifogás elkésett,
 

@@ -26,7 +26,7 @@ f) adóazonosító szám.
 
 a) adós (adóstárs) személyi igazolvány vagy egyéb – a személyazonosság igazolására külön törvény szerint alkalmas – más igazolvány száma
 
-b) az Art. 85/A. § (1) bekezdés alapján kiállított együttes adó-, jövedelem- és illetőségigazolás
+b) az adóigazgatási eljárás részletszabályairól szóló kormányrendelet alapján kiállított együttes adó-, jövedelem- és illetőségigazolás
 
 c) a 8. § (2) bekezdés a)–d) pontja szerinti köztartozások esetén a tartozás összegére, jogcímére vonatkozó adatok, hatósági igazolás, a részletfizetésre vagy halasztásra vonatkozó hatósági határozat, diákhitel-tartozás esetén a Diákhitel Központ Zrt. által erről kiállított igazolás
 

@@ -1,6 +1,6 @@
 74. § (1) A családi vagyonfelügyelő az adósságtörlesztési tervben megállapítja az adósságtörlesztési eljárásba bejelentett egyes hitelezői követelések adósságtörlesztési hitelezői besorolását a 46., a 49. § alkalmazásával, figyelembe véve a 70. § szerinti adatokat.
 
-(2) Ezt követően – a 72. § figyelembevételével – az adós, adóstárs és az eljárásban teljes vagyonával részt vevő egyéb kötelezett adósságrendezési eljárás alá tartozó vagyona és bevételei hitelezők közötti felosztására vonatkozóan adósságtörlesztési tervet készít az alábbiak figyelembevételével:
+(2) Ezt követően – a 72. § figyelembevételével – az adós, adóstárs és az eljárásban az adós törlesztési kötelezettségének kiegészítésére kötelezettséget vállaló egyéb kötelezettet által vállalt fizetési kötelezettség hitelezők közötti felosztására vonatkozóan adósságtörlesztési tervet készít az alábbiak figyelembevételével:
 
 a) zálogjoggal biztosított vagyontárgy értékesítése esetén a bevételből a bevételt terhelő közterheket, a korábban felfüggesztett végrehajtás során a zálogjogosult által megelőlegezett végrehajtási költséget, továbbá az értékesítéssel kapcsolatosan felmerülő költségeket – korábban felfüggesztett bíróságon kívüli zálogértékesítés esetén pedig a zálogjogosult által megelőlegezett értékesítési költséget – kell megtéríteni, ezt követően pedig elsőként a zálogjoggal biztosított követelést kell kifizetni a forgalmi érték mértékéig,
 

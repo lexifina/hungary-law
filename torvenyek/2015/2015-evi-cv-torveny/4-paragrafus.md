@@ -4,7 +4,7 @@ a) az adóstárs,
 
 b) az adós vagy adóstárs hozzátartozója, vagy
 
-c) az adós vagy adóstárs által megbízott ügyvéd, ügyvédi iroda, valamint – egyéni vállalkozó hitelszerződésével összefüggésben – a vele munkaviszonyban álló jogtanácsos
+c) az adós vagy adóstárs által megbízott ügyvéd, ügyvédi iroda
 
 meghatalmazottként eljárhat, de az adós személyesen köteles megtenni az e törvényben meghatározott jognyilatkozatokat és kötelezettségvállalásokat.
 

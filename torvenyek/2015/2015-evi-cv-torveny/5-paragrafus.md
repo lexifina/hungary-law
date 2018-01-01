@@ -36,13 +36,13 @@ bd) az adósságtörlesztési határozatban meghatározott kötelezettségeit sz
 
 5. adóstárs: az a természetes személy, aki e törvény hatálya alá tartozó fizetési kötelezettség tekintetében az adóssal – ideértve a készfizető kezest is – egyetemlegesen felelős, és az adóssal közös háztartásban él vagy az adóssal vagyonközösségben van,
 
-6. adótartozás: az Art. 178. § 4. pontjában meghatározott, lejárt esedékességű, és az ott meghatározott, nettó módon számított fizetési kötelezettség,
+6. adótartozás: az Art. által meghatározott, lejárt esedékességű, és az ott meghatározott, nettó módon számított fizetési kötelezettség,
 
 7. aktív korú: a 18 év feletti, a rá irányadó öregségi nyugdíjkorhatárt még be nem töltött természetes személy, aki nem minősül fogyatékkal élőnek vagy a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti megváltozott munkaképességű személynek,
 
 8. ARE nyilvántartás: természetes személyek adósságrendezési nyilvántartása, a Családi Csődvédelmi Szolgálat által vezetett közhiteles országos központi nyilvántartás,
 
-9. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
+9. Art.: az adózás rendjéről szóló törvény,
 
 10. államháztartási szervezet: az állam, a helyi önkormányzat, közigazgatási szerv és egyéb az államháztartás számviteléről szóló kormányrendelet hatálya alá tartozó szervezet,
 
@@ -110,7 +110,7 @@ d) olyan magánjogi tartozás, amely hatósági vagy bírósági úton érvénye
 
 a) a bíróságon kívüli adósságrendezési eljárásban, továbbá a bírósági adósságrendezési eljárásban a bírósági adósságrendezés kezdő időpontjáig az a szervezet vagy természetes személy, akinek
 
-aa) az adóssal szemben jogerős vagy előzetesen végrehajtható határozaton vagy olyan okiraton alapuló követelése van, amely alapján közigazgatási vagy bírósági végrehajtás elrendelésének vagy végrehajtáson kívüli zálogértékesítésnek van helye, vagy a végrehajtást már elrendelték, illetve a zálogtárgyat értékesítésre kijelölték, vagy
+aa) az adóssal szemben jogerős, véglegessé vált vagy előzetesen végrehajtható határozaton vagy olyan okiraton alapuló követelése van, amely alapján közigazgatási vagy bírósági végrehajtás elrendelésének vagy végrehajtáson kívüli zálogértékesítésnek van helye, vagy a végrehajtást már elrendelték, illetve a zálogtárgyat értékesítésre kijelölték, vagy
 
 ab) akinek az adós által elismert vagy legalább 80%-os mértékben nem vitatott, lejárt pénz- vagy pénzben kifejezett követelése van az adóssal szemben,
 
@@ -128,7 +128,7 @@ b) a bírósági adósságrendezés kezdő időpontjától a bírósági adóss�
 
 32. jövedelem: a Szoc. tv. 4. § (1) bekezdés a) pontjában meghatározott része, ideértve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 10. § (3) bekezdésében meghatározott jövedelmet is, továbbá – függetlenül a Szoc. tv. előírásától – az egyszerűsített foglalkoztatásból származó bevételt is,
 
-33. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
+33. Ákr.: az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény,
 
 34. KHR: központi hitelinformációs rendszer,
 
@@ -152,7 +152,7 @@ b) a közüzemi szerződés alapján a közműszolgáltató által érvényesít
 
 c) a lakáscélú, otthonteremtési célú kamat- és egyéb támogatás visszafizettetése alapján az adóssal szemben fennálló követelés,
 
-d) az az adótartozás vagy más köztartozás, egyéb, közjogi jogviszonyban jogerős határozattal megállapított vagy végrehajtható fizetési kötelezettség, amelynek a megfizetésére az adós fizetési halasztást vagy részletfizetési kedvezményt kapott vagy amely a bíróságon kívüli vagy bírósági adósságrendezési eljárás időtartama alatt keletkezett,
+d) az az adótartozás vagy más köztartozás, egyéb, közjogi jogviszonyban jogerős, véglegessé vált határozattal megállapított vagy végrehajtható fizetési kötelezettség, amelynek a megfizetésére az adós fizetési halasztást vagy részletfizetési kedvezményt kapott vagy amely a bíróságon kívüli vagy bírósági adósságrendezési eljárás időtartama alatt keletkezett,
 
 e) a jogalap nélkül felvett, társadalombiztosítási jogviszony alapján járó juttatás, állami, önkormányzati szociális vagy családtámogatási juttatás visszafizetésére tekintettel keletkezett követelés,
 
@@ -208,7 +208,7 @@ e) közérdekkel összefüggő követelések,
 
 48. Ptk.: a Polgári Törvénykönyvről szóló 2013. évi V. törvény,
 
-49. Pp.: a polgári perrendtartásról szóló 1952. évi III. törvény,
+49. Pp.: a polgári perrendtartásról szóló 2016. évi CXXX. törvény,
 
 50. régi Ptk.: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény,
 

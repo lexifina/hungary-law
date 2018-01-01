@@ -8,4 +8,6 @@ b) bírósági adósságtörlesztési határozat és annak módosítása,
 
 c) az eljárást lezáró, az adós mentesítését kimondó határozat,
 
-d) a bíróságon kívüli adósságrendezési megállapodás és a bírósági adósságrendezési egyezség hatálya megszűnését kimondó határozat.
+d) a bíróságon kívüli adósságrendezési megállapodás és a bírósági adósságrendezési egyezség hatálya megszűnését kimondó határozat,
+
+e) az adóst mentesítő határozat hatályon kívül helyezését kimondó határozat.

@@ -10,6 +10,6 @@ b) az adós vagy adóstárs ebben az időszakban a fizetési kötelezettségeit 
 
 (3) A bíróság a bírósági adósságrendezési egyezség hatálya megszűnésének megállapítása iránti kérelmet a megállapodásban részes feleknek, az egyéb kötelezetteknek megküldi, és bizonyítási eljárást folytat le, ennek során a 36. § (6) és (7) bekezdésben foglaltaktól eltérhet.
 
-(4) Ha a kérelem előterjesztésének helye van és a kérelem megalapozott, a bíróság 15 napon belül a végzéssel megállapítja a bíróságon kívüli egyezség hatályának megszűnését.
+(4) Ha a kérelem előterjesztésének helye van és a kérelem megalapozott, a bíróság 15 napon belül a végzéssel megállapítja a bíróságon kívüli egyezség hatályának megszűnését, egyébként a kérelmet elutasítja; a végzés ellen fellebbezésnek van helye.
 
 (5) Ha a bíróság megállapította a bírósági adósságrendezési egyezség hatálya megszűnését, az erről szóló végzést be kell jegyezni az ARE nyilvántartásba.

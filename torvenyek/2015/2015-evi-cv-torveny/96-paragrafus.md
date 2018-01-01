@@ -1,6 +1,6 @@
 96. § (1) A bíróság a kérelem tárgyában 30 napon belül dönt. A bíróság a kérelmezőt, az érintett hitelezőt, az adóst és a családi vagyonfelügyelőt írásban nyilatkoztatja. Az eljárás során bizonyításnak a Pp. szabályai szerint van helye.
 
-(2) A bíróság a kérelmet hivatalból – az a)–c) pontban meghatározott esetben hiánypótlási felhívás kibocsátása nélkül – elutasítja, ha
+(2) A bíróság a kérelmet hivatalból – az a)–c) pontban meghatározott esetben hiánypótlási felhívás kibocsátása nélkül – visszautasítja, ha
 
 a) a kérelem elkésett,
 
@@ -10,7 +10,7 @@ c) a kérelmező a hiánypótlási felhívást követően a kitűzött határid�
 
 d) a kérelmező az eljárási illetéket nem fizette meg.
 
-(3) Ha a kérelem előterjesztésének nincs helye, azt a bíróság érdemi vizsgálat nélkül 15 napon belül végzéssel elutasítja.
+(3) Ha a kérelem előterjesztésének nincs helye, azt a bíróság érdemi vizsgálat nélkül 15 napon belül végzéssel visszautasítja.
 
 (4) Ha a kérelem előterjesztésének helye van és a kérelem megalapozott, a bíróság 15 napon belül a mentesítő határozatot végzéssel hatályon kívül helyezi, egyébként a kérelmet végzéssel elutasítja. A bíróság végzését az adósnak és a hitelezőknek kézbesíti, az egyéb kötelezettnek és a családi vagyonfelügyelőnek pedig megküldi.
 

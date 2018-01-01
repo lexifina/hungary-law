@@ -10,6 +10,6 @@ b) az adós vagy adóstárs a bíróságon kívüli adósságrendezési megálla
 
 (3) A bíróság a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnésének megállapítása iránti kérelmet a megállapodásban részes feleknek, az egyéb kötelezetteknek megküldi, és bizonyítási eljárást folytat le, ennek során a 36. § (6) és (7) bekezdésben foglaltaktól eltérhet.
 
-(4) Ha a kérelem előterjesztésének helye van és a kérelem megalapozott, a bíróság 15 napon belül a végzéssel megállapítja a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését, egyébként a kérelmet végzéssel elutasítja. A bíróság végzését az adósnak és a hitelezőknek kézbesíti, az egyéb kötelezettnek és a családi vagyonfelügyelőnek pedig megküldi.
+(4) Ha a kérelem előterjesztésének helye van és a kérelem megalapozott, a bíróság 15 napon belül a végzéssel megállapítja a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését, egyébként a kérelmet végzéssel elutasítja. A bíróság végzését az adósnak és a hitelezőknek kézbesíti, az egyéb kötelezettnek és a családi vagyonfelügyelőnek pedig megküldi; a végzés ellen fellebbezésnek van helye..
 
 (5) Ha a bíróság megállapította a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését, az erről szóló végzést be kell jegyezni az ARE nyilvántartásba.

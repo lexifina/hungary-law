@@ -30,7 +30,7 @@ fc) az adós tartozása nem az e törvény rendelkezéseibe ütköző új kötel
 
 (6) Az adósságtörlesztési határozat módosítására vonatkozó javaslat összeállításánál a családi vagyonfelügyelő figyelembe veszi a hitelezők véleményét és az adós, adóstárs méltányolható lakásigényét is. Indokolt esetben a bíróság – kivételes méltánylást érdemlő körülményekre tekintettel – egy alkalommal, a tartós adósságtörlesztési időszak legfeljebb 2 évvel történő meghosszabbítását is elrendelheti.
 
-(7) Az adósságtörlesztési határozat módosításáról a bíróság 15 napon belül dönt, végzését kézbesíti az adósnak, adóstársnak, a hitelezőknek, megküldi az egyéb kötelezetteknek és a családi vagyonfelügyelőnek. A végzés ellen csak az adós élhet fellebbezéssel, a kézbesítéstől számított 8 napon belül.
+(7) Az adósságtörlesztési határozat módosításáról a bíróság 15 napon belül dönt, végzését kézbesíti az adósnak, adóstársnak, a hitelezőknek, megküldi az egyéb kötelezetteknek és a családi vagyonfelügyelőnek. A végzés ellen az adós és a hitelező élhet fellebbezéssel, a kézbesítéstől számított 8 napon belül.
 
 (8) Az adósságtörlesztési határozat módosítását jóváhagyó jogerős határozatot be kell jegyezni az ARE nyilvántartásba.
 

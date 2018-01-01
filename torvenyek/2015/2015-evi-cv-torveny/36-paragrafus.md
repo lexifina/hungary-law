@@ -1,8 +1,8 @@
 ## 14. A bírósági adósságrendezési eljárás általános szabályai
 
-36. § (1) A bírósági adósságrendezési eljárás polgári nemperes eljárás. Az eljárásra az adós lakóhelye szerinti illetékes törvényszék székhelyén működő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság illetékes.
+36. § (1) A bírósági adósságrendezési eljárás polgári nemperes eljárás. Az eljárásra az adósságrendezés kezdeményezése benyújtásának időpontjában az adós lakcímnyilvántartásba bejelentett lakóhelye szerinti illetékes törvényszék székhelyén működő járásbíróságnak, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróságnak van hatásköre és kizárólagos illetékessége. Ez az illetékességi szabály irányadó akkor is, ha az eljárás alatt az adós lakóhelye megváltozik.
 
-(2) Azokra az eljárási kérdésekre, amelyeket e törvény külön nem szabályoz, a Pp. szabályait a nemperes eljárások sajátosságaiból eredő, valamint a (3) bekezdésben foglalt eltérésekkel kell alkalmazni.
+(2) Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
 
 (3) A bírósági adósságrendezési eljárásban
 
@@ -16,7 +16,7 @@ d) a jogutódlás esetét kivéve perbehívásnak, illetve perbevonásnak,
 
 e) beavatkozásnak,
 
-f) díj- és költségmentességnek, valamint illeték- és költségfeljegyzésnek, továbbá
+f) díj- és költségmentességnek, valamint költségfeljegyzési jognak, továbbá
 
 g) a Családi Csődvédelmi Szolgálat vagy a családi vagyonfelügyelő előtt teljesítendő eljárási cselekmény elmulasztása igazolásának
 

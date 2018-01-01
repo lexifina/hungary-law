@@ -12,7 +12,7 @@ d) az adós, adóstárs természetes személyazonosító adatait, lakcímét,
 
 e) a kijelölt családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügy azonosítóját, annak a Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő munkavégzésre irányuló jogviszonyban áll,
 
-f) azon – az eljárásba a 25. § (4) bekezdése alapján még be nem jelentkezett – hitelezőknek szóló felhívást, akiknek pénzbeli vagy pénzben kifejezett követelésének esedékessége már lejárt vagy a bírósági adósságrendezés elrendelését követő öt éven belül jár le, a következőkre:
+f) azon – az eljárásba a 31. § (4) bekezdése alapján még be nem jelentkezett – hitelezőknek szóló felhívást, akiknek pénzbeli vagy pénzben kifejezett követelésének esedékessége már lejárt vagy a bírósági adósságrendezés elrendelését követő öt éven belül jár le, a következőkre:
 
 fa) az adós hitelezői a kamatokkal, egyéb járulékokkal együtt számított, 50 000 forintot meghaladó összegű követeléseiket és azok biztosítékait – az azok fennállását igazoló okiratok egyidejű benyújtásával – a hirdetmény közzétételétől számított 30 napon belül írásban jelentsék be a családi vagyonfelügyelőnél,
 

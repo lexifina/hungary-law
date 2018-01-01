@@ -1,6 +1,6 @@
 ## 39. Fellebbezés
 
-100. § (1) Ha a fellebbezéshez a fél mellékletet csatol, azt kizárólag papír alapon, az ügyben eljáró bíróságnál nyújthatja be. Egyéb esetekben az elektronikus iratbeadásra köteles fél nem elektronikus fellebbezését a bíróság hiánypótlási felhívás kiadása nélkül hivatalból elutasítja.
+100. § (1) Ha a fellebbezéshez a fél mellékletet csatol, azt kizárólag papír alapon, az ügyben eljáró bíróságnál nyújthatja be. Egyéb esetekben az elektronikus iratbeadásra köteles fél nem elektronikus fellebbezését a bíróság – hiánypótlási felhívás kiadása nélkül –visszautasítja.
 
 (2) A bíróság a másodfokú bíróságnak 8 napon belül felterjeszti a fellebbezés elbírálása szempontjából szükséges iratokat.
 
