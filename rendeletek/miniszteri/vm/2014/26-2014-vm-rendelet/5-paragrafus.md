@@ -36,16 +36,12 @@ c) a levegőterheltségi szint benzolra és nitrogén-dioxidra vonatkozó egész
 
 d) a kibocsátás az emberi egészségre vagy a környezetre jelentős káros hatást nem gyakorol.
 
-(7) A (3) bekezdés szerinti felmentésről szóló döntésnek tartalmazni kell:
-
-a) a felmentés időtartamát,
-
-b) a szennyezéscsökkentő intézkedések végrehajtására vonatkozó kötelezést, valamint
-
-c) a felmentés időtartamára vonatkozó VOC kibocsátási határértéket.
+(7)[^4]
 
 (8) A (3) bekezdés szerinti felmentést a környezetvédelmi hatóság az intézkedések műszaki és pénzügyi megvalósításához szükséges időtartamra, de legfeljebb 5 évre állapítja meg.
 
 (9) Ha a kérelmező bizonyítja, hogy a (7) bekezdés b) és c) pontja szerinti előírásokat betartotta és a (6) bekezdés szerinti feltételek továbbra is fennállnak, a felmentés időtartamát a környezetvédelmi hatóság az üzemeltető kérelmére meghosszabbítja.
 
 (10) A (9) bekezdés szerinti meghosszabbítás iránti kérelem több alkalommal is benyújtható.
+
+[^4]: Az 5. § (7) bekezdését a 70/2017. (XII. 29.) FM rendelet 12. §-a hatályon kívül helyezte.

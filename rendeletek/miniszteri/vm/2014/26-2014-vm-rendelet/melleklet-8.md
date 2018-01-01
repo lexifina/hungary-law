@@ -1,3 +1,3 @@
-8–9. melléklet a 26/2014. (III. 25.) VM rendelethez[^20]
+8–9. melléklet a 26/2014. (III. 25.) VM rendelethez[^21]
 
-[^20]: A 8–9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 8–9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

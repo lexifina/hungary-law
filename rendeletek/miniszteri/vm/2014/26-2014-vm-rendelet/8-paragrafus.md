@@ -1,6 +1,6 @@
 ## 6. A helyhez kötött légszennyező pontforrások VOC véggáz kibocsátásának ellenőrzése
 
-8. §[^6] (1) A rendelet hatálya alá tartozó tevékenységekhez kapcsolódó légszennyező pontforrások vizsgálatára, ellenőrzésére és értékelésére, a kibocsátás ellenőrzését végző szervezetekre, valamint a légszennyező pontforrás üzemeltetőjére a levegőterhelés mérését és a levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló 6/2011. (I. 14.) VM rendeletet [a továbbiakban: 6/2011. (I. 14.) VM rendelet] az e §-ban foglalt eltérésekkel kell alkalmazni.
+8. §[^7] (1) A rendelet hatálya alá tartozó tevékenységekhez kapcsolódó légszennyező pontforrások vizsgálatára, ellenőrzésére és értékelésére, a kibocsátás ellenőrzését végző szervezetekre, valamint a légszennyező pontforrás üzemeltetőjére a levegőterhelés mérését és a levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló 6/2011. (I. 14.) VM rendeletet [a továbbiakban: 6/2011. (I. 14.) VM rendelet] az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A 6/2011. (I. 14.) VM rendelet 13. § (1) és 15. § (1) bekezdésétől eltérően a VOC véggáz kibocsátást azoknál a pontforrásoknál, amelyeknél a szénben (C) kifejezett, összes VOC véggáz kibocsátás:
 
@@ -40,4 +40,4 @@ b) az a) ponttól eltérő tevékenységeknél órás
 
 szakaszokra kell felosztani és valamennyi, de legalább három szakasz mérési eredményeiből átlagértékeket képezni.
 
-[^6]: A 8. § a 84/2016. (XII. 16.) FM rendelet 18. §-ával megállapított szöveg.
+[^7]: A 8. § a 84/2016. (XII. 16.) FM rendelet 18. §-ával megállapított szöveg.

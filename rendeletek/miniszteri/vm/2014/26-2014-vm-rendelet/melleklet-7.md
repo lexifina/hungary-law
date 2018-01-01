@@ -1,3 +1,3 @@
-7. melléklet a 26/2014. (III. 25.) VM rendelethez[^19]
+7. melléklet a 26/2014. (III. 25.) VM rendelethez[^20]
 
-[^19]: A 7. mellékletet a 19. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^20]: A 7. mellékletet a 19. § (2) bekezdés c) pontja hatályon kívül helyezte.
