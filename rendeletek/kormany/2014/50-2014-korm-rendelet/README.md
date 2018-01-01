@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-50-20-2
 | 2016-09-09 | 2014-50-20-22.4 | 72/2015. (III. 30.) Korm. rendelet |
 | 2017-01-01 | 2014-50-20-22.5 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2014-50-20-22.6 | 380/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2014-50-20-22.7 | 458/2017. (XII. 28.) Korm. rendelet |
