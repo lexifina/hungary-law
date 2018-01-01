@@ -1,0 +1,3 @@
+28. § Az MMA tv. 28/F. §-a helyébe a következő rendelkezés lép:
+
+„28/F. § A Bizottság a 28/E. § (1) bekezdése szerinti döntésével érintett személyt tárgyév július 31. napjáig tájékoztatja a döntéséről, és szeptember 15. napjáig történő nyilatkozattételre hívja fel arra vonatkozóan, hogy egyéb művészeti elismerést birtokol-e, és elfogadja-e a Nemzet Művésze díjat. Nem részesíthető a díjban, aki a határidő elteltéig nem tesz a díj elfogadására vonatkozó nyilatkozatot. Az így megüresedett díjazotti helyre a tárgyévet követő évben tehető javaslat és ítélhető oda a díj.”
