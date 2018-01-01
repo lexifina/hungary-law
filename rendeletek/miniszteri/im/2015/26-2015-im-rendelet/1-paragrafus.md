@@ -12,7 +12,7 @@ c) gazdasági hivatal osztályvezetője és gazdasági hivatal osztályvezető-h
 
 d) belső ellenőrzési vezető és belső ellenőr,
 
-e) jogtanácsos,
+e)[^1]
 
 f) informatikai biztonsági felelős,
 
@@ -23,3 +23,5 @@ h) könyvelő,
 i) gépjárművezető, valamint
 
 j) törvényszéki végrehajtó, törvényszéki végrehajtó-helyettes, törvényszéki végrehajtójelölt, és a járásbíróságnál, illetve a törvényszéknél szolgálati jogviszonyban álló végrehajtási ügyintéző
+
+[^1]: Az 1. § (2) bekezdés e) pontját a 20/2017. (XII. 21.) IM rendelet 46. § a) pontja hatályon kívül helyezte.

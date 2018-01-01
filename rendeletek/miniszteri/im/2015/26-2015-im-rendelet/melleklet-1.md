@@ -1,6 +1,6 @@
-## 14. §[^1]
+## 14. §[^2]
 
-1. melléklet a 26/2015. (IX. 30.) IM rendelethez
+1. melléklet a 26/2015. (IX. 30.) IM rendelethez[^3]
 
 1. A bíróságokon és az Országos Bírósági Hivatalban működő igazgatási egységekben létesíthető vezetői munkakörök betöltéséhez szükséges képesítési feltételek
 
@@ -182,7 +182,7 @@
 
 | 3 | 5.A.1.B. | törvényszéki végrehajtók csoportvezetője2. (tisztviselő) | III | jogász vagy okleveles jogász szakképzettség, végrehajtói szakvizsga, legalább kétéves végrehajtó-helyettesi gyakorlat, ügyviteli vizsga |
 
-| 4 |  |  |  |  |
+| 4 | 5.A.1.C. | törvényszéki végrehajtók csoportvezetője3. (tisztviselő) | III | jogász vagy okleveles jogász szakképzettség, jogi szakvizsga, végrehajtói szakvizsga, ügyviteli vizsga |
 
 | 5 | 5.A.1.D. | törvényszéki végrehajtók csoportvezetője4. (tisztviselő) | III | a megyei bírósági – 2012. január 1-jét követően törvényszéki – végrehajtóra vonatkozó képesítési követelményeket meghatározó jogszabályban foglalt 2013. január 1-jét megelőzően hatályos képesítési követelmények |
 
@@ -192,7 +192,7 @@
 
 | 8 | 5.B.1.B. | törvényszéki végrehajtó2. (tisztviselő) | III | jogász vagy okleveles jogász szakképzettség, végrehajtói szakvizsga, legalább kétéves végrehajtó-helyettesi gyakorlat, ügyviteli vizsga |
 
-| 9 |  |  |  |  |
+| 9 | 5.B.1.C. | törvényszéki végrehajtó3. (tisztviselő) | III | jogász vagy okleveles jogász szakképzettség, jogi szakvizsga, végrehajtói szakvizsga, ügyviteli vizsga |
 
 | 10 | 5.B.1.D. | törvényszéki végrehajtó4. (tisztviselő) | III | a megyei bírósági – 2012. január 1-jét követően törvényszéki – végrehajtóra vonatkozó képesítési követelményeket meghatározó jogszabályban foglalt 2013. január 1-jét megelőzően hatályos képesítési követelmények |
 
@@ -202,7 +202,7 @@
 
 | 13 | 5.B.2.B. | törvényszéki végrehajtó-helyettes2. (tisztviselő) | IV | középfokú iskolai végzettség, végrehajtói szakvizsga, egyéves végrehajtó-jelölti gyakorlat, ügyviteli vizsga |
 
-| 14 |  |  |  |  |
+| 14 | 5.B.2.C. | törvényszéki végrehajtó-helyettes3. (tisztviselő) | III | jogász vagy okleveles jogász szakképzettség, jogi szakvizsga, végrehajtói szakvizsga, ügyviteli vizsga |
 
 | 15 | 5.B.3. | törvényszéki végrehajtójelölt (tisztviselő) | IV | középfokú iskolai végzettség, ügyviteli vizsga |
 
@@ -242,7 +242,7 @@
 
 | 10 | 6.B.1.B. | személyügyi ügyintéző 2. (tisztviselő) | IV | szakirányú középfokú iskolai végzettség, vagy középfokú iskolai végzettség és szakirányú felsőfokú vagy emelt szintű vagy középfokú szakképesítés, ügyviteli vizsga |
 
-| 11 | 6.C.1. | jogtanácsos (tisztviselő) | III | jogász vagy okleveles jogász szakképzettség, jogi szakvizsga, ügyviteli vizsga |
+| 11 |  |  |  |  |
 
 | 12 | 6.C.2. | jogi ügyintéző (tisztviselő) | III | jogász vagy okleveles jogász szakképzettség, ügyviteli vizsga |
 
@@ -372,4 +372,5 @@
 
 | 26 | 7.P.2. | segédmunkás (fizikai dolgozó) | – | általános iskolai végzettség |
 
-[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 20/2017. (XII. 21.) IM rendelet 46. § b) pontja szerint módosított szöveg.
