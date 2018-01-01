@@ -6,7 +6,7 @@
 
 (3) A (2) bekezdés szerinti igazgatási szolgáltatási díjakat a Hatóság törvényben előírt feladatai teljesítése során felmerülő kiadásokra kell fordítani.
 
-(4) A Hatóság – a díjfizetési kötelezettség teljesítésének ellenőrzéséhez – a befizetett igazgatási szolgáltatási díjakról, rendbírságról, bírságról külön nyilvántartást vezet. A Hatóság a Pp. 339. § (1) bekezdésére és 339. § (2) bekezdés q) pontjára, valamint e törvény vonatkozó rendelkezéseire tekintettel a tárgyévben keletkezett visszafizetési kötelezettségeivel csökkentett összegű tárgyévi bírság bevételeivel a december 31-i állapot szerint köteles elszámolni. A díjak, a rendbírság, a bírság nyilvántartására, kezelésére és elszámolására egyebekben az államháztartás számviteléről szóló jogszabályt kell alkalmazni.
+(4) A Hatóság – a díjfizetési kötelezettség teljesítésének ellenőrzéséhez – a befizetett igazgatási szolgáltatási díjakról, rendbírságról, bírságról külön nyilvántartást vezet. A Hatóság a közigazgatási perrendtartásról szóló 2017. évi I. törvény 89. § (1) bekezdés b) pontjára és a 90. § (1) és (2) bekezdésére, valamint e törvény vonatkozó rendelkezéseire tekintettel a tárgyévben keletkezett visszafizetési kötelezettségeivel csökkentett összegű tárgyévi bírság bevételeivel a december 31-i állapot szerint köteles elszámolni. A díjak, a rendbírság, a bírság nyilvántartására, kezelésére és elszámolására egyebekben az államháztartás számviteléről szóló jogszabályt kell alkalmazni.
 
 (5) A (2) bekezdés szerinti igazgatási szolgáltatási díjak tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.)
 

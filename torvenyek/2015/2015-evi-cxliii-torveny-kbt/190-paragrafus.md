@@ -1,4 +1,4 @@
-190. § A Döntőbizottság határozatainak, valamint a közbeszerzési eljárások bírósági felülvizsgálata során hozott határozatok közzétételére a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény (a továbbiakban: Bszi.) XII. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
+190. § A Döntőbizottság határozatainak, valamint a közbeszerzési eljárásokra vonatkozó közigazgatási per során hozott határozatok közzétételére a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény (a továbbiakban: Bszi.) XII. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
 
 a) a közbeszerzési eljárásban hozott bírósági határozatok és a Közbeszerzési Döntőbizottság által hozott határozatok gyűjteményének közzétételére a Bszi. 163. § (1) bekezdésétől eltérően a Közbeszerzési Hatóság köteles,
 

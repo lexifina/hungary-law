@@ -1,4 +1,4 @@
-162. § (1) A közbeszerzési ügy kérelmezője vagy kezdeményezője, az ellenérdekű ügyfél, továbbá ezek képviselője az eljárás megindításától számított tizedik napig, a Közbeszerzési Hatóság tagja az eljárás során bármikor betekinthet a közbeszerzési eljárás, illetve a jogorvoslati eljárás során keletkezett iratokba, és azokról másolatot, feljegyzést készíthet.
+162. § (1) Az ügyfél az eljárás megindításától számított tizedik napig, a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosításával vagy teljesítésével kapcsolatos jogorvoslati eljárásban az eljárás megindításától számított harmincadik napig, a Közbeszerzési Hatóság képviseletében eljáró személy az eljárás során bármikor, betekinthet a közbeszerzési eljárás, valamint a jogorvoslati eljárás során keletkezett iratokba, és azokról másolatot, feljegyzést készíthet.
 
 (2) Az ajánlatkérő, az ajánlattevő és a részvételre jelentkező – az üzleti titok védelmére hivatkozással – indokolt kérelmében kérheti az (1) bekezdés szerinti személyek iratbetekintési jogának kizárását vagy korlátozását az olyan iratok vagy adatok tekintetében, amelyek nem minősülnek közérdekű adatnak vagy közérdekből nyilvános adatnak.
 
@@ -6,7 +6,7 @@
 
 (4) A Közbeszerzési Döntőbizottság köteles megvizsgálni, hogy az iratbetekintési jog korlátozásának vagy kizárásának feltételei fennállnak-e, és a kérelemről való döntéssel egyidejűleg – amennyiben az az adott esetben értelmezhető – kötelezheti az érintettet olyan iratváltozat elkészítésére, amely nem tartalmaz üzleti titkot.
 
-(5) Az (1) bekezdésben meghatározottakon kívüli személy akkor tekinthet be a közbeszerzési eljárás, illetve a jogorvoslati eljárás során keletkezett iratokba, készíthet azokról másolatot, feljegyzést, ha az iratok ismeretéhez jogos érdeke fűződik, és az iratbetekintés nem ütközik a minősített adat védelmére vonatkozó szabályokba.
+(5)
 
 (6) Felhasználói engedély hiányában nem lehet betekinteni a minősített adatot tartalmazó iratba. Nem lehet betekinteni a törvény által védett egyéb adatot tartalmazó iratba sem, ha azt az érintett adat védelmét szabályozó törvény kizárja, vagy ha a védett adat megismerésének hiánya nem akadályozza az (1) bekezdésben meghatározott, betekintést kérő személyt jogorvoslati jogának gyakorlásában.
 

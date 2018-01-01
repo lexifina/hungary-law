@@ -38,10 +38,10 @@ c) támogatásból megvalósuló beszerzés esetén az a) és b) ponttól eltér
 
 (4) A Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményező iratban meg kell jelölni a 149. § (1) bekezdés a)–d) és g) pontjában szereplő adatokat és javaslatot lehet tenni az e) és f) pontjában foglaltakra. A kezdeményező irathoz csatolni kell a jogsértéssel érintett beszerzéssel vagy közbeszerzéssel kapcsolatban rendelkezésre álló iratok másolatát. A benyújtott kezdeményező irat informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát a Közbeszerzési Döntőbizottság rendelkezésére kell bocsátani, amit – elektronikus levél útján történő benyújtás esetén – a Közbeszerzési Döntőbizottság egy munkanapon belül visszaigazol.
 
-(5) A Közbeszerzési Döntőbizottság legkésőbb az (1) bekezdés szerinti kezdeményezés beérkezését követő munkanapon indítja meg az eljárást.
+(5) A Közbeszerzési Döntőbizottság a hivatalbóli kezdeményezést visszautasítja, ha azt nem az (1) bekezdésben meghatározott jogosult terjesztette elő.
 
 (6) Ha a kezdeményezés nem tartalmazza a (4) bekezdés szerinti adatokat, a Közbeszerzési Döntőbizottság felhívja a kezdeményező szervezetet vagy személyt a hiányok pótlására. A hiánypótlásra a 151. § (2) bekezdését kell megfelelően alkalmazni.
 
 (7) A Közbeszerzési Döntőbizottság a kezdeményezés benyújtását követően haladéktalanul gondoskodik a kezdeményezéssel érintett eljárás megnevezésének, tárgyának, az ügyfelek megnevezésének és a kezdeményezés megérkezése időpontjának a Közbeszerzési Hatóság honlapján történő közzétételéről.
 
-(8) A kezdeményezés érdemi vizsgálat nélküli elutasítására, valamint az eljárás megszüntetésére a 151. § (5)–(8) bekezdését megfelelően alkalmazni kell.
+(8) A kezdeményezés visszautasítására, valamint az eljárás megszüntetésére a 151. § (5)–(8) bekezdését megfelelően alkalmazni kell.

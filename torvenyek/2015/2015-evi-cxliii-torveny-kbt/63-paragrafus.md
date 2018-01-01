@@ -1,8 +1,8 @@
 63. § (1) Az ajánlatkérő az eljárást megindító felhívásban előírhatja, hogy az eljárásban nem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, illetve nem vehet részt alkalmasság igazolásában olyan gazdasági szereplő, aki
 
-a) a 73. § (4) bekezdésében említett környezetvédelmi, szociális és munkajogi követelményeket súlyosan megszegte, és ezt három évnél nem régebben meghozott, jogerős bírósági, közigazgatási vagy annak felülvizsgálata esetén bírósági határozat megállapította;
+a) a 73. § (4) bekezdésében említett környezetvédelmi, szociális és munkajogi követelményeket súlyosan megszegte, és ezt három évnél nem régebben meghozott, jogerős bírósági, véglegessé vált közigazgatási vagy annak közigazgatási perben való megtámadása esetén jogerős bírósági határozat megállapította;
 
-b) három évnél nem régebben hozott jogerős bírósági, közigazgatási vagy annak felülvizsgálata esetén bírósági határozat megállapította, hogy jogszabályban meghatározott szakmai kötelezettségét – a c) pontban meghatározott eset kivételével – súlyosan megszegte vagy külön jogszabályban meghatározott szakmai szervezet etikai eljárása által megállapított, súlyos, szakmai etikai szabályokba ütköző cselekedetet követett el;
+b) három évnél nem régebben hozott jogerős bírósági, véglegessé vált közigazgatási vagy annak közigazgatási perben való megtámadása esetén jogerős bírósági határozat megállapította, hogy jogszabályban meghatározott szakmai kötelezettségét – a c) pontban meghatározott eset kivételével – súlyosan megszegte vagy külön jogszabályban meghatározott szakmai szervezet etikai eljárása által megállapított, súlyos, szakmai etikai szabályokba ütköző cselekedetet követett el;
 
 c) korábbi közbeszerzési vagy koncessziós beszerzési eljárás alapján vállalt szerződéses kötelezettségét az elmúlt három évben súlyosan megszegte és ez az említett korábbi szerződés felmondásához vagy elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, vagy ha a nyertes ajánlattevőként szerződő fél olyan magatartása, amelyért felelős részben vagy egészben a szerződés lehetetlenülését okozta;
 

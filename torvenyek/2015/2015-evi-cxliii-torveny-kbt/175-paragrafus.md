@@ -2,7 +2,7 @@
 
 175. § (1) Ha a Közbeszerzési Hatóság a 187. § (2) bekezdés j) pontja szerinti hatósági ellenőrzés során megállapítja, hogy a szerződés tartalma valószínűsíthetően a 142. § (3) bekezdésébe ütközik, pert indít a szerződés módosítás érvénytelenségének kimondása és az érvénytelenség jogkövetkezményeinek alkalmazása iránt. A Közbeszerzési Hatóságot a perben teljes költségmentesség illeti meg.
 
-(2) A Közbeszerzési Hatóság az (1) bekezdés szerinti pert az ellenőrzés befejezésétől számított harminc napon belül indítja meg. A határidő elmulasztása esetén a Pp. szabályai szerint van helye igazolásnak.
+(2) A Közbeszerzési Hatóság az (1) bekezdés szerinti pert az ellenőrzés befejezésétől számított harminc napon belül indítja meg. A határidő elmulasztása esetén a polgári perrendtartásról szóló törvény szabályai szerint van helye igazolásnak.
 
 (3) Az (1) bekezdés szerinti perindításról a Közbeszerzési Hatóság a honlapján tájékoztatást tesz közzé. A tájékoztatás tartalmazza az adott ügy megnevezését (adott esetben a kapcsolódó közbeszerzési eljárás megjelölését), a keresetlevél benyújtásának időpontját, valamint a peres felek megnevezését.
 

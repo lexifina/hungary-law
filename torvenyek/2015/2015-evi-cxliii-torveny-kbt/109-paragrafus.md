@@ -8,7 +8,7 @@
 
 a) ezt az eljárást megindító felhívásban vagy – ha előzetes tájékoztatót alkalmaz eljárást meghirdető felhívásként – a közvetlen részvételi felhívásban közölni;
 
-b) a közbeszerzési dokumentumokban feltüntetni a külön kormányrendelet szerinti, az elektronikus katalógus formátumával, a felhasznált elektronikus eszközökkel és a csatlakozás műszaki szabályaival és leírásával kapcsolatos valamennyi szükséges információt.
+b) a közbeszerzési dokumentumokban feltüntetni az elektronikus katalógus formátumával, a felhasznált elektronikus eszközökkel és a csatlakozás műszaki szabályaival és leírásával kapcsolatos valamennyi szükséges információt.
 
 (4) Az elektronikus katalógust az ajánlattevőnek egy konkrét közbeszerzési eljárásban való részvétel céljából kell létrehoznia, az ajánlatkérő által a (3) bekezdés b) pontja szerint megállapított műszaki leírásnak és formátumnak, valamint a külön kormányrendelet alapján előírt, elektronikus kommunikációra vonatkozó követelményeknek megfelelően.
 

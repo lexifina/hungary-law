@@ -1,13 +1,13 @@
-172. § (1) A bíróság az ügy érdemében tárgyaláson kívül határoz, a felek bármelyikének kérésére azonban tárgyalást tart. Tárgyalás tartását a felperes a keresetlevélben, az alperes pedig a keresetlevélre tett nyilatkozatában kérheti. Ennek elmulasztása miatt igazolásnak helye nincs. A beavatkozó tárgyalás tartását a Pp. 338. § (3) bekezdése szerint kérheti. A tárgyaláson kívüli elbírálásra a Pp. 338. § (5), (7) és (8) bekezdését alkalmazni kell.
+172. § (1) Ha a bíróság a Közbeszerzési Döntőbizottság határozatát megváltoztatja – ideértve a bírság összegét is – alkalmazhatja a 165. § (3), (6), (8)–(10) bekezdése szerinti jogkövetkezményeket.
 
-(2) A Pp. 332/B. §-át azzal az eltéréssel kell alkalmazni, hogy az első tárgyalást az iratoknak a bírósághoz érkezését követő harminc napon belül kell megtartani, és ha nincs szükség bizonyítási eljárás lefolytatására, vagy tárgyaláson kívüli eljárás esetén, e határidőn belül elbírálni. A határidők számításakor a hiánypótlásra fordított idő nem vehető figyelembe.
+(2) Ha a bíróság a Közbeszerzési Döntőbizottság határozatának megváltoztatása körében megállapítja a 137. § (1) bekezdése szerinti jogsértés megvalósulását, hivatalból vizsgálja a 137. § (3) bekezdésének alkalmazhatóságát, és ítéletében megállapítja a jogsértésre tekintettel a szerződés semmisségét vagy azt, hogy a 137. § (3) bekezdésében foglalt feltételek fennállására tekintettel nem semmis.
 
-(3) A bíróság a Közbeszerzési Döntőbizottság határozatát – a bírság összegét is ideértve – megváltoztathatja és alkalmazhatja a 165. § (3), (6), (8) és (9) bekezdése szerinti jogkövetkezményeket.
+(3) Ha a bíróság a (2) bekezdésnek megfelelően megállapítja, hogy a szerződés a 137. § (3) bekezdésében foglalt feltételek fennállására tekintettel nem semmis, bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
 
-(4) A bíróság a Közbeszerzési Döntőbizottság határozatát kizárólag abban az esetben helyezi hatályon kívül, ha a Közbeszerzési Döntőbizottság eljárása során a jogorvoslati eljárás lényeges és az ügy érdemére kiható szabályainak megsértésére került sor.
+(4) Ha a bíróság a 137. § (1) bekezdésében meghatározott jogsértés megállapítása esetén megállapítja a szerződés érvénytelenségét, egyúttal megvizsgálja, hogy a teljesített szolgáltatások jellegére tekintettel a szerződéskötés előtt fennállott helyzet természetben visszaállítható-e. Ha megállapítja, hogy az eredeti állapot helyreállítása a szerződés érvénytelensége jogkövetkezményei alkalmazása körében nem lesz lehetséges, bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
 
-(5) A bíróság határozata ellen fellebbezésnek nincs helye, kivéve, ha a bíróság a Közbeszerzési Döntőbizottság határozatát megváltoztatja.
+(5) Ha nincs szükség bizonyítási eljárás lefolytatására, vagy tárgyaláson kívüli eljárás esetén, a bíróság hatvan napon belül dönt.
 
-(6) A bíróság határozatát a meghozatalától számított tizenöt napon belül a felek részére kézbesíteni kell.
+(6) A bíróság határozata ellen fellebbezésnek nincs helye, kivéve, ha a bíróság a Közbeszerzési Döntőbizottság határozatát megváltoztatja.
 
-(7) A bíróság a 165. § (8) és (9) bekezdését alkalmazó határozatát megküldi a Közbeszerzési Hatóságnak.
+(7) A bíróság határozatát, annak meghozatalától számított tizenöt napon belül írásba foglalja és a felek részére kézbesíti.

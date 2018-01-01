@@ -2,8 +2,8 @@
 
 (2) A Közbeszerzési Döntőbizottság a tárgyalást az eljárás megindításától számított tizenöt napon belül tartja meg.
 
-(3) A Közbeszerzési Döntőbizottság által tartott tárgyaláson az ügyfeleken kívül az egyéb érdekeltek is – személyesen vagy képviselőik útján – jelen lehetnek, észrevételt tehetnek, illetve a tárgyalás befejezéséig bizonyítékokat terjeszthetnek elő.
+(3)
 
-(4) A tárgyalás nyilvános. A Közbeszerzési Döntőbizottság indokolt végzésével a tárgyalásról vagy annak egy részéről a nyilvánosságot kérelemre vagy hivatalból kizárhatja, ha a minősített adat, üzleti titok vagy külön törvényben meghatározott más titok megőrzése miatt feltétlenül szükséges.
+(4) A tárgyalás nyilvános. A Közbeszerzési Döntőbizottság hivatalból vagy a fél indokolt kérelmére az egész tárgyalásról vagy annak egy részéről a nyilvánosságot kizárja, ha az minősített adat védelmében, üzleti titok vagy törvényben meghatározott más titok megőrzése érdekében indokolt. A Döntőbizottság a tárgyalásnak a tanúmeghallgatással érintett részéről a nyilvánosságot különösen indokolt esetben akkor is kizárhatja, ha a tanú adatainak zártan kezelését rendelte el és a zárt tárgyaláson történő meghallgatása a tanú, illetve hozzátartozója életének, testi épségének a megóvása érdekében szükséges. A Döntőbizottság – kivéve, ha a zárt tárgyalásra törvény kötelező rendelkezése alapján került sor – a nyilvánosság kizárásáról indokolt végzést hoz.
 
-(5) A Közbeszerzési Döntőbizottság a tárgyalásról készült jegyzőkönyvet a tárgyalástól számított öt napon belül megküldi az ügyfeleknek, valamint az egyéb érdekelteknek.
+(5) A Közbeszerzési Döntőbizottság a tárgyalásról készült jegyzőkönyvet a tárgyalástól számított öt napon belül megküldi az ügyfeleknek.

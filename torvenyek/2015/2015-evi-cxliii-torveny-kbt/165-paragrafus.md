@@ -14,7 +14,11 @@ d) megállapítja a jogsértés megtörténtét és alkalmazza a (3) bekezdésbe
 
 e) a (6) bekezdésben meghatározott esetekben a jogsértés megállapítása mellett bírságot szab ki;
 
-f) megállapítja a jogsértés megtörténtét és eltiltja az ajánlattevőt, alvállalkozót vagy a közbeszerzési eljárásban részt vett más szervezetet vagy személyt a közbeszerzési eljárásban való részvételtől.
+f) megállapítja a jogsértés megtörténtét és eltiltja az ajánlattevőt, alvállalkozót vagy a közbeszerzési eljárásban részt vett más szervezetet vagy személyt a közbeszerzési eljárásban való részvételtől;
+
+g) hivatalból megállapítja a 137. § (1) bekezdésében meghatározott jogsértés esetén a szerződés semmisségét vagy a 137. § (3) bekezdésében foglalt feltételek fennállása esetén azt, hogy az érintett szerződés nem semmis,
+
+h) megállapítja, hogy a 137. § (1) bekezdésében meghatározott jogsértés miatt semmis szerződés esetén az érvénytelenség jogkövetkezményei alkalmazása körében az eredeti állapot helyreállítható-e.
 
 (3) Amennyiben a Közbeszerzési Döntőbizottság határozatában jogsértést állapít meg,
 
@@ -43,6 +47,10 @@ d) az ajánlatkérő hirdetmény nélküli tárgyalásos eljárás esetén elmul
 e) a Közbeszerzési Hatóság elnöke kezdeményezte a Közbeszerzési Döntőbizottság hivatalból való eljárását [153. §] és a Döntőbizottság megállapítja a jogsértés megtörténtét.
 
 (7) A (6) bekezdésben meghatározott bírság összege – a (11) bekezdésben foglaltak figyelembevételével – a közbeszerzési eljárás becsült értékének, illetve részajánlattétel esetén a jogorvoslattal érintett rész értékének, a közbeszerzési eljárás jogtalan mellőzése esetén a szerződés értékének legfeljebb 15%-a.
+
+(7a) A 137. § (1) bekezdése szerinti jogsértés megállapítása esetén, ha a Közbeszerzési Döntőbizottság megállapítja, hogy a szerződés a 137. § (3) bekezdésében foglalt feltételek fennállására tekintettel nem semmis, a (6)–(7) bekezdésben foglaltakon túl további bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
+
+(7b) A 137. § (1) bekezdése szerinti jogsértés megállapítása esetén, ha a Közbeszerzési Döntőbizottság megállapítja, hogy az eredeti állapot helyreállítása a szerződés érvénytelensége jogkövetkezményei alkalmazása körében nem lesz lehetséges, a (6)–(7) bekezdésben foglaltakon túl további bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
 
 (8) A Közbeszerzési Döntőbizottság a (2) bekezdés f) pontja alapján a jogsértés megállapítása mellett köteles az ajánlattevőt, alvállalkozót vagy a közbeszerzési eljárásban részt vett más szervezetet vagy személyt – a (11) bekezdésében foglaltak figyelembevételével – fél évtől három évig terjedő időszakra eltiltani a közbeszerzési eljárásban való részvételtől, ha
 

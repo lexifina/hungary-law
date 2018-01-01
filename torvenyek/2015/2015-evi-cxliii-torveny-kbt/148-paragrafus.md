@@ -1,6 +1,6 @@
 ## A jogorvoslati eljárás
 
-148. § (1) A Közbeszerzési Döntőbizottság eljárása kérelemre vagy hivatalból indul.
+148. § (1) A Közbeszerzési Döntőbizottság eljárása kérelemre vagy hivatalból indul. Az eljárás megindítására irányuló kérelem és a hivatalbóli eljárást kezdeményező irat kizárólag írásban – a 145. § (1a) bekezdés a) pontjában foglaltak szerint –, a Közbeszerzési Döntőbizottság előtt terjeszthető elő.
 
 (2) Kérelmet nyújthat be az ajánlatkérő, az ajánlattevő, közös ajánlattétel esetén bármelyik ajánlattevő, a részvételre jelentkező, közös részvételi jelentkezés esetén bármelyik részvételre jelentkező vagy az egyéb érdekelt, akinek jogát vagy jogos érdekét az e törvénybe ütköző tevékenység vagy mulasztás sérti vagy veszélyezteti. Az ajánlati, ajánlattételi vagy részvételi felhívás, a közbeszerzési dokumentumok, illetve ezek módosításának, valamint a 113. § (1) bekezdése szerinti tájékoztatás jogsértő volta miatt kérelmet nyújthat be a közbeszerzés tárgyával összefüggő tevékenységű kamara vagy érdek-képviseleti szervezet is. (E bekezdésben foglaltak a továbbiakban együtt: kérelmező.)
 
@@ -27,6 +27,8 @@ da) ha az ajánlatkérő a jogsértéssel kapcsolatban álláspontját határid�
 db) ha az ajánlatkérő a jogsértéssel kapcsolatban álláspontját határidőben nem küldte meg, ezen jogsértés tekintetében az ajánlatkérői álláspont megküldésére vonatkozó határidő lejártának napját;
 
 e) a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése esetében a szerződés módosításáról szóló tájékoztatót tartalmazó hirdetmény közzétételétől, vagy a teljesítésre vonatkozó adatok [43. § (1) bekezdés f) pont] Közbeszerzési Hatóság által működtetett adatbázisban – amennyiben a Közbeszerzési Adatbázisban való közzététel valamely okból nem lehetséges az ajánlatkérő saját vagy fenntartója honlapján – való közzétételétől számított harmincadik napot.
+
+(7a) Ha egy adott jogsértés kapcsán a (7) bekezdés c) pontja szerinti iratbetekintést követően a (7) bekezdés d) pontja szerinti előzetes vitarendezés kezdeményezésére is sor került, a tudomásra jutás időpontjának meghatározására a (7) bekezdés d) pontja alkalmazandó.
 
 (8) A (3)–(4) bekezdés szerinti határidő számításakor a jogsértés megtörténtének kell tekinteni
 

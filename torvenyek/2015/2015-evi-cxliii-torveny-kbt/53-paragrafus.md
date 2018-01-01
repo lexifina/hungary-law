@@ -6,7 +6,7 @@
 
 53. § (1) Az ajánlatkérő az eljárást megindító felhívást nyílt eljárás esetén az ajánlattételi, több szakaszból álló eljárás esetén a részvételi határidő lejártáig vonhatja vissza.
 
-(2) Ha az eljárást megindító felhívást hirdetményben közzétették, az (1) bekezdés szerinti határidő lejárta előtt a visszavonásról hirdetményt kell feladni és egyidejűleg tájékoztatni kell azokat a gazdasági szereplőket, akik az ajánlatkérőnél érdeklődésüket jelezték. A nem hirdetménnyel induló eljárásokban az eredeti határidő lejárta előtt egyidejűleg, közvetlenül kell tájékoztatni az ajánlattételre, illetve részvételre felhívott gazdasági szereplőket.
+(2) Ha az eljárást megindító felhívást hirdetményben közzétették, az (1) bekezdés szerinti határidő lejárta előtt a visszavonásról hirdetményt kell feladni és egyidejűleg tájékoztatni kell azokat a gazdasági szereplőket, akik az eljárás iránt érdeklődésüket jelezték. A nem hirdetménnyel induló eljárásokban az eredeti határidő lejárta előtt egyidejűleg, közvetlenül kell tájékoztatni az ajánlattételre, illetve részvételre felhívott gazdasági szereplőket.
 
 (3) Az előzetes tájékoztató közzététele nem jelent kötelezettséget a közbeszerzési eljárás lefolytatására abban az esetben sem, ha a tájékoztató közbeszerzési eljárás meghirdetésére irányult. Ez utóbbi esetben az eljárás megindításának elmaradásáról az ajánlatkérő köteles hirdetményt feladni, valamint értesíteni azon gazdasági szereplőket, amelyek szándéknyilatkozatukat az ajánlatkérőnél benyújtották.
 

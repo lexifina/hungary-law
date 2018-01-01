@@ -8,7 +8,7 @@
 
 (3) Ha a kiegészítő tájékoztatás iránti kérelmet a (2) bekezdésben foglalt válaszadási határidőt megelőző negyedik, gyorsított vagy hirdetmény nélküli tárgyalásos eljárásban harmadik napnál később nyújtották be, a kiegészítő tájékoztatást az ajánlatkérőnek nem kötelező megadnia.
 
-(4) Ha a tájékoztatást az ajánlatkérő nem tudja a (2) bekezdés szerinti határidőben megadni, vagy a kiegészítő tájékoztatással egyidejűleg a közbeszerzési dokumentumokat módosítja, az 52. § (4) bekezdése szerint kell eljárni.
+(4) Ha a tájékoztatást az ajánlatkérő nem tudja a (2) bekezdés szerinti határidőben megadni, vagy a kiegészítő tájékoztatással egyidejűleg a közbeszerzési dokumentumokat módosítja, az 52. § (4) és (5) bekezdése szerint kell eljárni.
 
 (5) A kiegészítő tájékoztatást úgy kell megadni, hogy az ne sértse a gazdasági szereplők esélyegyenlőségét. A tájékoztatás teljes tartalmát hozzáférhetővé kell tenni vagy meg kell küldeni valamennyi gazdasági szereplő részére, amely érdeklődését az eljárás iránt az ajánlatkérőnél jelezte, a több szakaszból álló eljárások ajánlattételi szakaszában és a nem hirdetménnyel induló közbeszerzési eljárás esetében pedig valamennyi ajánlattételre vagy részvételre közvetlenül felhívott gazdasági szereplő részére. A kiegészítő tájékoztatás megadása során az ajánlatkérő nem jelöli meg, hogy a kérdést melyik gazdasági szereplő tette fel, valamint hogy válaszát az ajánlatkérő mely gazdasági szereplőknek küldte még meg.
 

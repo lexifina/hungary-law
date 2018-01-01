@@ -8,7 +8,7 @@ c) elkészíti és a Hatóság elnökéhez jóváhagyásra előterjeszti a Dönt
 
 d) ellenőrzi az eljárási határidők megtartását;
 
-e) a Döntőbizottság eljárását kezdeményező kérelem benyújtását követően haladéktalanul gondoskodik a kérelemmel érintett eljárás megnevezésének, tárgyának, az ügyfelek megnevezésének és a kérelem megérkezése időpontjának, továbbá a Döntőbizottság érdemi, a közbeszerzési ügy befejezését eredményező határozatának, és a szerződés megkötését engedélyező végzésének, valamint a határozat bírósági felülvizsgálata esetén a bíróság határozatának közzétételéről;
+e) a Döntőbizottság eljárását kezdeményező kérelem benyújtását követően haladéktalanul gondoskodik a kérelemmel érintett eljárás megnevezésének, tárgyának, az ügyfelek megnevezésének és a kérelem megérkezése időpontjának, továbbá a Döntőbizottság érdemi, a közbeszerzési ügy befejezését eredményező határozatának, és a szerződés megkötését engedélyező végzésének, valamint a határozat közigazgatási perben való megtámadása esetén a bíróság határozatának közzétételéről;
 
 f) gondoskodik a kollégium 168. § (2) bekezdése szerinti véleményének a közbeszerzési biztosok általi megismeréséről.
 
