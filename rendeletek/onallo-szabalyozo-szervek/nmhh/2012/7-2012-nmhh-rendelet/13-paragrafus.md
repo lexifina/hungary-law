@@ -2,15 +2,15 @@
 
 (2) A kérelemnek tartalmaznia kell:
 
-a)[^33] a kérelmező természetes személy személyazonosító és lakcím adatait, levelezési címét, e-mail címét, telefonszámát és adóazonosító jelét, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a szervezet-nyilvántartási adatokat;
+a)[^34] a kérelmező természetes személy személyazonosító és lakcím adatait, levelezési címét, e-mail címét, telefonszámát és adóazonosító jelét, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a szervezet-nyilvántartási adatokat;
 
-b)[^34] a frekvenciadíj fizetésére kötelezett természetes személy személyazonosító és lakcím adatait, levelezési címét, e-mail címét, telefonszámát, adóazonosító jelét és bankszámlaszámát, jogi személy vagy egyéb szervezet esetében a szervezet-nyilvántartási adatokat, ha azok nem azonosak a kérelmező adataival;
+b)[^35] a frekvenciadíj fizetésére kötelezett természetes személy személyazonosító és lakcím adatait, levelezési címét, e-mail címét, telefonszámát, adóazonosító jelét és bankszámlaszámát, jogi személy vagy egyéb szervezet esetében a szervezet-nyilvántartási adatokat, ha azok nem azonosak a kérelmező adataival;
 
-c)[^35] a felhasználni kívánt frekvenciát, csatornát vagy frekvenciasávot, a telephely vagy körzet megnevezését;
+c)[^36] a felhasználni kívánt frekvenciát, csatornát vagy frekvenciasávot, a telephely vagy körzet megnevezését;
 
 d) a felhasznált rádióberendezések típusát, darabszámát;
 
-e)[^36] a hatósági nyilvántartáshoz, a tényállás tisztázásához, különösen a díjfizetés megállapításához, a zavarszámításhoz, a lefedettségvizsgálathoz, valamint – amennyiben nemzetközi vagy operatív frekvenciakoordinációs megállapodás alapján nemzetközi frekvenciakoordináció kell a frekvencia használatához – a nemzetközi frekvenciakoordinációhoz szükséges adatokat a Hatóság internetes honlapján elérhető űrlapon, kivéve, ha a frekvenciakijelöléshez adott adatszolgáltatásban nincs változás;
+e)[^37] a hatósági nyilvántartáshoz, a tényállás tisztázásához, különösen a díjfizetés megállapításához, a zavarszámításhoz, a lefedettségvizsgálathoz, valamint – amennyiben nemzetközi vagy operatív frekvenciakoordinációs megállapodás alapján nemzetközi frekvenciakoordináció kell a frekvencia használatához – a nemzetközi frekvenciakoordinációhoz szükséges adatokat a Hatóság internetes honlapján elérhető űrlapon, kivéve, ha a frekvenciakijelöléshez adott adatszolgáltatásban nincs változás;
 
 f) a rádióberendezésre vonatkozó gyártói megfelelőségi nyilatkozat másolatát, amennyiben az nem szerepelt valamely korábbi rádióengedélyben;
 
@@ -30,11 +30,11 @@ m) a frekvenciakijelölésről szóló határozat számát;
 
 n) a kérelmező nyilatkozatát a jogszabályokban foglalt közegészségügyi, különösen sugáregészségügyi előírásoknak és határértékeknek a telepítéskor történő betartásáról;
 
-o)[^37] analóg lineáris rádiós médiaszolgáltatáshoz kapcsolódó kiegészítő médiaszolgáltatás nyújtása esetében a műsorazonosító kód kiadása iránti igényt, ha a rádióengedély kiadásának nem feltétele a frekvenciakijelölés;
+o)[^38] analóg lineáris rádiós médiaszolgáltatáshoz kapcsolódó kiegészítő médiaszolgáltatás nyújtása esetében a műsorazonosító kód kiadása iránti igényt, ha a rádióengedély kiadásának nem feltétele a frekvenciakijelölés;
 
-p)[^38] légi mozgószolgálat mozgóállomásai esetében a kijelölt hívójelet; és
+p)[^39] légi mozgószolgálat mozgóállomásai esetében a kijelölt hívójelet; és
 
-q)[^39] tengeri és belvízi mozgószolgálat mozgóállomásai esetében a nemzetközi bejelentéshez szükséges adatokat, valamint a hívójelet kijelölő határozat másolatát.
+q)[^40] tengeri és belvízi mozgószolgálat mozgóállomásai esetében a nemzetközi bejelentéshez szükséges adatokat, valamint a hívójelet kijelölő határozat másolatát.
 
 (3) Amennyiben a rádióberendezést, rádiórendszert már meglévő elektronikus hírközlési építmény felhasználásával kívánják kialakítani, a kérelemhez mellékelni kell a kérelmező arra vonatkozó nyilatkozatát, hogy jogosult az elektronikus hírközlési építmény használatára.
 
@@ -46,22 +46,22 @@ q)[^39] tengeri és belvízi mozgószolgálat mozgóállomásai esetében a nemz
 
 (7) A keretengedély iránti kérelemnek nem kell tartalmaznia a (2) bekezdés d) és f)–h) pontjában felsoroltakat. A Hatóság a keretengedélyben rendelkezik az üzembe helyezett rádióberendezésekkel kapcsolatos adatszolgáltatások gyakoriságáról, amely adatszolgáltatást a (2) bekezdés e) pontja szerint kell teljesíteni.
 
-(8)[^40] A földi mozgószolgálat vagy a földfelszíni műsorszóró szolgálat 5 kW ERP-t bármely irányban meghaladó teljesítményű rádióállomása rádióengedély iránti kérelméhez csatolni kell az Országos Közegészségügyi Központ (a továbbiakban: OKK) sugáregészségügyi követelményekre vonatkozó, mérések alapján kiadott szakvéleményét, amennyiben a rádióállomás telepítése beépítésre szánt lakó-, vegyes, kereskedelmi, szolgáltató, valamint üdülőterületen történt, kivéve, ha
+(8)[^41] A földi mozgószolgálat vagy a földfelszíni műsorszóró szolgálat 5 kW ERP-t bármely irányban meghaladó teljesítményű rádióállomása rádióengedély iránti kérelméhez csatolni kell az Országos Közegészségügyi Központ (a továbbiakban: OKK) sugáregészségügyi követelményekre vonatkozó, mérések alapján kiadott szakvéleményét, amennyiben a rádióállomás telepítése beépítésre szánt lakó-, vegyes, kereskedelmi, szolgáltató, valamint üdülőterületen történt, kivéve, ha
 
 a) a rádióállomás üzemben tartási ideje évente nem haladja meg a hatvan napot;
 
 b) a kérelmező igazolni tudja, hogy a szakvélemény nem került harminc napon belül kiadásra, vagy
 
-c)[^41] a rádióengedély – vagy annak módosítása, hosszabbítása – iránti kérelem nem vonatkozik a sugárzási jellemzők megváltoztatására és a rádióengedély kiadása során az OKK a sugáregészségügyi szakvéleményt megadta.
+c)[^42] a rádióengedély – vagy annak módosítása, hosszabbítása – iránti kérelem nem vonatkozik a sugárzási jellemzők megváltoztatására és a rádióengedély kiadása során az OKK a sugáregészségügyi szakvéleményt megadta.
 
 (9) A (8) bekezdés szerint szükséges szakvélemény hiányában a Hatóság egyszeri alkalommal – a szakvélemény utólagos pótlásáig – legfeljebb kilencven napig érvényes, meg nem hosszabbítható érvényességi idejű rádióengedélyt adhat.
 
-[^33]: A 13. § (2) bekezdés a) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 8. pont a) pontja szerint módosított szöveg.
-[^34]: A 13. § (2) bekezdés b) pontja a 2/2016. (II. 26.) NMHH rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^35]: A 13. § (2) bekezdés c) pontja a 2/2016. (II. 26.) NMHH rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^36]: A 13. § (2) bekezdés e) pontja a 8/2017. (VII. 28.) NMHH rendelet 16. § b) pontja szerint módosított szöveg.
-[^37]: A 13. § (2) bekezdés o) pontját a 14/2012. (IX. 28.) NMHH rendelet 3. §-a iktatta be, szövege a 2/2016. (II. 26.) NMHH rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^38]: A 13. § (2) bekezdés p) pontját a 2/2016. (II. 26.) NMHH rendelet 27. § (2) bekezdése iktatta be.
-[^39]: A 13. § (2) bekezdés q) pontját a 2/2016. (II. 26.) NMHH rendelet 27. § (2) bekezdése iktatta be.
-[^40]: A 13. § (8) bekezdés nyitó szövegrésze a 2/2016. (II. 26.) NMHH rendelet 31. § 8. pont b) pontja szerint módosított szöveg.
-[^41]: A 13. § (8) bekezdés c) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 8. pont c) pontja szerint módosított szöveg.
+[^34]: A 13. § (2) bekezdés a) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 8. pont a) pontja szerint módosított szöveg.
+[^35]: A 13. § (2) bekezdés b) pontja a 2/2016. (II. 26.) NMHH rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^36]: A 13. § (2) bekezdés c) pontja a 2/2016. (II. 26.) NMHH rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^37]: A 13. § (2) bekezdés e) pontja a 8/2017. (VII. 28.) NMHH rendelet 16. § b) pontja szerint módosított szöveg.
+[^38]: A 13. § (2) bekezdés o) pontját a 14/2012. (IX. 28.) NMHH rendelet 3. §-a iktatta be, szövege a 2/2016. (II. 26.) NMHH rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^39]: A 13. § (2) bekezdés p) pontját a 2/2016. (II. 26.) NMHH rendelet 27. § (2) bekezdése iktatta be.
+[^40]: A 13. § (2) bekezdés q) pontját a 2/2016. (II. 26.) NMHH rendelet 27. § (2) bekezdése iktatta be.
+[^41]: A 13. § (8) bekezdés nyitó szövegrésze a 2/2016. (II. 26.) NMHH rendelet 31. § 8. pont b) pontja szerint módosított szöveg.
+[^42]: A 13. § (8) bekezdés c) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 8. pont c) pontja szerint módosított szöveg.

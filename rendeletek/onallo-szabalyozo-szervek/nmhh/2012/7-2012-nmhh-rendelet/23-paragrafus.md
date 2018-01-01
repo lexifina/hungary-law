@@ -1,6 +1,6 @@
-## 22. §[^50] A nemzetközi forgalomban részt vevő légi, tengeri – beleértve: belvízi – földi mozgószolgálatok vagy rádiónavigációs szolgálat rádiórendszere részére külföldi távközlési igazgatás által kiállított rádióengedélyt a Hatóság az NFFF-ben meghatározottak alapján fogadja el.
+## 22. §[^51] A nemzetközi forgalomban részt vevő légi, tengeri – beleértve: belvízi – földi mozgószolgálatok vagy rádiónavigációs szolgálat rádiórendszere részére külföldi távközlési igazgatás által kiállított rádióengedélyt a Hatóság az NFFF-ben meghatározottak alapján fogadja el.
 
-23. § (1)[^51] A Hatóság a frekvenciakijelölést vagy rádióengedélyt hatósági eljárásban hivatalból visszavonja vagy módosítja,
+23. § (1)[^52] A Hatóság a frekvenciakijelölést vagy rádióengedélyt hatósági eljárásban hivatalból visszavonja vagy módosítja,
 
 a) ha azt jogszabály írja elő;
 
@@ -12,15 +12,18 @@ d) ha a frekvenciakijelölés a 9. § (2) bekezdése alapján vagy a rádióenge
 
 e) bírósági döntés alapján;
 
-f) az építésügyi hatóság jogerős döntése alapján, ha építésiengedély-köteles antennatartót vagy antennát használatba vételi engedély nélkül használnak;
+f)[^53] az építésügyi hatóság véglegessé vált döntése alapján, ha építésiengedély-köteles antennatartót vagy antennát használatba vételi engedély nélkül használnak;
 
-g) a népegészségügyért felelős szakigazgatási szerv közegészségügyi követelmények megsértéséről szóló jogerős döntése alapján;
+g)[^54] a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal közegészségügyi követelmények megsértéséről szóló, véglegessé vált döntése alapján;
 
 h) ha a kérelem a valóságnak nem megfelelő vagy megtévesztő adatokat tartalmazott; vagy
 
-i) ha a légiközlekedési hatóság vagy a katonai légügyi hatóság a légi jármű légialkalmasságának megszűnését, vagy a hajózási hatóság az úszólétesítmény hajózásra alkalmasságának megszűnését jogerősen megállapította.
+i)[^55] ha a légiközlekedési hatóság vagy a katonai légügyi hatóság a légi jármű légialkalmasságának megszűnését, vagy a hajózási hatóság az úszólétesítmény hajózásra alkalmasságának megszűnését véglegessé vált döntésében megállapította.
 
 (2) A Hatóság a pályázati vagy árverési eljárás során szerzett frekvenciahasználati jogosultságot megállapító határozatot a frekvenciahasználati jogosultsággal rendelkező vállalkozás kérelmére köteles visszavonni.
 
-[^50]: A 22. § a 2/2016. (II. 26.) NMHH rendelet 31. § 14. pontja szerint módosított szöveg.
-[^51]: A 23. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 29. §-ával megállapított szöveg.
+[^51]: A 22. § a 2/2016. (II. 26.) NMHH rendelet 31. § 14. pontja szerint módosított szöveg.
+[^52]: A 23. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 29. §-ával megállapított szöveg.
+[^53]: A 23. § (1) bekezdés f) pontja a 13/2017. (XII. 29.) NMHH rendelet 6. § b) pont ba) alpontja szerint módosított szöveg.
+[^54]: A 23. § (1) bekezdés g) pontja a 13/2017. (XII. 29.) NMHH rendelet 6. § b) pont bb) alpontja szerint módosított szöveg.
+[^55]: A 23. § (1) bekezdés i) pontja a 13/2017. (XII. 29.) NMHH rendelet 6. § b) pont bc) alpontja szerint módosított szöveg.
