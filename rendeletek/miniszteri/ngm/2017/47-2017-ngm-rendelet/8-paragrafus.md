@@ -1,3 +1,3 @@
-## 1–7. §[^1]
+## 7. § A 45/2016. NGM rendelet 57. §-a a következő (5) bekezdéssel egészül ki:
 
-[^1]: Az 1–7. § a 15. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## „(5) A Jöt. 112. § (1) bekezdés d) pontja szerinti felhasználás esetén a Honvédelmi Minisztérium adóraktári engedéllyel rendelkező, vám- és határforgalmi feladatok végrehajtásáért felelős szervezeti egysége az üzemanyag kiszolgálást az (1) bekezdés b) pontja szerinti bizonylattal dokumentálva számolja el.”

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-47-20-2
 | --- | --- | --- |
 | 2017-12-28 | 2017-47-20-2X.1 | 47/2017. (XII. 27.) NGM rendelet |
 | 2017-12-29 | 2017-47-20-2X.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2017-47-20-2X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
