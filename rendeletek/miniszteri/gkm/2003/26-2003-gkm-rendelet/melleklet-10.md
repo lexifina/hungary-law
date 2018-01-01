@@ -178,7 +178,7 @@ Az OVSZ III. hatálya alá tartozó kötélvontatású vasutakon még nem létes
 
 Külföldi eredetű berendezések, szerkezetek, készülékek, részegységek, szerkezeti elemek hazai alkalmazását az OVSZ III. előírásainak figyelembevételével a kötélvontatású vasút létesítését engedélyező hatóság a külföldi megfelelőségi igazolás alapján készített, független hazai szakértő (tanúsító) által kiállított megfelelőségi tanúsítvány alapján engedélyezi.
 
-1.3. Kötélvontatású vasúti építmények, járművek és a vasútüzem engedélyezése, létesítése
+1.3.[^24] Kötélvontatású vasúti építmények, járművek és a vasútüzem engedélyezése, létesítése
 
 A kötélvontatású vasút létesítéséhez szükséges terület rendelkezésre bocsátásáról a vasútról szóló törvényben foglaltak alapján kell gondoskodni. Ez a kiszolgálandó sípályákra és melléklétesítményekre is vonatkozik.
 
@@ -188,9 +188,9 @@ A hatósági engedélyezési eljárást a vonatkozó jogszabályokban előírt h
 
 A hatósági engedélyezési eljárást az engedélyt kérő köteles elősegíteni, kellő időben történő és megfelelő szintű szakmai előkészítéssel, adatszolgáltatással és a bizonylatok átadásával.
 
-A vasúti hatóság döntéseit határozatként adja ki az államigazgatási eljárások általános szabályairól szóló törvény alapján. A határozatban előírják mindazokat a jogokat és kötelezettségeket, melyek a személyszállító kötélvontatású vasúti építmények és járművek engedélyeseit megilletik és kötelezik.
+A vasúti hatóság döntéseit határozatként adja ki az általános közigazgatási rendtartásról szóló törvény alapján. A határozatban előírják mindazokat a jogokat és kötelezettségeket, melyek a személyszállító kötélvontatású vasúti építmények és járművek engedélyeseit megilletik és kötelezik.
 
-Az építési tevékenység csak a vasúti hatóság által kiadott jogerős határozat alapján kezdhető meg. Az építés során a kivitelezési jogosultságra vonatkozó jogszabályokat be kell tartani.
+Az építési tevékenység csak a vasúti hatóság által kiadott végleges döntés alapján kezdhető meg. Az építés során a kivitelezési jogosultságra vonatkozó jogszabályokat be kell tartani.
 
 A kötélvontatású vasúti pálya mentén az üzem biztonságát veszélyeztető világító berendezéseket (fényreklám, fényszóró stb.) elhelyezni nem szabad. Arra nézve, hogy a világító berendezés a vasútüzem biztonságát veszélyezteti-e, a kötélvontatású vasút üzembentartójának állásfoglalása az irányadó.
 
@@ -200,7 +200,7 @@ Hatósági használatbavételi – járművekre üzembe helyezési – engedély
 
 Hatósági használatbavételi eljárást – járművek esetében üzembe helyezést – a használati, üzemi-műszaki alkalmasság és biztonság elbírálása szempontjából szükséges bizonylatok vizsgálata és próbák alapján kell lebonyolítani, figyelembe véve a létesítési engedélyben foglalt előírások, feltételek teljesítését.
 
-A megfelelőség és biztonság elbírálása a felhasznált anyag (alrendszer, berendezés és részegység) megfelelőségi tanúsítása alapján történhet. A megfelelőséget vizsgáló, ellenőrző és tanúsító szervezetek kijelölése az ágazati irányításért felelős miniszter feladat- és hatásköre[^24].
+A megfelelőség és biztonság elbírálása a felhasznált anyag (alrendszer, berendezés és részegység) megfelelőségi tanúsítása alapján történhet. A megfelelőséget vizsgáló, ellenőrző és tanúsító szervezetek kijelölése az ágazati irányításért felelős miniszter feladat- és hatásköre[^25].
 
 Az engedélyes a kötélvontatású vasút létesítményeit csak hatósági használatbavételi engedély alapján helyezheti forgalomba. A használatbavételi engedély kiadását megelőzően csak a létesítési engedélyben előírt próbaüzemelés végezhető (lásd a 11.1. pontot).
 
@@ -254,9 +254,9 @@ A felügyeleti rendszer vizsgálati időszakainak meghatározásánál a kötél
 
 1.9.2. Az OVSZ III. hatálya alá tartozó építményeket, berendezéseket és járműveket úgy kell kialakítani és üzemeltetni, hogy azok a biztonság követelményeit mindenkor kielégítsék. Ezen követelmények akkor tekinthetők teljesítettnek, ha a vasúti építmények, berendezések, járművek, és az üzemmód a jelen szabályzat előírásainak vagy – ha ilyen előírás a szabályzatban nincs – a technika elismert szabályainak megfelelnek.
 
-1.9.3. A technika elismert szabályait tartalmazzák az érvényes szabványok és előírások, továbbá a hatósági jóváhagyással bíró előírások[^25] és feltétfüzetek. Ezeket kell alkalmazni a mindenkori előírásoknak és módosításoknak megfelelően.
+1.9.3. A technika elismert szabályait tartalmazzák az érvényes szabványok és előírások, továbbá a hatósági jóváhagyással bíró előírások[^26] és feltétfüzetek. Ezeket kell alkalmazni a mindenkori előírásoknak és módosításoknak megfelelően.
 
-1.9.4. Az OVSZ III. előírásaitól és az előzőekben meghatározott előírásoktól eltérni – a vasúti hatóság eseti engedélye alapján – csak akkor lehet, ha az a biztonságot nem érinti, vagy a biztonsági követelmények más módon kielégíthetők. Ezt biztonsági elemzéssel kell igazolni.[^26]
+1.9.4. Az OVSZ III. előírásaitól és az előzőekben meghatározott előírásoktól eltérni – a vasúti hatóság eseti engedélye alapján – csak akkor lehet, ha az a biztonságot nem érinti, vagy a biztonsági követelmények más módon kielégíthetők. Ezt biztonsági elemzéssel kell igazolni.[^27]
 
 1.9.5. A meglévő kötélvontatású vasúti építmények és járművek továbbra is a korábbi hatósági engedélyekben foglalt feltételek szerint üzemeltethetők, de átépítésük vagy átalakításuk esetén már az OVSZ III. előírásait be kell tartani.
 
@@ -2892,6 +2892,7 @@ Vészleállítás után az újraindulás csak a hiba teljes körű felszámolás
 
 [^22]: A 10. számú melléklet 1. pontja a 91/2011. (XII. 30.) NFM rendelet 33. §-a szerint módosított szöveg.
 [^23]: A 182/1997. (X. 17.) Korm. rendelet, a 39/1997. (XII. 19.) KTM–IKIM együttes rendelet, továbbá a 26/2003. (IV. 28.) GKM rendelete szerinti eljárással.
-[^24]: 182/1997. (X. 17.) Korm. rendelet 11. §-ában kapott felhatalmazás szerint.
-[^25]: Jelenleg a 39/1997. (XII. 19.) KTM–IKIM együttes rendelet szerinti Építőipari Műszaki Engedély (ÉME), és/vagy az Európai Műszaki Engedély (ETA).
-[^26]: A 26/2003. (IV. 28.) GKM rendelet 15. § szerint.
+[^24]: A 10. számú melléklet 1.3. pontjában az 55/2017. (XII. 27.) NFM rendelet 24. §-a szerint módosított szöveg.
+[^25]: 182/1997. (X. 17.) Korm. rendelet 11. §-ában kapott felhatalmazás szerint.
+[^26]: Jelenleg a 39/1997. (XII. 19.) KTM–IKIM együttes rendelet szerinti Építőipari Műszaki Engedély (ÉME), és/vagy az Európai Műszaki Engedély (ETA).
+[^27]: A 26/2003. (IV. 28.) GKM rendelet 15. § szerint.
