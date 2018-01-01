@@ -1,4 +1,4 @@
-14/A. §[^32] (1) A hatóság a típusengedélyt módosíthatja
+14/A. §[^35] (1) A hatóság a típusengedélyt módosíthatja
 
 a) a jogszabályokban, valamint a típus- vagy üzembehelyezési engedélyben meghatározott követelményeknek való megfelelés érdekében a típusengedélyezési eljárás lefolytatását követően,
 
@@ -20,4 +20,4 @@ b) az üzembehelyezés feltételeit és az üzembehelyezési eljárás rendjét,
 
 c) a jármű üzemeltetésének általános szabályait, feltételeit, szükség esetén a közlekedtetéssel kapcsolatos korlátozásokat rendel el.
 
-[^32]: A 14/A. §-t a 82/2013. (XII. 29.) NFM rendelet 7. §-a iktatta be.
+[^35]: A 14/A. §-t a 82/2013. (XII. 29.) NFM rendelet 7. §-a iktatta be.

@@ -1,4 +1,4 @@
-14. § (1)[^30] A hatóság a típusengedélyt hivatalból felülvizsgálja, ha – különösen vasúti baleset tapasztalatai alapján – kétség merül fel azzal kapcsolatban, hogy a járműtípus műszaki jellemzői megfelelnek-e a jogszabályokban, valamint a típus- vagy üzembehelyezési engedélyben meghatározott követelményeknek. A jármű tulajdonosa, üzembentartója és a karbantartásért felelős szervezet köteles tájékoztatni a hatóságot, ha egy járműtípus azonos rendszerelemre vonatkozó és rendszeresen bekövetkező meghibásodását tapasztalja.
+14. § (1)[^33] A hatóság a típusengedélyt hivatalból felülvizsgálja, ha – különösen vasúti baleset tapasztalatai alapján – kétség merül fel azzal kapcsolatban, hogy a járműtípus műszaki jellemzői megfelelnek-e a jogszabályokban, valamint a típus- vagy üzembehelyezési engedélyben meghatározott követelményeknek. A jármű tulajdonosa, üzembentartója és a karbantartásért felelős szervezet köteles tájékoztatni a hatóságot, ha egy járműtípus azonos rendszerelemre vonatkozó és rendszeresen bekövetkező meghibásodását tapasztalja.
 
 (2) A típusengedély felülvizsgálata során a hatóság a típusengedély jogosultját, vagy gyártóját a járműtípussal kapcsolatos műszaki vizsgálatok elvégzésére kötelezheti.
 
@@ -10,9 +10,9 @@ b) ha az a) pontban foglaltak teljesítése nem lehetséges, a típusengedélyt 
 
 (4) A hatóság a (3) bekezdés szerinti határozatát kézbesíti az adott járműtípusba tartozó vasúti járművek üzembentartói részére.
 
-(5)[^31] Az új típusengedély alapján a járműtípus műszaki adatait a hatóság rögzíti a nemzeti vasúti járműnyilvántartásban.
+(5)[^34] Az új típusengedély alapján a járműtípus műszaki adatait a hatóság rögzíti a nemzeti vasúti járműnyilvántartásban.
 
 (6) A típusengedély kiadásáról, módosításáról és visszavonásáról a hatóság értesíti az Ügynökséget, azok európai nyilvántartásban történő rögzítése érdekében.
 
-[^30]: A 14. § (1) bekezdése a 82/2013. (XII. 29.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^31]: A 14. § (5) bekezdése a 82/2013. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^33]: A 14. § (1) bekezdése a 82/2013. (XII. 29.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^34]: A 14. § (5) bekezdése a 82/2013. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.

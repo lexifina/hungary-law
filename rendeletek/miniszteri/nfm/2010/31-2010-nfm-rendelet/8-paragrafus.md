@@ -16,8 +16,8 @@ c) a prototípus járműre vonatkozó tartampróbákat, és azok lebonyolítás�
 
 d) a prototípus-vizsgálatok teljes körű elvégzéséhez szükséges prototípus járművek darabszámát,
 
-e)[^19] a szériavizsgálat tartalmát és feltételeit.
+e)[^21] a szériavizsgálat tartalmát és feltételeit.
 
 (3) A hatóság az előzetes típusengedélyben előírhatja, hogy az engedélyezési dokumentációt a gyártónak a megrendelővel jóvá kell hagyatnia, valamint azt, hogy típusengedélyezési eljárás csak a jóváhagyás után kezdődhet el.
 
-[^19]: A 8. § (2) bekezdés e) pontját a 82/2013. (XII. 29.) NFM rendelet 4. §-a iktatta be.
+[^21]: A 8. § (2) bekezdés e) pontját a 82/2013. (XII. 29.) NFM rendelet 4. §-a iktatta be.
