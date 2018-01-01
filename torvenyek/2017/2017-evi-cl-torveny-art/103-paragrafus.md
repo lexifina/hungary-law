@@ -1,0 +1,3 @@
+### 103. § [Idegenrendészeti, menekültügyi, állampolgársági ügyekben eljáró hatóság adatszolgáltatása]
+
+Az idegenrendészeti, menekültügyi, állampolgársági ügyekben eljáró hatóság az állami adó- és vámhatóság megkeresésére – az adózók ellenőrzésre történő kiválasztásához, ellenőrzéséhez, végrehajtási eljárás lefolytatásához – adatot szolgáltat a nyilvántartásában szereplő, az idegenrendészeti hatóság előtti engedélyezési eljárások során az engedélyek kiadásához szükséges feltételeket igazoló okiratokban szereplő, az adózó elérhetőségére, személyének azonosítására, valamint jövedelmi és vagyoni helyzetére vonatkozó adatokról.

@@ -1,0 +1,15 @@
+### 25. § [Igazolás az adóregisztrációs akadály hiányáról]
+
+(1) Az állami adó- és vámhatóság kérelemre harminc napon belül igazolást állít ki arról, hogy a kérelmezővel szemben az igazolás kiállításának napján nem áll fenn olyan, a 19. § (2) bekezdésében meghatározott akadály, amely más adózóban vezető tisztségviselőként, cégvezetőként, képviseletre jogosult tagként vagy egyszemélyes társaság, korlátolt felelősségű társaság, zártkörűen működő részvénytársaság esetében tagként vagy részvényesként történő részvétele esetén a más adózó adószáma megállapításának megtagadásához, vagy a más adózóval szemben a 24. § alkalmazásához vezetne. Az állami adó- és vámhatóság a kérelmet visszautasítja, ha a kérelem nem tartalmazza a kérelmező adóazonosító számát.
+
+(2) Az adózó vagy az adózónak nem minősülő természetes személy abban az esetben, ha az állami adó- és vámhatóság az (1) bekezdés szerinti igazolás kiállítását a 19. § (2) bekezdésében meghatározott valamely akadály fennállására tekintettel tagadta meg, a 20. § (1) bekezdés szerinti kérelmet terjeszthet elő.
+
+(3) A (2) bekezdés szerinti kérelem elbírálására a 20. § (2)–(6) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni azzal, hogy ha az állami adó- és vámhatóság az adózó kérelmének helyt ad, úgy olyan igazolást állít ki részére, amelyen az akadály megjelölésén túl a kimentés tényét is feltünteti.
+
+(4) Az (1) és a (3) bekezdés szerint kiállított igazolás hatósági bizonyítványnak minősül.
+
+(5) Az állami adó- és vámhatóság az (1) és a (3) bekezdésben meghatározott igazolás kiállítását határozattal tagadja meg, ha a kiállítás feltételei nem állnak fenn. Az állami adó- és vámhatóság az igazolás kiállítását abban az esetben is megtagadja, ha megállapítja, hogy a kérelmező olyan más adózó vezető tisztségviselője, cégvezetője, tagja vagy részvényese, amellyel szemben a kérelem benyújtásakor adóregisztrációs eljárás van folyamatban.
+
+(6) Az állami adó- és vámhatóság az adózó adószámának megállapítását a 20. § (2) bekezdésében meghatározott okok alapján nem tagadhatja meg, illetve az adózóval szemben nem járhat el a 24. § (2) bekezdése szerint, ha megállapítja, hogy az adózó valamennyi vezető tisztségviselője, cégvezetője, tagja vagy részvényese rendelkezik az (1) bekezdés szerint kiállított tizenöt napnál nem régebbi igazolással, kivéve, ha megállapítja, hogy az akadály valamely igazolás kiállítását követően állt be.
+
+(7) Az állami adó- és vámhatóság a 19. § (2) bekezdésében meghatározott okra hivatkozással nem tagadhatja meg az adózó adószámának megállapítását, illetve az adózóval szemben nem járhat el a 24. § (2) bekezdése szerint, ha az állami adó- és vámhatóság az adózó azon vezető tisztségviselője, cégvezetője, tagja vagy részvényese részére, akire tekintettel fennállna a 19. § (2) bekezdésében foglalt valamely akadály, tizenöt napnál nem régebbi igazolást állított ki az (1) bekezdés szerint, kivéve, ha az állami adó- és vámhatóság megállapítja, hogy az igazolással kimentett akadályon kívül további akadály is fennáll az igazolással rendelkező vezető tisztségviselővel, cégvezetővel, taggal vagy részvényessel szemben.

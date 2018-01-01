@@ -1,0 +1,29 @@
+### 26. § [Adófizetési biztosíték]
+
+(1) Az állami adó- és vámhatóság adóregisztrációs eljárás keretében megvizsgálja, hogy az adószám megállapítását követően fennáll-e az adófizetési biztosíték előírásának a (2) bekezdésben meghatározott valamely oka.
+
+(2) Az állami adó- és vámhatóság az adószám megállapítását követően adófizetési biztosíték letételére kötelezi az adózót, ha az adózó vezető tisztségviselője, cégvezetője, képviseletre jogosult tagja, vagy korlátolt felelősségű társaság, zártkörűen működő részvénytársaság esetében az ötven százalékot meghaladó mértékű szavazati joggal vagy minősített többségű befolyással rendelkező tagja, részvényese, egyszemélyes gazdasági társaság esetében a tag vagy részvényes (e § alkalmazásában a továbbiakban: tag, részvényes) olyan, más adózó volt vezető tisztségviselője, cégvezetője, tagja, vagy részvényese, amely az adószám megállapítása iránti kérelem benyújtásának napját megelőző öt éven belül az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, egymillió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében kettő millió forintot meghaladó adótartozással jogutód nélkül szűnt meg, feltéve, hogy a más adózóban fennálló vezető tisztségviselői, cégvezetői, tagi vagy részvényesi jogviszony a felszámolás vagy a kényszertörlési eljárás kezdő napját megelőző háromszázhatvanadik napon, illetve azt követően bármelyik nap fennállt, és az adóregisztrációs eljárás megindításának időpontjáig az adótartozás az 59. § (1) bekezdés e) pontja alapján vagy egyéb úton nem térült meg.
+
+(3) A (2) bekezdés alkalmazása szempontjából adótartozásnak minősül az adóhatóság által a Csőd tv. szerint engedményezett, valamint a bejelenteni mellőzött vagy lemondással érintett követelés is.
+
+(4) Az adófizetési biztosíték összege a (2) bekezdés szerinti tartozás összege. Ha az adózó esetében több tényállás is megalapozza az adófizetési biztosíték megállapítását, az adófizetési biztosítékot a legmagasabb adótartozásnak megfelelő összegben kell meghatározni.
+
+(5) Az adófizetési biztosíték letételére vonatkozó kötelezettségének az adózó
+
+a) az állami adó- és vámhatóság erre a célra megnyitott elkülönített letéti számlájára történő egyösszegű befizetéssel, illetve
+
+b) a kiállításától számított tizenkét hónapon keresztül érvényes, az előírt adófizetési biztosíték összegéről szóló, az állami adó- és vámhatóság mint kedvezményezett javára, a Magyar Nemzeti Bank nyilvántartásában szereplő, vagy az Európai Unió más tagállamában honos, bejegyzett pénzügyi intézmény, pénzforgalmi intézmény, befektetési vállalkozás által kiállított garancialevél benyújtásával
+
+tehet eleget. A biztosíték befizetését vagy a bankgarancialevél benyújtását az adófizetési biztosíték letételére vonatkozó határozat kézbesítését követő harminc napon belül kell teljesíteni. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+
+(6) Az állami adó- és vámhatóság a 246. §-ban foglaltak szerint jár el, azzal, hogy az adószám törlését elrendelő határozatot hirdetményi úton történő közlés mellőzésével közvetlenül az adózóval közli, ha az adózó az állami adó- és vámhatóság által előírt adófizetési biztosíték letétbe helyezési kötelezettségének az (5) bekezdésben meghatározott határidőben nem tett eleget.
+
+(7) Az adófizetési biztosíték az adózó adótartozása megfizetésének tizenkét hónapon keresztül történő folyamatos és teljes összegű biztosítására szolgál. Ha az adófizetési biztosíték az adózó adótartozását csak részben egyenlíti ki, az adófizetési biztosíték összegét az adók esedékességének sorrendjében, azonos esedékességű közteher esetén a tartozás arányában kell elszámolni. Az állami adó- és vámhatóság, anélkül, hogy felszólítaná az adózót adótartozásának megfizetésére, a jogkövetkezményekre történő figyelmeztetéssel egyidejűleg elektronikus úton értesíti az adózót az adófizetési biztosíték teljes vagy részleges felhasználásáról.
+
+(8) A (7) bekezdésben meghatározott értesítés kézbesítését követően az adózó az adófizetési biztosíték összegét tizenöt napon belül kiegészíti a (2) bekezdés alapján meghatározott összegre. A kiegészítés elmulasztása esetén az állami adó- és vámhatóság a 246. § szerint jár el, azzal, hogy az adószám törlését elrendelő határozatot hirdetményi úton történő közlés mellőzésével közvetlenül az adózóval közli. Ha az adózó az adószám törlését elrendelő határozat kiadmányozását követően, annak véglegessé válásáig tesz eleget az adófizetési biztosíték kiegészítésére irányuló kötelezettségének, az állami adó- és vámhatóság a határozatot visszavonja.
+
+(9) Az állami adó- és vámhatóság az (5) bekezdés a) pontja alapján befizetett adófizetési biztosítékot annak hiánytalan beérkezésétől számított tizenkét hónapig megőrzi, majd azt, vagy annak fennmaradó részét az adófizetési biztosíték letételére vonatkozó tizenkét hónapos időszak leteltét követő harminc napon belül visszafizeti az adózó részére. Az adófizetési biztosíték vagy fennmaradó része visszafizetésének esedékességekor az állami adó- és vámhatóság értesítést küld az adófizetési biztosíték felhasználásáról. Az adózó a letett adófizetési biztosíték után nem jogosult kamatra.
+
+(10) Az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adófizetési biztosítékot előírta, a határozat adózó által történt kézhezvételétől számított nyolcnapos jogvesztő határidőn belül a 20. § (1) bekezdése szerinti kimentési kérelmet terjeszthet elő. A kérelem elbírálására 20. § (2)–(7) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
+
+(11) Az adófizetési biztosíték kötelezettsége abban az esetben is fennáll, ha a biztosíték véglegessé vált megállapítását követően a vezető tisztségviselő, cégvezető, tag, vagy részvényes személyében történt változás következtében az adófizetési biztosíték előírásának (2) bekezdésben meghatározott valamely oka már nem állapítható meg.

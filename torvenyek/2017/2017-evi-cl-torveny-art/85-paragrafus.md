@@ -1,0 +1,3 @@
+### 85. § [Befektetési szolgáltatói adatszolgáltatás]
+
+A befektetési szolgáltató az adóévet követő év január 31. napjáig elektronikus úton adatot szolgáltat az állami adó- és vámhatósághoz az olyan ügyletben részt vevő személyek – ha egyikük, vagy mindegyikük természetes személy – azonosító adatairól, adóazonosító számáról, amely ügyletben az egyik fél tulajdonában lévő értékpapír (értékpapír-letéti) számláról másik fél tulajdonában lévő értékpapír, értékpapír-letéti számlára értékpapír áthelyezésére kapott megbízást teljesített. Az adatszolgáltatás tartalmazza továbbá az áthelyezett értékpapír fajtáját, névértékét, valamint – ha a megbízást adó fél igazolja, vagy arról nyilatkozik – az értékpapír átruházása ellenében megszerzett bevételt.

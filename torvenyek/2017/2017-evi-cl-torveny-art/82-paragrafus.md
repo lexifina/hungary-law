@@ -1,0 +1,3 @@
+### 82. § [Adatszolgáltatás a föld bérbeadásáról származó jövedelemről]
+
+A kifizető a föld bérbeadásából (földjáradékból) származó jövedelemről és a levont adóról, az adómentesség feltételéül szabott időtartamra kötött, de ezen időtartam lejárta előtt megszűnt haszonbérleti szerződésről és az adókötelessé vált időszakról, valamint a bérbeadott földterület ingatlan-nyilvántartási azonosító adatairól az adatszolgáltatást a földterület fekvése szerint illetékes önkormányzati adóhatósághoz teljesíti. Az adatszolgáltatásban fel kell tüntetni az adólevonás elmaradásának okát (természetben történő bérfizetés). Az adatszolgáltatást a kifizető papíralapú adathordozón az adóévet követő év március 31. napjáig teljesíti.

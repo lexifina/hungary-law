@@ -1,0 +1,3 @@
+### 105. § [Telekommunikációs szolgáltatást nyújtó adózó adatszolgáltatása]
+
+Ha a tényállás tisztázásához szükséges, az állami adó- és vámhatóság megkeresi a belföldön letelepedett, telekommunikációs szolgáltatást nyújtó adózót az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény szerinti elektronikus kereskedelemi szolgáltatásnak a szolgáltatás nyújtójára, valamint a szolgáltatás ellenértékére vonatkozó forgalmi adatai az elektronikus kereskedelmi szolgáltatást igénybevevő személyhez nem köthető módon történő beszerzése érdekében. A belföldön letelepedett, telekommunikációs szolgáltatást nyújtó adózó a megkeresést tizenöt napon belül teljesíti.

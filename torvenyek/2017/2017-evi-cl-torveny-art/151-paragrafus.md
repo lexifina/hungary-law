@@ -1,0 +1,3 @@
+### 151. § [Jogutód minősítése]
+
+Összeolvadás, illetve beolvadás esetén a jogutód abban az esetben minősül megbízható adózónak, ha az összeolvadáskor, illetve a beolvadáskor saját maga és valamennyi jogelőd megbízható adózónak minősült. Ha a jogutód vagy valamelyik jogelőd az összeolvadáskor, illetve a beolvadáskor kockázatos adózónak minősült, a jogutód szintén kockázatos adózónak minősül. Különválás, kiválás, illetve átalakulás esetén a jogutód megtartja a jogelőd minősítését. Ha a jogutód a jogelőd adózó kockázatos minősítése miatt válik kockázatos adózóvá, úgy a kockázatos adózói minősítés egyéves időtartamát a jogelőd kockázatos adózóvá minősítésének kezdő időpontjától kell számítani.

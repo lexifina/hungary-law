@@ -1,0 +1,5 @@
+### 148. § [Adómegállapítás év közben]
+
+(1) Az adóhatóság abban az esetben is határozattal állapítja meg év közben az adót, ha ezt az ország területét a külföldi letelepedés szándékával elhagyni kívánó adózó kéri, ha az adóhatóságnál a külföldi bevándorlási célú vízumot bemutatja és az adómegállapításhoz szükséges igazolást mellékeli.
+
+(2) A belföldön lakóhellyel, szokásos tartózkodási hellyel, székhellyel, telephellyel nem rendelkező adózó adóját az adóhatóság az adózó bejelentése alapján határozattal állapítja meg, ha az adózó az adóév végét megelőzően azzal a szándékkal hagyja el az ország területét, hogy az adóév során adóköteles tevékenység vagy jövedelemszerzés céljából vissza nem tér. Az ország területe elhagyásának időpontja előtt harminc nappal be kell jelenteni ennek tényét, valamint a bejelentéshez csatolni kell az adó megállapításához szükséges iratokat. Ha a bejelentés és az iratok csatolása a megállapított határidőn belül nem lehetséges, e kötelezettséget attól az időponttól számított tizenöt napon belül kell együttesen teljesíteni, amelytől teljesítésük lehetővé válik.

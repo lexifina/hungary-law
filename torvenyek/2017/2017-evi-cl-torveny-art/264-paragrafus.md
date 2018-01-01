@@ -1,0 +1,3 @@
+### 264. § [Nagy összegű adótartozással rendelkező adózók közzététele]
+
+Az állami adó- és vámhatóság negyedévenként – a negyedévet követő harminc napon belül – honlapján a nagy összegű adótartozással rendelkező adózók közzétételi listáján közzéteszi annak az adózónak nevét, elnevezését, lakóhelyét, székhelyét, telephelyét, adószámát, akinek, amelynek száznyolcvan napon keresztül folyamatosan fennálló, az állami adó- és vámhatóságnál nyilvántartott túlfizetéssel csökkentett adótartozása összességében számítva a százmillió forintot, természetes személy esetében nettó módon számítva a tízmillió forintot meghaladja.

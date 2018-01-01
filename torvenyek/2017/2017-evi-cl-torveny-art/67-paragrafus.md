@@ -1,0 +1,7 @@
+### 67. § [Megfizetés bűncselekmény esetén]
+
+(1) Az állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni a költségvetést károsító [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 395. §, 396. §, illetve a 2013. június 30-ig hatályos, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 309. §, 310. § szerinti] bűncselekmény elkövetője által a büntetés korlátlan enyhítése érdekében teljesített, a bűncselekménnyel okozott vagyoni hátránnyal, kárral megegyező mértékben megfizetett összeget.
+
+(2) Az állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni az 1978. évi IV. törvény 2011. december 31-ig hatályos 310. §-a szerinti adócsalás, valamint a munkáltatással összefüggésben elkövetett adócsalás bűncselekmények elkövetője által teljesített, a bűncselekménnyel okozott bevételcsökkenés összegével megegyező – büntethetőséget megszüntető okot eredményező – összeget.
+
+(3) Az állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni az állami adó- és vámhatóság hatáskörébe tartozó adóval, költségvetési támogatással kapcsolatban elkövetett költségvetési csalás – Btk. 396. §-a, illetve a 2013. június 30-ig hatályos 1978. évi IV. törvény 310. §-a – miatt indított büntetőeljárásban a nyomozás elrendelésétől a büntetőeljárás jogerős befejezéséig a vagyoni hátrány megtérítése érdekében – a büntetés enyhítése érdekében – megfizetett összeget.

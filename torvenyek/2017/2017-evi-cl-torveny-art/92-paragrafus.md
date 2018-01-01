@@ -1,0 +1,5 @@
+### 92. § [Adatszolgáltatás adókedvezményre jogosító igazolásokról]
+
+(1) Ha az adókedvezményre jogosító igazolást kiállító szerv olyan igazolást (bizonylatot) állít ki, amelynek alapján a természetes személy adókedvezmény (adómentesség) igénybevételére jogosult, a kedvezmény igénybevételére jogosító igazolás tartalmának közlésével adatot szolgáltat az adózónak kiadott igazolásról. Az adatszolgáltatást az adóévet követő év január harmincegyedikéig elektronikus úton az adókedvezményre jogosító igazolást kiállító szerv illetékes állami adó- és vámhatóságához kell teljesíteni.
+
+(2) A tartósan álláskereső személyek után, illetve a gyermekgondozási díj, a gyermekgondozást segítő ellátás, valamint a gyermeknevelési támogatás folyósítását követően foglalkoztatott munkavállalók után érvényesíthető szociális hozzájárulási adókedvezmény ellenőrzése céljából az adókedvezményre jogosító igazolást kiállító szerv a tárgyhónapban kiállított igazolásban szereplő adatokat a tárgyhónapot követő hónap ötödik napjáig elektronikus úton hivatalból megküldi az állami adó- és vámhatóság részére.

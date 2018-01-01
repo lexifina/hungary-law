@@ -1,0 +1,3 @@
+### 72. § [Rendelkezés költségvetési támogatás elszámolásáról]
+
+Az adózó bevallásában rendelkezhet arról, hogy az igényelt költségvetési támogatást az adóhatóság az adózó által megjelölt adó vagy egyéb fizetési kötelezettség (tételes elszámolású fizetési kötelezettség esetében a konkrét fizetési kötelezettség) megfizetésére számolja el. A jogszerűen igényelt költségvetési támogatás beszámításával az adó, vagy egyéb fizetési kötelezettség megfizetettnek, a költségvetési támogatás kiutaltnak minősül. A költségvetési támogatás kiutalása, illetve az adó, vagy egyéb fizetési kötelezettség megfizetése időpontjának az igénylés (bevallás) beérkezése, de legkorábban a támogatás esedékessége napját kell tekinteni.
