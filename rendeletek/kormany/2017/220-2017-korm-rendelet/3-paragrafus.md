@@ -12,4 +12,6 @@ e) a vízszerelő a bejelentéskor valótlan tartalmú nyilatkozatot tett, és e
 
 (2) A Hatóság a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 28. §-ában meghatározott eseteken túlmenően akkor is törli a nyilvántartásból a vízszerelőt, ha az elhalálozott.
 
-(3) A vízszerelő, akinek a tevékenység végzését a Hatóság megtiltotta, akkor jelentheti be a tevékenység újbóli gyakorlását, ha a tevékenységet megtiltó határozat jogerőre emelkedésétől számított egy év eltelt, és a vízszerelő a tevékenység végzésének egyéb feltételeit igazolja.
+(3)[^2] A vízszerelő, akinek a tevékenység végzését a Hatóság megtiltotta, akkor jelentheti be a tevékenység újbóli gyakorlását, ha a tevékenységet megtiltó határozat véglegessé válásától számított egy év eltelt, és a vízszerelő a tevékenység végzésének egyéb feltételeit igazolja.
+
+[^2]: A 3. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 615. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
