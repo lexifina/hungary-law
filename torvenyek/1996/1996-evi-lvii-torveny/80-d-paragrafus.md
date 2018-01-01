@@ -1,0 +1,15 @@
+80/D. § (1) A vizsgáló, illetve az eljáró versenytanács a versenyfelügyeleti eljárást megszünteti, ha az ügyben az Európai Bizottság eljárást indított.
+
+(2) A vizsgáló, illetve az eljáró versenytanács a versenyfelügyeleti eljárást felfüggesztheti vagy megszüntetheti, ha az ügyben más tagállam versenyhatósága eljárást indított.
+
+(3) Az (1) vagy a (2) bekezdés alapján hozott eljárást megszüntető végzés ellen önálló jogorvoslatnak nincs helye.
+
+(4) Ha az Európai Bizottság a 139/2004/EK tanácsi rendelet 9. cikke alapján hozott döntésével az uniós léptékű összefonódás elbírálását a Gazdasági Versenyhivatalhoz teszi át, összefonódás-bejelentésként az Európai Bizottságnak megküldött bejelentést kell tekinteni, és az összefonódás vizsgálatát el kell rendelni; a versenyfelügyeleti eljárásra a 67. § (4) bekezdés a) pontja alapján indított eljárásra vonatkozó szabályokat kell alkalmazni. A 139/2004/EK tanácsi rendelet 9. cikk (6) bekezdés második albekezdésében előírt tájékoztatási kötelezettség végrehajtására a vizsgálatot elrendelő végzés közlésével kerül sor.
+
+(5) Ha a Gazdasági Versenyhivatal a 139/2004/EK tanácsi rendelet 22. cikk (1) bekezdése szerinti kérelemmel fordul az Európai Bizottsághoz, a vizsgáló az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárást felfüggeszti. Ha az Európai Bizottság a Gazdasági Versenyhivatal kérelme alapján az összefonódás vizsgálatáról dönt, a vizsgáló az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárást megszünteti. Ha az Európai Bizottság az összefonódás vizsgálatát mellőzi, a vizsgáló a versenyfelügyeleti eljárás felfüggesztését megszünteti, és az eljárást folytatja.
+
+(6) Ha a versenyfelügyeleti eljárásban vizsgált összefonódáshoz kapcsolódóan az Európai Bizottság a 139/2004/EK tanácsi rendelet 22. cikk (2) bekezdése alapján arról tájékoztatja a Gazdasági Versenyhivatalt, hogy más tagállamtól a 139/2004/EK tanácsi rendelet 22. cikk (1) bekezdése szerinti kérelem érkezett hozzá, a vizsgáló, illetve az eljáró versenytanács az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárást felfüggeszti. Ha a Gazdasági Versenyhivatal nem kíván a kérelemhez csatlakozni, a vizsgáló, illetve az eljáró versenytanács – miután erről az Európai Bizottságot tájékoztatta – a versenyfelügyeleti eljárás felfüggesztését megszünteti, és az eljárást folytatja. Ha a Gazdasági Versenyhivatal a kérelemhez csatlakozik, és az Európai Bizottság az összefonódás vizsgálatáról dönt, a vizsgáló, illetve az eljáró versenytanács az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárást megszünteti. Ha a Gazdasági Versenyhivatal a kérelemhez csatlakozik, azonban az Európai Bizottság az összefonódás vizsgálatát mellőzi, a vizsgáló, illetve az eljáró versenytanács a versenyfelügyeleti eljárás felfüggesztését megszünteti, és az eljárást folytatja.
+
+(7) Az (5) vagy a (6) bekezdés alapján hozott eljárást megszüntető végzés ellen önálló jogorvoslatnak nincs helye.
+
+(8) A 62. § (1) bekezdése szerinti díjfizetési kötelezettség az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárásnak az (5) vagy a (6) bekezdés szerinti megszüntetése esetén is fennáll.

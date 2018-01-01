@@ -1,5 +1,7 @@
-## Tárgyalás
+## Versenytanácsi tárgyalás a határozat meghozatala előtt
 
-74. § (1) Az eljáró versenytanács a határozat meghozatala előtt – a 73. § (2) bekezdése szerinti esetet kivéve – tárgyalást tart, ha azt az ügyfél kéri vagy az eljáró versenytanács szükségesnek tartja. Az eljáró versenytanács az előzetes álláspont megküldésével egyidejűleg nyilatkozattételre hívja fel az ügyfelet arról, hogy kéri-e tárgyalás tartását. A tárgyalás napját úgy kell meghatározni, hogy az ügyfélnek módjában álljon a tárgyalásra felkészülni.
+74. § (1) Az eljáró versenytanács a határozat meghozatala előtt tárgyalást tart, ha azt az ügyfél kéri vagy az eljáró versenytanács szükségesnek tartja. Nem kell tárgyalást tartani abban az esetben, ha nem készül előzetes álláspont.
 
-(2) A vizsgáló vagy az eljáró versenytanács indokolt végzésével a tárgyalásról vagy annak egy részéről a nyilvánosságot kérelemre vagy hivatalból kizárhatja, ha a zártan kezelt személyes vagy azonosító adat, védett adat vagy egyéb korlátozottan megismerhető adat védelme érdekében feltétlenül szükséges.
+(2) Az eljáró versenytanács az előzetes álláspont megküldésével egyidejűleg nyilatkozattételre hívja fel az ügyfelet arról, hogy kéri-e tárgyalás tartását.
+
+(3) A tárgyalás napját úgy kell meghatározni, hogy az ügyfélnek a tárgyalásra való felkészülésre megfelelő idő álljon rendelkezésére.

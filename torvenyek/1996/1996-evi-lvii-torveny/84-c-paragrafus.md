@@ -1,0 +1,1 @@
+84/C. § Ha a kötelezett pénzfizetési kötelezettségének határidőben nem tesz eleget, illetve az állam által előlegezett költség után a megelőlegezés időtartamára az adózás rendjéről szóló törvény szerinti késedelmi pótlékkal azonos módon számított mértékű késedelmi pótlékot fizet.

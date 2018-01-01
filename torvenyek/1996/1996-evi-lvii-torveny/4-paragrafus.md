@@ -1,3 +1,3 @@
-4. § (1) Tilos a Polgári Törvénykönyvben meghatározott üzleti titkot tisztességtelen módon megszerezni vagy felhasználni, valamint jogosulatlanul mással közölni vagy nyilvánosságra hozni.
+4. § (1) Tilos a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) meghatározott üzleti titkot tisztességtelen módon megszerezni vagy felhasználni, valamint jogosulatlanul mással közölni vagy nyilvánosságra hozni.
 
 (2) Üzleti titok tisztességtelen módon való megszerzésének minősül az is, ha az üzleti titkot a jogosult hozzájárulása nélkül, a vele üzleti kapcsolatban – ideértve az üzletkötést megelőző olyan tájékoztatást, tárgyalást és ajánlattételt is, amelyet nem követ szerződéskötés – vagy bizalmi viszonyban – így különösen munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban – álló személy közreműködésével szerezték meg.

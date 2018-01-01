@@ -1,1 +1,5 @@
-84. § Az eljáró Versenytanács határozata ellen benyújtott kereset alapján indult bírósági eljárás során – a 83. §-ban meghatározott eltérésekkel – a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó szabályait kell alkalmazni.
+84. § (1) Ha a közigazgatási bíróság jogerős ítélete szerint az eljáró versenytanács határozata jogszabályt sértett, és ennek következtében a bíróság a határozatnak a bírság összegét meghatározó rendelkezését megváltoztatja, megsemmisíti vagy hatályon kívül helyezi, a Gazdasági Versenyhivatal a jogszabálysértően kiszabott, már megfizetett bírságösszeget visszatéríti az érintett ügyfélnek, és a visszatérítendő összeg után minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat 365-öd részének megfelelő mértékű kamatot fizet.
+
+(2) Az (1) bekezdés szerinti fizetési kötelezettség a jogerős bírósági ítélettel szemben rendkívüli perorvoslat kezdeményezésére nyitva álló határidő leteltekor, ha pedig a jogerős ítélettel szemben rendkívüli perorvoslatot kezdeményeztek, az azt az eljárást befejező bírósági határozat Gazdasági Versenyhivatallal való közlése napján áll be.
+
+(3) Az (1) bekezdés szerinti kamat kifizetését az eljáró versenytanács külön végzésben rendeli el.

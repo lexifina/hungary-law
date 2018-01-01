@@ -1,0 +1,1 @@
+80/C. § Ha a versenyfelügyeleti eljárásban az Európai Bizottságtól vagy más tagállami versenyhatóságtól származó bizonyíték kerül felhasználásra, az eljáró versenytanács döntésének indokolásában – az 1/2003/EK tanácsi rendelet által előírt feltételek teljesülésének bemutatásával – alá kell támasztani az ilyen bizonyítékok felhasználhatóságát.

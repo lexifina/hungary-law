@@ -1,8 +1,8 @@
-43/N. § (1) Az összefonódás-bejelentés beérkezésétől – ha a 43/M. § (1) bekezdése szerinti díj megfizetésére később kerül sor, ennek időpontjától – számított nyolc napon belül a vizsgáló
+43/N. § (1) Az összefonódás-bejelentés beérkezését – ha a 43/M. § (1) bekezdése szerinti díj megfizetésére később kerül sor, ennek időpontját – követő naptól számított nyolc napon belül a vizsgáló
 
-a) a 70. § (1b) bekezdése alapján elrendeli az összefonódás vizsgálatát,
+a) a 67. § (4) bekezdése alapján elrendeli az összefonódás vizsgálatát,
 
-b) a 70. § (1b) bekezdése szerint a vizsgálat elrendelésére okot adó körülmény hiányában erről a tényről – az eljáró versenytanáccsal egyetértésben – hatósági bizonyítványt ad ki az összefonódást bejelentőnek,
+b) a 67. § (4) bekezdése szerint a vizsgálat elrendelésére okot adó körülmény hiányában erről a tényről – az eljáró versenytanáccsal egyetértésben – hatósági bizonyítványt ad ki az összefonódást bejelentőnek,
 
 c) a 24. § (4) bekezdése szerinti összefonódás-vizsgálati küszöbérték nem teljesülése ellenére benyújtott összefonódás-bejelentést visszautasítja, vagy
 

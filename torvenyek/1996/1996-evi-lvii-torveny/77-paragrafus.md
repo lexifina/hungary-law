@@ -10,20 +10,20 @@ c) a 75. § szerinti kötelezettségvállalás teljesítését, továbbá
 
 d) meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozó, az a)–c) pontban nem említett kötelezettség teljesítését, ha az a rendelkezésre álló adatokból nem állapítható meg.
 
-(2) A határozatnak a 32. §, illetve a 75. § szerinti módosítása iránti kérelmet utóvizsgálat keretében kell elbírálni.
+(2) A határozatnak a 32. § (4) bekezdése, illetve a 75. § (3) bekezdése szerinti módosítása iránti kérelmet utóvizsgálat keretében kell elbírálni.
 
 (3) Az utóvizsgálatra – az e §-ban meghatározott eltérésekkel – a versenyfelügyeleti eljárásra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
-(4) Az utóvizsgálat az eljáró versenytanács határozatában meghatározott teljesítési határidőtől, folyamatos kötelezettség, illetve a 30. § (3) bekezdése szerinti utólagos feltétel esetén a kötelezettség, illetve a feltétel fennállásának határozatban előírt utolsó napjától, ennek hiányában a határozat jogerőre emelkedésétől számított öt éven belül indítható. E határidőbe nem számít bele az az időtartam, amely alatt a határozat végrehajtása nem foganatosítható.
+(4) Az utóvizsgálat az eljáró versenytanács határozatában meghatározott teljesítési határidőtől, folyamatos kötelezettség, illetve a 30. § (3) bekezdése szerinti utólagos feltétel esetén a kötelezettség, illetve a feltétel fennállásának határozatban előírt utolsó napjától, ennek hiányában a határozat véglegessé válásától számított öt éven belül indítható. E határidőbe nem számít bele az az időtartam, amely alatt a határozat végrehajtása nem foganatosítható.
 
-(5) Az utóvizsgálatot befejező döntést az utóvizsgálat elrendelésétől számított három hónapon belül kell meghozni és gondoskodni annak közléséről; az ügyintézési határidő indokolt esetben annak letelte előtt egy alkalommal, legfeljebb három hónappal meghosszabbítható.
+(5) Az utóvizsgálat ügyintézési határideje három hónap; azt a Gazdasági Versenyhivatal elnöke, illetve – a versenytanácsi eljárás szakaszában – a Versenytanács elnöke indokolt esetben annak letelte előtt egy alkalommal, legfeljebb három hónappal meghosszabbíthatja.
 
-(6) A vizsgálónak az utóvizsgálatban előterjesztett jelentése alapján az eljáró versenytanács
+(6) A vizsgálónak az utóvizsgálatban előterjesztett jelentése alapján az eljáró versenytanács a feltétel teljesülésének, illetve az előírt kötelezettség teljesítésének megállapítása esetén az utóvizsgálatot végzéssel megszünteti, ennek hiányában
 
-a) az (1) bekezdés a) pontja szerinti esetben végzéssel megállapítja a feltétel teljesülését és az utóvizsgálatot megszünteti, egyébként határozatban megállapítja a feltétel nem teljesülésének tényét, és – ha az összefonódást végrehajtották – egyidejűleg dönt a 31. § szerinti intézkedés alkalmazásáról, valamint bírságot szabhat ki;
+a) az (1) bekezdés a) pontja szerinti esetben határozatban megállapítja a feltétel nem teljesülésének tényét, és – ha az összefonódást végrehajtották – a 31. § szerinti intézkedést alkalmazza, valamint bírságot szabhat ki,
 
-b) az (1) bekezdés b) pontja szerinti esetben a kötelezettség teljesítése esetén az utóvizsgálatot megszünteti, ellenkező esetben dönt a 31. § szerinti intézkedés alkalmazásáról vagy a 32. §-ban meghatározottak szerint a határozat módosításáról, illetve – ennek hiányában – a végrehajtás megindításáról, valamint bírságot szabhat ki;
+b) az (1) bekezdés b) pontja szerinti esetben – ha a határozat 32. § (4) bekezdés b) pontja szerinti módosítására nem kerül sor – a 31. § szerinti intézkedést alkalmazza, és bírságot szabhat ki,
 
-c) az (1) bekezdés c) pontja szerinti esetben a 75. §-ban meghatározottak szerint dönt a határozat módosításáról vagy visszavonásáról, illetve bírság kiszabásáról, ennek hiányában az utóvizsgálatot megszünteti;
+c) az (1) bekezdés c) pontja szerinti esetben a 75. § (1) bekezdése szerinti határozatát a 75. § (3) bekezdés b) pontja szerint módosítja, a 75. § (6) bekezdése szerint visszavonja vagy bírságot szab ki,
 
-d) az (1) bekezdés d) pontja szerinti esetben a határozat önkéntes teljesítésének megállapítása esetén az utóvizsgálatot megszünteti, ennek hiányában megindítja a végrehajtást.
+d) az (1) bekezdés d) pontja szerinti esetben elrendeli a kötelezettség végrehajtását vagy bírságot szab ki.

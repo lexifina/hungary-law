@@ -1,4 +1,6 @@
-## I. RÉSZ
+## ELSŐ RÉSZ
+
+## ALAPVETŐ RENDELKEZÉSEK
 
 ## I. Fejezet
 

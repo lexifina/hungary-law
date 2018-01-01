@@ -6,4 +6,4 @@
 
 (4) E törvénynek a Módtv3.-mal megállapított 88/C. § (1) és (2) bekezdését, 88/D–88/I. §-át és 88/T. §-át a Módtv3. hatálybalépését követően tanúsított versenyjogi jogsértéssel okozott károkozó magatartás esetén kell alkalmazni.
 
-(5) E törvénynek a Módtv3.-mal megállapított 88/A. §-át, 88/B. §-át, 88/C. § (3) és (4) bekezdését, 88/J–88/S. §-át és 91/H. §-át a 2014. december 26-át követően a bírósághoz benyújtott versenyjogi kártérítési keresetek alapján indult perekben kell alkalmazni.
+(5) E törvénynek a Módtv3.-mal megállapított 88/C. § (3) és (4) bekezdését, 88/J–88/S. §-át és 91/H. §-át a 2014. december 26-át követően a bírósághoz benyújtott versenyjogi kártérítési keresetek alapján indult perekben kell alkalmazni.

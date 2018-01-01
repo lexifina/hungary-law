@@ -1,20 +1,10 @@
-32. § (1) A Gazdasági Versenyhivatal a 30. § alapján hozott határozatát az e §-ban meghatározott esetekben és feltételek szerint is visszavonja vagy módosítja.
+32. § (1)
 
-(2) A Gazdasági Versenyhivatal a 30. § alapján hozott határozatát visszavonja, ha
+(2) A Gazdasági Versenyhivatal a 30. § alapján hozott határozatát visszavonja akkor is, ha a közigazgatási bíróság által el nem bírált határozat a döntés szempontjából lényeges tény elhallgatásán vagy nem a valóságnak megfelelő közlésén (a továbbiakban együtt: félrevezető közlés) alapult.
 
-a) a bíróság által felül nem vizsgált határozat a döntés szempontjából lényeges tény félrevezető közlésén alapult, vagy
+(3)
 
-b)
-
-(3) A határozat
-
-a) a (2) bekezdés a) pontja szerinti esetben a közlésétől,
-
-b)
-
-számított öt éven belül vonható vissza.
-
-(4) A Gazdasági Versenyhivatal a 30. § alapján hozott határozatát módosítja
+(4) A Gazdasági Versenyhivatal a 30. § alapján hozott határozatát akkor is módosítja
 
 a) a kötelezett vállalkozásnak legkésőbb a kötelezettség teljesítésére, illetve a feltétel teljesülésére előírt határidő lejártáig benyújtott kérelmére, ha a kötelezett a határozatban előírt valamely kötelezettséget rajta kívül álló elháríthatatlan ok miatt nem tudja teljesíteni, illetve feltételnek nem tud eleget tenni, vagy
 

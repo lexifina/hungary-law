@@ -22,4 +22,4 @@ g) arra az esetre, ha azonos értékű vagy jellegű ügyletek tekintetében az 
 
 h) a szerződéskötés olyan kötelezettségek vállalásától történő függővé tételére, amelyek természetüknél fogva, illetve a szokásos szerződési gyakorlatra figyelemmel nem tartoznak a szerződés tárgyához.
 
-(3) Azokat a jogkövetkezményeket, amelyeket e törvény az (1) bekezdésben meghatározott tilalom megszegéséhez fűz, együttesen kell alkalmazni a Polgári Törvénykönyvben a jogszabályba ütköző szerződésre előírt jogkövetkezményekkel.
+(3) Azokat a jogkövetkezményeket, amelyeket e törvény az (1) bekezdésben meghatározott tilalom megszegéséhez fűz, együttesen kell alkalmazni a Ptk.-ban a jogszabályba ütköző szerződésre előírt jogkövetkezményekkel.

@@ -1,11 +1,15 @@
+## ÖTÖDIK RÉSZ
+
+## A GAZDASÁGI VERSENYHIVATAL ÁLTAL INDÍTHATÓ PEREK
+
 ## XIII. Fejezet
 
-## A Gazdasági Versenyhivatal által indítható per
+## Fellépés a verseny szabadságát sértő hatósági tevékenységgel szemben
 
-85. § (1) Ha a Gazdasági Versenyhivatal működése során észleli, hogy valamely hatósági döntés a verseny szabadságát sérti, a hatóságot a döntés módosítására vagy visszavonására felszólítja. A módosításra, illetve visszavonásra a Ket. 114. §-ának (2) bekezdésében foglalt korlátozásokat nem kell alkalmazni, továbbá a Ket. 114. §-a (3) bekezdésének alkalmazásában nem minősül jóhiszeműen szerzett és gyakorolt jognak az olyan előny, amely a verseny szabadságának korlátozásából származik.
+85. § (1) Ha a Gazdasági Versenyhivatal a hatáskörében eljárva észleli, hogy valamely közigazgatási szerv közigazgatási tevékenysége a verseny szabadságát sérti, felszólítja a közigazgatási szervet a tevékenységével okozott versenysérelem orvoslására, így különösen a közigazgatási szerv döntésének módosítása vagy visszavonása útján. A döntés módosíthatósága, illetve visszavonhatósága szempontjából nem minősül jóhiszeműen szerzett és gyakorolt jognak az olyan előny, amely a verseny szabadságának korlátozásából származik.
 
-(2) Amennyiben a hatóság az (1) bekezdésben foglalt felszólításnak harminc napon belül nem tesz eleget, a Gazdasági Versenyhivatal keresettel a közigazgatási szerv által hozott, a verseny szabadságát sértő döntés bírósági felülvizsgálatát kérheti, kivéve, ha törvény a hatósági döntés felülvizsgálatát kizárja. A döntés jogerőre emelkedésétől számított egy év elteltével ilyen kérelemnek nincs helye, illetve a határidő elmulasztása esetén igazolási kérelem nem terjeszthető elő.
+(2) Ha a közigazgatási szerv az (1) bekezdés szerinti felszólításnak harminc napon belül nem tesz eleget, a Gazdasági Versenyhivatal a verseny szabadságát sértő közigazgatási tevékenységgel szemben közigazgatási pert indíthat. Az egyedi döntés véglegessé válásától számított egy év elteltével a döntéssel szemben keresetindításnak nincs helye. E határidő elmulasztása esetén igazolási kérelem nem terjeszthető elő.
 
-(3) A per elbírálása a közigazgatási és munkaügyi bíróság hatáskörébe tartozik. A bíróság a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó szabályai megfelelő alkalmazásával jár el.
+(3) A (2) bekezdés szerinti perben a Fővárosi Törvényszék jár el.
 
-(4) A Gazdasági Versenyhivatal a verseny szabadságát sértő közigazgatási döntést hozó elsőfokú, valamint a másodfokon eljáró szervtől felvilágosítást kérhet a megtámadott döntéssel hasonló tárgyú eljárásokban hozott közigazgatási döntésekről. A Gazdasági Versenyhivatal a felvilágosítás alapján kérheti az abban megjelölt döntések számára történő megküldését.
+(4) A Gazdasági Versenyhivatal a verseny szabadságát sértő közigazgatási tevékenységet megvalósító szervtől vagy felügyeleti szervétől tájékoztatást kérhet a megtámadott közigazgatási tevékenységhez hasonló tárgyú más közigazgatási tevékenységekről. A Gazdasági Versenyhivatal a tájékoztatás alapján kérheti az abban megjelölt egyedi döntések, egyéb iratok számára történő megküldését.

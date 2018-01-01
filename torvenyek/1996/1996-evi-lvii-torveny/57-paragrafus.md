@@ -1,3 +1,3 @@
-57. § (1) Az elmulasztott határnaptól, illetve az elmulasztott határidő utolsó napjától számított két hónapon túl igazolási kérelmet előterjeszteni nem lehet.
+57. § (1) Az igazolási kérelemről vizsgálati szakaszban történt mulasztás esetén a vizsgáló, a versenytanács eljárása során történt mulasztás esetén az eljáró versenytanács dönt. A vizsgáló igazolási kérelmet elutasító végzése ellen önálló jogorvoslatnak van helye.
 
-(2) Az igazolási kérelemről vizsgálat ideje alatt történt mulasztás esetén a vizsgáló, a versenytanács előtti eljárás során történt mulasztás esetén az eljáró versenytanács dönt. A vizsgáló igazolási kérelmet elutasító végzése ellen külön jogorvoslatnak van helye (82. §). Az eljáró versenytanács igazolási kérelmet elutasító végzése a határozat bírósági felülvizsgálata iránt indított keresetben kifogásolható.
+(2) Az igazolási kérelemre egyebekben az Ákr. rendelkezéseit kell alkalmazni.

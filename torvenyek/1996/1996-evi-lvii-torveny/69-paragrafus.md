@@ -1,1 +1,1 @@
-### 69. §
+69. § Ha a 67. § (4) bekezdés b) pontja alapján indított versenyfelügyeleti eljárásban beszerzett adatok alapján nem nyilvánvaló, hogy az összefonódás nem eredményezi az érintett piacon a verseny jelentős mértékű csökkenését, a vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli az összefonódás piaci hatásai teljes körű vizsgálatát.

@@ -1,4 +1,6 @@
-## II. RÉSZ
+## MÁSODIK RÉSZ
+
+## A GAZDASÁGI VERSENYHIVATAL
 
 ## VII. Fejezet
 
@@ -7,6 +9,10 @@
 33. § (1) A Gazdasági Versenyhivatal autonóm államigazgatási szerv, amely ellátja az e törvényben és a külön törvényben meghatározott versenyfelügyeleti és egyéb feladatokat. A Gazdasági Versenyhivatal ellátja továbbá mindazokat a feladatokat, amelyeket az Európai Unió joga a tagállami versenyhatóság hatáskörébe utal.
 
 (2) A Gazdasági Versenyhivatal feladatai ellátása során csak a törvénynek van alárendelve, feladatkörében nem utasítható, feladatát más szervektől elkülönülten, befolyásolástól mentesen látja el. A Gazdasági Versenyhivatal számára feladatot csak törvény írhat elő.
+
+(2a) A Gazdasági Versenyhivatal az EUMSz. 101., illetve 102. cikkének alkalmazása során az 1/2003/EK tanácsi rendeletben meghatározott módon együttműködik az Európai Bizottsággal és az Európai Gazdasági Térségről szóló megállapodásban részes államok versenyhatóságaival – az EFTA Felügyeleti Hatóságot is ideértve – (a továbbiakban: tagállami versenyhatóság).
+
+(2b) A Gazdasági Versenyhivatal külföldi versenyhatósággal feladataik ellátásának kölcsönös előmozdítása érdekében együttműködési megállapodást köthet.
 
 (3) A Gazdasági Versenyhivatal véleményezi a feladat- és hatáskörét érintő, továbbá a versenyt – különösen valamely tevékenység gyakorlása, a piacra lépés feltételeinek meghatározása vagy kizárólagossági jogok biztosítása révén – korlátozó vagy a verseny feltételeit – ideértve a verseny szabadságát sértő magatartásokkal szembeni fellépést is – befolyásoló, valamint az árakra vagy az értékesítési feltételekre vonatkozó előírásokat tartalmazó szabályozási koncepciókat, jogszabálytervezeteket az önkormányzati rendeletek kivételével. A jegyző kezdeményezheti az önkormányzati rendelet tervezetének véleményezését a Gazdasági Versenyhivatalnál.
 

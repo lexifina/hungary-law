@@ -1,3 +1,5 @@
+## Átmeneti rendelkezések
+
 95/A. § (1) E törvénynek
 
 a) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosításáról szóló 2008. évi CXI. törvény hatálybalépésével és a belső piaci szolgáltatásokról szóló 2006/123/EK irányelv átültetésével összefüggő törvénymódosításokról szóló 2009. évi LVI. törvénnyel megállapított rendelkezéseit az e rendelkezések,

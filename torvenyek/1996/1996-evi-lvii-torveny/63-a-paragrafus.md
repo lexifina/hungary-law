@@ -1,0 +1,3 @@
+63/A. § (1) A 67. § (4) vagy (5) bekezdése alapján indított eljárásban az ügyintézési határidő lejártát követően az összefonódás nem tiltható meg, nem írható elő a 30. § szerinti feltétel vagy kötelezettség, és az összefonódás végrehajtható. Ebben az esetben a 43/M. § (1) bekezdése, illetve a 62. § (1) bekezdés a), illetve b) pontja szerinti, már megfizetett igazgatási szolgáltatási díjat vissza kell téríteni, és az összefonódás végrehajthatóságának tényéről az összefonódást bejelentő kérelmére hatósági bizonyítványt kell kiállítani. A hatósági bizonyítványra az Ákr. rendelkezéseit kell alkalmazni.
+
+(2) A 67. § (7) bekezdése alapján indított eljárásban az ügyintézési határidő lejártát követően a határozat, illetve a hatósági bizonyítvány visszavonásának nincs helye.

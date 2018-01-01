@@ -8,6 +8,6 @@ aa) összefonódás-bejelentés alapján indított eljárásban az összefonód�
 
 ab) nem összefonódás-bejelentés alapján indított eljárásban az aa) alpontban megjelölt vállalkozások, valamint – a 23. § (1) bekezdés c) pontja szerinti összefonódás esetén – az összefonódással létrehozott közös vállalkozás;
 
-b) a 25. § (2) bekezdése szerinti kérelemre indult eljárásban a kérelmező, valamint az a) pont aa) alpontjában megjelölt vállalkozások;
+b) az a) pont hatálya alá nem tartozó eljárásban az, akivel szemben a vizsgáló az eljárást a 67. § szerint megindította, továbbá az, akit a vizsgáló, illetve az eljáró versenytanács az eljárásba ügyfélként bevont.
 
-c) az a) vagy b) pont hatálya alá nem tartozó eljárásban az, akivel szemben hivatalból indult meg az eljárás.
+c)

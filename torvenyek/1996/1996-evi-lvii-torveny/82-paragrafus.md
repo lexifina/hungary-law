@@ -1,13 +1,13 @@
 ## Az eljárás során hozott végzések elleni jogorvoslat
 
-82. § (1) A vizsgálónak, illetve az eljáró versenytanácsnak a versenyfelügyeleti eljárás során hozott végzése ellen külön jogorvoslatnak csak akkor van helye, ha azt a Ket. vagy e törvény megengedi.
+82. § (1) A vizsgáló önálló jogorvoslattal megtámadható végzésével szembeni jogorvoslatra a fellebbezés szabályait kell alkalmazni azzal, hogy a fellebbezést az eljáró versenytanács bírálja el.
 
-(2) A vizsgáló végzésével szembeni jogorvoslatra a fellebbezés szabályait kell alkalmazni azzal, hogy a fellebbezést az eljáró versenytanács bírálja el. Az eljáró versenytanács végzésével szemben fellebbezésnek nincs helye, annak bírósági felülvizsgálata kérhető.
+(2) A vizsgáló végzésével szemben fellebbezést a bejelentő is előterjeszthet, illetve az eljáró versenytanács végzését közigazgatási perben megtámadhatja, ha a végzést e törvény alapján vele közölni kell. Az e bekezdés szerinti perben a természetes személy bejelentő számára a jogi képviselet nem kötelező.
 
-(3) A vizsgáló végzésével szembeni fellebbezést, illetve az eljáró versenytanács végzésének bírósági felülvizsgálata iránti kérelmet a végzés közlésétől számított nyolc napon belül az ügyfél, valamint az terjeszthet elő, akire nézve a végzés rendelkezést tartalmaz, továbbá a bejelentő, ha a végzést e törvény alapján vele közölni kell.
+(3) A vizsgáló végzésével szemben fellebbezés a végzés közlésétől számított nyolc napon belül terjeszthető elő. A fellebbezést az eljáró versenytanács tárgyaláson kívül bírálja el harminc napon belül; ezt a határidőt a Versenytanács elnöke indokolt esetben annak letelte előtt egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja.
 
-(4) A vizsgáló végzésével szembeni fellebbezést az eljáró versenytanács tárgyaláson kívül bírálja el. Az eljáró versenytanács döntését harminc napon belül kell meghozni, és gondoskodni annak közléséről; ezt a határidőt indokolt esetben a Versenytanács elnöke annak letelte előtt egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja.
+(4) Ha a fellebbezési eljárásban a döntés meghozatalához nincs elég adat, vagy a vizsgáló végzésének meghozatalát követően új tény merül fel, vagy egyébként a tényállás további tisztázása szükséges, az eljáró versenytanács a vizsgáló végzésének megsemmisítése mellett a vizsgálót végzésben új eljárásra utasíthatja, vagy a kiegészítő bizonyítási eljárás lefolytatását maga végzi el, és ennek alapján dönt.
 
-(4a) Az eljáró versenytanács 55/B. § (1) és (7) bekezdése, valamint a 80. § (5) bekezdése szerinti végzésével szembeni jogorvoslati kérelemről a bíróság soron kívül, legfeljebb tizenöt napon belül határoz.
+(5) Az eljáró versenytanács önálló jogorvoslattal támadható végzése a végzés közlésétől számított nyolc napon belül támadható meg közigazgatási perben.
 
-(5) A versenyfelügyeleti eljárásban újrafelvételi kérelem benyújtásának nincs helye.
+(6) Az eljáró versenytanács 55/B. § (1) és (7) bekezdése, valamint a 80. § (5) bekezdése szerinti végzésével szembeni keresetről a bíróság tizenöt napon belül határoz.

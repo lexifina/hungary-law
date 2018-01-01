@@ -1,3 +1,0 @@
-91/G. § (1) Ha az 1/2003/EK tanácsi rendelet alapján az Európai Bizottság, illetve más tagállam versenyhatósága vagy a 139/2004/EK tanácsi rendelet alapján az Európai Bizottság vizsgálati cselekmény foganatosítását kéri a Gazdasági Versenyhivataltól, a kérelem teljesítése során e törvény rendelkezéseit kell alkalmazni azzal, hogy az eljárás a vizsgálónak a beszerzett bizonyítékok átadásáról szóló végzésével zárul, határozat meghozatalának nincs helye.
-
-(2) Ha a Gazdasági Versenyhivatal az 1/2003/EK tanácsi rendelet 22. cikk (1) bekezdése alapján más tagállami versenyhatóságot vizsgálat vagy ténymegállapító intézkedés elvégzése iránt keresi meg, ennek költsége egyéb eljárási költség.

@@ -16,9 +16,9 @@ a) a másik vállalkozás többségi szavazati jogot biztosító üzletrészeive
 
 b) jogosult a másik vállalkozás vezető tisztségviselői többségének kijelölésére, megválasztására vagy visszahívására, vagy
 
-c) szerződés alapján jogosult a másik vállalkozás döntéseinek meghatározó befolyásolására, vagy
+c) szerződés alapján jogosult a másik vállalkozás piaci magatartásának meghatározó befolyásolására, vagy
 
-d) a másik vállalkozás döntéseinek meghatározó befolyásolására ténylegesen képessé válik.
+d) a másik vállalkozás piaci magatartásának meghatározó befolyásolására ténylegesen képessé válik.
 
 (3) E törvény alkalmazásában közvetett irányítási joggal rendelkezik a vállalkozás azon vállalkozás felett, amelyet
 

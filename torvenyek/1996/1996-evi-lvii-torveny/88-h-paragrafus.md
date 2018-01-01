@@ -14,6 +14,6 @@ b) az egyetemleges felelősségre vonatkozó általános szabályok alkalmazása
 
 a) vezető szerepet töltött be a versenyjogi jogsértésben, vagy más vállalkozást a versenyjogi jogsértésben való részvételre kényszerített, vagy
 
-b) korábban a Gazdasági Versenyhivatal, valamely tagállami versenyhatóság vagy az Európai Bizottság (mindezek a továbbiakban együtt: uniós versenyhatóság) jogerős és végrehajtható határozatában vagy – ha a hatósági határozatot bíróság előtt megtámadták – a bíróság jogerős és végrehajtható határozatában megállapítottan versenyjogi jogsértést követett el.
+b) korábban a Gazdasági Versenyhivatal, valamely tagállami versenyhatóság vagy az Európai Bizottság (mindezek a továbbiakban együtt: uniós versenyhatóság) véglegessé vált és végrehajtható határozatában vagy – ha a hatósági határozatot bíróság előtt megtámadták – a bíróság jogerős és végrehajtható határozatában megállapítottan versenyjogi jogsértést követett el.
 
 (5) E fejezet alkalmazásában az uniós versenyhatóság, illetve az ennek határozata elleni jogorvoslati eljárásban eljáró bíróság jogerős határozatán az adott hatóság, illetve bíróság olyan határozatát kell érteni, amely az adott hatóságra, illetve bíróságra irányadó szabályok szerint rendes jogorvoslattal tovább már nem támadható.

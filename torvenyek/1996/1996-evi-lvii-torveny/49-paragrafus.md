@@ -1,13 +1,19 @@
-49. § (1) Az ügy intézéséből ki kell zárni
+49. § (1) Az ügy elintézésében nem vehet részt az a személy, akitől nem várható el az ügy tárgyilagos megítélése.
 
-a) az ügyfelet, az ügyféllel együtt jogosított vagy kötelezett személyt, továbbá azt, akinek jogaira vagy kötelezettségeire az eljárás eredménye hatással lehet,
+(2) Az ügy elintézésében nem vehet részt az a személy,
 
-b) az a) pontban írt személyek képviselőjét,
+a) akinek jogát vagy jogos érdekét az ügy közvetlenül érinti,
 
-c) az a) és b) pontban írt személyek hozzátartozóját vagy volt házastársát,
+b) aki az ügyben tanúvallomást tett, vagy tanúként való meghallgatását elrendelték,
 
-d) akit az eljárás során tanúként vagy szakértőként meghallgattak, vagy akinek tanúként vagy szakértőként való meghallgatását elrendelték, vagy
+c) aki az ügyben szakértőként járt el, vagy szakértőként való meghallgatását elrendelték,
 
-e) azt a személyt, akitől az ügy tárgyilagos megítélése egyéb okból nem várható (elfogultság).
+d) aki az ügyben hatósági tanúként járt el, szemletárgy birtokosa vagy támogató.
 
-(2)
+(3) Az ügy elintézésében nem vehet részt
+
+a) az ügy elintézéséből a (2) bekezdés alapján kizárt személy képviselője, valamint
+
+b) az ügy elintézéséből a (2) bekezdés alapján kizárt személy vagy az a) pontban írt képviselőnek a Ptk. szerinti hozzátartozója (a továbbiakban: hozzátartozó) vagy volt házastársa.
+
+(4) Az (1)–(3) bekezdésben foglaltakon túl a vizsgálói végzéssel szembeni fellebbezési eljárásban nem vehet részt az, aki a megfellebbezett végzés meghozatalában részt vett, továbbá az ilyen személy hozzátartozója vagy volt házastársa.

@@ -1,7 +1,7 @@
-## Nyelvhasználat
+## Tárgyalás
 
-66. § (1) A versenyfelügyeleti eljárásban az angol, francia vagy német nyelven kiállított okiratot az eredeti nyelven is be lehet nyújtani, és – a kérelem kivételével – az egyéb beadványt az ügyfél, illetve az eljárás egyéb résztvevője angol, francia vagy német nyelven is benyújthatja.
+66. § (1) A vizsgáló, illetve az eljáró versenytanács tárgyalást tart, ha a tényállás tisztázásához szükség van az eljárásban részt vevő személyek együttes meghallgatására.
 
-(2) A hivatalból indított eljárásban az (1) bekezdés alkalmazásának feltétele, hogy ahhoz az ügyfelek hozzájárulnak.
+(2) A tárgyalás nyilvános, a vizsgáló, illetve az eljáró versenytanács ugyanakkor a tárgyalásról vagy annak egy részéről a nyilvánosságot kérelemre kizárja vagy – ha a zártan kezelt személyes vagy azonosító adat, védett adat vagy egyéb korlátozottan megismerhető adat védelme érdekében feltétlenül szükséges – hivatalból kizárhatja.
 
-(3) Az (1) bekezdés szerinti esetben a vizsgáló, illetve az eljáró versenytanács hivatalból vagy a többi ügyfél kérelmére az okirat, illetve a beadvány magyar nyelvű összefoglalójának vagy magyar nyelvű fordításának benyújtását rendelheti el. Hiteles fordítás benyújtása kérelemre indult eljárásban csak akkor írható elő, ha kétség merül fel a fordítás pontossága tekintetében.
+(3) A tárgyalásra egyebekben az Ákr. rendelkezéseit kell alkalmazni.

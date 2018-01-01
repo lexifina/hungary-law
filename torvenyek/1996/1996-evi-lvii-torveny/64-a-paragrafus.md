@@ -1,7 +1,7 @@
 ## A tényállás tisztázása
 
-64/A. § (1) A Gazdasági Versenyhivatal – ha az érintett adat védelmét szabályozó külön törvény azt nem zárja ki – jogosult megismerni és kezelni az eljárás lefolytatásához szükséges védett adatot.
+64/A. § (1) A versenyfelügyeleti eljárásban minden olyan bizonyíték felhasználható, amely a tényállás tisztázására alkalmas. Nem használható fel bizonyítékként a Gazdasági Versenyhivatal vagy más hatóság által jogszabálysértéssel megszerzett bizonyíték.
 
-(2) Ha a bizonyítási eszköz az eljárás lefolytatásához elengedhetetlenül szükséges személyes adatokon, illetve az eljárás lefolytatásához szükséges védett adatokon túli személyes, illetve védett adatot is tartalmaz, és az ilyen adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, – ha az érintett adat védelmét szabályozó külön törvény azt nem zárja ki – a bizonyítási eszközzel érintett minden személyes adat és védett adat megismerésére és kezelésére jogosult a Gazdasági Versenyhivatal. Az eljárás lefolytatásához nem elengedhetetlenül szükséges személyes adatok, illetve az eljárás lefolytatásához nem szükséges védett adatok megvizsgálására a Gazdasági Versenyhivatal csak addig jogosult, ameddig meggyőződik arról, hogy az adat szükséges-e az eljárás lefolytatásához. E vizsgálat lefolytatását követően az eljárás lefolytatásához nem elengedhetetlenül szükséges személyes adatokat, illetve az eljárás lefolytatásához nem szükséges védett adatokat az 55/C. § (3) bekezdésének megfelelően kell kezelni.
+(2) A Gazdasági Versenyhivatal által hivatalosan ismert és a köztudomású tényeket nem kell bizonyítani.
 
-(3) A Gazdasági Versenyhivatal az ágazati vizsgálatai, panasszal vagy bejelentéssel (az összefonódás-bejelentést is ideértve) kapcsolatos eljárásai, valamint versenyfelügyeleti eljárásai során jogszerűen megszerzett iratot, adatot vagy egyéb bizonyítási eszközt más versenyfelügyeleti eljárásában felhasználhatja.
+(3) A vizsgáló, illetve az eljáró versenytanács szabadon választja meg a bizonyítás módját, és a rendelkezésre álló bizonyítékokat szabad meggyőződése szerint értékeli.

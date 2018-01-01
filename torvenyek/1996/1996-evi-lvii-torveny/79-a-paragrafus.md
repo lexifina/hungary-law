@@ -10,6 +10,8 @@
 
 (5) Nem jár díj a bűncselekménnyel vagy szabálysértéssel szerzett bizonyíték után. Ha a büntetőeljárás vagy a szabálysértési eljárás a díj kifizetése előtt megindul, a díj kifizetését a büntetőeljárás jogerős befejezéséig fel kell függeszteni. Ha a bűncselekmény vagy szabálysértés elkövetésének jogerős megállapítására a díj kifizetése után kerül sor, a jutalmat vissza kell fizetni a Gazdasági Versenyhivatal számára.
 
+(5a) Nem jár díj, ha a bizonyíték megszerzése a Gazdasági Versenyhivatal által előírt jogszerű együttműködés megsértésével történt.
+
 (6) A díj több személy részére való kifizetésének nincs helye, ha a rendelkezésre álló adatokból megállapítható, hogy az érintett bizonyítékok egy forrásból származnak, és megosztásukra csak a díj többszörözése érdekében került sor. Ilyen esetben egyszeri jutalmat kell a jogosultak között egyenlő arányban felosztani.
 
 (7) Nem követelhető a díj visszafizetése arra tekintettel, hogy a bíróság a kiszabott bírságot csökkentette vagy hatályon kívül helyezte, vagy úgy változtatta meg az eljáró versenytanács határozatát, melynek következtében a szolgáltatott bizonyíték nélkülözhetetlensége megszűnik, kivéve mindegyik esetben, ha a határozat megváltoztatására az informátor által szolgáltatott bizonyítéknak a szolgáltató magatartására visszavezethető jogellenességére tekintettel került sor.

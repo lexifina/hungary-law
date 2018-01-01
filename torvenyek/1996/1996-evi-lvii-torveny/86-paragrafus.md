@@ -1,8 +1,12 @@
+## HATODIK RÉSZ
+
+## MAGÁNJOGI JOGÉRVÉNYESÍTÉS
+
 ## XIV. Fejezet
 
-## A bíróság versenyfelügyeleti eljárása
+## A II. Fejezet rendelkezéseinek megsértése miatti eljárás
 
-86. § (1) A 2–7. §-ban foglalt rendelkezések megsértése miatti eljárás lefolytatása a bíróság hatáskörébe tartozik.
+86. § (1) A II. Fejezetben foglalt rendelkezések megsértése miatti eljárás lefolytatása a bíróság hatáskörébe tartozik.
 
 (2) Az érdekelt a keresetben
 

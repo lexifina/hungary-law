@@ -1,4 +1,4 @@
-88. § (1) A 2–7. §-ba ütköző magatartásra hivatkozással a magatartás tanúsításától számított hathónapos elévülési határidőn belül indítható per; a magatartás tanúsításától számított három év eltelte után perindításnak nincs helye.
+88. § (1) A II. Fejezet rendelkezéseibe ütköző magatartásra hivatkozással a magatartás tanúsításától számított hathónapos elévülési határidőn belül indítható per; a magatartás tanúsításától számított három év eltelte után perindításnak nincs helye.
 
 (2) Ha a kifogásolt magatartás folyamatos, az (1) bekezdés szerinti határidők számítása a magatartás abbahagyásakor kezdődik. Ha a kifogásolt magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidők számítása mindaddig nem kezdődik meg, amíg a helyzet (állapot) fennáll.
 
@@ -12,9 +12,9 @@ a) a rendelkezése alatt álló okirat és egyéb tárgyi bizonyíték bemutatá
 
 b) banki, pénzügyi és kereskedelmi adatok közlésére, illetve a rendelkezése alatt álló, ilyen adatot tartalmazó iratok bemutatására.
 
-(6) Előzetes bizonyításnak a per megindítása előtt helye van, ha az érdekelt fél a 4. §-ba vagy a 6. §-ba ütköző magatartás tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Az előzetes bizonyítás elrendelésének kérdésében hozott határozat ellen fellebbezésnek van helye.
+(6) Előzetes bizonyításnak a per megindítása előtt helye van, ha az érdekelt fél a 4. §-ba vagy a 6. §-ba ütköző magatartás tényét vagy annak veszélyét elvárható mértékben valószínűsítette.
 
-(7) A 4. §-ban, illetve a 6. §-ban foglalt rendelkezések megsértése esetén ideiglenes intézkedés iránti kérelem a keresetlevél benyújtását megelőzően is előterjeszthető. Ez az eljárás a törvényszék hatáskörébe tartozik, amely a kérelmet nemperes eljárásban bírálja el. Az ideiglenes intézkedés iránti nemperes eljárásra e törvény, valamint a polgári perrendtartásról szóló törvény általános szabályai – a nemperes eljárás sajátosságaiból fakadó eltérésekkel – megfelelően irányadók. Ha a kérelmező a 4. §-ban vagy a 6. §-ban foglalt rendelkezések megsértése miatt a pert a (8) bekezdésben foglaltak szerint megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
+(7) A 4. §-ban, illetve a 6. §-ban foglalt rendelkezések megsértése esetén ideiglenes intézkedés iránti kérelem előterjeszthető a keresetlevél benyújtását megelőzően a polgári perrendtartásról szóló törvény perindítást megelőző ideiglenes intézkedésre vonatkozó rendelkezéseiben előírt többletfeltételek hiányában is. Az ideiglenes intézkedés iránti nemperes eljárásra – e törvény eltérő rendelkezése hiányában – a polgári perrendtartásról szóló törvény szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel, és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni. Ha a kérelmező a 4. §-ban vagy a 6. §-ban foglalt rendelkezések megsértése miatt a pert a (8) bekezdésben foglaltak szerint megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
 
 (8) A bíróság az ideiglenes intézkedés tárgyában soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül határoz. Az ideiglenes intézkedés tárgyában hozott határozat elleni fellebbezést a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül bírálja el.
 

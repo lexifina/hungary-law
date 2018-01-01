@@ -14,4 +14,4 @@ b) a 78/A. § (2) bekezdés b) pontja alapján a bírság mellőzésére irányu
 
 c) a 78/A. § (3) bekezdése alapján a bírság csökkentésére irányuló kérelem esetén az előzetes álláspont ügyfeleknek való megküldéséig, azt követően benyújtott kérelem esetén a kérelem elbírálásához szükséges időt figyelembe véve haladéktalanul
 
-hozza meg, és gondoskodik annak az érintett ügyféllel való közléséről.
+hozza meg.

@@ -1,0 +1,1 @@
+64/C. § Az idézés általános szabályaira és az idézett személy megjelenési kötelezettségére az Ákr. rendelkezéseit kell megfelelően alkalmazni. A versenyfelügyeleti eljárásban a Gazdasági Versenyhivatal a székhelyére minden esetben idézhet.

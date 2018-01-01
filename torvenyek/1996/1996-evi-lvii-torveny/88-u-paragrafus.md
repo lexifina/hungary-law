@@ -1,9 +1,9 @@
-## XIV/B. Fejezet
+## Eljárás az európai uniós versenyszabályok alkalmazása során
 
-## A III. Fejezet rendelkezéseinek megsértésén alapuló polgári jogi igények bíróság előtti érvényesítése
+88/U. § (1) A 88/A. §-t és – a Gazdasági Versenyhivatal megkeresése tekintetében – a 88/B. §-t – az 1/2003/EK tanácsi rendeletben meghatározott eltérésekkel – megfelelően alkalmazni kell az EUMSz. 101. vagy 102. cikkében foglalt tilalom megsértése miatti polgári jogi igények érvényesítése iránti perekben is.
 
-88/U. § (1) A Gazdasági Versenyhivatalnak a 45. §-ban megállapított, a 70. § (1) bekezdése alapján a közérdek érvényesítésére irányuló hatásköre nem zárja ki a III. Fejezetben foglalt rendelkezések megsértésére alapított polgári jogi igények közvetlen bíróság előtti érvényesítését.
+(2) Azokban a perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét kell alkalmazni, a bíróság az 1/2003/EK tanácsi rendelet 15. cikke alapján az Európai Bizottságnak az észrevételei megtétele, illetve valamely tény- vagy jogkérdés iránti megkereséséről végzéssel határoz.
 
-(2) A bíróságnak a 8. §-ban foglalt rendelkezések megsértése miatt folytatott eljárásában az üzleti gyakorlat részét képező tényállítás valóságának bizonyítása az üzleti gyakorlat alkalmazóját terheli.
+(3) Az Európai Bizottság észrevételeinek, véleményének megtételével és az eljárás felfüggesztésével összefüggésben megfelelően alkalmazni kell a 88/B. § (1), (2) és (4)–(7) bekezdését.
 
-(3) Ha valamely perben a III. Fejezetben foglalt rendelkezések alkalmazásának szükségessége merül fel, megfelelően alkalmazni kell a 88/B. § (1)–(8) bekezdését.
+(4) A bíróság – azokban a perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét alkalmazta – az ítéletét haladéktalanul megküldi az igazságügyért felelős miniszternek az 1/2003/EK tanácsi rendeletben előírt, az Európai Bizottság irányában fennálló tájékoztatási kötelezettség teljesítése céljából. Az igazságügyért felelős miniszter az ítéletet tájékoztatásul megküldi a Gazdasági Versenyhivatalnak.
