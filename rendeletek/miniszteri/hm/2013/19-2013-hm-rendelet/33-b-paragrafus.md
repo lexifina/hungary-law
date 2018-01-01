@@ -26,6 +26,8 @@ a) teljes összegű, ha a munkába lépése a tárgyév első félévére esik, 
 
 b) a teljes összeg felének megfelelő összegű, ha munkába lépése a tárgyév második félévére esik.
 
-(5) A részmunkaidőben foglalkoztatott közalkalmazott – ideértve a Péptv. szerint foglalkoztatottakat is – részére járó ruházati költségtérítés megállapítására az (1)–(4) bekezdést azzal az eltéréssel kell alkalmazni, hogy az ott meghatározott mértékű ruházati költségtérítésnek a teljes munkaidő és a kinevezés szerinti részmunkaidő arányának megfelelő része, de legalább 30%-a jár.
+(5)[^46] A napi négy órát el nem érő részmunkaidőben foglalkoztatott közalkalmazott, valamint a Péptv. szerint foglalkoztatottak részére járó ruházati költségtérítés megállapítására az (1)–(4) bekezdést azzal az eltéréssel kell alkalmazni, hogy az ott meghatározott mértékű ruházati költségtérítésnek a teljes munkaidő és a kinevezés szerinti részmunkaidő arányának megfelelő része, de legalább 30%-a jár.
 
 (6) Nem jogosult ruházati költségtérítésre az a közalkalmazott, aki egész évben fizetés nélküli szabadságát tölti.
+
+[^46]: A 33/B. § (5) bekezdése a 10/2017. (VIII. 31.) HM rendelet 50. §-ával megállapított szöveg.
