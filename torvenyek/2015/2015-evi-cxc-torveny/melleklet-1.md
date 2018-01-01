@@ -16,6 +16,10 @@
 
 7. Ausztria
 
+7a. Azerbajdzsán
+
+7b. Bahrein
+
 8. Barbados
 
 9. Belgium
@@ -46,6 +50,8 @@
 
 21. Dél-Afrika
 
+21a. Egyesült Arab Emírségek
+
 22. Egyesült Királyság
 
 23. Észtország
@@ -54,7 +60,19 @@
 
 25. Finnország
 
-26. Franciaország
+26. Franciaország és annak következő tengerentúli területei:
+
+– Francia Guyana,
+
+– Guadeloupe,
+
+– Martinique,
+
+– Mayotte,
+
+– Réunion és
+
+– Saint-Barthélemy
 
 27. Ghána
 
@@ -68,7 +86,9 @@
 
 31. Guernsey
 
-32. Hollandia
+32. Hollandia és annak következő területe:
+
+– Bonaire, Sint Eustatius és Saba
 
 33. Horvátország
 
@@ -102,6 +122,8 @@
 
 45. Lettország
 
+45a. Libanon
+
 46. Liechtenstein
 
 47. Litvánia
@@ -128,6 +150,8 @@
 
 55. Németország
 
+55a. Nigéria
+
 56. Niue
 
 57. Norvégia
@@ -135,6 +159,8 @@
 58. Olaszország
 
 58a. Orosz Föderáció
+
+58b. Pakisztán
 
 59. Portugália
 
@@ -160,9 +186,15 @@
 
 69. Svédország
 
+69a. Szaúd-Arábia
+
+69b. Szingapúr
+
 70. Szlovák Köztársaság
 
 71. Szlovénia
+
+71a. Törökország
 
 72. Turks és Caicos-szigetek
 
