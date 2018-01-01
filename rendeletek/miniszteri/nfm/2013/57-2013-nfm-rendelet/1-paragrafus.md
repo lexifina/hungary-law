@@ -16,4 +16,6 @@ b) piaci szereplőnként elkülöníthetően
 
 (4) A szervezett villamosenergia-piaci engedélyes a feltöltött bennfentes információt – az (5) bekezdésre figyelemmel – a feltöltést követően legalább 5 évig megőrzi.
 
-(5) Ha a bennfentes információ alapján eljárás indul, a szervezett villamosenergia-piaci engedélyes a bennfentes információt az eljárás jogerős lezárásától számított legalább 5 évig megőrzi.
+(5)[^1] Ha a bennfentes információ alapján eljárás indul, a szervezett villamosenergia-piaci engedélyes a bennfentes információt az eljárást lezáró hatósági döntés véglegessé válásától számított legalább 5 évig megőrzi.
+
+[^1]: Az 1. § (5) bekezdése az 52/2017. (XII. 22.) NFM rendelet 31. §-a szerint módosított szöveg.
