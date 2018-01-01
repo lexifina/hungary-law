@@ -1,9 +1,3 @@
-## 2. A hatósági engedélyek kiadásához szükséges szakhatósági állásfoglalás szempontjai
+## 2.[^2]
 
-## 2. § A Kr.1. 1. melléklet
-
-a) 4.1. pontjában meghatározott eljárásban a rendőrségi szakhatósági állásfoglalás kiadása iránti megkereséshez az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet (a továbbiakban: Kr.2.) 4. melléklet 1. pontjában meghatározott Fizikai Védelmi Terv változással érintett részét,
-
-b) 4.4. pontjában meghatározott eljárásban a rendőrségi szakhatósági állásfoglalás kiadása iránti megkereséshez a Kr.2. 4. melléklet 2. pontjában meghatározott Fizikai Védelmi Tervet,
-
-c) 4.5. pontjában meghatározott eljárás során a rendőrségi szakhatósági állásfoglalás kiadása iránti megkereséshez a Kr.2. 4. melléklet 1. pontjában meghatározott Fizikai Védelmi Tervet kell mellékelni.
+[^2]: A 2. alcímet (2–3. §) a 44/2017. (XII. 29.) BM rendelet 80. § (2) bekezdése hatályon kívül helyezte.

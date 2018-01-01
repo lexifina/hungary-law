@@ -1,4 +1,4 @@
-## 11. §[^1]
+## 11. §[^4]
 
 1. melléklet a 47/2012. (X. 4.) BM rendelethez
 
@@ -46,4 +46,4 @@ Az atomenergia alkalmazása körében személyek foglalkoztatásához szüksége
 
 2.4. kérelmet benyújtó szervezet cégszerű aláírása.
 
-[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
