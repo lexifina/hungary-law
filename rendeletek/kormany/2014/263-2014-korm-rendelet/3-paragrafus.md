@@ -1,14 +1,12 @@
-## 2. §[^1] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Békés Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+## 2. §[^2] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Békés Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
 
-3. § (1) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatóság – a hatóság határozatának jogerőre emelkedéséig felhasználható – előzetes szakhatósági állásfoglalást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 44. § (8) bekezdése szerint használja fel.
-
-(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
+3. § (1)–(2)[^3]
 
 (3) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap.
 
 (4) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
 
-(5)[^2]
+(5)[^4]
 
 (6) Az 1. § (1) bekezdése szerinti beruházással összefüggésben:
 
@@ -20,5 +18,6 @@ c) nem kell településképi véleményezési eljárást lefolytatni és
 
 d) településképi bejelentési eljárásnak nincs helye.
 
-[^1]: A 2. § a 72/2015. (III. 30.) Korm. rendelet 96. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
-[^2]: A 3. § (5) bekezdését a 72/2015. (III. 30.) Korm. rendelet 96. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.
+[^2]: A 2. § a 72/2015. (III. 30.) Korm. rendelet 96. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^3]: A 3. § (1)–(2) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 161. § b) pontja hatályon kívül helyezte.
+[^4]: A 3. § (5) bekezdését a 72/2015. (III. 30.) Korm. rendelet 96. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.

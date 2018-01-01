@@ -16,7 +16,7 @@
 
 5. vízjogi engedélyezési eljárás,
 
-6.[^3] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások
+6.[^5] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások
 
 7. általános építésügyi hatósági engedélyezési eljárások,
 
@@ -60,4 +60,4 @@
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: Az 1. melléklet 6. pontja a 380/2016. (XII. 2.) Korm. rendelet 86. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^5]: Az 1. melléklet 6. pontja a 380/2016. (XII. 2.) Korm. rendelet 86. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
