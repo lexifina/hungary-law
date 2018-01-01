@@ -1,0 +1,1 @@
+## 3. § Ha a megállapított tényállás alapján az ideiglenes megelőző távoltartás elrendelése indokolt, a rendőr a határozathozatalhoz szükséges mértékben köteles feltárni a bántalmazott és a bántalmazó szokásos életvitelének jellemzőit, továbbá megjelölni azokat a személyeket, akikkel a bántalmazott rendszeresen kapcsolatot tart.

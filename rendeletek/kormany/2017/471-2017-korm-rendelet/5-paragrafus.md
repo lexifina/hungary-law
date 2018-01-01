@@ -1,0 +1,1 @@
+## 4. § Az eljárás során a rendőr a Tv. 5. § (6) bekezdése szerinti tájékoztatást, valamint a Tv. 11. §-a szerinti felvilágosítást írásbeli tájékoztató átadásával és szóbeli figyelemfelhívással teljesíti.
