@@ -20,7 +20,7 @@ e)[^11] szénhidrogén bányaüzem esetében „SzB” rövidítésből, kötőj
 
 (4)[^13] A nyilvántartásba bejegyzett felelős műszaki vezető hozzájárulása esetén a Magyar Bányászati és Földtani Szolgálat a honlapján közzéteszi a felelős műszaki vezető nevét, címét, egyéb általa megadott elérhetőségét és a bányaüzem megnevezését.
 
-(5)[^14] A bányafelügyelet törli a nyilvántartásból azt a felelős műszaki vezetőt, akit a bányafelügyelet vagy a bíróság a tevékenység folytatásától jogerősen eltiltott, továbbá aki elhalálozott vagy bejelentette a tevékenység befejezését.
+(5)[^14] A bányafelügyelet törli a nyilvántartásból azt a felelős műszaki vezetőt, akit a tevékenység folytatásától a bányafelügyelet végleges döntésével vagy a bíróság jogerős határozatával eltiltott, továbbá aki elhalálozott vagy bejelentette a tevékenység befejezését.
 
 [^6]: A 6. §-t az 5/2016. (III. 17.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
 [^7]: A 7. § (2) bekezdés a) pontja az 5/2016. (III. 17.) NFM rendelet 20. § e) pontja szerint módosított szöveg.
@@ -30,4 +30,4 @@ e)[^11] szénhidrogén bányaüzem esetében „SzB” rövidítésből, kötőj
 [^11]: A 7. § (2) bekezdés e) pontja az 5/2016. (III. 17.) NFM rendelet 20. § e) pontja szerint módosított szöveg.
 [^12]: A 7. § (3) bekezdését az 5/2016. (III. 17.) NFM rendelet 21. § b) pontja hatályon kívül helyezte.
 [^13]: A 7. § (4) bekezdése a 15/2015. (III. 31.) NFM rendelet 29. §-ával megállapított, a 24/2017. (VI. 30.) NFM rendelet 15. §-a szerint módosított szöveg.
-[^14]: A 7. § (5) bekezdését az 5/2016. (III. 17.) NFM rendelet 17. §-a iktatta be.
+[^14]: A 7. § (5) bekezdését az 5/2016. (III. 17.) NFM rendelet 17. §-a iktatta be, szövege az 52/2017. (XII. 22.) NFM rendelet 27. §-a szerint módosított szöveg.
