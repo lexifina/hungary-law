@@ -1,8 +1,8 @@
-## 36. §[^31] A bírósági ügyintéző jogosult a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény alapján a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés szabályairól szóló 20/2009. (VI. 19.) IRM rendeletben meghatározott, a bűnügyi nyilvántartás részére történő bírósági adatközléshez szükséges adatlapok kiállítására és aláírására.
+## 36. §[^69] A bírósági ügyintéző jogosult a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény alapján a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés szabályairól szóló 20/2009. (VI. 19.) IRM rendeletben meghatározott, a bűnügyi nyilvántartás részére történő bírósági adatközléshez szükséges adatlapok kiállítására és aláírására.
 
-## A szabálysértési eljárásban ellátható feladatok[^32]
+## A szabálysértési eljárásban ellátható feladatok[^70]
 
-36/A. §[^33] (1) A bírósági ügyintéző első fokon a szabálysértési eljárásban
+36/A. §[^71] (1) A bírósági ügyintéző első fokon a szabálysértési eljárásban
 
 a) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 67. §-a szerint tolmácsot kirendelő, tolmácsdíjat és fordítási díjat megállapító,
 
@@ -20,7 +20,7 @@ d) ha
 
 da) a Szabs. tv. 83. § (1) bekezdés d) pontja szerint az eljárás alá vont személy meghalt,
 
-db) a Szabs. tv. 83. § (1) bekezdés f)–g) pontja szerint a cselekményt szabálysértési vagy büntetőeljárás, illetve közigazgatási hatósági eljárás keretében jogerősen elbírálták, illetve ilyen eljárás van folyamatban,
+db)[^72] a Szabs. tv. 83. § (1) bekezdés f)–g) pontja szerint a cselekményt szabálysértési vagy büntetőeljárás, illetve közigazgatási hatósági eljárás keretében jogerősen vagy véglegesen elbírálták, illetve ilyen eljárás van folyamatban,
 
 dc) a Szabs. tv. 83. § (1) bekezdés h) pontja szerint a Szabs. tv. 6. § (6) bekezdésében meghatározott idő eltelte miatt bekövetkező elévülés miatt, valamint
 
@@ -72,6 +72,7 @@ k) az elektronikus tárgyalási naplót az ügyirat tartalma alapján vezetheti.
 
 (3) A bírósági ügyintéző az (1) és (2) bekezdésben meghatározott jogosultságait tárgyaláson kívül – a bíró vagy bírósági titkár irányítása és felügyelete mellett – gyakorolhatja.
 
-[^31]: A 36. § a 172/2013. (V. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^32]: A 36/A. §-t megelőző alcímet a 62/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
-[^33]: A 36/A. §-t a 62/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
+[^69]: A 36. § a 172/2013. (V. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^70]: A 36/A. §-t megelőző alcímet a 62/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
+[^71]: A 36/A. §-t a 62/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
+[^72]: A 36/A. § d) pont db) alpontja a 393/2017. (XII. 13.) Korm. rendelet 27. § s) pontja szerint módosított szöveg.
