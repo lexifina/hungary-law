@@ -10,7 +10,7 @@ c) a tárgyévben haszonkulccsal növelt áron értékesített férőhelyek szá
 
 d) azt a szolgáltató kérelmezi.
 
-(2) A jegyző a szolgáltatót ugyanazon szálláshely vonatkozásában a törlést elrendelő határozat jogerőre emelkedésétől számított
+(2)[^55] A jegyző a szolgáltatót ugyanazon szálláshely vonatkozásában a törlést elrendelő határozat véglegessé válásától számított
 
 a) két éven belül nem veheti újra nyilvántartásba, ha a törlésre az (1) bekezdés a)–b) pontja alapján került sor,
 
@@ -19,3 +19,4 @@ b) hat hónapon belül nem veheti újra nyilvántartásba, ha a törlésre az (1
 (3) Üdülő, gyermek- és ifjúsági tábor, turistaház, kulcsosház, valamint pihenőház esetén a jegyző a törlésről értesíti a 14/A. § (5) bekezdése szerinti hatóságokat.
 
 [^54]: A 20. § a 218/2007. (VIII. 15.) Korm. rendelet 8. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^55]: A 20. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 118. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
