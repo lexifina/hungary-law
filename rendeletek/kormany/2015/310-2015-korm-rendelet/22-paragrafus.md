@@ -1,7 +1,7 @@
-22. § (1) A pályaművek a dokumentációhoz csatolt címzéslap felhasználásával, kizárólag postai vagy futár szolgáltatás igénybevételével nyújthatók be, kivéve, ha a benyújtás az ajánlatkérő által meghatározottak szerint elektronikusan történik.
+22. §[^10] (1) Részben elektronikusan benyújtott pályaművek esetében a pályamű nem elektronikusan benyújtott része a dokumentációban szereplő címzéslap felhasználásával, kizárólag postai vagy futár szolgáltatás igénybevételével nyújtható be.
 
-(2) A benyújtás időpontjának – a (3) bekezdésben foglaltak kivételével – a pályamű kiírásban meghatározott helyre történő beérkezésének időpontját kell tekinteni.
+(2) A pályamű benyújtás időpontjának a részben elektronikusan benyújtott pályaművek esetén azt az időpontot kell tekinteni, amikor a pályamű teljes egészében – elektronikusan és postai- vagy futárszolgáltatás útján is – beérkezett.
 
-(3) A (2) bekezdéstől eltérően az ajánlatkérő a tervpályázati kiírásban úgy is rendelkezhet, hogy a postai feladás igazolt dátumát kell a benyújtás időpontjának tekinteni, továbbá választása szerint azt is meghatározhatja, hogy a határidőben feladott, de meghatározott időtartamon túl beérkező pályaműveket nem veszi figyelembe.
+(3) Az ajánlatkérő a benyújtott pályaművek átvételéről jegyzőkönyvet készít. Az átvételi jegyzőkönyv tartalmazza az átvétel időpontját, valamint az azonosításhoz szükséges adatokat.
 
-(4) Az ajánlatkérő a benyújtott pályaművek átvételéről jegyzőkönyvet készít. Az átvételi jegyzőkönyv tartalmazza az átvétel időpontját, valamint az azonosításhoz szükséges adatokat.
+[^10]: A 22. § a 481/2017. (XII. 28.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.

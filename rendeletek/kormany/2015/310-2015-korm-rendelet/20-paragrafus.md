@@ -36,17 +36,15 @@ j) a díjazásban vagy megvételben nem részesült pályaművek visszaadásána
 
 k) az eredményhirdetés helyére és időpontjára vonatkozó információkat.
 
-(3) A dokumentáció mellékleteinek tartalmaznia kell különösen:
+(3)[^5] A dokumentáció mellékleteinek tartalmaznia kell különösen:
 
 a) építészeti-műszaki tervek esetén a tervezési terület alaptérképét, helyszínrajzát, szükség esetén geodéziai adatokat;
 
 b) a tervpályázati feladat megismeréséhez és a pályamű elkészítéséhez szükséges térképeket, vizsgálatokat, tervi előzményeket, fényképeket;
 
-c) címzéslapot;
+c) a pályázók adatainak és a díjazás vagy megvétel szerzők közötti százalékos arányának feltüntetésére szolgáló kitöltendő adatlapot, ha ezen adatokat az ajánlatkérő a pályaműhöz csatoltan kéri benyújtani, valamint
 
-d) borítékot;
-
-e) a pályázók adatainak és a díjazás vagy megvétel szerzők közötti százalékos arányának feltüntetésére szolgáló kitöltendő adatlapot, ha ezen adatokat az ajánlatkérő a pályaműhöz csatoltan kéri benyújtani.
+d) a részben elektronikusan benyújtott pályaművek esetében a címzéslapot.
 
 (4) A dokumentációnak tartalmaznia kell a tervpályázattal kapcsolatos lényeges tájékoztató adatokat is, különösen:
 
@@ -87,3 +85,5 @@ q) a pályaművekre vagy annak egyes részeire vonatkozó felhasználási jogok 
 (5) A pályamű kizárólag egy példányban kérhető.
 
 (6) A dokumentációt a tervpályázati eljárás meghirdetésének napjáig el kell készíteni, majd a pályázók számára elektronikus úton korlátlanul és teljes körűen, térítésmentesen hozzáférhetővé kell tenni a Kbt. 39. §-ában foglaltaknak megfelelően.
+
+[^5]: A 20. § (3) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

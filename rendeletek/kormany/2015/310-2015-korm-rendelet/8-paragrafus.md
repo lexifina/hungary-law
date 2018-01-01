@@ -8,4 +8,6 @@
 
 (3) Az ajánlatkérő a kiírásban előírja, hogy a titkosság biztosítása érdekében a pályaműveknek, valamint a pályaművek benyújtása során a pályázóknak mely követelményeknek kell megfelelniük.
 
-(4) A pályaművet tartalmazó csomagot és az egyes munkarészeket a titkosságot sértő módon megjelölni nem lehet. Elektronikus adathordozó benyújtása esetén a pályázó személyére utaló bármely adat titkosságának megőrzése – az ajánlatkérő előírása szerint – az ajánlatkérő intézkedésével is történhet.
+(4)[^1] Ha a pályamű benyújtásához fizikai modell benyújtása is szükséges, az azt tartalmazó csomagot titkosságot sértő módon megjelölni nem lehet.
+
+[^1]: A 8. § (4) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
