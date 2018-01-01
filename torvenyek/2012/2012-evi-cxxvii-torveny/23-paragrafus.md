@@ -8,7 +8,7 @@ c) igénybe venni a Kamara által nyújtott szolgáltatásokat,
 
 d) a Kamara tisztségviselőitől a Kamara működéséről érdemi felvilágosítást kérni,
 
-e) a Kamara jogsértő testületi határozatának bíróság általi felülvizsgálatát kezdeményezni,
+e)
 
 f) az Alapszabályt sértő határozatnak az országos szervezet felügyelőbizottsága általi felülvizsgálatát kezdeményezni,
 

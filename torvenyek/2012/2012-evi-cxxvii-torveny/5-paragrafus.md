@@ -14,7 +14,7 @@ e) bejelentésére az állat-egészségügyi szolgáltató tevékenység végzé
 
 f) kérésére a nyelvtudására vonatkozó adatokat, kitüntetéseit és a telefonos elérhetőségét,
 
-g) jogerősen elbírált etikai vétségeit, az elmarasztaló határozat jogerőre emelkedésétől számított két évig.
+g) végleges döntéssel elbírált etikai vétségeit, az elmarasztaló határozat véglegessé válásától számított két évig.
 
 (2) Az állatorvosi névjegyzékben a Kamara az állat-egészségügyi szolgáltató tevékenységet végző tagjainak az (1) bekezdés a)–f) pontja szerinti adatai a tagsági jogviszony megszűnéséig nyilvánosak, azokat a Kamara a honlapján naprakészen közzéteszi.
 

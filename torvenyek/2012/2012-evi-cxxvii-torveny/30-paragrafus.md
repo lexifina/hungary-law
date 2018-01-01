@@ -1,4 +1,4 @@
-30. § (1) Az elsőfokú határozat ellen az etikai eljárás alá vont kamarai tag az elsőfokú határozat közlésétől számított tizenöt napon belül fellebbezést nyújthat be az eljáró etikai bizottságnál, amely a másodfokú eljárás lefolytatása érdekében az ügy összes rendelkezésre álló iratát megküldi az országos etikai bizottságnak.
+30. § (1) Az elsőfokú határozat ellen az etikai eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos az elsőfokú határozat közlésétől számított tizenöt napon belül fellebbezést nyújthat be az eljáró etikai bizottságnál, amely a másodfokú eljárás lefolytatása érdekében az ügy összes rendelkezésre álló iratát megküldi az országos etikai bizottságnak.
 
 (2) Az országos etikai bizottság az elsőfokú etikai bizottság határozatát
 
@@ -14,9 +14,9 @@ cb) ha az elsőfokú etikai bizottság hatáskörének vagy illetékességének 
 
 cc) ha elévülést állapít meg, illetve ha olyan tény vagy körülmény fennállását állapítja meg, amelynek következtében etikai eljárás lefolytatásának nincs helye, és az etikai eljárást megszünteti.
 
-(3) A másodfokú etikai eljárást lezáró határozat (a továbbiakban: másodfokú határozat) ellen az eljárás alá vont kamarai tag a másodfokú határozat közlésétől számított tizenöt napon belül bírósághoz fordulhat. A jogerős határozat végrehajtható, kivéve, ha a bíróság a végrehajtás felfüggesztéséről dönt.
+(3) A másodfokú etikai eljárást lezáró határozatot (a továbbiakban: másodfokú határozat) az eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos a másodfokú határozat közlésétől számított tizenöt napon belül támadhatja meg.
 
-(4) Az eljárás alá vont kamarai tag az elévülési időn belül új eljárást kezdeményezhet, ha
+(4) A bíróság által el nem bírált ügyben az eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos az elévülési időn belül új eljárást kezdeményezhet, ha
 
 a) a jogerősen elbírált cselekményével kapcsolatban olyan új tény vagy bizonyíték kerül elő, vagy olyan bírósági vagy egyéb határozatra hivatkozik, amelyet az eljáró etikai bizottság nem bírált el, és amely alkalmas a jogerős határozat megváltoztatására vagy
 

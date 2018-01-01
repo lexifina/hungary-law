@@ -74,18 +74,26 @@ m) ellátja azokat a feladatokat, amelyeket törvény a hatáskörébe utal.
 
 (7) A Kamara értesíti az illetékes élelmiszerlánc-felügyeleti szervet a (6) bekezdés i) pontjában foglalt ellenőrzése során feltárt hiányosságokról.
 
-(8) A Kamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el
+(8) A Kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el
 
-a) a kamarai tagfelvétel,
+a) a kamarai tagfelvétel, a kamarából történő kizárás kivételével a kamarai tagsági jogviszony megszüntetése, a tagsági jogviszony megszűnésének megállapítása,
 
-b) a tagsági jogviszony szüneteltetése,
+b) a tagsági jogviszony szüneteltetésének engedélyezése,
 
 c) a praxisengedély kiadása, visszavonása,
 
-d) az állat-egészségügyi szolgáltató tevékenység szüneteltetése,
+d) az állategészségügyi szolgáltató tevékenység szüneteltetésének engedélyezése,
 
-e) az asszisztensi névjegyzékbe történő felvétel,
+e) az állatorvosi és asszisztensi névjegyzékkel kapcsolatos nyilvántartás vezetése,
 
-f) az asszisztensi tevékenység végzésének szüneteltetése
+f) az asszisztensi tevékenység szüneteltetésének engedélyezése,
+
+g) az állategészségügyi intézményekkel és az engedélyezett állategészségügyi szolgáltatókkal kapcsolatos nyilvántartás vezetése,
+
+h) a kedvtelésből tartott állatok nem kereskedelmi célú mozgásához szükséges útlevél kiállításával kapcsolatos nyilvántartás vezetése,
+
+i) a hatósági ellenőrzés lefolytatása,
+
+j) hatósági bizonyítvány kiállítása
 
 során.

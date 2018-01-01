@@ -12,4 +12,4 @@ d) kizárás.
 
 (3) A tagsági jogviszony felfüggesztése esetén a 21. § (2) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
-(4) Az indokolással ellátott eljárást lezáró határozatot annak meghozatalától számított tizenöt napon belül kézbesíteni kell az eljárás alá vont kamarai tag részére.
+(4) Az indokolással ellátott eljárást lezáró határozatot annak meghozatalától számított tizenöt napon belül kézbesíteni kell az eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos részére.

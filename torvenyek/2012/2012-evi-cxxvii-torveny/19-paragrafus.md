@@ -34,7 +34,7 @@ f) aki az állatorvosi foglalkozástól eltiltás hatálya alatt áll.
 
 (6) A kamarai tagfelvétel iránti eljárás során megismert személyes adatokat a Kamara
 
-a) a kérelem elutasítása esetén a felvételi eljárás jogerős befejezéséig vagy
+a) a kérelem elutasítása esetén a felvételi eljárásban hozott határozat véglegessé válásáig vagy
 
 b) a kérelmező felvétele esetén a tagsági jogviszony megszűnéséig
 
