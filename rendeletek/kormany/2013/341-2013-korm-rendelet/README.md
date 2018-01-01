@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-341-20-
 | 2016-01-01 | 2013-341-20-22.3 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2013-341-20-22.4 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-09-30 | 2013-341-20-22.5 | 285/2017. (IX. 22.) Korm. rendelet |
+| 2018-01-01 | 2013-341-20-22.6 | 457/2017. (XII. 28.) Korm. rendelet |

@@ -8,8 +8,9 @@
 
 (5) Ha a felügyeleti eljárás lefolytatása során, a felügyeleti eljárást lezáró határozat meghozatalát megelőzően, a beruházó nyilatkozatban vállalja, hogy a hatóság által ésszerűnek tartott határidőn belül megteszi a jogszabályokban és az Európai Bizottság határozataiban foglaltaknak történő megfelelés érdekében szükséges lépéseket, akkor a hatóság a szabályszegést nem állapítja meg és a felügyeleti eljárás lefolytatásának megszüntetéséről rendelkezik. A felügyeleti eljárás megszüntetése nem zárja ki egy újabb felügyeleti eljárás lefolytatását. Ha a beruházó nem tesz eleget a nyilatkozatában foglalt kötelezettségeinek, a hatóság a (3) és (4) bekezdés szerint jár el, azzal, hogy a (3) bekezdés esetén a bírság kiszabása kötelező.
 
-(6) A hatóság a felügyeleti eljárás során elfogadott, jogerőssé vált határozatokat a jogerőssé válást követő 15 napon belül a honlapján közzéteszi.
+(6)[^19] A hatóság a felügyeleti eljárás során hozott, véglegessé vált határozatát a véglegessé válást követő 15 napon belül a honlapján közzéteszi.
 
 [^16]: A 24. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 204. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^17]: A 24. § (3) bekezdése a 285/2017. (IX. 22.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
 [^18]: A 24. § (4) bekezdése a 285/2017. (IX. 22.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^19]: A 24. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 451. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

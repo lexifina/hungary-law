@@ -1,4 +1,4 @@
-## 30/B. §[^22] A 2016. december 31. előtt benyújtott és el nem bírált kifizetési igényléssel kapcsolatban a hatóság a beruházót levélben tájékoztatja kifizetési igénylésének elutasításáról, valamint arról, hogy a beruházó jogosult a kifizetési igénylését ismételten benyújtani.
+## 30/B. §[^23] A 2016. december 31. előtt benyújtott és el nem bírált kifizetési igényléssel kapcsolatban a hatóság a beruházót levélben tájékoztatja kifizetési igénylésének elutasításáról, valamint arról, hogy a beruházó jogosult a kifizetési igénylését ismételten benyújtani.
 
 31. § (1) Ez a rendelet
 
@@ -14,4 +14,4 @@ a) a magyar energiaágazat korszerűsítését célzó, az EU ETS-irányelv 10c.
 
 b) a Magyarország által a 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikkének (5) bekezdése alapján benyújtott, a villamosenergia-termelés korszerűsítése céljából átmenetileg ingyenes kibocsátási egységek kiosztására vonatkozó kérelemről szóló, 2012. november 30-i C(2012) 8675 számú bizottsági határozat
 
-[^22]: A 30/B. §-t a 285/2017. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
+[^23]: A 30/B. §-t a 285/2017. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
