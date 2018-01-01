@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-271-20-
 | 2014-11-27 | 2009-271-20-22.10 | 291/2014. (XI. 26.) Korm. rendelet |
 | 2014-12-03 | 2009-271-20-22.11 | 297/2014. (XII. 3.) Korm. rendelet |
 | 2016-07-28 | 2009-271-20-22.12 | 193/2016. (VII. 13.) Korm. rendelet |
+| 2018-01-01 | 2009-271-20-22.13 | 516/2017. (XII. 29.) Korm. rendelet |
