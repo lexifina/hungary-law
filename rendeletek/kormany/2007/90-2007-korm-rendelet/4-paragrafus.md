@@ -10,6 +10,9 @@ b)[^9] az 1. § c)–g) pontja szerinti környezeti elem esetében – az NPI-n�
 
 (4)[^10] A VIZIG-ek kárelhárítási tevékenységét az OVF útján a vízügyi igazgatási szervek irányításáért felelős miniszter irányítja. Az NPI kárelhárítási tevékenységét az országos környezetvédelmi és természetvédelmi hatóság útján a környezetvédelemért felelős miniszter irányítja.
 
+(5)[^11] A kárelhárítás során teljesítendő mintavételeket és méréseket – elsődlegesen államigazgatási vagy központi költségvetési szerv által működtetett – akkreditált mintavételi szerv és laboratórium által kell biztosítani.
+
 [^8]: A 4. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (4) bekezdésével megállapított szöveg.
 [^9]: A 4. § (2) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 93. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 4. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 93. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 4. § (5) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 24. §-a iktatta be.
