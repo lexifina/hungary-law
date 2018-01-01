@@ -1,4 +1,4 @@
-## 11/A. §[^12] A rendőrség az ügyelete útján az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületben keletkezett, a tudomására jutott tűzesetről az Országgyűlési Őrség ügyeletét is értesíti.
+## 11/A. §[^13] A rendőrség az ügyelete útján az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületben keletkezett, a tudomására jutott tűzesetről az Országgyűlési Őrség ügyeletét is értesíti.
 
 12. § (1) A hatóság az ügyelete útján a 3. § (1) bekezdés a) és b) pontjában foglalt esetekben haladéktalanul köteles a rendőrséget értesíteni.
 
@@ -14,4 +14,4 @@ b) egyéb esetben a rendőrség erre irányuló kérése esetén a rendőrségne
 
 (4) A rendőrség a megtett intézkedésekről és az általa folytatott eljárás lezárásáról írásban tájékoztatja a hatóságot.
 
-[^12]: A 11/A. §-t a 84/2012. (XII. 28.) BM rendelet 85. § (2) bekezdése iktatta be.
+[^13]: A 11/A. §-t a 84/2012. (XII. 28.) BM rendelet 85. § (2) bekezdése iktatta be.
