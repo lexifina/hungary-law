@@ -1,4 +1,4 @@
-2. melléklet a 208/2011. (X. 12.) Korm. rendelethez[^10]
+2. melléklet a 208/2011. (X. 12.) Korm. rendelethez[^12]
 
 | Sorszám | Bírságolással érintett szabálytalanság | A bírság összege forintban |
 
@@ -50,4 +50,4 @@
 
 | 24. | Dominóhatásban érintett üzem adatszolgáltatási kötelezettségének elmulasztása | 500 000 |
 
-[^10]: A 2. melléklet a 176/2016. (VII. 1.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^12]: A 2. melléklet a 176/2016. (VII. 1.) Korm. rendelet 3. §-a szerint módosított szöveg.
