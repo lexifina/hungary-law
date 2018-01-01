@@ -8,7 +8,7 @@
 
 a) legalább hároméves, a hivatalos statisztika adat-előállítási folyamatához kötődő szakmai gyakorlattal,
 
-b) a KSH-val fennálló kormánytisztviselői vagy munkavállalói jogviszonyban szerzett, legalább ötéves jogtanácsosi, pénzügyi, gazdálkodási gyakorlattal vagy
+b)[^1] a KSH-val fennálló kormánytisztviselői vagy munkavállalói jogviszonyban szerzett, legalább ötéves kamarai jogtanácsosi, pénzügyi, gazdálkodási gyakorlattal vagy
 
 c) legalább hároméves belső ellenőri, auditori, minőségbiztosítói gyakorlattal.
 
@@ -39,3 +39,5 @@ b) a feladatok Akkreditációs Bizottságon belüli felosztásáért, valamint
 c) a vizsgálati jelentés végleges dokumentumának összeállításáért.
 
 (11) Az akkreditációs eljárás során az érintett szervezetről vagy annak dolgozójáról, tisztségviselőjéről megszerzett információk az akkreditációs jelentés készítésén kívül – ha törvény eltérően nem rendelkezik – nem használhatók fel más célra. Az Akkreditációs Bizottság tagja a tudomására jutott minősített adatot vagy egyéb, törvény által védett titkot köteles megőrizni, azt külön felhatalmazás nélkül harmadik személynek nem adhatja át, és feladatkörén kívül nem használhatja fel.
+
+[^1]: A 3. § (4) bekezdés b) pontja a 393/2017. (XII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.

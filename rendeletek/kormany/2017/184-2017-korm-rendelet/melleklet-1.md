@@ -1,4 +1,4 @@
-## 29. §[^1]
+## 29. §[^9] A 3. § (4) bekezdés b) pontjának alkalmazásban a 2018. január 1-jét megelőzően törvényszéki nyilvántartásba vett jogtanácsosként teljesített gyakorlat a kamarai jogtanácsosi gyakorlattal azonosan minősül.
 
 1. melléklet a 184/2017. (VII. 5.) Korm. rendelethez
 
@@ -56,4 +56,4 @@
 
 12. A gyermek súlya, hossza és 5 perces Apgar-értéke, fejlődési rendellenessége
 
-[^1]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 393/2017. (XII. 13.) Korm. rendelet 74. § (1) bekezdése iktatta be.
