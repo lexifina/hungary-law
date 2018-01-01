@@ -1,3 +1,5 @@
+## 66/A. § A Hivatal e rendelet hatálya alá tartozó hatósági eljárásában a hiányzó bizonyíték nyilatkozattal nem pótolható.
+
 ## 23. Záró rendelkezések
 
 67. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.

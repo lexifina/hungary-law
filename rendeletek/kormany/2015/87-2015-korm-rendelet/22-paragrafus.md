@@ -1,18 +1,24 @@
-22. § (1)[^63] Szakirányú továbbképzés képzési és kimeneti követelményeinek a nyilvántartásba vételét a felsőoktatási intézmény vezetője a szeptemberben induló képzések esetében legkésőbb a tárgyév május 31-éig, a februárban induló képzések esetében legkésőbb a megelőző év október 31-éig kérelmezheti.
+22. § (1)[^71] Szakirányú továbbképzés képzési és kimeneti követelményeinek a nyilvántartásba vételét a felsőoktatási intézmény vezetője a szeptemberben induló képzések esetében legkésőbb a tárgyév május 31-éig, a februárban induló képzések esetében legkésőbb a megelőző év október 31-éig kérelmezheti.
 
 (2) A kérelemhez mellékelni kell:
 
-a)[^64] a szakirányú továbbképzés képzési és kimeneti követelményeit,
+a)[^72] a szakirányú továbbképzés képzési és kimeneti követelményeit,
 
-b) a szakirányú továbbképzés képzési és kimeneti követelményeiről hozott szenátusi döntésnek a felsőoktatási intézmény vezetője vagy az általa megbízott személy által aláírt kivonatát.
+b) a szakirányú továbbképzés képzési és kimeneti követelményeiről hozott szenátusi döntésnek a felsőoktatási intézmény vezetője vagy az általa megbízott személy által aláírt kivonatát,
 
-(3)[^65] A Hivatal a szakirányú továbbképzés szervezésének általános feltételeiről szóló 10/2006. (IX. 25.) OKM rendelet 2. § (1) bekezdés d) pontja szerinti szakirányú továbbképzés nyilvántartásba vétele során, a pedagógus-szakvizsgává minősítésről szóló döntés vonatkozásában kikéri a pedagógus-továbbképzés rendszere működésének véleményezésére jogosult szakértői testület véleményét. Olyan szakirányú továbbképzés nyilvántartásba vétele során, amelynek szakterületén jogilag szabályozott képzési, továbbképzési rendszer működik, illetve amelyik egészségügyi vagy szakértői kompetenciák megszerzésére való felkészítést ígér, a kérelemhez – a (2) bekezdésben foglaltakon túl – mellékelni szükséges a szakterületért felelős miniszter véleményét is.
+c)[^73] a szakirányú továbbképzés javasolt ISCED szerinti besorolását, valamint az európai és a magyar képesítési keretrendszer szerinti besorolását.
+
+(3)[^74] A (2) bekezdésben foglaltakon túl a kérelemhez mellékelni kell:
+
+a) a pedagógus-szakvizsgára felkészítő szakirányú továbbképzés nyilvántartásba vétele esetén a pedagógus-továbbképzési rendszer működésének véleményezésére jogosult szakértői testületnek a 21/B. §-ban foglaltak alapján kialakított véleményét a pedagógus-szakvizsgává minősítésről;
+
+b) a szakterületért felelős miniszter véleményét olyan szakirányú továbbképzés nyilvántartásba vétele során, amelynek szakterületén jogilag szabályozott képzési, továbbképzési rendszer működik, továbbá amelyik egészségügyi, élettel és biztonsággal összefüggő tevékenység végzéséhez szükséges vagy szakértői kompetenciák megszerzésére való felkészítést ígér.
 
 (4) A Hivatal az alap- vagy mesterképzési szak képzési és kimeneti követelményének közzétételét követően, hivatalból indult eljárás keretében nyilvántartásba veszi az alap- vagy mesterképzési szak képzési és kimeneti követelményeiben meghatározott, önálló szakképzettséget eredményező szakirány második, illetve további szakirányként történő elvégzését biztosító szakirányú továbbképzést.
 
-(5)[^66] Szakirányú továbbképzés indítása a képzésindítás kezdő – szükség esetén utolsó – tanévének és félévének megadásával akkor kezdeményezhető, ha a képzés képzési és kimeneti követelményeit a Hivatal nyilvántartásba vette.
+(5)[^75] Szakirányú továbbképzés indítása a képzésindítás kezdő – szükség esetén utolsó – tanévének és félévének megadásával akkor kezdeményezhető, ha a képzés képzési és kimeneti követelményeit a Hivatal nyilvántartásba vette.
 
-(6)[^67] A szakirányú továbbképzés indítása nyilvántartásba vételének kezdeményezése tekintetében a 18. § (3) bekezdése rendelkezései alkalmazandók.
+(6)[^76] A szakirányú továbbképzés indítása nyilvántartásba vételének kezdeményezése tekintetében a 18. § (3) bekezdése rendelkezései alkalmazandók.
 
 (7) A szakirányú továbbképzés indításának nyilvántartásba vételi kérelméhez mellékelni kell:
 
@@ -20,21 +26,25 @@ a) a szakirányú továbbképzés indításáról hozott szenátusi döntésnek 
 
 b) a (4) bekezdésben meghatározott szakirányú továbbképzés esetében az alap- vagy mesterképzés második vagy további szakirányt tartalmazó tantervét,
 
-c)[^68] a képzésnek az Nftv. 14. § (2a) bekezdés d) pontja szerinti képzési helyen történő indítása esetén a fenntartói egyetértéssel kötött megállapodás másolatát.
+c)[^77] a képzésnek az Nftv. 14. § (2a) bekezdés d) pontja szerinti képzési helyen történő indítása esetén a fenntartói egyetértéssel kötött megállapodás másolatát.
 
 (8) A Hivatal a nyilvántartásba vett szakirányú továbbképzés képzési és kimeneti követelményeit a nyilvántartásba vétellel egyidejűleg elérhetővé teszi a FIR-ben.
 
 (9) Szakirányú továbbképzés akkor indítható, ha annak indítását a Hivatal nyilvántartásba vette, és ezt követően a felsőoktatási intézmény a szakirányú továbbképzési szak tantervét a honlapján közzétette.
 
-(10)[^69] Magyar felsőoktatási intézménynek másik magyar felsőoktatási intézménnyel közös képzésben indítandó szakirányú továbbképzése nyilvántartásba vehető olyan képzésen, amelyen a közös képzés eredményeként közös oklevél kiállítása történik. A közös szakirányú továbbképzés indításának nyilvántartásba vétele során a (7) bekezdésben meghatározottakon túl a kérelemhez mellékelni kell a felsőoktatási intézmények között létrejött együttműködési megállapodás egy eredeti példányát vagy annak a kérelmező felsőoktatási intézmény vezetője által hitelesített másolatát is, amely a 19. § (3) bekezdés a)–c) pontjaiban foglaltakat tartalmazza. A közös képzés tekintetében alkalmazandó továbbá a 19. § (4) bekezdése is.
+(10)[^78] Magyar felsőoktatási intézménynek másik magyar felsőoktatási intézménnyel közös képzésben indítandó szakirányú továbbképzése nyilvántartásba vehető olyan képzésen, amelyen a közös képzés eredményeként közös oklevél kiállítása történik. A közös szakirányú továbbképzés indításának nyilvántartásba vétele során a (7) bekezdésben meghatározottakon túl a kérelemhez mellékelni kell a felsőoktatási intézmények között létrejött együttműködési megállapodás egy eredeti példányát vagy annak a kérelmező felsőoktatási intézmény vezetője által hitelesített másolatát is, amely a 19. § (3) bekezdés a)–c) pontjaiban foglaltakat tartalmazza. A közös képzés tekintetében alkalmazandó továbbá a 19. § (4) bekezdése is.
 
-(11)[^70] Magyar felsőoktatási intézménynek külföldi felsőoktatási intézménnyel együttműködésben szakirányú továbbképzés indításának nyilvántartásba vétele tekintetében a 20. § (1) bekezdésének, (3) és (4) bekezdésének, (5) bekezdés b) és c) pontjának, valamint (6) bekezdésének rendelkezései megfelelően alkalmazandók.
+(11)[^79] Magyar felsőoktatási intézménynek külföldi felsőoktatási intézménnyel együttműködésben szakirányú továbbképzés indításának nyilvántartásba vétele tekintetében a 20. § (1) bekezdésének, (3) és (4) bekezdésének, (5) bekezdés b) és c) pontjának, valamint (6) bekezdésének rendelkezései megfelelően alkalmazandók.
 
-[^63]: A 22. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 70. § (1) bekezdésével megállapított szöveg.
-[^64]: A 22. § (2) bekezdés a) pontja a 407/2017. (XII. 15.) Korm. rendelet 41. § f) pontja szerint módosított szöveg.
-[^65]: A 22. § (3) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^66]: A 22. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 70. § (2) bekezdésével megállapított szöveg.
-[^67]: A 22. § (6) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 70. § (2) bekezdésével megállapított szöveg.
-[^68]: A 22. § (7) bekezdés c) pontját a 345/2015. (XI. 19.) Korm. rendelet 70. § (3) bekezdése iktatta be.
-[^69]: A 22. § (10) bekezdését a 442/2016. (XII. 16.) Korm. rendelet 38. §-a iktatta be.
-[^70]: A 22. § (11) bekezdését a 442/2016. (XII. 16.) Korm. rendelet 38. §-a iktatta be.
+(12)[^80] A 21/A. § (1) bekezdés c) pontja szerinti képzés kivételével a nyilvántartási kérelemben megjelölt szakirányú továbbképzés, illetve a megszerezhető szakképzettség megnevezésének más szakirányú továbbképzés, alapképzési vagy mesterképzési szak, felsőoktatási szakképzés megnevezésétől, illetve az ezeken megszerezhető szakképzettség megnevezésétől egyértelműen különböznie kell.
+
+[^71]: A 22. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 70. § (1) bekezdésével megállapított szöveg.
+[^72]: A 22. § (2) bekezdés a) pontja a 407/2017. (XII. 15.) Korm. rendelet 41. § f) pontja szerint módosított szöveg.
+[^73]: A 22. § (2) bekezdés c) pontját a 407/2017. (XII. 15.) Korm. rendelet 35. § (1) bekezdése iktatta be.
+[^74]: A 22. § (3) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^75]: A 22. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 70. § (2) bekezdésével megállapított szöveg.
+[^76]: A 22. § (6) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 70. § (2) bekezdésével megállapított szöveg.
+[^77]: A 22. § (7) bekezdés c) pontját a 345/2015. (XI. 19.) Korm. rendelet 70. § (3) bekezdése iktatta be.
+[^78]: A 22. § (10) bekezdését a 442/2016. (XII. 16.) Korm. rendelet 38. §-a iktatta be.
+[^79]: A 22. § (11) bekezdését a 442/2016. (XII. 16.) Korm. rendelet 38. §-a iktatta be.
+[^80]: A 22. § (12) bekezdését a 407/2017. (XII. 15.) Korm. rendelet 35. § (3) bekezdése iktatta be.
