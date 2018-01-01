@@ -10,8 +10,10 @@ c) Arany János és családja emlékszobra – Nagykőrös közigazgatási terü
 
 (2) Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
 
-a) a Beruházások megvalósításával összefüggésben az (1) bekezdés szerinti ingatlanokból telekalakítási eljárások jogerős befejezését követően kialakított ingatlanokat érintik,
+a)[^2] a Beruházások megvalósításával összefüggésben az (1) bekezdés szerinti ingatlanokból telekalakítási eljárások véglegessé válását követően kialakított ingatlanokat érintik,
 
 b) az útépítési, közműfejlesztési és -csatlakozási munkák érdekében az (1) bekezdés szerinti ingatlanokkal szomszédos ingatlanokat érintik,
 
 c) a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+[^2]: Az 1. § (2) bekezdés a) pontja a 458/2017. (XII. 28.) Korm. rendelet 355. §-a szerint módosított szöveg.
