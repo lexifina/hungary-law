@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1026-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-01-30 | 2014-1026-30-22.1 | 1026/2014. (I. 30.) Korm. határozat |
+| 2018-01-01 | 2014-1026-30-22.2 | 2011. évi CXCV. törvény |
