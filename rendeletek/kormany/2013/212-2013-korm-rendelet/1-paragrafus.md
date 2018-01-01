@@ -12,9 +12,9 @@ e) kedvezményes hitel vagy kölcsön: a Patika Hitelprogram keretében felvehet
 
 f)[^3] pénzügyi intézmény: a Vállalkozásfinanszírozási Programban részt vevő, az MFB Zrt. honlapján közzétett, a hitelprogramhoz csatlakozott, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi intézmény;
 
-g) köztartozás: az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 20. pontjában foglaltak szerinti tartozás;
+g)[^4] köztartozás: az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontja szerinti tartozás;
 
-h)[^4] általános csekély összegű (de minimis) rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet;
+h)[^5] általános csekély összegű (de minimis) rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet;
 
 i) általános csekély összegű (de minimis) támogatás: az általános csekély összegű (de minimis) rendelet hatálya alá tartozó támogatás;
 
@@ -29,4 +29,5 @@ m) támogatástartalomról szóló igazolás: a kamattámogatás támogatástart
 [^1]: Az 1. § a) pontja a 334/2014. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § d) pontja a 250/2017. (IX. 5.) Korm. rendelet 47. §-ával megállapított szöveg.
 [^3]: Az 1. § f) pontja az 537/2013. (XII. 30.) Korm. rendelet 80. §-a szerint módosított szöveg.
-[^4]: Az 1. § h) pontja a 169/2014. (VII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^4]: Az 1. § g) pontja a 475/2017. (XII. 28.) Korm. rendelet 55. §-a szerint módosított szöveg.
+[^5]: Az 1. § h) pontja a 169/2014. (VII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
