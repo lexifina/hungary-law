@@ -4,4 +4,4 @@
 
 (2) Nem kell kérelmet előterjeszteni, ha a kérelmező az alapeljárásra irányadó szabályok alapján azt állapítja meg, hogy az alapeljárást a megfeleltetéstől függetlenül meg kell szüntetni.
 
-(3) Az eljárás lefolytatására első fokon a Budai Központi Kerületi Bíróság illetékes.
+(3) Az eljárás lefolytatására első fokon a Budai Központi Kerületi Bíróság rendelkezik hatáskörrel és illetékességgel.
