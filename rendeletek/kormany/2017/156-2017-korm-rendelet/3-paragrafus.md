@@ -12,9 +12,13 @@ c) a költségvetési szervek törzskönyvi nyilvántartásába bejegyzett költ
 
 d) határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban (a továbbiakban: EGT-állam) bejegyzett vállalkozás.
 
-(3) Az e rendelet szerinti eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 71. § (2) bekezdés a) pontja nem alkalmazandó.
+(3)[^1]
 
-(4)–(6)[^1]
+(4) Az e rendelet szerinti eljárásokban a tényállás tisztázása érdekében a Hatóság határidő megjelölésével, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 44. § b) pontján túl ismételten hiánypótlásra hívhatja fel a kérelmezőt.
+
+(5) Az e rendelet szerinti engedélyezési eljárásokban az ügyfél nem pótolhatja a nyilatkozatával a hiányzó bizonyítékot akkor sem, ha annak beszerzése nem lehetséges.
+
+(6) Az e rendelet szerinti engedélyezési eljárásokban az ügyfél az iratot nem nyújthatja be másolatban, kivéve, ha ahhoz a Hatóság hozzájárul.
 
 (7) E rendelet 10. § (1) bekezdés a)–b) pontjában meghatározott tevékenységi engedély annak a kérelmezőnek adható, amelynek nyilvántartásba vett tevékenységi körei között a haditechnikai termék gyártása vagy a termékhez kapcsolódó szolgáltatás nyújtása szerepel.
 
@@ -28,4 +32,4 @@ c) a kérelemben megjelölt tevékenység irányítására kijelölt felelős ve
 
 d) megfelel a Httv. és az e rendeletben meghatározott egyéb feltételeknek.
 
-[^1]: A 3. § (4)–(6) bekezdése a 34. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^1]: A 3. § (3) bekezdése a 38. § (4) bekezdése alapján hatályát vesztette.

@@ -12,6 +12,8 @@ e) 19. § (6)–(7) bekezdése, a 20. § (7)–(8) bekezdése, valamint a 21. §
 
 terjedhet.
 
-(2) Az (1) bekezdés szerinti jogerős határozatban megállapított bírságot a határozatban megjelölt számlaszámra, a megjegyzés rovatban a határozat számára hivatkozva való utalással kell megfizetni.
+(2)[^5] Az (1) bekezdés szerinti véglegessé vált határozatban megállapított bírságot a határozatban megjelölt számlaszámra, a megjegyzés rovatban a határozat számára hivatkozva való utalással kell megfizetni.
 
 (3) Az (1) bekezdés szerinti bírság megfizetése készpénzátutalási megbízással vagy átutalással történhet.
+
+[^5]: A 32. § (2) bekezdése a 34. § (3) bekezdése szerint módosított szöveg.

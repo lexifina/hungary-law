@@ -1,4 +1,4 @@
-## 4. § A Hatóság az engedély és a tanúsítás iránti kérelemről – a tranzitengedély és a tevékenységi engedély iránti kérelem kivételével – 60 napon belül dönt.
+## 4. §[^2]
 
 5. § (1) Nem kell külön engedélyt beszerezniük a Httv. 2. §-a szerinti tevékenységhez
 
@@ -15,3 +15,5 @@ b) a szállítást – kötelezettségei teljesítéséhez – az Európai Unió
 c) a szállítás a katasztrófa esetén nyújtott humanitárius segítségnyújtáshoz vagy adományhoz kapcsolódik, vagy
 
 d) haditechnikai eszközt állami fegyveres szervek közös gyakorlat, bemutató céljából szállítanak át Magyarország határán.
+
+[^2]: A 4. § a 38. § (4) bekezdése alapján hatályát vesztette.

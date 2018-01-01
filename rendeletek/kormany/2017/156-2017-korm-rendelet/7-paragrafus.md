@@ -2,10 +2,8 @@
 
 7. § (1) Az e rendelet szerinti engedélyezési eljárások és a tanúsítás során alkalmazandó engedély iránti kérelmek és engedélyokmányok mintáját a Hatóság a honlapján közzéteszi.
 
-(2)[^2]
+(2) Az e rendelet szerinti engedélyek és a tanúsítás iránti kérelmek kormányablaknál nem terjeszthetők elő.
 
 (3) A Hatóság nyilvántartja és kezeli az engedélyezési eljárás során birtokába kerülő és keletkező – személyes adatnak nem minősülő, kormányrendeletben meghatározott – adatokat.
 
 (4) A Hatóság a (3) bekezdés szerinti adatok kezelésére legfeljebb az érintettnek a tevékenysége folytatására vonatkozó jogosultsága megszűnésétől számított hat hónapig jogosult.
-
-[^2]: A 7. § (2) bekezdése a 34. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
