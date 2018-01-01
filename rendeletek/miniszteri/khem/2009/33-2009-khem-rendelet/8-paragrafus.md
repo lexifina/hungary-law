@@ -12,15 +12,15 @@ c) akinek a hirdetmény közzétételének napján egyéb, 60 napnál régebben 
 
 d) akivel szemben a hirdetmény közzétételét megelőző három naptári éven belül a bíróság – a jogi személlyel szemben kiszabható büntetőjogi intézkedésekről szóló törvénnyel összhangban – bűncselekmény elkövetését jogerősen megállapította,
 
-e) akivel szemben a hirdetmény közzétételét megelőző három naptári éven belül a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. §-a vagy 21. §-a, illetve az Európai Közösséget létrehozó szerződés 81. cikke vagy 82. cikke szerinti jogerős és végrehajtható versenyfelügyeleti határozatban, vagy annak bírósági felülvizsgálata esetén a bíróság jogerős és végrehajtható határozatában megállapított és bírsággal sújtott jogszabálysértést követett el,
+e)[^20] akivel szemben a hirdetmény közzétételét megelőző három naptári éven belül a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. §-a vagy 21. §-a, illetve az Európai Közösséget létrehozó szerződés 81. cikke vagy 82. cikke szerinti véglegessé vált versenyfelügyeleti határozatban, vagy jogerős bírósági határozatban megállapított és bírsággal sújtott jogszabálysértést követett el,
 
-f) akinek korábbi – öt évnél nem régebben lezárult – közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének megszegését jogerős közigazgatási vagy bírósági határozat megállapította,
+f)[^21] akinek korábbi – öt évnél nem régebben lezárult – közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének megszegését végleges közigazgatási vagy jogerős bírósági határozat megállapította,
 
-g)[^18] akinek, aki jogelődjének vagy akivel egy társaságcsoportba tartozó vállalkozásnak a VET 74. § (1) bekezdése szerinti bármely engedélyét a hirdetmény közzétételét megelőző három éven belül – nem saját kérésére – visszavonták,
+g)[^22] akinek, aki jogelődjének vagy akivel egy társaságcsoportba tartozó vállalkozásnak a VET 74. § (1) bekezdése szerinti bármely engedélyét a hirdetmény közzétételét megelőző három éven belül – nem saját kérésére – visszavonták,
 
 h) aki a pályázatában a pályázat elbírálását érdemben befolyásoló valótlan adatot közölt,
 
-i)[^19]
+i)[^23]
 
 j) aki az új létesítendő szélerőművi termelő kapacitást – a pályázat benyújtásától számítottan – három évnél régebben gyártott berendezéssel kívánja megvalósítani,
 
@@ -28,9 +28,9 @@ k) aki végelszámolás alatt áll, vagy aki ellen csőd- vagy felszámolási el
 
 l) aki a kiírási dokumentációt nem a hirdetményben meghatározott módon szerezte be,
 
-m)[^20] aki az e rendelet szerinti határidőben nem igazolta az ajánlati biztosíték rendelkezésre állását,
+m)[^24] aki az e rendelet szerinti határidőben nem igazolta az ajánlati biztosíték rendelkezésre állását,
 
-n)[^21]
+n)[^25]
 
 (2) Az (1) bekezdés c) pontja szerinti kizáró okra vonatkozóan a pályázó a pályázati eljárás során nyilatkozatban hozzájárul ahhoz, hogy az állami adóhatóság, a vámhatóság, a székhely vagy a termelő tevékenység végzésének telephelye szerinti önkormányzati adóhatóság a nyilvántartott adó-, járulék-, illeték- vagy vámtartozására vonatkozó adatokat a Hivatal részére átadja.
 
@@ -40,7 +40,9 @@ n)[^21]
 
 (5) Ha az 1. § (1) bekezdés b) pont ba) alpontja szerinti szélerőmű kapacitás létesítésére irányuló pályázat benyújtása esetén a pályázóval szemben a pályázati eljárás eredményének kihirdetése után válik ismertté az (1) bekezdésben meghatározott kizáró ok fennállása, a Hivatal a pályázót a VET 96. § (2) bekezdése szerint eltilthatja a tevékenység folytatásától.
 
-[^18]: A 8. § (1) bekezdés g) pontja a 61/2016. (XII. 28.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
-[^19]: A 8. § (1) bekezdés i) pontját a 61/2016. (XII. 28.) NFM rendelet 11. § e) pontja hatályon kívül helyezte.
-[^20]: A 8. § (1) bekezdés m) pontja a 61/2016. (XII. 28.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
-[^21]: A 8. § (1) bekezdés n) pontját a 61/2016. (XII. 28.) NFM rendelet 11. § e) pontja hatályon kívül helyezte.
+[^20]: A 8. § (1) bekezdés e) pontja az 52/2017. (XII. 22.) NFM rendelet 11. § c) pontja szerint módosított szöveg.
+[^21]: A 8. § (1) bekezdés f) pontja az 52/2017. (XII. 22.) NFM rendelet 11. § d) pontja szerint módosított szöveg.
+[^22]: A 8. § (1) bekezdés g) pontja a 61/2016. (XII. 28.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
+[^23]: A 8. § (1) bekezdés i) pontját a 61/2016. (XII. 28.) NFM rendelet 11. § e) pontja hatályon kívül helyezte.
+[^24]: A 8. § (1) bekezdés m) pontja a 61/2016. (XII. 28.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
+[^25]: A 8. § (1) bekezdés n) pontját a 61/2016. (XII. 28.) NFM rendelet 11. § e) pontja hatályon kívül helyezte.

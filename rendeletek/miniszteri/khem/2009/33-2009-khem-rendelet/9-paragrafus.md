@@ -34,18 +34,18 @@ g) a teljességi nyilatkozatot, amelyben a pályázó felelősséget vállal arr
 
 h) a pályázónak a pályázati eljárásban történő teljes körű képviseletére jogosultak nevét, valamint a képviseleti jog igazolására alkalmas dokumentumot,
 
-i)[^22]
+i)[^26]
 
 j) a hálózati csatlakozásra vonatkozó, a hálózati engedélyes által jóváhagyott csatlakozási tervet,
 
 k) a 8. §-ban meghatározott követelmények teljesítésére vonatkozó igazolásokat, nyilatkozatokat, kivéve a 8. § (1) bekezdés c) pontja szerinti köztartozásra vonatkozó igazolást,
 
-l)[^23]
+l)[^27]
 
-m)[^24] az ajánlati biztosíték rendelkezésre állását igazoló dokumentumot, valamint
+m)[^28] az ajánlati biztosíték rendelkezésre állását igazoló dokumentumot, valamint
 
 n) az auditált szélhozam mérések adatait.
 
-[^22]: A 9. § (2) bekezdés i) pontját a 61/2016. (XII. 28.) NFM rendelet 11. § f) pontja hatályon kívül helyezte.
-[^23]: A 9. § (2) bekezdés l) pontját a 61/2016. (XII. 28.) NFM rendelet 11. § f) pontja hatályon kívül helyezte.
-[^24]: A 9. § (2) bekezdés m) pontja a 61/2016. (XII. 28.) NFM rendelet 10. § d) pontja szerint módosított szöveg.
+[^26]: A 9. § (2) bekezdés i) pontját a 61/2016. (XII. 28.) NFM rendelet 11. § f) pontja hatályon kívül helyezte.
+[^27]: A 9. § (2) bekezdés l) pontját a 61/2016. (XII. 28.) NFM rendelet 11. § f) pontja hatályon kívül helyezte.
+[^28]: A 9. § (2) bekezdés m) pontja a 61/2016. (XII. 28.) NFM rendelet 10. § d) pontja szerint módosított szöveg.

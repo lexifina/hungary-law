@@ -18,10 +18,10 @@ d) pályázat: a pályázó által a pályázati eljárás keretében benyújtot
 
 e) pályázati eljárás: új szélerőművi kapacitás létesítésére, valamint az 1. § (1) bekezdés c) pont cb) alpontja szerinti kiserőmű elosztó vagy átviteli hálózathoz történő csatlakoztatására vonatkozó, e rendelet szerint lefolytatott pályáztatási eljárás,
 
-f)[^2] pályázó: a hirdetmény és a kiírási dokumentáció alapján szélerőművi kapacitás-létesítési jogosultságot (a továbbiakban: jogosultság) szerezni kívánó, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
+f)[^3] pályázó: a hirdetmény és a kiírási dokumentáció alapján szélerőművi kapacitás-létesítési jogosultságot (a továbbiakban: jogosultság) szerezni kívánó, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
 
 g) társaságcsoport: azon vállalkozások összessége, amelyek a számvitelről szóló 2000. évi C. törvény 3. § (2) bekezdés 7. pontja szerint kapcsolt vállalkozásnak minősülnek.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat a VET és a végrehajtására kiadott jogszabályok szerint kell értelmezni.
 
-[^2]: A 2. § (1) bekezdés f) pontja a 12/2014. (III. 14.) NFM rendelet 20. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés f) pontja a 12/2014. (III. 14.) NFM rendelet 20. § b) pontja szerint módosított szöveg.

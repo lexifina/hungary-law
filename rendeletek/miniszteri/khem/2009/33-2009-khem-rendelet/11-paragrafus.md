@@ -2,6 +2,6 @@
 
 (2) A pályázó köteles a kiírási dokumentációban foglalt eljárási szabályokat betartani.
 
-(3)[^26]
+(3)[^30]
 
-[^26]: A 11. § (3) bekezdését a 61/2016. (XII. 28.) NFM rendelet 11. § g) pontja hatályon kívül helyezte.
+[^30]: A 11. § (3) bekezdését a 61/2016. (XII. 28.) NFM rendelet 11. § g) pontja hatályon kívül helyezte.
