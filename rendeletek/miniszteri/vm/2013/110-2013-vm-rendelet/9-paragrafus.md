@@ -4,8 +4,8 @@
 
 (2)[^9] A környezetvédelmi hatóság a földgázellátásról szóló törvényben meghatározott földgázellátási zavar vagy válsághelyzet esetén az üzemeltető kérelmére, legfeljebb 10 napi időtartamra engedélyezi a gáz halmazállapotú tüzelőanyagot használó tüzelőberendezésben a határértékeknél nagyobb légszennyező anyag kibocsátást okozó, maximum 1,0 tömegszázalék kéntartalmú tüzelőanyag alkalmazását, ha a tüzelőberendezés hatásterületén az éves kén-dioxid szennyezettség nem haladja meg a levegőterheltségi szint határértékeiről és a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló miniszteri rendeletben foglalt kén-dioxidra vonatkozó egészségügyi határértéket. A tüzelőberendezés üzemeltetője köteles a környezetvédelmi hatóságnak haladéktalanul bejelenteni a gáz halmazállapotú tüzelőanyagtól eltérő más tüzelőanyaggal történt üzemeltetés kezdő és befejező időpontjait, a felhasznált tüzelőanyagfajtákat, ezek jellemzőjét és mennyiségét.
 
-(3)[^10] A környezetvédelmi hatóság az (1) és (2) bekezdés szerinti eltérés engedélyezéséről hozott határozatot közli a környezetvédelemért felelős miniszterrel (a továbbiakban: miniszter). A miniszter az engedélyezett eltérést haladéktalanul közli az Európai Bizottsággal (a továbbiakban: Bizottság).
+(3)[^10] A környezetvédelmi hatóság az (1) és (2) bekezdés szerinti eltérés engedélyezéséről hozott határozatot tájékoztatás céljából megküldi a környezetvédelemért felelős miniszterrel (a továbbiakban: miniszter). A miniszter az engedélyezett eltérésről haladéktalanul tájékoztatja az Európai Bizottságot (a továbbiakban: Bizottság).
 
 [^8]: A 9. § (1) bekezdése a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
 [^9]: A 9. § (2) bekezdése a 15/2015. (III. 31.) FM rendelet 34. § b)–c) pontja szerint módosított szöveg.
-[^10]: A 9. § (3) bekezdése a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
+[^10]: A 9. § (3) bekezdése a 15/2015. (III. 31.) FM rendelet 34. § b) pontja, a 70/2017. (XII. 29.) FM rendelet 9. § a)–b) pontja szerint módosított szöveg.
