@@ -1,4 +1,4 @@
-1. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^33]
+1. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^35]
 
 1. Az Országos Képzési Jegyzék
 
@@ -296,7 +296,7 @@
 
 | 145 | 54 | 724 | 01 | Fogtechnikus gyakornok | 1 | II | 2 év | 1080-1320 óra | N, E, TK | 5 | egészségügyért felelős miniszter |
 
-| 146 | 52 | 140 | 01 | Fogyatékkal élők gondozója | 3 | IV | - | 480-720 óra | TK | 4 | oktatásért felelős miniszter |
+| 146 | 32 | 140 | 02 | Fogyatékkal élők gondozója | 3 | IV | - | 480-720 óra | TK | 4 | oktatásért felelős miniszter |
 
 | 147 | 34 | 543 | 03 | Formacikk-gyártó | 8 | XIV | 3 év | 800 - 1000 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -448,7 +448,7 @@
 
 | 221 | 55 | 725 | 07 | Immunhisztokémiai, hisztokémiai és molekuláris biológiai szakasszisztens | 1 | I | - | 1100-1440 óra | TK | 5 | egészségügyért felelős miniszter |
 
-| 222 | 54 | 481 | 03 | Infokommunikációs hálózatépítő és üzemeltető | 7 | XII | 2 év | 960-1440 óra | N, E, L, TK, T | 5 | informatikáért felelős miniszter |
+| 222 | 54 | 481 | 03 | Infokommunikációs hálózatépítő és üzemeltető | 6 | XII | 2 év | 960-1440 óra | N, E, L, TK, T | 5 | informatikáért felelős miniszter |
 
 | 223 | 55 | 481 | 02 | Információrendszer-szervező | 7 | XIII | 0,5 év | 400-600 óra | N, E, L, TK | 5 | informatikáért felelős miniszter |
 
@@ -586,7 +586,7 @@
 
 | 290 | 54 | 815 | 02 | Kozmetikus | 19 | XXX | 2 év | 1200- 1400 óra | N, E, TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 291 | 34 | 582 | 07 | Kőfaragó, műköves és épületszobrász | 9 | XVI | 3 év | 900-1300 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+| 291 |  |  |  |  |  |  |  |  |  |  |  |
 
 | 292 | 34 | 582 | 14 | Kőműves | 9 | XVI | 3 év | 800 - 1000 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -1048,7 +1048,7 @@
 
 | 521 | 55 | 344 | 07 | Vállalkozási mérlegképes könyvelő | 15 | XXIV | 1 év | 320-480 óra | N, E, L, TK, T | 5 | számviteli szabályozásért felelős miniszter |
 
-| 522 | 52 | 841 | 02 | Váltókezelő | 13 | XL | - | 400-600 óra | TK | 4 | közlekedésért felelős miniszter |
+| 522 | 52 | 841 | 04 | Váltókezelő | 13 | XL | - | 400-600 óra | TK | 4 | közlekedésért felelős miniszter |
 
 | 523 | 54 | 344 | 03 | Vám-, jövedéki- és termékdíj ügyintéző | 15 | XXIV | 2 év | 960-1440 óra | N, E, L, S, TK, T | 5 | adópolitikáért felelős miniszter |
 
@@ -1140,6 +1140,18 @@
 
 | 567 | 35 | 522 | 20 | Kisfeszültségű mérőhelyi FAM szerelő | 6 | XI | – | 24–32 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
+| 568 | 55 | 723 | 17 | Mentésirányító | 1 | I | 0,5 év | 340-450 óra | N, E, TK | 5 | egészségügyért felelős miniszter |
+
+| 569 | 34 | 541 | 11 | Pék-cukrász | 21 | XXXVI | 3 év | 960-1440 óra | N, E, TK | 4 | élelmiszeriparért felelős miniszter |
+
+| 570 | 34 | 582 | 16 | Épületszobrász és műköves | 9 | XVI | 3 év | 800-1000 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+
+| 571 | 34 | 582 | 17 | Kőfaragó | 9 | XVI | 3 év | 800-1000 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+
+| 572 | 52 | 212 | 01 | Kaszkadőr szakértő | 4 | VI | - | 440–560 óra | TK | 4 | kultúráért felelős miniszter |
+
+| 573 | 52 | 582 | 03 | Vízkútfúró | 23 | XLI | - | 600-800 óra | TK | 4 | vízgazdálkodásért és vízvédelemért felelős miniszter |
+
 2. táblázat: részszakképesítések
 
-[^33]: Az 1. melléklet a 25/2016. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 237/2016. (VIII. 2.) Korm. rendelet 2. § (1) bekezdése, a 149/2017. (VI. 12.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^35]: Az 1. melléklet a 25/2016. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 237/2016. (VIII. 2.) Korm. rendelet 2. § (1) bekezdése, a 149/2017. (VI. 12.) Korm. rendelet 2. § (1) bekezdése, az 504/2017. (XII. 29.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
