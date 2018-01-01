@@ -11,3 +11,5 @@ c) az egészségügyi dolgozó Magyarországon önállóan vagy felügyelet mell
 (3) A jó hírnév igazolás csak akkor adható ki, ha a (2) bekezdés a)–c) pontjában foglalt valamennyi esetre vonatkozóan tartalmaz igazolást.
 
 (4) A kérelmezőnek a jó hírnév-igazolás kiállítása iránti kérelméhez csatolnia kell az Etv. XI. Fejezete szerinti hatósági bizonyítványok kiadására irányadó eljárási díjnak megfelelő összeg megfizetésének igazolását.
+
+(5) Az (1) bekezdés szerinti eljárásban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.

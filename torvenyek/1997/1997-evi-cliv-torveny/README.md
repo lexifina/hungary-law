@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2017-06-02 | 2017. évi XLIV. törvény | 1997-154-00-00.82 |
 | 2017-07-01 | 2017. évi LIX. törvény | 1997-154-00-00.83 |
 | 2017-12-19 | 2017. évi CLXXXVIII. törvény | 1997-154-00-00.84 |
+| 2018-01-01 | 2017. évi L. törvény | 1997-154-00-00.85 |

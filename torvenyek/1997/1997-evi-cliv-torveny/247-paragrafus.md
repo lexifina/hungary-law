@@ -38,9 +38,11 @@ me) a szakképzéshez kapcsolódó támogatások mértékét,
 
 mf) a Rezidens Támogatási Programra, valamint a Fiatal Szakorvosok Támogatási Programjára vonatkozó részletszabályokat,
 
+mg) az egészségügyi felsőfokú szakirányú szakképzéshez kapcsolódó hatósági eljárások szabályait
+
 n) a nem az Etv. 28. §-a szerinti tagállamban egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képesítést tanúsító oklevelek, bizonyítványok elismerése során eljáró hatóságot,
 
-o) az alapnyilvántartást vezető szervet, az egészségügyi szakértői nyilvántartást vezető szervet és a működési nyilvántartást vezető szervet,
+o) az alapnyilvántartást vezető szervet, az egészségügyi szakértői nyilvántartást vezető szervet, valamint a szakértői tevékenységgel kapcsolatos hatósági eljárás részletes szabályait és a működési nyilvántartást vezető szervet,
 
 p) a humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák körét, a nyilvánosságra hozatal módját és helyét, továbbá az ellenőrzés módját,
 
@@ -58,7 +60,11 @@ v) az intézeten kívüli szülés szakmai szabályait, feltételeit és kizár�
 
 w) a holttest hűtésének naponkénti legmagasabb árát,
 
-x) az egészségségre ártalmas szintet elérő hő- és hideghullámok, napsugárzás idején szükséges tájékoztatási és riasztási szintet, az egészségre ártalmas szintet elérő hő- és hideghullámok esetén bevezetendő intézkedések körét és tartalmát, továbbá az országos szintű hőségriasztásra vonatkozó részletes szabályokat
+x) az egészségségre ártalmas szintet elérő hő- és hideghullámok, napsugárzás idején szükséges tájékoztatási és riasztási szintet, az egészségre ártalmas szintet elérő hő- és hideghullámok esetén bevezetendő intézkedések körét és tartalmát, továbbá az országos szintű hőségriasztásra vonatkozó részletes szabályokat,
+
+y) a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésére vonatkozó részletes szabályokat,
+
+z) a természetes gyógytényezőkkel kapcsolatos hatósági eljárásra vonatkozó részletes szabályokat
 
 rendeletben megállapítsa.
 
@@ -176,7 +182,7 @@ kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, id�
 
 l) a Nemzeti Betegfórum jogállásának, feladatkörének, valamint működésének részletes szabályait
 
-m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégiumok és országos intézetek feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
+m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégium és tagozatai feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
 
 n) a kórházi felügyelő tanács és a kórházi etikai bizottság szervezetére és működésére vonatkozó részletes szabályokat,
 
@@ -240,7 +246,7 @@ hc) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-
 
 hd) az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
 
-i) a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésére vonatkozó részletes szabályokat,
+i)
 
 j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szabályait, valamint ezen szolgáltatásokért – ideértve a mentési terv jóváhagyását is – fizetendő térítési díj mértékét, valamint a mentési terv elkészítéséért fizetendő térítési díjnál figyelembe veendő körülményeket, szempontokat és a megfizetésre vonatkozó rendelkezéseket,
 
@@ -262,7 +268,7 @@ p) az állami és nem állami szervezetek hazai és nemzetközi egészségügyi 
 
 q) a prehospitális gyógyszeralkalmazás szabályait,
 
-r) az állami fenntartásban működő országos gyógyintézetek körét és az országos gyógyintézetek működésére vonatkozó speciális szabályokat
+r) az állami fenntartásban működő országos gyógyintézetek típusait és körét és az országos gyógyintézetek működésére vonatkozó speciális szabályokat
 
 rendeletben állapítsa meg.
 
@@ -277,39 +283,3 @@ a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért 
 b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
 
 c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
-
-ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
-
-cb) az egészségügyi szolgáltatók működési engedélyezésével és hatósági nyilvántartásba vételével kapcsolatosan,
-
-cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
-
-cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
-
-ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
-
-cf) az egészségügyi szakértők tevékenységének engedélyezéséért,
-
-cg) az egészségfejlesztési programok akkreditációjáért,
-
-ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
-
-ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek az anyatej-helyettesítő és anyatej-kiegészítő tápszerek, a feldolgozott gabonaalapú élelmiszerek és bébiételek, a speciális gyógyászati célra szánt élelmiszerek és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerek, a feldolgozott gabonaalapú élelmiszerek és bébiételek, a speciális gyógyászati célra szánt élelmiszerek és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
-
-cj)
-
-ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
-
-fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
-
-d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a közoktatási intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat,
-
-e) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben a taktikai medicina – mint a rendőri speciális műveleti feladatok végrehajtása során végezhető egészségügyi tevékenység – szakmai, személyi, tárgyi feltételeit és követelményeit, valamint ezek szakmai tartalmát;
-
-f) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a rendőri intézkedések kapcsán szükségessé váló, az intézkedéstaktikába épített elsősegélynyújtás képzések részletes tematikáját, az oktatásra jogosultak körét, az oktatásban részt vevők kompetenciáit;
-
-g) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a halálos tömegszerencsétlenségek áldozatainak nemzetközi szervezetek szabványai szerinti azonosítására irányuló szervezett tevékenységben részt vevők körét, oktatását, feladatrendszerét, riasztási rendjét, tevékenységét, felszerelését, az együttműködés rendjét, a működtetés és a tevékenység részletes szabályait;
-
-h) a miniszter, hogy a terrorizmus elleni küzdelemért felelős miniszterrel egyetértésben az egészségügyi intézmények terrorveszély idején ellátandó feladatait, működési és jelentési rendjét, a terrorizmus elleni védelmével kapcsolatos intézkedések körét és az erre való felkészülés részletes szabályait
-
-rendeletben állapítsa meg.

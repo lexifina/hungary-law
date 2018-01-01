@@ -6,9 +6,9 @@
 
 (4) Az (1) és (2) bekezdés alapján megismert személyes adatokat a működési nyilvántartást vezető szerv
 
-a) a működési nyilvántartásba történő bejegyzés iránti eljárás jogerős befejezéséig, vagy
+a) a működési nyilvántartásba történő bejegyzés iránti eljárás véglegessé vált döntéssel történő befejezéséig, vagy
 
-b) a (2) bekezdés szerinti hatósági ellenőrzés időtartamára, vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
+b) a (2) bekezdés szerinti hatósági ellenőrzés időtartamára, vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás véglegessé vált döntéssel történő befejezéséig
 
 kezeli.
 

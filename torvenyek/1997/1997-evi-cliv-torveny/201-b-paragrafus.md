@@ -4,7 +4,7 @@ a) aki a sürgősségi vagy kötelező gyógykezelés hatálya alatt a gyógykez
 
 b) akinek a bíróság a 200. § alapján elrendeli a kötelező intézeti gyógykezelését és a beteg a jogerős határozat kézhezvételétől számított három napon belül nem jelenik meg a végzésben megjelölt pszichiátriai intézetben.
 
-(2) A körözést elrendelő határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(2) A körözést elrendelő határozat azonnal végrehajthatóvá nyilvánítható.
 
 (3) Az előállítás végrehajtásához az azt elrendelő egészségügyi államigazgatási szerv a körözési eljárást lefolytató szervet megfelelő tájékoztatással látja el.
 

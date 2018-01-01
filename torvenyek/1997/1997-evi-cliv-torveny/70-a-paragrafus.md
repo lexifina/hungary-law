@@ -22,7 +22,7 @@ c) tuberkulózis miatt elkülönített, őrzött osztályon való elhelyezésre
 
 kötelezett.
 
-(3) Az (1) és (2) bekezdés szerinti határozat – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(3) Az (1) és (2) bekezdés szerinti határozat – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható.
 
 (4) Az előállítás végrehajtásához az azt elrendelő egészségügyi államigazgatási szerv a rendőri szervet
 

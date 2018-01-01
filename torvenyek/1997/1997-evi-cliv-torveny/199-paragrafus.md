@@ -4,7 +4,7 @@
 
 (2) A beteg felvételét követően a pszichiátriai intézet vezetője 24 órán belül a bíróság értesítésével kezdeményezi a beszállítás indokoltságának megállapítását és a kötelező pszichiátriai intézeti gyógykezelés elrendelését.
 
-(3) A bíróság az értesítés kézhezvételétől számított 72 órán belül határozatot hoz. A bíróság határozatának meghozataláig a beteg ideiglenesen az intézetben tartható.
+(3) A bíróság az értesítés kézhezvételétől számított 72 órán belül határozatot hoz. A bíróság határozatának meghozataláig a beteg ideiglenesen az intézetben tartható. A bíróság a határozatot, annak meghozatalától számított legkésőbb öt napon belül írásba foglalja és az írásba foglalást követő kettő napon belül elrendeli annak kézbesítését.
 
 (4) A határozat meghozataláig elsősorban a veszélyeztető vagy közvetlen veszélyeztető magatartás megszüntetésére kell törekedni. A szakmailag lehetséges mértékben és módon kerülni kell az olyan beavatkozások elvégzését, amelyek lehetetlenné teszik, hogy a bíróság a személyes meghallgatás során a beteg aktuális pszichés állapotát megítélje. Amennyiben erre mégis sor kerül, azt részletesen dokumentálni és indokolni kell.
 

@@ -10,9 +10,9 @@ hozzájárulása szükséges.
 
 (2) A gyámhatóság a hozzájárulás megadása előtt vizsgálja, hogy a 187. § (1) bekezdés b) pontja szerinti személy kérelme akaratával egyező-e, így különösen azt, hogy az érintett és törvényes képviselője között fennáll-e érdekellentét, továbbá azt, hogy az érintett tisztában van-e a döntése következményeivel.
 
-(3) Ha a 187. § (1) bekezdés b) pontja szerinti személy kérelme ellenére a törvényes képviselő vagy a gyámhatóság a beavatkozás elvégzéséhez nem járul hozzá, a kérelmező a Fővárosi Törvényszéknél keresetet indíthat a jognyilatkozat vagy a jognyilatkozatok pótlása iránt.
+(3) Ha a 187. § (1) bekezdés b) pontja szerinti személy kérelme ellenére a törvényes képviselő vagy a gyámhatóság a beavatkozás elvégzéséhez nem járul hozzá, a kérelmező a Fővárosi Törvényszéknél kérelmet terjeszthet elő a jognyilatkozat vagy a jognyilatkozatok pótlása iránt.
 
-(4) A bíróság a kérelemről nemperes eljárásban, a kérelmező és a törvényes képviselő, illetve a gyámhatóság meghallgatását követően, harminc napon belül határoz. A bíróság a jognyilatkozatot abban az esetben pótolja, ha a művi meddővé tétel elvégzése a kérelmező érdekét – figyelembe véve különösen a kérelmező egészségügyi, személyi és családi körülményeit – nem sérti.
+(4) A bíróság a kérelemről polgári nemperes eljárásban, a kérelmező és a törvényes képviselő, illetve a gyámhatóság meghallgatását követően, harminc napon belül határoz. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a polgári perrendtartásról szóló törvény szabályait és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell megfelelően alkalmazni. A bíróság a jognyilatkozatot abban az esetben pótolja, ha a művi meddővé tétel elvégzése a kérelmező érdekét – figyelembe véve különösen a kérelmező egészségügyi, személyi és családi körülményeit – nem sérti.
 
 (5) A bíróság határozata ellen annak közlésétől számított tizenöt napon belül terjeszthető elő fellebbezés. A határozat ellen felülvizsgálatnak nincs helye.
 

@@ -16,13 +16,13 @@ b) az a) pont szerinti körülmény változása belátható időn belül nem vá
 
 (3a) A (3) bekezdés szerinti kérelemhez csatolni kell a mentesítés indokoltságát alátámasztó, a kezelőorvos által adott szakvéleményt.
 
-(4) A (3) bekezdés szerinti eljárás alatt – annak jogerős befejezéséig – az adott védőoltás vonatkozásában a (7) bekezdés szerinti írásbeli felszólításnak vagy az adott védőoltás elrendelésének nincs helye. Ha a védőoltást korábban már elrendelték, és ezen védőoltás vonatkozásában eljárás indul a (3) bekezdés alapján, akkor a mentesítési eljárás jogerős befejezéséig a védőoltást elrendelő határozat nem hajtható végre. A mentesítési eljárásban a kezelőorvos külön vizsgálat nélkül ügyfélnek minősül.
+(4) A (3) bekezdés szerinti eljárás alatt – annak véglegessé vált döntéssel történő befejezéséig – az adott védőoltás vonatkozásában a (7) bekezdés szerinti írásbeli felszólításnak vagy az adott védőoltás elrendelésének nincs helye. Ha a védőoltást korábban már elrendelték, és ezen védőoltás vonatkozásában eljárás indul a (3) bekezdés alapján, akkor a mentesítési eljárás véglegessé vált döntéssel történő befejezéséig a védőoltást elrendelő határozat nem hajtható végre. A mentesítési eljárásban a kezelőorvos külön vizsgálat nélkül ügyfélnek minősül.
 
 (5) A védőoltásra kötelezett és a védőoltásban részesített személyekről nyilvántartást kell vezetni.
 
 (6) A védőoltás módjáról, céljáról, helyéről és idejéről a védőoltásra kötelezett személyt, illetve törvényes képviselőjét értesíteni kell. A védőoltásra kötelezett kiskorú személy megjelenéséről a törvényes képviselő köteles gondoskodni.
 
-(7) Ha a védőoltás igénybevételére köteles személy e kötelezettségének írásbeli felszólításra sem tesz eleget, az egészségügyi államigazgatási szerv a védőoltást elrendeli. Az egészségügyi államigazgatási szerv közvetlen járványveszély fennállása esetén – a veszélyhelyzet szerint meghatározott védőoltások köre tekintetében – a határozatot fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
+(7) Ha a védőoltás igénybevételére köteles személy e kötelezettségének írásbeli felszólításra sem tesz eleget, az egészségügyi államigazgatási szerv a védőoltást elrendeli. Az egészségügyi államigazgatási szerv közvetlen járványveszély fennállása esetén – a veszélyhelyzet szerint meghatározott védőoltások köre tekintetében – a határozatot azonnal végrehajthatóvá nyilváníthatja.
 
 (8) A védőoltás megtörténtéről igazolást kell adni.
 

@@ -1,6 +1,6 @@
 ## Közös eljárási szabályok
 
-201. § (1) A bíróság az e fejezetben szabályozott eljárások során nemperes eljárásban jár el. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a polgári perrendtartásról szóló 1952. évi III. törvényt kell megfelelően alkalmazni. A 196–200. §-ok szerinti eljárásokban kijelölt bírósági titkár is eljárhat.
+201. § (1) A bíróság az e fejezetben szabályozott eljárások során a járásbíróság hatáskörébe tartozó polgári nemperes eljárásban jár el. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a polgári perrendtartásról szóló törvény szabályait és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell megfelelően alkalmazni. A 196–200. § szerinti eljárásokban kijelölt bírósági titkár is eljárhat.
 
 (2) Az e fejezetben szabályozott nemperes eljárások tárgyi költségmentesek.
 

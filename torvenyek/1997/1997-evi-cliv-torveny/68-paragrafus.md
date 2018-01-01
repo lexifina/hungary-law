@@ -6,4 +6,4 @@
 
 (3) A miniszter rendeletében meghatározott fertőző betegség esetén a kórokozó hordozó járványügyi ellenőrzés alá helyezése kötelező.
 
-(4) Az egészségügyi államigazgatási szerv (2)–(3) bekezdések alapján hozott határozata – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(4) Az egészségügyi államigazgatási szerv (2)–(3) bekezdések alapján hozott határozata – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható.

@@ -8,4 +8,4 @@ c) a beteg, illetve törvényes képviselője vállalja, hogy az elkülönítés
 
 (2) Fekvőbeteg-gyógyintézeti elkülönítés esetén a fertőző beteg intézeten belüli szabad mozgása, valamint kapcsolattartási joga korlátozható.
 
-(3) Ha a fertőző beteg fekvőbeteg-gyógyintézeti elkülönítésére vonatkozó kötelezettségének nem tesz eleget, az egészségügyi államigazgatási szerv kötelezi erre. Az elkülönítést kimondó határozat – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(3) Ha a fertőző beteg fekvőbeteg-gyógyintézeti elkülönítésére vonatkozó kötelezettségének nem tesz eleget, az egészségügyi államigazgatási szerv kötelezi erre. Az elkülönítést kimondó határozat – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható.
