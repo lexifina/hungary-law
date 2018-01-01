@@ -1,7 +1,7 @@
 36. § Hatályát veszti az Szt.
 
-a)
+a) 42. § (2a) és (6) bekezdése,
 
 b)–c)
 
-d)
+d) 84. § (4a) bekezdése.
