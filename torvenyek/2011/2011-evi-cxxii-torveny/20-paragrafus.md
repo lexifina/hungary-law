@@ -1,1 +1,1 @@
-20. § A 18–20. §-ban foglalt rendelkezések a másodfokú eljárásban is megfelelően irányadók.
+20. § A másodfokú bíróság a fellebbezést legkésőbb az iratok beérkezésétől számított tizenöt napon belül köteles elbírálni. A fellebbező fél ellenfele a fellebbezés kézbesítésétől számított három napon belül kérheti tárgyalás tartását, és öt napon belül köteles előterjeszteni írásban a fellebbezési ellenkérelmet és az esetleges csatlakozó fellebbezést.

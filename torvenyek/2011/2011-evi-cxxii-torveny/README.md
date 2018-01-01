@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-122-00-00
 | 2015-02-01 | 2014. évi LXXVIII. törvény | 2011-122-00-00.10 |
 | 2015-09-01 | 2015. évi CV. törvény | 2011-122-00-00.11 |
 | 2016-01-01 | 2014. évi LXXXVIII. törvény | 2011-122-00-00.12 |
+| 2018-01-01 | 2017. évi CXXX. törvény | 2011-122-00-00.13 |
