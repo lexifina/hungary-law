@@ -1,8 +1,7 @@
-61. § (1)[^119] A minősítő tanácsadóképző tanfolyamon a képzés a képzési programban meghatározott tanfolyami program és tematika alapján, valamint meghatározott időkeretben történik.
+61. §[^173] (1) A vezetőifejlesztő-képző (coachképző) tanfolyamon a képzés a miniszter által jóváhagyott képzési program alapján történik.
 
-(2) A képzés végén a résztvevő kompetencia alapú vizsgagyakorlatokon vesz részt.
+(2) A vezetőifejlesztő-képzés (coachképzés) végén a résztvevő záró felmérésen vesz részt.
 
-(3)[^120] A minősítő tanácsadóképzés eredményes teljesítéséről a miniszter tanúsítványt állít ki. A kiállított tanúsítványok nyilvántartását a miniszter végzi.
+(3) A vezetőifejlesztő-képzés (coachképzés) eredményes teljesítéséről a minisztérium tanúsítványt állít ki. A kiállított tanúsítványok nyilvántartását a minisztérium végzi.
 
-[^119]: A 61. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 69. § (1) bekezdés 23. pontja szerint módosított szöveg.
-[^120]: A 61. § (3) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés b) pontja szerint módosított szöveg.
+[^173]: A 61. § a 35/2017. (XII. 21.) BM rendelet 25. §-ával megállapított szöveg.

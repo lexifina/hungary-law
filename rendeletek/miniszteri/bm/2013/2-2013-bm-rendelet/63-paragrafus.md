@@ -1,4 +1,4 @@
-## 62. §[^121] A miniszter ellátja a minősített trénerek és a minősített tanácsadók továbbképzését, valamint tevékenységük minőségellenőrzését.
+## 62. §[^174] A minisztérium vezetőképzéssel kapcsolatos feladatokat ellátó szervezeti egysége végzi a vezetői fejlesztők (coachok) továbbképzését, valamint tevékenységük minőségellenőrzését.
 
 ## IV. Fejezet
 
@@ -8,4 +8,4 @@
 
 (2) A 36. § (2) bekezdés a) pontja, a 49. § e) pontja 2014. január 1-jén lép hatályba.
 
-[^121]: A 62. § a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^174]: A 62. § a 35/2017. (XII. 21.) BM rendelet 25. §-ával megállapított szöveg.

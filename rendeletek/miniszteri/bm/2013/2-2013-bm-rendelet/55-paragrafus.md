@@ -1,8 +1,10 @@
-## 17. A rendészeti vezetőképzési és tehetséggondozási rendszer működésével összefüggő egyéb képzések
+## 17. [^163] A rendészeti vezetőképzés működésével összefüggő egyéb képzések
 
-55. § (1)[^108] A miniszter jogosult minősített trénerek képzésére tanfolyamot szervezni.
+55. §[^164] (1) A minősített trénerek képzésére irányuló minősített-tréner-képző tanfolyamot a miniszter szervezi és hajtja végre.
 
-(2)[^109] A résztvevő a minősítő tréner-képző tanfolyam elvégzésével jogosulttá válik – a miniszter képzési programja szerint és felügyelete mellett – a rendészeti vezetővé képző tanfolyamon résztvevő állomány felkészítését végezni, illetve abban közreműködni.
+(2) A minősített-tréner-képző tanfolyam elvégzésével a résztvevő jogosulttá válik – a miniszter előzetes hozzájárulását követően és felügyelete mellett – a meghatározott képzési program szerint a rendészeti vezetővé képző tanfolyamon részt vevő állomány felkészítését ellátni, illetve abban közreműködni.
 
-[^108]: Az 55. § (1) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja szerint módosított szöveg.
-[^109]: Az 55. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 69. § (1) bekezdés 19. pontja, a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja szerint módosított szöveg.
+(3) A minősített tréner a (2) bekezdésben feltüntetett jogosultsága fenntartása érdekében a minisztérium által évente lebonyolított tréneri továbbképzésen vesz részt.
+
+[^163]: A 17. alcím címe a 35/2017. (XII. 21.) BM rendelet 27. § 43. pontja szerint módosított szöveg.
+[^164]: Az 55. § a 35/2017. (XII. 21.) BM rendelet 23. §-ával megállapított szöveg.

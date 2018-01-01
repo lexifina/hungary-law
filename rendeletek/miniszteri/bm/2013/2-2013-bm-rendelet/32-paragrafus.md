@@ -1,12 +1,13 @@
-## vezet.
+## 31/A. §[^123]
 
 ## 10. A rendészeti utánpótlási és vezetői adatbank
 
 ## 32. § A hivatásos állománynak az adatbank utánpótlási nyilvántartásába felvett tagja
 
-a)[^80] rendészeti vezetővé képző tanfolyamon vehet részt, vagy
+a)[^124] rendészeti vezetővé képző tanfolyamon vehet részt,
 
-b)[^81] – amennyiben a kiválasztási eljárás során a felmérést kiemelkedő teljesítménnyel zárta – részt vehet a rendészeti tehetséggondozási programban.
+b)[^125]
 
-[^80]: A 32. § a) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § d) pontja szerint módosított szöveg.
-[^81]: A 32. § b) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § e) pontja szerint módosított szöveg.
+[^123]: A 31/A. §-t a 76/2014. (XII. 29.) BM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 35/2017. (XII. 21.) BM rendelet 28. § (2) bekezdés a) pontja.
+[^124]: A 32. § a) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § d) pontja, a 35/2017. (XII. 21.) BM rendelet 28. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^125]: A 32. § b) pontját a 35/2017. (XII. 21.) BM rendelet 28. § (2) bekezdés b) pontja hatályon kívül helyezte.

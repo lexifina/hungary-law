@@ -1,8 +1,7 @@
-57. § (1)[^112] A minősítő tréner-képző tanfolyamon a képzés a képzési programban meghatározott tanfolyami program és tematika alapján, valamint meghatározott időkeretben történik.
+57. §[^167] (1) A minősített-tréner-képző tanfolyamon a képzés a miniszter által meghatározott képzési program szerint történik.
 
-(2) A képzés végén a résztvevő kompetencia alapú vizsgagyakorlatokon vesz részt.
+(2) A minősített-tréner-képző tanfolyam végén a résztvevő záró felmérésen vesz részt.
 
-(3)[^113] A minősítő tréner-képzés eredményes teljesítéséről a miniszter tanúsítványt állít ki. A kiállított tanúsítványok nyilvántartását a miniszter végzi.
+(3) A minősített-tréner-képző tanfolyam eredményes teljesítéséről a minisztérium tanúsítványt állít ki. A kiállított tanúsítványok nyilvántartását a minisztérium végzi.
 
-[^112]: Az 57. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 69. § (1) bekezdés 21. pontja szerint módosított szöveg.
-[^113]: Az 57. § (3) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés b) pontja szerint módosított szöveg.
+[^167]: Az 57. § a 35/2017. (XII. 21.) BM rendelet 24. §-ával megállapított szöveg.

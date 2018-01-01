@@ -1,14 +1,15 @@
-## 9. A vezető-kiválasztási eljárás
+## 9. [^106] A vezetőkiválasztási eljárás
 
-27. § (1)[^71] A hivatásos állomány tagja a Rendészeti Vezetőképzési és Tehetséggondozási Rendszerbe a miniszter által végzett vezető-kiválasztási eljárás útján kerülhet be. A vezető-kiválasztási eljárás részletes szabályait a tanulmányi és vizsgaszabályzat tartalmazza.
+27. § (1)[^107] A hivatásos állomány tagja a rendészeti vezetőképzésbe a minisztérium által végzett vezetőkiválasztási eljárás útján kerülhet be. A vezetőkiválasztási eljárás részletes szabályait a tanulmányi és vizsgaszabályzat tartalmazza.
 
-(2)[^72] A vezető-kiválasztási eljárást a miniszter a minisztérium közigazgatási államtitkárának, vagy a belügyi szerv vezetőjének kezdeményezésére soron kívül megindítja.
+(2)[^108] A vezetőkiválasztási eljárást a miniszter saját hatáskörben, illetve a minisztérium közigazgatási államtitkárának, vagy a belügyi szerv vezetőjének kezdeményezésére soron kívül megindítja.
 
-(3)[^73] A Rendészeti Vezetőképzési és Tehetséggondozási Rendszerbe önként jelentkező a vezető-kiválasztási eljárásban a minisztérium munkatervének megfelelő ütemezésben vesz részt.
+(3)[^109] A vezetőkiválasztási eljárásra önként jelentkező a vezetőkiválasztási eljárásban a minisztérium munkatervének megfelelő ütemezésben vesz részt.
 
-(4)[^74] A hivatásos állomány tagja a vezető-kiválasztási eljárásban való részvétel idejére mentesül a szolgálatteljesítési kötelezettség alól.
+(4)[^110] A hivatásos állomány tagja a vezetőkiválasztási eljárásban való részvétel idejére mentesül a szolgálatteljesítési kötelezettség alól.
 
-[^71]: A 27. § (1) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja szerint módosított szöveg.
-[^72]: A 27. § (2) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés l) pontja szerint módosított szöveg.
-[^73]: A 27. § (3) bekezdése a 45/2013. (VIII. 15.) BM rendelet 13. § c) pontja, a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés i) pontja szerint módosított szöveg.
-[^74]: A 27. § (4) bekezdését a 45/2013. (VIII. 15.) BM rendelet 12. § (2) bekezdése iktatta be.
+[^106]: A 9. alcím címe a 35/2017. (XII. 21.) BM rendelet 27. § 24. pontja szerint módosított szöveg.
+[^107]: A 27. § (1) bekezdése a 35/2017. (XII. 21.) BM rendelet 27. § 25–27. pontja szerint módosított szöveg.
+[^108]: A 27. § (2) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés l) pontja, a 35/2017. (XII. 21.) BM rendelet 27. § 24. és 28. pontja szerint módosított szöveg.
+[^109]: A 27. § (3) bekezdése a 45/2013. (VIII. 15.) BM rendelet 13. § c) pontja, a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés i) pontja, a 35/2017. (XII. 21.) BM rendelet 27. § 24. és 29. pontja szerint módosított szöveg.
+[^110]: A 27. § (4) bekezdését a 45/2013. (VIII. 15.) BM rendelet 12. § (2) bekezdése iktatta be, szövege a 35/2017. (XII. 21.) BM rendelet 27. § 24. pontja szerint módosított szöveg.
