@@ -1,1 +1,1 @@
-19. § A közterület használatára vonatkozó jogerős határozatban, tulajdonosi (kezelői) hozzájárulásban foglaltak megszegése vagy elmulasztása esetén a felügyelő köteles felhívni a kötelezettet az előírások betartására.
+19. § A közterület használatára vonatkozó végleges határozatban, tulajdonosi (kezelői) hozzájárulásban foglaltak megszegése vagy elmulasztása esetén a felügyelő köteles felhívni a kötelezettet az előírások betartására.

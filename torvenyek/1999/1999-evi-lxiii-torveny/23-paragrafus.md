@@ -1,4 +1,4 @@
-23. § (1) A felügyelő eljárására az ügy jellegétől függően a közigazgatási hatósági eljárás általános szabályairól szóló, illetőleg a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény rendelkezéseit kell alkalmazni.
+23. § (1) A felügyelő eljárására az ügy jellegétől függően az általános közigazgatási rendtartásról szóló, illetőleg a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) Az e törvényben szabályozott felügyelői intézkedések miatti jogorvoslatra a közigazgatási hatósági eljárás, illetőleg a szabálysértési eljárás szabályai az irányadók.
 
