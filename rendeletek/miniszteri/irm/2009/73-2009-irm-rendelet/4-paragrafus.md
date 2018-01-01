@@ -1,3 +1,5 @@
-4. § (1) Ha a bíróság az eljárás folyamán állapítja meg, hogy a munkavállalói költségkedvezmény feltételei nem álltak fenn, a munkavállalói költségkedvezményt megvonja.
+4. §[^2] (1) A bíróság a 3. § (1) bekezdése szerint határoz abban az esetben is, ha az eljárás folyamán állapítja meg, hogy a munkavállalói költségkedvezmény feltételei nem álltak fenn.
 
-(2) Ha az (1) bekezdés szerinti esetben a felet pártfogó ügyvéd képviseli, a bíróság a munkavállalói költségkedvezmény megvonásáról szóló határozat keltétől számított 8 napon belül a határozat megküldésével értesíti a pártfogó ügyvédi képviseletet engedélyező jogi segítségnyújtó szolgálatot.
+(2) Az (1) bekezdés szerinti esetben a költségmentesség és a költségfeljegyzési jog polgári és közigazgatási bírósági eljárásban történő alkalmazásáról szóló törvény tárgyi költségkedvezmény fenn nem állására vonatkozó rendelkezéseit megfelelően alkalmazni kell.
+
+[^2]: A 4. § a 20/2017. (XII. 21.) IM rendelet 30. § (2) bekezdésével megállapított szöveg.
