@@ -8,4 +8,6 @@ c) a díjfizetésre kötelezettek körének megállapítására az Itv. 31. § (
 
 d) a díjfizetés módjára az Itv. 73/A. §-át,
 
-e) a díjfizetés törlésére és visszatérítésére az Itv. 79. § (1) és (2) bekezdését, valamint az Itv. 80. § (1) bekezdés f) és g) pontját
+e)[^5] a díjfizetés törlésére és visszatérítésére az Itv. 79. § (2) bekezdését, valamint az Itv. 80. § (1) bekezdés f) és g) pontját
+
+[^5]: A 6. § (1) bekezdés e) pontja a 25/2017. (XII. 22.) IM rendelet 19. § b) pontja szerint módosított szöveg.

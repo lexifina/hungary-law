@@ -4,4 +4,6 @@
 
 (2) A díj megfizetése során az átutalási megbízás közlemény rovatában fel kell tüntetni a „kötelező szervezeti szabályozás jóváhagyása” szöveget.
 
-(3) Az eljárás lefolytatására irányuló kérelem (a továbbiakban: kérelem) benyújtásakor a díj megfizetését a kérelmező a Hatóság részére a számlavezető pénzforgalmi szolgáltató nevének, az átutalási megbízással befizetett díj összegének és a fizetési megbízás befogadása időpontjának közlésével igazolja.
+(3)[^2]
+
+[^2]: A 2. § (3) bekezdését a 25/2017. (XII. 22.) IM rendelet 19. § a) pontja hatályon kívül helyezte.
