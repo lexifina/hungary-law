@@ -2,7 +2,7 @@
 
 ## megállapítása
 
-10. §[^87] (1) A felszíni vizek partvonalát – kérelemre vagy hivatalból a környezet- és természetvédelmi előírásokra is figyelemmel – a vízügyi hatóság határozattal állapítja meg. A partvonalat, ha a terepadottságok vagy egyéb körülmények indokolják természetben is ki kell tűzni.
+10. §[^108] (1) A felszíni vizek partvonalát – kérelemre vagy hivatalból a környezet- és természetvédelmi előírásokra is figyelemmel – a vízügyi hatóság határozattal állapítja meg. A partvonalat, ha a terepadottságok vagy egyéb körülmények indokolják természetben is ki kell tűzni.
 
 (2) A partvonal megállapításánál – a már állandósult partvonal kivételével – figyelemmel kell lenni különösen:
 
@@ -36,4 +36,4 @@ f) a hatályos településfejlesztési tervekre.
 
 (11) A jogellenes mederfeltöltéssel kapcsolatos ügyekben egyebekben e rendeletnek a hatósági engedély nélkül vagy attól eltérően végzett létesítésre és üzemeltetésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-[^87]: A 10. § az 527/2013. (XII. 30.) Korm. rendelet 3. § (10) bekezdésével megállapított szöveg.
+[^108]: A 10. § az 527/2013. (XII. 30.) Korm. rendelet 3. § (10) bekezdésével megállapított szöveg.

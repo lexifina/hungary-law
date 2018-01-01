@@ -1,13 +1,41 @@
-## I.
+## I.[^1]
 
-## A hatósági jogkörben eljáró szervek
+## A hatósági eljárásra vonatkozó általános rendelkezések
 
-1. §[^1] (1) A vízgazdálkodásról szóló törvényben (a továbbiakban: Vgtv.), valamint az e rendeletben meghatározott, a vízgazdálkodással összefüggő első fokú vízügyi hatósági jogkört a területi vízügyi hatóság (a továbbiakban: vízügyi hatóság), a másodfokú vízügyi hatósági jogkört az Országos Vízügyi Hatóság gyakorolja.
+1. § (1) A vízgazdálkodásról szóló törvényben (a továbbiakban: Vgtv.), valamint az e rendeletben meghatározott, a vízgazdálkodással összefüggő elsőfokú vízügyi hatósági jogkört a területi vízügyi hatóság, a másodfokú vízügyi hatósági jogkört az országos vízügyi hatóság (a továbbiakban együttesen: a vízügyi hatóság) gyakorolja. Az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) szerinti felügyeleti szervként (a továbbiakban: felügyeleti szerv) az országos vízügyi hatóság jár el.
 
-(2) A helyi vízgazdálkodási hatósági jogkört első fokon a települési önkormányzat jegyzője, valamint a 25. § (2) bekezdésében foglaltak fennállása esetén a járási hivatal, másodfokon a fővárosi és megyei kormányhivatal gyakorolja.
+(2) A helyi vízgazdálkodási hatósági jogkört első fokon a települési önkormányzat jegyzője, valamint a 25. § (2) bekezdésében foglaltak fennállása esetén a járási hivatal, másodfokon a fővárosi és megyei kormányhivatal gyakorolja. Felügyeleti szervként a fővárosi és megyei kormányhivatal jár el.
 
-(3) E rendelet alkalmazásában az állami tulajdonban álló ingatlan esetében tulajdonos alatt az állami tulajdonban álló ingatlan felett jogszabály vagy szerződés alapján tulajdonosi jogokat gyakorló személyt vagy szervezetet kell érteni.
+(3) A helyi vízgazdálkodási hatósági eljárásban a vízügyi hatósági eljárásra vonatkozó rendelkezéseket kell alkalmazni, kivéve e rendelet
 
-(4) A vízügyi hatósági eljárásban a vízimunkával, vízhasználattal vagy vízilétesítménnyel érintett ingatlan tulajdonosa, vagyonkezelője, továbbá az építtető – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben az ügyféli jogállásra meghatározott előírások teljesülésének külön vizsgálata nélkül – ügyfélnek minősül. Ha a vízimunka, vízhasználat vagy vízilétesítmény állami tulajdonban lévő vizeket (felszíni vizeket, felszín alatti vizeket, a felszín alatti vizek természetes víztartó képződményeit), medret vagy vízilétesítményt érint, a működési területével érintett vízügyi igazgatóság a vízügyi hatósági eljárásban ügyfélnek minősül.
+a) 1/A. § (1) bekezdés b)–d) pontját,
 
-[^1]: Az 1. § az 527/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+b) 1/B. § (4) bekezdés b) és d)–f) pontját, valamint (5) bekezdését,
+
+c) 1/C. §-át,
+
+d) 1/E. §-át,
+
+e) 1/F. § (2)–(4) bekezdéseit,
+
+f) 1/G. §-át,
+
+g) 2. §-át,
+
+h) 4. §-át,
+
+i) 5. § (2a) bekezdését,
+
+j) 5/A–5/G. §-át,
+
+k) 6–8. §-át,
+
+l) 8/A. § (3) és (4) bekezdését,
+
+m) 8/B. és 8/C. §-át,
+
+n) 8/E–10. §-át,
+
+o) 21–23. §-át.
+
+[^1]: Az I. fejezet (1–1/H. §) az 518/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

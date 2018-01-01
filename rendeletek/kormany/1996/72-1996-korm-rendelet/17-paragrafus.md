@@ -2,10 +2,15 @@
 
 17. § (1) A vízgazdálkodási hatósági jogkör gyakorlásával összefüggésben keletkező, a Vgtv.-ben, valamint egyéb jogszabályban meghatározott – jogviszonyokból eredő kártalanítás felől – megegyezés hiányában – bíróság határoz. A kártalanítási igény elbírálása az államigazgatási eljárás lefolytatásának és a határozathozatalnak nem feltétele.
 
-(2)[^101] Vízimunka elvégzésével, vízilétesítmény megépítésével, fenntartásával, átalakításával és megszüntetésével összefüggő hatósági eljárás során az engedélyezett létesítménnyel kapcsolatos – a közös használat érdekeltségi arányából következő – költségek megosztásáról az érdekeltek megegyezésének hiányában a vízügyi hatóság határoz.
+(2)[^129] Vízimunka elvégzésével, vízilétesítmény megépítésével, fenntartásával, átalakításával és megszüntetésével összefüggő hatósági eljárás során az engedélyezett létesítménnyel kapcsolatos – a közös használat érdekeltségi arányából következő – költségek megosztásáról az érdekeltek megegyezésének hiányában a vízügyi hatóság határoz.
 
-(3)[^102] A (2) bekezdésben meghatározott döntés előtt a vízügyi hatóság – az államigazgatási eljárás általános szabályairól szóló törvény[^103] ezzel kapcsolatos szabályaira figyelemmel – egyezség létrehozását megkíséreli.
+(3)[^130] A (2) bekezdésben meghatározott döntés előtt a vízügyi hatóság megkíséreli az olyan egyezség létrehozását, amely
 
-[^101]: [A 17. § (2) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^102]: [A 17. § (3) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^103]: Az 1957: IV. törvényen – a 2005: LXXXIII. törvény 336. §-a alapján – a 2004: CXL. törvényt kell érteni.
+a) megfelel a jogszabályokban foglalt feltételeknek,
+
+b) nem sérti a közérdeket, mások jogát vagy jogos érdekét, és
+
+c) kiterjed a teljesítési határidőre és az eljárási költség viselésére.
+
+[^129]: [A 17. § (2) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^130]: A 17. § (3) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.

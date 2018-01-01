@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-72-20-2
 | 2016-01-01 | 1996-72-20-22.40 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-06-15 | 1996-72-20-22.41 | 100/2016. (V. 13.) Korm. rendelet |
 | 2017-04-01 | 1996-72-20-22.42 | 369/2016. (XI. 29.) Korm. rendelet |
+| 2018-01-01 | 1996-72-20-22.43 | 518/2017. (XII. 29.) Korm. rendelet |

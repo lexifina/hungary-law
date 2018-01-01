@@ -1,3 +1,11 @@
-## 5/C. §[^57] Vízkészlet lekötésére és vízhasználat gyakorlására vonatkozó vízjogi engedélyezés esetén a vízügyi hatóság az engedélyben a vízkészlet lekötéséről és a vízhasználat engedélyezéséről, a vízkészletjárulék kiszámításáról szóló miniszteri rendeletben meghatározott, az engedélyes fizetési kötelezettségének mértékét is meghatározó vízhasználat és vízkészlet jellege szerint rendelkezik.
+5/D. §[^65] (1) A vízügyi hatóság legfeljebb az eljárás megindítását megelőző tárgyévre állapíthatja meg a vízjogi engedélyezési kötelezettség alá tartozó, de engedély nélkül gyakorolt vízhasználat esetén a vízkészletjárulék kiszámításának alapjául szolgáló vízmennyiséget, valamint a Vgtv. 15/B. § (1) bekezdés c) pontjában és az 5/C. § (1) bekezdésben foglaltakat.
 
-[^57]: Az 5/C. §-t a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+(2) A vízügyi hatóság az engedély nélkül gyakorolt vízhasználatról
+
+a) az engedély nélkül gyakorolt tevékenység megszüntetéséről és a vízilétesítmény elbontásáról rendelkező határozatban, vagy
+
+b) fennmaradási engedélyezési eljárás esetén legkésőbb a fennmaradást engedélyező határozatban
+
+dönt, és rögzíti az (1) bekezdésben foglaltakat.
+
+[^65]: Az 5/D. §-t a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be, szövege az 518/2017. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
