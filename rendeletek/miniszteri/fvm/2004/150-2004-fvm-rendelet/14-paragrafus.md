@@ -1,10 +1,12 @@
+## 13. §[^35]
+
 ## Támogatási kérelem elbírálása
 
-14. § (1) A támogatási kérelmeket az MVH a benyújtási határidő lejárta után, pontozási rendszer alapján bírálja el. A pontozási rendszer az 5. § (1) bekezdése szerinti célprogram csoportonként külön-külön történik.
+14. § (1)[^36] A támogatási kérelmeket a Kincstár a benyújtási határidő lejárta után, pontozási rendszer alapján bírálja el. A pontozási rendszer az 5. § (1) bekezdése szerinti célprogram csoportonként külön-külön történik.
 
 (2) A támogatási kérelmek országos rangsorának összeállítása az 5. § (1) bekezdés a)–f) pontja szerinti egyes célprogram csoportokon belül külön-külön történik.
 
-(3)[^40] A területalapú támogatási kérelmek pontozása mezőgazdasági táblánként történik. A pontozása során az alábbi szempontok kerülnek figyelembevételre:
+(3)[^37] A területalapú támogatási kérelmek pontozása mezőgazdasági táblánként történik. A pontozása során az alábbi szempontok kerülnek figyelembevételre:
 
 a) a kérelmező lakhelyén/székhelyén a mezőgazdasági foglalkoztatottak aránya,
 
@@ -44,4 +46,6 @@ h) a választott célprogram jellege.
 
 (6) A támogatási kérelmek (3)–(4) bekezdésekben foglaltak szerinti részletes pontozási szempontrendszerét a 7. számú melléklet tartalmazza.
 
-[^40]: A 14. § (3) bekezdés bevezető szövegrésze a 108/2009. (VIII. 14.) FVM rendelet 7. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^35]: A 13. §-t a 37/2017. (XII. 27.) MvM rendelet 2. §-a hatályon kívül helyezte.
+[^36]: A 14. § (1) bekezdése a 37/2017. (XII. 27.) MvM rendelet 1. § c) pontja szerint módosított szöveg.
+[^37]: A 14. § (3) bekezdés bevezető szövegrésze a 108/2009. (VIII. 14.) FVM rendelet 7. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

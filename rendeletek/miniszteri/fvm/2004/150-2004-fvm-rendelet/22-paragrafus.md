@@ -22,13 +22,13 @@ b) a program első és utolsó gazdálkodási évében teljes körű (a pH, KA, 
 
 c) a talajvizsgálati eredmények alapján tápanyag-gazdálkodási terv készítése és végrehajtása,
 
-d)[^60] a biodiverzitás megőrzése, növelése érdekében a táblák legalább 5%-ának „ökológiai kompenzációs terület”-té kell átalakítani, ahol a kiegészítő célprogram csoporton belül a 47. §-ban foglalt füves mezsgyére vonatkozó előírásokat kell alkalmazni, vagy zöld ugart kell kialakítani,
+d)[^59] a biodiverzitás megőrzése, növelése érdekében a táblák legalább 5%-ának „ökológiai kompenzációs terület”-té kell átalakítani, ahol a kiegészítő célprogram csoporton belül a 47. §-ban foglalt füves mezsgyére vonatkozó előírásokat kell alkalmazni, vagy zöld ugart kell kialakítani,
 
-e)[^61] a mezőgazdasági táblák és autópályák, illetve első és másodrendű utak között legalább tíz méteres izolációs távolságot kell tartani, ahol az ökológiai kompenzációs területre vonatkozó előírások alkalmazhatók, és az izolációs távolságon belül növénytermesztés nem folytatható,
+e)[^60] a mezőgazdasági táblák és autópályák, illetve első és másodrendű utak között legalább tíz méteres izolációs távolságot kell tartani, ahol az ökológiai kompenzációs területre vonatkozó előírások alkalmazhatók, és az izolációs távolságon belül növénytermesztés nem folytatható,
 
 f) növényvédelmi előrejelzés szükséges.
 
-(4)[^62] A támogatás mértéke szántóföldi művelés esetében:
+(4)[^61] A támogatás mértéke szántóföldi művelés esetében:
 
 a) szántóföldi zöldségnövények esetében az átállási időszakban a célprogramba bevitt terület után 349 euró/ha, illetőleg
 
@@ -40,9 +40,9 @@ d) egyéb szántóföldi növények esetében az átállási időszak utáni, m�
 
 (5) A támogatási kérelemhez mellékelni kell azt az igazolást, amely tanúsítja, hogy a Magyarországon elismert ökológiai ellenőrző és tanúsító szervezet nyilvántartásában mekkora szántóterület szerepel, valamint tartalmazza, hogy abból a célprogramba bevinni kívánt területek ökológiai gazdálkodásra történő átállási időpontja (év) mikor kezdődött.
 
-(6)[^63] Csak a 2092/91/EGK Tanácsi rendelet alapján átállásra bejelentett terület jogosult átállási támogatásra. A támogatásra jogosult legfeljebb 2 egymást követő gazdálkodási évben vehet igénybe átállási időszakra vonatkozó támogatást. Amennyiben a támogatási kérelem benyújtásának naptári évében kezdte meg átállását, az átállási támogatásra 2 alkalommal jogosult. Amennyiben a támogatási kérelem benyújtásának naptári évet megelőző évben kezdte meg átállását akkor csak egy alkalommal jogosult átállási támogatásra. Az átállási idő meghosszabbítása nem lehetséges. Amennyiben egy tábla átállási időszaka újra kezdődik, abban az esetben az a tábla a programból kizárásra kerül.
+(6)[^62] Csak a 2092/91/EGK Tanácsi rendelet alapján átállásra bejelentett terület jogosult átállási támogatásra. A támogatásra jogosult legfeljebb 2 egymást követő gazdálkodási évben vehet igénybe átállási időszakra vonatkozó támogatást. Amennyiben a támogatási kérelem benyújtásának naptári évében kezdte meg átállását, az átállási támogatásra 2 alkalommal jogosult. Amennyiben a támogatási kérelem benyújtásának naptári évet megelőző évben kezdte meg átállását akkor csak egy alkalommal jogosult átállási támogatásra. Az átállási idő meghosszabbítása nem lehetséges. Amennyiben egy tábla átállási időszaka újra kezdődik, abban az esetben az a tábla a programból kizárásra kerül.
 
-[^60]: A 22. § (3) bekezdésének d) pontja a 6/2007. (I. 24.) FVM rendelet 4. §-a, a 108/2009. (VIII. 14.) FVM rendelet 7. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^61]: A 22. § (3) bekezdés e) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^62]: A 22. § (4) bekezdése az 51/2008. (IV. 24.) FVM rendelet 7. §-ával megállapított szöveg, e módosító rendelet 14. § (1) bekezdése alapján rendelkezéseit a 2007/2008. gazdálkodási év tekintetében is alkalmazni kell, a már lezárult gazdálkodási évek tekintetében e rendelkezéseket nem kell alkalmazni.
-[^63]: A 22. § (6) bekezdése a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
+[^59]: A 22. § (3) bekezdésének d) pontja a 6/2007. (I. 24.) FVM rendelet 4. §-a, a 108/2009. (VIII. 14.) FVM rendelet 7. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^60]: A 22. § (3) bekezdés e) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^61]: A 22. § (4) bekezdése az 51/2008. (IV. 24.) FVM rendelet 7. §-ával megállapított szöveg, e módosító rendelet 14. § (1) bekezdése alapján rendelkezéseit a 2007/2008. gazdálkodási év tekintetében is alkalmazni kell, a már lezárult gazdálkodási évek tekintetében e rendelkezéseket nem kell alkalmazni.
+[^62]: A 22. § (6) bekezdése a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.

@@ -254,6 +254,6 @@
 
 | Szerémi | ECP/GR ECCDB | <1 ha | gyűjteményekben |
 
-6. számú melléklet a 150/2004. (X. 12.) FVM rendelethez[^112]
+6. számú melléklet a 150/2004. (X. 12.) FVM rendelethez[^111]
 
-[^112]: A 6. számú mellékletet az 51/2008. (IV. 24.) FVM rendelet 14. § (2) bekezdése hatályon kívül helyezte.
+[^111]: A 6. számú mellékletet az 51/2008. (IV. 24.) FVM rendelet 14. § (2) bekezdése hatályon kívül helyezte.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-150-20-
 | 2011-01-14 | 2004-150-20-82.16 | 1/2011. (I. 11.) VM rendelet |
 | 2013-01-01 | 2004-150-20-82.17 | 151/2012. (XII. 29.) VM rendelet |
 | 2013-08-01 | 2004-150-20-82.18 | 70/2013. (VII. 31.) VM rendelet |
+| 2018-01-01 | 2004-150-20-82.19 | 37/2017. (XII. 27.) MvM rendelet |

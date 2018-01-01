@@ -44,8 +44,8 @@ b) kaszálás esetén:
 
 ba) nedves időszakban, amikor az élőhely károsulhat, a kaszálás tilos,
 
-bb)[^80] a rétek/legelők kaszálása során vadriasztó láncot kell alkalmazni, és csak természetvédelmi szempontból kedvező kaszálási módszerek alkalmazhatók (kaszálás a tábla közepétől kifelé haladva, a táblaszegélyeket utoljára kell lekaszálni).
+bb)[^79] a rétek/legelők kaszálása során vadriasztó láncot kell alkalmazni, és csak természetvédelmi szempontból kedvező kaszálási módszerek alkalmazhatók (kaszálás a tábla közepétől kifelé haladva, a táblaszegélyeket utoljára kell lekaszálni).
 
 (4) A támogatás mértéke a programba bevitt terület után 58,82 euró/ha.
 
-[^80]: A 29. § (3) bekezdés b) pont bb) alpontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) és (7) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
+[^79]: A 29. § (3) bekezdés b) pont bb) alpontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) és (7) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.

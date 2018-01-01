@@ -18,6 +18,6 @@ a) az első évben a programba bevitt terület után 168,63 euró/ha,
 
 b) a második évtől a programba bevitt terület után 62,75 euró/ha.
 
-(5)[^109] A támogatási kérelemhez mellékelni kell a területileg illetékes földművelésügyi igazgatóság igazolását arról, hogy a becserjésedés foka alapján a cserjeirtás indokolt.
+(5)[^108] A támogatási kérelemhez mellékelni kell a területileg illetékes földművelésügyi igazgatóság igazolását arról, hogy a becserjésedés foka alapján a cserjeirtás indokolt.
 
-[^109]: A 48. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 46. § b) pontja szerint módosított szöveg.
+[^108]: A 48. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 46. § b) pontja szerint módosított szöveg.

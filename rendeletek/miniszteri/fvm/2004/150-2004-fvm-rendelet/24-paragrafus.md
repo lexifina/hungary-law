@@ -12,7 +12,7 @@ b) a 3. számú mellékletben, illetve a 4. számú mellékletben szereplő növ
 
 (3) A program előírásai:
 
-a) a program első és utolsó gazdálkodási évében[^64] bővített (pH, KA, vízben oldható sók, humusz, CaCO3, P2O5, K2O, NO2+NO3, Na, Mg, SO4, Mn, Zn, Cu elemekre kiterjedő) talajvizsgálat elvégzése,
+a) a program első és utolsó gazdálkodási évében[^63] bővített (pH, KA, vízben oldható sók, humusz, CaCO3, P2O5, K2O, NO2+NO3, Na, Mg, SO4, Mn, Zn, Cu elemekre kiterjedő) talajvizsgálat elvégzése,
 
 b) a talajvizsgálati eredmények alapján tápanyag-gazdálkodási terv készítése és végrehajtása,
 
@@ -30,4 +30,4 @@ b) egyéb szántóföldi növény esetén a célprogramba bevitt terület után 
 
 (5) A támogatási kérelemhez mellékelni kell az Agrobotanikai Intézet igazolását a fajta jogosultságáról és meglétéről.
 
-[^64]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
+[^63]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.

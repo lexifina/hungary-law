@@ -10,11 +10,11 @@ b) Hevesi sík, Dévaványa környéke, Békés-Csanádi sík, Dunavölgyi sík,
 
 (3) A program előírásai:
 
-a) a program első és utolsó gazdálkodási évében[^75] bővített (pH, KA, vízben oldható sók, humusz, CaCO3, P2O5, K2O, NO2+NO3, Na, Mg, SO4, Mn, Zn, Cu elemekre kiterjedő) talajvizsgálat elvégzése,
+a) a program első és utolsó gazdálkodási évében[^74] bővített (pH, KA, vízben oldható sók, humusz, CaCO3, P2O5, K2O, NO2+NO3, Na, Mg, SO4, Mn, Zn, Cu elemekre kiterjedő) talajvizsgálat elvégzése,
 
 b) a talajvizsgálati eredmények alapján tápanyag-gazdálkodási terv készítése és végrehajtása,
 
-c)[^76] magas környezetterhelési kockázattal járó, a 2. számú melléklet ac) pontjában meghatározott növényvédő szer hatóanyagok használata tilos.
+c)[^75] magas környezetterhelési kockázattal járó, a 2. számú melléklet ac) pontjában meghatározott növényvédő szer hatóanyagok használata tilos.
 
 d) rovarölő szerek alkalmazása tilos,
 
@@ -22,7 +22,7 @@ e) a harmadik év során lucerna felülvetés kötelező, 50%-os vetőmagmennyis
 
 f) csak a felülvetéskor, maximum 90 kg/ha/év N-hatóanyag kijuttatása engedélyezett,
 
-g)[^77] 6 méter széles növényvédőszer mentes táblaszegélyeket kell hagyni,
+g)[^76] 6 méter széles növényvédőszer mentes táblaszegélyeket kell hagyni,
 
 h) a terület legalább 50%-án az első kaszálást június 15. után lehet elvégezni a területileg illetékes Nemzeti Park Igazgatóság írásos véleménye alapján,
 
@@ -36,6 +36,6 @@ l) kaszálás esetén vadriasztó lánc használata kötelező.
 
 (4) A támogatás mértéke a programba bevitt terület után 266,67 euró/ha.
 
-[^75]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
-[^76]: A 27. § (3) bekezdésének c) pontja a 34/2005. (IV. 15.) FVM rendelet 11. §-ának (5) bekezdésével megállapított szöveg.
-[^77]: A 27. § (3) bekezdés g) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^74]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
+[^75]: A 27. § (3) bekezdésének c) pontja a 34/2005. (IV. 15.) FVM rendelet 11. §-ának (5) bekezdésével megállapított szöveg.
+[^76]: A 27. § (3) bekezdés g) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

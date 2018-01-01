@@ -44,6 +44,6 @@
 
 ## * A szigorúság fokát a magasabb szám jelzi.
 
-2. számú melléklet a 150/2004. (X. 12.) FVM rendelethez[^111]
+2. számú melléklet a 150/2004. (X. 12.) FVM rendelethez[^110]
 
-[^111]: A 2. számú melléklet a 12/2009. (II. 27.) FVM rendelet 1. §-ával megállapított szöveg.
+[^110]: A 2. számú melléklet a 12/2009. (II. 27.) FVM rendelet 1. §-ával megállapított szöveg.

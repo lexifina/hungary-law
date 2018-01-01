@@ -56,6 +56,6 @@
 
 | összes pontszám | 100 | 100 | 100 | 100 | 100 |
 
-8. számú melléklet a 150/2004. (X. 12.) FVM rendelethez[^113]
+8. számú melléklet a 150/2004. (X. 12.) FVM rendelethez[^112]
 
-[^113]: A 8. számú melléklet a Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő és a 107/2005. (XI. 24.) FVM rendelet 6. § (3) bekezdése és a 6/2007. (I. 24.) FVM rendelet 6. §-a, valamint az 51/2008. (IV. 24.) FVM rendelet 13. § (2) bekezdése, a 108/2009. (VIII. 14.) FVM rendelet 7. § (2), (5) és (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
+[^112]: A 8. számú melléklet a Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő és a 107/2005. (XI. 24.) FVM rendelet 6. § (3) bekezdése és a 6/2007. (I. 24.) FVM rendelet 6. §-a, valamint az 51/2008. (IV. 24.) FVM rendelet 13. § (2) bekezdése, a 108/2009. (VIII. 14.) FVM rendelet 7. § (2), (5) és (7) bekezdése, a 37/2017. (XII. 27.) MvM rendelet 1. § e) és h) pontja szerint módosított szöveg.

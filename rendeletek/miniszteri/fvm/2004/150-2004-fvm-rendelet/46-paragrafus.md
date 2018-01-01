@@ -6,7 +6,7 @@
 
 a) a legkisebb támogatható szántóterület 1 ha,
 
-b)[^104] igazolás arról, hogy a tábla szélerózió elleni védelme indokolt,
+b)[^103] igazolás arról, hogy a tábla szélerózió elleni védelme indokolt,
 
 c) valamely szántóföldi célprogramban való részvétel (18–28. §-ban foglaltak alapján).
 
@@ -22,7 +22,7 @@ d) csak mechanikus gyomirtás engedélyezett, ezt a gyomok virágzása előtt ke
 
 (4) A támogatás mértéke a programba bevitt terület után 98,04 euró/ha.
 
-(5)[^105] A támogatási kérelemhez mellékelni kell a területileg illetékes földművelésügyi igazgatóság igazolását arról, hogy a tábla szélerózió elleni védelme indokolt.
+(5)[^104] A támogatási kérelemhez mellékelni kell a területileg illetékes földművelésügyi igazgatóság igazolását arról, hogy a tábla szélerózió elleni védelme indokolt.
 
-[^104]: A 46. § (2) bekezdés b) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
-[^105]: A 46. § (5) bekezdése a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése, a 70/2013. (VII. 31.) VM rendelet 46. § b) pontja szerint módosított szöveg.
+[^103]: A 46. § (2) bekezdés b) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
+[^104]: A 46. § (5) bekezdése a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése, a 70/2013. (VII. 31.) VM rendelet 46. § b) pontja szerint módosított szöveg.
