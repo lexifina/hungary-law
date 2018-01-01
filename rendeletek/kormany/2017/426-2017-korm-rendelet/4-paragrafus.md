@@ -1,0 +1,1 @@
+## „h) az európai uniós forrásból finanszírozott pénzügyi eszközök keretében nyújtott visszatérítendő támogatások kapcsán a kedvezményezett által hitel törlesztésként vagy részesedés ellenértékeként teljesített, ütemezett visszafizetésből eredő költségvetési bevételt, és”
