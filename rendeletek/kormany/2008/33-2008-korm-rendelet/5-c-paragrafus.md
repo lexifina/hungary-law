@@ -1,4 +1,4 @@
-5/C. §[^38] (1) Az elismerési és a honosítási eljárás megindítására irányuló, az eljáró hatósághoz benyújtandó kérelemhez az ügyfélnek csatolnia kell
+5/C. §[^39] (1) Az elismerési és a honosítási eljárás megindítására irányuló, az eljáró hatósághoz benyújtandó kérelemhez az ügyfélnek csatolnia kell
 
 a) az eredeti bizonyítvány vagy oklevél hiteles másolatát, illetve az eredeti oklevéllel azonos okirat (másodlat) hiteles másolatát,
 
@@ -18,4 +18,7 @@ b) nyújtson be olyan, a külföldi oktatási intézmény által kiállított ok
 
 (4) Az eljáró hatóság kivételes méltányosságból felmentheti az ügyfelet az (1) bekezdésben meghatározott okiratainak benyújtása alól, ha az ügyfél – a menedékjogról szóló törvény alapján – menekült, oltalmazott, menedékes vagy befogadott, és az ügyfél bizonyítja vagy valószínűsíti, hogy okiratai neki fel nem róható okból nem állnak rendelkezésére.
 
-[^38]: Az 5/C. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
+(5)[^40] A résztanulmányok beszámítására irányuló kérelemhez – az (1) bekezdésben foglaltaktól eltérően – az (1) bekezdés b) pontja szerinti okiratokat kell csatolni.
+
+[^39]: Az 5/C. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
+[^40]: Az 5/C. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 218. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

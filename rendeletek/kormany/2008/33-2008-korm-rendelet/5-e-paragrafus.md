@@ -1,4 +1,4 @@
-5/E. §[^40] (1) Az Etv. Harmadik része szerinti eljárásban az e §-ban meghatározott igazolások hiteles fordítása és hiteles másolata az eredeti igazolások kiállítását követő három hónapon belül használható fel.
+5/E. §[^43] (1) Az Etv. Harmadik része szerinti eljárásban az e §-ban meghatározott igazolások hiteles fordítása és hiteles másolata az eredeti igazolások kiállítását követő három hónapon belül használható fel.
 
 (2) Az eljáró hatóság a szakma gyakorlásához előírt körülmény megfelelő igazolásaként fogadja el a származási tagállam illetékes hatósága által e körülményről kiállított igazolást, illetve – ha adott tagállamban az adott tényről ilyen hatósági igazolás nem állítható ki – a származási tagállamban arra feljogosított más hatóság vagy szakmai szervezet által hitelesként igazolt nyilatkozatot vagy – ha a származási tagállam jogrendje azt elismeri – esküt.
 
@@ -18,4 +18,4 @@ b) ugyanolyan képzést nyújt-e valamely más tagállamban, mint amilyet ez az 
 
 c) által kiállított, képzés sikeres elvégzését tanúsító okirat ugyanazokat a szakmai jogosultságokat ruházza-e át, mint amelyeket a teljes egészében a származási tagállam területén folytatott képzés sikeres elvégzéséről kiállított okirat révén szerzett volna az ügyfél.
 
-[^40]: Az 5/E. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
+[^43]: Az 5/E. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.

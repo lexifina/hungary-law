@@ -10,7 +10,7 @@
 
 | 5. | Etv. 55. § (4) bekezdése szerint közokirat-hamisítással érintett képesítés | Oktatási Hivatal |
 
-4. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^52]
+4. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^57]
 
 Az Etv. XI/A. Fejezete szerinti európai szakmai kártya
 
@@ -28,4 +28,4 @@ Az Etv. XI/A. Fejezete szerinti európai szakmai kártya
 
 | 6. | ingatlanközvetítő | az ingatlan fekvése szerint illetékes megyeszékhely szerinti városi önkormányzat jegyzője, Pest megyében a megyei önkormányzat főjegyzője, Budapesten a Fővárosi Önkormányzat főjegyzője |
 
-[^52]: A 4. számú mellékletet a 345/2015. (XI. 19.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 112. § (10) bekezdés b) pontjával megállapított szöveg.
+[^57]: A 4. számú mellékletet a 345/2015. (XI. 19.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 112. § (10) bekezdés b) pontjával megállapított szöveg.

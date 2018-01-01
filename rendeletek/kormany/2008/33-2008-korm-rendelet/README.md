@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-33-20-2
 | 2017-01-01 | 2008-33-20-22.27 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-02-10 | 2008-33-20-22.28 | 21/2017. (II. 2.) Korm. rendelet |
 | 2017-04-01 | 2008-33-20-22.29 | 282/2011. (XII. 21.) Korm. rendelet |
+| 2018-01-01 | 2008-33-20-22.30 | 457/2017. (XII. 28.) Korm. rendelet |
