@@ -1,1 +1,0 @@
-A Kormány a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 174. § (1) bekezdésének d) pontjában kapott felhatalmazás alapján a következőket rendeli el:
