@@ -110,6 +110,6 @@
 
 ## 4.4. Az egyes (eszköz- és forrás-, illetve eredménykimutatási) tételeket a Számv. tv., valamint a Bszkr. szerinti előírásoknak megfelelően kell részletezni.
 
-2. melléklet a 48/2016. (XII. 12.) MNB rendelethez[^8]
+2. melléklet a 48/2016. (XII. 12.) MNB rendelethez[^10]
 
-[^8]: A 2. melléklet a 31/2017. (XI. 23.) MNB rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet a 31/2017. (XI. 23.) MNB rendelet 4. § (2) bekezdése szerint módosított szöveg.

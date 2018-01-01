@@ -1,6 +1,6 @@
 ## 20162C20000048_8
 
-7. melléklet a 48/2016. (XII. 12.) MNB rendelethez[^11]
+7. melléklet a 48/2016. (XII. 12.) MNB rendelethez[^13]
 
 A kisbiztosítónak nem minősülő biztosító felügyeleti jelentése kitöltésére vonatkozó részletes előírások
 
@@ -1114,4 +1114,4 @@ Az eszközök állományát piaci értéken kell szerepeltetni.
 
 5. oszlop A befektetési állomány változásának idővel súlyozott összege (nettó)
 
-[^11]: A 7. melléklet a 31/2017. (XI. 23.) MNB rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^13]: A 7. melléklet a 31/2017. (XI. 23.) MNB rendelet 4. § (5) bekezdésével megállapított szöveg.
