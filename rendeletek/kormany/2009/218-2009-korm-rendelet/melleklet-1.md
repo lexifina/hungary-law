@@ -1,4 +1,4 @@
-1. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^53]
+1. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^55]
 
 ## A kiemelt térségi és a megyei szintű területfejlesztési koncepció, valamint a kiemelt térségi és a megyei területrendezési terv közös feltáró-értékelő vizsgálatának tartalmi követelményei
 
@@ -146,4 +146,4 @@ a) a térség erősségeinek, gyengeségeinek, lehetőségeinek és a térséget
 
 b) a térség lehetséges fejlesztési irányainak bemutatása, és ezek alapján a lehetséges cselekvési területek azonosítása.
 
-[^53]: Az 1. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^55]: Az 1. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.

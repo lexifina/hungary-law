@@ -244,6 +244,6 @@
 
 ## eb) régió, kiemelt térség, megye vagy megye egy térségének területrendezési terve: M = 1:50 000–1:100 000.
 
-8. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^61]
+8. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^63]
 
-[^61]: A 8. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^63]: A 8. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.

@@ -1,14 +1,14 @@
-## 19. §[^42] A területfejlesztési koncepció és program esetén a véleményezésre 45 napot kell biztosítani.
+## 19. §[^44] A területfejlesztési koncepció és program esetén a véleményezésre 45 napot kell biztosítani.
 
 20. § (1) A területrendezési tervek véleményezésére jogosultak körét a 11. melléklet tartalmazza.
 
-(2)[^43] Az OTrT véleményezési lehetőségét biztosítani kell a 11. melléklet 1–10. pontjában és 12–15. pontjában meghatározottaknak.
+(2)[^45] Az OTrT véleményezési lehetőségét biztosítani kell a 11. melléklet 1–10. pontjában és 12–15. pontjában meghatározottaknak.
 
-(3)[^44] Több megye közös területrendezési terve, a Budapesti Agglomeráció, a Balaton Kiemelt Üdülőkörzet és az egyéb kiemelt térségek területrendezési terve véleményezési lehetőségét biztosítani kell a 11. melléklet 1–16. pontjában meghatározottaknak.
+(3)[^46] Több megye közös területrendezési terve, a Budapesti Agglomeráció, a Balaton Kiemelt Üdülőkörzet és az egyéb kiemelt térségek területrendezési terve véleményezési lehetőségét biztosítani kell a 11. melléklet 1–16. pontjában meghatározottaknak.
 
-(4)[^45] A megye területrendezési terve véleményezési lehetőségét biztosítani kell a 11. melléklet 1–11. és 13–16. pontjában meghatározottaknak.
+(4)[^47] A megye területrendezési terve véleményezési lehetőségét biztosítani kell a 11. melléklet 1–11. és 13–16. pontjában meghatározottaknak.
 
-(5)[^46] A megyék kivételével az országra és a határ menti térségekre vonatkozó területrendezési tervet a külpolitikáért felelős miniszter véleményezésre megküldi a szomszédos országok területrendezésért felelős miniszterének.
+(5)[^48] A megyék kivételével az országra és a határ menti térségekre vonatkozó területrendezési tervet a külpolitikáért felelős miniszter véleményezésre megküldi a szomszédos országok területrendezésért felelős miniszterének.
 
 (6) A határ menti megyék területrendezési tervét a kidolgozásért felelős szerv véleményezésre megküldi a szomszédos országok megyének megfelelő közigazgatási egységei részére.
 
@@ -16,8 +16,8 @@
 
 (8) A területrendezési tervek esetében a szomszédos országokkal történő egyeztetés, az előkészítő fázist követően a tervezési programot bemutató dokumentumból készített kivonattal is kezdeményezhető.
 
-[^42]: A 19. § a 67/2012. (IV. 5.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^43]: A 20. § (2) bekezdése a 280/2017. (IX. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^44]: A 20. § (3) bekezdése a 280/2017. (IX. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^45]: A 20. § (4) bekezdése a 280/2017. (IX. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^46]: A 20. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 452. § b) pontja szerint módosított szöveg.
+[^44]: A 19. § a 67/2012. (IV. 5.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^45]: A 20. § (2) bekezdése a 280/2017. (IX. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^46]: A 20. § (3) bekezdése a 280/2017. (IX. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^47]: A 20. § (4) bekezdése a 280/2017. (IX. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^48]: A 20. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 452. § b) pontja szerint módosított szöveg.

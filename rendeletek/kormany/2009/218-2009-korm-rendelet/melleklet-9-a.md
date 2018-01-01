@@ -1,4 +1,4 @@
-9/A. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^63]
+9/A. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^65]
 
 ## A területrendezési tervek megalapozását szolgáló területi (környezeti, társadalmi és gazdasági) hatásvizsgálat tartalmi követelményei
 
@@ -58,4 +58,4 @@ VII. A feltárt konfliktusok feloldására, a káros hatások ellentételezésé
 
 VIII. Javaslat olyan környezeti, társadalmi és gazdasági szempontú előírásokra, feltételekre, amelyeket a terv által befolyásolt más terveknél figyelembe kell venni.
 
-[^63]: A 9/A. mellékletet a 280/2017. (IX. 22.) Korm. rendelet 14. § (4) bekezdése iktatta be.
+[^65]: A 9/A. mellékletet a 280/2017. (IX. 22.) Korm. rendelet 14. § (4) bekezdése iktatta be.

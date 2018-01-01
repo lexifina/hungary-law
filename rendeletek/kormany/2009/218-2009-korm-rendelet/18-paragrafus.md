@@ -2,14 +2,14 @@
 
 (2) Az OTK-t véleményezésre meg kell küldeni a 10. melléklet 1–9. és 12–13. pontjában meghatározottaknak.
 
-(3)[^39]
+(3)[^41]
 
 (4) A kiemelt térségre vonatkozó területfejlesztési koncepció és program egyeztetésénél (2) bekezdés szerint kell eljárni.
 
-(5)[^40] A megyei területfejlesztési koncepciót és programot véleményezésre meg kell küldeni a 10. melléklet 1. és 2., 6–8., 10. és 13. pontjában meghatározott szerveknek, továbbá a szomszédos megyei önkormányzatoknak.
+(5)[^42] A megyei területfejlesztési koncepciót és programot véleményezésre meg kell küldeni a 10. melléklet 1. és 2., 6–8., 10. és 13. pontjában meghatározott szerveknek, továbbá a szomszédos megyei önkormányzatoknak.
 
-(6)[^41]
+(6)[^43]
 
-[^39]: A 18. § (3) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 24. § d) pontja hatályon kívül helyezte.
-[^40]: A 18. § (5) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 22. § (6) bekezdésével megállapított szöveg.
-[^41]: A 18. § (6) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 24. § d) pontja hatályon kívül helyezte.
+[^41]: A 18. § (3) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 24. § d) pontja hatályon kívül helyezte.
+[^42]: A 18. § (5) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 22. § (6) bekezdésével megállapított szöveg.
+[^43]: A 18. § (6) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 24. § d) pontja hatályon kívül helyezte.

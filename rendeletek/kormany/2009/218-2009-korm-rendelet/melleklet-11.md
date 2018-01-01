@@ -1,4 +1,4 @@
-11. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^75]
+11. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^77]
 
 ## A területrendezési tervek véleményezésére jogosult szervek
 
@@ -12,9 +12,9 @@ b) Központi Statisztikai Hivatal,
 
 c) Országos Atomenergia Hivatal;
 
-3.[^76] Magyar Bányászati és Földtani Szolgálat;
+3.[^78] Magyar Bányászati és Földtani Szolgálat;
 
-4.[^77] országos tisztifőorvos;
+4.[^79] országos tisztifőorvos;
 
 5. Országos Környezetvédelmi Tanács;
 
@@ -62,6 +62,6 @@ d) a működési területével érintett vízügyi igazgatóság,
 
 16. az érintett települési önkormányzatok.
 
-[^75]: A 11. melléklet a 379/2016. (XII. 2.) Korm. rendelet 144. § (1) bekezdésével megállapított szöveg.
-[^76]: A 11. melléklet 3. pontja a 162/2017. (VI. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.
-[^77]: A 11. melléklet 4. pontja a 379/2016. (XII. 2.) Korm. rendelet 144. § (2) bekezdés c) pontjával megállapított szöveg.
+[^77]: A 11. melléklet a 379/2016. (XII. 2.) Korm. rendelet 144. § (1) bekezdésével megállapított szöveg.
+[^78]: A 11. melléklet 3. pontja a 162/2017. (VI. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^79]: A 11. melléklet 4. pontja a 379/2016. (XII. 2.) Korm. rendelet 144. § (2) bekezdés c) pontjával megállapított szöveg.
