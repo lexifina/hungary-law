@@ -42,6 +42,6 @@
 
 | 17 | 49–51 | 157 130 | 180 372 | 197 646 | 214 547 | 263 767 | 342 843 | 362 069 | 402 193 | 419 520 | 460 669 |
 
-8. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^51]
+8. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^59]
 
-[^51]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés d) pontja iktatta be, szövege a 461/2016. (XII. 23.) Korm. rendelet 10. § e) pontjával megállapított szöveg.
+[^59]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés d) pontja iktatta be, szövege a 461/2016. (XII. 23.) Korm. rendelet 10. § e) pontjával megállapított szöveg.
