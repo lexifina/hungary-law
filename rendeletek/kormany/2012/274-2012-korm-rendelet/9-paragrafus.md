@@ -10,9 +10,18 @@
 
 (3) Ha a hivatásos állomány tagja magasabb beosztásból vagy munkakörből kerül a (2) bekezdésben meghatározott beosztásba vagy munkakörbe és nem rendelkezik rendészeti szakvizsgával, a rendészeti szakvizsgát a beosztásba helyezést követő két éven belül köteles megszerezni.
 
-(4)–(5)[^14]
+(4)–(5)[^21]
 
-(6)[^15] Rendészeti szakvizsgára önkéntesen a hivatásos állomány azon tagja jelentkezhet, aki felsőfokú végzettséggel és rendészeti szakképzettséggel rendelkezik. Rendészeti szakvizsgát tehet az a köztisztviselő, kormánytisztviselő vagy állami tisztviselő is, aki felsőfokú végzettséggel, közigazgatási vagy jogi szakvizsgával, vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább három év közigazgatási gyakorlattal rendelkezik.
+(6)[^22] Rendészeti szakvizsgára önkéntesen a hivatásos állomány azon tagja jelentkezhet, aki
 
-[^14]: A 9. § (4)–(5) bekezdését a 157/2015. (VI. 25.) Korm. rendelet 35. §-a hatályon kívül helyezte.
-[^15]: A 9. § (6) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 35. §-ával megállapított szöveg.
+a) rendészeti szakképzettséggel, vagy
+
+b) felsőfokú végzettséggel és rendészeti tárgyú szakképesítéssel
+
+## rendelkezik.
+
+(7)[^23] Rendészeti szakvizsgát tehet az a köztisztviselő, kormánytisztviselő vagy állami tisztviselő is, aki felsőfokú végzettséggel, közigazgatási vagy jogi szakvizsgával, vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább három év közigazgatási gyakorlattal rendelkezik.
+
+[^21]: A 9. § (4)–(5) bekezdését a 157/2015. (VI. 25.) Korm. rendelet 35. §-a hatályon kívül helyezte.
+[^22]: A 9. § (6) bekezdése a 396/2017. (XII. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^23]: A 9. § (7) bekezdését a 396/2017. (XII. 13.) Korm. rendelet 6. § (2) bekezdése iktatta be.

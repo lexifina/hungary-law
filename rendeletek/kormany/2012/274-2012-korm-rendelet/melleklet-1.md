@@ -1,3 +1,5 @@
+## szakterületéhez besorolt személy vonatkozásában meg kell vizsgálni, hogy a vizsgabizottsági névjegyzéken szereplő valamely más szakterülethez – a 23. § (5) bekezdés a) pontjában foglaltak figyelembevételével – átsorolható-e, majd nyilatkoztatni kell, hogy kéri-e a más szakterülethez történő besorolást. A vizsgáztató 23. § (1) bekezdése szerinti szakterülethez történő átsorolásáról 2018. január 31-éig kell gondoskodni, vagy ha az átsorolás feltételei nem állnak fenn, vagy a vizsgáztató ezt nem kéri, őt a vizsgabizottsági névjegyzékből törölni kell.
+
 1. melléklet a 274/2012. (IX. 28.) Korm. rendelethez
 
 ## A rendészeti alapvizsga követelményrendszere
@@ -24,7 +26,7 @@ I. Közigazgatási alapismeretek
 
 10. Információbiztonság és adatvédelem, a híradásra, összeköttetésre és adattovábbításra vonatkozó sajátos lehetőségek és szabályok
 
-11.[^33] Nemzetpolitika
+11.[^68] Nemzetpolitika
 
 II. Rendészeti alapismeretek
 
@@ -38,7 +40,7 @@ II. Rendészeti alapismeretek
 
 5. Magatartási szabályok szolgálatban és szolgálaton kívül, viselkedési és közszolgálati etikai szabályok
 
-6.[^34] A rendvédelmi feladatokat ellátó szerveknél a szolgálati viszonyra vonatkozó általános szabályok, jogosultságok, kötelezettségek, valamint juttatások, járandóságok, karrierlehetőségek
+6.[^69] A rendvédelmi feladatokat ellátó szerveknél a szolgálati viszonyra vonatkozó általános szabályok, jogosultságok, kötelezettségek, valamint juttatások, járandóságok, karrierlehetőségek
 
 7. A szolgálati érintkezés szabályai, a szolgálati feladatok ellátásának egységesen érvényes rendje
 
@@ -56,5 +58,5 @@ II. Rendészeti alapismeretek
 
 14. Pszichológiai, intézkedés-lélektani és kommunikációs alapismeretek
 
-[^33]: Az 1. melléklet I. pont 11. alpontját a 303/2013. (VII. 31.) Korm. rendelet 18. §-a iktatta be.
-[^34]: Az 1. melléklet II. pont 6. alpontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^68]: Az 1. melléklet I. pont 11. alpontját a 303/2013. (VII. 31.) Korm. rendelet 18. §-a iktatta be.
+[^69]: Az 1. melléklet II. pont 6. alpontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.

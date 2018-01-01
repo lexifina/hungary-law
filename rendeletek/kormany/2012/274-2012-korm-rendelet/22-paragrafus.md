@@ -22,4 +22,6 @@ g) a vizsgákról statisztikai célú összesítést készít,
 
 h) vezeti a Rendészeti Szakvizsga Vizsgabizottsági Névjegyzéket és a Rendészeti Alapvizsga Vizsgabiztosi Névjegyzéket.
 
-(2) A RASZB egyetértésével elkészíti és a rendészetért felelős miniszterhez jóváhagyásra benyújtja a vizsgaszabályzatot, melyet a jóváhagyást követően a Hivatalos Értesítőben közzé kell tenni. A vizsgaszabályzat tartalmazza a vizsgafelkészítés és a vizsgák rendjére vonatkozó részletes szabályokat, a vizsgajegyzőkönyvekről és a vizsgaokmányokról szóló iratmintákat.
+(2)[^50] A RASZB egyetértésével elkészíti és a központi szerv vezetőjéhez jóváhagyásra benyújtja a vizsgaszabályzatot, melyet a jóváhagyást követően a Hivatalos Értesítőben közzé kell tenni. A vizsgaszabályzat tartalmazza a vizsgafelkészítés és a vizsgák rendjére vonatkozó részletes szabályokat, a vizsgajegyzőkönyvekről és a vizsgaokmányokról szóló iratmintákat.
+
+[^50]: A 22. § (2) bekezdése a 396/2017. (XII. 13.) Korm. rendelet 18. § k) pontja szerint módosított szöveg.

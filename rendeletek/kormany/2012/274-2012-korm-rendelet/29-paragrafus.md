@@ -1,13 +1,19 @@
-29. § (1)[^32] A felkészítést végző előadót felkészítési óradíj illeti meg. A felkészítési óradíj a rendvédelmi illetményalap összegének 15%-a.
+29. §[^66] (1) A rendészeti alap- és szakvizsgára történő felkészítést végző előadót – ha az nem a munkakörével vagy szolgálati beosztásával járó, munkaköri leírásban rögzített feladata – felkészítési óradíj illeti meg. A felkészítési óradíj a rendvédelmi illetményalap társadalombiztosítási járulékkal növelt összegének 15%-a. A rendészeti szakvizsga írásbeli feladatlapjainak és javítókulcsainak elkészítőit díj illeti meg, amely feladatlaponként – és a hozzá tartozó javítókulcsonként – a rendvédelmi illetményalap társadalombiztosítási járulékkal növelt összegének 100%-a.
 
-(2) A vizsgabizottság elnökét, tagjait és jegyzőjét, továbbá a vizsgabiztost vizsgáztatási díj illeti meg. A rendészeti alapvizsga esetében vizsgánként, a rendészeti szakvizsga esetében vizsgatárgyanként a befizetett vizsgadíjak összegének
+(2) A rendészeti szakvizsga vonatkozásában a vizsgabizottság elnökét, tagját és jegyzőjét – ha az nem a munkakörével vagy szolgálati beosztásával járó, munkaköri leírásban rögzített feladata – vizsgáztatási díj illeti meg. Vizsgatárgyanként a megjelent vizsgázók után befizetett vizsgadíj társadalombiztosítási járulékkal növelt összegének
 
-a) 25%-a a bizottság elnökét, 20-20%-a a két bizottsági tagot, 5%-a a jegyzőt, valamint a vizsgabiztost illeti meg,
+a) 25%-a a bizottság elnökét,
 
-b) 5%-a az írásbeli feladatok és a javító kulcsok elkészítőit illeti meg, továbbá
+b) 20–20%-a a két bizottsági tagot,
 
-c) 25%-át a vizsgáztatás dologi kiadásaira kell fordítani.
+c) 15%-a a jegyzőt
 
-(3) A vizsgáztatási díj a vizsgabizottság elnökét a megjelent vizsgázók száma alapján, a vizsgabizottsági tagokat a vizsgázók írásbeli és szóbeli vizsgarészeinek száma alapján, arányosan illeti meg.
+## illeti meg. A fennmaradó 20%-ot a vizsgáztatás dologi kiadásaira kell fordítani.
 
-[^32]: A 29. § (1) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 34. § e) pontja szerint módosított szöveg.
+(3) A rendészeti alapvizsga vonatkozásában a vizsgabiztost vizsgáztatási díj illeti meg, amelynek mértéke vizsgánként a megjelent vizsgázók után befizetett vizsgadíj társadalombiztosítási járulékkal növelt összegének a 15%-a. A fennmaradó 85%-ot a vizsgáztatás dologi kiadásaira és az elektronikus vizsgáztatás költségeire kell fordítani.
+
+(4) Ha a felkészítésre vagy a vizsgára a felkészítést végző előadó, a vizsgáztató, a vizsgabizottság elnöke, tagja, a jegyző és a vizsgabiztos lakóhelyétől, valamint tartózkodási helyétől eltérő helységben kerül sor, őt a felkészítési óradíj, illetve a vizsgáztatási díj mellett utazási költségtérítés is megilleti.
+
+(5) A (4) bekezdés szerinti utazási költségtérítés elszámolása tömegközlekedési eszköz igénybevétele esetén a menetjegy, saját gépjármű használata esetén a személyi jövedelemadóról szóló törvény, valamint a munkába járással kapcsolatos utazási költségtérítésről szóló kormányrendelet alapján történik. Vasút igénybevétele esetén 2. osztályú menetjegy számolható el.
+
+[^66]: A 29. § a 396/2017. (XII. 13.) Korm. rendelet 15. §-ával megállapított szöveg.

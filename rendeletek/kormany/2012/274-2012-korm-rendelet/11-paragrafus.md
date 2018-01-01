@@ -2,15 +2,16 @@
 
 11. § (1) A rendészeti szakvizsgára jelentkezőnek a rendészeti szakvizsgára jelentkezéskor érvényes vizsgatárgyakból, a vizsgakövetelmények alapján meghatározott ismeretanyag és az annak megfelelően kidolgozott és közzétett vizsgakérdés-sor alapján kell a rendészeti szakvizsgát teljesíteni. A rendészeti szakvizsga követelményrendszerét a 2. melléklet tartalmazza.
 
-(1a)[^19] A 2. mellékletben meghatározott követelményrendszeren alapuló, elvárt ismeretanyagot a RASZB határozza meg és a rendészetért felelős miniszter hagyja jóvá és azt a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzé kell tenni.
+(1a)[^30] A 2. mellékletben meghatározott követelményrendszeren alapuló, elvárt ismeretanyagot a RASZB határozza meg és a rendészetért felelős miniszter hagyja jóvá és azt a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzé kell tenni.
 
-(2) A rendészeti szakvizsga követelményrendszerén alapuló felkészítő tananyagot a RASZB határozza meg és a rendészetért felelős miniszter hagyja jóvá. A tananyagot évente felül kell vizsgálni, és a tárgyévet megelőző év november 30-áig a rendészetért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
+(2)[^31] A rendészeti szakvizsga követelményrendszerén alapuló felkészítő tananyagot a RASZB határozza meg, és a rendészetért felelős miniszter hagyja jóvá. A tananyagot kétévente felül kell vizsgálni, és a tárgyévet megelőző év november 30-áig az RVTV felületén közzé kell tenni. A tananyag közzétételét követően a Rendészeti Szakvizsga Vizsgabizottsági Névjegyzékben (a továbbiakban: vizsgabizottsági névjegyzék) szereplő személy továbbképzésen köteles részt venni.
 
-(2a)[^20] A rendészeti szakvizsga kötelező vizsgatárgyának Közigazgatási ismeretek ismeretrésze vonatkozásában az (1a) bekezdés szerinti ismeretanyaghoz, valamint a (2) bekezdés szerinti tananyaghoz a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter jóváhagyása is szükséges.
+(2a)[^32] A rendészeti szakvizsga kötelező vizsgatárgyának Közigazgatási ismeretek ismeretrésze vonatkozásában az (1a) bekezdés szerinti ismeretanyaghoz, valamint a (2) bekezdés szerinti tananyaghoz a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter jóváhagyása is szükséges.
 
 (3) A központi szerv biztosítja a tananyaghoz az elektronikus hozzáférést a honlapján.
 
 (4) A rendészeti szakvizsga követelményrendszerének, valamint a tananyag megismerhetőségének lehetőségeiről a jelentkezőt a vizsgafelkészítő és a vizsga időpontjáról szóló értesítésben tájékoztatni kell.
 
-[^19]: A 11. § (1a) bekezdését a 394/2015. (XII. 12.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^20]: A 11. § (2a) bekezdését a 394/2015. (XII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^30]: A 11. § (1a) bekezdését a 394/2015. (XII. 12.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^31]: A 11. § (2) bekezdése a 396/2017. (XII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^32]: A 11. § (2a) bekezdését a 394/2015. (XII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
