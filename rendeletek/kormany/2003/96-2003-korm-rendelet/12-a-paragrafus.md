@@ -1,4 +1,4 @@
-12/A. §[^69] (1) Az Eütv. 108/A. §-a szerinti bejelentést a személyes közreműködő teszi meg. Ha a személyes közreműködő e tevékenységét az igénybe vevő szolgáltató több szervezeti egységében is végzi, a bejelentést ezen szervezeti egységek tekintetében kell megtenni.
+12/A. §[^73] (1) Az Eütv. 108/A. §-a szerinti bejelentést a személyes közreműködő teszi meg. Ha a személyes közreműködő e tevékenységét az igénybe vevő szolgáltató több szervezeti egységében is végzi, a bejelentést ezen szervezeti egységek tekintetében kell megtenni.
 
 (2) A praxisengedélyhez kötött egészségügyi szolgáltatások személyes közreműködés keretében nem végezhetők.
 
@@ -26,7 +26,7 @@ fa) cégnevét
 
 fb) a személyes közreműködő szervezet KSH törzsszámát (új, egyéni vállalkozás keretében működni kívánó egészségügyi szolgáltató kivételével),
 
-g)[^70] a tevékenységet végző egészségügyi dolgozók nevét, pecsétszámát vagy működési nyilvántartási számát, egészségügyi alkalmassági vizsgálatának dátumát és eredményét, valamint foglalkoztatásra irányuló jogviszony típusát.
+g)[^74] a tevékenységet végző egészségügyi dolgozók nevét, pecsétszámát vagy működési nyilvántartási számát, egészségügyi alkalmassági vizsgálatának dátumát és eredményét, valamint foglalkoztatásra irányuló jogviszony típusát.
 
 (7) A bejelentéshez mellékelni kell a személyes közreműködésről szóló szerződést.
 
@@ -38,13 +38,14 @@ b) a tevékenységet végző egészségügyi dolgozók vonatkozásában a műkö
 
 (9) A személyes közreműködés tényét az (5) bekezdés szerinti egészségügyi államigazgatási szerv az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló rendelet alapján vezetett nyilvántartásban rögzíti.
 
-(10)[^71] A bejelentés nyilvántartásba vételéről az (5) bekezdés szerinti egészségügyi államigazgatási szerv értesítést küld a bejelentő egészségügyi szolgáltató részére.
+(10)[^75] A bejelentés nyilvántartásba vételéről az (5) bekezdés szerinti egészségügyi államigazgatási szerv értesítést küld a bejelentő egészségügyi szolgáltató részére.
 
-(11) Az egészségügyi államigazgatási szerv a bejelentés szerinti adatokat és a közreműködői szerződést megvizsgálja. Ha a bejelentésben foglalt tevékenység nem felel meg az egészségügyi szolgáltatás személyes közreműködés keretében történő gyakorlására vonatkozó szabályoknak, az államigazgatási szerv a személyes közreműködő nyilvántartásba vételét elutasítja.
+(11)[^76] Az egészségügyi államigazgatási szerv a bejelentés szerinti adatokat és a közreműködői szerződést megvizsgálja. Ha a bejelentésben foglalt tevékenység nem felel meg az egészségügyi szolgáltatás személyes közreműködés keretében történő gyakorlására vonatkozó szabályoknak, az államigazgatási szerv a személyes közreműködő nyilvántartásba vételét visszautasítja.
 
-(12)[^72] A (11) bekezdés szerinti határozatot közölni kell a közreműködést igénybe vevő szolgáltatóval és közszolgáltatás keretében történő tevékenységvégzés esetén a Nemzeti Egészségbiztosítási Alapkezelővel vagy az egészségügyi közszolgáltatást finanszírozó más állami szervvel.
+(12)[^77] A (11) bekezdés szerinti határozatot közölni kell a közreműködést igénybe vevő szolgáltatóval és közszolgáltatás keretében történő tevékenységvégzés esetén a Nemzeti Egészségbiztosítási Alapkezelővel vagy az egészségügyi közszolgáltatást finanszírozó más állami szervvel.
 
-[^69]: A 12/A. §-t az 520/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
-[^70]: A 12/A. § (6) bekezdés g) pontja a 364/2014. (XII. 30.) Korm. rendelet 57. § d) pontja szerint módosított szöveg.
-[^71]: A 12/A. § (10) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 48. § b) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^72]: A 12/A. § (12) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^73]: A 12/A. §-t az 520/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
+[^74]: A 12/A. § (6) bekezdés g) pontja a 364/2014. (XII. 30.) Korm. rendelet 57. § d) pontja szerint módosított szöveg.
+[^75]: A 12/A. § (10) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 48. § b) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^76]: A 12/A. § (11) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 117. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^77]: A 12/A. § (12) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés b) pontja szerint módosított szöveg.

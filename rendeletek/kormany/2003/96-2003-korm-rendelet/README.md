@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-96-20-2
 | 2017-04-01 | 2003-96-20-22.42 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-04 | 2003-96-20-22.43 | 60/2017. (III. 20.) Korm. rendelet |
 | 2017-09-06 | 2003-96-20-22.44 | 250/2017. (IX. 5.) Korm. rendelet |
+| 2018-01-01 | 2003-96-20-22.45 | 457/2017. (XII. 28.) Korm. rendelet |

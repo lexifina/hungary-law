@@ -64,7 +64,7 @@ cb) a működési nyilvántartási ciklus megújításának és lejártának id�
 
 (6)[^48]
 
-(7) A működési engedélyezési eljárásban az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+(7)[^49] A működési engedélyezési eljárásban az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem támadott rendelkezései véglegessé válnak, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
 
 [^42]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
 [^43]: A 8. § (1) bekezdés m) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be.
@@ -73,3 +73,4 @@ cb) a működési nyilvántartási ciklus megújításának és lejártának id�
 [^46]: A 8. § (5) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
 [^47]: A 8. § (5) bekezdés c) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be.
 [^48]: A 8. § (6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
+[^49]: A 8. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 117. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
