@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-10-20-2
 | 2015-04-01 | 2010-10-20-2M.4 | 15/2015. (III. 31.) NFM rendelet |
 | 2017-01-01 | 2010-10-20-2M.5 | 66/2016. (XII. 29.) NFM rendelet |
 | 2017-07-01 | 2010-10-20-2M.6 | 15/2015. (III. 31.) NFM rendelet |
+| 2018-01-01 | 2010-10-20-2M.7 | 52/2017. (XII. 22.) NFM rendelet |
