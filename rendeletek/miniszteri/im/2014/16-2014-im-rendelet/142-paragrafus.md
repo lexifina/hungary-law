@@ -2,7 +2,7 @@
 
 142. § (1) A szabadítás napján a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról vagy közügyektől eltiltásról kiállított II. jelzésű értesítőlapot meg kell küldeni:
 
-a)[^56] foglalkozástól eltiltás esetén az elítélt lakóhelye, ennek hiányában tartózkodási helye, ha pedig az elítélt Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkezik, az első fokon eljárt bíróság székhelye szerint illetékes rendőrkapitányságnak,
+a)[^66] foglalkozástól eltiltás esetén az elítélt lakóhelye, ennek hiányában tartózkodási helye, ha pedig az elítélt Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkezik, az első fokon eljárt bíróság székhelye szerint illetékes rendőrkapitányságnak,
 
 b) kitiltás esetén az elítélt lakóhelye, ennek hiányában tartózkodási helye szerinti rendőrkapitányságnak, továbbá a kitiltással érintett helység szerint illetékes rendőrkapitányságnak,
 
@@ -26,4 +26,4 @@ d) sportrendezvények látogatásától való eltiltás esetén a rendőrség sp
 
 (9) Az értesítésen fel kell tüntetni az elítélt személyi adatait, a büntetés nemét, tartamát, azon szabadságvesztés adatait, amelyből az elítélt feltételes szabadságra bocsátással vagy kegyelemmel szabadult, az új befogadás alapjául szolgáló bírósági határozat adatait. Az értesítést annak a hatóságnak kell megküldeni, amelynek az (1) és (2) bekezdés alapján az értesítőlapot továbbították.
 
-[^56]: A 142. § (1) bekezdés a) pontja a 33/2015. (XI. 6.) IM rendelet 21. § a) pontja szerint módosított szöveg.
+[^66]: A 142. § (1) bekezdés a) pontja a 33/2015. (XI. 6.) IM rendelet 21. § a) pontja szerint módosított szöveg.

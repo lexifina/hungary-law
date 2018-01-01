@@ -18,7 +18,7 @@ a) az első fokon eljárt bíróságot vagy az összbüntetési ítéletet első
 
 b) az elhunyt lakóhelye szerint illetékes rendőrkapitányságot,
 
-c)[^58] a bűnügyi nyilvántartó szervet,
+c)[^68] a bűnügyi nyilvántartó szervet,
 
 d) a feltételes szabadságra bocsátást engedélyező bv. bírót, a feltételes szabadságra bocsátás mellett elrendelt pártfogó felügyelet esetén az elítélt lakó- vagy tartózkodási helye szerint illetékes büntetés-végrehajtási pártfogó felügyelőt is.
 
@@ -26,4 +26,4 @@ d) a feltételes szabadságra bocsátást engedélyező bv. bírót, a feltétel
 
 (6) Az elhunyt nyilvántartási iratában meg kell őrizni a halottvizsgálati bizonyítvány és a temetési engedély másolatát, a hozzátartozó nyilatkozatának, valamint a törvényességi felügyeletet ellátó ügyésznek küldött jelentés egy példányát. A bíróságnak meg kell küldeni a halotti anyakönyvi kivonat másolatát.
 
-[^58]: A 147. § (4) bekezdés c) pontja a 28/2016. (XII. 27.) IM rendelet 12. §-ával megállapított szöveg.
+[^68]: A 147. § (4) bekezdés c) pontja a 28/2016. (XII. 27.) IM rendelet 12. §-ával megállapított szöveg.

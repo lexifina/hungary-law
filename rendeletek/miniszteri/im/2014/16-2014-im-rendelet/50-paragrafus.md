@@ -7,3 +7,18 @@
 (3) Közepes szintű a biztonsági kockázata annak az elítéltnek, akinél megalapozottan feltehető, illetve magatartása alapján megállapítható, hogy a bv. intézet rendjével tudatosan szembe helyezkedik, az azzal kapcsolatos magatartási szabályokat megszegi, és így a biztonságos fogvatartása csak felügyelettel vagy őrzéssel biztosítható.
 
 (4) Alacsony szintű a biztonsági kockázata annak az elítéltnek, aki a bv. intézet rendjét várhatóan betartja, szökésétől vagy más bűncselekmény elkövetésétől nem kell tartani, és így a biztonságos fogvatartása általában ellenőrzéssel is biztosítható.
+
+(5)[^37] Az elítélt biztonsági kockázati besorolását a BFB
+
+a) az alacsony szintű biztonsági kockázati besorolású elítélt esetében legalább évente,
+
+b) a közepes szintű biztonsági kockázati besorolású elítélt esetében legalább hathavonta,
+
+c) a magas szintű biztonsági kockázati besorolású elítélt esetében legalább háromhavonta
+
+## felülvizsgálja.
+
+(6)[^38] A besorolás alapjául szolgáló körülmények változása esetén a BFB – halaszthatatlan esetben a bv. intézet parancsnoka – az elítélt biztonsági kockázati besorolását az (5) bekezdés szerinti határidőktől függetlenül is köteles megváltoztatni.
+
+[^37]: Az 50. § (5) bekezdését a 22/2017. (XII. 22.) IM rendelet 39. §-a iktatta be.
+[^38]: Az 50. § (6) bekezdését a 22/2017. (XII. 22.) IM rendelet 39. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## 68. Társadalmi kötődés program
 
-115. §[^39] (1) A Bv. tv. 187. § (2) bekezdése alapján a társadalmi kötődés programba börtön fokozatú, enyhébb rezsimbe sorolt és fogház fokozatú, általános és enyhébb rezsimbe sorolt elítélt vonható be.
+115. §[^45] (1) A Bv. tv. 187. § (2) bekezdése alapján a társadalmi kötődés programba börtön fokozatú, enyhébb rezsimbe sorolt és fogház fokozatú, általános és enyhébb rezsimbe sorolt elítélt vonható be.
 
 (2) Ha a társadalmi kötődés programba helyezés iránti kérelmet a védő terjesztette elő, az elítéltet nyilatkoztatni kell arról, hogy az abban foglaltakkal egyetért-e.
 
@@ -20,4 +20,4 @@ c) ahol az elkülönítési szabályok is végrehajthatók.
 
 (6) A reintegrációs programban elért eredményekről és egyéni teljesítményéről az elítéltet rendszeresen tájékoztatni, és a folyamatot legalább havonta értékelni kell. Indokolt esetben, a reintegrációs program az elítélt szükségleteihez igazodóan módosítható.
 
-[^39]: A 115. § a 24/2016. (XII. 23.) IM rendelet 26. §-ával megállapított szöveg.
+[^45]: A 115. § a 24/2016. (XII. 23.) IM rendelet 26. §-ával megállapított szöveg.

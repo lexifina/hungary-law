@@ -1,4 +1,4 @@
-141. § (1)[^55] A szabadon bocsátásról három napon belül értesíteni kell
+141. § (1)[^65] A szabadon bocsátásról három napon belül értesíteni kell
 
 a) az első fokon eljárt bíróságot vagy az összbüntetésről első fokon határozatot hozó bíróságot,
 
@@ -30,4 +30,4 @@ h) kegyelem esetén a határozat számát és rendelkező részének tartalmát.
 
 (5) A fenti eljárást kell alkalmazni minden postai úton sérülten, bontottan érkezett vagy kétes eredetű, esetleg nem egyértelmű rendelkezést tartalmazó iratok esetében is.
 
-[^55]: A 141. § (1) bekezdése a 33/2015. (XI. 6.) IM rendelet 20. §-ával megállapított szöveg.
+[^65]: A 141. § (1) bekezdése a 33/2015. (XI. 6.) IM rendelet 20. §-ával megállapított szöveg.
