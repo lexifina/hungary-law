@@ -14,4 +14,4 @@ c) megalapozottan feltételezhető, hogy a postai úton történő kézbesítés
 
 d) a címzett büntetés-végrehajtási intézetben tartózkodik.
 
-(4) A (3) bekezdés szerinti eljárási jogsegélyre a IV. Fejezet vagy a IV/A. Fejezet rendelkezéseit kell megfelelően alkalmazni.
+(4)

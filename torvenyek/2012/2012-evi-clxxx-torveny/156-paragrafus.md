@@ -1,39 +1,35 @@
-## XI. Fejezet
+## 55/H. Az európai védelmi határozat kibocsátása
 
-## VAGYONELKOBZÁS VÉGREHAJTÁSÁRA IRÁNYULÓ JOGSEGÉLY
+156. § (1) Ha a bíróság
 
-## 54. A végrehajtás átvétele
+a) a szabadságvesztés végrehajtását felfüggesztette, próbára bocsátást alkalmazott, a szabadságvesztésre ítéltet feltételes szabadságra bocsátotta, jóvátételi munka végzését írta elő, és a próbaidőre, a feltételes szabadság tartamára vagy a jóvátételi munka mellett pártfogó felügyeletet rendelt el, és a következő, egy vagy több magatartási szabályt állapította meg:
 
-156. § (1) Egy másik tagállamban lefolytatott büntetőeljárásban,
+aa) a terhelt a meghatározott személytől, illetve annak lakásától, munkahelyétől vagy attól a nevelési-oktatási intézménytől, ahová e személy jár, továbbá az e személy által rendszeresen látogatott helytől tartsa távol magát,
 
-a) bűncselekményből származó vagy azzal egyenértékű vagyon,
+ab) arra vonatkozó tilalom, hogy a terhelt meghatározott személlyel bármilyen módon kapcsolatba lépjen, vagy ezzel kapcsolatban előírt kötelezettség,
 
-b) bűnszervezetben való részvétel ideje alatt szerzett vagyon, illetve
+ac) arra vonatkozó tilalom, hogy a terhelt meghatározott személyt meghatározott távolságon belül megközelítse, vagy ezzel kapcsolatban előírt kötelezettség,
 
-c) bűncselekmény elkövetéséhez eszközül használt vagy arra szánt dolog
+b) távoltartást rendelt el,
 
-végleges tulajdonvesztését elrendelő szankciót tartalmazó bírósági határozat végrehajtása iránti megkeresés esetén a bíróság dönt a megkeresés alapjául szolgáló tagállami határozat (a továbbiakban e fejezet alkalmazásában: vagyonelkobzást elrendelő tagállami határozat) elismeréséről és végrehajtásáról, ha a jogerős vagyonelkobzást elrendelő tagállami határozatot a 14. számú melléklet szerinti tanúsítvánnyal együtt, magyar nyelven a bíróságnak megküldték, ha a határozatból megállapítható, hogy a terhelt Magyarországon lakóhellyel, tartózkodási hellyel, illetve megalapozott feltételezés szerint vagyonnal vagy jövedelemmel rendelkezik.
+akkor a határozatában megjelölt személy védelme érdekében európai védelmi határozat bocsátható ki, ha a veszélyeztetett személy lakóhelye vagy tartózkodási helye egy másik tagállam területén van, vagy a veszélyeztetett személy egy másik tagállamban kíván lakni vagy tartózkodni.
 
-(2) A vagyonelkobzást elrendelő tagállami határozat elismeréséről és végrehajtásáról
+(2) Az európai védelmi határozat a veszélyeztetett személy, a veszélyeztetett személy jogi képviselője vagy meghatalmazott nagykorú hozzátartozója írásbeli indítványa alapján bocsátható ki. Az indítvány elbírálása során figyelembe kell venni
 
-a) a vagyonelkobzást elrendelő tagállami határozat alá eső vagyon vagy dolog helye,
+a) a védelem szükségességének mértékét, és
 
-b) ha a vagyon vagy a dolog helye nem ismert
+b) azt a körülményt, hogy a veszélyeztetett személy milyen időtartamban kíván a másik tagállamban tartózkodni.
 
-ba) a terhelt lakóhelye, ennek hiányában tartózkodási helye,
+(3) Az indítványt írásban lehet előterjeszteni, vagy azt az európai védelmi határozat kibocsátására jogosult bíróság jegyzőkönyvbe foglalja.
 
-bb) ha a vagyonelkobzást elrendelő tagállami határozatot jogi személlyel szemben hozták, a jogi személy székhelye
+(4) Az európai védelmi határozatot a 16. számú mellékletben megjelölt formanyomtatvány szerint kell bocsátani.
 
-szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság dönt. Ha az eljárásra illetékes bíróság nem állapítható meg, vagy a végleges tulajdonvesztést jelentő szankció alá eső vagyon több helyen található, a vagyonelkobzást elrendelő tagállami határozat elismeréséről és végrehajtásáról a Budai Központi Kerületi Bíróság dönt.
+(5) A bíróság az európai védelmi határozatban megjelöli, ha
 
-(3) Ha a szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozatban vagyonelkobzás elrendelésére is sor kerül, a tagállami határozat elismerésére és a végrehajtásról szóló határozat meghozatalára a Fővárosi Törvényszék rendelkezik hatáskörrel és illetékességgel.
+a) a veszélyeztetett vagy a veszélyeztető személy pártfogó ügyvéddel, illetve kirendelt védővel rendelkezik,
 
-(4) Ha a vagyonelkobzást elrendelő tagállami határozat meghozatalát megelőzően a tagállami hatóság annak a dolognak vagy vagyonnak a biztosítása érdekében, amelyre a vagyonelkobzást elrendelő tagállami határozat vonatkozik, a bizonyítási eszközök felderítése, összegyűjtése, biztosítása vagy felhasználása végett, illetve az elkobzás, vagyonelkobzás biztosítása érdekében határozatot bocsátott ki, és azt magyar igazságügyi hatóság a 93–100. § alapján végrehajtotta, akkor a vagyonelkobzást elrendelő tagállami határozat elismeréséről és végrehajtásáról a 93–100. § szerint eljárt igazságügyi hatóság székhelye szerint illetékes törvényszék székhelyén működő járásbíróság dönt.
+b) a veszélyeztetett személy számára olyan technikai eszköz áll rendelkezésre, amely az európai védelmi határozatban megjelölt magatartási szabály vagy kényszerintézkedés ellenőrzését elősegíti, vagy a veszélyeztető személy számára a mozgását nyomon követő technikai eszköz viselése kötelező, vagy
 
-(5) Ha a bírósághoz valamely tagállamból olyan megkeresés érkezik, amelynek elintézésére nem illetékes vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja az illetékes járásbíróságra, és erről egyidejűleg a tagállami bíróságot tájékoztatja.
+c) az V. Fejezet vagy a IX. Fejezet szerint az európai védelmi határozatban megjelölt magatartási szabály vagy kényszerintézkedés végrehajtása egy harmadik tagállam részére továbbításra került.
 
-(6) Az 1. számú mellékletben meghatározott bűncselekmények esetében a végrehajtásról a cselekmény kettős büntetendőségének mérlegelése nélkül intézkedni kell.
-
-(7) Az 1. számú mellékletben fel nem sorolt bűncselekmények esetében a vagyonelkobzást elrendelő tagállami határozatot akkor lehet végrehajtani, ha a cselekmény, amely miatt a végrehajtást kérik, a magyar törvény szerint is bűncselekmény.
-
-(8) A bíróság a vagyonelkobzást elrendelő tagállami határozat végrehajtásának biztosítása érdekében lefoglalást vagy zár alá vételt rendel el akkor is, ha erre vonatkozóan korábban a 93–100. § szerinti megkeresés nem érkezett.
+(6) Az európai védelmi határozat végrehajtását a bíróság a 148. § (1) bekezdésében meghatározott iratoknak a veszélyeztetett személy lakóhelye vagy tartózkodási helye, vagy tervezett lakó vagy tartózkodási helye szerinti tagállamba történő megküldésével kezdeményezi.

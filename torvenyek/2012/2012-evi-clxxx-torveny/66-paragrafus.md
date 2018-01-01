@@ -12,4 +12,4 @@ vonatkozó rendelkezéseket.
 
 (2) E fejezet rendelkezéseit akkor kell alkalmazni, ha nemzetközi szerződés eltérően nem rendelkezik.
 
-(3) E fejezet rendelkezéseit alkalmazni kell a jogi személlyel szemben indult büntetőeljárással összefüggésben előterjesztett jogsegély iránti megkeresésre is.
+(3)

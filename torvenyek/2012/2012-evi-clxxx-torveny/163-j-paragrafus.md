@@ -1,1 +1,0 @@
-163/J. § Ha az európai védelmi határozat eredményes végrehajtása érdekében szükséges, a bíróság vagy az ügyész és a tagállami hatóság, valamint adott esetben a harmadik tagállam hatósága egyeztetést folytat egymással.

@@ -1,1 +1,0 @@
-163/K. § Az európai védelmi határozat elismerése és végrehajtása során felmerülő költségek – a kizárólag az európai védelmi határozatot kibocsátó tagállam területén felmerülő költségek kivételével – bűnügyi költségnek minősülnek, amelyet a magyar állam visel.

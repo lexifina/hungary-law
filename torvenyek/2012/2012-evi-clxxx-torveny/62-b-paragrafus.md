@@ -8,7 +8,7 @@ b) jogerős szabadságvesztés vagy elzárás büntetést vagy szabadságelvoná
 
 köt megállapodást a tagállami hatósággal.
 
-(2) A fogvatartott személy ideiglenes átadására csak az érintett erre vonatkozó előzetes hozzájárulása esetén kerülhet sor. Ha a fogvatartott személy védővel rendelkezik, az ideiglenes átadáshoz történő hozzájárulással kapcsolatban biztosítani kell, hogy a fogvatartott személy a védőjével egyeztethessen. A fogvatartott személy az ideiglenes átadásához írásban, vagy a bíróság vagy az ügyész előtt szóban tett, jegyzőkönyvbe foglalt nyilatkozatával járulhat hozzá.
+(2) A bíróság vagy az ügyész a fogvatartott személyt nyilatkoztatja, hogy az ideiglenes átadáshoz hozzájárul-e. A fogvatartott személy nyilatkozatát írásban, illetve a bíróság vagy az ügyész előtt szóban tett, és jegyzőkönyvbe foglalt nyilatkozattal teheti meg. Ha a fogvatartott személy védővel rendelkezik, az ideiglenes átadáshoz történő hozzájárulással kapcsolatban biztosítani kell, hogy a fogvatartott személy a védőjével egyeztethessen.
 
 (3) A bíróság vagy az ügyész az európai nyomozási határozat végrehajtását a 40. §-ban foglalt okokon túl akkor is megtagadhatja, ha
 

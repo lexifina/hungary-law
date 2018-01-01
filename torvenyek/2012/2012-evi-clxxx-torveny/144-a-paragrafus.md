@@ -1,1 +1,0 @@
-144/A. § Ha az alternatív szankciót kiszabó tagállami határozat eredményes végrehajtása érdekében szükséges, a bíróság és a tagállami hatóság egyeztetést folytat egymással. A bíróság a tagállami hatósággal való egyeztetés során tájékoztatást kérhet az alternatív szankciók végrehajtásáért felelős szervtől.

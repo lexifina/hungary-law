@@ -1,9 +1,15 @@
-76. § (1) A nyomozási bíró a rendelkezésére álló iratok alapján a felügyeleti intézkedést elrendelő tagállami határozat és tanúsítvány kézhezvételétől számított harminc napon belül indokolt határozattal dönt a tagállami határozat elismeréséről és végrehajtásáról. A nyomozási bíró nem jogerős határozatával szemben fellebbezést az jelenthet be, akivel a határozatot közölték. A kihirdetés útján közölt határozat elleni fellebbezést a kihirdetést követően nyomban be kell jelenteni. A kézbesítés útján közölt határozat ellen három napon belül lehet fellebbezni. A nyomozási bíró a fellebbezésről haladéktalanul tájékoztatja a tagállami hatóságot.
+76. § (1) A bíróság a tagállami határozat és a tanúsítvány kézhezvételétől számított harminc napon belül megvizsgálja, hogy a felügyeleti intézkedés végrehajtása átvételének feltételei fennállnak-e, és
 
-(1a) A nyomozási bíró a fellebbezést a nyilatkozatok beérkezését követően haladéktalanul megküldi a törvényszéknek, amely a kézhezvételt követően legkésőbb az iratoknak a törvényszékhez érkezésétől számított harminc napon belül jogerős határozatot hoz. A nyomozási bíró a jogerős határozatot a tagállami hatóság részére haladéktalanul megküldi.
+a) a felügyeleti intézkedés végrehajtását átveszi, egyben meghatározza a végrehajtáshoz szükséges rendelkezéseket, vagy
 
-(2) Ha az (1) és (1a) bekezdésben foglalt határozat az ott meghatározott határidőn belül nem hozható meg, a nyomozási bíró a késedelem okainak megjelölése mellett erről haladéktalanul tájékoztatja a tagállami hatóságot, és megjelöli a döntéshez szükséges időtartamot.
+b) a felügyeleti intézkedés végrehajtásának átvételét megtagadja.
 
-(3) A nyomozási bíró a felügyeleti intézkedést elrendelő tagállami határozatot hiányos, illetve pontatlan tanúsítvány alapján akkor ismeri el és hajtja végre, ha a pontatlan, illetve hiányos adatok annak elismerését és végrehajtását nem akadályozzák. Ha a tanúsítványban foglaltak alapján a felügyeleti intézkedést elrendelő tagállami határozat elismerése és végrehajtása nem vagy csak részben lehetséges, a nyomozási bíró erről a tagállami hatóságot haladéktalanul értesíti, a tanúsítvány kiegészítésére, kijavítására határidőt tűz, és megjelöli azokat az adatokat, amelyek ismerete a felügyeleti intézkedést elrendelő tagállami határozat elismeréséhez és végrehajtásához szükséges. A nyomozási bíró a hiányzó vagy pontatlan adatok pótlásáig, kijavításáig elhalasztja az elismerő határozat meghozatalát, és erről a tagállami hatóságot haladéktalanul tájékoztatja.
+(2) A bíróság a felügyeleti intézkedés végrehajtásának átvételének megtagadásáról indokolt határozatot hoz.
 
-(4) Ha a felügyeleti intézkedést elrendelő tagállami határozat és a tanúsítvány nem postai úton érkezett, a nyomozási bíró kérheti a tagállami hatóságot, hogy a határozat és a tanúsítvány eredeti példányát küldje meg számára.
+(3) A bíróság a jogsegély iránti megkeresés tárgyában hozott jogerős határozatot haladéktalanul megküldi a tagállami igazságügyi hatóság részére.
+
+(4) A bíróság határozatával szemben fellebbezést az jelenthet be, akivel a határozatot közölték. A kézbesítés útján közölt határozat ellen három napon belül lehet fellebbezni. A bíróság a fellebbezésről haladéktalanul tájékoztatja a tagállami igazságügyi hatóságot.
+
+(5) A bíróság a fellebbezést a nyilatkozatok beérkezését követően haladéktalanul megküldi a fellebbezés elbírálására jogosult törvényszéknek, amely a kézhezvételt követően legkésőbb az iratoknak a törvényszékhez érkezésétől számított harminc napon belül jogerős határozatot hoz.
+
+(6) Ha a (4) és (5) bekezdés szerinti határozat az ott meghatározott határidőn belül nem hozható meg, a bíróság a késedelem okainak megjelölése mellett erről haladéktalanul tájékoztatja a tagállami igazságügyi hatóságot, és megjelöli a döntéshez előreláthatólag szükséges időtartamot.

@@ -18,4 +18,4 @@ f) annak meghatározását, hogy a terhelt által az ideiglenes átadással öss
 
 (4) A (3) bekezdés b) pontjában meghatározott határidőt a tagállami igazságügyi hatóság kérelmére a Fővárosi Törvényszék meghosszabbíthatja.
 
-(5) Az ideiglenes átadás végrehajtására az átadás végrehajtására vonatkozó rendelkezéseket megfelelően alkalmazni kell azzal, hogy az átadás végrehajtására legkorábban a (3) bekezdés b) pontjában meghatározott határnapon kerülhet sor. A terhelt átvételéről a NEBEK a rendőrség közreműködésével gondoskodik.
+(5) Az ideiglenes átadás végrehajtására az átadás végrehajtására vonatkozó rendelkezéseket megfelelően alkalmazni kell azzal, hogy az átadás végrehajtására legkorábban a (3) bekezdés b) pontjában meghatározott határnapon kerülhet sor. A terhelt átadásáról és átvételéről a NEBEK a rendőrség közreműködésével gondoskodik.

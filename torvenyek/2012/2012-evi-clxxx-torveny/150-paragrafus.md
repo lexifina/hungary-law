@@ -1,9 +1,11 @@
-150. § (1) A pénzbüntetést kiszabó tagállami határozat elismerésének és végrehajtásának megtagadásáról a bíróság indokolt határozatot hoz, amelyet a tagállami hatóság részére megküld.
+## 55/C. Megtagadási okok
 
-(1a) A 149. § (1) bekezdés c) pontja és a 149. § (2) bekezdése esetén a pénzbüntetést kiszabó tagállami határozat elismeréséről és végrehajtásáról döntő határozat meghozatala előtt a bíróság konzultál a tagállami hatósággal, és felkéri, hogy haladéktalanul küldje meg számára a határozat meghozatalához szükséges információkat a pénzbüntetést kiszabó határozat eredményes elismerése és végrehajtása érdekében.
+150. § A bíróság vagy az ügyész az európai védelmi határozat végrehajtását megtagadhatja, ha
 
-(2) Az (1) bekezdés szerinti határozat ellen jogorvoslatnak helye nincs.
+a) a 148. § (1) bekezdésében meghatározott feltételek nem teljesülnek,
 
-(3) Ha a terhelt igazolja, hogy a megkeresésben megjelölt összeget részben vagy egészben megfizette, a bíróság az eljárást felfüggeszti, és egyidejűleg megkeresi a tagállami hatóságot, hogy a megfizetés tényét harminc napon belül igazolja vissza. Ha a megadott határidőn belül a tagállami hatóság a megkeresésre nem válaszol, az eljárást meg kell szüntetni.
+b) az európai védelmi határozat alapjául szolgáló büntetőeljárás vagy tagállami ítélet tekintetében – a 109. § (3) bekezdésre tekintettel – a 109. § (2) bekezdésben meghatározott figyelembevételt kizáró ok áll fenn,
 
-(4) A tagállami hatóságnak a határozata hatályon kívül helyezéséről, visszavonásáról vagy végrehajthatóságának megszűnéséről szóló értesítése alapján a végrehajtást haladéktalanul meg kell szüntetni.
+c) az európai védelmi határozat tekintetében a 114. § (1) bekezdés d), e) vagy f) pontjában meghatározott megtagadási ok áll fenn,
+
+d) az európai védelmi határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a magyar törvény szerint a büntethetőség vagy a kiszabott büntetés vagy elrendelt intézkedés elévült.

@@ -1,9 +1,3 @@
-## 48. Költségviselés
+## 50/C. A bíróság eljárása
 
-135. § (1) Az átmenő átszállítás során Magyarország területén felmerülő költséget az átmenő átszállítást kérelmező tagállam viseli, a megtérítés érdekében a miniszter intézkedik.
-
-(2) Az (1) bekezdés nem alkalmazható, ha az átmenő átszállítást kérelmező tagállam és Magyarország között a költségviseléssel kapcsolatban a viszonossági elv érvényesül.
-
-(3) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerésével és végrehajtásának átvételével összefüggésben a fordítással kapcsolatban felmerült költség bűnügyi költség, amelyet a magyar állam visel.
-
-(4) A szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átadásával összefüggésben a fordítással, valamint a terhelt szállításával kapcsolatban felmerült költség bűnügyi költség, amelyet a magyar állam visel.
+135. § Ha az alternatív szankció vagy próbaidő alatti magatartási szabály végrehajtásának átvételére irányuló jogsegély szabadságvesztés büntetés vagy a szabadságelvonással járó intézkedés végrehajtásának átvételére irányuló végrehajtási jogsegéllyel együtt, vagy azt követően érkezett, a végrehajtási jogsegély teljesítésére a szabadságvesztés büntetés vagy a szabadságelvonással járó intézkedés végrehajtásának átvételére hatáskörrel és illetékességgel rendelkező bíróság jár el.

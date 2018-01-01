@@ -1,15 +1,9 @@
-123. § A Fővárosi Törvényszék – a miniszter útján – írásban értesíti a tagállami igazságügyi hatóságot
+## 48/D. A specialitás szabálya, a tagállami hatóság tájékoztatása
 
-a) ha a büntetés vagy intézkedés arra tekintettel nem hajtható végre, hogy a határozat és a tanúsítvány Magyarországra történő továbbítását követően az elítélt nem található az ország területén,
+123. § (1) A végrehajtás érdekében Magyarországra átszállított elítélttel szemben az átszállítása előtt elkövetett, a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat alapjául szolgáló bűncselekménytől különböző egyéb bűncselekmény tekintetében a 30. §-ban meghatározott specialitás szabályával kapcsolatos rendelkezéseket megfelelően alkalmazni kell azzal, hogy
 
-b) a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását elrendelő bírósági határozatról, beleértve a határozat jogerőre emelkedésének időpontját is,
+a) az egyéb bűncselekményt érintő büntetőeljárás lefolytatásához akkor sem szükséges az elítélt hozzájárulása, ha az elítélt az átszállításhoz hozzájárult,
 
-c) a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását megtagadó bírósági határozatról, beleértve a megtagadás indokát is,
+b) az elítélt specialitás szabályáról történő lemondásával kapcsolatban a fogvatartás helye szerint illetékes büntetés-végrehajtási bíró előtt tehet nyilatkozatot.
 
-d) ha a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerésének és végrehajtásának megtagadására közkegyelem miatt kerül sor,
-
-e) az elítélt feltételes szabadságra bocsátásának legkorábbi időpontjáról, valamint ha az elítéltet a bíróság pártfogó felügyelet alá helyezte, annak tényéről, feltéve, hogy a tagállami igazságügyi hatóság az erről szóló tájékoztatást kérte,
-
-f) ha az elítélt a végrehajtás befejezését megelőzően megszökött,
-
-g) ha a büntetést vagy intézkedést végrehajtották, vagy a végrehajtás egyéni kegyelem vagy közkegyelem miatt befejeződött.
+(2) A végrehajtás átvételét a bíróság ahhoz a feltételhez kötheti, hogy a tagállami igazságügyi hatóság a 30. § (4) bekezdés alapján a büntetőeljárás lefolytatásához a hozzájárulást megadja.

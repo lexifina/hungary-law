@@ -1,0 +1,1 @@
+121/A. § A beilleszkedési feltétel fennállása esetén a miniszter a tagállamnál az elítélt szabadságvesztés büntetése vagy szabadságelvonással járó intézkedése végrehajtásának átvételét kezdeményezheti.

@@ -1,19 +1,23 @@
 ## 39. A végrehajtás átadása
 
-87. § (1) Ha a büntetőeljárás során a bíróság az előzetes letartóztatás helyett felügyeleti intézkedést rendel el, és
+87. § (1) Ha a büntetőeljárás során a bíróság felügyeleti intézkedésként házi őrizetet, lakhelyelhagyási tilalmat vagy távoltartást rendelt el, a felügyeleti intézkedés végrehajtása más tagállamnak átadható, ha
 
-a) a terhelt lakóhelye vagy tartózkodási helye valamely tagállam területén van, valamint a terhelt a felügyeleti intézkedésről való tájékoztatást követően hozzájárult az e tagállamba történő visszatéréséhez, vagy
+a) a terhelt lakóhelye vagy tartózkodási helye a tagállam területén van, és a terhelt a felügyeleti intézkedésről való tájékoztatást követően hozzájárult az e tagállamba történő visszatéréséhez, vagy
 
-b) a terhelt a felügyeleti intézkedést elrendelő határozatnak a lakóhelyétől vagy a tartózkodási helyétől eltérő más tagállamban történő elismerését és végrehajtását kérte, feltéve, hogy e tagállam hatáskörrel rendelkező illetékes hatósága a határozat továbbításához hozzájárult,
+b) a terhelt a felügyeleti intézkedésnek a lakóhelyétől vagy a tartózkodási helyétől eltérő más tagállamban történő végrehajtását kérte, feltéve, hogy a tagállami igazságügyi hatóság a megkeresés továbbításához hozzájárult.
 
-a bíróság a felügyeleti intézkedést elrendelő határozattal egyidejűleg kitölti az 5. számú melléklet szerinti tanúsítványt.
+(2) A bíróság által elrendelt felügyeleti intézkedéssel kapcsolatban az alábbi kötelezettségek, illetve tilalmak végrehajtásának átadására kerülhet sor:
 
-(1a) A terhelt kérelmét, illetve arra vonatkozó nyilatkozatát, hogy vissza kíván térni a lakóhelye vagy tartózkodási helye szerinti tagállamba, a bíróság jegyzőkönyvbe foglalja.
+a) a terhelt kötelezése elérhetőségében történt változás bejelentésére,
 
-(2) Az (1) bekezdésben meghatározott esetben a határozatot a tanúsítvánnyal együtt le kell fordítani az (1) bekezdésben meghatározott tagállam hivatalos nyelvére vagy hivatalos nyelveinek egyikére. A bíróság a lefordított határozatot és tanúsítványt a tagállam hatáskörrel és illetékességgel rendelkező hatósága számára közvetlenül küldi meg.
+b) a terhelt kötelezése arra, hogy meghatározott időpontban, meghatározott hatóságnál jelentkezzen,
 
-(3) A bíróság a lefordított határozatot és a tanúsítványt a tagállam hatáskörrel és illetékességgel rendelkező hatósága számára posta, telefax vagy számítástechnikai rendszer útján továbbítja. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni. Ha a bíróság a határozatot és a tanúsítványt nem postai úton küldte meg, akkor kérelemre a határozat és a tanúsítvány eredeti példányát megküldi a tagállami hatóság számára.
+c) a terhelt kötelezése arra, hogy tartózkodjon meghatározott személlyel való érintkezéstől,
 
-(4) A határozatot és a tanúsítványt a bíróság egyidejűleg csak egy tagállamba továbbíthatja.
+d) arra vonatkozó tilalom, hogy egy meghatározott helyre, helységbe vagy meghatározott területre belépjen,
 
-(5) Ha a bíróság nem tudja megállapítani, hogy a tagállamban melyik hatóság rendelkezik hatáskörrel és illetékességgel a határozat elismerésére és végrehajtására, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain keresztül szerzi be.
+e) a terhelt kötelezése arra, hogy meghatározott időpontban meghatározott helyen tartózkodjon.
+
+(3) Ha a bíróság által elrendelt felügyeleti intézkedéssel összefüggésben a (2) bekezdéstől eltérő kötelezettség vagy tilalom megállapítására került sor, vagy arra is sor került, a (2) bekezdéstől eltérő kötelezettség vagy tilalom végrehajtásának átadására a tagállam hozzájárulása esetén, előzetes egyeztetés alapján kerülhet sor.
+
+(4) A terhelt hozzájárulását vagy kérelmét írásban, továbbá a bíróság vagy az ügyész előtt szóban tett, jegyzőkönyvbe foglalt nyilatkozatával terjesztheti elő.

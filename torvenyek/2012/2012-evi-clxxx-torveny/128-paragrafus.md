@@ -1,13 +1,13 @@
-128. § (1) A tanúsítványt a jogerős ítélet alapján a fogvatartás helye szerint illetékes büntetés-végrehajtási bíró állítja ki. A hiányzó adatok beszerzése érdekében a büntetés-végrehajtási bíró a minisztert keresi meg.
+## 49/B. A bíróság eljárása
 
-(1a) Ha az elítélt a végrehajtó tagállamban tartózkodik, a tanúsítványt a jogerős ítélet alapján az első fokon eljárt bíróság székhelye szerint illetékes büntetés-végrehajtási bíró állítja ki.
+128. § (1) A végrehajtás átadásához szükséges tanúsítványt a jogerős ítélet alapján a büntetés-végrehajtási bíró állítja ki.
 
-(2) A bíróság által elítélt személy – ha a végrehajtás átadásának feltételei fennállnak vagy megalapozottan feltehető, hogy a feltételei fenn fognak állni – a vele szemben kiszabott szabadságvesztés büntetésnek vagy szabadságelvonással járó intézkedésnek egy másik tagállamban történő végrehajtása érdekében a büntetés-végrehajtási bíró előtt nyilatkozatot tehet, amelyet jegyzőkönyvbe kell foglalni. A jegyzőkönyvet a büntetés-végrehajtási bírónak és a nyilatkozattevőnek alá kell írnia. A nyilatkozatban fel kell tüntetni az elítélt személy tagállamban található lakóhelyét vagy állandó tartózkodási helyét, és a büntetés tagállami végrehajtásával kapcsolatban megfogalmazott indokait is.
+(2) Ha az elítélt a végrehajtó tagállamban tartózkodik, az első fokon eljárt bíróság székhelye szerint illetékes büntetés-végrehajtási bíró rendelkezik illetékességgel.
 
-(3) A büntetés-végrehajtási bíró a miniszternek továbbítja
+(3) A büntetés-végrehajtási bíró eljárására a büntetés-végrehajtásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
-a) a tanúsítványt,
+(4) A végrehajtási jogsegély alapjául szolgáló ítéletet, illetve annak lényeges részét akkor kell lefordítani a 119/B. § (1) bekezdésében megjelölt valamely nyelvre, ha a végrehajtó tagállam erre irányuló kérelmet terjeszt elő, és korábban olyan nyilatkozatot tett, amely alapján kérheti az ítéletnek, vagy annak lényeges részeinek fordítását. Az ítélet lényeges részének meghatározása tekintetében egyeztetésnek van helye. Az ítélet vagy annak lényeges részeinek fordítása iránt a miniszter is intézkedhet.
 
-b) az elítélt nyilatkozatáról készült jegyzőkönyvet,
+(5) A kitöltött tanúsítványt, a végrehajtás átadásához szükséges egyéb iratokkal, továbbá – amennyiben rendelkezésre áll – az ítélet fordításával együtt a büntetés-végrehajtási bíró a miniszter részére küldi meg.
 
-c) az ítéletet.
+(6) A tanúsítvány kitöltéséhez szükséges, esetlegesen hiányzó adatok beszerzése érdekében a büntetés-végrehajtási bíró a minisztert keresi meg.

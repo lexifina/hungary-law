@@ -1,0 +1,3 @@
+119/A. § (1) Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a tagállamban a magyar bíróság ítéletének vagy határozatának végrehajtására melyik tagállami hatóság rendelkezik hatáskörrel és illetékességgel, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain keresztül is be lehet szerezni.
+
+(2) A végrehajtás átadása, illetve az átadott büntetés vagy intézkedés eredményes végrehajtása érdekében a végrehajtási jogsegély előterjesztője a tagállami hatósággal egyeztethet, a tagállami hatóság kérésére kiegészítő adatokat, iratokat bocsáthat a tagállami hatóság rendelkezésre.

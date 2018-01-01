@@ -1,19 +1,11 @@
-111. § (1) A tagállami igazságügyi hatóság által kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása akkor vehető át, ha a határozat és a tanúsítvány miniszterhez történő érkezésekor az elítélt letöltendő büntetéséből vagy a vele szemben alkalmazott intézkedés tartamából még legalább hat hónap hátra van.
+## 45/A. Megfeleltetés
 
-(2) A tagállami igazságügyi hatóság által kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása az elítélt hozzájárulása nélkül átvehető, ha
+111. § (1) A megfeleltetés célja, hogy a büntetőügyben hozott tagállami ítélet egyes rendelkezései, az abban kiszabott büntetés vagy alkalmazott intézkedés, valamint ezek jogkövetkezményei összeegyeztethetők legyenek a magyar törvénnyel.
 
-a) az elítélt Magyarországon lakóhellyel rendelkező magyar állampolgár,
+(2) A tagállami ítélet megfeleltetésére akkor kerülhet sor, ha a tagállami ítélet figyelembe vehető.
 
-b) a magyar állampolgársággal rendelkező vagy a Magyarországra bevándorolt, itt letelepedett, illetve Magyarország által menekültként elismert nem magyar állampolgár elítélt a tagállamban történt elítélését követően vagy az ellene a tagállamban folyamatban lévő eljárásra tekintettel Magyarországra szökött vagy ide más módon visszatért, vagy
+(3) A megfeleltetésre – a (4) bekezdésben meghatározott kivétellel – a Fővárosi Törvényszék rendelkezik hatáskörrel és kizárólagos illetékességgel.
 
-c) az elítélt olyan magyar állampolgár, akit a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozatba, vagy a tagállami határozatra tekintettel hozott más határozatba foglalt kiutasításról vagy kitoloncolásról szóló rendelkezés alapján Magyarországra kitoloncolnának.
+(4) Ha e törvény alapján a tagállami ítéletben kiszabott büntetés vagy alkalmazott intézkedés végrehajtásának átvételét kezdeményezték, a megfeleltetést a végrehajtás átvétele tárgyában hatáskörrel és illetékességgel rendelkező bíróság végzi.
 
-(3) A Magyarországon lakóhellyel vagy tartózkodási hellyel rendelkező, nem magyar állampolgár elítélttel szemben kiszabott büntetésnek vagy alkalmazott intézkedésnek a végrehajtása az elítélt hozzájárulásával átvehető, ha
-
-a) az elítélt a szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat jogerőre emelkedésekor már legalább öt éve jogszerűen tartózkodott a magyar állam területén, és az állandó tartózkodási jogát nem veszíti el a határozat végrehajtását követően,
-
-b) az elítélt Magyarországra bevándorolt, itt letelepedett vagy Magyarország által menekültként elismert személy, vagy
-
-c) Magyarországhoz családi, kulturális vagy gazdasági kapcsolataira tekintettel szorosan kötődik.
-
-(4) A (2) és (3) bekezdés szerinti esetben – indokolt esetben a 109. § (2) bekezdése szerinti konzultációt követően – a miniszter részletes indokolással ellátott írásbeli véleményben tájékoztatja a kibocsátó tagállami igazságügyi hatóságot, ha a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele az elítélt társadalomba való beilleszkedésének elősegítését nem szolgálná. A (3) bekezdés szerinti esetben a miniszteri vélemény – szükség szerint – tartalmazza azt is, hogy a miniszter nem járul hozzá a tagállami határozat és a tanúsítvány megküldéséhez.
+(5) A (4) bekezdés alapján hatáskörrel és illetékességgel rendelkező bíróság az ügyeket egyesíti, ha a megfeleltetési eljárás megindulását követően a végrehajtás átvételére irányuló jogsegély érkezik.

@@ -1,6 +1,6 @@
 45. § (1) Ha a tagállami hatóság az európai nyomozási határozatot a bíróság vagy az ügyész tájékoztatása alapján, az európai nyomozási határozat végrehajtása során felmerült körülményekre figyelemmel vagy más okból kiegészíti, illetve módosítja, a bíróság vagy az ügyész a 37–44. § megfelelő alkalmazásával dönt a kiegészített, illetve módosított európai nyomozási határozat végrehajtásáról, valamint az abban megjelölt eljárási cselekmény elvégzéséről.
 
-(2) Az európai nyomozási határozat kiegészítését, illetve módosítását a tagállami hatóság Magyarországon jelen lévő tagja közvetlenül is átadhatja a bíróságnak vagy az ügyésznek. Az így előterjesztett európai nyomozási határozatot is szabályszerűnek kell tekinteni.
+(2)
 
 (3) Ha a tagállami hatóság az európai nyomozási határozatot visszavonja, a bíróság vagy az ügyész az európai nyomozási határozat végrehajtását megszünteti.
 

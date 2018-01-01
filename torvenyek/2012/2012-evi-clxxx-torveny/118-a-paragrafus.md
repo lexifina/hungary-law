@@ -1,0 +1,1 @@
+118/A. § A végrehajtás alapjául szolgáló tagállami ítélet hatályon kívül helyezéséről vagy végrehajthatóságának megszűnéséről szóló értesítés alapján a bíróság haladéktalanul intézkedik a végrehajtás megszüntetése érdekében.

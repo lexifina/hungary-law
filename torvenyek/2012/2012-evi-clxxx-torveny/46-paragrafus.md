@@ -2,6 +2,8 @@
 
 (2) Az európai nyomozási határozatban megjelölt eljárási cselekmény elvégzése során – a (3) bekezdés kivételével – a magyar jogszabályok szerint kell eljárni.
 
+(2a) Az ügyész rendelkezése alapján a nyomozó hatóság az európai nyomozási határozatban megjelölt eljárási cselekményt elvégezheti, illetve az európai nyomozási határozat végrehajtásában egyéb módon is közreműködhet.
+
 (3) A tagállami hatóság kérelmére az eljárási cselekmény elvégzése során a tagállami hatóság által megjelölt szabályokat és technikai módszert kell alkalmazni, feltéve, hogy az nem összeegyeztethetetlen a magyar jogrendszer alapelveivel. Ha a bíróság vagy az ügyész a tagállami hatóság által megjelölt szabályok és technikai módszerek alkalmazását nem tudja teljesíteni, erről a tagállami hatóságot haladéktalanul tájékoztatja, és megjelöli azokat a feltételeket, amelyekkel a végrehajtás teljesíthető.
 
 (4) Az európai nyomozási határozatban megjelölt eljárási cselekményt – a tagállami hatóság soron kívüli végrehajtásra irányuló kérelmére, valamint az eljárási cselekmény elvégzésének meghatározott időpontjára figyelemmel – legkésőbb az európai nyomozási határozat végrehajtásáról szóló döntés meghozatalát követő kilencven napon belül kell elvégezni.

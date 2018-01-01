@@ -1,7 +1,11 @@
-134. § (1) Ha a magyar bíróság által jogerősen szabadságvesztés büntetésre vagy szabadságelvonással járó intézkedésre ítélt személy valamely tagállamon keresztül történő átmenő átszállítására van szükség, a miniszter az erre irányuló kérelmet és az ítélet alapján kiállított tanúsítvány egy példányát írásban megküldi az érintett tagállamnak.
+## 50/B. A megfeleltetés speciális szabályai
 
-(2) Ha az átmenő átszállítás érdekében megkeresett tagállam arról tájékoztatja a minisztert, hogy a Magyarország területéről történő átszállítást megelőzően az elítélt által elkövetett, az ítélet alapjául szolgáló bűncselekménytől különböző egyéb bűncselekmény vagy vele szemben kiszabott büntetés miatt a megkeresett tagállamban büntetőeljárás indítható, elítélhető, és szabadságától egyéb módon megfosztható, a kérelem visszavonható.
+134. § (1) A végrehajtás átvételének önmagában nem akadálya, ha a tagállami ítélet a 133. § (1) bekezdésében meghatározottól eltérő kötelezettséget vagy tilalmat is meghatároz, de az ilyen kötelezettség vagy tilalom végrehajtása csak akkor vehető át, ha az megfeleltethető.
 
-(3) Az átmenő átszállítást engedélyező tagállam erre irányuló kérése esetén a miniszter a tagállam által elfogadott nyelven továbbítja a tanúsítványt.
+(2) Ha a végrehajtási jogsegély alapjául szolgáló tagállami ítéletben a 133. § (1) bekezdésében meghatározott kötelezettség vagy tilalom olyan alternatív szankcióként került alkalmazására, amely a magyar jogszabályoknak nem feleltethető meg, a bíróság a tagállami ítéletet próbára bocsátásként, és annak próbaidejére elrendelt pártfogó felügyelet keretében előírt, az alternatív szankcióval egyező magatartási szabályként felelteti meg.
 
-(4) Ha a légi úton történő átmenő átszállítás esetén egy tagállamban nem tervezett leszállásra kerül sor, a miniszter megküldi az érintett tagállamnak az (1) bekezdés szerinti dokumentumokba foglalt információkat.
+(3) A (2) bekezdés esetén, ha a terhelt a magatartási szabályokat megszegi, a magyar jogszabályok szerinti jogkövetkezmények nem alkalmazhatók, a bíróság a magatartási szabályok megszegéséről, továbbá az alternatív szankciót alappal feltehetően érintő egyéb körülményekről a tagállami hatóságot tájékoztatja.
+
+(4) A bíróság a (2) bekezdés esetén a végrehajtás átvételével kapcsolatos döntését megelőzően tájékoztatja tagállami hatóságot a tagállami határozat megfeleltetéséről és a (3) bekezdésben foglaltakról.
+
+(5) A 133. § (1) bekezdés c) pontjában meghatározott kötelezettség végrehajtásának átvétele esetén a bíróság megteszi a törvényben meghatározott külföldre utazási tilalommal kapcsolatban szükséges intézkedéseket is.

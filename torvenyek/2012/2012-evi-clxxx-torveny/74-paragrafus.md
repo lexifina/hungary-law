@@ -1,3 +1,7 @@
-74. § (1) A bíróság 73. §-ban meghatározott feladatait a nyomozási bíró látja el. A nyomozási bíró határozata ellen benyújtott fellebbezést a törvényszék másodfokú tanácsa bírálja el.
+74. § (1) A felügyeleti intézkedés végrehajtásának átvételére irányuló jogsegély iránti megkeresés teljesítésére a terhelt lakóhelye vagy tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, valamint Budapesten és a 73. § (2) bekezdés a) pont ab) alpontja esetén a Budai Központi Kerületi Bíróság rendelkezik hatáskörrel és illetékességgel.
 
-(2) Ha a magyar igazságügyi hatóságnak a felügyeleti intézkedést elrendelő tagállami határozat elismerésére és végrehajtására nincs hatásköre, vagy nem rendelkezik illetékességgel, azt haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező bírósághoz, és az áttételről a kibocsátó tagállami hatóságot értesíti.
+(2) A bíróság feladatait a nyomozási bíró látja el.
+
+(3) A bíróság a végrehajtás átvételére irányuló jogsegély iránti megkeresésről az iratok alapján dönt.
+
+(4) Ha a bírósághoz vagy más hatósághoz valamely tagállamból olyan jogsegély iránti megkeresés érkezik, amelynek elintézésére nem rendelkezik hatáskörrel vagy illetékességgel, a megkeresést haladéktalanul továbbítja a hatáskörrel és illetékességgel rendelkező bírósághoz, amelyről a bíróság vagy a hatóság a megkereső tagállami igazságügyi hatóságot tájékoztatja.

@@ -1,4 +1,4 @@
-70/G. § (1) A közös nyomozócsoport működése során a tagállam területén végzett eljárási cselekmény esetén az ügyész vagy a nyomozó hatóság, illetve a közös nyomozócsoport magyar tagja kérheti, hogy az eljárási cselekmény elvégzésére, illetve a bizonyítási eszköz beszerzésére a magyar jogszabályokban foglaltak szerint, illetve meghatározott technikai módszert alkalmazva kerüljön sor.
+70/G. § (1) A közös nyomozócsoport működése során a tagállam területén végzett eljárási cselekmény esetén a közös nyomozócsoport magyar tagja kérheti, hogy az eljárási cselekmény elvégzésére, illetve a bizonyítási eszköz beszerzésére a magyar jogszabályokban foglaltak szerint, illetve meghatározott technikai módszert alkalmazva kerüljön sor.
 
 (2) A közös nyomozócsoport tagállam területén eljáró magyar tagja a közös nyomozócsoport működése során a tagállami jogszabályok alapján, a megállapodásban foglaltak szerint végezhet eljárási cselekményt, illetve működhet közre az eljárási cselekmény elvégzése során.
 

@@ -1,13 +1,15 @@
-142. § (1) Az alternatív szankciót kiszabó tagállami határozat végrehajtását a bíróság haladéktalanul megszünteti, ha
+## IX/D. Fejezet
 
-a) a tagállami hatóság a tanúsítvány visszavonásáról értesíti a bíróságot;
+## ELKOBZÁS ÉS VAGYONELKOBZÁS VÉGREHAJTÁSÁRA IRÁNYULÓ JOGSEGÉLY
 
-b) ha az elítélt a végrehajtás megkezdése után Magyarország területén nem található, és a felkutatására tett intézkedések nem vezettek eredményre, vagy az elítélt lakóhellyel, illetve tartózkodási hellyel Magyarországon már nem rendelkezik;
+## 53. Értelmező rendelkezések
 
-c) az elítélt Magyarországon a végrehajtás megkezdése után kegyelemben részesül;
+142. § (1) E fejezet alkalmazásában vagyonelkobzást elrendelő tagállami határozat: a tagállamban lefolytatott büntetőeljárásban hozott, azon dolog vagy vagyon végleges tulajdonvesztését elrendelő tagállami bírósági határozat,
 
-d) a tagállami hatóság a határozat hatályon kívül helyezéséről, visszavonásáról vagy végrehajthatóságának megszűnéséről értesíti a bíróságot.
+a) amelyet a bűncselekmény elkövetéséhez eszközül használtak vagy arra szántak, ideértve azt a sajtóterméket is, amelyben a bűncselekmény megvalósult, amelyet a bűncselekmény befejezését követően a bűncselekmény tárgyának elszállítása céljából használtak, vagy amelyet a bűncselekmény elkövetése céljából az ehhez szükséges vagy ezt könnyítő feltételek biztosítása végett szolgáltattak vagy arra szántak,
 
-(2) Az alternatív szankciót kiszabó tagállami határozat végrehajtását a bíróság haladéktalanul megszünteti, ha a tagállamban az elítélt ellen új büntetőeljárás indult, és a végrehajtás megszüntetését a tagállami hatóság kéri.
+b) amely a bűncselekmény elkövetéséből ered, amelyet az elkövető a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett, vagy amely ezek helyébe lépett, továbbá amelyre a bűncselekményt elkövették, amely a bűncselekmény elkövetése útján jött létre, vagy amely az adott, illetve ígért vagyoni előny tárgya volt,
 
-(3) A végrehajtás megszüntetéséről a bíróság írásban, haladéktalanul értesíti a tagállami hatóságot.
+c) amelyre kiterjesztett vagyonelkobzás rendelhető el.
+
+(2) E fejezet alkalmazásában a tagállami ítélet alatt a vagyonelkobzást elrendelő tagállami határozatot is érteni kell.

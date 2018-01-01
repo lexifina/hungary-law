@@ -1,13 +1,35 @@
-109. § (1) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozatot vagy annak hitelesített másolatát, a 8. számú melléklet szerinti magyar nyelvű tanúsítványt, az elítélt nyilatkozatát tartalmazó jegyzőkönyvet és – ha az elítélt Magyarországon tartózkodik – az elítélt értesítését igazoló, a 9. számú melléklet szerinti formanyomtatványt a miniszter fogadja.
+## VIII. Fejezet
 
-(2) A miniszter, különösen a 111. § (4) bekezdésében meghatározott esetben, a büntetés végrehajtásának átvétele feltételei és indokoltsága tárgyában a kibocsátó tagállami igazságügyi hatósággal konzultálhat.
+## TAGÁLLAMI ÍTÉLET ÉRVÉNYE
 
-(3) Ha a 111. § (1) bekezdésében meghatározott feltétel fennáll, illetve a 111. § (3) bekezdése esetén az elítélt hozzájárulása rendelkezésre áll, és a miniszter véleménye szerint a szabadságvesztés büntetés vagy a szabadságelvonással járó intézkedés végrehajtásának átvétele az elítélt társadalomba való beilleszkedését szolgálja, a miniszter az iratokat megküldi a végrehajtó igazságügyi hatóságként hatáskörrel és kizárólagos illetékességgel rendelkező Fővárosi Törvényszéknek, ellenkező esetben a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását megtagadja.
+## 45. Figyelembevétel
 
-(4) A Fővárosi Törvényszék egyesbíróként jár el.
+109. § (1) Ha e törvény nem tesz kivételt, a büntetőügyben hozott tagállami ítélet a magyar bíróság ítéletével azonos érvényű, és azt a tagállami ítélet meghozatalát követően indult büntetőeljárásban az eljáró bíróság, ügyész és nyomozó hatóság figyelembe veszi.
 
-(5) Ha az iratoknak a Fővárosi Törvényszékhez érkezésekor a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat érvényének elismerése folyamatban van, a Fővárosi Törvényszék a külföldi ítélet elismerése tárgyában folyamatban lévő eljárást az e Fejezet alapján indult eljáráshoz egyesíti és egységesen e Fejezet rendelkezései szerint bírálja el.
+(2) Ha a tagállami ítélet megfeleltetésére nem került sor, az eljáró bíróságot, ügyészt és nyomozó hatóságot nem köti
 
-(6) Ha a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozatban pénzbüntetés kiszabására, illetve vagyonelkobzás elrendelésére is sor került, a határozat elismerésére és a végrehajtásról szóló határozat meghozatalára a Fővárosi Törvényszék rendelkezik hatáskörrel és illetékességgel.
+a) az, hogy a tagállami ítéletet más bíróság, ügyész vagy nyomozó hatóság már figyelembe vette, illetve
 
-(7) Ha a bírósághoz vagy más hatósághoz valamely tagállamból olyan megkeresés érkezik, amelynek elintézésére nem illetékes vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja a miniszternek és erről tájékoztatja a tagállami hatóságot.
+b) a figyelembevétel tartalma.
+
+(3) Nem vehető figyelembe a tagállami ítélet, ha
+
+a) a tagállami ítélet alapjául szolgáló eljárás súlyosan sértette a büntetőeljárás során a terheltet megillető, nemzetközi szerződésben vagy európai uniós jogi aktusban rögzített alapvető jogokat,
+
+b) a figyelembevétel sértené a kettős büntethetőség elvét,
+
+c) a tagállami ítélet alapjául szolgáló cselekmény vonatkozásában a terhelt a magyar törvény alapján gyermekkor miatt nem büntethető,
+
+d) a tagállami ítélet alapjául szolgáló cselekmény miatt Magyarországon büntetőeljárás van folyamatban, és a tagállami ítélet nem akadálya a büntetőeljárás lefolytatásának,
+
+e) a terheltnek a tagállami ítélet alapjául szolgáló cselekményét Magyarországon jogerősen elbírálták, vagy a cselekmény érdeméről olyan határozatot hoztak, amely azonos cselekmény vonatkozásában újabb büntetőeljárás megindításának akadályát képezi,
+
+f) a tagállami ítélet jogerőre emelkedését megelőzően egy másik tagállamban
+
+fa) a terheltnek a tagállami ítélet alapjául szolgáló cselekményét már jogerősen elbírálták, vagy
+
+fb) a tagállami ítélet alapjául szolgáló cselekmény érdeméről olyan határozatot hoztak, amely – a határozatot hozó tagállam joga alapján – azonos cselekmény vonatkozásában újabb büntetőeljárás megindításának akadályát képezi.
+
+(4) A (3) bekezdés f) pont fa) alpontja esetén azt a tagállami ítéletet kell figyelembe venni, amelyben a kiszabott büntetést végrehajtották, a végrehajtása folyamatban van, vagy az ítéletet hozó tagállam joga szerint nem lehet végrehajtani. Több ilyen büntetést kiszabó tagállami ítélet esetén a korábbi tagállami ítélet vehető figyelembe.
+
+(5) Az adókkal és az illetékekkel, valamint a vámokkal és a devizával kapcsolatos bűncselekmények esetén a (3) bekezdés b) pontja tekintetében a kettős büntethetőség vonatkozásában a figyelembevételnek nem akadálya, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték-, valamint vám- és devizaszabályozás terén, mint a tagállam joga.

@@ -1,11 +1,13 @@
 ## NEGYEDIK RÉSZ
 
-## VÉGREHAJTÁSI JOGSEGÉLYEK
+## TAGÁLLAMI ÍTÉLET ÉRVÉNYE, VÉGREHAJTÁSI JOGSEGÉLY, AZ ÁTMENŐ ÁTSZÁLLÍTÁS ÉS AZ EURÓPAI VÉDELMI HATÁROZAT
 
-## VIII. Fejezet
+## 44. Általános szabályok
 
-## A BÜNTETŐÜGYEKBEN HOZOTT, SZABADSÁGVESZTÉS BÜNTETÉST KISZABÓ VAGY SZABADSÁGELVONÁSSAL JÁRÓ INTÉZKEDÉST ALKALMAZÓ ÍTÉLETEK VÉGREHAJTÁSÁRA IRÁNYULÓ JOGSEGÉLY
+108. § A büntetőügyben eljáró tagállami bíróság által hozott jogerős, a büntetőjogi felelősséget érdemben elbíráló ítélet vagy határozat (a továbbiakban: tagállami ítélet) megfeleltetése, a végrehajtási jogsegély és az európai védelmi határozat végrehajtására irányuló jogsegély során,
 
-## 44. A végrehajtás átvétele
+a) ha e törvény másképp nem rendelkezik, a bíróság eljárására a Be. különleges eljárásokról szóló XXIX. Fejezetének általános szabályait – az 555. § (2) bekezdés d) és j) pontjában meghatározott rendelkezés kivételével – kell alkalmazni,
 
-108. § A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtásával kapcsolatos bírósági eljárásra a Be. 555. § (2) bekezdés b) és d) pontjában meghatározott rendelkezés nem alkalmazható.
+b) a Magyarországon felmerült bűnügyi költséget és egyéb költséget az állam viseli,
+
+c) ha az a döntéshozatalhoz elkerülhetetlenül szükséges, az eljáró igazságügyi hatóság e törvény eltérő rendelkezése hiányában közvetlenül az érintett tagállami igazságügyi hatóságtól kiegészítő adatok, illetve iratok rendelkezésre bocsátását kérheti.

@@ -1,5 +1,15 @@
-141. § (1) Az alternatív szankciót kiszabó tagállami határozat végrehajtása során a magyar jog szabályai irányadók, ideértve a feltételes szabadság megszüntetésére, a próbára bocsátás megszüntetésére és büntetés kiszabására, a felfüggesztett szabadságvesztés végrehajtására, az előírt magatartási szabályok módosítására, a közérdekű munka átváltoztatására, a sportrendezvények látogatásától való eltiltás szabályainak megszegése esetén – szabálysértés miatt – büntetés vagy intézkedés kiszabására vagy alkalmazására, illetve a jóvátételi munka előírása esetén a büntetés kiszabására vonatkozó szabályokat. Az e bekezdésben foglalt határozatok meghozataláról a bíróság írásban, haladéktalanul értesíti a tagállami hatóságot.
+## 52/D. A végrehajtás átadása
 
-(2) A bíróság a magatartási szabály vagy az alternatív szankció megsértéséről a 11. számú mellékletben szereplő formanyomtatványon haladéktalanul értesíti a tagállami hatóságot.
+141. § (1) A pénzbüntetés, a jogi személlyel szemben alkalmazott pénzbírság, a jogerős elítélés alapján bűnügyi költség megfizetésére kötelezés, valamint a sértett vagy a köz javára fizetendő jóvátétel végrehajtása átadható a terhelt lakóhelye, tartózkodási helye, a jogi személy székhelye vagy telephelye szerinti tagállamnak, vagy annak a tagállamnak ahol a terhelt vagy a jogi személy vagyonnal vagy jövedelemmel rendelkezik, ha annak összege a határozat jogerőre emelkedésének napján érvényes, a Magyar Nemzeti Bank által közzétett átváltási árfolyamon átszámítva meghaladja a hetven eurót.
 
-(3) A bíróság a tagállami hatóságot kérelemre haladéktalanul tájékoztatja az alternatív szankciót kiszabó tagállami határozat alapjául szolgáló bűncselekmény kapcsán a magyar jog szerint kiszabható szabadságvesztés maximális mértékéről, valamint arról, hogy a tagállami határozatban előírt magatartási szabály vagy alternatív szankció megsértése esetén a magyar jog szerint milyen szankciók szabhatók ki.
+(2) A bíróság a végrehajtás átadását a 138. § (1) bekezdésében meghatározott iratok végrehajtó tagállam részére történő megküldésével kezdeményezi.
+
+(3) Ha a pénzbüntetés, a jogi személlyel szemben alkalmazott pénzbírság, a bűnügyi költség vagy a jóvátétel végrehajtása egyidejűleg több tagállamban is lehetséges, a bíróság az összes körülmény mérlegelésével határoz arról, hogy a végrehajtási jogsegély teljesítése iránti megkeresést melyik tagállamba küldi meg.
+
+(4) A végrehajtás átadásának kezdeményezése esetén a bíróság indokolt esetben a tanúsítványban feltünteti az alábbiakat is:
+
+a) ha a pénzbüntetés, a jogi személlyel szemben alkalmazott pénzbírság, a bűnügyi költség vagy a jóvátétel részbeni teljesítésére már sor került,
+
+b) ha a pénzbüntetés végrehajthatatlansága esetén a büntetés átváltoztatásához hozzájárul, az átváltoztatás esetén alkalmazható szabadságvesztés maximális tartamával együtt.
+
+(5) A tanúsítvány a végrehajtás átvételét követően is bármikor visszavonható.

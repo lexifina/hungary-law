@@ -6,4 +6,4 @@
 
 (4) Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a tagállamban az európai nyomozási határozat végrehajtására melyik tagállami hatóság rendelkezik hatáskörrel és illetékességgel, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain keresztül is be lehet szerezni.
 
-(5) Az európai nyomozási határozat továbbítására, valamint a tagállami hatósággal való kapcsolattartásra a 38. § rendelkezéseit kell megfelelően alkalmazni.
+(5) Az európai nyomozási határozat továbbítására, valamint a tagállami hatósággal való kapcsolattartásra a 38. § rendelkezéseit kell megfelelően alkalmazni azzal, hogy az európai nyomozási határozatot a nyomozó hatóság tagállam területén jelen lévő tagja csak az ügyész jóváhagyásával adhatja át közvetlenül a tagállami hatóságnak.

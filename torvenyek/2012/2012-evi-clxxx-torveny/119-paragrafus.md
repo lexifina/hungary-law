@@ -1,7 +1,13 @@
-119. § (1) Ha nem állnak fenn a végrehajtás elhalasztásának feltételei, a Fővárosi Törvényszék az iratok kézhezvételétől számított hatvan napon belül dönt a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismeréséről és végrehajtásáról.
+## 47. A végrehajtás átadásának általános szabályai
 
-(2) A Fővárosi Törvényszék határozatával szemben fellebbezést az jelenthet be, akivel a határozatot közölték. A kihirdetés útján közölt határozat elleni fellebbezést a kihirdetést követően nyomban be kell jelenteni. A kézbesítés útján közölt határozat elleni fellebbezés a kézbesítéstől számított három napon belül jelenthető be. A Fővárosi Törvényszék a fellebbezést a nyilatkozatok beérkezését követően haladéktalanul, közvetlenül küldi meg a Fővárosi Ítélőtáblának.
+119. § (1) Az elítélt a végrehajtási jogsegélyt érintő kezdeményezését vagy más nyilatkozatát a végrehajtási jogsegély alapjául szolgáló határozat kihirdetésekor is előterjesztheti, amelyet a büntetőügyben eljáró bíróság az e törvényben foglaltak alapján jegyzőkönyvbe vesz, és azt a végrehajtási jogsegély előterjesztésére hatáskörrel és illetékességgel rendelkező bírósághoz továbbítja.
 
-(3) A Fővárosi Ítélőtábla az iratok kézhezvételét követően haladéktalanul, de legkésőbb az iratoknak a Fővárosi Törvényszékhez érkezésétől számított kilencven napon belül dönt a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismeréséről és végrehajtásáról.
+(2) Ha a végrehajtás átadására távollévő terhelttel szembeni külön eljárásban, lemondás a tárgyalásról külön eljárásban vagy tárgyalás mellőzése külön eljárásban hozott határozat alapján kerül sor, továbbá, ha a végrehajtás átadásának alapjául szolgáló ítélet hozatalára azért került sor a terhelt távollétben, mert a terhelt előzetesen bejelentette, hogy a tárgyaláson nem kíván részt venni, a tanúsítványban fel kell tüntetni
 
-(4) Ha kivételes esetben a jogerős határozat az (1) bekezdésben meghatározott határidőn belül nem hozható meg, a bíróság – a késedelem okainak és a jogerős határozat meghozatalához előreláthatóan szükséges időnek a közlése mellett – a miniszter útján haladéktalanul tájékoztatja a tagállami igazságügyi hatóságot.
+a) a terhelt távollétének tényét,
+
+b) a terhelt idézésével vagy értesítésével, továbbá az eljárást érintő tudomásával kapcsolatos körülményeket,
+
+c) a terhelt védelmével kapcsolatos körülményeket, és
+
+d) a terhelt számára rendelkezésre álló jogorvoslati lehetőség adatait.

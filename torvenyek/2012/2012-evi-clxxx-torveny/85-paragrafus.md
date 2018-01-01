@@ -1,13 +1,19 @@
-85. § (1) A nyomozási bíró a felügyeleti intézkedés végrehajtásának ellenőrzését megszünteti, ha
+85. § (1) A bíróság a felügyeleti intézkedés végrehajtását megszünteti, ha
 
-a) a terhelt a felügyeleti intézkedést elrendelő tagállami határozat elismerését követően Magyarország területén nem található, és a felkutatására tett intézkedések nem vezettek eredményre, vagy a terhelt lakóhellyel, illetve tartózkodási hellyel Magyarországon már nem rendelkezik,
+a) a terhelt a végrehajtás megkezdését követően Magyarország területén nem található, és a felkutatására tett intézkedések nem vezettek eredményre,
 
-b) a tagállami hatóság a tanúsítvány visszavonásáról értesítette,
+b) a tagállami igazságügyi hatóság a tanúsítványt visszavonta, és erről a bíróságot értesítette,
 
-c) a módosított felügyeleti intézkedés elismerését és végrehajtását a 84. § (1) bekezdése alapján megtagadta,
+c) a módosított felügyeleti intézkedés végrehajtásának átvételét a 84. § alapján megtagadta,
 
-d) a felügyeleti intézkedés határideje meghosszabbítás nélkül letelt.
+d) a felügyeleti intézkedés tartama vagy határideje fenntartás vagy meghosszabbítás nélkül letelt,
 
-(1a) Az (1) bekezdésben és a 84. § (3) bekezdésében meghatározott megszüntetést megelőzően a nyomozási bíró egyeztetést folytat a tagállami hatósággal az ellenőrzés megszüntetésének elkerülése érdekében.
+e) a 83. § (2) bekezdése alapján meghatározott határidő eredménytelenül eltelt,
 
-(2) A megszüntető határozatot a nyomozási bíró a tagállami hatóság részére haladéktalanul megküldi.
+f) a 83. § (3) bekezdése alapján kibocsátott európai elfogatóparancs alapján a terhelt őrizetbe vételére került sor,
+
+g) a terhelttel szemben más ügyben személyi szabadságot elvonó vagy korlátozó szigorúbb, a felügyeleti intézkedés végrehajtását kizáró kényszerintézkedés elrendelésére került sor, vagy a terhelt szabadságvesztést, elzárást vagy javítóintézeti nevelést tölt.
+
+(2) Ha a felügyeleti intézkedés megszüntetésének az (1) bekezdésben meghatározott indoka felmerül, a bíróság a megszüntetés elkerülése érdekében a tagállami igazságügyi hatósággal egyeztetést folytathat.
+
+(3) A megszüntető határozatot a bíróság a tagállami igazságügyi hatóság részére haladéktalanul megküldi.

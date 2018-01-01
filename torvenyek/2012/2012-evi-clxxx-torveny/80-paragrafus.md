@@ -1,17 +1,7 @@
-80. § (1) A nyomozási bíró a felügyeleti intézkedést elrendelő tagállami határozatban megjelölt időtartamnak megfelelően állapítja meg az elismert felügyeleti intézkedés tartamát, úgy, hogy az a (2) bekezdésben meghatározott időtartamot nem haladhatja meg.
+80. § (1) A bíróság a 73. § (1) bekezdés a) pontjában meghatározott felügyeleti intézkedés esetén a terheltet arra kötelezi, hogy az elérhetőségének megváltozását a változást követő három munkanapon belül a bíróságnak jelentse be.
 
-(2) Ha a nyomozási bíró felügyeleti intézkedésként
+(2) A bíróság a 73. § (1) bekezdés b) pontjában meghatározott felügyeleti intézkedés esetén a terheltet arra kötelezi, hogy meghatározott időszakonként a lakóhelye vagy a tartózkodási helye szerinti rendőrkapitányságon jelentkezzen.
 
-a) lakhelyelhagyási tilalmat állapít meg, akkor annak időtartamát legfeljebb hat hónapban,
+(3) A terhelt az (1) és (2) bekezdésben meghatározott kötelezettségek megszegése esetén rendbírsággal sújtható. Erre a terheltet a végrehajtás átvételéről szóló határozatban figyelmeztetni kell.
 
-b) házi őrizetet állapít meg, akkor annak időtartamát legfeljebb három hónapban,
-
-c) távoltartást állapít meg, akkor annak időtartamát legfeljebb hatvan napban
-
-határozhatja meg.
-
-(3) A Be.-nek a lakhelyelhagyási tilalom és a házi őrizet meghosszabbítására, fenntartására és megszüntetésére vonatkozó rendelkezései nem alkalmazhatóak.
-
-(4) Ha a Be. 137. § (7) bekezdése alkalmazásának van helye, azt azzal az eltéréssel kell alkalmazni, hogy a felügyeleti intézkedés részleges feloldását kizárólag a nyomozási bíró rendelheti el.
-
-(5) Az elismert felügyeleti intézkedés végrehajtásának ellenőrzésére a magyar jog az irányadó.
+(4) A bíróság a (2) bekezdésben meghatározott kötelezettség meghatározása esetén a felügyeleti intézkedés indokoltságát hathavonta felülvizsgálja.

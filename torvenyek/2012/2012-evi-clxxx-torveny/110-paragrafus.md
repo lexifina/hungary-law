@@ -1,5 +1,1 @@
-110. § (1) Ha a tagállami igazságügyi hatóság által kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés tartama hosszabb, mint ami a határozat alapjául szolgáló tényállás szerinti bűncselekményre vonatkozóan – a Btk.-nak a büntetés enyhítésére vonatkozó szabályaira is figyelemmel – a magyar törvény alapján megállapítható lenne, akkor a bíróság által megállapított büntetés vagy intézkedés tartama nem lehet rövidebb, mint a határozat alapjául szolgáló tényállás szerinti bűncselekményre a Btk. által előírt büntetési tételkeret felső határa.
-
-(2) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtása során a magyar jog szabályai az irányadók.
-
-(3) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat magyarországi elismerése és végrehajtása esetén is csak a határozatot hozó tagállam hatósága jogosult a határozat bármilyen felülvizsgálatával kapcsolatos döntés meghozatalára.
+110. § A tagállami ítélet figyelembevétele és magyarországi érvénye nem érinti azt a körülményt, hogy a tagállami ítélet tekintetében rendkívüli jogorvoslatra, vagy a tagállami ítélet felülvizsgálatát eredményező más hasonló eljárás lefolytatására csak az ítéletet hozó tagállam joga alapján van lehetőség.

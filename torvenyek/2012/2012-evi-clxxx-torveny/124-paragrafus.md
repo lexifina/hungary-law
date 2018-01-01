@@ -1,4 +1,6 @@
-124. § A Fővárosi Törvényszék a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat és a tanúsítvány megérkezése vagy a végrehajtásra vonatkozó határozat meghozatala előtt a Magyarország területén tartózkodó elítélt ideiglenes végrehajtási letartóztatását rendeli el, ha
+## 48/E. Ideiglenes végrehajtási letartóztatás
+
+124. § A bíróság a végrehajtás átvételére irányuló jogsegély megérkezése vagy a végrehajtásra vonatkozó határozat meghozatala előtt a Magyarország területén tartózkodó elítélt ideiglenes végrehajtási letartóztatását rendeli el, ha
 
 a) a tagállami igazságügyi hatóság erre irányuló indítványt tett,
 

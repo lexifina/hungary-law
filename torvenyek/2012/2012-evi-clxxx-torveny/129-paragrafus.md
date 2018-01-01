@@ -1,23 +1,17 @@
-129. § (1) A végrehajtás átadása iránt a miniszter keresi meg a tagállami igazságügyi hatóságot. A megkeresésben tájékoztatást kell kérni arról, hogy a végrehajtó tagállam joga szerint az érintett személy mely időpontban jogosult korai vagy feltételes szabadságra.
+## 49/C. Az elítélt kezdeményezése, hozzájárulása
 
-(2) A tanúsítványt le kell fordítani a végrehajtó tagállam hivatalos nyelvére vagy hivatalos nyelveinek egyikére. Ha a végrehajtó tagállam olyan nyilatkozatot tesz, hogy más nyelven készült fordítást is elfogad, a tanúsítvány azon a nyelven is továbbítható.
+129. § (1) Az elítélt – ha a végrehajtás átadásának feltételei fennállnak vagy megalapozottan feltehető, hogy a feltételei fenn fognak állni – kezdeményezheti a vele szemben kiszabott szabadságvesztés büntetésnek vagy szabadságelvonással járó intézkedésnek egy másik tagállamban történő végrehajtását.
 
-(3) Az ítéletet csak akkor kell lefordítani a (2) bekezdésben megjelölt valamely nyelvre, ha a végrehajtó tagállam erre irányuló kérelmet terjeszt elő, és korábban olyan nyilatkozatot tett, amely alapján kérheti az ítéletnek vagy annak lényeges részeinek fordítását.
+(2) Az elítélt a kezdeményezését a büntetés-végrehajtási intézetben is előterjesztheti. A büntetés-végrehajtási intézet az elítélt kezdeményezését a miniszter részére továbbítja.
 
-(3a) A miniszter a tanúsítványt és az ítéletet a tagállami igazságügyi hatóság számára továbbítja bármely olyan írásban dokumentált módon, amely lehetővé teszi a végrehajtó tagállam számára a határozat hitelességének megállapítását. Ha a miniszter a határozatot nem postai úton küldte meg, akkor kérelemre a tanúsítvány és az ítélet eredeti példányát megküldi a tagállami igazságügyi hatóság számára.
+(3) Az elítélt a hozzájárulásáról a büntetés-végrehajtási bíró előtt nyilatkozhat, amelyet jegyzőkönyvbe kell foglalni. A jegyzőkönyvet a büntetés-végrehajtási bírónak és a nyilatkozattevőnek alá kell írnia. A nyilatkozatban fel kell tüntetni az elítélt személy tagállamban található lakóhelyét vagy állandó tartózkodási helyét, és a büntetés vagy intézkedés tagállami végrehajtásával kapcsolatban megfogalmazott indokait is.
 
-(4) A miniszter a 9. számú melléklet szerinti formanyomtatványon, az elítélt anyanyelvén vagy az általa ismertként megjelölt más nyelven értesíti az elítéltet az iratoknak a tagállami igazságügyi hatóság részére történt továbbításáról.
+(4) Az elítélt meghallgatása során, a nyilatkozattételt megelőzően a büntetés-végrehajtási bíró az elítéltet tájékoztatja
 
-(5) A büntetés végrehajtásának megkezdése előtt a tanúsítvány – indokolással – visszavonható.
+a) a végrehajtás átadásának lényeges körülményeiről, következményeiről,
 
-(6) Ha
+b) arról, hogy a kezdeményezése hozzájárulásnak minősül,
 
-a) a büntetés végrehajtása még nem kezdődött meg, és
+c) a specialitás szabályáról, továbbá arról, hogy hozzájárulása esetén a specialitás szabálya nem alkalmazható.
 
-b) az (1) bekezdés szerinti megkeresésre érkezett tájékoztatás alapján feltehető, hogy a bíróság által kiszabott szabadságvesztés büntetés célja a korai vagy feltételes szabadságra bocsátás időpontjának végrehajtó tagállam általi meghatározására tekintettel nem érhető el,
-
-a miniszter haladéktalanul tájékoztatja a bíróságot az (1) bekezdés szerinti megkeresésre adott végrehajtó tagállami válaszról és erre tekintettel a végrehajtás átadásának megtagadásáról. A bíróság a miniszteri tájékoztatást követő tíz napon belül visszavonja a tanúsítványt, és az erről szóló határozatát haladéktalanul megküldi a miniszternek.
-
-(7) Ha a tagállami igazságügyi hatóság arról értesíti a minisztert, hogy az ítélet végrehajtását azért szüntette meg, mert az elítélt a végrehajtás megkezdése után a tagállam területén nem volt megtalálható és a felkutatására tett intézkedések nem vezettek eredményre, akkor a továbbiakban az ítélet végrehajtására a magyar szabályok irányadóak.
-
-(8) A végrehajtás átadásáról a miniszter dönt.
+(5) Ha a végrehajtás átadása az elítélt hozzájárulásához kötött, és a végrehajtás átadására nem az elítélt kezdeményezésére került sor, az elítélt hozzájárulásával kapcsolatos nyilatkozatának beszerzésére az (3)–(4) bekezdést kell megfelelően alkalmazni.

@@ -1,23 +1,31 @@
-146. § (1) Ha
+## 54/C. A végrehajtás átadása
 
-a) a tagállami hatóság a magatartási szabályt vagy alternatív szankciót a nemzeti jogának megfelelően átalakította,
+146. § (1) A Btk. 72. § (1) bekezdés a)–c) pontja vagy a Btk. 72. § (2) bekezdése alapján elrendelt elkobzásának, a Btk. 74. §-a alapján elrendelt vagyonelkobzásnak, a Btk. 74/A. §-a alapján elrendelt kiterjesztett vagyonelkobzásnak, vagy a Btk. 75. §-a alapján pénzösszegben kifejezve elrendelt vagyonelkobzásnak a végrehajtása átadható annak a tagállamnak, amellyel kapcsolatban megalapozottan feltehető, hogy a területén a vagyonelkobzással vagy elkobzással érintett vagyontárgy, illetve dolog, a vagyonelkobzással érintett természetes vagy jogi személy vagyona, jövedelme, vagy a vagyonelkobzással érintett természetes vagy jogi személy lakóhelye, tartózkodási helye, illetve székhelye, telephelye található.
 
-b) a tagállami hatóság a bíróságot kérelemre tájékoztatta a határozat alapjául szolgáló bűncselekmény kapcsán a tagállam joga szerint kiszabható szabadságvesztés leghosszabb tartamáról, valamint arról, hogy az előírt magatartási szabály vagy alternatív szankció megsértése esetén a tagállam joga szerint milyen szankciók szabhatók ki,
+(2) A bíróság a végrehajtás átadását a 143. § b) pontjában meghatározott iratok végrehajtó tagállam részére történő megküldésével kezdeményezi.
 
-és a tagállamban a végrehajtás ellenőrzése még nem kezdődött meg, a bíróság, ha erre tekintettel az általa előírt magatartási szabály vagy alternatív szankció tagállami végrehajtását nem tartja megfelelőnek, az erről szóló tagállami tájékoztatás kézhezvételétől számított tíz napon belül dönthet a tanúsítvány visszavonásáról, és az erről szóló határozatát a tagállami hatóság részére haladéktalanul megküldi.
+(3) A tanúsítvány egyidejűleg több tagállam illetékes hatóságához is továbbítható, ha megalapozottan feltételezhető, hogy
 
-(2) Ha
+a) az elkobzás alá eső több dolog, vagy vagyonelkobzás alá eső több vagyontárgy különböző tagállamokban található,
 
-a) a bíróság a tanúsítványt az (1) bekezdés szerint visszavonta, és erről a tagállami hatóságot értesítette;
+b) az elkobzás alá eső dolog, illetve vagyonelkobzás alá eső vagyontárgy elkobzása több tagállam területére kiterjedő fellépést tesz szükségessé,
 
-b) az elítélt ellen Magyarországon új büntetőeljárás indult, és erről a magyar bíróság a tagállami hatóságot értesítette;
+c) az elkobzás alá eső dolog, illetve vagyonelkobzás alá eső vagyontárgy több meghatározott tagállam egyikében található, vagy
 
-c) az elítélt a végrehajtás megkezdése után a tagállam területén nem található és a felkutatására tett intézkedések nem vezettek eredményre, vagy lakóhellyel, illetve tartózkodási hellyel a tagállamban már nem rendelkezik;
+d) a pénzösszegben kifejezett vagyonelkobzás teljes összegének fedezésére Magyarország és egy további tagállam területén található vagyon értéke nem elegendő.
 
-d) a magatartási szabályok megszegése miatt a felfüggesztett szabadságvesztés végrehajtása, a feltételes szabadság megszüntetése, a próbára bocsátás megszüntetése és büntetés kiszabása vagy a közérdekű munka végzésére vonatkozó kötelezettség megszegése miatt a kiszabott közérdekű munka átváltoztatása, a sportrendezvények látogatásától való eltiltás szabályainak megszegése miatt büntetés vagy intézkedés kiszabása vagy alkalmazása, illetve jóvátételi munka előírása esetén büntetés kiszabása válik szükségessé, és az ezzel kapcsolatos határozat meghozatalát a tagállami hatóság megtagadta;
+(4) A bíróság a 14. számú mellékletben megjelölt tanúsítványban indokolt esetben megjelöli,
 
-és a tagállami hatóság a végrehajtást ez alapján megszüntette, a továbbiakban a bíróság a végrehajtást a magyar szabályok szerint folytatja.
+a) a tanúsítvány i) pont 1.1. alpontjában, hogy a vagyonelkobzás végrehajtása pénzösszegre irányul, ha a Btk. 74. § (1) bekezdése alapján a vagyonelkobzás meghatározott értékre, vagy a Btk. 75. § (1) bekezdése alapján a vagyonelkobzás pénzösszegben kifejezve lett elrendelve,
 
-(3) A (2) bekezdés d) pontjában foglalt határozatok meghozataláról, valamint a végrehajtás idejének leteltéről a bíróság haladéktalanul tájékoztatja a tagállami hatóságot.
+b) hogy a bíróság a tanúsítványt több tagállamnak küldte meg, ennek okával és körülményeivel együtt,
 
-(4) Ha a (2) bekezdés alapján a továbbiakban a végrehajtást a magyar szabályok szerint a bíróság folytatja, akkor a 145. § (1) bekezdésében meghatározott, a magatartási szabályok alapjául szolgáló pártfogó felügyeletnek vagy az alternatív szankcióknak a bíróság által meghatározott tartamába a tagállami végrehajtás teljes tartamát be kell számítani.
+c) ha az elkobzás vagy a vagyonelkobzás végrehajtásának átadására irányuló jogsegély előterjesztését megelőzően az azzal érintett dolog vagy vagyon biztosítása érdekében a VI. Fejezet alapján bizonyítási eszközök felderítése, összegyűjtése, biztosítása vagy felhasználása végett, illetve az elkobzás, vagyonelkobzás biztosítása érdekében határozat kibocsátására került sor,
+
+d) hogy a vagyonelkobzás esetén hozzájárul-e ahhoz, hogy a végrehajtó tagállam egy meghatározott vagyontárgyra elrendelt vagyonelkobzás eredménytelen végrehajtása esetén a vagyonelkobzást pénzösszegben kifejezve is végrehajthassa,
+
+e) ha a pénzösszegben, meghatározott értékű vagyonban vagy vagyonrészben meghatározott vagyonelkobzás esetén a bíróság hozzájárul ahhoz, hogy a végrehajtó tagállam a vagyonelkobzást egyes vagyontárgyak elvonásával hajtsa végre.
+
+(5) Elkobzás végrehajtásának átadására irányuló kérelem esetén a (4) bekezdés d) és e) pontja nem alkalmazható.
+
+(6) A bíróság a 14. számú mellékletben megjelölt tanúsítvány l) pont 1. alpontjában megjelöli, hogy az elkobzás vagy a vagyonelkobzás végrehajtásának eredménytelensége esetén alternatív intézkedés nem alkalmazható.

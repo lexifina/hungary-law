@@ -1,11 +1,9 @@
-## 53. A végrehajtás átadása
+## 55/F. Az európai védelmi határozat módosítása
 
-154. § (1) A pénzbüntetésnek egy másik tagállamban való végrehajtása iránt a bíróság, amelynek eljárásában a pénzbüntetés, a bűnügyi költség végrehajthatóvá válik, a hatáskörrel rendelkező és illetékes tagállami hatósághoz címzett közvetlen megkeresés útján intézkedhet, feltéve, hogy a pénzbüntetés összege a határozat jogerőre emelkedésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon átszámítva meghaladja a 70 eurót.
+154. § (1) Ha a tagállami hatóság az európai védelmi határozatot módosítja és erről a bíróságot tájékoztatja, a bíróság a 148–153. § megfelelő alkalmazásával
 
-(2) A bíróság kiállítja a 13. számú mellékletben szereplő tanúsítványt, amelyet – a megkeresés alapjául szolgáló határozattal vagy annak hitelesített másolatával együtt – a végrehajtó tagállam hivatalos nyelvére vagy a tagállam által megjelölt nyelvre lefordítva posta, telefax vagy számítástechnikai rendszer útján továbbít a hatáskörrel rendelkező és illetékes tagállami hatósághoz. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni.
+a) a végrehajtást elrendelő határozatát módosítja, illetve kiegészíti, szükség esetén annak egyes rendelkezéseit hatályon kívül helyezi, vagy
 
-(2a) Ha a bíróság a határozatot és a tanúsítványt nem postai úton küldte meg, akkor kérelemre a határozat és a tanúsítvány eredeti példányát megküldi a tagállami hatóság számára.
+b) a módosított európai védelmi határozat végrehajtását megtagadja.
 
-(3) Ha a pénzbüntetés, a bűnügyi költség végrehajtása egyidejűleg több tagállamban is lehetséges, a bíróság az összes körülmény mérlegelésével határoz arról, hogy a végrehajtás iránti megkeresést melyik tagállamba küldi meg. A megkeresést egyidejűleg csak egy tagállamba lehet továbbítani.
-
-(4) Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a végrehajtó tagállamban a határozat végrehajtására melyik tagállami hatóság rendelkezik hatáskörrel és illetékességgel, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain keresztül kell beszerezni.
+(2) Ha a veszélyeztetett személy életkörülményeiben olyan változás következik be, amely az európai védelmi határozat végrehajtását elrendelő határozatban megjelölt kötelezettség, illetve tilalom részleges vagy tartós megváltoztatását indokolja a bíróság a veszélyeztetett személy indítványára a végrehajtást elrendelő határozatát módosíthatja vagy kiegészítheti. E rendelkezés nem érintheti az európai védelmi határozatban meghatározott kötelezettségek, illetve tilalmak érdemét.

@@ -1,9 +1,0 @@
-163/M. § (1) A védett személy az európai védelmi határozat kibocsátása iránti kérelmet – választása szerint – a bíróságnál vagy az ügyésznél, vagy annak a tagállamnak az illetékes hatóságánál nyújthatja be, amelynek területén lakni vagy tartózkodni kíván, vagy amelynek területén a lakóhelye vagy tartózkodási helye van.
-
-(2) Az európai védelmi határozat kibocsátása iránti kérelmet a cselekvőképtelen, korlátozottan cselekvőképes kiskorú vagy cselekvőképességében részlegesen korlátozott nagykorú védett személy esetében a törvényes képviselő, eseti gyám, eseti gondnok nyújthatja be, egyébként meghatalmazott ügyvéd, nagykorú hozzátartozó vagy pártfogó ügyvéd is benyújthatja.
-
-(3) Ha a védett személy vagy a (2) bekezdésben megjelölt valamely személy az európai védelmi határozat kibocsátása iránti kérelmet az (1) bekezdés alapján a bíróságnál vagy az ügyésznél nyújtotta be, akkor a bíróság vagy az ügyész haladéktalanul dönt az európai védelmi határozat kibocsátásáról vagy a kérelem elutasításáról.
-
-(4) Ha a védett személy vagy a (2) bekezdésben megjelölt valamely személy az európai védelmi határozat kibocsátása iránti kérelmet az (1) bekezdés alapján annak a tagállamnak az illetékes hatóságánál nyújtotta be, amelynek területén lakni vagy tartózkodni kíván, vagy amelynek területén a lakóhelye vagy tartózkodási helye van, akkor a bíróság vagy az ügyész azután dönt haladéktalanul az európai védelmi határozat kibocsátásáról vagy a kérelem elutasításáról, hogy a tagállami hatóság a kérelmet a bíróságnak vagy az ügyésznek továbbította.
-
-(5) A bíróság vagy az ügyész az európai védelmi határozat kibocsátása vagy a kérelem elutasítása tárgyában haladéktalanul indokolt határozatot hoz, amelyet a védett személynek és a (2) bekezdésben megjelölt személynek, valamint a terheltnek haladéktalanul megküld. A határozat ellen jogorvoslatnak helye nincs.

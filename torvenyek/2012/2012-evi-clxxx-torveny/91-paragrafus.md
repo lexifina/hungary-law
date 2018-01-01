@@ -1,1 +1,3 @@
-91. § A tagállami hatóság azzal kapcsolatos megkeresésére, hogy a felügyeleti intézkedés fenntartása a továbbiakban is indokolt-e, a bíróság haladéktalanul tájékoztatja a tagállami hatóságot, és szükség esetén további határozatot hoz.
+91. § (1) Ha a tagállami igazságügyi hatóság a bíróságot a felügyeleti intézkedés megsértéséről tájékoztatja, a végrehajtó tagállam által tett intézkedések figyelembevételével, a bíróság a magyar jogszabályok alapján rendelkezik a felügyeleti intézkedésről, amelyről a tagállami igazságügyi hatóságot tájékoztatja.
+
+(2) Ha a tagállami igazságügyi hatóság a bíróságot a felügyeleti intézkedés végrehajtását érintő körülményről tájékoztatja, illetve a bíróság határozatának vagy az abban meghatározott felügyeleti intézkedés módosítását kezdeményezi az (1) bekezdés rendelkezéseit kell megfelelően alkalmazni.

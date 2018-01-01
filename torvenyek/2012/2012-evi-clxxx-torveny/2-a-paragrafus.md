@@ -1,6 +1,6 @@
 2/A. § (1) Ha e törvény kivételt nem tesz, a jogosult – írásbeli kérelemre – a kapcsolódó eljárás bármely szakaszában betekinthet a kérelem benyújtásáig keletkezett, az igazságügyért felelős miniszter (a továbbiakban: miniszter) kezelésében lévő eljárási iratokba. A miniszter az iratok megtekintésének határnapjáról haladéktalanul értesíti a jogosultat.
 
-(2) Az eljárási iratról az arra jogosult másolatot, kivonatot készíthet. A miniszter az eljárási iratról a jogosult írásbeli kérelmére legkésőbb a kérelem előterjesztésétől számított nyolc napon belül egy példányt térítésmentesen, minden további példányt költségtérítés ellenében ad ki. Ha a kiadni kért irat elektronikus formában rendelkezésre áll, a jogosult kérheti, hogy a miniszter a másolatot elektronikus úton vagy a jogosult által rendelkezésre bocsátott elektronikus adathordozón adja ki.
+(2) Az eljárási iratról az arra jogosult másolatot, kivonatot készíthet. A miniszter az eljárási iratról a jogosult írásbeli kérelmére legkésőbb a kérelem előterjesztésétől számított nyolc napon belül egy alkalommal térítésmentesen, minden további alkalommal költségtérítés ellenében ad ki. Ha a kiadni kért irat elektronikus formában rendelkezésre áll, a jogosult kérheti, hogy a miniszter a másolatot elektronikus úton vagy a jogosult által rendelkezésre bocsátott elektronikus adathordozón adja ki.
 
 (3) Nem lehet betekinteni
 

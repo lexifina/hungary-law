@@ -10,9 +10,11 @@
 
 (3) Büntetőeljárás lefolytatása céljából a vádirat benyújtását követően a (2) bekezdésben foglalt feltétel megvalósulása esetén is csak akkor bocsátható ki európai elfogatóparancs, ha a vádiratban, illetve a vád módosítása vagy kiterjesztése során az ügyész végrehajtandó szabadságvesztés büntetés kiszabására vagy javítóintézeti nevelés alkalmazására tett indítványt.
 
+(3a) A külföldön fogvatartásban lévő terhelttel szemben európai elfogatóparancs az (1)–(3) bekezdésben meghatározott feltételek esetén is csak akkor bocsátható ki, ha a terhelt részvétele a büntetőeljárásban, illetve jelenléte az eljárási cselekményeken eljárási jogsegélykérelem előterjesztésével nem vagy – a bűncselekmény tárgyi súlya, illetve az ügy megítélése okán – nem megfelelően biztosítható.
+
 (4) A vádirat benyújtása előtt az európai elfogatóparancsot a nyomozási bíró bocsátja ki. Ha a terhelten jogerősen kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedést kell végrehajtani, az európai elfogatóparancsot a büntetés-végrehajtási bíró bocsátja ki. Az európai elfogatóparancsot a bíróság a miniszternek és a NEBEK-nek küldi meg.
 
-(5) Az európai elfogatóparancsot a 2. számú mellékletben szereplő tanúsítványnak megfelelően, az 1. számú melléklet figyelembevételével kell kibocsátani.
+(5) Az európai elfogatóparancsot a 2. számú mellékletben megjelölt formanyomtatvány szerint, a formanyomtatvány tagállam hivatalos nyelvén, hivatalos nyelveinek egyikén vagy a tagállam által megjelölt nyelven rendelkezésre álló fordításának felhasználásával, az 1. számú melléklet figyelembevételével kell kibocsátani.
 
 (6) Az európai elfogatóparancsot le kell fordítani a végrehajtó tagállam hivatalos nyelvére vagy hivatalos nyelveinek egyikére, amennyiben a végrehajtó tagállam azt magyar nyelven nem fogadja el.
 

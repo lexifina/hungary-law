@@ -6,6 +6,8 @@
 
 (3) Ha a terhelt az átadásba beleegyezik, a Fővárosi Törvényszék az átadási letartóztatásról és egyszerűsített átadásról a terhelt beleegyezésétől számított tíz napon belül dönt.
 
+(3a) Ha a terhelt az átadásba beleegyezett és az (1) bekezdés szerinti döntés meghozatalához kizárólag a tagállami igazságügyi hatóság által nyújtott garancia beszerzése szükséges, a Fővárosi Törvényszék a tagállami garancia megérkezését követően az ideiglenes átadási letartóztatásban lévő terhelt átadási letartóztatását és egyszerűsített átadását az iratok alapján is elrendelheti. E lehetőségről a terheltet az ideiglenes átadási letartóztatás elrendelésekor tájékoztatni kell.
+
 (4) Ha kivételes esetben az átadási letartóztatásról és egyszerűsített átadásról szóló határozat az (3) bekezdésben meghatározott határidőn belül nem hozható meg, a 16. § (2) és (3) bekezdését megfelelően alkalmazni kell azzal, hogy a Fővárosi Törvényszék a határidőt legfeljebb tíz nappal hosszabbíthatja meg.
 
 (5) Az átadási letartóztatás és egyszerűsített átadás elrendelése ellen fellebbezésnek nincs helye.

@@ -12,4 +12,4 @@ b) a rendelkezésre álló adatok alapján a terhelt átadásáról nem lehet d�
 
 (4) Az ideiglenes átadási letartóztatást meg kell szüntetni, ha annak elrendelésétől számított negyven napon belül az európai elfogatóparancs nem érkezik meg.
 
-(5) A bíróság a kényszerintézkedés tárgyában hozott határozatát haladéktalanul megküldi a miniszternek.
+(5) A bíróság a kényszerintézkedés tárgyában hozott határozatát haladéktalanul megküldi a miniszternek, és a miniszter útján intézkedik az európai elfogatóparancs beszerzése végett.

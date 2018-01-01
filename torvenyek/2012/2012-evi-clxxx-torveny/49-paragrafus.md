@@ -1,4 +1,4 @@
-49. § (1) A bíróság vagy az ügyész haladéktalanul vagy a tagállami hatóság által megjelölt időpontban átadja a tagállami hatóságnak az eljárási cselekmény elvégzése során megszerzett, illetve a már rendelkezésére álló bizonyítási eszközt, valamint az azzal kapcsolatos iratokat.
+49. § (1) A bíróság, az ügyész vagy ezek megbízása alapján a nyomozó hatóság haladéktalanul vagy a tagállami hatóság által megjelölt időpontban átadja a tagállami hatóságnak az eljárási cselekmény elvégzése során megszerzett, illetve a már rendelkezésére álló bizonyítási eszközt, valamint az azzal kapcsolatos iratokat.
 
 (2) Ha a bizonyítási eszköz átadását a tagállami hatóság az európai nyomozási határozatban nem kéri, a bíróság vagy az ügyész az (1) bekezdésben foglaltakat azzal teljesíti, hogy a tagállami hatóságot a bizonyítási eszköz átadása helyett annak rendelkezésre állásáról tájékoztatja.
 

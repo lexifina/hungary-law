@@ -1,4 +1,4 @@
-70/E. § (1) A közös nyomozócsoport működése során Magyarország területén végzett eljárási cselekmény esetén a tagállami hatóság vagy a közös nyomozócsoport tagállami tagja által megjelölt szabályok szerint, illetve technikai módszert alkalmazva kell eljárni, ha ez nem összeegyeztethetetlen a magyar jogrendszer alapelveivel.
+70/E. § (1) A közös nyomozócsoport működése során Magyarország területén végzett eljárási cselekmény esetén a közös nyomozócsoport tagállami tagja által megjelölt szabályok szerint, illetve technikai módszert alkalmazva kell eljárni, ha ez nem összeegyeztethetetlen a magyar jogrendszer alapelveivel.
 
 (2) A közös nyomozócsoport Magyarország területén eljáró tagállami tagja
 

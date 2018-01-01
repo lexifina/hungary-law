@@ -1,0 +1,1 @@
+111/F. § Ha a tagállami ítéletben kiszabott büntetést vagy alkalmazott intézkedést végrehajtották, végrehajtása folyamatban van vagy az a tagállam joga szerint nem hajtható végre, a megfeleltetés során a bíróság megállapítja a büntetés vagy intézkedés végrehajtására vonatkozó, a figyelembevétel céljával összefüggő adatokat is.

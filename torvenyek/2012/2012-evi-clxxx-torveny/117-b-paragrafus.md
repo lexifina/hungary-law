@@ -1,0 +1,1 @@
+117/B. § Ha kivételes esetben a végrehajtás átvételével kapcsolatos jogerős döntés a 117/A. § (6) bekezdésben meghatározott határidőn belül nem hozható meg, a bíróság – a késedelem okainak és a jogerős határozat meghozatalához előreláthatóan szükséges időnek a közlése mellett – a tájékoztatja a kibocsátó tagállami hatóságot.

@@ -1,1 +1,7 @@
-117. § Ha a tagállami igazságügyi hatóság által kibocsátott tanúsítvány olyan hiányosságokat, pontatlanságokat tartalmaz, amelyek miatt az elismerés és a végrehajtás nem vagy csak részben lehetséges, illetve ha a tanúsítvány nyilvánvalóan nem felel meg a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozatnak, a bíróság határidőt tűz a hiányzó, pontatlan adatok pótlására, kijavítására, továbbá megjelöli azokat az adatokat, amelyek a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismeréséhez és végrehajtásához szükségesek. A bíróság a hiánypótlás elintézéséig elhalasztja a határozathozatalt. A miniszter erről haladéktalanul értesíti a tagállami igazságügyi hatóságot.
+## 46/D. Határidők
+
+117. § (1) A bíróság a végrehajtási jogsegély tárgyában az iratok megérkezésétől számított hatvan napon belül dönt.
+
+(2) A bíróság az eljárását felfüggesztheti akkor is, ha kibocsátó tagállami hatóság által megküldött iratok lefordítása szükséges.
+
+(3) Ha az eljárás felfüggesztésének van helye, a felfüggesztés tartama az eljárási határidőbe nem számít bele.

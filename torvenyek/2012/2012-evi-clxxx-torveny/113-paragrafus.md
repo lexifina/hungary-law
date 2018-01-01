@@ -1,1 +1,3 @@
-113. § A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtásának átvétele nem tagadható meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték, valamint vám- és devizaszabályozás terén, mint a másik tagállam joga.
+## 46. A végrehajtás átvételének általános szabályai
+
+113. § A büntetés vagy intézkedés végrehajtásának átvételére akkor kerülhet sor, ha a tagállami ítélet figyelembe vehető.

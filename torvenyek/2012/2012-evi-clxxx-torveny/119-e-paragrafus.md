@@ -1,0 +1,1 @@
+119/E. § Az átadott büntetés vagy intézkedés alapjául szolgáló határozat hatályon kívül helyezéséről, illetve végrehajthatóságának megszűnéséről vagy a végrehajtást érintő más körülményről haladéktalanul értesíteni kell a tagállami hatóságot.

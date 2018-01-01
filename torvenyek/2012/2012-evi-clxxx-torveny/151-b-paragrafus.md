@@ -1,0 +1,1 @@
+151/B. § Ha a kibocsátó tagállam az európai védelmi határozatban foglalt, a veszélyeztető személyt érintő eljárásjogi intézkedés, alternatív szankció vagy próbaidő alatti magatartási szabály végrehajtását egy harmadik tagállamnak átadta, a bíróság a kibocsátó tagállam részére továbbított határozatait, tájékoztatásait egyidejűleg e harmadik tagállam részére is kézbesíti.

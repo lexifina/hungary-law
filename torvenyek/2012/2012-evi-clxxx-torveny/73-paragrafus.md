@@ -1,7 +1,29 @@
 ## 38. A végrehajtás átvétele
 
-73. § (1) A bíróság elismeri és végrehajtja a tagállami hatóság felügyeleti intézkedést elrendelő határozatát (a továbbiakban e fejezet alkalmazásában: felügyeleti intézkedést elrendelő tagállami határozat), ha azt az 5. számú melléklet szerinti tanúsítvánnyal együtt, magyar nyelven a bíróságnak megküldték, és a terhelt lakóhelye vagy tartózkodási helye Magyarországon van, valamint a terhelt a felügyeleti intézkedésről való tájékoztatást követően Magyarországra történő visszatéréséhez hozzájárult.
+73. § (1) Felügyeleti intézkedés végrehajtásának átvételére az alábbi kötelezettséget, tilalmat tartalmazó szabályok tekintetében kerülhet sor:
 
-(2) A felügyeleti intézkedést elrendelő tagállami határozat elismeréséről és végrehajtásáról a terhelt lakóhelye vagy tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, valamint Budapesten a Budai Központi Kerületi Bíróság intézkedik.
+a) a terhelt kötelezése a magyarországi elérhetőségében történt változás bejelentésére,
 
-(3) Ha a Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező terhelt a felügyeleti intézkedés végrehajtásának magyar hatóság általi ellenőrzését kéri, és igazolja, hogy Magyarországhoz családi, kulturális vagy gazdasági kapcsolataira tekintettel szorosan kötődik, a felügyeleti intézkedést elrendelő tagállami határozat elismeréséről és végrehajtásáról a Budai Központi Kerületi Bíróság dönt, ha a felügyeleti intézkedést elrendelő tagállami határozatot az 5. számú melléklet szerinti tanúsítvánnyal együtt, magyar nyelven a bíróságnak megküldték.
+b) a terhelt kötelezése arra, hogy meghatározott időpontban meghatározott hatóságnál jelentkezzen,
+
+c) a terhelt kötelezése arra, hogy tartózkodjon meghatározott személlyel való érintkezéstől,
+
+d) arra vonatkozó tilalom, hogy a terhelt meghatározott helyre, helységbe vagy meghatározott területre belépjen,
+
+e) a terhelt kötelezése arra, hogy meghatározott helyen tartózkodjon,
+
+f) arra vonatkozó korlátozás, hogy a terhelt Magyarország területét elhagyja.
+
+(2) A felügyeleti intézkedés végrehajtásának átvételére akkor kerülhet sor, ha
+
+a) a terhelt
+
+aa) lakóhelye vagy tartózkodási helye Magyarországon van és a terhelt a felügyeleti intézkedésről való tájékoztatást követően Magyarországra történő visszatéréséhez hozzájárult, vagy
+
+ab) a Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező terhelt a felügyeleti intézkedés magyar hatóság általi végrehajtását kéri és igazolja, hogy Magyarországhoz családi, kulturális vagy gazdasági kapcsolataira tekintettel szorosan kötődik,
+
+b) a tagállami igazságügyi hatóság megküldi
+
+ba) a tagállami hatóság felügyeleti intézkedést elrendelő határozatát (a továbbiakban e fejezet alkalmazásában: tagállami határozat), és
+
+bb) az 5. számú mellékletben megjelölt, a tagállami határozatnak megfelelően kitöltött tanúsítványt magyar nyelven.
