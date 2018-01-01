@@ -190,6 +190,6 @@
 
 ## P. H.
 
-3–5. melléklet a 320/2015. (X. 30.) Korm. rendelethez[^58]
+3–5. melléklet a 320/2015. (X. 30.) Korm. rendelethez[^59]
 
-[^58]: A 3–5. mellékletet a 478/2016. (XII. 27.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^59]: A 3–5. mellékletet a 478/2016. (XII. 27.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
