@@ -1,0 +1,3 @@
+## 65. § Hatályát veszti a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes rendeletek módosításáról szóló 38/2011. (V. 18.) VM rendelet.
+
+## 66. A büntetés-végrehajtási szervezet részéről a büntetés-végrehajtásért felelős miniszter vezetése, irányítása vagy felügyelete alá tartozó szervek irányában fennálló ellátási kötelezettségről, a fogvatartottak kötelező foglalkoztatása keretében előállított termékekről és szolgáltatásokról, azok átadás-átvételéről és az ellentételezés rendjéről szóló 9/2011. (III. 23.) BM rendelet módosításáról szóló 41/2011. (XI. 25.) BM rendelet hatályon kívül helyezése

@@ -1,0 +1,1 @@
+## 89. A megyei önkormányzati tartalékról és a helyi önkormányzatok működőképessége megőrzését szolgáló 2013. évi kiegészítő támogatásáról szóló 39/2013. (VII. 31.) BM rendelet hatályon kívül helyezése

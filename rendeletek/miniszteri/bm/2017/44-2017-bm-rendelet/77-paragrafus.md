@@ -1,0 +1,3 @@
+## 76. § Hatályát veszti az igazságügyi és rendészeti miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 15/2008. (VII. 28.) IRM rendelet, valamint az önkormányzati és területfejlesztési miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 25/2008. (IV. 29.) ÖTM rendelet módosításáról szóló 1/2012. (I. 3.) BM rendelet.
+
+## 77. A megyei önkormányzati tartalékról, és az önhibájukon kívül hátrányos helyzetben lévő önkormányzatok 2012. évi támogatásáról szóló 3/2012. (III. 1.) BM rendelet hatályon kívül helyezése

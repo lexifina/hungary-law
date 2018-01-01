@@ -1,0 +1,3 @@
+## 75. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi szervek munkavédelmi feladatai, valamint foglalkozás-egészségügyi tevékenysége ellátásának szabályairól szóló 70/2011. (XII. 30.) BM rendelet 30. és 31. §-a.
+
+## 76. Az igazságügyi és rendészeti miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 15/2008. (VII. 28.) IRM rendelet, valamint az önkormányzati és területfejlesztési miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 25/2008. (IV. 29.) ÖTM rendelet módosításáról szóló 1/2012. (I. 3.) BM rendelet hatályon kívül helyezése
