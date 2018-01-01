@@ -1,6 +1,6 @@
 51. § (1) A támogatási szerződés megkötéséhez vagy – ha a pályázati felhívás lehetővé teszi – legkésőbb az első kifizetés-igényléshez a kedvezményezett köteles benyújtani:
 
-a)[^61] a kedvezményezett nevében aláíró személy vagy személyek – a költségvetési szerv, a helyi önkormányzat, a kisebbségi önkormányzat, az egyházi jogi személy, a felsőoktatási intézmény, a közalapítvány és az állam kizárólagos tulajdonában lévő gazdasági társaság kivételével – bank által igazolt, vagy ügyvéd, illetve jogtanácsos által ellenjegyzett, vagy közjegyző által hitelesített aláírásmintája eredeti példányát,
+a)[^61] a kedvezményezett nevében aláíró személy vagy személyek – a költségvetési szerv, a helyi önkormányzat, a kisebbségi önkormányzat, az egyházi jogi személy, a felsőoktatási intézmény, a közalapítvány és az állam kizárólagos tulajdonában lévő gazdasági társaság kivételével – bank által igazolt, vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett, vagy közjegyző által hitelesített aláírásmintája eredeti példányát,
 
 b)[^62] a kedvezményezett – a költségvetési szerv, a helyi önkormányzat, a kisebbségi önkormányzat, az egyházi jogi személy, a felsőoktatási intézmény, a közalapítvány, és a magyar állam kizárólagos tulajdonában lévő gazdasági társaság kivételével – alapító (létesítő) okiratát vagy jogszabályban meghatározott nyilvántartásba vételét igazoló okiratát,
 
@@ -34,7 +34,7 @@ h) kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, te
 
 (3)[^67] A végrehajtó ügynökség gondoskodik a támogatási szerződés megkötéséhez szükséges dokumentumok kedvezményezettől történő beszerzéséről. A végrehajtó ügynökség a támogatási döntésről szóló értesítéssel egyidejűleg – feltételekkel történő támogatás esetén a feltételek teljesítését követően –, legfeljebb 30 napos határidő tűzésével felhívja a kedvezményezettet a támogatási szerződés megkötéséhez szükséges dokumentumok benyújtására.
 
-[^61]: Az 51. § (1) bekezdés a) pontja a 297/2013. (VII. 29.) Korm. rendelet 85. §-a, a 221/2014. (IX. 4.) Korm. rendelet 704. § c) pontja, a 35/2016. (II. 29.) Korm. rendelet 49. § 22. pontja szerint módosított szöveg.
+[^61]: Az 51. § (1) bekezdés a) pontja a 297/2013. (VII. 29.) Korm. rendelet 85. §-a, a 221/2014. (IX. 4.) Korm. rendelet 704. § c) pontja, a 35/2016. (II. 29.) Korm. rendelet 49. § 22. pontja, a 393/2017. (XII. 13.) Korm. rendelet 50. §-a szerint módosított szöveg.
 [^62]: Az 51. § (1) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 85. §-a, a 35/2016. (II. 29.) Korm. rendelet 49. § 23. pontja szerint módosított szöveg.
 [^63]: Az 51. § (1) bekezdés d) pontja a 35/2016. (II. 29.) Korm. rendelet 24. pontja szerint módosított szöveg.
 [^64]: Az 51. § (1) bekezdés f) pontja a 35/2016. (II. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
