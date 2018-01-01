@@ -6,7 +6,7 @@ b) az Európai Gazdasági Térségről szóló megállapodásban részes más á
 
 vehető fel.
 
-(2)[^5] A Cstv. 27/C. § (2) bekezdés a) pontjában foglaltakról az állami adóhatóságtól beszerezhető adóigazolás helyett arról is lehet nyilatkozni, hogy a gazdasági társaság szerepel az adózás rendjéről szóló 2003. évi XCII. törvény 36/B. §-a szerinti köztartozásmentes adózói adatbázisban.
+(2)[^5] A Cstv. 27/C. § (2) bekezdés a) pontjában foglaltakról az állami adóhatóságtól beszerezhető adóigazolás helyett arról is lehet nyilatkozni, hogy a gazdasági társaság szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban.
 
 (3)[^6] A Cstv. 27/C. § (2) bekezdésének b) pontjában foglaltakra tekintettel a felszámoló szervezetnek folyamatosan rendelkeznie kell legalább 70 millió forint biztosítékkal, amely – a felszámoló szervezet választása szerint –
 
@@ -34,6 +34,6 @@ h) Magyarország vagy az Európai Gazdasági Térségről szóló megállapodás
 
 [^3]: A 2. § a 275/2009. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (1) bekezdése a 169/2012. (VII. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (2) bekezdése a 169/2012. (VII. 20.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdése a 169/2012. (VII. 20.) Korm. rendelet 8. § b) pontja, a 475/2017. (XII. 28.) Korm. rendelet 22. §-a szerint módosított szöveg.
 [^6]: A 2. § (3) bekezdése a 343/2015. (XI. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^7]: A 2. § (5) bekezdése a 275/2009. (XII. 3.) Korm. rendelet 6. § (4) és (5) bekezdése, a 169/2012. (VII. 20.) Korm. rendelet 8. § e), g) és h) pontja, a 343/2015. (XI. 13.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
