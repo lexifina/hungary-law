@@ -1,6 +1,6 @@
 20. § (1) Az ellátásért felelős az üzemeltetési szerződést az év végére szólóan, de legalább 8 hónapos felmondási idővel felmondhatja,
 
-a) ha a víziközmű-szolgáltató tekintetében az e törvény, a környezet védelmére vagy a vízgazdálkodásra vonatkozó jogszabályok vagy a rá vonatkozó hatósági határozatok előírásainak víziközmű-szolgáltatás során történő súlyos megsértését jogerősen megállapították,
+a) ha a víziközmű-szolgáltató tekintetében az e törvény, a környezet védelmére vagy a vízgazdálkodásra vonatkozó jogszabályok vagy a rá vonatkozó hatósági határozatok előírásainak víziközmű-szolgáltatás során történő súlyos megsértését végleges döntéssel megállapították,
 
 b) ha a víziközmű-szolgáltató az üzemeltetési szerződésben megállapított kötelezettségét súlyosan vagy huzamosan megszegte, vagy
 

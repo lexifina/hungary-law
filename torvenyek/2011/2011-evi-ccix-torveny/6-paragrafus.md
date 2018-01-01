@@ -18,6 +18,6 @@ b) nem közterületi ingatlan területén, olyan belső hálózatként került k
 
 c) műszaki kialakítása miatt aránytalan (az újraelőállítási érték 30%-át meghaladó értékű) nagyságú átalakítást jelentő beruházás eredményeként lehetne csak a víziközmű rendszerekkel szemben támasztott műszaki kritériumoknak megfeleltetni.
 
-(6) A vízilétesítmény (4) és (5) bekezdés szerinti minősítésére nézve a Hivatal az érdekelt ellátásért felelős, az érintett önkormányzat vagy a vízilétesítmény tulajdonosa, üzemeltetője kérelmére indított eljárásban hoz egyedi döntést.
+(6) A vízilétesítmény (4) és (5) bekezdés szerinti minősítésére nézve a Hivatal az érdekelt ellátásért felelős, az érintett önkormányzat vagy a vízilétesítmény tulajdonosa, üzemeltetője mint ügyfél kérelmére induló eljárásban, vagy hivatalból hoz egyedi döntést.
 
 (7) A (6) bekezdésben megjelölt személyek a vízilétesítmény (4) és (5) bekezdés szerinti minősítési eljárásában ügyfélnek minősülnek.

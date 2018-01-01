@@ -4,7 +4,7 @@
 
 a) jogszabályban meghatározott okirat,
 
-b) jogerős bírósági vagy hatósági határozat
+b) jogerős bírósági vagy véglegessé vált hatósági határozat
 
 alapján lehet.
 

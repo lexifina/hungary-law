@@ -14,6 +14,6 @@ f) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő mag
 
 (2)
 
-(3) A bírság adók módjára behajtható köztartozásnak minősül.
+(3)
 
 (4) A bírság a díjmegállapítás során költségnövelő tényezőként nem vehető figyelembe.

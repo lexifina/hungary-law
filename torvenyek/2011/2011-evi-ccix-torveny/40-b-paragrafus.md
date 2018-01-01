@@ -10,7 +10,7 @@ ac) közös ellátásért felelősséggel érintett víziközmű-rendszer eseté
 
 b) a víziközmű-szolgáltató
 
-ba) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét a Hivatal által kiadott jogerős víziközmű-szolgáltatói vagy működési engedély nélkül folytatja, ide nem értve a 31/A. § (1) bekezdésében szabályozott ideiglenes szolgáltatást,
+ba) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét a Hivatal által kiadott véglegessé vált víziközmű-szolgáltatói vagy működési engedély nélkül folytatja, ide nem értve a 31/A. § (1) bekezdésében szabályozott ideiglenes szolgáltatást,
 
 bb) a kiszervezésre vonatkozó jogszabályi vagy a Hivatal határozatában foglalt előírást megsérti,
 

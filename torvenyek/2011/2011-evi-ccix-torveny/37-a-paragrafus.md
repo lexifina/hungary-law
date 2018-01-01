@@ -18,7 +18,7 @@ d) az e törvényben meghatározott más esetben.
 
 (6) A Hivatal a víziközmű-szolgáltató működési engedélyét visszavonja, ha az engedélybe foglalt valamennyi víziközmű-rendszer vonatkozásában megszűnt az üzemeltetési szerződés.
 
-(7) A Hivatal az engedélyes valamennyi hatályos működési engedélyét egyidejűleg visszavonja, ha a gazdasági társaság víziközmű-szolgáltatási engedélye visszavonásra került, vagy a 37. § (2) bekezdés c) vagy d) pontjában foglalt feltétel nem teljesül és a 37. § (3) bekezdésében meghatározott feltétel nem áll fenn.
+(7) A Hivatal az engedélyes valamennyi hatályos működési engedélyét egyidejűleg visszavonja, ha a gazdasági társaság víziközmű-szolgáltatói engedélye visszavonásra került, vagy a 37. § (2) bekezdés c) vagy d) pontjában foglalt feltétel nem teljesül és a 37. § (3) bekezdésében meghatározott feltétel nem áll fenn.
 
 (8) Az engedély módosítása vagy visszavonása nem eredményezheti az ellátás biztonsága vagy minősége romlását.
 
