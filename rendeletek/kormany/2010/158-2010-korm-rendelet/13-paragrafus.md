@@ -1,4 +1,4 @@
-13. § (1)[^20] A 3448/93/EK tanácsi rendeletnek a Szerződés I. mellékletében nem szereplő áruk formájában exportált egyes mezőgazdasági termékekre vonatkozó export-visszatérítési rendszer és az ilyen visszatérítések összegének megállapítására szolgáló szempontok tekintetében történő végrehajtásáról szóló, 2005. június 30-i 1043/2005/EK bizottsági rendelet II. számú mellékletében szereplő Non-Annex I. termékek visszatérítéssel történő kivitele esetén a termék összetételéről a vámeljárás megkezdésekor a Kincstár által rendszeresített és a honlapján közzétett formanyomtatványon kell nyilatkozni, amely tartalmazza:
+13. § (1)[^21] A 3448/93/EK tanácsi rendeletnek a Szerződés I. mellékletében nem szereplő áruk formájában exportált egyes mezőgazdasági termékekre vonatkozó export-visszatérítési rendszer és az ilyen visszatérítések összegének megállapítására szolgáló szempontok tekintetében történő végrehajtásáról szóló, 2005. június 30-i 1043/2005/EK bizottsági rendelet II. számú mellékletében szereplő Non-Annex I. termékek visszatérítéssel történő kivitele esetén a termék összetételéről a vámeljárás megkezdésekor a Kincstár által rendszeresített és a honlapján közzétett formanyomtatványon kell nyilatkozni, amely tartalmazza:
 
 a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Tv.) meghatározott ügyfél-azonosító adatokat;
 
@@ -8,7 +8,7 @@ c) a támogatott alap-, vagy származtatott összetevő mennyiségét; és
 
 d) a támogatott alap-, vagy származtatott összetevő termék-, vagy KN-kódját.
 
-(2)[^21] Az (1) bekezdésben meghatározott termékek esetében a recept nyilvántartásba vétel iránti kérelmet a Kincstárhoz az általa rendszeresített és a honlapján közzétett formanyomtatványon kell benyújtani, amely tartalmazza:
+(2)[^22] Az (1) bekezdésben meghatározott termékek esetében a recept nyilvántartásba vétel iránti kérelmet a Kincstárhoz az általa rendszeresített és a honlapján közzétett formanyomtatványon kell benyújtani, amely tartalmazza:
 
 a) a Tv-ben meghatározott ügyfél-azonosító adatokat;
 
@@ -18,11 +18,11 @@ c) a támogatott alap-, vagy származtatott összetevő termék-, vagy KN-kódj�
 
 d) a gyártási receptúra adatokat.
 
-(3)[^22] Az ügyfél kérheti a termék összetételének meghatározása céljából hatósági analízis elvégzését. Hatósági analízis elvégzésére a NÉBIH akkreditált laboratóriumai jogosultak.
+(3)[^23] Az ügyfél kérheti a termék összetételének meghatározása céljából hatósági analízis elvégzését. Hatósági analízis elvégzésére a NÉBIH akkreditált laboratóriumai jogosultak.
 
-(4)[^23] A Kincstár a nyilvántartásba vételről dönt és a receptet nyilvántartási számmal látja el. A nyilvántartási számot kiszállításkor fel kell tüntetni az elektronikus árunyilatkozat 44. rovatában.
+(4)[^24] A Kincstár a nyilvántartásba vételről dönt és a receptet nyilvántartási számmal látja el. A nyilvántartási számot kiszállításkor fel kell tüntetni az elektronikus árunyilatkozat 44. rovatában.
 
-(5)[^24] A Kincstár a benyújtott termékösszetételről szóló nyilatkozatok valódiságát az alábbi módszerek alkalmazásával ellenőrizheti:
+(5)[^25] A Kincstár a benyújtott termékösszetételről szóló nyilatkozatok valódiságát az alábbi módszerek alkalmazásával ellenőrizheti:
 
 a) készletnyilvántartások ellenőrzése,
 
@@ -30,11 +30,11 @@ b) gyártási eljárás ellenőrzése,
 
 c) mintavételen alapuló laboratóriumi analízis alkalmazása.
 
-(6)[^25] A Kincstár abban az esetben, ha a bejelentett recept nem felel meg a valós helyzetnek, a recept nyilvántartásba vételt visszavonja. Az ügyfél köteles a receptről szóló nyilatkozatban foglaltakban történő bármely változást a Kincstár részére bejelenteni.
+(6)[^26] A Kincstár abban az esetben, ha a bejelentett recept nem felel meg a valós helyzetnek, a recept nyilvántartásba vételt visszavonja. Az ügyfél köteles a receptről szóló nyilatkozatban foglaltakban történő bármely változást a Kincstár részére bejelenteni.
 
-[^20]: A 13. § (1) bekezdés nyitó szövegrésze a 328/2016. (X. 28.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
-[^21]: A 13. § (2) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § i) pontja szerint módosított szöveg.
-[^22]: A 13. § (3) bekezdése a 23/2012. (II. 29.) Korm. rendelet 54. § (4) bekezdése szerint módosított szöveg.
-[^23]: A 13. § (4) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^24]: A 13. § (5) bekezdés nyitó szövegrésze a 328/2016. (X. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^25]: A 13. § (6) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § d) és e) pontja szerint módosított szöveg.
+[^21]: A 13. § (1) bekezdés nyitó szövegrésze a 328/2016. (X. 28.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
+[^22]: A 13. § (2) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § i) pontja szerint módosított szöveg.
+[^23]: A 13. § (3) bekezdése a 23/2012. (II. 29.) Korm. rendelet 54. § (4) bekezdése szerint módosított szöveg.
+[^24]: A 13. § (4) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^25]: A 13. § (5) bekezdés nyitó szövegrésze a 328/2016. (X. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^26]: A 13. § (6) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § d) és e) pontja szerint módosított szöveg.

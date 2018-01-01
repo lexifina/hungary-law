@@ -4,6 +4,6 @@
 
 (2) Távoli visszatérítési zónába történő export esetén, konténeres tengeri szállításkor megérkezési bizonyítékként a kirakodási okmány helyett elfogadható az annak tartalmával megegyező, szállítási tevékenységre szakosodott és a kirakodásért is felelős fél által nyújtott információ, feltéve, hogy az általa működtetett információs rendszer, mint a 885/2006/EK bizottsági rendelet I. melléklet 3.B) pontjában meghatározott és az adott időszakra vonatkozóan érvényes nemzetközileg elfogadott szabványok egyikében definiált követelményeknek megfelel.
 
-(3)[^13] Távoli visszatérítési zónába történő export esetén az (1) bekezdés szerinti mentesség tárgyában a Kincstár dönt.
+(3)[^14] Távoli visszatérítési zónába történő export esetén az (1) bekezdés szerinti mentesség tárgyában a Kincstár dönt.
 
-[^13]: A 8. § (3) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^14]: A 8. § (3) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.

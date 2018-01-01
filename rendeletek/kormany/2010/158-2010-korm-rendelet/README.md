@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-158-20-
 | 2016-01-01 | 2010-158-20-22.8 | 486/2015. (XII. 29.) Korm. rendelet |
 | 2016-05-01 | 2010-158-20-22.9 | 88/2016. (IV. 29.) Korm. rendelet |
 | 2017-01-01 | 2010-158-20-22.10 | 328/2016. (X. 28.) Korm. rendelet |
+| 2018-01-01 | 2010-158-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |
