@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-55-20-2
 | 2015-04-01 | 2009-55-20-22.15 | 70/2015. (III. 30.) Korm. rendelet |
 | 2017-01-01 | 2009-55-20-22.16 | 70/2015. (III. 30.) Korm. rendelet |
 | 2017-07-01 | 2009-55-20-22.17 | 419/2016. (XII. 14.) Korm. rendelet |
+| 2018-01-01 | 2009-55-20-22.18 | 457/2017. (XII. 28.) Korm. rendelet |
