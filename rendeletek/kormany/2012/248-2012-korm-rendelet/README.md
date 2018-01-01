@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-248-20-
 | 2016-12-17 | 2012-248-20-22.8 | 442/2016. (XII. 16.) Korm. rendelet |
 | 2017-01-01 | 2012-248-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-12-23 | 2012-248-20-22.10 | 345/2015. (XI. 19.) Korm. rendelet |
+| 2018-01-01 | 2012-248-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |

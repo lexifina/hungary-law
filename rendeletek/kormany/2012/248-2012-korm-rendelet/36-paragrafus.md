@@ -1,3 +1,3 @@
-36. §[^63]
+36. §[^68]
 
-[^63]: A 35–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 35–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
