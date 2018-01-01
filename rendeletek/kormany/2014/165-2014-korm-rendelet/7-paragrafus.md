@@ -10,7 +10,7 @@ c) az első igénybevételtől számítva összesen igénybe vett adókedvezmén
 
 d) a beruházáshoz igénybe vett, a támogatáshalmozódásnál figyelembe veendő állami támogatás támogatástartalmát.
 
-(2)[^33] Az adókedvezményre jogosító beruházás üzembe helyezésének adóévében és az adókedvezmény igénybevételének adóéveiben a társaságiadó-bevallásban az adózónak a Tao. törvény 22/B. § (1) bekezdés a)–f) és h)–k) pontja szerinti beruházás esetén a következő adatokat kell beruházásonként szerepeltetnie:
+(2)[^40] Az adókedvezményre jogosító beruházás üzembe helyezésének adóévében és az adókedvezmény igénybevételének adóéveiben a társaságiadó-bevallásban az adózónak a Tao. törvény 22/B. § (1) bekezdés a)–f) és h)–k) pontja szerinti beruházás esetén a következő adatokat kell beruházásonként szerepeltetnie:
 
 a) a beruházás befejezésének időpontját;
 
@@ -18,13 +18,13 @@ b) az 1. § (2) bekezdés a) alpontja szerinti, ténylegesen felmerült elszámo
 
 c) a fejlesztési adókedvezmény igénybevételének jogcímét.
 
-(3)[^34] A Tao. törvény 22/B. § (1) bekezdés a)–b), i) és k)–l) pontja szerinti beruházásnál az adókedvezmény első igénybevételének adóévét követő négy adóévben a társaságiadó-bevallásban a következő adatokat kell az adózónak beruházásonként szerepeltetnie:
+(3)[^41] A Tao. törvény 22/B. § (1) bekezdés a)–b), i) és k)–l) pontja szerinti beruházásnál az adókedvezmény első igénybevételének adóévét követő négy adóévben a társaságiadó-bevallásban a következő adatokat kell az adózónak beruházásonként szerepeltetnie:
 
 a) a foglalkoztatottak átlagos állományi létszámát és a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát vagy
 
-b)[^35] a személyi jellegű ráfordítást, és a beruházás megkezdését megelőző adóév vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő évesített személyi jellegű ráfordítást attól függően, hogy az adózó a Tao. törvény 22/B. § (9) és (14) bekezdésében foglalt feltételek közül melyiknek a teljesítését vállalja.
+b)[^42] a személyi jellegű ráfordítást, és a beruházás megkezdését megelőző adóév vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő évesített személyi jellegű ráfordítást attól függően, hogy az adózó a Tao. törvény 22/B. § (9) és (14) bekezdésében foglalt feltételek közül melyiknek a teljesítését vállalja.
 
-(4)[^36] A Tao. törvény 22/B. § (1) bekezdés g) és l) pontja szerinti beruházásnál
+(4)[^43] A Tao. törvény 22/B. § (1) bekezdés g) és l) pontja szerinti beruházásnál
 
 a) az újonnan létrehozott munkakörökben foglalkoztatott munkavállalók számát a beruházás üzembe helyezését követő harmadik adóévről,
 
@@ -36,7 +36,7 @@ benyújtott társasági adóbevallásban kell az adózónak szerepeltetnie.
 
 (5) Ha az adózó a beruházást a kérelemben beruházási kezdőnapként megjelölt napot követő két naptári éven belül nem kezdte meg, ennek tényéről azon adóévről készült társasági adóbevallásában köteles nyilatkozni, amely adóévben a beruházás megkezdésére nyitva álló két naptári év eredménytelenül letelt.
 
-[^33]: A 7. § (2) bekezdés nyitó szövegrésze a 395/2017. (XII. 13.) Korm. rendelet 6. § 14. pontja szerint módosított szöveg.
-[^34]: A 7. § (3) bekezdés nyitó szövegrésze a 395/2017. (XII. 13.) Korm. rendelet 6. § 15. pontja szerint módosított szöveg.
-[^35]: A 7. § (3) bekezdés b) pontja a 395/2017. (XII. 13.) Korm. rendelet 6. § 16. pontja szerint módosított szöveg.
-[^36]: A 7. § (4) bekezdés nyitó szövegrésze a 395/2017. (XII. 13.) Korm. rendelet 6. § 5. pontja szerint módosított szöveg.
+[^40]: A 7. § (2) bekezdés nyitó szövegrésze a 395/2017. (XII. 13.) Korm. rendelet 6. § 14. pontja szerint módosított szöveg.
+[^41]: A 7. § (3) bekezdés nyitó szövegrésze a 395/2017. (XII. 13.) Korm. rendelet 6. § 15. pontja szerint módosított szöveg.
+[^42]: A 7. § (3) bekezdés b) pontja a 395/2017. (XII. 13.) Korm. rendelet 6. § 16. pontja szerint módosított szöveg.
+[^43]: A 7. § (4) bekezdés nyitó szövegrésze a 395/2017. (XII. 13.) Korm. rendelet 6. § 5. pontja szerint módosított szöveg.

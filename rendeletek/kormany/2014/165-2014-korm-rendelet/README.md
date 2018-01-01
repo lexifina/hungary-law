@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-165-20-
 | 2016-01-01 | 2014-165-20-22.3 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2014-165-20-22.4 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2017-12-14 | 2014-165-20-22.5 | 395/2017. (XII. 13.) Korm. rendelet |
+| 2018-01-01 | 2014-165-20-22.6 | 395/2017. (XII. 13.) Korm. rendelet |

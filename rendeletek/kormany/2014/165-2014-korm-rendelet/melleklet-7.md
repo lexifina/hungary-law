@@ -31,17 +31,3 @@
 ## ii. a kockázatfinanszírozási támogatásra való jogosultság szempontjából olyan kis- és középvállalkozások esetében, amelyeknél az első kereskedelmi értékesítéstől számítva hét év még nem telt el, amennyiben a kis- és középvállalkozás a kiválasztott pénzügyi közvetítő hivatalos átvilágítása alapján kockázatfinanszírozási befektetésre jogosult.
 
 7. melléklet a 165/2014. (VII. 17.) Korm. rendelethez
-
-Az elszámolható költség jelenértékének meghatározása
-
-ahol
-
-EJ - az elszámolható költség jelenértéken;
-
-Q1 - az adókedvezménnyel érintett, több adóév alatt megvalósított beruházás első adóévi részösszege, vagyis a beruházási számla tartozik oldalán szereplő azon tételek összege, amelyek az adókedvezménnyel érintett beruházáshoz tartoznak (az első adóév a kérelem, a bejelentés benyújtásának adóéve);
-
-Q2 - az adókedvezménnyel érintett, több év alatt megvalósított beruházás második adóévi részösszege, vagyis a beruházási számla tartozik oldalán szereplő azon tételek összege, amelyek az adókedvezménnyel érintett beruházáshoz tartoznak;
-
-Qn - az adókedvezménnyel érintett, több év alatt megvalósított beruházás n-edik adóévi részösszege, vagyis a beruházási számla tartozik oldalán szereplő azon tételek összege, amelyek az adókedvezménnyel érintett beruházáshoz tartoznak;
-
-i - diszkont kamatláb.

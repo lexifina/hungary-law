@@ -1,69 +1,55 @@
-## Bejelentés a fejlesztési adókedvezmény igénybevételéhez
+## 1. adózó azonosító adatai,
 
-| I. Az adózó azonosító adatai |  |
+## 2. a beruházással kapcsolatos adatok:
 
-| I.1. Név: |  |
+## a. beruházás megkezdésének és befejezésének tervezett napja,
 
-| I.2. Székhely: |  |
+## b. beruházás célja, jellege,
 
-| I.3. Levelezési cím: |  |
+## c. elszámolható költséggel, adókedvezményi összeggel kapcsolatos adatok,
 
-| I.4. Adószám: |  |
+## d. a fejlesztési program részletes ismertetése a Tao. törvény 22/B. § (1) bekezdés d) pontja alapján igényelt adókedvezmény esetében;
 
-| I.5. Szakágazati besorolás: |  |
+## 3. az igénybevétel törvényi feltételeinek teljesítéséhez kapcsolódó adatok;
 
-| I.6. A vállalkozás formája a bejelentés benyújtásakor: | a) kisvállalkozás; b) középvállalkozás; c) nagyvállalkozás. |
+## 4. jogszabályok által előírt nyilatkozatok.
 
-| I.7. Az ügyben eljáró képviselő neve és telefonszáma, e-mail címe: |  |
+## B) Kérelem esetén:
 
-| II. A beruházás adatai |  |
+## 1. adózó azonosító adatai és bemutatása,
 
-| II.1. A megvalósítani tervezett beruházás megjelölése: | a) jelenértéken legalább 3 milliárd forint értékű beruházás, b) a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén üzembe helyezett és üzemeltetett, jelenértéken legalább 1 milliárd forint értékű beruházás, c) jelenértéken legalább 100 millió forint értékű, korábban már használatba vett, állati eredetű élelmiszert előállító létesítmény jogszabályban meghatározott élelmiszer-higiéniai feltételeinek megteremtését szolgáló beruházás, d) jelenértéken legalább 100 millió forint értékű önálló környezetvédelmi beruházás, e) a jelenértéken legalább 100 millió forint értékű, az alapkutatást, az alkalmazott kutatást vagy a kísérleti fejlesztést szolgáló beruházás, f) jelenértéken legalább 100 millió forint értékű, kizárólag film- és videogyártást szolgáló beruházás, g) munkahelyteremtést szolgáló beruházás, h) az adózó jegyzett tőkéjének felemelése keretében kibocsátott részvényeknek (vagy egy részének) a tőkepiacról szóló törvényben meghatározott szabályozott piacra történő bevezetésének a napját (az első kereskedési napot) követően, de legkésőbb az e napot követő harmadik év utolsó napjáig megkezdett, jelenértéken legalább 100 millió forint értékű beruházás, i) jelenértéken legalább 500 millió forint értékű, kis- és középvállalkozás által megvalósított beruházás, j) a szabad vállalkozási zóna területén megvalósított jelenértéken legalább 100 millió forint értékű beruházás. |
+## 2. a beruházással kapcsolatos adatok:
 
-| II.2. A beruházás megkezdésének tervezett napja (év, hónap, nap): |  |
+## a. beruházás megkezdésének és befejezésének tervezett napja,
 
-| II.3. A beruházás tervezett befejezése (év, hónap): |  |
+## b. beruházás célja, jellege, tartalma,
 
-| II.4. A beruházás helye (régió, megye és település): |  |
+## c. elszámolható költséggel, adókedvezményi összeggel kapcsolatos adatok,
 
-| II.5. Alkalmazott árfolyam (forint/euró): |  |
+## d. a fejlesztési program részletes ismertetése a Tao. törvény 22/B. § (1) bekezdés d) pontja alapján igényelt adókedvezmény esetében;
 
-| II.6. Az elszámolható költség folyó áron, településenként (ezer forint): |  |
+## 3. az igénybevétel törvényi feltételeinek teljesítéséhez kapcsolódó adatok;
 
-| II.7. Az elszámolható költség jelenértéken, településenként (ezer forint): |  |
+## 4. jogszabályok által előírt nyilatkozatok;
 
-| II. 8. A beruházás jellege: | 1. Induló beruházás a) új létesítmény létrehozatala, b) meglévő létesítmény bővítése, c) létesítmény termékkínálatának a létesítményben addig nem gyártott termékekkel történő bővítése, d) meglévő létesítmény teljes termelési folyamatának lényegi változását eredményező beruházás. 2. Új gazdasági tevékenység végzésére irányuló induló: a) új létesítmény létrehozatala, b) meglévő létesítmény tevékenységének új tevékenységgel történő kibővítését eredményező beruházás. |
+## 5. tárgyi eszköz alapú beruházások költségelemeinek bemutatása;
 
-| II.9. A beruházás célja (a beruházás megvalósításával folytatni tervezett tevékenység, termék-előállítás, szolgáltatásnyújtás): |  |
+## 6. tárgyi eszköz alapú beruházások megvalósulásának ütemezése folyó áron;
 
-| II.10. Az adókedvezmény összege folyó áron, településenként (ezer forint): |  |
+## 7. tárgyi eszköz alapú beruházások megvalósulásának ütemezése jelenértéken;
 
-| II.11. Az adókedvezmény összege jelenértéken, településenként (ezer forint): |  |
+## 8. munkahelyteremtő beruházások elszámolható költségének részletezése;
 
-| II.12. A cég(csoport) által a beruházáshoz igénybe venni tervezett más állami támogatás összege jelenértéken és a támogatás jogcíme: |  |
+## 9. az adókedvezmény igénybevételének tervezett ütemezése.
 
-| II.13. Az elmúlt 3* 365 nap alatt megkezdett, jelen beruházással összeszámítandó beruházás célja, helye, elszámolható költsége és a támogatás jogcíme: |  |
+## C) Nagyberuházás esetén az A) vagy B) pont szerinti adattartalom mellett:
 
-| II.14. Nagyberuházás esetén (3. melléklet csatolása, ha az adózó ebben a részben adatot szerepeltet) |  |
+## a) beruházás településenkénti adatai;
 
-| a) az érintett termék Prodcom besorolása [a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista megállapításáról szóló bizottsági rendelet], illetve az érintett szolgáltatás CPA besorolása [a termékek tevékenység szerinti, új statisztikai osztályozásáról (CPA, magyarul: TESZOR) és a 3696/93/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2008. április 23-i 451/2008/EK európai parlamenti és tanácsi rendelet] a kérelem benyújtásakor hatályos bizottsági rendelet besorolása alapján: |  |
+## b) megyei szintű összesítő adatok;
 
-| b) a beruházás megkezdését megelőző hároméves időszakban elszámolt ba) elszámolható költség jelenértéken, és bb) ezen elszámolható költség alapján megítélt támogatás jelenértéken: |  |
+## c) megelőző háromszor háromszázhatvanöt napos időszak beruházásainak bemutatása.
 
-| c) a maximálisan engedélyezhető állami támogatás összege jelenértéken: |  |
+2. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^51]
 
-| III. A Tao. törvény 22/B. § (1) bekezdés d) pontja alapján igényelt adókedvezmény esetében a fejlesztési program részletes ismertetése. |
-
-| IV. Nyilatkozom, hogy a cég(csoport) a) a bejelentés benyújtását megelőző két évben nem hajtott végre a támogatott létesítménybe irányuló áttelepítést; b) a bejelentés benyújtásától kezdődő, a beruházás befejezését követő két évig tartó időszakban nem hajt végre a támogatott létesítménybe irányuló a támogatott létesítménybe irányuló, áttelepítést. |
-
-| V. Nyilatkozom, hogy a) a termelési folyamat lényegi változását eredményező beruházás esetén az elszámolható költségek meghaladják / nem haladják meg az érintett tevékenységhez kapcsolódó eszközökre a megelőző három adóévben realizált értékcsökkenés összegét. [A megfelelő válasz aláhúzandó.] b) meglévő létesítmény tevékenységének új tevékenységgel történő kibővítését eredményező beruházás esetén az elszámolható költségek legalább 200%-kal meghaladják / nem haladják meg legalább 200%-kal a korábban már használatba vett tárgyi eszközöknek és immateriális javaknak a beruházás megkezdése előtti adóévben nyilvántartott együttes könyv szerinti értékét. [A megfelelő válasz aláhúzandó.] |
-
-| Kelt: .............................................................................. |
-
-| P. H. |
-
-|  | ............................................... aláírás |
-
-2. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^44]
-
-[^44]: A 2. melléklet a 395/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^51]: A 2. mellékletet a 395/2017. (XII. 13.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte.
