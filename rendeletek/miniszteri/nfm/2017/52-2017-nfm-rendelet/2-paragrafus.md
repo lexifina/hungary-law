@@ -1,0 +1,1 @@
+## 1. § A motorhajtó anyagok és egyes kőolajtermékek belföldi forgalmazásáról szóló 71/1995. (XII. 26.) IKM rendelet (a továbbiakban: 71/1995. IKM rendelet) 1. § (2) bekezdésében a „szabványok követelményeinek” szövegrész helyébe a „nemzeti szabvány követelményeinek vagy azokkal egyenértékű más műszaki megoldásnak” szöveg lép.

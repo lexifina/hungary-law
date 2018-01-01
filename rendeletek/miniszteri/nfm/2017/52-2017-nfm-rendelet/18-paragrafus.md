@@ -1,0 +1,1 @@
+## 17. § A földtani szakértői tevékenység folytatásának részletes szabályairól szóló 40/2010. (V. 12.) KHEM rendelet (a továbbiakban: 40/2010. KHEM rendelet) 7. § a) pontjában az „a bíróság vagy az MBFSZ jogerősen” szövegrész helyébe az „az MBFSZ végleges döntésével vagy a bíróság jogerős határozatával” szöveg lép.
