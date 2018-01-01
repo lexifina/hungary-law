@@ -1,7 +1,15 @@
 ## 3. Cím Feljelentés külföldi államnál
 
-45. § (1) Ha az eljárás külföldön tartózkodó terhelt ellen folyik, és kiadatásának nincs helye, illetve a kiadatást megtagadták, és a büntetőeljárás átadására sem került sor, és az ügyész nem indítványozta, hogy a tárgyalást a terhelt távollétében tartsák meg [Be. 532. §], a vádirat benyújtásáig az ügyész a legfőbb ügyésznél, azt követően a bíróság a miniszternél kezdeményezheti feljelentés megtételét az ügy elbírálására joghatósággal rendelkező más államnál.
+45. § (1) Ha
 
-(2) A feljelentés megtételéről a legfőbb ügyész vagy a miniszter dönt. A feljelentés megtételéről az ügyészt, illetve a bíróságot értesíteni kell. Az ügyész, illetve a bíróság az értesítés alapján az eljárást megszünteti.
+a) a Btk. 3. §-a alapján Magyarországnak nincs joghatósága, vagy a büntetőeljárás megindítását a legfőbb ügyész nem rendeli el, vagy
 
-(3) Az eljárásnak a (2) bekezdés alapján történő megszüntetése nem akadálya a büntetőeljárás későbbi folytatásának.
+b) a büntetőeljárás megszüntetése esetén a büntetőeljárás tárgyát képező bűncselekmény tekintetében külföldi állam joghatósága állapítható meg, és
+
+az ügy elbírálására joghatósággal rendelkező külföldi államban a büntetőeljárás eredményes lefolytatása várható, a vádirat benyújtásáig az ügyész a legfőbb ügyésznél, azt követően a bíróság a miniszternél kezdeményezheti feljelentés megtételét a külföldi államnál.
+
+(2) Ha a büntetőeljárás átadására került sor, az (1) bekezdés b) pontja alapján a büntetőeljárás megszüntetését követően a külföldi államnál feljelentés nem tehető.
+
+(3) A feljelentés megtételéről a legfőbb ügyész vagy a miniszter dönt. A feljelentés megtételéről az ügyészt, illetve a bíróságot tájékoztatni kell.
+
+(4) A külföldi államnál tett feljelentés önmagában nem akadálya a büntetőeljárás későbbi folytatásának.

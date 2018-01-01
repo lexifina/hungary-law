@@ -1,0 +1,1 @@
+62/J. § A magyar igazságügyi hatóság a megkereső igazságügyi hatóságot tájékoztatja, ha az eljárási jogsegély iránti megkeresés teljesítése során olyan körülmény merül fel, amely miatt az eljárási jogsegély iránti megkeresés nem teljesíthető.

@@ -14,7 +14,7 @@ d) a megkeresés teljesítésére nyitva álló határidőt.
 
 a) a megkeresett állam igazságügyi hatóságánál közvetlenül, vagy
 
-b) az Interpol útján
+b) az NEBEK útján
 
 is előterjesztheti.
 

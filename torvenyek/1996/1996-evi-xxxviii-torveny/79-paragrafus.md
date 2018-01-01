@@ -4,4 +4,4 @@ a) ha a büntetést részben már végrehajtották, az arra vonatkozó adatokat,
 
 b) az elítélt hozzájáruló nyilatkozatát.
 
-(2) Csatolni kell a jogerős bírósági határozat kiadmányát vagy hiteles másolatát.
+(2) Csatolni kell a jogerős bírósági határozatot vagy annak hiteles másolatát.

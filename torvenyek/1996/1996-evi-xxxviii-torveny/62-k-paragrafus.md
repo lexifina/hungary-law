@@ -1,0 +1,1 @@
+62/K. § A magyar igazságügyi hatóság az eljárási jogsegély iránti megkeresés teljesítéséről a Be. rendelkezései alapján, a megkereső igazságügyi hatóság előzetes tájékoztatását és a megkereső igazságügyi hatóság álláspontjának figyelembevételét követően adhat felvilágosítást.

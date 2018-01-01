@@ -10,10 +10,8 @@ c) a Magyarországról történő kiadatás esetén a kiadatási eljárás sorá
 
 d) a személyek szállításával, átszállításával kapcsolatos költség, ha az érintett Magyarországra vagy Magyarországról történő szállítására, továbbá Magyarország vagy más állam területén történő átszállítására Magyarország által kezdeményezett jogsegélykérelem teljesítésével összefüggésben került sor, és
 
-e) a külföldi ítélet érvényének elismerése, valamint külföldi bíróság által kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele esetén a külföldi hatóság által megküldött idegen nyelvű iratok magyar nyelvre történő fordításának költsége.
+e) a külföldi ítélet elismerése, valamint külföldi bíróság által kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele esetén a külföldi hatóság által megküldött idegen nyelvű iratok magyar nyelvre történő fordításának költsége.
 
-(3) A végrehajtási vagy az eljárási jogsegély teljesítésével kapcsolatos egyéb költségek Magyarországot terhelik, feltéve, hogy a viszonosság e tekintetben is biztosított.
+(3) A végrehajtási jogsegély teljesítésével kapcsolatos egyéb költségek Magyarországot terhelik, feltéve, hogy a viszonosság e tekintetben is biztosított.
 
-(4) Ha a külföldi hatóság által kért eljárási jogsegély jelentős költségekkel jár, teljesítésének feltételéül szabható a költségek teljes vagy részleges megtérítése.
-
-(5) Ha az ügyész vagy a bíróság külföldről eljárási jogsegély keretében tanút vagy szakértőt idéz, részükre az utazás és a magyarországi tartózkodás költségének fedezésére előleg folyósítható.
+(4)–(5)

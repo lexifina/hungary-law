@@ -1,3 +1,23 @@
-64. § (1) Az eljárási jogsegély teljesítése során a magyar büntetőeljárási szabályok szerint kell eljárni. A megkereső hatóság kérelmére más eljárásmódot is alkalmazni lehet, ha ez nem összeegyeztethetetlen a magyar jogrendszer alapelveivel.
+## 4. Cím Az eljárási jogsegély egyes formáira vonatkozó különös szabályok
 
-(2) Ha a jogsegély iránti megkeresésben kérik, a megkeresést teljesítő magyar igazságügyi hatóság az eljáró külföldi hatóságot kellő időben értesíti a megkeresés teljesítésének helyéről és idejéről. Ha az eljáró külföldi hatóság képviselője jelen kíván lenni a megkeresés teljesítésénél, részére, illetve az előtte folyó büntetőeljárásban részt vevő és általa megjelölt személyek részére ezt a megkeresést teljesítő bíróság vagy az ügyész engedélyezheti. Ha az eljárás során a külföldi hatóság jelenlévő képviselője az eredeti megkeresést kiegészítve további bizonyítás felvételét kéri, e kérelmét a lehetőséghez képest teljesíteni kell.
+64. § Az eljárási jogsegély formái különösen:
+
+a) fogvatartott személy ideiglenes átadása az eljárási jogsegély iránti megkeresést előterjesztő államba,
+
+b) fogvatartott személy ideiglenes átadása az eljárási jogsegély iránti megkeresést teljesítő államba,
+
+c) kihallgatás zártcélú távközlő hálózat útján,
+
+d) kihallgatás távbeszélő-készülék útján,
+
+e) ellenőrzött szállítás,
+
+f) fedett nyomozó alkalmazása,
+
+g) közös nyomozócsoport létrehozása,
+
+h) megkeresés nélküli információátadás,
+
+i) tárgy visszaadása,
+
+j) hivatalos irat kézbesítése.

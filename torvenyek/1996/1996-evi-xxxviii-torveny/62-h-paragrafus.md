@@ -1,0 +1,3 @@
+62/H. § (1) A magyar igazságügyi hatóság az eljárási jogsegély iránti megkeresés teljesítését, a megkeresésben meghatározott egyes eljárási cselekmények elvégzését, vagy a megkeresés alapján beszerzett bizonyítási eszköz átadását észszerű időtartamra elhalaszthatja, ha Magyarországon büntetőeljárás vagy más eljárás van folyamatban, és az eljárás sikerét az eljárási jogsegély iránti megkeresés teljesítése, vagy az eljárási cselekmény elvégzése veszélyeztetné.
+
+(2) A magyar igazságügyi hatóság az (1) bekezdés szerinti halasztásáról – az elhalasztás indokának és várható időtartamának megjelölésével – a megkereső igazságügyi hatóságot tájékoztatja.

@@ -1,9 +1,13 @@
 80. § (1) Az eljárási jogsegély iránti megkeresésnek a 76. § (2) bekezdésében felsorolt adatokon kívül tartalmaznia kell a megkeresés szakszerű elintézéséhez szükséges adatokat.
 
-(1a) A zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra irányuló megkeresésnek a 76. § (2) bekezdésében felsorolt adatokon kívül tartalmaznia kell a tanú, a szakértő vagy a terhelt személyes megjelenése elmaradásának okát, a kihallgatást vagy meghallgatást végző bíróság megnevezését, illetve az azt vezető bíró nevét.
+(1a)
 
-(2) A megkeresést el kell látni a megkereső igazságügyi hatóság képviselőjének aláírásával és pecsétjével.
+(2)
 
 (3) A kézbesítés iránti megkeresés esetében elegendő, ha a megkeresés az ügy tárgyát és a címzett nevét és lakcímét, eljárásbeli minőségét, valamint az irat nemét tartalmazza.
 
-(4) A házkutatásra, a motozásra és a lefoglalásra irányuló megkereséshez mellékelni kell a hatóság elrendelő határozatának kiadmányát vagy hiteles másolatát. E megkereséseket sürgős esetben az Interpol útján is elő lehet terjeszteni.
+(4) A házkutatásra, motozásra, lefoglalásra vagy más kényszerintézkedésre irányuló megkeresés
+
+a) abban az esetben teljesíthető, ha a megkereső állam hitelt érdemlően – ideértve a kényszerintézkedést elrendelő külföldi hatóság határozatnák megküldését – igazolja, hogy a külföldi hatóság a kényszerintézkedés elrendelésére a külföldi állam joga alapján jogosult,
+
+b) előterjesztése estén az eljárási jogsegély iránti megkereséshez mellékelni kell a kényszerintézkedést elrendelő határozatot.

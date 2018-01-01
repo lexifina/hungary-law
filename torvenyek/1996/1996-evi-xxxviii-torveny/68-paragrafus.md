@@ -1,15 +1,21 @@
-68. § (1) A tanú, a szakértő vagy – erre vonatkozó kifejezett írásbeli hozzájárulása alapján – a terhelt zártcélú távközlő hálózat útján történő kihallgatására vagy meghallgatására vonatkozó, a külföldi hatóság által előterjesztett megkeresés teljesítésére kizárólag a bíróság jogosult.
+## 8. Cím Kihallgatás távbeszélő-készülék útján
 
-(2) A zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra a tanú vagy terhelt lakóhelye vagy tartózkodási helye, illetve a szakértő lakóhelye vagy székhelye szerinti bíróság illetékes. Ha a tanú vagy a terhelt Magyarországon nem rendelkezik lakóhellyel vagy tartózkodási hellyel, illetve a szakértő Magyarországon nem rendelkezik lakóhellyel vagy székhellyel, a Pesti Központi Kerületi Bíróság illetékes.
+68. § (1) A Magyarországon tartózkodó személy tanúként vagy szakértőként, telefonkonferencia útján történő kihallgatása vagy meghallgatása iránt előterjesztett eljárási jogsegély iránti megkeresést az ügyész teljesíti.
 
-(3) Ha a magyar igazságügyi hatóságnak a zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra vonatkozó, a külföldi hatóság által előterjesztett megkeresés teljesítésére nincs hatásköre, vagy nem rendelkezik illetékességgel, azt haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező bírósághoz, és az áttételről a külföldi hatóságot értesíti.
+(2) Az eljárási jogsegély iránti megkeresés teljesítésének nem akadálya, hogy a Be. nem teszi lehetővé e jogintézmény alkalmazását.
 
-(4) Külföldi hatóság zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra irányuló megkeresése esetén a Be. 244/A. § (3) bekezdése irányadó azzal, hogy a végzés ellen fellebbezésnek nincs helye.
+(3) Az eljárási jogsegély iránti megkeresés a tanú vagy a szakértő hozzájárulása esetén teljesíthető.
 
-(5) A végzést legalább öt nappal a kihallgatás vagy meghallgatás határnapja előtt közölni kell a terhelttel, a védővel, a kihallgatandó tanúval, kiskorú tanú esetén a törvényes képviselővel vagy gondozóval, a szakértővel, és ha a kihallgatandó személy fogva van, a fogva tartást végrehajtó intézettel. A végzést haladéktalanul meg kell küldeni a terhelt, a tanú kihallgatásához vagy a szakértő meghallgatásához elkülönített helyiséget biztosító illetékes bíróságnak, illetve fogvatartást végrehajtó intézetnek.
+(4) Az eljárási jogsegély iránti megkeresés teljesítésére a tanúként kihallgatandó személy lakóhelye, tartózkodási helye vagy fogvatartásának helye, illetve a szakértőként meghallgatandó személy lakóhelye, tartózkodási helye vagy székhelye szerinti járási ügyészség rendelkezik hatáskörrel és illetékességgel.
 
-(6) Külföldi hatóság zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra irányuló megkeresése alapján tartott kihallgatáson vagy meghallgatáson a megkeresést teljesítő bíróság eljáró tagja részt vesz, és gondoskodik a meghallgatandó személy személyazonosságának ellenőrzéséről, illetve a magyar jogszabályok tiszteletben tartásáról. E feladatot bírósági titkár is elláthatja.
+(5) Ha a szabadlábon lévő, tanúként kihallgatandó személy Magyarországon lakóhellyel vagy tartózkodási hellyel, illetve a szakértőként meghallgatandó személy Magyarországon lakóhellyel, tartózkodási hellyel vagy székhellyel nem rendelkezik, az eljárási jogsegély iránti megkeresés teljesítésére a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel.
 
-(7) Az e §-ban meghatározott kihallgatásra vagy meghallgatásra a megkereső külföldi hatóság államának joga irányadó. A kihallgatást vagy meghallgatást a megkereső külföldi hatóság folytatja.
+(6) Az eljárási jogsegély iránti megkeresést abban az esetben teljesíti a bíróság, ha azt a megkereső igazságügyi hatóság kifejezetten kéri. Ebben az esetben az eljárási jogsegély iránti megkeresés teljesítése során a (4) bekezdés szerint illetékességgel rendelkező járásbíróság jár el. Ha a bíróság illetékessége a (4) bekezdés alapján nem állapítható meg, a megkeresés teljesítésére a Pesti Központi Kerületi Bíróság rendelkezik hatáskörrel és illetékességgel. Ha az eljárási jogsegély iránti megkeresés teljesítése során a bíróság jár el, eljárására az ügyészre vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(8) A megkeresést teljesítő bíróság eljáró tagja a kihallgatáson vagy meghallgatáson tolmács segítségét igénybe veheti.
+(7) A telefonkonferencia útján történő kihallgatás vagy meghallgatás végrehajtásának részleteit és az alkalmazandó eljárási szabályokat az ügyész a megkereső igazságügyi hatósággal előzetesen egyeztetheti.
+
+(8) Az eljárási jogsegély iránti megkeresés teljesítésekor a 67. § (3)–(9) bekezdését megfelelően kell alkalmazni, azzal hogy
+
+a) az eljárási cselekmény magyarországi helyszínén az ügyész feladatait alügyész is elláthatja,
+
+b) az eljárási cselekményről felvétel készítése nem kötelező.
