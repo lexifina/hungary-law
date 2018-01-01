@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-285-20-
 | 2015-04-01 | 2013-285-20-22.7 | 81/2015. (III. 31.) Korm. rendelet |
 | 2016-07-01 | 2013-285-20-22.8 | 169/2016. (VII. 1.) Korm. rendelet |
 | 2017-09-30 | 2013-285-20-22.9 | 282/2017. (IX. 22.) Korm. rendelet |
+| 2018-01-01 | 2013-285-20-22.10 | 81/2015. (III. 31.) Korm. rendelet |
