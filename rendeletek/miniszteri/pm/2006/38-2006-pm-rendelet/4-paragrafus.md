@@ -1,5 +1,0 @@
-4. § (1) Két-, illetőleg többoldalú eljárásban az adózó nem vesz részt az állami adóhatóság és az illetékes külföldi hatóság közötti információcsere vagy kölcsönös egyeztető eljárásban. Ezen eljárások folyamán felmerült új tények, adatok, körülmények tisztázása érdekében az állami adóhatóság kivételes jelleggel 8 napos határidő tűzésével felhívhatja az adózót az adózó rendelkezésére álló és az ármegállapítási kérelem elbírálása szempontjából érdeminek minősülő kiegészítő információk szolgáltatására.
-
-(2) Az információcsere, illetőleg a kölcsönös egyeztető eljárás eredményéről az állami adóhatóság kérelemre tájékoztatja az adózót.
-
-(3) Az adóhatóság az adózót a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló külön jogszabály alapján készítendő nyilvántartással megegyező tartalmon túl az adózónál fellelhető – a szokásos piaci ár megállapításához szükséges – további információk szolgáltatására hívhatja fel, megjelölve az információk megadásának határidejét is.
