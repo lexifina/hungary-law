@@ -1,4 +1,4 @@
-## 5. § Új igazolvány kiadását a miniszter hivatalból vagy írásbeli, postai vagy jogszabályban meghatározott elektronikus úton benyújtott kérelemre teljesíti.
+## 5. §[^1]
 
 6. § (1) Az igazolványt be kell vonni, ha
 
@@ -10,4 +10,7 @@ c) az igazolvány adataiban változás következett be, vagy
 
 d) az elveszett, eltulajdonított igazolvány előkerült.
 
-(2) Az igazolvány bevonásáról a miniszter – a közvetítő halála esetén történő törlés kivételével – döntést hoz, amelynek kézhezvételét követően a közvetítő köteles az igazolványt a döntésben megjelölt határidőn belül és módon visszaadni. A bevont igazolványt meg kell semmisíteni.
+(2)[^2] A miniszter részére az igazolvány bevonásáról hozott határozatának megfelelően megküldött vagy átadott, bevont igazolványt meg kell semmisíteni.
+
+[^1]: Az 5. §-t a 20/2017. (XII. 21.) IM rendelet 45. § (3) bekezdése hatályon kívül helyezte.
+[^2]: A 6. § (2) bekezdése a 20/2017. (XII. 21.) IM rendelet 45. § (1) bekezdésével megállapított szöveg.
