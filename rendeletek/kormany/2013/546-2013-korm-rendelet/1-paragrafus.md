@@ -8,25 +8,19 @@ c) a komáromi Csillag Erődben a Csillag Erőd Művészeti, Történeti és Had
 
 megvalósuló beruházásokkal összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
 
-(2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági eljárásokban – a (4) bekezdésben foglalt kivétellel –
+(2)[^3]
 
-a) eljáró első fokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint első fokú hatóságként jár el,
+(3)[^4]
 
-b) az első fokú eljárásban szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint első fokú eljárásban szakhatóságként jár el.
-
-(3)[^3] A Kormány az (1) bekezdés szerinti közigazgatási hatósági eljárásokban – a (4) bekezdésben foglalt kivétellel –
-
-a) eljáró másodfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként jár el,
-
-b) a másodfokú eljárásban eljáró szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú eljárásban szakhatóságként jár el.
-
-(4)[^4] A Kormány az (1) bekezdés b) pontja szerinti közigazgatási hatósági eljárásokban
+(4)[^5] A Kormány az (1) bekezdés b) pontja szerinti közigazgatási hatósági eljárásokban
 
 a) eljáró hatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki,
 
-b) eljáró szakhatóságként a 3. mellékletben meghatározott hatóságokat jelöli ki.
+b)[^6]
 
 [^1]: Az 1. § (1) bekezdés a) pontja a 350/2016. (XI. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 373/2015. (XII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. § (3) bekezdés nyitó szövegrésze a 373/2015. (XII. 2.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^4]: Az 1. § (4) bekezdése a 373/2015. (XII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (4) bekezdése a 373/2015. (XII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 1. § (4) bekezdés b) pontját a 458/2017. (XII. 28.) Korm. rendelet 121. § b) pontja hatályon kívül helyezte.

@@ -1,6 +1,6 @@
-## 12. §[^20] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 40/2016. (III. 3.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 6. § (2) bekezdését a Módr2. hatálybalépésekor[^21] folyamatban lévő ügyekben is alkalmazni kell.
+## 12. §[^23] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 40/2016. (III. 3.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 6. § (2) bekezdését a Módr2. hatálybalépésekor[^24] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^22]
+1. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^25]
 
 ## A Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő kiemelt jelentőségű ügyek
 
@@ -20,7 +20,7 @@
 
 8. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
 
-9.[^23] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+9.[^26] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 10. műszaki biztonsági hatósági engedélyezési eljárások,
 
@@ -50,7 +50,7 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^20]: A 12. §-t a 40/2016. (III. 3.) Korm. rendelet 2. §-a iktatta be.
-[^21]: A hatálybalépés időpontja 2016. március 4.
-[^22]: Az 1. melléklet a 373/2015. (XII. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^23]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 63. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^23]: A 12. §-t a 40/2016. (III. 3.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2016. március 4.
+[^25]: Az 1. melléklet a 373/2015. (XII. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^26]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 63. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.

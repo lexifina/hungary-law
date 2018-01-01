@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-546-20-
 | 2017-01-01 | 2013-546-20-22.8 | 373/2015. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2013-546-20-22.9 | 373/2015. (XII. 2.) Korm. rendelet |
 | 2017-07-01 | 2013-546-20-22.10 | 373/2015. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2013-546-20-22.11 | 458/2017. (XII. 28.) Korm. rendelet |
