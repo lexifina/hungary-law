@@ -6,9 +6,9 @@ a) a Budapesti Műszaki Egyetem Országos Műszaki Információs Központ és K�
 
 b) az Országos Egészségtudományi Szakkönyvtár,
 
-c) a Magyar Tudományos Akadémia Könyvtára,
+c) a Magyar Tudományos Akadémia Könyvtár és Információs Központ,
 
-d) az Országos Mezőgazdasági Múzeum és Könyvtár,
+d) a Magyar Mezőgazdasági Múzeum és Könyvtár,
 
 e) az Országgyűlési Könyvtár,
 

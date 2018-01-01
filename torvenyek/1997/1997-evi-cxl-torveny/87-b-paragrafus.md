@@ -12,7 +12,7 @@ c) a magyar nyelvterület és a Kárpát-medence néphagyományaira épülő mű
 
 d) együttműködés a népművészeti ágak, a népi iparművészet és a néphagyomány gondozása területén a helyi, regionális és országos szervezetekkel,
 
-e) népművészeti és népi iparművészeti alkotások minősítésével, minősítő címek adományozásával kapcsolatos hatósági feladatok ellátása, ennek keretében hatósági nyilvántartás vezetése és a minősítő címekről szóló hatósági igazolvány kiállítása,
+e) népművészeti és népi iparművészeti alkotások – igazgatási szolgáltatási díjfizetésre köteles – minősítésével, minősítő címek adományozásával kapcsolatos hatósági feladatok ellátása, ennek keretében hatósági nyilvántartás vezetése és a minősítő címekről szóló hatósági igazolvány kiállítása,
 
 f) a néphagyomány gondozása és a hagyományőrzés érdekében kifejtett tevékenységek támogatása, a népművészet, a népi iparművészet és a néphagyomány minőségbiztosítási rendszereinek működtetése,
 

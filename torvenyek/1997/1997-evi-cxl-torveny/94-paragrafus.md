@@ -8,6 +8,24 @@ b) a munkakör betöltéséhez jogszabályban meghatározott végzettséggel és
 
 (4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben és szervezett képzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek és szervezett képzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben és szervezett képzésben való részvételéhez támogatás nyújtható.
 
+(4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről és szervezett képzésekről hatósági nyilvántartást vezet, mely az alábbi adatok tekintetében közhitelesnek minősül:
+
+a) a szakmai továbbképzési programot készítő intézmény megnevezése, a felnőttképzést folytató intézmények nyilvántartásában szereplő száma,
+
+b) a szakmai továbbképzési program megnevezése,
+
+c) a szakmai továbbképzés célcsoportja,
+
+d) a szakmai továbbképzési programba való jelentkezés feltételei,
+
+e) a szakmai továbbképzési program teljes óraszáma,
+
+f) a szakmai továbbképzési program főbb területei,
+
+g) a szakmai továbbképzési program nyilvántartásba vételéről szóló határozat száma,
+
+h) a szakmai továbbképzési program nyilvántartásba vételének időpontja.
+
 (5) A megyei hatókörű városi múzeum állami támogatása terhére évente biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott múzeumi szakember alaptevékenységnek megfelelő szakmai továbbképzését.
 
 (5a) A megyei hatókörű városi könyvtár és a Fővárosi Szabó Ervin Könyvtár állami támogatása terhére évente biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott könyvtáros szakember alaptevékenységnek megfelelő szakmai továbbképzését.

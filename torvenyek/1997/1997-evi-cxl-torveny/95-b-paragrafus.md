@@ -34,6 +34,6 @@ kapcsolatos szakmai mutatók alapján készíti el.
 
 (11) A miniszter
 
-a) a közművelődési intézmények és szervezetek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minőségfejlesztése érdekében, minősítési eljárás során, szakmai minősítő testület bevonásával minősített közművelődési intézmény, minősített könyvtár, minősített muzeális intézmény és minősített levéltár címet adományoz;
+a) a közművelődési intézmények és szervezetek, a nyilvános könyvtárak, valamint a muzeális intézmények minőségfejlesztése érdekében, minősítési eljárás során, a közművelődési intézmények és szervezetek esetén szakmai minősítő testület bevonásával minősített közművelődési intézmény, minősített könyvtár vagy minősített muzeális intézmény címet adományoz;
 
 b) a minősített intézmények számára évente – pályázat alapján – minőségi díjat tűz ki.

@@ -1,0 +1,1 @@
+99/B. § Az egyes kulturális és sporttárgyú törvények, valamint egyéb kapcsolódó törvények módosításáról szóló 2017. évi CLXXX. törvény (a továbbiakban: Módtv.) által megállapított 78/B. § (2a) bekezdésében, 87/A. § (2) és (3) bekezdésében, valamint a Módtv. által módosított 78/B. § (2) bekezdésében meghatározott követelményeket 2023. január 1-jéig kell teljesíteni.

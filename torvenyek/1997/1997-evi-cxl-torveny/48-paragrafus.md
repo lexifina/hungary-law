@@ -8,4 +8,4 @@
 
 (4)
 
-(5) A közérdekű muzeális gyűjteményekre és kiállítóhelyekre egyebekben – a 49. § kivételével – a múzeumokra vonatkozó rendelkezéseket kell alkalmazni.
+(5) A közérdekű muzeális gyűjteményekre és kiállítóhelyekre egyebekben – a 42. § (1), (2) és (4) bekezdése, valamint a 49. § kivételével – a múzeumokra vonatkozó rendelkezéseket kell alkalmazni.

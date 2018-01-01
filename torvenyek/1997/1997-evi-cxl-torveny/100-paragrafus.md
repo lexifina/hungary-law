@@ -28,7 +28,21 @@ l) az e törvény hatálya alá tartozó intézményekben teljes munkaidőben sz
 
 m) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött olyan kulturális javak visszaadásának rendjét, amelyek állami tulajdonba tartozása minden kétséget kizáró módon nem igazolható,
 
-n) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött kulturális javak 38/D. §-ban meghatározottak szerinti birtokba adásának rendjét, a hasznosításukra vonatkozó szerződés tartalmi elemeit és a szerződés megszüntetésére vonatkozó – a nemzeti vagyonról szóló törvényben és az állami vagyonról szóló törvényben nem szabályozott – részletes rendelkezéseket.
+n) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött kulturális javak 38/D. §-ban meghatározottak szerinti birtokba adásának rendjét, a hasznosításukra vonatkozó szerződés tartalmi elemeit és a szerződés megszüntetésére vonatkozó – a nemzeti vagyonról szóló törvényben és az állami vagyonról szóló törvényben nem szabályozott – részletes rendelkezéseket,
+
+n) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött kulturális javak 38/D. §-ban meghatározottak szerinti birtokba adásának rendjét, a hasznosításukra vonatkozó szerződés tartalmi elemeit és a szerződés megszüntetésére vonatkozó – a nemzeti vagyonról szóló törvényben és az állami vagyonról szóló törvényben nem szabályozott – részletes rendelkezéseket,
+
+o) a muzeális intézmények működési engedélyének kiadására, módosítására és visszavonására irányuló kérelem (a továbbiakban együtt: kérelem) adattartalmát és a kérelemhez csatolandó mellékletek körét, a kérelem elbírálásának rendjét, a működési engedély tartalmát, a működési engedély visszavonása esetén követendő eljárást, továbbá a muzeális intézmény elnevezésével kapcsolatos kérdéseket,
+
+p) a tanfolyam jellegű szakmai továbbképzések akkreditálásának feltételeit és eljárási szabályait,
+
+q) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+
+r) a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyének kijelölésére, valamint a kölcsönzési díj és a pénzügyi biztosíték megfizetése alóli mentességre vonatkozó részletes szabályokat,
+
+s) a hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami feladatokat ellátó szerv kijelölését, feladatai ellátásának részletes szabályait,
+
+t) a népművészeti és népi iparművészeti alkotások minősítésére, minősítő címek adományozására irányuló eljárás rendjét, a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, valamint az igazolvány kiállítására vonatkozó szabályokat és a minősítés alapjául szolgáló foglalkozási ágakat.
 
 (2)
 
@@ -38,9 +52,9 @@ a) a közművelődési intézmények és szervezetek, a könyvtárak és könyvt
 
 b) a múzeum, valamint az országos szakkönyvtár és a megyei hatókörű városi könyvtár éves munkatervéhez szükséges szakmai mutatókat,
 
-c) a közművelődési alapszolgáltatások szakmai, személyi és infrastrukturális követelményeit, továbbá a közművelődési intézmények és közösségi színterek szakmai, működési, személyi és infrastrukturális követelményeit,
+c) a közművelődési alapszolgáltatások körében ellátható egyes szakmai feladatokat, a közművelődési alapszolgáltatások szakmai, személyi és infrastrukturális követelményeit, továbbá a közművelődési intézmények és közösségi színterek szakmai, működési, személyi és infrastrukturális követelményeit,
 
-d) a muzeális intézmények működési engedélyének kiadására, módosítására és visszavonására irányuló kérelem (a továbbiakban együtt: kérelem) benyújtásának feltételeit, a kérelem elbírálásának eljárásrendjét, a kérelem és a működési engedély adattartalmát, a kérelemhez csatolandó mellékletek körét, a működési engedély visszavonása esetén követendő eljárást, továbbá a muzeális intézmény elnevezésével kapcsolatos kérdéseket,
+d)
 
 e) a kulturális alapellátás kiterjesztésének prioritási rendjét és szempontrendszerét,
 
@@ -54,7 +68,7 @@ i) a továbbképzés és a szervezett képzés rendszerét és követelményeit,
 
 j) a kulturális örökség közgyűjteményekben őrzött javai sokszorosításának, másolásának, adatrögzítésének és adatfelhasználásának jogát,
 
-k) a muzeális intézményben őrzött kulturális javak elidegenítésére, cseréjére és kölcsönzésére, valamint a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyének kijelölésére vonatkozó részletes szabályokat,
+k)
 
 l) a muzeális intézményekre, továbbá a könyvtárakra vonatkozó szakfelügyelet rendjét,
 
@@ -68,7 +82,7 @@ p) a könyvtári dokumentumellátást,
 
 q)
 
-r) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+r)
 
 s) a muzeális intézményben, a könyvtárban, valamint a közművelődési intézményben nem közalkalmazotti jogviszonyban foglalkoztatottak munkaköreinek betöltéséhez szükséges képesítési feltételeket,
 
@@ -100,6 +114,6 @@ c) a könyvtári dokumentumok selejtezésének szabályait.
 
 a) a szakmai továbbképzési és szervezett képzési programokkal összefüggő és
 
-b)
+b) a népművészeti és népi iparművészeti alkotások minősítésével összefüggő
 
 igazgatási szolgáltatási díjak körét, mértékét, befizetésének szabályait, a befolyt összeg kezelését, nyilvántartását, elszámolását, felhasználását.

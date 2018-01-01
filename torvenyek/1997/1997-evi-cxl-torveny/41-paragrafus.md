@@ -1,6 +1,6 @@
 41. § (1) A muzeális intézmény működési engedélyének visszavonására a miniszter jogosult.
 
-(2) A működési engedély visszavonására irányuló eljárás a fenntartó kérelmére indul meg, arra a Ket. szabályait kell alkalmazni azzal az eltéréssel, hogy az ügyintézési határidő 45 nap.
+(2) A működési engedély visszavonására irányuló eljárás a fenntartó kérelmére indul meg. Az eljárásban az ügyfelet költségmentesség illeti meg.
 
 (3) A működési engedély visszavonására akkor kerülhet sor, ha
 

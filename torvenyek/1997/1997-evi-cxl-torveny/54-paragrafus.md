@@ -1,28 +1,40 @@
 54. § (1) A nyilvános könyvtár alapkövetelményei:
 
-a) mindenki által használható és – e törvény eltérő rendelkezése hiányában – megközelíthető,
+a) mindenki által használható és – e törvény eltérő rendelkezése hiányában – megközelíthető;
 
-b) vezetője felsőfokú szakirányú végzettséggel rendelkezik és könyvtári szakembert alkalmaz,
+b) rendelkezik kizárólagosan a könyvtári szolgáltatások céljaira alkalmas helyiséggel;
 
-c) rendelkezik kizárólagosan könyvtári szolgáltatások céljaira alkalmas helyiséggel,
+c) rendszeresen, a felhasználók többsége számára megfelelő időpontban, ötezer fő feletti településen működő települési könyvtár esetében legalább heti 25 órában, továbbá legalább havonta két hétvégi napon tart nyitva;
 
-d) rendszeresen, a felhasználók többsége számára megfelelő időpontban tart nyitva,
+d) vezetője a könyvtárakban foglalkoztatottak képesítési követelményeire és jogviszonyára irányadó jogszabályokban meghatározott végzettséggel és szakképzettséggel rendelkezik;
 
-e) helyben nyújtott alapszolgáltatásai ingyenesek,
+e) könyvtári szakembert alkalmaz;
 
-f) statisztikai adatokat szolgáltat,
+f) helyben nyújtott alapszolgáltatásai ingyenesek;
 
-g) ellátja az 55. § (1) bekezdésében felsorolt alapfeladatokat,
+g) statisztikai adatokat szolgáltat;
 
-h) elnevezésében megjelenik a könyvtár kifejezés,
+h) éves szakmai munkaterv alapján ellátja az 55. § (1) bekezdésében felsorolt alapfeladatokat, tevékenységéről éves szakmai beszámolót készít;
 
-i) részt vesz a kulturális alapellátás kiterjesztésében.
+i) részt vesz a kulturális alapellátás kiterjesztésében;
+
+j) elnevezésében megjelenik a könyvtár kifejezés.
 
 (1a) Azok a fegyveres és rendvédelmi testületek által fenntartott könyvtárak, amelyek vállalják a nyilvános könyvtárak 55. § (1) bekezdés szerinti alapfeladatainak ellátását, a hozzáférést távhasználat útján is biztosíthatják.
 
 (2) A nyilvános könyvtárakról a miniszter jegyzéket vezet.
 
-(3) A nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtár, a megyei hatókörű városi könyvtár, a 3. számú melléklet szerinti országos szakkönyvtár, továbbá az állami egyetem könyvtára nyilvános könyvtár, amely a fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata, valamint a nyilvános könyvtárak jegyzékének vezetéséről szóló kormányrendeletben meghatározott adatok benyújtásával kerül be a nyilvános könyvtárak jegyzékébe.
+(3) Nyilvános könyvtár
+
+a) a nemzeti könyvtár,
+
+b) a megyei hatókörű városi könyvtár,
+
+c) a 64. § (2) bekezdés a) pontja szerinti települési könyvtár,
+
+d) a 3. számú melléklet szerinti országos szakkönyvtár, valamint
+
+e) az állami egyetem könyvtára.
 
 (4) A (3) bekezdés hatálya alá nem tartozó könyvtár fenntartója az (1) bekezdésben foglaltak teljesítésével, valamint az erről szóló nyilatkozat és a jogszabályban meghatározott adatok benyújtásával kérheti a minisztertől a könyvtár felvételét a nyilvános könyvtárak jegyzékébe.
 

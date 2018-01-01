@@ -24,4 +24,6 @@ k) ellátja az Országos Dokumentumellátási Rendszerről szóló kormányrende
 
 l) évente két alkalommal a könyvtári szolgáltatások megvalósításával kapcsolatos információs szakmai műhelynapot szervez a megyében lévő városi könyvtárak könyvtárosai számára,
 
-m) ellátja a helyismereti dokumentumok elektronikus hozzáférhetővé tételével kapcsolatos feladatokat.
+m) ellátja a helyismereti dokumentumok elektronikus hozzáférhetővé tételével kapcsolatos feladatokat,
+
+n) elektronikus formában megőrzi és hozzáférhetővé teszi a települési könyvtárak éves szakmai beszámolóját és munkatervét.

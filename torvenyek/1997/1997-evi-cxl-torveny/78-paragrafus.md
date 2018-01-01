@@ -1,4 +1,4 @@
-78. § (1) A művelődési ház a helyi közösségi művelődést szervező, közművelődési alapszolgáltatást nyújtó közművelődési intézmény. Tevékenysége településrészre, kerületre, egy településre vagy több községre terjed ki.
+78. § (1) A művelődési ház a helyi közösségi művelődést szervező, legalább három közművelődési alapszolgáltatást biztosító közművelődési intézmény. Tevékenysége településrészre, kerületre, egy településre vagy több községre terjed ki.
 
 (2) A művelődési ház vezetője szakirányú felsőfokú végzettséggel rendelkezik.
 
