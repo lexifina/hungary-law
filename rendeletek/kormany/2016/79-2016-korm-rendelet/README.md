@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-79-20-2
 | --- | --- | --- |
 | 2016-04-12 | 2016-79-20-22.1 | 79/2016. (IV. 11.) Korm. rendelet |
 | 2016-06-08 | 2016-79-20-22.2 | 132/2016. (VI. 7.) Korm. rendelet |
+| 2018-01-01 | 2016-79-20-22.3 | 546/2022. (XII. 22.) Korm. rendelet |
