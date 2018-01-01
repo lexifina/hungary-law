@@ -2,6 +2,6 @@
 
 a)–f)
 
-g)
+g) 28. §-ában az „a Ket. szerinti” szöveg,
 
 h)–o)
