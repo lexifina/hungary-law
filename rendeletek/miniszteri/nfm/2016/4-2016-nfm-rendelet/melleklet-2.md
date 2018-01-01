@@ -52,7 +52,7 @@
 
 | 22 | Zárt sugárforrás felhasználási idejének meghosszabbítása | 10 000 |
 
-2. melléklet a 4/2016. (III. 5.) NFM rendelethez
+2. melléklet a 4/2016. (III. 5.) NFM rendelethez[^6]
 
 A radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendelet szerinti egyes közigazgatási eljárásokért és igazgatás jellegű szolgáltatásokért fizetendő díjak
 
@@ -89,3 +89,5 @@ A radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról
 | 10 | Készüléket vagy gyártmányt tartalmazó küldeményre vonatkozó alternatív mentességi aktivitás határ számításának jóváhagyása | 213 000 |
 
 | 11 | Ha a veszélyes áruk szállításáról szóló jogszabályok azt engedélyhez kötik, a hasadó-engedményes anyag mintája | 244 000 |
+
+[^6]: [Az 52/2017. (XII. 22.) NFM rendelet 36. § d) pontjával elrendelt módosítás, amely szerint a 2. melléklet címében az „és igazgatási jellegű szolgáltatásokért fizetendő díjak” szövegrész helyébe a „fizetendő igazgatási szolgáltatási díjak” szöveg lép, nem vezethető át.]
