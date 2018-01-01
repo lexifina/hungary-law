@@ -84,7 +84,7 @@ Magyarország területén van.
 
 22.11. a közúti jármű forgalomba helyezés előtti és időszakos vizsgálata során a jármű műszaki megvizsgálását és környezetvédelmi felülvizsgálatát végző műszaki vizsgabiztos;
 
-22.12. a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendeletben meghatározott ellenőrző tisztviselő;
+22.12. a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendeletben meghatározott menetíró szerelő;
 
 22.13. a közösségi közlekedés működtetésére jogosult vállalkozások által alkalmazott forgalomirányítási, szervezési és járműfenntartási tevékenységeket irányító, önálló hatáskörrel rendelkező személy
 

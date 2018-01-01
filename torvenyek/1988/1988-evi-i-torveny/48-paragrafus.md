@@ -42,9 +42,9 @@ a) a Kormány, hogy
 
 18. a 20. § (11) bekezdés a) pont ab) alpontja és b) pont bc) alpontja, valamint a 33/C. § (1) bekezdése szerinti hatósági ellenőrzés lefolytatására jogosult közútkezelő kijelölését,
 
-19.
+19. a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokat
 
-20. a 21. §-ban meghatározott bírság kiszabására jogosult hatóság vagy hatóságok kijelölését,
+20. a 21. §-ban meghatározott bírság kiszabására jogosult hatóság vagy hatóságok kijelölését, valamint az automatikus döntéshozatal feltételeit,
 
 21. a közigazgatási bírsággal sújtandó közlekedési szabályszegések körét, az e tevékenységekre vonatkozó rendelkezések megsértése, valamint a jogosulatlan úthasználat esetén kiszabható bírságok összegét, a bírság kiszabásának részletes szabályait, valamint a beszedett bírság felhasználását,
 
@@ -52,7 +52,7 @@ a) a Kormány, hogy
 
 23. a 29. § (1) bekezdése szerinti elszámolás és vagyonkezelésbe adás részletes szabályait,
 
-24. a vizsgáló állomás engedélyezésének részletes eljárási szabályait, a vizsgáló állomással kötendő hatósági szerződés tartalmát,
+24. a vizsgáló állomás engedélyezésének részletes eljárási szabályait,
 
 25. az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
@@ -80,9 +80,13 @@ a) a Kormány, hogy
 
 37. a közúti hírközlő hálózatok kapacitásainak hasznosítására vonatkozó részletes szabályokat;
 
-38. a tájékozódást segítő jelzést megjelenítő reklámcélú eszközök közvilágítási-, villany- és telefonoszlopon történő elhelyezésére és eltávolítására, az azok elhelyezéséért fizetendő elhelyezési díj mértékére és megfizetésére vonatkozó részletes szabályokat;
+38. a tájékozódást segítő jelzést megjelenítő reklámcélú eszközök közvilágítási-, villany- és telefonoszlopon történő elhelyezésére és eltávolítására, az azok elhelyezéséért fizetendő elhelyezési díj mértékére és megfizetésére vonatkozó részletes szabályokat,
 
-39. a 33. § (1) bekezdés d) pont da) alpontja szerinti országos kerékpárút-törzshálózat és a főutakkal párhuzamos kerékpárutak lakott területen kívüli és lakott területi szakaszainak – beleértve az e hálózathoz tartozó, kerékpározás céljára használt magánutakat és útnak nem minősülő egyéb útvonalakat is – kijelölését, valamint a 33. § (1) bekezdés d) pont da)–db) alpontja szerinti, a fenntartási, a fejlesztési és a fejlesztéssel összefüggő üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet kijelölését
+39. a 33. § (1) bekezdés d) pont da) alpontja szerinti országos kerékpárút-törzshálózat és a főutakkal párhuzamos kerékpárutak lakott területen kívüli és lakott területi szakaszainak – beleértve az e hálózathoz tartozó, kerékpározás céljára használt magánutakat és útnak nem minősülő egyéb útvonalakat is – kijelölését, valamint a 33. § (1) bekezdés d) pont da)–db) alpontja szerinti, a fenntartási, a fejlesztési és a fejlesztéssel összefüggő üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet kijelölését;
+
+39. a megkülönböztető és figyelmeztető jelzés felszerelésével, engedélyezésével, használatával és visszavonásával kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokat;
+
+40. a közúti járművezetők pályaalkalmassági vizsgálatának szabályait, valamint a szakirányú továbbképzés és az utánképzés részletes szabályait,
 
 b) a miniszter, hogy
 
@@ -104,15 +108,15 @@ b) a miniszter, hogy
 
 9. az útépítés felügyeleti ellenőrzés szabályait,
 
-10. az útépítésre, illetőleg az út üzemeltetésére szolgáló anyagok, szerkezetek és berendezések műszaki követelményeit, valamint megfelelőségük igazolásának, továbbá ezen anyagok, szerkezetek és berendezések forgalomba hozatalának, felhasználásának, továbbá az újfajta építési módok (műszaki megoldások), technológiák, eljárások engedélyezésének szabályait, valamint az utak építésével kapcsolatos minőségi követelményeket,
+10. az útépítésre, illetve az út üzemeltetésére szolgáló anyagok, szerkezetek és berendezések műszaki követelményeit, valamint megfelelőségük igazolásának, továbbá ezen anyagok, szerkezetek és berendezések forgalomba hozatalának, felhasználásának, továbbá az újfajta építési módok (műszaki megoldások), technológiák, eljárások engedélyezésének szabályait, valamint az utak építésével kapcsolatos minőségi követelményeket és jótállásra vonatkozó feltételeket,
 
 11. a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeit,
 
 12. a közúti járművek műszaki vizsgáztatásával kapcsolatos szabályokat,
 
-13. a közúti járművezetők pályaalkalmassági vizsgálatának szabályait,valamint a szakirányú továbbképzés és az utánképzés részletes szabályait,
+13.
 
-14. a járműfenntartó tevékenység végzésének feltételeit, a szükséges eszközöket, berendezéseket és alkalmazott technológiákat, illetőleg a járműjavításhoz felhasznált alkatrészekre, felszerelésekre, tartozékokra, tüzelő- és kenőanyagokra vonatkozó minőségi követelményeket, továbbá a járműfenntartó tevékenység bejelentésének és a járműfenntartó tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésének eljárási szabályait,
+14. a járműfenntartó tevékenység végzésének feltételeit, a szükséges eszközöket, berendezéseket és alkalmazott technológiákat, illetve a járműjavításhoz felhasznált alkatrészekre, felszerelésekre, tartozékokra, tüzelő- és kenőanyagokra vonatkozó minőségi követelményeket,
 
 15. a gépjárművek vámkezelését megelőző vizsgálattal kapcsolatos szabályokat,
 
@@ -128,7 +132,7 @@ b) a miniszter, hogy
 
 21. a vonatkozó nemzetközi szerződések hatálya alá nem tartozó járművekkel történő veszélyes áru szállítás szabályait,
 
-22. a közúti járművek újrafelhasználható alkatrészei szakszerű kinyerésének (bontásának) feltételeit, és e tevékenység végzésének személyi, dologi és szakmai feltételeit,
+22. a közúti járművek újrafelhasználható alkatrészei szakszerű kinyerésének (bontásának) feltételeit, és e tevékenység engedélyezésének személyi, dologi és szakmai feltételeit,
 
 23. a közutak forgalombiztonsági szempontjai felülvizsgálatának (auditálásának) szakmai szabályait,
 
@@ -138,13 +142,13 @@ b) a miniszter, hogy
 
 26. a 21. § (3) bekezdése szerinti eszközre vonatkozó követelményeket,
 
-27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői és a hatósági eljárás, a díjfizetés, valamint a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló szabályokat,
+27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői feladatokról, a díjfizetés, valamint a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló szabályokat,
 
 28. az út és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá az utak kezelésére vonatkozó, a közlekedésbiztonságot és a létesítményeket érintő alapvető követelményeket,
 
 29. a 32. § (4) bekezdésében meghatározott állami feladatokat, azok végrehajtásának és az egyes feladatok ellátásához szükséges források felhasználásának szabályait,
 
-30. az e törvény szerinti járművezetői vizsgabiztosi, műszaki vizsgabiztosi, iskolavezetői, szakoktatói tevékenység folytatásának részletes feltételeit, az e tevékenységekre jogosító engedély kiadásának rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+30. az e törvény szerinti járművezetői vizsgabiztosi, műszaki vizsgabiztosi, iskolavezetői, szakoktatói tevékenység folytatásának részletes feltételeit, az e tevékenységekre jogosító engedély kiadásának rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
 31. a telítettség megállapításának módját,
 
@@ -154,7 +158,7 @@ b) a miniszter, hogy
 
 34. a 24. § (11) bekezdésében meghatározott szervezet kijelölését, és az azzal összefüggésben ellátandó, valamint a 24. § (11) bekezdésében meghatározott szervezet által ellátandó muzeális jellegű járművek minősítési szabályainak kidolgozására és kiadására, a minősítés végrehajtásának szakmai és piacfelügyeleti ellenőrzésére vonatkozó feladatokat,
 
-35. a kezelői ellenőri munkakör létesítéséhez szükséges iskolai végzettséget, képesítési előírásokat, valamint a névjegyzék vezetésére és a kezelői ellenőrök rendszeres továbbképzésére vonatkozó részletes eljárási szabályokat,
+35. a kezelői ellenőri munkakör létesítéséhez szükséges iskolai végzettséget, képesítési előírásokat, valamint a névjegyzék vezetésére és a kezelői ellenőrök rendszeres továbbképzésére vonatkozó szabályokat,
 
 36. a közút lakott területen kívüli szakasza mellett a közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület létrehozásának, valamint a testület eljárásának részletes szabályait,
 
@@ -172,13 +176,13 @@ b) a miniszter, hogy
 
 42. az engedélyezett járműtípusokkal, valamint a jóváhagyott alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos ellenőrzések és tájékoztatások ellátására kijelölt szervezetek működési feltételeit,
 
-43. a menetíró ellenőrök képzésére és továbbképzésére vonatkozó részletes eljárási szabályokat,
+43. a menetíró ellenőrök képzésére és továbbképzésére vonatkozó szabályokat,
 
-44. a menetíró készülékek használatával összefüggő hatósági ellenőrzések során keletkezett személyazonosító adatok rögzítése, feldolgozásának és az adatszolgáltatás technikai feltételeit, valamint a globális navigációs műhold-rendszer használatával kapcsolatos eljárási szabályokat,
+44. a menetíró készülékek használatával összefüggő hatósági ellenőrzések során keletkezett személyazonosító adatok rögzítésének, feldolgozásának és az adatszolgáltatás technikai feltételeit, valamint a globális navigációs műholdrendszer használatával kapcsolatos szabályokat,
 
 45. a menetíró készülék beépítését, vizsgálatát, javítását végző szakemberekre, valamint az ilyen járműfenntartó szervezetekre vonatkozó követelményeket,
 
-46. a menetíró készülék beépítését, vizsgálatát, javítását végző szakemberek, valamint járműfenntartó szervezetek ellenőrzésével (auditálásával) kapcsolatos feladatokat,
+46. a menetíró készülék beépítését, vizsgálatát, javítását végző szakemberek, valamint járműfenntartó szervezetek ellenőrzésével kapcsolatos feladatokat, valamint a menetíró készülék (tachográf) beépítését, javítását és illesztését végző műhelyek auditálásáról szóló részletes szabályokat,
 
 47. a menetíró készülék beépítését, vizsgálatát, javítását végző szakemberek, járműfenntartó szervezetek, menetíró készülék gyártását végző szervezetek, menetíró készülék beépítését végző jármű-gyártók tevékenységének engedélyezésére és ezzel összefüggő nyilvántartásra, nemzeti és nemzetközi adatközlésre vonatkozó feltételeket,
 
@@ -186,7 +190,7 @@ b) a miniszter, hogy
 
 49. az úthálózat-védelem érdekében megvalósuló rendszerek létesítésére és működtetésére vonatkozó részletes szabályokat,
 
-50. a 21/M. § szerinti kockázatértékelő rendszerrel kapcsolatos, a közúti vállalkozások kockázati profiljának meghatározására és a fokozott kockázatot jelentő vállalkozások szigorúbb és gyakoribb ellenőrzésére vonatkozó részletes szabályokat,
+50. a 21/M. § szerinti kockázatértékelő rendszerrel kapcsolatos, a közúti vállalkozások kockázati profiljának meghatározására és a fokozott kockázatot jelentő vállalkozások szigorúbb és gyakoribb ellenőrzésére vonatkozó szabályokat,
 
 51. a vizsgáló állomások auditálásáról, valamint a tanúsítási tevékenységükről szóló részletes szabályokat
 
@@ -196,7 +200,7 @@ d) a közlekedésrendészetért felelős miniszter, hogy a közlekedésrendésze
 
 e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a közlekedési hatóság eljárási, felügyeleti és egyéb díjait, a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásának díjait, valamint a díjaknak az eljáró hatóság és a vizsgaközpont, továbbá az irányítási, a felügyeleti és az ellenőrzési feladatot ellátó szervezetek közötti megosztása szabályait,
 
-f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság kivetésének részletes szabályait és a bírság felhasználásának rendjét az adópolitikáért felelős miniszterrel egyetértésben,
+f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság kivetésének szabályait és a bírság felhasználásának rendjét az államháztartásért felelős miniszterrel egyetértésben,
 
 g) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
 
@@ -214,7 +218,7 @@ h)
 
 i) a közlekedésrendészetért felelős miniszter, hogy a megkülönböztető és figyelmezető jelzés felszerelésének, engedélyezésének szabályait, használatuk és visszavonásuk rendjét,
 
-j) a miniszter, hogy a közlekedésrendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések, valamint a jogosulatlan úthasználattal kapcsolatos bírságolással összefüggő hatósági feladatok részletes szabályait,
+j) a miniszter, hogy a közlekedésrendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések, valamint a jogosulatlan úthasználattal kapcsolatos bírságolással összefüggő hatósági feladatok szabályait,
 
 k) a miniszter, hogy az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben az utak más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait,
 
@@ -228,7 +232,7 @@ mb) az egyes rendvédelmi szerveket irányító miniszter, hogy – az Informác
 
 mc) a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy a Nemzeti Adó- és Vámhivatal állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket;
 
-n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység bejelentésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység bejelentésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos szabályokat,
 
 o) a közlekedésrendészetért felelős miniszter, hogy a 21/B. § (3) bekezdésben említett formanyomtatványt,
 
@@ -254,6 +258,6 @@ e) a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra j
 
 (5b) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés –, hogy hogy a közlekedésért felelős miniszter rendeletében előírt közutak kezelési feladataival kapcsolatban, valamint a közlekedésért felelős miniszter rendeletében előírt közutak építésével kapcsolatban előírt minőségi követelmények ellenőrzésének való megfelelés érdekében az általa kezelt közutak vonatkozásában a helyi sajátosságoknak megfelelő további szabályokat rendeletben állapíthasson meg.
 
-(6) Az e törvényben meghatározott díjat, pótdíjat – a 9/C. § (1) bekezdésében, a 15. § (3) bekezdésében, a 15/A. § (1) bekezdésben és a 15/C. § (1) bekezdésében és a 33/A. §-ban meghatározott díj és pótdíj kivételével – a fizetés elmulasztása esetén adók módjára kell behajtani.
+(6)
 
 (7) A 21. § (2) bekezdés szerinti közigazgatási bírság befizetési határidejének elmulasztását követő 8 napon belül az eljáró hatóság kezdeményezi a közlekedési igazgatási hatóságnál a szabályszegés elkövetéséhez használt jármű forgalomból történő kivonását.

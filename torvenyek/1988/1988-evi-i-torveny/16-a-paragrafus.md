@@ -10,4 +10,4 @@
 
 (5) A közlekedési hatóság a közúti közlekedési szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű, és nem áll a közúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a közlekedési hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a közúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
-(6) A közlekedési hatóság a szakértő (5) bekezdés szerinti személyes adatait a hatósági ellenőrzés időtartamára vagy a szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
+(6) A közlekedési hatóság a szakértő (5) bekezdés szerinti személyes adatait a hatósági ellenőrzés időtartamára vagy a szakértő nyilvántartásból való törléséről szóló döntés véglegessé válásáig kezeli.

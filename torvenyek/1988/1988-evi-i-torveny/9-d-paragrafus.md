@@ -4,7 +4,7 @@
 
 (3) A járművek helyi közutakon, valamint helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, tereken, parkokban és egyéb közterületeken történő várakozása a helyi önkormányzat, vagy a Mötv. 16/A. §-ában meghatározott szolgáltató és a várakozási terület igénybevevője közötti polgári jogi jogviszony. A várakozási díj és a pótdíj megfizetéséért a jármű üzembentartója felel.
 
-(4) A helyi önkormányzat a Mötv. 16/A. §-ában meghatározott gazdasági társasággal a (2) bekezdés szerinti közszolgáltatás ellátására szerződést köthet. A szerződésnek tartalmaznia kell:
+(4) A helyi önkormányzat a Mötv. 16/A. §-ában meghatározott gazdasági társasággal a (2) bekezdés szerinti közszolgáltatás ellátására közigazgatási szerződést köthet. A szerződésnek tartalmaznia kell:
 
 a) a szolgáltató által ellátandó közfeladatot és egyéb tevékenységet,
 
@@ -40,7 +40,7 @@ látja el.
 
 (9) A járművek országos közutakon, valamint állam tulajdonában álló közforgalom elől el nem zárt magánutakon, tereken, parkokban és egyéb közterületeken történő várakozása a vagyonkezelő, illetve a (8) bekezdés a) és b) pontjában meghatározott szolgáltató és a várakozási terület igénybevevője közötti polgári jogi jogviszony. A várakozási díj és a pótdíj megfizetéséért a jármű üzembentartója felel.
 
-(10) A vagyonkezelő a (8) bekezdés a) és b) pontjában meghatározott gazdasági társasággal (8) bekezdés szerinti közszolgáltatás ellátására szerződést köthet. A szerződésnek tartalmaznia kell a (4) bekezdésben meghatározott tartalmi elemeket.
+(10) A vagyonkezelő a (8) bekezdés a) és b) pontjában meghatározott gazdasági társasággal (8) bekezdés szerinti közszolgáltatás ellátására közigazgatási szerződést köthet. A szerződésnek tartalmaznia kell a (4) bekezdésben meghatározott tartalmi elemeket.
 
 (11) A (10) bekezdés szerinti szerződést – annak módosításaival egységes szerkezetben – a vagyonkezelő és a gazdasági társaság a hatálybalépését követő 30. napon a honlapján közzéteszi.
 

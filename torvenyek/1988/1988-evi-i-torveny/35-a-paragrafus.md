@@ -2,11 +2,11 @@
 
 35/A. § (1) A felszín alatti közút építése és üzemeltetése fontos közérdekű tevékenység; az érintett ingatlan tulajdonosa köteles tűrni az ingatlan ennek érdekében történő igénybevételét.
 
-(2) Az országos közút építtetője a felszín alatti közútépítési jog alapján, jogerős építési engedély birtokában jogosult a nyomvonal által érintett idegen ingatlant felszín alatti közút építésére igénybe venni akként, hogy a felszín alatti közútépítési jog alapján az idegen ingatlanon
+(2) Az országos közút építtetője a felszín alatti közútépítési jog alapján, végleges építési engedély birtokában jogosult a nyomvonal által érintett idegen ingatlant felszín alatti közút építésére igénybe venni akként, hogy a felszín alatti közútépítési jog alapján az idegen ingatlanon
 
 a) annak felszíne alatt az országos közúthálózathoz kapcsolódó alagutat építhet,
 
-b) annak felszínén – az ingatlanra lépve – a jogerős építési engedély alapján az alagút biztonságos üzemeltetéséhez szükséges létesítményeket helyezhet el.
+b) annak felszínén – az ingatlanra lépve – a végleges építési engedély alapján az alagút biztonságos üzemeltetéséhez szükséges létesítményeket helyezhet el.
 
 (3) Az országos közút közútkezelője a felszín alatti közútépítési jog alapján a (2) bekezdés szerint megépített közút forgalomba helyezését követően annak kezelése és üzemeltetése során jogosult
 

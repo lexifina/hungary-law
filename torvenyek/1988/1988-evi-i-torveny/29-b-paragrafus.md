@@ -4,11 +4,9 @@
 
 a) engedélyezési eljárásokban ügyfélnek minősül az építtető, a vagyonkezelő, a közművek tulajdonosa, kezelője, továbbá az ügyféli minőség vizsgálata nélkül azon személyek, mint, az ingatlantulajdonos, vagy az ingatlan-nyilvántartásba bejegyzett jogszerű használó, akinek ingatlana a hatásterületen fekszik,
 
-b) engedélyezési eljárásokban az eljárás megindításáról a közlekedési hatóság nyolc napon belül, ha közmeghallgatás, helyszíni szemle, hatósági egyeztetés megtartása szükséges, az arról szóló értesítéssel egyidejűleg értesíti az ügyfeleket – ideértve a külföldi ügyfeleket is – hirdetményi úton,
+b) engedélyezési eljárásokban az eljárás megindításáról a közlekedési hatóság nyolc napon belül, ha helyszíni szemle, hatósági egyeztetés megtartása szükséges, az arról szóló értesítéssel egyidejűleg értesíti az ügyfeleket – ideértve a külföldi ügyfeleket is – hirdetményi úton,
 
-c) engedélyezési eljárások során hozott döntésekkel szembeni fellebbezések esetén a fellebbezéssel nem érintett rendelkezés jogerős,
-
-d) engedélyezési eljárásokban újrafelvételi eljárásnak nincs helye,
+c)–d)
 
 e) az engedélyezési eljárásokban hatásterületnek minősül azon ingatlanok területe, amelyeket a tervezett tevékenység terület-igénybevétellel érinti, vagy amely a tevékenységgel igénybevett ingatlan tervezési határok közötti területével közvetlenül határos, vagy amelynek a kapubejárója az eljárás tárgyát képező útszakaszhoz közvetlenül csatlakozik.
 
@@ -22,6 +20,8 @@ e) az engedélyezési eljárásokban hatásterületnek minősül azon ingatlanok
 
 (7) Ha jogszabály az engedélyezési eljárás során helyszíni szemle tartását írja elő, a közmeghallgatás a helyszíni szemlével együtt lebonyolítható.
 
-(8) A közlekedési hatóság a forgalomba helyezési eljárás során nem tart közmeghallgatást.
+(8)
 
 (9) A Kormány által kijelölt szervezet a kerékpárutakkal összefüggő egyes műszaki adatokról nyilvántartást vezet.
+
+(10) A közlekedési hatóságnak az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezésével összefüggő hatósági eljárásokban hozott döntését a bíróság nem változathatja meg.

@@ -14,4 +14,6 @@ c) a gyalogosok részére szolgáló vasúti gyalogos-átkelőhely és a kizár�
 
 (4) Az országos illetékességgel eljáró fővárosi és megyei kormányhivatal által első fokon meghozott közlekedési hatósági döntéssel szemben – ideértve a nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedési beruházásokat is – fellebbezésnek van helye.
 
-(5) A közlekedési hatóság által hozott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.
+(5) A 20. § (11) bekezdésében felsorolt szervezetek által végrehajtott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.
+
+(6) A közúti gépjárművezetők pályaalkalmassági vizsgálatát a közlekedési hatóság végzi. A közúti gépjárművezetők pályaalkalmassági vizsgálata ügyében hozott elsőfokú döntés ellen fellebbezésnek van helye.

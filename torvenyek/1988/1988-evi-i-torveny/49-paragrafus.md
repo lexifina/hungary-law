@@ -32,4 +32,6 @@ f) a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértés
 
 g) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 49. alpontja alapján kiadott jogszabállyal együtt – az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelv, 6. cikke;
 
+h) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv 17. cikke;
+
 i) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9. cikk (1) bekezdésének és 10. cikkének.

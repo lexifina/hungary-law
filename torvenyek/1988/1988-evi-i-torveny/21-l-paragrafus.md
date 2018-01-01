@@ -12,4 +12,4 @@ a) az ügyfél tolmács alkalmazását kéri, annak megérkezéséig, de legfelj
 
 b) a 20. § (1) bekezdés h) pontjában meghatározott esetben a 20. § (7a) bekezdésében meghatározott időtartamig,
 
-az eljáró hatóság a járművet visszatarthatja, a fuvarokmányt, a rendszámokat és a forgalmi engedélyt, valamint a járművezető vezetői engedélyét a visszatartás időtartamára elismervény átadása mellett elveheti, továbbá a b) pontban meghatározott esetben a Ket. 29/A. §-a és 143. §-a szerinti zárlatot rendelhet el. A visszatartásra a 20. § (8)–(10) bekezdését alkalmazni kell.
+az eljáró hatóság a járművet visszatarthatja, a fuvarokmányt, a rendszámokat és a forgalmi engedélyt, valamint a járművezető vezetői engedélyét a visszatartás időtartamára elismervény átadása mellett elveheti, továbbá a b) pontban meghatározott esetben az Ákr. 107. §-a szerinti zárlatot rendelhet el. A visszatartásra a 20. § (8)–(10) bekezdését alkalmazni kell.

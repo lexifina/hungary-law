@@ -88,4 +88,6 @@ b) a közúti közlekedési szakemberek részére a képesítés megszerzését 
 
 a közlekedési hatóság adja ki.
 
-(14)–(16)
+(14) A közúti járművezetők pályaalkalmassági eljárásával összefüggésben hozott hatósági döntéseket a bíróság nem változtathatja meg.
+
+(15)–(16)
