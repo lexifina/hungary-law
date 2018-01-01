@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-65-20-2
 | 2011-03-24 | 2000-65-20-22.8 | 28/2011. (III. 16.) Korm. rendelet |
 | 2014-09-05 | 2000-65-20-22.9 | 343/2004. (XII. 22.) Korm. rendelet |
 | 2017-01-01 | 2000-65-20-22.10 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2000-65-20-22.11 | 475/2017. (XII. 28.) Korm. rendelet |

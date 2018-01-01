@@ -6,7 +6,7 @@
 
 a) legalább nyolc éve folytat karitatív tevékenységet,
 
-b) az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint – a tagválasztás időpontjában – köztartozásmentes adózónak minősül, és
+b)[^3] az adózás rendjéről szóló törvény szerint – a tagválasztás időpontjában – köztartozásmentes adózónak minősül, és
 
 ba) ezt 30 napnál nem régebben kiállított közokirattal igazolja, vagy
 
@@ -18,7 +18,7 @@ d) országos hálózattal és legalább három regionális központtal, a segél
 
 e) országos viszonylatban legalább negyven főt foglalkoztat munkaviszonyban, és legalább három regionális raktárt működtet.
 
-(3)[^3] Azon karitatív tevékenységet végző közhasznú szervezetnek, amely nem felel meg a (2) bekezdésben foglalt feltételeknek, az elkobzott dolgok közérdekű felhasználásának lebonyolításával, így különösen a rászorultak körének és a szétosztás módjának meghatározásával, valamint a Tanács működésével, illetve a Törvény szerinti feladatai ellátásával összefüggő kérdésekkel kapcsolatosan javaslattételi joga van.
+(3)[^4] Azon karitatív tevékenységet végző közhasznú szervezetnek, amely nem felel meg a (2) bekezdésben foglalt feltételeknek, az elkobzott dolgok közérdekű felhasználásának lebonyolításával, így különösen a rászorultak körének és a szétosztás módjának meghatározásával, valamint a Tanács működésével, illetve a Törvény szerinti feladatai ellátásával összefüggő kérdésekkel kapcsolatosan javaslattételi joga van.
 
 (4) E rendelet alkalmazásában
 
@@ -36,4 +36,5 @@ b) megfelelő logisztikai háttér: a 2. § szerinti közlemény közzétételé
 
 [^1]: Az 1. § (1) bekezdése a 343/2004. (XII. 22.) Korm. rendelet 3. § (2) bekezdésének a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 201. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^3]: Az 1. § (3) bekezdése a 28/2011. (III. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés b) pont nyitó szövegrésze a 475/2017. (XII. 28.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdése a 28/2011. (III. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
