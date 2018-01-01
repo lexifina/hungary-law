@@ -1,11 +1,11 @@
 ## 8. § Hatályát veszti
 
-1.[^17]
+1. a Rendelet 3. § (3) bekezdése,
 
-2–3.[^18]
+2–3.[^11]
 
-4–5.[^19]
+4. a Rendelet 2. melléklete,
 
-[^17]: A 8. § 1. pontja a 9. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^18]: A 8. § 2–3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 8. § 4–5. pontja a 9. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+5. a Rendelet 3. melléklete.
+
+[^11]: A 8. § 2–3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

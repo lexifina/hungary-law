@@ -1,3 +1,3 @@
-## 4. §[^10]
+## 4. § A Rendelet 5. §-a a következő (8) bekezdéssel egészül ki:
 
-[^10]: A 4. § a 9. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## „(8) Az adókedvezmény támogatástartalmát a 8. mellékletben meghatározott módszerrel kell meghatározni.”
