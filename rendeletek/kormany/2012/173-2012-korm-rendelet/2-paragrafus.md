@@ -2,14 +2,14 @@
 
 (2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 
-(3) Azokban az esetekben, amikor az 1. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
+(3)[^1]
 
 (4) A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 3. § (3)–(4) bekezdésének alkalmazása szempontjából a beruházás kiemelt társadalmi cél érdekében megvalósuló beruházásnak minősül.
 
-(5) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére az (1) bekezdés szerinti hatósági ügyekben a szakhatóság – a hatóság határozatának jogerőre emelkedéséig felhasználható – előzetes szakhatósági állásfoglalást ad ki.
+(5)–(6)[^2]
 
-(6) Az (1) bekezdés szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
+(7)[^3]
 
-(7)[^1]
-
-[^1]: A 2. § (7) bekezdését a 72/2015. (III. 30.) Korm. rendelet 30. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^1]: A 2. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 54. § a) pontja hatályon kívül helyezte.
+[^2]: A 2. § (5)–(6) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 54. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (7) bekezdését a 72/2015. (III. 30.) Korm. rendelet 30. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 114. §-át.
