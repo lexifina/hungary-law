@@ -62,7 +62,7 @@ b) a képződött elsődleges hulladék mennyisége.
 
 2.2.2. Másodlagos hulladék képződése esetén:
 
-a)[^36] a hulladékkezelő által végzett kezelés során képződött másodlagos hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja vagy a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja.
+a)[^38] a hulladékkezelő által végzett kezelés során képződött másodlagos hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja vagy a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja.
 
 b) előkezelési művelet esetén az a) pontban előírt kód helyett a 439/2012. Korm. rendelet 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
 
@@ -180,73 +180,7 @@ f) a hulladék eredete szerinti besorolása;
 
 g) a kezelés céljából átvett hulladék mennyisége.
 
-5. A B3 alkategóriájú hulladéklerakóban lerakott hulladék összetételének bejelentésére szolgáló adatlap adattartalma (HIR-ÉV-4):
-
-5.1. Az adatszolgáltató adatai
-
-a) KÜJ;
-
-b) KTJ;
-
-c) az adatszolgáltatásra vonatkozó év.
-
-5.2. A tárgyévben a telephelyre beszállított települési hulladék mennyisége összesen.
-
-5.3. A tárgyévben a telephelyre beszállított települési hulladék összetétele a nemzeti szabvány alapján (mennyiségi arány %) az alábbi hulladékfajták szerint:
-
-a) biológiailag lebomló;
-
-b) papír;
-
-c) karton;
-
-d) kompozit;
-
-e) textil;
-
-f) higiéniai hulladék;
-
-g) műanyag;
-
-h) nem osztályozott éghető hulladék;
-
-i) üveg;
-
-j) fém;
-
-k) nem osztályozott éghetetlen hulladék;
-
-l) veszélyes hulladék;
-
-m) kis szemcseméretű hulladék.
-
-5.4. A tárgyévben a telephelyen (a hulladéklerakóban) lerakott települési hulladék összetétele (mennyiségi arány %) az alábbi hulladékfajták szerint:
-
-a) biológiailag lebomló;
-
-b) papír;
-
-c) karton;
-
-d) kompozit;
-
-e) textil;
-
-f) higiéniai hulladék;
-
-g) műanyag;
-
-h) nem osztályozott éghető hulladék;
-
-i) üveg;
-
-j) fém;
-
-k) nem osztályozott éghetetlen hulladék;
-
-l) veszélyes hulladék;
-
-m) kis szemcseméretű hulladék.
+5.[^39]
 
 6. Az EPRTR adatszolgáltatási kötelezettségének teljesítéséhez szükséges bejelentő lap tartalma (HIR-ÉV-EPRTR lap):
 
@@ -278,4 +212,5 @@ h) a tényleges hasznosítást, ártalmatlanítást végző külföldi telephely
 
 6.3. Adatjavítás esetén az adatjavításra vonatkozó magyarázat megjelölése.
 
-[^36]: A 3. melléklet 2.2.2. pont a) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^38]: A 3. melléklet 2.2.2. pont a) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^39]: A 3. melléklet 5. pontját a 189/2017. (VII. 6.) Korm. rendelet 4. § (1) bekezdés c) pontja hatályon kívül helyezte.

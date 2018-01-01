@@ -1,4 +1,4 @@
-5. melléklet a 309/2014. (XII. 11.) Korm. rendelethez[^37]
+5. melléklet a 309/2014. (XII. 11.) Korm. rendelethez[^40]
 
 ## A hulladéklerakókkal kapcsolatos adatszolgáltatási kötelezettség teljesítéséhez szükséges adatlap adattartalma
 
@@ -252,4 +252,4 @@ l) veszélyes hulladék;
 
 m) kis szemcseméretű hulladék.
 
-[^37]: Az 5. mellékletet a 189/2017. (VII. 6.) Korm. rendelet 2. §-a iktatta be.
+[^40]: Az 5. mellékletet a 189/2017. (VII. 6.) Korm. rendelet 2. §-a iktatta be.
