@@ -1,1 +1,0 @@
-## 15. § A kedvezményezettnek a támogatásból megvalósuló beruházást a beruházás megvalósításától számított 5 évig az eredeti rendeltetésének megfelelően – a működtetésre vonatkozó hatályos jogszabályok betartásával – kell használnia.
