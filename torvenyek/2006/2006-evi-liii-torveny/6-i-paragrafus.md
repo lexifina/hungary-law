@@ -4,7 +4,7 @@
 
 (3) A szakhatóság a megkeresés beérkezését követő 5 napon belül elektronikus úton tájékoztatja a hatóságot a kérelemmel kapcsolatban felmerülő hiánypótlás szükségességéről és annak tartalmáról – különös tekintettel a hiánypótlásra megállapított határidőről –, vagy arról, hogy hiánypótlásra nincs szükség.
 
-(4) A szakhatóság elektronikus úton haladéktalanul tájékoztatja a hatóságot a hiánypótlásra megállapított határidő meghosszabbításáról, a határnap megjelölésével.
+(4)
 
 (5) A hatóság és a szakhatóság a hiánypótlási felhívásában a hiánypótlás teljesítése érdekében a hiánypótlási határidőn belüli időpontra tárgyalás tartását rendeli el, kivéve, ha
 

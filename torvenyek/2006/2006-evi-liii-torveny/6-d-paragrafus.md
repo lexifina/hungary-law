@@ -16,7 +16,7 @@ d) a 6/L. § szerinti védettség időtartamának meghatározásával.
 
 (4) A rendeletben meghatározott közlekedési infrastruktúra-beruházás megvalósítása közérdeket szolgál.
 
-(5) A rendelet hatálybalépésére a környezetvédelmi engedély jogerőre emelkedését követően kerülhet sor, amennyiben a közlekedési infrastruktúra-beruházás megvalósításához környezetvédelmi engedély szükséges.
+(5) A rendelet hatálybalépésére a környezetvédelmi engedély véglegessé válását követően kerülhet sor, amennyiben a közlekedési infrastruktúra-beruházás megvalósításához környezetvédelmi engedély szükséges.
 
 (6) A közlekedési infrastruktúra-beruházás megvalósítása során az Étv. építési tevékenység végzésére vonatkozó rendelkezéseit a (7)–(9) bekezdésben foglalt eltéréssel kell alkalmazni.
 

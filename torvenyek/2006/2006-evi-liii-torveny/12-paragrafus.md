@@ -18,7 +18,7 @@ c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a kormánymegb
 
 d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését,
 
-e) a kiemelt jelentőségű ügyben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénytől és az ügyfajtára vonatkozó különös eljárási szabályoktól eltérő rendelkezéseket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott tárgykörben,
+e)
 
 f) a kiemelt jelentőségű ügyben az e törvényben foglalt határidőknél rövidebb határidőket,
 

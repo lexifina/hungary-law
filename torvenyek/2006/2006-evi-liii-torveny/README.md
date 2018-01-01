@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-53-00-00
 | 2016-12-20 | 2016. évi CLXVIII. törvény | 2006-53-00-00.28 |
 | 2017-01-02 | 2016. évi CXLIV. törvény | 2006-53-00-00.29 |
 | 2017-12-12 | 2017. évi CLXXXII. törvény | 2006-53-00-00.30 |
+| 2018-01-01 | 2017. évi L. törvény | 2006-53-00-00.31 |
