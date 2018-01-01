@@ -1,4 +1,4 @@
-9. melléklet a 22/2010. (V. 7.) IRM rendelethez[^23]
+9. melléklet a 22/2010. (V. 7.) IRM rendelethez[^40]
 
 ## A fizetési meghagyás kibocsátása iránti egyszerűsített kérelem papír alapú űrlapjának adattartalma
 
@@ -20,7 +20,7 @@
 
 2.2. személyes költségfeljegyzési jog engedélyezése iránti kérelem előterjesztésére utalás
 
-2.3. okirati tanúk adatai, ha a Pp. 196. § (1) bekezdés b) pontja szerinti formában terjesztik elő a kérelmet
+2.3.[^41] okirati tanúk adatai, ha a Pp. 325. § (1) bekezdés b) pontja szerinti formában terjesztik elő a kérelmet
 
 2.3.1. neve
 
@@ -28,4 +28,5 @@
 
 2.4. jogosult aláírásának helye.
 
-[^23]: A 9. melléklet a 17. § (2) bekezdése alapján 2011. január 10-én lép hatályba.
+[^40]: A 9. melléklet a 17. § (2) bekezdése alapján 2011. január 10-én lép hatályba.
+[^41]: A 9. melléklet 2. pont 2.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés f) pontja szerint módosított szöveg.
