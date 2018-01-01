@@ -4,8 +4,8 @@
 
 (3)[^6] A Központ a központi szerverén folyamatosan naplózza a Nyilvántartással kapcsolatos nyilvántartási eseményeket – ide értve az adatrögzítéssel nem járó adatlekérdezéseket is –, valamint gondoskodik arról, hogy azok visszakereshetőek legyenek.
 
-(4)[^7] A Nyilvántartásra vonatkozó hatósági eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 86. § (3) bekezdése nem alkalmazható.
+(4)[^7]
 
 [^5]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^6]: A 3. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^7]: A 3. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 250. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 461. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
