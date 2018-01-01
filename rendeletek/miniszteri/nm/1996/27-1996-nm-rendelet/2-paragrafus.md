@@ -12,7 +12,7 @@ b) fokozott expozíció: a munkavállaló szervezetében a munkavégzés során 
 
 c) biológiai expozíciós (hatás) mutató: azok a paraméterek, amelyekkel a vegyi anyagok és a szervezet közötti kölcsönhatások mennyiségileg jellemezhetők;
 
-d)[^5] bejelentő orvos: bármely orvosi gyakorlatot folytató orvos, aki a foglalkozási megbetegedést (fokozott expozíciót) vagy annak gyanúját megállapította;
+d)[^6] bejelentő orvos: bármely orvosi gyakorlatot folytató orvos, aki a foglalkozási megbetegedést (fokozott expozíciót) vagy annak gyanúját megállapította;
 
 e) különösen bonyolult eset;
 
@@ -20,7 +20,7 @@ ea) ha mintavétel és laboratóriumi vizsgálatok vagy mérések elvégzése sz
 
 eb) a munkavállaló részvételi jogainak érvényesítése érdekében a vizsgálatokba történő bevonása;
 
-f)[^6] halálos foglalkozási megbetegedés: olyan halálhoz vezető megbetegedés, ahol a halál oka a foglalkozási megbetegedés vagy annak szövődménye.
+f)[^7] halálos foglalkozási megbetegedés: olyan halálhoz vezető megbetegedés, ahol a halál oka a foglalkozási megbetegedés vagy annak szövődménye.
 
-[^5]: A 2. § d) pontja a 18/2007. (V. 10.) SZMM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § f) pontját az 58/1997. (XII. 21.) NM rendelet 2. §-a iktatta be.
+[^6]: A 2. § d) pontja a 18/2007. (V. 10.) SZMM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § f) pontját az 58/1997. (XII. 21.) NM rendelet 2. §-a iktatta be.
