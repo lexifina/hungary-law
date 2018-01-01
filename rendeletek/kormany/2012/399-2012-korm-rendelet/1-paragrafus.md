@@ -2,11 +2,11 @@
 
 1. § (1) A légi távérzékelési (a továbbiakban: távérzékelési) engedély kiadása iránti kérelmet a honvédelem térképészeti támogatásáért felelős szervhez kell benyújtani.
 
-(2) A távérzékelési engedély iránti kérelemnek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben felsorolt adatokon kívül tartalmaznia kell:
+(2)[^1] A távérzékelési engedély iránti kérelemnek az általános közigazgatási rendtartásról szóló törvényben felsorolt adatokon kívül tartalmaznia kell:
 
 a) a kérelmező személy (szerv) telefon- és telefax-számát, elektronikus levélcímét,
 
-b)[^1] a távérzékelés, valamint a fel- és leszállás helyét, a tervezett repülési útvonalat térképen vagy térképmásolaton három példányban,
+b)[^2] a távérzékelés, valamint a fel- és leszállás helyét, a tervezett repülési útvonalat térképen vagy térképmásolaton három példányban,
 
 c) a végrehajtás tervezett időszakát,
 
@@ -22,7 +22,7 @@ h) a távérzékelés, a távérzékelő eszközök technikai paramétereit, val
 
 i) a távérzékelés folyamata alatt a felvételező eszköz által vett vagy rögzített adatok, képek és jelek (a továbbiakban együtt: távérzékelt adatok) távközlési úton való továbbítására vonatkozó kérelem előzetes engedélyhez kötött megjelölését,
 
-j)[^2] az adatokkal rendelkezni jogosult nyilatkozatát arról, hogy a távérzékeléshez igénybevett pénzügyi források tartalmaznak-e részben vagy egészben közpénzeket.
+j)[^3] az adatokkal rendelkezni jogosult nyilatkozatát arról, hogy a távérzékeléshez igénybevett pénzügyi források tartalmaznak-e részben vagy egészben közpénzeket.
 
 (3) A (2) bekezdésben előírt engedély iránti kérelem az ügyfélkapun, vagy a szabályozott elektronikus ügyintézési szolgáltatások és az állam által kötelezően nyújtandó szolgáltatásokról szóló kormányrendelet szerint, más szolgáltatás igénybevételével is benyújtható.
 
@@ -38,11 +38,12 @@ b) a honvédelem térképészeti támogatásáért felelős szervével minősít
 
 c) igazolja a minősített adat védelméről szóló törvény szerinti állami vagy közfeladat ellátását.
 
-(7)[^3] A kiadott engedélyekről – az 1. § (2) bekezdés szerinti tartalommal – a honvédelem térképészeti támogatásáért felelős szerv negyedévente, vagy megkeresés esetén soron kívül tájékoztatja a földmérési és térinformatikai államigazgatási szervet.
+(7)[^4] A kiadott engedélyekről – az 1. § (2) bekezdés szerinti tartalommal – a honvédelem térképészeti támogatásáért felelős szerv negyedévente, vagy megkeresés esetén soron kívül tájékoztatja a földmérési és térinformatikai államigazgatási szervet.
 
-(8)[^4] A honvédelem térképészeti támogatásért felelős szerv negyedévente, vagy megkeresés esetén soron kívül tájékoztatást ad a katonai, illetve a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztereknek, valamint a katonai és a polgári nemzetbiztonsági szolgálatok vezetőinek. A tájékoztatás a kérelmező személy (szerv) megnevezését, a légi távérzékelt munkaterület megnevezését, valamint a légi távérzékelés felhasználási célját tartalmazza.
+(8)[^5] A honvédelem térképészeti támogatásért felelős szerv negyedévente, vagy megkeresés esetén soron kívül tájékoztatást ad a katonai, illetve a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztereknek, valamint a katonai és a polgári nemzetbiztonsági szolgálatok vezetőinek. A tájékoztatás a kérelmező személy (szerv) megnevezését, a légi távérzékelt munkaterület megnevezését, valamint a légi távérzékelés felhasználási célját tartalmazza.
 
-[^1]: Az 1. § (2) bekezdés b) pontja a 98/2014. (III. 25.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (2) bekezdés j) pontját a 98/2014. (III. 25.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^3]: Az 1. § (7) bekezdése a 98/2014. (III. 25.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (8) bekezdését a 98/2014. (III. 25.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^1]: Az 1. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 420. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^2]: Az 1. § (2) bekezdés b) pontja a 98/2014. (III. 25.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés j) pontját a 98/2014. (III. 25.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (7) bekezdése a 98/2014. (III. 25.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (8) bekezdését a 98/2014. (III. 25.) Korm. rendelet 13. § (3) bekezdése iktatta be.
