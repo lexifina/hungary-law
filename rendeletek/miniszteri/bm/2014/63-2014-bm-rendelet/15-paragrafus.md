@@ -4,6 +4,8 @@
 
 15. § (1) A foglalkozási megbetegedés és a fokozott expozíciós eset keletkezési körülményeinek kivizsgálására az NM rendelet 5. § (3), (5)–(8) és (11) bekezdését kell alkalmazni az ezen alcímben meghatározott eltérésekkel.
 
-(2) A foglalkozási megbetegedés, illetve a fokozott expozíciós eset körülményeinek kivizsgálásába a foglalkozás-egészségügyi szolgálat orvosát, a bv. szerv vezetőjét vagy a bv. szerv képviselőjét be kell vonni. A vizsgálat során a megbetegedés és az expozíció okainak feltárása érdekében más hatóság, illetve intézmény is megkereshető.
+(2)[^2] A foglalkozási megbetegedés, illetve a fokozott expozíciós eset körülményeinek kivizsgálásába a bv. szerv vezetőjét vagy a bv. szerv képviselőjét be kell vonni.
 
 (3) A munkavédelmi hatóság a vizsgálati lap egy-egy példányát a bv. szervnek, a fogvatartottnak, halált okozó foglalkozási megbetegedés esetén a Bv. tv. 3. § 10. pontja szerinti hozzátartozónak, valamint a foglalkozás-egészségügyi szolgálat orvosának küldi meg.
+
+[^2]: A 15. § (2) bekezdése a 44/2017. (XII. 29.) BM rendelet 103. § a) és b) pontja szerint módosított szöveg.
