@@ -1,0 +1,3 @@
+## 2. § A 17/2014. Korm. rendelet 12. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az értékesítési hirdetményhez csatolva, az EÉR felületén – a betekintők és a licitálók számára – az értékesítő az értékesítésre kerülő vagyoni elemekről, azok jellemzőiről egy összefoglaló jellegű értékesítési tájékoztatót (tender füzetet) is közzétesz, és ehhez képeket társít a 10. § (6) bekezdése szerinti esetekben, továbbá tájékoztatást ad az értékesítendő vagyon megtekintésének módjáról. Az értékesítési tájékoztatót a felszámoló – a könnyebb áttekinthetőség érdekében – egységesített formában, formanyomtatvány alkalmazásával is elkészítheti.”
