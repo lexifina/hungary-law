@@ -4,9 +4,9 @@
 
 a) a jogsérelmet szenvedő személyt vagy csoportot hátrány érte vagy – közérdekű igényérvényesítés esetén – ennek közvetlen veszélye fenyeget, és
 
-b) a jogsérelmet szenvedő személy vagy csoport a jogsértéskor – ténylegesen vagy a jogsértő feltételezése szerint – rendelkezett a 8. §-ban meghatározott valamely tulajdonsággal.
+b) a jogsérelmet szenvedő személy vagy csoport a jogsértéskor – ténylegesen vagy az eljárás alá vont személy feltételezése szerint – rendelkezett a 8. §-ban meghatározott valamely tulajdonsággal.
 
-(2) Az (1) bekezdésben foglaltak valószínűsítése esetén a másik felet terheli annak bizonyítása, hogy
+(2) Az (1) bekezdésben foglaltak valószínűsítése esetén a másik félnek kell azt bizonyítania, hogy
 
 a) a jogsérelmet szenvedett fél vagy a közérdekű igényérvényesítésre jogosult által valószínűsített körülmények nem álltak fenn, vagy
 

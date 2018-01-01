@@ -14,10 +14,10 @@ e) civil és érdek-képviseleti szervezet: az egyesülési jogról, a közhaszn
 
 f) hozzátartozó: a házastárs, a bejegyzett élettárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, illetve az egyeneságbeli rokon házastársa, bejegyzett élettársa, a házastárs, illetve a bejegyzett élettárs egyeneságbeli rokona és testvére, valamint a testvér házastársa, illetve bejegyzett élettársa,
 
-g) kérelmező: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely a 15. § (1) bekezdés a) pontja vagy 20. § (1) bekezdés b) pontja alapján az egyenlő bánásmód követelménye megsértésének magállapítását maga kezdeményezte, vagy arra jogosult lett volna és az eljárásban ügyfélnek minősül,
+g) kérelmező: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely az egyenlő bánásmód követelménye megsértésének megállapítását maga kezdeményezte, vagy arra jogosult lett volna és az eljárásban ügyfélnek minősül,
 
 h) eljárás alá vont személy: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárást folytatják,
 
-i) jogsértő: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárás eredményeként a hatóság jogerősen megállapította a jogsértést.
+i) jogsértő: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárás eredményeként a hatóság megállapította a jogsértést.
 
 (2) E törvény alkalmazásában munkaerő-kölcsönzés esetén munkáltatón a kölcsönvevőt is érteni kell.

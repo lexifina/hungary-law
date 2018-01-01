@@ -1,10 +1,12 @@
-16. § (1) Az egyenlő bánásmód követelményének megsértése miatti közigazgatási hatósági eljárásban egyéb eljárási költségnek minősülnek a 15/A. § (3)–(5) bekezdésében meghatározott bizonyítási eljárás különös szabályai alkalmazása során felmerült költségek, valamint a hatóságnak a székhelyén kívül végzett eljárási cselekményeivel kapcsolatban felmerülő valamennyi költség.
+16. § (1)
 
-(2) A látássérült ügyfél számára – kérelmére – a tárgyalás során készült jegyzőkönyvet, továbbá az eljárást lezáró döntést Braille-írásban is el kell készíteni. A Braille-írásra történő fordítással felmerült költségek eljárási költségnek minősülnek.
+(2) A látássérült ügyfél számára – kérelmére – a tárgyalás során készült jegyzőkönyvet, továbbá az eljárást lezáró döntést Braille-írásban is el kell készíteni.
 
-(3) A kérelemre indult eljárásban az egyéb eljárási költségeket a hatóság, illetve az eljárásban való részvételével kapcsolatban felmerülő költségek tekintetében az eljárás alá vont, a sérelmet szenvedett féllel ellenérdekű fél előlegezi meg.
+(3) A kérelemre indult eljárásban az eljárási költségeket a hatóság, illetve az eljárásban való részvételével kapcsolatban felmerülő költségek tekintetében az eljárás alá vont személy előlegezi meg.
 
-(4) A kérelem elutasítása esetén a sérelmet szenvedett fél csak akkor viseli az egyéb eljárási költségeket, ha a hatóság megállapította, hogy rosszhiszemű volt.
+(4) A kérelem elutasítása esetén a sérelmet szenvedett fél csak akkor viseli az eljárási költségeket, ha a hatóság megállapította, hogy rosszhiszemű volt.
+
+(4a) Ha a felek a hatóság előtt egyezséget kötnek, és azt a hatóság jóváhagyja, az eljárási költséget – az ügyfél képviseletében eljáró személy költségei és az eljárás résztvevőjének jogellenes magatartása által okozott költségek kivételével – a hatóság viseli.
 
 (5) A hatóság a székhelyén lakcímmel, tartózkodási hellyel, illetve értesítési címmel nem rendelkező személyt, ha meghallgatása az eljárás során szükséges, azon önkormányzat polgármesteri hivatalának a székhelyére idézi, amelynek székhelyén lakik vagy életvitelszerűen tartózkodik. Az idézett személy meghallgatását a hatóság az idézésben megjelölt helyszínen foganatosítja. Ha a lakóhellyel, tartózkodási hellyel, illetve értesítési címmel nem rendelkező személy életvitelszerűen a fővárosban tartózkodik, a hatóság a székhelyére idézi vagy meghallgatását székhelyén foganatosítja.
 
@@ -26,21 +28,9 @@ d) az a) és b) pontban meghatározott szervek részvételével működő gazdas
 
 a személyeket a lakcímükről legjobban megközelíthető, az eljárásban nem érintett települési önkormányzat polgármesteri hivatalának, fővárosban a hatóság székhelyére kell idézni.
 
-(10) Ha az (5)-(9) bekezdésben foglaltak alkalmazása aránytalan nehézséggel vagy az eljárás indokolatlan elhúzódásával járna, a meghallgatandó személyt a hatóság – a megjelenéssel járó költségek megtérítése mellett – székhelyére is idézheti.
+(10) Ha az (5), (6) és (9) bekezdésben foglaltak alkalmazása aránytalan nehézséggel vagy az eljárás indokolatlan elhúzódásával járna, a meghallgatandó személyt a hatóság – a megjelenéssel járó költségek megtérítése mellett – székhelyére is idézheti.
 
-(11) A hatóság a kérelemre indult eljárásban – a (12) és (13) bekezdésben meghatározott kivétellel – tárgyalást tart.
-
-(12) A hatóság a tárgyalás tartását mellőzheti
-
-a) ha az ügy ténybeli és jogi megítélése egyszerű, és annak eldöntésére az iratok alapján mód van,
-
-b) ha a tárgyalás tartása – különös tekintettel a (6) bekezdésben meghatározottakra – aránytalan nehézséggel járna,
-
-c) ha a tárgyalás tartása a kérelmező érdekeit sérti,
-
-d) a kérelmező erre irányuló kérelmére, vagy
-
-e) a kérelmet érdemi vizsgálat nélkül elutasítja.
+(11)–(12)
 
 (13) A hatóságnak a döntés meghozatala előtt meg kell kísérelnie egyezség létrehozását.
 

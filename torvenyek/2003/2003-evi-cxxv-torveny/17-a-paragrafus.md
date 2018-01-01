@@ -4,13 +4,13 @@ a) elrendelheti a jogsértő állapot megszüntetését,
 
 b) megtilthatja a jogsértő magatartás jövőbeni tanúsítását,
 
-c) elrendelheti a jogerős határozatának – a jogsértő nyilvános adatainak kivételével személyazonosításra alkalmatlan módon – nyilvános közzétételét,
+c) elrendelheti a jogerős határozatának – a jogsértő közérdekből nyilvános adatainak kivételével személyazonosításra alkalmatlan módon – közérdekből nyilvános közzétételét,
 
 d) bírságot szabhat ki,
 
 e) külön törvényben meghatározott jogkövetkezményt alkalmazhat.
 
-(2) Az (1) bekezdés c) pontja alkalmazásában közérdekből nyilvános adat a természetes személy jogsértő természetes személyazonosító adata és lakcíme, valamint a jogi személy, jogi személyiség nélküli szervezet jogsértő neve, székhelye.
+(2) Az (1) bekezdés c) pontja alkalmazásában közérdekből nyilvános adat a természetes személy jogsértő természetes személyazonosító adata és lakcíme, valamint a jogi személy, jogi személyiség nélküli szervezet jogsértő neve, székhelye is.
 
 (3) Az (1) bekezdésben meghatározott jogkövetkezményeket az eset összes körülményére, így különösen a sérelmet szenvedettek körére, a jogsértéssel okozott hátrány visszafordíthatóságára, a jogsértő állapot időtartamára, a jogsértő magatartás ismétlődésére és gyakoriságára, a jogsértést elkövető gazdasági súlyára, a jogsértést elkövető eljárást segítő, együttműködő magatartására tekintettel kell meghatározni.
 

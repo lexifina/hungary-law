@@ -1,6 +1,6 @@
 22. § (1) Nem jelenti az egyenlő bánásmód követelményének megsértését
 
-a) a munka jellege vagy természete alapján indokolt, az alkalmazásnál számba vehető minden lényeges és jogszerű feltételre alapított arányos megkülönböztetés,
+a) az alkalmazáskor a munka vagy a munkakörülmények természete alapján indokolt, tényleges és meghatározó szakmai feltételre alapított, jogszerű célt követő és azzal arányos megkülönböztetés,
 
 b) a vallási vagy más világnézeti meggyőződésen, illetve nemzeti vagy etnikai hovatartozáson alapuló, a szervezet jellegét alapvetően meghatározó szellemiségből közvetlenül adódó, az adott foglalkozási tevékenység tartalma vagy természete miatt indokolt, arányos és valós foglalkoztatási követelményen alapuló megkülönböztetés.
 

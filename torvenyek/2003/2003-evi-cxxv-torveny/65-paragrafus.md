@@ -6,7 +6,7 @@ b) a Tanács 79/7/EGK irányelve a férfiakkal és a nőkkel való egyenlő bán
 
 c) a Tanács 86/378/EGK irányelve a férfiakkal és a nőkkel való egyenlő bánásmód elvének a foglalkoztatási szociális biztonsági rendszerekben történő megvalósításáról,
 
-d) a Tanács 86/613/EGK irányelve valamely tevékenységet, beleértve a mezőgazdaságot, önálló vállalkozást folytató férfiakkal és nőkkel való egyenlő bánásmód elvének alkalmazásáról, valamint az önálló vállalkozó nők terhességi és anyasági védelméről,
+d) az önálló vállalkozói tevékenységet folytató férfiak és nők közötti egyenlő bánásmód elvének alkalmazásáról és a 86/613/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. július 7-i 2010/41/EU európai parlamenti és tanácsi irányelv,
 
 e) a Tanács 97/80/EK irányelve a bizonyítási kötelezettségről a nemi hovatartozás alapján történő diszkriminációs esetekben,
 
@@ -22,4 +22,6 @@ j) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elv
 
 k) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i 2011/95/EU európai parlamenti és tanácsi irányelv,
 
-l) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelv.
+l) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelv,
+
+m) a munkavállalók szabad mozgásával összefüggésben a munkavállalóknak biztosított jogok gyakorlását megkönnyítő intézkedésekről szóló, 2014. április 16-i 2014/54/EU európai parlamenti és tanácsi irányelv 2. cikk (1) bekezdés b) és c) pontja.
