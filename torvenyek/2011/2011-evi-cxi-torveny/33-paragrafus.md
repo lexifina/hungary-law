@@ -2,4 +2,4 @@
 
 (2) Ha az alapvető jogok biztosa vizsgálata során alapvető joggal összefüggő visszásságot nem állapít meg, de jogszabálysértésre utaló körülményt észlel, a beadványt a legfőbb ügyész útján megküldheti az illetékes ügyésznek.
 
-(3) Az alapvető jogok biztosa a környezet állapotával összefüggő közigazgatási döntés bírósági felülvizsgálata során a perben beavatkozóként részt vehet.
+(3) Az alapvető jogok biztosa a környezet állapotával összefüggő közigazgatási döntés elleni közigazgatási per során a perben beavatkozóként részt vehet.
