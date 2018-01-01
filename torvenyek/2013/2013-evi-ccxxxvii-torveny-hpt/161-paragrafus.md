@@ -54,7 +54,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 
 a) az adóhatóság és a Felügyelet nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzügyi intézménytől, ha a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot,
 
-b) a hitelintézet az adózás rendjéről szóló 2003. évi XCII. törvény 52. § (8) bekezdése alapján szolgáltat adatot,
+b)
 
 c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 13. § (1) bekezdése alapján szolgáltat adatot,
 

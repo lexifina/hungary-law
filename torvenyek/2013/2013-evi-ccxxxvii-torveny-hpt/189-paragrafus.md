@@ -22,7 +22,7 @@ d) kötelezheti az igazgatóságot a közgyűlés összehívására, továbbá m
 
 e) felügyeleti biztost rendelhet ki a pénzügyi intézményhez, vagy
 
-f) visszavonhatja annak a vezető állású személynek a megválasztására vagy a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért jogerős határozatban megállapította, és kezdeményezheti a pénzügyi intézménynél más vezető állású személy megválasztását vagy kinevezését azzal, hogy ezen kivételes intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság,
+f) visszavonhatja annak a vezető állású személynek a megválasztására vagy a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért jogerős vagy végleges határozatban megállapította, és kezdeményezheti a pénzügyi intézménynél más vezető állású személy megválasztását vagy kinevezését azzal, hogy ezen kivételes intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság,
 
 g)
 

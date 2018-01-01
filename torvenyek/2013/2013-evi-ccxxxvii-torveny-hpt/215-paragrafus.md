@@ -4,4 +4,4 @@
 
 (3) A kártalanítás mértékének megállapítása során az ügyfélnek az OBA tagjánál fennálló valamennyi betétkövetelését össze kell számítani.
 
-(4) Lakáscélú hitel fedezetéül szolgáló betét esetén az OBA akkor teljesít kifizetést, ha a kártalanítási összeg felvételére való jogosultság a felek megegyezése vagy bíróság, illetve hatóság jogerős határozata alapján kétséget kizáróan megállapítható.
+(4) Lakáscélú hitel fedezetéül szolgáló betét esetén az OBA akkor teljesít kifizetést, ha a kártalanítási összeg felvételére való jogosultság a felek megegyezése vagy bíróság jogerős ítélete, illetve hatóság végleges határozata alapján kétséget kizáróan megállapítható.

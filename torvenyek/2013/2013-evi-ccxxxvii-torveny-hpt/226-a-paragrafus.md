@@ -2,4 +2,4 @@
 
 (2) A hozzájárulás éves összegéről, valamint megfizetésének módjáról az igazgatótanács az érintett jogi személy irányításáért felelős szervezettel évente megállapodást köt.
 
-(3) A munkaszervezet jogtanácsosa ellátja az (1) bekezdés szerinti jogi személy jogtanácsosi tevékenységét is.
+(3) A munkaszervezet kamarai jogtanácsosa ellátja az (1) bekezdés szerinti jogi személy kamarai jogtanácsosi tevékenységét is.

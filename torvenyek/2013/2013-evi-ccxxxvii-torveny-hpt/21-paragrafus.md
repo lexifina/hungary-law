@@ -1,6 +1,6 @@
 ## 13. Függő és független közvetítő engedélyezése, bejelentése
 
-21. § (1) A függő ügynök – ide nem értve a jelzáloghitel közvetítői tevékenységet végző függő ügynököt – a Felügyelet engedélye nélkül végezhet ügynöki tevékenységet.
+21. § (1) A függő ügynök – ide nem értve a jelzáloghitel közvetítői tevékenységet végző függő ügynököt – a Felügyelet engedélye nélkül, a 202. § szerinti nyilvántartásba vételt követően végezhet ügynöki tevékenységet.
 
 (2) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
 

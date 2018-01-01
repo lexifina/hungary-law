@@ -4,7 +4,7 @@
 
 a) aki megfelel a vezető állású személyekre vonatkozó, a 137. §-ban meghatározott általános követelményeknek;
 
-b) akinek személyét érintően a megválasztás, illetve a kinevezés tervezett időpontját legalább harminc nappal megelőzően a Felügyelet részére – az előzetes engedély megszerzése érdekében – kérelmet nyújtottak be, és a Felügyelet az engedélyt megadta vagy a 137. § (2) bekezdése alapján megadottnak tekintendő;
+b)
 
 c) aki rendelkezik
 
@@ -34,7 +34,7 @@ szerzett.
 
 a) aki megfelel a vezető állású személyekre vonatkozó, a 137. §-ban meghatározott általános követelményeknek;
 
-b) akinek személyét érintően a megválasztás, illetve a kinevezés tervezett időpontját legalább harminc nappal megelőzően a Felügyelet részére – az előzetes engedély megszerzése érdekében – kérelmet nyújtottak be, és a Felügyelet az engedélyt megadta, vagy a 137. § (2) bekezdése alapján az engedély megadottnak tekintendő;
+b)
 
 c) aki rendelkezik
 

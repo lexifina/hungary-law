@@ -42,7 +42,7 @@ h) az előírt szabályzatok, nyilvántartások, informatikai és ellenőrzési 
 
 i) az előírásoknak való meg nem felelés miatt a vele szemben alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
 
-j) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalmazott intézkedést vagy bírságot megállapító határozat jogerőre emelkedését követő két éven belül – ismételten megsérti,
+j) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalmazott intézkedést vagy bírságot megállapító határozat jogerőre emelkedését vagy véglegessé válását követő két éven belül – ismételten megsérti,
 
 k) ha a hitelintézet nem tartja be az azonnali fizetőképességre, a likviditás minimális szintjére vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírásokat.
 
@@ -70,7 +70,7 @@ j) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése vagy az 
 
 k) könyvvizsgálója elmulasztja a Felügyelet, a pénzügyi intézmény igazgatóságának, illetve felügyelő bizottságának tájékoztatását a pénzügyi intézménynél tapasztalt súlyos jogszabálysértésekről, hiányosságokról és egyéb – a prudens működést veszélyeztető – problémákról,
 
-l) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését követő öt éven belül – ismételten megsérti,
+l) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését vagy véglegessé válását követő öt éven belül – ismételten megsérti,
 
 m) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
 
