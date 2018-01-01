@@ -1,4 +1,4 @@
-## 23. §[^30] A szerencsejáték-felügyeleti hatóság az ajánlott felelős játékszervezői minősítés érvényességét határozatban megszünteti, ha a minősítés érvényességi ideje alatt a szerencsejáték-felügyeleti hatóság a szervezővel szemben az Szjtv. 1. § (5a)–(6d) bekezdésében és az e rendeletben foglaltak megsértése miatt – működési engedélyenként, és ha a szervező értékesítő hálózattal rendelkezik az értékesítőhelyek 10%-át meghaladó értékesítőhelyek tekintetében értékesítőhelyenként – jogerős határozatban 300 000 forintot meghaladó bírságot szabott ki.
+## 23. §[^30] A szerencsejáték-felügyeleti hatóság az ajánlott felelős játékszervezői minősítés érvényességét határozatban megszünteti, ha a minősítés érvényességi ideje alatt a szerencsejáték-felügyeleti hatóság a szervezővel szemben az Szjtv. 1. § (5a)–(6d) bekezdésében és az e rendeletben foglaltak megsértése miatt – működési engedélyenként, és ha a szervező értékesítő hálózattal rendelkezik az értékesítőhelyek 10%-át meghaladó értékesítőhelyek tekintetében értékesítőhelyenként – végleges határozatban 300 000 forintot meghaladó bírságot szabott ki.
 
 ## 24. § A szervező az alábbi játékosvédelmi intézkedéseket alkalmazhatja a 22. § (1) bekezdés b) pont ba) alpontjában foglaltak választása esetén:
 
@@ -24,4 +24,4 @@ db) az 1. § (3) bekezdése szerinti játékosvédelmi szabályok kidolgozását
 
 dc) a játékosok részére elektronikusan vagy papír alapon a játékfüggőség mértékének mérésére alkalmas teszt kitöltésének és értékelésének állandó elérhetővé tételét és a da) alpont szerinti szolgáltatás biztosítását hetente legalább 1 órában.
 
-[^30]: A 23. § a 183/2017. (VII. 5.) Korm. rendelet 8. § (2) bekezdés a) és b) pontja szerint módosított szöveg.
+[^30]: A 23. § a 183/2017. (VII. 5.) Korm. rendelet 8. § (2) bekezdés a) és b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 551. §-a szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
