@@ -18,7 +18,7 @@
 
 7. útügyi hatósági eljárások,
 
-8.[^3] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+8.[^6] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 9. hírközlési hatósági eljárások,
 
@@ -40,4 +40,4 @@
 
 18. közegészségügyi hatósági eljárások.
 
-[^3]: Az 1. melléklet 8. pontja a 380/2016. (XII. 2.) Korm. rendelet 50. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 119. §-át.
+[^6]: Az 1. melléklet 8. pontja a 380/2016. (XII. 2.) Korm. rendelet 50. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 119. §-át.
