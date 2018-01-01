@@ -1,0 +1,1 @@
+## „(4) A kitöltött kérdőíven megjelölt adatokat az adatszolgáltatón, adatátadón kívül csak a Hivatalos Statisztikai Szolgálat adatfelvétel végrehajtásáért felelős tagja és a részére adatfeldolgozást végző szerv ismerheti meg.”
