@@ -2,4 +2,6 @@
 
 25. § (1) Ha a nem gazdálkodó szervezet ügyfél ügyintézési rendelkezésében meghatározta a hivatalos elérhetőség használatának körét, az elektronikus ügyintézést biztosító szerv az ügyintézési rendelkezésben foglaltak szerint választja meg a kézbesítendő irat tekintetében használt hivatalos elérhetőséget.
 
-(2) Ha a kézbesítendő irat tekintetében használt hivatalos elérhetőségre történő kézbesítés során derül ki, hogy a megadott hivatalos elérhetőség hibás, úgy az elektronikus ügyintézést biztosító szerv jogosult a kézbesítendő iratot bármely hivatalos elérhetőségre kézbesíteni, és egyúttal értesíti a rendelkezési nyilvántartást vezető szervet a hibás elérhetőség tényéről. Ha nincs olyan hivatalos elektronikus elérhetőség, amelyre az elektronikus ügyintézést biztosító szerv kézbesíteni tudja a kézbesítendő iratot, az elektronikus ügyintézést biztosító szerv az iratot nem elektronikus úton kézbesíti.
+(2)[^7] Ha a kézbesítendő irat tekintetében használt hivatalos elérhetőségre történő kézbesítés során derül ki, hogy a megadott vagy a nyilvántartásban szereplő hivatalos elérhetőség hibás, úgy az elektronikus ügyintézést biztosító szerv értesíti a rendelkezési nyilvántartást vezető szervet a hibás elérhetőség tényéről, és gazdálkodó szervezet esetében az E-ügyintézési tv. 13. § (8) bekezdése, egyéb esetben az E-ügyintézési törvény 15. § (3) bekezdése szerint jár el.
+
+[^7]: A 25. § (2) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

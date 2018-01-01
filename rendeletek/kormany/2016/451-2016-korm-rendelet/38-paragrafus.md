@@ -1,4 +1,4 @@
-38. § (1) A közigazgatás-szervezésért felelős miniszter az elektronikus ügyintézést biztosító szervek által intézhető és intézni tervezett ügykörökkel kapcsolatos feladat- és hatáskörök, valamint az országos telefonos ügyfélszolgálat általi előzetes tájékoztatás ellátásának szakmai megalapozottsága érdekében digitális adatbázist (a továbbiakban: tudástár) működtet. A tudástár alkalmazásszintű üzemeltetésén kívüli informatikai üzemeltetését a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. végzi.
+38. § (1)[^8] A közigazgatás-szervezésért felelős miniszter az elektronikus ügyintézést biztosító szervek által kérelemre intézhető és intézni tervezett ügykörökkel kapcsolatos feladat- és hatáskörök, valamint az országos telefonos ügyfélszolgálat általi előzetes tájékoztatás ellátásának szakmai megalapozottsága érdekében digitális adatbázist (a továbbiakban: tudástár) működtet. A tudástár alkalmazásszintű üzemeltetésén kívüli informatikai üzemeltetését a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. végzi.
 
 (2) A tudástár tekintetében:
 
@@ -25,3 +25,5 @@ e) az egyéb közszolgáltatási feladatkörökre vonatkozó tájékoztatásokat
 a) a nyilvántartás vezetéséhez, az adattartalom feltöltéséhez és szelektív eléréséhez szükséges programok működtetéséről,
 
 b) a jogszabályban kijelölt vagy önként vállalt adatkörre vonatkozó adatmenedzselési feladatok ellátásáról.
+
+[^8]: A 38. § (1) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

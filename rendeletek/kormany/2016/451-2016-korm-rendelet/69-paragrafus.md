@@ -1,5 +1,3 @@
-## 68. § Az elektronikus ügyintézést biztosító szerv köteles biztosítani az e-Papír szolgáltatás útján előterjesztett beadványok befogadását, ha az adott ügytípus elektronikus űrlappal nem támogatott.
-
 ## 24. Az egyes szabályozott elektronikus ügyintézési szolgáltatásokra vonatkozó rendelkezések
 
 ## Elektronikus azonosítási szolgáltatás

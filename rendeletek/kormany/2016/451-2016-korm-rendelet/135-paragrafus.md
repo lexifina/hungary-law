@@ -1,4 +1,4 @@
-## 134/H. §[^39] A KKSZB-hez SZEÜSZ és KEÜSZ szolgáltató is csatlakozhat. Csatlakozására a 134/A–134/G. §-okat alkalmazni kell azzal, hogy csatlakozott szerv alatt SZEÜSZ vagy KEÜSZ szolgáltatót kell érteni. A SZEÜSZ és KEÜSZ szolgáltató a KKSZB-hez történő csatlakozását a csatlakozási megállapodást követően 3 napon belül a felügyeletnek bejelenti.
+## 134/H. §[^64] A KKSZB-hez SZEÜSZ és KEÜSZ szolgáltató is csatlakozhat. Csatlakozására a 134/A–134/G. §-okat alkalmazni kell azzal, hogy csatlakozott szerv alatt SZEÜSZ vagy KEÜSZ szolgáltatót kell érteni. A SZEÜSZ és KEÜSZ szolgáltató a KKSZB-hez történő csatlakozását a csatlakozási megállapodást követően 3 napon belül a felügyeletnek bejelenti.
 
 ## V. Fejezet
 
@@ -28,4 +28,4 @@ i) műszaki irányelvek elfogadása;
 
 j) az együttműködő szervek az E-ügyintézési tv.-ben szabályozott tevékenységeinek felügyelete.
 
-[^39]: A 134/H. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
+[^64]: A 134/H. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.

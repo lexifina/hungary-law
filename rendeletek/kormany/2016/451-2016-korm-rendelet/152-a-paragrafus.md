@@ -1,4 +1,4 @@
-## 37/A. [^47] Az információforrások regisztere
+## 37/A. [^78] Az információforrások regisztere
 
 152/A. § (1) Az információforrások regisztere az E-ügyintézési tv. 65. § (3) bekezdése szerinti információk, valamint azon információk tekintetében, amelyek vonatkozásában az együttműködő szerv elektronikus információátadásra köteles, tartalmazza
 
@@ -10,4 +10,4 @@ b) az információra vonatkozó, a 151. § (1) bekezdés b) pontja szerinti adat
 
 (3) A felügyelet az információforrások regiszterét a 34. § (2) és (3) bekezdésében meghatározott módon közzéteszi.
 
-[^47]: A 37/A. alcímet (152/A. §) a 221/2017. (VIII. 7.) Korm. rendelet 7. § (12) bekezdése iktatta be.
+[^78]: A 37/A. alcímet (152/A. §) a 221/2017. (VIII. 7.) Korm. rendelet 7. § (12) bekezdése iktatta be.

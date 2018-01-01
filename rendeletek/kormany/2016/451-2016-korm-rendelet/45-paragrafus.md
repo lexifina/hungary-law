@@ -1,4 +1,4 @@
-45. § (1) A 44. §-ban foglalt szolgáltatások biztosítása a telefonos ügyfélszolgálati rendszerén keresztül valósul meg az alábbi rendszerek, valamint információ- és adatforrások igénybevételével:
+45. § (1)[^11] A 44. §-ban foglalt szolgáltatások biztosítása az országos telefonos ügyfélszolgálat telefonos ügyfélszolgálati rendszerén keresztül valósul meg az alábbi rendszerek, valamint információ- és adatforrások igénybevételével:
 
 a) tudástár;
 
@@ -15,3 +15,5 @@ f) a csatlakozott ügyfélszolgálatokat működtető szervek és közreműköd�
 g) a csatlakozott ügyfélszolgálatokat működtető szervek és elektronikus ügyintézési szolgáltatók által átadott tudásanyag, szakmai ismeretek.
 
 (2) Az (1) bekezdésben foglalt adatok és információk helytállóságáért és pontosságáért az információ- és adatforrást biztosító szerv önállóan felel.
+
+[^11]: A 45. § (1) bekezdés nyitó szövegrésze a 361/2017. (XI. 30.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

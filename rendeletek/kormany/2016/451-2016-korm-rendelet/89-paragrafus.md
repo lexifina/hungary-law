@@ -1,4 +1,4 @@
-## 88/A. §[^19] Egyéni vállalkozó az E-ügyintézési tv. 14. §-a szerinti hivatalos elérhetőségként a Kormány által biztosított tárhelyek közül a KÜNY-regisztrációhoz kapcsolódó tárhelyét jelenti be a rendelkezési nyilvántartásba.
+## 88/A. §[^35] Egyéni vállalkozó az E-ügyintézési tv. 14. §-a szerinti hivatalos elérhetőségként a Kormány által biztosított tárhelyek közül a KÜNY-regisztrációhoz kapcsolódó tárhelyét jelenti be a rendelkezési nyilvántartásba.
 
 ## Gazdálkodó szervezetek számára biztosított tárhely
 
@@ -6,13 +6,13 @@
 
 (2) Gazdálkodó szervezet nevében a cégkapu-regisztrációt a gazdálkodó szervezet képviseletére jogosult természetes személy kezdeményezheti.
 
-(3) A cégkapu regisztrációja osztott. A szolgáltató kizárólag a cégkapu kezelésére az adott gazdálkodó szervezetnél felhatalmazott természetes személyt (a továbbiakban: cégkapumegbízott) tartja nyilván, az adott gazdálkodó szervezet nevében a cégkapu igénybevételével elektronikus kapcsolattartásra jogosult további felhasználók (a továbbiakban: a gazdálkodó szervezet nevében eljárni jogosult személyek) regisztrációját a cégkapumegbízott végzi.
+(3)[^36] A cégkapu regisztrációja osztott. A szolgáltató kizárólag a cégkapu kezelésére az adott gazdálkodó szervezetnél felhatalmazott természetes személyt (a továbbiakban: cégkapumegbízott) regisztrálja, az adott gazdálkodó szervezet nevében a cégkapu igénybevételével elektronikus kapcsolattartásra jogosult további felhasználók (a továbbiakban: a gazdálkodó szervezet nevében eljárni jogosult személyek) regisztrációját a cégkapumegbízott végzi.
 
 (4) A szolgáltató a (3) bekezdés szerinti személyeket nyilvántartja és biztosítja számukra a hozzáférést a KAÜ-n keresztüli azonosítást követően a cégkapuhoz.
 
 (5) A cégkapu szolgáltató – ha a gazdálkodó szervezet ezzel ellentétesen nem rendelkezik – a gazdálkodó szervezet nevében a cégkapu címet a rendelkezési nyilvántartásba, mint a gazdálkodó szervezet hivatalos elérhetősége, bejelenti. Ha a gazdálkodó szervezet működéséhez jogszabály által rendszeresített nyilvántartásba vétele szükséges, a cégkapu szolgáltató e jogosultságával csak akkor él, ha a gazdálkodó szervezet a rá vonatkozó nyilvántartásban szerepel.
 
-(6)[^20] A cégkapu használója, azon keresztül valamely szervezet nevében tevékenységet végző, az E-ügyintézési tv. 35. § (1) bekezdés a) vagy b) pontja szerinti KASZ-szal rendelkező és e KASZ segítségével magát azonosító természetes személy lehet.
+(6)[^37] A cégkapu használója, azon keresztül valamely szervezet nevében tevékenységet végző, az E-ügyintézési tv. 35. § (1) bekezdése szerinti KASZ-szal rendelkező és e KASZ segítségével magát azonosító természetes személy lehet.
 
 (7) A cégkapu szolgáltató a szolgáltatást megszünteti, ha azt a gazdálkodó szervezet kéri, vagy ha annak a cégkapu használatára vonatkozó jogosultsága megszűnt.
 
@@ -26,5 +26,6 @@
 
 (12) A szolgáltató a cégkapumegbízottakról történeti nyilvántartást vezet, hogy tanúsítani lehessen, adott időszakban ki volt feljogosítva a cégkapu kezelésére.
 
-[^19]: A 88/A. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^20]: A 89. § (6) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^35]: A 88/A. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^36]: A 89. § (3) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
+[^37]: A 89. § (6) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 9. § a) pontja, a 361/2017. (XI. 30.) Korm. rendelet 6. § j) pontja és 7. § b) pontja szerint módosított szöveg.
