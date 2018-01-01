@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdés szerinti kérelemhez, illetve keresetlevélhez csatolni kell azokat a dokumentumokat is, amelyekből a magyar bíróság joghatósága és annak jogalapja megállapítható.
 
-(3) A bíróság a csődeljárás, illetve a felszámolási eljárás iránti kérelmet elutasítja, illetve a már megindított eljárást hivatalból megszünteti, ha az fizetésképtelenségi főeljárás megindítására irányul, de az adós ellen az Európai Unió más tagállamában fizetésképtelenségi főeljárás már megindult és folyamatban van, és a kérelmet benyújtó fél a bíróság tájékoztatását követően sem kéri a területi másodlagos fizetésképtelenségi eljárás megindítását.
+(3) A bíróság a csődeljárás, illetve a felszámolási eljárás iránti kérelmet visszautasítja, illetve a már megindított eljárást hivatalból megszünteti, ha az fizetésképtelenségi főeljárás megindítására irányul, de az adós ellen az Európai Unió más tagállamában fizetésképtelenségi főeljárás már megindult és folyamatban van, és a kérelmet benyújtó fél a bíróság tájékoztatását követően sem kéri a területi másodlagos fizetésképtelenségi eljárás megindítását.

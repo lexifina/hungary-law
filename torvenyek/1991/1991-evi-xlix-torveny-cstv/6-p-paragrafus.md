@@ -6,7 +6,7 @@ a) a külföldi fizetésképtelenségi szakértőnek a 2015/848 EU rendelet 60. 
 
 b) a belföldi fizetésképtelenségi szakértőnek a 2015/848 EU rendelet 61. cikkében meghatározott kérelme elbírálásához szükségesek.
 
-(3) A bíróság a 2015/848 EU rendelet 61. cikke szerinti, a csoportos koordinációs eljárás iránti kérelmet elutasítja, ha más tagállamban már kezdeményeztek ilyen eljárást. Ha pedig ez a tény később jut a tudomására, az eljárást hivatalból megszünteti, és a kérelem elbírálásával összefüggő költségek megfizetésére az eljárást kezdeményező fizetésképtelenségi szakértőt kötelezi.
+(3) A bíróság a 2015/848 EU rendelet 61. cikke szerinti, a csoportos koordinációs eljárás iránti kérelmet visszautasítja, ha más tagállamban már kezdeményeztek ilyen eljárást. Ha pedig ez a tény később jut a tudomására, az eljárást hivatalból megszünteti, és a kérelem elbírálásával összefüggő költségek megfizetésére az eljárást kezdeményező fizetésképtelenségi szakértőt kötelezi.
 
 (4) Ha a 2015/848 EU rendelet 61. cikke szerinti csoportos koordinációs eljárás belföldön indul, az eljárás megindítására és lefolytatására polgári nemperes eljárásként kerül sor. Az eljárás lefolytatására az a bíróság rendelkezik hatáskörrel és illetékességgel, amely a csoport belföldi tagjával szemben megindított csődeljárást vagy felszámolási eljárást lefolytatja.
 

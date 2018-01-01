@@ -1,4 +1,4 @@
-6. § (1) A csődeljárás és a felszámolási eljárás az adós – eljárás lefolytatására irányuló kérelem benyújtásának napján bejegyzett, illetve az (1a) bekezdésben meghatározott – magyarországi székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) hatáskörébe és kizárólagos illetékességébe tartozó nemperes eljárás. A más bíróságoknál benyújtott csődeljárások iránti kérelmeket – kivéve, ha arra a bíróságnak területi fizetésképtelenségi eljárásként a 6/H. § szerint hatásköre és illetékessége van – a bíróság hivatalból elutasítja, a már megindult eljárásokat megszünteti, a felszámolási eljárás iránti kérelmeket pedig – ideértve az ilyen eljárást a 2015/848 EU rendelet 3. cikk (3) vagy (4) bekezdése alapján kezdeményező területi fizetésképtelenségi eljárás iránti kérelmeket is – haladéktalanul az e törvény szerint hatáskörrel és illetékességgel rendelkező bírósághoz teszi át.
+6. § (1) A csődeljárás és a felszámolási eljárás az adós – eljárás lefolytatására irányuló kérelem benyújtásának napján bejegyzett, illetve az (1a) bekezdésben meghatározott – magyarországi székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) hatáskörébe és kizárólagos illetékességébe tartozó nemperes eljárás. A más bíróságoknál benyújtott csődeljárások iránti kérelmeket – kivéve, ha arra a bíróságnak területi fizetésképtelenségi eljárásként a 6/H. § szerint hatásköre és illetékessége van – a bíróság visszautasítja, a már megindult eljárásokat hivatalból megszünteti, a felszámolási eljárás iránti kérelmeket pedig – ideértve az ilyen eljárást a 2015/848 EU rendelet 3. cikk (3) vagy (4) bekezdése alapján kezdeményező területi fizetésképtelenségi eljárás iránti kérelmeket is – haladéktalanul az e törvény szerint hatáskörrel és illetékességgel rendelkező bírósághoz teszi át.
 
 (1a) Az adós székhelyének a korábbitól eltérő cégbíróság illetékességi területére történő áthelyezése esetén a székhelyváltozás bejegyzését követő 180 napig kizárólag a korábban bejegyzett székhely szerinti illetékes bíróság előtt kezdeményezhető csődeljárás, felszámolási eljárás. Amennyiben az adós ellen felszámolási eljárást kezdeményeztek, de a fizetésképtelenség megállapításáról és a felszámolás elrendeléséről a bíróság még nem hozott elsőfokú végzést, az adós csődeljárás iránti kérelmet csak ennél a bíróságnál nyújthat be.
 
@@ -24,27 +24,49 @@ lakcímadataira és értesítési címére vonatkozóan térítésmentesen szolg
 
 (2) A 2015/848 EU rendelet hatálya alá tartozó, nem Magyarországon bejegyzett gazdálkodó szervezet ellen kezdeményezett fizetésképtelenségi főeljárás megindítására és lefolytatására a Fővárosi Törvényszék rendelkezik hatáskörrel és illetékességgel.
 
-(3) Azokra az eljárási kérdésekre, amelyeket e törvény külön nem szabályoz, a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezései – a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadóak azzal, hogy
+(3) Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni azzal, hogy
 
 a) a csődeljárásban
 
-aa) felfüggesztésnek – ide nem értve a 6/Q. § szerinti esetet – nincs helye,
+aa) felfüggesztésnek nincs helye;
 
-ab) félbeszakadásnak és szünetelésnek nincs helye,
+ab) félbeszakadásnak és szünetelésnek nincs helye;
+
+ac) a kifogás alapján indult eljárást kivéve nincs helye beavatkozásnak, és a beavatkozás vagy perbehívás bejelentésének legkésőbb a kifogás elbírálása tárgyában hozott elsőfokú határozat meghozataláig van helye;
 
 b) a felszámolási eljárásban
 
-ba) nincs helye félbeszakadásnak,
+ba) nincs helye félbeszakadásnak;
 
-bb) a vitatott igény elbírálására irányuló és a kifogás alapján indult eljárást kivéve nincs helye beavatkozásnak,
+bb) a vitatott igény elbírálására irányuló és a kifogás alapján indult eljárást kivéve nincs helye beavatkozásnak, és a beavatkozás vagy perbehívás bejelentésének legkésőbb a vitatott igény, illetve a kifogás elbírálása tárgyában hozott elsőfokú határozat meghozataláig van helye;
 
-bc) az eljárás szünetelésének csak a 26. § (4) bekezdésben foglaltak esetén van helye,
+bc) az eljárás szünetelésének csak kérelemre, a 26. § (4) bekezdésben foglaltak esetén van helye azzal, hogy három hónap szünetelés elteltével az eljárás megszűnik;
 
-bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító végzés meghozataláig, továbbá a 6/A. § (2) bekezdése, a 6/Q. §, valamint a 38/A. § szerinti esetben van helye.
+bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító végzés meghozataláig, továbbá a 6/A. § (1) és (2) bekezdése, a 38/A. § szerinti és a Pp. 126. § (1) bekezdés a) és b) pontja szerinti esetben van helye, azzal, hogy az eljárást felfüggesztő végzés elleni fellebbezésnek a 6/A. § (1) és (2) bekezdése, a 38/A. § szerinti és a Pp. 126. § (1) bekezdés a) és b) pontja szerinti esetben nincs helye;
 
-(4) A csődeljárásban az adóst, a hitelezőt és a vagyonfelügyelőt, a felszámolási eljárásban az adóst, a hitelezőt és a felszámolót kell félnek tekinteni. Ha a vagyonfelügyelő vagy a felszámoló tevékenysége vagy mulasztása harmadik személy jogát, jogos érdekét is érinti, az e személy által benyújtott kifogás (51. §) elbírálása során a kifogás előterjesztője is félnek minősül.
+c) bíróság által tárgyalás tartásának csak az e törvényben meghatározott esetekben van helye;
 
-(5) 2015. január 1-jétől a bíróság és a fél egymással a kapcsolatot a Pp.-ben meghatározottak szerint, elektronikus úton tartja. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
+d) ha a fél vagy az eljárásban részt vevő egyéb személy nyilatkozatának beszerzése szükséges, a bíróság őket írásbeli nyilatkozattételre hívja fel vagy szükség esetén szóbeli meghallgatást tart;
+
+e) a Pp. szerinti költségmentesség engedélyezésének nincs helye, a bíróság által engedélyezett költségfeljegyzési jog pedig nem terjed ki
+
+ea) a csődeljárás és a felszámolási eljárás illetékére;
+
+eb) a csődeljárásban és a felszámolási eljárásban benyújtott kifogás illetékére;
+
+f) a jogi képviselet az elsőfokú eljárásban az e törvényben meghatározott esetekben kötelező;
+
+g) közvetítői eljárásra történő kötelezésnek nincs helye;
+
+h) magánszakértő alkalmazásának a vitatott hitelezői igény, illetve a kifogás elbírálásakor van helye;
+
+i) a vitatott hitelezői igény elbírálása iránti eljárásban a félbeszakadás helyett az eljárás megszüntetésének nincs helye.
+
+(4) A csődeljárásban az adóst, a hitelezőt és a vagyonfelügyelőt, a felszámolási eljárásban az adóst, a hitelezőt és a felszámolót – ideértve az ideiglenes vagyonfelügyelőt és a rendkívüli vagyonfelügyelőt is – félnek kell tekinteni. Ha a vagyonfelügyelő vagy a felszámoló tevékenysége vagy mulasztása harmadik személy jogát, jogos érdekét is érinti, az e személy által benyújtott kifogás (51. §) elbírálása során a kifogás előterjesztője is félnek minősül.
+
+(4a) A Pp. 410. §-a szerinti felülvizsgálat engedélyezése iránti kérelmet a fél a jogerős végzés közlésétől számított 30 napon belül terjesztheti elő. A határidő elmulasztása esetén igazolásnak nincs helye. A Kúria a felülvizsgálat engedélyezése tárgyában 30 napon belül határoz.
+
+(5) 2015. január 1-jétől a bíróság és a fél egymással a kapcsolatot a Pp.-ben és az elektronikus ügyintézésről szóló jogszabályokban meghatározottak szerint, elektronikus úton tartja. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
 
 (5a) Az (5) bekezdés szerint elektronikus kapcsolattartásra köteles fél az eljárási illetéket, a kifogás tételes illetékét és a közzétételi költségtérítést elektronikus úton fizeti meg, a kérelem benyújtását megelőzően. Az illeték- és közzétételi költségtérítés-fizetési kötelezettség teljesítésének módját és az azzal összefüggő tájékoztatást az Országos Bírósági Hivatal a honlapján 2014. december 17-éig közzéteszi. A változtatásokra vonatkozó tájékoztatást azok bevezetése előtt legalább 8 nappal közzé kell tenni.
 
@@ -91,3 +113,5 @@ b) a hitelező
 közötti kapcsolattartás során a jognyilatkozatok megtétele írásban történik, az alakiság megsértésével tett jognyilatkozat hatálytalan.
 
 (9) Ha az iratot a vagyonfelügyelő, az ideiglenes vagyonfelügyelő, a rendkívüli vagyonfelügyelő, illetve a felszámoló postai úton küldi meg a hitelezőknek vagy az adós vezető tisztségviselőjének, azt a hivatalos iratok kézbesítésére vonatkozó általános szabályok szerint kell kézbesíteni.
+
+(10) A Pp. 27. alcíme szerinti ideiglenes intézkedés iránti kérelmet az e törvény 33/A. §-a szerinti perekben nem lehet benyújtani.

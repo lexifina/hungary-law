@@ -1,4 +1,4 @@
-10. § (1) Ha a csődeljárás megindítása iránti kérelmet a bíróság nem utasítja el, haladéktalanul végzést hoz a csődeljárás elrendeléséről, és ezt követően haladéktalanul intézkedik az erről szóló végzésnek – külön jogszabályban meghatározott módon – a Cégközlönyben való közzétételéről és a cégjegyzékben az adós cégneve mellett a „cs. a.” toldat feltüntetéséről. A Cégközlönyben történő közzétételre a Cégközlöny honlapján, napi feltöltéssel, 0 órakor kerül sor. A bíróság hivatalból, a csődeljárás elrendeléséről szóló végzésben a felszámolók névjegyzékéből vagyonfelügyelőt rendel ki. A végzés ellen fellebbezésnek nincs helye.
+10. § (1) Ha a csődeljárás megindítása iránti kérelmet a bíróság nem utasítja el, 15 napon belül végzést hoz a csődeljárás elrendeléséről, és ezt követően haladéktalanul intézkedik az erről szóló végzésnek – külön jogszabályban meghatározott módon – a Cégközlönyben való közzétételéről és a cégjegyzékben az adós cégneve mellett a „cs. a.” toldat feltüntetéséről. A Cégközlönyben történő közzétételre a Cégközlöny honlapján, napi feltöltéssel, 0 órakor kerül sor. A bíróság hivatalból, a csődeljárás elrendeléséről szóló végzésben a felszámolók névjegyzékéből vagyonfelügyelőt rendel ki. A végzés ellen – ha e törvény eltérően nem rendelkezik – jogorvoslatnak nincs helye.
 
 (2) A csődeljárás elrendeléséről szóló, közzétételre kerülő végzésnek tartalmaznia kell
 
@@ -14,7 +14,7 @@ e) azt, hogy a végzés közzétételétől az adóst fizetési moratórium ille
 
 f) a hitelezőknek szóló felhívást arra, hogy fennálló követeléseiket a csődeljárás elrendeléséről szóló végzés közzétételétől számított 30 napon belül – a csődeljárás kezdő időpontját követően keletkező követeléseiket pedig 8 munkanapon belül – jelentsék be az adósnak és a vagyonfelügyelőnek, a követelés nyilvántartásba vételéért fizetendő díjat ezzel egyidejűleg fizessék be a vagyonfelügyelő 12. § (1) bekezdés szerint közzétett pénzforgalmi bankszámlájára,
 
-g) utalást a követelésbejelentési határidő elmulasztásának jogkövetkezményeire.
+g) utalást arra, hogy a követelésbejelentési határidő elmulasztása esetén igazolásnak nincs helye, és utalást a követelésbejelentési határidő elmulasztásának jogkövetkezményeire.
 
 (3)
 

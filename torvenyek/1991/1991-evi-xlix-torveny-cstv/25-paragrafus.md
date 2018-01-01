@@ -1,4 +1,4 @@
-25. § (1) A bíróság a kérelmet érdemi vizsgálat nélkül, hivatalból elutasítja, ha
+25. § (1) A bíróság a kérelmet érdemi vizsgálat nélkül, visszautasítja, ha
 
 a) azt nem az arra jogosult terjesztette elő;
 

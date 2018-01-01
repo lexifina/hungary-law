@@ -64,4 +64,4 @@ tb) a 2015/848 EU rendelet 3. cikk (3) bekezdése szerinti területi másodlagos
 
 u) leányvállalat: ha e törvény másképpen nem rendelkezik, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 74. §-a alapján létrehozott jogi személy.
 
-(2)
+(2) Ahol e törvény valamely intézkedés haladéktalan megtételét vagy végzés haladéktalan meghozatalát írja elő, annak 3 munkanapon belül kell eleget tenni.

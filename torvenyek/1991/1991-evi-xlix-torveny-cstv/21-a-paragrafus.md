@@ -4,6 +4,6 @@
 
 (2) A bíróság az egyezség jóváhagyása tárgyában az (1) bekezdés szerinti kérelem beérkezésétől számított 15 munkanapon belül dönt. Az egyezség jóváhagyására irányuló kérelmet egy alkalommal 3 munkanapos határidővel hiánypótlásra visszaadhatja. A hiánypótlási határidő elmulasztása jogvesztő.
 
-(3) Ha az egyezség megfelel a jogszabályokban foglaltaknak, a bíróság végzéssel azt jóváhagyja, és a csődeljárást befejezetté nyilvánítja. Az egyezséget jóváhagyó végzés ellen perújításnak nincs helye.
+(3) Ha az egyezség megfelel a jogszabályokban foglaltaknak, a bíróság végzéssel azt jóváhagyja, és a csődeljárást befejezetté nyilvánítja. Az egyezséget jóváhagyó és a csődeljárást befejezetté nyilvánító végzés elleni fellebbezési határidő elmulasztása miatt igazolásnak nincs helye. A fellebbezést 30 napon belül kell elbírálni. Az egyezséget jóváhagyó és csődeljárást befejezetté nyilvánító végzés ellen perújításnak nincs helye.
 
 (4) Amennyiben az adós ellen az ideiglenes moratórium előtt végrehajtást rendeltek el, a csődeljárás befejezetté nyilvánítása esetén az adós ellen folyamatban lévő, pénzkövetelések végrehajtása iránti eljárások a csődegyezségben foglaltak teljesítéséig, a csődegyezségben foglalt teljesítési határidő leteltéig szünetelnek, kivéve a 11. § (1) bekezdés szerinti követeléseket. A végrehajtási eljárás folytatását a csődeljárásba bejelentkezett hitelező kérheti. A végrehajtás a hitelezőt a csődegyezség alapján megillető összegre folytatódik.

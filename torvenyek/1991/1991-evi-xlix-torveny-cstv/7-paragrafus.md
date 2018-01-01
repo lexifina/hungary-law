@@ -4,7 +4,7 @@
 
 ## Csődeljárás megindítása, fizetési haladék
 
-7. § (1) Az adós gazdálkodó szervezet vezetője a bírósághoz csődeljárás lefolytatása iránti kérelmet nyújthat be, az adós részéről a jogi képviselet kötelező.
+7. § (1) Az adós gazdálkodó szervezet vezetője a bírósághoz csődeljárás lefolytatása iránti kérelmet nyújthat be; a kérelem benyújtása tekintetében az adós részéről a jogi képviselet kötelező.
 
 (2) Az adós gazdálkodó szervezet (a továbbiakban: adós) nem nyújthat be csődeljárás iránti kérelmet, ha ellene csődeljárás van folyamatban, vagy felszámolás iránti kérelmet nyújtottak be ellene, és a felszámolás elrendeléséről már meghozták az elsőfokú végzést.
 

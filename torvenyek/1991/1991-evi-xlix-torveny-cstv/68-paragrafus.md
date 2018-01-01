@@ -6,6 +6,8 @@
 
 (4) A Kormány – (2) bekezdés szerinti – rendeletének kihirdetésekor felszámolás iránti kérelem alapján már folyamatban lévő eljárásokban az (5)–(6) bekezdést, a 69. § (1)–(9a) bekezdést nem lehet alkalmazni. A 69. § (10) bekezdést akként kell alkalmazni, hogy a rendkívüli moratóriumnak nem meghosszabbítására, hanem elrendelésére kerül sor, amennyiben az adós a bíróságnak a felszámolást elrendelő végzésében meghatározott felhívására a kézhezvételtől számított 5 napos jogvesztő határidőn belül nyilatkozik arról, hogy a moratórium alatti tevékenysége folytatásához és működőképessége fenntartásához szükséges fizetési kötelezettségek teljesítésének fedezetét elkülönítette.
 
-(5) A bíróság a 22. § (2) bekezdésben meghatározott – felszámolást elrendelő – végzését 3 munkanapon belül hozza meg, és haladéktalanul, külön jogszabályban meghatározott módon elrendeli e végzésnek a Cégközlönyben való közzétételét. A Cégközlönyben történő közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor.
+(5) A bíróság a 22. § (2) bekezdésben meghatározott – felszámolást elrendelő – végzését 3 munkanapon belül hozza meg, és egyidejűleg, a külön jogszabályban meghatározott módon elrendeli e végzésnek a Cégközlönyben való közzétételét. A Cégközlönyben történő közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor.
 
-(6) A felszámolási eljárásban szünetelésnek, egyesítésnek, felfüggesztésnek nincs helye. A bíróság soron kívül jár el.
+(6) A felszámolási eljárásban egyesítésnek, felfüggesztésnek nincs helye. A felszámolási eljárás szünetelésének csak kérelemre, a 26. § (4) bekezdésben foglaltak esetén, az elsőfokú és a másodfokú eljárásban legfeljebb egy-egy alkalommal van helye azzal, hogy három hónap szünetelés elteltével az eljárás megszűnik.
+
+(7) A bíróság soron kívül jár el.

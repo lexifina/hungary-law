@@ -56,7 +56,7 @@ bk) akit a felszámolók névjegyzékét vezető szerv – a bíróság (7) beke
 
 (9) A bíróság (6)–(8) bekezdésben foglalt végzésében rendelkezni kell a felszámoló számlával igazolt költségeinek megtérítéséről és arányos díjazásáról is, amely legfeljebb 300 000 forint lehet, de a bíróság különösen bonyolult ügyben ennél magasabb összegű díjazást is megállapíthat.
 
-(10) A (6), valamint a (7)–(9) bekezdés szerinti végzés ellen a felmentéssel érintett felszámoló élhet fellebbezéssel 5 munkanapon belül, amelyet a másodfokú bíróság soron kívül, de legfeljebb 8 munkanapon belül bírál el. A felszámolót felmentő jogerős végzés ellen nincs helye felülvizsgálatnak.
+(10) A (6), valamint a (7)–(9) bekezdés szerinti végzés ellen a felmentéssel érintett felszámoló, valamint – a végzésnek a felszámolót megillető díj és költségtérítést megállapító rendelkezése ellen – a hitelező élhet fellebbezéssel 5 munkanapon belül, amelyet a másodfokú bíróság soron kívül, de legfeljebb 8 munkanapon belül bírál el. A felszámolót felmentő jogerős végzés ellen nincs helye felülvizsgálatnak.
 
 (10a) Ha a felszámolót felmentő végzés fellebbezés hiányában jogerőre emelkedik, az elsőfokú bíróság a végzés jogerőre emelkedésétől – fellebbezés eredményeképpen jogerőre emelkedett végzés esetén pedig az iratok visszaérkezésétől – számított 8 napon belül rendel ki másik felszámolót.
 

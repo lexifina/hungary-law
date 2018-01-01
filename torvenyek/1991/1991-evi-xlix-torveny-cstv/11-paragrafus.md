@@ -12,7 +12,7 @@ kifizetése alól nem mentesít.
 
 (2) A fizetési haladék időtartama alatt
 
-a) az adóssal szemben beszámításnak helye nincs, de az adós által indított, folyamatban lévő peres eljárásokban a csődeljárás kezdő időpontjáig előterjesztett beszámítási kifogás elbírálható,
+a) az adóssal szemben beszámításnak helye nincs, de az adós által indított, folyamatban lévő peres eljárásokban a csődeljárás kezdő időpontjáig előterjesztett beszámítás elbírálható,
 
 b) az adós számláinak terhére – az (1) bekezdésben foglalt követelések kivételével – fizetési megbízás nem teljesíthető, az adóssal szemben nem lehet fizetési megbízást benyújtani,
 
