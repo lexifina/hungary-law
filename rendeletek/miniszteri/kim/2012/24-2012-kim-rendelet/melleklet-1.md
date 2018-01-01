@@ -1,6 +1,6 @@
-## 20. §[^16]
+## 20. §[^18]
 
-1. melléklet a 24/2012. (IV. 25.) KIM rendelethez[^17]
+1. melléklet a 24/2012. (IV. 25.) KIM rendelethez[^19]
 
 Az adatfelelősök a közzétételt elrendelő jogszabályi hely megnevezésével
 
@@ -48,5 +48,5 @@ Az adatfelelősök a közzétételt elrendelő jogszabályi hely megnevezéséve
 
 | 20. | statisztikai regiszterben tárolt nyilvános adat | Civil tv. 14. § (3) bekezdés c) pont | Folyamatosan | Központi Statisztikai Hivatal |
 
-[^16]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: Az 1. melléklet az 56/2012. (XII. 29.) EMMI rendelet 27. §-a, a 31/2014. (IV. 14.) EMMI rendelet 8. §, 9. § c)–f) pontja szerint módosított szöveg.
+[^18]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: Az 1. melléklet az 56/2012. (XII. 29.) EMMI rendelet 27. §-a, a 31/2014. (IV. 14.) EMMI rendelet 8. §, 9. § c)–f) pontja szerint módosított szöveg.

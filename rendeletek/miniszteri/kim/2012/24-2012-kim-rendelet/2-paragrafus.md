@@ -20,9 +20,11 @@
 
 9. közzétételért felelős: a miniszter vezetése alá tartozó társadalmi és civil kapcsolatok fejlesztéséért felelős szervezeti egység;
 
-10. szabályozott elektronikus ügyintézési szolgáltatás: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény X. fejezete szerinti szabályozott elektronikus ügyintézési szolgáltatás,
+10.[^3] szabályozott elektronikus ügyintézési szolgáltatás: az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény[^4] szerinti szabályozott elektronikus ügyintézési szolgáltatás,
 
 11. testületi tag: az Alap tanácsának (a továbbiakban: Tanács) vagy kollégiumának tagja.
 
 [^1]: A 2. § 2. pontja az 56/2012. (XII. 29.) EMMI rendelet 20. §-ával megállapított szöveg.
 [^2]: A 2. § 8. pontja a 74/2013. (XII. 2.) EMMI rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 10. pontja a 25/2017. (XII. 22.) IM rendelet 14. §-a szerint módosított szöveg.
+[^4]: Lásd a 2015. évi CCXXII. törvényt.
