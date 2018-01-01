@@ -1,3 +1,3 @@
-## 6. §[^11]
+## 6. §[^12]
 
-[^11]: A 6. §-t a 46/2012. (XII. 27.) NGM rendelet 22. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+[^12]: A 6. §-t a 46/2012. (XII. 27.) NGM rendelet 22. § (2) bekezdés 1. pontja hatályon kívül helyezte.

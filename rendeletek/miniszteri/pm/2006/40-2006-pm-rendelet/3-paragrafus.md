@@ -1,4 +1,4 @@
-## 3. §[^7] Az ingatlan forgalmi értékének megállapításához szükséges összehasonlító értékadatok gyűjtésére külön nyilvántartást kell vezetni. A nyilvántartás a következőket tartalmazza:
+## 3. §[^9] Az ingatlan forgalmi értékének megállapításához szükséges összehasonlító értékadatok gyűjtésére külön nyilvántartást kell vezetni. A nyilvántartás a következőket tartalmazza:
 
 a) az ingatlan címét és/vagy helyrajzi számát,
 
@@ -16,4 +16,4 @@ g) megállapított forgalmi érték esetén az értékelés napját és az 1. sz
 
 h) közös tulajdon esetében – amennyiben az a szerződésből megállapítható – a felépítményhez tartozó közös tulajdoni illetőséget.
 
-[^7]: A 3. § a 31/2007. (XII. 21.) PM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 3. § (5) bekezdése alapján a 2007. évre vonatkozó éves zárási összesítőt a 40/2006. (XII. 25.) PM rendelet 2007. december 31-én hatályos rendelkezései szerint kell elkészíteni.
+[^9]: A 3. § a 31/2007. (XII. 21.) PM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 3. § (5) bekezdése alapján a 2007. évre vonatkozó éves zárási összesítőt a 40/2006. (XII. 25.) PM rendelet 2007. december 31-én hatályos rendelkezései szerint kell elkészíteni.
