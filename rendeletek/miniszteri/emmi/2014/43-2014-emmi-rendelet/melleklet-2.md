@@ -2,7 +2,7 @@
 
 | A | B | C | D | E |
 
-| 1. | Elkészítendő terv | Kórház, mátrixkórház, szakkórház, országos intézet, klinika, krónikus kórház | Rendelőintézeti szakrendelő, nappali kórház | Ápolási intézet |
+| 1. | Elkészítendő terv | Kórház, mátrixkórház, szakkórház, országos gyógyintézet, országos társ-gyógyintézet, klinika, krónikus kórház | Rendelőintézeti szakrendelő, nappali kórház | Ápolási intézet |
 
 | 2. | Riasztási, berendelési terv | X | X | X |
 
@@ -32,7 +32,7 @@
 
 | 15. | A Nemzetközi Egészségügyi Rendszabályok végrehajtása kapcsán felmerülő feladatellátás terve | X | X | – |
 
-2. melléklet a 43/2014. (VIII. 19.) EMMI rendelethez[^24]
+2. melléklet a 43/2014. (VIII. 19.) EMMI rendelethez[^25]
 
 ## A résztervekre vonatkozó részletes előírások
 
@@ -456,4 +456,4 @@
 
 14.3. Kapcsolódó tervek: Riasztási, berendelési Terv, Szállítási terv, Többletfeladatok ellátásának terve.
 
-[^24]: A 2. melléklet a 16/2015. (III. 30.) EMMI rendelet 30. §-a, az 54/2016. (XII. 30.) EMMI rendelet 97. §-a szerint módosított szöveg.
+[^25]: A 2. melléklet a 16/2015. (III. 30.) EMMI rendelet 30. §-a, az 54/2016. (XII. 30.) EMMI rendelet 97. §-a szerint módosított szöveg.
