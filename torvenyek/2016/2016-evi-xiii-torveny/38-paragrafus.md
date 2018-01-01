@@ -1,1 +1,0 @@
-38. § A vámellenőrzés során feltárt adatokat a vámhatóság jogosult az ellenőrzött személlyel közvetlen vagy közvetett kapcsolatban állt vagy álló más személy vámellenőrzésénél a tényállás tisztázása céljából felhasználni.

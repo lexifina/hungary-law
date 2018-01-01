@@ -1,5 +1,0 @@
-## XXX. Fejezet
-
-## HATÁLYON KÍVÜL HELYEZŐ RENDELKEZÉSEK
-
-136–138. §

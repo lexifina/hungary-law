@@ -1,3 +1,0 @@
-56/A. § (1) A vámmentességi rendelet 41. cikke alkalmazásában a harmadik országokból beutazó személyek által importált termékek után fizetendő hozzáadottérték-adó és jövedéki adó alóli mentesítésről szóló, 2007. december 20-i 2007/74/EK tanácsi irányelv rendelkezéseivel összhangban kiadott nemzeti jogszabály alatt az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló törvényt kell érteni.
-
-(2) A vámmentességi rendelet 107. cikke alapján a magán- és kereskedelmi gépjárművek és motorkerékpárok szabványos tartályaiban az Európai Unió vámterületére vámmentesen behozott üzemanyag Magyarország területén a vám és egyéb terhek megfizetése nélkül nem idegeníthető el.
