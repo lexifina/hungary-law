@@ -4,7 +4,8 @@
 
 (3)–(4)[^2]
 
-(5) Azokban az esetekben, amikor az 1. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
+(5)[^3]
 
 [^1]: Az 1. § (1) bekezdése a 207/2011. (X. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (3)–(4) bekezdését a 72/2015. (III. 30.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^3]: Az 1. § (5) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 33. § a) pontja hatályon kívül helyezte.
