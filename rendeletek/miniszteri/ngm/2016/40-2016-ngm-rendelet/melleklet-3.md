@@ -58,7 +58,7 @@
 
 ## aláírás
 
-3. melléklet a 40/2016. (XI. 17.) NGM rendelethez
+3. melléklet a 40/2016. (XI. 17.) NGM rendelethez[^16]
 
 ## A vámjogi szakértői hatósági vizsga személyi és tárgyi feltétele, eljárásrendje
 
@@ -82,7 +82,7 @@ c) aki a hatósági vizsga térítési díját a jelentkezéskor megadott fizet�
 
 3. A vizsga menete
 
-3.1. Az írásbeli vizsgán a képzésben részt vevő vizsgatesztet tölt ki. A vizsgateszt kitöltésére a rendelkezésre álló idő maximum 120 perc. A vizsgateszt kérdései a 1. melléklet szerinti képzési követelményeknek való megfelelés ellenőrzésére irányulnak. A vizsgázók vizsgatesztjét a nyilvántartásba vételt végző szervezet által közzétett kérdéstárból véletlenszerűen kiválasztva, vizsgatárgykörönként 3 kérdés szerepeltetésével állítja össze az írásbeli vizsgát felügyelő vizsgabiztos és a képző szerv.
+3.1. Az írásbeli vizsgán a képzésben részt vevő vizsgatesztet tölt ki. A vizsgateszt kitöltésére a rendelkezésre álló idő maximum 120 perc. A vizsgateszt kérdései a 1. melléklet szerinti képzési követelményeknek való megfelelés ellenőrzésére irányulnak. A vizsgázók vizsgatesztjét a nyilvántartásba vételt végző szervezet által közzétett kérdéstárból véletlenszerűen kiválasztva, vizsgatárgykörönként 7 kérdés szerepeltetésével állítja össze az írásbeli vizsgát felügyelő vizsgabiztos és a képző szerv.
 
 3.2. A vizsgacsoportokat a képző szerv alakítja ki. Egy adott vizsganapra vizsgacsoportok 9.00–16.00 óráig szervezhetők. A konkrét vizsgabeosztást a képzésben részt vevő számára – a részletes tájékoztató alapján – a vizsgát megelőző 8 naptári napon belül elektronikus üzenetben kell megküldeni.
 
@@ -155,3 +155,5 @@ b) Szóbeli vizsga:
 50,00%–89,99% „Megfelelt”
 
 0%–49,99% „Nem felelt meg”.
+
+[^16]: A 3. melléklet a 48/2017. (XII. 29.) NGM rendelet 19. § e) pontja szerint módosított szöveg.

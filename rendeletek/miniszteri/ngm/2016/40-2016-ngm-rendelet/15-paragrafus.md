@@ -14,8 +14,10 @@ b) panaszát a vizsgát követő 5 napon belül elektronikus üzenetben benyújt
 
 (4) A nyilvántartásba vételt végző szervezet a panaszt vagy a fellebbezést annak beérkezését követő 10 napon belül elbírálja, és – a képző szerv egyidejű tájékoztatása mellett – írásban értesíti a panasz vagy a fellebbezés előterjesztőjét a döntéséről.
 
-(5) Javítóvizsgát az tehet, aki korábban sikertelen vizsgát tett vagy a vizsgán igazolható ok nélkül nem jelent meg.
+(5)[^12] Javítóvizsgát az tehet, aki korábban sikertelen vizsgát tett vagy a vizsgán igazolható ok nélkül nem jelent meg. A szóbeli vizsgarész sikertelensége esetén az írásbeli vizsgarész tekintetében nem kell javítóvizsgát tenni.
 
 (6) Pótlóvizsgát az tehet, aki a vizsgát igazolható okból nem kezdte meg, vagy a 3. melléklet 3.10. pont c) alpontja szerint nem fejezte be. A pótlóvizsgára jelentkezés térítésmentes.
 
 (7) Javító- és pótlóvizsgára a képzésben részt vevő a képzési szervvel történő egyeztetés alapján jelentkezhet a 2. melléklet szerinti jelentkezési lap kitöltésével, javítóvizsga esetén a vizsgadíj ismételt megfizetésének igazolásával.
+
+[^12]: A 15. § (5) bekezdése a 48/2017. (XII. 29.) NGM rendelet 18. § (4) bekezdésével megállapított szöveg.

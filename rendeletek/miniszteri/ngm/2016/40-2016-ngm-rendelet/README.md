@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-40-20-2
 | --- | --- | --- |
 | 2016-12-18 | 2016-40-20-2X.1 | 40/2016. (XI. 17.) NGM rendelet |
 | 2017-11-07 | 2016-40-20-2X.2 | 37/2017. (XI. 6.) NGM rendelet |
+| 2018-01-01 | 2016-40-20-2X.3 | 48/2017. (XII. 29.) NGM rendelet |

@@ -6,4 +6,6 @@
 
 (4) Az elveszett vagy megsemmisült tanúsítvány pótlására – erre irányuló kérelem esetén – a képző szerv másodlatot állít ki, amelyet a vizsgázó a 4. mellékletben meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet. Ha képző szerv a 2. § (4) bekezdés b) pontja alapján kerül törlésre a képző szervek nyilvántartásából, úgy a másodlatot a nyilvántartásba vételt végző szervezet a nyilvántartásában rendelkezésre álló adatok alapján állítja ki.
 
-(5) A vizsga sikeres letételét igazoló tanúsítványokra – ha e rendelet eltérően nem rendelkezik – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági bizonyítványra vonatkozó szabályait kell alkalmazni.
+(5)[^11]
+
+[^11]: A 12. § (5) bekezdését a 48/2017. (XII. 29.) NGM rendelet 20. § b) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-4. melléklet a 40/2016. (XI. 17.) NGM rendelethez[^2]
+4. melléklet a 40/2016. (XI. 17.) NGM rendelethez[^17]
 
 Tanúsítvány a vámjogi szakértői hatósági vizsgáról
 
@@ -52,4 +52,4 @@ Date:
 
 Stamp and signature
 
-[^2]: A 4. melléklet a 37/2017. (XI. 6.) NGM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^17]: A 4. melléklet a 37/2017. (XI. 6.) NGM rendelet 12. § (2) bekezdésével megállapított szöveg.

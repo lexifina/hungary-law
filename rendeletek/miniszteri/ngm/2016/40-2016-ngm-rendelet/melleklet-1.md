@@ -1,6 +1,6 @@
 ## 19. § Ez a rendelet az Uniós Vámkódex létrehozásáról szóló 952/2013/EU európai parlamenti és tanácsi rendelet egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2015. november 24-i 2447/2015/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 40/2016. (XI. 17.) NGM rendelethez[^1]
+1. melléklet a 40/2016. (XI. 17.) NGM rendelethez[^14]
 
 ## A vámjogi szakértői hatósági vizsga követelményei
 
@@ -156,7 +156,7 @@
 
 4.2.5. AES
 
-4.3. Informatikai fejlesztések az Uniós Vámkódex munkaprogramjának létrehozásáról szóló 2014/255/EU számú bizottsági határozat alapján
+4.3.[^15] Informatikai fejlesztések az Uniós Vámkódex munkaprogramjának létrehozásáról szóló bizottsági határozat alapján
 
 4.4. EKAER feladatkörök és működési mechanizmus általános ismertetése
 
@@ -254,4 +254,5 @@
 
 7.5. Biztonsági papírok forgalmának ellenőrzése pontokkal
 
-[^1]: Az 1. melléklet a 37/2017. (XI. 6.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 1. melléklet a 37/2017. (XI. 6.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 1. melléklet 4. pont 4.3. alpontja a 48/2017. (XII. 29.) NGM rendelet 20. § c) pontja szerint módosított szöveg.
