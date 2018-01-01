@@ -1,0 +1,1 @@
+A Kormány a közvetítői tevékenységről szóló 2002. évi LV. törvény 40/A. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
