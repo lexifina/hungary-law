@@ -14,7 +14,7 @@
 
 | 6 | Termelői csoport tagság** | A termelői csoport igazolása | 10 |
 
-| 7 | Fiatal mezőgazdasági termelő | MVH/IH adatbázis alapján | 10 |
+| 7 | Fiatal mezőgazdasági termelő | Kincstár/IH adatbázis alapján | 10 |
 
 | 8 | Szaktanácsadóval kötött szerződés | szerződés másolata | 5 |
 
@@ -24,11 +24,11 @@
 
 | 11 | Takarmányozási kötelezettség vállalása | 5 |
 
-| 12 | Az NVT Európai Unió környezetvédelmi, állatjóléti és -higiéniai előírásainak való megfeleléshez nyújtott támogatások intézkedésben való részvétel | MVH adatbázis | 5 |
+| 12 | Az NVT Európai Unió környezetvédelmi, állatjóléti és -higiéniai előírásainak való megfeleléshez nyújtott támogatások intézkedésben való részvétel | Kincstár adatbázis | 5 |
 
-| 13 | Az ÚMVP állattartó telepek korszerűsítéséhez nyújtandó támogatások intézkedésben való részvétel | MVH adatbázis | 5 |
+| 13 | Az ÚMVP állattartó telepek korszerűsítéséhez nyújtandó támogatások intézkedésben való részvétel | Kincstár adatbázis | 5 |
 
-| 14 | Az ÚMVP agrár-környezetgazdálkodási támogatás gyepgazdálkodási célprogramcsoportban való részvétel | MVH adatbázis | 5 |
+| 14 | Az ÚMVP agrár-környezetgazdálkodási támogatás gyepgazdálkodási célprogramcsoportban való részvétel | Kincstár adatbázis | 5 |
 
 | 15 | Mindösszesen |  | max. 100 pont |
 

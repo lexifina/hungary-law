@@ -1,6 +1,6 @@
 ## 4/A. §[^12] Az adott támogatott tenyészet vonatkozásában a teljes gazdálkodási évre vonatkozóan új tartási helyek bevonására legkésőbb a tartási helyeknek a kifizetési kérelemben való bejelentésével kerülhet sor.
 
-4/B. §[^13] (1) A támogatási időszak alatt a tenyészetek a teljes gazdálkodási évre vonatkozóan összevonhatóak. A változást az MVH által rendszeresített nyomtatványon a változást legkésőbb a kifizetési kérelem benyújtásával egyidejűleg be kell jelenteni.
+4/B. §[^13] (1)[^14] A támogatási időszak alatt a tenyészetek a teljes gazdálkodási évre vonatkozóan összevonhatóak. A változást a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített nyomtatványon a változást legkésőbb a kifizetési kérelem benyújtásával egyidejűleg be kell jelenteni.
 
 (2) Tenyészetek összevonásának minősül, ha a TIR-ben
 
@@ -16,3 +16,4 @@ d) egy vagy több támogatott tenyészetet egy vagy több nem támogatott tenyé
 
 [^12]: A 4/A. §-t a 13/2014. (II. 24.) VM rendelet 8. §-a iktatta be.
 [^13]: A 4/B. §-t a 13/2014. (II. 24.) VM rendelet 9. §-a iktatta be.
+[^14]: A 4/B. § (1) bekezdése a 37/2017. (XII. 27.) MvM rendelet 22. § a) pontja szerint módosított szöveg.

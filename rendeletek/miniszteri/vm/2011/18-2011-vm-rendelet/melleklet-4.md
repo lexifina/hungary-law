@@ -14,7 +14,7 @@
 
 | 6 | mezőgazdasági mérnöki (F) agrármérnöki (E) | mezőgazdasági mérnöki | agrármérnöki | – |
 
-4. melléklet a 18/2011. (III. 9.) VM rendelethez
+4. melléklet a 18/2011. (III. 9.) VM rendelethez[^61]
 
 ## A támogatási kérelmek elbírálása során elfogadható szakképesítések
 
@@ -101,3 +101,5 @@
 | 1 | Szakképesítés azonosító száma | Megnevezése |
 
 | 2 | 1801–2 | Szarvasmarhatenyésztő |
+
+[^61]: [A 4. mellékletnek a 37/2017. (XII. 27.) MvM rendelet 22. § j) pontjával elrendelt módosítása, amely szerint az „Értékelési szempontok” című táblázat B:7, B:12, B:13, valamint B:14 mezőjében az „MVH” szövegrész helyébe a „Kincstár” szöveg lép, nem vezethető át.]

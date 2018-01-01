@@ -1,3 +1,5 @@
+## 15–17. §[^28]
+
 ## 14. A támogatási kérelem elbírálása
 
 18. § (1) A jogosult ÁE-et
@@ -27,3 +29,5 @@ b) a támogatási kérelemben bejelentett legelőterület
 alapján kell megállapítani a 11. § (1) bekezdésben meghatározott maximális legelőterhelés figyelembevételével.
 
 (4) A 11. § (1) bekezdés szerinti állatsűrűségi feltétel számítása esetén két tizedes jegyre történő kerekítést kell alkalmazni.
+
+[^28]: A 15–17. §-t a 37/2017. (XII. 27.) MvM rendelet 23. §-a hatályon kívül helyezte.

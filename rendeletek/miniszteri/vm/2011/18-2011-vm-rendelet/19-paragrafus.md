@@ -1,4 +1,4 @@
-19. § (1) A támogatási kérelmeket az MVH a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 32. § (1) bekezdésének c) pontja szerint rangsor állításával bírálja el, a 2. melléklet szerinti pontrendszer alapulvételével.
+19. § (1)[^29] A támogatási kérelmeket a Kincstár a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 32. § (1) bekezdésének c) pontja szerint rangsor állításával bírálja el, a 2. melléklet szerinti pontrendszer alapulvételével.
 
 (2) A 3. melléklet szerinti felsőfokú vagy a 4. melléklet szerinti középfokú agrárvégzettség után a 2. mellékletben meghatározott többletpont természetes személyeknek és gazdasági társaságoknak kerül beszámításra. Gazdasági társaság esetében a társaság vezető tisztségviselőjének, alkalmazottjának vagy tagjának a 3. melléklet szerinti felsőfokú vagy a 4. melléklet szerinti középfokú agrárvégzettsége alapján adható többletpont. Családi gazdaságok esetében a felsőfokú agrárvégzettség után járó többletpont akkor kerül beszámításra, ha a családi gazdaság vezetője vagy a családi gazdaság tagja rendelkezik a szakirányú végzettséggel.
 
@@ -17,3 +17,5 @@ c) a családi gazdaság nyilvántartásba vételéről szóló határozat másol
 (6) A 3. melléklet szerinti felsőfokú vagy a 4. melléklet szerinti középfokú agrárvégzettség után a 2. melléklet alapján járó többletpont támogatási kérelmet benyújtónként csak egy személyre vonatkozóan adható.
 
 (7) Azon felsőfokú agrárvégzettségek esetében, amelyek nem szerepelnek a 3. mellékletben, de az azoknak megfeleltethető középfokú végzettség szerepel a 23/2007. (IV. 17.) FVM rendelet 5/a. számú mellékletében, a középfokú agrárvégzettségért járó többletpont kerül beszámításra.
+
+[^29]: A 19. § (1) bekezdése a 37/2017. (XII. 27.) MvM rendelet 22. § e) pontja szerint módosított szöveg.
