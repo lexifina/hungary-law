@@ -9,3 +9,7 @@
 (3) Az 5. § (1) bekezdése szerinti átminősítés vagy új álláshely létrehozása az eredeti rendvédelmi szerv feladata. E rendelkezés nem zárja ki, hogy vezényeltet fogadó rendvédelmi szerv felajánlja, hogy a vezényeltet fogadó rendvédelmi szervnél kerüljön sor az átminősítésre vagy új álláshely létrehozására.
 
 (4) A 23. § (1) bekezdésében szabályozott eljárásban a vezényeltet fogadó szerv humánigazgatási szakszolgálata együttműködik az eredeti rendvédelmi szerv központi humánigazgatási szakszolgálatával.
+
+(5)[^8] Az (1)–(4) bekezdés rendelkezéseit a Hszt. 51. § (3) bekezdés a) pontja alapján a Nemzeti Közszolgálati Egyetemre vezényeltekre is megfelelően alkalmazni kell.
+
+[^8]: A 26. § (5) bekezdését a 40/2017. (XII. 29.) BM rendelet 16. § (4) bekezdése iktatta be.
