@@ -10,7 +10,5 @@ a) nem nyújt be az adott naptári évre kifizetési kérelmet, vagy
 
 b) a benyújtott kifizetési kérelme teljes mértékben elutasításra kerül,
 
-a támogatásra jogosult adott célprogramra vonatkozó támogatási jogosultsága megszűnik, és az adott célprogramra vonatkozó, már igénybe vett teljes támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
-
 [^54]: A 28. § (1) bekezdése a 112/2011. (XI. 24.) VM rendelet 12. §-ával megállapított szöveg.
 [^55]: A 28. § (4) bekezdése a 78/2012. (VII. 27.) VM rendelet 4. §-ával megállapított szöveg.

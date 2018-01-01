@@ -1,4 +1,4 @@
-## 0M12834B_0
+## A támogatás mértéke
 
 |  | A | B |
 
@@ -34,7 +34,7 @@
 
 4. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^72]
 
-A tenyésztési program ellenőrzésének szempontjai az egyes fajták esetében
+## A tenyésztési program ellenőrzésének szempontjai az egyes fajták esetében
 
 1. A magyar szürke szarvasmarha
 

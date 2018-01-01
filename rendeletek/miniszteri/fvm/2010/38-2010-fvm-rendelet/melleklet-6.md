@@ -1,3 +1,5 @@
+## Értékelési szempontok
+
 |  | A | B | C |  |
 
 | 1 | Értékelési szakmai szempont megnevezése, értéke | Értékelés/ ellenőrzés módja | Pontszám |  |
@@ -12,7 +14,7 @@
 
 | 6 | Megfelelt | 10 |
 
-| 7 | NVT AKG őshonos célprogramokban való részvétel, az adott fajtára vonatkozóan | – | MVH adatbázis | 15 |
+| 7 | NVT AKG őshonos célprogramokban való részvétel, az adott fajtára vonatkozóan | – | Kincstár adatbázis | 15 |
 
 | 8 | Termelői csoport tagság (termékcsoportnak megfelelően)** | – | A termelői csoport igazolása | 5 |
 
@@ -28,7 +30,7 @@
 
 | 14 | <= 50,0% |  | 10 |
 
-| 15 | Az ÚMVP Agrár-környezetgazdálkodási Programban való részvétel |  | MVH adatbázis | 10 |
+| 15 | Az ÚMVP Agrár-környezetgazdálkodási Programban való részvétel |  | Kincstár adatbázis | 10 |
 
 | 16 | Mindösszesen | max. 100 pont |  |  |
 
@@ -37,5 +39,3 @@
 ## ** csőd-, felszámolási és végelszámolási eljárás alatt nem álló termelői csoport, termelő szervezet
 
 6. melléklet a 38/2010. (IV. 15.) FVM rendelethez
-
-A támogatási kérelmek elbírálása során elfogadható felsőfokú agrárvégzettségek a felsőoktatási alap és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005 (XII. 22.) Korm. rendelet alapján
