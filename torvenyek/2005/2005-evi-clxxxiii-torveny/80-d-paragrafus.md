@@ -8,6 +8,6 @@
 
 (5) A közlekedési hatóság, vagy a kamara a vasúti közlekedési szakértői tevékenység időtartama alatt folytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az engedéllyel rendelkező vasúti közlekedési szakértő büntetlen előéletű-e, és nem áll-e a vasúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a közlekedési hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az engedéllyel rendelkező vasúti közlekedési szakértő büntetlen előéletű-e, valamint, hogy a vasúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
-(6) A (4) és (5) bekezdés szerinti személyes adatokat a közlekedési hatóság, vagy a kamara a vasúti közlekedési szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
+(6) A (4) és (5) bekezdés szerinti személyes adatokat a közlekedési hatóság, vagy a kamara a vasúti közlekedési szakértő nyilvántartásból való törléséről szóló döntés véglegessé válásáig kezeli.
 
 (7) Ha hatósági eljárásban vasúti közlekedési szakkérdésben szakértő kirendelése szükséges, és jogszabály meghatározott szakértő igénybevételét nem írja elő, e § szerinti szakértőt, ennek hiányában az igazságügyi szakértői tevékenységről szóló törvény szerinti igazságügyi szakértői tevékenység végzésére jogosult szakértőt kell kirendelni.

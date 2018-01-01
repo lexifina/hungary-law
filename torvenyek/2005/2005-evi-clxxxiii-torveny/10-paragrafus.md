@@ -2,7 +2,7 @@
 
 10. § (1) E törvény alapján műszaki hatósági engedély (a továbbiakban: műszaki engedély) szükséges
 
-a) jogszabály eltérő rendelkezése hiányában a vasúti pálya és tartozékai építéséhez, létesítéséhez, korszerűsítéséhez, átalakításához, használatbavételéhez, fennmaradásához és megszüntetéséhez,
+a) jogszabály eltérő rendelkezése hiányában a vasúti pálya és tartozékai – ideértve a trolibusz felsővezetékét is – építéséhez, létesítéséhez, korszerűsítéséhez, átalakításához, használatbavételéhez, fennmaradásához és megszüntetéséhez,
 
 b) jogszabály eltérő rendelkezése hiányában vasúti jármű típusának engedélyezéséhez és a vasúti jármű üzembe helyezéséhez, valamint vasúti jármű – a vasúti járművek üzembe helyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló rendeletben meghatározott – átalakításához, felújításához és korszerűsítéséhez,
 
@@ -12,4 +12,4 @@ d) vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyom
 
 e) vasúti járművek, vasúti járművek közlekedésbiztonsági berendezései (futómű, fék, kocsiszekrény, vonatbefolyásoló berendezés) javítását, karbantartását és időszakos vizsgálatát végző személyek és szervezetek tevékenységéhez.
 
-(2) A műszaki engedélyt a vasúti közlekedési hatóság (a továbbiakban: közlekedési hatóság) – külön jogszabályban meghatározottak szerint – adja ki.
+(2) A műszaki engedélyt a közlekedési hatóság – e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feltételek szerint – adja ki.

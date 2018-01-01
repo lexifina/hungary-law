@@ -1,0 +1,5 @@
+84/P. § (1) A közlekedési hatóság személyes adatokat a különleges kötöttpályás közlekedés zavartalanságának biztosítása, a különleges kötöttpályás közlekedés biztonságának fenntartása, valamint a 84/J. § (1) bekezdés a) pontjában meghatározott feladatok ellátása érdekében kezeli.
+
+(2) Az (1) bekezdésben meghatározott személyes adatokat a közlekedési hatóság a különleges kötöttpályás közlekedés biztonsági követelmények érvényesítése céljából a munkavégzésre való alkalmasság megállapítása, a vasúti közlekedés biztonságának folyamatos fenntartása, valamint a 84/J. § (1) bekezdés a) pontjában meghatározott feladat ellátása érdekében kezeli.
+
+(3) A 84/J. § (1) bekezdés a) pontjában meghatározott esetben az (1) bekezdésben meghatározott adatokat a közlekedési hatóság addig az időpontig tartja nyilván, amíg az érintett természetes személy a különleges kötött pályát üzemelteti vagy az üzemeltető szervezet vezető tisztségviselője, valamint a különleges kötöttpályás közlekedési tevékenység szakmai irányítását ellátja.

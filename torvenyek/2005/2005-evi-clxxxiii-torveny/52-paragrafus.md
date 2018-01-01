@@ -4,7 +4,7 @@
 
 (2) A hozzáférésre jogosult a részére biztosított vasúti pályahálózat-kapacitást harmadik személyre nem ruházhatja át és azzal nem kereskedhet. Nem minősül átruházásnak, ha a hozzáférésre jogosult a kapacitást kapacitásfoglalásra jogosult kijelölése alapján használja.
 
-(3) A (2) bekezdésben meghatározott tilalomba ütköző magatartást tanúsító hozzáférésre jogosult számára a jogsértést megállapító határozat jogerőre emelkedésétől számított 3 évig vasúti pályahálózat-kapacitás nem biztosítható.
+(3) A (2) bekezdésben meghatározott tilalomba ütköző magatartást tanúsító hozzáférésre jogosult számára a jogsértést megállapító határozat véglegessé válásától számított 3 évig vasúti pályahálózat-kapacitás nem biztosítható.
 
 (4) Az adott pályahálózat-kapacitás menetvonal formájában legfeljebb egy üzemi menetrend érvényességi időszakára adható a kapacitásigénylőnek.
 

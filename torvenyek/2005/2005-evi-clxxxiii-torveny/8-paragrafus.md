@@ -12,4 +12,4 @@ kapcsolatos, a vasúti társaságok működésének engedélyezéséről szóló
 
 (2) Az (1) bekezdés szerinti feltételek fennállásának igazolása érdekében a működési engedély iránti kérelmet előterjesztő gazdálkodó szervezet köteles a vasúti igazgatási szerv részére a vasúti társaságok működésének engedélyezéséről szóló rendeletben meghatározott információkat rendelkezésre bocsátani.
 
-(3) Az országos vasúti személyszállítási működési engedéllyel rendelkező vasúti társaságnak a pénzügyi teljesítőképességét a vasúti személyszállítási közszolgáltatási szerződéssel nem fedezett tevékenységre vonatkozóan kell igazolnia.
+(3) Az országos vasúti személyszállítási működési engedéllyel rendelkező, továbbá a vasúti személyszállítási tevékenységet vasút-villamossal országos vasúti pályahálózat igénybevételével végző vasúti társaságnak a pénzügyi teljesítőképességét csak a vasúti személyszállítási közszolgáltatási szerződéssel nem fedezett tevékenységre vonatkozóan kell igazolnia.

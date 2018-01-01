@@ -6,7 +6,9 @@
 
 (3) A közlekedési hatóság ügyintézési határideje a kérelemre indult, a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban, és az ellenőrzési eljárásokban két hónap. A vasúti pálya létesítésével, korszerűsítésével, átalakításával, használatbavételével, valamint a vasúti járművek típusengedélyezésével összefüggő hatósági eljárások ügyintézési határideje négy hónap. Az eljárás megindításáról az ügyfeleket és az érdekelteket a közlekedési hatóság a kérelem beérkezésétől számított tizenöt napon belül értesíti. A vasúti szakhatósági eljárás ügyintézési határideje huszonegy nap.
 
-(4) Az országos, térségi, elővárosi és helyi vasúti pályahálózatba tartozó vasúti pálya és tartozékai, valamint vasúti üzemi létesítmény engedélyezésével kapcsolatos jogerős határozattal szemben újrafelvételi kérelem nem nyújtható be.
+(3a) A 80. § (1) bekezdés l) pontja szerinti járművezetői engedély kiadásának ügyintézési határideje az összes szükséges dokumentum beérkezésének napjától számított egy hónapot nem haladhatja meg.
+
+(4) A vasúti közlekedési hatóság által meghozott elsőfokú hatósági döntések végrehajtása esetén – a pénzfizetési kötelezettséget megállapító hatósági döntések kivételével – a végrehajtást foganatosító szerv az elsőfokon eljárt hatóság.
 
 (5) A közlekedési hatóság a vasútbiztonság körébe tartozó feladatait nem ruházhatja át, és annak elvégzésére más szervezetet – közigazgatási szerv kivételével – nem kérhet fel.
 

@@ -1,6 +1,6 @@
 ## A felszín alatti vasúti pályahálózatra vonatkozó eltérő rendelkezések
 
-85/I. § (1) Az országos, a térségi, az elővárosi, városi és helyi vasúti pályahálózathoz tartozó vasúti pálya és tartozékainak létesítője jogerős hatósági építési és műszaki engedély birtokában jogosult a nyomvonal által érintett ingatlant – annak felszíne alatt – felszín alatti vasúti pálya és tartozékai létesítésére és üzemeltetésére igénybe venni (a továbbiakban: felszín alatti vasút-létesítési jog).
+85/I. § (1) Az országos, a térségi, az elővárosi, városi és helyi vasúti pályahálózathoz tartozó vasúti pálya és tartozékainak létesítője végleges hatósági építési és műszaki engedély birtokában jogosult a nyomvonal által érintett ingatlant – annak felszíne alatt – felszín alatti vasúti pálya és tartozékai létesítésére és üzemeltetésére igénybe venni (a továbbiakban: felszín alatti vasút-létesítési jog).
 
 (2) A felszín alatti vasúti pálya és tartozékainak létesítése és üzemeltetése fontos közérdekű tevékenység. Az ingatlan tulajdonosa köteles tűrni az igénybevételt.
 

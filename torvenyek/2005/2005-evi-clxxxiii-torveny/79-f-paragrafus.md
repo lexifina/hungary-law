@@ -8,6 +8,12 @@ c) a tevékenység végzésének feltételeit megállapítja,
 
 d) a jogsértő magatartás folytatását megtiltja.
 
+(1a) A vasúti igazgatási szerv figyelmeztetést is alkalmazhat, ha a kötelezettségek megszegése a közlekedésbiztonságot nem veszélyeztette, és a jogsértő a jogsértést
+
+a) a helyszínen megszüntette, vagy
+
+b) megelőzően hat hónapon belül azonos jogsértést nem követett el.
+
 (2) A kötelezettségek súlyos és ismétlődő megszegése esetén – ha az (1) bekezdésben meghatározott jogkövetkezmények nem vezettek eredményre – a vasúti igazgatási szerv felfüggesztheti vagy visszavonhatja a működési engedélyt.
 
 (3) A vasúti igazgatási szerv biztosítja, hogy a pályahálózat-működtető által megállapított hálózat-hozzáférési díjak megfeleljenek a Hálózati Üzletszabályzat díjképzési elvekkel és díjakkal foglalkozó szakasz rendelkezéseinek, és hátrányos megkülönböztetéstől mentesek legyenek. A hálózat-hozzáférési díjak mértékéről szóló tárgyalások csak a vasúti igazgatási szerv képviselőinek jelenlétében folyhatnak. A vasúti igazgatási szerv a tárgyalás folytatását megtilthatja, ha a tárgyalás bármely vasúti társaságra nézve hátrányos megkülönböztetésre vezet.

@@ -12,7 +12,7 @@ b) a GSM-R rendszerhálózat létesítését az a) pontban meghatározottakon k�
 
 (3a) A NIF Zrt. a beruházás előkészítéseként teljeskörűen elkészítteti a szükséges terveket, tanulmányokat. A NIF Zrt. ügyfélként részt vesz a hatósági eljárásokban, saját nevére megszerzi vagy megszerezteti az építési engedélyeket, elvégzi vagy elvégezteti a munkaterület előkészítését (beleértve különösen a területszerzést, a régészeti feltárást és a közműkiváltást vagy -fejlesztést), továbbá lefolytatja a közbeszerzési eljárásokat. A NIF Zrt. építési és egyéb szerződéseket köt a megvalósításra, gondoskodik az építés ideje alatt a műszaki ellenőri tevékenység ellátásáról, valamint lebonyolítja az átadás-átvételt. A NIF Zrt.-re mint építtetőre egyebekben az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény rendelkezései az irányadók.
 
-(4) A vasúti társaság a tulajdonosi jogkörében, vagyonkezelésében vagy vagyonműködtetésében álló területen megvalósuló vasútfejlesztés esetén a beruházás jogerős használatbavételéig a beruházás megvalósításához szükséges beavatkozásokat tűrni köteles.
+(4) A vasúti társaság a tulajdonosi jogkörében, vagyonkezelésében vagy vagyonműködtetésében álló területen megvalósuló vasútfejlesztés esetén a beruházás végleges döntés alapján történő használatbavételéig a beruházás megvalósításához szükséges beavatkozásokat tűrni köteles.
 
 (5) Az e §-ban valamint a 44/A. §-ban szabályozott vagyonkezelői, vagyonműködtetési jog ingatlan-nyilvántartásban történő bejegyzésére, törlésére, egyéb módon történő átvezetésére irányuló eljárások mentesek az igazgatási szolgáltatási díj fizetése alól.
 

@@ -4,9 +4,7 @@ a) kizárólag iparvágányt működtető pályahálózat-működtető,
 
 b) kizárólag saját célú vasúti pályahálózatot működtető pályahálózat-működtető,
 
-c) kisvasutat üzemeltető,
-
-d) múzeumvasutat üzemeltető,
+c)–d)
 
 amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelkezik, 2015. december 1-jéig köteles a közlekedési hatóság részére bejelenteni, hogy tevékenységét változatlan formában tovább kívánja folytatni.
 

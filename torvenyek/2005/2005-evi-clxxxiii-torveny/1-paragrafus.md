@@ -12,7 +12,7 @@ b) a Magyarország területén folytatott vasúti közlekedést irányító, mű
 
 c) az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatásokra és az ilyen szolgáltatást végző vasúti munkavállalókra,
 
-d)
+d) a trolibusz felsővezetékének engedélyezésére
 
 terjed ki.
 

@@ -10,7 +10,7 @@
 
 1.3. keresztfinanszírozás tilalma: az egyik vasúti tevékenységi területre kifizetett állami pénzeszközöknek vagy erről a vasúti tevékenységi területről származó bevételeknek más vasúti tevékenységi területre történő átirányításának tilalma;
 
-1.4. keskeny nyomtáv: a normál nyomtávnál keskenyebb nyomtáv;
+1.4. keskeny nyomtáv: a nyomtáv névleges mérete nagyobb, mint 184 mm, de kisebb, mint 1435 mm;
 
 1.5. működési engedély: egy gazdálkodó szervezetnek az engedélyező hatóság által kiadott felhatalmazása, elismerve annak vasúti szolgáltatások nyújtására vasúti társaságként való alkalmasságát; az alkalmasság korlátozható a szállítási szolgáltatások bizonyos típusainak nyújtására;
 
@@ -22,7 +22,9 @@
 
 1.9. térségi szolgáltatás: az a szolgáltatás, amely esetében a szolgáltatással érintett pályahálózat hossza nem haladja meg a 400 kilométert, vagy amely legfeljebb három megyét érint;
 
-1.10. vasúti jármű: a vasúti pályán közlekedő vontató, vontatott vagy önjáró, saját kerekein a vasúti sínen közlekedő jármű. A vasúti pályán történő közlekedés esetén vasúti járműnek minősül a kétéltű jármű is az alkalmazott forgalmi szabályok, valamint a vasúti járművezetőre vonatkozó képzési feltételek szempontjából. A transzeurópai hagyományos és nagy sebességű vasúti rendszerben a vasúti jármű az Átjárhatósági Műszaki Előírások szerinti egy vagy több alrendszerből, vagy ezen alrendszerek egy vagy több részéből áll.
+1.10. vasúti jármű: a vasúti pályán közlekedő vontató, vontatott vagy önjáró, saját kerekein a vasúti sínen közlekedő jármű. A vasúti pályán történő közlekedés esetén vasúti járműnek minősül a kétéltű jármű is az alkalmazott forgalmi szabályok, valamint a vasúti járművezetőre vonatkozó képzési feltételek szempontjából. A transzeurópai hagyományos és nagy sebességű vasúti rendszerben a vasúti jármű az Átjárhatósági Műszaki Előírások szerinti egy vagy több alrendszerből, vagy ezen alrendszerek egy vagy több részéből áll;
+
+1.11. vasút-villamos (tram-train): az országos vasúti pályahálózaton és városi, helyi vagy elővárosi vasúti pályahálózaton való közlekedésre egyaránt alkalmas vasúti jármű.
 
 2. Vasúti pályákkal, vasúti létesítményekkel, vasúti pályahálózatokkal és azok létesítésével kapcsolatos fogalmak:
 
@@ -42,7 +44,7 @@
 
 2.8. iparvágány: a mezőgazdasági vagy ipari üzem és létesítmény, ipari park területén lévő nem állami tulajdonú vágány vagy vasútvonal, amely fő feladata a gazdasági tevékenységhez szükséges nyersanyag, félkész- és késztermék szállításához szükséges vasúti összeköttetés biztosítása;
 
-2.9. karbantartó létesítmény: a közlekedési hatóság által a vasúti járművek javítását, karbantartását végző szervezetek (karbantartó műhelyek) engedélyezéséről és nyilvántartásáról szóló rendelet szerint engedélyezett vasúti műhely;
+2.9. karbantartó létesítmény: a vasúti közlekedési hatóság (a továbbiakban: közlekedési hatóság) által a vasúti járművek javítását, karbantartását végző szervezetek (karbantartó műhelyek) engedélyezéséről és nyilvántartásáról szóló rendelet szerint engedélyezett vasúti műhely;
 
 2.10. kiszolgáló létesítmény: olyan létesítmény – a földterületet, épületet és berendezést is beleértve –, amelyet egészében vagy részben úgy alakítottak ki, hogy az lehetővé tegye a 2. melléklet 2–4. pontja szerinti szolgáltatás nyújtását;
 
@@ -87,6 +89,8 @@ b) fizikai összeköttetésben van más vasúti pályahálózattal, azonban az �
 2.25. városi vasúti pályahálózat: városi vasúti szolgáltatás végzéséhez szükséges pályahálózat;
 
 2.26. vasúti tesztpálya: vasúti gördülőállomány, vasúti pálya és tartozékai, valamint a vasúti berendezések műszaki vizsgálatára, tesztelésére létesített különálló vasúti pályahálózat;
+
+2.26. vasút-villamos pályahálózat: az országos vasúti pályahálózat, a helyi, a városi és az elővárosi vasúti pályahálózat azon részeinek összessége, amelyen a vasút-villamos közlekedik, vagy vasút-villamossal szolgáltatást kívánnak végezni.
 
 3. A vasúti pályahálózati kapacitás elosztásával és a díjképzéssel kapcsolatos fogalmak:
 
@@ -138,7 +142,7 @@ e) vállalkozó vasúti társaságok nemzetközi csoportosulása;
 
 4.1. átmenő vasúti szolgáltatás: az Európai Unió területén keresztül történő vasúti áthaladás, amelynek során sem áruberakodás, sem árukirakodás, sem utasfelvétel, sem utasleszállás nem történik;
 
-4.2. elővárosi vasúti szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 70 km-es vonzáskörzete – a határokon átnyúló vonzáskörzeteket is beleértve – között végzett vasúti szállítási szolgáltatás;
+4.2. elővárosi vasúti szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 100 km-es vonzáskörzete – a határokon átnyúló vonzáskörzeteket is beleértve – között végzett vasúti szállítási szolgáltatás;
 
 4.3. helyi vasúti szolgáltatás: olyan elővárosi vasúti szolgáltatásnak nem minősülő vasúti szállítási szolgáltatás, amely fő célja a meghatározó részében egy település közigazgatási határán kívül fekvő, különálló vasúti pályahálózaton történő szállítási igények kielégítése;
 
@@ -174,7 +178,7 @@ d) a forgalomirányítás, az ellenőrző-irányító, biztosító- és a jelző
 
 4.15. vasúti személyszállítási szolgáltatás: a személyszállítási szolgáltatásokról szóló törvény szerinti vasúti személyszállítási szolgáltatás;
 
-4.16. vasút-villamos (Tram-train): az országos jelentőségű vasútvonalon és városi, helyi vagy elővárosi vasúti pályahálózaton egyaránt közlekedésre alkalmas vasúti járművek és e vasúti járművekkel a több pályahálózaton nyújtott személyszállítási szolgáltatás;
+4.16.
 
 4.17. vállalkozó vasúti tevékenység: a személyszállítási szolgáltatásokról szóló törvény szerinti vasúti személyszállítási szolgáltatás, vasúti árufuvarozás és vontatási szolgáltatás;
 
@@ -186,15 +190,11 @@ d) a forgalomirányítás, az ellenőrző-irányító, biztosító- és a jelző
 
 5.2. integrált vasúti társaság: olyan vállalkozó vasúti társaság, amely belföldön vasúti pályahálózat-működtetést is végez;
 
-5.3. kisvasút: kizárólag különálló, keskeny nyomtávú vasúti pályahálózaton vasúti tevékenységet végző integrált vasúti társaság, amely a következő tevékenységek közül egyet vagy egyszerre mindkettőt végzi:
-
-a) vasúti személyszállítási szolgáltatás turisztikai célból való nyújtása,
-
-b) mezőgazdasági-erdészeti társaságként áruszállítás végzése vagy ilyen társaság részére vasúti árufuvarozási szolgáltatás nyújtása;
+5.3.
 
 5.4. kiszolgáló létesítmény üzemeltetője: olyan természetes személy vagy gazdasági társaság, aki vagy amely egy vagy több kiszolgáló létesítmény üzemeltetéséért felel, vagy vállalkozó vasúti társaságok számára egy vagy több, a 2. melléklet 2–4. pontja szerinti szolgáltatást nyújt;
 
-5.5. múzeumvasút: a múzeum vagy muzeális intézmény üzemeltetésében álló vasúti pályahálózat és vasúti járművek;
+5.5.
 
 5.6. nem független pályahálózat-működtető: az a pályahálózat-működtető, amely a pályahálózat-működtető függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételekről szóló rendeletben meghatározott feltételeknek nem felel meg;
 
@@ -262,6 +262,8 @@ c) annak ellenőrzésére szolgáló módszerek, hogy a nagy sebességű és hag
 
 9.2. felszín alatti vasút: metró és a kéregvasút;
 
+9.2a. függővasút: olyan, személyszállításra vagy teherszállításra alkalmas közlekedési eszköz, amelynél a talajszint felett elhelyezett tartószerkezetre rögzített pályán személyeket vagy árukat szállító önjáró járműegységek függeszkedve mozognak;
+
 9.3. határforgalmi egyezmény: két vagy több tagállam között vagy tagállamok és harmadik országok között létrejött olyan megállapodás, amely célja a határokon átnyúló vasúti szolgáltatások nyújtásának az elősegítése;
 
 9.4. jelentős karbantartás: a transzeurópai nagy sebességű vasúti járművön végzett olyan munkálatok, amelyek nem tartoznak bele a mindennapos működés során rutinszerűen elvégzett karbantartásba, és szükségessé teszik a jármű szolgálatból való kivonását;
@@ -269,3 +271,49 @@ c) annak ellenőrzésére szolgáló módszerek, hogy a nagy sebességű és hag
 9.5. működőképes alternatíva: kiszolgáló létesítmény rendelkezésre állása hiányában egy másik kiszolgáló létesítményhez való hozzáférés, amely gazdaságilag elfogadható a vállalkozó vasúti társaság számára, és lehetővé teszi számára az érintett árutovábbítási vagy személyszállítási szolgáltatás működtetését;
 
 9.6. az átadás-átvétel fordulónapja: az eszközök rendeltetésszerű használatba vételének napja. A rendeltetésszerű használatba vétel napja a távközlő, erősáramú és biztosítóberendezési eszközök vonatkozásában az eszközök üzembe helyezésének dátuma, az egyéb eszközök vonatkozásában a sikeresen lezárt műszaki átadás-átvételi eljárás dátuma, ideértve a rész műszaki átadás-átvételeket is.
+
+9.6. trolibusz felsővezetéke: a trolibusz elektromos energiaellátását és forgalmának szabályozását biztosító közlekedési célú rendszer, különösen a munkavezetéket, föld- és légtápkábeleket, összekötő kábeleket, jelző- és biztosítóberendezéseket;
+
+9.7. veszélyhelyzet: kialakult vagy várható katasztrófa, rendkívüli esemény, súlyos káresemény.
+
+10. A különleges kötöttpályás közlekedéssel kapcsolatos fogalmak:
+
+10.1. hajtány: olyan, három- vagy többkerekű különleges könnyűszerkezetű kötöttpályás jármű, amelyet pályafelügyeleti, vagy turisztikai célra használnak és gépi vagy emberi erővel hajtanak meg;
+
+10.2. keskeny nyomtávolságú különleges kötöttpályás társaság: keskeny nyomtávú vasúti pályahálózaton legalább az alábbi tevékenységek egyikét végző szervezet:
+
+a) a keskeny nyomtávú vasúti pályahálózat működtetése,
+
+b) személyszállítási szolgáltatás turisztikai, vagy közszolgáltatási célból való nyújtása,
+
+c) áruszállítás végzése vagy árufuvarozási szolgáltatás nyújtása;
+
+10.3. különleges kötöttpálya: a különleges kötöttpályás közlekedési rendszer működéséhez szükséges szerkezet és földterület, valamint az azt hordozó és fő mozgásirányát meghatározó tartószerkezet;
+
+10.4. különleges kötöttpályás közlekedési rendszer: a keskeny nyomtávolságú vasút, a múzeumvasút, és a turisztikai hajtány;
+
+10.5. különleges kötöttpályás közlekedési tevékenység: a különleges kötött pályán a különleges kötöttpálya üzemeltetője vagy a tevékenység végzésére jogosult által díj ellenében végzett személyszállítás, vagy árufuvarozás, valamint kedvtelési vagy turisztikai célú közlekedési tevékenység, továbbá a saját maga részére végzett áruszállítás;
+
+10.6. különleges kötöttpályás közlekedési rendszer üzemeltetése: a különleges kötött pálya, valamint annak működéséhez szükséges eszközök üzem- és forgalombiztos-állapotban tartása, folyamatos működésének biztosítása és műszaki felügyelete;
+
+10.7. különleges kötöttpálya-hálózat működtetése: a keskeny nyomtávolságú és a múzeumvasút esetében
+
+a) a pályahálózat üzemeltetése (ide értve a vagyonkezelési, vagyonműködtetési tevékenységeket is) létesítése, felújítása, fejlesztése,
+
+b) a pályahálózat rendeltetésszerű használatának biztosítása és az ahhoz szükséges tevékenységek,
+
+c) a pályahálózat megszüntetése, és az ehhez közvetlenül kapcsolódó tevékenység, továbbá
+
+d) a forgalomirányítás, az ellenőrző-irányító, biztosító- és a jelzőrendszer működtetése;
+
+10.8. különleges kötöttpálya üzemeltetője: az a természetes személy vagy szervezet, aki, vagy amely a különleges kötöttpályás rendszer üzemeltetését végzi;
+
+10.9. különleges kötöttpályás üzemvezető: az a természetes személy, aki a különleges kötöttpályás közlekedési rendszer a közlekedési hatóság által jóváhagyott üzemeltetési szabályzat szerinti szabályos és biztonságos üzemeltetéséért, karbantartásáért, felülvizsgálatáért, valamint veszélyhelyzet esetén az utasok kimentéért felelős;
+
+10.10. múzeumvasút: a területén muzeális jellegű vasúti pályahálózatot működtető és muzeális jellegű vasúti járművekkel személyszállítási szolgáltatást nyújtó múzeum, muzeális intézmény, egyesület vagy a vasúti közlekedésről szóló törvény szerinti vasúti társaság;
+
+10.11. turisztikai hajtány: olyan hajtány amely elsődleges rendeltetése szerint turisztikai célok kiszolgálására készült és ezen cél szerint üzemeltetik (turisztikai kézi- vagy gépi hajtány, turisztikai sínbicikli, lábhajtány);
+
+10.12. turisztikai kézi- vagy gépi hajtány: az a turisztikai célból – nem a vasúti pályafelügyelet ellátása vagy a vasútvonalak állapotának ellenőrzése céljából – üzemeltetett hajtány, amelyet a jármű vezetője, utasa kézi vagy gépi erővel hajt meg;
+
+10.13. turisztikai sínbicikli, lábhajtány: az a turisztikai célból – nem a vasúti pályafelügyelet ellátása vagy a vasútvonalak állapotának ellenőrzése céljából – üzemeltetett hajtány, amelyet a jármű vezetője, utasa a hajtáslánc részeként lábbal hajt meg.

@@ -8,7 +8,7 @@ a) a műszaki engedély kiadása,
 
 b) a vasútbiztonsági tanúsítvány, kiegészítő tanúsítvány és a vasútbiztonsági engedély kiállítása, meghosszabbítása, módosítása és visszavonása, valamint az abban foglalt feltételek teljesítésének ellenőrzése,
 
-c) a képzési tevékenység folytatására irányuló bejelentések nyilvántartásba vétele, az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
+c) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzésére és vizsgáztatására vonatkozó rendelkezések munkavállalók, vállalkozó vasúti társaságok, pályahálózat-működtetők, oktatók, vizsgabiztosok és képzőszervek által történő betartásának rendszeres ellenőrzése, a képzési tevékenység folytatására irányuló bejelentések nyilvántartásba vétele, az alapképzés és az időszakos oktatás rendszeres ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak rendszeres ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
 
 d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati, a forgalmi és a biztonsági szabályzatokban foglaltaknak,
 
@@ -46,8 +46,10 @@ t) mindazon feladatok ellátása, amelyeket törvény vagy kormányrendelet fela
 
 (2) A közlekedési hatóság minden év szeptember 30-áig a vasútbiztonsági hatósági feladat- és hatáskörében végzett tevékenységéről készített éves jelentését megküldi az Európai Vasúti Ügynökségnek, és azt egyidejűleg honlapján is közzéteszi.
 
-(3) A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni.
+(3) A vasúti közlekedési hatóság feladat- és hatáskörébe tartozó ügyekben a kérelem szóban nem terjeszthető elő. A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni. A műszaki engedélyezési eljárásra irányuló kérelmet a közlekedési hatósághoz kell benyújtani. A hatóság a vasúti járművek üzembehelyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló rendeletben meghatározott, a nemzeti vasúti jármű-nyilvántartásba történő adatfelvételi eljárásokon kívül írásban tart kapcsolatot az ügyféllel és az eljárásban részt vevőkkel. A vasúti infrastruktúra engedélyezési eljárásaiban a nagy terjedelmű tervek, dokumentumok benyújtása az elektronikus formán túl legalább egy példányban papíralapon is kötelező.
 
-(4) Az ügyfél a közlekedési hatóság felhívására köteles az ügy eldöntéséhez szükséges adatokat, iratokat szolgáltatni a közlekedési hatóság részére.
+(4) Az ügyfél a közlekedési hatóság felhívására köteles a szakértői vizsgálatokban közreműködni.
 
 (5) A közlekedési hatóság a biztonsági hatósági feladatai végrehajtása során bármikor kérheti a pályahálózat működtető, vállalkozó vasúti társaságok vagy más minősített testületek műszaki-technikai segítségnyújtását.
+
+(5) A vasúti közlekedési hatóság a 80. § (1) bekezdés a), d), e) és p) pontjában meghatározott eljárásokban az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.

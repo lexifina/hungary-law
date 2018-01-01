@@ -14,4 +14,4 @@
 
 (8) Az alapképzést és az időszakos oktatást a közlekedési hatóság ellenőrzi.
 
-(9) Az alapvizsgáztatást és az időszakos vizsgáztatást a külön jogszabályban előírt feltételeknek megfelelő, a közlekedési hatóság vizsgabiztosi névjegyzékébe felvett és a közlekedési hatóság elnöke által kinevezett vizsgabiztosok tanúsító szervezetként végzik. A közlekedési hatóság eljárása során a vizsgák eredménye alapján adja ki a hatósági bizonyítványokat.
+(9) Az alapvizsgáztatást és az időszakos vizsgáztatást a vasúti vizsgaközpont, mint tanúsító szerv a külön jogszabályban előírt feltételeknek megfelelő, a közlekedési hatóság vizsgabiztosi névjegyzékébe felvett és közlekedési hatóság által kinevezett vizsgabiztosok bevonásával szervezi és végzi. A közlekedési hatóság eljárása során a vizsgák eredménye alapján adja ki a hatósági bizonyítványokat.

@@ -1,16 +1,16 @@
 ## A hatósági ellenőrzés, igazgatási bírság
 
-81. § (1) A közlekedési hatóság a vasúti pálya és tartozékai, az üzemi létesítmények és a vasúti járművek üzem- és forgalombiztos állapotát, a karbantartás, az időszakos vizsgálatok és a szükséges javítás elvégzését ellenőrzi. A vasúti társaság köteles a szabad ellenőrzés valamennyi feltételét biztosítani, különösen a lényeges dokumentumokhoz, létesítményekhez, berendezésekhez és felszerelésekhez való korlátozás nélküli hozzáférést. Ha a közlekedési hatóság az ellenőrzés során mulasztást állapít meg,
+81. § (1) A közlekedési hatóság a vasúti pálya és tartozékai, az üzemi létesítmények és a vasúti járművek üzem- és forgalombiztos állapotát, az engedélyben előírt üzemeltetési feltételek betartását, valamint a karbantartás, az időszakos vizsgálatok és a szükséges javítások elvégzését ellenőrzi. A vasúti társaság köteles a szabad ellenőrzés valamennyi feltételét biztosítani, különösen a lényeges dokumentumokhoz, létesítményekhez, berendezésekhez és felszerelésekhez való korlátozás nélküli hozzáférést. Ha a közlekedési hatóság az ellenőrzés során mulasztást állapít meg,
 
-a) az üzemben tartót a vizsgálat vagy a javítás elvégzésére kötelezi, és
+a) az üzemben tartót a vizsgálat vagy a javítás elvégzésére illetve az üzemben tartót az engedélyben előírt üzemeltetési feltételek betartására kötelezi és
 
 b) az üzemben tartóval szemben bírságot szab ki.
 
-(2) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság a vasúti pálya üzemének megszüntetését, a vizsgált jármű forgalomból való kivonását, vagy a vasúti, személyzet munkavégzésének felfüggesztését rendeli el.
+(2) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság a vasúti pálya üzemének megszüntetését, a vizsgált jármű forgalomból való kivonását, vagy a vasúti személyzet munkavégzésének felfüggesztését rendeli el.
 
-(3) A közlekedési hatóság a vasúti pályának, a vasúti járműnek vagy a vasúti járműre szerelt nyomástartó edénynek engedély nélküli vagy az engedélyben foglaltaktól eltérő létesítése, gyártása, átalakítása, bontása, illetve használata esetén
+(3) A közlekedési hatóság a vasúti pályának, a vasúti járműnek vagy a vasúti járműre szerelt nyomástartó edénynek engedély nélküli vagy az engedélyben foglaltaktól eltérő létesítése, gyártása, átalakítása, bontása, illetve használata, üzemeltetése esetén
 
-a) az üzembentartóval szemben bírságot szabhat ki, és
+a) az üzembentartóval szemben bírságot szab ki, és
 
 b) a vasúti pálya, a vasúti jármű, illetve a vasúti járműre szerelt nyomástartó edény átalakítását, vagy a (4) bekezdés szerinti esetben lebontását, gyártásának vagy üzemeltetésének a megszüntetését, forgalomból való kivonását rendeli el.
 

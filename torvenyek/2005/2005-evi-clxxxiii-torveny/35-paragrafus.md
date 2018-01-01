@@ -44,13 +44,13 @@ db) 51–100 darab vasúti járművet üzembentartó vasúti társaság esetén 
 
 dc) 100 db feletti vasúti járművet üzembentartó vasúti társaság esetén 1 024 000 forint;
 
-e) keskeny nyomtávú vasutak vasútbiztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén az a)–d) pontokban meghatározott díjtételek 30%-a;
+e)
 
 f) a kizárólag történelmi és muzeális vasúti járműveket üzembentartó vasúti társaságok vasútbiztonsági tanúsítványa esetén a b)–f) pontokban meghatározott díjtételek 30%-a.
 
 (6) Amennyiben a közlekedési hatóság megállapítja, hogy a jogosult nem elégíti ki a vasútbiztonsági tanúsítványban, illetve a vasútbiztonsági engedélyben megfogalmazott feltételeket, haladéktalanul visszavonja a vasútbiztonsági tanúsítványt, illetve a vasútbiztonsági engedélyt. A kiegészítő vasútbiztonsági tanúsítvány visszavonása esetén a közlekedési hatóság a döntéséről, valamint annak indokairól haladéktalanul tájékoztatja a más EGT-államban létrejött vállalkozó vasúti társaság vasútbiztonsági tanúsítványát kiállító vasútbiztonsági hatóságot. A közlekedési hatóság a vasútbiztonsági tanúsítvány visszavonásáról értesíti a vasúti pályahálózat működtetőjét.
 
-(7) A közlekedési hatóság a miniszter útján a határozat jogerőre emelkedéstől számított egy hónapon belül tájékoztatja az Európai Vasúti Ügynökséget a 33. § (2) bekezdés a) pontja szerinti vasútbiztonsági tanúsítvány és vasútbiztonsági engedély, illetve a vasútbiztonsági engedély kiadásáról, meghosszabbításáról, módosításáról vagy visszavonásáról. A közlekedési hatóság tájékoztatása kiterjed az érintett vasúti társaság nevére, székhelyére, a vasútbiztonsági tanúsítvány és vasútbiztonsági engedély kiállításának időpontjára, a vasútbiztonsági tanúsítvány és vasútbiztonsági engedély hatályára és érvényességére, valamint a vasútbiztonsági tanúsítvány és vasútbiztonsági engedély visszavonása esetén a döntése indokolására.
+(7) A közlekedési hatóság a miniszter útján a határozat véglegessé válásától számított egy hónapon belül tájékoztatja az Európai Vasúti Ügynökséget a 33. § (2) bekezdés a) pontja szerinti vasútbiztonsági tanúsítvány és vasútbiztonsági engedély, illetve a vasútbiztonsági engedély kiadásáról, meghosszabbításáról, módosításáról vagy visszavonásáról. A közlekedési hatóság tájékoztatása kiterjed az érintett vasúti társaság nevére, székhelyére, a vasútbiztonsági tanúsítvány és vasútbiztonsági engedély kiállításának időpontjára, a vasútbiztonsági tanúsítvány és vasútbiztonsági engedély hatályára és érvényességére, valamint a vasútbiztonsági tanúsítvány és vasútbiztonsági engedély visszavonása esetén a döntése indokolására.
 
 (8) A vasútbiztonsági tanúsítvánnyal, kiegészítő vasútbiztonsági tanúsítvánnyal és a vasútbiztonsági engedéllyel kapcsolatos részletes szabályokat a miniszter rendeletben állapítja meg. A rendeletben meg kell határozni
 
