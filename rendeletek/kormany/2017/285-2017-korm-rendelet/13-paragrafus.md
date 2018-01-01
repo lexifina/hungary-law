@@ -1,0 +1,5 @@
+## 12. § A 14/2015. (II. 10.) Korm. rend. 19. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(4) A képesített és a regisztrált vállalkozás nyilvántartást vezet a vásárolt, felhasznált, értékesített, visszanyert, újrahasznosított, regenerált, ártalmatlanított F-ÜHG típusonkénti és fajtánkénti mennyiségéről, amely adatokat az adatbázis klímagáz mozgás vezetésére szolgáló felületén is köteles feltölteni a változástól számított 8 napon belül.
+
+## (5) Az F-ÜHG közeget tartalmazó és helyszíni hűtőköri szerelést igénylő előtöltött alkalmazást kereskedelmi célú felhasználás keretében értékesítő képesített vagy regisztrált vállalkozás az adatbázis hűtőköri szerelést igénylő előtöltött berendezések nyilvántartására szolgáló felületén a gyártást, vásárlást vagy értékesítést követő 8 napon belül rögzíti a gyártott, vásárolt, eladott alkalmazás típusonkénti mennyiségét, az alkalmazásban lévő F-ÜHG közeg fajtáját és mennyiségét, a vásárlásra jogosult vállalkozás adatait, valamint a 22. § szerinti tanúsítvány egyedi azonosítóját.”
