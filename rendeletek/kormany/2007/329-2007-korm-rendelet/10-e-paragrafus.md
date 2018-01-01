@@ -1,4 +1,4 @@
-## 10/E. §[^84] A Nemzetközi Oktatási Központ országos illetékességgel végzi a nemzetközi és nyelvi oktatással, képzéssel, konferenciákkal, értekezletekkel, nemzetközi kapcsolatokkal összefüggésben a hatáskörébe utalt, valamint egyéb, jogszabályban és az alapító okiratban meghatározott feladatokat, ennek keretében:
+## 10/E. §[^86] A Nemzetközi Oktatási Központ országos illetékességgel végzi a nemzetközi és nyelvi oktatással, képzéssel, konferenciákkal, értekezletekkel, nemzetközi kapcsolatokkal összefüggésben a hatáskörébe utalt, valamint egyéb, jogszabályban és az alapító okiratban meghatározott feladatokat, ennek keretében:
 
 a) kapcsolatot tart a Nemzetközi Rendészeti Akadémiával (a továbbiakban: ILEA) és a Közép-Európai Rendőrakadémiával (a továbbiakban: KERA) és ellátja az ezzel összefüggő logisztikai feladatokat,
 
@@ -22,4 +22,4 @@ j) rendészettel kapcsolatos és humán alkalmazott kutatást és kísérleti fe
 
 k) gondoskodik a tevékenységéből származó ismeretek, tapasztalatok hazai terjesztéséről, publikálásáról, szakmai hasznosításáról.
 
-[^84]: A 10/E. §-t a 227/2016. (VII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^86]: A 10/E. §-t a 227/2016. (VII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.

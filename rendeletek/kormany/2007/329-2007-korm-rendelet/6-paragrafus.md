@@ -52,7 +52,7 @@ fc)[^31]
 
 g) koordinálja a nemzetközi összekötő tiszti rendszer (kiküldött szakértők, hazai összekötő tisztek) szakmai működtetését;
 
-h)[^32] felügyeli a több megye területén vagy országosan működő, valamint a megyei (fővárosi) rendőr-főkapitányságok szervezetében létesített fegyveres biztonsági őrségek tevékenységét;
+h)[^32]
 
 i)[^33] működteti a Nemzeti Futball Információs Pontot;
 
@@ -74,33 +74,35 @@ je) a közlekedési balesetekkel kapcsolatos hatósági tevékenységgel
 
 a) felügyeli a fegyverekkel, lőszerekkel és lőterekkel kapcsolatos hatósági feladatok végrehajtását, hatósági feladatokat lát el,
 
-b) felügyeli a vállalkozás keretében végzett személy- és vagyonvédelmi, valamint magánnyomozói tevékenység hatósági elbírálását,
+b)[^35]
 
-c)[^35] az atomenergia alkalmazásával összefüggő hatósági feladatokat lát el,
+c)[^36] az atomenergia alkalmazásával összefüggő hatósági feladatokat lát el,
 
-d)[^36] az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: Törvény) 8–9. §-a szerinti hatósági feladatokat lát el,
+d)[^37] ellátja a rendészeti feladatokat ellátó személy számára kiadott szolgálati igazolványról, valamint az egyedi azonosító számmal ellátott szolgálati jelvényről vezetett nyilvántartással, továbbá a rendészeti feladatokat ellátó személy szolgálati igazolványa és szolgálati jelvénye kiállításával, bevonásával és visszavonásával kapcsolatos elsőfokú döntéssel szembeni fellebbezés elbírálásával összefüggő hatósági feladatokat,
 
-e)[^37] felügyeli a polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos hatósági tevékenységet, hatósági feladatokat lát el,
+e)[^38] felügyeli a polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos hatósági tevékenységet, hatósági feladatokat lát el,
 
-f)[^38] a kábítószerekkel, a pszichotróp anyagokkal és a kábítószer-prekurzorokkal végezhető tevékenységekkel kapcsolatos hatósági feladatokat lát el,
+f)[^39] a kábítószerekkel, a pszichotróp anyagokkal és a kábítószer-prekurzorokkal végezhető tevékenységekkel kapcsolatos hatósági feladatokat lát el,
 
-g)[^39] dönt a jogerősen elkobzott kábítószerek, pszichotróp anyagok jogszabályban meghatározott célra történő felhasználásáról,
+g)[^40] dönt a jogerősen elkobzott kábítószerek, pszichotróp anyagok jogszabályban meghatározott célra történő felhasználásáról,
 
-h)[^40] lefolytatja – az általános rendőri szerv közrendvédelmi, közlekedésrendészeti, valamint határrendészeti szolgálatának közvetlen helyszíni beavatkozásra rendszeresített (vonuló) gépjárművei, valamint a rendőrség és az Országgyűlési Őrség által a védett személyek szállítására rendszeresített gépjárművei kivételével – a rendőrség, továbbá a nemzetbiztonsági szolgálatok, a büntetés-végrehajtás, a hivatásos katasztrófavédelmi szervek, a főfoglalkozású létesítményi tűzoltóság, a tűzoltó egyesület, a Magyar Honvédség, a Legfőbb Ügyészség, illetve a közlekedési balesetek szakmai vizsgálatát végző közlekedésbiztonsági szerv által használt gépjárművek megkülönböztető jelzéseinek felszerelésére és használatára, valamint a hatáskörébe tartozó közúti közlekedés biztonságára vonatkozó hatósági eljárást,
+h)[^41] lefolytatja – a miniszteri rendeletben meghatározottak szerint nem engedélyköteles gépjárművek kivételével – a rendőrség, a nemzetbiztonsági szolgálatok, a büntetés-végrehajtás, a hivatásos katasztrófavédelmi szerv, a létesítményi tűzoltóság, az önkéntes tűzoltó egyesület, a Magyar Honvédség, a Legfőbb Ügyészség és a közlekedési balesetek szakmai vizsgálatát végző közlekedésbiztonsági szerv által használt gépjárművek megkülönböztető jelzéseinek felszerelésére, valamint a hatáskörébe tartozó közúti közlekedés biztonságára vonatkozó hatósági eljárást, a rendőr-főkapitányságok megkülönböztető jelzést adó készülék felszerelése, illetve visszavonása tárgyában hozott első fokú döntésével szemben benyújtott fellebbezéseket másodfokon elbírálja, továbbá ezekben az ügyekben az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el,
 
-i)[^41] eljár a rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban – a közlekedési baleset következtében beállott rendkívüli haláleset kivételével – az ORFK állományába tartozó hivatásos állományú tag rendkívüli halála esetén,
+i)[^42] eljár a rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban – a közlekedési baleset következtében beállott rendkívüli haláleset kivételével – az ORFK állományába tartozó hivatásos állományú tag rendkívüli halála esetén,
 
-j)[^42] ellátja a személyek államhatáron történő átadás-átvételével kapcsolatos hatósági feladatokat, és másodfokon eljár az idegenrendészeti jogszabályokban meghatározott esetekben,
+j)[^43] ellátja a személyek államhatáron történő átadás-átvételével kapcsolatos hatósági feladatokat, és másodfokon eljár az idegenrendészeti jogszabályokban meghatározott esetekben,
 
-k)[^43] a határrend fenntartásával, a határrend-sértések és határesemények megelőzésével, kivizsgálásával kapcsolatos hatósági feladatokat lát el,
+k)[^44] a határrend fenntartásával, a határrend-sértések és határesemények megelőzésével, kivizsgálásával kapcsolatos hatósági feladatokat lát el,
 
-l)[^44] lefolytatja a fegyveres biztonsági őrség létrehozásával, megszüntetésével, valamint a fegyveres biztonsági őrzés elrendelésével kapcsolatos közigazgatási hatósági eljárásokat,
+l)[^45] ellátja a fegyveres biztonsági őrség létrehozásával, megszüntetésével, valamint a fegyveres biztonsági őrzés elrendelésével, és – a Repülőtéri Rendőr Igazgatóság hatáskörébe tartozó feladatok kivételével – a fegyveres biztonsági őrség lőfegyverrel, lőszerrel és más kényszerítő eszközzel való ellátásának engedélyezésével kapcsolatos hatósági feladatokat,
 
-m)[^45] engedélyezi a fegyveres biztonsági őrség lőfegyverrel, lőszerrel és más kényszerítő eszközzel való ellátását,
+m)[^46] engedélyezi a fegyveres biztonsági őrség lőfegyverrel, lőszerrel és más kényszerítő eszközzel való ellátását,
 
-n)[^46] fogadja azon magyarországi székhellyel, fiókteleppel rendelkező gazdasági szereplő gyanús tranzakciók jelentésére vonatkozó bejelentését, amely korlátozott robbanóanyag-prekurzorokat bocsát Magyarországon lakossági személyek rendelkezésére.
+n)[^47] fogadja azon magyarországi székhellyel, fiókteleppel rendelkező gazdasági szereplő gyanús tranzakciók jelentésére vonatkozó bejelentését, amely korlátozott robbanóanyag-prekurzorokat bocsát Magyarországon lakossági személyek rendelkezésére,
 
-(4)[^47] Az ORFK középirányító szervként – az Rtv.-ben foglalt irányítási feladatok mellett –
+o)[^48] másodfokon elbírálja a közúti közlekedésről szóló 1988. évi I. törvény 9. § (5) bekezdése alapján a területi szerv által hozott első fokú döntéssel szemben benyújtott fellebbezéseket, továbbá ezekben az ügyekben az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el.
+
+(4)[^49] Az ORFK középirányító szervként – az Rtv.-ben foglalt irányítási feladatok mellett –
 
 a) gyakorolja a rendőr-főkapitányságok gazdasági vezetője tekintetében a kinevezés, felmentés, megbízás vagy megbízás visszavonásának jogkörét,
 
@@ -128,19 +130,21 @@ e) rendőr-főkapitányságokat jelentéstételre vagy beszámolóra kötelezhet
 [^29]: A 6. § (2) bekezdés c) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
 [^30]: A 6. § (2) bekezdés f) pont fb) alpontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
 [^31]: A 6. § (2) bekezdés fc) alpontját a 247/2009. (XI. 10.) Korm. rendelet 39. § e) pontja hatályon kívül helyezte, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^32]: A 6. § (2) bekezdés h) pontja a 247/2009. (XI. 10.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 6. § (2) bekezdés h) pontját a 457/2017. (XII. 28.) Korm. rendelet 207. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^33]: A 6. § (2) bekezdés i) pontja a 30/2009. (II. 19.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^34]: A 6. § (2) bekezdés j) pontját a 247/2009. (XI. 10.) Korm. rendelet 25. § (3) bekezdése iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^35]: A 6. § (3) bekezdés c) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^36]: A 6. § (3) bekezdés d) pontját a 247/2009. (XI. 10.) Korm. rendelet 39. § e) pontja hatályon kívül helyezte, újonnan a 319/2012. (XI. 14.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^37]: A 6. § (3) bekezdés e) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^38]: A 6. § (3) bekezdés f) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^39]: A 6. § (3) bekezdés új g) pontját a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be, egyidejűleg az eredeti g)–j) pontok megjelölését h)–k) pontra változtatta, szövege a 247/2009. (XI. 10.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^40]: A 6. § (3) bekezdés eredeti g) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése h) pontra változtatta, szövege a 247/2009. (XI. 10.) Korm. rendelet 25. § (4) bekezdésével megállapított, a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése, a 416/2012. (XII. 29.) Korm. rendelet 14. § b) pontja, a 230/2016. (VII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^41]: A 6. § (3) bekezdés eredeti h) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése i) pontra változtatta, szövege a 148/2010. (IV. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^42]: A 6. § (3) bekezdés eredeti i) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése j) pontra változtatta.
-[^43]: A 6. § (3) bekezdés j) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni. A 6. § (3) bekezdés eredeti j) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése k) pontra változtatta.
-[^44]: A 6. § (3) bekezdés l) pontját a 30/2009. (II. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 247/2009. (XI. 10.) Korm. rendelet 25. § (5) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^45]: A 6. § (3) bekezdés m) pontját a 247/2009. (XI. 10.) Korm. rendelet 25. § (5) bekezdése iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^46]: A 6. § (3) bekezdés n) pontját a 275/2016. (IX. 15.) Korm. rendelet 1. §-a iktatta be.
-[^47]: A 6. § (4) bekezdését a 352/2014. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^35]: A 6. § (3) bekezdés b) pontját a 457/2017. (XII. 28.) Korm. rendelet 207. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^36]: A 6. § (3) bekezdés c) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^37]: A 6. § (3) bekezdés d) pontját újonnan a 319/2012. (XI. 14.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 205. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^38]: A 6. § (3) bekezdés e) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^39]: A 6. § (3) bekezdés f) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^40]: A 6. § (3) bekezdés új g) pontját a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be, egyidejűleg az eredeti g)–j) pontok megjelölését h)–k) pontra változtatta, szövege a 247/2009. (XI. 10.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: A 6. § (3) bekezdés eredeti g) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése h) pontra változtatta, szövege a 457/2017. (XII. 28.) Korm. rendelet 205. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^42]: A 6. § (3) bekezdés eredeti h) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése i) pontra változtatta, szövege a 148/2010. (IV. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^43]: A 6. § (3) bekezdés eredeti i) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése j) pontra változtatta.
+[^44]: A 6. § (3) bekezdés j) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni. A 6. § (3) bekezdés eredeti j) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése k) pontra változtatta.
+[^45]: A 6. § (3) bekezdés l) pontját a 30/2009. (II. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 205. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^46]: A 6. § (3) bekezdés m) pontját a 247/2009. (XI. 10.) Korm. rendelet 25. § (5) bekezdése iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^47]: A 6. § (3) bekezdés n) pontját a 275/2016. (IX. 15.) Korm. rendelet 1. §-a iktatta be.
+[^48]: A 6. § (3) bekezdés o) pontját a 457/2017. (XII. 28.) Korm. rendelet 205. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^49]: A 6. § (4) bekezdését a 352/2014. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.

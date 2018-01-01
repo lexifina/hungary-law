@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-329-20-
 | 2016-12-17 | 2007-329-20-22.37 | 102/2012. (V. 18.) Korm. rendelet |
 | 2016-12-31 | 2007-329-20-22.38 | 441/2016. (XII. 16.) Korm. rendelet |
 | 2017-01-01 | 2007-329-20-22.39 | 350/2016. (XI. 18.) Korm. rendelet |
+| 2018-01-01 | 2007-329-20-22.40 | 457/2017. (XII. 28.) Korm. rendelet |
