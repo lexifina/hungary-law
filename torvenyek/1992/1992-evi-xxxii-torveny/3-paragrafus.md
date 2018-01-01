@@ -12,7 +12,9 @@ b) magyar bíróság ítélete vagy magyar közigazgatási hatóság határozata
 
 c) a II. világháború alatt (1941. június 27.–1945. május 9.) faji, vallási vagy politikai okból teljesített munkaszolgálat;
 
-d)–e)
+d)
+
+e)
 
 (2)
 

@@ -6,4 +6,6 @@ b) internálás esetén 1 év 6 hónapot, közbiztonsági őrizet esetén 6 hón
 
 c) munkaszolgálat esetén 2 évet;
 
-d)–f)
+d)
+
+f)
