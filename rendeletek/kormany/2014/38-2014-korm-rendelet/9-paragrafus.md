@@ -1,5 +1,6 @@
-9. § (1)[^25] Ha a járási hivatal megállapítja, hogy a kérelem hiányos, vagy annak mellékleteként nem kerültek csatolásra e rendeletben meghatározott okiratok, a kérelmezőt a kérelem benyújtásától számított 15 napon belül – határidő megjelölésével – a hiányosság pótlására szólítja fel.
+9. § (1)[^26]
 
-(2) A nyilvántartásba vétel iránti eljárást meg kell szüntetni, ha a kérelmező a megadott határidőn belül a hiányosságot nem pótolta, és a hiánypótlás teljesítésére megadott határidő lejárta előtt annak meghosszabbítását sem kérelmezte.
+(2)[^27] A nyilvántartásba vétel iránti kérelem mellékleteként csatolandó okiratok az ügyfél nyilatkozatával nem pótolhatóak.
 
-[^25]: A 9. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^26]: A 9. § (1) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 490. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^27]: A 9. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 487. § (8) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
