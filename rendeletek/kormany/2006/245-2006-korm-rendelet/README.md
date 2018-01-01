@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-245-20-
 | 2016-01-01 | 2006-245-20-22.15 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2006-245-20-22.16 | 322/2012. (XI. 16.) Korm. rendelet |
 | 2017-06-28 | 2006-245-20-22.17 | 456/2015. (XII. 29.) Korm. rendelet |
+| 2018-01-01 | 2006-245-20-22.18 | 457/2017. (XII. 28.) Korm. rendelet |
