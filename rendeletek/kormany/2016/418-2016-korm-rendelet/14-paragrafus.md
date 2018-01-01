@@ -8,4 +8,6 @@
 
 a) az 1. melléklet 9., 10., 15. és 16. pontja szerinti változás esetében a tárgyévet követő év május 31. napjától,
 
-b) a jogszabály alapján bírósági, hatósági nyilvántartásba vétellel bekövetkező változás tekintetében a határozat jogerőre emelkedésének napjától
+b)[^1] a jogszabály alapján bírósági, hatósági nyilvántartásba vétellel bekövetkező változás tekintetében a határozat jogerőre emelkedésének vagy – közigazgatási hatósági eljárásban – véglegessé válásának napjától
+
+[^1]: A 14. § (3) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 600. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-418-20-
 | 2017-01-01 | 2016-418-20-22.1 | 418/2016. (XII. 14.) Korm. rendelet |
 | 2017-01-02 | 2016-418-20-22.2 | 2010: CXXX. törvény |
 | 2017-01-03 | 2016-418-20-22.3 | 2010: CXXX. törvény |
+| 2018-01-01 | 2016-418-20-22.4 | 457/2017. (XII. 28.) Korm. rendelet |
