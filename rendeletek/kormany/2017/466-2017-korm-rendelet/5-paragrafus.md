@@ -1,0 +1,7 @@
+5. § (1) Az adattrezor-archiváláshoz szükséges, az adatkezelő archiválási rendszere és az adattrezor központi megoldása közötti egységes formátumot biztosító virtuális eszközrendszert az őrzésért felelős szerv bocsátja az adatkezelő rendelkezésére. Az adatkezelő az archiváláshoz – a nemzetbiztonsági szolgálatok elektronikus információs rendszerei adattrezor-archiválását kivéve – ezt az eszközrendszert köteles használni. A virtuális eszközrendszer rosszindulatú szoftverkódoktól való mentességéért az őrzésért felelős szerv a felelős.
+
+(2) A virtuális eszközrendszert futtató infrastruktúrát az adatkezelő biztosítja. A 13. § (3) bekezdésében meghatározott adatmennyiséget meghaladó kapacitásigény esetén az egységes formátumot biztosító eszközrendszert az őrzésért felelős szerv fizikai úton biztosítja.
+
+(3) Az adattrezor-archiválást titkosító kulcs alkalmazásával az adatkezelőnek úgy kell elvégeznie, hogy abból az adatkezelőnél működtetett elektronikus információs rendszerek külön-külön is visszaállíthatóak legyenek. Az adatkezelőnek jól beazonosítható módon meg kell jelölnie, hogy az átadott adatállomány mely adatkezelő elektronikus információs rendszere archiválását tartalmazza. Az adattrezor-archiválásnak tartalmaznia kell a visszaállításhoz szükséges dokumentációt.
+
+(4) Az őrzésért felelős szervnek átadásra kerülő adatállománynak a technika archiváláskori állása szerint rosszindulatú szoftverkódtól való mentessége az adatkezelő szerv felelőssége.

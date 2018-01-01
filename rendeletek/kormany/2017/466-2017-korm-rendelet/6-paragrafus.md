@@ -1,0 +1,3 @@
+6. § (1) Az adattrezor-archiváláshoz szükséges titkosító kulcsot az Információs Hivatal állítja elő két példányban, és egy példányt eljuttat az adatkezelőhöz. Valamennyi adatkezelő szervet saját, egyéni kulccsal kell ellátni. A kulcs nem hozható harmadik szerv vagy személy tudomására, csak az adatkezelőnek vagy jogutódjának, vagy törvényben kijelölt szervnek adható ki. Az Információs Hivatal által átadott kulcsról az adatkezelő másolatot készít és azt biztonságos helyen tárolja.
+
+(2) Az Információs Hivatal elkülönítetten tárolja a titkosító kulcs egy példányát, és azt az adatkezelő vagy jogutódja rendelkezésére bocsátja, ha az adatkezelőnél lévő titkosító kulcs és annak másolata megsemmisül, vagy mindkettő megsérül.

@@ -1,0 +1,3 @@
+18. § (1) Az adattrezor-archiválás egységes formátumát biztosító eszközrendszert az őrzésért felelő szerv 2018. október 1-jéig bocsátja az adatkezelő rendelkezésére. Eddig az időpontig az adattrezor-archiválás az adatkezelő saját szoftvereszközével, az adatkezelő által meghatározott formátumban történik az adatkezelő által biztosított fizikai adattároló eszközön.
+
+(2) A Kormányzati Felhő szolgáltatás útján működtetett elektronikus információs rendszerek, valamint a kisméretű archív állományok kivételével 2018. október 1-jéig az adattrezor-archiválás átadása és megőrzése, valamint kiadása az adatkezelő által átadott fizikai adattároló eszköz útján történik.
