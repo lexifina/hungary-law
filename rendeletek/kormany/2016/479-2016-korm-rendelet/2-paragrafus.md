@@ -32,7 +32,7 @@ m) az a)–c) pont szerinti szervezetek jogi személyiséggel rendelkező szerve
 
 (2) Az (1) bekezdés l) pontja szerinti külön jogszabályban meghatározott, jogi személynek minősülő egyéb szervezet, különösen:
 
-a) a Pénz- és Tőkepiaci Állandó Választottbíróság,
+a)[^1]
 
 b) a közhasznú szervezetként működő felsőoktatási intézmény,
 
@@ -49,3 +49,5 @@ g) az európai területi együttműködési csoportosulás,
 h) az európai kutatási infrastruktúráért felelős konzorcium, valamint
 
 i) a Magyar Szénhidrogén Készletező Szövetség.
+
+[^1]: A 2. § (2) bekezdés a) pontját a 445/2017. (XII.27.) Korm. rendelet 37. pont 1. pontja hatályon kívül helyezte.

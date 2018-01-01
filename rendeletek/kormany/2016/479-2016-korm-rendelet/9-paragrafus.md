@@ -18,4 +18,6 @@
 
 (9) Az egyéb szervezet úgy köteles könyvvezetését kialakítani, hogy a vonatkozó jogszabály szerint meghatározott vállalkozási tevékenység (ár)bevételei és ráfordításai (költségei), kiadásai az alaptevékenység bevételeitől és ráfordításaitól (költségeitől), kiadásaitól, gazdasági eseményeitől elkülönüljenek, és ezáltal megbízhatóan kimutatható legyen a vállalkozási tevékenység tárgyévi eredménye.
 
-(10) Az egyéb szervezetnek a könyvvezetés során elkülönítetten kell kimutatni a kapott adományt, a közcélú adományt és azok felhasználását, amennyiben az adományról a társasági adóról és osztalékadóról szóló törvény, illetve a közcélú adományról a személyi jövedelemadóról szóló törvény rendelkezései szerinti kedvezmény igénybevételére jogosító igazolást állít ki.
+(10)[^6] Az egyéb szervezetnek a könyvvezetés során elkülönítetten kell kimutatni a kapott adományt, közcélú adományt és azok felhasználását, amennyiben azt jogszabály előírja, továbbá, ha az adományról a társasági adóról és az osztalékadóról szóló törvény, illetve a közcélú adományról a személyi jövedelemadóról szóló törvény rendelkezései szerinti kedvezmény igénybevételére jogosító igazolást állít ki.
+
+[^6]: A 9. § (10) bekezdése a 445/2017. (XII.27.) Korm. rendelet 31. §-ával megállapított szöveg.
