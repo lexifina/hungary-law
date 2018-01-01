@@ -1,4 +1,4 @@
-8/B. § (1) A 2. § (1) bekezdése szerinti munkaügyi hatóság a munkaügyi ellenőrzéssel kapcsolatos feladatainak ellátásával összefüggésben együttműködik az Európai Unió és az EGT-államok munkaügyi feladatokat ellátó szerveivel. Ennek keretében
+8/B. § (1) A 2. § (2) bekezdése szerinti munkaügyi hatóság a munkaügyi ellenőrzéssel kapcsolatos feladatainak ellátásával összefüggésben együttműködik az Európai Unió és az EGT-államok munkaügyi feladatokat ellátó szerveivel. Ennek keretében
 
 a) megkeresésre a hatáskörébe tartozó feladatokat érintően tájékoztatást nyújt az elvégzett munkaügyi ellenőrzések megállapításairól, valamint a munkaügyi jogszabályok tartalmáról;
 
@@ -10,7 +10,7 @@ d) megkeresés alapján gondoskodik az illetékes hatóságok által megküldöt
 
 e) amennyiben nehézségbe ütközik az információkérés teljesítése vagy az ellenőrzések, illetve a vizsgálatok lefolytatása, a nehézségek megoldása érdekében erről haladéktalanul tájékoztatja a megkereső hatóságot.
 
-(2) A 2. § (1) bekezdése szerinti munkaügyi hatóság az EGT-állam hatósága vagy az Európai Unió Bizottsága által kért – az (1) bekezdés szerinti – információkat elektronikus úton, az alábbi határidőkön belül küldi meg:
+(2) A 2. § (2) bekezdése szerinti munkaügyi hatóság az EGT-állam hatósága vagy az Európai Unió Bizottsága által kért – az (1) bekezdés szerinti – információkat elektronikus úton, az alábbi határidőkön belül küldi meg:
 
 a) másik EGT-államban való letelepedés ellenőrzésének céljából a nyilvántartásokhoz való hozzáférést igénylő sürgős esetben a megkeresés kézhezvételétől számított két munkanapon belül;
 

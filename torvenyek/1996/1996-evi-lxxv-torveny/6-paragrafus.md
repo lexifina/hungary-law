@@ -1,6 +1,6 @@
-6. § (1) A munkaügyi hatóság az ellenőrzés során tapasztalt szabálytalanságok miatt eljárása során a következő intézkedésekkel élhet:
+6. § (1) A munkaügyi hatóság eljárásában a következő intézkedéseket alkalmazhatja:
 
-a) megtiltja a további foglalkoztatást, ha az alkalmazás vagy a foglalkoztatás a 3. § (1) bekezdés a) pontjának első és második fordulata, továbbá b), e), f), i), k) és s) pontja esetében a jogszabálysértés súlyossága miatt nem tartható fenn és a sérelem rövid időn belül nem orvosolható; ha a további foglalkoztatás megtiltására azért került sor, mert a foglalkoztató megsértette a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vagy a jogviszony bejelentésére vonatkozó rendelkezéseket, a munkaügyi hatóság az eltiltás időtartamára kötelezi a munkáltatót az Mt. 146. § (1) bekezdése szerinti díjazásnak a munkavállaló részére történő megfizetésére,
+a) megtiltja a további foglalkoztatást, ha az alkalmazás vagy a foglalkoztatás a 3. § (1) bekezdés a) pontjának első és második fordulata, továbbá b), e), f), i), k) és s) pontja esetében a jogszabálysértés súlyossága miatt nem tartható fenn és a sérelem rövid időn belül nem orvosolható,
 
 b) kötelezi a foglalkoztatót a szabálytalanság meghatározott időn belül történő megszüntetésére,
 
@@ -16,20 +16,22 @@ g) a 3. § (1) bekezdés a) pontjában foglalt, a munkavállalói jogalanyiságg
 
 h) a további jogsértés megelőzésének érdekében – a b) pont alkalmazhatóságának hiányában – megállapítja a munkáltató jogsértését, vagy
 
-i) kötelezi az 1. § (8) bekezdése szerint felelős fővállalkozót vagy a köztes alvállalkozót az elmaradt munkabérnek a munkáltató helyett történő megfizetésére,
+i) kötelezi az 1. § (10) bekezdése szerint felelős fővállalkozót vagy a köztes alvállalkozót az elmaradt munkabérnek a munkáltató helyett történő megfizetésére,
 
 j) kötelezi a foglalkoztatót a 3. § (1a) bekezdés szerinti megkeresés teljesítéséhez szükséges adatok szolgáltatására.
 
-(2) A munkaügyi hatóság által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
+(2) A munkaügyi hatóság az (1) bekezdés d) pontja szerinti intézkedés helyett a külön jogszabályban meghatározott, munkaügyi bírságot helyettesítő figyelmeztetést alkalmaz, kivéve, ha a munkaügyi bírság kiszabása a 6/A. § (1) bekezdés b) pontjára tekintettel nem mellőzhető.
 
-(3) A munkaügyi hatóság a foglalkoztató és a részére munkát végző személy közötti jogviszony tartalmát érintő intézkedést nem hozhat, amennyiben az ellenőrzést megelőzően a felek között az ellenőrzés tárgyát érintően munkaügyi vita indult.
+(2a) A munkaügyi hatóság által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
+
+(3) Az Ákr. 84. § b) pontja alkalmazásának akkor van helye, ha a munkaügyi hatóság az (1) bekezdés a) pontja szerinti intézkedést a 3. § (1) bekezdés a) pontjának első és második fordulata, továbbá az e) vagy i) pontja szerinti jogsértés miatt hozta.
 
 (4) A munkaügyi hatóság, amennyiben tudomására jut, hogy a jogsértésre
 
-a) társadalombiztosítási nyugellátásban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító jogerős döntését közli a nyugdíj-megállapító szervvel,
+a) társadalombiztosítási nyugellátásban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító végleges döntését közli a nyugdíj-megállapító szervvel,
 
-b) megváltozott munkaképességű személyek ellátásaiban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító jogerős döntését közli a rehabilitációs hatósággal.
+b) megváltozott munkaképességű személyek ellátásaiban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító végleges döntését közli a rehabilitációs hatósággal.
 
-(5) Ha a jogsértést korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában történő foglalkoztatásával követik el, a munkaügyi hatóság a jogsértést megállapító jogerős határozatát közli a korhatár előtti ellátást, illetve a szolgálati járandóságot megállapító szervvel.
+(5) Ha a jogsértést korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában történő foglalkoztatásával követik el, a munkaügyi hatóság a jogsértést megállapító végleges határozatát közli a korhatár előtti ellátást, illetve a szolgálati járandóságot megállapító szervvel.
 
-(6) A munkaügyi hatóság haladéktalanul tájékoztatja az érintett EGT-állam illetékes hatóságát, ha a munkaügyi ellenőrzés során az 1. § (2) bekezdése szerinti munkavállaló foglalkoztatási körülményei az EGT-állam illetékes hatóságának hatáskörébe tartozó szabálytalanságra utalnak.
+(6) A munkaügyi hatóság haladéktalanul tájékoztatja az érintett EGT-állam illetékes hatóságát, ha a munkaügyi ellenőrzés során a 3/B. § (1) bekezdés e) és f) pontja szerinti munkavállaló foglalkoztatási körülményei az EGT-állam illetékes hatóságának hatáskörébe tartozó szabálytalanságra utalnak.

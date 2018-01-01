@@ -1,4 +1,4 @@
-8. § (1) A 2. § (1) és (2) bekezdésében foglalt szervek hatósági tevékenységük során az e törvényben szabályozott eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint járnak el.
+8. § (1)
 
 (2) Ha a harmadik országbeli állampolgár foglalkoztatására érvényes tartózkodási engedély vagy kereső tevékenység folytatására jogosító engedély hiányában került sor, és az ellenőrzés megállapítja annak valószínűségét, hogy
 
@@ -16,13 +16,13 @@ a) e törvény 3. §-a (1) bekezdésének a) pontja alapján a foglalkoztatásra
 
 b) e törvény 3. §-a (1) bekezdésének b) pontja alapján a munkaviszony létesítésével összefüggő bejelentési kötelezettség megsértését
 
-jogerős és végrehajtható közigazgatási határozattal megállapította.
+végleges közigazgatási határozattal megállapította.
 
 (5) A munkaügyi hatóság által a (4) bekezdés alapján átadott adatok tartalmazzák
 
-a) a jogsértés tényét megállapító jogerős határozat számát és a határozat jogerőre emelkedésének időpontját,
+a) a jogsértés tényét megállapító végleges határozat számát és a határozat véglegessé válásának időpontját,
 
-b) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések [Mt. 22–23. §, 42–44. §], valamint a jogviszony létesítésével összefüggő bejelentési kötelezettség [az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (4) bekezdés a) pont, illetve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 11. §] megsértésével érintett munkavállaló nevét, anyja nevét, születésének helyét, idejét, lakcímét és a jogsértéssel érintett állapot időtartamát, továbbá
+b) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések [Mt. 22–23. §, 42–44. §], valamint a 6/A. § (1) bekezdés b) pontjában meghatározott jogsértéssel érintett munkavállaló nevét, anyja nevét, születésének helyét, idejét, lakcímét és a jogsértéssel érintett állapot időtartamát, továbbá
 
 c) – amennyiben azt a munkaügyi ellenőrzés során tisztázni lehetett – a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések, valamint a munkaviszony létesítésével összefüggő bejelentési kötelezettség megsértésével érintett munkavállalók TAJ-számát.
 
@@ -30,6 +30,6 @@ c) – amennyiben azt a munkaügyi ellenőrzés során tisztázni lehetett – a
 
 (6a) A (6) bekezdés szerinti nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(7) A munkaügyi hatóság a nyilvántartásban szereplő adatokat a bejegyzés alapjául szolgáló határozat jogerőssé és végrehajthatóvá válásának napjától számított két év elteltével törli.
+(7) A munkaügyi hatóság a nyilvántartásban szereplő adatokat a bejegyzés alapjául szolgáló határozat véglegessé válásának napjától számított két év elteltével törli.
 
-(8) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/A. § (2) bekezdése alapján kezelt adatokból a 2. §-ban meghatározott munkaügyi ellenőrzést végző személy – az ellenőrzési tevékenysége keretében – hatósági hozzáférést biztosító kód alkalmazásával, elektronikusan kérhet tájékoztatást.
+(8) A munkaügyi hatóság az Flt. 57/A. § (2) bekezdése alapján kezelt adatokból – az ellenőrzési tevékenysége keretében – hatósági hozzáférést biztosító kód alkalmazásával, elektronikusan kérhet tájékoztatást.

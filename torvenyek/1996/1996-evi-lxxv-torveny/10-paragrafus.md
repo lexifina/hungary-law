@@ -10,7 +10,7 @@ d) a Tanács 1991. október 14-i 91/533/EGK irányelve a munkaadónak a munkavá
 
 e) a Tanács 1992. október 19-i 92/85/EGK irányelve a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről a Munka Törvénykönyve, valamint a munkavédelemről szóló törvény irányadó rendelkezéseivel együtt;
 
-f) a munkavállalók szolgáltatások nyújtása esetén történő kiküldetéséről szóló, az Európai Parlament és a Tanács 1996. december 16-i 96/71/EK irányelve a Munka Törvénykönyve, a munkavédelemről szóló törvény és a nemzetközi magánjogról szóló törvényerejű rendelet irányadó rendelkezéseivel együtt;
+f) a munkavállalók szolgáltatások nyújtása esetén történő kiküldetéséről szóló, az Európai Parlament és a Tanács 1996. december 16-i 96/71/EK irányelve a munka törvénykönyve és a munkavédelemről szóló törvény irányadó rendelkezéseivel együtt;
 
 g) a Tanács 1999. június 21-i 1999/63/EK irányelve az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és a Közlekedési Dolgozók Szakszervezeteinek Szövetsége az Európai Unióban (FST) között, a tengerészek munkaidejének szervezésére vonatkozóan kötött megállapodásról a Munka Törvénykönyve, valamint a vízi közlekedésről szóló 2000. évi XLII. törvény irányadó rendelkezéseivel együtt;
 

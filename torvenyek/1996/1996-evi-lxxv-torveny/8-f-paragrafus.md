@@ -1,4 +1,4 @@
-8/F. § (1) A munkaügyi hatóság a végrehajtást haladéktalanul foganatosítja, ha a Ket. 137. §-ában meghatározott feltételek fennállnak, és a megkereső hatóság által kiállított egységes okirat tartalmazza
+8/F. § (1) A munkaügyi hatóság haladéktalanul kezdeményezi a végrehajtást, ha az Ákr. 132. §-ában meghatározott feltétel fennáll, és a megkereső hatóság által kiállított egységes okirat tartalmazza
 
 a) a kötelezett nevét és ismert címét, valamint az azonosítására vonatkozó minden egyéb lényeges adatot vagy információt;
 
@@ -12,10 +12,10 @@ d) a végrehajtandó döntés elbírálásáért felelős illetékes hatóságna
 
 a) a határozat megküldése esetén a megküldés célját és a megküldés teljesítésére előírt határidőt;
 
-b) a végrehajtás foganatosítása iránti megkeresés esetén az azt megalapozó döntés jogerőssé és végrehajthatóvá válásának időpontját, a döntés jellegének leírását és a végrehajtandó követelésnek és elemeinek a megjelölését a megkereső ország pénznemében, a végrehajtási eljárással kapcsolatos minden releváns eseményt, valamint a megkereső hatóság általi megerősítést arra vonatkozóan, hogy a döntéssel szemben további jogorvoslat nem vehető igénybe.
+b) a végrehajtás foganatosítása iránti megkeresés esetén az azt megalapozó döntés véglegessé és végrehajthatóvá válásának időpontját, a döntés jellegének leírását és a végrehajtandó követelésnek és elemeinek a megjelölését a megkereső ország pénznemében, a végrehajtási eljárással kapcsolatos minden releváns eseményt, valamint a megkereső hatóság általi megerősítést arra vonatkozóan, hogy a döntéssel szemben további jogorvoslat nem vehető igénybe.
 
 (3) A munkaügyi hatóság – lehetőség szerint a megkeresés kézhezvételétől számított egy hónapon belül –
 
 a) a megkeresést elutasítja, ha az a 8/G. § (1) és (2) bekezdésében foglaltak figyelembevételével nem teljesíthető, vagy
 
-b) a végrehajtást – a munkaügyi bírság végrehajtására vonatkozó szabályok szerint – foganatosítja, és a megkereső hatóságot a végrehajtás érdekében tett intézkedésekről haladéktalanul tájékoztatja.
+b) a végrehajtást – a munkaügyi bírság végrehajtására vonatkozó szabályok szerint – kezdeményezi, és a megkereső hatóságot a végrehajtás érdekében tett intézkedésekről haladéktalanul tájékoztatja.

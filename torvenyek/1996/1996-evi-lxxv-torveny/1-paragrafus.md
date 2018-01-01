@@ -1,34 +1,38 @@
-1. § (1) E törvény hatálya kiterjed
+1. § (1) E törvény alkalmazásában
 
-a) arra a természetes és jogi személyre, aki, illetve amely a tizennyolcadik életévét betöltött természetes személyt foglalkoztatásra irányuló jogviszony – ideértve az egyszerűsített foglalkoztatásra vagy alkalmi munkára létesített munkaviszonyt is –, továbbá harmadik országbeli állampolgárt vagy fiatal munkavállalót foglalkoztatásra irányuló jogviszony, illetve a (4) bekezdésben meghatározott jogviszonyok alapján foglalkoztat,
+a) ellenérték: minden olyan pénzbeli és természetbeli juttatás, amelyet a munkavégzésre tekintettel nyújtottak vagy amelyben megállapodtak;
 
-b) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadóra és a kölcsönvevőre, az iskolaszövetkezet által nyújtott szolgáltatás esetén az iskolaszövetkezetre és a szolgáltatás fogadójára, valamint a közérdekű nyugdíjas szövetkezet által nyújtott szolgáltatás esetén a közérdekű nyugdíjas szövetkezetre és a szolgáltatás fogadójára
+b) fiatal munkavállaló: a tizennyolcadik életévét be nem töltött munkavállaló, valamint a 3/B. § (2) bekezdésében meghatározott jogviszony keretében foglalkoztatott, illetve a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény (a továbbiakban: Köt.) alapján közérdekű önkéntes tevékenységet végző, tizennyolcadik életévét be nem töltött személy;
 
-(a továbbiakban együtt: foglalkoztató).
+c) foglalkoztató: a munkáltató, továbbá az a természetes vagy jogi személy, aki természetes személyt a h) ponton kívüli egyéb – foglalkoztatásra irányuló – jogviszony keretében foglalkoztat;
 
-(2) Az (1) bekezdésben foglaltakon túlmenően a törvény hatálya kiterjed
+d) foglalkoztatásra irányuló jogviszony: a munkaviszony, valamint – a 3/B. § (2) bekezdésében foglalt kivétellel – minden olyan jogviszony, amelyben a szolgáltatás tárgya a foglalkoztató részére ellenérték fejében végzett munka;
 
-a) a külföldön letelepedett és határokon átnyúló szolgáltatásnyújtás céljából munkavállalót Magyarországra küldő munkáltatóra (a továbbiakban: külföldi munkáltató),
+e) munkabér: a munkaviszonyra tekintettel munkaviszonyra vonatkozó szabály alapján járó munkabér és bérpótlék, továbbá a jogszabály alapján járó illetmény, illetménypótlék, illetménykiegészítés és tizenharmadik havi illetmény, a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvényben, a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvényben, az igazságügyi alkalmazottak szolgálati viszonyáról szóló 1997. évi LXVIII. törvényben foglalt javadalmazás, továbbá a munkaviszonyra vonatkozó szabályban megállapított egyéb pénzbeli juttatás;
 
-b) a külföldi munkáltató munkavállalójának az Mt. 295. § alapján történő munkavégzésére.
+f) munkahely: a munkavédelemről szóló 1993. évi XCIII. törvény 87. § 5. pontjában meghatározott munkahely, kivéve a bedolgozó, illetve a távmunkát végző munkavégzés céljára szolgáló lakóhelye vagy a munkavégzés céljára biztosított más lakóhelyisége, továbbá a magánszemély munkáltató – egyéni vállalkozó székhelyének nem minősülő – lakóhelye;
 
-(2a) A törvény hatálya kiterjed az Mt. hatálya alá nem tartozó munkáltatóra, a nemzetközi magánjog szabályai szerint imperatív rendelkezések, valamint azon jogszabályi rendelkezések tekintetében, amelyektől az Mt. szabályai szerint megállapodás útján nem lehet eltérni.
+g) a munkaszerződés lényeges tartalmi eleme: a 3. § (1) bekezdés a) pontjának alkalmazásában az alapbér, a munkakör, a munkahely (munkavégzés helye), valamint a munkaidő;
 
-(3) E törvény alkalmazásában – a (4) bekezdésben foglalt kivétellel – foglalkoztatásra irányuló jogviszonynak minősül minden olyan jogviszony, amelyben a szolgáltatás tárgya a foglalkoztató részére ellenérték fejében végzett munka.
+h) munkaviszony: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó munkaviszony, továbbá a közszolgálati jogviszony, az állami szolgálati jogviszony, a kormányzati szolgálati jogviszony, a közalkalmazotti jogviszony, a bírói és igazságügyi szolgálati, valamint az ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját és a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját –, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszony, valamint a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú katonák szolgálati viszonya;
 
-(4) Nem foglalkoztatásra irányuló jogviszony keretében történik
+i) munkáltató: az a természetes vagy jogi személy, aki természetes személyt munkaviszony keretében foglalkoztat.
 
-a) a Polgári Törvénykönyvben szabályozott vállalkozási szerződés, valamint megbízási szerződés alapján végzett munka, továbbá,
+(2) E törvény hatálya a munkaügyi hatósági ellenőrzésre (a továbbiakban: munkaügyi ellenőrzés) és a munkaügyi hatóság által a munkaügyi ellenőrzés alapján indított munkaügyi hatósági eljárásra terjed ki.
 
-b) a Polgári Törvénykönyvben szabályozott közkereseti társaság és betéti társaság tagjának személyes közreműködése, valamint a korlátolt felelősségű társaság tagjának mellékszolgáltatásként nyújtott személyes közreműködése,
+(3) Az e törvény hatálya alá tartozó ügyekben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit az e törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
 
-c) a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvényben (a továbbiakban: Köt.) szabályozott önkéntes szerződés alapján végzett közérdekű önkéntes tevékenység,
+(4) E törvény alkalmazásában ügyfél:
 
-d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés – ideértve a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Sztv.) 10/B. § (2) bekezdése és 29. § (2) bekezdése szerinti megállapodást is – alapján teljesíti,
+a) az a foglalkoztató, akit munkaügyi ellenőrzés alá vontak, vagy akivel szemben munkaügyi hatósági eljárást indítottak,
 
-e) az önálló kereskedelmi ügynöki szerződés alapján végzett munka.
+b) az (5b) bekezdés szerinti adatszolgáltatás kötelezettje,
 
-(5) A munkaügyi hatóság jogosult hatósági ellenőrzés során megállapított tényállás alapján a foglalkoztató és a részére munkát végző személy közötti, illetve a munkavállalónak munkavégzés céljából történő átengedése alapjául szolgáló jogviszony, valamint a tényleges foglalkoztatás alapján létrejött kapcsolat minősítésére. Ehhez a foglalkoztatónak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a részére végzett munka a (4) bekezdés szerinti jogviszonyok alapján, vagy ellenérték nélkül történt.
+c) a 3. § (1a) bekezdése szerinti adatszolgáltatás kötelezettje,
+
+d) a 3/B. § (1) bekezdés e)–g) pontja szerinti munkáltató.
+
+(5) A munkaügyi hatóság jogosult hatósági ellenőrzés során megállapított tényállás alapján a foglalkoztató és a részére munkát végző személy közötti, illetve a munkavállalónak munkavégzés céljából történő átengedése alapjául szolgáló jogviszony, valamint a tényleges foglalkoztatás alapján létrejött kapcsolat minősítésére. Ehhez a foglalkoztatónak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a részére végzett munka a 3/B. § (2) bekezdése szerinti jogviszonyok alapján, vagy ellenérték nélkül történt.
 
 (5a) A munkaügyi hatóság az 1. mellékletben meghatározott értékelési szempontok alapján vizsgálja a határokon átnyúló szolgáltatásnyújtás keretében kiküldött munkavállaló magyarországi munkavégzését. Ennek eredményeként a munkaügyi hatóság jogosult annak megállapítására, hogy a munkavállaló nem minősül kiküldött munkavállalónak.
 

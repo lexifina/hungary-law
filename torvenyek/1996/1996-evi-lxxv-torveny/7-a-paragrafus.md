@@ -8,7 +8,7 @@ b) a korábbi engedély nélküli foglalkoztatást megállapító határozat jog
 
 megfelelő összeg.
 
-(3) Magánszemély munkáltató által nem egyéni vállalkozás keretében foglalkoztatott harmadik országbeli állampolgár engedély nélkül történő foglalkoztatása esetén a természetes személy foglalkoztatót a (2) bekezdésben foglaltaktól eltérően
+(3) Természetes személy foglalkoztató (ideértve az őstermelőt is) által nem egyéni vállalkozás keretében foglalkoztatott harmadik országbeli állampolgár engedély nélkül történő foglalkoztatása esetén a természetes személy foglalkoztatót a (2) bekezdésben foglaltaktól eltérően
 
 a) első alkalommal megállapított engedély nélkül történő foglalkoztatás esetén a minimálbér kétszeresének,
 
@@ -34,4 +34,4 @@ megfelelő összeg terheli a foglalkoztatót.
 
 (6) Ha a munkaügyi hatóság a foglalkoztatót az (1)–(5) bekezdés alapján a központi költségvetésbe történő befizetésre kötelezte, ugyanezen jogsértés miatt munkaügyi bírság nem szabható ki.
 
-(7) A munkaügyi hatóság a 3. § (1) bekezdés i) pontja szerinti, a harmadik országbeli állampolgár magyarországi foglalkoztatását érintő jogsértés megállapítása esetén a jogerős határozatát közli az idegenrendészeti hatósággal.
+(7) A munkaügyi hatóság a 3. § (1) bekezdés i) pontja szerinti, a harmadik országbeli állampolgár magyarországi foglalkoztatását érintő jogsértés megállapítása esetén a végleges határozatát közli az idegenrendészeti hatósággal.
