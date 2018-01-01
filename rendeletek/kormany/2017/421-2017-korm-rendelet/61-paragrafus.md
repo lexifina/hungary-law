@@ -1,0 +1,1 @@
+## 60. § A pártfogó ügyvédi díj visszatérítésének kötelezettségét a területi hivatal bejegyzi a támogatások nyilvántartásába az összegnek, a visszatérítésre kötelező határozat számának, a visszatérítési határidőnek, és ha a visszatérítésre nem a fél köteles, a visszatérítésre köteles személy adatainak feltüntetésével.

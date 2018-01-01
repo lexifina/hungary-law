@@ -1,0 +1,1 @@
+## 54. § A Jst. 11/A. §-a szerinti támogatásban részesült felet a területi hivatal akkor sem kötelezi a helyette, vagy az ugyancsak támogatásban részesült perbeli ellenfele helyett kifizetett, államot terhelő pártfogó ügyvédi díj visszatérítésére, ha az értesítés szerint a fél perbeli ellenfele sem köteles a pártfogó ügyvédi díj viselésére.

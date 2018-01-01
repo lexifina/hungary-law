@@ -1,0 +1,9 @@
+## HATODIK RÉSZ
+
+## ZÁRÓ RENDELKEZÉSEK
+
+## XVI. Fejezet
+
+## HATÁLYBALÉPÉS, ÁTMENETI RENDELKEZÉSEK ÉS AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
+
+## 40. Hatálybalépés

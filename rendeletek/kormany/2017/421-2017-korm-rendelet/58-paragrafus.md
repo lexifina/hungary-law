@@ -1,0 +1,1 @@
+## 57. § Ha a felet képviselő pártfogó ügyvéd díjának viselésére az értesítés szerint a perbeli ellenfél köteles, a területi hivatal határozattal kötelezi őt a kifizetett pártfogó ügyvédi díjelőleg visszatérítésére.

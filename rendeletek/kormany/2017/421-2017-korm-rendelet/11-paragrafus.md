@@ -1,0 +1,1 @@
+## 10. § A területi hivatal a támogatások elektronikus nyilvántartásába (a továbbiakban: támogatások nyilvántartása) a Jst. 34. §-ában meghatározott adatokat a bejegyzés alapját képező irat kézhezvételét követően legkésőbb öt napon belül jegyzi be.

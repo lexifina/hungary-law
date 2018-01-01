@@ -1,0 +1,1 @@
+## 52. § Ha a fél vagy ellenfele a pártfogó ügyvédi díj valamely hányadának visszatérítésére köteles, vagy az állam viseli annak valamely hányadát, e hányadot összegszerűen, szükség esetén forintra kerekítve kell meghatározni.
