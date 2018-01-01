@@ -1,1 +1,0 @@
-## Kötelezettségátadásra vonatkozó szabályok
