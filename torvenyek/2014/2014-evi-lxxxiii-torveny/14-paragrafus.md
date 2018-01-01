@@ -1,6 +1,6 @@
 14. § (1) Az 1. § (4) bekezdés b) pontja szerinti esetben a kártyakibocsátás engedélyezéséről a működtető kérelemre (a továbbiakban: kártyakibocsátási kérelem) 60 napon belül közigazgatási hatósági eljárás keretében dönt. A hatósági eljárás igazgatási szolgáltatási díj-köteles.
 
-(2) Az (1) bekezdés szerinti engedélyezési eljárásban – az (5) bekezdés b) pontja szerinti kérdés tekintetében – az Alkotmányvédelmi Hivatal szakhatóságként vesz részt.
+(2) Az eljáró hatóság az engedélyezési eljárás során gondoskodik a szakhatóságok kijelölésével kapcsolatos kormányrendeletben meghatározott szakkérdés tekintetében a szakhatóság állásfoglalásának beszerzéséről.
 
 (3) Biztonsági okmány esetében a kártyakibocsátó a biztonsági okmány előállítására vonatkozó hatósági engedélyezési eljárás jogerős befejezését követően nyújthatja be a kártyakibocsátási kérelmet a működtetőhöz.
 
@@ -30,10 +30,10 @@ a) a kérelmező, a kibocsátani tervezett kártya, valamint a kártyakibocsát�
 
 aa) az e törvényben és a felhatalmazása alapján kiadott jogszabályban, valamint
 
-ab) – ha van – az ágazati törvényben és az annak felhatalmazása alapján kiadott jogszabályban
+ab) – ha van – az egyéb törvényben és az annak felhatalmazása alapján kiadott jogszabályban
 
 meghatározott műszaki, technológiai, biztonsági előírásoknak,
 
 b) Magyarország nemzetbiztonsági érdekeit nem sérti.
 
-(6) Ha a kártyakibocsátási kérelem megalapozott, a működtető a kérelmezővel hatósági szerződést köt. A hatósági szerződés határozatlan időtartamra szól. A hatósági szerződésnek tartalmaznia kell, hogy a működtető a hatósági ellenőrzésen tapasztalt hiányosság esetén a kártyakibocsátó ezirányú tevékenységét – a hiányosság pótlásáig – azonnali hatállyal felfüggesztheti.
+(6) Ha a kártyakibocsátási kérelmet az (5) bekezdés alapján engedélyezni kell, a 13. § (1) bekezdés b) pontja szerinti kérelmezővel a kártyakibocsátást engedélyező hatósági szerződést köt, mely tartalmazza a működtető kártyakibocsátást engedélyező döntését, valamint a kártyakibocsátó szerződésszegése esetére a jelen törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott jogkövetkezményeket. A hatósági szerződés határozatlan időtartamra szól.

@@ -103,3 +103,7 @@ e) (4) bekezdésben megjelölt adatainak forrása a kártyakibocsátó adatszolg
 f) (3) bekezdés d) pontjában megjelölt adatainak forrása a 9. § (8) bekezdés b) pontjában foglaltak szerint az okirat bemutatásával történő bejelentés.
 
 (6) A működtető a személyes adatok védelme céljából a NEK központi nyilvántartás vonatkozásában köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, melyek biztosítják az adatvédelmi követelmények teljesítését. Az adatvédelmi szabályzatot a jogi környezet megváltozásával haladéktalanul felül kell vizsgálni és szükség esetén módosítani kell.
+
+(7) A NEK központi nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+
+(8) A működtető hivatalból köteles a NEK központi nyilvántartásában a jogszabálysértő bejegyzést törölni, a hibás bejegyzést javítani vagy az elmulasztott bejegyzést pótolni.

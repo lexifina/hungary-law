@@ -16,7 +16,7 @@
 
 7. kártyafelhasználó: az a természetes személy, aki a birtokában lévő, e törvény alapján kibocsátott kártyával igazolja valamely jogosultságát vagy szolgáltatást vesz igénybe,
 
-8. kártyakibocsátó: kártya kibocsátására feljogosított szervezet,
+8. kártyakibocsátó: kártya kibocsátására jogszabály kijelölése vagy a működtető engedélye alapján jogosult szervezet,
 
 9. másodlagos kártya: valamely elsődleges kártya által hordozott, ahhoz kizárólag elektronikusan hozzárendelt kártyafunkció,
 

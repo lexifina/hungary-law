@@ -16,7 +16,7 @@ csatlakozhat.
 
 (4) A NEK-hez kártyakibocsátóként az csatlakozhat, akit
 
-a) ágazati törvény vagy ágazati törvény felhatalmazása alapján jogszabály a csatlakozásra kijelölt, vagy
+a) törvény vagy törvény felhatalmazása alapján jogszabály a csatlakozásra kijelölt, vagy
 
 b) az e törvény szerinti hatósági eljárásban kártyakibocsátásra feljogosítottak.
 
@@ -24,6 +24,6 @@ b) az e törvény szerinti hatósági eljárásban kártyakibocsátásra feljogo
 
 a) kártyakibocsátó csak költségvetési szerv vagy közfeladatot ellátó más szerv lehet,
 
-b) a kártyakibocsátással és -felhasználással összefüggő adatkezelés, valamint a másodlagos kártyakibocsátás tekintetében ágazati törvény e törvényhez képest speciális szabályokat határozhat meg.
+b) a kártyakibocsátással és -felhasználással összefüggő adatkezelés, valamint a másodlagos kártyakibocsátás tekintetében törvény e törvényhez képest speciális szabályokat határozhat meg.
 
-(6) Ágazati törvény előírhatja a NEK-hez kártyafelhasználóként való kötelező csatlakozást.
+(6) Törvény előírhatja a NEK-hez kártyafelhasználóként való kötelező csatlakozást.

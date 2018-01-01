@@ -10,6 +10,6 @@ b) gondoskodik a NEK központi nyilvántartást támogató elektronikus informá
 
 c) gondoskodik a NEK központi nyilvántartás folyamatos működéséről,
 
-d)
+d) hatósági ellenőrzés keretében vizsgálja a kártyakibocsátó, a megszemélyesítő, valamint a kártyaelfogadó NEK-kel kapcsolatos tevékenységét,
 
 e) ellátja az e törvényben és az ágazati törvényben, valamint az e törvény vagy az ágazati törvény felhatalmazása alapján kiadott jogszabályban hatáskörébe utalt egyéb feladatokat.

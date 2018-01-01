@@ -1,6 +1,10 @@
 ## 12. Záró rendelkezések
 
-21. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a működtetőt és a regisztrációs szervet.
+21. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
+
+a) jelölje ki a működtetőt és a regisztrációs szervet,
+
+b) állapítsa meg a működtető, a kártyakibocsátó, a kártyaelfogadó és a megszemélyesítő megszemélyesítést végző szervezet által kibocsátandó dokumentumok körét és elfogadásának rendjét, továbbá a kártyaigénylés, a kártyafelhasználói regisztráció, a kártyakibocsátás hatósági ellenőrzésének, a kártyakibocsátás engedélyezésére irányuló eljárásnak, a minősítési eljárás lefolytatásának, valamint a NEK keretében megkötendő szerződés és hatósági szerződés és a szerződésszegés esetén alkalmazandó jogkövetkezmények részletes szabályait.
 
 (2) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy rendeletben határozza meg
 
