@@ -4,7 +4,7 @@
 
 1. csökkenő súlyosságú kockázati kategóriák:
 
-a) I. kockázati kategória: a veszélyes áruk szállításáról szóló előírások betartásának olyan elmulasztása, amely haláleset, súlyos személyi sérülés vagy jelentős környezetkárosodás okozásának nagyfokú kockázatával jár. Az ilyen mulasztásoknál a veszély elhárítására megfelelő, azonnali intézkedések történnek, így többek között a szállítmány feltartóztatása, a továbbszállításának megakadályozása;
+a)[^1] I. kockázati kategória: a veszélyes áruk szállításáról szóló előírások betartásának olyan elmulasztása, amely haláleset, súlyos személyi sérülés vagy jelentős környezetkárosodás okozásának nagyfokú kockázatával jár. Az ilyen mulasztásoknál a veszély elhárítására megfelelő, azonnali eljárási cselekmények történnek, így többek között a szállítmány feltartóztatása, a továbbszállításának megakadályozása;
 
 b) II. kockázati kategória: a veszélyes áruk szállításáról szóló előírások betartásának olyan elmulasztása, amely személyi sérülés vagy környezetkárosodás okozásának kockázatával jár. Az ilyen mulasztásoknál a veszély elhárítására megfelelő intézkedések történnek, így többek között a hiba elhárítására való kötelezés – ha lehetséges és célszerű – az ellenőrzés helyén, de legkésőbb a folyamatban lévő szállítási művelet befejezésekor;
 
@@ -27,3 +27,5 @@ c) III. kockázati kategória: a veszélyes áruk szállításáról szóló el�
 9. veszélyes áru légi szállításra történő előkészítése: a légi szállításra engedélyezett áru becsomagolása, dokumentálása, jelölése, tárolása, légijármű kivételével járműre történő be- és kirakodása, átrakása, beleértve a töltést és ürítést is, telephelyen való mozgatása;
 
 10. veszélyes áru továbbítása: a veszélyes áru járművel történő tényleges mozgatása.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 513. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
