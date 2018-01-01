@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § az 5. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## 2. § Az R1. 2. melléklete helyébe az 1. melléklet lép.
