@@ -1,0 +1,1 @@
+## 14. § Ha a működési engedély módosítását a muzeális intézmény nevének vagy székhelyének megváltozása indokolja, a fenntartó a változás tényének bejelentésével és igazolásával kezdeményezi a működési engedély módosítását.

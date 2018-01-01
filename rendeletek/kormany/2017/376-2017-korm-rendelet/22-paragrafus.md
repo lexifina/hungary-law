@@ -1,0 +1,5 @@
+22. § (1) A miniszter a muzeológiai szakfelügyelet útján rendszeresen – legalább ötévente egyszer – vizsgálja a muzeális intézmények működési engedélyében foglaltak megvalósulását és betartását.
+
+(2) Ha a miniszternek a muzeális intézmény működési engedélyében feltüntetett szakmai besorolásnak megfelelő folyamatos és rendeltetésszerű működéshez szükséges feltételek teljesítésével kapcsolatos hiányosság jut tudomására – a hiányosságok megszüntetéséhez szükséges időtartam figyelembevételével, legfeljebb egyéves, a muzeális intézmény műtárgyállományát súlyosan veszélyeztető hiányosság esetén legfeljebb 15 napos határidő megjelölésével – felszólítja a fenntartót a hiányosságok megszüntetésére.
+
+(3) Ha a fenntartó önhibáján kívül nem képes a hiányosságok megszüntetésére, a (2) bekezdés szerinti határidőt a miniszter a fenntartó kérésére – a hiányosságok megszüntetéséhez szükséges időtartam figyelembevételével, a muzeális intézmény műtárgyállományát súlyosan veszélyeztető hiányosság esetét kivéve – legfeljebb egy alkalommal, legfeljebb egy évvel meghosszabbíthatja.
