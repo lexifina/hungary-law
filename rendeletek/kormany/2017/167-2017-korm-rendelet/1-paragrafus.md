@@ -4,4 +4,6 @@
 
 a) amelyek a Beruházások megvalósításához és használatbavételéhez szükségesek, ideértve a közműfejlesztési és -csatlakozási munkákkal kapcsolatos közigazgatási hatósági ügyeket is, továbbá
 
-b) amelyek az 1. mellékletben a Beruházások megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási eljárások jogerős befejezését követően kialakított ingatlanokat érintik.
+b)[^1] amelyek az 1. mellékletben a Beruházások megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási eljárások véglegessé válását követően kialakított ingatlanokat érintik.
+
+[^1]: Az 1. § (2) bekezdés b) pontja a 458/2017. (XII. 28.) Korm. rendelet 382. §-a szerint módosított szöveg.
