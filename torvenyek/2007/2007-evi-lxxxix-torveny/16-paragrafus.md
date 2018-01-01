@@ -18,13 +18,17 @@ d) a határátkelőhely rendjének kötelező tartalmát, megállapításának m
 
 e) az 5. § szerinti közérdekű használati jog gyakorlására jogosult szerveket és személyeket,
 
-f) az 5/A. § szerinti kártalanítás és kártalanítási eljárás szabályait.
+f) az 5/A. § szerinti kártalanítás és kártalanítási eljárás szabályait,
+
+g) a határvízen történő közlekedés engedélyezésének szabályait,
+
+h) a katonai alakulatok és szállítmányok államhatáron történő átléptetésével kapcsolatos közigazgatási hatósági eljárás különös és kiegészítő rendelkezéseit.
 
 (5) Felhatalmazást kap a Kormány, hogy a határátlépés ellenőrzésének ideiglenes visszaállítását rendeletben hirdesse ki.
 
 (6) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a határjegyzőkönyvet rendeletben hagyja jóvá.
 
-(7) Felhatalmazást kap a határrendészetért felelős miniszter, hogy rendeletben határozza meg a határvízen történő közlekedés engedélyezésének szabályait.
+(7)
 
 (8) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a közbiztonság védelme érdekében
 

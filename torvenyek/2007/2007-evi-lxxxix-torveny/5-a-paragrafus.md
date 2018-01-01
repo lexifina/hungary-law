@@ -6,7 +6,7 @@ b) az ingatlan 5. § (3) bekezdése szerinti igénybevételével összefüggésb
 
 illeti meg.
 
-(2) A fővárosi és megyei kormányhivatal határozatában rendelkezik az ingatlan tulajdonosát megillető kártalanításáról. A határozat ellen közigazgatási úton fellebbezésnek helye nincs.
+(2) A fővárosi és megyei kormányhivatal határozatában rendelkezik az ingatlan tulajdonosát megillető kártalanításáról.
 
 (3) A kártalanítás összegét az általános rendőrségi feladatok ellátására létrehozott szerv téríti meg az ingatlan tulajdonosának.
 

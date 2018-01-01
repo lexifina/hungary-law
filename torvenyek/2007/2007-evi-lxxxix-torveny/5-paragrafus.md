@@ -14,6 +14,6 @@ b) a honvédelmi, nemzetbiztonsági, katasztrófavédelmi, határőrizeti, menek
 
 (4) A közérdekű használati jogot a Kormány által rendeletben meghatározott szervek és személyek – kizárólag az (1) bekezdésben meghatározott célból, a feladat ellátásához feltétlenül szükséges mértékben – gyakorolhatják.
 
-(5) A közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzését az általános rendőrségi feladatok ellátására létrehozott szerv kezdeményezi. A közérdekű használati jog bejegyzését elrendelő határozat ellen közigazgatási úton fellebbezésnek helye nincs.
+(5) A közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzését az általános rendőrségi feladatok ellátására létrehozott szerv kezdeményezi.
 
 (6) A közérdekű használati jog ingatlan-nyilvántartásból történő törlését az általános rendőrségi feladatok ellátására létrehozott szerv kezdeményezi, ha a közérdekű használati jog az ingatlanon azért szűnik meg, mert az államhatár (1) bekezdés szerinti szakasza a Schengeni határ-ellenőrzési kódex 2. cikk 1. pontja szerinti belső határnak minősül.
