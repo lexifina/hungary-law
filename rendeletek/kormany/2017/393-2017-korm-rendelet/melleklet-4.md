@@ -1,0 +1,81 @@
+## „1. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez
+
+## önálló bírósági végrehajtó
+
+## irodájának címe
+
+## ............................................................. telefonszám ügyszám
+
+## ÁTVÉTELI IGAZOLÁS
+
+## bírósági irat végrehajtói kézbesítés során történő átvételéről
+
+## I. A kézbesítendő bírósági határozat adatai
+
+| □ | □ | □ | □ | □ | □ | □ | □ | □ |
+
+| ítélet | végzés | fizetési meghagyás | bírósági meghagyás | közjegyzői határozat, egyezség, költségjegyzék | ingatlan- nyilvántartási határozat | felszámolói értesítés | szerződés megszűnését eredményező nyilatkozat | keresetlevél |
+
+## A határozatot hozó bíróság/ingatlanügyi hatóság neve/közjegyző neve és székhelye1:
+
+## A felszámolói értesítést kiadó felszámoló (felszámolóbiztos) neve, székhelye, levelezési címe2:
+
+## A bírósági / ingatlan-nyilvántartási / közjegyzői határozat száma / a felszámolói értesítés iktatószáma3:
+
+## A szerződés megszűnését eredményező nyilatkozatot közjegyzői okiratba foglaló közjegyző neve, székhelye, a közjegyzői okirat száma4:
+
+## A szerződés megszűnését eredményező nyilatkozat mellékletei5:
+
+## A keresetlevéllel indult perben eljáró bíróság neve, székhelye, valamint a per ügyszáma6:
+
+## A keresetlevél mellékletei7:
+
+## II. A címzett adatai
+
+## név:
+
+## cím (bírósági / ingatlan-nyilvántartási határozat / felszámolói értesítés / keresetlevél szerint):
+
+## kézbesítés helye:
+
+## III. Kézbesítés a címzett részére
+
+## Az I. pont szerinti iratot és annak I. pont szerinti mellékleteit átvettem.
+
+## dátum: ................................................ aláírás:
+
+## az átvevő neve (14 év alatti, gondnokság alatt lévő, vagy nem természetes személy címzett esetében):
+
+## személyazonosságot igazoló okirat fajtája és száma:
+
+## IV. Kézbesítés helyettes átvevő részére
+
+## Az I. pont szerinti iratot és annak I. pont szerinti mellékleteit átvettem. Kijelentem, hogy a címzettel perben nem állok, és az általam átvett iratot és mellékleteit a címzett részére átadom.
+
+## helyettes átvevő neve:
+
+## dátum: ................................................ aláírás:
+
+## személyazonosságot igazoló okirat fajtája és száma:
+
+## hozzátartozói, egyéb kapcsolata a címzettel:
+
+## V. A kézbesítési végrehajtó aláírása, bélyegzőjének lenyomata:
+
+## ....................................................................... P. H.
+
+## _____________________
+
+## 1 A megfelelő aláhúzandó.
+
+## 2 Ezt csak a felszámolói értesítés végrehajtói kézbesítésekor kell kitölteni.
+
+## 3 A megfelelő aláhúzandó.
+
+## 4–5 Ezeket a szerződés megszűnését eredményező nyilatkozat végrehajtói kézbesítésekor kell kitölteni.
+
+## 6–7 Ezeket a keresetlevél végrehajtói kézbesítésekor kell kitölteni.
+
+## ”
+
+4. melléklet a 393/2017. (XII. 13.) Korm. rendelethez
