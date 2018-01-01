@@ -1,4 +1,4 @@
-2. melléklet a 28/2013. (VI. 29.) NGM rendelethez[^21]
+2. melléklet a 28/2013. (VI. 29.) NGM rendelethez[^15]
 
 ## KÉRDŐÍV A KÖZÉRDEKLŐDÉSRE SZÁMOT TARTÓ GAZDÁLKODÓKNÁL JOG SZERINTI KÖNYVVIZSGÁLATÁT ELLÁTÓ KÖNYVVIZSGÁLÓ CÉGEK BELSŐ MINŐSÉGELLENŐRZÉSI RENDSZERÉNEK ELLENŐRZÉSÉHEZ
 
@@ -458,4 +458,4 @@ Ha az EREDMÉNY
 
 (6) A fenti értékelési rendszer iránymutatás. A közfelügyeleti hatóságnak joga van a fenti értékelési rendszer alapján kapott értékelést fölfelé és lefelé módosítani.
 
-[^21]: A 2. melléklet a 26/2017. (IX. 11.) NGM rendelet 3. § (1) bekezdés b) pontjával megállapított szöveg.
+[^15]: A 2. melléklet a 26/2017. (IX. 11.) NGM rendelet 3. § (1) bekezdés b) pontjával megállapított szöveg.

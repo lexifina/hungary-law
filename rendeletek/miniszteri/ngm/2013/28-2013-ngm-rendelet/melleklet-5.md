@@ -12,7 +12,7 @@
 
 | Nem felelt meg | Megfelelt, megjegyzéssel | Nem felelt meg | Nem felelt meg |
 
-5. melléklet a 28/2013. (VI. 29.) NGM rendelethez[^23]
+5. melléklet a 28/2013. (VI. 29.) NGM rendelethez[^17]
 
 KÉRDŐÍV A KAMARAI TAG KÖNYVVIZSGÁLÓK EGYEDI MEGBÍZÁSAINAK KÖNYVVIZSGÁLÓI KÖZFELÜGYELETI HATÓSÁG ÁLTAL LEFOLYTATOTT ELLENŐRZÉSÉHEZ
 
@@ -620,4 +620,4 @@ ISQC1: 1. témaszámú nemzetközi minőségellenőrzési standard
 
 | - Amennyiben az igen válaszok aránya az összes válaszhoz viszonyítva 90% vagy a fölötti, akkor az egyedi megbízás minősítése „megfelel”. 70% és 90% között a minősítés „megjegyzéssel megfelel”, 70% alatt pedig „nem felel meg”. |
 
-[^23]: Az 5. mellékletet a 26/2017. (IX. 11.) NGM rendelet 3. § (2) bekezdése iktatta be.
+[^17]: Az 5. mellékletet a 26/2017. (IX. 11.) NGM rendelet 3. § (2) bekezdése iktatta be.
