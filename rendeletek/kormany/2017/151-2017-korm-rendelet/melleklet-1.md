@@ -1,4 +1,4 @@
-## 8. §[^4] A Budapesten létesítendő Roma Oktatási és Kulturális Központ megvalósítását célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 151/2017. (VI. 12.) Korm. rendelet módosításáról szóló 252/2017. (IX. 5.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 4. §-t, 4/A. §-t és 4/B. §-t a MódR. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 8. §[^6] A Budapesten létesítendő Roma Oktatási és Kulturális Központ megvalósítását célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 151/2017. (VI. 12.) Korm. rendelet módosításáról szóló 252/2017. (IX. 5.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 4. §-t, 4/A. §-t és 4/B. §-t a MódR. hatálybalépésekor[^7] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 151/2017. (VI. 12.) Korm. rendelethez
 
@@ -48,5 +48,5 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: A 8. §-t a 252/2017. (IX. 5.) Korm. rendelet 4. §-a iktatta be.
-[^5]: A hatálybalépés időpontja 2017. szeptember 6.
+[^6]: A 8. §-t a 252/2017. (IX. 5.) Korm. rendelet 4. §-a iktatta be.
+[^7]: A hatálybalépés időpontja 2017. szeptember 6.

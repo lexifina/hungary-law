@@ -1,4 +1,4 @@
-4/A. §[^2] (1) A hatályos településrendezési eszközök és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni.
+4/A. §[^4] (1) A hatályos településrendezési eszközök és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) Az 1. § (1) bekezdése szerinti telekre meghatározott sajátos beépítési szabályok:
 
@@ -10,4 +10,4 @@ c) a beépítettség megengedett legnagyobb mértéke – az építményszinteke
 
 d) amennyiben a Műemléki Tanácsadó Testület szakértői véleménye, illetve az egyéb hatósági, szakhatósági egyeztetések eredménye alapján mélygarázs nem létesíthető, akkor a szintterületi mutató megengedett legnagyobb értéke 4,0 m2/m2.
 
-[^2]: A 4/A. §-t a 252/2017. (IX. 5.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 4/A. §-t a 252/2017. (IX. 5.) Korm. rendelet 2. §-a iktatta be.
