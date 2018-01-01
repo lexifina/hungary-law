@@ -32,7 +32,7 @@ c) kézbesítési megbízottal rendelkező fél esetében a kézbesítési megb�
 
 d) a kérelem előterjesztése során meghatalmazottal eljáró fél esetében a képviseletre adott meghatalmazás elektronikus másolatát.
 
-(3) A kérelemben meg kell jelölni – a polgári perrendtartásról szóló 1952. évi III. törvény 67. § c)–j) pontjának valamelyikére hivatkozással – a meghatalmazotti tevékenység típusát is és a kérelemhez csatolni kell a meghatalmazottként való eljárásra feljogosító jogviszony fennállását igazoló irat elektronikus másolatát (ügyvéd esetében az ügyvédi igazolvány elektronikus másolatát).
+(3)[^34] A kérelemben meg kell jelölni – a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 65. § a) és b), valamint e)–g) pontjának valamelyikére hivatkozással – a meghatalmazotti tevékenység típusát is, és – kivéve, ha a képviseleti jog igazolására kötelezésnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) 19. § (3) bekezdésében meghatározott okból nincs helye – a kérelemhez csatolni kell a meghatalmazottként való eljárásra feljogosító jogviszony fennállását igazoló irat elektronikus másolatát.
 
 (4) A kérelemhez olyan elektronikus aláírás tanúsítvány csatolható, amely igazolja
 
@@ -41,3 +41,4 @@ a) az aláíró ügyvédi kamarai tagságának fennállását,
 b) egyéb meghatalmazott esetében pedig azt, hogy az aláíró jogosult a meghatalmazás alapján képviselt nevében történő aláírásra.
 
 [^33]: A 19. § (2) bekezdés b) pontját a 20/2014. (XII. 23.) IM rendelet 16. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^34]: A 19. § (3) bekezdése a 20/2017. (XII. 21.) IM rendelet 37. § (2) bekezdésével megállapított szöveg.

@@ -34,13 +34,13 @@ a) a felhasználó elektronikus aláírói tanúsítványát, titkosító tanús
 
 b) nem cég szervezet esetében a nyilvántartásba vételéről szóló határozat elektronikus másolatát,
 
-c)[^37]
+c)[^39]
 
 d) kézbesítési megbízottal rendelkező fél esetében a kézbesítési megbízottal kötött megbízási szerződés elektronikus másolatát,
 
 e) a kérelem előterjesztése során meghatalmazottal eljáró fél esetében a képviseletre adott meghatalmazás elektronikus másolatát.
 
-(3)[^38] Ha az elektronikus kapcsolattartást igénylő egyéb fél szervezet, a nevében eljáró felhasználóként olyan személyt jelölhet meg kérelmében, aki jogosult a nevében küldemények továbbítására és fogadására, valamint azok adatainak megismerésére. Több felhasználó is megjelölhető.
+(3)[^40] Ha az elektronikus kapcsolattartást igénylő egyéb fél szervezet, a nevében eljáró felhasználóként olyan személyt jelölhet meg kérelmében, aki jogosult a nevében küldemények továbbítására és fogadására, valamint azok adatainak megismerésére. Több felhasználó is megjelölhető.
 
-[^37]: A 22. § (2) bekezdés c) pontját a 20/2014. (XII. 23.) IM rendelet 16. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^38]: A 22. § (3) bekezdése a 20/2014. (XII. 23.) IM rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^39]: A 22. § (2) bekezdés c) pontját a 20/2014. (XII. 23.) IM rendelet 16. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^40]: A 22. § (3) bekezdése a 20/2014. (XII. 23.) IM rendelet 16. § (1) bekezdése szerint módosított szöveg.
