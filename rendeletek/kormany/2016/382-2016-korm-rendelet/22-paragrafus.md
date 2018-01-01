@@ -1,11 +1,5 @@
-## elsőfokú eljárásban a megyei kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró megyeszékhely szerinti járási hivatalát, másodfokú eljárásban – ha a fellebbezést törvény lehetővé teszi – a Pest Megyei Kormányhivatalt szakhatóságként jelöli ki.
+## 21. §
 
-## 17. A hajózási hatóság eljárásaiban közreműködő szakhatóságok kijelölése
+## 17.[^34]
 
-22. § (1) A Kormány a kikötő, valamint a komp- és révátkelőhely elvi létesítési, létesítési, használatbavételi, továbbá fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, valamint az adatváltozás átvezetésére irányuló eljárásban, továbbá ezen eljárások vonatkozásában a tervtől való eltérés engedélyezésére irányuló eljárásban, a 4. melléklet 1. pontjában meghatározott hatóságokat szakhatóságként jelöli ki, illetve a hajózási hatóság a 4. melléklet 2. pontjában meghatározott kérdéseket szakkérdésként vizsgálja. Az eljárásban hozott döntést az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
-
-(2) A Kormány a hajókiemelő berendezés elvi létesítési, létesítési, használatbavételi, továbbá fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, valamint az adatváltozás átvezetésére irányuló eljárásban, valamint ezen eljárások vonatkozásában a tervtől való eltérés engedélyezése iránti eljárásban a 4. melléklet 3. pontjában meghatározott hatóságokat szakhatóságként jelöli ki, illetve a hajózási hatóság a 4. melléklet 4. pontjában meghatározott kérdéseket szakkérdésként vizsgálja.
-
-(3) A Kormány a csak csónakok fogadására alkalmas kikötők elvi létesítési, létesítési, használatbavételi, továbbá fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, valamint az adatváltozás átvezetésére irányuló eljárásban, valamint ezen eljárások vonatkozásában a tervtől való eltérés engedélyezése iránti eljárásban a 4. melléklet 5. pontjában meghatározott hatóságokat szakhatóságként jelöli ki illetve a hajózási hatóság a 4. melléklet 6. pontjában meghatározott kérdéseket szakkérdésként vizsgálja.
-
-(4) A Kormány úszóműves rakodóhelyre, hajóállomásra, úszóműállásra, hajóhídra, veszteglőhelyre, vízisportpályára és vízi repülőtérre vonatkozó létesítési, fennmaradási és használatba vételi engedélyezési eljárásban, valamint ezen eljárások vonatkozásában a tervtől való eltérés engedélyezése iránti eljárásban, a 4. melléklet 7. pontjában meghatározott hatóságokat szakhatóságként jelöli ki, illetve a hajózási hatóság a 4. melléklet 8. pontjában meghatározott kérdéseket szakkérdésként vizsgálja.
+[^34]: A 17. alcímet (22–23. §-t) a 457/2017. (XII. 28.) Korm. rendelet 588. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

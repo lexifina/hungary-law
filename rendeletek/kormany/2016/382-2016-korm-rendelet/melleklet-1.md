@@ -1,34 +1,8 @@
-## 28. §[^34]
+## 28. §[^40]
 
-1. melléklet a 382/2016. (XII. 2.) Korm. rendelethez
+1. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^41]
 
 1. Az útügyi hatóság eljárásaiban kijelölt szakhatóságok
-
-|  | A | B | C | D |
-
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
-
-| 1. | Minden esetben. | A létesítésre vonatkozó tűzvédelmi előírásoknak való megfelelés. | első fokon eljáró tűzvédelmi szakhatóság | másodfokon eljáró tűzvédelmi szakhatóság |
-
-| 2.1. | Gyorsforgalmi utak esetében. | Közúti jelzések, forgalomtechnikai elemek és elhelyezésük | megyei, fővárosi rendőr-főkapitányság | Országos Rendőr- főkapitányság |
-
-| 2.2. | Gyorsforgalmi útnak nem minősülő országos közutak esetében. | közlekedésbiztonsági szempontból való megfelelőségének vizsgálata. | megyei, fővárosi rendőr-főkapitányság | Országos Rendőr- főkapitányság |
-
-| 2.3. | Helyi közutak esetében. |  | rendőrkapitányság | megyei, fővárosi rendőr-főkapitányság |
-
-| 3. | Az eljárás honvédelmi és katonai célú létesítmény működési vagy védőterületén tervezett utak engedélyezésére irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | honvédelemért felelős miniszter | nincs |
-
-| 4. | Gyorsforgalmi út esetén. | Annak elbírálása kérdésében, hogy az adott tevékenység megfelel-e a) a felszín alatti vizek minősége védelmére vonatkozó jogszabályi követelményeknek, b) az ivóvízbázis védelmére vonatkozó jogszabályi követelményeknek, valamint c) a vizek lefolyására, az árvíz és a jég levonulására vonatkozó követelményeknek. | a) területi vízvédelmi hatóság b)-c) területi vízügyi hatóság | a) országos vízvédelmi hatóság b)-c) országos vízügyi hatóság |
-
-| 5. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, főút, összekötő út, bekötőút, állomáshoz vezető út, belterületi gyorsforgalmi út, belterületi elsőrendű főút, belterületi másodrendű főút, gyűjtőút, közforgalom elől el nem zárt magánút - a felsorolt utakon autóbusz öböl át-, kiépítése, forgalomba helyezése kivételével -, parkoló, zajárnyékoló fal, zajárnyékoló töltés, valamint híd, felüljáró, alagút, aluljáró, kerékpárút - ha ezen létesítmények nem kizárólag gyalogos vagy kerékpáros forgalom lebonyolítására szolgálnak - engedélyezése esetén. | Annak elbírálása kérdésében, hogy az adott tevékenység megfelel-e a) a felszín alatti vizek minősége védelmére vonatkozó jogszabályi követelményeknek, b) az ivóvízbázis védelmére vonatkozó jogszabályi követelményeknek, valamint c) a vizek lefolyására, az árvíz és a jég levonulására vonatkozó követelményeknek. | a) területi vízvédelmi hatóság b)-c) területi vízügyi hatóság | a) országos vízvédelmi hatóság b)-c) országos vízügyi hatóság |
-
-| 6. | Az államhatártól számított 100 méteren belül épülő létesítmény esetén. | Annak elbírálása kérdésében, hogy a létesítmény a kérelemben foglaltak szerinti vagy további feltételek melletti megvalósítása esetén az államhatár rendje biztosított-e, a határrendsértések és határesemények megelőzhetők-e. | megyei, fővárosi rendőr-főkapitányság | Országos Rendőr- főkapitányság |
-
-| 7. | A vasúti pálya szélső vágányának tengelyétől számított 100 méteren belüli építmény építése, elhelyezése, megszüntetése esetén, ha az építtető a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | A vasúti pálya területének igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett - a tervezett igénybevétel a vasút állagára, a vasúti forgalom biztonságára, a vasút kezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján - engedélyezhető-e. | közlekedésért felelős miniszter | - |
-
-| 8. | Helyi jelentőségű védett természeti területen vagy arra közvetlen hatást gyakorló módon megvalósuló létesítmény esetén. | Annak elbírálása kérdésében, hogy a létesítmény vagy tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, a fővárosban a főjegyző | Pest Megyei kormányhivatal |
-
-| 9. | Minden esetben, kivéve a nemzetgazdaságilag szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 6/H. § (14) bekezdés szerint megindított eljárás. | Az építmény elhelyezése megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | az építési tevékenység helye szerinti települési, fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző | állami főépítészi hatáskörben eljáró fővárosi és megyei kormányhivatal |
 
 2. A közlekedési hatósági hatáskörben eljáró járási (fővárosi kerületi) útügyi eljárásaiban vizsgálandó szakkérdések
 
@@ -50,4 +24,5 @@
 
 | 6. | Ha az út a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy nyilvántartott műemléki érték vagy műemlék telkén valósul meg. | Annak elbírálása kérdésében, hogy a tervezett út, építmény, tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-[^34]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 588. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

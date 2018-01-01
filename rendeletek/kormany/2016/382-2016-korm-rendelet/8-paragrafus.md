@@ -124,10 +124,10 @@ c) a víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: 
 
 33. a hatáskörébe tartozó hajózási bírság kiszabásával,
 
-34.[^25] jogszabály által más szerv hatáskörébe nem utalt hajózási hatósági hatáskörrel
+34.[^28] jogszabály által más szerv hatáskörébe nem utalt hajózási hatósági hatáskörrel
 
 ## kapcsolatos eljárásokban.
 
 (5) Budapest Főváros Kormányhivatala a (4) bekezdés 2–3., 8. és 15–16. pontjában foglalt feladataival összefüggésben, a miniszter a (3) bekezdés 18. pontja alapján az általa kiadott tengerészeti munkaügyi bizonyítványokról közhiteles nyilvántartást vezet.
 
-[^25]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^28]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be.
