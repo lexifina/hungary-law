@@ -1,1 +1,0 @@
-## 7. § Ha a váltón olyan személy aláírása szerepel, aki váltókötelezettséget nem vállalhat, vagy ha azon hamis aláírás, nemlétező személy aláírása vagy olyan aláírás van, amely – bármely más okból – nem kötelezi az aláírót vagy azt a személyt, akinek nevében a váltót aláírták, ez a többi aláíró kötelezettségét nem érinti.

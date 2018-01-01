@@ -1,3 +1,0 @@
-A Genfben, 1930. június 7.-én megkötött váltójogi egyezmények kihirdetéséről szóló 1965. évi 1. törvényerejű rendelet (a továbbiakban: Tvr.) 4. §-ának (2) bekezdésében foglalt felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a Magyarországon érvényes váltójogi szabályok szövegét, kiegészítve az annak végrehajtásához szükséges rendelkezésekkel, az alábbiakban teszem közzé.
-
-(A rendelet I. és II. Címének szövege megegyezik a Tvr. 1. számú függelékének I. mellékletében foglalt „egységes törvénnyel”, III. Címének szövege pedig a Tvr. 2. függelékében foglalt egyezmény 2–9. cikkével. A kiegészítő és végrehajtási rendelkezéseket az alaprendelkezések szerkezetében foglalt dőlt betűs bekezdések tartalmazzák.)
