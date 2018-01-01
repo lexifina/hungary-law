@@ -1,4 +1,4 @@
-## 6. §[^1]
+## 6. §[^3]
 
 1. melléklet a 349/2016. (XI. 17.) Korm. rendelethez
 
@@ -50,4 +50,4 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
