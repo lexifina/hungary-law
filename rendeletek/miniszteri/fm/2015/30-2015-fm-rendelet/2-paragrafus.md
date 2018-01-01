@@ -1,3 +1,5 @@
+## 1. [^2] A földvédelmi hatósági eljárás igazgatási szolgáltatási díjára vonatkozó szabályok
+
 2. § (1) Az első fokon a Tfvt.-ben meghatározott kérelemre, illetve bejelentésre induló földvédelmi eljárásért – ideértve a földvédelmi szakhatósági közreműködést is –, valamint a földvédelmi eljárásban igénybe vehető valamennyi jogorvoslati eljárásért a (2) bekezdésben foglaltakra is figyelemmel, a (3) bekezdésben meghatározott összegű díjat kell fizetni.
 
 (2) A díj mértéke – a (4) bekezdésben meghatározott eset kivételével – az eljárás tárgyát képező földrészletek darabszáma alapján, a (3) bekezdésben meghatározott összeg.
@@ -13,3 +15,5 @@ c) 6–25 földrészlet esetén az első 5 földrészlet után fizetendő 58 000
 d) 26 vagy annál több földrészlet esetén az első 25 földrészlet után fizetendő 98 000 Ft, és a további földrészletek után egyenként további 1000 Ft.
 
 (4) A Tfvt. 13/A. §-ában foglalt jogorvoslati eljárásban a díj mértéke a határozatban szereplő földrészletek közül a fellebbezéssel érintett földrészletek darabszáma alapján számított, a (3) bekezdésben meghatározott összeg.
+
+[^2]: Az. 1. alcím címet a 67/2017. (XII. 27.) FM rendelet 2. §-a iktatta be.
