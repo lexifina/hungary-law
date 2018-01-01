@@ -1,0 +1,1 @@
+383. § Az Údt. 26. § (10) bekezdésében a „büntetőeljárásról szóló törvény szerinti nyomozó hatóságok és” szövegrész helyébe a „bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv,” szöveg lép.

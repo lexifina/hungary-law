@@ -1,0 +1,11 @@
+441. § (1) A Bv. tv. 127. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az elítélt az ellene folyamatban lévő büntetőeljárás során a bíróság, az ügyészség vagy a nyomozó hatóság által elektronikus adathordozón átadott ügyiratokba vagy kiadott másolatba, illetve az ellene folyamatban volt büntetőeljárásban keletkezett ügyiratokról elektronikus adathordozón kiadott másolatba a büntetés-végrehajtási szervezet által biztosított számítástechnikai eszköz igénybevételével jogosult betekinteni. Az ügyiratokba való betekintést – kellő időben előterjesztett kérelemre – a védővel való személyes kapcsolattartás során is biztosítani kell.”
+
+(2) A Bv. tv. 127. §-a a következő (3)–(5) bekezdéssel egészül ki:
+
+„(3) A bíróság, az ügyészség és a nyomozó hatóság a Be. 100. §-a és 352. §-a szerint az ügyiratok megismerését az ügyiratok megküldésével a bv. intézetben is lehetővé teheti, vagy a bíróság és az ügyészség ennek érdekében a terhelt előállítását rendelheti el. A nyomozó hatóság részéről kért előállítás az ügyészség hozzájárulásával történhet.
+
+(4) Az elítélt a vele szemben folyamatban lévő vagy folyamatban volt büntetőeljárás során keletkezett ügyiratokról készült másolatot magánál tarthatja, vagy ha azok terjedelme a zárka rendeltetésszerű használatát akadályozná, valamint az elektronikus adathordozón kiadott másolatot a zárkán kívül rendelkezésre bocsátott tárolóhelyiségben tarthatja.
+
+(5) Ha az elítélttel szemben kábítószer birtoklása miatt megindult büntetőügyben feltételes ügyészi felfüggesztést rendeltek el, és más ügyben szabadságvesztést tölt, a bv. szerv biztosítja, hogy az elítélt kábítószer-függőséget gyógyító kezelésen vegyen részt, vagy kábítószer-használatot kezelő más ellátásban vagy megelőző-felvilágosító szolgáltatásban részesüljön.”

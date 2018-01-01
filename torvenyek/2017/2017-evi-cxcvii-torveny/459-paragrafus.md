@@ -1,0 +1,3 @@
+459. § A Bv. tv. 355. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A fiatalkorú az ellene folyamatban lévő büntetőeljárással kapcsolatosan jogosult a bíróság, az ügyészség vagy a nyomozó hatóság által elektronikus eszközön átadott ügyiratokba vagy kiadott másolatba, valamint az ellene folyamatban volt büntetőeljárásban keletkezett ügyiratokról elektronikus eszközön kiadott másolatba a javítóintézet által biztosított számítástechnikai eszköz igénybevételével betekinteni. Az ügyiratokba való betekintést – kellő időben előterjesztett kérelemre – a védővel, illetve a törvényes képviselővel való személyes kapcsolattartás során is biztosítani kell.”
