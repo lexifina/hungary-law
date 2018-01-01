@@ -1,7 +1,3 @@
-## Az Art. 8. számú mellékletének 3. A) pontja helyébe a következő rendelkezés lép:
-
-## „3. A) Az 1. és 2. pontban meghatározott közösségi kereskedelemmel kapcsolatos ügyletről (összegről) arra az időszakra vonatkozóan kell összesítő nyilatkozatot tenni, amelynek során az adófizetési kötelezettség keletkezett. Az 1. A) pont h) alpontjában meghatározott összeget arra az időszakra vonatkozó összesítő nyilatkozatban kell szerepeltetni, amelyben a terméket beszerző, illetve szolgáltatást igénybe vevő személy az általános forgalmi adóról szóló törvény 77. §-a szerinti utólagos adóalap-csökkenés esetén a korrekció összegéről értesítést kapott. Az 1. A) pont e) alpontjában meghatározott szolgáltatás ellenértékének utólagos módosítása esetén a korrekció összegét arra az időszakra vonatkozó összesítő nyilatkozatban kell szerepeltetni, amelyben a szolgáltatást igénybevevő a korrekció összegéről értesítést kapott.”
-
 11. számú melléklet a 2010. évi CXXII. törvényhez
 
 Minősítési lap
@@ -27,3 +23,43 @@ Minősítési lap
 ## 2. Az adott pályaszakasz kezdete:
 
 ## 3. A minősítés időpontja:
+
+## 4. Az előírtnál rövidebb vagy hosszabb várakozási idő indoka:
+
+## 5. A jogszabályban előírt és a Nemzeti Adó- és Vámhivatal által meghatározott feltételek, feladatok:
+
+## 6. A legutolsó minősítés óta (első minősítés esetén az első minősítés előtt) készült teljesítményértékelések
+
+## a) időpontjai:
+
+## b) eredményei:
+
+## 7. Szempontok a feltételek és feladatok teljesítésének megítéléséhez [az a–p) pontok mindegyike 1–5-ig pontozandó: Kivételes (5), Jó (4), Átlagos (3), Átlag alatti (2), Elfogadhatatlan (1)]
+
+## a) szakmai ismeret és jártasság,
+
+## b) elemzőkészség,
+
+## c) ítélőképesség,
+
+## d) felelősségérzet,
+
+## e) hivatástudat,
+
+## f) szakmai pontosság,
+
+## g) hatékonyság,
+
+## h) írásbeli kifejezőkészség,
+
+## i) szóbeli kifejezőkészség,
+
+## j) kapcsolatteremtő, -fenntartó készség,
+
+## k) szorgalom, igyekezet,
+
+## továbbá pénzügyőr esetében:
+
+## l) fizikai állóképesség, terhelhetőség,
+
+## m) pszichikai állapot, tűrőképesség,

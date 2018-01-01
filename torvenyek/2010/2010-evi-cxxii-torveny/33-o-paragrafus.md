@@ -20,7 +20,7 @@ b) ha az eljárás alá vont külföldön tartózkodik, a 33/P. § (4) bekezdés
 
 c) ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult – legfeljebb az eljárás jogerős befejezéséig;
 
-d) ha a cselekmény elbírálása olyan előzetes kérdéstől függ, amelynek eldöntése bíróság vagy más hatóság hatáskörébe tartozik, annak a jogerős döntéséig.
+d) ha a cselekmény elbírálása olyan előzetes kérdéstől függ, amelynek eldöntése bíróság vagy más hatóság hatáskörébe tartozik, annak a jogerős vagy végleges döntéséig.
 
 Ha a felfüggesztés indoka megszűnik, a vizsgálóbiztos javaslatára a fegyelmi jogkör gyakorlója haladéktalanul elrendeli az eljárás folytatását.
 

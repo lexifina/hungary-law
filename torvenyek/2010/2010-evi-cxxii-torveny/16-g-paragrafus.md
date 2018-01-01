@@ -20,7 +20,7 @@ b) egyéb esetekben az eredménytelen kézbesítési kísérlet miatt a postai s
 
 (4) Ha a postai szolgáltatásokra vonatkozó jogszabály szerint a címzett küldeményeinek átvételére jogosult, de a (2) bekezdésbe nem tartozó személy tagadta meg az átvételt, a jognyilatkozatot nem lehet közöltnek tekinteni.
 
-(5) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a (2)–(3) bekezdésben szabályozott kézbesítési vélelem megdöntése iránt az eljárás kezdeményezésével egyidejűleg, a kézbesítési vélelem beálltáról való tudomásszerzéstől számított 15 napon, de legkésőbb a vélelem beálltától számított 6 hónapon belül terjeszthető elő kérelem a bíróságnál. A kézbesítési vélelem megdöntésére egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A vélelem megdöntése esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
+(5) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a kézbesítési kifogás az eljárás kezdeményezésével egyidejűleg, a kézbesítési fikció beálltáról való tudomásszerzéstől számított 15 napon, de legkésőbb a fikció beálltától számított 3 hónapon belül terjeszthető elő a bíróságnál. A kézbesítési kifogásra egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (6) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.
 

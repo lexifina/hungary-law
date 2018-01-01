@@ -6,7 +6,7 @@ a) azt keresettel nem támadták meg, a kereset előterjesztésére nyitva áll�
 
 b) a keresetet visszavonták, a visszavonás napjával, vagy ha a per szünetelés folytán szűnt meg, a per megszűnésének napjával,
 
-c) a bíróság a keresetlevelet idézés kibocsátása nélkül jogerősen elutasította, vagy a pert jogerősen megszüntette, vagy jogerős ítéletet hozott, a bíróság határozatának a jogerőre emelkedése napjával.
+c) a bíróság a keresetlevelet jogerősen visszautasította, vagy a pert jogerősen megszüntette, vagy jogerős ítéletet hozott, a bíróság határozatának a jogerőre emelkedése napjával.
 
 A jogerős határozatot – a (2)–(5) bekezdés szerinti eltérésekkel – a jogerőre emelkedésről való, NAV általi tudomásszerzést követő 15 napon belül végre kell hajtani.
 

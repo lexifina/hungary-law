@@ -20,7 +20,7 @@ b)–c)
 
 d) a Bűnügyi Főigazgatóságot és a NAV nyomozóhatósági feladatait ellátó területi szerveit,
 
-e) az Art. 7. számú melléklet 18. pontja szerinti szervet,
+e)
 
 f)
 

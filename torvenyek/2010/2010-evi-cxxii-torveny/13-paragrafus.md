@@ -18,9 +18,9 @@ c) feldolgozza az államháztartás működéséhez szükséges és rendelkezés
 
 d) Központi Irányítása és a feladat- és hatáskörrel rendelkező területi szerve összegyűjti és tárolja az (1) bekezdésben megadott feladatokkal, különösen a befizetési kötelezettséggel, a kapcsolódó eljárással összefüggő adatokat, amelyekről a NAV a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és adatszolgáltatásokat teljesít,
 
-e) előterjeszti a hatáskörébe tartozó kötelező befizetésekkel vagy költségvetési támogatással kapcsolatban elkövetett bűncselekménnyel okozott kár megtérítése iránt az állam nevében a polgári jogi igényt,
+e)
 
-f) lefolytatja az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti központosított ellenőrzést, valamint az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vtv.) szerinti központosított utólagos ellenőrzést,
+f) lefolytatja az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti központosított ellenőrzést,
 
 g) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai és munkavállalói részére egészségmegőrzési, egészségügyi, szociális és kulturális feladatokat lát el,
 
@@ -54,7 +54,7 @@ c) ellátja az adók módjára behajtandó köztartozás végrehajtásával kapc
 
 d) ellátja az állami garancia (kezesség) kiutalásával, visszakövetelésével, a garancia beváltásához kapcsolódó ellenőrzéssel kapcsolatos, az állami adó- és vámhatóság hatáskörébe utalt feladatokat,
 
-e) lefolytatja a szokásos piaci ár megállapítása iránti eljárást, vezeti az ezzel kapcsolatos nyilvántartást, végzi az eljárás díjának beszedését és visszatérítését, megküldi az adópolitikáért felelős miniszternek a szokásos piaci ár megállapítása iránti eljárások eredményeképpen kiadmányozott jogerős határozatok másolatát, illetve a szokásos piaci ár megállapítása iránti eljárásért beszedett díjakról és az eljárás során szerzett tapasztalatokról évente beszámolót készít az adópolitikáért felelős miniszternek,
+e) lefolytatja a szokásos piaci ár megállapítása iránti eljárást, vezeti az ezzel kapcsolatos nyilvántartást, végzi az eljárás díjának beszedését és visszatérítését, megküldi az adópolitikáért felelős miniszternek a szokásos piaci ár megállapítása iránti eljárások eredményeképpen kiadmányozott végleges határozatok másolatát, illetve a szokásos piaci ár megállapítása iránti eljárásért beszedett díjakról és az eljárás során szerzett tapasztalatokról évente beszámolót készít az adópolitikáért felelős miniszternek,
 
 f)
 

@@ -34,7 +34,7 @@ kapcsolatos ügyekben, továbbá
 
 k) ha a pénzügyőr szolgálati panaszát elutasították;
 
-l) ha a pénzügyőr ügyében a sérelmezett döntést a kijelölt miniszter hozta. A kijelölt miniszter fegyelmi ügyben hozott határozata az f) pont alapján támadható meg a bíróságnál.
+l) ha a pénzügyőr ügyében a sérelmezett döntést a kijelölt miniszter hozta.
 
 (5) A munkáltatói kártérítési felelősség tárgyában a pénzügyőr kártérítési igényére adott, illetve a pénzügyőr sérelemdíj igényére adott munkáltatói nyilatkozat és az azon alapuló intézkedés ellen, továbbá a nyilatkozat elmulasztása esetén a kártérítési igény, illetve a sérelemdíj érvényesítése érdekében a pénzügyőr az igény érvényesítésére vonatkozó elévülési időn belül közvetlenül a bírósághoz fordulhat.
 
@@ -50,11 +50,11 @@ szemben
 
 c) a sérelemdíj megfizetése ügyében hozott határozattal kapcsolatos ügyben.
 
-(8) A kormánytisztviselőnek, a pénzügyőrnek, az ügykezelőnek, a munkavállalónak a pert akkor is a munkáltató ellen kell megindítania, ha a keresettel megtámadott döntést nem a munkáltatói jogkör gyakorlója hozta.
+(8)
 
-(9) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet.
+(9)
 
-(10) A (4) bekezdés b)–g) és j)–l) pontjában foglalt esetekben a sérelmezett intézkedés a bíróság jogerős döntéséig nem hajtható végre, ide nem értve
+(10) A (4) bekezdés b)–g) és j)–l) pontjában foglalt esetekben a keresetlevél benyújtásának halasztó hatálya van, ide nem értve
 
 a) a 34/D. § (2) bekezdés utolsó mondata, és a (4)–(5) bekezdése szerinti esetet,
 
@@ -68,10 +68,10 @@ c)
 
 d) a (4) bekezdés d) pontja alapján megtámadott minősítésen alapuló intézkedést, ide nem értve, ha az intézkedés a (4) bekezdés a) pontja szerinti esettel egyezik meg.
 
-(10a) Ha a minősítés megállapításainak felülvizsgálata iránti perben hozott jogerős ítélet alapján az állapítható meg, hogy – a (10) bekezdés d) pontja alapján a bíróság jogerős döntése előtt is végrehajtható – minősítésen alapuló intézkedésre nem kerülhetett volna sor, az eredeti állapotot – a (10b) bekezdés kivételével – 30 napon belül helyre kell állítani.
+(10a) Ha a minősítés megállapításai elleni perben hozott jogerős ítélet alapján az állapítható meg, hogy – a (10) bekezdés d) pontja alapján a bíróság jogerős döntése előtt is végrehajtható – minősítésen alapuló intézkedésre nem kerülhetett volna sor, az eredeti állapotot – a (10b) bekezdés kivételével – 30 napon belül helyre kell állítani.
 
 (10b) Ha a végrehajtott intézkedés miatt az érintettet jövedelemkiesés is érte, a különbözetet az intézkedés végrehajtásának időpontjától számítva, a Ptk. szerinti kamattal növelt összegben, 15 napon belül ki kell fizetni.
 
-(11) A (7) bekezdés a) és c) pontjában foglalt esetben a sérelmezett határozat a bíróság jogerős döntéséig nem hajtható végre.
+(11) A (7) bekezdés a) és c) pontjában foglalt esetben a keresetlevél benyújtásának halasztó hatálya van.
 
 (12) Az érdekképviseleti szerv, valamint a munkáltató az e törvényből, vagy a Kttv.-ből, illetve a Hszt.-ből származó igényét – a munkáltató esetében kivéve, ha e törvény, vagy a Kttv. illetve a Hszt. eltérően rendelkezik – bíróság előtt érvényesítheti.

@@ -1,6 +1,6 @@
 35/F. § (1) Akinek az e fejezetben – a 36/J. §, 36/M. §, a 37/A–37/B. § kivételével – meghatározott intézkedés vagy kényszerítő eszköz alkalmazása (jelen § alkalmazásában az intézkedés és a kényszerítő eszköz a továbbiakban együtt: intézkedés) jogát vagy jogos érdekét sértette – a 36/C. § (3) bekezdés, a 36/F. § (3) bekezdés, a 36/G. § (3) bekezdés és a 36/L. § (4) bekezdés szerinti eltéréssel és a 36/N. § (4) bekezdés szerinti korlátozással –, panasszal fordulhat a NAV intézkedést foganatosító szervéhez, illetve nyomozó szervéhez. A panasznak nincs halasztó hatálya.
 
-(2) Az intézkedést foganatosító szerv vezetője a panaszt közigazgatási hatósági eljárásban bírálja el. Az eljárás során a jelen §-ban nem szabályozott kérdésekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(2) Az intézkedést foganatosító szerv vezetője a panaszt az általános közigazgatási rendtartás szabályai szerint bírálja el. Az eljárás során a jelen §-ban nem szabályozott kérdésekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
 (3) A panaszt az intézkedést követő 8 napon belül az intézkedést foganatosító szervnél, illetve nyomozó szervnél lehet előterjeszteni.
 
@@ -12,4 +12,4 @@
 
 (7) A felettes szerv határozatát írásban, a panaszt elbíráló határozatot hozó szerv, illetve nyomozó szerv útján kell közölni a fellebbezővel.
 
-(8) A felettes szerv határozata közigazgatási határozat, amelynek bírósági felülvizsgálatát – a közigazgatási határozatok bírósági felülvizsgálatára vonatkozó szabályok szerint – kérheti az, aki az (1) bekezdés szerint panasz előterjesztésére jogosult.
+(8) A felettes szerv határozatát közigazgatási perben a panasz előterjesztésére jogosult személy támadhatja meg.

@@ -38,7 +38,7 @@ e) a külpolitikáért felelős miniszter által irányított minisztérium ille
 
 f) a honvédelmi igazgatás illetékes szerve,
 
-g) a NAV feladat- és hatáskörrel rendelkező szerve az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
+g) a NAV feladat- és hatáskörrel rendelkező szerve az Air., az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
 
 h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv,
 

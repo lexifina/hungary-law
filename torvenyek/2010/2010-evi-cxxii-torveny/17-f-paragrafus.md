@@ -22,4 +22,4 @@ rendelkezéseit kell megfelelően alkalmazni. A vizsgáló személyére vonatkoz
 
 (3) A Hszt. 224. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a határozat meghozatala során e törvény 33/N. § (3) bekezdését is megfelelően alkalmazni kell.
 
-(4) A Hszt. 224. § (2) bekezdése szerinti döntéssel szemben önálló jogorvoslatnak nincs helye, a pénzügyőr az annak végrehajtásáról rendelkező határozatot a közléstől számított 30 napon belül bíróság előtt keresettel támadhatja meg.
+(4) A Hszt. 224. § (2) bekezdése szerinti döntéssel szemben önálló jogorvoslatnak nincs helye, a pénzügyőr az annak végrehajtásáról rendelkező határozat ellen közigazgatási pert indíthat.
