@@ -1,6 +1,6 @@
 ## G) Passzív időbeli elhatárolások
 
-2. számú melléklet a 216/2000. (XII. 11.) Korm. rendelethez[^35]
+2. számú melléklet a 216/2000. (XII. 11.) Korm. rendelethez[^37]
 
 ## A kockázati tőkealap eredménykimutatásának tagolása
 
@@ -38,4 +38,4 @@ Ebből: értékvesztés
 
 11. Adózott eredmény (09-10)
 
-[^35]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^37]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
