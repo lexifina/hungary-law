@@ -8,6 +8,6 @@
 
 (4) A (3) bekezdésben említett közgyűlési határozat az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat, ha az abban meghatározott határidőn belül a kisebbségben maradt tulajdonostársak írásbeli nyilatkozatot nem tesznek, vagy nyilatkozatuk szerint a keresetindítás jogával nem kívánnak élni. A határozatban rendelkezni kell a külön tulajdonhoz tartozó közös tulajdoni hányadok megállapításáról.
 
-(5) A (2)–(3) bekezdések szerinti határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+(5) A (2)–(3) bekezdések szerinti határozatot közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 (6) A közgyűlés határozata alapján – ha az (1)–(3) bekezdésekben meghatározott feltételek egyike sem áll fenn – bármely tulajdonostárs kérheti a bíróságtól, hogy a közös tulajdonban álló olyan épületrészre, amely önálló ingatlanként kialakítható, vagy amellyel a meglevő külön tulajdon tárgya bővíthető, megszüntesse a közös tulajdont, ha az a kisebbség méltányos érdekét nem sérti.

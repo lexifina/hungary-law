@@ -4,4 +4,4 @@
 
 (3) Ha a (2) bekezdésben említett munka olyan lakásmegosztást vagy lakásösszevonást eredményez, amelynek alapján a többi tulajdonostárs alapító okiratban meghatározott tulajdoni hányada változatlan marad, a közgyűlés az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbségű határozatával az alapító okiratot módosíthatja.
 
-(4) A közgyűlés (3) bekezdésben említett határozata az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat; a határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+(4) A közgyűlés (3) bekezdésben említett határozata az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat; a határozatot közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.

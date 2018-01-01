@@ -4,6 +4,6 @@
 
 (2)
 
-(3) Az (1)–(2) bekezdések rendelkezései szerint meghozott határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+(3) Az (1)–(2) bekezdések rendelkezései szerint meghozott határozatot közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 (4)
