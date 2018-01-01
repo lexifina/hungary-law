@@ -1,6 +1,6 @@
 ## A jövedelemadó, jövedelemadó-előleg bevallása, megfizetése
 
-8. § (1) A fizetendő jövedelemadót – az adóévben megfizetett jövedelemadó-előlegek beszámításával –, valamint a jövedelemadó-előleget az adózás rendjéről szóló törvényben a társasági adóra előírt határidőben kell megállapítani, bevallani és megfizetni, illetve ettől az időponttól lehet visszaigényelni.
+8. § (1) A fizetendő jövedelemadót – az adóévben megfizetett jövedelemadó-előlegek beszámításával –, valamint a jövedelemadó-előleget az adóigazgatási rendtartásról szóló törvényben és az adózás rendjéről szóló törvényben a társasági adóra előírt határidőben kell megállapítani, bevallani és megfizetni, illetve ettől az időponttól lehet visszaigényelni.
 
 (2) Az adóalanynak – a (4)–(5) bekezdésben foglaltak kivételével – az adóbevallással egyidejűleg az adóbevallás esedékességét követő második naptári hónap első napjával kezdődő 12 hónapos időszakra jövedelemadó-előleget kell bevallania az esedékességi időre eső összeg feltüntetésével. Nem lehet jövedelemadó-előleget bevallani arra a naptári hónapra, negyedévre, a negyedév azon naptári hónapjára, amelyre az adóalany már vallott be adóelőleget.
 
