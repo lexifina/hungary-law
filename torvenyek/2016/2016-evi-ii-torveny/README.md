@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-2-00-00
 | 2016-03-10 | 2016. évi II. törvény | 2016-2-00-00.0 (közlönyállapot) |
 | 2016-03-10 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-2-00-00.1 |
 | 2016-03-11 | 2010. évi CXXX. törvény | 2016-2-00-00.2 |
+| 2018-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-2-00-00.3 |
