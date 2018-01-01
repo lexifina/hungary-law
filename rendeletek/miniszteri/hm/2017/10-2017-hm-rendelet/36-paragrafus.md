@@ -1,0 +1,3 @@
+## 35. § Az R3. 15. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A születési támogatás iránti kérelmet a parancsnoknak címezve – írásban, papír alapon vagy elektronikus úton – a honvédelmi szervezet személyügyi szervéhez kell benyújtani. A születési támogatás akkor folyósítható, ha a gyermek születését igazoló születési anyakönyvi kivonatot vagy az örökbefogadásról szóló határozatot, továbbá a gyermek lakcímét, társadalombiztosítási azonosító jelét és adóazonosító jelét igazoló hivatalos okmányt a szülő bemutatja a honvédelmi szervezet személyügyi szervének, és a gyermek saját háztartásban történő eltartásáról írásban nyilatkozik. Elektronikus ügyintézés esetén a kérelemhez az okiratok digitális másolatát kell csatolni.”

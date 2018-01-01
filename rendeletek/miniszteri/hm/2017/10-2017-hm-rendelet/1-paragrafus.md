@@ -1,3 +1,3 @@
-## 1.[^1]
+## 1. A kegyeleti gondoskodásról és az ehhez kapcsolódó egyes szociális feladatokról szóló
 
-[^1]: Az 1. alcím (1. §) a 78. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## 7/2013. (VII. 25.) HM rendelet módosítása
