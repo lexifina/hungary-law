@@ -4,4 +4,4 @@
 
 (2) Ha a körülmények alapján bebizonyosodik, hogy a rászoruló áldozat sérelmének rendezéséhez a jogi segítségnyújtásról szóló 2003. évi LXXX. törvényben (a továbbiakban: Jst.) meghatározott jogi segítségnyújtásra van szükség, az áldozatsegítő szolgálat igazolja az ügyfél áldozati státuszát, és ezen igazolást, valamint – ha rendelkezésre áll – a kérelmet továbbítja a jogi segítségnyújtó szolgálatnak, amely a döntéséről és a megtett intézkedésekről haladéktalanul értesíti az áldozatsegítő szolgálatot. A jogi segítségnyújtásra az áldozat a Jst.-ben meghatározott feltételek esetén jogosult.
 
-(3) Az áldozatsegítő szolgálatnak az áldozati státusz igazolása tárgyában hozott döntésével szemben fellebbezésnek van helye.
+(3)

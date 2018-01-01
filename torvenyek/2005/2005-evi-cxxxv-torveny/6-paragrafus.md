@@ -34,4 +34,6 @@ g) átmeneti szállást vagy éjjeli menedékhelyet igénybe vevő hajléktalan 
 
 h) családok, gyermekek átmeneti otthonát igénybe vevő személy,
 
-i) Magyarország területén menekültügyi eljárás alatt álló személy.
+i) Magyarország területén menekültügyi eljárás alatt álló személy,
+
+j) terrorcselekmény áldozatává vált.

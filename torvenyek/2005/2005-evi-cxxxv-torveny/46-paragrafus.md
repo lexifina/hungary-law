@@ -1,19 +1,21 @@
 ## Felhatalmazás
 
-46. § (1) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy rendelettel állapítsa meg
+46. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-a) az e törvény szerinti támogatások engedélyezése iránti kérelem előterjesztésére vonatkozó részletes szabályokat, a rászorultság igazolásának módját, a pénzbeli támogatás folyósításának és visszatérítésének részletes szabályait,
+a) jelölje ki az áldozatsegítő szolgálatot vagy szolgálatokat, ezen belül a támogató hatóságot vagy hatóságokat és a döntő hatóságot vagy hatóságokat,
 
-b) az áldozatsegítő szolgálatnál foglalkoztatottak képesítési feltételeire vonatkozó szabályokat,
+b) állapítsa meg az e törvény szerinti szolgáltatások engedélyezése iránti eljárás, a pénzbeli támogatás folyósításának és visszatérítésének részletes szabályait és
 
-c)
+c) állapítsa meg az emberkereskedelem magyar állampolgárságú áldozatai és a szabad mozgás és tartózkodás jogával rendelkező áldozatai azonosításának rendjét, valamint az azonosításra jogosult és jelzésre kötelezett szerveket és szervezeteket, valamint a védett szálláshelyen nyújtott ellátások feltételeit és részletes szabályait.
 
-(2) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy az irányítása alá tartozó szervek áldozatsegítő feladatait, azok civil szervezetekkel való együttműködésének formáit, valamint az áldozatsegítő szolgálat által készített, az áldozatok jogairól szóló tájékoztató részletes tartalmi követelményeit rendeletben állapítsa meg.
+(2) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy rendeletben állapítsa meg
 
-(3) Felhatalmazást kap a Kormány, hogy az áldozatsegítő szolgálatot vagy szolgálatokat, ezen belül a támogató hatóságot vagy hatóságokat és a döntő hatóságot vagy hatóságokat rendeletben jelölje ki.
+a) az e törvény szerinti támogatások engedélyezése iránti kérelem tartalmára és kitöltésére, valamint a szolgáltatások nyújtásával kapcsolatos egyes nem hatósági eljárási kérdésekre vonatkozó szabályokat,
 
-(4) Felhatalmazást kap a Kormány, hogy az emberkereskedelem magyar állampolgárságú áldozatai és a szabad mozgás és tartózkodás jogával rendelkező áldozatai azonosításának rendjét, valamint az azonosításra jogosult és jelzésre kötelezett szerveket és szervezeteket, valamint a védett szálláshelyen nyújtott ellátások feltételeit és részletes szabályait rendeletben állapítsa meg.
+b) az áldozatsegítő szolgálatnál foglalkoztatottak képesítési feltételeire vonatkozó szabályokat és
 
-(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a bírósági ügyintézők tanúgondozással kapcsolatos feladatait, valamint a tanúgondozás részletes szabályait rendeletben állapítsa meg.
+c) az irányítása alá tartozó szervek áldozatsegítő feladatait, azok civil szervezetekkel való együttműködésének formáit, valamint az áldozatsegítő szolgálat által készített, az áldozatok jogairól szóló tájékoztató részletes tartalmi követelményeit.
 
-(6) Felhatalmazást kap a rendészetért felelős miniszter, hogy az irányítása alá tartozó szervek áldozatsegítő feladataira vonatkozó részletes szabályokat – az áldozatsegítésért felelős miniszter egyetértésével – rendeletben állapítsa meg.
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg a bírósági ügyintézők tanúgondozással kapcsolatos feladatait, valamint a tanúgondozás részletes szabályait.
+
+(4) Felhatalmazást kap a rendészetért felelős miniszter, hogy – az áldozatsegítésért felelős miniszter egyetértésével – rendeletben állapítsa meg az irányítása alá tartozó szervek áldozatsegítő feladataira vonatkozó részletes szabályokat.

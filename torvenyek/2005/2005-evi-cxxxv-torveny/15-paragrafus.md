@@ -1,6 +1,6 @@
 ## Visszatérítés
 
-15. § (1) Az áldozat a támogatás iránti kérelmet érdemben elbíráló határozat jogerőre emelkedését követő 3 évig köteles visszatéríteni a pénzben nyújtott támogatást, ha
+15. § (1) Az áldozat a támogatás iránti kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 3 évig köteles visszatéríteni a pénzben nyújtott támogatást, ha
 
 a) az e törvény szerinti támogatás iránti kérelmet az áldozat bűncselekmény áldozataként nyújtotta be és az eljáró hatóság jogerősen megállapította, hogy a támogatás alapjául szolgáló cselekmény nem bűncselekmény,
 
@@ -18,12 +18,12 @@ a) az 1. § (3) bekezdés a) pontja szerinti esetekben, vagy
 
 b) ha a cselekmény tulajdon elleni szabálysértés és ezt az erre hatáskörrel rendelkező szabálysértési hatóság, illetve bíróság jogerősen megállapította, vagy a cselekmény miatt indult szabálysértési eljárást a Szabs. tv. 83. § b)–e) vagy h)–i) pontja alapján szüntették meg.
 
-(2a) A biztosító a támogatás iránti kérelmet érdemben elbíráló határozat jogerőre emelkedését követő 3 éven belül, az (1) bekezdés c) pontjában meghatározott feltétel meglétének vizsgálata érdekében megküldött megkeresésre tájékoztatja az áldozatsegítő szolgálatot a biztosítási titokról.
+(2a) A biztosító a támogatás iránti kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 3 éven belül, az (1) bekezdés c) pontjában meghatározott feltétel meglétének vizsgálata érdekében megküldött megkeresésre tájékoztatja az áldozatsegítő szolgálatot a biztosítási titokról.
 
-(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott „bűncselekmények áldozatainak kárenyhítése” elnevezésű célelőirányzat (a továbbiakban: célelőirányzat) javára megfizetni.
+(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező végleges vagy jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott „bűncselekmények áldozatainak kárenyhítése” elnevezésű célelőirányzat (a továbbiakban: célelőirányzat) javára megfizetni.
 
 (4) Az áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére kérelemre, indokolt esetben egy alkalommal legfeljebb hat hónap halasztást vagy részletfizetést engedélyezhet.
 
 (4a) Az áldozatsegítő szolgálat visszatérítés tárgyában hozott döntése ellen fellebbezésnek van helye.
 
-(5) A vissza nem térített támogatás adók módjára behajtandó köztartozásnak minősül, a teljesítés elmulasztása esetén az áldozatsegítő szolgálat megkeresi a tartozás összegének behajtására hatáskörrel rendelkező szervet.
+(5)
