@@ -36,6 +36,9 @@ l) a biztosított vasúti tevékenység megnevezését, valamint
 
 m) a rendelkezést arra vonatkozóan, hogy a biztosítási kötvény e rendelet előírásainak mindenben megfelel.
 
+(3)[^24] Az (1) bekezdésben foglaltaktól eltérően a vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását tanúsító iratokat a vasúti társaság másolatban is benyújthatja, ha a benyújtással egyidejűleg nyilatkozik arról, hogy a benyújtott másolat az eredetivel mindenben megegyezik.
+
 [^21]: A 8. § (1) bekezdés a) pontja a 193/2016. (VII. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^22]: A 8. § (1) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés e) pontja szerint módosított szöveg.
 [^23]: A 8. § (2) bekezdése a 193/2016. (VII. 13.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^24]: A 8. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 195. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,4 +1,4 @@
-5. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^33]
+5. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^37]
 
 ## Kockázatértékelési adatlap
 
@@ -28,4 +28,4 @@ Harmadik személynek okozott vasúti baleseti katasztrófa (tömegbaleset) köve
 
 Az adatokat személysérülés és dologi kárra történő bontásban, valamint összesítve kell megadni. Az adatokat forintban kell megadni.
 
-[^33]: Az 5. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^37]: Az 5. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.

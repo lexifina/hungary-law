@@ -1,6 +1,6 @@
-## 12. §[^28] Ez a rendelet – a Vtv.-vel együtt – az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv 22. cikkének való megfelelést szolgálja.
+## 12. §[^29] Ez a rendelet – a Vtv.-vel együtt – az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv 22. cikkének való megfelelést szolgálja.
 
-1. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^29]
+1. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^30]
 
 ## Vasúti társaságokra irányadó fedezeti összeghatárok
 
@@ -62,13 +62,13 @@ P2 = Az adott országos vagy elővárosi vasúti pályahálózaton az általáno
 
 p2 = A vasúti társaság által működtetett teljes nyílt hozzáféréstől mentesített vasúti pályahálózat építési hossza kilométerben a tárgyévet követő évben.
 
-5. Az általános vasúti balesetek fedezeti összeghatárának számítása térségi vasúti személyszállításra vonatkozó működési engedély, valamint a kisvasút vagy múzeumvasút vasúti személyszállítási tevékenysége esetén, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti személyközlekedtetési tevékenység esetén
+5. Az általános vasúti balesetek fedezeti összeghatárának számítása térségi vasúti személyszállításra vonatkozó működési engedély, valamint a keskeny nyomtávolságú vasút vagy múzeumvasút által, továbbá függővasúton végzett vasúti személyszállítási tevékenység esetén, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti személyközlekedtetési tevékenység esetén
 
-de legalább 10 millió forint,
+de legalább 10 millió forint, függővasúton végzett tevékenység esetén legalább 3 millió forint,
 
 ahol az
 
-ST = Az iparvágányon, a térségi, kisvasúti, múzeumvasúti vagy a saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben az utasoknak és harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+ST = Az iparvágányon, a térségi, keskeny nyomtávolságú vasút vagy múzeumvasút által működtetett pályahálózaton, függővasúton, vagy a saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben az utasoknak és harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
 
 st = A tárgyévet követő évben tervezett összes utaskilométer teljesítmény.
 
@@ -82,17 +82,17 @@ SH = A helyi vagy városi vasúti pályahálózaton az általános és a környe
 
 sh = A tárgyévet követő évben tervezett összes férőhely-kilométer teljesítmény.
 
-7. Az általános vasúti balesetek fedezeti összeghatárának számítása térségi, helyi és városi árutovábbításra vonatkozó működési engedély, valamint a kisvasút vagy múzeumvasút vasúti árutovábbítási tevékenysége esetén, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti áruszállítási tevékenység esetén
+7. Az általános vasúti balesetek fedezeti összeghatárának számítása térségi, helyi és városi árutovábbításra vonatkozó működési engedély, valamint a keskeny nyomtávolságú vasút által, továbbá függővasúton végzett vasúti árutovábbítási tevékenység esetén, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti áruszállítási tevékenység esetén
 
-de legalább 20 millió forint,
+de legalább 20 millió forint, függővasúton végzett tevékenység esetén legalább 3 millió forint,
 
 ahol az
 
-AT = Az iparvágányon, a térségi, helyi, városi, kisvasúti, múzeumvasúti vagy a saját célú vasúti pályahálózat területén az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+AT = Az iparvágányon, a térségi, helyi, városi, a keskeny nyomtávolságú vasút által működtetett pályahálózaton, függővasúton vagy a saját célú vasúti pályahálózat területén az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
 
 at = A tárgyévet követő évben tervezett összes árutonna-kilométer teljesítmény.
 
-8. Az általános vasúti balesetek fedezeti összeghatárának számítása vontatási szolgáltatás nyújtására jogosító térségi, helyi és városi működési engedély, valamint a múzeumvasút vasúti vontatási szolgáltatása esetén, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti vontatási szolgáltatás esetén,
+8. Az általános vasúti balesetek fedezeti összeghatárának számítása vontatási szolgáltatás nyújtására jogosító térségi, helyi és városi működési engedély, valamint a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti vontatási szolgáltatás esetén,
 
 VT = vt × 200 000 forint
 
@@ -100,11 +100,11 @@ de legalább 10 millió forint,
 
 ahol a
 
-VT = Az iparvágányon, a térségi, a helyi, városi, múzeumvasúti vagy saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+VT = Az iparvágányon, a térségi, a helyi, városi vagy saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
 
 vt = Az iparvágányon, a térségi, a helyi, városi, múzeumvasúti vagy saját célú vasúti pályahálózaton a tárgyévet követő évben várhatóan dolgozó vontató járművek száma.
 
-9. Az általános vasúti balesetek fedezeti összeghatárának számítása térségi vasúti pályahálózat működtetése, valamint a kisvasút, a múzeumvasút vasúti pályahálózat-működtetési tevékenysége esetén, illetve az iparvágány vagy a saját célú vasúti pályahálózat működtetése esetén
+9. Az általános vasúti balesetek fedezeti összeghatárának számítása térségi vasúti pályahálózat működtetése, valamint a keskeny nyomtávolságú vasút, a múzeumvasút vasúti pályahálózat-működtetési tevékenysége esetén, illetve az iparvágány vagy a saját célú vasúti pályahálózat működtetése esetén
 
 PT = pt × 100 000 forint
 
@@ -112,7 +112,7 @@ de legalább 5 millió forint,
 
 ahol a
 
-PT = Az iparvágányon, a térségi, kisvasúti, múzeumvasúti vagy saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+PT = Az iparvágányon, a keskeny nyomtávolságú vasút, múzeumvasút által működtetett, múzeumvasúti vagy saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
 
 pt = A vasúti társaság által működtetett vasúti pályahálózat építési hossza kilométerben a tárgyévet követő évben.
 
@@ -146,11 +146,11 @@ ahol a
 
 PML = Az a lehetséges legnagyobb személyi sérüléssel járó és dologi kár (forint), ami a tevékenység következtében maximumként bekövetkezhet, függetlenül a vasúti baleset bekövetkezésének valószínűségétől,
 
-PML1 = Az a lehetséges legnagyobb személyi sérüléssel járó kár (forint), ami a tevékenység következtében maximumként bekövetkezhet. A személyi sérüléssel járó kár meghatározásához személyenként legalább 30 millió forint kárral, országos és elővárosi működési engedély kérelem, illetve bejelentés esetén 50 fő, helyi, városi működési engedély kérelem, illetve bejelentés esetén legalább 10 fő, térségi, kisvasúti, múzeumvasúti, iparvágányi és saját célú működési engedély, illetve bejelentés esetén legalább 1 fő károsulttal kell számolni,
+PML1 = Az a lehetséges legnagyobb személyi sérüléssel járó kár (forint), ami a tevékenység következtében maximumként bekövetkezhet. A személyi sérüléssel járó kár meghatározásához személyenként legalább 30 millió forint kárral, országos és elővárosi működési engedély kérelem, illetve bejelentés esetén 50 fő, helyi, városi működési engedély kérelem, illetve bejelentés esetén legalább 10 fő, térségi, keskeny nyomtávolságú vasút, múzeumvasút által végzett tevékenységre vonatkozó, továbbá iparvágányi és saját célú működési engedély, illetve bejelentés esetén legalább 1 fő károsulttal kell számolni,
 
 PML2 = Az a lehetséges legnagyobb dologi kár (forint), ami a tevékenység következtében maximumként bekövetkezhet. A dologi kár meghatározásánál figyelembe kell venni, hogy a vasúti baleset folytán megsérülhetnek különféle épületek, építmények (pl. híd, vasúti pálya és tartozékai, lakóházak, alagút, földcsere stb.).
 
 A katasztrófa-balesetek fedezeti összeghatárának igazolásakor csak az általános vasúti balesetek fedezeti összeghatára fedezettel igazolt része feletti részt kell igazolni.
 
-[^28]: A 12. § a 193/2016. (VII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^29]: Az 1. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^29]: A 12. § a 193/2016. (VII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^30]: Az 1. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.

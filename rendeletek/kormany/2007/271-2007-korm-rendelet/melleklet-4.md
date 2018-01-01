@@ -1,8 +1,8 @@
-4. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^32]
+4. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^35]
 
 ## Kockázatértékelési adatlap
 
-Vontatási szolgáltatás nyújtására jogosító országos, elővárosi, térségi, helyi és városi működési engedélyhez, valamint kizárólag az iparvágányon, saját célú pályahálózaton és múzeumvasúton végzett vontatáshoz
+Vontatási szolgáltatás nyújtására jogosító országos, elővárosi, térségi, helyi és városi működési engedélyhez, valamint kizárólag az iparvágányon, saját célú pályahálózaton végzett vontatáshoz[^36]
 
 A. Vontatási tevékenység minőségben harmadik személyeknek okozott vasúti baleseti károk és bekövetkezett személyi károk
 
@@ -26,4 +26,5 @@ Harmadik személyeknek okozott vasúti baleseti katasztrófa (tömegbaleset) kö
 
 Az adatokat személysérülés és dologi kárra történő bontásban, valamint összesítve kell megadni. Az adatokat ezer forintban kell megadni.
 
-[^32]: A 4. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^35]: A 4. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^36]: A 4. melléklet címe az 516/2017. (XII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

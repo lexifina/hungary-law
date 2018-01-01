@@ -1,8 +1,8 @@
-3. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^31]
+3. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^33]
 
 ## Kockázatértékelési adatlap
 
-Országos, elővárosi, térségi, helyi és városi árutovábbítási engedélyhez, valamint a kizárólag az iparvágányon, saját célú pályahálózaton végzett áruszállításhoz vagy kisvasúton és múzeumvasúton végzett áruszállításhoz, illetve árufuvarozáshoz
+Országos, elővárosi, térségi, helyi és városi árutovábbítási engedélyhez, valamint a kizárólag az iparvágányon, saját célú pályahálózaton végzett áruszállításhoz vagy keskeny nyomtávolságú vasút által és függővasúton végzett áruszállításhoz, illetve árufuvarozáshoz[^34]
 
 A. Árutovábbítási tevékenység minőségben harmadik személyeknek okozott vasúti baleseti károk és személyi károk
 
@@ -30,4 +30,5 @@ Harmadik személyeknek okozott vasúti baleseti katasztrófa (tömegbaleset) kö
 
 Az adatokat személysérülés és dologi kárra történő bontásban, valamint összesítve kell megadni. Az adatokat forintban kell megadni.
 
-[^31]: A 3. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^33]: A 3. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^34]: A 3. melléklet címe az 516/2017. (XII. 29.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
