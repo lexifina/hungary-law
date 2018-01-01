@@ -38,7 +38,7 @@
 
 | 15. | Budapest | Veolia Energia Magyarország Zrt. | 1 474 940 | 231 |
 
-| 16. | Budapest | Budapesti Távhőszolgáltató Zrt. | 380 892 691 | –184 |
+| 16. | Budapest | Budapesti Távhőszolgáltató Zrt. | 514 280 869 | –385 |
 
 | 17. | Budapest | FŐTÁV-Kiserőmű Kft. | 251 582 | 0 |
 
@@ -98,7 +98,7 @@
 
 | 45. | Keszthely | VÜZ Nonprofit Kft. | 6 011 016 | –672 |
 
-| 46. | Kiskunfélegyháza | Perkons DHŐ Kft. | 9 522 431 | –1 782 |
+| 46. | Kiskunfélegyháza | Perkons DHŐ Kft. | 9 718 156 | –1 815 |
 
 | 47. | Kiskunhalas | Halasi Városgazda Zrt. | 2 518 883 | 1 263 |
 
@@ -142,7 +142,7 @@
 
 | 67. | Paks | Duna Center Therm Kereskedelmi és Szolgáltató Kft. | 9 885 713 | 328 |
 
-| 68. | Pécs | PÉTÁV Kft. | 107 854 943 | –354 |
+| 68. | Pécs | PÉTÁV Kft. | 118 966 054 | –354 |
 
 | 69. | Pétfürdő | ”PÉTKOMM” Kft. | 4 575 323 | 696 |
 
@@ -168,7 +168,7 @@
 
 | 80. | Siófok | Balaton-parti Kft. | 0 | 0 |
 
-| 81. | Sopron | SOPRON Holding Zrt. | 37 044 510 | –1 131 |
+| 81. | Sopron | SOPRON Holding Zrt. | 40 677 843 | –1 131 |
 
 | 82. | Szarvas | Szarvasi Gyógy-Termál Nonprofit Kft. | 0 | 0 |
 
@@ -192,7 +192,7 @@
 
 | 92. | Szigetvár | Szigetvári Távhő Szolgáltató Nonprofit Kft. | 2 415 416 | –990 |
 
-| 93. | Szolnok | ALFA-NOVA Kft. | 28 613 294 | –809 |
+| 93. | Szolnok | ALFA-NOVA Kft. | 29 582 807 | –839 |
 
 | 94. | Szombathely | Szombathelyi Távhőszolgáltató Kft. | 44 455 430 | –260 |
 
@@ -255,4 +255,4 @@
 | 15. | Szombathely | Dalkia Energia Energiaszolgáltató Zrt. | Vas Megyei Markusovszky Kórház Nonprofit Zrt. | 1 553 |
 
 [^20]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
-[^21]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a, a 7/2017. (III. 30.) NFM rendelet 4–5. §-a, a 38/2017. (IX. 29.) NFM rendelet 5. §-a szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelet módosítás nem vezethető át.]
+[^21]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a, a 7/2017. (III. 30.) NFM rendelet 4–5. §-a, a 38/2017. (IX. 29.) NFM rendelet 5–6. §-a, az 59/2017. (XII. 29.) NFM rendelet 4. §-a szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelet módosítás nem vezethető át.]
