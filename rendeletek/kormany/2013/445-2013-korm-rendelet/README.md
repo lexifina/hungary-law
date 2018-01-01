@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-445-20-
 | 2016-09-30 | 2013-445-20-22.11 | 113/2016. (V. 30.) Korm. rendelet |
 | 2017-07-01 | 2013-445-20-22.12 | 2010: CXXX. törvény |
 | 2017-12-01 | 2013-445-20-22.13 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2018-01-01 | 2013-445-20-22.14 | 113/2016. (V. 30.) Korm. rendelet |

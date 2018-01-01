@@ -1,6 +1,6 @@
-## 28. §[^100]
+## 28. §[^107]
 
-1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^101]
+1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^108]
 
 KÉRELEM
 
@@ -106,7 +106,7 @@ Előző munkavállalási engedélyt kiadó kormányhivatal megnevezése: .......
 
 6. A kérelmező foglalkoztató nyilatkozatai:
 
-6.1. Kijelentem, hogy a kérelem benyújtását megelőző egy évben munkaügyi bírságot vagy munkavédelmi bírságot velem szemben jogerősen:
+6.1. Kijelentem, hogy a kérelem benyújtását megelőző egy évben munkaügyi bírságot vagy munkavédelmi bírságot velem szemben:
 
 – nem szabtak ki
 
@@ -138,5 +138,5 @@ Dátum: .................................................
 
 foglalkoztató cégszerű aláírása
 
-[^100]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^101]: Az 1. melléklet a 113/2016. (V. 30.) Korm. rendelet 90. §-ával megállapított szöveg.
+[^107]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: Az 1. melléklet a 113/2016. (V. 30.) Korm. rendelet 90. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 471. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. szöveg.

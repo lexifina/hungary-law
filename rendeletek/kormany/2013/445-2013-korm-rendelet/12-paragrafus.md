@@ -1,16 +1,12 @@
-12. § (1)[^36] A kérelemhez – a szezonális munkavállalási engedély, valamint a munkavállalási engedély meghosszabbítása iránti kérelem kivételével – csatolni kell:
+12. § (1)[^39] A harmadik országbeli állampolgárnak a tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét – szezonális munkavállalási engedély, valamint a munkavállalási engedély meghosszabbítása iránti kérelem kivételével – hitelt érdemlő módon kell igazolni. A kormányhivatal a 9. §-ban meghatározott feltételek fennállását az annak alapjául szolgáló adatok alapul vételével vizsgálja.
 
-a) a harmadik országbeli állampolgárnak a tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét igazoló okirat hiteles másolatát, valamint annak hiteles magyar fordítását, továbbá
+(2)[^40] Ha a szakképzettség vagy végzettség megfelelősége tekintetében kétség merül fel, a kormányhivatal a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságot megkeresi annak igazolása érdekében, hogy a diploma honosításához vagy elismeréséhez szükséges feltételek fennállnak-e. A külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság állásfoglalása a szakképesítések elismeréséről szóló törvény szerinti honosítási, illetve elismerési eljárást nem váltja ki.
 
-b) a 9. §-ban meghatározott esetben a jogosultság feltételeinek fennállását igazoló adatokat, okiratokat, valamint a hozzátartozói minőséget igazoló okirat hiteles másolatát, valamint azok hiteles magyar fordítását.
+(3)[^41] Ha a harmadik országbeli állampolgárnak a tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét igazoló okirat hiteles másolata a kérelem benyújtását megelőző öt éven belül indított munkavállalási engedélyezési ügyben valamely kormányhivatal részére becsatolásra került, a kormányhivatal hivatalból, saját iratanyagából, vagy a foglalkoztató kérelmére megkeresés útján más kormányhivataltól az eredetivel megegyező hitelesített másolatban szerzi be, amennyiben az a megkeresett kormányhivatal iratanyagában megtalálható.
 
-(2)[^37] Ha a szakképzettség vagy végzettség megfelelősége tekintetében kétség merül fel, a kormányhivatal a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságot megkeresi annak igazolása érdekében, hogy a diploma honosításához vagy elismeréséhez szükséges feltételek fennállnak-e. A külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság állásfoglalása a szakképesítések elismeréséről szóló törvény szerinti honosítási, illetve elismerési eljárást nem váltja ki.
+(4)[^42] Az eljárásban a korábbi engedélyt kiadó kormányhivatal által készített nem hiteles elektronikus másolat elfogadható. A hiteles dokumentumot a másolatot kiállító kormányhivatal irattárában legalább tíz évig megőrzi.
 
-(3)[^38] Ha a harmadik országbeli állampolgárnak a tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét igazoló okirat hiteles másolata a kérelem benyújtását megelőző öt éven belül indított munkavállalási engedélyezési ügyben valamely kormányhivatal részére becsatolásra került, a kormányhivatal hivatalból, saját iratanyagából, vagy a foglalkoztató kérelmére belföldi jogsegély keretében más kormányhivataltól az eredetivel megegyező hitelesített másolatban szerzi be, amennyiben az a megkeresett kormányhivatal iratanyagában megtalálható.
-
-(4)[^39] Az eljárásban a korábbi engedélyt kiadó kormányhivatal által készített nem hiteles elektronikus másolat elfogadható. A hiteles dokumentumot a másolatot kiállító kormányhivatal irattárában legalább tíz évig megőrzi.
-
-[^36]: A 12. § (1) bekezdés nyitó szövegrésze a 113/2016. (V. 30.) Korm. rendelet 91. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^37]: A 12. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^38]: A 12. § (3) bekezdése a 70/2015. (III. 30.) korm. rendelet 236. § (7) bekezdés b) és e) pontja szerint módosított szöveg.
-[^39]: A 12. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^39]: A 12. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 469. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^40]: A 12. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^41]: A 12. § (3) bekezdése a 70/2015. (III. 30.) korm. rendelet 236. § (7) bekezdés b) és e) pontja, a 457/2017. (XII. 28.) Korm. rendelet 470. § szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^42]: A 12. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.

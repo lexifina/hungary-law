@@ -1,4 +1,4 @@
-2. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^102]
+2. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^109]
 
 KÉRELEM
 
@@ -124,13 +124,13 @@ Igen Nem
 
 Előző munkavállalási engedélyt kiadó kormányhivatal megnevezése:
 
-Kérem, hogy a harmadik országbeli állampolgár tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét igazoló dokumentumot a kormányhivatal belföldi jogsegély keretében szerezze be a korábbi munkavállalási engedélyt kiadó kormányhivataltól.
+Kérem, hogy a harmadik országbeli állampolgár tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét igazoló dokumentumot a kormányhivatal megkeresés útján szerezze be a korábbi munkavállalási engedélyt kiadó kormányhivataltól.
 
 Igen Nem
 
 6. A kérelmező foglalkoztató nyilatkozatai:
 
-6.1. Kijelentem, hogy a kérelem benyújtását megelőző egy évben munkaügyi bírságot vagy munkavédelmi bírságot velem szemben jogerősen:
+6.1. Kijelentem, hogy a kérelem benyújtását megelőző egy évben munkaügyi bírságot vagy munkavédelmi bírságot velem szemben:
 
 – nem szabtak ki
 
@@ -196,4 +196,4 @@ Dátum: ........................................................
 
 foglalkoztató cégszerű aláírása
 
-[^102]: A 2. melléklet a 89/2014. (III. 20.) Korm. rendelet 7. § (16) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 236. § (8) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 42. §-a szerint módosított szöveg.
+[^109]: A 2. melléklet a 89/2014. (III. 20.) Korm. rendelet 7. § (16) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 236. § (8) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 42. §-a, a 457/2017. (XII. 28.) Korm. rendelet 470. §-a és 471. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

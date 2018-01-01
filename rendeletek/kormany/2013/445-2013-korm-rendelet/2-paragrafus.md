@@ -58,15 +58,15 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 
 20.[^9] gyakornok-munkavállaló: felsőfokú képesítést tanúsító oklevéllel rendelkező olyan személy, akit szakmai előmenetel, illetve az üzleti eljárásokkal vagy módszerekkel kapcsolatos képzésben való részvétel céljából helyeznek át egy fogadó szervezethez és aki az áthelyezés idejére munkabérben részesül;
 
-21.[^10] fogadó szervezet: a Harmtv. 2/A. § c) pontjában meghatározott fogalom;
+21.[^10] fogadó szervezet: a Harmtv. 2/A. § c) pont ca) alpontjában meghatározott fogalom;
 
 22.[^11] vállalaton belül áthelyezett személy számára szóló engedély: a Harmtv. 2/A. § d) pontjában meghatározott fogalom;
 
 23.[^12] vállalkozáscsoport: a Harmtv. 2/A. § f) pontjában meghatározott fogalom;
 
-24.[^13] első tagállam: a Harmtv. 2/A. § g) pontjában meghatározott fogalom;
+24.[^13] első tagállam: a Harmtv. 2/A. § g) pont ga) alpontjában meghatározott fogalom;
 
-25.[^14] második tagállam: a Harmtv. 2/A. § h) pontjában meghatározott fogalom;
+25.[^14] második tagállam: a Harmtv. 2/A. § h) pont ha) alpontjában meghatározott fogalom;
 
 26.[^15] hosszú távú mobilitási engedély: a Harmtv. 2/A. § e) pontjában meghatározott fogalom.
 
@@ -79,9 +79,9 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 [^7]: A 2. § 18. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
 [^8]: A 2. § 19. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
 [^9]: A 2. § 20. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
-[^10]: A 2. § 21. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
+[^10]: A 2. § 21. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 58. § a) pontja szerint módosított szöveg.
 [^11]: A 2. § 22. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
 [^12]: A 2. § 23. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
-[^13]: A 2. § 24. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
-[^14]: A 2. § 25. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
+[^13]: A 2. § 24. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 58. § b) pontja szerint módosított szöveg.
+[^14]: A 2. § 25. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 58. § c) pontja szerint módosított szöveg.
 [^15]: A 2. § 26. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
