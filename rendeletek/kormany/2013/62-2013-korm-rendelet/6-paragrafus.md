@@ -6,12 +6,13 @@ b) autóbuszos személyszállító szolgáltató és a közlekedésszervező ese
 
 ## terjedhet.
 
-(2) Az egy eljárás keretében több jogsértés miatt kiszabott vasúti utasjogi bírságok együttes összege keskeny nyomtávú vasúti pályahálózaton közlekedő vasúti közlekedési szolgáltató esetében legalább 50 ezer, legfeljebb 3 millió forintig terjedhet.
+(2)[^5] Az egy eljárás keretében több jogsértés miatt kiszabott vasúti utasjogi bírságok együttes összege keskeny nyomtávolságú vasút esetében legalább 50 ezer, legfeljebb 3 millió forintig terjedhet.
 
-(3) Az utasjogi bírságot az azt megállapító jogerős határozatban előírt határidőn belül
+(3)[^6] Az utasjogi bírságot az azt megállapító végleges határozatban előírt határidőn belül
 
-a) a vasúti igazgatási szerv eljárása esetében a vasúti igazgatási szervnek a kincstárnál vezetett 10032000-00289926-00000000 számú fizetési számlájára,
+a) a vasúti igazgatási szerv eljárása esetében a vasúti igazgatási szervnek a kincstárnál vezetett 10032000-01040463-00000000 számú fizetési számlájára,
 
-b) a közlekedési hatóság eljárása esetében annak a kincstárnál vezetett 10032000-00289926-00000000 számú fizetési számlájára,
+b) az autóbuszos piacfelügyeleti és utasjogi hatóság eljárása esetében annak a kincstárnál vezetett 10032000-01040463-00000000 számú fizetési számlájára,
 
-történő átutalással, utasjogi bírság jogcím megjelölésével kell megfizetni.
+[^5]: A 6. § (2) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
+[^6]: A 6. § (3) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 32. §-ával megállapított szöveg.
