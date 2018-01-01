@@ -8,4 +8,4 @@ Tbj. 39. § (1) A központi költségvetés a 16. § (1) bekezdésének a)–o
 
 (5) A járulékfizetés átvállalásáról a (2) bekezdés szerinti kötelezett 15 napon belül bejelentést tesz az állami adóhatóságnak. Ha a járulékfizetést átvállaló személy vagy szerv nem teljesít, az egészségügyi szolgáltatási járulékot a (2) bekezdés szerinti kötelezett köteles megfizetni.
 
-(6) Az állami adóhatóság a (2) bekezdés szerint egészségügyi szolgáltatási járulék fizetésére kötelezett által az Art. 20. § (6) bekezdése szerint hozzá bejelentett adatokat a bejelentést követő 10 napon belül elektronikus úton megküldi az Egészbiztosítás Alap kezeléséért felelős szerv részére.
+(6) Az állami adóhatóság a (2) bekezdés szerint egészségügyi szolgáltatási járulék fizetésére kötelezett által a 45/A. § (1) bekezdése szerint hozzá bejelentett adatokat a bejelentést követő 10 napon belül elektronikus úton megküldi az Egészbiztosítás Alap kezeléséért felelős szerv részére.

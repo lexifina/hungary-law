@@ -18,7 +18,7 @@ b) ha a természetbeni egészségbiztosítási járulék nem nyújt teljes fedez
 
 c) ha a természetbeni és pénzbeli egészségbiztosítási járulék sem nyújt teljes fedezetet a járulékkedvezményre nyugdíjjárulékként
 
-nem vonja le, és nem fizeti meg az állami adóhatóságnak. A családi járulékkedvezmény havi összegét a foglalkoztató az Art. 31. § (2) bekezdés szerinti bevallásában vallja be.
+nem vonja le, és nem fizeti meg az állami adóhatóságnak. A családi járulékkedvezmény havi összegét a foglalkoztató az Art. szerinti havi adó- és járulékbevallásban vallja be.
 
 (4) A biztosított az adóelőleg-nyilatkozatban rendelkezhet arról, hogy nem kéri a családi járulékkedvezmény havi összegének érvényesítését.
 

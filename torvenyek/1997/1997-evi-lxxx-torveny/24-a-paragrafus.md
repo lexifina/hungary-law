@@ -14,8 +14,8 @@ c) a biztosított és a családi kedvezményt megosztással érvényesítő bizt
 
 ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 százaléka, de legfeljebb a (2) bekezdésben meghatározott járulékok együttes összege.
 
-(4) A családi járulékkedvezményt a (3) bekezdés b) és c) pontjában meghatározott személyek döntésük szerint együtt is, de csak egyszeresen érvényesíthetik. A családi járulékkedvezmény együttes igénybevételének feltétele az érintett magánszemélyek – adóbevallásban, munkáltatói adómegállapításban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza a kedvezmény összegének felosztására vonatkozó döntésüket.
+(4) A családi járulékkedvezményt a (3) bekezdés b) és c) pontjában meghatározott személyek döntésük szerint együtt is, de csak egyszeresen érvényesíthetik. A családi járulékkedvezmény együttes igénybevételének feltétele az érintett magánszemélyek – adóbevallásban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza a kedvezmény összegének felosztására vonatkozó döntésüket.
 
-(5) A családi járulékkedvezmény (3) bekezdés szerinti összegét a biztosított az éves bevallásában, munkáltatói adómegállapításában feltünteti.
+(5) A családi járulékkedvezmény (3) bekezdés szerinti összegét a biztosított az éves bevallásában feltünteti.
 
 (6) A családi járulékkedvezmény nem csökkenti azt a járulékkötelezettséget, amelyet az Szja tv. szerint adómentes vagy bevételnek nem minősülő járulékalap után kell megfizetni (ide nem értve a munkavállalói érdekképviseletet ellátó szervezet részére az adóévben levont, befizetett tagdíj összegét). Egyéni és társas vállalkozó esetén a családi járulékkedvezményt a kivétet, az átalányban megállapított jövedelmet vagy a személyes közreműködői díjat terhelő járulékok erejéig lehet érvényesíteni.

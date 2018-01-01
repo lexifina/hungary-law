@@ -1,6 +1,6 @@
 ## Késedelem, mulasztás következményei
 
-Tbj. 56. § (1) Az adózás rendjéről szóló törvény rendelkezéseit az e törvényben, a Tny. és az Eb.tv.-ben, valamint az Mpt.-ben meghatározott eltérésekkel kell alkalmazni a
+Tbj. 56. § (1) Az Art. rendelkezéseit az e törvényben, a Tny. és az Eb.tv.-ben, valamint az Mpt.-ben meghatározott eltérésekkel kell alkalmazni a
 
 a) járulékok megállapításával, bevallásával, megfizetésével, a kötelezettség keletkezésének bejelentésével, a bejelentett adatok változásával, az ellenőrzéssel, a feltárt jogsértések jogkövetkezményeivel,
 

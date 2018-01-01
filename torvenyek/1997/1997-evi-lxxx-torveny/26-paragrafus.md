@@ -6,7 +6,7 @@ Tbj. 26. § (1) A gyermekgondozási díjban, gyermekgondozást segítő ellát
 
 (4)
 
-(5) A központi költségvetés a 16. § (1) bekezdés b) pontjában meghatározott – foglalkoztatottnak vagy kiegészítő tevékenységet folytatónak nem minősülő – személyek, a gyermekgondozási díjban részesülők, valamint a 16. § (1) bekezdés c)–f), h)–o) és s)–v) pontjában meghatározott személyek után havonta 5790 forint egészségügyi szolgáltatási járulékot fizet.
+(5) A központi költségvetés a 16. § (1) bekezdés b) pontjában meghatározott – foglalkoztatottnak vagy kiegészítő tevékenységet folytatónak nem minősülő – személyek, a gyermekgondozási díjban részesülők, valamint a 16. § (1) bekezdés c)–f), h)–o) és s)–v) pontjában meghatározott személyek után havonta 7320 forint egészségügyi szolgáltatási járulékot fizet.
 
 (6)
 

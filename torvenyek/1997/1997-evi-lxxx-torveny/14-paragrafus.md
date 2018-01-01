@@ -46,4 +46,4 @@ bc) szülői nyugdíj,
 
 bd) baleseti hozzátartozói nyugellátások;
 
-c) rehabilitációs járadék.
+c)
