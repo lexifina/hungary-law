@@ -1,4 +1,4 @@
-1. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^13]
+1. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^8]
 
 ## „Részletes bejelentőlap a felszín alatti víz és a földtani közeg veszélyeztetéséről, terheléséről” adattartalma
 
@@ -100,4 +100,4 @@
 
 12.5. Használt elemzési/számítási módszer kódja (nemzetközi szabvány)
 
-[^13]: Az 1. számú melléklet a 38/2014. (XII. 17.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 1. számú melléklet a 38/2014. (XII. 17.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.

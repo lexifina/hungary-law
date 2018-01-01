@@ -242,7 +242,7 @@
 
 ## 13.5.3 A kármentesítési monitoring szakasz várható időigénye (hó)
 
-7. melléklet a 18/2007. (V. 10.) KvVM rendelethez[^19]
+7. melléklet a 18/2007. (V. 10.) KvVM rendelethez[^14]
 
 ## „Monitoring információs rendszer, környezethasználati monitoring adatlap” adattartalma
 
@@ -394,4 +394,4 @@
 
 11.5. Mérés dátuma
 
-[^19]: A 7. mellékletet a 38/2014. (XII. 17.) FM rendelet 6. § (7) bekezdése iktatta be.
+[^14]: A 7. mellékletet a 38/2014. (XII. 17.) FM rendelet 6. § (7) bekezdése iktatta be.

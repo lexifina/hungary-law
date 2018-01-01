@@ -1,1 +1,1 @@
-## megnevezésű adatlapon kell benyújtani.
+## megnevezésű adatlapon kell teljesíteni.

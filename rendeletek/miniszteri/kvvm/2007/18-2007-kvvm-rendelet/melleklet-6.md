@@ -258,6 +258,6 @@
 
 ## 11. Megjegyzés
 
-6. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^18]
+6. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^13]
 
-[^18]: A 6. számú melléklet a 38/2014. (XII. 17.) FM rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^13]: A 6. számú melléklet a 38/2014. (XII. 17.) FM rendelet 6. § (6) bekezdésével megállapított szöveg.

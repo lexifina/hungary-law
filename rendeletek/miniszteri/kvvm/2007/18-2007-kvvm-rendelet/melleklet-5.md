@@ -200,6 +200,6 @@
 
 ## 8. Megjegyzés
 
-5. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^17]
+5. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^12]
 
-[^17]: Az 5. számú melléklet a 38/2014. (XII. 17.) FM rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^12]: Az 5. számú melléklet a 38/2014. (XII. 17.) FM rendelet 6. § (5) bekezdésével megállapított szöveg.

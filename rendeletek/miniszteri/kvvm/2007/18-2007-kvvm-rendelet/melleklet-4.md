@@ -52,6 +52,6 @@
 
 ## 6.6. Szennyezőanyag sorsa az esemény után
 
-4. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^16]
+4. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^11]
 
-[^16]: A 4. számú melléklet a 38/2014. (XII. 17.) FM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^11]: A 4. számú melléklet a 38/2014. (XII. 17.) FM rendelet 6. § (4) bekezdésével megállapított szöveg.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-18-20-0
 | 2014-11-29 | 2007-18-20-0N.5 | 52/2014. (XI. 28.) BM rendelet |
 | 2015-01-01 | 2007-18-20-0N.6 | 38/2014. (XII. 17.) FM rendelet |
 | 2015-04-01 | 2007-18-20-0N.7 | 18/2014. (III. 10.) VM rendelet |
+| 2018-01-01 | 2007-18-20-0N.8 | 70/2017. (XII. 29.) FM rendelet |
