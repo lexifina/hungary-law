@@ -1,4 +1,4 @@
-15. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^328]
+15. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^326]
 
 ## Az egységes környezethasználati engedély köteles tevékenységek környezeti kockázatértékelésének szempontrendszere
 
@@ -26,4 +26,4 @@
 
 2.3. a tárgyi évet megelőző évben a létesítmény az engedélyben meghatározott feltételeket teljesítette.
 
-[^328]: A 15. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 11. § (5) bekezdése iktatta be.
+[^326]: A 15. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 11. § (5) bekezdése iktatta be.

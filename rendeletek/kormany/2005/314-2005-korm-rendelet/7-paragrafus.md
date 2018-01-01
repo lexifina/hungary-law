@@ -1,18 +1,18 @@
-7. § (1)[^89] A környezeti hatásvizsgálati eljárást a környezetvédelmi hatóság a környezethasználó kérelmére indítja meg. A kérelem mellé csatolni kell – ha történt előzetes vizsgálat vagy előzetes konzultáció, az azt lezáró határozatra vagy az annak során adott véleményre, továbbá a 2/A. §-ban meghatározott esetben az eljárás felfüggesztéséről szóló végzésben foglaltakra figyelemmel készített – környezeti hatástanulmányt.
+7. § (1)[^88] A környezeti hatásvizsgálati eljárást a környezetvédelmi hatóság a környezethasználó kérelmére indítja meg. A kérelem mellé csatolni kell – ha történt előzetes vizsgálat vagy előzetes konzultáció, az azt lezáró határozatra vagy az annak során adott véleményre, továbbá a 2/A. §-ban meghatározott esetben az eljárás felfüggesztéséről szóló végzésben foglaltakra figyelemmel készített – környezeti hatástanulmányt.
 
-(2)[^90]
+(2)[^89]
 
-(3)[^91] A környezeti hatástanulmány általános tartalmi követelményeit a 6. számú melléklet tartalmazza. A környezeti hatástanulmány egyes részeit a tartalmi követelményeknek megfelelő részszakterületeken – a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló jogszabály alapján – szakértői jogosultsággal rendelkező szakértő készíti el. A hatásterület kiterjedését a 7. számú mellékletben foglaltaknak megfelelően kell meghatározni.
+(3)[^90] A környezeti hatástanulmány általános tartalmi követelményeit a 6. számú melléklet tartalmazza. A környezeti hatástanulmány egyes részeit a tartalmi követelményeknek megfelelő részszakterületeken – a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló jogszabály alapján – szakértői jogosultsággal rendelkező szakértő készíti el. A hatásterület kiterjedését a 7. számú mellékletben foglaltaknak megfelelően kell meghatározni.
 
-(3a)[^92] Ha a környezeti hatástanulmány minősített adatot vagy üzleti titoknak minősülő adatot (a továbbiakban együtt: titok) tartalmaz, akkor azokat a kérelemhez külön iratban kell csatolni. Az eljárás során a környezetvédelmi hatóság gondoskodik arról, hogy a titok jogosulatlan személy számára ne váljon megismerhetővé. A titokra az e rendelet szerinti nyilvánosságra hozatal szabályai nem vonatkoznak.
+(3a)[^91] Ha a környezeti hatástanulmány minősített adatot vagy üzleti titoknak minősülő adatot (a továbbiakban együtt: titok) tartalmaz, akkor azokat a kérelemhez külön iratban kell csatolni. Az eljárás során a környezetvédelmi hatóság gondoskodik arról, hogy a titok jogosulatlan személy számára ne váljon megismerhetővé. A titokra az e rendelet szerinti nyilvánosságra hozatal szabályai nem vonatkoznak.
 
-(3b)[^93] A környezeti hatástanulmányban – a 3. § (2a) bekezdésében foglaltak alkalmazásával – értékelni kell megalapozó információkat, illetve azokat a környezetvédelmi hatóság hivatalból is figyelembe veszi.
+(3b)[^92] A környezeti hatástanulmányban – a 3. § (2a) bekezdésében foglaltak alkalmazásával – értékelni kell megalapozó információkat, illetve azokat a környezetvédelmi hatóság hivatalból is figyelembe veszi.
 
-(4)[^94] A környezetvédelmi hatóság a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások esetén a benyújtott dokumentációval kapcsolatos hiánypótlás teljesítése érdekében a hiánypótlási határidőn belül tartott tárgyaláson lehetőséget biztosít a hiánypótlásban szereplő hiányosságok azonnali pótlására.
+(4)[^93] A környezetvédelmi hatóság a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások esetén a benyújtott dokumentációval kapcsolatos hiánypótlás teljesítése érdekében a hiánypótlási határidőn belül tartott tárgyaláson lehetőséget biztosít a hiánypótlásban szereplő hiányosságok azonnali pótlására.
 
-[^89]: A 7. § (1) bekezdése a 82/2011. (V. 18.) Korm. rendelet 16. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) és (6) bekezdés a) pontja szerint módosított szöveg.
-[^90]: A 7. § (2) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 33. § (3) bekezdés a) pontja hatályon kívül helyezte.
-[^91]: A 7. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (6) bekezdésével megállapított, a 110/2010. (IV. 9.) Korm. rendelet 6. § b) pontja alapján módosított szöveg.
-[^92]: A 7. § (3a) bekezdését a 139/2017. (VI. 9.) Korm. rendelet 6. §-a iktatta be.
-[^93]: A 7. § (3b) bekezdését a 139/2017. (VI. 9.) Korm. rendelet 6. §-a iktatta be.
-[^94]: A 7. § (4) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 8. §-a iktatta be.
+[^88]: A 7. § (1) bekezdése a 82/2011. (V. 18.) Korm. rendelet 16. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) és (6) bekezdés a) pontja szerint módosított szöveg.
+[^89]: A 7. § (2) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 33. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^90]: A 7. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (6) bekezdésével megállapított, a 110/2010. (IV. 9.) Korm. rendelet 6. § b) pontja alapján módosított szöveg.
+[^91]: A 7. § (3a) bekezdését a 139/2017. (VI. 9.) Korm. rendelet 6. §-a iktatta be.
+[^92]: A 7. § (3b) bekezdését a 139/2017. (VI. 9.) Korm. rendelet 6. §-a iktatta be.
+[^93]: A 7. § (4) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 8. §-a iktatta be.

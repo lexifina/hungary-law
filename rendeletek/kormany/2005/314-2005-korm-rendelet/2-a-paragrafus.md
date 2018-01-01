@@ -12,17 +12,20 @@ b) a környezetvédelmi hatóság szakhatósági közreműködés keretében
 
 (3) A (2) bekezdésben foglalt esetben a hatóság – a b) pont esetén a környezetvédelmi hatóság szakhatósági állásfoglalása alapján – a Kvt. vonatkozó szabályaira figyelemmel az eljárását felfüggeszti.
 
-(4) Ha az ügyben érdemi döntésre jogosult hatóságként nem a vízvédelmi hatóság jár el,
+(4)[^37] Ha az ügyben érdemi döntésre jogosult hatóságként nem a vízvédelmi hatóság jár el,
 
 a) az ügyben érdemi döntésre jogosult, környezetvédelmi és természetvédelmi hatáskörrel rendelkező hatóság az eljárás felfüggesztésének tárgyában való döntés meghozatalát megelőzően, vagy
 
 b) a szakhatóság a szakhatósági állásfoglalásának kialakítását megelőzően
 
-belföldi jogsegély keretében megkeresi a vízvédelmi hatóságot, amely nyilatkozik arról, hogy a megkeresésben szereplő tervezett tevékenység jelentős hatással bír-e a felszíni és felszín alatti vizekre.
+## megkeresi a vízvédelmi hatóságot, amely nyilatkozik arról, hogy a megkeresésben szereplő tervezett tevékenység jelentős hatással bír-e a felszíni és felszín alatti vizekre.
 
-(5) A (4) bekezdésben foglaltakat a másodfokú eljárás során is alkalmazni kell azzal, hogy a másodfokú hatóság vagy szakhatóság a felülvizsgálat során a másodfokon eljáró vízvédelmi hatóságot keresi meg belföldi jogsegélyben.
+(5)[^38] A (4) bekezdésben foglaltakat a másodfokú eljárás során is alkalmazni kell azzal, hogy a másodfokú hatóság vagy szakhatóság a felülvizsgálat során a másodfokon eljáró vízvédelmi hatóságot keresi meg.
 
-(6) A környezeti hatástanulmány az eljárás felfüggesztéséről szóló végzés jogerőre emelkedését követő három éven belül nyújtható be.
+(6)[^39] A környezeti hatástanulmány az eljárás felfüggesztéséről szóló végzés jogerőre emelkedését vagy véglegessé válását követő három éven belül nyújtható be.
 
 [^35]: A 2/A. §-t megelőző alcímet a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be.
 [^36]: A 2/A. §-t a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 61. §-ával megállapított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^37]: A 2/A. § (4) bekezdés záró szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 157. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^38]: A 2/A. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 157. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^39]: A 2/A. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 156. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

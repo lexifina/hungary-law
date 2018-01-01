@@ -1,6 +1,6 @@
-## A nyilvánosság informálása és bevonása az egységes környezethasználati engedélyezési eljárásba[^173]
+## A nyilvánosság informálása és bevonása az egységes környezethasználati engedélyezési eljárásba[^170]
 
-21. §[^174] (1)[^175] A nyilvánosság bevonásának szabályait
+21. §[^171] (1)[^172] A nyilvánosság bevonásának szabályait
 
 a) az új létesítmények engedélyezésénél,
 
@@ -10,7 +10,7 @@ c) a 20. § (8) bekezdésében foglalt eltérés alkalmazásakor a 20/A. § (4),
 
 ## kell alkalmazni.
 
-(1a)[^176] A környezethasználónak az (1) bekezdés szerinti esetekben az engedély iránti kérelemhez, illetve a felülvizsgálati dokumentációhoz csatolnia kell az abban foglaltak nyilvánosságra hozatalára alkalmas közérthető összefoglalót. A közérthető összefoglaló tartalmazza:
+(1a)[^173] A környezethasználónak az (1) bekezdés szerinti esetekben az engedély iránti kérelemhez, illetve a felülvizsgálati dokumentációhoz csatolnia kell az abban foglaltak nyilvánosságra hozatalára alkalmas közérthető összefoglalót. A közérthető összefoglaló tartalmazza:
 
 a) a tevékenység ismertetését, különös tekintettel az elérhető legjobb technika alkalmazására;
 
@@ -26,61 +26,61 @@ f) a környezeti hatással járó balesetek megelőzésére, ezek bekövetkezés
 
 g) a lakosság tájékoztatása érdekében megtett, illetve tervezett intézkedéseket;
 
-h)[^177] a technológiák, technikák és intézkedések környezethasználó által kidolgozott főbb változatainak összefoglalóját.
+h)[^174] a technológiák, technikák és intézkedések környezethasználó által kidolgozott főbb változatainak összefoglalóját.
 
-(2)[^178] A környezetvédelmi hatóság az egységes környezethasználati engedélyezési eljárása során, ha minden információ a rendelkezésre áll, de legkésőbb a kérelem beérkezését követő naptól számított tizenöt napon belül
+(2)[^175] A környezetvédelmi hatóság az egységes környezethasználati engedélyezési eljárása során, ha minden információ a rendelkezésére áll, de legkésőbb a kérelem beérkezését követő naptól számított tizenöt napon belül
 
-a) tájékoztatja a nyilvánosságot az eljárás megindulásáról azáltal, hogy a saját hirdetőtábláján és honlapján a (4) bekezdés szerinti hirdetményt elérhetővé teszi;
+a) tájékoztatja a nyilvánosságot az eljárás megindulásáról a (4) bekezdés szerint, közhírré tétel útján,
 
-b) a tevékenység telepítési helye szerinti település jegyzőjének megküldi a hirdetményt, a kérelem és mellékletei (felülvizsgálati dokumentáció) nyomtatott példányát, a feltételezhetően érintett települések jegyzőinek a hirdetményt.
+b) a tevékenység telepítési helye szerinti település jegyzőjének megküldi a közleményt, a kérelem és mellékletei (felülvizsgálati dokumentáció) nyomtatott példányát, valamint a közleményt a feltételezhetően érintett települések jegyzőinek.
 
-(3)[^179] A jegyző haladéktalanul, de legkésőbb öt napon belül gondoskodik a hirdetmény közterületen és a helyben szokásos egyéb módon történő közhírré tételéről, amelynek időtartama legalább huszonegy nap. A jegyző a hirdetmény közzétételét követő öt napon belül tájékoztatja a környezetvédelmi hatóságot a közzététel időpontjáról, helyéről, a telepítési hely szerinti település jegyzője ezeken felül a kérelem és mellékletei (felülvizsgálati dokumentáció) nyomtatott példányába való betekintési lehetőség módjáról is.
+(3)[^176] A jegyző haladéktalanul, de legkésőbb öt napon belül gondoskodik a közhírré tételről, amelynek időtartama legalább huszonegy nap. A jegyző a közlemény közhírré tételét követő öt napon belül tájékoztatja a környezetvédelmi hatóságot annak időpontjáról, helyéről, a telepítési hely szerinti település jegyzője ezeken felül a kérelem és mellékletei (felülvizsgálati dokumentáció) nyomtatott példányába való betekintési lehetőség módjáról is.
 
-(4)[^180] A hirdetménynek a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túl tartalmaznia kell
+(4)[^177] A közleménynek tartalmaznia kell
 
-a) a telepítés helyét,
+a) az eljárás megindításának napját és az ügyintézési határidőt, az ügyintéző nevét és hivatali elérhetőségét,
 
-b)[^181] felhívást arra, hogy a (3) bekezdésben meghatározott határidőig az önkormányzat jegyzőjénél vagy a környezetvédelmi hatóságnál a kérelem tartalmára vonatkozóan írásbeli észrevételt lehet tenni,
+b) az iratokba való betekintés lehetőségére irányuló tájékoztatást,
 
-c)[^182] az arra vonatkozó tájékoztatást, hogy a kérelem és mellékletei (felülvizsgálati dokumentáció) nyomtatott példányába a környezetvédelmi hatóságnál és a tevékenység telepítési helye szerinti település jegyzőjénél lehet betekinteni, valamint, hogy a betekintés módjáról a környezetvédelmi hatóságnál vagy a jegyzőnél lehet részletes felvilágosítást kapni,
+c) a telepítés helyét,
 
-d) az elektronikus úton közzétett kérelem és mellékletei (felülvizsgálati dokumentáció) elérési helyét,
+d) felhívást arra, hogy a (3) bekezdésben meghatározott határidőig az önkormányzat jegyzőjénél vagy a környezetvédelmi hatóságnál a kérelem tartalmára vonatkozóan írásbeli észrevételt lehet tenni,
 
-e) azt, hogy a tevékenység hatásvizsgálat köteles-e, és van-e határon átterjedő környezeti hatása,
+e) a dokumentáció elérési helyére vonatkozó tájékoztatást,
 
-f) a döntéshozó és a releváns információkkal rendelkező hatóság adatait,
+f) azt, hogy a tevékenység hatásvizsgálat köteles-e, és van-e határon átterjedő környezeti hatása,
 
-g) információt arra nézve, hogy milyen döntést hozhat a hatóság,
+g) a döntéshozó és a releváns információkkal rendelkező hatóság adatait,
 
-h) adott esetben a felülvizsgálati eljárás részleteit,
+h) információt arra nézve, hogy milyen döntést hozhat a hatóság,
 
-i) azokat az időpontokat, helyeket és eszközöket, amikor és ahol releváns információ kerül közzétételre,
+i) adott esetben a felülvizsgálati eljárás részleteit,
 
-j) a társadalmi részvétel szabályait, különösen a részvétel módjára, a vonatkozó határidőkre, és az észrevételekkel kapcsolatos eljárásra vonatkozóan, továbbá, hogy a társadalmi részvétel szabályaira vonatkozó további információ hol kapható.
+j) azokat az időpontokat, helyeket és eszközöket, amikor és ahol releváns információ kerül közzétételre,
+
+k) a társadalmi részvétel szabályait, különösen a részvétel módjára, a vonatkozó határidőkre és az észrevételekkel kapcsolatos eljárásra vonatkozóan, továbbá, hogy a társadalmi részvétel szabályaira vonatkozó további információ hol kapható.
 
 (5) Azokat az információkat, amelyek a döntéshozatalhoz szükségesek, de amelyek csak a nyilvánosság (2) bekezdés a) pontja szerinti tájékoztatása után váltak ismertté, elérhetővé kell tenni az érintett nyilvánosság számára.
 
-(5a)[^183] Közmeghallgatás tartása esetén, ha a felügyelőség a közmeghallgatást a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján hangfelvétellel vagy kép- és hangfelvétellel dokumentálja, azt elektronikus úton közzéteszi. Ha a környezetvédelmi hatóság a hangfelvételt írásos jegyzőkönyvben dokumentálja, a dokumentumot elektronikus úton közzéteszi.
+(5a)[^178] Közmeghallgatás tartása esetén, ha a felügyelőség a közmeghallgatást hangfelvétellel vagy kép- és hangfelvétellel dokumentálja, azt elektronikus úton közzéteszi. Ha a környezetvédelmi hatóság a hangfelvételt írásos jegyzőkönyvben dokumentálja, a dokumentumot elektronikus úton közzéteszi.
 
-(6)[^184] A települési önkormányzat jegyzője az észrevételeket legkésőbb a hirdetmény levételét követő öt napon belül megküldi a környezetvédelmi hatóságnak, amely ezeket, továbbá a közvetlenül nála benyújtott észrevételeket eljuttatja a kérelmezőnek, aki ezekre vonatkozó álláspontját a környezetvédelmi hatósághoz továbbítja.
+(6)[^179] A települési önkormányzat jegyzője az észrevételeket legkésőbb a hirdetmény levételét követő öt napon belül megküldi a környezetvédelmi hatóságnak, amely ezeket, továbbá a közvetlenül nála benyújtott észrevételeket eljuttatja a kérelmezőnek, aki ezekre vonatkozó álláspontját a környezetvédelmi hatósághoz továbbítja.
 
 (7) A környezetvédelmi hatóság a döntéshozatal előtt a létesítmény megvalósításának, vagy a működés jelentős változtatásának környezetvédelmi feltételeire vonatkozó észrevételeket a szakhatóságok bevonásával érdemben vizsgálja. Az észrevételek értékelését a környezetvédelmi hatóság határozatának indokolásában ismerteti. Az értékelés magában foglalja az észrevételek ténybeli megítélését, szakterületi elemzését és a jogi következtetéseket.
 
-(8)[^185] Az egységes környezethasználati engedélyről szóló hirdetményt a környezetvédelmi hatóság az eljárásban részt vett települési önkormányzat jegyzője részére megküldi, aki a környezetvédelmi hatóság által megjelölt időpontban gondoskodik annak közzétételéről. A környezetvédelmi hatóság a közzétételre a közlemény megküldésétől számított nyolcadik napnál korábbi időpontot nem határozhat meg.
+(8)[^180] Az egységes környezethasználati engedélyről szóló közleményt a környezetvédelmi hatóság az eljárásban részt vett települési önkormányzat jegyzője részére megküldi, aki a környezetvédelmi hatóság által megjelölt időpontban gondoskodik annak közhírré tétételéről. A környezetvédelmi hatóság a közhírré tételre a közlemény megküldésétől számított nyolcadik napnál korábbi időpontot nem határozhat meg.
 
-(9)[^186] A környezetvédelmi hatóság a határozat meghozatalát követő öt napon belül a hivatalos honlapján is nyilvánosságra hozza az egységes környezethasználati engedély köteles tevékenyég megkezdéséről, módosításáról vagy felülvizsgálatáról, valamint a tevékenység leállításakor a hátrahagyott környezeti károk felszámolásával kapcsolatos intézkedésekről szóló határozatát.
+(9)[^181] A környezetvédelmi hatóság a határozat meghozatalát követő öt napon belül a hivatalos honlapján is közhírré teszi az egységes környezethasználati engedély köteles tevékenység megkezdéséről, módosításáról vagy felülvizsgálatáról, valamint a tevékenység leállításakor a hátrahagyott környezeti károk felszámolásával kapcsolatos intézkedésekről szóló határozatát.
 
-[^173]: A 21. §-t megelőző alcím a 480/2013. (XII. 17.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^174]: A 21. § a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
-[^175]: A 21. § (1) bekezdése a 480/2013. (XII. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^176]: A 21. § (1a) bekezdését a 480/2013. (XII. 17.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^177]: A 21. § (1a) bekezdés h) pontját a 88/2017. (IV. 10.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^178]: A 21. § (2) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^179]: A 21. § (3) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 12. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^180]: A 21. § (4) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^181]: A 21. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés h) pontja szerint módosított szöveg.
-[^182]: A 21. § (4) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés k) pontja szerint módosított szöveg.
-[^183]: A 21. § (5a) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^184]: A 21. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés e) és i) pontja szerint módosított szöveg.
-[^185]: A 21. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (14) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^186]: A 21. § (9) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte, újonnan a 480/2013. (XII. 17.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 88/2017. (IV. 10.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^170]: A 21. §-t megelőző alcím a 480/2013. (XII. 17.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^171]: A 21. § a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^172]: A 21. § (1) bekezdése a 480/2013. (XII. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^173]: A 21. § (1a) bekezdését a 480/2013. (XII. 17.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^174]: A 21. § (1a) bekezdés h) pontját a 88/2017. (IV. 10.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^175]: A 21. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 155. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^176]: A 21. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 155. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^177]: A 21. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 155. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^178]: A 21. § (5a) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 157. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^179]: A 21. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés e) és i) pontja szerint módosított szöveg.
+[^180]: A 21. § (8) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 155. § (7) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^181]: A 21. § (9) bekezdését újonnan a 480/2013. (XII. 17.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 155. § (7) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

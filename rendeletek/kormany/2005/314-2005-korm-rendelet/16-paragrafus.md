@@ -2,7 +2,7 @@
 
 16. § (1) A kibocsátó fél [egyezmény 1. cikk (ii) pontja] által megküldött értesítés alapján, a szükséges fordítások elvégzését követően, a Minisztérium az értesítésre adandó válasz határidejére figyelemmel
 
-a)[^155] észszerű határidő megadásával kikéri a környezetvédelmi hatóság és az eljárásban kijelölt szakhatóságok álláspontját a tervezett tevékenységről, annak feltételezhető környezeti hatásairól, azok jelentőségéről, valamint a kibocsátó fél környezeti hatásvizsgálati eljárásában való részvételének szükségességéről. A Minisztérium a feltételezett hatásterület kiterjedésétől függően vagy a területi szerveket vagy azok felettes szervét keresi meg;
+a)[^152] észszerű határidő megadásával kikéri a környezetvédelmi hatóság és az eljárásban kijelölt szakhatóságok álláspontját a tervezett tevékenységről, annak feltételezhető környezeti hatásairól, azok jelentőségéről, valamint a kibocsátó fél környezeti hatásvizsgálati eljárásában való részvételének szükségességéről. A Minisztérium a feltételezett hatásterület kiterjedésétől függően vagy a területi szerveket vagy azok felettes szervét keresi meg;
 
 b) megszervezi a feltételezett hatásterület nyilvánosságának tájékoztatását és észrevételeik kikérését, a helyi önkormányzatok szükség szerinti bevonásával.
 
@@ -20,7 +20,7 @@ b) megszervezi a feltételezett hatásterület nyilvánosságának tájékoztat�
 
 c) nyilvános fórumot is szervez, és arra meghívja a kibocsátó fél képviselőjét.
 
-(6)[^156] A kibocsátó fél által megküldött tájékoztatást a tevékenység engedélyezéséről szóló döntéséről – a szükség szerinti fordítások elvégzését követően – a Minisztérium saját honlapján közzéteszi, és a fordítást honlapjukon való közzététel céljából megküldi azoknak a környezetvédelmi hatóságoknak, amelyek illetékességi területe az (5) bekezdés b) pontja szerinti területet érinti.
+(6)[^153] A kibocsátó fél által megküldött tájékoztatást a tevékenység engedélyezéséről szóló döntéséről – a szükség szerinti fordítások elvégzését követően – a Minisztérium saját honlapján közzéteszi, és a fordítást honlapjukon való közzététel céljából megküldi azoknak a környezetvédelmi hatóságoknak, amelyek illetékességi területe az (5) bekezdés b) pontja szerinti területet érinti.
 
-[^155]: A 16. § (1) bekezdés a) pontja a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 8. pontja, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^156]: A 16. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés l) pontja szerint módosított szöveg.
+[^152]: A 16. § (1) bekezdés a) pontja a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 8. pontja, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^153]: A 16. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés l) pontja szerint módosított szöveg.
