@@ -1,0 +1,5 @@
+9. § (1) A műveletvégrehajtónál kizárólag a műveleti kötéltechnikai tevékenység módszere szerint meghatározott, valamint az adott szolgálati feladat végrehajtásához, az önmentéshez, illetve – a különleges mentési feladat kivételével – a másik műveletvégrehajtó kötélről történő gyors mentéséhez elengedhetetlenül szükséges és megfelelően rögzített felszerelés és egyéni védőeszköz lehet.
+
+(2) A műveletvezető köteles a műveleti terület biztonságát, a szerkezeti rögzítők, a rögzítési pontok, valamint a felszerelések és az egyéni védőeszközök állapotát, alkalmazhatóságát minden egyes munkakezdés előtt és után ellenőrizni. Sérült, meghibásodott vagy nem azonosítható felszerelést és egyéni védőeszközt alkalmatlanná kell tenni a műveleti kötéltechnikai tevékenység további alkalmazásához.
+
+(3) A műveletvégrehajtó a rendelkezésére bocsátott valamennyi felszerelést és egyéni védőeszközt köteles minden műveleti kötéltechnikai tevékenység megkezdése előtt ellenőrizni és bármely észlelt rendellenességre a műveletvezető figyelmét felhívni.
