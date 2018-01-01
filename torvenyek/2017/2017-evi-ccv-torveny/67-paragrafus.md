@@ -1,0 +1,3 @@
+67. § A Tv. 23. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfélre vonatkozó – a gazdálkodással, a termőföld-hasznosítással, az állattartással, az erdőgazdálkodással, a mezőgazdasági termékek tárolásával, feldolgozásával, valamint az egyéb mezőgazdasági tevékenységgel, halászattal kapcsolatos – támogatási adatokat egyedi azonosításra alkalmas módon, valamint a támogatások összegével, felhasználásával kapcsolatos egyedi azonosításra alkalmas adatokat szakpolitikai célú felhasználásra térítésmentesen adja át az agrárpolitikáért felelős miniszter irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézet részére.”

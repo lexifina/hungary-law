@@ -1,5 +1,5 @@
 149. § Hatályát veszti az Evt.
 
-a)
+a) 107. § (3) bekezdésének e) pontja,
 
 b)
