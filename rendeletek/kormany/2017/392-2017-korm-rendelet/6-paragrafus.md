@@ -1,0 +1,9 @@
+6. § (1) A Nyilvántartás alapadataiba új adatot bejegyezni, továbbá bejegyzett adatot módosítani, törölni kizárólag hivatalból lehet.
+
+(2) Ha az adat bejegyzésére, módosítására, törlésére jogszabály vagy jogerős bírósági vagy végleges hatósági határozat alapulvételével kerül sor, a Nyilvántartásba az 5. § (2) bekezdésében foglaltakon túl be kell jegyezni az annak alapjául szolgáló jogszabály számát, hatálybalépésének időpontját, vagy a jogerős határozatot kiadó bíróság vagy a végleges határozatot hozó hatóság nevét, a határozat számát és jogerőre emelkedésének (véglegessé válásának) időpontját.
+
+(3) A barlang – e rendelet alapján nyilvántartott – adataiban bekövetkezett ingatlan-nyilvántartási adatváltozásról az ingatlanügyi hatóság a változás ingatlan-nyilvántartási bejegyzéséről szóló határozat egy példányának megküldésével értesíti a minisztert.
+
+(4) A Nyilvántartás alapadataihoz kapcsolódó mellékletek tekintetében az (1)–(3) bekezdés rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a dokumentumok valóságtartalmáért azok kiállítója tartozik helytállni.
+
+(5) A területi természetvédelmi hatóság, az országos természetvédelmi hatóság a Nyilvántartásba történő bejegyzés céljából megküldi a miniszter számára valamennyi, a Tvt. 51. § (1) és (3) bekezdésében meghatározott tevékenységekre vonatkozó határozatát és a határozat kiadásának alapjául szolgáló kérelmet, valamint engedélyezési dokumentációt.
