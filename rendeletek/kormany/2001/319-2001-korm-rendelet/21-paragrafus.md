@@ -1,3 +1,3 @@
-## 20. §[^36]
+## 20. §[^37]
 
-[^36]: A 20. §-t a 136/2016. (VI. 13.) Korm. rendelet 1. § (8) bekezdés f) pontja hatályon kívül helyezte.
+[^37]: A 20. §-t a 136/2016. (VI. 13.) Korm. rendelet 1. § (8) bekezdés f) pontja hatályon kívül helyezte.
