@@ -2,9 +2,9 @@
 
 ## Értelmező rendelkezések
 
-## 28. §[^41] E rendelet alkalmazásában:
+## 28. §[^42] E rendelet alkalmazásában:
 
-a)[^42] légiközlekedési hatóság:
+a)[^43] légiközlekedési hatóság:
 
 aa) állami repülések céljára szolgáló repülőtér, illetve közös felhasználású katonai és polgári repülőtér esetében a katonai légügyi hatóság,
 
@@ -14,11 +14,12 @@ b) meglévő épület: a zajgátló védőövezet kijelölésének időpontjába
 
 ba) használatbavételi engedéllyel rendelkező, vagy már több mint 10 éve használatba vett,
 
-bb) érvényes, jogerős és végrehajtható építési engedéllyel rendelkező
+bb)[^44] érvényes, végleges és végrehajtható építési engedéllyel rendelkező
 
 ## épület;
 
 c) megfelelő passzív akusztikai védelem: az épületek védendő helységeire vonatkozó belsőtéri zaj határérték kielégítését biztosító épületszerkezetek kialakítása, szerkezeti elemek beépítése.
 
-[^41]: A 28. § az 53/2004. (III. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^42]: A 28. § a) pontja a 168/2007. (VI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^42]: A 28. § az 53/2004. (III. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^43]: A 28. § a) pontja a 168/2007. (VI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^44]: A 28. § b) pont bb) alpontja a 457/2017. (XII. 28.) Korm. rendelet 47. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

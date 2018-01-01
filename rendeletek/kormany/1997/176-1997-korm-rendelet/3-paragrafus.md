@@ -34,9 +34,9 @@ E jelű övezet:
 
 (3) D jelű övezetet csak olyan területeken szabad kijelölni, ahol a közlekedési zaj nappali terhelési határértéke 65 dB-nél, éjszakai határértéke 55 dB-nél kisebb.
 
-(4)[^3] E jelű övezet kijelölésére csak kivételes esetben kerülhet sor olyan területen, ahol a közlekedési zaj nappali határértéke 55, éjszakai határértéke 45 dB-nél kisebb, és a területen lévő kórházra vagy jelentős gyógyüdülőhelyre való tekintettel ez indokolt.
+(4)[^4] E jelű övezet kijelölésére csak kivételes esetben kerülhet sor olyan területen, ahol a közlekedési zaj nappali határértéke 55, éjszakai határértéke 45 dB-nél kisebb, és a területen lévő kórházra vagy jelentős gyógyüdülőhelyre való tekintettel ez indokolt.
 
-(5)[^4] A légiközlekedési hatóságnak D, valamint E jelű övezet kijelölése előtt különös gonddal kell vizsgálnia a repülőtér működtetésének módosításával elérhető zajcsökkentési lehetőségeket. Ilyen övezetek csak akkor jelölhetők ki, ha a repülőtér működésének ellehetetlenítése nélkül a környezeti zajterhelés nem csökkenthető határérték alá.
+(5)[^5] A légiközlekedési hatóságnak D, valamint E jelű övezet kijelölése előtt különös gonddal kell vizsgálnia a repülőtér működtetésének módosításával elérhető zajcsökkentési lehetőségeket. Ilyen övezetek csak akkor jelölhetők ki, ha a repülőtér működésének ellehetetlenítése nélkül a környezeti zajterhelés nem csökkenthető határérték alá.
 
-[^3]: A 3. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 22. pontja és 44. § (1) bekezdés 67. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^4]: A 3. § (5) bekezdése a 168/2007. (VI. 28.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 22. pontja és 44. § (1) bekezdés 67. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^5]: A 3. § (5) bekezdése a 168/2007. (VI. 28.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.

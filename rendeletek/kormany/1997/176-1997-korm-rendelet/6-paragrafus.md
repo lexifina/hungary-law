@@ -1,4 +1,4 @@
-6. §[^11] (1)[^12] A zajgátló védőövezetet a légiközlekedési hatóság határozatban jelöli ki.
+6. §[^12] (1)[^13] A zajgátló védőövezetet a légiközlekedési hatóság határozatban jelöli ki.
 
 (2) Az (1) bekezdésben megjelölt határozatnak a következőket kell tartalmaznia:
 
@@ -12,20 +12,20 @@ d) a zajgátló védőövezetnek a 4. § (3) bekezdése szerinti kötelező újb
 
 e) a légiközlekedési hatóság által jóváhagyott számításokat,
 
-f) a zajcsökkentés és a zajterhelés ellenőrzése érdekében a repülőtér számára az e rendelet és a külön jogszabályok[^13] szerint előírható egyéb kötelezettségeket és határidőket [pl. zajmonitor rendszer kiépítése, környezetkímélő repülőtér-használati eljárás kidolgozása és bevezetése, zajvédelmi program (13. §) végrehajtása].
+f) a zajcsökkentés és a zajterhelés ellenőrzése érdekében a repülőtér számára az e rendelet és a külön jogszabályok[^14] szerint előírható egyéb kötelezettségeket és határidőket [pl. zajmonitor rendszer kiépítése, környezetkímélő repülőtér-használati eljárás kidolgozása és bevezetése, zajvédelmi program (13. §) végrehajtása].
 
 (3) Azon repülőtér esetében, amelyen a légiforgalmi irányítást (a felszállás és leszállás közelkörzeti irányítását, a pályahasználat szabályozását) a repülőtér üzemben tartójától elkülönült szervezet végzi, a légiközlekedési hatóság a zajgátló védőövezetet kijelölő határozatában megjelöli, hogy a légiforgalmi irányítást végző szervezet a határozat mely pontjainak betartásáért felelős. A határozatot megküldi a légiforgalmi irányítást végző szervezetnek is.
 
-(4)[^14] Új repülőtér létesítése vagy meglevő repülőtér forgalmi viszonyainak fejlesztés miatti jelentős mértékű megváltozása esetén a zajgátló védőövezet kijelölésére vonatkozó kérelmet legkésőbb a létesítési engedély iránti kérelem benyújtásával egyidejűleg kell a légiközlekedési hatósághoz benyújtani. Az V. osztályú repülőtér kivételével nem engedélyezhető a létesítés, ha az fokozottan zajos terület kijelölésével járna együtt. Nem engedélyezhető a fejlesztés az I-III. osztályú repülőterek esetében, ha meglévő A jelű övezet fokozottan zajos területe, IV. osztályú repülőtér esetében bármely övezet fokozottan zajos területe növekedne a zajgátló védőövezet első kijelöléséhez képest.
+(4)[^15] Új repülőtér létesítése vagy meglevő repülőtér forgalmi viszonyainak fejlesztés miatti jelentős mértékű megváltozása esetén a zajgátló védőövezet kijelölésére vonatkozó kérelmet legkésőbb a létesítési engedély iránti kérelem benyújtásával egyidejűleg kell a légiközlekedési hatósághoz benyújtani. Az V. osztályú repülőtér kivételével nem engedélyezhető a létesítés, ha az fokozottan zajos terület kijelölésével járna együtt. Nem engedélyezhető a fejlesztés az I-III. osztályú repülőterek esetében, ha meglévő A jelű övezet fokozottan zajos területe, IV. osztályú repülőtér esetében bármely övezet fokozottan zajos területe növekedne a zajgátló védőövezet első kijelöléséhez képest.
 
 (5) A zajgátló védőövezet kijelölése során figyelembe kell venni az érvényben lévő területrendezési és településrendezési terveket, annak kijelölését követően az érvényben lévő területrendezési, illetőleg településrendezési terveket – amennyiben szükséges – módosítani, az egyes övezetekre vonatkozó korlátozásokat érvényesíteni kell. A rendezési terveknek – a zajgátló védőövezet kijelölése, módosítása vagy megszüntetése miatti – módosításával kapcsolatos költségek a repülőtér üzemben tartóját terhelik.
 
-(6)[^15] A rendelet hatálya alá tartozó repülőterekre – a 29. § (4) bekezdésében foglalt kivétellel – üzemben tartási engedély csak abban az esetben adható, illetve a repülőtér üzemben tartási engedélye csak abban az esetben tartható fenn, ha a repülőtér rendelkezik a légiközlekedési hatóságnak a zajgátló védőövezet kijelölésére vonatkozó határozatával, és a repülőtér üzemben tartója igazolja, hogy eleget tesz az (1) bekezdés szerinti határozatban előírt kötelezettségeknek.
+(6)[^16] A rendelet hatálya alá tartozó repülőterekre – a 29. § (4) bekezdésében foglalt kivétellel – üzemben tartási engedély csak abban az esetben adható, illetve a repülőtér üzemben tartási engedélye csak abban az esetben tartható fenn, ha a repülőtér rendelkezik a légiközlekedési hatóságnak a zajgátló védőövezet kijelölésére vonatkozó határozatával, és a repülőtér üzemben tartója igazolja, hogy eleget tesz az (1) bekezdés szerinti határozatban előírt kötelezettségeknek.
 
 (7) A környezetvédelmi hatóságnak zajvédelmi szempontból a zajgátló védőövezet kijelölésére vonatkozó határozatot kell alapul vennie a környezetvédelmi engedély kiadásánál.
 
-[^11]: A 6. § az 53/2004. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^12]: A 6. § (1) bekezdése a 168/2007. (VI. 28.) Korm. rendelet 5. § (1) bekezdése és a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 67. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^13]: A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki szabályairól szóló 18/1997. (X. 11.) KHVM–KTM együttes rendelet. Az állami repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki követelményeiről szóló 43/2002. (VIII. 12.) HM–KvVM együttes rendelet.
-[^14]: A 6. § (4) bekezdése a 159/2010. (V. 6.) Korm. rendelet 45. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 43. §-át.
-[^15]: A 6. § (6) bekezdése a 366/2004. (XII. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 6. § az 53/2004. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^13]: A 6. § (1) bekezdése a 168/2007. (VI. 28.) Korm. rendelet 5. § (1) bekezdése és a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 67. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^14]: A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki szabályairól szóló 18/1997. (X. 11.) KHVM–KTM együttes rendelet. Az állami repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki követelményeiről szóló 43/2002. (VIII. 12.) HM–KvVM együttes rendelet.
+[^15]: A 6. § (4) bekezdése a 159/2010. (V. 6.) Korm. rendelet 45. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 43. §-át.
+[^16]: A 6. § (6) bekezdése a 366/2004. (XII. 26.) Korm. rendelet 1. §-ával megállapított szöveg.

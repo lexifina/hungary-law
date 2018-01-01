@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-176-20-
 | 2010-05-07 | 1997-176-20-22.8 | 159/2010. (V. 6.) Korm. rendelet |
 | 2012-01-01 | 1997-176-20-22.9 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2016-06-13 | 1997-176-20-22.10 | 135/2016. (VI. 10.) Korm. rendelet |
+| 2018-01-01 | 1997-176-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |
