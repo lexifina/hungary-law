@@ -1,6 +1,6 @@
 2. számú melléklet a 221/2008. (VIII. 30.) Korm. rendelethez
 
-Kultúrnövényben megállapított parlagfű-fertőzés esetén a felületi borítottság és a kultúrnövény tőszámának megállapítása[^27]
+Kultúrnövényben megállapított parlagfű-fertőzés esetén a felületi borítottság és a kultúrnövény tőszámának megállapítása[^31]
 
 I.
 
@@ -14,4 +14,4 @@ A kultúrnövény tőszámának megállapítása
 
 Az agronómiailag indokolt tőszám megállapításához a számlálást a parlagfű folt borítottságának megállapítására kijelölt kvadrátokon belül 5-5 folyóméteren kell elvégezni. A parlagfű folton belül a kultúrnövény tőszámának megállapítása a kapott értékek átlagolásával történik.
 
-[^27]: A 2. számú melléklet címe a 189/2013. (VI. 7.) Korm. rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^31]: A 2. számú melléklet címe a 189/2013. (VI. 7.) Korm. rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.
