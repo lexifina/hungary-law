@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-359-20-
 | 2014-07-01 | 2004-359-20-22.13 | 161/2014. (VI. 30.) Korm. rendelet |
 | 2014-09-05 | 2004-359-20-22.14 | 210/2010. (VI. 30.) Korm. rendelet |
 | 2015-07-08 | 2004-359-20-22.15 | 175/2015. (VII. 7.) Korm. rendelet |
+| 2018-01-01 | 2004-359-20-22.16 | 163/2009. (VIII. 6.) Korm. rendelet |
