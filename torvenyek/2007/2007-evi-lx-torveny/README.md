@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-60-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 2007-60-00-00.19 |
 | 2017-01-05 | 2016. évi CXXXVIII. törvény | 2007-60-00-00.20 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2007-60-00-00.21 |
+| 2018-01-01 | 2017. évi L. törvény | 2007-60-00-00.22 |

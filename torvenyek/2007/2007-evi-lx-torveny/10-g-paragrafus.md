@@ -6,9 +6,9 @@ b) regisztrációs, nyilvántartási, képesítési, valamint adatszolgáltatás
 
 c) a fluortartalmú üvegházhatású gázokkal végzett tevékenységgel kapcsolatos fizetési kötelezettségek megállapítása, ellenőrzése.
 
-(1a) Bizonyítási eszközök – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényben meghatározottakon túl – különösen a próbavásárlás, a fel nem fedett próbavásárlás, a helyszíni leltározás, valamint a fluortartalmú üvegházhatású gázokkal tevékenységet végző más ügyfélnél elrendelt ellenőrzés (a továbbiakban: kapcsolódó vizsgálat) megállapításai.
+(1a) Bizonyítási eszközök – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben meghatározottakon túl – különösen az adatbázisban nyilvántartott adatok, a próbavásárlás, a fel nem fedett próbavásárlás, a helyszíni leltározás, valamint a fluortartalmú üvegházhatású gázokkal tevékenységet végző más ügyfélnél elrendelt ellenőrzés (a továbbiakban: összefüggő vizsgálat) megállapításai.
 
-(1b) A klímavédelemért felelős hatóság ellenőrzésre jogosult alkalmazottja (a továbbiakban: ellenőr) az ellenőrzés során
+(1b) A klímavédelemért felelős hatóság ellenőrzésre jogosult alkalmazottja (a továbbiakban: ellenőr) az ellenőrzés, továbbá a klímavédelemért felelős hatóság eljárásának lefolytatására jogosult alkalmazottja az eljárás során
 
 a) átvizsgálhatja az ellenőrzés alá vont ügyfél által fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenység végzéséhez használt járművet, jármű rakományát, a tevékenység végzésének helyszínét,
 
@@ -16,23 +16,23 @@ b) felhívhatja a fluortartalmú üvegházhatású gázokkal kapcsolatos tevéke
 
 c) próbavásárlást, fel nem fedett próbavásárlást, leltárfelvételt végezhet,
 
-d) kapcsolódó vizsgálatot végezhet az ellenőrzés alá vont ügyféllel kapcsolatban álló más fluortartalmú üvegházhatású gázokkal tevékenységet folytatónál, valamint
+d) összefüggő vizsgálatot végezhet az ellenőrzés alá vont ügyféllel kapcsolatban álló más fluortartalmú üvegházhatású gázokkal tevékenységet folytatónál, valamint
 
-e) mintavételre jogosult.
+e) mintavételre, a helyszínről, a szemletárgyról, folyamatokról fénykép vagy kép- és hangfelvétel készítésére jogosult.
 
-(1c) Próbavásárlás esetén az ellenőrzési jogosultságot a próbavásárlás befejezésekor kell igazolni. Ezzel egyidejűleg az eladó a vételárat köteles visszatéríteni, ennek megtörténte után a klímavédelemért felelős hatóság a terméket visszaszolgáltatja. Ha az eladó a termék visszavételét és a vételár visszafizetését megtagadja, a vételár eljárási költségnek minősül, amelyet az eladó visel. A terméket a klímavédelemért felelős hatóság a végrehajtás szabályai szerint értékesíti, ennek meghiúsulása esetén megsemmisíti.
+(1c) Próbavásárlás esetén az ellenőrzési jogosultságot a próbavásárlás befejezésekor kell igazolni. Ezzel egyidejűleg az eladó a vételárat köteles visszatéríteni, ennek megtörténte után a klímavédelemért felelős hatóság a terméket visszaszolgáltatja. A terméket a klímavédelemért felelős hatóság a bírósági végrehajtásról szóló törvényben foglaltak szerint értékesíti, ennek meghiúsulása esetén megsemmisíti.
 
 (1d) Ha a próbavásárlással lefolytatott hatósági ellenőrzés során a termék károsodik, részben vagy egészben megsemmisül, a vételár eljárási költségnek minősül, amelyet az eljáró klímavédelemért felelős hatóság visel, és a terméket a forgalmazónak nem kell visszavennie.
 
 (1e) Ha a próbavásárlásra elektronikus kereskedelmi szolgáltatást nyújtó vagy egyéb, megrendelésen alapuló termékértékesítést végző fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet folytatónál kerül sor, és a kiszállított termékhez az értékesítéshez kapcsolódó bizonylatot nem mellékelték, az ellenőr jogosult annak csomagolását megbontani és meggyőződni arról, hogy a bizonylatot az eladó a csomagoláson belül elhelyezte-e.
 
-(1f) Szolgáltatás próbavásárlása esetén a szolgáltatás díja egyéb eljárási költségnek minősül.
+(1f) Szolgáltatás próbavásárlása esetén a szolgáltatás díja eljárási költségnek minősül.
 
 (1g) A próbavásárláshoz a klímavédelemért felelős hatóság közreműködő személyt vehet igénybe. A klímavédelemért felelős hatóság a közreműködő személlyel megbízási szerződést köt, amely alapján a közreműködő személy megbízási díjra jogosult. A közreműködő személyre az ügyintézőre vonatkozó kizárási szabályokat kell alkalmazni. A közreműködő személy részére a közreműködést igénybe vevő klímavédelemért felelős hatóság megbízólevelet állít ki.
 
 (1h) A megbízólevél az erre utaló megnevezés mellett a következőket tartalmazza:
 
-a) a közreműködő személy személyazonosító igazolványának vagy más személyazonosításra alkalmas igazolványának számát;
+a) a közreműködő személy nevét, személyazonosító igazolványának vagy más személyazonosításra alkalmas igazolványának számát;
 
 b) az ellenőrzésre vonatkozó jogszabályi vagy egyéb felhatalmazásra történő hivatkozást;
 
@@ -44,11 +44,13 @@ e) a kiállításra jogosult aláírását, bélyegzőlenyomatát, továbbá
 
 f) azt a tényt, hogy a közreműködő személy mely ellenőrzés alá vont ügyfélnél, ügyfélcsoportnál milyen típusú ellenőrzésben vehet részt.
 
-(1i) A megbízólevél hatálya kiterjed a benne szereplő ellenőrzés alá vont ügyfél ellenőrzésével kapcsolatban a klímavédelemért felelős hatóság által elrendelt kapcsolódó vizsgálatban való részvételre is. A közreműködő személy a megbízólevél birtokában próbavásárlást, fel nem fedett próbavásárlást önállóan is végezhet, egyéb ellenőrzési tevékenységben kizárólag az ellenőr jelenlétében vehet részt.
+(1i) A megbízólevél hatálya kiterjed a benne szereplő ellenőrzés alá vont ügyfél ellenőrzésével kapcsolatban a klímavédelemért felelős hatóság által elrendelt összefüggő vizsgálatban való részvételre is. A közreműködő személy a megbízólevél birtokában próbavásárlást, fel nem fedett próbavásárlást önállóan is végezhet, egyéb ellenőrzési tevékenységben kizárólag az ellenőr jelenlétében vehet részt.
 
 (1j) Fel nem fedett próbavásárlás esetén – ha az ellenőr jogsértést nem állapít meg – az ellenőrzési jogosultságot a próbavásárlás befejezésekor nem kell igazolni, azt a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet folytató részére kézbesített jegyzőkönyv tanúsítja. Egyebekben az e törvény próbavásárlásra vonatkozó rendelkezéseit – a fel nem fedett próbavásárlás sajátosságaira tekintettel – kell alkalmazni.
 
-(1k) Ha a klímavédelemért felelős hatóság az ellenőrzés alá vont ügyfél ellenőrzése során indokoltnak tartja, akkor a tényállás tisztázása érdekében kapcsolódó vizsgálatot rendel el. A kapcsolódó vizsgálattal egy tekintet alá esik az ügyfélnél vagy a vele kapcsolatban állt vagy álló ügyfélnél már folyamatban lévő ellenőrzés is, ha annak eredménye a tényállás tisztázásához szükséges.
+(1k) Ha a klímavédelemért felelős hatóság az ellenőrzés alá vont ügyfél ellenőrzése során indokoltnak tartja, akkor a tényállás tisztázása érdekében összefüggő vizsgálatot rendel el. A összefüggő vizsgálattal egy tekintet alá esik az ügyfélnél vagy a vele kapcsolatban állt vagy álló ügyfélnél már folyamatban lévő ellenőrzés is, ha annak eredménye a tényállás tisztázásához szükséges.
+
+(1l) Hatósági ellenőrzés lefolytatása iránti kérelem előterjesztésének nincs helye.
 
 (2) Az (1) bekezdésben meghatározott célra az F-Gáz ügyfélazonosító alatt az adatbázisban nyilvántartható:
 
@@ -88,7 +90,7 @@ c) az a) és b) pontokhoz kapcsolódóan a klímavédelemért felelős hatóság
 
 ca) hatósági döntés iktatószáma,
 
-cb) jogerősen kiszabott bírság összege, megfizetésének ténye, behajtás állapota,
+cb) végleges döntéssel kiszabott bírság összege, megfizetésének ténye, behajtás állapota,
 
 cc) a bírság kiszabása mellőzésének ténye, figyelmeztetés ténye,
 
@@ -128,7 +130,7 @@ az irányadók.
 
 (3a) A (2) bekezdés szerinti adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-(4) A klímavédelemért felelős hatóság az F-Gáz ügyfélazonosítóval rendelkező ügyfelek számára biztosítja az elektronikus kapcsolattartást és ügyintézést, amelynek részletes szabályait miniszteri rendelet állapítja meg.
+(4)
 
 (5) Az adatbázisban tárolt, F-Gáz ügyfélazonosítóhoz tartozó személyes adatokat a tevékenység megszűnését vagy megszüntetését követő 5 év elteltével törölni kell.
 

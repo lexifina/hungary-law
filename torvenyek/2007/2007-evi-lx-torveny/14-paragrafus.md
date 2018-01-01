@@ -40,27 +40,29 @@ n) a fluortartalmú üvegházhatású gázokat tartalmazó termékek és berende
 
 o) a klímavédelmi bírság mértékét;
 
-p) a klímavédelemért felelős hatóság kijelölését.
+p) a klímavédelemért felelős hatóság kijelölését;
+
+q) az együttes végrehajtás-hitelesítői tevékenység folytatásának feltételeit, a tevékenység engedélyezésének és más EGT-államban feljogosított hitelesítő 13/D. § szerinti nyilvántartás vezetésének részletes szabályait, annak adattartalmát, , továbbá az együttes végrehajtás hitelesítői tevékenységre előírt kötelezettségek megszegése esetén alkalmazandó jogkövetkezményeket;
+
+r) a fluortartalmú üvegházhatású gázok 517/2014/EU európai parlamenti és tanácsi rendeletben nem szabályozott felhasználási céljából a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végző vállalkozások részére az e tevékenység végzésére jogosító engedélyezési eljárás részletes szabályait;
+
+s) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügyfélazonosítóval rendelkező ügyfelek általi igénybevételének és vezetésének részletes szabályait;
+
+t) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző vállalkozások képesítési rendszerének, a képesítések nyilvántartásának, az igazolás kiadásának, az ahhoz fűződő formai és tartalmi követelmények meghatározásának részletes szabályait,
+
+u) az együttes végrehajtási projektek támogatásának eljárásrendjére, jóváhagyására, hitelesítésére, valamint nyomon követésére szolgáló adatszolgáltatási és jelentési rendre vonatkozó szabályokat, az e körben alkalmazható jogkövetkezményeket.
 
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 
-a) az együttes végrehajtás-hitelesítői tevékenység folytatásának részletes feltételeit, a tevékenységre jogosító engedély kiadásának és a 13/C. § (2) bekezdése szerinti bejelentésnek a részletes szabályait, az együttes végrehajtás hitelesítő tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az együttes végrehajtás hitelesítői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
+a) a Magyarország területén megvalósuló együttes végrehajtási projekttevékenységek vonatkozásában a felügyeleti díj megfizetésének részletes szabályait;
 
-b) a Magyarország területén megvalósuló együttes végrehajtási projekttevékenységek felügyeleti díj megfizetésének részletes szabályait;
+b) a klímavédelmi felügyeleti díj megfizetésének részletes szabályait;
 
-c) a klímavédelemért felelős hatósággal való elektronikus kapcsolattartás szabályait;
+c) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző természetes személyek képzésére, képesítésére és vizsgáztatására, a szerzett tudás elismerésére, a vizsgáztatás és képesítés rendjére vonatkozó részletes szabályokat;
 
-d) a klímavédelmi felügyeleti díj megfizetésének részletes szabályait;
+d) a fluortartalmú üvegházhatású gázokkal összefüggő tevékenységet végzők képzéséért, vizsgáztatásáért és a képesítést igazoló okirat kiállításáért fizetendő díj mértékét és a díj megfizetésének részletes szabályait
 
-e) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis részét képező, 10/G. § szerinti nyilvántartás részére történő adatközlés formájának és módjának, tartalmának, kezelésének, üzemeltetésének és fenntartásának, felügyeletének, valamint az adatközlés és adatszolgáltatás rendjének részletes szabályait;
-
-f) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügyfélazonosítóval rendelkező ügyfelek általi igénybevételének és használatának, az abban való regisztrációnak és nyilvántartásba vételnek a részletes szabályait;
-
-g) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző természetes személyek képzésére, képesítésére és vizsgáztatására, a vonatkozó tananyagra, szakmai és vizsgakövetelményekre, a szerzett tudás elismerésére, a vizsgáztatás és képesítés rendjére, a vállalkozások képesítési rendszerére, a képesítések nyilvántartására, az igazolás kiadására, az ahhoz fűződő formai és tartalmi követelmények meghatározásának rendjére vonatkozó részletes szabályokat;
-
-h) a 10/B. § (3) bekezdése szerinti képzési, képesítési és vizsgáztatási díj mértékét és megfizetésének részletes szabályait;
-
-i) a fluortartalmú üvegházhatású gázok 517/2014/EU európai parlamenti és tanácsi rendeletben nem szabályozott felhasználási céljából a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végző vállalkozások részére az e tevékenység végzésére jogosító engedély kiadásának részletes szabályait.
+rendeletben állapítsa meg.
 
 (7) Felhatalmazást kap a miniszter, hogy az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
