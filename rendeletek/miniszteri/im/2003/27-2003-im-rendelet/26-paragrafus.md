@@ -4,6 +4,9 @@
 
 ## megállapítása
 
-26. § (1) A letevő kérheti a bíróságtól – akár az elfogadás iránti kérelemben, akár utóbb előterjesztett kérelem alapján – a teljesítési letétként történő letétbe helyezéssel felmerült költségeinek (pl. letéteményes díja) megállapítását, kivéve, ha a felek a bírósági letétbe helyezéssel történő teljesítésben és egyidejűleg a költségviselésre vonatkozóan is megállapodtak.
+26. § (1)[^20] A letevő a teljesítési letétként történő letétbe helyezéssel felmerült költségeit felszámíthatja, kivéve, ha a felek a bírósági letétbe helyezéssel történő teljesítésben és egyidejűleg a költségviselésre vonatkozóan is megállapodtak.
 
-(2) A bíróság a kérelemről annak beérkezésétől számított 8 munkanapon belül határoz. A bíróság határozatának kézbesítésére és a fellebbezésre a Pp. rendelkezései irányadók.
+(2)[^21] A bíróság a kérelemről annak beérkezésétől számított 8 munkanapon belül határoz.
+
+[^20]: A 26. § (1) bekezdése a 20/2017. (XII. 21.) IM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^21]: A 26. § (2) bekezdése a 20/2017. (XII. 21.) IM rendelet 14. § (6) bekezdése szerint módosított szöveg.

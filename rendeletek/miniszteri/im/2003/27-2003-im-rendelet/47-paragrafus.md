@@ -1,4 +1,4 @@
-47. §[^26] (1) Készpénzben történő megfizetés esetén a letétkezelő az óvadék összegét akkor veheti át, ha a letevő az óvadékot megállapító jogerős határozatot átadta, a személyazonosságát igazolta és a befizetési lapon szereplő adatokat hiánytalanul megadta, vagy azok egyébként a letétkezelő rendelkezésére állnak.
+47. §[^31] (1) Készpénzben történő megfizetés esetén a letétkezelő az óvadék összegét akkor veheti át, ha a letevő az óvadékot megállapító jogerős határozatot átadta, a személyazonosságát igazolta és a befizetési lapon szereplő adatokat hiánytalanul megadta, vagy azok egyébként a letétkezelő rendelkezésére állnak.
 
 (2) A letétkezelő az óvadék készpénzben történő megfizetését a pénz átvételével egyidejűleg a befizetési lap egy példányának a letevő részére történő átadásával igazolja. A letétkezelő a befizetési lapot annak átadásakor az aláírásával és a bíróság hivatalos bélyegzőjének lenyomatával látja el.
 
@@ -12,4 +12,4 @@
 
 (7) A letét az óvadék megfizetése (2) vagy (3) bekezdés szerinti igazolásának időpontjában jön létre.
 
-[^26]: A 47. § az 5/2006. (VII. 24.) IRM rendelet 2. §-ával megállapított szöveg.
+[^31]: A 47. § az 5/2006. (VII. 24.) IRM rendelet 2. §-ával megállapított szöveg.

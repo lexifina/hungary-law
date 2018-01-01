@@ -1,4 +1,4 @@
-## 28. § Ha a bíróság a letét elfogadását megtagadja, a letétkezelőt a megtagadó végzés jogerőre emelkedése után utasítja a pénznek a letevő részére történő megküldésére, átutalására vagy a tárgynak a letevő részére történő visszaküldésére. Ha ez bármely okból nem lehetséges, a bíróság az őrzési letétként történő kezelést egy évi időtartamra elrendeli. A bíróság határozatának kézbesítésére és a fellebbezésre a Pp. rendelkezései irányadók.
+## 28. §[^22] Ha a bíróság a letét elfogadását megtagadja, a letétkezelőt a megtagadó végzés jogerőre emelkedése után utasítja a pénznek a letevő részére történő megküldésére, átutalására vagy a tárgynak a letevő részére történő visszaküldésére. Ha ez bármely okból nem lehetséges, a bíróság az őrzési letétként történő kezelést egy évi időtartamra elrendeli.
 
 ## A letétbe helyezett tárgy előzetes értékesítése
 
@@ -7,3 +7,5 @@
 (2) A letétbe helyezett tárgyak értékesítésére a lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályairól, valamint az elkobzás végrehajtásáról szóló 11/2003. (V. 8.) IM–BM–PM együttes rendelet szabályait kell alkalmazni.
 
 (3) Az értékesítésből befolyt összegnek a költségek levonása után fennmaradó részét a letétkezelő bírói letéti számlájára kell átutalni.
+
+[^22]: A 28. § a 20/2017. (XII. 21.) IM rendelet 14. § (6) bekezdése szerint módosított szöveg.

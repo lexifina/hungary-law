@@ -1,6 +1,6 @@
-## 45. §[^24] Az óvadék letétbe helyezése iránti ügyben az óvadék megállapítása tárgyában jogerős határozatot hozó bíróság (e fejezetben a továbbiakban: bíróság) jár el.
+## 45. §[^29] Az óvadék letétbe helyezése iránti ügyben az óvadék megállapítása tárgyában jogerős határozatot hozó bíróság (e fejezetben a továbbiakban: bíróság) jár el.
 
-46. §[^25] (1) A pénz óvadékként történő átvétele iránt kérelmet nem kell előterjeszteni, a bíróság a letétbe helyezett óvadék elfogadásáról nem hoz külön határozatot.
+46. §[^30] (1) A pénz óvadékként történő átvétele iránt kérelmet nem kell előterjeszteni, a bíróság a letétbe helyezett óvadék elfogadásáról nem hoz külön határozatot.
 
 (2) Az óvadékot a bíróság letétkezelőjénél készpénzben vagy a bíróság letéti számlájára banki átutalással kell megfizetni. Ha annak feltételei a bíróságon biztosítottak, az óvadék befizetését készpénz-helyettesítő fizetőeszközzel is teljesíteni lehet.
 
@@ -34,5 +34,5 @@ b) természetes személy letevő esetében nevét, címét, személyazonosságá
 
 c) az óvadék átvételére jogosult személy nevét és bankszámlaszámát.
 
-[^24]: A 45. § az 5/2006. (VII. 24.) IRM rendelet 4. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^25]: A 46. § az 5/2006. (VII. 24.) IRM rendelet 2. §-ával megállapított szöveg.
+[^29]: A 45. § az 5/2006. (VII. 24.) IRM rendelet 4. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^30]: A 46. § az 5/2006. (VII. 24.) IRM rendelet 2. §-ával megállapított szöveg.

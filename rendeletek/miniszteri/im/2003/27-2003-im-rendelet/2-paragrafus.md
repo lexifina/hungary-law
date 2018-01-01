@@ -20,8 +20,8 @@ b) bírósági letéti kezelésre alkalmas tárgy (minden olyan dolog, amelynek 
 
 ## helyezhető bírósági letétbe.
 
-(3)[^2] Teljesítési és őrzési letétként kétezer forintot meghaladó összegű pénz, továbbá őrzési letétként ötezer forintot meghaladó értékű tárgy helyezhető bírósági letétbe. Ezen összeghatár szerinti korlátozás a kisajátítási eljárás szabályai szerint lefolytatott eljárás, valamint az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanítási eljárás keretében megállapított, a kártalanításra jogosult részére járó összeg letétbe helyezésére nem vonatkozik.
+(3)[^2] Teljesítési és őrzési letétként kétezer forintot meghaladó összegű pénz, továbbá őrzési letétként ötezer forintot meghaladó értékű tárgy helyezhető bírósági letétbe. Ezen összeghatár szerinti korlátozás nem vonatkozik a kisajátítási eljárás szabályai szerint lefolytatott eljárás keretében megállapított, az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanítási eljárás keretében megállapított, valamint az ezek körébe nem eső egyéb – jogszabályban (különösen a bányászatról szóló törvényben, a földgázellátásról szóló törvényben, a villamos energiáról szóló törvényben) meghatározott személyek, szervezetek részére biztosított – közérdekű használati joggal összefüggésben a kártalanításra jogosult részére járó összeg letétbe helyezésére.
 
 (4) Elnöki letétként ötszáz forintot meghaladó értékű pénz helyezhető bírósági letétbe.
 
-[^2]: A 2. § (3) bekezdése a 20/2013. (VIII. 7.) KIM rendelet 4. § (1) bekezdése, a 14/2015. (VIII. 3.) IM rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 2. § (3) bekezdése a 20/2017. (XII. 21.) IM rendelet 14. § (1) bekezdésével megállapított szöveg.
