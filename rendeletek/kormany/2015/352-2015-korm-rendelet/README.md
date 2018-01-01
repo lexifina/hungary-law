@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-352-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-11-25 | 2015-352-20-22.1 | 352/2015. (XI. 24.) Korm. rendelet |
+| 2018-01-01 | 2015-352-20-22.2 | 428/2020. (IX. 10.) Korm. rendelet |
