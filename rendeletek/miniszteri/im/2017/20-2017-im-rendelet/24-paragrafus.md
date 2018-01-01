@@ -1,0 +1,7 @@
+## 23. § Az illeték és a közzétételi költségtérítés elektronikus úton történő megfizetéséről a cégeljárásban és más cégügyekben című 25/2006. (V. 18.) IM rendelet 3. §-a helyébe a következő rendelkezés lép:
+
+## „3. § (1) Ha a cégbejegyzési (változásbejegyzési) kérelemhez a 2. § (3) bekezdése szerinti elektronikus igazolást nem csatolják, és a cégbíróság emiatt a kérelmet hiánypótlási eljárás lefolytatása nélkül visszautasítja [Ctv. 45. §], a visszautasító végzésben az is szerepel, hogy az eljárásban esetlegesen megfizetett illeték a cégbíróság székhelye szerint illetékes állami adó- és vámhatóságtól, a közzétételi költségtérítés pedig az igazságügyért felelős miniszter által vezetett minisztériumtól – írásbeli kérelemre – külön jogszabályban meghatározott mértékben visszaigényelhető, figyelemmel a 9. §-ban foglaltakra is.
+
+## (2) Ha a cégbejegyzési (változásbejegyzési) kérelem hiánypótlási eljárás lefolytatása nélküli visszautasítására nem az (1) bekezdésben meghatározott okból került sor, a végzésben a cégbíróság feltünteti, hogy a kérelmező milyen ügyazonosító számra, milyen összegű illetéket, illetve költségtérítést fizetett. Ha a cégbejegyzési (változásbejegyzési) kérelmet ismételten előterjesztik – a Ctv. 45. § (5) bekezdésében és 48. § (9) bekezdésében meghatározott eset kivételével –, a korábbi eljárás során megfizetett illeték és költségtérítés a megismételt eljárásban nem vehető figyelembe, azokat ismételten meg kell fizetni.”
+
+## 19. Az európai közösségi jogászok szakmai megnevezéseiről szóló 18/2007. (III. 19.) IRM rendelet módosítása
