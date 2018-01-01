@@ -1,3 +1,3 @@
-## 29–53. §[^8]
+## 29–53. §[^9]
 
-[^8]: A 29–53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 29–53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
