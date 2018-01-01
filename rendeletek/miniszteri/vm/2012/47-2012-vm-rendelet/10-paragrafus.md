@@ -1,7 +1,0 @@
-10. § (1) Egy ügyfél támogatási időszakonként kizárólag egy támogatási kérelmet nyújthat be.
-
-(2) E rendelet alapján az ügyfél támogatási kérelmet kizárólag akkor nyújthat be, ha az Európai Mezőgazdasági Vidékfejlesztési Alapból a mikrovállalkozások létrehozására és fejlesztésére nyújtandó támogatások részletes feltételeiről szóló 136/2008. (X. 18.) FVM rendelet keretében, vagy az Európai Mezőgazdasági Vidékfejlesztési Alapból a mikrovállalkozások létrehozására és fejlesztésére 2011-től nyújtandó támogatások részletes feltételeiről szóló 33/2011. (IV. 28.) VM rendelet keretében benyújtott támogatási kérelméhez kapcsolt utolsó kifizetési kérelmével elszámolt, az ahhoz kapcsolódó határozata jogerőre emelkedett, a beruházást lezárta.
-
-(3) E rendelet alapján támogatási kérelem benyújtására nem jogosult az az ügyfél, aki (amely) az Európai Mezőgazdasági Vidékfejlesztési Alapból a mikrovállalkozások létrehozására és fejlesztésére nyújtandó támogatások részletes feltételeiről szóló 136/2008. (X. 18.) FVM rendelet, vagy az Európai Mezőgazdasági Vidékfejlesztési Alapból a mikrovállalkozások létrehozására és fejlesztésére 2011-től nyújtandó támogatások részletes feltételeiről szóló 33/2011. (IV. 28.) VM rendelet alapján benyújtott támogatási kérelme vonatkozásában nem rendelkezik jogerős határozattal.
-
-(4) Nem nyújthat be támogatási kérelmet az az ügyfél, akinek a (2) bekezdés szerinti rendeletekhez kapcsolódóan benyújtott támogatási vagy kifizetési kérelme alapján hozott döntések vonatkozásában bírósági eljárása van folyamatban.
