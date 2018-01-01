@@ -4,11 +4,11 @@
 
 (3) Ha az ügyfél a támogatási kérelmében az állattenyésztés, a kertészet, vagy az állattenyésztés és a kertészet együttes aránya tekintetében a működtetési időszak 4. évére vállalt EUME értékből részarányt vállalt, akkor az üzleti tervben megnevezett termékek helyettesítése csak a vállalt százalékos arány betartása mellett valósítható meg szankció nélkül.
 
-(4)[^5] Méhcsaládok beállítása kizárólag úgy vállalható, ha azok részaránya a működtetési időszak 4. évének végén nem haladja meg az üzleti tervben a 4. naptári év végére vállalt EUME érték 50%-át.
+(4)[^7] Méhcsaládok beállítása kizárólag úgy vállalható, ha azok részaránya a működtetési időszak 4. évének végén nem haladja meg az üzleti tervben a 4. naptári év végére vállalt EUME érték 50%-át.
 
 (5) A (4) bekezdésben foglaltak a (3) bekezdésben meghatározott esetben is alkalmazandóak.
 
-(6)[^6] A Kincstár az (1) bekezdés teljesülése tekintetében a működtetési időszakban az ellenőrzés időpontját megelőző naptári éveket is ellenőrizheti.
+(6)[^8] A Kincstár az (1) bekezdés teljesülése tekintetében a működtetési időszakban az ellenőrzés időpontját megelőző naptári éveket is ellenőrizheti.
 
-[^5]: Az 5. § (4) bekezdése az 53/2014. (IV. 29.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 5. § (6) bekezdése a 35/2017. (XII. 27.) MvM rendelet 17. § c) pontja szerint módosított szöveg.
+[^7]: Az 5. § (4) bekezdése az 53/2014. (IV. 29.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (6) bekezdése a 35/2017. (XII. 27.) MvM rendelet 17. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 17. §[^36] Ahol e rendelet csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-je előtt nyílt meg.
+## 17. §[^39] Ahol e rendelet csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-je előtt nyílt meg.
 
 1. melléklet a 34/2014. (IV. 4.) VM rendelethez
 
@@ -706,4 +706,4 @@
 
 | Szakmunkás bizonyítvány alapján: | Szakmunkás |
 
-[^36]: A 17. §-t a 7/2015. (II. 17.) MvM rendelet 78. § (7) bekezdése iktatta be.
+[^39]: A 17. §-t a 7/2015. (II. 17.) MvM rendelet 78. § (7) bekezdése iktatta be.
