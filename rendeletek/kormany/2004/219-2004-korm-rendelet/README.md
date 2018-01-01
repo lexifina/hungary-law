@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-219-20-
 | 2017-06-17 | 2004-219-20-22.33 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2017-07-01 | 2004-219-20-22.34 | 300/2011. (XII. 22.) Korm. rendelet |
 | 2017-07-25 | 2004-219-20-22.35 | 527/2013. (XII. 30.) Korm. rendelet |
+| 2018-01-01 | 2004-219-20-22.36 | 457/2017. (XII. 28.) Korm. rendelet |

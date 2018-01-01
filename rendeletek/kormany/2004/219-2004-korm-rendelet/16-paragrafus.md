@@ -2,7 +2,7 @@
 
 ## AZ ENGEDÉLYKÖTELES TEVÉKENYSÉG BEJELENTÉSE ÉS AZ ADATSZOLGÁLTATÁSA
 
-16. §[^118] (1) A felszín alatti víz veszélyeztetésével, terhelésével járó tevékenységek jellemzőit a „Részletes bejelentőlap a felszín alatti víz és a földtani közeg veszélyeztetéséről, terheléséről” megnevezésű bejelentőlapon (a továbbiakban: részletes adatlap), illetve az „Egyszerűsített bejelentőlap a felszín alatti víz és a földtani közeg veszélyeztetéséről, terheléséről” megnevezésű adatlapon (a továbbiakban: egyszerűsített adatlap), valamint az „Éves jelentés a felszín alatti víz és a földtani közeg veszélyeztetéséről, terheléséről” megnevezésű jelentésben (a továbbiakban: éves jelentés) kell benyújtani az engedélyköteles tevékenység helye szerint illetékes vízvédelmi hatósághoz (a továbbiakban: bejelentés).
+16. §[^120] (1) A felszín alatti víz veszélyeztetésével, terhelésével járó tevékenységek jellemzőit a „Részletes bejelentőlap a felszín alatti víz és a földtani közeg veszélyeztetéséről, terheléséről” megnevezésű bejelentőlapon (a továbbiakban: részletes adatlap), illetve az „Egyszerűsített bejelentőlap a felszín alatti víz és a földtani közeg veszélyeztetéséről, terheléséről” megnevezésű adatlapon (a továbbiakban: egyszerűsített adatlap), valamint az „Éves jelentés a felszín alatti víz és a földtani közeg veszélyeztetéséről, terheléséről” megnevezésű jelentésben (a továbbiakban: éves jelentés) kell benyújtani az engedélyköteles tevékenység helye szerint illetékes vízvédelmi hatósághoz (a továbbiakban: bejelentés).
 
 (2) Részletes adatlap benyújtására kötelezett
 
@@ -44,4 +44,4 @@ b) a (2) bekezdés b), c) és d) pontja, illetve a (3) bekezdés b) pontja szeri
 
 (8) A tárgyévben a részletes adatlapon közölt adatokban bekövetkezett változást – az anyagforgalomban bekövetkezett 25%-nál nagyobb változás fölött, bevezetéseknél minden esetben – be kell jelenteni az illetékes vízvédelmi hatóságnál a tárgyév utolsó napján érvényes adatokkal a részletes adatlap újbóli megküldésével, illetve éves jelentésre kötelezettek esetén az éves jelentés részeként.
 
-[^118]: A 16. § a 310/2014. (XII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^120]: A 16. § a 310/2014. (XII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

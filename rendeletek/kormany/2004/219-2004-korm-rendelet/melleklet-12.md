@@ -72,7 +72,7 @@
 
 | K: | az adott szennyező anyagnak az elszennyezett földtani közegben, illetve felszín alatti vízben a tényfeltárás során megállapított koncentrációja, az adott anyagra vonatkozó (B) szennyezettségi határérték mértékegységében. |
 
-12. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^376]
+12. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^373]
 
 ## A felszín alatti víztestek kémiai állapotának minősítésére szolgáló küszöbértékek meghatározása
 
@@ -114,4 +114,4 @@ a) a természetes okokból elő nem forduló szennyező anyagokra a küszöbért
 
 b) a természetes okokból is előforduló anyagokra, a víztestre vagy víztest csoportra jellemző háttérértékek figyelembe legyenek véve.
 
-[^376]: A 12. számú mellékletet a 302/2008. (XII. 17.) Korm. rendelet 17. § (4) bekezdése iktatta be, szövege a 248/2015. (IX. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^373]: A 12. számú mellékletet a 302/2008. (XII. 17.) Korm. rendelet 17. § (4) bekezdése iktatta be, szövege a 248/2015. (IX. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
