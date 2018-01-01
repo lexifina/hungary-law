@@ -4,8 +4,8 @@
 
 (2) Ha a légtér-igénybevételi díj fizetésére kötelezett az Eurocontrol Egyezményt aláíró valamely államban honos, akkor a légtér-igénybevételi díjat a honossága szerinti állam konvertibilis valutájában is megfizetheti az Eurocontrol által a honossága szerinti államban kijelölt bankszervezetnél. Ebben az esetben az euróban kifejezett összegnek nemzeti valutára történő átszámítását a befizetés napján és helyén érvényes, a kereskedelmi tranzakciókhoz kihirdetett napi árfolyamon kell elvégezni.
 
-(3)[^7] Ha a légtér-igénybevételi díjat az (1) bekezdésben meghatározott időpontig az Eurocontrol fizetési számláján nem írják jóvá, a díj fizetésére kötelezett a díjon felül késedelmi kamatot köteles fizetni. A késedelmi kamat alapja a kötelezett által meg nem fizetett légtér-igénybevételi díj, mértéke naptári naponként a díj 9,88%-ának 365-öd része.
+(3)[^7] Ha a légtér-igénybevételi díjat az (1) bekezdésben meghatározott időpontig az Eurocontrol fizetési számláján nem írják jóvá, a díj fizetésére kötelezett a díjon felül késedelmi kamatot köteles fizetni. A késedelmi kamat alapja a kötelezett által meg nem fizetett légtér-igénybevételi díj, mértéke naptári naponként a díj 9,74%-ának 365-öd része.
 
 (4) A késedelembe esést követően a légtér-igénybevételi díj és a kamat megfizetését euróban kell teljesíteni.
 
-[^7]: A 11. § (3) bekezdése a 71/2015. (XII. 22.) NFM rendelet 3. §-ával megállapított, a 48/2016. (XII. 1.) NFM rendelet 1. § c) pontja szerint módosított szöveg.
+[^7]: A 11. § (3) bekezdése a 46/2017. (XII. 20.) NFM rendelet 3. §-ával megállapított szöveg.
