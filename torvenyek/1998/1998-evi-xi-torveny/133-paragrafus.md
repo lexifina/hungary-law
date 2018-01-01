@@ -1,1 +1,0 @@
-133. § Felhatalmazást kap az igazságügyért felelős miniszter arra, hogy az európai közösségi jogászok szakmai megnevezéseit, amelyek alatt az ügyvédi szakmai tevékenységet az Európai Közösségek Tanácsának 77/249/EGK irányelve és az Európai Parlament és a Tanács 98/5/EK irányelve szerint jogosultak folytatni, rendeletben szabályozza.

@@ -1,1 +1,0 @@
-118. § Az Alapszabályt és a Magyar Ügyvédi Kamara szabályzatait a Hivatalos Értesítőben kell közzétenni, a kamarák alapszabályát és szabályzatait – az alapszabályban meghatározott módon – a tagok és mindenki más számára, akinek jogait érinti, hozzáférhetővé kell tenni. A kamarai határozatok a tagok számára nyilvánosak.

@@ -1,1 +1,0 @@
-12/C. § A Magyar Ügyvédi Kamara és a kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azokat az ügyeket, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja, nyilvántartottja vagy alkalmazottja, és az eljárás nem minősül a közigazgatási hatósági ügynek.
