@@ -1,3 +1,3 @@
-## 101/C–101/D. §[^260]
+## 101/C–101/D. §[^258]
 
-[^260]: A 101/C–101/D. §-t a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta be, az 1/2017. (II. 14.) EMMI rendelet 59. § j) pontja hatályon kívül helyezte.
+[^258]: A 101/C–101/D. §-t a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta be, az 1/2017. (II. 14.) EMMI rendelet 59. § j) pontja hatályon kívül helyezte.

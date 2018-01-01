@@ -1,4 +1,4 @@
-## 9. CÍM[^325]
+## 9. CÍM[^323]
 
 ## Fejlesztő foglalkoztatás
 
@@ -36,4 +36,4 @@ h) a vitás kérdések rendezésének eljárási szabályait és
 
 i) a megállapodás felmondásának szabályait, a felmondás határidejét.
 
-[^325]: A 9. alcímet (110/J–110/M. §) az 1/2017. (II. 14.) EMMI rendelet 54. §-a iktatta be.
+[^323]: A 9. alcímet (110/J–110/M. §) az 1/2017. (II. 14.) EMMI rendelet 54. §-a iktatta be.

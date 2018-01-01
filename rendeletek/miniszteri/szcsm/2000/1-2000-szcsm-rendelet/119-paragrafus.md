@@ -1,4 +1,4 @@
-119. §[^341] (1) Az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 1/2017. (II. 14.) EMMI rendelet hatálybalépésekor már működő
+119. §[^339] (1) Az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 1/2017. (II. 14.) EMMI rendelet hatálybalépésekor már működő
 
 a) szolgáltatások szakmai programját a szolgáltatási elemek feltüntetése céljából 2017. december 31-éig kell módosítani,
 
@@ -28,4 +28,4 @@ g) asszisztens: szociális segítő,
 
 h) fejlesztő pedagógus: vezető pedagógus, pedagógus.
 
-[^341]: A 119. §-t az 1/2017. (II. 14.) EMMI rendelet 56. §-a iktatta be.
+[^339]: A 119. §-t az 1/2017. (II. 14.) EMMI rendelet 56. §-a iktatta be.

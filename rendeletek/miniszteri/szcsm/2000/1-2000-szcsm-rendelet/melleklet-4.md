@@ -1210,10 +1210,10 @@
 
 ## 5. Szociális szolgáltató vagy intézmény esetében a diakónus, az okleveles teológus, továbbá az okleveles pasztorális tanácsadó szakképzettségek elfogadhatók mentálhigiénés munkakörökben.
 
-4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^344]
+4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^342]
 
 Étkeztetésre vonatkozó igénybevételi napló
 
 Dátum: ...... év ...................... hónap
 
-[^344]: A 4. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^342]: A 4. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdésével megállapított szöveg.

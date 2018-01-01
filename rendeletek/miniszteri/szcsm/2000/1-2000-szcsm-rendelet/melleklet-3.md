@@ -1,513 +1,387 @@
 ## A személyes gondoskodás formáinak szakmai létszámnormái
 
-## I. Alapszolgáltatások
+| FOGYATÉKOS SZEMÉLYEK |
 
-## 1. Étkeztetés
+| MUNKAKÖRÖK | ALAPSZOLGÁLTATÁSOK |
 
-## – szociális segítő (100 fő felett) 1 fő
+| támogató szolgáltatás | nappali intézmény |
 
-## 2. Házi segítségnyújtás
+| intézményvezető | 1 fő | 1 fő |
 
-## a) házi segítségnyújtás 5. számú melléklet A) pontja szerinti tevékenységnaplóban összesített óraszám alapján
+|  | szolgálatonként | 50 főre vetítve |
 
-## – szociális gondozó 1 fő
+| gondozó | 3 fő | 3 fő súlyos, halmozottan sérült ellátottak esetében 8 fő |
 
-## b) 10 vagy több főállású szociális gondozó esetén
+| terápiás munkatárs |
 
-## – vezető gondozó 1 fő
+| FOGYATÉKOS SZEMÉLYEK |
 
-## 3.
+| MUNKAKÖRÖK | SZAKOSÍTOTT SZOLGÁLTATÁSOK |
 
-## 4. Falugondnoki és tanyagondnoki szolgálat
+| ápolást- gondozást nyújtó intézmény | átmeneti ellátást nyújtó intézmény | rehabilitációs intézmény* | ápoló gondozó célú lakóotthon | rehabilitációs célú lakóotthon | támogatott lakhatás |
 
-## – falugondnok 1 fő
+| intézményvezető | 1 fő | 1 fő | 1 fő | heti 20 óra | heti 20 óra | 1 fő |
 
-## – tanyagondnok 1 fő
+|  | 100 főre vetítve | lakóotthononként | intézményenként |
 
-## 5. Támogató szolgálat
+| vezető ápoló | 1 fő (>100 fő) |  | 1 fő (>100 fő) |  |  |  |
 
-## – vezető 1 fő
+| gondozó | 30 fő ebből min. 1 fő ápoló kiskorúak ellátása és súlyos, halmozottan sérült ellátottak esetén 40 fő | 16 fő | 10 fő | 2 fő | 1 fő |  |
 
-## – személyi segítő 2 fő
+| ápoló |  |  |
 
-## – gépkocsivezető 1 fő
+| terápiás munkatárs | 3 fő kiskorúak ellátása és súlyos, halmozottan sérült ellátottak esetén + 2 fő | 2 fő | 5 fő |  |  |  |
 
-## 6. Jelzőrendszeres házi segítségnyújtás
+| szociális munkatárs |  |  |  |
 
-## a szolgáltatás készenléti rendszerben történő folyamatos működtetéséhez 40 készülékenként legalább 2 fő szociális gondozó szükséges
+| fejlesztő pedagógus | 4 fő kiskorúak ellátása esetén + 2 fő pedagógus |  | 4 fő** | heti 20 óra |  |  |
 
-## 7. Közösségi ellátások
+| orvos | heti 4 óra (<100) heti 6 óra (100-200) 1 fő (>200) | heti 2 óra | heti 4 óra |  |  |  |
 
-## a) Önálló szolgáltatás esetén:
+| segítő |  |  |  | 2 fő |  |  |
 
-## Közösségi koordinátor 1 fő
+| esetfelelős |  |  |  |  |  | 1 fő |
 
-## Közösségi gondozó 2 fő
+## * külső férőhely esetén annak férőhelyszámára nem kell létszámot számítani
 
-## Orvos konzultáns havi 4 óra
+## ** 100 fő felett a fejlesztő pedagógusok közül vezető pedagógus kijelölése szükséges
 
-## b) Integrált ellátás keretein belül:
+## Ajánlott létszámok:
 
-## Közösségi koordinátor 1/2 fő, ill. 1 fő – 4 közösségi gondozó esetén
+## Fogyatékos személyek rehabilitációs intézménye:
 
-## Közösségi gondozó 2 fő
+## • szabadidő-szervező - 2 fő 100 főre vetítve
 
-## Orvos konzultáns havi 4 óra
+## • mozgásterapeuta - 2 fő 100 főre vetítve
 
-## ca) Önálló alacsonyküszöbű ellátás esetén:
+## Fogyatékos személyek ápolást-gondozást nyújtó intézménye:
 
-## Koordinátor 1 fő
+## • mozgásterapeuta - 2 fő 100 főre vetítve
 
-## Konzultáns napi 4 óra
+## • foglalkoztatás-szervező - 2 fő 100 főre vetítve
 
-## Segítő 2 fő
+| IDŐS SZEMÉLYEK |
 
-## cb) Integrált alacsonyküszöbű ellátás keretein belül:
+| MUNKAKÖRÖK | ALAPSZOLGÁLTATÁSOK |
 
-## Koordinátor napi 4 óra
+| étkeztetés | házi segítségnyújtás | jelzőrendszeres házi segítségnyújtás | nappali intézmény |
 
-## Konzultáns napi 4 óra
+| intézményvezető |  | 10 vagy több szociális gondozó/ápoló esetén 1 fő |  | 1 fő |
 
-## Segítő 2 fő
+|  | 100 fő felett |  |  | 50 főre vetítve |
 
-## 8. Utcai szociális munka
+| gondozó |  | az 5. számú melléklet A) pontja szerinti tevékenységnaplóban összesített óraszám alapján szociális gondozó, ápoló 1 fő | 2 fő/40 készülékenként készenléti szolgálatban | 2 fő 6 napos vagy folyamatos nyitva tartás esetén további 1 fő demens személyek ellátása esetén 8 fő |
 
-## – utcai szolgálat koordinátor (4 vagy annál kevesebb utcai szociális gondozót alkalmazó utcai szolgálat esetében a koordinátori feladat ellátásával megbízható az utcai szociális gondozók egyike) 1 fő
+| ápoló |  |  |
 
-## – utcai szociális munkás 2 fő
+| terápiás munkatárs |  |  |  |
 
-## 9.
+| szociális munkatárs |  |  |  |
 
-## II. Intézményi ellátások
+| asszisztens | 1 fő |  |  |  |
 
-## 1. Nappali ellátást nyújtó intézmények
+| IDŐS SZEMÉLYEK |
 
-## A) Idősek nappali ellátása
+| MUNKAKÖRÖK | SZAKOSÍTOTT SZOLGÁLTATÁSOK |
 
-## – nappali ellátást vezető 1 fő
+| átmeneti elhelyezést nyújtó intézmény | ápolást-gondozást nyújtó intézmény |
 
-## – szociális gondozó (30 férőhelyre vetítve) 1 fő
+| intézményvezető | 1 fő | 1 fő |
 
-## – 6 napos vagy folyamatos nyitva tartás esetén szociális gondozó (30 férőhelyre vetítve) 1 fő
+|  | 100 főre vetítve |
 
-## B)
+| vezető ápoló | 1 fő (>100) | 1 fő (>100) |
 
-## C) Fogyatékosok nappali intézménye
+| gondozó | 16 fő | 24 fő |
 
-## – intézményvezető 1 fő
+| ápoló |
 
-## – terápiás munkatárs (három gondozási csoportra) 1 fő
+| terápiás munkatárs | 2 fő | 2 fő |
 
-## = szociális gondozó 1 fő
+| szociális munkatárs |
 
-## = súlyos vagy halmozottan fogyatékos személy ellátása esetében szociális gondozó (gondozási csoportonként) 1 fő
+| orvos | heti 2 óra | heti 4 óra (<100) heti 6 óra (100-200) 1 fő (>200) |
 
-## D) Pszichiátriai és szenvedélybetegek nappali intézménye
+## Ajánlott létszámok:
 
-## – intézményvezető 1 fő
+## • mozgásterapeuta:
 
-## – terápiás segítő (50 főre vetítve) 2 fő
+## o 100 férőhelyig heti 4 óra
 
-## E) Nappali melegedő
+## o 100 férőhely felett 1 fő
 
-## – intézményvezető 1 fő
+## • foglalkoztatás-szervező - 1 fő 100 főre vetítve
 
-## – szociális segítő (tárgyévre tervezett napi átlagforgalom alapján 50 ellátottra vetítve) 1 fő
+| HAJLÉKTALAN SZEMÉLYEK |
 
-## szociális, mentálhigiénés munkatárs (tárgyévre tervezett napi átlagforgalom
+| MUNKAKÖRÖK | ALAPSZOLGÁLTATÁSOK |
 
-## alapján 50 ellátottra vetítve) napi 4 óra
+| utcai szociális munka | hajléktalan személyek nappali melegedője |
 
-## F) Demens személyek nappali intézménye ellátottak száma szerint (7 főre vetítve)
+| intézményvezető | - a szociális munkatársak közül 1 fő, - integrált intézmény esetében az integrált intézmény vezetője, vagy az általa kijelölt személy | 1 fő |
 
-## – szociális, mentálhigiénés munkatárs napi 4 óra
+|  | szolgálatonként | 50 főre vetítve |
 
-## – szociális gondozó 1 fő
+| szociális munkatárs | 2 fő | heti 20 óra |
 
-## 2. Bentlakást nyújtó intézmények
+| segítő |  | 1 fő |
 
-## A három műszakos folyamatos ellátást biztosító intézményben – kivéve a drogbetegeket ellátó intézményt, a hajléktalanok átmeneti szállását és a lakóotthont – az ápolói-gondozói feladatok ellátásához minimálisan 5 fő alkalmazása szükséges az intézményvezetőn és a kisegítő személyzeten kívül.
+| HAJLÉKTALAN SZEMÉLYEK |
 
-## A) Idősek otthona
+| MUNKAKÖRÖK | SZAKOSÍTOTT SZOLGÁLTATÁSOK |
 
-## – intézményvezető 1 fő
+| hajléktalan személyek átmeneti intézménye* | hajléktalan személyek rehabilitációs intézménye** | ápolást-gondozást nyújtó intézmény |
 
-## – orvos
+| intézményvezető | 1 fő | 1 fő | 1 fő |
 
-## = 100 férőhely alatt heti 4 óra
+|  | 100 főre vetítve |
 
-## = 100–200 férőhely között heti 6 óra
+| szociális munkatárs | éjjeli menedékhely 4 fő | átmeneti szállás 6 fő | 10 fő | 2 fő |
 
-## = 200 férőhely felett 1 fő
+| segítő | napi 14 órás nyitva tartáshoz igazítva | a 24 órás folyamatos nyitva tartáshoz igazítva | 14 fő |
 
-## – intézményvezető ápoló (100 férőhely felett) 1 fő
+| gondozó |
 
-## – ápoló, gondozó (100 férőhelyre vetítve) 24 fő
+| orvos | heti 2 óra | heti 2 óra | heti 6 óra |
 
-## – mozgásterapeuta (ajánlott létszám)
+## Időszakos férőhely (100 férőhelyre vetítve)
 
-## = 100 férőhelyig heti 4 óra
+|  | átmeneti szállás | éjjeli menedékhely |
 
-## = 100 férőhely felett 1 fő
+| Intézményen belül |
 
-## – szociális, mentálhigiénés munkatárs (50 férőhelyre vetítve) 1 fő
+| szociális munkatárs | 8 fő | 4 fő |
 
-## – foglalkoztatásszervező (100 férőhelyre vetítve, ajánlott létszám) 1 fő
+| segítő | 5 fő | 5 fő |
 
-## B) Pszichiátriai és szenvedélybetegek tartós bentlakást nyújtó intézménye (drogbetegeket ellátó intézmény kivételével)
+| gondozó |
 
-## – intézményvezető 1 fő
+| Intézményen kívül |
 
-## – orvos
+| intézményvezető (részlegvezető) | 1 fő | 1 fő |
 
-## = 100 férőhely alatt heti 8 óra
+| szociális munkatárs | 4 fő | 4 fő |
 
-## = 100–200 férőhely között heti 12 óra
+| segítő | 10 fő | 10 fő |
 
-## = 200 férőhely felett (ezen belül kell biztosítani a szükséges szakorvosi ellátást is) heti 4 óra és 1 fő
+| gondozó |
 
-## – intézményvezető ápoló (100 férőhely felett) 1 fő
+## * ha a férőhelyen csak lakhatási szolgáltatást biztosítanak, arra a férőhelyszámra nem kell létszámot számítani
 
-## – ápoló, gondozó (100 férőhelyre vetítve)
+## ** külső férőhely esetén annak férőhelyszámára nem kell létszámot számítani
 
-## = ápolást, gondozást nyújtó intézmény 24 fő
+## Ajánlott létszámok:
 
-## = rehabilitációs intézmény 12 fő
+## Hajléktalan személyek rehabilitációs intézménye, ápolást-gondozást nyújtó intézménye:
 
-## – szociális, mentálhigiénés munkatárs (200 férőhelyig 50 férőhelyre
+## • foglalkoztatás-szervező - 1 fő 100 főre vetítve
 
-## vetítve, 200 férőhely felett 100 férőhelyre vetítve)
+| PSZICHIÁTRIAI BETEGEK |
 
-## = ápolást, gondozást nyújtó intézmény 1 fő
+| MUNKAKÖRÖK | ALAPSZOLGÁLTATÁSOK |
 
-## = rehabilitációs intézmény 2 fő
+| közösségi ellátás | nappali intézmény |
 
-## – foglalkoztatásszervező (200 férőhelyig 50 férőhelyre
+| intézményvezető | 1 fő | 1 fő |
 
-## vetítve, 200 férőhely felett 100 férőhelyre vetítve, ajánlott létszám)
+|  | szolgálatonként | 50 főre vetítve |
 
-## = ápolást, gondozást nyújtó intézmény 1 fő
+| gondozó | 2 fő |  |
 
-## = rehabilitációs intézmény 2 fő
+| terápiás munkatárs | 2 fő |
 
-## C) Drogbetegeket ellátó intézmény
+| szociális munkatárs |
 
-## – intézményvezető 1 fő
+| orvos* | havi 4 óra |  |
 
-## – orvos
+## * konzultatív feladatokra
 
-## = 100 férőhely alatt heti 4 óra
+| PSZICHIÁTRIAI BETEGEK |
 
-## = 100 férőhely felett heti 6 óra
+| MUNKAKÖRÖK | SZAKOSÍTOTT SZOLGÁLTATÁSOK |
 
-## – szociális, mentálhigiénés munkatárs (50 férőhelyre vetítve) 3 fő
+| ápolást-gondozást nyújtó intézmény | átmeneti ellátást nyújtó intézmény | rehabilitációs intézmény* | rehabilitációs célú lakóotthon | támogatott lakhatás |
 
-## – foglalkoztatásszervező (ajánlott létszám, 50 férőhelyre vetítve) 2 fő
+| intézményvezető | 1 fő | 1 fő | 1 fő | heti 20 óra | 1 fő |
 
-## D) Fogyatékosok tartós bentlakást nyújtó intézménye
+|  | 100 főre vetítve | lakóotthononként | intézményenként |
 
-## – intézményvezető 1 fő
+| vezető ápoló | 1 fő (>100) |  |  |  |  |
 
-## – orvos
+| gondozó | 24 fő ebből min. 1 fő ápoló | 16 fő | 12 fő | 1 fő |  |
 
-## = 100 férőhely alatt heti 4 óra
+| ápoló |  |  |
 
-## = 100–200 férőhely között heti 6 óra
+| terápiás munkatárs | 2 fő | 2 fő | 4 fő |  |  |
 
-## = 200 férőhely felett 1 fő
+| szociális munkatárs |  |  |
 
-## – intézményvezető ápoló (100 férőhely felett) 1 fő
+| orvos | heti 8 óra (<100) heti 12 óra (100-200) heti 4 óra és 1 fő** (>200) | heti 2 óra | heti 8 óra (<100) heti 12 óra (100-200) heti 4 óra és 1 fő (>200)*** |  |  |
 
-## Rehabilitációs intézmény
+| esetfelelős |  |  |  |  | 1 fő |
 
-## – vezető pedagógus 1 fő
+## * külső férőhely esetén annak férőhelyszámára nem kell létszámot számítani
 
-## 50 férőhelyre vetítve:
+## ** ezen belül kell biztosítani a szakorvosi ellátást is
 
-## – ápoló, gondozó 5 fő
+## *** ezen belül kell biztosítani a szakorvosi ellátást is
 
-## – fejlesztő pedagógus 2 fő
+## Ajánlott létszámok:
 
-## – foglalkoztatás-szervező (ajánlott létszám) 1 fő
+## Pszichiátriai betegek ápolást-gondozást nyújtó intézménye:
 
-## – szabadidő szervező (ajánlott létszám) 1 fő
+## • foglalkoztatás-szervező
 
-## – mozgásterapeuta (ajánlott létszám) 1 fő
+## o 200 férőhelyig 50 férőhelyre vetítve 1 fő
 
-## – szociális és mentálhigiénés munkatárs 2 fő
+## o 200 férőhely felett 100 férőhelyre vetítve 1 fő
 
-## 100 férőhelyre vetítve:
+## Pszichiátriai betegek rehabilitációs intézménye:
 
-## – szociális ügyintéző 1 fő
+## • foglalkoztatás-szervező
 
-## Ápoló, gondozó otthon
+## o 200 férőhelyig 50 férőhelyre vetítve 2 fő
 
-## 50 férőhelyre vetítve:
+## o 200 férőhely felett 100 férőhelyre vetítve 2 fő
 
-## – ápoló-gondozó
+| SZENVEDÉLYBETEGEK |
 
-## = kiskorúak ellátása esetén 20 fő
+| MUNKAKÖRÖK | ALAPSZOLGÁLTATÁSOK |
 
-## = felnőttkorúak ellátása esetén 15 fő
+| közösségi ellátás | alacsonyküszöbű ellátás | nappali intézmény |
 
-## fejlesztő pedagógus 2 fő
+| intézményvezető | 1 fő | 1 fő | 1 fő |
 
-## szociális és mentálhigiénés munkatárs 1 fő
+|  | szolgálatonként | szolgálatonként | 50 főre vetítve |
 
-## mozgásterapeuta (ajánlott létszám) 1 fő
+| terápiás munkatárs |  |  | 2 fő |
 
-## foglalkoztatás szervező (ajánlott létszám) 1 fő
+| gondozó | 2 fő |  |  |
 
-## 100 férőhelyre vetítve:
+| szociális munkatárs | 2 fő |  |
 
-## szociális ügyintéző 1 fő
+| segítő |  |  |
 
-## Súlyos fogyatékos személyeket ellátó csoport
+| orvos* | havi 4 óra |  |  |
 
-## – osztályvezető (5 csoport irányítása) 1 fő
+## * konzultatív feladatokra
 
-## – gyermekgondozó-ápoló vagy ápoló-gondozó 4 fő
+| SZENVEDÉLYBETEGEK |
 
-## – mozgásterapeuta (ajánlott létszám) napi 4 óra
+| MUNKAKÖRÖK | SZAKOSÍTOTT SZOLGÁLTATÁSOK |
 
-## – pedagógus 1 fő
+| ápolást- gondozást nyújtó intézmény | rehabilitációs intézmény* | átmeneti ellátást nyújtó intézmény | rehabilitációs célú lakóotthon | támogatott lakhatás |
 
-## E) Hajléktalanok tartós bentlakást nyújtó intézménye
+| intézményvezető | 1 fő | 1 fő | 1 fő | heti 20 óra | 1 fő |
 
-## – intézményvezető 1 fő
+|  | 100 főre vetítve | lakóotthononként | intézményenként |
 
-## – orvos
+| vezető ápoló | 1 fő (>100 fő) |  |  |  |  |
 
-## = ápolást, gondozást nyújtó intézmény heti 6 óra
+| ápoló | 24 fő | 10 fő** | 16 fő |  |  |
 
-## = rehabilitációs intézmény heti 2 óra
+| gondozó | 1 fő |  |
 
-## – ápoló, gondozó (100 férőhelyre vetítve) 14 fő
+| szociális munkatárs | 2 fő | 6 fő | 2 fő |  |  |
 
-## = ápolást, gondozást nyújtó intézmény
+| terápiás munkatárs |  |  |
 
-## – szociális, mentálhigiénés munkatárs (50 férőhelyre vetítve)
+| orvos | heti 8 óra (<100) heti 12 óra (100-200) heti 4 óra és 1 fő (>200)*** | heti 8 óra (<100) heti 12 óra (100-200) heti 4 óra és 1 fő (>200)**** | heti 2 óra |  |  |
 
-## = ápolást, gondozást nyújtó intézmény 1 fő
+| esetfelelős |  |  |  |  | 1 fő |
 
-## = rehabilitációs intézmény 5 fő
+## * külső férőhely esetén annak férőhelyszámára nem kell létszámot számítani
 
-## – foglalkoztatásszervező (ajánlott létszám 50 férőhelyre vetítve, amennyiben van foglalkoztatás) napi 4 óra
+## ** az egészségbiztosítási finanszírozással rendelkező drog-rehabilitációs intézmény esetén az e rendelet szerinti ápolói létszámot nem kötelező alkalmazni
 
-## F) Átmeneti elhelyezést nyújtó intézmények
+## *** ezen belül kell biztosítani a szakorvosi ellátást
 
-## – intézményvezető 1 fő
+## **** ezen belül kell biztosítani a szakorvosi ellátást
 
-## – orvos heti 2 óra
+## Ajánlott létszámok:
 
-## – ápoló, gondozó (100 férőhelyre vetítve)
+## Szenvedélybetegek ápolást-gondozást nyújtó intézménye:
 
-## = időskorúak és fogyatékosok gondozóháza, pszichiátriai és szenvedélybetegek átmeneti otthona 16 fő
+## • foglalkoztatás-szervező - 2 fő 100 főre vetítve
 
-## – szociális, mentálhigiénés munkatárs (50 férőhelyre vetítve)
+## Szenvedélybetegek rehabilitációs intézménye:
 
-## = időskorúak és fogyatékosok gondozó háza, pszichiátriai és szenvedélybetegek átmeneti otthona 1 fő
+## • foglalkoztatás-szervező - 4 fő 100 főre vetítve
 
-## = hajléktalanok éjjeli menedékhelye és átmeneti szállása 4 fő
+| FEJLESZTŐ FOGLALKOZTATÁS |  |
 
-## – szociális segítő (100 férőhelyre vetítve)
+| MUNKAKÖRÖK |  |  |
 
-## = hajléktalanok éjjeli menedékhelye és átmeneti szállása 3 fő
+| intézményvezető | 1 fő |  |
 
-## F/1. Időszakos férőhely működtetése átmeneti szállón, éjjeli menedékhelyen
+|  | 50 foglalkoztatottra vetítve |  |
 
-## a) Intézményen belül működtetett időszakos férőhelyek:
-
-## – szociális segítő (20 időszakos férőhelyre) 1 fő
-
-## – szociális mentálhigiénés munkatárs
-
-## = éjjeli menedékhely (25 időszakos férőhelyre) 1 fő
-
-## = átmeneti szállás (12 időszakos férőhelyre) 1 fő
-
-## b) Intézményen kívül működtetett időszakos férőhelyek:
-
-## – részlegvezető 1 fő
-
-## – szociális segítő (20 időszakos férőhelyre vetítve) 2 fő
-
-## – szociális mentálhigiénés munkatárs (25 időszakos férőhelyre) 1 fő.
-
-## G) Támogatott lakhatás
-
-## – intézményvezető 1 fő
-
-## – esetfelelős (amennyiben nem az intézményvezető látja el) 1 fő
-
-## – kísérő támogatást biztosító munkatárs 1 fő
-
-## (amennyiben nem az intézményvezető/esetfelelős látja el)
-
-| H) Lakóotthon |  |
-
-| a) Bentlakásos intézményi szervezetben működő lakóotthon |  |
-
-| – Rehabilitációs célú lakóotthon |  |
-
-| szociális segítő | 1 fő |
-
-| – Ápoló, gondozó célú lakóotthon |  |
-
-| szociális segítő | 3 fő |
-
-| ápoló, gondozó | 1 fő |
-
-| b) Önálló intézményként működő |  |
-
-| – Fogyatékos személyek |  |
-
-|  | = rehabilitációs célú lakóotthona |  |
-
-| intézményvezető (heti 20 óra) | 1 fő |
-
-| szociális segítő | 1 fő |
-
-|  | = ápoló gondozó célú lakóotthona |  |
-
-| intézményvezető (heti 20 óra) | 1 fő |
-
-| szociális segítő | 2 fő |
-
-| ápoló, gondozó | 2 fő |
-
-| fejlesztő pedagógus (heti 20 óra) | 1 fő |
-
-| – Pszichiátriai betegek lakóotthona |  |
-
-| intézményvezető (heti 20 óra) | 1 fő |
-
-| szociális segítő | 1 fő rész- munkaidőben foglalkoztatott |
-
-| – Szenvedélybetegek lakóotthona |  |
-
-| intézményvezető (heti 20 óra) | 1 fő |
-
-| szociális segítő | 1 fő rész- munkaidőben foglalkoztatott” |
-
-| I) Részleg |  |
-
-| 50 férőhelyre vetítve | Ápoló-gondozó részleg | Rehabilitációs részleg |
-
-| Orvos | heti 6 óra | heti 4 óra |
-
-| Részlegvezető | 1 fő | 1 fő |
-
-| Ápoló, gondozó |  |  |
-
-| – fogyatékos személyek | 18 fő | 8 fő |
-
-| – idősek | 10 fő |  |
-
-| – pszichiátriai és szenvedélybetegek |  | 6 fő |
-
-| – hajléktalan személyek | 7 fő |  |
-
-| Szociális és mentálhigiénés munkatárs | 1 fő | 3 fő |
-
-| Hajléktalan ellátás esetén |  |  |
-
-| szociális segítő |  | 2 fő |
-
-| Fogyatékos ellátása esetén |  |  |
-
-| pedagógus | 1 fő | 1 fő |
-
-| foglalkoztatás szervező (ajánlott létszám) | 1 fő | 2 fő |
-
-## III. Fejlesztő foglalkoztatás
-
-| FEJLESZTŐ FOGLALKOZTATÁS |
-
-| MUNKAKÖRÖK |  |
-
-| intézményvezető | 1 fő |
-
-|  | 50 foglalkoztatottra vetítve |
-
-| segítő | 2 fő |
+| segítő | 2 fő |  |
 
 ## Kiegészítő szabályok
 
 ## 1. A szakmai létszámnormára vonatkozó előírások betartásával a személyes gondoskodást nyújtó intézmények, szolgálatok a saját szervezeti felépítésük és működési rendjük szerint gazdálkodnak a humán erőforrásokkal.
 
-## 2. Azon munkaköröknél, ahol alternatíva szerepel – pl. ápoló és szociális gondozó –, az intézmény-, szolgáltatásvezető hatásköre a konkrét munkakör meghatározása. Az ápoló, gondozó és a szociális, mentálhigiénés munkakörök átcsoportosíthatók a rájuk meghatározott és együttesen számított létszámminimumon belül azzal, hogy az így meghatározott ápoló, gondozó létszám nem csökkenhet az intézmény számára előírt ápoló, gondozó létszám 50%-a alá.
+## 2. A létszámigényt – ha a létszámnorma ellátotti számra vagy férőhelyekre vetítve van meghatározva – főben kell meghatározni, a kerekítés általános szabályának figyelembevételével.
 
 ## 3. Házi segítségnyújtás keretében nyújtott személyi gondozás esetén a szociális gondozók havi számát az 5. számú melléklet A) pontja szerinti tevékenységnaplókban ellátottanként, havonta rögzített időtartamok összesítése alapján kell meghatározni. A tevékenység megkezdésének első hónapjában a megállapodásokban rögzített időtartamok összesítése az irányadó. Egy gondozó közvetlen gondozásra fordított havi órakerete 147 óra. Ellátotti szám számítása: 21 óra = 1 fő ellátott.
 
-## 4. A létszámigényt – ha a létszámnorma ellátotti számra vagy férőhelyekre vetítve van meghatározva – főben kell meghatározni, a kerekítés általános szabályának figyelembevételével.
+## 4. Ha a bentlakásos intézmények férőhelyszáma nem haladja meg az 50 férőhelyet, az intézményvezetői munkakör osztott munkakörben vagy részmunkaidőben is ellátható.
 
-## 5. Ha a bentlakásos intézmények férőhelyszáma nem haladja meg az 50 férőhelyet, az intézményvezetői munkakör osztott munkakörben vagy részmunkaidőben is ellátható. Azon bentlakásos intézményeknél, ahol az anyaintézményen kívüli önálló telephelyen működő részleg férőhelyszáma meghaladja az 50 férőhelyet, részlegvezető alkalmazásáról is gondoskodni kell.
+## 5. A gazdasági, pénzügyi feladatok ellátásának létszám irányszámai a bentlakásos intézmények esetén a következő:
 
-## 6. A gazdasági, pénzügyi feladatok ellátásának létszám irányszámai a bentlakásos intézmények esetén a következő:
+## 5.1. gazdasági vezető 1 fő
 
-## – gazdasági vezető 1 fő
+## 5.2. gazdasági ügyintéző (100 férőhelyenként) 2 fő
 
-## – gazdasági ügyintéző (100 férőhelyenként) 2 fő
+## 5.3. ügyviteli létszám (pénztáros, könyvelő, raktáros, stb., 50 férőhelyenként) 1 fő
 
-## – ügyviteli létszám (pénztáros, könyvelő, raktáros stb., 50 férőhelyenként) 1 fő
+## 5.4. takarítónő (1000 m2-es takarítandó felületként) 1 fő
 
-## – takarítónő (1000 m2-es takarítandó felületként) 1 fő
+## 5.5. műszaki létszám (beépített 4000 légköbméterenként) 1 fő
 
-## – műszaki létszám (beépített 4000 légköbméterenként) 1 fő
+## 5.6. mosónő, vasalónő (50 férőhelyenként) 1 fő
 
-## – mosónő, vasalónő (50 férőhelyenként) 1 fő
+## 5.7. varrónő (100 férőhelyenként) 1 fő
 
-## – varrónő (100 férőhelyenként) 1 fő
+## 5.8. élelmezésvezető (100 férőhely felett) 1 fő
 
-## – élelmezésvezető (100 férőhely felett) 1 fő
+## 5.9. szakács, konyhalány (100 adagonként és további 30 adagonként) 5 fő + 1 fő
 
-## – szakács, konyhalány (100 adagonként 5 fő
+## 6. A gazdasági, pénzügyi feladatok ellátásának létszám irányszámai az alapszolgáltatásokat nyújtó szociális intézmények esetén a következő:
 
-## és további 30 adagonként) + 1 fő
+## 6.1. gazdasági ügyintéző 1 fő
 
-## 7. A gazdasági, pénzügyi feladatok ellátásának létszám irányszámai az alapszolgáltatásokat nyújtó szociális intézmények esetén a következő:
+## 6.2. takarító 1 fő
 
-## – gazdasági ügyintéző 1 fő
+## 6.3. konyhai kisegítő (100 adagonként) 1 fő
 
-## – takarító 1 fő
+## 7. Tartós bentlakásos intézményekben az intézményvezető kijelöli műszakonként a krízishelyzetre, korlátozó intézkedések eldöntésére jogosult személyt.
 
-## – konyhai kisegítő (100 adagonként) 1 fő
+## 8. Működés megkezdésekor szakosított ellátások esetében – a drogbetegeket ellátó intézmény, a hajléktalanok átmeneti intézményei és a lakóotthon kivételével – három hónapig legalább az alábbi személyi feltételekkel kell rendelkezni:
 
-## 8. A nappali intézmény, idősek nappali ellátása esetében a szociális, mentálhigiénés létszám irányszámok kialakítása során a következő munkakörök javasoltak:
+## 8.1. intézményvezető 1 fő
 
-## Nappali ellátást nyújtó intézmények, Idősek nappali ellátása:
+## 8.2. ápoló, gondozó munkakör 5 fő
 
-## – szociális, mentálhigiénés munkatárs heti 4 óra
+## 8.3. orvos bejegyzés szerinti férőhelyre vetített létszám
 
-## 9. A tartós bentlakásos, illetve átmeneti intézmények esetében a vezetői létszám irányszámok kialakítása során a következő munkakörök javasoltak:
+## 8.4. a melléklet többi munkakörére megállapított létszám a férőhelyek betöltöttségének arányában.
 
-## Tartós bentlakásos intézmények:
+## A működés megkezdésének időpontját követő harmadik hónap végétől – valamennyi szakosított ellátás esetében, valamennyi munkakörre vonatkozóan – a létszámot a betöltött férőhelyekkel arányosan kell biztosítani. A létszám teljesítését a működést engedélyező szervnek be kell jelenteni. A bejelentéshez csatolni kell a fenntartónak vagy – ha az alkalmazottakat a bentlakásos intézmény foglalkoztatja – a bentlakásos intézménynek és azon személyeknek, akikkel a jogszabályban előírt kötelező létszámfeltételeket teljesítik, az egybehangzó nyilatkozatát, amelyben kijelentik, hogy az adott munkakörre előírt kötelező létszámfeltételek teljesítése érdekében közalkalmazotti jogviszonyt, munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt létesítettek, valamint a szakképesítést bizonyító okirat másolatát.
 
-## Szociális és mentálhigiénés csoportvezető (legalább 4 fő szociális és mentálhigiénés munkatárs alkalmazása esetén) 1 fő
+## 9. Súlyos vagy halmozottan fogyatékos személynek minősül a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvényben ekként meghatározott személy.
 
-## Tartós bentlakásos intézmények esetében az osztályvezető ápoló (50 férőhelyenként) helyett, az intézményvezető kijelöli műszakonként a krízishelyzetre, korlátozó intézkedések eldöntésére jogosult személyt 1 fő
+## 10. A támogatott lakhatás tekintetében a fenntartónak a működés megkezdésének időpontjában, illetve az azt követő három hónapban az előírt személyi feltételekkel kell rendelkeznie. Ezt követően a létszámfeltételeket a komplex szükségletfelmérés összegző adatlapja szerint a szolgáltatás biztosításához szükséges óraszámnak az összes ellátottra számított összege határozza meg.
 
-## 10. Működés megkezdésekor szakosított ellátások esetében – a drogbetegeket ellátó intézmény, a hajléktalanok átmeneti intézményei és a lakóotthon kivételével – három hónapig legalább az alábbi személyi feltételekkel kell rendelkezni:
+## 11. Támogatott lakhatás esetén, ha a fenntartó az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatási elemeket az Szt. 75. § (2) bekezdés b) pontja szerint biztosítja, a szolgáltatási elemet nyújtó munkatársakat az adott alapszolgáltatásra meghatározott munkakörökben foglalkoztathatja.
 
-## – intézményvezető 1 fő
+## 12. A közösségi ellátások esetén, valamint a pszichiátriai és szenvedélybetegek nappali ellátásában, rehabilitációs intézményében és rehabilitációs lakóotthonában a tapasztalati szakértő ajánlott létszámban foglalkoztatható.
 
-## – ápoló, gondozó munkakör 5 fő
+## 13. Az orvos munkakör megbízási vagy vállalkozási jogviszonyban is betölthető.
 
-## – szociális, mentálhigiénés munkatárs napi 2 óra
+## 14. A három műszakos folyamatos ellátást biztosító intézményben – a drogbetegeket ellátó intézményt, a hajléktalanok átmeneti szállását és a lakóotthont kivéve – az ápolói, gondozói feladatok ellátásához minimálisan 5 fő alkalmazása szükséges az intézményvezetőn és a kisegítő személyzeten kívül.
 
-## – orvos bejegyzés szerinti férőhelyre vetített létszám
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^341]
 
-## – a melléklet többi munkakörére megállapított létszám a férőhelyek betöltöttségének arányában.
-
-## A működés megkezdésének időpontját követő harmadik hónap végétől – valamennyi szakosított ellátás esetében valamennyi munkakörre vonatkozóan – a létszámot a betöltött férőhelyekkel arányosan kell biztosítani. A létszám teljesítését a működést engedélyező szervnek be kell jelenteni. A bejelentéshez csatolni kell a fenntartónak vagy – ha az alkalmazottakat a bentlakásos intézmény foglalkoztatja – a bentlakásos intézménynek és azon személyeknek, akikkel a jogszabályban előírt kötelező létszámfeltételeket teljesítik, az egybehangzó nyilatkozatát, amelyben kijelentik, hogy az adott munkakörre előírt kötelező létszámfeltételek teljesítése érdekében közalkalmazotti jogviszonyt, munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt létesítettek, valamint a szakképesítést bizonyító okirat másolatát.
-
-## 11. Súlyos vagy halmozottan fogyatékos személynek minősül a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvényben ekként meghatározott személy.
-
-## 12. A támogatott lakhatás tekintetében a fenntartónak a működés megkezdésének időpontjában, illetve az azt követő három hónapban a II. 2. G) pont szerinti személyi feltételekkel kell rendelkeznie. Ezt követően a létszámfeltételeket a 14. számú melléklet szerint a szolgáltatás biztosításához szükséges óraszám/létszámnak az összes ellátottra számított összege határozza meg. A személyi feltételekben történő változást – a bentlakásos intézményekre a 10. pontban meghatározottak szerint – a működést engedélyező szervnek be kell jelenteni.
-
-## 13.
-
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^343]
-
-[^343]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a, a 2/2015. (I. 14.) EMMI rendelet 12. § (2) bekezdése, a 24/2015. (IV. 30.) EMMI rendelet 9. § b) pontja, az 55/2015. (XI. 30.) EMMI rendelet 30. § g) pontja, az 1/2017. (II. 14.) EMMI rendelet 57. § (3) bekezdése, a 26/2017. (X. 18.) EMMI rendelet 8. §-a szerint módosított szöveg.
+[^341]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a, a 2/2015. (I. 14.) EMMI rendelet 12. § (2) bekezdése, a 24/2015. (IV. 30.) EMMI rendelet 9. § b) pontja, az 55/2015. (XI. 30.) EMMI rendelet 30. § g) pontja, az 1/2017. (II. 14.) EMMI rendelet 57. § (3) bekezdése, a 26/2017. (X. 18.) EMMI rendelet 8. §-a szerint módosított szöveg.

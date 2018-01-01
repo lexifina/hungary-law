@@ -6,13 +6,13 @@
 
 a) veszélyeztető magatartást tanúsít,
 
-b)–c)[^236]
+b)–c)[^234]
 
 d) orvosi ellátást és állandó ápolást igényel.
 
-(3)[^237] Az (1) és (2) bekezdésben foglaltakon túl az a gyermek sem gondozható fogyatékosok nappali intézményében, aki köznevelési intézményben történő nevelésre, oktatásra alkalmas, és felvétele, elhelyezése a korának, állapotának megfelelő köznevelési intézményben biztosítható.
+(3)[^235] Az (1) és (2) bekezdésben foglaltakon túl az a gyermek sem gondozható fogyatékosok nappali intézményében, aki köznevelési intézményben történő nevelésre, oktatásra alkalmas, és felvétele, elhelyezése a korának, állapotának megfelelő köznevelési intézményben biztosítható.
 
-(3a)[^238] A (3) bekezdésben foglalt tilalom nem vonatkozik
+(3a)[^236] A (3) bekezdésben foglalt tilalom nem vonatkozik
 
 a) a tanköteles és a tanítási év során köznevelési intézményi ellátásban részesülő fogyatékos gyermek tanítási szünet idején történő ellátására,
 
@@ -22,13 +22,13 @@ c) a nemzeti köznevelésről szóló 2011. évi CXC. törvény 15. § (5) bekez
 
 (4) Fogyatékos személyek intézményébe az ellátottakat csak próbaidővel lehet felvenni. A próbaidő tartama három hónapnál hosszabb nem lehet.
 
-(5)[^239] A fogyatékos személyek nappali intézménye a 77. § (1) bekezdésében foglaltak mellett
+(5)[^237] A fogyatékos személyek nappali intézménye a 77. § (1) bekezdésében foglaltak mellett
 
 a) gyógypedagógiai segítségnyújtás és
 
 b) pedagógiai segítségnyújtás
 
-[^236]: A 81. § (2) bekezdésének b)–c) pontját a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének q) pontja hatályon kívül helyezte.
-[^237]: A 81. § (3) bekezdése az 55/2013. (VII. 29.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^238]: A 81. § (3a) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 9. § (2) bekezdése iktatta be.
-[^239]: A 81. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 43. §-a iktatta be.
+[^234]: A 81. § (2) bekezdésének b)–c) pontját a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének q) pontja hatályon kívül helyezte.
+[^235]: A 81. § (3) bekezdése az 55/2013. (VII. 29.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^236]: A 81. § (3a) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 9. § (2) bekezdése iktatta be.
+[^237]: A 81. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 43. §-a iktatta be.
