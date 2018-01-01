@@ -1,4 +1,4 @@
-## 11. §[^33] A Kormány a hitelesítő szervezetek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként az akkreditáló szervet jelöli ki.
+## 11. §[^34] A Kormány a hitelesítő szervezetek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként az akkreditáló szervet jelöli ki.
 
 ## 9. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 15. § (2) bekezdése 2013. január 31-én lép hatályba.
 
-[^33]: A 11. § a 425/2015. (XII. 23.) Korm. rendelet 8. § j) pontja szerint módosított szöveg.
+[^34]: A 11. § a 425/2015. (XII. 23.) Korm. rendelet 8. § j) pontja szerint módosított szöveg.

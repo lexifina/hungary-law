@@ -34,7 +34,7 @@
 
 | 16 | 99 | Egyéb | A 2003/87/EK európai parlamenti és tanácsi irányelv 24. cikkének megfelelően az irányelv I. mellékletében meghatározottakon túlmenően a tagállam által az EU ETS hatálya alá vont egyéb tevékenységek, amelyeket az akkreditálási okiratban kell részletesen meghatározni |
 
-2. melléklet a 295/2012. (X. 16.) Korm. rendelethez[^38]
+2. melléklet a 295/2012. (X. 16.) Korm. rendelethez[^39]
 
 Az EU ETS hitelesítő szakértőre vonatkozó szakmai követelmények
 
@@ -150,4 +150,4 @@ III.1 A 6. § (1) bekezdés szerinti megfelelő szakmai gyakorlatnak minősül a
 
 III.2 Az EU ETS vezető hitelesítő igazolhatja az I.2 pont szerinti szaktudását minőségbiztosítási, kockázatkezelési vagy audit szakterületen eltöltött, legalább ötéves szakmai gyakorlattal is.
 
-[^38]: A 2. melléklet a 394/2016. (XII. 5.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^39]: A 2. melléklet a 394/2016. (XII. 5.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
