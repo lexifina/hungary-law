@@ -24,4 +24,4 @@ a) a biztosítás megszűnését követő baleseti táppénz idejét,
 
 b) a közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideig folytatott tanulmány idejéből 180 napot,
 
-c) a rehabilitációs járadék, rehabilitációs ellátás folyósításának idejét.
+c) a rehabilitációs ellátás folyósításának idejét.

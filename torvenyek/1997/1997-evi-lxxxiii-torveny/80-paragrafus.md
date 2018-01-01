@@ -4,7 +4,7 @@
 
 (3) Az ellátásban részesülő – ha a jogszabály kivételt nem tesz – köteles 15 napon belül az egészségbiztosítónak bejelenteni minden olyan tényt, illetőleg adatot, amely az ellátásra jogosultságát vagy ellátása folyósítását érinti.
 
-(4) A társadalombiztosítási kifizetőhellyel rendelkező munkáltató a biztosítás megszűnését követően folyósított csecsemőgondozási díjról és a 42/A. §, illetve a 42/E. § alapján megállapított gyermekgondozási díjról, valamint a baleseti táppénzről az Art. 16. § (4) bekezdésében meghatározott adatok feltüntetésével a folyósított ellátás kezdő és befejező időpontját követő 8 napon belül elektronikus úton köteles bejelentést tenni az egészségbiztosítónak.
+(4) A társadalombiztosítási kifizetőhellyel rendelkező munkáltató a biztosítás megszűnését követően folyósított csecsemőgondozási díjról és a 42/A. §, illetve a 42/E. § alapján megállapított gyermekgondozási díjról, valamint a baleseti táppénzről az Art. 1. melléklet 3. pontjában meghatározott adatok feltüntetésével a folyósított ellátás kezdő és befejező időpontját követő 8 napon belül elektronikus úton köteles bejelentést tenni az egészségbiztosítónak.
 
 (5) Az a TAJ számmal rendelkező személy, aki
 

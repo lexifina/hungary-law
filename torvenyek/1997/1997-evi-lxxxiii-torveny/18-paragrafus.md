@@ -62,7 +62,7 @@ q) hatósági eljárásban alkohol, illetve kábítószer szintjének kimutatás
 
 r) látlelet kiadása,
 
-s) a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 307. §-ának (2) bekezdése szerinti, az alperes elmeállapotára vonatkozó szakorvosi véleményezés,
+s) a polgári perrendtartásról szóló 2016. évi CXXX. törvény 439. § (2) bekezdése szerinti, az alperes elmeállapotára vonatkozó szakorvosi véleményezés,
 
 t) a biztosított nem kötelező védőoltással történő immunizálása, kivéve, ha a külön jogszabály szerinti védőoltás térítésmentes,
 

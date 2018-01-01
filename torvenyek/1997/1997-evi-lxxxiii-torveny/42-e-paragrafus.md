@@ -12,7 +12,7 @@ e) magyar állampolgár vagy másik EGT tagállam állampolgára, és
 
 f) a gyermek születésének napján rendelkezik magyarországi bejelentett lakóhellyel.
 
-(2) Az (1) bekezdés alapján megállapított gyermekgondozási díj a gyermek születésének napjától a gyermek 1 éves koráig jár.
+(2) Az (1) bekezdés alapján megállapított gyermekgondozási díj a gyermek születésének napjától a gyermek 2 éves koráig jár.
 
 (3) Az (1) bekezdés szerinti gyermekgondozási díjra az (1) bekezdés szerinti jogosultsági feltételeknek megfelelő vér szerinti apa akkor jogosult, ha a szülő nő
 
@@ -20,7 +20,7 @@ a) meghal, vagy
 
 b) az (1) bekezdés b)–f) pontjában foglalt feltételek valamelyikének nem felel meg és a 42/A. § alapján gyermekgondozási díjra nem jogosult.
 
-(4) A vér szerinti apa részére a gyermekgondozási díj a (2) bekezdésben meghatározott jogosultsági időből igénybe nem vett időszakra jár, de legfeljebb a gyermek 1 éves koráig.
+(4) A vér szerinti apa részére a gyermekgondozási díj a (2) bekezdésben meghatározott jogosultsági időből igénybe nem vett időszakra jár, de legfeljebb a gyermek 2 éves koráig.
 
 (4a) A gyermek születését követő 169. napot megelőzően nem jár gyermekgondozási díj az (1) és (3) bekezdés alapján jogosult részére arra az időszakra, amikor bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat.
 

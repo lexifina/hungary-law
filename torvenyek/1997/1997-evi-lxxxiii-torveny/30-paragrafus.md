@@ -4,7 +4,7 @@
 
 ## Szerződéses kapcsolatok
 
-30. § (1) Az egészségbiztosító az egészségügyi szolgáltatások nyújtására – a külön jogszabályban foglaltak figyelembevételével – finanszírozási szerződést köt az adott szolgáltatás nyújtására jogosító működési engedéllyel rendelkező egészségügyi szolgáltatóval, amennyiben az nem rendelkezik olyan, az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. §-ának 20. pontjában meghatározott köztartozással (a továbbiakban: köztartozás), amely esedékességének időpontja 60 napnál régebben lejárt.
+30. § (1) Az egészségbiztosító az egészségügyi szolgáltatások nyújtására – a külön jogszabályban foglaltak figyelembevételével – finanszírozási szerződést köt az adott szolgáltatás nyújtására jogosító működési engedéllyel rendelkező egészségügyi szolgáltatóval, amennyiben az nem rendelkezik olyan, az adózás rendjéről szóló törvény (a továbbiakban: Art.) szerinti köztartozással (a továbbiakban: köztartozás), amely esedékességének időpontja 60 napnál régebben lejárt.
 
 (2) Az (1) bekezdésben foglaltakon túl gyógyszer árhoz nyújtott támogatással történő kiszolgáltatására, gyógyászati segédeszköz árhoz nyújtott támogatással történő forgalmazására, kölcsönzésére, javítására és amennyiben a gyártó az eszköz kiszolgáltatását is végzi, egyedi méretvétel alapján történő gyártására (a továbbiakban együtt: forgalmazás), valamint gyógyászati ellátás támogatással történő nyújtására az egészségbiztosító szerződést köt a szolgáltatóval, amennyiben az
 

@@ -12,11 +12,23 @@ b)
 
 c) egyéb esetben a munkáltató székhelye szerint illetékes egészségbiztosító
 
-bírálja el és utólag folyósítja.
+bírálja el.
 
-(3) Ha csecsemőgondozási díj, gyermekgondozási díj, baleseti táppénz folyósítása alatt a biztosított biztosítási jogviszonya megszűnik, az ellátást az a szerv folyósítja tovább, amely az ellátást megállapította. Ha a biztosított az ellátás folyósításának az ideje alatt foglalkoztatót vált, a (2) bekezdésben meghatározott szerv folyósítja a már megállapított ellátást.
+(2a) Az utazási költségtérítés iránti kérelmet a biztosított lakóhelye vagy tartózkodási helye szerint illetékes egészségbiztosító bírálja el.
 
-(4) A táppénz, baleseti táppénz és utazási költségtérítés iránti kérelemben foglaltak teljesítése esetén, továbbá a csecsemőgondozási díj és gyermekgondozási díj folyósításának szüneteltetéséről, valamint a szünetelés megszüntetéséről nem kell határozatot hozni.
+(2b) A (2a) bekezdés szerinti esetben az utazási költségtérítést az egészségbiztosító folyósítja.
+
+(2c) A csecsemőgondozási díjat, a gyermekgondozási díjat és a táppénzt
+
+a) a (2) bekezdés a) pontja szerinti esetben a kifizetőhely,
+
+b) a (2) bekezdés c) pontja szerinti esetben az egészségbiztosító
+
+folyósítja.
+
+(3) Ha a csecsemőgondozási díj, a gyermekgondozási díj, illetve a baleseti táppénz folyósítása alatt a biztosított biztosítási jogviszonya megszűnik, az ellátás továbbfolyósításáról a (2c) bekezdés a) vagy b) pontja szerinti szerv gondoskodik. Ha az ellátás folyósításának ideje alatt a biztosított foglalkoztatót vált, a (2c) bekezdés a) vagy b) pontja szerinti szerv folyósítja a már megállapított ellátást.
+
+(4)
 
 (5)
 

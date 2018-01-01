@@ -14,7 +14,7 @@ a) a biztosítás megszűnését követő baleseti táppénz, csecsemőgondozás
 
 b) közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideje folytatott tanulmányok idejéből 180 napot,
 
-c) a rehabilitációs járadék, rehabilitációs ellátás folyósításának idejét.
+c) a rehabilitációs ellátás folyósításának idejét.
 
 (3) A csecsemőgondozási díj a szülési szabadságnak megfelelő időtartamra jár. A csecsemőgondozási díj legfeljebb a gyermek születését követő 168. napig jár, kivéve a jogszabály szerint a koraszülött gyermekek esetében a szülési szabadságra vonatkozó rendelkezés alkalmazásakor. Ha a csecsemőgondozási díj iránti kérelem a szülés várható időpontját megelőző 28 napnál korábban kerül benyújtásra, akkor a kérelem elbírálására vonatkozó határidő a szülés várható időpontját megelőző 28. napon kezdődik.
 
@@ -22,7 +22,7 @@ c) a rehabilitációs járadék, rehabilitációs ellátás folyósításának i
 
 a) az a nő, aki a csecsemőt örökbefogadási szándékkal nevelésbe vette,
 
-b) az – a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvtv.) 5. § sz) pontja szerinti – családbafogadó gyám, aki a csecsemőt jogerős döntés alapján gondozza,
+b) az – a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvtv.) 5. § sz) pontja szerinti – családbafogadó gyám, aki a csecsemőt végleges döntés alapján gondozza,
 
 c) a csecsemőt gondozó vér szerinti apa, ha a gyermeket szülő nő az egészségügyi szolgáltató által – az e törvény végrehajtására kiadott kormányrendeletben meghatározott adattartalmú nyomtatvány szerint – igazoltan, az egészségi állapota miatt kikerül abból a háztartásból, ahol a gyermeket gondozzák,
 
@@ -32,7 +32,9 @@ e) az a férfi, aki a csecsemőt örökbefogadási szándékkal nevelésbe vette
 
 f) az a férfi, aki a csecsemőt örökbefogadási szándékkal nevelésbe vette, ha a gyermeket örökbe fogadni szándékozó nő meghal,
 
-g) az a férfi, aki a csecsemőt egyedül vette örökbefogadási szándékkal nevelésbe.
+g) az a férfi, aki a csecsemőt egyedül vette örökbefogadási szándékkal nevelésbe,
+
+h) a csecsemőt gondozó vér szerinti apa, ha a gyermeket szülő nő szülői felügyeleti joga megszűnt.
 
 (5) A csecsemőgondozási díj
 
@@ -42,6 +44,8 @@ b) a (4) bekezdés b) pontja szerinti esetben a gyám kirendelésének napjátó
 
 c) a (4) bekezdés c) és e) pontja szerinti esetben az igazoláson feltüntetett naptól a gyermeket szülő nő – igazolás szerinti – egészségi állapotának fennállásáig,
 
-d) a (4) bekezdés d) és f) pontja szerinti esetben az elhalálozás napjától
+d) a (4) bekezdés d) és f) pontja szerinti esetben az elhalálozás napjától,
 
-a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–g) pontja szerinti feltételek bármelyikének bekövetkezése napján az (1) bekezdésben meghatározottak a (4) bekezdés alapján jogosult személy tekintetében fennállnak.
+e) a (4) bekezdés h) pontja szerinti esetben attól a naptól, amikortól a szülő nő felügyeleti joga megszűnt.
+
+a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–h) pontja szerinti feltételek bármelyikének bekövetkezése napján az (1) bekezdésben meghatározottak a (4) bekezdés alapján jogosult személy tekintetében fennállnak.

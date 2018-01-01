@@ -4,4 +4,4 @@
 
 (2) Az egészségbiztosítási ellátások – az e törvényben, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvényben foglalt kivételekkel – a pénzbeli egészségbiztosítási járulékfizetési kötelezettséggel arányosan vehetők igénybe.
 
-(3) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott engedélyezési eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(3) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott engedélyezési eljárásokban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.

@@ -1,10 +1,10 @@
-71. § (1) Amennyiben a fizetésre kötelezett a fizetésre kötelező döntés jogerőre emelkedésétől számított tizenöt napon belül fizetési kötelezettségét nem teljesíti, az egészségbiztosítási szerv a követelését
+71. § (1) Amennyiben a fizetésre kötelezett a fizetésre kötelező döntés véglegessé válásától számított tizenöt napon belül fizetési kötelezettségét nem teljesíti, az egészségbiztosítási szerv a követelését
 
 a) a bankszámlával rendelkező kötelezett esetében azonnali beszedési megbízással,
 
 b) bankszámlával nem rendelkező kötelezett személy esetében munkabérből vagy egyéb rendszeres járandóságból történő letiltással érvényesíti.
 
-(2) Ha az (1) bekezdésben meghatározott végrehajtási eljárás nem vezet eredményre, a követelést az egészségbiztosítási szerv megkeresésére az állami adóhatóság adók módjára hajtja be.
+(2) Ha az (1) bekezdés szerinti cselekmények nem vezetnek eredményre, a fennmaradó tartozás végrehajtását az Ákr. 134. § (1) bekezdésének megfelelően kell foganatosítani.
 
 (3) A jogalap nélkül felvett táppénzt, baleseti táppénzt elsősorban táppénzből, baleseti táppénzből kell levonni. A levonás a táppénz, baleseti táppénz harminchárom százalékát nem haladhatja meg.
 

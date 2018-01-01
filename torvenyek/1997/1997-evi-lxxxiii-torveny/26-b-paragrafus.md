@@ -5,7 +5,3 @@
 (3) Ha az OGYTT egyedi méltányossági regiszter indítását tartja indokoltnak, az egészségbiztosító az OGYTT által tett javaslatok alapján indítja el az egyedi méltányossági regisztert. Ebben az esetben az adott gyógyszerre méltányosságból támogatás a 26/A. § (4) bekezdésében foglaltak alapján nyújtható.
 
 (4) Az e § alapján indított egyedi méltányossági regiszterre vonatkozóan alkalmazni kell a 26/A. § (2)–(8) bekezdését.
-
-5. CÍM
-
-Külföldön történő gyógykezelés

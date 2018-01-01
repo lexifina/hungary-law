@@ -8,13 +8,19 @@
 
 (2) Az egészségbiztosítási pénzbeli ellátás iránti igény az igénybejelentés napjától visszamenőleg legfeljebb hat hónapra érvényesíthető. Az ellátást legkorábban az igénybejelentés napját megelőző 6. hónap első napjától lehet megállapítani.
 
-(2a) Ha a pénzbeli ellátás, illetve a baleseti táppénz iránti kérelem elbírálására indított eljárás a Ket. 31. § (1) bekezdés l) pontja alapján megszüntetésre került, úgy az ugyanazon ügyben az (1) bekezdésben meghatározott határidőn túl, de az előzetes kérdés elbírálásában hozott döntés jogerőre emelkedésének a napjától számított hat hónapon belül ismételten benyújtott pénzbeli ellátás, baleseti táppénz iránti igényt határidőben benyújtottnak kell tekinteni és érdemben el kell bírálni. Az ismételten benyújtott kérelem érdemi elbírálásának az első kérelem alapján indult eljárásban hozott megszüntető végzés jogerőre emelkedését követő öt éven belül van helye. E határidő elmulasztása miatt igazolásnak helye nincs.
+(2a) Ha a pénzbeli ellátás, illetve a baleseti táppénz iránti kérelem elbírálására indított eljárás
+
+a) olyan előkérdéstől függ, amelynek elbírálása más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, és
+
+b) aza) bekezdésben meghatározottak miatt a kérelem visszautasításra vagy az eljárás megszüntetésre került,
+
+úgy az ugyanazon ügyben az (1) bekezdésben meghatározott határidőn túl, de az előkérdés elbírálásában hozott döntés véglegessé válásának a napjától számított hat hónapon belül ismételten benyújtott pénzbeli ellátás, baleseti táppénz iránti igényt határidőben benyújtottnak kell tekinteni és érdemben el kell bírálni. Az ismételten benyújtott kérelem érdemi elbírálásának az első kérelem visszautasításáról vagy az eljárás megszüntetéséről szóló végzés véglegessé válását követő öt éven belül van helye. E határidő elmulasztása miatt igazolásnak helye nincs.
 
 (3) Az igénybejelentés napja a kérelem benyújtásának – vagy ha a kérelmet posta útján terjesztették elő a kérelem postára adásának – igazolt napja.
 
 (4) Ha a korábban bevallott jövedelemadatok az állami adóhatóságnál módosításra kerültek, és ezért az egészségbiztosítás ellátásai közül a pénzbeli ellátás vagy a baleseti táppénz összege magasabb összegben kerül megállapításra, úgy a különbözet kiutalására akkor kerülhet sor, ha az meghaladja az ezer forintot.
 
-(5) A kifizetőhellyel nem rendelkező munkáltató a csecsemőgondozási díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz iránti kérelmeket kizárólag az egészségbiztosító honlapján közzétett számítógépes program segítségével töltheti ki és a kormányhivatalnál történt regisztrációt követően, kizárólagosan elektronikus úton nyújthatja be.
+(5) A kifizetőhellyel nem rendelkező munkáltató a csecsemőgondozási díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz iránti kérelmeket kizárólag az egészségbiztosító honlapján közzétett számítógépes program segítségével töltheti ki és a járási hivatalnál történt regisztrációt követően, kizárólagosan elektronikus azonosítását követően elektronikus úton nyújthatja be.
 
 (5a) A pénzbeli egészségbiztosítási ellátások és a baleseti táppénz iránti kérelmekhez, továbbá a kifizetőhelyi feladatellátás során az egészségbiztosító által rendszeresített, az egészségbiztosító honlapján közzétett nyomtatványoknak megfelelő érvényes nyomtatványokat kell használni.
 
@@ -30,4 +36,4 @@
 
 (10) A jogosult halála esetén a fel nem vett ellátást a vele közös háztartásban együtt élt házastárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben, ezek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki végzés jogerőre emelkedése napjától számított egy éven belül.
 
-(11) A 40. § (3) bekezdése, a 42/B. § (4) bekezdése és a 65. § (3a) bekezdése szerinti eljárások során a Ket. 71/A. § (4) bekezdésének alkalmazásakor a kérelem beérkezésének napja alatt a kérelem elbírálására vonatkozó határidő kezdő napját kell érteni.
+(11)
