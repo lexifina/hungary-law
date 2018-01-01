@@ -1,6 +1,6 @@
 ## Az egészségügyi államigazgatási szerv hatósági jogköre
 
-10. § (1) Az egészségügyi államigazgatási szerv — a 2. § (1) bekezdésének a) pontjában foglalt kivétellel — valamennyi természetes és jogi személyre, valamint jogi személyiséggel nem rendelkező társaságra kiterjedő hatósági jogkört gyakorol.
+10. § (1) Az egészségügyi államigazgatási szerv – a 2. § (1) bekezdés a) pontjában és (3) bekezdésében foglalt kivétellel – valamennyi természetes és jogi személyre, valamint jogi személyiséggel nem rendelkező társaságra kiterjedő hatósági jogkört gyakorol.
 
 (2) Az egészségügyi államigazgatási szerv ellenőrzése során az ellenőrzött személy köteles az ellenőrzéshez szükséges munkaerőt ellenszolgáltatás nélkül az ellenőrző rendelkezésére bocsátani. Közegészségügyi vagy járványügyi érdekből a szemle haladéktalanul megtartható.
 

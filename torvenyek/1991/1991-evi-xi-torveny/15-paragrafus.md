@@ -6,13 +6,13 @@
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben
 
-a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket,
+a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket, és a katonai egészségügyi államigazgatási szervet,
 
-b) jelölje ki a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket.
+b) jelölje ki a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket, továbbá szabályozza az ezen szervek által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.
 
 (5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, valamint az Országgyűlési Őrség vonatkozásában a rendészetért felelős miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
-(6) Felhatalmazást kap honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
+(6) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
 (7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a menekültügyi hatóság által fenntartott, a menekültügyi őrizet végrehajtására szolgáló intézményre, a befogadó állomásra és a közösségi szállásra, valamint a rendőrség által fenntartott, az idegenrendészeti eljárásban elrendelt őrizet végrehajtására szolgáló őrzött szállásra vonatkozó közegészségügyi követelményeket, a közegészségügyi ellenőrzés, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 

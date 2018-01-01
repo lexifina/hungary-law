@@ -14,4 +14,4 @@ d) egészségügyi szolgáltatónál észlelt hiányosság esetében az a)–c) 
 
 (4) Az egészségügyi államigazgatási szerv a lakosság egészségét közvetlenül fenyegető súlyos veszély elhárításához, illetve rendkívüli körülmények esetén tett intézkedéseinek végrehajtásához a rendőrség, a tűzoltóság és a polgári védelem közreműködését is igénybe veheti.
 
-(5) Az egészségügyi államigazgatási szerv járványveszély esetén közvetlenül megteheti mindazon hatósági intézkedéseket és eljárásokat, amelyek a járványveszély elhárítása érdekében szükségesek. Az ebben a körben hozott határozat – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(5) Az egészségügyi államigazgatási szerv járványveszély esetén közvetlenül megteheti mindazon hatósági intézkedéseket és eljárásokat, amelyek a járványveszély elhárítása érdekében szükségesek. Az ebben a körben hozott határozat – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható.

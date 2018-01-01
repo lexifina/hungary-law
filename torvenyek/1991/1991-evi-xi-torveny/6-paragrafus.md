@@ -104,7 +104,7 @@ ee) az egészségügyi dolgozó tartós távollétének ténye és indoka.
 
 (5) A (4) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 
-(6) A (4) bekezdés szerinti nyilvántartásba történő bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
+(6)
 
 (7) A (4) bekezdés szerinti nyilvántartás adataiban bekövetkezett változást az egészségügyi szolgáltató a (4) bekezdés e) pontja szerinti adatok tekintetében minden hónap 10. napjáig, kizárólag a változott adatok közlésével köteles bejelenteni az egészségügyi államigazgatási szerv részére.
 

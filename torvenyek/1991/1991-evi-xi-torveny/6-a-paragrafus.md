@@ -50,7 +50,7 @@ fd) járóbeteg-szakellátásban a heti rendelési időt napi bontásban.
 
 (3) A (2) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 
-(4) A (2) bekezdés szerinti nyilvántartásba történő bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
+(4)
 
 (5) A nyilvántartásba vett egészségügyi szolgáltató vagy a szabadfoglalkozású jogviszonyban álló személy vagy szervezet a (2) bekezdésben foglaltak változását 8 napon belül bejelenti az egészségügyi államigazgatási szervnek. Az egészségügyi államigazgatási szerv a változást a hatósági nyilvántartáson átvezeti és erről a bejelentő személyt vagy szervezetet értesíti.
 

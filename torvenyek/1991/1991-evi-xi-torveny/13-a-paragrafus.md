@@ -70,4 +70,4 @@ e) az egészségügyi közszolgáltatásért felelős szerv nem teljesíti az eg
 
 (10) A bírság többszörös jogsértés esetén ismételten is kiszabható.
 
-(11) Az egészségügyi államigazgatási szerv az egészségügyi bírságot kiszabó jogerős határozatot nyilvánosan közzéteszi. A közzétételre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) hirdetményi közlésre vonatkozó szabályait kell alkalmazni, azzal, hogy a határozatot kizárólag a hatóság elektronikus tájékoztatásra szolgáló honlapján kell közzétenni.
+(11) Az egészségügyi államigazgatási szerv az egészségügyi bírságot kiszabó végleges határozatáról készült közleményt az általános közigazgatási rendtartásról szóló törvény szabályai szerint közhírré teszi.

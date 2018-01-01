@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-11-00-00
 | 2016-12-01 | 2015. évi CCXXIV. törvény | 1991-11-00-00.53 |
 | 2016-12-20 | 2016. évi CLXXII. törvény | 1991-11-00-00.41 |
 | 2017-01-01 | 2016. évi CIV. törvény | 1991-11-00-00.42 |
+| 2018-01-01 | 2017. évi L. törvény | 1991-11-00-00.43 |

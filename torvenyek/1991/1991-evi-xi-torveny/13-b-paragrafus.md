@@ -1,6 +1,6 @@
 13/B. § (1)
 
-(2) Az egészségügyi bírságot az azt kiszabó jogerős határozat közlésétől számított harmincadik napig meg kell fizetni.
+(2) Az egészségügyi bírságot az azt kiszabó végleges határozat közlésétől számított harmincadik napig meg kell fizetni.
 
 (3)
 

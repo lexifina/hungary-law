@@ -1,8 +1,8 @@
 ## Az egészségügyi államigazgatási szerv feladatai
 
-2. § (1) Az egészségügyi államigazgatási szerv felügyeletet gyakorol az ország közegészségügyi-járványügyi (a továbbiakban együtt: közegészségügyi) viszonyai felett. Ennek keretében
+2. § (1) Az egészségügyi államigazgatási szerv – a (3) bekezdésben meghatározott kivétellel – felügyeletet gyakorol az ország közegészségügyi-járványügyi (a továbbiakban együtt: közegészségügyi) viszonyai felett. Ennek keretében
 
-a) az ország egész területén – a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek (ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit),valamint az Országgyűlési Őrség tevékenységének kivételével – közegészségügyi ellenőrzést végez;
+a) az ország egész területén – a rendvédelmi szervek (ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit), valamint az Országgyűlési Őrség tevékenységének kivételével – közegészségügyi ellenőrzést végez;
 
 b) biztosítja a vasúti, a vízi és a közúti határforgalom, valamint a nemzetközi légiforgalom közegészségügyi ellenőrzését;
 
@@ -12,7 +12,7 @@ d) végrehajtja a külön jogszabályokban hatáskörébe utalt feladatokat.
 
 (2)
 
-(3) A Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, valamint a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a Magyar Honvédség kijelölt szerve végzi.
+(3) A honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter közegészségügyi felügyeletét – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a katonai egészségügyi államigazgatási szerv gyakorolja.
 
 (3a) A rendészetért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek az (1) bekezdés a) pontjában foglaltak figyelembevételével, továbbá a rendvédelmi szervek személyi állományára, valamint az Országgyűlési Őrségre vonatkozó közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a rendvédelmi szervek egészségügyi szolgálatai végzik.
 
