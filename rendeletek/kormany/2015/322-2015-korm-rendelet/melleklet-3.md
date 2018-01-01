@@ -1,4 +1,4 @@
-3. melléklet a 322/2015. (X. 30.) Korm. rendelethez[^19]
+3. melléklet a 322/2015. (X. 30.) Korm. rendelethez[^33]
 
 A jóváhagyási tervvel kapcsolatos követelmények
 
@@ -24,4 +24,4 @@ h) a teljes megvalósítás időterve,
 
 i) az építtető általi jóváhagyás.
 
-[^19]: A 3. mellékletet a 476/2015. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^33]: A 3. mellékletet a 476/2015. (XII. 29.) Korm. rendelet 2. §-a iktatta be.

@@ -2,9 +2,9 @@
 
 (2) A szakmai minőség értékelésére alkalmas részszempontnak minősül minden olyan értékelési részszempont, amely alkalmas arra, hogy az építészeti-műszaki tervezés vagy mérnöki feladat ellátásának szakmai színvonalát javítsa [tervezési szolgáltatás esetén a 6. § (1) bekezdés e) pontjában meghatározottakhoz képest]. Az ajánlatkérő értékelési résszempontként veheti figyelembe különösen:
 
-a)[^3] a szerződés teljesítésében részt vevő személyi állomány szakmai szervezettségének mértékét (például a teljesítésbe bevont szakemberek átlagos létszáma, vezető mérnökök létszáma, feladatkiosztás rendje, munkaszervezés, belső ellenőr, külső ellenőr alkalmazása);
+a)[^4] a szerződés teljesítésében részt vevő személyi állomány szakmai szervezettségének mértékét (például a teljesítésbe bevont szakemberek átlagos létszáma, vezető mérnökök létszáma, feladatkiosztás rendje, munkaszervezés, belső ellenőr, külső ellenőr alkalmazása);
 
-b)[^4] a szerződés teljesítésében részt vevő személyi állomány képzettségét és tapasztalatát;
+b)[^5] a szerződés teljesítésében részt vevő személyi állomány képzettségét és tapasztalatát;
 
 c) a munkavégzés értékelésére vonatkozó részszempontokat, ezen belül
 
@@ -16,5 +16,5 @@ cc) a tervezési szolgáltatás eredményeként megvalósuló projekt költsége
 
 (3) A legjobb ár-érték arány, valamint a minőség alapú kiválasztás szempontjának érvényre juttatása érdekében az ajánlati ár az értékelés során nem vehető nagyobb mértékben figyelembe, mint a többi értékelési szempont együttesen.
 
-[^3]: A 9. § (2) bekezdés a) pontja a 487/2016. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^4]: A 9. § (2) bekezdés b) pontja a 487/2016. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^4]: A 9. § (2) bekezdés a) pontja a 487/2016. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^5]: A 9. § (2) bekezdés b) pontja a 487/2016. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

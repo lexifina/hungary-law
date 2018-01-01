@@ -2,10 +2,14 @@
 
 (2) A kivitelezésre és tervezésre irányuló építési beruházásnál, ha
 
-a) az ajánlatkérő nem rendelkezik jogerős építési vagy létesítési engedéllyel [14. § (4) bekezdés a) pont], a közbeszerzési dokumentumok – az (1) bekezdésben foglaltakon túl – tartalmazzák a 6. §-ban meghatározottakat is;
+a)[^12] az ajánlatkérő nem rendelkezik végleges építési vagy létesítési engedéllyel [14. § (4) bekezdés a) pont], a közbeszerzési dokumentumok – az (1) bekezdésben foglaltakon túl – tartalmazzák a 6. §-ban meghatározottakat is;
 
-b) az ajánlatkérő rendelkezik jogerős építési vagy létesítési engedéllyel [14. § (4) bekezdés b) pont], a közbeszerzési dokumentumokat a jogerős építési vagy létesítési engedély és a hozzá tartozó dokumentáció alapján kell elkészíteni.
+b)[^13] az ajánlatkérő rendelkezik végleges építési vagy létesítési engedéllyel [14. § (4) bekezdés b) pont], a közbeszerzési dokumentumokat a jogerős építési vagy létesítési engedély és a hozzá tartozó dokumentáció alapján kell elkészíteni.
 
-(3) Ha az ajánlatkérő rendelkezik jogerős építési vagy létesítési engedéllyel [14. § (4) bekezdés b) pont], biztosítania kell, hogy a kivitelezést végző nyertes ajánlattevő jogdíj fizetése nélkül legyen jogosult az eljárás során rendelkezésére bocsátott tervek általa elvégzendő tervezési feladathoz szükséges továbbtervezésére, átdolgozására.
+(3)[^14] Ha az ajánlatkérő rendelkezik végleges építési vagy létesítési engedéllyel [14. § (4) bekezdés b) pont], biztosítania kell, hogy a kivitelezést végző nyertes ajánlattevő jogdíj fizetése nélkül legyen jogosult az eljárás során rendelkezésére bocsátott tervek általa elvégzendő tervezési feladathoz szükséges továbbtervezésére, átdolgozására.
 
 (4) A közbeszerzési dokumentumok kivitelezésre és tervezésre irányuló építési beruházás esetében is tartalmazhatnak az Épkiv. szerinti – e rendelet előírásainak megfelelő – kivitelezési dokumentációt, amely alapján a nyertes ajánlattevő feladata egyes kiegészítő tervezési feladatok ellátása.
+
+[^12]: A 17. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 548. § d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: A 17. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 548. § d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^14]: A 17. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 548. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
