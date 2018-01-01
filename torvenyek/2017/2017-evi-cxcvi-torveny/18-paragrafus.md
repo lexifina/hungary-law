@@ -6,7 +6,7 @@
 
 3. 10. § (4) bekezdésében a „szervezet negyedévente” szövegrész helyébe a „szervezet – kormányrendelet vagy miniszteri rendelet eltérő rendelkezése hiányában – negyedévente” szöveg,
 
-4. 12. § (2) bekezdésében a „(2a) bekezdésben és” szövegrész helyébe a „(2a) és (2c) bekezdésben, valamint” szöveg,
+4.
 
 5. 32/A. § (1) bekezdés i) pontjában a „hulladékgazdálkodási közszolgáltatási díj” szövegrész helyébe a „hulladékgazdálkodási közszolgáltatási és szolgáltatási díj” szöveg,
 

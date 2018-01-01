@@ -20,4 +20,4 @@ i) 76. § (5) bekezdés nyitó szövegrészében a „, valamint a területi meg
 
 j) 77. § (2) bekezdésében az „, a környezetvédelemért felelős miniszter a területi hulladékgazdálkodási tervek és a területi megelőzési programok végrehajtásának feltételeit” szövegrész.
 
-(2) Hatályát veszti a Ht. 1. melléklet 16. pontja.
+(2)
