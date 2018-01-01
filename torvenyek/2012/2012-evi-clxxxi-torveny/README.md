@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-181-00-00
 | 2016-07-17 | 2016. évi LXIX. törvény | 2012-181-00-00.14 |
 | 2017-01-01 | 2016. évi CIV. törvény | 2012-181-00-00.15 |
 | 2017-07-26 | 2017. évi XXXIII. törvény | 2012-181-00-00.16 |
+| 2018-01-01 | 2017. évi CXLIV. törvény | 2012-181-00-00.17 |
