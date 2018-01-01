@@ -10,7 +10,13 @@ c)[^21] dönt az általa elrendelt és a más szerv által alkalmazott ideiglene
 
 d)[^22] nevelésbe veszi a gyermeket, és egyidejűleg gyermekvédelmi gyámot és helyettes gyermekvédelmi gyámot rendel,
 
-e)[^23]
+e)[^23] a gyermek és büntetés-végrehajtási intézetben vagy javítóintézetben lévő szülője együttes elhelyezéséhez kapcsolódóan
+
+ea) dönt a gyermeknek a büntetés-végrehajtási intézet anya–gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezését biztosító részlegén történő elhelyezéshez való hozzájárulásról vagy annak megtagadásáról,
+
+eb) véleményt ad a Büntetés-végrehajtás Országos Parancsnokságának vagy a javítóintézet igazgatójának megkeresése alapján a gyermeknek a szülővel történő együttes elhelyezéséről, és
+
+ec) a büntetés-végrehajtási intézet parancsnokának vagy a javítóintézet igazgatójának az együttes elhelyezés megszüntetésére vonatkozó döntése alapján rendelkezik a gyermek kiadásáról, és megteszi a gyermek érdekében szükséges intézkedéseket,
 
 f)[^24] dönt a nevelésbe vett gyermek kapcsolattartásáról,
 
@@ -44,7 +50,7 @@ r)[^34] a gyermek gondozási helyére vonatkozó javaslat kialakítása érdeké
 [^20]: A 4. § b) pontja a 70/2014. (III. 13.) Korm. rendelet 88. § (1) bekezdésével megállapított szöveg.
 [^21]: A 4. § c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 48. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^22]: A 4. § d) pontja a 97/2013. (III. 29.) Korm. rendelet 68. § (2) bekezdésével megállapított, a 448/2016. (XII. 19.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
-[^23]: A 4. § e) pontját a 97/2013. (III. 29.) Korm. rendelet 75. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^23]: A 4. § e) pontját a 97/2013. (III. 29.) Korm. rendelet 75. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 384/2017. (XII. 12.) Korm. rendelet 7. §-a iktatta be.
 [^24]: A 4. § f) pontja a 97/2013. (III. 29.) Korm. rendelet 76. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^25]: A 4. § g) pontja a 70/2014. (III. 13.) Korm. rendelet 88. § (2) bekezdésével megállapított szöveg.
 [^26]: A 4. § h) pontja a 97/2013. (III. 29.) Korm. rendelet 75. § (2) bekezdés b) pontja szerint módosított szöveg.

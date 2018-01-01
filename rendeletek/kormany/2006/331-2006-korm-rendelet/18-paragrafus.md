@@ -1,3 +1,3 @@
-## 17. §[^76] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal – a miniszter által meghatározottak szerint – közreműködik az ágazati képzések, továbbképzések szervezésében.
+## 17. §[^77] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal – a miniszter által meghatározottak szerint – közreműködik az ágazati képzések, továbbképzések szervezésében.
 
-[^76]: A 17. § a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^77]: A 17. § a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontja szerint módosított szöveg.
