@@ -1,0 +1,1 @@
+## 2. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 82. § (4) bekezdésében meghatározott dokumentumok helyett a honvédelmi foglalkoztató esetében a rendezett munkaügyi kapcsolatok megállapításának alapjául a honvédelemért felelős miniszter által kiállított igazolás szolgál.

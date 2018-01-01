@@ -1,0 +1,1 @@
+## 1. § A Kormány a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 9. § (5b) bekezdése szerinti honvédelmi foglalkoztatók (a továbbiakban: honvédelmi foglalkoztató) vonatkozásában a munkaügyi hatósági jogkör gyakorlójaként, országos illetékességgel a honvédelemért felelős minisztert jelöli ki.
