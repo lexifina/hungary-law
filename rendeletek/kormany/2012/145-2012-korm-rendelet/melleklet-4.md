@@ -1,3 +1,3 @@
-4. melléklet a 145/2012. (VII. 3.) Korm. rendelethez[^25]
+4. melléklet a 145/2012. (VII. 3.) Korm. rendelethez[^46]
 
-[^25]: A 4. melléklet a 281/2016. (IX. 21.) Korm. rendelet 15. § (2) bekezdése szerint módosított szöveg.
+[^46]: A 4. melléklet a 281/2016. (IX. 21.) Korm. rendelet 15. § (2) bekezdése szerint módosított szöveg.

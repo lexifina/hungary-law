@@ -2,7 +2,7 @@
 
 (2) A bányafelügyelet a tárolási engedélyt kiadja, ha
 
-a) a kérelmező rendelkezik a tárolási tevékenységre jogerős környezetvédelmi engedéllyel vagy jogerős egységes környezethasználati engedéllyel,
+a)[^21] a kérelmező rendelkezik a tárolási tevékenységre végleges környezetvédelmi engedéllyel vagy végleges egységes környezethasználati engedéllyel,
 
 b) a kérelmező az üzemeltetésre és az ellenőrzésre műszakilag felkészült,
 
@@ -16,14 +16,18 @@ f) a szén-dioxid geológiai tárolásának az adott geológiai formációban ni
 
 g) a kérelmező
 
-ga) az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontjában felsorolt feltételeket teljesíti és ezt 30 napnál nem régebbi közokirattal igazolja, vagy
+ga)[^22] az adózás rendjéről szóló 2017. évi CL. törvény 260. §-ában felsorolt feltételeket teljesíti és ezt 30 napnál nem régebbi közokirattal igazolja, vagy
 
 gb) szerepel a köztartozásmentes adózói adatbázisban.
 
-(3)[^15]
+(3)[^23]
 
-(4) A bányafelügyelet a határozat tervezetét és a döntés meghozatalánál figyelembe vett dokumentumokat véleményezés céljából megküldi a Bizottságnak. Az ügyintézési határidőbe nem számít bele a határozat-tervezet Bizottságnak történő megküldésétől a Bizottság véleményének megérkezéséig terjedő időszak.
+(4)[^24] A bányafelügyelet a határozat tervezetét és a döntés meghozatalánál figyelembe vett dokumentumokat véleményezés céljából megküldi a Bizottságnak.
 
-(5) A bányafelügyelet a határozat meghozatala során a Bizottság véleményét figyelembe veszi. A bányafelügyelet a jogerős tárolási engedélyben foglaltakról és amennyiben a Bizottság véleményétől eltért, az eltérés indokairól a tárolási engedély jogerőre emelkedéstől számított 15 napon belül értesíti a Bizottságot.
+(5)[^25] A bányafelügyelet a határozat meghozatala során a Bizottság véleményét figyelembe veszi. A bányafelügyelet a végleges tárolási engedélyben foglaltakról és ha a Bizottság véleményétől eltért, az eltérés indokairól a tárolási engedély véglegessé válásától számított 15 napon belül értesíti a Bizottságot.
 
-[^15]: A 11. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 175. § a) pontja hatályon kívül helyezte.
+[^21]: A 11. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 398. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: A 11. § (2) bekezdés g) pont ga) alpontja a 475/2017. (XII. 28.) Korm. rendelet 51. §-a szerint módosított szöveg.
+[^23]: A 11. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 175. § a) pontja hatályon kívül helyezte.
+[^24]: A 11. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 399. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^25]: A 11. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 397. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

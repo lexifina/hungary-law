@@ -2,7 +2,7 @@
 
 ## 15. Az új tárolási engedély engedélyesének kijelölése
 
-29. § (1) A bányafelügyelet a Bt. 42/R. §-a szerinti pályázatot a korábbi üzemeltető tárolási engedélyének visszavonásáról szóló határozat jogerőre emelkedésétől vagy a tárolási engedély hatályvesztésének napjától számított 60 napon belül hirdeti meg. A bányafelügyelet azokat a pályázatokat bírálja el, amelyek a pályázati hirdetményben foglaltaknak megfelelnek.
+29. § (1)[^32] A bányafelügyelet a Bt. 42/R. §-a szerinti pályázatot a korábbi üzemeltető tárolási engedélyének visszavonásáról szóló határozat véglegessé válásától vagy a tárolási engedély hatályvesztésének napjától számított 60 napon belül hirdeti meg. A bányafelügyelet azokat a pályázatokat bírálja el, amelyek a pályázati hirdetményben foglaltaknak megfelelnek.
 
 (2) A pályázati hirdetménynek tartalmaznia kell:
 
@@ -32,4 +32,7 @@ i) a pályázatok elbírálásának szempontjait, valamint határidejét.
 
 (6) Eredménytelen a pályázat, ha a pályázati hirdetményben foglaltakat figyelembe véve az új tárolási engedélyes nem jelölhető ki.
 
-(7) Új tárolási engedélyes kijelölése esetén a korábbi engedélyes nevére szóló környezetvédelmi engedély vagy egységes környezethasználati engedély jogosultja az új tárolási engedélyes lesz. A bányafelügyelet a kijelölést tartalmazó jogerős és végrehajtható határozatot az engedélyes személyében bekövetkező változás átvezetése céljából megküldi a környezetvédelmi hatóságnak.
+(7)[^33] Új tárolási engedélyes kijelölése esetén a korábbi engedélyes nevére szóló környezetvédelmi engedély vagy egységes környezethasználati engedély jogosultja az új tárolási engedélyes lesz. A bányafelügyelet a kijelölést tartalmazó végleges határozatot az engedélyes személyében bekövetkező változás átvezetése céljából megküldi a környezetvédelmi hatóságnak.
+
+[^32]: A 29. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 398. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^33]: A 29. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 398. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

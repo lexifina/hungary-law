@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-145-20-
 | 2016-01-01 | 2012-145-20-22.7 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-09-29 | 2012-145-20-22.8 | 281/2016. (IX. 21.) Korm. rendelet |
 | 2017-07-01 | 2012-145-20-22.9 | 162/2017. (VI. 28.) Korm. rendelet |
+| 2018-01-01 | 2012-145-20-22.10 | 457/2017. (XII. 28.) Korm. rendelet |

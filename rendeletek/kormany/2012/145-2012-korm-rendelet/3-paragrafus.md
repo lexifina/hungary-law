@@ -16,11 +16,11 @@ b) a tervezett kutató létesítmények felsorolását, helyének és felvonulá
 
 c) az egyes kutatási tevékenységek mennyiségét, ütemezését, azok tervezett időtartamát, módjának, mélységének, technológiájának, valamint a kutatás során várható veszélyek és azok elhárítására tervezett intézkedések leírását,
 
-d) a kutatási létesítményekkel érintett ingatlanok település és helyrajzi szám szerinti megjelölését, valamint ezen ingatlanok tulajdonosainak, továbbá az ingatlan-nyilvántartásba bejegyzett joggal rendelkezőknek a név- és címjegyzékét, valamint
+d)[^4] a kutatási létesítményekkel érintett ingatlanok település és helyrajzi szám szerinti megjelölését, valamint
 
 e) a részletes kutatási költségtervet.
 
-(3) Ha a kérelmező a munkaprogramhoz a (2) bekezdés d) pontja szerinti adatokat nem mellékeli, azok beszerzéséről a bányafelügyelet az érintett ingatlanok tulajdoni lapjának elektronikus formában történő lekérdezésével gondoskodik.
+(3)[^5]
 
 (4) A kutatási tervtérképnek a bányatérképek méretarányára és tartalmára vonatkozó biztonsági szabályzatnak meg kell felelnie.
 
@@ -30,3 +30,5 @@ e) a részletes kutatási költségtervet.
 
 [^2]: A 2. alcím címe a 311/2014. (XII. 11.) Korm. rendelet 39. §-ával megállapított szöveg.
 [^3]: A 3. § (1) bekezdés nyitó szövegrésze a 311/2014. (XII. 11.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 399. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^5]: A 3. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 399. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
