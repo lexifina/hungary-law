@@ -1,6 +1,6 @@
 ## Az ideiglenes megelőző távoltartó határozat
 
-8. § Az ideiglenes megelőző távoltartó határozat rendelkező részének a Ket. 72. § (1) bekezdés d) pontjában foglaltakon kívül tartalmaznia kell:
+8. § Az ideiglenes megelőző távoltartó határozat rendelkező részének tartalmaznia kell:
 
 a) a rendőrség döntését arról, hogy
 

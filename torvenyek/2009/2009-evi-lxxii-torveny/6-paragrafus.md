@@ -1,6 +1,6 @@
 ## Ideiglenes megelőző távoltartás
 
-6. § (1) A hozzátartozók közötti erőszak miatti ideiglenes megelőző távoltartással összefüggő eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit az alábbi eltérésekkel kell alkalmazni.
+6. § (1) A hozzátartozók közötti erőszak miatti ideiglenes megelőző távoltartással összefüggő eljárásra az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit az alábbi eltérésekkel kell alkalmazni.
 
 (2) A rendőrség az ideiglenes megelőző távoltartást
 

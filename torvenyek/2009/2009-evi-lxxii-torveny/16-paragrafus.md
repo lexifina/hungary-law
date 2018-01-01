@@ -20,7 +20,7 @@
 
 (8) Fellebbezés bejelentése esetében az elsőfokú bíróság – ha a fellebbezési határidő valamennyi fellebbezésre jogosultra letelt – az iratokat haladéktalanul felterjeszti a másodfokú bírósághoz. A felek a fellebbezésre észrevételeiket az iratok felterjesztéséig az elsőfokú bíróságnál, az iratok felterjesztését követően a másodfokú bíróságnál tehetik meg. Ha a fél a fellebbezésre vonatkozó észrevételét az iratok felterjesztését követően az elsőfokú bírósághoz nyújtja be, az elsőfokú bíróság azt haladéktalanul továbbítja a másodfokú bírósághoz.
 
-(9) A másodfokú bíróság a fellebbezést az iratok alapján 3 munkanapon belül bírálja el. Az elsőfokú határozat hatályon kívül helyezésének a Pp. 252. § (2) és (3) bekezdése alapján nincs helye. A másodfokú bíróság határozatát a rendőrség útján közli a felekkel.
+(9) A másodfokú bíróság a fellebbezést az iratok alapján 3 munkanapon belül bírálja el. Az elsőfokú határozat hatályon kívül helyezésének a Pp. 381. §-a alapján nincs helye. A másodfokú bíróság határozatát a rendőrség útján közli a felekkel.
 
 (10) Ha a bántalmazott részére az elsőfokú bíróság a megelőző távoltartás elrendelése mellett védelmi tanúsítványt állított ki, a bántalmazott, illetve a bántalmazó erre irányuló kérelmére
 
