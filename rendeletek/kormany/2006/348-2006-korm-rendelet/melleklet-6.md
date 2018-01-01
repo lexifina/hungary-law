@@ -108,8 +108,8 @@ Kitöltési útmutató és magyarázat
 
 14.5. Tenyésztési engedély abban az esetben adható ki, amennyiben a tenyésztő a kérelem benyújtásakor nyilatkozik a várható szaporulat elhelyezéséről.
 
-16. Kizáró okok: A kérelmező büntetőjogi felelősségét a bíróság tiltott állatviadal szervezése, állatkínzás, természetkárosítás, orvvadászat, orvhalászat bűncselekmény elkövetése miatt jogerősen megállapította, illetve a kérelmezőt a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vonták, a határozat jogerőre emelkedésétől számított három évig, vagy természetvédelmi, illetve állatvédelmi bírsággal sújtották, a határozat jogerőre emelkedésétől számított három évig.
+16. Kizáró okok: A kérelmező büntetőjogi felelősségét a bíróság tiltott állatviadal szervezése, állatkínzás, természetkárosítás, orvvadászat, orvhalászat bűncselekmény elkövetése miatt jogerősen megállapította, illetve a kérelmezőt a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vonták, a határozat jogerőre emelkedésétől számított három évig, vagy természetvédelmi, illetve állatvédelmi bírsággal sújtották, a határozat véglegessé válásától számított három évig.
 
 17. Kvóta: Természetes személy vadon élő állományból kivett héjából (Accipiter gentilis) és karvalyból (Accipiter nisus) egyidejűleg legfeljebb 2 példány tartására jogosult.
 
-[^64]: A 6. számú mellékletet a 441/2015. (XII. 28.) Korm. rendelet 85. § (2) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^64]: A 6. számú mellékletet a 441/2015. (XII. 28.) Korm. rendelet 85. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 186. §-a szerint módossított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

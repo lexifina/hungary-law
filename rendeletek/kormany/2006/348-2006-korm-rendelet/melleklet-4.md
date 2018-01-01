@@ -152,6 +152,6 @@ Kitöltési útmutató és magyarázat
 
 15. A külön jogszabály szerinti működési engedéllyel rendelkező állatkerteknek kizárólag az e melléklet 1., 2., 7–13., 14.2., 14.3., valamint a 15. pont első francia bekezdése szerinti adatokat és dokumentumokat kell megadni és becsatolni.
 
-16. Kizáró okok: A kérelmező büntetőjogi felelősségét a bíróság tiltott állatviadal szervezése, állatkínzás, természetkárosítás, orvvadászat, orvhalászat bűncselekmény elkövetése miatt jogerősen megállapította, illetve a kérelmezőt a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vonták, a határozat jogerőre emelkedésétől számított három évig, vagy természetvédelmi, illetve állatvédelmi bírsággal sújtották, a határozat jogerőre emelkedésétől számított három évig.
+16. Kizáró okok: A kérelmező büntetőjogi felelősségét a bíróság tiltott állatviadal szervezése, állatkínzás, természetkárosítás, orvvadászat, orvhalászat bűncselekmény elkövetése miatt jogerősen megállapította, illetve a kérelmezőt a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vonták, a határozat jogerőre emelkedésétől számított három évig, vagy természetvédelmi, illetve állatvédelmi bírsággal sújtották, a határozat véglegessé válásától számított három évig.
 
-[^63]: A 4. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 85. § (1) bekezdés c) pontjával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^63]: A 4. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 85. § (1) bekezdés c) pontjával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 186. §-a szerint módossított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
