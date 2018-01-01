@@ -2,11 +2,11 @@
 
 1. § (1) A magyarországi székhelyű európai gazdasági egyesülés (rövidített néven: ege) jogi személy, amelynek alapítására, szervezetére és működésére a Tanács 2137/85/EGK rendeletét kell alkalmazni a (2)–(5) bekezdésekben foglalt kiegészítésekkel.
 
-(2) Az európai gazdasági egyesülés cégbejegyzésére, valamint az egyesülésre vonatkozó cégeljárásra a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény (a továbbiakban: Ctv.) irányadó.
+(2) Az európai gazdasági egyesülés cégbejegyzésére, valamint az egyesülésre vonatkozó cégeljárásra a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) irányadó.
 
-(3) Az európai gazdasági egyesülés alapítására a gazdasági társaságokról szóló törvény (a továbbiakban: Gt.) 11–13. §-ait, szervezetére a Gt. 320–322. §-ait és 327. §-át, vezető tisztségviselőinek összeférhetetlenségére a Gt. 23. §-ának és 25. §-ának rendelkezéseit, a tag kizárására vonatkozóan pedig a Gt. 47–48. §-át kell megfelelően alkalmazni.
+(3) Az európai gazdasági egyesülés alapítására a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 3:4–3:15. §-ait és 3:94–3:100. §-ait, szervezetére a Ptk. 3:371–372. §-ait és a 3:373. §-át, a vezető tisztségviselőivel szembeni kizáró okokra és összeférhetetlenségére a Ptk. 3:22. §-ának és 3:115. §. §-ának rendelkezéseit, a tag kizárására vonatkozóan pedig a Ptk. 3:107–108. §-ait kell megfelelően alkalmazni.
 
-(4) Ha az európai gazdasági egyesülés kötelezettségeit az európai gazdasági egyesülés vagyona nem fedezi, a tagok korlátlan és egyetemleges felelősségére a Ptk. szabályozása irányadó (Ptk. 337–338. §).
+(4) Ha az európai gazdasági egyesülés kötelezettségeit az európai gazdasági egyesülés vagyona nem fedezi, a tagok korlátlan és egyetemleges felelősségére a Ptk. szabályozása irányadó.
 
 (5) Ha a Magyarországon működő európai gazdasági egyesülés székhelyét más tagállamba helyezi át, az új székhely bejegyzése napjával – mint mérleg-fordulónappal – köteles a számviteli törvény szerinti beszámolókészítési, könyvvizsgálati, letétbe helyezési és közzétételi kötelezettségének eleget tenni, az új székhely bejegyzése napjától számított 150 napon belül.
 
