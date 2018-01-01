@@ -4,8 +4,4 @@
 
 (3) Nincs szükség a külföldön kiállított közokirat diplomáciai felülhitelesítésére, ha az okiratot hitelesítési záradékkal (Apostille) látták el, vagy a felülhitelesítés alól nemzetközi megállapodás vagy viszonossági gyakorlat egyébként felmentést ad. Ilyen nemzetközi megállapodás vagy viszonossági gyakorlat fennállását a bejegyzést kérő félnek kell megjelölni, illetve arra hivatkozni. Viszonossági gyakorlat fennállásáról az igazságügyért felelős miniszter állásfoglalása az irányadó.
 
-(4) A külföldön kiállított közokiratot, ha diplomáciai felülhitelesítéssel vagy hitelesítési záradékkal (Apostille) nincs ellátva, és nemzetközi megállapodás vagy viszonossági gyakorlat sem ad felmentést a felülhitelesítés alól, vagy ha egyébként a külföldön kiállított közokirat alaki szempontból történő felhasználhatóságát illetően kétség merült fel, az ingatlanügyi hatóság állásfoglalás végett az igazságügyért felelős miniszterhez terjeszti fel. Az igazságügyért felelős miniszter állásfoglalása kialakítása során a kérelemben előadott, méltánylást érdemlő rendkívüli körülményeket is figyelembe veheti.
-
-(5) Az ingatlanügyi hatóság a (4) bekezdésben foglalt feltételek fennállásától függetlenül állásfoglalás végett az igazságügyért felelős miniszterhez felterjeszti a külföldi bíróság vagy más hatóság által hozott, az ingatlan-nyilvántartást érintő határozatot. Az igazságügyért felelős miniszter állásfoglalása kialakítása során a kérelemben előadott, méltánylást érdemlő rendkívüli körülményeket kizárólag az alaki szempontból történő felhasználhatóság tekintetében veheti figyelembe.
-
-(6) Az ingatlan-nyilvántartási eljárásban a (4) és (5) bekezdésben, illetve a 35. § (4) bekezdésében meghatározott esetekben az igazságügyért felelős miniszter állásfoglalása irányadó.
+(4)–(6)

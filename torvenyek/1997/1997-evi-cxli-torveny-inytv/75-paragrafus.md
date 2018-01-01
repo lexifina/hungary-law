@@ -10,4 +10,4 @@
 
 (4) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybevevők adatlekérdezéseinek jogszerűségét és a biztonsági előírások betartását az ingatlanügyi hatóság és a rendszer üzemeltetője a (2)–(2a) bekezdés szerint vezetett naplóból ellenőrizheti. Az adatlekérdezésre vonatkozó szabályok, illetve a biztonsági előírások megsértése esetén, a hozzáférési jogosultság visszavonása tárgyában – az ingatlanügyi hatóság, illetve a rendszer üzemeltetőjének javaslata alapján – az ingatlanügyi hatóság határozatot hoz.
 
-(5) A 75. § (1) bekezdésében meghatározott kérelem és a hozzáférési jogosultság felfüggesztése, illetve visszavonása tárgyában hozott határozat ellen nincs helye fellebbezésnek és felügyeleti jogkör gyakorlásának.
+(5)

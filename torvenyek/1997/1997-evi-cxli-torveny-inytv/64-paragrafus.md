@@ -22,4 +22,4 @@ per megindítása tényének feljegyzése iránt.
 
 (3) A feljegyzés alapjául szolgáló végzés hatályon kívül helyezéséről szóló jogerős végzést a bíróság megküldi az ingatlanügyi hatóságnak a feljegyzés törlése céljából.
 
-(4) Az (1)–(3) bekezdés alapján történő feljegyzésről, illetve törlésről szóló ingatlanügyi hatósági határozat ellen fellebbezésnek nincs helye.
+(4) A per megindítása tényének feljegyzése tárgyában hozott végzés ellen külön fellebbezésnek van helye.

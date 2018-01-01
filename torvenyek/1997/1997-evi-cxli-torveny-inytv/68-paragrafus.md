@@ -18,4 +18,6 @@
 
 (7) A 67. § (1) bekezdés, valamint a 68. § (1), (3)–(4) bekezdések szerinti kérelmet a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott nyomtatványon, illetve elektronikus űrlapon kell benyújtani.
 
+(7a) Az ingatlanügyi hatóság a tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles és nem hiteles tulajdonilap-másolat szolgáltatás teljesítése során az automatikus döntéshozatali eljárás szabályai szerint jár el.
+
 (8) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmáról másolatot készíteni és szolgáltatni külön jogszabály rendelkezései szerint lehet.

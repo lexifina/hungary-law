@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | 2017-06-15 | 2017. évi LVII. törvény | 1997-141-00-00.70 |
 | 2017-06-23 | 2017. évi LVIII. törvény | 1997-141-00-00.71 |
 | 2017-06-26 | 2017. évi LII. törvény | 1997-141-00-00.72 |
+| 2018-01-01 | 2017. évi CCV. törvény | 1997-141-00-00.73 |

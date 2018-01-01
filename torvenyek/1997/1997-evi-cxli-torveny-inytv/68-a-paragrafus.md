@@ -4,6 +4,8 @@ a) teljes másolat, amely valamennyi bejegyzést tartalmaz,
 
 b) szemle, amely kizárólag a – másolat kiállításának, illetve elektronikus úton történő lekérdezésének időpontjában – fennálló bejegyzéseket tartalmazza.
 
+(1a) Mező-, erdőgazdasági hasznosítású föld esetében – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – a tulajdonilap-másolat szolgáltatását úgy kell teljesíteni, hogy abból megállapítható legyen az érintett földrészletnek a Fétv. szerint vezetett földhasználati nyilvántartásba bejegyzett földhasználója is, vagy az a tény, hogy a földhasználati nyilvántartás adatai alapján az érintett földrészletre nincs bejelentett földhasználó.
+
 (2) A tulajdoni lap tartalma – az (1) bekezdésben foglaltakon túl, e törvény felhatalmazása alapján kiadott miniszteri rendeletben foglaltak szerint – az ingatlan-nyilvántartási adatbázisból adatműveleti, adatfeldolgozási tevékenységet igénylő megkeresések esetében elektronikusan feldolgozható módon, részadat-szolgáltatás formájában is megismerhető.
 
 (3) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmáról kiadott másolat lehet:

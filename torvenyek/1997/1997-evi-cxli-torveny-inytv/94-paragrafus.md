@@ -12,7 +12,7 @@
 
 (6) Nincs helye fellebbezésnek, ha a haszonélvezeti jog törlésére a (3) bekezdés szerint megtett nyilatkozat vagy az (5) bekezdés alapján kerül sor.
 
-(7) A haszonélvezeti jog (3) bekezdés szerinti törléséről rendelkező határozat ellen benyújtott fellebbezéshez csatolt eredeti okiratokkal (anyakönyvi kivonat, örökbefogadás, valamint a nevelőszülő és a nevelt gyermek közötti jogviszony esetén az erről szóló jogerős gyámhivatali határozat) vagy ezek hiteles másolatával a jogosult igazolhatja a közeli hozzátartozói viszony fennállását.
+(7) A haszonélvezeti jog (3) bekezdés szerinti törléséről rendelkező határozat ellen benyújtott fellebbezéshez csatolt eredeti okiratokkal (anyakönyvi kivonat, örökbefogadás, valamint a nevelőszülő és a nevelt gyermek közötti jogviszony esetén az erről szóló végleges gyámhivatali határozat) vagy ezek hiteles másolatával a jogosult igazolhatja a közeli hozzátartozói viszony fennállását.
 
 (8) Nem törölhető a haszonélvezeti jog vagy a használat joga az ingatlan-nyilvántartásból, ha az okirattárban levő iratok alapján megállapítható, hogy a haszonélvezeti jog vagy a használat jogának az alapítása az átruházással egyidejűleg a korábbi tulajdonos javára történt.
 

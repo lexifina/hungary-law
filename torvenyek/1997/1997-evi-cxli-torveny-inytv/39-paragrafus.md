@@ -2,7 +2,7 @@
 
 ## Hiánypótlás
 
-39. § (1) Ha a kérelemnek, illetve mellékletének vagy a bejegyzés alapjául szolgáló okiratnak pótolható hiányossága van – ideértve az igazgatási szolgáltatási díj meg nem fizetését is –, a kérelmezőt tizenöt napon belül fel kell hívni a hiány pótlására. Ha a kérelemnek, illetve mellékletének vagy a bejegyzés alapjául szolgáló okiratnak pótolható hiányossága van, de a kérelmet a rangsorban előrébb álló kérelem miatt, vagy kérelemre a tulajdonjog-bejegyzési engedély benyújtásáig függőben kell tartani, a hiánypótlási felhívást a rangsorban megelőző kérelem elbírálásának napjától, illetve a tulajdonjog-bejegyzési engedély benyújtásának napjától számított tizenöt napon belül kell kiadni.
+39. § (1) A hiány pótlására rendelkezésre álló határidő indokolt esetben kérelemre egy alkalommal nyolc nappal meghosszabbítható. A meghosszabbított hiánypótlási határidő számítása az eredeti határidő lejártát követő nappal kezdődik.
 
 (2) Ha az ingatlanügyi hatóság megítélése szerint a kérelmet részben el kell utasítani, a kérelmezőt nyilatkozattételre kell felhívni, hogy a kérelmet teljesíthető részében fenntartja-e.
 
@@ -30,7 +30,7 @@ i)
 
 (3b) Nem vonatkozik a (3) bekezdés a) pontjában foglalt rendelkezés arra az esetre, ha a benyújtott okirat tartalmát a felmérési, térképezési és területszámítási hiba kijavítása iránti eljárás eredményeként az ingatlan adataiban bekövetkezett változásra tekintettel kellene módosítani.
 
-(4) A hiány pótlására való felhívás és érdemi vizsgálat nélkül végzéssel kell elutasítani a bejegyzés iránti kérelmet akkor is, ha
+(4) A hiány pótlására való felhívás nélkül vissza kell utasítani a bejegyzés iránti kérelmet akkor ha
 
 a) a kérelem vagy a benyújtott okirat, illetve azok együttes tartalma érthetetlen, ellentmondó, vagy a kérelem nem tartalmazza a kérelmező nevét, lakcímét (székhelyét), az érintett ingatlan helyrajzi számának és annak a jognak, ténynek vagy adatnak a megjelölését, amelynek bejegyzését, feljegyzését, törlését illetőleg átvezetését kérik,
 
@@ -42,7 +42,7 @@ d) a bejegyzési kérelmet arra nem jogosult nyújtotta be,
 
 e) a kérelemhez a bejegyzés alapjául szolgáló okiratot, vagy föld tulajdonjogának felszámolási, illetve önkormányzati adósságrendezési eljárás során történő megszerzése esetén az árverési jegyzőkönyvet nem csatolták,
 
-f) a bejegyzés alapjául szolgáló okirathoz az ingatlan-nyilvántartási eljárás megindításához szükséges nyomtatvány kérelmet nem csatolták,
+f) a bejegyzés alapjául szolgáló okirathoz az ingatlan-nyilvántartási eljárás megindításához szükséges formanyomtatvány kérelmet nem csatolták,
 
 g) a föld tulajdonjogának megszerzésére irányuló szerződésen, vagy a föld tulajdonjogának felszámolási, illetve önkormányzati adósságrendezési eljárás során történő szerzése esetén az árverési jegyzőkönyvön a mezőgazdasági igazgatási szerv törvényben előírt jóváhagyásáról szóló záradék nem szerepel.
 

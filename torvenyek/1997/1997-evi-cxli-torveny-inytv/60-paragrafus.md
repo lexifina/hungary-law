@@ -1,7 +1,7 @@
-60. § (1) A bírósági eljárásra – az e törvényben foglalt eltérésekkel – a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének szabályai az irányadók. A bíróság az ingatlanügyi hatóság határozatát megváltoztathatja.
+60. § (1)
 
-(2) Az ingatlanügyi hatóság döntésének bírósági felülvizsgálata során hozott határozat hatálya a megtámadott bejegyzésen alapuló további bejegyzésre is kiterjed.
+(2) Az ingatlanügyi hatóság döntése ellen indított közigazgatási per során hozott határozat hatálya a megtámadott bejegyzésen alapuló további bejegyzésre is kiterjed.
 
-(3) A bejegyzés alapjául szolgáló okiratok hiányosságai a bírósági eljárásban nem pótolhatók.
+(3) A bejegyzés alapjául szolgáló okiratok hiányosságai a közigazgatási per során nem pótolhatók.
 
 (4) A jogerős bírósági határozatot az első fokú bíróság az ingatlanügyi hatósági eljárás irataival együtt megküldi az ingatlanügyi hatóságnak.

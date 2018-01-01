@@ -32,6 +32,8 @@ lb) tulajdonjogának hatósági jóváhagyáshoz nem kötött szerzése esetén 
 
 a mezőgazdasági igazgatási szervnek.
 
+(1a) A tulajdonjog bejegyzéséről szóló határozatot kézbesíteni kell a jelzálogjog (önálló zálogjog, átalakításos önálló zálogjog) és az alzálogjog jogosultjának is.
+
 (2) Az elutasító határozatot kézbesíteni kell
 
 a) a kérelmezőnek az eredeti aláírással ellátott okirat egy példányával együtt,
@@ -54,6 +56,8 @@ a) az ügyfélnek az elsőfokú eljárást lezáró döntés meghozataláig elő
 
 b) tulajdoni hányadot érintő tulajdonjog-bejegyzés esetén a nem fellebbező tulajdonostársat
 
-tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem vált jogerőssé, illetve arról, hogy a fellebbezést valamennyi fellebbező ügyfél visszavonta.
+tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem vált véglegessé, illetve arról, hogy a fellebbezést valamennyi fellebbező ügyfél visszavonta.
 
 (8) Nem kell a (7) bekezdés b) pontját alkalmazni abban az esetben, ha az elővásárlási jog jogosultjával a tulajdonjog megszerzésére irányuló szerződést, vételi ajánlatot kizárólag a külön jogszabályban meghatározott hirdetményi úton kell közölni.
+
+(9) Az ingatlan-nyilvántartási eljárásban a döntés szóban történő közlése kizárt.
