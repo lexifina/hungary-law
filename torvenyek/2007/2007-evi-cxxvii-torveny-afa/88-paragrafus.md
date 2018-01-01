@@ -1,6 +1,6 @@
 ## Adókötelessé tétel
 
-88. § (1) A 86. § (1) bekezdésétől eltérően a belföldön nyilvántartásba vett adóalany az állami adóhatóságnak tett előzetes bejelentése alapján dönthet úgy is, hogy
+88. § (1) A 86. § (1) bekezdésétől eltérően a belföldön nyilvántartásba vett adóalany az állami adó- és vámhatóságnak tett bejelentése alapján dönthet úgy is, hogy
 
 a) a 86. § (1) bekezdésének j) és k) pontjában említett termékértékesítését, illetőleg
 
@@ -15,3 +15,5 @@ adókötelessé teszi.
 (4) A belföldön nyilvántartásba vett adóalany dönthet úgy is, hogy választási jogát az (1) bekezdés a) és b) pontja tekintetében külön-külön vagy együttesen csak a lakóingatlannak nem minősülő ingatlanokra kiterjedően gyakorolja.
 
 (5) Az az adóalany, aki (amely) élt az (1) bekezdésben említett választási jogával, attól a választása évét követő ötödik naptári év végéig nem térhet el.
+
+(6) Az adóalany döntését a tárgyévet megelőző év utolsó napjáig jelenti be. Amennyiben az adóalany az (1) bekezdés a), illetve b) pontja alá tartozó tevékenységet a tárgyévben kezdi meg, döntését tevékenysége megkezdését megelőzően jelenti be.

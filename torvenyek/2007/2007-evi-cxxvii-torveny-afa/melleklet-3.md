@@ -160,11 +160,15 @@ Braille-tábla fémből
 
 |
 
-Braille-írógép vakoknak
+Braille-írógép, Braille-nyomtató, Braille-kijelző vakoknak
 
 |
 
 8469 30-ból
+
+8443-ból
+
+8543-ból
 
 |
 
@@ -712,6 +716,60 @@ Tej (kivéve az anyatejet, az ultramagas hőmérsékleten hőkezelt tejet és az
 
 0401 20-ból
 
+|
+
+55.
+
+|
+
+Emberi fogyasztásra alkalmas élő hal, a díszhal kivételével
+
+|
+
+0301-ből
+
+|
+
+56.
+
+|
+
+Emberi fogyasztásra alkalmas hal (ideértve a halbőrt, ikrát, haltejet, halmájat és egyéb belsőségeket is) frissen, hűtve vagy fagyasztva, a cápa kivételével
+
+|
+
+0302-ből
+
+0303-ból
+
+|
+
+57.
+
+|
+
+Emberi fogyasztásra alkalmas halfilé és más halhús (aprított is) frissen, hűtve vagy fagyasztva, a cápahús kivételével
+
+|
+
+0304-ből
+
+|
+
+58.
+
+|
+
+Házi sertés élelmezési célra alkalmas vágási mellékterméke és belsősége, frissen, hűtve vagy fagyasztva
+
+|
+
+0206 30-ból
+
+0206 41-ből
+
+0206 49-ből
+
 I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
 |
@@ -985,3 +1043,21 @@ a) vendéglátás keretében, üzletben,
 b) nem nyilvánosan meghirdetett családi esemény, baráti rendezvény keretében, zárt körben, vagy
 
 c) belépődíj nélkül tartott, a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet hatálya alá nem tartozó, közösségi rendezvényeken nyújtott hangszeres élőzenei szolgáltatás.
+
+|
+
+3.
+
+|
+
+Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom
+
+(SZJ 55.30.1-ből)
+
+|
+
+4.
+
+|
+
+Internet-hozzáférési szolgáltatás

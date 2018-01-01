@@ -1,0 +1,1 @@
+308. § A 3. számú melléklet II. részének a Mód6 törvénnyel megállapított 3. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2018. január 1-jére vagy azt követő időpontra esik.

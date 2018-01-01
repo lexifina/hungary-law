@@ -34,7 +34,7 @@ a) igazolja, hogy az (1) bekezdés b) pontjában meghatározott feltétel teljes
 
 b) eleget tesz az (1) bekezdés a) pontjához fűződő,
 
-ba) Art. szerinti összesítőnyilatkozat-tételi kötelezettségnek, vagy
+ba) a 4/A. számú melléklet I. pont szerinti összesítőnyilatkozat-tételi kötelezettségnek, vagy
 
 bb) bevallási kötelezettségnek [184. §], ha a ba) alpontban említett kötelezettség a (3) bekezdésben meghatározott határidő lejártát követő 15. naphoz képest később válik esedékessé, vagy
 

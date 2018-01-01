@@ -17,3 +17,5 @@ c) bevallásában és összesítő nyilatkozatában az ügyletre vonatkozó adat
 (4) A 95. § (6) és (10) bekezdésében említett esetekben a közvetett vámjogi képviselő az importálóval együtt egyetemlegesen felelős az adó megfizetéséért.
 
 (5) Az importáló és közvetett vámjogi képviselője közötti megbízási szerződés megszűnése vagy a meghatalmazás visszavonása nem érinti a közvetett vámjogi képviselő (4) bekezdés szerinti felelősségét az adó megfizetéséért, ha a megszűnés azt követően következik be, miután a meghatalmazást a (2) bekezdés szerint a vámhatóságnak benyújtották.
+
+(6) A közvetett vámjogi képviselő az (1) bekezdés szerinti tevékenységét annak megkezdésével egyidejűleg jelenti be az állami adó- és vámhatóságnak.

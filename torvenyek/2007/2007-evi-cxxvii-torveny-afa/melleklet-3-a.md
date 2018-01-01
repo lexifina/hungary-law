@@ -128,14 +128,8 @@ rendezvényre történő, kizárólag belépést biztosító szolgáltatás.
 
 |
 
-Internet-hozzáférési szolgáltatás
-
 |
 
 4.
 
 |
-
-Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom
-
-(SZJ 55.30.1-ből)

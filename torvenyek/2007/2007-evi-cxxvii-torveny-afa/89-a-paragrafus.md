@@ -6,7 +6,7 @@
 
 (2) Az (1) bekezdésben említett meghatalmazást a termék kiraktározásának indítványozásakor a kiraktározási okmánnyal együtt kell az adóraktár felügyeletét ellátó vámszervhez benyújtani.
 
-(3) Érvényes meghatalmazás alapján a 89. § (1) bekezdés szerinti adómentesség érvényesítéséhez fűződő feltételeket az adóraktár üzemeltetője teljesíti azzal, hogy az e törvényben és az Art.-ben meghatározott kötelezettségnek saját nevében úgy tesz eleget, hogy
+(3) Érvényes meghatalmazás alapján a 89. § (1) bekezdés szerinti adómentesség érvényesítéséhez fűződő feltételeket az adóraktár üzemeltetője teljesíti azzal, hogy az e törvényben és az adózás rendjéről szóló törvényben (a továbbiakban: Art.) meghatározott kötelezettségnek saját nevében úgy tesz eleget, hogy
 
 1. az ügylet teljesítését tanúsító számlát, mint az adófizetésre kötelezett meghatalmazottja bocsátja ki;
 
@@ -15,3 +15,5 @@
 3. bevallásában és összesítő nyilatkozatában az ügyletre vonatkozó adatokat a saját adataihoz képest elkülönítetten közli.
 
 (4) Az adófizetésre kötelezett adóalany és az adóraktár üzemeltetője közötti meghatalmazás visszavonása nem érinti az adóraktár üzemeltetőjének a 4. számú melléklet 19. pontja szerinti adóbiztosíték-nyújtási kötelezettségét, ha a megszűnés azt követően következik be, hogy a meghatalmazást a (2) bekezdés szerint az adóraktár felügyeletét ellátó vámszervhez benyújtották.
+
+(5) Az adóraktár üzemeltetője az (1) bekezdés szerinti tevékenységét annak megkezdésével egyidejűleg jelenti be az állami adó- és vámhatóságnak.

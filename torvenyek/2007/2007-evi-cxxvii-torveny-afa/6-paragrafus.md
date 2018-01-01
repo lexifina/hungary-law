@@ -14,7 +14,7 @@ b) egyébként nem adóalanyi minőségben eljáró személy, szervezet beépít
 
 ba) annak első rendeltetésszerű használatbavétele még nem történt meg, vagy
 
-bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év
+bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély véglegessé válása, vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év
 
 [a ba) és bb) alpont a továbbiakban együtt: beépítés alatt álló vagy beépített új ingatlan];
 

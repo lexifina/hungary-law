@@ -1,0 +1,1 @@
+257/E. § Amennyiben az adóalany az e törvény szerinti bejelentését az e törvényben előírt feltételek hiánya miatt nem tehette volna meg, bejelentését az előző naptári évről vagy annak utolsó hónapjáról, negyedévéről adott bevallásával egyidejűleg, a naptári év első napjára visszamenően módosíthatja.

@@ -62,7 +62,7 @@ b) igazolt utolsó értékesítője lehet, aki (amely) azt a 113. § szerint ér
 
 c) azon utolsó beszerzője lehet, aki (amely) részére a terméket a b) pont szerinti igazolt utolsó értékesítő értékesítette.
 
-19. A kiraktározás indítványozásának feltétele, hogy a kiraktározó a kiraktározandó termék után adóbiztosítékot nyújtson. Abban az esetben, ha a kiraktározó képviseletére pénzügyi képviselőt bíz meg, a kiraktározó helyett a pénzügyi képviselő is nyújthatja saját nevében az adóbiztosítékot. Abban az esetben, ha a kiraktározó az adóraktár üzemeltetőjét hatalmazza meg a 89/A. § szerint, a kiraktározó helyett az adóraktár üzemeltetője nyújtja a saját nevében az adóbiztosítékot. Mentesül az adóbiztosíték nyújtása alól az a kiraktározó, illetve az a pénzügyi képviselő, aki (amely) az Art. rendelkezései szerint egyúttal minősített adózó is.
+19. A kiraktározás indítványozásának feltétele, hogy a kiraktározó a kiraktározandó termék után adóbiztosítékot nyújtson. Abban az esetben, ha a kiraktározó képviseletére pénzügyi képviselőt bíz meg, a kiraktározó helyett a pénzügyi képviselő is nyújthatja saját nevében az adóbiztosítékot. Abban az esetben, ha a kiraktározó az adóraktár üzemeltetőjét hatalmazza meg a 89/A. § szerint, a kiraktározó helyett az adóraktár üzemeltetője nyújtja a saját nevében az adóbiztosítékot. Mentesül az adóbiztosíték nyújtása alól az a kiraktározó, illetve az a pénzügyi képviselő, aki (amely) az Art. rendelkezései szerint egyúttal megbízható adózó is.
 
 20. A kiraktározást maga a kiraktározó, illetőleg a nevében és képviseletében eljáró meghatalmazottja indítványozhatja.
 

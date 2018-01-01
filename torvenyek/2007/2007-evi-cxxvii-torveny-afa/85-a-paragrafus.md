@@ -48,4 +48,4 @@ b) bemutatni azt a nyilvántartási rendszert, amely mind a maga, mind az együt
 
 c) nyilatkozni mind a maga nevében, mind az együttműködő közösség tagjai nevében és képviseletében arról, hogy teljesítik az együttműködő közösség időszakában az (1), (3) és (4) bekezdést.
 
-(9) A (8) bekezdésben meghatározott kötelezettségek teljesítésére – ideértve az együttműködő közösség megszüntetését is – az az adózás rendjéről szóló törvény (a továbbiakban: Art.) változásbejelentésre vonatkozó rendelkezéseit kell alkalmazni.
+(9) A (8) bekezdésben meghatározott kötelezettségek teljesítésére – ideértve az együttműködő közösség megszüntetését is – az az adóigazgatási eljárás részletszabályairól szóló kormányrendelet (a továbbiakban: Adóig. vhr.) változásbejelentésre vonatkozó rendelkezéseit kell alkalmazni.

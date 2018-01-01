@@ -21,3 +21,5 @@ a) él az (1) bekezdésben említett választási jogával, illetőleg
 b) jogállása a (2) bekezdés szerint megszűnik,
 
 a választás, illetőleg a megszűnés évét követő második naptári év végéig az adóalanyt nem illeti meg az e fejezetben szabályozott jogállás.
+
+(4) Az adóalany e fejezet szerinti jogállásának megváltoztatásáról előzetesen az Adóig. vhr. változásbejelentésre vonatkozó szabályai szerint, a megszűnéséről a tárgyévet megelőző naptári év utolsó napjáig nyilatkozik az állami adó- és vámhatóságnak.

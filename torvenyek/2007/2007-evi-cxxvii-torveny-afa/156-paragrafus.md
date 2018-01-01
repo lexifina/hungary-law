@@ -30,9 +30,9 @@ kell vizsgálni.
 
 (4) A (2) bekezdésben meghatározott feltételek teljesülését az engedély iránti kérelemben kell igazolni. Abban az esetben, ha az engedély megszerzéséhez szükséges feltételek közül a kérelmező a (2) bekezdés b) pontjának teljesülését igazolja, a kérelmet legkésőbb a (2) bekezdés b) pontjában említett naptári évet követő év szeptember 30. napjáig kell benyújtani.
 
-(5) A (2) bekezdés b) pontját érintően tett önellenőrzés vagy utólagos adómegállapítás – ide nem értve a kérelem benyújtásáig beadott önellenőrzést, illetőleg az addig az időpontig jogerőre emelkedett utólagos adómegállapítást – az elbírált kérelmet nem érinti.
+(5) A (2) bekezdés b) pontját érintően tett önellenőrzés vagy utólagos adómegállapítás – ide nem értve a kérelem benyújtásáig beadott önellenőrzést, illetőleg az addig az időpontig véglegessé vált utólagos adómegállapítást – az elbírált kérelmet nem érinti.
 
-(6) Az engedélyes az adó önadózással történő megállapítására az engedélyező határozat jogerőre emelkedésének napjától
+(6) Az engedélyes az adó önadózással történő megállapítására az engedélyező határozat véglegessé válásának napjától
 
 a) számított 12 hónapig jogosult, ha jogosultságát a (2) bekezdésben meghatározott feltételek közül – az a) pont mellett – a b) pont teljesülésére alapítja;
 
