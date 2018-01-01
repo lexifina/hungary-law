@@ -22,6 +22,6 @@ i) az elvétel oka,
 
 j) az ellenőrző hatóság tagjának „AETR Control Hungary” bélyegzőlenyomata és aláírása.
 
-(3) A menetíró készülék, illetve annak rendeltetésszerű működését befolyásoló eszközök szabálytalan működésére utaló körülmények esetén – a szabálysértési eljárás kezdeményezése érdekében – azokról fénykép- vagy videófelvételt kell készíteni. Az eljárásra a szabálysértésekről szóló törvény[^7] rendelkezése az irányadó.
+(3) A menetíró készülék, illetve annak rendeltetésszerű működését befolyásoló eszközök szabálytalan működésére utaló körülmények esetén – a szabálysértési eljárás kezdeményezése érdekében – azokról fénykép- vagy videófelvételt kell készíteni. Az eljárásra a szabálysértésekről szóló törvény[^8] rendelkezése az irányadó.
 
-[^7]: A szabálysértésekről szóló 1999. évi LXIX. törvény.
+[^8]: A szabálysértésekről szóló 1999. évi LXIX. törvény.

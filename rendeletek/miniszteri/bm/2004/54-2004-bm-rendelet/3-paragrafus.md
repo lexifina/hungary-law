@@ -18,6 +18,6 @@ h) indokolt esetben a menetíró készülék által a jármű megelőző, legfel
 
 i) az AETR Megállapodásban, illetve a 3820/85/EGK rendeletben meghatározott különleges szállítási feltételek meglétére.
 
-(2)[^6] Az (1) bekezdésben meghatározott ellenőrzések közül az AETR Megállapodásban foglaltakat az ahhoz csatlakozott szerződő félnek az EGT-államban vagy a harmadik ország egyikében bejegyzett járművel történő szállítás esetében a teljes útra, az AETR Megállapodásban nem szerződő fél esetében az EGT-államokon belül megtett útra vonatkozóan kell alkalmazni.
+(2)[^7] Az (1) bekezdésben meghatározott ellenőrzések közül az AETR Megállapodásban foglaltakat az ahhoz csatlakozott szerződő félnek az EGT-államban vagy a harmadik ország egyikében bejegyzett járművel történő szállítás esetében a teljes útra, az AETR Megállapodásban nem szerződő fél esetében az EGT-államokon belül megtett útra vonatkozóan kell alkalmazni.
 
-[^6]: A 3. § (2) bekezdése a 25/2007. (V. 31.) IRM rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. § (2) bekezdése a 25/2007. (V. 31.) IRM rendelet 29. § (2) bekezdésével megállapított szöveg.
