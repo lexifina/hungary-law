@@ -1,27 +1,3 @@
-## Az építésfelügyelői igazolvány mintája
-
-## Előlap:
-
-| CÍMER HELYE | MAGYAR HONVÉDSÉG ÉPÍTÉSFELÜGYELŐI IGAZOLVÁNY A □ □ □ □ □ □ □  számú szolgálati/kormánytisztviselői igazolvánnyal együtt érvényes |
-
-| FÉNYKÉP HELYE | Név Rendfokozat MH építésfelügyelő |
-
-|  | Aláírás helye |  |
-
-|  | Sorszám helye |  |
-
-## Hátlap:
-
-| Kiállítás dátuma: |  |  |
-
-| Érvényesség ideje: |  |  |
-
-| Az igazolvány felmutatója jogosult az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény, valamint a honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló kormányrendelet hatálya alá tartozó építőipari kivitelezési munkákkal kapcsolatban – a vonatkozó építésfelügyeleti jogszabályokban meghatározott feltételekkel, külön engedély és előzetes bejelentés nélkül – építésfelügyeleti helyszíni ellenőrzést végrehajtani. |
-
-| Kiállító szervezet: |
-
-| Az igazolvány a Magyar Honvédség tulajdona, megtalálója köteles azt a kiállító – címére ................ – visszajuttatni. |
-
 2. melléklet a 195/2009. (IX. 15.) Korm. rendelethez
 
 ## Az építőipari kivitelezési tevékenység megkezdésére, illetve az adatok változására vonatkozó bejelentés adattartalma
@@ -34,7 +10,7 @@
 
 4. az építtető adatai (megnevezése, címe, a kapcsolattartó neve és elérhetősége),
 
-5. az építésügyi hatósági engedély száma, kelte, jogerőssé válása,
+5.[^20] az építésügyi hatósági engedély száma, kelte, véglegessé válása,
 
 6. a kivitelezési tevékenység kezdete, illetve tervezett befejezése,
 
@@ -55,3 +31,5 @@
 14. a bejelentés kelte,
 
 15. a bejelentő neve és (cégszerű) aláírása.
+
+[^20]: A 2. melléklet 5. pontja a 457/2017. (XII. 28.) Korm. rendelet 260. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

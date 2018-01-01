@@ -8,7 +8,7 @@
 
 3. az építtető adatai (megnevezése, címe),
 
-4. az építésügyi hatósági engedély száma, kelte, jogerőssé válása, ennek hiányában e tény rögzítése,
+4.[^21] az építésügyi hatósági engedély száma, kelte, véglegessé válása, ennek hiányában e tény rögzítése,
 
 5. a beruházáslebonyolító adatai (megnevezése, címe, a cégbírósági bejegyzés száma),
 
@@ -19,3 +19,5 @@
 8. az építési műszaki ellenőrök adatai szakágak szerint (szakág megnevezése, név, cím, névjegyzéki szám),
 
 9. az építésügyi hatósági engedély tárgya (rövid leírás).
+
+[^21]: A 3. melléklet 4. pontja a 457/2017. (XII. 28.) Korm. rendelet 260. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

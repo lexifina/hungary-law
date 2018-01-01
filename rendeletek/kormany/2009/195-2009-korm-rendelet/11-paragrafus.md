@@ -1,5 +1,12 @@
-11. § (1) Az építésfelügyeleti ellenőrzés lefolytatása során feltárt, a katonai építésfelügyeleti hatóság hatáskörébe nem tartozó szabálytalanságokat is jegyzőkönyvben kell rögzíteni. A jegyzőkönyv másolatát és az egyéb bizonyítékokat meg kell küldeni a hatáskörrel és illetékességgel rendelkező hatóságnak.
+## 10. §[^11]
 
-(2) A katonai építésfelügyeleti hatóság a 7. § szerinti ellenőrzést az építmény használatbavételi engedélyének jogerőssé válásáig indíthat.
+11. § (1)[^12] Az építésfelügyeleti ellenőrzés lefolytatása során feltárt, a katonai építésfelügyeleti hatóság hatáskörébe nem tartozó szabálytalanságokat is jegyzőkönyvben kell rögzíteni. A katonai építésügyi hatóság a jegyzőkönyv másolatának és az egyéb bizonyítékok megküldésével kezdeményezi a hatáskörrel és illetékességgel rendelkező hatóság eljárását.
 
-(3) A katonai építésfelügyeleti hatósági eljárással kapcsolatban újrafelvételi kérelem nem nyújtható be.
+(2)[^13] A katonai építésfelügyeleti hatóság a 7. § szerinti ellenőrzést az építmény használatbavételi engedélyének véglegessé válásáig indíthat.
+
+(3)[^14]
+
+[^11]: A 10. §-t a 457/2017. (XII. 28.) Korm. rendelet 261. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 11. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 260. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: A 11. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 260. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^14]: A 11. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 261. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
