@@ -408,6 +408,6 @@
 
 ## Soproni Zsivány-barlang
 
-3. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^104]
+3. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^87]
 
-[^104]: A 3.számú melléklet a 148/2011. (XII. 29.) VM rendelet 3. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
+[^87]: A 3.számú melléklet a 148/2011. (XII. 29.) VM rendelet 3. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
