@@ -1,4 +1,4 @@
-## 9–10. §[^1]
+## 9–10. §[^5]
 
 1. melléklet a 336/2016. (XI. 11.) Korm. rendelethez
 
@@ -42,4 +42,4 @@
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^1]: A 9–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 9–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

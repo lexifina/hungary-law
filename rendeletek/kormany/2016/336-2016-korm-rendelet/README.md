@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-336-20-
 | --- | --- | --- |
 | 2016-11-12 | 2016-336-20-22.1 | 336/2016. (XI. 11.) Korm. rendelet |
 | 2016-11-13 | 2016-336-20-22.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2016-336-20-22.3 | 458/2017. (XII. 28.) Korm. rendelet |
