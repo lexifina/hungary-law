@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-181-20-
 | 2016-07-02 | 2016-181-20-22.1 | 181/2016. (VII. 1.) Korm. rendelet |
 | 2016-07-03 | 2016-181-20-22.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-181-20-22.3 | 380/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2016-181-20-22.4 | 458/2017. (XII. 28.) Korm. rendelet |
