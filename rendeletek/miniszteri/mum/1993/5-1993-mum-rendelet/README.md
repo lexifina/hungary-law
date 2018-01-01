@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-5-20-39
 | 2016-01-01 | 1993-5-20-39.20 | 35/2015. (XII. 23.) NGM rendelet |
 | 2016-09-23 | 1993-5-20-39.21 | 33/2016. (IX. 8.) NGM rendelet |
 | 2017-01-01 | 1993-5-20-39.22 | 3/2012. (II. 10.) NGM rendelet |
+| 2018-01-01 | 1993-5-20-39.23 | 5/2010. (III. 9.) SZMM rendelet |

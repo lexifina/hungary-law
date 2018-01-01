@@ -244,15 +244,15 @@ e) 1000 munkavállaló felett.
 
 3. Az 1. és 2. pontban leírt szempontok alapján besorolt munkáltató – a 4–5. pontokban meghatározott eltérés figyelembevételével – legalább az alábbiakban meghatározott létszámú és munkavédelmi szakképesítésű személyt köteles, minimálisan az e pontban megállapított munkaidőtartamot kitöltő, munkavédelmi tevékenységre foglalkoztatni:
 
-I/a) egy fő középfokú munkavédelmi szakképesítésű heti két órára,
+I/a) egy fő középfokú munkavédelmi szakképesítésű heti négy órára,
 
-I/b) egy fő középfokú munkavédelmi szakképesítésű napi két órára,
+I/b) egy fő középfokú munkavédelmi szakképesítésű napi három órára,
 
-I/c) egy fő középfokú munkavédelmi szakképesítésű napi négy órára,
+I/c) egy fő középfokú munkavédelmi szakképesítésű napi hat órára,
 
 I/d) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel,
 
-I/e) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel és minden megkezdett 600 munkavállaló után további egy-egy fő középfokú munkavédelmi szakképesítésű teljes munkaidővel,
+I/e) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel és minden megkezdett 400 munkavállaló után további egy-egy fő középfokú munkavédelmi szakképesítésű teljes munkaidővel,
 
 II/a) egy fő középfokú munkavédelmi szakképesítésű heti egy órára,
 
@@ -292,4 +292,4 @@ Tanulókat, hallgatókat abban az arányban kell a munkavállalói létszámhoz 
 
 7. A munkáltató köteles a besorolását veszélyességi osztály vagy létszám kategória megváltozásakor módosítani és a besorolás megfelelősségét évenként felülvizsgálni, valamint mindezt írásban dokumentálni.
 
-[^36]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése, a 33/2016. (IX. 8.) NGM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^36]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése, a 33/2016. (IX. 8.) NGM rendelet 2. § (1) bekezdése, a 62/2016. (XII. 29.) NGM rendelet 45. § (3) bekezdése szerint módosított szöveg.
