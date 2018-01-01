@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-69-20-2
 | --- | --- | --- |
 | 2017-01-01 | 2016-69-20-2W.1 | 69/2016. (XII. 29.) NFM rendelet |
 | 2017-01-02 | 2016-69-20-2W.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2016-69-20-2W.3 | 52/2017. (XII. 22.) NFM rendelet |

@@ -1,3 +1,5 @@
+## 13–20. §
+
 ## 5. Vegyes rendelkezések
 
 21. § (1) Az egyetemes szolgáltató a gázellátásba bekapcsolt településeken a mérési időszakra meghatározott átlagos fűtőértéket köteles rendszeresen honlapján és az ügyfélszolgálatán közzétenni.

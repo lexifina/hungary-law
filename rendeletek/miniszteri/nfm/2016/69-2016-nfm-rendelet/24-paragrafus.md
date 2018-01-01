@@ -4,8 +4,9 @@
 
 24. § (1) Ez a rendelet 2017. január 1-jén lép hatályba.
 
-(2) A fővárosi és megyei kormányhivatalok által 2016. december 31-ig kiadott határozatban foglalt kedvezmény a jogosultság fennállásának időtartamára megilleti a jogosultat. A 2016. december 31-én folyamatban lévő ügyekben a járási hivatalok járnak el.
+(2)[^7]
 
-(3)[^1]
+(3)[^8]
 
-[^1]: A 24. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 24. § (2) bekezdését az 52/2017. (XII. 22.) NFM rendelet 39. § e) pontja hatályon kívül helyezte.
+[^8]: A 24. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

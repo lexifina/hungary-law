@@ -12,12 +12,10 @@ d) gázdíj: az a díj, melyet a felhasználó az átvett földgázért a hőmen
 
 e) gáztechnikai normálállapot: a földgáz olyan állapota, amikor a földgáz abszolút nyomása 101,325 kPa, a termodinamikai hőmérséklete 288,15 K,
 
-f) háztartás: az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező személyek összessége,
-
-g) jogosult: olyan egyetemes szolgáltatási szerződéssel rendelkező lakossági fogyasztó, aki a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti legalább három gyermek után, illetve figyelembevételével részesül családi pótlékban, vagy az e szerint családi pótlékban részesülő személlyel egy háztartásban él,
-
-h) nagycsaládos kedvezmény: a jogosult részére e rendelet szerint határozatban megállapított kedvezmény,
+f)–h)[^2]
 
 i) szerződési időszak: a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 3. § 36. pontja szerinti gázév.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a GET, valamint a felhatalmazása alapján kiadott jogszabályok szerint kell értelmezni.
+
+[^2]: A 2. § (1) bekezdés f)–h) pontját az 52/2017. (XII. 22.) NFM rendelet 39. § a) pontja hatályon kívül helyezte.
