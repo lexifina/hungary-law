@@ -1,0 +1,1 @@
+A fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény 10. § (2) és (3) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
