@@ -1,1 +1,0 @@
-16. § A hiányzó választottbíró kijelölése során figyelemmel kell lenni a felek megállapodásában a választottbírótól megkívánt szakképzettségre és minden olyan szempontra, amely nagy valószínűséggel biztosítja független és pártatlan választottbíró kijelölését.

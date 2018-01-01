@@ -1,1 +1,0 @@
-60. § Az a fél, aki a választottbíróság ítéletére hivatkozik vagy annak végrehajtása iránt kérelmet nyújt be, köteles annak eredeti példányát vagy hitelesített másolatát csatolni. Ha az ítélet nem magyar nyelvű, a fél köteles magyar nyelvű hitelesített fordítást is mellékelni.

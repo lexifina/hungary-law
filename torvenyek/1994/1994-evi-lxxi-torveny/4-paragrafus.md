@@ -1,1 +1,0 @@
-4. § Nincs helye választottbírósági eljárásnak a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XV–XXIII., és XXV. fejezetében szabályozott eljárásokban, továbbá olyan ügyekben, amelyekben törvény a jogvita választottbírósági eljárás keretében történő rendezését kizárja.

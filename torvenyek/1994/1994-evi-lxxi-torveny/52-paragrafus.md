@@ -1,1 +1,0 @@
-52. § A választottbírósági eljárással kapcsolatos ügyekben az a törvényszék illetékes, amelynek területén az alperes székhelye (telephelye) található, vagy amelynek területén a jogvitához vezető szerződéskötés történt. Ha az illetékes bíróság ily módon nem állapítható meg, a Fővárosi Törvényszék jár el.
