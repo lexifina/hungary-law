@@ -16,6 +16,6 @@
 
 (7) A (4) bekezdés alapján készletként nyilvántartott nemesfém kivételével a jegybanki célú nemesfémkészleteket devizaként kell elszámolni, azzal az eltéréssel, hogy az árfolyamváltozásból származó átértékelési különbözetet elkülönítve kell kimutatni.
 
-(8)[^58] A 2. § 19. pontja szerinti pénzbevonási nyereséget az egyéb bevételek között kell elszámolni.
+(8)[^62] A 2. § 19. pontja szerinti pénzbevonási nyereséget az egyéb bevételek között kell elszámolni.
 
-[^58]: A 11. § (8) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 5. §-a iktatta be.
+[^62]: A 11. § (8) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 5. §-a iktatta be.

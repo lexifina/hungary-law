@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-221-20-
 | 2015-04-01 | 2000-221-20-22.12 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2016-01-01 | 2000-221-20-22.13 | 484/2015. (XII. 29.) Korm. rendelet |
 | 2017-01-01 | 2000-221-20-22.14 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2018-01-01 | 2000-221-20-22.15 | 445/2017. (XII. 27.) Korm. rendelet |
