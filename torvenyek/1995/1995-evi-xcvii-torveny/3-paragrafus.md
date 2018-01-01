@@ -2,17 +2,27 @@
 
 3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EGK tanácsi irányelv, az 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendeletben és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
 
+(1a) Az e §-ban meghatározott eljárások tekintetében sommás eljárásnak nincs helye.
+
+(1b) Ha a légiközlekedési hatóság által kiadott engedéllyel vagy tanúsítással kapcsolatos hivatalbóli eljárásban az ügyfél a hatóság erre irányuló felhívása ellenére – a hatóság által előírt határidőn belül – adatszolgáltatási kötelezettségét nem teljesíti, a hatóság az engedélyt vagy tanúsítást felfüggesztheti az adatszolgáltatási kötelezettség teljesítéséig. Ha a légiközlekedési hatóság által kiadott engedéllyel vagy tanúsítással kapcsolatos hivatalbóli eljárásban az ügyfél más tudomása ellenére az ügy szempontjából jelentős adatot valótlanul állít, a hatóság – az általános közigazgatási rendtartásról szóló törvényben foglalt jogkövetkezmények alkalmazásán túl – az engedélyt vagy tanúsítást egytől három évig terjedő időtartamra felfüggesztheti. Az ügyfél mindkét esetben a felfüggesztett engedélyt vagy tanúsítást köteles a hatóság számára visszaszolgáltatni.
+
+(1c) A légiközlekedési hatóság eljárásaiban hiánypótlásra felhívásnak többször is helye van.
+
+(1d) A légiközlekedési hatóság eljárásaiban hozott döntés akkor is módosítható vagy visszavonható, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
+
+(1e) Az ügyfél az adatok megjelölésével kérheti az iratbetekintési jog korlátozását üzleti és más méltányolható magánérdekének védelmében. A hatóság a kérelemnek – a körülmények körültekintő mérlegelése alapján – akkor ad helyt, ha az adatok megismerésének hiánya az iratbetekintésre jogosultakat nem akadályozza jogaik gyakorlásában. Ha a hatóság hivatalból nem tudja megállapítani, hogy az iratbetekintési kérelem benyújtásakor az iratbetekintés korlátozásának az okai fennállnak-e, az üzleti és más méltányolható magánérdek alapján védelemre jogosultat nyilatkozattételre hívja fel. Az iratbetekintés nem tagadható meg, ha a jogosult határidőben nem nyilatkozik.
+
 (2) Az állami célú légiközlekedéssel összefüggő hatósági feladatokat katonai légügyi hatóság látja el.
 
-(2a) A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő 45 nap.
+(2a) A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő 55 nap.
 
-(2b) Az ügyintézési határidő 70 nap a következő közigazgatási hatósági eljárásokban:
+(2b) Az ügyintézési határidő 90 nap a következő közigazgatási hatósági eljárásokban:
 
-a) légi jármű és légijármű-berendezés karbantartó szervezetek jóváhagyása,
+a) légijármű és légijármű-berendezés karbantartó szervezetek jóváhagyása,
 
-b) légijármű üzembentartási engedély kiadása, módosítása,
+b) légi jármű üzembentartási engedély kiadása, módosítása,
 
-c) az a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU bizottsági rendelet I. melléklet M. rész A. szakasz G. alrész szerinti folyamatos légialkalmasság-irányító szervezet jóváhagyása,
+c) a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU bizottsági rendelet I. melléklet M. rész A. szakasz G. alrész szerinti folyamatos légialkalmasság-irányító szervezet jóváhagyása,
 
 d) Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján lefolytatott eljárás,
 
@@ -22,11 +32,21 @@ f) a polgári légiközlekedés védelmének közös szabályairól és a 2320/2
 
 g) a légiközlekedés-védelmi események kivizsgálása,
 
-h) repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése.
+h) repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése,
 
-(2c) Az ügyintézési határidő 70 nap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
+i) légi járművet és légiközlekedéssel kapcsolatos eszközt tervező és gyártó szervezet tanúsítása,
 
-(2d) Az ügyintézési határidő 4 hónap
+j) repülőtér üzembentartási engedélyének kiadása, módosítása,
+
+k) a légiközlekedés védelmében közreműködő szervezetek védelmi programjának és azon alapuló belső minőségbiztosítási rendszerének és védelmi képzési tervének jóváhagyása,
+
+l) a légiközlekedés-védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének, működtetésének jóváhagyása,
+
+m) repülésbiztonsági szervezet engedélyezése.
+
+(2c) Az ügyintézési határidő 90 nap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
+
+(2d) Az ügyintézési határidő 150 nap
 
 a) a harmadik fél részére történő földi kiszolgálást végzők, valamint a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló,
 
@@ -40,7 +60,19 @@ e) a léginavigációs szolgálatok tanúsítására irányuló hatósági eljá
 
 hatósági eljárásokban.
 
-(2e) Az ügyintézési határidő 45 nap a kereskedelmi repülőtér díjszabályzatának elfogadására, valamint a díjszabályzat módosításának jóváhagyására irányuló hatósági eljárásban.
+(2e) Az ügyintézési határidő 55 nap
+
+a) a kereskedelmi repülőtér díjszabályzatának elfogadására, valamint a díjszabályzat módosításának jóváhagyására irányuló hatósági eljárásban,
+
+b) a légijármű-lajstromozási bizonyítvány kiállítására, módosítására irányuló,
+
+c) a légi járművek típusalkalmassági vizsgálatára irányuló,
+
+d) a repülőtérrend jóváhagyására irányuló,
+
+e) a légitársaság üzletszabályzatának és módosításának jóváhagyására irányuló, valamint
+
+f) légiközlekedés védelmi tiszt kijelölésének jóváhagyására irányuló hatósági eljárásokban.
 
 (2f) Az ügyintézési határidő 70 nap a katonai légügyi hatóság következő közigazgatási hatósági eljárásaiban:
 
@@ -52,7 +84,21 @@ c) az állami repülések céljára szolgáló repülőtér és a közös felhas
 
 d) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölése.
 
-(2g) A (2a) bekezdésben meghatározott eljárásban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(2g) Az ügyintézési határidő 4 hónap a katonai légügyi hatóság légi kutató-mentő tevékenység engedélyezésére vonatkozó közigazgatási hatósági eljárásában.
+
+(2h) A légiközlekedési hatóság hatáskörébe tartozó, szakhatósági állásfoglalást igénylő azon közigazgatási hatósági ügyben, amely nem tartozik a 3. §-ban felsorolt eljárások közé, az ügyintézési határidő 100 nap.
+
+(2i) Nem nyilvános a katonai légügyi hatóság eljárásai során hozott véglegessé vált határozat.
+
+(2j) A katonai légügyi hatóság eljárásaiban 21 napon belül kell az eljárási cselekményt teljesíteni és a végzést meghozni.
+
+(2k) A katonai légügyi hatóság eljárásai során a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(2l) A külföldi állami légi jármű magyar légtérbe való be- és átrepülésének engedélyezésére irányuló eljárásban sommás eljárásnak nincs helye.
+
+(2m) A katonai légügyi hatóság eljárásaiban az ügyfél a kérelemhez 30 napnál régebbi előzetes szakhatósági állásfoglalást nem nyújthat be.
+
+(2n) A katonai légügyi hatóság eljárásának költségeit kérelemre indult eljárás esetén a kérelmező ügyfél viseli.
 
 (3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 

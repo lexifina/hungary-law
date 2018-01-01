@@ -18,9 +18,9 @@ c) a szükséges intézkedések és azok indokolása,
 
 d) a szükséges intézkedések végrehajtásának határideje.
 
-(7) A légiközlekedési hatóság (1)–(4) bekezdésben meghatározott határozata ellen közigazgatási eljárás keretében fellebbezésnek nincs helye, azt felügyeleti eljárásban megváltoztatni vagy megsemmisíteni nem lehet.
+(7)
 
-(8) Az (1)–(4) bekezdésben meghatározott határozat anyagi jogi okból történő módosítása vagy visszavonása, illetve bírósági felülvizsgálat eredményeként történő hatályon kívül helyezése esetén a légiközlekedési hatóság azonos tényállás alapján más ügyekben hozott határozatait – a határozat közlésétől számított egy éven túl is – megfelelően módosítja vagy visszavonja.
+(8) Az (1)–(4) bekezdésben meghatározott határozat anyagi jogi okból történő módosítása vagy visszavonása, illetve közigazgatási per eredményeként történő hatályon kívül helyezése esetén a légiközlekedési hatóság azonos tényállás alapján más ügyekben hozott határozatait megfelelően módosítja vagy visszavonja.
 
 (9) Az (1)–(3) bekezdésben meghatározott határozatokat a légiközlekedési hatóság a honlapján, a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi, valamint az (1) bekezdés szerinti határozatot az Európai Repülésbiztonsági Ügynökségnek tájékoztatás céljából megküldi.
 

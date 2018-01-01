@@ -2,11 +2,11 @@
 
 ## Légiközlekedési bírság, zajvédelmi díj
 
-66/A. § (1) A törvényben, az e törvény felhatalmazása alapján kiadott jogszabályban és közösségi rendeletben előírt
+66/A. § (1) E törvényben, az e törvény felhatalmazása alapján kiadott rendeletben és az Európai Unió rendeletében előírt
 
 a) légiközlekedési, légiközlekedéssel összefüggő tevékenységre,
 
-b) légijármű lajstromozására, nyilvántartására, üzemben tartására, biztosítására,
+b) légi jármű lajstromozására, nyilvántartására, üzemben tartására, biztosítására,
 
 c) légiközlekedési akadályra,
 
@@ -20,7 +20,7 @@ g) légiközlekedés védelmére,
 
 h) zajkorlátozásra
 
-vonatkozó rendelkezések megsértőivel szemben – a légiközlekedési bírság kivetésének részletes szabályairól és a beszedett bírság összegének felhasználási rendjéről szóló miniszteri rendeletben meghatározottak szerint – 100 000 000 Ft-ig terjedő bírság szabható ki. A bírság kiszabásáról szóló határozattal szemben előterjesztett jogorvoslatnak a bírság megfizetésére nincs halasztó hatálya.
+vonatkozó rendelkezések megsértőivel szemben – a légiközlekedési bírság kivetésének részletes szabályairól és a beszedett bírság összegének felhasználási rendjéről szóló miniszteri rendeletben meghatározottak szerint – 100 000 000 Ft-ig terjedő bírság szabható ki. Nincs helye a légiközlekedési bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta öt év eltelt.
 
 (2) A bírságolással kapcsolatos eljárást:
 

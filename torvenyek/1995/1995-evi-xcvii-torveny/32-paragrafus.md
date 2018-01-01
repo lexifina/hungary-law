@@ -18,4 +18,4 @@ d) a bejelentő szervezet nevét és elérhetőségét.
 
 (6) Az általános rendőrségi feladatokat ellátó szerv az (5) bekezdés szerinti döntését legfeljebb a (4) bekezdés szerinti szakvélemények megérkezését követő 24 órán belül határozatban közli a bejelentővel.
 
-(7) Az általános rendőrségi feladatokat ellátó szerv határozata ellen fellebbezésnek helye nincs, azonban a határozat közlésétől számított három napon belül a bejelentő kérheti a határozat bírósági felülvizsgálatát. A kérelemhez csatolni kell a rendőr-főkapitányság határozatát.
+(7) Az általános rendőrségi feladatokat ellátó szerv határozatát a bejelentő a határozat közlésétől számított három napon belül közigazgatási perben megtámadhatja. A keresetlevélhez csatolni kell a rendőr-főkapitányság határozatát.

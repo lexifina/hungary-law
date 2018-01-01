@@ -2,7 +2,7 @@
 
 (1a) A légiközlekedési hatóság a külpolitikáért felelős miniszter, a katonai légügyi hatóság, továbbá a magyar légtér igénybevételéről szóló kormányrendeletben megjelölt polgári és Katonai Nemzetbiztonsági Szolgálat hozzájárulásával engedélyezi a külföldi állami légi járműnek a magyar légtérbe való berepülését.
 
-(1b) A légiközlekedési hatóság döntése ellen jogorvoslatnak nincs helye.
+(1b)
 
 (2) A külföldi állami légijármű számára kibocsátott egyszeri vagy többszöri be-, illetve átrepülési engedély nem mentesíti a kérelmezőt a jogszabályban előírt más engedélyek beszerzésének kötelezettsége alól.
 

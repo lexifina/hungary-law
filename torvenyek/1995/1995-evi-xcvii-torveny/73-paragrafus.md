@@ -28,7 +28,7 @@ p) a gazdasági célú légiközlekedési tevékenység ellátásához a szakszo
 
 q)
 
-r) a magyar légtér igénybevételének, felügyeletének, az igénybevétel korlátozásának és tiltásának a szabályait,
+r) a magyar légtér igénybevételének, felügyeletének, az igénybevétel korlátozásának és tiltásának a szabályait, az eseti légterek és a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légterek engedélyezésének szabályait,
 
 s) a 10. § (1) bekezdésében meghatározott eseteket és a magyar légtér jogosulatlan igénybevétele esetén követendő eljárás szabályait,
 
@@ -84,4 +84,6 @@ h) a veszélyes áruk állami légijárművel történő légi szállításának
 
 i) az állami repülések céljára szolgáló repülőterek létesítésének, fejlesztésének és megszüntetésének, valamint a közös felhasználású repülőtérré történő fejlesztésnek, üzemben tartásának, üzemeltetésének részletes szabályait,
 
-j) a légvédelmi készenléti szolgálat riasztásából eredő költségek megtérítésének részletes szabályait.
+j) a légvédelmi készenléti szolgálat riasztásából eredő költségek megtérítésének részletes szabályait,
+
+k) a légiközlekedési hatóság által – közigazgatási hatósági hatáskörében eljárva – alkalmazandó kiegészítő eljárási szabályokat.

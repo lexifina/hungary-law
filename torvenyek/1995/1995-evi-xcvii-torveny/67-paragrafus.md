@@ -12,7 +12,7 @@
 
 (5) A (3) bekezdésben meghatározott esetben az általános rendőrségi feladatok ellátására létrehozott szerv a védelmi ellenőrzés átvételéről határozatot hoz.
 
-(6) A (3)–(5) bekezdésben meghatározott határozatok ellen fellebbezésnek nincs helye, azok a közléssel jogerőre emelkednek, azonnali hatállyal végrehajthatóak.
+(6)
 
 (7) Az (1) bekezdésben meghatározott szervezetek és személyek légiközlekedés védelmével kapcsolatos tevékenységét a légiközlekedési hatóság és az általános rendőrségi feladatok ellátására létrehozott szerv, a Kormány által rendeletben meghatározottak szerint felügyeli és ellenőrzi.
 
@@ -56,7 +56,7 @@ a) a (12) bekezdés a) pontjában meghatározott területre történő belépés
 
 b) annak ellenőrzése céljából, hogy a foglalkoztatott személy foglalkoztatására irányuló jogviszonya létesítésekor és annak fennállása alatt rendelkezik-e a feltételekkel.
 
-(18) A (17) bekezdés alapján átvett adatokat a rendőrség a légiközlekedés védelme és a közbiztonsági feltételek vizsgálatára irányuló ellenőrzés befejezéséig, az ellenőrzés során feltárt adatok alapján hivatalból indult eljárás esetén az eljárás jogerős befejezéséig kezelheti. A rendőrség a (17) bekezdésben meghatározott adatokat az SRA-ra történő belépés ellenőrzésének időtartamáig kezelheti. A légiközlekedési hatóság és a katonai légügyi hatóság az eljárásában a kizáró ok fennállásának tényére vagy hiányára vonatkozó adatokat kezelheti az eljárása jogerős befejezéséig.
+(18) A (17) bekezdés alapján átvett adatokat a rendőrség a légiközlekedés védelme és a közbiztonsági feltételek vizsgálatára irányuló ellenőrzés befejezéséig, az ellenőrzés során feltárt adatok alapján hivatalból indult eljárás esetén az eljárás végleges döntéssel történő befejezéséig kezelheti. A rendőrség a (17) bekezdésben meghatározott adatokat az SRA-ra történő belépés ellenőrzésének időtartamáig kezelheti. A légiközlekedési hatóság és a katonai légügyi hatóság az eljárásában a kizáró ok fennállásának tényére vagy hiányára vonatkozó adatokat kezelheti az eljárása végleges befejezéséig.
 
 (19) A rendőrség és az Alkotmányvédelmi Hivatal a (11) és (12) bekezdésben meghatározott védelmi háttérellenőrzés alapján felmerülő kizáró ok fennállásának tényéről vagy annak hiányáról az SRA-ra történő belépésre jogosító engedélyt kiállító szervet, szervezetet tájékoztatja.
 
