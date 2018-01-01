@@ -11,7 +11,3 @@
 (6) A filmalkotások „art” minősítésére irányuló eljárásban szakhatóságként eljáró miniszter által működtetett Filmszakmai Bizottság öt tagjának megbízatása 2017. január 1-jétől megszűnik.
 
 (7) A 2016. év negyedik negyedévében a letéti számlára gyűjtött közvetett támogatás összege meghaladhatja a 31/D. § (7) bekezdés d) pontjában meghatározott keretösszeg időarányos részét a Tao. tv. 22. § (3) bekezdése és a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján. Amennyiben a letéti számlára beérkezett összeg az éves összesítésben meghaladja a 31/D. § (7) bekezdés d) pontjában meghatározott keret összegét, az állami adóhatóságnak nincs a 31/D. § (13) bekezdése szerinti megfizetési kötelezettsége a 2016. év negyedik negyedévre vonatkozóan.
-
-2. CÍM
-
-Felhatalmazó rendelkezések

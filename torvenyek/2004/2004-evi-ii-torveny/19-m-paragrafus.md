@@ -18,6 +18,6 @@ b) annak megjelölését, hogy a filmforgalmazói tevékenységen belül a bejel
 
 (3) Jogszabály eltérő rendelkezése hiányában a nem természetes személy filmforgalmazó a bejelentéshez mellékeli a képviseleti jogosultságot igazoló okirat másolatát.
 
-(4) Ha a bejelentő cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(4) Ha a bejelentő cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (5) A Hatóság a filmforgalmazót a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl törli a nyilvántartásból, ha a nem természetes személy filmforgalmazó jogutód nélkül megszűnt.

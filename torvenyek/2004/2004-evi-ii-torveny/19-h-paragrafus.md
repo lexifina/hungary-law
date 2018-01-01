@@ -26,7 +26,7 @@ d) e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszab�
 
 e) e törvényben meghatározott egyéb jogkövetkezményeket alkalmazhat.
 
-(9) A (6) és (8) bekezdés alkalmazásában ismételtségnek tekintendő, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és jogszabályhely tekintetében, ugyanazon tárgykörben valósítja meg.
+(9) A (6) és (8) bekezdés alkalmazásában ismételtségnek tekintendő, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és jogszabályhely tekintetében, ugyanazon tárgykörben valósítja meg.
 
 (10) A (8) bekezdésben meghatározott jogkövetkezmények együttesen is megállapíthatók.
 

@@ -16,7 +16,7 @@ d) egyéb filmalkotás.
 
 (1c) Az (1a) és (1b) bekezdés szerinti pontszámok kiszámításakor a filmalkotás magyar elemeire adható egyes pontszámokat az egyes elemeken belüli magyar részvétel arányához kell igazítani. Ha a filmalkotásban magyar filmelőállító vagy producer vesz részt, részükre a magyar hozzájárulás arányától függetlenül, a legmagasabb elérhető pontszámot kell adni.
 
-(2) A közvetlen támogatás nyújtásának feltétele a filmalkotások magyar részvételi arányok szerinti besorolása. Az (1) bekezdés szerinti besorolási eljárást lezáró hatósági határozat jogerőre emelkedését követően a Hivatal haladéktalanul bejegyzi – hivatalból indított eljárásban – a besorolt filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket a támogatásra jogosult filmalkotásokról vezetett hatósági nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hivatal az (1) bekezdés szerinti besorolási eljárást lezáró jogerős hatósági határozatban megállapított adatokkal tényekkel egészíti ki a nyilvántartás adatait.
+(2) A közvetlen támogatás nyújtásának feltétele a filmalkotások magyar részvételi arányok szerinti besorolása. Az (1) bekezdés szerinti besorolási eljárást lezáró hatósági határozat jogerőre emelkedését követően a Hivatal haladéktalanul bejegyzi – hivatalból indított eljárásban – a besorolt filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket a támogatásra jogosult filmalkotásokról vezetett hatósági nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hivatal az (1) bekezdés szerinti besorolási eljárást lezáró véglegessé vált hatósági határozatban megállapított adatokkal tényekkel egészíti ki a nyilvántartás adatait.
 
 (3) Az (1) bekezdés szerinti besorolást a Hivatal a filmelőállító által a Hivatalhoz benyújtott, a (4) és (5) bekezdésben meghatározott okiratok alapján végzi el.
 
@@ -46,9 +46,9 @@ f) koprodukciós filmalkotás esetén a filmelőállítók koprodukciós szerző
 
 g) a filmalkotás előállításának finanszírozási tervét.
 
-(6) A magyar részvételi arányok szerinti besorolásról szóló jogerős határozat hiányában vagy a támogathatóság kizárásának figyelembevétele nélkül kötött támogatási szerződés a (7) bekezdés szerinti kivétellel semmis.
+(6) A magyar részvételi arányok szerinti besorolásról szóló véglegessé vált határozat hiányában vagy a támogathatóság kizárásának figyelembevétele nélkül kötött támogatási szerződés a (7) bekezdés szerinti kivétellel semmis.
 
-(7) A jogerős határozat hiányában kötött támogatási szerződés esetében az eljárás különös méltánylást érdemlő esetben a szerződés megkötését követő egy naptári éven belül benyújtott kérelem esetén a támogatási cél megvalósulása érdekében lefolytatható a (4) és (5) bekezdésben foglalt határidőkre tekintet nélkül.
+(7) A véglegessé vált határozat hiányában kötött támogatási szerződés esetében az eljárás különös méltánylást érdemlő esetben a szerződés megkötését követő egy naptári éven belül benyújtott kérelem esetén a támogatási cél megvalósulása érdekében lefolytatható a (4) és (5) bekezdésben foglalt határidőkre tekintet nélkül.
 
 (8) A (7) bekezdés szerinti eljárásban a Hivatal nyilatkozattételre hívja fel a támogatót a támogatási cél megvalósulásához fűződő szándék fennállásának meglétéről. A Hivatal a támogató nyilatkozata és az ügy összes körülményének figyelembevételével dönt a kérelemről.
 

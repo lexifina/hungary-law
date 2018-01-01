@@ -42,6 +42,4 @@ f) rövid tartalom.
 
 (7) Az e törvényben meghatározott célok teljesüléséhez szükséges, a törvény felhatalmazása alapján kiadott jogszabályban megállapított egyéb adatokat a Hatóság a filmregisztráció során bekérhet, amelyeket a filmforgalmazó köteles bejelenteni a Hatóságnak.
 
-3. CÍM
-
-Besorolási eljárások
+(8) Az e § szerinti regisztrációról és a (3)–(6) bekezdésben meghatározott adatokról, azonosítókról a Hatóság nem hatósági, nem közhiteles nyilvántartást vezet.
