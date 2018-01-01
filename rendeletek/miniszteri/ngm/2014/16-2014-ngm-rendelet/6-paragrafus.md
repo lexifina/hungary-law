@@ -6,4 +6,6 @@ b) a módosítani kívánt programkövetelmény azonosító számát és
 
 c) a módosításra irányuló javaslat indoklását.
 
-(2) A nyilvántartás módosítására irányuló eljárás során a 4. § (1) és (3)–(5) bekezdésében foglaltakat kell alkalmazni.
+(2)[^18] A nyilvántartás módosítására irányuló eljárás során a 4. § (1) és (3) bekezdésében foglaltakat kell alkalmazni.
+
+[^18]: A 6. § (2) bekezdése az 51/2017. (XII. 29.) NGM rendelet 6. § (4) bekezdése szerint módosított szöveg.
