@@ -1,4 +1,4 @@
-## 7. §[^1]
+## 7. §[^3]
 
 1. melléklet a 132/2017. (VI. 8.) Korm. rendelethez
 
@@ -54,4 +54,4 @@
 
 25. az 1–24. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
