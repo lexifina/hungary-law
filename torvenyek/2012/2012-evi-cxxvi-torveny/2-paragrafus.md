@@ -16,7 +16,7 @@ bb) a ba) pont szerinti feltételek hiányában az élelmiszerlánc-felügyeleti
 
 bc) a ba) és bb) pont szerinti feltételek hiányában mezőgazdasági termelőszervezetként nyilvántartott,
 
-a polgári perrendtartásról szóló 1952. évi III. törvény 396. § szerinti gazdálkodó szervezet, kivéve az egyéni vállalkozót;
+a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekezdés 6. pontja szerinti gazdálkodó szervezet, kivéve az egyéni vállalkozót;
 
 c)
 
