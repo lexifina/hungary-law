@@ -10,7 +10,7 @@
 
 ## 1.1.2. kórházban, más egyéb egészségügyi fekvőbeteg ellátásban integrált osztály esetében 15,
 
-## 1.2. az aktív és/vagy krónikus betegellátást nyújtó kórház, az országos intézet esetében 70,
+## 1.2. az aktív és/vagy krónikus betegellátást nyújtó kórház, az országos gyógyintézet és országos társ-gyógyintézet esetében 70,
 
 ## 1.3. a klinika esetében – amennyiben egy szakmára vagy egy szakmai főcsoportba sorolt szakmákra rendelkezik engedéllyel – 30
 
@@ -920,7 +920,7 @@
 
 ## X: szükséges
 
-2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^55]
+2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^58]
 
 A TEVÉKENYSÉGEK VÉGZÉSÉHEZ SZÜKSÉGES MINIMUMFELTÉTELEK
 
@@ -5256,4 +5256,4 @@ II. szint: csecsemő- és gyermekosztály gyermek-gasztroenterológiai ellátás
 
 III. szint: csecsemő- és gyermekosztály gyermek-gasztroenterológiai ellátással, speciális feladatokkal, endoszkópiában legalább 2 éves gyakorlattal rendelkező szakorvossal.
 
-[^55]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a, a 41/2014. (VI. 30.) EMMI rendelet 1. § (1) bekezdése, az 52/2014. (XII. 19.) EMMI rendelet 2. § (2) bekezdése, a 16/2015. (III. 30.) EMMI rendelet 19. §-a, a 23/2015. (IV. 28.) EMMI rendelet 50. § c)–g) pontja, a 42/2015. (IX. 18.) EMMI rendelet 12. §-a, az 54/2015. (XI. 24. EMMI rendelet 21. § (1) bekezdése, a 2/2016. (I. 15.) EMMI rendelet 4. §-a, a 7/2016. (III. 30.) EMMI rendelet 5. §-a, az 54/2016. (XII. 30.) EMMI rendelet 32. § (1) bekezdés b)–d) pontja és (2) bekezdése, a 44/2016. (XII. 28.) EMMI rendelet 25. § (1) bekezdése, a 28/2017. (X. 25.) EMMI rendelet 21. §-a szerint módosított szöveg.
+[^58]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a, a 41/2014. (VI. 30.) EMMI rendelet 1. § (1) bekezdése, az 52/2014. (XII. 19.) EMMI rendelet 2. § (2) bekezdése, a 16/2015. (III. 30.) EMMI rendelet 19. §-a, a 23/2015. (IV. 28.) EMMI rendelet 50. § c)–g) pontja, a 42/2015. (IX. 18.) EMMI rendelet 12. §-a, az 54/2015. (XI. 24. EMMI rendelet 21. § (1) bekezdése, a 2/2016. (I. 15.) EMMI rendelet 4. §-a, a 7/2016. (III. 30.) EMMI rendelet 5. §-a, az 54/2016. (XII. 30.) EMMI rendelet 32. § (1) bekezdés b)–d) pontja és (2) bekezdése, a 44/2016. (XII. 28.) EMMI rendelet 25. § (1) bekezdése, a 28/2017. (X. 25.) EMMI rendelet 21. §-a, a 38/2017. (XII. 29.) EMMI rendelet 4. § b)–d) pontja szerint módosított szöveg.
