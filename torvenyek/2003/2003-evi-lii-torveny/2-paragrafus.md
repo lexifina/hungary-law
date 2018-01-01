@@ -18,9 +18,7 @@ c) továbbszaporítása során tulajdonságait változatlanul megőrzi, és ezá
 
 6. Nemzeti Fajtajegyzék: Magyarországon állami elismerésben részesített növényfajták, szőlő klónok, szaporításra egyedileg engedélyezett zöldség-, gyümölcs- szőlő és erdészeti fajták, tájfajták, valamint a hivatalos leírással rendelkező gyümölcsfajták lényeges adatait tartalmazó, évente közzétett jegyzék.
 
-7. Leíró Fajtajegyzék: a Nemzeti Fajtajegyzékben felsorolt egyes növényfajták leírását és lényeges jellemzőit tartalmazó jegyzék.
-
-8. Ajánlott Fajták Jegyzéke: a Nemzeti vagy a Közösségi Fajtajegyzékben felsorolt növényfajták közül a szakmai és civil szervezetek által szélesebb körű összehasonlító fajtavizsgálatok alapján meghatározott termőhelyre és termesztési célra javasolt növényfajták jegyzéke.
+7–8.
 
 9.
 
@@ -28,7 +26,7 @@ c) továbbszaporítása során tulajdonságait változatlanul megőrzi, és ezá
 
 11. Erdészeti Szaporítóanyag-forrás Jegyzék: az Európai Bizottság által közzétett erdészeti szaporítóanyag forrást tartalmazó közös jegyzék.
 
-12. Fajtaminősítő Bizottság: a növényfajtát állami elismerésre javasoló szakértői testület.
+12.
 
 13. Nemesítő: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet,
 
@@ -40,7 +38,7 @@ c) az a) pont szerinti személy munkájára megbízást adó, vagy
 
 d) az a)–c) pont szerinti személy örököse, illetve jogutódja.
 
-14. Bejelentő: olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki fajta állami elismerése iránti kérelmet nyújt be.
+14.
 
 15.
 

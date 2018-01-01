@@ -6,11 +6,11 @@ b) jogszabályban meghatározott növényfajok fajtái esetében megfelelő gazd
 
 c) megfelelő és bejegyezhető fajtanévvel rendelkezik, és
 
-d) amely növényfajta bejelentője teljesíti az e törvényben és a külön jogszabályban meghatározott feltételeket.
+d) növényfajta állami elismerésének kérelmezője teljesíti az e törvényben és a külön jogszabályban meghatározott feltételeket.
 
 (2) A növényfajta
 
-a) megkülönböztethető, ha adott genotípusból vagy genotípusok kombinációjából kifejeződött jellemzőiben határozottan eltér minden más növényfajtától, amelynek létezése közismert a bejelentés benyújtásának időpontjában; a növényfajta közismert, ha azt Magyarországon vagy valamely tagállamban nemzeti fajtajegyzékre vétel céljából bejelentették, a bejelentés eredményeként nemzeti fajtajegyzékre vették, a Közösségi Fajtajegyzékben szerepel, valamint növényfajta-oltalom tárgya volt, növényfajta-oltalom alatt áll vagy növényfajta-oltalom iránt bejelentették.
+a) megkülönböztethető, ha adott genotípusból vagy genotípusok kombinációjából kifejeződött jellemzőiben határozottan eltér minden más növényfajtától, amelynek létezése közismert a 9. § (2) bekezdés szerinti vizsgálatra történő bejelentés benyújtásának időpontjában; a növényfajta közismert, ha azt Magyarországon vagy valamely tagállamban nemzeti fajtajegyzékre vétel céljából bejelentették, a 9. § (2) bekezdés szerinti vizsgálatra történő bejelentés eredményeként nemzeti fajtajegyzékre vették, a Közösségi Fajtajegyzékben szerepel, valamint növényfajta-oltalom tárgya volt, növényfajta-oltalom alatt áll vagy növényfajta-oltalom iránt bejelentették.
 
 b) egyöntetű (egynemű), ha a szaporítási sajátosságai következtében várható variabilitástól eltekintve megfelelően egységes a megkülönböztethetőség vizsgálata során értékelt, valamint a fajtaleírásban közzétett lényeges tulajdonságaiban,
 

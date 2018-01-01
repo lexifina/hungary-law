@@ -1,12 +1,26 @@
-23. § (1) A növénytermesztési hatóság közhiteles hatósági nyilvántartást vezet:
+23. § (1) A nyilvántartást vezető szerv nyilvántartást vezet:
 
-a) a növényfajták állami elismerésére irányuló kérelmekről, valamint az állami elismerésben részesített növényfajtákról, amely tartalmazza
+a) az állami elismerésben részesített növényfajtákról, amely
 
-aa) a bejelentő természetes személyazonosító adatait, cégnevét, adószámát, székhelyét, telephelyét,
+aa) tartalmazza:
 
-ab) az állami elismerésben részesített növényfajta nevét,
+1.) az állami elismerés időpontját (év, hónap, nap),
 
-ac) az állami elismerés évét (időpontját);
+2.) a kérelmező, a képviselő, illetve a fajtafenntartó alábbi adatait: természetes személy esetén természetes személyazonosító adatait; jogi személy esetén az azonosító adatokat (cégnév, adószám, székhely, telephely),
+
+3.) az állami elismerésben részesített növényfajta nevét,
+
+4.) az állami elismerés megszűnése és a tovább-forgalmazás időpontját,
+
+5.) a növényfajta-oltalom fennállását, valamint
+
+6.) a kertészeti növények szaporítóanyagának előállításánál alanyként használt növényfajtákat, illetve fajokat;
+
+ab) tartalmazhatja:
+
+1.) kérelemre a nemesítő nevét, valamint
+
+2.) a fajta termesztésének és felhasználásának sajátosságára, valamint a fajta egyediségére vonatkozó adatokat, információkat;
 
 b) a vetőmag előállítókról, valamint az engedélyes vagy a nyilvántartásba vett szőlő-, gyümölcs-, dísznövény, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyag-előállítókról és szaporítóanyag-forgalmazókról, amely tartalmazza
 
@@ -14,7 +28,7 @@ ba) a természetes személy ügyfél természetes személyazonosító adatait, l
 
 bb) jogi személy, valamint jogi személyiség nélküli szervezet esetén az azonosító adatokat (cégnevét, adószámát, székhelyét, telephelyét),
 
-bc) a Mezőgazdasági Vidékfejlesztési Hivatal regisztrációs számát vagy a növénytermesztési hatóság partner azonosítóját,
+bc) az ügyfél regisztrációs számát vagy a növénytermesztési hatóság partner azonosítóját,
 
 bd) a tevékenység megjelölését,
 
@@ -78,17 +92,15 @@ ib) a szaporítóanyag mennyiségét,
 
 ic) az előállítás idejét;
 
-j) a határon átnyúló szolgáltatás folytatása esetén a 15. § (10) bekezdése szerinti bejelentést tevőkről.
+j) a határon átnyúló szolgáltatás folytatása esetén a 15. § (10) bekezdése szerinti bejelentést tevőkről,
+
+k) a 9. § (2) bekezdés szerinti vizsgálat elvégzéséhez szükséges, a fajtavizsgálatot végző szerv által rendszeresített nyomtatvány szerinti adatokról.
 
 (2) A növénytermesztési hatóság
 
-a) elvégzi vagy elvégezteti az állami elismerésre bejelentett növényfajták fajtavizsgálatát, illetve a növényfajta-oltalom iránt bejelentett növényfajták kísérleti vizsgálatát;
+a)–c)
 
-b) ellátja a Fajtaminősítő Bizottság titkársági feladatait;
-
-c) előterjesztést készít a Fajtaminősítő Bizottság részére a növényfajták állami elismerésére, annak meghosszabbítására, illetve visszavonására;
-
-d) a Fajtaminősítő Bizottság állásfoglalása, illetve az elvégzett DUS-vizsgálat szerint kiadja a növényfajták állami elismeréséről, annak meghosszabbításáról, illetve visszavonásáról szóló határozatokat;
+d) kiadja a növényfajták állami elismeréséről, annak meghosszabbításáról, illetve visszavonásáról szóló határozatokat;
 
 e) vezeti és közzéteszi a Nemzeti Fajtajegyzéket;
 
@@ -110,7 +122,7 @@ he) a törzsültetvények létesítését,
 
 hf) a faiskola és palántanevelő üzem létesítését,
 
-hg) a szőlő-, gyümölcs-, dísznövény-, erdészeti és fás szárú energetikai szaporítóanyagok, valamint zöldségpalánta előállítását és forgalomba hozatalát;
+hg) a szőlő-, gyümölcs-, dísznövény-, erdészeti szaporítóanyagok, valamint zöldségpalánta előállítását és forgalomba hozatalát;
 
 i) engedélyezheti a 15. § (1) bekezdésében foglaltaknak vagy e törvény végrehajtására kiadott jogszabály szerinti minősítési feltételeknek meg nem felelő szaporítóanyag eseti felhasználását;
 

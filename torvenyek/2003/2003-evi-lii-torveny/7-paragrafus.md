@@ -1,21 +1,21 @@
-7. § (1) A növényfajtát állami elismerésre a növénytermesztési hatósághoz kell bejelenteni.
+7. § (1) A növénytermesztési hatóság dönt
 
-(2) Bejelentést tehet
+a) a növényfajta állami elismerése,
+
+b) az állami elismerés hatályának meghosszabbítása,
+
+c) az államilag elismert fajta visszavonása, valamint
+
+d) a növényfajta egyedi szaporítási engedélye
+
+iránti eljárásban.
+
+(2) A növényfajta állami elismerése iránti kérelmet
 
 a) a nemesítő,
 
-b) Magyarországon, az Európai Unióban, vagy valamely tagállamban nemzeti vagy közösségi növényfajta-oltalomban részesített növényfajta jogosultja, vagy a növényfajta-oltalomra bejelentett növényfajta igényjogosultja,
+b) tájfajta esetében a növényfajtát fenntartó természetes személy vagy jogi személy, valamint
 
-c) a fajtafenntartó,
+c) az Európai Unión kívüli országban lakóhellyel rendelkező természetes személy vagy székhellyel, telephellyel rendelkező jogi személy kizárólag magyar állampolgár, Magyarország vagy az Európai Unió más tagállama területén lakóhellyel rendelkező természetes személy, vagy székhellyel, telephellyel rendelkező jogi személy képviselő útján
 
-d) tájfajta esetében a növényfajtával rendelkező természetes személy, jogi személy, illetve jogi személyiség nélküli szervezet, ha a bejelentés nem sért növényfajta-oltalmi jogokat.
-
-(3) Képviselő lehet
-
-a) magyar állampolgár vagy Magyarország területén lakóhellyel rendelkező természetes személy, vagy székhellyel, telephellyel rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, vagy
-
-b) más tagállam területén lakóhellyel rendelkező természetes személy vagy székhellyel, telephellyel rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező szervezet.
-
-(4) A tagállamokon kívüli országban lakóhellyel rendelkező természetes személy vagy székhellyel, telephellyel rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező szervezet csak képviselő útján jelenthet be növényfajtát állami elismerésre.
-
-(5) Nem jelenthet be növényfajtát állami elismerésre az a személy, aki az agrárpolitikáért felelős miniszter által vezetett minisztériummal (a továbbiakban: minisztérium) vagy a növénytermesztési hatósággal közszolgálati jogviszonyban, illetve munkavégzésre irányuló egyéb jogviszonyban áll, illetve a Fajtaminősítő Bizottság tagja, e jogviszonyának, illetve tagsági viszonyának megszűnéséig, valamint az azt követő 3 évig.
+intézhet a növénytermesztési hatósághoz.

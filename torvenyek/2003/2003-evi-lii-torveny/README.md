@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-52-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2003-52-00-00.13 |
 | 2017-01-01 | 2016. évi CXXXVII. törvény | 2003-52-00-00.14 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2003-52-00-00.15 |
+| 2018-01-01 | 2017. évi CCV. törvény | 2003-52-00-00.16 |

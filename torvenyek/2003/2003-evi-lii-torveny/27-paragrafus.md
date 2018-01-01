@@ -10,6 +10,6 @@ c) az előállító költségére elrendeli a más célra fel nem használható 
 
 d) a jogsértő tevékenységét meghatározott időre megtiltja, és az erről szóló határozatot a növénytermesztési hatóság honlapján közzéteszi,
 
-e) az eredetet igazoló bizonylattal nem rendelkező növényfajta használata esetén a faiskolai, illetve palántanevelő üzemi engedélyt visszavonja, illetve
+e) a faiskolai, illetve palántanevelő üzemi engedélyt visszavonja, illetve
 
 f) minőségvédelmi bírságot szab ki.

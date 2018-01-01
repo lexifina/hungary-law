@@ -6,9 +6,9 @@
 
 a) a genetikai anyagok megőrzésére,
 
-b) a külön jogszabályban meghatározott fajjegyzékben felsorolt, illetve állami elismerésre bejelentett szántóföldi, kertészeti – beleértve szőlő esetében a klónokat is –, erdészeti fajták állami elismerésére, fajtafenntartására, valamint
+b) az e törvény végrehajtására kiadott jogszabályban meghatározott fajtajegyzékben felsorolt szántóföldi növényfajta, zöldségfajta, gyógy- és egyes fűszernövényfajta, a szőlő – beleértve a klónokat is –, a gyümölcstermő növények nemes és alany fajtájának, továbbá a dísz- és erdészeti növényfajta állami elismerésére, fajtafenntartására, valamint
 
-c) a szaporítóanyagok továbbszaporítására, ellenőrzésére, minősítésére, forgalomba hozatalára és felhasználására kell alkalmazni.
+c) a szaporítóanyagok előállítására, továbbszaporítására, ellenőrzésére, minősítésére, forgalomba hozatalára és felhasználására kell alkalmazni.
 
 (3) A növényfajta oltalmára külön törvény rendelkezéseit kell alkalmazni.
 

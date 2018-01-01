@@ -1,21 +1,11 @@
-10. § (1) A Fajtaminősítő Bizottság állásfoglalást hoz
+10. § (1) Az állami elismerés időtartama szőlő-, gyümölcs-, erdészeti fajták és fás szárú dísznövények esetében a megadástól számított 30. év végéig, egyéb növényfajták esetében a megadástól számított 10. év végéig tart.
 
-a) a növényfajta állami elismerésére, az állami elismerés meghosszabbítására, illetve visszavonására,
+(2) Az állami elismerés időtartama – a kérelmező legalább a lejárat időpontja előtt két évvel előterjesztett kérelmére – további 30, illetve 10 éves időtartamra többször is meghosszabbítható, ha a fajta eredeti fajtaleírásban rögzített tulajdonságai nem változtak meg.
 
-b) a fajtavizsgálatok meghosszabbítására vagy megszüntetésére,
+(3) Az állami elismerés megszűnik
 
-c) másik fajtanév bejegyzésére,
+a) a növényfajta elismerési idejének lejárta esetén, amennyiben a fajta állami elismerése meghosszabbításra nem került, vagy
 
-d) újabb fajtafenntartó bejegyzésére.
+b) ha a növénytermesztési hatóság a fajta állami elismerését kérelemre vagy hivatalból indított eljárásban visszavonja.
 
-(2) A Fajtaminősítő Bizottság szakágazatonkénti szekciókból áll. Az egyes szekcióknak legalább öt tagja van. A Fajtaminősítő Bizottságba tagokat
-
-a) jelöl az agrárpolitikáért felelős miniszter (a továbbiakban: a miniszter), a növénytermesztési hatóság,valamint
-
-b) jelölhet a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara, a Magyar Tudományos Akadémia, a termékpálya szerinti terméktanácsok (a továbbiakban: terméktanács), a Hegyközségek Nemzeti Tanácsa, az agrárkutató és -felső oktatási intézmények, valamint a szakmai érdekképviseletek.
-
-(3) A Fajtaminősítő Bizottság elnökét, tagjait a miniszter nevezi ki a delegáló szervezetek javaslata alapján. A Fajtaminősítő Bizottság szekció elnökeit a miniszter jelöli ki. A Fajtaminősítő Bizottság titkársági feladatait a növénytermesztési hatóság látja el.
-
-(4) A Fajtaminősítő Bizottság tagjainak névsorát a minisztérium hivatalos lapjában közzé kell tenni.
-
-(5) A Fajtaminősítő Bizottság működésére vonatkozó előírásokat a miniszter jogszabályban állapítja meg.
+(4) A növénytermesztési hatóság az állami elismerés megszűnéséről a határozat megküldésével értesíti a nyilvántartást vezető szervet, amely a növényfajtát törli a 15. § (1) bekezdés szerinti nyilvántartásból.
