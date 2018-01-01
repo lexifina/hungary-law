@@ -4,7 +4,7 @@
 
 18. § (1)[^34] A munkáltató minden év január 10-éig a munkavédelmi hatóságnak bejelenti
 
-a)[^35] a 3. számú melléklet 1. és 2. pontjának megfelelően a rákkeltővel végzett tevékenységeket, a tevékenység végzése során használt anyagot, keveréket, illetve eljárást,
+a)[^35] a 3. számú melléklet 1., 2. és 3. pontjának megfelelően a rákkeltővel végzett tevékenységeket, a tevékenység végzése során használt anyagokat, keveréket, illetve eljárást, valamint az exponált munkavállalók adatait,
 
 b) a felhasznált rákkeltőkben történő változást a 3. számú melléklet 2. pontjának megfelelően. A megismételt bejelentésnek az előző évi bejelentéshez viszonyított változásokat, illetve az év közben végzett légtérszennyezettség mérés adatait kell tartalmaznia.
 
@@ -18,7 +18,7 @@ c) a munkahely méretében vagy elhelyezésében változás történt,
 
 d)[^37] az 5. § (8) bekezdése szerinti rendkívüli munkavégzés elrendelésére került sor.
 
-(3)[^38] A munkavédelmi hatóság az (1) és (2) bekezdés szerint beérkezett adatokról elektronikus nyilvántartást vezet.
+(3)[^38]
 
 (4)[^39] A munkahigiénés és foglalkozás-egészségügyi szerv az e §, valamint a 3. számú melléklet alapján bejelentett és a munkavédelmi hatóság által nyilvántartott rákkeltőkről, rákkeltőkkel végzett tevékenységről, és a rákkeltőkkel exponált munkavállalókról foglalkozási rák regisztert vezet.
 
@@ -27,9 +27,9 @@ d)[^37] az 5. § (8) bekezdése szerinti rendkívüli munkavégzés elrendelés�
 [^32]: A 17. § a 12/2006. (III. 23.) EüM rendelet 20. § (3) bekezdésének b) pontja, a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
 [^33]: A 18. §-t megelőző alcím a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
 [^34]: A 18. § (1) bekezdés nyitó szövegrésze a 9/2015. (III. 31.) NGM rendelet 19. § b) pontja szerint módosított szöveg.
-[^35]: A 18. § (1) bekezdés a) pontja a 12/2002. (XI. 16.) ESZCSM rendelet 6. §-ának (1) bekezdésével megállapított, a 21/2015. (VIII. 28.) NGM rendelet 12. § c) pontja szerint módosított szöveg.
+[^35]: A 18. § (1) bekezdés a) pontja az 51/2017. (XII. 29.) NGM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^36]: A 18. § (2) bekezdés nyitó szövegrésze a 9/2015. (III. 31.) NGM rendelet 19. § d) pontja szerint módosított szöveg.
 [^37]: A 18. § (2) bekezdésének d) pontját a 12/2002. (XI. 16.) ESZCSM rendelet 6. §-ának (2) bekezdése iktatta a szövegbe.
-[^38]: A 18. § (3) bekezdése az 51/2011. (XII. 23.) NGM rendelet 7. § (1) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
+[^38]: A 18. § (3) bekezdését az 51/2017. (XII. 29.) NGM rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^39]: A 18. § (4) bekezdését az 51/2011. (XII. 23.) NGM rendelet 7. § (2) bekezdése iktatta be, szövege a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
 [^40]: A 18. § (5) bekezdését az 51/2011. (XII. 23.) NGM rendelet 7. § (3) bekezdése iktatta be, szövege a 62/2016. (XII. 29.) NGM rendelet 54. § (1) bekezdésével megállapított szöveg.
