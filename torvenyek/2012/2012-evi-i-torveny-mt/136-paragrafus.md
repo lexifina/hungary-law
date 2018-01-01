@@ -4,7 +4,7 @@
 
 ## 65. Az alapbér
 
-136. § (1) Alapbérként legalább a kötelező legkisebb munkabért kell meghatározni.
+136. § (1) Alapbérként legalább a 153. § (1) bekezdése szerinti munkabért kell meghatározni.
 
 (2) Az alapbért időbérben kell megállapítani.
 

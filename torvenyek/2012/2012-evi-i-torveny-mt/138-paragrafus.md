@@ -6,6 +6,6 @@
 
 (4) A teljesítménykövetelményt és a teljesítménybér-tényezőt alkalmazásuk előtt írásban közölni kell a munkavállalóval.
 
-(5) A teljes munkaidőben foglalkoztatott munkavállalóra irányadó teljesítménybér-tényezőt úgy kell megállapítani, hogy a teljesítménykövetelmény százszázalékos teljesítése és a teljes munkaidő ledolgozása esetén a munkavállalónak járó munkabér legalább a kötelező legkisebb munkabér mértékét elérje.
+(5) A teljes munkaidőben foglalkoztatott munkavállalóra irányadó teljesítménybér-tényezőt úgy kell megállapítani, hogy a teljesítménykövetelmény százszázalékos teljesítése és a teljes munkaidő ledolgozása esetén a munkavállalónak járó munkabér legalább a 153. § (1) bekezdése szerinti munkabér mértékét elérje.
 
 (6) A kizárólag teljesítménybérrel díjazott munkavállaló esetén legalább az alapbér felét elérő garantált bér megállapítása is kötelező.

@@ -8,7 +8,7 @@
 
 (2) A munkáltató köteles a munkavállalónak azt a költségét megtéríteni, amely a munkaviszony teljesítésével indokoltan merült fel.
 
-(3) A munkavállalót csak olyan munkára lehet alkalmazni, amely testi alkatára vagy fejlettségére tekintettel rá hátrányos következményekkel nem járhat.
+(3) A munkavállalót csak olyan munkára lehet alkalmazni, amely testi alkatára, fejlettségére, egészségi állapotára tekintettel rá hátrányos következményekkel nem járhat. A munkáltató a munkavállaló egészségi állapotának változására tekintettel köteles a munkafeltételeket, a munkaidő-beosztást – a 6. §-ban foglaltak figyelembevételével – megfelelően módosítani.
 
 (4) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkába lépést megelőzően és a munkaviszony fennállása alatt rendszeres időközönként köteles ingyenesen biztosítani a munkavállaló munkaköri alkalmassági vizsgálatát.
 

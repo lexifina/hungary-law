@@ -12,7 +12,7 @@ c) gyermek: a családok támogatására vonatkozó szabályok szerinti saját h�
 
 d) kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a munkavállalónak munkaviszonyra vonatkozó szabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is,
 
-e) munkavállalói képviselő: az üzemi tanács tagja, üzemi megbízott, a gazdasági társaság felügyelő bizottságának munkavállalói képviselője,
+e) munkavállalói képviselő: az üzemi tanács tagja, az üzemi megbízott, a 273. § (3)–(4) bekezdése szerinti szakszervezeti tisztségviselő, a gazdasági társaság felügyelő bizottságának munkavállaló képviselője.
 
 f) munkavégzésre irányuló jogviszony: a munkaviszony, a munkavégzési kötelezettséggel járó szövetkezeti tagsági viszony, a vállalkozási és megbízási szerződés, a gazdasági társaság vezető tisztségviselői vagy felügyelő bizottsági tagsági tevékenység ellátására irányuló jogviszony és az egyéni vállalkozás,
 
@@ -50,6 +50,16 @@ k) három vagy több gyermeket nevelő munkavállaló: aki, a családok támogat
 
 ka) családi pótlékra jogosult és gyermekgondozási díjban vagy gyermekgondozási segélyben, gyermekgondozást segítő ellátásban részesült vagy részesül, vagy
 
-kb) gyermeknevelési támogatásban részesült vagy részesül.
+kb) gyermeknevelési támogatásban részesült vagy részesül,
+
+l) megváltozott munkaképességű személy: a rehabilitációs hatóság vagy jogelődjei által végzett hatályos minősítés alapján
+
+la) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 60 százalékos vagy kisebb mértékű,
+
+lb) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás, hatósági bizonyítvány, minősítés időbeli hatálya alatt,
+
+lc) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű, az erről szóló szakvélemény időbeli hatálya alatt, vagy
+
+ld) rokkantsági ellátásban részesül.
 
 (2) A munkavállaló akkor részesül az (1) bekezdés g) pont gb) vagy gc) alpontja szerinti ellátásban, ha az ellátást jogerősen megállapították.

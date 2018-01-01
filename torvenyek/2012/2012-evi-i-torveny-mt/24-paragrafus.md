@@ -10,6 +10,6 @@ b) egyéb esetekben az eredménytelen kézbesítési kísérlet, valamint az ér
 
 kézbesítettnek kell tekinteni.
 
-(3) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a (2) bekezdésben szabályozott kézbesítési vélelem megdöntése iránt az eljárás kezdeményezésével egyidejűleg, a kézbesítési vélelem beálltáról való tudomásszerzéstől számított tizenöt napon, de legkésőbb a vélelem beálltától számított hat hónapon belül terjeszthető elő kérelem a bíróságnál. A kézbesítési vélelem megdöntésére egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A vélelem megdöntése esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
+(3) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a (2) bekezdésben szabályozott kézbesítési fikcióval szemben az eljárás kezdeményezésével egyidejűleg, a kézbesítési fikció beálltáról való tudomásszerzéstől számított tizenöt napon, de legkésőbb a kézbesítési fikció beálltától számított három hónapon belül terjeszthető elő kézbesítési kifogás a bíróságnál. A kézbesítési kifogásra egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A kézbesítési kifogásnak helyt adó döntés esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
 
 (4) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.

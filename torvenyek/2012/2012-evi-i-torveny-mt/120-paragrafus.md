@@ -1,6 +1,6 @@
 120. § A munkavállalónak, ha
 
-a) a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította,
+a) megváltozott munkaképességű,
 
 b) fogyatékossági támogatásra jogosult, vagy
 
