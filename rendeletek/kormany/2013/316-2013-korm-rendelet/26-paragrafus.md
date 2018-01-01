@@ -1,23 +1,24 @@
-## 25. § Ez a rendelet 2013. szeptember 1-jén lép hatályba.
+## 25/A. §[^61] A 21/A–21/C. § a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9. és 10. cikkének való megfelelést szolgálja.
 
 ## 26. § Ez a rendelet
 
 a) a biocid termékek forgalmazásáról és felhasználásáról szóló 2012. május 22-i 528/2012/EU európai parlamenti és a tanácsi rendelet,
 
-b)[^51]
+b)[^62]
 
-c)[^52] az 528/2012/EU európai parlamenti és tanácsi rendeletnek a kölcsönös elismerési eljárás tárgyát képező engedélyek megújítására vonatkozó szabályok tekintetében történő kiegészítéséről szóló 2014. március 7-i 492/2014/EU felhatalmazáson alapuló bizottsági rendelet,
+c)[^63] az 528/2012/EU európai parlamenti és tanácsi rendeletnek a kölcsönös elismerési eljárás tárgyát képező engedélyek megújítására vonatkozó szabályok tekintetében történő kiegészítéséről szóló 2014. március 7-i 492/2014/EU felhatalmazáson alapuló bizottsági rendelet,
 
-d)[^53] az 528/2012/EU európai parlamenti és tanácsi rendeletnek megfelelően az azonos biocid termékek engedélyezésére szolgáló eljárás meghatározásáról szóló 2013. május 6-i 414/2013/EU bizottsági végrehajtási rendelet
+d)[^64] az 528/2012/EU európai parlamenti és tanácsi rendeletnek megfelelően az azonos biocid termékek engedélyezésére szolgáló eljárás meghatározásáról szóló 2013. május 6-i 414/2013/EU bizottsági végrehajtási rendelet
 
-e)[^54] a biocid termékek forgalmazásáról és felhasználásáról szóló 528/2012/EU rendeletnek a piacra jutás bizonyos feltételei tekintetében történő módosításáról szóló, 2014. március 11-i 334/2014/EU európai parlamenti és tanácsi rendelet,
+e)[^65] a biocid termékek forgalmazásáról és felhasználásáról szóló 528/2012/EU rendeletnek a piacra jutás bizonyos feltételei tekintetében történő módosításáról szóló, 2014. március 11-i 334/2014/EU európai parlamenti és tanácsi rendelet,
 
-f)[^55] a biocid termékekben található valamennyi létező hatóanyag szisztematikus vizsgálatára irányuló, az 528/2012/EU európai parlamenti és tanácsi rendeletben említett munkaprogramról szóló, 2014. augusztus 4-i 1062/2014/EU felhatalmazáson alapuló bizottsági rendelet
+f)[^66] a biocid termékekben található valamennyi létező hatóanyag szisztematikus vizsgálatára irányuló, az 528/2012/EU európai parlamenti és tanácsi rendeletben említett munkaprogramról szóló, 2014. augusztus 4-i 1062/2014/EU felhatalmazáson alapuló bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^51]: A 26. § b) pontját a 364/2014. (XII. 30.) Korm. rendelet 113. § c) pontja hatályon kívül helyezte.
-[^52]: A 26. § c) pontját a 169/2014. (VII. 18.) Korm. rendelet 19. §-a iktatta be.
-[^53]: A 26. § d) pontját a 169/2014. (VII. 18.) Korm. rendelet 19. §-a iktatta be.
-[^54]: A 26. § e) pontját a 364/2014. (XII. 30.) Korm. rendelet 111. §-a iktatta be.
-[^55]: A 26. § f) pontját a 364/2014. (XII. 30.) Korm. rendelet 111. §-a iktatta be.
+[^61]: A 25/A. §-t az 507/2017. (XII. 29.) Korm. rendelet 45. §-a iktatta be.
+[^62]: A 26. § b) pontját a 364/2014. (XII. 30.) Korm. rendelet 113. § c) pontja hatályon kívül helyezte.
+[^63]: A 26. § c) pontját a 169/2014. (VII. 18.) Korm. rendelet 19. §-a iktatta be.
+[^64]: A 26. § d) pontját a 169/2014. (VII. 18.) Korm. rendelet 19. §-a iktatta be.
+[^65]: A 26. § e) pontját a 364/2014. (XII. 30.) Korm. rendelet 111. §-a iktatta be.
+[^66]: A 26. § f) pontját a 364/2014. (XII. 30.) Korm. rendelet 111. §-a iktatta be.
