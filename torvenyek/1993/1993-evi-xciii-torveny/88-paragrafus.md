@@ -4,7 +4,7 @@
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes építési munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket rendeletben jelölje ki;
+a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket kijelölje, valamint azok sajátos feladatait és a hatósági eljárás eltérő szabályait rendeletben határozza meg;
 
 b) rendeletet alkosson a foglalkozás-egészségügyi szolgálatról;
 
@@ -12,7 +12,9 @@ c) rendeletben állapítsa meg a munkavédelmi szakértői szakterületeket, a m
 
 d) rendeletben állapítsa meg a munkavédelmi bírság mértékére és kiszabására vonatkozó részletes szabályokat;
 
-e) rendeletben jelölje ki a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkavédelmi hatóságot.
+e) rendeletben jelölje ki a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkavédelmi hatóságot, továbbá szabályozza ezen hatóság által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.
+
+f) rendeletben állapítsa meg az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének szabályait.
 
 (3) Felhatalmazást kap a feladatkörében érintett miniszter, hogy
 
@@ -20,13 +22,13 @@ a) a rendkívüli munkavégzési körülmények esetére, illetőleg a rendvéde
 
 b) az egyes veszélyes tevékenységekre vonatkozó Szabályzatokat (11. §) a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben, rendeletben adja ki.
 
-c) rendeletben határozza meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes építési munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a hatósági ellenőrzési irányelv kiadása és a hatósági tevékenység tapasztalatairól való beszámolás rendjét, a munkavédelmi érdekképviseletre, érdekegyeztetésre, valamint a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+c) rendeletben határozza meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a hatósági ellenőrzési irányelv kiadása és a hatósági tevékenység tapasztalatairól való beszámolás rendjét, a munkavédelmi érdekképviseletre, érdekegyeztetésre, valamint a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
 (4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy
 
 a) rendeletben határozza meg
 
-aa) az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének;
+aa)
 
 ab) a munkahelyi biztonsági és egészségvédelmi jelzések alkalmazásának;
 
@@ -112,7 +114,7 @@ részletes szabályait.
 
 (5a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Országgyűlés elnöke véleménye kikérésével rendeletben határozza meg az Országgyűlési Őrség tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
-(5b) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel és a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében az e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+(5b) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel és a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében az e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
 (6) Ez a törvény a következő közösségi jogi aktusoknak való megfelelést szolgálja:
 

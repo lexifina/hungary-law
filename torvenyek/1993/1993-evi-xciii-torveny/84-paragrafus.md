@@ -1,6 +1,6 @@
 84. § (1) A munkavédelmi hatóság jogosult
 
-a) a munkahelyek tekintetében a munkáltatót határozatban kötelezni, hogy írásban nyújtson tájékoztatást a megjelölt munkavédelmi követelmények teljesítéséről;
+a)
 
 b) valamennyi munkahelyen – külön engedély nélkül – ellenőrzést tartani;
 
@@ -30,8 +30,18 @@ n) munkahigiénés vizsgálatok elvégeztetését elrendelni.
 
 (2) A munkavédelmi hatóság – a közúti közlekedéssel kapcsolatos munkabalesetet kivéve – köteles a bejelentett súlyos munkabalesetet, valamint a foglalkozási megbetegedést, a fokozott expozíciós esetet – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni.
 
-(3) A munkavédelmi hatóság – a munkavállaló egészségének és testi épségének megóvása, továbbá munkabaleset megelőzése céljából – az (1) bekezdés f), g) és j) pontjaiban foglalt határozatának fellebbezésre tekintet nélküli végrehajtását rendelheti el.
+(3) A munkavédelmi hatóság – a munkavállaló egészségének és testi épségének megóvása, továbbá munkabaleset megelőzése céljából – az (1) bekezdés f), g) és j) pontjaiban foglalt határozatának azonnali végrehajtását rendelheti el.
 
 (4) A munkavédelmi hatóság a tényállás alapján jogosult a munkáltató és a munkahelyen munkát végző személy közötti munkavégzésre irányuló – az ellenőrzés megkezdésekor, illetőleg baleset bekövetkezése esetén a baleset időpontjában fennálló – jogviszonyt szervezett munkavégzésnek minősíteni. A minősítéshez a munkáltatóként eljárás alá vontnak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a részére végzett munka nem tartozik a szervezett munkavégzés (87. § 9. pont) körébe.
 
 (5) Olyan munkahelyen, ahol különböző munkáltatók munkavállalókat egyidejűleg foglalkoztatnak, és a munkavédelmi ellenőrzés eredményeként valamely munkáltató nem azonosítható, a (4) bekezdés vonatkozásában az ellenkező bizonyításáig vélelmezni kell, hogy az érintett munkavállalók munkáltatója az, aki a tevékenységet a munkahelyen ténylegesen irányítja, ennek hiányában, aki a munkahelyért a fő felelősséget viseli, ha ilyen nincs, akkor az, akinek a területén a munkavégzés folyik.
+
+(6) A munkavédelmi hatóság a helyszíni ellenőrzés során készített jegyzőkönyv egy példányát a munkáltatónak, távollétében a munkavédelmi hatóság által készített feljegyzést a munkáltató részéről jelen lévő személynek átadja.
+
+(7) A munkavédelmi hatóság által a helyszíni ellenőrzésen közölt adatszolgáltatásra való felhívást a jegyzőkönyvben rögzíteni kell.
+
+(8) Az adatszolgáltatási kötelezettség körébe tartozó iratok másolatban nem nyújthatók be.
+
+(9) Ha a munkáltató adatszolgáltatási kötelezettsége körében nem a felhívásnak megfelelően szolgáltat adatot, a munkavédelmi hatóság a rendelkezésre álló adatok alapján dönt.
+
+(10) A munkavédelmi hatósági eljárásban a kapcsolattartás formáját a hatóság választja meg.

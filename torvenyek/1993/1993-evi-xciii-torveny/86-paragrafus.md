@@ -11,3 +11,9 @@ d) a bányafelügyelet hatáskörébe tartozó hatósági ügyekre, kivéve a mu
 e) a honvédségi szervezetekre, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyre, illetve ideiglenes építési munkahelyre, a Katonai Nemzetbiztonsági Szolgálatra, azon gazdasági társaságokra, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervekre, az Országgyűlési Őrségre és az önkormányzati tűzoltóságra.
 
 (2) Az (1) bekezdés e) pontjában említett szervek tekintetében külön jogszabály rendelkezik a munkavédelmi hatósági tevékenység ellátásáról.
+
+(3) A rendvédelmi szervek, az Országgyűlési Őrség, valalmint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatok ellátására kormányrendeletben kijelölt szerv e törvény szerinti eljárásaiban
+
+a) a kérelem kormányablaknál nem terjeszthető elő,
+
+b) az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.
