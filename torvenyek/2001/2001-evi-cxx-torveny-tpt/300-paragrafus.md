@@ -1,4 +1,4 @@
-300. § (1) A tőzsde alapítására vonatkozó engedély iránti kérelemhez mellékelni kell:
+300. § (1) A tőzsde alapítására vonatkozó engedély iránti kérelemhez mellékelni kell – az (5) bekezdésében foglaltak figyelembevételével –:
 
 a) a tőzsde alapszabályát;
 
@@ -14,7 +14,7 @@ f) külföldi székhelyű kérelmező esetében nyilatkozatot a kérelmező kéz
 
 g) nyilatkozatot arról, hogy a tőzsde irányítása a Magyarországon létesítendő főirodában történik.
 
-(2) Ha az alapítók között olyan személy szerepel, aki (amely) az alapítás alatt lévő tőzsdében minősített befolyást kíván szerezni, az (1) bekezdésben foglaltakon kívül az engedély iránti kérelemhez mellékelni kell
+(2) Ha az alapítók között olyan személy szerepel, aki (amely) az alapítás alatt lévő tőzsdében minősített befolyást kíván szerezni, az (1) bekezdésben foglaltakon kívül az engedély iránti kérelemhez mellékelni kell – az (5) bekezdésében foglaltak figyelembevételével –
 
 a) a cég létesítő okiratát;
 
@@ -36,12 +36,12 @@ i) az alapító tulajdonosi szerkezetének, valamint azon körülményeknek a r�
 
 j) a kérelemben érintett személyek teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárulnak az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
-(2a) Minősített befolyással rendelkező természetes személy a tőzsde alapítására vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé hatósági bizonyítvány útján igazolja azt a tényt, hogy a 357. § (3) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+(2a) Minősített befolyással rendelkező természetes személy a tőzsde alapítására vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé – a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű.
 
 (3) Ha az alapítók között minősített befolyást szerezni kívánó külföldi székhelyű pénzügyi intézmény, biztosító, befektetési vállalkozás van, az (1) és (2) bekezdésben foglaltakon kívül az engedély iránti kérelemhez be kell nyújtani a székhely szerinti ország hatáskörrel rendelkező felügyeleti hatóságának igazolását vagy nyilatkozatát arról, hogy a vállalkozás a prudens tevékenység végzésére vonatkozó szabályokat betartva működik.
 
 (4) Alapítási engedély alapján a tőzsde létesítésével kapcsolatos tevékenység végezhető.
 
-(5) Ha a kérelmező az (1) bekezdés a) pontjában, valamint a (2) bekezdés a), b) pontjában meghatározott adatokat nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(5) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, akkor az (1) bekezdés g) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
-(6) Ha a kérelmező a (2) bekezdés e) pontjában meghatározott valamely magyarországi köztartozására vonatkozó adatot nem igazolja, a Felügyelet megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja a Felügyeletet.
+(6)

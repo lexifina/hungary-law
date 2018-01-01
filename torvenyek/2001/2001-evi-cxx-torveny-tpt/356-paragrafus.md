@@ -6,7 +6,7 @@ a) aki felsőfokú végzettséggel rendelkezik;
 
 b) aki legalább hároméves pénzügyi szakmai és pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
 
-c) aki hatósági bizonyítvány útján igazolja, hogy a 357. § (3) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
+c) aki – a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű.
 
 d) akivel szemben a 357. §-ban meghatározott kizáró ok nem áll fenn.
 

@@ -34,4 +34,4 @@ j) a forgalomba hozatal előkészítésével és lebonyolításával megbízott 
 
 (6) A Felügyelet az engedély megadását megtagadja, ha a tájékoztató nem felel meg e törvény, a végrehajtására kiadott jogszabály vagy az Fttv. rendelkezéseinek, a forgalomba hozatal joggal való visszaélésre irányul, vagy a forgalmazó, a kibocsátó nem tesz eleget a (2)–(4) bekezdés alapján tett felügyeleti intézkedésnek.
 
-(7) Ha a kérelmező az (1) bekezdés g) pontjában meghatározott adatokat nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(7) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, akkor az (1) bekezdés g) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.

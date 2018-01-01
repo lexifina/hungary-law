@@ -2,7 +2,9 @@
 
 358. § (1) A tőzsde, a központi szerződő fél, illetve a központi értéktár által – a Ptk. jogi személyekre vonatkozó rendelkezései által a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgáló (könyvvizsgáló cég) részére adható megbízás, amely rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel.
 
-(2)–(4)
+(2) A szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó által – a Ptk. jogi személyekre vonatkozó rendelkezései által a könyvvizsgálókra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég részére adható megbízás, amely rendelkezik kibocsátói minősítéssel.
+
+(3)–(4)
 
 (5)
 

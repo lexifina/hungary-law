@@ -40,7 +40,7 @@ közül a legmagasabb összeg.
 
 (3) Ha a céltársaság részvényeit több szabályozott piacra is bevezették, akkor az egyes szabályozott piacokon külön-külön számított átlagárak közül a legmagasabbat kell figyelembe venni azzal, hogy a forintértékre történő átszámítás során az ügyletkötés napján érvényes, MNB által közzétett hivatalos devizaárfolyamot kell alkalmazni.
 
-(4) Az ármeghatározás során figyelmen kívül kell hagyni azt az ügyletet, amely jogerős hatósági döntés vagy bírósági határozat által megállapítottan nem jogszerű körülmények között jött létre.
+(4) Az ármeghatározás során figyelmen kívül kell hagyni azt az ügyletet, amely végleges hatósági döntés vagy jogerős bírósági határozat által megállapítottan nem jogszerű körülmények között jött létre.
 
 (5) Saját tőkeként
 

@@ -2,7 +2,7 @@
 
 A törvényben hivatkozott jogszabályok rövidítései
 
-1. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
+1.
 
 2. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 
@@ -26,7 +26,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 12. Itv.: az illetékekről szóló 1990. évi XCIII. törvény,
 
-13. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
+13.
 
 14. MNBtv.: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény.
 
@@ -38,7 +38,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 18. Szmt.: a számvitelről szóló 2000. évi C. törvény,
 
-19. Vbt.: a választottbíráskodásról szóló 1994. évi LXXI. törvény.
+19.
 
 20. Bnytv.: a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény,
 

@@ -76,7 +76,7 @@ w) az V. Fejezetben foglalt tájékoztatási kötelezettségek megsértése eset
 
 3. bírságot szabhat ki.
 
-(2) A Felügyelet az (1) bekezdés h), i), n), o), r), s) és v) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el. A tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
+(2)
 
 (3)
 

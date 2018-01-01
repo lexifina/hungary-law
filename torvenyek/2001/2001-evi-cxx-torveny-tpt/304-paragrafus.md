@@ -24,4 +24,4 @@ f) a felelősségbiztosításról szóló szerződést;
 
 g) nyilatkozatot arra vonatkozóan, hogy a tevékenységét mikor kívánja megkezdeni;
 
-h) a vezető állású személyek megnevezését, valamint mindazon okiratokat, dokumentumokat, nyilatkozatokat, melyek alapján a 311. § és a 356. § előírásainak való megfelelésük megállapítható.
+h) a vezető állású személyek megnevezését, valamint – a 357. § (3a) bekezdésében foglaltak figyelembevételével – mindazon okiratokat, dokumentumokat, nyilatkozatokat, melyek alapján a 311. § és a 356. § előírásainak való megfelelésük megállapítható.
