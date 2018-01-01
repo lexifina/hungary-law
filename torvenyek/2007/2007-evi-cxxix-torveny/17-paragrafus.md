@@ -1,10 +1,10 @@
 17. § (1) Az eredeti állapot helyreállítását – határidő vagy határnap megjelölésével – az ingatlanügyi hatóság határozattal rendeli el, és a határozatban foglaltak végrehajtását helyszíni szemle keretében ellenőrzi.
 
-(1a) Az (1) bekezdéstől eltérően, ha az engedély nélküli más célú hasznosításra olyan földrészleten került sor, amelyre kisajátítási célú kérelmet nyújtottak be, és az ingatlanügyi hatóság a kisajátítási célú kérelem alapján a más célú hasznosítást jogerősen engedélyezte, az ingatlanügyi hatóság az eredeti állapot helyreállításának teljesítését határidő vagy határnap megjelölése nélkül, a kisajátítási eljárás eredményétől függő hatállyal rendeli el.
+(1a) Az (1) bekezdéstől eltérően, ha az engedély nélküli más célú hasznosításra olyan földrészleten került sor, amelyre kisajátítási célú kérelmet nyújtottak be, és az ingatlanügyi hatóság a kisajátítási célú kérelem alapján a más célú hasznosítást végleges döntéssel engedélyezte, az ingatlanügyi hatóság az eredeti állapot helyreállításának teljesítését határidő vagy határnap megjelölése nélkül, a kisajátítási eljárás eredményétől függő hatállyal rendeli el.
 
-(1b) Ha a kisajátítás elrendeléséről jogerős és végrehajtható döntés született, az ingatlanügyi hatóság az eredeti állapot helyreállításának függő hatályú elrendeléséről szóló (1a) bekezdése szerinti határozatát hatályon kívül helyezi, és ezzel egyidejűleg kötelezi az igénybevevőt az engedély nélküli más célú hasznosítás miatt a földvédelmi járulék és földvédelmi bírság megfizetésére.
+(1b) Ha a kisajátítás elrendeléséről véglegessé vált döntés született, az ingatlanügyi hatóság az eredeti állapot helyreállításának függő hatályú elrendeléséről szóló (1a) bekezdése szerinti határozatát hatályon kívül helyezi, és ezzel egyidejűleg kötelezi az igénybevevőt az engedély nélküli más célú hasznosítás miatt a földvédelmi járulék és földvédelmi bírság megfizetésére.
 
-(1c) Ha a kisajátítás iránti kérelmet elutasító jogerős és végrehajtható döntés született, az ingatlanügyi hatóság a kisajátítási célú kérelem alapján meghozott más célú hasznosítás engedélyezéséről szóló határozatát hatályon kívül helyezi, és ezzel egyidejűleg
+(1c) Ha a kisajátítás iránti kérelmet elutasító véglegessé vált döntés született, az ingatlanügyi hatóság a kisajátítási célú kérelem alapján meghozott más célú hasznosítás engedélyezéséről szóló határozatát hatályon kívül helyezi, és ezzel egyidejűleg
 
 a) az eredeti állapot helyreállításának függő hatályú elrendeléséről szóló (1a) bekezdése szerinti határozatát hatályában fenntartja és határidő vagy határnap megjelölésével elrendeli az eredeti állapot helyreállítását, vagy
 

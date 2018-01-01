@@ -1,6 +1,6 @@
-## Cél-kitermelőhely és a külfejtéses bányászati tevékenység végzéséhez szükséges termőföld végleges más célú hasznosításának engedélyezésére vonatkozó külön szabályok
+## 1. Cél-kitermelőhely, anyagnyerő hely és a külfejtéses bányászati tevékenység végzéséhez szükséges termőföld végleges más célú hasznosításának engedélyezésére vonatkozó külön szabályok
 
-15/B. § (1) A cél-kitermelőhely létesítéséhez és a külfejtéses bányászati tevékenység végzéséhez (a továbbiakban együtt: cél-kitermelőhely) szükséges termőföld más célú hasznosításának engedélyezése esetén a 9–13. §-ban foglaltakat ezen alcímben foglalt eltérésekkel kell alkalmazni.
+15/B. § (1) A cél-kitermelőhely és anyagnyerő hely létesítéséhez és a külfejtéses bányászati tevékenység végzéséhez (a továbbiakban együtt: cél-kitermelőhely és anyagnyerő hely) szükséges termőföld más célú hasznosításának engedélyezése esetén a 9–13. §-ban foglaltakat ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) A cél-kitermelőhely létesítéséhez szükséges termőföld végleges más célú hasznosításának engedélyezése iránti kérelmet a külön törvény szerinti építtető, az építtetővel szerződéses jogviszonyban álló vállalkozó, és a bányavállalkozó (ezen alcímben a továbbiakban együtt: jogosult) nyújthat be. A kérelemnek – a 12. § (1) bekezdésben foglaltakon túl – tartalmaznia kell a tevékenység megszüntetését követően a terület helyreállításának, természeti környezetbe való visszahelyezésének tervezett módját.
 

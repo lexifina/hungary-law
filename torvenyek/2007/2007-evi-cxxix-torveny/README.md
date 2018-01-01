@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-129-00-00
 | 2016-12-23 | 2016. évi CLXXXVII. törvény | 2007-129-00-00.27 |
 | 2017-01-01 | 2016. évi CXXVII. törvény | 2007-129-00-00.28 |
 | 2017-06-23 | 2017. évi LVIII. törvény | 2007-129-00-00.29 |
+| 2018-01-01 | 2017. évi CCV. törvény | 2007-129-00-00.30 |

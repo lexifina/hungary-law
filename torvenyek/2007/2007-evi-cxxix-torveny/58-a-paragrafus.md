@@ -1,20 +1,28 @@
 ## IV. Fejezet
 
-## A GYÜMÖLCS TERMŐHELYI KATASZTERI ELJÁRÁS, VALAMINT A GYÜMÖLCSÜLTETVÉNY TELEPÍTÉSÉNEK ENGEDÉLYEZÉSE ÉS NYILVÁNTARTÁSA
+## A GYÜMÖLCSTERMŐHELYI KATASZTERI ELJÁRÁS, A GYÜMÖLCSÜLTETVÉNY-TELEPÍTÉS BEJELENTÉSE, VALAMINT A GYÜMÖLCSÜLTETVÉNY KATASZTERI NYILVÁNTARTÁS
 
-58/A. § (1) A gyümölcs termőhelyi kataszter a gyümölcs termesztésére való alkalmasság szempontjából ökológiailag minősített, osztályozott és lehatárolt földterületek (a továbbiakban: termőhelyek) egységes nyilvántartási rendszere, amely tartalmazza
+58/A. § (1) A gyümölcstermőhelyi kataszter a termesztésre való alkalmasság szempontjából ökológiai minősítés alapján osztályba sorolt és térinformatikailag lehatárolt, 2500 m2 területnagyságot meghaladó földterületek (a továbbiakban: termőhelyek) egységes nyilvántartási rendszere, amelyet a gyümölcstermőhelyi katasztert vezető szerv vezet. A gyümölcstermőhelyi kataszter a következő alapadatokat tartalmazza:
 
-a) a termőhely azonosító adatait (település, helyrajzi szám, területnagyság),
+a) település,
 
-b) a gyümölcs termőhely ökológiai minősítését és a gyümölcsfajokat, amelyekre a minősítés vonatkozik.
+b) helyrajzi szám,
 
-(2) Az (1) bekezdés a) pontjában megjelölt adatoknak az ingatlan-nyilvántartásban szereplő adatoktól való eltérése esetén az ingatlan-nyilvántartásban szereplő adatokat kell irányadónak tekinteni.
+c) alrészlet-megjelölés,
 
-(3) Az (1) bekezdés b) pontjában meghatározott nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+d) területnagyság,
+
+e) termőhelyi besorolás.
+
+(2) Az (1) bekezdés a)–d) pontjában megjelölt adatoknak az ingatlan-nyilvántartásban szereplő adatoktól való eltérése esetén az ingatlan-nyilvántartásban szereplő adatokat kell irányadónak tekinteni.
+
+(3) Az (1) bekezdés e) pontjában meghatározott nyilvántartás közhiteles nyilvántartásnak minősül.
 
 (4) A gyümölcs termőhelyi kataszterbe sorolás, a kataszteri osztály módosítása, valamint a kataszterből való törlés (a továbbiakban együttesen: gyümölcs termőhelyi kataszteri eljárás) iránti kérelmet a gyümölcs termőhelyi katasztert vezető szervhez kell benyújtani.
 
-(5) A gyümölcs termőhelyi katasztert vezető szerv a gyümölcs termőhelyi kataszteri eljárásban hozott döntésének megfelelően módosítja a gyümölcs termőhelyi katasztert.
+(4a) A gyümölcs termőhelyi kataszteri eljárásban a kérelemhez öt évnél nem régebbi előzetes szakhatósági állásfoglalás is csatolható.
+
+(5) A gyümölcstermőhelyi kataszteri eljárásban a nyilvántartásba-vételi kérelemhez öt éven belül kiadott szakértői állásfoglalást kell csatolni.
 
 (6) A települési önkormányzat – a tulajdonos hozzájárulásával – kezdeményezheti a gyümölcs termőhelyi katasztert vezető szervnél a gyümölcs termőhelyi kataszter módosítását vagy a kataszterből történő törlést, amennyiben
 

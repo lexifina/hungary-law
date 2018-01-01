@@ -1,9 +1,9 @@
-58/B. § A gyümölcs termőhelyi kataszterbe tartozó termőhely az egyes gyümölcsfajok vonatkozásában a következő besorolást kapja:
+58/B. § A katasztert vezető szerv a gyümölcs termőhelyet a szakértői vélemény alapján a következő osztályokba sorolja:
 
-a) I. osztályú, termesztésre kiválóan alkalmas,
+a) I. osztályú, gyümölcstermesztésre kiválóan alkalmas termőhely,
 
-b) II. osztályú, termesztésre alkalmas,
+b) II. osztályú, gyümölcstermesztésre alkalmas termőhely,
 
-c) termesztésre feltételesen alkalmas, vagy
+c) III. osztályú gyümölcstermesztésre feltételesen alkalmas termőhely,
 
-d) termesztésre alkalmatlan.
+d) IV. osztályú, gyümölcstermesztésre alkalmatlan termőhely.

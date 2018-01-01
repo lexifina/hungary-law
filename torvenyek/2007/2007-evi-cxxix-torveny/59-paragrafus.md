@@ -1,5 +1,9 @@
-59. § (1) Árutermő gyümölcsfaültetvény és bogyósgyümölcs-ültetvény 3000 m2-nél nagyobb termőföldön vagy termőföldnek nem minősülő ingatlanon, e törvény felhatalmazása alapján kiadott jogszabályban meghatározott esetek kivételével csak engedéllyel telepíthető – kísérleti célú ültetvénytelepítés kivételével – a Nemzeti Fajtajegyzékben, valamint az Európai Unió valamely tagállamának fajtajegyzékében szereplő fajtákkal, a gyümölcs termőhelyi kataszterben az adott gyümölcsfaj termesztésére alkalmasnak vagy feltételesen alkalmasnak minősített termőhelyen.
+59. § (1) A 2500 m2-nél nagyobb gyümölcsültetvény termőföldön vagy termőföldnek nem minősülő ingatlanon – a kísérleti gyümölcsültetvény kivételével – a telepítési hatósághoz történt bejelentést, továbbá a telepítésre kerülő ültetvény telepítési hatóság általi nyilvántartásba vételét követően telepíthető.
 
-(2) A gyümölcsültetvény telepítésének engedélyezése iránti kérelmet a telepítési hatósághoz kell benyújtani. A kérelemnek tartalmaznia kell az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott adatokat, valamint az 50. § szerinti talajvédelmi tervet.
+(2) Az (1) bekezdés szerinti telepítéshez a Nemzeti Fajtajegyzékben, vagy az Európai Unió valamely tagállamának fajtajegyzékében szereplő gyümölcsfajta minősített ültetési anyaga telepíthető.
 
-(3) A telepítési hatóság a telepítési engedélyt legfeljebb három év időtartamra adja ki, amely időtartam egy alkalommal, legfeljebb a talajvédelmi terv érvényességi idejének lejártáig meghosszabbítható. A határozat az ingatlan határától meghatározott ültetési távolságot írhat elő.
+(3) A telepítési szándék bejelentését követően a gyümölcsültetvény a talajvédelmi terv érvényességi idejének lejártáig telepíthető.
+
+(4) A gyümölcsültetvény telepítését, termőre fordulását, kivágását, illetve újratelepítését az (1) bekezdésben foglaltak szerint be kell jelenteni a telepítési hatósághoz.
+
+(5) Kísérleti gyümölcsültetvény a telepítési hatóság engedélyével telepíthető.

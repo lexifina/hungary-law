@@ -2,13 +2,13 @@
 
 (2) A talajvédelmi hatóság eljárásához az alábbi esetekben a külön jogszabály szerinti talajvédelmi terv szükséges:
 
-a) a humuszos termőréteg mentéséhez az 1000 m2-nél nagyobb területnagyságú termőföld talajszintjének végleges megváltoztatásával járó beruházásnak nem minősülő tevékenységhez,
+a)
 
-b) humuszos termőréteg mentéséhez termőföldön történő, 400 m2-t meghaladó területigényű beruházás megvalósításához,
+b) humuszos termőréteg mentéséhez termőföldön történő, 400 m2-t meghaladó területigényű tevékenység megvalósítása,
 
-c) az ültetvénytelepítéshez,
+c) az ültetvénytelepítéshez, beleértve az 59. § (1) bekezdésében meghatározott ültetvények esetében a termőföldnek nem minősülő ingatlanon való telepítést is,
 
-d) a mezőgazdasági célú hasznosítást lehetővé tevő újrahasznosításhoz,
+d) a mezőgazdasági célú hasznosítást lehetővé tevő újrahasznosításhoz, valamint a termőföld eredeti állapotának helyreállításához, ha az érintett teljes terület meghaladja a 400 m2 területnagyságot, vagy vonalas létesítmények esetében az 500 métert,
 
 e) öntözéshez,
 

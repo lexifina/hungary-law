@@ -12,6 +12,12 @@ d) a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI
 
 e) halastó létesítése
 
+f) vízkivételt biztosító vízilétesítmény létesítése,
+
+h) kis teljesítményű erőmű földműves tulajdonos, vagy földműves földhasználó általi létesítése, üzemeltetése
+
 céljából veszik igénybe.
 
-(3) Termőföld más célú hasznosításával járó engedélyezési eljárás megindításához vagy folytatásához rendelkezésre kell állni a termőföld más célú hasznosításának engedélyezéséről szóló jogerős ingatlanügyi hatósági határozatnak. Termőföld más célú hasznosításának engedélyezéséről szóló jogerős ingatlanügyi hatósági határozat hiánya esetén az eljáró hatóságnak az eljárását fel kell függesztenie.
+(3) A termőföld más célú hasznosításával járó engedélyezési, jóváhagyási vagy tudomásulvételi (a továbbiakban együtt: engedélyezési) eljárásban érdemi döntés a termőföld más célú hasznosításának engedélyezéséről szóló véglegessé vált ingatlanügyi hatósági határozat figyelembevételével hozható. Az ingatlanügyi hatóság határozatának hiánya esetén az eljáró hatóság az engedélyezési eljárását felfüggeszti.
+
+(4) A termőföld más célú hasznosítása kizárólag a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) 13. § (3) bekezdésében meghatározott célokra engedélyezhető, ha a más célra hasznosítani kívánt föld tulajdonjogának megszerzésétől számított 5 év még nem telt el, és a tulajdonos a tulajdonszerzés alapjául szolgáló okiratban a Földforgalmi tv. 13. § (1) bekezdése szerinti nyilatkozatot tett.

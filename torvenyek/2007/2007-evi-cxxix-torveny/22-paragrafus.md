@@ -22,11 +22,11 @@ szóló határozatban kell rendelkezni.
 
 a) végleges más célú hasznosítás esetén – a termőföld belterületbe vonásának esetét kivéve – az igénybevétel megkezdése napján,
 
-b) termőföld belterületbe vonásának engedélyezése esetén, illetőleg engedély nélküli más célú hasznosítás esetén az engedélyező, illetőleg az eredeti állapot helyreállítását elfogadó, illetve a más célú hasznosítás folytatásához hozzájáruló határozat jogerőre emelkedését követő 30 napon belül,
+b) termőföld belterületbe vonásának engedélyezése esetén, illetőleg engedély nélküli más célú hasznosítás esetén az engedélyező, illetőleg az eredeti állapot helyreállítását elfogadó, illetve a más célú hasznosítás folytatásához hozzájáruló határozat véglegessé válását követő 30 napon belül,
 
-c) időleges más célú hasznosítás esetén az eredeti állapot helyreállítását elfogadó határozat jogerőre emelkedését követő 30 napon belül,
+c) időleges más célú hasznosítás esetén az eredeti állapot helyreállítását elfogadó határozat véglegessé válását követő 30 napon belül,
 
-d) a 14. § (9) bekezdésében meghatározott esetben a végleges más célú hasznosítás engedélyezéséről szóló határozat jogerőre emelkedését követő 30 napon belül
+d) a 14. § (9) bekezdésében meghatározott esetben a végleges más célú hasznosítás engedélyezéséről szóló határozat véglegessé válását követő 30 napon belül
 
 esedékes.
 

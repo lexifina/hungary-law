@@ -1,3 +1,1 @@
-28. § (1) A termőföldek egytől nyolcig terjedő minőségi osztályát osztályba sorozással kell megállapítani.
-
-(2) Az osztályba sorozás osztályozási vidékenként (becslőjárásonként) és településenként kijelölt mintatérhálózat alapján történik.
+28. § A termőföldek minőségének megállapítása az e törvény végrehajtására kiadott kormányrendeletben kijelölt becslőjárásoknak és osztályozási vidékeknek megfelelően, a járási és községi mintatérhálózat alapján osztályba sorozással történik.

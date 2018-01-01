@@ -1,6 +1,6 @@
 6/A. § (1) Ha az ingatlanügyi hatóság hivatalból vagy más eljárás kapcsán észleli, hogy az igénybevevő az újrahasznosítást előzetes bejelentés hiányában, illetve a bejelentésnek az ingatlanügyi hatóság általi jóváhagyása nélkül valósította meg, az ingatlanügyi hatóság – az újrahasznosításról való tudomásszerzést követő 15 napon belül – határidő megjelölésével felhívja az igénybevevőt, hogy az újhasznosítással érintett földrészletre vonatkozóan dokumentálja az újrahasznosítás megvalósítása érdekében elvégzett munkafolyamatokat, az újrahasznosítással kialakult új terepviszonyokat, valamint csatolja az újrahasznosított terület adatait ábrázoló ingatlan-nyilvántartási térképi adatbázisból nyomtatott olyan méretarányú térképmásolatot, amelynek tartama áttekinthető és tartalmazza a méretarány tényezőt.
 
-(2)
+(2) Az újrahasznosítás megvalósulását az ingatlanügyi hatóság állapítja meg.
 
 (3) Az ingatlanügyi hatóság földvédelmi bírság kiszabása mellett dönt az újrahasznosítás elfogadásáról és megállapítja az újrahasznosított terület művelési ágát és minőségi osztályát, vagy ennek hiányában a 6. § (10) bekezdésében meghatározottak szerint a további munkák előírásáról dönt.
 

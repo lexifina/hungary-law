@@ -1,5 +1,7 @@
 ## FÖLDMINŐSÍTÉS
 
-27. § (1) A földminősítés az az eljárás, amelynek során a földrészlet művelési ága, minőségi osztálya és kataszteri tiszta jövedelme (aranykorona értéke) az ingatlanügyi hatóság által külön jogszabály rendelkezései szerint megállapításra kerül.
+27. § (1) A földminősítési eljárás az ingatlanügyi hatóság által lefolytatott azon eljárás, amelynek során a földminősítés eredményeként a termőföld művelési ága, valamint minősége megállapításra kerül.
 
-(2) A hivatalból indult, illetőleg folytatott földminősítési eljárás során a helyszíni szemle, illetve ellenőrzés, és a műszeres vizsgálatok költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek. E bekezdés szerinti határidőre meg nem fizetett egyéb eljárási költség adók módjára behajtandó köztartozás.
+(2) A hivatalból indult, illetve folytatott földminősítési eljárás során a helyszíni szemle, illetve ellenőrzés, és a műszeres vizsgálatok költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek eljárási költségnek minősülnek.
+
+(3) A földminősítést e törvény és a végrehajtására kiadott kormányrendelet szabályai szerint kell végrehajtani.

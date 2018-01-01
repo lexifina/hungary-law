@@ -42,9 +42,9 @@ engedélyezi.
 
 (4) A (3) bekezdés a) pontjában meghatározott talajvédelmet szolgáló létesítménynek minősül: a meliorációs tervekben előirányzott munkálat, létesítmény, valamint a káros belvizek elvezetését szolgáló csatorna és vízfolyás létesítése.
 
-(5) A (3) bekezdés e) pontjában meghatározott intézmény, létesítmény építése céljára engedély akkor adható, ha az engedély jogosultja írásban kötelezettséget vállal arra, hogy az építményt a használatbavételi engedély jogerőre emelkedésének napjától számított 15 évig rendeltetésszerűen csak az engedélyben meghatározott célra használja.
+(5) A (3) bekezdés e) pontjában meghatározott intézmény, létesítmény építése céljára engedély akkor adható, ha az engedély jogosultja írásban kötelezettséget vállal arra, hogy az építményt a használatbavételi engedély véglegessé válásának napjától számított 15 évig rendeltetésszerűen csak az engedélyben meghatározott célra használja.
 
-(6) Az (5) bekezdésben szereplő engedély jogosultja köteles kérni – az építmény (létesítmény) végleges használatbavételi engedélye jogerőre emelkedése napjától számított 30 napon belül –, hogy az ingatlan-nyilvántartásba jegyezzék fel a terület hasznosításának az engedélyben meghatározott korlátozása tényét. E kötelezettség megszegése, továbbá az engedélytől eltérő hasznosítás esetén a járulékot utólag, az engedélyező határozat jogerőre emelkedése napjától számított, a mindenkori jegybanki alapkamat kétszeres nagyságú kamatával növelt összegben kell megfizetni.
+(6) Az (5) bekezdésben szereplő engedély jogosultja köteles kérni – az építmény (létesítmény) végleges használatbavételi engedélye véglegessé válása napjától számított 30 napon belül –, hogy az ingatlan-nyilvántartásba jegyezzék fel a terület hasznosításának az engedélyben meghatározott korlátozása tényét. E kötelezettség megszegése, továbbá az engedélytől eltérő hasznosítás esetén a járulékot utólag, az engedélyező határozat véglegessé válása napjától számított, a mindenkori jegybanki alapkamat kétszeres nagyságú kamatával növelt összegben kell megfizetni.
 
 (7) Az (5) bekezdésben szereplő engedély jogosultja az (5) bekezdésben foglalt határidő leteltével köteles kérni az ingatlanügyi hatóságnál a (6) bekezdés szerinti korlátozás tényének törlését az ingatlan-nyilvántartásból.
 

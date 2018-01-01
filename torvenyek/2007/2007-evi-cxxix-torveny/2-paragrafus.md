@@ -2,13 +2,13 @@
 
 2. § E törvény alkalmazásában
 
-1. átlagos minőségű termőföld: az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben meghatározott törzskönyvben szereplő, az adott település azonos művelési ágú termőföldjei 1 hektárra vetített aranykorona értékeinek területtel súlyozott átlagának megfelelő termőföld;
+1. átlagos minőségű termőföld: az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben (a továbbiakban: Inytv.) meghatározott törzskönyvben szereplő, az adott település – ideértve a fővárosi kerületet és az Inytv. 10. § (1) bekezdésében megjelölt városok esetében a kerületet – azonos művelési ágú termőföldjei 1 hektárra vetített aranykorona-értékeinek területtel súlyozott átlagának megfelelő termőföld;
 
-2. cél-kitermelőhely és anyagnyerő hely: a bányászatról szóló 1993. évi XLVIII. törvényben meghatározott cél-kitermelőhely;
+2. cél-kitermelőhely és anyagnyerő hely: a bányászatról szóló 1993. évi XLVIII. törvényben meghatározott cél-kitermelőhely és anyagnyerő hely;
 
 3. első igénybevétel: a termőföld más célú hasznosítása érdekében végzett első munkafolyamat, illetve fizikai beavatkozás;
 
-4. földminősítési mintatér: az a terület, amely egy adott – a településen, illetőleg a becslőjárásban előforduló – művelési ágú és minőségi osztályú termőföld jellemző tulajdonságainak, a termelés feltételeinek és természeti adottságainak szemléltetésére szolgál;
+4. földminősítési mintatér: különböző minőségű talajjal rendelkező földterületek jellemző tulajdonságainak szemléltetésére művelési áganként és minőségi osztályonként kijelölt azon terület, ahol ezek a tulajdonságok a becslőjáráson, illetve a településen (fővárosi kerületen) belül a legjellemzőbbek;
 
 5. földvédelmi eljárás: az ingatlanügyi hatóság által, ügydöntő hatóságként vagy szakhatóságként lefolytatott olyan hatósági eljárás, amely a termőföld mennyiségi védelmének érvényre juttatására, illetve a termőföld más célú hasznosításának engedélyezésére irányul;
 

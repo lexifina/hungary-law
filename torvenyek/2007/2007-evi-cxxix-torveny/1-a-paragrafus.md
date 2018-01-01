@@ -1,1 +1,3 @@
-1/A. § Az ingatlanügyi hatóság, valamint a talajvédelmi hatóság – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényben (a továbbiakban: Ket.) meghatározottak szerinti – jelentős számú ügyfelet érintő eljárásokban az ügyféllel hirdetményi úton tartja a kapcsolatot, továbbá ha a nyilvánosság véleményének megismerése érdekében szükséges, közmeghallgatást tart.
+1/A. § (1) A termőföld mennyiségi védelmével kapcsolatos, e törvény hatálya alá tartozó eljárások esetében az e törvényben meghatározott bejelentéseket az érintett eljárás megindítására irányuló kérelemnek kell tekinteni.
+
+(2) Az (1) bekezdésben meghatározott és jelentős számú ügyfelet érintő eljárásokban az ingatlanügyi hatóság a döntését hirdetményi úton közli. Jelentős számú ügyfelet érint az eljárás, ha több, mint harminc ügyfél érintett az eljárás megindításakor.

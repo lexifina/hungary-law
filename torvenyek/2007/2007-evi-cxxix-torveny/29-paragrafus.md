@@ -1,1 +1,1 @@
-29. § A termőföld kataszteri tiszta jövedelmét a minőségi osztály, a kataszteri tiszta jövedelmi fokozat és a területnagyság figyelembevételével kell meghatározni.
+29. § Az osztályba sorozás során a termőföld minőségeként a földterület minőségi osztályát és kataszteri tiszta jövedelmét kell meghatározni.

@@ -4,7 +4,7 @@
 
 (2) A talajvédelmi járulék, valamint a bírság fizetése alól felmentés nem adható.
 
-(3) A határidőre meg nem fizetett talajvédelmi járulék adók módjára behajtandó köztartozás.
+(3)
 
 (4) A talajvédelmi járulék és a talajvédelmi hatósági eljárásokhoz befizetett igazgatási szolgáltatási díj a talajvédelmi hatóság saját bevétele, melyet a 32–34. §-okban meghatározott feladatok ellátására kell fordítani.
 

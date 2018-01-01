@@ -32,7 +32,7 @@ b) a (3) bekezdés d) pontjában meghatározott esetben a bejelentés beérkezé
 
 követő 15 napon belül helyszíni szemle lefolytatásával ellenőrzi.
 
-(9) Ha az ingatlanügyi hatóság a helyszíni ellenőrzés során megállapítja, hogy
+(9) Ha az ingatlanügyi hatóság a helyszíni szemle során megállapítja, hogy
 
 a) az eredeti állapot helyreállítása megtörtént, az eredeti állapot helyreállítását határozattal elfogadja és dönt a földvédelmi járulék összegéről;
 

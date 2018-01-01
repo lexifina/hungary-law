@@ -4,7 +4,7 @@
 
 (2) A járulék a központi költségvetést illeti meg.
 
-(3) A határidőre meg nem fizetett járulék adók módjára behajtandó köztartozás.
+(3)
 
 (4) Az ingatlanügyi hatóság a kiszabott földvédelmi járulékokról és bírságokról nyilvántartást vezet.
 
@@ -12,11 +12,13 @@
 
 a) a fizetésre kötelezett szervezet jogutód nélkül megszűnt, vagy
 
-b) az adóhatóság igazolása alapján az adók módjára behajtandó köztartozás miatt a fizetésre kötelezettel szemben indult végrehajtási eljárás
+b) az adóhatóság igazolása alapján a határidőre meg nem fizetett járulék- és bírságtartozás miatt a fizetésre kötelezettel szemben indult végrehajtási eljárás
 
 ba) nem vezetett eredményre, illetve
 
-bb) a végrehajtáshoz való jog elévült. Az ingatlanügyi hatóságnak a kérelméhez csatolnia kell a törlés feltételeinek fennállását igazoló okiratokat.
+bb) a végrehajtáshoz való jog elévült.
+
+(4b) Az ingatlanügyi hatóságnak a (4a) bekezdés szerinti kérelméhez csatolnia kell a törlés feltételeinek fennállását igazoló okiratokat.
 
 (5) Az ingatlanügyi hatósághoz benyújtott,
 

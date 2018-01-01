@@ -12,13 +12,19 @@ d)
 
 (2) A kérelemhez csatolni kell:
 
-a) az ingatlan-nyilvántartási térképnek a más célú hasznosításra tervezett területet feltüntető másolatát és az ehhez tartozó területkimutatást, kivéve, ha a kérelem kizárólag az érintett földrészlet vagy földrészletek teljes területére vonatkozik;
+a) az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott, 30 napnál nem régebbi hiteles szemlemásolatot, amelyen egyértelmű jelzéssel ábrázolni kell a más célú hasznosításra tervezett területet, valamint az ehhez tartozó területszámítást, kivéve, ha a kérelem kizárólag az érintett földrészlet vagy földrészletek teljes területére vonatkozik;
 
 b) a 21. § (5) bekezdésében foglalt kötelezettségvállaló nyilatkozatot a járulékmentesség igénybevételéhez;
 
-c) a talajvédelmi tervet, amennyiben a kérelemben – az (1) bekezdés c) pontja szerint – megjelölt cél az 50. § (2) bekezdésének a) vagy b) pontjában foglaltak megvalósítására irányul;
+c) a talaj humuszos termőrétegének mentését megalapozó talajvédelmi tervet, ha a végleges más célú hasznosítás engedélyezése iránti kérelemben megjelölt teljes területigény és cél az 50. § (2) bekezdésének b) pontjában foglaltak megvalósítására irányul;
 
-d) az illetékes hegyközség hozzájárulását, ha a kérelem a borszőlő termőhelyi kataszterébe tartozó területet érint.
+d) az 50. § (2) bekezdés d) pontjában meghatározott, az eredeti állapot helyreállítását megalapozó talajvédelmi tervet;
+
+e) az illetékes hegyközség hozzájárulását, ha a kérelem a borszőlő termőhelyi kataszterébe tartozó területet érint;
+
+f) a 10. § (4) bekezdése szerinti esetben a tulajdonszerzés alapjául szolgáló okirat másolatát.
+
+(2a) A (2) bekezdés c) pontjában meghatározott talajvédelmi tervet nem kell csatolni a kérelemhez az olyan nyomvonalas beruházásoknak a megvalósításához, ahol a termőföld csak légvezeték biztonsági övezetével érintett.
 
 (3) Az (1) bekezdésben foglaltakon túl a kérelemben meg kell jelölni annak
 
