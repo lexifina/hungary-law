@@ -2,15 +2,15 @@
 
 5. § (1) Ha
 
-a) az egyetemes szolgáltató az egyetemes szolgáltatást nem az elektronikus hírközlésre vonatkozó szabályokban és az előfizetői szerződésben foglalt feltételekkel nyújtja, és ezért, vagy elektronikus hírközlésre vonatkozó szabályban foglalt egyéb okból az Elnök az egyetemes szolgáltatás nyújtása tárgyában megkötött hatósági szerződést jogerős és végrehajtható határozatával felmondja,
+a)[^2] az egyetemes szolgáltató az egyetemes szolgáltatást nem az elektronikus hírközlésre vonatkozó szabályokban és az előfizetői szerződésben foglalt feltételekkel nyújtja, és ezért, vagy elektronikus hírközlésre vonatkozó szabályban foglalt egyéb okból az Elnök az egyetemes szolgáltatás nyújtása tárgyában megkötött hatósági szerződést véglegessé vált és végrehajtható határozatával felmondja,
 
 b) az egyetemes szolgáltató és az Elnök által az egyetemes szolgáltatás nyújtása tárgyában megkötött hatósági szerződés megszűnik,
 
-c) a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) az egyetemes szolgáltatót vagy az egyetemes szolgáltatónak az egyetemes szolgáltatást érintő szolgáltatását jogerősen törli az elektronikus hírközlő hálózatokról (a továbbiakban: hálózat) és szolgáltatásokról vezetett nyilvántartásából,
+c)[^3] a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) az egyetemes szolgáltatót vagy az egyetemes szolgáltatónak az egyetemes szolgáltatást érintő szolgáltatását véglegesen törli az elektronikus hírközlő hálózatokról (a továbbiakban: hálózat) és szolgáltatásokról vezetett nyilvántartásából,
 
 d) az érintett szolgáltatáselem és – amennyiben ez az adott szolgáltatáselemmel összefüggésben értelmezhető – földrajzi számozási terület vonatkozásában az egyetemes szolgáltató kijelölése tárgyában hozott határozat (a továbbiakban: kijelölési határozat) visszavonásra kerül, vagy
 
-e) a kijelölési határozat jogerőre emelkedésétől számított három év eltelik,
+e)[^4] a kijelölési határozat véglegessé válásától számított három év eltelik,
 
 ## az Elnök e körülmény bekövetkezésétől számított 60 napon belül a Hatóság hirdetőtábláján való kifüggesztéssel és a Hatóság internetes honlapján az érintett szolgáltatáselem vagy szolgáltatáselemek vonatkozásában ajánlati felhívást tesz közzé. A közzététel időpontjának a hirdetmény Hatóság internetes honlapján történő hozzáférhetővé tételének időpontja számít.
 
@@ -18,4 +18,9 @@ e) a kijelölési határozat jogerőre emelkedésétől számított három év e
 
 (3) Ha a (2) bekezdésben meghatározott esetben az e rendelet szerint megkötött hatósági szerződés felmondása is szükséges, az Elnök az ajánlati felhívás közzétételét megelőzően közölt határozatával a hatósági szerződést felmondja.
 
-(4) Az (1) és (2) bekezdésben meghatározott esetekben az egyetemes szolgáltató a kijelölési eljárás – ideértve a kijelölési határozat bírósági felülvizsgálata iránti eljárást is – lezárultáig köteles az egyetemes szolgáltatást a kijelölési eljárást megelőző, korábbi kijelölési eljárásban hozott kijelölési határozatban foglalt – illetve, ha az Elnök és az egyetemes szolgáltató az egyetemes szolgáltatás tartalmáról hatósági szerződésben állapodtak meg, ezen hatósági szerződésben foglalt – változatlan feltételekkel nyújtani.
+(4)[^5] Az (1) és (2) bekezdésben meghatározott esetekben az egyetemes szolgáltató a kijelölési eljárás – ideértve a kijelölési határozat elleni közigazgatási pert is – lezárultáig köteles az egyetemes szolgáltatást a kijelölési eljárást megelőző, korábbi kijelölési eljárásban hozott kijelölési határozatban foglalt – illetve, ha az Elnök és az egyetemes szolgáltató az egyetemes szolgáltatás tartalmáról hatósági szerződésben állapodtak meg, ezen hatósági szerződésben foglalt – változatlan feltételekkel nyújtani.
+
+[^2]: Az 5. § (1) bekezdés a) pontja a 13/2017. (XII. 29.) NMHH rendelet 13. § (1) bekezdés a) pont aa) alpontja szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdés c) pontja a 13/2017. (XII. 29.) NMHH rendelet 13. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.
+[^4]: Az 5. § (1) bekezdés e) pontja a 13/2017. (XII. 29.) NMHH rendelet 13. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
+[^5]: Az 5. § (4) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.

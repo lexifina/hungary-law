@@ -1,4 +1,4 @@
-12. § (1) A 11. § (2) bekezdésében meghatározott esetben a kijelölési határozatnak a kijelölt egyetemes szolgáltatóval történő közlését követő 10 napon belül az Elnök – az egyetemes szolgáltatóval való hatósági szerződéskötés érdekében – hivatalból hatósági eljárást indít. Az eljárás ügyintézési határideje 45 nap, amely indokolt esetben egy alkalommal legfeljebb 30 nappal meghosszabbítható.
+12. § (1)[^6] A 11. § (2) bekezdésében meghatározott esetben a kijelölési határozatnak a kijelölt egyetemes szolgáltatóval történő közlését követő 10 napon belül az Elnök – az egyetemes szolgáltatóval való hatósági szerződéskötés érdekében – hivatalból hatósági eljárást indít.
 
 (2) Ha az (1) bekezdés szerinti hatósági eljárásban a kijelölt egyetemes szolgáltató nem vesz részt, vagy a hatósági szerződés megkötésétől elzárkózik – ideértve azt is, ha a kijelölt egyetemes szolgáltató az ajánlatát visszavonja –, az (1) bekezdésben meghatározott határidőn túl a hatósági szerződés nem köthető meg. Ebben az esetben az Elnök az eljárást az ügyintézési határidő utolsó napján megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
 
@@ -6,6 +6,9 @@
 
 (4) A (2) bekezdésben meghatározott esetben – ha a (3) bekezdés nem alkalmazható, vagy a (3) bekezdés szerinti második legjobb ajánlat benyújtója nem vállalja a hatósági szerződés megkötését – az Elnök a kijelölési határozatot akként módosítja, hogy az érintett szolgáltatáselem és – amennyiben ez az adott szolgáltatáselem vonatkozásában értelmezhető – földrajzi számozási terület vonatkozásában a 9. § szerinti szolgáltatót jelöli ki egyetemes szolgáltatóként, és a kijelölési határozatot kiegészíti a 11. § (1) bekezdésében foglalt azon tartalmi elemekkel, amelyeket a kijelölési határozat a 11. § (2) bekezdése alapján nem tartalmazott.
 
-(5) Ha a kijelölési határozat bírósági felülvizsgálatát kezdeményezték, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A bírósági felülvizsgálati eljárás időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás ügyintézési határidejébe nem számít bele.
+(5)[^7] Ha a kijelölési határozatot közigazgatási perben megtámadták, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A közigazgatási per időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás ügyintézési határidejébe nem számít bele.
 
 (6) A hatósági szerződés megkötése és a hatósági szerződés hatálybalépése közötti időtartam legfeljebb három hónap lehet.
+
+[^6]: A 12. § (1) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 12. § (5) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 13. § (1) bekezdés c) pontja szerint módosított szöveg.

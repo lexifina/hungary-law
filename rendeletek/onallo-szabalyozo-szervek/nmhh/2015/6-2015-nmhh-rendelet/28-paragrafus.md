@@ -12,4 +12,6 @@ c) a nyilvános telefonállomás üzemeltetéséből származó méltánytalan t
 
 (4) Ha az egyetemes szolgáltató méltánytalan többletteher jóváhagyására irányuló kérelme nem felel meg az Eht.-ban és az e rendeletben foglalt rendelkezéseknek, a Hatóság a méltánytalan többletteher megtérítésére irányuló kérelmet elutasítja.
 
-(5) Ha az egyetemes szolgáltató méltánytalan többletteher jóváhagyására irányuló kérelme megfelel az Eht.-ban és az e rendeletben foglalt rendelkezéseknek, a Hatóság a méltánytalan többletteher megtérítésére irányuló kérelmet jóváhagyja és az e tárgyban hozott döntés jogerőre emelkedésétől számított 30 napon belül intézkedik a méltánytalan többletteher megtérítése iránt.
+(5)[^8] Ha az egyetemes szolgáltató méltánytalan többletteher jóváhagyására irányuló kérelme megfelel az Eht.-ban és az e rendeletben foglalt rendelkezéseknek, a Hatóság a méltánytalan többletteher megtérítésére irányuló kérelmet jóváhagyja és az e tárgyban hozott döntés véglegessé válásától számított 30 napon belül intézkedik a méltánytalan többletteher megtérítése iránt.
+
+[^8]: A 28. § (5) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 13. § (1) bekezdés d) pontja szerint módosított szöveg.
