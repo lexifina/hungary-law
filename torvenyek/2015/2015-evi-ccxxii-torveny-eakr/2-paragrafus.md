@@ -28,9 +28,11 @@ a) büntetőeljárásban terheltként, tanúként, tolmácsként vagy szakértő
 
 b) hatósági eljárásban ügyfélként, tanúként, tolmácsként vagy szakértőként,
 
-c) peres vagy nemperes eljárásban félként, tanúként, tolmácsként vagy szakértőként,
+c) polgári peres vagy nemperes eljárásban félként, tanúként, tolmácsként vagy szakértőként,
 
-d) szabálysértési eljárásban eljárás alá vont személyként, tanúként, tolmácsként vagy szakértőként
+d) szabálysértési eljárásban eljárás alá vont személyként, tanúként, tolmácsként vagy szakértőként,
+
+e) közigazgatási perben és az egyéb közigazgatási bírósági eljárásban félként, tanúként, tolmácsként vagy szakértőként
 
 jár el.
 

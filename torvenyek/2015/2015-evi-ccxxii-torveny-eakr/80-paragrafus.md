@@ -10,8 +10,10 @@
 
 (3) A bizalmi szolgáltató a bejelentéshez az e törvény végrehajtására kiadott rendeletben meghatározott iratokat köteles csatolni.
 
-(4) A bizalmi felügyelet a bejelentés alapján a bizalmi szolgáltatót és a szolgáltatást nyilvántartásba veszi.
+(4) A bizalmi felügyelet az (1) bekezdés szerinti bejelentést megvizsgálja, és a jogszabályi feltételeknek megfelelő bejelentőt nyilvántartásba veszi.
 
 (5) A bizalmi szolgáltató köteles a bizalmi felügyelet számára bejelenteni, ha a bejelentések alapján nyilvántartásba vett adatokhoz képest működésében vagy a bizalmi szolgáltatás nyújtásában változás történik.
 
 (6) A minősített bizalmi szolgáltatást nyújtó bizalmi szolgáltató a változás bekövetkeztét legalább 30 nappal megelőzően értesíti a bizalmi felügyeletet a nyilvántartásba vett adatokhoz képest működésében vagy a bizalmi szolgáltatás nyújtásában bekövetkező, tervezett változásokról.
+
+(7) A bizalmi szolgáltatással kapcsolatos bejelentés, illetve kérelem közvetlenül a bizalmi felügyelethez nyújtható be.

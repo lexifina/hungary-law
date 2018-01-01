@@ -32,6 +32,8 @@ j) az elektronikus űrlapkitöltés-támogatási szolgáltatással létrehozott 
 
 (4) Az 1. § 17. pont a), b), d)–f) és j) alpontja szerinti szervek kötelesek az (1) bekezdés szerinti információs rendszer folyamatos elérhetőségét biztosítani.
 
+(4a) Az elektronikus ügyintézést biztosító szervek kötelesek az ügyek intézésével kapcsolatos, a Kormány rendeletében meghatározott adatokról – ha jogszabály szigorúbb követelményt nem állapít meg – legalább a Kormány rendeletében meghatározottak szerinti gyakorisággal és rendben mentéseket létrehozni, valamint a biztonsági mentéseket a Kormány által kijelölt, az adatok őrzéséért felelős szervnek megküldeni. A biztonsági mentés adataiba az adatok őrzéséért felelős szerv nem tekinthet bele.
+
 (5) Az elektronikus ügyintézést biztosító szerv az ügyfél számára az elektronikus ügyintézést a teljes ügyintézési folyamatot támogató elektronikus ügyintézési megoldások útján biztosítja, ha azt törvény vagy az ügyfél ügyintézési rendelkezése nem zárja ki, és a teljes ügyintézési folyamat megvalósítható elektronikus ügyintézési megoldások útján.
 
 (6) Az elektronikus ügyintézést biztosító szerv az ügyfélnek címzett olyan nyilatkozatait, amelyek esetében az elektronikus út értelmezhető, elektronikus úton teszi meg, ha

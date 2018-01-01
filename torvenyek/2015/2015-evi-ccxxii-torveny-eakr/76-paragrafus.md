@@ -6,11 +6,11 @@
 
 (3) A Felügyelet összeveti az információátadási szabályzatot a 78. § (1) bekezdése szerinti műszaki irányelvekben és az e törvény szerinti együttműködésre vonatkozó nemzeti szabványokban foglaltakkal.
 
-(4) A közigazgatási hatósági ügynek nem minősülő felügyeleti vizsgálatra a közigazgatási hatósági eljárásról szóló törvény hatósági ellenőrzésre vonatkozó rendelkezéseit az alábbi, valamint kormányrendeletben meghatározott további eltérésekkel kell alkalmazni:
+(4) A közigazgatási hatósági ügynek nem minősülő felügyeleti vizsgálatra az általános közigazgatási rendtartásról szóló törvény hatósági ellenőrzésre vonatkozó rendelkezéseit az alábbi, valamint kormányrendeletben meghatározott további eltérésekkel kell alkalmazni:
 
 a) a felügyeleti vizsgálat eredményeként felügyeleti jelentés készül,
 
-b) a felügyeleti jelentésre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény jegyzőkönyvre vonatkozó szabályait kell alkalmazni, azzal, hogy nyilvánosságra nem hozható személyes adatot nem tartalmazhat.
+b) a felügyeleti jelentésre az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 78. §-át kell alkalmazni, azzal, hogy nyilvánosságra nem hozható személyes adatot nem tartalmazhat.
 
 (5) Ha a Felügyelet a felügyeleti vizsgálat során olyan információ birtokába jut, amely információbiztonsági kockázatot jelenthet, haladéktalanul értesíti az elektronikus információs rendszerek biztonságának felügyeletéért felelős hatóságot.
 

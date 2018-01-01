@@ -12,4 +12,4 @@ d) az 88. § és 89. § szerinti átvevő bizalmi szolgáltatókról; és
 
 e) a 84. § (2) bekezdése szerinti azon minősített archiválási szolgáltatásokról, amelyeket a bizalmi szolgáltatók megőrzési kötelezettségének ellátására használnak.
 
-(2) A bizalmi szolgáltatók által nyújtott minősített bizalmi szolgáltatásokra vonatkozó hatósági nyilvántartás és az (1) bekezdés szerinti nyilvántartások – azon adatok kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles nyilvántartásnak minősülnek.
+(2) Az (1) bekezdés szerinti nyilvántartásokban nyilvános adatként, illetve dokumentumként közzétehető a bizalmi szolgáltató neve, lakcíme, székhelye, nyilvántartásbavételi száma, a szolgáltatás megjelölése, nyújtásának helye, megkezdésének időpontja, a szolgáltatási szabályzat, a szolgáltatási rend, a szolgáltatási kivonat, valamint az általános szerződési feltétel. A bizalmi felügyelet által közzétett nyilvántartás közhiteles nyilvántartásnak minősül.

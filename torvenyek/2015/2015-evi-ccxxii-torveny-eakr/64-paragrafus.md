@@ -15,3 +15,5 @@ továbbítják.
 (4) Az együttműködő szerv az információt, ha az átadására alkalmas automatikus információátadási felület a rendelkezésére áll, ennek az igénybevételével veszi át.
 
 (5) Az összerendelési nyilvántartás szolgáltatáshoz csatlakozott, a természetes személyazonosító adatoktól eltérő azonosítót használó együttműködő szervek közötti, személyes adatok továbbításával járó információátadás, ha annak a törvényi feltételei fennállnak, az összerendelési nyilvántartás alkalmazásával is megvalósítható.
+
+(6) Az együttműködő szerv a rendelkezésére álló és a jogszabály alapján átadható vagy átadandó információkat az (1) bekezdés szerinti információátadás helyett elektronikusan hozzáférhetővé teheti a másik együttműködő szerv számára, ha az ehhez szükséges informatikai feltételek rendelkezésre állnak. Ha a kézbesítéshez jogszabály jogkövetkezményt fűz vagy az információt jogszabályban meghatározott határidőben kell biztosítani, a hozzáférhetővé tétel tényéről az információt átadó együttműködő szerv a másik együttműködő szervet az 58. § (2) bekezdése szerint tájékoztatja.

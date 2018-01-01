@@ -8,7 +8,7 @@
 
 a) az elektronikus ügyintézés és az elektronikus kapcsolattartás részletes szabályait,
 
-b)
+b) az elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak az elektronikus ügyintézést nem biztosító szerv által történő felhasználása feltételeit, a felhasználás során a Felügyelet feladatát és eljárását, valamint a szolgáltatás használatáért számítható díj megállapításának módját,
 
 c) a szabályozott elektronikus ügyintézési szolgáltatások és a központi elektronikus ügyintézési szolgáltatások részletes követelményeit, a szolgáltatásnyújtás részletes eljárási rendjét, a szolgáltatás igénybevételének részletes szabályait, a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési és a szolgáltató által teljesítendő személyi és pénzügyi feltételeket, a szabályozott elektronikus ügyintézési szolgáltatás bejelentésével, valamint a Felügyelet általi bírság kiszabásával kapcsolatos rendelkezéseket és a bírság mértékét,
 
@@ -32,7 +32,11 @@ l) a 14. § (7) bekezdése szerinti jogalanyok körét,
 
 m) az országos telefonos ügyfélszolgálat működésének részletes szabályait,
 
-n) a papír alapú dokumentumokról elektronikus úton történő másolat készítésére vonatkozó részletes szabályokat.
+n) a papír alapú dokumentumokról elektronikus úton történő másolat készítésére vonatkozó részletes szabályokat,
+
+o) az elektronikus ügyintézést biztosító szerveknek az ügyek intézésével kapcsolatos adatai biztonsági mentésének rendjét és gyakoriságát, valamint az adatok őrzéséért felelős szervet,
+
+p) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 

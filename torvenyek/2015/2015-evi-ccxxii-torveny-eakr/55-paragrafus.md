@@ -21,3 +21,5 @@ f) technikai megoldások más közfeladatot ellátó szervek általi újrahaszno
 (4) Az együttműködő szerv az e törvény szerinti közzétételi kötelezettségeinek a Kormány által rendeletben meghatározott közzétételi felületen is köteles eleget tenni.
 
 (5) Az együttműködő szerv köteles biztosítani, hogy az érintett személy a személyes adatainak forrásáról és továbbításáról tájékoztatást kaphasson.
+
+(6) Az (5) bekezdés szerinti, az érintett személy személyes adatainak továbbítására vonatkozó tájékoztatási kötelezettséget a 74. § (3) bekezdés d) pont da) alpontja szerinti központi elektronikus ügyintézési szolgáltatást igénybe vevő állami szervek a 74. § (3) bekezdés d) pont db) alpontja alapján biztosítják.

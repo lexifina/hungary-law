@@ -58,29 +58,29 @@ e) az elektronikus fizetési és elszámolási rendszeren keresztül, POS termin
 
 17. elektronikus ügyintézést biztosító szerv:
 
-a) az államigazgatási szervek,
+a) az államigazgatási szerv,
 
 b) a helyi önkormányzat,
 
-c) a törvény vagy kormányrendelet által közigazgatási hatósági jogkör gyakorlására feljogosított egyéb jogalanyok,
+c) a törvény vagy kormányrendelet által közigazgatási hatósági jogkör gyakorlására feljogosított egyéb jogalany,
 
-d) az Országos Bírósági Hivatal és a bíróságok,
+d) az Országos Bírósági Hivatal és a bíróság,
 
 e) az alapvető jogok biztosa,
 
 f) az ügyészség,
 
-g) a közjegyzők,
+g) a közjegyző,
 
-h) a bírósági végrehajtók,
+h) a bírósági végrehajtó, az önálló bírósági végrehajtó iroda,
 
-i) a hegyközségek kivételével a köztestületek,
+i) a hegyközségek kivételével a köztestület,
 
-j) a közüzemi szolgáltatók,
+j) a közüzemi szolgáltató,
 
-k) a törvényben vagy kormányrendeletben elektronikus ügyintézésre kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalanyok, valamint
+k) a törvényben vagy kormányrendeletben elektronikus ügyintézésre kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalany, valamint
 
-l) a meghatározott ügyek e törvény szerinti elektronikus intézését önkéntesen vállaló, az e törvényben meghatározott feltételeknek megfelelően biztosító és ezt az Elektronikus Ügyintézési Felügyeletnek bejelentő, az a)–k) alpont hatálya alá nem tartozó jogalanyok;
+l) a meghatározott ügyek e törvény szerinti elektronikus intézését önkéntesen vállaló, az e törvényben meghatározott feltételeknek megfelelően biztosító és ezt az Elektronikus Ügyintézési Felügyeletnek bejelentő, az a)–k) alpont hatálya alá nem tartozó jogalany;
 
 17a. Elektronikus ügyintézés biztosítására kötelezett állami szerv: az 17. pont a), b), d)–f) alpontja szerinti szervek, valamint a 17. pont c), k) és l) pontja szerinti állami vagy önkormányzati jogalanyok;
 
@@ -94,7 +94,7 @@ l) a meghatározott ügyek e törvény szerinti elektronikus intézését önké
 
 22. fokozott biztonságú elektronikus aláírás: az eIDAS Rendelet 3. cikkének 11. pontja szerinti aláírás;
 
-23. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott, belföldi székhellyel rendelkező gazdálkodó szervezet, azzal az eltéréssel, hogy e törvény alkalmazásában gazdálkodó szervezetnek minősül valamennyi gazdasági tevékenységet folytató jogi személyiséggel nem rendelkező, belföldi székhelyű szervezet;
+23. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott, belföldi székhellyel rendelkező gazdálkodó szervezet, azzal az eltéréssel, hogy e törvény alkalmazásában nem minősül gazdálkodó szervezetnek a lakásszövetkezet, valamint az adószámmal nem rendelkező egyesület, alapítvány.
 
 24. hitelesítési rend: olyan bizalmi szolgáltatási rend, amely bizalmi szolgáltatás keretében kibocsátott tanúsítványra vonatkozik;
 
@@ -106,7 +106,7 @@ l) a meghatározott ügyek e törvény szerinti elektronikus intézését önké
 
 28. irányadó bizalmi szolgáltatási követelmények: az eIDAS Rendeletben, az eIDAS Rendelet uniós végrehajtási aktusaiban, az e törvényben, az e törvény felhatalmazása alapján kiadott jogszabályokban, a bizalmi szolgáltató szolgáltatási szabályzatában, bizalmi szolgáltatási rendjében, valamint a bizalmi felügyelet bizalmi szolgáltatóra vonatkozó határozatában meghatározott követelmények;
 
-29. jogi képviselő: jogszabály eltérő rendelkezése hiányában az ügyfél képviseletében eljáró ügyvéd, ügyvédi iroda és jogtanácsos;
+29. jogi képviselő: jogszabály eltérő rendelkezése hiányában az ügyfél képviseletében eljáró ügyvéd, ügyvédi iroda és kamarai jogtanácsos;
 
 30. kormányzati célú hírközlési szolgáltatás: az elektronikus hírközlésről szóló törvényben meghatározott kormányzati célú hálózatnak minősülő, jogszabályban meghatározott elektronikus hírközlő hálózat felhasználásával, jogszabályban meghatározott felhasználók részére nyújtott elektronikus hírközlési szolgáltatás;
 

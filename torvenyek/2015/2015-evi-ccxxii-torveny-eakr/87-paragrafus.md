@@ -6,7 +6,7 @@ b) a szolgáltatással kapcsolatos – jogszabályban, a szolgáltatási szabál
 
 c) tudomást szerez róla, hogy a tanúsítványban foglalt adatok nem felelnek meg a valóságnak;
 
-d) a bizalmi felügyelet ezt jogerős és végrehajtható határozatában elrendeli;
+d) a bizalmi felügyelet ezt végleges határozatában elrendeli;
 
 e) az adott bizalmi szolgáltatás nyújtását befejezte.
 

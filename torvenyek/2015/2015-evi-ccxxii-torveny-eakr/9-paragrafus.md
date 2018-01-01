@@ -1,26 +1,28 @@
 ## 3. Kötelező elektronikus ügyintézés
 
-9. § (1) Ha nemzetközi szerződésből eredő kötelezettség alapján törvény nem rendelkezik eltérően, elektronikus ügyintézésre köteles valamennyi, a 2. § (1) bekezdése szerinti ügy tekintetében
+9. § (1) Ha nemzetközi szerződésből eredő kötelezettség alapján törvény vagy nemzetközi szerződés eltérően nem rendelkezik, elektronikus ügyintézésre köteles valamennyi, a 2. § (1) bekezdése szerinti ügy tekintetében
 
-a) az ügyfélként eljáró gazdálkodó szervezet,
+a) az ügyfélként eljáró
 
-b) az ügyfél jogi képviselője,
+aa) gazdálkodó szervezet,
 
-c) az ügyfélként eljáró
+ab) állam,
 
-ca) állam,
+ac) önkormányzat,
 
-cb) önkormányzat,
+ad) költségvetési szerv,
 
-cc) költségvetési szerv,
+ae) ügyész,
 
-cd) ügyész,
+af) jegyző,
 
-ce) jegyző
+ag) köztestület,
 
-cf) köztestület,
+ah) az ac)–ag) alpontok hatálya alá nem tartozó egyéb közigazgatási hatóság, valamint
 
-cg) a cb)–cf) pontok hatálya alá nem tartozó egyéb közigazgatási hatóság.
+b) az ügyfél jogi képviselője.
+
+(1a) Az (1) bekezdésben megjelölt ügyfél, a jogi képviselő, továbbá törvényben elektronikus ügyintézésre kötelezett ügyfél, valamint az elektronikus ügyintézést önkéntesen vállaló ügyfél részére küldött dokumentum kézbesítésére a 14. § (4) bekezdését megfelelően alkalmazni kell.
 
 (2) Elektronikus ügyintézésre az (1) bekezdésben meghatározott eseteken túl az ügyfél vagy annak képviselője kizárólag törvényben meghatározott esetekben és csak akkor köteles, ha az adott ügyintézési cselekmény tekintetében az értelmezhető.
 

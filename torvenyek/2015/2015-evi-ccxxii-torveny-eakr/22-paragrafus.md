@@ -41,3 +41,5 @@ tehető vagy módosítható.
 (7) Törvény vagy eredeti jogalkotói hatáskörben megalkotott kormányrendelet előírhatja, hogy folyamatban lévő ügyben az ügy megindítását követően az elektronikus ügyintézést biztosító szerv a rendelkezési nyilvántartásba tett új ügyintézési rendelkezést vagy annak módosítását csak akkor veszi figyelembe, ha azt az ügyfél az elektronikus ügyintézést biztosító szervnek is bejelenti.
 
 (8) Törvény vagy eredeti jogalkotói hatáskörben megalkotott kormányrendelet előírhatja, hogy az (1) bekezdés e) pontja szerinti jognyilatkozat csak a meghatalmazás elfogadásával és ennek a rendelkezési nyilvántartásban való rögzítésével érvényes.
+
+(9) Természetes személy vagy egyéni vállalkozó ügyfél kivételével az állami adó- és vámhatóság hatáskörébe és az önkormányzati adóhatóság hatáskörébe tartozó ügyekben – ide nem értve az állami adó- és vámhatóság nyomozóhatósági feladatait – (a továbbiakban együtt: adóügyekben) az (1) bekezdés e) pontja szerinti rendelkezésnek nincs helye.
