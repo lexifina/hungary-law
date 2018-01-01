@@ -1,4 +1,4 @@
-## 6–7. §[^2]
+## 6–7. §[^3]
 
 1. melléklet a 438/2015. (XII. 28.) Korm. rendelethez
 
@@ -46,4 +46,4 @@ VGB= A*ENG*ERT*HAT
 
 VGB= A*ANY*HAT
 
-[^2]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
