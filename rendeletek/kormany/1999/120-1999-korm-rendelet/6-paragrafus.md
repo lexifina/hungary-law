@@ -2,13 +2,13 @@
 
 6. § (1)[^9] A meder tulajdonosa a meder használatával összefüggésben – a közérdek, illetve a fenntartási szakfeladatok ellátásához fűződő követelmények sérelme nélkül – hozzájárulhat ahhoz, hogy a medret meghatározott vízilétesítmény (kikötői lekötőmű, móló az úszó móló kivételével, sólyapálya, partvédő művek, hullámtörő, energiatörő) elhelyezése céljából használják, ha azt más jogszabály nem korlátozza, illetve nem tiltja (a továbbiakban: mederhasználati vízilétesítmény).
 
-(2)[^10] A nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmények üzemeltetőjét az üzemeltetési hatósági engedély jogerőre emelkedése napjától kezdődően a vízilétesítmény által igénybe vett terület mértékéig terjedően e rendelet erejénél fogva használati jog illeti meg (a továbbiakban: mederhasználati jog). A mederhasználati jog ingatlan-nyilvántartásba – használati jogként – történő bejegyzését e rendeletre való hivatkozással, a jogerős engedély benyújtásával az üzemeltető köteles kérni.
+(2)[^10] A nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmények üzemeltetőjét az üzemeltetési hatósági engedély véglegessé válása napjától kezdődően a vízilétesítmény által igénybe vett terület mértékéig terjedően e rendelet erejénél fogva használati jog illeti meg (a továbbiakban: mederhasználati jog). A mederhasználati jog ingatlan-nyilvántartásba – használati jogként – történő bejegyzése érdekében a vízügyi hatóság az üzemeltetési engedély véglegessé válásáról értesíti az ingatlanügyi hatóságot.
 
-(3)[^11] A mederhasználati jog az üzemeltetési engedélyben meghatározott üzemeltetési időszakban áll fenn. Az üzemeltetési engedély meghosszabbítása esetén a mederhasználati jog a meghosszabbított üzemeltetési időszakra terjedően áll fenn a meghosszabbítást kimondó hatósági határozat jogerőre emelkedésének napjától számítottan. Az üzemeltetési engedély lejártának napján vagy visszavonásának jogerőre emelkedése napján a mederhasználati jog megszűnik. Az ingatlan-nyilvántartásba bejegyzett mederhasználati jogot annak megszűnésekor az ingatlanügyi hatóság a vízügyi hatóság megkeresésére törli. A vízügyi hatóság megkeresésén alapuló törléshez az üzemeltető hozzájárulására nincs szükség.
+(3)[^11] A mederhasználati jog az üzemeltetési engedélyben meghatározott üzemeltetési időszakban áll fenn. Az üzemeltetési engedély meghosszabbítása esetén a mederhasználati jog a meghosszabbított üzemeltetési időszakra terjedően áll fenn a meghosszabbítást kimondó hatósági határozat véglegessé válásának napjától számítottan. Az üzemeltetési engedély lejártának napján vagy visszavonásának véglegessé válása napján a mederhasználati jog megszűnik. Az ingatlan-nyilvántartásba bejegyzett mederhasználati jogot annak megszűnésekor az ingatlanügyi hatóság a vízügyi hatóság megkeresésére törli. A vízügyi hatóság megkeresésén alapuló törléshez az üzemeltető hozzájárulására nincs szükség.
 
 (4)[^12] A mederhasználati jog jogosultja – jogszabályban meghatározott – ellenérték fizetésére köteles. A jogosultnak az üzemeltetési engedély meghosszabbítása esetén a meghosszabbított időszakra vonatkozó ellenérték fizetési kötelezettségére az (5) bekezdésben foglaltak az irányadók.
 
-(5)[^13] A mederhasználati jog ellenértékét – a meder tulajdonosával kötött eltérő tartalmú megállapodás hiányában – a jogosult egy összegben, az üzemeltetési engedély jogerőre emelkedésének napjától számított 30 napon belül köteles megfizetni a meder tulajdonosának.
+(5)[^13] A mederhasználati jog ellenértékét – a meder tulajdonosával kötött eltérő tartalmú megállapodás hiányában – a jogosult egy összegben, az üzemeltetési engedély véglegessé válásának napjától számított 30 napon belül köteles megfizetni a meder tulajdonosának.
 
 (6)[^14] A nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmény üzemeltetési engedélyét a hatóság köteles azonnali hatállyal visszavonni, ha
 
@@ -33,10 +33,10 @@ d) élővilág-védelmi szempontból a parti sáv élővilágát, valamint a hal
 e)[^18] a kulturális örökségi értékeket.
 
 [^9]: A 6. § (1) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^10]: A 6. § (2) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^11]: A 6. § (3) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^10]: A 6. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 75. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: A 6. § (3) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 76. § a)–b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^12]: A 6. § (4) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^13]: A 6. § (5) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^13]: A 6. § (5) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 76. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^14]: A 6. § (6) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^15]: A 6. § (7) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^16]: A 6. § (8) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
