@@ -8,7 +8,7 @@ c) a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban
 
 d) a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 63/A. § (3) bekezdésében, 113. § (2) bekezdésében,
 
-e)[^2] az Fttv. 12. § (3) bekezdésében,
+e)[^3] az Fttv. 12. § (3) bekezdésében,
 
 f) a pálinkáról, a törkölypálinkáról és a Pálinka Nemzeti Tanácsról szóló 2008. évi LXXIII. törvény 11. § (2) bekezdés f) pont fc) alpontjában,
 
@@ -16,7 +16,7 @@ g) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. év
 
 h) a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 5. § (1) bekezdésében,
 
-i)[^3] a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet (a továbbiakban: 39/2013. Korm. rendelet) 17. § (3) bekezdésében
+i)[^4] a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet (a továbbiakban: 39/2013. Korm. rendelet) 17. § (3) bekezdésében
 
 ## foglaltak tekintetében fogyasztóvédelmi hatóságként a minisztert jelöli ki.
 
@@ -28,7 +28,7 @@ b) a gazdasági kamarákról szóló 1999. évi CXXI. törvény 10. § (1) bekez
 
 c) az Eht. 21. § (1)–(3) bekezdésében,
 
-d)[^4] a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 4. § (1) bekezdés b) pontjában, 9. §-ában, 11. § (1) bekezdésében, 18. § e) pontjában,
+d)[^5] a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 4. § (1) bekezdés b) pontjában, 9. §-ában, 11. § (1) bekezdésében, 18. § e) pontjában,
 
 e) a Vet. 163. § (1) bekezdésében és (3) bekezdés b) pontjában
 
@@ -52,7 +52,7 @@ e) a szippantott szennyvízre vonatkozó rezsicsökkentésről, valamint egyes t
 
 a) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 2. § (7a) bekezdésében, a 36/A. § (2) bekezdés b) pontjában foglaltak,
 
-b)[^5] az Fgytv. 16/B. §-ában, az Fgytv. 2. § h) pontja szerinti közszolgáltatási tevékenységet folytató vállalkozás, valamint a külön törvényben meghatározott egyéb vállalkozás esetében 17/A. §-ában, 17/B. §-ában, 17/D. § (1)–(2) és (6a) bekezdésében, 29. § (11) bekezdésében, 37/B. §-ában foglaltak,
+b)[^6] az Fgytv. 16/B. §-ában, az Fgytv. 2. § h) pontja szerinti közszolgáltatási tevékenységet folytató vállalkozás, valamint a külön törvényben meghatározott egyéb vállalkozás esetében 17/A. §-ában, 17/B. §-ában, 17/D. § (1)–(2) és (6a) bekezdésében, 29. § (11) bekezdésében, 37/B. §-ában foglaltak,
 
 c) a gazdasági reklámok és az üzletfeliratok, továbbá egyes közérdekű közlemények magyar nyelvű közzétételéről szóló 2001. évi XCVI. törvény 4. § (1) és (2) bekezdésében foglaltak,
 
@@ -60,7 +60,7 @@ d) az elektronikus kereskedelmi szolgáltatások, valamint az információs tár
 
 e) az Eht. 21. § (6) bekezdésében foglaltak,
 
-f)[^6] a Tszt. 7. § (1) bekezdés a) pontjában, 8. § (1) bekezdés b) pontjában, 10. § a) pontjában foglaltak,
+f)[^7] a Tszt. 7. § (1) bekezdés a) pontjában, 8. § (1) bekezdés b) pontjában, 10. § a) pontjában foglaltak,
 
 g) a kereskedelemről szóló 2005. évi CLXIV. törvény 5/C. és 5/D. §-ában foglaltak,
 
@@ -70,7 +70,7 @@ i) a Get. 64. §-ában foglaltak,
 
 j) az Fttv. 10. § (1) bekezdésében foglaltak,
 
-k)[^7] a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5/F. § és 24. § (1) bekezdésében foglaltak,
+k)[^8] a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5/F. § és 24. § (1) bekezdésében foglaltak,
 
 l) a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 5/E. §-ában foglaltak,
 
@@ -80,17 +80,17 @@ n) a Ht. 30. §-ában, 83. §-ában, 91. § (5) és (5a) bekezdésében foglalta
 
 o) az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény 11. §-ában foglaltak,
 
-p)[^8] a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet 6. §-ában foglaltak,
+p)[^9] a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet 6. §-ában foglaltak,
 
-q)[^9] a kémiai biztonságról szóló 2000. évi XXV. törvény 32. § (1) bekezdés e) és f) pontjában foglaltak,
+q)[^10] a kémiai biztonságról szóló 2000. évi XXV. törvény 32. § (1) bekezdés e) és f) pontjában foglaltak,
 
-r)[^10] a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 8. § (1) bekezdésében foglaltak,
+r)[^11] a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 8. § (1) bekezdésében foglaltak,
 
-s)[^11] a szippantott szennyvízre vonatkozó rezsicsökkentésről, valamint egyes törvényeknek a további rezsicsökkentéssel összefüggő módosításáról szóló 2013. évi CXIV. törvény 5. § (1) bekezdésében foglaltak
+s)[^12] a szippantott szennyvízre vonatkozó rezsicsökkentésről, valamint egyes törvényeknek a további rezsicsökkentéssel összefüggő módosításáról szóló 2013. évi CXIV. törvény 5. § (1) bekezdésében foglaltak
 
 ## tekintetében fogyasztóvédelmi hatóságként a megyeszékhely szerinti járási hivatalt jelöli ki.
 
-(4a)[^12] A (4) bekezdésben foglaltakkal megegyezően a Kormány
+(4a)[^13] A (4) bekezdésben foglaltakkal megegyezően a Kormány
 
 a) az egyes kültéri berendezések zajkibocsátási követelményeiről és megfelelőségük tanúsításáról szóló 140/2001. (VIII. 8.) Korm. rendelet 3. § (5) bekezdésében foglaltak,
 
@@ -116,9 +116,9 @@ k) a kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet 4. § (
 
 ## tekintetében fogyasztóvédelmi hatóságként a megyeszékhely szerinti járási hivatalt jelöli ki.
 
-(4a)[^13]
+(4a)[^14]
 
-(4b)[^14] A Kormány a légi személyszállítás szabályairól szóló 25/1999. (II. 12.) Korm. rendelet 27. § (3)–(4) bekezdésében foglaltak tekintetében fogyasztóvédelmi hatóságként a nemzetközi kereskedelmi repülőtér székhelye szerint illetékes megyeszékhely szerinti járási hivatalt jelöli ki.
+(4b)[^15] A Kormány a légi személyszállítás szabályairól szóló 25/1999. (II. 12.) Korm. rendelet 27. § (3)–(4) bekezdésében foglaltak tekintetében fogyasztóvédelmi hatóságként a nemzetközi kereskedelmi repülőtér székhelye szerint illetékes megyeszékhely szerinti járási hivatalt jelöli ki.
 
 (5) Az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény 11. § (1) bekezdés e) pont ef) alpontja szerinti esetben a vámtitokról a megyeszékhely szerinti járási hivatalt a miniszter útján kell tájékoztatni.
 
@@ -140,22 +140,22 @@ f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát
 
 (8) A miniszter és a megyeszékhely szerinti járási hivatal piacfelügyeleti feladat- és hatáskörükben ellenőrzi az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 4–9., valamint 11–16. cikkében foglalt követelmények betartását, és eljár azok megsértése esetén.
 
-(9)[^15] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a járási hivatalt, a megyeszékhely szerinti járási hivatalt, valamint a Pest Megyei Kormányhivatalt jelöli ki.
+(9)[^16] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a járási hivatalt, a megyeszékhely szerinti járási hivatalt, valamint a Pest Megyei Kormányhivatalt jelöli ki.
 
-(10)[^16] A Pest Megyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.
+(10)[^17] A Pest Megyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.
 
-[^2]: A 3. § (1) bekezdés e) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
-[^3]: A 3. § (1) bekezdés i) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (1) bekezdése iktatta be.
-[^4]: A 3. § (2) bekezdés d) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § (4) bekezdés b) pontja az 522/017. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^6]: A 3. § (4) bekezdés f) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^7]: A 3. § (4) bekezdés k) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^8]: A 3. § (4) bekezdés p) pontja a 171/2017. (VI. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^9]: A 3. § (4) bekezdés q) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
-[^10]: A 3. § (4) bekezdés r) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
-[^11]: A 3. § (4) bekezdés s) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
-[^12]: A 3. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 27. § (4) bekezdése iktatta be.
-[^13]: A 3. § újabb (4a) bekezdését a 213/2017. (VII. 25.) Korm. rendelet 2. § (6) bekezdése iktatta be, hatályon kívül helyezte az 522/017. (XII. 29.) Korm. rendelet 2. §-a.
-[^14]: A 3. § (4b) bekezdését az 522/017. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^15]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
-[^16]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
+[^3]: A 3. § (1) bekezdés e) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés i) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (1) bekezdése iktatta be.
+[^5]: A 3. § (2) bekezdés d) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § (4) bekezdés b) pontja az 522/017. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (4) bekezdés f) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^8]: A 3. § (4) bekezdés k) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^9]: A 3. § (4) bekezdés p) pontja a 171/2017. (VI. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^10]: A 3. § (4) bekezdés q) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^11]: A 3. § (4) bekezdés r) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^12]: A 3. § (4) bekezdés s) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^13]: A 3. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 27. § (4) bekezdése iktatta be.
+[^14]: A 3. § újabb (4a) bekezdését a 213/2017. (VII. 25.) Korm. rendelet 2. § (6) bekezdése iktatta be, hatályon kívül helyezte az 522/017. (XII. 29.) Korm. rendelet 2. §-a.
+[^15]: A 3. § (4b) bekezdését az 522/017. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^16]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
+[^17]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
