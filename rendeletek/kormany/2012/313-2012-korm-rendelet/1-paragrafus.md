@@ -56,7 +56,7 @@ g) a távhőszolgáltatásról szóló törvény szerinti távhő-szolgáltatás
 
 h) a vasúti pálya, a vasút egyéb helyhez kötött létesítményei és berendezései, a sikló, a függőpálya, a távolsági szalagpálya és a sífelvonó,
 
-i) a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdés a)–j) pontjában meghatározott sajátos építményfajták
+i)[^7] a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdés a)–j) pontjában meghatározott sajátos építményfajták
 
 [^1]: Az 1. § (1) bekezdés záró szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés m) pontja a 482/2016. (XII. 28.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
@@ -64,3 +64,4 @@ i) a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügy
 [^4]: Az 1. § (1) bekezdés p) pontja a 62/2014. (III. 6.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
 [^5]: Az 1. § (1) bekezdés q) pontját a 109/2013. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^6]: Az 1. § (2) bekezdés f) pontja a 491/2015. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^7]: Az 1. § (2) bekezdés i) pontja a 457/2017. (XII. 28.) Korm. rendelet 414. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
