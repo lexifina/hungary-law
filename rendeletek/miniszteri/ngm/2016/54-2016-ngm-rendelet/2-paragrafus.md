@@ -12,7 +12,7 @@ c) az elektronikus fizetési és elszámolási rendszer (a továbbiakban: EFER) 
 
 (3) A BFKH a befizetett díjakat egyéb bevételeitől elkülönítve tartja nyilván és kezeli. Az EFER útján történő díjfizetéshez az ügyfélnek a BFKH-nál előzetesen regisztrálnia és ügyfélkapuja útján azonosítania kell magát.
 
-(4) Az ügyfélnek – az (5) bekezdésben foglalt kivétellel – a díjat az eljárás kezdeményezésekor kell megfizetnie, az 1. § (1) bekezdésének vonatkozó alpontját, a saját nevét az átutalási megbízás, illetve a készpénz-átutalási megbízás közlemény rovatában fel kell tüntetnie, továbbá a díj befizetéséről szóló igazolást a kérelemhez kell csatolnia.
+(4)[^1] Az ügyfélnek – az (5) bekezdésben foglalt kivétellel – a díjat a kérelem benyújtásakor kell megfizetnie, és az 1. § (1) bekezdésének vonatkozó alpontját és a saját nevét az átutalási megbízás, illetve a készpénz-átutalási megbízás közlemény rovatában fel kell tüntetnie.
 
 (5) Ha az ügyfél a kérelmét az elektronikus ügyintézés szabályai szerint terjeszti elő, a díjat a következő módon fizetheti meg:
 
@@ -21,3 +21,5 @@ a) átutalási megbízással az ügyfél vagy képviselője ügyfélkapujára ka
 b) az EFER útján, a fizetési értesítésben foglaltak szerint.
 
 (6) Az (5) bekezdésben foglaltak az irányadóak abban az esetben is, amikor az ügyfél a kérelmét nem az elektronikus ügyintézés útján terjeszti elő, és az EFER útján történő fizetést választja.
+
+[^1]: A 2. § (4) bekezdése az 51/2017. (XII. 29.) NGM rendelet 27. § (1) bekezdésével megállapított szöveg.
