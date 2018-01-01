@@ -68,7 +68,7 @@ g) a nukleáris létesítményt üzemeltető szervezetre; valamint
 
 h) a nukleáris létesítmény nukleárisbaleset-elhárítási tevékenységére.
 
-(2) E rendelet hatálya alá tartozik a nukleáris létesítmény az Országgyűlés – Atv. 7. § (2) bekezdése szerinti – előzetes, elvi hozzájárulásának megszerzésétől kezdődően a nukleáris létesítmény megszüntetéséig, vagy – a nukleáris biztonsági kockázatok megszűnésére tekintettel – az Országos Atomenergia Hivatal (a továbbiakban: nukleáris biztonsági hatóság) által a felügyeleti hatáskörének megszűnéséről hozott határozata jogerőssé és végrehajthatóvá válásának időpontjáig.
+(2)[^3] E rendelet hatálya alá tartozik a nukleáris létesítmény az Országgyűlés – Atv. 7. § (2) bekezdése szerinti – előzetes, elvi hozzájárulásának megszerzésétől kezdődően a nukleáris létesítmény megszüntetéséig, vagy – a nukleáris biztonsági kockázatok megszűnésére tekintettel – az Országos Atomenergia Hivatal (a továbbiakban: nukleáris biztonsági hatóság) által a felügyeleti hatáskörének megszűnéséről hozott határozata véglegessé válásának időpontjáig.
 
 (3) A nukleáris biztonsági követelmények és rendelkezések betartása mindazok számára kötelező, akik az Atv. szerinti, valamint e rendeletben előírt hatósági engedélyhez kötött tevékenységet folytatnak, ilyen tevékenységben közreműködnek, vagy ilyen tevékenység folytatásához engedély iránti kérelmet nyújtanak be.
 
@@ -76,3 +76,4 @@ h) a nukleáris létesítmény nukleárisbaleset-elhárítási tevékenységére
 
 [^1]: Az 1. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 45. §-a szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pontja a 218/2013. (VI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 332. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

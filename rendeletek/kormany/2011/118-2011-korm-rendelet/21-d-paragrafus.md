@@ -1,1 +1,0 @@
-## hiánypótlásra hívja fel.
