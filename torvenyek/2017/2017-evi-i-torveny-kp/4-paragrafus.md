@@ -38,12 +38,12 @@ c) a nemzetiségi önkormányzat testülete és szerve,
 
 d) a köztestület, a felsőoktatási intézmény, és annak önálló feladat- és hatáskörrel felruházott tisztségviselője vagy szerve,
 
-e) a törvény vagy kormányrendelet által közigazgatási cselekmény megvalósítására feljogosított egyéb szervezet vagy személy;
+e) a jogszabály által közigazgatási cselekmény megvalósítására feljogosított egyéb szervezet vagy személy;
 
-2. közigazgatási szerződés: az a szerződés, amelyet törvény vagy kormányrendelet annak minősít;
+2. közigazgatási szerződés: a magyar közigazgatási szervek között közfeladat ellátására kötött szerződés vagy megállapodás, továbbá az a szerződés, amelyet törvény vagy kormányrendelet annak minősít;
 
-3. közszolgálati jogviszony: az állam vagy az állam nevében eljáró szerv és az általa foglalkoztatott személy között munkavégzés, illetve szolgálatteljesítés céljából létesített, a köz szolgálatára irányuló, törvényben meghatározott speciális kötelezettségeket és jogokat tartalmazó jogviszony; ide nem értve a bírák, az igazságügyi alkalmazottak, továbbá az ügyészségi alkalmazottak szolgálati viszonyát, valamint a munkaviszonyban állók jogviszonyát;
+3. közszolgálati jogviszony: az állam vagy az állam nevében eljáró szerv és az állam nevében foglalkoztatott személy között munkavégzés, illetve szolgálatteljesítés céljából létesített, a köz szolgálatára irányuló, törvényben meghatározott speciális kötelezettségeket és jogokat tartalmazó jogviszony; ide nem értve a bírák, az igazságügyi alkalmazottak, továbbá az ügyészségi alkalmazottak szolgálati viszonyát, valamint a munkaviszonyban állók jogviszonyát;
 
 4. megelőző eljárás: a jogvita tárgyává tett közigazgatási cselekmény megvalósítására folytatott közigazgatási hatósági vagy jogorvoslati eljárás.
 
-(8) E törvény közigazgatási szervre vonatkozó szabályait a munkáltató szervre, a közigazgatási cselekményre vonatkozó szabályokat a közszolgálati jogviszonnyal kapcsolatos döntésre és intézkedésre alkalmazni kell. A Kormánytisztviselői Döntőbizottság eljárása nem minősül megelőző eljárásnak.
+(8) E törvény közigazgatási szervre vonatkozó szabályait a munkáltató szervre, a közigazgatási cselekményre vonatkozó szabályokat a közszolgálati jogviszonnyal kapcsolatos döntésre és intézkedésre alkalmazni kell. A Közszolgálati Döntőbizottság eljárása nem minősül megelőző eljárásnak.

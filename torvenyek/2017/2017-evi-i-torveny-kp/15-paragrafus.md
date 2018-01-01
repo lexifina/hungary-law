@@ -6,7 +6,7 @@
 
 (3) A hatáskörrel és illetékességgel rendelkező bíróságot
 
-a) illetékességi összeütközés esetén a Fővárosi Törvényszék,
+a) illetékességi összeütközés esetén, valamint akkor, ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el a Fővárosi Törvényszék,
 
 b) hatásköri összeütközés esetén a Kúria
 

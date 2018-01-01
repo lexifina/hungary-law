@@ -8,7 +8,7 @@ b) az eljárás megindítását követően hatályon kívül helyezett önkormá
 
 c) kimondja, hogy a kihirdetett, de még hatályba nem lépett önkormányzati rendelet vagy annak rendelkezése nem lép hatályba.
 
-(2) Az Kúria elrendeli az (1) bekezdés szerinti határozatának a hivatalos lapban való közzétételét.
+(2) A Kúria elrendeli az (1) bekezdés szerinti határozatának a hivatalos lapban való közzétételét.
 
 (3) A megsemmisített önkormányzati rendelet vagy annak rendelkezése a bíróság határozatának a hivatalos lapban való közzétételét követő napon hatályát veszti, és e naptól nem alkalmazható, a kihirdetett, de hatályba nem lépett önkormányzati rendelet vagy annak rendelkezése pedig nem lép hatályba.
 

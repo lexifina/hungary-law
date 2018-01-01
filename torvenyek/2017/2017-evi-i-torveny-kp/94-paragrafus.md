@@ -1,6 +1,6 @@
 ### 94. § [Ítélet közigazgatási szerződéssel kapcsolatos perben]
 
-(1) Ha a közigazgatási szerződésre vonatkozó jogszabályok jogkövetkezményt nem állapítanak meg, a bíróság a jogsértés megállapítása esetén, az érdekelt felek jogos érdekeire, valamint a közfeladat ellátásának biztonságához és folyamatosságához fűződő közérdekre figyelemmel
+(1) Ha a közigazgatási szerződésre vonatkozó jogszabályok jogkövetkezményt nem állapítanak meg, a bíróság a jogsértés megállapítása esetén, az érintettek jogos érdekeire, valamint a közfeladat ellátásának biztonságához és folyamatosságához fűződő közérdekre figyelemmel
 
 a) a jogellenes közigazgatási szerződést vagy annak valamely kikötését hatályon kívül helyezi vagy megváltoztatja,
 

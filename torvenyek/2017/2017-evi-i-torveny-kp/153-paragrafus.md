@@ -1,6 +1,6 @@
 ### 153. § [Intézkedések]
 
-(1) A bíróság a teljesítési bírság kiszabása mellett
+(1) A bíróság a teljesítési bírság kiszabása mellett végzéssel
 
 a) a közigazgatási szervvel azonos hatáskörű másik szervet jelöl ki az eljárás lefolytatására, egyúttal a közigazgatási szervet az eljárás költségeinek viselésére kötelezi,
 

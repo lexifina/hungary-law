@@ -16,12 +16,12 @@ a) a hatósági igazolvánnyal, a hatósági bizonyítvánnyal, valamint – az 
 
 b) a kizárólag a hatósági eljárás egyéb résztvevőjének keresete alapján indult perben,
 
-c) hatósági végzéssel kapcsolatos perben,
+c) járulékos közigazgatási cselekménnyel kapcsolatos perben,
 
 d) a feloszlatás kivételével a gyülekezési joggal kapcsolatos perben.
 
 (3) A bíróság egyszerűsített perben bírálhatja el a pert, ha a felperes ezt a keresetlevélben kéri és az alperes a védiratban nem ellenzi. Az ügy egyszerűsített perben való elbírálásáról a bíróság ebben az esetben végzést hoz.
 
-(4) A bíróság az eljárás során bármikor elrendeli per általános szabályok szerinti folytatását, ha az a tisztességes eljárás követelményeinek biztosítása érdekében szükséges, vagy az egyszerűsített perre a közigazgatási tevékenység téves minősítése miatt került sor.
+(4) A bíróság az eljárás során bármikor elrendeli a per általános szabályok szerinti folytatását, ha az a tisztességes eljárás követelményeinek biztosítása érdekében szükséges, vagy az egyszerűsített perre a közigazgatási tevékenység téves minősítése miatt került sor.
 
 (5) Egyszerűsített perben a bíróság a tárgyaláson kívüli elbírálás szabályai szerint jár el.

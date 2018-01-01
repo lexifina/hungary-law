@@ -2,11 +2,11 @@
 
 (1) A per elintézéséből ki van zárva, és abban mint bíró nem vehet részt
 
-a) az aki a perben félként vagy érdekeltként részt vehet,
+a) az, aki a perben félként vagy érdekeltként részt vehet,
 
 b) az a személy, aki a vitatott közigazgatási tevékenység megvalósításában részt vett,
 
-c) a fél vagy az érdekelt tisztségviselője, tagja, alapítója, nyilvánosan működő részvénytársaság esetében befolyással rendelkező tagja, illetve a féllel vagy az érdekelttel foglalkoztatásra irányuló jogviszonyban álló személy, a jogviszonya megszűnését követő öt évig,
+c) a fél vagy az érdekelt tisztségviselője, tagja, alapítója, nyilvánosan működő részvénytársaság esetében befolyással rendelkező tagja, illetve a féllel vagy az érdekelttel – a költségvetési szerv kivételével – foglalkoztatásra irányuló jogviszonyban álló személy, a jogviszonya megszűnését követő öt évig,
 
 d) az a), b) vagy c) pont alá eső személy képviselője, támogatója vagy olyan volt képviselője, volt támogatója, aki az ügyben eljárt,
 
@@ -26,6 +26,6 @@ a) amelynek vezetőjével szemben az (1) bekezdés a)–e) pont szerinti kizár�
 
 b) amely a perben félként vagy érdekeltként vehet részt.
 
-(4) A Kúria jár el, ha a törvényszék a (3) bekezdés alapján a perben nem járhat el.
+(4) A kizárás kérdésében a Fővárosi Törvényszék dönt, ha a közigazgatási és munkaügyi bíróságnak nincs olyan bírája vagy tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok az egész bíróságra kiterjed.
 
-(5) A kizárási kérelem bejelentésére és elintézésére a polgári perrendtartás szabályait kell megfelelően alkalmazni.
+(5) A kizárási kérelem bejelentésére és elintézésére egyebekben a polgári perrendtartás szabályait kell megfelelően alkalmazni.

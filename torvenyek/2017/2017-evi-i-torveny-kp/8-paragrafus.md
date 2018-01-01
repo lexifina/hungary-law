@@ -18,12 +18,16 @@ e) a hatósági igazolvánnyal, hatósági bizonyítvánnyal, illetve hatósági
 
 f) a hatósági határozattal szemben kizárólag a hatósági eljárás egyéb résztvevőjének keresete alapján indult perben,
 
-g) a hatósági végzéssel kapcsolatos perben,
+g) a járulékos közigazgatási cselekménnyel kapcsolatos perben,
 
-h) a mulasztási perben és
+h) a mulasztási perben,
 
-i) az e törvényben meghatározott egyéb perben.
+i) a közszolgálati jogviszonnyal kapcsolatos perben,
+
+j) az e törvényben meghatározott egyéb perben.
 
 (4) Ha az ügy különös bonyolultsága indokolja, az egyesbíró a (3) bekezdés szerinti perben a tárgyalás megkezdése előtt elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. A tanács elé utalt ügyben utóbb egyesbíró nem járhat el.
 
-(5) A Kúria három hivatásos bíróból álló tanácsban jár el. Ha az ügy különös bonyolultsága vagy kiemelt társadalmi jelentősége indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el. Ha az ügy jellege ezt indokolja, az öt hivatásos bíróból álló tanács legfeljebb két tagja olyan hivatásos bíró lehet, aki közigazgatási ügyben eljáró bírónak nincs kijelölve.
+(5) A törvényszék másodfokon három hivatásos bíróból álló tanácsban jár el.
+
+(6) A Kúria három hivatásos bíróból álló tanácsban jár el. Ha az ügy különös bonyolultsága vagy kiemelt társadalmi jelentősége indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el. Ha az ügy jellege ezt indokolja, az öt hivatásos bíróból álló tanács legfeljebb két tagja olyan hivatásos bíró lehet, aki közigazgatási ügyben eljáró bírónak nincs kijelölve.

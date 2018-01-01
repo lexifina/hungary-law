@@ -12,7 +12,7 @@ c) elrendelheti a felek meghallgatását,
 
 d) a felek között egyezség létrehozását kísérelheti meg,
 
-e) észrevétel írásbeli kifejtésére hívhat fel.
+e)
 
 (3) Ha a bíróság észleli, hogy a keresetlevél vagy az ahhoz csatolt okirat minősített adatot tartalmaz, hivatalból megkeresi a minősítőt a megismerési engedély beszerzése céljából.
 

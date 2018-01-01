@@ -6,9 +6,9 @@
 
 a) ingatlanhoz kapcsolódó jog vagy kötelezettség, illetve ingatlanra vonatkozó jogviszony esetében az ingatlan fekvésének a helye;
 
-b) bejelentéshez vagy engedélyhez kötött tevékenység esetében a tevékenység gyakorolásának helye, vagy tervezett helye;
+b) tevékenység bejelentése vagy engedélyezése esetében a tevékenység gyakorolásának helye, vagy tervezett helye;
 
-c) az a)–b) pontban meghatározottak kivételével, az országos illetékességgel eljáró közigazgatási szerv közigazgatási tevékenysége esetében a felperes lakóhelye, tartózkodási helye – jogi személy, illetve jogi személyiséggel nem rendelkező szervezet esetében a szervezet székhelye –, ennek hiányában a közigazgatási szerv székhelye;
+c) az a)–b) pontban meghatározottak kivételével, az országos illetékességgel eljáró területi államigazgatási szerv közigazgatási tevékenysége esetében a felperes lakóhelye, tartózkodási helye – jogi személy, illetve jogi személyiséggel nem rendelkező szervezet esetében a szervezet székhelye –, ennek hiányában a közigazgatási szerv székhelye;
 
 d) a fővárosi székhelyű, de elsősorban Pest megye területére vagy annak egy részére illetékes közigazgatási szerv székhelyén megvalósult tevékenység esetében Pest megye;
 

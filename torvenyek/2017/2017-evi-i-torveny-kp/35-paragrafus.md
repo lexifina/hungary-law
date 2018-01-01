@@ -6,7 +6,7 @@ a) az érdekelt által támogatott fél pernyertessége esetén a pervesztes fé
 
 b) az érdekelt által támogatott fél pervesztessége esetén az érdekelt a pernyertes fél perköltségének azt a részét köteles megfizetni, amely az ő perbeli részvétele folytán merült fel.
 
-(2) A perköltségre vonatkozó szabályok alkalmazásában az érdekeltre a félre, a perbeállított félre a perbevont félre vonatkozó szabályokat kell megfelelően alkalmazni.
+(2) A perköltségre vonatkozó szabályok alkalmazásában az érdekeltre és a perbeállított félre a félre vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (3) A mintaperben a bíróság rendelkezhet úgy, hogy a bizonyítás körében felmerült perköltséget vagy annak egy részét az állam előlegezi, illetve viseli.
 

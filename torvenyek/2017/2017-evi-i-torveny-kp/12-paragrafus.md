@@ -10,9 +10,9 @@
 
 a) törvény eltérő rendelkezésének hiányában a központi államigazgatási szervekről szóló törvény szerinti önálló szabályozó szerv, autonóm államigazgatási szerv és kormányhivatal,
 
-b) a vasúti igazgatási szerv és a légiközlekedési hatóság,
+b) a vasúti igazgatási szerv,
 
-c) a köztestület és
+c) a légiközlekedési hatóság és
 
 d) a Magyar Nemzeti Bank
 
@@ -22,11 +22,11 @@ közigazgatási tevékenységével kapcsolatos per.
 
 a) a közigazgatási szerv kijelölésére irányuló eljárásban,
 
-b) a gyülekezési jog gyakorlásával kapcsolatos perben,
+b) a gyülekezési jog gyakorlásával kapcsolatos bírósági eljárásban,
 
 c) a minősített adatok megismerésével kapcsolatos perben, továbbá
 
-d) törvény eltérő rendelkezésének hiányában az 5. § (2) bekezdésében meghatározott perben.
+d) a köztestületi jogvitában.
 
 (4) A Kúria hatáskörébe tartozik
 

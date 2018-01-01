@@ -15,3 +15,5 @@ b) a mulasztási ítéletből származó kötelezettségének.
 (3) A kérelem alapján a bíróság tizenöt napon belül határidő tűzésével felhívja a közigazgatási szervet arra, hogy teljesítse kötelezettségét, vagy adjon magyarázatot a teljesítés elmaradására, a magyarázatot alátámasztó iratok egyidejű megküldése mellett.
 
 (4) Ha a közigazgatási szerv a felhívás alapján teljesít, a bíróság az eljárást megszünteti, és a közigazgatási szervet a kérelmező költségeinek megtérítésére kötelezi.
+
+(5) E fejezet szabályait kell alkalmazni akkor is, ha a bíróság jogerős határozatában foglalt kötelezés kikényszerítése nem tartozik a bírósági végrehajtásról szóló törvény hatálya alá.

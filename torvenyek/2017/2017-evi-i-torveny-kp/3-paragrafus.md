@@ -6,4 +6,4 @@
 
 (3) A jogvita elbírálásához szükséges tények feltárása, az alátámasztásukra szolgáló adatok és bizonyítékok rendelkezésre bocsátása – ha törvény eltérően nem rendelkezik – a feleket terheli.
 
-(4) A feleknek törekedniük kell arra, hogy az ítélet meghozatalához szükséges valamennyi tény és bizonyíték olyan időpontban álljon rendelkezésre, hogy a jogvita lehetőleg egy tárgyaláson elbírálható legyen.
+(4)

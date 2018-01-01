@@ -4,7 +4,7 @@
 
 (2) Ha a fellebbezés nem felel meg e törvény rendelkezéseinek, vagy más okból kiegészítésre vagy kijavításra szorul, az elsőfokon eljárt bíróság intézkedik a hiányok pótlása iránt.
 
-(3) A fellebbezésről az elsőfokú bíróság annak megküldésével értesíti az ellenfelet és az érdekeltet, azzal a figyelmeztetéssel, hogy a fellebbezés kézhezvételétől számított nyolc napon belül az elsőfokú bíróságnál észrevételt terjeszthet elő. A határidő indokolt esetben lerövidíthető.
+(3) A fellebbezésről az elsőfokú bíróság annak megküldésével értesíti az ellenfelet és az érdekeltet, azzal a figyelmeztetéssel, hogy a fellebbezés közlésétől számított nyolc napon belül az elsőfokú bíróságnál észrevételt terjeszthet elő. A határidő indokolt esetben lerövidíthető.
 
 (4) Csatlakozó fellebbezésnek nincs helye.
 

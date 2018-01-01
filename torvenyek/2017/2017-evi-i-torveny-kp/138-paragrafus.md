@@ -8,4 +8,4 @@
 
 (4) A bíróság a jogszerűség helyreállítására határidőt állapít meg, meghatározza a felügyelőbiztos feladatait, szükség esetén – a felügyelőbiztos felmentésével vagy anélkül – új felügyelőbiztost rendel ki.
 
-(5) A felügyelőbiztos tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a törvényességi ellenőrzést gyakorló szervet. A felügyelőbiztos költségtérítését a bíróság állapítja meg, és a felügyelt köztestületi szerv viseli.
+(5) A felügyelőbiztos tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a köztestület felett törvényességi felügyeletet gyakorló szervet. A felügyelőbiztos költségtérítését a bíróság állapítja meg, és a felügyelt köztestületi szerv viseli.

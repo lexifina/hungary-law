@@ -6,4 +6,4 @@
 
 (3) A tárgyalást – törvény eltérő rendelkezésének hiányában – a bíróság hivatalos helyiségébe kell kitűzni. Fontos okból a tárgyalás más helyre is kitűzhető.
 
-(4) Az első tárgyalást úgy kell kitűzni, hogy a védirat felperessel történő közlése a tárgyalás napját legalább nyolc nappal megelőzze. A tárgyalási időközt a bíróság sürgős esetben lerövidítheti.
+(4) Az első tárgyalást úgy kell kitűzni, hogy a védirat felperessel történő közlése a tárgyalás napját legalább tizenöt nappal megelőzze. A tárgyalási időközt a bíróság sürgős esetben lerövidítheti.
