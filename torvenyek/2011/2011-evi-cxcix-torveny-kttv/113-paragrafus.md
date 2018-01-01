@@ -5,3 +5,5 @@
 (3) A kormánytisztviselőnek fizetés nélküli szabadság jár a tényleges önkéntes tartalékos katonai szolgálatteljesítés időtartamára.
 
 (4) A kormánytisztviselőnek fizetés nélküli szabadság jár a külszolgálat időtartamára, ha házastársa vagy élettársa külszolgálatot teljesít.
+
+(5) A kormánytisztviselőnek fizetés nélküli szabadság engedélyezhető a nemzetközi közigazgatási szakértői tevékenység időtartamára.

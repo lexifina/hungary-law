@@ -19,3 +19,5 @@ b) e tisztségéről történő lemondással,
 c) e tisztségéből történő felmentéssel.
 
 (3) A hivatalvesztést a fegyelmi tanácsnak a miniszterelnök útján felterjesztett javaslatára a köztársasági elnök mondja ki.
+
+(4) A fegyelmi tanács hivatalvesztés büntetés kiszabására irányuló javaslatát – amely együtt jár a közigazgatási államtitkár állásából való felfüggesztésével – a közigazgatási államtitkárral közölni kell. A közigazgatási államtitkár a javaslattal szemben a közléstől számított tizenöt napon belül bírósághoz fordulhat. A kereset jogerős elbírálásáig a javaslat nem terjeszthető a miniszterelnök elé.

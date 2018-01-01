@@ -26,7 +26,7 @@ a) politikai párt tagja;
 
 b) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti állami vezető, valamint a hivatali szerv vezetője;
 
-c) más kamara tagja.
+c) más kamara tisztségviselője.
 
 (3a) Ha a (3) bekezdésben meghatározott személyek más kamarai tagsággal is rendelkeznek, akkor e kamarai tagsági viszonyt fel kell függeszteni.
 

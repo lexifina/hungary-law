@@ -2,7 +2,7 @@
 
 236. § (1) Az Állambiztonsági Szolgálatok Történeti Levéltára főigazgatója és főigazgató-helyettese főosztályvezetői illetményre jogosult azzal, hogy a főigazgató alapilletménye az illetményalap 11-szerese, a főigazgató-helyettesé 9,5-szerese, s egyéb juttatásaikat az Országgyűlés elnöke állapítja meg.
 
-(2) Az Alkotmánybíróság főtitkára, valamint az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek vezetői a közigazgatási államtitkárral, az Alkotmánybíróság Hivatalának, valamint az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek helyettes vezetői a helyettes államtitkárral azonos illetményben és juttatásban részesülnek.
+(2) Az Alkotmánybíróság főtitkára a közigazgatási államtitkárral, az Alkotmánybíróság Hivatalának helyettes vezetője a helyettes államtitkárral azonos illetményben és juttatásban részesülnek.
 
 (3) A vezetői illetménypótlék mértéke a 234. § (1) és (2) bekezdésben meghatározott közigazgatási szervnél:
 

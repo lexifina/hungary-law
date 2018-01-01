@@ -8,7 +8,7 @@ c) az öregségi nyugdíjkorhatárt betöltötte, és a Magyar Alkotóművészet
 
 d) a 63. § (2) bekezdés f) pontja alapján a felmentését kéri.
 
-(2) A kormánytisztviselő, köztisztviselő akkor részesül az (1) bekezdés b) vagy c) pontja szerinti ellátásban, ha az ellátást jogerősen megállapították.
+(2) A kormánytisztviselő, köztisztviselő akkor részesül az (1) bekezdés b) vagy c) pontja szerinti ellátásban, ha az ellátást véglegesen megállapították.
 
 (3) A kormánytisztviselő, köztisztviselő köteles tájékoztatni a munkáltatót, ha az (1) bekezdés hatálya alá esik.
 

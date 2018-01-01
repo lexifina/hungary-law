@@ -30,7 +30,7 @@ d) az Országos Etikai Bizottság elnöke.
 
 (8) Az Országos Pénzügyi Ellenőrző Bizottság (a továbbiakban: Pénzügyi Ellenőrző Bizottság) öt tagból áll. A Pénzügyi Ellenőrző Bizottság tagjait, elnökét az Országos Közgyűlés választja meg.
 
-(9) Az Országos Etikai Bizottság (a továbbiakban: Etikai Bizottság) tagjait és elnökét az Országos Közgyűlés választja meg. Az Etikai Bizottság tagjainak számát az Alapszabály határozza meg. Az Etikai Bizottság az Alapszabályban meghatározott módon háromtagú tanácsban jár el. Feladata a másodfokú etikai eljárás lefolytatása. A másodfokú határozat a közigazgatási perekre irányadó szabályok szerint bíróság előtt megtámadható.
+(9) Az Országos Etikai Bizottság (a továbbiakban: Etikai Bizottság) tagjait és elnökét az Országos Közgyűlés választja meg. Az Etikai Bizottság tagjainak számát az Alapszabály határozza meg. Az Etikai Bizottság az Alapszabályban meghatározott módon háromtagú tanácsban jár el. Feladata a másodfokú etikai eljárás lefolytatása.
 
 (10) Az elnök az MKK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját az Országos Közgyűlés által megválasztott legfeljebb öt alelnök segíti. Az elnök e tisztségében államtitkári illetményre és juttatásra jogosult. Az elnök kormányzati szolgálati jogviszonyában mentesül a munkavégzési és a rendelkezésre állási kötelezettsége alól, erre tekintettel e jogviszonyában illetményre és egyéb juttatásra nem jogosult.
 

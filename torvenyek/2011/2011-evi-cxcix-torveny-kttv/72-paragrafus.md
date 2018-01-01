@@ -16,7 +16,7 @@
 
 (8) A kormányzati szolgálati jogviszonyban álló vezető jogviszonyának átalakulását követően – a közalkalmazotti jogviszonyra vonatkozó szabály figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
 
-(9) Ha a jogviszony átalakulása időpontjában munkaügyi per fegyelmi felelősségre vonás tekintetében folyik, a kereset elbírálásánál
+(9) Ha a jogviszony átalakulása időpontjában közszolgálati jogvita fegyelmi felelősségre vonás tekintetében folyik, a kereset elbírálásánál
 
 a) a fegyelmi elbocsátás szabályait kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya közalkalmazotti jogviszonnyá,
 
