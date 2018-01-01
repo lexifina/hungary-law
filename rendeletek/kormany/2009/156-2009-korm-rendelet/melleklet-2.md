@@ -20,7 +20,7 @@
 
 | 6. | Nemzetközi közúti áruszállítási engedély, CEMT engedély és a hozzá szükséges igazolás, autóbuszos járati engedély |  | 800 000 500 000 800 000 300 000 | szállító járművezető járművezető feladó, címzett |
 
-|  | a) hiánya, érvénytelensége (sérült, olvashatatlan, lejárt, a gépjárműadó 90 %-a nem került megfizetésre) |
+|  | a) hiánya, érvénytelensége (sérült, olvashatatlan, lejárt, korábban már felhasznált, a gépjárműadó 90 %-a nem került megfizetésre) |
 
 |  | b) szabálytalan használata, illetve eltérés az engedélyben foglaltaktól |
 
@@ -46,6 +46,6 @@
 
 | 13. | Közúti árutovábbítási engedéllyel, közúti személyszállítási engedéllyel, árutovábbítási vagy személyszállítási közösségi engedéllyel kapcsolatos adatváltozás bejelentésének, a tevékenység szüneteltetése bejelentésének, a lejárt engedély visszaadásának az elmulasztása, a helyettesítő járműre vonatkozó okmány, vagy az eredeti járműre kiállított engedély-kivonat (hiteles másolat) közúton való bemutatásának a hiánya | 30 000 | szállító |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^61]
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^63]
 
-[^61]: A 2. melléklet a 476/2016. (XII. 27.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^63]: A 2. melléklet a 476/2016. (XII. 27.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

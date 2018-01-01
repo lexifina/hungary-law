@@ -14,7 +14,9 @@ az áru- vagy személyszállítást végző járművek közúti forgalomban val�
 
 e)[^28] a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendeletben meghatározott,
 
-f) a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendeletben szabályozott
+f) a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendeletben szabályozott,
+
+g)[^29] a 1980. évi 3. törvényerejű rendelettel kihirdetett, 1968. évi november hó 8. napján Bécsben aláírt Közúti Közlekedési Egyezményben meghatározott
 
 rendelkezést megsérti.
 
@@ -28,6 +30,10 @@ rendelkezést megsérti.
 
 (6) A Kkt. 20. § (1) bekezdés h) pontjához kapcsolódóan, ha a megengedett legnagyobb hosszúság, magasság, szélesség túllépése együttesen van jelen, a legmagasabb túllépésre vonatkozó bírságtételt kell figyelembe venni.
 
+(7)[^30] Nem kell az (1) bekezdésben meghatározott bírságot megfizetni, ha a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló 36/2017. (IX. 18.) NFM rendelet 2. § (1) bekezdés a) pont af) alpontjában meghatározott jármű megengedett legnagyobb össztömeg túllépése 2018. június 30. napjáig elkövetett jogsértések esetén nem haladja meg a 2%-ot, 2018. július 1. napjától 2018. december 31. napjáig elkövetett jogsértések esetén nem haladja meg az 1%-ot.
+
 [^26]: A 8. § a 261/2011. (XII. 7.) Korm. rendelet 41. § (5) bekezdésével megállapított, a 280/2013. (VII. 24.) Korm. rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^27]: A 9. § a 233/2017. (VIII. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^28]: A 9. § (1) bekezdés e) pontja az 516/2017. (XII. 29.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^29]: A 9. § (1) bekezdés g) pontját az 516/2017. (XII. 29.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^30]: A 9. § (7) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
