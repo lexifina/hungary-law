@@ -8,6 +8,8 @@
 
 (1c) A Teljesítésigazolási Szakértői Szerv köteles a tudomására jutásától számított öt napon belül közölni a Közbeszerzési Hatósággal, ha a szakértői tevékenységének ellátásában fontos ok akadályozza, így különösen, ha tevékenysége ellátásának vagy részvizsgálatok elvégzésének feltételei nincsenek meg, vagy az (1) bekezdésben meghatározott feladatainak kell eleget tennie.
 
+(1d) A Teljesítésigazolási Szakértői Szerv a Közbeszerzési Hatóság felkérésétől számított 5 napon belül, amennyiben a kirendelést elfogadja, ennek közlésével egyidejűleg az előzetes szakértői díj- és költségjegyzékről tájékoztatást küld a Közbeszerzési Hatóságnak. A Közbeszerzési Hatóság az elfogadásról visszaigazoló levelet küld. A szakvélemény előterjesztésére meghatározott határidő ez esetben a visszaigazoló levél Teljesítésigazolási Szakértői Szervhez érkezésének napjával kezdődik.
+
 (1e) A Teljesítésigazolási Szakértői Szerv az államháztartásért felelős miniszter felkérésére igazságügyi szakértőként működik közre az európai uniós és hazai költségvetési forrásból finanszírozott projektek költségnövekménye támogathatóságának vizsgálatára irányuló külön jogszabályban meghatározott eljárásban.
 
 (1f) A Teljesítésigazolási Szakértői Szerv az államháztartásért felelős miniszter kérését akkor fogadhatja el, ha az az (1) bekezdésben meghatározott feladatainak ellátását nem akadályozza és azzal nem összeférhetetlen.

@@ -1,0 +1,1 @@
+8/F. § Az ítéletet fellebbezésre tekintet nélkül végrehajthatónak kell nyilvánítani a szerződés teljesítéséből eredő díjkövetelés megfizetésére kötelező részében, ha az a Teljesítésigazolási Szakértői Szerv szakvéleményében meghatározott összeget (részben vagy egészben) mint pénzbeli marasztalást tartalmazza.
