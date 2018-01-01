@@ -1,4 +1,4 @@
-11. §[^8] E rendeletnek a tej- és tejtermék-ágazatban működő termelői szervezetek és társulásaik nemzeti szabályozásáról szóló 124/2012. (XII. 6.) VM rendelettel módosított 5. § (4) bekezdését a 2012. szeptember 1-jétől benyújtott támogatási kérelmekre is alkalmazni kell.
+11. §[^11] E rendeletnek a tej- és tejtermék-ágazatban működő termelői szervezetek és társulásaik nemzeti szabályozásáról szóló 124/2012. (XII. 6.) VM rendelettel módosított 5. § (4) bekezdését a 2012. szeptember 1-jétől benyújtott támogatási kérelmekre is alkalmazni kell.
 
 Melléklet az 59/2007. (VII. 10.) FVM rendelethez
 
@@ -20,4 +20,4 @@ A támogatás mértéke kiszámításának módja
 
 | 5. év | 2 | 1,5 | 50 000 € |
 
-[^8]: A 11. §-t a 124/2012. (XII. 6.) VM rendelet 11. § (2) bekezdése iktatta be.
+[^11]: A 11. §-t a 124/2012. (XII. 6.) VM rendelet 11. § (2) bekezdése iktatta be.
