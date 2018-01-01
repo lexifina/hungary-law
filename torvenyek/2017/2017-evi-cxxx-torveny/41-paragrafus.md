@@ -1,0 +1,1 @@
+41. § Az Fgytv. 34. § (8) bekezdésében az „a Polgári perrendtartásról szóló 1952. évi III. törvény I–XIV. fejezetének” szövegrész helyébe az „a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) I–XXX. fejezetének” szöveg lép.
