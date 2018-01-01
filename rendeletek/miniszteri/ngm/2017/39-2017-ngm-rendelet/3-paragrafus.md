@@ -1,0 +1,1 @@
+## 2. § A Rendelet 1. §-ában a „Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény” szövegrész helyébe a „Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény” szöveg lép.
