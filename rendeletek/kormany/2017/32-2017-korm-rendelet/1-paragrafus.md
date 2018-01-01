@@ -1,3 +1,5 @@
-1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Budapest, IX. kerület, belterület 38250/5. helyrajzi számon nyilvántartott ingatlanon, illetve ezen ingatlanból telekalakítás jogerős befejezését követően kialakított ingatlanon megvalósítandó Málenkij Robot Emlékhely kialakítására irányuló beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+1. § (1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Budapest, IX. kerület, belterület 38250/5. helyrajzi számon nyilvántartott ingatlanon, illetve ezen ingatlanból telekalakítás véglegessé válását követően kialakított ingatlanon megvalósítandó Málenkij Robot Emlékhely kialakítására irányuló beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek az (1) bekezdés szerinti Beruházás megvalósításához és az (1) bekezdésben megjelölt ingatlan megosztásához, valamint az emlékhely kialakításához és fenntartásához szükséges méretű ingatlan állami tulajdonba kerüléséhez szükségesek.
+
+[^1]: Az 1. § (1) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 333. §-a szerint módosított szöveg.
