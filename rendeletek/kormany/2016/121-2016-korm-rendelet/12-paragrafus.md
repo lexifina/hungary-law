@@ -1,3 +1,6 @@
-12. § (1) A rendőrség a 11. § (2) bekezdése alapján tárolt vagy zárolt robbanóanyag megsemmisítéséről haladéktalanul gondoskodik, ha a robbanóanyag állapota megköveteli, illetve a jogosult annak elszállításáról, értékesítéséről vagy megsemmisítéséről a rendőrségi tárolás vagy zárolás megkezdését követő egy éven belül nem gondoskodott.
+12. § (1)[^7] A rendőrség a 11. § (2) bekezdése alapján zár alá vett vagy lefoglalt robbanóanyag megsemmisítéséről haladéktalanul gondoskodik, ha a robbanóanyag állapota megköveteli, illetve a jogosult annak elszállításáról, értékesítéséről vagy megsemmisítéséről a rendőrségi zár alá vétel vagy lefoglalás megkezdését követő egy éven belül nem gondoskodott.
 
-(2) A robbanóanyag tulajdonosa a rendőrség által a 11. § (2) bekezdése alapján tárolt vagy zárolt robbanóanyagot arra jogosultnak elidegenítheti vagy megsemmisítését kezdeményezheti.
+(2)[^8] A robbanóanyag tulajdonosa a rendőrség által a 11. § (2) bekezdése alapján zár alá vett vagy lefoglalt robbanóanyagot arra jogosultnak elidegenítheti vagy megsemmisítését kezdeményezheti.
+
+[^7]: A 12. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 576. § c) és d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: A 12. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 576. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

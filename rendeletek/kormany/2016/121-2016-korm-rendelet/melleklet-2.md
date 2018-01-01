@@ -146,140 +146,148 @@
 
 | 0432 | Pirotechnikai tárgyak műszaki célokra | 1.4 S |  |
 
-2. melléklet a 121/2016. (VI. 7.) Korm. rendelethez
+2. melléklet a 121/2016. (VI. 7.) Korm. rendelethez[^13]
 
 ## ENGEDÉLYKÉRELMEK TARTALMI KÖVETELMÉNYEI
 
 1. Robbanóanyag gyártási engedélykérelem
 
-1.1. A kérelemnek tartalmaznia kell:
+1.1. A kérelemnek tartalmaznia kell
 
-a) a robbanóanyag előállítását végző vállalkozás megnevezését, székhelyét, telephelyét, fióktelepét;
+a) a robbanóanyag előállítását végző vállalkozás megnevezését, székhelyét, telephelyét, fióktelepét,
 
-b) a gyártás helyét (település, utca, házszám vagy helyrajzi szám);
+b) a gyártás helyét (település, utca, házszám vagy helyrajzi szám),
 
-c) a felelős személy természetes személyazonosító adatait és lakcímét;
+c) a felelős személy természetes személyazonosító adatait és lakcímét,
 
 d) a készletezésre szolgáló robbanóanyag-raktár helyét, a tárolási engedélyes megnevezését és a tárolási engedély számát.
 
-1.2. A kérelemhez mellékelni kell:
+1.2. A kérelem benyújtásakor igazolni kell
 
-a) a jogerős és végrehajtható egységes környezethasználati engedély másolatát;
+a) a végleges egységes környezethasználati engedély megszerzését,
 
-b) gyártási tevékenységhez szükséges épületek jogerős és végrehajtható használatbavételi engedélye másolatát;
+b) a gyártási tevékenységhez szükséges épületek végleges használatbavételi engedély megszerzését,
 
-c) veszélyes tevékenység megkezdéséhez előírt hivatásos katasztrófavédelmi szerv jogerős és végrehajtható engedélyének másolatát;
+c) a veszélyes tevékenység megkezdéséhez előírt hivatásos katasztrófavédelmi szerv végleges engedélyének megszerzését,
 
-d) bértárolás esetében a tárolási engedélyessel e célra kötött megállapodást;
+d) bértárolás esetében a tárolási engedélyessel e célra kötött megállapodás megkötését,
 
-e) a robbanóanyag gyártásra szolgáló létesítmények, berendezések és eszközök, valamint a gyártási technológia, illetve a gyártás személyi feltételei biztosítottságának igazolását, a munkavédelemről szóló törvény szerinti, a munkavédelmi üzembe helyezés feltételéül szolgáló munkavédelmi szempontú előzetes vizsgálat eredményét.
+e) a robbanóanyag gyártásra szolgáló létesítmények, berendezések és eszközök, valamint a gyártási technológia, illetve a gyártás személyi feltételei biztosítottságát, a munkavédelemről szóló törvény szerinti, a munkavédelmi üzembe helyezés feltételéül szolgáló munkavédelmi szempontú előzetes vizsgálat megtörténtét.
 
-1.3. A helyszíni keveréssel előállítható, kizárólag saját felhasználási célú robbanóanyag gyártási engedélykérelemhez nem kell mellékelni az 1.1. pont d) alpontjában, valamint az 1.2. pont a) és b) alpontjában előírtakat.
+1.3. A helyszíni keveréssel előállítható, kizárólag saját felhasználási célú robbanóanyag gyártási engedélykérelemhez nem kell megjelölni az 1. pont 1.1. alpont d) pontjában foglaltakat, valamint nem kell igazolni az 1. pont 1.2.alpont a) és b) pontjában előírtakat.
 
 2. Robbanóanyag-forgalmazási engedélykérelem
 
 2.1. A kérelemnek tartalmaznia kell
 
-a) a forgalmazó megnevezését, székhelyét, magyarországi telephelyét, fióktelepét;
+a) a forgalmazó megnevezését, székhelyét, magyarországi telephelyét, fióktelepét,
 
-b) a felelős személy természetes személyazonosító adatait és lakcímét;
+b) a felelős személy természetes személyazonosító adatait és lakcímét,
 
 c) a készletezésre szolgáló robbanóanyag-raktár helyét, a tárolási engedélyes megnevezését és a tárolási engedély számát.
 
-2.2. A kérelemhez mellékelni kell bértárolás esetében a tárolási engedélyessel e célra kötött megállapodást.
+2.2. A kérelem benyújtásakor bértárolás esetében igazolni kell a tárolási engedélyessel e célra kötött megállapodás meglétét.
 
 3. Robbanóanyag megszerzési engedélykérelem
 
-3.1. A kérelemnek tartalmaznia kell:
+3.1. A kérelemnek tartalmaznia kell
 
-a) a kérelmező nevét, székhelyét;
+a) a kérelmező nevét, székhelyét,
 
-b) a felelős személy természetes személyazonosító adatait és lakcímét;
+b) a felelős személy természetes személyazonosító adatait és lakcímét,
 
-c) a megszerezni tervezett robbanóanyag kereskedelmi megnevezését és mennyiségét;
+c) a megszerezni tervezett robbanóanyag kereskedelmi megnevezését és mennyiségét,
 
-d) a megszerzés célját, illetve annak igazolását, bizonyítását, hogy a robbanóanyag megszerzése a kérelmező tevékenységének elvégzéséhez szükséges; és
+d) a megszerzés célját,
 
 e) a tárolás helyének, illetve módjának meghatározását vagy az azonnali felhasználásra vonatkozó nyilatkozatot.
 
-3.2. A kérelemhez mellékelni kell bértárolás esetében a tárolási engedélyessel e célra kötött megállapodást.
+3.2. A kérelem benyújtásakor igazolni kell
+
+a) azt, hogy a robbanóanyag megszerzése a kérelmező tevékenységének elvégzéséhez szükséges,
+
+b) bértárolás esetében a tárolási engedélyessel e célra kötött megállapodás meglétét.
 
 4. Robbanóanyag felhasználási, valamint megsemmisítési engedélykérelem
 
-4.1. A kérelemnek tartalmaznia kell:
+4.1. A kérelemnek tartalmaznia kell
 
-a) a kérelmező nevét, székhelyét;
+a) a kérelmező nevét, székhelyét,
 
-b) a felelős személy természetes személyazonosító adatait és lakcímét;
+b) a felelős személy természetes személyazonosító adatait és lakcímét,
 
-c) a kérelmező nyilatkozatát az engedély alapját képező bányafelügyeleti engedélyről és számáról;
+c) a kérelmező nyilatkozatát az engedély alapját képező bányafelügyeleti engedélyről és számáról,
 
-d) a robbantás célját, időpontját, időtartamát, helyének megjelölését, a felhasználásra tervezett robbanóanyag megnevezését és mennyiségét, földalatti bánya esetében a gázkitörés-, a sújtólég- és szénporrobbanás-veszélyességi besorolást;
+d) a robbantás célját, időpontját, időtartamát, helyének megjelölését, a felhasználásra tervezett robbanóanyag megnevezését és mennyiségét, földalatti bánya esetében a gázkitörés-, a sújtólég- és szénporrobbanás-veszélyességi besorolást,
 
-e) a robbantás tervezőjének nevét, lakcímét és engedélyének számát, valamint a robbantásvezető nevét, lakcímét és engedélyének számát, ha a felelős személy nem azonos a robbantásvezetővel;
+e) a robbantás tervezőjének nevét, lakcímét és engedélyének számát, a robbantásvezető nevét, lakcímét és engedélyének számát, ha a felelős személy nem azonos a robbantásvezetővel,
 
-f) a robbantás tervezőjének nyilatkozatát arról, hogy a tervezett robbantás Általános Robbantási Biztonsági Szabályzat szerinti repeszhatása, a rezgésre érzékeny létesítményeken várható rezgések szeizmikus hatása nem veszélyezteti az életet, testi épséget, egészséget, illetve vagyonbiztonságot;
+f) a robbantás tervezőjének nyilatkozatát arról, hogy a tervezett robbantás Általános Robbantási Biztonsági Szabályzat szerinti repeszhatása, a rezgésre érzékeny létesítményeken várható rezgések szeizmikus hatása nem veszélyezteti az életet, testi épséget, egészséget, illetve vagyonbiztonságot,
 
-g) a rezgésre érzékeny létesítmények felsorolását; és
+g) a rezgésre érzékeny létesítmények felsorolását,
 
-h) a robbantás során szükséges biztonsági intézkedéseket, a védendő létesítmények és azok megóvását szolgáló intézkedések, védőeszközök, védőberendezések leírását.
+h) a robbantás során szükséges biztonsági intézkedéseket, a védendő létesítmények és azok megóvását szolgáló intézkedések, védőeszközök, védőberendezések leírását,
 
-4.2. A kérelemhez mellékelni kell:
+i) a robbantás műszaki leírását,
 
-a) a robbantás műszaki leírását;
+j) a földalatti bányában, valamint a geofizikai mérések esetében végzett robbantás kivételével, olyan méretarányú térképet három, természetvédelmi hatóság érintettsége esetén négy példányban, amelyen a tervezett robbantás helye, hatásterülete és biztonsági távolságai, valamint az ezen belül lévő valamennyi építmény, védendő létesítmény, valamint ezek védőterülete, védőövezete, biztonsági övezete, továbbá a vízi utak és a védett természeti területek jól látható módon fel vannak tüntetve.
 
-b) a földalatti bányában, valamint a geofizikai mérések esetében végzett robbantás kivételével, olyan méretarányú térképet három, természetvédelmi hatóság érintettsége esetén négy példányban, amelyen a tervezett robbantás helye, hatásterülete és biztonsági távolságai, valamint az ezen belül lévő valamennyi építmény, védendő létesítmény, valamint ezek védőterülete, védőövezete, biztonsági övezete, továbbá a vízi utak és a védett természeti területek jól látható módon fel vannak tüntetve;
+4.2. A kérelem benyújtásakor igazolni kell
 
-c) a robbantandó építmény vagy tárgy tulajdonosának, kezelőjének robbantásra vonatkozó megrendelését, ha az nem a robbantás végzője;
+a) nyomvonalas, illetve vízi létesítmény, repülőtér vagy műemlék védőtávolságán belüli, valamint hajóúton vagy honvédelmi szempontból jelentős, illetve védett természeti területen végzett robbantás esetében az érintett kezelő, illetve üzemeltető védett természeti terület esetében az illetékes Nemzeti Park Igazgatóság hozzájárulásának meglétét,
 
-d) nyomvonalas, illetve vízi létesítmény, repülőtér vagy műemlék védőtávolságán belüli, valamint hajóúton vagy honvédelmi szempontból jelentős, illetve védett természeti területen végzett robbantás esetében az érintett kezelő, illetve üzemeltető védett természeti terület esetében az illetékes Nemzeti Park Igazgatóság hozzájárulását; és
+b) épület robbantásos bontása esetén az építésügyi hatóság végleges bontási engedélyének meglétét,
 
-e) épület robbantásos bontása esetén az építésügyi hatóság jogerős és végrehajtható bontási engedélyének másolatát, amely tartalmazza, hogy az épület bontása robbantásos technológiával is elvégezhető.
+c) a robbantandó építmény vagy tárgy tulajdonosának, kezelőjének robbantásra vonatkozó megrendelését, ha az nem a robbantás végzője.
 
-4.3. A kőolaj- és földgázbányászat, illetve víz kitermelése céljából fúrólyukban tervezett robbantás esetében, ha a robbantás biztonsági távolságán belül nem található építmény vagy más védendő létesítmény, nem kell a 4.2. pont b) alpontja szerinti térképet mellékelni.
+4.3. A kőolaj- és földgázbányászat, illetve víz kitermelése céljából fúrólyukban tervezett robbantás esetében, ha a robbantás biztonsági távolságán belül nem található építmény vagy más védendő létesítmény, nem kell a 4. pont 4.1. alpont j) pontja szerinti térképet mellékelni.
 
 5. Robbanóanyag szállítási engedélykérelem
 
-5.1. A kérelemnek tartalmaznia kell:
+5.1. A kérelemnek tartalmaznia kell
 
-a) a 7. számú melléklet szerinti okmány adatait;
+a) a 7. melléklet szerinti okmány adatait,
 
-b) a robbanóanyag szállításában közreműködő személyek személyazonosító adatait, állampolgárságát, lakóhelyét;
+b) a robbanóanyag szállításában közreműködő személyek személyazonosító adatait, állampolgárságát, lakóhelyét,
 
-c) Magyarország területén a szállításért felelős személy személyazonosító adatait és elérhetőségét (telefon, e-mail);
+c) Magyarország területén a szállításért felelős személy személyazonosító adatait és elérhetőségét (telefon, e-mail),
 
 d) a magyarországi szállítási útvonal leírását.
 
-5.2. A kérelemhez mellékelni kell:
+5.2. A kérelem benyújtásakor igazolni kell
 
-a) a közlekedési alágazatnak megfelelően az ADR, RID, ADN 1.10 fejezete szerinti Közbiztonsági Tervet;
+a) a közlekedési alágazatnak megfelelően az ADR, RID, ADN 1.10. fejezete szerinti Közbiztonsági Terv,
 
-b) a fogadó állam és a kilépés helye szerinti szomszédos állam hatósága engedélyének másolatát.
+b) a fogadó állam és a kilépés helye szerinti szomszédos állam hatósága engedélyének
+
+meglétét.
 
 6. Robbanóanyag belföldi átadási engedélykérelem
 
-6.1. A kérelemnek tartalmaznia kell:
+6.1. A kérelemnek tartalmaznia kell
 
-a) a kérelmet benyújtó megnevezését, székhelyét, cégjegyzékszámát;
+a) a kérelmet benyújtó megnevezését, székhelyét, cégjegyzékszámát,
 
-b) a robbanóanyag feladójának nevét, székhelyét, elérhetőségét (telefonszám, faxszám, e-mail cím);
+b) a robbanóanyag feladójának nevét, székhelyét, elérhetőségét (telefonszám, faxszám, e-mail-cím),
 
-c) a robbanóanyag címzettjének nevét, székhelyét, elérhetőségét (telefonszám, faxszám, e-mail cím);
+c) a robbanóanyag címzettjének nevét, székhelyét, elérhetőségét (telefonszám, faxszám, e-mail-cím),
 
-d) a robbanóanyag szállításában közreműködő vállalkozás nevét, székhelyét, elérhetőségét (telefonszám, faxszám, e-mail cím);
+d) a robbanóanyag szállításában közreműködő vállalkozás nevét, székhelyét, elérhetőségét (telefonszám, faxszám, e-mail-cím),
 
-e) a robbanóanyag szállításában közreműködő természetes személy személyazonosító adatait, elérhetőségét (telefonszám, faxszám, e-mail cím);
+e) a robbanóanyag szállításában közreműködő természetes személy személyazonosító adatait, elérhetőségét (telefonszám, faxszám, e-mail-cím),
 
-f) Magyarország területén a szállításért felelős természetes személy személyazonosító adatait és elérhetőségét (telefonszám, faxszám, e-mail cím);
+f) Magyarország területén a szállításért felelős természetes személy személyazonosító adatait és elérhetőségét (telefonszám, faxszám, e-mail-cím),
 
-g) a szállítandó robbanóanyag kereskedelmi megnevezését, típusszámát, mennyiségét (nettó kilogramm, darab vagy méter) és UN számát;
+g) a szállítandó robbanóanyag kereskedelmi megnevezését, típusszámát, mennyiségét (nettó kilogramm, darab vagy méter) és UN számát,
 
-h) a gyártó megnevezését és székhelyét;
+h) a gyártó megnevezését és székhelyét,
 
 i) a magyarországi szállítási útvonal leírását.
 
-6.2. A kérelemhez mellékelni kell:
+6.2. A kérelem benyújtásakor igazolni kell
 
-a) a közlekedési alágazatnak megfelelően az ADR, RID, ADN 1.10 fejezete szerinti Közbiztonsági Tervet;
+a) a közlekedési alágazatnak megfelelően az ADR, RID, ADN 1.10. fejezete szerinti Közbiztonsági Terv meglétét;
 
-b) a robbanóanyag átadójának arra vonatkozó igazolását, hogy jogosult polgári robbantási tevékenység végzésére vagy polgári robbanóanyag forgalmazására.
+b) azt, hogy a robbanóanyag átadója jogosult polgári robbantási tevékenység végzésére vagy polgári robbanóanyag forgalmazására.
+
+[^13]: A 2. melléklet a 457/2017. (XII. 28.) Korm. rendelet 575. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
