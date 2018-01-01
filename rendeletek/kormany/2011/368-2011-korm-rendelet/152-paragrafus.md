@@ -1,21 +1,9 @@
-152. § (1)[^542] A fejezetet irányító szerv a fejezetbe sorolt költségvetési szervek és fejezeti kezelésű előirányzatok összesített költségvetési maradványáról az államháztartásért felelős miniszternek elszámolást (e § alkalmazásában a továbbiakban: elszámolás) készít.
+152. §[^564] (1) A fejezetet irányító szerv a fejezetbe sorolt költségvetési szervek és fejezeti kezelésű előirányzatok kötelezettségvállalással terhelt, azonban a költségvetési évet követő év június 30-áig pénzügyileg nem teljesült költségvetési maradványáról a költségvetési évet követő év augusztus 15-éig elszámolást készít az államháztartásért felelős miniszternek. Az elszámolásban be kell mutatni a meghiúsult kötelezettségvállalások miatt kötelezettségvállalással nem terhelt, valamint a kifizetések elhúzódása miatt továbbra is kötelezettségvállalással terhelt költségvetési maradvány összegét.
 
-(2) Az elszámolás költségvetési szervenként és fejezeti kezelésű előirányzatonként külön-külön tartalmazza
+(2) A meghiúsult kötelezettségvállalás miatt kötelezettségvállalással nem terhelt költségvetési maradványt az (1) bekezdés szerinti elszámolás elküldését követő tíz munkanapon belül a Központi Maradványelszámolási Alap előirányzat javára be kell fizetni. A befizetési kötelezettség elmaradása esetén a Kincstár jogosult a költségvetési szerv, fejezeti kezelésű előirányzat fizetési számláját a be nem fizetett összeggel megterhelni.
 
-a)[^543] a költségvetési maradványból a központi költségvetést megillető részt,
+(3) A kifizetések elhúzódása miatt továbbra is kötelezettségvállalással terhelt költségvetési maradvány elvonásáról vagy felhasználásának további engedélyezéséről – a (4) bekezdésben megállapított kivétellel – a Kormány dönt. Az elvont költségvetési maradványra a (2) bekezdést kell alkalmazni azzal, hogy a befizetési kötelezettséget a Kormány döntését követő tizenötödik naptári napig – amennyiben ez munkaszüneti napra esik, az azt követő első munkanapig – kell teljesíteni.
 
-b)[^544] a kötelezettségvállalással terhelt költségvetési maradványt, és
+(4) A 150. § (1) bekezdés c) és f)–h) pontja szerinti költségvetési maradvány terhére a költségvetési évet követő év június 30-át követően is a Kormány döntése nélkül vállalható kötelezettség és teljesíthető kifizetés.
 
-c)[^545] javaslatot a kötelezettségvállalással nem terhelt költségvetési maradvány változatlan célú visszahagyására vagy eltérő célú felhasználására.
-
-(3) A fejezetet irányító szerv az elszámolást a költségvetési évet követő év április 15-éig nyújtja be az államháztartásért felelős miniszternek.
-
-(4) Az államháztartásért felelős miniszter a benyújtott elszámolást a költségvetési évet követő év május 15-éig felülvizsgálja, és annak eredményéről a fejezetet irányító szervet tájékoztatja.
-
-(5)[^546] Az államháztartásért felelős miniszter a (2) bekezdés c) pontja szerinti kérelmek alapján előterjesztést készít a Kormánynak a kötelezettségvállalással nem terhelt költségvetési maradványok változatlan vagy eltérő célú felhasználásának engedélyezéséről. A Kormány az előterjesztésről egyedi határozatban dönt.
-
-[^542]: Az Ávr. 152. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 45. pontja szerint módosított szöveg.
-[^543]: Az Ávr. 152. § (2) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 46. pontja szerint módosított szöveg.
-[^544]: Az Ávr. 152. § (2) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 47. pontja szerint módosított szöveg.
-[^545]: Az Ávr. 152. § (2) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 48. pontja szerint módosított szöveg.
-[^546]: Az Ávr. 152. § (5) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 49. pontja szerint módosított szöveg.
+[^564]: Az Ávr. 152. §-a a 426/2017. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.

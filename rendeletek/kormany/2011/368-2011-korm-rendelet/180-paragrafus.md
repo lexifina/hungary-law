@@ -1,3 +1,3 @@
-180. §[^672]
+180. §[^698]
 
-[^672]: Az Ávr. 180. §-át újonnan a 465/2015. (XII. 29.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 25. § (3) bekezdése.
+[^698]: Az Ávr. 180. §-át újonnan a 465/2015. (XII. 29.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 25. § (3) bekezdése.

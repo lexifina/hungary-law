@@ -1,4 +1,4 @@
-108/A. §[^368] (1) Az Áht. 58. § (2) bekezdése szerinti önellenőrzési pótlék mértéke
+108/A. §[^381] (1) Az Áht. 58. § (2) bekezdése szerinti önellenőrzési pótlék mértéke
 
 a) ha az önellenőrzéssel a helyi önkormányzat visszafizetési kötelezettsége csökken, a csökkenés 10%-a, de legalább tízezer forint,
 
@@ -16,4 +16,4 @@ c) más esetben ötezer forint.
 
 (6) A Kincstár az Áht. 59. §-a szerinti felülvizsgálatának adatait a Kincstár által üzemeltetett elektronikus rendszerben, a feltöltött éves költségvetési beszámoló másolati példányán keresztül publikálja.
 
-[^368]: Az Ávr. 108/A. §-át a 264/2016. (VIII. 31.) Korm. rendelet 16. §-a iktatta be.
+[^381]: Az Ávr. 108/A. §-át a 264/2016. (VIII. 31.) Korm. rendelet 16. §-a iktatta be.

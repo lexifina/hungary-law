@@ -1,4 +1,4 @@
-1. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^678]
+1. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^704]
 
 Az irányító szerv, a fejezetet irányító szerv, valamint annak vezetője
 
@@ -6,7 +6,7 @@ I. Az államháztartás központi alrendszerében
 
 1. a központi költségvetés I. fejezeténél – az a)–g) alpontban meghatározott kivétellel – az Országgyűlés Hivatala és annak főigazgatója,
 
-a) a 8–10. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) 90. §-a szerinti tagja,
+a)[^705] a 8–11. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) 90. §-a szerinti tagja,
 
 b) a Közbeszerzési Hatóság tekintetében a Közbeszerzési Hatóság és annak elnöke,
 
@@ -34,7 +34,11 @@ g) a Nemzeti Emlékezet Bizottságának Hivatala tekintetében a Nemzeti Emléke
 
 8. a központi költségvetés IX. fejezeténél a Belügyminisztérium és a Kormánynak a Ktfr. 21. §-a szerinti tagja,
 
-9.[^679] a központi költségvetés X. fejezeténél az Igazságügyi Minisztérium és a Kormánynak a Ktfr. 79. §-a szerinti tagja,
+9.[^706] a központi költségvetés X. fejezeténél az Igazságügyi Minisztérium és a Kormánynak a Ktfr. 79. §-a szerinti tagja,
 
-[^678]: Az Ávr. 1. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 1. pontjával megállapított szöveg.
-[^679]: Az Ávr. 1. melléklet I. pont 9. alpontja a 499/2016. (XII. 28.) Korm. rendelet 23. § (2) bekezdés 3. pontja szerint módosított szöveg.
+10.[^707] a központi költségvetés XI. fejezeténél – az a)–d) alpontban meghatározott kivétellel – a Miniszterelnökség és a Kormánynak a Ktfr. 4. §-a szerinti tagja,
+
+[^704]: Az Ávr. 1. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 1. pontjával megállapított szöveg.
+[^705]: Az Ávr. 1. melléklet I. pont 1. alpont a) pontja a 475/2017. (XII. 28.) Korm. rendelet 47. § 8. pontja szerint módosított szöveg.
+[^706]: Az Ávr. 1. melléklet I. pont 9. alpontja a 499/2016. (XII. 28.) Korm. rendelet 23. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^707]: Az Ávr. 1. melléklet I. pont 10. alpontja a 436/2017. (XII. 22.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -6,8 +6,9 @@
 
 149. § (1) A költségvetési maradványt az éves költségvetési beszámoló készítésekor kell megállapítani az államháztartási számviteli kormányrendelet előírásainak megfelelően.
 
-(2)[^530]
+(2)[^547]
 
-(3) A költségvetési maradványból a központi költségvetést, irányító szervet megillető összeg befizetésén túl a költségvetési maradványt terhelő kifizetés a költségvetési év előirányzatai terhére nem teljesíthető.
+(3)[^548]
 
-[^530]: Az Ávr. 149. § (2) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 20. pontja hatályon kívül helyezte.
+[^547]: Az Ávr. 149. § (2) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 20. pontja hatályon kívül helyezte.
+[^548]: Az Ávr. 149. § (3) bekezdését a 426/2017. (XII. 19.) Korm. rendelet 9. § (1) bekezdés 1. pontja hatályon kívül helyezte.
