@@ -1,31 +1,5 @@
+## 18. §[^29]
+
 ## Ajánlattevők értesítése
 
-19. § (1) Az ajánlatkérő a közbeszerzési törvény 69. § (3) bekezdése szerinti értékelését követően az elektronikus árlejtés időpontjáról az ajánlatkérő valamennyi, az eljárásban érvényes ajánlatot benyújtó ajánlattevőt egyidejűleg, elektronikus úton, az értesítés fogadása visszaigazolásának kötelezettségével értesíteni, egyben ajánlattételre felhívni köteles.
-
-(2) Az értesítést az ajánlatkérőnek úgy kell elküldenie, hogy annak tartalmát az ajánlattevők az elektronikus árlejtés kezdő időpontjaként az értesítésben megjelölt időpont előtt legalább öt munkanappal megismerhessék.
-
-(3) Az értesítésnek tartalmaznia kell:
-
-a) az elektronikus árlejtés megkezdésének és lezárásának időpontját;
-
-b) az informatikai rendszerbe történő belépést lehetővé tevő azonosító adatokat, illetve a belépéshez szükséges eszközökre vonatkozó információkat;
-
-c) az informatikai rendszer működésének megismeréséhez szükséges információkat;
-
-d) az ajánlatoknak a közbeszerzési törvény 69. § (3) bekezdése szerinti értékelésének eredményét;
-
-e) azt a képletet, amely alapján az ajánlatok automatikus rangsorolására sor kerül;
-
-f) a 20. § szerinti, az elektronikus árlejtés lebonyolítására szolgáló informatikai rendszer működésének megismerésére nyitva álló időtartam kezdő és befejező időpontját;
-
-g) azt a kezdő és befejező időpontot, vagy amennyiben az elektronikus árlejtés több szakaszból áll minden szakaszra vonatkozóan azokat a kezdő és befejező időpontokat – naptárilag vagy a (4) bekezdésben meghatározott módon –, amelyek között az ajánlattevőnek a 21. § (1) bekezdés szerinti adatokat fel kell töltenie az elektronikus árlejtést támogató informatikai rendszerbe.
-
-(4) Az értesítés tartalmazhatja azt az ajánlattételi határidőt megelőző időtartamot, amelyen belül érkező ajánlat esetében az ajánlat megtételének időpontjában az elektronikus árlejtés új szakasza kezdődik. Az értesítésnek ebben az esetben tartalmaznia kell az új szakasz befejező időpontját, valamint azt, hogy az ilyen módon megkezdődött új szakaszban a befejező időpontot megelőzően az e bekezdés első mondatában meghatározott határidőn belül tett ajánlat egyben új szakasz kezdetét jelenti-e.
-
-(5) Valamennyi, a (4) bekezdés szerint megkezdett új szakaszra a (4) bekezdés rendelkezéseit megfelelően alkalmazni kell.
-
-(6) Az értesítéshez csatolni kell az érintett ajánlattevő ajánlata tekintetében a közbeszerzési törvény 50. § (2) bekezdés l) pontjában meghatározott súlyozásnak megfelelően végzett teljes körű értékelés eredményét.
-
-(7) A (3) bekezdés e) pontja szerinti képletnek a közbeszerzési törvény 108. § (5) bekezdés b) pontja szerinti esetben tartalmaznia kell valamennyi értékelési részszempontnak az eljárást megindító felhívásban szereplő súlyozását, e célból minden értéket előzetesen egy – a súlyozással meghatározott – értékre kell csökkenteni. Amennyiben az ajánlatkérő lehetővé tette a részekre történő ajánlattételt, minden egyes részre külön képletet kell meghatározni.
-
-(8) Amennyiben a változatok benyújtása megengedett, minden egyes változatra külön képletet kell meghatározni.
+[^29]: A 18. §-t a 424/2017. (XII. 19.) Korm. rendelet 37. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 35. §-át.

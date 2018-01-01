@@ -1,6 +1,6 @@
-## 26. § Az e rendeletbe ütköző magatartásra vagy mulasztásra a közbeszerzési törvénynek a jogorvoslatra, valamint a közbeszerzésekkel kapcsolatos polgári perekre vonatkozó rendelkezéseit kell alkalmazni.
+## 26. §[^37]
 
-## III/A. Fejezet[^39]
+## III/A. Fejezet[^38]
 
 ## A KÖZBESZERZÉSI ELJÁRÁS SORÁN A MINISZTERELNÖKSÉG ÁLTAL ÜZEMELTETETT EGYSÉGES, ELEKTRONIKUS KÖZBESZERZÉSI RENDSZER HASZNÁLATÁNAK ÁTMENETI KÜLÖNÖS SZABÁLYAI
 
@@ -42,4 +42,5 @@ f) a szerződés teljesítésének várható időpontját.
 
 (10) Az ajánlattételhez kötelező az EKR rendszer által biztosított elektronikus űrlapokon meghatározott mezők kitöltése.
 
-[^39]: A III. fejezetet (26/A–26/J. §) a 339/2017. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^37]: A 26. §-t a 424/2017. (XII. 19.) Korm. rendelet 37. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^38]: A III. fejezetet (26/A–26/J. §) a 339/2017. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
