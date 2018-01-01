@@ -1,9 +1,12 @@
 ## jelöli ki.
 
-3. § (1) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatóság – a hatóság határozatának meghozataláig felhasználható – előzetes szakhatósági állásfoglalást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 44. § (8) bekezdése szerint használja fel.
+3. § (1)[^1]
 
 (2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatóság ügyintézési határideje – ha jogszabály rövidebbet nem állapít meg – nyolc nap, környezetvédelmi és természetvédelmi tárgyú szakhatósági közreműködés esetén tizenöt nap. Ha a hatóság és a szakhatóság között vagy a szakhatóságok között egyeztetésre van szükség, azt úgy kell lefolytatni, hogy az egyeztetésre és a felülvizsgált szakhatósági állásfoglalás kiadására – a hatóság, illetve a szakhatóság erre irányuló felhívásától számított – nyolc napon belül, környezetvédelmi, természetvédelmi és vízügyi tárgyú szakhatósági közreműködés esetén tizenöt napon belül sor kerüljön.
 
 (3) A Beruházással összefüggő közigazgatási hatósági ügyekben az ügyintézési határidő – az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás, valamint a természetvédelmi hatósági eljárás kivételével, vagy ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
 
-(4) A Beruházással összefüggő közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
+(4)[^2]
+
+[^1]: A 3. § (1) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 403. §-a hatályon kívül helyezte.
+[^2]: A 3. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 403. §-a hatályon kívül helyezte.
