@@ -22,10 +22,13 @@ h)[^11] a belső védelmi terv és a súlyos káresemény elhárítási terv gya
 
 (2) A veszélyes anyagokkal foglalkozó üzem azonosításának részletes szabályait az 1. melléklet tartalmazza.
 
-(3)[^12] A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) IV. Fejezet eljárásaiban első fokon a hatóságnak a veszélyes anyagokkal foglalkozó üzem és küszöbérték alatti üzem telephelye szerint illetékes területi szerve, másodfokon a központi szerve jár el.
+(3)[^12] A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) IV. Fejezet eljárásaiban első fokon a hatóságnak a veszélyes anyagokkal foglalkozó üzem és küszöbérték alatti üzem telephelye szerint illetékes területi szerve jár el.
+
+(4)[^13] A hatóság helyi szervének az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szerve a területi szerv, a hatóság területi szervének felügyeleti szerve a hatóság központi szerve.
 
 [^8]: A 3. § a 34/2015. (II. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^9]: A 4. § (1) bekezdés f) pontja a 476/2013. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^10]: A 4. § (1) bekezdés g) pontja a 476/2013. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^11]: A 4. § (1) bekezdés h) pontját a 476/2013. (XII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^12]: A 4. § (3) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^12]: A 4. § (3) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 352. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^13]: A 4. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 350. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

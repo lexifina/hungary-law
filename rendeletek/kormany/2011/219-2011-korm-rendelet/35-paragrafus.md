@@ -1,8 +1,8 @@
 ## 15. Súlyos káresemény elhárítási terv
 
-35. § (1)[^99] A küszöbérték alatti üzem üzemeltetője – ha számára a hatóság előírja – a biztonságos üzemeltetés bizonyítása érdekében a veszélyek azonosítására, a feltárt veszélyek megelőzésére és elhárítására az 5. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő súlyos káresemény elhárítási tervet készít, melynek védendő adatokat nem tartalmazó változatát is benyújtja a veszélyes tevékenység végzéséhez, folytatásához szükséges katasztrófavédelmi engedély iránti kérelme mellékleteként a hatóság részére.
+35. § (1)[^103] A küszöbérték alatti üzem üzemeltetője – ha számára a hatóság előírja – a biztonságos üzemeltetés bizonyítása érdekében a veszélyek azonosítására, a feltárt veszélyek megelőzésére és elhárítására az 5. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő súlyos káresemény elhárítási tervet készít, melynek védendő adatokat nem tartalmazó változatát is benyújtja a veszélyes tevékenység végzéséhez, folytatásához szükséges katasztrófavédelmi engedély iránti kérelme mellékleteként a hatóság részére.
 
-(1a)[^100] A katasztrófavédelmi engedély iránti kérelem a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényben meghatározottakon túl tartalmazza:
+(1a)[^104] A katasztrófavédelmi engedély iránti kérelem az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl tartalmazza:
 
 a) a küszöbérték alatti üzem nevét és címét, amelyre a kérelem irányul,
 
@@ -10,15 +10,11 @@ b) a súlyos káresemény elhárítási tervet készítő szakértő nevét, cí
 
 c) a kérelmet előterjesztő, képviseletre jogosult nevét, aláírását.
 
-(1b)[^101] A katasztrófavédelmi engedély iránti kérelem mellékleteként az üzemeltető csatolja:
+(1b)[^105] Ha a katasztrófavédelmi engedély iránti kérelem benyújtásával egyidejűleg az üzemeltető védendő adatot nem tartalmazó súlyos káresemény elhárítási tervet nem nyújt be, akkor nyilatkozik arról, hogy a beküldött súlyos káresemény elhárítási terv nem tartalmaz védendő adatot.
 
-a)[^102] a súlyos káresemény elhárítási tervet,
+(1c)[^106] Ha a cégjegyzék tartalmazza az üzemeltető cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját, a hatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-b)[^103] a súlyos káresemény elhárítási terv védendő adatot nem tartalmazó változatát vagy nyilatkozatot arról, hogy a beküldött dokumentáció nem tartalmaz védendő adatot.
-
-(1c)[^104] Ha a cégjegyzék tartalmazza az üzemeltető cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját, a hatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
-
-(1d)[^105] Az üzemeltető a küszöbérték alatti üzemet a súlyos káresemény elhárítási tervben foglaltak szerint köteles működtetni.
+(1d)[^107] Az üzemeltető a küszöbérték alatti üzemet a súlyos káresemény elhárítási tervben foglaltak szerint köteles működtetni.
 
 (2) A súlyos káresemény elhárítási tervben a veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének azonosítása és részletes elemzése alapján az üzemeltető
 
@@ -36,16 +32,14 @@ b) bemutatja a veszélyes anyagokkal kapcsolatos súlyos baleset megelőzéséve
 
 (7) Az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos baleset vagy üzemzavar bekövetkezése esetén a súlyos káresemény elhárítási tervben foglalt intézkedéseket azonnal foganatosítja.
 
-(8)[^106]
+(8)[^108]
 
-(9)[^107]
+(9)[^109]
 
-[^99]: A 35. § (1) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^100]: A 35. § (1a) bekezdését a 476/2013. (XII. 17.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 34/2015. (II. 27.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^101]: A 35. § (1b) bekezdését a 34/2015. (II. 27.) Korm. rendelez 25. § (2) bekezdése iktatta be.
-[^102]: A 35. § (1b) bekezdés a) pontja a 477/2016. (XII. 27.) Korm. rendelet 55. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^103]: A 35. § (1b) bekezdés b) pontja a 477/2016. (XII. 27.) Korm. rendelet 55. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^104]: A 35. § (1c) bekezdését a 34/2015. (II. 27.) Korm. rendelez 25. § (2) bekezdése iktatta be.
-[^105]: A 35. § (1d) bekezdését a 34/2015. (II. 27.) Korm. rendelez 25. § (2) bekezdése iktatta be.
-[^106]: A 35. § (8) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés i) pontja hatályon kívül helyezte.
-[^107]: A 35. § (9) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés i) pontja hatályon kívül helyezte.
+[^103]: A 35. § (1) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^104]: A 35. § (1a) bekezdését a 476/2013. (XII. 17.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 34/2015. (II. 27.) Korm. rendelet 25. § (1) bekezdésével megállapított, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 351. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^105]: A 35. § (1b) bekezdését a 34/2015. (II. 27.) Korm. rendelez 25. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 350. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^106]: A 35. § (1c) bekezdését a 34/2015. (II. 27.) Korm. rendelez 25. § (2) bekezdése iktatta be, szövege a 393/2017. (XII. 13.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^107]: A 35. § (1d) bekezdését a 34/2015. (II. 27.) Korm. rendelez 25. § (2) bekezdése iktatta be.
+[^108]: A 35. § (8) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés i) pontja hatályon kívül helyezte.
+[^109]: A 35. § (9) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés i) pontja hatályon kívül helyezte.

@@ -1,5 +1,5 @@
-12. § (1)[^34] A hatóság a veszélyesség megítélését – a védendő adatokat is tartalmazó – biztonsági jelentés, biztonsági elemzés alapján végzi el, de azok védendő adatokat nem tartalmazó változatát és a 8. § (5) bekezdése szerinti kivonatát hozza nyilvánosságra.
+12. § (1)[^35] A hatóság a veszélyesség megítélését – a védendő adatokat is tartalmazó – biztonsági jelentés, biztonsági elemzés alapján végzi el, de azok védendő adatokat nem tartalmazó változatát és a 8. § (5) bekezdése szerinti kivonatát hozza nyilvánosságra.
 
 (2) A hatóság a védendő adatokat nem tartalmazó biztonsági jelentést vagy biztonsági elemzést nyilvános betekintés céljából megküldi a veszélyes anyagokkal foglalkozó üzem hatásai által veszélyeztetett település polgármesterének, a fővárosban a főpolgármesternek is.
 
-[^34]: A 12. § (1) bekezdése a 34/2015. (II. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^35]: A 12. § (1) bekezdése a 34/2015. (II. 27.) Korm. rendelet 8. §-ával megállapított szöveg.

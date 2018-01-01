@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-219-20-
 | 2015-06-01 | 2011-219-20-22.11 | 34/2015. (II. 27.) Korm. rendelet |
 | 2016-01-01 | 2011-219-20-22.12 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2011-219-20-22.13 | 477/2016. (XII. 27.) Korm. rendelet |
+| 2018-01-01 | 2011-219-20-22.14 | 457/2017. (XII. 28.) Korm. rendelet |
