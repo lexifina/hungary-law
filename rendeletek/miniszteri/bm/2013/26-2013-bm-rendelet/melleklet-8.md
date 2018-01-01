@@ -1,4 +1,4 @@
-8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^64]
+8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^66]
 
 Szervezeti működés teljesítménymutatói
 
@@ -28,7 +28,7 @@ II. A rendvédelmi feladatokat ellátó szervek funkcionális területeit érté
 
 1.5. az egyéni teljesítményértékeléssel kapcsolatos szakirányítói tevékenység színvonala
 
-1.6. a fegyelmi eljárások, méltatlansági eljárások lefolytatásának törvényes rendje, a fegyelmi helyzet javítására tett intézkedések eredményessége, színvonala
+1.6.
 
 1.7. a foglalkozás-egészségügyi és pszichológiai szakterület jogszerű működésének biztosítása
 
@@ -36,13 +36,13 @@ II. A rendvédelmi feladatokat ellátó szervek funkcionális területeit érté
 
 1.9. a személyi állomány egészségi és pszichológiai állapotának megőrzése, javítására irányuló intézkedések megtétele
 
-1.10. a munkavédelmi tevékenység színvonala, eredményessége
+1.10. a munkavédelmi, közegészségügyi és járványügyi tevékenység színvonala, eredményessége
 
 2. általános igazgatási, hivatali, vezetést támogató tevékenység
 
 2.1. jogi és igazgatási (vezetési adminisztrációs) feladatok teljesülésének szintje, színvonala
 
-2.2. jogi képviseleti, kártérítési ügyek vitelének színvonala, eredményessége
+2.2. jogi képviseleti ügyek vitelének színvonala, eredményessége
 
 2.3. ügyviteli, ügykezelési tevékenység minősége
 
@@ -50,7 +50,7 @@ II. A rendvédelmi feladatokat ellátó szervek funkcionális területeit érté
 
 2.5. kommunikációs tevékenység színvonala, eredményessége
 
-2.6. ügyeleti szolgálat szervezettsége, működés szakszerűsége, eredményessége
+2.6. kártérítési ügyek vitelének színvonala, eredményessége
 
 2.7. ellenőrzési szolgálati tevékenység színvonala, eredményessége
 
@@ -72,7 +72,7 @@ II. A rendvédelmi feladatokat ellátó szervek funkcionális területeit érté
 
 3.7. szolgálati célú szállítási szolgáltatások biztonsága és színvonala
 
-3.8. a kijelölt létesítmények őrzésével és a védett személy biztosításával kapcsolatos biztonságtechnikai háttérszolgáltatás biztonsága és színvonala
+3.8.
 
 4. oktatás-képzés
 
@@ -92,7 +92,7 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 
 1.2. intézkedések jogszerűsége és szakszerűsége
 
-1.3. járőrszolgálat hatékonysága, reagáló képessége
+1.3. a közterületi szolgálat – különösen a járőrszolgálat és a körzeti megbízotti szolgálat – hatékonysága, reagáló képessége
 
 1.4. szolgálatszervezés színvonala
 
@@ -106,11 +106,17 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 
 1.9. a szolgálatparancsnoki rendszer szervezettsége, működésének szakszerűsége, eredményessége
 
+1.10. a rádiókommunikációhoz szükséges eszközök biztosítása és színvonala
+
+1.11. a biztosítási feladatokon készített képfelvételek színvonala, használhatósága
+
+1.12. a szolgálati állatok alkalmazásával végrehajtott szolgálati feladatok szakszerűsége, eredményessége
+
 2. közlekedésrendészeti terület
 
-2.1. közlekedési járőr szolgálat intenzitása és hatékonysága
+2.1. közlekedési forgalomellenőrző járőrszolgálat intenzitása és hatékonysága
 
-2.2. közlekedésrendészeti járőr-intézkedések eredményessége
+2.2. közlekedésrendészeti intézkedések eredményessége
 
 2.3. baleseti helyszínelési és vizsgálati tevékenység színvonala és eredményessége
 
@@ -118,27 +124,21 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 
 2.5. légi rendészeti tevékenység hatékonysága, szakszerűsége
 
-2.6. vízirendészeti járőrszolgálat intenzitása
+2.6. vízirendészeti tevékenység hatékonysága, az intézkedések intenzitása, eredményessége
 
-2.7. vízirendészeti intézkedések hatékonysága
-
-2.8. víziközlekedési balesetek száma, kimenetele
-
-2.9. víziközlekedési baleset megelőzési tevékenység hatékonysága, színvonala
-
-2.10. víziközlekedési ellenőrzések hatékonysága, intenzitása
+2.7–2.10.
 
 3. bűnügyi terület
 
-3.1. nyomozás-eredményesség összességében
+3.1. nyomozás-eredményesség, valamint felderítési eredményesség összességében
 
-3.2. kiemelt bűncselekmények (közterületi kiemelt, élet- és testi épség elleni, gazdasági és vagyonelleni) nyomozásának eredményessége
+3.2. kiemelt bűncselekmények (közterületi kiemelt, élet- és testi épség elleni, gazdasági és vagyonelleni) nyomozásának, valamint felderítésének eredményessége
 
-3.3. nyomozás szakszerűség és hatékonyság színvonala
+3.3. a nyomozás szakszerűségének és időszerűségének színvonala
 
 3.4. nyomozás szervezés és vezetés színvonala
 
-3.5. helyszíni szemle tevékenység színvonala
+3.5. az elsődleges bűnügyi intézkedések – így különösen a forró nyomon üldözés és az elvégzett helyszíni szemlék –, valamint a helyszíni bűnügyi tevékenység irányításának színvonala
 
 3.6. bűnügyi-technikai tevékenység színvonala
 
@@ -146,9 +146,9 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 
 3.8. titkos együttműködőkkel összefüggő szakmai tevékenységek eredménye
 
-3.9. műveleti feldolgozások eredményessége
+3.9. a titkos információgyűjtő tevékenység eredményessége
 
-3.10. a keletkezett bűnügyi információk operatív értéke, hasznosulása
+3.10. a keletkezett bűnügyi információk operatív értéke, valamint az operatív értékelő-elemző tevékenység hasznosulása
 
 3.11. a gazdaságvédelmi tevékenység szakszerűsége és hatékonysága
 
@@ -190,7 +190,7 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 
 6.2. a kijelölt létesítmények őrzésével és a védett személy biztosításával kapcsolatos rendkívüli események során alkalmazott intézkedések jogszerűsége, szakszerűsége
 
-6.3. a riasztás során tett intézkedések hatékonysága, szakszerűsége
+6.3. a megelőző-védelmi tevékenység hatékonysága, eredményessége
 
 7. ügyeleti terület
 
@@ -234,15 +234,15 @@ IV. A Terrorelhárítási Központ szakmai tevékenységét értékelő teljesí
 
 4. operatív-technikai terület
 
-4.1. a társszolgálatok által megrendelt és elvégzett operatív munka eredményessége
+4.1. a szakmai igazgatóságok által megrendelt és elvégzett operatív munka eredményessége
 
-4.2. technikai eszközök karbantartása, biztonságos működtetésének színvonala
+4.2. a kiépített technikai és informatikai rendszerek működtetésének színvonala
 
-4.3. informatikai szolgáltatás biztonságának színvonala
+4.3. informatikai és híradástechnikai szolgáltatások színvonala
 
 5. ügyeleti és objektumvédelmi terület
 
-5.1. a szolgálati helyen végrehajtott személy- és gépjármű-beléptetések szakszerűsége, biztonsági szintje
+5.1. a szolgálati helyen végrehajtott személy- és gépjármű-beléptetések szakszerűsége, biztonsági szintje, valamint a gépjárművek érkeztetése, indítása és a szállítási feladatok végrehajtásának eredményessége
 
 5.2. a Terrorelhárítási Központ műveleti egységeinek az ügyelet által történő riasztása hatékonysága, szakszerűsége
 
@@ -316,17 +316,11 @@ VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékel�
 
 2.3. a polgári védelmi gyakorlatok értékelése
 
-3. iparbiztonsági terület
-
-3.1. a létfontosságú rendszerekkel és létesítményekkel kapcsolatos felkészültség elméleti szintje
-
-3.2. a veszélyes üzemekkel kapcsolatos felkészültség elméleti szintje
-
-3.3. a veszélyes áruk szállításával kapcsolatos elméleti felkészültség szintje
+3.
 
 4. főügyeleti terület
 
-4.1. a segélyhívószámokon fogadott és lekezelt (telefon felvételétől a riasztás kiadásáig) hívások hatékonysága, gyorsasága
+4.1. a tömeges eseménykezelési gyakorlatok gyorsasága, hatékonysága, színvonala
 
 5. hatósági terület
 
@@ -334,6 +328,6 @@ VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékel�
 
 5.2. tervezett és végrehajtott ellenőrzések szervezettsége, színvonala
 
-5.3. ideiglenes intézkedések, felhívások, kötelezések, bírságok szakszerűsége, jogszerűsége
+5.3. az iparbiztonsági szakterületi gyakorlatok megfelelősége
 
-[^64]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja szerint módosított szöveg.
+[^66]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja, a 40/2017. (XII. 29.) BM rendelet 7. § (3) bekezdése szerint módosított szöveg.

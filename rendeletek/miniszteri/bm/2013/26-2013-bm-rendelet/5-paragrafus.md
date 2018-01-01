@@ -6,6 +6,7 @@
 
 (3)[^18] Az ajánlott elemek értékelése a 2–5. melléklet szerinti értékelő lapokon, a közszolgálati teljesítményértékelés végrehajtását szolgáló informatikai rendszer felhasználásával történik.
 
-(4) A 6. melléklet szerinti összesített értékelő lapot két példányban kell kinyomtatni, egyik példányát az értékelt személy részére át kell adni, a másikat irattárban kell elhelyezni.
+(4)[^19] A 6. melléklet szerinti összesített értékelő lapot az értékelt személlyel közölni kell, valamint az irattárban is el kell helyezni.
 
 [^18]: Az 5. § (3) bekezdése a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^19]: Az 5. § (4) bekezdése a 40/2017. (XII. 29.) BM rendelet 7. § (1) bekezdésével megállapított szöveg.

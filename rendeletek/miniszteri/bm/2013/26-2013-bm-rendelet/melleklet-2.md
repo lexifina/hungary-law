@@ -56,8 +56,8 @@
 
 | 28. | vezetési technikák (tervezőkészség, szervezőkészség, vezetés, irányítás, döntésképesség, követelménytámasztás, delegálás, ellenőrzés) | x |  |
 
-2. melléklet a 26/2013. (VI. 26.) BM rendelethez[^58]
+2. melléklet a 26/2013. (VI. 26.) BM rendelethez[^60]
 
 Értékelő lap a hivatásos állomány tagja részére a teljesítményértékelés ajánlott elemeként meghatározott kompetenciákról és a kompetenciaszintek értékeléséről
 
-[^58]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 17. § a) pontja szerint módosított szöveg.
+[^60]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 17. § a) pontja szerint módosított szöveg.

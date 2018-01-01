@@ -2,7 +2,7 @@
 
 ## 5. A szervezeti teljesítményértékelés különös szabályai
 
-21. §[^54] (1) Az Országos Rendőr-főkapitányság, a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, a Büntetés-végrehajtás Országos Parancsnoksága, valamint az országos parancsnok által meghatározott funkcionális vagy speciális feladat ellátására létrehozott területi szerv esetén a teljesítményértékelést legalább főosztályi szintű szervezeti elemenként kell végrehajtani (a továbbiakban: részértékelés).
+21. §[^56] (1) Az Országos Rendőr-főkapitányság, a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, a Büntetés-végrehajtás Országos Parancsnoksága, valamint az országos parancsnok által meghatározott funkcionális vagy speciális feladat ellátására létrehozott területi szerv esetén a teljesítményértékelést legalább főosztályi szintű szervezeti elemenként kell végrehajtani (a továbbiakban: részértékelés).
 
 (2) Az (1) bekezdés szerinti szervezeti elemek éves teljesítményét a szervezeti teljesítménycélok megvalósulásának és a vezetési, funkcionális és szakmai tevékenység munkájának a szervezeti működés teljesítménymutatóinak mérése és értékelése alapján,
 
@@ -24,4 +24,4 @@ b) a szervezeti működés teljesítménymutatóit – a 18. § (3) bekezdéséb
 
 kell beszámítani.
 
-[^54]: A 21. § a 76/2015. (XII. 22.) BM rendelet 15. §-ával megállapított szöveg.
+[^56]: A 21. § a 76/2015. (XII. 22.) BM rendelet 15. §-ával megállapított szöveg.
