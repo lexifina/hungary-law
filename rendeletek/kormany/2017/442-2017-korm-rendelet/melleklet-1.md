@@ -1,4 +1,4 @@
-## 7. §[^1]
+## 7. § Hatályát veszti a 3. §.
 
 1. melléklet a 442/2017. (XII. 27.) Korm. rendelethez
 
@@ -51,5 +51,3 @@
 23. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
-
-[^1]: A 7. § az 5. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
