@@ -1,6 +1,6 @@
 ## számolható el.
 
-## 5/B. [^19] A 651/2014/EU bizottsági rendelet 55. cikke szerinti a sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
+## 5/B. [^20] A 651/2014/EU bizottsági rendelet 55. cikke szerinti a sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
 
 9/F. § (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás)
 
@@ -16,4 +16,4 @@ b) működési támogatásként sportlétesítmény működéséhez nyújtható.
 
 (5) Ha a támogatott sportlétesítményt hivatásos csapat használja, a hivatásos csapat esetén alkalmazott díjszámítási feltételeket nyilvánossá kell tenni.
 
-[^19]: Az 5/B. alcímet (9/F–9/H. §) a 47/2016. (XII. 28.) EMMI rendelet 7. §-a iktatta be.
+[^20]: Az 5/B. alcímet (9/F–9/H. §) a 47/2016. (XII. 28.) EMMI rendelet 7. §-a iktatta be.
