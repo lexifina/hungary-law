@@ -20,20 +20,15 @@ b) a nemzeti köznevelésről szóló törvény végrehajtásáról szóló korm
 
 (3) Az engedéllyel rendelkező képző intézmény nyilvántartásban szereplő adataiban bekövetkezett változások bejelentésének díja bejelentésenként 5600 forint.
 
-(4) A jogorvoslati eljárás igazgatási szolgáltatási díja (a továbbiakban: jogorvoslati díj)
+(4)[^3]
 
-a) az (1) bekezdés a) pontja és az (1) bekezdés b) pont ba) alpontja szerinti döntés ellen benyújtott jogorvoslati kérelem esetén 33 600 forint,
+(5)[^4] A díjat a kérelmezőnek a kormányhivatal Magyar Államkincstárnál vezetett 10023002-00299671-00000000 számú számlájára az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni az elektronikus ügyintézés részletszabályairól szóló kormányrendelet szerint. A fizetési megbízás közlemény rovatában fel kell tüntetni a hatósági eljárás megnevezését.
 
-b) az (1) bekezdés b) pont bb) alpontja, valamint a (2) bekezdés szerinti döntés ellen benyújtott jogorvoslati kérelem esetén 12 600 forint,
+(6)[^5]
 
-c)[^2] az Fktv. szerinti felnőttképzést folytató intézmények ellenőrzése során meghozott döntés ellen benyújtott jogorvoslati kérelem esetén 33 600 forint.
+(7)[^6] A kormányhivatal túlfizetés esetén a díjtöbbletet hivatalból, annak észlelésétől számított tizenöt napon belül visszatéríti, ha a kérelem és a befizetést igazoló iratok alapján megállapítható, hogy a kérelmező az e rendeletben meghatározott mértéket meghaladó összegű díjat fizetett.
 
-(5)[^3] A díjat a kérelmezőnek a kormányhivatal Magyar Államkincstárnál vezetett 10023002-00299671-00000000 számú számlájára, a jogorvoslati díjat a Nemzetgazdasági Minisztérium Magyar Államkincstárnál vezetett 10032000-01460658-00000000 számú számlájára az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni, az elektronikus ügyintézés részletes szabályairól szóló kormányrendelet és az elektronikus aláírás közigazgatási használatához kapcsolódó követelményekről és az elektronikus kapcsolattartás egyes szabályairól szóló kormányrendelet szerint. A fizetési megbízás közlemény rovatában fel kell tüntetni a hatósági eljárás megnevezését.
-
-(6) A díj, a jogorvoslati díj átutalással történő megfizetésének igazolására a kérelemhez, bejelentéshez vagy a jogorvoslati kérelemhez – az elektronikus ügyintézés részletes szabályairól szóló jogszabály szerint – mellékelni kell az átutalás tényét igazoló, a bank által kiadott igazolás eredeti példányát vagy az átutalást igazoló bizonylat másolatát.
-
-(7)[^4] A kormányhivatal túlfizetés esetén a díjtöbbletet hivatalból, annak észlelésétől számított tizenöt napon belül visszatéríti, ha a kérelem és a befizetést igazoló iratok alapján megállapítható, hogy a kérelmező az e rendeletben meghatározott mértéket meghaladó összegű díjat fizetett.
-
-[^2]: A 2. § (4) bekezdés c) pontját a 14/2014. (III. 31.) NGM rendelet 13. §-a iktatta be.
-[^3]: A 2. § (5) bekezdése a 62/2016. (XII. 29.) NGM rendelet 64. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^4]: A 2. § (7) bekezdése a 62/2016. (XII. 29.) NGM rendelet 64. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdését az 51/2017. (XII. 29.) NGM rendelet 2. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (5) bekezdése az 51/2017. (XII. 29.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (6) bekezdését az 51/2017. (XII. 29.) NGM rendelet 2. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (7) bekezdése a 62/2016. (XII. 29.) NGM rendelet 64. § (2) bekezdés b) pontja szerint módosított szöveg.

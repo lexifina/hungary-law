@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-56-20-2
 | 2015-01-01 | 2013-56-20-2X.4 | 55/2014. (XII. 31.) NGM rendelet |
 | 2016-01-01 | 2013-56-20-2X.5 | 42/2015. (XII. 30.) NGM rendelet |
 | 2017-01-01 | 2013-56-20-2X.6 | 62/2016. (XII. 29.) NGM rendelet |
+| 2018-01-01 | 2013-56-20-2X.7 | 51/2017. (XII. 29.) NGM rendelet |

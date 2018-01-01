@@ -1,5 +1,8 @@
-4. § (1)[^6] A díj, valamint a jogorvoslati díj az eljárást lefolytató szerv bevétele. A díjak és a jogorvoslati díjak nyilvántartására és elszámolására az államháztartás számviteléről szóló kormányrendelet rendelkezéseit kell alkalmazni.
+## 3. §[^7]
 
-(2) A díj 2. § (1) bekezdése, valamint a jogorvoslati díj 2. § (4) bekezdése szerint megállapított mértékébe beszámít a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglalt eljárási költségek közül a szakértői díj és a szakértői költségtérítés.
+4. §[^8] (1) A díj az eljárást lefolytató szerv bevétele. A díjak nyilvántartására és elszámolására az államháztartás számviteléről szóló kormányrendelet rendelkezéseit kell alkalmazni.
 
-[^6]: A 4. § (1) bekezdése a 42/2015. (XII. 30.) NGM rendelet 2. §-a szerint módosított szöveg.
+(2) A díj 2. § (1) bekezdése szerint megállapított mértékébe beszámít az igazságügyi szakértők díjazásáról szóló miniszteri rendelet szerinti szakértői díj.
+
+[^7]: A 3. §-t az 51/2017. (XII. 29.) NGM rendelet 2. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^8]: A 4. § az 51/2017. (XII. 29.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
