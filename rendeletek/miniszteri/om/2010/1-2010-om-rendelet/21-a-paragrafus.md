@@ -1,1 +1,0 @@
-## 21. § A támogatással létrehozott ingatlanvagyon – a beruházás megvalósításától számított – 10 évig nem idegeníthető el, kivéve, ha az elidegenítést műszaki vagy szakmai okok teszik szükségessé, és az abból származó ellenértéket a kedvezményezett a támogatási cél szerinti további feladatokra fordítja.
