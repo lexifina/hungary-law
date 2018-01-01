@@ -4,6 +4,8 @@
 
 (2) A Nemzeti Iroda ellátja a Kártalanítási Szervezet és az Információs Központ e jogszabályban meghatározott feladatait.
 
+(2a) A Nemzeti Iroda a határbiztosítással kapcsolatos feladatok ellátásáról gondoskodik, ezen feladatok elvégzésére biztosítóval megbízási szerződést köthet.
+
 (3) Ha Magyarország területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt és a külföldi károsult szokásos tartózkodási helye nem valamely tagállam területén van, a külföldi károsult a Nemzeti Irodával szemben az (1) bekezdés alapján kártérítési igényt kizárólag abban az esetben érvényesíthet, ha országában a baleset időpontjában a magyar károsultat hasonló jog illette meg.
 
 (3a) A Nemzeti Iroda megtérítése folytán a károsultat a károkozóval és biztosítójával szemben megillető követelés a Nemzeti Irodára száll át.

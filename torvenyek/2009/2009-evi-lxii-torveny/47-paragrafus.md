@@ -40,6 +40,8 @@ n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jo
 
 (2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), l) és m) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
 
+(2a) A kötvénynyilvántartó szerv az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv részére az adatigénylés teljesítése érdekében közvetlen hozzáférést biztosít a kötvénynyilvántartás (1) bekezdés m) pontjában meghatározott adataihoz.
+
 (3) Az (1) bekezdés n) pontjában szereplő adatigénylő az adatszolgáltatásért a mindenkori általános tételű eljárási illetéknek megfelelő összegű díjat köteles fizetni a kötvénynyilvántartó szerv részére.
 
 (4) Az (1) bekezdésben foglalt információk szolgáltatásáért, az ehhez szükséges számítógépes nyilvántartási és adatszolgáltatási rendszer folyamatos működtetéséért és az adatigénylésért a biztosítók kötelesek a kötvénynyilvántartó szervnek díjat fizetni. Díjként a biztosítók a magyarországi telephelyű gépjárművek kötelező gépjármű-felelősségbiztosításából származó negyedévi díjbevételük 0,5%-át kötelesek a tárgynegyedévet követő hónap utolsó napjáig a kötvénynyilvántartó szerv részére átutalni.

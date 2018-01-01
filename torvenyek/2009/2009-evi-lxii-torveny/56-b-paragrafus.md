@@ -2,7 +2,7 @@
 
 a) vezető aktuáriust,
 
-b) vezető jogtanácsost,
+b) vezető jogászt,
 
 c) számviteli rendért felelős vezetőt, és
 
@@ -22,7 +22,7 @@ munkaviszony keretében, a MABISZ részére ellátott, az 56. § (1) bekezdésé
 
 a) vezető aktuáriusként, aki megfelel a Bit. 57. § (1) bekezdés a)–d) pontjában;
 
-b) vezető jogtanácsosként, aki megfelel a Bit. 59. § (1) bekezdés a)–e) pontjában;
+b) vezető jogászként, aki megfelel a Bit. 59. § (1) bekezdés a)–e) pontjában;
 
 c) számviteli rendért felelős vezetőként, aki megfelel a Bit. 61. § (1) bekezdés a)–e) pontjában;
 
