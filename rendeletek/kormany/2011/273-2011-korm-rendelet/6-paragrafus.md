@@ -34,6 +34,8 @@ d) halálos munkabaleset következett be, 10-szeresére
 
 emeli meg a munkavédelmi hatóság a munkavédelmi bírság mértékét.
 
-(4) Ha a munkavédelmi hatóság korábbi hatósági eljárása során feltárt súlyos veszélyeztetés miatt a munkáltatóval szemben jogerősen munkavédelmi bírságot szabott ki a hatósági ellenőrzést megelőző két éven belül, akkor a munkavédelmi bírság mértékét 1,5-szörösére emeli meg.
+(4)[^1] Ha a munkavédelmi hatóság korábbi hatósági eljárása során feltárt súlyos veszélyeztetés miatt a munkáltatóval szemben véglegesen munkavédelmi bírságot szabott ki a hatósági ellenőrzést megelőző két éven belül, akkor a munkavédelmi bírság mértékét 1,5-szörösére emeli meg.
 
 (5) A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti mikro-, kis- és középvállalkozás vagy természetes személy munkáltató munkavédelmi normasértése esetén a munkavédelmi bírság mértéke 0,8-szorosára csökken.
+
+[^1]: A 6. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 361. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
