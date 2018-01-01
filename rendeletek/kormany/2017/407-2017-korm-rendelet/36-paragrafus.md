@@ -1,3 +1,1 @@
-## 34–35. §[^14]
-
-[^14]: A 34–35. § a 47. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## „(12) A 21/A. § (1) bekezdés c) pontja szerinti képzés kivételével a nyilvántartási kérelemben megjelölt szakirányú továbbképzés, illetve a megszerezhető szakképzettség megnevezésének más szakirányú továbbképzés, alapképzési vagy mesterképzési szak, felsőoktatási szakképzés megnevezésétől, illetve az ezeken megszerezhető szakképzettség megnevezésétől egyértelműen különböznie kell.”

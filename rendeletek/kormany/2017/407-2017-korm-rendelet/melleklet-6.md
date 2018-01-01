@@ -2,12 +2,11 @@
 
 1. A 87/2015. (IV. 9.) Korm. rendelet 9. melléklet 6. pont
 
-a)[^26]
+a) 6.8. alpontjában az „a szakirányú továbbképzés szervezésének általános feltételeiről szóló 10/2006. (IX. 25.) OKM rendelet 2. számú melléklete” szövegrész helyébe az „a 21/B. § (3) bekezdése” szöveg,
 
-b)[^27]
+b)[^20]
 
-2.[^28]
+2.[^21]
 
-[^26]: A 6. melléklet 1. pont a) alpontja a 47. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^27]: A 6. melléklet 1. pont b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 6. melléklet 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 6. melléklet 1. pont b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 6. melléklet 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
