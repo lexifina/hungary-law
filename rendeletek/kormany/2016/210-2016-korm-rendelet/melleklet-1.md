@@ -20,7 +20,7 @@
 
 8. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
 
-9.[^1] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+9.[^3] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 10. műszaki biztonsági hatósági engedélyezési eljárások,
 
@@ -48,4 +48,4 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^1]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 112. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^3]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 112. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
