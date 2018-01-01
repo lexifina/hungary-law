@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1868-30
 | --- | --- | --- |
 | 2014-12-31 | 2014-1868-30-22.1 | 1868/2014. (XII. 31.) Korm. határozat |
 | 2015-01-01 | 2014-1868-30-22.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2014-1868-30-22.3 | 2011. évi CXCV. törvény |
