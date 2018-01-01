@@ -8,7 +8,7 @@
 
 a) jelölje ki a földmérési és térinformatikai államigazgatási szervet, valamint az e törvény hatálya alá tartozó feladatok tekintetében az ingatlanügyi hatóságot vagy hatóságokat és határozza meg a földmérési és térinformatikai államigazgatási szerv, valamint az ingatlanügyi hatóság e törvény hatálya alá tartozó feladatait, hatáskörét és illetékességi területét,
 
-b)
+b) állapítsa meg az a) pont szerinti hatóságok hatáskörébe tartozó hatósági eljárások részletes szabályait,
 
 c) határozza meg a nemzeti téradat-infrastruktúra működésének részletes szabályait, különös tekintettel az abban kezelt adatok körére, az adatszolgáltatás és adatkezelés rendjére, az adatok felhasználásának részletes szabályaira, valamint jelölje ki ezen feladatok központi irányításáért felelős szervezetet,
 
@@ -24,7 +24,9 @@ h) jelölje ki a honvédelem térképészeti támogatásáért felelős szervet,
 
 i) állapítsa meg az egyéb célú földmérési és térképészeti tevékenység végzésének részletes szabályait és követelményrendszerét,
 
-j) jelölje ki a geodéziai tervezői és geodéziai szakértői minősítő és a nyilvántartást vezető szervet, határozza meg a minősítés feltételeit és a minősítéssel kapcsolatos eljárás részletes szabályait.
+j) jelölje ki a geodéziai tervezői és geodéziai szakértői minősítő és a nyilvántartást vezető szervet, határozza meg a minősítés feltételeit és a minősítéssel kapcsolatos eljárás részletes szabályait,
+
+k) állapítsa meg a honvédelem térképészeti támogatásáért felelős szerv hatáskörébe tartozó hatósági eljárások részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 

@@ -8,6 +8,6 @@
 
 (4) A földmérési jel megóvása az ingatlan mindenkori tulajdonosának, a tulajdonosi jogok gyakorlójának (vagyonkezelőjének), jogszerű használójának a kötelezettsége.
 
-(5) Az ingatlanügyi hatóság az elmozdított, megrongált vagy megsemmisült földmérési jel helyreállítását az ingatlan mindenkori jogszerű használójának, ennek hiányában tulajdonosának költségére rendeli el. Az ingatlanügyi hatóság döntésével szemben a fellebbezés kizárt. A költségek adók módjára behajtandó köztartozásnak minősülnek.
+(5) Az ingatlanügyi hatóság az elmozdított, megrongált vagy megsemmisült földmérési jel helyreállítását az ingatlan mindenkori jogszerű használójának, ennek hiányában tulajdonosának költségére rendeli el. Az ingatlanügyi hatóság döntésével szemben a fellebbezés kizárt.
 
 (6) Amennyiben a földmérési jel elmozdítása, megrongálódása, megsemmisülése az ingatlan tulajdonosának (jogszerű használójának) működési körén kívül eső elháríthatatlan okból (vis maior) következik be, a költségek forrását a központi költségvetésből kell biztosítani.

@@ -82,7 +82,9 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 
 (17) Az ingatlanügyi hatóságok a hatósági feladataik ellátásához nem fizetnek vizsgálati és záradékolási díjat.
 
-(18) Az erdészeti hatóság jogosult a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisból a körzeti erdőtervezéshez, az Országos Erdőállomány Adattár vezetéséhez, valamint az erdészeti mérő- és megfigyelő rendszer működtetéséhez szükséges, miniszteri rendeletben meghatározott adatok igénylésére.
+(18) A földmérési és térinformatikai államigazgatási szerv az erdészeti hatóság részére díj-, költség- és térítésmentesen közvetlen hozzáférést biztosít a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázis a körzeti erdőtervezéshez, az Országos Erdőállomány Adattár vezetéséhez, valamint az erdészeti mérő- és megfigyelő rendszer működtetéséhez szükséges, miniszteri rendeletben meghatározott adataihoz.
+
+(18a) A természetvédelmi hatóság a természetvédelmi törzskönyvek vezetése, továbbá a nemzeti park igazgatóságok a természetvédelmi törzskönyvek adatainak gyűjtése és nyilvántartása érdekében díj-, költség- és térítésmentesen, közvetlenül hozzáférhetnek a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisoknak ezen feladatok ellátásához szükséges adataihoz.
 
 (19) A földmérési és térinformatikai államigazgatási szerv a kezelésében lévő és a 3. § (1) bekezdés i) pontjába tartozó adatbázis távérzékelési adatait, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltatja.
 
@@ -91,3 +93,19 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 (21) A honvédelem térképészeti támogatásáért felelős szerv a honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott, valamint az (1) és (1a) bekezdés alapján átadott állami alapadatok adatbázisaiból a Magyar Honvédségnek a honvédelemért felelős miniszter által rendeletben kijelölt szervezetei és a Katonai Nemzetbiztonsági Szolgálat részére, a jogszabályban meghatározott feladataik végrehajtásához, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltat adatot.
 
 (22) Az élelmiszerlánc-felügyeleti szerv a 3. § (1) bekezdés d) pontjában foglalt adatbázisból alrészlet határig, az f) pontjában foglalt adatbázisok közül pedig a 1306/2013/EU rendelet szerinti támogatások eljárásainak kizárólagos, országos azonosító rendszeréhez készült ortofó adatbázisokból évente egy alkalommal térítésmentesen jogosult az élelmiszerlánc-felügyeleti rendszer működéséhez szükséges adatok igénylésére.
+
+(23) A vízügyi igazgatási szerv jogszabályban meghatározott közfeladatai ellátása érdekében díj-, költség- és térítésmentesen hozzáférhet
+
+a) folyamatosan a 3. § (1) bekezdés d) pontjában foglalt adatbázishoz,
+
+b) évente egyszer a 3. § (1) bekezdés e) és f) pontjában foglalt adatbázisokhoz,
+
+c) évente egyszer az ország legújabb évjárat szerinti domborzatmodelljéhez (DDM-5).
+
+(24) A vízügyi és vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében díj-, költség- és térítésmentesen hozzáférhet
+
+a) folyamatosan a 3. § (1) bekezdés d) pontjában foglalt adatbázishoz,
+
+b) évente egyszer a 3. § (1) bekezdés e) és f) pontjában foglalt adatbázisokhoz.
+
+(25) Mindazon állami és önkormányzati szervek, amelyek díj-, költség- és térítésmentesen hozzáférnek a 3. § (1) bekezdés d)–f) pontjába tartozó állami alapadatok adatbázisaihoz, az általuk kezelt adatbázisaikból díj-, költség- és térítésmentesen biztosítanak hozzáférést a földmérési és térinformatikai államigazgatási szerv számára a 3. § (1) bekezdés d)–f) pontjába tartozó állami alapadatok adatbázisok felújításával és aktualizálásával kapcsolatos feladatainak ellátásához.

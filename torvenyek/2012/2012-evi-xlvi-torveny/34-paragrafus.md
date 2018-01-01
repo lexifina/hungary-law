@@ -4,6 +4,6 @@
 
 (2)
 
-(3) A honvédelem térképészeti támogatásáért felelős szerv hatáskörébe tartozó hatósági ügyekben fellebbezésnek nincs helye.
+(3)
 
 (4) A Nemzeti Kataszteri Program megvalósítására létrehozott szervezet állami tulajdonban álló társasági részesedése feletti tulajdonos jogokat gyakorló miniszter szakmai kérdésekben a miniszter egyetértésével jár el.

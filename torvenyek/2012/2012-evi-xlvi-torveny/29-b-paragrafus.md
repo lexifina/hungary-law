@@ -38,4 +38,4 @@ b) a felsőfokú szakirányú végzettség igazolása.
 
 (8) A (2) bekezdésben meghatározott nyilvántartás a (2) bekezdés b) és g) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
-(9) Az (1) bekezdésben meghatározott szerv a Földmérő Minősítő Bizottság véleménye alapján – szakmai vagy etikai vétség esetén – a geodéziai tervezői, valamint a geodéziai szakértői minősítést visszavonja, vagy legfeljebb 2 évi időtartamra felfüggeszti. Visszavonás esetén a földmérő ismételt minősítést – a visszavonásról szóló határozat jogerőre emelkedését követő – 3 év elteltével kaphat.
+(9) Az (1) bekezdésben meghatározott szerv a Földmérő Minősítő Bizottság véleménye alapján – szakmai vagy etikai vétség esetén – a geodéziai tervezői, valamint a geodéziai szakértői minősítést visszavonja, vagy legfeljebb 2 évi időtartamra felfüggeszti. Visszavonás esetén a földmérő ismételt minősítést – a visszavonásról szóló határozat véglegessé válását követő – 3 év elteltével kaphat.

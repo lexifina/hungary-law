@@ -8,7 +8,7 @@
 
 (5) A földrészlet határvonalának változását elrendelő, megállapító vagy engedélyező közigazgatási, illetve bírósági határozatokat – az ingatlanügyi hatóság által a helyrajzi számozás és a területszámítás helyessége szempontjából vizsgált, érvényes záradékkal rendelkező – az állami ingatlan-nyilvántartási térképi adatbázis tartalmi és pontossági előírásainak megfelelő változási vázrajz alapján kell meghozni.
 
-(6) A jogerőre emelkedett határozatot és a változási vázrajzot az eljáró szerv tizenöt napon belül az ingatlan-nyilvántartásban történő átvezetés céljából köteles megküldeni a területileg illetékes ingatlanügyi hatóságnak.
+(6) A végleges határozatot és a változási vázrajzot az eljáró szerv tizenöt napon belül az ingatlan-nyilvántartásban történő átvezetés céljából köteles megküldeni a területileg illetékes ingatlanügyi hatóságnak.
 
 (7) Jogerős bírósági határozattal megállapított határvonalat az állami ingatlan-nyilvántartási térképi adatbázisban a határozatnak megfelelően kell feltüntetni.
 
