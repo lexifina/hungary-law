@@ -2,49 +2,36 @@
 
 26. §[^32]
 
-Melléklet a 4/2009. (III. 6.) IRM rendelethez
+Melléklet a 4/2009. (III. 6.) IRM rendelethez[^33]
 
-Végintézkedés bejelentéséről szóló nyomtatvány
+Végintézkedés bejelentéséhez szükséges adatok
 
-A nyomtatvány a Végrendeletek Országos Nyilvántartásába bejegyzésre csak akkor alkalmas, ha a kipontozott terület nyomtatott nagybetűvel, illetve számmal jól olvashatóan van kitöltve!
+1. A végintézkedő
 
-| Alulírott | ..................................................................................... | (családi neve és utóneve(i)) |
+1.1. családi neve és utóneve(i)
 
-|  | ..................................................................................... | (születési neve) |
+1.2. születési családi neve és utóneve(i)
 
-|  | ..................................................................................... | (születési helye és ideje) |
+1.3. születési helye és ideje
 
-|  | ..................................................................................... | (anyja születési neve) |
+1.4. anyja születési családi neve és utóneve(i)
 
-mint végintézkedő ezúton önkéntesen és határozottan hozzájárulok ahhoz, hogy a fenti adataimat a Végrendeletek Országos Nyilvántartásába továbbítsák, ott kezeljék és abból lekérdezést teljesítsenek. Hozzájárulásom a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 6. §-ának is megfelelő tájékoztatáson alapul.
+2. Az okirat
 
-Kelt, ....................., ..........................
+2.1. kelte
 
-...........................
+2.2. ügyszáma
 
-végintézkedő
+3. A letét
 
-| Alulírott | ........................................................................................................ | (megnevezés) |
+3.1. időpontja
 
-|  | ........................................................................................................ | (cím) |
+3.2. ügyszáma
 
-ezúton nyilvántartásba vétel céljából megküldöm a fenti adatokat és nyilatkozom arról, hogy a végintézkedő fenti adatait a jogszabályoknak megfelelően ellenőriztem, az adatok nyilvántartásba vételéről és kezeléséről a végintézkedőt tájékoztattam és a végintézkedést
+4. A végintézkedés fellelhetőségének helye
 
-| – okiratba foglaltam. | Az okirat kelte: | ................................................... |
-
-|  | Az okirat ügyszáma: | ................................................... |
-
-| – letétbe vettem. | A letét időpontja: | ................................................... |
-
-|  | A letét ügyszáma: | ................................................... |
-
-Kelt, ......................, ..........................
-
-P. H.
-
-............................
-
-megküldő
+5. A végrendelkező hozzájárulásának a ténye
 
 [^31]: A 25. § e rendelet 26. § (1) bekezdése alapján hatályát vesztette.
 [^32]: A 26. § a (3) bekezdése alapján hatályát vesztette.
+[^33]: A melléklet a 13/2017. (X. 20.) IM rendelet 4. §-ával megállapított szöveg.
