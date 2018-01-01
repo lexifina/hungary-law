@@ -1,1 +1,0 @@
-A légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 74. §-ának j) pontjában kapott felhatalmazás alapján – a környezetvédelmi miniszterrel egyetértésben – a következőket rendelem el:
