@@ -4,8 +4,8 @@
 
 (2)[^3] Fúrt kutak esetében a felszín alatti vízbe történő beavatkozáskor a szennyezés megelőzése céljából a harántolt, de nem szűrőzött képződményeket béléscsővel, a béléscső mögötti gyűrűsteret palástcementezéssel, vagy – ha a kút nem esik a vízföldtani napló készítésének kötelezettsége alá – a vízügyi hatóság döntése alapján nyomjelzett agyag-granulátummal vagy agyagszigeteléssel ki kell zárni.
 
-(3)[^4] Fúrt kutak esetén amennyiben a furat továbbmélyítése az engedélyezett mélység 15%-át meghaladja, illetve ha az engedélyben meghatározottól eltérő vízkészletet vesz igénybe, akkor a megvalósult kútra a vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló miniszteri rendelet szerinti engedélyezési terv csatolásával vízjogi fennmaradási engedélyt kell kérni.
+(3)[^4]
 
 [^2]: A 4. § (1) bekezdése a 11/2015. (III. 31.) BM rendelet 7. § a) pontja szerint módosított szöveg.
 [^3]: A 4. § (2) bekezdése a 67/2014. (XII. 17.) BM rendelet 17. §-ával megállapított szöveg.
-[^4]: A 4. § (3) bekezdése a 67/2014. (XII. 17.) BM rendelet 17. §-ával megállapított szöveg.
+[^4]: A 4. § (3) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § a) pontja hatályon kívül helyezte.

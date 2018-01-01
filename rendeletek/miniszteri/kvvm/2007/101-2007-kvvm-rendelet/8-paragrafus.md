@@ -2,7 +2,7 @@
 
 ## és adatszolgáltatás
 
-8. § (1)[^12] A kutakról vízföldtani naplót kell készíteni,
+8. § (1)[^14] A kutakról vízföldtani naplót kell készíteni,
 
 a) amennyiben a feltárt vízkészlet réteg-, karszt- és hasadékvíz, valamint a tervezett vízhasználat (vízkitermelés vagy vízvisszatáplálás) meghaladja az 1,5 m3/napot, vagy ilyen vízkészlet típust megfigyelő kút esetén,
 
@@ -14,25 +14,16 @@ d) egyéb, különösen jelentős létesítmény esetén, amennyiben a vízügyi
 
 (2) A vízföldtani napló tartalmi követelményeit a 2. melléklet tartalmazza. A naplóhoz minden esetben a kutat és a kút környezetének területhasználatát mutató fényképet kell mellékelni. A csatolt helyszínrajzokon az EOV koordinátahálót fel kell tüntetni.
 
-(3)[^13] A vízföldtani napló elkészíttetéséről a vízjogi engedélyes által megbízott kivitelező köteles gondoskodni. Ennek érdekében köteles a 7. § (2) bekezdése szerinti dokumentáció másolatából egy példányban, valamint az 5. § szerinti mérésekről 6 példányban adatszolgáltatást nyújtani a Központi Vízföldtani Adattárat működtető Magyar Földtani és Geofizikai Intézet (a továbbiakban: MFGI) részére.
+(3)–(6)[^15]
 
-(4)[^14] Az MFGI a beérkezett adatszolgáltatás teljességét ellenőrzi és 8 napon belül, szükség esetén hiánypótlást kér. Az MFGI a beérkezett adatok szakmai felülvizsgálatát követően elkészíti a vízföldtani naplót, kútkataszteri számmal látja el, és 30 napon belül 4 eredeti példányát visszaküldi a kivitelezőnek, továbbá egy eredeti példányt elhelyez a központi vízföldtani adattárban.
+(7)[^16]
 
-(5)[^15] A vízjogi engedélyes a kútkataszteri számmal ellátott példányokat a vízjogi engedély iránti kérelemhez csatoltan a hatóságnak megküldi. Az engedély kiadásával egyidejűleg a vízügyi hatóság a vízföldtani napló egy példányát megküldi a működési terület szerinti vízügyi igazgatóság részére.
+(8)[^17]
 
-(6)[^16] Amennyiben az engedélyezési eljárás során olyan tényre derülne fény, amely a vízföldtani napló tartalmának módosítását teszi szükségessé, akkor a vízügyi hatóság a javításról tájékoztatja a központi vízföldtani adattárat.
+(9)[^18] A vízgazdálkodási feladatokkal összefüggő alapadatokról szóló kormányrendeletben meghatározott Vízgazdálkodási Információs Rendszer és a Központi Vízföldtani Adattár részeként, a vízföldtani naplók adatai alapján az Magyar Bányászati és Földtani Szolgálat országos kútkatasztert és hévízkút katasztert vezet. Az Magyar Bányászati és Földtani Szolgálat és az Országos Vízügyi Főigazgatóság az országos kútkatasztert és hévízkút katasztert évente, a tárgyévet követő március 31-ig honlapján közzéteszi.
 
-(7)[^17] Amennyiben a vízügyi hatóság kút megszüntetéséről dönt, döntéséről évente, a tárgyévet követő év január 31-ig a működési terület szerinti vízügyi igazgatóságot értesíti.
-
-(8)[^18] Az (1) bekezdés hatálya alá nem tartozó kutak esetén a kivitelező a 3. melléklet szerinti adatlapot a műszaki átadás-átvétellel egy időben az építtetőnek (engedélyesnek) átadja, valamint azt másolatban a létesítmény engedélyezésére hatáskörrel rendelkező hatóságnak és a működési terület szerinti vízügyi igazgatóságnak is megküldi.
-
-(9)[^19] A vízgazdálkodási feladatokkal összefüggő alapadatokról szóló kormányrendeletben meghatározott Vízgazdálkodási Információs Rendszer és a Központi Vízföldtani Adattár részeként, a vízföldtani naplók adatai alapján az MFGI országos kútkatasztert és hévízkút katasztert vezet. Az MFGI és az Országos Vízügyi Főigazgatóság az országos kútkatasztert és hévízkút katasztert évente, a tárgyévet követő március 31-ig honlapján közzéteszi.
-
-[^12]: A 8. § (1) bekezdése a 67/2014. (XII. 17.) BM rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^13]: A 8. § (3) bekezdése a 67/2014. (XII. 17.) BM rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^14]: A 8. § (4) bekezdése a 21/2013. (III. 26.) VM rendelet 1. §-ával megállapított, a 67/2014. (XII. 17.) BM rendelet 24. § a) pontja szerint módosított szöveg.
-[^15]: A 8. § (5) bekezdése a 21/2013. (III. 26.) VM rendelet 1. §-ával megállapított, a 67/2014. (XII. 17.) BM rendelet 24. § b) pontja szerint módosított szöveg.
-[^16]: A 8. § (6) bekezdése a 21/2013. (III. 26.) VM rendelet 1. §-ával megállapított, a 67/2014. (XII. 17.) BM rendelet 24. § c) pontja szerint módosított szöveg.
-[^17]: A 8. § (7) bekezdését a 21/2013. (III. 26.) VM rendelet 1. §-a iktatta be, szövege a 67/2014. (XII. 17.) BM rendelet 24. § d) pontja szerint módosított szöveg.
-[^18]: A 8. § (8) bekezdését a 21/2013. (III. 26.) VM rendelet 1. §-a iktatta be, szövege a 67/2014. (XII. 17.) BM rendelet 24. § e) pontja szerint módosított szöveg.
-[^19]: A 8. § (9) bekezdését a 67/2014. (XII. 17.) BM rendelet 20. § (3) bekezdése iktatta be.
+[^14]: A 8. § (1) bekezdése a 67/2014. (XII. 17.) BM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^15]: A 8. § (3)–(6) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja hatályon kívül helyezte.
+[^16]: A 8. § (7) bekezdését a 21/2013. (III. 26.) VM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja.
+[^17]: A 8. § (8) bekezdését a 21/2013. (III. 26.) VM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja.
+[^18]: A 8. § (9) bekezdését a 67/2014. (XII. 17.) BM rendelet 20. § (3) bekezdése iktatta be, szövege a 42/2017. (XII. 29.) BM rendelet 4. §-a szerint módosított szöveg.

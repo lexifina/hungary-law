@@ -1,32 +1,12 @@
 ## Az üzemeltetésre vonatkozó egyes szabályok
 
-9. § (1)[^20] A kút
-
-a) a vízügyi hatóság által kiadott vízjogi üzemeltetési engedély, és
-
-b) a hévízművek, a közcélú ivóvízigények kielégítését-, valamint az ásvány- vagy gyógyvízhasznosítást szolgáló létesítmények esetén a vízügyi hatóság által jóváhagyott üzemeltetési szabályzat szerint üzemeltethető, amely a víziközművek üzemeltetéséről szóló miniszteri rendeletben előírtak mellett tartalmazza, különösen
-
-ba) a vízhozam szabályozására,
-
-bb) az üzemeltetési naplóra,
-
-bc) a kút védelmére, fenntartására,
-
-bd) a rendszeres és időszakos üzemi mérésekre, ezek értékelésére,
-
-be) a mérőeszközök rendszeres ellenőrzésére, kalibrálására,
-
-bf) az üzemvitelre,
-
-bg) a munkakörre és a biztonsági követelményekre,
-
-bh) a rendszeres és időszakos kútvizsgálatokra vonatkozó rendelkezéseket.
+9. § (1)[^19]
 
 (2) Szezonális üzem esetén félévenként – a vízjogi üzemeltetési engedélyben meghatározott szezon kezdetekor és végén, időszakos üzem esetén az üzemeltetés kezdetekor és annak végén – mérni kell a nyugalmi kútfejnyomást a kútnak az üzemeltetési szabályzatban előírt, de legalább egy óra időtartamú lezárásával.
 
 (3) Egy hónapot meghaladó üzemszünet esetén a nyugalmi kútfejnyomást a kútfej gáztalanítása után, illetve a nyugalmi vízszintet havonta kell mérni.
 
-(4)[^21] A vízkémiára és a gáztartalomra vonatkozó vizsgálatok gyakoriságát és a vizsgálandó komponensek körét – a vízilétesítmény céljától függően – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről, a víziközművek üzemeltetéséről, a földtani közeg és a felszín alatti víz szennyezéssel szembeni védelméhez szükséges határértékekről és a szennyezések méréséről, valamint a termelt és szolgáltatott vizek gázmentesítéséről szóló miniszteri rendeletekkel összhangban az üzemeltetési szabályzatban, amennyiben az (1) bekezdés alapján ez nem szükséges, a vízjogi üzemeltetési engedélyben kell meghatározni, ideértve a mérések módját, eszközigényét és a minőség biztosítását is.
+(4)[^20] A vízkémiára és a gáztartalomra vonatkozó vizsgálatok gyakoriságát és a vizsgálandó komponensek körét – a vízilétesítmény céljától függően – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről, a víziközművek üzemeltetéséről, a földtani közeg és a felszín alatti víz szennyezéssel szembeni védelméhez szükséges határértékekről és a szennyezések méréséről, valamint a termelt és szolgáltatott vizek gázmentesítéséről szóló miniszteri rendeletekkel összhangban az üzemeltetési szabályzatban, amennyiben az (1) bekezdés alapján ez nem szükséges, a vízjogi üzemeltetési engedélyben kell meghatározni, ideértve a mérések módját, eszközigényét és a minőség biztosítását is.
 
 (5) Az ásvány-, gyógyvíz minősítésű kutaknál a vizsgálatoknak a minősítés megalapozásához meghatározott komponensekre és azok ellenőrzésének gyakoriságára kell kiterjedni.
 
@@ -58,9 +38,8 @@ l) felszíni és mélységi vízmintavételt, valamint elemzést,
 
 m) gázkapacitás mérést és gázmintavétel elemzést a gázos kutaknál.
 
-(7) A vízügyi hatóság az időszakos vizsgálatok körét indokolt esetben szűkítheti, illetve szélesebb körű vizsgálatokról rendelkezhet. Az időszakos vizsgálatok rendjét az üzemeltetési szabályzatban rögzíteni kell.
+(7)–(8)[^21]
 
-(8) Az időszakos vizsgálatok eredményét és az értékelést tartalmazó dokumentációt az engedélyezésre hatáskörrel rendelkező hatóságnak egy hónapon belül meg kell küldeni. Amennyiben az időszakos vizsgálatok értékelése alapján az üzemeltetés módja és a rendszeres, valamint időszakos mérések rendje módosítása válik szükségessé, a megfelelően módosított üzemeltetési szabályzatot a vízügyi hatóságnak meg kell küldeni.
-
-[^20]: A 9. § (1) bekezdése a 67/2014. (XII. 17.) BM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^21]: A 9. § (4) bekezdése a 67/2014. (XII. 17.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^19]: A 9. § (1) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § e) pontja hatályon kívül helyezte.
+[^20]: A 9. § (4) bekezdése a 67/2014. (XII. 17.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^21]: A 9. § (7)–(8) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § e) pontja hatályon kívül helyezte.
