@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-37-20-1
 | --- | --- | --- |
 | 2017-08-05 | 2017-37-20-11.1 | 37/2017. (VII. 6.) FM rendelet |
 | 2017-08-06 | 2017-37-20-11.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2017-37-20-11.3 | 2010: CXXX. törvény |
