@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvénnyel együtt – a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2007. október 23-i 1371/2007/EK európai parlamenti és tanácsi rendelet 12. cikk (1) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. melléklet a 6/2010. (I. 21.) Korm. rendelethez[^21]
+1. melléklet a 6/2010. (I. 21.) Korm. rendelethez[^23]
 
 ## Vasúti társaságokra irányadó fedezeti összeghatárok
 
@@ -52,9 +52,9 @@ hl = a tárgyévben tervezett utaslétszám.
 
 Egy károsult személyre (utasra) eső fedezeti összeghatár (szublimit): legalább egy kárból egy személy esetén összesen 1 millió forint.
 
-4. Fedezeti összeghatárok számítása térségi vasúti személyszállítási működési engedély, valamint a kisvasúton, múzeumvasúton végzett személyszállítás, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti személyközlekedtetési tevékenység esetében
+4. Fedezeti összeghatárok számítása térségi vasúti személyszállítási működési engedély, valamint a keskeny nyomtávolságú vasút, múzeumvasút által, továbbá a függővasúton végzett személyszállítás, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti személyközlekedtetési tevékenység esetében
 
-A felelősségi károk éves fedezeti összeghatára térségi vasúti személyszállítási működési engedély, valamint a kisvasúton, múzeumvasúton végzett személyszállítás, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti személyközlekedtetési tevékenység esetében
+A felelősségi károk éves fedezeti összeghatára térségi vasúti személyszállítási működési engedély, valamint a keskeny nyomtávolságú vasút, múzeumvasút által, továbbá a függővasúton végzett személyszállítás, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti személyközlekedtetési tevékenység esetében
 
 ST = stl × 0,2 forint,
 
@@ -68,10 +68,10 @@ folytatja,
 
 ahol az
 
-ST = az adott térségi, kisvasúti vagy múzeumvasúti, saját célú vasúti pályahálózaton, valamint iparvágányon a nem vasúti balesetből eredő felelősségi károk fedezeti összeghatára a tárgyévben,
+ST = az adott térségi, keskeny nyomtávolságú vasút, múzeumvasút által működtetett pályahálózaton, függővasúton, valamint, saját célú vasúti pályahálózaton, valamint iparvágányon a nem vasúti balesetből eredő felelősségi károk fedezeti összeghatára a tárgyévben,
 
 stl = a tárgyévben tervezett utaslétszám.
 
 Egy károsult személyre (utasra) eső fedezeti összeghatár (szublimit): legalább egy kárból egy személy esetében összesen 1 millió forint.
 
-[^21]: Az 1. melléklet a 193/2016. (VII. 13.) Korm. rendelet 23. § a) pontjával megállapított szöveg.
+[^23]: Az 1. melléklet a 193/2016. (VII. 13.) Korm. rendelet 23. § a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.

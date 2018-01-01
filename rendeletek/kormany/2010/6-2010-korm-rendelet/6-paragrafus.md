@@ -4,18 +4,19 @@ a) a vagyoni biztosíték a 3. §-ban meghatározott valamennyi kárigény kiel�
 
 b)[^6] országos vasúti személyszállításra vonatkozó működési engedély esetében a vagyoni biztosíték területi hatálya valamennyi, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területére, egyéb vasúti személyszállításra vonatkozó működési engedély vagy bejelentés esetében a működési engedélyben vagy a tudomásul vett bejelentésben meghatározott működési területre terjed ki,
 
-c) a szerződés bármely okból történő megszűnése vagy megszüntetése esetén a biztosító a vasúti igazgatási szervet haladéktalanul írásban tájékoztatja, továbbá
+c)[^7] a szerződés bármely okból történő megszűnése vagy megszüntetése esetén a biztosító a vasúti igazgatási szervet haladéktalanul elektronikus úton tájékoztatja, továbbá
 
 d) biztosítás esetén a biztosító – az esetlegesen előírt önrésztől függetlenül – a biztosítási összeg erejéig a teljes kárt megtéríti.
 
-(2)[^7] A vagyoni biztosítékra kötött szerződésnek legalább a tárgyév végéig kell szólnia.
+(2)[^8] A vagyoni biztosítékra kötött szerződésnek legalább a tárgyév végéig kell szólnia.
 
-(3)[^8] A garanciaszerződés és a biztosítási összeg pénzneme forint vagy a Magyar Nemzeti Bank (a továbbiakban: MNB) által jegyzett deviza lehet. A devizában meghatározott összeget a fedezeti összeghatár megállapításakor a tárgyévet megelőző évben az MNB által közzétett utolsó devizaárfolyam szerinti értéken kell figyelembe venni.
+(3)[^9] A garanciaszerződés és a biztosítási összeg pénzneme forint vagy a Magyar Nemzeti Bank (a továbbiakban: MNB) által jegyzett deviza lehet. A devizában meghatározott összeget a fedezeti összeghatár megállapításakor a tárgyévet megelőző évben az MNB által közzétett utolsó devizaárfolyam szerinti értéken kell figyelembe venni.
 
-(4)[^9] Ha a vagyoni biztosíték mértéke a felhasználás következtében a fedezeti összeghatár alá csökken, a vasúti társaság – amennyiben a vasúti személyszállítási tevékenységét tovább folytatja – a vagyoni biztosíték legalább a fedezeti összeghatár mértékéig történő emeléséről, legkésőbb a csökkenéstől számított harminc napon belül gondoskodik, és ennek megtörténtéről a vasúti igazgatási szervet legalább tizenöt napon belül írásban értesíti.
+(4)[^10] Ha a vagyoni biztosíték mértéke a felhasználás következtében a fedezeti összeghatár alá csökken, a vasúti társaság – amennyiben a vasúti személyszállítási tevékenységét tovább folytatja – a vagyoni biztosíték legalább a fedezeti összeghatár mértékéig történő emeléséről, legkésőbb a csökkenéstől számított harminc napon belül gondoskodik, és ennek megtörténtéről a vasúti igazgatási szervet legalább tizenöt napon belül elektronikus úton értesíti.
 
 [^5]: A 6. § (1) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^6]: A 6. § (1) bekezdés b) pontja a 193/2016. (VII. 13.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
-[^7]: A 6. § (2) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^8]: A 6. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 25. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^9]: A 6. § (4) bekezdése a 193/2016. (VII. 13.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^7]: A 6. § (1) bekezdés c) pontja az 516/2017. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^8]: A 6. § (2) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^9]: A 6. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 25. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 6. § (4) bekezdése a 193/2016. (VII. 13.) Korm. rendelet 18. §-ával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-2. melléklet a 6/2010. (I. 21.) Korm. rendelethez[^22]
+2. melléklet a 6/2010. (I. 21.) Korm. rendelethez[^24]
 
 Kockázatértékelési adatlap
 
@@ -28,4 +28,4 @@ D. A tárgyévben üzemeltetni tervezett személyszállító vonatok száma és 
 
 Az adatokat a tárgyévre vonatkozóan kell megadni úgy, hogy az első oszlopban a tárgyév kerüljön feltüntetésre évszámmal. A második oszlopban a tárgyévben üzemeltetni tervezett személyszállító vonatok számát kell megadni. A harmadik oszlopban a tárgyévben tervezett utaslétszámot kell megadni.
 
-[^22]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 23. § b) pontjával megállapított szöveg.
+[^24]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 23. § b) pontjával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet meghatározza az országos, a térségi, az elővárosi, a városi, a helyi, a kisvasúti, valamint a múzeumvasúti vasúti személyszállítási tevékenységet végző vasúti társaság (a továbbiakban: vasúti társaság) által a felelősségi körébe tartozó nem vasúti balesetből eredő károk, valamint a vasúti személyszállítási szerződésszegésből adódó igazolt károk megtérítésére való alkalmasságával kapcsolatos követelményeket.
+## 1. §[^1] E rendelet meghatározza az országos, a térségi, az elővárosi, a városi, a helyi, a keskeny nyomtávolságú vasút, a múzeumvasút által, valamint a függővasúton végzett vasúti személyszállítási tevékenységet végző vasúti társaság (a továbbiakban: vasúti társaság) által a felelősségi körébe tartozó nem vasúti balesetből eredő károk, valamint a vasúti személyszállítási szerződésszegésből adódó igazolt károk megtérítésére való alkalmasságával kapcsolatos követelményeket.
 
 2. § (1) A rendeletben – a (2) bekezdésben meghatározott kiegészítésekkel – a vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításáról szóló kormányrendeletben meghatározott fogalmakat kell alkalmazni.
 
@@ -16,4 +16,4 @@ e) késés: az utast a vasúti társaság igénybe vett járata a célállomásr
 
 f) integrál (eléréses) önrészesedés: a kárnak az a része, amit a vasúti társaság visel, ha a kár nagysága nem éri el az e rendeletben megadott értéket; amennyiben a kár a megadott értéket meghaladja, úgy az egész kár összegét a biztosító viseli.
 
-[^1]: Az 1. § a 328/2013. (IX. 3.) Korm. rendelet 18. §-ával megállapított, a 193/2016. (VII. 13.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 328/2013. (IX. 3.) Korm. rendelet 18. §-ával megállapított, a 193/2016. (VII. 13.) Korm. rendelet 24. § a) pontja, az 516/2017. (XII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
