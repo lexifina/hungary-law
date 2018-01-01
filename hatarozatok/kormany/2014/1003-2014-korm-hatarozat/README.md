@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1003-30
 | 2015-07-27 | 2014-1003-30-22.5 | 1812/2014. (XII. 19.) Korm. határozat |
 | 2015-09-24 | 2014-1003-30-22.6 | 1812/2014. (XII. 19.) Korm. határozat |
 | 2015-11-24 | 2014-1003-30-22.7 | 1812/2014. (XII. 19.) Korm. határozat |
+| 2018-01-01 | 2014-1003-30-22.8 | 2011. évi CXCV. törvény |
