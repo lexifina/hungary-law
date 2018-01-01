@@ -1,0 +1,1 @@
+52. § Az eljárásújítás megengedése esetén az eljárást a kérelem korlátai között kell lefolytatni, és annak eredményéhez képest a választottbírósági tanács a megtámadott ítéletet hatályában fenntartja, vagy annak egészben vagy részben történő hatályon kívül helyezése mellett új határozatot hoz.
