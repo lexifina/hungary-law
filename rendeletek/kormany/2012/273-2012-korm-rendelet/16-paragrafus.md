@@ -10,6 +10,6 @@ b) általános közszolgálati ismeretek területén, valamely szakigazgatási t
 
 c) az NKE által szervezett módszertani felkészítőn részt vett.
 
-(3)[^54] A névjegyzéken szereplés feltétele, hogy az NKE által szervezett rendszeres módszertani továbbképzéseken a szakértő részt vegyen. Amennyiben a szakértő az NKE felszólítására sem vesz részt a módszertani felkészítőkön, akkor az NKE törli a névjegyzékről.
+(3)[^57] A névjegyzéken szereplés feltétele, hogy az NKE által szervezett rendszeres módszertani továbbképzéseken a szakértő részt vegyen. Amennyiben a szakértő az NKE felszólítására sem vesz részt a módszertani felkészítőkön, akkor az NKE törli a névjegyzékről.
 
-[^54]: A 16. § (3) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^57]: A 16. § (3) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.

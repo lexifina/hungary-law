@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-273-20-
 | 2016-10-28 | 2012-273-20-22.13 | 321/2016. (X. 27.) Korm. rendelet |
 | 2017-01-01 | 2012-273-20-22.14 | 443/2016. (XII. 16.) Korm. rendelet |
 | 2017-11-15 | 2012-273-20-22.15 | 338/2017. (XI. 14.) Korm. rendelet |
+| 2018-01-01 | 2012-273-20-22.16 | 396/2017. (XII. 13.) Korm. rendelet |
