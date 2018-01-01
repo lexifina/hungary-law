@@ -1,8 +1,8 @@
 ## A támogatási adatok védelmére vonatkozó külön rendelkezések
 
-24. § (1) Nem nyilvános támogatási adat az adatkezelő szerv eljárásában készített vagy rögzített, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti döntés megalapozását szolgáló adat.
+24. § (1) Nem nyilvános támogatási adatnak minősül valamennyi, az adatkezelő szerv eljárásában készített vagy rögzített, a (2) bekezdésben meghatározott adatkörön kívüli adat.
 
-(2) Az adatkezelő szerv által kezelt támogatási adatok közül közérdekből nyilvános adat e törvény alapján az adatkezelő szerv által folyósított, a központi költségvetésből, illetve az EMGA-ból, az EMVA-ból, illetve EHA-ból finanszírozott támogatásban részesülő ügyfél:
+(2) Az adatkezelő szerv által kezelt támogatási adatok közül közérdekből nyilvános adat e törvény alapján az adatkezelő szerv által folyósított, a központi költségvetésből, illetve az EMGA-ból, az EMVA-ból, illetve EHA-ból vagy az ETHA-ból finanszírozott támogatásban részesülő ügyfél:
 
 a) családi és utóneve (elnevezése), lakóhelye, székhelye, telephelye,
 

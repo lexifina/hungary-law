@@ -1,14 +1,14 @@
 ## Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer
 
-28. § (1) A mezőgazdasági és vidékfejlesztési szerv és a hatáskörrel rendelkező hatóság intézkedéseiben érintett ügyfelek azonosítását és a (2) bekezdés alapján törzsadatnak nyilvánított adatait az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben (a továbbiakban: ügyfél-nyilvántartási rendszer) kell nyilvántartani.
+28. § (1)
 
 (2) Az ügyfél nyilvántartásba vételéhez és ügyfél-azonosító számának megállapításához nyilvántartásba kell venni:
 
 a) természetes személy esetén
 
-aa) nevét,
+aa) családi- és utónevét,
 
-ab) anyja nevét,
+ab) anyja születési családi- és utónevét,
 
 ac) születési helyét és idejét,
 
@@ -16,7 +16,7 @@ b) nem természetes személy esetén
 
 ba) nevét,
 
-bb) adózás rendjéről szóló törvény szerinti adóigazgatási eljárásban alkalmazott adóazonosító számát, amennyiben az ügyfél külföldi vállalkozás, akkor az illetősége szerinti állam hatósága által megállapított adóazonosító számát,
+bb) adózás rendjéről szóló törvény szerinti adóazonosító számát, amennyiben az ügyfél külföldi vállalkozás, akkor az illetősége szerinti állam hatósága által megállapított adóazonosító számát,
 
 bc) székhelyét.
 
@@ -24,11 +24,11 @@ bc) székhelyét.
 
 a) természetes személy esetén
 
-aa) születéskori nevét,
+aa) születési családi- és utónevét,
 
 ab) állampolgárságát,
 
-ac) adózás rendjéről szóló törvény szerinti adóigazgatási eljárásban alkalmazott adóazonosító jelét,
+ac) adózás rendjéről szóló törvény szerinti adóazonosító jelét,
 
 ad) lakóhelyét (egyéni vállalkozó esetében székhelyét),
 
@@ -38,9 +38,13 @@ af) iratai őrzésének helyét, ha az nem azonos az ügyfél lakóhelyével,
 
 ag) levelezési címét, ha az nem azonos az ügyfél lakóhelyével,
 
-ah) elektronikus kapcsolattartás esetén elektronikus levélcímét,
+ah) elektronikus levélcímét,
 
 ai) ügyfélkör szerinti azonosító adatát,
+
+aj) bankszámlaszámát és annak devizanemét – nem magyar állampolgárságú külföldi illetőségű magánszemély (a továbbiakban: külföldi természetes személy) – külföldi természetes személy esetén nemzetközi fizetési szám megadása is lehetséges,
+
+ak) szöveges üzenet fogadására alkalmas telefonos elérhetőségét,
 
 b) nem természetes személy esetén
 
@@ -56,9 +60,9 @@ be) iratai őrzésének helyét, ha az nem azonos az ügyfél székhelyével,
 
 bf) levelezési címét, ha az nem azonos az ügyfél székhelyével,
 
-bg) elektronikus kapcsolattartás esetén elektronikus levélcímét,
+bg) elektronikus levélcímét,
 
-bh) költségvetési szerv esetén típusát, törzskönyvi nyilvántartási számát,
+bh) törzskönyvi jogi személy esetén típusát, törzskönyvi nyilvántartási számát,
 
 bi) statisztikai számjelét,
 
@@ -66,9 +70,15 @@ bj) működésének kezdetét,
 
 bk) ügyfélkör szerinti további azonosító adatát,
 
+bl) bankszámlaszámát és annak devizanemét – külföldi természetes személy esetén nemzetközi fizetési szám megadása is lehetséges,
+
+bm) szöveges üzenet fogadására alkalmas telefonos elérhetőségét,
+
 c) külföldi természetes személy vagy külföldi vállalkozás esetén az a) és b) pontban foglalt adatok mellett az illetősége szerinti állam hatósága által megállapított adóazonosító számát,
 
 d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét) is a pénzügyi következményekkel járó intézkedésben részt vevő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező külföldi természetes személy vagy külföldi vállalkozás esetében.
+
+(3a) Az ügyfélnek elektronikus úton történő támogatási kérelem benyújtása esetén a kérelem benyújtásakor kérelemre nyilvántartásba vett ügyfélnek kell lennie.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél-nyilvántartás vezetése keretében
 
@@ -82,16 +92,18 @@ d) működteti az ügyfél-nyilvántartás informatikai rendszerét,
 
 e) nyilvántartja az ügyfél besorolását, amely lehet:
 
-ea) nyilvántartásba vett,
+ea) hivatalból nyilvántartásba vett,
 
 eb) kérelemre nyilvántartásba vett,
 
-f) a kérelemre nyilvántartásba vett ügyfél számára a nyilvántartott adatokról hatósági bizonyítványt állít ki.
+f) az ügyfél nyilvántartásba vételéről és az ügyfél-azonosító megállapításáról döntést hoz,
 
-(5) A nyilvántartásba vétel iránti kérelmet az erre rendszeresített nyomtatványon a mezőgazdasági és vidékfejlesztési támogatási szervnél vagy a hatáskörrel rendelkező hatóságnál is be lehet nyújtani.
+g) a kérelemre nyilvántartásba vett ügyfél ilyen irányú kérelmére a nyilvántartott adatokról hatósági bizonyítványt állít ki.
 
-(6) A mezőgazdasági és vidékfejlesztési támogatási szerv a hatáskörrel rendelkező hatóság, valamint az élelmiszerlánc-felügyeleti szerv részére biztosítja az ügyfél-nyilvántartási rendszerhez való folyamatos hozzáférést, továbbá az egyes ügyekhez, eljárásokhoz kapcsolódó ellenőrzések lefolytatása érdekében, az azok lefolytatásához szükséges mértékben, a mezőgazdasági és vidékfejlesztési támogatási szerv és a hatáskörrel rendelkező hatóság, valamint az élelmiszerlánc-felügyeleti szerv kölcsönösen biztosítják egymás részére a szakrendszereikhez való hozzáférést. Az így átvett személyes adat kizárólag az ellenőrzések lefolytatása célja érdekében kezelhető, az ellenőrzéssel érintett ügy lezárását követő ötödik év végéig.
+(5) A nyilvántartásba vétel iránti kérelmet – az erre rendszeresített nyomtatványon – a mezőgazdasági és vidékfejlesztési támogatási szervnél lehet benyújtani.
 
-(7) A mezőgazdasági és vidékfejlesztési támogatási szerv, a hatáskörrel rendelkező hatóság, valamint az élelmiszerlánc-felügyeleti információs rendszeren keresztül az élelmiszerlánc-felügyeleti szerv a hatáskörébe tartozó szakrendszereket (nyilvántartási alrendszereket) az ügyfél-nyilvántartáshoz kapcsolódóan alakítja ki.
+(6) A mezőgazdasági és vidékfejlesztési támogatási szerv az élelmiszerlánc-felügyeleti szerv részére biztosítja az ügyfél-nyilvántartási rendszerhez való folyamatos hozzáférést, továbbá az egyes ügyekhez, eljárásokhoz kapcsolódó ellenőrzések lefolytatása érdekében, az azok lefolytatásához szükséges mértékben, a mezőgazdasági és vidékfejlesztési támogatási szerv és az élelmiszerlánc-felügyeleti szerv kölcsönösen biztosítják egymás részére a szakrendszereikhez való hozzáférést. Az így átvett személyes adat kizárólag az ellenőrzések lefolytatása célja érdekében kezelhető, az ellenőrzéssel érintett ügy lezárását követő ötödik év végéig.
 
-(8) Az intézkedésekben való részvétel során az ügyfél egyedi azonosítását az ügyfél-azonosító szám szolgálja. Mind a természetes személy ügyfélkörbe, mind az egyéb ügyfélkörbe tartozó ügyfél részére csak egy ügyfél-azonosító szám állapítható meg. Az ügyfél-nyilvántartási rendszer az ügyfél-azonosító szám tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(7) A mezőgazdasági és vidékfejlesztési támogatási szerv, valamint az élelmiszerlánc-felügyeleti információs rendszeren keresztül az élelmiszerlánc-felügyeleti szerv a hatáskörébe tartozó szakrendszereket (nyilvántartási alrendszereket) az ügyfél-nyilvántartáshoz kapcsolódóan alakítja ki.
+
+(8) Az intézkedésekben való részvétel során az ügyfél egyedi azonosítását az ügyfél-azonosító szolgálja. Mind a természetes személy ügyfélkörbe, mind az egyéb ügyfélkörbe tartozó ügyfél részére csak egy ügyfél-azonosító állapítható meg. Az ügyfél-nyilvántartási rendszer az ügyfél-azonosító tekintetében közhiteles hatósági nyilvántartásnak minősül.

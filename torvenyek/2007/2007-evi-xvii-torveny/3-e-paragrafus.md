@@ -1,0 +1,1 @@
+3/E. § A mezőgazdásági és vidékfejlesztési támogatási szerv a joghatóságát – ezzel összefüggésben az alkalmazandó jogot –, valamint hatáskörét és illetékességét az eljárás minden szakaszában hivatalból köteles vizsgálni.

@@ -13,3 +13,5 @@ a) a jogi személy jogutódja vagy jogszabályban, határozatban erre kötelezet
 b) a szakcsoport működését jóváhagyó szövetkezet vagy állami gazdaság, illetve ezek jogutódja,
 
 c) a jogi személy felelősségvállalásával működő gazdasági munkaközösségért felelősséget vállaló jogi személy.
+
+(5) A mezőgazdasági és vidékfejlesztési támogatási szerv intézkedik az ügy elveszett vagy megsemmisült iratának pótlása iránt, ennek érdekében az eljárásban részt vett személyeket jogosult meghallgatni, illetve kiadmányokat, iratmásolatokat beszerezni. Az ügy iratainak pótlása mellőzhető, ha az elveszett vagy megsemmisült irat alapján hozott döntés véglegessé vált és végrehajtható, ebben az esetben csak a döntés hiteles kiadmányát kell beszerezni.

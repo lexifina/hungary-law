@@ -1,0 +1,1 @@
+28/E. § A képviseleti jog keletkezése és megszűnése a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben az arra vonatkozó bejelentés mezőgazdasági és vidékfejlesztési támogatási szervhez történő beérkezése napjától vagy a bejelentésben megjelölt, a beérkezés napjánál későbbi időponttól hatályos.

@@ -12,7 +12,7 @@ e) a gazdasági társaság, a közös név alatt működő polgári jogi társas
 
 f) a szülői felügyelet alatt álló kiskorú gyermek tartozásáért a szülői felügyeletet gyakorló szülő az általa kezelt vagyon erejéig.
 
-(2) Az (1) bekezdés c) pontja szerinti kezességvállalásnak és tartozásátvállalásnak a mezőgazdasági és vidékfejlesztési támogatási szerv általi jóváhagyására, annak feltételeire és következményeire az adózás rendjéről szóló 2003. évi XCII. törvény 36. §-át kell megfelelően alkalmazni.
+(2) Az (1) bekezdés c) pontja szerinti kezességvállalásnak és tartozásátvállalásnak a mezőgazdasági és vidékfejlesztési támogatási szerv általi jóváhagyására, annak feltételeire és következményeire az adózás rendjéről szóló törvény szerinti kezességvállalás szabályait kell megfelelően alkalmazni.
 
 (3) Az (1) bekezdés szerinti határozat hiánya nem zárja ki a követelés peres vagy nemperes eljárásban történő érvényesítését.
 

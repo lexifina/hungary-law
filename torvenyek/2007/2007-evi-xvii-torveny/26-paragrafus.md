@@ -8,15 +8,17 @@ b) az intézkedések kezelésére szolgáló nyilvántartási és ellenőrzési 
 
 c) földterület azonosítási rendszer,
 
-d) a szőlőültetvények országos térinformatikai nyilvántartása,
+d)
 
 e) intervenciós raktárregiszter,
 
-f) mezőgazdasági célú csekély összegű (de minimis) támogatások nyilvántartási rendszere,
+f) az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet és a 717/2014/EU bizottsági rendelet hatálya alá tartozó, az egy és ugyanazon vállalkozásokra vonatkozó adatokat is tartalmazó mezőgazdasági, halászati, erdészeti és vadgazdálkodási, vidékfejlesztési csekély összegű támogatások nyilvántartási rendszere,
 
 g) monitoring adat-nyilvántartási rendszer,
 
 h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakban együtt: nyilvántartási rendszerek].
+
+(1a) Ahol e törvény közhiteles nyilvántartásban szereplő adatról rendelkezik, ilyen adat esetében az ellenkező bizonyításáig vélelmezni kell annak jóhiszeműségét, aki az adott nyilvántartásban szereplő közhiteles adatokban bízva jogot szerez. Az ellenkező bizonyításáig a mezőgazdasági és vidékfejlesztési támogatási szerv által vezetett nyilvántartásba bejegyzett adatról vélelmezni kell, hogy az fennáll, a nyilvántartásból törölt adatról vélelmezni kell, hogy nem áll fenn. Senki sem hivatkozhat arra, hogy a nyilvántartásba bejegyzett adatot nem ismeri, kivéve, ha a nyilvántartásba bejegyzett adat személyes adatnak vagy törvény által védett titoknak minősül, és megismerhetőségének törvényi feltételei nem állnak fenn.
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartási rendszerek működtetéséhez kapcsolódó adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
@@ -54,7 +56,7 @@ h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakb
 
 16. az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv által kezelt adatbázisból,
 
-17. az Új Széchenyi Tervhez kapcsolódó információs rendszerekből,
+17. az Új Széchenyi Tervhez, illetve a Széchenyi 2020-hoz kapcsolódó információs rendszerekből,
 
 18. az adóhatóságtól az adózókra vonatkozó adóazonosító nyilvántartásból, továbbá az adóhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére (TEAOR' 08), és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból,
 
@@ -92,9 +94,23 @@ h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakb
 
 35. az elektronikus közúti áruforgalmi ellenőrző rendszerből,
 
-36. az országos névjegyzékből.
+36. az országos névjegyzékből,
+
+37. az élelmiszerlánc-felügyeleti információs rendszerből (FELIR),
+
+38. az országos lóinformációs rendszerből (OLIR),
+
+39. szarvasmarha-információs rendszerből (SZIR),
+
+40. Országos Környezetvédelmi Információs Rendszerből (OKIR),
+
+41. termékenyítési rendszerből (TER),
+
+42. a szőlőültetvények országos térinformatikai nyilvántartásából.
 
 (3a) A mezőgazdasági és vidékfejlesztési támogatási szerv a személyiadat- és lakcímnyilvántartásból a (3) bekezdésben meghatározott feladata ellátása céljából az ügyfél-nyilvántartási rendszerben nyilvántartott természetes személy ügyfél természetes személyazonosító adatai, állampolgársága, lakóhelyének címe, elhalálozására vonatkozó adata igénylésére jogosult, amely adatokat természetes személyazonosító adattal, a lakóhely címével, illetve kapcsolati kód alkalmazásával igényelheti.
+
+(3b) A Központi Ügyfél-regisztrációs Nyilvántartást kezelő szerv az adatkezelő szerv megkeresésére annak törvényben rögzített feladatai ellátása érdekében elektronikus úton adatot szolgáltat azon természetes személyek személyazonosító adataira, állampolgárságára, elektronikus levélcímére, ügyfélkapu-azonosítójára vonatkozó adatokról, akik ügyfélkaput létesítettek, továbbá az ügyfélkapu-létesítés időpontjára vonatkozó adatokról. Ügyfélkapu megszüntetése esetén a Központi Ügyfél-regisztrációs Nyilvántartást kezelő szerv az adatkezelő szerv megkeresésére elektronikus úton a tárhely címzéséhez szükséges adatokat szolgáltatja.
 
 (4) Az adatkezelő szerv az ügyfélre vonatkozó támogatási adatokat egymással, valamint az e törvény alapján átvett adatokkal a feladatkörében végzendő ellenőrzés céljából köteles összevetni, illetve felhasználhatja.
 

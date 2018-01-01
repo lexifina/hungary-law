@@ -1,6 +1,8 @@
 ## A hiánypótlás
 
-41. § (1) Ha az intézkedésre vonatkozó jogszabály nem zárja ki, és a kérelemben található hiba az ügyfél közreműködése nélkül nyilvánvaló hibaként nem javítható ki, az ügyfelet legkésőbb az intézkedésre irányadó ügyintézési határidő kezdetét követő harminc napon belül hiánypótlásra kell felszólítani. Jogszabály ennél rövidebb határidőt is meghatározhat.
+41. § (1) Ha az intézkedésre vonatkozó jogszabály nem zárja ki, és a kérelemben található hiba az ügyfél közreműködése nélkül nyilvánvaló hibaként nem javítható ki, az ügyfelet hiánypótlásra kell felszólítani.
+
+(1a) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfelet – az intézkedésben való részvétel jogosultságának, illetve összegszerűségének megállapítása, illetve ellenőrzése érdekében – az általa ismert, illetve, nyilvántartásában szereplő adatról, tényről, körülményről nyilatkozattételre kötelezheti. Ha az ügyfél a kérelmére indult eljárásban a mezőgazdasági és vidékfejlesztési támogatási szerv felhívására határidőben nem nyilatkozik, a mezőgazdasági és vidékfejlesztési támogatási szerv a rendelkezésre álló adatok alapján dönt, vagy – ha a rendelkezésére álló adatok nem elégségesek a tényállás tisztázásához – megszünteti az eljárást.
 
 (2) Jogszabály eltérő rendelkezése hiányában hiánypótlási, nyilatkozattételre való felhívás azonos tárgyban ismételten nem bocsátható ki.
 
@@ -16,4 +18,4 @@
 
 (7) Jogszabály eltérő rendelkezése hiányában a hiánypótlásra azon dokumentumok és adatok esetén, amelyek kizárólag a pontozás szempontjából veendők figyelembe, nincs lehetőség.
 
-(8) Jogszabály eltérő rendelkezése hiányában a mezőgazdasági és vidékfejlesztési támogatási szerv előtt folyó eljárás az ügyfél kérelmére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 32. § (3) bekezdése alapján nem függeszthető fel, valamint a hiánypótlási, nyilatkozattételre való felhívás teljesítésére nyitva álló időszak nem hosszabbítható meg.
+(8) Jogszabály eltérő rendelkezése hiányában a hiánypótlási, nyilatkozattételre való felhívás teljesítésére nyitva álló időszak nem hosszabbítható meg.

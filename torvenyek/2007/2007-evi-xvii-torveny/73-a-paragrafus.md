@@ -8,7 +8,7 @@
 
 (4) A jogszabályban meghatározott elismert tevékenységből származó árbevétel nem vagy hiányos teljesítése esetén, a bírság mértékének megállapításánál jogszabályban meghatározottak szerint az árbevétel nem teljesített 300 forintos egységértékei esetében támogatási évenként legfeljebb 4 eurónak, az (1) bekezdésben hivatkozott nemzeti támogatás esetében pedig legfeljebb 3 eurónak megfelelő forintösszeg vehető figyelembe.
 
-(5) Az állattenyésztéshez kapcsolódó intézkedések esetében a jogszabályban meghatározott élőmunka-ráfordítás, beruházási kötelezettség, illetőleg képzési kötelezettség nem vagy hiányos teljesítése esetén jogszabályban meghatározottak szerint a támogatás alapjául szolgáló állategységenként évenként legfeljebb 100 eurónak megfelelő forintösszeg vehető figyelembe.
+(5)
 
 (6)
 

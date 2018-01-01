@@ -10,11 +10,11 @@ b) átmeneti jellegű, tehát a tartozás későbbi megfizetése valószínűsí
 
 (3) Magánszemély esetében a fizetési kedvezmény az (1) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha a kérelmező igazolja vagy valószínűsíti, hogy a tartozás azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos megterhelést jelent.
 
-(4) Az esedékesség időpontja után benyújtott fizetési kedvezmény iránti kérelem esetén késedelmi pótlékot kell felszámítani a fizetési kedvezmény iránti kérelmet elbíráló végzés jogerőre emelkedéséig, ha azonban a fizetési könnyítést engedélyezik, a késedelmi pótlékot csak a fizetési könnyítést engedélyező elsőfokú döntés keltének napjáig kell felszámítani.
+(4) Az esedékesség időpontja után benyújtott fizetési kedvezmény iránti kérelem esetén késedelmi pótlékot kell felszámítani a fizetési kedvezmény iránti kérelmet elbíráló végzés véglegessé válásáig, ha azonban a fizetési könnyítést engedélyezik, a késedelmi pótlékot csak a fizetési könnyítést engedélyező elsőfokú döntés keltének napjáig kell felszámítani.
 
 (5) A fizetési kedvezményt megállapító végzés rendelkező részében fel kell hívni az adós figyelmét arra, hogy ha a kedvezmény feltételeit vagy az esedékes részletek befizetését nem teljesíti, a kedvezmény érvényét veszti, és a hátralék teljes összege járulékaival együtt egy összegben esedékessé válik.
 
-(6) A mezőgazdasági és vidékfejlesztési támogatási szerv előtti eljárásban – az 56/B. §-ban foglaltakat kivéve – nincs lehetőség az ügyféllel szemben fennálló követelés (intézkedésben való jogosulatlan részvétel, kamat, késedelmi pótlék) elengedésére, mérséklésére.
+(6) A mezőgazdasági és vidékfejlesztési támogatási szerv előtti eljárásban – az 56/B. §-ban foglaltakat kivéve – nincs lehetőség az ügyféllel szemben fennálló követelés (intézkedésben való jogosulatlan részvétel miatti visszafizetési kötelezettség, kamat, késedelmi pótlék) elengedésére, mérséklésére.
 
 (7) Fizetési kedvezmény engedélyezése a mezőgazdasági és vidékfejlesztési támogatási szerv 60. § (1) bekezdésében foglalt visszatartási jogának gyakorlását nem érinti.
 

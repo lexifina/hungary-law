@@ -1,0 +1,5 @@
+3/D. § (1) Ha a mezőgazdasági és vidékfejlesztési támogatási szerv eljárási kötelességének a rá irányadó ügyintézési határidőn belül nem tesz eleget, a felügyeleti szerv az erre irányuló kérelem megérkezésétől vagy a hivatalos tudomásszerzéstől számított hatvan napon belül kivizsgálja a mulasztás okát, és a mulasztó mezőgazdasági és vidékfejlesztési támogatási szervet az eljárás soron kívüli lefolytatására utasítja.
+
+(2) Az (1) bekezdésben foglaltakat a fellebbezési eljárásra is alkalmazni kell. E rendelkezések akkor is irányadók, ha – a határozat megsemmisítése vagy hatályon kívül helyezése folytán – a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyintézési határidőn belül nem tesz eleget az új eljárás lefolytatására irányuló kötelezettségének.
+
+(3) A felügyeleti szerv a (2) bekezdés szerinti intézkedésről az ügyfelet értesíti, továbbá ellenőrzi, hogy a mezőgazdasági és vidékfejlesztési támogatási szerv a mulasztást követően határidőn belül eleget tesz-e eljárási kötelezettségének.

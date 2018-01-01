@@ -1,3 +1,1 @@
-61. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv az általa hozott határozatban foglaltak végrehajtása érdekében közvetlenül jogosult eljárni a hatósági átutalási megbízással kapcsolatban. A fizetési számlát vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
-
-(2) Ha az adóst megillető járandóságot (kifizetést), a pénzforgalmi szolgáltatónál kezelt összeget, illetőleg követelést vonják végrehajtás alá, és a munkáltató, a kifizető pénzforgalmi szolgáltató, valamint más személy felhívás ellenére a levonást, átutalást, megfizetést elmulasztja, vagy nem a jogszabályban előírtaknak megfelelően teljesíti, az érintettet a mezőgazdasági és vidékfejlesztési támogatási szerv döntésében kötelezi a levonni, átutalni, megfizetni elmulasztott összeg erejéig a tartozás megfizetésére.
+61. §

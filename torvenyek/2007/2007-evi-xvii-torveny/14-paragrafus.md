@@ -26,11 +26,13 @@ d) irányítja a nemzeti vidéki hálózatot;
 
 e) a 1698/2005/EK rendelet 75. cikk (1) bekezdésének a) pontja végrehajtása érdekében az EMVA intézkedései esetén az általa meghatározott körben jóváhagyja a mezőgazdasági és vidékfejlesztési támogatási szerv által alkalmazott eljárásrendeket, valamint a törvény alapján kötött megállapodásokat;
 
-f) gyakorolja a közigazgatási hatósági eljárás általános szabályairól szóló törvény felügyeleti eljárásra vonatkozó szabályai szerint a felügyeleti szervet megillető jogosítványokat;
+f) a mezőgazdasági és vidékfejlesztési támogatási szerv felett szakmai irányítási jogkörből eredő kormányrendeletben meghatározott egyes jogosítványokat, valamint a 9. § (1) bekezdés 12. pont a) pontja szerinti irányító hatóságként felügyeleti jogkört gyakorol;
 
 g) felel a partnerség elvének közösségi jogszabályok szerinti érvényesüléséért;
 
 h) működteti a monitoringrendszert, valamint átveszi és kezeli az 1698/2005/EK rendeletben, valamint az 1198/2006/EK rendeletben foglalt adatszolgáltatási, jelentéstételi és értékelési kötelezettségek teljesítésére, a mezőgazdasági és vidékfejlesztési támogatási szerv által gyűjtött és összesített, az integrált igazgatási és ellenőrzési rendszerben nyilvántartott monitoringadatokat.
+
+(1a) Az agrárpolitikáért felelős miniszter kormányrendeletben meghatározottak szerint szakmailag irányítja a mezőgazdasági és vidékfejlesztési támogatási szervet.
 
 (2) Az agrár-vidékfejlesztésért felelős miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az Áht. 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
 

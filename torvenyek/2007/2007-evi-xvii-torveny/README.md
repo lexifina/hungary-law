@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-17-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 2007-17-00-00.38 |
 | 2017-04-15 | 2017. évi XVI. törvény | 2007-17-00-00.39 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2007-17-00-00.40 |
+| 2018-01-01 | 2017. évi CCV. törvény | 2007-17-00-00.41 |

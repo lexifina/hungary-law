@@ -1,5 +1,19 @@
-28/B. § (1) Ha az ügyfél a képviselet ellátására meghatalmazást vagy megbízást ad, azt – az eseti meghatalmazást vagy megbízást kivéve – az ügyfélnek vagy meghatalmazott képviselőjének az ügyfél-nyilvántartási rendszer szakrendszerébe a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon kell bejelentenie.
+28/B. § (1) A mezőgazdasági támogatási eljárásban az ügyfél helyett az ügyfél-nyilvántartási rendszerben kérelemre nyilvántartásba vett besorolású, az elektronikus kapcsolattartás feltételeinek megfelelő meghatalmazott személy, illetve törvényes képviselője, valamint elsődleges képviselője is eljárhat. A meghatalmazást – az eseti meghatalmazás kivételével – a mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartásba veszi, hatályát és érvényességét valamennyi eljárási cselekménynél megvizsgálja, és azt ötévente felülvizsgálhatja.
 
-(2) Az ügyfél a meghatalmazás vagy megbízás visszavonását, felmondását a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon haladéktalanul köteles bejelenteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. A képviseleti jog megszűnését a meghatalmazott vagy megbízott is bejelentheti.
+(1a) A meghatalmazás általános jelleggel vagy egyes intézkedésekre szólhat. A meghatalmazás kiterjed az eljárással kapcsolatos minden nyilatkozatra és cselekményre, ideértve a biztosítási intézkedést és a végrehajtási eljárást.
+
+(1b) Az eseti meghatalmazást nem kell nyomtatványon bejelenteni, de legalább teljes bizonyító erejű, a polgári perrendtartásról szóló törvény szerinti magánokiratba kell foglalni, és annak eredeti példányát az adott eljárási cselekménnyel egyidejűleg kell a mezőgazdasági és vidékfejlesztési támogatási szerv részére benyújtani.
+
+(2) Az ügyfél a meghatalmazás visszavonását, felmondását a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon haladéktalanul köteles bejelenteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. A képviseleti jog megszűnését a meghatalmazott is bejelentheti.
 
 (3) A képviseleti jog keletkezése és megszűnése a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben az arra vonatkozó bejelentés mezőgazdasági és vidékfejlesztési támogatási szervhez történő beérkezése napjától hatályos.
+
+(4) A mezőgazdasági és vidékfejlesztési támogatási szerv az (1) és (1a) bekezdésben foglaltaknak meg nem felelő nyilvántartásba vételi kérelmet visszautasítja A meghatalmazott visszautasítása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv felhívja az ügyfelet, hogy járjon el személyesen, vagy gondoskodjon az (1) és (1a) bekezdésben foglaltaknak megfelelő képviselő alkalmazásáról.
+
+(5) Ha az ügyfél nevében meghatalmazottja jár el, és az ügyfél eltérően nem rendelkezik, az iratokat a mezőgazdasági és vidékfejlesztési támogatási szerv a meghatalmazott részére küldi meg. Ha az ügyfél az iratok saját részére történő kézbesítését kérte, akkor részére kézbesítendő az irat, kivéve, ha kötelező elektronikus kapcsolattartás esetén nem ő volt az utolsó iratot benyújtó személy. Kötelező elektronikus kapcsolattartás esetén az iratokat az utolsó iratot benyújtó személynek kell kézbesíteni.
+
+(6) A mezőgazdasági és vidékfejlesztési támogatási szerv nyilatkozattételre hívja fel az ügyfelet, ha az eljárás során az ügyfél és az ügyfél meghatalmazottjának a nyilatkozata eltér egymástól, vagy egyéb eljárási cselekményeik ellentétesek. Ha az ügyfél eltérően nem nyilatkozik, a mezőgazdasági és vidékfejlesztési támogatási szerv a későbbi cselekményt, nyilatkozatot tekinti érvényesnek.
+
+(7) Ha az ügyfélnek több meghatalmazottja van, az iratok – az ügyfél egyidejű értesítésével – az adott intézkedésben utoljára eljáró, hatályos képviseleti joggal rendelkező meghatalmazottnak kerülnek kézbesítésre.
+
+(8) Folyamatban lévő támogatás esetén az ügy megindítását követően rendelkezési nyilvántartásba meghatalmazásra tett új ügyintézési rendelkezést, vagy annak módosítását a mezőgazdasági és vidékfejlesztési támogatási szerv csak akkor veszi figyelembe, ha azt az ügyfél a mezőgazdasági és vidékfejlesztési támogatási szervnek is bejelenti.

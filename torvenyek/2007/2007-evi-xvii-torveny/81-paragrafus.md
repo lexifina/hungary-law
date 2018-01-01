@@ -18,13 +18,19 @@ g) az automatizált döntés e törvény szerinti eljárásokban való alkalmaz�
 
 rendeletben állapítsa meg.
 
-(1a) Felhatalmazást kap a Kormány, hogy az Európai Unió jogi aktusa vagy e törvény alapján átruházható feladatok körét rendeletben állapítsa meg, továbbá hogy a 11. § (10) bekezdése szerinti esetben az igazoló szervet, az igazoló hatóságot, az ellenőrző hatóságot, az átruházott feladatot ellátó szervezetet, a közreműködő szervezetet, az együttműködő szervezetet és a nemzeti vidéki hálózat titkárságát rendeletben jelölje ki.
+(1a) Felhatalmazást kap a Kormány, hogy az Európai Unió jogi aktusa vagy e törvény alapján átruházható feladatok körét rendeletben állapítsa meg, továbbá hogy a 11. § (10) bekezdése szerinti esetben az tanúsító szervet, az igazoló hatóságot, az ellenőrző hatóságot, az átruházott feladatot ellátó szervezetet, a közreműködő szervezetet, az együttműködő szervezetet és a nemzeti vidéki hálózat titkárságát rendeletben jelölje ki.
 
 (1b) Felhatalmazást kap a Kormány, hogy az EMVA, az EHA és az ETHA tekintetében rendeletben állapítsa meg a III. Fejezet végrehajtásával kapcsolatos részletes szabályokat.
 
 (1c) Felhatalmazást kap a Kormány, hogy az agrárpolitikáért felelős miniszternek és az agrár-vidékfejlesztésért felelős miniszternek a mezőgazdasági és vidékfejlesztési támogatási szerv szakmai irányítására vonatkozó szabályait rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a Kormány, hogy a mezőgazdasági és vidékfejlesztési támogatási szervet rendeletben kijelölje.
+(2) Felhatalmazást kap a Kormány, hogy
+
+a) a mezőgazdasági és vidékfejlesztési támogatási szervet, a fellebbezés elbírálására jogosult szervet valamint
+
+b) a gazdasági elemzésekkel foglalkozó intézményt
+
+rendeletben kijelölje.
 
 (3) Felhatalmazást kap az agrár-vidékfejlesztésért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel egyetértésben
 
@@ -32,7 +38,7 @@ a) az e törvény hatálya alá tartozó, az EMVA-ból és az EHA-ból támogato
 
 b) az EMVA-ból, az EHA-ból és az ETHA-ból támogatott intézkedések igénybevétele vonatkozásában az elháríthatatlan külső ok (vis maior) bejelentésével és igazolásával kapcsolatos részletes szabályokat,
 
-c) a helyi akciócsoportok elismerési rendjének részletes szabályait és a helyi akciócsoportokat,
+c)
 
 d) a nemzeti vidéki hálózat felállításával kapcsolatos részletes szabályokat,
 

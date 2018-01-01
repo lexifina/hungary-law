@@ -1,0 +1,1 @@
+3/A. § A mezőgazdasági támogatási eljárásban tilos minden olyan különbségtétel, kizárás vagy korlátozás, amelynek célja vagy következménye a törvény előtti egyenlő bánásmód megsértése, az ügyfél és az eljárás egyéb résztvevője e törvényben biztosított jogának csorbítása.

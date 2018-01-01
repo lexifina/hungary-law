@@ -1,0 +1,7 @@
+25/A. § (1) Erre irányuló indokolt kérelem esetén a mezőgazdasági és vidékfejlesztési támogatási szerv elrendeli a tanú, a tolmács és a szemletárgybirtokos, természetes személyazonosító adatainak és lakcímének zárt kezelését, ha az adatok zárt kezelése iránti kérelmet előterjesztő valószínűsíti, hogy őt az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti. A végzést kizárólag a kérelmet előterjesztővel kell közölni.
+
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv a 4/A. § (5) bekezdése szerinti kiskorú ügyfél védelme érdekében erre irányuló kérelem nélkül is dönthet a kiskorú ügyfél adatainak zárt kezeléséről. A végzést a kiskorú ügyfél törvényes képviselőjével is közölni kell.
+
+(3) A zártan kezelt adatok megismerésére csak az ügyintéző, a jegyzőkönyvvezető és a leíró, a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője, a felügyeleti szerv, valamint a fellebbezés elbírálására jogosult hatóság erre felhatalmazott ügyintézője és vezetője, az illetékes ügyész és a közigazgatási per során eljáró bíró jogosult.
+
+(4) Az iratbetekintési jog biztosítása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv – a jogszabályban meghatározott tartalmi és formai követelményeknek egyebekben megfelelő – kivonatot készít az eljárás során keletkezett iratról akként, hogy abból az (1) bekezdésben meghatározott személy kilétére vonatkozóan következtetés ne legyen levonható.

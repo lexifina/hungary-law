@@ -2,6 +2,26 @@
 
 (2) A jegyzőkönyvben rögzíteni kell az ügyfél által felajánlott és az ellenőr által visszautasított bizonyítást, kitérve a visszautasítás indokaira is.
 
+(2a) A jegyzőkönyv legalább tartalmazza
+
+a) a mezőgazdasági és vidékfejlesztési támogatási szerv megnevezését, az ügyintéző nevét, az ügy tárgyát és az ügyiratszámot,
+
+b) az eljárási cselekményben érintett személy nevét és lakcímét, eljárásjogi helyzetét és – ha azt a hatóság tudomására hozta – egyéb elérési lehetőségét,
+
+c) hatósági tanú alkalmazása esetén annak nevét,
+
+d) az eljárási cselekményben érintett személy jogaira és kötelességeire való figyelmeztetés megtörténtét,
+
+e) az ügyre vonatkozó lényeges nyilatkozatokat és megállapításokat, az (1) és (2) bekezdésben felsorolt eljárási cselekmények során tapasztalt, az ügy eldöntése szempontjából lényeges körülményeket és megállapításokat, ideértve a hatósági tanú észrevételeit is,
+
+f) a jegyzőkönyv készítésének helyét és időpontját, valamint
+
+g) az eljárási cselekményben érintett személy, az eljárási képességgel nem rendelkező személy képviselője, a hatósági tanú, az eljáró ügyintéző és a jegyzőkönyvvezető oldalankénti aláírását.
+
+(2b) Az eljárási cselekményben érintett személy indokolt kérelmére nyilatkozatát, vallomását, szakértői véleményét vagy azok egyes részét a jegyzőkönyv szó szerint tartalmazza.
+
+(2c) A hangfelvételre, mintavételre, valamint a kép- és hangfelvételre a jegyzőkönyvre vonatkozó szabályokat azzal kell alkalmazni, hogy azok a (2a) bekezdés a)–f) pontjában felsoroltakat tartalmazzák. A hangfelvételt, a mintavétel eredményét tartalmazó dokumentumot, valamint a kép- és hangfelvételt hordozó eszközt az iratokhoz kell csatolni, vagy arról az eljárás befejezéséig a (2a) bekezdésnek megfelelő tartalmú jegyzőkönyvet kell készíteni.
+
 (3) Az ellenőr a tényállás tisztázása során az ügyfél javára szolgáló tényeket is köteles rögzíteni és feltárni. A nem bizonyított körülmény az ügyfél terhére nem értékelhető.
 
 (4) Az ellenőr a helyszíni ellenőrzés megkezdését megelőzően köteles a jelen lévő ügyfelet az ellenőrzés céljáról, tárgyáról és várható időtartamáról tájékoztatni.

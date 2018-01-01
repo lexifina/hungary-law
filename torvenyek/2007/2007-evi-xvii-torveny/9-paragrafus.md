@@ -1,75 +1,89 @@
 ## Fogalmak
 
-9. § A törvény, valamint a törvény végrehajtására kiadott jogszabályok alkalmazásában:
+9. § (1) E törvény, valamint a végrehajtására kiadott jogszabályok alkalmazásában:
 
-a) beruházás: az ügyfél által eszközölt, a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 71. §-a (1) bekezdésének a) pontjában megfogalmazott tevékenységek és az erdő faállományának minőségi javítását szolgáló törzsalakító nyesés. A társasági tulajdon, illetőleg szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
+1. adatkezelő: a kifizető ügynökség, a mezőgazdasági és vidékfejlesztési támogatási szerv, a 12. pont b) alpontja szerinti irányító hatóság, valamint az 1305/2013/EU rendelet 66. cikk (2) bekezdés szerinti közbenső szervezet;
 
-b) egyéb szervezet: a szakcsoport, valamint a jogi személyiséggel nem rendelkező szervezet;
+2. beruházás: az ügyfél által eszközölt, a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 71. § (1) bekezdés a) pontjában meghatározott tevékenységek és az erdő faállományának minőségi javítását szolgáló törzsalakító nyesés, azzal, hogy a társasági tulajdon, illetőleg szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
 
-c) illetékes hatóság: az 1290/2005/EK tanácsi rendeletnek a kifizető ügynökségek és más testületek akkreditációja és az EMGA és az EMVA számláinak elszámolása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló 885/2006/EK bizottsági rendelet (2006. június 21.) 1. cikkének (2) bekezdése, valamint az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, az ellenőrzési szabályok, a biztosítékok és az átláthatóság tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló 908/2014/EU bizottsági végrehajtási rendelet (2014. augusztus 6.) 1. cikk (1) bekezdése alapján az agrár-vidékfejlesztésért felelős miniszter;
+3. egyéb szervezet: a szakcsoport, valamint a jogi személyiséggel nem rendelkező szervezet;
 
-d) irányító hatóság: az agrár-vidékfejlesztésért felelős miniszter mint
+4. ellenőrző hatóság: az 1198/2006/EK tanácsi rendelet 58. cikk (1) bekezdés c) pontja szerinti szervezet;
 
-da) a 2007–2013 programozási időszakban az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet (2005. szeptember 20.) 75. cikke és az Európai Halászati Alapról szóló 1198/2006/EK tanácsi rendelet (2006. július 27.) 58. cikk (1) bekezdés a) pontja,
+5. folyamatban lévő eljárás: a kérelemre vagy hivatalból indult, véglegessé vált döntéssel még le nem zárt eljárás;
 
-db) a 2014–2020 programozási időszakban az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 1305/2013/EU európai parlamenti és tanácsi rendelet (2013. december 17.) (a továbbiakban: 1305/2013/EU rendelet) 65. cikk (2) bekezdése és az Európai Halászati Alappal összefüggésben a 2014–2020 programozási időszakra vonatkozó közösségi jogi aktus
+6. folyamatban lévő támogatás: az intézkedésben való részvétel iránti kérelem benyújtásától a kérelemre hozott döntés alapján az ügyfelet terhelő kötelezettségek fennállásáig tartó időszak;
+
+7. gondatlanság: a mezőgazdasági és vidékfejlesztési intézkedésekkel összefüggésben gondatlannak minősül az ügyfél, illetve az általa igénybevett közreműködője, képviselője magatartása, amennyiben az a 27. pont szerint nem minősíthető szándékos magatartásnak;
+
+8. hatáskörrel rendelkező hatóság: a kölcsönös megfeleltetés körébe tartozó előírások és követelmények ellenőrzését, igazolását végző közigazgatási szerv;
+
+9. igazoló hatóság: az 1198/2006/EK tanácsi rendelet 58. cikk (1) bekezdés b) pontja szerinti szervezet;
+
+10. illetékes hatóság: a 885/2006/EK bizottsági rendelet 1. cikk (2) bekezdése, valamint a 908/2014/EU bizottsági végrehajtási rendelet 1. cikk (1) bekezdése alapján az agrár-vidékfejlesztésért felelős miniszter;
+
+11. irat: a polgári perrendtartásról szóló törvény szerinti irat, okirat, közokirat és magánokirat;
+
+12. irányító hatóság: az agrár-vidékfejlesztésért felelős miniszter mint
+
+a) az 1698/2005/EK tanácsi rendelet 75. cikke és az 1198/2006/EK tanácsi rendelet 58. cikk (1) bekezdés a) pontja,
+
+b) az 1305/2013/EU európai parlamenti és tanácsi rendelet 65. cikk (2) bekezdése és az Európai Tengerügyi és Halászati Alappal összefüggésben a 2014–2020 programozási időszakra vonatkozó közösségi jogi aktus
 
 alapján kijelölt hatóság;
 
-e) kifizető ügynökség: a közös agrárpolitika finanszírozásáról szóló 1290/2005/EK tanácsi rendelet (2005. június 21.) 6. cikkében meghatározottak szerinti, a Kormány által rendeletben kijelölt, és az illetékes hatóság által e feladat ellátására akkreditált szerv;
+13. keretkimerülés: a jogszabályban meghatározott jogosultsági keret teljes mértékű vagy olyan részleges kimerülése, amikor a fennmaradó rész (maradvány) az intézkedés jellegéből adódóan nem használható ki;
 
-f) igazoló szerv: a közös agrárpolitika finanszírozásáról szóló 1290/2005/EK tanácsi rendelet (2005. június 21.) 7. cikkében meghatározottak szerinti szerv;
+14. kifizető ügynökség: az 1306/2013/EU európai parlamenti és tanácsi rendelet 7. cikkében meghatározottak szerinti, a Kormány által rendeletben kijelölt, és az illetékes hatóság által e feladat ellátására akkreditált szerv;
 
-g) közreműködő szervezet: az Európai Halászati Alapról szóló 1198/2006/EK tanácsi rendelet (2006. július 27.) 3. cikk p) pontja szerinti szervezet;
+15. kölcsönös megfeleltetés: az 1306/2013/EU európai parlamenti és tanácsi rendelet VI. címében meghatározott rendszer;
 
-h) igazoló hatóság: az Európai Halászati Alapról szóló 1198/2006/EK tanácsi rendelet (2006. július 27.) 58. cikk (1) bekezdés b) pontja szerinti szervezet;
+16. közreműködő szervezet: az 1198/2006/EK tanácsi rendelet 3. cikk p) pontja szerinti szervezet;
 
-i) ellenőrző hatóság: az Európai Halászati Alapról szóló 1198/2006/EK tanácsi rendelet (2006. július 27.) 58. cikk (1) bekezdés c) pontja szerinti szervezet;
+17. mezőgazdasági célú csekély összegű támogatások:
 
-j) helyi akciócsoport: az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet (2005. szeptember 20.) 62. cikk (2) bekezdése szerinti feladatokat ellátó szervezet;
+a) az 1407/2013/EU bizottsági rendelet szerinti mezőgazdasági célú általános csekély összegű támogatás,
 
-k) nemzeti vidéki hálózat: az 1698/2005/EK rendelet 68. cikke szerint jogszabályban foglaltak szerinti szervezési, koordinációs feladatokat ellátó szervezet;
+b) az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatás, továbbá
 
-l) mezőgazdasági és vidékfejlesztési támogatási szerv: a Kormány által rendeletben kijelölt szerv;
+c) a 717/2014/EU bizottsági rendelet szerinti halászati csekély összegű támogatás;
 
-m) nyilvánvaló hiba: az ügyfél által benyújtott kérelemben, pályázatban feltüntetett adatok olyan egyértelmű hiányossága vagy hibája, amely a kérelem, vagy a pályázat más adataiból vagy más, a végrehajtási feladatokat ellátó szervezet által közvetlenül elérhető nyilvántartásból származó adatok alapján hiánypótlásra felszólítás nélkül, saját hatáskörben pótolható vagy javítható, kivéve a kérelem hitelességét befolyásoló hiányosság (aláírás, bélyegző lenyomat stb.);
+18. mezőgazdasági és vidékfejlesztési támogatási szerv: a Kormány által rendeletben kijelölt szerv;
 
-n) mezőgazdasági vagyoni értékű jog:
+19. mezőgazdasági támogatási eljárás: mezőgazdasági, halászati, erdészeti és vadgazdálkodási és agrár-vidékfejlesztési támogatásokhoz és egyéb intézkedésekhez kapcsolódó, e törvény hatálya alá tartozó eljárás;
 
-1. a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendeletben (a továbbiakban: 73/2009/EK tanácsi rendelet) foglaltaknak megfelelően kiosztott, az egységes támogatási rendszerben való részvételre feljogosító támogatási jogosultság,
+20. monitoring: az 1698/2005/EK tanácsi rendelet, az 1974/2006/EK bizottsági rendelet, valamint a 498/2007/EK bizottsági rendelet szerint meghatározott mutatókra vonatkozóan végrehajtott, az intézkedések megkezdésekor, valamint a célkitűzéseikhez viszonyított előrehaladásának, hatásának rendszeres vizsgálata;
 
-2. a 73/2009/EK rendelet IV. cím 1. fejezet 10. cikkében meghatározott anyajuhra és anyakecskére vonatkozó támogatási jogosultság, és a 11. cikkében meghatározott anyatehénre vonatkozó támogatási jogosultság,
+21. monitoring-adatgyűjtés: az 1698/2005/EK tanácsi rendelet, az 1974/2006/EK bizottsági rendelet, az 1198/2006/EK tanácsi rendelet, valamint a 498/2007/EK bizottsági rendelet szerint meghatározott mutatókra vonatkozóan végrehajtott, az intézkedések megkezdésekor, valamint a célkitűzéseikhez viszonyított előrehaladásának, hatásának mérésére szolgáló adatok rendszeres gyűjtése;
 
-3. a tej- és tejtermékágazatban illeték megállapításáról szóló, 2003. szeptember 29-i 1788/2003/EK tanácsi rendelet 5. cikk j) pontjában meghatározott egyéni referenciamennyiség,
+22. monitoringrendszer: a monitoringtevékenység folytatása céljából létrehozott intézmények, szervezetek, eszközök és eljárásrendek, valamint ezek együttes működtetése érdekében foganatosított intézkedések összessége;
 
-4. a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”), 2007. október 22-i 1234/2007/EK tanácsi rendelet 85h–85i. cikkében meghatározott új telepítési jog és újratelepítési jog, valamint
+23. nyilvánvaló hiba: az ügyfél által benyújtott kérelemben, pályázatban feltüntetett adatok olyan egyértelmű hiányossága vagy hibája, amely a kérelem, vagy a pályázat más adataiból vagy más, a végrehajtási feladatokat ellátó szervezet által közvetlenül elérhető nyilvántartásból származó adatok alapján hiánypótlásra felszólítás nélkül, saját hatáskörben pótolható vagy javítható, kivéve a kérelem hitelességét befolyásoló hiányosság (aláírás, bélyegző lenyomat);
 
-5. jogszabályban mezőgazdasági vagyoni értékű jognak minősített jog;
+24. pénzügyi kapcsolat: olyan gazdasági kapcsolat a mezőgazdasági és vidékfejlesztési támogatási szerv és a vele kapcsolatban álló ügyfél között, amelynek alapján közöttük tartozások és követelések keletkeznek, azaz elszámolási viszony jön létre;
 
-o) kölcsönös megfeleltetés: a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet 2. cikk (31) bekezdésében, valamint a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 1975/2006/EK rendelet 19. cikk (1) bekezdésében meghatározott fogalom;
+25. szabálytalanság: az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. december 18-i 2988/95/EK Euratom tanácsi rendelet 1. cikk (2) bekezdésében megállapított tényállás;
 
-p) hatáskörrel rendelkező hatóság: a kölcsönös megfeleltetés körébe tartozó előírások és követelmények ellenőrzését, igazolását végző közigazgatási szerv;
+26. szakrendszer: az ügyfélnyilvántartáshoz az ügyfél-azonosítóval kapcsolódó, a mezőgazdasági és vidékfejlesztési támogatási szerv, valamint a hatáskörrel rendelkező hatóság hatáskörébe tartozó, általuk működtetett (vezetett) nyilvántartás;
 
-q) szabálytalanság: az Európai Közösségek pénzügyi érdekeinek védelméről szóló 2988/95/EK Euratom tanácsi rendelet (1995. december 18.) 1. cikk (2) bekezdésében megállapított tényállás;
+27. szándékosság, súlyos gondatlanság (a továbbiakban együtt: szándékosság): a mezőgazdasági és vidékfejlesztési intézkedésekkel összefüggésben szándékosnak minősül az ügyfél, illetve az általa igénybevett közreműködő, képviselő magatartása, amennyiben az ügyfél vagy az általa igénybevett közreműködő, képviselő tudatában van annak, hogy a tanúsított tevőleges magatartás vagy mulasztás az intézkedésekkel összefüggésben az ügyfél számára a jogosultság jogosulatlan megszerzése, annak fenntartása, illetve az intézkedésekkel összefüggésben jogosultságának bármely eleme vonatkozásában kedvezőbb elbírálást biztosít, mint a tanúsított tevőleges magatartás nélkül;
 
-r) mezőgazdasági célú csekély összegű (de minimis) támogatások: az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 1535/2007/EK bizottsági rendelet (2007. december 20.), az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló 875/2007/EK bizottsági rendelet (2007. július 24.), valamint a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 1998/2006/EK bizottsági rendelet (2006. december 15.) hatálya alá utalt mezőgazdasági és agrár-vidékfejlesztési állami támogatások;
+28. tanúsító szerv: az 1306/2013/EU európai parlamenti és tanácsi rendelet 9. cikkében meghatározottak szerinti szerv;
 
-s) szándékosság, súlyos gondatlanság (a továbbiakban együtt: szándékosság): a mezőgazdasági és vidékfejlesztési intézkedésekkel összefüggésben szándékosnak minősül az ügyfél, illetve az általa igénybevett közreműködő, képviselő magatartása, amennyiben az ügyfél vagy az általa igénybevett közreműködő, képviselő tudatában van annak, hogy a tanúsított tevőleges magatartás vagy mulasztás az intézkedésekkel összefüggésben az ügyfél számára a jogosultság jogosulatlan megszerzése, annak fenntartása, illetve az intézkedésekkel összefüggésben jogosultságának bármely eleme vonatkozásában kedvezőbb elbírálást biztosít, mint a tanúsított tevőleges magatartás nélkül;
+29. ügyfél: az a természetes személy, jogi személy vagy egyéb szervezet, aki vagy amely támogatást igényel, támogatásra jogosult, vagy akit vagy amelyet a mezőgazdasági és vidékfejlesztési támogatási szerv ellenőrzés alá vont;
 
-t) gondatlanság: a mezőgazdasági és vidékfejlesztési intézkedésekkel összefüggésben gondatlannak minősül az ügyfél, illetve az általa igénybevett közreműködője, képviselője magatartása, amennyiben az a 9. § s) pontja szerint nem minősíthető szándékos magatartásnak;
+30. üzemzavar: az ügyfél és a mezőgazdasági és vidékfejlesztési támogatási szerv, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv és egyéb szervek közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós olyan meghibásodása, valamint olyan karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását;
 
-u) keretkimerülés: a jogszabályban meghatározott jogosultsági keret teljes mértékű vagy olyan részleges kimerülése, amikor a fennmaradó rész (maradvány) az intézkedés jellegéből adódóan nem használható ki;
+31. vagyoni értékű támogatási jogosultság: a közvetlen támogatási intézkedések keretében az ügyfél számára megállapított olyan vagyoni értékű jog, amelynek azonosítását és nyilvántartását jogszabály írja elő.
 
-ü) támogatási jogosultság: a közvetlen támogatási intézkedések keretében az ügyfél számára megállapított olyan vagyoni értékű jog, amelynek azonosítását és nyilvántartását közösségi jogszabály írja elő;
+(2) Az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer (a továbbiakban: ügyfél-nyilvántartási rendszer) a mezőgazdasági és vidékfejlesztési támogatási szerv és az élelmiszerlánc-felügyeleti szerv hatáskörébe tartozó eljárásokban részt vevő ügyfelek azonosítását és törzsadatainak nyilvántartását szolgáló rendszer, amely tekintetében a törvény, valamint a törvény végrehajtására kiadott jogszabályok alkalmazásában:
 
-v) monitoring: az 1698/2005/EK tanácsi rendelet, az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 2006. december 15-i 1974/2006/EK bizottsági rendelet (a továbbiakban: 1974/2006/EK bizottsági rendelet), az 1198/2006/EK tanácsi rendelet, valamint az Európai Halászati Alapról szóló 1198/2006/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2007. március 26-i 498/2007/EK bizottsági rendelet (a továbbiakban: 498/2007/EK rendelet) szerint meghatározott mutatókra vonatkozóan végrehajtott, az intézkedések megkezdésekor, valamint a célkitűzéseikhez viszonyított előrehaladásának, hatásának rendszeres vizsgálata;
+a) ügyfél törzsadat: a 28. § (2) bekezdése szerinti adatok;
 
-w) monitoring-adatgyűjtés: az 1698/2005/EK tanácsi rendelet, az 1974/2006/EK bizottsági rendelet, az 1198/2006/EK tanácsi rendelet, valamint a 498/2007/EK bizottsági rendelet szerint meghatározott mutatókra vonatkozóan végrehajtott, az intézkedések megkezdésekor, valamint a célkitűzéseikhez viszonyított előrehaladásának, hatásának mérésére szolgáló adatok rendszeres gyűjtése;
+b) ügyfél-azonosító: az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer keretében megállapított, az ügyfél egyedi azonosítását szolgáló szám;
 
-x) monitoringrendszer: a monitoringrendszer a monitoring tevékenység folytatása céljából létrehozott intézmények, szervezetek, eszközök és eljárásrendek, valamint ezek együttes működtetése érdekében foganatosított intézkedések összessége;
+c) kérelemre nyilvántartásba vett ügyfél: az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben beazonosított és ügyfél-azonosítóval rendelkező ügyfél, aki vagy amely a mezőgazdasági és vidékfejlesztési szervnél kérte a nyilvántartásba vételét;
 
-y) pénzügyi kapcsolat: olyan gazdasági kapcsolat a mezőgazdasági és vidékfejlesztési támogatási szerv és a vele kapcsolatban álló ügyfél között, amelynek alapján közöttük tartozások és követelések keletkeznek, azaz elszámolási viszony jön létre;
+d) hivatalból nyilvántartásba vett ügyfél: az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben beazonosított és ügyfél-azonosítóval rendelkező ügyfél, akit vagy amelyet az élelmiszerlánc-felügyeleti szerv, valamint nem kérelemre induló eljárás kapcsán a mezőgazdasági és vidékfejlesztési támogatási szerv vett nyilvántartásba; illetve akinek vagy amelynek nyilvántartásba vétele a nem kérelemre induló eljárás során a mezőgazdasági és vidékfejlesztési támogatási szerv jogszabályban meghatározott feladatai végrehajtásához szükséges;
 
-z) szakrendszer: az ügyfél-nyilvántartáshoz a regisztrációs számmal kapcsolódó, a mezőgazdasági és vidékfejlesztési támogatási szerv, valamint a hatáskörrel rendelkező hatóság hatáskörébe tartozó, általuk működtetett (vezetett) nyilvántartás;
-
-zs) adatkezelő: a mezőgazdasági és vidékfejlesztési támogatási szerv, a 9. § d) pont db) alpont szerinti irányító hatóság, valamint az 1305/2013/EU rendelet 66. cikk (2) bekezdés szerinti közbenső szervezet.
+e) elsődleges képviselő: elektronikus kapcsolattartás során az a természetes személy, aki az általa képviselt, kérelemre nyilvántartásba vett besorolású nem természetes személy ügyfélnek az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett, közhiteles hatósági nyilvántartás szerint önálló képviseleti joggal rendelkező kizárólagos törvényes képviselője, és rendelkezik ügyfélkapus hozzáféréssel, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv kérelemre nyilvántartásba vett besorolású ügyfeleként rendelkezik saját ügyfél-azonosítóval.
