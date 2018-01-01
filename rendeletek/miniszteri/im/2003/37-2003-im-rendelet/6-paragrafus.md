@@ -1,5 +1,3 @@
-## 5. § A rendeletben megjelölt nyilvántartásokat – az átadókönyv kivételével – 2003. december hó 31. napjáig papír alapon, azt követően elektronikus úton a MOKK által jóváhagyott számítógépes program használatával kell vezetni. Egyéb ügyviteli és iratkezelési cselekményeket akkor lehet elektronikus úton végezni, ha azt jogszabály megengedi.
-
 ## Tájékoztatás az ügyfélfogadásról és a beadványok átvételéről
 
 6. § (1) A közjegyzői iroda minden munkanap ügyfélfogadást tart az ügyfelek részére. A területi kamara elnöksége az ügyfélfogadás rendjét a helyi sajátosságok figyelembevételével másként is szabályozhatja.

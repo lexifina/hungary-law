@@ -464,7 +464,7 @@
 
 ## 9.3. a végrehajtást kérőnek a követelés megszűnése vagy csökkenése esetén fennálló bejelentési és a végrehajtási költség kielégítési kötelezettsége
 
-## 9.4. a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és jogtanácsos díja, valamint ezek előlegezése és viselése
+## 9.4.[^119] a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
 
 ## 9.5. a végrehajtható okirat kiállításával szembeni jogorvoslati kérelem és a végrehajtási kifogás előterjesztésének lehetősége és módja
 
@@ -502,7 +502,7 @@
 
 ## Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-6. melléklet a 37/2003. (X. 29.) IM rendelethez[^98]
+6. melléklet a 37/2003. (X. 29.) IM rendelethez[^120]
 
 A zálogtárgy egyszerűsített végrehajtási értékesítésére szolgáló, közjegyzői okirat végrehajtási záradékkal történő ellátása iránti kérelem űrlapjának adattartalma
 
@@ -938,7 +938,7 @@ A zálogtárgy egyszerűsített végrehajtási értékesítésére szolgáló, k
 
 8.3. a végrehajtást kérőnek a követelés megszűnése vagy csökkenése esetén fennálló bejelentési és a végrehajtási költség kielégítési kötelezettsége
 
-8.4. a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és jogtanácsos díja, valamint ezek előlegezése és viselése
+8.4.[^121] a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
 
 8.5. a végrehajtható okirat kiállításával szembeni jogorvoslati kérelem és a végrehajtási kifogás előterjesztésének lehetősége és módja
 
@@ -978,4 +978,6 @@ A zálogtárgy egyszerűsített végrehajtási értékesítésére szolgáló, k
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^98]: A 6. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.
+[^119]: Az 5. melléklet 9.4. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés d) pontja szerint módosított szöveg.
+[^120]: A 6. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.
+[^121]: A 6. melléklet 8.4. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés d) pontja szerint módosított szöveg.

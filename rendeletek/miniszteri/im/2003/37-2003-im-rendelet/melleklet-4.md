@@ -490,7 +490,7 @@
 
 ## 10.3. a végrehajtást kérőnek a követelés megszűnése vagy csökkenése esetén fennálló bejelentési és a végrehajtási költség kielégítési kötelezettsége
 
-## 10.4. a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és jogtanácsos díja, valamint ezek előlegezése és viselése
+## 10.4.[^115] a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
 
 ## 10.5. a végrehajtható okirat kiállításával szembeni jogorvoslati kérelem és a végrehajtási kifogás előterjesztésének lehetősége és módja
 
@@ -528,6 +528,7 @@
 
 ## Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-4. melléklet a 37/2003. (X. 29.) IM rendelethez[^96]
+4. melléklet a 37/2003. (X. 29.) IM rendelethez[^116]
 
-[^96]: A 4. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.
+[^115]: A 3. melléklet 10.4. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés d) pontja szerint módosított szöveg.
+[^116]: A 4. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.

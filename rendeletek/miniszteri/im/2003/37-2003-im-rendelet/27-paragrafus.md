@@ -4,7 +4,7 @@
 
 27. § (1) A 2. § 13. pontjában megjelölt iratokon kívül kezdőiratnak minősül különösen:
 
-a) a másodfokú bíróság hatályon kívül helyezést kimondó és új eljárásra utasító határozata, ha a hatályon kívül helyezett határozat folytán az eljárás befejeződött,
+a)[^49] a másodfokú bíróság hatályon kívül helyezést kimondó és új eljárásra és új határozat hozatalára utasító végzése, ha a hatályon kívül helyezett határozat folytán az eljárás befejeződött,
 
 b) az eljárás megismétlésére irányuló kérelem,
 
@@ -16,15 +16,16 @@ e) az ügy áttétele után visszaérkezett iratok,
 
 f) a tárgyalás tartása nélkül meghozott végzés esetén a tárgyalás tartására irányuló kérelem,
 
-g)[^41] a végrehajtás elrendelése iránti kérelem.
+g)[^50] a végrehajtás elrendelése iránti kérelem.
 
-(2)[^42] A kezdőiratot a nyilvántartásba az érkezés napján be kell jegyezni.
+(2)[^51] A kezdőiratot a nyilvántartásba az érkezés napján be kell jegyezni.
 
-(2a)[^43] Az európai öröklési bizonyítvány kiállítása iránti kérelem nem minősül kezdőiratnak; azt az alapjául szolgáló hagyatéki eljárás ügyszámán kell nyilvántartani.
+(2a)[^52]
 
-(3)[^44] Az utóiratot az érkezés napján érkeztető bélyegzővel kell ellátni és a nyilvántartás megfelelő rovatában fel kell tüntetni annál az iratnál, amelyre vonatkozik.
+(3)[^53] Az utóiratot az érkezés napján érkeztető bélyegzővel kell ellátni és a nyilvántartás megfelelő rovatában fel kell tüntetni annál az iratnál, amelyre vonatkozik.
 
-[^41]: A 27. § (1) bekezdés g) pontját a 28/2010. (V. 12.) IRM rendelet 36. §-a iktatta be.
-[^42]: A 27. § (2) bekezdése a 33/2008. (XII. 31.) IRM rendelet 20. § e) pontja szerint módosított szöveg.
-[^43]: A 27. § (2a) bekezdését a 12/2015. (VII. 23.) IM rendelet 2. § (1) bekezdése iktatta be.
-[^44]: A 27. § (3) bekezdése a 33/2008. (XII. 31.) IRM rendelet 20. § d) pontja szerint módosított szöveg.
+[^49]: A 27. § (1) bekezdés a) pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés f) pontja szerint módosított szöveg.
+[^50]: A 27. § (1) bekezdés g) pontját a 28/2010. (V. 12.) IRM rendelet 36. §-a iktatta be.
+[^51]: A 27. § (2) bekezdése a 33/2008. (XII. 31.) IRM rendelet 20. § e) pontja szerint módosított szöveg.
+[^52]: A 27. § (2a) bekezdését a 12/2015. (VII. 23.) IM rendelet 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 20/2017. (XII. 21.) IM rendelet 16. § (14) bekezdése.
+[^53]: A 27. § (3) bekezdése a 33/2008. (XII. 31.) IRM rendelet 20. § d) pontja szerint módosított szöveg.

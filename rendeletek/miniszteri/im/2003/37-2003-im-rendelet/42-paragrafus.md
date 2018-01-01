@@ -1,8 +1,8 @@
 ## Az irat kézbesítése
 
-42. § (1) Az irat kézbesítése – ha jogszabály másként nem rendelkezik – általában postai úton, a külön jogszabályban foglaltak szerint történik.
+42. §[^78] (1) Az irat kézbesítése – ha jogszabály másként nem rendelkezik – általában postai úton történik. Szükség esetén az iratot a közjegyző futár útján is kézbesítheti.
 
-(2) A közjegyző székhelyén a kézbesítést a közjegyző alkalmazottja is végezheti.
+(2) A közjegyző az illetékességi területén személyesen vagy közjegyzői irodai ügyintéző vagy egyéb irodai alkalmazott útján is kézbesíthet.
 
 (3) A fogva tartásban lévő személy részére a fogva tartást foganatosító szerv parancsnoka útján kell kézbesíteni az iratot.
 
@@ -10,6 +10,6 @@
 
 (5) A közjegyző az olyan iratot, amely átvételéhez joghatály fűződik, vagy amely átvételének igazolására szükség van, tértivevénnyel postázza; személyes kézbesítés esetén az átvevő az átvétel tényét keltezéssel ellátott aláírásával igazolja. Ha az átvételre nyomtatványt rendszeresítettek, az átvétel tényét ezen kell elismerni.
 
-(6)[^69] A közjegyző a végrehajtható okiratot a Magyar Bírósági Végrehajtói Kar (a továbbiakban: Kar) Hivatali szervének továbbítja, amely a bírósági végrehajtási ügyvitelről és pénzkezelésről szóló 1/2002. (I. 17.) IM rendelet 12–14. §-ában foglaltak szerint gondoskodik az átvételéről.
+(6) A közjegyző a végrehajtható okiratot a bírósági végrehajtásról szóló 1994. évi LIII. törvény 32. § (1) bekezdésében foglaltak szerint küldi meg a végrehajtónak.
 
-[^69]: A 42. § (6) bekezdését a 28/2010. (V. 12.) IRM rendelet 37. §-a iktatta be, szövege az 5/2016. (III. 8.) IM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^78]: A 42. § a 20/2017. (XII. 21.) IM rendelet 16. § (7) bekezdésével megállapított szöveg.

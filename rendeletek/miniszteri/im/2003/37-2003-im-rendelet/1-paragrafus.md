@@ -8,7 +8,7 @@
 
 a) hagyatéki ügyek intézése,
 
-b)[^2]
+b)[^2] közjegyző előtti egyezségi eljárás lefolytatása,
 
 c) előzetes bizonyítás,
 
@@ -41,7 +41,7 @@ n)[^10] a közgyűjteményben elhelyezett dologra vonatkozó valószínű örök
 (3)[^11] Az ügyvitel során gondoskodni kell a minősített adat védelméről szóló 2009. évi CLV. törvény, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény, valamint ezekkel összefüggésben az eljárási jogszabályok rendelkezéseinek megtartásáról
 
 [^1]: Az 1. § (1) bekezdése a 27/2009. (VI. 30.) IRM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés b) pontját a 24/2015. (IX. 21.) IM rendelet 2. § (10) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (1) bekezdés b) pontját a 24/2015. (IX. 21.) IM rendelet 2. § (10) bekezdés a) pontja hatályon kívül helyezte, újonnan a 20/2017. (XII. 21.) IM rendelet 16. § (1) bekezdése iktatta be.
 [^3]: Az 1. § (1) bekezdés f) pontja a 24/2015. (IX. 21.) IM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés h) pontját a 83/2009. (XII. 30.) IRM rendelet 19. § (1) bekezdése iktatta be.
 [^5]: Az 1. § (1) bekezdés i) pontját a 28/2010. (V. 12.) IRM rendelet 35. §-a iktatta be, szövege a 28/2010. (XII. 31.) KIM rendelet 3. § (1) bekezdésével megállapított szöveg.

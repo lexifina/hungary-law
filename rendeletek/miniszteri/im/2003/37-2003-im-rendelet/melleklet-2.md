@@ -330,7 +330,7 @@
 
 ## 3.5. a határozat jogerőre emelkedésének napja
 
-## 3.6. annak jelölése, ha a határozat a Polgári perrendtartásról szóló 1952. évi III. törvény 99. § (2) bekezdése szerinti vélelmezett kézbesítés alapján emelkedett jogerőre
+## 3.6.[^107] annak jelölése, ha a határozat a polgári perrendtartásról szóló 2016. évi CXXX. törvény 137. § (2) bekezdése szerinti kézbesítési fikció alapján emelkedett jogerőre
 
 ## 3.7. annak jelölése, ha a határozat előzetesen végrehajtható.
 
@@ -498,9 +498,9 @@
 
 ## 11.2. a végrehajtást kérőnek a követelés megszűnése vagy csökkenése esetén fennálló bejelentési és a végrehajtási költség kielégítési kötelezettsége
 
-## 11.3. a kézbesítési vélelem megdöntésének lehetősége és módja
+## 11.3.[^108] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
-## 11.4. a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és jogtanácsos díja, valamint ezek előlegezése és viselése
+## 11.4.[^109] a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
 
 ## 11.5. a végrehajtható okirat kiállításával szembeni jogorvoslati kérelem és végrehajtási kifogás előterjesztésének lehetősége és módja
 
@@ -538,6 +538,9 @@
 
 ## Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-2. melléklet a 37/2003. (X. 29.) IM rendelethez[^94]
+2. melléklet a 37/2003. (X. 29.) IM rendelethez[^110]
 
-[^94]: A 2. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.
+[^107]: Az 1. melléklet 3.6. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés i) pontja szerint módosított szöveg.
+[^108]: Az 1. melléklet 11.3. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés j) pontja szerint módosított szöveg.
+[^109]: Az 1. melléklet 11.4. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés d) pontja szerint módosított szöveg.
+[^110]: A 2. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.

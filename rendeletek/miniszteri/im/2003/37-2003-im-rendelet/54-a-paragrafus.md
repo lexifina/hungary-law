@@ -1,6 +1,6 @@
-## Nyomtatványok[^89]
+## Nyomtatványok[^102]
 
-54/A. §[^90] (1) Az 1. § (1) bekezdés i) pontjában meghatározott ügyekben e rendelet
+54/A. §[^103] (1) Az 1. § (1) bekezdés i) pontjában meghatározott ügyekben e rendelet
 
 a) 1. mellékletében meghatározott adattartalommal rendszeresített nyomtatványon kell előterjeszteni a pénzkövetelés behajtására szolgáló végrehajtási lap kiállítása iránti kérelmet,
 
@@ -24,5 +24,5 @@ f) 6. mellékletében meghatározott adattartalommal rendszeresített nyomtatvá
 
 (6) A MOKK az általa rendszeresített nyomtatvány közzétételének tényéről haladéktalanul tájékoztatja az igazságügyért felelős minisztert (a továbbiakban: miniszter). Ha a nyomtatvány nem felel meg a jogszabályoknak, a miniszter erre felhívja a MOKK figyelmét, és ezt követően a fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtásának elrendelése iránti eljárásban alkalmazandó papír alapú és elektronikus űrlapokról szóló 22/2010. (V. 7.) IRM rendeletben meghatározott eljárási rendet kell követni.
 
-[^89]: Az 54/A. §-t megelőző alcímet a 28/2010. (V. 12.) IRM rendelet 39. §-a iktatta be.
-[^90]: Az 54/A. §-t a 28/2010. (V. 12.) IRM rendelet 39. §-a iktatta be, szövege a 31/2012. (VI. 29.) KIM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^102]: Az 54/A. §-t megelőző alcímet a 28/2010. (V. 12.) IRM rendelet 39. §-a iktatta be.
+[^103]: Az 54/A. §-t a 28/2010. (V. 12.) IRM rendelet 39. §-a iktatta be, szövege a 31/2012. (VI. 29.) KIM rendelet 12. § (1) bekezdésével megállapított szöveg.

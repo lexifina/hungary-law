@@ -58,7 +58,9 @@
 
 30.[^18] európai fizetési meghagyásos ügy: a közjegyző hatáskörébe utalt európai fizetési meghagyásos ügy, az ehhez kapcsolódó költségkedvezményes ügy és biztosítási intézkedés elrendelése iránti ügy;
 
-31.[^19] másolat: közjegyzői ügyben más székhelyen működő közjegyző által kiállított eredeti iratról vagy az ügy eredeti iratáról készített olyan szövegazonos és alakhű formában utólag kiállított irat, amit az arra feljogosított személy „a másolat hiteléül” záradékkal, aláírásával és a közjegyző hivatali bélyegzőjének lenyomatával lát el, vagy elektronikus irat esetében a külön jogszabályban meghatározott módon hitelesít.
+31.[^19] másolat: közjegyzői ügyben más székhelyen működő közjegyző által kiállított eredeti iratról vagy az ügy eredeti iratáról készített olyan szövegazonos és alakhű formában utólag kiállított irat, amit az arra feljogosított személy „a másolat hiteléül” záradékkal, aláírásával és a közjegyző hivatali bélyegzőjének lenyomatával lát el, vagy elektronikus irat esetében a külön jogszabályban meghatározott módon hitelesít;
+
+32.[^20] elektronikus tároló-dokumentum: elektronikus adatok tárolására szolgáló, elektronikus aláírást tartalmazó dokumentum.
 
 [^12]: A 2. § 4. pontja a 24/2015. (IX. 21.) IM rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^13]: A 2. § 14. pontja a 24/2015. (IX. 21.) IM rendelet 2. § (4) bekezdésével megállapított szöveg.
@@ -68,3 +70,4 @@
 [^17]: A 2. § 23–24. pontját a 24/2015. (IX. 21.) IM rendelet 2. § (10) bekezdés b) pontja hatályon kívül helyezte.
 [^18]: A 2. § 30. pontját a 28/2010. (XII. 31.) KIM rendelet 3. § (2) bekezdése iktatta be.
 [^19]: A 2. § 31. pontját a 24/2015. (IX. 21.) IM rendelet 2. § (6) bekezdése iktatta be.
+[^20]: A 2. § 32. pontját a 20/2017. (XII. 21.) IM rendelet 16. § (2) bekezdése iktatta be.
