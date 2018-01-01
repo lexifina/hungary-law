@@ -4,7 +4,7 @@
 
 (3) A vagyonnyilatkozat tartalmát abban az esetben ismerheti meg az őrzésért felelős, ha döntenie kell a vagyongyarapodási vizsgálat kezdeményezéséről.
 
-(4) Az őrzésért felelős – a vagyonnyilatkozat haladéktalan megküldésével – az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adózás rendjéről szóló törvény szerinti vizsgálatát kezdeményezi, ha
+(4) Az őrzésért felelős – a vagyonnyilatkozat haladéktalan megküldésével – az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti vizsgálatát kezdeményezi, ha
 
 a) az (1) bekezdés szerinti ellenőrzés során a vagyonnyilatkozatok tartalmából alaposan feltehető, hogy a kötelezett vagyongyarapodása a nyilatkozattételi kötelezettséget megalapozó jogviszonyából, illetve az őrzésért felelős által ismert egyéb törvényes forrásból származó jövedelme alapján nem igazolható,
 

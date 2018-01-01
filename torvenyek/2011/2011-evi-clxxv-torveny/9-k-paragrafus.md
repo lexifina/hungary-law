@@ -8,13 +8,13 @@ b) a bíróság a civil szervezetet törvényességi felügyeleti eljárásban m
 
 feltéve, hogy az a) vagy b) pont szerinti eljárás során nem merült fel adat arra nézve, hogy a civil szervezetnek vagyona van vagy a civil szervezet fennállása során adószámmal nem rendelkezett, illetve nem rendelkezik.
 
-(2) Az e cím szerinti bírósági eljárásokban az e törvény által nem szabályozott kérdésekben a Pp. rendelkezéseit – a nemperes eljárás sajátosságaiból eredő eltérésekkel – kell alkalmazni.
+(2) Az e cím szerinti bírósági eljárásokban azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
 
 (3) Az e cím szerinti eljárások lefolytatására a civil szervezetet nyilvántartató bíróság illetékes.
 
 (4) Ha a bíróság a civil szervezetet megszünteti vagy a civil szervezet tekintetében megállapítja a jogutód nélküli megszűnési ok bekövetkeztét, a civil szervezetet nyilvántartó bíróság a határozat alapján a nyilvántartásba haladéktalanul bejegyzi megszüntetés esetén a „megszüntetve”, a jogutód nélküli megszűnési ok bekövetkeztének megállapítása esetén pedig a „megszűnt” toldatot.
 
-(5) Ha a civil szervezet fennállása során adószámmal rendelkezett vagy rendelkezik, az (1) bekezdésben meghatározott határozatok indokolásának a Pp. 221. §-ában foglaltakon túl tartalmaznia kell az arra való utalást, hogy az eljárás során a civil szervezet vagyonára vonatkozó adat merült-e fel.
+(5) Ha a civil szervezet fennállása során adószámmal rendelkezett vagy rendelkezik, az (1) bekezdésben meghatározott határozatok indokolásának a Pp. 346. § (4)–(6) bekezdésében foglaltakon túl tartalmaznia kell az arra való utalást, hogy az eljárás során a civil szervezet vagyonára vonatkozó adat merült-e fel.
 
 (6) Egyszerűsített törlési eljárásnak van helye az egyesület kérelmére akkor is, ha az egyesület elhatározza megszűnését vagy megállapítja, hogy megszűnésének anyagi jogi feltételei bekövetkeztek és fennállása alatt adószámmal nem rendelkezett, illetve nem rendelkezik.
 
