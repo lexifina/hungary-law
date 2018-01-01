@@ -1,6 +1,6 @@
-## Az elölmászásra vonatkozó előírások[^50]
+## Az elölmászásra vonatkozó előírások[^52]
 
-21. §[^51] (1) Elölmászás kizárólag akkor alkalmazható, ha a munkahely ereszkedéssel nem közelíthető meg vagy az ereszkedés ráfordítási igénye nem áll arányban a munkafeladattal.
+21. §[^53] (1) Elölmászás kizárólag akkor alkalmazható, ha a munkahely ereszkedéssel nem közelíthető meg vagy az ereszkedés ráfordítási igénye nem áll arányban a munkafeladattal.
 
 (2) Elölmászásra csak a kötél rögzítési pontjainak elhelyezése céljából kerülhet sor.
 
@@ -14,5 +14,5 @@
 
 (7) Az elölmászás során a köztes biztosítások sűrítésével meg kell akadályozni a biztosító munkavállaló vonaláig történő visszazuhanást, illetőleg a földről történő biztosításkor a földig való esést.
 
-[^50]: A 21. §-t megelőző alcím szövege a 45/2013. (X. 14.) NGM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^51]: A 21. § a 45/2013. (X. 14.) NGM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^52]: A 21. §-t megelőző alcím szövege a 45/2013. (X. 14.) NGM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^53]: A 21. § a 45/2013. (X. 14.) NGM rendelet 15. § (2) bekezdésével megállapított szöveg.

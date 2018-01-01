@@ -4,11 +4,11 @@
 
 (2) Az alpintechnika módszerének meghatározása során a munkáltató köteles tekintettel lenni
 
-a)[^32] a munkafeladat egészére;
+a)[^34] a munkafeladat egészére;
 
 b) a munkavállaló biztonságát garantáló ereszkedő és biztosító kötelek elhelyezését szolgáló szerkezeti rögzítőkre, ideértve a szélső szerkezeti rögzítőket és a köztes szerkezeti rögzítőket is, továbbá a rögzítési pontok meghatározására, valamint a szerkezeti rögzítők 2. § 21. pont szerinti osztályára;
 
-c)[^33] a munkahely, illetve munkaterület megközelítésének irányára és módjára;
+c)[^35] a munkahely, illetve munkaterület megközelítésének irányára és módjára;
 
 d) a lezuhanásgátló rendszert képező elemek, részegységek és alrendszerek pontos meghatározására, ezen belül elsődlegesen az alkalmazott kötelek számára és típusára;
 
@@ -34,5 +34,5 @@ c) az előre látható feltételek mellett, elkerülhető legyen az esetleg lezu
 
 (8) Villamos szabadvezetékek, elektromos szekrények, illetve egyéb feszültség alatt lévő berendezések közelében az alpintechnika alkalmazása során meg kell tartani a villamos biztonsági övezetekre, a megközelítési távolságokra, a munkavégzés bejelentésére és engedélyeztetésére vonatkozó szakmai előírásokat is.
 
-[^32]: A 10. § (2) bekezdés a) pontja a 45/2013. (X. 14.) NGM rendelet 8. §-ával megállapított szöveg.
-[^33]: A 10. § (2) bekezdés c) pontja a 45/2013. (X. 14.) NGM rendelet 8. §-ával megállapított szöveg.
+[^34]: A 10. § (2) bekezdés a) pontja a 45/2013. (X. 14.) NGM rendelet 8. §-ával megállapított szöveg.
+[^35]: A 10. § (2) bekezdés c) pontja a 45/2013. (X. 14.) NGM rendelet 8. §-ával megállapított szöveg.

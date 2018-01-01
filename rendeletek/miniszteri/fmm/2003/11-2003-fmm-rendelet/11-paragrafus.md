@@ -12,10 +12,10 @@
 
 (6) Alpintechnikához a gyors mentéshez és az önmentéshez szükséges tartalék-felszereléseket és egyéni védőeszközöket a munkaterületen kijelölt, mindenki által ismert és könnyen elérhető helyen kell tárolni.
 
-(7)[^34] A mentéshez szükséges felszerelést és egyéni védőeszközt a munkairányító közreműködésével kell a helyi, illetve a mentési sajátosságoknak megfelelően meghatározni, ha a 12. § (2) bekezdésben meghatározott alapfelszerelés nem elegendő. A mentéshez szükséges felszerelést és egyéni védőeszközt rendeltetésétől eltérő célra használni tilos.
+(7)[^36] A mentéshez szükséges felszerelést és egyéni védőeszközt a munkairányító közreműködésével kell a helyi, illetve a mentési sajátosságoknak megfelelően meghatározni, ha a 12. § (2) bekezdésben meghatározott alapfelszerelés nem elegendő. A mentéshez szükséges felszerelést és egyéni védőeszközt rendeltetésétől eltérő célra használni tilos.
 
 (8) A különleges mentési feladattal megbízott munkavállalónak az alpintechnika alkalmazásának teljes időtartama alatt rendelkeznie kell az önmentést biztosító egyéni védőeszközökkel is.
 
 (9) Ha a szél sebessége és iránya miatt a munka végzése a munkavállalókra, illetve a környezetre fokozott veszélyforrást jelent, az alpintechnika alkalmazását meg kell tiltani. Zivatar, villámlás és szélsőséges időjárási viszonyok között az alpintechnika alkalmazását szüneteltetni kell.
 
-[^34]: A 11. § (7) bekezdése a 18/2016. (VI. 9.) NGM rendelet 7. §-ával megállapított szöveg.
+[^36]: A 11. § (7) bekezdése a 18/2016. (VI. 9.) NGM rendelet 7. §-ával megállapított szöveg.
