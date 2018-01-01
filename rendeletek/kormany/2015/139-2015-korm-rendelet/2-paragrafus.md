@@ -16,7 +16,7 @@
 
 (7)[^4] A hitéleti képzési területen alapképzési szakon az MKKR 6. szintjének megfelelő, mesterképzési szakon az MKKR 7. szintjének megfelelő végzettség és szakképzettség szerezhető.
 
-(8)[^5] Az Nftv. 15. § (6) bekezdésében és az 51. § (5) bekezdésében meghatározottakkal összhangban, a szakirányú továbbképzés szervezésének általános feltételeiről szóló 10/2006. (IX. 25.) OKM rendelet szerinti,
+(8)[^5] Az Nftv. 15. § (6) bekezdésében és az 51. § (5) bekezdésében meghatározottakkal összhangban, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet szerinti,
 
 a) alapfokozatot követő, valamint alap- és mesterfokozatot követő szakirányú továbbképzésben az MKKR 6. szintjének megfelelő,
 
@@ -26,4 +26,4 @@ szakképzettség szerezhető.
 
 [^3]: A 2. § (6) bekezdését a 205/2015. (VII. 23.) Korm. rendelet 16. §-a iktatta be, szövege a 169/2016. (VII. 1.) Korm. rendelet 39. § (1) bekezdésével megállapított, a 282/2016. (IX. 21.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^4]: A 2. § (7) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 39. § (2) bekezdése iktatta be.
-[^5]: A 2. § (8) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 39. § (2) bekezdése iktatta be.
+[^5]: A 2. § (8) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 39. § (2) bekezdése iktatta be, nyitó szövegrésze a 407/2017. (XII. 15.) Korm. rendelet 43. §-a szerint módosított szöveg.
