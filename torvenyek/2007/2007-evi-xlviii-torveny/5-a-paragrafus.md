@@ -9,3 +9,5 @@ c) 50 000 eurót meghaladó összegű készpénz esetén a birtokában lévő ö
 megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fizetnie.
 
 (2) A bírság összegét 1000 forintra kerekítve kell alkalmazni. A bírság összegének forintban történő meghatározásához a 2. § (3) bekezdését kell alkalmazni.
+
+(3) Ha a kiszabott bírság helyszínen történő megfizetéséhez pénzváltási kiegészítő pénzügyi szolgáltatás igénybevétele válik szükségessé, a vámhatóság a pénzváltási szolgáltatás helyszínére kíséri az eljárás alá vont személyt.

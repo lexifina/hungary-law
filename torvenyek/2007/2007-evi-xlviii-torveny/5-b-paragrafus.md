@@ -6,7 +6,7 @@ a) közokirat, vagy
 
 b) teljes bizonyító erejű magánokirat.
 
-(3) A magyar nyelvet nem ismerő kötelezett személy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény nyelvhasználatra vonatkozó rendelkezései szerint kérheti a kérelmében ismertetett tény, adat, okirat vámhatóság általi elbírálását.
+(3) A magyar nyelvet nem ismerő kötelezett személy az általános közigazgatási rendtartásról szóló törvény nyelvhasználatra vonatkozó rendelkezései szerint kérheti a kérelmében ismertetett tény, adat, okirat vámhatóság általi elbírálását.
 
 (4) Amennyiben a vámhatóság a kérelemnek helyt ad a kiszabott bírságösszeget 50%-al csökkenti és a kötelezett személy részére történő visszafizetéséről határozattal dönt. A visszafizetést a vámhatóság a bírság megfizetésének biztosítására ideiglenes biztosítási intézkedésként visszatartott készpénz esetén készpénzben, az 5/A. § (1) bekezdése alapján a helyszínen forintban megfizetett bírság esetén átutalással, a kötelezett személy által a kérelemben megjelölt fizetési számlára teljesíti. A tranzakció illetéke a kötelezett személyt terheli.
 
