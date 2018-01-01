@@ -26,7 +26,7 @@ j)[^14] előkészíti az e rendeletben nem szabályozott kérdésekben a karbant
 
 a)[^16] e célra az 5. § (5) bekezdés b) pontja alapján kijelölt intézet(ek)el, valamint
 
-b)[^17] valamennyi fekvőbeteg-ellátást nyújtó országos intézettel
+b)[^17] valamennyi fekvőbeteg-ellátást nyújtó országos gyógyintézettel és országos társ-gyógyintézettel
 
 ## az adatszolgáltatásra a NEAK megállapodást köt.
 
@@ -62,7 +62,7 @@ g) a naturáliák meghatározásakor és a költségtételekben külön kell sz�
 [^14]: A 3. § (2) bekezdés j) pontja a 67/1999. (XII. 25.) EüM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
 [^15]: A 3. § (3) bekezdés nyitó szövegrésze a 26/2001. (VIII. 2.) EüM rendelet 4. § (2) bekezdése, záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 7. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^16]: A 3. § (3) bekezdésének a) pontja a 26/2001. (VIII. 2.) EüM rendelet 4. §-a (3) bekezdésének a) pontja szerint módosított szöveg.
-[^17]: A 3. § (3) bekezdésének b) pontja a 26/2001. (VIII. 2.) EüM rendelet 4. §-ának (2) bekezdése szerint módosított szöveg.
+[^17]: A 3. § (3) bekezdésének b) pontja a 26/2001. (VIII. 2.) EüM rendelet 4. §-ának (2) bekezdése, a 38/2017. (XII. 29.) EMMI rendelet 1. §-a szerint módosított szöveg.
 [^18]: A 3. § (5) bekezdés nyitó szövegrésze a 26/2001. (VIII. 2.) EüM rendelet 4. § (3) bekezdés b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 7. § (1) bekezdés f) pontja szerint módosított szöveg.
 [^19]: A 3. § (5) bekezdésének b) pontja a 26/2001. (VIII. 2.) EüM rendelet 4. §-a (3) bekezdésének c) pontja szerint módosított szöveg.
 [^20]: A 3. § (8) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 7. § (1) bekezdés f) pontja szerint módosított szöveg.
