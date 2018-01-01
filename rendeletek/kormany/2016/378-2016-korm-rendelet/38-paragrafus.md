@@ -1,4 +1,4 @@
-## 37/C. §[^25] A Magyar Művészeti Akadémia – a 34. § (3a) bekezdésében meghatározott feladatok tekintetében – az e rendelet hatálybalépését követő naptól a Miniszterelnökség jogutódja. A jogutódlásra a 2. §-t, a 3. § (1) és (6) bekezdését, az 5–6. §-t, valamint a 7/A. § (4) bekezdését kell megfelelően alkalmazni, azzal, hogy a 2016. december 31-ei határnap helyett az e rendelet hatálybalépésének napja alkalmazandó határnapként.
+## 37/C. §[^26] A Magyar Művészeti Akadémia – a 34. § (3a) bekezdésében meghatározott feladatok tekintetében – az e rendelet hatálybalépését követő naptól a Miniszterelnökség jogutódja. A jogutódlásra a 2. §-t, a 3. § (1) és (6) bekezdését, az 5–6. §-t, valamint a 7/A. § (4) bekezdését kell megfelelően alkalmazni, azzal, hogy a 2016. december 31-ei határnap helyett az e rendelet hatálybalépésének napja alkalmazandó határnapként.
 
 ## 31. Az Eszterháza Kulturális, Kutató- és Fesztiválközpont megszüntetése
 
@@ -20,4 +20,4 @@ c) az átvett feladatokat ellátó alkalmazottak feletti munkáltatói jogok gya
 
 (6) A „NISTEMA” Nonprofit Kft. köteles az Eszterháza Központtól átvett európai uniós forrásból finanszírozott projektek esetében a támogatási szerződésekben foglaltak szerint, a 4/2011. Korm. rendelet 36. § (8) bekezdése alapján a 36. § (1) bekezdése szerinti, valamint a 272/2014. Korm. rendelet 89. § (3) bekezdése alapján a 86. § (1) bekezdése szerinti bejelentést a jogutódlás bekövetkeztét követő nyolc napon belül a támogató felé megtenni.
 
-[^25]: A 37/C. §-t a 317/2017. (XI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^26]: A 37/C. §-t a 317/2017. (XI. 7.) Korm. rendelet 2. §-a iktatta be.
