@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-10-20-1
 | 2017-01-01 | 2015-10-20-11.11 | 88/2016. (XII. 29.) FM rendelet |
 | 2017-03-18 | 2015-10-20-11.12 | 13/2017. (III. 17.) FM rendelet |
 | 2017-09-08 | 2015-10-20-11.13 | 43/2017. (IX. 5.) FM rendelet |
+| 2018-01-01 | 2015-10-20-11.14 | 43/2017. (IX. 5.) FM rendelet |

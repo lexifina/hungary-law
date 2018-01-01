@@ -46,7 +46,7 @@
 
 20.[^14] ökológiai jelentőségű másodvetés: a tárgyévre az egységes kérelemben bejelentett első növény betakarítása után és a következő év első növényének vetése előtt, tárgyév október 1-jéig – a 3. mellékletben felsorolt vagy a 22. § (2) bekezdésében meghatározott, legalább két fajból – vetett növényállomány, amelyet zöldtrágyának vagy téli takarónövénynek használnak, és a következő évi első növény vetése előtt beforgatnak;
 
-21.[^15] parlagon hagyott terület: adott tárgyévre vonatkozóan az a legalább 0,25 hektár nagyságú szántóterület, amelyen a pihentetési időszakban semmilyen növénykultúrát nem vetnek vagy telepítenek, és nem takarítanak be;
+21.[^15] parlagon hagyott terület: adott tárgyévre vonatkozóan az a szántóterület, amelyen a pihentetési időszakban semmilyen növénykultúrát nem vetnek vagy telepítenek, és nem takarítanak be;
 
 22.[^16] rövid vágásfordulójú fás szárú energetikai ültetvény: a 4. mellékletben felsorolt növényekből álló, a fás szárú energetikai ültetvényekről szóló 71/2007. (IV. 14.) Korm. rendeletben foglaltaknak megfelelő ültetvény;
 
@@ -84,7 +84,7 @@
 [^12]: Az 1. § (1) bekezdés 18. pontja a 13/2017. (III. 17.) FM rendelet 32. § (2) bekezdésével megállapított szöveg.
 [^13]: Az 1. § (1) bekezdés 19. pontja a 72/2016. (XI. 3.) FM rendelet 7. §-ával megállapított szöveg.
 [^14]: Az 1. § (1) bekezdés 20. pontja a 13/2017. (III. 17.) FM rendelet 32. § (3) bekezdésével megállapított szöveg.
-[^15]: Az 1. § (1) bekezdés 21. pontja a 72/2016. (XI. 3.) FM rendelet 7. §-ával megállapított szöveg.
+[^15]: Az 1. § (1) bekezdés 21. pontja a 43/2017. (IX. 5.) FM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^16]: Az 1. § (1) bekezdés 22. pontja a 72/2016. (XI. 3.) FM rendelet 7. §-ával megállapított szöveg.
 [^17]: Az 1. § (1) bekezdés 23. pontja a 72/2016. (XI. 3.) FM rendelet 7. §-ával megállapított szöveg.
 [^18]: Az 1. § (1) bekezdés 24. pontja a 72/2016. (XI. 3.) FM rendelet 7. §-ával megállapított szöveg.

@@ -1,5 +1,5 @@
 ## 27. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-## 26/A. [^96] Átmeneti rendelkezések
+## 26/A. [^99] Átmeneti rendelkezések
 
-[^96]: A 26/A. alcímet (27/A. §) a 23/2015. (V. 13.) FM rendelet 10. § (4) bekezdése iktatta be.
+[^99]: A 26/A. alcímet (27/A. §) a 23/2015. (V. 13.) FM rendelet 10. § (4) bekezdése iktatta be.
