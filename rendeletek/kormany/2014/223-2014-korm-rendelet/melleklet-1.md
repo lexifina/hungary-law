@@ -1,4 +1,4 @@
-## 21. §[^64]
+## 21. §[^25]
 
 1. melléklet a 223/2014. (IX. 4.) Korm. rendelethez
 
@@ -258,9 +258,9 @@ a) Csongrád megye – kivéve Csongrád város közigazgatási területének a 
 
 b) Bács-Kiskun megyéből Balotaszállás, Bócsa, Bugac, Bugacpusztaháza, Csólyospálos, Fülöpjakab, Gátér, Harkakötöny, Jászszentlászló, Kecskemét, Kelebia, Kiskunfélegyháza, Kiskunhalas, Kiskunmajsa, Kisszállás, Kömpöc, Kunfehértó, Kunszállás, Móricgát, Nyárlőrinc, Pálmonostora, Petőfiszállás, Szank, Tiszaalpár, Tompa, Városföld, Zsana közigazgatási területe, valamint Tiszaug közigazgatási területének a Tisza jobb partjára eső része.
 
-c) Békés megyéből: Almáskamarás, Battonya, Békéssámson, Csanádapáca, Dombegyháza, Dombiratos, Gádoros, Kardoskút, Kaszaper, Kevermes, Kisdombegyház, Kunágota, Magyarbánhegyes, Magyardombegyház, Medgyesbodzás, Medgyesegyháza, Mezőhegyes, Mezőkovácsháza, Nagybánhegyes, Nagyszénás, Orosháza, Pusztaföldvár, Pusztaottlaka, Tótkomlós, Végegyháza közigazgatási területe.
+c)[^26] Békés megyéből: Almáskamarás közigazgatási területe, kivéve a Dögös-Kákafoki belvízrendszerhez tartozó terület, Battonya, Békéssámson, Csanádapáca, Dombegyháza, Dombiratos, Gádoros, Kardoskút, Kaszaper teljes közigazgatási területe, Kevermes közigazgatási területe, kivéve a Dögös-Kákafoki belvízrendszerhez tartozó terület, Kisdombegyház, Kunágota, Magyarbánhegyes, Magyardombegyház, Medgyesbodzás teljes közigazgatási területe, Medgyesegyháza közigazgatási területe, kivéve a Dögös-Kákafoki belvízrendszerhez tartozó terület, Mezőhegyes, Mezőkovácsháza, Nagybánhegyes teljes közigazgatási területe, Nagyszénás közigazgatási területe, kivéve a Dögös-Kákafoki belvízrendszerhez tartozó terület, Orosháza közigazgatási területe, kivéve a Dögös-Kákafoki belvízrendszerhez tartozó terület, Pusztaföldvár, Pusztaottlaka, Tótkomlós, Végegyháza teljes közigazgatási területe, ezen kívül Csorvás, Gerendás, Nagykamarás közigazgatási területéből a Kurcai belvízrendszerre eső része.
 
-d) Jász-Nagykun-Szolnok megyéből: Öcsöd közigazgatási területének a Hármas-Körös bal partjára eső része, Kunszentmárton és Szelevény közigazgatási területének a Hármas-Körös bal partjára eső része, Tiszasas közigazgatási területének a Tisza jobb partjára eső része.
+d)[^27] Jász-Nagykun-Szolnok megyéből: Öcsöd közigazgatási területének a Hármas-Körös bal partjára eső része, kivéve a Dögös-Kákafoki belvízrendszerhez tartozó területe, Kunszentmárton és Szelevény közigazgatási területének a Hármas-Körös bal partjára eső része, Tiszasas közigazgatási területének a Tisza jobb partjára eső része.
 
 B) Működési vonalai:
 
@@ -268,7 +268,7 @@ a) folyók: a Tisza Csongrád város északi közigazgatási határától (Csong
 
 b) árvízvédelmi művek: a Tisza jobb part Lakitelek és Tiszaalpár közigazgatási határa, valamint a déli országhatár közötti szakasza, a Dong-éri-főcsatorna torkolati szakaszának jobb és bal parti visszatöltésezése, a Tisza bal part a Hármas-Körös torkolattól a déli országhatárig, a Hármas-Körös bal part a Horgavölgy-ér mellékága alatti Darurampától a Tiszáig, a Maros mindkét parti töltés az országhatár és a torkolat között, a Sámson-Apátfalvi-főcsatorna jobb és bal parti töltése a Maros és a Királyhegyesi-főcsatorna között,
 
-c) kisvízfolyások, belvízcsatornák és vízilétesítmények: a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és az azokon lévő vízilétesítmények, ezen kívül Békés megyében Mágócs-éri-főcsatorna Csorvás közigazgatási területén, Bács-Kiskun megyében Félegyházi-vízfolyás Helvécia közigazgatási területén.
+c)[^28] kisvízfolyások, belvízcsatornák és vízilétesítmények: a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és az azokon lévő vízilétesítmények, ezen kívül Bács-Kiskun megyében Félegyházi-vízfolyás Helvécia közigazgatási területén.
 
 C) Kapcsolattartás: Szeged, Kecskemét, Hódmezővásárhely megyei jogú városok, Csongrád megye.
 
@@ -276,9 +276,9 @@ C) Kapcsolattartás: Szeged, Kecskemét, Hódmezővásárhely megyei jogú váro
 
 A) Működési területe
 
-a) Békés megye – kivéve Almáskamarás, Battonya, Békéssámson, Bucsa, Csanádapáca, Dombegyháza, Dombiratos, Gádoros, Kardoskút, Kaszaper, Kevermes, Kisdombegyháza, Kunágota, Magyarbánhegyes, Magyardombegyház, Medgyesbodzás, Medgyesegyháza, Mezőhegyes, Mezőkovácsháza, Nagybánhegyes, Nagyszénás, Orosháza, Pusztaföldvár, Pusztaottlaka, Tótkomlós, Végegyháza közigazgatási területét, Biharugra közigazgatási területének a Sebes-Körös jobb partjára eső részét, Ecsegfalva közigazgatási területének a Hortobágy-Berettyó jobb partjára eső részét és a Hamvas-Sárréti belvízrendszer területére eső részét, Kőrösnagyharsány közigazgatási területének a Sebes-Körös jobb partjára eső részét, valamint Szeghalom közigazgatási területének a Sebes-Körös jobb partja és a Berettyó bal partja közé eső részét.
+a)[^29] Békés megye – kivéve Almáskamarás Kurcai belvízrendszerre eső részét, Battonya, Békéssámson, Bucsa, Csanádapáca, Dombegyháza, Dombiratos, Gádoros, Kardoskút, Kaszaper közigazgatási területét, Kevermes Kurcai belvízrendszerre eső részét, Kisdombegyháza, Kunágota, Magyarbánhegyes, Magyardombegyház, Medgyesbodzás közigazgatási területét, Medgyesegyháza Kurcai belvízrendszerre eső részét, Mezőhegyes, Mezőkovácsháza, Nagybánhegyes közigazgatási területét, Nagyszénás Kurcai belvízrendszerre eső részét, Orosháza Dögös-Kákafoki belvízrendszeren kívüli részét, Pusztaföldvár, Pusztaottlaka, Tótkomlós, Végegyháza közigazgatási területét, Biharugra közigazgatási területének a Sebes-Körös jobb partjára eső részét, Ecsegfalva közigazgatási területének a Hortobágy-Berettyó jobb partjára eső részét és a Hamvas-Sárréti belvízrendszer területére eső részét, Kőrösnagyharsány közigazgatási területének a Sebes-Körös jobb partjára eső részét, Szeghalom közigazgatási területének a Sebes-Körös jobb partja és a Berettyó bal partja közé eső részét, valamint Csorvás, Gerendás, Nagykamarás közigazgatási területének a Kurcai belvízrendszerre eső részét.
 
-b) Jász-Nagykun-Szolnok megyéből: Mezőtúr közigazgatási területének a Hortobágy-Berettyó bal és a Hármas-Körös jobb partjának a Hortobágy-Berettyó torkolat feletti része és a Hármas-Körös bal parti része, valamint Túrkeve város közigazgatási területének a Hortobágy-Berettyó bal partjára eső része.
+b)[^30] Jász-Nagykun-Szolnok megyéből: Mezőtúr közigazgatási területének a Hortobágy-Berettyó bal és a Hármas-Körös jobb partjának a Hortobágy-Berettyó torkolat feletti része és a Hármas-Körös bal parti része, Túrkeve város közigazgatási területének a Hortobágy-Berettyó bal partjára eső része, valamint Öcsöd közigazgatási területének a Hármas-Körös bal partjára eső részéből a Dögös-Kákafoki belvízrendszerhez tartozó terület.
 
 c) Hajdú-Bihar megyéből: Komádi és Kőrösszakál közigazgatási területének a Sebes-Körös bal partjára eső része, Darvas közigazgatási területének a Berettyó jobb partjára, valamint Zsáka közigazgatási területének a Kálló-csatorna jobb partjára eső része.
 
@@ -288,6 +288,12 @@ a) folyók: a Sebes-Körös az országhatártól a torkolatig 59 km, a Fekete-K�
 
 b) árvízvédelmi művek: a Hortobágy-Berettyó bal parti töltése a torkolattól Ecsegfalva és Bucsa közigazgatási határáig 43 km hosszban és a Hármas-Körös jobb parti töltése a Hortobágy-Berettyó és a Sebes-Körös között, a Sebes-Körös jobb parti töltése a Hármas-Körös és Berettyó torkolata között, a Berettyó jobb parti töltése Darvas és a Sebes-Körös között, a Sebes-Körös bal parti töltése az országhatár és a Hármas-Körös között, a Hármas-Körös bal parti töltése a Horgavölgyi-ér mellékága alatti Darurampa és a Sebes-Körös között, a Kettős-Körös, a Fekete-Körös és a Fehér-Körös mindkét parti töltései, a Fehér-Körös bal parti lokalizációs töltés, a mérgesi és a mályvádi árvízi szükségtározók töltései, a Kisdelta szükségtározó zárótöltése (a Fehér-Körös jobb oldali és a Fekete-Körös bal oldali védtöltései között), a Gyulavári és Dénes-majori körtöltések, a Fehér-Körös és a Fekete-Körös közötti lokalizációs töltés, a Fekete-Körös és a Sebes-Körös közötti lokalizációs töltés, az Öcsöd-Békésszentandrási lokalizációs töltés az Alsó-Tisza-vidéki Vízügyi Igazgatóság határáig,
 
-c) kisvízfolyások, belvízcsatornák és vízilétesítmények: a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és az azokon lévő vízilétesítmények, ezen kívül Békés megyében a Dögös-Kákafoki-főcsatorna Nagyszénás, Orosháza területén, Hajdú-Bihar megyében Biharnagybajom-Nagyrábé-Darvas község határában az Ó-Berettyó-csatorna.
+c)[^31] kisvízfolyások, belvízcsatornák és vízilétesítmények: a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és az azokon lévő vízilétesítmények, ezen kívül Hajdú-Bihar megyében Biharnagybajom-Nagyrábé-Darvas község határában az Ó-Berettyó-csatorna.
 
-[^64]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: Az 1. melléklet 11. fejezet A) alcím c) pontja az 518/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^27]: Az 1. melléklet 11. fejezet A) alcím d) pontja az 518/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^28]: Az 1. melléklet 11. fejezet B) alcím c) pontja az 518/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^29]: Az 1. melléklet 12. fejezet A) alcím a) pontja az 518/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^30]: Az 1. melléklet 12. fejezet A) alcím b) pontja az 518/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^31]: Az 1. melléklet 12. fejezet B) alcím c) pontja az 518/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
