@@ -70,6 +70,6 @@
 
 | 32 | Építtetői fedezetkezelés hatálya alá tartozó építési beruházás esetén az alvállalkozó kivitelező - használatot biztosító jelszó birtokában - nem rögzíti szerződésének adatait az elektronikus alvállalkozói nyilvántartásban |  |  |  |  |  |  | 80 000 Ft |  |
 
-2. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^45]
+2. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^46]
 
-[^45]: A 2. számú mellékletet a 246/2006. (XII. 5.) Korm. rendelet 6. §-a iktatta be, a 156/2016. (VI. 13.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^46]: A 2. számú mellékletet a 246/2006. (XII. 5.) Korm. rendelet 6. §-a iktatta be, a 156/2016. (VI. 13.) Korm. rendelet 5. §-a hatályon kívül helyezte.

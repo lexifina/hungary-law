@@ -24,7 +24,7 @@ ab) védetté nyilvánított régészeti lelőhelyen, műemléki területen (mű
 
 b) 50%-a építmény bontása esetében.
 
-(3)[^17] A bírság mértéke az (1)–(2) bekezdés szerint megállapított bírságösszeg 150%-a – az 1. melléklet táblázat 13. pontjában meghatározott jogsértő cselekmény kivételével –, ha kiszabására azzal szemben kerül sor, akit 3 éven belül legalább két alkalommal jogerősen építésfelügyeleti bírsággal sújtottak.
+(3)[^17] A bírság mértéke az (1)–(2) bekezdés szerint megállapított bírságösszeg 150%-a – az 1. melléklet táblázat 13. pontjában meghatározott jogsértő cselekmény kivételével –, ha kiszabására azzal szemben kerül sor, akit 3 éven belül legalább két alkalommal jogerősen vagy végleges döntéssel építésfelügyeleti bírsággal sújtottak.
 
 (3a)[^18] Az építésfelügyeleti hatóság az Étv. 39. § (6) bekezdése szerinti kivitelező jogsértő cselekményével kapcsolatos építésfelügyeleti bírságot – a kivitelező által elvégzett építési tevékenységre az Épbír. 3. § (3) bekezdése szerint számított építményértéket alapul véve – a fővállalkozó kivitelezőre vonatkozó bírság-megállapítási szabályok szerint köteles megállapítani.
 
@@ -40,11 +40,11 @@ közül azt szabja ki, amelynek a mértéke alacsonyabb.
 
 (6) A bírság mértékét ezer forintra való kerekítéssel kell megállapítani.
 
-(7)[^20] A bírságot az azt kiszabó határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni a határozatban megjelölt számlaszámra. A teljesítési határidő előtt benyújtott kérelemre halasztás egy alkalommal engedélyezhető legfeljebb harminc napra.
+(7)[^20] A bírságot az azt kiszabó határozat véglegessé válásától számított harminc napon belül kell megfizetni a határozatban megjelölt számlaszámra. A teljesítési határidő előtt benyújtott kérelemre halasztás egy alkalommal engedélyezhető legfeljebb harminc napra.
 
-(8)[^21] Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3. § (1) bekezdésében meghatározott építésfelügyeleti hatóság által jogerősen megállapított bírságot a Magyar Államkincstár által vezetett 10032000-01040281-00000000 számú Miniszterelnökség fejezeti építésügyi és építésfelügyeleti bírság bevételek beszedési számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – amennyiben a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
+(8)[^21] Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3. § (1) bekezdésében meghatározott építésfelügyeleti hatóság által végleges döntéssel megállapított bírságot a Magyar Államkincstár által vezetett 10032000-01040281-00000000 számú Miniszterelnökség fejezeti építésügyi és építésfelügyeleti bírság bevételek beszedési számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – amennyiben a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
 
-(9)[^22] A sajátos építményfajták körében, a (8) bekezdésben meghatározottól eltérő építésfelügyeleti hatóság által jogerősen kiszabott bírságot a sajátos építményfajta tekintetében feladatkörrel rendelkező miniszter által meghatározott előirányzat számlájára kell befizetni.
+(9)[^22] A sajátos építményfajták körében, a (8) bekezdésben meghatározottól eltérő építésfelügyeleti hatóság által végleges döntéssel kiszabott bírságot a sajátos építményfajta tekintetében feladatkörrel rendelkező miniszter által meghatározott előirányzat számlájára kell befizetni.
 
 [^9]: A 2. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § (1) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § f) pontja, a 144/2017. (VI. 12.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
@@ -54,9 +54,9 @@ közül azt szabja ki, amelynek a mértéke alacsonyabb.
 [^14]: A 2. § (1) bekezdés e) pontja a 266/2013. (VII. 11.) Korm. rendelet 49. § (1) bekezdése, a 156/2016. (VI. 13.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.
 [^15]: A 2. § (1a) bekezdését a 62/2014. (III. 6.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^16]: A 2. § (2) bekezdése a 9/2008. (I. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
-[^17]: A 2. § (3) bekezdése a 9/2008. (I. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 156/2016. (VI. 13.) Korm. rendelet 6. § k) pontja szerint módosított szöveg.
+[^17]: A 2. § (3) bekezdése a 9/2008. (I. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 156/2016. (VI. 13.) Korm. rendelet 6. § k) pontja, a 457/2017. (XII. 28.) Korm. rendelet 153. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^18]: A 2. § (3a) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^19]: A 2. § (4) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^20]: A 2. § (7) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^21]: A 2. § (8) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be, szövege a 499/2016. (XII. 28.) Korm. rendelet 25. §-a, a 144/2017. (VI. 12.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^22]: A 2. § (9) bekezdését újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be.
+[^20]: A 2. § (7) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 2. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 153. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^21]: A 2. § (8) bekezdését újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be, szövege a 499/2016. (XII. 28.) Korm. rendelet 25. §-a, a 144/2017. (VI. 12.) Korm. rendelet 2. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 153. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^22]: A 2. § (9) bekezdését újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 153. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
