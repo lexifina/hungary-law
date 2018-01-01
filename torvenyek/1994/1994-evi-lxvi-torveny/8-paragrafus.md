@@ -1,5 +1,7 @@
 8. § (1) A jogosulatlanul igénybe vett vagy nem jogszerűen felhasznált támogatást a támogatás iránti kérelem időpontjában hatályos jegybanki alapkamat kétszeresével növelt összegben kell visszafizetni. Ilyennek kell tekinteni, ha az állami foglalkoztatási szerv az 5. § (2) bekezdésében meghatározott kifizetést – a felszámoló valóságnak nem megfelelő adatszolgáltatása miatt – olyan munkavállaló részére is teljesíti, akinek nem állt fenn bértartozása vagy a munkavállaló fennálló bértartozásánál nagyobb mértékű támogatási összeg került kifizetésre.
 
+(1a) Amennyiben a kötelezett a visszafizetési kötelezettségének a visszakövetelő határozatban megállapított határidőig nem tesz eleget, e határidő elmulasztásának napjától az adó- és vámhatóság végrehajtás foganatosítása érdekében történő megkeresésének napjáig, kiszámított késedelmi kamatot is köteles fizetni. A késedelmi kamat mértékére a költségvetési támogatásokra vonatkozó szabályokat kell alkalmazni. A kötelezett az adó- és vámhatóság végrehajtás foganatosítása érdekében történő megkeresését követően az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény szerinti késedelmi pótlékot is köteles megfizetni.
+
 (2) Az (1) bekezdés szerinti visszafizetésből a kamatrész a felszámolót, a támogatás összege a felszámolás alatt álló gazdálkodó szervezet vagyonát terheli.
 
 (3) A Cstv. 51. és 54. §-ában meghatározott, a felszámolóra vonatkozó felelősségi szabályokat a felszámolónak a támogatás igénybevételével kapcsolatos eljárására is alkalmazni kell.
