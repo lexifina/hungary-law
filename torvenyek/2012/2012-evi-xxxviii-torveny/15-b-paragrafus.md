@@ -6,6 +6,6 @@ aa) azon ingatlanok esetén, amelyekre az ÁEEK vagyonkezelői joga az ingatlan-
 
 ab) az aa) alpontban foglalt vagyonkezelői jog bejegyzésének hiányában az átadás-átvételi dokumentáció alapján készült, az ÁEEK által hitelesített és aláírt, helyrajzi számmal ellátott ingatlanlista, valamint az ÁEEK tulajdonosi joggyakorlásába kerülésére vonatkozó nyilatkozata,
 
-b) a 4. mellékletében felsorolt országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. és a bejegyzést kérő ÁEEK által aláírt vagyonkezelési szerződést megszüntető szerződés
+b) az egészségügyért felelős miniszter rendeletében meghatározott országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. és a bejegyzést kérő ÁEEK által aláírt vagyonkezelési szerződést megszüntető szerződés
 
 alapján kerül sor.

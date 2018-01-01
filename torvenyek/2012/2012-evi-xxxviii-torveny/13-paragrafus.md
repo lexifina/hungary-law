@@ -4,7 +4,7 @@ a) a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati in
 
 b) e törvény alapján állami tulajdonba kerülő, az állami egészségügyi feladatellátást szolgáló vagyon és
 
-c) e törvény 4. mellékletében felsorolt országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, az a) és b) pontokon túli egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében.
+c) az egészségügyért felelős miniszter rendeletében meghatározott országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, az a) és b) pontokon túli egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében.
 
 (1a) Az (1) bekezdés alapján az ÁEEK jogosult az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására az (1) bekezdésben meghatározott költségvetési intézmények állam általi átvételét követő beszerzései és beruházásai alapján létrejött vagyon tekintetében is.
 
