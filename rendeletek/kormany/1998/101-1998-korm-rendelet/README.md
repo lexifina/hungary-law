@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-101-20-
 | 2016-01-01 | 1998-101-20-22.30 | 122/2004. (IV. 29.) Korm. rendelet |
 | 2017-01-01 | 1998-101-20-22.31 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-06-10 | 1998-101-20-22.32 | 134/2017. (VI. 9.) Korm. rendelet |
+| 2018-01-01 | 1998-101-20-22.33 | 457/2017. (XII. 28.) Korm. rendelet |

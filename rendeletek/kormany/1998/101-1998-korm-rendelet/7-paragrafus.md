@@ -18,7 +18,7 @@ g) gondoskodik az úti okmány érvénytelenítéséről,
 
 h)[^25] erre irányuló kérelem esetén lehetővé teszi a tároló elem adattartalmának ellenőrzését,
 
-i)[^26] a járási hivatalnál történő bejelentés esetén rögzíti az okmány elvesztése, eltulajdonítása, megsemmisülése, megrongálódása és találása tényét a központi útiokmány-nyilvántartásban.
+i)[^26] a járási hivatalnál történő bejelentés esetén rögzíti az okmány elvesztése, eltulajdonítása, megsemmisülése, megrongálódása és találása tényét az útiokmány-nyilvántartásban.
 
 (3)[^27] A konzuli tisztviselő a magánútlevél, a diplomata- és a külügyi szolgálati útlevél kiadásával összefüggő közreműködői feladatai körében:
 
@@ -47,7 +47,7 @@ i)[^32] értesíti az általános hatáskörű útlevélhatóságot az előtte t
 [^23]: A 7. § (2) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés c) pontja szerint módosított szöveg.
 [^24]: A 7. § (2) bekezdés f) pontja a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés c) pontja szerint módosított szöveg.
 [^25]: A 7. § (2) bekezdés h) pontja a 379/2016. (XII. 2.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
-[^26]: A 7. § (2) bekezdés i) pontját a 379/2016. (XII. 2.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^26]: A 7. § (2) bekezdés i) pontját a 379/2016. (XII. 2.) Korm. rendelet 31. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 59. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^27]: A 7. § (3) bekezdését a 98/2010. (IV. 2.) Korm. rendelet 1. §-a iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^28]: A 7. § (3) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés c) pontja szerint módosított szöveg.
 [^29]: A 7. § (3) bekezdés e) pontja a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés d) pontja szerint módosított szöveg.
