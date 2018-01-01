@@ -1,4 +1,4 @@
-2. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^27]
+2. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^34]
 
 ## AZ ÜZEMELTETŐI BIZTONSÁGI TERV FELÉPÍTÉSE
 
@@ -124,4 +124,4 @@ II. Formai követelmények
 
 Az üzemeltetői biztonsági tervet írásban kell elkészíteni és a nyilvántartó, valamint a kijelölő hatóság részére egy-egy eredeti – az üzemeltető és a biztonsági összekötő személy által aláírt – példányban papíralapon, továbbá elektronikus adathordozón is be kell nyújtani. A térképeket, a rajtuk szereplő méretaránynak megfelelően, nyomtatott formában is be lehet nyújtani. A térképvázlat vagy helyszínrajz tartalmazza a kijelölt rendszerelem egészét, és olyan méretarányú legyen, amely a megfelelő eligazodást biztosítja.
 
-[^27]: A 2. melléklet a 368/2016. (XI. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^34]: A 2. melléklet a 368/2016. (XI. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

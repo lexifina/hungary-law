@@ -2,9 +2,9 @@
 
 7. § (1) A kijelölő hatóság az üzemeltetői biztonsági terv tartalmára vonatkozó Lrtv. szerinti döntését a 2. mellékletben foglaltak figyelembevételével állapítja meg.
 
-(2)[^9] Az üzemeltetői biztonsági tervet az üzemeltető az elkészítést követően szükség esetén módosítja.
+(2)[^15] Az üzemeltetői biztonsági tervet az üzemeltető az elkészítést követően szükség esetén módosítja.
 
-(2a)[^10] Az üzemeltetői biztonsági tervet az üzemeltető az elkészítését követően kétévente felülvizsgálja. Az üzemeltető a felülvizsgálatról jegyzőkönyvet készít.
+(2a)[^16] Az üzemeltetői biztonsági tervet az üzemeltető az elkészítését követően kétévente felülvizsgálja. Az üzemeltető a felülvizsgálatról jegyzőkönyvet készít.
 
 (3) Soron kívüli felülvizsgálatot kezdeményezhet
 
@@ -14,12 +14,12 @@ b) a kijelölő hatóságnál a hivatásos katasztrófavédelmi szerv központi 
 
 (4) Az üzemeltető a soron kívüli felülvizsgálatot a kezdeményezéstől számított 45 napon belül köteles elvégezni.
 
-(5)[^11] Ha az üzemeltetői biztonsági tervet a (2)–(3) bekezdés vagy az Lrtv. 6. § (6) bekezdése alapján módosítani szükséges, akkor annak módosítással érintett részét, vagy jelentős tartalmi módosítás esetén a módosításokkal egységes szerkezetbe foglalt üzemeltetői biztonsági tervet az üzemeltető haladéktalanul megküldi tartalmi és formai ellenőrzésre a kijelölő hatóságnak. A (2)–(3) bekezdés alapján módosított üzemeltetői biztonsági tervet az ágazati kijelölő hatóság a formai és tartalmi ellenőrzést követően megküldi a nyilvántartó hatóság részére.
+(5)[^17] Ha az üzemeltetői biztonsági tervet a (2)–(3) bekezdés vagy az Lrtv. 6. § (6) bekezdése alapján módosítani szükséges, akkor annak módosítással érintett részét, vagy jelentős tartalmi módosítás esetén a módosításokkal egységes szerkezetbe foglalt üzemeltetői biztonsági tervet az üzemeltető haladéktalanul megküldi tartalmi és formai ellenőrzésre a kijelölő hatóságnak. A (2)–(3) bekezdés alapján módosított üzemeltetői biztonsági tervet az ágazati kijelölő hatóság a formai és tartalmi ellenőrzést követően megküldi a nyilvántartó hatóság részére.
 
 (6) Ha a felülvizsgálat eredményeként nem szükséges az üzemeltetői biztonsági tervet módosítani, a felülvizsgálatról szóló jegyzőkönyvet az üzemeltető a felülvizsgálatot követően haladéktalanul másolatban megküldi a nyilvántartó hatóságnak és a kijelölő hatóságnak.
 
 (7) Az üzemeltető az üzemeltetői biztonsági tervvel összhangban megszervezi és biztosítja az üzemeltetésében lévő létfontosságú rendszerelem működésének védelmét és folyamatosságát.
 
-[^9]: A 7. § (2) bekezdése a 368/2016. (XI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^10]: A 7. § (2a) bekezdését a 368/2016. (XI. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^11]: A 7. § (5) bekezdése a 368/2016. (XI. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^15]: A 7. § (2) bekezdése a 368/2016. (XI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^16]: A 7. § (2a) bekezdését a 368/2016. (XI. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^17]: A 7. § (5) bekezdése a 368/2016. (XI. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

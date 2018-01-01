@@ -1,4 +1,4 @@
-## 17. §[^26]
+## 17. §[^33]
 
 1. melléklet a 65/2013. (III. 8.) Korm. rendelethez
 
@@ -30,4 +30,4 @@ Egyetlen vagy egymással közvetlenül összefüggő eseményekkel kapcsolatban 
 
 – az ország tájegységeiben, kiemelkedő földrajzi területeiben visszafordíthatatlan negatív változás következik be.
 
-[^26]: A 17. § a – 368/2016. (XI. 29.) Korm. rendelet 8. §-ával megállapított – 13. § (3) bekezdése alapján 2023. július 1-jén lép hatályba.
+[^33]: A 17. § a – 368/2016. (XI. 29.) Korm. rendelet 8. §-ával megállapított – 13. § (3) bekezdése alapján 2023. július 1-jén lép hatályba.

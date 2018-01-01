@@ -4,4 +4,6 @@
 
 (2) Az (1) bekezdésben meghatározott bírság összege százezer forinttól hárommillió forintig terjedhet.
 
-(3) A bírság összegét a bírság kiszabásáról rendelkező határozat jogerőre emelkedésétől számított 15 napon belül kell megfizetni a kijelölő hatóság által megadott bírság letéti számla javára.
+(3)[^21] A bírság összegét a bírság kiszabásáról rendelkező döntés véglegessé válásától számított 15 napon belül kell megfizetni a kijelölő hatóság által megadott bírság letéti számla javára.
+
+[^21]: A 9. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 440. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

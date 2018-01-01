@@ -1,10 +1,10 @@
-## 15/B. §[^22] Az egyes, a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló kormányrendeletek módosításáról szóló 368/2016. (XI. 29.) Korm. rendelet (a továbbiakban: Módr1.) hatálybalépését[^23] megelőzően kijelölt létfontosságú rendszerelem üzemeltetői biztonsági tervét a 7. § (2a) bekezdése szerinti felülvizsgálatkor kell a Módr1.-gyel megállapított 1. mellékletnek megfelelően módosítani.
+## 15/B. §[^29] Az egyes, a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló kormányrendeletek módosításáról szóló 368/2016. (XI. 29.) Korm. rendelet (a továbbiakban: Módr1.) hatálybalépését[^30] megelőzően kijelölt létfontosságú rendszerelem üzemeltetői biztonsági tervét a 7. § (2a) bekezdése szerinti felülvizsgálatkor kell a Módr1.-gyel megállapított 1. mellékletnek megfelelően módosítani.
 
-15/C. §[^24] (1) A Módr1.-gyel megállapított 8. § (1) bekezdése és 11. § (4) bekezdése szerinti határidőket a 2018. évi ellenőrzési terv összeállítása során kell először alkalmazni.
+15/C. §[^31] (1) A Módr1.-gyel megállapított 8. § (1) bekezdése és 11. § (4) bekezdése szerinti határidőket a 2018. évi ellenőrzési terv összeállítása során kell először alkalmazni.
 
-(2) A 2017. évi ellenőrzési terv összeállításához a Módr1. hatálybalépését[^25] követő 30 napon belül kell a 11. § (4) bekezdésében meghatározott javaslatokat megküldeni a hivatásos katasztrófavédelmi szerv központi szerve részére. A 2017. évi ellenőrzési tervet a hivatásos katasztrófavédelmi szerv központi szerve a Módr1. hatálybalépését követő 60 napon belül állítja össze.
+(2) A 2017. évi ellenőrzési terv összeállításához a Módr1. hatálybalépését[^32] követő 30 napon belül kell a 11. § (4) bekezdésében meghatározott javaslatokat megküldeni a hivatásos katasztrófavédelmi szerv központi szerve részére. A 2017. évi ellenőrzési tervet a hivatásos katasztrófavédelmi szerv központi szerve a Módr1. hatálybalépését követő 60 napon belül állítja össze.
 
-[^22]: A 15/B. §-t a 368/2016. (XI. 29.) Korm. rendelet 7. §-a iktatta be.
-[^23]: A hatálybalépés időpontja 2017. január 1.
-[^24]: A 15/C. §-t a 368/2016. (XI. 29.) Korm. rendelet 7. §-a iktatta be.
-[^25]: A hatálybalépés időpontja 2017. január 1.
+[^29]: A 15/B. §-t a 368/2016. (XI. 29.) Korm. rendelet 7. §-a iktatta be.
+[^30]: A hatálybalépés időpontja 2017. január 1.
+[^31]: A 15/C. §-t a 368/2016. (XI. 29.) Korm. rendelet 7. §-a iktatta be.
+[^32]: A hatálybalépés időpontja 2017. január 1.
