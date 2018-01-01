@@ -1,9 +1,0 @@
-7. számú melléklet a 2003. évi XCII. törvényhez
-
-Adatszolgáltatás a kamatjövedelemről
-
-1–17.
-
-18.
-
-19. Az állami adó- és vámhatóság a forrásadót alkalmazó tagállamokból a levont forrásadóból átutalt 75% adó fogadására euró devizanemben vezetett számlát nyit. A jóváírást követő 30 napon belül az adóhatóság az átutalt adót 25%-kal kiegészített összegben a jóváírás napján érvényes MNB által közzétett hivatalos devizaárfolyamon forintra átszámítva a haszonhúzó adószámláján jóváírja, feltéve, hogy az átutalást teljesítő illetékes tagállami hatóság az adózó azonosítására, illetve a levonás tényének és összegének megállapítására alkalmas adatokat közöl, vagy ezt a magánszemély más megfelelő módon hitelt érdemlően, hitelesen magyarra fordított okirattal igazolja. Az előző rendelkezésektől eltérően, a belföldön adóköteles kamatjövedelem esetén a forrásadót alkalmazó tagállamból átutalt forrásadó elszámolása az adózó kérelmére történik. Az adózó kérelméhez csatolja az adózó azonosítására, a levonás tényének, összegének, a kamatjövedelem jogcímének és a kamatjövedelem megszerzése időpontjának megállapításához szükséges okiratok hiteles magyar fordítását. Az állami adó- és vámhatóság az adózó kérelmét abban az esetben teljesíti, ha az adózó a belföldön adóköteles kamatjövedelemről bevallási és adófizetési kötelezettségét teljesítette.

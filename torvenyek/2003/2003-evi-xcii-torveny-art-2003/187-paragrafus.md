@@ -1,1 +1,0 @@
-187. § E törvénynek az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvénnyel megállapított 36/A. § (9) bekezdését a hatálybalépést követően teljesítendő kifizetésekre kell alkalmazni.

@@ -1,3 +1,0 @@
-156/F. § (1) A nyilvános pályázat eredménytelensége esetén a nyilvános pályázat ismételten kiírható, vagy az ingatlant árverésen, illetve árverésen kívül, de az árverési vétel hatályával is lehet értékesíteni. Az árverésre a második árverés szabályai irányadók azzal, hogy azon a korábban érvényes ajánlatot tevők is részt vehetnek. Ha az ingatlant alacsonyabb áron veszik meg, mint amennyit a fizetést elmulasztó pályázó ajánlott, az adóhatóság a fizetést elmulasztó pályázót határozattal kötelezi a vételár-különbözet megfizetésére. A fizetési kötelezettséget megállapító jogerős határozat az adóigazgatási eljárásban végrehajtható okirat.
-
-(2) Ha a második pályázat is eredménytelen, az ingatlan végrehajtást kérő általi átvételének van helye (Vht. 158–160. §).

@@ -1,3 +1,0 @@
-193. § (1) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 31/B. §-t először azon adómegállapítási időszakról teljesített általános forgalmiadó-bevallási kötelezettség esetén kell alkalmazni, amely adómegállapítási időszak kezdete 2013. január 1-jére vagy ezt követő időpontra esik.
-
-(2) Az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 14. § (1) bekezdés i) pontját, 38. § (3a) és (3b) bekezdését és 172. § (20f) bekezdését a hatálybalépését követően teljesített készpénzszolgáltatásokra kell alkalmazni.

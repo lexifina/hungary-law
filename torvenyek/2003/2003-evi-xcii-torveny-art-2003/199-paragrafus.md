@@ -1,1 +1,0 @@
-199. § Az egyes gazdasági tárgyú törvények módosításáról szóló 2013. évi CXV. törvénnyel (a továbbiakban: 2013. évi CXV. törvény) megállapított 37. § (4)–(4a) bekezdését, 43. § (5) bekezdését és 92. § (2a) bekezdését a 2013. évi CXV. törvény hatálybalépését követően benyújtott költségvetési támogatás, illetve túlfizetés kiutalására vonatkozó kérelmekre kell alkalmazni.

@@ -1,5 +1,0 @@
-102. § (1) Ha az adózó, képviselője, alkalmazottja vagy az a személy, aki az ellenőrzéssel érintett időszakban az adózó képviselője, alkalmazottja volt, illetve a tanú a személyes megjelenési kötelezettségének szabályszerű idézés ellenére nem tesz eleget, és távolmaradását megfelelően nem igazolja, az illetékes adóhatóság vezetője elrendelheti az elővezetését. Az elővezetés foganatosításához az ügyész jóváhagyása szükséges.
-
-(2) A (3) bekezdésben meghatározott esetben a NAV hivatásos állományú tagja az adóellenőr által foganatosított eljárási cselekményeknél jelen lehet, de ellenőrzési cselekményt nem végezhet.
-
-(3) Ha az ellenőrzési eljárás zavartalan lefolytatása másképpen nem biztosítható, az adóhatóság a rendőrségről szóló törvény szerinti rendőri intézkedés megtételét kezdeményezheti, vagy a NAV hivatásos állományú, jelen lévő tagja útján az eljárás zavartalan lefolytatását biztosíthatja a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések alkalmazásával.

@@ -1,9 +1,0 @@
-213. § (1) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel (a továbbiakban: Módtv3.) megállapított rendelkezéseit kell alkalmazni a hatálybalépésekor jogerősen el nem bírált ügyekben, továbbá a hatálybalépést követően az azt megelőző időszakra teljesítendő, illetve esedékessé vált kötelezettségekre azzal, hogy ha a jogszabálysértés elkövetésének időpontjában hatályos rendelkezések az adózóra összességében kevésbé terhes bírság-, pótlékfeltételeket határoztak meg, a kötelezettségre legfeljebb az elkövetéskor hatályos törvényben meghatározott legmagasabb mérték alkalmazható.
-
-(2) Az adózónak a Módtv3. hatálybalépését követően teljesítendő az azt megelőző időszakra vonatkozó adómegállapítási, bevallási, adófizetési, adóelőleg-fizetési, bizonylatkiállítási, adatszolgáltatási és adólevonási kötelezettségét – a (3) bekezdésben foglalt kivétellel – a 2015. december 31. napján hatályos szabályok szerint kell teljesítenie.
-
-(3) A Módtv3.-mal megállapított 26/A. § szerinti bevallási nyilatkozatot a magánszemély első alkalommal a 2015. évi jövedelméről 2016. január 31-éig tehet.
-
-(4) A Módtv3.-mal megállapított rendelkezések nem érintik a 2015. december 31-ig hatályos rendelkezések alapján hozott, a törvény hatálybalépésekor jogerős határozatokat.
-
-(5) A 2015. december 31-éig adott, az állami adóhatóság által vezetett adófolyószámla, valamint a vámhatóság által vezetett, a vámokkal és nem közösségi adókkal és díjakkal kapcsolatos folyószámla tekintetében elektronikus vagy személyes ügyintézésre jogosító meghatalmazások 2016. január 1-jétől az e törvény szerinti, állami adó- és vámhatóság által vezetett egységes adószámlával kapcsolatos elektronikus vagy személyes ügyintézésre is kiterjednek, kivéve, ha az ügyfél a meghatalmazást visszavonta.

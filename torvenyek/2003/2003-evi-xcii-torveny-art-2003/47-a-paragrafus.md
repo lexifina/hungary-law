@@ -1,1 +1,0 @@
-47/A. § Az adózó, ha bizonylatot, könyvet, nyilvántartást online hozzáférést biztosítva, elektronikusan őrzi meg, köteles ellenőrzés esetén az adóhatóság részére az elektronikus hozzáférést, letöltést biztosítani.

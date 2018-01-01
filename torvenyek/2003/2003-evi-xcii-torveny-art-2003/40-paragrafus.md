@@ -1,9 +1,0 @@
-40. § (1) Az adóhatóság által nyilvántartott adót (az állami adó- és vámhatóság vonatkozásában ideértve a vámot és az egyéb fizetési kötelezettséget is) az adózónak adónként, kötelezettségenként a megfelelő államháztartási számlára kell megfizetnie, illetve a költségvetési támogatást támogatásonként, a megfelelő államháztartási számláról kell visszaigényelnie. A bírságot, a pótlékot és a költséget külön számlára kell megfizetni.
-
-(2) Állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni a költségvetést károsító [Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 395. §, 396. §, illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 309. §, 310. §] bűncselekmény elkövetője által teljesített, a bűncselekménnyel okozott vagyoni hátrány összegével megegyező – a büntetés korlátlan enyhítése érdekében – megfizetett összeget.
-
-(2a) Állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni a 2011. december 31-ig hatályban volt adócsalás, valamint a munkáltatással összefüggésben elkövetett adócsalás bűncselekmények elkövetője által teljesített, a bűncselekménnyel okozott bevételcsökkenés összegével megegyező – büntethetőséget megszüntető okot eredményező – összeget.
-
-(3) Állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni az állami adó- és vámhatóság hatáskörébe tartozó adóval, költségvetési támogatással kapcsolatban elkövetett költségvetési csalás (Btk. 396. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 310. §) miatt indított büntetőeljárásban a nyomozás elrendelésétől a büntetőeljárás jogerős befejezéséig a vagyoni hátrány megtérítése érdekében – a büntetés enyhítését eredményezően – megfizetett összeget.
-
-(4) Az illetéket – ha törvény másként nem rendelkezik – az állami adó- és vámhatóság számlájára kell megfizetni.

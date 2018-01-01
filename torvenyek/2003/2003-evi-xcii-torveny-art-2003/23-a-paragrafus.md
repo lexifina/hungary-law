@@ -1,1 +1,0 @@
-23/A. § Az egyéni vállalkozó adózó az egyéni vállalkozók nyilvántartásában nem szereplő, e törvény 16. § (3) bekezdése szerinti adatainak változását az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság útján is bejelentheti az állami adó- és vámhatósághoz.

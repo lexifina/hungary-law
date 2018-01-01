@@ -1,1 +1,0 @@
-121. § Az adóhatóság, ha a hatósági eljárást ellenőrzés előzte meg, az ellenőrzés során feltárt tényállást veszi alapul, illetőleg, ha az a tényállás tisztázásához szükséges, az ellenőrzés során alkalmazható bizonyítást folytat le.

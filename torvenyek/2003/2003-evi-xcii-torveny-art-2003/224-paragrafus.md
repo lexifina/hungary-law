@@ -1,1 +1,0 @@
-224. § Ahol e törvény az ügyfélkapu fogalmát használja, ott az elektronikus azonosítás szempontjából a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatást, tárhely szempontjából az ehhez kapcsolódó biztonságos kézbesítési szolgáltatást kell érteni.
