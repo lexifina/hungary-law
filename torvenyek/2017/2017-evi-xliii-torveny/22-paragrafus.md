@@ -1,0 +1,5 @@
+22. § (1) Az e törvény hatálybalépését megelőzően a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: 1952-es Pp.) alapján vezetett bírósági nyilvántartásokba 2014. március 15. napján vagy azt követően bejegyzett általános meghatalmazások adatait az e törvény szerinti nyilvántartásba kell átvezetni. Az e törvény szerinti nyilvántartásban elegendő az 1952-es Pp. alapján vezetett bírósági nyilvántartásokba bejegyzett általános meghatalmazások adatait a rendelkezésre álló adattartalommal rögzíteni.
+
+(2) Az OBH elnöke – a nyilvántartásokat vezető bíróságok útján – 2018. március 31. napjáig gondoskodik arról, hogy az 1952-es Pp. alapján vezetett bírósági nyilvántartások (1) bekezdésben meghatározott adatai az e törvény szerinti nyilvántartásba átvezetésre kerüljenek.
+
+(3) A 2014. március 15. napját megelőzően az 1952-es Pp. alapján vezetett bírósági nyilvántartásokba bejegyzett általános meghatalmazások nyilvántartására a 2017. december 31. napján hatályos jogszabályok rendelkezéseit kell alkalmazni.
