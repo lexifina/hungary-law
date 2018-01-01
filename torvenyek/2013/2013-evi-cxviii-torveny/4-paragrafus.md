@@ -1,6 +1,6 @@
 4. § (1) A szerződés csak abban az esetben köthető meg, ha
 
-a) a helyi önkormányzat a szerződés általa történő aláírásának időpontjában az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül és az MNV Zrt.-vel szemben lejárt tartozással nem rendelkezik,
+a) a helyi önkormányzat a szerződés általa történő aláírásának időpontjában szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban és az MNV Zrt.-vel szemben lejárt tartozással nem rendelkezik,
 
 b) a helyi önkormányzat képviselő-testülete, közgyűlése határozatot hozott a közigazgatási területén fekvő, az 1. melléklet szerinti állami tulajdonú ingatlan igényléséről és azt az MNV Zrt. részére – az e törvény hatálybalépését követő hatvan napon belül – megküldte, és
 
