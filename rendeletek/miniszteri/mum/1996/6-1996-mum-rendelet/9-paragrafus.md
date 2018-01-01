@@ -8,9 +8,9 @@ c) a munkaadó a képzés költségeihez hozzájárul, vagy saját maga vagy ké
 
 (2) Az (1) bekezdés c) pontjában meghatározott, a munkaadót terhelő képzési költségekhez történő hozzájárulástól el kell tekinteni, ha a képzésben részt vevő munkavállaló a támogatás iránti kérelem benyújtásakor a 45. életévét betöltötte.
 
-(3)[^57] A képzés támogatására a munkaadó által a telephely szerint illetékes járási hivatalhoz benyújtott kérelem alapján kerül sor.
+(3)[^57]
 
-(4) A (3) bekezdésben meghatározott kérelemnek tartalmaznia kell:
+(4)[^58] A kérelemnek tartalmaznia kell:
 
 a) képzés szükségességét, célját, gazdálkodási és foglalkoztatási szempontból várható eredményét,
 
@@ -24,14 +24,15 @@ e) a képzési program összes, illetve fajlagos költségeit (Ft/fő/óra) a mu
 
 f) a képzésben részt vevők további foglalkoztatására vonatkozó munkaadói nyilatkozatot.
 
-(5)[^58]
+(5)[^59]
 
 (6) A munkaadónak nyújtandó támogatás szempontjából keresetkiegészítésként a képzésben részt vevő által a képzést megelőzően elért átlagkereset és a képzés alatt elért kereset különbözete vehető figyelembe.
 
-(7)–(8)[^59]
+(7)–(8)[^60]
 
 [^55]: A 9. § a 13/2003. (X. 10.) FMM rendelet 4. §-ával megállapított szöveg.
 [^56]: A 9. § (1) bekezdés bevezető szövegrésze a 14/2008. (VII. 30.) SZMM rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^57]: A 9. § (3) bekezdése a 9/2015. (III. 31.) NGM rendelet 7. § i) pontja szerint módosított szöveg.
-[^58]: A 9. § (5) bekezdését a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^59]: A 9. § (7)–(8) bekezdését a 3/2007. (II. 9.) SZMM rendelet 25. § (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^57]: A 9. § (3) bekezdését az 51/2017. (XII. 29.) NGM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^58]: A 9. § (4) bekezdés nyitó szövegrésze az 51/2017. (XII. 29.) NGM rendelet 7. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^59]: A 9. § (5) bekezdését a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^60]: A 9. § (7)–(8) bekezdését a 3/2007. (II. 9.) SZMM rendelet 25. § (1) bekezdésének b) pontja hatályon kívül helyezte.

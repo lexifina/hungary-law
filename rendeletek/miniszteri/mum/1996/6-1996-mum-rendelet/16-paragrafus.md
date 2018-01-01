@@ -1,3 +1,3 @@
-## 14–15. §[^93]
+## 14–15. §[^94]
 
-[^93]: A 14–15. §-t a 27/2010. (XII. 31.) NGM rendelet 75. § c) pontja hatályon kívül helyezte.
+[^94]: A 14–15. §-t a 27/2010. (XII. 31.) NGM rendelet 75. § c) pontja hatályon kívül helyezte.

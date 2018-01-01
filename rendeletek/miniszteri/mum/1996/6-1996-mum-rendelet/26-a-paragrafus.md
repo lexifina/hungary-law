@@ -1,8 +1,8 @@
-## 22–26. §[^178]
+## 22–26. §[^179]
 
 ## Munkaerőpiaci programok támogatása
 
-26/A. §[^179] (1)[^180] Az Flt. 19/B. §-ában meghatározott program (a továbbiakban: program) magában foglalhatja az Flt. és végrehajtási szabályai által tartalmazott munkaerőpiaci szolgáltatásokat, valamint a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújtható foglalkoztatást elősegítő támogatásokat.
+26/A. §[^180] (1)[^181] Az Flt. 19/B. §-ában meghatározott program (a továbbiakban: program) magában foglalhatja az Flt. és végrehajtási szabályai által tartalmazott munkaerőpiaci szolgáltatásokat, valamint a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújtható foglalkoztatást elősegítő támogatásokat.
 
 (2) A program indítása előtt programtervet kell készíteni, amelyben meg kell határozni
 
@@ -32,15 +32,15 @@ i) a program teljes költségvetését, amely tartalmazza a programot alkotó mu
 
 (6) A program költségei közül
 
-a)[^181] a program elemét képező támogatásokat a foglalkoztatási, alaprész terhére,
+a)[^182] a program elemét képező támogatásokat a foglalkoztatási, alaprész terhére,
 
-b)[^182] a járási hivatal által nyújtott munkaerő-piaci szolgáltatások, valamint a program működtetésének a kormányhivatalnál és járási hivatalnál felmerült költségeit – kivéve az Flt. 39. § (4) bekezdésében meghatározott költségeket – az intézményi költségvetés terhére,
+b)[^183] a járási hivatal által nyújtott munkaerő-piaci szolgáltatások, valamint a program működtetésének a kormányhivatalnál és járási hivatalnál felmerült költségeit – kivéve az Flt. 39. § (4) bekezdésében meghatározott költségeket – az intézményi költségvetés terhére,
 
-c)[^183] a program kidolgozásért, illetőleg részben vagy egészben történő megvalósításáért támogatásban részesülőnél felmerült költségek megtérítését a foglalkoztatási alaprész terhére
+c)[^184] a program kidolgozásért, illetőleg részben vagy egészben történő megvalósításáért támogatásban részesülőnél felmerült költségek megtérítését a foglalkoztatási alaprész terhére
 
-[^178]: A 22–26. §-t a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^179]: A 26/A. §-t és az előtte lévő alcímet a 4/2000. (IV. 12.) SZCSM rendelet 17. §-a iktatta a szövegbe.
-[^180]: A 26/A. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 3. § (18) bekezdés e) pontja, a 66/2013. (XII. 23.) NGM rendelet 16. § g) pontja szerint módosított szöveg.
-[^181]: A 26/A. § (6) bekezdés a) pontja a 66/2013. (XII. 23.) NGM rendelet 16. § h) pontja szerint módosított szöveg.
-[^182]: A 26/A. § (6) bekezdés b) pontja a 9/2015. (III. 31.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^183]: A 26/A. § (6) bekezdés c) pontja a 66/2013. (XII. 23.) NGM rendelet 9. §-ával megállapított szöveg.
+[^179]: A 22–26. §-t a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^180]: A 26/A. §-t és az előtte lévő alcímet a 4/2000. (IV. 12.) SZCSM rendelet 17. §-a iktatta a szövegbe.
+[^181]: A 26/A. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 3. § (18) bekezdés e) pontja, a 66/2013. (XII. 23.) NGM rendelet 16. § g) pontja szerint módosított szöveg.
+[^182]: A 26/A. § (6) bekezdés a) pontja a 66/2013. (XII. 23.) NGM rendelet 16. § h) pontja szerint módosított szöveg.
+[^183]: A 26/A. § (6) bekezdés b) pontja a 9/2015. (III. 31.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^184]: A 26/A. § (6) bekezdés c) pontja a 66/2013. (XII. 23.) NGM rendelet 9. §-ával megállapított szöveg.
