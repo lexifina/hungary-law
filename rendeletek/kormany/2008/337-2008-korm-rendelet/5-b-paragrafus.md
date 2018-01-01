@@ -6,11 +6,11 @@
 
 (2a)[^114]
 
-(3)[^115] Az országos tisztifőorvos a szakellátási kapacitásokat érintő változást az erről szóló döntés jogerőre emelkedésével vezeti át a nyilvántartáson, azzal, hogy a szünetelésre vonatkozó adatokat a bejelentés tudomásul vételével rögzíti.
+(3)[^115] Az országos tisztifőorvos a szakellátási kapacitásokat érintő változást az erről szóló döntés véglegessé válásával vezeti át a nyilvántartáson, azzal, hogy a szünetelésre vonatkozó adatokat a bejelentés tudomásul vételével rögzíti.
 
 (4)[^116]
 
-(5)[^117] Az országos tisztifőorvos az ellátási területet, illetve annak változását az erről rendelkező döntés jogerőre emelkedésével vezeti át a nyilvántartáson.
+(5)[^117] Az országos tisztifőorvos az ellátási területet, illetve annak változását az erről rendelkező döntés véglegessé válásával vezeti át a nyilvántartáson.
 
 (5a)[^118] Amennyiben nem kerül megállapításra ellátási terület, a 2. számú melléklet A) rész 53. és 57. pontja szerinti ellátások esetében a nyilvántartásban az adott egészségügyi szolgáltató számára az aktív fekvőbeteg-szakellátásban megállapított ellátási területek összességét kell az adott kapacitáshoz tartozó ellátási területként rögzíteni azzal, hogy az átfedésmentesség követelményét és a térséghatárt nem kell figyelembe venni.
 
@@ -51,9 +51,9 @@ b) a 12/C. § (4) és (6) bekezdése szerinti esetben.
 [^112]: Az 5/B. § (1) bekezdése a 125/2013. (IV. 26.) Korm. rendelet 12. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
 [^113]: Az 5/B. § (2) bekezdését a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése hatályon kívül helyezte.
 [^114]: Az 5/B. § (2a) bekezdését a 125/2013. (IV. 26.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése.
-[^115]: Az 5/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^115]: Az 5/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja, a 457/2017. (XII. 28.) Korm. rendelet 229. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^116]: Az 5/B. § (4) bekezdését a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése hatályon kívül helyezte.
-[^117]: Az 5/B. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^117]: Az 5/B. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja, a 457/2017. (XII. 28.) Korm. rendelet 229. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^118]: Az 5/B. § (5a) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 14. §-a iktatta be.
 [^119]: Az 5/B. § (6) bekezdését a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése hatályon kívül helyezte.
 [^120]: Az 5/B. § (6a) bekezdését a 164/2012. (VII. 19.) Korm. rendelet 2. §-a iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 35. §-ával megállapított szöveg.

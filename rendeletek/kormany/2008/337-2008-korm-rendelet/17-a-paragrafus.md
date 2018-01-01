@@ -8,7 +8,7 @@
 
 (5)–(7)[^254]
 
-(8)[^255] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 13/2012. (II. 14.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 2. számú mellékletben foglaltakat a konszolidációs törvény 7. § (2) bekezdése szerinti eljárás során figyelembe kell venni. A Módr3. hatálybalépésekor[^256] érvényes finanszírozási szerződéseknek a konszolidációs törvény 7. § (2) bekezdése szerinti eljárást követően kiadott működési engedélyek jogerőre emelkedését követően, ennek hiányában 2012. július 1-jétől kell megfelelniük a 2. számú mellékletben foglaltaknak.
+(8)[^255] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 13/2012. (II. 14.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 2. számú mellékletben foglaltakat a konszolidációs törvény 7. § (2) bekezdése szerinti eljárás során figyelembe kell venni. A Módr3. hatálybalépésekor[^256] érvényes finanszírozási szerződéseknek a konszolidációs törvény 7. § (2) bekezdése szerinti eljárást követően kiadott működési engedélyek véglegessé válását követően, ennek hiányában 2012. július 1-jétől kell megfelelniük a 2. számú mellékletben foglaltaknak.
 
 (9)[^257] A Tv. 14. §-ának a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel megállapított (8) bekezdése szerinti – még nyilvántartásba nem vett – tartalékkapacitások felosztása során a 4/B. § (2)–(2b) bekezdését kell alkalmazni.
 
@@ -26,7 +26,7 @@
 [^252]: A 17/A. §-t a 73/2011. (IV. 29.) Korm. rendelet 7. § (4) bekezdése iktatta be.
 [^253]: A 17/A. § (3)–(4) bekezdését a 185/2011. (IX. 9.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 124. § (2) bekezdés a) pontja.
 [^254]: A 17/A. § (5)–(7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 70. §-a iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 124. § (2) bekezdés a) pontja.
-[^255]: A 17/A. § (8) bekezdését a 13/2012. (II. 14.) Korm. rendelet 6. §-a iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 28. § h) és i) pontja szerint módosított szöveg.
+[^255]: A 17/A. § (8) bekezdését a 13/2012. (II. 14.) Korm. rendelet 6. §-a iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 28. § h) és i) pontja, a 457/2017. (XII. 28.) Korm. rendelet 229. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^256]: A hatálybalépés időpontja 2012. február 14.
 [^257]: A 17/A. § (9) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 25. §-a iktatta be.
 [^258]: A 17/A. § (10) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 25. §-a iktatta be.

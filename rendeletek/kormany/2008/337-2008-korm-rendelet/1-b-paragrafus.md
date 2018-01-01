@@ -8,7 +8,7 @@
 
 (5)[^41] Ha az önkormányzat, illetve a Tv. 1/A. § (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatásért felelős szerv az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve a szakellátási feladatát a szakellátási feladat állam általi ideiglenes ellátásának kezdő időpontjától számított 3. hónap utolsó napján sem látja el, az érintett szakellátási feladat folyamatos ellátása érdekében a 4. hónap első napjával az országos tisztifőorvos rendelkezik az önkormányzat, illetve a Tv. 1/A. § (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatásért felelős szerv rendelkezésében lévő szakellátási kapacitásoknak másik egészségügyi szolgáltató részére történő átcsoportosításáról és az ahhoz kapcsolódó ellátási terület módosításáról, valamint az érintett egészségügyi szolgáltató működési engedélyének módosításáról, feltéve, hogy a szakellátási feladatot a 4. hónap első napjától nem az önkormányzat tulajdonából a Tv. 1/B. § (1) bekezdése alapján az államra átszállt egészségügyi intézmény látja el.
 
-(6)[^42] Az országos tisztifőorvos – az (5) bekezdésben foglaltakon túl – rendelkezik a Tv. 1/A. § (4), illetve (5) bekezdésén alapuló jogerős intézkedéseknek a szakellátási feladat állam általi ideiglenes ellátásának kezdő időpontjától számított 4. hónap első napjával történő visszavonásáról.
+(6)[^42] Az országos tisztifőorvos – az (5) bekezdésben foglaltakon túl – rendelkezik a Tv. 1/A. § (4), illetve (5) bekezdésén alapuló véglegessé vált intézkedéseknek a szakellátási feladat állam általi ideiglenes ellátásának kezdő időpontjától számított 4. hónap első napjával történő visszavonásáról.
 
 (7)[^43] Az országos tisztifőorvos a (4)–(6) bekezdés alapján hozott határozatát – annak meghozatalától számított 5 napon belül – megküldi az ÁEEK-nak és a NEAK-nak.
 
@@ -17,5 +17,5 @@
 [^39]: Az 1/B. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
 [^40]: Az 1/B. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
 [^41]: Az 1/B. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 34. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^42]: Az 1/B. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^42]: Az 1/B. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja, a 457/2017. (XII. 28.) Korm. rendelet 229. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^43]: Az 1/B. § (7) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 20. §-ával megállapított szöveg.
