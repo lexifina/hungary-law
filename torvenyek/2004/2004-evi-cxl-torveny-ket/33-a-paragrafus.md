@@ -1,7 +1,0 @@
-33/A. § (1) Ha a hatóság a rá irányadó ügyintézési határidőt az ügyfélnek és az eljárás egyéb résztvevőjének fel nem róható okból túllépi, köteles az ügyfél által az eljárás lefolytatásáért megfizetett illetéknek vagy díjnak megfelelő összeget, ha pedig az ügyintézés időtartama meghaladja az irányadó ügyintézési határidő kétszeresét, az ügyfél által az eljárás lefolytatásáért megfizetett illetéknek vagy díjnak megfelelő összeg kétszeresét az ügyfél részére visszafizetni.
-
-(2) A hatóság (1) bekezdés szerinti fizetési kötelezettségét nem érinti, ha az ügyfél az illeték vagy díj megfizetése alól részben vagy egészen mentesült; ilyen esetben a hatóság az összeget az ügyfél által meg nem fizetett rész arányában a központi költségvetésnek – az államháztartásért felelős miniszter által közzétett számlaszámra – fizeti meg. Ha az eljárás lefolytatásáért az eljárás megindítására irányuló kérelmet benyújtó ügyfél jogszabály alapján nem köteles illeték vagy díj fizetésére, úgy a hatóság az illetékekről szóló törvény szerinti általános tételű eljárási illetéknek megfelelő összeget, illetve ennek kétszeresét fizeti meg a központi költségvetésnek.
-
-(3) Az (1), illetve a (2) bekezdés szerinti összeget a hatóság saját költségvetése terhére a fizetési kötelezettséget megállapító döntés jogerőssé válásától számított nyolc napon belül fizeti vissza az ügyfél számára, illetve fizeti meg a központi költségvetésnek.
-
-(4)

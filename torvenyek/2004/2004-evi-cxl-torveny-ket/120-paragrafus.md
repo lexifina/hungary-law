@@ -1,1 +1,0 @@
-120. § Ha az ügyész az e törvény hatálya alá tartozó ügyben lép fel a törvénysértés orvoslása érdekében, annak elbírálására az ügyészségről szóló törvénynek az ügyészség közérdekvédelmi feladatairól szóló fejezetében foglaltak az irányadók.
