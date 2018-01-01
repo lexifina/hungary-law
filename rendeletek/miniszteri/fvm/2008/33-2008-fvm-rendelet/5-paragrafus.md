@@ -28,7 +28,7 @@ e)[^26] a gazdálkodó a 3. § (1) bekezdés a) pont aa) és ab) alpontja szerin
 
 (6)[^28]
 
-(7)[^29] A 3. § (1) és (2) bekezdésében meghatározott földhasználati intézkedésekre és eszközbeszerzésekre vonatkozó beruházást a támogatási kérelemnek helyt adó, vagy részben helyt adó határozat alapján benyújtott első kifizetési kérelem alapján hozott jogerős kifizetési határozattól számítva legalább 5 évig kell fenntartani.
+(7)[^29] A 3. § (1) és (2) bekezdésében meghatározott földhasználati intézkedésekre és eszközbeszerzésekre vonatkozó beruházást a támogatási kérelemnek helyt adó, vagy részben helyt adó határozat alapján benyújtott első kifizetési kérelem alapján hozott véglegessé vált kifizetési határozattól számítva legalább 5 évig kell fenntartani.
 
 (8)[^30] Ha az ügyfél az adott tevékenység vonatkozásában a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) alapján közbeszerzésre kötelezett, vagy a Kbt.-t önként alkalmazza, akkor az EMVA általános rendelet 33. §-ában foglaltak szerint kell eljárni azzal, hogy az EMVA általános rendelet 33. § (4) bekezdésétől eltérően a művelet megvalósításának határideje hat hónappal hosszabbodik meg.
 
@@ -39,5 +39,5 @@ e)[^26] a gazdálkodó a 3. § (1) bekezdés a) pont aa) és ab) alpontja szerin
 [^26]: Az 5. § (3) bekezdés e) pontját a 46/2011. (V. 31.) VM rendelet 1. § (1) bekezdése iktatta be.
 [^27]: Az 5. § (5) bekezdése a 69/2012. (VII. 13.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^28]: Az 5. § (6) bekezdését a 69/2012. (VII. 13.) VM rendelet 11. § a) pontja hatályon kívül helyezte.
-[^29]: Az 5. § (7) bekezdése a 69/2012. (VII. 13.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^29]: Az 5. § (7) bekezdése a 69/2012. (VII. 13.) VM rendelet 2. § (3) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 13. § a) pontja szerint módosított szöveg.
 [^30]: Az 5. § (8) bekezdését a 17/2010. (IX. 30.) VM rendelet 6. §-a iktatta be.
