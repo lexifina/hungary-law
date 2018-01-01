@@ -1,4 +1,4 @@
-3. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^230]
+3. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^232]
 
 I. A VADASKERT LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
@@ -52,7 +52,7 @@ i) a vadászterület és a tervezett vadaskert térképi megjelenítése, külö
 
 2.4.2. a felszámolás végrehajtását végző megnevezését,
 
-2.4.3. a vadászterületnek minősülő földterületen létesült zárttéri vadtartó létesítmény esetén a kerítés lebontásának határidejét vagy az engedélyes nyilatkozatát arról, hogy az engedély jogerős visszavonását követő harminc napon belül a kerítés fenntartása céljából kérelmet nyújt be az illetékes erdészeti vagy vadászati hatósághoz.
+2.4.3. a vadászterületnek minősülő földterületen létesült zárttéri vadtartó létesítmény esetén a kerítés lebontásának határidejét vagy az engedélyes nyilatkozatát arról, hogy az engedély végleges visszavonását követő harminc napon belül a kerítés fenntartása céljából kérelmet nyújt be az illetékes erdészeti vagy vadászati hatósághoz.
 
 2.5. Állati melléktermékek és elhullott állatok kezelési rendjét.
 
@@ -124,4 +124,4 @@ i) az érintett erdőterületre vonatkozó erdészeti üzemterv kivonata, üzemt
 
 IV. ÁLLOMÁNYVÁLTOZÁSI NAPLÓ
 
-[^230]: A Vhr. korábbi 3. I. számú mellékletének számozását 3. számú mellékletre változtatta és szövegét megállapította a 24/2017. (V. 17.) FM rendelet 33. § (1) bekezdése. (A Vhr. 3. II. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 8. pontja hatályon kívül helyezte.)
+[^232]: A Vhr. korábbi 3. I. számú mellékletének számozását 3. számú mellékletre változtatta és szövegét megállapította a 24/2017. (V. 17.) FM rendelet 33. § (1) bekezdése, a melléklet szövege a 70/2017. (XII. 29.) FM rendelet 4. § (1) bekezdés d) pontja szerint módosított szöveg. (A Vhr. 3. II. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 8. pontja hatályon kívül helyezte.)

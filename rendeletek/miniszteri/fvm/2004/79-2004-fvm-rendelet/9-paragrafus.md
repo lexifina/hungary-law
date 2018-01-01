@@ -1,4 +1,4 @@
-9. §[^23] (1) Társult vadászati jog esetén a tulajdonosi közösség a működési szabályait maga állapítja meg. A tulajdonosi közösség működési szabályzatának kötelező minimális adattartalmát a 2. számú melléklet tartalmazza.
+9. §[^24] (1) Társult vadászati jog esetén a tulajdonosi közösség a működési szabályait maga állapítja meg. A tulajdonosi közösség működési szabályzatának kötelező minimális adattartalmát a 2. számú melléklet tartalmazza.
 
 (2) Ha a tulajdonosi gyűlés összehívása, illetve a határozathozatal alkalmával a föld tulajdonosa nem személyesen tesz jognyilatkozatot, képviseletéről a 7. § (2) bekezdésében meghatározottak szerint gondoskodhat.
 
@@ -16,4 +16,4 @@ e) az ingatlan-nyilvántartási adatbázishoz adatátviteli vonalon való csatla
 
 (4) A tulajdonosi közösség tagjának tulajdonában álló föld tulajdonjogának első alkalommal történő igazolását mindaddig el kell fogadni, amíg a változást a (3) bekezdés szerinti okirattal igazolva be nem jelentették.
 
-[^23]: A Vhr. 9. §-a a 14/2016. (III. 2.) FM rendelet 5. §-ával megállapított szöveg.
+[^24]: A Vhr. 9. §-a a 14/2016. (III. 2.) FM rendelet 5. §-ával megállapított szöveg.

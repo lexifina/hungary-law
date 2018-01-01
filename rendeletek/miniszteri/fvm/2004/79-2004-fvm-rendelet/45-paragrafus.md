@@ -1,6 +1,6 @@
-45. § (1)[^93] A vadászható madárfajok jogszerűen elejtett, befogott egyedeit szállítani és értékesíteni, az ország területéről kivinni, az országba behozni, valamint az ország területén átszállítani úgy szabad, ha a madár legalább egyik szárnyán a vadfaj meghatározásához szükséges mértékben a tollazatot meghagyták.
+45. § (1)[^95] A vadászható madárfajok jogszerűen elejtett, befogott egyedeit szállítani és értékesíteni, az ország területéről kivinni, az országba behozni, valamint az ország területén átszállítani úgy szabad, ha a madár legalább egyik szárnyán a vadfaj meghatározásához szükséges mértékben a tollazatot meghagyták.
 
-(2)[^94] A vadászható madárfajok közül a nyári lúd, a vetési lúd, a nagy lilik, a kanadai lúd, az erdei szalonka, a szárcsa, a balkáni gerle, a dolmányos varjú, a szarka és a szajkó esetében tilos azok élő vagy elpusztult, illetve elejtett egyedeinek és származékainak vagy könnyen felismerhető részeinek eladása, eladásra történő szállítása, eladásra történő tartása, valamint eladásra történő felkínálása. Ezen cselekmények az egyéb vadászható madárfajok esetében csak a jogszerűen elejtett, befogott egyedekkel végezhetők.
+(2)[^96] A vadászható madárfajok közül a nyári lúd, a vetési lúd, a nagy lilik, a kanadai lúd, az erdei szalonka, a szárcsa, a balkáni gerle, a dolmányos varjú, a szarka és a szajkó esetében tilos azok élő vagy elpusztult, illetve elejtett egyedeinek és származékainak vagy könnyen felismerhető részeinek eladása, eladásra történő szállítása, eladásra történő tartása, valamint eladásra történő felkínálása. Ezen cselekmények az egyéb vadászható madárfajok esetében csak a jogszerűen elejtett, befogott egyedekkel végezhetők.
 
-[^93]: A Vhr. 45. §-ának (1) bekezdése a 61/2007. (VII. 13.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^94]: A Vhr. 45. § (2) bekezdése a 72/2012. (VII. 24.) VM rendelet 13. §-ával megállapított szöveg.
+[^95]: A Vhr. 45. §-ának (1) bekezdése a 61/2007. (VII. 13.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^96]: A Vhr. 45. § (2) bekezdése a 72/2012. (VII. 24.) VM rendelet 13. §-ával megállapított szöveg.

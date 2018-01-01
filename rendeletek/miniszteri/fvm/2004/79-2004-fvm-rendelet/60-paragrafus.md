@@ -1,12 +1,12 @@
-60. § (1)[^119] A vadászati hatóság külön engedélyével monitorozás, tudományos kutatás, mintagyűjtés vagy kísérlet, lakott területről történő eltávolítás céljából, vagy humán-, illetve állategészségügyi vagy légtér-biztonsági okból, vadbefogásra olyan kábító és bénító vegyszert, valamint lőszert lehet alkalmazni, amely a vad életét és testi épségét nem veszélyezteti. Tudományos kutatás céljából a vadászati hatóság a vadászati módok, illetve a vadászati idények alól felmentést adhat.
+60. § (1)[^123] A vadászati hatóság külön engedélyével monitorozás, tudományos kutatás, mintagyűjtés vagy kísérlet, lakott területről történő eltávolítás céljából, vagy humán-, illetve állategészségügyi vagy légtér-biztonsági okból, vadbefogásra olyan kábító és bénító vegyszert, valamint lőszert lehet alkalmazni, amely a vad életét és testi épségét nem veszélyezteti. Tudományos kutatás céljából a vadászati hatóság a vadászati módok, illetve a vadászati idények alól felmentést adhat.
 
-(2)[^120]
+(2)[^124]
 
-(3)[^121] Vadászterületnek minősülő állattartó telepen, illetve mezőgazdasági létesítmény területén és azok környezetében a tulajdonos vagy használó írásbeli felkérése alapján a vadászatra jogosult részére a vadászati hatóság kérelemre engedélyezheti az elvadult házi galamb riasztását és gyérítését.
+(3)[^125] Vadászterületnek minősülő állattartó telepen, illetve mezőgazdasági létesítmény területén és azok környezetében a tulajdonos vagy használó írásbeli felkérése alapján a vadászatra jogosult részére a vadászati hatóság kérelemre engedélyezheti az elvadult házi galamb riasztását és gyérítését.
 
-(4)[^122] A vadászati hatóság a vadászatra jogosult kérelmére a vadpulyka állományszabályozásának céljából engedélyezheti a vadpulyka gyérítését.
+(4)[^126] A vadászati hatóság a vadászatra jogosult kérelmére a vadpulyka állományszabályozásának céljából engedélyezheti a vadpulyka gyérítését.
 
-[^119]: A Vhr. 60. § (1) bekezdése a 24/2017. (V. 17.) FM rendelet 34. § 17. pontja és 35. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^120]: A Vhr. 60. § (2) bekezdését a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 5. pontja hatályon kívül helyezte.
-[^121]: A Vhr. 60. § (3) bekezdését a 74/2013. (VIII. 30.) VM rendelet 14. §-a iktatta be, szövege a 24/2017. (V. 17.) FM rendelet 34. § 18. pontja szerint módosított szöveg.
-[^122]: A Vhr. 60. § (4) bekezdését a 19/2014. (III. 12.) VM rendelet 14. §-a iktatta be.
+[^123]: A Vhr. 60. § (1) bekezdése a 24/2017. (V. 17.) FM rendelet 34. § 17. pontja és 35. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^124]: A Vhr. 60. § (2) bekezdését a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 5. pontja hatályon kívül helyezte.
+[^125]: A Vhr. 60. § (3) bekezdését a 74/2013. (VIII. 30.) VM rendelet 14. §-a iktatta be, szövege a 24/2017. (V. 17.) FM rendelet 34. § 18. pontja szerint módosított szöveg.
+[^126]: A Vhr. 60. § (4) bekezdését a 19/2014. (III. 12.) VM rendelet 14. §-a iktatta be.

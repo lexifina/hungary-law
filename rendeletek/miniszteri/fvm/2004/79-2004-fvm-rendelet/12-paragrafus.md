@@ -1,6 +1,6 @@
 ## (A Vtv. 14. §-ához)
 
-12. §[^26] (1) A Vtv. 12. §-ában foglaltak szerinti szavazati arány megállapításához a vadászterület tulajdonosi közössége jegyzőkönyvbe foglalja, hogy
+12. §[^27] (1) A Vtv. 12. §-ában foglaltak szerinti szavazati arány megállapításához a vadászterület tulajdonosi közössége jegyzőkönyvbe foglalja, hogy
 
 a) tulajdonosként, továbbá a tulajdonos képviselőjeként ki mekkora területtel vesz részt a tulajdonosi gyűlésen,
 
@@ -12,4 +12,4 @@ c) a képviseleti jogosultságot megalapozó meghatalmazás érvényes-e.
 
 (3) A tulajdonosi közösség képviselője a vadászterület földtulajdonosai részére – kérésükre – az őket érintő kérdésekben felvilágosítást ad, továbbá az iratokba az őket érintő részek tekintetében betekintést biztosít.
 
-[^26]: A Vhr. 12. §-a a 14/2016. (III. 2.) FM rendelet 5. §-ával megállapított szöveg.
+[^27]: A Vhr. 12. §-a a 14/2016. (III. 2.) FM rendelet 5. §-ával megállapított szöveg.

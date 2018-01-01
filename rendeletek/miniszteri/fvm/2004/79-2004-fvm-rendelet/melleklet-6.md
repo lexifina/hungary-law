@@ -216,8 +216,8 @@
 
 6. számú melléklet
 
-79/2004. (V. 4.) FVM rendelethez[^233]
+79/2004. (V. 4.) FVM rendelethez[^235]
 
 A VADGAZDÁLKODÁSI ÜZEMTERV TARTALMI KÖVETELMÉNYEI
 
-[^233]: A Vhr. 6. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^235]: A Vhr. 6. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (2) bekezdésével megállapított szöveg.

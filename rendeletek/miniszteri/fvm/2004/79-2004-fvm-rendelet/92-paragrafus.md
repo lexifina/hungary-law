@@ -1,3 +1,3 @@
-92. §[^209]
+92. §[^211]
 
-[^209]: A Vhr. 92. §-át a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés h) pontja hatályon kívül helyezte.
+[^211]: A Vhr. 92. §-át a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés h) pontja hatályon kívül helyezte.

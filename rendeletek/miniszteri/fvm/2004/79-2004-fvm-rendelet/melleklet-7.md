@@ -54,7 +54,7 @@
 
 ## A vadászatra jogosultak az Országos Vadgazdálkodási Adattár által kidolgozott hosszú távú vadgazdálkodási üzemtervek tartalmi és formai előírásait kötelesek követni, illetve az erre szolgáló digitális mintát (kitölthető fájl) felhasználni.
 
-7. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^234]
+7. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^236]
 
 I. A VADÁLLOMÁNYBECSLÉS ÉS AZ ÉVES VADGAZDÁLKODÁSI TERV TARTALMI KÖVETELMÉNYEI
 
@@ -140,4 +140,4 @@ tájegységi fővadász
 
 * A megfelelő rész aláhúzandó.
 
-[^234]: A Vhr. 7. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (3) bekezdésével megállapított szöveg.
+[^236]: A Vhr. 7. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (3) bekezdésével megállapított szöveg.

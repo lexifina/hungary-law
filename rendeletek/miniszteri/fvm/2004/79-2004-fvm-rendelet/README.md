@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-79-20-8
 | 2016-11-18 | 2004-79-20-82.30 | 73/2016. (XI. 17.) FM rendelet |
 | 2017-01-01 | 2004-79-20-82.31 | 45/2013. (VI. 3.) VM rendelet |
 | 2017-05-25 | 2004-79-20-82.32 | 24/2017. (V. 17.) FM rendelet |
+| 2018-01-01 | 2004-79-20-82.33 | 70/2017. (XII. 29.) FM rendelet |
