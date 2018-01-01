@@ -1,4 +1,4 @@
-## 7–8. §[^2]
+## 7–8. §[^4]
 
 1. melléklet a 409/2017. (XII. 15.) Korm. rendelethez
 
@@ -48,4 +48,4 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

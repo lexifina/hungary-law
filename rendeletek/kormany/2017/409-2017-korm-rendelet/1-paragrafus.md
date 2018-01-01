@@ -1,3 +1,5 @@
-1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerint a Budapest belterület 32538/1, 32474 és 32475/1 helyrajzi számon nyilvántartott ingatlanokon, illetve az ezen ingatlanokból telekalakítási eljárás jogerős befejezését követően kialakított ingatlanokon megvalósuló ingatlan- és infrastrukturális fejlesztések megvalósítására irányuló beruházással összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+1. § (1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerint a Budapest belterület 32538/1, 32474 és 32475/1 helyrajzi számon nyilvántartott ingatlanokon, illetve az ezen ingatlanokból telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon megvalósuló ingatlan- és infrastrukturális fejlesztések megvalósítására irányuló beruházással összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
 
 (2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+[^1]: Az 1. § (1) bekezdése a 6. § (1) bekezdése szerint módosított szöveg.
