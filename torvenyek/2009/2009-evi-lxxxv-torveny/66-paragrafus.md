@@ -14,7 +14,7 @@ c) a jogosult a behajtást végző pénzügyi szolgáltatónak nyilatkozik arró
 
 (4) Az (1)–(3) bekezdésekben foglaltakat megfelelően alkalmazni kell a kirendelő hatóság által az igazságügyi szakértő, az igazságügyi szakértői névjegyzékbe bejegyzett gazdasági társaság és a szakértői intézmény részére megfizetendő igazságügyi szakértői díj behajtására is, ha
 
-a) az igazságügyi szakértői díjat a kirendelő hatóság a jogerős határozatával megállapította, és
+a) az igazságügyi szakértői díjat a kirendelő hatóság a jogerős vagy végleges határozatával megállapította, és
 
 b) megfizetésére az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény 17. §-ának (4) bekezdése szerinti határidő 2010. január 1. előtt lejárt.
 

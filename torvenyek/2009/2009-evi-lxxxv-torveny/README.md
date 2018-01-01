@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-85-00-00
 | 2016-09-18 | 2016. évi LIII. törvény | 2009-85-00-00.24 |
 | 2017-07-01 | 2017. évi LXIX. törvény | 2009-85-00-00.25 |
 | 2017-11-21 | 2017. évi CXLV. törvény | 2009-85-00-00.26 |
+| 2018-01-01 | 2017. évi CXXXVI. törvény | 2009-85-00-00.27 |
