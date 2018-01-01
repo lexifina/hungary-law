@@ -350,7 +350,7 @@
 
 ## a kitöltő (cége / neve) aláírása
 
-4. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^73]
+4. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^72]
 
 A felvonók és mozgólépcsők kötelező műszaki biztonságtechnikai felülvizsgálatához szükséges ellenőri tevékenység folytatásához szükséges bejelentés adattartalma
 
@@ -466,4 +466,4 @@ Kelt: ...............................................
 
 bejelentő aláírása
 
-[^73]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 271. § (2) bekezdésével megállapított szöveg.
+[^72]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 271. § (2) bekezdésével megállapított szöveg.

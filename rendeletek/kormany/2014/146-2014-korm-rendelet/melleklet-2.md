@@ -1,4 +1,4 @@
-2. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^72]
+2. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^71]
 
 I. A berendezések létesítésének műszaki-biztonsági engedélyezési dokumentációja
 
@@ -56,4 +56,4 @@ III. A berendezések megszüntetésének műszaki-biztonsági dokumentációja
 
 2.3. A bontáshoz tervezett technológiai leírást, amely tartalmazza a bontáshoz felhasználandó eszközöket, segédszerkezeteket, a műveletek sorrendjét, a közművezetékek leválasztási módját, a munkavédelmi és környezetvédelmi előírásokat, valamint az elbontásra kerülő szerkezetek, anyagok további sorsának meghatározását.
 
-[^72]: A 2. melléklet a 280/2015. (IX. 22.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^71]: A 2. melléklet a 280/2015. (IX. 22.) Korm. rendelet 13. §-a szerint módosított szöveg.

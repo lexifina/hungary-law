@@ -1,5 +1,3 @@
-## 23. § A berendezés létesítésére, üzembe helyezésére, rendeltetésszerű használatára, alkalmasságának ellenőriztetésére, biztonságtechnikai felülvizsgálatára vonatkozó kötelesség megszegése esetén a Hatóság az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 60. § (4) bekezdése alapján szabhat ki bírságot.
-
 ## 13. Műszaki-biztonsági követelmények
 
 24. § (1) A rendelet hatálya alá tartozó felvonót, mozgólépcsőt, mozgójárdát úgy kell megtervezni, létesíteni, telepíteni, üzembe helyezni, üzemeltetni és rendszeresen karbantartani, hogy az megfeleljen az e rendeletben és a 29. §-ban foglaltak figyelembevételével a vonatkozó szabványokban meghatározott műszaki biztonsági követelményeknek.

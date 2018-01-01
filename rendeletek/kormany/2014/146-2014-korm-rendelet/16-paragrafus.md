@@ -1,6 +1,6 @@
 ## 9. A berendezésekkel kapcsolatos kötelezettségek, üzemeltetés
 
-16. § (1)[^47] Az üzemeltető a berendezés üzemeltetése során, annak rendeltetésszerű és biztonságos használatra alkalmas állapotáról, rendszeres és szakszerű karbantartásáról, javításáról, továbbá a szükséges és előírt műszaki biztonságtechnikai felülvizsgálatáról, rendszeres ellenőrzéséről, az üzemeltetés és a használat módjának folyamatos figyelemmel kíséréséről, valamint a műszaki hiba vagy vész esetén használatos vészjelző berendezés működőképességéről és szükség esetén a mentés azonnali lehetővé tételéről köteles gondoskodni.
+16. § (1)[^45] Az üzemeltető a berendezés üzemeltetése során, annak rendeltetésszerű és biztonságos használatra alkalmas állapotáról, rendszeres és szakszerű karbantartásáról, javításáról, továbbá a szükséges és előírt műszaki biztonságtechnikai felülvizsgálatáról, rendszeres ellenőrzéséről, az üzemeltetés és a használat módjának folyamatos figyelemmel kíséréséről, valamint a műszaki hiba vagy vész esetén használatos vészjelző berendezés működőképességéről és szükség esetén a mentés azonnali lehetővé tételéről köteles gondoskodni.
 
 (2) A berendezést csak a használatbavételi engedélyben meghatározott célra és a rendeltetésének megfelelő módon szabad használni.
 
@@ -8,4 +8,4 @@
 
 (4) Ha az üzemeltető a berendezéssel kapcsolatos kötelezettségét nem teljesíti, a Hatóság őt a teljesítéshez szükséges cselekmények megtételére – beleértve a berendezés leállítását is –, valamint munkálatok elvégzésére (elvégeztetésére) kötelezi olyan esetekben, amikor azt az életveszély megelőzése vagy elhárítása, a biztonság védelme, jelentős vagy helyrehozhatatlan kár elhárítása indokolja.
 
-[^47]: A 16. § (1) bekezdése a 280/2015. (IX. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^45]: A 16. § (1) bekezdése a 280/2015. (IX. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
