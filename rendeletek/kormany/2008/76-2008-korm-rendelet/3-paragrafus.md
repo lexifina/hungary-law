@@ -8,7 +8,7 @@ A kiemelt jelentőségű ügyekhez tartozó létesítmények, a megvalósításu
 
 |  | A | B | C | D | E |
 
-| 1. | Beruházás | Beruházás azonosító adatai | A beruházás megvalósí- tásáva1 kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
+| 1. | Beruházás | Beruházás azonosító adatai | A beruházás megvalósí- tásáva1 kapcsolatos engedélyek | Eljáró hatóság | Másodfokon eljáró hatóság |
 
 | 2. | Záhony térség belső közúti infrastruktúrájának az ipari, logisztikai befektetésekkel összehangolt fejlesztése | A 4115. jelű összekötő úttól a 4145. jelű összekötő útig (Tiszabezdédig) húzódó, jelenleg önkormányzati tulajdonú út kiépítése | Közúthatósági engedélyek | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Nyíregyházi Járási Hivatala | Szabolcs- Szatmár-Bereg Megyei Kormányhivatal |
 
@@ -41,4 +41,4 @@ A kiemelt jelentőségű ügyekhez tartozó létesítmények, a megvalósításu
 [^6]: A 3. §-t a 271/2016. (IX. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^7]: A hatálybalépés időpontja 2016. szeptember 9.
 [^8]: A hatálybalépés időpontja 2016. szeptember 9.
-[^9]: A melléklet a 380/2016. (XII. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A melléklet a 380/2016. (XII. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 458/2017. (XII. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.
