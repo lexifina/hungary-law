@@ -1,1 +1,0 @@
-## 27. § A foglalkoztatottnak a foglalkoztatási jogviszony fennállása alatt egyazon címet csak egyszer lehet adományozni. A más munkáltatótól korábban kapott címek nem zárják ki az e rendelet alapján történő címadományozást.
