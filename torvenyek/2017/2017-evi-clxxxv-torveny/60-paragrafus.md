@@ -1,0 +1,3 @@
+60. § (1) Ha a váltót olyan közbenjáró fogadta el, akinek lakása a fizetés helyén van, vagy ha szükséghelyzet esetén a fizetésre kijelölt ott lakó személy van, a váltóbirtokos köteles a váltót a fizetés helyén mindezeknek a személyeknek bemutatni és – ha annak helye van – a fizetés hiánya miatt az óvást felvétetni, mégpedig legkésőbb azon a napon, amely az óvás felvételére engedett utolsó napot követi.
+
+(2) Ha ebben a határidőben az óvást nem veszik fel, annak kötelezettsége, aki közbenjárót jelölt ki vagy azé, akinek érdekében a váltót a közbenjáró elfogadta és az utána következő átruházóké megszűnik.

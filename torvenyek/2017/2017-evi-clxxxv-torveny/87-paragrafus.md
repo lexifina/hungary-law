@@ -1,0 +1,1 @@
+87. § Annak az országnak a törvénye, ahol az idegen vagy a saját váltó fizetendő, határozza meg azokat az intézkedéseket, amelyeket az idegen vagy a saját váltó elveszése vagy ellopása esetén tenni kell.

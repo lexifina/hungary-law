@@ -1,0 +1,1 @@
+8. § Ha valaki váltót ír alá olyan személy képviselőjeként, akinek képviseletére nem jogosult, a váltó alapján maga válik kötelezetté; ha fizet, ugyanazok a jogok illetik, amelyek az állítólagos képviseltet illették volna. Ugyanez áll arra a képviselőre, aki a képviseleti jog határait túllépte.

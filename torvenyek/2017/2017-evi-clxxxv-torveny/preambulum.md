@@ -1,0 +1,1 @@
+Az Országgyűlés a váltójog egységes hazai szabályrendszerének érvényesítése érdekében, a Genfben, 1930. június 7-én megkötött váltójogi egyezmények kihirdetéséről szóló 1965. évi 1. törvényerejű rendelettel kihirdetett egységes váltótörvénynek a Magyarországon alkalmazandó kiegészítő váltójogi szabályokkal való egybefoglalásával a következő törvényt alkotja:

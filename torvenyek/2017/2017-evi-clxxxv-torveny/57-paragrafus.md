@@ -1,0 +1,1 @@
+57. § A közbenjáró elfogadását a váltóra kell írni és azt a közbenjárónak alá kell írnia. A közbenjáró elfogadásában meg kell jelölni, hogy kinek az érdekében teljesítik; ilyen megjelölés hiányában az elfogadást úgy kell tekinteni, hogy az a kibocsátó érdekében történt.

@@ -1,0 +1,1 @@
+10. § Ha a váltó a kibocsátáskor hiányos volt és a pótlás a létrejött megállapodástól eltér, a váltóbirtokossal szemben a megállapodás megszegésére csak abban az esetben lehet hivatkozni, ha a váltót a váltóbirtokos rosszhiszeműen szerezte, vagy ha a megszerzéssel kapcsolatban súlyos gondatlanságot követett el.

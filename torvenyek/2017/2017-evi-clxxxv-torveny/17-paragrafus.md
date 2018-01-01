@@ -1,0 +1,1 @@
+17. § Váltón alapuló keresettel megtámadott személy a váltóbirtokossal szemben nem hivatkozhat olyan kifogásra, amely a kibocsátóval vagy valamelyik előbbi váltóbirtokossal szemben fennálló személyes viszonyán alapul, kivéve, ha a váltóbirtokos a váltó megszerzésével tudatosan az adós hátrányára cselekedett.

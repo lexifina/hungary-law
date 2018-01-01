@@ -1,0 +1,1 @@
+51. § Ha a megtérítési igényt részelfogadás esetében érvényesítik, az, aki a váltó összegének el nem fogadott részét kifizeti, követelheti, hogy a fizetést a váltón feljegyezzék és neki arról nyugtát adjanak. Ezen felül köteles számára a váltóbirtokos a váltó hitelesített másolatát és az óvást kiadni, hogy további megtérítési igényét érvényesíthesse.
