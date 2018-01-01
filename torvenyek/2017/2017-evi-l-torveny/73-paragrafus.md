@@ -1,3 +1,5 @@
 ## 32. A Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosítása
 
-73–74. §
+73. § (1)
+
+(2)

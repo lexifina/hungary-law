@@ -1,0 +1,1 @@
+3. § A külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény kihirdetéséről szóló 1973. évi 11. törvényerejű rendelet 4. § (2) bekezdésében a „küpolitikáért” szövegrész helyébe a „külpolitikáért” szöveg lép.

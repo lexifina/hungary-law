@@ -1,18 +1,6 @@
 ## 240. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
-522. § (1) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 8. § (1) bekezdése a következő szöveggel lép hatályba:
-
-„(1) E törvény hatálya nem terjed ki
-
-a) a szabálysértési eljárásra,
-
-b) a választási eljárásra, a népszavazás kezdeményezésére és a népszavazási eljárásra,
-
-c) az adó-, valamint vámigazgatási eljárásra,
-
-d) a menekültügyi és idegenrendészeti, valamint – az állampolgársági bizonyítvány kiadásának kivételével – az állampolgársági eljárásra, és
-
-e) a versenyfelügyeleti eljárásra.”
+522. § (1)
 
 (2) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 41. § (1) bekezdése a következő szöveggel lép hatályba:
 
@@ -46,22 +34,4 @@ g) az eljárásba további ügyfél bevonásának lett volna helye, vagy
 
 h) valamely súlyos eljárási jogszabálysértést törvény semmisségi oknak minősít.”
 
-(5) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 143. § (3) bekezdése a következő szöveggel lép hatályba:
-
-„(3) Az e törvény hatálybalépése előtt kiadott jogerős hatósági döntéseket e törvény alkalmazásában véglegessé vált döntésnek kell tekinteni. E törvény alkalmazásában, ahol jogszabály
-
-a) közigazgatási hatóság jogerős döntését említi, azon a hatóság végleges döntését,
-
-b) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt említi, azon e törvényt,
-
-c) a hatóság döntésének bírósági felülvizsgálatát említi, azon közigazgatási pert,
-
-d) belföldi jogsegélyt említ, azon megkeresést,
-
-e) a kérelem érdemi vizsgálat nélküli elutasítását említi, azon a kérelem visszautasítását,
-
-f) lefoglalást említ, azon lefoglalást, illetve zár alá vételt,
-
-g) a döntés nyilvános közzétételét említi, azon a döntés közhírré tételét
-
-kell érteni.”
+(5)

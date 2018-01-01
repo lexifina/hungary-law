@@ -1,0 +1,1 @@
+377. § Hatályát veszti a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 4. § (4) bekezdésében és 5. § (5) bekezdésében az „az állami adóhatóság igazolás alapján” szövegrész.
