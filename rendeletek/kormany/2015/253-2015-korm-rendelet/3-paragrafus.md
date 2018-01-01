@@ -1,5 +1,5 @@
 ## 2. § A Kormány az 1. § szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Bács-Kiskun Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
 
-3. § (1) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére az 1. § szerinti közigazgatási hatósági eljárásokban a szakhatóság – a hatóság határozatának meghozataláig felhasználható – előzetes szakhatósági állásfoglalást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 44. § (8) bekezdése szerint használja fel.
+3. §[^1]
 
-(2) Az 1. § szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
+[^1]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 205. §-a hatályon kívül helyezte.
