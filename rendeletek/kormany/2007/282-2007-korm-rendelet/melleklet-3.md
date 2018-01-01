@@ -58,4 +58,4 @@
 
 Szakvélemény adására elsősorban feljogosított szervek
 
-[^8]: A 3. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés a) pontjával megállapított szöveg.
+[^8]: A 3. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 7. §-a szerint módosított szöveg.
