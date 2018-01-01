@@ -10,13 +10,13 @@ c) ellenőrzi az információtechnológiai fejlesztési projektekben az informá
 
 d) nyilvántartja a szervezet elektronikus információs rendszereinek megnevezését, az elektronikus információs rendszerek biztonsági osztályát, valamint az elektronikus információs rendszer osztályba soroláshoz szükséges, jogszabályban meghatározott fizikai, logikai és adminisztratív védelmi intézkedések adatait,
 
-e)[^2] nyilvántartja és honlapján közzéteszi a biztonsági eseményekkel kapcsolatos, a kormányzati eseménykezelő központtól kapott értesítéseket,
+e)[^5] nyilvántartja és honlapján közzéteszi a biztonsági eseményekkel kapcsolatos, a kormányzati eseménykezelő központtól kapott értesítéseket,
 
 f) jogszabályban meghatározott szempontok szerint, hatósági eljárás keretében lefolytatja a fizikai, logikai és adminisztratív védelmi ellenőrzéseket,
 
-g)[^3] együttműködik a hálózati és információs rendszerek biztonságáért felelős nemzetközi szervekkel, így különösen az Európai Unió e feladatra létrehozott Együttműködési csoportjával, valamint
+g)[^6] együttműködik a hálózati és információs rendszerek biztonságáért felelős nemzetközi szervekkel, így különösen az Európai Unió e feladatra létrehozott Együttműködési csoportjával, valamint
 
-h)[^4] a hálózati és információs rendszerek biztonságáért felelős nemzetközi szervezetekben képviseli Magyarországot.
+h)[^7] a hálózati és információs rendszerek biztonságáért felelős nemzetközi szervezetekben képviseli Magyarországot.
 
 (2) A hatóság az EGT tagállamaiban történő elektronikus információs rendszer üzemeltetése tekintetében engedélyezési eljárást folytat le a 7. § (3) bekezdésében foglaltak kivételével. Az eljárás során a hatóság megvizsgálja
 
@@ -38,6 +38,6 @@ h) azt, hogy az üzemeltetés helyszínén illetékes hatóságok jogosultak-e a
 
 (3) Nem kell a (2) bekezdés e)–g) pontja szerinti leírásokat megvizsgálni, ha nemzetközi egyezmények vagy nemzetközi szabványok alapján, illetve az ezeken alapuló hazai követelmények vagy ajánlások alapján kiadott érvényes biztonsági tanúsítvány a kérelem benyújtásakor rendelkezésre áll, és azt a hatóságnak bemutatják.
 
-[^2]: A 6. § (1) bekezdés e) pontja a 441/2016. (XII. 16.) Korm. rendelet 61. §-a szerint módosított szöveg.
-[^3]: A 6. § (1) bekezdés g) pontját a 441/2016. (XII. 16.) Korm. rendelet 58. §-a iktatta be.
-[^4]: A 6. § (1) bekezdés h) pontját a 441/2016. (XII. 16.) Korm. rendelet 58. §-a iktatta be.
+[^5]: A 6. § (1) bekezdés e) pontja a 441/2016. (XII. 16.) Korm. rendelet 61. §-a szerint módosított szöveg.
+[^6]: A 6. § (1) bekezdés g) pontját a 441/2016. (XII. 16.) Korm. rendelet 58. §-a iktatta be.
+[^7]: A 6. § (1) bekezdés h) pontját a 441/2016. (XII. 16.) Korm. rendelet 58. §-a iktatta be.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-187-20-
 | 2016-02-25 | 2015-187-20-22.5 | 22/2016. (II. 17.) Korm. rendelet |
 | 2016-07-17 | 2015-187-20-22.6 | 186/2016. (VII. 13.) Korm. rendelet |
 | 2016-12-17 | 2015-187-20-22.7 | 441/2016. (XII. 16.) Korm. rendelet |
+| 2018-01-01 | 2015-187-20-22.8 | 457/2017. (XII. 28.) Korm. rendelet |
