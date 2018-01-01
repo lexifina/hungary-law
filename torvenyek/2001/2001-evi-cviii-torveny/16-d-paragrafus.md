@@ -14,6 +14,6 @@ e) ötvenezer forinttól ötszázezer forintig terjedő összegű elektronikus k
 
 (3) Az elektronikus kereskedelmi bírságot a Hatóság számlájára kell megfizetni.
 
-(4) A Hatóság az ügydöntő határozat meghozataláig terjedő időtartamra végzésében azonnali hatállyal megtilthatja a jogsértő magatartás további folytatását, illetve elrendelheti a jogsértő állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelme miatt – halaszthatatlanul szükség van. E döntését a Hatóság soron kívül hozza meg. A Hatóság végzése ellen önálló fellebbezésnek van helye, amelyet a Hatóság Tanácsának elnöke bírál el.
+(4) A Hatóság határozata meghozataláig terjedő időtartamra végzésében azonnali hatállyal, ideiglenes biztosítási intézkedésként megtilthatja a jogsértő magatartás további folytatását, illetve elrendelheti a jogsértő állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelme miatt – halaszthatatlanul szükség van.
 
-(5) A Hatóság az elektronikus hirdetőt, az elektronikus hirdetési szolgáltatót, valamint az elektronikus hirdetés közzétevőjét határidő kitűzésével a kéretlen elektronikus hirdetésekre vonatkozó rendelkezések teljesítésének hitelt érdemlő módon való igazolására hívhatja fel.
+(5) A Hatóság az elektronikus hirdetőt, az elektronikus hirdetési szolgáltatót, valamint az elektronikus hirdetés közzétevőjét határidő kitűzésével a kéretlen elektronikus hirdetésekre vonatkozó rendelkezések teljesítésének hitelt érdemlő módon való igazolásra hívhatja fel. Az igazolás során az ügyfél nyilatkozatával nem pótolhatja a hiányzó bizonyítékot.

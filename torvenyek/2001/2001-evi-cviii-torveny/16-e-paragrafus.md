@@ -1,4 +1,4 @@
-16/E. § (1) A Hatóság a 14/B. §-ban vagy a Grt. 6. §-ában foglalt rendelkezések megsértése tárgyában hozott jogerős határozatát – az igénybe vevő, illetve az elektronikus hirdetés címzettje személyes adatainak törlése vagy olvashatatlanná tétele mellett – honlapján közzéteszi, ha
+16/E. § (1) A Hatóság a 14/B. §-ban vagy a Grt. 6. §-ában foglalt rendelkezések megsértése tárgyában hozott véglegessé vált határozatát – az igénybe vevő, illetve az elektronikus hirdetés címzettje személyes adatainak törlése vagy olvashatatlanná tétele mellett – honlapján közhírré teszi, ha
 
 a) határozatában kétszázezer forint vagy azt meghaladó összegű bírságot szabott ki,
 
@@ -6,19 +6,15 @@ b) a határozat meghozatalára a jogsértő magatartás ismételt tanúsítása 
 
 c) a jogsértő állapot megszüntetését elrendelő, illetve a jogsértő magatartás további folytatását megtiltó határozatát a 16/C. § (2) bekezdése vagy a 16/F. § (1) bekezdésének b) pontja szerinti eljárása keretében hozta.
 
-(2) A Hatóság – amennyiben azt a 16/C. § (2) bekezdése szerinti eljárása keretében hozta – a honlapján közzéteszi a 16/D. § (4) bekezdése szerinti végzését.
+(2) A Hatóság – amennyiben azt a 16/C. § (2) bekezdése szerinti eljárása keretében hozta – a honlapján közhírré teszi a 16/D. § (4) bekezdése szerinti végzését.
 
-(3) A közzétett döntésről a Hatóság tájékoztathatja a nemzeti hírügynökséget.
+(3)
 
-(4) A közzétett hirdetménynek a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl tartalmaznia kell:
+(4) A közhírré tett közleménynek tartalmaznia kell:
 
-a) a közzététel e törvény szerinti jogcímét,
+a) a közhírré tétel e törvény szerinti jogcímét,
 
-b) a megállapított tényállást,
-
-c) a döntés rendelkező részét a jogorvoslat lehetőségéről szóló tájékoztatás kivételével, valamint
-
-d) a határozattal szembeni bírósági felülvizsgálat, felügyeleti eljárás vagy az ügyészi felhívás tényét és – amennyiben rendelkezésre áll – azok eredményét.
+b) a határozat elleni közigazgatási per, ügyészi felhívás és fellépés tényét és – amennyiben rendelkezésre áll – azok eredményét is.
 
 (5) A Hatóság a 16/D. § (1) bekezdésének c) pontja szerinti hatósági szerződésről közleményt tesz közzé a honlapján. A közleménynek tartalmaznia kell:
 
