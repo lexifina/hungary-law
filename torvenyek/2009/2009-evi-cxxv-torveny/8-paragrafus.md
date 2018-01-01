@@ -66,7 +66,7 @@ g) tevékenységének szüneteltetése esetén annak tényét, valamint időtart
 
 (7) A Névjegyzéket vezető hatóság a büntetlen előéletre vagy a tolmácsfoglalkozás gyakorlásától eltiltásra vonatkozó kizáró feltétel fennállását bármikor ellenőrizheti. Felhívására a Névjegyzékbe bejelentkező vagy az abban szereplő jelnyelvi tolmács hatósági bizonyítvánnyal igazolja, hogy vele szemben nem áll fenn a kizáró feltétel.
 
-(8) A hatósági bizonyítványban foglalt adatokat a Névjegyzéket vezető hatóság az ellenőrzés lefolytatásáig, vagy ha az ellenőrzés alapján a jelnyelvi tolmács adatainak a Névjegyzékből való törlésére kerül sor, a törlési eljárás jogerős befejezéséig kezelheti.
+(8) A hatósági bizonyítványban foglalt adatokat a Névjegyzéket vezető hatóság az ellenőrzés lefolytatásáig, vagy ha az ellenőrzés alapján a jelnyelvi tolmács adatainak a Névjegyzékből való törlésére kerül sor, a törlési eljárás végleges döntéssel történő befejezéséig kezelheti.
 
 (9) A Névjegyzéket vezető hatóság az adatokat a Névjegyzékből való törlést követő 5 évig kezeli, ezt követően az adatokat törli. A Névjegyzékből való törlést követően a Névjegyzéket vezető hatóság – adatigénylésre – a jelnyelvi tolmács tevékenységével összefüggő büntetőeljárásban az eljárás lefolytatásához a nyomozó hatóságnak, az ügyészségnek és a bíróságnak szolgáltat adatot.
 

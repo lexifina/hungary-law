@@ -48,7 +48,9 @@ szövegrész lép.
 
 a) a Névjegyzéket vezető hatóság kijelölésére vonatkozó rendelkezéseket,
 
-b) a jelnyelv oktatásának megszervezésére és finanszírozására vonatkozó
+b) a jelnyelv oktatásának megszervezésére és finanszírozására vonatkozó,
+
+c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékének személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a Névjegyzék vezetésére, a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékén szereplő jelnyelvi tolmácsok kötelező továbbképzésére, szakmai gyakorlatára, valamint azok bejelentésére, igazolására és ellenőrzésére vonatkozó
 
 részletes szabályokat.
 
@@ -56,10 +58,6 @@ részletes szabályokat.
 
 a) a jelnyelvi tolmácsszolgálatok pályáztatásával összefüggő szabályokat és a térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozására vonatkozó részletes szabályokat,
 
-b) a térítésmentes jelnyelvi tolmácsszolgáltatás igénybevételének részletes szabályait, továbbá
-
-c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékének személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a Névjegyzék vezetésére vonatkozó részletes eljárási szabályokat,
-
-d) a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékén szereplő jelnyelvi tolmácsok kötelező továbbképzésére, szakmai gyakorlatára, valamint az azok bejelentésére, igazolására és ellenőrzésére vonatkozó szabályokat.
+b) a térítésmentes jelnyelvi tolmácsszolgáltatás igénybevételének részletes szabályait.
 
 (8)
