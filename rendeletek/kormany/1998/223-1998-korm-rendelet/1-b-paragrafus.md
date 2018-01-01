@@ -1,6 +1,6 @@
-1/B. §[^22] (1)[^23] A Cst. 2. § a), b), e) és f) pontja szerinti személy esetében családtámogatási ügyben – kivéve ha jogszabály másként rendelkezik vagy az ügyet jogszabály családtámogatási kifizetőhely hatáskörébe utalta – első fokon a fővárosi és megyei kormányhivatal 13. számú melléklet szerinti családtámogatási feladatkörében eljáró járási hivatala jár el.
+1/B. §[^24] (1)[^25] A Cst. 2. § a) pont aa), ab), ae) és af) alpontja szerinti személy esetében családtámogatási ügyben – kivéve ha jogszabály másként rendelkezik vagy az ügyet jogszabály családtámogatási kifizetőhely hatáskörébe utalta – első fokon a fővárosi és megyei kormányhivatal 13. számú melléklet szerinti családtámogatási feladatkörében eljáró járási hivatala jár el.
 
-(2) A Cst. 2. § c) és d) pontja szerinti személy esetében első fokon
+(2)[^26] A Cst. 2. § a) pont ac) és ad) alpontja szerinti személy esetében első fokon
 
 a) az anyasági támogatással kapcsolatos eljárásban az (1) bekezdés szerinti járási hivatal;
 
@@ -18,5 +18,9 @@ c) az a) pontba nem tartozó családtámogatási ellátásokkal kapcsolatos, hat
 
 (4) A gyermeknevelési támogatás megállapítására irányuló, valamint a gyermekgondozást segítő ellátás nagyszülő részére történő megállapítására irányuló eljárásban családtámogatási kifizetőhely nem járhat el.
 
-[^22]: Az 1/B. §-t a 379/2016. (XII. 2.) Korm. rendelet 33. § (3) bekezdése iktatta be.
-[^23]: Az 1/B. § (1) bekezdése a 171/2017. (VI. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+(5)[^27] A Cst. 2. § c) pontja szerinti személy esetén az anyasági támogatással kapcsolatos eljárásban a Központ jár el.
+
+[^24]: Az 1/B. §-t a 379/2016. (XII. 2.) Korm. rendelet 33. § (3) bekezdése iktatta be.
+[^25]: Az 1/B. § (1) bekezdése a 171/2017. (VI. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 405/2017. (XII. 15.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^26]: Az 1/B. § (2) bekezdés nyitó szövegrésze a 405/2017. (XII. 15.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^27]: Az 1/B. § (5) bekezdését a 405/2017. (XII. 15.) Korm. rendelet 1. §-a iktatta be.

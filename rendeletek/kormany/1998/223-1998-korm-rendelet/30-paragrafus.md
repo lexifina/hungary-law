@@ -1,3 +1,8 @@
-## 29. §[^218] A fővárosi és megyei kormányhivatal, illetve a járási hivatal az e rendelet szerinti, hatáskörébe tartozó ellátásokkal kapcsolatos eljárásokban a Központ által jóváhagyott központi szakmai informatikai rendszert köteles használni.
+## 29. §[^240] A fővárosi és megyei kormányhivatal, illetve a járási hivatal az e rendelet szerinti, hatáskörébe tartozó ellátásokkal kapcsolatos eljárásokban a Központ által jóváhagyott központi szakmai informatikai rendszert köteles használni.
 
-[^218]: A 29. §-t újonnan a 70/2015. (III. 30.) Korm. rendelet 36. § (6) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 38. pontja, a 311/2017. (X. 31.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+30. §[^241] (1) A családtámogatási igazgatási szervek elektronikus aláírással kiadmányozott és központi tárhelyen tárolt döntéseinek másolatát az „Ez a döntés az eredeti elektronikus úton előállított dokumentummal megegyező tartalmú hiteles papíralapú másolat.” szövegű hitelesítési záradékkal kell ellátni.
+
+(2) A papír alapon benyújtott, digitalizált és a központi szakmai informatikai rendszerben elmentett dokumentumok papíralapú példányait a digitalizálást követő 1 év elteltével meg lehet semmisíteni.
+
+[^240]: A 29. §-t újonnan a 70/2015. (III. 30.) Korm. rendelet 36. § (6) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 38. pontja, a 311/2017. (X. 31.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^241]: A 30. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1257. pontja hatályon kívül helyezte, újonnan a 405/2017. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
