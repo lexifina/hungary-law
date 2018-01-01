@@ -2,4 +2,6 @@
 
 (2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. számú mellékletben meghatározott hatóságokat jelöli ki.
 
-(3) Azokban az esetekben, amikor az 1. számú mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatósági hatósági ügyekben eljáró szakhatóságként a 2. számú mellékletben meghatározott hatóságokat jelöli ki.
+(3)[^1]
+
+[^1]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
