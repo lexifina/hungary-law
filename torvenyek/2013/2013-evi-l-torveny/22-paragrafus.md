@@ -5,3 +5,5 @@
 (2) A hatóság, a 2. § (3)–(6) bekezdése szerinti szerv, a 18. § (3) bekezdése szerinti szerv vagy gazdálkodó szervezet, a 18. § (5) bekezdése szerinti szerv, valamint a 19. § (1)–(4) bekezdése szerinti eseménykezelő központ munkatársait az (1) bekezdés szerint megismert adatok tekintetében írásba foglalt titoktartási kötelezettség terheli, amely a foglalkoztatásra irányuló jogviszony megszűnését követő 5 évig fennmarad.
 
 (3) A hatóság eljárása során keletkezett adatok nem nyilvánosak.
+
+(4) A zárt célú és honvédelmi célú elektronikus információs rendszerek – e törvényben meghatározott – hatósági feladatainak ellátására Kormány által kijelölt szervnek a véglegessé vált határozata az ügyfélen és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 33. § (3) bekezdése alapján iratbetekintésre jogosult személyen kívül más számára nem ismerhető meg.

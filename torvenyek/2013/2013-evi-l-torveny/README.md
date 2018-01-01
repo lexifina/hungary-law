@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-50-00-00
 | 2016-06-18 | 2016. évi LXVII. törvény | 2013-50-00-00.9 |
 | 2016-10-01 | 2016. évi LXVII. törvény | 2013-50-00-00.10 |
 | 2017-06-17 | 2017. évi LXXII. törvény | 2013-50-00-00.11 |
+| 2018-01-01 | 2017. évi L. törvény | 2013-50-00-00.12 |

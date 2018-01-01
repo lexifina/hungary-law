@@ -22,7 +22,7 @@ f) javaslattétel a létfontosságú rendszerek és létesítmények védelmi sz
 
 g)
 
-h) együttműködés a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott elektronikus ügyintézési felügyelettel a szabályozott elektronikus ügyintézési szolgáltatás szolgáltatókra vonatkozó biztonsági követelmények teljesülésének ellenőrzésében,
+h) együttműködés az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus ügyintézési felügyelettel a szabályozott elektronikus ügyintézési szolgáltatás szolgáltatókra vonatkozó biztonsági követelmények teljesülésének ellenőrzésében,
 
 i) kapcsolattartás az elektronikus információbiztonság területén a nemzetbiztonsági szolgálatokkal,
 
@@ -33,5 +33,11 @@ k)–n)
 (3) A hatóság eljárásainak általános ügyintézési határideje – a (3a) bekezdésben meghatározott kivétellel – 30 nap.
 
 (3a) A hatóság által lefolytatott hatósági eljárás ügyintézési határideje a logikai védelmi kötelezettség teljesítésére irányuló vizsgálat esetén százhúsz nap.
+
+(3b) A hatóság eljárásaiban
+
+a) az ügyfél értesítése az eljárás megindításáról mellőzhető,
+
+b) a szervezet köteles a szakértői eljárásban közreműködni.
 
 (4) A (2) bekezdés a) és b) pontjában foglalt feladatok ellátása körében a hatóság javaslatára az e-közigazgatásért felelős miniszter az informatikáért felelős miniszter egyetértésével, valamint a minősített adatok védelmének szakmai felügyeletéért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter javaslatainak figyelembevételével éves ellenőrzési tervet (a továbbiakban: éves ellenőrzési terv) készít.
