@@ -16,7 +16,7 @@
 
 | (név, lakcím) | (név, lakcím) |
 
-8. melléklet a 25/2007. (V. 31.) IRM rendelethez[^65]
+8. melléklet a 25/2007. (V. 31.) IRM rendelethez[^52]
 
 | Magyarország La Hongrie / Hungary |  | Sorszám: Numéro/Number |
 
@@ -246,4 +246,4 @@ P. H. / Cachet / Stamp
 
 |  | ............................................................. Aláírás vagy cégszerű aláírás / Signature / Signature |
 
-[^65]: A 8. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés e) pontjával megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^52]: A 8. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés e) pontjával megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése szerint módosított szöveg.
