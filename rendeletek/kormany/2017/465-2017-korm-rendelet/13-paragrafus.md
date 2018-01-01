@@ -1,0 +1,1 @@
+## 12. § Az adózó, illetve törvényes képviselője, valamint az állandó meghatalmazott, megbízott számára a nyilvántartásba vett képviseleti jogosultság valamennyi adata lekérdezhető az állami adó- és vámhatóság által működtetett elektronikus felületen.

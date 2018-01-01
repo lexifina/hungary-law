@@ -1,0 +1,3 @@
+114. § (1) Az Art. 176. §-a szerinti valódiságvizsgálat az ellenőrzésre előírt szabályoknak megfelelően az ármegállapításra történő utalást tartalmazó megbízólevél felmutatásával kezdődik. A valódiságvizsgálat lefolytatására nyitva álló határidő harminc nap. A valódiságvizsgálatra rendelkezésre álló határidő meghosszabbítására, az adózó együttműködési kötelezettségére, az adózó és az adóhatóság jogaira, illetve kötelezettségeire az Art.-ben előírt, az ellenőrzésre irányadó szabályokat kell megfelelően alkalmazni.
+
+(2) A valódiságvizsgálat határozathozatal nélkül jegyzőkönyv felvételével zárul.

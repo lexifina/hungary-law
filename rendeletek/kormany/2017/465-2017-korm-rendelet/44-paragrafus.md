@@ -1,0 +1,5 @@
+44. § (1) Az állami adó- és vámhatóság az adófizetési biztosíték összegének kiutalását, illetve a felmondáshoz való hozzájárulást a 43. § (1) bekezdés a) pontjában meghatározott esetben az adófizetési biztosíték letételére vonatkozó tizenkét hónapos időszak leteltét követő harminc napon belül, a 43. § (1) bekezdés b), c) és d) pontja esetében a döntés véglegessé válását követően harminc napon belül, a 43. § (2) bekezdés szerinti esetekben a kérelem beérkezését követő harminc napon belül teljesíti, adja ki.
+
+(2) Az állami adó- és vámhatóság a visszatartási jogát az általa nyilvántartott köztartozása tekintetében gyakorolhatja, illetve a nyilvántartott adótartozást a garanciaszerződés keretében érvényesítheti.
+
+(3) Ha a 43. § alapján az adófizetési biztosíték visszautalásának van helye, az utalást a pénzforgalmi számlanyitásra kötelezett adózó esetén a pénzforgalmi számlára, megszűnt adózó esetén a kérelemben megjelölt számlára vagy postai átvételi címre teljesíti az állami adó- és vámhatóság.

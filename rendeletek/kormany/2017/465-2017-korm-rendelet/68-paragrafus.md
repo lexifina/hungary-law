@@ -1,0 +1,1 @@
+## 67. § Ha a bevallási és adatszolgáltatási rendszerben üzemzavar történik, az állami adó- és vámhatóság az üzemzavarról és az üzemzavar elhárítását követően annak kezdő és megszűnési időpontjáról haladéktalanul közleményt tesz közzé honlapján, és közzététel céljából értesíti az érintett szolgáltatót.

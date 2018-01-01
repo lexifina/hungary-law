@@ -1,0 +1,1 @@
+## 13. § Ha az első bejelentést követően a képviseleti jogosultság tartalmában vagy a képviseleti jogosultság terjedelmét nem érintő bejelentett adatokban változás következett be, azt – az első bejelentésre irányadó szabályok szerint – a bejelentéskor meglévő valamennyi jogosultságra és érvényes adatra kiterjedően kell bejelenteni.

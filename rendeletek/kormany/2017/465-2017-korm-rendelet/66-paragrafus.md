@@ -1,0 +1,3 @@
+66. § (1) A bankkártyával bonyolított fizetési művelet költségei az államot terhelik, e költségeket a Magyar Államkincstár a XLII. Költségvetés közvetlen bevételei és kiadásai fejezet 32. Egyéb költségvetési kiadások cím 1. Vegyes kiadások alcím 11. Egyéb vegyes kiadások jogcímcsoport terhére, az Egyéb pénzügyi elszámolások elnevezésű számláról utalja át az EFER működtetőjének.
+
+(2) Az EFER működtetője által kiállított számla és az ahhoz csatolt tételes kimutatás alapján a kifizetés teljesíthetőségét az állami adó- és vámhatóság a számlához csatolt tételes analitika alapján előzetesen igazolja.
