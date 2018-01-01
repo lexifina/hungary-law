@@ -1,21 +1,3 @@
-## Szám: ...............
+6. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^72]
 
-## Oklevél
-
-## Ezt az oklevelet ........................................................................................................................................ részére állítottuk ki, aki ................................................................ (városban, községben) .......... év ..................... hónap ......... napján született, anyja neve .................................................................................................................................................................................
-
-## A fent nevezett .......... év .................... hónap ........ napján a vizsgabizottság előtt .................................................. eredménnyel
-
-## szociális alapvizsgát tett.
-
-## Kelt:.................év.........hónap...............napján.
-
-## P. H.
-
-| ....................................................................... | ....................................................................... |
-
-| a vizsgabizottság elnöke | a vizsgáztató intézmény vezetője |
-
-6. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^119]
-
-[^119]: Az 5. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, számozását 6. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése.
+[^72]: Az 5. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, számozását 6. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése. A 6. számú mellékletet a 25/2017. (X. 18.) EMMI rendelet 25. § g) pontja hatályon kívül helyezte.

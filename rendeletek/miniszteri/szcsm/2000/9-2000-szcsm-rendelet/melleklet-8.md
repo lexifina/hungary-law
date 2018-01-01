@@ -1,23 +1,3 @@
-## Szám: ...............
+8. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^74]
 
-## Oklevél
-
-## Szám:...............
-
-## Oklevél
-
-## Ezt az oklevelet .................................................................................................................................. részére állítottuk ki, aki ........................................................................... (városban, községben) ............ év ............... hónap ....... napján született, anyja neve: ................................................................................................................................................................................
-
-## A fent nevezett ................ év ....................... hónap ................. napján a ................................................. témacsoportból ............................................................................................. szakvizsgabizottsága előtt ...................................... eredménnyel eleget tett a szociális szakvizsga követeményeinek.
-
-## Kelt: ..............................................., ......... év ........................................ hónap .......... napján.
-
-## P. H.
-
-| ................................................................. | ......................................................................... |
-
-| a szakvizsgabizottság elnöke | a vizsgáztató intézmény vezetője |
-
-8. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^121]
-
-[^121]: A 8. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^74]: A 8. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdésének b) pontja hatályon kívül helyezte.

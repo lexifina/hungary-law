@@ -1,6 +1,6 @@
-## 18. §[^112] A 2016. év során lejárt vizsgajoggal rendelkező intézmények vizsgajogának időtartama – a 13. § (5) bekezdésében foglaltaktól eltérően – pályázat kiírása nélkül egy évvel meghosszabbodik.
+## 18. §[^64] A 2017. évben vizsgajoggal rendelkező intézmény a 2018. évi szociális alapvizsgára, illetve szociális szakvizsgára befizetett vizsgadíjat, valamint a meg nem valósult alapismereteket nyújtó tanfolyamra befizetett alaptanfolyami díjat a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet hatálybalépésétől[^65] számított 60 napon belül visszafizeti a befizető részére.
 
-1. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^113]
+1. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^66]
 
 Sorszám: ............/............
 
@@ -22,21 +22,21 @@ II. Továbbképzési adatok
 
 1. A továbbképzés formája (a megfelelő szöveg aláhúzandó):
 
-|  | tanfolyam | személyiségfejlesztő foglalkozás | tanulmányút |
+1.1. szakmai tanfolyam
 
-|  | szakmai műhely | szakmai tanácskozás |  |
+1.2. szakmai személyiségfejlesztő foglalkozás
 
-2. A továbbképzés engedélyszáma:
+1.3. szakmai tanácskozás
 
-3. A továbbképzés címe:
+1.4. külföldi vagy hazai tanulmányút
 
-4. A továbbképzés szervezője:
+1.5. szakmai műhely
 
-5. A továbbképzési pontérték:
+1.6. szakmai e-learning
 
-6. A továbbképzés időpontja:
+1.7. szakmai blended-learning
 
-7. A továbbképzés helyszíne:
+1.8. szakmai terepgyakorlati továbbképzés
 
 Az I. pontban megnevezett személy a II. pontban szereplő továbbképzésen részt vett, annak feltételeit teljesítette.
 
@@ -48,5 +48,6 @@ P. H.
 
 a továbbképzés szervezőjének cégszerű aláírása
 
-[^112]: A 18. §-t a 14/2016. (VII. 12.) EMMI rendelet 2. §-a iktatta be, szövege a 43/2016. (XII. 27.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^113]: Az 1. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^64]: A 18. §-t a 14/2016. (VII. 12.) EMMI rendelet 2. §-a iktatta be, szövege a 25/2017. (X. 18.) EMMI rendelet 23. § (15) bekezdésével megállapított szöveg.
+[^65]: A hatálybalépés időpontja 2018. január 1.
+[^66]: Az 1. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 25/2017. (X. 18.) EMMI rendelet 23. § (16) bekezdése szerint módosított szöveg.

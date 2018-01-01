@@ -1,3 +1,3 @@
-2. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^114]
+2. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^67]
 
-[^114]: A 2. számú melléklet a 41/2012. (XI. 28.) EMMI rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^67]: A 2. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 23. § (17) bekezdésével megállapított szöveg.

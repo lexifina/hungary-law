@@ -1,25 +1,3 @@
-## Szám: ................
+7. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^73]
 
-## Oklevél
-
-## Szám:................
-
-## Oklevél
-
-## Ezt az oklevelet ....................................................................................................................................... részére állítottuk ki, aki ............................................................ (városban, községben) ............... év ................... hónap .......... napján született, anyja neve: ................................................................................................................................................................................
-
-## A fent nevezett .................. év ....................... hónap ......... napján ............................................................. témacsoportból a ............................................................................................ szakvizsgabizottsága előtt ......................................eredménnyel szociális szakvizsgát tett.
-
-## A jelen oklevél a fent nevezettet szakvizsgázott..........................................................................cím használatára jogosítja.
-
-## Kelt:..............................................., .........év........................................hónap..........napján.
-
-## P. H.
-
-| ....................................................................... | ....................................................................... |
-
-| a szakvizsgabizottság elnöke | a vizsgáztató intézmény vezetője |
-
-7. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^120]
-
-[^120]: A 6. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, számozását 7. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése.
+[^73]: A 6. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, számozását 7. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése. A 7. számú mellékletet a 25/2017. (X. 18.) EMMI rendelet 25. § g) pontja hatályon kívül helyezte.

@@ -14,7 +14,7 @@
 
 ## A továbbképzést szervező személy neve, telefonszáma:
 
-## Továbbképzés akkreditációjának érvényességi ideje:
+## Továbbképzés minősítésének érvényességi ideje:
 
 ## 2. A továbbképzés elmaradásának oka
 
@@ -28,6 +28,6 @@
 
 ## a továbbképzés szervezőjének cégszerű aláírása
 
-5. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^118]
+5. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^71]
 
-[^118]: A 4. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (1) bekezdésével megállapított szöveg, számozását 5. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése.
+[^71]: Az 5. számú mellékletet a 25/2017. (X. 18.) EMMI rendelet 25. § g) pontja hatályon kívül helyezte.
