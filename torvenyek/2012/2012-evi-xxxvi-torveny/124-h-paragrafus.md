@@ -1,0 +1,11 @@
+124/H. § (1) Az egyes besorolási osztályok besorolási fokozataihoz növekvő szorzószámok tartoznak. A besorolási fokozathoz tartozó szorzószám és az illetményalap szorzata határozza meg a besorolási fokozathoz tartozó alapilletményt.
+
+(2) A besorolási osztályokat és a besorolási fokozatokat a 3. melléklet tartalmazza.
+
+(3) A rendelkezésre álló személyi juttatások előirányzatán belül a tárgyévet megelőző év teljesítményértékelése alapján – ide nem értve, ha az országgyűlési köztisztviselő végleges áthelyezésére kerül sor – a tárgyévre vonatkozóan az országgyűlési köztisztviselő besorolása szerinti besorolási fokozathoz tartozó alapilletményét – át nem ruházható hatáskörében a munkáltatói jogkör gyakorlója – tárgyév január 1-jétől december 31-éig terjedő időszakra legfeljebb 50%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg. Az eltérítésről a munkáltatói jogkör gyakorlója – a hivatali szerv vezetője javaslata alapján – minden év február 28-áig dönt. Az így megállapított eltérítés mértéke – a (4) bekezdésben foglaltakon túl – a tárgyévben a teljesítményértékeléstől számított hathavonta elvégezhető újabb teljesítményértékelés alapján módosítható, azzal a feltétellel, hogy az országgyűlési köztisztviselő besorolás szerint járó alapilletménye legfeljebb 20%-kal csökkenthető.
+
+(4) A (3) bekezdés szerint megállapított alapilletmény-eltérítés a tárgyévben akkor módosítható, ha a tárgyévben az országgyűlési köztisztviselő vezetői kinevezést kap, vagy azt tőle visszavonják, illetve címadományozásra, vagy annak visszavonására, vagy a Kttv. 119. §-a szerinti átsorolásra kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint e törvény alapján az eltérítés nélkül meghatározott összeg.
+
+(5) Az országgyűlési köztisztviselőt év közben történő végleges áthelyezése esetén a 124/C. § alapján a 3. mellékletben meghatározott besorolási osztály megfelelő besorolási fokozatába kell sorolni, figyelemmel a 124/F. § (5) bekezdés rendelkezéseire.
+
+(6) Az illetmény-összetevők változása esetén, így különösen az illetményalap emelkedése, a besorolási osztály vagy a besorolási fokozat változása során az országgyűlési köztisztviselő illetményét újra meg kell állapítani.

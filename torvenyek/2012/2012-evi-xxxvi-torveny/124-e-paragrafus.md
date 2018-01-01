@@ -1,0 +1,11 @@
+124/E. § (1) Ha a nem pályakezdő, felsőfokú iskolai végzettséggel rendelkező országgyűlési köztisztviselő kinevezésekor, áthelyezésekor, átsorolásakor nem rendelkezik közigazgatási szakvizsgával, akkor a közigazgatási szakvizsgát kinevezésének, áthelyezésének, átsorolásának időpontjától számított három éven belül köteles letenni. A határidő számítására a Kttv. 118. § (4) bekezdését alkalmazni kell.
+
+(2) Az (1) bekezdésben meghatározott határidő eredménytelen elteltét követően az országgyűlési köztisztviselő magasabb besorolási fokozatba nem sorolható a közigazgatási szakvizsga teljesítéséig. A közigazgatási szakvizsga teljesítése után az országgyűlési köztisztviselőt 124/C. § rendelkezésének megfelelően kell besorolni és alapilletményét megállapítani.
+
+(3) Ha a nem pályakezdő országgyűlési köztisztviselő közigazgatási alapvizsga vagy közigazgatási szakvizsga kötelezettségét teljesítette, továbbá a Kttv. 119. §-ban meghatározott esetben – a 124/D. § (1) bekezdés esetét kivéve – a közszolgálati jogviszonyban töltött ideje alapján jogosult az előmenetelre.
+
+(4) Ha a 124/C. § (3) bekezdés szerint kinevezett, áthelyezett országgyűlési köztisztviselő országgyűlési fogalmazó besorolású és kinevezésekor, áthelyezésekor nem rendelkezik közigazgatási szakvizsgával, akkor az (1) bekezdés szerint köteles közigazgatási szakvizsgát tenni és előmenetelére a (2) és (3) bekezdést alkalmazni kell.
+
+(5) A felsőfokú iskolai végzettséggel rendelkező pályakezdő országgyűlési köztisztviselőnek az országgyűlési tanácsos besorolási fokozatba soroláshoz közigazgatási szakvizsgát kell tennie. Közigazgatási szakvizsga hiányában az országgyűlési köztisztviselő nem sorolható országgyűlési tanácsos besorolási fokozatba.
+
+(6) Ha a Kttv. 38. § (2) bekezdése alapján határozott időre létesített közszolgálati jogviszony időtartama az egy évet meghaladja, az országgyűlési köztisztviselő előmenetelére e törvény rendelkezéseit kell alkalmazni. Ha az országgyűlési köztisztviselő ismételten határozott idejű közszolgálati jogviszonyt létesít, az egyéves határidő számítása szempontjából a határozott idejű jogviszonyok időtartamát össze kell számítani. Egyebekben a határozott időre létesített közszolgálati jogviszony esetében a besorolásra és az illetmény megállapítására – a Kttv. 38. § (5) bekezdésétől eltérően – e törvény rendelkezéseit kell alkalmazni.

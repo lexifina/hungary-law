@@ -1,0 +1,1 @@
+124/O. § Az Országgyűlés Hivatala Szervezeti és Működési Szabályzata a Kttv. 80. § (1)–(2) bekezdésében és 130. §-ában foglaltaktól eltérő szabályokat állapíthat meg az országgyűlési köztisztviselői képzésre, továbbképzésre és az országgyűlési köztisztviselő teljesítményértékelésére.

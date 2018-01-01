@@ -6,4 +6,4 @@
 
 (3) Az (1) bekezdésben meghatározott esetekben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető. Jogi képviselőként jogvédelemmel foglalkozó civil szervezet vagy alapítvány, nemzetiségi önkormányzat, jogi oktatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
 
-(4) Az Országgyűlési Őrség parancsnoka a panaszban foglaltakat közigazgatási hatósági eljárásban bírálja el. Az Országgyűlési Őrség parancsnokának a panaszról hozott határozata ellen fellebbezésnek nincsen helye, az ellen közvetlenül bírósági felülvizsgálatnak van helye.
+(4) Az Országgyűlési Őrség parancsnoka a panaszban foglaltakat közigazgatási hatósági eljárásban bírálja el.

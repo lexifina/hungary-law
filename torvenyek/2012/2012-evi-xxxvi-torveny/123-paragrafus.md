@@ -16,4 +16,4 @@
 
 (4a) Az Országgyűlés ülésén a főigazgató által – a házelnök egyetértésével – kijelölt, az Országgyűlés Hivatalával szerződéses jogviszonyban álló személy részt vehet, de nem szólalhat fel.
 
-(5) A főigazgató a képviselői megbízatással nem rendelkező háznaggyal azonos javadalmazásban részesül, jogállására egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
+(5) A főigazgató – a tárgyév január 1-jétől december 31-éig terjedő időszakra megállapított – havi alapilletménye a 124/G. § (1) bekezdése szerinti illetményalap 6,2-szerese, egyebekben az állami vezetői juttatásokról szóló Korm. rendelet szerint a minisztert megillető juttatásokra jogosult, és jogállására a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.

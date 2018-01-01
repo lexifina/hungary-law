@@ -1,0 +1,1 @@
+124/M. § A munkáltatói jogkör gyakorlója által – a személyi juttatás előirányzaton belül rendelkezésre álló költségvetési keret terhére – az adott költségvetési évben adható jutalom mértékét – a jubileumi jutalom kivételével – a fejezetet irányító szerv vezetője szabályzatban határozza meg.
