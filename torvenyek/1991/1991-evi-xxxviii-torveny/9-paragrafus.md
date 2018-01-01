@@ -1,1 +1,1 @@
-9. § A minta feltalálójának személyhez fűződő jogaira és a mintaoltalmi igényre egyebekben a szabadalmi törvénynek a feltaláló személyhez fűződő jogaira és a szabadalmi igényre vonatkozó szabályait kell megfelelően alkalmazni.
+9. § A minta feltalálójának személyhez fűződő jogaira, díjazására és a mintaoltalmi igényre egyebekben a szabadalmi törvénynek a feltaláló személyhez fűződő jogaira, díjazására és a szabadalmi igényre vonatkozó szabályait kell megfelelően alkalmazni.

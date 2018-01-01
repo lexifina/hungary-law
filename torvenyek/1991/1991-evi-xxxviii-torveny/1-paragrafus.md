@@ -1,13 +1,9 @@
 ## I. Fejezet
 
-## A HASZNÁLATI MINTAOLTALOM TÁRGYA ÉS TARTALMA
+## A HASZNÁLATIMINTA-OLTALOM TÁRGYA ÉS TARTALMA
 
 ## Az oltalmazható használati minta
 
-1. § (1) Használati mintaoltalomban (a továbbiakban: mintaoltalom) részesülhet valamely tárgy kialakítására, szerkezetére vagy részeinek elrendezésére vonatkozó megoldás (a továbbiakban: minta), ha új, ha feltalálói lépésen alapul és iparilag alkalmazható.
+1. § (1) Használatiminta-oltalomban (a továbbiakban: mintaoltalom) részesülhet valamely tárgy kialakítása, szerkezete vagy részeinek elrendezése (a továbbiakban: minta), ha új, feltalálói lépésen alapul és iparilag alkalmazható.
 
-(2) Az (1) bekezdésnek megfelelően nem részesülhet mintaoltalomban különösen
-
-a) a termék esztétikai kialakítása,
-
-b) növényfajta.
+(2) Az (1) bekezdés szerinti mintának minősül a berendezés és a több – egymással kapcsolatban lévő – eszközből álló rendszer is, nem tartozik azonban a minta fogalmába különösen a termék esztétikai kialakítása, a növényfajta, a vegyi termék és a keverék.

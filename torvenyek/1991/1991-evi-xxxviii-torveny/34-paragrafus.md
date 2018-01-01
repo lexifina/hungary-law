@@ -1,5 +1,1 @@
-## A mintaoltalmi bejelentés vizsgálata
-
-34. § (1) A Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a mintaoltalmi bejelentést abból a szempontból, hogy megfelel-e a 29. § (2)—(4) bekezdésében foglalt követelményeknek.
-
-(2)
+34. § Ha a mintaoltalmi bejelentés megfelel a 33/A. § alapján vizsgált követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala megvizsgálja, hogy a mintaoltalmi bejelentés megfelel-e a 29. § (2) és (3) bekezdésében foglalt követelményeknek.

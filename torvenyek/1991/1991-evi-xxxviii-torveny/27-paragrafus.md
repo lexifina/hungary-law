@@ -1,8 +1,8 @@
-## A közigazgatási hatósági eljárás általános szabályainak alkalmazása
+## Az általános közigazgatási rendtartás szabályainak alkalmazása
 
-27. § (1) A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalmi ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
+27. § (1) A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalmi ügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak.
+(2) A Szellemi Tulajdon Nemzeti Hivatala döntéseivel kapcsolatban nincs helye fellebbezésnek, közigazgatási pernek, felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti ügyészi felhívásnak és fellépésnek.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatalának a mintaoltalmi ügyekben hozott döntéseit a bíróság a 37. §-ban foglaltak szerint vizsgálja felül.
 

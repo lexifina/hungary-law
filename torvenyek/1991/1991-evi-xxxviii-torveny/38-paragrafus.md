@@ -2,14 +2,16 @@
 
 38. § (1) Mintaoltalmi perek:
 
-a) a mintaoltalmi kényszerengedély megadására, módosítására és visszavonására,
+a) a mintaoltalmi kényszerengedély megadása, módosítása és visszavonása iránti perek,
 
-b)
+b) az előhasználati jog fennállásával kapcsolatos perek,
 
-c) az előhasználati jog fennállásával kapcsolatos perek,
+c) a bitorlás miatt indított perek, ideértve a (2) bekezdés b) pontjában szabályozott esetben a mintaoltalom érvénytelenségével kapcsolatos kifogások elbírálását is.
 
-d) a bitorlás miatt indított perek.
+(2) A mintaoltalmi perekre a szabadalmi perek szabályait kell alkalmazni, a következő eltérésekkel:
 
-(2) A mintaoltalmi perekre a szabadalmi perek szabályait kell alkalmazni.
+a) ha a mintaoltalom bitorlása miatt indított perben az alperes a perfelvételt lezáró végzés meghozataláig igazolja, hogy a mintaoltalom megsemmisítése iránt eljárást indított a Szellemi Tulajdon Nemzeti Hivatala előtt, a peres eljárást a bíróság a megsemmisítési eljárás jogerős befejezéséig felfüggeszti, azzal, hogy ha a mintaoltalom jogosultja az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztéséig rá nézve kedvező oltalmazhatósági véleményt nyújt be a bíróságon, a felfüggesztés nem kötelező;
 
-(3) Az (1) bekezdésben nem említett, mintaoltalommal kapcsolatos minden más jogvitás ügyben a törvényszék a szabadalmi jogvitákra irányadó szabályok szerint jár el.
+b) a mintaoltalom bitorlása miatt indított perben az alperesnek a mintaoltalom érvénytelenségére hivatkozó kifogása alapján a bíróság – ha a tárgyalás a) pont szerinti felfüggesztése nem kötelező vagy a felfüggesztés nem indokolt – a mintaoltalom érvényességét is vizsgálja, és ha a mintaoltalom megsemmisítésének feltételei fennállnak, a keresetet elutasítja.
+
+(3) Az (1) bekezdésben nem említett, mintaoltalommal kapcsolatos minden más jogvitás ügyben a bíróság a szabadalmi jogvitákra irányadó szabályok szerint jár el.
