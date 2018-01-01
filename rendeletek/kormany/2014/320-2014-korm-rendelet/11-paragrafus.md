@@ -1,6 +1,6 @@
-## 8. [^39] Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladat- és hatásköre
+## 8. [^45] Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladat- és hatásköre
 
-11. §[^40] (1) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal
+11. §[^46] (1) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal
 
 a) ellátja az álláskeresők nyilvántartásba vételével kapcsolatos feladatokat, valamint az álláskeresési járadék, álláskeresési segély megállapításával, szüneteltetésével, megszüntetésével és visszakövetelésével kapcsolatos, továbbá azokkal a foglalkoztatást elősegítő támogatásokkal kapcsolatos feladatokat, amelyek ellátása nem tartozik az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal hatáskörébe,
 
@@ -28,9 +28,9 @@ l) kapcsolatot tart a megye (főváros), a járás gazdasági életében részt 
 
 m) ellátja a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek végrehajtásával összefüggő feladatokat,
 
-n)[^41] a saját hatáskörben nyújtott álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört gyakorol,
+n)[^47] a saját hatáskörben nyújtott álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört gyakorol,
 
-o)[^42] elsőfokú hatósági jogkört gyakorol a rendbírsággal kapcsolatos ügyben, ha a rendbírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
+o)[^48] elsőfokú hatósági jogkört gyakorol a rendbírsággal kapcsolatos ügyben, ha a rendbírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
 
 (2) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatási feladatai körében
 
@@ -66,7 +66,7 @@ i) feltárja a közfoglalkoztatási munkalehetőségeket,
 
 j) szervezi a közfoglalkoztatást.
 
-[^39]: A 8. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (17) bekezdésével megállapított szöveg.
-[^40]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 258. § (18) bekezdésével megállapított szöveg.
-[^41]: A 11. § (1) bekezdés n) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (2) bekezdése iktatta be.
-[^42]: A 11. § (1) bekezdés o) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^45]: A 8. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (17) bekezdésével megállapított szöveg.
+[^46]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 258. § (18) bekezdésével megállapított szöveg.
+[^47]: A 11. § (1) bekezdés n) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (2) bekezdése iktatta be.
+[^48]: A 11. § (1) bekezdés o) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be.

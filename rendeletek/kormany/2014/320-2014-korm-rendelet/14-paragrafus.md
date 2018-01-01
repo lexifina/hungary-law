@@ -1,27 +1,27 @@
-14. § (1) A miniszter első fokú munkavédelmi hatósági jogkörében
+14. § (1)[^54] A miniszter munkavédelmi hatósági jogkörében
 
-a) ellátja az Mvt. 83. §-ában meghatározott szakértői engedélyezési feladatokat,
+a) ellátja az Mvt. 83. §-ában meghatározott szakértői engedélyezési és nyilvántartási feladatokat,
 
-b) külön jogszabály szerint, szakhatóságként eljárva kiadja az igazságügyi szakértői engedélyhez szükséges szakhatósági állásfoglalásokat,
+b) a munkavállalók rákkeltő anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos megbetegedésekkel szembeni védelmének elősegítése érdekében az Mvt. 83/A. § (4) bekezdésében meghatározott feladatokat látja el, és elektronikus nyilvántartást vezet,
 
-c) a munkavállalók rákkeltő anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos megbetegedésekkel szembeni védelmének elősegítése érdekében az Mvt. 83/A. § (4) bekezdésében meghatározott feladatokat látja el, és nyilvántartást vezet,
+c) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogszabály szerinti eljárásban történő igazolása céljából az Mvt. 83/B. §-ában meghatározott módon és tartalommal hatósági nyilvántartást vezet.
 
-d) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogszabály szerinti eljárásban történő igazolása céljából az Mvt. 83/B. §-ában meghatározott módon és tartalommal hatósági nyilvántartást vezet.
+(2)[^55] A miniszter külön jogszabályban meghatározottak szerint ellátja az Mvt. 84. § (2) bekezdésében meghatározott foglalkozási megbetegedésekkel kapcsolatos feladatokat.
 
-(2) A miniszter a külön jogszabályban meghatározottak szerint közreműködik az Mvt. 84. § (2) bekezdésében meghatározott foglalkozási megbetegedésekkel kapcsolatos feladatok ellátásában.
+(3)[^56] A munkavédelmi hatósági hatáskörben eljáró járási hivatal gyakorolja az Mvt. 81. §-ában meghatározott feladat- és hatásköröket. A munkavédelmi hatósági hatáskörben eljáró járási hivatal ellátja továbbá mindazon munkavédelmi hatósági ellenőrzési feladatokat, amelyeket jogszabály nevesítve feladat- és hatáskörébe utal.
 
-(3)[^48] A munkavédelmi hatósági hatáskörben eljáró járási hivatal gyakorolja az Mvt. 81. §-ában meghatározott feladat- és hatásköröket. A munkavédelmi hatósági hatáskörben eljáró járási hivatal ellátja továbbá mindazon munkavédelmi hatósági ellenőrzési feladatokat, amelyeket jogszabály nevesítve feladat- és hatáskörébe utal.
+(4)[^57] A munkavédelmi bírság kiszabására az a munkavédelmi hatósági hatáskörben eljáró járási hivatal jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
 
-(4)[^49] A munkavédelmi bírság kiszabására első fokon az a munkavédelmi hatósági hatáskörben eljáró járási hivatal jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
+(5)[^58] Az egyéni védőeszközök és a munkaeszközök tekintetében a munkavédelmi hatósági hatáskörben eljáró járási hivatal a munkavédelmi hatósági ellenőrzés során saját hatáskörben látja el a piacfelügyeleti hatósági feladatokat.
 
-(5)[^50] Az egyéni védőeszközök és a munkaeszközök tekintetében a munkavédelmi hatósági hatáskörben eljáró járási hivatal a munkavédelmi hatósági ellenőrzés során saját hatáskörben látja el a piacfelügyeleti hatósági feladatokat.
+(6)[^59] A miniszter által vezetett minisztérium kormánytisztviselője Magyarország területén megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján induló első fokú hatósági eljárás lefolytatására az a munkavédelmi hatóság jogosult, amelynek illetékességi területén az ellenőrzés történt.
 
-(6)[^51] A miniszter által vezetett minisztérium kormánytisztviselője Magyarország területén megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján induló első fokú hatósági eljárás lefolytatására az a munkavédelmi hatóság jogosult, amelynek illetékességi területén az ellenőrzés történt.
+(7)[^60] A munkavédelmi feladatkörében eljáró járási hivatal által lefolytatott hatósági ügyben felügyeleti szervként a miniszter jár el.
 
-(7)[^52] A munkavédelmi feladatkörében eljáró járási hivatal által lefolytatott hatósági ügyben felügyeleti szervként a miniszter jár el.
-
-[^48]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^49]: A 14. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, szövege a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés e) pontja szerint módosított szöveg.
-[^50]: A 14. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, szövege a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés e) pontja szerint módosított szöveg.
-[^51]: A 14. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (27) bekezdés b) pontja szerint módosított szöveg.
-[^52]: A 14. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 283. § (4) bekezdésével megállapított szöveg.
+[^54]: A 14. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 515. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^55]: A 14. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 515. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^56]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^57]: A 14. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, szövege a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés e) pontja, a 457/2017. (XII. 28.) Korm. rendelet 516. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^58]: A 14. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, szövege a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés e) pontja szerint módosított szöveg.
+[^59]: A 14. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (27) bekezdés b) pontja szerint módosított szöveg.
+[^60]: A 14. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 283. § (4) bekezdésével megállapított szöveg.

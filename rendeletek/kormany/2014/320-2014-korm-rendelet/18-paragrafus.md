@@ -12,7 +12,7 @@ b) foglalkoztatásra irányuló jogviszonyt nem létesíthet.
 
 (4) A (3) bekezdés szerinti jogok és kötelezettségek átszállása az NMH-val szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással szerződésszegési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
 
-(5)[^60]
+(5)[^69]
 
 (6) A 2014. december 31-én még fennálló, továbbá az NMH megszűnésével kapcsolatban keletkező számviteli és adózási kötelezettségeket az NMH által átadott iratok alapján a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium teljesíti.
 
@@ -24,12 +24,12 @@ b) foglalkoztatásra irányuló jogviszonyt nem létesíthet.
 
 (10) Az NMH megszűnésével a KEK KH-hoz kerülő személyi állomány munkavégzéséhez szükséges informatikai-telekommunikációs eszközökhöz kapcsolódó vagyonkezelői jogok és kötelezettségek az NMH megszűnését követően a KEK KH-t illetik meg.
 
-(11)[^61] A NISZ Zrt. az informatikai szakmai rendszerekből és adatbázisokból térítésmentesen szolgáltat adatot a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium részére.
+(11)[^70] A NISZ Zrt. az informatikai szakmai rendszerekből és adatbázisokból térítésmentesen szolgáltat adatot a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium részére.
 
 (12) A foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium és a közfoglalkoztatásért felelős miniszter által vezetett minisztérium a munkaügyi és munkavédelmi ellenőrzési, valamint a szak- és felnőttképzési szakterületet támogató, e területek munkavégzéséhez szükséges informatikai szakmai rendszerek, adatbázisok leválasztásáról, az ezekhez kapcsolódó vagyonkezelői jogokról és kötelezettségekről 2015. március 31. napjáig külön megállapodásban rendelkezik.
 
-(13)[^62]
+(13)[^71]
 
-[^60]: A 18. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés d) pontja hatályon kívül helyezte.
-[^61]: A 18. § (11) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés g) pontja szerint módosított szöveg.
-[^62]: A 18. § (13) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés d) pontja hatályon kívül helyezte.
+[^69]: A 18. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés d) pontja hatályon kívül helyezte.
+[^70]: A 18. § (11) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^71]: A 18. § (13) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés d) pontja hatályon kívül helyezte.
