@@ -20,11 +20,11 @@
 
 7. tűzvédelmi hatósági eljárások,
 
-8.[^6]
+8.[^7]
 
 9. útügyi hatósági eljárások,
 
-10.[^7] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+10.[^8] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 11. műszaki biztonsági engedélyezési eljárások,
 
@@ -48,5 +48,5 @@
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^6]: Az 1. melléklet 8. sorát a 271/2016. (IX. 1.) Korm. rendelet 55. § (3) bekezdése hatályon kívül helyezte.
-[^7]: Az 1. melléklet 10. pontja a 380/2016. (XII. 2.) Korm. rendelet 73. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: Az 1. melléklet 8. sorát a 271/2016. (IX. 1.) Korm. rendelet 55. § (3) bekezdése hatályon kívül helyezte.
+[^8]: Az 1. melléklet 10. pontja a 380/2016. (XII. 2.) Korm. rendelet 73. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
