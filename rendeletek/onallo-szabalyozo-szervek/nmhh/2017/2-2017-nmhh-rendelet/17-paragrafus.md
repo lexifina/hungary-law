@@ -18,7 +18,7 @@ c) a rádióberendezést hívja vissza.
 
 (6) A gazdasági szereplő köteles megtenni a szükséges kiigazító intézkedéseket az általa forgalmazott rádióberendezés tekintetében.
 
-(7) Ha az érintett gazdasági szereplő a (2) bekezdésben foglalt felhívást a (4) bekezdés szerinti határidőben nem teljesíti, a piacfelügyeleti hatóság az Eht.-ban, valamint a termékek piacfelügyeletéről szóló törvényben meghatározott jogkövetkezmények alkalmazásával, hatósági határozatában minden szükséges átmeneti intézkedést meghoz a rádióberendezés betiltására, korlátozására, forgalomból történő kivonására vagy visszahívására. A piacfelügyeleti hatóság a jogerős és végrehajtható átmeneti intézkedésekről haladéktalanul tájékoztatja az Európai Bizottságot és az Európai Unió többi tagállamát.
+(7)[^1] Ha az érintett gazdasági szereplő a (2) bekezdésben foglalt felhívást a (4) bekezdés szerinti határidőben nem teljesíti, a piacfelügyeleti hatóság az Eht.-ban, valamint a termékek piacfelügyeletéről szóló törvényben meghatározott jogkövetkezmények alkalmazásával, hatósági határozatában minden szükséges átmeneti intézkedést meghoz a rádióberendezés betiltására, korlátozására, forgalomból történő kivonására vagy visszahívására. A piacfelügyeleti hatóság a véglegessé vált és végrehajtható átmeneti intézkedésekről haladéktalanul tájékoztatja az Európai Bizottságot és az Európai Unió többi tagállamát.
 
 (8) A piacfelügyeleti hatóság a (7) bekezdés szerinti tájékoztatásban megadja az összes rendelkezésre álló adatot, különösen az e rendeletnek nem megfelelő rádióberendezés azonosításához szükséges adatokat, a rádióberendezés származási helyét, a feltárt jogsértést és a felmerülő kockázatot, az alkalmazott jogkövetkezményeket, valamint az érintett gazdasági szereplő eljárás során kifejtett álláspontját. A piacfelügyeleti hatóság a tájékoztatásban jelzi, ha a megfelelés hiánya az alábbiakban felsoroltak valamelyike miatt következett be:
 
@@ -31,3 +31,5 @@ b) a megfelelőség vélelmezését megalapozó, hivatkozott harmonizált szabv�
 (10) Ha a (7) bekezdés szerinti átmeneti intézkedés ellen az Európai Bizottság vagy az Európai Unió valamely tagállama kifogást emel, akkor az Európai Bizottság erre vonatkozó határozata alapján a piacfelügyeleti hatóság az átmeneti intézkedést visszavonja.
 
 (11) Ha valamely más tagállam illetékes piacfelügyeleti hatósága a (7) bekezdés szerinti átmeneti intézkedésről küld értesítést és az átmeneti intézkedést a (9) bekezdés alapján elfogadottnak kell tekinteni, a piacfelügyeleti hatóság gondoskodik az értesítésben szereplő, a 765/2008/EK rendelet 21. cikke szerinti korlátozó intézkedés haladéktalan meghozataláról.
+
+[^1]: A 17. § (7) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 15. §-a szerint módosított szöveg.
