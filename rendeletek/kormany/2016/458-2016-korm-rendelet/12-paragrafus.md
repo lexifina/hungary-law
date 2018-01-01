@@ -1,11 +1,10 @@
-## 7–11. §[^6]
+## 7–11. §[^7]
 
 ## 12. § Hatályát veszti a Vet. Vhr.
 
-a)[^7]
+a)[^8]
 
-b)[^8]
+b) 81/A. § (6) bekezdése.
 
-[^6]: A 7–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 12. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 12. § b) pontja a 31. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^7]: A 7–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 12. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
