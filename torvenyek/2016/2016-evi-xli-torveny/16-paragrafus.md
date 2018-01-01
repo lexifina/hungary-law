@@ -2,4 +2,4 @@
 
 (2) Az 1., 3., 12. és 17. § 2016. október 1-jén lép hatályba.
 
-(3) A 15. § a) pontja 2019. január 1-jén lép hatályba.
+(3)
