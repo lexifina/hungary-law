@@ -1,0 +1,5 @@
+9. § (1) A munkáltató legkésőbb a megállapodás előzetes engedélyezésével egyidejűleg dönt az esetlegesen a 7. § b) vagy c) pontja alapján benyújtott kérelem tárgyában. Ha a munkáltató a kérelmet elutasítja, de a megállapodás előzetes engedélyezése tárgyában még nem hozott döntést, akkor a foglalkoztatottat nyilatkoztatni kell arról, hogy a megállapodás előzetes engedélyezését továbbra is kéri-e. Ha a foglalkoztatott nem tesz nyilatkozatot, vagy a nyilatkoztatására valamely okból nem kerülhet sor, úgy kell tekinteni, hogy az engedélyezést továbbra is kéri.
+
+(2) A munkáltató a megállapodás előzetes engedélyezéséről legkésőbb a megállapodástervezet foglalkoztatott általi benyújtásától számított 25 napon belül, írásban dönt.
+
+(3) Ha a munkáltató engedélyezte a megállapodás megkötését, a foglalkoztatott haladéktalanul köteles tájékoztatni a munkáltatót a megállapodás megkötéséről, vagy ha attól valamelyik fél időközben eláll, ennek tényéről, továbbá arról, ha a nemzetközi közigazgatási szakértői tevékenysége bármely okból befejeződött.
