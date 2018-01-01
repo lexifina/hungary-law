@@ -1,0 +1,5 @@
+6. § (1) A nyilvántartásba bejegyzett általános meghatalmazásokat a bejegyzések időrendjéhez igazodó sorszámmal kell ellátni. A sorszám tartalmazza az adott általános meghatalmazás nyilvántartásba történő bejegyzésének időpontjához igazodó folyószámot, valamint ahhoz a „/” jellel kapcsolva a bejegyzés időpontja szerinti évszámot. A folyószámozás az új év első napjához kötődő fordulónappal – az 1. sorszámmal kezdődően – évenként újraindul.
+
+(2) Egyéni ügyvéd meghatalmazott esetében a nyilvántartásban a kamarai névjegyzék szerinti családi és utónevet kell feltüntetni.
+
+(3) Egyéni ügyvéd, európai közösségi jogász, kamarai jogtanácsos, valamint egyéb kötelező jogi képviselet ellátására jogosult természetes személy meghatalmazott esetében a nyilvántartásban lakóhelyadat helyett székhelyadatot kell feltüntetni. Kamarai jogtanácsos esetében a nyilvántartásban székhelyadatként a kamarai jogtanácsos munkáltatójának székhelyét, egyéb kötelező jogi képviselet ellátására jogosult természetes személy meghatalmazott esetében irodahelyisége címét kell feltüntetni.
