@@ -12,10 +12,10 @@ d) ha a 40/C. § (2) bekezdés e) pontja alkalmazásának van helye, akkor az é
 
 e) az olyan értékesített áru, telek vagy más ingatlan értékesítéskori könyv szerinti értékével, amely csak azért nem minősül az (1) bekezdés szerinti kereskedelmi árunak, mert nem a szokásos tevékenység keretében értékesítik,
 
-f) a kereskedelmi áru beszerzésével összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az IFRS-ek szerint az áru beszerzési értékét csökkenteni kell.
+f)
 
 (3) Az (1) bekezdés szerinti könyv szerinti értéket az adóévben csökkenteni kell:
 
 a) az adóévet megelőző adóév(ek)ben a (2) bekezdés d) pontja szerint a könyv szerinti érték növeléseként már figyelembe vett összeggel, ha az IFRS-ek alkalmazásából az következik, hogy az az adóévben az (1)–(2) bekezdés szerint a könyv szerinti érték összegét növeli,
 
-b) a kereskedelmi áru beszerzésével összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az IFRS-ek szerint az áru beszerzési értékét növelni kell.
+b)

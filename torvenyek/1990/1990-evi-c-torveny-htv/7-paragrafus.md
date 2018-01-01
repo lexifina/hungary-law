@@ -1,8 +1,8 @@
 7. § Az önkormányzat adómegállapítási jogát korlátozza az, hogy:
 
-a) az adóalanyt egy meghatározott adótárgy esetében csak egyféle — az önkormányzat döntése szerinti — adó fizetésére kötelezheti,
+a) az adóalanyt egy meghatározott adótárgy (épület, épületrész, telek) esetében csak egyféle — az önkormányzat döntése szerinti — adó fizetésére kötelezheti,
 
-b) a vagyoni típusú adók körében az adót egységesen – tételes összegben vagy a korrigált forgalmi érték alapulvételével – határozhatja meg,
+b) a vagyoni típusú adók körében az épület, épületrész és telek utáni adót egységesen – tételes összegben vagy a korrigált forgalmi érték alapulvételével – határozhatja meg,
 
 c) az általa bevezetett adó mértékeként nem állapíthat meg többet az adómaximumnál,
 
@@ -18,6 +18,6 @@ h) ha az adó mértékét határozott időre állapítja meg, akkor azt az adóa
 
 ha) a határozott időszak első két naptári évében nem növelheti,
 
-hb) a határozott időszak harmadik naptári évétől vagy az azt követően kezdődő naptári évtől, a határozott időszak letelte előtt csak akkor növelheti, ha a naptári évet megelőző naptári év első tíz hónapjában az adott adónemben bevallott, kivetett adóból származó bevétel nem éri el a naptári évet megelőző második naptári év első tíz hónapjában bevallott, kivetett adóból származó bevétel (a továbbiakban: viszonyítási bevétel) 70%-át, azzal, hogy a naptári évtől hatályos adómérték ekkor sem haladhatja meg a határozott időre rögzített adómérték 130%-át,
+hb) a határozott időszak harmadik naptári évétől vagy az azt követően kezdődő naptári évtől, a határozott időszak letelte előtt – ide nem értve a 6. § f) pontja szerinti esetet – csak akkor növelheti, ha a naptári évet megelőző naptári év első tíz hónapjában az adott adónemben bevallott, kivetett adóból származó bevétel nem éri el a naptári évet megelőző második naptári év első tíz hónapjában bevallott, kivetett adóból származó bevétel (a továbbiakban: viszonyítási bevétel) 70%-át, azzal, hogy a naptári évtől hatályos adómérték ekkor sem haladhatja meg a határozott időre rögzített adómérték 130%-át,
 
 i) ha a h) pont hb) alpont alkalmazásával az adó mértékét növelte, akkor az adó mértékét a határozott időszakra eredetileg megállapított adómértékkel egyező mértékben kell megállapítani azon naptári évtől kezdődően, amelyet megelőző – és a h) pont hb) alpont alkalmazását követő – naptári év első tíz hónapjában az adott adónemben bevallott, kivetett adóból származó bevétel eléri a viszonyítási bevételt.

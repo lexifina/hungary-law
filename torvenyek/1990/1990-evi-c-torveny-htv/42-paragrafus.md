@@ -1,6 +1,6 @@
 42. § (1)
 
-(2) Az adóelőleg és az adó megfizetésének esedékességét az adózás rendjéről szóló törvény állapítja meg.
+(2)
 
 (3)
 

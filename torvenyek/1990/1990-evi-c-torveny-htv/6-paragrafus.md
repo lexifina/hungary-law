@@ -8,6 +8,6 @@ c) az adó mértékét – az e törvényben meghatározott felső határokra, i
 
 d) az e törvény második részében meghatározott mentességeket, kedvezményeket további mentességekkel, kedvezményekkel, így különösen a lakások esetében a lakásban lakóhellyel rendelkező eltartottak számától, a lakáson fennálló, hitelintézet által lakásvásárlásra, lakásépítésre nyújtott hitel biztosítékául szolgáló jelzálogjog fennállásától, a lakásban lakóhellyel rendelkezők jövedelmétől függő mentességekkel, kedvezményekkel kibővítse,
 
-e) e törvény és az adózás rendjéről szóló törvény keretei között az adózás részletes szabályait meghatározza,
+e) e törvény és az adózás rendjéről szóló törvény, valamint az adóigazgatási rendtartásról szóló törvény keretei között az adózás részletes szabályait meghatározza,
 
 f) ha az adó mértékét határozott időre állapította meg, akkor a határozott időszak harmadik naptári évétől vagy az azt követően kezdődő naptári évtől, a határozott időszak letelte előtt az adó mértékét növelheti, ha a naptári évet megelőző naptári év első tíz hónapjában az adott adónemben bevallott, kivetett adóból származó bevétel nem éri el a naptári évet megelőző második naptári év első tíz hónapjában bevallott, kivetett adóból származó bevétel 50%-át.

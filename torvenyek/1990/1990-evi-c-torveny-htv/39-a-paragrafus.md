@@ -12,6 +12,6 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (3) Az (1) bekezdés b) pontja szerinti vállalkozó esetében az adó alapja a nettó árbevételének 80 százaléka.
 
-(4) Ha az adóévben a személyi jövedelemadóról szóló törvény szerinti átalányadózásra való jogosultság nem munkaviszony létesítése miatt szűnik meg, akkor az adó alapját – az adóév egészére – a 39. § (1) bekezdése szerint kell megállapítani. Ha az (1) bekezdés a) pontjában említett magánszemély vállalkozó a személyi jövedelemadóról szóló törvény szerinti átalányadózásra való jogosultságát munkaviszony létesítése miatt úgy veszíti el, hogy az adóévben elért árbevétele a 8 millió forintot nem haladja meg, az iparűzési adójának alapját ebben az adóévben a (3) bekezdés alkalmazásával is megállapíthatja.
+(4) Ha az adóévben a személyi jövedelemadóról szóló törvény szerinti átalányadózásra való jogosultság megszűnik vagy a vállalkozó az átalányadózást megszünteti, akkor az adó alapját – az adóév egészére – a 39. § (1) bekezdése vagy az adózó döntésétől függően a (3) bekezdés szerint kell megállapítani.
 
 (5) Az adó alapjának (2) vagy (3) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést legkésőbb az adóévről szóló bevallás benyújtására előírt határidőig kell megtenni az adóhatóságnál.
