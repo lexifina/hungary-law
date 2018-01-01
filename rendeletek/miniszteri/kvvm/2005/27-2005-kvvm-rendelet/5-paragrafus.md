@@ -1,1 +1,0 @@
-## 4. § Az önellenőrzésre köteles kibocsátó az üzemnaplót évente folyamatosan köteles vezetni. A hatóság az üzemnapló vezetését ellenőrzi és amennyiben megállapítja, hogy az nem felel meg a jogszabály által előírt tartalmi követelményeknek, az üzemeltetőt a hiányosságok megszüntetésére kötelezi.

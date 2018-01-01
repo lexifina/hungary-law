@@ -1,23 +1,24 @@
-6/A. §[^6] (1) Az ellenőrzésre jogosult méréssel egybekötött helyszíni ellenőrzést végez a (2) bekezdésben meghatározott esetekben, illetve rendszerességgel. Az egységes környezethasználati engedéllyel rendelkező környezethasználókat érintő (2) bekezdés szerinti ellenőrzések összevonhatóak.
+## 6. §[^5]
 
-(2) Az ellenőrzésre jogosult
+6/A. §[^6] (1) Az ellenőrzésre jogosult figyelemmel kíséri
 
-a) évente ellenőrzi
+a) az Fvr. 1. számú melléklet B) és E) pontjában meghatározott anyagok és anyagcsoportok valamelyikét kibocsátó környezethasználó,
 
-aa) az Fvr. 1. számú melléklet B) és E) pontjában meghatározott anyagok és anyagcsoportok valamelyikét kibocsátó környezethasználót,
+b) az egységes környezethasználati engedéllyel rendelkező környezethasználó
 
-ab) az egységes környezethasználati engedéllyel rendelkező környezethasználót,
+## tevékenységét.
 
-b) az alábbi feltételek fennállását követő egy éven belül helyszíni ellenőrzést tart az egységes környezethasználati engedéllyel rendelkező környezethasználók esetében:
+(2) Az ellenőrzésre jogosult fokozott figyelemmel kíséri az egységes környezethasználati engedéllyel rendelkező környezethasználó tevékenységét, ha
 
-ba) a tárgyi évet megelőző évben a létesítmény nem megfelelő működése következtében a vizekre káros hatású esemény, veszélyeztetés vagy szennyezés történt,
+a) a tárgyi évet megelőző évben a létesítmény nem megfelelő működése következtében a vizekre káros hatású esemény, veszélyeztetés vagy szennyezés történt,
 
-bb) a tárgyi évet megelőző évben a létesítmény az egységes környezethasználati engedélyben meghatározott vízvédelmi feltételek valamelyikét nem teljesítette,
+b) a tárgyi évet megelőző évben a létesítmény az egységes környezethasználati engedélyben meghatározott vízvédelmi feltételek valamelyikét nem teljesítette,
 
-bc) a tárgyi évet megelőző évben a korábban vízvédelmi okból felfüggesztett tevékenység újraindult,
+c) a tárgyi évet megelőző évben a korábban vízvédelmi okból felfüggesztett tevékenység újraindult,
 
-bd) a létesítmény vízbázis védőterületén működik.
+d) a létesítmény vízbázis védőterületén működik.
 
-(3) Az ellenőrzésre jogosult kétévente helyszíni ellenőrzést tart a 100 000 LE feletti kommunális szennyvíztisztító telepek, valamint a szennyezés csökkentési ütemtervvel rendelkező kibocsátók esetében.
+(3) Az ellenőrzésre jogosult a 100 000 LE feletti kommunális szennyvíztisztító telepek, valamint a szennyezés csökkentési ütemtervvel rendelkező kibocsátók tevékenységét legalább kétéves rendszerességgel vizsgálhatja.
 
-[^6]: A 6/A. §-t a 11/2015. (III. 31.) BM rendelet 5. § (1) bekezdése iktatta be.
+[^5]: A 6. §-t a 44/2017. (XII. 29.) BM rendelet 21. § (6) bekezdés b) pontja hatályon kívül helyezte.
+[^6]: A 6/A. §-t a 11/2015. (III. 31.) BM rendelet 5. § (1) bekezdése iktatta be, szövege a 44/2017. (XII. 29.) BM rendelet 21. § (1) bekezdésével megállapított szöveg.
