@@ -1,4 +1,4 @@
-5. § (1) A jogi szolgáltatás díját a fél helyett az állam viseli, ha a fél rendelkezésre álló havi nettó jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása), nem haladja meg a munkaviszony alapján megállapított öregségi nyugdíj mindenkori legkisebb összegét (a továbbiakban: nyugdíjminimum), vagyona pedig – a 9. §-ban foglaltak figyelembevételével – nincs.
+5. § (1) A jogi szolgáltatás díját a fél helyett az állam viseli, ha a fél rendelkezésre álló havi nettó jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása), nem haladja meg az öregségi teljes nyugdíj mindenkori legkisebb összegét (a továbbiakban: nyugdíjminimum), vagyona pedig – a 9. §-ban foglaltak figyelembevételével – nincs.
 
 (2) Jövedelmi és vagyoni helyzetére tekintet nélkül rászorultnak tekintendő az a fél, aki
 

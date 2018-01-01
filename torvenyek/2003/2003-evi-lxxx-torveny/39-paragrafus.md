@@ -1,10 +1,10 @@
 ## Egyéb eljárási szabályok
 
-39. § (1)
+39. § (1) Az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.
 
-(2) Azonnali jogvédelem iránti eljárás kezdeményezésének kell tekinteni a fél kérelmét, ha abból az állapítható meg, hogy a támogatásnak a kérelem előterjesztését követő haladéktalan, de legfeljebb 8 napon belül történő igénybevétele nélkül a fél valamely jognyilatkozat megtételére előírt határidőt elmulasztaná, vagy a támogatás haladéktalan igénybevételét az ügy természete indokolja.
+(2) Azonnali jogvédelem iránti eljárás kezdeményezésének kell tekinteni a fél kérelmét, ha abból az állapítható meg, hogy a támogatásnak a kérelem előterjesztését követő haladéktalan, de legfeljebb nyolc napon belül történő igénybevétele nélkül a fél valamely jognyilatkozat megtételére előírt határidőt elmulasztaná, vagy a támogatás haladéktalan igénybevételét az ügy természete indokolja.
 
-(3) Az e törvény szerinti eljárásban nem illeti meg az ügyfél joga azt a bíróságot és hatóságot, amelynek eljárásában vagy azzal kapcsolatban a támogatást nyújtják.
+(3)
 
 (4) A támogatással kapcsolatos eljárásban – a támogatás visszatérítését kivéve – jogutódlásnak nincs helye.
 
@@ -30,4 +30,4 @@ e) ha e törvény kifejezetten így rendelkezik.
 
 (10) A tolmácsolási és fordítási díj megfizetésére a támogatás visszatérítésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(11)
+(11) Az e törvény hatálya alá tartozó közigazgatási hatósági ügyekben nincs helye fellebbezésnek.

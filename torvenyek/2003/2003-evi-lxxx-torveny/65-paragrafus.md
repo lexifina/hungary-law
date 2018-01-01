@@ -2,7 +2,7 @@
 
 a) nevét (szervezet esetében képviselőjének nevét is),
 
-b) irodájának, alirodájának címét, telefonszámát,
+b) irodájának, alirodájának, fiókirodájának címét, telefonszámát,
 
 c) ügyvédi kamarai tagságát,
 

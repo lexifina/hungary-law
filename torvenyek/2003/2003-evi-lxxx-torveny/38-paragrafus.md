@@ -2,4 +2,4 @@
 
 (2) A támogatást a jogi segítségnyújtó szolgálat által kezelt, „Jogi segítségnyújtás” elnevezésű célelőirányzat (a továbbiakban: célelőirányzat) javára kell megfizetni: a jogi segítségnyújtó szolgálat a célelőirányzat felhasználásáról negyedévente tájékoztatja a minisztert.
 
-(3) A vissza nem térített támogatás adók módjára behajtandó köztartozásnak minősül, a teljesítés elmulasztása esetén a jogi segítségnyújtó szolgálat megkeresi a tartozás összegének behajtására hatáskörrel rendelkező szervet.
+(3)

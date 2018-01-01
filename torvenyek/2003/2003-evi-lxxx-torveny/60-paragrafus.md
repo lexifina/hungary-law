@@ -12,6 +12,6 @@
 
 (6) Az e § szerinti eljárás illeték- és díjfizetési kötelezettséggel nem jár, de a fordítási költségeket a fél köteles visszatéríteni, ha a jogi segítségnyújtás iránti kérelmét a másik tagállam hatósága elutasította.
 
-(7) A fél köteles a másik tagállam hatóságának a jogi segítségnyújtás engedélyezése tárgyában hozott jogerős határozatát a kézhezvételt követő 30 napon belül benyújtani a jogi segítségnyújtó szolgálatnak. E határidő elmulasztása esetén a fél a fordítási költségek után a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 132. §-a szerinti késedelmi pótlékot köteles fizetni.
+(7) A fél köteles a másik tagállam hatóságának a jogi segítségnyújtás engedélyezése tárgyában hozott jogerős határozatát a kézhezvételt követő 30 napon belül benyújtani a jogi segítségnyújtó szolgálatnak. E határidő elmulasztása esetén a fél a fordítási költségek után az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 135. §-a szerinti késedelmi pótlékot köteles fizetni.
 
 (8) A fordítási költséget a jogi segítségnyújtó szolgálat a célelőirányzat terhére előlegezi meg; annak visszatérítése és a késedelmi pótlék megfizetése pedig a célelőirányzat javára történik.

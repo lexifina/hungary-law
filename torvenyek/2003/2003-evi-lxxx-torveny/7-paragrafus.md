@@ -4,4 +4,4 @@
 
 a) jogszabály alapján általuk fizetendő tartásdíj vagy járadék összegét, és
 
-b) lakás vásárlásához, felújításához, építéséhez pénzintézet (munkáltató) által folyósított hitel havi törlesztő-részletének az általuk fizetett összegét, ha a lakás a hitel felvételekor megfelelt a méltányolható lakásigény külön jogszabályban meghatározott feltételeinek.
+b) lakás vásárlásához, felújításához, építéséhez pénzintézet (munkáltató) által folyósított hitel havi törlesztő-részletének az általuk fizetett összegét, ha a lakás a hitel felvételekor megfelelt a méltányolható lakásigénynek a lakáscélú állami támogatásokról szóló jogszabályban meghatározott feltételeinek.

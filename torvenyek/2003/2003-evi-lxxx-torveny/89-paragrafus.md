@@ -8,4 +8,6 @@ c) a harmadik országok illegálisan tartózkodó állampolgárainak visszatér�
 
 d) a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv;
 
-e) a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv.
+e) a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv;
+
+f) a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelv 24. és 26. cikke.

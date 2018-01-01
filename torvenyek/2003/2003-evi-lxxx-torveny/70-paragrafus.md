@@ -1,6 +1,6 @@
 70. § (1) A jogi segítő – ha annak e törvényben foglalt feltételei fennállnak – a szolgáltatási szerződésben megjelölt időszakban és szakterületen köteles a fél számára jogi szolgáltatást nyújtani, kivéve, ha
 
-a) a közreműködést mint ügyvéd is köteles lenne megtagadni az ügyvédekről szóló törvény alapján, vagy a reá vonatkozó etikai szabályzat értelmében,
+a) a közreműködést mint ügyvéd is köteles lenne megtagadni az ügyvédi tevékenységről szóló törvény alapján, vagy a reá vonatkozó etikai szabályzat értelmében,
 
 b) már teljesítette a közreműködési kötelezettségét a szolgáltatási szerződésben meghatározott számú ügyben, illetve a jogi szolgáltatás nyújtása nem tartozik a szolgáltatási szerződésben meghatározott szakterületébe, vagy
 

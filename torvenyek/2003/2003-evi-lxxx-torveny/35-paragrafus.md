@@ -1,3 +1,3 @@
 35. § (1) A jogi segítségnyújtó szolgálat a nyilvántartásban rögzített adatokat a támogatás iránti kérelem előterjesztéstől számított 10 évig tartja nyilván és kezeli, továbbá köteles azokat megvédeni a jogosultatlan hozzáférés, nyilvánosságra hozás vagy jogszabályellenes felhasználás ellen.
 
-(2) A jogi segítségnyújtó szolgálat a nyilvántartás adataiból megkeresésre tájékoztatást ad a büntető- vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyész vagy nyomozó hatóság, a bírósági és közigazgatási végrehajtást foganatosító hatóság részére, valamint a 43. § (3) bekezdésében foglalt esetben a jogi segítő számára.
+(2) A jogi segítségnyújtó szolgálat a nyilvántartás adataiból megkeresésre tájékoztatást ad a büntető-, közigazgatási vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyész vagy nyomozó hatóság, a bírósági és közigazgatási végrehajtást foganatosító hatóság részére, valamint a 43. § (3) bekezdésében foglalt esetben a jogi segítő számára.

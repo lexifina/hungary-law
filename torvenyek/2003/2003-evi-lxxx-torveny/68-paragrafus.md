@@ -1,8 +1,8 @@
 ## A jogi segítő közreműködési kötelezettsége
 
-68. § (1) Jogi segítőként a névjegyzékben szereplő ügyvéd és a jogi segítő szervezet megbízásából vagy alkalmazásában tevékenykedő ügyvéd vagy jogtanácsos olyan jogi szolgáltatások nyújtását végezheti, amely a tevékenységére vonatkozó jogszabályok alapján hatáskörébe tartozik, és e jogszabályok irányadóak a jogi szolgáltatás nyújtásáért fennálló szakmai, etikai, fegyelmi és anyagi felelősségére is.
+68. § (1) Jogi segítőként a névjegyzékben szereplő ügyvéd és a jogi segítő szervezet megbízásából tevékenykedő ügyvéd olyan jogi szolgáltatások nyújtását végezheti, amely a tevékenységére vonatkozó jogszabályok alapján hatáskörébe tartozik, és e jogszabályok irányadóak a jogi szolgáltatás nyújtásáért fennálló szakmai, etikai, fegyelmi és anyagi felelősségére is.
 
-(2) Pártfogó ügyvédi képviseletet polgári eljárásban a névjegyzékben szereplő ügyvéd és – a (3) bekezdésben foglalt kivétellel – jogi segítő szervezet láthat el, amennyiben rendelkezik a bíróságokkal való elektronikus kapcsolattartáshoz szükséges technikai feltételekkel. A névjegyzékben szereplő jogi segítő szervezet büntetőeljárásban akkor láthatja el a sértett pártfogó ügyvédi képviseletét, ha megfelel a Be. 58. § (3) bekezdésében meghatározott feltételeknek, egyéb személyek pártfogó ügyvédjeként büntetőeljárásban nem járhat el.
+(2) Pártfogó ügyvédi képviseletet polgári és közigazgatási eljárásban a névjegyzékben szereplő ügyvéd és – a (3) bekezdésben foglalt kivétellel – jogi segítő szervezet láthat el, amennyiben rendelkezik a bíróságokkal való elektronikus kapcsolattartáshoz szükséges technikai feltételekkel. A névjegyzékben szereplő jogi segítő szervezet büntetőeljárásban akkor láthatja el a sértett pártfogó ügyvédi képviseletét, ha megfelel a Be. 58. § (3) bekezdésében meghatározott feltételeknek, egyéb személyek pártfogó ügyvédjeként büntetőeljárásban nem járhat el.
 
 (3) Ha az egyetem a jogi segítői tevékenységének folytatására nem rendelkezik ügyvéd megbízottal, jogi segítői tevékenységére e törvény rendelkezései a következő eltérésekkel alkalmazandók:
 
@@ -16,6 +16,4 @@ bb) a személyiségi jogi jogsértés miatt járó sérelemdíj megfizetésére 
 
 c) a jogi szolgáltatás nyújtását a szervezeti egységet vezető oktató felügyelete mellett jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktató végezheti.
 
-(4) A jogi segítségnyújtást jogtanácsos útján végző jogi segítő szervezet esetében megfelelően alkalmazni kell a (3) bekezdés b) pontjában foglaltakat.
-
-(5) A jogi segítségnyújtást jogtanácsos útján végző jogi segítő szervezet polgári, közigazgatási, munkaügyi perekben és nemperes eljárásokban is elláthatja a fél jogi képviseletét.
+(4)–(5)

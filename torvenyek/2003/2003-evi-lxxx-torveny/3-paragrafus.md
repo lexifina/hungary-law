@@ -16,7 +16,7 @@ f) abban a kérdésben van szüksége a jogi tanácsadásra, hogy jogainak véde
 
 g) bűncselekmény áldozata és a bűncselekménnyel okozott kár, illetve a bűncselekménnyel összefüggésben keletkezett jog- vagy érdeksérelem elhárításához szükséges eljárás megindításához jogi segítő szakjogászi tanácsadására vagy beadvány (kereset, kérelem, feljelentés, vádindítvány stb.) szerkesztésére van szüksége,
 
-h) polgári vagy büntetőeljárásban rendkívüli jogorvoslati kérelem elkészítéséhez kér segítséget,
+h) polgári, közigazgatási vagy büntetőügyben rendkívüli jogorvoslati kérelem előkészítéséhez kér segítséget,
 
 i) átmeneti vagy tartós nevelésből kikerült fiatal felnőtt tartós lakhatásának, első lakáshoz jutásának elősegítése érdekében okiratszerkesztésre van szükség,
 
@@ -32,7 +32,7 @@ b) jogi tanácsadásra a következő területeken:
 
 1. pénzintézet által folyósított kölcsön felvételének feltételei,
 
-2. olyan jogügylet tárgyában, amelyben a jognyilatkozatot csak ügyvéd által ellenjegyzett okiratba vagy közjegyzői okiratba foglaltan lehet tenni, kivéve, ha a jogügylet a fél és családja lakhatását szolgáló ingatlan elidegenítése vagy megterhelése,
+2. olyan jogügylet tárgyában, amelyben a jognyilatkozatot csak ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba vagy közjegyzői okiratba foglaltan lehet tenni, kivéve, ha a jogügylet a fél és családja lakhatását szolgáló ingatlan elidegenítése vagy megterhelése,
 
 c)
 

@@ -2,7 +2,7 @@
 
 a) a 4. § (1) bekezdése szerinti feltételeknek megfelelő fél;
 
-b) a menekültügyi eljárásban hozott határozat bírósági felülvizsgálata iránt kérelmet benyújtó személy;
+b) a menekültügyi eljárásban hozott határozatot bíróság előtt megtámadó személy;
 
 c) külföldi fél olyan perben, amelyben tárgyi költségfeljegyzési jog áll fenn;
 

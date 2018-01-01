@@ -14,4 +14,4 @@ d) a támogatás visszatérítésére kötelezés,
 
 e)
 
-(3) A jogi segítségnyújtó szolgálat a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasított személy jogerős kiutasító határozat elleni bírósági felülvizsgálati kérelem előterjesztéséhez szükséges jogi segítségnyújtás iránti kérelméről lehetőség szerint azonnal, de legkésőbb a kérelem beérkezését követő munkanapon dönt.
+(3) A jogi segítségnyújtó szolgálat a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasított személy véglegessé vált kiutasító határozat bíróság előtti megtámadásához szükséges jogi segítségnyújtás iránti kérelméről lehetőség szerint azonnal, de legkésőbb a kérelem beérkezését követő munkanapon dönt.

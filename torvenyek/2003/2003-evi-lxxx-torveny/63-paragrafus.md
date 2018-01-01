@@ -32,7 +32,7 @@ c) a támogatás hatályát.
 
 (6) A fél adatváltozás-bejelentési kötelezettsége a büntetőeljárás megszüntetéséig, a vádemelés részbeni mellőzéséig vagy az eljárás jogerős befejezéséig áll fenn, ezt követően a támogatás visszatérítésére köteles fél a lakóhelyében, tartózkodási helyében, szálláshelyében és munkavégzésének helyében bekövetkezett változást köteles öt napon belül bejelenteni a visszatérítési kötelezettségének fennállásáig.
 
-(7) A jogi segítségnyújtó szolgálat a támogatás jogerős megvonásáról értesíti a büntetőeljárást lefolytató hatóságot és a pártfogó ügyvédet.
+(7) A jogi segítségnyújtó szolgálat a támogatás végleges vagy jogerős megvonásáról értesíti a büntetőeljárást lefolytató hatóságot és a pártfogó ügyvédet.
 
 (8) A támogatás nyilvántartása a következő adatokat is tartalmazza:
 

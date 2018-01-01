@@ -8,7 +8,7 @@ b) a kérelem elbírálására vonatkozó következő adatokat:
 
 2. a határozathozatal időpontja,
 
-3. a jogorvoslati kérelem elbírálása, jogerőre emelkedés időpontja,
+3. a jogorvoslati kérelem elbírálása, véglegessé válás vagy jogerőre emelkedés időpontja,
 
 4. a megismételt eljárás adatai (1–6. pontok szerint),
 
