@@ -1,4 +1,4 @@
-21. §[^64] (1) Az Mmtv. alapján a rehabilitációs szolgáltatást önként kérő megváltozott munkaképességű személy (a továbbiakban: a rehabilitációs szolgáltatást kérő személy) a lakóhelye vagy tartózkodási helye szerint illetékes, első fokon eljáró rehabilitációs hatóságnál kérheti az Mmtv. szerinti nyilvántartásba vételét.
+21. §[^73] (1) Az Mmtv. alapján a rehabilitációs szolgáltatást önként kérő megváltozott munkaképességű személy (a továbbiakban: a rehabilitációs szolgáltatást kérő személy) a lakóhelye vagy tartózkodási helye szerint illetékes, első fokon eljáró rehabilitációs hatóságnál kérheti az Mmtv. szerinti nyilvántartásba vételét.
 
 (2) Az első fokon eljáró rehabilitációs hatóság a rehabilitációs szolgáltatást kérő személyt nyilvántartásba veszi, és részére foglalkozási rehabilitációs szolgáltatást biztosít, ha vállalja a foglalkozási rehabilitációs szolgáltatás igénybevétele során a rehabilitációs hatósággal történő együttműködést.
 
@@ -24,4 +24,4 @@ d) rajta kívülálló körülmények miatt az együttműködési kötelezettsé
 
 (6) A rehabilitációs szolgáltatást kérő személy az együttműködési kötelezettségét az adatainak a nyilvántartásból való törléséig teljesíti.
 
-[^64]: A 21. §-t újonnan a 117/2016. (VI. 6.) Korm. rendelet 9. §-a iktatta be.
+[^73]: A 21. §-t újonnan a 117/2016. (VI. 6.) Korm. rendelet 9. §-a iktatta be.

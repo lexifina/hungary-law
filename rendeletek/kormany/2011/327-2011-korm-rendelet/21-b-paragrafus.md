@@ -1,10 +1,10 @@
-## 10. [^72] A foglalkozási rehabilitációs szolgáltatók akkreditációjának szabályai
+## 10. [^81] A foglalkozási rehabilitációs szolgáltatók akkreditációjának szabályai
 
-21/B. § (1) Az egyéni vállalkozó, a gazdasági társaság, a szövetkezet, az egyesület és az alapítvány kérheti a foglalkozási rehabilitációs szolgáltatóként történő akkreditációját.
+21/B. § (1)[^82] A foglalkozási rehabilitációs szolgáltatók akkreditációjával, az akkreditált szolgáltatók nyilvántartásával és az akkreditált szolgáltatók ellenőrzésével összefüggő hatósági feladatokat Budapest Főváros Kormányhivatala látja el. E feladatok tekintetében felügyeleti szervként a szociál- és nyugdíjpolitikáért felelős miniszter jár el.
 
-(2) Az akkreditáció feltételeit a 3. melléklet tartalmazza.
+(2)[^83] Az egyéni vállalkozó, a gazdasági társaság, a szövetkezet, az egyesület és az alapítvány kérheti a foglalkozási rehabilitációs szolgáltatóként történő akkreditációját. Az akkreditáció feltételeit a 3. melléklet tartalmazza.
 
-(3)[^73] Az akkreditáció iránti kérelmet a Budapest Főváros Kormányhivatala által rendszeresített és a Budapest Főváros Kormányhivatala által üzemeltetett elektronikus felületen közzétett adatlapon és elektronikus űrlapon kell benyújtani.
+(3)[^84] Az akkreditáció iránti kérelmet a Budapest Főváros Kormányhivatala által rendszeresített és a Budapest Főváros Kormányhivatala által üzemeltetett elektronikus felületen közzétett adatlapon és elektronikus űrlapon kell benyújtani.
 
 (4) Az adatlap és az elektronikus űrlap tartalmazza
 
@@ -48,19 +48,21 @@ dc) az egyesület és az alapítvány írásbeli képviseletére jogosult szemé
 
 (6) Ha a kérelmező nem csatolja
 
-a)[^74] az (5) bekezdés b) pontja szerinti iratokat, a Budapest Főváros Kormányhivatala az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában feltüntetett adatait az egyéni vállalkozók nyilvántartásából,
+a)[^85] az (5) bekezdés b) pontja szerinti iratokat, a Budapest Főváros Kormányhivatala az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában feltüntetett adatait az egyéni vállalkozók nyilvántartásából,
 
-b)[^75] az egyesület és az alapítvány hatályos adatairól kiadott, 3 hónapnál nem régebbi kivonatot, a Budapest Főváros Kormányhivatala a bírósági nyilvántartásba bejegyzett hatályos adatokat a bíróság nyilvántartásából
+b)[^86] az egyesület és az alapítvány hatályos adatairól kiadott, 3 hónapnál nem régebbi kivonatot, a Budapest Főváros Kormányhivatala a bírósági nyilvántartásba bejegyzett hatályos adatokat a bíróság nyilvántartásából
 
 ## szerzi be, illetve ellenőrzi.
 
-(7)[^76] Ha a kérelmező cégjegyzékben nyilvántartott cég, a Budapest Főváros Kormányhivatala a cégkivonatot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező cégjegyzékben nyilvántartott cég, és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, továbbá ezt a tényt a cégjegyzék tartalmazza, a Budapest Főváros Kormányhivatala az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(7)[^87] Ha a kérelmező cégjegyzékben nyilvántartott cég, a Budapest Főváros Kormányhivatala a cégkivonatot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező cégjegyzékben nyilvántartott cég, és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, továbbá ezt a tényt a cégjegyzék tartalmazza, a Budapest Főváros Kormányhivatala az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(8)[^77] A Budapest Főváros Kormányhivatala valamennyi kérelmező esetében közvetlenül a köztartozásmentes adózói adatbázisból ellenőrzi, hogy a kérelmező köztartozásmentes adózónak minősül-e.
+(8)[^88] A Budapest Főváros Kormányhivatala valamennyi kérelmező esetében közvetlenül a köztartozásmentes adózói adatbázisból ellenőrzi, hogy a kérelmező köztartozásmentes adózónak minősül-e.
 
-[^72]: A 10. alcímet (21/B–21/E. §) újonnan a 117/2016. (VI. 6.) Korm. rendelet 10. §-a iktatta be.
-[^73]: A 21/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja szerint módosított szöveg.
-[^74]: A 21/B. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
-[^75]: A 21/B. § (6) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
-[^76]: A 21/B. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja szerint módosított szöveg.
-[^77]: A 21/B. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^81]: A 10. alcímet (21/B–21/E. §) újonnan a 117/2016. (VI. 6.) Korm. rendelet 10. §-a iktatta be.
+[^82]: A 21/B. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 370. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^83]: A 21/B. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 370. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^84]: A 21/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja szerint módosított szöveg.
+[^85]: A 21/B. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^86]: A 21/B. § (6) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^87]: A 21/B. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja, a 393/2017. (XII. 13.) Korm. rendelet 42. §-a szerint módosított szöveg.
+[^88]: A 21/B. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.

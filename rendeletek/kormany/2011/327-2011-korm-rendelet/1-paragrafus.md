@@ -14,7 +14,7 @@ jelöli ki.
 
 (3) A Kormány a megváltozott munkaképességű személyek pénzbeli ellátásának folyósításával kapcsolatos feladatok ellátására a nyugdíjfolyósító szervet jelöli ki.
 
-(4) A Kormány a megváltozott munkaképességű személyek pénzbeli ellátásainak megtérítésére, valamint a jogosulatlanul felvett ellátás visszafizetésére kötelező jogerős határozatokon alapuló követelések nyilvántartásával, végrehajtásával és elszámolásával kapcsolatos feladatok ellátására a központi nyugdíjbiztosítási szervet jelöli ki. A központi nyugdíjbiztosítási szerv az e bekezdés szerinti feladat ellátása során a társadalombiztosítási nyugellátásokra vonatkozó jogszabályok rendelkezései szerint jár el.
+(4)[^4] A Kormány a megváltozott munkaképességű személyek pénzbeli ellátásainak megtérítésére, valamint a jogosulatlanul felvett ellátás visszafizetésére kötelező végleges határozatokon alapuló követelések nyilvántartásával, végrehajtásával és elszámolásával kapcsolatos feladatok ellátására a központi nyugdíjbiztosítási szervet jelöli ki. A központi nyugdíjbiztosítási szerv az e bekezdés szerinti feladat ellátása során a társadalombiztosítási nyugellátásokra vonatkozó jogszabályok rendelkezései szerint jár el.
 
 (5) A Kormány a rehabilitációs hatóságnak a Rehabilitációs kártya igénylésére és visszavonására irányuló eljárás megindításával kapcsolatos – a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény 16/A. és 16/B. §-ában meghatározott – feladatai ellátására a járási hivatalt jelöli ki.
 
@@ -46,11 +46,11 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 
 ## biztosítottnak minősülő személy rehabilitálhatóságáról, valamint javaslatot tesz az orvosi rehabilitációhoz szükséges egészségügyi szolgáltatásokra.
 
-(10)[^4] Az 5. melléklet szerinti rehabilitációs hatáskörben másodfokú hatóságként eljáró fővárosi és megyei kormányhivatalok e rendelet szerinti hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság és a felügyeleti szerv a szociál- és nyugdíjpolitikáért felelős miniszter.
+(10)[^5] Az 5. melléklet szerinti rehabilitációs hatáskörben másodfokú hatóságként eljáró fővárosi és megyei kormányhivatalok e rendelet szerinti hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság és a felügyeleti szerv a szociál- és nyugdíjpolitikáért felelős miniszter.
 
-(11)[^5] A járási hivatalok rehabilitációs hatósági feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f) és g) pontjában és kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket az 5. melléklet szerinti fővárosi és megyei kormányhivatal gyakorolja.
+(11)[^6] A járási hivatalok rehabilitációs hatósági feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f) és g) pontjában és kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket az 5. melléklet szerinti fővárosi és megyei kormányhivatal gyakorolja.
 
-(12)[^6] A járási hivatalok, valamint az 5. melléklet szerinti fővárosi és megyei kormányhivatalok rehabilitációs hatósági, rehabilitációs szakértői szervi és orvosszakértői szervi feladatköreinek gyakorlásával összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja a (11) bekezdésben meghatározottak kivételével.
+(12)[^7] A járási hivatalok, valamint az 5. melléklet szerinti fővárosi és megyei kormányhivatalok rehabilitációs hatósági, rehabilitációs szakértői szervi és orvosszakértői szervi feladatköreinek gyakorlásával összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja a (11) bekezdésben meghatározottak kivételével.
 
 (13) A Szociális és Gyermekvédelmi Főigazgatóság közreműködik a szociál- és nyugdíjpolitikáért felelős miniszter (12) bekezdésben meghatározott feladatainak ellátásában, az ezzel kapcsolatos intézkedéseinek és döntéseinek előkészítésében.
 
@@ -59,6 +59,7 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 [^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
 [^3]: Az 1. § (1a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
-[^4]: Az 1. § (10) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
-[^5]: Az 1. § (11) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
-[^6]: Az 1. § (12) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^4]: Az 1. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 371. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^5]: Az 1. § (10) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^6]: Az 1. § (11) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^7]: Az 1. § (12) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.

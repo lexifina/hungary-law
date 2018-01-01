@@ -17,3 +17,13 @@ c) legalább egy tagja szociális szakértő.
 (5) A szakértői bizottságnak nem lehet tagja, aki részt vett vagy részt vesz a hatósági vagy szakértői eljárásba vont személy (a továbbiakban: érintett személy) gyógykezelésében, szociális gondozásában.
 
 (6) A szakértői szerv – a szakértői bizottság elnöke kivételével – állami szolgálati jogviszonyban nem álló szakértőt is igénybe vehet.
+
+(7)[^41] Ha a komplex minősítés során
+
+a) a szakértői bizottság orvosszakértő tagjai között az egészségi állapot vagy az önellátási képesség orvosszakmai szempontú megítélése, illetve
+
+b) a szakértői bizottság tagjai között a rehabilitáció lehetséges iránya, a rehabilitációs szükségletek vagy rehabilitációhoz szükséges időtartam
+
+tekintetében nincs egyetértés, a bizottság elnöke dönt.
+
+[^41]: A 13. § (7) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 370. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
