@@ -2,7 +2,7 @@
 
 a) jogszabály rendelkezése ezt szükségessé teszi,
 
-b)[^28]
+b)[^34]
 
 c) az érintett szolgáltató kéri,
 
@@ -12,7 +12,7 @@ e) a lekötési engedélyt a szolgáltató a kérelmében közölt valótlan vag
 
 f) a lekötés jogcíméül szolgáló elektronikus hírközlési szolgáltatás vagy tevékenység végzése megszűnik,
 
-g)[^29] a jogutód a bejelentési kötelezettségének a 8. § (2) és (3) bekezdésében meghatározott határidőben nem tett eleget,
+g)[^35] a jogutód a bejelentési kötelezettségének a 8. § (2) és (3) bekezdésében meghatározott határidőben nem tett eleget,
 
 h) időközben vállalt nemzetközi kötelezettségek miatt a lekötött azonosító a későbbiekben használatra már nem jelölhető ki.
 
@@ -20,7 +20,8 @@ h) időközben vállalt nemzetközi kötelezettségek miatt a lekötött azonos�
 
 (3) Amennyiben jogszabály-módosítás a lekötési engedély visszavonását teszi szükségessé, a visszavonással egyidejűleg az engedélyes részére az ANFT-ben szereplő elegendő számú, a használati célnak megfelelő azonosítót kell lekötni.
 
-(4) A számmező lekötését visszavonó határozat jogerőre emelkedésének időpontjától a számmező szabad állapotúnak, illetőleg pihentetett számmezőre vonatkozó lekötés visszavonása esetén a pihentetési határidőig pihentetett állapotúnak minősül.
+(4)[^36] A számmező lekötését visszavonó határozat véglegessé válásának időpontjától a számmező szabad állapotúnak, illetőleg pihentetett számmezőre vonatkozó lekötés visszavonása esetén a pihentetési határidőig pihentetett állapotúnak minősül.
 
-[^28]: A 7. § (1) bekezdés b) pontját az 1/2012. (I. 3.) NMHH rendelet 6. §-a hatályon kívül helyezte.
-[^29]: A 7. § (1) bekezdés g) pontja az 1/2012. (I. 3.) NMHH rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^34]: A 7. § (1) bekezdés b) pontját az 1/2012. (I. 3.) NMHH rendelet 6. §-a hatályon kívül helyezte.
+[^35]: A 7. § (1) bekezdés g) pontja az 1/2012. (I. 3.) NMHH rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^36]: A 7. § (4) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 2. § (4) bekezdés e) pontja szerint módosított szöveg.

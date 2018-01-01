@@ -8,7 +8,7 @@
 
 ## A mobil hálózati kód kijelölését és a visszavonását a hatóság bejelenti a Nemzetközi Távközlési Egyesület (International Telecommunication Union, a továbbiakban: ITU) ITU TSB igazgatójának.
 
-## 1.2.[^75] Azonosító használat
+## 1.2.[^83] Azonosító használat
 
 ## Mobil hálózati kód jelölhető ki azon szolgáltatók számára, amelyeket a hatóság mobil rádiótelefon-szolgáltatás nyújtására az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásba bejegyzett, valamint azon vállalkozás számára, amelyet a Kormány GSM-R rendszer működtetésére és a szolgáltatás nyújtására kijelölt.
 
@@ -20,7 +20,7 @@
 
 ## A kérelemben meghatározott szolgáltatás nyújtásához az MNC szükségességét és kijelölhetőségét a hatóság állapítja meg.
 
-## 2.[^76] Tesztelési célú mobil hálózati kód
+## 2.[^84] Tesztelési célú mobil hálózati kód
 
 ## 2.1. A gazdálkodás rendje
 
@@ -34,12 +34,12 @@
 
 ## A teszt MNC használatára vonatkozó jogosultság megszűnésével a teszt MNC a hatóság külön döntése nélkül szabad állapotúnak minősül, és a hatóság nem állapít meg pihentetési határidőt.
 
-## 3.[^77] Mobil előfizetői azonosító szám
+## 3.[^85] Mobil előfizetői azonosító szám
 
 ## A mobil előfizetői azonosító számot (MSIN) a mobil hálózati kód használatára jogosult szolgáltató jelöli ki.
 
 3. melléklet a 2/2011. (IX. 26.) NMHH rendelethez
 
-[^75]: A 2. melléklet 1.2. pontja az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdésével megállapított, az 1/2016. (I. 15.) NMHH rendelet 6. § b) pontja szerint módosított szöveg.
-[^76]: A 2. melléklet 2. pontja a 10/2017. (IX. 14.) NMHH rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^77]: A 2. melléklet 3. pontját a 10/2017. (IX. 14.) NMHH rendelet 2. § (2) bekezdése iktatta be.
+[^83]: A 2. melléklet 1.2. pontja az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdésével megállapított, az 1/2016. (I. 15.) NMHH rendelet 6. § b) pontja szerint módosított szöveg.
+[^84]: A 2. melléklet 2. pontja a 10/2017. (IX. 14.) NMHH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^85]: A 2. melléklet 3. pontját a 10/2017. (IX. 14.) NMHH rendelet 2. § (2) bekezdése iktatta be.

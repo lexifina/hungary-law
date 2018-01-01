@@ -1,6 +1,6 @@
-4. § (1)[^19] Az azonosító lekötés, azonosító kijelölés, azonosító visszavonás, számmező átadás és szolgáltatás jogutódlás iránti eljárás (a továbbiakban együtt: azonosító engedélyezési eljárás) kérelemre vagy hivatalból indul.
+4. § (1)[^25] Az azonosító lekötés, azonosító kijelölés, azonosító visszavonás, számmező átadás és szolgáltatás átadás iránti eljárás (a továbbiakban együtt: azonosító engedélyezési eljárás) kérelemre vagy hivatalból indul.
 
-(2)[^20] Az elektronikus hírközlési szolgáltató kérelmére induló azonosító engedélyezési eljárásokat a hatóság a kérelmek beérkezésének sorrendjében folytatja le.
+(2)[^26] Az elektronikus hírközlési szolgáltató kérelmére induló azonosító engedélyezési eljárásokat a hatóság a kérelmek beérkezésének sorrendjében folytatja le.
 
 (3) A hatóság lekötési, illetve kijelölési határozata tartalmazza:
 
@@ -12,5 +12,5 @@ c) a lekötési, illetve kijelölési engedély érvényességének időtartamá
 
 d) a lekötött, illetőleg kijelölt azonosító után fizetendő díj összegét.
 
-[^19]: A 4. § (1) bekezdése az 1/2016. (I. 15.) NMHH rendelet 2. §-ával megállapított szöveg.
-[^20]: A 4. § (2) bekezdése az 1/2016. (I. 15.) NMHH rendelet 2. §-ával megállapított szöveg.
+[^25]: A 4. § (1) bekezdése az 1/2016. (I. 15.) NMHH rendelet 2. §-ával megállapított, a 13/2017. (XII. 29.) NMHH rendelet 2. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^26]: A 4. § (2) bekezdése az 1/2016. (I. 15.) NMHH rendelet 2. §-ával megállapított szöveg.
