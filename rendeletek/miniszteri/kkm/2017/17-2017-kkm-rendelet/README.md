@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-17-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-31 | 2017-17-20-6Q.1 | 17/2017. (XII. 19.) KKM rendelet |
+| 2018-01-01 | 2017-17-20-6Q.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
