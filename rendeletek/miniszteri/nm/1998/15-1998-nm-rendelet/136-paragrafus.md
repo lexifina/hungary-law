@@ -2,7 +2,7 @@
 
 ## A TERÜLETI GYERMEKVÉDELMI SZAKSZOLGÁLTATÁS ÉS A SZAKSZOLGÁLAT
 
-136. §[^352] (1) A személyes gondoskodást nyújtó gyermekvédelmi szakellátás keretében szakszolgáltatásként biztosítani kell
+136. §[^349] (1) A személyes gondoskodást nyújtó gyermekvédelmi szakellátás keretében szakszolgáltatásként biztosítani kell
 
 a) a gondozási hely meghatározásával,
 
@@ -44,4 +44,4 @@ a) szakmai, módszertani segítséget nyújt a személyes gondoskodásra irányu
 
 b) javaslatot készít a szakellátás fejlesztésére, és elősegíti a tudományos kutatómunka gyakorlati alkalmazását.
 
-[^352]: A 136. § az 1/2017. (II. 14.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^349]: A 136. § az 1/2017. (II. 14.) EMMI rendelet 18. §-ával megállapított szöveg.

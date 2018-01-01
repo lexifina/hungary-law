@@ -1,4 +1,4 @@
-135/E. §[^350] (1)[^351] Tömeges bevándorlás okozta válsághelyzet fennállása alatt a Főigazgatóság az ország egész területén a szolgáltatói nyilvántartásba történő bejegyzés nélkül, nem a gyermekotthonhoz tartozóan is létesíthet, illetve fenntarthat ideiglenes befogadó férőhelyet.
+135/E. §[^347] (1)[^348] Tömeges bevándorlás okozta válsághelyzet fennállása alatt a Főigazgatóság az ország egész területén a szolgáltatói nyilvántartásba történő bejegyzés nélkül, nem a gyermekotthonhoz tartozóan is létesíthet, illetve fenntarthat ideiglenes befogadó férőhelyet.
 
 (2) A tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhelyen a menekültként el nem ismert, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorú számára az életkorának megfelelően
 
@@ -22,5 +22,5 @@ kell biztosítani.
 
 (4) A tömeges bevándorlás okozta válsághelyzet megszüntetését követően haladéktalanul gondoskodni kell az ideiglenes befogadó férőhelyen elhelyezett kísérő nélküli kiskorúak megfelelő gondozási helyen történő ellátásáról. Ennek érdekében az ideiglenes befogadó férőhely fenntartója, a gyermekvédelmi gyám és Budapest Főváros Kormányhivatala gyermekvédelmi és gyámügyi feladatkörében eljáró V. Kerületi Hivatala együttműködik.
 
-[^350]: A 135/E. §-t a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
-[^351]: A 135/E. § (1) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 3. § d) pontja szerint módosított szöveg.
+[^347]: A 135/E. §-t a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
+[^348]: A 135/E. § (1) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 3. § d) pontja szerint módosított szöveg.

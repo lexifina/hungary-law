@@ -32,8 +32,8 @@
 
 | 6. |  |  |  |  |  |
 
-4. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^504]
+4. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^501]
 
 ÉRTESÍTÉS A SZAKELLÁTÁSBAN ELLÁTOTTAKRÓL - BEFOGADÁS
 
-[^504]: A 4. számú melléklet az 1/2017. (II. 14.) EMMI rendelet 23. § (2) bekezdés a) pontjával megállapított szöveg.
+[^501]: A 4. számú melléklet az 1/2017. (II. 14.) EMMI rendelet 23. § (2) bekezdés a) pontjával megállapított szöveg.
