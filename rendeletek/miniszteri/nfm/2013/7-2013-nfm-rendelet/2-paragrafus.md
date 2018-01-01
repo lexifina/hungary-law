@@ -30,7 +30,9 @@ n)[^12] Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal;
 
 o)[^13] Nemzeti Földalapkezelő Szervezet;
 
-p)[^14] Nemzeti Kommunikációs Hivatal.
+p)[^14] Nemzeti Kommunikációs Hivatal;
+
+q)[^15] Szerencsejáték Felügyelet.
 
 [^4]: A 2. § a) pontja a 9/2014. (II. 21.) NFM rendelet 1. §-ával megállapított szöveg.
 [^5]: A 2. § c) pontját a 28/2013. (VI. 12.) NFM rendelet 3. §-a hatályon kívül helyezte, újonnan a 26/2014. (IV. 30.) NFM rendelet 1. §-a iktatta be.
@@ -43,3 +45,4 @@ p)[^14] Nemzeti Kommunikációs Hivatal.
 [^12]: A 2. § n) pontját újonnan a 3/2015. (II. 11.) BM rendelet 1. §-a iktatta be.
 [^13]: A 2. § o) pontját a 46/2015. (VII. 28.) BM rendelet 1. § (1) bekezdése iktatta be.
 [^14]: A 2. § p) pontját a 46/2015. (VII. 28.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^15]: A 2. § q) pontját a 37/2017. (XII. 27.) BM rendelet 2. §-a iktatta be.
