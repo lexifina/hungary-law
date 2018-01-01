@@ -1,4 +1,4 @@
-## 7. §[^1]
+## 7. §[^2]
 
 1. melléklet a 154/2016. (VI. 13.) Korm. rendelethez
 
@@ -50,4 +50,4 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
