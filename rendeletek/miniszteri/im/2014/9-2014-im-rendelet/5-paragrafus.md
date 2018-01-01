@@ -1,3 +1,5 @@
+## 4/A. § Ha a bíróság a Btk. 92/B. §-a alapján a perújítás, a felülvizsgálat, a törvényesség érdekében bejelentett jogorvoslat vagy a megismételt eljárás eredményeként kiszabott szabadságvesztés tartamába az alapügyben kiszabott és végrehajtott büntetés vagy intézkedés beszámításáról rendelkezett, a bv. intézet a beszámítandó szabadságvesztés, elzárás vagy javítóintézeti nevelés tartamát a 3. § (2) bekezdésének az alkalmazásával számítja ki.
+
 ## 4. Összbüntetés alapítéleteinek kitöltése és a rendkívüli jogorvoslat alapján történő beszámítás
 
 5. § (1) A Bv. tv. 112. § (1) bekezdése esetén ki kell számolni azt a tartamot, amennyivel az elítélt az összbüntetésként megállapított szabadságvesztés tartamát meghaladóan szabadságvesztésként töltött, és azt be kell számítani a más ügyben kiszabott, de az összbüntetési ítélet kitöltését követően időbeli megszakítás nélkül foganatba vett vagy végrehajtásra váró szabadságvesztés tartamába.

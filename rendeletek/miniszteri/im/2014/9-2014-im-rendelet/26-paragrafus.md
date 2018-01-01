@@ -1,3 +1,5 @@
-## 25. § Enyhébb végrehajtási fokozatba helyezés, enyhébb végrehajtási szabályok hatálya alá helyezés esedékességi időpontjának kiszámításakor a szabadságvesztés tartamából le kell vonni a feltételes kedvezmény mértékét, majd az így eredményül kapott tartamot el kell felezni. Ebből a tartamból le kell vonni az esetleges beszámítást, majd ezt a tartamot hozzá kell adni a szabadságvesztés kezdőnapjához. Az így kapott időpont lesz az enyhébb végrehajtási fokozat, illetve enyhébb végrehajtási szabályok alkalmazhatóságának legkorábbi ideje.
+## 25/A. §[^8] Részben felfüggesztett szabadságvesztés végrehajtásának átvétele esetén az e rendeletben a szabadságvesztésre vonatkozó rendelkezéseket a részben felfüggesztett szabadságvesztés végrehajtandó részére értelemszerűen alkalmazni kell.
 
 ## 15. Értesítések a kezdő és utolsó napról
+
+[^8]: A 25/A. §-t a 22/2017. (XII. 22.) IM rendelet 18. §-a iktatta be.

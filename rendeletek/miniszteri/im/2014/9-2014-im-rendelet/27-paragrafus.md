@@ -4,7 +4,7 @@
 
 27. § (1) A bíróság által kiszabott vagy átváltoztatott elzárást végrehajtó bv. intézet a befogadástól, illetve az elzárásról szóló bírósági értesítés vagy végzés átvételétől számított legkésőbb nyolc napon belül megállapítja és az elítélttel írásban közli az elzárás kezdő és utolsó napját.
 
-(2) Az elzárás kezdő és utolsó napjának a megállapításakor az 1–4. §-t, a 7. §-t, a 9. § (2)–(4) bekezdését, a 17–23. §-t és a 26. §-t a (3)–(5) bekezdésben meghatározott eltérésekkel megfelelően alkalmazni kell azzal, hogy a számításokat mindig napokban kell elvégezni.
+(2)[^9] Az elzárás kezdő és utolsó napjának a megállapításakor az 1–4/A. §-t, a 7. §-t, a 9. § (2)–(4) bekezdését, a 17–23. §-t és a 26. §-t a (3)–(5) bekezdésben meghatározott eltérésekkel megfelelően alkalmazni kell azzal, hogy a számításokat mindig napokban kell elvégezni.
 
 (3) Az elzárás kezdő napja, ha az elzárásra ítélt az ítélet meghozatala napján
 
@@ -29,3 +29,5 @@ b) a (3) bekezdés b)–f) pontja és a 7. § szerinti esetekben az elzárás ke
 ## kell hozzáadni az elzárás kitöltetlen tartamát.
 
 (5) A végrehajtás folyamatosságának megszakadása esetén az elzárás utolsó napját ismételten meg kell állapítani. A megszakítást követően foganatba vett szabadságvesztés, javítóintézeti nevelés, illetve előzetes letartóztatás tartamát más jogcímen töltött időként kell figyelembe venni, számítására a távol töltött idő számítására vonatkozó szabályokat kell alkalmazni. A más jogcímen töltött idő tartamát a megszakított elzárás előjegyzett utolsó napját követő naphoz kell adni, és a számítás eredményét megelőző nap lesz az elzárás utolsó napja.
+
+[^9]: A 27. § (2) bekezdése a 22/2017. (XII. 22.) IM rendelet 19. §-a szerint módosított szöveg.
