@@ -22,4 +22,4 @@ b) záró időpontja a kártya visszavonásának napja.
 
 (8) Az állami adóhatóság a Rehabilitációs kártyára való jogosultság megszűnése esetén a kártyát visszavonja. A Rehabilitációs kártyával rendelkező személy a visszavont kártyát az állami adóhatóságnak visszaszolgáltatja.
 
-(9) A Rehabilitációs kártyával kapcsolatos eljárások során az adózás rendjéről szóló törvény rendelkezéseit e törvény rendelkezései figyelembevételével kell alkalmazni.
+(9) A Rehabilitációs kártyával kapcsolatos eljárások során az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezéseit e törvény rendelkezései figyelembevételével kell alkalmazni.

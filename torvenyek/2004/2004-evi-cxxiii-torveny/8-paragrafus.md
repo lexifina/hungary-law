@@ -10,7 +10,7 @@ III. fejezet
 
 (2) Az (1) bekezdésben meghatározott kedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után, egyidejűleg nem vehető igénybe. Az (1) bekezdésben meghatározott szerv által történő foglalkoztatás esetén a foglalkoztató kizárólag az e §-ban szabályozott adókedvezményt érvényesítheti.
 
-(3) A kedvezmény jogosulatlan érvényesítése esetén a szociális hozzájárulási adó megállapítására, befizetésére és bevallására, a mulasztási bírság, pótlék megállapítására az Art. alapján kerül sor.
+(3) A kedvezmény jogosulatlan érvényesítése esetén a szociális hozzájárulási adó megállapítására, befizetésére és bevallására, a mulasztási bírság, pótlék megállapítására az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény alapján kerül sor.
 
 A részmunkaidős foglalkoztatáshoz kapcsolódó kedvezmény
 
@@ -38,7 +38,7 @@ b) munkaviszonyát felmondással vagy azonnali hatályú felmondással szüntett
 
 (5) Ez a részkedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után egyidejűleg nem vehető igénybe.
 
-(6) A részkedvezmény jogosulatlan érvényesítése esetén azaz adó, befizetésére és bevallására, a bírság és pótlék megállapítására az Art. szabályai alapján kerül sor.
+(6) A részkedvezmény jogosulatlan érvényesítése esetén azaz adó, befizetésére és bevallására, a bírság és pótlék megállapítására az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény szabályai alapján kerül sor.
 
 (7) A részkedvezmény megtérítésére a 4/A. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
 

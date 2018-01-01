@@ -34,7 +34,7 @@ b) az ösztöndíjas foglalkoztatott TAJ számát;
 
 c) a foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban töltött idő tartamát;
 
-d) a foglalkoztatási ösztöndíjból jogerős határozat vagy jogszabály alapján levonandó tartozást, illetve ennek jogosultságát, vagy azt, hogy az ösztöndíjat tartozás nem terheli;
+d) a foglalkoztatási ösztöndíjból végleges határozat vagy jogszabály alapján levonandó tartozást, illetve ennek jogosultságát, vagy azt, hogy az ösztöndíjat tartozás nem terheli;
 
 e) az ösztöndíjas foglalkoztatott pénztártag által választott magánnyugdíj-pénztár megnevezését, címét, pénzforgalmi számlaszámát. Ha a tagságra kötelezett ösztöndíjas foglalkoztatott nem választott pénztárat, ezt a tényt jelezni kell, és meg kell jelölni az illetékes területi pénztár megnevezését, címét.
 
