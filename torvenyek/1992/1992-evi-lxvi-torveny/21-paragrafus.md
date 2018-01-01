@@ -14,7 +14,7 @@ f) a gépjárműveket, a forgalmi és vezetői engedélyeket nyilvántartó hat�
 
 g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás, valamint az igazságügyért felelős miniszter a bűnügyi költség és rendbírság mérséklése, elengedése iránti kérelmek elbírálása során;
 
-h)
+h) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való kikerülés helyére, annak – az elhalálozáson kívüli – okára és idejére, az értesítési címadatokra vonatkozó adatok kivételével a cégnyilvántartással összefüggő feladatai ellátásához a cégbíróság, valamint a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat;
 
 i) a polgári védelmi kötelezettség érvényesítése céljából a hivatásos katasztrófavédelmi szerv és a polgármester;
 
@@ -30,7 +30,7 @@ n) az Élettársi Nyilatkozatok Nyilvántartásának vezetésére irányuló pol
 
 o) az állampolgárság, a családi állapot, a házasságkötés helye, a nem, valamint a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével a kártörténeti nyilvántartást kezelő szerv a kártörténeti nyilvántartásban szereplő üzemben tartó személyazonosító adatai nyilvántartásának naprakészen tartásához,
 
-p)
+p) az értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a nyilvántartást vezető szerv a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához.
 
 q) a kincstár a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben,
 

@@ -24,7 +24,7 @@ kell bejelentenie (a továbbiakban: külföldi letelepedési nyilatkozat).
 
 (4) A lakcímbejelentéshez – jogszabályban meghatározott kivétellel – a szállásadó hozzájárulása szükséges.
 
-(5) A lakcímbejelentés és az értesítési cím bejelentésének ténye önmagában a lakás vagy az ingatlan használatához fűződő, valamint egyéb vagyoni jogot nem keletkeztet és nem szüntet meg. Érvénytelen a bejelentett lakcímadat, ha a polgárnak a lakás használatára vonatkozó joga megállapodás alapján már nem áll fenn, illetve jogerős bírósági vagy hatósági határozat alapján megszűnt és a határozatot végrehajtották.
+(5) A lakcímbejelentés és az értesítési cím bejelentésének ténye önmagában a lakás vagy az ingatlan használatához fűződő, valamint egyéb vagyoni jogot nem keletkeztet és nem szüntet meg. Érvénytelen a bejelentett lakcímadat, ha a polgárnak a lakás használatára vonatkozó joga megállapodás alapján már nem áll fenn, illetve jogerős bírósági vagy véglegessé vált hatósági határozat alapján megszűnt és a határozatot végrehajtották.
 
 (5a) Érvénytelen a bejelentett lakcímadat, ha a járási hivatal megállapította, hogy a polgár bejelentett lakcímadata nem valós. Érvénytelen a bejelentett értesítési cím, ha a járási hivatal vagy a kijelölt kormányhivatal megállapította, hogy a polgár bejelentett értesítési címe nem valós.
 

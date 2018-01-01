@@ -11,3 +11,5 @@
 (4) A hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv ellátja a 4. § (2a) bekezdés f) pontja szerinti külföldön élő magyar állampolgárok, a Magyarország területén élő, a 4. § (2d) bekezdése szerinti magyar állampolgárok nyilvántartásba vételével kapcsolatos feladatokat.
 
 (5) A konzuli tisztviselő eljár a személyazonosító igazolvánnyal kapcsolatos ügyekben.
+
+(6) A konzuli tisztviselőnél előterjesztett állandó személyazonosító igazolvány kiadására irányuló eljárással összefüggésben a közigazgatási per megindítására irányuló keresetlevelet a vitatott közigazgatási cselekmény közlésétől számított hatvan napon belül kell benyújtani.

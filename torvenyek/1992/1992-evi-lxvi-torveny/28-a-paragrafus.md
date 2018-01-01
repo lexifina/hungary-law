@@ -36,7 +36,7 @@ n) a szállásadó nyilatkozatát arról, hogy a lakcímbejelentésről a lakcí
 
 (4) A szállásadó hozzájáruló nyilatkozatának bejegyzésekor, valamint a címre történő lakcímbejelentéskor minden esetben vizsgálni kell, hogy a címre vonatkozóan nyilatkozatot tevő szállásadó nyilatkozattételi jogosultsága fennáll-e.
 
-(5) A nyilatkozattételi jogosultság fennállásának hiányában a nyilatkozat nyilvántartásba vételét el kell utasítani, illetve a nyilatkozatot a címnyilvántartásból hivatalból törölni kell.
+(5) A nyilatkozattételi jogosultság fennállásának hiányában a nyilatkozat nyilvántartásba vételét vissza kell utasítani, illetve a nyilatkozatot a címnyilvántartásból hivatalból törölni kell.
 
 (6) A járási hivatal a szállásadó nyilatkozattételi jogosultságának fennállását az ingatlan-nyilvántartásba történő betekintéssel ellenőrzi.
 
