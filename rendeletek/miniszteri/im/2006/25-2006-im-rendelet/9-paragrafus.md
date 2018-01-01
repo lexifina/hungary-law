@@ -1,4 +1,4 @@
-## 8. §[^10]
+## 8. §[^9]
 
 ## Intézkedés az elektronikus úton megfizetett,
 
@@ -6,4 +6,4 @@
 
 ## és költségtérítésről
 
-[^10]: A 8. §-t a 39/2015. (XII. 21.) IM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^9]: A 8. §-t a 39/2015. (XII. 21.) IM rendelet 4. § b) pontja hatályon kívül helyezte.
