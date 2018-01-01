@@ -12,7 +12,7 @@
 
 (6)
 
-(7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító véleményét. Az egészségügyi államigazgatási szerv negyvenöt napon belül dönt.
+(7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító véleményét. Az egészségügyi államigazgatási szerv ötvenöt napon belül dönt.
 
 (8)
 

@@ -46,7 +46,7 @@ gyakorolja.
 
 (9) Amennyiben a (4) bekezdés b) pontja alapján nem jelölhető ki olyan szolgáltató, amely – az (5) bekezdés szerinti határozaton alapuló ingyenes vagyonhasználati lehetőség figyelembevételével – rendelkezik a szakellátási feladat ideiglenes ellátásához szükséges személyi és tárgyi feltételekkel és a (4) bekezdés c) pontja sem alkalmazható, a folyamatos ellátás biztosítása érdekében az egészségügyi válsághelyzetre vonatkozó szabályok szerint kell – az Eütv.-ben meghatározottak szerint – eljárni, ha annak a jogszabályban meghatározott egyéb feltételei fennállnak.
 
-(10) A (4) és az (5) bekezdés alapján hozott határozatok ellen fellebbezésnek és a határozatokkal szembeni bírósági felülvizsgálati eljárásban a határozat végrehajtása felfüggesztésének nincs helye.
+(10) A (4) és az (5) bekezdés alapján hozott határozatok ellen fellebbezésnek és a határozatokkal szembeni közigazgatási perben a határozat végrehajtása felfüggesztésének nincs helye.
 
 (11) Ha a szakellátási feladatnak az állam által – a (2) bekezdés alapján – történő átvételét követő 3. hónap utolsó napját követően
 

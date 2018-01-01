@@ -16,7 +16,7 @@
 
 (7a) A kapacitásokat és az ellátási területeket érintő változásokat a kapacitás-nyilvántartásban a változás hatálybalépésével egyidejűleg át kell vezetni.
 
-(7b) A kapacitás-nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
+(7b)
 
 (8) A kapacitás-nyilvántartás tartalmazza
 

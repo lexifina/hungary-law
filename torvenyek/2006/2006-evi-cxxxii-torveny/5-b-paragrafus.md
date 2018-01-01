@@ -14,7 +14,7 @@ b) egészségügyi szolgáltatók közös fenntartója, ha több érintett szolg
 
 c) települési önkormányzatok.
 
-(3) Abban az esetben, ha az érintett egészségügyi szolgáltatók fenntartói – megállapodás hiányában – nem tudtak a (2) bekezdés a) pontja alapján közösen kérelmet benyújtani, a kérelmet az érintett fenntartók bármelyike külön is benyújthatja azzal, hogy az eljárás során az egyezség érdekében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 64. és 75. §-át alkalmazni kell.
+(3) Abban az esetben, ha az érintett egészségügyi szolgáltatók fenntartói – megállapodás hiányában – nem tudtak a (2) bekezdés a) pontja alapján közösen kérelmet benyújtani, a kérelmet az érintett fenntartók bármelyike külön is benyújthatja.
 
 (4) Az egészségügyi államigazgatási szerv hivatalból állapítja meg, illetve módosítja az ellátási területet, ha az jogszabályváltozás, vagy a kapacitást érintő e törvény szerinti módosulás miatt, illetve ellátási érdekből szükséges.
 
