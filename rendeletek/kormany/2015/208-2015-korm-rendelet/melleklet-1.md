@@ -36,11 +36,11 @@
 
 17. tűzvédelmi hatósági eljárások
 
-17/A.[^10] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos eljárások
+17/A.[^11] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos eljárások
 
-18.[^11] az 1–17/A. pontban nem szereplő, a Beruházáshoz közvetlenül szükséges további hatósági eljárások, az 1–2. pont alá nem tartozó, az Atv. alapján lefolytatott hatósági eljárások kivételével
+18.[^12] az 1–17/A. pontban nem szereplő, a Beruházáshoz közvetlenül szükséges további hatósági eljárások, az 1–2. pont alá nem tartozó, az Atv. alapján lefolytatott hatósági eljárások kivételével
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások
 
-[^10]: Az 1. melléklet 17/A. pontját a 201/2017. (VII. 10.) Korm. rendelet 3. §-a iktatta be.
-[^11]: Az 1. melléklet 18. pontja a 201/2017. (VII. 10.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^11]: Az 1. melléklet 17/A. pontját a 201/2017. (VII. 10.) Korm. rendelet 3. §-a iktatta be.
+[^12]: Az 1. melléklet 18. pontja a 201/2017. (VII. 10.) Korm. rendelet 4. §-a szerint módosított szöveg.
