@@ -36,9 +36,9 @@ c) részletekben fizettetheti meg.
 
 a) részére a kérelem benyújtásakor más rendszeres pénzellátás megállapítására irányuló eljárás van folyamatban, vagy
 
-b) az időskorúak járadéka, az aktív korúak ellátása vagy az ápolási díj megállapítása iránti kérelem benyújtását követően, de a jogerős döntés meghozatalát megelőzően más rendszeres pénzellátás megállapítására irányuló eljárást indít.
+b) az időskorúak járadéka, az aktív korúak ellátása vagy az ápolási díj megállapítása iránti kérelem benyújtását követően, de a végleges döntés meghozatalát megelőzően más rendszeres pénzellátás megállapítására irányuló eljárást indít.
 
-(8) Az időskorúak járadékában vagy ápolási díjban részesülő, továbbá az aktív korúak ellátására jogosult személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha a jogosultságának fennállása alatt más rendszeres pénzellátás megállapítására irányuló eljárást indított, vagy álláskeresési támogatás igénylése céljából jelentkezett az állami foglalkoztatási szervnél.
+(8) Az időskorúak járadékában vagy ápolási díjban részesülő, továbbá az aktív korúak ellátására jogosult személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha a jogosultságának fennállása alatt más rendszeres pénzellátás megállapítására irányuló eljárást indított, vagy álláskeresési ellátás igénylése céljából jelentkezett az állami foglalkoztatási szervnél.
 
 (9) A (7) bekezdés b) pontja, valamint a (8) bekezdés szerinti esetben a bejelentést a más rendszeres pénzellátás megállapítására irányuló eljárás megindításától, illetve az állami foglalkoztatási szervnél való jelentkezés napjától számított 8 napon belül kell megtenni.
 

@@ -1,1 +1,1 @@
-16. § A szociális igazgatási eljárás költség- és illetékmentes.
+16. § A szociális igazgatási eljárás és az azzal összefüggésben indult közigazgatási per költség- és illetékmentes.

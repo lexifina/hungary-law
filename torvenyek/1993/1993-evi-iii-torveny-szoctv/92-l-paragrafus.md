@@ -1,6 +1,6 @@
 92/L. § (1) A működést engedélyező szerv szociális igazgatási bírságot (a továbbiakban: bírság) szabhat ki
 
-a) szociális szolgáltatást a szolgáltatói nyilvántartásba történő jogerős bejegyzés nélkül vagy a szolgáltatói nyilvántartásból történő, végrehajtható törlést követően nyújtó, illetve ilyen szolgáltatást működtető vagy szervező személlyel, szervezettel és az ilyen szervezet nevében – különösen a szolgáltatás iránt érdeklődőknél, illetve az igénybe vevőknél – eljáró személlyel szemben,
+a) szociális szolgáltatást a szolgáltatói nyilvántartásba véglegessé vált döntéssel történő bejegyzés nélkül vagy a szolgáltatói nyilvántartásból történő, végrehajtható törlést követően nyújtó, illetve ilyen szolgáltatást működtető vagy szervező személlyel, szervezettel és az ilyen szervezet nevében – különösen a szolgáltatás iránt érdeklődőknél, illetve az igénybe vevőknél – eljáró személlyel szemben,
 
 b) a fenntartóval, a jogsértés során a fenntartó nevében eljáró személlyel, illetve a szociális szolgáltató, intézmény vezetőjével szemben, ha a fenntartó, illetve a szociális szolgáltató, intézmény az ellátottak e törvényben biztosított valamely jogát megsérti, így különösen, ha az ellátottak, törvényes képviselőik, illetve az ellátotti érdek-képviseleti szervek felé fennálló tájékoztatási, bejelentési kötelezettséget megszegik, az ellátottat vagy az ellátotti érdekképviseleti szervet akadályozzák jogai gyakorlásában, illetve abban, hogy a működést engedélyező szervhez, más hatósághoz vagy az ellátottjogi képviselőhöz forduljon, vagy a szociális szolgáltató, intézmény vezetője, illetve a fenntartó a panaszt határidőben nem vizsgálja ki,
 
@@ -32,7 +32,7 @@ n) a fejlesztő foglalkoztatást nyújtó szociális szolgáltató, intézmény 
 
 (3) A kincstár bírságot szabhat ki a fenntartóval szemben, ha az országos jelentési rendszerbe történő bejelentési kötelezettségét határidőben részben vagy egészben nem teljesíti, vagy valótlan adatot szolgáltat.
 
-(4) Nem szabható ki bírság, ha a jogsértés elkövetésétől, illetve a jogsértő állapot megszűnésétől számított öt év eltelt, vagy a (3) bekezdés szerinti esetben a hibás vagy hiányos adatról – az adatszolgáltatással megegyező módon – a fenntartó vagy a szociális szolgáltató, intézmény értesítette a kincstárt. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
+(4) Nem szabható ki bírság, ha a jogsértő magatartás megvalósulásától, illetve a jogsértő állapot megszűnésétől számított öt év eltelt, vagy a (3) bekezdés szerinti esetben a hibás vagy hiányos adatról – az adatszolgáltatással megegyező módon – a fenntartó vagy a szociális szolgáltató, szociális intézmény értesítette a kincstárt.
 
 (5) A szociális szolgáltató, intézmény vezetőjére vonatkozó rendelkezéseket arra a személyre is alkalmazni kell, aki a szociális szolgáltató, intézmény vezetőjének jogszabályban meghatározott azon feladatát ellátja, amelyből származó jog gyakorlásával, illetve kötelesség megszegésével a jogsértést elkövették.
 

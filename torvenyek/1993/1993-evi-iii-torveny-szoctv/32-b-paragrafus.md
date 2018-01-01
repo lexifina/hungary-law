@@ -2,13 +2,15 @@
 
 32/B. § (1) Az időskorúak járadéka a megélhetést biztosító jövedelemmel nem rendelkező időskorú személyek részére nyújtott támogatás. A járási hivatal időskorúak járadékában részesíti azt
 
-a) a reá irányadó nyugdíjkorhatárt betöltött személyt, akinek saját és vele együtt lakó házastársa, élettársa jövedelme alapján számított egy főre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 80%-át,
+a) a reá irányadó nyugdíjkorhatárt betöltött személyt, akinek saját és vele együtt lakó házastársa, élettársa jövedelme alapján számított egy főre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 85%-át,
 
-b) az egyedülálló, a reá irányadó nyugdíjkorhatárt betöltött, de 75 évesnél fiatalabb személyt, akinek havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 95%-át,
+b) az egyedülálló, a reá irányadó nyugdíjkorhatárt betöltött, de 75 évesnél fiatalabb személyt, akinek havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 100%-át,
 
-c) az egyedülálló, 75. életévét betöltött személyt, akinek havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 130%-át.
+c) az egyedülálló, 75. életévét betöltött személyt, akinek havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 135%-át.
 
-(2) Az aktív korúak ellátására való jogosultságnak a nyugdíjkorhatár betöltésére tekintettel történő megszüntetése esetén a járási hivatal a döntés jogerőre emelkedését követően haladéktalanul, hivatalból eljárást indít az időskorúak járadékára való jogosultság megállapítása iránt. A jogosultság megállapítása esetén annak kezdő napja az aktív korúak ellátására való jogosultság megszűnését követő nap.
+(1a) 2018. évtől az időskorúak járadékának (1) bekezdés szerinti jövedelmi jogosultsági határai Tny. 62. § (1) bekezdésében meghatározott szabályok szerint, a nyugdíjemeléssel megegyező arányban emelkednek. Az időskorúak járadéka jövedelmi jogosultsági határainak forintban kifejezett összegét a Kormány évente rendeletben meghatározza.
+
+(2) Az aktív korúak ellátására való jogosultságnak a nyugdíjkorhatár betöltésére tekintettel történő megszüntetése esetén a járási hivatal a döntés véglegessé válását követően haladéktalanul, hivatalból eljárást indít az időskorúak járadékára való jogosultság megállapítása iránt. A jogosultság megállapítása esetén annak kezdő napja az aktív korúak ellátására való jogosultság megszűnését követő nap.
 
 (3) A járási hivatal időskorúak járadékában részesíti a 3. § (3) bekezdés b) pontjában, valamint (4) bekezdésében meghatározott személyt, amennyiben az e törvényben foglalt feltételeknek megfelel.
 

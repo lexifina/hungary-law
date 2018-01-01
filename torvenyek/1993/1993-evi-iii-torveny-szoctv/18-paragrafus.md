@@ -26,7 +26,7 @@ dd) megállapítására, megváltoztatására, megszűnésére vagy megszüntet�
 
 de) megszűnésének vagy megszüntetésének jogcímét;
 
-e) a szociális ellátásra való jogosultsággal összefüggő érdemi döntés jogerőre emelkedésének időpontját;
+e) a szociális ellátásra való jogosultsággal összefüggő érdemi döntés véglegessé válásának időpontját;
 
 f) a szociális ellátás megállapítása során figyelembe vett, egy főre vagy egy fogyasztási egységre jutó jövedelem összegét;
 
@@ -34,7 +34,7 @@ g) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon 
 
 h)–i)
 
-j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító jogerős döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét;
+j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító végleges döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét;
 
 k)
 

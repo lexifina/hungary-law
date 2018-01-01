@@ -8,13 +8,13 @@ a) a pénzbeli szociális ellátások elszámolásának szabályait;
 
 b) a közgyógyellátásra való jogosultság, valamint az igazolványok kiadásának, visszavonásának, az igazolvány alapján járó kedvezmények igénybevételének részletes szabályait, valamint az igazolvány tartalmát;
 
-c)
+c) az Országos Szociálpolitikai Szakértői Névjegyzékkel, valamint a szakértők tevékenységével összefüggő részletes szabályokat;
 
 d) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályait;
 
 e) a személyes gondoskodást nyújtó ellátásokért fizetendő térítési díjak megállapításának részletes szabályait,
 
-f) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a szociális szolgáltatók és szociális intézmények ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a szociális szolgáltatók és szociális intézmények ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a 92/K. § (8)–(10) bekezdése szerinti közzététel részletes szabályait, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését;
+f) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a szociális szolgáltatók és szociális intézmények ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a szociális szolgáltatók és szociális intézmények ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a 92/K. § (8)–(10) bekezdése szerinti közhírré tétel részletes szabályait, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését;
 
 g) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának és elszámolásának részletes szabályait,
 
@@ -26,7 +26,7 @@ k) a 3. § (3) és (4) bekezdésében meghatározott személyekre vonatkozó ell
 
 l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak részletes szabályait;
 
-m)
+m) a tartós ápolást végzők időskori támogatásának igénylésére, megállapítására és folyósítására vonatkozó szabályokat;
 
 n) a szociális hatóság és a szociális szakértői szerv kijelölését;
 
@@ -56,7 +56,7 @@ z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartá
 
 (2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
-a) az Országos Szociálpolitikai Szakértői Névjegyzékkel, valamint a szakértők tevékenységével összefüggő részletes szabályokat;
+a)
 
 b) a szociális szolgáltatások működési feltételére vonatkozó szabályait,
 

@@ -29,3 +29,5 @@ i) a nagy létszámú intézmények átalakítását követően támogatott lakh
 (6) Családsegítés a gyermekjóléti szolgáltatással egy szolgáltató – a család- és gyermekjóléti szolgálat – keretében működtethető. A család- és gyermekjóléti szolgálat ellátja a családsegítés (4) bekezdés szerinti feladatait, valamint a Gyvt. 39. és 40. §-a szerinti gyermekjóléti szolgáltatási feladatokat.
 
 (7) A család- és gyermekjóléti szolgálat az ellátási területén – felkérésre – közreműködik a kormányrendeletben meghatározott európai uniós forrásból megvalósuló program keretében természetben biztosítható eseti vagy rendszeres juttatás célzott és ellenőrzött elosztásában.
+
+(8) A Gyvt. szerinti család- és gyermekjóléti központ a család szociális helyzetének átfogó vizsgálata alapján elkészíti az igénybe venni javasolt szociális szolgáltatásokat meghatározó szociális diagnózist. A család- és gyermekjóléti központ a szociális diagnózis elkészítésébe bevonhatja a nem járásszékhely településen működő család- és gyermekjóléti szolgálatokat. A jogosultsági feltételek fennállása esetén a szociális diagnózis kötelezi a szociális szolgáltatókat és a szociális intézményeket.

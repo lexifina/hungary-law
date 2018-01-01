@@ -1,1 +1,1 @@
-14. § A szociális hatáskört gyakorló szerv által a szociális igazgatási eljárásban hozott kötelezettséget megállapító határozat jogerőre emelkedésétől számított egy év eltelte után nincs helye végrehajtásnak.
+14. § A végrehajtáshoz való jog a kötelezettséget megállapító döntés véglegessé válásának időpontjától, vagy ha a véglegessé vált döntés teljesítési határidőt vagy határnapot állapított meg, a határidő utolsó napjától, illetve a határnaptól számított egy év elteltével évül el. A végrehajtás elévülését a 17/A. § (1) bekezdése szerinti cselekmény is megszakítja.

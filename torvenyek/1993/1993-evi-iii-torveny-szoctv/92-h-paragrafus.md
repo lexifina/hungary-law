@@ -1,1 +1,1 @@
-92/H. § A működési nyilvántartásból adatok a nyilvántartásba vett személy, a munkáltató, valamint a továbbképzést, szakvizsgáztatást szervező, továbbá – az adatvédelmi jogszabályok megtartásával – tudományos, statisztikai feldolgozást végzők részére továbbíthatók.
+92/H. § A működési nyilvántartásból adatok a nyilvántartásba vett személy, a munkáltató, valamint a továbbképzést, vezetőképzést szervező, továbbá – az adatvédelmi jogszabályok megtartásával – tudományos, statisztikai feldolgozást végzők részére továbbíthatók.

@@ -18,7 +18,7 @@ b) a 32/B. § (1) bekezdésében meghatározott időskorúak járadéka tekintet
 
 amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik.
 
-(4) A 32/B. § (1) bekezdésében meghatározott időskorúak járadéka tekintetében a törvény hatálya kiterjed a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártya) rendelkező harmadik országbeli állampolgárra, feltéve, hogy rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel.
+(4) A 32/B. § (1) bekezdésében meghatározott időskorúak járadéka tekintetében a törvény hatálya kiterjed a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártya) rendelkező harmadik országbeli állampolgárra.
 
 (4a) A 84. §-ban meghatározott ellátások tekintetében a törvény hatálya kiterjed arra a személyre, akinek
 
@@ -33,6 +33,8 @@ c) idegenrendészeti vagy menekültügyi eljárásban az idegenrendészeti vagy 
 (4b) A 84. §-ban meghatározott ellátásokat a (4a) bekezdésben felsorolt külföldiek az idegenrendészeti vagy a menekültügyi hatóság által kiállított ideiglenes tartózkodásra jogosító igazolás, vagy humanitárius tartózkodási engedély és a (4a) bekezdésben foglalt feltételek fennállását tanúsító hatósági igazolás birtokában vehetik igénybe.
 
 (4c) A 32/B. § (1) bekezdésében meghatározott időskorúak járadéka tekintetében a törvény hatálya kiterjed az összevont engedéllyel rendelkező, Magyarország területén jogszerűen tartózkodó harmadik országbeli állampolgárra.
+
+(4d) A 32/B. § (1) bekezdésében meghatározott időskorúak járadéka tekintetében a törvény hatálya kiterjed a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv hatálya alá tartozó tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárra.
 
 (5) E törvény meghatározza a pénzbeli, a természetben nyújtott és a személyes gondoskodást nyújtó szociális ellátások egyes formáit, a jogosultság feltételeit, annak megállapítását, a szociális ellátás finanszírozásának elveit és intézményrendszerét, a szociális ellátást nyújtó szervezet és a jogosult közötti jogviszony főbb elemeit, továbbá a fenntartónak a szolgáltatóval, illetve intézménnyel kapcsolatos feladat- és jogkörét, valamint a személyes gondoskodást nyújtó szociális, gyermekjóléti, gyermekvédelmi tevékenységet végző személy adatainak működési nyilvántartására vonatkozó szabályokat.
 

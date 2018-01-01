@@ -18,7 +18,7 @@ b) az (1a) bekezdésben meghatározott határidőt elmulasztva teljesíti, az ak
 
 kell ismét folyósítani.
 
-(1c) Ha a tényállás tisztázott, az aktív korúak ellátása folyósításának szünetelésével kapcsolatos döntés jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánítható. A határozattal szembeni bírósági felülvizsgálati eljárásban nincs helye a határozat végrehajtása felfüggesztésének.
+(1c) Ha a tényállás tisztázott, az aktív korúak ellátása folyósításának szünetelésével kapcsolatos döntés azonnal végrehajthatóvá nyilvánítható.
 
 (1d) A közfoglalkoztatásban vagy a 36. § (1) bekezdés c) pontja szerinti képzésben való részvétel, valamint a keresőtevékenység – ide nem értve az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát – időtartamára tekintettel folyósított aktív korúak ellátása jogosulatlanul, de – az (1a) bekezdés szerinti bejelentési kötelezettség teljesítése esetén – nem rosszhiszeműen igénybe vett ellátásnak minősül, amelynek megtérítéséről a szociális hatóság a 17. § (1) bekezdés alapján rendelkezik.
 

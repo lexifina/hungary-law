@@ -12,7 +12,7 @@ a)
 
 b)
 
-c) fenntartásában lévő szociális intézmény olyan szociális szolgáltatást nyújt, amely nincs jogerősen bejegyezve a szolgáltatói nyilvántartásba, a központi költségvetésről szóló törvényben biztosított támogatás nyolc százaléka,
+c) fenntartásában lévő szociális intézmény olyan szociális szolgáltatást nyújt, amely nincs véglegessé vált döntéssel bejegyezve a szolgáltatói nyilvántartásba, a központi költségvetésről szóló törvényben biztosított támogatás nyolc százaléka,
 
 d) nem biztosítja a kötelező gyógyszerkészletet vagy gyógyászati segédeszközt, az éves központi költségvetésről szóló törvényben biztosított támogatás nyolc százaléka.
 

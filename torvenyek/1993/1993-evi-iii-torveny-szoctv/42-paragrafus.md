@@ -8,7 +8,7 @@ ab) az óvoda vagy a nappali ellátást nyújtó szociális intézmény igénybe
 
 ac) a köznevelési, illetve a felsőoktatási intézmény látogatása, vagy a nappali ellátást nyújtó szociális intézmény igénybevétele csak az ápolást végző személy rendszeres közreműködésével valósítható meg,
 
-b) rendszeres pénzellátásban részesül, és annak összege meghaladja az ápolási díj összegét, ide nem értve a (4) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet az ápolási díj folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak,
+b) – a tartós ápolást végzők időskori támogatása kivételével – rendszeres pénzellátásban részesül, és annak összege meghaladja az ápolási díj összegét, ide nem értve a (4) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet az ápolási díj folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak,
 
 c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve felsőoktatási intézmény nappali képzésben részt vevő hallgatója,
 
@@ -44,4 +44,4 @@ c) az a) pont szerinti ellátásra való jogosultság kezdő napját megelőző 
 
 (5) A (4) bekezdés alkalmazása során a 41. § (1) bekezdés a) pontja szerinti, valamint kiemelt ápolási díjra való jogosultság időtartamát össze kell számítani.
 
-(6) Amennyiben az ápolási díjra jogosultság a (2) bekezdés g) pontja alapján került megszüntetésre, a döntés jogerőre emelkedésétől számított hat hónapon belül ismételten nem állapítható meg.
+(6) Amennyiben az ápolási díjra jogosultság a (2) bekezdés g) pontja alapján került megszüntetésre, a döntés véglegessé válásától számított hat hónapon belül ismételten nem állapítható meg.

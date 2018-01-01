@@ -8,9 +8,9 @@ b) aki vakok személyi járadékában részesül, vagy
 
 c) aki fogyatékossági támogatásban részesül [az a)–c) pont szerinti személy a továbbiakban együtt: egészségkárosodott személy], vagy
 
-d) akinek esetében a munkanélküli-járadék, álláskeresési járadék, álláskeresési segély, vállalkozói járadék (a továbbiakban együtt: álláskeresési támogatás) folyósítási időtartama lejárt, vagy
+d) akinek esetében a munkanélküli-járadék, álláskeresési járadék, álláskeresési segély, vállalkozói járadék (a továbbiakban együtt: álláskeresési ellátás) folyósítási időtartama lejárt, vagy
 
-e) akinek esetében az álláskeresési támogatás folyósítását keresőtevékenység folytatása miatt a folyósítási idő lejártát megelőzően szüntették meg, és a keresőtevékenységet követően az Flt. alapján álláskeresési támogatásra nem szerez jogosultságot, vagy
+e) akinek esetében az álláskeresési ellátás folyósítását keresőtevékenység folytatása miatt a folyósítási idő lejártát megelőzően szüntették meg, és a keresőtevékenységet követően az Flt. alapján álláskeresési ellátásra nem szerez jogosultságot, vagy
 
 f) aki az aktív korúak ellátása iránti kérelem benyújtását megelőző két évben az állami foglalkoztatási szervvel vagy a rehabilitációs hatósággal legalább egy év időtartamig együttműködött, vagy
 
@@ -20,7 +20,7 @@ feltéve, hogy saját maga és családjának megélhetése más módon nem bizto
 
 (1a) Az aktív korúak ellátása tekintetében – ha e törvény eltérően nem rendelkezik – nem minősül keresőtevékenységnek, ha a kérelmező, illetve a jogosult közfoglalkoztatásban, egyszerűsített foglalkoztatásban vesz részt vagy háztartási munkát végez.
 
-(1b) Az (1) bekezdés a) pontja szerinti esetben az egészségkárosodott személy egészségkárosodásának mértékét, az egészségkárosodás felülvizsgálatának szükségességét, valamint a felülvizsgálat szükségessége esetén annak időpontját az eljáró hatóság szakkérdésként megvizsgálja. Ha az elsőfokú eljárásban a szakkérdést vizsgálni kell, az ügyintézési határidő negyven nap.
+(1b) Az (1) bekezdés a) pontja szerinti esetben az egészségkárosodott személy egészségkárosodásának mértékét, az egészségkárosodás felülvizsgálatának szükségességét, valamint a felülvizsgálat szükségessége esetén annak időpontját az eljáró hatóság szakkérdésként megvizsgálja.
 
 (2) Az (1) bekezdés alkalmazásában akkor nem biztosított a megélhetés, ha a családnak az egy fogyasztási egységre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 90%-át és vagyona nincs. Az aktív korúak ellátása tekintetében fogyasztási egység a családtagoknak a családon belüli fogyasztási szerkezetet kifejező arányszáma, ahol
 
@@ -40,7 +40,7 @@ f) az a) és b) pontok szerinti arányszám 0,2-vel növekszik, ha a személy fo
 
 (4) Az aktív korúak ellátására való jogosultság
 
-a) az (1) bekezdés d) pontjában foglalt esetben az Flt. alapján folyósított álláskeresési támogatás időtartamának kimerítésétől,
+a) az (1) bekezdés d) pontjában foglalt esetben az Flt. alapján folyósított álláskeresési ellátás időtartamának kimerítésétől,
 
 b) az (1) bekezdés e) pontjában foglalt esetben a keresőtevékenység megszűnésétől,
 
@@ -48,10 +48,12 @@ c) az (1) bekezdés g) pontja szerinti rendszeres pénzellátás folyósításá
 
 számított tizenkettő hónapon belül benyújtott kérelem alapján állapítható meg.
 
-(4a) Amennyiben az aktív korúak ellátására való jogosultságot az Flt. szerinti álláskeresési támogatás kimerítésétől számított 30 napon belül benyújtott kérelem alapján állapítják meg, az ellátásra való jogosultság kezdő napja az álláskeresési támogatás kimerítését követő nap.
+(4a) Amennyiben az aktív korúak ellátására való jogosultságot az Flt. szerinti álláskeresési ellátás kimerítésétől számított 30 napon belül benyújtott kérelem alapján állapítják meg, az ellátásra való jogosultság kezdő napja az álláskeresési ellátás kimerítését követő nap.
 
 (5) Aktív korúak ellátására egy családban egyidejűleg – a (6) bekezdésben meghatározott kivétellel – csak egy személy jogosult.
 
 (6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a foglalkoztatást helyettesítő támogatás, míg a másik személy az egészségkárosodási és gyermekfelügyeleti támogatás feltételeinek felel meg.
 
 (7) Az aktív korúak ellátására való jogosultság megállapítása során nincs helye a sommás eljárás alkalmazásának.
+
+(8) Az aktív korúak ellátására vonatkozó rendelkezések alkalmazásában az uniós rendeletek alapján külföldi szerv által folyósított álláskeresési ellátás az Flt. szerinti álláskeresési ellátással egy tekintet alá esik.

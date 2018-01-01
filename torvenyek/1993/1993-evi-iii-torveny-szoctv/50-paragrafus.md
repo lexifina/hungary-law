@@ -26,7 +26,7 @@ ge) öregségi nyugdíjban részesül, és a nyugdíjra való jogosultságának 
 
 h) az aki, vagy aki után szülője vagy eltartója magasabb összegű családi pótlékban részesül.
 
-(2) Normatív jogcímen jogosult közgyógyellátásra az a személy, akinek esetében a havi rendszeres gyógyító ellátásnak az 50/A. § (4) bekezdése szerint elismert térítési díja (a továbbiakban: rendszeres gyógyító ellátás költsége) az öregségi nyugdíj mindenkori legkisebb összegének a 10%-át meghaladja, feltéve hogy a családjában az egy főre jutó havi jövedelem nem éri el az öregségi nyugdíj mindenkori legkisebb összegét, egyedülélő esetén 150%-át. A rendszeres gyógyító ellátás költségének számításánál az Eb. 23. §-ának b), d) és e) pontja alapján fizetendő térítési díjat nem kell figyelembe venni.
+(2) Normatív jogcímen jogosult közgyógyellátásra az a személy, akinek esetében a havi rendszeres gyógyító ellátásnak az 50/A. § (4) bekezdése szerint elismert térítési díja (a továbbiakban: rendszeres gyógyító ellátás költsége) az öregségi nyugdíj mindenkori legkisebb összegének a 10%-át meghaladja, feltéve, hogy a családjában az egy főre jutó havi jövedelem nem éri el az öregségi nyugdíj mindenkori legkisebb összegének 105%-át, egyedül élő esetén a 155%-át. A rendszeres gyógyító ellátás költségének számításánál az Eb. 23. § b), d) és e) pontja alapján fizetendő térítési díjat nem kell figyelembe venni.
 
 (3)
 
@@ -36,10 +36,10 @@ h) az aki, vagy aki után szülője vagy eltartója magasabb összegű családi 
 
 (5) A közgyógyellátás iránti kérelem a jogosultság időtartama alatt, annak lejártát megelőző három hónapban is benyújtható. Amennyiben az eljárás a jogosultság lejárta előtt legalább 15 nappal korábban befejeződik, az új jogosultság kezdő időpontjaként a korábbi jogosultság lejártát követő napot kell megállapítani.
 
-(6) Ha a normatív közgyógyellátás iránti kérelmet jogerősen elutasították, és az újabb kérelem benyújtásáig
+(6) Ha a normatív közgyógyellátás iránti kérelmet véglegessé vált döntéssel elutasították, és az újabb kérelem benyújtásáig
 
 a) a gyógykezelést szolgáló terápiában, illetőleg a gyógyszerek térítési díjában nem következett be olyan változás, amelynek következtében a havi rendszeres gyógyító ellátás költsége megnőtt, és
 
 b) a kérelmező jövedelme nem változott,
 
-a járási hivatal a kérelmet érdemi vizsgálat nélkül elutasítja.
+a járási hivatal a kérelmet visszautasítja.

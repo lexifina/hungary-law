@@ -1,4 +1,4 @@
-5. § (1) A pénzbeli és a természetben nyújtott ellátásra jogosultság, a jogosultat érintő jog és kötelezettség megállapítására, továbbá a hatósági ellenőrzésre (a továbbiakban: szociális igazgatási eljárás) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+5. § (1) A pénzbeli és a természetben nyújtott ellátásra jogosultság, a jogosultat érintő jog és kötelezettség megállapítására, továbbá a hatósági ellenőrzésre (a továbbiakban: szociális igazgatási eljárás) az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezéseit kell alkalmazni.
 
 (2) A szociális hatáskört gyakorló szerv tájékoztatást nyújt
 

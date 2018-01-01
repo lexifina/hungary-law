@@ -36,7 +36,7 @@ b) a támogatott lakhatás részeként, a szakmai létszám és tárgyi feltéte
 
 c) a szintén saját fenntartásában álló, (3) bekezdés szerinti szociális szolgáltatások útján, vagy
 
-d) az (1) bekezdés d) pontja szerinti szolgáltatási elemekre kiterjedő tevékenységi köre szerinti, a szolgáltatói nyilvántartásba jogerősen bejegyzett szervezet útján, az intézményi szolgáltatások intézményen kívüli szervezet által történő ellátásának szabályai szerint
+d) az (1) bekezdés d) pontja szerinti szolgáltatási elemekre kiterjedő tevékenységi köre szerinti, a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett szervezet útján, az intézményi szolgáltatások intézményen kívüli szervezet által történő ellátásának szabályai szerint
 
 biztosíthatja.
 
@@ -62,7 +62,7 @@ i) a háztartási vagy háztartást pótló segítségnyújtást házi segítsé
 
 nyújtására a szolgáltatói nyilvántartásba bejegyzés alapján jogosult szervezet útján lehet biztosítani.
 
-(4) A (2) bekezdés d) pontja szerinti esetben a szolgáltatási elemek olyan, a tevékenységi köre szerinti, a szolgáltatói nyilvántartásba jogerősen bejegyzett szervezet útján láthatóak el, amelynek szolgáltatói nyilvántartásba bejegyzett adatai között azonosíthatóan szerepel az (1) bekezdés d) pontja szerinti tevékenység megnevezése.
+(4) A (2) bekezdés d) pontja szerinti esetben a szolgáltatási elemek olyan, a tevékenységi köre szerinti, a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett szervezet útján láthatóak el, amelynek szolgáltatói nyilvántartásba bejegyzett adatai között azonosíthatóan szerepel az (1) bekezdés d) pontja szerinti tevékenység megnevezése.
 
 (5) A lakhatási szolgáltatás
 
