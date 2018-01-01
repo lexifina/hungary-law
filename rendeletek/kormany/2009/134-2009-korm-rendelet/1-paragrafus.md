@@ -162,15 +162,15 @@ e) központi fűtési móddal
 
 (4) A kamattámogatások igénybevételének jogszerűségét
 
-a) a 7. § (1) bekezdés b) pont bb) alpontjában, (7) és (9) bekezdésében meghatározott esetben az adózás rendjéről szóló törvény rendelkezései alapján az állami adóhatóság,
+a)[^21] a 7. § (1) bekezdés b) pont bb) alpontjában, (7) és (9) bekezdésében meghatározott esetben az adóigazgatási rendtartásról szóló törvény rendelkezései alapján az állami adóhatóság,
 
-b)[^21] az a) pont hatálya alá nem tartozó esetekben a járási hivatal
+b)[^22] az a) pont hatálya alá nem tartozó esetekben a járási hivatal
 
 ## ellenőrzi.
 
 (5) Nem minősül új lakás felépítésének meglévő épület, épületrész vagy építmény átalakítása.
 
-(6)[^22] Az e rendeletben meghatározott feltételekkel a központi költségvetésből kamattámogatást igényelhet:
+(6)[^23] Az e rendeletben meghatározott feltételekkel a központi költségvetésből kamattámogatást igényelhet:
 
 a) a magyar állampolgár,
 
@@ -182,7 +182,7 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 
 e) menekült vagy oltalmazott, ha a menedékjogról szóló törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkezik.
 
-(7)[^23] Nem támogatott személy hiteladós az e rendelet szerinti kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
+(7)[^24] Nem támogatott személy hiteladós az e rendelet szerinti kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
 
 a) nyilatkozik és vállalja az 5. § (1) bekezdésben foglaltakat és
 
@@ -192,7 +192,7 @@ ba) a kölcsönszerződés lejártáig nem támogatott személy hiteladósként 
 
 bb) az e rendelet szerinti kamattámogatásos kölcsönnel érintett lakásban lakóhelyet nem létesít.
 
-c)[^24] hozzájárul ahhoz, hogy természetes személyazonosító adatait, adóazonosító jelét, valamint a kamattámogatásra vonatkozó információkat a kamattámogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja a járási hivatal és a Magyar Államkincstár (a továbbiakban: Kincstár) részére
+c)[^25] hozzájárul ahhoz, hogy természetes személyazonosító adatait, adóazonosító jelét, valamint a kamattámogatásra vonatkozó információkat a kamattámogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja a járási hivatal és a Magyar Államkincstár (a továbbiakban: Kincstár) részére
 
 [^1]: Az 1. § (1) bekezdése a 144/2012. (VII. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés 1. pont a) alpontja a 128/2013. (IV. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
@@ -214,7 +214,8 @@ c)[^24] hozzájárul ahhoz, hogy természetes személyazonosító adatait, adóa
 [^18]: Az 1. § (2) bekezdés 25. pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^19]: Az 1. § (2) bekezdés 26. pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^20]: Az 1. § (3) bekezdése a 455/2015. (XII. 29.) Korm. rendelet 2. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^21]: Az 1. § (4) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 135. § (5) bekezdés 1. pontja szerint módosított szöveg.
-[^22]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^23]: Az 1. § (7) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 46. § (2) bekezdése iktatta be.
-[^24]: Az 1. § (7) bekezdés c) pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 135. § (5) bekezdés 1. pontja szerint módosított szöveg.
+[^21]: Az 1. § (4) bekezdés a) pontja a 475/2017. (XII. 28.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^22]: Az 1. § (4) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 135. § (5) bekezdés 1. pontja szerint módosított szöveg.
+[^23]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^24]: Az 1. § (7) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^25]: Az 1. § (7) bekezdés c) pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 135. § (5) bekezdés 1. pontja szerint módosított szöveg.
