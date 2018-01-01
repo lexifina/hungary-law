@@ -1,0 +1,5 @@
+4. § (1) A megyei rendőr-főkapitányság által hozott határozathoz tájékoztatás céljából mellékelni kell a határrend betartására vonatkozó, jogszabályban vagy nemzetközi szerződésben meghatározott előírásokat is.
+
+(2) A határozatot hozó megyei rendőr-főkapitányság a határozatot közli a határvízen való közlekedés útvonala szerint illetékes megyei rendőr-főkapitánysággal.
+
+(3) A határozatban tájékoztatni kell az ügyfelet, hogy a határvízen történő közlekedéssel összefüggésben az államhatáron való áttévedés, átsodródás vagy más határrendsértés esetén haladéktalanul értesíteni kell a rendőrséget.
