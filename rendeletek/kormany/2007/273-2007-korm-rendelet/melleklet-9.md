@@ -1,6 +1,6 @@
 9. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szüneteltetett tevékenységének folytatására vonatkozó engedély iránti kérelméhez benyújtandó dokumentumok[^484]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szüneteltetett tevékenységének folytatására vonatkozó engedély iránti kérelméhez benyújtandó dokumentumok[^487]
 
 1. A szüneteltetési engedély száma, lejártának dátuma,
 
@@ -10,7 +10,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szünetel
 
 4. Az erőmű élettartamának időtartamára szóló független szaktanácsadó által ellenőrzött üzleti terv,
 
-5.[^485] Műszaki adatok (amennyiben az engedélyezéshez benyújtottól eltér):
+5.[^488] Műszaki adatok (amennyiben az engedélyezéshez benyújtottól eltér):
 
 5.1. egyvonalas villamos kapcsolási rajz,
 
@@ -30,5 +30,5 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szünetel
 
 5.9. légszennyező pontforrás névleges teljesítőképességhez tartozó szén-monoxid, szén-dioxid, nitrogén-oxid, nitrogén-dioxid és kén dioxid kibocsátása (mg/m3).
 
-[^484]: A Vhr. 9. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdése szerint módosított szöveg.
-[^485]: A Vhr. 9. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdésével megállapított szöveg.
+[^487]: A Vhr. 9. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdése szerint módosított szöveg.
+[^488]: A Vhr. 9. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdésével megállapított szöveg.

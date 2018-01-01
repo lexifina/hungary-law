@@ -38,21 +38,21 @@
 
 ## 3.5. Eltérő megállapodás hiányában minden felhasználási helyre külön villamosenergia-vásárlási szerződést kell kötni.
 
-## 3.6.[^419] Az egyetemes szolgáltató az általános szerződési feltételek megismerését az ügyfélszolgálatán és a honlapján lehetővé teszi, valamint azt a villamosenergia-vásárlási szerződés megkötésével egyidejűleg a felhasználónak átadja vagy kérése esetén részére megküldi.
+## 3.6.[^421] Az egyetemes szolgáltató az általános szerződési feltételek megismerését az ügyfélszolgálatán és a honlapján lehetővé teszi, valamint azt a villamosenergia-vásárlási szerződés megkötésével egyidejűleg a felhasználónak átadja vagy kérése esetén részére megküldi.
 
 ## 4. Elszámolás
 
 ## 4.1. A villamos energia árváltozása esetén, amennyiben az árváltozás időpontjára a fogyasztásmérő-berendezés leolvasása vagy adatrögzítés nem történik, az egyetemes szolgáltatásért fizetendő árat az egyetemes szolgáltató kezdeményezésére történt felhasználói adatközlés, vagy ennek hiányában a felhasználás időarányos megosztásával kell megállapítani és számlázni.
 
-## 4.2.[^420] Ha az elszámolási időszak időtartama az egy hónapot meghaladja – a felek eltérő megállapodásának hiányában – az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámlát jogosult kibocsátani azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók.
+## 4.2.[^422] Ha az elszámolási időszak időtartama az egy hónapot meghaladja – a felek eltérő megállapodásának hiányában – az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámlát jogosult kibocsátani azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók.
 
 ## 4.3. Az egyetemes szolgáltató az elszámolási időszak utolsó napjára köteles elszámoló számlát, a villamosenergia-vásárlási szerződés – és amennyiben a hálózathasználati szerződést megbízottként kezeli, a hálózathasználati szerződés – megszűnése esetén a szerződés megszűnésének napjára végszámlát kibocsátani, és a felhasználóval az elszámolási időszakra vonatkozóan teljes körűen elszámolni, amely magában foglalja a tételes pénzügyi elszámolást is.
 
 ## 4.4. Ha az elszámolás eredményeként a felhasználó folyószámláján túlfizetés mutatkozik, a felhasználó eltérő kérésének hiányában, az egyetemes szolgáltató
 
-## a)[^421] 3000 forintot meg nem haladó összeg esetében a felhasználót megillető összeget a felhasználó vagy a fizető következő számlájában számolja el,
+## a)[^423] 3000 forintot meg nem haladó összeg esetében a felhasználót megillető összeget a felhasználó vagy a fizető következő számlájában számolja el,
 
-## b)[^422] 3000 forintot meghaladó összeg esetében a felhasználó fizetési módja szerinti módon az elszámoló számla kibocsátásától számított 8 napon belül köteles azt a felhasználónak vagy a fizetőnek visszafizetni.
+## b)[^424] 3000 forintot meghaladó összeg esetében a felhasználó fizetési módja szerinti módon az elszámoló számla kibocsátásától számított 8 napon belül köteles azt a felhasználónak vagy a fizetőnek visszafizetni.
 
 ## 4.5. A villamosenergia-vásárlási szerződés megszűnésekor keletkező visszautalandó összeget az egyetemes szolgáltató köteles 8 napon belül visszafizetni a felhasználónak vagy a fizetőnek.
 
@@ -60,9 +60,11 @@
 
 ## 4.7. Az egyetemes szolgáltató köteles a számla felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a felhasználónak vagy a fizetőnek a kézhezvételtől legalább 8 nap rendelkezésére álljon.
 
-## 4.8.[^423] Az egyetemes szolgáltató adott alkalommal legfeljebb három, egymást követő időközre vonatkozó részszámlát bocsáthat ki.
+## 4.8.[^425] Az egyetemes szolgáltató adott alkalommal legfeljebb három, egymást követő időközre vonatkozó részszámlát bocsáthat ki.
 
-## 4.9.[^424] Ha az egyetemes szolgáltató adott alkalommal több részszámlát bocsát ki, akkor az egyes részszámlák esedékessége között legalább 30 napnak kell lennie.
+## 4.9.[^426] Ha az egyetemes szolgáltató adott alkalommal több részszámlát bocsát ki, akkor az egyes részszámlák esedékessége között legalább 30 napnak kell lennie.
+
+## 4.10.[^427] Az előre fizetős mérő használatával vételezett villamos energia mennyisége és ára vonatkozásában az egyetemes szolgáltató – a hibás mérés kivételével – utólagos elszámolás-korrekciót nem alkalmazhat.
 
 ## 5. Kifogás a számla ellen
 
@@ -100,12 +102,13 @@
 
 ## b) az egyetemes szolgáltató üzletszabályzatában vagy a villamosenergia-vásárlási szerződésben foglalt kötelezettségeit egyéb módon megszegi.
 
-2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^425]
+2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^428]
 
-[^419]: A Vhr. 1. számú melléklet 3.6. pontját a 275/2017. (IX. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^420]: A Vhr. 1. számú melléklet 4.2. pontja a 123/2015. (V. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^421]: A Vhr. 1. számú melléklet 4.4. pont a) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^422]: A Vhr. 1. számú melléklet 4.4. pont b) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^423]: A Vhr. 1. számú melléklet 4.8. pontját a 123/2015. (V. 26.) Korm. rendelet 17. §-a hatályon kívül helyezte, újonnan a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
-[^424]: A Vhr. 1. számú melléklet 4.9. pontját a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
-[^425]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^421]: A Vhr. 1. számú melléklet 3.6. pontját a 275/2017. (IX. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^422]: A Vhr. 1. számú melléklet 4.2. pontja a 123/2015. (V. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^423]: A Vhr. 1. számú melléklet 4.4. pont a) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^424]: A Vhr. 1. számú melléklet 4.4. pont b) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^425]: A Vhr. 1. számú melléklet 4.8. pontját a 123/2015. (V. 26.) Korm. rendelet 17. §-a hatályon kívül helyezte, újonnan a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
+[^426]: A Vhr. 1. számú melléklet 4.9. pontját a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
+[^427]: A Vhr. 1. számú melléklet 4.10. pontját a 497/2017. (XII. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^428]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.

@@ -12,15 +12,15 @@
 
 ## e) a kérelmező VET 24. § (2) bekezdésében meghatározott belső szabályzatának tervezete,
 
-## f) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozata arra vonatkozóan, hogy hozzájárul a kérelemhez mellékelt iratokban foglaltak valódiságának a Hivatal által megkeresett szervek útján történő ellenőrzéséhez és
+## f)[^490]
 
-## g) mindazon személyeknek, akik a tanúsítási eljárás lefolytatására irányuló kérelemhez csatolt iratokat aláírták
+## g)[^491] mindazon személyeknek, akik a tanúsítási eljárás lefolytatására irányuló kérelemhez csatolt iratokat aláírták
 
-## ga) közjegyző által hitelesített aláírási címpéldányuk,
+## ga) a közjegyző által hitelesített aláírási címpéldánya,
 
-## gb) ügyvéd, közjegyző vagy a gazdasági társaság jogtanácsosa által cégbejegyzési (változásbejegyzési) eljárásban való közreműködésük során ellenjegyzett aláírási címpéldányuk vagy
+## gb) az ügyvéd vagy kamarai jogtanácsos által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírásmintája, vagy
 
-## gc)[^487] a ga) és gb) szerinti dokumentumok hiteles másolata, a 117/B. § (1a) bekezdésben foglaltak kivételével.
+## gc) a ga) és gb) szerinti dokumentumok hiteles másolata, a 117/B. § (1a) bekezdésben foglaltak kivételével.
 
 ## II. A VET 102–102/E. §-ában meghatározott szétválasztási szabályoknak való megfelelés tanúsítása iránti kérelemhez az I. pontban foglaltakon túl benyújtandó adatok és dokumentumok:
 
@@ -126,7 +126,7 @@
 
 ## b) az átviteli hálózat tulajdonosában operatív irányítást ellátó személy munkaszerződésében vagy munkavégzésre irányuló egyéb jogviszonyát szabályozó szerződésében meghatározott jogai és kötelezettségei, munkabére és egyéb juttatásai, munkavégzésének feltételei és szakmai érdekei oly módon kerültek-e megállapításra, hogy feladatai ellátása során biztosítsák számára a független cselekvés lehetőségét.
 
-12/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^488]
+12/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^492]
 
 Átviteli rendszerirányításra vonatkozó működési engedély kérelemhez benyújtandó dokumentumok
 
@@ -152,5 +152,6 @@ b) az átviteli hálózat és az elosztók hálózatai között,
 
 9. a kérelmező és a villamosenergia-rendszer azon résztvevői közötti szerződések, üzemviteli megállapodások, akik az átviteli rendszerirányító utasításait a villamosenergia-ellátási szabályzatnak megfelelően kötelesek végrehajtani.
 
-[^487]: A Vhr. 12. számú melléklet I. pont gc) alpontja a 355/2012. (XII. 13.) Korm. rendelet 28. § (5) bekezdésével megállapított szöveg.
-[^488]: A Vhr. 12/a. számú mellékletét a 75/2011. (V. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^490]: A Vhr. 12. számú melléklet I. pont f) alpontját a 457/2017. (XII. 28.) Korm. rendelet 199. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^491]: A Vhr. 12. számú melléklet I. g) pontja a 393/2017. (XII. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^492]: A Vhr. 12/a. számú mellékletét a 75/2011. (V. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.

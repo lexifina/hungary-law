@@ -8,10 +8,10 @@
 
 (5) Ha a háztartási méretű kiserőmű a csatlakozási ponton a közcélú hálózatba villamos energiát betáplál, akkor a háztartási méretű kiserőmű üzemeltetőjével, mint felhasználóval jogviszonyban álló villamosenergia-kereskedő, illetve egyetemes szolgáltató elszámolási időszakonként a hálózatba összesen betáplált és vételezett villamos energia vonatkozásában a felek megállapodása szerint havi, féléves vagy éves szaldó elszámolást alkalmaz.
 
-(6)[^24] Amennyiben az elszámolási időszak során a vételezett és betáplált villamosenergia-mennyiségek szaldója alapján az elosztó hálózatba történő villamos energia betáplálás áll fenn, a betáplált villamosenergia-teljesítményt a háztartási méretű kiserőmű üzemeltetőjével jogviszonyban álló villamosenergia-kereskedő által a részére – mint felhasználó részére – a villamosenergia-vásárlási szerződés alapján értékesített villamos energia átlagos termékárán kell elszámolni.
+(6)[^25] Amennyiben az elszámolási időszak során a vételezett és betáplált villamosenergia-mennyiségek szaldója alapján az elosztó hálózatba történő villamos energia betáplálás áll fenn, a betáplált villamosenergia-teljesítményt a háztartási méretű kiserőmű üzemeltetőjével jogviszonyban álló villamosenergia-kereskedő által a részére – mint felhasználó részére – a villamosenergia-vásárlási szerződés alapján értékesített villamos energia átlagos termékárán kell elszámolni.
 
 (7) A fogyasztásmérő berendezés költségeinek viselésére 3 x 16 A teljesítmény határig a felhasználókra, a felett az erőművekre vonatkozó szabályok alkalmazandók.
 
 (8) A háztartási kiserőművek csatlakoztatásával és üzemeltetésével kapcsolatos további szabályokat az ellátási szabályzatok és a hálózati engedélyesek üzletszabályzatai, a villamos energia értékesítés elszámolásával kapcsolatos további szabályokat a kereskedők üzletszabályzatai tartalmazzák.
 
-[^24]: A Vhr. 5. § (6) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^25]: A Vhr. 5. § (6) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.

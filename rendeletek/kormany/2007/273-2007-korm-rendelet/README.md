@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-273-20-
 | 2017-10-16 | 2007-273-20-22.49 | 275/2017. (IX. 21.) Korm. rendelet |
 | 2017-11-16 | 2007-273-20-22.50 | 343/2017. (XI. 15.) Korm. rendelet |
 | 2017-12-01 | 2007-273-20-22.51 | 123/2015. (V. 26.) Korm. rendelet |
+| 2018-01-01 | 2007-273-20-22.52 | 497/2017. (XII. 29.) Korm. rendelet |

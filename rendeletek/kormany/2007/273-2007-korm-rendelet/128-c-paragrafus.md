@@ -1,3 +1,3 @@
-128/C. §[^407] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, ebben az esetben 2017. december 31-ig az elektronikus kapcsolattartásra e kormányrendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+128/C. §[^409]
 
-[^407]: A Vhr. 128/C. §-át a 477/2016. (XII. 27.) Korm. rendelet 40. § (2) bekezdése iktatta be.
+[^409]: A Vhr. 128/C. §-át a 477/2016. (XII. 27.) Korm. rendelet 40. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 199. § b) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

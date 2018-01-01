@@ -12,7 +12,8 @@
 
 (5) Ha az engedélyes a tevékenység gyakorlásával felhagy, köteles azt a Hivatal részére haladéktalanul bejelenteni és az engedélye visszavonását kérelmezni.
 
-(6) A 27. számú melléklet szerint benyújtandó adatokat elektronikusan, szerkeszthető módon, táblázatos formában is meg kell küldeni a Hivatal részére.
+(6)[^283]
 
 [^281]: A Vhr. 81/A. §-át megelőző alcímet a 281/2016. (IX. 21.) Korm. rendelet 4. §-a iktatta be.
 [^282]: A Vhr. 81/A. §-át a 281/2016. (IX. 21.) Korm. rendelet 4. §-a iktatta be, szövege a 458/2016. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^283]: A Vhr. 81/A. § (6) bekezdését a 458/2016. (XII. 23.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.

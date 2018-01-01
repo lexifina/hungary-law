@@ -1,4 +1,4 @@
-33. §[^171] (1) A fogyatékkal élő lakossági fogyasztó a védendő fogyasztók nyilvántartásába történő felvételére való jogosultságát
+33. §[^172] (1) A fogyatékkal élő lakossági fogyasztó a védendő fogyasztók nyilvántartásába történő felvételére való jogosultságát
 
 a) a 23/b. számú melléklet A) része szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány benyújtásával, és
 
@@ -12,7 +12,7 @@ bc) a villamosenergia-szolgáltatásból való kikapcsolás vagy a villamosenerg
 
 (2) A benyújtott iratokat és a bemutatott iratok másolatát az elosztó a jogosultság megszűnését követő 2 évig köteles megőrizni.
 
-(3)[^172] A fogyatékosság jellegét – amely a fogyatékkal élő fogyasztót alkalmatlanná teszi a mérő leolvasására, a mérőállás közlésére, a számlaolvasásra, vagy a számla felhasználási helyen kívüli, készpénzes fizetéstől eltérő kiegyenlítésére – vagy az (1) bekezdés b) pont bc) alpontjának való megfelelést a kezelőorvos, ennek hiányában a háziorvos igazolja a 23/b. számú melléklet C) része szerinti nyomtatvány kitöltésével a jogszabályok és az engedélyes üzletszabályzata szerinti különleges bánásmód jellegének és tartalmának engedélyes általi azonosítása céljából. Ha a rehabilitációs szakértői szerv az érintett személy egészségi állapotát, egészségkárosodását, fogyatékosságát vizsgálta, a kezelőorvos és a háziorvos a 23/b. számú melléklet C) része szerinti nyomtatványt e szerv szakvéleménye, szakhatósági állásfoglalása vagy határozata alapján tölti ki.
+(3)[^173] A fogyatékosság jellegét – amely a fogyatékkal élő fogyasztót alkalmatlanná teszi a mérő leolvasására, a mérőállás közlésére, a számlaolvasásra, vagy a számla felhasználási helyen kívüli, készpénzes fizetéstől eltérő kiegyenlítésére – vagy az (1) bekezdés b) pont bc) alpontjának való megfelelést a kezelőorvos, ennek hiányában a háziorvos igazolja a 23/b. számú melléklet C) része szerinti nyomtatvány kitöltésével a jogszabályok és az engedélyes üzletszabályzata szerinti különleges bánásmód jellegének és tartalmának engedélyes általi azonosítása céljából. Ha a rehabilitációs szakértői szerv az érintett személy egészségi állapotát, egészségkárosodását, fogyatékosságát vizsgálta, a kezelőorvos és a háziorvos a 23/b. számú melléklet C) része szerinti nyomtatványt e szerv szakvéleménye, szakhatósági állásfoglalása vagy határozata alapján tölti ki.
 
-[^171]: A Vhr. 33. §-a a 378/2011. (XII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^172]: A Vhr. 33. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 107. § (1) bekezdésével megállapított szöveg.
+[^172]: A Vhr. 33. §-a a 378/2011. (XII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^173]: A Vhr. 33. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 107. § (1) bekezdésével megállapított szöveg.
