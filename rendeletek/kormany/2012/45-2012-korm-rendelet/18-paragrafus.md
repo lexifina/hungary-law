@@ -6,11 +6,11 @@
 
 (4) Annak a közigazgatási szervnek kell regisztrálnia a TARTINFO-rendszerbe, amely nem rendelkezik eKözigtad bejelentkezési kóddal és jelszóval.
 
-(5)[^17] A regisztrációhoz szükséges TARTINFO azonosítók kiadását a közigazgatási szerv hivatali szervezetének vezetője igényelheti a 7. melléklet szerinti regisztrációs bejelentő lap megküldésével. A közigazgatási szerv hivatali szervezetének vezetőjének aláírásával ellátott regisztrációs bejelentő lapot a személyügyi központnak kell elektronikus úton megküldeni legalább tizenöt munkanappal a TARTINFO-rendszer használatának megkezdése előtt.
+(5)[^20] A regisztrációhoz szükséges TARTINFO azonosítók kiadását a közigazgatási szerv hivatali szervezetének vezetője igényelheti a 7. melléklet szerinti regisztrációs bejelentő lap megküldésével. A közigazgatási szerv hivatali szervezetének vezetőjének aláírásával ellátott regisztrációs bejelentő lapot a személyügyi központnak kell elektronikus úton megküldeni legalább tizenöt munkanappal a TARTINFO-rendszer használatának megkezdése előtt.
 
-(6)[^18] A személyügyi központ a közigazgatási szerv vezetőjének a TARTINFO azonosítókat a regisztrációs bejelentő lap megérkezésétől számított nyolc munkanapon belül, elektronikus úton küldi meg.
+(6)[^21] A személyügyi központ a közigazgatási szerv vezetőjének a TARTINFO azonosítókat a regisztrációs bejelentő lap megérkezésétől számított nyolc munkanapon belül, elektronikus úton küldi meg.
 
 (7) A közigazgatási szerv hivatali szervezetének vezetője a TARTINFO-rendszerbe történő első bejelentkezéskor megváltoztatja a jelszavát. A megváltoztatott jelszóról a TARTINFO-rendszer elektronikus úton értesíti a közigazgatási szerv hivatali szervezetének vezetőjét.
 
-[^17]: A 18. § (5) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 61. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^18]: A 18. § (6) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 61. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^20]: A 18. § (5) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 61. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 18. § (6) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 61. § (2) bekezdés b) pontja szerint módosított szöveg.
