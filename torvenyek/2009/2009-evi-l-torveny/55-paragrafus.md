@@ -6,6 +6,20 @@
 
 (4) A végrehajtási díj és a biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért fizetett díj kétharmadát a MOKK a végrehajtást elrendelő közjegyzők között az elvégzett munka arányában az igazságügyért felelős miniszter rendeletében meghatározottak szerint munkadíj és költségtérítés címén felosztja. A fennmaradó összeg felét a MOKK a működésére fordítja, a fennmaradó összeg másik fele a Magyar Bírósági Végrehajtói Kart illeti, mely azt a működésére fordítja.
 
-(5) A végrehajtási díjra és a biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért fizetendő díjra, illetve a végrehajtás elrendelésére irányuló eljárásra a 44. § (1) bekezdése, a 46–48. §, a 49. § (1) és (2) bekezdése és az 50. § rendelkezéseit megfelelően alkalmazni kell. Ha a végrehajtást kérő a végrehajtási kérelmét a végrehajtás (biztosítási intézkedés) elrendelése vagy az ügy áttétele tárgyában hozott határozat meghozatala előtt visszavonja, a végrehajtási díj és a biztosítási intézkedés elrendelése iránti díj az (1), illetve a (2) bekezdésben meghatározott összeg 10%-a, de legalább 5000 forint, vagy 50%-a, de legalább 5000 Ft, ha a kérelem visszavonására a hiánypótlás vagy a jogutódlás tárgyában hozott határozat, illetve a hiányoknak a közjegyző által a Vht. 12. § (2) bekezdése szerinti pótlása után kerül sor. A közjegyző határozata ellen előterjesztett fellebbezésre a 43. § (5) és (6) bekezdését alkalmazni kell.
+(5) A végrehajtási díjra és a biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért fizetendő díjra, illetve a végrehajtás elrendelésére irányuló eljárásra a 44. § (1) bekezdése, a 46–48. §, a 49. § (1), (2) és (5) bekezdése és az 50. § rendelkezéseit megfelelően alkalmazni kell. Ha a végrehajtást kérő a végrehajtási kérelmét a végrehajtás (biztosítási intézkedés) elrendelése vagy az ügy áttétele tárgyában hozott határozat meghozatala előtt visszavonja, a végrehajtási díj és a biztosítási intézkedés elrendelése iránti díj az (1), illetve a (2) bekezdésben meghatározott összeg 10%-a, de legalább 5000 forint, vagy 50%-a, de legalább 5000 Ft, ha a kérelem visszavonására a hiánypótlás vagy a jogutódlás tárgyában hozott határozat, illetve a hiányoknak a közjegyző által a Vht. 12. § (2) bekezdése szerinti pótlása után kerül sor. A közjegyző határozata ellen előterjesztett fellebbezésre a 43. § (5) és (6) bekezdését alkalmazni kell.
 
-(6) A Vht. 34. § (5) bekezdésének alkalmazása során illeték alatt a költségfeljegyzési jog folytán meg nem fizetett díjakat is érteni kell.
+(5a) A végrehajtási eljárás során a felet az a személyes költségkedvezmény illeti meg, amelyet a közjegyző részére a fizetési meghagyásos eljárásban vagy a végrehajtás elrendelése iránti eljárásban engedélyezett. Ha a fél a végrehajtás foganatosítása során a Pp. szerinti költségkedvezményt kíván igénybe venni, azt a végrehajtást foganatosító bíróságtól kérheti a költségmentesség és a költségfeljegyzési jog polgári és közigazgatási bírósági eljárásban történő alkalmazásáról szóló törvényben meghatározott feltételek szerint.
+
+(6) A Vht. 34. § (5) bekezdésének alkalmazása során illeték alatt a díjfeljegyzési jog folytán meg nem fizetett díjakat is érteni kell.
+
+(7) Amennyiben a végrehajtást kérő díjfeljegyzési jogban részesült, a közjegyző végzésében a végrehajtást kérőt kötelezi a feljegyzett végrehajtási díj megfizetésére, ha
+
+a) a végrehajtási kérelmet (biztosítási intézkedés elrendelése iránti kérelmet) visszautasítja vagy a végrehajtási lap kiállítását megtagadja,
+
+b) a végrehajtási eljárást befejezetté nyilvánítja,
+
+c) a végrehajtási eljárást megszünteti, vagy
+
+d) a végrehajtási lapot visszavonja.
+
+(8) Ha a közjegyző a végrehajtási eljárást a 32. § (2) bekezdése alapján szünteti meg és a végrehajtást kérő díjfeljegyzési joga folytán a végrehajtási díjat nem fizette meg, a közjegyző felhívja a kötelezettet, hogy a feljegyzett végrehajtási díjat a MOKK részére a végzés kézhezvételétől számított tizenöt napon belül fizesse meg; ezt a végrehajtási díjat a kötelezett viseli. Ha a kötelezett a végrehajtási díjat határidőn belül a MOKK részére nem fizeti meg, a közjegyző az ellentmondást visszautasítja.

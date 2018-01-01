@@ -6,6 +6,6 @@
 
 (4) Az irat az átvételi elismervényben megjelölt időpontban kézbesítettnek minősül.
 
-(5) Ha a címzett az irat felhasználói felületről történő hozzáférhetővé tételét követő tizenöt naptári napon belül az iratot nem veszi át, a címzett részére az iratot a 16. § (2) bekezdése szerint kell kézbesíteni.
+(5) Ha az elektronikus úton kézbesítendő vagy megküldött iratot a címzett az annak hozzáférhetővé válásáról való értesítéstől számított öt munkanapon belül nem veszi át, a MOKK rendszere az ötödik munkanapon ismételt értesítést küld az irat hozzáférhetővé válásáról. Ha a címzett az elektronikus úton kézbesítendő vagy megküldött iratot a második értesítés ellenére nem vette át, a második értesítést követő ötödik munkanapon azt kézbesítettnek kell tekinteni.
 
 (6) Azok az iratok, amelyeket kézbesíteni nem, hanem csak megküldeni kell, az (1) és (2) bekezdés megfelelő alkalmazásával kerülnek megküldésre a címzett részére.

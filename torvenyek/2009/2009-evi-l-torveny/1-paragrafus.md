@@ -1,6 +1,6 @@
-## Általános rendelkezések, a Polgári perrendtartás alkalmazása
+## Általános rendelkezések, a polgári perrendtartás alkalmazása
 
-1. § (1) A fizetési meghagyásos eljárás a közjegyző hatáskörébe tartozó, a pénzkövetelések érvényesítésére szolgáló egyszerűsített polgári nemperes eljárás, melyre – ha e törvény másként nem rendelkezik – a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel kell megfelelően alkalmazni. A fizetési meghagyásos eljárásra az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény rendelkezéseit nem lehet alkalmazni.
+1. § (1) A fizetési meghagyásos eljárás a közjegyző hatáskörébe tartozó, a pénzkövetelések érvényesítésére szolgáló egyszerűsített polgári nemperes eljárás, amelyre – ha e törvény eltérően nem rendelkezik – a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel kell alkalmazni. A fizetési meghagyásos eljárásra az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény (a továbbiakban: Kjnp.) rendelkezéseit – ha e törvény eltérően nem rendelkezik – nem lehet alkalmazni.
 
 (2) A fizetési meghagyásos eljárásban a közjegyző a Magyar Országos Közjegyzői Kamarának (a továbbiakban: MOKK) a közjegyzők, valamint a felek és az eljárásban részt vevő egyéb személyek részére rendelkezésre álló, az interneten elérhető országosan egységes számítástechnikai rendszere (a továbbiakban: MOKK rendszere) használatával, gépi adatfeldolgozással jár el.
 

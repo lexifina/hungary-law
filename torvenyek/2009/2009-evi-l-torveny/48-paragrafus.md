@@ -1,5 +1,5 @@
-48. § (1) Azt a természetes személy felet, aki jövedelmi és vagyoni viszonyai folytán az eljárási költséget fedezni nem tudja, jogai érvényesítésének megkönnyítése végett – kérelmére – részleges vagy teljes költségfeljegyzési jog illeti meg (személyes költségfeljegyzési jog).
+48. § (1) Azt a természetes személy felet, aki jövedelmi és vagyoni viszonyai folytán az eljárási költséget fedezni nem tudja, jogai érvényesítésének megkönnyítése végett – kérelmére – részleges vagy teljes díjfeljegyzési jog illeti meg (személyes díjfeljegyzési jog), ha a költségmentesség és a költségfeljegyzési jog polgári és közigazgatási bírósági eljárásban történő alkalmazásáról szóló törvény szerinti – a költségmentesség engedélyezése alapjául szolgáló – feltételek fennállnak.
 
-(2) Költségfeljegyzési joga alapján a fél részben vagy egészben mentes az eljárási díj előlegezése, valamint a közjegyző határozata ellen előterjesztett fellebbezés és az ellentmondás folytán perré alakult eljárás illetékének viselése alól.
+(2) Díjfeljegyzési joga alapján a fél részben vagy egészben mentes a fizetési meghagyás kibocsátása iránti kérelem előterjesztéséért fizetendő eljárási díj, illetve a végrehajtási díj előlegezése, valamint a közjegyző határozata ellen előterjesztett fellebbezés és az ellentmondás folytán perré alakult eljárás illetékének viselése alól. Ha a fél díjfeljegyzési jogban részesült, erre a beadványaiban utalnia kell.
 
-(3) A személyes költségfeljegyzési jogra a Pp. 85. §-át és 86. §-ának (1)–(3) bekezdését megfelelően alkalmazni kell, a Pp. 84–92. §-át egyebekben nem lehet alkalmazni.
+(3) A személyes díjfeljegyzési jogra a Pp. 95. § (6) bekezdését és 97. §-át megfelelően alkalmazni kell, a Pp. 94–100. §-át egyebekben nem lehet alkalmazni.

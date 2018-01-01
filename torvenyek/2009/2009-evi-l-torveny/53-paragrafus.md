@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdés rendelkezéseit megfelelően kell alkalmazni a fizetési meghagyásnak a 16. § (3) bekezdése alapján történő végrehajtói kézbesítésére.
 
-(3) A Vht.-ban meghatározott iratokat a végrehajtó a MOKK számítógépes rendszerén keresztül, elektronikus úton küldi meg a közjegyzőnek.
+(3) A közjegyző a fizetési meghagyásos eljárás és a végrehajtási eljárás során keletkezett iratokat a MOKK rendszerén keresztül, elektronikus úton a 16/A. § megfelelő alkalmazásával küldi meg a végrehajtónak, és a végrehajtó ugyanezen eljárásban keletkezett iratokat a MOKK rendszerén keresztül, elektronikus úton küldi meg a közjegyzőnek.

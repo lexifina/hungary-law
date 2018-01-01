@@ -4,4 +4,6 @@
 
 (3) A közjegyző a kérelemről történő értesítés kézbesítésével egyidejűleg felhívja a jogosultat, hogy 8 napon belül nyilatkozzék a közjegyzőnek a kérelemben foglaltakra. Ha a jogosult a határidőt elmulasztja, úgy kell tekinteni, hogy a jogosult a kötelezett kérelmének teljesítését nem ellenzi; a kérelem alaposságát ettől függetlenül meg kell vizsgálni.
 
+(3a) A részletfizetést, illetve fizetésre halasztást engedélyező végzés ellen fellebbezésnek van helye. A részletfizetés, illetve fizetésre halasztás engedélyezése iránti kérelem visszautasítása, illetőleg elutasítása tárgyában hozott végzés ellen a kötelezett fellebbezhet.
+
 (4) Nem minősül a fizetési meghagyás megtámadásának a kijavításra irányuló kérelem.

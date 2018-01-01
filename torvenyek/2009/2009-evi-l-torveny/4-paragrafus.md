@@ -8,4 +8,4 @@
 
 (4) Kizárási ok észlelése esetén a kizárást a MOKK elnöke hivatalból kezdeményezi.
 
-(5) A kizárási okot a fél is bejelentheti. E bejelentésnek az eljárás bármely szakában helye van, a Pp. 13. § (1) bekezdés e) pontja alá tartozó okot azonban a fél a fizetési meghagyási ügyben eljáró közjegyző személyének ismertté válása után csupán akkor érvényesítheti, ha azt a fizetési meghagyási ügyben eljáró közjegyző személyéről való tudomásszerzésekor nyomban bejelenti, avagy valószínűsíti, hogy a bejelentés alapjául szolgáló tényről csak ezt követően szerzett tudomást és a kizárási okot nyomban bejelentette.
+(5) A kizárási okot a fél is bejelentheti. E bejelentésnek az eljárás bármely szakában helye van, a Pp. 12. § f) pontja alá tartozó okot azonban a fél a fizetési meghagyási ügyben eljáró közjegyző személyének ismertté válása után csupán akkor érvényesítheti, ha azt a fizetési meghagyási ügyben eljáró közjegyző személyéről való tudomásszerzésekor nyomban bejelenti, avagy valószínűsíti, hogy a bejelentés alapjául szolgáló tényről csak ezt követően szerzett tudomást és a kizárási okot nyomban bejelentette.
