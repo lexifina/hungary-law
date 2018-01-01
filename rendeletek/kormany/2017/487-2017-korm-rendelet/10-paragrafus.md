@@ -1,0 +1,9 @@
+## 9. § A nyilvántartott adatokban történő változást a vállalkozó köteles a tárgyhót követő hónap ötödik napjáig a működési engedély kiadására jogosult rendőrkapitányságnak bejelenteni. A rendőrkapitányság a foglalkoztatottak adataiban bekövetkezett változást az ügyfél által a változásbejegyzési kérelem mellékleteként benyújtott lista alapján új melléklet kiadásával tudomásul veszi.
+
+## 6. Hatósági ellenőrzés
+
+10. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv az Szvmt. 8. § (5) bekezdésében meghatározott ellenőrzési jogkörében végrehajtott ellenőrzésről jegyzőkönyvet vesz fel. A jegyzőkönyv egy példányát az ellenőrzött személynek, a vállalkozás jelen lévő képviselőjének az ellenőrzést követően át kell adni. Az érintett távolléte esetén a jegyzőkönyvet legkésőbb az ellenőrzés napjától számított tíz napon belül az ellenőrzött rendelkezésére kell bocsátani, emellett az ügyfelet tájékoztatni kell arról, hogy az ellenőrzéssel kapcsolatban a jegyzőkönyv rendelkezésre bocsátásától számított öt napon belül nyilatkozatot tehet.
+
+(2) Ha a hatóság az ellenőrzés során jogsértést nem tapasztal, abban az esetben jegyzőkönyv felvétele helyett hivatalos feljegyzést is készíthet, amelyet az ellenőrzött személynek vagy a vállalkozás jelen lévő képviselőjének kérelmére a helyszínen átad vagy részükre az ellenőrzés befejezésétől számított tíz napon belül megküld.
+
+(3) Ha az Szvmt. szabályait megszegő jogsértése nem indokolja az igazolvány helyszíni elvételét, felügyeleti bírság kiszabását, illetve a működési engedély visszavonását, az ellenőrzött személyt – a jegyzőkönyvben rögzített módon – figyelmeztetni kell a jogsértés megszüntetésére, valamint a jogsértés következményeként alkalmazható szankcióra. A jegyzőkönyv az igazolvány vagy határozat átvételi elismervényeként is alkalmazható.
