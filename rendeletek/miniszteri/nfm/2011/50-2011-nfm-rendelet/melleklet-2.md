@@ -48,7 +48,7 @@
 
 | 23. | Budapest | Magyar Telekom Nyrt. | Budapesti Távhőszolgáltató Zrt. | 0 | 2 715 |
 
-| 24. | Budapest | MVM Észak-Budai Fűtőerőmű Kft. | Budapesti Távhőszolgáltató Zrt. | 0 | 3 317 |
+| 24. | Budapest | MVM Észak-Budai Fűtőerőmű Kft. | Budapesti Távhőszolgáltató Zrt. | 133 388 000 | 2 251 |
 
 | 25. | Budapest | Zugló-Therm Energiaszolgáltató Kft. | Budapesti Távhőszolgáltató Zrt. | 0 | 2 715 |
 
@@ -62,21 +62,21 @@
 
 | 30. | Debrecen | Veolia Energia Magyarország Zrt. | Debreceni Hőszolgáltató Zrt. | 163 921 000 | 2 232 |
 
-| 31. | Dorog | Dorogi Erőmű Kft. | PROMTÁVHŐ Kft. | 37 051 000 | 2 399 |
+| 31. | Dorog | Dorogi Erőmű Kft. | PROMTÁVHŐ Kft. | 13 961 000 | 2 399 |
 
 | 32. | Dunakeszi | DK Gázmotor Kft. | Dunakeszi Közüzemi Nonprofit Kft. | 0 | 2 454 |
 
-| 33. | Dunaújváros | Perkons DHŐ Kft. | Dunaújvárosi Víz-, Csatorna- Hőszolgáltató Kft. | 0 | 2 000 |
+| 33. | Dunaújváros | Perkons DHŐ Kft. | Dunaújvárosi Víz-, Csatorna- Hőszolgáltató Kft. | 0 | 1 977 |
 
-| 34. | Dunaújváros | Energott Fejlesztő és Vagyonkezelő Kft. | Dunaújvárosi Víz-, Csatorna- Hőszolgáltató Kft. | 61 845 000 | 1 937 |
+| 34. | Dunaújváros | Energott Fejlesztő és Vagyonkezelő Kft. | Dunaújvárosi Víz-, Csatorna- Hőszolgáltató Kft. | 68 151 000 | 1 917 |
 
-| 35. | Dunaújváros | HF. Formula Kft. | Dunaújvárosi Víz-, Csatorna- Hőszolgáltató Kft. | 14 903 000 | 2 000 |
+| 35. | Dunaújváros | HF. Formula Kft. | Dunaújvárosi Víz-, Csatorna- Hőszolgáltató Kft. | 15 976 000 | 1 977 |
 
 | 36. | Eger | CHP-Erőmű Kft. | EVAT Zrt. | 0 | 2 687 |
 
 | 37. | Érd | Veolia Energia Magyarország Zrt. | Érdhő Kft. | 0 | 3 361 |
 
-| 38. | Esztergom | Dorogi Erőmű Kft. | PROMTÁVHŐ Kft. | 37 051 000 | 2 399 |
+| 38. | Esztergom | Dorogi Erőmű Kft. | PROMTÁVHŐ Kft. | 23 090 000 | 2 399 |
 
 | 39. | Gödöllő | Veolia Energia Magyarország Zrt. | Gödöllői Távhőszolgáltató Kft. | 0 | 2 674 |
 
@@ -132,7 +132,7 @@
 
 | 65. | Paks | MVM Paksi Atomerőmű Zrt. | Duna Center Therm Kereskedelmi és Szolgáltató Kft. | 4 895 000 | 929 |
 
-| 66. | Pécs | Pannon Hőerőmű Zrt. | PÉTÁV Kft. | 85 697 000 | 2 274 |
+| 66. | Pécs | Pannon Hőerőmű Zrt. | PÉTÁV Kft. | 96 808 111 | 2 274 |
 
 | 67. | Pétfürdő | Cothec Kft. | ”PÉTKOMM” Kft. | 3 762 000 | 2 086 |
 
@@ -210,7 +210,7 @@ c) a vállalkozás tárgyévet megelőző évre vonatkozó, auditált eredményk
 
 2.1.1. Földgáz költségek
 
-Az anyagjellegű költségeken belül a földgáz alapú tüzelőanyag-költséget azon az értéken (a hozzá tartozó mennyiséggel együtt) kell figyelembe venni, amellyel az árelőkészítést megalapozó adatszolgáltatásban az engedélyes ezt megadta, de a Hivatal jogosult egységes felső korlát (cap) alkalmazására, és vizsgálhatja, hogy milyen piaci versenyeztetés mellett alakult ki az elismerendő ár.
+Az anyagjellegű költségeken belül a földgáz alapú tüzelőanyag-költséget vagy minden távhőtermelői engedélyes esetében egységesen a Hivatal által előzetesen meghirdetett referencia költségszinten, vagy minden távhőtermelői engedélyes esetében azon az értéken (a hozzá tartozó mennyiséggel együtt) kell figyelembe venni, amellyel az árelőkészítést megalapozó adatszolgáltatásban az engedélyes ezt megadta, de a Hivatal jogosult egységes felső korlát (cap) alkalmazására, és vizsgálhatja, hogy milyen piaci versenyeztetés mellett alakult ki az elismerendő ár.
 
 2.1.2. A nem földgáz alapú (tüzelőolaj, megújuló energiaforrás stb.) hőtermelés esetén a tüzelőanyag-költség egyedi vizsgálat alapján kerül figyelembevételre.
 
@@ -246,4 +246,4 @@ A Hivatal az egyedi vizsgálata során a beruházás számított tőkeköltsége
 
 Abban az esetben, ha a beruházás hatására bekövetkező költségcsökkenés mértéke a beruházás számított tőkeköltségének összegét meghaladja, akkor a Hivatal a beruházás számított tőkeköltségét indokolt költségként elismeri.
 
-[^19]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^19]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított, az 59/2017. (XII. 29.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.

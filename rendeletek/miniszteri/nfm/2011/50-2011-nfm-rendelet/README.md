@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-50-20-2
 | 2017-01-01 | 2011-50-20-2W.19 | 40/2016. (IX. 30.) NFM rendelet |
 | 2017-04-01 | 2011-50-20-2W.20 | 40/2016. (IX. 30.) NFM rendelet |
 | 2017-10-01 | 2011-50-20-2W.21 | 38/2017. (IX. 29.) NFM rendelet |
+| 2018-01-01 | 2011-50-20-2W.22 | 38/2017. (IX. 29.) NFM rendelet |
