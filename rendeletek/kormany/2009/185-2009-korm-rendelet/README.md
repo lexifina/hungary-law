@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-185-20-
 | 2012-07-27 | 2009-185-20-22.4 | 174/2012. (VII. 26.) Korm. rendelet |
 | 2014-01-01 | 2009-185-20-22.5 | 515/2013. (XII. 30.) Korm. rendelet |
 | 2016-07-23 | 2009-185-20-22.6 | 217/2016. (VII. 22.) Korm. rendelet |
+| 2018-01-01 | 2009-185-20-22.7 | 457/2017. (XII. 28.) Korm. rendelet |
