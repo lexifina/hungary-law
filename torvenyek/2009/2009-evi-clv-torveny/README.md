@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | 2017-05-01 | 2016. évi CXVI. törvény | 2009-155-00-00.23 |
 | 2017-05-05 | 2017. évi XXXIII. törvény | 2009-155-00-00.24 |
 | 2017-06-17 | 2017. évi LXXII. törvény | 2009-155-00-00.25 |
+| 2018-01-01 | 2017. évi L. törvény | 2009-155-00-00.26 |

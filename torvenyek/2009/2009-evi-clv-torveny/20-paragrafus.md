@@ -51,3 +51,5 @@ t) végzi a helyiségek elektromágneses kompromittáló kisugárzásának véde
 u)
 
 (3) A Nemzeti Biztonsági Felügyelet eljárásáért, ha azt a minősített adatok védelmének szakmai felügyeletéért felelős miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben megállapítja, igazgatási szolgáltatási díjat kell fizetni.
+
+(4) A Nemzeti Biztonsági Felügyelet (2) bekezdés i) pontja alapján folytatott eljárása felfüggeszthető az eljárás során kezdeményezett cégellenőrzés, valamint nemzetbiztonsági ellenőrzés kezdeményezésétől a cégellenőrzés, nemzetbiztonsági ellenőrzés befejezéséig terjedő időtartamra.
