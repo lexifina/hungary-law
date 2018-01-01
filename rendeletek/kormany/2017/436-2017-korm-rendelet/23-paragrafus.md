@@ -1,3 +1,3 @@
-23. §[^23]
+## 22. § Az R2. a következő 12/A. §-sal egészül ki:
 
-[^23]: A 6–27. § a 28. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## „12/A. § A támogatói okirat visszavonásáról a szakpolitikai felelős önálló vagy – ha az MVP támogatásról a Kormány döntött – a szakpolitikai felelős miniszterrel közös előterjesztése alapján a támogatási döntést meghozó testület dönt. A támogatói okirat visszavonása iránt a támogató intézkedik. A támogatói okirat visszavonásának másolatát elektronikus úton a miniszter a szakpolitikai felelősnek is megküldi.”

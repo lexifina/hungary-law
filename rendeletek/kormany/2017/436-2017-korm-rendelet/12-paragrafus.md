@@ -1,3 +1,9 @@
-12. §[^12]
+## 11. § Az R2. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^12]: A 6–27. § a 28. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## „(3) A Bizottság tagjai
+
+## a) az államháztartásért felelős miniszter és
+
+## b) a szakpolitikai felelős
+
+## vagy az általa kijelölt személy.”

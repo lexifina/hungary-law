@@ -1,3 +1,1 @@
-9. §[^9]
-
-[^9]: A 6–27. § a 28. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## „(4) A miniszter az MVP támogatás forrásául szolgáló előirányzat tekintetében az Áht. 6/B. § (1) bekezdésében meghatározott feladatokat a tevékenységét jogszabály alapján segítő minisztérium gazdasági szervezete útján látja el. E feladatokat a miniszter tevékenységét jogszabály alapján segítő minisztérium gazdasági vezetője közvetlenül a miniszter vezetése és ellenőrzése mellett végzi.”

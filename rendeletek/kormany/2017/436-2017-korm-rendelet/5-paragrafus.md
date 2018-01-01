@@ -1,3 +1,1 @@
-5. §[^5]
-
-[^5]: A 4–5. § a 28. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## 4. § Az R1. 13. § (2) bekezdésében a „pénzügyi” szövegrész helyébe az „a költségvetési szerv előirányzatait terhelő pénzügyi” szöveg lép.

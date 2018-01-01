@@ -1,3 +1,7 @@
-7. §[^7]
+## „32a. regionális repülőtér: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 153. pontja szerinti regionális repülőtér,
 
-[^7]: A 6–27. § a 28. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## 32b. repülőtér: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 146. pontja szerinti repülőtér,
+
+## 32c. repülőtéri infrastruktúra: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 144. pontja szerinti infrastruktúra,
+
+## 32d. repülőtéri szolgáltatások: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 147. pontja szerinti szolgáltatások,”
