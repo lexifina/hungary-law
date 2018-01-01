@@ -156,6 +156,6 @@
 
 | 77. | óvodafejlesztés | Szárföld közigazgatási területén fekvő, 477 helyrajzi számú ingatlan |
 
-2. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^10]
+2. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^12]
 
-[^10]: A 2. melléklet a 283/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^12]: A 2. melléklet a 283/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.

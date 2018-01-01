@@ -122,7 +122,7 @@
 
 | 60. | tanteremfejlesztés | Telki közigazgatási területén fekvő, 722/5 helyrajzi számú ingatlan |
 
-3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^11]
+3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^13]
 
 ## A beruházásokkal összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
@@ -168,4 +168,4 @@
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^11]: A 3. melléklet a 283/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^13]: A 3. melléklet a 283/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
