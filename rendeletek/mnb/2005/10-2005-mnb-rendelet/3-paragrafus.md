@@ -1,6 +1,6 @@
 3. § (1)[^1] A kötelező tartalékráta mértékét a kötelező tartalékráta mértékéről szóló MNB rendelet[^2] határozza meg a tartalékalapba tartozó források alábbi kategóriái szerint:
 
-a)[^3] betétek, amelyeknek a lejárata a tartalékköteles hitelintézet számviteli nyilvántartásában történő megjelenés időpontjában a jegybanki információs rendszerhez a hitelintézetek egyes pénzügyi instrumentumaira, általános pénzügyi információira és tőkemegfelelésére vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet (a továbbiakban: adatszolgáltatási rendelet) alapján meghaladja a két évet,
+a)[^3] betétek, amelyeknek a lejárata a tartalékköteles hitelintézet számviteli nyilvántartásában történő megjelenés időpontjában a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet (a továbbiakban: adatszolgáltatási rendelet) alapján meghaladja a két évet,
 
 b) felvett hitelek, amelyeknek a lejárata a tartalékköteles hitelintézet számviteli nyilvántartásában történő megjelenés időpontjában az adatszolgáltatási rendelet alapján meghaladja a két évet,
 
@@ -20,7 +20,7 @@ e) a tartalékalapba tartozó és az a)–d) pontokban nem említett valamennyi 
 
 [^1]: A 3. § (1) bekezdése a 25/2005. (XII. 12.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Lásd a 15/2008. (XI. 24.) MNB rendeletet.
-[^3]: A 3. § (1) bekezdés a) pontja az 50/2016. (XII. 12.) MNB rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés a) pontja az 50/2016. (XII. 12.) MNB rendelet 4. § (2) bekezdés a) pontja, a 27/2017. (XI. 21.) MNB rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^4]: A 3. § (2) bekezdése a 25/2005. (XII. 12.) MNB rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: A 3. § (3) bekezdése a 25/2005. (XII. 12.) MNB rendelet 1. § (3) bekezdésével megállapított, szövege az 50/2016. (XII. 12.) MNB rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^6]: A 3. § (5) bekezdését a 25/2005. (XII. 12.) MNB rendelet 1. § (4) bekezdése iktatta be, utolsó mondata a 12/2007. (XI. 13.) MNB rendelet 1. §-ával megállapított, szövege az 50/2016. (XII. 12.) MNB rendelet 4. § c) pontja szerint módosított szöveg.
