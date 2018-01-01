@@ -1,5 +1,3 @@
-## alá tartozó tevékenységekre terjed ki.
-
 3. § (1) A jogorvoslati eljárás díja – a (2)–(4) bekezdésben foglalt esetek kivételével – az 1. mellékletben meghatározott díjtétel 50%-a.
 
 (2) Az eljáró hatóság által alapított vízvezetési, vízhasználati szolgalmi joggal terhelt ingatlan mindenkori tulajdonosa, használója által a jogorvoslati eljárásért fizetendő díj ingatlanonként 5000 Ft.

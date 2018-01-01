@@ -6,8 +6,12 @@
 
 (4) A díj megfizetését igazoló befizetési bizonylatot vagy annak másolatát a kérelem, illetve a jogorvoslati kérelem előterjesztéséhez – az (5) bekezdésben foglalt kivételével – mellékelni kell.
 
+(4a)[^2] A díj megállapítására és megfizetésére vonatkozó nyilatkozatot a 4. melléklet tartalmazza.
+
 (5) Amennyiben az ügyfél a kérelmét elektronikus úton intézi, a díj megfizetésére az elektronikus közszolgáltatásról és annak igénybevételéről szóló kormányrendeletben foglaltakat kell alkalmazni.
 
 (6) A befizetett díjról az eljáró hatóság számlát helyettesítő bizonylatot állít ki.
 
 (7) A díj az eljáró hatóság bevétele.
+
+[^2]: Az 5. § (4a) bekezdését a 42/2017. (XII. 29.) BM rendelet 8. §-a iktatta be.

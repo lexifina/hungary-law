@@ -8,16 +8,6 @@
 
 (4) Szennyvíz előtisztításhoz szükséges, egyedileg tervezett berendezés víziközműbe történő bekötésének engedélyezése esetében a díjfizetés alapja a beruházásnak az engedélyes által meghatározott bruttó létesítési költsége.
 
-(5) A vízügyi igazgatóságnak, valamint az Országos Vízügyi Főigazgatóságnak a vízgazdálkodásról szóló 1995. évi LVII. törvényben biztosított díjfizetési mentessége
+(5)[^1]
 
-a) az 1. melléklet 2.1. és 2.9. pontjai,
-
-b) az 1. melléklet 2.1. és 2.9. pontjaihoz kapcsolódóan az 1., 6–8. pontjai,
-
-c) az 1. melléklet 3. pontja,
-
-d) az 1. melléklet 4.2. pontja,
-
-e) az 1. melléklet 10. pontja,
-
-f) az a)–e) pontokhoz kapcsolódóan az 1. melléklet 13–15. pontjai
+[^1]: A 2. § (5) bekezdését a 42/2017. (XII. 29.) BM rendelet 11. §-a hatályon kívül helyezte.
