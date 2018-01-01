@@ -12,7 +12,7 @@ b) autóbusszal végzett vagy vasúti, vízi, légi utas-szállításhoz
 
 ## közvetlenül kapcsolódó szolgáltatásként, vagy külön díj megállapítása nélkül a főszolgáltatás részeként – a főszolgáltatást nyújtó, az utasok vagy megbízottjuk által adott előzetes megrendelés alapján – végezhető.
 
-(2a)[^10] A járművezetőnek az ellenőrző hatóság kérésére be kell mutatnia az adott főszolgáltatással összefüggésben kötött, az 5. § (2) bekezdés c) pontja szerinti szerződést.
+(2a)[^12] A járművezetőnek az ellenőrző hatóság kérésére be kell mutatnia az adott főszolgáltatással összefüggésben kötött, az 5. § (2) bekezdés c) pontja szerinti szerződést.
 
 (3) Az autóbusszal végzett vagy vasúti, vízi, légi utas-szállítási tevékenységhez közvetlenül kapcsolódó személygépkocsis személyszállító szolgáltatást az utas
 
@@ -26,4 +26,4 @@ b) annál a szálláshely-hasznosítónál, idegenforgalmi, turisztikai, sport, 
 
 (5) Arról, hogy az adott személygépkocsival az utas vihet-e magával poggyászt – az üzleti feltételek vonatkozó rendelkezéseinek a hiányában – a körülmények ismeretében a személygépkocsi vezetője dönt. Ha a vállalkozás az adott feladatot az autóbusszal végzett, vagy vasúti, vízi, légi utas-szállítási tevékenységhez közvetlenül kapcsolódóan teljesíti, a poggyász továbbítását a vállalkozás, illetve a személygépkocsi vezetője nem tagadhatja meg.
 
-[^10]: A 22. § (2a) bekezdését a 164/2016. (VI. 23.) Korm. rendelet 8. §-a iktatta be.
+[^12]: A 22. § (2a) bekezdését a 164/2016. (VI. 23.) Korm. rendelet 8. §-a iktatta be.
