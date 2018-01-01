@@ -2,4 +2,6 @@
 
 (2) Ha a kézbesítés eredménytelen volt, de a kérelmező tudomására jut újabb olyan adat, amely a kézbesítés eredményességét valószínűsíti, a kérelem ismételten – akár több alkalommal is – előterjeszthető a költségek megfizetésével.
 
-(3) Ha a kézbesítés eredménytelen volt, de a végrehajtó annak során felderített, olyan, más végrehajtó illetékességi területén lévő helyszínt, ahol a kézbesítés megtörténhet, vagy egyébként a kérelmező tudomására jut ilyen helyszín, a kézbesítés iránt új kérelem ezen másik végrehajtónál előterjeszthető.
+(3)[^31]
+
+[^31]: A 7. § (3) bekezdését a 393/2017. (XII. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.

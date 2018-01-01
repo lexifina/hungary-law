@@ -1,3 +1,5 @@
-## 45. § Ha a végrehajtó lefolytatta azokat a helyszíni eljárásokat, amelyekért a külön jogszabály szerint járó költségátalányt a kérelmező megelőlegezte és további helyszíni eljárás lefolytatására van szükség, a végrehajtó felhívja a kérelmezőt a költségátalány megelőlegezésére, melynek megfizetéséig az eljárás szünetel.
+## 45. §[^50]
 
 ## Eljárás megyén kívüli kézbesítési hely esetén
+
+[^50]: A 45. §-t és az azt megelőző alcímet a 393/2017. (XII. 13.) Korm. rendelet 19. § d) pontja hatályon kívül helyezte.

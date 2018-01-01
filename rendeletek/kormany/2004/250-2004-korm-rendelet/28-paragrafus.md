@@ -4,6 +4,6 @@
 
 (3) Ha a címzett a kérelemben foglaltak szerint az Európai Unió valamely másik tagállamának állampolgára, az értesítésben foglalt tájékoztatás szövegét ennek az államnak valamelyik hivatalos nyelvén is rá kell vezetni az értesítés nyomtatványára.
 
-(4)[^38] Az értesítésben foglalt tájékoztatás szövegének e §-ban meghatározott nyelvekre történő lefordíttatásáról a Kar gondoskodik. A Kar egyéb nyelvekre lefordított tájékoztatások szövegét is a végrehajtók rendelkezésére bocsáthat, ezek használatát iránymutatásban szabályozhatja.
+(4)[^45] Az értesítésben foglalt tájékoztatás szövegének e §-ban meghatározott nyelvekre történő lefordíttatásáról a Kar hivatali szerve gondoskodik. A Kar hivatali szerve egyéb nyelvekre lefordított tájékoztatások szövegét is a végrehajtók rendelkezésére bocsáthat, ezek használatát iránymutatásban szabályozhatja.
 
-[^38]: A 28. § (4) bekezdése a 242/2015. (IX. 8.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^45]: A 28. § (4) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 18. § g) pontja szerint módosított szöveg.

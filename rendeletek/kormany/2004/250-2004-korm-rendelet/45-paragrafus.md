@@ -1,1 +1,0 @@
-## A helyszíni eljárás díja

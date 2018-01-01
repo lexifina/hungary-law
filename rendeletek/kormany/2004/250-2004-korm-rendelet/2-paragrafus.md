@@ -6,13 +6,13 @@ a) kézbesítési végrehajtó (a továbbiakban: végrehajtó): a kézbesítést
 
 b)[^2] kézbesítés: a végrehajtónak a Vht. és e rendelet szerinti eljárása a jogszabályban meghatározott határozat címzetthez történő eljuttatása érdekében;
 
-c)[^3] bírósági határozat: a Vht. 15. §-a szerinti jogerős bírósági határozat, egyezséget jóváhagyó végzés, 16. §-ának a) pontja szerint közjegyzői határozat és közjegyző által jóváhagyott egyezség, a közjegyzőnek a közjegyzői nemperes eljárás lefolytatásáért felszámított díjról és költségről kiállított költségjegyzéke, valamint a 16. §-ának b) pontja szerinti fegyelmi bíróságok határozata, amelynek a kézbesítése a hivatalos iratok kézbesítésére vonatkozó szabályok szerint már megtörtént, és az a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 99. §-ának (2) bekezdése szerinti kézbesítési vélelem folytán emelkedett jogerőre;
+c)[^3] bírósági határozat: a Vht. 15. §-a szerinti jogerős bírósági határozat, egyezséget jóváhagyó végzés, 16. §-ának a) pontja szerint közjegyzői határozat és közjegyző által jóváhagyott egyezség, a közjegyzőnek a közjegyzői nemperes eljárás lefolytatásáért felszámított díjról és költségről kiállított költségjegyzéke, valamint a 16. §-ának b) pontja szerinti fegyelmi bíróságok határozata, amelynek a kézbesítése a hivatalos iratok kézbesítésére vonatkozó szabályok szerint már megtörtént, és az a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 137. § (2) bekezdése szerinti kézbesítési fikció folytán emelkedett jogerőre;
 
 d)[^4] bírósági irat: a bírósági határozat bíróság által készített kiadmányáról a végrehajtó által e rendelet rendelkezései szerint készített és záradékkal ellátott fénymásolat;
 
 e)[^5] kérelmező:
 
-ea)[^6] az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, akinek a javára a bírósági határozat marasztalást tartalmaz, továbbá akire nézve az ingatlan-nyilvántartási határozat valamely jog bejegyzéséről, módosításáról vagy törléséről rendelkezik, és kéri a kézbesítés lefolytatását;
+ea)[^6] az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, akinek a javára a bírósági határozat marasztalást tartalmaz, valamint aki a Pp. 141. §-a szerinti kérelem előterjesztésérére jogosult, továbbá akire nézve az ingatlan-nyilvántartási határozat valamely jog bejegyzéséről, módosításáról vagy törléséről rendelkezik, és kéri a kézbesítés lefolytatását;
 
 eb) az a felszámoló, aki a felszámolás alatt álló szervezet vezetője részére a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) alapján, a Cstv. szerinti jogkörében felszámolói értesítést kíván eljuttatni;
 
@@ -50,19 +50,21 @@ o) kisebbségi nyelv: a Strasbourgban, 1992. november 5-én létrehozott Region�
 
 p)[^14] közeli hozzátartozó: a Ptk. szerinti közeli hozzátartozó;
 
-q)[^15] ingatlan-nyilvántartási határozat: az ingatlan-nyilvántartásba bejegyezhető valamely jog bejegyzéséről, módosításáról vagy törléséről szóló, az ingatlanügyi hatóság által meghozott határozat, amellyel kapcsolatban a kézbesítési vélelem valamely címzett vonatkozásában a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 79. §-ának (2) bekezdése alapján beállt, és amelynek végrehajtói kézbesítése az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 52/A. §-ának (2) bekezdése alapján kérhető;
+q)[^15] ingatlan-nyilvántartási határozat: az ingatlan-nyilvántartásba bejegyezhető valamely jog bejegyzéséről, módosításáról vagy törléséről szóló, az ingatlanügyi hatóság által meghozott határozat, amellyel kapcsolatban a kézbesítési fikció valamely címzett vonatkozásában az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 86. § (1) bekezdése alapján beállt, és amelynek végrehajtói kézbesítése az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 52/A. § (2) bekezdése alapján kérhető;
 
 r)[^16] ingatlan-nyilvántartási irat: az ingatlan-nyilvántartási határozat fővárosi és megyei kormányhivatal ingatlanügyi hatósági hatáskörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: ingatlanügyi hatóság) által készített kiadmányáról, a végrehajtó által e rendelet rendelkezései szerint készített és záradékkal ellátott másolat;
 
 s)[^17] felszámolói értesítés: a felszámolónak (felszámolóbiztosnak) a Cstv. alapján az adós gazdálkodó szervezet vezetői részére címzett felszólítása, értesítése, amellyel kapcsolatban a megkísérelt kézbesítés – a Cstv. 31. §-ában foglaltak szempontjából – eredménytelen volt, és amelynek végrehajtói kézbesítése a Cstv. 33. § (1) bekezdése alapján kérhető;
 
-t)[^18] felszámolói irat: a felszámolói értesítésről a végrehajtó által e rendelet rendelkezései szerint készített és záradékkal ellátott másolat.
+t)[^18] felszámolói irat: a felszámolói értesítésről a végrehajtó által e rendelet rendelkezései szerint készített és záradékkal ellátott másolat;
+
+u)[^19] külföldi irat: a nemzetközi magánjogról szóló 2017. évi XXVIII. törvény (a továbbiakban: Nmjtv.) 74. § (1) bekezdésében említett külföldi eljárásban keletkezett irat vagy az 1393/2007/EK rendelet 4. cikke szerinti jogsegélykérelem vagy az 1393/2007/EK rendelet 15. cikke szerint előterjesztett kérelem alapján kézbesíteni kért irat.
 
 [^2]: A 2. § b) pontja a 11/2008. (I. 26.) Korm. rendelet 4. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^3]: Az 2. § c) pontja a 142/2010. (IV. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^3]: Az 2. § c) pontja a 142/2010. (IV. 28.) Korm. rendelet 5. § a) pontja, a 393/2017. (XII. 13.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § d) pontja a 477/2016. (XII. 27.) Korm. rendelet 31. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^5]: A 2. § e) pontja a 238/2009. (X. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
-[^6]: A 2. § e) pont ea) alpontja a 70/2015. (III. 30.) Korm. rendelet 66. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 2. § e) pont ea) alpontja a 70/2015. (III. 30.) Korm. rendelet 66. § (4) bekezdés a) pontja, a 393/2017. (XII. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
 [^7]: A 2. § f) pontja a 238/2009. (X. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
 [^8]: A 2. § f) pont fa) alpontja a 70/2015. (III. 30.) Korm. rendelet 66. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^9]: A 2. § g) pontja a 238/2009. (X. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 66. § (4) bekezdés b) pontja szerint módosított szöveg.
@@ -71,7 +73,8 @@ t)[^18] felszámolói irat: a felszámolói értesítésről a végrehajtó ált
 [^12]: A 2. § m) pontja a 238/2009. (X. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 66. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^13]: A 2. § n) pontja a 142/2010. (IV. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^14]: A 2. § p) pontját a 331/2007. (XII. 13.) Korm. rendelet 3. § 25. pontja hatályon kívül helyezte, újonnan a 142/2010. (IV. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^15]: A 2. § q) pontját a 11/2008. (I. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^15]: A 2. § q) pontját a 11/2008. (I. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendlet 137. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^16]: A 2. § r) pontját a 11/2008. (I. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 477/2016. (XII. 27.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
 [^17]: A 2. § s) pontját a 238/2009. (X. 20.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 477/2016. (XII. 27.) Korm. rendelet 31. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^18]: A 2. § t) pontját a 238/2009. (X. 20.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 477/2016. (XII. 27.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^19]: A 2. § u) pontját a 480/2017. (XII. 28.) Korm. rendelet 2. §-a iktatta be.

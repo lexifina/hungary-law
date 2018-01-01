@@ -1,6 +1,3 @@
-4. § (1)[^19] A kérelmet az erre szolgáló, a Magyar Bírósági Végrehajtói Kar (a továbbiakban: Kar) által jóváhagyott formanyomtatvány kitöltésével kell előterjeszteni.
+## 3. §[^20] A kézbesítés iránti kérelmet (a továbbiakban: kérelem) a Magyar Bírósági Végrehajtói Kar (a továbbiakban: Kar) hivatali szervénél kell előterjeszteni. A kézbesítési ügyet a Kar hivatali szerve osztja ki a külön jogszabály szerinti ügyelosztási szabályok alapján a címzett bírósági határozatban feltüntetett címe, különleges kézbesítés esetén a kérelmező által megjelölt egyéb kézbesítési hely alapján illetékes végrehajtók között.
 
-(2)[^20] A kérelem a végrehajtó irodájában személyesen, postai vagy elektronikus úton is benyújtható a végrehajtó részére.
-
-[^19]: A 4. § (1) bekezdése a 242/2015. (IX. 8.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^20]: A 4. § (2) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^20]: A 3. § a 393/2017. (XII. 13.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.

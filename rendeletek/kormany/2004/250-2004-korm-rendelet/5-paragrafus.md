@@ -1,3 +1,5 @@
+## 4. §[^21] A kérelmet az erre szolgáló, a Kar hivatali szerve által jóváhagyott formanyomtatvány kitöltésével kell előterjeszteni. A kérelem postai vagy elektronikus úton nyújtható be.
+
 5. § (1) A kérelemben meg kell jelölni a következő adatokat:
 
 a) a kérelmező nevét és címét (elérhetőségét);
@@ -6,9 +8,9 @@ b) a kézbesítendő bírósági határozatot hozó bíróságot (közjegyzőt) 
 
 c) a természetes személy címzett nevét és különleges kézbesítés esetén személyazonosításra szolgáló adatait;
 
-d) ha a címzett szervezet: nevét, székhelyét és – ha a kézbesítést kérő arról tudomással bír – vezetőjének vagy képviselőjének a nevét, továbbá különleges kézbesítés esetén, vagy ha azt a végrehajtó egyébként kéri, az azonosítására szolgáló egyéb adatait (nyilvántartási szám, adószám stb.),
+d)[^22] ha a címzett szervezet: nevét, székhelyét és – ha a kézbesítést kérő arról tudomással bír – vezetőjének vagy képviselőjének a nevét, továbbá különleges kézbesítés esetén az azonosítására szolgáló egyéb adatait (nyilvántartási szám, adószám stb.),
 
-e)[^21] ha a kérelmezőnek tudomása van róla, annak tényét, ha a címzett
+e)[^23] ha a kérelmezőnek tudomása van róla, annak tényét, ha a címzett
 
 ea) 14 év alatti személy (a törvényes képviselő nevét és címét is meg kell jelölni),
 
@@ -30,9 +32,12 @@ h) ha a kérelem különleges kézbesítésre irányul, az ahhoz szükséges ada
 
 (2) Ha a kézbesítési helyről a kérelmező tudomással bír, azt a különleges kézbesítés iránti kérelmében azonosításra alkalmas módon (a kézbesítési hely címe, az intézmény neve stb.) meg kell jelölnie; ugyancsak meg kell jelölnie a kérelmében azt az időpontot, időtartamot vagy időszakot, amikor a címzett – tudomása szerint – a kézbesítési helyen megtalálható.
 
-(3) A kérelemhez mellékelni kell a jogerős bírósági határozat kiadmányát (szükség esetén a jogerőre emelkedését megállapító végzés kiadmányát) és a kézbesítési vélelem beálltáról szóló bírósági értesítés másolatát.
+(3)[^24] A kérelemhez mellékelni kell a jogerős bírósági határozat kiadmányát (szükség esetén a jogerőre emelkedését megállapító végzés kiadmányát) és a kézbesítési fikció beálltáról szóló bírósági értesítés másolatát.
 
-(4)[^22] A kérelem előterjesztésével egyidejűleg meg kell fizetni a végrehajtó részére a kézbesítés külön jogszabályban meghatározott díját (a továbbiakban: kézbesítési díj), és nyilatkozni kell arról, hogy a kérelmező nem kért bírósági végrehajtást a címzett ellen. Ha a kérelem postai vagy elektronikus úton kerül megküldésre, ahhoz csatolni kell a kézbesítési díj megfizetését igazoló átutalási megbízás vagy postai feladóvevény másolatát.
+(4)[^25] A kérelem előterjesztésével egyidejűleg nyilatkozni kell arról, hogy a kérelmező nem kért bírósági végrehajtást a címzett ellen, és a kérelemhez csatolni kell a kézbesítés külön jogszabályban meghatározott díjának (a továbbiakban: kézbesítési díj) megfizetését igazoló átutalási megbízás vagy postai feladóvevény másolatát.
 
-[^21]: Az 5. § (1) bekezdése e) pontjának bevezető szövegrésze a 11/2008. (I. 26.) Korm. rendelet 4. § (2) bekezdésének e) pontjával megállapított szöveg.
-[^22]: Az 5. § (4) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 31. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 4. § a 393/2017. (XII. 13.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^22]: Az 5. § (1) bekezdés d) pontja a 393/2017. (XII. 13.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^23]: Az 5. § (1) bekezdése e) pontjának bevezető szövegrésze a 11/2008. (I. 26.) Korm. rendelet 4. § (2) bekezdésének e) pontjával megállapított szöveg.
+[^24]: Az 5. § (3) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^25]: Az 5. § (4) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
