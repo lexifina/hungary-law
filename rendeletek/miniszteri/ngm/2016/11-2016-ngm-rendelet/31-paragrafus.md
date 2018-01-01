@@ -1,13 +1,11 @@
-## 11. A fizetési könnyítés részletes szabályai
+## 30. §
 
-31. § (1) A Vámkódex 112. cikke szerinti fizetési könnyítés esetében a vámhatóság
+## 11. [^20] A részletfizetés részletes szabályai
 
-a) részletfizetést maximum 12 hónapra,
+31. § (1) A Vámkódex 112. cikke szerinti fizetési könnyítés esetében a vámhatóság részletfizetést maximum 12 hónapra engedélyezhet.
 
-b) fizetéshalasztást maximum 6 hónapra
+(2) Részletfizetés esetén a befolyó összegekből először a vámot teljes összegében, majd ezt követően esedékességi sorrendben az egyéb terhekre vonatkozó tartozást kell kiegyenlíteni. Azonos esedékességi dátum esetén a fennmaradó összegeket a tartozás arányában kell elszámolni.
 
-## engedélyezhet.
+(3) Az engedélyezés során a Vtv. 165. § (8) bekezdés d) és e) pontjában foglalt feltételeket a Magyarországon letelepedett kérelmező esetében a vámhatóság saját közhiteles hatósági nyilvántartásai alapján vizsgálja.
 
-(2) Az (1) bekezdés a) pontja szerint engedélyezett részletfizetés esetén a befolyó összegekből először a vámot teljes összegében, majd ezt követően esedékességi sorrendben az egyéb terhekre vonatkozó tartozást kell kiegyenlíteni. Azonos esedékességi dátum esetén a fennmaradó összegeket a tartozás arányában kell elszámolni.
-
-(3) Az engedélyezés során a Vtv. 72. § (3) bekezdés d) és e) pontjában foglalt feltételeket a Magyarországon letelepedett kérelmező esetében a vámhatóság saját közhiteles hatósági nyilvántartásai alapján vizsgálja.
+[^20]: A 11. alcím (31. §) a 48/2017. (XII. 29.) NGM rendelet 15. § (3) bekezdésével megállapított szöveg.

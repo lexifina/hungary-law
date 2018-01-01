@@ -1,10 +1,12 @@
+## 4–7. §
+
 ## 5. A díjakra és költségekre vonatkozó részletes szabályok
 
 8. § (1) A közúti járművek és szállítótartályok vámzár alatt történő nemzetközi árufuvarozásra való alkalmassági vizsgálatáért – a vizsgálat eredményétől függetlenül – járművenként, a szállítótartályok esetén típusbizonyítványonként 15 000 forint vizsgálati díjat kell fizetni a vizsgálatot végző vámhivatalnál. A Honvédelmi Minisztérium, a Magyar Honvédség, a NATO és a NATO békepartner tagországok haderőinek tulajdonában lévő járművekre és szállítótartályokra, valamint a katonai árukat szállító polgári járművekre és szállítótartályokra nem kell vizsgálati díjat fizetni, ha a nemzetközi árufuvarozás a vámjogszabályok szerinti 302. formanyomtatvány igénybevételével történik.
 
 (2) Az áru kérelemre végzett kísérése esetén a tényleges költséget, de legalább óránként és a hivatalos kíséretet végző személyenként 5000 forint díjat kell fizetni. A kísérés tényleges költségének elemeit és számításának módját a NAV vezetője tájékoztatásban teszi közzé.
 
-(3) A NAV Szakértői Intézete (a továbbiakban: Intézet) által az érintett személy kérelmére végzett laboratóriumi vizsgálat díja az elvégzett vizsgálat költsége, amelyet a vizsgálatot kérő a többi költségtől elkülönítve köteles megfizetni. A tényleges költséget kell megfizetni akkor is, ha a nyilatkozattevő a NAV illetékes vámhivatala felszólítására nem nyújtja be az analízis bizonyítványt vagy a termék összetételére vonatkozó dokumentációt, és emiatt a vizsgálatot a NAV illetékes vámhivatala végezteti el. A díjakat az érintett NAV által kiállított számla alapján köteles megfizetni. A vizsgálati díj összege az Intézet által vagy annak megbízása alapján elvégzett vizsgálat költsége. Az Intézet vizsgálati díjait a NAV vezetője tájékoztatásban teszi közzé.
+(3)[^6]
 
 (4) A szemledíjak összege:
 
@@ -48,6 +50,7 @@ a) az üzemeltető maga a külkereskedelmi forgalmat bonyolító személy, aki s
 
 b) a vámeljárás során az üzemeltető közvetlen vagy közvetett képviselőként jár el.
 
-(17)[^5] Árunak a megsemmisítés helyszínére a vámhatóság tulajdonát képező gépjárművel történő szállításával kapcsolatban felmerült tényleges költségelemeket és a költség számításának módját a NAV vezetője tájékoztatásban teszi közzé.
+(17)[^7] Árunak a megsemmisítés helyszínére a vámhatóság tulajdonát képező gépjárművel történő szállításával kapcsolatban felmerült tényleges költségelemeket és a költség számításának módját a NAV vezetője tájékoztatásban teszi közzé.
 
-[^5]: A 8. § (17) bekezdését a 37/2017. (XI. 6.) NGM rendelet 6. §-a iktatta be.
+[^6]: A 8. § (3) bekezdését a 48/2017. (XII. 29.) NGM rendelet 17. § c) pontja hatályon kívül helyezte.
+[^7]: A 8. § (17) bekezdését a 37/2017. (XI. 6.) NGM rendelet 6. §-a iktatta be.

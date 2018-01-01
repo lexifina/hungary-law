@@ -2,7 +2,7 @@
 
 ## 3. Az engedélyezett gazdálkodói engedélyhez előírt gyakorlati jellegű szakértelem igazolásának szempontjai
 
-3. § (1) A kérelmező az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vtv.) 23. § (4) bekezdése szerinti 3 éves igazolt szakmai gyakorlat igazolására szolgál különösen:
+3. § (1)[^4] A kérelmező az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény (a továbbiakban: Vtv.) 83. § (1) bekezdése szerinti 3 éves igazolt szakmai gyakorlat igazolására szolgál különösen:
 
 a) a kérelmező által – saját érdekében, vagy képviselőként – végzett vámalakiságok vagy vámügyi tevékenységek vitele, amelynek bizonyítékául szolgálhat az EORI szám feltüntetése a vám-árunyilatkozat megfelelő rovatában, vagy vámfizetési kötelezettségek teljesítésének igazolása,
 
@@ -21,3 +21,5 @@ b) a kérelmezőnél 3 évnél rövidebb ideje betöltött munkakör esetén a m
 c) kis- és középvállalkozások esetén, ahol a munkakörök nem feltétlenül különülnek el, a bejelentett foglalkoztatotti viszony vagy az egyéni vállalkozás léte és kérelmező nyilatkozata alapján.
 
 (4) A kérelmező vámügyi tevékenységének viteléért felelős, állandó megbízás alapján tevékenykedő személy esetén a szakmai gyakorlat igazolásául a megbízási szerződés szolgál, több megbízással foglalkoztatott személy esetén valamennyi ilyen jellegű megbízás tekintetében. A 3 évnél rövidebb ideje fennálló megbízásos viszony esetén a megbízott személy fennálló vámügyi engedélyei, vagy képviselőként más érdekében végzett vámalakiságok és vámtevékenységek is figyelembe vehetők.
+
+[^4]: A 3. § (1) bekezdés nyitó szövegrésze a 48/2017. (XII. 29.) NGM rendelet 16. § a) pontja szerint módosított szöveg.

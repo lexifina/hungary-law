@@ -2,7 +2,7 @@
 
 ## 16. A Vámjegy alkalmazásának részletes szabályai
 
-41. § (1) A behozatali vagy kiviteli vám és egyéb teher fizetési kötelezettség alá eső áruk esetében adott szóbeli vám-árunyilatkozat alapján az illetékes vámhivatal vámellenőrzést tart, megállapítja a vámértéket és a Vámjegyen történő árunyilatkozat-adás feltételeinek fennállását. A megállapított vámérték alapján az illetékes vámhivatal szóban közli a fizetendő vám és egyéb terhek összegét.
+41. § (1)[^24] A behozatali vagy kiviteli vám és egyéb teher fizetési kötelezettség alá eső áruk esetében adott szóbeli vám-árunyilatkozat alapján az illetékes vámhivatal vámellenőrzést tart, megállapítja a vámértéket, és a megállapított vámérték alapján az illetékes vámhivatal szóban közli a fizetendő vám és egyéb terhek összegét.
 
 (2) Ha a vámeljárást kezdeményező a megállapított összeget elfogadja, a vámot és egyéb terheket az illetékes vámhivatal a Vámjegyen írásban is közli. A vámeljárás lefolytatásának elfogadását az ügyfél a Vámjegy „B” rovatában aláírásával igazolja.
 
@@ -15,3 +15,5 @@
 (6) A Vámjegy mintáját a 4. melléklet tartalmazza.
 
 (7) Amennyiben a vámeljárást kérő a megállapított vámértékkel vagy a szóban közölt vám, és egyéb terhek mértékével nem ért egyet, a vámeljárást az általános szabályok szerint írásban kell kezdeményeznie.
+
+[^24]: A 41. § (1) bekezdése a 48/2017. (XII. 29.) NGM rendelet 15. § (6) bekezdésével megállapított szöveg.

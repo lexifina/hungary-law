@@ -1,4 +1,6 @@
-18. § (1) Az elfogadott exportőri jogállásra irányuló kérelem papír alapon is benyújtható.
+## 16–17. §[^12]
+
+18. § (1)[^13]
 
 (2) Az elfogadott exportőri engedélykérelemhez csatolni kell az alábbi iratokat:
 
@@ -13,3 +15,6 @@ d) írásbeli kötelezettségvállalást a VA 77. cikk (7) bekezdése alapján a
 e) nyilatkozatot arra vonatkozóan, hogy könyvelését hol vezetik, amennyiben több telephellyel rendelkezik a kérelmező,
 
 f) nyilatkozatot azon személy megnevezéséről és elérhetőségéről, aki felelős a preferenciára jogosító nyilatkozatok kiadásáért.
+
+[^12]: A 16–17. §-t a 48/2017. (XII. 29.) NGM rendelet 17. § d) pontja hatályon kívül helyezte.
+[^13]: A 18. § (1) bekezdését a 48/2017. (XII. 29.) NGM rendelet 17. § e) pontja hatályon kívül helyezte.

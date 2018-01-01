@@ -1,9 +1,7 @@
 ## 12. A hitelkamat felszámításának részletes szabályai
 
-32. § (1)[^13] A hitelkamat felszámítása során a fizetendő kamat összegét napi kamatszámítással kell megállapítani. A napi kamat mértékét 3 tizedesjegy pontossággal, kerekítés nélkül kell a fizetési kötelezettséget közlő határozat esedékességének napján érvényes jegybanki alapkamat egy százalékponttal növelt értékének 365-öd részében meghatározni.
+32. §[^21] (1) A hitelkamat felszámítása során fizetendő kamat összegét – a részletek gyakoriságától függően – havi vagy negyedéves időtartamokra előre napi kamatszámítással kell megállapítani úgy, hogy a részletfizetésben részesített tőke összege a második részlettől kezdődően a korábban megfizetett tőkerész összegével csökken, a napok száma pedig havi törlesztésnél a hónap napjainak számával, negyedéves törlesztésnél a negyedév napjainak számával egyezik meg.
 
-(2) A hitelkamat felszámításának módszere részletfizetés esetén megegyezik az (1) bekezdésben foglalttal, azzal az eltéréssel, hogy a fizetendő kamat összegét – a részletek gyakoriságától függően – havi vagy negyedéves időtartamokra előre külön-külön kell megállapítani úgy, hogy a részletfizetésben részesített tőke összege a második részlettől kezdődően a korábban megfizetett tőke összegével csökken, a napok száma pedig havi törlesztésnél a hónap napjainak számával, negyedéves törlesztésnél a negyedév napjainak számával egyezik meg.
+(2) A felszámított hitelkamatot a tőke törlesztésével egyidejűleg kell teljesíteni. Ha az adós a kedvezmény feltételeit vagy az esedékes részletek befizetését nem teljesíti, a kedvezmény érvényét veszti, és a tartozás járulékaival együtt egy összegben azonnal esedékessé válik.
 
-(3) A felszámított hitelkamatot a tőke törlesztésével egyidejűleg kell teljesíteni. Amennyiben az adós a kedvezmény feltételeit vagy az esedékes részletek befizetését nem teljesíti, a kedvezmény érvényét veszti, és a tartozás járulékaival együtt egy összegben azonnal esedékessé válik.
-
-[^13]: A 32. § (1) bekezdése a 63/2016. (XII. 29.) NGM rendelet 36. §-ával megállapított szöveg.
+[^21]: A 32. § a 48/2017. (XII. 29.) NGM rendelet 15. § (4) bekezdésével megállapított szöveg.
