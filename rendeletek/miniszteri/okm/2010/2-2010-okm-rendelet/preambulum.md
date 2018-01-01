@@ -1,1 +1,0 @@
-A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 100. § (3) bekezdés d) pontjában kapott felhatalmazás alapján – az oktatási és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 1. § d) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
