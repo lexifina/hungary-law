@@ -30,10 +30,10 @@ c) a rövid ellátási láncok kialakításával, az ökológiai gazdálkodássa
 
 (3a)[^224] A támogatás egyéni vagy csoportos formában valósítható meg.
 
-(4)[^225] A támogatás összege tanácsadásonként nem haladhatja meg az 1500 eurónak megfelelő forintösszeget. A támogatás összege szaktanácsadónként nem haladhatja meg évente a 6000 eurónak megfelelő forintösszeget.
+(4)[^225] A támogatás összege tanácsadásonként nem haladhatja meg az 1500 eurónak megfelelő forintösszeget. Csoportos szaktanácsadás esetén szaktanácsadónként évente legfeljebb 6000 eurónak megfelelő forintösszeg támogatás igényelhető.
 
 (5) A támogatásnak – objektív módon meghatározott feltételek alapján – az érintett területen működő valamennyi támogatható vállalkozás számára hozzáférhetőnek kell lennie.
 
 [^223]: Az 53. alcímet (103/D. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
 [^224]: A 103/D. § (3a) bekezdését a 127/2016. (VI. 7.) Korm. rendelet 12. §-a iktatta be.
-[^225]: A 103/D. § (4) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 20. § 15. pontja szerint módosított szöveg.
+[^225]: A 103/D. § (4) bekezdése a 483/2017. (XII. 28.) Korm. rendelet 7. §-ával megállapított szöveg.

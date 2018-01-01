@@ -2,7 +2,7 @@
 
 19. § (1) Nem ítélhető meg támogatás
 
-a)[^149] – a 46., 47. és 50. alcím szerinti támogatás kivételével – azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
+a)[^149] – a 46., 47. és 50. alcím szerinti támogatás kivételével – azon szervezet részére, amely a támogatás odaítélésekor még nem tett eleget valamennyi, az Európai Bizottság által hozott, állami támogatás visszafizettetésére irányuló, Magyarországnak címzett határozat alapján fennálló visszafizetési kötelezettségének,
 
 b)[^150] – a 17. alcím, a 41. alcím, a 100. § (4) bekezdésében foglaltak figyelembevételével – a 46. alcím, a 48–50. alcím, valamint – a 103/H. § (1) bekezdés d) pontjában foglaltak figyelembevételével – az 57. alcím szerinti támogatás kivételével nehéz helyzetben lévő vállalkozás részére, azzal, hogy a 17. és 41. alcím szerinti támogatás nyújtása során a nehéz helyzetben lévő vállalkozások nem részesíthetők a nehéz helyzetükre hivatkozással előnyben az egyéb vállalkozásokkal szemben.
 
@@ -34,7 +34,7 @@ h)[^154] a 11–45/B. és 47. alcím szerinti támogatás a 2010/787/EU tanácsi
 
 (5)[^157]
 
-[^149]: A 19. § (1) bekezdés a) pontja a 305/2016. (X. 13.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^149]: A 19. § (1) bekezdés a) pontja a 483/2017. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^150]: A 19. § (1) bekezdés b) pontja a 365/2017. (XII. 5.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^151]: A 19. § (2) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 58. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 18. pontja, a 365/2017. (XII. 5.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
 [^152]: A 19. § (2) bekezdés b) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 59. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 19. pontja szerint módosított szöveg.
