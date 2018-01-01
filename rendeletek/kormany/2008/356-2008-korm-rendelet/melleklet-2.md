@@ -326,7 +326,7 @@
 
 | 1. Egyetemi, főiskolai végzettséget, felsőfokú szakképesítést igénylő, vezetői, szakértői, szaktanácsadói munkakörök: |  |  |  |  |  |  |  |  |  |  |
 
-| a) biofizikus, biokémikus, biológus, fizikus, jogász, jogtanácsos, kémikus, közgazdász, lektor, matematikus, mérnök (főmérnök), munkavédelmi szakmérnök, muzeológus, szociológus, vegyész stb. |  |  |  |  |  |  |  |  |  |  |
+| a) biofizikus, biokémikus, biológus, fizikus, jogász, kamarai jogtanácsos, kémikus, közgazdász, lektor, matematikus, mérnök (főmérnök), munkavédelmi szakmérnök, muzeológus, szociológus, vegyész stb. |  |  |  |  |  |  |  |  |  |  |
 
 | b) főkönyvelő, humánpolitikai szervező, informatikus, könyvtáros, revizor (belső ellenőr), statisztikus, számítástechnikai szervező, szoftverfejlesztő, üzemgazdász, üzemmérnök, munkavédelmi üzemmérnök stb. |  |  |  |  | * | * | * | * | * |  |
 
