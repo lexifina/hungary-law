@@ -1,6 +1,6 @@
 214. § (1) A jelölt a jelölés elfogadásáról írásban nyilatkozik. A nyilatkozat a jelölt nevét, születési helyét és idejét, anyja nevét, lakóhelyét, iskolai végzettségét, szakképzettségét, foglalkozását, munkahelye nevét és címét, egy hónapra járó távolléti díja összegét, valamint az aláírását tartalmazza.
 
-(2) A jelölt a jelölés elfogadását követően haladéktalanul, az ülnökké történő megválasztására jogosult képviselő-testület részére hatósági erkölcsi bizonyítvánnyal igazolja büntetlen előéletét.
+(2) A jelölt a jelölés elfogadását követően haladéktalanul, az ülnökké történő megválasztására jogosult képviselő-testület részére hatósági erkölcsi bizonyítvánnyal igazolja büntetlen előéletét. A fiatalkorúak büntetőügyeiben eljáró bíróság nem pedagógus ülnökjelöltjének az ülnökké történő megválasztására jogosult képviselő-testület részére igazolnia kell továbbá a megválasztásához szükséges adatokat és tényeket.
 
 (3) Ha a jelölt a (2) bekezdésben meghatározott igazolási kötelezettségét elmulasztja, ülnökké megválasztani nem lehet.
 

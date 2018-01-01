@@ -9,3 +9,5 @@
 (2) A katonai büntetőeljárásban eljáró katonai tanácsok ülnökeinek (a továbbiakban: katonai ülnök) megválasztásához az (1) bekezdésben meghatározott feltételeken túl az is szükséges, hogy a jelölt a Magyar Honvédségnél, illetve rendvédelmi szervnél hivatásos szolgálati viszonyban álljon.
 
 (3) Az ülnök nem lehet tagja pártnak, és politikai tevékenységet nem folytathat.
+
+(4) Az ülnök esetében a 41. § és a 42. § (1)–(3) bekezdése megfelelően alkalmazandó.
