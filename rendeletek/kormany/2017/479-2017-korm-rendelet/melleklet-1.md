@@ -1,5 +1,3 @@
-## 7. §[^1]
+## 7. § Hatályát veszti a 3. § (1), (3) és (5) bekezdése.
 
 1. melléklet a 479/2017. (XII. 28.) Korm. rendelethez
-
-[^1]: A 7. § az 5. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
