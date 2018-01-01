@@ -10,11 +10,11 @@
 
 (5)[^7] Ha az ügyfél a díjat a nyilatkozat előterjesztésével egyidejűleg nem, vagy nem teljes mértékben fizeti meg, a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül köteles a befizetést teljesíteni és a fizetési megbízás közlemény rovatában az (1) bekezdésben foglalt adaton túl a hiánypótlási felhívás ügyazonosító számát is feltüntetni.
 
-(6)[^8] A díj teljes összegének megfizetéséig az ügyfél részére nem történik értesítés szolgáltatás. Ha az ügyfél a díj teljes összegét a hiánypótlási felhívást követően sem fizeti meg, az értesítés szolgáltatás kérést el kell utasítani.
+(6)[^8]
 
 [^3]: A 2. § az 58/2016. (XII. 22.) BM rendelet 33. § a) pontja szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdése a 6. § (2) bekezdése szerint módosított szöveg.
 [^5]: A 3. § (2) bekezdése az 58/2016. (XII. 22.) BM rendelet 33. § b) pontja szerint módosított szöveg.
 [^6]: A 3. § (4) bekezdése a 6. § (3) bekezdése szerint módosított szöveg.
 [^7]: A 3. § (5) bekezdése az 58/2016. (XII. 22.) BM rendelet 33. § c) pontja szerint módosított szöveg.
-[^8]: A 3. § (6) bekezdése az 58/2016. (XII. 22.) BM rendelet 33. § d) pontja szerint módosított szöveg.
+[^8]: A 3. § (6) bekezdését a 44/2017. (XII. 29.) BM rendelet 82. §-a hatályon kívül helyezte.
