@@ -22,6 +22,6 @@ f) a hatósági erkölcsi bizonyítvány kiadmányozására jogosult aláírás�
 
 (6) Ha a hatósági erkölcsi bizonyítvány a kiállító hatóság hibájából név, szám vagy más tény elírásával került kiállításra, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi idején belül a kijavítást a hibás hatósági erkölcsi bizonyítvány bevonása mellett, annak kicserélésével teljesíti.
 
-(7) A hatósági erkölcsi bizonyítvány kiegészítésének nincs helye.
+(7)
 
 (8) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásában az eljárás alatt, illetve az érdemi döntés meghozatalát követően az iratbetekintési jogot kizárólag a kérelmező részére biztosítja, amely azt személyesen vagy jogi képviselője útján gyakorolhatja.

@@ -30,19 +30,19 @@ h) összbüntetésbe foglalás, valamint egységes intézkedés elrendelése ese
 
 i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének keltét;
 
-j) a külföldi ítélet érvényének elismerése esetén
+j) a külföldi ítélet elismerése, illetve a tagállami ítélet megfeleltetése esetén
 
 ja) ennek tényét,
 
-jb) a külföldi bíróság és az elismerő határozatot hozó magyar bíróság megnevezését,
+jb) a külföldi bíróság és az elismerő vagy a megfeleltetésről szóló határozatot hozó magyar bíróság megnevezését,
 
-jc) a külföldi bíróság és az elismerő határozatot hozó magyar bíróság által hozott határozat számát, keltét, jogerőre emelkedésének napját,
+jc) a külföldi bíróság és az elismerő vagy a megfeleltetésről szóló határozatot hozó magyar bíróság által hozott határozat számát, keltét, jogerőre emelkedésének napját,
 
-jd) az ítéletben a magyar bíróság által elismert bűncselekmény megnevezését, és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
+jd) a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott bűncselekmény megnevezését, és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
 
-je) a külföldi bíróság által kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés tartamát, továbbá a külföldön történt büntetés-végrehajtással kapcsolatos adatok közül a foganatba vétel időpontját, a feltételes szabadságra bocsátás napját, a büntetés vagy intézkedés kitöltésének időpontját, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén, a próbaidő tartamát és a felfüggesztés leteltének időpontját,
+je) a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott büntetés vagy intézkedés tartamát, a büntetés vagy intézkedés kitöltésének időpontját, továbbá a szabadságvesztés esetében a külföldön történt büntetés-végrehajtással kapcsolatos adatok közül a foganatba vétel időpontját, a feltételes szabadságra bocsátás napját, a kitöltés időpontját, a szabadságvesztés büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját,
 
-jf) a kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele esetén ennek tényét, az elismert és átvett szabadságvesztés időtartamát;
+jf) a kiszabott büntetés vagy intézkedés végrehajtásának átvétele esetén ennek tényét, az elismert vagy megfeleltetett és átvett büntetés vagy intézkedés időtartamát;
 
 k) a mentesítés, a nyilvántartásba felvétel időpontját, valamint a nyilvántartásból való törlés várható időpontját;
 

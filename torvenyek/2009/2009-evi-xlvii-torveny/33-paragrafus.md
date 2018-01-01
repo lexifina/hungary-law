@@ -22,6 +22,6 @@ e) az érintett ujjnyomatát,
 
 f) az érintett álnevét, továbbá
 
-g) a mentesítés várható időpontját.
+g) a törlés várható időpontját.
 
-(3) A tagállami ítéletek nyilvántartása tartalmazza az elismerő határozatot hozó bíróság megnevezését, a határozat számát és keltét, valamint a határozat jogerőre emelkedésének napját, ha az Európai Unió más tagállamának bírósága által meghozott ítélet érvényét a magyar bíróság elismerte.
+(3) Ha a magyar bíróság a tagállami ítélettel kapcsolatban a nemzetközi bűnügyi jogsegélyről szóló törvény szerinti, a külföldi ítélet elismerésére irányuló eljárást, illetve az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti megfeleltetési eljárást folytatott le, a tagállami ítéletek nyilvántartása tartalmazza a tagállami ítélet elismeréséről, illetve megfeleltetéséről szóló határozatot hozó bíróság megnevezését, a határozat számát és keltét, valamint a határozat jogerőre emelkedésének napját.

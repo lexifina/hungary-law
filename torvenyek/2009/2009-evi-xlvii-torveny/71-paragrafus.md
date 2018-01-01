@@ -1,6 +1,6 @@
 ## A hatósági erkölcsi bizonyítvány
 
-71. § (1) A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerben kezelt adatok alapján, jogviszony létesítésére, fenntartására vagy egyéb, törvényben meghatározott feltételnek való megfelelés igazolására az igazolás alanyának (a továbbiakban: kérelmező) kérelmére hatósági bizonyítványt (a továbbiakban: hatósági erkölcsi bizonyítvány) állít ki.
+71. § (1) A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerben kezelt adatok alapján, a 76/A. §-ban és a 76/B. §-ban meghatározottak szerinti ellenőrzést követően, jogviszony létesítésére, fenntartására vagy egyéb, törvényben meghatározott feltételnek való megfelelés igazolására az igazolás alanyának (a továbbiakban: kérelmező) kérelmére hatósági bizonyítványt (a továbbiakban: hatósági erkölcsi bizonyítvány) állít ki.
 
 (2) Ha törvény valamely jogosultság feltételeként a bűnügyi nyilvántartási rendszerben kezelt adatok alapján megállapítható, a (3) bekezdés szerinti tényt határoz meg, a jogosultsághoz szükséges hatósági döntés, hatósági ellenőrzés vagy bejelentés tárgyában hatáskörrel rendelkező közigazgatási hatóság adatigénylésre jogosult. Az adatigénylés alapján a bűnügyi nyilvántartó szerv adattovábbítás útján igazolja az adatigénylés szerinti tényt az adatigénylő hatóság számára. A bűnügyi nyilvántartó szerv által továbbított adatokat az adatigénylő hatóság – törvény eltérő rendelkezése hiányában – az eljárása jogerős befejezéséig, illetve a hatósági ellenőrzés időtartamára kezeli.
 

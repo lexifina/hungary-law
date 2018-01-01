@@ -14,7 +14,9 @@ e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési
 
 f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából,
 
-g) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából.
+g) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából,
+
+h) az általános rendőri feladatok ellátására létrehozott szerv – jogszabályban meghatározott – személy- és létesítményvédelmi feladatainak ellátása céljából.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
 
@@ -110,7 +112,7 @@ c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
 
 d)
 
-(6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
+(6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása, továbbá az ellátási és integrációs feladatai ellátása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
 a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
 

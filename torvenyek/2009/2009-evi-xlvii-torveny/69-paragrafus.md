@@ -26,7 +26,7 @@ af) a lakcímét, továbbá annak megváltozása esetén előző lakcímét, val
 
 b) az adatigénylő pontos megnevezését és címét.
 
-(3) Az adatigénylők kérelmüket elektronikus úton, egyedi informatikai alkalmazás igénybevételével (a továbbiakban: elektronikus úton előterjesztett adatigénylés) is előterjeszthetik.
+(3) Az adatigénylők kérelmüket elektronikus úton, egyedi informatikai alkalmazás igénybevételével (a továbbiakban: elektronikus úton előterjesztett adatigénylés) terjeszthetik elő. Az elektronikus úton előterjesztetett adatigénylés során az adatigénylő a bűnügyi nyilvántartó szerv által adott egyedi azonosítóval azonosítja magát, az így küldött kérelem hiteles dokumentumnak minősül. A bűnügyi nyilvántartó szerv az adatközlést elektronikus úton teljesíti, amelyet akkor kell kézbesítettnek tekinteni, ha az egyedi informatikai alkalmazás annak hozzáférhetőségét igazolja.
 
 (4) Elektronikus úton előterjesztett adatigénylés alapján csak az a személy vehet át adatokat, akinek az adatigénylő erre felhatalmazást adott.
 
