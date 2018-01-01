@@ -1,0 +1,21 @@
+16. § (1) A NEAK – a (2)–(5) bekezdésben foglaltak alapján – minden naptári félévben újraképzi az adott fixesítés kezdőnapjától számítva legalább egy éve már kialakításra került hatóanyag alapú és terápiás fix csoportokat, és meghatározza az április 1-jétől, illetve az október 1-jétől féléves időszakban érvényes preferált referencia ársávba tartozó készítmények körét.
+
+(2) Az (1) bekezdésben foglalt fix csoport kialakításának keretében a NEAK február 1-jén és augusztus 1-jén értesíti az adott fix csoportban lévő termékek forgalomba hozatali engedélyének jogosultját, forgalmazóját, hogy hivatalból eljárást indított, és felhívja az ügyfeleket, hogy ha a 15. § (1) bekezdése szerint közzétett árhoz képest árváltoztatással kívánnak élni, akkor azt február és augusztus 20. napjáig van lehetőségük a NEAK honlapján működtetett nyilvántartásba felvezetni. A megtett árajánlatok az árváltoztatásra nyitva álló határidő lejártát követő első munkanapon válnak nyilvánossá. Ezt követően a NEAK öt munkanapon belül a honlapján közzéteszi a referencia készítményt – ha a 13. § (9) bekezdés e) pontja szerinti forgalmi részesedést elérő több készítményre azonos napi terápiás költséget határoznak meg a forgalomba hozatali engedélyek jogosultjai, akkor valamennyi azonos napi terápiás költségű készítmény referencia termék lesz –, annak támogatását, valamint a csoportban lévő valamennyi további gyógyszer közfinanszírozás alapjául elfogadott árához nyújtott fix összegű támogatásának összegét.
+
+(3) A preferált referencia ársáv alapjául
+
+a) hatóanyag alapú fix csoport esetén az (1) és (2) bekezdés szerinti eljárás során kialakult referencia ár,
+
+b) normatív támogatási kategóriájú terápiás fix csoport esetén a referencia ár
+
+szolgál.
+
+(4) Ha a (2) bekezdésben foglalt eljárás keretében valamely, az adott fix csoportba tartozó termék a Gyftv. 31. § (1) bekezdés h) és i) pontja alapján kizárásra kerülne, ezen gyógyszerek forgalomba hozatali engedélyének jogosultja, forgalmazója március, illetve szeptember 10. napjáig további árcsökkentéssel élhet a kizárás elkerülése érdekében azzal, hogy ezen árcsökkentési ajánlat a referencia készítmény státuszát, a referencia árat, illetve a preferált referencia ársávba tartozó készítmények körét nem befolyásolja.
+
+(5) A (4) bekezdésben foglaltakat követően a NEAK meghatározza a referencia készítményt, annak támogatását, a csoportban lévő valamennyi további gyógyszer közfinanszírozás alapjául elfogadott árához nyújtott fix összegű támogatás mértékét, a preferált referencia ársávba tartozó készítmények körét és ezen adatokat közzéteszi a honlapján. A preferált referencia ársávba tartozó készítményeket a NEAK a honlapján lévő gyógyszertörzsben is megjelöli.
+
+(6) Hatóanyag fix csoport esetén, ha a gyógyszer forgalomba hozatali engedélyének jogosultja, a gyógyszer-nagykereskedő, a gyógyszertár, az egészségügyi szolgáltató, illetve az ezeket ellenőrző hatóság igazolt – a NEAK részére megtett – jelzése alapján a folyamatos betegellátás a fixesítési eljárást követően a preferált referencia ársávba tartozó készítményekkel nem biztosítható, betegellátási érdekből a következő fixesítési eljárás lefolytatásig a fix csoportban lévő, de preferált referencia ársávba nem tartozó, legalacsonyabb napi terápiás költséggel rendelkező készítmények közül azon készítmények, amelyek forgalmi részesedése együttesen az intézkedést megelőző 4 hónap átlagában DOT tekintetében az 5%-ot eléri, a csoportra jellemző százalékos támogatásban, de legfeljebb a csoport referencia-gyógyszeréhez nyújtott támogatási összegben részesülnek.
+
+(7) A gyógyszer forgalomba hozatali engedélyének jogosultja a preferált referencia ársávba tartozó készítmények körének (1) bekezdés szerinti meghatározásakor az adott gyógyszer vonatkozásában nyilatkozni köteles a NEAK felé, hogy a gyógyszerrel való folyamatos betegellátást biztosítja.
+
+(8) Fix támogatási csoportba vonható gyógyszer esetében a már benyújtott, de a fixesítési eljárás kezdetéig el nem bírált támogatási kérelemmel rendelkező készítményt a NEAK a fixesítési eljárásba bevonja, és befogadása esetén az ára vagy az árváltoztatásra nyitva álló határidőben érvényes árajánlata szerint a megfelelő fix csoportba (csoportokba) besorolja.
