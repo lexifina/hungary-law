@@ -1,1 +1,0 @@
-## 3. § Ha az útlevél kiállításának engedélyezése a Törvény 12. §-ának (2) bekezdése alapján a külügyminiszter engedélyezési hatáskörébe tartozik, az 1. §-ban foglalt javaslatot a külügyminiszterhez kell eljuttatni.
