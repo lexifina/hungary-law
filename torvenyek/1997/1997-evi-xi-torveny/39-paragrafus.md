@@ -12,8 +12,8 @@ a) az ügyfél lakcíme, illetve székhelye (telephelye, fióktelepe) ismeretlen
 
 b) a postai küldemény azzal a megjegyzéssel érkezik vissza, hogy a címzett ismeretlen helyen tartózkodik vagy címe ismeretlen.
 
-(5) A hirdetményt a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában és internetes honlapján kell – ugyanazon a napon – közzétenni. A hirdetmény útján közölt döntést a hirdetmény közzétételét követő tizenötödik napon kell kézbesítettnek tekinteni. A döntés hirdetményi úton való közlésére egyebekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályait kell alkalmazni azzal, hogy kifüggesztésen a hirdetmény közzétételét kell érteni.
+(5) A hirdetményt a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában és internetes honlapján kell – ugyanazon a napon – közzétenni. A hirdetmény útján közölt döntést a hirdetmény közzétételét követő tizenötödik napon kell kézbesítettnek tekinteni. A döntés hirdetményi úton való közlésére egyebekben az Ákr. szabályait kell alkalmazni azzal, hogy kifüggesztésen a hirdetmény közzétételét kell érteni.
 
 (6) Ha a 44. § (1) bekezdése alkalmazásának van helye, valamennyi döntést a képviselő részére kell kézbesíteni.
 
-(7) Védjegyügyekben a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a határozat közzétételére vonatkozó rendelkezései nem alkalmazhatók.
+(7) Védjegyügyekben az Ákr.-nek a határozat közhírré tételére vonatkozó rendelkezései nem alkalmazhatók.

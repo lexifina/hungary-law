@@ -10,4 +10,4 @@
 
 (4) A védjegyügyekben előterjesztett beadványokkal kapcsolatos hiányok pótlására – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – az ügyfelet fel kell hívni, illetve figyelmeztetni kell.
 
-(5) Védjegyügyekben nincs helye közmeghallgatásnak.
+(5)

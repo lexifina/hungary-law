@@ -14,7 +14,7 @@ a) a 46/A. § (3) bekezdésében felsorolt döntéseit;
 
 b) az eljárást felfüggesztő és a védjegylajstromba való bejegyzés tárgyában hozott döntését;
 
-c) az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint önálló jogorvoslatnak van helye;
+c) az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben az Ákr. rendelkezései szerint önálló jogorvoslatnak van helye;
 
 d) az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó végzését;
 
@@ -42,12 +42,36 @@ a) ez a későbbi, mint a (6) bekezdés szerinti döntés közlésének napja é
 
 b) az igazolási kérelmet olyan mulasztás kimentésére terjesztették elő, amely közvetlenül a (6) bekezdés szerinti döntés alapjául szolgált.
 
-(8) Ha a Szellemi Tulajdon Nemzeti Hivatala döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kézbesítésétől számított harminc napra ismételten megnyílik.
+(8)
 
 (9) A megváltoztatási kérelem a Szellemi Tulajdon Nemzeti Hivatalánál nyújtható be, amely azt a védjegyügy irataival együtt – a (10) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű fél vett részt, a Szellemi Tulajdon Nemzeti Hivatala a megváltoztatási kérelem továbbításáról egyidejűleg az ellenérdekű felet is értesíti.
 
 (10) Ha a megváltoztatási kérelem elvi jelentőségű jogkérdést vet fel, a Szellemi Tulajdon Nemzeti Hivatala e kérdésben írásbeli nyilatkozatot tehet, és azt a megváltoztatási kérelemmel, valamint a védjegyügy irataival együtt harminc napon belül továbbítja a bírósághoz.
 
-(11) A megváltoztatási kérelem kellékeire a keresetlevélre vonatkozó szabályok megfelelően irányadók.
+(11) A megváltoztatási kérelem bevezető részében fel kell tüntetni:
+
+a) az eljáró bíróság megnevezését,
+
+b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+
+c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+
+(11a) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
+
+a) a megváltoztatási kérelemmel érintett döntés számát, szükség esetén – ha rendelkezésre áll – a lajstromszámot, valamint a döntésnek a megváltoztatási kérelem által érintett rendelkezését vagy részét,
+
+b) a döntés bíróság általi megváltozatására irányuló határozott kérelmet, valamint
+
+c) a döntés megváltoztatásának szükségességét alátámasztó indokokat az ezeket alátámasztó bizonyítékokkal és a jogalap megjelölésével.
+
+(11b) A megváltoztatási kérelem záró részében fel kell tüntetni:
+
+a) a bíróság hatáskörét és illetékességét megalapozó tényeket és jogszabályhelyet,
+
+b) a megfizetett illeték összegét és megfizetésének módját, vagy az eljárási illeték részleges megfizetése esetén a költségkedvezmény engedélyezése iránti kérelmet, illetve jogszabály által biztosított illetékfizetés alóli mentesülés esetén az ennek alapjául szolgáló tényeket és jogszabályhelyet,
+
+c) a meghatalmazott képviseleti jogát megalapozó tényeket és jogszabályhelyet, valamint
+
+d) a záró részben feltüntetett tényeket alátámasztó bizonyítékokat.
 
 (12) Ha a megváltoztatási kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
