@@ -6,7 +6,7 @@
 
 37. § (1) A befektetési vállalkozásban történő minősített befolyás megszerzéséhez a Felügyelet előzetes engedélye szükséges.
 
-(2) Az (1) bekezdés szerinti engedély iránti kérelemhez mellékelni kell:
+(2) Az (1) bekezdés szerinti engedély iránti kérelemhez mellékelni kell – a (2b) bekezdésében foglaltak figyelembevételével –:
 
 a) a kérelmező természetes személyazonosító adatait,
 
@@ -30,7 +30,9 @@ j) a 28. § (1) bekezdésének t) és u) pontjában meghatározott nyilatkozatok
 
 k) a minősített befolyás megszerzése következtében a befektetési vállalkozással szoros kapcsolatba kerülő természetes személy hozzájárulását a személyes adatainak az összevont alapú, vagy a kiegészítő felügyelet érdekében történő kezeléséhez.
 
-(2a) Természetes személy kérelmező az (1) bekezdés szerinti engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé hatósági bizonyítvány útján igazolja azt a tényt, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+(2a) Természetes személy kérelmező az (1) bekezdés szerinti engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé – a 22. § (6) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+
+(2b) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, akkor a (2) bekezdés c), g) és i) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 (3) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
@@ -42,7 +44,7 @@ b) akinek üzleti tevékenysége, kapcsolatainak jellege vagy más vállalkozás
 
 c) aki jó üzleti hírnévvel rendelkezik,
 
-d) aki – természetes személy esetén – a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű és e tényt hatósági bizonyítvány útján igazolja.
+d) aki – a 22. § (6) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (5) A kérelmező, tevékenysége vagy a befektetési vállalkozásra gyakorolt befolyása különösen akkor veszélyezteti a befektetési vállalkozás független, megbízható és körültekintő tulajdonosi irányítását, ha
 
@@ -50,11 +52,11 @@ a) szavazati jogának gyakorlását a hatáskörrel rendelkező felügyeleti hat
 
 b) minősített befolyással rendelkezik (vagy rendelkezett), vezető állású személy (vagy az volt) olyan befektetési vállalkozásban, pénzügyi intézményben vagy biztosítóban,
 
-ba) amely esetében a fizetőképtelenséget kizárólag a hatáskörrel rendelkező felügyeleti hatóság által alkalmazott intézkedéssel lehetett elkerülni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósági határozat megállapította, vagy
+ba) amely esetében a fizetőképtelenséget kizárólag a hatáskörrel rendelkező felügyeleti hatóság által alkalmazott intézkedéssel lehetett elkerülni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy végleges hatósági határozat megállapította, vagy
 
-bb) amelyet fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósági határozat megállapította,
+bb) amelyet fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy végleges hatósági határozat megállapította,
 
-c) súlyosan vagy rendszeresen megsértette e törvény vagy más, a befektetési vállalkozás gazdálkodására vonatkozó jogszabály előírásait, és ezt a hatáskörrel rendelkező felügyeleti hatóság, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította.
+c) súlyosan vagy rendszeresen megsértette e törvény vagy más, a befektetési vállalkozás gazdálkodására vonatkozó jogszabály előírásait, és ezt a hatáskörrel rendelkező felügyeleti hatóság, más hatóság öt évnél nem régebben végleges vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította.
 
 (6) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja, ha a kérelmező, a befolyással rendelkező az (1)–(5) bekezdésekben meghatározott feltételeknek nem felel meg.
 

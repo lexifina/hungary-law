@@ -8,7 +8,7 @@
 
 (5) Az irányítási jogkört részben átvevő felügyeleti biztos kirendelése esetén a befektetési vállalkozás, illetve az árutőzsdei szolgáltató igazgatósága a jogkörét csak annyiban gyakorolhatja, amennyiben az adott jogkört a felügyeleti biztost kirendelő határozat nem utalja a felügyeleti biztos jogkörébe.
 
-(6) A (4) és (5) bekezdéstől eltérően az igazgatóság vagy a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a befektetési vállalkozással, illetve árutőzsdei szolgáltatóval szemben hozott határozat ellen, e jogorvoslati eljárásban a befektetési vállalkozást, illetve árutőzsdei szolgáltatót képviselheti vagy a képviselet ellátására megbízást adhat.
+(6) A (4) és (5) bekezdéstől eltérően az igazgatóság vagy a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogosult arra, hogy a felügyeleti biztost kirendelő határozatot és a Felügyelet által a befektetési vállalkozással, illetve árutőzsdei szolgáltatóval szemben hozott határozatot közigazgatási perben megtámadja.
 
 (7) A felügyeleti biztos feladata:
 

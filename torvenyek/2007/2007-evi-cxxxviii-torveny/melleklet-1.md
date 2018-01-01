@@ -2,7 +2,7 @@
 
 1. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 
-2. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
+2. Art.: az adózás rendjéről szóló törvény,
 
 3. Bit.: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény,
 
@@ -22,7 +22,7 @@
 
 11. Itv.: az illetékekről szóló 1990. évi XCIII. törvény,
 
-12. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
+12.
 
 13.
 

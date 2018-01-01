@@ -1,4 +1,4 @@
-33. § (1) A kérelmező a 9. § (1) bekezdésében meghatározott tevékenység végzésre jogosító engedély iránti kérelemhez mellékeli
+33. § (1) A kérelmező a 9. § (1) bekezdésében meghatározott tevékenység végzésre jogosító engedély iránti kérelemhez mellékeli – az (1a) bekezdésében foglaltak figyelembevételével –
 
 a) létesítő okiratát és létesítő okiratának módosítását,
 
@@ -27,6 +27,8 @@ l) az 1031/2010/EU bizottsági rendelet 59. cikkében meghatározott feltételek
 m) fióktelep formájában működő árutőzsdei szolgáltató esetében a székhely szerinti felügyeleti hatóság igazolását arról, hogy rendelkezik a tevékenység végzésére jogosító tevékenységi engedéllyel,
 
 n) fióktelep formájában működő árutőzsdei szolgáltató vezető állású személyének döntési, irányítási jogköre bemutatását.
+
+(1a) Ha a kérelmező magyar székhelyű nem természetes személy, akkor az (1) bekezdés a) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 (2) A külföldi kérelmező a 9. § (1) bekezdésében meghatározott tevékenység végzésére jogosító engedély iránti kérelmében az (1) bekezdésben foglaltakon felül
 

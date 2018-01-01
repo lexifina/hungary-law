@@ -1,4 +1,4 @@
-28. § (1) A kérelmező a befektetési szolgáltatási tevékenység végzésre jogosító engedély iránti kérelemhez mellékeli
+28. § (1) A kérelmező a befektetési szolgáltatási tevékenység végzésre jogosító engedély iránti kérelemhez mellékeli – az (1a) bekezdésében foglaltak figyelembevételével –
 
 a) a létesítő okiratát vagy létesítő okiratának módosítását,
 
@@ -49,6 +49,8 @@ w) a Befektető-védelmi Alap igazolását az Alaphoz történő csatlakozási k
 x) a befektetési vállalkozás likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó, a befektetési vállalkozás igazgatósága által elfogadott eljárás rendjét és – ha a befektetési vállalkozásra nem terjed ki az összevont alapú felügyelet – a 102. §-ban meghatározott egyedi helyreállítási tervét,
 
 y) a Szanálási Alaphoz történő csatlakozásáról szóló nyilatkozat másolatát.
+
+(1a) Ha a kérelmező magyar székhelyű nem természetes személy, akkor az (1) bekezdés a) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 (2) A kérelmező a letétkezelési tevékenység végzésére jogosító engedély iránti kérelméhez az (1) bekezdésben foglaltakon túl mellékeli a biztonsági, a letétkezelési és az értéktári szabályzat tervezetét.
 

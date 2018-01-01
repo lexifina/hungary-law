@@ -1,4 +1,4 @@
-22/A. § (1) A befektetési vállalkozás vezető állású személyének az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját 30 nappal megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
+22/A. § (1) A befektetési vállalkozás vezető állású személyének az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
 
 (2) A vezető állású személy és a befektetési vállalkozás köteles a Felügyeletnek haladéktalanul bejelenteni, ha a vezető állású személlyel kapcsolatban az engedély megadását követően kizárási ok merül fel. A vezető állású személy megválasztásához vagy kinevezéséhez megadott engedélyt a Felügyelet visszavonhatja, illetve felfüggesztheti, ha az engedély alapjául szolgáló feltétel az engedély megadását követően megszűnik, illetve ha az engedély megadását követően merül fel kizárási ok.
 

@@ -1,1 +1,1 @@
-165. § A Felügyelet a 164. § (1) bekezdésének h), n), o) és p) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el azzal, hogy a tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
+165. §

@@ -16,6 +16,8 @@ d) a 116. §-ban foglaltak alátámasztását szolgáló okiratokat,
 
 e) a megbízóval kötött szerződést.
 
+(4a) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, akkor a (4) bekezdés d) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
+
 (5) A Felügyelet a (3) bekezdés szerinti nyilvántartásba vétel iránti kérelmet elutasítja, ha
 
 a) a kérelmező az e törvényben vagy az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak nem felel meg,
