@@ -4,6 +4,6 @@
 
 a) az adott projektre vonatkozóan a tervezővel, kivitelezővel nem áll munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban,
 
-b)[^3] a tervezőnek, kivitelezőnek nem a Polgári Törvénykönyv szerinti közeli hozzátartozója.
+b)[^8] a tervezőnek, kivitelezőnek nem a Polgári Törvénykönyv szerinti közeli hozzátartozója.
 
-[^3]: A 14. § (2) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^8]: A 14. § (2) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 31. §-a szerint módosított szöveg.
