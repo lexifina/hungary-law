@@ -36,7 +36,7 @@ b) az emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús b�
 
 a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti rombolás (1978. évi IV. törvény 142. §) és terrorcselekmény (1978. évi IV. törvény 261. §),
 
-b) a rombolás (Btk. 257. §), a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és a terrorizmus finanszírozása (Btk. 318. §).
+b) a rombolás (Btk. 257. §), a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és a terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §).
 
 (6) Az (1) bekezdés c) pontjában foglaltak teljesítéséhez a távközlési, illetőleg postai szervezet köteles a feladatkörébe tartozó esetben a segítséget megadni.
 
