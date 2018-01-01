@@ -1,4 +1,4 @@
-6. § (1) A bíróság polgári peres és nemperes eljárás vagy büntetőeljárás lefolytatása céljából a gondnokoltak nyilvántartásában kezelt adatok teljes körét közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult megismerni és kezelni.
+6. § (1) A bíróság polgári peres és nemperes eljárás, közigazgatási peres, nemperes és egyéb közigazgatási bírósági eljárás vagy büntetőeljárás lefolytatása céljából a gondnokoltak nyilvántartásában kezelt adatok teljes körét közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult megismerni és kezelni.
 
 (2) A gondnokoltak nyilvántartásában az érintettre vonatkozóan szereplő alábbi adatokat a cselekvőképesség fennállásának vizsgálata céljából konkrét ügyben közvetlen hozzáféréssel jogosult megismerni és kezelni:
 
