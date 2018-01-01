@@ -1,25 +1,17 @@
 ## 16. F-ÜHG forgalmazói és telepítői felelősség
 
-22. § (1) Minden olyan forgalomba hozatalra jogosult vállalkozás, amely természetes vagy jogi személy végfelhasználó számára kereskedelmi célból értékesít nem hermetikusan zárt, hűtőköri szerelést igénylő, F-ÜHG-val előtöltött vagy azzal üzemelő HR szektorba tartozó terméket vagy berendezést, valamint az MR szektorba tartozó hűtőegységet, köteles a végfelhasználótól olyan eredeti, cégjegyzésszerűen kiállított tanúsítvány bemutatását kérni, amely hitelesen igazolja, hogy a tanúsítványt kiállító képesített vállalkozás vállal felelősséget a berendezések telepítésére. A tanúsítványt a végfelhasználó is köteles aláírásával ellátni.
+22. §[^90] (1) Minden olyan forgalomba hozatalra jogosult vállalkozás, amely természetes személy vagy szervezet végfelhasználó (a továbbiakban: telepíttető) számára kereskedelmi célból értékesít nem hermetikusan zárt, hűtőköri szerelést igénylő, F-ÜHG-val előtöltött vagy azzal üzemelő HR szektorba tartozó alkalmazást, valamint az MR szektorba tartozó hűtőegységet, köteles a telepíttetőtől olyan eredeti, cégszerűen kiállított, egyedi azonosítóval ellátott tanúsítvány bemutatását kérni, amely azt igazolja, hogy a tanúsítványt kiállító képesített vállalkozás vállalja az alkalmazás telepítését. A tanúsítványt a telepíttető is köteles aláírásával ellátni.
 
-(2)[^63] A tanúsítványt F-GÁZ ügyfélazonosítójának feltüntetésével a telepítést végző vállalkozás készíti el, amely annak kiállításával egyidejűleg az adatbázisban legalább a következő adatokat köteles regisztrálni az alkalmazásra nézve:
+(2) A tanúsítványt F-GÁZ ügyfél-azonosítójának feltüntetésével a telepítést vállaló képesített vállalkozás készíti el, aki annak kiállításával egyidejűleg az adatbázis tanúsítvány és telepítés nyilvántartására szolgáló felületén legalább a következő adatokat regisztrálja az alkalmazás vonatkozásában:
 
-a) HR szektor esetén a telepítés helyszíne (helységnév és irányítószám, a főváros esetében a kerület megjelölésével),
+a) HR szektor esetén a telepítés helyszíne (helységnév és irányítószám),
 
-b) MR szektor esetén az alvázszám,
+b) MR szektor esetén az alvázszám.
 
-c) HR és MR szektor esetén a tanúsítványt kiállító képesített vállalkozás megnevezése és székhelye.
+(3) A telepíttető köteles a tanúsítványt az értékesítéskor a forgalomba hozatalra jogosult vállalkozás számára legalább egy eredeti példányban átadni.
 
-(3)[^64] A végfelhasználó köteles a tanúsítványt az értékesítéskor a forgalomba hozatalra jogosult vállalkozás számára egy eredeti példányban átadni.
+(4) A forgalomba hozatalra jogosult vállalkozás az értékesítéskor köteles a tanúsítványon rögzíteni nevét, székhelyét, adószámát, F-Gáz ügyfél-azonosítóját, az értékesítés tényét, az értékesített alkalmazás megnevezését, típusszámát, azonosítóját, az alkalmazásban megtalálható F-ÜHG fajtáját, tömegét kg-ban. A forgalomba hozatalra jogosult vállalkozás a 19. § (5) bekezdésében foglalt adatrögzítési kötelezettsége mellett köteles a tanúsítvány egy másolati példányát az értékesítési dokumentumok mellett 5 évig megőrizni és azt a Hatóság felhívására bemutatni, kérésére átadni.
 
-(4)[^65] A forgalmazó az értékesítéskor köteles az F-GÁZ ügyfélazonosító alatt található adatlapon tanúsítani, hogy az értékesítés megtörtént, és az adatbázisba feltölteni az értékesített termék vagy berendezés megnevezését, típusszámát, azonosítóját, a berendezésben megtalálható F-ÜHG típusát, tömegét kg-ban és szén-dioxid-egyenértékben kifejezve, valamint fajtáját, ipari megnevezését, annak hiányában kémiai nevét. A forgalmazó köteles a tanúsítvány egy másolati példányát az értékesítési dokumentumok mellett 5 évig megőrizni és azt a Hatóság felhívására bemutatni és átadni. A forgalmazó köteles az értékesítést követő 8 munkanapon belül értesíteni az értékesítés megtörténtéről a tanúsítványt kiállító képesített vállalkozást a kitöltött tanúsítvány másolatának megküldésével.
+(5) A telepítést végző képesített vállalkozás képesített alkalmazottja köteles a tanúsítványon a telepítést követő 8 napon belül az adatbázis tanúsítvány és telepítés nyilvántartására szolgáló felületén rögzíteni, hogy a telepítés az adatlapon rögzített termékre nézve a telepítés helyén megtörtént.
 
-(5)[^66] A telepítést követően a telepítést végző képesített vállalkozás köteles az F-GÁZ ügyfélazonosító alatt található adatlapon tanúsítani, hogy a telepítés az adatlapon rögzített termékre nézve a telepítés helyén megtörtént.
-
-(6)[^67]
-
-[^63]: A 22. § (2) bekezdése az 55/2015. (III. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^64]: A 22. § (3) bekezdése az 55/2015. (III. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^65]: A 22. § (4) bekezdése a 389/2015. (XII. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^66]: A 22. § (5) bekezdése az 55/2015. (III. 17.) Korm. rendelet 2. §-ával megállapított, a 112/2016. (V. 27.) Korm. rendelet 29. § 10. pontja szerint módosított szöveg.
-[^67]: A 22. § (6) bekezdését a 112/2016. (V. 27.) Korm. rendelet 30. § 14. pontja hatályon kívül helyezte.
+[^90]: A 22. § a 285/2017. (IX. 22.) Korm. rendelet 14. §-ával megállapított szöveg.

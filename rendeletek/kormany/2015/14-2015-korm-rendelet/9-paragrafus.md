@@ -2,4 +2,6 @@
 
 (2) Az (1) bekezdésben foglaltakon túl az e rendelet hatálya alá eső anyagokat kizárólag az a regisztrált vállalkozás jogosult saját felhasználási céllal vásárolni, amelyet a Hatóság erre feljogosított.
 
-(3) Helyszíni hűtőköri szerelést igénylő termékek és berendezések esetében a készülék forgalomba hozója köteles írásban tájékoztatást adni a berendezés-specifikusan képesített, a 22. § szerinti tanúsítvány adására, így telepítésre jogosult képesített vállalkozások partneri hálózatáról.
+(3)[^61]
+
+[^61]: A 9. § (3) bekezdését a 285/2017. (IX. 22.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
