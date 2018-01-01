@@ -1,3 +1,1 @@
-17. § (1) A hatóság a 7. § (1) bekezdés a) pontjában meghatározott eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az ügyfél által megadott elektronikus úton vagy az ügyfél egyéb, hangkapcsolati útnak nem minősülő elektronikus elérhetőségén az eljárás megindításától számított nyolc napon belül értesíti. Az eljárásban nem azonosítható ügyféllel szemben hirdetményi kézbesítésnek van helye.
-
-(2) A 7. § (1) bekezdés a) pontjában meghatározott eljárásban hozott döntés fellebbezéssel nem érintett rendelkezései tekintetében a döntés jogerőssé válik, ha kizárólag a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+17. § A 7. § (1) bekezdés a) pontjában meghatározott eljárásban fellebbbezésnek van helye.

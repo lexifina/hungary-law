@@ -1,8 +1,8 @@
 11. § (1) A közlekedési hatóság
 
-a) az egyéb kötöttpályás közlekedési szakmai oktató és vizsgabiztos nyilvántartásával kapcsolatban megismert személyes adatokat a névjegyzékbe való felvétel iránti eljárás jogerős befejezéséig,
+a) az egyéb kötöttpályás közlekedési szakmai oktató és vizsgabiztos nyilvántartásával kapcsolatban megismert személyes adatokat a névjegyzékbe való felvétel iránti eljárás végleges döntéssel történő befejezéséig,
 
-b) az egyéb kötöttpályás közlekedési szakmai oktatóra és vizsgabiztosra vonatkozó, büntetett előéletre vonatkozó személyes adatokat a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
+b) az egyéb kötöttpályás közlekedési szakmai oktatóra és vizsgabiztosra vonatkozó, büntetett előéletre vonatkozó személyes adatokat a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás végleges döntéssel történő befejezéséig
 
 kezeli.
 

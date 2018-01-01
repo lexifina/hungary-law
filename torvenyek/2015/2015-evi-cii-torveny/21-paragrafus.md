@@ -1,9 +1,15 @@
 ## 14. Adatvédelem, adatkezelés
 
-21. § (1) A közlekedési hatóság jogosult a műszaki engedélyek kiadásának alapjául szolgáló személyes adatokat kezelni.
+21. § A közlekedési hatóság jogosult
 
-(2) A közlekedési hatóság személyes adatokat az egyéb kötöttpályás közlekedés zavartalanságának biztosítása, az egyéb kötöttpályás közlekedés biztonságának fenntartása, valamint a 15. § (1) bekezdés b) pontjában meghatározott feladatok ellátása érdekében kezeli.
+a) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakörben foglalkoztatottak természetes személyazonosító adatait, valamint büntetett előéletére és ahol e törvény alapján ezt igazolni kell, arra vonatkozó különleges adatait, hogy foglalkozástól vagy járművezetéstől eltiltás hatálya alatt nem áll,
 
-(3) Az (1) bekezdésben meghatározott adatokat a közlekedési hatóság az egyéb kötöttpályás közlekedés biztonsági követelmények érvényesítése céljából a munkavégzésre való alkalmasság megállapítása, a vasúti közlekedés biztonságának folyamatos fenntartása, valamint a 15. § (1) bekezdés b) pontjában meghatározott feladat ellátása érdekében kezeli.
+b) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalók természetes személyazonosító adatait, a munkakör betöltéséhez szükséges egészségügyi alkalmasságra vonatkozó adatokat,
 
-(4) A 15. § (1) bekezdés b) pontjában meghatározott esetben az (1) bekezdésben meghatározott adatokat a közlekedési hatóság addig az időpontig tartja nyilván, amíg az érintett természetes személy az egyéb kötött pályát üzemeltető ügyvezetését, valamint az egyéb kötött pályás közlekedési tevékenység szakmai irányítását ellátja.
+c) az egyéb kötöttpályás közlekedési tevékenység végző személy vagy szervezet vezető tisztségviselőjének, valamint az egyéb kötöttpályás közlekedési tevékenység szakmai irányítását ellátó személy természetes személyazonosító adatait és büntetett előéletére vonatkozó különleges adatokat,
+
+d) a műszaki engedélyek kiadásának alapjául szolgáló adatokat,
+
+e) a képzést és vizsgáztatást, illetve az egészségi alkalmasság vizsgálatát és véleményezését végző személyek természetes személyazonosító adatait,
+
+kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képesítéseket – ezek hitelességének utólagos igazolása céljából – nyilvántartani.

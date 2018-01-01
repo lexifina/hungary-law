@@ -14,4 +14,4 @@ c) az a személy, aki büntetlen előéletű, nem áll a vasúti közlekedési s
 
 (4)–(5)
 
-(6) A (3) bekezdés szerinti személyes adatokat a közlekedési hatóság vagy a kamara a vasúti közlekedési szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
+(6) A (3) bekezdés szerinti személyes adatokat a közlekedési hatóság vagy a kamara a vasúti közlekedési szakértő nyilvántartásból való törléséről szóló döntés véglegessé válásáig kezeli.

@@ -10,6 +10,6 @@ a) a Magyarország területén található, vasútnak nem minősülő egyéb kö
 
 b) a Magyarország területén folytatott vasúti egyéb kötöttpályás közlekedést működtető, illetve az abban részt vevő természetes személyekre és szervezetekre, valamint
 
-c) a trolibusz kötött pályájának engedélyezésére és a létesítésével összefüggő jogokra és kötelezettségekre
+c)
 
 terjed ki.
