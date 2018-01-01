@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-483-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-30 | 2015-483-20-22.1 | 483/2015. (XII. 29.) Korm. rendelet |
+| 2018-01-01 | 2015-483-20-22.2 | 458/2017. (XII. 28.) Korm. rendelet |
