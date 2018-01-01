@@ -16,7 +16,7 @@ c) a készüléket hívja vissza.
 
 (5) A gazdasági szereplő megteszi a szükséges kiigazító intézkedéseket az általa forgalmazott készülék tekintetében.
 
-(6) Ha az érintett gazdasági szereplő a (2) bekezdésben foglalt felhívást a (3) bekezdés szerinti határidőben nem teljesíti, a piacfelügyeleti hatóság az elektronikus hírközlésről szóló törvényben, valamint a termékek piacfelügyeletéről szóló törvényben meghatározott jogkövetkezmények alkalmazásával, hatósági határozatában minden szükséges átmeneti intézkedést meghoz a készülék betiltására, korlátozására, forgalomból történő kivonására vagy visszahívására. A piacfelügyeleti hatóság a jogerős és végrehajtható átmeneti intézkedésekről haladéktalanul tájékoztatja a Bizottságot és a többi tagállamot.
+(6)[^9] Ha az érintett gazdasági szereplő a (2) bekezdésben foglalt felhívást a (3) bekezdés szerinti határidőben nem teljesíti, a piacfelügyeleti hatóság az elektronikus hírközlésről szóló törvényben, valamint a termékek piacfelügyeletéről szóló törvényben meghatározott jogkövetkezmények alkalmazásával, hatósági határozatában minden szükséges átmeneti intézkedést meghoz a készülék betiltására, korlátozására, forgalomból történő kivonására vagy visszahívására. A piacfelügyeleti hatóság a véglegessé vált és végrehajtható átmeneti intézkedésekről haladéktalanul tájékoztatja a Bizottságot és a többi tagállamot.
 
 (7) A piacfelügyeleti hatóság a (6) bekezdés szerinti tájékoztatásban megadja az összes rendelkezésre álló adatot, különösen a nem megfelelő készülék azonosításához szükséges adatokat, a készülék származási helyét, a feltárt jogsértést és a felmerülő kockázatot, az alkalmazott jogkövetkezményeket, valamint az érintett gazdasági szereplő eljárás során kifejtett álláspontját. A piacfelügyeleti hatóság a tájékoztatásban jelzi, ha a megfelelés hiánya az alábbiakban felsoroltak valamelyike miatt következett be:
 
@@ -49,3 +49,5 @@ g) a gyártó a 6. § (7) bekezdés szerinti, vagy az importőr a 8. § (3), (7)
 ## felhívja az érintett gazdasági szereplőt a jogsértés megszüntetésére.
 
 (12) Amennyiben a gazdasági szereplő a (11) bekezdés szerinti felhívásnak nem tesz eleget, a piacfelügyeleti hatóság az elektronikus hírközlésről szóló törvényben, valamint a termékek piacfelügyeletéről szóló törvényben meghatározott jogkövetkezmények alkalmazásával intézkedik a nem megfelelő készülék forgalmazásának betiltására vagy korlátozására, forgalomból történő kivonására vagy visszahívására.
+
+[^9]: A 15. § (6) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 14. §-a szerint módosított szöveg.
