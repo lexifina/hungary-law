@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-47-00-00
 | 2017-11-01 | 2017. évi LIX. törvény | 1997-47-00-00.49 |
 | 2017-12-14 | 2017. évi CLXXX. törvény | 1997-47-00-00.50 |
 | 2017-12-19 | 2017. évi CLXXXVIII. törvény | 1997-47-00-00.51 |
+| 2018-01-01 | 2017. évi L. törvény | 1997-47-00-00.52 |
