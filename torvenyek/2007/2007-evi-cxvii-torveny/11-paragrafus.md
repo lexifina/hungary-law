@@ -16,7 +16,7 @@ e) befektetésekért felelős vezetőt
 
 (2) Egyéb vezetőnek az nevezhető ki, akinek személyét a kinevezés tervezett időpontját harminc nappal megelőzően a foglalkoztatói nyugdíjszolgáltató intézmény a Felügyeletnek bejelentette, és az engedélyt a Felügyelet megadta. A Felügyelet köteles az egyéb vezető megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
 
-(3) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet harminc napon belül nem hozza meg határozatát.
+(3)
 
 (4) Az egyéb vezetők legfeljebb két foglalkoztatói nyugdíjszolgáltatói intézménynél tölthetnek be ilyen pozíciót.
 

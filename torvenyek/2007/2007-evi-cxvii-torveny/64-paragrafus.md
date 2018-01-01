@@ -32,7 +32,7 @@ n) kötelezheti a foglalkoztatói nyugdíjszolgáltató intézményt állomány�
 
 o) megtilthatja a 19. § (5) bekezdésében foglaltak szerint az ügymenet kiszervezését.
 
-(2) A Felügyelet a felügyeleti eljárás során megtett intézkedésekről rendelkező határozatokat megküldi a székhely szerint illetékes bíróságnak, a határozat jogerőre emelkedésének megjelölésével.
+(2) A Felügyelet a felügyeleti eljárás során megtett intézkedésekről rendelkező határozatokat megküldi a székhely szerint illetékes bíróságnak, a határozat véglegessé válásának megjelölésével.
 
 (3) A foglalkoztatói nyugdíjszolgáltató intézmény köteles a Felügyelet által az (1) bekezdés alapján vele szemben hozott határozat rendelkező részét az adott határozat közlésétől számított öt évig honlapján közzétenni. Ha a foglalkoztatói nyugdíjszolgáltató intézmény nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
 

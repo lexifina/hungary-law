@@ -8,7 +8,7 @@
 
 (4) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja és a cégvezető a gazdasági társaságokra vonatkozó törvényi rendelkezésekben, az e törvényben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának és a cégvezető törvényben és alapszabályban megállapított jogait és kötelezettségeit.
 
-(5) A felügyelőbizottság tagja, illetőleg a (4) bekezdéstől eltérően az igazgatóság és a cégvezető a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a foglalkoztatói nyugdíjszolgáltató intézménnyel szemben hozott határozat ellen, e jogorvoslati eljárásban a foglalkoztatói nyugdíjszolgáltató intézményt képviselheti vagy a képviselet ellátására megbízást adhat, amely a felügyeleti biztost kirendelő határozat végrehajtására nincs halasztó hatállyal.
+(5) A felügyelőbizottság tagja, valamint – a (4) bekezdéstől eltérően – az igazgatóság és a cégvezető a felügyeleti biztos kirendelésének ideje alatt is jogosult arra, hogy a felügyeleti biztost kirendelő határozatot és a Felügyelet által a foglalkoztatói nyugdíjszolgáltató intézménnyel szemben hozott határozatot megtámadja.
 
 (6) A felügyeleti biztosnak folyamatosan biztosítania kell, hogy az általa megtett intézkedésekről a tulajdonosok és a tagok – kérésükre – három munkanapon belül írásban tájékoztatást kapjanak.
 

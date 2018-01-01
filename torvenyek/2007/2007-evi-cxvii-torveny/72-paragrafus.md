@@ -2,7 +2,7 @@
 
 72. § (1)–(3)
 
-(4) A Felügyelet engedélyezési és ellenőrzési jogkörének gyakorlása érdekében az eljárás jogerős befejezéséig jogosult a vezető állású személyek, a kötelező alkalmazottak és megbízottak, valamint természetes személy szolgáltatók alábbiakban felsorolt személyes adatait megismerni és kezelni:
+(4) A Felügyelet engedélyezési és ellenőrzési jogkörének gyakorlása érdekében a jogviszony megszűnésétől számított legfeljebb 5 évig jogosult a vezető állású személyek, a kötelező alkalmazottak és megbízottak, valamint természetes személy szolgáltatók alábbiakban felsorolt személyes adatait megismerni és kezelni:
 
 a) természetes személyazonosító adatok,
 
