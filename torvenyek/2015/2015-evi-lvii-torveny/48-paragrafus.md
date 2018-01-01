@@ -18,6 +18,8 @@
 
 (9) E törvénynek a Mód. Tv. által módosított 22. § (1a) bekezdését, 22/B., 22/C., 23. §-át, 25. § (1) és (2) bekezdését, 26. §-át, 28. § (5) bekezdését, 29. § (1a), (2) és (4) bekezdését, 31. §-át, 32. § (5) bekezdését, 33. § (5) bekezdését és a 34. § (6) bekezdését a módosítás hatálybalépésekor folyamatban lévő és megismételt eljárásokban is alkalmazni kell.
 
-(10) A törvény és végrehajtási rendelete által előírt határidők és kötelezettségek teljesítése vonatkozásában a közigazgatási hatósági eljárás általános szabályairól szóló 2004. évi CXL. törvény 66. §-a és 74. §-a nem alkalmazható.
+(10)
 
 (11) E törvénynek a Mód. Tv. által módosított 22. § (1b) bekezdését a 2015. december 5-ét követően létrejövő nagyvállalat, vagy nagyvállalattá minősülő vállalkozás esetében is alkalmazni kell.
+
+(12) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.

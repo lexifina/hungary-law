@@ -10,6 +10,8 @@ d) a 22/C. § (1) bekezdésében meghatározott adatszolgáltatásra kötelezett
 
 e) a 23. § (1) és (2) bekezdésében meghatározott adatszolgáltatás keretében szolgáltatandó – személyes adatnak nem minősülő – adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség teljesítésének határidejét,
 
-f) a közreműködő szervezetek éves jelentésének tartalmi követelményeit, benyújtásának idejét és módját
+f) a közreműködő szervezetek éves jelentésének tartalmi követelményeit, benyújtásának idejét és módját,
+
+g) az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetek által telepítendő almérők telepítési pontját
 
 rendeletben állapítsa meg.

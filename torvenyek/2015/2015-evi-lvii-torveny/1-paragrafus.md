@@ -36,7 +36,7 @@
 
 15. energetikai auditor: energetikai auditálást végző természetes személy;
 
-16. gazdálkodó szervezet: a polgári perrendtartásról szóló 1952. évi III. törvény 396. §-ában meghatározott szervezet;
+16. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, a szövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, a külföldi székhelyű vállalat magyarországi fióktelepe, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, az egyéni cég, továbbá az egyéni vállalkozó;
 
 17. hatékony távfűtés: olyan távfűtési rendszer, amely legalább 50%-ban megújuló energia, 50%-ban hulladékhő, 75%-ban kapcsolt energiatermelésből származó hő vagy 50%-ban ilyen energiák és hők kombinációjának felhasználásával működik;
 

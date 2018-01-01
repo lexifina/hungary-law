@@ -12,4 +12,4 @@ d) a közreműködő szervezetek nyilvántartásában szereplő adatokat, valami
 
 e) a közreműködő szervezetek jelentésében szereplő adatokat.
 
-(2) A Hivatal a névjegyzékbe vétel megtagadása esetén a megtagadás jogerőre emelkedéséig, valamint a névjegyzékből és a közreműködő szervezetek nyilvántartásából történő törlés időpontjától számított tíz év elteltéig gondoskodik az (1) bekezdés szerinti adatok megőrzéséről. A Hivatal köteles az adatokat a határidő lejártát követő 15 napon belül visszavonhatatlanul törölni.
+(2) A Hivatal a névjegyzékbe vétel megtagadása esetén a megtagadás véglegessé válásáig, valamint a névjegyzékből és a közreműködő szervezetek nyilvántartásából történő törlés időpontjától számított tíz év elteltéig gondoskodik az (1) bekezdés szerinti adatok megőrzéséről. A Hivatal köteles az adatokat a határidő lejártát követő 15 napon belül visszavonhatatlanul törölni.
