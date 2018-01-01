@@ -42,9 +42,9 @@
 
 3.2. kérelmek hiánypótlást követő teljesítésének száma
 
-3.3. kérelmek hiánypótlás nélküli elutasításának száma
+3.3.[^34] kérelmek visszautasításának száma
 
-3.4. kérelmek hiánypótlást követő elutasításának száma.
+3.4.[^35] kérelmek elutasításának száma.
 
 4. Fellebbezések:
 
@@ -99,3 +99,6 @@
 5.3.2. befejezett
 
 5.3.3. folyamatban maradt.
+
+[^34]: A 2. melléklet 3. pont 3.3. alpontja a 20/2017. (XII. 21.) IM rendelet 38. § a) pontja szerint módosított szöveg.
+[^35]: A 2. melléklet 3. pont 3.4. alpontja a 20/2017. (XII. 21.) IM rendelet 38. § b) pontja szerint módosított szöveg.
