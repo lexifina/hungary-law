@@ -16,9 +16,9 @@ b) a felhasználásra kész állapotú terméknek a 3. számú mellékletben meg
 
 (5) A 2. számú mellékletben meghatározott időpontok előtt gyártott, az (1) és (2) bekezdésekben meghatározott követelményeknek nem megfelelő termék a kötelezett által forgalomba hozható az adott termék VOC-tartalmára vonatkozó követelmény hatálybalépésétől számított 12 hónapos időszakban, és tovább forgalmazható a felhasználhatósági idő lejártáig.
 
-(6)[^16] A rendelet hatálybalépését követően gyártott, az (1) és (2) bekezdésben foglaltaknak meg nem felelő terméket a kötelezett akkor értékesítheti, ha a vevő a 7. számú mellékletben foglaltak szerint írásban nyilatkozik arról, hogy
+(6)[^17] A rendelet hatálybalépését követően gyártott, az (1) és (2) bekezdésben foglaltaknak meg nem felelő terméket a kötelezett akkor értékesítheti, ha a vevő a 7. számú mellékletben foglaltak szerint írásban nyilatkozik arról, hogy
 
-a) a környezetvédelmi engedéllyel, vagy egységes környezethasználati engedéllyel, vagy környezetvédelmi működési engedéllyel végzett tevékenysége az egyes tevékenységek és berendezések illékony szerves vegyület kibocsátásának korlátozásáról szóló külön jogszabály[^17] hatálya alá tartozik és
+a) a környezetvédelmi engedéllyel, vagy egységes környezethasználati engedéllyel, vagy környezetvédelmi működési engedéllyel végzett tevékenysége az egyes tevékenységek és berendezések illékony szerves vegyület kibocsátásának korlátozásáról szóló külön jogszabály[^18] hatálya alá tartozik és
 
 b) a vásárolt terméket kizárólag a saját tevékenysége keretében kívánja felhasználni és más részére azt tovább nem értékesíti.
 
@@ -26,5 +26,5 @@ b) a vásárolt terméket kizárólag a saját tevékenysége keretében kíván
 
 (8) E rendelet alapján – VOC-tartalmára való hivatkozással – nem tiltható meg, továbbá nem akadályozható vagy korlátozható a rendelet hatálya alá tartozó termék forgalomba hozatala, ha felhasználásra kész állapotában teljesíti az e rendeletben rá vonatkozóan előírt követelményeket.
 
-[^16]: A 4. § (6) bekezdése a 280/2008. (XI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^17]: 10/2001. (IV. 19.) KöM rendelet.
+[^17]: A 4. § (6) bekezdése a 280/2008. (XI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^18]: 10/2001. (IV. 19.) KöM rendelet.

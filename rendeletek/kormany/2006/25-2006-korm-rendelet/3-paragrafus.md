@@ -10,23 +10,23 @@
 
 a) a kötelezett vagy annak alkalmazottja rendelkezik a jogszabályban meghatározott szakképesítéssel,
 
-b) a kötelezett rendelkezik 30 napnál nem régebben kiállított közokirati igazolással arról, hogy a kötelezett – a kérelem benyújtásának időpontjában – az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül, vagy a kötelezett – a kérelem benyújtásának időpontjában – szerepel a köztartozásmentes adózói adatbázisban, és
+b)[^10] a kötelezett a kérelem benyújtásának időpontjában köztartozásmentes adózónak minősül, és
 
 c) a kötelezettet nem nevesítették az Európai Unió jogi aktusában mint terrorista személyt vagy szervezetet vagy mint a terrorizmust támogató személyt vagy szervezetet, és nem írták elő ellene az Európai Unió jogi aktusában gazdasági korlátozó intézkedések bevezetését.
 
-(4)[^10] A nyilvántartásban szereplő adatokban bekövetkezett változásokat harminc napon belül a Kormányhivatalhoz be kell jelenteni.
+(4)[^11] A nyilvántartásban szereplő adatokban bekövetkezett változásokat harminc napon belül a Kormányhivatalhoz be kell jelenteni.
 
-(5) Az engedély iránti kérelmet a 6. számú melléklet szerinti adattartalommal kell benyújtani. A kérelemhez csatolni kell a (3) bekezdés a) és b) pontja szerinti feltételek fennállását igazoló okiratokat vagy azoknak a kiadmányozó vagy közjegyző által hitelesített másolatát.
+(5)[^12] Az engedély iránti kérelmet a 6. számú melléklet szerinti adattartalommal kell benyújtani.
 
-(6)[^11] A Kormányhivatal a kötelezett engedélyét visszavonja, és ezzel egyidejűleg törli a kötelezettet a nyilvántartásból, ha
+(6)[^13] A Kormányhivatal a kötelezett engedélyét visszavonja, és ezzel egyidejűleg törli a kötelezettet a nyilvántartásból, ha
 
 a) az e rendeletben előírt feltételeknek már nem felel meg,
 
 b) az e rendelet alapján ellenőrzésre jogosult hatóságok megállapítása szerint tevékenységét az e rendeletben előírt kötelezettségeinek megsértésével folytatja.
 
-(7)[^12] A Kormányhivatal a határozatát és annak módosítását, visszavonását közli a kötelezett üzlete vagy telephelye szerint illetékes jegyzővel.
+(7)[^14] A Kormányhivatal a határozatát és annak módosítását, visszavonását közli a kötelezett üzlete vagy telephelye szerint illetékes jegyzővel.
 
-(8)[^13] Az a kötelezett, amelynek az engedélyét a Kormányhivatal a (6) bekezdés b) pontja alapján visszavonta, az engedély visszavonásának napjától számított egy éven belül nem kaphat engedélyt.
+(8)[^15] Az a kötelezett, amelynek az engedélyét a Kormányhivatal a (6) bekezdés b) pontja alapján visszavonta, az engedély visszavonásának napjától számított egy éven belül nem kaphat engedélyt.
 
 [^4]: A 3. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -34,7 +34,9 @@ b) az e rendelet alapján ellenőrzésre jogosult hatóságok megállapítása s
 [^7]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § b) pontja szerint módosított szöveg.
 [^8]: A 3. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 7. §-a iktatta be.
 [^9]: A 3. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
-[^10]: A 3. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § d) pontja szerint módosított szöveg.
-[^11]: A 3. § (6) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
-[^12]: A 3. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
-[^13]: A 3. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
+[^10]: A 3. § (3) bekezdés b) pontja a 457/2018. (XII. 28.) Korm. rendelet 162. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: A 3. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § d) pontja szerint módosított szöveg.
+[^12]: A 3. § (5) bekezdése a 457/2018. (XII. 28.) Korm. rendelet 162. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: A 3. § (6) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
+[^14]: A 3. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
+[^15]: A 3. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.

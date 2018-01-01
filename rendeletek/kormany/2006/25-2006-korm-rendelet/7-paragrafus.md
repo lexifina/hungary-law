@@ -1,6 +1,6 @@
-7. §[^24] (1)[^25] A fogyasztóvédelemért felelős miniszter piacfelügyeleti monitoring rendszert üzemeltet a forgalomba hozott, az 1. számú mellékletben felsorolt kategóriákba tartozó, VOC-tartalmú termékek 2. számú mellékletben meghatározott követelményeknek való megfelelőségének ellenőrzésére. A piacfelügyeleti ellenőrzést a fogyasztóvédelmi hatóság végzi.
+7. §[^25] (1)[^26] A fogyasztóvédelemért felelős miniszter piacfelügyeleti monitoring rendszert üzemeltet a forgalomba hozott, az 1. számú mellékletben felsorolt kategóriákba tartozó, VOC-tartalmú termékek 2. számú mellékletben meghatározott követelményeknek való megfelelőségének ellenőrzésére. A piacfelügyeleti ellenőrzést a fogyasztóvédelmi hatóság végzi.
 
-(2)[^26] A monitoring rendszer keretében végzett piac-felügyeleti ellenőrzés során a fogyasztóvédelmi hatóság jogosult:
+(2)[^27] A monitoring rendszer keretében végzett piac-felügyeleti ellenőrzés során a fogyasztóvédelmi hatóság jogosult:
 
 a) a termék 4. § (2) bekezdésében meghatározott tartalmú címkéje meglétének és tartalmának ellenőrzésére,
 
@@ -8,9 +8,9 @@ b) a termékből mintavételre és a címkén feltüntetett VOC-tartalomnak mér
 
 (3) A kötelezett az ellenőrző hatóságok kérésére a címkén a VOC-tartalomra vonatkozóan feltüntetett értékeket megalapozó dokumentumokat vagy azok másolatát, továbbá a nyilvántartásba vétel dokumentumait köteles bemutatni.
 
-(4)[^27] Az ellenőrző hatóság a monitoring rendszerben végzett piacfelügyeleti ellenőrzés és az Európai Bizottság felé történő jelentéstétel tekintetében a fogyasztóvédelmi hatóság, az e rendelet szerinti engedélyköteles tevékenység tekintetében a Kormányhivatal, illetve az közlekedésért felelős miniszter.
+(4)[^28] Az ellenőrző hatóság a monitoring rendszerben végzett piacfelügyeleti ellenőrzés és az Európai Bizottság felé történő jelentéstétel tekintetében a fogyasztóvédelmi hatóság, az e rendelet szerinti engedélyköteles tevékenység tekintetében a Kormányhivatal, illetve az közlekedésért felelős miniszter.
 
-[^24]: A 7. § a rendelet 9. § (3) bekezdése alapján 2007. január 1. napján lépett hatályba.
-[^25]: A 7. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § h) pontja szerint módosított szöveg.
-[^26]: A 7. § (2) bekezdés nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 144. §-a szerint módosított szöveg.
-[^27]: A 7. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 450. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 144. §-a, a 379/2016. (XII. 2.) Korm. rendelet 72. § c) és i) pontja szerint módosított szöveg.
+[^25]: A 7. § a rendelet 9. § (3) bekezdése alapján 2007. január 1. napján lépett hatályba.
+[^26]: A 7. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § h) pontja szerint módosított szöveg.
+[^27]: A 7. § (2) bekezdés nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 144. §-a szerint módosított szöveg.
+[^28]: A 7. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 450. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 144. §-a, a 379/2016. (XII. 2.) Korm. rendelet 72. § c) és i) pontja szerint módosított szöveg.
