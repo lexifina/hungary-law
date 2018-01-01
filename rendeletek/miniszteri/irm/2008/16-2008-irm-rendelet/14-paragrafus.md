@@ -1,6 +1,6 @@
 ## 13. § Ez a rendelet 2008. szeptember 1-jén lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
-14. §[^11]
+14. §[^9]
 
 Melléklet a 16/2008. (VIII. 1.) IRM rendelethez
 
@@ -54,4 +54,4 @@ No.:
 
 Seal/stamp: Signature:
 
-[^11]: A 14. § ugyanezen § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 14. § ugyanezen § (2) bekezdése alapján hatályát vesztette.

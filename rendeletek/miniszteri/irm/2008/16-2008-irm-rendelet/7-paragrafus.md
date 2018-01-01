@@ -1,3 +1,5 @@
-## 6. § A tanúsítvány kiállításáért a minisztert megillető illetéket az illetékekről szóló törvényben, a Magyar Országos Közjegyzői Kamarát (a továbbiakban: Kamara) megillető igazgatási szolgáltatási díjat (a továbbiakban: díj) pedig e rendeletben meghatározott módon kell megfizetni.
+## 2–6. §[^2]
 
 ## A tanúsítvány kiállítása
+
+[^2]: A 2–6. §-t a 25/2017. (XII. 22.) IM rendelet 9. § a) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-## 12. §[^10] A tanúsítványt kiállító szerv – amennyiben az nem áll rendelkezésére – beszerzi a tanúsítvány kiállításához szükséges aláírások és bélyegzőlenyomatok mintáját, amelyet a megkeresett szerv vagy személy nyolc napon belül köteles megküldeni. Az aláírásmintát és a bélyegzőlenyomatot – külön megkeresés nélkül – akkor is meg kell küldeni a tanúsítványt kiállító szerv részére, ha az aláíró személyében vagy a bélyegzőlenyomatban változás következik be.
+## 12. §[^8]
 
-[^10]: A 12. § a 17/2010. (XII. 17.) KIM rendelet 2. § (10) bekezdése szerint módosított szöveg. E módosító rendelet 4. §-a alapján a 2011. január 1-jét követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^8]: A 12. §-t a 25/2017. (XII. 22.) IM rendelet 9. § d) pontja hatályon kívül helyezte.
