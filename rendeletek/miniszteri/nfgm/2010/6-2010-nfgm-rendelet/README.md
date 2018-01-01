@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-6-20-2K
 | 2011-09-29 | 2010-6-20-2K.2 | 35/2011. (IX. 14.) NGM rendelet |
 | 2013-11-05 | 2010-6-20-2K.3 | 61/2013. (X. 28.) BM rendelet |
 | 2017-01-01 | 2010-6-20-2K.4 | 62/2016. (XII. 29.) NGM rendelet |
+| 2018-01-01 | 2010-6-20-2K.5 | 51/2017. (XII. 29.) NGM rendelet |
