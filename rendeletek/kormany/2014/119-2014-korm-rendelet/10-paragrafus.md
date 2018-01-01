@@ -1,4 +1,4 @@
-10. §[^4] (1) A használati szerződés megkötése esetén fizetendő használati díjat a főigazgató – a (3)–(5) bekezdésben foglaltak kivételével – az 1. melléklet szerint állapítja meg.
+10. §[^5] (1) A használati szerződés megkötése esetén fizetendő használati díjat a főigazgató – a (3)–(5) bekezdésben foglaltak kivételével – az 1. melléklet szerint állapítja meg.
 
 (2) A használati díjat a használati szerződésben meghatározott módon a tárgyidőszakra előre kell megfizetni.
 
@@ -18,4 +18,4 @@ b) az Igazságügyi Minisztérium, a Miniszterelnökség, a Néprajzi Múzeum, a
 
 (5) A főigazgató a kiemelt nemzeti emlékhely területi sajátosságaira figyelemmel a (3) és (4) bekezdésben nem szabályozott esetekben legfeljebb 50%-kal csökkentett mértékű használati díjat állapíthat meg.
 
-[^4]: A 10. § a 447/2016. (XII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: A 10. § a 447/2016. (XII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.

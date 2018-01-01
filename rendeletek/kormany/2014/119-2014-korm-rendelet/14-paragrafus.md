@@ -1,6 +1,6 @@
-## 13/D. §[^8] A vagyonkezelői behajtási, illetve behajtási és várakozási hozzájárulás kiadására az e rendeletben meghatározott használati szerződésre vonatkozó szabályokat kell alkalmazni.
+## 13/D. §[^9] A vagyonkezelői behajtási, illetve behajtási és várakozási hozzájárulás kiadására az e rendeletben meghatározott használati szerződésre vonatkozó szabályokat kell alkalmazni.
 
-14. §[^9] (1) A kiemelt nemzeti emlékhely területére – a (2)–(5) bekezdésben foglalt kivétellel – állatot beengedni vagy bevinni tilos.
+14. §[^10] (1) A kiemelt nemzeti emlékhely területére – a (2)–(5) bekezdésben foglalt kivétellel – állatot beengedni vagy bevinni tilos.
 
 (2) A kiemelt nemzeti emlékhely területére az Országos Mentőszolgálat, a Magyar Honvédség, a rendvédelmi szervek és a Katonai Nemzetbiztonsági Szolgálat, a Nemzeti Adó- és Vámhivatal és a közfeladatokat ellátó őrszolgálatok feladatainak ellátását szolgáló állat beengedhető vagy bevihető.
 
@@ -16,5 +16,5 @@ b) használati szerződésben foglaltak szerint
 
 (5) A vagyonkezelő meghatározza, hogy segítő kutyának nem minősülő kutya a kiemelt nemzeti emlékhely mely területére engedhető be vagy vihető be, ezt a honlapján közzéteszi, valamint a kiemelt nemzeti emlékhely területén jól látható módon jelzi.
 
-[^8]: A 13/D. §-t a 447/2016. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
-[^9]: A 14. § a 447/2016. (XII. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^9]: A 13/D. §-t a 447/2016. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^10]: A 14. § a 447/2016. (XII. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
