@@ -8,9 +8,13 @@
 
 a) az országos közutat vagy több önkormányzat közigazgatási területén helyi közutat érintő közlekedés esetén a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MK NZrt.),
 
-b) kizárólag helyi közutat érintő közlekedés esetén a közút kezelője,
+b)[^18] kizárólag helyi közutat érintő közlekedés esetén
 
-c) a Katonai Nemzetbiztonsági Szolgálat, valamint a Magyar Honvédség (a továbbiakban: honvédség) által üzemben tartott, továbbá a honvédség érdekében más üzembentartó által üzemben tartott járművek közlekedése esetén a meghatározott össztömeget, tengelyterhelést és méretet meghaladó honvédségi járművek közúti közlekedéséről szóló miniszteri rendelet által meghatározott szerv
+ba) a főváros közigazgatási területén a Budapest Közút Zártkörűen Működő Részvénytársaság (a továbbiakban: BK Zrt.),
+
+bb) egyéb esetekben a közút kezelője,
+
+c)[^19] a Katonai Nemzetbiztonsági Szolgálat, valamint a Magyar Honvédség (a továbbiakban: Honvédség) által üzemben tartott, továbbá a Honvédség érdekében más üzembentartó által üzemben tartott, illetve külföldi fegyveres erők által üzemben tartott járművek közlekedése esetén a meghatározott össztömeget, tengelyterhelést és méretet meghaladó honvédségi járművek közúti közlekedéséről szóló miniszteri rendelet által meghatározott szerv
 
 ## jogosult.
 
@@ -24,7 +28,9 @@ b) egyedi elbírálás alapján megadott hozzájárulás esetén előzetesen meg
 
 (4) A hozzájárulás iránti kérelem benyújtásakor a hozzájárulást kérelmező eljárási díjat köteles megfizetni a közútkezelő részére.
 
-(5) Az eljárási díj mértékét az 1. melléklet tartalmazza.
+(4a)[^20] Az (1) bekezdés szerinti kérelem egy jármű vagy járműszerelvény egy útvonalán egyszeri utazásra nyújtható be, amely tartalmazhat a kiinduló cím és a célcím között más címet is, de a túlsúlyos, illetve túlméretes közlekedésre vonatkozó adatokban változást nem tartalmazhat. Amennyiben az útvonalon akár a túlméret, akár a túlsúly növekedését okozó változás áll be, a megváltozott túlméret vagy túlsúly tekintetében különálló kérelmet kell benyújtani.
+
+(5)[^21] Az eljárási díj mértékét az 1. mellékletben foglaltak szerint kell megállapítani.
 
 (6) A hozzájárulás iránti kérelmet
 
@@ -35,3 +41,8 @@ aa) személyesen történő ügyintézés esetén az MK NZrt. által készített
 ab) az MK NZrt. honlapján keresztül elektronikus úton,
 
 b) egyéb esetben a hozzájárulást megadó szerv által meghatározottak szerint
+
+[^18]: A 8. § (1) bekezdés b) pontja az 56/2017. (XII. 27.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^19]: A 8. § (1) bekezdés c) pontja az 56/2017. (XII. 27.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^20]: A 8. § (4a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 6. § (2) bekezdése iktatta be.
+[^21]: A 8. § (5) bekezdése az 56/2017. (XII. 27.) NFM rendelet 6. § (3) bekezdésével megállapított szöveg.

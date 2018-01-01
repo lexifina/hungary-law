@@ -1,4 +1,4 @@
-2. § (1) E rendelet alkalmazásában túlsúlyos, illetve túlméretes járműnek minősül az a jármű vagy járműszerelvény, amely
+2. § (1)[^2] E rendelet alkalmazásában túlsúlyos járműnek minősül az a jármű vagy járműszerelvény, amely
 
 a) össztömeg vonatkozásában
 
@@ -18,9 +18,9 @@ b) tengelyterhelés vonatkozásában
 
 ba) a jármű bármely tengelye, valamint
 
-bb) azon két tengelyből álló tengelycsoport esetén, ahol a szomszédos tengelyek egymástól mért távolsága kisebb, mint 1,00 méter,
+bb) két tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága kisebb, mint 1,00 méter,
 
-## a 11,5 tonnát,
+a 11,5 tonnát,
 
 c) tengelycsoport-terhelés vonatkozásában
 
@@ -30,27 +30,31 @@ cb) két tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek e
 
 cc) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága 1,30 méternél kisebb, a 22,0 tonnát,
 
-cd) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága legalább 1,30 méter, de 1,80 méternél kisebb, a 24,0 tonnát,
+cd) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága legalább 1,30 méter, de 1,80 méternél kisebb, a 24,0 tonnát, valamint
 
-d) méret vonatkozásában
+ce) háromnál több, páratlan számú tengelyből álló tengelycsoportban elhelyezkedő, a (4) bekezdés b) pontja szerint képzett, három tengelyből álló tengelycsoport esetén 28,5 tonnát
 
-da) a 4,00 méter magasságot,
+meghaladja.
 
-db) a 2,6 méter szélességet,
+(1a)[^3] E rendelet alkalmazásában túlméretes járműnek minősül az a jármű, vagy járműszerelvény, amely mérete vonatkozásában:
 
-dc) szóló jármű esetén a 12,0 méter hosszúságot, a c) pont cd) alpontja kivételével,
+a) a 4,00 méter magasságot,
 
-dd) a df) alpontba nem tartozó autóbusz esetén a 15,0 méter hosszúságot,
+b) a 2,6 méter szélességet,
 
-de) nyergesvontatóból és félpótkocsiból álló járműszerelvény esetén a 16,50 méter hosszúságot,
+c) szóló jármű esetén a 12,0 méter hosszúságot, a d) alpont kivételével,
 
-df) a de) alpontba nem tartozó járműszerelvény vagy csuklós autóbusz esetén a 18,75 méter hosszúságot
+d) az f) alpontba nem tartozó autóbusz esetén a 15,0 méter hosszúságot,
 
-## meghaladja.
+e) nyergesvontatóból és félpótkocsiból álló járműszerelvény esetén a 16,50 méter hosszúságot, valamint
+
+f) az e) alpontba nem tartozó járműszerelvény vagy csuklós autóbusz esetén a 18,75 méter hosszúságot
+
+meghaladja.
 
 (2) A megengedett legnagyobb tengelyterhelést meghaladó járműnek minősül a jármű abban az esetben is, ha a tengelycsoportba tartozó bármely tengely terhelése meghaladja a 11,5 tonnát.
 
-(3) A jármű az eltérés mértéke szerint lehet
+(3)[^4] A jármű az eltérés mértéke szerint lehet
 
 a) kis mértékben
 
@@ -64,9 +68,9 @@ c) rendkívüli mértékben,
 
 ca) ha az eltérés 20% vagy annál nagyobb és 30%-nál kisebb,
 
-cb) ha az eltérés 30% vagy annál nagyobb és 40%-nál kisebb,
+cb) ha az eltérés 30% vagy annál nagyobb és 50%-nál kisebb,
 
-d) különösen nagy mértékben – ha az eltérés 40% vagy annál nagyobb –
+d) különösen nagy mértékben – ha az eltérés 50% vagy annál nagyobb –
 
 ## túlsúlyos, illetve túlméretes jármű.
 
@@ -79,3 +83,7 @@ b) páratlan számú tengelyből álló tengelycsoport esetén pedig a tengelycs
 ## kell képezni.
 
 (5) Az (1) és a (4) bekezdésben foglaltak alkalmazásakor a járműnek kizárólag azt a tengelyét kell tengelyként számításba venni, amelynek kerekei a mérés időpontjában az úttesttel érintkeznek.
+
+[^2]: A 2. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 2. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.

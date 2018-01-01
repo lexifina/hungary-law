@@ -14,6 +14,8 @@
 
 | 6. | Egyedi elbírálás alapján megadott hozzájárulás esetében a 4. sorban szereplő össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések esetén vagy afölött | 30 000 |
 
+| 7. | Az úthálózat-hozzáférési hozzájárulás esetében | 45 000 |
+
 2. melléklet a 36/2017. (IX. 18.) NFM rendelethez
 
 ## A túlsúlydíj mértéke az egyedi elbírálás alapján kiadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek, valamint az egyszerűsített eljárás keretében megadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek esetén

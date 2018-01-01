@@ -16,7 +16,7 @@ e) a nemzetközi szerződés és viszonosság körébe tartozó jármű,
 
 f) a közút kezelését végző társaság vagy a közútkezelővel szerződésben lévő vállalkozó által üzemben tartott, kezelői feladatokat ellátó jármű,
 
-g)[^4] a közlekedési közszolgáltatást végző jármű,
+g)[^31] a közlekedési közszolgáltatást végző jármű,
 
 h) a mezőgazdasági jármű a szélességi méretére vonatkozóan
 
@@ -60,4 +60,4 @@ jc) öt- vagy ennél több tengelyes jármű esetén a jármű össztömege a 40
 
 (7) Az e §-ban meghatározott mentesség kizárólag a megjelölt célból történő közlekedésre jogosít.
 
-[^4]: A 14. § (1) bekezdés g) pontja a 28. § (2) bekezdésével megállapított szöveg.
+[^31]: A 14. § (1) bekezdés g) pontja a 28. § (2) bekezdésével megállapított szöveg.

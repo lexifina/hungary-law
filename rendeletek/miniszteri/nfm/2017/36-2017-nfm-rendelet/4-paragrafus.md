@@ -1,16 +1,16 @@
-## vagy annál nagyobb az eltérés mértéke.
+## eléri vagy meghaladja.
 
-4. § (1) A hozzájárulás kiadására jogosult közútkezelő a hozzájárulásban a jármű üzembentartója részére meghatározza
+4. § (1)[^7] A hozzájárulás kiadására jogosult közútkezelő a hozzájárulásban a hozzájárulást kérelmező részére a kérelmező által megjelölt jármű vonatkozásában meghatározza
 
 a) azt az útvonalat, amelyen a túlsúlyos, illetve túlméretes jármű közlekedhet,
 
 b) azokat a feltételeket, amelyek a túlsúlyos, illetve túlméretes jármű közlekedése során biztosítják a közút és tartozékainak védelmét, valamint a közúti közlekedés biztonságának megóvását, és
 
-c) a túlsúlyos, illetve túlméretes járművön a hozzájárulás időbeli hatálya alatt alkalmazható tengelykiosztást.
+c) a túlsúlyos járművön a hozzájárulás időbeli hatálya alatt alkalmazható tengelykiosztást.
 
 (2) A hozzájárulás egy útra (a továbbiakban: eseti hozzájárulás) vagy határozott időre szól.
 
-(3) Az eseti hozzájárulás a kérelmező által megjelölt napon és további két napon – összesen három egymást követő naptári napon – hatályos, és az abban megjelölt útvonalon történő egyszeri közlekedésre jogosít.
+(3)[^8] Az eseti hozzájárulás a kérelmező által megjelölt napon és további három napon – összesen négy egymást követő naptári napon – hatályos, és az abban megjelölt útvonalon történő egyszeri közlekedésre jogosít.
 
 (4) A határozott időre szóló hozzájárulás lehet
 
@@ -28,10 +28,20 @@ f) éves hozzájárulás: a hozzájárulást kérelmező által megjelölt kezd�
 
 (5) A (4) bekezdés c)–f) pontja szerinti hozzájárulás a megjelölt időtartam végén, a kezdőnapnak megfelelő számú napon 24 órakor jár le. Ha ez a nap hiányzik a lejárat hónapjában, a hozzájárulás e hónap utolsó napján 24 órakor jár le.
 
-(6) A határozott időre szóló hozzájárulás korlátlan számú közlekedésre jogosít fel
+(6)[^9] A határozott időre szóló hozzájárulás korlátlan számú közlekedésre jogosít fel, az abban szereplő útvonalon vagy közúthálózaton a hozzájárulásban megjelölt járművel, a hozzájárulásban meghatározott túlsúly-, vagy túlméretnél nem nagyobb eltéréssel.
 
-a) túlsúlyos járművel a hozzájárulásban megjelölt útvonalon,
+(7)[^10] Az egyszerűsített eljárás keretében határozott időre megadott hozzájárulás vonatkozhat kijelölt útvonalra vagy a közúthálózatra.
 
-b) legfeljebb kis mértékben magas vagy nagy mértékben széles, illetve hosszú túlméretes járművel a közúthálózaton, kivéve a magassági, szélességi és hosszúsági korlátozásokat elrendelő jelzőtáblákkal korlátozott útszakaszokon.
+(8)[^11] A kijelölt útvonalra vonatkozó hozzájárulás a hozzájárulásban megjelölt útvonalon, a közúthálózatra szóló hozzájárulás – közútkezelő által közúti jelzőtáblával elrendelt korlátozásokkal érintett útszakaszt ide nem értve – a közúthálózat egészén történő közlekedésre jogosít a hozzájárulásban megadott járművel, a túlsúlyos, illetve túlméretes közlekedésre vonatkozóan megadott paramétereknél nem nagyobb paraméterek esetén.
 
-(7) A (2) bekezdés szerint kiadott hozzájárulásban, egy vontatóból és egy pótkocsiból vagy egy nyergesvontatóból és félpótkocsiból álló járműszerelvény esetén, egy vontató vagy nyergesvontató és legfeljebb öt pótkocsi vagy félpótkocsi szerepelhet.
+(9)[^12] A (2) bekezdés szerint kiadott hozzájárulásban, egy vontatóból és egy pótkocsiból, vagy egy nyergesvontatóból és félpótkocsiból álló járműszerelvény esetén, egy vontató vagy nyergesvontató és legfeljebb öt pótkocsi vagy félpótkocsi szerepelhet.
+
+(10)[^13] A határozott időre szóló hozzájárulás túlméretes jármű esetében 16. § (1a) bekezdésben meghatározott méretekig, össztömeg túlsúlyos esetében 50%-nál, tengelytúllépés esetén a 10%-nál, tengelycsoport terhelés esetén 30%-nál nem nagyobb túllépés esetén adható ki.
+
+[^7]: A 4. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: A 4. § (6) bekezdése az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^10]: A 4. § (7) bekezdése az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^11]: A 4. § (8) bekezdését az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdése iktatta be.
+[^12]: A 4. § (9) bekezdését az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdése iktatta be.
+[^13]: A 4. § (10) bekezdését az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdése iktatta be.

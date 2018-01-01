@@ -2,24 +2,20 @@
 
 ## 7. Egyedi elbírálás alapján megadott hozzájárulás
 
-18. § (1) Egyedi elbírálás alapján megadott hozzájárulás a 16. § (2) bekezdés a) pont aa), ab), ac) és ad) alpontjában meghatározott helyeken igényelhető.
+18. § (1)[^41] Egyedi elbírálás alapján megadott hozzájárulás a 16. § (2) bekezdés a) pont aa), ab), ac), ad) alpontjában és b) pontjában meghatározott helyeken igényelhető.
 
-(2) Az egyedi elbírálás alapján megadott hozzájárulás kiadásának határideje az előírt paraméterektől
+(2)[^42] Az egyedi elbírálás alapján megadott hozzájárulás kiadásának határideje az előírt paraméterektől
 
-a) nagy mértékben eltérő jármű esetén 5 nap,
+a) rendkívüli mértékben eltérő jármű esetén 5 nap és
 
-b) rendkívüli mértékben eltérő jármű esetén 10 nap, és
+b) különösen nagy mértékben eltérő jármű esetén 10 nap.
 
-c) különösen nagy mértékben eltérő jármű esetén 15 nap.
-
-(3) A legfeljebb
-
-a) a tengelyterhelés vagy tengelycsoport-terhelés vonatkozásában kis mértékben túlsúlyos vagy
-
-b) az össztömeg vonatkozásában rendkívüli mértékben túlsúlyos
-
-## járművek esetében a hozzájárulás azonnali megadással is kérhető, amelyet 6 órán belül ki kell adni. Az azonnali díj mértéke megegyezik az eljárási díj négyszeresével.
+(3)[^43] A tengelyterhelés vagy tengelycsoport-terhelés vonatkozásában kis mértékben túlsúlyos vagy az össztömeg vonatkozásában legfeljebb rendkívüli mértékben túlsúlyos azon járműveknél, amelyek esetében a hozzájárulás egyszerűsített eljárásban is megadható, a hozzájárulás azonnali megadással is kérhető, amelyet a hozzájárulást megadó szerv 6 órán belül köteles kiadni. Az azonnali díj mértéke megegyezik az eljárási díj kétszeresével. Jelen bekezdésben foglalt határidő elmulasztása esetén az eljárási díj fele visszajár a hozzájárulást kérelmezőnek.
 
 (4) Ha az azonnali megadással kért hozzájárulás 6 órán belül nem adható meg, a hozzájárulást megadó szerv a kérelmezőt erről haladéktalanul tájékoztatja, és részére a díjat visszafizeti.
 
 (5) Ha a túlsúlyos, illetve túlméretes jármű valamely paramétere a 2. § (1) bekezdésében meghatározott paraméterektől legalább 50%-ban eltér, a hozzájárulást megadó szerv a hozzájárulás kiadásának határidejét 10 nappal meghosszabbíthatja.
+
+[^41]: A 18. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 20. § f) pontja szerint módosított szöveg.
+[^42]: A 18. § (2) bekezdése az 56/2017. (XII. 27.) NFM rendelet 12. §-ával megállapított szöveg.
+[^43]: A 18. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 12. §-ával megállapított szöveg.

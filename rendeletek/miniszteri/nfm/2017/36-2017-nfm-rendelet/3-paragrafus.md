@@ -6,14 +6,23 @@ a) egyszerűsített eljárás keretében vagy
 
 b) egyedi elbírálás alapján.
 
-(3) Egyedi elbírálás alapján kell a hozzájárulásról dönteni, ha a megengedetthez képest
+(3)[^5] Egyedi elbírálás alapján kell a hozzájárulásról dönteni, ha a jármű vagy járműszerelvény túlsúlyos és a megengedetthez képest
 
 a) az össztömeg vonatkozásában 20%,
 
-b) a tengelyterhelés és a tengelycsoport-terhelés vonatkozásában 5%, a 15. § (1) bekezdés d) és e) pontjában és a 15. § (2) bekezdésében foglalt kivétellel,
+b) a tengelyterhelés vonatkozásában – a 15. § (1) és (2) bekezdésében foglalt kivétellel – 5%,
 
-c) a magasság vonatkozásában 10%,
+c) a tengelycsoport terhelés vonatkozásában a 15. § (1) és (2) bekezdésében foglalt kivétellel 20%,
 
-d) a szélesség vonatkozásában 20%,
+## vagy annál nagyobb az eltérés mértéke.
 
-e) a hosszúság vonatkozásában 20%
+(4)[^6] Egyedi elbírálás alapján kell a hozzájárulásról dönteni, ha a jármű vagy járműszerelvény túlméretes és a mérete
+
+a) a magasság vonatkozásában a – 16. § (1a) bekezdés a) pontjában foglalt kivétellel – 4,30 métert,
+
+b) a szélesség vonatkozásában a – 16. § (1a) bekezdés b) pontjában foglalt kivétellel – 3,20 métert,
+
+c) a hosszúság vonatkozásában járműszerelvény esetén a – 16. § (1a) bekezdés c) pontjában foglalt kivétellel – 22,50 métert – egyéb esetekben a megengedetthez képest a 120%-ot –
+
+[^5]: A 3. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § (4) bekezdését az 56/2017. (XII. 27.) NFM rendelet 2. §-a iktatta be.
