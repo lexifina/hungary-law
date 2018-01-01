@@ -1,5 +1,3 @@
-## 7. §[^1]
-
 1. melléklet a 369/2017. (XII. 7.) Korm. rendelethez
 
 ## A Beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
@@ -41,5 +39,3 @@
 18. azok az 1–17. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek,
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
-
-[^1]: A 7. § az 5. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
