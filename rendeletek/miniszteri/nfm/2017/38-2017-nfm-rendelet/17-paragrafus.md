@@ -1,4 +1,4 @@
-## 14–16. §[^12]
+## 14–16. §[^11]
 
 ## 7. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 4. §, a 6. § és a 13. § 2018. január 1-jén lép hatályba.
 
-[^12]: A 14–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 14–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
