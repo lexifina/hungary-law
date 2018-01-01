@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-153-00-00
 | 2011-07-15 | 2011. évi XCVI. törvény | 2010-153-00-00.5 |
 | 2011-09-02 | 2011. évi XCVI. törvény | 2010-153-00-00.6 |
 | 2011-12-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-153-00-00.7 |
+| 2018-01-01 | 2017. évi XXVIII. törvény | 2010-153-00-00.8 |
