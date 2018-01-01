@@ -1,4 +1,4 @@
-3. § (1) A kifizető, – kifizető hiányában, vagy ha a kifizető az adó (adóelőleg) alapját képező jövedelem után adót (adóelőleget) nem köteles megállapítani – a jövedelmet szerző magánszemély 22 százalékos mértékű egészségügyi hozzájárulást fizet az adóévben kifizetett, juttatott, az Szja tv. szerinti
+3. § (1) A kifizető, – kifizető hiányában, vagy ha a kifizető az adó (adóelőleg) alapját képező jövedelem után adót (adóelőleget) nem köteles megállapítani – a jövedelmet szerző magánszemély 19,5 százalékos mértékű egészségügyi hozzájárulást fizet az adóévben kifizetett, juttatott, az Szja tv. szerinti
 
 a) összevont adóalapba tartozó jövedelemnél az adó (adóelőleg) alap számításánál figyelembe vett jövedelem,
 
@@ -22,7 +22,7 @@ c) osztalék [Szja tv. 66. §], vállalkozói osztalékalap [Szja tv. 49/C. §],
 
 d) árfolyamnyereségből származó jövedelem [Szja tv. 67. §],
 
-e) ingatlan bérbeadásából [Szja tv. 16. § (1) bekezdés] származó egymillió forintot meghaladó jövedelem esetén a teljes összeg
+e)
 
 után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddig, amíg a biztosítási jogviszonyában a Tbj. 19. § (3) bekezdése alapján megfizetett természetbeni és pénzbeli egészségbiztosítási járulék, az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény 9. § (1) bekezdése alapján megfizetett egészségbiztosítási járulék, a Tbj. 36–37. §-a és 39. § (2) bekezdése alapján megfizetett egészségügyi szolgáltatási járulék (a továbbiakban együtt: egészségbiztosítási járulék), valamint az a)–e) pontban meghatározott jövedelmek után megfizetett százalékos mértékű egészségügyi hozzájárulás együttes összege a tárgyévben el nem éri a négyszázötvenezer forintot (a továbbiakban: hozzájárulás-fizetési felső határ).
 

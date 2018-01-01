@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-66-00-00
 | 2017-07-01 | 2017. évi LXXVII. törvény | 1998-66-00-00.36 |
 | 2017-07-19 | 2017. évi LXXVII. törvény | 1998-66-00-00.37 |
 | 2017-11-28 | 2017. évi CXLVI. törvény | 1998-66-00-00.38 |
+| 2018-01-01 | 2017. évi CLIX. törvény | 1998-66-00-00.39 |
