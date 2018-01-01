@@ -1,4 +1,4 @@
-## 10. [^84] A működési engedély
+## 10. [^88] A működési engedély
 
 23. § (1) A működési engedély tartalmazza
 
@@ -12,4 +12,4 @@ d) a működési jogosultság időbeli hatályát.
 
 (2) A víziközmű-szolgáltató Hivatal által jóváhagyott üzemeltetési szerződése a működési engedély mellékletét képezi.
 
-[^84]: A 10. alcím (23. §) a 342/2016. (XI. 17.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^88]: A 10. alcím (23. §) a 342/2016. (XI. 17.) Korm. rendelet 9. §-ával megállapított szöveg.

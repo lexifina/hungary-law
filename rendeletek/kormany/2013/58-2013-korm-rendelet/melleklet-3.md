@@ -74,7 +74,7 @@
 
 ## 1. ha cégjogi változás van folyamatban, a változás alapjául szolgáló okiratot és elektronikus igazolást,
 
-## 2. a Vksztv. 1. §-ában meghatározott alapelvek érvényesülését biztosító megtett és tervezett intézkedéseket alátámasztó dokumentumokat,
+## 2.
 
 ## 3. a víziközmű-szolgáltatás nyújtásához rendelkezésre álló műszaki és tárgyi eszközök bemutatását, azok avultságát jellemző paramétereket,
 
@@ -88,13 +88,13 @@
 
 ## 8. a másodlagos tevékenységek leírását, felsorolását és bemutatását,
 
-## 9. az auditált éves beszámolót, a tárgyévre készített üzleti jelentéssel és könyvvizsgálói jelentéssel együtt,
+## 9.
 
 ## 10. az alkalmazott minőségbiztosítási rendszer bemutatását és a megfelelőség igazolását,
 
 ## 11. számviteli politikát, amely tartalmazza azt a számviteli szétválasztási szabályzatot, ami biztosítja a víziközmű-szolgáltató üzletágai közötti keresztfinanszírozás-mentességet, továbbá a másodlagos tevékenységek elkülönített nyilvántartását,
 
-## 12. az akkreditáló szerv által általános kémiai és részletes bakteriológiai vizsgálatok elvégzésére akkreditált laboratóriummal rendelkező víziközmű-szolgáltató esetében az akkreditálási okirat másolatát vagy ilyen laboratóriummal kötött szerződés bemutatását,
+## 12.
 
 ## 13. a feladatellátás egyes résztevékenységeihez szükséges műszaki eszközök rendelkezésére állását, azok avultságát jellemző paramétereket,
 
@@ -206,7 +206,7 @@
 
 ## 9. a víziközmű-szolgáltatási tevékenységen kívüli tervezett vállalkozási tevékenység(ek) bemutatását,
 
-## 10. az akkreditáló szerv által általános kémiai és részletes bakteriológiai vizsgálatok elvégzésére akkreditált laboratóriummal rendelkező víziközmű-szolgáltató esetében az akkreditálási okirat másolatát vagy ilyen laboratóriummal kötött szerződés bemutatását,
+## 10.
 
 ## 11. a feladatellátás egyes résztevékenységeihez szükséges műszaki eszközök rendelkezésére állását, azok avultságát jellemző paramétereket,
 
@@ -224,14 +224,14 @@
 
 ## 18. a megfelelő létszámú és szakképzettségű személyzet rendelkezésre állásának bemutatását,
 
-## 19. a víziközmű-üzemeltetési jogviszony létrejöttét megalapozó szerződést (vagyonkezelési, koncessziós vagy bérleti-üzemeltetési) vagy annak hiteles másolatát,
+## 19.
 
 ## 20. a vagyonértékelés eredményét,
 
 ## 21. annak bemutatását, hogy a működési engedély kiadása esetében mely víziközmű-üzemeltetési tevékenységet vagy tevékenységeket kívánja kiszervezés keretében ellátni, 43. § (2) bekezdésében foglalt kérelem tartalmi elemeivel együtt,
 
-## 22. a Vksztv. 5/G. § szerinti megállapodást, amennyiben az korábban nem került benyújtásra.
+## 22.
 
-3. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^313]
+3. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^321]
 
-[^313]: A 3. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (3) bekezdésével megállapított szöveg.
+[^321]: A 3. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 437. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

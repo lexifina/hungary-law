@@ -18,7 +18,7 @@
 
 ## e) nem rendelkezik a Hivatal és az ellátásért felelőssel szemben 120 napnál régebben lejárt tartozással,
 
-## f) rendelkezik a tevékenység gyakorlásához szükséges, más jogszabályokban meghatározott jogerős hatósági engedélyekkel,
+## f) rendelkezik a tevékenység gyakorlásához szükséges, más jogszabályokban meghatározott végleges hatósági engedélyekkel,
 
 ## g) közérdekű üzemeltetőként történő kijelölését vállalja/nem vállalja,
 
@@ -34,6 +34,6 @@
 
 ## az aláíró személy(ek) nevét, cég esetében cégszerű aláírás]
 
-4. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^314]
+4. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^322]
 
-[^314]: A 4. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (4) bekezdésével megállapított szöveg.
+[^322]: A 4. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (4) bekezdésével megállapított szöveg.

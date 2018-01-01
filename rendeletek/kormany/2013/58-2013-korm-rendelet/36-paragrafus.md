@@ -1,3 +1,3 @@
-## 35. §[^95]
+## 35. §[^101]
 
-[^95]: A 35. §-t a 342/2016. (XI. 17.) Korm. rendelet 40. § f) pontja hatályon kívül helyezte.
+[^101]: A 35. §-t a 342/2016. (XI. 17.) Korm. rendelet 40. § f) pontja hatályon kívül helyezte.

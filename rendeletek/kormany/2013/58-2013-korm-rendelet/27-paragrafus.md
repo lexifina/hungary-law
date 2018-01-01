@@ -2,4 +2,6 @@
 
 (2) A kérelmező a víziközmű-szolgáltatói és működési engedély iránti kérelemhez mellékeli a 3. melléklet szerinti nyilatkozatot.
 
-(3) A kérelmet és mellékleteit papír alapon, cégszerűen aláírva és tartós adathordozón is meg kell küldeni a Hivatalnak.
+(3)[^91] A kérelmet és mellékleteit írásban és tartós adathordozón is meg kell küldeni a Hivatalnak.
+
+[^91]: A 27. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 437. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
