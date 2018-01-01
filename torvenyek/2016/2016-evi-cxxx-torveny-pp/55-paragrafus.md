@@ -1,0 +1,5 @@
+### 55. § [Pénzbírság alkalmazása személyváltozás késedelmes kezdeményezése esetén]
+
+(1) Ha az 52. § (2) bekezdés b) pontja szerinti perbelépésre vagy az 53. § b) pontja szerinti perbevonásra a perfelvételt lezáró végzés meghozatalát követően kerül sor, a perbe belépőnek, vagy a perbevonást kezdeményezőnek valószínűsítenie kell, hogy a perbelépés, perbevonás szükségességéről, illetve a perről csak a perfelvételt lezáró végzés meghozatalát követően értesült, ellenkező esetben a bíróság pénzbírsággal sújtja.
+
+(2) Ha a 49–51. §, az 52. § (2) bekezdés a) pontja, illetve az 53. § a) pontja szerinti esetekben a perfelvételi tárgyalást, illetve a perfelvételt lezáró végzés meghozatalát – kizárólag a perbeállítás kezdeményezése, a perbevonás vagy perbelépés miatt – kell elhalasztani és a rendelkezésre álló adatok alapján megállapítható, hogy a halasztásra a személyváltozást kezdeményező fél, képviselő vagy más perbeli személy indokolatlanul késedelmes nyilatkozata miatt került sor, a bíróság e személyt pénzbírsággal sújtja.

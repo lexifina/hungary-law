@@ -1,0 +1,7 @@
+### 248. § [A beadványok hiányosságai]
+
+(1) A bíróság – a mulasztás következményére történő figyelmeztetés mellett – hiánypótlásra hívja fel a felperest, ha a keresetlevelet nem a jogszabály szerinti nyomtatványon terjeszti elő, illetve a 176. § (1) bekezdés j) vagy k) pontja alapján a keresetlevél visszautasításának lenne helye, kivéve a 247. § (1) bekezdésében meghatározott tartalmi elemek hiányának esetét. Ha a felperes a hiányokat nem pótolta, a bíróság a keresetlevelet visszautasítja; e végzés ellen külön fellebbezésnek van helye.
+
+(2) A bíróság a kereset közlésekor – a mulasztás következményére történő figyelmeztetés mellett – tájékoztatja az alperest, hogy az írásbeli ellenkérelmet, viszontkereset-levelet és beszámítást tartalmazó iratot jogszabály szerinti formanyomtatványon kell előterjeszteni. A bíróság az e bekezdésben meghatározott beadványt visszautasítja, ha azt az alperes nem a jogszabály szerinti formanyomtatványon terjeszti elő; e végzés ellen külön fellebbezésnek van helye.
+
+(3) A bíróság – a mulasztás következményére történő figyelmeztetés mellett – hiánypótlásra hívja fel a felet, ha viszontkereset-levél, illetve beszámítást tartalmazó irat visszautasításának lenne helye a 176. § (1) bekezdés j) vagy k) pontjában foglalt valamely ok fennállása miatt, kivéve a 247. § (1) bekezdésében meghatározott tartalmi elemek hiányát. Ha a fél a hiányokat nem pótolja, a bíróság a viszontkereset-levelet, illetve beszámítást tartalmazó iratot visszautasítja; e végzés ellen külön fellebbezésnek van helye.

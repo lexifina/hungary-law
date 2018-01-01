@@ -1,0 +1,3 @@
+### 403. § [Eljárás a hirdetményi kézbesítés szabályainak megsértése esetén]
+
+A 393. § e) pontjára hivatkozással előterjesztett perújítási kérelmet az elsőfokú bíróság – ha azt hivatalból nem utasította vissza – az iratokkal együtt a perújítás megengedhetősége tárgyában való döntés végett felterjeszti a másodfokú vagy a felülvizsgálati bírósághoz, ha a hirdetményi kézbesítés szabályait a másodfokú vagy a felülvizsgálati eljárásban sértették meg. Ebben az esetben az eljárásnak csak az érvénytelenséggel érintett szakaszát kell megismételni. Egyebekben a másodfokú vagy a felülvizsgálati bíróság a perújításra vonatkozó rendelkezések megfelelő alkalmazásával jár el.

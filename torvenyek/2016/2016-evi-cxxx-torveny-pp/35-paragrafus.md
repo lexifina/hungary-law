@@ -1,0 +1,5 @@
+### 35. § [A perbeli jog- és cselekvőképesség vizsgálata]
+
+(1) A felek perbeli jog- és cselekvőképességét, valamint a törvényes képviselőnek és a támogatónak ezt a minőségét, ha ezek iránt kétség merül fel, a bíróság az eljárás bármely szakaszában hivatalból vizsgálja. A bíróság ugyancsak az eljárás bármely szakaszában hivatalból vizsgálja azt, hogy a törvényes képviselőnek a per viteléhez vagy az egyes perbeli cselekményekhez esetleg szükséges külön felhatalmazása igazolva van-e.
+
+(2) A perbeli jog- és cselekvőképesség, a törvényes képviselet, a támogatói minőség, illetve a felhatalmazás igazolása nem szükséges, ha az köztudomású, vagy ha arról a bíróságnak hivatalos tudomása van.

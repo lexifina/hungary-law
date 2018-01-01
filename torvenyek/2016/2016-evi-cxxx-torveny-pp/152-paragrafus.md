@@ -1,0 +1,3 @@
+### 152. § [Az igazolási kérelem eljárásra gyakorolt hatása]
+
+Az igazolási kérelemnek sem az eljárás folytatására, sem a végrehajtásra nincs halasztó hatálya. Ha azonban az igazolási kérelem sikere valószínűnek mutatkozik, a bíróság az eljárásnak vagy a határozat végrehajtásának felfüggesztését az ellenfél meghallgatása nélkül, hivatalból is elrendelheti. A felfüggesztés tárgyában hozott határozatot a bíróság kérelemre megváltoztathatja.

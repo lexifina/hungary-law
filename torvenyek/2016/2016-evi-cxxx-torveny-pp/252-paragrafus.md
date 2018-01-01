@@ -1,0 +1,3 @@
+### 252. § [Rendfenntartás]
+
+A fél nem jogi képviselőjének kiutasítása esetén a tárgyalás megtartását a nem jogi képviselő is kérheti. Ha a bíróság a felet vagy nem jogi képviselőjét az egész eljárásra kiterjedően kiutasítja, felhívja a felet, hogy új képviselőről gondoskodjon vagy a tárgyaláson személyesen jelenjen meg. A jogi képviselő egész eljárásra kiterjedő kiutasítása esetén, a bíróság az új képviselőről való gondoskodásra történő felhívás mellett – feltéve, hogy ennek törvényes feltétele fennáll – arra is felhívja a felet, hogy jelentse be, ha a jogi képviselő nélküli eljárásra történő áttérés lehetőségével kíván élni.

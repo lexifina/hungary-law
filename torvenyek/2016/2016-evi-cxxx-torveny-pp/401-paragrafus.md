@@ -1,0 +1,5 @@
+### 401. § [Döntés a perújítás megengedhetőségéről tárgyaláson kívül]
+
+(1) A bíróság a perújítás megengedhetőségéről tárgyaláson kívül is határozhat, amennyiben az ügy valamennyi körülményét mérlegelve a perújítási perfelvételi tárgyalás megtartását szükségtelennek tartja. A bíróságnak a megengedhetőség tárgyában hozott végzése ellen külön fellebbezésnek van helye. A bíróság az eljárást a végzés jogerőre emelkedése után a perújítási perfelvételi tárgyalás kitűzésével folytatja. A perújítási perfelvételi tárgyalásra a 402. § (4)–(6) bekezdésében foglaltak irányadók.
+
+(2) Ha a bíróság a perújítást megengedte és a perújítás sikere valószínűnek mutatkozik, a bíróság a megtámadott ítélet végrehajtását, közbenső ítélet elleni perújítás esetén pedig az alapper tárgyalását hivatalból is felfüggesztheti. A végrehajtás felfüggesztése tárgyában hozott végzés ellen külön fellebbezésnek van helye. A feleket a felfüggesztés tárgyában meg kell hallgatni. A bíróság a felfüggesztés tárgyában hozott végzését utóbb megváltoztathatja.

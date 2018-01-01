@@ -1,0 +1,3 @@
+### 616. § [Elektronikus bírósági irat]
+
+A bíróság az általa elektronikusan megküldött bírósági iratot a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet szerinti, törvényben vagy kormányrendeletben meghatározott feltételeknek megfelelő elektronikus bélyegzővel látja el. A bíróság által készített, törvényben vagy kormányrendeletben meghatározott feltételeknek megfelelő elektronikus bélyegzővel ellátott irat közokirat.

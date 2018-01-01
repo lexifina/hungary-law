@@ -1,0 +1,13 @@
+### 258. § [A bíróság intézkedései a fizetési meghagyásos eljárás perré alakulását követően]
+
+(1) Ha a közjegyző valamely okból nem az Fmhtv. 37. § (3) bekezdése szerinti felhívásában szereplő bíróságnak küldte meg a fizetési meghagyásos eljárás iratanyagát (a továbbiakban: közjegyzői iratanyag), a bíróság azt – az áttétel szabályainak mellőzésével – haladéktalanul megküldi a felhívás szerinti bíróságnak.
+
+(2) Ha a felperes a keresetet tartalmazó iratot nem a közjegyző felhívásában megjelölt bíróságon nyújtja be, a bíróság azt – az áttétel szabályainak mellőzésével – haladéktalanul megküldi a közjegyző felhívása szerinti bíróságnak és erről a felperest értesíti. A keresetet tartalmazó iratot akkor kell előterjesztettnek tekinteni, amikor az a közjegyző felhívása szerinti bíróságra megérkezett.
+
+(3) Ha a közjegyző felhívásában megjelölt bíróság azt állapítja meg, hogy a per más bíróság hatáskörébe, illetve illetékességébe tartozik, az eljárást megszünteti és elrendeli az ügy áttételét; ez irányadó akkor is, ha a felperes a közjegyző felhívásában megjelölt határidőben és bíróságon keresetet tartalmazó iratot nem nyújtott be.
+
+(4) Ha a felperes a keresetet tartalmazó irathoz nem csatolta a közjegyző felhívását, és a közjegyző felhívásában szereplő bíróság egyébként nem állapítható meg, továbbá a bírósághoz közjegyzői iratanyag sem érkezett, a bíróság a keresetet tartalmazó iratot visszautasítja. Jogi képviselő nélkül eljáró fél esetén ennek csak akkor van helye, ha a bíróság nyolc napos határidővel – a mulasztás következményre történő figyelmeztetés mellett – felhívta a felet a közjegyzői felhívás becsatolására, és az eredménytelenül eltelt. A végzés ellen a felperes külön fellebbezéssel élhet. Ha utóbb a közjegyző felhívásában szereplő bíróság megállapíthatóvá válik, a bíróság a visszautasító végzést megváltoztatja és megteszi a szükséges intézkedéseket.
+
+(5) A perre hatáskörrel és illetékességgel rendelkező bíróság visszautasítja az ellentmondást és az eljárást megszünteti, ha a közjegyző az Fmhtv. 36. § (5) bekezdésében foglalt intézkedést elmulasztotta. A végzés ellen külön fellebbezésnek van helye. A bíróság jogerős végzéséhez a közjegyző kötve van. A bíróság a jogerős végzése megküldésével egyidejűleg felhívja a közjegyzőt a fizetési meghagyás jogerejével kapcsolatos intézkedések megtételére.
+
+(6) Ha a perre hatáskörrel és illetékességgel rendelkező bíróság azt állapítja meg, hogy a közjegyző hatáskörébe tartozó – a perré alakulás tényét érintő – kérelmet a közjegyző nem bírált el, felhívja a közjegyzőt a kérelem elbírálására és ezzel egyidejűleg a kérelem jogerős elbírálásáig az eljárást felfüggeszti.
