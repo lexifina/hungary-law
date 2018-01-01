@@ -1,6 +1,6 @@
 ## 11. Adatszolgáltatás szabályai
 
-16. § (1)[^33] A pénzügyi intézmény havi rendszerességgel, elektronikus úton megküldi a kincstárnak ellenőrzési céllal közszférában dolgozók támogatását is tartalmazó gyűjtőszámlahitelre vonatkozó hitelkeret- szerződések megkötése, módosítása vagy megszűnése adatait, valamint a támogatás új igénybevevőinek következő adatait:
+16. § (1)[^41] A pénzügyi intézmény havi rendszerességgel, elektronikus úton megküldi a kincstárnak ellenőrzési céllal közszférában dolgozók támogatását is tartalmazó gyűjtőszámlahitelre vonatkozó hitelkeret- szerződések megkötése, módosítása vagy megszűnése adatait, valamint a támogatás új igénybevevőinek következő adatait:
 
 a) természetes személyazonosító adatok,
 
@@ -16,7 +16,7 @@ f) – a kamattámogatás esetén – a gyermek adóazonosító jele, és
 
 g) – a kamattámogatás és a vissza nem térítendő támogatás esetén – munkáltató neve, címe és adószáma.
 
-(1a)[^34] Az e rendelet szerinti támogatásokat is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszereket – a szakmai irányítást ellátó miniszter utasítása és felügyelete mellett – a kincstár üzemelteti és fejleszti.
+(1a)[^42] Az e rendelet szerinti támogatásokat is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszereket – a szakmai irányítást ellátó miniszter utasítása és felügyelete mellett – a kincstár üzemelteti és fejleszti.
 
 (2) A pénzügyi intézmény az e § szerinti adatszolgáltatási kötelezettségét a kincstár honlapjáról elérhető adatszolgáltatási felületén található útmutató szerinti formában teljesíti
 
@@ -28,5 +28,5 @@ b) a kamattámogatás és a vissza nem térítendő támogatás esetén havonta 
 
 (4) A pénzügyi intézmény az e § szerinti adatszolgáltatása keretében a lakáscélú nyilvántartások vezetéséhez – a támogatott hozzájárulása alapján – elektronikus úton tájékoztatja a kincstárt a megkötött, megkötött és meghiúsult, a felmondott és lezárt, valamint a megszüntetett gyűjtőszámlahitelre vonatkozó hitelkeretszerződésekről és a visszafizetett támogatásokról.
 
-[^33]: A 16. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 195. § (5) bekezdés l) pontja szerint módosított szöveg.
-[^34]: A 16. § (1a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 195. § (2) bekezdése iktatta be.
+[^41]: A 16. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 195. § (5) bekezdés l) pontja szerint módosított szöveg.
+[^42]: A 16. § (1a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 195. § (2) bekezdése iktatta be.

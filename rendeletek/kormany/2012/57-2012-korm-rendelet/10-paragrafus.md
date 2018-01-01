@@ -4,7 +4,7 @@ a) a személyazonosságot személyazonosító igazolvánnyal, érvényes úti ok
 
 b) a bejelentett lakóhelyet a személyi azonosítót és lakcímet igazoló hatósági igazolvánnyal,
 
-c) a gyermek születését anyakönyvi kivonattal, elvált szülők kiskorú gyermekeinek elhelyezését a jogerős ítélet bemutatásával, az örökbefogadást a gyámhatóság engedélyező határozatával, a gyámságot a gyámhatóság kirendelő határozatával,
+c)[^11] a gyermek születését anyakönyvi kivonattal, elvált szülők kiskorú gyermekeinek elhelyezését a jogerős ítélet bemutatásával, az örökbefogadást a gyámhatóság végleges engedélyező határozatával, a gyámságot a gyámhatóság kirendelő határozatával,
 
 d) teljes bizonyító erejű magánokiratba foglalt nyilatkozattal
 
@@ -20,16 +20,17 @@ g) annak tényét, hogy a közszférában dolgozó végtörlesztési szándéká
 
 h) a 8. § (1) bekezdés c) pont cb) alpontjában és e) pontjában foglaltakat az 1. melléklet szerinti nyilatkozat megtételével,
 
-i)[^11] a 8. § (1) bekezdés d) pontjában foglaltakat ingatlan-nyilvántartási tulajdoni lap három hónapnál nem régebbi hiteles másolatával,
+i)[^12] a 8. § (1) bekezdés d) pontjában foglaltakat ingatlan-nyilvántartási tulajdoni lap három hónapnál nem régebbi hiteles másolatával,
 
 j) a 4. § (3) bekezdésében foglaltakat a közszférában dolgozó teljes bizonyító erejű magánokiratba foglalt nyilatkozatával,
 
-k)[^12] az adóazonosító jelet adóigazolvánnyal.
+k)[^13] az adóazonosító jelet adóigazolvánnyal.
 
-(2)[^13] Ha az igénylő a pénzügyi intézménynek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott a közszférában dolgozók támogatásához, a folyósított összeget az igénybevétel napjától felszámított, a Ptk. szerint számított késedelmi kamattal növelt összegben köteles a pénzügyi intézményen keresztül visszafizetni.
+(2)[^14] Ha az igénylő a pénzügyi intézménynek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott a közszférában dolgozók támogatásához, a folyósított összeget az igénybevétel napjától felszámított, a Ptk. szerint számított késedelmi kamattal növelt összegben köteles a pénzügyi intézményen keresztül visszafizetni.
 
 (3) A pénzügyi intézmény a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésbe foglalja a 11. § (1) bekezdésében meghatározott jogorvoslat lehetőségére vonatkozó, valamint a 12. § (4) bekezdése és a 13. § (2) bekezdése szerinti jogkövetkezményekre való figyelmeztetést.
 
-[^11]: A 10. § (1) bekezdés i) pontja az 537/2013. (XII. 30.) Korm. rendelet 78. § d) pontja szerint módosított szöveg.
-[^12]: A 10. § (1) bekezdés k) pontját az 537/2013. (XII. 30.) Korm. rendelet 76. §-a iktatta be.
-[^13]: A 10. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^11]: A 10. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 389. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 10. § (1) bekezdés i) pontja az 537/2013. (XII. 30.) Korm. rendelet 78. § d) pontja szerint módosított szöveg.
+[^13]: A 10. § (1) bekezdés k) pontját az 537/2013. (XII. 30.) Korm. rendelet 76. §-a iktatta be.
+[^14]: A 10. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
