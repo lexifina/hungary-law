@@ -1,6 +1,6 @@
 ## A lajstromba feljegyezhető tények
 
-12. §[^15] (1) A lajstromba csak az úszólétesítményhez kapcsolódó következő, jogilag jelentős tények jegyezhetők fel:
+12. §[^17] (1) A lajstromba csak az úszólétesítményhez kapcsolódó következő, jogilag jelentős tények jegyezhetők fel:
 
 1. a jogosult kiskorúsága vagy gondnokság alá helyezése,
 
@@ -32,10 +32,10 @@
 
 15. zálogjogosulti bizományos kijelölése, a kijelölés visszavonása,
 
-16.[^16] a jogosult természetes személy által kezdeményezett adósságrendezési eljárás.
+16.[^18] a jogosult természetes személy által kezdeményezett adósságrendezési eljárás.
 
-(2)[^17] Az (1) bekezdés 1–6. és 16. pontjában említett tények feljegyzésének elmaradása az azokhoz egyébként fűződő joghatásokat nem érinti. Az (1) bekezdés 7–15. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat jóhiszemű harmadik jogszerzővel szemben nem érvényesítheti.
+(2)[^19] Az (1) bekezdés 1–6. és 16. pontjában említett tények feljegyzésének elmaradása az azokhoz egyébként fűződő joghatásokat nem érinti. Az (1) bekezdés 7–15. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat jóhiszemű harmadik jogszerzővel szemben nem érvényesítheti.
 
-[^15]: A 12. § az 53/2014. (III. 3.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^16]: A 12. § (1) bekezdés 16. pontját a 218/2015. (VIII. 6.) Korm. rendelet 2. §-a iktatta be.
-[^17]: A 12. § (2) bekezdése a 218/2015. (VIII. 6.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^17]: A 12. § az 53/2014. (III. 3.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^18]: A 12. § (1) bekezdés 16. pontját a 218/2015. (VIII. 6.) Korm. rendelet 2. §-a iktatta be.
+[^19]: A 12. § (2) bekezdése a 218/2015. (VIII. 6.) Korm. rendelet 3. §-a szerint módosított szöveg.

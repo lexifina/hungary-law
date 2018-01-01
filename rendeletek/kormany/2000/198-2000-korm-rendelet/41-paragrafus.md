@@ -1,4 +1,4 @@
-## 40. §[^36] Az úszólétesítmény adataiban bekövetkezett változás átvezetéséhez az úszólétesítmények üzemképességének vizsgálatáról és tanúsításáról szóló jogszabályban meghatározott üzemképességet tanúsító okmány is szükséges.
+## 40. §[^37] Az úszólétesítmény adataiban bekövetkezett változás átvezetéséhez az úszólétesítmények üzemképességének vizsgálatáról és tanúsításáról szóló jogszabályban meghatározott üzemképességet tanúsító okmány is szükséges.
 
 ## Jogok bejegyzése és tények feljegyzése
 
@@ -8,4 +8,4 @@
 
 (2) Az (1) bekezdésben meghatározottakon túl a bejegyzés alapjául szolgálhat bíróság ítélete, illetőleg hatóság határozata is, ha az bejegyezhető jogra és tényre vonatkozik.
 
-[^36]: A 40. § a 122/2012. (VI. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^37]: A 40. § a 122/2012. (VI. 26.) Korm. rendelet 4. §-ával megállapított szöveg.

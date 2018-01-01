@@ -4,7 +4,7 @@
 
 ## Az úszólétesítmény azonosító adatai
 
-10. § (1)[^10] A lajstrom – a (8) bekezdésben foglalt motoros vízi sporteszközt kivéve – az úszólétesítmény következő azonosító adatait tartalmazza:
+10. § (1)[^12] A lajstrom – a (8) bekezdésben foglalt motoros vízi sporteszközt kivéve – az úszólétesítmény következő azonosító adatait tartalmazza:
 
 a) az úszólétesítmény nevét vagy betű- és számjelét;
 
@@ -12,7 +12,7 @@ b) a hajózási körzetet;
 
 c) az úszólétesítmény korábbi nevét vagy szám- és betűjelét, ha ilyen volt ,,ex'' jelöléssel;
 
-d)[^11] az úszólétesítmény típusát (fajtáját, jellegét);
+d)[^13] az úszólétesítmény típusát (fajtáját, jellegét);
 
 e) a hajótest anyagát;
 
@@ -30,7 +30,7 @@ k) a személyzet legkisebb engedélyezett létszámát, tengeri nagyhajó eseté
 
 (2) A lajstrom tengeri nagyhajónál az (1) bekezdésben foglaltakon kívül a következő azonosító adatokat is tartalmazza:
 
-a) a hajó hívójelét és nemzetközi azonosító számát[^12];
+a) a hajó hívójelét és nemzetközi azonosító számát[^14];
 
 b) a hajó bruttó és nettó űrtartalmát, m3-ben;
 
@@ -60,7 +60,7 @@ d) sorozatgyártású kishajónál és motornál a sorozatszámot.
 
 (7) A lajstromnak úszómunkagépnél az (1) bekezdésben foglaltakon kívül a teherbírást, illetve a teljesítményt is tartalmazni kell.
 
-(8)[^13] A lajstrom a motoros vízi sporteszköz esetében a következő adatokat tartalmazza:
+(8)[^15] A lajstrom a motoros vízi sporteszköz esetében a következő adatokat tartalmazza:
 
 a) betű- és számjelét,
 
@@ -78,7 +78,7 @@ g) a befogadható személyek számát,
 
 h) a test azonosítószámát (Hull ID number).
 
-[^10]: A 10. § (1) bekezdés nyitó szövegrésze a 122/2012. (VI. 26.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^11]: A 10. § (1) bekezdés d) pontja a 122/2012. (VI. 26.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^12]: A Nemzetközi Tengerészeti Szervezet által megállapított azonosító szám.
-[^13]: A 10. § (8) bekezdését a 122/2012. (VI. 26.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^12]: A 10. § (1) bekezdés nyitó szövegrésze a 122/2012. (VI. 26.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^13]: A 10. § (1) bekezdés d) pontja a 122/2012. (VI. 26.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^14]: A Nemzetközi Tengerészeti Szervezet által megállapított azonosító szám.
+[^15]: A 10. § (8) bekezdését a 122/2012. (VI. 26.) Korm. rendelet 3. § (3) bekezdése iktatta be.

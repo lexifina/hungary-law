@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-198-20-
 | 2014-09-05 | 2000-198-20-22.15 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-09-01 | 2000-198-20-22.16 | 218/2015. (VIII. 6.) Korm. rendelet |
 | 2016-01-01 | 2000-198-20-22.17 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2018-01-01 | 2000-198-20-22.18 | 457/2017. (XII. 28.) Korm. rendelet |

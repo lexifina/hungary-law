@@ -1,5 +1,6 @@
-4. §[^6] (1) A közösségi tulajdoni hányadot annál az úszólétesítménynél, amelynek üzemeltetése hajózási engedélyhez kötött, egy hónapnál nem régebbi cégmásolattal kell igazolni. Magyarországon bejegyzett úszólétesítmény esetében, ha a kérelmező a kérelemhez az egy hónapnál régebbi cégmásolatot nem csatolja, a lajstromozó hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet. A cégmásolaton kívül korlátolt felelősségű társaságnál a tagjegyzék, részvénytársaságnál a részvénykönyv hiteles másolatát is csatolni kell a kérelemhez.
+4. §[^6] (1)[^7]
 
 (2) A tulajdoni hányad megállapításához a lajstromozó hatóság – ha a cégnyilvántartás ezt nem tartalmazza – megkövetelheti a társasági szerződés, illetve az alapító okirat bemutatását is.
 
 [^6]: A 4. § a 182/2009. (IX. 10.) Korm. rendelet 195. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 4. § (1) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 86. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
