@@ -44,10 +44,10 @@ a) az első évben hektáronként 274 eurónak megfelelő forintösszeg,
 
 b) a második évtől kezdődően hektáronként 106 eurónak megfelelő forintösszeg/év.
 
-(7)[^43] Az az erdőrészlet, amelyre vonatkozóan az erdészeti hatóság az erdősítési határidők túllépése miatt jogerős határozatában erdőgazdálkodási bírságot állapított meg, a bírság kiszabásának évétől kezdődően elveszíti támogatási jogosultságát.
+(7)[^43] Az az erdőrészlet, amelyre vonatkozóan az erdészeti hatóság az erdősítési határidők túllépése miatt véglegessé vált határozatában erdőgazdálkodási bírságot állapított meg, a bírság kiszabásának évétől kezdődően elveszíti támogatási jogosultságát.
 
 [^39]: A 17. § (1) bekezdés a) pontja a 104/2012. (X. 1.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^40]: A 17. § (2) bekezdése a 104/2012. (X. 1.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^41]: A 17. § (5) bekezdése a 104/2012. (X. 1.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^42]: A 17. § (6) bekezdése a 44/2012. (V. 3.) VM rendelet 19. §-ával megállapított szöveg.
-[^43]: A 17. § (7) bekezdését a 104/2012. (X. 1.) VM rendelet 8. § (4) bekezdése iktatta be.
+[^43]: A 17. § (7) bekezdését a 104/2012. (X. 1.) VM rendelet 8. § (4) bekezdése iktatta be, szövege a 37/2017. (XII. 27.) MvM rendelet 18. § e) pontja szerint módosított szöveg.

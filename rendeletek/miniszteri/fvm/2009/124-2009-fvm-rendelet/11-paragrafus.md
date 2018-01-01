@@ -2,7 +2,7 @@
 
 11. § (1) Az elháríthatatlan külső okokra (a továbbiakban: vis maior) vonatkozó bejelentést az erdészeti hatóságnak a vis maiorral érintett terület szerint illetékes szervéhez kell benyújtani az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendeletben és a Vhr.-ben foglaltak alapján.
 
-(2) Vis maior fennállása esetén az ügyfél (1) bekezdésben foglalt bejelentése alapján – az erdészeti hatóság véleményét figyelembe véve – az MVH dönt arról, hogy a vis maior a kötelezettségeknek
+(2)[^18] Vis maior fennállása esetén az ügyfél (1) bekezdésben foglalt bejelentése alapján – az erdészeti hatóság véleményét figyelembe véve – a Kincstár dönt arról, hogy a vis maior a kötelezettségeknek
 
 a) az adott évre vonatkozó, vagy
 
@@ -19,3 +19,5 @@ teljesítését teszi lehetetlenné.
 (6) Ha a vis maiorral érintett terület visszavonása után maradó terület nem éri el a jogosultsági feltételként szereplő minimális területnagyságot, a fennmaradó terület támogatási jogosultsága megszűnik az addig felvett támogatási összeg visszafizetési kötelezettsége nélkül.
 
 (7) Ha az adott erdőterület vonatkozásában legalább három alkalommal vis maior következtében vis maior bejelentést jóváhagyó döntés születik, akkor az adott célprogramból az érintett terület a támogatási időszak végéig kizárásra kerül az addig felvett támogatási összeg visszafizetési kötelezettsége nélkül.
+
+[^18]: A 11. § (2) bekezdés nyitó szövegrésze a 37/2017. (XII. 27.) MvM rendelet 18. § b) pontja szerint módosított szöveg.

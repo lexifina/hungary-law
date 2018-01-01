@@ -8,7 +8,7 @@
 
 a) a fakitermelés és anyagmozgatás során az erdőrészleten belül csak kötélpálya, vasló, erdészeti csúszda, állati erővel vont fogat, közelítő kerékpár, szán vagy a kitermelt faanyag emelve történő közelítésére alkalmas önjáró kerekes eszköz használható,
 
-b)[^59] a fakitermelés és anyagmozgatás megkezdését és várható befejezését, az alkalmazott fakitermelés eszközét és módját 15 nappal korábban be kell jelenteni az erre rendszeresített és az MVH honlapján közzétett formanyomtatványon az erdészeti hatóságnak,
+b)[^59] a fakitermelés és anyagmozgatás megkezdését és várható befejezését, az alkalmazott fakitermelés eszközét és módját 15 nappal korábban be kell jelenteni az erre rendszeresített és a Kincstár honlapján közzétett formanyomtatványon az erdészeti hatóságnak,
 
 c) a fakitermelés és anyagmozgatás során nem keletkezhet 20 cm-nél mélyebb közelítési, illetve vonszolási nyom,
 
@@ -21,7 +21,7 @@ e)[^61] csak olyan fakitermelés hajtható végre, amelyre vonatkozó bejelenté
 (4)[^62] A támogatás mértéke a kiközelített (nettó) faanyag után 17,45 eurónak megfelelő forintösszeg/m3, de legfeljebb 50 m3-nek megfelelő euró hektáronként.
 
 [^58]: A 25. § (1) bekezdése a 68/2013. (VII. 29.) VM rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^59]: A 25. § (2) bekezdés b) pontja a 104/2012. (X. 1.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^59]: A 25. § (2) bekezdés b) pontja a 104/2012. (X. 1.) VM rendelet 9. § (1) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 18. § b) pontja szerint módosított szöveg.
 [^60]: A 25. § (2) bekezdés d) pontja a 104/2012. (X. 1.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^61]: A 25. § (2) bekezdés e) pontját a 68/2013. (VII. 29.) VM rendelet 7. § (5) bekezdése iktatta be.
 [^62]: A 25. § (4) bekezdése a 104/2012. (X. 1.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
