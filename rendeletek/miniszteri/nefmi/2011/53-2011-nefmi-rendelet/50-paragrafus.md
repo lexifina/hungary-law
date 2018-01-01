@@ -4,4 +4,6 @@
 
 (3) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába sorolom.
 
-(4) A védetté nyilvánítás célja a mai formájában 1896-ban, Kauser Gyula tervei szerint épült, historizáló stílusú lakóház (Seenger-ház) és a hozzá csatlakozó, a 19. század második felében és a 20. század első felében épült műhelyépületek építészeti, képzőművészeti és ipartörténeti értékeinek megőrzése.
+(4)[^1] A védetté nyilvánítás célja a mai formájában 1896-ban, Kauser Gyula tervei szerint épült, historizáló stílusú lakóház (Seenger-ház) építészeti, képzőművészeti értékeinek megőrzése.
+
+[^1]: Az 50. § (4) bekezdése a 38/2017. (XII. 27.) MvM rendelet 14. §-a szerint módosított szöveg.
