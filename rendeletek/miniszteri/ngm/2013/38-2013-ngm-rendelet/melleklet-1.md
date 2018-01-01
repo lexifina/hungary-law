@@ -746,7 +746,7 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 4. Részesedés, értékpapírt átadása értékesítésre az MNV Zrt. részére az Áht. 100. §-a szerinti esetben: a III. fejezet Növekedések M) Követelés fejében átvett immateriális javak, tárgyi eszközök elszámolása 4. és 5. pontja szerint |
 
-## E) Térítés nélkül átvett, ajándékba kapott, hagyatékként átvett részesedések, értékpapírok elszámolása
+## E) Térítés nélküli átvett, ajándékba kapott, hagyatékként átvett részesedések, értékpapírok elszámolása
 
 | 1. Az eszköz átvétele a pénzügyi számvitel szerint | T16/17/24 | – | K9323/9324/ 9331/9332/ 9353 |
 
@@ -2506,7 +2506,7 @@ EGYÉB GAZDASÁGI ESEMÉNYEK ELSZÁMOLÁSAI
 
 | 6. Mérlegforduló napjáig le nem zárt fedezeti célú kamat swap ügylet Szt. 32. § (5) bekezdés a) pontja szerinti értékének, valamint b) és e) pontja szerint nyereségének elszámolása a pénzügyi számvitel szerint | T371 | – | K934 |
 
-| 7. Mérlegforduló napjáig le nem zárt fedezeti célú kamat swap ügyletnek nem minősülő fedezeti ügylet Szt. 32. § (5) bekezdés a) pontja szerinti értékének, és e) pontja szerinti nyereségének elszámolása a pénzügyi számvitel szerint | T371 | – | K9353 |
+| 7. 7. Mérlegforduló napjáig le nem zárt fedezeti célú kamat swap ügyletnek nem minősülő fedezeti ügylet Szt. 32. § (5) bekezdés a) pontja szerinti értékének, és e) pontja szerinti nyereségének elszámolása a pénzügyi számvitel szerint | T371 | – | K9353 |
 
 | 8. Mérlegforduló napjáig lezárt fedezeti célú kamat swap ügylet veszteségének elszámolása a költségvetési számvitel szerint |
 
@@ -2760,11 +2760,11 @@ B) Beolvadás illetve jogutód nélküli megszűnés esetén a jogutód, illetve
 
 | 10. A nemzeti vagyon induláskori értéke megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 | – | K411 |
 
-| 11. A nemzeti vagyon változása megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495/412 | – | K412/495 |
+| 11 A nemzeti vagyon változása megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495/412 | – | K412/495 |
 
-| 12. Az egyéb eszközök induláskori értéke és változásai megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 T4133 | – | K4133 K495 |
+| 12. Az egyéb eszközök induláskori értéke és változásai megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 T413 | – | K413 K495 |
 
-| 13. A mérleg szerinti eredmény és a felhalmozott eredmény megszűnőnél kimutatott könyv szerinti érétkének nyilvántartásba vétele az egyéb eszközök induláskori értéke és változásaként a pénzügyi számvitel szerint | T495/4133 | – | K4133/495 |
+| 13. A mérleg szerinti eredmény és a felhalmozott eredmény megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele az egyéb eszközök induláskori értéke és változásaként a pénzügyi számvitel szerint | T495/413 | – | K413/495 |
 
 | 13a. Az általános forgalmi adó elszámolása számlák megszűnőnél kimutatott bekerülési értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T364 T495 | – | K495 K364 |
 
@@ -2830,9 +2830,9 @@ C) Összeolvadás, illetve különválás esetén a jogutód szervnél
 
 | 11 A nemzeti vagyon változása megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T412/491 | – | K412/491 |
 
-| 12. Az egyéb eszközök induláskori értéke és változásai megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T491 T4133 | – | K4133 K491 |
+| 12. Az egyéb eszközök induláskori értéke és változásai megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T491 T413 | – | K413 K491 |
 
-| 13. A mérleg szerinti eredmény és a felhalmozott eredmény megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele az egyéb eszközök induláskori értéke és változásaként a pénzügyi számvitel szerint | T491/4133 | – | K4133/491 |
+| 13. A mérleg szerinti eredmény és a felhalmozott eredmény megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele az egyéb eszközök induláskori értéke és változásaként a pénzügyi számvitel szerint | T491/413 | – | K413/491 |
 
 | 13a. Az általános forgalmi adó elszámolása számlák megszűnőnél kimutatott bekerülési értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T364 T491 | – | K491 K364 |
 
@@ -3012,4 +3012,4 @@ G) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 
 | 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat korrigált záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján] |
 
-[^1]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1. pontja és 2. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a szerint módosított szöveg.
