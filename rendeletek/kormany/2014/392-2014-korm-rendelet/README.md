@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-392-20-
 | 2015-04-01 | 2014-392-20-22.2 | 72/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2014-392-20-22.3 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-11-18 | 2014-392-20-22.4 | 346/2016. (XI. 17.) Korm. rendelet |
+| 2018-01-01 | 2014-392-20-22.5 | 458/2017. (XII. 28.) Korm. rendelet |
