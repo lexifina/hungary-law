@@ -1,0 +1,1 @@
+## „(7) Az időszakos ellenőrző felülvizsgálatot – a Villamos Műszaki Biztonsági Szabályzat rendelet hatálya alá tartozó villamos berendezések kivételével – szabványossági felülvizsgálattal rendszeresen, legalább háromévente kell elvégezni a munkahelynek minősülő helyen.”
