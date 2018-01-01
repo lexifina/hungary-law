@@ -2,7 +2,7 @@
 
 ## 2. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetéséhez nyújtott hitelszerződésen alapuló kölcsönhöz kapcsolódó állami kezességvállalás
 
-4. § (1)[^2] Az Údt. 8/B. § (1) bekezdése szerinti jogszabályi állami készfizető kezesség kizárólag azon visszafizetési kötelezettségre terjed ki, amelynek alapja a KAVOSZ VF által kötött olyan hitelszerződés, amely:
+4. § (1)[^3] Az Údt. 8/B. § (1) bekezdése szerinti jogszabályi állami készfizető kezesség kizárólag azon visszafizetési kötelezettségre terjed ki, amelynek alapja a KAVOSZ VF által kötött olyan hitelszerződés, amely:
 
 a) kizárólag az Údt. 8/B. § (1) bekezdése szerinti célra,
 
@@ -18,11 +18,11 @@ f) köztartozással nem rendelkező, jogerős végzéssel elrendelt végelszámo
 
 jön létre.
 
-(2)[^3] Az (1) bekezdés c) pontja szerinti új hitelszerződés megkötésével történő meghosszabbítás esetén az új hitelszerződés alapján folyósított kölcsönből a korábbi hitelszerződés szerinti tartozás kiváltható.
+(2)[^4] Az (1) bekezdés c) pontja szerinti új hitelszerződés megkötésével történő meghosszabbítás esetén az új hitelszerződés alapján folyósított kölcsönből a korábbi hitelszerződés szerinti tartozás kiváltható.
 
-(3)[^4] Az Údt. 8/B. §-a szerinti kezességre az R. 6. § (3) bekezdését nem kell alkalmazni.
+(3)[^5] Az Údt. 8/B. §-a szerinti kezességre az R. 6. § (3) bekezdését nem kell alkalmazni.
 
-(4)[^5] Az e § szerinti hitelfelhasználás keretében a kis- és középvállalkozás a KAVOSZ VF által szolgáltatott hitel biztosítékaként a folyósított kölcsönt legfeljebb a szerződött hitelösszeg 20%-ának és a szerződött hitelösszegnek a hitelszerződés aláírásakor érvényes 3 havi ügyleti kamatának – a hitelszerződés aláírásának hónapját megelőző naptári hónap utolsó munkanapja szerinti egyhavi BUBOR érték figyelembe vételével számított – együttes összegével megegyező mértékben – óvadék alapítás céljára használhatja fel.
+(4)[^6] Az e § szerinti hitelfelhasználás keretében a kis- és középvállalkozás a KAVOSZ VF által szolgáltatott hitel biztosítékaként a folyósított kölcsönt legfeljebb a szerződött hitelösszeg 20%-ának és a szerződött hitelösszegnek a hitelszerződés aláírásakor érvényes 3 havi ügyleti kamatának – a hitelszerződés aláírásának hónapját megelőző naptári hónap utolsó munkanapja szerinti egyhavi BUBOR érték figyelembe vételével számított – együttes összegével megegyező mértékben – óvadék alapítás céljára használhatja fel.
 
 (5) A KAVOSZ VF a hitelszerződéshez kapcsolódó biztosítékok közül jogosult elsőként az állami készfizető kezességet érvényesíteni.
 
@@ -30,7 +30,7 @@ jön létre.
 
 (7) Az állami készfizető kezesség az állami kezességgel biztosított kölcsön első folyósítási napjától, de leghamarabb 2013. július 1-jétől a felvett kölcsön és járulékai visszafizetéséig, illetve az állami kezesség beváltásáig, de legkésőbb 2018. július 1-jétől számított 180. napig áll fenn.
 
-[^2]: A 4. § (1) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^3]: A 4. § (2) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: A 4. § (3) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 4. § (4) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 4. § (1) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 4. § (2) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 4. § (3) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 4. § (4) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.

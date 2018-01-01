@@ -10,8 +10,9 @@
 
 4. hitelszerződés: a KAVOSZ VF és a kis- és középvállalkozás között az Útdíj Hitelprogram keretében létrejött hitel- vagy kölcsönszerződés,
 
-5. köztartozás: az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 20. pontja szerinti fogalom,
+5.[^2] köztartozás: az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontja szerinti fogalom,
 
 6. Általános Szerződési Feltételek: az Útdíj Hitelprogram részletes feltételeit tartalmazó, a KAVOSZ VF honlapján közzétett dokumentum.
 
 [^1]: Az 1. § a 122/2014. (IV. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § 5. pontja a 475/2017. (XII. 28.) Korm. rendelet 56. §-a szerint módosított szöveg.

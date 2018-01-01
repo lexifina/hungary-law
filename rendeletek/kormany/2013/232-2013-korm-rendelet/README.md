@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-232-20-
 | 2014-07-01 | 2013-232-20-22.3 | 122/2014. (IV. 8.) Korm. rendelet |
 | 2015-07-08 | 2013-232-20-22.4 | 175/2015. (VII. 7.) Korm. rendelet |
 | 2017-01-01 | 2013-232-20-22.5 | 122/2014. (IV. 8.) Korm. rendelet |
+| 2018-01-01 | 2013-232-20-22.6 | 475/2017. (XII. 28.) Korm. rendelet |
