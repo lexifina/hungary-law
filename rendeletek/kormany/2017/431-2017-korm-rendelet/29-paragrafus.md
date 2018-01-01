@@ -1,0 +1,3 @@
+## 28. § A 25. § a) pontjában foglalt esetben akkor kell a forgalomba-helyezési eljárást a közúti közlekedési útvonal keresztezések biztosítási módjának meghatározására irányuló eljárásnak megelőzni, ha a keresztező közlekedési utak kezelői, illetve tulajdonosai nem adták meg nyilatkozatukat a használatbavételi engedély fejezetben előírtaknak megfelelően, vagy a nyilatkozat alapján új biztosítási mód meghatározására irányuló eljárás lefolytatását lezáró határozat a forgalomba-helyezési megindításának feltétele.
+
+## 15. Közúti közlekedési útvonal keresztezések biztosítási módjának meghatározása
