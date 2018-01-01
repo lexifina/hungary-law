@@ -1,4 +1,4 @@
-## 7–10. §[^1]
+## 7–10. §[^2]
 
 1. melléklet a 7/2017. (VII. 28.) NMHH rendelethez
 
@@ -20,4 +20,4 @@
 
 (név, beosztás) (aláírás):
 
-[^1]: A 7–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

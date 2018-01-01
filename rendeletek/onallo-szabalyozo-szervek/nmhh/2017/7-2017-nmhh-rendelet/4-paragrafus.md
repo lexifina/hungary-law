@@ -16,4 +16,6 @@ c) más megfelelőségértékelő szervezet
 
 (5) A rádióberendezés – ha jogszabály egyéb követelményeket nem állapít meg – akkor forgalmazható, ha a (4) bekezdésben meghatározott megfelelőségigazolással rendelkezik.
 
-(6) A megfelelőségigazolás és a kapcsolódó műszaki dokumentáció eredeti példányát – az okiratot kiállító – megfelelőségértékelő szervezet őrzi, és az általános hatósági ellenőrzés keretében eljáró Nemzeti Média- és Hírközlési Hatóság Hivatalának felhívására rendelkezésre bocsájtja a megfelelőségigazolást és a kapcsolódó műszaki dokumentációt.
+(6)[^1] A megfelelőségigazolás és a kapcsolódó műszaki dokumentáció eredeti példányát – az okiratot kiállító – megfelelőségértékelő szervezet őrzi, és a hatósági ellenőrzési jogkörében eljáró Nemzeti Média- és Hírközlési Hatóság Hivatalának felhívására rendelkezésre bocsájtja a megfelelőségigazolást és a kapcsolódó műszaki dokumentációt.
+
+[^1]: A 4. § (6) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 17. §-a szerint módosított szöveg.
