@@ -10,4 +10,14 @@ b) a hivatalos statisztikai célú adatátvételre, adatátadásra vonatkozó k�
 
 (3) A Hivatalos Statisztikai Szolgálat (1) bekezdés szerinti jogsértéssel érintett statisztikai adatfelvételt végrehajtó tagja az (1) bekezdés szerinti hatósági eljárás során ügyfélnek minősül.
 
-(4) A fővárosi és megyei kormányhivatal az (1) bekezdés szerinti eljárásban hozott határozatával és a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti önálló fellebbezéssel támadható végzésével szemben fellebbezésnek van helye.
+(4) Az (1) bekezdés szerinti bírság kiszabása során a hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – jogszabály eltérő rendelkezése hiányában – mérlegeli:
+
+a) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket,
+
+b) a jogsértő magatartás ismétlődését és gyakoriságát,
+
+c) a jogsértést elkövető gazdasági súlyát.
+
+(5) A fővárosi és megyei kormányhivatal az (1) bekezdés szerinti eljárásban hozott, önálló jogorvoslattal támadható döntésével szemben fellebbezésnek van helye.
+
+(6) Az (5) bekezdés szerinti fellebbezés elbírálására, valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti eljárás lefolytatására a közigazgatás-szervezésért felelős miniszter jogosult.

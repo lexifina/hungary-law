@@ -66,6 +66,8 @@ f) az adatok értelmezését segítő egyéb módszertani leírások, amelyek me
 
 (10) Az adminisztratív adatok átadását – a KSH részére minden esetben, a Hivatalos Statisztikai Szolgálat egyéb tagjai részére igényük esetén – a KSH által erre a célra üzemeltetett elektronikus rendszeren keresztül kell teljesíteni.
 
+(10a) A (10) bekezdésben foglalt elektronikus rendszeren keresztül történő adatátadásra a 27/A. §-ban foglaltakat kell alkalmazni.
+
 (11) Az adminisztratív adatforrást kezelő szervezet az adminisztratív adatforrás hivatalos statisztikai célú felhasználhatóságára tekintettel az adminisztratív adatforrás minőségéről minden évben a KSH által meghatározott tartalmú és formájú minőségjelentést állít össze és megküldi azt a KSH részére.
 
 (12) A KSH a beérkezett minőségjelentéseket és az azokhoz fűzött, a minőség javítását célzó észrevételeit bemutatja véleményezés céljából a Nemzeti Statisztikai Koordinációs Testületnek.
