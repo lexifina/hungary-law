@@ -2,8 +2,8 @@
 
 (2) A kamara az (1) bekezdés alapján megismert személyes adatokat
 
-a) a növényvédő mérnök-növényorvos kamarai tagfelvétele iránti eljárás jogerős befejezéséig vagy
+a) a növényvédő mérnök-növényorvos kamarai tagfelvétele iránti eljárásban hozott határozat véglegessé válásáig vagy
 
-b) a kamarai tagok névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
+b) a kamarai tagok névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárásban hozott határozat véglegessé válásáig
 
 kezeli.

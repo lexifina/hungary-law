@@ -20,4 +20,4 @@ b) megtartsa a Kamara Alapszabályában és egyéb szabályzataiban foglaltakat,
 
 c) tevékenysége során a szakmai irányelveknek, valamint az etikai szabályzatban foglaltaknak megfelelően járjon el.
 
-(4) A keresetet az országos szervezet felügyelő bizottsága állásfoglalásának kézhezvételétől számított 30 napon belül a sérelmes döntést hozó szervezet ellen kell megindítani.
+(4) A közigazgatási pert az országos szervezet felügyelő bizottsága állásfoglalásának közlésétől számított harminc napon belül kell megindítani.

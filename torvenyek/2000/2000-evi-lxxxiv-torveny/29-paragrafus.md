@@ -8,4 +8,4 @@
 
 (3) A kamarai szerv a felhívásban foglaltakat megvizsgálja, és a megadott határidőn belül intézkedésről vagy egyet nem értéséről tájékoztatja a minisztert.
 
-(4) Ha a kamarai szerv vagy tisztségviselő a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetésére, a miniszter keresetet nyújthat be a bírósághoz. Az eljárás során a képviseleti jogra az Alapszabály rendelkezései irányadóak.
+(4)

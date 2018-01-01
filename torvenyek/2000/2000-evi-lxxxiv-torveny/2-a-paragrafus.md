@@ -1,1 +1,1 @@
-2/A. § A kamarának a tagfelvétellel és a kamarai névjegyzékbe vétellel, valamint a fegyelmi és etikai ügyek kivételével a tagsági viszony megszüntetésével és a kamarai nyilvántartásból való törléssel kapcsolatos eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+### 2/A. §
