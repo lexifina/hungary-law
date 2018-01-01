@@ -1,1 +1,0 @@
-A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174. §-a (2) bekezdésének c) pontjában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
