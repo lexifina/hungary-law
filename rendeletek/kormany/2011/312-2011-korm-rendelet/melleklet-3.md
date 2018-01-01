@@ -38,7 +38,7 @@
 
 ## 20. Bejelentési kötelezettség teljesítése.
 
-## 20.1.[^30] A bejelentés adattartalmának ellenőrzése
+## 20.1.[^35] A bejelentés adattartalmának ellenőrzése
 
 ## 21. A szállítási útvonalra vonatkozó korlátozások, biztonsági előírások betartása.
 
@@ -60,7 +60,7 @@
 
 ## 5. Az ADN 1.1.3 szakasza szerint alkalmazott mentességek.
 
-## 6.[^31] Hajóokmányok:
+## 6.[^36] Hajóokmányok:
 
 ## 6.1. Hajónapló.
 
@@ -162,17 +162,17 @@
 
 ## 19. Az ADN 1.10 fejezetében előírt közbiztonsági terv.
 
-## 20.[^32] A RIS rendszerbe való adatrögzítési kötelezettség teljesítése.
+## 20.[^37] A RIS rendszerbe való adatrögzítési kötelezettség teljesítése.
 
-## 20.1.[^33] Bejelentési kötelezettség teljesítése.
+## 20.1.[^38] Bejelentési kötelezettség teljesítése.
 
-## 20.2.[^34] A bejelentés adattartalmának ellenőrzése.
+## 20.2.[^39] A bejelentés adattartalmának ellenőrzése.
 
 ## 21. A veszélyes áruk belvízi szállítása során történt vízi közlekedési baleset, esemény bejelentése.
 
 ## 22. Kétoldalú/többoldalú megállapodásban foglaltak, egyéb hatósági engedélyek.
 
-3. melléklet a 312/2011. (XII. 23.) Korm. rendelethez[^35]
+3. melléklet a 312/2011. (XII. 23.) Korm. rendelethez[^40]
 
 Bírságolással érintett cselekmények
 
@@ -502,9 +502,9 @@ D. Az I. II. és III. kockázati kategóriájába nem tartozó egyéb szabályta
 
 | 17. | A biztonsági tanácsadóval kapcsolatos egyéb, az ADN 1.8.3.3. bekezdésében vagy más jogszabályban előírt kötelezettségek megszegése. | 100 000 | vállalkozás vezetője, biztonsági tanácsadó |
 
-[^30]: A 2. melléklet A. rész 20.1. pontját a 372/2016. (XI. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be.
-[^31]: A 2. melléklet B. rész 6. pont nyitó szövegrésze a 372/2016. (XI. 29.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^32]: A 2. melléklet B. rész 20. pont nyitó szövegrésze a 372/2016. (XI. 29.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.
-[^33]: A 2. melléklet B. rész 20.1. pontját a 372/2016. (XI. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be.
-[^34]: A 2. melléklet B. rész 20.2. pontját a 372/2016. (XI. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be.
-[^35]: A 3. melléklet a 372/2016. (XI. 29.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^35]: A 2. melléklet A. rész 20.1. pontját a 372/2016. (XI. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^36]: A 2. melléklet B. rész 6. pont nyitó szövegrésze a 372/2016. (XI. 29.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^37]: A 2. melléklet B. rész 20. pont nyitó szövegrésze a 372/2016. (XI. 29.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.
+[^38]: A 2. melléklet B. rész 20.1. pontját a 372/2016. (XI. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^39]: A 2. melléklet B. rész 20.2. pontját a 372/2016. (XI. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^40]: A 3. melléklet a 372/2016. (XI. 29.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.

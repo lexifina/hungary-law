@@ -1,4 +1,4 @@
-16/A. §[^24] (1) A 3. melléklet A. táblázatában meghatározott bírságösszegnek
+16/A. §[^28] (1) A 3. melléklet A. táblázatában meghatározott bírságösszegnek
 
 a) a 10%-át kell megállapítani a RID 1.1.3. szakaszában, valamint a RID belföldi alkalmazásáról szóló miniszteri rendeletben meghatározottak szerint a további vonatkozó előírások betartása alól részben mentesülő veszélyes áru szállítás során megállapított szabálytalanság esetén, kivéve a b) pont szerinti szállításokat,
 
@@ -26,4 +26,4 @@ b) a veszélyes áru kiszabadulása nem következett be, vagy a veszélyes áru 
 
 (6) Az (5) bekezdésben szereplő bírságcsökkentő tényező nem alkalmazható, ha az ADN 3.2 fejezet „A” táblázat 12. oszlopa, vagy az ADN 3.2 fejezet „C” táblázat 19. oszlopa szerint a hajót jelölő kék fények, kék kúpok száma 2 vagy 3, valamint a szállításból kizárt veszélyes áruk szállítása esetén.
 
-[^24]: A 16/A. §-t a 372/2016. (XI. 29.) Korm. rendelet 24. §-a iktatta be.
+[^28]: A 16/A. §-t a 372/2016. (XI. 29.) Korm. rendelet 24. §-a iktatta be.

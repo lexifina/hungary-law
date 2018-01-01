@@ -1,4 +1,4 @@
-## 17. §[^25] A bírságot kiszabó határozat jogerőre emelkedésétől számított 15 napon belül a bírságot a határozatban megjelölt, a Magyar Államkincstár által e célra létrehozott központosított beszedési számlára kell befizetni.
+## 17. §[^29] A bírságot kiszabó döntés véglegessé válásától számított 15 napon belül a bírságot a határozatban megjelölt, a Magyar Államkincstár által e célra létrehozott központosított beszedési számlára kell befizetni.
 
 18. § (1) A kiszabott bírságot vagy a fennálló bírságtartozást a helyszínen – amennyiben annak lebonyolításához a katasztrófavédelmi hatóság részéről a technikai feltételek fennállnak – bankkártyával is meg lehet fizetni.
 
@@ -6,4 +6,4 @@
 
 (3) Amennyiben a bírság, vagy a pénzkövetelés-biztosítás megfizetésére a helyszínen bankkártyával került sor, a hatóság a POS-terminál által nyomtatott bizonylat másodlati példányát átadja az ügyfélnek.
 
-[^25]: A 17. § a 137/2017. (VI. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^29]: A 17. § a 137/2017. (VI. 9.) Korm. rendelet 10. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 365. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

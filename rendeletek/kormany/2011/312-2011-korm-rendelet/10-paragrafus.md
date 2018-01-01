@@ -1,3 +1,3 @@
-## 9/A. §[^16] A katasztrófavédelmi hatóság az e rendelet alapján hivatalból indított eljárása során az ügyfelet az érdemi döntéshez szükséges adatok közlésére kötelezheti.
+## 9/A. §[^19]
 
-[^16]: A 9/A. §-t a 176/2013. (VI. 3.) Korm. rendelet 13. § (4) bekezdése iktatta be.
+[^19]: A 9/A. §-t a 176/2013. (VI. 3.) Korm. rendelet 13. § (4) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 366. § b) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
