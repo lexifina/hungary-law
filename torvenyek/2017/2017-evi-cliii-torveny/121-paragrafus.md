@@ -1,0 +1,1 @@
+121. § A fővárosi és megyei kormányhivatal vagy járási (fővárosi kerületi) hivatal, illetve e hivatalok fizetésre kötelező döntései alapján a behajtást kérő hatóság megkeresése alapján folytatott eljárás esetén a költségeket az adóhatóság viseli.

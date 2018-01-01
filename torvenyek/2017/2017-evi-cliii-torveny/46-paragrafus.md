@@ -1,0 +1,3 @@
+46. § (1) Az adóhatóság a lefoglalt ingóságot értékesítés céljából a foglalást követően haladéktalanul – az adós költségén – elszállíthatja, és a nyertes árverési vevőnek történő átadásig, foglalás alóli feloldásig vagy értékesíthetetlen ingóság esetében az adósnak történő visszaadásig, illetve karitatív célú hasznosításáig, vagy hulladékként történő megsemmisítésig megőrzi. Az ingóság elszállításának nem feltétele a Vht. szerinti zár alá vétel feltételeinek fennállása.
+
+(2) Ha az adóhatóság az (1) bekezdésben foglalt lehetőséggel nem él, a lefoglalt vagyontárgyat az adós – a szállítási értesítőben megjelölt időpontig – az állaga megóvása mellett használhatja.

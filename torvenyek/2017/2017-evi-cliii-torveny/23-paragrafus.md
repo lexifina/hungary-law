@@ -1,0 +1,3 @@
+## 15. Az adóhatósági egyezség szabályai
+
+23. § Az adóhatóság és az adós a végrehajtási eljárás során az adópolitikáért felelős miniszter, illetve az önkormányzat képviselő-testületének hozzájárulásával az adós vagyonából lefoglalt ingó vagy ingatlan vagyontárgy tulajdon-, kezelői jogának az állam vagy az önkormányzat javára történő átruházására – a becsértéknek megfelelő értékben – egyezséget köthet, ha a vagyontárgy valamely állami vagy önkormányzati feladat ellátását természetben szolgálja. Az egyezségben szereplő összegben a központi költségvetést, vagy az önkormányzat költségvetését megillető adótartozás megfizetettnek minősül.

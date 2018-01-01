@@ -1,0 +1,9 @@
+116. § (1) A természetes személy állami kezességvállalással biztosított hitelszerződésének felmondásával összefüggésben érvényesített állami kezességre tekintettel keletkezett adók módjára behajtandó köztartozás végrehajtása során nincs helye ingatlan-végrehajtásnak, a folyamatban lévő ingatlan-végrehajtás pedig nem folytatható azon lakóingatlan vonatkozásában, amelynek az állam által történő megvásárlását kezdeményezték a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény szerint.
+
+(2) Az állami adó- és vámhatóság abban az esetben jár el az (1) bekezdés szerint, ha felé az adók módjára behajtandó köztartozás kötelezettje a lakóingatlan állam által történő megvásárlásának kezdeményezését hitelt érdemlően igazolja.
+
+(3) Az állami adó- és vámhatóság a (2) bekezdés szerinti igazolás hitelességének ellenőrzése érdekében írásbeli nyilatkozattétel céljából megkeresheti az állami kezesség érvényesítőjét.
+
+(4) Az állami adó- és vámhatóság a lakóingatlan vonatkozásában az ingatlan-végrehajtást foganatosíthatja vagy folytathatja, ha arról értesül, hogy az állami kezesség érvényesítője a lakóingatlan állam által történő megvásárlásának kezdeményezéséhez való hozzájárulást elutasította, vagy a Nemzeti Eszközkezelő Zrt. a lakóingatlanra vonatkozó vételi ajánlatot visszautasította.
+
+(5) Az állami kezesség érvényesítője a lakóingatlan állam által történő megvásárlásához való hozzájárulásának elutasításával, a Nemzeti Eszközkezelő Zrt. pedig az állami kezesség érvényesítésére tekintettel keletkezett adók módjára behajtandó köztartozás fennállására tekintettel a lakóingatlan vonatkozásában tett vételi ajánlat visszautasításával, vagy a megvásárlásáról szóló tájékoztatással egyidejűleg köteles erről a tényről az állami adó- és vámhatóságot értesíteni.

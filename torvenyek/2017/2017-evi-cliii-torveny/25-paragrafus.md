@@ -1,0 +1,1 @@
+25. § Az elkésett, a nem a jogosulttól származó, valamint az intézkedés megsemmisítésének vagy megváltoztatásának okát nem tartalmazó végrehajtási kifogást tartalmazó kérelmet az elsőfokú adóhatóság visszautasítja.

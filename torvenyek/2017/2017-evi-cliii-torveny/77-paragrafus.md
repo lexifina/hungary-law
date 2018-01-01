@@ -1,0 +1,3 @@
+77. § (1) Az ingatlanra az árverezhet, aki előlegként az ingatlan becsértékének 10%-át legkésőbb az árverés megkezdéséig a végrehajtónál letétbe helyezte, vagy az adóhatóság által közzétett számlára átutalta. Ha az árverés megkezdéséig az előleg összegének a közzétett számlán történő jóváírása nem történt meg, de az árverezni kívánó bankszámláját az azt vezető hitelintézet az előleg összegével megterhelte, az árverezni kívánó legkésőbb az árverés megkezdéséig hitelt érdemlően igazolhatja az átutalás visszavonhatatlan megtörténtét.
+
+(2) Akinek az ingatlanszerzése engedélyhez kötött, annak az árverezés megkezdése előtt igazolnia kell az engedély meglétét.

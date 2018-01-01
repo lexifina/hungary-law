@@ -1,0 +1,1 @@
+84. § Lakóingatlan esetén az árverési vételár legfeljebb a kikiáltási ár 75%-nak megfelelő összeg erejéig csökkenthető, feltéve, hogy az adósnak ez az egyetlen lakóingatlana, lakóhelye ebben van, és a végrehajtási eljárás megindítását megelőző 6 hónapban is ebben lakott.

@@ -1,0 +1,1 @@
+101. § A biztosítási intézkedés végrehajtása során felmerült költségek végrehajtási költségként történő felszámítása a kielégítési végrehajtás hatályának beálltát követően 8 napon belül történik. Végrehajtási eljárás hiányában a felmerült költségek felszámítására és érvényesítésére nem kerül sor, azokat az adóhatóság viseli.

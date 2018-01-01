@@ -1,0 +1,1 @@
+129. § Az 56. alcímben foglaltak alapján kell eljárni azon tartozások végrehajtása során is, amelyek az általános közigazgatási rendtartás alapján hozott döntésen alapuló fizetési kötelezettségnek minősülnek és egyben törvény az adók módjára való behajtásukat rendeli el.

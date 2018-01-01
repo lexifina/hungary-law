@@ -1,0 +1,1 @@
+17. § Ha az adóhatóság az adós kérelmére fizetési könnyítést vagy adómérséklést engedélyezett, a döntés véglegessé válásáig a kérelemmel érintett tartozás tekintetében – az 50. § (2) bekezdésében foglalt eseten kívül – végrehajtási cselekményt nem foganatosíthat.

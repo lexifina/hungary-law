@@ -1,0 +1,1 @@
+6. § A végrehajtási cselekmények közül azokat kell foganatosítani, amelyekkel a leghatékonyabban érhető el a végrehajtás célja, ugyanakkor az adósra nézve – az arányosság elvének figyelembevételével – a legkisebb mértékű korlátozással jár.

@@ -1,0 +1,7 @@
+87. § (1) Az adós és az adós jogán az ingatlanban lakó személyek – a (2) és (3) bekezdésben foglalt kivétellel – az árveréstől számított 30. napig, ha az adóhatóság ennél hosszabb határidőt adott a vételár megfizetésére, eddig az időpontig, jogorvoslat előterjesztése esetén pedig az erről szóló döntés rendelkezése szerint a döntés véglegessé válásától számított 15. napig kötelesek az ingatlant ingóságaiktól kiürítve elhagyni, és biztosítani, hogy a végrehajtó átadja azt az árverési vevőnek.
+
+(2) Az adós és a vele lakó személyek ideiglenesen mentesülnek a kiköltözési kötelezettség alól, ha a vételár kifizetése határidőben nem történt meg. Ebben az esetben a teljes vételár kifizetésétől számított 30 napon belül kell az említett személyeknek az értékesített ingatlanból kiköltözniük.
+
+(3) Az adóhatóság végzésével az adósnak az árverési hirdetmény közlésétől számított 15 napon belül előterjesztett kérelmére, legfeljebb az árverés időpontjától számított 6 hónapra halasztást engedélyezhet az értékesített ingatlan elhagyására.
+
+(4) Ha az adós, illetve az adós jogán az ingatlanban lakó személyek kiköltözési kötelezettségüknek határidőben nem tesznek eleget, az ingatlan kiürítése iránt a végrehajtó – szükség esetén a rendőrség, illetve az állami adó- és vámhatóság hivatásos állományú alkalmazottjának közreműködésével – intézkedik a Vht. vonatkozó rendelkezéseinek megfelelő alkalmazásával.
