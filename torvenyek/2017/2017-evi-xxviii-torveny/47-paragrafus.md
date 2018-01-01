@@ -1,0 +1,3 @@
+47. § (1) Az eredeti tulajdonos birtokából jogellenesen kikerült dologra vonatkozó tulajdonjogi igényre az eredeti tulajdonos választása szerint annak az államnak a joga alkalmazandó, amelynek területén az eltűnése időpontjában a dolog volt, vagy amelynek területén a tulajdonjogi igény elbírálásának időpontjában a dolog van.
+
+(2) Ha annak az államnak a joga, amelynek területén eltűnése időpontjában a dolog feküdt, nem nyújt védelmet a jóhiszemű birtokosnak, e személy igényelheti az annak az államnak a joga szerinti védelmet, amelynek területén az adott dolog a tulajdonjogi igény elbírálásának időpontjában van.

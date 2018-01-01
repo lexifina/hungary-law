@@ -1,0 +1,1 @@
+111. § Ha a külföldi határozat az annak elismerésére és végrehajtására a 2. § alapján alkalmazandó, Magyarország által kötött nemzetközi megállapodás feltételeinek nem felel meg, akkor is elismerhető és végrehajtható, ha az e törvény által megállapított feltételeknek megfelel. E rendelkezés alkalmazása szempontjából a viszonosságot az adott állammal fennállónak kell tekinteni.

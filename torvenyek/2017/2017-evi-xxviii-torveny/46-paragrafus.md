@@ -1,0 +1,3 @@
+46. § (1) Ha egy állam által kulturális javai közé tartozónak tekintett dolog olyan módon hagyja el az állam területét, amely a saját joga szerint a kivitel időpontjában jogellenes, akkor az állam által érvényesített tulajdonjogi igényre az igényt érvényesítő állam választása szerint ennek az államnak a jogát vagy annak a másik államnak a jogát kell alkalmazni, amelynek területén az adott dolog a tulajdonjogi igény elbírálásának időpontjában van.
+
+(2) Ha annak az államnak a joga, amely a jogellenesen elvitt dolgot a kulturális javai közé tartozónak tekinti, nem nyújt védelmet a jóhiszemű birtokosnak, e személy igényelheti az azon állam joga szerinti védelmet, amelynek területén az adott dolog a tulajdonjogi igény elbírálásának időpontjában van.

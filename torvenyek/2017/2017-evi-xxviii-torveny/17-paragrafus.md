@@ -1,0 +1,3 @@
+17. § (1) Azt a személyt, aki a személyes joga szerint cselekvőképtelen vagy korlátozottan cselekvőképes, a mindennapi életben tömegesen előforduló, és különösebb megfontolást nem igénylő, belföldön kötött és teljesített csekély jelentőségű szerződései szempontjából cselekvőképesnek kell tekinteni, ha a magyar jog szerint cselekvőképes lenne.
+
+(2) Azt a személyt, aki személyes joga szerint cselekvőképtelen vagy korlátozottan cselekvőképes, de a magyar jog szerint cselekvőképes lenne, egyéb vagyonjogi ügyletei szempontjából is cselekvőképesnek kell tekinteni, ha az ügylet jogkövetkezményeinek belföldön kell beállniuk.

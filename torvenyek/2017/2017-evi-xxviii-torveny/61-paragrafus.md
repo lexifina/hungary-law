@@ -1,0 +1,1 @@
+61. § Ha a szerződésen kívüli jogviszony jogosultjának és kötelezettjének szokásos tartózkodási helye – jogi személy esetén a létesítő okirata szerinti székhelye – a kötelemkeletkeztető jogi tény hatásának bekövetkezésekor ugyanabban az államban van, ennek az államnak a joga alkalmazandó.

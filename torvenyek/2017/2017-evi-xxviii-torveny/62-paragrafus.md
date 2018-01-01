@@ -1,0 +1,1 @@
+62. § Ha a szerződésen kívüli jogviszony szorosan összefügg egy, a felek között a szerződésen kívüli jogviszony keletkezésekor már meglévő másik jogviszonnyal, akkor a szerződésen kívüli jogviszonyra is e másik jogviszonyra irányadó jog alkalmazandó.

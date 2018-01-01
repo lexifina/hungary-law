@@ -1,0 +1,1 @@
+91. § A magyar bíróság joghatóságát – az e törvényben megállapított kivételekkel – megalapozza az is, ha az alperes anélkül, hogy kifogásolná a joghatóság hiányát, ellenkérelmet terjeszt elő (perbebocsátkozás).

@@ -1,0 +1,1 @@
+53. § A szerződés vagy valamely szerződési feltétel létrejöttét és érvényességét az a jog határozza meg, amely a szerződés vagy szerződési feltétel érvényessége esetén e törvény alapján alkalmazandó lenne.

@@ -1,0 +1,1 @@
+96. § Külföldi székhelyű vállalkozás elleni perben eljárhat magyar bíróság akkor is, ha a vállalkozás belföldön fiókteleppel vagy képviselettel rendelkezik, és a jogvita utóbbi tevékenységével kapcsolatos, ideértve azt az esetet is, amikor a szerződést belföldön, a külföldi székhelyű vállalkozás képviseletében kötötték.
