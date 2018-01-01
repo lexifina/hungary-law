@@ -6,6 +6,9 @@ b) Zalaegerszegi szennyvízkezelési projekt,
 
 c) Veszprémi szennyvízkezelési projekt.
 
-(2) E rendelet 1. számú melléklete állapítja meg az egyes beruházások megvalósításával összefüggő hatósági eljárásokban eljáró hatóságokat.
+(2)–(3)[^1]
 
-(3) Azokban az esetekben, ahol az 1. számú mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a szakhatóságként közreműködő szervet a 2. számú melléklet határozza meg.
+(4)[^2] Az (1) bekezdés alkalmazásában a beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek az (1) bekezdés szerinti beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+[^1]: Az 1. § (2)–(3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
