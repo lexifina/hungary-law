@@ -1,6 +1,6 @@
 ## 7. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-8. §[^6] (1) A mezőgazdasági vízhasználó – a 6. § (1) bekezdésében foglaltaktól eltérően – a vízszolgáltatás díjának változó költségeit az alábbiak szerint fizeti meg:
+8. §[^8] (1) A mezőgazdasági vízhasználó – a 6. § (1) bekezdésében foglaltaktól eltérően – a vízszolgáltatás díjának változó költségeit az alábbiak szerint fizeti meg:
 
 a) 2017. január 1. napja és 2018. december 31. napja között megfizeti a változó költségek felét, a fennmaradó részt a központi költségvetés biztosítja;
 
@@ -18,4 +18,4 @@ d) 2020. január 1. napja és 2020. december 31. napja között megfizeti az ál
 
 (3) 2021. január 1. napjától kezdődően a mezőgazdasági vízhasználó – a 6. § (1) bekezdésével összhangban – megfizeti az állandó költségek 50%-át, a fennmaradó részt a központi költségvetés biztosítja.
 
-[^6]: A 8. § a 232/2016. (VII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^8]: A 8. § a 232/2016. (VII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.

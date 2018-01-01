@@ -1,6 +1,6 @@
-4/A. §[^3] (1) A vízszolgáltatási fürtre vonatkozó alapdíjtételt a vízszolgáltatási fürtre egy mezőgazdasági vízszolgáltatási idényre eső összes állandó költség és az adott mezőgazdasági fürtre vonatkozó vízjogi engedélyben lekötött vízmennyiség hányadosaként kell megállapítani.
+4/A. §[^3] (1)[^4] A vízszolgáltatási fürtre vonatkozó alapdíjtételt a vízszolgáltatási fürtre egy mezőgazdasági vízszolgáltatási idényre eső összes állandó költség és az adott mezőgazdasági fürtben tárgyévben mezőgazdasági vízszolgáltatást igénybe vevők vízjogi engedélyeiben lekötött vízmennyiség hányadosaként kell megállapítani.
 
-(2) A vízszolgáltatási fürtre vonatkozó változó díjtételt a vízszolgáltatási fürtre egy mezőgazdasági vízszolgáltatási idényre eső összes változó költség és az adott mezőgazdasági fürtre vonatkozó vízjogi engedélyben lekötött vízmennyiség hányadosaként kell megállapítani.
+(2)[^5] A vízszolgáltatási fürtre vonatkozó változó díjtételt a vízszolgáltatási fürtre egy mezőgazdasági vízszolgáltatási idényre eső összes változó költség és az adott mezőgazdasági fürtben tárgyévben mezőgazdasági vízszolgáltatást igénybe vevők vízjogi engedélyeiben lekötött vízmennyiség hányadosaként kell megállapítani.
 
 (3) A vízszolgáltatási fürtben egy mezőgazdasági vízhasználó által a vízhasználatért fizetendő alapdíjat az (1) bekezdés szerinti alapdíjtétel és a vízhasználó adott vízhasználatra kiadott vízjogi engedélyében meghatározott vízmennyiség szorzata adja.
 
@@ -11,3 +11,5 @@
 (6) A mezőgazdasági vízszolgáltatási díjat általános forgalmi adó nélkül kell meghatározni.
 
 [^3]: A 4/A. §-t a 232/2016. (VII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^4]: A 4/A. § (1) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
+[^5]: A 4/A. § (2) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.

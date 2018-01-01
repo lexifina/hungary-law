@@ -1,4 +1,4 @@
-6. §[^5] (1) A mezőgazdasági vízhasználó a részére továbbított víz teljes mennyiségének megfelelő vízszolgáltatás – központi költségvetést terhelő, vízszolgáltatási díj állandó költségének felével csökkentett – díját fizeti meg a vele közvetlen kapcsolatban álló mezőgazdasági vízszolgáltatónak.
+6. §[^7] (1) A mezőgazdasági vízhasználó a részére továbbított víz teljes mennyiségének megfelelő vízszolgáltatás – központi költségvetést terhelő, vízszolgáltatási díj állandó költségének felével csökkentett – díját fizeti meg a vele közvetlen kapcsolatban álló mezőgazdasági vízszolgáltatónak.
 
 (2) A mezőgazdasági vízhasználóval közvetlen kapcsolatban álló mezőgazdasági vízszolgáltató megfizeti az általa átvett teljes vízmennyiségnek megfelelő vízszolgáltatás ellenértékének a központi költségvetési támogatással csökkentett részét annak a mezőgazdasági vízszolgáltatónak vagy vízügyi igazgatási szervnek, akitől a vizet átvette.
 
@@ -14,4 +14,4 @@ b) az egyes mezőgazdasági vízszolgáltatók egymás közötti szolgáltatási
 
 c) a mezőgazdasági vízszolgáltató és a mezőgazdasági vízhasználó közötti szolgáltatási
 
-[^5]: A 6. § a 232/2016. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^7]: A 6. § a 232/2016. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.

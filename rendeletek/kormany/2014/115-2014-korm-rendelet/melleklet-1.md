@@ -1,6 +1,6 @@
 ## 9. § Ez a rendelet a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
 
-1. melléklet a 115/2014. (IV. 3.) Korm. rendelethez[^9]
+1. melléklet a 115/2014. (IV. 3.) Korm. rendelethez[^11]
 
 1. táblázat
 
@@ -142,4 +142,4 @@ A fenntartási, karbantartási költségek költségkalkulációs sémája
 
 | 4.3. |  | töltéskorona és burkolat karbantartás, km | 1 |  |  |
 
-[^9]: Az 1. melléklet a 232/2016. (VII. 29.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^11]: Az 1. melléklet a 232/2016. (VII. 29.) Korm. rendelet 12. §-a szerint módosított szöveg.

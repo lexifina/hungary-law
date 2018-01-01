@@ -8,7 +8,7 @@ c) az a) pont szerinti létesítmények, eszközök értékcsökkenését, illet
 
 d) az engedélyezési hatósági eljárásért fizetett illetéket vagy igazgatási szolgáltatási díjat, a jogszabályon alapuló környezetvédelmi kötelezettségek teljesítése érdekében végzett beruházások, mérések és vizsgálatok költségét.
 
-(2)[^4] Az (1) bekezdésben szabályozott ráfordításokat és költségeket
+(2)[^6] Az (1) bekezdésben szabályozott ráfordításokat és költségeket
 
 a) az egy mezőgazdasági vízszolgáltatási idényre eső üzemeltetési költségeknek az előző öt év átlaga és az éves infláció figyelembevételével,
 
@@ -20,4 +20,4 @@ b) a fenntartási és karbantartási költségek esetében az 1. melléklet 2. t
 
 (4) A belvízi védekezésben érintett, kettős működésű csatornaszakaszra elrendelt védekezés esetén – ha a főbefogadóba többlet vízbeemelés szükséges – a vízhasználó egyidejű vízkivétele térítésmentes, ha a vízhasználó a vízkivétellel járó vízminőségi kockázatot vállalja.
 
-[^4]: Az 5. § (2) bekezdése a 232/2016. (VII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^6]: Az 5. § (2) bekezdése a 232/2016. (VII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
