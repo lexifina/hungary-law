@@ -10,8 +10,8 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 (3) A (2) bekezdésben meghatározott személyes adatokat a külön jogszabályban meghatározott hatóság
 
-a) a tevékenységi engedély iránti eljárás jogerős befejezéséig vagy
+a) a tevékenységi engedély iránti eljárás véglegessé vált döntéssel történő befejezéséig vagy
 
-b) a tevékenységi engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy a tevékenységi engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+b) a tevékenységi engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy a tevékenységi engedély visszavonására irányuló eljárásban az eljárás véglegessé vált döntéssel történő befejezéséig
 
 kezeli.

@@ -26,17 +26,25 @@ ec) az értesítés alapján az előzetes szakmai értékelést végző szakért
 
 ed) az új pszichoaktív anyaggal végezhető tevékenységek részletes feltételeit, az e tevékenységre jogosító engedély iránti kérelem benyújtásának szabályait és az engedély kiadásának rendjét, továbbá
 
-ee) a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket
+ee) a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
+
+f) az emberi felhasználásra kerülő gyógyszerek gyártásának és forgalomba hozatalának engedélyezésére vonatkozó szabályokat,
+
+g) az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezésére vonatkozó szabályokat,
+
+h) a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenység végzésének engedélyezésére vonatkozó szabályokat,
+
+i) a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumok felügyeletére vonatkozó részletes szabályokat
 
 rendeletben szabályozza.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy
 
-a) a gyógyszerek forgalomba hozatali engedély kiadásával kapcsolatos eljárás részletes szabályait, az engedélyezés feltételeit, továbbá a forgalomból való kivonás, illetve a forgalmazás felfüggesztésének rendjét,
+a) a gyógyszerek forgalomba hozatali engedélyezésének feltételeit, továbbá a forgalomból való kivonás, illetve a forgalmazás felfüggesztésének rendjét,
 
 b) az e törvény hatálya alá tartozó gyógyszerek különböző típusait,
 
-c) a helyes laboratóriumi gyakorlat alapelveire és követelményeire vonatkozó, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumok működésére és felügyeletére vonatkozó részletes szabályokat,
+c) a helyes laboratóriumi gyakorlat alapelveire és követelményeire vonatkozó, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumok működésére vonatkozó részletes szabályokat,
 
 d) a klinikai vizsgálatok szakmai feltételeit, a klinikai vizsgálatok engedélyezéséhez szükséges dokumentációt, az engedélyezési eljárás részletes szabályait, a kutatásetikai bizottság eljárását, valamint a klinikai vizsgálatok végzésének és ezek ellenőrzésének szakmai feltételeit,
 
@@ -86,9 +94,9 @@ rendeletben szabályozza.
 
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg
 
-a) a kábítószerekkel, illetve pszichotróp anyagokkal kapcsolatos egyes engedélyezési eljárásokért, illetve az engedély kiadásáért, módosításáért,
+a) a kábítószerekkel, illetve pszichotróp anyagokkal kapcsolatos egyes engedélyezési és nyilvántartásba vételi eljárásokért, illetve az engedély kiadásáért, módosításáért,
 
-b) az új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési eljárásokért, illetve az engedély kiadásáért, módosításáért
+b) az új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési és nyilvántartásba vételi eljárásokért, illetve az engedély kiadásáért, módosításáért,
 
 c)
 

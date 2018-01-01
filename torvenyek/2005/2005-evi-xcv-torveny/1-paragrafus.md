@@ -130,4 +130,6 @@ függetlenül attól, hogy ez sérti-e a szellemi tulajdonjogot.
 
 50. támogatási intenzitás: az Atr. szerinti intenzitás;
 
-51. támogatástartalom: az Atr. szerinti tartalom.
+51. támogatástartalom: az Atr. szerinti tartalom;
+
+52. folyamatos ellátás: a forgalomba hozatali engedély jogosultjával vagy abban az esetben, ha az belföldön forgalmazási tevékenységet nem végez, a forgalmazóval szerződött gyógyszer-nagykereskedők megrendeléseinek szokásos üzletmenet szerinti kielégítése,

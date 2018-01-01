@@ -18,4 +18,4 @@ a) az elrendelés oka megszűnt, vagy
 
 b) a gyógyszerészeti államigazgatási szerv egészségügyi termék hamisítása tárgyában tett feljelentése alapján indult büntetőeljárásban a bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelte, vagy a bíróság jogerős ügydöntő határozatában elektronikus adat végleges hozzáférhetetlenné tételét rendelte el.
 
-(8) A gyógyszerészeti államigazgatási szerv a jogkövető magatartás elősegítése és a betegek tájékoztatása érdekében honlapján, az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a jogerős ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését és megjelölését.
+(8) A gyógyszerészeti államigazgatási szerv a jogkövető magatartás elősegítése és a betegek tájékoztatása érdekében honlapján, az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a annak a honlapnak az elnevezését és megjelölését, amelynek tekintetében a véglegessé vált döntésével ideiglenes hozzáférhetetlenné tételt rendelt el.

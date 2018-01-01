@@ -14,6 +14,10 @@
 
 (7) A gyógyszerészeti államigazgatási szerv a Magyarországon forgalomba hozatalra engedélyezett, gyógyszernek nem minősülő gyógyhatású készítmények nevéről és az engedélyezés dátumáról közhiteles hatósági nyilvántartást vezet.
 
-(8) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott engedélyezési és ellenőrzési eljárásokban hozott döntés végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajtható.
+(8)
 
-(9) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott engedélyezési eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(9) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott engedélyezési eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(10) Az e törvényben meghatározott engedélyezési és ellenőrzési eljárásokban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
+
+(11) Az e törvény hatálya alá tartozó engedélyezési és ellenőrzési eljárásokban az ügyintézési határidőbe nem számítanak be az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló az Európai Parlament és a Tanács 2001. november 6-i 2001/83/EK irányelvében meghatározott időtartamok sem.

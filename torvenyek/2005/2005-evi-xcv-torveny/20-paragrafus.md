@@ -32,11 +32,11 @@ a) egymillió forintot meghaladó összegű pénzbírságot megállapító, vagy
 
 b) ismételt jogszabálysértés esetén az egymillió forintot meg nem haladó összegű pénzbírságot megállapító
 
-jogerős határozatát a (10) bekezdésben meghatározott tartalommal teszi közzé.
+véglegessé vált határozatát a (10) bekezdésben meghatározott tartalommal közhírré teszi.
 
-(10) A közétett dokumentumnak tartalmaznia kell:
+(10) A közhírré tett dokumentumnak tartalmaznia kell:
 
-a) a közzététel napját,
+a) a közhírré tétel napját,
 
 b) az eljáró hatóság megnevezését,
 
@@ -52,12 +52,12 @@ g) a döntés rendelkező részét, valamint
 
 h) a döntéssel szembeni jogorvoslati eljárás tényét.
 
-(11) A gyógyszerészeti államigazgatási szerv a jogorvoslati eljárás során hozott, a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutását követően haladéktalanul – a döntés közzétételével megegyező módon – közzéteszi:
+(11) A gyógyszerészeti államigazgatási szerv a jogorvoslati eljárás során hozott, a közhírré tett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutását követően haladéktalanul – a döntés közhírré tételével megegyező módon – közhírré teszi:
 
 a) a jogorvoslattal érintett döntésre vonatkozó (10) bekezdés szerinti információkat,
 
 b) a jogorvoslati eljárás során hozott hatósági döntést vagy bírósági határozatot, annak rövid indokolását, valamint
 
-c) a közzététel napját.
+c) a közhírré tétel napját.
 
 (12) A gyógyszerészeti államigazgatási szerv a hatósági ellenőrzés és az ellenőrzési eljárás során a (3) bekezdés a)–d) pontjában foglaltakat ideiglenes intézkedésként is meghozhatja.

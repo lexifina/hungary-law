@@ -34,7 +34,7 @@ f) cégjegyzékszámát, nem gazdasági társaságként működő gazdálkodó s
 
 g) kábítószer felelősének nevét.
 
-(11) Az egészségügyi államigazgatási szerv a díszítő mák és kannabisz exportját, importját, transzferét végző, a tisztítatlan mákszalmamaradványokkal szennyezett mákmagot felvásárló, illetve annak tisztítását végző, valamint ipari mákszalmát, kifejtetlen máktokot és kannabiszt továbbhasznosítás céljából tároló, továbbá új pszichoaktív anyagot ipari célra használó, exportáló, importáló, új pszichoaktív anyag transzferét és forgalmazását végző gazdálkodó szervezetekről nyilvántartást vezet.
+(11) Az egészségügyi államigazgatási szerv a tisztítatlan ipari mákszalmamaradványokkal szennyezett mákmagot, ipari mák kifejtetlen tokját felvásárló, illetve annak szétválasztását és tisztítását végző, valamint tisztítás utáni ipari mákvetőmag fémzárolását, ipari mákszalma pellettálását, további ipari mákszalmát, kifejtetlen máktokot és kannabiszt, valamint magas THC-tartalmú kendert tároló, annak megsemmisítését végző gazdálkodó szervezetekről nyilvántartást vezet.
 
 (12) A (11) bekezdés szerinti nyilvántartás tartalmazza:
 
@@ -52,7 +52,17 @@ c) a tevékenység jellegének és helyének pontos megjelölését,
 
 d) a kábítószerért felelős személy megnevezését,
 
-e) a cégjegyzékszámot, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát.
+e) a cégjegyzékszámot, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát,
+
+f) a tevékenységgel érintett ellenőrzött anyag nevét,
+
+g) a tárolóhely és a tárolási rend rövid leírását,
+
+h) a biztonsági berendezések, intézkedések leírását,
+
+i) a gazdálkodó szervezettel szerződésben álló tevékenységi engedéllyel rendelkező nevét,
+
+j) alvállalkozó nevét.
 
 (13) A (11) bekezdés szerinti nyilvántartás a (12) bekezdés a)–c) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
 

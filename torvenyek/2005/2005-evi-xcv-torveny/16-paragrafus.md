@@ -4,9 +4,13 @@
 
 (1a) Az (1) bekezdés szerinti forgalmazás felfüggesztésének vagy megszüntetésének indokait a forgalomba hozatali engedély jogosultja ismerteti a gyógyszerészeti államigazgatási szervvel, melynek keretében nyilatkozni kell arról, hogy a forgalmazás felfüggesztésére vagy megszüntetésére a 18. § (5) bekezdés a)–e) pontjában említett okból van-e szükség.
 
-(2) Ha a forgalomba hozatali engedély jogosultja Magyarországon a gyógyszerrel a folyamatos ellátást nem tudja biztosítani, a készítményt átmenetileg vagy tartósan nem tudja vagy nem kívánja forgalmazni, ezt a tényt, valamint ennek időtartamát, az ezen idő alatt is elérhető mennyiség nagyságrendjét a vele szerződéses jogviszonyban álló gyógyszer-nagykereskedőkkel, a gyógyszerészeti államigazgatási szervvel és közfinanszírozásban részesülő gyógyszer esetén az egészségbiztosítási szervvel haladéktalanul tudatni köteles.
+(2) Ha a forgalomba hozatali engedély jogosultja vagy – közfinanszírozásban részesülő gyógyszer esetén, amennyiben a forgalomba hozatali engedély jogosult belföldön forgalmazási tevékenységet nem végez – a forgalmazó Magyarországon a gyógyszerrel a folyamatos ellátást nem tudja biztosítani, a készítményt átmenetileg vagy tartósan nem tudja vagy nem kívánja forgalmazni, ezt a tényt, valamint ennek időtartamát, az ezen idő alatt is elérhető mennyiség nagyságrendjét a vele szerződéses jogviszonyban álló gyógyszer-nagykereskedőkkel, a gyógyszerészeti államigazgatási szervvel és közfinanszírozásban részesülő gyógyszer esetén az egészségbiztosítási szervvel haladéktalanul tudatni köteles.
+
+(2a) A közfinanszírozásban részesülő gyógyszerrel való folyamatos ellátásról a forgalomba hozatali engedély jogosultja, ennek hiányában a forgalmazó köteles gondoskodni.
 
 (3) A gyógyszer-nagykereskedelmi engedély jogosultja köteles azon gyógyszereket beszerezni és forgalmazni, amelyek forgalmazására nagykereskedelmi tevékenységi engedélyt kapott.
+
+(3a) A gyógyszer-nagykereskedelmi engedély jogosultja a (3) bekezdés szerinti forgalmazási tevékenysége körében köteles a megrendelések szokásos üzletmenet szerinti arányos kielégítése mellett a betegellátási szükségletet is figyelembe venni.
 
 (4) A gyógyszertár működtetőjének ellátási felelősségéről a gyógyszertárak létesítéséről és működésük egyes szabályairól külön jogszabály rendelkezik.
 
