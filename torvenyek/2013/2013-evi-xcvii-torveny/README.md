@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-97-00-00
 | 2016-07-01 | 2016. évi XXXVIII. törvény | 2013-97-00-00.5 |
 | 2017-01-01 | 2016. évi CIV. törvény | 2013-97-00-00.6 |
 | 2017-07-01 | 2017. évi LIV. törvény | 2013-97-00-00.7 |
+| 2018-01-01 | 2017. évi L. törvény | 2013-97-00-00.8 |

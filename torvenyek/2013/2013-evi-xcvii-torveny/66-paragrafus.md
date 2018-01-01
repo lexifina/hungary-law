@@ -6,4 +6,4 @@
 
 (4) A honvédelmi bírság ugyanazon kötelezettség ismételt megszegése esetén újra kiszabható.
 
-(5) A kormányhivatal az eljárás kezdeményezésére jogosult értesítése alapján a honvédelmi bírság megfizetése alól mentesíti azt, aki a kötelezettségének az annak kiszabását elrendelő határozat jogerőre emelkedéséig önként eleget tett. Ebben az esetben a kormányhivatal a határozatot visszavonja.
+(5) A kormányhivatal az eljárás kezdeményezésére jogosult értesítése alapján a honvédelmi bírság megfizetése alól mentesíti azt, aki a kötelezettségének az annak kiszabását elrendelő határozat véglegessé válásáig önként eleget tett. Ebben az esetben a kormányhivatal a határozatot visszavonja.
