@@ -1,3 +1,1 @@
-## 6–8. §[^3]
-
-[^3]: A 6–8. § a 10. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## 8. § A Miniszterelnökséget vezető miniszter a Zala Megyei Kormányhivatal útján biztosítja az elektronikus ügyintézés részletszabályairól szóló kormányrendeletben meghatározott tudástár alkalmazás szintű üzemeltetését.
