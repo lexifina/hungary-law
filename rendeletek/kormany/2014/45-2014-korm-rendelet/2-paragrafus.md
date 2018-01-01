@@ -16,7 +16,7 @@ g) olyan kivitelezési szerződésre, amelynek tárgya új építmény építés
 
 h) a lakóépület lakáscélú bérbeadására irányuló szerződésre, kivéve a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló törvény szerinti ingatlanközvetítői tevékenységre, valamint ingatlanvagyon-értékelő és közvetítői tevékenységre irányuló szerződést;
 
-i) az utazási szerződésre;
+i)[^2] az utazási szolgáltatásra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesekre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet eltérő rendelkezése hiányában az utazási csomagra vonatkozó szerződésekre;
 
 j) a szállás időben megosztott használati jogára, a hosszú távra szóló üdülési termékekre vonatkozó szerződésekről, valamint a tartós szálláshasználati szolgáltatási tevékenységről szóló kormányrendelet hatálya alá tartozó szerződésre;
 
@@ -27,3 +27,5 @@ l) élelmiszer és egyéb mindennapi fogyasztásra szánt terméknek a fogyaszt�
 m) az automata vagy automatizált üzlethelyiség útján kötött szerződésre;
 
 n) az elektronikus hírközlési szolgáltatóval nyilvános telefonállomás igénybevétele útján annak igénybevétele céljából, vagy telefon-, internet- vagy telefax-összeköttetés egyszeri igénybevétele céljából kötött szerződésre.
+
+[^2]: A 2. § i) pontja a 474/2017. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

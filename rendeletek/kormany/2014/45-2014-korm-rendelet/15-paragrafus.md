@@ -1,9 +1,9 @@
 ## 14. § Távollévők között kötött szerződés esetén a vállalkozás a 11. § (1) bekezdésében előírt tájékoztatást – világos és közérthető nyelven – a fogyasztóval közli, vagy azt a fogyasztó számára elérhetővé teszi az alkalmazott távollévők közötti kommunikációt lehetővé tévő eszköznek megfelelő módon. A tartós adathordozón rendelkezésre bocsátott tájékoztatásnak olvashatónak kell lennie.
 
-15. § (1)[^12] Ha a távollevők közötti, elektronikus úton kötött szerződés a fogyasztó számára fizetési kötelezettséget keletkeztet, a vállalkozás egyértelműen és jól látható módon, közvetlenül a fogyasztó szerződési nyilatkozatának megtétele előtt felhívja a fogyasztó figyelmét a 11. § (1) bekezdés a), e), f), p) és r) pontjában meghatározott információkra.
+15. § (1)[^13] Ha a távollevők közötti, elektronikus úton kötött szerződés a fogyasztó számára fizetési kötelezettséget keletkeztet, a vállalkozás egyértelműen és jól látható módon, közvetlenül a fogyasztó szerződési nyilatkozatának megtétele előtt felhívja a fogyasztó figyelmét a 11. § (1) bekezdés a), e), f), p) és r) pontjában meghatározott információkra.
 
 (2) Az (1) bekezdésben meghatározott esetben a vállalkozás köteles gondoskodni arról, hogy a fogyasztó a szerződési nyilatkozatának megtételekor kifejezetten tudomásul vegye, hogy nyilatkozata fizetési kötelezettséget von maga után. Ha a nyilatkozat megtétele gomb vagy hasonló funkció aktiválásával jár, a gombot vagy a hasonló funkciót könnyen olvasható módon fizetési kötelezettséggel járó megrendelés vagy ennek megfelelő, egyértelműen megfogalmazott felirattal kell ellátni, amely jelzi, hogy a szerződési nyilatkozat megtétele a vállalkozás javára teljesítendő fizetési kötelezettséget von maga után. Ha a vállalkozás nem tett eleget e bekezdésben foglalt kötelezettségének, a szerződés semmis. A semmisségre csak a fogyasztó érdekében lehet hivatkozni.
 
 (3) A kereskedelmi célú internetes honlappal rendelkező vállalkozás köteles legkésőbb a fogyasztó szerződéses ajánlatának megtételekor egyértelműen és olvashatóan feltüntetni az esetleges fuvarozási korlátozásokat és az elfogadott fizetési módokat.
 
-[^12]: A 15. § (1) bekezdése a 453/2016. (XII. 19.) Korm. rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^13]: A 15. § (1) bekezdése a 453/2016. (XII. 19.) Korm. rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.

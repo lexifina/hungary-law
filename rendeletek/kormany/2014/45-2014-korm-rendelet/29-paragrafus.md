@@ -18,7 +18,7 @@ f) olyan termék tekintetében, amely jellegénél fogva az átadást követően
 
 g) olyan alkoholtartalmú ital tekintetében, amelynek tényleges értéke a vállalkozás által nem befolyásolható módon a piaci ingadozásoktól függ, és amelynek áráról a felek az adásvételi szerződés megkötésekor állapodtak meg, azonban a szerződés teljesítésére csak a megkötéstől számított harmincadik napot követően kerül sor;
 
-h)[^16] – a (2) bekezdésben foglalt kivétellel – olyan vállalkozási szerződés esetében, amelynél a vállalkozás a fogyasztó kifejezett kérésére keresi fel a fogyasztót sürgős javítási vagy karbantartási munkálatok elvégzése céljából;
+h)[^17] – a (2) bekezdésben foglalt kivétellel – olyan vállalkozási szerződés esetében, amelynél a vállalkozás a fogyasztó kifejezett kérésére keresi fel a fogyasztót sürgős javítási vagy karbantartási munkálatok elvégzése céljából;
 
 i) lezárt csomagolású hang-, illetve képfelvétel, valamint számítógépes szoftver példányának adásvétele tekintetében, ha az átadást követően a fogyasztó a csomagolást felbontotta;
 
@@ -32,4 +32,4 @@ m) a nem tárgyi adathordozón nyújtott digitális adattartalom tekintetében, 
 
 (2) Az (1) bekezdés h) pontjában meghatározott esetben a 20. § szerinti jog a fogyasztó által kifejezetten kért szolgáltatásokon és a karbantartás vagy a javítás elvégzéséhez felhasznált cserealkatrészeken felül kínált szolgáltatásokra vagy termékekre kiterjed.
 
-[^16]: A 29. § (1) bekezdés h) pontja a 107/2017. (IV. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^17]: A 29. § (1) bekezdés h) pontja a 107/2017. (IV. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
