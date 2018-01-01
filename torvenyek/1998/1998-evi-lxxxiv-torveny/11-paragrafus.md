@@ -22,6 +22,6 @@ j) a gyermekotthonban, javítóintézetben, büntetés-végrehajtási intézetbe
 
 (2) A köznevelési intézményben a tizennyolcadik életévének betöltését követően tanulmányokat folytató azon személyre tekintettel, aki után a tizennyolcadik életéve betöltéséig az (1) bekezdés g) vagy h) pontja szerinti összegben folyósítottak iskoláztatási támogatást, az iskoláztatási támogatást továbbra is a korábban folyósított összegnek megfelelő összegben kell folyósítani. Más jogszabály alkalmazásában magasabb összegű családi pótléknak minősül az (1) bekezdés g)–i) pontja szerinti, valamint az e bekezdés alapján folyósított ellátás.
 
-(3) A tartósan beteg, illetve súlyosan fogyatékos gyermekre tekintettel vagy személy részére járó magasabb összegű családi pótlék annak a hónapnak a végéig jár, ameddig a betegség, súlyos fogyatékosság fennállását a külön jogszabályban előírtak szerint igazolták.
+(3) A tartósan beteg, illetve súlyosan fogyatékos gyermekre tekintettel vagy személy részére járó magasabb összegű családi pótlék annak a hónapnak a végéig jár, ameddig a betegség, súlyos fogyatékosság fennállását igazolták.
 
 (4) Ha a kiskorú szülő gyermekének nincs gyámja, vagy ha a tizenhatodik életévét betöltött kiskorú szülő a saját háztartásában nevelt gyermekének gyámjával a Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:152. § (4) bekezdése szerint nem él egy háztartásban, a családi pótlékot a kiskorú szülő részére kell megállapítani.

@@ -22,7 +22,9 @@ g) a jogosult, a jogosult házastársának, bejegyzett élettársának, élettá
 
 h) az ellátásra jogosító gyermek tartós betegségére, súlyos fogyatékosságára vonatkozó adat;
 
-i) a magasabb összegű családi pótlékban részesülő, 18. életévét betöltött jogosult munkaképesség-csökkenése, illetve egészségkárosodása mértékére vonatkozó adat.
+i) a magasabb összegű családi pótlékban részesülő, 18. életévét betöltött jogosult munkaképesség-csökkenése, illetve egészségkárosodása mértékére vonatkozó adat;
+
+j) a 2. § c) pont cb) alpontjában meghatározott személy nevére a szomszédos államokban élő magyarokról szóló törvény alapján kiadott „Magyar igazolvány” sorszámára vonatkozó adat.
 
 (2a) A (2) bekezdés h) pontja szerinti adatkör tekintetében az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 

@@ -2,7 +2,7 @@
 
 a) a szülők a gyermek születését megelőzően nyilatkozatban hozzájárultak a gyermek örökbefogadásához;
 
-b) a megszületett gyermek a gyámhatóság jogerős határozata alapján családból kikerülést eredményező gyermekvédelmi gondoskodásban részesül.
+b) a megszületett gyermek a gyámhatóság végleges határozata alapján családból kikerülést eredményező gyermekvédelmi gondoskodásban részesül.
 
 (2) Az anyasági támogatás – a szülést követő hat hónapon belül benyújtott igény esetén – megilleti a jogosultat, ha
 

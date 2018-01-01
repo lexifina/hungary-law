@@ -12,7 +12,9 @@ d) a Diákhitel Központ Zrt. a célzott kamattámogatás megállapításához �
 
 e) a települési önkormányzat képviselő-testülete az Szt. szerint a hatáskörébe tartozó pénzbeli és természetbeni ellátások feltételeinek meghatározása érdekében szükséges adatokat,
 
-f) a menekültügyi hatóság a menedékjogról szóló törvény szerint a hatáskörébe tartozó támogatások jogosultsági feltételeinek meghatározása érdekében szükséges adatokat
+f) a menekültügyi hatóság a menedékjogról szóló törvény szerint a hatáskörébe tartozó támogatások jogosultsági feltételeinek meghatározása érdekében szükséges adatokat,
+
+g) a nevelési-oktatási intézmény a feladatkörébe tartozó támogatások, kedvezmények megállapításához szükséges adatokat
 
 közvetlen lekérdezéssel díjmentesen elérheti.
 

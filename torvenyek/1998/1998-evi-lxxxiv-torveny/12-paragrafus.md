@@ -16,7 +16,7 @@ a) aki kül- és belföldi tanulmányai folytatása vagy gyógykezelése okán �
 
 b) akit szociális intézményben 30 napot meg nem haladóan helyeztek el, vagy
 
-c) aki a szülő kérelmére átmeneti gondozásban részesül, vagy szülőjével együtt családok átmeneti otthonában [Gyvt. 49–51. §] tartózkodik.
+c) aki a szülő kérelmére vagy beleegyezésével a Gyvt. VI/D. Fejezetében meghatározott átmeneti gondozásban részesül.
 
 (3) A családi pótlék összegének megállapítása szempontjából egyedülállónak kell tekinteni azt a szülőt, gyámot is, aki saját maga, illetve akinek a házastársa, élettársa
 

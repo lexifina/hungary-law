@@ -4,16 +4,10 @@
 
 ## Az igényelbírálás szabályai
 
-34. § (1) A családtámogatási ellátás (a továbbiakban: ellátás) iránti kérelmet írásban kell előterjeszteni. Egyidejűleg a kérelemhez csatolni kell az elbíráláshoz szükséges tények, adatok igazolását.
+34. § (1) A családtámogatási eljárásban a kérelmet írásban kell előterjeszteni.
 
-(2) Ha családtámogatással összefüggő elsőfokú eljárásban
-
-a) az egészségkárosodás mértéke és az egészségkárosodásnak a kérelmező 18. életéve előtti fennállása,
-
-b) az egészségkárosodás felülvizsgálatának szükségessége,
-
-c) a felülvizsgálat szükségessége esetén annak időpontja
-
-kérdését szakkérdésként kell vizsgálni, az ügyintézési határidő negyven nap.
+(2)
 
 (3) Az uniós rendeletek alapján lefolytatott eljárások ügyintézési határidejére az uniós rendeletek szabályai irányadók.
+
+(4) A 2. § c) pont ca) alpontjában meghatározott személy által anyasági támogatás megállapítása iránt benyújtott kérelem esetén, ha a gyermek külföldön történt születésének hazai anyakönyvezése még nem történt meg, a családtámogatási eljárás lefolytatására az általános közigazgatási rendtartásról szóló törvény kapcsolódó eljárásra vonatkozó szabályait kell alkalmazni.
