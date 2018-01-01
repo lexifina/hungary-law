@@ -1,5 +1,5 @@
 77. § Hatályát veszti
 
-a)
+a) az Áfa tv. 3/A. számú melléklet II. rész 4. pontja;
 
 b)
