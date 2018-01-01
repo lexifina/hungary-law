@@ -8,6 +8,6 @@
 
 (3) A hozamfelosztási szabályzatnak rendelkeznie kell a be- és kilépő tagok esetében követendő eljárásról is.
 
-(4)[^68] Amennyiben a pénztár elszámolóegységre épülő nyilvántartási rendszert működtet, akkor a (2) bekezdésben lévő előírásokat az egyéni számlák, illetve a függő számlákhoz kapcsolódó portfolió vonatkozásában nem kell alkalmazni.
+(4)[^64] Amennyiben a pénztár elszámolóegységre épülő nyilvántartási rendszert működtet, akkor a (2) bekezdésben lévő előírásokat az egyéni számlák, illetve a függő számlákhoz kapcsolódó portfolió vonatkozásában nem kell alkalmazni.
 
-[^68]: A 28. § (4) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^64]: A 28. § (4) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be.

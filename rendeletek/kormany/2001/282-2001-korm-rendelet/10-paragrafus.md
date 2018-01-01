@@ -26,7 +26,7 @@ e) a pénztár befektetéssel foglalkozó alkalmazottai, a letétkezelő, a vagy
 
 (6)[^14] A vagyonkezelési irányelvek esetében referenciaindex alatt értendő a kezelt portfolió jellemző összetételét tükröző tőkepiaci index vagy több tőkepiaci index kombinációja, melynek adott időszak alatti változása összehasonlítható a kezelt portfolió adott időszak alatti, az adott portfolióval kapcsolatos pénzáramlást figyelembe vevő vagyonkezelői hozamrátával. A vagyonkezelési irányelvekben foglalt referenciaindexeknek összességében összhangban kell állniuk a pénztárszintű befektetési politika referenciaindexével. Abszolút hozamra törekvő portfoliók esetében referenciaindexként a megcélzott hozamszintet tükröző mutató is alkalmazható, ekkor azonban az abszolút hozamra törekvő stratégiát, illetve a mutatót előzetesen a befektetési politikában rögzíteni kell. Az abszolút hozamra törekvő stratégia célja, hogy a piaci tendenciáktól függetlenül folyamatosan pozitív hozamot biztosítson a pénztárnak.
 
-(7)[^15] A befektetési politikát a pénztár a tevékenységi engedély hatálybalépését követő 180 napon belül egy alkalommal köteles – az annak elfogadását követő 15 napon belül – a Felügyelethez benyújtani. A Felügyelet megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak.
+(7)[^15] A befektetési politikát a pénztár a tevékenységi engedély véglegessé válását követő 180 napon belül egy alkalommal köteles – az annak elfogadását követő 15 napon belül – a Felügyelethez benyújtani. A Felügyelet megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak.
 
 (8) Az igazgatótanács legalább évente köteles döntést hozni a befektetési politika fenntartása vagy módosítása kérdésében. A meghozott döntésről az igazgatótanács legkésőbb a pénztár közgyűlésének soron következő ülésén ad tájékoztatást.
 
@@ -42,4 +42,4 @@ b) a pénztártaggal kérésére, a pénztár SzMSz-ében szabályozott módon i
 [^12]: A 10. § (1) bekezdésének a) pontja a 369/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.
 [^13]: A 10. § (1) bekezdésének b) pontja a 234/2006. (XI. 24.) Korm. rendelet 15. § (4) bekezdése szerint módosított szöveg.
 [^14]: A 10. § (6) bekezdésének harmadik és negyedik mondatát a 234/2006. (XI. 24.) Korm. rendelet 1. §-a iktatta be.
-[^15]: A 10. § (7) bekezdése e rendelet 30. §-ának (4) bekezdésével megállapított szöveg.
+[^15]: A 10. § (7) bekezdése e rendelet 30. § (4) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 103. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-282-20-
 | 2014-03-15 | 2001-282-20-22.27 | 80/2014. (III. 14.) Korm. rendelet |
 | 2014-09-05 | 2001-282-20-22.28 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2016-01-01 | 2001-282-20-22.29 | 369/2007. (XII. 23.) Korm. rendelet |
+| 2018-01-01 | 2001-282-20-22.30 | 457/2017. (XII. 28.) Korm. rendelet |

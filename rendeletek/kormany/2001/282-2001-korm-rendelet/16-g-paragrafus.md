@@ -1,8 +1,8 @@
-## 16/F. §[^54] A pénztár ingatlankezelőjének ingatlankezelői szakképesítéssel kell rendelkeznie. Amennyiben az ingatlankezelést jogi személy végzi, akkor az ingatlankezelő legalább egy alkalmazottjának kell rendelkeznie ingatlankezelői szakképesítéssel.
+## 16/F. §[^50] A pénztár ingatlankezelőjének ingatlankezelői szakképesítéssel kell rendelkeznie. Amennyiben az ingatlankezelést jogi személy végzi, akkor az ingatlankezelő legalább egy alkalmazottjának kell rendelkeznie ingatlankezelői szakképesítéssel.
 
-## Devizamegfeleltetési szabályok[^55]
+## Devizamegfeleltetési szabályok[^51]
 
-16/G. §[^56] (1) Azt a pénznemet, amelyben a pénztár a felhalmozási időszakban lévő tagok követeléseinek fedezetéül szolgáló tartalékot tartani köteles, a mindenkori devizaszabályoknak megfelelően a következők szerint kell meghatározni:
+16/G. §[^52] (1) Azt a pénznemet, amelyben a pénztár a felhalmozási időszakban lévő tagok követeléseinek fedezetéül szolgáló tartalékot tartani köteles, a mindenkori devizaszabályoknak megfelelően a következők szerint kell meghatározni:
 
 a) a devizamegfeleltetési szabályok szempontjából a felhalmozási időszakban lévő tagok egyéni számlaköveteléseit abban a pénznemben fennállónak kell tekinteni, amelyben az egyéni számla követeléseit nyilvántartják;
 
@@ -24,6 +24,6 @@ e) a c) pontban meghatározott arány megállapítása során a befektetési jeg
 
 (2) Az (1) bekezdés alkalmazása során figyelembe kell venni, hogy a pénztári befektetés milyen pénznemben fennálló befektetésen alapul.
 
-[^54]: A 16/F. §-t a 369/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
-[^55]: A 16/G. §-t megelőző alcímet a 155/2009. (VII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^56]: A 16/G. §-t a 155/2009. (VII. 23.) Korm. rendelet 1. §-a iktatta be. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^50]: A 16/F. §-t a 369/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^51]: A 16/G. §-t megelőző alcímet a 155/2009. (VII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^52]: A 16/G. §-t a 155/2009. (VII. 23.) Korm. rendelet 1. §-a iktatta be. Alkalmazására lásd e módosító rendelet 6. §-át.
