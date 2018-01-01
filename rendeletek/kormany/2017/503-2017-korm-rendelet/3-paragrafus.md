@@ -1,0 +1,5 @@
+3. § (1) A támogatás mértéke – a (2) és (3) bekezdésben foglalt kivétellel – az első sikeres komplex nyelvvizsga nyelvvizsgaközpontnak vagy az Oktatási Hivatalnak ténylegesen megfizetett díja, de legfeljebb a megfizetéskor – az 1. § 1. pont b) alpontja szerinti esetben a második sikeres részvizsga díjának megfizetésekor – érvényes kötelező legkisebb munkabér (minimálbér) 25%-ának megfelelő összeg.
+
+(2) Az 1. § 1. pont b) alpontja szerinti esetben, ha a két sikeres részvizsga-bizonyítvány kiállítása között több mint 1 év telt el, a támogatás mértéke a második sikeres részvizsga nyelvvizsgaközpontnak ténylegesen megfizetett díja, de legfeljebb a második sikeres részvizsga díjának megfizetésekor érvényes kötelező legkisebb munkabér (minimálbér) 25%-ának megfelelő összeg.
+
+(3) Az 1. § 1. pont d) alpontja szerinti esetben a támogatás mértéke a honosítási eljárás Oktatási Hivatalnak ténylegesen megfizetett díja, de legfeljebb a megfizetéskor érvényes kötelező legkisebb munkabér (minimálbér) 25%-ának megfelelő összeg.
