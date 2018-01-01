@@ -1,8 +1,8 @@
 ## 9. Jogkövetkezmények
 
-11. § (1)[^14] Ha a Kincstár az ellenőrzés során azt állapítja meg, hogy a támogatásra jogosult nem teljesíti a 4. § (1) bekezdés a) vagy b) pontjában foglaltakat, az intézkedésben való részvétellel összefüggésben megállapított jogosultság megszűnik, és az igénybe vett támogatás egésze jogosulatlanul igénybe vett támogatásnak minősül.
+11. § (1)[^15] Ha a Kincstár az ellenőrzés során azt állapítja meg, hogy a támogatásra jogosult nem teljesíti a 4. § (1) bekezdés a) vagy b) pontjában foglaltakat, az intézkedésben való részvétellel összefüggésben megállapított jogosultság megszűnik, és az igénybe vett támogatás egésze jogosulatlanul igénybe vett támogatásnak minősül.
 
-(2)[^15] Ha az ellenőrzés során bizonyosságot nyer, hogy a támogatásra jogosult a gazdálkodási napló vezetésében több mint 6 hónapos elmaradásban van, a Kincstár 8 napos határidő tűzésével felszólítja az elmaradás pótlására.
+(2)[^16] Ha az ellenőrzés során bizonyosságot nyer, hogy a támogatásra jogosult a gazdálkodási napló vezetésében több mint 6 hónapos elmaradásban van, a Kincstár 8 napos határidő tűzésével felszólítja az elmaradás pótlására.
 
 (3) Amennyiben az ügyfél a (2) bekezdés szerinti határidőben nem pótolja az elmaradást, akkor köteles a kifizetett támogatási összeg 15%-át intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
 
@@ -12,7 +12,7 @@
 
 a) gazdaságának üzemmérete a működtetési időszak első három évében az üzleti tervben az adott évre vállalt EUME mérettől 20%-ot meghaladóan marad el;
 
-b) gazdaságának üzemmérete az utolsó kifizetést követően a jogerős támogatási határozatban a működtetési időszak 4. évének végére vállalt EUME mérettől 20%-ot meghaladó mértékben marad el; vagy
+b)[^17] gazdaságának üzemmérete az utolsó kifizetést követően a véglegessé vált támogatási határozatban a működtetési időszak 4. évének végére vállalt EUME mérettől 20%-ot meghaladó mértékben marad el; vagy
 
 c) az ügyfél pénzügyi tervében a működtetési időszak 4. vagy 5. évének végére vállalt mezőgazdasági termelő tevékenységből származó bevétel 40%-ot meghaladó mértékben marad el.
 
@@ -20,9 +20,9 @@ c) az ügyfél pénzügyi tervében a működtetési időszak 4. vagy 5. événe
 
 (7) Az ügyfél köteles a kifizetett támogatási összeg 2%-át visszafizetni, ha nem teljesíti a 4. § (1) bekezdés c) pontjában foglalt kötelezettségét.
 
-(8)[^16]
+(8)[^18]
 
-(9)[^17]
+(9)[^19]
 
 (10) Ha visszafizetési kötelezettség áll fenn az ügyféllel szemben, akkor a visszafizetendő támogatás együttes összege nem haladhatja meg az igénybe vett támogatás összegét.
 
@@ -38,11 +38,11 @@ ac) az állattenyésztés és a kertészet együttes
 
 aránya adja a vállalt százalékban, és az általa vállalt aránytól az ügyfél 30%-ot meghaladóan tér el más ágazat irányába, akkor köteles a 30%-ot meghaladó eltérésen felüli százalékpontonként a kifizetett támogatási összeg 0,5%-át, de legfeljebb a kifizetett támogatási összeg 10%-át intézkedésben való jogosulatlan részvétel jogcímén visszafizetni;
 
-b)[^18] a működtetési időszak teljes időtartama alatt a gazdaság legtávolabbi pontja az életvitelszerű tartózkodási helyéhez képest legfeljebb 30 km-es sugarú körön belül található, és ezt nem teljesíti, akkor köteles a kifizetett támogatási összeg 2%-át visszafizetni;
+b)[^20] a működtetési időszak teljes időtartama alatt a gazdaság legtávolabbi pontja az életvitelszerű tartózkodási helyéhez képest legfeljebb 30 km-es sugarú körön belül található, és ezt nem teljesíti, akkor köteles a kifizetett támogatási összeg 2%-át visszafizetni;
 
 c) a támogatási összeg fennmaradó 10%-ának igényléséig legalább a 2. melléklet szerinti végzettségek legalább egyike tekintetében BSc szintű szakirányú végzettséget szerez, és ezt nem teljesíti, akkor köteles a kifizetett támogatási összeg 5%-át visszafizetni;
 
-d)[^19] a működtetési időszak 3. vagy 4. évének kezdetétől főállású mezőgazdasági termelővé válik
+d)[^21] a működtetési időszak 3. vagy 4. évének kezdetétől főállású mezőgazdasági termelővé válik
 
 da) és a támogatási kérelemben vállalt évet követően, de a működtetési időszak valamely évének kezdetétől válik főállású mezőgazdasági termelővé, és ezt a működtetési időszak végéig fenntartja, akkor a kifizetett támogatási összeg 50%-át köteles az intézkedésben való jogosulatlan részvétel jogcímén visszafizetni, vagy
 
@@ -58,9 +58,9 @@ g) a főállásban foglalkoztatottak száma a működtetési időszak 4. évét�
 
 a) a 10. § (1) vagy (2) bekezdésében meghatározott kérelembenyújtási kötelezettségét, vagy
 
-b)[^20]
+b)[^22]
 
-(13)[^21] Az ügyfél támogatási jogosultsága megszűnik, ha a támogatási összeg fennmaradó 10%-ára vonatkozó
+(13)[^23] Az ügyfél támogatási jogosultsága megszűnik, ha a támogatási összeg fennmaradó 10%-ára vonatkozó
 
 a) kifizetési kérelmet a 10. § (5) bekezdésében meghatározott határidőig nem nyújtja be, vagy
 
@@ -68,18 +68,19 @@ b) kifizetési kérelmet elutasítják.
 
 (14) Az ügyfélre vonatkozóan megállapított összes visszafizetési kötelezettség nem haladhatja meg a Tv. 69. § (5) bekezdése szerint meghatározott, jogosulatlan részvétellel igénybe vett támogatás esetén alkalmazandó szankció mértékét.
 
-(15)[^22] A (13) bekezdéstől eltérően, az ügyfélnek kizárólag a támogatási összeg fennmaradó 10%-ához való jogosultsága szűnik meg, ha
+(15)[^24] A (13) bekezdéstől eltérően, az ügyfélnek kizárólag a támogatási összeg fennmaradó 10%-ához való jogosultsága szűnik meg, ha
 
 a) a működtetési időszak 5. évében teljesül az üzleti tervben a 4. évre vállalt üzemméret, vagy
 
 b) a működtetési időszak 5. évét követő év július 1. és 31. között benyújtott kifizetési kérelem alapján legfeljebb 10%-kal tér el a 4. évre vállalt üzemmérettől, feltéve, hogy az eltérés nem eredményezi a 7. § (2) bekezdése szerinti üzemméret kategória változását.
 
-[^14]: A 11. § (1) bekezdése a 35/2017. (XII. 27.) MvM rendelet 21. §-ával megállapított szöveg. [A 11. § (1) bekezdésének a 35/2017. (XII. 27.) MvM rendelet 26. § c) pontjával elrendelt módosítása, amely szerint az „az MVH” szövegrész helyébe az „a Kincstár” szöveg lép, nem vezethető át.]
-[^15]: A 11. § (2) bekezdése a 35/2017. (XII. 27.) MvM rendelet 26. § c) pontja szerint módosított szöveg.
-[^16]: A 11. § (8) bekezdését a 35/2017. (XII. 27.) MvM rendelet 27. § b) pontja hatályon kívül helyezte.
-[^17]: A 11. § (9) bekezdését a 35/2017. (XII. 27.) MvM rendelet 27. § b) pontja hatályon kívül helyezte.
-[^18]: A 11. § (11) bekezdés b) pontja a 35/2017. (XII. 27.) MvM rendelet 22. §-ával megállapított szöveg.
-[^19]: A 11. § (11) bekezdés d) pontja a 35/2017. (XII. 27.) MvM rendelet 23. §-ával megállapított szöveg.
-[^20]: A 11. § (12) bekezdés b) pontját a 35/2017. (XII. 27.) MvM rendelet 27. § c) pontja hatályon kívül helyezte.
-[^21]: A 11. § (13) bekezdése a 35/2017. (XII. 27.) MvM rendelet 24. §-ával megállapított szöveg.
-[^22]: A 11. § (15) bekezdését a 35/2017. (XII. 27.) MvM rendelet 25. §-a iktatta be.
+[^15]: A 11. § (1) bekezdése a 35/2017. (XII. 27.) MvM rendelet 21. §-ával megállapított szöveg. [A 11. § (1) bekezdésének a 35/2017. (XII. 27.) MvM rendelet 26. § c) pontjával elrendelt módosítása, amely szerint az „az MVH” szövegrész helyébe az „a Kincstár” szöveg lép, nem vezethető át.]
+[^16]: A 11. § (2) bekezdése a 35/2017. (XII. 27.) MvM rendelet 26. § c) pontja szerint módosított szöveg.
+[^17]: A 11. § (5) bekezdés b) pontja a 37/2017. (XII. 27.) MvM rendelet 32. § b) pontja szerint módosított szöveg.
+[^18]: A 11. § (8) bekezdését a 35/2017. (XII. 27.) MvM rendelet 27. § b) pontja hatályon kívül helyezte.
+[^19]: A 11. § (9) bekezdését a 35/2017. (XII. 27.) MvM rendelet 27. § b) pontja hatályon kívül helyezte.
+[^20]: A 11. § (11) bekezdés b) pontja a 35/2017. (XII. 27.) MvM rendelet 22. §-ával megállapított szöveg.
+[^21]: A 11. § (11) bekezdés d) pontja a 35/2017. (XII. 27.) MvM rendelet 23. §-ával megállapított szöveg.
+[^22]: A 11. § (12) bekezdés b) pontját a 35/2017. (XII. 27.) MvM rendelet 27. § c) pontja hatályon kívül helyezte.
+[^23]: A 11. § (13) bekezdése a 35/2017. (XII. 27.) MvM rendelet 24. §-ával megállapított szöveg.
+[^24]: A 11. § (15) bekezdését a 35/2017. (XII. 27.) MvM rendelet 25. §-a iktatta be.

@@ -22,7 +22,7 @@
 
 10. mezőgazdasági termelő tevékenységből származó árbevétel: a mezőgazdasági termelő tevékenységet folytató mezőgazdasági termelő gazdaságából – a növénytermesztés, kertészet, és állattenyésztés ágazataiból – származó termékek értékesítéséből befolyó bevételek összege;
 
-11. működtetési időszak: e rendelet szerinti támogatási kérelmet jóváhagyó határozat jogerőre emelkedését követő év január 1-jétől számított ötödik naptári év végéig terjedő időszak;
+11.[^2] működtetési időszak: e rendelet szerinti támogatási kérelmet jóváhagyó határozat véglegessé válását követő év január 1-jétől számított ötödik naptári év végéig terjedő időszak;
 
 12. tanya: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 5. § 25. pontjában meghatározott, vagy az ingatlan-nyilvántartásban majorként nyilvántartott földrészlet;
 
@@ -31,3 +31,4 @@
 14. mezőgazdasági szakmai gyakorlat: munkaszerződéssel, munkaviszony igazolással, vagy a gazdaság vezetőjének igazolásával alátámasztott mezőgazdasági termelő tevékenység, az önfoglalkoztatást ide nem értve.
 
 [^1]: Az 1. § 9. pontja a 9/2016. (IV. 5.) MvM rendelet 9. §-ával megállapított szöveg.
+[^2]: Az 1. § 11. pontja a 37/2017. (XII. 27.) MvM rendelet 32. § a) pontja szerint módosított szöveg.
