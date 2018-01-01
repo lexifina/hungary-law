@@ -1,3 +1,3 @@
-## 1–2. §[^1]
+## 2. § Az R1. 1. §-a a következő (1a) bekezdéssel egészül ki:
 
-[^1]: A 11. § (2) bekezdése alapján a Terrorelhárítási Központ műveleti kötéltechnikai tevékenység ellátásának szabályairól szóló BM rendelet hatálybalépésének napján lép hatályba.
+## „(1a) E rendelet hatálya nem terjed ki a terrorizmust elhárító szervnél hivatásos szolgálati jogviszonyban, illetve közalkalmazotti jogviszonyban, szervezett tevékenység keretében folytatott munkavégzésre.”
