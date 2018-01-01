@@ -82,27 +82,19 @@
 
 ## Külföldi eredetű berendezések,szerkezetek, készülékek, részegységek, szerkezeti elemek hazai alkalmazását az OVSZ II. előírásainak figyelembevételével a vasúti létesítést engedélyező hatóság – alkalmassági bizonyítvány alapján – engedélyezi.
 
-## 1.3. Vasúti építmények és járművek engedélyezése és létesítése
+## 1.3.[^5] Vasúti építmények és járművek engedélyezése és létesítése
 
-## Vasút létesítéséhez szükséges terület biztosításáról a vasútról szóló törvényben foglaltak alapján kell gondoskodni.
+## Vasúti építmény létesítéséhez, átalakításához, használatbavételéhez, megszüntetéséhez bontásához, vasúti jármű gyártásához, üzembehelyezéséhez hatósági engedély szükséges.
 
-## Vasúti építmény létesítéséhez, átalakításához, használat- bavételéhez, megszüntetéséhez bontásához, vasúti jármű gyártásához, üzembehelyezéséhez a vasútról szóló törvényben szabályozott hatósági engedély szükséges.
+## A hatósági engedélyt a vonatkozó jogszabályokban előírt hatóságnál, a vasúti építményt létesíteni, használatba venni, megszüntetni, bontani, a járműveket üzembehelyezni szándékozónak (a továbbiakban: engedélyt kérő) kell kezdeményeznie a jogszabályokban rögzített követelmények biztosításával (a koncesszió, az előírásos tervdokumentáció, az érintett természetes és jogi személyek jegyzéke, a szakhatósági és közmű hozzájárulások stb. bizonylatainak egyidejű mellékelt benyújtása).
 
-## A hatósági engedély ügyének rendezését a vonatkozó jogszabályokban előírt hatóságnál, a vasúti építményt létesíteni, használatba venni, megszüntetni, bontani, a járműveket üzembehelyezni szándékozónak (továbbiakban: engedélyt kérő) kell kezdeményeznie a jogszabályokban rögzített követelmények biztosításával (pld. a koncesszió, az előírásos tervdokumentáció, az érintett természetes és jogi személyek jegyzéke, a szakhatósági és közmű hozzájá rulások stb. bizonylatainak egyidejű mellékelt benyújtása). A hatósági engedélyezési eljárást az engedélyt kérő köteles elősegíteni, kellő időben történő és megfelelő szintű szakmai előkészítéssel, adatszolgáltatással és bizonylat átadással.
+## Az építési tevékenység csak a vasúti közlekedési hatóság által kiadott végleges döntés alapján kezdhető meg.
 
-## Az engedélyezési eljárás során az engedélyező hatóság köteles vizsgálni azt, hogy az engedélykérelem kielégíti-e a jogszabályokban foglalt követelményeket és kizáró ok hiányában köteles az engedélyező határozatot kiadni.
+## A vasúti pálya mentén a vasútüzem biztonságát veszélyeztető világító készüléket (fényreklám, fényszóró stb.) elhelyezni nem szabad. Arra nézve, hogy a világító készülék a vasútüzem biztonságát veszélyezteti-e, a vasút üzemben tartójának állásfoglalása irányadó.
 
-## A vasúti hatósági döntéseket az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény előírásai szerint határozatba foglalni, és ebben kell megállapítani mindazon jogokat és kötelezettségeket, melyek a vasúti építmények és járművek engedélyeseit megilletik és terhelik.
+## 1.4.[^6] Vasúti építmények és járművek használatbavétele
 
-## Az építési tevékenység csak a vasúti hatóság által kiadott jogerős határozat alapján kezdhető meg. Az építés során a kivitelezési jogosultságra vonatkozó jogszabályokat be kell tartani.
-
-## A vasúti pálya mentén a vasútüzem biztonságát veszélyeztető világító készüléket (fényreklám, fényszóró stb.) elhelyezni nem szabad. Arra nézve, hogy a világító – készülék a vasútüzem biztonságát veszélyezteti-e, a vasút üzemben tartójának állásfoglalása irányadó.
-
-## 1.4. Vasúti építmények és járművek használatbavétele
-
-## Hatósági használatbavételi – járművekre üzembehelyezési – engedély csak használatra alkalmas építményre, illetve járműre kérhető a jogszabályokban előírt bizonylatok alapján.
-
-## Hatósági használatbavételi eljárást – járművek esetében üzembehelyezést – a használati, üzemi-műszaki alkalmasság és biztonság elbírálása szempontjából szükséges bizonylatok vizsgálata és próbák alapján kell lebonyolítani, figyelembe véve a létesítési engedélyben foglalt előírások, feltételek teljesítését.
+## Használatbavételi – járművekre üzembehelyezési – engedély csak használatra alkalmas építményre vagy járműre kérhető a jogszabályokban előírt bizonylatok alapján.
 
 ## Az engedélyesnek a vasúti építmény üzembehelyezését a hatósági használatbavételi engedély alapján kell elvégeznie.
 
@@ -528,9 +520,9 @@
 
 ## A különböző vasutak, nem állomásnak minősülő, közbenső megállóhelyeire az alábbi előírások alkalmazandók:
 
-## –[^4] Közúti vasútnál az utasperon hossza legalább a vonalon közlekedő szerelvény hosszának megfelelő, magassága legalább 130 mm legyen a sínkorona felett. Új járművek üzembe állítása esetén a vasúti közlekedési hatóság a jármű kialakítását, valamint az utasforgalom feltételeinek és biztonságának javítását szem előtt tartva megnövelt peronmagasságot is engedélyezhet.
+## –[^7] Közúti vasútnál az utasperon hossza legalább a vonalon közlekedő szerelvény hosszának megfelelő, magassága legalább 130 mm legyen a sínkorona felett. Új járművek üzembe állítása esetén a vasúti közlekedési hatóság a jármű kialakítását, valamint az utasforgalom feltételeinek és biztonságának javítását szem előtt tartva megnövelt peronmagasságot is engedélyezhet.
 
-## –[^5] Közúttól elkülönített vasútnál a peron magassága a jármű padlószintjével azonos, hossza legalább 80 m legyen (kivéve: millenniumi földalatti vasút).
+## –[^8] Közúttól elkülönített vasútnál a peron magassága a jármű padlószintjével azonos, hossza legalább 80 m legyen (kivéve: millenniumi földalatti vasút).
 
 ## – A helyiérdekű vasútnál az utasperon hossza legalább 120 m, magassága alacsony peronnál 15 cm, magas peronnál 40 cm legyen. Magas peronnál a jármű és a peron között megengedhető maximális átlépési távolság 115 mm.
 
@@ -2338,7 +2330,7 @@
 
 ## Természetes szellőzés esetén biztosítani kell, hogy az oldalablakok felületének legalább 40%-a nyitható legyen.
 
-## 9.2.7.4.[^6] Lépcsők
+## 9.2.7.4.[^9] Lépcsők
 
 ## A lépcsőket mindenkor a jármű rendeltetésének figyelembevételével úgy kell kialakítani, hogy a le- és felszállás biztonságosan és kényelmesen történhessen. Új tervezésű közúti, vasúti járműveknél a padló 600 mm-nél magasabb nem lehet. Az OVSZ II. hatálybalépése előtt tervezett és gyártott járműveknél megengedett a nagyobb, legfeljebb azonban 950 mm-es padlómagasság.
 
@@ -2428,7 +2420,7 @@
 
 ## A helyi közforgalmú személyszállító vasúti járműveknél a központi ütköző- és vonókészülék sínkorona felett mért névleges magassága:
 
-## – [^7]közúti, vasúti járműveknél: 400 mm és 650 mm között,
+## – [^10]közúti, vasúti járműveknél: 400 mm és 650 mm között,
 
 ## – helyiérdekű vasúti járműnél: 600 mm,
 
@@ -2554,7 +2546,7 @@
 
 ## A fényszórókat és zárlámpákat minden esetben akkumulátorról kell táplálni.
 
-## 9.2.12.[^8] Fékberendezések
+## 9.2.12.[^11] Fékberendezések
 
 ## A vasúti járműveket rendeltetésük és az üzemeltetés módjának megfelelően fékberendezésekkel kell felszerelni.
 
@@ -2974,7 +2966,7 @@
 
 ## A nyílt pályán történő rakodás részletes technológiai szabályait ágazati-vállalati utasításban kell rögzíteni.
 
-## 10.8.[^9] Iparvágányok kiszolgálása
+## 10.8.[^12] Iparvágányok kiszolgálása
 
 ## Az iparvágány kiszolgálását a vasút vagy az iparvágány használó végzi, de elláthatják a feladatot megosztott formában is.
 
@@ -3512,7 +3504,7 @@
 
 ## 4. Hibaarány: a hibaarány a hibás információelemek számának és az összes kezelt (pl. rögzített, vagy átvitt) információelemek számának az aránya negatív kitevőjű 10-es alapú hatvány alakjában. Ennek megfelelően h=3.10–5 azt jelenti, hogy 100 000 kezelt elemi jel között 3 hibás elemi jel fordul elő.
 
-2. melléklet a 18/1998. (VII. 3.) KHVM rendelethez[^10]
+2. melléklet a 18/1998. (VII. 3.) KHVM rendelethez[^13]
 
 Metró Jármű Szabályzat
 
@@ -3594,7 +3586,7 @@ A jármű konstrukciós kialakítása olyan legyen, hogy az esetlegesen bekövet
 
 3. Járműszerkezeti részek
 
-3.1.[^11] Futó- és hordmű
+3.1.[^14] Futó- és hordmű
 
 A metró járműveknél alkalmazható kerékpárok
 
@@ -4298,7 +4290,7 @@ A fékberendezések ellenőrzése során igazolni kell, hogy
 
 3.1.11. a próbapálya sebességmérő és fékútmérő szakaszaiba kitérő nem telepíthető;
 
-3.1.12.[^12] a próbapálya hosszát – a fékútmérő szakasz kivételével – olyan gépi berendezések alkalmazásával lehet csökkenteni, amelyek kimagasló biztonságtechnikai színvonalat képviselnek és azok alkalmazásához a közlekedési hatóság hozzájárult.
+3.1.12.[^15] a próbapálya hosszát – a fékútmérő szakasz kivételével – olyan gépi berendezések alkalmazásával lehet csökkenteni, amelyek kimagasló biztonságtechnikai színvonalat képviselnek és azok alkalmazásához a közlekedési hatóság hozzájárult.
 
 3.2. A fékútmérés során a kerék és sín közti tapadást homokolással vagy más módszerrel javítani nem szabad.
 
@@ -5320,7 +5312,7 @@ A jármű rádió zavartatás vizsgálata
 
 Menetdiagram felvétel
 
-VII. FÜGGELÉK[^13]
+VII. FÜGGELÉK[^16]
 
 Járművizsga Jegyzőkönyv
 
@@ -5428,13 +5420,15 @@ ___________
 
 *A helyes válasz aláhúzandó, a helytelen áthúzandó.
 
-[^4]: A melléklet 2.11.1. pontja tizenötödik bekezdésének első francia bekezdése a 14/2006. (III. 27.) GKM rendelet 1. §-ával megállapított, a 95/2006. (XII. 27.) GKM rendelet 20. § a) pontja szerint módosított szöveg.
-[^5]: A melléklet 2.11.1. pontja tizenötödik bekezdésének második francia bekezdése a 14/2003. (III. 27.) GKM rendelet 1. §-ával megállapított szöveg.
-[^6]: A melléklet 9.2.7.4. pontjának második mondata a 12/2001. (III. 31.) KöViM rendelet 1. §-ával megállapított szöveg.
-[^7]: A melléklet 9.2.8. pontja ötödik mondatának első francia bekezdése a 12/2001. (III. 31.) KöViM rendelet 1. §-ával megállapított szöveg.
-[^8]: A melléklet 9.2.12. pontjának 9. és 17. mondata a 12/2001. (III. 31.) KöViM rendelet 1. §-ával megállapított szöveg.
-[^9]: Az 1. melléklet 10. fejezetének 10.8. pontja a 95/2006. (XII. 27.) GKM rendelet 20. § a) pontja szerint módosított szöveg.
-[^10]: A 2. mellékletet a 44/2005. (VI. 17.) GKM rendelet 2. §-a iktatta be, egyidejűleg az eredeti melléklet jelölését 1. mellékletre változtatva. E módosító rendelet 3. §-ának (1) bekezdése alapján a hatósági engedélyköteles tevékenységek tekintetében a már folyamatban lévő eljárást a korábbi rendelkezések szerint kell befejezni. További alkalmazási rendelkezések tekintetében lásd e módosító rendelet 3. §-ának (2) bekezdését és 4. §-át.
-[^11]: A 2. melléklet 3.1. pontja a 32/2015. (VI. 19.) NFM rendelet 1. §-ával megállapított szöveg.
-[^12]: A 2. melléklet I. függelék 3.1.12. pontja az 1/2017. (I. 13.) NFM rendelet 12. § a) pontja szerint módosított szöveg.
-[^13]: A 2. melléklet VII. függeléke az 1/2017. (I. 13.) NFM rendelet 12. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. számú melléklet I. fejezet 1.3. pontja az 55/2017. (XII. 27.) NFM rendelet 7. §-ával megállapított szöveg.
+[^6]: Az 1. számú melléklet I. fejezet 1.4. pontja az 55/2017. (XII. 27.) NFM rendelet 7. §-ával megállapított szöveg.
+[^7]: A melléklet 2.11.1. pontja tizenötödik bekezdésének első francia bekezdése a 14/2006. (III. 27.) GKM rendelet 1. §-ával megállapított, a 95/2006. (XII. 27.) GKM rendelet 20. § a) pontja szerint módosított szöveg.
+[^8]: A melléklet 2.11.1. pontja tizenötödik bekezdésének második francia bekezdése a 14/2003. (III. 27.) GKM rendelet 1. §-ával megállapított szöveg.
+[^9]: A melléklet 9.2.7.4. pontjának második mondata a 12/2001. (III. 31.) KöViM rendelet 1. §-ával megállapított szöveg.
+[^10]: A melléklet 9.2.8. pontja ötödik mondatának első francia bekezdése a 12/2001. (III. 31.) KöViM rendelet 1. §-ával megállapított szöveg.
+[^11]: A melléklet 9.2.12. pontjának 9. és 17. mondata a 12/2001. (III. 31.) KöViM rendelet 1. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet 10. fejezetének 10.8. pontja a 95/2006. (XII. 27.) GKM rendelet 20. § a) pontja szerint módosított szöveg.
+[^13]: A 2. mellékletet a 44/2005. (VI. 17.) GKM rendelet 2. §-a iktatta be, egyidejűleg az eredeti melléklet jelölését 1. mellékletre változtatva. E módosító rendelet 3. §-ának (1) bekezdése alapján a hatósági engedélyköteles tevékenységek tekintetében a már folyamatban lévő eljárást a korábbi rendelkezések szerint kell befejezni. További alkalmazási rendelkezések tekintetében lásd e módosító rendelet 3. §-ának (2) bekezdését és 4. §-át.
+[^14]: A 2. melléklet 3.1. pontja a 32/2015. (VI. 19.) NFM rendelet 1. §-ával megállapított szöveg.
+[^15]: A 2. melléklet I. függelék 3.1.12. pontja az 1/2017. (I. 13.) NFM rendelet 12. § a) pontja szerint módosított szöveg.
+[^16]: A 2. melléklet VII. függeléke az 1/2017. (I. 13.) NFM rendelet 12. § b) pontja szerint módosított szöveg.
