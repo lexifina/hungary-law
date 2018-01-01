@@ -1,4 +1,4 @@
-20. §[^50] (1) Ha a sportrendezvényről eltávolítandó személy visszatartásának az Stv. 71. § (3) bekezdésében meghatározott feltételei fennállnak, a rendező a személyazonosság igazolásának megtagadását követően haladéktalanul értesíti a rendőrséget, majd a személyazonosságát nem igazoló személyt tájékoztatja, hogy a visszatartás a személyazonosság igazolásig, illetve a rendőrség megérkezéséig, de legfeljebb három órát tarthat.
+20. §[^52] (1) Ha a sportrendezvényről eltávolítandó személy visszatartásának az Stv. 71. § (3) bekezdésében meghatározott feltételei fennállnak, a rendező a személyazonosság igazolásának megtagadását követően haladéktalanul értesíti a rendőrséget, majd a személyazonosságát nem igazoló személyt tájékoztatja, hogy a visszatartás a személyazonosság igazolásig, illetve a rendőrség megérkezéséig, de legfeljebb három órát tarthat.
 
 (2) A rendező a visszatartott személy részére a visszatartás megkezdését követően haladéktalanul igazolást köteles átadni, amely tartalmazza:
 
@@ -32,4 +32,4 @@ d) a szervező által elrendelt intézkedés leírását.
 
 (7) A rendező, illetve a szervező a rendőrség értesítését követő harmadik óra lejártakor köteles a visszatartott személy szabad távozását biztosítani.
 
-[^50]: A 20. § a 162/2011. (VIII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^52]: A 20. § a 162/2011. (VIII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 18/A. §[^46] Az Stv. 23. § (1) bekezdés d) pontjában meghatározott, a sportrendezvény biztonságos lebonyolításával kapcsolatos előírásokat tartalmazó szabályzat – a sportági jellemzőkre figyelemmel – tartalmazza különösen:
+## 18/A. §[^47] Az Stv. 23. § (1) bekezdés d) pontjában meghatározott, a sportrendezvény biztonságos lebonyolításával kapcsolatos előírásokat tartalmazó szabályzat – a sportági jellemzőkre figyelemmel – tartalmazza különösen:
 
 a) a nemzetközi szervezetek által meghatározott biztonsági szabályok végrehajtására vonatkozó előírásokat,
 
@@ -16,4 +16,4 @@ g) a biztonsági kockázatok csökkentésére és a jogellenes cselekmények meg
 
 h) a rendőrséggel és egyéb hatóságokkal, szervezetekkel való kapcsolattartásra és együttműködésre vonatkozó előírásokat.
 
-[^46]: A 18/A. §-t a 162/2011. (VIII. 18.) Korm. rendelet 11. §-a iktatta be.
+[^47]: A 18/A. §-t a 162/2011. (VIII. 18.) Korm. rendelet 11. §-a iktatta be.
