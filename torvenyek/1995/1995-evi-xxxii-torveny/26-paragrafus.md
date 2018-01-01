@@ -10,7 +10,7 @@ b) büntetlen előéletű;
 
 c) mérnöki, informatikai vagy más, egészségügyi, természettudományi jellegű – különösen orvosi, állatorvosi, biológus, vegyész, gyógyszerész, matematikus vagy fizikus – egyetemi szintű, illetve mesterfokozatú szakképzettséggel rendelkezik; és
 
-d) igazolja, hogy szabadalmi ügyvivőjelölti munkaviszony létesítésére előzetes megállapodást kötött.
+d) igazolja, hogy szabadalmi ügyvivőjelölti munkaviszony létesítésére előzetes megállapodást kötött olyan munkáltatóval, amely szabadalmi ügyvivőt foglalkoztat.
 
 (3) Nem lehet szabadalmi ügyvivőjelölt, aki
 

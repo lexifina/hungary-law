@@ -2,8 +2,6 @@
 
 (2) A szabadalmi ügyvivőjelölt kötelezettségeire és fegyelmi felelősségére a szabadalmi ügyvivőkre vonatkozó előírásokat kell megfelelően alkalmazni, azzal az eltéréssel, hogy a fegyelmi vétséget elkövető szabadalmi ügyvivőjelölttel szemben kiszabható fegyelmi büntetések a következők:
 
-a) megrovás,
+a) írásbeli megrovás,
 
-b) szigorú megrovás,
-
-c) törlés a szabadalmi ügyvivőjelöltek névjegyzékéből.
+b) törlés a szabadalmi ügyvivőjelöltek névjegyzékéből.

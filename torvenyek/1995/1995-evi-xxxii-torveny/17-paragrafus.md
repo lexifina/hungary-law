@@ -4,4 +4,4 @@
 
 (3) Az ügyfelek képviseletével foglalkozó szabadalmi ügyvivő köteles a bíróság vagy egyéb hatóság kirendelése alapján pártfogó szabadalmi ügyvivőként, ügygondnokként vagy eseti gondnokként az ügyfél képviseletét ellátni; indokolt esetben a szabadalmi ügyvivő kérheti a kirendelés alóli felmentését.
 
-(4) A szabadalmi ügyvivő kirendelésére, valamint a kirendelt szabadalmi ügyvivő jogállására, munkadíjára és költségtérítésére az iparjogvédelmi ügyekre [1. § (2) bekezdés] irányadó jogszabályok, a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) vonatkozó rendelkezései irányadók.
+(4) A szabadalmi ügyvivő kirendelésére, valamint a kirendelt szabadalmi ügyvivő jogállására, munkadíjára és költségtérítésére az iparjogvédelmi ügyekre [1. § (2) bekezdés] irányadó jogszabályok, az általános közigazgatási rendtartásról szóló törvény és a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) vonatkozó rendelkezései irányadók.

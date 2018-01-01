@@ -1,6 +1,6 @@
 ## A Kamara eljárása közigazgatási hatósági ügyekben
 
-30. § (1) A Kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el a következő ügyekben (a továbbiakban: kamarai hatósági ügy):
+30. § (1) A Kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el a következő ügyekben (a továbbiakban: kamarai hatósági ügy):
 
 a) a Kamarába való felvétel és a kamarai tagság megszűnésének megállapítása, kivéve, ha a kamarai tagság a kizárás fegyelmi büntetése vagy a szabadalmi ügyvivő halála miatt szűnik meg;
 
@@ -44,6 +44,6 @@ f) a szabadalmi ügyvivő fényképe és aláírása.
 
 (9) A (6)–(8) bekezdésekben meghatározott igazolványokat a Kamara elnöke, illetve az őt helyettesítő alelnöke állítja ki.
 
-(10) A Kamarának az (1) és a (6)–(9) bekezdésekben meghatározott ügyekben hozott döntéseivel szemben fellebbezésnek nincs helye; e döntések felülvizsgálata közvetlenül a bíróságtól kérhető.
+(10)
 
 (11) A (6)–(9) bekezdésekben meghatározott ügyek elektronikus úton nem intézhetők.

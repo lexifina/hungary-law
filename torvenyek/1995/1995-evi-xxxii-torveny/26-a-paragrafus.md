@@ -4,8 +4,8 @@
 
 (3) Az (1) és (2) bekezdés alapján megismert személyes adatokat a Kamara
 
-a) a szabadalmi ügyvivőjelölti tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
+a) a szabadalmi ügyvivőjelölti tevékenység engedélyezése iránti eljárás végleges befejezéséig,
 
-b) a szabadalmi ügyvivőjelölti tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+b) a szabadalmi ügyvivőjelölti tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás végleges befejezéséig
 
 kezeli.

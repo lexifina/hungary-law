@@ -1,4 +1,4 @@
-24/C. § (1) A tárgyalásra az eljárás alá vont szabadalmi ügyvivőt és képviselőjét meg kell idézni. A tárgyalásról a Kamara elnökét értesíteni kell.
+24/C. § (1) A tárgyalásra az eljárás alá vont szabadalmi ügyvivőt, képviselőjét és a vizsgálóbiztost legalább nyolc nappal a tárgyalást megelőzően meg kell idézni. A tárgyalásról a Kamara elnökét értesíteni kell.
 
 (2) Ha az eljárás alá vont szabadalmi ügyvivő szabályszerű idézés ellenére nem jelent meg a tárgyaláson, azt a távollétében is meg lehet tartani. Erre az eljárás alá vont szabadalmi ügyvivőt az idézésben figyelmeztetni kell.
 

@@ -1,4 +1,4 @@
-24/G. § (1) A fegyelmi tanács határozata ellen az eljárás alá vont szabadalmi ügyvivő a kézbesítéstől számított harminc napon belül keresettel fordulhat a bírósághoz. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességgel rendelkezik, és arra a közigazgatási perekre irányadó rendelkezéseket (Pp. XX. fejezet) kell alkalmazni.
+24/G. § (1) A fegyelmi tanács határozatát az eljárás alá vont szabadalmi ügyvivő a kézbesítéstől számított harminc napon belül közigazgatási perben megtámadhatja.
 
 (2) A kereset a határozat végrehajtására halasztó hatályú.
 

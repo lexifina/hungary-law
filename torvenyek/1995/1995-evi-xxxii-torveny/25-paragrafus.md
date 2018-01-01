@@ -4,6 +4,8 @@
 
 (3) Az a fegyelmi vétség, amely bűncselekmény törvényi tényállását valósítja meg, a bűncselekménnyel együtt évül el.
 
-(4) A fegyelmi büntetés hatálya megrovás és szigorú megrovás esetén a fegyelmi határozat jogerőre emelkedésétől számított egy évig, pénzbírságnál három évig, kizárásnál öt évig tart.
+(4)
 
 (5) A jogerős fegyelmi határozatot a Kamara a büntetés hatályának időtartamáig nyilvántartja.
+
+(6) A fegyelmi tanács az ügy érdemében hozott jogerős határozatának a Kamara honlapján digitális formában történő közzététele iránt a határozat jogerőre emelkedésétől számított harminc napon belül intézkedik, kivéve, ha a határozatot közigazgatási perben megtámadták. A közzétett határozatban szereplő személyek azonosítását lehetővé tevő adatokat olyan módon kell törölni, hogy az ne akadályozza a megállapított tényállás megismerését.

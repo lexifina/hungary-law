@@ -1,6 +1,6 @@
 ## A Magyar Szabadalmi Ügyvivői Kamara
 
-28. § (1) A Kamara a szabadalmi ügyvivők köztestülete.
+28. § (1) A Kamara a szabadalmi ügyvivők köztestülete. A Kamarát a törvényszék nem veszi nyilvántartásba.
 
 (2) A Kamara az ország egész területére kiterjedő illetékességgel jár el, székhelye Budapest.
 

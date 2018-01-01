@@ -1,0 +1,1 @@
+15/D. § (1) A szabadalmi ügyvivői titoktartásra kötelezett a nála folytatott hatósági ellenőrzés, szemle vagy helyszíni kutatás során nem tárhatja fel a szabadalmi ügyvivői titkot tartalmazó iratokat és adatokat, a szabadalmi ügyvivői titokkal kapcsolatosan tanúvallomásra és adatszolgáltatás teljesítésére nem kötelezhető, de a hatóság eljárását nem akadályozhatja.

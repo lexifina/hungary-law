@@ -28,7 +28,9 @@ c) aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozat
 
 d) aki iparjogvédelmi ügyekben eljáró hatóságnál vagy bíróságnál működik,
 
-e) akivel szemben a 14. § (1) bekezdésében foglalt összeférhetetlenségi ok áll fenn, és azt nem szünteti meg.
+e) akivel szemben a 14. § (1) bekezdésében foglalt összeférhetetlenségi ok áll fenn, és azt nem szünteti meg,
+
+f) az erről szóló határozat jogerőre emelkedését követő három évig az, akivel szemben jogerősen megállapították, hogy jogosulatlanul folytatott rendszeresen és ellenérték fejében szabadalmi ügyvivői tevékenységet.
 
 (5) A szabadalmi ügyvivői címet csak a Kamara tagja használhatja.
 

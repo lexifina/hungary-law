@@ -2,4 +2,4 @@
 
 (2)
 
-(3) Ha a fegyelmi eljárás lefolytatása olyan előzetes kérdés elbírálásától függ, amelynek tárgyában az eljárás más hatóság hatáskörébe tartozik, a fegyelmi eljárást ennek az eljárásnak a jogerős befejezéséig fel lehet függeszteni.
+(3) Ha a fegyelmi eljárás lefolytatása olyan előzetes kérdés elbírálásától függ, amelynek tárgyában az eljárás más hatóság hatáskörébe tartozik, a fegyelmi eljárást ennek az eljárásnak a jogerős vagy végleges befejezéséig fel lehet függeszteni.

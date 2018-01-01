@@ -2,11 +2,11 @@
 
 (2) A fegyelmi tanács elnökeként és tagjaként nem járhat el,
 
-a) aki az eljárás alá vont szabadalmi ügyvivő képviselője és volt képviselője, valamint hozzátartozója [Pp. 13. § (2) bek.];
+a) aki az eljárás alá vont szabadalmi ügyvivő képviselője és volt képviselője, valamint Polgári Törvénykönyv szerinti hozzátartozója;
 
-b) aki a panaszt előterjesztette, valamint annak képviselője és volt képviselője, továbbá hozzátartozója [Pp. 13. § (2) bek.];
+b) aki a panaszt előterjesztette, valamint annak képviselője és volt képviselője, továbbá Polgári Törvénykönyv szerinti hozzátartozója;
 
-c) a Kamara elnöke;
+c) a Kamara elnöke, alelnöke, elnökségi tagja;
 
 d) akinek a tanúkénti meghallgatása az eljárásban szükségessé válhat;
 

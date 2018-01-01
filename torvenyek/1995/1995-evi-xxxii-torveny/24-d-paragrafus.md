@@ -24,4 +24,6 @@ c) az eljárás alá vont szabadalmi ügyvivő vétkessége nem állapítható m
 
 (7) A határozatot és indokait szóban ki kell hirdetni, kivéve a tárgyalás mellőzésének esetét, és harminc napon belül az eljárás alá vont szabadalmi ügyvivő, a képviselője, valamint a Kamara elnöke részére kézbesíteni kell.
 
-(8) A tárgyalásról jegyzőkönyvet kell készíteni. A jegyzőkönyvet a fegyelmi tanács elnöke és a jegyzőkönyvvezető írják alá.
+(8) A fegyelmi eljárás eredményéről a határozat kivonatának megküldésével értesíteni kell a panasz előterjesztőjét. A határozat kivonata nem tartalmazhat szabadalmi ügyvivői titkot, illetve olyan adatot, amelynek megismerésére a panasz előterjesztője nem jogosult.
+
+(9) A tárgyalásról jegyzőkönyvet kell készíteni. A jegyzőkönyvet a fegyelmi tanács elnöke és a jegyzőkönyvvezető írják alá.

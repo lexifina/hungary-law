@@ -4,8 +4,8 @@
 
 (3) Az (1) és (2) bekezdés alapján megismert személyes adatokat a Kamara
 
-a) a tagfelvétel iránti eljárás jogerős befejezéséig,
+a) a tagfelvétel iránti eljárás végleges befejezéséig,
 
-b) a szabadalmi ügyvivő Kamarába való felvétele esetén a hatósági ellenőrzés időtartamára, vagy a kamarai tagsági viszony megszüntetésére irányuló eljárásban az eljárás jogerős befejezéséig
+b) a szabadalmi ügyvivő Kamarába való felvétele esetén a hatósági ellenőrzés időtartamára, vagy a kamarai tagsági viszony megszüntetésére irányuló eljárásban az eljárás végleges befejezéséig
 
 kezeli.
