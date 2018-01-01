@@ -12,7 +12,7 @@ d)[^3] mindazon, az a)–c) pontba nem tartozó szervezetre, amely az Itv. szeri
 
 e) a bírósági eljárási illetéket utólagos elszámolással megfizető gazdálkodó szervezetekre,
 
-f)[^4] a törvényszékekre, a fővárosban a Fővárosi Törvényszékre (a továbbiakban együtt: törvényszék),
+f)[^4] a Kúriára, az ítélőtáblákra, a törvényszékekre,
 
 g)[^5] a közjegyző által a fizetési meghagyásos eljárásban, és a fizetési meghagyás alapján indult végrehajtási eljárásban hozott határozat ellen elektronikus úton fellebbező ügyfelekre,
 
@@ -37,7 +37,7 @@ f)[^11] továbbá az Elektronikus Fizetési és Elszámolási Rendszer igénybev
 [^1]: Az 1. § (1) bekezdés a) pontja a 60/2016. (XII. 29.) NGM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja az 5/2011. (II. 11.) NGM rendelet 1. § (1) bekezdésével megállapított, a 47/2015. (XII. 30.) NGM rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg. [Az 1. § (1) bekezdés b) pontjának a 48/2015. (XII. 30.) NGM rendelet 3. §-a szerint elrendelt módosítása, amely szerint „Nemzeti Adó- és Vámhivatal Központi Hivatalára, az Informatikai Intézetre, az Integrált Informatikai és Telekommunikációs Intézetre, az alsó és középfokú adóztatási és vámszerveire” szövegrész helyébe a „Nemzeti Adó- és Vámhivatalra” szöveg lép, nem vezethető át.]
 [^3]: Az 1. § (1) bekezdés d) pontja az 54/2014. (XII. 31.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (1) bekezdés f) pontját az 5/2011. (II. 11.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege az 52/2011. (XII. 29.) NGM rendelet 6. §-a szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdés f) pontját az 5/2011. (II. 11.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege az 52/2017. (XII. 29.) NGM rendelet 13. §-ával megállapított szöveg.
 [^5]: Az 1. § (1) bekezdés g) pontját az 5/2011. (II. 11.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege a 46/2012. (XII. 27.) NGM rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (1) bekezdés h) pontját a 52/2011. (XII. 29.) NGM rendelet 1. § (1) bekezdése iktatta be.
 [^7]: Az 1. § (2) bekezdés a) pontja a 48/2015. (XII. 30.) NGM rendelet 4. §-a, a 60/2016. (XII. 29.) NGM rendelet 3. § a) pontja szerint módosított szöveg.
