@@ -1,4 +1,4 @@
-7/A. §[^25] (1) A Ht. 14. § (1) bekezdés c) pontja szerinti alkalmi jellegű saját hulladék szállítást meghaladó saját hulladék szállítást nyilvántartásba vétel (egyszerűsített bejelentés) alapján végezheti
+7/A. §[^26] (1) A Ht. 14. § (1) bekezdés c) pontja szerinti alkalmi jellegű saját hulladék szállítást meghaladó saját hulladék szállítást nyilvántartásba vétel (egyszerűsített bejelentés) alapján végezheti
 
 a) a Magyar Honvédség honvédelmi miniszteri utasításban kijelölt szerve,
 
@@ -20,7 +20,9 @@ d) hatóság a bejelentés alapján a honlapján elérhető, naprakész elektron
 
 e) a hatóság a nyilvántartásba vételről a bejelentést kérőnek nem küld értesítést,
 
-f) a 15. §-ban foglalt feltételek esetén az engedély visszavonása helyett a nyilvántartásból törlést kell alkalmazni.
+f) a 15. §-ban foglalt feltételek esetén az engedély visszavonása helyett a nyilvántartásból törlést kell alkalmazni,
+
+g)[^27] a nyilvántartásba vétel elintézése – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és a kérelem személyesen történő benyújtása esetén – automatikus döntéshozatali eljárásban történik.
 
 (3) A hatóság öt évre veszi nyilvántartásba a bejelentőt.
 
@@ -38,4 +40,5 @@ f) a 15. §-ban foglalt feltételek esetén az engedély visszavonása helyett a
 
 (10) A tevékenységet környezetveszélyeztetést kizáró módon kell végezni, a szállítás közben meg kell akadályozni a hulladék szél általi elhordását, vagy nedves hulladék esetén a kicsöpögését. A szállító felelős a hulladék rendeltetési helyére történő biztonságos eljuttatásáért. Szállításból eredő esetleges szennyezés esetén a hulladék szállítója köteles haladéktalanul gondoskodni az eredeti környezeti állapot helyreállításáról, a terület szennyezés-mentesítéséről és a hulladék elszállításáról.
 
-[^25]: A 7/A. §-t a 440/2016. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^26]: A 7/A. §-t a 440/2016. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^27]: A 7/A. § (2) bekezdés g) pontját a 457/2017. (XII. 28.) Korm. rendelet 423. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

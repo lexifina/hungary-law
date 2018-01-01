@@ -1,3 +1,3 @@
-## 3. [^8] A hulladék gyűjtésének, szállításának, közvetítésének és kereskedelmének engedélyezésére, valamint a hulladékszállítás nyilvántartásba vételére vonatkozó szabályok
+## 3. [^9] A hulladék gyűjtésének, szállításának, közvetítésének és kereskedelmének engedélyezésére, valamint a hulladékszállítás nyilvántartásba vételére vonatkozó szabályok
 
-[^8]: A 3. alcím címe a 440/2016. (XII. 16.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. alcím címe a 440/2016. (XII. 16.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
