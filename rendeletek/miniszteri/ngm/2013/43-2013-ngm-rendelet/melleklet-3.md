@@ -38,6 +38,6 @@
 
 ## A támogatást a Start-számla vezetője ezen igazolás alapján igényli a Magyar Államkincstártól (a továbbiakban: kincstár), illetve amennyiben a Start-számlát a kincstár vezeti, akkor a támogatást a kincstár az igazolás alapján írja jóvá a számlán.
 
-3. melléklet a 43/2013. (X. 1.) NGM rendelethez[^4]
+3. melléklet a 43/2013. (X. 1.) NGM rendelethez[^7]
 
-[^4]: A 3. melléklet a 4/2017. (III. 29.) NGM rendelet 1. § d) pontja szerint módosított szöveg.
+[^7]: A 3. melléklet a 44/2017. (XII. 21.) NGM rendelet 3. § a) pontjával megállapított szöveg.

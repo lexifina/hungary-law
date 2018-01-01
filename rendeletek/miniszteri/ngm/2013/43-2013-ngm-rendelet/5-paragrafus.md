@@ -1,1 +1,3 @@
-## 4. § A 2. és 3. § szerinti adatszolgáltatás papír alapon történő teljesítését a kincstár elfogadja, ha az elektronikus úton történő teljesítés feltételei nem biztosítottak.
+## 4. §[^3]
+
+[^3]: A 4. §-t a 44/2017. (XII. 21.) NGM rendelet 4. §-a hatályon kívül helyezte.

@@ -1,1 +1,3 @@
-## 3. § A Fétám tv. 9/B. §-a szerinti adatszolgáltatást a gyámhatóság a 4. melléklet szerinti formában és tartalommal elektronikus úton teljesíti a kincstár részére.
+## 3. §[^2] A Fétám tv. 5. § (4) bekezdése szerinti kérelmek egységes tartalmi követelményeit a 4. melléklet határozza meg.
+
+[^2]: A 3. § a 44/2017. (XII. 21.) NGM rendelet 2. §-ával megállapított szöveg.
