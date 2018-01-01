@@ -4,42 +4,28 @@
 
 ## Különös eljárási szabályok
 
-39. § (1) Az élelmiszerlánc-felügyeleti szerv eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit a 39., 40. és 42. §-ban, a 44. §-ban, a 49–50. §-ban meghatározott eltérésekkel kell alkalmazni.
+39. § (1) A függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról a következő élelmiszerlánc-felügyeleti eljárásokban:
 
-(2) Az ügyintézési határidő a laboratóriumi vizsgálat elvégzéséhez elengedhetetlenül szükséges időtartammal, de legfeljebb két hónappal meghosszabbítható.
+a) a növényvédő szerek, valamint a növényvédő szernek nem minősülő növényvédelmi hatású termékek, védőanyagok, kölcsönhatás-fokozók, segédanyagok, hatásjavítók, növényvédelmi célú eszközök és anyagok, makroszervezetek és mikroorganizmusok, termésnövelő anyagok forgalombahozatali, felhasználási engedélyezése és az engedély módosítása,
 
-(3) Ha a hatósági ellenőrzés keretében történő monitoringvizsgálat során a vizsgálati eredmény alapján nem állapítható meg jogsértés, a hatóság a vizsgálati jegyzőkönyvet nem küldi meg az ügyfél részére.
+b) engedélyköteles növény- és talajkezelő termékek eseti, szükséghelyzeti és kísérleti engedélyezése,
 
-(4) Az élelmiszerlánc felügyelete során
+c) növényvédő szer hatóanyagok egyenértékűségével és megfelelőségével kapcsolatos eljárás,
 
-a) a 33. § a) és az 57. § d) pontjában leírt;
+d) az 1272/2008/EK európai parlamenti és tanácsi rendelet előírásaira figyelemmel módosított címketerv módosításának engedélyezése,
 
-b) a 42. § (4) bekezdésében leírt;
+e) az állatgyógyászati termék laboratóriumon kívüli gyakorlati kipróbálásának, gyártásának, ideiglenes jellegű felhasználásának, az állatgyógyászati készítmények hatóanyaga gyártásának, az állatgyógyászati termék és az állatgyógyászati készítmény engedélyezése, az engedély módosítása, megújítása,
 
-c) az országos monitoringvizsgálatot elrendelő;
+f) a rendszeres gyógyszerbiztonsági jelentések értékelési eljárása,
 
-d) az engedélyköteles termék és az állatgyógyászati készítmény forgalomba hozatalával és nagykereskedelmi forgalomba hozatalával kapcsolatos engedélyezési, engedély- módosítási, illetve visszavonási;
+g) a Helyes Kísérleti Gyakorlat (GEP) alkalmazásának engedélyezése,
 
-e) az állatok jelölésére szolgáló elektronikus jelölőeszközök (mikrochipek) forgalomba hozatalával kapcsolatos engedélyezési;
+h) tanúsító szervezet elismerése,
 
-f) az engedélyköteles termék és az állatgyógyászati készítmény behozatalával kapcsolatos engedélyezési;
+i) nem állami laboratóriumok engedélyezése,
 
-g) az engedélyköteles termék, és az állatgyógyászati készítmény eseti felhasználásával kapcsolatos engedélyezési;
+j) idegen állományból származó állatok fogadására kiválasztott elkülönítő (karantén) engedélyezése,
 
-h) a még nem engedélyezett engedélyköteles termékkel folytatott szabadföldi kísérletek nyilvános bemutatásával, illetve a vizsgálati eredmények ismertetésével kapcsolatos engedélyezési;
+k) kísérleti vagy tudományos célú tevékenység, illetve fajtaszelekciós munka céljából jogszabályban meghatározott tilalmazott károsító, vizsgálatköteles áru, továbbá egyéb, Magyarországon nem honos életképes növényi károsító bármely fejlődési alakjának, tenyészetének Magyarországra való behozatalának, belföldi szállításának, fuvarozásának, illetve felhasználásának engedélyezése.
 
-i) az új takarmánnyal kapcsolatos engedélyezési;
-
-j) az állat-, illetve növény-egészségügyi ellenőrzésre kötelezett áruk behozatalával kapcsolatos engedélyezési;
-
-k) az országhatáron élelmiszerlánc-felügyeleti okból feltartóztatott áruk beszállításának engedélyezésével kapcsolatos;
-
-l) a Magyarországon nem engedélyezett, egyébként engedélyköteles termékkel kezelt növény, növényi termék behozatalával kapcsolatos engedélyezési;
-
-m) az országban nem honos zárlati károsító megjelenése miatt több megyére, illetve országosan kiterjedő állami védekezést elrendelő;
-
-n) a tanúsító szervezet vonatkozásában a 27. § (5) bekezdése szerinti;
-
-o) országos illetékességgel az a)–n) pontokban meghatározottaktól eltérő
-
-eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+(2) Az élelmiszerlánc-felügyelet hatósági eljárásával kapcsolatos perben egyezség nem köthető.

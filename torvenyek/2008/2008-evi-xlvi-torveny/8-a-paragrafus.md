@@ -4,7 +4,7 @@
 
 (3) Aki az (1) bekezdés szerinti gombaszakellenőri tevékenységet kíván folytatni, köteles az erre irányuló szándékát az élelmiszerlánc-felügyeleti szervnek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
-(4) A gomba-szakellenőr jogosult lefoglalni
+(4) A gomba-szakellenőr jogosult zár alá venni
 
 a) a mérgező, valamint emberi fogyasztásra alkalmatlan gombát,
 

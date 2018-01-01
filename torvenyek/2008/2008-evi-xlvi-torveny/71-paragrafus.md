@@ -20,9 +20,9 @@ e) az állati eredetű melléktermékre vonatkozó jogszabályok megsértése, v
 
 (5) Az élelmiszerlánc-felügyeleti szerv az általa ellenőrzött növény vagy növényi termék növényvédőszer-maradék, illetve termésnövelő anyagból származó, vagy egyéb toxikus anyag tartalmának laboratóriumi vizsgálati eredményeit a megengedett határértéket meghaladó tartalom esetén – a termelő, illetve az ellenőrzött személy nevével vagy cégnevével és lakcímével vagy székhelyével együtt – az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint közzéteszi.
 
-(6) A (4)–(5) bekezdésben megjelölt adatokat a honlapról a jogsértés jogerős megállapításától számított 2 év után törölni kell, illetve ezen időpontot követően az adatok nem hozhatók újra nyilvánosságra.
+(6) A (4)–(5) bekezdésben megjelölt adatokat a honlapról a jogsértést megállapító határozat véglegessé válásától számított 2 év után törölni kell, illetve ezen időpontot követően az adatok nem hozhatók újra nyilvánosságra.
 
-(7) A jogsértések nyilvánosságra hozatala a döntés jogerőre emelkedését követően vagy a fellebbezésre tekintet nélkül végrehajtható döntés meghozatalát követően lehetséges.
+(7) A jogsértések nyilvánosságra hozatala a döntés véglegessé válását követően vagy a fellebbezésre tekintet nélkül végrehajtható döntés meghozatalát követően lehetséges.
 
 (8) A kockázatos vállalkozások listájának összeállítása során figyelembe kell venni a 24. § (1) bekezdés b) pontja, a 32. § (1) bekezdés u) és v) pontja, valamint (5) bekezdése alapján keletkező információkat.
 

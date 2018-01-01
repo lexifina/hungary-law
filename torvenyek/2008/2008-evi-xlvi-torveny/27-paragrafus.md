@@ -12,7 +12,7 @@ e) az országos főállatorvos.
 
 (2) Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak megbízási jogviszony keretében történő elvégzésére kormányrendelet feljogosíthatja a szolgáltató állatorvost.
 
-(3) Ha az állami feladatok elvégzésére feljogosított szolgáltató állatorvos, növényorvos, valamint a segédszemélyzet az élelmiszerlánc-felügyeleti szerv nevében állami feladatokat lát el, akkor a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályainak alkalmazásával jár el, továbbá ezen tevékenységéért az e törvény végrehajtására kiadott jogszabályban foglaltak szerint díjazás illeti meg.
+(3) Ha az állami feladatok elvégzésére feljogosított szolgáltató állatorvos, növényorvos, valamint a segédszemélyzet az élelmiszerlánc-felügyeleti szerv nevében állami feladatokat lát el, akkor az általános közigazgatási rendtartásról szóló törvény szabályainak alkalmazásával jár el, továbbá ezen tevékenységéért az e törvény végrehajtására kiadott jogszabályban foglaltak szerint díjazás illeti meg.
 
 (4) Az állami feladatok elvégzésére feljogosított szolgáltató állatorvos, növényorvos, valamint a segédszemélyzet a feladatkörébe tartozó eljárásokért köteles az e törvény végrehajtására kiadott jogszabályban előírt igazgatási szolgáltatási díjat beszedni, és a jogszabályban meghatározott befizetési határidőben az élelmiszerlánc-felügyeleti szerv számlájára befizetni.
 

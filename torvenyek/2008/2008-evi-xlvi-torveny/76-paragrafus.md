@@ -4,7 +4,17 @@
 
 a) jelölje ki az élelmiszerlánc-felügyeleti szervet, határozza meg jogállását, részletes feladatkörét és eljárási rendjét;
 
-b)
+b) szabályozza
+
+ba) a különleges táplálkozási célú élelmiszerek, étrend-kiegészítők, valamint vitaminok, ásványi és egyéb anyagok hozzáadásával készült élelmiszerek bejelentésére, nyilvántartásba vételére, hatósági ellenőrzésére és az ellenőrzés alapján hozható intézkedésekre,
+
+bb) a közétkeztetési szolgáltatás hatósági ellenőrzésére,
+
+bc) az élelmiszer eredetű megbetegedések esetén követendő hatósági eljárásra,
+
+bd) az élelmiszerekkel kapcsolatos tápanyag-összetétel és egészségre vonatkozó állítások bejelentésére, módosítására, továbbá a tápértékjelölés esetén követendő hatósági eljárásra
+
+vonatkozó előírásokat;
 
 c) határozza meg a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Állat-egészségügyi és Állatjóléti Kódex és a Növényvédelmi Módszertani Gyűjtemény összeállításának, közzétételének szabályait, az élelmiszerkönyvi és a takarmánykódex-irányelvek kiadásának rendjét, továbbá jelölje ki a gondozásukat, valamint a FAO/WHO Codex Alimentarius Bizottság munkájában való magyar részvétel szakmai irányítását végző szervet;
 

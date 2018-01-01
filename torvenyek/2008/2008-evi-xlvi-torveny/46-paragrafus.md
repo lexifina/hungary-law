@@ -4,4 +4,4 @@
 
 (3) A helyszíni ellenőrzés és szemle költségét az eljáró élelmiszerlánc-felügyeleti szerv önköltségszámításra vonatkozó szabályzatában foglaltak szerint kell megállapítani.
 
-(4) A meg nem fizetett eljárási költségek és késedelmi pótlékok adók módjára behajtandó köztartozásnak minősülnek.
+(4)

@@ -1,6 +1,6 @@
 ## A bírságok megfizetésének szabályai
 
-64. § (1) A bírságot az azt kiszabó határozat jogerőre emelkedésétől számított tizenötödik napig meg kell fizetni.
+64. § (1) A bírságot az azt kiszabó határozat véglegessé válásától számított tizenötödik napig meg kell fizetni.
 
 (2) A forgalmazó által okozott hiba miatt kiszabott bírság a terméket a forgalmazónak kereskedelmi céllal értékesítő személyre (beszállító) nem hárítható át.
 

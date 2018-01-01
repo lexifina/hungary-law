@@ -2,7 +2,7 @@
 
 50. § (1) Közérdekű védekezést kell elrendelni, ha a termelő, illetve a földhasználó védekezési kötelezettségének az azt elrendelő hatósági határozat ellenére sem tesz határidőre eleget. A közérdekű védekezést az élelmiszerlánc-felügyeleti szerv rendeli el.
 
-(2) A költségvetési törvényben meghatározott előirányzatból kell biztosítani a közérdekű védekezés költségeinek megelőlegezését. A közérdekű védekezés elrendelését követően a költségek tizenöt napon belüli megtérítésére kell kötelezni az (1) bekezdés szerinti mulasztás elkövetőjét. A kötelezett nem fizetése esetén a közérdekű védekezés költségei adók módjára kerülnek behajtásra az élelmiszerlánc-felügyeleti szerv javára. A költségek behajtásáról az állami adóhatóság gondoskodik.
+(2) A költségvetési törvényben meghatározott előirányzatból kell biztosítani a közérdekű védekezés költségeinek megelőlegezését. A közérdekű védekezés elrendelését követően a költségek tizenöt napon belüli megtérítésére kell kötelezni az (1) bekezdés szerinti mulasztás elkövetőjét. A kötelezett nem fizetése esetén a közérdekű védekezés költségei az élelmiszerlánc-felügyeleti szerv javára kerülnek behajtásra.
 
 (3) Amennyiben a költségek megtérítésére kötelezett a közérdekű védekezéssel érintett ingatlan tulajdonosa és az ingatlan közös tulajdonban áll, a költségek megtérítéséért valamennyi tulajdonos egyetemlegesen felel.
 
