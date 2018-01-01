@@ -1,0 +1,5 @@
+### 210. § [A vámtanácsadói igazolvány joghatásai]
+
+(1) A vámtanácsadói igazolványt a bejegyzett adatok és jogok igazolására a vámigazgatási eljárásban a vámhatóság köteles elfogadni. Ha a vámhatóság az eljárás során az igazolvány érvénytelenségével kapcsolatban vagy nyilvántartásból való törlésre okot adó bizonyítékot tár fel, úgy a nyilvántartásba vételt végző szervezetet megkeresi.
+
+(2) A vámtanácsadói nyilvántartás közhitelessége alapján az ellenkező bizonyításáig vélelmezni kell annak jóhiszeműségét, aki e nyilvántartásban szereplő adatokban bízva szerez jogot. Az ellenkező bizonyításáig az e nyilvántartásba bejegyzett adatról vélelmezni kell, hogy az fennáll, az e nyilvántartásból törölt adatról vélelmezni kell, hogy nem áll fenn. Senki sem hivatkozhat arra, hogy az e nyilvántartásba bejegyzett adatot nem ismeri, kivéve, ha az e nyilvántartásba bejegyzett adat személyes adatnak vagy törvény által védett titoknak minősül, és megismerhetőségének törvényi feltételei nem állnak fenn.

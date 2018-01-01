@@ -1,0 +1,3 @@
+### 86. § [Emelt összegű vámigazgatási bírság]
+
+Ha a jogsértést vagy mulasztást a bizonylatok, könyvek, nyilvántartások meghamisításával, megsemmisítésével követik el, és annak eredményeként vám és egyéb teherfizetési kötelezettség keletkezik, a vámigazgatási bírság összege a kötelezettségszegés vagy mulasztás eredményeként keletkezett vám és egyéb teherfizetési kötelezettség 200%-a. Ha a rosszhiszeműen elkövetett kötelezettségszegéssel vagy mulasztással nem keletkezik vám és egyéb teherfizetési kötelezettség, a vámigazgatási bírság összege természetes személy esetében minimum 15.000 forint, maximum 300.000 forint, minden más személy esetében minimum 50.000 forint, maximum 3 millió forint.
