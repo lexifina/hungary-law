@@ -12,4 +12,4 @@ hatálybalépéséig – ha az a) pont szerinti esetben az uniós jogi aktus, a 
 
 (3) A harmonizációs uniós jogi aktus hatálya alá nem tartozó körben kiadott jogszabályi rendelkezés alapján e törvény hatálybalépését megelőzően kijelölt szervezeteknek legkésőbb 2012. december 31-ig kell megfelelniük az e törvényben és a végrehajtására kiadott jogszabályokban foglalt követelményeknek.
 
-(4)
+(4) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
