@@ -1,3 +1,0 @@
-11. § (1) Az ügyfél kizárólag egy támogatási kérelmet nyújthat be támogatási időszakonként. E rendelet alapján az ügyfél újabb támogatási kérelmet kizárólag a korábbi fejlesztés utolsó kifizetési kérelmének beadását követően nyújthat be.
-
-(2) Ha az ügyfél az Európai Mezőgazdasági Vidékfejlesztési Alap mikrovállalkozások létrehozására és fejlesztésére nyújtható támogatások részletes feltételeiről szóló 136/2008. (X. 18.) FVM rendelet vonatkozásában rendelkezik benyújtott, de még el nem bírált támogatási kérelemmel, illetve ezen támogatási kérelem vonatkozásában nem rendelkezik jogerős támogatási határozattal, akkor e rendelet alapján újabb támogatási kérelem benyújtására nem jogosult.
