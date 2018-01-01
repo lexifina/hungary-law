@@ -2,6 +2,6 @@
 
 ## részére meghatározott feladatok ellátására.
 
-## 7.[^12]
+## 7.[^18]
 
-[^12]: A 7. alcímet (10. §) a 183/2017. (VII. 5.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^18]: A 7. alcímet (10. §) a 183/2017. (VII. 5.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.

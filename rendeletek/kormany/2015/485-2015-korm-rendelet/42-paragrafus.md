@@ -1,3 +1,3 @@
-## 41. §[^47] Az AEO feltételek vizsgálata, az AEO engedély kiadása, az AEO státus nyomon követése, újraértékelése során a megyei igazgatóság illetékességi területén kívül is eljárhat.
+## 41. §[^69] Az AEO feltételek vizsgálata, az AEO engedély kiadása, az AEO státus nyomon követése, újraértékelése során a megyei igazgatóság illetékességi területén kívül is eljárhat.
 
-[^47]: A 41. § a 88/2016. (IV. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^69]: A 41. § a 88/2016. (IV. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
