@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-125-00-00
 | 2016-07-17 | 2016. évi LXIX. törvény | 1995-125-00-00.51 |
 | 2017-01-01 | 2016. évi CXVI. törvény | 1995-125-00-00.52 |
 | 2017-05-05 | 2017. évi XXXIII. törvény | 1995-125-00-00.53 |
+| 2018-01-01 | 2017. évi XXXIX. törvény | 1995-125-00-00.54 |

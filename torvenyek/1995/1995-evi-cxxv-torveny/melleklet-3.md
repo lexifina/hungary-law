@@ -6,9 +6,9 @@ Az utasadatok átvétele és kezelése céljából terrorista és súlyos bűncs
 
 1.1. a terrorizmus elleni küzdelemről szóló, 2002. június 13-i 2002/475/IB tanácsi kerethatározat 1. cikkében meghatározott terrorista bűncselekmény, 2. cikkében meghatározott terrorista csoporthoz kapcsolódó bűncselekmény, 3. cikkében meghatározott terrorista tevékenységgel összefüggő bűncselekmény vagy 4. cikke szerinti, bűncselekményre való felbujtás, bűnsegély vagy kísérlet,
 
-1.2. terrorcselekmény [Btk. 314. § (1)–(2) bekezdés, 315. § (1)–(2) bekezdés, 316. §],
+1.2. terrorcselekmény [Btk. 314. § (1)–(2) bekezdés, 315. § (1)–(2) bekezdés, 316–316/A. §],
 
-1.3. terrorizmus finanszírozása [Btk. 318. § (1)–(2) bekezdés],
+1.3. terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §),
 
 1.4. alkotmányos rend erőszakos megváltoztatása [Btk. 254. § (1)–(2) bekezdés],
 

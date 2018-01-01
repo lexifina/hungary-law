@@ -26,7 +26,7 @@ l) működési területén a nyomozás elrendeléséig végzi
 
 la) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), az emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), a külföldre szökés (1978. évi IV. törvény 343. §), a zendülés (1978. évi IV. törvény 352. §) és a harckészültség veszélyeztetése (1978. évi IV. törvény 363. §),
 
-lb) az emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), a külföldre szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §)
+lb) az emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), a szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §)
 
 bűncselekmények felderítését;
 
@@ -34,7 +34,7 @@ m) működési területén felderíti
 
 ma) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti terrorcselekményt (1978. évi IV. törvény 261. §),
 
-mb) a terrorcselekményt (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztását (Btk. 317. §) és a terrorizmus finanszírozását (Btk. 318. §);
+mb) a terrorcselekményt (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztását (Btk. 317. §) és a terrorizmus finanszírozását (Btk. 318–318/A. §) vagy háborús uszítást (Btk. 331. §);
 
 n) működési területén információkat szerez
 
