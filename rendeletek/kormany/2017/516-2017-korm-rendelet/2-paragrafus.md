@@ -1,0 +1,3 @@
+## 1. § A vasúti piacfelügyeleti bírság mértékére és alkalmazására vonatkozó részletes szabályokról szóló 8/2006. (I. 13.) Korm. rendelet (a továbbiakban: R1.) 1/A. §-a helyébe a következő rendelkezés lép:
+
+## „1/A. § E rendelet alkalmazásában árbevétel alatt a jogsértő szervezetnek a vasúti közlekedési tevékenységből származó előző üzleti évi nettó árbevételét, amennyiben a jogsértést olyan kiszolgálólétesítmény-üzemeltető követte el, amely nem minősül pályahálózat-működtetőnek, e szervezetnek a kiszolgáló létesítmény üzemeltetéséből, valamint a kiszolgáló létesítményben nyújtott, a Vtv. 2. melléklet 2–4. pontja szerinti szolgáltatásokból származó árbevételét kell érteni.”

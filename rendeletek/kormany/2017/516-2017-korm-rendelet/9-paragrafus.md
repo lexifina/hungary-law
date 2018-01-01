@@ -1,3 +1,3 @@
-## 8. §[^4]
+## 8. § A közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet (a továbbiakban: R4.) 5. §-a a következő (7) bekezdéssel egészül ki:
 
-[^4]: A 8. § a 40. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## „(7) Nem kell az (1) bekezdésben meghatározott bírságot kiszabni, ha a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló 36/2017. (IX. 18.) NFM rendelet 2. § (1) bekezdés a) pont af) alpontjában meghatározott jármű megengedett legnagyobb össztömeg túllépése 2018. június 30. napjáig elkövetett jogsértések esetén nem haladja meg a 2%-ot, 2018. július 1. napjától 2018. december 31. napjáig elkövetett jogsértések esetén nem haladja meg az 1%-ot.”

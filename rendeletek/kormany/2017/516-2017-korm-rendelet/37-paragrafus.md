@@ -1,0 +1,1 @@
+## „(6) A visszaváltás és a visszatérítés részletes feltételeit – ideértve a megítélt visszatérítés teljesítésének határidejét is, ami nem haladhatja meg a visszatérítési igény megítélésétől számított 30 napot – a vasúti társaság a személyszállítási üzletszabályzatban állapítja meg.”

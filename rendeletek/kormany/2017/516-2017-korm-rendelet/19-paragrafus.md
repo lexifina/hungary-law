@@ -1,5 +1,5 @@
-## 18. §[^11]
+## 18. § A díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet 27. §-a a következő (7) bekezdéssel egészül ki:
+
+## „(7) Az 1073/2009/EK rendelet 6. cikkében foglaltak szerint kiadott engedéllyel a közlekedési hatóság által engedélyezett tevékenység csak abban az esetben végezhető, ha az engedély jogosultja rendelkezik a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendelet szerinti autóbuszos piacfelügyeleti és utasjogi hatóság által jóváhagyott üzletszabályzattal és a jóváhagyott üzletszabályzatot hivatalos honlapján közzétette.”
 
 ## 10. A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosítása
-
-[^11]: A 18. § a 40. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

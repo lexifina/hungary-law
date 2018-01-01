@@ -1,3 +1,1 @@
-## 11–12. §[^7]
-
-[^7]: A 11–12. § a 40. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## 12. § Az R5. 1. mellékletében foglalt táblázat 6. sor a) alpontjában a „lejárt, a gépjárműadó” szövegrész helyébe a „lejárt, korábban már felhasznált, a gépjárműadó” szöveg lép.
