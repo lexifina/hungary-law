@@ -4,4 +4,6 @@
 
 a) a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-b) az 1. mellékletben a Beruházások megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási eljárások jogerős befejezését követően kialakított ingatlanokat érintik.
+b)[^1] az 1. mellékletben a Beruházások megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási eljárások véglegessé válását követően kialakított ingatlanokat érintik.
+
+[^1]: Az 1. § (2) bekezdés b) pontja a 6. § (1) bekezdése szerint módosított szöveg.
