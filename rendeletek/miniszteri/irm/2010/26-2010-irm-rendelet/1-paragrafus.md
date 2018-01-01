@@ -3,3 +3,7 @@
 1. § (1) A fizetési meghagyásos eljárásért, a fizetési meghagyásos eljárást követő végrehajtási eljárás elrendelésért és a biztosítási intézkedés elrendeléséért (a továbbiakban együtt: eljárás) fizetendő eljárási díjat és végrehajtási díjat, a biztosítási intézkedés elrendeléséért fizetendő díjat, valamint a végrehajtói kézbesítés díját (a továbbiakban együtt: díj) a fizetési meghagyásos eljárásról szóló 2009. évi L. törvényben (a továbbiakban: Fmhtv.) foglaltakon túlmenően a fél választása szerint az e rendeletben meghatározott módokon is meg lehet fizetni.
 
 (2) A félnek a fizetési meghagyásos eljárásban, a fizetési meghagyásos eljárást követő végrehajtási eljárásban, továbbá a biztosítási intézkedés elrendelése iránti eljárásban az eljárás során készült irat nem hiteles másolatáért a másolatot kiadó közjegyzőnek az e rendeletben meghatározott mértékű másolati díjat kell megfizetnie.
+
+(3)[^1] E rendelet alkalmazása során a fizetési meghagyásos eljárás alatt a részletekben való teljesítés és a fizetésre halasztás iránt kezdeményezett eljárást, valamint a kiszabott pénzbírság megfizetésére halasztás vagy részletfizetés engedélyezése iránt kezdeményezett eljárást is érteni kell.
+
+[^1]: Az 1. § (3) bekezdését a 20/2017. (XII. 21.) IM rendelet 33. § (1) bekezdése iktatta be.
