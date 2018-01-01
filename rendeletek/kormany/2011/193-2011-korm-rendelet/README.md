@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-193-20-
 | 2011-10-22 | 2011-193-20-22.1 | 193/2011. (IX. 22.) Korm. rendelet |
 | 2017-01-01 | 2011-193-20-22.2 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-01-15 | 2011-193-20-22.3 | 445/2016. (XII. 16.) Korm. rendelet |
+| 2018-01-01 | 2011-193-20-22.4 | 457/2017. (XII. 28.) Korm. rendelet |

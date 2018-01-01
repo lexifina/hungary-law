@@ -16,6 +16,6 @@
 
 (8) A termék címkéjén vagy az adatlapján megadott információ nyilvános.
 
-(9)[^7] A címke és a termékismertető adatlap interneten való megjeleníthetősége érdekében a beszállítók az energiával kapcsolatos termékek minden új modellazonosítóval ellátott termékéhez átadják a kereskedőknek a címke és a termékismertető adatlap elektronikus változatát.
+(9)[^9] A címke és a termékismertető adatlap interneten való megjeleníthetősége érdekében a beszállítók az energiával kapcsolatos termékek minden új modellazonosítóval ellátott termékéhez átadják a kereskedőknek a címke és a termékismertető adatlap elektronikus változatát.
 
-[^7]: A 4. § (9) bekezdését a 445/2016. (XII. 16.) Korm. rendelet 3. §-a iktatta be.
+[^9]: A 4. § (9) bekezdését a 445/2016. (XII. 16.) Korm. rendelet 3. §-a iktatta be.
