@@ -1,0 +1,1 @@
+## 40. § A menekült, az oltalmazott és a menedékes a befogadás anyagi feltételeinek további biztosítása körében nyújtott ellátásokat abban az esetben veheti igénybe, ha elhelyezéséről és ellátásáról a menekültügyi hatóság a befogadó állomáson gondoskodik.

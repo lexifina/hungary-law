@@ -8,7 +8,7 @@
 
 ## b) lakóhelyének/tartózkodási helyének/szálláshelyének címe:
 
-## c) személyazonosító igazolványának/személyazonosságát és tartózkodási jogát igazoló okmányának/az elismerésről szóló jogerős határozatnak a száma:
+## c) személyazonosító igazolványának/személyazonosságát és tartózkodási jogát igazoló okmányának/az elismerésről szóló végleges határozatnak a száma:
 
 ## B) Vagyoni adatok
 

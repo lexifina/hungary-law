@@ -1,4 +1,4 @@
-## 18. §[^47] Az elismerését kérő a befogadás során nyújtott ellátásokra és támogatásokra akkor tekinthető rászorultnak, ha az elismerést kérő vagy vele közös háztartásban élő házastársa és egyenes ági rokona nem rendelkezik Magyarországon rendelkezésre álló, megélhetését biztosító vagyonnal, továbbá a saját és vele közös háztartásban élő házastársa és egyenes ági rokona összes jövedelmének figyelembevételével számított egy főre jutó havi jövedelme nem haladja meg az öregségi teljes nyugdíj legkisebb összegét.
+## 18. §[^48] Az elismerését kérő a befogadás során nyújtott ellátásokra és támogatásokra akkor tekinthető rászorultnak, ha az elismerést kérő vagy vele közös háztartásban élő házastársa és egyenes ági rokona nem rendelkezik Magyarországon rendelkezésre álló, megélhetését biztosító vagyonnal, továbbá a saját és vele közös háztartásban élő házastársa és egyenes ági rokona összes jövedelmének figyelembevételével számított egy főre jutó havi jövedelme nem haladja meg az öregségi teljes nyugdíj legkisebb összegét.
 
 19. § (1) Ha az elismerését kérő rendelkezik a megélhetését biztosító vagyonnal, vagy jövedelme elérte a 18. §-ban meghatározott mértéket, köteles azt a menekültügyi hatóságnak legkésőbb a vagyon-, illetve jövedelemváltozás bekövetkeztétől számított tizenöt napon belül bejelenteni.
 
@@ -6,19 +6,19 @@
 
 (3) Ha az elismerését kérő vagyoni, illetve jövedelmi helyzetében olyan változás következett be, amely alapján a befogadási feltételek igénybevételére nem jogosult, azok biztosítását meg kell szüntetni.
 
-(4)[^48] A menekültügyi hatóság az elismerését kérőt a Tv. 26. § (4) bekezdése alapján, valamint az (1), illetve (2) bekezdésben meghatározott kötelezettség késedelmes teljesítése miatt – a jogosulatlanná válás időpontjától – jogtalanul igénybe vett ellátás ellenértékének a megfizetésére, illetve a támogatási összeg visszafizetésére kötelezheti. A menekültügyi hatóság a mérlegelés során figyelembe veszi az elismerését kérő vagyoni helyzetét és az igénybe vett támogatás összegét.
+(4)[^49] A menekültügyi hatóság az elismerését kérőt a Tv. 26. § (4) bekezdése alapján, valamint az (1), illetve (2) bekezdésben meghatározott kötelezettség késedelmes teljesítése miatt – a jogosulatlanná válás időpontjától – jogtalanul igénybe vett ellátás ellenértékének a megfizetésére, illetve a támogatási összeg visszafizetésére kötelezheti. A menekültügyi hatóság a mérlegelés során figyelembe veszi az elismerését kérő vagyoni helyzetét és az igénybe vett támogatás összegét.
 
-(5)[^49]
+(5)[^50]
 
-(6)[^50]
+(6)[^51]
 
-(7)[^51] A menekültügyi hatóság által elrendelt visszatérítési kötelezettséget az elismerését kérő postai utalvány vagy házipénztári befizetés útján teljesítheti.
+(7)[^52] A menekültügyi hatóság által elrendelt visszatérítési kötelezettséget az elismerését kérő postai utalvány vagy házipénztári befizetés útján teljesítheti.
 
-(8)[^52] Különös méltánylást érdemlő esetben a menekültügyi hatóság a visszatérítési kötelezettség megállapítása során részletfizetést engedélyezhet.
+(8)[^53] Különös méltánylást érdemlő esetben a menekültügyi hatóság a visszatérítési kötelezettség megállapítása során részletfizetést engedélyezhet.
 
-[^47]: A 18. § a 290/2010. (XII. 21.) Korm. rendelet 86. §-ával megállapított, a 446/2013. (XI. 28.) Korm. rendelet 36. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^48]: A 19. § (4) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
-[^49]: A 19. § (5) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 52. § a) pontja hatályon kívül helyezte.
-[^50]: A 19. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^51]: A 19. § (7) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 32. § (2) bekezdése iktatta be.
-[^52]: A 19. § (8) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^48]: A 18. § a 290/2010. (XII. 21.) Korm. rendelet 86. §-ával megállapított, a 446/2013. (XI. 28.) Korm. rendelet 36. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^49]: A 19. § (4) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^50]: A 19. § (5) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 52. § a) pontja hatályon kívül helyezte.
+[^51]: A 19. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^52]: A 19. § (7) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^53]: A 19. § (8) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 32. § (2) bekezdése iktatta be.

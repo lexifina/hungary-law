@@ -54,6 +54,6 @@
 
 ## 6 Úti vagy személyi okmányokon kívüli más okmányok alapján.
 
-5. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^230]
+5. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^253]
 
-[^230]: Az 5. mellékletet a 446/2013. (XI. 28.) Korm. rendelet 37. § c) pontja iktatta be, a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés h) pontja hatályon kívül helyezte.
+[^253]: Az 5. mellékletet a 446/2013. (XI. 28.) Korm. rendelet 37. § c) pontja iktatta be, a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés h) pontja hatályon kívül helyezte.
