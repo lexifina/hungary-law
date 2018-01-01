@@ -1,0 +1,3 @@
+1. § A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény (a továbbiakban: Szftv.) 1. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Az adóhatóság a 4/A. § (1) bekezdés a) pontja szerinti kedvezményezett részére a rendelkező nyilatkozatot az újabb kedvezményezett megjelöléséig vagy a rendelkező nyilatkozat visszavonására irányuló nyilatkozat benyújtásáig veszi figyelembe. Az újabb kedvezményezett megjelölésére vagy a nyilatkozat visszavonására a nyilatkozattétel évét követően évente egy alkalommal, az 5. § (1) bekezdésben meghatározott határidőig kerülhet sor.”
