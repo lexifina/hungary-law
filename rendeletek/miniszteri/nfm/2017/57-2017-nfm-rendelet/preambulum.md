@@ -1,0 +1,1 @@
+A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. § (4) bekezdés a) és b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 21. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
