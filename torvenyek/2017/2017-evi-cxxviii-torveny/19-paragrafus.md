@@ -1,0 +1,1 @@
+19. § E törvény a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek való megfelelést szolgálja.

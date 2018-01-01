@@ -1,0 +1,3 @@
+4. § (1) Ha a bíróság az eljárás folyamán állapítja meg, hogy a tárgyi költségkedvezmény nem áll fenn, kötelezi a felet, hogy – a végzés jogerőre emelkedésétől számított nyolc napon belül – fizesse meg a meg nem fizetett illetéket, illetve térítse meg az állam által előlegezett költséget, valamint figyelmezteti a felet a mulasztás következményére. A végzés tárgyi költségkedvezmény fenn nem állását megállapító rendelkezése ellen külön fellebbezésnek van helye.
+
+(2) Ha az (1) bekezdés szerinti esetben a felet pártfogó ügyvéd képviseli, a bíróság a tárgyi költségkedvezmény fenn nem állásáról szóló határozat jogerőre emelkedését követő nyolc napon belül a határozat megküldésével értesíti a pártfogó ügyvédi képviseletet engedélyező jogi segítségnyújtó szolgálatot.
