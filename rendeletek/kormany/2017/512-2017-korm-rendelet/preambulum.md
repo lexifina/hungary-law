@@ -1,0 +1,1 @@
+A Kormány a közterület-felügyeletről szóló 1999. évi LXIII. törvény 28/A. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

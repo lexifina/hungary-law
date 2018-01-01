@@ -1,0 +1,1 @@
+## 4. § A forgalmi rendszámmal nem rendelkező jármű felnyitására felvett jegyzőkönyvben a felnyitás és a lezárás tényén felül rögzíteni kell a jármű azonosításához szükséges adatokat, a járműben talált tárgyak felsorolását és a felnyitás során észlelt, a beszállításkor nem rögzített sérüléseket is.

@@ -1,0 +1,1 @@
+## 3. § A külföldi forgalmi rendszámú jármű elszállítása esetén az üzemben tartó megállapítása céljából a közterület-felügyelet az Ákr. 25. §-ának megfelelő alkalmazásával megkeresi annak az államnak a feladat- és hatáskörrel rendelkező hatóságát, ahol a járművet forgalomba helyezték.
