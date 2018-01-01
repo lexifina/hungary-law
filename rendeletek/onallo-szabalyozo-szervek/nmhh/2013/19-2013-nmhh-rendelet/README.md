@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-19-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-01-01 | 2013-19-20-3H.1 | 19/2013. (X. 29.) NMHH rendelet |
+| 2018-01-01 | 2013-19-20-3H.2 | 13/2017. (XII. 29.) NMHH rendelet |

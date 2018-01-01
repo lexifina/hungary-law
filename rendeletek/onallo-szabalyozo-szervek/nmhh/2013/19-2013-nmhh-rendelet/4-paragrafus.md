@@ -2,7 +2,7 @@
 
 (2) A Hatóság az Ügyfélkapu biztonságos tárhely szolgáltatásán keresztül, elektronikus úton értesíti a szolgáltató KEHTA kapcsolattartóit a büntető ügyben eljáró bíróság, illetve a külön törvényben meghatározott hatóság hozzáférés megakadályozásáról szóló határozatáról.
 
-(3) Az értesítés körében a Hatóság az Ügyfélkapu szolgáltatásainak felhasználásával, elektronikusan küldi meg a hozzáférés megakadályozásáról, illetve annak megszüntetéséről szóló bírósági határozatot és a bíróság, illetve a külön törvényben meghatározott hatóság határozatának végrehajtásához szükséges adatokat a szolgáltató KEHTA kapcsolattartói részére. Az elektronikus értesítést – figyelemmel a büntetőeljárásról szóló 1998. évi XIX. törvény 70. § (7b) bekezdésére – az Ügyfélkapun keresztül való megküldés napját követő munkanapon kell kézbesítettnek tekinteni.
+(3)[^1] Az értesítés körében a Hatóság az Ügyfélkapu szolgáltatásainak felhasználásával, elektronikusan küldi meg a hozzáférés megakadályozásáról, illetve annak megszüntetéséről szóló bírósági határozatot és a bíróság, illetve a külön törvényben meghatározott hatóság határozatának végrehajtásához szükséges adatokat a szolgáltató KEHTA kapcsolattartói részére.
 
 (4) A szolgáltató KEHTA kapcsolattartói számára az Ügyfélkapu külön elektronikus levelet küld, ha a Hatóság a szolgáltató részére a (3) bekezdés szerinti adatokat küldött.
 
@@ -21,3 +21,5 @@ b) hitelessége és hitelesítése biztosított (adatkezelés hitelessége),
 c) változatlansága igazolható (adatintegritás),
 
 d) a jogosulatlan hozzáférés ellen védett (adat bizalmassága)
+
+[^1]: A 4. § (3) bekezdése 13/2017. (XII. 29.) NMHH rendelet 11. §-a szerint módosított szöveg.
