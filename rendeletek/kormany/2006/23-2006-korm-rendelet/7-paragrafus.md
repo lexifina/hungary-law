@@ -1,4 +1,4 @@
-## 6. §[^19] Az MBFH törli a nyilvántartásból azt a nyomástartó berendezést vizsgáló szakembert vagy felügyeleti személyt, akit a bányafelügyelet vagy a bíróság a tevékenység folytatásától jogerősen eltiltott, továbbá aki elhalálozott vagy bejelentette a tevékenység befejezését.
+## 6. §[^19] Az MBFH törli a nyilvántartásból azt a nyomástartó berendezést vizsgáló szakembert vagy felügyeleti személyt, akit a bányafelügyelet végleges vagy a bíróság jogerős döntéssel a tevékenység folytatásától eltiltott, továbbá aki elhalálozott vagy bejelentette a tevékenység befejezését.
 
 ## ENGEDÉLYEZÉSI ELJÁRÁSOK
 
@@ -18,7 +18,7 @@ d)[^21]
 
 (2a)[^23] A (2) bekezdés szerinti minőségbiztosítási (műszaki-biztonsági irányítási) rendszert az MBFSZ hagyja jóvá. A minőségbiztosítási (műszaki-biztonsági irányítási) rendszer alkalmazását bányafelügyeleti hatáskörben a megyei kormányhivatal (a továbbiakban: bányafelügyelet) felügyeli.
 
-[^19]: A 6. § a 441/2015. (XII. 28.) Korm. rendelet 64. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. [A 162/2017. (VI. 28.) Korm. rendelet 6. § b) pontjával elrendelt módosítás, amely szerint a 6. § (1) bekezdésében az „MBFH” szövegrész helyébe az „MBFSZ” szöveg lép, nem vezethető át.]
+[^19]: A 6. § a 441/2015. (XII. 28.) Korm. rendelet 64. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 160. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. [A 162/2017. (VI. 28.) Korm. rendelet 6. § b) pontjával elrendelt módosítás, amely szerint a 6. § (1) bekezdésében az „MBFH” szövegrész helyébe az „MBFSZ” szöveg lép, nem vezethető át.]
 [^20]: A 7. § a 273/2009. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^21]: A 7. § (1) bekezdés d) pontját az 559/2013. (XII. 31.) Korm. rendelet 42. § 2. pontja hatályon kívül helyezte.
 [^22]: A 7. § (2) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 33. §-ával megállapított szöveg.

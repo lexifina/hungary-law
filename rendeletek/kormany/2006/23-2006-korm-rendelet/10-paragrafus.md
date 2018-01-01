@@ -2,11 +2,11 @@
 
 10. § (1) A nyomástartó berendezést a használatbavétel engedélyezése céljából az 1. számú melléklet szerinti módon veszélyességi osztályba kell sorolni.
 
-(2)[^39] Mobil nyomástartó berendezés első és további felállítási helyén a berendezés használatba vételét meg kell előznie a felállítási helyen a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett sikeres külső szerkezeti vizsgálatnak és tömörségi nyomáspróbának.
+(2)[^42] Mobil nyomástartó berendezés első és további felállítási helyén a berendezés használatba vételét meg kell előznie a felállítási helyen a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett sikeres külső szerkezeti vizsgálatnak és tömörségi nyomáspróbának.
 
 (3) Amennyiben a nyomástartó berendezés valamely bányafelügyeleti engedélyköteles létesítmény része, illetve tartozéka, a berendezés használatbavételi eljárása a létesítmény használatának engedélyezésével együtt, egy eljárás keretében is lefolytatható.
 
-(4)[^40] A bányafelügyelethez benyújtandó használatbavételi engedély kérelemnek tartalmaznia kell:
+(4)[^43] A bányafelügyelethez benyújtandó használatbavételi engedély kérelemnek tartalmaznia kell:
 
 a) a létesítmény helyét, helyrajzi számát,
 
@@ -14,21 +14,21 @@ b) a létesítési engedély számát és keltét az engedélyező megnevezésé
 
 c) az üzemeltető megnevezését és címét,
 
-d)[^41] ha a létesítési tervdokumentáció nem tartalmazta, akkor a nyomástartó berendezés gyártójának, forgalmazójának, megfelelőségértékelést végző bejelentett szervezet megnevezését, a létesítési engedély számát, a berendezés gyári számát, telepítési helyét, műszaki adatait; különösen a térfogatát, töltetét, tervezési nyomását, hőmérsékletét, az anyagmegválasztás alapjául szolgáló hőmérsékletet, a legkisebb üzemi hőmérsékletet és a legnagyobb üzemnyomását,
+d)[^44] ha a létesítési tervdokumentáció nem tartalmazta, akkor a nyomástartó berendezés gyártójának, forgalmazójának, megfelelőségértékelést végző bejelentett szervezet megnevezését, a létesítési engedély számát, a berendezés gyári számát, telepítési helyét, műszaki adatait; különösen a térfogatát, töltetét, tervezési nyomását, hőmérsékletét, az anyagmegválasztás alapjául szolgáló hőmérsékletet, a legkisebb üzemi hőmérsékletet és a legnagyobb üzemnyomását,
 
-e)[^42] a nyomástartó berendezésen (rendszeren) a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett vizsgálatok felsorolását,
+e)[^45] a nyomástartó berendezésen (rendszeren) a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett vizsgálatok felsorolását,
 
 f) a nyomástartó berendezés egyedi, illetve a rendszer védelmét ellátó nyomáshatároló beépítési helyét, kategóriáját, valamint műszaki jellemzőit (típus, jellemző teljesítménytényező, beállítási – a legnagyobb üzemnyomás – nyomás) és az alkalmazott megfelelőség értékelési eljárás szerint elvégzett eredményes vizsgálatok felsorolását, valamint az egyéb biztonsági berendezések ismertetését és beépítési helyüket.
 
 (5) A használatbavételi engedély iránti kérelemhez mellékelni kell:
 
-a) a nyomástartó berendezésen (rendszeren) a biztonsági szabályzatokban, illetve a létesítési engedélyben előírt elvégzett vizsgálatok bizonylatait (pl. a radiográfiai, a szerkezeti vizsgálatról, a nyomáspróbákról, a geometriai és a falvastagság mérésekről készült jegyzőkönyveket, a vizsgálati terv végrehajtásáról készült igazolásokat, a vizsgálati eredményeket tartalmazó dokumentumokat, a szerelvényeknek – különös tekintettel a biztonsági szerelvényekre – a rendeltetési célra való alkalmasságának igazolását),
+a)[^46]
 
-b) a kivitelezést (telepítést) végző felelős műszaki vezetőjének nyilatkozatát arról, hogy a nyomástartó berendezést (rendszert) a létesítési engedélyben foglaltaknak megfelelően kivitelezte, a helyszíni szerelési állapotban az előírásoknak megfelel és a tervezett célra alkalmas,
+b)[^47]
 
 c) ha a létesítési munkát az engedélytől, valamint a jóváhagyott tervdokumentációtól eltérően végezték, a létesítés felelős műszaki vezetőjének eltérést ismertető nyilatkozatát, valamint szükség szerint a megvalósulást tartalmazó dokumentációt,
 
-d) ha követelmény korróziós próbatestek elhelyezése és a falvastagság rendszeres ellenőrzése, akkor az előírt korróziós próbatestek elhelyezése előtti vizsgálatok és a kijelölt helyeken végzett falvastagság-mérések eredményeit tartalmazó bizonylatokat,
+d)[^48]
 
 e) a nyomástartó berendezés (rendszer) használatára (kezelésére) és karbantartására vonatkozó gyártóművi, üzemeltetői előírásokat,
 
@@ -38,7 +38,19 @@ g) jelentést az esetleg előírt próbaüzem tapasztalatairól.
 
 (6) A 8. § (8) bekezdés szerinti létesítési engedélyben szereplő nyomástartó berendezés használatbavétele az alapadatokat tartalmazó kérelem alapján is engedélyezhető, ha a rendelkezésre álló és engedélyezett típusdokumentum értelemszerűen tartalmazza a (4) és (5) bekezdésekben megkövetelt adatokat és mellékleteket.
 
-[^39]: A 10. § (2) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^40]: A 10. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 75. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^41]: A 10. § (4) bekezdés d) pontja a 163/2010. (V. 11.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^42]: A 10. § (4) bekezdés e) pontja a 273/2009. (XII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+(7)[^49] A használatbavételi engedély iránti kérelem benyújtásakor igazolni kell
+
+a) a nyomástartó berendezésen (rendszeren) a biztonsági szabályzatokban, illetve a létesítési engedélyben előírt vizsgálatok eredményeit (például a radiográfiai, a szerkezeti vizsgálat, a nyomáspróbák, a geometriai és a falvastagság mérések),
+
+b) azt, hogy a nyomástartó berendezést (rendszert) a létesítési engedélyben foglaltaknak megfelelően kivitelezték, az a helyszíni szerelési állapotban az előírásoknak megfelel és a tervezett célra alkalmas,
+
+c) ha követelmény korróziós próbatestek elhelyezése és a falvastagság rendszeres ellenőrzése, akkor az előírt korróziós próbatestek elhelyezése előtti vizsgálatok és a kijelölt helyeken végzett falvastagság-mérések eredményeit.
+
+[^42]: A 10. § (2) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^43]: A 10. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 75. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^44]: A 10. § (4) bekezdés d) pontja a 163/2010. (V. 11.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^45]: A 10. § (4) bekezdés e) pontja a 273/2009. (XII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^46]: A 10. § (5) bekezdés a) pontját a 457/2017. (XII. 28.) Korm. rendelet 161. § c) pontja hatályon kívül helyezte Alkalmazására lásd e módosító rendelet 618. §-át.
+[^47]: A 10. § (5) bekezdés b) pontját a 457/2017. (XII. 28.) Korm. rendelet 161. § c) pontja hatályon kívül helyezte Alkalmazására lásd e módosító rendelet 618. §-át.
+[^48]: A 10. § (5) bekezdés d) pontját a 457/2017. (XII. 28.) Korm. rendelet 161. § c) pontja hatályon kívül helyezte Alkalmazására lásd e módosító rendelet 618. §-át.
+[^49]: A 10. § (7) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 159. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

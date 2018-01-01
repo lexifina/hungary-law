@@ -1,4 +1,4 @@
-3. számú melléklet a 23/2006. (II. 3.) Korm. rendelethez[^90]
+3. számú melléklet a 23/2006. (II. 3.) Korm. rendelethez[^97]
 
 ## Nyomástartó berendezés nyilvántartásának tartalmi követelményei
 
@@ -32,9 +32,9 @@ Az üzemben tartó adatai:
 
 4.6. gyártó neve:
 
-4.7.[^91] megfelelőségértékelést végző bejelentett szervezet neve:
+4.7.[^98] megfelelőségértékelést végző bejelentett szervezet neve:
 
-4.8.[^92] a megfelelőségi tanúsítvány száma:
+4.8.[^99] a megfelelőségi tanúsítvány száma:
 
 4.9. legnagyobb megengedhető nyomás (PS, bar):
 
@@ -82,6 +82,6 @@ Az üzemben tartó adatai:
 
 7.3.1. név, irányítószám, település, utca, házszám
 
-[^90]: A 3. számú melléklet a 273/2009. (XII. 3.) Korm. rendelet 18. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
-[^91]: A 3. számú melléklet 4. pont 4.7. alpontja a 163/2010. (V. 11.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^92]: A 3. számú melléklet 4. pont 4.8. alpontja a 163/2010. (V. 11.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^97]: A 3. számú melléklet a 273/2009. (XII. 3.) Korm. rendelet 18. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
+[^98]: A 3. számú melléklet 4. pont 4.7. alpontja a 163/2010. (V. 11.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^99]: A 3. számú melléklet 4. pont 4.8. alpontja a 163/2010. (V. 11.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

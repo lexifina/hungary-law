@@ -1,4 +1,4 @@
-## 2. §[^7]
+## 2. §[^7] Ha jogszabály eltérően nem rendelkezik, az e rendelet hatálya alá tartozó eljárásokban az ügyintézési határidő 25 nap.
 
 ## Fogalmak
 
@@ -62,7 +62,7 @@
 
 29.[^13] Mobil nyomástartó berendezés: a kőolaj-, és földgázbányászati létesítményekben, kőolaj és földgázkutatási területen, vagy földgázszállítás, földgázelosztás során, változó felállítási helyen üzemelő, valamely technológiai folyamatot – különösen szeparálást, kútmérést, próbatermeltetést, gázátadást, gázfogadást, nyomásszabályozást – ideiglenesen ellátó nyomástartó berendezés.
 
-[^7]: A 2. §-t a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^7]: A 2. §-t a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés a) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 159. § (4) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^8]: A 3. § 5. pontja a 273/2009. (XII. 3.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
 [^9]: A 3. § 6. pontját a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés b) pontja hatályon kívül helyezte.
 [^10]: A 3. § 7. pontja a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés a) pontja szerint módosított szöveg.
