@@ -24,7 +24,7 @@ f)[^42] az igénylő – a 3. § (1) bekezdés f) pontja szerinti otthonteremté
 
 fa)[^43] időpontjától számított 30 napnál nem régebbi okirattal igazolja, hogy saját maga – házastársak vagy élettársak esetén legalább az egyik fél – legalább 180 napja folyamatosan az egészségbiztosítás nyilvántartásában a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. §-a szerinti biztosítottként szerepel – ideértve azt is, ha a legalább 180 nap folyamatos biztosításban legfeljebb 15 nap megszakítás van –, és
 
-fb)[^44] időpontjában szerepel az adózás rendjéről szóló 2003. évi XCII. törvény szerinti köztartozásmentes adózói adatbázisban, vagy 30 napnál nem régebbi okirattal igazolja, hogy az állami adó- és vámhatóságnál nincs nyilvántartott köztartozása,
+fb)[^44] időpontjában szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban, vagy 30 napnál nem régebbi okirattal igazolja, hogy az állami adó- és vámhatóságnál nincs nyilvántartott köztartozása,
 
 g)[^45] az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatban vállalja, hogy
 
@@ -56,7 +56,7 @@ kiállított számlákat.
 
 (1d)[^53] Amennyiben az igénylő a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény alapján saját jogú öregségi vagy özvegyi nyugdíjra jogosult, a 3. § (1) bekezdés b) pontja szerinti korszerűsítés esetén a 4. § (1) bekezdés f) pont fa) alpontja szerinti feltétel nem alkalmazandó.
 
-(1e)[^54] Az (1) bekezdés f) pont fa) alpontjában foglaltakat nem kell figyelembe venni, ha az igénylő a fővárosi és megyei kormányhivatal ápolási díjat megállapító jogerős határozata alapján ápolási díjban részesül.
+(1e)[^54] Az (1) bekezdés f) pont fa) alpontjában foglaltakat nem kell figyelembe venni, ha az igénylő a fővárosi és megyei kormányhivatal ápolási díjat megállapító végleges határozata alapján ápolási díjban részesül.
 
 (1f)[^55] Az (1) bekezdés f) pont fa) alpontja alkalmazásában biztosítottnak minősül az igénylő, ha az otthonteremtési kamattámogatás iránti kérelem
 
@@ -100,7 +100,7 @@ bb) kereső tevékenysége alapján valamely más állam társadalombiztosítás
 [^41]: A 4. § (1) bekezdés e) pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § d) pontja hatályon kívül helyezte.
 [^42]: A 4. § (1) bekezdés f) pontját a 379/2012. (XII. 19.) Korm. rendelet 34. § (2) bekezdése iktatta be, nyitó szövegrésze a 331/2014. (XII. 18.) Korm. rendelet 43. § c) pontja szerint módosított szöveg.
 [^43]: A 4. § (1) bekezdés f) pont fa) alpontja a 455/2015. (XII. 29.) Korm. rendelet 25. § d) pontja szerint módosított szöveg.
-[^44]: A 4. § (1) bekezdés f) pont fb) alpontja a 455/2015. (XII. 29.) Korm. rendelet 25. § d) pontja szerint módosított szöveg.
+[^44]: A 4. § (1) bekezdés f) pont fb) alpontja a 455/2015. (XII. 29.) Korm. rendelet 25. § d) pontja, a 475/2017. (XII. 28.) Korm. rendelet 38. §-a szerint módosított szöveg.
 [^45]: A 4. § (1) bekezdés g) pontját a 379/2012. (XII. 19.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 455/2015. (XII. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^46]: A 4. § (1) bekezdés h) pontját a 379/2012. (XII. 19.) Korm. rendelet 34. § (2) bekezdése iktatta be.
 [^47]: A 4. § (1) bekezdés i) pontját a 379/2012. (XII. 19.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 331/2014. (XII. 18.) Korm. rendelet 43. § d) pontja szerint módosított szöveg.
@@ -110,7 +110,7 @@ bb) kereső tevékenysége alapján valamely más állam társadalombiztosítás
 [^51]: A 4. § (1b) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 34. § (3) bekezdése iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
 [^52]: A 4. § (1c) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 71. § (3) bekezdése iktatta be.
 [^53]: A 4. § (1d) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 36. § (2) bekezdése iktatta be.
-[^54]: A 4. § (1e) bekezdését a 455/2015. (XII. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^54]: A 4. § (1e) bekezdését a 455/2015. (XII. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 376. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^55]: A 4. § (1f) bekezdését a 455/2015. (XII. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
 [^56]: A 4. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 43. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 189. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^57]: A 4. § (2a) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 36. § (3) bekezdése iktatta be.

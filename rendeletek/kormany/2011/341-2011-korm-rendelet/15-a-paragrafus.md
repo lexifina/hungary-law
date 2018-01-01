@@ -1,4 +1,4 @@
-15/A. §[^130] Ha az otthonteremtési kamattámogatás esetén
+15/A. §[^133] Ha az otthonteremtési kamattámogatás esetén
 
 a) a kamattámogatás igénybevételének alapját képező építési munkák a 3. § (3) bekezdés szerinti időtartamon belül nem készülnek el,
 
@@ -10,4 +10,4 @@ d) a támogatott személy a 4. § (1) bekezdés a) pont aa) alpontja, valamint b
 
 az otthonteremtési kamattámogatást a hitelintézet visszavonja, és a támogatott személy a már igénybevett kamattámogatást az igénybevétel napjától esedékes, a Ptk. szerint számított kamatokkal együtt köteles a hitelintézeten keresztül visszafizetni. Amennyiben a támogatott személy visszafizetési kötelezettségének nem tesz eleget, úgy a hitelintézet tájékoztatja erről a járási hivatalt és megküldi az ügy iratait.
 
-[^130]: A 15/A. §-t a 71/2012. (IV. 12.) Korm. rendelet 10. §-a iktatta be, szövege a 482/2016. (XII. 28.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^133]: A 15/A. §-t a 71/2012. (IV. 12.) Korm. rendelet 10. §-a iktatta be, szövege a 482/2016. (XII. 28.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
