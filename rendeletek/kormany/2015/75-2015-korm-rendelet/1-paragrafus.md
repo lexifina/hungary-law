@@ -2,14 +2,6 @@
 
 (2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
 
-(3) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró
+(3)–(4)[^1]
 
-a) elsőfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként jár el,
-
-b) elsőfokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú szakhatóságként jár el.
-
-(4) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró
-
-a) másodfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként jár el,
-
-b) másodfokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú szakhatóságként jár el.
+[^1]: Az 1. § (3)–(4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 186. § a) pontja hatályon kívül helyezte.
