@@ -46,6 +46,6 @@ h) egyéb, jogszabályban meghatározott szankciót alkalmazhat.
 
 (9) A bírság ismételt jogsértés esetén ismételten is kiszabható.
 
-(10) Ismételt jogsértésnek minősül, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
+(10) Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
 
 (11) E § alkalmazása szempontjából árbevétel alatt az eljárás résztvevőjének hírközlési tevékenységgel kapcsolatos értékesítésből származó – a határozat meghozatalának időpontjához képest – előző üzleti évi nettó árbevételét kell érteni.

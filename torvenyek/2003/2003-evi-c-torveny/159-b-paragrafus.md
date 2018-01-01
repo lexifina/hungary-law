@@ -4,6 +4,8 @@
 
 (2) A bíróság, illetve a külön törvényben meghatározott hatóság elektronikus úton megküldött értesítése alapján a Hatóság a bíróság elektronikus adat ideiglenes vagy végleges hozzáférhetetlenné tételéről szóló rendelkezését, illetve a külön törvényben meghatározott hatóság elektronikus adat hozzáférhetetlenné tételéről szóló rendelkezését kizárólag elektronikus úton közli a hozzáférést biztosító elektronikus hírközlési szolgáltatókkal.
 
+(2a) A bíróság határozatát az elektronikus hírközlési szolgáltatók részére az NMHH kézbesítési rendszerén keresztül küldött értesítés napját követő munkanapon kell kézbesítettnek tekinteni.
+
 (3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba
 
 a) a bíróság által elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétel esetén a bíróság, az ügyész, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai,

@@ -116,6 +116,6 @@ közül azt szabja ki, amelynek a mértéke alacsonyabb.
 
 (5) Ismételt jogsértés esetén a bírság mértéke a (2) bekezdés szerint megállapított bírságösszeg másfélszerese.
 
-(6) Ismételt jogsértésnek minősül, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást ugyanazon a jogalapon és jogszabályi rendelkezés tekintetében, ugyanazon tárgykörben valósítja meg.
+(6) Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon a jogalapon és jogszabályi rendelkezés tekintetében, ugyanazon tárgykörben valósítja meg.
 
 (7) Nem szabható ki bírság, ha a szabálytalan állapot kezdete vagy a jogsértés elkövetése óta öt év eltelt.

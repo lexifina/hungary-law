@@ -6,7 +6,7 @@ a) az elektronikus hírközlési szolgáltató bizonyítja, hogy az érintett in
 
 b) az a nagy sebességű elektronikus hírközlő hálózat szükséges fejlesztése érdekében indokolt, és az ingatlan használatát lényegesen nem akadályozza.
 
-(3) A (2) bekezdés szerinti kérelem az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárásban is előterjeszthető és elbírálható. A Hatóság az engedélyezési eljárását a (2) bekezdés szerinti kérelem tárgyában folytatott eljárás jogerős befejezéséig felfüggeszti.
+(3) A (2) bekezdés szerinti kérelem az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárásban is előterjeszthető és elbírálható. A Hatóság az engedélyezési eljárását a (2) bekezdés szerinti kérelem tárgyában folytatott eljárás végleges befejezéséig felfüggeszti.
 
 (4) Az elektronikus hírközlési szolgáltató (2) bekezdés a) pontjának megfelelő magatartását vélelmezni kell, ha a megállapodás annak ellenére nem jött létre, hogy az érintett ingatlan tulajdonosa a (2) bekezdés szerinti kérelem előterjesztését megelőzően legalább 30 nappal a szolgalmi jog vagy más használati jog megállapodás útján történő alapítására tett ajánlatot átvette, és az ajánlat tartalmazta
 
@@ -40,9 +40,9 @@ e) a környezet eredeti állapotának helyreállításához szükséges és elé
 
 f)
 
-(6) A Hatóság (5) bekezdés szerinti határozata elleni fellebbezésnek a határozat végrehajthatóságára nincs halasztó hatálya.
+(6)
 
-(7) A 96. § (1) bekezdés szerinti kártalanítás összegében az elektronikus hírközlési szolgáltató és az ingatlantulajdonos állapodik meg. Megállapodás hiányában, valamint a szolgalmi vagy más használati jog 94/A. § szerinti alapítása esetén a szolgalmi vagy más használati jogot alapító határozat jogerőssé válásától számított 15 napon belül az elektronikus hírközlési szolgáltató köteles a – saját költségére készítendő szakvéleményben foglalt – kártalanítási összeget az ingatlantulajdonos részére átadni vagy – ha ez az ingatlantulajdonos érdekkörében felmerült ok miatt nem lehetséges, vagy más körülmény, különösen az érintett ingatlantulajdonosok jelentős száma miatt a kártalanítás átadása rendkívüli nehézséggel vagy számottevő késedelemmel járna – annak javára a bíróságon kezelt letétekről szóló miniszteri rendelet rendelkezéseinek megfelelően bírósági letétbe helyezni, és arról az ingatlan tulajdonosát hitelt érdemlően igazolható módon értesíteni. Ha a tájékoztatásra az ingatlantulajdonos érdekkörében felmerült ok miatt nem kerül sor, az elektronikus hírközlési szolgáltató köteles erről a Hatóságot a tájékoztatást kizáró ok igazolásával egyidejűleg tájékoztatni.
+(7) A 96. § (1) bekezdés szerinti kártalanítás összegében az elektronikus hírközlési szolgáltató és az ingatlantulajdonos állapodik meg. Megállapodás hiányában, valamint a szolgalmi vagy más használati jog 94/A. § szerinti alapítása esetén a szolgalmi vagy más használati jogot alapító határozat véglegessé válásától számított 15 napon belül az elektronikus hírközlési szolgáltató köteles a – saját költségére készítendő szakvéleményben foglalt – kártalanítási összeget az ingatlantulajdonos részére átadni vagy – ha ez az ingatlantulajdonos érdekkörében felmerült ok miatt nem lehetséges, vagy más körülmény, különösen az érintett ingatlantulajdonosok jelentős száma miatt a kártalanítás átadása rendkívüli nehézséggel vagy számottevő késedelemmel járna – annak javára a bíróságon kezelt letétekről szóló miniszteri rendelet rendelkezéseinek megfelelően bírósági letétbe helyezni, és arról az ingatlan tulajdonosát hitelt érdemlően igazolható módon értesíteni. Ha a tájékoztatásra az ingatlantulajdonos érdekkörében felmerült ok miatt nem kerül sor, az elektronikus hírközlési szolgáltató köteles erről a Hatóságot a tájékoztatást kizáró ok igazolásával egyidejűleg tájékoztatni.
 
 (8) Ha a bírósági letétbe helyezést a kártalanítási összeg mértéke nem teszi lehetővé, úgy az elektronikus hírközlési szolgáltató a Hatóságnak igazolja az összeg rendelkezésre állását.
 

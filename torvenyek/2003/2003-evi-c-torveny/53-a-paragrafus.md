@@ -1,8 +1,6 @@
 53/A. § (1) Az általános hatósági felügyeleti eljárást megelőzheti hatósági ellenőrzés.
 
-(2) E hatósági ellenőrzésre a Ket. hatósági ellenőrzésre vonatkozó rendelkezései irányadók azzal, hogy amennyiben az Elnök vagy a Hivatal a hatósági ellenőrzés eredményeként nem állapít meg jogszabálysértést vagy eljárás megindítására, kezdeményezésére okot adó tényt, körülményt, akkor az Elnök vagy a Hivatal – saját hatásköre keretében – e döntést az ügyiratra feljegyzi és egyéb eljárási cselekményt nem tesz.
-
-(3) A (2) bekezdésben foglalt ügyiratra feljegyzett döntés tartalmáról az Elnök, illetve a Hivatal hivatalos levél formájában értesíti az ellenőrzés alá vont ügyfelet.
+(2)–(3)
 
 (4) A hatósági ellenőrzés eredményeként, hatósági hatásköre keretében az Elnök, illetve a Hivatal felhívhatja az ügyfelet – a jogszabály vagy a hatósági határozat megsértésének pontos megjelölésével – a jogszabály vagy a hatósági határozat megsértésének megszüntetésére és szükség esetén az eredeti állapot helyreállítására.
 

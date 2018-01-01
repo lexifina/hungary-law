@@ -2,7 +2,7 @@
 
 182. § (1) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg:
 
-a)
+a) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat;
 
 b) az elektronikus hírközlés különleges jogrend idejére irányuló felkészítésének rendszerét, az államigazgatási szervek feladatait, működésük feltételeinek biztosítását;
 
@@ -14,7 +14,7 @@ e) az e törvény szerinti egyablakos információs pontot működtető szervet,
 
 f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket;
 
-g) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat;
+g)
 
 g) a 127. § (2d) bekezdésében meghatározott szervet.
 

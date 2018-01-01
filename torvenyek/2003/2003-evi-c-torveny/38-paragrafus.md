@@ -12,10 +12,10 @@ d) az elektronikus hírközlési tevékenységével kapcsolatos iratokba való b
 
 e) az eljárás során olyan magatartást tanúsít, amely az eljárás elhúzódását, a valós tényállás feltárásának meghiúsítását eredményezheti.
 
-(2) Az eljárási bírság legkisebb összege a – (3)–(4) bekezdésben foglalt eltéréssel – ötvenezer forint, legmagasabb összege a jogsértő – 49. § (11) bekezdése szerinti – nettó árbevételének 0,1%-a. Árbevételi adatok, vagy árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb tízmillió forint.
+(2) Az eljárási bírság legmagasabb összege a jogsértő – 49. § (11) bekezdése szerinti – nettó árbevételének 0,1%-a. Árbevételi adatok, vagy árbevétel közlésének hiányában a bírság mértéke legfeljebb tízmillió forint.
 
-(3) Természetes személy jogsértő esetében az eljárási bírság legkisebb összege tízezer forint, legmagasabb összege egymillió forint.
+(3) Természetes személy jogsértő esetében az eljárási bírság, legmagasabb összege egymillió forint.
 
 (4) A piacelemzés, a jelentős piaci erővel rendelkező szolgáltatók azonosítása, valamint a jelentős piaci erővel rendelkező szolgáltatókra e törvény szerint kiszabott kötelezettség tárgyában hozott hatósági döntésben (e bekezdés alkalmazásában a továbbiakban: döntés) kirótt referenciaajánlat-tervezet benyújtására vonatkozó kötelezettség, illetve a döntésben előírt egyéb eljárás-kezdeményezési kötelezettség és adatszolgáltatási kötelezettség, továbbá a döntésen alapuló számviteli nyilvántartások elkülönített vezetése, hálózati szolgáltatások költségszámítása és kirótt egyéb kötelezettség teljesítése körében előírt adatszolgáltatási kötelezettség elmulasztása, illetve késedelmes vagy nem megfelelő teljesítése esetén az eljárási bírság legkisebb összege százezer forint, a bírság maximuma a jogsértő 49. § (11) bekezdése szerinti nettó árbevételének 0,5%-a. Árbevételi adatok, vagy árbevétel közlésének hiányában a bírság mértéke legalább százezer forint, legfeljebb ötvenmillió forint.
 
-(5) Az (1)–(4) bekezdésben foglaltakon túlmenően az eljárás akadályozása, illetve az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő vezető tisztségviselőjét is.
+(5) Az (1)–(4) bekezdésben foglaltakon túlmenően az eljárás akadályozása, illetve az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Hatóság hárommillió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő vezető tisztségviselőjét is.

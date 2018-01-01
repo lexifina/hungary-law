@@ -30,6 +30,6 @@ f) bontási kötelezettség nem teljesítése esetén 500 000 Ft.
 
 (2) Ismételt jogsértés esetén a bírság mértéke az (1) bekezdés szerint megállapított bírságösszeg másfélszerese.
 
-(3) Ismételt jogsértésnek minősül, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást, ugyanazon a jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
+(3) Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást, ugyanazon a jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
 
 (4) Nem szabható ki bírság, ha a szabálytalan állapot kezdete vagy a jogsértés elkövetése óta öt év eltelt.

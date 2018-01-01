@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2017-10-24 | 2017. évi LXXXVIII. törvény | 2003-100-00-00.67 |
 | 2017-11-12 | 2017. évi CXXXVIII. törvény | 2003-100-00-00.68 |
 | 2017-11-26 | 2017. évi CXXXVIII. törvény | 2003-100-00-00.69 |
+| 2018-01-01 | 2017. évi L. törvény | 2003-100-00-00.70 |

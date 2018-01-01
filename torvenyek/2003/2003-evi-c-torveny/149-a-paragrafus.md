@@ -12,7 +12,7 @@ b) a szűrőszoftver a lakossági felhasználók, egyéni előfizetők általi h
 
 c) az internet-hozzáférés szolgáltatást nyújtó szolgáltató vállalja, hogy a b) pontban megjelölt intézmények részére közvetlenül vagy más szolgáltató közreműködésével a szűrőszoftverhez való hozzáférést ingyenesen biztosítja.
 
-(4) A (3) bekezdés szerinti pályázati eljárás lefolytatása az Elnök hatósági hatáskörébe tartozik. Az eljárásra az e §-ban nem szabályozott kérdésekben e törvény és a Ket. szabályait kell megfelelően alkalmazni. A pályázati eljárás részletes szabályait az Elnök rendeletben határozza meg.
+(4) A (3) bekezdés szerinti pályázati eljárás lefolytatása az Elnök hatósági hatáskörébe tartozik. Az eljárásra az e §-ban nem szabályozott kérdésekben e törvény és az Ákr. szabályait kell megfelelően alkalmazni. A pályázati eljárás részletes szabályait az Elnök rendeletben határozza meg.
 
 (5) A (3) bekezdés szerinti támogatás tartalmáról, részletes feltételeiről a (4) bekezdésben említett NMHH rendeletben, továbbá a kiírási dokumentációban meghatározott módon és eljárásrendben hatósági szerződés is köthető.
 
@@ -22,8 +22,8 @@ c) az internet-hozzáférés szolgáltatást nyújtó szolgáltató vállalja, h
 
 (8) Ha a (7) bekezdés szerinti hatósági eljárásban a nyertes nem vesz részt vagy a hatósági szerződés megkötését akadályozza – ideértve azt is, ha a nyertes a pályázatát visszavonja –, a (7) bekezdésben meghatározott ügyintézési határidőn túl a hatósági szerződés nem köthető meg, ez esetben a Hatóság az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
 
-(9) A hatósági szerződés a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozat jogerőre emelkedéséig nem köthető meg. A határozat jogerőre emelkedésének időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás (7) és (8) bekezdésben meghatározott ügyintézési határidejébe nem számít bele.
+(9) A hatósági szerződés a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozat véglegessé válásáig nem köthető meg. A határozat véglegessé válásának időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás (7) és (8) bekezdésben meghatározott ügyintézési határidejébe nem számít bele.
 
 (10) A hatósági szerződésben meg kell határozni a szerződésszegés jogkövetkezményeit.
 
-(11) Ha a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozat bírósági felülvizsgálatát kezdeményezték, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A bírósági felülvizsgálati eljárás időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás határidejébe nem számít bele.
+(11) Ha a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozatot közigazgatási perben megtámadták, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A közigazgatási per időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás határidejébe nem számít bele.

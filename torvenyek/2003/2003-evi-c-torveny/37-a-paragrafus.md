@@ -1,6 +1,6 @@
 ## Hatósági intézkedés
 
-37/A. § (1) A rádiófrekvencia jogszerűtlen, engedély nélküli használata, illetve egyedi engedélyhez nem kötött, jogszerűtlen frekvenciahasználat esetén a Hivatal jogosult a rádiófrekvenciával kapcsolatos tevékenység folytatásához használt eszközt, berendezést hatósági intézkedésként lepecsételni és szükség esetén a Hivatal által meghatározott őrzési helyre elszállítani. E hatósági intézkedés nem minősül a Ket. szerinti közigazgatási hatósági ügynek.
+37/A. § (1) A rádiófrekvencia jogszerűtlen, engedély nélküli használata, illetve egyedi engedélyhez nem kötött, jogszerűtlen frekvenciahasználat esetén a Hivatal jogosult a rádiófrekvenciával kapcsolatos tevékenység folytatásához használt eszközt, berendezést hatósági intézkedésként lepecsételni és szükség esetén a Hivatal által meghatározott őrzési helyre elszállítani. E hatósági intézkedés nem minősül közigazgatási hatósági ügynek.
 
 (2) Ha az (1) bekezdésben foglalt rádiófrekvencia használatot a Hivatal helyszíni ellenőrzés során észleli, köteles azonnal alkalmazni az (1) bekezdésben foglalt intézkedést.
 
@@ -38,9 +38,9 @@ j) a lepecsételést végző köztisztviselő, illetve jegyzőkönyvvezető nev�
 
 (9) A pecsét engedély nélküli eltávolítása vagy a pecsét megkerülésével a lepecsételt eszköz, berendezés újra üzembe helyezése esetén az üzemeltetővel szemben, a pecsét engedély nélküli eltávolítása esetére más jogszabályban foglalt – az ott meghatározott hatóság, bíróság által alkalmazható – jogkövetkezmények mellett a Hatóság jogosult a 49. § (4) bekezdés c) pontjában meghatározott jogkövetkezményt alkalmazni.
 
-(10) A Hivatal által meghatározott őrzési helyre elszállított eszközt, berendezést a pecsét eltávolítását követően nyolc napon belül ki kell adni annak, akitől azt lefoglalták.
+(10) A Hivatal által meghatározott őrzési helyre elszállított eszközt, berendezést a pecsét eltávolítását követően nyolc napon belül ki kell adni annak, akitől azt elszállították.
 
-(11) A Hivatal az elszállított eszköz, berendezés előzetes értékesítéséről dönthet, ha a Hivatal felhívásától számított tíz napon belül a lefoglalt dolog kiadása iránt senki nem jelentett be jogos igényt és az eszköz, berendezés
+(11) A Hivatal az elszállított eszköz, berendezés előzetes értékesítéséről dönthet, ha a Hivatal felhívásától számított tíz napon belül az elszállított dolog kiadása iránt senki nem jelentett be jogos igényt és az eszköz, berendezés
 
 a) kezelése, tárolása, illetve őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna,
 

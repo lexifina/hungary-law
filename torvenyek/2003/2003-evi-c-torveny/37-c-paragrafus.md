@@ -2,6 +2,6 @@
 
 (2) A főigazgató a panasz tárgyában – a panasz benyújtásától számított 30 napon belül – végzésben dönt. Ha a főigazgató végzésében megállapítja, hogy a hatósági intézkedés jogszabálysértő volt, a Hivatal az őrzési helyre elszállított eszközt, berendezést kiadja vagy a pecsétet eltávolítja.
 
-(3) A (2) bekezdésben foglalt – panaszt elutasító – végzés felülvizsgálatát a panasz benyújtására jogosult személyek kérhetik, jogszabálysértésre hivatkozással, a végzés közlésétől számított 30 napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, harminc napon belül nemperes eljárásban határoz. A bíróság végzése ellen fellebbezésnek nincs helye.
+(3) A (2) bekezdésben foglalt – panaszt elutasító – végzés közigazgatási perben megtámadható.
 
-(4) Ha a közigazgatási ügyekben eljáró bíróság megállapítja, hogy a végzés jogszabálysértő, a végzést hatályon kívül helyezi és a főigazgatót a panasz tárgyában új eljárás lefolytatására kötelezi. A főigazgató a megismételt eljárás és döntéshozatal során a bíróság döntése rendelkező részének és indokolásának megfelelően köteles eljárni.
+(4)

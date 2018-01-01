@@ -1,6 +1,6 @@
 ## Kizárás
 
-34. § (1) Az ügy érdemi elintézésében a Ket. kizárásra vonatkozó rendelkezéseiben foglaltakon túl nem vehet részt, akinek az a) pont szerinti jogviszonya az ügyféllel, illetve az ügyfélben befolyásoló részesedéssel rendelkező vagy az ügyfél befolyásoló részesedése mellett működő vállalkozással az eljárás kezdetét megelőző egy éven belül állt fenn, illetve akinek hozzátartozója
+34. § (1) Az ügy érdemi elintézésében az Ákr. kizárásra vonatkozó rendelkezéseiben foglaltakon túl nem vehet részt, akinek az a) pont szerinti jogviszonya az ügyféllel, illetve az ügyfélben befolyásoló részesedéssel rendelkező vagy az ügyfél befolyásoló részesedése mellett működő vállalkozással az eljárás kezdetét megelőző egy éven belül állt fenn, illetve akinek hozzátartozója
 
 a) az ügyféllel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban áll, illetve annak vezető tisztségviselője,
 

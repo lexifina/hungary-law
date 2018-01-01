@@ -18,6 +18,6 @@
 
 (8) Az ideiglenes intézkedés hatálya az eljárás jogerős lezárásáig tart. Az ideiglenes intézkedést az eljáró tanács az eljárás során kérelemre vagy hivatalból módosíthatja, megszüntetheti.
 
-(9) Amennyiben az eljáró tanács ideiglenes intézkedést alkalmaz, az intézkedést elrendelő végzés ellen az ügyfél a Fővárosi Közigazgatási és Munkaügyi Bírósághoz jogorvoslati kérelemmel fordulhat. A bíróság az ügyben tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye. A kérelem benyújtásának a végzés végrehajtására nincs halasztó hatálya.
+(9) Az ideiglenes intézkedést elrendelő végzés közigazgatási perben támadható, a bíróság egyszerűsített perben tizenöt napon belül dönt.
 
 (10) Az ideiglenes intézkedés elutasítása tárgyában az eljáró tanács nem hoz külön végzést, az elutasítás indokait a jogvitás eljárást lezáró érdemi döntésben határozza meg.

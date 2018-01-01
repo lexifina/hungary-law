@@ -90,7 +90,7 @@ c) amennyiben szükséges, az elektronikus hírközlési építményen elhelyezh
 
 d) szükség szerint a (2d) bekezdés szerinti körülmények kialakulása megakadályozásához, valamint az elektronikus hírközlési építmény környezetének helyreállításához szükséges és elégséges feltételeket, valamint
 
-e) az Elnök rendeletében foglalt részletes szabályok szerint a közös használat körében alkalmazandó tisztességes és megkülönböztetéstől mentes feltételeket, így különösen a feleket terhelő méltányos költségeket és annak a hozzáférési díjnak a mértékét, amelyre a hálózatüzemeltető a fizikai infrastruktúrájának használatáért jogosult. A határozat végrehajthatóságára nézve nincs halasztó hatálya a kártalanítás módjára és mértékére irányuló jogorvoslati eljárásnak.
+e) az Elnök rendeletében foglalt részletes szabályok szerint a közös használat körében alkalmazandó tisztességes és megkülönböztetéstől mentes feltételeket, így különösen a feleket terhelő méltányos költségeket és annak a hozzáférési díjnak a mértékét, amelyre a hálózatüzemeltető a fizikai infrastruktúrájának használatáért jogosult. A határozat végrehajthatóságára nézve nincs halasztó hatálya a kártalanítás módjára és mértékére irányuló közigazgatási pernek.
 
 (3a) A (3) bekezdés e) pontjában foglalt hozzáférési díj mértékének megállapításánál a Hatóság figyelembe veszi a hálózatüzemeltető fizikai infrastruktúrájának a nagy sebességű elektronikus hírközlő hálózat kiépítéséhez szükséges felhasználásával összefüggésben felmerült indokolt költségeinek megtérülését, továbbá figyelembe veszi az érintett hozzáférés biztosításának a hálózatüzemeltető üzleti tervére, ezen belül beruházásainak megtérülésére gyakorolt hatását. Abban az esetben, ha a hozzáférési igény nagy sebességű elektronikus hírközlő hálózat fizikai infrastruktúrájához biztosított hozzáférésre vonatkozik, a Hatóság a díj megállapítása során figyelembe veszi a díjnak a hálózatüzemeltető piaci helyzetére gyakorolt hatását.
 
@@ -98,7 +98,7 @@ e) az Elnök rendeletében foglalt részletes szabályok szerint a közös haszn
 
 (3c) A (2f) bekezdés szerinti kérelem, valamint a 94/A. § szerinti kérelem egyidejűleg is előterjeszthető a Hatóságnál.
 
-(3d) A (3c) bekezdésben foglalt kérelmek egyidejű előterjesztése esetén a Hatóság a 94/A. § szerinti eljárását a (2f) bekezdés szerinti kérelem tárgyában folytatott eljárás jogerős befejezéséig felfüggeszti.
+(3d) A (3c) bekezdésben foglalt kérelmek egyidejű előterjesztése esetén a Hatóság a 94/A. § szerinti eljárását a (2f) bekezdés szerinti kérelem tárgyában folytatott eljárás végleges befejezéséig felfüggeszti.
 
 (4) Nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény idegen ingatlanon történő elhelyezésére – ha e törvény eltérően nem rendelkezik – az ingatlan tulajdonosával való megállapodás alapján kerülhet sor. A megállapodásnak alkalmasnak kell lennie az építési jogosultság igazolására.
 
