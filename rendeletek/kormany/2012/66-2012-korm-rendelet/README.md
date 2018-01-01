@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-66-20-2
 | 2017-01-01 | 2012-66-20-22.22 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2012-66-20-22.23 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-09-06 | 2012-66-20-22.24 | 250/2017. (IX. 5.) Korm. rendelet |
+| 2018-01-01 | 2012-66-20-22.25 | 507/2017. (XII. 29.) Korm. rendelet |

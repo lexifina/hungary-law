@@ -226,6 +226,10 @@
 
 | 110 | Trimeperidine (trimeperidin) | 1,2,5-trimethyl-4-phenyl-4-propionoxypiperidine |
 
+| 111 | U-47700 | 3,4-dichloro-N-[2-(dimethylamino)cyclohexyl]-N-methylbenzamide |
+
+| 112 | butyrfentanyl | N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-butanamide |
+
 ## – és az ebben a jegyzékben felsorolt kábítószerek izomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
 ## – valamint az ebben a jegyzékben felsorolt kábítószerek észterei és éterei, amennyiben ilyen észterek és éterek előfordulnak, kivéve, ha azok egy másik jegyzékben szerepelnek;
@@ -644,6 +648,10 @@
 
 | 24 | Zipeprol (zipeprol) | α-(-α-methoxybenzyl)-4-(β-methoxyphenetyl)-1-piperazineethanol |
 
+| 25 | ethylone | 2-ethylamino-1-(3,4-methylenedioxyphenyl)propan-1-one |
+
+| 26 | XLR-11 | (1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone |
+
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
 ## – és az ebben a jegyzékben felsorolt kábítószerek sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
@@ -822,7 +830,7 @@
 
 ## D) AZ ÚJ PSZICHOAKTÍV ANYAGGÁ MINŐSÍTETT ANYAGOKRÓL VAGY VEGYÜLETCSOPORTOKRÓL SZÓLÓ MINISZTERI RENDELETBŐL ÁTHELYEZETT ANYAGOK JEGYZÉKE
 
-2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^126]
+2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^131]
 
 Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
@@ -844,4 +852,4 @@ Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
 3. Statisztikai szempontból nem minősül gyártásnak a csomagolás, átcsomagolás.
 
-[^126]: A 2. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja, a 250/2017. (IX. 5.) Korm. rendelet 44. § (1) bekezdése szerint módosított szöveg.
+[^131]: A 2. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja, a 250/2017. (IX. 5.) Korm. rendelet 44. § (1) bekezdése szerint módosított szöveg.

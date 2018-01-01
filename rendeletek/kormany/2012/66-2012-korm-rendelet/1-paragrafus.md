@@ -6,7 +6,7 @@
 
 2. belföldi szállítás: olyan, kábítószert, pszichotróp anyagot vagy új pszichoaktív anyagot tartalmazó szállítás, amelynek a kiindulópontja és végcélja egyaránt Magyarországon található, ide nem értve a telephelyen történő mozgatást;
 
-3.[^1] díszítő mák: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 1. § d) pontja szerinti fogalom;
+3.[^1]
 
 4. egészségügyi szolgáltató: az egészségügyről szóló 1997. évi CLIV. törvény 3. § f) pontjában meghatározott szolgáltató;
 
@@ -18,7 +18,7 @@
 
 8. export: kábítószereknek és pszichotróp anyagoknak, valamint új pszichoaktív anyagoknak Magyarország területéről harmadik országba irányuló kivitele vagy kiléptetése;
 
-9.[^3] étkezési mák: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 1. § c) pontja szerinti fogalom;
+9.[^3]
 
 10. forgalmazás: a kábítószerek és pszichotróp anyagok, valamint új pszichoaktív anyagok anyagi ellenszolgáltatásért vagy anyagi ellenszolgáltatás nélkül történő továbbadása, értékesítése, kereskedelme, elosztása, ide nem értve az anyagok exportját, importját, transzferét és tranzitszállítását;
 
@@ -76,9 +76,13 @@
 
 37.[^10] kábítószerért felelős személy helyettese: a nem gyógyászati célú tevékenységi engedélyben a kábítószerért felelős személy helyetteseként megjelölt személy, aki a kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal folytatott tevékenységgel kapcsolatos feladatokat ellátja és felügyeli, és akire az e rendeletben a kábítószerért felelős személyre előírt szabályok vonatkoznak a 6. § (3) bekezdésében előírt speciális végzettség kivételével, amely speciális végzettség helyett a tevékenység végzéséhez az adott engedélyesnél előírt legmagasabb végzettség igazolása szükséges.
 
-[^1]: Az 1. § 3. pontja a 172/2016. (VII. 1.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
+38.[^11] magas THC tartalmú kender: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 1. § j) pontja szerint ekként meghatározott fogalom;
+
+39.[^12] ellenőrzött anyagok: az 1. mellékletben szereplő kábítószerek és pszichotróp anyagok, valamint az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben szereplő új pszichoaktív anyagok.
+
+[^1]: Az 1. § 3. pontját az 507/2017. (XII. 29.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
 [^2]: Az 1. § 7. pontja a 13/2014. (I. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § 9. pontja a 172/2016. (VII. 1.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 9. pontját az 507/2017. (XII. 29.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
 [^4]: Az 1. § 11. pontja a 137/2012. (VI. 29.) Korm. rendelet 81. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § 16. pontja a 172/2016. (VII. 1.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § 27. pontja a 19/2015. (II. 16.) Korm. rendelet 11. §-ával megállapított, a 172/2016. (VII. 1.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
@@ -86,3 +90,5 @@
 [^8]: Az 1. § 35. pontját a 137/2012. (VI. 29.) Korm. rendelet 81. § (2) bekezdése iktatta be.
 [^9]: Az 1. § 36. pontját a 172/2016. (VII. 1.) Korm. rendelet 48. §-a iktatta be.
 [^10]: Az 1. § 37. pontját a 250/2017. (IX. 5.) Korm. rendelet 37. §-a iktatta be.
+[^11]: Az 1. § 38. pontját az 507/2017. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^12]: Az 1. § 39. pontját az 507/2017. (XII. 29.) Korm. rendelet 27. §-a iktatta be.

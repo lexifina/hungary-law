@@ -390,7 +390,7 @@
 
 ## * Bármely más gyógyszer, amely kábítószert (pl. dihydrocodeine, dextropropoxyphene, hydrocodone, hydromorphone, trimeperidine, stb.) tartalmaz.
 
-3. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^127]
+3. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^132]
 
 Éves jelentés/becslés a pszichotróp anyagok gyártásáról, készletéről, forgalmazásáról
 
@@ -406,4 +406,30 @@
 
 Éves pszichotróp anyagmérleg (g)
 
-[^127]: A 3. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
+| Pszichotróp anyag neve és besorolása | Nyitó készlet (I. 1.) | Gyártott hatóanyag mennyisége | Import | Belföldi beszerzés | Összesen | Fogyasztás: kiskereskedelmi értékesítés vagy kutatás | Nagykereskedelmi értékesítés | Nem pszichotróp anyag gyártására felhasznált mennyiség | Export | Veszteség | Záró készlet XII. 31. | Összesen |
+
+## 3/b táblázat
+
+## Belföldi pszichotróp anyag forgalom részletezése
+
+|  | Belföldi beszerzés | Belföldi nagykereskedelmi értékesítés |
+
+| Megnevezés | Átadó | Mennyiség (g) | Átvevő | Mennyiség (g) |
+
+| Hatóanyag | Készítmény |  | Kiszerelés | Hatóanyag |  | Kiszerelés | Hatóanyag |
+
+## 3/c táblázat
+
+## Pszichotróp anyag átalakítása más pszichotróp anyaggá (P1-P4)
+
+| Más pszichotróp anyag átalakításához felhasznált pszichotróp anyag | A gyártás során nyert más pszichotróp anyag |
+
+| az anyag neve | mennyisége | az anyag neve | mennyisége |
+
+## 3/d táblázat
+
+## Pszichotróp anyag becslés (P1-P4)
+
+| Pszichotróp anyag neve | Gyártandó hatóanyag mennyisége | Import | Fogyasztás: kiskereskedelmi értékesítés vagy kutatás | Nagykereskedelmi értékesítés | Nem pszichotróp anyag gyártására felhasználandó mennyiség |
+
+[^132]: A 3. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.

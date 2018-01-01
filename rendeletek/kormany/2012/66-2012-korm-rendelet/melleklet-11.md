@@ -58,13 +58,13 @@
 
 ## (IV. 2.) Korm. rendelet 28. § (1) bekezdése alapján kötelező.
 
-## A nyomtatvány 1. példányát az Europol Nemzeti Irodának[^135], 2. példányát az egészségügyért felelős miniszternek kell megküldeni. A 3. példányt a beküldő szerv/intézmény megtartja saját dokumentációjában.
+## A nyomtatvány 1. példányát az Europol Nemzeti Irodának[^140], 2. példányát az egészségügyért felelős miniszternek kell megküldeni. A 3. példányt a beküldő szerv/intézmény megtartja saját dokumentációjában.
 
 ## Mindazon kérdésekre, melyekre vonatkozóan tényszerű információk, illetve adatok, vizsgálati eredmények állnak rendelkezésre, a válaszokat értelemszerűen: szövegesen, vagy számszerűen, illetve a megfelelő négyzet megjelölésével kell megadni! A kitöltéssel kapcsolatban a Tanács 2005/387/IB Határozatának EMCDDA-Europol jelentési ívet és annak kitöltési útmutatóját tartalmazó melléklete az irányadó.
 
-11. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^136]
+11. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^141]
 
 Kérelem, illetve igazolás ellenőrzött anyagok szállítására rendkívüli, gyógyászati célú felhasználáshoz
 
-[^135]: Europol Nemzeti Iroda címe: 1139 Budapest, Teve u. 4-6.
-[^136]: A 11. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § l) pontja szerint módosított szöveg.
+[^140]: Europol Nemzeti Iroda címe: 1139 Budapest, Teve u. 4-6.
+[^141]: A 11. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § l) pontja szerint módosított szöveg.
