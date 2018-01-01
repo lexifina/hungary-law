@@ -1,4 +1,4 @@
-5. § (1)[^15] A természetvédelmi bírság összegének meghatározásakor előbb az alapbírság összegét kell meghatározni, amely során figyelembe kell venni
+5. § (1)[^16] A természetvédelmi bírság összegének meghatározásakor előbb az alapbírság összegét kell meghatározni, amely során figyelembe kell venni
 
 1. a tevőleges magatartás, illetve a mulasztás körülményeit;
 
@@ -36,4 +36,4 @@
 
 (3) Ha több módosító tényező szorzószámainak alkalmazására is sor kerülhet, a szorzószámokat össze kell adni és az így kapott emelt szorzószámmal kell az alapbírságot megszorozni.
 
-[^15]: Az 5. § (1) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^16]: Az 5. § (1) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
