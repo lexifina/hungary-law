@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-339-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-11-11 | 2015-339-20-22.1 | 339/2015. (XI. 10.) Korm. rendelet |
+| 2018-01-01 | 2015-339-20-22.2 | 458/2017. (XII. 28.) Korm. rendelet |
