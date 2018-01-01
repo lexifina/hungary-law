@@ -4,4 +4,4 @@
 
 (3) A vezető tisztségviselő köteles az alapítót és a résztvevőket haladéktalanul, az alapszabályban meghatározott módon tájékoztatni arról, ha a meghatalmazott e törvény szerinti kötelezettségét megsértette.
 
-(4) A vezető tisztségviselő személyében bekövetkezett változást az MRP szervezet nyilvántartását vezető bírósághoz írásban be kell jelenteni. A bejelentéshez mellékelni kell a legfőbb szervnek a vezető tisztségviselő megválasztásáról rendelkező határozatát, valamint a vezető tisztségviselő e tisztség elfogadására vonatkozó, közokiratba, vagy ügyvéd, jogtanácsos által ellenjegyzett okiratba foglalt nyilatkozatát.
+(4) A vezető tisztségviselő személyében bekövetkezett változást az MRP szervezet nyilvántartását vezető bírósághoz írásban be kell jelenteni. A bejelentéshez mellékelni kell a legfőbb szervnek a vezető tisztségviselő megválasztásáról rendelkező határozatát, valamint a vezető tisztségviselő e tisztség elfogadására vonatkozó, közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba foglalt nyilatkozatát.
