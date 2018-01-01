@@ -14,4 +14,6 @@
 
 (3) Vizsgáztatói tanúsítás megszerzésére irányuló egységesítési tanfolyamot a légiközlekedési hatóság szervezhet.
 
-(4) Az (1) és (2) bekezdés szerinti képző szervezet számára, amennyiben az teljesíti e rendelet előírásait, a légiközlekedési hatóság képzési engedélyt ad ki.
+(4)[^22]
+
+[^22]: A 105. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § o) pontja hatályon kívül helyezte.

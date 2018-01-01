@@ -8,6 +8,6 @@
 
 (4) Ha a kérelmező képzése egyenértékű az e rendeletben foglalt azonos tevékenységre jogosító képzéssel, a légiközlekedési hatóság teljes felmentést ad. Ha a légiközlekedési hatóság a (3) bekezdés szerint igazolt képzés tematikájának és vizsgarendszerének az e rendeletben foglalt követelményekkel történt összehasonlítása során eltérést állapít meg, akkor az e rendeletnek való teljes megfelelést biztosító kiegészítő képzés vagy vizsga előírása mellett részleges felmentést ad.
 
-(5) A légiközlekedési hatóság a megadott felmentésekről nyilvántartást vezet.
+(5)–(6)[^35]
 
-(6) A légiközlekedési hatóság által megadott felmentés alapján e rendelet szerinti szakszolgálati engedély vagy betétlap legfeljebb a felmentés megadásától számított 1 éven belül adható ki.
+[^35]: A 139. § (5)–(6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § z) pontja hatályon kívül helyezte.

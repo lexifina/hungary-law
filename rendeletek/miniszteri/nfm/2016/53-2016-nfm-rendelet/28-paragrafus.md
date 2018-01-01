@@ -1,11 +1,8 @@
-## 27. § A FI(UL) a kiadástól számított 3 évig hatályos.
+## 27. §[^8]
 
-28. § (1) Ha a FI(UL) engedélyese a FI(UL) időbeli hatályán belül az alábbi három követelményből legalább kettőt teljesít, akkor a légiközlekedési hatóság kérelemre a jogosítást 3 évre meghosszabbítja:
-
-a) legalább 50 órányi repülésoktatást teljesített a megfelelő légijármű kategóriában a jogosítás időbeli hatályán belül oktatóként,
-
-b) részt vett egy oktatói ismeretfrissítő oktatáson, a jogosítás időbeli hatályán belül,
-
-c) megfelelt egy kompetencia felmérésen a jogosítás időbeli hatályának lejártát megelőző 12 hónapon belül.
+28. § (1)[^9]
 
 (2) A FI(UL) engedélyesének legalább minden második meghosszabbítás alkalmával meg kell felelnie egy kompetencia felmérésen.
+
+[^8]: A 27. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § c) pontja hatályon kívül helyezte.
+[^9]: A 28. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § d) pontja hatályon kívül helyezte.

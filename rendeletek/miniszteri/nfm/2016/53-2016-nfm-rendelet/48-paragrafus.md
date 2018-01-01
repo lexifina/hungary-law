@@ -1,11 +1,8 @@
-## 47. § A motoros sárkányrepülő eszköz repülésoktatói jogosítás a kiadástól számított 3 évig hatályos.
+## 47. §[^13]
 
-48. § (1) Ha a motoros sárkányrepülő eszköz repülésoktatói jogosítás engedélyese a jogosítás időbeli hatályán belül az alábbi három követelményből kettőt teljesít, akkor a légiközlekedési hatóság kérelemre a jogosítást 3 évre meghosszabbítja:
-
-a) legalább 50 órányi repülésoktatás teljesítése motoros sárkányrepülő eszközön a jogosítás időbeli hatályán belül oktatóként,
-
-b) részvétel egy oktatói ismeretfrissítő oktatáson, a jogosítás időbeli hatályán belül,
-
-c) megfelelés egy kompetencia felmérésen a jogosítás időbeli hatályának lejártát megelőző 12 hónapon belül.
+48. § (1)[^14]
 
 (2) A motoros sárkányrepülő eszköz repülésoktatói jogosítás engedélyesének legalább minden második meghosszabbítás alkalmával meg kell felelnie egy kompetencia felmérésen.
+
+[^13]: A 47. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § g) pontja hatályon kívül helyezte.
+[^14]: A 48. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § h) pontja hatályon kívül helyezte.

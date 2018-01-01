@@ -1,5 +1,5 @@
+## 11–12. §[^5]
+
 ## 9. A szakszolgálati engedély és a betétlap hatályossága
 
-13. § (1) A szakszolgálati engedély vagy a betétlap hatályosságát a bejegyzett jogosítás és nyelvismereti kiterjesztés, valamint az orvosi minősítés hatályossága együttesen határozza meg.
-
-(2) A szakszolgálati engedélybe vagy a betétlapra bejegyzett jogosítás időbeli hatályát az e rendeletben meghatározott hatályossági időtartam figyelembevételével megállapított hónap végéig kell megadni.
+[^5]: A 11–12. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § b) pontja hatályon kívül helyezte.
