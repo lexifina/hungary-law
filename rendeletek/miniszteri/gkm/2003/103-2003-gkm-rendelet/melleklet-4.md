@@ -88,9 +88,9 @@ A hatósági engedély megszerzését a külön jogszabályban előírt hatósá
 
 Az engedélyezési eljárás során az engedélyező hatóság köteles vizsgálni azt, hogy az engedélykérelem kielégíti-e a jogszabályokban foglalt követelményeket, és kizáró ok hiányában köteles a határozatot kiadni.
 
-A vasúti hatósági döntéseket határozatként kell kiadni az államigazgatási eljárás általános szabályairól szóló törvényben foglaltak figyelembevételével. A határozatban elő kell írni mindazokat a jogokat és kötelezettségeket, amelyek a vasúti építmények és járművek engedélyeseit megilletik és terhelik.
+A vasúti hatósági döntéseket határozatként kell kiadni az általános közigazgatási rendtartásról szóló törvényben foglaltak figyelembevételével. A határozatban elő kell írni mindazokat a jogokat és kötelezettségeket, amelyek a vasúti építmények és járművek engedélyeseit megilletik és terhelik.
 
-Az építési tevékenység csak a vasúti hatóság által kiadott jogerős határozat alapján kezdhető meg. Az építés során a kivitelezési jogosultságra vonatkozó jogszabályokat be kell tartani.
+Az építési tevékenység csak a vasúti hatóság által kiadott végleges határozat alapján kezdhető meg. Az építés során a kivitelezési jogosultságra vonatkozó jogszabályokat be kell tartani.
 
 A vasúti pálya mentén a vasútüzem biztonságát veszélyeztető világító készüléket (fényreklám, fényszóró stb.) elhelyezni nem szabad. Arra nézve, hogy a világító készülék a vasútüzem biztonságát veszélyezteti-e, a vasút üzemben tartójának állásfoglalása irányadó.
 
@@ -142,17 +142,15 @@ A tervdokumentációk tartalmának valódiságát a kivitelezést végző és a 
 
 5.5. Az előzőekben meghatározott feladatokat a közforgalmú vasutak területén a vasúti szervezet útján, egyéb vasutaknál az engedélyes által alkalmazott és hatóság által elfogadott felelős vasútüzem-vezető irányításával kell ellátni.
 
-6. Az engedélyezési és az üzemeltetés ellenőrzési eljárások rendjét az illetékes miniszter szabályozza.
+6.[^6]
 
-Az OVSZ I. hatálya alá tartozó valamennyi tevékenység során be kell tartani a vonatkozó környezet- és természetvédelmi jogszabályokat.
-
-7.[^6]
+7.[^7]
 
 8. A vasút üzemeltetője köteles a vasúti közlekedés biztonságára vonatkozó, illetve azt érintő, általa készített, vezetője által elfogadott belső szabályzatot (utasítást) a vasúti hatósággal jóváhagyatni.
 
 9. Vegyes rendelkezések
 
-9.1.[^7] Az OVSZ I. kötet módosítására a közlekedésért felelős miniszter jogosult.
+9.1.[^8] Az OVSZ I. kötet módosítására a közlekedésért felelős miniszter jogosult.
 
 9.2. Az OVSZ I. hatálya alá tartozó vasutat, építményeket, berendezéseket és járműveket úgy kell kialakítani és üzemeltetni, hogy azok a biztonság követelményeit mindenkor kielégítsék. Ezen követelmények akkor tekinthetők teljesítettnek, ha a vasúti építmények, berendezések és járművek, továbbá az üzemeltetés a jelen szabályzat előírásainak vagy – ha ilyen előírás a szabályzatban nincs – a technika elismert szabályainak megfelelnek.
 
@@ -188,7 +186,7 @@ Ezeket az anyagokat olyan módon kell kiválasztani, felhasználni és alkalmazn
 
 10.4. Környezetvédelem
 
-A vasúti rendszer létrehozásának és üzemeltetésének környezeti hatását a rendszer tervezési szakaszában a külön jogszabályokban[^8] foglaltakkal összhangban kell felmérni és figyelembe venni.
+A vasúti rendszer létrehozásának és üzemeltetésének környezeti hatását a rendszer tervezési szakaszában a külön jogszabályokban[^9] foglaltakkal összhangban kell felmérni és figyelembe venni.
 
 A vonatokon és az infrastruktúrában használt anyagoknak meg kell akadályozniuk a környezetre káros és veszélyes gőzök és gázok kibocsátását, különösen tűz esetén.
 
@@ -446,7 +444,7 @@ A görgetegvédelemnél megfelelő tárolóteret, és innen az összegyűlő any
 
 A hófúvásos pályarészeken lehetőség szerint állandó hóvédművek kialakítása szükséges.
 
-Vízfolyások közelében a külön árvédelmi gáttal nem védett pálya földmű-koronájának magassága az 1% valószínűséggel előforduló 100 éves gyakoriságú árvíz szintje felett legalább 1,0 m-rel magasabban legyen. A földmű koronája magasságának meghatározásánál figyelembe kell venni a külön jogszabályban[^9] foglaltakat is.
+Vízfolyások közelében a külön árvédelmi gáttal nem védett pálya földmű-koronájának magassága az 1% valószínűséggel előforduló 100 éves gyakoriságú árvíz szintje felett legalább 1,0 m-rel magasabban legyen. A földmű koronája magasságának meghatározásánál figyelembe kell venni a külön jogszabályban[^10] foglaltakat is.
 
 Az országos közforgalmú vasúti alagút szelvénye a villamos üzemnek, továbbá a szellőzési és mentési követelményeknek megfelelően alakítandó ki.
 
@@ -682,7 +680,7 @@ A kocsiszínekben a vizsgálóvágányokat vizsgálóaknával, vagy tartórendsz
 
 1.1.12.1. Pályaépítés
 
-Vasútépítés – a külön jogszabályban meghatározott esetek kivételével – csak létesítési engedély, és jóváhagyott építési (kivitelezési) terv alapján valósítható meg. Vasúti pályák létesítési engedélyét az illetékes hatóság az engedélyezési terv alapján adja meg és egyben meghatározza a kiviteli terv tartalmi követelményeit. Az építéshez jóváhagyott kiviteli tervek szükségesek. Az engedélyezési és kiviteli tervek tartalmi követelményeit rendeletben[^10], külön hatósági, illetve vállalati előírásban kell meghatározni.
+Vasútépítés – a külön jogszabályban meghatározott esetek kivételével – csak létesítési engedély, és jóváhagyott építési (kivitelezési) terv alapján valósítható meg. Vasúti pályák létesítési engedélyét az illetékes hatóság az engedélyezési terv alapján adja meg és egyben meghatározza a kiviteli terv tartalmi követelményeit. Az építéshez jóváhagyott kiviteli tervek szükségesek. Az engedélyezési és kiviteli tervek tartalmi követelményeit rendeletben[^11], külön hatósági, illetve vállalati előírásban kell meghatározni.
 
 A vasút létesítéséhez szükséges területről a vasútról szóló törvényben, az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 1/5. számú, ,,A vasúthálózat fő elemei'' című mellékletében, valamint a terület- és településrendezési tervekben, helyi építési szabályzatokban foglaltak alapján, azokkal összhangban kell gondoskodni.
 
@@ -736,7 +734,7 @@ A mérési eredményeket a mérő és szakképzett értékelő személy aláír�
 
 Az elkészült építmény csak a vonatkozó előírások szerint minősíthető.
 
-1.1.12.2. Pályafenntartás, pályafelügyelet
+1.1.12.2.[^12] Pályafenntartás, pályafelügyelet
 
 A vasúti pályának, tartozékainak fenntartásáról, karbantartásáról, felügyeletéről és az üzemi jellemzők engedélyezett értékeinek megfelelő forgalombiztos állapotban tartásáról az engedélyes tartozik folyamatosan gondoskodni.
 
@@ -752,7 +750,7 @@ Fenntartást csak az a szervezet (intézmény) végezhet, amely az előzőekben 
 
 Újonnan létesített, illetve felújított vasúti pálya fenntartására az építés befejezése után az üzemszerű forgalomba helyezést követő 90 napig – a forgalom nagyságától függetlenül – az építési mérettűréseket kell alkalmazni. Ez idő eltelte után a pályát a kiépítési sebességtől függő előírt mérettűrések figyelembevételével kell fenntartani.
 
-Új építésű pálya vagy vasúti építmény felügyeletéről, a vasúti üzem részéről történő igénybevételtől a használatba vételig az engedélyes és a kivitelező közösen tartozik gondoskodni. Az engedélyes kizárólagos felelőssége a használatbavételi engedély jogerőre emelkedésétől kezdődik.
+Új építésű pálya vagy vasúti építmény felügyeletéről, a vasúti üzem részéről történő igénybevételtől a használatba vételig az engedélyes és a kivitelező közösen tartozik gondoskodni. Az engedélyes kizárólagos felelőssége a használatbavételi engedély véglegessé válásától kezdődik.
 
 A fenntartási munkálatok átfogó és részletes végrehajtására, a vasutak engedélyesei vállalati utasításokat kötelesek kiadni a szervezeti, az eszköz- és anyagellátási, a minőségi, valamint a biztonsági szempontok rögzítésével.
 
@@ -1054,7 +1052,7 @@ Vasutat keresztező létesítményt elbontani a létesítményre vonatkozó megs
 
 Vasút alatti keresztezési műtárgynál, ha a teljes elbontást az érdekeltek nem tartják szükségesnek, a műtárgyat legalább az előzőkben meghatározott mértékig kell lebontani.
 
-A nem vasútüzemi célt szolgáló, nem nyomvonalas építményeket, épületeket az országos közforgalmú vasútnál az 1.1.13. pontban meghatározott védősávon kívül a vasút vágánytengelyétől, két- vagy többvágányú pálya esetén a szélső vágány tengelyétől az 1.3.10. pontban meghatározott távolságra lehet elhelyezni, a vasúti átjárókra figyelemmel. A vasúti átjáró környezetében a külön jogszabályban[^11] meghatározott rálátást az építmények nem akadályozhatják. Ezen túlmenően nem akadályozhatják a vasúti jelzők láthatóságát sem, és villamosított vasútvonal esetén figyelembe kell venni a vasúti biztonsági övezetre vonatkozó előírásokat is.
+A nem vasútüzemi célt szolgáló, nem nyomvonalas építményeket, épületeket az országos közforgalmú vasútnál az 1.1.13. pontban meghatározott védősávon kívül a vasút vágánytengelyétől, két- vagy többvágányú pálya esetén a szélső vágány tengelyétől az 1.3.10. pontban meghatározott távolságra lehet elhelyezni, a vasúti átjárókra figyelemmel. A vasúti átjáró környezetében a külön jogszabályban[^13] meghatározott rálátást az építmények nem akadályozhatják. Ezen túlmenően nem akadályozhatják a vasúti jelzők láthatóságát sem, és villamosított vasútvonal esetén figyelembe kell venni a vasúti biztonsági övezetre vonatkozó előírásokat is.
 
 A vasútüzemi célt szolgáló építmények egyedi elbírálás szerint, a vasúti hatóság hozzájárulásával, az egyes építményekre meghatározott telepítési távolságok betartásával az 1.1.13. pontban említett vasúti védőtávolságon (védősávon) belül a rálátási háromszög figyelembevételével elhelyezhetők.
 
@@ -1062,7 +1060,7 @@ A vasútüzemi célt szolgáló építmények egyedi elbírálás szerint, a vas
 
 1.3.2.1. Út, gyalogút, kerékpárút
 
-Út, gyalogút és kerékpárút és vasút szintbeli kereszteződését külön jogszabály[^12] szerint szabad létesíteni és kialakítani. A v = 160 km/h-nál nagyobb sebességre engedélyezett vasúti pályát út szintben nem keresztezheti. Gyalogút és kerékpárút a legfeljebb v = 120 km/h sebességre engedélyezett vasúti pályát keresztezheti szintben.
+Út, gyalogút és kerékpárút és vasút szintbeli kereszteződését külön jogszabály[^14] szerint szabad létesíteni és kialakítani. A v = 160 km/h-nál nagyobb sebességre engedélyezett vasúti pályát út szintben nem keresztezheti. Gyalogút és kerékpárút a legfeljebb v = 120 km/h sebességre engedélyezett vasúti pályát keresztezheti szintben.
 
 Út gyalogút és kerékpárút a vonatok kijelölt megállási helyét szintben nem keresztezheti.
 
@@ -1394,7 +1392,7 @@ d) A jogszabályban környezeti hatásvizsgálatra kötelezett építményeknél
 
 e) Veszélyes tevékenység végzésével kapcsolatos építmények, illetve az ezt szolgáló eszközök üzemben tartása esetén:
 
-– a RID[^13] Szabályzat 1., 4., 5., 6., 7., 8., 9. osztályába tartozó anyagok esetén:
+– a RID[^15] Szabályzat 1., 4., 5., 6., 7., 8., 9. osztályába tartozó anyagok esetén:
 
 = az anyagjellemzőkből meghatározható, a vasútra ható veszélyekre figyelemmel, egyedi elbírálás szerint, a vasúti hatóságnak az illetékes megyei katasztrófavédelmi igazgatóság, illetve a Fővárosi Polgári Védelmi Igazgatóság véleményének figyelembevételével kiadott hozzájárulásával helyezhetők el az építmények, illetve tarthatók üzemben az eszközök.
 
@@ -1416,7 +1414,7 @@ f) Vezeték nélküli hírközlő- és adatközlő építmények (pl. rádió- �
 
 Amennyiben az 1.3.10. pontban összefoglalt előírások, vagy más jogszabályok alapján adódó telepítési távolságok egymástól különbözőek lennének, akkor minden esetben a nagyobb távolságot kell betartani.
 
-1.3.11.[^14] Vasúti létesítmények feletti terek beépítése
+1.3.11.[^16] Vasúti létesítmények feletti terek beépítése
 
 A vasút feletti építményekkel kapcsolatos vasúti infrastruktúra létesítését, átalakítását vagy megszüntetését a vasúti hatóság engedélyezi.
 
@@ -1640,7 +1638,7 @@ A daruk méretezésére, telepítésére, kialakítására, biztonsági berendez
 
 1.4.3.3.2. Vasúti kocsibuktatók
 
-Kocsibuktató olyan vágányba telepíthető, ahol a vágányzáró berendezések közötti, valamint az azok előtt, illetve után lévő 10-10 m-es[^15] vágányszakasz egyenes és vízszintes. A buktató vágányával párhuzamos vágányok tengelytávolságának meghatározásánál figyelemmel kell lenni a buktatóhoz tartozó építményekre, szerkezetekre (buktató szerkezet, – épület, – berendezések stb.)
+Kocsibuktató olyan vágányba telepíthető, ahol a vágányzáró berendezések közötti, valamint az azok előtt, illetve után lévő 10-10 m-es[^17] vágányszakasz egyenes és vízszintes. A buktató vágányával párhuzamos vágányok tengelytávolságának meghatározásánál figyelemmel kell lenni a buktatóhoz tartozó építményekre, szerkezetekre (buktató szerkezet, – épület, – berendezések stb.)
 
 A buktatóhíd hosszát úgy kell megválasztani, hogy minden buktatásra alkalmas vasúti kocsi buktatható legyen.
 
@@ -1724,7 +1722,7 @@ Maró, vagy mérgező hatású folyadékok tárolására szolgáló tartályt v�
 
 Maró hatású folyadékok tárolására szolgáló létesítmények, illetve védőmedencéjük a vasúti vágány tengelyét – iparvágány esetén – 5,0 m-nél jobban nem közelíthetik meg. A mérgező hatású folyadékok tárolására szolgáló létesítményeknél ezt a méretet – az anyag jellegétől függően – növelni kell.
 
-A tűzveszélyes-folyadék és gáz tárolók, valamint szivattyúk telepítési távolságait, a 1.3.1. pont, valamint az alkalmazásukra vonatkozó követelményeket a vonatkozó tűzvédelmi előírások[^16] szerint kell meghatározni.
+A tűzveszélyes-folyadék és gáz tárolók, valamint szivattyúk telepítési távolságait, a 1.3.1. pont, valamint az alkalmazásukra vonatkozó követelményeket a vonatkozó tűzvédelmi előírások[^18] szerint kell meghatározni.
 
 A vasúti tartálykocsik töltésével, lefejtésével, illetve előmelegítésével kapcsolatos egyéb előírásokat a vasúti tartálykocsikra vonatkozó előírásokban foglaltak szerint kell figyelembe venni.
 
@@ -1860,7 +1858,7 @@ A dinamikus (mozgás közbeni) mérlegelésre, valamint tengelyterhelés mérés
 
 A mosási területen a vágányt burkolni kell.
 
-A mosás során keletkezett szennyvíz összegyűjtéséről, derítéséről, semlegesítéséről a környezetvédelmi[^17] előírásoknak megfelelően kell gondoskodni.
+A mosás során keletkezett szennyvíz összegyűjtéséről, derítéséről, semlegesítéséről a környezetvédelmi[^19] előírásoknak megfelelően kell gondoskodni.
 
 Személykocsik belső tisztításának részletes szabályait a vasút üzemeltetője utasításban köteles kidolgozni. Ha csak tisztítási célra szolgáló vágány mellett létesül a helyhez kötött kocsimosó berendezés, úgy szerkezeteit üzemen kívüli helyzetben az űrszelvényen, egyébként a szabadon tartandó téren kívül kell elhelyezni.
 
@@ -1876,7 +1874,7 @@ A kocsik mosását kezelési utasításban kell szabályozni.
 
 1.4.7.2. Olajfeladó berendezések
 
-A berendezések telepítésének követelményeit a vonatkozó tűzvédelmi előírások[^18] határozzák meg.
+A berendezések telepítésének követelményeit a vonatkozó tűzvédelmi előírások[^20] határozzák meg.
 
 A feladóhelyen az anyagelcsurgást, szétfolyást meg kell akadályozni. A térburkolatot az 1.4.3.4. pontban foglaltak szerint kell kialak(tani.
 
@@ -2972,9 +2970,9 @@ A létesítendő jelző- és biztosítóberendezések tervezésénél jelen jogs
 
 A tervezésre jogosultnak a terveket a hatályos jogszabályok, szabványok, a jóváhagyott alapkapcsolások és a vasúti utasítások előírásainak megfelelően kell készíteni.
 
-A biztosítóberendezések megvalósításához engedélyezési terveket, az engedélyezést követően kiviteli (építési) terveket kell készíteni. A vasúti biztosítóberendezések tervezési jogosultságát külön jogszabály[^19] rögzíti.
+A biztosítóberendezések megvalósításához engedélyezési terveket, az engedélyezést követően kiviteli (építési) terveket kell készíteni. A vasúti biztosítóberendezések tervezési jogosultságát külön jogszabály[^21] rögzíti.
 
-A biztosítóberendezések engedélyezése a vasúti berendezések létesítésére vonatkozó jogszabályban[^20] a létesítésre előírt mellékletek alapján történik, ha a létesítendő berendezés alkalmassági tanúsítvánnyal vagy jóváhagyott alapkapcsolással rendelkezik.
+A biztosítóberendezések engedélyezése a vasúti berendezések létesítésére vonatkozó jogszabályban[^22] a létesítésre előírt mellékletek alapján történik, ha a létesítendő berendezés alkalmassági tanúsítvánnyal vagy jóváhagyott alapkapcsolással rendelkezik.
 
 A biztosítóberendezési kiviteli tervek tartalmi előírásait a vasútnak vállalati utasításban kell rögzíteni.
 
@@ -3018,7 +3016,7 @@ A berendezéseket illetéktelen beavatkozás ellen biztonságosan zárhatóvá k
 
 3.2.1.1. Általános előírások
 
-A vasútengedélyes köteles külön jogszabály[^21] alapján a vasút üzemének biztonságos és hatékony lebonyolításához szükséges távközlő berendezéseket létesíteni.
+A vasútengedélyes köteles külön jogszabály[^23] alapján a vasút üzemének biztonságos és hatékony lebonyolításához szükséges távközlő berendezéseket létesíteni.
 
 A vasúti közlekedés, valamint az áru- és személyfuvarozás előkészítésére és lebonyolítására, leszámolására, bizonylatainak továbbítására a következő viszonylatokban szükségesek távközlő berendezések:
 
@@ -3032,7 +3030,7 @@ A felsoroltakhoz szükséges berendezések mennyiségét, választékát a felad
 
 A vasútengedélyes a koncesszióról, valamint a távközlésről szóló törvények figyelembevételével külső szervek részére is nyújthat távközlési szolgáltatásokat.
 
-A vasúti távközlő berendezések, valamint azoknak más vasutak és intézmények távközlési létesítményeivel való kapcsolatai feleljenek meg a hírközlési törvényben[^22], a frekvenciagazdálkodási törvényben, továbbá a vasútengedélyes és a közcélú távközlési szolgáltatók közötti, valamint a vonatkozó nemzetközi távközlési szabványokban és egyezményekben foglaltaknak.
+A vasúti távközlő berendezések, valamint azoknak más vasutak és intézmények távközlési létesítményeivel való kapcsolatai feleljenek meg a hírközlési törvényben[^24], a frekvenciagazdálkodási törvényben, továbbá a vasútengedélyes és a közcélú távközlési szolgáltatók közötti, valamint a vonatkozó nemzetközi távközlési szabványokban és egyezményekben foglaltaknak.
 
 3.2.1.2. A vasút szervezetén belüli távközlési szolgálatok és berendezések
 
@@ -3316,7 +3314,7 @@ A vasútforgalmi teendőket, ezek végrehajtásának módját (a vasútüzemi te
 
 4.1.2. Menetrendek
 
-A vonatok közlekedését külön jogszabályban[^23] foglaltak figyelembevételével menetrendben kell szabályozni.
+A vonatok közlekedését külön jogszabályban[^25] foglaltak figyelembevételével menetrendben kell szabályozni.
 
 4.1.3. Tolatás
 
@@ -3422,7 +3420,7 @@ Az 5‰-et meghaladó lejtőjű pályarészeken rakodás csak olyan vonatoknál 
 
 A nyílt pályán történő rakodás részletes technológiai szabályai vállalati utasításban kell rögzíteni.
 
-4.1.7.[^24] Iparvágányok kiszolgálása
+4.1.7.[^26] Iparvágányok kiszolgálása
 
 A közforgalmú vasút által iparvágány kiszolgálási teendőket a közforgalmú vasútra vonatkozó és a helyi végrehajtási utasítások írják elő.
 
@@ -3442,7 +3440,7 @@ Felelős vasútüzem-vezetőt kell alkalmazni minden olyan iparvágányon, ahol 
 
 Abban az esetben, ha a kiállításra kerülő kocsik átadására és visszavételére szolgáló vágány az állomás területén van, és az iparvágány használója belső vasútüzemet tart fenn, a tolatást végző személyzet köteles a kiszolgáló vasút területén ennek az üzemi rendjéhez alkalmazkodni.
 
-4.1.8.[^25] A vonatokra vonatkozó általános előírások
+4.1.8.[^27] A vonatokra vonatkozó általános előírások
 
 A vasúti közlekedés egysége a vonat, amely személyzetből, mozdonyból, motorkocsiból, összesorozott vontatott járművekből álló, zárjelzővel ellátott szerelvény.
 
@@ -3600,7 +3598,7 @@ A 6000 kg-nál kisebb tömegű járművek közlekedtetésével kapcsolatos egyé
 
 4.1.9.8. Idegen vasutak és vállalatok vonatainak közlekedésére és tolatási műveleteire vonatkozó szabályok
 
-A működési engedéllyel rendelkező vasútvállalatok külföldi vasúttal valamely országhatáron átvezető vasútvonalon nemzetközi szerződés alapján, az abban rögzítettek és a külön jogszabályban[^26] meghatározott feltételekkel bonyolíthatja le a forgalmat.
+A működési engedéllyel rendelkező vasútvállalatok külföldi vasúttal valamely országhatáron átvezető vasútvonalon nemzetközi szerződés alapján, az abban rögzítettek és a külön jogszabályban[^28] meghatározott feltételekkel bonyolíthatja le a forgalmat.
 
 Az egyezményben foglaltaknak megfelelően a szomszédos vasutak a személyeket vagy árukat továbbító vonatszerelvényeket
 
@@ -3758,7 +3756,7 @@ Alapvető követelmények:
 
 5.1. Járművek engedélyezése
 
-Vasúti járművek gyártásához, beszerzéséhez, átalakításához és üzembe helyezéséhez hatósági engedély kell. Az engedélyezési eljárást külön jogszabály[^27] rögzíti.
+Vasúti járművek gyártásához, beszerzéséhez, átalakításához és üzembe helyezéséhez hatósági engedély kell. Az engedélyezési eljárást külön jogszabály[^29] rögzíti.
 
 5.2. Járművek kialakításával, felszerelésével kapcsolatos követelmények
 
@@ -3972,7 +3970,7 @@ Az alkalmazott ablakok szilánkmentesen törő biztonsági üvegből készüljen
 
 Személyszállító járműveken az ajtókat, lépcsőket, kapaszkodókat, üléseket, csomagtartókat, fogasokat mindenkor a jármű rendeltetésének figyelembevételével úgy kell kialakítani, hogy az utazás, a fel- és leszállás, a csomagok, a ruházat elhelyezése, szállítása biztonságosan és kényelmesen történhessen.
 
-A külön jogszabály[^28] szerint fokozatosan meg kell valósítani a személyszállítási közszolgáltatást végző járműpark fogyatékos személyek utazására való alkalmassá tételét.
+A külön jogszabály[^30] szerint fokozatosan meg kell valósítani a személyszállítási közszolgáltatást végző járműpark fogyatékos személyek utazására való alkalmassá tételét.
 
 5.2.6.1. Közúti járműelemekből készülő könnyűszerkezetű személyszállító járművek
 
@@ -4568,7 +4566,7 @@ Ad B. 1.1.: Vasúti pályák
 
 9. Ellenívek: két egymáshoz csatlakozó különböző irányú ív.
 
-10.[^29] Elsodrási határ: az a vágánytengellyel párhuzamos vonal, amelyen kívül a vonat sebességéből származó elsodró hatás már nem érvényesül:
+10.[^31] Elsodrási határ: az a vágánytengellyel párhuzamos vonal, amelyen kívül a vonat sebességéből származó elsodró hatás már nem érvényesül:
 
 | A vonat sebessége km/h | Elsodrási határ m |
 
@@ -5032,32 +5030,34 @@ Ad B. 5.: VASÚTI JÁRMŰVEK
 
 16. Vontatott jármű: az olyan vasúti jármű, amelynek közlekedéséhez más jármű vonóereje szükséges és jellemzően személy, vagy áruszállításra szolgál.
 
-lI. FÜGGELÉK[^30]
+lI. FÜGGELÉK[^32]
 
 [^4]: Az építési termékek műszaki követelményeinek, megfelelőség igazolásának, valamint forgalomba hozatalának és felhasználásának részletes szabályairól szóló 3/2003. (I. 25.) BM–GKM–KvVM együttes rendelet.
-[^5]: A 4. számú melléklet A. részének 3. pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 43. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^6]: A 4. számú melléklet Országos Vasúti Szabályzat „A. Általános Rendelkezések” című fejezetének 7. pontját a 19/2011. (V. 10.) NFM rendelet 39. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^7]: A 4. számú melléklet A. rész 9.1. pontja a 48/2009. (IX. 30.) KHEM rendelet 28. §-a szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény, a környezeti hatásvizsgálatról szóló 20/2001. (II. 14.) Korm. rendelet, a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény, a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló 98/2001. (VI. 15.) Korm. rendelet.
-[^9]: A folyók mértékadó árvízszintjeiről szóló 15/1997. (X. 19.) KHVM rendelet.
-[^10]: A vasúti építmények engedélyezéséről és üzemeltetésük ellenőrzéséről szóló 15/1987. (XII. 27.) KM–PM együttes rendelet.
-[^11]: Az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről szóló 20/1984. (XII. 21.) KM rendelet.
-[^12]: 1. és 2. lábjegyzet.
-[^13]: A Nemzetközi Vasúti Árufuvarozási Egyezményre vonatkozó Egységes Szabályok (CIM) mellékleteinek kihirdetéséről szóló 4/1987. (V. 13.) KM rendelet módosításáról rendelkező 29/2002. (XII. 9.) GKM rendelet.
-[^14]: A 4. számú melléklet B. részének 1.3.11. pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 43. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^15]: A Magyar Közlöny 2004. évi 9. számában megjelent helyesbítésnek megfelelő szöveg.
-[^16]: Az Országos Tűzvédelmi Szabályzat kiadásáról szóló 35/1996. (XII. 29.) BM rendelet.
-[^17]: A felszíni vizek minősége védelmének egyes szabályairól szóló 203/2001. (X. 26.) Korm. rendelet, a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról szóló 33/2000. (III. 17.) Korm. rendelet.
+[^5]: A 4. számú melléklet A. részének 3. pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 43. pontja, az 55/2017. (XII. 27.) NFM rendelet 26. § a) pontja szerint módosított szöveg.
+[^6]: A 4. számú melléklet A. fejezet 6. pontját az 55/2017. (XII. 27.) NFM rendelet 27. §-a hatályon kívül helyezte.
+[^7]: A 4. számú melléklet Országos Vasúti Szabályzat „A. Általános Rendelkezések” című fejezetének 7. pontját a 19/2011. (V. 10.) NFM rendelet 39. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^8]: A 4. számú melléklet A. rész 9.1. pontja a 48/2009. (IX. 30.) KHEM rendelet 28. §-a szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény, a környezeti hatásvizsgálatról szóló 20/2001. (II. 14.) Korm. rendelet, a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény, a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló 98/2001. (VI. 15.) Korm. rendelet.
+[^10]: A folyók mértékadó árvízszintjeiről szóló 15/1997. (X. 19.) KHVM rendelet.
+[^11]: A vasúti építmények engedélyezéséről és üzemeltetésük ellenőrzéséről szóló 15/1987. (XII. 27.) KM–PM együttes rendelet.
+[^12]: A 4. számú melléklet B. fejezet 1.1.12.2. pontja az 55/2017. (XII. 27.) NFM rendelet 26. § b) pontja szerint módosított szöveg.
+[^13]: Az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről szóló 20/1984. (XII. 21.) KM rendelet.
+[^14]: 1. és 2. lábjegyzet.
+[^15]: A Nemzetközi Vasúti Árufuvarozási Egyezményre vonatkozó Egységes Szabályok (CIM) mellékleteinek kihirdetéséről szóló 4/1987. (V. 13.) KM rendelet módosításáról rendelkező 29/2002. (XII. 9.) GKM rendelet.
+[^16]: A 4. számú melléklet B. részének 1.3.11. pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 43. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^17]: A Magyar Közlöny 2004. évi 9. számában megjelent helyesbítésnek megfelelő szöveg.
 [^18]: Az Országos Tűzvédelmi Szabályzat kiadásáról szóló 35/1996. (XII. 29.) BM rendelet.
-[^19]: A közlekedési, hírközlési és vízi építmény-tervezési jogosultság részletes szabályairól szóló 3/1998. (II. 11.) KHVM rendelet.
-[^20]: A vasúti építmények engedélyezéséről és üzemeltetésük ellenőrzéséről szóló 15/1987. (XII. 27.) KM–ÉVM együttes rendelet.
-[^21]: A távközlési építmények engedélyezéséről és ellenőrzéséről szóló 29/1999. (X. 6.) KHVM rendelet.
-[^22]: A hírközlésről szóló 2001. évi XL. törvény.
-[^23]: Az országos közforgalmú vasúti pálya kapacitásának elosztásáról szóló 67/2003. (X. 21.) GKM rendelet.
-[^24]: A 4. számú melléklet B. pont 4.1.7. pontja az 1/2017. (I. 3.) NFM rendelet 38. § a) pontja szerint módosított szöveg.
-[^25]: A 4. számú melléklet B. pont 4.1.8. pontja az 1/2017. (I. 3.) NFM rendelet 38. § b) pontja szerint módosított szöveg.
-[^26]: A vasútvállalatok működésének engedélyezéséről szóló 15/2002. (II. 27.) KöViM rendelet.
-[^27]: A vasúti járművek üzembe helyezésének engedélyezéséről és időszakos vizsgálatáról szóló 28/2003. (V. 8.) GKM rendelet.
-[^28]: A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény.
-[^29]: A 4. számú melléklet I. Függeléke B. 1.1. pontjának 10. alpontjában foglalt táblázat a Magyar Közlöny 2004. évi 9. számában megjelent helyesbítésnek megfelelő szöveg.
-[^30]: A 4. számú melléklet Országos Vasúti Szabályzat „A. Általános Rendelkezések” című fejezetének II. Függelékét a 19/2011. (V. 10.) NFM rendelet 39. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^19]: A felszíni vizek minősége védelmének egyes szabályairól szóló 203/2001. (X. 26.) Korm. rendelet, a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról szóló 33/2000. (III. 17.) Korm. rendelet.
+[^20]: Az Országos Tűzvédelmi Szabályzat kiadásáról szóló 35/1996. (XII. 29.) BM rendelet.
+[^21]: A közlekedési, hírközlési és vízi építmény-tervezési jogosultság részletes szabályairól szóló 3/1998. (II. 11.) KHVM rendelet.
+[^22]: A vasúti építmények engedélyezéséről és üzemeltetésük ellenőrzéséről szóló 15/1987. (XII. 27.) KM–ÉVM együttes rendelet.
+[^23]: A távközlési építmények engedélyezéséről és ellenőrzéséről szóló 29/1999. (X. 6.) KHVM rendelet.
+[^24]: A hírközlésről szóló 2001. évi XL. törvény.
+[^25]: Az országos közforgalmú vasúti pálya kapacitásának elosztásáról szóló 67/2003. (X. 21.) GKM rendelet.
+[^26]: A 4. számú melléklet B. pont 4.1.7. pontja az 1/2017. (I. 3.) NFM rendelet 38. § a) pontja szerint módosított szöveg.
+[^27]: A 4. számú melléklet B. pont 4.1.8. pontja az 1/2017. (I. 3.) NFM rendelet 38. § b) pontja szerint módosított szöveg.
+[^28]: A vasútvállalatok működésének engedélyezéséről szóló 15/2002. (II. 27.) KöViM rendelet.
+[^29]: A vasúti járművek üzembe helyezésének engedélyezéséről és időszakos vizsgálatáról szóló 28/2003. (V. 8.) GKM rendelet.
+[^30]: A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény.
+[^31]: A 4. számú melléklet I. Függeléke B. 1.1. pontjának 10. alpontjában foglalt táblázat a Magyar Közlöny 2004. évi 9. számában megjelent helyesbítésnek megfelelő szöveg.
+[^32]: A 4. számú melléklet Országos Vasúti Szabályzat „A. Általános Rendelkezések” című fejezetének II. Függelékét a 19/2011. (V. 10.) NFM rendelet 39. § (1) bekezdés b) pontja hatályon kívül helyezte.
