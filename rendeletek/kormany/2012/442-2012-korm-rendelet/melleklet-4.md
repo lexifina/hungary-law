@@ -1,4 +1,4 @@
-4. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^36]
+4. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^37]
 
 Az adatszolgáltatás tartalmi követelményei
 
@@ -170,4 +170,4 @@ c) a csomagolás sajátos altípusairól, így az összetett (kompozit) csomagol
 
 d) a csomagolásban szennyeződésként maradó anyagnak tulajdoníthatóan veszélyesnek minősülő csomagolási hulladék mennyiségéről és minőségéről.
 
-[^36]: A 4. melléklet a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^37]: A 4. melléklet a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.

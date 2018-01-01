@@ -1,6 +1,6 @@
 9. § (1) A gyártó az újra nem használt, a 3. § (1) bekezdésben meghatározott határértéket meghaladó mértékű nehézfémet tartalmazó és hulladékká vált műanyag rekesz, raklap hasznosításáról a hulladékhierarchia szerinti követelményekre figyelemmel gondoskodik.
 
-(2)[^19] A hulladékról szóló 2012. évi CLXXXV. törvény 24. §-a szerinti átvételi és visszavételi kötelezettség alapján el kell érni, hogy az egy naptári évben országosan képződő hulladékká vált csomagolás teljes tömegének – legalább 55% anyagában történő hasznosítása mellett – legalább 60%-át hasznosítsák úgy, hogy az egy naptári évben országosan képződő hulladékká vált csomagolás anyagfajtáinak teljes tömegéhez viszonyítva anyagfajtánként a hasznosítási aránya a következő legyen:
+(2)[^20] A hulladékról szóló 2012. évi CLXXXV. törvény 24. §-a szerinti átvételi és visszavételi kötelezettség alapján el kell érni, hogy az egy naptári évben országosan képződő hulladékká vált csomagolás teljes tömegének – legalább 55% anyagában történő hasznosítása mellett – legalább 60%-át hasznosítsák úgy, hogy az egy naptári évben országosan képződő hulladékká vált csomagolás anyagfajtáinak teljes tömegéhez viszonyítva anyagfajtánként a hasznosítási aránya a következő legyen:
 
 a) üveg esetében 60%,
 
@@ -16,4 +16,4 @@ e) műanyag esetében 22,5%, kizárólag azokat az anyagokat figyelembe véve, a
 
 (4) A hasznosítási kötelezettség teljesítésének minősül a Magyarországon képződött, átvett és gyűjtött csomagolási hulladék külföldön megvalósított hasznosítása is. Az EGT-államok területéről kivitt csomagolási hulladék csak akkor minősül teljesítésnek, ha annak hasznosítása igazoltan olyan körülmények között történt meg, amelyek általános értelemben egyenértékűek a vonatkozó jogszabályokban és a közvetlenül alkalmazandó uniós jogi aktusokban előírtakkal. A teljesítés igazolása érdekében a környezetvédelmi hatóság kötelezheti a gyártót az egyenértékűség bizonyítására az igénybe vett hasznosítási technológia, valamint a vonatkozó engedélyei bemutatásával.
 
-[^19]: A 9. § (2) bekezdése az 534/2012. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^20]: A 9. § (2) bekezdése az 534/2012. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
