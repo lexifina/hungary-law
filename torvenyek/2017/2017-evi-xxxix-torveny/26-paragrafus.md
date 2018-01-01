@@ -1,0 +1,3 @@
+## „(2) Ha a bíróság, az ügyész, illetve a nyomozó hatóság a terhelt ellen elfogatóparancsot bocsátott ki, és tudomást szerez arról, hogy más eljárásban a terhelt ellen európai elfogatóparancsot, illetve a nemzetközi bűnügyi jogsegélyről szóló törvény alapján nemzetközi elfogatóparancsot bocsátottak ki – ha annak a terhelt, illetve az elfogatóparanccsal érintett bűncselekmény tekintetében a törvényben meghatározott feltételei fennállnak, és ha a külföldön fogvatartásban lévő terhelt jelenléte a büntetőeljárásban eljárási jogsegélykérelem előterjesztésével nem biztosítható –, európai elfogatóparancsot, illetve nemzetközi elfogatóparancsot is kibocsát, illetve ennek érdekében intézkedik.”
+
+26. § A Be. 178/A. § (2) bekezdése helyébe a következő rendelkezés lép:
