@@ -22,7 +22,7 @@ hb) a pénzbüntetés megfizetéséről a pártfogó felügyelőt a befizetést 
 
 (2) A meghallgatáson az elítéltet nyilatkoztatni kell
 
-a)[^61] a Bv. tv. 76. § (2) bekezdés g) pontjában foglaltakról,
+a)[^62] a Bv. tv. 76. § (2) bekezdés g) pontjában foglaltakról,
 
 b) arról, hogy személyi adatainak a munkahely felé történő továbbításához hozzájárul-e,
 
@@ -30,8 +30,9 @@ c) arról, hogy a közérdekű munkát szándékában áll-e elvégezni,
 
 d) a közérdekű munka végrehajtása szempontjából jelentős körülményekről,
 
-e) fellebbezési szándékáról, amennyiben a munkahely kijelöléséről a pártfogó felügyelő a meghallgatáson határozott.
+e)[^63] bírósági felülvizsgálati kérelem benyújtásának szándékáról, amennyiben a munkahely kijelöléséről a pártfogó felügyelő a meghallgatáson határozott.
 
 (3) A meghallgatásról jegyzőkönyv készül, amelyet a pártfogó felügyelő és az elítélt aláír. A jegyzőkönyv egy eredeti példányát az elítélt számára át kell adni.
 
-[^61]: A 27. § (2) bekezdés a) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 12. pontja szerint módosított szöveg.
+[^62]: A 27. § (2) bekezdés a) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 12. pontja szerint módosított szöveg.
+[^63]: A 27. § (2) bekezdés e) pontja a 22/2017. (XII. 22.) IM rendelet 14. § c) pontja szerint módosított szöveg.

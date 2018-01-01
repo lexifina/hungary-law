@@ -1,6 +1,6 @@
 ## 25. A fiatalkorúak pártfogó felügyelete végrehajtásának külön szabályai
 
-## 52. §[^101] A kormányhivatal fiatalkorúakkal foglalkozó pártfogó felügyelője látja el a pártfogó felügyeletét – a Btk. 119. § a) pontja szerinti kivétellel – a pártfogó felügyelet alatt álló
+## 52. §[^104] A kormányhivatal fiatalkorúakkal foglalkozó pártfogó felügyelője látja el a pártfogó felügyeletét – a Btk. 119. § a) pontja szerinti kivétellel – a pártfogó felügyelet alatt álló
 
 a) fiatalkorúnak, abban az esetben is, ha a fiatalkorú
 
@@ -10,4 +10,4 @@ ab) a felfüggesztett szabadságvesztésre ítélése, próbára bocsátása, j�
 
 b) azon felnőtt korúnak, aki az a) pont aa) alpontban vagy az ab) alpontban foglaltak miatt is – más ügyben – pártfogó felügyelet alatt áll.
 
-[^101]: Az 52. § a 19/2014. (XII. 22.) IM rendelet 26. §-ával megállapított, nyitó szövegrésze a 8/2015. (IV. 14.) IM rendelet 20. § o) pontja szerint módosított szöveg.
+[^104]: Az 52. § a 19/2014. (XII. 22.) IM rendelet 26. §-ával megállapított, nyitó szövegrésze a 8/2015. (IV. 14.) IM rendelet 20. § o) pontja szerint módosított szöveg.

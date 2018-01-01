@@ -22,8 +22,9 @@ h) van-e folyamatban az elítélttel szemben más közérdekű munka büntetés 
 
 (2) Ha a pártfogó felügyelő azt észleli, hogy
 
-a) a közérdekű munka végrehajtását kizáró vagy a végrehajthatóság megszűnését eredményező ok áll fenn, vagy a beszámítás folytán az elítélt az előzetes fogvatartásban, illetve házi őrizetben töltött idővel kitöltötte a közérdekű munka tartamát, az iratokat további intézkedés végett megküldi a bv. bírónak,
+a)[^58] a közérdekű munka végrehajtását kizáró vagy a végrehajthatóság megszűnését eredményező ok áll fenn, vagy a Btk. 92–92/B. §-a szerinti beszámítás alapján az elítélt kitöltötte a közérdekű munka tartamát, az iratokat további intézkedés végett megküldi a bv. bírónak,
 
 b) az alapügyben eljáró bíróság halasztást engedélyezett a közérdekű munka végrehajtására, az iratokat határidős nyilvántartásba helyezi.
 
 [^57]: A 25. § (1) bekezdés f) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 9. pontja szerint módosított szöveg.
+[^58]: A 25. § (2) bekezdés a) pontja a 22/2017. (XII. 22.) IM rendelet 14. § a) pontja szerint módosított szöveg.

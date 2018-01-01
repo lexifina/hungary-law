@@ -12,10 +12,10 @@
 
 (6) Az önkormányzatok, az egyházi jogi személyek, a munkáltatók, a karitatív és más civil szervezetek az utógondozásban közreműködhetnek, ennek során velük a BVOP és a bv. intézet együttműködési megállapodást vagy szerződést köthet.
 
-(7)[^136] A Bv. tv. 191. § (5) bekezdésében meghatározott elítélt esetében, eredményes reintegrációja elősegítése érdekében a BVOP és a bv. intézet együttműködési megállapodást vagy szerződést köthet az állami foglalkoztatási szervvel.
+(7)[^140] A Bv. tv. 191. § (5) bekezdésében meghatározott elítélt esetében, eredményes reintegrációja elősegítése érdekében a BVOP és a bv. intézet együttműködési megállapodást vagy szerződést köthet az állami foglalkoztatási szervvel.
 
 (8) Ha a büntetés-végrehajtási pártfogó felügyelő tudomására jut, hogy a korábban hatáskörében pártfogó felügyelet alatt állt, vagy börtönpártfogolást igénybe vett magyar állampolgár külföldön szabadságvesztését tölti, – az illetékes nemzeti hatóság engedélyével – írásban értesíti az elítéltet az utógondozás keretében nyújtható szolgáltatásokról.
 
 (9) A (7) bekezdésben foglaltak szerint kell eljárni abban az esetben is, ha a külföldön fogva tartott hozzátartozója keresi meg a büntetés-végrehajtási pártfogó felügyelőt, és segítséget kér a kapcsolattartásuk és az elítélt visszailleszkedésének elősegítése céljából.
 
-[^136]: A 62/F. § (7) bekezdése a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés p) pontja szerint módosított szöveg.
+[^140]: A 62/F. § (7) bekezdése a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés p) pontja szerint módosított szöveg.

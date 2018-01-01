@@ -1,4 +1,4 @@
-## 43. §[^95] A pártfogó felügyelő a 38. § (1) bekezdés c) pontjában meghatározott esetekben a bv. bíró határozatának, illetve a büntetés-végrehajtási intézet (a továbbiakban: bv. intézet) vagy a javítóintézet értesítésének kézhezvételét követően, a 42. § (1) bekezdés b) pontja szerinti felhívást a pártfogó felügyelő a bv. intézeten vagy a javítóintézeten keresztül továbbítja a pártfogolt számára.
+## 43. §[^98] A pártfogó felügyelő a 38. § (1) bekezdés c) pontjában meghatározott esetekben a bv. bíró határozatának, illetve a büntetés-végrehajtási intézet (a továbbiakban: bv. intézet) vagy a javítóintézet értesítésének kézhezvételét követően, a 42. § (1) bekezdés b) pontja szerinti felhívást a pártfogó felügyelő a bv. intézeten vagy a javítóintézeten keresztül továbbítja a pártfogolt számára.
 
 ## 21. Az egyéni pártfogó felügyelői terv elkészítése
 
@@ -16,4 +16,4 @@ c) azoknak az intézményeknek, személyeknek a megnevezését, akiknek a segít
 
 (4) A pártfogó felügyelet végrehajtását követően a pártfogó felügyelő a tervben foglaltak megvalósulásáról rövid összegzést készít.
 
-[^95]: A 43. § a 19/2014. (XII. 22.) IM rendelet 34. § 24. pontja szerint módosított szöveg.
+[^98]: A 43. § a 19/2014. (XII. 22.) IM rendelet 34. § 24. pontja szerint módosított szöveg.

@@ -10,10 +10,10 @@ a) vádemelés elhalasztása esetén az ügyész,
 
 b) próbára bocsátás, felfüggesztett szabadságvesztés és jóvátételi munka alkalmazása esetén a bíróság,
 
-c)[^86] javítóintézetből történő ideiglenes elbocsátás esetén a bv. bíró
+c)[^88] javítóintézetből történő ideiglenes elbocsátás esetén a bv. bíró
 
 határozata alapján látja el.
 
 (2) A pártfogó felügyelet tartamába annak kezdő napja – a vádemelés elhalasztása esetén megállapított pártfogó felügyelet kivételével – beszámít.
 
-[^86]: A 38. § (1) bekezdés c) pontja a 19/2014. (XII. 22.) IM rendelet 37. § g) pontja szerint módosított szöveg.
+[^88]: A 38. § (1) bekezdés c) pontja a 19/2014. (XII. 22.) IM rendelet 37. § g) pontja szerint módosított szöveg.

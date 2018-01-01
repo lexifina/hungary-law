@@ -10,7 +10,7 @@ d) a tolmács költségtérítése és díja.
 
 (2)[^50] Azokat a költségeket és díjakat, amelyeket a Bkt. 17. § (2) bekezdése, illetve a Szabs. tv. 82/K. § (2) bekezdése alapján az állam visel, a minisztérium fizeti meg.
 
-(3)[^51] A közvetítői eljárás során felmerült azon költségekről, amelyeket a minisztérium fizet meg vagy előlegez, a közvetítő tételes költségjegyzéket vezet. A további költségeket a közvetítő feljegyzésben rögzíti. A közvetítő úti- és szállásköltségének megállapításánál a pártfogó ügyvéd és a kirendelt védő részére megállapítható díjról és költségekről szóló 7/2002. (III. 30.) IM rendelet (a továbbiakban: R.) 2. §-ában foglalt rendelkezéseket kell megfelelően alkalmazni.
+(3)[^51] A közvetítői eljárás során felmerült azon költségekről, amelyeket a minisztérium fizet meg vagy előlegez, a közvetítő tételes költségjegyzéket vezet. A további költségeket a közvetítő feljegyzésben rögzíti. A közvetítő úti- és szállásköltségének megállapításánál a pártfogó ügyvéd, az ügygondnok és a kirendelt védő részére megállapítható díjról és költségekről szóló rendelet (a továbbiakban: R.) foglalt rendelkezéseket kell megfelelően alkalmazni.
 
 (4) Az R. rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a kirendelt védőnek a közvetítői eljárás során felmerült készkiadásait az ügyvéd által benyújtott tételes kimutatás alapján a közvetítő állapítja meg.
 
@@ -19,5 +19,5 @@ d) a tolmács költségtérítése és díja.
 [^48]: A 23. § (1) bekezdése a 19/2014. (XII. 22.) IM rendelet 37. § c) pontja szerint módosított szöveg.
 [^49]: A 23. § (1) bekezdés a) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 8. pontja szerint módosított szöveg.
 [^50]: A 23. § (2) bekezdése a 19/2014. (XII. 22.) IM rendelet 17. §-ával megállapított, a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés i) pontja szerint módosított szöveg.
-[^51]: A 23. § (3) bekezdése a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés i) pontja szerint módosított szöveg.
+[^51]: A 23. § (3) bekezdése a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés i) pontja, a 20/2017. (XII. 21.) IM rendelet 39. §-a szerint módosított szöveg.
 [^52]: A 23. § (5) bekezdése a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés i) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
-## 62. §[^117] A közösségi foglalkoztató a bíróság, illetve az ügyész által előírt külön magatartási szabályok végrehajtása érdekében egy-egy programot évente legalább kétszer biztosít.
+## 62. §[^120] A közösségi foglalkoztató a bíróság, illetve az ügyész által előírt külön magatartási szabályok végrehajtása érdekében egy-egy programot évente legalább kétszer biztosít.
 
-## VII/A. Fejezet[^118]
+## VII/A. Fejezet[^121]
 
-## A BÜNTETÉS-VÉGREHATJÁSSAL ÖSSZEFÜGGŐ PÁRTFOGÓ FELÜGYELŐI TEVÉKENYSÉG
+## A BÜNTETÉS-VÉGREHAJTÁSSAL ÖSSZEFÜGGŐ PÁRTFOGÓ FELÜGYELŐI TEVÉKENYSÉG
 
 ## 28. A pártfogó felügyelői tevékenység általános szabályaitól eltérő rendelkezések
 
@@ -14,29 +14,31 @@ b) az elítélt pártfogó felügyeletét [Bv. tv. 57. § (4) bekezdés]
 
 rendeli el, a pártfogó felügyelői vélemény elkészítésére az elítélt magyarországi lakóhelye vagy tartózkodási helye szerint illetékes bv. intézetet rendeli ki. A pártfogó felügyelői véleményt a bv. intézet vezetője által kijelölt büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységet végző pártfogó felügyelő (a továbbiakban: büntetés-végrehajtási pártfogó felügyelő) készíti el.
 
-(2)[^119] A fiatalkorú befogadó részlegbe helyezésekor a bv. intézet megkeresésére a büntetés-végrehajtási pártfogó felügyelő környezettanulmányt készít. A környezettanulmány elkészítése során a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a büntetés-végrehajtási pártfogó felügyelő a szakmai ténymegállapítások keretében azt mutatja be, hogy a nevelési terv és az abban foglalt intézkedések a szabadulás után miként szolgálhatnák a legkedvezőbben a bűnismétlés megelőzését. Ebben az esetben a büntetés-végrehajtási pártfogó felügyelő kockázatértékelést nem végez; a környezettanulmány ilyenkor nem tartalmaz IV–VI. részt.
+(2)[^122] A fiatalkorú befogadó részlegbe helyezésekor a bv. intézet megkeresésére a büntetés-végrehajtási pártfogó felügyelő környezettanulmányt készít. A környezettanulmány elkészítése során a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a büntetés-végrehajtási pártfogó felügyelő a szakmai ténymegállapítások keretében azt mutatja be, hogy a nevelési terv és az abban foglalt intézkedések a szabadulás után miként szolgálhatnák a legkedvezőbben a bűnismétlés megelőzését. Ebben az esetben a büntetés-végrehajtási pártfogó felügyelő kockázatértékelést nem végez; a környezettanulmány ilyenkor nem tartalmaz IV–VI. részt.
+
+(2a)[^123] Az enyhébb végrehajtási szabályok alkalmazása iránti előterjesztés megalapozása, illetve az ilyen irányú kérelem megalapozottságának ellenőrzése érdekében a büntetés-végrehajtási pártfogó felügyelő környezettanulmányt készít. A környezettanulmány elkészítése során a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a büntetés-végrehajtási pártfogó felügyelő a szakmai ténymegállapítások keretében bemutatja különösen az elítélt által az eltávozás során tartózkodása helyeként megjelölt lakóingatlant, az ott életvitelszerűen tartózkodó kapcsolattartói fogadókészségét, értékelve a kapcsolattartás minőségét és azt, hogy a befogadó környezet megfelelően szolgálja-e az elítélt társadalmi visszailleszkedését. A büntetés-végrehajtási pártfogó felügyelő a környezettanulmány elkészítésekor az elítélt bűnismétlési kockázatát is vizsgálja.
 
 (3) Ha a bv. intézet a szabadságvesztés végrehajtásának félbeszakítását megelőzően kér környezettanulmányt, a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a büntetés-végrehajtási pártfogó felügyelő a szakmai ténymegállapítások keretében elsősorban azt mutatja be, hogy az elítélt kérelmében foglaltak megfelelnek-e a valóságnak, továbbá annak tejesítéséhez fűződik-e a büntetés-végrehajtás eredményességét fokozó köz- és személyes érdek.
 
-(3a)[^120] A reintegrációs őrizet elrendelésére vonatkozó előterjesztésnek, illetve az ilyen irányú kérelem véleményezésének a megalapozása érdekében elrendelt környezettanulmány elkészítése során a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a büntetés-végrehajtási pártfogó felügyelő a szakmai ténymegállapítások keretében és az összegző értékelésben azt mutatja be, hogy a befogadó környezet megfelelően szolgálja-e az elítélt társadalmi visszailleszkedését, és hogy a büntetés célja a reintegrációs őrizet elrendelése esetén megvalósulhat-e. Ebben az esetben a büntetés-végrehajtási pártfogó felügyelő az 59. §-ban meghatározott kockázatelemzést, illetve kockázatértékelést a bűnismétlési kockázatok megállapítása érdekében végzi.
+(3a)[^124] A reintegrációs őrizet elrendelésére vonatkozó előterjesztésnek, illetve az ilyen irányú kérelem véleményezésének a megalapozása érdekében elrendelt környezettanulmány elkészítése során a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a büntetés-végrehajtási pártfogó felügyelő a szakmai ténymegállapítások keretében és az összegző értékelésben azt mutatja be, hogy a befogadó környezet megfelelően szolgálja-e az elítélt társadalmi visszailleszkedését, és hogy a büntetés célja a reintegrációs őrizet elrendelése esetén megvalósulhat-e. Ebben az esetben a büntetés-végrehajtási pártfogó felügyelő az 59. §-ban meghatározott kockázatelemzést, illetve kockázatértékelést a bűnismétlési kockázatok megállapítása érdekében végzi.
 
-(3b)[^121] A társadalmi kötődés programba helyezés iránti kérelemről való döntés megalapozása érdekében a büntetés-végrehajtási pártfogó felügyelő környezettanulmányt készít. A környezettanulmány elkészítése során a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a büntetés-végrehajtási pártfogó felügyelő a szakmai ténymegállapítások keretében bemutatja különösen az elítélt által eltávozására megjelölt lakóingatlant, az ott életvitelszerűen tartózkodó kapcsolattartói fogadókészségét, értékelve a kapcsolattartás minőségét és azt, hogy a befogadó környezet megfelelően szolgálja-e az elítélt társadalmi visszailleszkedését. Ha az rendelkezésre áll, a környezettanulmányhoz csatolni kell a munkáltatónak az elítélt foglalkoztatására irányuló nyilatkozatát. A büntetés-végrehajtási pártfogó felügyelő a környezettanulmány elkészítésekor az elítélt bűnismétlési kockázatát is vizsgálja.
+(3b)[^125] A társadalmi kötődés programba helyezés iránti kérelemről való döntés megalapozása érdekében a büntetés-végrehajtási pártfogó felügyelő környezettanulmányt készít. A környezettanulmány elkészítése során a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a büntetés-végrehajtási pártfogó felügyelő a szakmai ténymegállapítások keretében bemutatja különösen az elítélt által eltávozására megjelölt lakóingatlant, az ott életvitelszerűen tartózkodó kapcsolattartói fogadókészségét, értékelve a kapcsolattartás minőségét és azt, hogy a befogadó környezet megfelelően szolgálja-e az elítélt társadalmi visszailleszkedését. Ha az rendelkezésre áll, a környezettanulmányhoz csatolni kell a munkáltatónak az elítélt foglalkoztatására irányuló nyilatkozatát. A büntetés-végrehajtási pártfogó felügyelő a környezettanulmány elkészítésekor az elítélt bűnismétlési kockázatát is vizsgálja.
 
 (4) A büntetés-végrehajtási pártfogó felügyelőre, illetve az általa készített pártfogó felügyelői véleményre, környezettanulmányra, valamint az általa végzett pártfogó felügyeletre e jogszabály pártfogó felügyelőre, pártfogó felügyelői véleményre, környezettanulmányra és pártfogó felügyeletre vonatkozó rendelkezéseit e fejezetben lévő eltérésekkel kell megfelelően alkalmazni.
 
 (5) E rendelet
 
-a)[^122] 5. §-ban és 42. § (2) bekezdésében az illetékes kormányhivatalra vonatkozó rendelkezést az Büntetés-végrehajtás Országos Parancsnokságára (a továbbiakban: BVOP) kell megfelelően alkalmazni,
+a)[^126] 5. §-ban és 42. § (2) bekezdésében az illetékes kormányhivatalra vonatkozó rendelkezést az Büntetés-végrehajtás Országos Parancsnokságára (a továbbiakban: BVOP) kell megfelelően alkalmazni,
 
 b) 7. § (2) bekezdés b) pontjában a megalapozott gyanú szerinti bűncselekmény helyett az elkövetett bűncselekményt kell érteni,
 
-c)[^123] 7. § (2) bekezdés c) pontjában az illetékes kormányhivatalra vonatkozó rendelkezést az illetékes bv. intézetre kell megfelelően alkalmazni,
+c)[^127] 7. § (2) bekezdés c) pontjában az illetékes kormányhivatalra vonatkozó rendelkezést az illetékes bv. intézetre kell megfelelően alkalmazni,
 
 d) 7. § (3) bekezdés c) pontjában foglalt adatokat a szabadságvesztést megelőző állapotnak megfelelően kell rögzíteni,
 
 e) 9. §-ban foglalt adatokat a fogva tartás előtti, alatti és a szabadulást követően várható állapotnak megfelelően kell rögzíteni,
 
-f)[^124] 14. § d) pontjában az illetékes kormányhivatalon, a környezettanulmányt készítő és az abban közreműködő kormányhivatalon bv. intézetet is, a pártfogó felügyelőn büntetés-végrehajtási pártfogó felügyelőt is érteni kell,
+f)[^128] 14. § d) pontjában az illetékes kormányhivatalon, a környezettanulmányt készítő és az abban közreműködő kormányhivatalon bv. intézetet is, a pártfogó felügyelőn büntetés-végrehajtási pártfogó felügyelőt is érteni kell,
 
 g) 42. §-ának alkalmazása során a bíróság, illetve az ügyész határozata alatt a bv. bíró határozatát kell érteni,
 
@@ -54,11 +56,12 @@ c) 49. § b)–c) pontjában,
 
 d) 52. § a) pont ab) alpontjában
 
-[^117]: A 62. § a 19/2014. (XII. 22.) IM rendelet 34. § 29. pontja szerint módosított szöveg.
-[^118]: A VII/A. fejezetet (62/A–62/M. §) a 19/2014. (XII. 22.) IM rendelet 33. § (1) bekezdése iktatta be.
-[^119]: A 62/A. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 20. § s) pontja, a 24/2016. (XII. 23.) IM rendelet 4. § a) pontja szerint módosított szöveg.
-[^120]: A 62/A. § (3a) bekezdését a 6/2015. (III. 30.) IM rendelet 1. §-a iktatta be.
-[^121]: A 62/A. § (3b) bekezdését a 24/2016. (XII. 23.) IM rendelet 1. §-a iktatta be.
-[^122]: A 62/A. § (5) bekezdés a) pontja a 8/2015. (IV. 14.) IM rendelet 20. § t) pontja, a 26/2016. (XII. 27.) IM rendelet 16. § (5) bekezdés e) pontja szerint módosított szöveg.
-[^123]: A 62/A. § (5) bekezdés c) pontja a 8/2015. (IV. 14.) IM rendelet 20. § t) pontja szerint módosított szöveg.
-[^124]: A 62/A. § (5) bekezdés f) pontja a 8/2015. (IV. 14.) IM rendelet 20. § u) pontja szerint módosított szöveg.
+[^120]: A 62. § a 19/2014. (XII. 22.) IM rendelet 34. § 29. pontja szerint módosított szöveg.
+[^121]: A VII/A. fejezetet (62/A–62/M. §) a 19/2014. (XII. 22.) IM rendelet 33. § (1) bekezdése iktatta be. A fejezet címe a 22/2017. (XII. 22.) IM rendelet 14. § f) pontja szerint módosított szöveg.
+[^122]: A 62/A. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 20. § s) pontja, a 24/2016. (XII. 23.) IM rendelet 4. § a) pontja szerint módosított szöveg.
+[^123]: A 62/A. § (2a) bekezdését a 22/2017. (XII. 22.) IM rendelet 12. §-a iktatta be.
+[^124]: A 62/A. § (3a) bekezdését a 6/2015. (III. 30.) IM rendelet 1. §-a iktatta be.
+[^125]: A 62/A. § (3b) bekezdését a 24/2016. (XII. 23.) IM rendelet 1. §-a iktatta be.
+[^126]: A 62/A. § (5) bekezdés a) pontja a 8/2015. (IV. 14.) IM rendelet 20. § t) pontja, a 26/2016. (XII. 27.) IM rendelet 16. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^127]: A 62/A. § (5) bekezdés c) pontja a 8/2015. (IV. 14.) IM rendelet 20. § t) pontja szerint módosított szöveg.
+[^128]: A 62/A. § (5) bekezdés f) pontja a 8/2015. (IV. 14.) IM rendelet 20. § u) pontja szerint módosított szöveg.
