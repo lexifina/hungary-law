@@ -1,6 +1,6 @@
-6. § (1)[^16] A halgazdálkodási hatóság a halállományt veszélyeztető gerinces állatfajok Hhvtv. 10. § (1) bekezdés b) pontja szerinti gyérítésére, riasztására kötelezheti a halgazdálkodásra jogosultat az alábbi feltételekkel:
+6. § (1)[^14] A halgazdálkodási hatóság a halállományt veszélyeztető gerinces állatfajok Hhvtv. 10. § (1) bekezdés b) pontja szerinti gyérítésére, riasztására kötelezheti a halgazdálkodásra jogosultat az alábbi feltételekkel:
 
-a)[^17] a gyérítést a halászati őrök, illetve a halgazdálkodási vízterületet magába foglaló vagy ennek hiányában a halgazdálkodási hatóság által kijelölt szomszédos vadászterület vadászatra jogosultjának hivatásos vadászai, sportvadászai végezhetik el, továbbá
+a)[^15] a gyérítést a halászati őrök, illetve a halgazdálkodási vízterületet magába foglaló vagy ennek hiányában a halgazdálkodási hatóság által kijelölt szomszédos vadászterület vadászatra jogosultjának hivatásos vadászai, sportvadászai végezhetik el, továbbá
 
 b) a kijelölt vadászatra jogosult a gyérítésében és riasztásában költségtérítés ellenében köteles együttműködni, illetve azt elvégezni.
 
@@ -8,5 +8,5 @@ b) a kijelölt vadászatra jogosult a gyérítésében és riasztásában költs
 
 (3) A gyérítés és a riasztás az okszerű gazdálkodás mértékéig végeztethető.
 
-[^16]: A 6. § (1) bekezdés nyitó szövegrésze az 56/2015. (IX. 24.) FM rendelet 22. § 5. pontja szerint módosított szöveg.
-[^17]: A 6. § (1) bekezdés a) pontja az 56/2015. (IX. 24.) FM rendelet 22. § 5. pontja szerint módosított szöveg.
+[^14]: A 6. § (1) bekezdés nyitó szövegrésze az 56/2015. (IX. 24.) FM rendelet 22. § 5. pontja szerint módosított szöveg.
+[^15]: A 6. § (1) bekezdés a) pontja az 56/2015. (IX. 24.) FM rendelet 22. § 5. pontja szerint módosított szöveg.

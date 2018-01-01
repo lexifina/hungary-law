@@ -4,10 +4,11 @@
 
 (3) A Hhvtv. 18. § (3) bekezdése szerinti vízélettani laboratórium feladatait a NÉBIH vízélettani laboratóriuma, valamint a Nemzeti Agrárkutatási és Innovációs Központ szarvasi telephelyének laboratóriuma látja el.
 
-(4) A vízszennyezés vizsgálata érdekében végzett mintavételezés és laborvizsgálat, valamint a halpusztulás kivizsgálása körében felmerült további költségek egyéb eljárási költségnek minősülnek.
+(4)[^27]
 
 (5) Fertőző halbetegség gyanúja esetén a halgazdálkodásra jogosult köteles értesíteni az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalt (a továbbiakban: állategészségügyi hatóság), amely megteszi a szükséges intézkedéseket.
 
 (6) Az állategészségügyi hatóság az (5) bekezdés szerinti esetben a vízből, a haltetemből és szükség szerint a takarmányból mintát vesz. A minták laboratóriumi vizsgálatát a NÉBIH állategészségügyi diagnosztikai laboratóriuma végzi.
 
 [^26]: A 11. § a 89/2016. (XII. 29.) FM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^27]: A 11. § (4) bekezdését a 70/2017. (XII. 29.) FM rendelet 11. § (2) bekezdés c) pontja hatályon kívül helyezte.

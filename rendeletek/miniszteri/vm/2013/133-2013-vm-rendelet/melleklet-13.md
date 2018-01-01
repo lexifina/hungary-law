@@ -16,7 +16,7 @@
 
 | 9. Fogási tanúsítvány (nyomtatvány tömb) kiadásának díja | 1000 |
 
-13. melléklet a 133/2013. (XII. 29.) VM rendelethez[^193]
+13. melléklet a 133/2013. (XII. 29.) VM rendelethez[^188]
 
 1. A Nemzeti Élelmiszerlánc-biztonsági Hivatal fizetési számlája:
 
@@ -66,4 +66,4 @@
 
 | 19. | Zala Megyei Kormányhivatal | 10049006-00302993-00000000 |
 
-[^193]: A 13. mellékletet a 41/2014. (XII. 23.) FM rendelet 5. § (2) bekezdése iktatta be, szövege az 56/2015. (IX. 24.) FM rendelet 22. § 46–47. pontja és 24. § (2) bekezdése, a 89/2016. (XII. 29.) FM rendelet 22. § (6) bekezdés g)–h) pontja szerint módosított szöveg.
+[^188]: A 13. mellékletet a 41/2014. (XII. 23.) FM rendelet 5. § (2) bekezdése iktatta be, szövege az 56/2015. (IX. 24.) FM rendelet 22. § 46–47. pontja és 24. § (2) bekezdése, a 89/2016. (XII. 29.) FM rendelet 22. § (6) bekezdés g)–h) pontja szerint módosított szöveg.
