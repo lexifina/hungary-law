@@ -1,0 +1,5 @@
+7. § (1) Nem nyilvántartott halgazdálkodási vízterület esetén a miniszter a különleges rendeltetésűvé nyilvánításra vonatkozó eljárás megindítását követően haladéktalanul megkeresi a halgazdálkodási vízterület fekvése szerint illetékes halgazdálkodási hatóságot a nem nyilvántartott halgazdálkodási vízterület nyilvántartásba vétele érdekében. A halgazdálkodási hatóság a nyilvántartásba vételről 15 napon belül értesíti az ingatlan tulajdonosát, az állam tulajdonában álló ingatlan esetén a vagyonkezelőt vagy ennek hiányában a tulajdonosi joggyakorló szervezetet.
+
+(2) A halgazdálkodási hatóság az (1) bekezdés szerinti nyilvántartásba vétel során a különleges rendeltetést jelző víztérkóddal veszi nyilvántartásba a halgazdálkodási vízterületet.
+
+(3) Az (1) bekezdésben foglalt eljárás lefolytatását követően, ha a különleges rendeltetésűvé nyilvánítás nem történik meg, a miniszter haladéktalanul megkeresi a halgazdálkodási vízterület fekvése szerint illetékes halgazdálkodási hatóságot a halgazdálkodási vízterület nyilvántartásból történő törlése érdekében.
