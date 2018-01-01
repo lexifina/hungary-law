@@ -12,7 +12,7 @@
 
 (7) Az elsősegélynyújtással kapcsolatos elméleti és gyakorlati ismeretek oktatása esetén államilag elismert egészségügyi szakképesítéssel rendelkező személy is oktathat, ha rendelkezik a (9) bekezdés c) pontja szerinti szakmai gyakorlattal.
 
-(8)[^11] A végzettséget, valamint a szakmai gyakorlatot a vadászati hatóság felé igazolni kell.
+(8)[^12] A végzettséget, valamint a szakmai gyakorlatot a vadászati hatóság felé igazolni kell.
 
 (9) A szakmai gyakorlat igazolására
 
@@ -22,4 +22,4 @@ b) a fegyvertani ismeretek oktatása esetén a rendőrhatóságnál a lőfegyver
 
 c) az elsősegélynyújtással és az újraélesztéssel kapcsolatos ismeretek oktatása esetén a baleseti mentésben és az egészségügyi intézmény sürgősségi, intenzív osztályán
 
-[^11]: A 4. § (8) bekezdése a 89/2016. (XII. 29.) FM rendelet 21. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 4. § (8) bekezdése a 89/2016. (XII. 29.) FM rendelet 21. § (2) bekezdés b) pontja szerint módosított szöveg.
