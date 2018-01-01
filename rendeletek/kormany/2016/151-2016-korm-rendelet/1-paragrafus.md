@@ -1,3 +1,5 @@
-1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Mezőkövesd város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0284/1, 0284/2, 0284/3, 0284/4, 0284/5, 0284/6, 0284/8, 0284/10 és 0284/11 helyrajzi számú ingatlanok, valamint az ezen ingatlanokból telekalakítási eljárások jogerős befejezését követően kialakított ingatlanok területén ipari telephely kialakításával összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+1. § (1)[^2] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Mezőkövesd város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0284/1, 0284/2, 0284/3, 0284/4, 0284/5, 0284/6, 0284/8, 0284/10 és 0284/11 helyrajzi számú ingatlanok, valamint az ezen ingatlanokból telekalakítási eljárások végleges befejezését követően kialakított ingatlanok területén ipari telephely kialakításával összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
 
 (2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+[^2]: Az 1. § (1) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 254. §-a szerint módosított szöveg.
