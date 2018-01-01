@@ -1,4 +1,4 @@
-## 16/C. §[^56] E rendeletnek az egyes agrártámogatási és egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 30/2013. (IV. 30.) VM rendelet [a továbbiakban: 30/2013. (IV. 30.) VM rendelet] által megállapított 5. § (5) bekezdését, a 12. § (2a) bekezdését, valamint a 13. § (1) bekezdés e) pontját a 30/2013. (IV. 30.) VM rendelet hatálybalépésekor[^57] már benyújtott, de jogerősen még el nem bírált kifizetési kérelmekre is alkalmazni kell.
+## 16/C. §[^49] E rendeletnek az egyes agrártámogatási és egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 30/2013. (IV. 30.) VM rendelet [a továbbiakban: 30/2013. (IV. 30.) VM rendelet] által megállapított 5. § (5) bekezdését, a 12. § (2a) bekezdését, valamint a 13. § (1) bekezdés e) pontját a 30/2013. (IV. 30.) VM rendelet hatálybalépésekor[^50] már benyújtott, de jogerősen még el nem bírált kifizetési kérelmekre is alkalmazni kell.
 
-[^56]: A 16/C. §-t a 30/2013. (IV. 30.) VM rendelet 3. § (5) bekezdése iktatta be.
-[^57]: A hatálybalépés napja: 2013. április 30.
+[^49]: A 16/C. §-t a 30/2013. (IV. 30.) VM rendelet 3. § (5) bekezdése iktatta be.
+[^50]: A hatálybalépés napja: 2013. április 30.

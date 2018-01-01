@@ -8,7 +8,7 @@ b) kiegészítő
 
 ## támogatásból áll.
 
-(2)[^19] Kiegészítő támogatás az alábbi tevékenységek elvégzésére adható, amennyiben az erdőtelepítési engedélyben szerepel az adott tevékenység:
+(2)[^20] Kiegészítő támogatás az alábbi tevékenységek elvégzésére adható, amennyiben az erdőtelepítési engedélyben szerepel az adott tevékenység:
 
 a) 10 fokot meghaladó lejtésű területen padka létesítése a talaj védelme céljából;
 
@@ -22,19 +22,19 @@ c) bakhátak létesítése a káros belvizek elleni védelem céljából.
 
 (5) A kiegészítő támogatás igénybevétele esetén a támogatásra jogosult köteles:
 
-a)[^20] a kiegészítő intézkedést funkciójának ellátása céljából a 3. számú mellékletben foglalt szakmai követelményeknek megfelelően megvalósítani, és azokat annak megfelelő állapotban fenntartani, és
+a)[^21] a kiegészítő intézkedést funkciójának ellátása céljából a 3. számú mellékletben foglalt szakmai követelményeknek megfelelően megvalósítani, és azokat annak megfelelő állapotban fenntartani, és
 
-b)[^21] a 6. § (2) bekezdésének b) pontja alapján létesített kerítést vagy villanypásztort legkésőbb az erdőtelepítés befejezését követő öt év elteltével eltávolítani.
+b)[^22] a 6. § (2) bekezdésének b) pontja alapján létesített kerítést vagy villanypásztort legkésőbb az erdőtelepítés befejezését követő öt év elteltével eltávolítani.
 
 (6) A tervezett vadkárelhárító kerítés vagy villanypásztor támogatásra jogosult hosszúsága maximálisan hektáronként száznegyven méter lehet.
 
-(7)[^22] A támogatási kérelemhez csatolni kell
+(7)[^23] A támogatási kérelemhez csatolni kell
 
 a) a terület elhelyezkedését egyedi blokktérképen ábrázolva;
 
 b) a támogatás keretében létesítendő padka, kerítés, villanypásztor, valamint bakhát pontos hosszának (bakhát esetén területének) és elhelyezkedésének leírását, valamint részterület esetén az ezekkel érintett részterület határvonalainak feltüntetését az egyedi blokktérképen.
 
-[^19]: A 6. § (2) bekezdése a 11/2010. (VIII. 30.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^20]: A 6. § (5) bekezdésének a) pontja a 149/2008. (XI. 12.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^21]: A 6. § (5) bekezdés b) pontja a 11/2010. (VIII. 30.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^22]: A 6. § (7) bekezdése a 11/2010. (VIII. 30.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^20]: A 6. § (2) bekezdése a 11/2010. (VIII. 30.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^21]: A 6. § (5) bekezdésének a) pontja a 149/2008. (XI. 12.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^22]: A 6. § (5) bekezdés b) pontja a 11/2010. (VIII. 30.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^23]: A 6. § (7) bekezdése a 11/2010. (VIII. 30.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.
