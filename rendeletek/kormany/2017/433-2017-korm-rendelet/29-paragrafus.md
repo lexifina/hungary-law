@@ -1,8 +1,7 @@
 ## való megfelelést szolgálja.
 
-29. § (1)–(6)[^3]
+29. § (1)–(6)[^4]
 
-(7)[^4]
+(7) Hatályát veszti a 383/2016. (XII. 2.) Korm. rendelet 21. alcíme.
 
-[^3]: A 29. § (1)–(6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 29. § (7) bekezdése a 27. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^4]: A 29. § (1)–(6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

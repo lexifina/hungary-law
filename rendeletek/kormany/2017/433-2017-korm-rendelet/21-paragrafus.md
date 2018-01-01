@@ -24,7 +24,7 @@ e) a használatra jogosult kérelmező aláírása.
 
 (2) Közös tulajdonban álló földre létrejött használati megosztásról szóló megállapodáson alapuló használat esetén az önálló erdőgazdálkodási egységre vonatkozó erdőgazdálkodói nyilvántartásba vételi kérelemhez csatolni kell
 
-a) a használati megosztásról szóló megállapodás eredeti vagy közjegyző által hitelesített vagy ügyvéd által ellenjegyzett példányát,
+a)[^2] a használati megosztásról szóló megállapodás eredeti vagy közjegyző által hitelesített, vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett példányát,
 
 b) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) 71. § (3) bekezdésében foglaltak igazolására szolgáló dokumentumok másolatát, valamint
 
@@ -35,3 +35,5 @@ c) a megállapodáshoz készített az Fétv. 71. § (9) bekezdés szerinti térk
 a) a nyilvántartásba vétel alapjául szolgáló okirat nyilvánvalóan érvénytelen, vagy
 
 b) az érintett erdőnek minősülő föld erdészeti nyilvántartás szerinti területi elhelyezkedése eltér az ingatlan-nyilvántartásban erdő művelési ágban nyilvántartott földrészlet vagy alrészlet területétől.
+
+[^2]: A 21. § (2) bekezdés a) pontja a 30. § (2) bekezdése szerint módosított szöveg.

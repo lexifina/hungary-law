@@ -1,3 +1,1 @@
-## 6. §[^1]
-
-[^1]: A 6. § a 27. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## 6. § Körzeti erdőtervezési eljárásban a döntés honlapon történő közlésének napja a közhírré tételről szóló közlemény kifüggesztését követő 14. nap.

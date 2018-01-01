@@ -22,6 +22,14 @@ g) a határrendészeti és nemzetbiztonsági feladatok ellátására kijelölt t
 
 (5) Az Evt. 104/A. § (1) bekezdés b) pontjában foglalt bejelentések esetében a hiánytalan bejelentést az erdészeti hatóság külön vizsgálat nélkül elektronikus úton haladéktalanul továbbítja a természetvédelmi hatóság részére.
 
-(6)–(7)[^2]
+(6) A 8. § (1) bekezdésben foglalt bejelentést az ügyfélkapun keresztül is lehet tenni.
 
-[^2]: A 12. § (6)–(7) bekezdése a 27. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+(7) Az Evt. 104/A. § (1) bekezdés a) pontjában foglalt bejelentés ügyfélkapun keresztül történő benyújtása esetén
+
+a) a bejelentés időpontjának a bejelentés elküldése számít, valamint
+
+b) az erdészeti hatóság az ügyfélkapun keresztül legkésőbb a bejelentett tevékenységre való jogszerzés Evt.-ben rögzített időpontjáig
+
+ba) a jogszerűen végezhető tevékenységek felsorolását is tartalmazó igazolást állít ki azok jogszerű megkezdésére vonatkozóan, vagy
+
+bb) tájékoztatja a bejelentőt a bejelentett tevékenység megtiltására, korlátozására, illetve feltételekhez kötésére irányuló eljárás megindításáról.
