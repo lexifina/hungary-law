@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-338-20-
 | 2013-07-06 | 2008-338-20-22.8 | 254/2013. (VII. 5.) Korm. rendelet |
 | 2015-03-01 | 2008-338-20-22.9 | 254/2013. (VII. 5.) Korm. rendelet |
 | 2015-07-08 | 2008-338-20-22.10 | 254/2013. (VII. 5.) Korm. rendelet |
+| 2018-01-01 | 2008-338-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |
