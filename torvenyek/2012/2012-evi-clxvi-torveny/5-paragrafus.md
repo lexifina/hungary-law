@@ -18,7 +18,7 @@ b) a létfontosságú rendszerelemek védelmével kapcsolatos kötelezettségek 
 
 c) a kijelölési eljárás során a 2. § (3) bekezdése szerinti határozatban előírt feltételeknek való megfelelés rendszeres hatósági ellenőrzésének biztosítása.
 
-(3) A nyilvántartó hatóság az (1) bekezdés a)–c) pontja szerinti adatokat az ágazati kijelölő hatóságnak a kijelölési eljárásban meghozott hatósági határozata alapján veszi nyilvántartásba. Az ágazati kijelölő hatóság az erre vonatkozó jogerős határozatot haladéktalanul köteles megküldeni a nyilvántartó hatóságnak.
+(3) A nyilvántartó hatóság az (1) bekezdés a)–c) pontja szerinti adatokat az ágazati kijelölő hatóságnak a kijelölési eljárásban meghozott hatósági határozata alapján veszi nyilvántartásba. Az ágazati kijelölő hatóság az erre vonatkozó véglegessé vált határozatot haladéktalanul köteles megküldeni a nyilvántartó hatóságnak.
 
 (4) A nyilvántartó hatóság a nyilvántartásból adatot a következők szerint továbbíthat:
 
@@ -36,14 +36,14 @@ f) a hivatásos katasztrófavédelmi szerv területi és helyi szervei részére
 
 (5) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem adatait az (1) bekezdésben meghatározott nyilvántartásból, valamint a kijelölési eljárásban érintett valamennyi hatóság nyilvántartásából
 
-a) az ágazati kijelölő hatóságnak rendszerelem kijelölése visszavonásáról szóló határozatának jogerőre emelkedése után egy évvel, vagy
+a) az ágazati kijelölő hatóságnak a rendszerelem kijelölése visszavonásáról szóló határozatának véglegessé válása után egy évvel, vagy
 
-b) a kijelölést elutasító határozat jogerőre emelkedésekor
+b) a kijelölést elutasító határozat véglegessé válásakor
 
 törölni kell, és erről az üzemeltetőt írásban értesíteni kell.
 
 (6) Az ágazati kijelölő hatóság haladéktalanul köteles megküldeni
 
-a) a kijelölés visszavonására vagy elutasítására vonatkozó jogerős határozatot a kijelölési eljárásban érintett valamennyi hatóságnak,
+a) a kijelölés visszavonására vagy elutasítására vonatkozó véglegessé vált határozatot a kijelölési eljárásban érintett valamennyi hatóságnak,
 
-b) a kijelölés visszavonására vonatkozó jogerős határozatot a nyilvántartó hatóságnak.
+b) a kijelölés visszavonására vonatkozó véglegessé vált határozatot a nyilvántartó hatóságnak.

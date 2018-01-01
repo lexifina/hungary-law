@@ -20,6 +20,6 @@ a) a helyszíni ellenőrzést lefolytató szerv a helyszíni ellenőrzés, valam
 
 b) az (1) bekezdés szerinti esetben a hivatásos katasztrófavédelmi szerv központi szerve a hatósági ellenőrzés, valamint az ágazati kijelölő hatóságnak történő adattovábbítás időtartamára,
 
-c) az ágazati kijelölő hatóság a 9. § szerinti eljárásban a hatósági ellenőrzés időtartamára, valamint a 9. § szerinti határozat jogerőre emelkedéséig
+c) az ágazati kijelölő hatóság a 9. § szerinti eljárásban a hatósági ellenőrzés időtartamára, valamint a 9. § szerinti határozat véglegessé válásáig
 
 kezeli.
