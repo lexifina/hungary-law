@@ -22,7 +22,7 @@ g) a nyilvántartásba vétel időpontját.
 
 (4) A Felügyelet a nyilvántartásba vételről szóló döntésben a képző szerv részére nyilvántartási számot és intézményi kódot állapít meg.
 
-(5) Ha a Felügyelet a képző szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett, a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés jogerőre emelkedésének időpontját is nyilvántartja.
+(5) Ha a Felügyelet a képző szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett, a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés véglegessé válásának időpontját is nyilvántartja.
 
 (6) Az aláíró személyekről, az oktatókról, a hatósági vizsgára jelentkező személyekről és a vizsgabiztosokról vezetett nyilvántartás tartalmazza az adott személy
 

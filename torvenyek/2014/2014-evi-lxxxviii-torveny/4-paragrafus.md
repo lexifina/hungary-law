@@ -54,13 +54,13 @@ d) a biztosítási szerződések lebonyolításában és teljesítésében való
 
 20. bruttó biztosítástechnikai tartalék: a számviteli biztosítástechnikai tartalékok összege a viszontbiztosítás figyelembevétele nélkül, azaz a biztosító által megképzett számviteli biztosítástechnikai tartalékok és a viszontbiztosításba adott kockázatokra jutó számviteli biztosítástechnikai tartalékok összege;
 
-21. büntetlen előéletű: akinek e törvényben külön nevesített tevékenység végzéséhez és vezető állás betöltéséhez feltétel a büntetlen előélet, annak büntetlen előéletét
+21. büntetlen előélet:
 
 a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), a hamis tanúzás (1978. évi IV. törvény 238. §), a hamis tanúzásra felhívás (1978. évi IV. törvény 242. §), a mentő körülmény elhallgatása (1978. évi IV. törvény 243. §), a bűnpártolás (1978. évi IV. törvény 244. §), az 1978. évi IV. törvény XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (1978. évi IV. törvény 261. §), a nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §), a visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), a bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), a visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), az önbíráskodás (1978. évi IV. törvény 273. §), az 1978. évi IV. törvény XVI. fejezet III. címében, továbbá XVII. és XVIII. fejezetében meghatározott bűncselekmények,
 
-b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti atomenergia alkalmazásával visszaélés (Btk. 252. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád [Btk. 268. § (1)–(4) bekezdés], a hatóság félrevezetése [Btk. 271. § (1) bekezdés], a hamis tanúzás (Btk. 272. §), a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása [Btk. 281. § (1)–(2) bekezdés], a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318. §), a jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), illetve a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények
+b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti atomenergia alkalmazásával visszaélés (Btk. 252. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád [Btk. 268. § (1)–(4) bekezdés], a hatóság félrevezetése [Btk. 271. § (1) bekezdés], a hamis tanúzás (Btk. 272. §), a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása [Btk. 281. § (1)–(2) bekezdés], a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318–318/A. §), a jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), vagy háborús uszítás (Btk. 331. §), illetve a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények
 
-tekintetében kell – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 71. § (1) bekezdése alapján kibocsátott hatósági bizonyítvánnyal – igazolnia;
+kapcsán megvalósuló büntetlen előélet;
 
 22. csoport: a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott fogalom;
 
@@ -100,7 +100,7 @@ c) egyidejűleg több biztosító egymással versengő biztosítási termékeit 
 
 35. független biztosításközvetítő: az ügyfél megbízásából eljáró biztosításközvetítő;
 
-36. gazdálkodó szervezet: a polgári perrendtartásról szóló 1952. évi III. törvényben (a továbbiakban: Pp.) meghatározott fogalom;
+36. gazdálkodó szervezet: a polgári perrendtartásról szóló 2016. évi CXXX. törvényben meghatározott fogalom;
 
 37. harmadik ország: az az ország, amely nem tagja az Európai Uniónak;
 
@@ -284,7 +284,7 @@ cc) a pénzügyi év során az átlagos alkalmazotti létszáma eléri vagy megh
 
 106. vagyoni eszközök elhelyezése: ingó vagy ingatlan vagyoni eszközök megléte a tagállamon belül anélkül, hogy az ingóság letétként, vagy az ingatlan – így különösen zálogjog bejegyzése útján – korlátozás alá esik. Egy adóssal szemben fennálló követelésben megjelenő vagyon azon tagállam területén lévőnek tekintendő, ahol a követelés érvényesíthető;
 
-107. vállalkozás: az üzletszerű gazdasági tevékenységet folytató gazdálkodó szervezet és a harmadik országbeli biztosító fióktelepe;
+107. vállalkozás: az üzletszerű gazdasági tevékenységet folytató gazdálkodó szervezet;
 
 108. valószínűségeloszlási előrejelzés: matematikai függvény, amely egymást kölcsönösen kizáró jövőbeli események teljes eseményrendszeréhez valószínűségi értékeket rendel;
 
@@ -323,3 +323,9 @@ c) az ugyanazon biztosítási ágazatba vagy ugyanazon biztosítási ágazat val
 122. alapvető kamatkülönbözet: az eszközök nemteljesítési valószínűségének megfelelő hitelkockázati kamatkülönbözet és az eszközök leminősítéséből eredő várható veszteségeknek megfelelő hitelkockázati kamatkülönbözet összege.
 
 (2) Az Európai Unió és az Európai Unió tagállama kifejezésen az Európai Gazdasági Térséget (a továbbiakban: EGT) és az EGT-államot is érteni kell, azzal, hogy a nem-életbiztosítási ág tekintetében a Svájci Államszövetségre az EGT-államra vonatkozó rendelkezéseket kell alkalmazni.
+
+(3) Akinek e törvényben külön nevesített tevékenység végzéséhez, engedély megszerzéséhez, illetve vezető állás betöltéséhez feltétel a büntetlen előélet, annak az (1) bekezdés 21. pontja szerinti bűncselekmények vonatkozásában kell büntetlen előéletűnek lennie, amely tényt
+
+a) magyar állampolgár esetén a Felügyelet által beszerzett – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 71. § (1) bekezdése alapján kibocsátott hatósági bizonyítvány szerinti tartalmú – adatok igazolják,
+
+b) nem magyar állampolgár esetén az általa beszerzett és a Felügyelet számára a kérelemmel együtt megküldött, a nem magyar állampolgár személyes joga szerinti, az a) pontban foglalt hatósági bizonyítványnak megfelelő okirat igazolja.

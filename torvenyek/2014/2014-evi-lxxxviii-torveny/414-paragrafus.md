@@ -24,4 +24,4 @@ tevékenység engedélyezését kérelmezi, akkor a 420. § (1) és (2) bekezdé
 
 (3) Ha a Felügyelet a többes ügynöki és az alkuszi tevékenység irányításáért felelős természetes személy foglalkoztatásának engedélyezéséről a többes ügynöki és az alkuszi tevékenységi engedélyezés tárgyában induló eljárásban dönt, az (1) bekezdésben meghatározott kérelemhez mellékelni kell a 416. § (1) bekezdésében meghatározott dokumentumokat.
 
-(4) A (3) bekezdésben meghatározott esetben a 416. § (2) és (3) bekezdése nem alkalmazható.
+(4) A (3) bekezdésben meghatározott esetben a 416. § (3) bekezdése nem alkalmazható.

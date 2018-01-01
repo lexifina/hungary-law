@@ -1,4 +1,4 @@
-56. § (1) Biztosítónál vagy viszontbiztosítónál egyéb vezetőként az a személy foglalkoztatható, akinek személyét a foglalkoztatás kezdetének tervezett időpontját harminc nappal megelőzően a biztosító vagy a viszontbiztosító a Felügyeletnek bejelentette, és a Felügyelet a foglalkoztatást engedélyezte. Az egyéb vezető engedélyezésére és foglalkoztatására az 53. § (2)–(6) bekezdésében meghatározott szabályokat is alkalmazni kell.
+56. § (1) Biztosítónál vagy viszontbiztosítónál egyéb vezetőként az a személy foglalkoztatható, akinek személyét a foglalkoztatás kezdetének tervezett időpontját harminc nappal megelőzően a biztosító vagy a viszontbiztosító a Felügyeletnek bejelentette, és a Felügyelet a foglalkoztatást engedélyezte. Az egyéb vezető engedélyezésére és foglalkoztatására az 53. § (3)–(6) bekezdésében meghatározott szabályokat is alkalmazni kell.
 
 (2) Az egyéb vezetők legfeljebb két biztosítónál tölthetnek be egyéb vezetői pozíciót.
 

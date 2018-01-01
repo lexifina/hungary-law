@@ -6,7 +6,7 @@ b) jogállása, tulajdonosi háttere nem tisztázott, vagy nem állapítható me
 
 c) vagyoni, üzleti helyzete nem szilárd;
 
-d) súlyosan vagy ismételten megsértette e törvény vagy más, a biztosítási tevékenységre vonatkozó jogszabály előírásait és emiatt vele szemben a Felügyelet öt évnél nem régebben kelt jogerős határozatában a kiszabható legmagasabb összegű bírságot alkalmazta, illetve a bíróság öt évnél nem régebben kelt jogerős határozatában felelősségét megállapította;
+d) súlyosan vagy ismételten megsértette e törvény vagy más, a biztosítási tevékenységre vonatkozó jogszabály előírásait és emiatt vele szemben a Felügyelet öt évnél nem régebben kelt jogerős vagy végleges határozatában a kiszabható legmagasabb összegű bírságot alkalmazta, illetve a bíróság öt évnél nem régebben kelt jogerős határozatában felelősségét megállapította;
 
 e) nem rendelkezik szakmai alkalmassággal és üzleti megbízhatósággal;
 

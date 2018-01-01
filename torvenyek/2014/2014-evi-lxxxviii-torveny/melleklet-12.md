@@ -97,9 +97,3 @@ A befektetési politika tartalmi elemei
 10. A megcélzott hozam mutatója (referencia index), alapvetően az eszközalap jellemző összetételét tükröző tőkepiaci index vagy több tőkepiaci index kombinációja
 
 11. Azon kollektív befektetési forma befektetési politikája, amelybe az eszközalap az eszközeinek legalább ötven százalékát meghaladó mértékben kíván befektetni
-
-12. Abszolút hozamú (total return alapú) eszközalap esetén annak részletezése, hogy a portfóliókezelési stratégia milyen módon járul hozzá a befektetésen elért hozam növekedéséhez
-
-13. Azon ügyletek felsorolása, amelyek megkötésére az eszközalap kezelőjének lehetősége van
-
-14. Annak rögzítése, hogy az eszközalap portfóliójával kapcsolatban megengedett-e az értékpapír-kölcsönzés, az ehhez kapcsolódó visszavásárlási megállapodások kötése, illetve van-e lehetőség fedezeti, valamint arbitrázs célú ügyletek kötésére

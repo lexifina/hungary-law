@@ -4,7 +4,7 @@ a) a feladatkörében eljáró Felügyelettel,
 
 b) a nyomozás elrendelését követően a nyomozó hatósággal és az ügyészséggel,
 
-c) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási határozatok bírósági felülvizsgálata során eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, a csődeljárásban eljáró vagyonfelügyelővel, a felszámolási eljárásban eljáró ideiglenes vagyonfelügyelővel, rendkívüli vagyonfelügyelővel, felszámolóval, a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
+c) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási perben eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, a csődeljárásban eljáró vagyonfelügyelővel, a felszámolási eljárásban eljáró ideiglenes vagyonfelügyelővel, rendkívüli vagyonfelügyelővel, felszámolóval, a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
 d) a hagyatéki ügyben eljáró közjegyzővel, továbbá az általa kirendelt szakértővel,
 

@@ -2,9 +2,9 @@
 
 53. § (1) Biztosítónál vagy viszontbiztosítónál vezető állású személynek az nevezhető ki vagy választható meg, akinek személyét a megválasztás vagy a kinevezés tervezett időpontját harminc nappal megelőzően a biztosító vagy a viszontbiztosító a Felügyeletnek bejelentette, és a Felügyelet a kinevezést vagy megválasztást engedélyezte.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül nem hoz döntést.
+(2)
 
-(3) Ha a vezető állású személy kinevezésére vagy megválasztására az engedély megszerzésétől vagy a (2) bekezdés szerinti vélelem bekövetkezésétől számított három hónapon belül nem kerül sor, a vezető állású személy csak ismételt engedélyezést követően nevezhető ki vagy választható meg. Az ismételt engedélyezési eljárásra a (2) bekezdésben meghatározott szabályok is alkalmazandók.
+(3) Ha a vezető állású személy kinevezésére vagy megválasztására az engedély megszerzésétől számított három hónapon belül nem kerül sor, a vezető állású személy csak ismételt engedélyezést követően nevezhető ki vagy választható meg.
 
 (4) A már kinevezett vagy megválasztott vezető állású személy esetén, ha
 

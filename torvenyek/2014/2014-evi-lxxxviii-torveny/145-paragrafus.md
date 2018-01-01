@@ -26,7 +26,7 @@ szemben.
 
 a) a nyomozás elrendelését követően a nyomozó hatósággal és ügyészséggel,
 
-b) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási határozatok bírósági felülvizsgálata során eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, valamint az önkormányzati adósságrendezési eljárás keretében a bírósággal szemben.
+b) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási perben eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, valamint az önkormányzati adósságrendezési eljárás keretében a bírósággal szemben.
 
 (5) Nem jelenti az üzleti titok sérelmét a Felügyelet által a biztosítókról és a viszontbiztosítókról egyedi azonosításra alkalmas adatok szolgáltatása a jogalkotás megalapozása és hatásvizsgálatok elvégzése céljából a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter részére.
 

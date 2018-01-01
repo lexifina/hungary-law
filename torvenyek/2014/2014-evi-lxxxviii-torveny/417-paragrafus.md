@@ -30,4 +30,4 @@ i) a kérelmező biztosításközvetítő székhelye és főirodája azonos orsz
 
 (4) A Felügyelet a harmadik országban székhellyel rendelkező biztosításközvetítő által létesített fióktelep általános képviselője engedélyezéséről többes ügynöki és az alkuszi engedély iránti kérelem jóváhagyásával egy eljárásban dönt, az (1) bekezdésben meghatározott kérelemhez mellékelni kell a 418. § (1) bekezdésében meghatározott dokumentumokat.
 
-(5) A (2) bekezdésben meghatározott esetben a 418. § (2) és (3) bekezdése nem alkalmazható.
+(5) A (2) bekezdésben meghatározott esetben a 418. § (3) bekezdése nem alkalmazható.

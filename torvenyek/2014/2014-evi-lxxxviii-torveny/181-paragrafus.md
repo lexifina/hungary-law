@@ -10,16 +10,14 @@
 
 (5) Ha a biztosító elleni felszámolási eljárás megindítására irányuló kérelmet nem a Felügyelet terjesztette elő, a bíróság a kérelem elutasítását követően soron kívül értesíti a Felügyeletet. Az értesítés kézhezvételét követően a Felügyelet haladéktalanul megvizsgálja a felszámolási eljárás megindítása kezdeményezésének szükségességét.
 
-(6) A felszámolás megindításának kezdeményezéséről szóló, a (2) bekezdésben meghatározott döntés ellen
+(6) A felszámolás megindításának kezdeményezéséről szóló, a (2) bekezdésben meghatározott döntést közigazgatási perben megtámadhatja
 
 a) a biztosító alapítói vagy tagsági jogait gyakorló legfőbb szerv képviselője, és
 
-b) bármely olyan személy, aki a 183. § (2) bekezdésében meghatározott biztosítási szerződésből eredő követelés jogosultja
+b) bármely olyan személy is, aki a 183. § (2) bekezdésében meghatározott biztosítási szerződésből eredő követelés jogosultja.
 
-kezdeményezheti a Felügyeleti döntés bírósági felülvizsgálatát.
+(7) A (6) bekezdésben meghatározott perindítási jogosultság a (2) bekezdésben meghatározott döntés megtámadásán túl kiterjed a biztosító tevékenységi engedélyének visszavonásáról szóló döntés megtámadására is, kivéve, ha a biztosító tevékenységi engedély visszavonásáról szóló döntés tárgyában bíróság már jogerős ítélet született.
 
-(7) A (6) bekezdésben meghatározott felülvizsgálat a (2) bekezdésben meghatározott döntés jogszerűségének a felülvizsgálatán túl kiterjed a biztosító tevékenységi engedélyének visszavonásáról szóló döntés jogszerűségének felülvizsgálatára is, kivéve, ha a biztosító tevékenységi engedély visszavonásáról szóló döntés felülvizsgálata tárgyában már jogerős ítéletet hoztak.
+(8) A közigazgatási pert fel kell függeszteni, ha a tevékenységi engedély visszavonásáról szóló döntés tárgyában már közigazgatási per van folyamatban.
 
-(8) Ha a tevékenységi engedély visszavonásáról szóló döntés jogszerűségének felülvizsgálata tárgyában már per van folyamatban a (6) bekezdésben meghatározott eljárást fel kell függeszteni.
-
-(9) A (6) bekezdésben meghatározott kereset előterjesztésére a Pp. 330. § (2) bekezdésében meghatározott határidő az irányadó azzal, hogy a határidő számítása során a felszámolás megindításának a kezdeményezéséről szóló döntés közlésének, a hitelezők esetén a közzétételének a napja az irányadó, függetlenül attól, hogy a tevékenységi engedély visszavonásáról szóló döntés mikor született.
+(9) A keresetlevél benyújtására nyitva álló határidő kezdőnapja a hitelezők esetén a felszámolás megindításának a kezdeményezéséről szóló döntés esetén a közzététel napja.

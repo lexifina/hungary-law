@@ -17,3 +17,5 @@ c) saját tőkéjének a 388. § (1) és a 399. § (1) bekezdésében írt minim
 a) a tevékenységéhez kapcsolódó felelősségbiztosítási szerződés megszűnésének tényét és időpontját,
 
 b) a tevékenységéhez kapcsolódó új felelősségbiztosítási szerződés megkötésének tényét és időpontját, annak egyidejű igazolásával.
+
+(5) Az alkusz köteles a Felügyeletnek a biztosításközvetítésre irányuló megbízási szerződései állományának átruházását az átadás-átvétel napját legalább hatvan nappal megelőzően bejelenteni.

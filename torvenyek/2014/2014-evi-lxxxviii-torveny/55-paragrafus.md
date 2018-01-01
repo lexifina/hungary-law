@@ -4,7 +4,7 @@
 
 a) vezető aktuáriust,
 
-b) vezető jogtanácsost,
+b) vezető jogászt,
 
 c) számviteli rendért felelős vezetőt,
 

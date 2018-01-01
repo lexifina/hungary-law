@@ -20,6 +20,8 @@ g) kezdeményezheti a biztosításközvetítői tevékenység irányítójának,
 
 h) a kiadott alkuszi vagy többes ügynöki tevékenységi engedélyt felfüggesztheti,
 
-i) a kiadott alkuszi vagy többes ügynöki tevékenységi engedélyt visszavonhatja.
+i) a kiadott alkuszi vagy többes ügynöki tevékenységi engedélyt visszavonhatja,
+
+j) megtilthatja az alkusz biztosításközvetítésre irányuló megbízási szerződései állományának átruházását.
 
 (2) A Felügyelet az e törvényben, a biztosításközvetítői tevékenységre vonatkozó más jogszabályban, továbbá a felügyeleti határozatokban meghatározott feltételeknek való megfelelés teljesítése érdekében, határozott időtartamra szóló intézkedési terv kidolgozására, valamint – jóváhagyás esetén – az abban foglaltak végrehajtására kötelezheti a biztosításközvetítőt.

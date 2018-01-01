@@ -2,6 +2,6 @@
 
 (2) A tevékenység részben történő megszűntetése esetén a biztosítónak vagy viszontbiztosítónak rendelkeznie kell a módosított tevékenység folytatásához szükséges 45. §-ban meghatározott feltételekkel.
 
-(3) Ha a Felügyelet a tevékenység megszüntetéséhez hozzájárult, a biztosító vagy a viszontbiztosító a döntés jogerőre emelkedését követően – az érintett biztosítási ág, ágazat, vagy az élet-viszontbiztosítás, nem-életviszontbiztosítás vonatkozásában – biztosítási, viszontbiztosítási és azzal közvetlenül összefüggő, e törvény szerint engedélyköteles tevékenység végzésére nem jogosult.
+(3) Ha a Felügyelet a tevékenység megszüntetéséhez hozzájárult, a biztosító vagy a viszontbiztosító a döntés véglegessé válását követően – az érintett biztosítási ág, ágazat, vagy az élet-viszontbiztosítás, nem-életviszontbiztosítás vonatkozásában – biztosítási, viszontbiztosítási és azzal közvetlenül összefüggő, e törvény szerint engedélyköteles tevékenység végzésére nem jogosult.
 
 (4) Ha a biztosító és a viszontbiztosító a biztosítási vagy a viszontbiztosítási tevékenységét teljes egészében megszünteti, köteles az elnevezéséből a biztosítóra vagy a viszontbiztosítóra utaló megnevezést törölni.

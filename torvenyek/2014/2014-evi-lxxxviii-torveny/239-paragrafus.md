@@ -8,4 +8,4 @@ c) a szakmai alkalmasság és üzleti megbízhatóság fennállásának
 
 igazolását.
 
-(2) Ha a kérelmező a 258. § (3) bekezdés b), d), e) és i) pontjában foglalt adatokat – a Felügyelet által meghatározott határidőben – nem igazolja, a Felügyelet – a részesedésszerzés engedélyezéséhez – adatszolgáltatási kérelemmel fordulhat a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(2) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, a 258. § (3) bekezdés d), e) és i) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.

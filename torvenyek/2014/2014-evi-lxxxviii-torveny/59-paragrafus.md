@@ -1,6 +1,6 @@
-## 20. A vezető jogtanácsos
+## 20. A vezető jogász
 
-59. § (1) A biztosító vagy a viszontbiztosító vezető jogtanácsosa az lehet, aki
+59. § (1) A biztosító vagy a viszontbiztosító vezető jogásza az lehet, aki
 
 a) állam- és jogtudományi egyetemi végzettséggel rendelkezik,
 
@@ -14,4 +14,4 @@ e) szakmai alkalmassággal és üzleti megbízhatósággal rendelkezik, és
 
 f) a biztosítóval vagy a viszontbiztosítóval munkaviszonyban áll.
 
-(2) Az (1) bekezdés c) pontjában előírt szakmai gyakorlat befejezése nem eshet a vezető jogtanácsos foglalkoztatásának kezdetét tíz évvel megelőző időpontnál korábbi időpontra.
+(2) Az (1) bekezdés c) pontjában előírt szakmai gyakorlat befejezése nem eshet a vezető jogász foglalkoztatásának kezdetét tíz évvel megelőző időpontnál korábbi időpontra.

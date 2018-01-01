@@ -4,11 +4,11 @@
 
 (2) A kérelemnek tartalmaznia kell a biztosító vagy viszontbiztosító megnevezését, az ellenőrző befolyás mibenlétét, a meglévő és a megszerezni kívánt részesedés nagyságát.
 
-(3) A részesedésszerzés vagy ellenőrző befolyás létrejötte engedélyezése iránti kérelemhez a (2) bekezdésben foglaltakon túl mellékelni kell
+(3) A részesedésszerzés vagy ellenőrző befolyás létrejötte engedélyezése iránti kérelemhez a (2) bekezdésben foglaltakon túl – a (6) bekezdésben foglalt eltéréssel – mellékelni kell
 
 a) a kérelmező, illetve a kérelmező vállalkozásban minősített vagy ellenőrző befolyással rendelkező azonosító adatait;
 
-b) természetes személy kérelmező esetén bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítványt, vagy a kérelmező személyes joga szerinti ennek megfelelő okiratot;
+b) természetes személy kérelmező esetén – a 4. § (3) bekezdésében foglaltak figyelembevételével – a büntetlen előéletet igazoló dokumentumot;
 
 c) természetes személy kérelmező, a kérelmező vállalkozásban minősített vagy ellenőrző befolyással rendelkező természetes személy esetén arról szóló nyilatkozatát, hogy személyével kapcsolatban a (7) bekezdésben meghatározott kizáró ok nem áll fenn;
 
@@ -32,7 +32,7 @@ k) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatá
 
 (5) Ha a kérelmező harmadik országbeli biztosító, viszontbiztosító, hitelintézet vagy befektetési vállalkozás, a (3)–(4) bekezdésekben foglaltakon kívül a kérelemhez mellékelni kell a székhely szerinti állam érintett felügyeleti hatóságának arra vonatkozó igazolását, illetve nyilatkozatát, hogy a vállalkozás a tevékenység végzésére vonatkozó szabályok betartásával működik.
 
-(6) Ha a kérelmező a (3) bekezdés d), e) és i) pontjában foglalt adatokat – a Felügyelet által meghatározott határidőben – nem igazolja, a Felügyelet – a részesedésszerzés vagy az ellenőrző befolyás létrejötte engedélyezéséhez – adatszolgáltatási kérelemmel fordulhat a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(6) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, a (3) bekezdés d), e) és i) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 (7) A biztosítóban vagy viszontbiztosítóban minősített befolyással az rendelkezhet,
 
