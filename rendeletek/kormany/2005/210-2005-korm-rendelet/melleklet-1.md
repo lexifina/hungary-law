@@ -34,11 +34,11 @@
 
 2.1.3. 2 db felismerésre alkalmas, színes arcképet (igazolványképet),
 
-2.1.4. a névjegyzékbe történő felvételi eljárásért, illetve a szakterület kiterjesztésére vonatkozó eljárásért fizetendő díj, és – amennyiben az eljárásban gyakorlati idő szakirányúságának igazolása szükséges – a szakhatósági eljárásért fizetendő illeték megfizetéséről szóló igazolást,
+2.1.4.[^14]
 
 2.1.5. a szakmai gyakorlati idő meglétének 3. vagy 4. pont szerinti igazolását (ha az eljárásban a gyakorlati idő szakirányúságának igazolása szükséges),
 
-2.1.6. a kérelmező korábbi foglalkoztatójának jogutód nélküli megszűnése esetében a szakmai gyakorlat időtartamát alátámasztó szerződést vagy a munkavégzés igazolására alkalmas egyéb dokumentumot (ha az eljárásban a gyakorlati idő szakirányúságának igazolása szükséges),
+2.1.6.[^15]
 
 2.1.7. a kötelező szakértőjelölti jelölti idő vagy szakértőjelöltként kötelező szakmai közreműködőként elvégzett ügyszám teljesítéséről szóló 5. pont szerinti igazolást,
 
@@ -54,11 +54,11 @@
 
 2.2. csatolhatja:
 
-2.2.1. az előzetes szakhatósági hozzájárulást, ha azzal a kérelmező rendelkezik,
+2.2.1.[^16]
 
 2.2.2. nyilatkozatát arról, hogy az elektronikus kapcsolattartást vállalja, ez esetben az elektronikus elérhetőségét.
 
-3. A szakmai gyakorlati idő igazolása:
+3.[^17] A szakmai gyakorlati idő igazolása a szakmai gyakorlati időt szakértőjelöltként megszerző kérelmező esetében különösen:
 
 3.1. munkaviszony, köztisztviselői, közalkalmazotti, hivatásos szolgálati, igazságügyi alkalmazotti jogviszony keretében végzett tevékenység esetén a munkáltató vagy a korábbi munkáltató,
 
@@ -74,13 +74,13 @@
 
 a) a kérelmező nevét, születési helyét és idejét, anyja nevét, lakcímét,
 
-b) kérelmező által betöltött munkakör megnevezését és részletes leírását,
+b) a kérelmező által betöltött munkakör megnevezését és részletes leírását,
 
 c) a jogviszony fennállásának pontos naptári időtartamát (naptári év, hónap, nap szerinti megjelöléssel),
 
 d) a 3.4. pont szerinti kérelmező esetén az igazságügyi szakértői intézmény vezetőjének nyilatkozatát arról, hogy a kérelmező legalább napi 6 órás időtartamban végzi vagy végezte a tevékenységét.
 
-4. A szakmai gyakorlati idő igazolása egyéni vállalkozó kérelmező esetén hatósági bizonyítvány arról, hogy az egyéni vállalkozó tevékenységi köre mely időponttól terjed ki az igazolni kívánt szakirányú tevékenységre.
+4.[^18] A szakmai gyakorlati idő igazolása a szakmai gyakorlati időt nem szakértőjelöltként megszerző kérelmező esetében hatósági bizonyítvány arról, hogy a kérelmező tevékenységi köre mely időponttól milyen időtartamban terjed ki az igazolni kívánt szakirányú tevékenységre.
 
 5. A szakértőjelölti időtartam igazolása:
 
@@ -135,3 +135,8 @@ d) a 3.4. pont szerinti kérelmező esetén az igazságügyi szakértői intézm
 7.2. csatolhatja a nyilatkozatot arról, hogy a gazdasági társaság az elektronikus kapcsolattartást vállalja, ez esetben az elektronikus kapcsolattartást vállaló vezető tisztségviselő születési helyének, idejének és anyja nevének, valamint a gazdasági társaság cégjegyzékbe bejegyzett elektronikus elérhetőségének megadása is szükséges.
 
 [^13]: Az 1. mellékletet a 124/2016. (VI. 7.) Korm. rendelet 4. §-a iktatta be.
+[^14]: Az 1. melléklet 2. pont 2.1.4. alpontját a 457/2017. (XII. 28.) Korm. rendelet 151. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^15]: Az 1. melléklet 2. pont 2.1.6. alpontját a 457/2017. (XII. 28.) Korm. rendelet 151. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^16]: Az 1. melléklet 2. pont 2.2.1. alpontját a 457/2017. (XII. 28.) Korm. rendelet 151. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^17]: Az 1. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 149. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^18]: Az 1. melléklet 4. pontja a 457/2017. (XII. 28.) Korm. rendelet 149. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
