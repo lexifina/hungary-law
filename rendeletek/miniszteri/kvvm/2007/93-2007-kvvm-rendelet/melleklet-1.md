@@ -1,4 +1,4 @@
-1. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^16]
+1. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^15]
 
 ## A zajkibocsátási határérték megállapításának módszere
 
@@ -44,4 +44,4 @@ c) a b) pont szerinti kérelemben számszerűen megjelölik az egyes üzemeltet�
 
 A zajkibocsátási határértéket ebben az esetben úgy kell megállapítani, hogy a zajforrásoktól származó együttes zajterhelés ne haladja meg a 2. pont szerint megállapítható zajkibocsátási határértékek összegét.
 
-[^16]: Az 1. számú melléklet a 91/2015. (XII. 23.) FM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 1. számú melléklet a 91/2015. (XII. 23.) FM rendelet 7. § (1) bekezdésével megállapított szöveg.

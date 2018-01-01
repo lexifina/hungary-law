@@ -4,25 +4,6 @@
 
 (3) Az üzemi létesítmény zajkibocsátását a rendszeresen (évente legalább tizenkét alkalommal) előforduló legnagyobb környezeti zajkibocsátású üzemelési állapot alapján kell értékelni.
 
-(4) A zajkibocsátási határértéket megállapító határozatnak tartalmaznia kell:
+(4)[^1]
 
-a) a rendelkező részben:
-
-aa) a zajkibocsátási határérték mértékét külön az éjjeli és a nappali időszakra,
-
-ab) a zajforrás közvetlen hatásterületén elhelyezkedő, zajtól védendő területek helyrajzi számát, a védendő épületek címét, valamint
-
-ac) a zajkibocsátási határérték teljesülésének pontos helyét;
-
-ad)[^1] a zajforrás üzemeltetésére vonatkozó korlátozásokat;
-
-ae)[^2] a zajkibocsátás csökkentése érdekében tervezett intézkedések végrehajtására vonatkozó kötelezést, az egyes intézkedések végrehajtásának határidejét.
-
-b) az indoklásban:
-
-ba) a zajforrás hatásterületén található védendő területek településrendezési terv szerinti besorolását, valamint
-
-bb) a zajforrás hatásterületén elhelyezkedő épületek Építményjegyzék szerinti besorolását.
-
-[^1]: Az 1. § (4) bekezdés a) pont ad) alpontját a 91/2015. (XII. 23.) FM rendelet 1. §-a iktatta be.
-[^2]: Az 1. § (4) bekezdés a) pont ae) alpontját a 91/2015. (XII. 23.) FM rendelet 1. §-a iktatta be.
+[^1]: Az 1. § (4) bekezdését a 70/2017. (XII. 29.) FM rendelet 8. §-a hatályon kívül helyezte.

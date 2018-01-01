@@ -4,13 +4,13 @@
 
 1. A vizsgálat előkészítése
 
-1.1.[^17] A méréssel vizsgált terület kijelölése
+1.1.[^16] A méréssel vizsgált terület kijelölése
 
 A méréssel vizsgált terület a zajforrás hatásterületén belül elhelyezkedő terület.
 
 A méréssel vizsgált terület annyi részterületre oszlik, ahányszor megváltozik a zajforrás zajkibocsátási határértéke a 2. § (1) bekezdése szerint, illetve ahány eltérő mértékű zajkibocsátási határérték került a környezetvédelmi hatóság által megállapításra.
 
-1.2.[^18] A mérési pontok kijelölése a méréssel vizsgált területen
+1.2.[^17] A mérési pontok kijelölése a méréssel vizsgált területen
 
 1.2.1. Eseti mérés esetén a mérési pontokat a zajforrás hatásterületén kell kijelölni.
 
@@ -34,7 +34,7 @@ Ha az érintett lakosság a működési körülményekről eltérően nyilatkozi
 
 Ha a zajforrás vagy annak egy része épületben helyezkedik el és ezen épület nyílászárói nyithatók, akkor azokat, illetve azok szellőztetésre használt részét a mérés alatt nyitva kell tartani. Vitás esetben a mérést nyitott és csukott nyílászárók mellett is el kell végezni.
 
-2. A mérés lefolytatása[^19]
+2. A mérés lefolytatása[^18]
 
 2.1. Az eseti mérés folyamán (a mérőberendezés kiválasztásánál, a mérési pont és időtartam megválasztásánál, a mérési eredmények meghatározásánál, beleértve a háttérterhelés és a zaj esetleges impulzusos vagy keskenysávú jellege miatt szükséges kiegészítő mérési eredményeket is stb.) az MSZ 18150-1 vonatkozó előírásai, lőterek zajkibocsátásnak vizsgálata esetén az MSZ 15037 szabvány szerint kell eljárni.
 
@@ -42,11 +42,11 @@ Ha a zajforrás vagy annak egy része épületben helyezkedik el és ezen épül
 
 2.3. A mérés a 2.1. és 2.2. ponttól eltérő módszer szerint is lefolytatható, ha az az MSZ 18150-1 szabvány vagy lőterek zajvizsgálata esetén az MSZ 15037 szabvány módszerével bizonyítottan egyenértékű eredményt ad.
 
-3. A meghatározandó zajjellemzők[^20]
+3. A meghatározandó zajjellemzők[^19]
 
 A vizsgálat eredményeként minden mérési ponton a vizsgált üzemi vagy szabadidős zajforrás zajkibocsátására jellemző LAM megítélési szintet kell meghatározni.
 
-4. A vizsgálat eredményének értékelése[^21]
+4. A vizsgálat eredményének értékelése[^20]
 
 4.1. A vizsgálati eredményeket az üzemi vagy szabadidős zajforrás zajkibocsátási határértékével vagy a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet 2/A. § (3) bekezdése szerinti felmentés alkalmazása esetén a felmentés idejére vonatkozó zajterhelési határértékkel kell összehasonlítani.
 
@@ -56,8 +56,8 @@ Megjegyzés:
 
 Több részterület esetén az értékelést a részterület kritikus pontján meghatározott megítélési szint és a részterületre vonatkozó zajkibocsátási határérték összehasonlítása alapján is el kell végezni.
 
-[^17]: A 4. számú melléklet 1. pont 1.1. alpontja a 91/2015. (XII. 23.) FM rendelet 7. § (2) bekezdése szerint módosított szöveg.
-[^18]: A 4. számú melléklet 1. pont 1.2. alpontja a 91/2015. (XII. 23.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^19]: A 4. számú melléklet 2. pontja a 91/2015. (XII. 23.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^20]: A 4. számú melléklet 3. pontja a 91/2015. (XII. 23.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^21]: A 4. számú melléklet 4. pontja a 91/2015. (XII. 23.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^16]: A 4. számú melléklet 1. pont 1.1. alpontja a 91/2015. (XII. 23.) FM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 4. számú melléklet 1. pont 1.2. alpontja a 91/2015. (XII. 23.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^18]: A 4. számú melléklet 2. pontja a 91/2015. (XII. 23.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^19]: A 4. számú melléklet 3. pontja a 91/2015. (XII. 23.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^20]: A 4. számú melléklet 4. pontja a 91/2015. (XII. 23.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.

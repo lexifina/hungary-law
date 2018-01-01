@@ -1,4 +1,4 @@
-3. §[^4] (1) A zajkibocsátási határérték megállapítása után minden olyan, az üzemi és szabadidős zajforrás területén bekövetkező változást, amely a határérték mértékét és teljesülését befolyásolja, a zajforrás üzemeltetője a 3. számú melléklet szerinti tartalommal köteles bejelenteni a környezetvédelmi hatóságnak.
+3. §[^3] (1) A zajkibocsátási határérték megállapítása után minden olyan, az üzemi és szabadidős zajforrás területén bekövetkező változást, amely a határérték mértékét és teljesülését befolyásolja, a zajforrás üzemeltetője a 3. számú melléklet szerinti tartalommal köteles bejelenteni a környezetvédelmi hatóságnak.
 
 (2) Nemzetközi licenccel rendelkező versenypályák esetén a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet [a továbbiakban: 284/2007. (X. 29.) Korm. rendelet] 11. § (5) bekezdés b) pontja szerinti bejelentésnek tartalmazni kell:
 
@@ -24,4 +24,4 @@ ee) 66–70 dB.
 
 (3) A (2) bekezdés b) pontja szerinti felmentéssel érintett napok dátumának megadásakor a korábbi felmentésre irányuló bejelentésekben szereplő napok közül csak azokat kell figyelembe venni, amelyeken a zajforrás zajkibocsátása ténylegesen túllépte a környezetvédelmi hatóság által a felmentéssel nem érintett napokra megállapított zajkibocsátási határértéket.
 
-[^4]: A 3. § a 91/2015. (XII. 23.) FM rendelet 3. §-ával megállapított szöveg.
+[^3]: A 3. § a 91/2015. (XII. 23.) FM rendelet 3. §-ával megállapított szöveg.
