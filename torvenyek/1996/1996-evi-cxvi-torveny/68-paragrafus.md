@@ -52,7 +52,7 @@ b) a vizek és a víztartó képződmények radioaktív és hőszennyezés ellen
 
 (7) Felhatalmazást kap
 
-a) a rendészetért felelős miniszter, hogy a közbiztonság és a belső rend védelme érdekében az atomenergia alkalmazásával összefüggő rendőrségi feladatokat, a hatósági engedélyek kiadásához szükséges szakhatósági hozzájárulás szempontjait, valamint az atomenergia alkalmazása körében foglalkoztatott munkavállalókra vonatkozó speciális biztonsági követelményeket és azok tartós fennállásának ellenőrzési rendjét,
+a) a rendészetért felelős miniszter, hogy a közbiztonság és a belső rend védelme érdekében az atomenergia alkalmazásával összefüggő rendőrségi feladatokat, valamint az atomenergia alkalmazása körében foglalkoztatott munkavállalókra vonatkozó speciális biztonsági követelményeket és azok tartós fennállásának ellenőrzési rendjét,
 
 b)
 
@@ -64,11 +64,7 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
 
 (9)
 
-(10) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg
-
-a) a radioaktív anyagok kezelése és ellenőrzése ágazati szabályait, továbbá az e törvény hatálya alá tartozó létesítmények és haditechnikai berendezések létrehozása és megszüntetése szabályait;
-
-b) az ágazat speciális (kiképzési, nukleárisbaleset-elhárítási, háborús) sugáregészségügyi szabályait.
+(10) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter egyetértésével kiadott rendeletben állapítsa meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter az e törvényben meghatározottaktól eltérő követelményeket.
 
 (11) Felhatalmazást kap a Kormány tagja, hogy rendeletben állapítsa meg a feladatkörükbe tartozó tevékenységek az országos környezeti sugárvédelmi ellenőrző rendszer részére történő adatszolgáltatáshoz szükséges környezeti sugárvédelmi ellenőrző rendszerének, továbbá adatgyűjtő és szolgáltató központjának felépítését és működési szabályait.
 

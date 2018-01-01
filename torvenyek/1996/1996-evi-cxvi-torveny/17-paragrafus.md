@@ -16,7 +16,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 3. a nukleáris létesítménnyel és a radioaktív-hulladék tárolóval összefüggő építmények hatósági engedélyezése és ellenőrzése, továbbá az építmények felvonóinak hatósági engedélyezése;
 
-4. a nukleáris létesítmény rendszere, rendszereleme tekintetében az átalakítással, tervezéssel, gyártással, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, beszerzéssel, üzemen kívül helyezéssel, leszereléssel, továbbá radioaktív-hulladék tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése;
+4. a nukleáris létesítmény rendszere, rendszereleme tekintetében az átalakítással (atomerőmű esetén ideértve az eltérő fűtőelemkötegek alkalmazásának bevezetését), a tervezéssel, gyártással, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, beszerzéssel, üzemen kívül helyezéssel, leszereléssel, továbbá radioaktívhulladék-tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése;
 
 5. a nukleáris létesítmény és a radioaktívhulladék-tároló átalakításához szükséges engedélyezés és ellenőrzés;
 
@@ -102,9 +102,9 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (2b) A nukleáris létesítménnyel és a radioaktívhulladék-tárolóval összefüggő, kormányrendeletben meghatározott építési engedélyezési eljárásokban építésügyi hatóságként az atomenergia-felügyeleti szerv jár el, eljárására az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény, valamint a végrehajtására kiadott jogszabály és önkormányzati rendelet rendelkezéseit az e törvényben, valamint a végrehajtására kiadott jogszabályban foglalt eltérésekkel kell alkalmazni.
 
-(2c) A végleges üzemen kívül helyezési engedély jogerőre emelkedése után a létesítmény üzemeltetésére vonatkozó kérelmet előterjeszteni nem lehet.
+(2c) A végleges üzemen kívül helyezési engedély véglegessé válása után a létesítmény üzemeltetésére vonatkozó kérelmet előterjeszteni nem lehet.
 
-(3) A tervezett, hatósági engedélyköteles tevékenység és az arra irányuló engedély iránti kérelem megalapozásának értékelésére, a műszaki, nukleáris biztonsági, sugárvédelmi, védettségi és biztosítéki követelmények teljesülésének, továbbá a hatósági engedélyek feltételeinek vizsgálatára az atomenergia-felügyeleti szerv – szakértői közreműködés érdekében – más intézményt vagy szakértőt is igénybe vehet. Az atomenergia-felügyeleti szerv a leggyakrabban igénybe vett intézetekkel, intézményekkel együttműködési megállapodást köt.
+(3) A tervezett, hatósági engedélyköteles tevékenység és az arra irányuló engedély iránti kérelem megalapozásának értékelésére, a műszaki, nukleáris biztonsági, sugárvédelmi, védettségi és biztosítéki követelmények teljesülésének, továbbá a hatósági engedélyek feltételeinek vizsgálatára az atomenergia-felügyeleti szerv – szakértői közreműködés érdekében – más szakértő szervezetet vagy szakértőt is igénybe vehet. Az atomenergia-felügyeleti szerv a leggyakrabban igénybe vett szakértő szervezetekkel együttműködési megállapodást köt.
 
 (4) Az atomenergia-felügyeleti szerv jogosult bármely atomenergiát alkalmazónál – hatáskörében – ellenőrzést folytatni.
 

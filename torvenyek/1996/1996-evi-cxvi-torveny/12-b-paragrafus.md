@@ -1,0 +1,41 @@
+12/B. § (1) A 17. § (2) bekezdés 1. pont b) alpontjában foglalt létesítés, bővítés engedélyezése és a 17. § (2) bekezdés 12. pontja szerinti nukleáris létesítmény biztonsági övezetének kijelölése esetében az ügyintézési határidő tizenkét hónap, amely indokolt esetben, egy alkalommal, legfeljebb három hónappal meghosszabbítható.
+
+(2) A 17. § (2) bekezdés 15. pontja szerinti radioaktívhulladék-tároló létesítése engedélyezésének és a 17. § (2) bekezdés 12. pontja szerint radioaktívhulladék-tároló biztonsági övezete kijelölése esetén az ügyintézési határidő tizenkét hónap, amely indokolt esetben, legfeljebb három hónappal meghosszabbítható.
+
+(3) Az ügyintézési határidő tizenegy hónap:
+
+a) a 17. § (2) bekezdés 1. pont b) alpontja szerinti, a nukleáris létesítmény üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, üzemen kívül helyezéséhez, megszüntetéséhez szükséges engedélyezés esetében,
+
+b) a 17. § (2) bekezdés 10. pontja szerinti ügyben,
+
+c) a 17. § (2) bekezdés 5. pontja szerinti engedélyezési eljárásban, ha a nukleáris létesítmény átalakítása miatt a nukleáris létesítmény üzemeltetési engedélyének módosítása szükséges,
+
+d) a 17. § (2) bekezdés 15. pontja szerinti engedélyezési eljárásban, beleértve azon átalakításokat, amelyek a radioaktív-hulladék tároló létesítmény üzemeltetési engedélyének módosítását igénylik, kivéve a tároló létesítmény telephelye vizsgálatának és értékelésének, telepítésének, létesítésének eseteit.
+
+(4) Az ügyintézési határidő nyolc hónap
+
+a) a 17. § (2) bekezdés 18. pontjában meghatározott nukleáris létesítményre, radioaktív hulladék átmeneti és végleges tárolójára vonatkozó tervezési alapfenyegetettség megállapítása és felülvizsgálata, fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése esetében,
+
+b) nukleáris létesítményekre vonatkozó első biztosítéki nyilvántartásba-vételi eljárás esetében.
+
+(5) Az ügyintézési határidő százötven nap a 17. § (2) bekezdés 3. pontja szerinti építési engedélyezési eljárásokból a konténment építési engedélyezési, 4. pontja szerinti gyártási engedélyezési eljárásokból a legmagasabb biztonsági osztályba tartozó rendszerelemek gyártási engedélyezési és 14. pontjában meghatározott engedélyezési eljárásokban.
+
+(6) Az ügyintézési határidő százhúsz nap
+
+a) a 17. § (2) bekezdés 1. pont a) alpontjában, 3. pontjában az (5) bekezdésben meghatározott kivétellel, 4. pontjában az (5) bekezdésben meghatározott kivétellel, 6., 7., 9. és 44. pontjában és a 17. § (8a) bekezdésében meghatározott engedélyezési eljárásokban,
+
+b) a (3) bekezdés c) pontjában meghatározott kivétellel a 17. § (2) bekezdés 5. pontjában meghatározott engedélyezési eljárásban,
+
+c) a (2) bekezdésben és a (3) bekezdés d) pontjában meghatározott kivétellel a 17. § (2) bekezdés 15. pontjában meghatározott engedélyezési eljárásokban,
+
+d) a 17. § (2) bekezdés 39. pontjában meghatározott ügyekben kiemelt létesítmény esetében,
+
+e) a 17. § (2) bekezdés 12. pontjában meghatározott a nukleáris létesítmény és a radioaktívhulladék-tároló biztonsági övezetének felülvizsgálata esetében, kivéve, ha erre az Időszakos Biztonsági Felülvizsgálat keretében kerül sor,
+
+f) a 17. § (2) bekezdés 26. pontjában meghatározott ügyekben kiemelt létesítmény esetében,
+
+g) a határozott időre adott engedély időbeli hatályának módosítására irányuló eljárásban,
+
+h) az atomenergia-felügyeleti szerv által kiadott engedélyben előírt feltétel teljesítése határidejének módosítására irányuló eljárásban,
+
+i) a hivatalból indított eljárásban.

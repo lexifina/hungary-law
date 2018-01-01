@@ -20,7 +20,7 @@ e) a szakértői tevékenységet engedélyező határozat számát, kiállítás
 
 f) az adatváltozások bejelentésének idejét,
 
-g) a szakértői tevékenységtől való eltiltás tényét, annak okát, időtartamát, az alapjául szolgáló határozat jogerőre emelkedésének napját,
+g) a szakértői tevékenységtől való eltiltás tényét, annak okát, időtartamát, az alapjául szolgáló határozat véglegessé válásának napját,
 
 h) a szakértői tevékenység szünetelésének tényét, kezdő napját és időtartamát,
 
@@ -28,7 +28,7 @@ i) a nyilvántartási számot.
 
 (3a) A nyilvántartás a (3) bekezdés d)–i) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(4) A nyilvántartás adatai közül a Szolgtv.-ben meghatározott adatokon túl nyilvános a szakértő szakmai gyakorlatának rövid leírása és ideje, a szakterület, a szakértő engedélye kiállításának napja, a szakértői tevékenységtől való eltiltás ténye, az alapjául szolgáló határozat jogerőre emelkedésének napja, a szakértői tevékenység szünetelésének ténye, kezdő napja, időtartama, valamint a nyilvántartási szám. A Szolgtv. 30. § (2) bekezdésében nem szabályozott adatok vonatkozásában a nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolására szolgáltatható adat.
+(4) A nyilvántartás adatai közül a Szolgtv.-ben meghatározott adatokon túl nyilvános a szakértő szakmai gyakorlatának rövid leírása és ideje, a szakterület, a szakértő engedélye kiállításának napja, a szakértői tevékenységtől való eltiltás ténye, az alapjául szolgáló határozat véglegessé válásának napja, a szakértői tevékenység szünetelésének ténye, kezdő napja, időtartama, valamint a nyilvántartási szám. A Szolgtv. 30. § (2) bekezdésében nem szabályozott adatok vonatkozásában a nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolására szolgáltatható adat.
 
 (5)–(7)
 

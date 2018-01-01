@@ -1,0 +1,1 @@
+67/A. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza az atomenergia alkalmazásával összefüggő hatósági engedélyek kiadásához szükséges rendőrségi szakhatósági hozzájárulás szempontjait, valamint az atomenergia alkalmazása körében a rendőrség által végzett hatósági ellenőrzések különös és kiegészítő eljárási szabályait.

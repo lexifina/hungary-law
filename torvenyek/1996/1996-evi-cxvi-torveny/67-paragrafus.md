@@ -42,7 +42,7 @@ k) a hiányzó, a talált, valamint a lefoglalt nukleáris és más radioaktív 
 
 l) a nukleáris exportnak és importnak a nemzetközi ellenőrzési rendszerekkel összhangban lévő szabályait;
 
-m) az országos sugárzási helyzet és radioaktív anyagkoncentrációk ellenőrzésére vonatkozó szabályokat, valamint az ellenőrzési eredmények központi adatgyűjtésének, feldolgozásának, nyilvántartásának és értékelésének rendjét;
+m) az országos sugárzási helyzet és radioaktív anyagkoncentrációk ellenőrzésére vonatkozó szabályokat, valamint az ellenőrzési eredmények központi adatgyűjtésének, feldolgozásának, nyilvántartásának és értékelésének rendjét; valamint a radioaktív anyagok nyilvántartásával és ellenőrzésével, továbbá a nukleáris anyagok nyilvántartásával és ellenőrzésének szabályaival összefüggő eljárási szabályokat,
 
 n) a speciális érvényesítési eljárások rendjét;
 
@@ -54,7 +54,11 @@ q) a nukleáris védettséggel összefüggésben a fenyegetettséggel kapcsolato
 
 r) az atomenergia alkalmazása körében a tervezési alapfenyegetettség első alkalommal történő megállapításával, valamint a fizikai védelmi rendszerrel kapcsolatos követelményeket és a vonatkozó hatósági rendszert és eljárásokat;
 
-s) az atomenergia alkalmazása körében eljáró független műszaki szakértői tevékenység folytatásának szabályait, végzésének feltételeit, a rájuk vonatkozó összeférhetetlenségi szabályokat, a szakértői szakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a tevékenységre jogosító engedély iránti kérelmezési eljárásban részt vevő minősítő bizottságok tagjaira és összeférhetetlenségére vonatkozó feltételeket, a szakvélemény tartalmi elemeit és elkészítésére irányadó szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint a külföldi szakértőre vonatkozó, az EGT-állam állampolgár szakértőitől eltérő szabályait;
+s) az atomenergia alkalmazása körében eljáró
+
+sa) független műszaki szakértői tevékenység folytatásának szabályait, végzésének feltételeit, a vonatkozó összeférhetetlenségi szabályokat, a szakértői szakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a tevékenységre jogosító engedély iránti kérelmezési eljárásban részt vevő minősítő bizottságok tagjaira és összeférhetetlenségére vonatkozó feltételeket, a szakvélemény tartalmi elemeit és elkészítésére irányadó szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint a külföldi szakértőre vonatkozó, az EGT-állam állampolgár szakértőitől eltérő szabályait;
+
+sb) műszaki szakértő szervezet minősítésének, nyilvántartásának, működésének és alkalmazásának szabályait.
 
 t) a radioaktívhulladék-tároló és a felszín alatti vizsgálat céljára szolgáló laboratórium telephelyének műszaki megtervezésénél figyelembe veendő földtani követelményrendszert, a földtani alkalmasság megállapítását célzó kutatás engedélyezésére és a kutatás eredményének jóváhagyására vonatkozó eljárási szabályokat, valamint a létesítéssel és az üzemeltetéssel kapcsolatos bányaműszaki és bányabiztonsági követelményeket;
 
@@ -62,9 +66,7 @@ u) a 62. § (6) bekezdése szerinti testület létrehozását, összetételét, 
 
 v) az atomenergia-felügyeleti szerv
 
-va) eljárásaira vonatkozó eljárási határidőket,
-
-vb) eljárásaiban közreműködő szakhatóság eljárására irányadó ügyintézési határidőt,
+va)–vb)
 
 vc) által lefolytatott eljárásban benyújtandó műszaki dokumentáció nyelvét,
 
@@ -94,7 +96,7 @@ xg) a külföldről származó és kereskedelmi forgalomba kerülő termékek, i
 
 xh) a radioaktív anyagok használati cikkekben való alkalmazásának szabályait;
 
-xi) a radioaktív anyagok birtoklása, előállítása, termelése, kezelése, feldolgozása, forgalmazása, tárolása, felhasználása, átalakítása, szállítása engedélyezési és a hatósági felügyelet alóli felszabadítási eljárását;
+xi) a radioaktív anyagok birtoklása, előállítása, termelése, kezelése, feldolgozása, forgalmazása, tárolása, felhasználása, átalakítása, szállítása engedélyezési és a hatósági felügyelet alóli felszabadítási eljárását, valamint a radioaktív anyagok szállításának, fuvarozásának és csomagolásának eljárási szabályait,
 
 xj) az xi) pontban felsorolt tevékenységet szolgáló létesítmény vagy berendezés létesítése, üzembe helyezése, üzemeltetése, átalakítása, javítása, megszüntetése, leszerelése engedélyezési eljárását és ellenőrzésének rendjét;
 
@@ -108,4 +110,6 @@ xn) a sugárzás elleni védőeszköz forgalomba hozatalnak engedélyezési és 
 
 xo) az xj) és xk) pontok szerinti létesítmény, berendezés alkalmazásának vagy üzemeltetésének megkezdésére, alkalmazásának vagy üzemeltetésének megszüntetésére, tulajdonjoga megszerzésére, illetve használata bármilyen jogcímen történő átengedésére irányuló bejelentés tudomásulvételét.
 
-y) az Országos Személyi Dozimetriai Nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi szakértői tevékenység folytatásának részletes feltételeit, e tevékenység folytatására jogosító engedély kiadásának rendjét, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi képzésre és továbbképzésre vonatkozó részletes szabályokat valamint a sugárvédelmi képzettség nyilvántartásának vezetésére vonatkozó részletes szabályokat.
+y) az Országos Személyi Dozimetriai Nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi szakértői tevékenység folytatásának részletes feltételeit, e tevékenység folytatására jogosító engedély kiadásának rendjét, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi képzésre és továbbképzésre vonatkozó részletes szabályokat valamint a sugárvédelmi képzettség nyilvántartásának vezetésére vonatkozó részletes szabályokat;
+
+z) a 26. §-ban meghatározott feladatok végrehajtására a honvédségi szervezet kijelölését, a kijelölt szervezet közigazgatási hatósági eljárásában alkalmazandó Ákr.-t kiegészítő és az Ákr.-től eltérő szabályokat.

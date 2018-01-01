@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-116-00-00
 | 2016-01-02 | 2015. évi CXCVI. törvény | 1996-116-00-00.47 |
 | 2017-01-01 | 2016. évi CXLIII. törvény | 1996-116-00-00.48 |
 | 2017-06-24 | 2017. évi LXXV. törvény | 1996-116-00-00.49 |
+| 2018-01-01 | 2017. évi L. törvény | 1996-116-00-00.50 |

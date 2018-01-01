@@ -46,7 +46,7 @@ b) a szakterület,
 
 c) a sugárvédelmi szakértő, sugárvédelmi szakértői társaság engedélye kiállításának napja,
 
-d) a szakértői tevékenységtől való eltiltás ténye, az alapjául szolgáló határozat jogerőre emelkedésének napja,
+d) a szakértői tevékenységtől való eltiltás ténye, az alapjául szolgáló határozat véglegessé válásának napja,
 
 e) a szakértői tevékenység szünetelésének ténye, kezdő napja, időtartama és
 

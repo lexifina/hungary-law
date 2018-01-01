@@ -1,7 +1,5 @@
-26. § (1) A honvédelemért felelős miniszter jogszabályban meghatározott módon látja el a honvédelmi ágazaton belül
+26. § (1) A honvédelemért felelős miniszter a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter – e törvény keretei között honvédelmi érdekből – eltérő követelményeket állapíthat meg.
 
-a) a radioaktív anyagok kezelésének, valamint az e törvény hatálya alá tartozó létesítmények és haditechnikai berendezések létrehozásának, üzemeltetésének, megszüntetésének ellenőrzését;
+(2) A 17. § (2) bekezdés 26–42. pontjában meghatározott hatásköröket az (1) bekezdés szerinti szervezetek vonatkozásában ellátó honvédségi szervezet kijelöléséről, valamint a kijelölt honvédségi szervezet által alkalmazandó – az Ákr.-t kiegészítő és attól eltérő – közigazgatási hatósági eljárás szabályairól e törvény végrehajtására kiadott kormányrendelet rendelkezik.
 
-b) az ágazat speciális (kiképzési, nukleárisbaleset-elhárítási, háborús) sugáregészségügyi ellenőrzését.
-
-(2) A Magyar Honvédség szervezeteire és intézményeire vonatkozóan a katonai egészségügyi államigazgatási szerv látja el a 17. § (2) bekezdés 26–35. és 36–42. pontjaival kapcsolatos feladatokat.
+(3) A 12. és a 15. §-ban meghatározott eljárási szabályokat a (2) bekezdés szerint kijelölt szervezet is alkalmazza.

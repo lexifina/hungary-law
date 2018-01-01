@@ -16,7 +16,7 @@ d) érvényesítés során: kizárólag az engedélyes és a külső bejelentő,
 
 e) radioaktívhulladék-tárolóra vonatkozó engedélynél (a létesítmény telephelyének vizsgálatához és értékeléséhez, telepítéséhez, létesítéséhez, üzemeltetéséhez, átalakításához, lezárásához, aktív és passzív intézményes ellenőrzésre való áttéréséhez szükséges engedély esetében) az engedélyesen kívül a hatásterületen levő valamennyi ingatlan tulajdonosa és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték,
 
-(1a) Az atomenergia-felügyeleti szerv által lefolytatott eljárásban az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait csak akkor gyakorolhatja, ha az eljárásban nyilatkozatot tett vagy kérelmet nyújtott be. A nukleáris létesítmény létesítményszintű nukleáris biztonságával kapcsolatos engedélyezési eljárásba a döntés jogerőre emelkedésétől és végrehajthatóvá válásától számított hat hónapon túl nem léphet be további ügyfél, e határidő elmulasztása esetén igazolásnak helye nincs.
+(1a) Az atomenergia-felügyeleti szerv által lefolytatott eljárásban az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait csak akkor gyakorolhatja, ha az eljárásban nyilatkozatot tett vagy kérelmet nyújtott be. A nukleáris létesítmény létesítményszintű nukleáris biztonságával kapcsolatos engedélyezési eljárásba a döntés véglegessé válásától és végrehajthatóvá válásától számított hat hónapon túl nem léphet be további ügyfél, e határidő elmulasztása esetén igazolásnak helye nincs.
 
 (2) Az atomenergia-felügyeleti szerv eljárásaiban – a (2a)–(2d) bekezdésben meghatározott kivétellel – a hatásterület a biztonsági övezet területe.
 
@@ -36,16 +36,28 @@ b) az a) pontban meghatározott nukleáris létesítmények kivételével a nukl
 
 távolságon belüli terület.
 
-(2c) A radioaktívhulladék-tároló telephelyének vizsgálatára és értékelésére, valamint telepítésére vonatkozó hatósági eljárásban a hatásterület a létesítmény jogszabályban meghatározottak szerint tervezett ellenőrzött területe, valamint az annak határától számított száz méteres távolságon belüli terület.
+(2c) A radioaktívhulladék-tároló telephelyének vizsgálatára és értékelésére, valamint telepítésére vonatkozó hatósági eljárásban a hatásterület a létesítmény tervezett kutatási területe.
 
-(2d) A radioaktívhulladék-tároló létesítésének engedélyezése iránti hatósági eljárásban a hatásterület az engedélyezendő létesítmény tervezője által a kérelmet megalapozó dokumentációban – kormányrendeletben meghatározott követelmények alapján – javasolt biztonsági övezet területe, de legalább a (2c) bekezdésben meghatározott terület.
+(2d) A radioaktívhulladék-tároló létesítésének engedélyezése iránti hatósági eljárásban a hatásterület az engedélyezendő létesítmény tervezője által a kérelmet megalapozó dokumentációban – kormányrendeletben meghatározott követelmények alapján – javasolt biztonsági övezet területe.
 
-(3) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló nukleáris biztonságával kapcsolatos eljárás megindítására irányuló kérelmet kizárólag az eljárásra hatáskörrel rendelkező hatóságnál lehet előterjeszteni.
+(3) Az atomenergia-felügyeleti szerv hatáskörébe tartozó ügyekben az eljárás megindítására irányuló kérelmet kizárólag írásban, eredeti példányban, az eljárásra hatáskörrel rendelkező hatóságnál lehet előterjeszteni.
 
 (4) Az atomenergia-felügyeleti szerv az (1) bekezdés a) és e) pontjában meghatározott eljárásaiban a döntése meghozatala előtt – a nyilvánosság véleményének megismerése érdekében – közmeghallgatást tart.
 
-(5) Az atomenergia-felügyeleti szerv a közmeghallgatás helyéről és időpontjáról a közmeghallgatást megelőzően kormányrendeletben meghatározott határidőben
+(5) Az atomenergia-felügyeleti szerv legalább 15 nappal a közmeghallgatás előtt a közmeghallgatás helyéről, időpontjáról és az eljárás tárgyáról
 
-a) hirdetményi úton, valamint a honlapján történő közzététel útján értesíti az érintetteket,
+a) hirdetményt tesz közzé az atomenergia-felügyeleti szerv honlapján és hirdetőtábláján, valamint a hirdetmeny.magyarorszag.hu közigazgatási portálon,
 
 b) értesíti az eljárásban közreműködő szakhatóságot.
+
+(6) A közmeghallgatáson elhangzottakról készült feljegyzés az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban Ákr.) meghatározottakon kívül
+
+a) az eljáró hatóság megnevezését, az ügyintéző nevét, az ügy tárgyát,
+
+b) a közmeghallgatáson résztvevő atomenergia-felügyeleti szerv, a szakhatóság és az engedélyes részéről megjelent személyek azonosításához szükséges adatokat
+
+tartalmazza.
+
+(7) Ha az atomenergia-felügyeleti szerv a közmeghallgatást az Ákr. alapján hangfelvétellel vagy kép- és hangfelvétellel dokumentálja, vagy a kép- és hangfelvételről a (6) bekezdésnek megfelelő tartalmú feljegyzést készít, azt elektronikus úton közzéteszi. Ha az atomenergia-felügyeleti szerv a hangfelvételt írásos feljegyzésben dokumentálja, a dokumentumot elektronikus úton közzéteszi.
+
+(8) A közmeghallgatás lebonyolítása során biztosítani kell, hogy a megjelentek egyenlő feltételek mellett kérdezhessenek, nyilváníthassanak véleményt.
