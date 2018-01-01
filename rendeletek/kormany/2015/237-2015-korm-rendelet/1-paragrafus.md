@@ -8,4 +8,6 @@ b) útépítési, közmű csatlakozási és fejlesztési, valamint egyéb munká
 
 (3) A Kormány az 1. melléklet 3., 4., 5. és 7. pontja szerinti közigazgatási hatósági ügyekben első fokon eljáró hatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát, másodfokon eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
-(4) Azokban az esetekben, amikor az 1. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben építésügyi, valamint örökségvédelmi szakkérdésben szakhatóság közreműködését rendeli el, a Kormány első fokú eljárásban eljáró szakhatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát, másodfokú eljárásban eljáró szakhatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+(4)[^1]
+
+[^1]: Az 1. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 202. § a) pontja hatályon kívül helyezte.
