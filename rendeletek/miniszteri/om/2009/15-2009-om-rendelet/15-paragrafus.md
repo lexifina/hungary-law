@@ -1,1 +1,0 @@
-## 14. § Jelen rendelet alapján nyújtott támogatások csekély összegű támogatásnak minősülnek, amelyeket kizárólag az Európai Közösséget létrehozó Szerződés 87. és 88. cikkelyének a csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet – HL L sorozat 379/5 2006. 12. 28. – szabályai alapján lehet nyújtani.

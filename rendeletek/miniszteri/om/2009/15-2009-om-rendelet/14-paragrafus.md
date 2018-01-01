@@ -1,1 +1,0 @@
-## Állami támogatásra vonatkozó szabályok

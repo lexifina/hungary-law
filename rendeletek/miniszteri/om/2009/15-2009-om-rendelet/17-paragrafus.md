@@ -1,1 +1,0 @@
-## 16. § A csekély összegű (de minimis) támogatás ugyanazon elszámolható költségek vonatkozásában nem halmozható állami támogatással, amennyiben az így halmozott összeg meghaladná a támogatási intenzitás csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott mértékét.
