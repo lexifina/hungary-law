@@ -14,7 +14,7 @@ c) a független jogkezelő szervezet esetében a jogkezelési tevékenységből 
 
 (5) A határidőben meg nem fizetett felügyeleti díj után az adózás rendjéről szóló törvény szerint kell késedelmi pótlékot fizetni.
 
-(6) A felügyeleti díj és a késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
+(6) A határidőben meg nem fizetett felügyeleti díj összegét az SZTNH határozatában állapítja meg, és kötelezi a díjfizetésre kötelezettet annak megfizetésére.
 
 (7) A (2) és (4) bekezdés alkalmazásában bevétel alatt az általános forgalmi adót nem tartalmazó bevételt kell érteni.
 

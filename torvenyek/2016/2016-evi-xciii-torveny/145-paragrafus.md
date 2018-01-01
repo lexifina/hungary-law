@@ -8,4 +8,4 @@
 
 (2) A reprezentatív közös jogkezelő szervezetként végzett közös jogkezelés körében alkalmazott díjszabások jóváhagyásáról az igazságügyért felelős miniszter dönt.
 
-(3) A reprezentatív közös jogkezelő szervezetként végzett közös jogkezelés körében alkalmazott díjszabások jóváhagyására irányuló eljárás – ide értve annak véleményezési szakaszát is – nem minősül közigazgatási hatósági eljárásnak, arra a Ket. szabályait nem kell alkalmazni.
+(3) A reprezentatív közös jogkezelő szervezetként végzett közös jogkezelés körében alkalmazott díjszabások jóváhagyására irányuló eljárás – ideértve annak véleményezési szakaszát is – nem minősül közigazgatási hatósági ügynek, arra az Ákr. szabályait nem kell alkalmazni.

@@ -6,4 +6,4 @@
 
 (4) A határidőben meg nem fizetett felügyeleti bírság után az adózás rendjéről szóló törvény szerint kell késedelmi pótlékot fizetni.
 
-(5) A felügyeleti bírság és a késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
+(5)

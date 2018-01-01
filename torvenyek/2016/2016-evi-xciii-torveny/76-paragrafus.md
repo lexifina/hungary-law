@@ -1,9 +1,11 @@
-76. § A jogkezeléssel kapcsolatos hatósági ügyekben nem kell alkalmazni
+76. § (1) A jogkezeléssel kapcsolatos hatósági ügyekben nem kell alkalmazni az Ákr.
 
-a) a Ket. azon rendelkezéseit, amelyek az eljárás megindításával és az első kapcsolatfelvétellel összefüggő – hivatalból vagy kérelemre történő – értesítésre és figyelemfelhívásra vonatkoznak,
+a) ügygondnokra vonatkozó szabályait,
 
-b) a Ket. ügygondnokra és a közmeghallgatásra vonatkozó szabályait,
+b) költségmentességre vonatkozó szabályait,
 
-c) a Ket. 71. § (2) bekezdés a) pontját,
+c) 26. §-át és
 
-d) a Ket. 91. §-át.
+d) 64. §-át.
+
+(2) A jogkezeléssel kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak és a kérelem kormányablaknál nem terjeszthető elő.

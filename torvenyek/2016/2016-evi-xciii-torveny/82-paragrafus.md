@@ -1,6 +1,6 @@
 ## 51. Jogorvoslatok
 
-82. § (1) A jogkezeléssel kapcsolatos hatósági ügyekben az SZTNH döntése ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak.
+82. § (1) A jogkezeléssel kapcsolatos hatósági ügyekben az SZTNH döntése ellen nincs helye fellebbezésnek, felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti ügyészi felhívásnak és fellépésnek.
 
 (2) Az SZTNH jogkezeléssel kapcsolatos hatósági ügyekben hozott döntését a bíróság a XVI. fejezetben szabályozott nemperes eljárásban vizsgálja felül.
 

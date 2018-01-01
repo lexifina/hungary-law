@@ -8,7 +8,7 @@
 
 a) a jogkezeléssel kapcsolatos hatósági ügyben hozott határozatát, továbbá
 
-b) a jogkezeléssel kapcsolatos hatósági ügyben az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó, az eljárást felfüggesztő, az eljárási bírságot kiszabó végzését, valamint az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben a Ket. szerint önálló jogorvoslatnak van helye.
+b) a jogkezeléssel kapcsolatos hatósági ügyben az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó, az eljárást felfüggesztő, az eljárási bírságot kiszabó végzését, valamint az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben az Ákr. szerint önálló jogorvoslatnak van helye.
 
 (2) Az SZTNH döntése ellen előterjesztett bírósági felülvizsgálati kérelemnek nincs halasztó hatálya, és nem akadályozza meg annak jogerőre emelkedését.
 
