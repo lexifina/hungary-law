@@ -1,5 +1,3 @@
-## 8. §[^1]
-
 1. melléklet a 318/2017. (XI. 7.) Korm. rendelethez
 
 ## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
@@ -47,5 +45,3 @@
 21. azok az 1–20. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
-
-[^1]: A 8. § a 6. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
