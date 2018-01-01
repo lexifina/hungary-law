@@ -8,6 +8,9 @@ b) több megyére kiterjedő szolgáltatási engedély esetében megyénként 1 
 
 c) egy megyén belüli településekre kiterjedő szolgáltatási engedély esetében településenként 100 000 forint, de maximum 1 000 000 forint.
 
-(3) A postai szolgáltató, amennyiben azt az engedélyköteles szolgáltatásból származó árbevételének növekedése szükségessé teszi, köteles minden év június 30-áig a vagyoni biztosítékot megemelni az (1) bekezdésben meghatározott irányadó értékhez. Ennek megtörténtét a postai szolgáltató köteles a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: hatóság) felé ugyanezen időpontig igazolni.
+(3)[^1] A postai szolgáltató, amennyiben azt az engedélyköteles szolgáltatásból származó árbevételének növekedése szükségessé teszi, köteles minden év június 30-áig a vagyoni biztosítékot megemelni az (1) bekezdésben meghatározott irányadó értékhez.
 
-(4) A postai szolgáltató csökkentheti a vagyoni biztosíték összegét az (1) bekezdésben meghatározott mértékre, amennyiben a szolgáltatónak a Postatv. 58. § (5) bekezdésében meghatározott adatszolgáltatása alapján a hatóság határozatában megállapítja a csökkentés jogszabályi feltételeknek való megfelelőségét.
+(4)[^2]
+
+[^1]: Az 1. § (3) bekezdése az 55/2017. (XII. 27.) NFM rendelet 65. §-ával megállapított szöveg.
+[^2]: Az 1. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 67. §-a hatályon kívül helyezte.
