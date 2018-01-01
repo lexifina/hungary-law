@@ -1,6 +1,6 @@
 ## 4. Az ABAK-ra vonatkozó engedélyezési feltételek
 
-11. § (1) A kérelmező a 7. § (1) bekezdésben foglalt tevékenység végzésére jogosító engedély iránti kérelemhez mellékeli
+11. § (1) A kérelmező a 7. § (1) bekezdésben foglalt tevékenység végzésére jogosító engedély iránti kérelemhez mellékeli – az (1a) bekezdés figyelembevételével –
 
 a) az ABAK létesítő okiratát, annak igazolását, hogy főirodája és a létesítő okirat szerinti székhelye egyaránt Magyarországon van, a végezni kívánt tevékenység megnevezését, valamint a 2. melléklet szerinti működési szabályzatát;
 
@@ -15,6 +15,8 @@ e) az ABAK olyan közvetlen vagy közvetett tagi részesedéssel rendelkező sze
 f) a tevékenységeknek a 41. § szerinti, kiszervezésre tett intézkedésekkel kapcsolatos tájékoztatást;
 
 g) a tevékenységi kör módosítására irányuló eljárás kivételével a tulajdonosi szerkezetének részletes leírását okirati bizonyítékokkal együtt, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását.
+
+(1a) Ha a kérelmező magyarországi székhelyű nem természetes személy, az (1) bekezdés a) és e) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 (2) A kérelmező tájékoztatja a Felügyeletet a kezelni kívánt ABA-k által folytatandó befektetési stratégiáról (az elsődleges eszközkategória típusa szerinti besorolásról).
 

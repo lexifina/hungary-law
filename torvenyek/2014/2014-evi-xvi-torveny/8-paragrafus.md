@@ -1,6 +1,6 @@
 ## 2. ÁÉKBV-alapkezelőre vonatkozó engedélyezési feltételek
 
-8. § (1) A kérelmező a 6. § (1) bekezdés a) pontjában foglalt tevékenység végzésére jogosító engedély iránti kérelemhez mellékeli
+8. § (1) A kérelmező a 6. § (1) bekezdés a) pontjában foglalt tevékenység végzésére jogosító engedély iránti kérelemhez mellékeli – az (1a) bekezdés figyelembevételével –
 
 a) az ÁÉKBV-alapkezelő létesítő okiratát, a végezni kívánt tevékenység megnevezését, működési tervét, amely a szervezeti felépítését, valamint a 2. melléklet szerinti működési szabályzatát tartalmazza;
 
@@ -19,6 +19,8 @@ g) amennyiben az alapkezelő a Bszt. hatálya alá tartozó tevékenységet is v
 h) a könyvvizsgáló igazolását arra vonatkozóan, hogy az alapkezelő informatikai rendszere alkalmas a 29. §-ban és a 30. §-ban meghatározott követelmények teljesítésére;
 
 i) a tevékenységi kör módosítására irányuló eljárás kivételével a tulajdonosi szerkezetének részletes leírását okirati bizonyítékokkal együtt, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását.
+
+(1a) Ha a kérelmező magyarországi székhelyű nem természetes személy, akkor az (1) bekezdés a) és e) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 (2) Az ÁÉKBV-alapkezelőnek tevékenysége végzése során folyamatosan meg kell felelnie a jogszabályok előírásainak és a Felügyelet felhívására köteles igazolni, hogy megfelel az e törvény felhatalmazása alapján kiadott egyéb jogszabályokban meghatározott működési feltételnek is.
 

@@ -12,7 +12,7 @@ A törvényben hivatkozott jogszabályok rövidítése
 
 5. Tpt.: a tőkepiacról szóló 2001. évi CXX. törvény,
 
-6. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
+6. Art.: az adózás rendjéről szóló törvény,
 
 7. Ctv.: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
 

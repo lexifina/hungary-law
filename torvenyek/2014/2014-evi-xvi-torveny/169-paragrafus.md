@@ -56,4 +56,4 @@ q) ha a forgalomba hozatali eljárás lezárásáig olyan tény vagy körülmén
 
 r) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a befektetési alapkezelő költségén nyilvánosságra hozza.
 
-(2) A Felügyelet (1) bekezdés b), d), e), h), m), o), p) és q) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el. A tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
+(2)

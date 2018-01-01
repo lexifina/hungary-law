@@ -14,7 +14,7 @@ e) a kezelési szabályzat olyan tartalmú módosítását, ami a befektetési j
 
 f) a kezelési szabályzat egyéb módosítását, legkésőbb a hatálybalépés napján;
 
-g) a befektetési alapkezelő engedélyének visszavonását, az engedély visszavonására vonatkozó határozat jogerőre emelkedését követő 2 munkanapon belül;
+g) a befektetési alapkezelő engedélyének visszavonását, az engedély visszavonására vonatkozó határozat véglegessé válását követő 2 munkanapon belül;
 
 h) a befektetési alapkezelési tevékenység átadását, legkésőbb 15 nappal a hatálybalépés előtt;
 

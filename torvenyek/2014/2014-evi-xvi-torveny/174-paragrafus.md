@@ -10,4 +10,4 @@ b) szankciók megállapítása érdekében;
 
 c) az illetékes hatóságok határozatai elleni államigazgatási felülvizsgálat lefolytatása során; és
 
-d) a hatóság eljárásával szemben indított peres eljárásokban.
+d) a hatóság eljárásával szemben indított közigazgatási perekben.
