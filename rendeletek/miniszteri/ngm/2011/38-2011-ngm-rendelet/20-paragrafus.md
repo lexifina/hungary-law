@@ -32,4 +32,6 @@ b) a honosított harmonizált szabvány hiányossága.
 
 (9) A (8) bekezdés szerinti értesítésben a piacfelügyeleti hatóság megadja az összes rendelkezésre álló adatot, különösen a nem megfelelő játék azonosításához szükséges adatokat, a játék származási helyét, a feltételezett nem megfelelőség és a felmerülő kockázatok jellegét, a meghozott intézkedések jellegét és időtartamát, valamint az érintett gazdasági szereplő által felhozott szempontokat.
 
-(10) A (4)–(6) bekezdés alapján hozott jogerős és a Bizottsággal közölt határozatokat a piacfelügyeleti hatóság honlapján közzéteszi.
+(10)[^2] A (4)–(6) bekezdés alapján hozott végleges és a Bizottsággal közölt határozatokat a piacfelügyeleti hatóság honlapján közzéteszi.
+
+[^2]: A 20. § (10) bekezdése az 51/2017. (XII. 29.) NGM rendelet 23. §-a szerint módosított szöveg.
