@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdés szerinti közigazgatási bírság kiszabása során a hatóság mérlegeli a jogsértő magatartás súlyát, különösen a jogsértések számát és a településkép védelméhez fűződő érdek sérelmének mértékét, a jogsértés ismételtségét, időtartamát, a jogsértéssel elért előny mértékét.
 
-(3) Az (1) bekezdés szerinti közigazgatási bírság megfizetése nem mentesíti a kötelezettet a jogsértő állapot megszüntetésének kötelezettsége alól. A jogerősen kiszabott és be nem fizetett közigazgatási bírság adók módjára behajtandó köztartozásnak minősül.
+(3) Az (1) bekezdés szerinti közigazgatási bírság megfizetése nem mentesíti a kötelezettet a jogsértő állapot megszüntetésének kötelezettsége alól. A végleges döntéssel kiszabott és be nem fizetett közigazgatási bírság adók módjára behajtandó köztartozásnak minősül.

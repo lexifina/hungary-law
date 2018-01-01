@@ -6,7 +6,7 @@ b) folytat le a reklámok és reklámhordozók elhelyezése
 
 tekintetében.
 
-(2) A településképi bejelentési eljárást az ügyfél bejelentés formájában a polgármesternél (főpolgármesternél) kezdeményezi. Az (1) bekezdés szerinti tevékenység a bejelentés alapján megkezdhető, ha ahhoz más hatósági engedély nem szükséges, és a polgármester (főpolgármester) a tevékenység végzését a bejelentést követő 15 napon belül nem tiltja meg.
+(2) A településképi bejelentési eljárást az ügyfél bejelentés formájában a polgármesternél (főpolgármesternél) kezdeményezi. Az (1) bekezdés szerinti tevékenység a bejelentés alapján megkezdhető, ha ahhoz más hatósági engedély nem szükséges, és a polgármester (főpolgármester) a tevékenység végzését a bejelentést követő 15 napon belül nem tiltja meg vagy az eljárást nem szünteti meg.
 
 (3) A polgármester (2) bekezdés szerinti önkormányzati hatósági döntésével szemben a települési önkormányzat képviselő-testületéhez lehet fellebbezni.
 
