@@ -16,4 +16,6 @@ d) a földgázelosztó kezdeményezésére indult eljárásban azt állapítja m
 
 a) továbbképzési kötelezettsége teljesítését igazolja, amennyiben a tevékenység végzésének megtiltására a továbbképzési kötelezettség elmulasztása miatt került sor, vagy
 
-b) tevékenységet megtiltó határozat jogerőre emelkedésétől számított egy év eltelt, és a gázszerelő eleget tett továbbképzési kötelezettségének, amennyiben a tevékenység megtiltására az a) pontban meghatározotthoz képest egyéb okból került sor.
+b)[^1] tevékenységet megtiltó határozat véglegessé válásától számított egy év eltelt, és a gázszerelő eleget tett továbbképzési kötelezettségének, amennyiben a tevékenység megtiltására az a) pontban meghatározotthoz képest egyéb okból került sor.
+
+[^1]: Az 5. § (3) bekezdés b) pontja a 10. § szerint módosított szöveg.
