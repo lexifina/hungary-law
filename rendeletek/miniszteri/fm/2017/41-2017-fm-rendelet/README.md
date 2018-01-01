@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-41-20-1
 | --- | --- | --- |
 | 2017-08-15 | 2017-41-20-11.1 | 41/2017. (VIII. 14.) FM rendelet |
 | 2017-08-16 | 2017-41-20-11.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2017-41-20-11.3 | 2010: CXXX. törvény |
