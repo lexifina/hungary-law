@@ -10,7 +10,7 @@ b) az adózó egyedi adatait tartalmazó, folyamatosan vezetett adószámla-nyil
 
 c) az adózó képviseletére vonatkozó nyilvántartás,
 
-d) az adózónkénti és közterhenkénti bejelentkezési, változás-bejelentési, bevallási nyilvántartás,
+d)[^1] az adózónkénti és közterhenkénti bejelentkezési, változás-bejelentési, adatbejelentési és bevallási nyilvántartás,
 
 e) az építményadó, a telekadó külföldön bejegyzett szervezet adóalanyainak nyilvántartása,
 
@@ -22,13 +22,13 @@ h) a feltételes adómentességet igénybe vevő adózók nyilatkozatainak nyilv
 
 i) a gépjárműadó megállapításához szükséges hatósági adatszolgáltatások nyilvántartása,
 
-j) az önkormányzati adóhatóság előtt elektronikus úton intézhető ügyek nyilvántartása,
+j)[^2] az elektronikus ügyintézéshez szükséges hatósági adatszolgáltatások nyilvántartása,
 
 k) a befizetések, fizetési számlakivonatok, utalások és az azonosítás alatt álló bevételek, valamint a más szervezetet megillető bevételek nyilvántartása,
 
 l) a behajthatatlannak minősített adótartozások nyilvántartása,
 
-m) a biztosítási intézkedések nyilvántartása,
+m)[^3] a biztosítási és ideiglenes biztosítási intézkedések nyilvántartása,
 
 n) a végrehajtási cselekmények nyilvántartása,
 
@@ -37,3 +37,7 @@ o) az önkormányzati adóhatóság által átruházott végrehajtási cselekmé
 p) a magánfőzés ellenőrzésével összefüggő adatok nyilvántartása.
 
 (2) Az önkormányzati adóhatóság az (1) bekezdésben meghatározott nyilvántartásokat folyamatosan vezeti és az azokban bekövetkezett változást legkésőbb három munkanapon belül átvezeti.
+
+[^1]: A 2. § (1) bekezdés d) pontja az 52/2017. (XII. 29.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés j) pontja az 52/2017. (XII. 29.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés m) pontja az 52/2017. (XII. 29.) NGM rendelet 3. § (3) bekezdésével megállapított szöveg.

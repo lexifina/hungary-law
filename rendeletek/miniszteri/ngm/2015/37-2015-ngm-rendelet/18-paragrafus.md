@@ -12,6 +12,6 @@
 
 (6) Az önkormányzati adóhatóság a külön jogszabályban meghatározott adatszolgáltatási kötelezettségét, a külön jogszabályban előírt módon, adattartalommal és határidőre teljesíti.
 
-(7)[^13]
+(7)[^29]
 
-[^13]: A 18. § (7) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § i) pontja hatályon kívül helyezte.
+[^29]: A 18. § (7) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § i) pontja hatályon kívül helyezte.

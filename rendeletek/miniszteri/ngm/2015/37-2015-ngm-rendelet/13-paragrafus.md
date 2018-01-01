@@ -6,6 +6,6 @@
 
 (3) Az adóalap egyszerűsített meghatározási módját – ezen belül a személyi jövedelemadóban átalányadózást – választó adózók, valamint az egyszerűsített vállalkozói adó hatálya alá tartozó adózók iparűzési adóbevallásait külön is fel kell dolgozni.
 
-(4)[^10]
+(4)[^26]
 
-[^10]: A 13. § (4) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § f) pontja hatályon kívül helyezte.
+[^26]: A 13. § (4) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § f) pontja hatályon kívül helyezte.
