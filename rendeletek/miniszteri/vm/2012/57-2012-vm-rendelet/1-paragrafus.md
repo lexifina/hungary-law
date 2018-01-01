@@ -20,11 +20,11 @@
 
 9. gazdaság vezetője: a gazdaság részét képező ingatlanok – beleértve a termőföldet is –tulajdonjogával vagy bérleti jogával rendelkező, tevőleges mezőgazdasági tevékenységet végző egyéni vállalkozó;
 
-10. működtetési időszak: e rendelet szerinti támogatási kérelmet jóváhagyó határozat jogerőre emelkedését követő év január 1-jétől számított ötödik naptári év végéig terjedő időszak;
+10.[^2] működtetési időszak: e rendelet szerinti támogatási kérelmet jóváhagyó határozat véglegessé válását követő év január 1-jétől számított ötödik naptári év végéig terjedő időszak;
 
 11. ügyfél: az a természetes személy, aki megfelel a 3. § (1) bekezdésében foglalt feltételeknek;
 
-12.[^2] tanya: az a külterületi lakott ingatlan, amely az ingatlan-nyilvántartásban tanyaként vagy majorként szerepel, továbbá az az ingatlan, amely kivett területként, alrészként kivett területként, mezőgazdasági területként vagy lakóház, udvar, gazdasági épületként van nyilvántartva és megfelel a termőföldről szóló törvényben található tanya fogalomnak;
+12.[^3] tanya: az a külterületi lakott ingatlan, amely az ingatlan-nyilvántartásban tanyaként vagy majorként szerepel, továbbá az az ingatlan, amely kivett területként, alrészként kivett területként, mezőgazdasági területként vagy lakóház, udvar, gazdasági épületként van nyilvántartva és megfelel a termőföldről szóló törvényben található tanya fogalomnak;
 
 13. kertészet: a támogatási kérelemben az üzleti terv részét képező standard fedezeti hozzájárulás (a továbbiakban: SFH) betétlapon az ügyfél által jelölt, kertészeti ágazat körébe tartozó, a Vhr. 21. § (2) bekezdése szerinti közleményben közzétett D14A, D14B, D15, D16, D17, D34, E, G01A, G01B, G01C, G02, G03A, G03B, G04A, G04B, G04C, G04D, G05, G07, I02, D10, D23, D24 SFH-kódok legalább egyikének megfelelő mezőgazdasági tevékenység;
 
@@ -35,4 +35,5 @@
 16. életvitelszerű tartózkodási hely: az ügyfél azon – bejelentett és a lakcímet igazoló hatósági igazolványban szereplő – állandó vagy ideiglenes tartózkodási helye, ahol az év nagyobb részét tölti, és rendszerint elérhető, amelyet életkörülményei is alátámasztanak.
 
 [^1]: Az 1. § 2. pontja az 53/2014. (IV. 29.) VM rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^2]: Az 1. § 12. pontja a 8/2014. (XI. 19.) MvM rendelet 13. §-a szerint módosított szöveg.
+[^2]: Az 1. § 10. pontja a 37/2017. (XII. 27.) MvM rendelet 28. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 12. pontja a 8/2014. (XI. 19.) MvM rendelet 13. §-a szerint módosított szöveg.
