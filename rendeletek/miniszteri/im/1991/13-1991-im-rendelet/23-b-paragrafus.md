@@ -1,8 +1,8 @@
-## KÖZJEGYZŐ OKIRAT-SZERKESZTÉSI ELJÁRÁSÁRA IRÁNYULÓ KÉRELEM[^71]
+## KÖZJEGYZŐ OKIRAT-SZERKESZTÉSI ELJÁRÁSÁRA IRÁNYULÓ KÉRELEM[^74]
 
-## (a Ktv. 172. §-ához)[^72]
+## (a Ktv. 172. §-ához)[^75]
 
-23/B. §[^73] (1) A közjegyző okirat-szerkesztési eljárására irányuló kérelmet írásban a 6. számú melléklet szerinti formanyomtatványon vagy szóban jegyzőkönyvbe mondva kell előterjeszteni. A Ktv. 124. § a) és c) pontja szerinti esetekben a kérelem szóban akként is előterjeszthető, hogy azt a közjegyző az okirat-szerkesztési eljárás során elkészített közjegyzői okiratba foglalja.
+23/B. §[^76] (1) A közjegyző okirat-szerkesztési eljárására irányuló kérelmet írásban a 6. számú melléklet szerinti formanyomtatványon vagy szóban jegyzőkönyvbe mondva kell előterjeszteni. A Ktv. 124. § a) és c) pontja szerinti esetekben a kérelem szóban akként is előterjeszthető, hogy azt a közjegyző az okirat-szerkesztési eljárás során elkészített közjegyzői okiratba foglalja.
 
 (2) Az írásbeli kérelmet legalább egyszerű magánokiratként papír alapon, továbbá faxon vagy elektronikus úton lehet előterjeszteni.
 
@@ -14,6 +14,6 @@
 
 (6) A 6. számú melléklet szerinti formanyomtatvány kitöltésére vonatkozóan az országos kamara a honlapján kitöltési útmutatót tesz közzé.
 
-[^71]: A Vhr. 23/B. §-t megelőző alcímet a 24/2015. (IX. 21.) IM rendelet 1. § (5) bekezdése iktatta be.
-[^72]: A Vhr. 23/B. §-t megelőző jogszabályi hivatkozást a 24/2015. (IX. 21.) IM rendelet 1. § (5) bekezdése iktatta be.
-[^73]: A Vhr. 23/B. §-át a 24/2015. (IX. 21.) IM rendelet 1. § (5) bekezdése iktatta be.
+[^74]: A Vhr. 23/B. §-t megelőző alcímet a 24/2015. (IX. 21.) IM rendelet 1. § (5) bekezdése iktatta be.
+[^75]: A Vhr. 23/B. §-t megelőző jogszabályi hivatkozást a 24/2015. (IX. 21.) IM rendelet 1. § (5) bekezdése iktatta be.
+[^76]: A Vhr. 23/B. §-át a 24/2015. (IX. 21.) IM rendelet 1. § (5) bekezdése iktatta be.

@@ -1,3 +1,5 @@
 ## (A Ktv. 24. §-ához)
 
-9. § Ha a közjegyző az állásáról lemondott, közjegyzői működését mindaddig köteles folytatni, amíg a felmentéséről szóló okiratot kézhez nem vette.
+9. §[^32]
+
+[^32]: A Vhr. 9. §-át a 20/2017. (XII. 21.) IM rendelet 4. § (9) bekezdés c) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-22/B. §[^60] (1) A közjegyző az elektronikus levéltárban történő elhelyezéskor vagy azt megelőzően készített elektronikus hiteles kiadmányt – hitelesítési záradék nélkül – hivatali elektronikus aláírásával látja el. Ugyanígy kell eljárni az elektronikus letéti tárban elhelyezett okiratról elektronikus hiteles másolat készítése esetén.
+22/B. §[^63] (1) A közjegyző az elektronikus levéltárban történő elhelyezéskor vagy azt megelőzően készített elektronikus hiteles kiadmányt – hitelesítési záradék nélkül – hivatali elektronikus aláírásával látja el. Ugyanígy kell eljárni az elektronikus letéti tárban elhelyezett okiratról elektronikus hiteles másolat készítése esetén.
 
 (2) Ha a közjegyző az elektronikus okiratról papír alapú hiteles másolatot, kiadmányt készít, úgy azt hitelesítési záradékkal, aláírásával és hivatali bélyegzőjének lenyomatával látja el.
 
@@ -8,4 +8,4 @@
 
 (5) A 22/A. §-ban és e §-ban nem szabályozott, papír alapú okiratról elektronikus úton készített hiteles másolatot hitelesítési záradékkal és a közjegyző hivatali elektronikus aláírásával kell ellátni.
 
-[^60]: A Vhr. 22/B. §-át a 33/2008. (XII. 31.) IRM rendelet 2. §-a iktatta be.
+[^63]: A Vhr. 22/B. §-át a 33/2008. (XII. 31.) IRM rendelet 2. §-a iktatta be.

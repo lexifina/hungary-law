@@ -34,7 +34,7 @@
 
 ## 1. Hagyatéki ügy
 
-## 2. Értékpapír- és okirat semmissé nyilvánítási ügy
+## 2. Értékpapír és okirat semmissé nyilvánítási ügy
 
 ## 3. Zálogjogi nyilvántartással összefüggő ügy
 
@@ -58,17 +58,17 @@
 
 ## 12. A házassági és az élettársi vagyonjogi szerződések elektronikus nyilvántartásába történő bejegyzésére és a bejegyzett vagyonjogi szerződés módosítása, törlése, megszüntetése vagy megszűnése tényének bejegyzésére irányuló nemperes eljárás
 
-## 13/a. közjegyzői letétbevételi kérelem záradékolása
+## 13. Közjegyzői letéti eljárás
 
-## 13/b. közjegyzői letét kiutalásáról szóló határozat
+## 14. Közjegyző előtti egyezségi eljárás
 
-## 14. Összesen
+## 15. Összesen
 
-## 5K19736M_2
+## 7K35255N_2
 
-| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 
-|  |  |  |  |  |  |  |  | a | b |  |  |  | a | b |  |
+| a | b |  |
 
 | Előző hónapról folyamatban maradt |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -90,31 +90,29 @@
 
 | Felterjesztett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Fel nem terjesztett fellebbezések | Intézkedést igénylő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fel nem terjesztett | Intézkedést igénylő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Visszavonás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| fellebbezések | Visszavonás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  | Elutasítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | A másodfokú bíróságról | Helybenhagyás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| visszaérkezett | Hat. kívül helyezés, új eljárás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| visszaérkezett ügyekben hozott | Hat. kívül helyezés, új eljárás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| ügyekben hozott határozatok: | Megváltoztatás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| határozatok: | Megváltoztatás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az európai fizetési meghagyásos ügyekben érkezett ellentmondások száma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A befejezett | 0–3 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| A befejezett ügyekben | 0-3 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| ügyekben az eljárás | 3–6 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| az eljárás | 3-6 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | 6–12 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 6-12 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  | 1 év felett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  | 2 év felett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-## * A kezdőirat érkezésétől a befejezésig eltelt idő. A határértékek az alacsonyabb kategóriában vannak feltüntetve.
 
 ## 4. Végrehajtás elrendelése iránti ügyek – kivéve fizetési meghagyásos ügyek és fizetési meghagyás alapján végrehajtás elrendelése és biztosítási intézkedés elrendelése iránti ügyek
 
@@ -164,7 +162,7 @@
 
 | Kiállított európai öröklési bizonyítványok száma: |  |
 
-6. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^130]
+6. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^135]
 
 Közjegyző okirat-szerkesztési eljárására irányuló kérelem
 
@@ -238,4 +236,4 @@ Aláírás
 
 ** A választ jelölje X-szel.
 
-[^130]: A Vhr. 6. számú mellékletét a 24/2015. (IX. 21.) IM rendelet 1. § (7) bekezdése iktatta be.
+[^135]: A Vhr. 6. számú mellékletét a 24/2015. (IX. 21.) IM rendelet 1. § (7) bekezdése iktatta be.

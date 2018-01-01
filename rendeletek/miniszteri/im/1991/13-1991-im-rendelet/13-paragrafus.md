@@ -1,8 +1,9 @@
-13. § (1) A területi kamara elnöke ellenőrzi a közjegyzőjelöltek és a közjegyzőhelyettesek foglalkoztatását és gyakorlati képzését.
+13. § (1)[^38] A területi kamara elnöke szakmai ellenőrzési jogkörében vizsgálja a közjegyzőjelöltek és a közjegyzőhelyettesek foglalkoztatását és gyakorlati képzését.
 
-(2)[^36] A területi kamara elnöke minősíti a közjegyzőhelyettest, ha közjegyzői állásra pályázik.
+(2)[^39] A területi kamara elnöke minősíti a közjegyzőhelyettest, ha közjegyzői állásra pályázik.
 
-(3)[^37] A területi elnökség a közjegyzőhelyettest szolgálati érdekből átmenetileg más közjegyző mellé oszthatja be, illetőleg a közjegyző akadályoztatása esetén vagy megüresedett közjegyzői állás helyettesítésére rendelheti ki. A közjegyzőhelyettes részére a helyettesítés időtartamára az őt foglalkoztató közjegyző fizetés nélküli szabadságot engedélyez.
+(3)[^40] A területi elnökség a közjegyzőhelyettest szolgálati érdekből átmenetileg más közjegyző mellé oszthatja be, illetőleg a közjegyző akadályoztatása esetén vagy megüresedett közjegyzői állás helyettesítésére rendelheti ki. A közjegyzőhelyettes részére a helyettesítés időtartamára az őt foglalkoztató közjegyző fizetés nélküli szabadságot engedélyez.
 
-[^36]: A Vhr. 13. § (2) bekezdése a 7/1999. (VII. 16.) IM rendelet 8. §-ával megállapított szöveg.
-[^37]: A Vhr. 13. § (3) bekezdése a 7/1999. (VII. 16.) IM rendelet 8. §-ával megállapított szöveg.
+[^38]: A Vhr. 13. § (1) bekezdése a 20/2017. (XII. 21.) IM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^39]: A Vhr. 13. § (2) bekezdése a 7/1999. (VII. 16.) IM rendelet 8. §-ával megállapított szöveg.
+[^40]: A Vhr. 13. § (3) bekezdése a 7/1999. (VII. 16.) IM rendelet 8. §-ával megállapított szöveg.
