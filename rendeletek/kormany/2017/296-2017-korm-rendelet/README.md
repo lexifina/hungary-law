@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-296-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-10-11 | 2017-296-20-22.1 | 296/2017. (X. 10.) Korm. rendelet |
+| 2018-01-01 | 2017-296-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
