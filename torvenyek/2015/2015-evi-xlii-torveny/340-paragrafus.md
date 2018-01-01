@@ -38,4 +38,6 @@
 
 17. megállapítsa az országos parancsnok és helyettese, valamint az országos főigazgató és helyettese számára adható, valamint őket megillető juttatások fajtáit, mértékét, a jogosultság feltételeit, a megállapítás és a kifizetés részletes rendjét,
 
-18. meghatározza a személyi állomány kártalanítására vonatkozó esetköröket, valamint a kártalanítással kapcsolatos további feladatokat.
+18. meghatározza a személyi állomány kártalanítására vonatkozó esetköröket, valamint a kártalanítással kapcsolatos további feladatokat,
+
+19. megállapítsa a nemzetközi közigazgatási szakértői tevékenység tartalmát, típusát, ellátásának feltételrendszerét, a nemzetközi közigazgatási szakértői tevékenység engedélyezésére és a célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályokat.

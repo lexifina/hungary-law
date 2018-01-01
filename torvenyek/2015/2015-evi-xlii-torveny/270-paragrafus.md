@@ -1,6 +1,6 @@
 ## 110. A bíróság előtti jogvita
 
-270. § (1) A hivatásos állomány tagja a szolgálati viszonyból származó jogvita esetén harminc napon belül keresettel fordulhat a bírósághoz
+270. § (1) A hivatásos állomány tagja a szolgálati viszonyból származó jogvita esetén keresettel fordulhat a bírósághoz
 
 a) ha – a d) pontban meghatározott kivétellel – a szolgálati panaszát, az elsőfokú határozat elleni panaszát vagy fellebbezését elutasították, vagy
 
@@ -18,4 +18,4 @@ a) a rendvédelmi szervnek azzal a szervezeti egységével, vagy ha a szolgálat
 
 b) az (1) bekezdés b) pontja esetében a szolgálatteljesítési hely szerinti szervezeti egységgel szemben indíthatja meg.
 
-(4) A keresetlevél benyújtására megállapított határidőt megtartottnak kell tekinteni, ha a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet.
+(4)

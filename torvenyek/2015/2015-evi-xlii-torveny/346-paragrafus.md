@@ -4,6 +4,10 @@
 
 (3) A címzetes rendfokozatot a hivatásos állomány tagja mindaddig viseli, amíg a besorolás szerinti rendfokozata meg nem egyezik a címzetes rendfokozottal. Ezen időpontot követően a hivatásos állomány tagja a besorolás szerinti rendfokozatot viseli tovább akkor is, ha szolgálati beosztásának megváltozása miatt a besorolás szerinti rendfokozata alacsonyabb a korábbi címzetes rendfokozatnál.
 
+(3a) A (2) bekezdésben foglaltakon túl a korábbi rendfokozatát címzetes jelzővel viseli a hivatásos állomány azon tagja is, aki e törvény hatálybalépésének napját követő besorolása alapján a besorolását megelőző napon viselt rendfokozatánál alacsonyabb rendfokozatba kerül besorolásra. Ebben az esetben a címzetes rendfokozatot a hivatásos állomány tagja addig viseli, amíg a besorolás szerinti rendfokozata meg nem egyezik a címzetes rendfokozattal. Ha a hivatásos állomány címzetes rendfokozatot viselő tagja a szolgálati beosztásának változása következtében ismételten alacsonyabb rendfokozatba kerül besorolásra, akkor a hivatásos állomány tagja dönti el, hogy az eredeti címzetes rendfokozatot viseli-e a továbbiakban is címzetes rendfokozatként, vagy a szolgálati beosztás megváltozása előtt elért rendfokozatot viseli a továbbiakban címzetes rendfokozatként.
+
+(3b) A (3a) bekezdést kell alkalmazni a hivatásos állomány azon tagja esetében is, akinek szolgálati viszonya 2015. július 2. és 2017. december 31. között az 52. § (2) bekezdése alapján módosításra került és ez alapján az e törvény hatálybalépésének napját megelőző napon viselt rendfokozatánál alacsonyabb rendfokozatba került.
+
 (4) A munkáltatói intézkedéseken a címzetes és a besorolás szerinti rendfokozatot egyaránt fel kell tüntetni.
 
 (5) A rendfokozatban visszavetés fenyítés alkalmazása esetén a hivatásos állomány címzetes rendfokozatot viselő tagja esetében a címzetes rendfokozat tekintetében kell a fenyítést végrehajtani. A szolgálati viszony megszüntetése fenyítés alkalmazása esetén a hivatásos állomány címzetes rendfokozatot viselő tagja a címzetes rendfokozatát is elveszíti.

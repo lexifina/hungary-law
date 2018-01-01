@@ -12,7 +12,7 @@ b) aki rendelkezik a tervezett szolgálati beosztás besorolási osztálya szeri
 
 c) aki a hivatásos szolgálatra és a tervezett szolgálati beosztására egészségi, pszichikai és fizikai szempontból alkalmas,
 
-d) akinek életvitele nem kifogásolható, és aki hozzájárul annak a szolgálati viszony létesítését megelőző, valamint a szolgálati viszony fennállása alatti ellenőrzéséhez,
+d) akinek életvitele nem kifogásolható, és aki hozzájárul annak a szolgálati viszony létesítését megelőző, valamint a szolgálati viszony fennállása alatti ellenőrzéséhez, továbbá tudomásul veszi, hogy a szolgálati viszony fennállása alatt a hozzájárulás visszavonása szolgálati viszonya törvény erejénél fogva történő megszűnését eredményezi,
 
 e) aki elfogadja egyes alapvető jogainak e törvény szerinti korlátozását,
 

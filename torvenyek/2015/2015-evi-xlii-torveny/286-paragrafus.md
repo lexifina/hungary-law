@@ -17,3 +17,5 @@ c) a tiszti rendfokozati állománycsoportba tartozó rendfokozatba történő k
 (6) Ha a tisztjelölti jogviszony neki felróható okból szűnik meg, a tisztjelölt a képzés költségeit miniszteri rendeletben meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a tisztjelölti szolgálati viszony megszűnését követő naptól esedékes.
 
 (7) A tisztjelölt hallgatói jogviszonyának szünetelése a tisztjelölti jogviszonyának fennállását nem érinti. A tisztjelölt a munkáltatói jogkört gyakorlótól kérheti, hogy a hallgatói jogviszonya szüneteltetésével egyidejűleg különös méltánylást érdemlő egyéni érdekére tekintettel a tisztjelölti jogviszony szünetelését engedélyezze.
+
+(8) Szabadságra kizárólag a hallgatói jogviszony szünetelésének időtartama alatt szolgálati feladatokat ellátó tisztjelölt jogosult. A tisztjelöltet ezen időtartamra a 143-146. §-ban foglaltak alkalmazása helyett a heti szolgálatteljesítési idejének alapulvételével megállapított, évi öt heti szolgálatteljesítésnek megfelelő mértékű alapszabadság időarányos része illeti meg.

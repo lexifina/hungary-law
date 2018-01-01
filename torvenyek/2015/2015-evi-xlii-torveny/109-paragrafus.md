@@ -17,3 +17,5 @@ b) gazdasági társaságban – munkavégzésre irányuló egyéb jogviszonynak 
 (5) Nem kell engedélyeztetni vagy bejelenteni a szolgálati időn kívül végzett tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenység folytatását és a nevelőszülői foglalkoztatási jogviszony létesítését.
 
 (6) Nem adható engedély, ha a munkavégzéssel járó egyéb jogviszony, a civil szervezetben való részvétel vagy tisztségviselés ellentétes a rendvédelmi szerv feladataival, vagy veszélyezteti a szolgálat kötelességszerű, pártatlan és befolyástól mentes ellátását, vagy a rendvédelmi szerv tekintélyét.
+
+(7) Nem keletkeztet összeférhetetlenséget a nemzetközi közigazgatási szakértői tevékenység, ha a kormánytisztviselő és a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet közötti, erre irányuló megállapodást a munkáltatói jogkör gyakorlója előzetesen engedélyezte és a tevékenység időtartama tárgyévenként a hat hónapot nem haladhatja meg.

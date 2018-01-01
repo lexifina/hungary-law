@@ -22,7 +22,17 @@ e) a baleset vagy betegség szolgálattal való összefüggését minősítő ha
 
 (6) A szolgálati viszony létesítésével, a szolgálati viszony módosításával és a szolgálati viszony megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, méltatlansági vagy kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható.
 
-(7) A szolgálati viszony módosításával és a szolgálati viszony megszüntetésével összefüggésben, a fegyelmi, méltatlansági vagy kártérítési ügyben, a sérelemdíj megfizetése ügyében, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás tárgyában a hivatásos állomány tagja nyilatkozatát legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus dokumentumban teheti meg.
+(7) A szolgálati viszony módosításával és a szolgálati viszony megszüntetésével összefüggésben, a fegyelmi, méltatlansági vagy kártérítési ügyben, a sérelemdíj megfizetése ügyében, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás tárgyában a hivatásos állomány tagja legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus dokumentumban teszi meg a következő jognyilatkozatokat:
+
+a) a munkáltatói jogkör gyakorlója által kezdeményezett, a munkáltatói intézkedés érvényességéhez szükséges munkáltatói intézkedésre tett jognyilatkozat,
+
+b) a hivatásos állomány tagjának munkáltatói intézkedés megtételét kezdeményező jognyilatkozata,
+
+c) a munkáltatói intézkedéssel szemben benyújtott szolgálati panasz, valamint
+
+d) ha a munkáltatói jogkör gyakorlója a hivatásos állomány tagja eljárási cselekményeit rögzítő jegyzőkönyvet elektronikus dokumentumban állítja ki.
+
+(7a) Ha az elektronikus dokumentum kiállítása bármely okból nem lehetséges, a hivatásos állomány tagja jognyilatkozatát papíralapú dokumentumban teszi meg.
 
 (8) Többoldalú jognyilatkozat esetén, ha a munkáltatói jogkör gyakorlója az iratot a (6) bekezdés szerint elektronikusan írja alá, az akarategységet hitelesen tükröző kiadmány az a papír alapú kiadmány, amely a munkáltatói jogkör gyakorlójának legalább fokozott biztonságú aláírását tartalmazó elektronikus iratról – a (7) bekezdés rendelkezései alapján – készült és egyidejűleg tartalmazza az iratot nem elektronikusan aláíró személy aláírását is.
 

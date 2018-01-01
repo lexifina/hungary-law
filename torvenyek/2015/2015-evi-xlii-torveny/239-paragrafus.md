@@ -5,3 +5,5 @@
 (3) A kártérítési eljárásban hozott másodfokú határozattal szemben a kártérítésre kötelezett bírósághoz fordulhat.
 
 (4) Az Országgyűlési Őrség parancsnokának a határozata ellen panasznak nincs helye, a határozat ellen a kártérítésre kötelezett bírósághoz fordulhat.
+
+(5) Ha a kártérítésre kötelezett a (3) bekezdés szerinti másodfokú határozattal vagy (4) bekezdés szerinti határozattal szemben nem él keresettel, a kártérítésre vonatkozó határozat végrehajtható.

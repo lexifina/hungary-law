@@ -26,4 +26,4 @@ k) 24. pontjában meghatározott tárgykört.
 
 (3) A 341. § (4) bekezdésében foglaltaktól eltérően a polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben határozza meg a 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában az illetményemelkedés szempontjából a rendvédelmi szerv alapfeladatába tartozó szolgálati beosztások felsorolását.
 
-(4) A polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben határozza meg azon szolgálati beosztásokat, ahol a 6/A. § (3)–(5) bekezdése, valamint a 362/C. § nem alkalmazható.
+(4) A polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben határozza meg azon hivatásos szolgálati beosztásokat és közalkalmazotti munkaköröket, ahol a 6/A. § (3)–(5) bekezdése, valamint a 362/C. § nem alkalmazható.

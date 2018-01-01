@@ -20,7 +20,7 @@ a) politikai párt tagja,
 
 b) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti állami vezető,
 
-c) olyan személy, aki más kamara tagja, továbbá
+c) olyan személy, aki más kamara tisztségviselője, továbbá
 
 d) olyan személy, akit szakszervezeti tisztségviselőnek megválasztottak.
 

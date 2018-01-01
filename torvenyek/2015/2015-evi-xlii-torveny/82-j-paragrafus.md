@@ -6,7 +6,7 @@ b) ha az egészségkárosodási ellátásra jogosult saját jogú nyugellátásr
 
 c) ha az egészségkárosodási ellátásra jogosult lemond az egészségkárosodási ellátásról,
 
-d) ha a rendvédelmi szerv által továbbfoglalkoztatott jogosult érdekkörében felmerült okból a foglalkoztatási jogviszonya megszűnik, a 82/H. § (1) bekezdése szerinti esetet kivéve,
+d) ha a rendvédelmi szerv által továbbfoglalkoztatott jogosultnak felróható okból a foglalkoztatási jogviszonya megszűnik, a 82/H. § (1) bekezdése szerinti esetet kivéve,
 
 e) ha egészségjavulás eredményeként a jogosult egészségi állapota lehetővé teszi a szolgálati viszony ismételt létesítését és az érintett a részére felajánlott, képzettségének és végzettségének megfelelő szolgálati beosztást nem fogadja el,
 

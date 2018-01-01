@@ -38,7 +38,7 @@ j) megbízás helyettesítésre,
 
 k) szolgálati viszony szüneteltetése,
 
-l) rendelkezési állományba helyezés,
+l) rendelkezési állományba helyezés, valamint rendelkezési állományba helyezés megszűnését követően szolgálati beosztásba helyezés,
 
 m) nyugdíj előtti rendelkezési állományba helyezés,
 

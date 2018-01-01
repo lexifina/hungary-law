@@ -10,7 +10,7 @@
 
 (5) Ha a jogosult igényét menthető okból nem tudta érvényesíteni, az akadály megszűnésétől számított hat hónapon belül ezt akkor is megteheti, ha az elévülési idő már eltelt, vagy abból hat hónapnál kevesebb van hátra.
 
-(6) Az elévülést megszakítja az igény bírósági érvényesítése iránti keresetindítás, a kereset megegyezéssel történő módosítása, az egyezségkötés, valamint a kötelezett elismerése.
+(6) Az elévülést megszakítja az igény bírósági érvényesítése iránti keresetindítás, a keresetváltoztatás, az egyezségkötés, valamint a kötelezett elismerése.
 
 (7) Az elévülés megszakadása, valamint az elévülés megszakítását előidéző eljárás jogerős befejezése után az elévülési idő újra kezdődik. Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak, az elévülést csak a végrehajtási cselekmények szakítják meg.
 

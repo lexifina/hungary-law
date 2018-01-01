@@ -10,8 +10,10 @@ b) szolgálati viszonyát a 86. § (2) bekezdés d) pontja alapján méltatlans�
 
 c) fegyelmi ügyben vele szemben szolgálati viszony megszüntetés fenyítést szabtak ki, és a fegyelmi ügyben hozott érdemi határozat ellen benyújtott panaszt elutasították, vagy a panasz benyújtásának lehetőségét e törvény kizárja.
 
+(1a) Az (1) bekezdésben meghatározott esetekben a Becsületbíróság összehívását a hivatásos állomány volt tagja is kérheti, ha a sérelmezett döntés következtében szolgálati viszonya megszűnt.
+
 (2) A hivatásos állomány tagja a Becsületbíróság összehívását a sérelmezett döntést hozó elöljárónál kezdeményezheti a döntés kézhezvételétől számított nyolc napon belül.
 
 (3) A Becsületbíróság eljárásában a hivatásos állomány tagja szolgálati viszonyának fenntarthatóságáról dönt.
 
-(4) Az (1) bekezdés szerinti munkáltatói intézkedések esetében a bírósághoz keresetet benyújtani a Becsületbíróság döntésének kézhezvételétől számított harminc napon belül lehet. A keresetet a 270. § (3) bekezdésének alkalmazásával a rendvédelmi szerv szervezeti egysége ellen kell benyújtani.
+(4) Az (1) bekezdés szerinti munkáltatói intézkedések esetében a közigazgatási ügyben eljáró bírósághoz keresetet benyújtani a Becsületbíróság döntésének kézhezvételétől számított harminc napon belül, a munkáltatói intézkedéssel szemben lehet. A keresetet a 270. § (3) bekezdésének alkalmazásával a rendvédelmi szerv szervezeti egysége ellen kell benyújtani.

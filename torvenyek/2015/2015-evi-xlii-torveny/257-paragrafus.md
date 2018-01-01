@@ -10,6 +10,6 @@
 
 (4) A minősítő határozat ellen a hivatásos állomány tagja a kézbesítéstől számított tizenöt napon belül a miniszter által meghatározott szervhez fellebbezéssel élhet. A hivatásos állomány tagja halálának vagy nyilatkozat tételére képtelen egészségi állapottal járó balesetének, megbetegedésének a szolgálati kötelmekkel való összefüggése kérdésében hozott határozat ellen a közeli hozzátartozó nyújthat be fellebbezést.
 
-(5) A fellebbezést a miniszter által meghatározott szerv harminc napon belül bírálja el. E határidő egy alkalommal harminc nappal meghosszabbítható. A másodfokú eljárásban hozott határozattal szemben a bírósághoz keresetet lehet benyújtani.
+(5) A fellebbezést a miniszter által meghatározott szerv harminc napon belül bírálja el. E határidő egy alkalommal harminc nappal meghosszabbítható. A másodfokú eljárásban hozott határozattal szemben bírósághoz lehet fordulni.
 
-(6) Az Országgyűlési Őrség hivatásos állományának tagja esetében a (4) bekezdésben foglaltaktól eltérően a minősítő határozat ellen fellebbezésnek nincs helye, a határozat ellen keresetet lehet a bírósághoz benyújtani.
+(6) Az Országgyűlési Őrség hivatásos állományának tagja esetében a (4) bekezdésben foglaltaktól eltérően a minősítő határozat ellen fellebbezésnek nincs helye.

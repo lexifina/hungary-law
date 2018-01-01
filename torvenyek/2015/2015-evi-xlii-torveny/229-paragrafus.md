@@ -8,6 +8,6 @@ b) az ellenőrzési kötelezettsége elmulasztásával vagy hiányos teljesíté
 
 c) hatósági jogkörben eljárva a jogszabályok megsértésével okozta a kárt, vagy
 
-d) a kár olyan – jogszabályba ütköző – parancs, utasítás teljesítéséből keletkezett, amelynek következményeire az utasított károkozó előzőleg felhívta a figyelmet.
+d) a kár olyan – jogszabályba ütköző – parancs, utasítás teljesítéséből keletkezett, amelynek következményeire az utasított előzőleg felhívta a figyelmet.
 
 (3) Az (1) és (2) bekezdés szempontjából a hivatásos állomány tagjának a kártérítésre kötelezésről szóló határozat meghozatalakor érvényes alapilletményét kell alapul venni.

@@ -1,4 +1,4 @@
-243. § (1) A rendvédelmi szerv a vétkességére tekintet nélkül felel a kárért, ha az olyan betegség következménye, amely
+243. § (1) A rendvédelmi szerv a vétkességére tekintet nélkül felel a kárért, ha az olyan baleset vagy betegség következménye, amely
 
 a) a szolgálat teljesítésével összefüggésben keletkezett, vagy
 
@@ -8,4 +8,4 @@ b) a szolgálat sajátosságaival összefüggésben jelentősen súlyosbodott.
 
 (3) Az (1) bekezdésben meghatározott betegségen kívüli egyéb megbetegedés folytán keletkezett kárért a rendvédelmi szerv csak vétkessége esetén felel.
 
-(4) A rendvédelmi szerv a szolgálati viszonnyal összefüggő balesetből eredő személyi kárért vétkességére tekintet nélkül felel.
+(4)

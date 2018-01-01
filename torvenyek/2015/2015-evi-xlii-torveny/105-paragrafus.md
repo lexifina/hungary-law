@@ -14,6 +14,8 @@ f) tanúzási kötelezettség teljesítése esetén a megjelenéshez és a köte
 
 g) ha elháríthatatlan ok miatt nem tud a szolgálatteljesítési helyén megjelenni,
 
-h) a szolgálati viszonyra vonatkozó szabály vagy az állományilletékes parancsnok engedélye alapján.
+h) a szolgálati viszonyra vonatkozó szabály vagy az állományilletékes parancsnok engedélye alapján,
+
+i) az egészségkárosodási ellátásra jogosultság megállapítására irányuló eljárás alatt az eljárás során elfogadott szolgálati beosztásba vagy nem hivatásos munkakörbe helyezéséig, vagy ha erre nem kerül sor, az egészségkárosodási ellátásra jogosultság tárgyában hozott döntés meghozataláig.
 
 (2) A szolgálatteljesítési kötelezettség alóli (1) bekezdés szerinti mentesülés esetében a hivatásos állomány tagja a távollét idejére távolléti díjra jogosult.
