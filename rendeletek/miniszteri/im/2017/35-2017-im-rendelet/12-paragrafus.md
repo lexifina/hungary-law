@@ -1,3 +1,5 @@
-## 11. §[^4]
+## 11. § Az IRM rendelet „A szakértői testület díjazása” alcíme helyébe a következő alcím lép:
 
-[^4]: A 11. § a 17. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## „A szakértői testület tagjainak díjazása
+
+## 19. § A szakértői vélemény elkészítéséért az eseti bizottság tagjait díj illeti meg. E díj mértékét a szakértői testület ügyrendjében kell meghatározni és azt a szakértői testülethez befolyt díjból kell megfizetni.”
