@@ -4,6 +4,6 @@
 
 (2) A 36–39. §, a 10. melléklet és a 11. melléklet 2015. január 1-jén lép hatályba.
 
-(3)[^71] A 40. és 41. § 2018. január 1-jén lép hatályba.
+(3)[^75] A 40. és 41. § 2018. január 1-jén lép hatályba.
 
-[^71]: A 32. § (2) bekezdése az 525/2017. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^75]: A 32. § (3) bekezdése az 525/2017. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

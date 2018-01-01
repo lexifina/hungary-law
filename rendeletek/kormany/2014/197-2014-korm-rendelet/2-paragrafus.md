@@ -1,6 +1,6 @@
 ## 2. Értelmező rendelkezések
 
-2. §[^2] (1) E rendelet alkalmazásában:
+2. §[^3] (1) E rendelet alkalmazásában:
 
 1. aktív beültethető orvostechnikai eszköz: az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet 4. § (1) bekezdés 5. pontja szerinti elektromos vagy elektronikus berendezés;
 
@@ -14,7 +14,7 @@
 
 6. finanszírozási megállapodás: valamilyen elektromos, elektronikus berendezéssel kapcsolatos hitel-, bérleti, haszonbérleti vagy részletfizetési szerződés vagy megállapodás, függetlenül attól, hogy a szerződés vagy megállapodás, illetve bármely kiegészítő szerződés vagy megállapodás rendelkezik-e az elektromos, elektronikus berendezés tulajdonjogának átruházásáról vagy annak lehetőségéről;
 
-7.[^3] forgalmazó: az a természetes személy vagy a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2. § (1) bekezdés 14. pontjában meghatározott forgalmazó, aki, illetve amely az elektromos, elektronikus berendezés piaci hozzáférhetőségét biztosítja;
+7.[^4] forgalmazó: az a természetes személy vagy a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2. § (1) bekezdés 14. pontjában meghatározott forgalmazó, aki, illetve amely az elektromos, elektronikus berendezés piaci hozzáférhetőségét biztosítja;
 
 8. forgalomba hozatal: valamely elektromos, elektronikus berendezés piaci hozzáférhetőségének első alkalommal történő üzletszerű biztosítása Magyarország területén;
 
@@ -60,5 +60,5 @@ c) amelyek kizárólag ugyanolyan speciális kialakítású berendezésekkel hel
 
 (2) E rendeletben az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben, és az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletben meghatározott fogalmak is alkalmazandóak.
 
-[^2]: A 2. § a 370/2014. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^3]: A 2. § (1) bekezdés 7. pontja az 525/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § a 370/2014. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 7. pontja az 525/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

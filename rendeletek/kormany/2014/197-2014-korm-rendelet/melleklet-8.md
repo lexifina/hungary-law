@@ -1,4 +1,4 @@
-8. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^90]
+8. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^95]
 
 ## A közvetítő szervezet, az állami hulladékgazdálkodást közvetítő szervezet és az átvállaló adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
 
@@ -16,13 +16,13 @@ d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége.
 
 1.2. A közvetítő szervezet tevékenységére vonatkozó adatok:
 
-a) HEE-4 adatlap: a tárgyévet megelőző évben átvett, gyűjtött elektromos, elektronikus berendezés hulladékának mennyisége (tömeg szerint, berendezés-kategóriánként, típusonként bontva);
+a) HEEB-4 adatlap: a tárgyévet megelőző évben átvett, gyűjtött elektromos, elektronikus berendezés hulladékának mennyisége (tömeg szerint, berendezéskategóriánként, típusonként bontva);
 
-b) HEE-5 adatlap: a tárgyévet megelőző évben Magyarországon, másik tagállamban, valamint az Európai Unión kívül kezelt hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként bontva);
+b) HEEB-5 adatlap: a tárgyévet megelőző évben Magyarországon, másik tagállamban, valamint az Európai Unión kívül kezelt hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezéskategóriánként bontva);
 
-c) HEE-6 adatlap: a tárgyévet megelőző évben hasznosított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként, átvállalónként bontva), feltüntetve az átvállalónak átadott mennyiséget, az átvállaló által újrahasználatra előkészített és újrafeldolgozott mennyiséget (újrahasználatra előkészítési és újrafeldolgozási arányszám), valamint az égetéssel hasznosított mennyiséget;
+c) HEEB-6 adatlap: a tárgyévet megelőző évben hasznosított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezéskategóriánként, átvállalónként bontva), feltüntetve az átvállalónak átadott mennyiséget, az átvállaló által újrahasználatra előkészített és újrafeldolgozott mennyiséget (újrahasználatra előkészítési és újrafeldolgozási arányszám), valamint az égetéssel hasznosított mennyiséget;
 
-d) HEE-8 adatlap: a tárgyévet megelőző évben ártalmatlanított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként, átvállalónként bontva), feltüntetve az égetéssel ártalmatlanított mennyiséget, a lerakással ártalmatlanított mennyiséget.
+d) HEEB-8 adatlap: a tárgyévet megelőző évben ártalmatlanított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezéskategóriánként, átvállalónként bontva), feltüntetve az égetéssel ártalmatlanított mennyiséget, a lerakással ártalmatlanított mennyiséget.
 
 2. Az állami hulladékgazdálkodást közvetítő szervezet:
 
@@ -38,13 +38,13 @@ d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége.
 
 2.2. Az állami hulladékgazdálkodást közvetítő szervezet tevékenységére vonatkozó adatok:
 
-a) HEE-4 adatlap: a tárgyévet megelőző évben átvett, gyűjtött elektromos, elektronikus berendezés hulladékának mennyisége (tömeg szerint, berendezés-kategóriánként, típusonként bontva);
+a) HEEB-4 adatlap: a tárgyévet megelőző évben átvett, gyűjtött elektromos, elektronikus berendezés hulladékának mennyisége (tömeg szerint, berendezéskategóriánként, típusonként bontva);
 
-b) HEE-5 adatlap: a tárgyévet megelőző évben Magyarországon, másik tagállamban, valamint az Európai Unión kívül kezelt hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként bontva);
+b) HEEB-5 adatlap: a tárgyévet megelőző évben Magyarországon, másik tagállamban, valamint az Európai Unión kívül kezelt hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezéskategóriánként bontva);
 
-c) HEE-6 adatlap: a tárgyévet megelőző évben hasznosított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként, átvállalónként bontva), feltüntetve az átvállalónak átadott mennyiséget, az átvállaló által újrahasználatra előkészített és újrafeldolgozott mennyiséget (újrahasználatra előkészítési és újrafeldolgozási arányszám), valamint az égetéssel hasznosított mennyiséget;
+c) HEEB-6 adatlap: a tárgyévet megelőző évben hasznosított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezéskategóriánként, átvállalónként bontva), feltüntetve az átvállalónak átadott mennyiséget, az átvállaló által újrahasználatra előkészített és újrafeldolgozott mennyiséget (újrahasználatra előkészítési és újrafeldolgozási arányszám), valamint az égetéssel hasznosított mennyiséget;
 
-d) HEE-8 adatlap: a tárgyévet megelőző évben ártalmatlanított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként, átvállalónként bontva), feltüntetve az égetéssel ártalmatlanított mennyiséget, a lerakással ártalmatlanított mennyiséget.
+d) HEEB-8 adatlap: a tárgyévet megelőző évben ártalmatlanított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezéskategóriánként, átvállalónként bontva), feltüntetve az égetéssel ártalmatlanított mennyiséget és a lerakással ártalmatlanított mennyiséget.
 
 3. Az átvállaló:
 
@@ -58,6 +58,6 @@ c) az átvállaló nemzeti adóazonosító száma;
 
 d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége.
 
-3.2. HEE-10 adatlap: a tárgyévet megelőző évben átvett, gyűjtött hulladékká vált elektromos és elektronikus berendezés hulladéka (tömeg szerint, berendezés-kategóriánként, gyártónként bontva).
+3.2. HEEB-10 adatlap: a tárgyévet megelőző évben átvett, gyűjtött hulladékká vált elektromos és elektronikus berendezés hulladéka (tömeg szerint, berendezéskategóriánként, gyártónként bontva).
 
-[^90]: A 8. melléklet a 310/2014. (XII. 11.) Korm. rendelet – 368/2014. (XII. 30.) Korm. rendelet 12. § (7) és (8) bekezdése szerint módosított – 19. § (8) bekezdésével megállapított szöveg.
+[^95]: A 8. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.
