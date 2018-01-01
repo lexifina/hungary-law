@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-68-20-1
 | 2011-01-01 | 2007-68-20-1U.4 | 41/2009. (IX. 15.) IRM rendelet |
 | 2015-07-01 | 2007-68-20-1U.5 | 37/2015. (VI. 16.) BM rendelet |
 | 2016-12-30 | 2007-68-20-1U.6 | 60/2016. (XII. 29.) BM rendelet |
+| 2018-01-01 | 2007-68-20-1U.7 | 44/2017. (XII. 29.) BM rendelet |
