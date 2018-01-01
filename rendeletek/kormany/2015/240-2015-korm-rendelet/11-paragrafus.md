@@ -10,6 +10,7 @@
 
 (5) Ha a CsSz illetékes területi szervének az Are tv. 23. §-a szerinti vizsgálata – így különösen a KHR adatbetekintés vagy KHR adatszolgáltatás – azzal az eredménnyel jár, hogy az adós az adósságrendezési eljárás megindítása érdekében már korábban másik kezdeményezést is benyújtott, és az adósságrendezés kezdeményezésének joghatása beállt, a CsSz területi szerve az ezt igazoló okiratot az adósságrendezési eljárással összefüggő iratokkal együtt haladéktalanul továbbítja az illetékes bírósághoz.
 
-(6) A (4) és (5) bekezdés, továbbá az Are. tv. 25. § (1) bekezdése szerinti esetekben a környezettanulmány elkészítése iránt csak akkor kell intézkedni, ha a bíróság az adósságrendezési eljárás kezdeményezése iránti kérelmet nem utasította el vagy az eljárást megszüntette.
+(6)[^9] A (4) és (5) bekezdés, továbbá az Are. tv. 25. § (1) bekezdése szerinti esetekben a környezettanulmány elkészítése iránt csak akkor kell intézkedni, ha a bíróság az adósságrendezési eljárás kezdeményezése iránti kérelmet nem utasította vissza, nem utasította el vagy az eljárást nem szüntette meg.
 
 [^8]: A 11. § (1) bekezdését a 471/2015. (XII. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^9]: A 11. § (6) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.

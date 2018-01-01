@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-240-20-
 | 2015-09-09 | 2015-240-20-22.1 | 240/2015. (IX. 8.) Korm. rendelet |
 | 2016-01-01 | 2015-240-20-22.2 | 471/2015. (XII. 29.) Korm. rendelet |
 | 2017-01-01 | 2015-240-20-22.3 | 477/2016. (XII. 27.) Korm. rendelet |
+| 2018-01-01 | 2015-240-20-22.4 | 393/2017. (XII. 13.) Korm. rendelet |
