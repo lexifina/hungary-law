@@ -12,7 +12,7 @@ a)[^36] a 4. adatlapon a Bnytv. 11. § (1) bekezdés c)–f) pontjában meghatá
 
 b)[^37] az 5. adatlapon a Bnytv. 11. § (1) bekezdés d)–g) pontjában meghatározott adatokat, annak tényét, ha a terhelt fiatalkorú, ha a bíróság az összbüntetési eljárás során jogerős ítéletet hozott, és az elítélt az ítélet jogerőre emelkedésének napján nem mentesült,
 
-c)[^38] az elismerésről, illetve a végrehajtás átvételéről szóló végzés megküldése mellett a 6. adatlapon a Bnytv. 11. § (1) bekezdés c)–f) és k) pontjában meghatározott adatokat, azt a tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, annak tényét, ha a terhelt fiatalkorú, a külföldi határozatot hozó bíróság megnevezését, határozatának számát, keltét és jogerőre emelkedésének napját, ha az elítélt az elismerésről szóló végzés jogerőre emelkedésének napján még nem mentesült,
+c)[^38] a külföldi ítélet elismeréséről, illetve az Európai Unió más tagállamában magyar állampolgárral szemben hozott, bűnösséget megállapító jogerős ítélet (a továbbiakban: tagállami ítélet) megfeleltetéséről, valamint a végrehajtás átvételéről szóló végzés megküldése mellett a 6. adatlapon a Bnytv. 11. § (1) bekezdés c)–f) és k) pontjában meghatározott adatokat, azt a tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, annak tényét, ha a terhelt fiatalkorú, ha az elítélt a külföldi ítélet elismeréséről vagy a tagállami ítélet megfeleltetéséről szóló végzés jogerőre emelkedésének napján még nem mentesült,
 
 d)[^39] a 7. adatlapon az alapeljárás során eljárt bíróság megnevezését, határozatának számát, a határozat jogerőre emelkedésének napját, valamint a Bnytv. 11. § (1) bekezdés c) és d) pontjában meghatározott adatokat, ha az elítéltet a bíróság a végleges hatályú foglalkozástól eltiltás, járművezetéstől eltiltás vagy kiutasítás végrehajtása alól mentesítette,
 
@@ -37,7 +37,7 @@ k)[^46] az erről szóló külön értesítés megküldésével a Bnytv. 11. § 
 [^35]: A 14. §-t és az azt megelőző alcímet a 17/2014. (XII. 19.) IM rendelet 36. § 4. pontja hatályon kívül helyezte.
 [^36]: A 15. § (1) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 73. § (4) bekezdésével megállapított, a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
 [^37]: A 15. § (1) bekezdés b) pontja a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
-[^38]: A 15. § (1) bekezdés c) pontja a 37/2015. (XII. 21.) IM rendelet 1. §-ával megállapított szöveg.
+[^38]: A 15. § (1) bekezdés c) pontja a 22/2017. (XII. 22.) IM rendelet 6. §-ával megállapított szöveg.
 [^39]: A 15. § (1) bekezdés d) pontja a 60/2012. (XII. 28.) KIM rendelet 4. § (2) bekezdésével megállapított, a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
 [^40]: A 15. § (1) bekezdés e) pontja a 60/2012. (XII. 28.) KIM rendelet 4. § (2) bekezdésével megállapított, a 17/2014. (XII. 19.) IM rendelet 36. § 3. pontja szerint módosított szöveg.
 [^41]: A 15. § (1) bekezdés f) pontja a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
