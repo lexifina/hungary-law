@@ -8,7 +8,7 @@
 
 3. kiállító: állami vagy önkormányzati muzeális intézmény, kiállítóhely, nyilvános könyvtár, továbbá közlevéltár vagy nyilvános magánlevéltár;
 
-4. kulturális javak: a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 7. § 4. pontjában meghatározott javak;
+4. kulturális javak: a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 7. § 10. pontjában meghatározott javak;
 
 5. nem magyar joghatóság alá tartozó tulajdonos vagy birtokos: a nem magyar állampolgár; valamint az a magyar állampolgár, akinek lakóhelye külföldön van; továbbá a nem magyarországi székhelyű szervezet;
 

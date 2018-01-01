@@ -1,4 +1,4 @@
-8. § A tanúsítvánnyal kapcsolatos eljárásra egyebekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit kell alkalmazni azzal, hogy a hatóság
+8. § A tanúsítvánnyal kapcsolatos eljárásra egyebekben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény rendelkezéseit kell alkalmazni azzal, hogy a hatóság
 
 a) az eljárás megindításáról honlapján és hirdetőtábláján történő közhírré tétel útján értesítést tesz közzé,
 
