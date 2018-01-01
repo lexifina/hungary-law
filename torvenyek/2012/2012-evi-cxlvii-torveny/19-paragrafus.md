@@ -18,11 +18,11 @@ c) ha az adóalany végelszámolási vagy felszámolási eljárás nélkül szű
 
 d) az adóalany egyesülését, szétválását megelőző nappal;
 
-e) az adóhatósági határozat jogerőre emelkedésének napját megelőző hónap utolsó napjával, ha az adóalany terhére az adó- vagy vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért jogerősen mulasztási bírságot, jövedéki bírságot állapított meg;
+e) az állami adó- és vámhatóság határozata véglegessé válásának napját megelőző hónap utolsó napjával, ha az adóalany terhére az állami adó- és vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért jogerősen mulasztási bírságot, jövedéki bírságot állapított meg;
 
-f) az adóalany adószámának alkalmazását felfüggesztő vagy törlő határozat jogerőre emelkedésének hónapját megelőző hónap utolsó napjával;
+f) az adóalany adószámának alkalmazását felfüggesztő vagy törlő határozat véglegessé válásának hónapját megelőző hónap utolsó napjával;
 
-g) az adóalanyiság megszűnéséről rendelkező határozat jogerőre emelkedésének napját magában foglaló negyedév utolsó napjával, ha az adóalany állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja az 1 millió forintot;
+g) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásának napját magában foglaló negyedév utolsó napjával, ha az adóalany állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja az 1 millió forintot;
 
 h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnövekedés miatt az adóalany átlagos statisztikai állományi létszáma meghaladta a 100 főt.
 

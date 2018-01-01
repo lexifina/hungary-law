@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-147-00-00
 | 2017-06-20 | 2017. évi LXXVII. törvény | 2012-147-00-00.17 |
 | 2017-07-19 | 2017. évi LXXVII. törvény | 2012-147-00-00.18 |
 | 2017-11-24 | 2017. évi CLVII. törvény | 2012-147-00-00.19 |
+| 2018-01-01 | 2017. évi CLIX. törvény | 2012-147-00-00.20 |

@@ -8,7 +8,7 @@
 
 (3) A kisadózó vállalkozások tételes adójával és a kisvállalati adóval összefüggő hatósági ügyben az eljárás az állami adóhatóság hatáskörébe tartozik.
 
-(4) Az adózó a kisadózó vállalkozások tételes adójával és a kisvállalati adóval összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
+(4) Az adózó a kisadózó vállalkozások tételes adójával és a kisvállalati adóval összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
 
 (5) A kisadózó vállalkozások tételes adója és a kisvállalati adó a központi költségvetés bevétele.
 
