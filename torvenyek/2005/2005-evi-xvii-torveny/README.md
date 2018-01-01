@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-17-00-00
 | 2012-02-01 | 2011. évi CLXXIV. törvény | 2005-17-00-00.9 |
 | 2012-07-24 | 2012. évi CXVII. törvény | 2005-17-00-00.10 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 2005-17-00-00.11 |
+| 2018-01-01 | 2017. évi L. törvény | 2005-17-00-00.12 |

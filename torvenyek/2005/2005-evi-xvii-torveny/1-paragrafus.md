@@ -1,13 +1,9 @@
 ## I. Fejezet
 
-## EGYES KÖZIGAZGATÁSI NEMPERES ELJÁRÁSOK
+## A KÖZIGAZGATÁSI NEMPERES ELJÁRÁSOK KÖZÖS SZABÁLYAI
 
-## Általános szabályok
+1. § (1) Közigazgatási nemperes eljárás a közigazgatási ügyben eljáró bíróság nemperes eljárása.
 
-1. § (1) Közigazgatási nemperes eljárás különösen a 2. és 3. §-ban szabályozott eljárás.
+(2) A közigazgatási nemperes eljárásban a közigazgatási perrendtartásról szóló törvény egyszerűsített perre vonatkozó szabályait – az ezen, valamint külön törvényben foglalt eltérésekkel – kell a nemperes eljárás sajátosságainak megfelelően alkalmazni.
 
-(2) Az e törvényben szabályozott közigazgatási nemperes eljárásokban – ha törvény másként nem rendelkezik – kizárólag okirati bizonyításnak van helye.
-
-(3) Az e törvényben szabályozott közigazgatási nemperes eljárásokban felfüggesztésnek és szünetelésnek nincs helye.
-
-(4) Az e törvényben szabályozott közigazgatási nemperes eljárásokban a bírósági titkár elsőfokon, az érdemi határozatok meghozatalára is kiterjedően, önálló aláírási joggal eljárhat.
+(3) E törvény hatálya nem terjed ki a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 15. alcíme szerinti eljárásra.
