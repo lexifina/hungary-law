@@ -8,4 +8,6 @@ b) könyvvizsgáló cég esetén 50 ezer forint.
 
 (3) A díjat a Nemzetgazdasági Minisztérium 10032000-01460658-00000000 számú számlájára kell teljesíteni készpénzbefizetési megbízással vagy fizetési számlák közötti átutalással.
 
-(4) A kérelem benyújtásával egyidejűleg a kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek az igazgatási szolgáltatási díj megfizetését igazolnia kell.
+(4)[^1]
+
+[^1]: Az 1. § (4) bekezdését az 51/2017. (XII. 29.) NGM rendelet 30. §-a hatályon kívül helyezte.
