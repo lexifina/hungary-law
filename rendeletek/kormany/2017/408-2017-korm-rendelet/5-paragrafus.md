@@ -1,3 +1,1 @@
-## 1–4. §[^1]
-
-[^1]: Az 1–4. § a 10. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## 4. § Hatályát veszti az 1/2012. (I. 20.) Korm. rendelet 25. § (4) és (6) bekezdése.
