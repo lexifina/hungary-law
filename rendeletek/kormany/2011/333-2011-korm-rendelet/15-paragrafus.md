@@ -2,9 +2,9 @@
 
 15. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2012. január 1-jén lép hatályba.
 
-(2)[^26]
+(2)[^19]
 
-(3)[^27]
+(3)[^20]
 
-[^26]: A 15. § (2) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 27. § (1) bekezdése hatályon kívül helyezte.
-[^27]: A 15. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 15. § (2) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 27. § (1) bekezdése hatályon kívül helyezte.
+[^20]: A 15. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 13. §[^23]
+## 13. §[^16]
 
 ## 5. Az ellátás megszüntetése
 
-[^23]: A 13. §-t az 500/2013. (XII. 29.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^16]: A 13. §-t az 500/2013. (XII. 29.) Korm. rendelet 9. §-a hatályon kívül helyezte.
