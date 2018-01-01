@@ -56,9 +56,9 @@
 
 19. a környezetvédelmi, természetvédelmi, tájvédelmi szakértői tevékenység folytatásának részletes feltételeit, a szakértői szakterületeket és részszakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 
-21. az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait,
+21. az eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait,
 
-21a. a hatósági eljárás során felmerülő, a környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos egyéb eljárási költségeket;
+21a. a hatósági eljárás során felmerülő, a környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos eljárási költségeket;
 
 22. a környezetkárosodás megelőzésének és elhárításának rendjét,
 
@@ -92,7 +92,11 @@
 
 37. a meteorológiai tevékenységgel kapcsolatos részletes szabályokat;
 
-38. a meteorológiai tevékenységgel összefüggő állami feladatokat ellátó szervek feladat- és hatáskörét.
+38. a meteorológiai tevékenységgel összefüggő állami feladatokat ellátó szervek feladat- és hatáskörét;
+
+39. a vízvédelmi hatósági eljárással kapcsolatos kiegészítő eljárási szabályokat;
+
+40. a levegőtisztaság-védelemmel kapcsolatos hatósági eljárások és a nyilvántartásba vétel szabályait, valamint a nyilvántartásba vétel tartalmi követelményeit.
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 

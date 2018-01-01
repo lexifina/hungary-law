@@ -4,7 +4,7 @@
 
 a) fegyveres összeütközés, háború, polgárháború, fegyveres felkelés, illetve természeti katasztrófa;
 
-b) jogerős, kötelezést tartalmazó hatósági vagy bírósági határozat végrehajtásának közvetlen következménye.
+b) kötelezést tartalmazó, véglegessé vált hatósági vagy jogerős bírósági határozat végrehajtásának közvetlen következménye.
 
 (2) A környezethasználó köteles a külön jogszabályban meghatározott környezetkárosodást megelőző intézkedéseket megtenni, valamint környezetkárosodás esetén a helyreállítási intézkedések megtétele során
 

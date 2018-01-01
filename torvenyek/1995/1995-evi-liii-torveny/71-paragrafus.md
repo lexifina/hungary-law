@@ -2,7 +2,7 @@
 
 71. § (1) A környezetvédelmi hatóság – kormányrendelet szerinti eljárás lefolytatását követően – dönt:
 
-a) a 67. § (2) bekezdése szerinti határozat,
+a) a 67. § (1) bekezdése szerinti határozat,
 
 b) a 66. § (1) bekezdés a) pontja szerinti esetben a tevékenység megkezdéséhez, illetve módosításához szükséges környezetvédelmi engedély,
 
@@ -14,4 +14,4 @@ kiadásáról.
 
 (2)
 
-(3) A környezetvédelmi hatóság a határozatát – annak jogerőre emelkedésére tekintet nélkül – nyilvánosan közzéteszi.
+(3) A környezetvédelmi hatóság az (1) bekezdés szerinti határozatát – annak véglegessé válására tekintet nélkül – közhírré teszi.

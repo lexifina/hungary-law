@@ -14,6 +14,6 @@
 
 (7) A környezeti információval rendelkező szerv az információ megismerésre vonatkozó igény beérkezésétől számított 5 napon belül felhívja az igénylőt az igénye pontosítására, ha az túlzottan általános vagy tartalma alapján a megismerni kívánt környezeti információ nem állapítható meg.
 
-(8) A közigazgatási hatósági eljárás általános szabályairól szóló törvény hatálya alá tartozó olyan jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatot, illetve környezetvédelmi hatósági szerződést közzé kell tenni, amelynek végrehajtása jelentős környezeti hatással jár.
+(8) Az olyan végleges vagy azonnal végrehajthatóvá nyilvánított határozatot, valamint a környezetvédelmi hatósági szerződést a környezetvédelmi hatóság honlapján nyilvánosságra kell hozni, amelynek végrehajtása jelentős környezeti hatással jár.
 
 (9) A környezethasználó köteles az általa okozott környezetterheléssel, környezet igénybevétellel, valamint környezetveszélyeztetéssel összefüggő adatokról kérelemre bárkinek tájékoztatást adni. A tájékoztatási kötelezettség megszegése esetén a környezethasználó törvényességi felügyeletét ellátó szerv intézkedése kezdeményezhető.

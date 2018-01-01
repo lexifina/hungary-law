@@ -1,6 +1,6 @@
 ## Felügyeleti díj
 
-96/B. § (1) Aki az egységes környezethasználati engedélyezés hatálya alá tartozó, vagy a 66. § (2) bekezdés szerinti bejelentéshez kötött tevékenységet folytat – kivéve, ha a bejelentett tevékenység végzésének időtartama a 30 napot nem haladja meg –, éves felügyeleti díjat fizet tárgyév február 28-ig. Aki tevékenységét év közben kezdi meg, a felügyeleti díj arányos részét fizeti meg, az engedély jogerőre emelkedését vagy a bejelentést követő 30 napon belül.
+96/B. § (1) Aki az egységes környezethasználati engedélyezés hatálya alá tartozó, vagy a 66. § (2) bekezdés szerinti bejelentéshez kötött tevékenységet folytat – kivéve, ha a bejelentett tevékenység végzésének időtartama a 30 napot nem haladja meg –, éves felügyeleti díjat fizet tárgyév február 28-ig. Aki tevékenységét év közben kezdi meg, a felügyeleti díj arányos részét fizeti meg, az engedély véglegessé válását vagy a bejelentést követő 30 napon belül.
 
 (2) A felügyeleti díj a környezetvédelmi hatóság bevétele, amelyet a felügyeleti tevékenységével kapcsolatos működési költségeinek fedezetére használhat fel.
 

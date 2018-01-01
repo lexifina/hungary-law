@@ -1,6 +1,6 @@
 ## Környezeti adatok bejegyzése egyéb nyilvántartásokba
 
-52. § (1) Jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás tényét, mértékét és jellegét az ingatlan-nyilvántartásban fel kell tüntetni.
+52. § (1) Véglegessé vált hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás tényét, mértékét és jellegét az ingatlan-nyilvántartásban fel kell tüntetni.
 
 (2) A bejegyzést a környezetvédelmi hatóság kezdeményezi, illetve azt – felelősség bírósági megállapítása esetén – a bíróság hivatalból rendeli el.
 

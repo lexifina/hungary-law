@@ -1,6 +1,6 @@
 ## Adatkezelés
 
-64/A. § (1) A környezetvédelmi igazgatási szervek a természetes és jogi személyekről adatokat környezetvédelmi ügyféljel (a továbbiakban: KÜJ-szám) alkalmazásával
+64/A. § (1) A környezetvédelmi feladatokat ellátó szervek a természetes és jogi személyekről adatokat
 
 a) a környezet használatára [4. § i) pont] vonatkozó jogok és kötelezettségek teljesülésének ellenőrzése,
 
@@ -18,9 +18,9 @@ e) a környezet használatával, szennyezésével és károsításával kapcsola
 
 a) természetes személy esetében
 
-aa) természetes személyazonosító adatok,
+aa) természetes személyazonosító adatok, ideértve a tevékenységgel érintett ingatlan tulajdonosának természetes személyazonosító adatait is,
 
-ab) lakcím;
+ab) lakcím, elektronikus levélcím, telefonszám, adóazonosító jel;
 
 b) jogi személy, jogi személyiséggel nem rendelkező szervezet esetében
 
@@ -44,7 +44,7 @@ db) a környezet használatára, igénybevételére vonatkozó jogszabályokban 
 
 tarthatók nyilván.
 
-(3) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, a nemzetbiztonsági szolgálatok, valamint az adóhatóság, a Központi Statisztikai Hivatal, a műszaki biztonsági, az egészségügyi igazgatási feladatokat ellátó szervek, az élelmiszerlánc-felügyeleti szerv és a talajvédelmi hatóság, az ingatlanügyi hatóság, a vízügyi és vízvédelmi hatóságok és igazgatási szervek, valamint a katasztrófavédelmi szervek feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén – jogosultak a nyilvántartásba felvett adatok igénylésére a feladataik ellátásához szükséges mértékben.
+(3) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, a nemzetbiztonsági szolgálatok, valamint az adóhatóság, a Központi Statisztikai Hivatal, a műszaki biztonsági, az egészségügyi igazgatási feladatokat ellátó szervek, az élelmiszerlánc-felügyeleti szerv és a talajvédelmi hatóság, az ingatlanügyi hatóság, a vízügyi hatóságok és igazgatási szervek, valamint a katasztrófavédelmi szervek feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén – jogosultak a nyilvántartásba felvett adatok igénylésére a feladataik ellátásához szükséges mértékben.
 
 (4) A (2) bekezdés szerinti adatok statisztikai, illetőleg tájékoztatási célra felhasználhatók és statisztikai, illetőleg tájékoztatási célú felhasználásra – a (4a) bekezdésben foglalt kivétellel – személyazonosításra alkalmatlan módon átadhatók.
 

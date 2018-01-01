@@ -1,0 +1,1 @@
+91/E. § Szennyezőanyag-elhelyezés, bevezetés, vagy ezzel járó tevékenység engedélyezése során, ha a tevékenységet nem a vízvédelemi hatóság engedélyezi, a vízvédelmi hatóságot az eljárásba szakhatóságként be kell vonni.
