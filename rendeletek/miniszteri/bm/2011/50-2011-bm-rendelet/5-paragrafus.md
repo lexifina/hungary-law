@@ -16,10 +16,10 @@ c) javítási tevékenység végzéséhez az adott tűzoltó technika gyártója
 
 d) nyilatkozatát arról, hogy a tűzoltó technika gyártója vagy forgalmazója által kibocsátott felülvizsgálati, vagy javítási technológiai leírásban előírt eszközökkel, felszerelésekkel, berendezésekkel rendelkezik,
 
-e)[^22]
+e)[^26]
 
 f) a közbeszerzési eljárással beszerezhető termék esetén a gyártó vagy forgalmazó igazolását a szolgáltató megfelelő felülvizsgálati vagy javítási technológiájáról.
 
 (3) A bejelentésben foglalt adatokban bekövetkezett változást a tudomásra jutást követően haladéktalanul, de legkésőbb 8 napon belül a 4. melléklet szerinti adattartalommal, a (2) bekezdésben foglalt adatok változása esetén a vonatkozó melléklet benyújtásával történik.
 
-[^22]: Az 5. § (2) bekezdés e) pontját a 75/2015. (XII. 22.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^26]: Az 5. § (2) bekezdés e) pontját a 75/2015. (XII. 22.) BM rendelet 4. §-a hatályon kívül helyezte.

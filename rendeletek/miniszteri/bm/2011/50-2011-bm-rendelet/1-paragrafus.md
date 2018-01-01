@@ -16,18 +16,10 @@ c)[^3]
 
 d)[^4]
 
-(5)[^5] A tűzvédelmi hatóság által közzétett nyilvántartás a Szolgtv.-ben meghatározott adatokon túl tartalmazza:
-
-a) a tevékenység gyakorlására jogosult vagy képviselője telefonszámát, elektronikus levélcímét,
-
-b) a bejelentés előterjesztésének napját,
-
-c) azt, hogy a bejelentés határozatlan időre szól, vagy azt az időtartamot, amelyre a bejelentés szól,
-
-d) a (4) bekezdés a)–b) és d) pontjaiban foglalt adatokat.
+(5)[^5]
 
 [^1]: Az 1. § (4) bekezdés a) pontja a 24/2012. (V. 8.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (4) bekezdés b) pontja a 24/2012. (V. 8.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (4) bekezdés c) pontját a 64/2013. (XII. 4.) BM rendelet 12. § a) pontja hatályon kívül helyezte.
 [^4]: Az 1. § (4) bekezdés d) pontját a 67/2012. (XII. 14.) BM rendelet 15. § (5) bekezdése hatályon kívül helyezte.
-[^5]: Az 1. § (5) bekezdése a 24/2012. (V. 8.) BM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (5) bekezdését a 44/2017. (XII. 29.) BM rendelet 70. § a) pontja hatályon kívül helyezte.

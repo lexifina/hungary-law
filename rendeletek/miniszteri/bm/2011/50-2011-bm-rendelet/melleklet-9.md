@@ -22,6 +22,6 @@
 
 ## Nyilvántartási szám (adatváltozás esetén)
 
-9. melléklet az 50/2011. (XII. 20.) BM rendelethez[^37]
+9. melléklet az 50/2011. (XII. 20.) BM rendelethez[^42]
 
-[^37]: A 9. mellékletet az 54/2014. (XII. 5.) BM rendelet 287. § (2) bekezdés a) pontja iktatta be.
+[^42]: A 9. mellékletet az 54/2014. (XII. 5.) BM rendelet 287. § (2) bekezdés a) pontja iktatta be.

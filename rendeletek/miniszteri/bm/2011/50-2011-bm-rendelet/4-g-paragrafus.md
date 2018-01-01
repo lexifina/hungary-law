@@ -1,4 +1,4 @@
-4/G. §[^21] (1) Az alapkarbantartás műveleteit a 10. melléklet tartalmazza.
+4/G. §[^25] (1) Az alapkarbantartás műveleteit a 10. melléklet tartalmazza.
 
 (2) A középkarbantartáskor a karbantartást végző személy – az alapkarbantartás keretébe tartozó műveleteken túl –
 
@@ -58,4 +58,4 @@ f) a biztonsági szerelvényt a gyártó előírásait figyelembe véve ellenőr
 
 (5) Ha a karbantartást végző személy vizet alkalmaz a különböző eljárásoknál, a tűzoltó készüléket az újratöltést megelőzően teljesen kiszárítja.
 
-[^21]: A 4/G. §-t az 54/2014. (XII. 5.) BM rendelet 287. § (1) bekezdése iktatta be.
+[^25]: A 4/G. §-t az 54/2014. (XII. 5.) BM rendelet 287. § (1) bekezdése iktatta be.

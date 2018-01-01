@@ -1,4 +1,4 @@
-4/B. §[^16] (1) A karbantartás elvégzését a karbantartást igazoló címke és az OKF azonosító jel felragasztása jelöli.
+4/B. §[^20] (1) A karbantartás elvégzését a karbantartást igazoló címke és az OKF azonosító jel felragasztása jelöli.
 
 (2) Az OKF azonosító jelet úgy kell felragasztani, hogy a karbantartást igazoló címkét részben fedje át, de az adatokat vagy a gyártó jelöléseit ne takarja el. Az OKF azonosító jel kizárólag a karbantartást igazoló címkével együtt és csak egyszer használható fel.
 
@@ -30,4 +30,4 @@ d) logóval, emblémával, és a (4) bekezdés f) pontjában megadott adatok ang
 
 e) olyan anyagú, melynek élettartama a karbantartás érvényességi idejével arányos.
 
-[^16]: A 4/B. §-t az 54/2014. (XII. 5.) BM rendelet 287. § (1) bekezdése iktatta be.
+[^20]: A 4/B. §-t az 54/2014. (XII. 5.) BM rendelet 287. § (1) bekezdése iktatta be.

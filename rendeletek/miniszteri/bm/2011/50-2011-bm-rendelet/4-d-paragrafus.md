@@ -1,4 +1,4 @@
-4/D. §[^18] (1) A karbantartó személy ellenőrzi, hogy a tűzoltó készülék használatra alkalmas-e, és nem tartozik-e a 4/A. §-ban felsorolt tűzoltó készülékek közé.
+4/D. §[^22] (1) A karbantartó személy ellenőrzi, hogy a tűzoltó készülék használatra alkalmas-e, és nem tartozik-e a 4/A. §-ban felsorolt tűzoltó készülékek közé.
 
 (2) A karbantartó személy a tűzoltó készüléket készenlétben tartásra alkalmatlannak minősíti, ha
 
@@ -18,4 +18,4 @@ d) a tűzoltó készülék vagy a hajtóanyagpalack töltetének vesztesége, ny
 
 (6) A karbantartó személy a tapasztalt hibáról, sérülésről a készenlétben tartót írásban tájékoztatja.
 
-[^18]: A 4/D. §-t az 54/2014. (XII. 5.) BM rendelet 287. § (1) bekezdése iktatta be.
+[^22]: A 4/D. §-t az 54/2014. (XII. 5.) BM rendelet 287. § (1) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-4/E. §[^19] (1) Az újratöltött tűzoltó készüléken a karbantartó személy legalább alapkarbantartást végez vagy a soron következő fokozat (közép- vagy teljes körű karbantartás) műveletei is elvégezhetőek.
+4/E. §[^23] (1) Az újratöltött tűzoltó készüléken a karbantartó személy legalább alapkarbantartást végez vagy a soron következő fokozat (közép- vagy teljes körű karbantartás) műveletei is elvégezhetőek.
 
 (2) A karbantartó személy a részlegesen használt tűzoltó készüléket teljesen kiüríti és az oltóanyagot selejtezi.
 
@@ -8,4 +8,4 @@
 
 (5) Alkatrészek pótlásakor és újratöltés esetén kizárólag a gyártó által megadott, jóváhagyott vagy szállított alkatrészek és oltóanyag használható fel.
 
-[^19]: A 4/E. §-t az 54/2014. (XII. 5.) BM rendelet 287. § (1) bekezdése iktatta be.
+[^23]: A 4/E. §-t az 54/2014. (XII. 5.) BM rendelet 287. § (1) bekezdése iktatta be.

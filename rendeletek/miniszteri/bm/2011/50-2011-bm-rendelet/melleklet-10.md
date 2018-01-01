@@ -22,7 +22,7 @@
 
 ## 4 Az Országos Tűzvédelmi Szabályzat 265. § (2) bekezdését is figyelembe kell venni.
 
-10. melléklet az 50/2011. (XII. 20.) BM rendelethez[^38]
+10. melléklet az 50/2011. (XII. 20.) BM rendelethez[^43]
 
 Tűzoltó készülékek alapkarbantartásának műveletei
 
@@ -76,4 +76,4 @@ Tűzoltó készülékek alapkarbantartásának műveletei
 
 | 5. szén-dioxiddal oltók.” |
 
-[^38]: A 10. mellékletet az 54/2014. (XII. 5.) BM rendelet 287. § (2) bekezdés b) pontja iktatta be.
+[^43]: A 10. mellékletet az 54/2014. (XII. 5.) BM rendelet 287. § (2) bekezdés b) pontja iktatta be.
