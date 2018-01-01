@@ -4,6 +4,8 @@ a) a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhe
 
 b) a járási (fővárosi kerületi) hivatalok feladat- és hatásköreit, a kormányablakok illetékességi területét és működése szabályait,
 
-c) a kormányablakkal összefüggő feladatokat ellátó személyek kiválasztásának és képzésének szabályait
+c) a kormányablakkal összefüggő feladatokat ellátó személyek kiválasztásának és képzésének szabályait,
+
+d) a járási (fővárosi kerületi) hivatal egyszerűsített hatósági ellenőrzésére vonatkozó eljárási szabályokat
 
 rendeletben határozza meg.

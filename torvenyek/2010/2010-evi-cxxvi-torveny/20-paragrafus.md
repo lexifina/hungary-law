@@ -6,7 +6,7 @@ ellátásában,
 
 b)
 
-c) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – ellenőrzési feladatokat lát el, különös tekintettel a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény végrehajtásának és a hatósági tevékenység jogszerűségének ellenőrzésére,
+c) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – ellenőrzési feladatokat lát el, különös tekintettel az Ákr. végrehajtásának és a hatósági tevékenység jogszerűségének ellenőrzésére,
 
 d) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – gondoskodik a területi államigazgatási szervek ellenőrzési tevékenységének összehangoltságáról,
 
