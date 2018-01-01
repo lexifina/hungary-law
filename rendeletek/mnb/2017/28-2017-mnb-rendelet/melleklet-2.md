@@ -872,6 +872,4 @@
 
 ## A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik az intézmény számviteli politikájában lefektetetteknek megfelelően.
 
-2. melléklet a 28/2017. (XI. 22.) MNB rendelethez[^3]
-
-[^3]: A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 1–91. és 93–115. sora, az ott meghatározott felügyeleti jelentések táblái a 14. § (2) bekezdése alapján 2018. január 1-jén lépnek hatályba.
+2. melléklet a 28/2017. (XI. 22.) MNB rendelethez

@@ -1,5 +1,3 @@
-## 7–10. §[^1]
-
 11. § (1) Az adatszolgáltató – a (2) bekezdésben foglaltak kivételével – a felügyeleti jelentést, valamint a 680/2014/EU bizottsági végrehajtási rendelet szerinti adatszolgáltatásokat az MNB által meghatározott elektronikus formában, fokozott biztonságú vagy minősített elektronikus aláírással ellátva az MNB „Kihelyezett Adatküldő Program” megnevezésű jelentésfogadó rendszerén (a továbbiakban: KAP rendszer) keresztül teljesíti. A KAP rendszer használatát segítő útmutatást a KAP rendszer MNB honlapján közzétett Felhasználói kézikönyve tartalmazza.
 
 (2) A 4. melléklet szerinti „A pénzügyi vállalkozás engedélyezési feltételeknek való megfelelése” (Táblakód: 20C) megnevezésű, valamint a 10. mellékletben meghatározott felügyeleti jelentéseket az adatszolgáltató az MNB „Elektronikus Rendszer Hitelesített Adatok Fogadásához” megnevezésű rendszerén (a továbbiakban: ERA rendszer) keresztül teljesíti. Az ERA rendszer használatára vonatkozó szabályokat az engedélyezési, jóváhagyási, nyilvántartásba vételi és törlési eljárásokban, valamint a bejelentések során alkalmazott elektronikus űrlapok benyújtásának, a szervezetek és a Magyar Nemzeti Bank közötti kizárólagos elektronikus kapcsolattartás rendjéről és technikai feltételeiről, valamint a Magyar Nemzeti Bank által működtetett kézbesítési tárhely működtetéséről és használatáról szóló MNB rendelet, a használatot segítő útmutatást az ERA rendszer MNB honlapján közzétett Felhasználói kézikönyve tartalmazza.
@@ -15,5 +13,3 @@
 (7) Ha a felügyeleti jelentés valamely táblájának adattartalma nemleges, akkor – a (8) bekezdésben foglalt kivétellel – a tábla első sorát nulla („0”) értékkel feltöltve küldi meg az adatszolgáltató.
 
 (8) Ha az adatszolgáltató nem értékesít a 10. melléklet szerint jelentendő terméket, akkor a nemleges adatszolgáltatást a „Nemleges jelentés beküldése” menüpontot választva generált nyilatkozat küldésével teljesíti.
-
-[^1]: A 7–10. § a 14. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
