@@ -2,11 +2,11 @@
 
 (2) Tartozás fennállása esetén a járművezetőt tájékoztatni kell a bírság összegéről, az azt kiszabó hatóságról, a számlaszámról és a helyszíni befizetés lehetőségéről.
 
-(3)[^15] Amennyiben tartozás fennállása esetén a bírságot nem az eljáró hatóság szabta ki, azt a bírságot kiszabó hatóság szerinti megfelelő, 1. mellékletben meghatározott, Magyar Államkincstár által vezetett számlaszámra kell befizetni vagy átutalni.
+(3)[^16] Amennyiben tartozás fennállása esetén a bírságot nem az eljáró hatóság szabta ki, azt a bírságot kiszabó hatóság szerinti megfelelő, 1. mellékletben meghatározott, Magyar Államkincstár által vezetett számlaszámra kell befizetni vagy átutalni.
 
 (4) A (2) bekezdés szerint fennálló tartozás kiegyenlítéséig a visszatartásra a Kkt. 20. § (15) bekezdése alapján kerülhet sor.
 
-(5)[^16] A közterület-felügyelő a (4) bekezdés szerinti visszatartást akkor alkalmazhatja, ha az annak jogalapját képező bírságot az illetékes közterület-felügyelet szabta ki.
+(5)[^17] A közterület-felügyelő a (4) bekezdés szerinti visszatartást akkor alkalmazhatja, ha az annak jogalapját képező bírságot az illetékes közterület-felügyelet szabta ki.
 
-[^15]: A 9. § (3) bekezdése a 36/2017. (IX. 18.) NFM rendelet 31. § (4) bekezdése szerint módosított szöveg.
-[^16]: A 9. § (5) bekezdését a 47/2012. (VIII. 23.) NFM rendelet 6. §-a iktatta be.
+[^16]: A 9. § (3) bekezdése a 36/2017. (IX. 18.) NFM rendelet 31. § (4) bekezdése szerint módosított szöveg.
+[^17]: A 9. § (5) bekezdését a 47/2012. (VIII. 23.) NFM rendelet 6. §-a iktatta be.
