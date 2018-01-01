@@ -18,7 +18,21 @@ g) tevékenységet engedély nélkül végzi
 
 a hadiipari gyártás- és szolgáltatásfelügyelet bírsággal sújthatja.
 
-(2) A bírság mértékét a hadiipari gyártás- és szolgáltatásfelügyelet a jogsértés súlyára, időtartamára, a jogsértőnek való felróhatóságára, a jogsértő magatartás ismétlődésére, a jogsértéssel elért előnyre tekintettel, az eset összes körülményét mérlegelve állapítja meg.
+(2) A bírság mértékét a hadiipari gyártás- és szolgáltatásfelügyelet az alábbi körülményeket mérlegelve állapítja meg:
+
+a) a jogsértéssel okozott hátrány, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket, illetve a jogsértéssel elért előny mértékét,
+
+b) a jogsértéssel okozott hátrány visszafordíthatósága,
+
+c) a jogsértéssel érintettek körének nagysága,
+
+d) a jogsértő állapot időtartama,
+
+e) a jogsértő magatartás ismétlődése és gyakorisága,
+
+f) a jogsértést elkövető eljárást segítő, együttműködő magatartása, valamint
+
+g) a jogsértőnek való felróhatóság.
 
 (3) A bírság ugyanazon kötelezettség ismételt megszegése esetén, ismételten is kiszabható. Ugyanazon kötelezettség többszöri megszegésének egy eljárásban való elbírálása esetén a bírság felső határa az alapérték kétszeresére emelkedik. Több különböző kötelezettségnek ugyanabban az eljárásban való elbírálása esetén a legsúlyosabb kötelezettségszegésre megállapított bírság felső határa a felével emelkedik.
 
@@ -26,4 +40,4 @@ a hadiipari gyártás- és szolgáltatásfelügyelet bírsággal sújthatja.
 
 (5) A bírság a központi költségvetés bevétele, beszedéséről a hadiipari gyártás- és szolgáltatásfelügyelet gondoskodik.
 
-(6) A jogerősen kiszabott és be nem fizetett bírságot adók módjára kell behajtani.
+(6) A végleges határozatban kiszabott és be nem fizetett bírságot adók módjára kell behajtani.

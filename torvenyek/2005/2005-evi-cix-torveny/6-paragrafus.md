@@ -12,12 +12,12 @@ c) az alkalmazottak 5. § (3) és (4) bekezdése alapján megismert személyes a
 
 (3) Eltérő törvényi rendelkezés hiányában a 2. § (4) bekezdésében meghatározott szervek jogosultak az e törvényben meghatározott eljárás lefolytatása céljából a hadiipari gyártás- és szolgáltatás felügyelet előtt folyó eljárásban kezelt adatok megismerésére.
 
-(4) A hadiipari gyártás- és szolgáltatásfelügyelet a kérelem kézhezvételétől a kérelem jogerős elutasítását vagy az engedély visszavonását követő 6 hónapig jogosult az (1) bekezdés a) és b) pontjában szerinti adatok kezelésére. A kezelési idő lejárta után az adatokat meg kell semmisíteni.
+(4) A hadiipari gyártás- és szolgáltatásfelügyelet a kérelem kézhezvételétől a kérelem végleges elutasítását vagy az engedély visszavonását követő 6 hónapig jogosult az (1) bekezdés a) és b) pontjában szerinti adatok kezelésére. A kezelési idő lejárta után az adatokat meg kell semmisíteni.
 
 (5) Az (1) bekezdés c) pontjában meghatározott személyes adatokat a hadiipari gyártás- és szolgáltatásfelügyelet
 
-a) a hadiipari tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
+a) a hadiipari tevékenység engedélyezése iránti eljárás végleges befejezéséig,
 
-b) a hadiipari tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+b) a hadiipari tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás végleges befejezéséig
 
 kezeli.
