@@ -12,9 +12,9 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (3) Az ideiglenes hozzáférhetetlenné tétel az elektronikus adathoz való hozzáférés ideiglenes megakadályozása. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a közlekedési hatóság 365 napra rendeli el.
 
-(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatot a közlekedési hatóság hirdetményi úton közli. A hirdetményt 15 napig kell a közlekedési hatóság honlapján közzétenni.
+(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatról készült közleményt a közlekedési hatóság a honlapján közhírré teszi.
 
-(5) A (4) bekezdés szerinti hirdetmény tartalmazza:
+(5) A (4) bekezdés szerinti közlemény tartalmazza:
 
 a) az ügy tárgyát és rövid ismertetését,
 

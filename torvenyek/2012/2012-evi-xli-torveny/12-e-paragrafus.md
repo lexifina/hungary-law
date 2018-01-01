@@ -1,1 +1,1 @@
-12/E. § A közlekedési hatóság a jogkövető magatartás elősegítése és az állampolgárok tájékoztatása érdekében honlapján a 12/B. § szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a jogerős ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését.
+12/E. § A közlekedési hatóság a jogkövető magatartás elősegítése és az állampolgárok tájékoztatása érdekében honlapján a 12/B. § szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a véglegessé vált ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését.

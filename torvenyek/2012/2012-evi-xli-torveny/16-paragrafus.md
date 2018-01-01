@@ -8,7 +8,7 @@ c) az autóbusszal végzett személyszállítási szolgáltatásokra vonatkozó 
 
 (2) A kötelezettségek további súlyos és ismétlődő megszegése esetén az autóbuszos hatóság felfüggesztheti vagy visszavonhatja a működési engedélyt.
 
-(3) A közlekedési hatóság piacfelügyeleti eljárásban hozott határozatai és végzései ellen közigazgatási eljárás keretében fellebbezésnek nincs helye, azokat felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+(3)
 
 (4) Az autóbuszos hatóság és a versenyhatóság a közúti személyszállítási piacon folyó versenyt érintő kérdésekben a verseny védelmének következetes érvényre juttatása, illetve az egységes jogalkalmazás előmozdítása érdekében szorosan együttműködik, így különösen
 
