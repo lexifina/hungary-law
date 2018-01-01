@@ -28,4 +28,6 @@ fe) e rendelet szerinti kifizetési kérelem benyújtását követően az önell
 
 (2) Saját tulajdonú termőföld átadása után akkor igényelhető támogatás, ha a kérelmező a kérelem benyújtását megelőző két naptári évben az ingatlan-nyilvántartásba bejegyzett tulajdonosa az átadással érintett termőföldnek. Ez a szabály nem vonatkozik arra az esetre, ha a tulajdonszerzés öröklés, részaránykiadás, hatósági intézkedés vagy bírósági ítélet alapján történt.
 
-(3) E rendelet alapján nem adható támogatás annak az átadó gazdálkodónak, akinek az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termelők gazdaságátadásához nyújtandó támogatás részletes feltételeiről szóló 83/2007. (VIII. 10.) FVM rendelet alapján benyújtott támogatási kérelme vonatkozásában a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) részben vagy egészben helyt adó, jogerős határozatot hozott.
+(3)[^1] E rendelet alapján nem adható támogatás annak az átadó gazdálkodónak, akinek az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termelők gazdaságátadásához nyújtandó támogatás részletes feltételeiről szóló 83/2007. (VIII. 10.) FVM rendelet alapján benyújtott támogatási kérelme vonatkozásában a Magyar Államkincstár (a továbbiakban: Kincstár) részben vagy egészben helyt adó, véglegessé vált határozatot hozott.
+
+[^1]: A 3. § (3) bekezdése a 37/2017. (XII. 27.) MvM rendelet 29. § a) pontja szerint módosított szöveg.

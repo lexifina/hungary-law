@@ -26,4 +26,6 @@
 
 ## 1 db anyanyúl 0,02 ÁE-nek felel meg.
 
-2. melléklet a 121/2012. (XI. 28.) VM rendelethez
+2. melléklet a 121/2012. (XI. 28.) VM rendelethez[^8]
+
+[^8]: A 2. melléklet a 37/2017. (XII. 27.) MvM rendelet 29. § e) pontja szerint módosított szöveg.

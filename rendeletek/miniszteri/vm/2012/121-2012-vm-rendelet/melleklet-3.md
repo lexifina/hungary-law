@@ -20,7 +20,7 @@
 
 | 9. | Az átvevő nő |  | 1 pont |
 
-| 10. | Az átvevő termelői csoport, vagy zöldség-gyümölcs termelői csoport és termelői szervezeti tagsága | MVH által közzétett nyomtatványon benyújtott elismert termelői csoport által, vagy zöldség-gyümölcs termelői csoport és termelői szervezet által kiadott eredeti igazolása arról, hogy az átvevő a csoport tagja. | 2 pont |
+| 10. | Az átvevő termelői csoport, vagy zöldség-gyümölcs termelői csoport és termelői szervezeti tagsága | Kincstár által közzétett nyomtatványon benyújtott elismert termelői csoport által, vagy zöldség-gyümölcs termelői csoport és termelői szervezet által kiadott eredeti igazolása arról, hogy az átvevő a csoport tagja. | 2 pont |
 
 | 11. | Az átvevő legmagasabb iskolai végzettsége | Az 57/2012. (VI. 21.) VM rendelet 2. mellékletében meghatározott képzés keretében szerzett felsőfokú agrár végzettség esetén a felsőfokú oktatási intézményben szerzett oklevél, diploma hiteles másolata alapján | 7 pont |
 
