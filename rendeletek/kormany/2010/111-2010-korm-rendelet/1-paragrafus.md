@@ -1,6 +1,6 @@
 ## 1. A szakmai vizsga szervezésére vonatkozó engedélyezési eljárás
 
-1. §[^1] (1) A szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: Szt.) szerinti komplex szakmai vizsga (a továbbiakban: szakmai vizsga) megszervezésére vonatkozó engedély (a továbbiakban: engedély) akkor adható ki, ha az engedély kiadását kérelmező intézmény (a továbbiakban: kérelmező intézmény)
+1. §[^2] (1) A szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: Szt.) szerinti komplex szakmai vizsga (a továbbiakban: szakmai vizsga) megszervezésére vonatkozó engedély (a továbbiakban: engedély) akkor adható ki, ha az engedély kiadását kérelmező intézmény (a továbbiakban: kérelmező intézmény)
 
 a) rendelkezik a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) 1. § (2) bekezdés a) pontja szerinti, a d) pontban meghatározott szakképesítés megszerzésére irányuló képzés folytatására feljogosító engedéllyel (a továbbiakban: felnőttképzési tevékenység folytatására jogosító engedély),
 
@@ -20,4 +20,4 @@ g) szerepel a köztartozásmentes adózói adatbázisban, vagy igazolja, hogy ne
 
 (3) Az engedélynek az engedély kiadását követően megváltozott OKJ-ban szereplő szakképesítésekre vonatkozó érvényességét a szakképesítésért felelős miniszter által kiadott szakmai és vizsgakövetelményről szóló rendeletnek a jogosultságok megfeleltetését tartalmazó melléklete határozza meg.
 
-[^1]: Az 1. § a 136/2014. (IV. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 1. § a 136/2014. (IV. 24.) Korm. rendelet 2. §-ával megállapított szöveg.

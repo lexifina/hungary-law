@@ -1,3 +1,3 @@
-## 16. §[^48]
+## 16. §[^56]
 
-[^48]: A 16. §-t a 16. § (3) bekezdése hatályon kívül helyezte 2012. január 2. napjával.
+[^56]: A 16. §-t a 16. § (3) bekezdése hatályon kívül helyezte 2012. január 2. napjával.

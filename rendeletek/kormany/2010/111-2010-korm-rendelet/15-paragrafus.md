@@ -1,3 +1,3 @@
-## 14. §[^46]
+## 14. §[^54]
 
-[^46]: A 14. §-t a 16. § (2) bekezdése hatályon kívül helyezte.
+[^54]: A 14. §-t a 16. § (2) bekezdése hatályon kívül helyezte.
