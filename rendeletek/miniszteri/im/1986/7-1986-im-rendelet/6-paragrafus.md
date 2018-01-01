@@ -1,3 +1,5 @@
+## (A R. 7. §-ához)
+
 6. § (1) A budapesti székhelyű bíróságnál, ügyészségnél, valamint nyomozó hatóságnál (a továbbiakban együtt: bíróság) a tolmácsolást az OFFI látja el.
 
 (2) Ha az OFFI-nak a szükséges nyelvben jártas tolmácsa nincs, továbbá a nem budapesti székhelyű bíróságnál a tolmácsolásra a bíróság illetékességi területén a szakigazgatási szervnél nyilvántartott tolmácsot kell kirendelni.
