@@ -18,8 +18,8 @@ f) az érintettek körének felsorolását, és
 
 g) a tervezői nyilatkozatot.
 
-(3)–(4)[^20]
+(3)–(4)[^22]
 
 (5) Az elvi építési engedély egy évig hatályos és csak az elektronikus hírközlési építmény tervdokumentációjának elkészítéséhez szükséges tevékenység végzésére jogosít.
 
-[^20]: A 10. § (3)–(4) bekezdését a 4/2015. (VII. 15.) NMHH rendelet 20. § (2) bekezdése hatályon kívül helyezte.
+[^22]: A 10. § (3)–(4) bekezdését a 4/2015. (VII. 15.) NMHH rendelet 20. § (2) bekezdése hatályon kívül helyezte.

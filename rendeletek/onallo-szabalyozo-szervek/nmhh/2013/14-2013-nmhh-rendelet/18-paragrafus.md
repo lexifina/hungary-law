@@ -2,7 +2,7 @@
 
 ## ENGEDÉLYHEZ NEM KÖTÖTT ÉPÍTÉSI TEVÉKENYSÉGEK
 
-## 16. [^39] Építési vagy bontási engedély nélkül, továbbá bejelentés nélkül végezhető építési tevékenységek
+## 16. [^55] Építési vagy bontási engedély nélkül, továbbá bejelentés nélkül végezhető építési tevékenységek
 
 ## 18. § Építési vagy bontási engedély nélkül, továbbá bejelentés nélkül végezhetőek az alábbi építési tevékenységek:
 
@@ -24,8 +24,9 @@ f) antennatartó szerkezet létesítése vagy bontása, ha annak bármely irány
 
 g) az antennatartó szerkezet méretétől függetlenül a szerkezetre antenna felszerelése, ha az antenna bármely irányú mérete a 4,0 m-t nem haladja meg és a tartószerkezet megerősítését nem igényli;
 
-h) jogerős használatbavételi vagy fennmaradási engedéllyel rendelkező, vagy a 19–20. § szerint nyilvántartásba vett elektronikus hírközlő hálózathoz csatlakozó, maximum 100 m hosszúságú hálózatrész létesítése;
+h)[^56] véglegessé vált használatbavételi vagy fennmaradási engedéllyel rendelkező, vagy a 19–20. § szerint nyilvántartásba vett elektronikus hírközlő hálózathoz csatlakozó, maximum 100 m hosszúságú hálózatrész létesítése;
 
 i) a 2. § d) pontja szerinti jókarbantartási kötelezettség körébe tartozó tevékenység végzése.
 
-[^39]: A 16. alcím (18–18/A. §) a 4/2015. (VII. 15.) NMHH rendelet 11. §-ával megállapított szöveg.
+[^55]: A 16. alcím (18–18/A. §) a 4/2015. (VII. 15.) NMHH rendelet 11. §-ával megállapított szöveg.
+[^56]: A 18. § h) pontja a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés q) pontja szerint módosított szöveg.

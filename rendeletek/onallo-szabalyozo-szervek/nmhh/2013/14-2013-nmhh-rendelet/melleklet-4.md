@@ -372,6 +372,6 @@ f) javaslatok egyéb szükséges intézkedésekre, előírásokra, feltételekre
 
 g) közérthető összefoglaló;
 
-h)[^66] engedélyezési eljárás elektronikus kapcsolattartási pont.
+h)[^90] engedélyezési eljárás elektronikus kapcsolattartási pont.
 
-[^66]: A 4. melléklet 3. pont h) alpontját a 4/2015. (VII. 15.) NMHH rendelet 18. § b) pontja iktatta be.
+[^90]: A 4. melléklet 3. pont h) alpontját a 4/2015. (VII. 15.) NMHH rendelet 18. § b) pontja iktatta be.
