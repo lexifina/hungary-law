@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-461-20-
 | 2016-09-01 | 2013-461-20-22.6 | 72/2015. (III. 30.) Korm. rendelet |
 | 2017-01-01 | 2013-461-20-22.7 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2013-461-20-22.8 | 380/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2013-461-20-22.9 | 458/2017. (XII. 28.) Korm. rendelet |
