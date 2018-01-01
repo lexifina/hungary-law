@@ -2,7 +2,7 @@
 
 a) az ÁPB konzultációs és döntéshozatali eljárását,
 
-b) az ÁPB oldalait, illetve az egyes tagokat a 12. § alapján megillető jogosultságokat,
+b) az ÁPB oldalait, illetve az egyes tagokat a 12. § (1) bekezdése alapján megillető jogosultságokat,
 
 c) az oldalakon belüli szavazás rendjét vagy a (2) bekezdés szerinti szavazási rend alkalmazását,
 

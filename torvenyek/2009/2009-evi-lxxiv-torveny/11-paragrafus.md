@@ -6,7 +6,9 @@ b) a működési területére tartozó valamennyi ágazatot törlik a Gazdasági
 
 c) az egyik oldalon valamennyi ÁPB-tag tagsága megszűnik, vagy
 
-d) a 8. §-ban foglalt esetben a munkáltatónál vagy munkáltatóknál foglalkoztatottak száma az ágazatban munkaviszonyban állók létszámának nyolcvan százaléka alá csökken.
+d) a 8. §-ban foglalt esetben a munkáltatónál vagy munkáltatóknál foglalkoztatottak száma az ágazatban munkaviszonyban állók létszámának nyolcvan százaléka alá csökken,
+
+e) a 21. § (4) bekezdés a) pontja szerinti eljárás iránt kérelem benyújtására nem kerül sor.
 
 (2) Az érdekképviselet ÁPB-tagsága megszűnik, ha
 
@@ -18,4 +20,4 @@ c) az érdekképviselet az adott ágazatban megszünteti érdekképviseleti tev�
 
 d) valamely, az érdekképviseletnek minősüléshez, illetve az ÁPB-ben való részvételhez előírt feltételnek nem felel meg.
 
-(3) Az ÁPB, illetve az ÁPB-tagság megszűnését az ÁRMB állapítja meg, a megszűnés az ÁRMB határozatának jogerőssé válásával következik be.
+(3) Az ÁPB, illetve az ÁPB-tagság megszűnését az ÁRMB állapítja meg, a megszűnés az ÁRMB határozatának véglegessé válásával következik be.

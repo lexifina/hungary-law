@@ -1,8 +1,8 @@
-9. § (1) Legalább egy ágazati munkáltatói érdekképviselet és legalább egy ágazati szakszervezet kezdeményezheti ÁPB létrehozását, feltéve, hogy az adott ágazatban ÁPB nem működik, illetve létrehozását 6 hónapon belül nem kezdeményezték.
+9. § (1) Legalább egy ágazati munkáltatói érdekképviselet és legalább egy ágazati szakszervezet együttesen kérheti ÁPB létrehozását, feltéve, hogy az adott ágazatban ÁPB nem működik, illetve létrehozását 6 hónapon belül nem kérték.
 
-(2) A kezdeményezést – az ágazat, valamint a kezdeményezők (4) bekezdés b) pontjában szereplő adatainak megjelölésével – a miniszter hivatalos lapjában nyilvánosságra kell hozni. A nyilvánosságra hozatal időpontjától számított harminc napig más, e törvény feltételeinek megfelelő érdekképviselet is írásban tájékoztathatja a megalakításban való részvételi szándékáról a kezdeményezőket, illetve az Ágazati Részvételt Megállapító Bizottságot (a továbbiakban: ÁRMB).
+(2) Az ÁRMB a kérelmet – az ágazat, valamint a kezdeményezők (4) bekezdés b) pontjában szereplő adatainak megjelölésével – a miniszter hivatalos lapjában végzésben közzéteszi. A közzététel időpontjától számított harminc napig más, e törvény feltételeinek megfelelő érdekképviselet is írásban tájékoztathatja a megalakításban való részvételi szándékáról az ÁRMB-t, valamint azokat a szervezeteket, amelyek az (1) bekezdésben meghatározott kérelmet benyújtották.
 
-(3) A harminc napos határidő leteltével a kezdeményező és a részvételi szándékukat bejelentő érdekképviseletek ÁPB létrehozásáról állapodnak meg.
+(3) A harmincnapos határidő leteltével a kérelmet benyújtó és a részvételi szándékukat bejelentő érdekképviseletek megállapodnak ÁPB létrehozásáról.
 
 (4) Az ÁPB létrehozásáról szóló megállapodásnak tartalmaznia kell:
 
@@ -20,10 +20,12 @@ a) a megállapodás egy-egy eredeti példányát a miniszternek és – a 21. §
 
 b) az ÁPB-ben való, 6–8. § szerinti részvétel és – erre vonatkozó megállapodás hiányában – a 12. § (1) bekezdésében foglalt jogosultságok megállapításához szükséges érdekképviseleti adatokat – a 21. § (1) bekezdés a) pontjában foglalt eljárás lefolytatását kezdeményező kérelem benyújtásával egyidejűleg – az ÁRMB-nek.
 
-(6) Az (5) bekezdés a) pontja szerint megküldött megállapodást a miniszter hivatalos lapjában haladéktalanul nyilvánosságra kell hozni. Ha a megállapodást az érdekképviseletek hatvan napon belül nem küldik meg a miniszternek és az ÁRMB-nek, akkor azt semmisnek kell tekinteni.
+(5a) Ha a (3) bekezdés szerinti megállapodást az érdekképviseletek az aláírástól számított 15 napon belül nem küldik meg a miniszternek és az ÁRMB-nek, az ÁRMB az eljárás lefolytatását kezdeményező kérelmet visszautasítja.
 
-(7) Az ÁPB létrehozásáról szóló megállapodás semmis, valamint az ÁRMB eljárás lefolytatását kezdeményező kérelmet érdemi vizsgálat nélkül el kell utasítani, ha azok bármelyikét az ÁPB létrehozását kezdeményező, illetve a részvételi szándékát bejelentő valamennyi érdekképviselet nem írta alá.
+(6) Az (5) bekezdés a) pontja szerint megküldött megállapodást a miniszter hivatalos lapjának soron következő számában végzésben közzé kell tenni.
+
+(7) Az ÁPB létrehozásáról szóló megállapodás nem jön létre, valamint az ÁRMB eljárás lefolytatását kezdeményező kérelmet érdemi vizsgálat nélkül el kell utasítani, ha azok bármelyikét az ÁPB létrehozását kezdeményező, illetve a részvételi szándékát bejelentő valamennyi érdekképviselet nem írta alá.
 
 (8) Az (1)–(6) bekezdésben foglaltakat kell alkalmazni akkor is, ha egy már létrejött ÁPB tevékenységi területét valamely további nemzetgazdasági ágra, ágazatra, alágazatra, szakágazatra kiterjeszti.
 
-(9) Az ÁPB az ÁRMB 21. § (1) bekezdés b) pontja alapján meghozott határozata jogerőre emelkedésének napján jön létre.
+(9) Az ÁPB az ÁRMB 21. § (1) bekezdés b) pontja alapján meghozott határozata véglegessé válásának napján jön létre.

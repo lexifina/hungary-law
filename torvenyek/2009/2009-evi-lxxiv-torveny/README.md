@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-74-00-00
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 2009-74-00-00.8 |
 | 2013-01-01 | 2012. évi CCXVI. törvény | 2009-74-00-00.9 |
 | 2015-01-01 | 2012. évi LXXXVI. törvény | 2009-74-00-00.10 |
+| 2018-01-01 | 2017. évi L. törvény | 2009-74-00-00.11 |

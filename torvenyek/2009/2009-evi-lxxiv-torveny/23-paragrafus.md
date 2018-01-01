@@ -1,4 +1,4 @@
-23. § (1) Az ÁRMB tagja nem lehet olyan személy, aki ÁPB-tagsággal rendelkező ágazati érdekképviseletben választott tisztségviselői beosztást tölt be vagy ágazati érdekképviselet képviselője egy ÁPB-ben. E személy legkésőbb a miniszter 22. § (10) bekezdés alapján adott megbízásával egyidejűleg az összeférhetetlenséget eredményező tagságát, megbízatását köteles megszüntetni.
+23. § (1) Az ÁRMB tagja nem lehet olyan személy, aki ÁPB-tagsággal rendelkező ágazati érdekképviseletben választott tisztségviselői beosztást tölt be vagy ágazati érdekképviselet képviselője egy ÁPB-ben. E személy legkésőbb a miniszter 22. § (10) bekezdés alapján adott okirattal egyidejűleg az összeférhetetlenséget eredményező tagságát, megbízatását köteles megszüntetni.
 
 (2) Az ÁRMB tagja nem vehet részt olyan érdekképviselet ÁPB-tagsághoz, illetve reprezentativitáshoz előírt feltételeknek való megfelelése elbírálásában,
 

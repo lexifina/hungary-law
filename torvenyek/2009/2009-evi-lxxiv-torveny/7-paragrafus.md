@@ -14,7 +14,7 @@ ba) amelynek – az adott ágazatba főtevékenysége szerint besorolt – tagja
 
 bb) amelynek, vagy amely tagszervezeteinek legalább negyven, az ágazatba főtevékenysége alapján besorolt munkáltató a tagja.
 
-(2) Ha az ágazati érdekképviselet tevékenysége több ágazatra terjed ki, nyilatkozik arról, hogy az (1) bekezdésben meghatározott adatok az egyes ágazatok között – tényleges ágazati jelenlétének megfelelően – milyen arányban oszlanak meg. Az érdekképviseletet abban az ágazatban lehet ágazatinak tekinteni, amely vonatkozásában a megosztott adatok megfelelnek az (1) bekezdésben szereplő mértéknek.
+(2) Ha az ágazati érdekképviselet tevékenysége több ágazatra terjed ki, írásban nyilatkozik arról, hogy az (1) bekezdésben meghatározott adatok az egyes ágazatok között – tényleges ágazati jelenlétének megfelelően – milyen arányban oszlanak meg. Az érdekképviseletet abban az ágazatban lehet ágazatinak tekinteni, amely vonatkozásában a megosztott adatok megfelelnek az (1) bekezdésben szereplő mértéknek.
 
 (3) Ha
 
@@ -22,7 +22,7 @@ a) a munkáltató több munkáltatói érdekképviseletnek, ágazati érdekképv
 
 b) a munkáltatói érdekképviselet több ágazati érdekképviseletnek
 
-is tagja, nyilatkoznia kell, hogy adatait melyik munkáltatói érdekképviseletnél milyen arányban vegyék számításba. Ezt a szabályt kell megfelelően alkalmazni abban az esetben is, ha a szakszervezet több szakszervezeti szövetségnek is tagja.
+is tagja, írásban nyilatkoznia kell, hogy adatait melyik munkáltatói érdekképviseletnél milyen arányban vegyék számításba. Ezt a szabályt kell megfelelően alkalmazni abban az esetben is, ha a szakszervezet több szakszervezeti szövetségnek is tagja.
 
 (4) Az (1)–(3) bekezdésben foglaltakon túl az ÁPB tagja olyan ágazati érdekképviselet lehet, amely e tevékenységét legalább két éve folytatja. Az e feltételnek való megfelelést jelenti, ha
 

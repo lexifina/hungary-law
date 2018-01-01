@@ -1,4 +1,4 @@
-22. § (1) Az ÁRMB hat – elsősorban a munkaügyi közvetítésben, döntőbíráskodásban jelentős tapasztalattal rendelkező –, büntetlen előéletű tagból álló testület.
+22. § (1) Az ÁRMB hat – elsősorban a munkaügyi közvetítésben, döntőbíráskodásban jelentős tapasztalattal rendelkező –, büntetlen előéletű tagból álló szerv.
 
 (2) Az ÁRMB két tagját a miniszter delegálja.
 
@@ -26,26 +26,26 @@ b) abban legfeljebb két személy megjelölésére került sor.
 
 (9) Ha a szavazás érvénytelen, illetve – részben vagy egészben – eredménytelen, azt a tagok teljes körű megválasztásáig meg kell ismételni.
 
-(10) Az ÁRMB tagjait a miniszter bízza meg öt évre.
+(10) Az ÁRMB tagjainak tagsági jogviszonyát a miniszter által kiadott okirat tanúsítja.
 
-(11) Az ÁRMB tagjának megbízatása megszűnik:
+(11) Az ÁRMB tagjának tagsági jogviszonya megszűnik:
 
-a) a megbízás lejártának időpontjában,
+a) a tagsági jogviszonya lejártának időpontjában,
 
-b) ha a miniszter az általa delegált tag megbízatását visszavonja,
+b) ha a miniszter az általa delegált tagot visszahívja,
 
-c) ha a választásra jogosultak a tagot visszahívják, és erről tájékoztatják az Ágazati Párbeszéd Bizottságok Tanácsát, valamint a minisztert
+c) ha a választásra jogosultak a tagot visszahívják, és erről tájékoztatják az ÁPBT-t, valamint a minisztert,
 
-d) a tag lemondásával, illetve
+d) a tag lemondásával,
 
-e) ha a tag tevékenységét legalább hat hónapig nem látja el,
+e) ha a tag tevékenységét legalább 60 napig nem látja el,
 
 f) a tag halálával,
 
-g) az összeférhetetlenség megállapítását követő tizedik napon, amennyiben a tag az összeférhetetlenséget eddig az időpontig nem szünteti meg,
+g) az összeférhetetlenség megállapítását követő tizedik napon, ha a tag az összeférhetetlenséget eddig az időpontig nem szünteti meg,
 
 h) ha bűnösségét bíróság szándékos bűncselekmény elkövetésében jogerősen megállapította, az ítélet jogerőre emelkedésének napján.
 
 (12) A visszahívásra a választás szabályait kell megfelelően alkalmazni.
 
-(13) Az ÁRMB tagság megszűnése esetén a tagot delegáló oldal a (3)–(9) bekezdés megfelelő alkalmazásával harminc napon belül, a (11) bekezdés a) pontjában foglalt esetben a megbízás lejártának időpontjáig az ÁRMB-be új tagot választ.
+(13) Az ÁRMB tagság megszűnése esetén a tagot delegáló oldal a (3)–(9) bekezdés megfelelő alkalmazásával harminc napon belül, a (11) bekezdés a) pontjában foglalt esetben a jogviszony lejártának időpontjáig az ÁRMB-be új tagot választ.

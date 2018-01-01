@@ -8,6 +8,8 @@ b) a nemzetgazdasági ági, ágazati, alágazati, szakágazati, illetve a rehabi
 
 c) a szociális párbeszéddel kapcsolatos feladatot ellátó kormányzati szervekre,
 
-d) az Ágazati Párbeszéd Bizottságok Tanácsára.
+d) az Ágazati Párbeszéd Bizottságok Tanácsára,
+
+e) az Ágazati Részvételt Megállapító Bizottságra (a továbbiakban: ÁRMB).
 
 (2) Az (1) bekezdés a) pontjában foglaltakon túlmenően, a megváltozott munkaképességű dolgozókat foglalkoztató munkáltatók érdekképviseleteire abban az esetben is kiterjed a törvény hatálya, ha az érdekképviseletben tagsággal rendelkező munkáltatók a 19. § (3) bekezdésének c) pontja szerint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
