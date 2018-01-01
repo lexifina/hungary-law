@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-40-20-2
 | 2016-01-01 | 2002-40-20-22.28 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-09-01 | 2002-40-20-22.29 | 259/2016. (VIII. 31.) Korm. rendelet |
 | 2017-01-01 | 2002-40-20-22.30 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2002-40-20-22.31 | 457/2017. (XII. 28.) Korm. rendelet |
