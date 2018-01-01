@@ -8,6 +8,8 @@ b) a Velencei-tó vonatkozásában a 2. mellékletben
 
 meghatározott mederhasználati díjat kell fizetni.
 
-(2) A mederhasználati díjfizetési kötelezettség az üzemeltetési engedély jogosultját a vízjogi üzemeltetési engedély jogerőre emelkedésének napjától terheli.
+(2)[^1] A mederhasználati díjfizetési kötelezettség az üzemeltetési engedély jogosultját a vízjogi üzemeltetési engedély véglegessé válásának napjától terheli.
 
 (3) Az 1. és 2. mellékletben meghatározott díjak a mindenkori általános forgalmi adót nem tartalmazzák.
+
+[^1]: A 2. § (2) bekezdése az 55/2017. (XII. 27.) NFM rendelet 63. §-a szerint módosított szöveg.
