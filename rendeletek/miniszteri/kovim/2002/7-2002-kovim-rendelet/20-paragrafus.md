@@ -10,6 +10,6 @@ b) a kiválasztás során.
 
 (3) A repülőtér üzemben tartója, illetve a légiközlekedési hatóság tájékoztatja a Repülőtér-használók Bizottságát a repülőtéren a földi kiszolgálási tevékenység végzésére érvényes engedélyekkel rendelkezőkről és engedélyük időtartamáról.
 
-(4)[^28] A légiközlekedési hatóság a (3) bekezdésben meghatározott tájékoztatást Magyarország légiforgalmi tájékoztató kiadványában, az AIP-ben (Lt. 72. §) is közzéteszi.
+(4)[^25] A légiközlekedési hatóság a (3) bekezdésben meghatározott tájékoztatást Magyarország légiforgalmi tájékoztató kiadványában, az AIP-ben (Lt. 72. §) is közzéteszi.
 
-[^28]: A 20. § (4) bekezdése a 91/2011. (XII. 30.) NFM rendelet 21. § b) pontja szerint módosított szöveg.
+[^25]: A 20. § (4) bekezdése a 91/2011. (XII. 30.) NFM rendelet 21. § b) pontja szerint módosított szöveg.
