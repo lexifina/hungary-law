@@ -1,0 +1,3 @@
+## 14. § A civil szervezetek információs rendszeréről szóló 24/2012. (IV. 25.) KIM rendelet 2. § 10. pontjában az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény X. fejezete” szövegrész helyébe az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény” szöveg lép.
+
+## 13. A bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás, valamint a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás rendjéről és a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díjról szóló 53/2012. (XII. 22.) KIM rendelet módosítása

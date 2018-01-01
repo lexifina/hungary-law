@@ -1,0 +1,3 @@
+## 7. § Az igazságügyért felelős miniszter és a Magyar Országos Közjegyzői Kamara által a külföldi felhasználásra szánt közokiratok tanúsítvánnyal történő ellátásának eljárásáról szóló 16/2008. (VIII. 1.) IRM rendelet 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § E rendelet hatálya a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezményben megjelölt közokiratoknak a Magyar Országos Közjegyzői Kamara (a továbbiakban: Kamara) által kiadott tanúsítvány kiadásáért járó igazgatási szolgáltatási díj megfizetésének módjára terjed ki.”
