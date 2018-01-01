@@ -34,8 +34,8 @@ Kelt: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _, ⬜ ⬜ ⬜ ⬜. év⬜ ⬜. hó ⬜ ⬜. n
 
 Megjegyzés:
 
-(10) oszlop: Az igénylés időpontját követően jogerőre emelkedett döntések alapján a tárgyhónapra tekintettel várhatóan kifizetendő összeget kell feltüntetni.
+(10) oszlop: Az igénylés időpontját követően véglegessé vált döntések alapján a tárgyhónapra tekintettel várhatóan kifizetendő összeget kell feltüntetni.
 
 (11) oszlop: Az előző havi kifizetéshez igényelt, és fel nem használt összeget kell feltüntetni.
 
-[^28]: A 14. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 13. § (2) bekezdés b) pontja iktatta be.
+[^28]: A 14. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 13. § (2) bekezdés b) pontja iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 164. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

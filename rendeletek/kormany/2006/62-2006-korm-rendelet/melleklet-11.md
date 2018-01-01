@@ -36,8 +36,8 @@ gazdasági vezető kormánymegbízott
 
 Megjegyzések:
 
-A (10) oszlopban az igénylés időpontját követően jogerőre emelkedett döntések alapján a tárgyhónapra tekintettel várhatóan kifizetendő összeget kell feltüntetni.
+A (10) oszlopban az igénylés időpontját követően véglegessé vált döntések alapján a tárgyhónapra tekintettel várhatóan kifizetendő összeget kell feltüntetni.
 
 A (11) oszlopban az előző havi kifizetéshez igényelt, és fel nem használt összeget kell feltüntetni.
 
-[^25]: A 11. számú mellékletet a 341/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be, hatályon kívül helyezte a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés g) pontja, újonnan a 353/2014. (XII. 29.) Korm. rendelet 34. § a) pontja iktatta be.
+[^25]: A 11. számú mellékletet újonnan a 353/2014. (XII. 29.) Korm. rendelet 34. § a) pontja iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 164. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

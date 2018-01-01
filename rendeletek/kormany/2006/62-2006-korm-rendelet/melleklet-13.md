@@ -32,7 +32,7 @@
 
 ## Megjegyzések:
 
-## A (11) oszlopban az igénylés időpontját követően jogerőre emelkedett döntések alapján a tárgyhónapra tekintettel várhatóan kifizetendő összeget kell feltüntetni.
+## A (11) oszlopban az igénylés időpontját követően véglegessé vált döntések alapján a tárgyhónapra tekintettel várhatóan kifizetendő összeget kell feltüntetni.
 
 ## A (12) oszlopban az előző havi kifizetéshez igényelt, és fel nem használt összeget kell feltüntetni.
 
@@ -72,8 +72,8 @@ Kelt: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _, ⬜ ⬜ ⬜ ⬜. év⬜ ⬜. hó ⬜ ⬜. n
 
 Megjegyzés:
 
-(7) oszlop: Az igénylés időpontját követően jogerőre emelkedett döntések alapján a tárgyhónapra tekintettel várhatóan kifizetendő összeget kell feltüntetni.
+(7) oszlop: Az igénylés időpontját követően véglegessé vált döntések alapján a tárgyhónapra tekintettel várhatóan kifizetendő összeget kell feltüntetni.
 
 (8) oszlop: Az előző havi kifizetéshez igényelt, és fel nem használt összeget kell feltüntetni.
 
-[^27]: A 13. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 13. § (2) bekezdés a) pontja iktatta be.
+[^27]: A 13. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 13. § (2) bekezdés a) pontja iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 164. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
