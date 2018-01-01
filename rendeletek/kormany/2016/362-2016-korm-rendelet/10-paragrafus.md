@@ -1,4 +1,6 @@
-10. § (1) Az áldozatsegítéssel és a jogi segítségnyújtással kapcsolatos igazságügyi igazgatási, illetve közigazgatási hatósági ügyekben a (2)–(6) bekezdésben foglalt kivételekkel első fokon áldozatsegítő szolgálatként, illetve jogi segítségnyújtó szolgálatként a járási hivatal, másodfokon a fővárosi és megyei kormányhivatal jár el.
+10. § (1)[^3] Az áldozatsegítéssel kapcsolatos igazságügyi igazgatási, illetve közigazgatási hatósági ügyekben a (2)–(6) bekezdésben foglalt kivételekkel első fokon áldozatsegítő szolgálatként a járási hivatal, másodfokon a fővárosi és megyei kormányhivatal jár el.
+
+(1a)[^4] A jogi segítségnyújtással kapcsolatos igazságügyi igazgatási, illetve közigazgatási hatósági ügyekben a (2) bekezdésben foglalt kivétellel a jogi segítségnyújtó szolgálatként eljáró járási hivatal jár el.
 
 (2) A fővárosi és megyei kormányhivatal gyakorolja az áldozatsegítési eljárásban, valamint a jogi segítségnyújtási eljárásban a visszatérítendő tartozás elengedésével vagy mérséklésével összefüggő méltányossági jogkört.
 
@@ -9,3 +11,6 @@
 (5) Az Európai Unió más tagállamából érkező kárenyhítési kérelmek esetén döntő hatóságként Budapest Főváros Kormányhivatala az illetékes.
 
 (6) Ha az áldozat az Áldozatsegítő Vonalon keresztül igényel tájékoztatást, akkor a tájékoztatást a miniszter biztosítja, függetlenül attól, hogy az áldozat korábban nyújtott-e be kérelmet valamely fővárosi és megyei kormányhivatalhoz vagy járási hivatalhoz.
+
+[^3]: A 10. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 582. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: A 10. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 581. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
