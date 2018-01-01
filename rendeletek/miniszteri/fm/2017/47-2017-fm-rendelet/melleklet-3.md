@@ -1326,7 +1326,7 @@
 
 | Keresztéte | 139 |
 
-| Kesznyéten | 189 |
+| Kesznyéten | 186 |
 
 | Kéked | 073 |
 

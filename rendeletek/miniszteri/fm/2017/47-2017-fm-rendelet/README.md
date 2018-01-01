@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-47-20-1
 | --- | --- | --- |
 | 2017-10-02 | 2017-47-20-11.1 | 47/2017. (IX. 29.) FM rendelet |
 | 2017-10-03 | 2017-47-20-11.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2017-47-20-11.3 | 67/2017. (XII. 27.) FM rendelet |
