@@ -1,6 +1,6 @@
 ## 3. A pályázati kiírás
 
-4. §[^10] (1) A pályázatokat technológiasemleges formában kell kiírni.
+4. §[^12] (1) A pályázatokat technológiasemleges formában kell kiírni.
 
 (2) A Hivatal a pályázatokat az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) felkérésére írja ki. A Hivatal megkeresésére a pályázatok kiírását megelőzően a miniszter meghatározza a pályázati kiírás fontosabb elemeit, különös tekintettel az alábbiakra:
 
@@ -24,4 +24,4 @@ c) a külföldi telephelyen termelt villamos energia termelői által elnyerhet�
 
 (9) Az ajánlati biztosítékot és a teljesítési biztosítékot azonos elv alapján, megkülönböztetéstől mentesen kell megállapítani az egyes technológiákra és pályázókra.
 
-[^10]: A 4. § a 43/2017. (XI. 8.) NFM rendelet 9. §-ával megállapított szöveg.
+[^12]: A 4. § a 43/2017. (XI. 8.) NFM rendelet 9. §-ával megállapított szöveg.

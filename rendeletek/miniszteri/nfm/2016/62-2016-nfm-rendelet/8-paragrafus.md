@@ -38,8 +38,13 @@ j) a tervezett telephely szerint illetékes hálózati engedélyes ajánlatát a
 
 (5) A részvételi feltételeknek a pályázati eljárás teljes tartama, illetve az elnyert támogatási jogosultság teljes időtartama alatt meg kell felelni.
 
-(6) Ha a pályázó az elnyert támogatási jogosultság időtartama alatt nem felel meg a pályázati feltételeknek, akkor a meg nem felelés időtartamára támogatási jogosultságát a Hivatal felfüggeszti. A feltételeknek való meg nem felelés utólagos megállapítása esetén a pályázó a támogatási jogosultságát elveszíti azon időszakra, amelyre a feltételek nem teljesülnek, és az általa ezen időszakra kapott támogatás jogosulatlannak minősül.
+(6)[^25] Ha a pályázó az elnyert támogatási jogosultság időtartama alatt nem felel meg a pályázati feltételeknek, akkor a meg nem felelés időtartamára támogatási jogosultságát a Hivatal határozatban felfüggeszti. A feltételeknek való meg nem felelés utólagos megállapítása esetén a pályázó a támogatási jogosultságát elveszíti azon időszakra, amelyre a feltételek nem teljesülnek, és az általa ezen időszakra kapott támogatás jogosulatlannak minősül.
 
 (7) A pályázó részvételi, illetve jogosultsági feltételeknek való megfelelésben bekövetkezett változásról a Hivatalt 8 napon belül értesíti.
 
 (8) A pályázó köteles a kiírási dokumentációban foglalt eljárási szabályokat betartani.
+
+(9)[^26] A pályázatokat a kiírási dokumentációban foglalt módon kell a Hivatalnál előterjeszteni.
+
+[^25]: A 8. § (6) bekezdése a 43/2017. (XI. 8.) NFM rendelet 13. §-ával megállapított szöveg.
+[^26]: A 8. § (9) bekezdését a 43/2017. (XI. 8.) NFM rendelet 14. §-a iktatta be.

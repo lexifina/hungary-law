@@ -1,6 +1,6 @@
 ## 7. A kiosztható támogatási jogosultságok korlátai
 
-18. §[^24] (1) A kötelező átvétel és zöld prémium címén kiosztható éves új támogatásra az 1. melléklet 1., 2. és 4. pontja felső korlátokat határoz meg.
+18. §[^33] (1) A kötelező átvétel és zöld prémium címén kiosztható éves új támogatásra az 1. melléklet 1., 2. és 4. pontja felső korlátokat határoz meg.
 
 (2) Barna prémium címén a kiosztható éves támogatásra az 1. melléklet 3. pontja felső korlátot határoz meg.
 
@@ -24,4 +24,4 @@
 
 (12) A barna prémiumra való jogosultságot elnyerő termelők kötelesek a jogosultság ideje alatt minden év július 31-ig beérkezően megküldeni a Hivatal részére a tárgyévet követő 5 naptári évre szóló üzleti tervük aktualizált változatát, amiben a tárgyévet megelőző 5 év tényadatait és a tárgyév várható adatait is feltüntetik.
 
-[^24]: A 18. § a 43/2017. (XI. 8.) NFM rendelet 21. §-ával megállapított szöveg.
+[^33]: A 18. § a 43/2017. (XI. 8.) NFM rendelet 21. §-ával megállapított szöveg.
