@@ -1,3 +1,5 @@
+## 12. §[^10] Helyettes államtitkár fegyelmi ügyében a kijelölt vizsgálóbiztos legalább helyettes államtitkári tisztséget betöltő állami vezető, a fegyelmi tanács elnöke a közigazgatási államtitkár, tagjai pedig – a miniszter által felkért – az eljárás alá vonttal legalább azonos tisztséget betöltő szakmai vezetők.
+
 ## V. Fejezet
 
 ## A FEGYELMI ELJÁRÁS SZABÁLYAI A KÖZSZOLGÁLATI JOGVISZONYBAN
@@ -18,6 +20,7 @@
 
 (5) A közszolgálati ügykezelők fegyelmi eljárásában a 6. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a fegyelmi tanács tagjai a munkáltatói jogkör gyakorlója által kijelölt köztisztviselők.
 
+[^10]: A 12. § a 338/2017. (XI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^11]: A 13. § (2) bekezdése az 516/2013. (XII. 30.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^12]: A 13. § (2a) bekezdését az 516/2013. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^13]: A 13. § (3) bekezdése az 516/2013. (XII. 30.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
