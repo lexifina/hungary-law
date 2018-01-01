@@ -1,0 +1,19 @@
+## 5. Egyedi gyógyszerbeszerzés
+
+6. § (1) A fekvőbeteg-ellátást végző intézmény orvosa vagy a kezelőorvos kérelme alapján az EGT tagállamában, illetve az EGT-megállapodásban részes tagállamban nem, de más országban forgalomba hozatali engedéllyel rendelkező gyógyszerek egyedi beszerzését a (2) bekezdésben foglalt feltételek fennállása esetén – a Gytv. 25. § (2) bekezdésében foglaltaknak megfelelően – az OGYÉI engedélyezi az alkalmazás szükségességének vizsgálatát követően.
+
+(2) Az (1) bekezdés szerinti gyógyszer beszerzése fekvőbeteg-ellátást végző intézmény vagy a (7) bekezdésben meghatározott kezelőorvos által kezelt beteg részére akkor engedélyezhető, ha a gyógyszer életmentő vagy alkalmazása során a Gytv. 1. § 23. pontjában meghatározott különös méltánylást érdemlő betegellátási érdek fennáll, és egészségügyi intézmény által benyújtott kérelem esetén az intézmény szakmai vezetője szerint is nélkülözhetetlen a gyógyszer alkalmazása.
+
+(3) A kérelmet a fekvőbeteg-ellátást végző intézmény orvosának az ESZCSM rendelet 3. számú mellékletében meghatározott „Gyógyintézeti (kórházi) gyógyszerigénylő lap” kitöltésével – a gyógyszer pontos adataival, az igényelt mennyiségnek és a kezelés várható időtartamának feltüntetésével, részletes indokolással és az ezt megalapozó orvosi bizonylatok másolatával, valamint az intézmény vezetője és az intézeti főgyógyszerész ellenjegyzésével ellátva – kell 2 példányban, írásban az OGYÉI-hez benyújtania.
+
+(4) A fekvőbeteg-ellátást végző intézmény a (3) bekezdés szerinti kérelmet sürgős szükség esetére, adott gyógyszer több betegen történő sürgős alkalmazásának elősegítése érdekében, a kezelt betegek nevének megjelölése nélkül, több beteg részére történő mennyiség megjelölésével is továbbíthatja az OGYÉI részére. Az így beszerzett gyógyszer felhasználásáról a fekvőbeteg-ellátást végző intézmény a (3) bekezdésben meghatározott kérelem tartalmi elemeinek megfelelő adattartalommal külön nyilvántartást vezet.
+
+(5) Különösen indokolt, sürgős esetben a kérelem egyéb írott formában is továbbítható az OGYÉI-nek, amely a feltételek megléte esetén adja ki az engedélyt. Ilyen esetben a (3) bekezdésben meghatározott kérelmet – eredeti aláírásokkal, bélyegzővel – haladéktalanul pótolni kell.
+
+(6) Ha a különös méltánylást érdemlő betegellátási érdek a beteg járóbeteg-ellátás keretében történő gyógykezelése során továbbra is fennáll, a kezelőorvos – megfelelő szakmai indokolással – évente a beteg további kezeléséhez szükséges gyógyszer behozatalának és alkalmazásának engedélyezését – az ESZCSM rendelet 4. számú mellékletében meghatározott „Járóbeteg gyógyszerigénylő lap” kitöltésével legfeljebb 12 hónapra – kérheti az OGYÉI-től. A 12. hónap elteltét követően – ha a beállított gyógyszeres terápia folytatása továbbra is indokolt – a kezelőorvos az ESZCSM rendelet 5. számú mellékletében meghatározott „Egyedi gyógyszerigénylés-hosszabbítási kérelem járóbeteg részére” elnevezésű adatlap kitöltésével további gyógyszer megrendelésére és alkalmazására kérhet engedélyt.
+
+(7) Fekvőbeteg-ellátást végző intézményben történő beállítás hiányában a kezelőorvos – ha az igénylőlapon feltüntetett javallat szerinti klinikai szakágban szakorvosi képesítése van – akkor kérheti betegének a (6) bekezdés szerint közvetlenül az (1) bekezdésben meghatározott gyógyszer behozatalát, ha a (2) bekezdésben foglalt feltételek fennállnak, és megfelelően indokolja, hogy az adott betegség kezeléséhez a beteg fekvőbeteg-ellátást végző intézménybe történő felvétele nem szükséges.
+
+(8) A (6) és (7) bekezdésben meghatározott esetekben a kérelemhez a 30 napra rendelt gyógyszeradagról szóló érvényes vényt is mellékelni kell.
+
+(9) Ha az OGYÉI kiadja az (1) bekezdés szerinti engedélyt, a kezelőorvos – vényen történő rendelés esetén – az OGYÉI engedélyének másolatát a vénnyel együtt átadja a betegnek.
