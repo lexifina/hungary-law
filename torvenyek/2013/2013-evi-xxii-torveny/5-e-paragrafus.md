@@ -1,0 +1,1 @@
+5/E. § A helyszíni ellenőrzést végző személy részére a Hivatal megbízólevelet állít ki, amelyet az engedélyes képviselőjének, alkalmazottjának, illetve meghatalmazottjának, kérésére át kell adni. Az üzemi berendezéseket érintő helyszíni ellenőrzést a munkavédelmi és műszaki-biztonsági előírások megtartásával kell lefolytatni.

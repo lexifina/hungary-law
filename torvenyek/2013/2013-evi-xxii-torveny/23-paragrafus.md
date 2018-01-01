@@ -6,4 +6,4 @@
 
 (3) A MEH-nél foglalkoztatott kormánytisztviselő, kormányzati ügykezelő kormányzati szolgálati jogviszonya közszolgálati jogviszonnyá alakul át. A jogviszony átalakulása nem érinti a Hivatal létrejötte előtt keletkezett kormányzati szolgálati jogviszonyból eredő jogokat és kötelezettségeket, kivéve ha e törvény ettől eltérően rendelkezik. A jogviszony átalakulásáról a munkáltató köteles harminc napon belül a köztisztviselőt, illetve a közszolgálati ügykezelőt értesíteni.
 
-(4)
+(4) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
