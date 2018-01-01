@@ -4,13 +4,13 @@ a) a határozat számát és tárgyát,
 
 b) a hatósági eljárásban érintett – nem természetes személy – ügyfél nevét és székhelyét,
 
-c) a határozat rendelkező részét, ide nem értve jogerős határozat esetén a jogorvoslatról szóló tájékoztatást,
+c) a határozat rendelkező részét, ide nem értve véglegessé vált határozat esetén a jogorvoslatról szóló tájékoztatást,
 
 d) a határozata ellen indított jogorvoslati eljárás tényét,
 
 e) a határozata elleni jogorvoslati eljárás során hozott jogerős ítélet rendelkező részét.
 
-(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. §, a Tpt. 400. § (1) bekezdés o) pont 2. alpont, a Tpt. 400. § (1) bekezdés w) pont, a Bszt. 164. §, és a Kbftv. 174/A. § alapján hozott, (1) bekezdés szerint közzétett, jogerős határozatában megjelöli a jogsértő természetes személy nevét is.
+(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. §, a Tpt. 400. § (1) bekezdés o) pont 2. alpont, a Tpt. 400. § (1) bekezdés w) pont, a Bszt. 164. §, és a Kbftv. 174/A. § alapján hozott, (1) bekezdés szerint közzétett, véglegessé vált határozatában megjelöli a jogsértő természetes személy nevét is.
 
 (2) Az MNB az (1) bekezdés szerinti közzététel során tisztség betöltését engedélyező határozat esetén az (1) bekezdésben meghatározottakon túl a tisztségviselő családi- és utónevét is közzéteszi honlapján.
 
@@ -27,5 +27,15 @@ b) aránytalan hátrányt okoz a természetes és jogi személyekre nézve, vagy
 c) veszélyezteti valamely folyamatban lévő büntetőeljárás sikerességét.
 
 (5) Az MNB mérlegelése alapján a Hpt.-ben, a Tpt.-ben, a Bszt.-ben és a Kbftv.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele legfeljebb 60 napra elhalasztható, ha a jogsértő magatartás várhatóan rövid időn (legfeljebb 60 napon) belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
+
+(5a) Amennyiben az MNB úgy ítéli meg, hogy az 1286/2014/EU európai parlamenti és tanácsi rendelet szabályainak megsértése okán hozott, véglegessé vált határozatában megjelölt jogsértő nem természetes személy nevének és székhelyének, valamint a jogsértő természetes személy nevének közzététele – az ilyen adatok közzététele által okozott hátrány és az azáltal elérhető előny arányosságát vizsgáló eseti értékelés alapján – aránytalan, veszélyezteti a pénzügyi piacok stabilitását vagy valamely folyamatban lévő büntetőeljárás sikerességét, akkor az MNB köteles
+
+a) a közzétételt – az (5) bekezdéssel összhangban – elhalasztani mindaddig, amíg a közzététel ellen szóló okok meg nem szűnnek,
+
+b) határozatát – az (5) bekezdéssel összhangban – az anonimitás megőrzésével közzétenni, amennyiben az anonim közzététel biztosítja az érintett személyes adatok hatékony védelmét, vagy
+
+c) eltekinteni a közzétételtől, amennyiben az a) és b) pontban meghatározott opciókat nem tekintik elégségesnek annak biztosításához, hogy a pénzügyi piacok stabilitása ne kerüljön veszélybe vagy a határozat közzététele jelentőségéhez viszonyítottan arányos legyen.
+
+(5b) Amennyiben az MNB úgy dönt, hogy az (5a) bekezdés b) pontja alapján az anonimitás megőrzésével teszi közzé a határozatot, a közzététel észszerű ideig elhalasztható, amennyiben az említett időszak során az anonimitás megőrzésének indokai előre láthatólag meg fognak szűnni.
 
 (6) Az MNB a Hpt.-ben, a Tpt.-ben, a Bszt.-ben és a Kbftv.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig elérhetővé teszi a honlapján.

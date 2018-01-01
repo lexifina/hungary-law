@@ -12,7 +12,11 @@ d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
 
 e) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából [az a)–e) pont a továbbiakban együtt: piacfelügyeleti eljárás].
 
-(2) Az engedély nélkül vagy bejelentés hiányában végzett tevékenység, a bennfentes kereskedelem, illetve piacbefolyásolás megállapítására, valamint a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzésére irányuló eljárásban, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése során az ügyintézési határidő az eljárás hivatalból történő megindításának napjától számított hat hónap. Az ügyintézési határidő indokolt esetben, egy alkalommal, legfeljebb három hónappal meghosszabbítható.
+(2) Az (1) bekezdés a)–d) pontjában meghatározott piacfelügyeleti eljárásban az ügyintézési határidő az ellenőrzés hivatalból történő megindításának napjától számított
+
+a) hat hónap a hatósági ellenőrzési eljárás lefolytatására, továbbá
+
+b) jogszabálysértés megállapítása esetén további három hónap a hatósági eljárás lefolytatására.
 
 (3) Az MNB – az ok és a cél megjelölésével megküldött – felhívására a 39. § (1) és (2) bekezdésében meghatározott jogszabályok hatálya alá tartozó személy vagy szervezet köteles az általa kezelt, a piacfelügyeleti eljárás ügyfelére vonatkozó és az üggyel kapcsolatos
 
@@ -26,18 +30,16 @@ c) azon személyes adatot átadni, amelyet külön törvény alapján az MNB kez
 
 (5) Az MNB a (3) bekezdés c) pontja, valamint a (4) bekezdés alapján megismert adatot,
 
-a) ha az ellenőrzés alapján az MNB határozatot nem hozott, illetve büntetőeljárást nem kezdeményezett, akkor legfeljebb az ellenőrzés lezárásáig,
+a) a (2) bekezdés a) pontjában meghatározott hatósági ellenőrzés lezárásáig kezelheti, ha az MNB az ellenőrzés alapján hatósági eljárást nem indított, illetve büntetőeljárást nem kezdeményezett,
 
-b) az ellenőrzést lezáró, de intézkedést nem tartalmazó határozat jogerőre emelkedéséig, intézkedést elrendelő határozat végrehajtásáig vagy a végrehajthatóság elévüléséig,
+b) a (2) bekezdés b) pontjában meghatározott hatósági eljárás során hozott intézkedést elrendelő határozat végrehajtásáig vagy a végrehajthatóság elévüléséig kezelheti, vagy
 
-c) ha az MNB döntésének bírósági felülvizsgálatát kérték vagy az MNB büntetőeljárást kezdeményez, akkor – ha rendkívüli jogorvoslattal nem éltek – a bírósági eljárás jogerős befejezéséig
+c) a piacfelügyeleti eljárással kapcsolatos bírósági eljárás – ideértve a rendkívüli jog- és perorvoslati eljárást is – jogerős befejezéséig kezelheti, ha az MNB döntését közigazgatási perben megtámadták vagy az MNB büntetőeljárást kezdeményezett.
 
-kezelheti, és ezt követően haladéktalanul, de legfeljebb két munkanapon belül megsemmisíti.
+(6)
 
-(6) Ha a piacfelügyeleti eljárás lefolytatásához szükséges és az érintett adat védelmét szabályozó külön törvény azt nem zárja ki, az MNB a Ket. 17. § (4) bekezdésben meghatározottak szerint jogosult megismerni és kezelni a védett adatot.
+(7)
 
-(7) Az MNB felhívására az ügyfél, az eljárás egyéb résztvevője és a tényállás tisztázása során közreműködésre kötelezett személy adatszolgáltatás keretében köteles közölni az érdemi döntéshez szükséges adatokat, ideértve a személyes és – ha az érintett adat védelmét szabályozó külön törvény azt nem zárja ki – a védett adatokat is. Az ügyfél jogsértést beismerő nyilatkozatot nem köteles tenni, azonban az egyéb, rá nézve terhelő bizonyíték rendelkezésre bocsátását, adatok, iratok szolgáltatását nem tagadhatja meg.
+(8)
 
-(8) Az MNB felhívására az ügyfél, az eljárás egyéb résztvevője és a tényállás tisztázása során közreműködésre kötelezett személy – különösen egyéb adatok szolgáltatásával vagy iratok csatolásával – köteles igazolni a nyilatkozata, vallomása vagy adatszolgáltatása részét képező tényállítás valóságát.
-
-(9) Az ügyfél, az eljárás egyéb résztvevője és a tényállás tisztázása során közreműködésre kötelezett személy – ha az érintett adat védelmét szabályozó külön törvény azt nem zárja ki – a személyes és védett adatról is meghallgatható, illetve köteles azt az MNB rendelkezésére bocsátani. Az ügyfél jogsértést beismerő nyilatkozatot meghallgatása keretében sem köteles tenni.
+(9)

@@ -16,4 +16,12 @@ adatok megismerésére és kezelésére.
 
 (5) Az (1) bekezdés a) pontja szerinti adatok megismerésére nem természetes személy ügyfél esetén az MNB az ügyfél vizsgált tevékenységéért felelős vagy azzal közvetlen összefüggésbe hozható személy vonatkozásában is jogosult, amennyiben a piacfelügyeleti eljárás során beszerzett bizonyítékok alapján valószínűsíthető, hogy a nem természetes személy ügyfél tevékenysége végzéséhez ezen értékpapír-, ügyfél- vagy fizetési számlán kezelt összegek is felhasználásra kerülnek. Amennyiben a megismert számlaforgalom alapján az ellenőrzött személy érintettségére vonatkozó gyanú alaptalannak bizonyul, az ellenőrzött személyt az MNB ügyfélként nem vonja be a piacfelügyeleti eljárásba, azonban az érintett számlaforgalom ellenőrzéséről értesíti. Amennyiben a megismert számlaforgalom alapján az ellenőrzött személy érintettségére vonatkozó gyanú alaposnak bizonyul, úgy az MNB az ellenőrzött személyt a piacfelügyeleti eljárásba ügyfélként vonja be.
 
-(6) Ha törvény eltérően nem rendelkezik az MNB az (1) bekezdésben meghatározott adatokat a piacfelügyeleti eljárás során hozott határozat vagy az eljárást megszüntető végzés jogerőre emelkedésétől, illetve a bírósági eljárás – ideértve annak jogorvoslati szakaszait is – befejezésétől számított 5 évig kezelheti.
+(6) A 90. § (5) bekezdésétől eltérően, ha az MNB hatósági eljárására vonatkozó más törvény eltérően nem rendelkezik, az MNB az (1) bekezdésben meghatározott adatokat
+
+a) a hatósági eljárás megindításának hiányában legfeljebb a 90. § (2) bekezdés a) pontjában meghatározott hatósági ellenőrzés lezárásától,
+
+b) a 90. § (2) bekezdés b) pontjában meghatározott hatósági eljárás megindítása esetén a határozat vagy az eljárást megszüntető végzés véglegessé válásától,
+
+c) a piacfelügyeleti eljárással kapcsolatban indult bármely bírósági eljárás jogerős befejezésétől
+
+számított 5 évig kezelheti.

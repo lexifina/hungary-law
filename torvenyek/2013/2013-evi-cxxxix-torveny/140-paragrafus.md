@@ -84,6 +84,8 @@ af) azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsát�
 
 ag) a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
 
+ak) az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
+
 ax) a belső piac integritásának védelme és alternatív finanszírozási forma felkutatása érdekében.
 
 b) az Európai Bankhatóságot
@@ -140,7 +142,7 @@ by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mente
 
 bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében meghatározott követelmények alkalmazásáról,
 
-bzs) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti határozatokról;
+bzs) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti határozatokról, valamint az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről;
 
 c) az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
 
@@ -160,7 +162,9 @@ cg) a Bit. 310. § (4) és (5) bekezdése szerinti vizsgálatról és az annak a
 
 ch) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti információkról, vizsgálatokról és határozatokról;
 
-ci)–cj)
+ci) az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és az azok során hozott jogerős ítéletekről;
+
+cj)
 
 ck)
 

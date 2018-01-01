@@ -6,7 +6,7 @@ a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy 
 
 b) a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény rendelkezéseinek,
 
-c) a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény rendelkezéseinek, továbbá
+c) a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény rendelkezéseinek,
 
 d) az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény rendelkezéseinek [az a)–d) pont a továbbiakban együtt: fogyasztóvédelmi rendelkezések], továbbá
 
@@ -28,10 +28,10 @@ e) belföldi fogyasztói jogvita: bármely fogyasztói jogvita, kivéve a 125. �
 
 f) határon átnyúló fogyasztói jogvita: bármely fogyasztói jogvita, kivéve a belföldi fogyasztói jogvitát.
 
-(3) A fogyasztóvédelmi eljárást a fogyasztó kizárólag azt követően kezdeményezheti, miután a 39. §-ban meghatározott törvények hatálya alá tartozó személynél vagy szervezetnél, e személy vagy szervezet által meghatározott és közzétett elérhetőségein keresztül – személyesen, telefonon, postai úton, telefaxon, az erre a célra üzemeltetett informatikai rendszeren keresztül – azonosítására alkalmas tartalommal, szóban vagy írásban a személy vagy szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
+(3) A fogyasztóvédelmi eljárás kérelemre történő megindításának feltétele, hogy a fogyasztó a 39. §-ban meghatározott törvények hatálya alá tartozó személynél vagy szervezetnél, e személy vagy szervezet által meghatározott és közzétett elérhetőségein keresztül – személyesen, telefonon, postai úton, telefaxon, az erre a célra üzemeltetett informatikai rendszeren keresztül – azonosítására alkalmas tartalommal, szóban vagy írásban a személy vagy szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
 
 a) a panaszára nem kapott választ,
 
-b) a panasz kivizsgálása nem a 39. §-ban meghatározott törvények hatálya alá tartozó törvényekben előírtak szerint történt,
+b) a panasz kivizsgálása nem a 39. §-ban meghatározott törvények hatálya alá tartozó személyre vagy szervezetre vonatkozó szabályok szerint történt,
 
 c) a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet válaszából egyéb, az (1) bekezdésben meghatározott jogszabályokban előírt fogyasztói jogot sértő körülményt vélelmez.

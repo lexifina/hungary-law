@@ -16,4 +16,4 @@
 
 (9) A helyszíni ellenőrzés eredményes és biztonságos lefolytatása érdekében, ha annak jellege indokolttá teszi, az MNB a rendőrség közreműködését kérheti.
 
-(10) Az MNB az ellenőrzési eljárásban tartott helyszíni ellenőrzésről külön jegyzőkönyvet vagy egyszerűsített jegyzőkönyvet nem készít, az ellenőrzési eljárás során tett megállapításait a 69. § (1) bekezdése szerinti vizsgálati jelentésben és csoportvizsgálati jelentésben rögzíti.
+(10) Az MNB az ellenőrzési eljárásban tartott helyszíni ellenőrzésről külön jegyzőkönyvet vagy feljegyzést nem készít, az ellenőrzési eljárás során tett megállapításait a 69. § (1) bekezdése szerinti vizsgálati jelentésben és csoportvizsgálati jelentésben rögzíti.

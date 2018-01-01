@@ -1,4 +1,4 @@
-63. § (1) Az ellenőrzési eljárásban a Ket. 29. § (3)–(12) bekezdését, 70. §-át, a 93. §-át, 94. §-át és 94/A. §-át nem kell alkalmazni.
+63. § (1)
 
 (2) Az MNB az ügyfél kérelmére nem folytat le ellenőrzési eljárást.
 

@@ -14,4 +14,4 @@ c) az arra vonatkozó figyelemfelhívást, hogy a hatósági szerződés az MNB-
 
 (4) Nincs helye intézkedésnek vagy jogkövetkezmény alkalmazásának az MNB-vel hatósági szerződést kötő ügyféllel szemben a szerződésben megállapított teljesítési határidőn belül elkövetett azon jogsértés miatt, amelynek megszüntetése érdekében a hatósági szerződés megkötésére sor került.
 
-(5) A Ket. 76. § (3) bekezdésében meghatározott tartalmú hatósági szerződés megkötésére akkor kerülhet sor, ha az ügyfél a szerződésszegése esetére aláveti magát a (3) bekezdésben foglaltaknak.
+(5) Az Ákr. 92. § (3) bekezdésében meghatározott tartalmú hatósági szerződés megkötésére akkor kerülhet sor, ha az ügyfél a szerződésszegése esetére aláveti magát a (3) bekezdésben foglaltaknak.

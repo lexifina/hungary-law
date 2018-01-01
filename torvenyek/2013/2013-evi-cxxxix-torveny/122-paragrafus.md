@@ -6,22 +6,22 @@
 
 (4) Ha a 113. § (2) bekezdése szerinti eljárásban meghozott kötelezést tartalmazó határozatot határidőn belül ellentmondással megtámadják, a határozat hatályát veszti, feltéve, hogy az ellentmondást a Pénzügyi Békéltető Testület nem utasítja el.
 
-(5) Ha a Pénzügyi Békéltető Testület az ellentmondást nem utasítja el, az ellentmondást nyolc napon belül kézbesíti a fogyasztónak, és egyidejűleg felhívja a fogyasztót, hogy a felhívás kézbesítésétől számított tizenöt napon belül a bíróságnak benyújtott beadványon
+(5) Ha a Pénzügyi Békéltető Testület az ellentmondást nem utasítja el, az ellentmondást nyolc napon belül kézbesíti a fogyasztónak, és egyidejűleg felhívja a fogyasztót, hogy a felhívás kézbesítésétől számított tizenöt napon belül
 
-a) terjesszen elő a bíróság döntésére irányuló határozott kérelmet (kereseti kérelem),
+a) terjesszen elő a felhívásban megjelölt bíróságon a Pp. 257. §-a szerinti keresetet tartalmazó iratot, amelyben az ügyszám feltüntetése mellett utaljon az ügy Pénzügyi Békéltető Testület előtti eljárási előzményére,
 
-b) tüntesse fel az érvényesíteni kívánt jogot, az annak alapjául szolgáló tényeknek és bizonyítékoknak az előadásával,
+b) fizesse meg a peres eljárás illetékét, és
 
-c) a peres eljárás illetékét rója le.
+c) mellékelje a Pénzügyi Békéltető Testület felhívását.
 
 (6) A Pénzügyi Békéltető Testület a felhívást azzal a figyelmeztetéssel látja el, hogy
 
-a) az abban foglaltak elmulasztása esetében a bíróság a pert megszünteti, valamint
+a) a Pp. 259. §-ában meghatározott esetekben a bíróság az eljárást megszünteti, valamint
 
-b) ha a fogyasztó a Pp. alapján elektronikus kapcsolattartásra köteles vagy a Pp. alapján az elektronikus kapcsolattartást választja, az ügyre vonatkozó részletes tényállításait, bizonyítékait, és minden további beadványát és okirati bizonyítékát kizárólag elektronikus úton nyújthatja be, továbbá az illetéket elektronikusan vagy a Magyar Államkincstár illeték-bevételi számlájára köteles megfizetni.
+b) ha a fogyasztó a Pp. alapján elektronikus kapcsolattartásra köteles vagy a Pp. alapján az elektronikus kapcsolattartást választja, akkor a Pp. elektronikus kapcsolattartásra vonatkozó rendelkezései szerint köteles eljárni.
 
-(7) Ha a fogyasztó a felhívásban foglaltaknak nem tesz eleget, a bíróság a pert megszünteti.
+(7) Ha a fogyasztó a felhívásban foglaltaknak nem tesz eleget, a bíróság a Pp. 259. §-ában meghatározott esetekben az eljárást megszünteti.
 
 (8) A per befejezését követően a bíróság a pert befejező jogerős határozatának egy kiadmányát a Pénzügyi Békéltető Testület által megküldött iratokkal együtt megküldi a Pénzügyi Békéltető Testületnek.
 
-(9) A bíróság eljárására egyebekben a Pp. XIX. fejezetének rendelkezései – a pert megelőző eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadók.
+(9) A bíróság eljárására egyebekben a Pp. XVI. fejezetének rendelkezései – azzal, hogy közjegyző alatt a Pénzügyi Békéltető Testületet kell érteni – megfelelően irányadók.

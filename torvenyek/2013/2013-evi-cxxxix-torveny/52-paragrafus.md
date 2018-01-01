@@ -2,4 +2,4 @@
 
 (2) Az eljárási bírság legkisebb összege ötvenezer forint, legmagasabb összege tízmillió forint, amelynek a kiszabása során az arányosság követelményét szem előtt kell tartani.
 
-(3) Az eljárási bírságot kiszabó végzés elleni bírósági felülvizsgálati kérelemnek a végzés végrehajtására nincs halasztó hatálya.
+(3) Az MNB eljárásaiban az eljárási bírság kiszabásánál az Ákr. 77. § (3) bekezdésében meghatározott szempontok mérlegelendők.

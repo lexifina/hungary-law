@@ -6,10 +6,10 @@ b) egyéb szakértőt
 
 rendelhet ki.
 
-(2) Ha az (1) bekezdésben meghatározott személy igénybevételére helyszíni vizsgálat során kerül sor az MNB köteles a személyt megbízólevéllel ellátni.
+(2) Ha az (1) bekezdésben meghatározott személy igénybevételére helyszíni ellenőrzés során kerül sor az MNB köteles a személyt megbízólevéllel ellátni.
 
 (3) Az (1) bekezdésben meghatározott személy igénybevételére a helyszíni ellenőrzést végző személy egyidejű jelenlétének biztosításával kerülhet sor.
 
-(4) Az (1) bekezdésben meghatározott személy helyszíni vizsgálat során történő eljárására a 67. § (5)–(8) bekezdésében meghatározott szabályokat kell alkalmazni. Az (1) bekezdésben meghatározott személy eljárása során a Ket. szakértőre vonatkozó rendelkezéseit – a Ket. 58. § (1) bekezdése kivételével – kell alkalmazni.
+(4) Az (1) bekezdésben meghatározott személy helyszíni ellenőrzés során történő eljárására a 67. § (5)–(8) bekezdésében meghatározott szabályokat kell alkalmazni azzal, hogy az ügyfél a szakértői vizsgálatban közreműködni köteles.
 
 (5) Az (1) bekezdésben meghatározott személy kirendelése nem eredményezheti az MNB egyes ellenőrzési feladatainak tartós más általi ellátását.

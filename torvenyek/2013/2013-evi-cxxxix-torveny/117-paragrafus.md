@@ -4,4 +4,4 @@
 
 (3) A bíróság ítélete kizárólag a kötelezést tartalmazó határozat, illetve az ajánlás hatályon kívül helyezésére vonatkozhat.
 
-(4) A bíróság eljárására egyebekben a Pp. I-XIV. fejezetének rendelkezései irányadók.
+(4) A bíróság eljárására egyebekben a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) ELSŐ–HATODIK RÉSZÉNEK rendelkezései irányadók.

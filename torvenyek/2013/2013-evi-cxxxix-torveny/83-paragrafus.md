@@ -4,4 +4,4 @@
 
 (3) Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
-(4) Az ügyintézési határidő a kérelemre indult fogyasztóvédelmi eljárásban három hónap.
+(4) Az ügyintézési határidő a kérelemre indult fogyasztóvédelmi eljárásban hat hónap.

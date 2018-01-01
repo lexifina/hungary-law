@@ -1,4 +1,4 @@
-70. § (1) Az MNB a 69. § (4) bekezdése alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított hatvan napon belül hoz döntést. Ez a határidő indokolt esetben, egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+70. § (1) Az MNB a 69. § (4) bekezdése alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított százhúsz napon belül hoz döntést.
 
 (2)
 
