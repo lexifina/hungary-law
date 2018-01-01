@@ -44,7 +44,7 @@ b) az információkérés adózási, adóztatási céljának megjelölése.
 
 A formanyomtatványban olyan személy neve és címe is megjelölhető, aki a megkereső hatóság álláspontja szerint a kért információ birtokában lehet, és olyan további adat is feltüntethető, amely a megkeresett hatóság számára az információ megszerzését megkönnyítheti;
 
-4. közigazgatási vizsgálat: az Európai Unió tagállama által végzett minden olyan ellenőrzés, vizsgálat és egyéb intézkedés, amelynek célja az adójogszabályok megfelelő alkalmazásának biztosítása. A magyar megkeresett hatóság vagy a magyar megkereső hatóság által teljesített közigazgatási vizsgálat esetén a közigazgatási vizsgálat alatt az Art. szerinti adóigazgatási eljárást kell érteni;
+4. közigazgatási vizsgálat: az Európai Unió tagállama által végzett minden olyan ellenőrzés, vizsgálat és egyéb intézkedés, amelynek célja az adójogszabályok megfelelő alkalmazásának biztosítása. A magyar megkeresett hatóság vagy a magyar megkereső hatóság által teljesített közigazgatási vizsgálat esetén a közigazgatási vizsgálat alatt az Air., valamint az Art. szerinti adóigazgatási eljárást kell érteni;
 
 5. magyar megkereső hatóság, magyar megkeresett hatóság: az adómegállapítási jogsegéllyel kapcsolatban az állami adóhatóság kormányrendeletben központi kapcsolattartó irodaként, kapcsolattartó szervként kijelölt szerve, szervezeti egysége, illetve az állami adóhatóság kormányrendelet felhatalmazása alapján kijelölt tisztviselője a 6–7. pontok figyelembevételével;
 

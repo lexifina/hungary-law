@@ -1,0 +1,3 @@
+45/H. § (1) A magyar hatáskörrel rendelkező hatóság spontán információcsere keretében, 2018. június 30-ig közli az érintett állam(ok) hatáskörrel rendelkező hatóságával a 2010. január 1-je és 2017. december 31-e között kiadott, módosított vagy meghosszabbított feltételes adómegállapításra, vagy szokásos piaci ár megállapítására vonatkozó határozatoknak a 43/T. § (7) bekezdésében meghatározott adatait.
+
+(2) Az (1) bekezdésben meghatározott adatszolgáltatási kötelezettség a 2010. január 1-je és 2013. december 31-e között kiadott, módosított vagy meghosszabbított határozatokra csak abban az esetben terjed ki, ha e határozatok alkalmazhatósága 2014. január 1-jén fennállt.

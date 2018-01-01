@@ -4,7 +4,7 @@ a) a megkeresés beérkezésének időpontjában az adós vitatja a követelést
 
 b) a végrehajtást engedélyező eredeti okiratot vagy a végrehajtást engedélyező egységes okiratot a megkereső hatóság még nem állította ki, vagy
 
-c) az Art. 149. § (2) bekezdés a) vagy b) pontjában foglalt feltételek egyike fennáll,
+c) a biztosítási intézkedés elrendelése Air. szerinti feltételeinek egyike fennáll,
 
 és valószínűsíthető, hogy a követelés későbbi kielégítése veszélyben van.
 
