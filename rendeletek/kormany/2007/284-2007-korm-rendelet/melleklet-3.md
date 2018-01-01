@@ -1,4 +1,4 @@
-3. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez[^44]
+3. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez[^51]
 
 ## A zaj-, illetve rezgésvédelmi bírság kiszabására vonatkozó számítási szabályok
 
@@ -138,4 +138,4 @@ d) a zajkibocsátási határértékek megállapításának, valamint a zaj- és 
 
 bírság megfizetésére köteles.
 
-[^44]: A 3. számú melléklet a 427/2015. (XII. 23.) Korm. rendelet 9. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^51]: A 3. számú melléklet a 427/2015. (XII. 23.) Korm. rendelet 9. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.

@@ -1,6 +1,6 @@
 ## Zaj- és rezgésbírság
 
-26. § (1)[^36] A környezetvédelmi hatóság a környezet védelmének általános szabályairól szóló törvény szerinti környezetvédelmi bírságot
+26. § (1)[^40] A környezetvédelmi hatóság a környezet védelmének általános szabályairól szóló törvény szerinti környezetvédelmi bírságot
 
 a) az üzemi vagy szabadidős zajforrás által okozott
 
@@ -20,4 +20,4 @@ e) a jogszabályban vagy hatósági határozatban foglalt kötelezettségek megs
 
 (2) Az (1) bekezdés a)–d) pontja szerinti bírság az intézkedési terv végrehajtásának ideje alatt nem szabható ki.
 
-[^36]: A 26. § (1) bekezdése a 427/2015. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^40]: A 26. § (1) bekezdése a 427/2015. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.

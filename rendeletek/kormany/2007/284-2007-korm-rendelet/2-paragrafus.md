@@ -72,15 +72,15 @@ t) csendes övezet: rendeltetése miatt zaj ellen különös védelmet igénylő
 
 u) fokozottan védett terület: a szabadban eltöltött csendes pihenésre, kikapcsolódásra alkalmas közterület, amelyre fokozott zajvédelmi követelmények érvényesek;
 
-v)[^3] alkalmi rendezvény: előre meghatározott alkalomból és időben tartott, legfeljebb 8 napon át tartó esemény, amely olyan helyszínen kerül megrendezésre, amely alaprendeltetése szerint nem az adott jellegű rendezvény tartására szolgál;
+v)[^4] alkalmi rendezvény: előre meghatározott alkalomból és időben tartott, legfeljebb 8 napon át tartó esemény, amely olyan helyszínen kerül megrendezésre, amely alaprendeltetése szerint nem az adott jellegű rendezvény tartására szolgál;
 
-w)[^4] közterület: a közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló terület, amelyet rendeltetésének megfelelően bárki használhat, ideértve a közterületnek közútként szolgáló és a magánterületnek a közforgalom számára a tulajdonos (használó) által megnyitott részét;
+w)[^5] közterület: a közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló terület, amelyet rendeltetésének megfelelően bárki használhat, ideértve a közterületnek közútként szolgáló és a magánterületnek a közforgalom számára a tulajdonos (használó) által megnyitott részét;
 
-x)[^5] kritikus pont: a zajforrás hatásterületének az a megítélési pontja, ahol a vizsgált zajforrás kibocsátásától eredő megítélési szint a legnagyobb;
+x)[^6] kritikus pont: a zajforrás hatásterületének az a megítélési pontja, ahol a vizsgált zajforrás kibocsátásától eredő megítélési szint a legnagyobb;
 
-y)[^6] nemzetközi licenccel rendelkező versenypálya: olyan motor- vagy autóversenyek céljára épített pálya és az ehhez tartozó létesítmények, amelyeken a Nemzetközi Motorkerékpáros Szövetség vagy az Európai Motorkerékpáros Unió által kiadott licenc alapján gyorsasági motorkerékpár-verseny vagy a Nemzetközi Automobil Szövetség által kiadott licenc alapján gyorsasági autóverseny rendezhető.
+y)[^7] nemzetközi licenccel rendelkező versenypálya: olyan motor- vagy autóversenyek céljára épített pálya és az ehhez tartozó létesítmények, amelyeken a Nemzetközi Motorkerékpáros Szövetség vagy az Európai Motorkerékpáros Unió által kiadott licenc alapján gyorsasági motorkerékpár-verseny vagy a Nemzetközi Automobil Szövetség által kiadott licenc alapján gyorsasági autóverseny rendezhető.
 
-[^3]: A 2. § v) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazásár lásd e módosító rendelet 11. §-át.
-[^4]: A 2. § w) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
-[^5]: A 2. § x) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
-[^6]: A 2. § y) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^4]: A 2. § v) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazásár lásd e módosító rendelet 11. §-át.
+[^5]: A 2. § w) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^6]: A 2. § x) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^7]: A 2. § y) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
