@@ -6,7 +6,7 @@
 
 ## A TÖRVÉNY HATÁLYA
 
-3. § (1) E törvény hatálya az iskolai rendszerű szakmai képzésre (szakképzésre), valamint az iskolarendszeren kívüli szakmai képzések esetén – a felnőttképzésről szóló törvény alapján folyó – az állam által elismert szakképesítés megszerzésére irányuló szakmai képzésre terjed ki. Az iskolarendszeren kívüli szakképzés vonatkozásában a további szabályokat a felnőttképzésről szóló törvény határozza meg.
+3. § (1) E törvény hatálya az iskolai rendszerű szakmai képzésre (szakképzésre), valamint az iskolarendszeren kívüli szakmai képzések esetén – a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: a felnőttképzésről szóló törvény) alapján folyó – az állam által elismert szakképesítés megszerzésére irányuló szakmai képzésre terjed ki. Az iskolarendszeren kívüli szakképzés vonatkozásában a további szabályokat a felnőttképzésről szóló törvény határozza meg.
 
 (2) Az (1) bekezdésben meghatározott szakmai képzés
 
@@ -26,7 +26,9 @@ b) az (1) és a (2) bekezdésben szabályozott tevékenységet folytató és abb
 
 c) az országos gazdasági kamarákra, az országos gazdasági érdekképviseleti szervezetekre, továbbá a 7. § (1) bekezdés k) pontjában meghatározott szakmai szervezetre és szakmai kamarára az e törvényben szabályozott feladataik ellátása tekintetében, továbbá
 
-d) a komplex szakmai vizsgára, a komplex szakmai vizsgát szervező intézményre, valamint a komplex szakmai vizsgán és a szakmai vizsgáztatásban résztvevőre.
+d) a komplex szakmai vizsgára, a komplex szakmai vizsgát szervező intézményre, valamint a komplex szakmai vizsgán és a szakmai vizsgáztatásban résztvevőre,
+
+e) a kamarai gyakorlati oktatói képzésre és a kamarai gyakorlati oktatói vizsgára.
 
 (4) E törvény hatálya kiterjed az általános iskolai oktatást nyújtó iskolában, a szakközépiskolában, a szakgimnáziumban és a szakiskolában folyó pályaorientációra, a pályaorientációs, életpálya-tanácsadási szolgáltatásban részt vevőkre és a pályaorientációs tanácsadást nyújtókra, továbbá a pályakövetési rendszert működtető szervre és azokra, akiknek a pályakövetési rendszerrel szemben adatszolgáltatási kötelezettségük áll fenn.
 

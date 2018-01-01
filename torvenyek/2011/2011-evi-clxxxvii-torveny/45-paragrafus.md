@@ -4,11 +4,11 @@
 
 (2) A nyilvántartást vezető szerv a nyilvántartásba vétel iránti kérelmet a szakmai szervezet vagy szakmai kamara véleményének kikérésével bírálja el, amennyiben a szakképesítés nem tartozik egyik gazdasági kamara hatáskörébe sem.
 
-(3) A nyilvántartást vezető szerv a nyilvántartásba vétel során a közigazgatási hatósági eljárás általános szabályai szerint jár el.
+(3)
 
 (4) A gyakorlati képzést szervező szervezet megszűnése esetén a nyilvántartást vezető szerv a szervezetet törli a nyilvántartásból a szervezet bejelentése alapján vagy hivatalból.
 
-(5) A nyilvántartást vezető szerv döntésével szemben fellebbezésnek a közigazgatási hatósági eljárás általános szabályai szerint van helye. A nyilvántartásba vétel során a nyilvántartást vezető szerv által hozott döntéssel szemben benyújtott fellebbezést a szakképzési feladatot ellátó hatóság bírálja el. A fellebbezést a szakképzési feladatot ellátó hatóságnak kell címezni, de az első fokú határozatot meghozó, területileg illetékes gazdasági kamaránál kell benyújtani. A nyilvántartást vezető szerv a fellebbezést az eljárás összes irataival, valamint a fellebbezéshez fűzött szakmai véleményével együtt tíz napon belül továbbítja a szakképzési feladatot ellátó hatóságnak.
+(5)
 
 (6) A gyakorlati képzés folytatására jogosult szervezetek nyilvántartása tartalmának és a nyilvántartásba vételi eljárás részletes szabályait kormányrendelet állapítja meg.
 

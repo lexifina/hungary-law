@@ -24,7 +24,7 @@
 
 10. gazdálkodó szervezet: jogszabályban meghatározott szakképzési hozzájárulásra kötelezett;
 
-11. gyakorlati képzés: a szakmai képzésnek az iskolai tanműhelyben, az állami felnőttképzési intézmény tanműhelyében vagy a gyakorlati képzés folytatására jogosult gazdálkodó szervezetnél, egyéb szervnél vagy szervezetnél folyó azon része, amelynek célja a szakképesítéshez kapcsolódó munkatevékenységek gyakorlatban történő elsajátítása és a tanulónak a komplex szakmai vizsga gyakorlati részére való felkészítése, amelyet iskolai rendszerű szakképzés esetén a szakképzési kerettanterv határoz meg;
+11. gyakorlati képzés: a szakmai képzésnek az iskolai tanműhelyben, az ágazati képző központban vagy a gyakorlati képzés folytatására jogosult gazdálkodó szervezetnél, egyéb szervnél vagy szervezetnél folyó azon része, amelynek célja a szakképesítéshez kapcsolódó munkatevékenységek gyakorlatban történő elsajátítása és a tanulónak a komplex szakmai vizsga gyakorlati részére való felkészítése, amelyet iskolai rendszerű szakképzés esetén a szakképzési kerettanterv határoz meg;
 
 12. gyakorlati képzést szervező: a gyakorlati képzés feltételeinek biztosításáért felelős szakképző iskola vagy e törvény szerint nyilvántartásba vett gyakorlati képzést folytató;
 
@@ -44,6 +44,10 @@
 
 20. jelenléti óraszám: a kötelező tanórai foglalkozások azon része, amelyeken a részvétel a tanulónak az iskola feladatellátási helyén való személyes megjelenéséhez kötött;
 
+20a. kamarai gyakorlati oktatói képzés: a gazdasági kamara által, az iskolai rendszerű szakképzésben gyakorlati képzést folytató szervezetnél kötelező szakmai gyakorlatukat töltő tanulókkal gyakorlati oktatóként foglalkozó, meghatározott szakképesítéssel és szakmai gyakorlattal rendelkező szakemberek számára szervezett képzés;
+
+20b. kamarai gyakorlati oktatói vizsga: a kamarai gyakorlati oktatói képzést lezáró, a gazdasági kamara által szervezett, tanúsítvány kiadásával záruló vizsga;
+
 21. komplex szakmai vizsga: az iskolai rendszerű szakképzésben részt vevő tanuló és az iskolarendszeren kívüli szakképzésben részt vevő felnőtt szakmai elméleti és gyakorlati tudásának, képességeinek, készségeinek, ismereteinek mérése, amely az OKJ-ban meghatározott szakképesítés megszerzéséhez szükséges, a szakképesítéshez tartozó feladatprofil szerinti tevékenységek ellátásához meghatározott ismeretek elsajátítását tanúsító, jogszabályban meghatározott bizonyítvány kiadására irányuló eljárás;
 
 22. költségvetési hozzájárulás: a központi költségvetésből a nem állami köznevelési intézmények működéséhez nyújtott, a nemzeti köznevelésről szóló törvényben meghatározott támogatás;
@@ -51,6 +55,8 @@
 23. költségvetési támogatás: a szakképző iskolai feladatok ellátására a központi költségvetés terhére nyújtott és önkormányzati forrásból nyújtható – a költségvetési hozzájárulást is tartalmazó – támogatások összessége;
 
 24. harmadik és további szakképesítés: az iskolai rendszerű szakképzésben megszerzett, az OKJ-ban szereplő minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít, és már kettő meglévő, az iskolai rendszerű szakképzésben megszervezett állam által támogatott képzésben megszerzett államilag elismert szakképesítés birtokában szerzik meg;
+
+24a. mellék-szakképesítés: a szakgimnázium középiskolai évfolyamai tananyagának keretében a tanuló választása alapján tanulható és megszerezhető, az Országos Képzési Jegyzékben meghatározott, az adott szakgimnáziumi ágazathoz és az érettségit követő szakképzési évfolyamon megszerezhető szakképesítéshez kapcsolódó szakképesítés vagy részszakképesítés, amelynek tananyagát a szakképzési kerettanterv tartalmazza;
 
 25. mesterképzés: olyan képzési forma, amelynek során meghatározott szakképesítéssel és szakmai gyakorlattal rendelkező szakembereket mestervizsgára készítenek fel a szakmai tevékenység mester szintű gyakorlásához szükséges szakmai elméleti és gyakorlati, a vállalkozás vezetéséhez szükséges gazdasági, jogi és munkaügyi, továbbá a tanulók képzéséhez szükséges alapvető pedagógiai ismeretek elsajátításával;
 
@@ -102,4 +108,8 @@
 
 49. WorldSkills és EuroSkills: nemzetközi szakképzési versenyek, amelyeket 1954 óta szervez a WorldSkills International nemzetközi nonprofit szervezet, tagjai az adott ország szakképzésért felelős szervezetei. Mindkét verseny megrendezésére felváltva, páros és páratlan években kétévente kerül sor a tagországok legjobb ifjú szakmunkásai részvételével.
 
-50. kizárólag gyakorlati képzési célt szolgáló tanműhely: kifejezetten erre a célra létrehozott vagy átalakított, a termeléstől, szolgáltató tevékenységtől térben vagy időben teljesen elkülönített, a nyilvántartást vezető szerv által a gyakorlati képzés időtartama alatt kizárólag gyakorlati képzési célt szolgáló tanműhellyé minősített, állandó tanműhely-vezetői felügyelettel működő, legalább nyolc tanuló képzésére alkalmas, iskolán kívüli gyakorlati képzőhely, ahol a tanulók tanulószerződés vagy együttműködési megállapodás alapján vesznek részt a gyakorlati képzésben.
+50. kizárólag gyakorlati képzési célt szolgáló tanműhely: kifejezetten erre a célra létrehozott vagy átalakított, a termeléstől, szolgáltató tevékenységtől térben vagy időben teljesen elkülönített, a nyilvántartást vezető szerv által a gyakorlati képzés időtartama alatt kizárólag gyakorlati képzési célt szolgáló tanműhellyé minősített, állandó tanműhely-vezetői felügyelettel működő, legalább nyolc tanuló képzésére alkalmas, iskolán kívüli gyakorlati képzőhely, ahol a tanulók tanulószerződés vagy együttműködési megállapodás alapján vesznek részt a gyakorlati képzésben;
+
+51. ágazati képző központ: több gazdálkodó szervezet által létrehozott, a szakképzésért és felnőttképzésért felelős miniszter által rendeletben kiadott feltételeknek megfelelő gyakorlati képzést szervező;
+
+52. ágazaton belüli specializáció: a szakgimnáziumi ágazati képzés esetén az adott ágazaton belül egyes szakképesítések vagy azok csoportjának sajátos ágazati szakmai tartalma.

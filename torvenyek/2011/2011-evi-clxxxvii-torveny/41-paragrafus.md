@@ -7,3 +7,5 @@
 (4) Azzal a gyakorlati képzést folytató szervezettel szemben, aki a foglalkozási napló vezetését a területileg illetékes gazdasági kamara felszólítása ellenére ismételten elmulasztja, a területileg illetékes gazdasági kamara – a 61. §-ban foglaltak szerint – bírságot szab ki.
 
 (5) Amennyiben a gyakorlati képzést folytató szervezet a foglalkozási napló vezetését a bírság kiszabását követően ismételten elmulasztja, a területileg illetékes gazdasági kamara a gyakorlati képzést folytató szervezetet három évre eltiltja a gyakorlati képzés folytatásától.
+
+(6) Amennyiben a foglalkozási napló vezetését a gyakorlati képzést folytató szervezet csak valamely képzőhelyén mulasztotta el, az eltiltás csak a mulasztással érintett képzőhely tekintetében áll fenn.

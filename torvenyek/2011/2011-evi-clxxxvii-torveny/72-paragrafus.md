@@ -36,6 +36,8 @@ h) kidolgoztatja és működteti a 16. § szerinti, a komplex szakmai vizsgák l
 
 (3) A szakképzésért és felnőttképzésért felelős miniszter az OKJ alapján hatáskörébe utalt szakképesítések tekintetében ellátja a szakképesítésért felelős miniszter 73. §-ban meghatározott feladatait.
 
+(3a) A szakképzésért és felnőttképzésért felelős miniszter az (1)–(3) bekezdésben foglalt feladatai, továbbá a 85. § (1) bekezdésében foglalt életpálya-tanácsadási feladatok ellátásának elősegítésére kutató és fejlesztő-szolgáltató intézetként működő szervet jelölhet ki.
+
 (4) A szakképzésért és felnőttképzésért felelős miniszter az iskolai rendszerben oktatott szakképesítések tekintetében az (1) bekezdés b), valamint a (2) bekezdés e) és f) pontjában meghatározott hatáskörét az oktatásért felelős miniszterrel egyetértésben gyakorolja.
 
 (5) A szakképzésért és felnőttképzésért felelős miniszter az (1) bekezdés a) pontjában meghatározott hatáskörét az államháztartásért felelős miniszterrel, az (1) bekezdés c) pontjában meghatározott hatáskörét az adópolitikáért felelős miniszterrel egyetértésben gyakorolja.

@@ -25,3 +25,5 @@ d) a gyakorlati képzés folytatásának e törvényben meghatározott feltétel
 a területileg illetékes gazdasági kamara a gyakorlati képzést szervező vagy folytató szervezetet törli a nyilvántartásból, és három évre eltiltja a gyakorlati képzés folytatásától. Erről a jogsértést megállapító határozat egyidejű megküldésével a tanulóval tanulói jogviszonyban álló szakképző iskolát, a tanulót, kiskorú tanuló esetén a szülőt (gyámot) tájékoztatni kell. A területileg illetékes gazdasági kamara a nyilvántartásból törlő és a gyakorlati képzés folytatásától eltiltó határozat egy példányát megküldi az érintett szakképesítésért felelős miniszternek.
 
 (4) A (3) bekezdés szerinti határozatot a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a gazdasági kamara honlapján közzé kell tenni.
+
+(5) A területileg illetékes gazdasági kamarának a gyakorlati képzést szervező vagy folytató szervezet szakképzési tevékenységének ellenőrzése során meghozott döntésével összefüggésben a felügyeleti szerv számára az általános közigazgatási rendtartásról szóló törvényben meghatározott jogköröket a szakképzésért és felnőttképzésért felelős miniszter gyakorolja.

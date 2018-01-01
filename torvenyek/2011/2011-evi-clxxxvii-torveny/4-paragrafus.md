@@ -8,7 +8,7 @@
 
 (2) A szakképzés szakképző iskolán kívül megszervezhető
 
-a) az állami felnőttképzési intézményben, és
+a) az ágazati képző központban, és
 
 b) a felnőttképzésről szóló törvényben meghatározott, iskolarendszeren kívüli szakmai képzést folytató intézményben is.
 

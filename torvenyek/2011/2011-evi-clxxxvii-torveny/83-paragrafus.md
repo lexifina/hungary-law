@@ -2,7 +2,7 @@
 
 (2) A bizottság az NGTT-ben képviselettel rendelkező országos munkaadói, munkavállalói szövetségek, illetve azok szervezetei (kettő fő), a területi gazdasági kamarák (kettő fő) és a foglalkoztatási feladatkörében eljáró fővárosi és megyei kormányhivatal (egy fő) képviselőiből áll.
 
-(3) A bizottság elnökét, társelnökét és tagjait a szakképzésért és felnőttképzésért felelős miniszter kéri fel hároméves időtartamra a bizottság munkájában való közreműködésre. A bizottság elnökére a bizottság tagjai közül az országos kereskedelmi és iparkamara tesz javaslatot.
+(3) A bizottság elnökét, és tagjait a szakképzésért és felnőttképzésért felelős miniszter kéri fel hároméves időtartamra a bizottság munkájában való közreműködésre. A bizottság elnökére a bizottság tagjai közül az országos kereskedelmi és iparkamara tesz javaslatot.
 
 (4) A szakképesítésért felelős miniszter képviselője a bizottság munkájában tanácskozási joggal vehet részt.
 

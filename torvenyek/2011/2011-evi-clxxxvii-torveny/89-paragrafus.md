@@ -18,4 +18,8 @@ h) az e)–g) pont alapján kiadott szakképzési kerettanterv bevezetésének �
 
 i) a 31. § (3) bekezdés b) pontja szerinti vendéglátóipari egységeket,
 
-j) a Szakképzési Hídprogram megszervezésének feltételeit, a Szakképzési Hídprogramban folytatott képzéshez szükséges szakképzési kerettanterveket, valamint a Szakképzési Hídprogramba történő bekapcsolódás részletes szabályait az oktatásért felelős miniszter egyetértésével és a társadalmi felzárkózásért felelős miniszter véleményének kikérésével.
+j) a Szakképzési Hídprogram megszervezésének feltételeit, a Szakképzési Hídprogramban folytatott képzéshez szükséges szakképzési kerettanterveket, valamint a Szakképzési Hídprogramba történő bekapcsolódás részletes szabályait az oktatásért felelős miniszter egyetértésével és a társadalmi felzárkózásért felelős miniszter véleményének kikérésével,
+
+k) a szakképzési centrumok felnőttoktatási tevékenységének normatív támogatásával összefüggésben a támogatás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre vonatkozó szabályokat,
+
+l) a gyakorlati képzés folytatására jogosult szervezetek nyilvántartásába ágazati képző központként történő felvétel feltételeit.

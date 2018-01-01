@@ -14,6 +14,6 @@
 
 (5) A szakképző iskolában a tanuló részszakképesítésre nem iskolázható be, kivéve, ha a felkészítés a Szakképzési Hídprogram keretében, valamint a szakiskolában részszakképesítés megszerzésére irányul.
 
-(6) Az állami felnőttképzési intézmény a szakképző iskola fenntartójával kötött megállapodás alapján részt vehet az iskolai rendszerű gyakorlati képzésben is.
+(6) Az ágazati képző központ a szakképző iskola fenntartójával kötött megállapodás alapján részt vehet az iskolai rendszerű gyakorlati képzésben is.
 
 (7) Az állam által fenntartott szakképző iskolában, annak tagintézményében és a szakképzési centrum tagintézményében gyakorlati oktatásvezetőt kell foglalkoztatni.

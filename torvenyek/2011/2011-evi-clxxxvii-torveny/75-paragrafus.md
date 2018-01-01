@@ -14,7 +14,11 @@ a) meghatározza azoknak a szakképesítéseknek a körét, amelyekre a 3. § (3
 
 b) kidolgozza a mestervizsga követelményeit, amelyet a szakképesítésért felelős miniszter rendeletben ad ki, továbbá
 
-c) szervezi a mesterképzést és -vizsgáztatást.
+c) szervezi a mesterképzést és -vizsgáztatást,
+
+d) kidolgozza a kamarai gyakorlati oktatói képzés és vizsga – a tanulók gyakorlati képzéséhez és az oktatott szakképesítés megszerzésére irányuló komplex szakmai vizsgára történő gyakorlati felkészítéséhez szükséges alapvető adminisztrációs, pedagógiai, szociálpszichológiai és kommunikációs ismereteket tartalmazó – képzési- és vizsgakövetelményeit, amelyet a szakképzésért és felnőttképzésért felelős miniszter hagy jóvá, és
+
+e) szervezi a kamarai gyakorlati oktatói képzést és vizsgát.
 
 (5) A gazdasági kamara a szakképzésben való közreműködésről, a területi szervezetei közötti együttműködésről írásbeli megállapodást köt az országos gazdasági érdekképviseleti szervezetekkel. Azokkal a szakképesítésekkel kapcsolatban, amelyek nem tartoznak egyetlen gazdasági kamara vagy országos gazdasági érdekképviseleti szervezet hatáskörébe sem, a gazdasági kamara az e törvényben meghatározott szakképzési feladatok ellátásának módjáról megállapodást köt a szakmai szervezettel vagy szakmai kamarával.
 

@@ -6,7 +6,7 @@
 
 (2a) A komplex szakmai vizsga adatait a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-(3) A 46. § (1a) bekezdésében meghatározott igazolás kiállítása, valamint a tanulószerződés megkötésének elősegítése céljából a szakképző iskola minden évben legkésőbb március utolsó munkanapjáig továbbítja a tanulóira vonatkozóan az illetékes gazdasági kamara részére
+(3) A 46. § (1a) bekezdésében meghatározott igazolás kiállítása és a tanulószerződés megkötésének, valamint a szintvizsga megszervezésének elősegítése céljából a szakképző iskola minden évben legkésőbb március utolsó munkanapjáig – a szintvizsga megszervezésével kapcsolatban a szintvizsga tanévében október 15-ig – továbbítja a tanulóira vonatkozóan az illetékes gazdasági kamara részére
 
 a) a 48. § (1) bekezdés b), c) és d) pontjában meghatározott adatokat,
 
@@ -24,4 +24,4 @@ vonatkozó adatokat, valamint
 
 c) a 29. § (1b) bekezdésében meghatározott tanuló esetén az állam által költségvetési hozzájárulásban részesített iskolai rendszerű szakképzésben való ingyenes részvételre jogosító körülményre vonatkozó adatot.
 
-(4) A szakképző iskola a (3) bekezdésben meghatározott adatokban bekövetkezett változást követő öt munkanapon belül tájékoztatja az illetékes gazdasági kamarát a megváltozott adatokról.
+(4) A szakképző iskola a (3) bekezdésben meghatározott adatokban bekövetkezett változást követő öt munkanapon belül tájékoztatja az illetékes gazdasági kamarát a megváltozott adatokról, különösen arról, hogy a tanuló tanulói jogviszonya megszűnt.

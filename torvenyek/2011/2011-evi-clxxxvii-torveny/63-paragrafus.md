@@ -45,3 +45,5 @@ a) 100%-a, a nappali oktatás munkarendje szerint folyó képzés esetén,
 b) 60%-a, az esti oktatás munkarendje szerint folyó képzés esetén,
 
 c) 20%-a, a levelező oktatás munkarendje szerint folyó képzés esetén.
+
+(9) A szakgimnázium tizenegy-tizenkettedik évfolyamán megkötött tanulószerződés esetén a tanuló számára tanulószerződés alapján kifizetett pénzbeli juttatás havi mértéke az ugyanazon szakképesítés megszerzésére irányuló, nappali rendszerű iskolai oktatás szerinti képzésben a szakképzési évfolyamokra megkötött tanulószerződés alapján kifizetett tanulói pénzbeli juttatás havi mértékének ötven százaléka.

@@ -6,7 +6,7 @@ a) a tanuló részére az első és második szakképesítésre történő felk�
 
 b) a tanuló részére a szakgimnáziumban a szakmai érettségire történő felkészítés hat tanéven keresztül,
 
-c) a szakiskolai végzettséggel rendelkező tanuló részére a 24. § (3) és (4) bekezdésében meghatározott kétéves, érettségire történő középiskolai felkészítésben három tanév,
+c) a szakiskolai végzettséggel rendelkező tanuló részére a 24. § (1) bekezdésében meghatározott kétéves, érettségire történő középiskolai felkészítésben három tanév,
 
 d) a tanuló részére szakgimnáziumban a szakmai érettségi vizsga és első alkalommal a javító- és pótló érettségi vizsga,
 
@@ -30,6 +30,6 @@ f) a tanuló részére az iskolai rendszerű szakképzésben a harmadik szakkép
 
 (6) A második szakképesítés megszerzésére irányuló felkészítés csak az első szakképesítés megszerzését követően kezdhető meg.
 
-(7) Harmadik és további szakképesítés támogatása szempontjából figyelmen kívül kell hagyni azt az OKJ-ban szereplő, államilag elismert szakképesítést, amelyet iskolarendszeren kívüli szakképzésben szereztek. Nem számít második vagy harmadik szakképesítésnek a meglévő szakképesítéssel betölthető munkakör magasabb színvonalon való ellátását biztosító képzésben szerezhető – a szakmai és vizsgakövetelményben meghatározott körbe tartozó, kapcsolódó – szakképesítés, valamint az érettségi vizsga keretében megszerezhető szakképesítés birtokában, iskolai rendszerű szakképzésben szerzett érettségi végzettséghez kötött szakképesítés.
+(7) Harmadik és további szakképesítés támogatása szempontjából figyelmen kívül kell hagyni azt az OKJ-ban szereplő, államilag elismert szakképesítést, amelyet iskolarendszeren kívüli szakképzésben szereztek. Nem számít második vagy harmadik szakképesítésnek a meglévő szakképesítéssel betölthető munkakör magasabb színvonalon való ellátását biztosító képzésben szerezhető – a szakmai és vizsgakövetelményben meghatározott körbe tartozó, kapcsolódó – szakképesítés, valamint a mellék-szakképesítés birtokában, iskolai rendszerű szakképzésben szerzett érettségi végzettséghez kötött szakképesítés.
 
 (8) A Szakképzési Hídprogramban történő részvétel, a záróvizsga és a részszakképesítés megszerzésére irányuló komplex szakmai vizsga ingyenes, melyet az (1) bekezdés szerinti ingyenesség számításakor figyelmen kívül kell hagyni.

@@ -26,7 +26,7 @@ a) a szakképesítés azonosító számát, szintjét és megnevezését,
 
 b) a szakképesítés megszerzéséhez szükséges képzés képzés-szervezési formától függő adott időtartamát (az iskolai rendszerű szakképzésben a szakképzési évfolyamok számát, az iskolarendszeren kívüli szakképzésben az óraszámot),
 
-c) a szakképesítések szakmacsoportját és szakközépiskolai ágazat szerinti besorolását,
+c) a szakképesítések szakmacsoportját és szakgimnáziumi ágazat szerinti besorolását,
 
 d) annak a megjelölését, hogy a szakképesítés az esti, a levelező, a távoktatás vagy egyéb sajátos munkarend szerinti képzésben oktatható,
 

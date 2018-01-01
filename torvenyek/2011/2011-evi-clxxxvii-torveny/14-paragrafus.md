@@ -18,4 +18,4 @@
 
 (8) A (7) bekezdésben meghatározott törvényességi kérelmet a szakmai vizsga helyszíne szerint illetékes kormányhivatalhoz kell címezni, de a szakmai vizsgát szervező intézményhez kell benyújtani. A szakmai vizsgát szervező intézmény a törvényességi kérelmet a törvényességi kérelemmel kapcsolatos véleményével és a szakmai vizsgabizottság állásfoglalásával együtt három napon belül továbbítja a komplex szakmai vizsga helyszíne szerint illetékes kormányhivatalhoz.
 
-(9) A (7) bekezdésben meghatározott törvényességi kérelmet a kormányhivatal a beérkezést követő naptól számított öt napon belül bírálja el. A törvényességi kérelemmel és a kérelem tárgyában hozott határozat bírósági felülvizsgálatával kapcsolatban a közigazgatási hatósági eljárás általános szabályait kell alkalmazni. A benyújtásra meghatározott határidő elmulasztása jogvesztő, igazolásnak helye nincs.
+(9) A (7) bekezdésben meghatározott törvényességi kérelmet a kormányhivatal a beérkezést követő naptól számított öt napon belül bírálja el. A benyújtásra meghatározott határidő elmulasztása jogvesztő, igazolásnak helye nincs.

@@ -16,7 +16,7 @@
 
 (8) A foglalkoztatottakról a pályakövetési rendszer működtetéséhez – a pályakövetésről szóló kormányrendeletben meghatározottak szerint – a pályakövetési rendszer működtetéséért felelős szervnek adatot szolgáltat
 
-a) a Nemzeti Adó- és Vámhivatal az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (5a) bekezdésében,
+a) a Nemzeti Adó- és Vámhivatal az Art. 1. melléklet 7. pontjában,
 
 b) a nyugdíjbiztosítási igazgatási szerv a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 96. § (2) bekezdés d) pontjában,
 

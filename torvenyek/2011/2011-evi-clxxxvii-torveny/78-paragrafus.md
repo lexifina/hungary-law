@@ -20,7 +20,7 @@ ba)–bb)
 
 bc) az iskolarendszeren kívüli szakképzésben részt vevő felnőttek elhelyezkedési lehetőségeit elősegítő intézkedésekre,
 
-bd) szakmai követelmények, tananyagok, valamint új eljárások kifejlesztésére és ehhez anyagi források biztosítására,
+bd) szakmai követelmények, tananyagok, valamint új eljárások kifejlesztésére,
 
 be) az OKJ módosításának rendjéről szóló kormányrendeletben részére meghatározott feladatok tekintetében,
 

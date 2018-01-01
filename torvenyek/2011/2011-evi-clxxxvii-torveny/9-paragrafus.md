@@ -14,7 +14,7 @@
 
 (3) A komplex szakmai vizsgát a szakmai és vizsgakövetelmény alapján és a szakmai vizsgaszabályzat rendelkezései szerint kell megtartani.
 
-(4) Szakképesítést igazoló bizonyítványt az kaphat, aki a komplex szakmai vizsgán teljesítette a szakmai és vizsgakövetelményben meghatározott valamennyi követelményt.
+(4) Szakképesítést igazoló bizonyítványt az kaphat, aki a komplex szakmai vizsgán teljesítette a szakmai és vizsgakövetelményben meghatározott valamennyi követelményt. Ha a komplex szakmai vizsga olyan mellék-szakképesítés megszerzésére irányul, amelynek a szakmai és vizsgakövetelménye iskolai előképzettségként érettségi végzettséget ír elő, úgy a szakképesítést igazoló bizonyítvány csak az érettségi végzettség megszerzését követően adható ki.
 
 (5) A komplex szakmai vizsga vizsgatevékenységei alól – a 11. §-ban és a vizsgaszabályzatban foglalt kivételekkel – felmentés nem adható.
 

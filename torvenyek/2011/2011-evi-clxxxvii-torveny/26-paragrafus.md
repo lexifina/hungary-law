@@ -10,6 +10,8 @@
 
 (6) Az iskolai rendszerű szakképzésben az összefüggő szakmai gyakorlat a szakmai és vizsgakövetelményben meghatározott gyakorlat része.
 
+(6a) A tanuló a megismételt évfolyamon akkor is köteles teljesíteni az összefüggő szakmai gyakorlatot, ha azt korábban már teljesítette.
+
 (7) A szakgimnázium, a szakközépiskola és a szakiskola tanulóját a szakképzési évfolyamokon tanulószerződés alapján folyó gyakorlati képzés keretében megilletik mindazon jogok, amelyet
 
 a) az érdekvédelem tekintetében a munka törvénykönyvéről szóló törvény, valamint

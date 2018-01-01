@@ -2,7 +2,7 @@
 
 a) kidolgozza az iskolai rendszerű szakképzés fejlesztésének az adott megyére vonatkozó, a szakképzés irányainak és a beiskolázási arányok rövid és középtávú tervét tartalmazó koncepcióját (szakképzés-fejlesztési koncepció), amely a megye, illetve a fővárosi területfejlesztési koncepció és területfejlesztési program részét képezi,
 
-b) javaslatot tesz az adott megyében a Szabóky Adolf Szakképzési Ösztöndíjról szóló kormányrendeletben meghatározott ösztöndíjra jogosító szakképesítésre (hiányszakképesítés),
+b) javaslatot tesz az adott megyében a Szabóky Adolf Szakképzési Ösztöndíjról szóló kormányrendeletben meghatározott ösztöndíjra jogosító szakképesítésre (hiány-szakképesítés),
 
 c) közreműködik az iskolai rendszerű szakképzés és az iskolarendszeren kívüli szakképzés, valamint a köznevelésben és a felsőoktatásban folyó szakképzés összhangjának megteremtésében,
 

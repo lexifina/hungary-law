@@ -6,7 +6,7 @@
 
 a) a szakképzésért és felnőttképzésért felelős miniszter képviselőjéből,
 
-b) a szakképzésben érdekelt civil szervezetek által javasolt összesen egy személyből,
+b) az ágazati készségtanácsok elnökeiből,
 
 c) a szakképzés, a felnőttképzés és a felsőoktatás területén elismert egy-egy (összesen három) szakértőből,
 

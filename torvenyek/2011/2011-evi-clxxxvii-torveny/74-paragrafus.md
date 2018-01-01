@@ -10,7 +10,9 @@ c)
 
 d) ellátja a szakképzési hozzájárulással, valamint a szakképzési és felnőttképzési támogatások kezelésével összefüggő, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározott feladatokat,
 
-e)–f)
+e) működteti a szakképzési centrumok pedagógiai-szakmai tevékenységeit kiszolgáló egységes elektronikus tanügy-igazgatási nyilvántartó és adatszolgáltatási rendszert,
+
+f) központi szakmai-módszertani feladatkörében kutató és fejlesztő-szolgáltató feladatokat lát el, valamint koordinálja a 72. § (3a) bekezdése szerinti szerv és a 73. § (4) bekezdésében meghatározott feladatokban részt vevő intézetek munkáját,
 
 g)
 
