@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-283-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-09-26 | 2015-283-20-22.1 | 283/2015. (IX. 25.) Korm. rendelet |
+| 2018-01-01 | 2015-283-20-22.2 | 458/2017. (XII. 28.) Korm. rendelet |
