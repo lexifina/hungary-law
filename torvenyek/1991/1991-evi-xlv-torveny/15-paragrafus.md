@@ -6,6 +6,8 @@
 
 (2) Az e törvény hatálybalépéséig alkalmazott tanúsító jelek az időszakos hitelesítés érvényességi időtartamának lejártáig hatályosak.
 
+(2a) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 (3) Felhatalmazást kap a Kormány, hogy
 
 a) a mérésügyi szerv vagy szervek kijelölését, a mérésügyi szerv hatósági eljárásának részletes szabályait,
@@ -28,4 +30,4 @@ rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a mérésügyi szerv irányítását ellátó miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a mérésügyi hatóság részére a mérésügyi eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a kötelező hitelesítésű mérőeszközök mérésügyi követelményeit, a hitelesítés általános feltételeit és eljárási szabályait rendeletben állapítsa meg.
+(6) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a kötelező hitelesítésű mérőeszközök mérésügyi követelményeit, a hitelesítés általános feltételeit és szabályait rendeletben állapítsa meg.
