@@ -1,3 +1,0 @@
-## I. Költségmentesség
-
-## Személyes költségmentesség
