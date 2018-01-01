@@ -26,11 +26,15 @@ b) óvodában, iskolában siket vagy nagyothalló gyermekek, tanulók nevelésé
 
 (7)[^120] Gyógypedagógiai pótlékra az a pedagógus jogosult, aki sajátos nevelési igényű gyermekek, tanulók óvodai nevelését, iskolai nevelés-oktatását, kollégiumi nevelését vagy fejlesztő nevelés-oktatását a szakértői bizottság szakvéleményében foglaltak szerint végzi, feltéve, ha kizárólag sajátos nevelési igényű gyermekekkel, tanulókkal foglalkozik, vagy ha az általa felkészített gyermekek, tanulók közül a sajátos nevelési igényű gyermekek, tanulók aránya a nevelési év, tanév első napján eléri a harminchárom százalékot.
 
-(8)[^121] A nehéz körülmények között végzett munkáért járó pótlékra az az óvodai nevelésben, nappali rendszerű általános vagy középfokú iskolai oktatásban, kollégiumban, pedagógiai-szakszolgálatban pedagógus-munkakörben foglalkoztatott jogosult, aki olyan köznevelési intézményben vagy a köznevelési intézmény olyan feladatellátási helyén dolgozik, amely a kedvezményezett települések besorolásáról és a besorolás feltételrendszeréről szóló kormányrendelettel kiadott jegyzékben a kedvezményezett települések között szereplő településen található.
+(8)[^121] A nehéz körülmények között végzett munkáért járó pótlékra az a pedagógus-munkakörben foglalkoztatott jogosult, aki
+
+a) az óvodai nevelésben, nappali rendszerű általános vagy középfokú iskolai oktatásban, kollégiumban, pedagógiai szakszolgálatnál vagy e köznevelési intézmény olyan feladatellátási helyén dolgozik, amely a kedvezményezett települések besorolásáról és a besorolás feltételrendszeréről szóló kormányrendelettel kiadott jegyzékben a kedvezményezett települések között szereplő településen található, vagy
+
+b) az Mt. szerinti általános teljes napi munkaidő alapulvételével meghatározott heti munkaidő legalább ötven százalékában a köznevelési intézmény által folytatott képességkibontakoztató, integrációs felkészítés vagy óvodai fejlesztő program keretében a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló miniszteri rendeletben meghatározott feladatokat lát el, kivéve, ha a képesség-kibontakoztató felkészítéshez adható többlettámogatás kizáró feltételei fennállnak, vagy ha a hátrányos helyzetű gyermekek, tanulók aránya a feladatellátási helyen nem éri el az öt százalékot.
 
 (9) A pedagógus számára jogszabályban meghatározottak szerint az (1)–(8) bekezdésben meghatározott pótlékokon felül további pótlék is megállapítható.
 
 [^118]: A 16. § (4a) bekezdését a 268/2014. (XI. 3.) Korm. rendelet 13. §-a iktatta be.
 [^119]: A 16. § (6) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
 [^120]: A 16. § (7) bekezdése a 249/2015. (IX. 8.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^121]: A 16. § (8) bekezdése a 249/2015. (IX. 8.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^121]: A 16. § (8) bekezdése a 307/2017. (X. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
