@@ -1,7 +1,6 @@
-4. § (1)[^3] A forgalomba hozott palack rendeletben meghatározott követelményeknek való megfelelőségét az mérésügyi hatóság ellenőrzi.
+4. § (1)–(2)[^3]
 
-(2) Az ellenőrzés a gyártás helyszínén – ha ez nem megvalósítható, akkor a forgalmazónál – mintavétellel történik.
+(3)[^4] A palackok ellenőrzését végző hatóság az eredmények kiértékelését a 2. számú mellékletben meghatározott vagy azzal egyenértékű módszerrel végzi.
 
-(3) A statisztikai módszerrel történő ellenőrzést egy elfogadott minőségellenőrzési módszerrel kell elvégezni, amely hatékonyságának megegyezőnek kell lennie a rendelet 2. számú mellékletében megadott referencia módszerrel.
-
-[^3]: A 4. § (1) bekezdése a 27/2010. (XII. 31.) NGM rendelet 10. §-a szerint módosított szöveg.
+[^3]: A 4. § (1)–(2) bekezdését az 51/2017. (XII. 29.) NGM rendelet 14. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 4. § (3) bekezdése az 51/2017. (XII. 29.) NGM rendelet 14. § (1) bekezdésével megállapított szöveg.
