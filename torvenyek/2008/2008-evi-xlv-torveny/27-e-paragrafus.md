@@ -10,7 +10,7 @@
 
 (6) Határidőben előterjesztett kifogás esetén a közjegyző a valószínű örökösi bizonyítvány hatálytalanságát állapítja meg. A hatálytalanságot megállapító végzést a kifogás előterjesztőjének is kézbesíteni kell, de a végzés ellen a kifogás előterjesztője nem élhet fellebbezéssel.
 
-(7) Az elkésett kifogást a közjegyző érdemi vizsgálat nélkül elutasítja. A végzést a kifogás előterjesztőjének kell kézbesíteni, aki a végzés ellen fellebbezéssel élhet.
+(7) Az elkésett kifogást a közjegyző visszautasítja. A végzést a kifogás előterjesztőjének kell kézbesíteni, aki a végzés ellen fellebbezéssel élhet.
 
 (8) Ha a valószínű örökösi bizonyítvány ellen a (3) bekezdésben meghatározott határidőben kifogást nem terjesztettek elő, azt a kérelmezőnek kézbesíteni kell. A valószínű örökösi bizonyítványnak a kérelmező részére kézbesített példányán fel kell tüntetni, hogy az ellen a határidő alatt kifogást a közjegyzőhöz nem terjesztettek elő.
 

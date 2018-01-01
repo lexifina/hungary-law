@@ -1,4 +1,4 @@
-36/B. § (1) A közjegyző a feleket a kérelem beérkezésétől vagy a hiányok pótlásától számított 30 napon belül személyesen meghallgatja, kivéve, ha a kérelem érdemi vizsgálat nélküli elutasításának van helye.
+36/B. § (1) A közjegyző a feleket a kérelem beérkezésétől vagy a hiányok pótlásától számított 30 napon belül személyesen meghallgatja, kivéve, ha a kérelem visszautasításának van helye.
 
 (2) A közjegyző a személyesen megjelent feleket a kérelmükről, megállapodásukról és a bejegyzett élettársi kapcsolat megszüntetése feltételeinek fennállásáról meghallgatja.
 

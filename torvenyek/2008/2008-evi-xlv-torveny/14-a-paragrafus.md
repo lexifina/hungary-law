@@ -1,0 +1,1 @@
+14/A. § A perújítási eljárás lefolytatására az a bíróság rendelkezik hatáskörrel és illetékességgel, amely elsőfokú bíróságként járna el, ha az ügyben peres eljárásnak lenne helye. A perújítási kérelmet a bíróságon kell előterjeszteni; a bíróság hivatalból intézkedik a közjegyzői ügy iratainak beszerzése iránt.

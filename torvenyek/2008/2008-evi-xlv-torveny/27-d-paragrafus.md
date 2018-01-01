@@ -6,4 +6,4 @@ b) a valószínű örökösi bizonyítvány kiállítását végzéssel megtagad
 
 (2) A valószínű örökösi bizonyítvány a kérelemtől eltérően nem állítható ki.
 
-(3) Ha a kérelmező a kérelem hiányait – ideértve a közjegyzői díj megfizetésének elmulasztását is – a hiányok pótlására vonatkozó felhívásban megszabott határidő alatt nem pótolja, a kérelmet érdemi vizsgálat nélkül el kell utasítani.
+(3) Ha a kérelmező a kérelem hiányait – ideértve a közjegyzői díj megfizetésének elmulasztását is – a hiányok pótlására vonatkozó felhívásban megszabott határidő alatt nem pótolja, a kérelmet vissza kell utasítani.

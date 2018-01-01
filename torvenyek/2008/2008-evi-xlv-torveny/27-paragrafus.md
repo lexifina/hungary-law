@@ -6,4 +6,4 @@
 
 (4) A szakértő díját megállapító végzés ellen a kérelmező és a szakértő fellebbezéssel élhet. A fellebbezésnek csak a kifogásolt összeg erejéig van halasztó hatálya.
 
-(5) A közjegyző a végzés jogerőre emelkedését követően intézkedik a szakértői díjnak a szakértő részére történő kifizetése iránt. A szakértői díj kifizetésére a szakértői díj kifizetését szabályozó jogszabály rendelkezései megfelelően irányadóak.
+(5) A közjegyző a végzés jogerőre emelkedését követően intézkedik a szakértői díjnak a szakértő részére történő kifizetése iránt. A szakértői díj kifizetésére a szakértői díj kifizetését szabályozó jogszabály rendelkezései megfelelően irányadóak. A szakértő a szakértői díj megfizetéséről a számlát a kérelmező nevére állítja ki.

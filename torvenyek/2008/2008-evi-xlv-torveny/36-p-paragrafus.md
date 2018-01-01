@@ -10,7 +10,7 @@ b) cégjegyzékbe bejegyzett szervezet esetén a cégmásolatot, amelyből megá
 
 c) a civil és az egyéb cégnek nem minősülő szervezetek nyilvántartásában szereplő szervezet esetén a másolatot, amelyből megállapítható, hogy a jogelőd megszűnt és a bírósághoz benyújtott szétválási szerződés bíróság által kiadott másolatát,
 
-d) – a b) és c) pont szerinti nyilvántartásban nem szereplő szervezet esetén – a jogutódlásról rendelkező jogerős bírósági, hatósági határozatot vagy a jogutódlást igazoló egyéb iratot.
+d) – a b) és c) pont szerinti nyilvántartásban nem szereplő szervezet esetén – a jogutódlásról rendelkező jogerős bírósági, vagy végleges hatósági határozatot vagy a jogutódlást igazoló egyéb iratot.
 
 (2a) Ha a cégjegyzékbe bejegyzett szervezet a cégmásolatot nem csatolja a kérelemhez, a közjegyző a cégmásolatot a cégnyilvántartásból elektronikus úton szerzi be.
 

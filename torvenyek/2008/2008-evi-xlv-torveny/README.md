@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-45-00-00
 | 2017-01-01 | 2016. évi CXXI. törvény | 2008-45-00-00.14 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2008-45-00-00.15 |
 | 2017-07-01 | 2017. évi XLIX. törvény | 2008-45-00-00.16 |
+| 2018-01-01 | 2017. évi CXXX. törvény | 2008-45-00-00.17 |

@@ -44,4 +44,4 @@ d) a naplóból történt adatszolgáltatásról, a szolgáltatott adatok köré
 
 (9) Az országos kamarának biztosítania kell az adatok megismeréséhez szükséges technikai eszközöket. A napló adatait az országos kamara a (2) bekezdésnek megfelelően eljárva továbbítja.
 
-(10) A hagyatéki ügyben eljáró közjegyző az örökhagyó esetleges vagyonjogi szerződése iránti tudakozódás céljából elektronikus úton megkeresi a nyilvántartást, valamint a bejegyzett adatok alapján a vagyonjogi szerződést beszerzi.
+(10)

@@ -4,7 +4,7 @@
 
 (3) Élettársi kapcsolatra vonatkozó nyilatkozatot csak személyesen lehet tenni. A közjegyző a kérelmező személyazonosságáról a közjegyzői okirat elkészítése szabályainak alkalmazásával győződik meg.
 
-(4) A közjegyzőnek az élettársi nyilvántartásba történő bejegyzésről szóló végzése tartalmazza a nyilvántartásba bejegyzésre kerülő adatokat is; a jogerős végzésének ugyanaz a hatálya, mint a bíróság jogerős ítéletének. A közjegyző az élettársi nyilvántartásba az adatokat a végzés meghozatalával egyidejűleg, a fellebbezésre tekintet nélkül jegyzi be.
+(4) A közjegyzőnek az élettársi nyilvántartásba történő bejegyzésről szóló végzése tartalmazza a nyilvántartásba bejegyzésre kerülő adatokat is. A közjegyző az élettársi nyilvántartásba az adatokat a végzés meghozatalával egyidejűleg, a fellebbezésre tekintet nélkül jegyzi be.
 
 (5) Ha a közjegyző csak az egyik élettárs nyilatkozata alapján jegyezte be az élettársi kapcsolat fenn nem állásáról szóló nyilatkozatot, az erről szóló végzést a másik élettársnak is kézbesíti. Az értesítési cím megállapítása céljából a közjegyző térítésmentesen, elektronikus úton adatot igényel a polgárok személyi adatainak és lakcímének nyilvántartásából.
 

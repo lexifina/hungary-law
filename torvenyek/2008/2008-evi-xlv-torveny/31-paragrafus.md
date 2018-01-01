@@ -1,4 +1,4 @@
-31. § (1) Ha nincs helye hiánypótlásra való felhívás kibocsátásának vagy a kérelem elutasításának, a közjegyző hirdetményt tesz közzé.
+31. § (1) Ha nincs helye hiánypótlásra való felhívás kibocsátásának vagy a kérelem visszautasításának, a közjegyző hirdetményt tesz közzé.
 
 (2) A hirdetmény tartalmazza
 

@@ -6,7 +6,7 @@ a) azt a bejegyzett élettársak befolyásmentesen, közösen kérik,
 
 b) egyik bejegyzett élettársnak sincs olyan gyermeke, akinek tartására a bejegyzett élettársak közösen kötelezettek, és
 
-c) a bejegyzett élettársak az őket egymással szemben terhelő, jogszabályon alapuló tartás, a közös lakás használata, valamint – az ingatlanon fennálló közös tulajdon megszüntetése kivételével – a bejegyzett élettársi közös vagyon megosztása kérdésében közjegyzői okiratba vagy ügyvéd által ellenjegyzett magánokiratba foglaltan megegyeztek.
+c) a bejegyzett élettársak – ez iránti igény esetén – az őket egymással szemben terhelő, jogszabályon alapuló tartás, valamint a közös lakás használata kérdésében közjegyzői okiratba vagy ügyvéd által ellenjegyzett magánokiratba foglaltan megegyeztek.
 
 (2) Az (1) bekezdés c) pont szerinti közokirat elkészítésére az a közjegyző is jogosult, aki a bejegyzett élettársi kapcsolatot nemperes eljárásban megszünteti.
 

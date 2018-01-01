@@ -6,7 +6,7 @@ b) a letétbehelyezéssel teljesítendő kötelezettség keletkezett, vagy
 
 c) a teljesítés helye van.
 
-(2) Ha a közjegyző a letét elfogadása iránti kérelmet elutasítja, erről végzést hoz, és azt a letéti kérelmet előterjesztőnek kézbesíti, a végzés jogerőre emelkedését követően pedig intézkedik a letétbe helyezni kívánt pénzösszeg visszafizetése iránt.
+(2) Ha a közjegyző a letét elfogadása iránti kérelmet visszautasítja vagy elutasítja, erről végzést hoz, és azt a letéti kérelmet előterjesztőnek kézbesíti, a végzés jogerőre emelkedését követően pedig intézkedik a letétbe helyezni kívánt pénzösszeg visszafizetése iránt.
 
 (3) A közjegyző a letét elfogadásáról külön végzést nem hoz, hanem a letéti kérelmet „A közjegyző a letétet elfogadta” záradékkal látja el.
 

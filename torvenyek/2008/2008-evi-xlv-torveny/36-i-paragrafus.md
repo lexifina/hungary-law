@@ -2,4 +2,4 @@
 
 (2) A kérelmet a vagyonjogi szerződést megkötő felek személyesen – közösen – terjeszthetik elő. A közjegyző a kérelmezők személyazonosságáról a közjegyzői okirat elkészítése szabályainak alkalmazásával győződik meg.
 
-(3) A közjegyző illetékességét a házastársak, illetve az élettársak bármelyikének lakóhelye vagy tartózkodási helye megalapítja.
+(3) A közjegyző illetékességét a házastársak, illetve az élettársak bármelyikének lakóhelye vagy tartózkodási helye megalapítja. A házassági vagy élettársi vagyonjogi szerződés közokiratba foglalása esetén a közokiratot készítő közjegyző is illetékes a szerződés nyilvántartásba való bejegyzésére.

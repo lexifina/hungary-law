@@ -1,4 +1,4 @@
-32. § A közjegyző a kérelmet a hirdetmény közzététele nélkül elutasítja, ha
+32. § A közjegyző a kérelmet a hirdetmény közzététele nélkül visszautasítja, ha
 
 a) az értékpapír semmissé nyilvánítása iránt már eljárás van folyamatban,
 

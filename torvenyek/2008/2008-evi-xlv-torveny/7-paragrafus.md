@@ -2,4 +2,4 @@
 
 (2) A kérelem jegyzőkönyvbe mondása esetén a kérelmezőnek az (1) bekezdés szerinti költséget a kérelem előterjesztésével egyidejűleg kell megfizetnie.
 
-(3) Ha a kérelmező az (1) bekezdés szerinti költség megfizetését elmulasztja, a közjegyző – a hiányok pótlására való felhívás kibocsátása nélkül – a kérelmet indokolt végzéssel elutasítja.
+(3) Ha a kérelmező az (1) bekezdés szerinti költség megfizetését elmulasztja, a közjegyző – a hiányok pótlására való felhívás kibocsátása nélkül – a kérelmet indokolt végzéssel visszautasítja.

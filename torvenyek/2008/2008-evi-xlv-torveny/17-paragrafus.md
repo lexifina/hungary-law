@@ -2,7 +2,7 @@
 
 17. § (1) Előzetes bizonyításnak van helye
 
-a) a Pp. 207. §-ában szabályozott esetekben, továbbá akkor
+a) a Pp. 334. §-ában szabályozott esetekben, továbbá akkor
 
 b) ha a kérelmezőnek bizonyíték beszerzéséhez – különösen jelentős tény vagy állapot megállapításához – jogi érdeke fűződik.
 
