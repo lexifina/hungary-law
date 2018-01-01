@@ -12,7 +12,7 @@
 
 (6) Szellőzőkürtőt a kéménykürtőtől legalább 0,25 m vastag tömör téglafalazattal, vagy azzal egyenértékű tűzállósági határértékű és légtömörségű szerkezettel kell elválasztani.
 
-(7)[^262] A szellőzőkürtő vagy a gyűjtőszellőző egy mellékkürtőjének szabad keresztmetszete – a legfelső bekötés felett legalább 2,0 m-es függőleges kürtőmagasság vagy legalább ezzel egyenértékű huzatnövelő szerkezet alkalmazásával – legalább a következő legyen:
+(7)[^263] A szellőzőkürtő vagy a gyűjtőszellőző egy mellékkürtőjének szabad keresztmetszete – a legfelső bekötés felett legalább 2,0 m-es függőleges kürtőmagasság vagy legalább ezzel egyenértékű huzatnövelő szerkezet alkalmazásával – legalább a következő legyen:
 
 | Ha a kürtő szerkezete | Ha a helyiség légtérfogata legfeljebb |
 
@@ -26,4 +26,4 @@
 
 Ha a helyiség légtérfogata a 20 m3-t meghaladja, akkor kizárólag gravitációs szellőzőkürtővel nem szellőztethető.
 
-[^262]: A 72. § (7) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének o) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^263]: A 72. § (7) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének o) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
