@@ -4,22 +4,12 @@
 
 ## 2. A gazdálkodó család tagjainak természetes személyazonosító adatai, lakcíme, illetve rokoni jogviszonya kódja.
 
-## 3. A családi gazdaság részét képező termőföldekhez kapcsolódó következő adatoknak a termőföld fekvése szerinti településenként való megjelölése:
+## 3. A családi gazdaság részét képező termőföldek településenként való megjelölése helyrajzi számmal.
 
-## a) a termőföld helyrajzi száma,
+## 4. A kérelem kelte.
 
-## b) a termőföld művelési ága,
+## 5. Az ügyfél aláírása.
 
-## c) a termőföld területe hektárban,
+2. számú melléklet a 326/2001. (XII. 30.) Korm. rendelethez[^53]
 
-## d) a termőföld külterületi vagy belterületi fekvése.
-
-## 4. A családi gazdaság részét képező termőföldek összterülete.
-
-## 5. A kérelem kelte.
-
-## 6. Az ügyfél aláírása.
-
-2. számú melléklet a 326/2001. (XII. 30.) Korm. rendelethez[^51]
-
-[^51]: A 2. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 266. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^53]: A 2. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 266. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

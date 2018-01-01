@@ -6,7 +6,7 @@
 
 a) a családi gazdálkodó természetes személyazonosító adatai, lakcíme, adóazonosító jele, adószáma, legmagasabb iskolai végzettsége és a végzettséget igazoló okirat száma,
 
-b) a gazdálkodó család tagjainak természetes személyazonosító adatai, lakcíme, adóazonosító jele, illetve rokoni jogviszonya kódja,
+b)[^5] a gazdálkodó család tagjainak természetes személyazonosító adatai, lakcíme, illetve rokoni jogviszonya kódja,
 
 c) a családi gazdaság részét képező termőföldekhez kapcsolódó következő adatoknak a termőföld fekvése szerinti településenként való megjelölése:
 
@@ -28,3 +28,4 @@ f) a módosítási kérelem benyújtásának és a nyilvántartásba vételének
 
 [^3]: A 2. § a 203/2013. (VI. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 110. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
