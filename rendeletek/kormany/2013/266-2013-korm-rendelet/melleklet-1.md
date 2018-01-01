@@ -1,4 +1,4 @@
-1. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^84]
+1. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^101]
 
 ## A szakmagyakorlási jogosultságokhoz szükséges képesítési követelmények, szakmai gyakorlati idők, továbbá feladatok, amelyeket az adott szakterületi jogosultsággal lehet végezni
 
@@ -322,4 +322,4 @@ A sajátos építményfajták felelős műszaki vezetői szakterületek
 
 | 22. | Villamosság szakterület részszakterülete | MV-VI-R | Erősáramú föld feletti és föld alatti vezetékek, átalakító- és kapcsolóberendezések építésének felelős műszaki vezetése kisfeszültségű hálózatoknál. | villamosipari technikus | 5 év |
 
-[^84]: Az 1. melléklet a 62/2014. (III. 6.) Korm. rendelet 47. § 25–29. pontja, a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (7) bekezdés b) pontja és (8) bekezdése, a 482/2016. (XII. 28.) Korm. rendelet 40. § d)–f) pontja, a 144/2017. (VI. 12.) Korm. rendelet 18–19. §-a szerint módosított szöveg.
+[^101]: Az 1. melléklet a 62/2014. (III. 6.) Korm. rendelet 47. § 25–29. pontja, a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (7) bekezdés b) pontja és (8) bekezdése, a 482/2016. (XII. 28.) Korm. rendelet 40. § d)–f) pontja, a 144/2017. (VI. 12.) Korm. rendelet 18–19. §-a szerint módosított szöveg.

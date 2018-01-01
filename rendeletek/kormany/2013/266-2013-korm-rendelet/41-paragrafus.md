@@ -12,8 +12,10 @@ c) az építészeti tervezési szakterületen tevékenységet megkezdő személy
 
 d) a küldő vagy származási ország illetékes hatósága által kiállított, a küldő vagy származási országbeli jogosultságára vonatkozó igazolást, beleértve a szakirányú szakmai gyakorlat jellegét, szakirányát, teljesítésének helyét, időtartamát.
 
-(3) A kérelmet és mellékleteit az elismerési eljárást lefolytató hatóság a szakmai képesítés elismeréséről szóló jogerős határozatával együtt haladéktalanul megküldi az 5. § szerint hatáskörrel rendelkező területi kamarának. A területi kamara a megküldött iratok alapján
+(3)[^60] A kérelmet és mellékleteit az elismerési eljárást lefolytató hatóság a szakmai képesítés elismeréséről szóló, véglegessé vált határozatával együtt haladéktalanul megküldi az 5. § szerint hatáskörrel rendelkező területi kamarának. A területi kamara a megküldött iratok alapján
 
 a) az engedélyt megadja, és a szakmagyakorlót az elkülönítetten vezetett névjegyzékbe bejegyzi, vagy
 
-b) a kérelmet elutasítja.
+b) az engedély kiadását és a névjegyzékbe vételt megtagadja.
+
+[^60]: A 41. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 444. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
