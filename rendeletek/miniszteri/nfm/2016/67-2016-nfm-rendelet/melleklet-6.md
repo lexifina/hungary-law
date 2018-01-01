@@ -6,14 +6,16 @@
 
 | 2. | kiegyenlítő hozzájárulás | 0 forint/kWh |
 
-6. melléklet a 67/2016. (XII. 29.) NFM rendelethez
+6. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^17]
 
-A GET 141/B. § (15) bekezdés b) pontjában meghatározott engedélyes által fizetendő kapcsolt termelésszerkezet átalakítási hozzájárulás és kiegyenlítő hozzájárulás mértéke 2017. évben
+A GET 141/B. § (15) bekezdés b) pontjában meghatározott engedélyes által fizetendő kapcsolt termelésszerkezet átalakítási hozzájárulás és kiegyenlítő hozzájárulás mértéke 2018. évben
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M |
 
-| 1. | hónap | 2017. jan. | 2017. febr. | 2017. márc. | 2017. ápr. | 2017. máj. | 2017. jún. | 2017. júl. | 2017. aug. | 2017. szept. | 2017. okt. | 2017. nov. | 2017. dec. |
+| 1. | hónap | január | február | március | április | május | június | július | augusztus | szeptember | október | november | december |
 
 | 2. | kapcsolt termelésszerkezet átalakítási hozzájárulás (milliárd forint) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 | 3. | kiegyenlítő hozzájárulás (forint/kWh) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+[^17]: A 6. melléklet az 59/2017. (XII. 29.) NFM rendelet 6. § (4) bekezdésével megállapított szöveg.
