@@ -12,12 +12,8 @@ a) az útépítési, közműfejlesztési és -csatlakozási munkák érdekében 
 
 b) a Beruházások megvalósításához, használatbavételéhez és üzembe helyezéséhez szükségesek.
 
-(3) A Kormány az 1. melléklet 4. pontja szerinti közigazgatási hatósági ügyekben eljáró
-
-a) első fokú hatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát,
-
-b) másodfokú hatóságként Budapest Főváros Kormányhivatalát
-
-## jelöli ki.
+(3)[^1] A Kormány az 1. melléklet 4. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát jelöli ki.
 
 (4) A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
+
+[^1]: Az 1. § (3) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 343. §-ával megállapított szöveg.
