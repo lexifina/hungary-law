@@ -1,4 +1,4 @@
-## 16–17. §[^1]
+## 16–17. §[^4]
 
 1. melléklet a 25/2014. (IV. 30.) NFM rendelethez
 
@@ -94,4 +94,4 @@ VI. A vállalkozást érintő veszélyes áruval kapcsolatban bekövetkezett bal
 
 VII. A biztonsági tanácsadó észrevételei, javaslatai
 
-[^1]: A 16–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 16–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
