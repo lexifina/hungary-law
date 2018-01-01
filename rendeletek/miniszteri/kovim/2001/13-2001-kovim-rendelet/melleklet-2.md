@@ -192,7 +192,7 @@
 
 ## Bridgewater-csatorna Az egész csatorna
 
-2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^53]
+2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^51]
 
 Az 1., 2., 3. és 4. zónába sorolt belvízi utakon
 
@@ -1866,8 +1866,6 @@ Víz behatolása elleni, érintés- és mechanikai védelem
 
 A villamos berendezés rögzítetten elhelyezett részeinek minimális védettségi foka feleljen meg a mindenkori beépítési hely szerint a következő táblázatnak:
 
-7K00013P_0
-
 | Beépítési hely | Minimális védettségi fok (MSZ EN 60529, IEC 529) |
 
 | Generátorok | Motorok | Transzformá- torok | Kapcsoló- és elosztótáblák, készülékek | Szerelési anyagok | Lámpák |
@@ -1933,8 +1931,6 @@ Nem érvényes ez az előírás védő-elválasztó transzformátor alkalmazása
 Megengedett legnagyobb feszültségek
 
 1. A feszültségek nem léphetik túl a következő értékeket:
-
-7K00013P_2
 
 | Berendezés jellege | Megengedhető legnagyobb feszültség |
 
@@ -2496,7 +2492,7 @@ A vontatásra alkalmas géphajókat és tolóhajókat fel kell szerelni legaláb
 
 (e) Egy csáklya.
 
-(f) Külön jogszabályban[^54] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
+(f) Külön jogszabályban[^52] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
 
 (g) Egy távcső, amely legalább 7x50 lencseátmérőjű.
 
@@ -4976,123 +4972,9 @@ Hajóépítési és gépészeti követelmények
 
 Árboczat általában
 
-1. Az árboczat alkatrészeit úgy kell elrendezni, hogy az elfogadhatatlan mértékű kopás megakadályozható legyen.
-
-2. Amennyiben nem faanyagot, illetve különleges típusú árbocrendszert használnak, az ilyen szerkezetnek az e fejezetben megállapított méretezési és szilárdsági értékekkel egyenértékű biztonsági szintet kell biztosítania. A szilárdság igazolása lehet:
-
-(a) egy elvégzett szilárdságszámítás
-
-(b) a megfelelő szilárdság igazolását egy elismert hajóosztályozó társaságtól kell beszerezni vagy
-
-(c) a méretezésnek egy elismert rácsszerkezet-számítási eljáráson (például Middendorf, Kusk-Jensen) kell alapulnia.
-
-Az igazolást be kell nyújtani a hajózási hatóságnak.
-
-15a.06 cikk
-
-Árbocok és vitorlarudak általában
-
-1. Minden vitorlarudat jó minőségű anyagból kell készíteni.
-
-2. Az árbocfára vonatkozó követelmények:
-
-(a) csomómentesnek kell lennie,
-
-(b) az előírt méreteken belül szijácsmentesnek kell lennie,
-
-(c) amennyire lehet, egyenes rostúnak kell lennie,
-
-(d) a lehető legkevésbé csavarodott növésű legyen.
-
-3. Ha a kiválasztott fa „tiszta és jobb” minőségű szurokfenyő vagy oregoni fenyő, a 15a.07–15a.12 cikkben foglalt táblázatokban foglalt méretek 5%-kal csökkenthetők.
-
-4. Ha az árbocokhoz, az árbocsudárokhoz, a keresztárbocokhoz, a keresztrudakhoz és orrárbocokhoz használt szálfa keresztmetszete nem kerek, az ilyen faanyagoknak egyenértékű szilárdságúaknak kell lenniük.
-
-5. Az árbocok talapzatait, aknáit és a fedélzethez, a bordatalpakhoz, az orrtőkéhez és a farrészhez való rögzítésüket úgy kell kialakítani, hogy a rájuk ható erőket elnyeljék vagy átadják a szerkezet egyéb kapcsolódó részeinek.
-
-6. A hajó stabilitásától, a rá ható külső erőktől, valamint a rendelkezésre álló vitorlafelület elosztásától függően a hajózási hatóság az e fejezetben megállapított méretek alapján engedélyezheti a vitorlarudak keresztmetszetének csökkentését, indokolt esetben a vitorlázatra vonatkozóan is. Az igazolást a 15a.05 cikk 2. ponttal összhangban kell benyújtani.
-
-7. Ha a hajó oldalirányú lengési periódusa másodpercben mérve kevesebb, mint méterben mért szélességének negyede, a következő cikkekben megállapított méreteket növelni kell. Az igazolást a 15a.05 cikk 2. ponttal összhangban kell benyújtani.
-
-8. A 15a.07–15a.12. és a 15a.14 cikkben foglalt táblázatokban a közbenső értékeket interpolálással kell meghatározni.
-
-15a.07 cikk
-
-Az árbocokra vonatkozó külön rendelkezések
-
-1. A fából készült árbocoknak az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Hossz (*) [m] | Átmérő a fedélzetnél [cm] | Átmérő a keresztrúdnál [cm] | Átmérő az árboccsapkánál [cm] |
-
-| 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 | 20 22 24 26 28 30 32 34 36 39 41 43 44 46 49 51 | 17 17 19 21 23 25 26 28 29 31 33 34 35 37 39 41 | 15 15 17 18 19 21 22 23 24 25 26 28 29 30 32 33 |
-
-(*)Távolság a vitorlarúdtól a fedélzetig
-
-Ha az árbocnak két vitorlarúdja van, az átmérőket legalább 10%-kal növelni kell.
-
-Ha az árbocnak kettőnél több vitorlarúdja van, az átmérőket legalább 15%-kal növelni kell.
-
-A fedélzeten keresztül beépített árbocok esetén az árboc keresztmetszetének a talpazatnál az árboc fedélzeti szintnél levő keresztmetszetének legalább 75%-ának kell lennie.
-
-2. Az árbocok szerelvényeit, abroncsait, keresztfáit és árbocsapkáit megfelelően kell méretezni és összekapcsolni.
-
-15a.08 cikk
-
-Az árbocsudárra vonatkozó külön rendelkezések
-
-1. A fából készült árbocsudároknak az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Hossz (*) [m] | Átmérő a lábazatnál [cm] | Átmérő a hossz felénél [cm] | Átmérő a szerelvénynél (**) [cm] |
-
-| 4 5 6 7 8 9 10 11 12 13 14 15 | 8 10 13 14 16 18 20 23 25 26 28 31 | 7 9 11 13 15 16 18 20 22 24 25 27 | 6 7 8 10 11 13 15 16 17 18 20 21 |
-
-(*) Az árbocsudár teljes hossza az árbocfej nélkül
-
-(**)Az árbocsudár átmérője az árbocfej szerelvénye szintjén
-
-Ha az árbocsudárhoz négyzet alakú vitorlákat szerelnek fel, a táblázatban megadott méreteket 10%-kal növelni kell.
-
-2. Az árbocsudár és az árboc közötti átfedésnek az árbocsudár előírt lábazati átmérőjének legalább tízszeresének kell lennie.
-
-15a.09 cikk
-
-Az orrárbocokra vonatkozó külön rendelkezések
-
-1. A fából készült orrárbocoknak az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Hossz (*) [m] | Átmérő az orrtőkénél [cm] | Átmérő a hossz felénél [cm] |
-
-| 4 5 6 7 8 9 10 11 12 | 14,5 18 22 25 29 32 36 39 43 | 12,5 16 19 23 25 29 32 35 39 |
-
-(*) Az orrárboc teljes hossza
-
-2. Az orrárboc hajótestben levő része hosszának az orrárboc orrtőkénél mért átmérője legalább négyszeresének kell lennie.
-
-3. Az orrárboc átmérőjének a csúcsánál az orrárboc orrtőkénél mért átmérője legalább 60%-ának kell lennie.
-
-15a.10 cikk
-
-Az orrsudarakra vonatkozó külön rendelkezések
-
-1. A fából készült orrsudaraknak az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Hossz (*) | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-
-| Átmérő az orrtőkénél [cm] | 7 | 10 | 14 | 17 | 21 | 24 | 28 | 31 | 35 |
-
-(*) Az orrsudár teljes hossza
-
-2. Az orrsudár fejnél mért átmérőjének az orrtőkénél mért átmérő legalább 60%-ának kell lennie.
-
-15a.11 cikk
-
-A fővitorla keresztrúdjaira vonatkozó külön rendelkezések
-
-1. A fővitorla fából készült keresztrúdjainak az alábbi minimumkövetelményeknek kell megfelelniük:
-
-[^53]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja szerint módosított szöveg.
+[^51]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja szerint módosított szöveg.
 [^*]: * Kihirdette a 2001. évi XI. törvény
 [^**]: ** Kihirdette a 2003. évi LXV. törvény
 [^***]: *** Kihirdette a 2001. évi X. törvény
 [^*]: * 39/2003. (VI. 13.) GKM rendelet a víziközlekedés rendjéről.
-[^54]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész
+[^52]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész

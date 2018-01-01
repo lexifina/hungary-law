@@ -1,6 +1,6 @@
-4. §[^8] (1)[^9] Az úszólétesítmény építési, illetve átépítési tervét – az üzemképességi követelményeknek megfelelő kivitelezés biztosítása érdekében – a megrendelő vagy az építő köteles – az építés, illetve átépítés megkezdése előtt legalább 2 hónappal, két példányban – a hajózási hatósághoz jóváhagyás céljából benyújtani. Úszólétesítmény építése, illetve átépítése csak jóváhagyott tervdokumentáció birtokában kezdhető meg.
+## 3. §[^7]
 
-(2)[^10] Úszólétesítmény, valamint úszólétesítmény szerkezetének, gépi berendezésének, propulziós művének és villamos-berendezésének, továbbá azok elemeinek terveit hajózási műszaki szakterületen működő szakirányú gépészmérnök közlekedési szakértő készítheti el. A szakértői jogosultságot a hajózási hatóság a szakértői tevékenység folytatásáról nyilvántartást vezető szerv által működtetett elektronikus névjegyzékből közvetlenül vagy belföldi jogsegély keretében ellenőrzi. A jogosulatlan személy által készített terv jóváhagyására irányuló kérelmet a hajózási hatóság tartalmi vizsgálat nélkül elutasítja.
+4. §[^8] (1)–(2)[^9]
 
 (3) Nem kell benyújtani a
 
@@ -12,7 +12,7 @@ ba) a kishajó árufuvarozást vagy közforgalmú személyszállítást végez,
 
 bb) szolgálati célú kishajó épül,
 
-bc)[^11] a nagyhajók vagy úszómunkagépek vontatására, tolására vagy mellévett alakzatban való továbbítására szolgáló hajókra terjed ki
+bc)[^10] a nagyhajók vagy úszómunkagépek vontatására, tolására vagy mellévett alakzatban való továbbítására szolgáló hajókra terjed ki
 
 (4) A jóváhagyásra benyújtott tervnek – ha jogszabály eltérően nem rendelkezik – tartalmaznia kell:
 
@@ -62,7 +62,7 @@ v) személyhajóknál az utaselhelyezési rajzot.
 
 (5) Azoknál a gépeknél, berendezéseknél és felszereléseknél, amelyek megfelelőséget vizsgáló és tanúsító szervezet megfelelőséget tanúsító bizonylatával rendelkeznek, elegendő az általános elrendezési rajz benyújtása.
 
-(6)[^12] A főösszefüggési- és rendszertervek áttekintésének elősegítése céljából az összetett szerkezetű tervrajzokat a megismerést elősegítő részlettervekkel kell alátámasztani. A részlettervek elektronikus adathordozón is benyújthatóak.
+(6)[^11] A főösszefüggési- és rendszertervek áttekintésének elősegítése céljából az összetett szerkezetű tervrajzokat a megismerést elősegítő részlettervekkel kell alátámasztani. A részlettervek elektronikus adathordozón is benyújthatóak.
 
 (7) Átépítés esetében a hajótestnek, a felépítménynek, illetőleg a gépi vagy egyéb berendezéseknek azokról a részeiről kell a (4) bekezdés szerinti rajzokat és számításokat benyújtani, amelyeket átépítenek. Amennyiben az átépítés a stabilitásra vagy a hajótest szilárdságára kihat, az erre vonatkozó számításokat is be kell nyújtani.
 
@@ -84,11 +84,11 @@ e) hatósági ellenőrzés bejegyzésére alkalmas naplórész,
 
 f) az építtető és a műszaki vezető aláírása az építés, illetve átépítés megkezdésének oldalán, valamint minden oldalon az ott bejegyzett munkafázis vezetője.
 
-(11)[^13] Az építési napló bejegyzései alapján megállapított hiányosság vagy a (9) bekezdésben meghatározott feltételeknek való meg nem felelés esetén a hajózási hatóság a munkát a hiányosság megszüntetéséig leállíttathatja, illetve visszabontathat.
+(11)[^12]
 
+[^7]: A 3. §-t az 1/2010. (I. 8.) KHEM rendelet 15. § (2) bekezdése hatályon kívül helyezte.
 [^8]: A 4. § a 16/2006. (IV. 6.) GKM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^9]: A 4. § (1) bekezdése az 1/2010. (I. 8.) KHEM rendelet 2. § (1) bekezdésével megállapított, a 28/2010. (XII. 22.) NFM rendelet 2. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^10]: A 4. § (2) bekezdése a 34/2010. (IV. 22.) KHEM rendelet 2. §-ával megállapított szöveg. A 13/A. § alapján a rendelkezést a 2010. június 1-jét követően indult és a megismételt eljárásokban kell alkalmazni.
-[^11]: A 4. § (3) bekezdés b) pont bc) alpontja a 29/2014. (V. 5.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^12]: A 4. § (6) bekezdését az 1/2010. (I. 8.) KHEM rendelet 15. § (2) bekezdése hatályon kívül helyezte, újonnan a 29/2014. (V. 5.) NFM rendelet 5. § (2) bekezdése iktatta be.
-[^13]: A 4. § (11) bekezdése az 1/2010. (I. 8.) KHEM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^9]: A 4. § (1)–(2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^10]: A 4. § (3) bekezdés b) pont bc) alpontja a 29/2014. (V. 5.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^11]: A 4. § (6) bekezdését az 1/2010. (I. 8.) KHEM rendelet 15. § (2) bekezdése hatályon kívül helyezte, újonnan a 29/2014. (V. 5.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^12]: A 4. § (11) bekezdését az 55/2017. (XII. 27.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.
