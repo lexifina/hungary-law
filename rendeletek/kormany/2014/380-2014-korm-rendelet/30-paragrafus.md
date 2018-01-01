@@ -1,5 +1,3 @@
-## 29. § Az induló vállalkozásnak nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) azon tőzsdén nem jegyzett kisvállalkozás részére nyújtható, amely legfeljebb öt éve került bejegyzésre, nem összefonódás útján jött létre és még nem osztott fel nyereséget. Azon vállalkozás esetén, amely nem kerül hivatalos bejegyzésre, az öt éves periódus kezdete a gazdasági tevékenység megkezdésének az időpontja vagy a gazdasági tevékenységre vonatkozó adófizetés kezdő időpontja.
-
 30. § (1) Ha a támogatás formája nem piaci kamatozású, legfeljebb tízéves futamidőre nyújtott hitel, annak névértéke nem haladhatja meg
 
 a) az 1 millió eurónak megfelelő forintösszeget,

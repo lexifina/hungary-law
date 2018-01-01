@@ -12,6 +12,14 @@
 
 5. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
 
+5a.[^1] áttelepítés: ha
+
+a) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó azonos vagy hasonló tevékenységet vagy annak egy részét az EGT megállapodás egyik szerződő felének területén található létesítményből (eredeti létesítmény) az EGT megállapodás egy másik szerződő felének területén található azon létesítménybe helyezi át, ahol a támogatott beruházásra sor kerül (támogatott létesítmény),
+
+b) az eredeti, valamint a támogatott létesítményben előállított termék vagy nyújtott szolgáltatás legalább részben ugyanazokat a célokat szolgálja és ugyanazon fogyasztói típus keresletét vagy igényeit elégíti ki, és
+
+c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó vállalkozás valamely az EGT-n belüli eredeti létesítményében folytatott azonos vagy hasonló tevékenység körében munkahelyek szűnnek meg,
+
 6. bérköltség: a 651/2014/EU bizottsági rendelet 2. cikk 31. pontja szerinti költség,
 
 7. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
@@ -163,3 +171,5 @@ c) új termék- vagy földrajzi piacra való belépés céljából készített �
 (2) Az újonnan létrehozott vállalkozás esetén az alapítók az (1) bekezdés 18. pontja szerinti független magánbefektetőnek minősülnek.
 
 (3) Pénzügyi előzményekkel nem rendelkező induló vállalkozás esetén az (1) bekezdés 27. pont b) alpontja szerinti arányt a folyó pénzügyi időszak független könyvvizsgáló által hitelesített pénzügyi kimutatásában kell kimutatni.
+
+[^1]: A 2. § (1) bekezdés 5a. pontját a 483/2017. (XII. 28.) Korm. rendelet 11. §-a iktatta be.

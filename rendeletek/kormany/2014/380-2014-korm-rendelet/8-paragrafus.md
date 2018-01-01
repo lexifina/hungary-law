@@ -1,10 +1,10 @@
 ## 7. § A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
 
-8. § (1) Nem ítélhető meg támogatás
+8. § (1)[^2] Nem ítélhető meg támogatás
 
-a) azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
+a) azon szervezet részére, amely a támogatás odaítélésekor még nem tett eleget valamennyi, az Európai Bizottság által hozott, állami támogatás visszafizettetésére irányuló, Magyarországnak címzett határozat alapján fennálló visszafizetési kötelezettségének,
 
-b) közszolgáltatásért járó ellentételezés, – a 45. § (4) bekezdésben foglaltak figyelembevételével – csekély összegű támogatás kivételével nehéz helyzetben lévő vállalkozás részére.
+b) nehéz helyzetben lévő vállalkozás részére az induló vállalkozásnak nyújtott támogatás, a közszolgáltatásért járó ellentételezés és – a 45. § (4) bekezdésében foglaltak figyelembevételével – a csekély összegű támogatás kivételével, azzal, hogy az induló vállalkozásnak nyújtott támogatás esetén a nehéz helyzetben lévő vállalkozások nem részesíthetők a nehéz helyzetükre hivatkozással előnyben az egyéb vállalkozásokkal szemben.
 
 (2) Nem ítélhető meg
 
@@ -23,3 +23,5 @@ d) támogatás exporttal kapcsolatos tevékenységhez, ha az az exportált menny
 e) támogatás, ha azt import áru helyett hazai áru használatától teszik függővé,
 
 f) támogatás olyan feltétellel, amely az európai uniós jog megsértését eredményezi.
+
+[^2]: A 8. § (1) bekezdése a 483/2017. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
