@@ -6,7 +6,7 @@ b) az a) pontban meghatározott személyek és szervezetek vízgazdálkodási te
 
 ## terjed ki.
 
-(2) A vízgazdálkodást érintő, de kizárólag statisztikai célt szolgáló adatgyűjtésre, adatfelvételre, elemzésre – ideértve az Országos Statisztikai Adatgyűjtési Program (OSAP) keretében megvalósuló és e rendelet hatálya alá nem tartozó adatszolgáltatási kötelezettséget – a külön jogszabályok[^2] rendelkezései az irányadók.
+(2)[^2]
 
 [^1]: Lásd a 72/1996. (V. 22.) Korm. rendeletet.
-[^2]: Lásd az 1993. évi XLVI. törvényt és a 170/1993. (XII. 3.) Korm. rendeletet.
+[^2]: Az 1. § (2) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 23. §-a hatályon kívül helyezte.
