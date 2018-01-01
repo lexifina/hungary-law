@@ -1,5 +1,5 @@
 ## (Az Lt. 6. §-ához)
 
-3. §[^2]
+3. §[^3]
 
-[^2]: A Vhr. 3. §-át a 4/1998. (I. 16.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^3]: A Vhr. 3. §-át a 4/1998. (I. 16.) Korm. rendelet 11. §-a hatályon kívül helyezte.

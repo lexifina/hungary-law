@@ -1,4 +1,4 @@
-22/A. §[^34] (1) Repülőtéren vagy leszállóhelyen kívül nappal, látvarepülési szabályok szerint, belföldi repülést végző polgári helikopterrel fel- és leszállni
+22/A. §[^35] (1) Repülőtéren vagy leszállóhelyen kívül nappal, látvarepülési szabályok szerint, belföldi repülést végző polgári helikopterrel fel- és leszállni
 
 a) kizárólag az Lt. 71. § 10. pontjában említett magáncélból és 21. pontjában meghatározott vállalati célból végzett repülés esetén,
 
@@ -16,4 +16,4 @@ lehet.
 
 (2) Az (1) bekezdés szerint végrehajtott fel- és leszállás esetén a repülésbiztonsági és légiközlekedés-védelmi szabályok betartásáért, valamint az ennek során okozott kárért a légijármű parancsnoka felel. A terület tulajdonosa vagy kezelője felelősséggel tartozik abban az esetben, ha nem kellő körültekintéssel adta meg az (1) bekezdés e) pontjában meghatározott hozzájárulását.
 
-[^34]: A Vhr. 22/A. §-át a 206/2014. (VIII. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^35]: A Vhr. 22/A. §-át a 206/2014. (VIII. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.
