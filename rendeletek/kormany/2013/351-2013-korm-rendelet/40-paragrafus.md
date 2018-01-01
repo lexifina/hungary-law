@@ -10,6 +10,6 @@
 
 (5) Nem természetes halál esetén a halottvizsgálati bizonyítványban az 1. melléklet 20. pontjában, 21. a) pontjában és 22. pontjában foglalt adatokat az eljáró hatóság, 19. pontjában, 21. b) pontjában és 23–32. pontjában foglalt adatokat a hatósági vagy igazságügyi orvosi boncolást végző orvos tölti ki.
 
-(6)[^8] Természetes halál esetén, ha a holttest boncolására nem került sor, a holttest elhamvaszthatóságát a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala engedélyezi.
+(6)[^11] Természetes halál esetén, ha a holttest boncolására nem került sor, a holttest elhamvaszthatóságát a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala engedélyezi.
 
-[^8]: A 40. § (6) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 119. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 231. § a) pontja szerint módosított szöveg.
+[^11]: A 40. § (6) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 119. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 231. § a) pontja szerint módosított szöveg.

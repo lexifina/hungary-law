@@ -10,9 +10,9 @@ A perinatális halottvizsgálati bizonyítvány a következő adatokat tartalmaz
 
 4. Az elhalt neme, születési időpontja
 
-5.[^22] Eltemettetésre kötelezett személy (temetést intéző) neve
+5.[^25] Eltemettetésre kötelezett személy (temetést intéző) neve
 
-6.[^23] Eltemettetésre kötelezett személy (temetést intéző) lakcíme, irányítószáma
+6.[^26] Eltemettetésre kötelezett személy (temetést intéző) lakcíme, irányítószáma
 
 7. Temetést intéző közelebbi megjelölése
 
@@ -68,5 +68,5 @@ e) egyéb körülmények
 
 28. Haláleset anyakönyvezésének igazolása
 
-[^22]: A 2. melléklet 5. pontja a 441/2016. (XII. 16.) Korm. rendelet 50. § d) pontja szerint módosított szöveg.
-[^23]: A 2. melléklet 6. pontja a 441/2016. (XII. 16.) Korm. rendelet 50. § d) pontja szerint módosított szöveg.
+[^25]: A 2. melléklet 5. pontja a 441/2016. (XII. 16.) Korm. rendelet 50. § d) pontja szerint módosított szöveg.
+[^26]: A 2. melléklet 6. pontja a 441/2016. (XII. 16.) Korm. rendelet 50. § d) pontja szerint módosított szöveg.
