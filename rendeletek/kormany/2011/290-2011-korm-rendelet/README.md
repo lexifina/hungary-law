@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-290-20-
 | 2017-01-01 | 2011-290-20-22.19 | 489/2016. (XII. 28.) Korm. rendelet |
 | 2017-05-11 | 2011-290-20-22.20 | 114/2017. (V. 10.) Korm. rendelet |
 | 2017-09-21 | 2011-290-20-22.21 | 273/2017. (IX. 20.) Korm. rendelet |
+| 2018-01-01 | 2011-290-20-22.22 | 457/2017. (XII. 28.) Korm. határozat |

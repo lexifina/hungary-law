@@ -38,7 +38,7 @@
 
 ## Jegyzék a bejelentésre kötelezett ingatlanok és szolgáltatások köréről
 
-## I.[^141] Ingatlanok
+## I.[^153] Ingatlanok
 
 ## – köznevelési, felsőoktatási intézmény,
 
@@ -90,4 +90,4 @@
 
 II. Szolgáltatások
 
-[^141]: Az 5. melléklet I. része a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 168/2016. (VII. 1.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^153]: Az 5. melléklet I. része a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 168/2016. (VII. 1.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.

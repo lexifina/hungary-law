@@ -4,20 +4,11 @@
 
 (3) A helyszíni ellenőrzést bizottság végzi, amelynek elnöke a területileg illetékes katonai igazgatási szerv állományába tartozó katona, tagjai az igénybevevő, és az ingatlan fekvése szerint, szolgáltatás esetén a szolgáltatásra kötelezett székhelye, telephelye, fióktelepe szerint illetékes polgármesteri hivatal képviselője.
 
-(4) A helyszíni ellenőrzésről jegyzőkönyvet kell felvenni, amely tartalmazza
-
-a) az ellenőrzést elrendelő hatóság megnevezését,
-
-b) az ellenőrzést elrendelő határozat számát,
-
-c) a bizottság tagjai és a szolgáltatásra kötelezett adatait,
-
-d) az ingatlan, szolgáltatás azonosítására alkalmas adatokat, az ingatlan, szolgáltatás állapotát, az igénybevételre való alkalmasságát,
-
-e) harmadik személynek az ingatlanra, vagy a szolgáltatás tárgyára vonatkozó jogát,
-
-f) továbbá minden olyan tényt vagy adatot, amelyet a bizottság az igénybevételre való alkalmasság szempontjából lényegesnek tart.
+(4)[^104]
 
 (5) A jegyzőkönyvet a területileg illetékes katonai igazgatási szerv készíti el.
 
-(6) A jegyzőkönyvet a bizottság elnöke, tagjai, a jegyzőkönyvvezető, a szolgáltatásra kötelezett, vagy képviselője írja alá. Ha a jegyzőkönyv aláírását a szolgáltatásra kötelezett vagy képviselője megtagadta, ennek tényét és okát a jegyzőkönyvben két tanú jelenlétében rögzíteni kell.
+(6)[^105]
+
+[^104]: A 47. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 363. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^105]: A 47. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 363. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

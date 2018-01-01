@@ -8,7 +8,7 @@
 
 (4) Az ellenőrzés során azt is vizsgálni kell, hogy a megyei, fővárosi védelmi bizottság által meghagyásba bevont szerv meghagyásba történő bevonásának az e rendeletben meghatározott feltételei fennállnak-e.
 
-(5) Az ellenőrzést a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó szabályai szerint kell végrehajtani.
+(5)[^133] Az ellenőrzést az általános közigazgatási rendtartásról szóló törvény hatósági ellenőrzésre vonatkozó szabályai szerint kell végrehajtani.
 
 (6) Helyszíni ellenőrzést a Honvéd Vezérkar főnöke vagy a megyei, fővárosi védelmi bizottság által kijelölt személy is végezhet. A helyszíni ellenőrzésre kijelölt személy ellenőrzési jogosultságát megbízólevéllel köteles igazolni.
 
@@ -16,4 +16,7 @@
 
 (8) Ha a Honvéd Vezérkar főnöke vagy a (2) bekezdésben meghatározott hatóság az ellenőrzés során megállapítja, hogy a megyei, fővárosi védelmi bizottság által kijelölt meghagyásba bevont szerv meghagyásba történő bevonásának az e rendeletben meghatározott feltételei nem állnak fenn, a Honvéd Vezérkar főnöke a meghagyásba történő bevonás megszüntetéséről dönt. A döntést közölni kell a Honvédség katonai igazgatási és központi adatfeldolgozó szervével is.
 
-(9) Az ellenőrzés során hozott döntés elleni fellebbezés elbírálására a honvédelemért felelős miniszter jogosult. A jogerős döntést közölni kell a Honvédség katonai igazgatási és központi adatfeldolgozó szervével is.
+(9)[^134] Az ellenőrzés során tapasztalt jogsértés miatt megindított eljárásban hozott döntés elleni fellebbezés elbírálására a honvédelemért felelős miniszter jogosult. A végleges döntést közölni kell a Honvédség katonai igazgatási és központi adatfeldolgozó szervével is.
+
+[^133]: A 69. § (5) bekezdése a 457/2017. (XII. 28.) Korm. határozat 362. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^134]: A 69. § (9) bekezdése a 457/2017. (XII. 28.) Korm. határozat 362. § b) és e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
