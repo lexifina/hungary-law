@@ -1,1 +1,0 @@
-## 1. § A többcélú kistérségi társulások (a továbbiakban: Társulás) számára a Rendelet alapján megállapított normatív működési támogatások jogcímeit és fajlagos összegeit az 1. melléklet, a Társulásonként és jogcímenként részletezett támogatási előirányzatokat a 2. melléklet tartalmazza.
