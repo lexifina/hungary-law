@@ -1,0 +1,3 @@
+## 4. § Az R. 7. § (1) bekezdése helyébe az következő rendelkezés lép:
+
+## „(1) A védelmi ellenőrök alap- és éves ismeretmegújító képzésére a védelmi ellenőrt foglalkoztatónak tervet kell készítenie. A tervnek alkalmasnak kell lennie a közös légiközlekedési EU rendelet Mellékletének 11.2. pontjában megjelölt kompetenciák kifejlesztésére, és tartalmaznia kell az ehhez szükséges tematikát az óraszámok megjelölésével. Az alapképzés és az éves ismeretmegújító képzés tervének tartalmaznia kell a védelmi ellenőrt foglalkoztatónál használt védelmi berendezések kezelésének kiegészítő képzését és a védelmi ellenőr munkahelyi képzését is. A tervet a képzés kezdetét megelőzően legalább 30 napon belül jóváhagyásra meg kell küldeni a légiközlekedési hatóságnak.”
