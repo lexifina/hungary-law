@@ -36,27 +36,9 @@
 
 ## *** A legfelső emeleti korrekciók nem alkalmazhatók azoknál a függőleges, felső elosztású fűtési rendszerű felhasználási helyek helyiségeinél, amelyek légterében hőszigetelés nélküli vízszintes elosztóvezeték halad át.
 
-7. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^117]
+7. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^128]
 
-A) A vezetékjog engedélyezési eljárásban kijelölt szakhatóságok
-
-|  | A | B | C | D |
-
-| 1. | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
-
-| 2. | A fővárosi kerületi önkormányzat tulajdonában lévő helyi közút területén az alatt vagy felett, valamint a közutak külterületi szakaszán a közút tengelyétől számított 50 méteren belül tervezett távhővezeték nyomvonalának vagy biztonsági övezetének kijelölése esetén, ha a kérelmező a közútkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. |  | Fővárosi önkormányzat főjegyzője |  |
-
-| 3. | Távhővezeték nyomvonala, biztonsági övezete magyarországi repülőtértől, fel- és leszállóhelytől, rádiónavigációs ponttól számított 4 kilométeren belüli kijelölése esetén. | a) Az építmény elhelyezkedésének, magasságának, jellegének közvetlen és közvetett hatása a polgári célú légiközlekedésre, a földi telepítésű berendezések működésére és a polgári célú légiközlekedés biztonságára. b) Az építmény elhelyezkedésének, magasságának, jellegének közvetlen és közvetett hatása az állami célú légiközlekedésre, a földi telepítésű berendezések működésére és az állami célú légiközlekedés biztonságára. | a) légiközlekedési hatóság b) katonai légügyi hatóság |  |
-
-| 4. | A távhővezeték nyomvonalának, illetőleg biztonsági övezetének víziúttól vagy hajózási létesítménytől legfeljebb 50 méteres távolságra tervezett kijelölése esetén. | A távhővezeték nyomvonala biztonsági övezetének megállapítása, valamint annak elbírálása kérdésében, hogy biztosítottak-e a víziutakra vonatkozó nemzetközi szerződéseken alapuló hajózási űrszelvényméretek. | közlekedésért felelős miniszter | - |
-
-| 5. | A vasúti pálya szélső vágányának tengelyétől számított 100 méteren belüli elektronikus hírközlési célt szolgáló építmény építése, elhelyezése, megszüntetése esetén, ha a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a közút területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett - a közúti forgalom biztonságára, a közút fejlesztési terveinek végrehajtására, a közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára gyakorolt hatása alapján - engedélyezhető-e. | közlekedésért felelős miniszter |  |
-
-| 6. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges, ha a távhővezetéket külterületen, továbbá - egyedi tájérték, természeti terület és országos jelentőségű védett természeti terület, Natura 2000 terület vagy barlang védőövezete esetén - belterületen valósítják meg. | Annak elbírálása kérdésében, hogy a tevékenység az ivóvízbázisok védelme követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | vízügyi hatóság | Országos vízügyi hatóság |
-
-| 7. | Minden eljárásban. | Annak elbírálása kérdésében, hogy a vezeték megvalósítása a jogszabályban rögzített tűzvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | első fokon eljáró tűzvédelmi hatóság | másodfokon eljáró tűzvédelmi hatóság |
-
-| 8. | Ha a távhővezetéket honvédelmi és katonai célú építmény működési vagy védőterületén valósítják meg. | Annak elbírálása kérdésében, hogy a távhővezeték megvalósítása esetén a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatóak-e. | honvédelemért felelős miniszter |  |
+A)
 
 B) A vezetékjog engedélyezési eljárásában vizsgálandó szakkérdések és a másodfokú eljárásban a szakértőként kirendelhető hatóságok
 
@@ -70,4 +52,4 @@ B) A vezetékjog engedélyezési eljárásában vizsgálandó szakkérdések és
 
 | 4. | Ha a távhővezetéket a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy nyilvántartott műemléki érték vagy műemlék telkén valósítják meg. | Annak elbírálása kérdésében, hogy a létesítmény vagy vezeték megvalósítása a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | kulturális örökség védelméért felelős miniszter |
 
-[^117]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 73. § (6) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^128]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 73. § (6) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 65. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 146. § h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

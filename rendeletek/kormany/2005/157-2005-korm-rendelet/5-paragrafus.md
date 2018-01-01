@@ -1,4 +1,4 @@
-5. §[^9] (1) A távhőszolgáltatói működési engedély iránti kérelemnek tartalmaznia kell:
+5. §[^11] (1) A távhőszolgáltatói működési engedély iránti kérelemnek tartalmaznia kell:
 
 a) ha a kérelmező cégjegyzékben nyilvántartott cég, a kérelmező nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát,
 
@@ -8,24 +8,27 @@ c) a területi egységek (kirendeltségek, felhasználói irodák stb.) megnevez
 
 d) a szolgáltatandó távhő termelőjének megnevezését és telephelyét.
 
-(2) A távhőszolgáltatói működési engedély iránti kérelemhez mellékelni kell:
+(2)[^12] A távhőszolgáltatói működési engedély iránti kérelemhez
 
-a) a távhővel ellátandó terület szöveges körülírását, az ellátandó területi egységek vagy az ellátandó területet határoló közterület megnevezésével,
+a) szöveges körülírással be kell mutatni a távhővel ellátandó területet, az ellátandó területi egységek vagy az ellátandó területet határoló közterület megnevezésével,
 
-b) a távhőszolgáltatás fenntarthatóságát alátámasztó ötéves üzleti tervet,
+b) igazolni kell a távhőszolgáltatás fenntarthatóságát, bemutatva az öt évre szóló üzleti tervet,
 
-c) a minőségbiztosítási rendszer leírását, amely tartalmazza a meghibásodás elhárítására, illetve a karbantartásra vonatkozó szabályokat,
+c) be kell mutatni a minőségbiztosítási rendszert, kitérve a meghibásodás elhárítására, illetve a karbantartásra vonatkozó szabályokra,
 
-d) a középtávú távhőigény-felmérést és a kielégítéséhez szükséges teljesítménytervet,
+d) be kell mutatni a középtávú távhőigény-felmérést és a kielégítéséhez szükséges teljesítménytervet,
 
-e) az üzletszabályzatot vagy annak tervezetét,
+e) be kell nyújtani az üzletszabályzatot vagy annak tervezetét,
 
-f) a távhővezeték-hálózat gerinc- és elosztó vezetékeinek léptékhelyes vonalas rajzát a távhővel ellátott terület körvonalainak térképi feltüntetésével és
+f) be kell nyújtani a távhővezeték-hálózat gerinc- és elosztó vezetékeinek léptékhelyes vonalas rajzát a távhővel ellátott terület körvonalainak térképi feltüntetésével és
 
-g) amennyiben annak megszerzése jogszabály alapján szükséges
+g) ha annak megszerzése jogszabály alapján szükséges, meg kell adni
 
-ga) a nyomástartó létesítményre vonatkozó használatbavételi engedélyt,
+ga) a nyomástartó létesítményre vonatkozó használatbavételi engedély,
 
-gb) a vízjogi – üzemeltetési vagy fennmaradási – engedélyt.
+gb) a vízjogi – üzemeltetési vagy fennmaradási – engedély
 
-[^9]: A Vhr. 5. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+azonosításához szükséges adatokat.
+
+[^11]: A Vhr. 5. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A Vhr. 5. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 144. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

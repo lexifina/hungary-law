@@ -16,27 +16,30 @@ e) az üzembe helyezés tervezett időpontját,
 
 f) a hőtermelésre vonatkozó főbb mennyiségi és gazdálkodási adatokat.
 
-(2) A távhőtermelői létesítési engedély iránti kérelemhez – a 8/A. § (1) bekezdésben foglaltak figyelembevételével – mellékelni kell:
+(2)[^8] A távhőtermelői létesítési engedély iránti kérelem benyújtásakor – a 8/A. § (1) bekezdésében foglaltak figyelembevételével –
 
-a) a távhőtermelés fenntarthatóságát alátámasztó ötéves üzleti tervet,
+a) igazolni kell a távhőtermelés fenntarthatóságát, bemutatva az öt évre szóló üzleti tervet,
 
-b) a nem földgáz energiahordozón alapuló hőtermelés esetében a középtávú távhőigény kielégítéséhez szükséges energiahordozó rendelkezésre állására szolgáló szerződéseket,
+b) igazolni kell a nem földgáz energiahordozón alapuló hőtermelés esetében a középtávú távhőigény kielégítéséhez szükséges energiahordozó rendelkezésre állását,
 
-c) az energetikai berendezések, valamint azok energetikai és hidraulikai kapcsolatainak grafikus ábrázolását a jellemző adatok feltüntetésével,
+c) be kell nyújtani az energetikai berendezések, valamint azok energetikai és hidraulikai kapcsolatainak grafikus ábrázolását a jellemző adatok feltüntetésével,
 
-d) a megújuló energiahordozó felhasználására vonatkozó vizsgálat teljes dokumentációját és
+d) részletesen ismertetni kell a megújuló energiahordozó felhasználására vonatkozó vizsgálat teljes dokumentációjának tartalmát és
 
-e) amennyiben annak megszerzése jogszabály alapján szükséges
+e) ha annak megszerzése jogszabály alapján szükséges, meg kell adni a megszerzett
 
-ea) a környezetvédelmi engedélyt vagy az egységes környezethasználati engedélyt,
+ea) környezetvédelmi engedély vagy az egységes környezethasználati engedély,
 
-eb) a sajátos építményre vonatkozó építési engedélyt,
+eb) sajátos építményre vonatkozó építési engedély,
 
-ec) a nyomástartó létesítmény létesítésére vonatkozó engedélyt,
+ec) nyomástartó létesítmény létesítésére vonatkozó engedély,
 
-ed) a vízjogi létesítési engedélyt,
+ed) vízjogi létesítési engedély,
 
-ee) a levegőtisztaság-védelmi vagy pontforrás-üzemeltetési engedélyt.
+ee) levegőtisztaság-védelmi vagy pontforrás-üzemeltetési engedély
+
+azonosításához szükséges adatokat.
 
 [^6]: A Vhr. 3. §-át megelőző alcím a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^7]: A Vhr. 3. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A Vhr. 3. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 144. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

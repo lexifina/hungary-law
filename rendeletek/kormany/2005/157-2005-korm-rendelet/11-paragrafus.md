@@ -1,3 +1,3 @@
-11. §[^23] A vezetékjogi engedélyre vonatkozó hatósági eljárás megindításáról való hirdetményi úton történő értesítés és a döntés hirdetményi úton történő közlése esetén a hirdetményhez mellékelni kell a műszaki terv részét képező, a létesíteni tervezett vezeték nyomvonalát és az azzal érintett ingatlan határvonalait, helyrajzi számát is feltüntető nyomvonal rajzát.
+11. §[^31] A vezetékjogi engedélyre vonatkozó hatósági eljárás megindításáról szóló hirdetmény és a döntés közhírré tétele esetén nyilvánosságra kell hozni a műszaki terv részét képező, a létesíteni tervezett vezeték nyomvonalát és az azzal érintett ingatlan határvonalait, helyrajzi számát feltüntető helyszínrajzot is.
 
-[^23]: A Vhr. 11. § a 182/2009. (IX. 10.) Korm. rendelet 413. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: A Vhr. 11. §-a a 457/2017. (XII. 28.) Korm. rendelet 144. § (7) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

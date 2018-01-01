@@ -1,4 +1,4 @@
-6. §[^10] (1) A távhőtermelői létesítési és a távhőtermelői működési engedélynek tartalmaznia kell:
+6. §[^13] (1) A távhőtermelői létesítési és a távhőtermelői működési engedélynek tartalmaznia kell:
 
 a) a hőtermelő létesítmény telephelyét,
 
@@ -30,4 +30,4 @@ f) a felhasználói korlátozási sorrend készítésére vonatkozó követelmé
 
 g) az egyéb – jogszabályban meghatározott – követelményeket.
 
-[^10]: A Vhr. 6. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A Vhr. 6. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
