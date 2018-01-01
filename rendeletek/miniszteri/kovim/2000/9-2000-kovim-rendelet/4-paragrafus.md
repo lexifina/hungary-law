@@ -2,13 +2,11 @@
 
 a) a díjfizetési kötelezettségre az Itv. 28. §-ának (2)–(3) bekezdéseiben foglaltakat,
 
-b)[^17] a díjfizetésre kötelezettek körének megállapítására az Itv. 31. §-a (1) bekezdésének első mondatában, valamint a 31. § (2) bekezdésében foglaltakat,
+b)[^18] a díjfizetésre kötelezettek körének megállapítására az Itv. 31. §-a (1) bekezdésének első mondatában, valamint a 31. § (2) bekezdésében foglaltakat,
 
 c) a jogorvoslati eljárásra az Itv. 32. §-ában foglaltakat,
 
-d)[^18] a mulasztási bírságra az Itv. 82. §-ában foglaltakat
+d)[^19] a mulasztási bírságra az Itv. 82. §-ában foglaltakat
 
-kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e jogszabály tekintetében díjat kell érteni.
-
-[^17]: A 4. § b) pontja a 45/2015. (VIII. 6.) NFM rendelet 4. § c) pontja szerint módosított szöveg.
-[^18]: A 4. § d) pontja a 45/2015. (VIII. 6.) NFM rendelet 4. § d) pontja szerint módosított szöveg.
+[^18]: A 4. § b) pontja a 45/2015. (VIII. 6.) NFM rendelet 4. § c) pontja szerint módosított szöveg.
+[^19]: A 4. § d) pontja a 45/2015. (VIII. 6.) NFM rendelet 4. § d) pontja szerint módosított szöveg.
