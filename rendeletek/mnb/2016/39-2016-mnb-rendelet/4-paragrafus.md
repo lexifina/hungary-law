@@ -16,4 +16,8 @@ g) a nem teljesítő kitettségek és átstrukturált követelések e rendelet s
 
 h) a nem teljesítő kitettségekre és az átstrukturált követelésekre vonatkozó pénzügyi beszámolási célú értékelési követelményeket,
 
-i) a nem teljesítő kitettségekre és az átstrukturált követelésekre vonatkozó nyilvántartási és dokumentációs követelményeket, beleértve a nem teljesítő kitettség, valamint az átstrukturált követelés kategóriából történő kivezetést megalapozó döntés dokumentumait is.
+i) a nem teljesítő kitettségekre és az átstrukturált követelésekre vonatkozó nyilvántartási és dokumentációs követelményeket, beleértve a nem teljesítő kitettség, valamint az átstrukturált követelés kategóriából történő kivezetést megalapozó döntés dokumentumait is,
+
+j)[^1] az 5. § d) pont da) alpontja alkalmazása tekintetében az óvatosság elve alapján történő értékvesztés elszámolás intézményen belüli gyakorlatát és annak a kitettségek minősítésével való összefüggéseit.
+
+[^1]: A 4. § j) pontját a 33/2017. (XI. 30.) MNB rendelet 1. § (1) bekezdése iktatta be.
