@@ -6,4 +6,4 @@ a) a hitelbiztosítéki nyilatkozat nyilvántartásban történő rögzítésén
 
 b) a bejegyzés sorszámát (nyilvántartási azonosítóját), továbbá
 
-c) azt, ha a nyilatkozatot az annak alapjául szolgáló szerződést közokiratba foglaló közjegyző, vagy a szerződést ellenjegyző ügyvéd rögzítette a nyilvántartásban.
+c) azt, ha a nyilatkozatot az annak alapjául szolgáló szerződést közokiratba foglaló közjegyző, vagy a szerződést ellenjegyző ügyvéd vagy kamarai jogtanácsos rögzítette a nyilvántartásban.
