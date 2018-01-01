@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-22-20-0
 | 2017-03-08 | 2006-22-20-06.15 | 39/2015. (XII. 21.) IM rendelet |
 | 2017-03-28 | 2006-22-20-06.16 | 42/2007. (VIII. 29.) IRM rendelet |
 | 2017-06-08 | 2006-22-20-06.17 | 39/2015. (XII. 21.) IM rendelet |
+| 2018-01-01 | 2006-22-20-06.18 | 20/2017. (XII. 21.) IM rendelet |
