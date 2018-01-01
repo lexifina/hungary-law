@@ -1,1 +1,3 @@
-19. §
+19. § A Hdt. a következő 30. §-sal egészül ki:
+
+„30. § E törvénynek az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2016. évi CLXXXIV. törvénnyel megállapított 11. § (2) és (4) bekezdését, 12. § (2) bekezdését, 13. § (1) bekezdését, 14. § (2) bekezdését, 14/A. §-át, 15. § (1) bekezdését, valamint a 15/A. §-át a 2018. január 1-jét megelőzően megállapított ellátásokra is alkalmazni kell.”
