@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-354-20-
 | 2015-04-01 | 2012-354-20-22.3 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-09-01 | 2012-354-20-22.4 | 244/2016. (VIII. 17.) Korm. rendelet |
 | 2017-01-01 | 2012-354-20-22.5 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2012-354-20-22.6 | 228/2017. (VIII. 14.) Korm. rendelet |
