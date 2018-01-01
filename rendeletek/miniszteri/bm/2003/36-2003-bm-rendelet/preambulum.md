@@ -1,1 +1,0 @@
-A polgári védelemről szóló 1996. évi XXXVII. törvény 42. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján a körzeti polgári védelmi parancsnokságok illetékességi területe megállapításáról szóló 49/1997. (IX. 16.) BM rendeletet (a továbbiakban: R.) a következők szerint módosítom:
