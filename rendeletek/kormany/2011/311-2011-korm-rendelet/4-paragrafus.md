@@ -6,7 +6,7 @@
 
 (3) E rendelet rendelkezéseit a folyamatban levő ügyekben is alkalmazni kell.
 
-(4)[^2] E rendeletnek a Várbazár, valamint a budavári királyi kertek rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 311/2011. (XII. 23.) Korm. rendelet módosításáról szóló 51/2012. (III. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1/A. §-át a Módr. hatálybalépésekor[^3] folyamatban lévő ügyekben is alkalmazni kell.
+(4)[^3] E rendeletnek a Várbazár, valamint a budavári királyi kertek rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 311/2011. (XII. 23.) Korm. rendelet módosításáról szóló 51/2012. (III. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1/A. §-át a Módr. hatálybalépésekor[^4] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^2]: A 4. § (4) bekezdését az 51/2012. (III. 28.) Korm. rendelet 2. §-a iktatta be.
-[^3]: A hatálybalépés időpontja 2012. március 29.
+[^3]: A 4. § (4) bekezdését az 51/2012. (III. 28.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2012. március 29.

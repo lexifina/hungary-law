@@ -1,3 +1,3 @@
-## 1/A. §[^1] Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
+## 1/A. §[^2]
 
-[^1]: Az 1/A. §-t az 51/2012. (III. 28.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1/A. §-t az 51/2012. (III. 28.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 458/2017. (XII. 28.) Korm. rendelet 43. § b) pontja.
