@@ -8,13 +8,13 @@
 
 (4) Fás szárú energetikai célú ültetvény telepítésére, valamint ültetvény telepítése esetében az (1)–(3) bekezdésben foglaltak nem alkalmazandók, ide nem értve a 21. § (1) és (3) bekezdései szerinti ültetvény újratelepítést.
 
-(5)[^52] A 3. § (1) bekezdés a) és b) pontjában meghatározott célprogramok esetén a támogatásra jogosult a támogatott területét a megkezdett gazdálkodási év befejeztével, az Európai Mezőgazdasági Vidékfejlesztési Alapból az agrár-erdészeti rendszerek mezőgazdasági földterületeken történő első létrehozásához nyújtandó támogatás igénybevételének részletes szabályairól szóló 46/2009. (IV. 16.) FVM rendelet (a továbbiakban: 46/2009. (IV. 16.) FVM rendelet) szerinti agrár-erdészeti intézkedésbe bevonhatja. Természetvédelmi oltalom alatt álló területek, valamint az MTÉT területek agrár-erdészeti intézkedések alá való bevonása az illetékes állami természetvédelmi szerv írásos hozzájárulása alapján történhet.
+(5)[^56] A 3. § (1) bekezdés a) és b) pontjában meghatározott célprogramok esetén a támogatásra jogosult a támogatott területét a megkezdett gazdálkodási év befejeztével, az Európai Mezőgazdasági Vidékfejlesztési Alapból az agrár-erdészeti rendszerek mezőgazdasági földterületeken történő első létrehozásához nyújtandó támogatás igénybevételének részletes szabályairól szóló 46/2009. (IV. 16.) FVM rendelet (a továbbiakban: 46/2009. (IV. 16.) FVM rendelet) szerinti agrár-erdészeti intézkedésbe bevonhatja. Természetvédelmi oltalom alatt álló területek, valamint az MTÉT területek agrár-erdészeti intézkedések alá való bevonása az illetékes állami természetvédelmi szerv írásos hozzájárulása alapján történhet.
 
 (6) Az (5) bekezdésben foglaltak esetén:
 
-a)[^53] ha a 3. § (1) bekezdés a) pontjában meghatározott szántóföldi célprogram csoporton belüli támogatott terület kerül bevonásra, akkor
+a)[^57] ha a 3. § (1) bekezdés a) pontjában meghatározott szántóföldi célprogram csoporton belüli támogatott terület kerül bevonásra, akkor
 
-aa) a támogatásra jogosultnak a telepítés tényéről annak megkezdését követő 10 napon belül tájékoztatnia kell az MVH-t, és
+aa)[^58] a támogatásra jogosultnak a telepítés tényéről annak megkezdését követő 10 napon belül tájékoztatnia kell a Kincstárt, és
 
 ab) a terület agrár-környezetgazdálkodási támogatásra való jogosultsága a telepítés megkezdésének gazdálkodási évétől megszűnik, de a támogatásra jogosultat támogatás-visszafizetési kötelezettség nem terheli;
 
@@ -24,11 +24,12 @@ b) amennyiben a 3. § (1) bekezdés b) pontjában meghatározott gyepgazdálkod�
 
 (8) Amennyiben a támogatásra jogosult a támogatott területén az Európai Mezőgazdasági Vidékfejlesztési Alapból nem termelő mezőgazdasági beruházásokhoz nyújtandó támogatások részletes feltételeiről szóló 33/2008. (III. 27.) FVM rendelet [a továbbiakban: 33/2008. (III. 27.) FVM rendelet] 3. § (1) bekezdés a) pontjának aa)–ab) alpontjai szerinti sövénytelepítést vagy mezővédő fásítást, illetve a b) pontjának ba) alpontja szerinti füves mezsgye telepítést hajt végre, a beruházás területének agrár-környezetgazdálkodási támogatásra való jogosultsága a beruházás megkezdésének gazdálkodási évétől megszűnik, a támogatásra jogosultat támogatás-visszafizetési kötelezettség nem terheli.
 
-(9)[^54] A támogatásra jogosult köteles meghatározni a (8) bekezdés szerinti beruházással érintett földterület nagyságát, köteles továbbá a beruházás következtében lecsökkent kötelezettségvállalással érintett egybefüggő területet legalább 3 méter pontossággal beazonosító EOV koordinátákat a kifizetési kérelem benyújtási időszakának végéig elektronikus úton benyújtani.
+(9)[^59] A támogatásra jogosult köteles meghatározni a (8) bekezdés szerinti beruházással érintett földterület nagyságát, köteles továbbá a beruházás következtében lecsökkent kötelezettségvállalással érintett egybefüggő területet legalább 3 méter pontossággal beazonosító EOV koordinátákat a kifizetési kérelem benyújtási időszakának végéig elektronikus úton benyújtani.
 
-(10)[^55] A (9) bekezdésben foglalt ismételt területazonosítás költségeit a támogatásra jogosult viseli, arra vonatkozóan a 29. § (5) bekezdése szerinti kifizetés nem igényelhető.
+(10)[^60] A (9) bekezdésben foglalt ismételt területazonosítás költségeit a támogatásra jogosult viseli, arra vonatkozóan a 29. § (5) bekezdése szerinti kifizetés nem igényelhető.
 
-[^52]: A 22. § (5) bekezdése a 35/2010. (XI. 30.) VM rendelet 4. §-ával megállapított szöveg.
-[^53]: A 22. § (6) bekezdés a) pontja a 92/2011. (X. 5.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^54]: A 22. § (9) bekezdése a 92/2011. (X. 5.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^55]: A 22. § (10) bekezdése a 92/2011. (X. 5.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^56]: A 22. § (5) bekezdése a 35/2010. (XI. 30.) VM rendelet 4. §-ával megállapított szöveg.
+[^57]: A 22. § (6) bekezdés a) pontja a 92/2011. (X. 5.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^58]: A 22. § (6) bekezdés a) pont aa) alpontja a 37/2017. (XII. 27.) MvM rendelet 15. § e) pontja szerint módosított szöveg.
+[^59]: A 22. § (9) bekezdése a 92/2011. (X. 5.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^60]: A 22. § (10) bekezdése a 92/2011. (X. 5.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.

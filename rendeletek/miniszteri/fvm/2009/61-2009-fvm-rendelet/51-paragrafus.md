@@ -1,12 +1,12 @@
 ## Általános kötelezettségeknek való meg nem felelés jogkövetkezményei
 
-51. §[^112] (1)[^113] Ha a támogatásra jogosult valamely kötelezettségvállalással érintett egybefüggő terület egészére nem tudja igazolni a támogatási időszak teljes időtartamára a jogszerű földhasználatot, akkor
+51. §[^144] (1)[^145] Ha a támogatásra jogosult valamely kötelezettségvállalással érintett egybefüggő terület egészére nem tudja igazolni a támogatási időszak teljes időtartamára a jogszerű földhasználatot, akkor
 
 a) a támogatásra jogosultság mértéke az adott kötelezettségvállalással érintett egybefüggő területen belül a nem igazolt területrész méretével csökkentésre kerül, és
 
 b) a nem igazolt területrészre vonatkozóan igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
 
-(2)[^114]
+(2)[^146]
 
 (3) Amennyiben a támogatásra jogosult a 46. § (3) bekezdés vagy a 46. § (4) bekezdés szerinti esetben nem tudja igazolni a jogszerű földhasználatot, az adott kötelezettségvállalással érintett egybefüggő terület a célprogramból a támogatási időszak lejártáig kizárásra kerül, és az adott területre kifizetett támogatási összeget a jogosulatlan igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
 
@@ -28,6 +28,6 @@ b) a második képzési időszakban nem vesz részt, nem jogosult az ötödik ga
 
 (8) A (4)–(7) bekezdésben foglalt esetekben, amennyiben a támogatásra jogosult részére már kifizetésre került a támogatási összeg, annak jogosulatlanul igénybe vett részét vissza kell fizetnie.
 
-[^112]: Az 51. § a 35/2010. (XI. 30.) VM rendelet 14. §-ával megállapított szöveg.
-[^113]: Az 51. § (1) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (3) bekezdése hatályon kívül helyezte, újonnan a 30/2013. (IV. 30.) VM rendelet 6. § (5) bekezdése iktatta be.
-[^114]: Az 51. § (2) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (4) bekezdése hatályon kívül helyezte.
+[^144]: Az 51. § a 35/2010. (XI. 30.) VM rendelet 14. §-ával megállapított szöveg.
+[^145]: Az 51. § (1) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (3) bekezdése hatályon kívül helyezte, újonnan a 30/2013. (IV. 30.) VM rendelet 6. § (5) bekezdése iktatta be.
+[^146]: Az 51. § (2) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (4) bekezdése hatályon kívül helyezte.

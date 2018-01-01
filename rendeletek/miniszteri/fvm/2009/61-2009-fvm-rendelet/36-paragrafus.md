@@ -2,14 +2,18 @@
 
 (2) Amennyiben egy fizikai blokknak a célprogram szerint támogatható területére benyújtott támogatási kérelmekben szereplő igénylések által lefedett terület összesen nagyobb, mint a fizikai blokknak a célprogram szerint támogatható mérete, akkor túligénylés állapítható meg.
 
-(3) Túligénylés esetén az MVH értesíti az érintett kérelmezőket és egyúttal felszólítja őket a kérelemben megadott adatok helyesbítésére.
+(3)[^98] Túligénylés esetén a Kincstár értesíti az érintett kérelmezőket és egyúttal felszólítja őket a kérelemben megadott adatok helyesbítésére.
 
 (4) Az értesítésben meg kell jelölni a túligényléssel érintett területre támogatási kérelmet benyújtó kérelmezőket, és a kérelmében foglaltaknak megfelelően a túligényléssel érintett területre vonatkozó adatokat.
 
-(5) A (3) bekezdés alapján a kérelmezők kötelesek az értesítésben meghatározott időtartamon belül írásos választ adni az MVH részére.
+(5)[^99] A (3) bekezdés alapján a kérelmezők kötelesek az értesítésben meghatározott időtartamon belül írásos választ adni a Kincstár részére.
 
 (6) Amennyiben a (4)–(5) bekezdésekben foglalt eljárást követően a túligénylés továbbra is fennáll, akkor a kérelmezett, túligényléssel érintett terület a túligénylés mértékéig a kérelmezett terület arányában kerül csökkentésre.
 
 (7) Amennyiben valamelyik kérelmező nem nyújtja be az (5) bekezdés szerinti választ, úgy a (6) bekezdésben foglaltakat a választ be nem nyújtó kérelmezőkre kell alkalmazni. Ha az így megvalósított területcsökkentést követően a túligénylés továbbra is fennáll, akkor a csökkentés a kérelmezett terület arányában a többi kérelmező esetén is alkalmazásra kerül.
 
-(8) Túligénylés esetén az MVH a tényállás tisztázására helyszíni szemlét rendelhet el.
+(8)[^100] Túligénylés esetén a Kincstár a tényállás tisztázására helyszíni szemlét rendelhet el.
+
+[^98]: A 36. § (3) bekezdése a 37/2017. (XII. 27.) MvM rendelet 15. § c) pontja szerint módosított szöveg.
+[^99]: A 36. § (5) bekezdése a 37/2017. (XII. 27.) MvM rendelet 15. § c) pontja szerint módosított szöveg.
+[^100]: A 36. § (8) bekezdése a 37/2017. (XII. 27.) MvM rendelet 15. § c) pontja szerint módosított szöveg.

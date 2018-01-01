@@ -28,13 +28,13 @@ d) a célprogram 5 éve alatt egyszer középmély (35–60 cm) lazítás alkalm
 
 e) a vetésváltás szabályainak betartása;
 
-f)[^158] a célprogram 5 éve alatt a célprogramba bevitt teljes területen a következő vetésszerkezet betartása kötelező a fővetésű növények tekintetében: az őszi vetésű vagy évelő növények aránya legalább 60% és a tavaszi vetésű növények aránya legfeljebb 40% lehet, valamint az alábbi növények összesített részaránya el kell, hogy érje a 20%-ot: köles, pohánka, cirkok, szudáni fű, mohar, rostkender, baltacim, bükkönyök, somkóró, homoki bab, lucerna, facélia, tarka koronafürt, csillagfürt;
+f)[^192] a célprogram 5 éve alatt a célprogramba bevitt teljes területen a következő vetésszerkezet betartása kötelező a fővetésű növények tekintetében: az őszi vetésű vagy évelő növények aránya legalább 60% és a tavaszi vetésű növények aránya legfeljebb 40% lehet, valamint az alábbi növények összesített részaránya el kell, hogy érje a 20%-ot: köles, pohánka, cirkok, szudáni fű, mohar, rostkender, baltacim, bükkönyök, somkóró, homoki bab, lucerna, facélia, tarka koronafürt, csillagfürt;
 
-g)[^159] őszi vetésű növények betakarítását követően – amennyiben a következő főnövény tavaszi vetésű – zöldtrágya növény termesztése, amelyeket tavasszal a talaj művelhetővé válását követően, de legfeljebb a vetést megelőzően két héttel kell a talajba keverni;
+g)[^193] őszi vetésű növények betakarítását követően – amennyiben a következő főnövény tavaszi vetésű – zöldtrágya növény termesztése, amelyeket tavasszal a talaj művelhetővé válását követően, de legfeljebb a vetést megelőzően két héttel kell a talajba keverni;
 
 h) csak egyszer lehet a célprogram 5 éve alatt forgatásos talajművelést alkalmazni.
 
 (5) A támogatás mértéke a célprogramba bevitt terület után 213 euró/ha-nak megfelelő forintösszeg.
 
-[^158]: A 66. § (4) bekezdés f) pontja a 77/2009. (VI. 30.) FVM rendelet 14. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^159]: A 66. § (4) bekezdés g) pontja a 35/2010. (XI. 30.) VM rendelet 22. §-ával megállapított szöveg.
+[^192]: A 66. § (4) bekezdés f) pontja a 77/2009. (VI. 30.) FVM rendelet 14. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^193]: A 66. § (4) bekezdés g) pontja a 35/2010. (XI. 30.) VM rendelet 22. §-ával megállapított szöveg.

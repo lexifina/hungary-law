@@ -10,4 +10,6 @@
 
 (6) Egy adott területhez kapcsolódó kötelezettség – a jogutódlás és a vis maior esetek kivételével – egyszer adható át.
 
-(7) Kötelezettségátadás és jogutódlás esetén az MVH és az átruházó közötti jogviszonyból származó valamennyi jog az átvevőt illeti meg, és valamennyi kötelezettség az átvevőt terheli.
+(7)[^61] Kötelezettségátadás és jogutódlás esetén a Kincstár és az átruházó közötti jogviszonyból származó valamennyi jog az átvevőt illeti meg, és valamennyi kötelezettség az átvevőt terheli.
+
+[^61]: A 24. § (7) bekezdése a 37/2017. (XII. 27.) MvM rendelet 15. § c) pontja szerint módosított szöveg.

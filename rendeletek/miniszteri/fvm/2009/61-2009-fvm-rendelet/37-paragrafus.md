@@ -8,4 +8,6 @@
 
 (4) Az IH a Tv. 14. § (1) bekezdés c) pontjának ce) alpontja alapján közleményben teszi közzé célprogramonként azt a minimális pontszámot, amelytől támogatás nyújtható.
 
-(5) Az MVH az előzetesen jóváhagyott területeket tartalmazó, a támogatási kérelemnek helyt adó vagy részben helyt adó határozatban a támogatásra jogosult vonatkozásában meghatározza a fizikai blokkonként és célprogramonként előzetesen jóváhagyott területek méretét.
+(5)[^101] A Kincstár az előzetesen jóváhagyott területeket tartalmazó, a támogatási kérelemnek helyt adó vagy részben helyt adó határozatban a támogatásra jogosult vonatkozásában meghatározza a fizikai blokkonként és célprogramonként előzetesen jóváhagyott területek méretét.
+
+[^101]: A 37. § (5) bekezdése a 37/2017. (XII. 27.) MvM rendelet 15. § j) pontja szerint módosított szöveg.

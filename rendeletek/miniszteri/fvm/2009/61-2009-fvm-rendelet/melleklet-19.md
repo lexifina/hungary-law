@@ -44,7 +44,7 @@
 
 ## – mintavétel mélysége.
 
-19. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^221]
+19. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^255]
 
 Levélanalízis során betartandó követelmények
 
@@ -84,4 +84,42 @@ Mintavételi eszközök:
 
 – mintaazonosító jegy, amelynek tartalmaznia kell a következőket:
 
-[^221]: A 19. melléklet a 139/2012. (XII. 22.) VM rendelet 19. § (6) bekezdés a)–c) pontja szerint módosított szöveg.
+– földhasználó neve, regisztrációs száma, postacíme, elektronikus levélcíme (amennyiben rendelkezik)
+
+– célprogram megnevezése
+
+– termőterület adatai, minta származási helye: blokkazonosító, helyrajzi szám, tábla terület, tábla sorszám;
+
+– mintavételt végző megnevezése (ha a megrendelő és a mintavevő nem ugyanaz)
+
+– minta kódja
+
+– mintavétel időpontja, növény fenofázisa
+
+– növény megnevezése, fajta
+
+A növénymintavétel módja, időpontja, helye ültetvények esetében
+
+| Kultúra | Minta- vétel | Fenofázis | Mintavétel helye |
+
+| Szőlő | I. | Teljes virágzásban (termőhajtásról) | a fürttel szembeni, ép, fajtára jellemző levél |
+
+| II. | Éréskor (lombszíneződés kezdete előtt) | a fürttel szembeni, ép, fajtára jellemző levél |
+
+| Alma, körte, birs, naspolya | I. | Hajtásnövekedés befejezése után | a földről még kézzel elérhető csúcshajtás közepéről származó teljes levél |
+
+| Őszibarack, homoktövis | I. | Éréskor | a földről még kézzel elérhető csúcshajtás közepéről származó teljes levél |
+
+| Szilva, kajszi, meggy, cseresznye | I. | a hajtásnövekedés befejezése után | a földről még kézzel elérhető csúcshajtás közepéről származó teljes levél |
+
+| Dió | I. | a csonthéj kialakulása után | az összetett levél csúcsi levéllemeze |
+
+| Mandula, mogyoró, szelídgesztenye | I. | a csonthéj kialakulása után | a földről még kézzel elérhető csúcshajtás közepéről származó teljes levél |
+
+| Piros és egyéb ribiszke, piszke/egres, josta, | I. | Éréskor | a hajtás középső kifejlett levele |
+
+| Termesztett bodza | I. | Éréskor | a hajtás középső részéről kifejlett összetett levéllemez |
+
+| Málna, szeder | I. | Éréskor | a hajtás középső részéről kifejlett összetett levéllemez |
+
+[^255]: A 19. melléklet a 139/2012. (XII. 22.) VM rendelet 19. § (6) bekezdés a)–c) pontja szerint módosított szöveg.

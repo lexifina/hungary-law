@@ -20,7 +20,7 @@
 
 | Gazdálkodási szempontok |  |
 
-| 8 | Korábbi NVT AKG résztvevő (vizes élőhely célprogramban) | MVH adatbázis | 9 | 9 | 9 |
+| 8 | Korábbi NVT AKG résztvevő (vizes élőhely célprogramban) | Kincstár adatbázis | 9 | 9 | 9 |
 
 | 9 | Szaktanácsadóval kötött szerződés | Szerződés másolata | 5 | 5 | 5 |
 
@@ -58,6 +58,6 @@
 
 ## ** A családi gazdaságok létrehozásáról, nyilvántartásba vételéről, működtetéséről, valamint kiemelt támogatásukról szóló 326/2001. (XII. 30.) Korm. Rendelet 4. § (3) bekezdés szerinti határozat másolata
 
-4. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^214]
+4. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^248]
 
-[^214]: A 4. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^248]: A 4. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

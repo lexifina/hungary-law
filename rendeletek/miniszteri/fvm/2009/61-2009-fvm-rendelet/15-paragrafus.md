@@ -4,11 +4,11 @@
 
 (3) A tervek eredeti példányát a támogatási időszak alatt meg kell őrizni.
 
-(4)[^30] Az első gazdálkodási évre vonatkozó tápanyag-gazdálkodási tervet és földhasználati tervet legkésőbb 2010. május 15-ig kell elkészíteni.
+(4)[^34] Az első gazdálkodási évre vonatkozó tápanyag-gazdálkodási tervet és földhasználati tervet legkésőbb 2010. május 15-ig kell elkészíteni.
 
-(5)[^31] A támogatásra jogosult köteles az előző gazdálkodási évre vonatkozó tápanyag-gazdálkodási terv 20. számú mellékletben foglalt adattartalmát évente szeptember 1. és november 30. között, elektronikus úton benyújtani a Nemzeti Élelmiszerlánc-biztonsági Hivatalhoz (a továbbiakban: NÉBIH). Az első gazdálkodási évre vonatkozó terv fentiek szerinti adattartalmát 2010. szeptember 1. és november 30. között kell benyújtani.
+(5)[^35] A támogatásra jogosult köteles az előző gazdálkodási évre vonatkozó tápanyag-gazdálkodási terv 20. számú mellékletben foglalt adattartalmát évente szeptember 1. és november 30. között, elektronikus úton benyújtani a Nemzeti Élelmiszerlánc-biztonsági Hivatalhoz (a továbbiakban: NÉBIH). Az első gazdálkodási évre vonatkozó terv fentiek szerinti adattartalmát 2010. szeptember 1. és november 30. között kell benyújtani.
 
 (6) Az akkreditált talajlaboratórium által megküldött talajvizsgálati eredmények az adott gazdálkodási évet követő tápanyag-gazdálkodási tervek elkészítéséhez szolgálnak alapul.
 
-[^30]: A 15. § (4) bekezdése a 31/2010. (III. 30.) FVM rendelet 7. §-ával megállapított szöveg.
-[^31]: A 15. § (5) bekezdése a 139/2012. (XII. 22.) VM rendelet 19. § (2) bekezdés a) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 105. § b) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatalhoz (a továbbiakban: MgSzH)” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatalhoz (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
+[^34]: A 15. § (4) bekezdése a 31/2010. (III. 30.) FVM rendelet 7. §-ával megállapított szöveg.
+[^35]: A 15. § (5) bekezdése a 139/2012. (XII. 22.) VM rendelet 19. § (2) bekezdés a) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 105. § b) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatalhoz (a továbbiakban: MgSzH)” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatalhoz (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]

@@ -154,7 +154,7 @@
 
 | DC | Vizes élőhelyek létrehozása és kezelése | 195 |
 
-3. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^213]
+3. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^247]
 
 ## A támogatási kérelmek részletes pontozási szempontrendszere
 
@@ -182,7 +182,7 @@ I. Szántóföldi agrár-környezetgazdálkodási célprogram csoport
 
 | Egyéb szempontok |
 
-| 8 | Korábbi NVT AKG résztvevő (szántóföldi célprogramban) | MVH adatbázis | 9 | 9 | 9 | 9 | 9 | 9 |
+| 8 | Korábbi NVT AKG résztvevő (szántóföldi célprogramban) | Kincstár adatbázis | 9 | 9 | 9 | 9 | 9 | 9 |
 
 | 9 | Szaktanácsadóval kötött szerződés | szerződés másolata | 5 | 5 | 5 | 5 | 5 | 5 |
 
@@ -240,7 +240,7 @@ II. Gyepgazdálkodási agrár-környezetgazdálkodási célprogram csoport
 
 | Gazdálkodási szempontok |
 
-| 8 | Korábbi NVT AKG résztvevő (gyepgazdálkodási célprogramban, vagy gyeptelepítés esetén szántóföldi célprogramban) | MVH adatbázis | 9 | 9 | 9 | 9 | 9 |
+| 8 | Korábbi NVT AKG résztvevő (gyepgazdálkodási célprogramban, vagy gyeptelepítés esetén szántóföldi célprogramban) | Kincstár adatbázis | 9 | 9 | 9 | 9 | 9 |
 
 | 9 | Szaktanácsadóval kötött szerződés | szerződés másolata | 5 | 5 | 5 | 5 | 5 |
 
@@ -298,7 +298,7 @@ III. Ültetvényekre vonatkozó agrár-környezetgazdálkodási célprogram csop
 
 | Gazdálkodási szempontok |
 
-| 7 | Korábbi NVT AKG résztvevő (ültetvényes célprogramban) | MVH adatbázis | 9 | 9 | 9 |
+| 7 | Korábbi NVT AKG résztvevő (ültetvényes célprogramban) | Kincstár adatbázis | 9 | 9 | 9 |
 
 | 8 | Szaktanácsadóval kötött szerződés | Szerződés másolata | 5 | 5 | 5 |
 
@@ -336,4 +336,4 @@ III. Ültetvényekre vonatkozó agrár-környezetgazdálkodási célprogram csop
 
 IV. Vizes élőhely földhasználathoz kapcsolódó agrár-környezetgazdálkodási célprogram csoport
 
-[^213]: A 3. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^247]: A 3. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (1) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 15. § l) pontja szerint módosított szöveg.

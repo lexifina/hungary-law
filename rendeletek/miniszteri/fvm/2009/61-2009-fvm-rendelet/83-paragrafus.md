@@ -1,4 +1,4 @@
-## 82. §[^207] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási tárgyú rendeletek módosításáról szóló 12/2014. (XII. 30.) MvM rendelettel [a továbbiakban: 12/2014. (XII. 30.) MvM rendelet] hatályon kívül helyezett 45. § (8) és (9) bekezdést a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor[^208] folyamatban lévő ügyekben sem kell alkalmazni.
+## 82. §[^241] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási tárgyú rendeletek módosításáról szóló 12/2014. (XII. 30.) MvM rendelettel [a továbbiakban: 12/2014. (XII. 30.) MvM rendelet] hatályon kívül helyezett 45. § (8) és (9) bekezdést a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor[^242] folyamatban lévő ügyekben sem kell alkalmazni.
 
-[^207]: A 82. §-t a 68/2013. (VII. 29.) VM rendelet 6. § (5) bekezdése hatályon kívül helyezte, újonnan a 12/2014. (XII. 30.) MvM rendelet 10. §-a iktatta be.
-[^208]: A hatálybalépés időpontja 2014. december 31.
+[^241]: A 82. §-t a 68/2013. (VII. 29.) VM rendelet 6. § (5) bekezdése hatályon kívül helyezte, újonnan a 12/2014. (XII. 30.) MvM rendelet 10. §-a iktatta be.
+[^242]: A hatálybalépés időpontja 2014. december 31.
