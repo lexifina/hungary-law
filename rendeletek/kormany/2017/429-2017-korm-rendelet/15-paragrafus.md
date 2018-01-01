@@ -1,0 +1,1 @@
+## 14. § Az anyakönyvi hatósági bizonyítványt kizárólag elektronikai eszközök felhasználásával lehet kiállítani és kinyomtatni. A kiállított hatósági bizonyítványon javítást, törlést vagy adattal történő kiegészítést végezni nem lehet.
