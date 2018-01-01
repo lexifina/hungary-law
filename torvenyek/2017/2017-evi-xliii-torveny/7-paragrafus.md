@@ -4,4 +4,4 @@
 
 (3) A bejegyző végzés tartalmazza a nyilvántartásba vett adatokat.
 
-(4) A kérelmet elutasító végzés ellen fellebbezésnek van helye.
+(4) A bejegyző végzés ellen fellebbezésnek nincs helye.

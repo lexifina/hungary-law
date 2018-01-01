@@ -21,11 +21,3 @@ szereplő adatok alapján ellenőrizheti.”
 (A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – köteles rendszeres adatszolgáltatást teljesíteni:)
 
 „i) a nyilvántartást vezető szervnek a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvény szerinti nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.”
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

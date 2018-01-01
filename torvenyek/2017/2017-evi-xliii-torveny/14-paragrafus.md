@@ -1,4 +1,4 @@
-14. § (1) A bíróság az érintettre vonatkozóan – polgári peres és bírósági polgári nemperes eljárás, közigazgatási peres és egyéb közigazgatási bírósági eljárás, vagy büntetőeljárás lefolytatása céljából – a nyilvántartásban kezelt adatok teljes körét közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult megismerni és kezelni.
+14. § (1) A bíróság az érintettre vonatkozóan – polgári peres és bírósági polgári nemperes eljárás, közigazgatási peres, nemperes és egyéb közigazgatási bírósági eljárás, vagy büntetőeljárás lefolytatása céljából – a nyilvántartásban kezelt adatok teljes körét közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult megismerni és kezelni.
 
 (2) Az önálló bírósági végrehajtó konkrét ügyben a bírósági végrehajtási cselekményekkel kapcsolatos feladatai ellátása érdekében az általános meghatalmazás fennállásának vizsgálata céljából közvetlen hozzáféréssel jogosult a 3. § (1) bekezdés a) és b) pontjában, c) pont ca), cc), ce) és cf) alpontjában, d) pont da) és db) alpontjában, valamint e)–h) pontjában szereplő adatokat megismerni és kezelni.
 
