@@ -42,18 +42,18 @@ e) ellenőrzi a központi költségvetési támogatások felhasználását,
 
 f) ellenőrzi a szakfelügyelet korábbi javaslatainak megvalósítását.
 
-(3)[^2] A miniszter a szakfelügyelet keretében vizsgálja, ellenőrzi és értékeli
+(3)[^3] A miniszter a szakfelügyelet keretében vizsgálja, ellenőrzi és értékeli
 
 a) a muzeális könyvtári dokumentumok kezelésére vonatkozó szabályok alkalmazását,
 
 b) a nemzetiségi anyanyelvű könyvtári ellátás biztosítását,
 
-c)[^3] a megyei hatókörű városi könyvtár törvényben meghatározott feladatainak ellátását,
+c)[^4] a megyei hatókörű városi könyvtár törvényben meghatározott feladatainak ellátását,
 
 d) a könyvtári szakmai továbbképzéseket,
 
-e)[^4] a megyei hatókörű városi könyvtár által nyújtott, a kistelepülések által igénybe vett könyvtári szolgáltatásokat.
+e)[^5] a megyei hatókörű városi könyvtár által nyújtott, a kistelepülések által igénybe vett könyvtári szolgáltatásokat.
 
-[^2]: A 2. § (3) bekezdését a 21/2013. (III. 19.) EMMI rendelet 2. § (2) bekezdése iktatta be.
-[^3]: A 2. § (3) bekezdés c) pontja a 35/2017. (XII. 19.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (3) bekezdés e) pontja a 35/2017. (XII. 19.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^3]: A 2. § (3) bekezdését a 21/2013. (III. 19.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^4]: A 2. § (3) bekezdés c) pontja a 35/2017. (XII. 19.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdés e) pontja a 35/2017. (XII. 19.) EMMI rendelet 3. §-ával megállapított szöveg.

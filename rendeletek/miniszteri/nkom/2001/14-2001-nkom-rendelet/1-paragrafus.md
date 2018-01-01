@@ -6,4 +6,7 @@ a) a nyilvános könyvtárakra és azok fenntartóira, továbbá
 
 b) a nem nyilvános könyvtárat működtető, illetve könyvtári tevékenységet folytató szervezetekre.
 
+(3)[^2] E rendelet hatálya nem terjed ki az általános közigazgatási rendtartásról szóló törvény szerinti hatósági ellenőrzésre.
+
 [^1]: Az 1. § (1) bekezdése a 21/2013. (III. 19.) EMMI rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdését a 35/2017. (XII. 19.) EMMI rendelet 2. §-a iktatta be.
