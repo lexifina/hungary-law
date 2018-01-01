@@ -12,7 +12,7 @@ ca) a pályázati felhívásban és kiírásban foglalt feltételeket elfogadja,
 
 cb) tevékenységét nem függesztette fel vagy nem függesztették fel,
 
-cc) nincs az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 20. pontja szerinti, hatvan napnál régebben lejárt esedékességű köztartozása,
+cc)[^10] nincs az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontja szerinti, hatvan napnál régebben lejárt esedékességű köztartozása,
 
 cd) hamis adat szolgáltatása miatt nem zárták ki állami vagyon hasznosítására irányuló korábbi – három évnél nem régebben lezárult – eljárásból,
 
@@ -23,3 +23,4 @@ cf) vele szemben a Gyftv. 75. §-a szerinti összeférhetetlenségi ok nem áll 
 (3) A pályázó ajánlati kötöttsége – ha a pályázati felhívás másként nem rendelkezik – akkor kezdődik, amikor a pályázatok benyújtására nyitva álló határidő lejárt.
 
 [^9]: A 9. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 70. § (1) bekezdésével megállapított szöveg.
+[^10]: A 9. § (2) bekezdés c) pont cc) alpontja a 475/2017. (XII. 28.) Korm. rendelet 57. §-a szerint módosított szöveg.

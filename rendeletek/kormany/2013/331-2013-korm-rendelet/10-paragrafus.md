@@ -8,14 +8,14 @@ c) a pályázó a pályázat szerinti szerződés megkötésére e rendelet alap
 
 d) a közölt tények, adatok, információk részben vagy egészben nem felelnek meg a valóságnak,
 
-e)[^10] az ajánlat nem éri el a pályázati felhívásban szereplő minimális vételárat
+e)[^11] az ajánlat nem éri el a pályázati felhívásban szereplő minimális vételárat
 
-f)[^11] azt határidőn túl nyújtották be, vagy
+f)[^12] azt határidőn túl nyújtották be, vagy
 
-g)[^12] benyújtására nem a 9. § (1) bekezdésében meghatározott módon került sor.
+g)[^13] benyújtására nem a 9. § (1) bekezdésében meghatározott módon került sor.
 
 (2) Az érvénytelen pályázatot benyújtó pályázó a pályázati eljárásban, illetve annak további szakaszában nem vehet részt. Erről – az érvénytelenség okának megjelölésével – az állam nevében eljáró szerv 5 munkanapon belül írásban értesíti a pályázót.
 
-[^10]: A 10. § (1) bekezdés e) pontja az 520/2013. (XII. 30.) Korm. rendelet 104. §-a szerint módosított szöveg.
-[^11]: A 10. § (1) bekezdés f) pontja az 520/2013. (XII. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
-[^12]: A 10. § (1) bekezdés g) pontját az 520/2013. (XII. 30.) Korm. rendelet 102. §-a iktatta be.
+[^11]: A 10. § (1) bekezdés e) pontja az 520/2013. (XII. 30.) Korm. rendelet 104. §-a szerint módosított szöveg.
+[^12]: A 10. § (1) bekezdés f) pontja az 520/2013. (XII. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^13]: A 10. § (1) bekezdés g) pontját az 520/2013. (XII. 30.) Korm. rendelet 102. §-a iktatta be.
