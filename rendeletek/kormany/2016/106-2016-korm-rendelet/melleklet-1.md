@@ -1,4 +1,4 @@
-## 7. §[^1]
+## 7. §[^4]
 
 1. melléklet a 106/2016. (V. 13.) Korm. rendelethez
 
@@ -48,4 +48,4 @@ A Homatech Recycling Zrt. Kaposváron megvalósuló beruházásának megvalósí
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
