@@ -1,3 +1,3 @@
-## 59. §[^22]
+## 59. §[^25]
 
-[^22]: Az 59. §-t a 62. § (2) bekezdése hatályon kívül helyezte.
+[^25]: Az 59. §-t a 62. § (2) bekezdése hatályon kívül helyezte.

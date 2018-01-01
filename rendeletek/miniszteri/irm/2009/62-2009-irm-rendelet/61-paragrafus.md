@@ -1,3 +1,3 @@
-## 60. §[^23]
+## 60. §[^26]
 
-[^23]: A 60. §-t a 62. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A 60. §-t a 62. § (2) bekezdése hatályon kívül helyezte.
