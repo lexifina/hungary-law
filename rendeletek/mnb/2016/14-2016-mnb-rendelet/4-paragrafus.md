@@ -1,1 +1,3 @@
-4. § Hatályát veszti az új biztonsági elemmel ellátott 20 000 forintos címletű bankjegy kibocsátásáról szóló 8/2009. (II. 14.) MNB rendelet.
+4. §[^3]
+
+[^3]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
