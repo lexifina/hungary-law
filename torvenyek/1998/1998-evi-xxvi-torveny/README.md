@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-26-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 1998-26-00-00.38 |
 | 2017-04-01 | 2016. évi CLXVI. törvény | 1998-26-00-00.39 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 1998-26-00-00.40 |
+| 2018-01-01 | 2017. évi L. törvény | 1998-26-00-00.41 |

@@ -30,9 +30,11 @@ a) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás�
 
 b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek jogosulti körébe tartozó, a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel,
 
-c) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár, amennyiben az e törvényben meghatározott feltételeknek megfelel és rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel,
+c) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár, amennyiben az e törvényben meghatározott feltételeknek megfelel,
 
-d) az összevont engedéllyel rendelkező, Magyarország területén jogszerűen tartózkodó harmadik országbeli állampolgár.
+d) az összevont engedéllyel rendelkező, Magyarország területén jogszerűen tartózkodó harmadik országbeli állampolgár,
+
+e) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv hatálya alá tartozó, tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár, amennyiben az e törvényben meghatározott feltételeknek megfelel.
 
 (3) A súlyosan fogyatékos személy nem jogosult fogyatékossági támogatásra ha
 
@@ -58,4 +60,4 @@ c) olyan állam, amelynek állampolgára az Európai Közösség és tagállamai
 
 távolléte alatt az ellátás szünetel.
 
-(6) Ha a támogatásra való jogosultság a fogyatékos személy halála miatt szűnik meg, az elhalálozás hónapjára járó támogatást a vele közös háztartásban együtt élt közeli hozzátartozó, ennek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki átadó végzés jogerőre emelkedésétől számított egy éven belül.
+(6) Ha a támogatásra való jogosultság a fogyatékos személy halála miatt szűnik meg, az elhalálozás hónapjára járó támogatást a vele közös háztartásban együtt élt közeli hozzátartozó, ennek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki átadó végzés véglegessé válásától számított egy éven belül.

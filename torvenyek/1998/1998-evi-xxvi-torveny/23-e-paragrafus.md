@@ -22,4 +22,4 @@ b) kevesebb összegre jogosult, mint amelyet számára folyósítottak.
 
 (9) A jogosult halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára átutalt jogalap nélküli ellátásnak a fizetési számla terhére történő visszafizetésére a fogyatékossági támogatási szerv a pénzforgalmi szolgáltatót kötelezi, feltéve hogy a fizetési számla feletti rendelkezésre más személy nem jogosult és a visszautalás a fizetési számla terhére megtörténhet. A fizetési számla felett rendelkezésre jogosult más személy természetes személyazonosító adatait és lakcímét a pénzforgalmi szolgáltató a fogyatékossági támogatási szervnek átadja. A fogyatékossági támogatási szerv a követelését – visszafizetésre kötelező határozat kibocsátásával – akkor is e személlyel szemben érvényesíti, ha a jogalap nélkül kiutalt ellátást az elhunyt számlájáról még nem vették fel.
 
-(10) A jogerősen megállapított és nem teljesített visszafizetési kötelezettség alapján a jogalap nélkül felvett fogyatékossági támogatás és annak kamatai – a (9) bekezdésben meghatározott kivétellel – köztartozásnak minősül, és adók módjára kell behajtani.
+(10)
