@@ -1,5 +1,3 @@
-## 23. §[^3]
+## 23. § Hatályát veszti a 10. § (5) bekezdés b) pontja és a 10. § (6) bekezdése.
 
 1. melléklet a 279/2017. (IX. 22.) Korm. rendelethez
-
-[^3]: A 23. § a 18. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

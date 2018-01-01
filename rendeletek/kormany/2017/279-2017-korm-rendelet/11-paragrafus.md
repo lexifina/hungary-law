@@ -23,3 +23,7 @@ d) a kiállítás évszáma.
 (7) Ha az adatszolgáltatás nem felel meg a (2) bekezdés és a 8. melléklet szerinti követelményeknek, a mezőgazdasági igazgatási szerv megfelelő határidő tűzésével a BIONYOM ügyfelet hiánypótlásra kötelezi.
 
 (8) A (7) bekezdés szerinti felhívásban előírt határidő eredménytelen leteltét követően a mezőgazdasági igazgatási szerv a BIONYOM ügyfelet törli a BIONYOM nyilvántartásból és – ha szerepel a BÜHG nyilvántartásban – törli a BÜHG nyilvántartásból is.
+
+(9)[^5] Ha az ügyfél a fenntarthatósági nyilatkozatot és a 9. és a 10. melléklet szerinti nyomon követési dokumentumot a hatósági eljárás során – mint bizonyítékot – nem tudja a hatóság részére bemutatni, az ügyfél nyilatkozata a hiányzó bizonyítékot nem pótolja.
+
+[^5]: A 11. § (9) bekezdését a 21. § (4) bekezdése iktatta be.
