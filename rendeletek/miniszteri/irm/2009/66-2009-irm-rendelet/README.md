@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-66-20-1
 | 2012-05-06 | 2009-66-20-1U.6 | 22/2012. (IV. 21.) KIM rendelet |
 | 2013-01-01 | 2009-66-20-1U.7 | 50/2012. (XII. 4.) KIM rendelet |
 | 2015-09-15 | 2009-66-20-1U.8 | 22/2015. (IX. 14.) IM rendelet |
+| 2018-01-01 | 2009-66-20-1U.9 | 25/2017. (XII. 22.) IM rendelet |
