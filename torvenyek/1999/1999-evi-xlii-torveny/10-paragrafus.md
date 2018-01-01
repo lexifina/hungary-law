@@ -6,4 +6,6 @@
 
 (4) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2016. évi CLXXII. törvénnyel megállapított, 6/C. §, 7/D. § (4) bekezdése és a 7/J. § (4) bekezdése szerinti, az adalékanyagok, az elektronikus cigaretták, utántöltő flakonok, dohányzást imitáló elektronikus eszközök, valamint új dohánytermék-kategóriára vonatkozó bejelentések fenntartásáért évente fizetendő igazgatási szolgáltatási díjat első ízben a termék bejelentését követő év március 31-éig kell megfizetni.
 
+(5) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 ## Melléklet az 1999. évi XLII. törvényhez

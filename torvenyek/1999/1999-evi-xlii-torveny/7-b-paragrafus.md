@@ -4,7 +4,7 @@
 
 (3) A bíróság az ítéletben feljogosíthatja az igény érvényesítőjét, hogy a jogsértő költségére az ítéletet országos napilapban közzétegye.
 
-(4) Az egészségvédelmi érdekek képviseletét ellátó civil szervezet az ügyfél jogai illetik meg
+(4) Az egészségvédelmi érdekek képviseletét ellátó civil szervezetek a jogszabály erejénél fogva ügyfélnek minősülnek
 
 a) az egészségügyi államigazgatási szervnek a 2–4/A. §-ban, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 38. §-ában foglalt rendelkezések megsértése miatt,
 

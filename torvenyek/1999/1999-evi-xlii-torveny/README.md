@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-42-00-00
 | 2017-01-01 | 2016. évi LXVII. törvény | 1999-42-00-00.27 |
 | 2017-01-19 | 2016. évi CLXXII. törvény | 1999-42-00-00.28 |
 | 2017-07-01 | 2016. évi LXVIII. törvény | 1999-42-00-00.29 |
+| 2018-01-01 | 2017. évi L. törvény | 1999-42-00-00.30 |

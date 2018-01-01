@@ -4,4 +4,4 @@
 
 (3) A (2) bekezdés szerinti helyszíni bírság az önkormányzat bevétele.
 
-(4) A dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy által történő megszegéséért a (2) bekezdés szerinti helyszíni bírság és a 7. § szerinti egészségvédelmi bírság együttesen nem szabható ki. Ha a dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy általi megszegése miatt a közterület-felügyelet és az egészségügyi államigazgatási szerv is eljárást indított, az eljárást a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 21. § (6) bekezdése szerint hatáskörrel rendelkező hatóság folytatja le.
+(4) A dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy által történő megszegéséért a (2) bekezdés szerinti helyszíni bírság és a 7. § szerinti egészségvédelmi bírság együttesen nem szabható ki. Ha a dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy általi megszegése miatt a közterület-felügyelet és az egészségügyi államigazgatási szerv is eljárást indított, az eljárást az a hatóság folytatja le, amelynél az eljárás előbb indult meg.

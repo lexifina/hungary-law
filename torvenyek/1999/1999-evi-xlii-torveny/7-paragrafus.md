@@ -14,7 +14,7 @@
 
 (8)
 
-(9) A jogerős határozattal megállapított egészségvédelmi bírságot, valamint a dohánytermékek forgalmazásával összefüggő, e törvényben foglalt tilalmat, korlátozást megszegővel szemben jogerősen alkalmazott fogyasztóvédelmi bírságot, valamint a helyszíni bírságot az egészségügyi államigazgatási szerv számlájára kell befizetni.
+(9) A végleges határozattal megállapított egészségvédelmi bírságot, valamint a dohánytermékek forgalmazásával összefüggő, e törvényben foglalt tilalmat, korlátozást megszegővel szemben végleges határozattal kiszabott fogyasztóvédelmi bírságot, valamint a helyszíni bírságot az egészségügyi államigazgatási szerv számlájára kell befizetni.
 
 (10)
 
