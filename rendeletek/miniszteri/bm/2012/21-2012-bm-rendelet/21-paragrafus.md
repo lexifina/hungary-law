@@ -4,16 +4,12 @@
 
 21. § (1) A szabálysértési nyilvántartó szerv a szabálysértési nyilvántartási rendszerből a Szabs. tv. 161. § (1) bekezdése szerinti jogosultnak adatigénylés iránti kérelem (a továbbiakban: adatigénylés) alapján teljesít adattovábbítást.
 
-(2) Az (1) bekezdés szerinti adatigénylés
-
-a) elektronikus ügyintézési szolgáltatás keretében a Kormány által biztosított adatelérési felületen keresztül elektronikus úton vagy
-
-b) papír alapon
-
-terjeszthető elő a szabálysértési nyilvántartó szervnél.
+(2)[^23]
 
 (3) A szabálysértési nyilvántartó szerv az adatigénylés beérkezését követő naptól számított tíz napon belül teljesíti az adattovábbítást.
 
-(4) Az adatigénylésben megjelölt személy szabálysértési nyilvántartási rendszerben nyilvántartott adatai akkor továbbíthatók, ha az adatigénylés a Szabs. tv. 161. §-ában foglalt feltételeknek megfelel és a kérelemben megjelölt, a szabálysértési nyilvántartási rendszerben szereplő személy azonosítása sikeres volt. Többes találat esetén a többes találattal érintett személyek adatai nem továbbíthatók.
+(4)[^24]
 
 [^22]: A 20. § a 81/2015. (XII. 23.) BM rendelet 5. § 4. pontja szerint módosított szöveg.
+[^23]: A 21. § (2) bekezdését a 44/2017. (XII. 29.) BM rendelet 78. § a) pontja hatályon kívül helyezte.
+[^24]: A 21. § (4) bekezdését a 44/2017. (XII. 29.) BM rendelet 78. § a) pontja hatályon kívül helyezte.
