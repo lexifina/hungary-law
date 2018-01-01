@@ -20,15 +20,19 @@
 
 10. az egyes külön jogszabályokban meghatározott fajoknak és élőhelyeiknek, költő- és pihenőhelyeinek, természetes élőhelyeknek, védett természeti területeknek és védett természeti értékeknek a veszélyeztetése, károsodása esetén a károsodás mértéke megállapításának szempontjait, valamint a környezetkárosodás megelőzésének és helyreállításának rendjét;
 
-11. a természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat, valamint a bírság mértékét és megállapításának módját;
+11. a természetvédelmi bírság mértékét és megállapításának módját;
 
 12. a természetvédelmi hatóság vagy hatóságok, illetve a védett természeti területek természetvédelmi kezeléséért felelős szerv vagy szervek kijelölését;
 
 13. a természetvédelmi eljárások során vizsgálandó szakkérdéseket és más hatósági eljárásban vizsgálandó természetvédelmi szakkérdéseket;
 
-14. az idegenhonos inváziós fajok körének meghatározására vonatkozó eljárással, egyedének az országba történő behozatalával, átszállításával, kivitelével, tartásával, szaporításával, termesztésbe, tenyésztésbe vonásával, keresztezésével, természetbe kijuttatásával, forgalomba hozatalával, értékesítésével, felhasználásával, kiirtásával, kezelésével, a vészhelyzeti intézkedésekkel, a korai észlelés és az invázió kezdeti szakaszában szükséges gyors kiirtásra vonatkozó eljárással, a velük kapcsolatos felügyeleti és monitorozó rendszer felállításával és működtetésével, a bekerülési és terjedési útvonalaikra vonatkozó cselekvési tervek készítésével, elfogadásával és végrehajtásával, valamint a sérült ökológiai rendszerek helyreállításával kapcsolatos szabályokat;
+14. az idegenhonos inváziós fajok egyedének az országba történő behozatalával, átszállításával, kivitelével, tartásával, szaporításával, termesztésbe, tenyésztésbe vonásával, keresztezésével, természetbe kijuttatásával, forgalomba hozatalával, értékesítésével, felhasználásával, kiirtásával, kezelésével, a vészhelyzeti intézkedésekkel, a korai észlelés és az invázió kezdeti szakaszában szükséges gyors kiirtással, a velük kapcsolatos felügyeleti és monitorozó rendszer felállításával és működtetésével, a bekerülési és terjedési útvonalaikra vonatkozó cselekvési tervek készítésével, elfogadásával és végrehajtásával, valamint a sérült ökológiai rendszerek helyreállításával kapcsolatos szabályokat;
 
-15. az inváziós bírság kiszabására, a kötelező intézkedések meghatározására vonatkozó eljárási szabályokat, a bírság mértékét és megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletszabályait.
+15. az inváziós bírság kiszabására, a kötelező intézkedések meghatározására vonatkozó szabályokat, a bírság mértékét és megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletszabályait;
+
+16. a természetvédelmi hatósági eljárásokat;
+
+17. a barlangok közhiteles nyilvántartását, az ennek vezetésére jogosult szervet, a nyilvántartás tartalmát és vezetésének módját, valamint a nyilvántartásból történő adatszolgáltatást.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
@@ -72,7 +76,7 @@
 
 20. barlang és a védett mesterséges üreg védőövezetének kijelölését és a védőövezetre irányadó korlátozásokat;
 
-21. a barlangok közhiteles nyilvántartását, az ennek vezetésére jogosult szervet, a nyilvántartás tartalmát és vezetésének módját, a nyilvántartásból történő adatszolgáltatást, valamint a barlangok természeti állapotfelvételének és kezelési tervük készítésének szabályait;
+21. a barlangok természeti állapotfelvételével és kezelési tervük készítésével kapcsolatos előírásokat;
 
 22. azon barlangok körét, amelyek látogatásához az igazgatóság vagyonkezelői hozzájárulása szükséges, továbbá a vagyonkezelői hozzájárulás kérelmezésének és megadásának szabályait;
 

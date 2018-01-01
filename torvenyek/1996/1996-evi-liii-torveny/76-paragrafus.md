@@ -1,4 +1,4 @@
-76. § (1) A természetvédelmi hatósági engedélyezési eljárásokban az eljárási határidő hetven nap.
+76. § (1) A természetvédelmi hatósági engedélyezési eljárásokban az ügyintézési határidő kilencven nap.
 
 (2) A természetvédelmi szakhatóság a szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított huszonegy napon belül köteles megadni. A szakhatósági állásfoglalás megadására tizenöt nap áll rendelkezésre, ha az eljáró hatóság a sürgősséget megkeresésében megindokolja.
 

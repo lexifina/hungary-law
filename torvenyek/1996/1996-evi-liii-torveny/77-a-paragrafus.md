@@ -2,7 +2,7 @@
 
 (2) Ha az (1) bekezdés szerinti személy nem állapítható meg, a 10. § (4) bekezdése szerinti hatóság a terület tulajdonosát, használóját vagy vagyonkezelőjét az (1) bekezdés szerinti intézkedések megtételére kötelezheti. A terület tulajdonosa, használója vagy vagyonkezelője a kötelezettség alól mentesül, ha az idegenhonos inváziós faj behurcolása, telepítése neki nem felróható és a tevékenysége során kellő gondossággal járt el.
 
-(3) Ha az (1) vagy (2) bekezdés szerinti kötelezett a kötelezettségét felszólítás ellenére sem teljesíti, a 10. § (4) bekezdése szerinti hatóság elvégzi vagy elvégezteti az (1) bekezdésben foglalt intézkedéseket és a költségek tizenöt napon belüli megtérítésére kötelezi a mulasztót (a továbbiakban: idegenhonos inváziós faj elleni közérdekű védekezés). Az elvégzett tevékenységek költségei adók módjára behajtandó köztartozásnak minősülnek.
+(3) Ha az (1) vagy (2) bekezdés szerinti kötelezett a kötelezettségét felszólítás ellenére sem teljesíti, a 10. § (4) bekezdése szerinti hatóság elvégzi vagy elvégezteti az (1) bekezdésben meghatározott intézkedéseket és a költségek tizenöt napon belüli megtérítésére kötelezi a mulasztót (a továbbiakban: idegenhonos inváziós faj elleni közérdekű védekezés).
 
 (4) Ha az idegenhonos inváziós faj elleni közérdekű védekezés elrendelésének feltételei nem állnak fenn, a 10. § (4) bekezdése szerinti hatóság állami védekezést rendelhet el (a továbbiakban: idegenhonos inváziós faj elleni állami védekezés). Idegenhonos inváziós faj elleni állami védekezés keretében az eljáró hatóság az (1) bekezdésben foglalt intézkedéseket elvégzi vagy elvégezteti.
 

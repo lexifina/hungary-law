@@ -32,7 +32,7 @@ az igazgatóság vagy a települési önkormányzat részére hatósági bizony�
 
 a) akit a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vontak, a határozat jogerőre emelkedésétől számított három évig,
 
-b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat jogerőre emelkedésétől számított három évig.
+b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat véglegessé válásától számított három évig.
 
 (7) A polgári természetőr megbízatásának időtartama alatt a természetvédelmi hatóság ellenőrizheti azt is, hogy a polgári természetőrrel szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok. A természetvédelmi hatóság az ellenőrzés céljából adatot igényelhet a szabálysértési nyilvántartásból. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosulttal szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok.
 

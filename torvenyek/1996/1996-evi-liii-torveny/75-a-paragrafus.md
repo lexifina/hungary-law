@@ -1,0 +1,1 @@
+75/A. § A természetvédelmi hatósági eljárásokban a védett természeti területek természetvédelmi kezeléséért felelős szerv e törvény erejénél fogva ügyfélnek minősül, ha az eljárás a feladatkörét és a működési területét érinti.

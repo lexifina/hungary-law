@@ -22,7 +22,7 @@ b) aki barlangi túravezető vagy barlangi kutatásvezető foglalkozástól elti
 
 a) akit a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vontak, a határozat jogerőre emelkedésétől számított három évig vagy
 
-b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat jogerőre emelkedésétől számított három évig.
+b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat véglegessé válásától számított három évig.
 
 (4) Az (1) bekezdésben meghatározott jogosultság megszerzéséhez a kérelmező
 
@@ -36,8 +36,8 @@ b) kéri, hogy az annak igazolására szolgáló adatokat, amely szerint a (2) b
 
 (7) A (4)–(6) bekezdés alapján megismert személyes adatokat a természetvédelmi hatóság
 
-a) az (1) bekezdésben meghatározott jogosultság megadása iránti eljárás jogerős befejezéséig,
+a) az (1) bekezdésben meghatározott jogosultság megadása iránti eljárás végleges befejezéséig,
 
-b) az (1) bekezdésben meghatározott jogosultság megadása esetén a hatósági ellenőrzés időtartamára vagy a jogosultság visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+b) az (1) bekezdésben meghatározott jogosultság megadása esetén a hatósági ellenőrzés időtartamára vagy a jogosultság visszavonására irányuló eljárásban az eljárás végleges befejezéséig
 
 kezeli.

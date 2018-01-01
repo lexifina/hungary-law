@@ -4,7 +4,7 @@
 
 a) az erdő, gyep, nádas, művelési ágú termőföld;
 
-b) a művelés alól kivettként nyilvántartott földterület, ha nem építmény elhelyezésére szolgál, vagy ha e törvény hatálybalépésekor, jogerősen jóváhagyott bányászati műszaki üzemi terv alapján nem áll bányaművelés alatt;
+b) a művelés alól kivettként nyilvántartott földterület, ha nem építmény elhelyezésére szolgál, vagy ha e törvény hatálybalépésekor, véglegessé vált döntéssel jóváhagyott bányászati műszaki üzemi terv alapján nem áll bányaművelés alatt;
 
 c) a mező- és erdőgazdasági hasznosításra alkalmatlan földterület.
 

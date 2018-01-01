@@ -2,7 +2,7 @@
 
 (2) Elhullott, elejtett védett állat egyedét a megtalálónak – ha e törvény másként nem rendelkezik – az igazgatósághoz be kell jelentenie.
 
-(3) Védett állat- és növényfaj egyedének károsítása, veszélyeztetése vagy jogellenes zavarása esetén a természetvédelmi hatóság köteles az ilyen magatartás tanúsítóját a tevékenység folytatásától eltiltani. Amennyiben a védett egyedet károsító, veszélyeztető, zavaró tevékenységet más hatóság engedélye alapján végzik, a hatóság a természetvédelmi hatóság megkeresésére az engedélyezési eljárást ismételten lefolytatja. Az eljáró hatóság – amennyiben az nem a természetvédelmi hatóság – a tevékenység folytatását az eljárás jogerős befejezéséig felfüggeszti.
+(3) Védett állat- és növényfaj egyedének károsítása, veszélyeztetése vagy jogellenes zavarása esetén a természetvédelmi hatóság köteles az ilyen magatartás tanúsítóját a tevékenység folytatásától eltiltani. Amennyiben a védett egyedet károsító, veszélyeztető, zavaró tevékenységet más hatóság engedélye alapján végzik, a hatóság a természetvédelmi hatóság megkeresésére az engedélyezési eljárást ismételten lefolytatja. Az eljáró hatóság – amennyiben az nem a természetvédelmi hatóság – a tevékenység folytatását az eljárás végleges befejezéséig felfüggeszti.
 
 (4) Rendszeresen hasznosított védett állatfaj állományának hosszú távú fenntartható hasznosítása érdekében a miniszter meghatározza az adott faj állománya hasznosításával kapcsolatos szabályokat.
 
