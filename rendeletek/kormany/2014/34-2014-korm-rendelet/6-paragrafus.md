@@ -16,7 +16,7 @@ c) szolgáltatás típusonként a fizetési fokozatok és fizetési osztályok f
 
 a) a nem állami szociális fenntartó
 
-aa) képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírásmintáját, ha a nem állami szociális fenntartó a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti cég,
+aa)[^1] képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját, ha a nem állami szociális fenntartó a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti cég,
 
 ab) képviseletére jogosult személy, illetve az egyéni vállalkozó közjegyző által hitelesített aláírásmintáját, ha a nem állami szociális fenntartó nem az aa) alpont szerinti személy,
 
@@ -47,3 +47,5 @@ a) támogatásra való jogosultsága év közben keletkezik, vagy
 b) az (1) bekezdés szerinti határidőt elmulasztotta,
 
 a támogatási kérelmet az adott negyedév utolsó hónapjának 20. napjáig, a negyedik negyedévben legkésőbb 2014. november 10-éig nyújthatja be. A kérelemre a 7. § (1)–(5) bekezdésében foglaltakat kell alkalmazni azzal, hogy a kincstár a döntési listát a negyedévet követő hónap 10. napjáig, a negyedik negyedévben november 30-áig küldi meg a miniszternek. A támogatás az a) pont szerinti esetben a jogosultság kezdő időpontjától, a b) pont szerinti esetben 2014. január hónapra visszamenőlegesen jár.
+
+[^1]: A 6. § (3) bekezdés a) pont aa) alpontja a 393/2017. (XII. 13.) Korm. rendelet 57. §-a szerint módosított szöveg.
