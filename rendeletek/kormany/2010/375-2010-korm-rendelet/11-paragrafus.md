@@ -1,3 +1,3 @@
-11. §[^70]
+11. §[^72]
 
-[^70]: A 11. §-t a 296/2014. (XI. 28.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^72]: A 11. §-t a 296/2014. (XI. 28.) Korm. rendelet 11. §-a hatályon kívül helyezte.

@@ -6,7 +6,7 @@ a) a foglalkoztatást helyettesítő támogatásra jogosult személy vagy
 
 b) a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti rehabilitációs ellátásban részesülő személy,
 
-c)[^6] a menekültügyi őrizetben lévő személy kivételével kérelmének jogerős elbírálásáig annak, aki menekültként, oltalmazottként vagy menedékesként történő elismerés iránti kérelmet nyújtott be, vagy
+c)[^6] a menekültügyi őrizetben lévő személy kivételével kérelmének végleges elbírálásáig annak, aki menekültként, oltalmazottként vagy menedékesként történő elismerés iránti kérelmet nyújtott be, vagy
 
 d)[^7] annak a harmadik országbeli állampolgárnak, akinek az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 62. § (1) bekezdés a), c), d), f) pont alapján kijelölt helyen való tartózkodását rendelte el
 
@@ -27,7 +27,7 @@ legfeljebb 4 hónap időtartamra szóló, határozott idejű közfoglalkoztatás
 [^3]: A 3. §-t megelőző alcím a 171/2011. (VIII. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^4]: A 3. § a 171/2011. (VIII. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^5]: A 3. § (1) bekezdése a 136/2012. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^6]: A 3. § (1) bekezdés c) pontját a 204/2015. (VII. 23.) Korm. rendelet 30. §-a iktatta be.
+[^6]: A 3. § (1) bekezdés c) pontját a 204/2015. (VII. 23.) Korm. rendelet 30. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 314. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^7]: A 3. § (1) bekezdés d) pontját a 204/2015. (VII. 23.) Korm. rendelet 30. §-a iktatta be.
 [^8]: A 3. § (2) bekezdése a 296/2014. (XI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 167. § (2) bekezdés a) pontja szerint módosított szöveg.
