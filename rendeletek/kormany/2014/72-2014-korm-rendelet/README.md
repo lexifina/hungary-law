@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-72-20-2
 | 2014-03-16 | 2014-72-20-22.2 | 2010: CXXX. törvény |
 | 2015-04-01 | 2014-72-20-22.3 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-09-01 | 2014-72-20-22.4 | 244/2016. (VIII. 17.) Korm. rendelet |
+| 2018-01-01 | 2014-72-20-22.5 | 457/2017. (XII. 28.) Korm. rendelet |

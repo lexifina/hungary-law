@@ -36,6 +36,7 @@ e) annak a területnek a megjelölését, ahol a szolgáltatás az engedély ala
 
 (4) A szolgáltatást engedélyező szerv a kiadott működési engedélyekről belső nyilvántartást vezet.
 
-(5) A szolgáltatást engedélyező szerv a 6. §-ban meghatározottak szerint visszavont működési engedélyt a visszavonásról hozott határozat jogerőre emelkedését követő öt év elteltével törli a nyilvántartásból.
+(5)[^4] A szolgáltatást engedélyező szerv a 6. §-ban meghatározottak szerint visszavont működési engedélyt a visszavonásról hozott határozat véglegessé válását követő öt év elteltével törli a nyilvántartásból.
 
 [^3]: A 4. § (1) bekezdés b) pontja a 244/2016. (VIII. 17.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 491. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -2,7 +2,7 @@
 
 7. § (1) A nyílt örökbefogadást elősegítő tevékenységet végző közhasznú szervezet
 
-a)[^4] a Gyvt. 69/A. § (2) bekezdés a) pontja szerint krízistanácsadást nyújt a hozzá forduló, válsághelyzetben lévő – különösen a várandósságát eltitkolni szándékozó – várandós anya és vér szerinti szülő számára;
+a)[^6] a Gyvt. 69/A. § (2) bekezdés a) pontja szerint krízistanácsadást nyújt a hozzá forduló, válsághelyzetben lévő – különösen a várandósságát eltitkolni szándékozó – várandós anya és vér szerinti szülő számára;
 
 b) a Gyvt. 69/A. § (2) bekezdés b) pontja szerinti segítségnyújtás céljából, az ellátáshoz való hozzájutás szervezése érdekében együttműködik a családok átmeneti otthonaival;
 
@@ -16,4 +16,4 @@ cb) előkészíti a vér szerinti szülőnek az örökbe fogadni szándékozó s
 
 (3) A közhasznú szervezetnek az (1) bekezdés c) pont ca) alpontja szerinti javaslatát a szervezet legalább kettő, az 1. mellékletben meghatározott képesítéssel rendelkező munkatársának kell előkészítenie és egybehangzóan megtennie.
 
-[^4]: A 7. § (1) bekezdés a) pontja a 244/2016. (VIII. 17.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^6]: A 7. § (1) bekezdés a) pontja a 244/2016. (VIII. 17.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.

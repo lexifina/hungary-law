@@ -24,7 +24,7 @@
 
 3.2. kelte
 
-3.3. jogerőre emelkedésének időpontja
+3.3.[^8] véglegessé válásának időpontja
 
 4. A működési engedély időbeli hatálya
 
@@ -35,3 +35,5 @@
 7. A tanúsítvány kiállításának kelte (helye és ideje)
 
 8. A tanúsítvány kiadmányozására jogosult személy aláírása és a szolgáltatást engedélyező szerv bélyegzőlenyomata
+
+[^8]: A 2. melléklet 3. pont 3.3. alpontja a 457/2017. (XII. 28.) Korm. rendelet 491. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
