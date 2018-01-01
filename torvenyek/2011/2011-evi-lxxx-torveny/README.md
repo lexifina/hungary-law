@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-80-00-00
 | 2011-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-80-00-00.1 |
 | 2013-07-01 | 2013. évi CIX. törvény | 2011-80-00-00.2 |
 | 2015-07-01 | 2015. évi LXXXIII. törvény | 2011-80-00-00.3 |
+| 2018-01-01 | 2017. évi CLXXXII. törvény | 2011-80-00-00.4 |
