@@ -1,1 +1,0 @@
-49. § Az önkormányzati tanács az indítvány érdemében határozattal, az eljárás során felmerült minden más kérdésben – ideértve az eljárás megszüntetését is – végzéssel dönt. A határozattal és a végzéssel szemben jogorvoslatnak helye nincs.

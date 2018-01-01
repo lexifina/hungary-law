@@ -6,7 +6,7 @@
 
 a) az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv és – ha törvény kivételt nem tesz – az e minőségében eljáró személy családi és utónevét, illetve neveit (a továbbiakban együtt: nevét), továbbá beosztását, ha az adott személy az eljárásban közfeladatának ellátásával összefüggésben vett részt,
 
-b) a meghatalmazottként vagy védőként eljárt ügyvéd nevét,
+b) a meghatalmazottként eljárt ügyvéd vagy kamarai jogtanácsos, továbbá a védő nevét,
 
 c) az alperesként pervesztes természetes személy nevét, továbbá jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevét és székhelyét, ha a határozatot olyan ügyben hozták, amelyben jogszabály alapján közérdekű igényérvényesítésnek helye van,
 
