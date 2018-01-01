@@ -1,6 +1,6 @@
 ## 8. A tételek visszavonásának szabályai
 
-10. § (1)[^8] A támogatási időszak alatt az MVH Közvetlen Támogatások Igazgatóságához benyújtott, az MVH által rendszeresített formanyomtatványon visszavonhatja
+10. § (1)[^10] A támogatási időszak alatt a Kincstárhoz benyújtott, a Kincstár által rendszeresített formanyomtatványon visszavonhatja
 
 a) a teljes támogatási kérelmét, vagy
 
@@ -18,4 +18,4 @@ c) 2014. vonatkozásában: 2013. december 31.;
 
 d) 2015. vonatkozásában: 2014. december 31.
 
-[^8]: A 10. § (1) bekezdés nyitó szövegrésze a 130/2013. (XII. 21.) VM rendelet 25. § c) pontja szerint módosított szöveg.
+[^10]: A 10. § (1) bekezdés nyitó szövegrésze a 130/2013. (XII. 21.) VM rendelet 25. § c) pontja, a 37/2017. (XII. 27.) MvM rendelet 24. § b) és c) pontja szerint módosított szöveg.
