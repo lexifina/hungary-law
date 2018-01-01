@@ -1,4 +1,4 @@
-## 8/A.[^1] A helyiségfűtő berendezések, a kombinált fűtőberendezések, a vízmelegítők és a melegvíz-tároló tartályok használatbavételére vonatkozó előírások
+## 8/A.[^3] A helyiségfűtő berendezések, a kombinált fűtőberendezések, a vízmelegítők és a melegvíz-tároló tartályok használatbavételére vonatkozó előírások
 
 10/A. § (1) 2015. szeptember 26-át követően – a típusengedély megszerzésének időpontjától függetlenül – nem vehető használatba nem egyetemes szolgáltatásra jogosult felhasználási helyen
 
@@ -24,4 +24,4 @@ a) olyan fűtőberendezés, amely a 813/2013/EU bizottsági rendeletben foglalt 
 
 b) olyan vízmelegítő, amely a 814/2013/EU bizottsági rendeletben foglalt nitrogénoxid-kibocsátásra
 
-[^1]: A 8/A. alcímet (10/A. §) a 276/2015. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 8/A. alcímet (10/A. §) a 276/2015. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
