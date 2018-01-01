@@ -1,4 +1,4 @@
-21/A. §[^40] (1) A kérelem nem tagadható meg, ha a köznevelési intézmény
+21/A. §[^47] (1) A kérelem nem tagadható meg, ha a köznevelési intézmény
 
 a) részt vesz a különleges bánásmódot igénylő gyermekek, tanulók ellátásában, vagy
 
@@ -24,4 +24,4 @@ nem működik.
 
 (5) A köznevelés-fejlesztési tervvel összhangban áll az az alapfokú művészeti iskola, amely megfelel a 21. § (4) bekezdésben foglaltaknak.
 
-[^40]: A 21/A. §-t a 73/2013. (III. 8.) Korm. rendelet 22. §-a iktatta be.
+[^47]: A 21/A. §-t a 73/2013. (III. 8.) Korm. rendelet 22. §-a iktatta be.

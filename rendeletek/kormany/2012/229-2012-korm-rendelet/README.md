@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-229-20-
 | 2017-03-21 | 2012-229-20-22.27 | 2010: CXXX. törvény |
 | 2017-07-01 | 2012-229-20-22.28 | 171/2017. (VI. 29.) Korm. rendelet |
 | 2017-11-04 | 2012-229-20-22.29 | 307/2017. (X. 27.) Korm. rendelet |
+| 2018-01-01 | 2012-229-20-22.30 | 457/2017. (XII. 28.) Korm. rendelet |

@@ -1,4 +1,4 @@
-## III/A. Fejezet[^103]
+## III/A. Fejezet[^110]
 
 ## A NEM ÁLLAMI KÖZNEVELÉSI TEVÉKENYSÉGHEZ KAPCSOLÓDÓ TÁMOGATÁSOK IGÉNYLÉSE, FOLYÓSÍTÁSA, ELSZÁMOLÁSA ÉS ELLENŐRZÉSE
 
@@ -10,4 +10,4 @@ a) tárgyév: az a naptári év, amelyre tekintettel a támogatást megállapít
 
 b) új köznevelési intézmény: az a köznevelési intézmény, amelyre vonatkozóan a fenntartó első alkalommal nyújt be igénylést támogatásokra.
 
-[^103]: A III/A. Fejezetet (37/A–37/S. §) a 353/2013. (X. 4.) Korm. rendelet 2. §-a iktatta be.
+[^110]: A III/A. Fejezetet (37/A–37/S. §) a 353/2013. (X. 4.) Korm. rendelet 2. §-a iktatta be.

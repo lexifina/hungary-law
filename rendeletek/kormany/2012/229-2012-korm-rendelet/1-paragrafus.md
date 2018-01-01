@@ -46,7 +46,7 @@
 
 19. a pedagógus-továbbképzésben részt vevő szervezetek nyilvántartását,
 
-20.[^6] a tankerületi központ keretében működő köznevelési intézmények közhiteles nyilvántartását,
+20.[^6] a tankerületi központ keretében működő köznevelési intézmények nyilvántartását,
 
 21.[^7] a lemorzsolódással veszélyeztetett tanulók pedagógiai támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszert a nappali rendszerű oktatást folytató, illetve a felnőttoktatást nappali munkarend szerint folytató nevelési-oktatási intézményektől begyűjtött személyazonosításra alkalmatlan, összesített statisztikai adatok alapján.
 
@@ -71,7 +71,7 @@ e) a begyűjtött és tárolt adatokból az Európai Unió közvetlenül alkalma
 [^3]: Az 1. § (2) bekezdés 10. pontja a 307/2017. (X. 27.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdés 17. pontja a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 1. pontja szerint módosított szöveg.
 [^5]: Az 1. § (2) bekezdés 18. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont aa) alpontja szerint módosított szöveg.
-[^6]: Az 1. § (2) bekezdés 20. pontja a 486/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^6]: Az 1. § (2) bekezdés 20. pontja a 486/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja, a 457/2017. (XII. 28.) Korm. rendelet 403. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^7]: Az 1. § (2) bekezdés 21. pontját a 354/2016. (XI. 18.) Korm. rendelet 1. §-a iktatta be.
 [^8]: Az 1. § (3) bekezdés a) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ab) alpontja szerint módosított szöveg.
 [^9]: Az 1. § (3) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ac) alpontja szerint módosított szöveg.

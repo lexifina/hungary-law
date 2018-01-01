@@ -4,7 +4,7 @@
 
 a) aki szerepel a felvételi és mulasztási vagy beírási naplóban,
 
-b)[^104] akiről kiállították a törzslapot, kollégiumban a törzskönyvet, illetve aki óvoda esetében szerepel a felvételi előjegyzési naplóban,
+b)[^111] akiről kiállították a törzslapot, kollégiumban a törzskönyvet, illetve aki óvoda esetében szerepel a felvételi előjegyzési naplóban,
 
 c) akinek jelenlétéről, távolmaradásáról külön jogszabályban meghatározott nyilvántartást vezetnek és
 
@@ -18,21 +18,21 @@ aa) rendelkezzen OM azonosítóval,
 
 ab) működési engedélyében szerepeljen az igényjogosultságot megalapozó alapfeladat,
 
-ac)[^105] ne lépje túl a működési engedélyében feladatellátási helyenként meghatározott maximális gyermek- és tanulólétszámot, szakképző iskola esetén az adott tanévre vonatkozó szakmaszerkezeti döntésről szóló jogszabályban meghatározott keretszámot, és
+ac)[^112] ne lépje túl a működési engedélyében feladatellátási helyenként meghatározott maximális gyermek- és tanulólétszámot, szakképző iskola esetén az adott tanévre vonatkozó szakmaszerkezeti döntésről szóló jogszabályban meghatározott keretszámot, és
 
 ad) alkalmazottja és óraadója szerepeljen a KIR személyi nyilvántartásában,
 
 b) – nevelési-oktatási intézmény esetében – a nevelési-oktatási intézménnyel létesített óvodai, tanulói, kollégiumi tagsági jogviszony szerepeljen a KIR személyi nyilvántartásában,
 
-c)[^106] az intézmény rendelkezzen a 37. § (4) és (5) bekezdése szerinti szülői nyilatkozattal,
+c)[^113] az intézmény rendelkezzen a 37. § (4) és (5) bekezdése szerinti szülői nyilatkozattal,
 
 d) – pedagógiai szakszolgálati intézmény esetében – az átlagbér alapú támogatás feltétele, hogy a pedagógiai szakszolgálati intézményben ellátott gyermek, tanuló szerepeljen a pedagógiai szakszolgálati intézmények működéséről szóló 15/2013. (II. 26.) EMMI rendelet (a továbbiakban: EMMI rendelet) szerinti nyilvántartásban.
 
 (3) Az (1) bekezdést és a (2) bekezdés a), b) és c) pontját a külföldi nevelési-oktatási intézményre és a nemzetközi nevelési-oktatási intézményre is alkalmazni kell.
 
-(4)[^107] Átlagbér alapú támogatást igényelhet az egyházi és magán köznevelési intézmény fenntartója azon tanuló után, akivel az Nkt. 21. § (9) bekezdésében foglalt – megyeszékhely szerinti járási hivatal által történt – intézménykijelölés alapján létesített az adott tanév október 1-je után tanulói jogviszonyt (a továbbiakban: pótlólagos támogatás). A pótlólagos támogatás azok után a tanulók után igényelhető, akik a nyilvántartásból törölt köznevelési intézménnyel az adott tanév október 1-jén tanulói jogviszonyban álltak. A fenntartó a pótlólagos támogatásra vonatkozó igénylést az érintett tanulókkal történő tanulói jogviszony létesítését követő 15 napon belül nyújthatja be az intézmény székhelye szerint illetékes Igazgatósághoz. A fenntartó a pótlólagos támogatásra a tanulói jogviszony létesítését követő hónap első napjától az adott tanév augusztusáig jogosult. A pótlólagos támogatásra vonatkozó igénylés benyújtására, megállapítására, folyósítására, elszámolására és ellenőrzésére egyebekben e fejezet szabályait kell alkalmazni.
+(4)[^114] Átlagbér alapú támogatást igényelhet az egyházi és magán köznevelési intézmény fenntartója azon tanuló után, akivel az Nkt. 21. § (9) bekezdésében foglalt – megyeszékhely szerinti járási hivatal által történt – intézménykijelölés alapján létesített az adott tanév október 1-je után tanulói jogviszonyt (a továbbiakban: pótlólagos támogatás). A pótlólagos támogatás azok után a tanulók után igényelhető, akik a nyilvántartásból törölt köznevelési intézménnyel az adott tanév október 1-jén tanulói jogviszonyban álltak. A fenntartó a pótlólagos támogatásra vonatkozó igénylést az érintett tanulókkal történő tanulói jogviszony létesítését követő 15 napon belül nyújthatja be az intézmény székhelye szerint illetékes Igazgatósághoz. A fenntartó a pótlólagos támogatásra a tanulói jogviszony létesítését követő hónap első napjától az adott tanév augusztusáig jogosult. A pótlólagos támogatásra vonatkozó igénylés benyújtására, megállapítására, folyósítására, elszámolására és ellenőrzésére egyebekben e fejezet szabályait kell alkalmazni.
 
-[^104]: A 37/B. § (1) bekezdés b) pontja a 3/2015. (I. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^105]: A 37/B. § (2) bekezdés a) pont ac) alpontja a 3/2015. (I. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^106]: A 37/B. § (2) bekezdés c) pontja a 3/2015. (I. 28.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^107]: A 37/B. § (4) bekezdését a 102/2016. (V. 13.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^111]: A 37/B. § (1) bekezdés b) pontja a 3/2015. (I. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^112]: A 37/B. § (2) bekezdés a) pont ac) alpontja a 3/2015. (I. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^113]: A 37/B. § (2) bekezdés c) pontja a 3/2015. (I. 28.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^114]: A 37/B. § (4) bekezdését a 102/2016. (V. 13.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.

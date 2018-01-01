@@ -30,6 +30,6 @@ a) az érintett kérelmére,
 
 b) ha a helyettesítő pedagógus a helyettesítési rendszer működtetőjének megkeresése esetén önhibájából egymást követő három alkalommal nem vállalja a helyettesítésre a felkérést.
 
-(5)[^70] Ha a tankerületi központ a helyettesítő pedagógust a (4) bekezdés b) pontja szerint törli a helyettesítési rendszerből, döntése ellen jogorvoslatért jogszabálysértésre hivatkozással a miniszterhez lehet fordulni.
+(5)[^77] Ha a tankerületi központ a helyettesítő pedagógust a (4) bekezdés b) pontja szerint törli a helyettesítési rendszerből, döntése ellen jogorvoslatért jogszabálysértésre hivatkozással a miniszterhez lehet fordulni.
 
-[^70]: A 31. § (5) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^77]: A 31. § (5) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.

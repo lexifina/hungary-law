@@ -2,6 +2,6 @@
 
 (2) A Hivatal a KIR-ben nyilvántartott okiratok alapján és a köznevelési intézmény vagy fenntartójának tájékoztatása mellett jogosult a köznevelési intézmény vagy fenntartója által közölt adatok helyesbítésére.
 
-(3)[^28] A Hivatal a kiadott OM azonosítót megküldi a köznevelési intézménynek és fenntartójának, az illetékes megyeszékhely szerinti járási hivatalnak és a kincstárnak.
+(3)[^32] A Hivatal a kiadott OM azonosítót megküldi a köznevelési intézménynek és fenntartójának, az illetékes megyeszékhely szerinti járási hivatalnak és a kincstárnak.
 
-[^28]: A 9. § (3) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 3. pontja szerint módosított szöveg.
+[^32]: A 9. § (3) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 3. pontja szerint módosított szöveg.

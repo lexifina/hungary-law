@@ -30,7 +30,7 @@
 
 13. az alapító okirat keltét,
 
-14. a működést megalapozó jogerős működési engedélyt, a nyilvántartásba vételről szóló dokumentumot, a működéshez szükséges határozat számát, keltét és az engedélyező hatóság nevét.
+14.[^19] a működést megalapozó végleges működési engedélyt, a nyilvántartásba vételről szóló dokumentumot, a működéshez szükséges határozat számát, keltét és az engedélyező hatóság nevét.
 
 (2) Az intézménytörzsben a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 21. § (1) bekezdése szerinti nyilvántartásból átvett adatokat és okiratokat változatlan tartalommal kell nyilvántartani.
 
@@ -39,3 +39,4 @@
 [^16]: A 4. § (1) bekezdés 5. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § d) pont db) alpontja szerint módosított szöveg.
 [^17]: A 4. § (1) bekezdés 7. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § d) pont dc) alpontja szerint módosított szöveg.
 [^18]: A 4. § (1) bekezdés 10. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § d) pont dd) alpontja szerint módosított szöveg.
+[^19]: A 4. § (1) bekezdés 14. pontja a 457/2017. (XII. 28.) Korm. rendelet 402. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
