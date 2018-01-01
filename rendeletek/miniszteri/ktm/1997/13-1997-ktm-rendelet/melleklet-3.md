@@ -1,4 +1,4 @@
-3. melléklet a 13/1997. (V. 28.) KTM rendelethez[^15]
+3. melléklet a 13/1997. (V. 28.) KTM rendelethez[^19]
 
 1. Védetté (fokozottan védetté) nyilvánított ásványokra, ásványtársulásokra, ősmaradványokra vonatkozó Értékek Törzskönyve alapadatai tartalmazzák a védett természeti érték
 
@@ -22,4 +22,4 @@ c) a védett természeti értéket vagy annak jellegzetességeit bemutató fény
 
 d) ismert magyarországi lelőhelyeinek megnevezése.
 
-[^15]: A 3. számú mellékletet a 88/2007. (X. 25.) KvVM rendelet 9. § (3) bekezdése iktatta be.
+[^19]: A 3. számú mellékletet a 88/2007. (X. 25.) KvVM rendelet 9. § (3) bekezdése iktatta be.

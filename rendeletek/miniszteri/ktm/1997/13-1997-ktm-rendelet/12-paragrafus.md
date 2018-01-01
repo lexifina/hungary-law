@@ -2,6 +2,6 @@
 
 12. § (1) E rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)–(3)[^12]
+(2)–(3)[^14]
 
-[^12]: A 12. § (2)–(3) bekezdését a 88/2007. (X. 25.) KvVM rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^14]: A 12. § (2)–(3) bekezdését a 88/2007. (X. 25.) KvVM rendelet 10. § (1) bekezdése hatályon kívül helyezte.

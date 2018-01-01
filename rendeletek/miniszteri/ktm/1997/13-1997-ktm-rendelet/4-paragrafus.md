@@ -1,6 +1,6 @@
 ## A védett természeti értékek nyilvántartása
 
-4. §[^4] (1) A miniszter a védett természeti értékekről Védett Természeti Értékek Törzskönyve (a továbbiakban: Értékek Törzskönyve) néven országos nyilvántartást vezet, amely a védett természeti értékek alapadataiból és a mellékletekből áll.
+4. §[^5] (1) A miniszter a védett természeti értékekről Védett Természeti Értékek Törzskönyve (a továbbiakban: Értékek Törzskönyve) néven országos nyilvántartást vezet, amely a védett természeti értékek alapadataiból és a mellékletekből áll.
 
 (2) Az Értékek Törzskönyvét az alábbi védett természeti értékcsoportok szerint elkülönítve kell vezetni:
 
@@ -12,4 +12,4 @@ c) védetté (fokozottan védetté) nyilvánított ásványok, ásványtársulá
 
 (3) A védett természeti értékek alapadatait, valamint az (1) bekezdésben meghatározott mellékletek adatait e rendelet 2. és 3. mellékletei tartalmazzák.
 
-[^4]: A 4. § a 88/2007. (X. 25.) KvVM rendelet 4. §-ával megállapított szöveg.
+[^5]: A 4. § a 88/2007. (X. 25.) KvVM rendelet 4. §-ával megállapított szöveg.
