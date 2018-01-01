@@ -1,6 +1,6 @@
 ## 5. A kéményseprő-ipari tevékenységgel kapcsolatos tűzvédelmi hatósági feladatok
 
-7. § (1) Kéményseprő-ipari szakkérdésekben a hatósági feladatokat a tűzvédelmi hatóság látja el.
+7. § (1) Kéményseprő-ipari szakkérdésekben a hatósági feladatokat a tűzvédelmi hatóság látja el a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló törvényben foglaltak alkalmazásával.
 
 (2) A tűzvédelmi hatóság hatáskörébe tartozóan
 
@@ -42,9 +42,11 @@ ab) a kéményseprő-ipari szolgáltató tevékenységét,
 
 b) eljár a kéményseprő-ipari tevékenységre vonatkozó szabályokat megszegő kéményseprő-ipari szolgáltatóval szemben, amely során
 
-ba) legfeljebb egymillió-ötszázezer forint összegű bírságot szabhat ki,
+ba) a szabálytalanság első alkalommal történő elkövetése esetén figyelmeztetésben részesíti,
 
-bb) a tevékenység végzésétől jogszabályban meghatározott esetekben és időtartamban eltiltja.
+bb) ugyanazon szabálytalanság ismételt elkövetése esetén legfeljebb egymillió-ötszázezer forint összegű bírságot szabhat ki,
+
+bc) a tevékenység végzésétől jogszabályban meghatározott esetekben és időtartamban eltiltja.
 
 (8) A tűzvédelmi hatóság a hatósági eljárásban ellenőrizheti azt is, hogy a kéményseprő-ipari tevékenység ellátásában a kéményseprő-ipari szolgáltatónál közreműködő természetes személy büntetlen előéletű-e és a kéményseprő-ipari tevékenységgel kapcsolatos szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e. A hatósági eljárás céljából a tűzvédelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a kéményseprő-ipari tevékenység ellátásában a kéményseprő-ipari szolgáltatónál személyesen közreműködő személy büntetlen előéletű-e, valamint, hogy a kéményseprő-ipari tevékenységgel kapcsolatos szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 

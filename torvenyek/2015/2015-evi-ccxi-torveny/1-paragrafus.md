@@ -30,4 +30,6 @@
 
 14. tartalék (biztonsági) égéstermék-elvezető: olyan égéstermék-elvezető, amely a tartalékfűtés célját szolgálja, üzemképes állapotban van, de nincs rácsatlakoztatva tüzelőberendezés;
 
-15. tüzelőberendezés: szilárd, cseppfolyós vagy légnemű energiatermelő anyaggal üzemelő berendezés, amelyben a működés során égéstermék keletkezik.
+15. tüzelőberendezés: szilárd, cseppfolyós vagy légnemű energiatermelő anyaggal üzemelő berendezés, amelyben a működés során égéstermék keletkezik;
+
+16. egylakásos ingatlan: nem társasházként vagy szövetkezeti házként nyilvántartott lakóingatlan.

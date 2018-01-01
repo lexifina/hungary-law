@@ -8,7 +8,7 @@ b) a kéményseprő-ipari szerv, a kéményseprő-ipari szolgáltató tevékenys
 
 c) a kéményseprő-ipari szolgáltatóval és ingatlan tulajdonosával szemben kiszabható bírságon kívüli egyéb jogkövetkezmények körét, valamint a bírság és az egyéb jogkövetkezmények megállapításának elveit és az eljárás rendjét;
 
-d) a 7. § szerinti tűzvédelmi hatósági feladatok részletes eljárási szabályait;
+d) a 7. § szerinti tűzvédelmi hatósági feladatok, valamint a hatósági eljárások lefolytatása során a kéményseprő-ipari tevékenységet ellátók kötelező közreműködésének részletes szabályait;
 
 e) a kéményseprő-ipari szervnek, kéményseprő-ipari szolgáltatónak az ingatlan tulajdonosa, használója értesítésével összefüggő feladatait;
 
@@ -36,9 +36,9 @@ i) a jogszabályi kötelezés alapján felszerelt szén-monoxid-érzékelő bere
 
 j) a kéményseprő-ipari tevékenységről szóló statisztikai adatlap tartalmi követelményeit;
 
-k) az égéstermék-elvezetővel kapcsolatos hatósági eljárások szabályait;
+k)
 
-l) a kéményseprő-ipari szolgáltató kéményseprő-ipari tevékenység végzéséhez szükséges szakmai, személyi, tárgyi és gazdasági feltételeket, valamint a nyilvántartásba vétel eljárási rendjét és az ahhoz szolgáltatandó adatok körét és módját;
+l) a kéményseprő-ipari szolgáltató kéményseprő-ipari tevékenység végzéséhez szükséges szakmai, személyi, tárgyi és gazdasági feltételeket;
 
 m) a 2. § (4) bekezdése szerinti feladatok 2. § (1) bekezdés b) pontja szerinti ingatlanok esetében történő elvégzésének a kéményseprő-ipari szolgáltatótól való megrendelésére vonatkozó szabályokat;
 

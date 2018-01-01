@@ -30,7 +30,7 @@ a) az épített cserépkályha, kandalló, kemence csak bontással oldható öss
 
 b) a használaton kívüli égéstermék-elvezető, valamint
 
-c) az az égéstermék-elvezető, amelynek elhelyezésére szolgáló épületrészt, épületet jogerős hatósági döntéssel lezártak vagy életveszélyesnek nyilvánítottak, a döntés visszavonásáig.
+c) az az égéstermék-elvezető, amelynek elhelyezésére szolgáló épületrészt, épületet végleges hatósági döntéssel lezártak vagy életveszélyesnek nyilvánítottak, a döntés visszavonásáig.
 
 (4) Sormunka keretében
 
@@ -44,7 +44,7 @@ d) az égéstermék paramétereinek ellenőrzését;
 
 e) az összekötő elem ellenőrzését és szükség szerinti tisztítását;
 
-f) a gáztüzelő-berendezés műszaki-biztonsági felülvizsgálata jogszabály szerinti megtörténtének ellenőrzését; valamint
+f)
 
 g) a szén-monoxid érzékelő berendezésre vonatkozó műszaki követelményekről szóló miniszteri rendeletnek megfelelő szén-monoxid érzékelő berendezés felszerelésére és működtetésére vonatkozó kötelezettség teljesítésének, valamint az érzékelő működőképességének ellenőrzését
 
@@ -64,9 +64,11 @@ e) a 10 000 cm2 feletti járat keresztmetszetű égéstermék-elvezető ellenőr
 
 f) az égéstermék-elvezetővel kapcsolatos műszaki vizsgálatokat;
 
-g) a tervezett vagy a tervezéssel érintett égéstermék-elvezető műszaki megoldás megfelelőségével összefüggő tervfelülvizsgálatot a benyújtott tervdokumentáció alapján.
+g) a tervezett vagy a tervezéssel érintett égéstermék-elvezető műszaki megoldás megfelelőségével összefüggő tervfelülvizsgálatot a benyújtott tervdokumentáció alapján;
 
-(6) A kéményseprő-ipari szerv a (4) bekezdés szerinti kéményseprő-ipari tevékenységet az (1) bekezdés a) pont aa) és ab) alpontja szerinti ingatlanok esetében az előzetes írásbeli értesítése szerinti első és második időpontban térítésmentesen végzi. Az (1) bekezdés a) pont ac) alpontja szerinti társasházban, lakásszövetkezeti lakóépületben lévő, nem természetes személy tulajdonában álló vagy gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként bejegyzett ingatlanok esetében az előzetes írásbeli értesítés szerinti első és második időpontban is költségtérítést kell fizetni, amelynek mértéke az elvégzett kéményseprő-ipari tevékenység költségének az érintett ingatlanra jutó arányának felel meg. A kéményseprő-ipari szolgáltató az (1) bekezdés b) pontja szerinti ingatlanok esetében a kéményseprő-ipari tevékenységet megrendelésre, díjfizetés ellenében végzi a 10. § (5) bekezdésben meghatározott eltéréssel.
+h) az (1) bekezdés a) pont aa) alpontja szerinti egylakásos ingatlanok esetében a sormunkában meghatározott feladatokat.
+
+(6) A kéményseprő-ipari szerv a (4) bekezdés szerinti kéményseprő-ipari tevékenységet az (1) bekezdés a) pont aa) és ab) alpontja szerinti ingatlanok esetében térítésmentesen végzi a sormunkáról szóló előzetes írásbeli értesítés szerinti első és második időpontban, valamint – a 3. § (6) bekezdés alapján, illetve a külön jogszabályban meghatározott gyakoriság esetén – az (5) bekezdés h) pontja szerinti megrendelés esetén. Az (1) bekezdés a) pont ac) alpontja szerinti társasházban, lakásszövetkezeti lakóépületben lévő, nem természetes személy tulajdonában álló vagy gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként bejegyzett ingatlanok esetében a sormunkáról szóló előzetes írásbeli értesítés szerinti első és második időpontban is költségtérítést kell fizetni, amelynek mértéke az elvégzett kéményseprő-ipari tevékenység költségének az érintett ingatlanra jutó arányának felel meg. A kéményseprő-ipari szolgáltató az (1) bekezdés b) pontja szerinti ingatlanok esetében a kéményseprő-ipari tevékenységet megrendelésre, díjfizetés ellenében végzi a 10. § (5) bekezdésben meghatározott eltéréssel.
 
 (7) Az (1) bekezdés b) pontja szerinti ingatlanok esetében a kéményseprő-ipari tevékenységet az ingatlan használója a (4) bekezdés szerinti feladatok ellátása érdekében jogszabályban meghatározottak szerint köteles a kéményseprő-ipari szolgáltatótól vagy a (11) bekezdés szerinti esetben a kéményseprő-ipari szervtől megrendelni.
 
