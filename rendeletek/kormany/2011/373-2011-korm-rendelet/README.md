@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-373-20-
 | 2014-09-05 | 2011-373-20-22.5 | 267/2013. (VII. 11.) Korm. rendelet |
 | 2016-07-17 | 2011-373-20-22.6 | 186/2016. (VII. 13.) Korm. rendelet |
 | 2016-09-01 | 2011-373-20-22.7 | 259/2016. (VIII. 31.) Korm. rendelet |
+| 2018-01-01 | 2011-373-20-22.8 | 502/2017. (XII. 29.) Korm. rendelet |
