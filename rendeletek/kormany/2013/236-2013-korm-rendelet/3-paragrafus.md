@@ -40,7 +40,8 @@ c) lemondással,
 
 d) halállal.
 
-(7) A tagsági jogviszony visszavonása indokolással és a szakértői tevékenységre vonatkozó jogszabályok vétkes megszegésére való hivatkozással történhet, mely döntés ellen bírósághoz lehet fordulni. A határozat felülvizsgálatáról a bíróság nemperes eljárásban határoz. Ha az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló 1953. évi III. törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+(7)[^4] A tagsági jogviszony visszavonása indokolással és a szakértői tevékenységre vonatkozó jogszabályok vétkes megszegésére való hivatkozással történhet. A döntés ellen közigazgatási bírósághoz lehet fordulni.
 
 [^2]: A 3. § (1) bekezdése a 426/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 3. § (4) bekezdése a 426/2015. (XII. 23.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: A 3. § (7) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 54. §-ával megállapított szöveg.
