@@ -1,0 +1,3 @@
+31. § A Tpvt. 55/D. §-a helyébe a következő rendelkezés lép:
+
+„55/D. § Az iratbetekintés során az arra jogosult – az 55/B. § (3) bekezdése szerinti betekintést engedélyező végzésben meghatározott korlátozó rendelkezés hiányában – az iratról vagy annak egy részéről másolatot vagy feljegyzést készíthet, vagy – az iratbetekintéssel összefüggő költségtérítés mértékéről és a költségek megfizetéséről szóló kormányrendeletben meghatározott költségtérítés ellenében – másolatot kérhet, amelyet a Gazdasági Versenyhivatal kérelemre hitelesít.”
