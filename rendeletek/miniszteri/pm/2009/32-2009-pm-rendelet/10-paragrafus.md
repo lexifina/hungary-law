@@ -1,5 +1,5 @@
 ## Módosító rendelkezések
 
-10. §[^15]
+10. §[^23]
 
-[^15]: A 10. §-t a 11. § (2) bekezdése hatályon kívül helyezte.
+[^23]: A 10. §-t a 11. § (2) bekezdése hatályon kívül helyezte.
