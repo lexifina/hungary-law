@@ -1,0 +1,1 @@
+## 6. § Ez a rendelet az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 2011. december 11-i 2011/92/EU parlamenti és tanácsi irányelv 2. cikk (1) és (2) bekezdésének való megfelelést szolgálja.
