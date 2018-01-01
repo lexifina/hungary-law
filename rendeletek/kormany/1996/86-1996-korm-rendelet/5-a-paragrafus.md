@@ -1,4 +1,4 @@
-5/A. §[^7] (1) A biztonsági okmányt tartalmától, az általa keletkeztetett vagy igazolt jogosultságok, illetve kötelezettségek súlyától függően „A”, „B” vagy „C” okmányvédelmi kategóriába kell sorolni.
+5/A. §[^10] (1) A biztonsági okmányt tartalmától, az általa keletkeztetett vagy igazolt jogosultságok, illetve kötelezettségek súlyától függően „A”, „B” vagy „C” okmányvédelmi kategóriába kell sorolni.
 
 (2) Az elektronikus biztonsági okmányt – az (1) bekezdésben foglaltakon túl – tartalmától, az általa keletkeztetett vagy igazolt jogosultságok, illetve kötelezettségek súlyától, és az informatikai adathordozón tárolt adat szenzitivitásától és felhasználásától függően „Kiemelt”, „Fokozott” vagy „Alap” okmányinformatikai védelmi kategóriába is be kell sorolni.
 
@@ -20,4 +20,4 @@
 
 (11) Az esetleges hamisítás miatt várható nemzetgazdasági, nemzetbiztonsági és egyéb kockázatokat, meglévő okmány esetén a konkrét hamisítási tapasztalatokat, valamint a várható fenyegetettségeket is figyelembe kell venni a megfelelő okmányvédelmi, illetve okmányinformatikai védelmi kategóriába történő besorolás, illetve átsorolás esetén.
 
-[^7]: Az 5/A. §-t a 299/2006. (XII. 23.) Korm. rendelet 4. §-a iktatta be, szövege a 312/2015. (X. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^10]: Az 5/A. §-t a 299/2006. (XII. 23.) Korm. rendelet 4. §-a iktatta be, szövege a 312/2015. (X. 28.) Korm. rendelet 4. §-ával megállapított szöveg.

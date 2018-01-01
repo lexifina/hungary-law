@@ -2,7 +2,7 @@
 
 ## általános szabályai
 
-5. §[^6] (1) A biztonsági okmányt
+5. §[^9] (1) A biztonsági okmányt
 
 a) olyan kémiai, fizikai, technológiai, technikai, valamint adminisztratív védelemmel kell ellátni, amely megfelelő szinten biztosítja az okmány hamisítás elleni védelmét, a hamisítások gyors felismerését; az informatikai adathordozót is tartalmazó biztonsági okmányt ezen túlmenően – a 2. számú mellékletben foglaltak figyelembevételével – okmányinformatikai védelemmel is el kell látni;
 
@@ -16,4 +16,4 @@ c) nyomdai impresszummal kell ellátni, amely alapján az előállító és a gy
 
 (4) Ugyanazt a jogot megtestesítő vagy tényt igazoló biztonsági okmányt – az okmánycsere korlátozott időszakát kivéve – egyidejűleg csak azonos formátumban és azonos okmányvédelmi elemekkel lehet kibocsátani.
 
-[^6]: Az 5. § a 312/2015. (X. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: Az 5. § a 312/2015. (X. 28.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Az előállító és a kibocsátó egyéb kötelezettségei
 
-8. §[^23] (1) Az előállító az „A” okmányvédelmi kategóriába sorolt biztonsági okmányok előállításának megkezdéséről – előzetesen, az időpont megjelölésével – tájékoztatja a Szakszolgálatot.
+8. §[^28] (1) Az előállító az „A” okmányvédelmi kategóriába sorolt biztonsági okmányok előállításának megkezdéséről – előzetesen, az időpont megjelölésével – tájékoztatja a Szakszolgálatot.
 
 (2) A kibocsátó a biztonsági okmány kibocsátásának megkezdéséről az időpont és a kezdősorszám megjelölésével tájékoztatja a Szakszolgálatot.
 
@@ -16,4 +16,4 @@
 
 (8) A kibocsátó köteles írásban tájékoztatni a Szakszolgálatot a biztonsági okmány kibocsátásának végleges megszüntetéséről, megjelölve annak időpontját és az utolsó megszemélyesített okmány sorszámát.
 
-[^23]: A 8. § a 312/2015. (X. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^28]: A 8. § a 312/2015. (X. 28.) Korm. rendelet 11. §-ával megállapított szöveg.

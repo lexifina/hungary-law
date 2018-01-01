@@ -1,12 +1,12 @@
-## 5/B. §[^8] A Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó kibocsátó esetében a kibocsátót irányító (felügyelő) miniszter köteles a hatáskörébe tartozó biztonsági okmányokkal kapcsolatos irányítási (felügyeleti) feladatok koordinálásáért felelős személyt kijelölni, és a kijelölésről, illetve a kijelölésben történt változásokról a Szakszolgálatot haladéktalanul értesíteni.
+## 5/B. §[^11] A Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó kibocsátó esetében a kibocsátót irányító (felügyelő) miniszter köteles a hatáskörébe tartozó biztonsági okmányokkal kapcsolatos irányítási (felügyeleti) feladatok koordinálásáért felelős személyt kijelölni, és a kijelölésről, illetve a kijelölésben történt változásokról a Szakszolgálatot haladéktalanul értesíteni.
 
 ## A biztonsági okmány előállításának
 
 ## engedélyezése
 
-6. §[^9] (1) Az új, vagy a megújuló biztonsági okmány előállítását megelőzően a kibocsátó köteles az okmány előállítását a Szakszolgálattal engedélyeztetni. A kibocsátó – ha valamely miniszter irányítása vagy felügyelete alá tartozik – az eljárás megindítása előtt köteles az irányítását (felügyeletét) ellátó minisztert tájékoztatni a biztonsági okmány tervezett kibocsátásáról.
+6. §[^12] (1) Az új, vagy a megújuló biztonsági okmány előállítását megelőzően a kibocsátó köteles az okmány előállítását a Szakszolgálattal engedélyeztetni. A kibocsátó – ha valamely miniszter irányítása vagy felügyelete alá tartozik – az eljárás megindítása előtt köteles az irányítását (felügyeletét) ellátó minisztert tájékoztatni a biztonsági okmány tervezett kibocsátásáról.
 
-(2) Az engedélykérelemhez csatolni kell a biztonsági okmány formatervét, pontos szövegét, nemzetközi egyezményekhez kapcsolódó okmányoknál az okmányra vonatkozó egyéb előírásokat, valamint az adminisztratív védelmi terv tervezetét, továbbá az előállító által elkészített okmányvédelmi tervet. A kibocsátó köteles nyilatkozni arról, hogy a kibocsátásra kerülő biztonsági okmányra vonatkozik-e európai uniós előírás, illetve hogy milyen jogszabály alapján kerül rendszeresítésre az adott okmány.
+(2)[^13] A biztonsági okmányok védelméhez fűződő nemzetbiztonsági érdek miatt az engedélykérelemhez csatolni kell a biztonsági okmány formatervét, pontos szövegét, nemzetközi egyezményekhez kapcsolódó okmányoknál az okmányra vonatkozó egyéb előírásokat, az adminisztratív védelmi terv tervezetét, továbbá az előállító által elkészített okmányvédelmi tervet. Az engedélykérelem tartalmazza azt, hogy a kibocsátásra kerülő biztonsági okmányra vonatkozik-e európai uniós előírás, illetve hogy milyen jogszabály alapján kerül rendszeresítésre az adott okmány.
 
 (3) A biztonsági okmány kizárólag szövegtartalomban történő és okmányvédelmi szempontokat nem érintő változása e rendelet alkalmazásában nem eredményezi a biztonsági okmány megújulását, ezért nem engedélyköteles.
 
@@ -50,5 +50,6 @@ b) az engedélyezett okmányvédelmi tervtől történő eltérés esetén hatá
 
 (19) Az „A” okmányvédelmi kategóriába sorolt biztonsági okmányok ellenőrzésére vonatkozó szempontokat – a kibocsátó igénye esetén – a Szakszolgálat határozza meg.
 
-[^8]: Az 5/B. §-t a 312/2015. (X. 28.) Korm. rendelet 5. §-a iktatta be.
-[^9]: A 6. § a 312/2015. (X. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^11]: Az 5/B. §-t a 312/2015. (X. 28.) Korm. rendelet 5. §-a iktatta be.
+[^12]: A 6. § a 312/2015. (X. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^13]: A 6. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
