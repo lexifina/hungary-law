@@ -1,1 +1,0 @@
-## Hajózási létesítmények nyilvántartása
