@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-198-20-
 | 2016-07-14 | 2016-198-20-22.1 | 198/2016. (VII. 13.) Korm. rendelet |
 | 2016-07-15 | 2016-198-20-22.2 | 2010: CXXX. törvény |
 | 2016-09-09 | 2016-198-20-22.3 | 271/2016. (IX. 1.) Korm. rendelet |
+| 2018-01-01 | 2016-198-20-22.4 | 458/2017. (XII. 28.) Korm. rendelet |
