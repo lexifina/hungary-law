@@ -1,1 +1,0 @@
-A Polgári Törvénykönyv hatálybalépéséről és végrehajtásáról szóló 1960. évi 11. törvényerejű rendelet 15. §-ában foglalt felhatalmazás alapján az érdekelt miniszterekkel, valamint a legfőbb ügyésszel egyetértésben a következőket rendelem:
