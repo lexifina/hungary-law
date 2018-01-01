@@ -10,7 +10,7 @@ c) az adóalanyiság választására jogosító értékhatár meghaladásának n
 
 d) a kapott előlegről kibocsátott utolsó bizonylat kibocsátásának napját megelőző nappal, ha a naptári évben összesen 30 millió forintot meghaladó előlegről bocsátott ki bizonylatot;
 
-e) az adóhatóság határozata jogerőre emelkedésének napjával, ha terhére az adóhatóság számla- vagy nyugtaadási kötelezettség elmulasztása, vagy az ellenőrzés akadályozása miatt mulasztási bírságot állapított meg;
+e) az állami adó- és vámhatóság határozata véglegessé válásának napjával, ha terhére az adóhatóság számla- vagy nyugtaadási kötelezettség elmulasztása, vagy az ellenőrzés akadályozása miatt mulasztási bírságot állapított meg;
 
 f) a magánszemély adóalany egyéni vállalkozói jogállása megszűnésének napjával;
 

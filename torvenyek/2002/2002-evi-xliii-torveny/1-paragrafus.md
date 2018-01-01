@@ -8,7 +8,7 @@
 
 (2) Az evából származó bevétel a központi költségvetést illeti meg.
 
-(3) Az adózó az evával összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló törvény rendelkezései szerint teljesíti.
+(3) Az adózó az evával összefüggő adókötelezettségeit e törvény, valamint az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezései szerint teljesíti.
 
 (4) Az evával összefüggő hatósági ügyben az eljárás az állami adóhatóság hatáskörébe tartozik.
 

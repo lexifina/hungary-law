@@ -32,7 +32,7 @@ j) a szabadalmi ügyvivői iroda.
 
 a) a magánszemély egyéni vállalkozóként tevékenységét folyamatosan végezte, a jogi személy és az egyéni cég nem alakult át (ideértve különösen a kiválást és a beolvadást is), valamint a jogi személyben, egyéni cégben (az öröklést kivéve) új tag nem szerzett (új tagok nem szereztek összesen) 50 százalékot meghaladó szavazati jogot biztosító részesedést;
 
-b) az adóhatóság nem rendelte el jogerősen számla- vagy nyugtaadási kötelezettség ismételt elmulasztása miatt mulasztási bírság kiszabását;
+b) állami adó- és vámhatóság nem rendelte el véglegesen számla- vagy nyugtaadási kötelezettség ismételt elmulasztása miatt mulasztási bírság kiszabását;
 
 c) az általános forgalmi adóról szóló törvény szerint nem volt kötelezett a használt ingóságokra, műalkotásokra, gyűjteménydarabokra és régiségekre vonatkozó vagy az utazásszervezési szolgáltatásra vonatkozó különös adózási szabályok alkalmazására;
 

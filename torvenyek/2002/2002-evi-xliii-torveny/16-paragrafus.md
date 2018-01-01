@@ -30,7 +30,7 @@ esetén az általános forgalmi adót megfizetni.
 
 (3) Az adóalany a (2) bekezdés c) pontja alapján fizetendő általános forgalmi adót, feltéve, hogy a szolgáltatást a Közösségen kívül letelepedett adóalanytól vette igénybe, és a (2) bekezdés d) pontja alapján fizetendő általános forgalmi adót az adóévre vonatkozó evabevallásában megállapítja és bevallja, valamint a bevallás benyújtására előírt határidőig megfizeti.
 
-(4) Az adóalany a Közösség másik tagállamából történő beszerzései tekintetében az általános forgalmi adóról szóló törvény 20. §-a (1) bekezdésének d) pontjában meghatározott személyekkel, szervezetekkel, a 36–49. §-ainak, 140. §-ának és a 142. § (3) bekezdése a) pontjának alkalmazása tekintetében pedig a belföldön nyilvántartásba vett áfaalanyokkal esik egy tekintet alá.
+(4) Az adóalany a Közösség másik tagállamából történő beszerzései tekintetében az általános forgalmi adóról szóló törvény 20. § (1) bekezdés d) pontjában meghatározott személyekkel, szervezetekkel, a 36–49. §-ának, 140. §-ának és a 142. § (3) bekezdés a) pontjának alkalmazása tekintetében pedig a belföldön nyilvántartásba vett adóalanyokkal esik egy tekintet alá. A közösségi adószámra és az összesítő nyilatkozatra vonatkozó rendelkezések tekintetében az adóalany az általános forgalmi adóról szóló törvény szerint alanyi adómentességet választott adóalanyokkal esik egy tekintet alá.
 
 (5) Az adóalany az általános forgalmi adóról szóló törvény szerint a külföldi utasnak visszatérített általános forgalmi adót előzetesen felszámított adóként nem veheti figyelembe.
 
@@ -39,3 +39,5 @@ esetén az általános forgalmi adót megfizetni.
 (7) Az általános forgalmi adó alanyának nem keletkezik újólag adófizetési kötelezettsége azon bevétele után, amely az adóalanyiság időszakában megszerzett bevételnek minősült.
 
 (8) Az általános forgalmi adó alanya az adóalanyként lezárt adóévben beszerzett termék, igénybevett szolgáltatás tekintetében előzetesen felszámított adólevonási jogot nem gyakorolhat.
+
+(9) Az adóalany az általa kibocsátott számlák tekintetében az általános forgalmi adóról szóló törvényben meghatározott adatszolgáltatásra vonatkozó rendelkezéseknek megfelelően, arról az adóévről benyújtott adóbevallásában – a 11. § (5) bekezdés alkalmazása esetén a becslésre irányuló adóhatósági eljárás során – nyilatkozik, amelyben a számlát kiállította.
