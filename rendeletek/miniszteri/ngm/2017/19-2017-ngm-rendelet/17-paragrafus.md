@@ -1,4 +1,4 @@
-## 13–16. §[^4]
+## 13–16. §[^3]
 
 ## 5. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 10–12. § és a 2. melléklet 2018. február 12-én lép hatályba.
 
-[^4]: A 13–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 13–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
