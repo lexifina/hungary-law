@@ -1,4 +1,4 @@
-## 7. §[^2] A Yanfeng Hungary Automotive Interior Systems Kft. Pápa területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 82/2016. (IV. 12.) Korm. rendelet módosításáról szóló 298/2016. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^3] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^3] A Yanfeng Hungary Automotive Interior Systems Kft. Pápa területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 82/2016. (IV. 12.) Korm. rendelet módosításáról szóló 298/2016. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 82/2016. (IV. 12.) Korm. rendelethez
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: A 7. §-t a 298/2016. (IX. 29.) Korm. rendelet 1. §-a iktatta be.
-[^3]: A hatálybalépés időpontja 2016. szeptember 30.
+[^3]: A 7. §-t a 298/2016. (IX. 29.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2016. szeptember 30.
