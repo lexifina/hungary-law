@@ -24,6 +24,8 @@
 
 10. félárva: az a hallgató, akinek egy szülője elhunyt és nem fogadták örökbe;
 
+10a.[^2] gyermek: a hitelfelvevő vér szerinti vagy az örökbefogadott gyermeke;
+
 11. hallgatói hitel: a Diákhitel szervezet és a hitelfelvevő közötti hitel-, vagy kölcsönszerződés alapján az e rendeletben meghatározott feltételek szerint nyújtott pénzkölcsön, amely – céljait tekintve – több részből áll:
 
 a) szabad felhasználású: a hallgatói hitel azon része, amelyet Fot. 46. § (1) bekezdése szerint tanulmányokat folytató hallgatók, illetőleg a Fot. 111. § (4) bekezdése szerinti államilag támogatott és költségtérítéses képzésben tanulmányokat folytató hallgatók a hallgatói léttel kapcsolatos költségeik finanszírozásához vehetnek igénybe,
@@ -48,7 +50,7 @@ b) kötött felhasználású: a hallgatói hitel azon része, amelyet a Fot. 46.
 
 20. szülők: a hitelfelvevő születési anyakönyvi kivonatában anyaként és apaként megjelölt személyek;
 
-21.[^2] tanév: az adott naptári év szeptember 1-jétől a következő naptári év június 30-áig terjedő képzési időszak;
+21.[^3] tanév: az adott naptári év szeptember 1-jétől a következő naptári év június 30-áig terjedő képzési időszak;
 
 22. tanulmányi félév: az adott naptári év szeptember 1-jétől a következő naptári év január 31-éig terjedő, illetve az adott naptári év február 1-jétől június 30-áig terjedő képzési időszak;
 
@@ -58,4 +60,5 @@ b) kötött felhasználású: a hallgatói hitel azon része, amelyet a Fot. 46.
 
 25. törlesztőrészlet: az e rendelet alapján meghatározott, a hitelfelvevő által a Diákhitel szervezetnek a törlesztési kötelezettség kezdetét követően, havi rendszerességgel fizetendő összeg.
 
-[^2]: A 2. § 21. pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 10a. pontját a 291/2017. (X. 3.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § 21. pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
