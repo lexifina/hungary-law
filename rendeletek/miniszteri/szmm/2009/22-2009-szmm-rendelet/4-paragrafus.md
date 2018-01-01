@@ -14,7 +14,7 @@ b) kollektív szerződés kötés érdekében az érdekképviselet reprezentativ
 
 érintő kérdésben az ÁPB elnöke, társelnöke is benyújthatja a kérelmet.
 
-(3)[^3] A kérelmet erre a célra rendszeresített, a társadalmi párbeszédért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) honlapján közzétett nyomtatványon kell benyújtani az ÁRMB részére.
+(3)[^3] A kérelmet erre a célra rendszeresített, a társadalmi párbeszédért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) honlapján közzétett nyomtatványon, írásbelinek nem minősülő elektronikus úton kell benyújtani az ÁRMB részére.
 
 (4) A kérelem tartalmazza:
 
@@ -26,10 +26,11 @@ c)[^4] a nemzetgazdasági ág, ágazat (alágazat, szakágazat) TEÁOR-kód szer
 
 d) a 3. § (1) bekezdésben meghatározott eljárás megjelölését,
 
-e) az ÁPBtv. 7. § (2) bekezdésében meghatározott nyilatkozatot,
+e)[^5] az ÁPBtv. 7. § (2) bekezdésében meghatározott írásbeli nyilatkozatot,
 
-f)[^5] az érdekképviseletnek az NGTT-ben részt vevő érdekképviseleti szövetségben fennálló tagságára vonatkozó nyilatkozatát.
+f)[^6] az érdekképviseletnek az NGTT-ben részt vevő érdekképviseleti szövetségben fennálló tagságára vonatkozó igazolást.
 
-[^3]: A 4. § (3) bekezdése a 3/2012. (II. 10.) NGM rendelet 18. § (2) bekezdésével megállapított, nyitó szövegrésze az 55/2014. (XII. 31.) NGM rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 4. § (3) bekezdése a 3/2012. (II. 10.) NGM rendelet 18. § (2) bekezdésével megállapított, nyitó szövegrésze az 55/2014. (XII. 31.) NGM rendelet 9. § (2) bekezdés a) pontja, az 51/2017. (XII. 29.) NGM rendelet 11. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^4]: A 4. § (4) bekezdés c) pontja a 17/2012. (VII. 5.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^5]: A 4. § (4) bekezdés f) pontja a 3/2012. (II. 10.) NGM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^5]: A 4. § (4) bekezdés e) pontja az 51/2017. (XII. 29.) NGM rendelet 11. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 4. § (4) bekezdés f) pontja a 3/2012. (II. 10.) NGM rendelet 18. § (3) bekezdésével megállapított, az 51/2017. (XII. 29.) NGM rendelet 11. § (4) bekezdés c) pontja szerint módosított szöveg.

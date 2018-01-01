@@ -32,6 +32,6 @@
 
 | 2.5. |  | A tag munkáltató által munkaviszony/közalkalmazotti jogviszony keretében foglalkoztatott átlagos statisztikai állományi létszám a kérelem benyújtását (adatszolgáltatás időpontját) megelőző évben |
 
-3. számú melléklet a 22/2009. (IX. 30.) SZMM rendelethez[^28]
+3. számú melléklet a 22/2009. (IX. 30.) SZMM rendelethez[^33]
 
-[^28]: A 3. mellékletet a 17/2012. (VII. 5.) NGM rendelet 5. § (14) bekezdés d) pontja hatályon kívül helyezte.
+[^33]: A 3. mellékletet a 17/2012. (VII. 5.) NGM rendelet 5. § (14) bekezdés d) pontja hatályon kívül helyezte.
