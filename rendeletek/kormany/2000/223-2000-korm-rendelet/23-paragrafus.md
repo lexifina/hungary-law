@@ -20,7 +20,7 @@ c) a likviditási céltartalékból a tartaléktőkébe átcsoportosított eszk�
 
 d)[^51]
 
-e)[^52] az Öpt. 14. § (3) bekezdésében foglaltak alapján a tagdíjat nem fizető pénztártag egyéni számlájáról működési célra átvezetett összeget.
+e)[^52]
 
 (7) Tartaléktőke csökkenéseként kell kimutatni:
 
@@ -39,6 +39,6 @@ c) a tartaléktőkéből a likviditási céltartalékba átcsoportosított eszk�
 [^49]: A 23. § (1) bekezdése a 288/2002. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
 [^50]: A 23. § (2) bekezdése a 288/2002. (XII. 23.) Korm. rendelet 11. §-ával megállapított, a 484/2015. (XII. 29.) Korm. rendelet 44. § 1. pontja szerint módosított szöveg.
 [^51]: A 23. § (6) bekezdésének d) pontját a 288/2002. (XII. 23.) Korm. rendelet 28. §-ának (2) bekezdése hatályon kívül helyezte.
-[^52]: A 23. § (6) bekezdésének e) pontja a 182/2009. (IX. 10.) Korm. rendelet 200. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^52]: A 23. § (6) bekezdés e) pontját a 445/2017. (XII. 27.) Korm. rendelet 14. § 1. pontja hatályon kívül helyezte.
 [^53]: A 23. § (8) bekezdése a 288/2002. (XII. 23.) Korm. rendelet 28. §-ának (2) bekezdése, a 484/2015. (XII. 29.) Korm. rendelet 42. § 1. pontja szerint módosított szöveg.
 [^54]: A 23. § (9)–(10) bekezdését a 288/2002. (XII. 23.) Korm. rendelet 28. §-ának (2) bekezdése hatályon kívül helyezte.

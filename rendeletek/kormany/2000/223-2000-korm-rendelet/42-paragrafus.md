@@ -36,7 +36,7 @@
 
 (18)[^158] A pénztártagnak éven belüli visszafizetési kötelezettséggel nyújtott tagi kölcsönből a lejárati időn belül vissza nem fizetett tőketartozás, valamint a felvett kölcsön után felszámított időarányos kamat összegével a pénztártag egyéni számláját kell megterhelni oly módon, hogy a tőketartozás összegével a tagi kölcsönök állományát kell csökkenteni az egyéni számla kötelezettség teljesítése alszámlájával szemben, a kölcsön után járó időarányos kamatot a fedezeti tartalék kamatbevételeként kell elszámolni az egyéni számla kötelezettség teljesítése alszámlájával szemben.
 
-(19)[^159] Amennyiben a pénztártag a tagdíjat a pénztár alapszabályában megjelölt időtartamon túl nem fizeti (a tagdíj meg nem fizetés kezdő időpontja), a tag egyéni nyugdíjszámlájának befektetéséből származó hozama csökkenthető a mindenkori pénztári egységes tagdíjnak a működési és likviditási tartalékra jutó hányadnak megfelelő összeggel, de legfeljebb a hozam összegével. A működési és a likviditási tartalékot megillető összeggel az egyéni számlán jóváírt hozambevételekből képzett céltartalékot kell csökkenteni.
+(19)[^159] Amennyiben a pénztártag a tagdíjat a pénztár alapszabályában megjelölt időtartamon túl nem fizeti, a tag egyéni nyugdíjszámlájának befektetéséből származó hozama csökkenthető a mindenkori pénztári egységes tagdíjnak a működési és likviditási tartalékra jutó hányadnak megfelelő összeggel, de legfeljebb a hozam összegével. A működési, illetve a likviditási tartalékot megillető összeget működési célú, illetve likviditási célú egyéb bevételként kell elszámolni az egyéni számlákon jóváírt, realizált hozambevételekből képzett céltartalék igénybevétele alszámlával szemben.
 
 (20) A devizában vásárolt külföldi értékpapírokat a 0. számlaosztályban értékpapíronkénti és devizánkénti megbontásban kell kimutatni.
 
@@ -51,5 +51,5 @@
 [^156]: A 42. § (14) bekezdése a 285/2005. (XII. 20.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^157]: A 42. § (17) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 60. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
 [^158]: A 42. § (18) bekezdése a 352/2004. (XII. 22.) Korm. rendelet 19. §-ának (4) bekezdése szerint módosított szöveg, e módosító rendelet 18. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^159]: A 42. § (19) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^159]: A 42. § (19) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^160]: A 42. § (21) bekezdését a 352/2004. (XII. 22.) Korm. rendelet 7. §-a iktatta be, e módosító rendelet 18. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
