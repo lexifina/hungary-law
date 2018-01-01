@@ -8,10 +8,10 @@
 
 (4) Az OAH, illetve a rendőrség helyszíni ellenőrzést előzetes értesítés alapján, vagy előzetes értesítés nélkül folytathat le. Az előzetes értesítés tartalmazza az ellenőrzés időpontját, helyszínét és tárgyát, valamint az ellenőrzést végző személy nevét és elérhetőségét.
 
-(4a)[^52] Az OAH és a rendőrség az ellenőrzési programban nem szereplő ellenőrzés időpontjáról, céljáról, legalább az ellenőrzést megelőző munkanapon, vagy ha ez nem lehetséges, legkésőbb az ellenőrzést közvetlenül megelőzően egymást tájékoztatja. A felvett jegyzőkönyv és a hivatalos feljegyzés megküldésére a (3) bekezdésben foglaltak az irányadók.
+(4a)[^51] Az OAH és a rendőrség az ellenőrzési programban nem szereplő ellenőrzés időpontjáról, céljáról, legalább az ellenőrzést megelőző munkanapon, vagy ha ez nem lehetséges, legkésőbb az ellenőrzést közvetlenül megelőzően egymást tájékoztatja. A felvett jegyzőkönyv és a hivatalos feljegyzés megküldésére a (3) bekezdésben foglaltak az irányadók.
 
 (5) Az ellenőrzést úgy kell lefolytatni, hogy az ellenőrzési tevékenység a lehető legkevésbé akadályozza a nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója üzemeltetését, a nukleáris anyag, radioaktív sugárforrás alkalmazását, tárolását és szállítását, valamint a radioaktív hulladék feldolgozását, tárolását és szállítását.
 
 (6) Az ellenőrzésről 3 példányban jegyzőkönyv készül, amit az ellenőrzést végző hatóság és az ellenőrzött szervezet képviselője ír alá.
 
-[^52]: A 34. § (4a) bekezdését a 37/2012. (III. 9.) Korm. rendelet 18. §-a iktatta be.
+[^51]: A 34. § (4a) bekezdését a 37/2012. (III. 9.) Korm. rendelet 18. §-a iktatta be.

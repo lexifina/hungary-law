@@ -12,25 +12,11 @@ c)[^42] az A-, B- vagy C-szintű fizikai védelmet igénylő nukleáris anyag, r
 
 d) az engedélyezett fizikai védelmi rendszer átalakításához, amennyiben az átalakításhoz szükséges a fizikai védelmi terv módosítása.
 
-(1a)[^43] Az (1) bekezdés a) pontja szerinti engedély kiadására irányuló eljárásban
+(1a)[^43]
 
-a) nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója esetében hat hónap,
+(1b)–(1c)[^44]
 
-b) a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék fizikai védelmi rendszere esetében harminc nap
-
-## az ügyintézési határidő. Az ügyintézési határidő indokolt esetben egy alkalommal, nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója esetében legfeljebb kilencven nappal, a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék fizikai védelmi rendszere esetében harminc nappal meghosszabbítható. Az ügyintézési határidő meghosszabbításáról az OAH értesíti az ügyfelet és mindazokat, akiket az eljárás megindításáról értesített.
-
-(1b)[^44] Az (1) bekezdés b) és d) pontja szerinti engedély kiadására irányuló eljárásban
-
-a) nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója esetében kilencven nap,
-
-b) a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék fizikai védelmi rendszere esetében harminc nap
-
-## az ügyintézési határidő. Az ügyintézési határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható. Az ügyintézési határidő meghosszabbításáról az OAH értesíti az ügyfelet és mindazokat, akiket az eljárás megindításáról értesített.
-
-(1c)[^45] Az (1) bekezdés c) pontja szerinti engedély kiadására irányuló eljárásban az ügyintézési határidő harminc nap, amely indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható. Az ügyintézési határidő meghosszabbításáról az OAH értesíti az ügyfelet és mindazokat, akiket az eljárás megindításáról értesített.
-
-(2)[^46] Az (1) bekezdés a) pontja szerinti engedély iránti kérelmet az első nukleáris anyag, radioaktív hulladék vagy radioaktív sugárforrás helyszínre való érkezése előtt legalább 1 hónappal, átmeneti és végleges radioaktívhulladék-tároló esetében legalább hat hónappal, létesíteni tervezett nukleáris létesítmény esetében a létesítési engedély iránti kérelemmel egyidejűleg kell benyújtani.
+(2)[^45] Az (1) bekezdés a) pontja szerinti engedély iránti kérelmet az első nukleáris anyag, radioaktív hulladék vagy radioaktív sugárforrás helyszínre való érkezése előtt legalább 1 hónappal, átmeneti és végleges radioaktívhulladék-tároló esetében legalább hat hónappal, létesíteni tervezett nukleáris létesítmény esetében a létesítési engedély iránti kérelemmel egyidejűleg kell benyújtani.
 
 (3) Az (1) bekezdés a)–c) pontja szerinti engedély iránti kérelemhez csatolni kell a nukleáris létesítmény, kivéve 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt, radioaktív hulladék átmeneti és végleges tárolója, valamint alkalmazott, tárolt és szállított nukleáris anyag, radioaktív sugárforrás, továbbá a feldolgozott, tárolt és szállított radioaktív hulladék fizikai védelmi tervét.
 
@@ -40,19 +26,18 @@ b) a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék fizik
 
 (6) Az engedély 5 évig érvényes, kivéve A- vagy B-szintű fizikai védelmet igénylő nukleáris anyag, radioaktív sugárforrás vagy radioaktív hulladék szállítása esetén, amikor az engedély az adott szállításra vonatkozóan érvényes.
 
-(6a)[^47] Az engedély az abban foglalt tevékenység megszüntetésének bejelentésével hatályát veszti. A kötelezett a tevékenység megszüntetését legalább 30 nappal a tevékenység megszüntetését megelőzően köteles az OAH-nak írásban bejelenteni. Az OAH a bejelentés tudomásul vételéről 15 napon belül írásban tájékoztatja a bejelentőt.
+(6a)[^46] Az engedély az abban foglalt tevékenység megszüntetésének bejelentésével hatályát veszti. A kötelezett a tevékenység megszüntetését legalább 30 nappal a tevékenység megszüntetését megelőzően köteles az OAH-nak írásban bejelenteni. Az OAH a bejelentés tudomásul vételéről 15 napon belül írásban tájékoztatja a bejelentőt.
 
 (7) Az (1) bekezdés b) pontja szerinti engedély iránti kérelmet az engedély érvényességének lejárta előtt legkésőbb 1 hónappal, nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója esetében legkésőbb 6 hónappal kell benyújtani.
 
-(8)[^48] Az OAH az A- vagy B-szintű fizikai védelmet igénylő szállítás útvonaláról tájékoztatja a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Főügyeletét és az Országos Rendőr-főkapitányságot.
+(8)[^47] Az OAH az A- vagy B-szintű fizikai védelmet igénylő szállítás útvonaláról tájékoztatja a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Főügyeletét és az Országos Rendőr-főkapitányságot.
 
-(9)[^49] A 6–30. §-ban foglalt követelmények teljesítése esetén a 2., 3. és 6. mellékletben meghatározott követelményektől való eltérést az OAH a rendőrség bevonásával engedélyezi.
+(9)[^48] A 6–30. §-ban foglalt követelmények teljesítése esetén a 2., 3. és 6. mellékletben meghatározott követelményektől való eltérést az OAH a rendőrség bevonásával engedélyezi.
 
 [^42]: A 32. § (1) bekezdés c) pontja a 488/2015. (XII. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^43]: A 32. § (1a) bekezdését a 139/2014. (IV. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 207/2015. (VII. 23.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^44]: A 32. § (1b) bekezdését a 207/2015. (VII. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^45]: A 32. § (1c) bekezdését a 207/2015. (VII. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^46]: A 32. § (2) bekezdése a 217/2013. (VI. 21.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^47]: A 32. § (6a) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (5) bekezdése iktatta be.
-[^48]: A 32. § (8) bekezdése a 488/2015. (XII. 30.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
-[^49]: A 32. § (9) bekezdése a 357/2014. (XII. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^43]: A 32. § (1a) bekezdését a 139/2014. (IV. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 343. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^44]: A 32. § (1b)–(1c) bekezdését a 207/2015. (VII. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 343. § b) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^45]: A 32. § (2) bekezdése a 217/2013. (VI. 21.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^46]: A 32. § (6a) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (5) bekezdése iktatta be.
+[^47]: A 32. § (8) bekezdése a 488/2015. (XII. 30.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^48]: A 32. § (9) bekezdése a 357/2014. (XII. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
