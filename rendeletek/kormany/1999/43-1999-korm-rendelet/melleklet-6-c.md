@@ -138,6 +138,6 @@
 
 ## az ellátásért felelős orvos azonosítója és aláírása
 
-6/C. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^613]
+6/C. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^621]
 
-[^613]: A 6/C. számú mellékletet a 464/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^621]: A 6/C. számú mellékletet a 464/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdése iktatta be.
