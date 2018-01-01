@@ -4,6 +4,8 @@
 
 (3) A fellebbezési díjat az Országos Rendőr-főkapitányság számlájára, a Magyar Államkincstárnál vezetett 2. mellékletben meghatározott előirányzat-felhasználási keretszámlára kell teljesíteni.
 
-(4) Az 1. mellékletben meghatározott igazgatási szolgáltatási díj átutaláson kívül fizetési számlára történő készpénzbefizetéssel is teljesíthető.
+(4)[^1] Az 1. mellékletben meghatározott igazgatási szolgáltatási díj átutalással teljesíthető.
 
 (5) Az elsőfokú döntést hozó hatóság döntése ellen benyújtott fellebbezés díja az 1. mellékletben meghatározott igazgatási szolgáltatási díj 50%-a, amelyet a fellebbezés benyújtásával egyidejűleg kell a (4) bekezdésben meghatározott módon befizetni.
+
+[^1]: Az 1. § (4) bekezdése a 44/2017. (XII. 29.) BM rendelet 84. §-a szerint módosított szöveg.
