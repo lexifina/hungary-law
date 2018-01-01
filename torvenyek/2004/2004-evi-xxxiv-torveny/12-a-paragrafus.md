@@ -1,4 +1,4 @@
-12/A. § (1) A hatósági ellenőrzést végző szervek kis- és középvállalkozásokkal szemben az első esetben előforduló jogsértés esetén – az adó- és vámhatósági eljárást és a felnőttképzési tevékenységet folytató intézmények ellenőrzésére irányuló eljárást kivéve – bírság kiszabása helyett figyelmeztetést alkalmaznak, illetve kötelesek megvizsgálni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (1) bekezdés a) pontjában szabályozott eljárás alkalmazásának lehetőségét.
+12/A. § (1) A hatósági ellenőrzést végző szervek a kis- és középvállalkozásokkal szemben az első esetben előforduló jogsértés esetén – az adó- és vámhatósági eljárást és a felnőttképzési tevékenységet folytató intézmények ellenőrzésére irányuló eljárást kivéve – bírság kiszabása helyett figyelmeztetést alkalmaznak.
 
 (2) Nincs lehetőség a bírságtól való eltekintésre, ha
 
