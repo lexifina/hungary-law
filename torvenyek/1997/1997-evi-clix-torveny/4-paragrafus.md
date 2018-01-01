@@ -16,7 +16,7 @@ f) ellenőrzi a fegyveres biztonsági őr alkalmassága elbírálásához szüks
 
 (3) Ha a rendőrség a hatósági ellenőrzés során azt állapítja meg, hogy
 
-a) az 1. § (3) bekezdése szerinti, jogerős határozatban elrendelt fegyveres biztonsági őrséget az abban meghatározott határidőig a kötelezett nem hozta létre, vagy a kötelezett a fegyveres biztonsági őrzésről az arra jogosult szervezettel kötött szerződés útján nem gondoskodik,
+a) az 1. § (3) bekezdése szerinti, végleges határozatban elrendelt fegyveres biztonsági őrséget az abban meghatározott határidőig a kötelezett nem hozta létre, vagy a kötelezett a fegyveres biztonsági őrzésről az arra jogosult szervezettel kötött szerződés útján nem gondoskodik,
 
 b) a fegyveres biztonsági őrséget a kötelezett engedély nélkül megszüntette,
 

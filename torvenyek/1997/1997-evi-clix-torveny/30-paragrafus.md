@@ -10,6 +10,8 @@
 
 (4) Felhatalmazást kap a Kormány, hogy az atomenergia alkalmazása körében elrendelt fegyveres biztonsági őrség tekintetében a fizikai állóképességre és az iskolai végzettségre vonatkozó követelményeket meghatározza.
 
+(4a) Felhatalmazást kap a Kormány, hogy az e törvény szerinti közigazgatási hatósági eljárások vonatkozásában az általános közigazgatási rendtartásról szóló törvény rendelkezéseitől eltérő és azokat kiegészítő közigazgatási hatósági eljárási szabályokat rendeletben állapítsa meg.
+
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a honvédelemért felelős miniszterrel, a polgári hírszerzési tevékenység irányításáért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben rendeletben meghatározza a fegyveres biztonsági őrség működési és szolgálati szabályzatát, ennek keretében különösen a fegyveres biztonsági őrség keretében végzett szolgálat irányítási, szervezési, tervezési és ellenőrzési szabályait, a szolgálat ellátásához kapcsolódó képesítési feltételeket, a képzési és a továbbképzési renddel összefüggő szabályokat, a 7. §-ban előírt vizsga követelményeit és a vizsgáztatás rendjét, a szolgálatellátási renddel összefüggő szabályokat, a kényszerítő eszközök – különös tekintettel a lőfegyverre – alkalmazásával kapcsolatos részletes szabályokat.
 
 (6) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a rendészetért felelős miniszterrel – a közúton a jármű megállításával és ellenőrzésével kapcsolatban a közlekedésért felelős miniszterrel – egyetértésben rendelettel adja ki a mezőőr és a hegyőr működésének, szolgálati viszonyának, valamint vizsgáztatási rendjének szabályzatát.
