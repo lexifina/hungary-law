@@ -30,13 +30,13 @@ i) a gazdasági szereplő személyes joga szerinti, az a)–h) alpontban felsoro
 
 5. gazdasági, illetve szakmai tevékenységével kapcsolatban bűncselekmény elkövetése az elmúlt három éven belül jogerős bírósági ítéletben megállapítást nyert,
 
-6. három évnél nem régebben meghozott, jogerős bírósági, közigazgatási (vagy annak felülvizsgálata esetén bírósági határozat) megállapította, hogy valamely korábbi beszerzési eljárás, vagy az eljárás eredményeképp megkötött szerződés teljesítése során megszegte az információk biztonságával vagy az ellátás biztonságával kapcsolatos kötelezettségeit,
+6. vonatkozásában három évnél nem régebben meghozott, jogerős bírósági, vagy végleges közigazgatási vagy annak megtámadására irányuló közigazgatási per esetén jogerős bírósági határozat megállapította, hogy valamely korábbi beszerzési eljárás, vagy az eljárás eredményeképp megkötött szerződés teljesítése során megszegte az információk biztonságával vagy az ellátás biztonságával kapcsolatos kötelezettségeit,
 
 7. tevékenységét a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 5. § (2) bekezdés b) pontja alapján, vagy az adott beszerzési eljárásban releváns módon c) vagy g) pontja alapján a bíróság jogerős ítéletében korlátozta, az eltiltás ideje alatt, vagy ha az ajánlattevő tevékenységét más bíróság hasonló okból és módon jogerősen korlátozta,
 
-8. beszerzési, közbeszerzési eljárásokban való részvételtől a a jogorvoslati szerv által jogerősen eltiltásra került, a jogerőre emelkedett határozatban megállapított időtartam végéig,
+8. beszerzési, közbeszerzési eljárásokban való részvételtől véglegesen vagy jogerősen eltiltásra került, a Közbeszerzési Döntőbizottság véglegesen vagy – a Közbeszerzési Döntőbizottság határozatának megtámadására irányuló közigazgatási per esetén – a bíróság által jogerősen megállapított időtartam végéig,
 
-9. korábbi beszerzési, közbeszerzési eljárásban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, ezért az eljárásból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor az érintett közbeszerzési, vagy beszerzési eljárás lezárulásától számított három évig,
+9. korábbi beszerzési vagy közbeszerzési eljárásban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, ezért az eljárásból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor, az érintett eljárás lezárulásától számított három évig, vagy amennyiben a kizárás tekintetében sor került jogorvoslatra és az ajánlatkérő kizárásról hozott döntését a hamis adat szolgáltatásának megállapítása mellett a Közbeszerzési Döntőbizottság véglegessé vált – a Közbeszerzési Döntőbizottság határozatának közigazgatási perben történő megtámadása esetén a bíróság jogerős – három évnél nem régebben meghozott határozata jogszerűnek mondta ki,
 
 10. az adott eljárásban előírt adatszolgáltatási kötelezettség teljesítése során a hamis adatot szolgáltat, illetve hamis adatot tartalmazó nyilatkozatot tesz, ha
 
@@ -50,21 +50,21 @@ b) a gazdasági szereplő szándékosan szolgáltatott hamis adatot vagy tett ha
 
 a) nem az Európai Unió, az Európai Gazdasági Térség vagy a Gazdasági Együttműködési és Fejlesztési Szervezet tagállamában, a Kereskedelmi Világszervezet közbeszerzési megállapodásban részes államban vagy az EUMSZ 198. cikkében említett tengerentúli országok és területek bármelyikében vagy nem olyan államban rendelkezik adóilletőséggel, amellyel Magyarországnak kettős adózás elkerüléséről szóló egyezménye van, vagy amellyel az Európai Uniónak kétoldalú megállapodása van a közbeszerzés terén,
 
-b) olyan szabályozott tőzsdén nem jegyzett társaság, amely a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 3. § r) pont ra)–rb) vagy rc)–rd) alpontja szerinti tényleges tulajdonosát nem képes megnevezni, vagy
+b) olyan társaság, amely a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pont a)–b) vagy d) alpontja szerinti tényleges tulajdonosát nem képes megnevezni, vagy
 
 c) a gazdasági szereplőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik olyan jogi személy vagy személyes joga szerint jogképes szervezet, amelynek tekintetében a b) alpont szerinti feltétel fennáll;
 
-13. harmadik országbeli állampolgár Magyarországon engedélyhez kötött foglalkoztatása esetén a munkaügyi hatóság által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 7/A. §-a alapján két évnél nem régebben jogerőre emelkedett közigazgatási – vagy annak felülvizsgálata esetén bírósági – határozatban megállapított és a központi költségvetésbe történő befizetésre kötelezéssel vagy az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti közrendvédelmi bírsággal sújtott jogszabálysértést követett el,
+13. harmadik országbeli állampolgár Magyarországon engedélyhez kötött foglalkoztatása esetén a munkaügyi hatóság által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 7/A. §-a alapján két évnél nem régebben véglegessé vált közigazgatási – vagy annak megtámadására irányuló közigazgatási per esetén jogerős bírósági – határozatban megállapított és a központi költségvetésbe történő befizetésre kötelezéssel vagy az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti közrendvédelmi bírsággal sújtott jogszabálysértést követett el,
 
 14. esetében a 9. § szerinti összeférhetetlenségből, illetve a beszerzési eljárás előkészítésében való előzetes bevonásból eredő versenytorzulást a gazdasági szereplő kizárásán kívül nem lehet más, kevésbé kényszerítő intézkedésekkel hatékonyan orvosolni,
 
-15. a Tpvt. 11. §-a, vagy az EUMSZ 101. cikke szerinti – három évnél nem régebben meghozott – jogerős és végrehajtható versenyfelügyeleti határozatban vagy a versenyfelügyeleti határozat bírósági felülvizsgálata esetén a bíróság jogerős és végrehajtható határozatában megállapított és bírsággal sújtott jogszabálysértést követett el; vagy ha az ajánlattevő ilyen jogszabálysértését más versenyhatóság vagy bíróság – három évnél nem régebben – jogerősen megállapította és egyúttal bírságot szabott ki,
+15. a Tpvt. 11. §-a, vagy az EUMSZ 101. cikke szerinti – három évnél nem régebben meghozott – véglegessé vált és végrehajtható versenyfelügyeleti határozatban vagy a versenyfelügyeleti határozat megtámadására irányuló közigazgatási per esetén a bíróság jogerős és végrehajtható határozatában megállapított és bírsággal sújtott jogszabálysértést követett el; vagy ha az ajánlattevő ilyen jogszabálysértését más versenyhatóság végleges döntésében vagy bíróság jogerősen – három évnél nem régebben – megállapította és egyúttal bírságot szabott ki,
 
 16. esetében az ajánlatkérő kellően megalapozott információval rendelkezik annak megállapításához, hogy az adott beszerzési eljárásban az ajánlattevő a Tpvt. 11. §-a, vagy az EUMSZ 101. cikkébe ütköző jogsértést követett el, kivéve, ha a gazdasági szereplő az ajánlat, tárgyalásos eljárásban és versenypárbeszédben végleges ajánlat benyújtását megelőzően a Gazdasági Versenyhivatal számára a Tpvt. 11. §-ába vagy az EUMSZ 101. cikkébe ütköző magatartást feltárja és a Tpvt. 78/A. § (2) bekezdésében foglalt, a bírság mellőzésére vonatkozó feltételek fennállását a Gazdasági Versenyhivatal a Tpvt. 78/C. § (2) bekezdése szerinti végzésében megállapította,
 
 17. a tevékenység végzéséhez a letelepedése szerinti országban előírt engedéllyel, illetve előírt szervezeti, kamarai tagsággal nem rendelkezik, vagy
 
-18. a 101. § szerinti előleget nem a szerződésnek megfelelően használta fel, és ezt három évnél nem régebben meghozott, jogerős bírósági, közigazgatási, vagy annak felülvizsgálata esetén bírósági határozat megállapította.
+18. a 101. § szerinti előleget nem a szerződésnek megfelelően használta fel, és ezt három évnél nem régebben meghozott, jogerős bírósági, véglegessé vált közigazgatási vagy annak megtámadására irányuló közigazgatási per esetén jogerős bírósági határozat megállapította.
 
 (2) A gazdasági szereplő akkor sem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, és nem vehet részt ajánlattevő vagy részvételre jelentkező alkalmasságának igazolásában, ha
 

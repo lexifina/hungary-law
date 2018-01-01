@@ -1,4 +1,4 @@
-155. § (1) A beszerzési ügy kérelmezője, az ellenérdekű ügyfél, továbbá ezek képviselője az eljárás megindításától számított tizedik napig betekinthet a beszerzési eljárás, illetve a jogorvoslati eljárás során keletkezett iratokba, és azokról másolatot, feljegyzést készíthet.
+155. § (1) Az ügyfél az eljárás megindításától számított tizedik napig, a beszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosításával vagy teljesítésével kapcsolatos jogorvoslati eljárásban az eljárás megindításától számított harmincadik napig betekinthet a beszerzési eljárás, illetve a jogorvoslati eljárás során keletkezett iratokba, és azokról másolatot, feljegyzést készíthet.
 
 (2) Az ajánlatkérő, a részvételre jelentkező és az ajánlattevő – az üzleti titok védelmére hivatkozással – indokolt kérelmében kérheti az (1) bekezdés szerinti személyek iratbetekintési jogának kizárását vagy korlátozását az olyan iratok vagy adatok tekintetében, amelyek nem minősülnek közérdekű adatnak vagy közérdekből nyilvános adatnak.
 

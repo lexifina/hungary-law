@@ -1,6 +1,6 @@
 ## 79. A jogorvoslati eljárás
 
-142. § (1) A Közbeszerzési Döntőbizottság eljárása kérelemre indul.
+142. § (1) A Közbeszerzési Döntőbizottság eljárása kérelemre indul. Az eljárás megindítására irányuló kérelem kizárólag írásban – a 139. § (1a) bekezdés a) pontjában foglaltak szerint –, a Közbeszerzési Döntőbizottság előtt terjeszthető elő.
 
 (2) Kérelmet nyújthat be az ajánlatkérő, a részvételre jelentkező, közös részvételi jelentkezés esetén bármelyik részvételre jelentkező, az ajánlattevő, közös ajánlattétel esetén bármelyik ajánlattevő, vagy az egyéb érdekelt, akinek jogát vagy jogos érdekét az e törvénybe ütköző tevékenység vagy mulasztás sérti vagy veszélyezteti (a továbbiakban együtt: kérelmező).
 

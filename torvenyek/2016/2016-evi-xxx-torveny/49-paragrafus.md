@@ -4,7 +4,7 @@ a) az előző legfeljebb öt év legjelentősebb szállításainak ismertetésé
 
 b) a műszaki-technikai felszereltségének, a minőség biztosítása érdekében tett intézkedéseinek, illetve vizsgálati és kutatási eszközeinek leírásával,
 
-c) azoknak a szakembereknek, szervezeteknek, illetve vezetőknek a megnevezésével, képzettségük ismertetésével, akiket be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
+c) azoknak a szakembereknek, szervezeteknek, illetve vezetőknek a megnevezésével, képzettségük, szakmai tapasztalatuk ismertetésével, akiket be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
 
 d) a beszerzendő áru leírásával, mintapéldányának, illetve fényképének bemutatásával, amelynek hitelességét az ajánlatkérő felhívására igazolni kell,
 
@@ -20,11 +20,11 @@ h) a minősített adatokat érintő, igénylő vagy tartalmazó beszerzési szer
 
 a) az előző legfeljebb öt év legjelentősebb szolgáltatásainak ismertetésével, melynek tartalmaznia kell legalább a szerződés tárgya, mennyisége, vagy az ellenszolgáltatás összege, a teljesítés helye és ideje, a szerződést kötő másik fél megnevezése ismertetését, és az arra vonatkozó nyilatkozatot, hogy a teljesítés szerződésszerűen történt-e, az ajánlatkérő jogosult előírni az alkalmasság megállapításához szükséges további adat megadását is,
 
-b) az ajánlattevő vagy részvételre jelentkező, illetve vezető tisztségviselői végzettségének és képzettségének ismertetésével, és különösen azon személyek végzettségének és képzettségének ismertetésével, akik a szolgáltatás teljesítéséért felelősek,
+b) az ajánlattevő vagy részvételre jelentkező, illetve vezető tisztségviselői végzettségének, képzettségének és szakmai tapasztalatának ismertetésével, és különösen azon személyek végzettségének, képzettségének és szakmai tapasztalatának ismertetésével, akik a szolgáltatás teljesítéséért felelősek,
 
 c) az előző legfeljebb három évre vonatkozóan az éves átlagos statisztikai állományi létszámáról és vezető tisztségviselőinek létszámáról készült kimutatással,
 
-d) azoknak a szakembereknek, szervezeteknek, illetve vezetőknek a megnevezésével, képzettségük ismertetésével, akiket be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
+d) azoknak a szakembereknek, szervezeteknek, illetve vezetőknek a megnevezésével, képzettségük, szakmai tapasztalatuk ismertetésével, akiket be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
 
 e) a teljesítéshez rendelkezésre álló eszközök, berendezések, illetve műszaki felszereltség leírásával,
 
@@ -46,11 +46,11 @@ aa) az építési beruházások értéke, teljesítésének időpontja, helyszí
 
 ab) annak igazolása, hogy az építési beruházások a szakmai szabályoknak megfelelően valósultak meg, és azokat szabályszerűen fejezték be;
 
-b) az ajánlattevő vagy részvételre jelentkező, valamint vezető tisztségviselői végzettségének és képzettségének ismertetésével, különösen azon személyek végzettségének és képzettségének ismertetésével, akik az építési beruházás teljesítéséért felelősek,
+b) az ajánlattevő vagy részvételre jelentkező, valamint vezető tisztségviselői végzettségének, képzettségének és szakmai tapasztalatának ismertetésével, különösen azon személyek végzettségének, képzettségének és szakmai tapasztalatának ismertetésével, akik az építési beruházás teljesítéséért felelősek,
 
 c) az előző legfeljebb három évre vonatkozóan az éves átlagos statisztikai állományi létszámáról és vezető tisztségviselőinek létszámáról készült kimutatással,
 
-d) azoknak a szakembereknek vagy szervezeteknek és vezetőknek a megnevezésével, képzettségük ismertetésével, akiket az ajánlattevő be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
+d) azoknak a szakembereknek vagy szervezeteknek és vezetőknek a megnevezésével, képzettségük, szakmai tapasztalatuk ismertetésével, akiket az ajánlattevő be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
 
 e) a teljesítéshez rendelkezésre álló eszközök, berendezések és műszaki felszereltség leírásával,
 

@@ -2,7 +2,7 @@
 
 170. § (1) Az e törvény alapján beszedett igazgatási szolgáltatási díjak a Közbeszerzési Hatóság saját bevételét képezik, amelyet törvényben előírt feladatai teljesítése során felmerülő kiadásokra kell fordítani.
 
-(2) A Közbeszerzési Hatóság – a díjfizetési kötelezettség teljesítésének ellenőrzéséhez – a befizetett igazgatási szolgáltatási díjakról, rendbírságról, bírságról külön nyilvántartást vezet. A Közbeszerzési Hatóság a Pp. 339. § (1) bekezdésére és 339. § (2) bekezdés q) pontjára, valamint e törvény vonatkozó rendelkezéseire tekintettel a tárgyévben keletkezett visszafizetési kötelezettségeivel csökkentett összegű tárgyévi bírság bevételeivel a december 31-i állapot szerint köteles elszámolni. A díjak, a rendbírság, a bírság nyilvántartására, kezelésére és elszámolására egyebekben az államháztartás számviteléről szóló jogszabályt kell alkalmazni.
+(2) A Közbeszerzési Hatóság – a díjfizetési kötelezettség teljesítésének ellenőrzéséhez – a befizetett igazgatási szolgáltatási díjakról, rendbírságról, bírságról külön nyilvántartást vezet. A Közbeszerzési Hatóság a közigazgatási ügyben eljáró bíróság keresetnek helyt adó ítéletére, valamint e törvény vonatkozó rendelkezéseire tekintettel a tárgyévben keletkezett visszafizetési kötelezettségeivel csökkentett összegű tárgyévi bírság bevételeivel a december 31-i állapot szerint köteles elszámolni. A díjak, a rendbírság, a bírság nyilvántartására, kezelésére és elszámolására egyebekben az államháztartás számviteléről szóló jogszabályt kell alkalmazni.
 
 (3) Az (1) bekezdés szerinti igazgatási szolgáltatási díjak tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.)
 

@@ -14,7 +14,7 @@ e) egyéb módon nem felel meg az ajánlattételi vagy részvételi felhívásba
 
 (2) Az (1) bekezdésben foglaltakon túl az ajánlat érvénytelen, ha aránytalanul alacsony ellenszolgáltatást vagy más teljesíthetetlen feltételt tartalmaz.
 
-(3) Az (1) bekezdésben foglaltakon túl a részvételi jelentkezés az 57. § (3) bekezdésére figyelemmel érvénytelen, ha a részvételre jelentkező ajánlatot tesz.
+(3) Az (1) bekezdésben foglaltakon túl a részvételi jelentkezés az 51. § (3) bekezdésére figyelemmel érvénytelen, ha a részvételre jelentkező ajánlatot tesz.
 
 (4) Az (1) bekezdés e) pontja alapján érvénytelen különösen az ajánlat,
 

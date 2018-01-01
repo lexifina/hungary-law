@@ -10,9 +10,13 @@ b) megállapítja a jogsértés megtörténtét,
 
 c) megállapítja a jogsértés megtörténtét és alkalmazza a (3) bekezdésben felsorolt jogkövetkezményeket,
 
-d) az (5) bekezdésben meghatározott esetekben a jogsértés megállapítása mellett bírságot szab ki, vagy
+d) az (5) bekezdésben meghatározott esetekben a jogsértés megállapítása mellett bírságot szab ki,
 
-e) megállapítja a jogsértés megtörténtét és eltiltja az ajánlattevőt, alvállalkozót vagy a beszerzési eljárásban részt vett más szervezetet vagy személyt a beszerzési eljárásban való részvételtől.
+e) megállapítja a jogsértés megtörténtét és eltiltja az ajánlattevőt, alvállalkozót vagy a beszerzési eljárásban részt vett más szervezetet vagy személyt a beszerzési eljárásban való részvételtől,
+
+f) hivatalból megállapítja a 104. § (1) bekezdésében meghatározott jogsértés esetén a szerződés semmisségét vagy a 104. § (4) bekezdésében foglalt feltételek fennállása esetén azt, hogy az érintett szerződés nem semmis,
+
+g) megállapítja, hogy a 104. § (1) bekezdésében meghatározott jogsértés miatt semmis szerződés esetén az érvénytelenség jogkövetkezményei alkalmazása körében az eredeti állapot helyreállítható-e.
 
 (3) Ha a Közbeszerzési Döntőbizottság határozatában jogsértést állapít meg,
 
@@ -39,6 +43,10 @@ c) a szerződést hirdetmény nélküli tárgyalásos eljárás eredményeként 
 a) az a beszerzési eljárás során, illetve beszerzési eljárással kapcsolatban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett és a kizárásnak a 45. § (1) bekezdés 10. pontja szerinti feltételei fennállnak, vagy
 
 b) az a beszerzési eljárásban megkísérelte jogtalanul befolyásolni az ajánlatkérő döntéshozatali folyamatát, vagy olyan bizalmas információt kísérelt megszerezni, amely jogtalan előnyt biztosítana számára a közbeszerzési eljárásban.
+
+(7a) A 104. § (1) bekezdése szerinti jogsértés megállapítása esetén, ha a Közbeszerzési Döntőbizottság megállapítja, hogy a szerződés a 104. § (4) bekezdésében foglalt feltételek fennállására tekintettel nem semmis, a (6) és (7) bekezdésben foglaltakon túl további bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
+
+(7b) A 104. § (1) bekezdése szerinti jogsértés megállapítása esetén, ha a Közbeszerzési Döntőbizottság megállapítja, hogy az eredeti állapot helyreállítása a szerződés érvénytelensége jogkövetkezményei alkalmazása körében nem lesz lehetséges, a (6) és (7) bekezdésben foglaltakon túl további bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
 
 (8) A Közbeszerzési Döntőbizottság a (2) bekezdés e) pontja alapján a jogsértés megállapítása mellett eltiltja az ajánlattevőt, alvállalkozót vagy a beszerzési eljárásban részt vett más szervezetet vagy személyt – a (10) bekezdésben foglaltak figyelembevételével – a beszerzési eljárásban való részvételtől, ha a 9. § szerinti összeférhetetlenségből, illetve a beszerzési eljárás előkészítésébe való előzetes bevonásból eredő versenytorzulást az adott eljárásban való részvételtől való eltiltásán kívül nem lehet más, kevésbé kényszerítő intézkedésekkel hatékonyan orvosolni.
 

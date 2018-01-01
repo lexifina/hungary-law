@@ -1,4 +1,4 @@
-44. § (1) Az ajánlatkérő a részvételi, ajánlattételi felhívásban, a dokumentációban, az ismertetőben, illetve a kiegészítő iratokban megállapítja az ellátás biztonságára vonatkozó követelményeket. Az ajánlatkérő előírhatja, hogy az ajánlat tartalmazza többek között a következőket:
+44. § (1) Az ajánlatkérő a részvételi, ajánlattételi felhívásban, a dokumentációban, az ismertetőben, illetve a kiegészítő iratokban megállapítja az ellátás biztonságára vonatkozó követelményeket. Az ajánlatkérő előírhatja, hogy a részvételi jelentkezés vagy az ajánlat tartalmazza többek között a következőket:
 
 a) olyan tanúsítványokat vagy dokumentumokat, amelyek bizonyítják az ajánlatkérő számára, hogy az ajánlattevő képes lesz teljesíteni a szerződéshez kapcsolódó áruk exportjával, szállításával és továbbításával kapcsolatos kötelezettségeit, ideértve az érintett tagállam vagy tagállamok részéről ezt alátámasztó dokumentációt,
 

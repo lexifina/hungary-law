@@ -6,7 +6,7 @@ b) a kérelemmel érintett beszerzési eljárás ajánlatkérőjének nevét, sz
 
 c) a jogsértő esemény megtörténtének és a kérelmező arról való tudomásszerzésének időpontját valamennyi kérelmi elem tekintetében egyértelműen azonosíthatóan,
 
-d) a megsértett jogszabályi rendelkezést valamennyi kérelmi elem tekintetében egyértelműen azonosíthatóan,
+d) a megsértett jogszabályi rendelkezést valamennyi kérelmi elemre vonatkozóan, valamint a jogsértő eseményt és annak bizonyítékait,
 
 e) a Közbeszerzési Döntőbizottság döntésére irányuló indítványt, ennek indokait valamennyi kérelmi elem tekintetében egyértelműen azonosíthatóan,
 

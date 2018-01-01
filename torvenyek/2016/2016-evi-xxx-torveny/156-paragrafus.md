@@ -1,4 +1,4 @@
-156. § (1) A Közbeszerzési Döntőbizottság ötvenezer forinttól ötszázezer forintig terjedő eljárási bírsággal sújthatja a kérelmezőt vagy a jogorvoslati eljárás egyéb résztvevőjét, ha
+156. § (1) A Közbeszerzési Döntőbizottság tízezer forinttól ötszázezer forintig terjedő eljárási bírsággal sújthatja a kérelmezőt vagy a jogorvoslati eljárás egyéb résztvevőjét, ha
 
 a) hamis adatot közöl vagy az ügy elbírálása szempontjából lényeges adatot elhallgat,
 
@@ -12,4 +12,4 @@ e) nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést vagy ugy
 
 f) nem tesz eleget a 150. § (2) bekezdése szerinti ideiglenes intézkedés keretében előírt kötelezettségének.
 
-(2) Az eljárási bírságot kiszabó végzés ellen a 160. §-ban foglaltak szerint külön jogorvoslatnak van helye. A jogorvoslati kérelemnek a végzés végrehajtására halasztó hatálya van.
+(2) Az eljárási bírságot kiszabó végzés ellen benyújtott keresetlevélnek a végzés végrehajtására halasztó hatálya van.
