@@ -1,4 +1,4 @@
-9. § (1) Ha a bíróság megállapítja, hogy a 4. § (2) bekezdésében foglalt bármelyik feltétel fennáll, végzésben elrendeli az adósságrendezés megindítását, ellenkező esetben az adósságrendezési eljárást megszünteti.
+9. § (1) Ha a bíróság megállapítja, hogy a 4. § (2) bekezdésében foglalt bármelyik feltétel fennáll, végzésben elrendeli az adósságrendezés megindítását, ellenkező esetben az adósságrendezés megindítását kezdeményező kérelmet elutasítja. Az adósságrendezés megindítását elrendelő végzés ellen fellebbezésnek van helye.
 
 (2) A bíróság az adósságrendezés megindítását elrendelő végzésében kijelöli a pénzügyi gondnokot.
 
@@ -15,3 +15,5 @@ d) aki a képviselő-testület bizottságának nem képviselő tagja;
 e) a jegyző, a polgármesteri hivatal dolgozója.
 
 (4) Ha a helyi önkormányzat vagy az is kezdeményezte az adósságrendezési eljárás megindítását, az adósságrendezés megindítását elrendelő végzés ellen fellebbezésnek nincs helye. Ha a hitelező kezdeményezésére indult az eljárás, a végzés ellen a hitelező nem fellebbezhet, a polgármester pedig csak a képviselő-testület döntése alapján terjeszthet elő fellebbezést.
+
+(5) Az adósságrendezés megindítását elrendelő végzés ellen nincs helye felülvizsgálatnak.

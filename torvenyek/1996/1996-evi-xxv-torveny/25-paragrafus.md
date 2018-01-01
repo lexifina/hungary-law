@@ -12,8 +12,8 @@ d) a kimutatást, amelyből megállapítható, hogy a 23. § (3) bekezdésében 
 
 e) a vitatott hitelezői igényekre vonatkozó kimutatást és a szükséges iratokat arra vonatkozóan, hogy ezek kielégítése a 23. § (5)–(6) bekezdés szerinti módon biztosítva van.
 
-(3) Ha az egyezség megfelel az e törvényben foglalt követelményeknek, a bíróság az adósságrendezési eljárást befejezi, és elrendeli e végzésnek a jogerőre emelkedését követően a Cégközlönyben való közzétételét. Ha az egyezség nem felel meg az e törvényben foglalt követelményeknek, a bíróság elrendeli az eljárás lefolytatását a 29. §-ban foglaltak szerint. Az eljárást befejező végzés ellen felülvizsgálatnak helye nincs.
+(3) Ha az egyezség megfelel az e törvényben foglalt követelményeknek, a bíróság végzéssel jóváhagyja, az adósságrendezési eljárást befejezetté nyilvánítja, és elrendeli e végzésnek a jogerőre emelkedését követően a Cégközlönyben való közzétételét. Az egyezséget jóváhagyó és eljárást befejezettnek nyilvánító végzés ellen fellebbezésnek van helye; perújításnak és felülvizsgálatnak nincs helye. Ha az egyezség nem felel meg az e törvényben foglalt követelményeknek, a bíróság az egyezség jóváhagyását megtagadja, és elrendeli az eljárás folytatását a 29. §-ban szabályozott vagyonfelosztási szabályok szerint.
 
-(4) Az adósságrendezési eljárás befejezésével egyidejűleg a bíróság külön végzésben a pénzügyi gondnokot felmenti, és – a 33. §-ban foglaltak szerint – megállapítja a díját.
+(4) Az adósságrendezési eljárás befejezésével egyidejűleg a bíróság külön végzésben a pénzügyi gondnokot felmenti, és – a 33. §-ban foglaltak szerint – megállapítja a díját. A végzés díjmegállapító rendelkezése ellen a pénzügyi gondnok és a miniszter részéről fellebbezésnek van helye.
 
 (5) Amennyiben az adósságrendezés megindításának időpontjától számított 240 napon belül nem jön létre egyezség, úgy ezt a pénzügyi gondnok 3 napon belül bejelenti a bírósághoz.
