@@ -1,0 +1,5 @@
+## 5. § A szakmai gyakorlat szakirányú jellegének igazolására szolgáló bizonyítvány kiadására irányadó ügyintézési határidő húsz nap.
+
+6. § (1) A bizonyítvány kiadása során az ügyfél által megjelölt szakterületen az előírt képesítés megszerzésétől a bizonyítvány iránti kérelem benyújtásáig végzett tényleges gyakorlati vagy tudományos tevékenységet kell figyelembe venni. A különböző időpontokban szerzett gyakorlati időket össze kell adni.
+
+(2) A szakmai gyakorlati időbe nem számítható be a megszakítás nélkül hat hónapot meghaladó fizetés nélküli szabadság, a szülési szabadság, a gyermekgondozási díj és – a gyermekgondozást segítő ellátás folyósítása alatt végezhető kereső tevékenység kivételével – a gyermekgondozást segítő ellátás folyósításának időtartama.
