@@ -1,1 +1,1 @@
-62/C. § Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaságnak a Tao. 22/D. §-a alapján nyújtott támogatására az államháztartásról szóló törvény költségvetési támogatás nyújtására vonatkozó rendelkezéseit nem kell alkalmazni.
+62/C. §

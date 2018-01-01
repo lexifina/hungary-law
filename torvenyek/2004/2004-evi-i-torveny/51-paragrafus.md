@@ -14,7 +14,7 @@ e) együttműködik az Országos Területfejlesztési Érdekegyeztető Fórummal
 
 f) együttműködik a sportköztestületekkel, valamint kapcsolatot tart a sport területén működő civil szervekkel,
 
-g) a látvány-csapatsportok támogatásával összefüggésben – a ga) és gb) alpontban meghatározott feladatok esetén a Ket. rendelkezései alapján közigazgatási hatósági jogkörben – ellátja a sportfejlesztési programok jóváhagyásával és a támogatási igazolásokkal kapcsolatban a hatáskörébe utalt feladatokat, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:
+g) a látvány-csapatsportok támogatásával összefüggésben – a ga) és gb) alpontban meghatározott feladatok esetén közigazgatási hatósági hatáskörben – ellátja a sportfejlesztési programok jóváhagyásával és a támogatási igazolásokkal kapcsolatban a hatáskörébe utalt feladatokat, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:
 
 ga) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program, valamint a Tao. 22/C. § (9) bekezdés szerinti sportfejlesztési program jóváhagyásáról,
 
@@ -36,7 +36,7 @@ gi) kapcsolatot tart az állami adóhatósággal, a Tao. szerint nyújtott támo
 
 gj) ellátja a Tao. 24/A. § (19) bekezdésében meghatározott igazolás kiállításával összefüggő feladatokat;
 
-h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági jogköröket, különösen az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggő, e törvényben, továbbá az olimpiai járadékról és a Nemzet Sportolója Cím adományozásáról szóló kormányrendeletekben meghatározott közigazgatási hatósági feladatokat;
+h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági hatásköröket, különösen az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggő, e törvényben, továbbá az olimpiai járadékról és a Nemzet Sportolója Cím adományozásáról szóló kormányrendeletekben meghatározott közigazgatási hatósági feladatokat;
 
 i) programokat dolgoz ki:
 
@@ -78,4 +78,4 @@ m) meghatározza a támogatási rendszerek minőségbiztosítási rendszerét (b
 
 (5) A sportpolitikáért felelős miniszter a (2) bekezdés g) pont ga) alpontjában meghatározott feladat ellátása során, a kérelem beérkezésétől számított 120 napon belül hoz döntést. A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározott sportfejlesztési program módosítására, illetve meghosszabbítására irányuló kérelem elbírálására nyitva álló ügyintézési határidő 60 nap.
 
-(6) A Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezetet nem illeti meg a Ket. 71. § (2) bekezdés a) pontjában meghatározott kérelmezett jog gyakorlása, ha a sportpolitikáért felelős miniszter az (5) bekezdésben előírt határidőben nem hoz döntést.
+(6)

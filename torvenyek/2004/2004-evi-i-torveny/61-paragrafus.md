@@ -1,14 +1,14 @@
 61. § (1) A járadékra jogosultságot és a járadékot a sportpolitikáért felelős miniszter a jogosult kérelmére közigazgatási hatósági eljárás keretében állapítja meg és gondoskodik annak havonta történő folyósításáról. A járadék fedezetét és a végrehajtás költségeit a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani.
 
-(2) A járadékra való jogosultság megszűnéséről és a már folyósított járadék visszafizetéséről, továbbá a járadék folyósításának felfüggesztéséről a sportpolitikáért felelős miniszter a Ket. rendelkezései szerint dönt.
+(2) A járadékra való jogosultság megszűnéséről és a már folyósított járadék visszafizetéséről, továbbá a járadék folyósításának felfüggesztéséről a sportpolitikáért felelős miniszter közigazgatási hatósági eljárás keretében dönt.
 
-(3) A sportpolitikáért felelős miniszter a járadék visszafizetésére vonatkozó igényét a járadék jogosulatlan felvételétől számított öt éven belül érvényesítheti.
+(3)
 
 (4) A sportpolitikáért felelős miniszter a járadékra jogosultság időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a jogosult nem vált-e érdemtelenné és nem áll-e büntetőeljárás hatálya alatt. A sportpolitikáért felelős miniszter e célból adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
 
 (5) A sportpolitikáért felelős miniszter a (4) bekezdésben meghatározott hatósági ellenőrzést a jogosulttal szemben kötelezően lefolytatja, ha
 
-a) a jogosult az 59. § (8) és (10) bekezdés szerinti ok, illetve körülmény bekövetkezését bejelenti, és a bejelentéshez nem csatol hatósági bizonyítványt,
+a) a jogosult az 59. § (8) és (10) bekezdés szerinti ok, illetve körülmény bekövetkezését bejelenti,
 
 b) megalapozottan feltehető, hogy a jogosult érdemtelenné vált vagy büntetőeljárás hatálya alatt áll.
 

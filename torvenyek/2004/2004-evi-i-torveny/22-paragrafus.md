@@ -56,7 +56,7 @@ h) sportágában elláthat szabadidős sporttevékenységgel összefüggő felad
 
 i) stratégiai jellegű feladatai körében meghatározza a versenyzők minősítési szintjeit.
 
-(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) és fb) alpontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezései alapján.
+(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) és fb) alpontjában meghatározott feladatok ellátása során közigazgatási hatósági hatáskört gyakorol.
 
 (3a) A szakszövetség gazdálkodásával összefüggő, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti közérdekű vagy közérdekből nyilvános adatok megismerésére vonatkozó igények a nem állami, nem önkormányzati támogatások tekintetében összesített adattartalom szolgáltatásával is teljesíthetőek.
 
@@ -68,4 +68,4 @@ i) stratégiai jellegű feladatai körében meghatározza a versenyzők minősí
 
 (7) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) alpontjában meghatározott feladat ellátása során a kérelem beérkezésétől számított 120 napon belül hoz döntést. A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendeletben (a továbbiakban: a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendelet) meghatározott sportfejlesztési program módosítására, illetve meghosszabbítására irányuló kérelem elbírálására nyitva álló ügyintézési határidő 60 nap.
 
-(8) A Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezetet nem illeti meg a Ket. 71. § (2) bekezdés a) pontjában meghatározott kérelmezett jog gyakorlása, ha a látvány-csapatsportban működő szakszövetség a (7) bekezdésben előírt határidőben nem hoz döntést.
+(8)

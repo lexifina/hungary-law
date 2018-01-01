@@ -8,7 +8,7 @@ b) 1984-től kezdődően Paralimpián vagy Siketlimpián
 
 első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
-(2) Az érmes a járadék megállapítására és folyósítására irányuló kérelmét a harmincötödik életévének betöltését követő hónap 1. napjától kezdődően terjesztheti elő a sportpolitikáért felelős miniszterhez. A sportpolitikáért felelős miniszter a kérelem jóváhagyása esetén a járadékot a kérelem benyújtásának időpontjától kezdődően – a kérelem benyújtása és a folyósítás időpontja közötti időtartamra jegybanki alapkamattal növelt értékben – folyósítja.
+(2) Az érmes a járadék megállapítására és folyósítására irányuló kérelmét a harmincötödik életévének betöltését követő hónap 1. napjától kezdődően terjesztheti elő a sportpolitikáért felelős miniszterhez. A kérelem kormányablaknál nem terjeszthető elő. A sportpolitikáért felelős miniszter a kérelem jóváhagyása esetén a járadékot a kérelem benyújtásának időpontjától kezdődően – a kérelem benyújtása és a folyósítás időpontja közötti időtartamra jegybanki alapkamattal növelt értékben – folyósítja.
 
 (3) Élete végéig járadékra jogosult az érmes halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az érmessel annak házastársaként a halála időpontjában és legalább az azt megelőző tíz évben megszakítás nélkül közös háztartásban élt.
 
@@ -42,6 +42,6 @@ b) büntetlen előéletű, de akivel szemben a bíróság bűncselekmény elköv
 
 (11) Ha a jogosult igazolja, hogy a vele szemben lefolytatott büntetőeljárásban a nyomozást megszüntették, vagy a büntetőeljárást jogerősen befejezték, és nem következett be a (8) bekezdés szerinti érdemtelenségi ok, a sportpolitikáért felelős miniszter az igazolástól számított harminc napon belül – a folyósítás felfüggesztésének napjától számított jegybanki alapkamattal növelve – egy összegben folyósítja részére az elmaradt járadékot. Amennyiben a büntetőeljárás jogerős befejezésével a jogosult érdemtelenné válik, a (10) bekezdés alapján felfüggesztett járadék nem kerül részére folyósításra.
 
-(12) A járadék iránti kérelem benyújtásával egyidejűleg a jogosult harminc napnál nem régebbi hatósági bizonyítvánnyal igazolja azt a tényt, hogy nem áll fenn a (8) bekezdés szerinti érdemtelenség, továbbá azt, hogy nem áll büntetőeljárás hatálya alatt, vagy írásban kérheti, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a sportpolitikáért felelős miniszter részére – a járadékra való jogosultság megállapítása és folyósítása iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a sportpolitikáért felelős miniszter arra vonatkozóan igényel adatot a bűnügyi nyilvántartó szervtől, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
+(12) A sportpolitikáért felelős miniszter a járadékra való jogosultság megállapítása és folyósítása iránti kérelem elbírálása céljából adatot igényel a bűnügyi nyilvántartó szervtől arra vonatkozóan, hogy a kérelmező nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
 
 (13) A jogosulatlanul felvett járadékot az erről való tudomásszerzést vagy a sportpolitikáért felelős miniszter felhívását követő hatvan napon belül vissza kell fizetni.
