@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-389-20-
 | 2017-01-01 | 2007-389-20-22.25 | 393/2016. (XII. 5.) Korm. rendelet |
 | 2017-08-16 | 2007-389-20-22.26 | 232/2017. (VIII. 14.) Korm. rendelet |
 | 2017-10-01 | 2007-389-20-22.27 | 232/2017. (VIII. 14.) Korm. rendelet |
+| 2018-01-01 | 2007-389-20-22.28 | 457/2017. (XII. 28.) Korm. rendelet |

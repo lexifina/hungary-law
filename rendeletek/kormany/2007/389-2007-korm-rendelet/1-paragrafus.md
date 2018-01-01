@@ -20,7 +20,7 @@ c)[^2]
 
 (3) Az (1) bekezdés a)–b) pontja szerinti termelésből származó villamos energia a kötelező átvételi rendszerben akkor értékesíthető, ha
 
-a)[^4] az erőműnek az átvételi kötelezettség alá eső villamos energia átvételének szabályairól és árainak megállapításáról szóló 56/2002. (XII. 29.) GKM rendelet (a továbbiakban: 56/2002. GKM rendelet) szerinti kötelező átvételhez való jogosultságát e rendelet hatálybalépését megelőzően a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) jogerős határozatban megállapította, vagy
+a)[^4] az erőműnek az átvételi kötelezettség alá eső villamos energia átvételének szabályairól és árainak megállapításáról szóló 56/2002. (XII. 29.) GKM rendelet (a továbbiakban: 56/2002. GKM rendelet) szerinti kötelező átvételhez való jogosultságát e rendelet hatálybalépését megelőzően a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) végleges határozatban megállapította, vagy
 
 b) kizárólag megújuló energiaforrásból, vagy hulladékból nyert energiával, vagy mindkettő felhasználásával termelték, vagy
 
@@ -41,7 +41,7 @@ c) a kötelező átvételi jogosultság megállapítása során figyelembe vett 
 [^1]: Az 1. § (1) bekezdés záró szövegrésze a 393/2016. (XII. 5.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés c) pontját a 166/2011. (VIII. 24.) Korm. rendelet 3. § 1. pontja hatályon kívül helyezte.
 [^3]: Az 1. § (1a) bekezdését a 166/2011. (VIII. 24.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 309/2013. (VIII. 16.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (3) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 17. §-a, a 457/2017. (XII. 28.) Korm. rendelet 215. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^5]: Az 1. § (3) bekezdésének c) pontja a 287/2008. (XI. 28.) Korm. rendelet 11. § (7) bekezdése szerint módosított szöveg.
 [^6]: Az 1. § (4) bekezdését a 166/2011. (VIII. 24.) Korm. rendelet 3. § 2. pontja hatályon kívül helyezte.
 [^7]: Az 1. § (5) bekezdése a 166/2011. (VIII. 24.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
