@@ -1,4 +1,4 @@
-14/A. §[^27] (1) A kártérítési eljárást – a (2) bekezdésben foglalt eset kivételével – az eljárás megindításakori szolgálati hely szerint illetékes eljáró szerv folytatja le abban az esetben is, ha a károkozás óta eltelt idő alatt a károkozásért felelősnek tartott személy vagy az eljárás alá vont személy szolgálati helye megváltozott és így a károkozás nem a jelenlegi, hanem olyan korábbi szolgálati helyhez kapcsolódik, ahol a hivatásos állomány tagja korábban szolgálatot teljesített.
+14/A. §[^28] (1) A kártérítési eljárást – a (2) bekezdésben foglalt eset kivételével – az eljárás megindításakori szolgálati hely szerint illetékes eljáró szerv folytatja le abban az esetben is, ha a károkozás óta eltelt idő alatt a károkozásért felelősnek tartott személy vagy az eljárás alá vont személy szolgálati helye megváltozott és így a károkozás nem a jelenlegi, hanem olyan korábbi szolgálati helyhez kapcsolódik, ahol a hivatásos állomány tagja korábban szolgálatot teljesített.
 
 (2) Ha a károkozás helye szerint illetékes állományilletékes parancsnok már elrendelte a kártérítési eljárás lefolytatását, az ügyet átteszi a szolgálati hely szerinti állományilletékes parancsnokhoz, így az eljárás alá vont személy folyamatban lévő eljárása a szolgálati helyének megváltozása esetén az új szolgálati helyen folytatódik tovább. Az eljárás áttétele esetén az eljárási határidőbe nem számít bele az iratok megküldésétől az eljárás lefolytatására jogosult szolgálati hely szerint illetékes állományilletékes parancsnokhoz történő megérkezéséig eltelt idő.
 
@@ -8,4 +8,4 @@
 
 (5) Az állományilletékes parancsnok a kártérítési határozatban dönt a kártérítési összeg károkozás helye szerint illetékes szerv részére történő kifizetéséről.
 
-[^27]: A 14/A. §-t a 34/2014. (IV. 24.) BM rendelet 7. §-a iktatta be.
+[^28]: A 14/A. §-t a 34/2014. (IV. 24.) BM rendelet 7. §-a iktatta be.
