@@ -2,10 +2,10 @@
 
 9. § (1) Mentes a Magyarország gazdasági stabilitásáról szóló törvény szerinti fizetési kötelezettségek alól
 
-a) a kincstári letéti Start-számlán, a Start-számlán jóváírt összeg, és
+a) az életkezdési letéti számlán, a Start-számlán jóváírt összeg, és
 
-b) a kincstári letéti Start-számláról, a Start-számláról az 5. § (7) bekezdés szerinti jogosult részére kifizetett összeg.
+b) az életkezdési letéti számláról, a Start-számláról az 5. § (18) bekezdés szerinti jogosult részére kifizetett összeg.
 
 (2)
 
-(3) A kiutaló, az állami adóhatóság, a gyámhatóság, a családtámogatási igazgatási eljárás során az igényelbíráló szerv és a Start-számlát kezelő számlavezető – az adózás rendjéről szóló törvény elévülésre vonatkozó rendelkezéseit is figyelembe véve – jogosult az életkezdési támogatással összefüggő adatok jogszabályoknak megfelelő kezelésére.
+(3) A kiutaló, az állami adó- vámhatóság, a gyámhatóság, területi gyermekvédelmi szakszolgálat, a családtámogatási igazgatási eljárás során az igényelbíráló szerv és a Start-számlát kezelő számlavezető – az adózás rendjéről szóló törvény elévülésre vonatkozó rendelkezéseit is figyelembe véve – jogosult az életkezdési támogatással összefüggő személyes adatok, ideértve a 2. § 3a. pont b) alpontjában meghatározott személy nevére a szomszédos államokban élő magyarokról szóló törvény alapján kiadott „Magyar igazolvány” sorszámára vonatkozó adatot, a személyes adatok kezelésére és védelmére vonatkozó jogszabályoknak megfelelő kezelésére.

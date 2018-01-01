@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-174-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2005-174-00-00.15 |
 | 2015-04-01 | 2015. évi VI. törvény | 2005-174-00-00.16 |
 | 2017-01-01 | 2016. évi CIV. törvény | 2005-174-00-00.17 |
+| 2018-01-01 | 2017. évi CXCIII. törvény | 2005-174-00-00.18 |
