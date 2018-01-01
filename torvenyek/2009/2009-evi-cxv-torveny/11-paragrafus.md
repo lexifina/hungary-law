@@ -12,7 +12,7 @@ d) a székhely, a telephely (telephelyek) és a fióktelep (fióktelepek) címé
 
 e) szükség szerint az egyéni vállalkozói tevékenység szünetelésének tényét, kezdő- és zárónapját,
 
-f) az egyéni vállalkozó adószámát, annak hatályos állapotát, az adószám alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, valamint e határozatok megsemmisítését, hatályon kívül helyezését, módosítását, kiegészítését vagy visszavonását, továbbá a határozat jogerőre emelkedésének napját,
+f) az egyéni vállalkozó adószámát, annak hatályos állapotát, az adószám alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, valamint e határozatok megsemmisítését, hatályon kívül helyezését, módosítását, kiegészítését vagy visszavonását, továbbá a határozat véglegessé válásának napját,
 
 g) az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
 

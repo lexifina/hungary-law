@@ -8,7 +8,7 @@ c) a főtevékenységet, és a folytatni kívánt egyéb tevékenységet (tevék
 
 d) a székhely, valamint szükség szerint a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
 
-e) az adózás rendjéről szóló 2003. évi XCII. törvényben (a továbbiakban: Art.) meghatározott további adatokat és nyilatkozatokat, amelyek az állami adóhatósághoz való bejelentkezési kötelezettség teljesítéséhez szükségesek.
+e) az adózás rendjéről szóló törvényben meghatározott további adatokat és nyilatkozatokat, amelyek az állami adóhatósághoz való bejelentkezési kötelezettség teljesítéséhez szükségesek.
 
 (2) A bejelentési űrlapnak tájékoztatást kell tartalmaznia arról, hogy a bejelentő mely adatai és milyen célból kerülnek be az egyéni vállalkozói nyilvántartásba és ezek közül melyek lesznek bárki számára megismerhető, nyilvános adatok.
 

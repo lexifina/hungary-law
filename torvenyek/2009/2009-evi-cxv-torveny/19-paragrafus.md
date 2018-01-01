@@ -10,7 +10,7 @@ c) az egyéni vállalkozó halála napján,
 
 d) az egyéni vállalkozó gondnokság alá helyezéséről szóló bírósági határozat jogerőre emelkedésének a napján,
 
-e) ha az adóhatóság törölte az egyéni vállalkozó adószámát, a törlést kimondó határozat jogerőre emelkedésének napján,
+e) ha az adóhatóság törölte az egyéni vállalkozó adószámát, a törlést kimondó határozat véglegessé válásának napján,
 
 f) a 3. § (2) bekezdés b), illetve c) pontjaiban meghatározott kizáró ok bekövetkezése esetén, a 19/B. §-ban foglalt összeférhetetlenség megállapításakor, valamint
 
