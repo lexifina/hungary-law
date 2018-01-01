@@ -32,7 +32,7 @@ c) ha az e rendelet hatálybalépésének időpontjáig, vagy azt követően az 
 
 (5)[^7] Ha a tulajdoni hányad a 6. § (4) bekezdés szerinti értesítés kézhezvételének időpontjában a jogutód tulajdonában (vagyonkezelésében) van, akkor a járási hivatalnak – ha ez korábban nem történt meg – 15 napos határidő tűzésével nyilatkoztatni kell arról, hogy jogutódként fenntartja-e a kérelmet.
 
-(6)[^8] Ha a jogutód az ingatlan-nyilvántartásból nem állapítható meg, akkor az eljárás folytatására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései az irányadóak.
+(6)[^8] Ha a jogutód az ingatlan-nyilvántartásból nem állapítható meg, akkor az eljárás folytatására az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezései az irányadóak.
 
 [^1]: Az 1. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 261. § 2. pontja szerint módosított szöveg.
@@ -41,4 +41,4 @@ c) ha az e rendelet hatálybalépésének időpontjáig, vagy azt követően az 
 [^5]: A 1. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 4. pontja szerint módosított szöveg.
 [^6]: Az 1. § (4) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (5) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított, a 341/2016. (XI. 17.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
-[^8]: Az 1. § (6) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (6) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 26. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 521. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

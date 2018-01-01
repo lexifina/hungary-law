@@ -1,16 +1,16 @@
 ## 14. § E rendelet előírásait a kérelmezők közötti egyezség fennállása esetén a 15. §-ban és a 16. §-ban foglalt eltérésekkel kell alkalmazni.
 
-15. § (1)[^56] A kérelmezők a kiosztási sorrend egymás közötti meghatározására egyezséget köthetnek. Az egyezséget közokiratba vagy ügyvéd által ellenjegyzett magánokiratba kell foglalni (a továbbiakban: egyezségi okirat). Az egyezségi okiratnak tartalmaznia kell az egyezségben résztvevő kérelmezők arra vonatkozó egybehangzó nyilatkozatát, hogy a 11. § (1) bekezdése szerinti határozatban foglaltaknak megfelelően határozzák meg a tulajdoni hányaduknak megfelelő terület egymás közötti kiosztási rendjét, és ennek megfelelően készíttetik el a változási munkarészeket.
+15. § (1)[^59] A kérelmezők a kiosztási sorrend egymás közötti meghatározására egyezséget köthetnek. Az egyezséget közokiratba, vagy ügyvéd, vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni (a továbbiakban: egyezségi okirat). Az egyezségi okiratnak tartalmaznia kell az egyezségben résztvevő kérelmezők arra vonatkozó egybehangzó nyilatkozatát, hogy a 11. § (1) bekezdése szerinti határozatban foglaltaknak megfelelően határozzák meg a tulajdoni hányaduknak megfelelő terület egymás közötti kiosztási rendjét, és ennek megfelelően készíttetik el a változási munkarészeket.
 
-(2)[^57] A jogi szolgáltatónak, a 10. § (2) bekezdése szerinti értesítést követően, a kérelmezők és a földmérő összehívásával meg kell kísérelnie az egyezség létrehozását.
+(2)[^60] A jogi szolgáltatónak, a 10. § (2) bekezdése szerinti értesítést követően, a kérelmezők és a földmérő összehívásával meg kell kísérelnie az egyezség létrehozását.
 
-(2a)[^58] A 10. § (2) bekezdés szerinti értesítés és az első egyezségi tárgyalás között legfeljebb 30 nap telhet el. Az első egyezségi tárgyalást a 11. § (1) bekezdésben meghatározott határozat meghozatala előtt kell megtartani. Az egyezségi meghívót az egyezségi tárgyalás napját megelőzően legalább 15 nappal korábban kell megküldeni a kérelmezők és a földmérő részére. Az egyezségi tárgyalásról jegyzőkönyvet kell készíteni, amelyet a jogi szolgáltató – a tárgyalás napját követő – 8 napon belül megküld a járási hivatal részére. További egyezségi tárgyalások megtartását a kérelmezők egyhangúlag kérhetik a jogi szolgáltatótól, azzal, hogy az egyezségi meghívónak nem kell ismételten tartalmazni az (5) és (6) bekezdésben előírt ismertetéseket, valamint felhívásokat.
+(2a)[^61] A 10. § (2) bekezdés szerinti értesítés és az első egyezségi tárgyalás között legfeljebb 30 nap telhet el. Az első egyezségi tárgyalást a 11. § (1) bekezdésben meghatározott határozat meghozatala előtt kell megtartani. Az egyezségi meghívót az egyezségi tárgyalás napját megelőzően legalább 15 nappal korábban kell megküldeni a kérelmezők és a földmérő részére. Az egyezségi tárgyalásról jegyzőkönyvet kell készíteni, amelyet a jogi szolgáltató – a tárgyalás napját követő – 8 napon belül megküld a járási hivatal részére. További egyezségi tárgyalások megtartását a kérelmezők egyhangúlag kérhetik a jogi szolgáltatótól, azzal, hogy az egyezségi meghívónak nem kell ismételten tartalmazni az (5) és (6) bekezdésben előírt ismertetéseket, valamint felhívásokat.
 
-(2b)[^59] Az egy kérelmezős földrészlet esetében a jogi szolgáltató a 10. § (2) bekezdésében meghatározott közlést követő 30 napon belül a 4. § (4) bekezdés c) és d) pontja szerinti nyilatkozatokat beszerzi. A nyilatkozatokról vagy azok hiányáról a nyilatkozatok kézhezvételét vagy a határidő elteltét követő 8 napon belül elektronikus úton tájékoztatja a járási hivatalt és a földmérő vállalkozót.
+(2b)[^62] Az egy kérelmezős földrészlet esetében a jogi szolgáltató a 10. § (2) bekezdésében meghatározott közlést követő 30 napon belül a 4. § (4) bekezdés c) és d) pontja szerinti nyilatkozatokat beszerzi. A nyilatkozatokról vagy azok hiányáról a nyilatkozatok kézhezvételét vagy a határidő elteltét követő 8 napon belül elektronikus úton tájékoztatja a járási hivatalt és a földmérő vállalkozót.
 
-(3)[^60] Az egyezségi tárgyalás helyszínét a járási hivatal illetékességi területén kell kijelölni.
+(3)[^63] Az egyezségi tárgyalás helyszínét a járási hivatal illetékességi területén kell kijelölni.
 
-(4)[^61] Az egyezségi okiratnak a járási hivatalhoz való benyújtására a 11. § (1) bekezdésben meghatározott jogerős határozat közlését követő naptól, legfeljebb a sorsolás napját megelőző 5. nap végéig van lehetőség, ezt követően egyezség nem köthető.
+(4)[^64] Az egyezségi okiratnak a járási hivatalhoz való benyújtására a 11. § (1) bekezdésben meghatározott végleges határozat közlését követő naptól, legfeljebb a sorsolás napját megelőző 5. nap végéig van lehetőség, ezt követően egyezség nem köthető.
 
 (5) Az egyezségi meghívóban ismertetni kell:
 
@@ -28,11 +28,11 @@ f) a megközelíthetőséghez szükséges új szántóföldi műveleti út terve
 
 g) az egyezség megkötésének jellemzőit,
 
-h)[^62] a megosztási eljárás részét képező további eljárásokat (megosztás, kitűzés, bemutatás, ingatlan-nyilvántartási átvezetés),
+h)[^65] a megosztási eljárás részét képező további eljárásokat (megosztás, kitűzés, bemutatás, ingatlan-nyilvántartási átvezetés),
 
-i)[^63] az Fkbt. 12/K. §-ában foglaltakat, és
+i)[^66] az Fkbt. 12/K. §-ában foglaltakat, és
 
-j)[^64] a (7) bekezdésben foglaltakat.
+j)[^67] a (7) bekezdésben foglaltakat.
 
 (6) Az egyezségi meghívóban az alábbiakra kell felhívni a kérelmezők figyelmét:
 
@@ -44,7 +44,7 @@ c) a jogutódlás igazolására,
 
 d) arra, hogy a megosztási eljárás nem szünteti meg a fennálló földhasználati szerződést, de a mező és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 60. § (1) bekezdése szerinti esetben és módon a haszonbérleti szerződés felmondható,
 
-e)[^65] az újonnan kialakítandó földrészlet új helyrajzi száma, területi változása miatt a földhasználati szerződés módosul, ezért javasolt gondoskodni a földhasználati szerződés módosításáról és járási hivatalhoz történő bejelentéséről,
+e)[^68] az újonnan kialakítandó földrészlet új helyrajzi száma, területi változása miatt a földhasználati szerződés módosul, ezért javasolt gondoskodni a földhasználati szerződés módosításáról és járási hivatalhoz történő bejelentéséről,
 
 f) arra a tényre, hogy az újonnan kialakítandó földrészletek területe az Fkbt. 9/C. § (6) bekezdésében meghatározott területi minimumnál nem lehet kisebb és ez a kérelmezők közül kit érinthet, valamint, belterület esetén a helyi építési szabályzattal és a településszerkezeti tervvel összhangban kell azokat kialakítani,
 
@@ -52,49 +52,49 @@ g) a Polgári Törvénykönyvről szóló 2013. évi V. törvényben foglalt jog
 
 (7) A jogi szolgáltatónak az egyezségi tárgyalás lezárultát megelőzően ki kell kérnie a kérelmező tulajdonostársak nyilatkozatát a kérelem fenntartására vonatkozóan. Az egyezségi tárgyaláson meg nem jelent kérelmezőt úgy kell tekinteni, mint aki fenntartja a kérelmét. A kérelem az eljárás következő szakaszaiban nem vonható vissza.
 
-(8)[^66] A kérelmezőnek az első egyezségi tárgyalás lezárásáig meg kell tennie a 4. § (4) bekezdés c) pontja szerinti nyilatkozatokat. Ha a kérelmező nem tesz nyilatkozatot, vagy visszatéríttetési eljárás alatt áll, vagy nehéz helyzetben lévő vállalkozásnak minősül, kérelmét visszavontnak kell tekinteni.
+(8)[^69] A kérelmezőnek az első egyezségi tárgyalás lezárásáig meg kell tennie a 4. § (4) bekezdés c) pontja szerinti nyilatkozatokat. Ha a kérelmező nem tesz nyilatkozatot, vagy visszatéríttetési eljárás alatt áll, vagy nehéz helyzetben lévő vállalkozásnak minősül, kérelmét visszavontnak kell tekinteni.
 
-(9)[^67] Amennyiben minden kérelmező visszavonja kérelmét, a járási hivatal a 10. § (1) bekezdésben foglaltak teljesülését követően a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései szerint megszünteti az eljárást.
+(9)[^70] Amennyiben minden kérelmező visszavonja kérelmét, a járási hivatal a 10. § (1) bekezdésben foglaltak teljesülését követően az Ákr. rendelkezései szerint megszünteti az eljárást.
 
-(10)[^68] Egy kérelmező esetén a jogi szolgáltatónak ki kell kérnie a kérelmező tulajdonos nyilatkozatát arról is, hogy szándékozik-e teljes körű egyezséget kötni. A teljes körű egyezség kialakításának szándéka a teljes körű egyezség kialakítására vonatkozó határidő alatt bármikor visszavonható. A nyilatkozat tartalmáról, vagy az esetleges visszavonásról a jogi szolgáltató elektronikus úton haladéktalanul tájékoztatja a járási hivatalt és a földmérőt.
+(10)[^71] Egy kérelmező esetén a jogi szolgáltatónak ki kell kérnie a kérelmező tulajdonos nyilatkozatát arról is, hogy szándékozik-e teljes körű egyezséget kötni. A teljes körű egyezség kialakításának szándéka a teljes körű egyezség kialakítására vonatkozó határidő alatt bármikor visszavonható. A nyilatkozat tartalmáról, vagy az esetleges visszavonásról a jogi szolgáltató elektronikus úton haladéktalanul tájékoztatja a járási hivatalt és a földmérőt.
 
-(10a)[^69] Egy kérelmező esetén teljes körű egyezség hiányában az eljárás a 22–23. §-ban foglaltak szerint folytatódik.
+(10a)[^72] Egy kérelmező esetén teljes körű egyezség hiányában az eljárás a 22–23. §-ban foglaltak szerint folytatódik.
 
-(11)[^70] A jogi szolgáltató elektronikus úton tájékoztatja a járási hivatalt és a földmérőt a visszavont kérelmekről.
+(11)[^73] A jogi szolgáltató elektronikus úton tájékoztatja a járási hivatalt és a földmérőt a visszavont kérelmekről.
 
-(12)[^71] A járási hivatal az (1) bekezdés, illetve a 16. § (1) bekezdés alapján megkötött egyezségről befogadó nyilatkozatot állít ki, amely azt igazolja, hogy a megosztási eljárás a továbbiakban az egyezség szabályai szerint folytatható. A befogadó nyilatkozatot 8 napon belül a járási hivatal a jogi szolgáltató útján közli az egyezséget benyújtó kérelmezőkkel, valamint elektronikus úton közvetlenül a földmérővel.
+(12)[^74] A járási hivatal az (1) bekezdés, illetve a 16. § (1) bekezdés alapján megkötött egyezségről befogadó nyilatkozatot állít ki, amely azt igazolja, hogy a megosztási eljárás a továbbiakban az egyezség szabályai szerint folytatható. A befogadó nyilatkozatot 8 napon belül a járási hivatal a jogi szolgáltató útján közli az egyezséget benyújtó kérelmezőkkel, valamint elektronikus úton közvetlenül a földmérővel.
 
-(13)[^72] Ha a befogadott egyezségi okirat mellékleteként a kérelmezők a megosztás kiindulási helyére és irányára javaslatot tesznek és az nem ellentétes az Fkbt. 12/G. § (2) bekezdésében meghatározott szempontokkal, a járási hivatal a 11. § (1) bekezdésében meghozott határozatát a javaslat szerint módosítja.
+(13)[^75] Ha a befogadott egyezségi okirat mellékleteként a kérelmezők a megosztás kiindulási helyére és irányára javaslatot tesznek és az nem ellentétes az Fkbt. 12/G. § (2) bekezdésében meghatározott szempontokkal, a járási hivatal a 11. § (1) bekezdésében meghozott határozatát a javaslat szerint módosítja.
 
-(14)[^73] A késedelmesen benyújtott (1) bekezdés, illetve a 16. § (1) bekezdése szerinti egyezséget tartalmazó okirat esetében, valamint a (12) bekezdésben meghatározott befogadó nyilatkozat hiányában a megosztási eljárás az Fkbt. 12/H. § szerinti sorsolással és a 2. § (1) bekezdés f)–g) pontjában meghatározott eljárásokkal folytatódik és fejeződik be.
+(14)[^76] A késedelmesen benyújtott (1) bekezdés, illetve a 16. § (1) bekezdése szerinti egyezséget tartalmazó okirat esetében, valamint a (12) bekezdésben meghatározott befogadó nyilatkozat hiányában a megosztási eljárás az Fkbt. 12/H. § szerinti sorsolással és a 2. § (1) bekezdés f)–g) pontjában meghatározott eljárásokkal folytatódik és fejeződik be.
 
-(15)[^74] Ha a határidőben benyújtott egyezségi okirat az (1) bekezdésben meghatározott tartalmi és alaki követelményeknek megfelel, az Fkbt. 12/H. §-a szerinti sorsolás nem kerül lefolytatásra, valamint a 22. § és a 23. § szerinti eljárás az egyezségi okirat, és az ahhoz csatolt mellékletek alapján kerül lefolytatásra.
+(15)[^77] Ha a határidőben benyújtott egyezségi okirat az (1) bekezdésben meghatározott tartalmi és alaki követelményeknek megfelel, az Fkbt. 12/H. §-a szerinti sorsolás nem kerül lefolytatásra, valamint a 22. § és a 23. § szerinti eljárás az egyezségi okirat, és az ahhoz csatolt mellékletek alapján kerül lefolytatásra.
 
-(16)[^75]
+(16)[^78]
 
-(17)[^76] A megosztást a 11. § (1) bekezdése szerinti határozat alapján, és a 15. § (12) bekezdése szerinti befogadó nyilatkozattal rendelkező egyezség tartalma szerint kell elvégezni.
+(17)[^79] A megosztást a 11. § (1) bekezdése szerinti határozat alapján, és a 15. § (12) bekezdése szerinti befogadó nyilatkozattal rendelkező egyezség tartalma szerint kell elvégezni.
 
-(18)[^77] Egy kérelmező esetén a kérelem alapján kell a bejegyzés alapjául szolgáló okiratot elkészíteni.
+(18)[^80] Egy kérelmező esetén a kérelem alapján kell a bejegyzés alapjául szolgáló okiratot elkészíteni.
 
-[^56]: A 15. § (1) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^57]: A 15. § (2) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^58]: A 15. § (2a) bekezdését a 478/2015. (XII. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^59]: A 15. § (2b) bekezdését a 478/2015. (XII. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^60]: A 15. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
-[^61]: A 15. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 15. pontja szerint módosított szöveg.
-[^62]: A 15. § (5) bekezdés h) pontja a 341/2016. (XI. 17.) Korm. rendelet 36. § f) pontja szerint módosított szöveg.
-[^63]: A 15. § (5) bekezdés i) pontja a 341/2016. (XI. 17.) Korm. rendelet 36. § g) pontja szerint módosított szöveg.
-[^64]: A 15. § (5) bekezdés j) alpontját a 341/2016. (XI. 17.) Korm. rendelet 30. § (1) bekezdése iktatta be.
-[^65]: A 15. § (6) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 16. pontja szerint módosított szöveg.
-[^66]: A 15. § (8) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^67]: A 15. § (9) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^68]: A 15. § (10) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
-[^69]: A 15. § (10a) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 30. § (2) bekezdése iktatta be.
-[^70]: A 15. § (11) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^71]: A 15. § (12) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 341/2016. (XI. 17.) Korm. rendelet 36. § h) pontja szerint módosított szöveg.
-[^72]: A 15. § (13) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
-[^73]: A 15. § (14) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
-[^74]: A 15. § (15) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 36. § i) pontja szerint módosított szöveg.
-[^75]: A 15. § (16) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 37. §-a hatályon kívül helyezte.
-[^76]: A 15. § (17) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.
-[^77]: A 15. § (18) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^59]: A 15. § (1) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 393/2017. (XII. 13.) Korm. rendelet 64. §-a szerint módosított szöveg.
+[^60]: A 15. § (2) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^61]: A 15. § (2a) bekezdését a 478/2015. (XII. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^62]: A 15. § (2b) bekezdését a 478/2015. (XII. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^63]: A 15. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+[^64]: A 15. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 15. pontja, a 457/2017. (XII. 28.) Korm. rendelet 521. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^65]: A 15. § (5) bekezdés h) pontja a 341/2016. (XI. 17.) Korm. rendelet 36. § f) pontja szerint módosított szöveg.
+[^66]: A 15. § (5) bekezdés i) pontja a 341/2016. (XI. 17.) Korm. rendelet 36. § g) pontja szerint módosított szöveg.
+[^67]: A 15. § (5) bekezdés j) alpontját a 341/2016. (XI. 17.) Korm. rendelet 30. § (1) bekezdése iktatta be.
+[^68]: A 15. § (6) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 16. pontja szerint módosított szöveg.
+[^69]: A 15. § (8) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^70]: A 15. § (9) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 521. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^71]: A 15. § (10) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^72]: A 15. § (10a) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^73]: A 15. § (11) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^74]: A 15. § (12) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 341/2016. (XI. 17.) Korm. rendelet 36. § h) pontja szerint módosított szöveg.
+[^75]: A 15. § (13) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+[^76]: A 15. § (14) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^77]: A 15. § (15) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 36. § i) pontja szerint módosított szöveg.
+[^78]: A 15. § (16) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 37. §-a hatályon kívül helyezte.
+[^79]: A 15. § (17) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^80]: A 15. § (18) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.
