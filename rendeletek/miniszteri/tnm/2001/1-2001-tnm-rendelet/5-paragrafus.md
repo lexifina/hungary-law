@@ -1,3 +1,5 @@
+## 4. §[^3]
+
 ## A szolgálatok védekezési feladatai
 
 ## 5. § A szolgálat főigazgatója irányítja és ellenőrzi a védekezésre való felkészülés és a védekezési időszak feladatainak teljesítését. Ennek érdekében:
@@ -9,3 +11,5 @@ b) gondoskodik a felkészülés során a katasztrófavédelem megyei, fővárosi
 c) gondoskodik a Kat. 17. § d) pontjában és 20. § (1) bekezdés b) pontjában meghatározott esetekben a megyei, fővárosi védelmi bizottság elnökének, illetve a polgármesternek az élet és az anyagi javak védelme érdekében kiadott intézkedései végrehajtásáról;
 
 d) teljesíti a Kat. 21. §-ában meghatározott adatszolgáltatási kötelezettségét.
+
+[^3]: A 4. §-t a 44/2017. (XII. 29.) BM rendelet 8. § e) pontja hatályon kívül helyezte.
