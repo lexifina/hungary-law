@@ -1,6 +1,6 @@
-## 3. §[^2] A Kormány a 2. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
+## 3. §[^3] A Kormány a 2. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
 
-4. § (1) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a 2. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban a szakhatóság – a hatóság határozatának meghozataláig felhasználható – előzetes szakhatósági hozzájárulást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 44. § (8) bekezdése szerint használja fel.
+4. § (1)[^4]
 
 (2) A 2. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban a szakhatósági eljárásra vonatkozó ügyintézési határidő nyolc nap.
 
@@ -14,9 +14,11 @@ b) nem kell településképi véleményezési eljárást lefolytatni és
 
 c) településképi bejelentési eljárásnak nincs helye.
 
-(5) A 2. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban hozott döntés fellebbezésre tekintet nélkül végrehajtható.
+(5)[^5]
 
-(6)[^3]
+(6)[^6]
 
-[^2]: A 3. § a 72/2015. (III. 30.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
-[^3]: A 4. § (6) bekezdését a 72/2015. (III. 30.) Korm. rendelet 53. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^3]: A 3. § a 72/2015. (III. 30.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^4]: A 4. § (1) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 91. § b) pontja hatályon kívül helyezte.
+[^5]: A 4. § (5) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 91. § b) pontja hatályon kívül helyezte.
+[^6]: A 4. § (6) bekezdését a 72/2015. (III. 30.) Korm. rendelet 53. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 114. §-át.

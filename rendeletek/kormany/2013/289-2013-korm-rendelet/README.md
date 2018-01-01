@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-289-20-
 | 2017-01-01 | 2013-289-20-22.9 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2013-289-20-22.10 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2017-07-01 | 2013-289-20-22.11 | 380/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2013-289-20-22.12 | 458/2017. (XII. 28.) Korm. rendelet |
