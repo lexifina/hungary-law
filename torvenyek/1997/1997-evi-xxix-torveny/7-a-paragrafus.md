@@ -1,3 +1,3 @@
-7/A. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, a kárpótlási hatóság a döntését aközigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi kézbesítésre vonatkozó szabályai szerint közli.
+7/A. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, vagy a jogutód nem ismert, a kárpótlási hatóság a döntését az általános közigazgatási rendtartásról szóló törvény hirdetményi közlésre vonatkozó szabályai szerint közli.
 
-(2) Ha az eljárás során az ügyfél az eljárás jogerős befejezése előtt elhunyt, a jogutódlásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény jogutódlásra vonatkozó szabályait kell alkalmazni.
+(2)
