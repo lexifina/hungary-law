@@ -1,1 +1,0 @@
-## 13. § Ha a nyomtatványban nincs elegendő hely a nyilatkozatok megtételéhez, vagy a nyomtatvány rovatainak száma nem elegendő ahhoz, a félnek pótlapon kell folytatnia a kérelmét a nyomtatvány szerinti tartalommal.

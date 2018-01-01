@@ -1,3 +1,0 @@
-25. § (1) Ha a támogatás engedélyezése iránti kérelem szerződés készítésére irányul és az érintett felek kérelmei elbírálására más-más területi hivatal lenne illetékes, a felek – a (2) bekezdésben foglaltak kivételével – a közös kérelmüket megegyezésük szerint valamelyikük személye alapján illetékes területi hivatalnál terjeszthetik elő. A közös kérelmet a felek a nyomtatvány A) részét külön-külön példányon kitöltve és megküldve, míg a B) részt – legalább egyikük példányán – mindkettőjük aláírásával ellátva terjeszthetik elő.
-
-(2) A Jst. 3. §-a (1) bekezdésének i) pontja alá tartozó félnek kérelmét az általános szabályok szerint kell előterjeszteni.

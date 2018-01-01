@@ -1,1 +1,0 @@
-## 3. § A peren kívüli támogatás (e Részben a továbbiakban: támogatás) engedélyezésére irányuló eljárás során a félnek e rendelet szerint kell igazolnia azt, hogy megfelel az engedélyezés feltételeinek és nyilatkoznia arról, hogy milyen támogatást kér.

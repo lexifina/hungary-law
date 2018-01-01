@@ -1,3 +1,0 @@
-55. § (1) Nem kell kitöltenie a végrehajtást kérő vagy rendkívüli jogorvoslati eljárást kezdeményező félnek a nyomtatvány A) részének a személyi adatokra vonatkozó részén (I. pont) kívüli részét, ha a per során már részesült támogatásban és ennek további engedélyezését kéri a végrehajtási vagy a rendkívüli jogorvoslati eljárásra.
-
-(2) A jövedelmi, vagyoni helyzetre vonatkozó igazolásokat a félnek az (1) bekezdés szerinti esetben is csatolnia kell a kérelméhez a 11. §-ban foglaltaknak megfelelően, és nyilatkoznia kell arról, hogy a korábbi nyomtatványon feltüntetett adatok közül melyekben következett be változás.

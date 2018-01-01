@@ -1,3 +1,0 @@
-## 62. §[^69] A beavatkozó félnek a beavatkozást tartalmazó – ha azt a bírósághoz már benyújtotta, a bíróság által érkeztetett, ügyszámmal ellátott – nyilatkozatát, ha pedig kérelmét később terjeszti elő, a beavatkozást megengedő bírósági határozat másolatát kell csatolnia kérelméhez. Ugyancsak csatolnia kell kérelméhez a keresetlevél, vagy az eljárás folyamatban létének igazolására alkalmas bírósági irat másolatát.
-
-[^69]: A 62. § a 48/2009. (IX. 28.) IRM rendelet 30. § (5) bekezdés 22. pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

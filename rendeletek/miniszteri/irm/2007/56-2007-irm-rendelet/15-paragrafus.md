@@ -1,1 +1,0 @@
-## 14. § Ha a nyomtatványon vagy az ahhoz csatolt igazolásban feltüntetett adataiban változás következett be és a Jst. alapján a fél köteles annak bejelentésére, azt 3 munkanapon belül írásban kell bejelentenie a területi hivatalnak a szükséges igazolás egyidejű csatolása mellett.
