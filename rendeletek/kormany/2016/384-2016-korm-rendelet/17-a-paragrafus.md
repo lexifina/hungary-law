@@ -1,0 +1,1 @@
+## 17. § A járási hivatal az ingatlan-nyilvántartásról szóló törvény végrehajtására kiadott miniszteri rendelet szerinti földmérési földkönyvet elektronikusan szerkeszthető formában is szolgáltathatja.

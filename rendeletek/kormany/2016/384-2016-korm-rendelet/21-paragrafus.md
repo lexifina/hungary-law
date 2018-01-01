@@ -14,7 +14,7 @@ b) egyesített telekalakítási eljárás.
 
 a) a telekalakítás engedélyezésére, és
 
-b) a telekalakítási engedély jogerőre emelkedését követően a földrészlet adataiban, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére (e fejezet alkalmazásában a továbbiakban: változásátvezetési eljárás)
+b)[^12] a telekalakítási engedély véglegessé válását követően a földrészlet adataiban, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére (e fejezet alkalmazásában a továbbiakban: változásátvezetési eljárás)
 
 ## irányuló eljárás indul meg.
 
@@ -34,7 +34,7 @@ f) az a személy, aki a telekalakításról a tulajdonossal írásban megállapo
 
 (4) Egyesített telekalakítási eljárás iránti kérelmet az – a (3) bekezdés szerinti kérelem benyújtására jogosult – nyújthat be, aki az ingatlan-nyilvántartásról szóló törvényben foglaltak szerint az ingatlan-nyilvántartási eljárás megindítására egyébként jogosult.
 
-(5) A telekalakítási eljárás megindítása iránti kérelemnek a Ket.-ben meghatározottakon túl a következő adatokat kell tartalmaznia:
+(5)[^13] A telekalakítási eljárás megindítása iránti kérelemnek az Ákr.-ben meghatározottakon túl a következő adatokat kell tartalmaznia:
 
 a) természetes személy kérelmező esetén a természetes személyazonosító adatokat;
 
@@ -71,3 +71,6 @@ b) az a) pont hatálya alá nem tartozó, de a földmérési és térképészeti
 (9) Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja a változási vázrajzon és a telekalakítási helyszínrajzon.
 
 (10) Azokra az ingatlanokra, amelyek a kisajátítást kérő tulajdonában vannak és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni és e kormányrendelet szerint záradékolt változási vázrajz alapján kerül sor a változás ingatlan-nyilvántartási átvezetésére.
+
+[^12]: A 21. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: A 21. § (5) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 594. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

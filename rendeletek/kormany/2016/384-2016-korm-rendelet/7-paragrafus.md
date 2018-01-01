@@ -14,4 +14,6 @@ c) a földmérési jogosultsággal rendelkező személy bejelentésére indult e
 
 (3) A felmérési, térképezési vagy területszámítási hiba kijavítására irányuló tényfeljegyzés az eljárást lezáró érdemi döntés ellen benyújtott fellebbezéssel támadható meg.
 
-(4) Törölni kell a tényfeljegyzést a járási hivatal ügy érdemében hozott döntésének jogerőre emelkedését követő munkanapon.
+(4)[^4] Törölni kell a tényfeljegyzést a járási hivatal ügy érdemében hozott döntésének véglegessé válását követő munkanapon.
+
+[^4]: A 7. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 594. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
