@@ -1,4 +1,4 @@
-## 16/B. §[^42] Ha az eseti légteret vagy annak egy részét a 3. mellékletben meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtérben jelölik ki, akkor az eseti légtér a 15/A. § (2) bekezdés f) pontjában meghatározott légtérigénylő hozzájárulásával és a légiközlekedési hatóságnak a korlátozott légtér igénybevételére vonatkozó engedélyével vehető igénybe.
+## 16/B. §[^34]
 
 ## A veszélyes légtér igénylése
 
@@ -24,4 +24,4 @@ e) lövészeti tevékenység esetén a lövészetvezető, lőtéri repülésveze
 
 (6) A tervben szereplő veszélyes légtérre vonatkozó igényt törölni kell, ha bizonyossá válik, hogy a tervezett feladat végrehajtására a tervezett időszakban nem kerül sor.
 
-[^42]: A 16/B. §-t a 25/2017. (VI. 30.) NFM rendelet 8. §-a iktatta be.
+[^34]: A 16/B. §-t a 25/2017. (VI. 30.) NFM rendelet 8. §-a iktatta be, hatályon kívül helyezte az 55/2017. (XII. 27.) NFM rendelet 33. § b) pontja.
