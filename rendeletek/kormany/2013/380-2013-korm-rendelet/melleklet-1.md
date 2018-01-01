@@ -12,7 +12,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 5. Útügyi, vasúti hatósági eljárások
 
-6.[^4] Műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások
+6.[^10] Műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások
 
 7. Vízügyi hatósági eljárások
 
@@ -42,4 +42,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 20. Az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások
 
-[^4]: Az 1. melléklet 6. pontja a 380/2016. (XII. 2.) Korm. rendelet 52. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: Az 1. melléklet 6. pontja a 380/2016. (XII. 2.) Korm. rendelet 52. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 119. §-át.
