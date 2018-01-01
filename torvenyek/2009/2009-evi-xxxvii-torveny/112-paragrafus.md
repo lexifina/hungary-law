@@ -24,7 +24,9 @@ h) határozza meg az erdészeti szakszemélyzet, a jogosult erdészeti szakszem�
 
 i) határozza meg az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
 
-j) határozza meg az elektronikus úton az erdészeti hatóság felé teljesítendő kérelem, bejelentés, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus ügyintézés, nyilvántartás és adatszolgáltatás részletes szabályait, az erdészeti hatósággal való elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat.
+j) határozza meg az elektronikus úton az erdészeti hatóság felé teljesítendő kérelem, bejelentés, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus ügyintézés, nyilvántartás és adatszolgáltatás részletes szabályait, az erdészeti hatósággal való elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat;
+
+k) határozza meg az erdőgazdálkodás korlátozása esetén fizetendő kártalanítás megállapításának részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
@@ -60,7 +62,7 @@ j) határozza meg az elektronikus úton az erdészeti hatóság felé teljesíte
 
 16. az erdőtelepítés és erdőfelújítás befejezetté nyilvánításának részletes szabályait;
 
-17.
+17. az erdészeti szakirányítás, illetve az erdőkezelés költségeihez való hozzájárulás részletes szabályait;
 
 18. az erdészeti termőhelyfeltárás részletes szabályait;
 

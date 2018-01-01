@@ -90,7 +90,7 @@ c) faapríték;
 
 40. szállítmányt kísérő dokumentáció: számla vagy szállítólevél, amely tartalmazza az adott fatermék csomagolási egységein feltüntetett, az adott árutétel vagy a szállítmány nyomon követését szolgáló jelzést is;
 
-41. zárlat: az e törvény hatálya alá tartozó fatermék mozgatásának, szállításának, forgalomba helyezésének, további feldolgozásának, kereskedelmének korlátozása hatósági eljárás vagy vizsgálat lefolytatása érdekében;
+41. zárlat: az e törvény hatálya alá tartozó fatermék mozgatásának, szállításának, forgalomba helyezésének, további feldolgozásának, kereskedelmének korlátozása hatósági ellenőrzés, eljárás, vizsgálat lefolytatása vagy a faanyag-kereskedelmi láncra vonatkozó előírások teljesítése érdekében;
 
 42. erdészeti feltáróhálózat: az erdőgazdálkodási tevékenység folytatása érdekében az erdőgazdálkodó által kialakított és fenntartott, erdészeti magánutakból, épített közelítő nyomokból és közelítő nyomokból álló erdei úthálózat;
 

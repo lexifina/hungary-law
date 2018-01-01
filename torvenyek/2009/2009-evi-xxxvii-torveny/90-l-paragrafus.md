@@ -1,4 +1,4 @@
-90/L. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos jogkövetkezményeket megállapító jogerős vagy fellebbezésre tekintet nélkül végrehajtható határozatának vagy végzésének kivonatát honlapján haladéktalanul közzéteszi, ha eljárása során mulasztást vagy jogszabálysértést állapít meg.
+90/L. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos jogkövetkezményeket megállapító végleges végrehajtható határozatának vagy végzésének kivonatát honlapján haladéktalanul közzéteszi, ha eljárása során mulasztást vagy jogszabálysértést állapít meg.
 
 (2) A közétett kivonatnak tartalmaznia kell:
 
@@ -6,7 +6,7 @@ a) a közzététel napját,
 
 b) a közzététel e törvény szerinti jogcímét,
 
-c) a jogerő beálltára vagy annak hiányára történő utalást,
+c) a véglegessé válásra vagy annak hiányára történő utalást,
 
 d) az eljáró hatóság megnevezését,
 
@@ -18,7 +18,7 @@ g) a vizsgált, e törvény hatálya alá tartozó fatermék nem megfelelőség�
 
 h) a megsértett jogszabályi rendelkezések megjelölését,
 
-i) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló rendelkezést, valamint
+i) a döntés rendelkező részét, ide nem értve végleges döntés esetén a jogorvoslatról szóló rendelkezést, valamint
 
 j) a döntéssel szembeni jogorvoslati eljárás tényét.
 

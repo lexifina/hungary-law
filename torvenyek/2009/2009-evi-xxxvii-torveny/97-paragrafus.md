@@ -11,3 +11,5 @@
 a) az erdészeti szakirányítói névjegyzékben szereplő jogosult erdészeti szakszemélyzet munkaviszony keretében vagy megbízással történő alkalmazása, valamint
 
 b) az erdészeti szakirányítói névjegyzékben szereplő jogosult erdészeti szakszemélyzetet munkaviszony keretében alkalmazó erdészeti szakirányító vállalkozás megbízása.
+
+(3) Az állam a 100%-os tulajdonában nem álló erdőben felmerülő erdészeti szakirányítás, illetve erdőkezelés költségeihez az e törvény végrehajtására kiadott jogszabályban foglaltak szerint hozzájárul.

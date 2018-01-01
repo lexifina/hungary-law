@@ -20,7 +20,7 @@
 
 (14)–(16)
 
-(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül kiadásra, akkor az új erdőterv jogerőre emelkedéséig
+(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül kiadásra, akkor az új erdőterv véglegessé válásáig
 
 a) a korábbi erdőterv érvényessége fennmarad, vagy
 

@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-37-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 2009-37-00-00.23 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2009-37-00-00.24 |
 | 2017-09-01 | 2017. évi LVI. törvény | 2009-37-00-00.25 |
+| 2018-01-01 | 2017. évi LVI. törvény | 2009-37-00-00.26 |

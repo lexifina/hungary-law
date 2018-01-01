@@ -46,4 +46,4 @@ b) mesterséges módon, amelynek során a kitermelendő faállomány védelmébe
 
 (10) Az erdészeti hatóság az erdőfelújítási kötelezettség teljesítését, illetve az erdőfelújítások állapotát rendszeresen ellenőrzi (a továbbiakban: erdőfelújítások műszaki átvétele). Az erdőfelújítások műszaki átvételére évente, a tárgyév október 15-ig bezárólag kerül sor. Az ellenőrzés eredményeit az erdészeti hatóság műszaki átvételi jegyzőkönyvben rögzíti.
 
-(11) Ha az erdőfelújítás műszaki átvételére a (10) bekezdésben foglaltak szerint nem kerül sor, az erdőgazdálkodó az erdőfelújítás állapotát évente, a tárgyév október 31-ig bejelenti az erdészeti hatóság részére.
+(11)

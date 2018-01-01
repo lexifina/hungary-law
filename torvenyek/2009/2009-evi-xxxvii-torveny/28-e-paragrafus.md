@@ -19,3 +19,7 @@ f) fokozatos felújítóvágás, szálalóvágás esetén – amennyiben a terü
 g) az erdőgazdálkodási tevékenység gyakorlásának bármely okból öt évnél hosszabb időtartamra vonatkozó korlátozására
 
 közérdekből, nem az erdőgazdálkodó kezdeményezésére vagy egyetértésével kerül sor.
+
+(3) Az erdőgazdálkodás (2) bekezdésben foglalt jelentős közérdekű korlátozása esetén az erdőgazdálkodó e törvény végrehajtására kiadott rendeletben foglaltak szerint meghatározott mértékű kártalanításra jogosult. A korlátozás elrendeléséről szóló döntésben rendelkezni kell a korlátozásból eredő kártalanításról. A kártalanítás összegéből le kell vonni az adott terület vonatkozásában más forrásokból igénybe vehető támogatások összegét. Nem jár kártalanítás, ha a korlátozást tulajdonosi vagy erdőgazdálkodói jogellenes magatartás eredményezte.
+
+(4) A miniszter évente tájékoztatót tesz közzé az erdőgazdálkodás jelentős közérdekű korlátozásairól és azok eredményeiről.

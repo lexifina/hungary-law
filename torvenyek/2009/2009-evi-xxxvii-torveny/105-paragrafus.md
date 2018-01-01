@@ -1,29 +1,47 @@
-105. § (1) Az erdészeti hatósági eljárásokban hozott határozatok fellebbezéssel nem támadott rendelkezései tekintetében a jogorvoslati határidő elteltével beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+105. § (1) Erdészeti hatósági eljárásban
 
-(2)
+a) az erdészeti hatóság az ügyféllel és az eljárásban résztvevőkkel írásban tart kapcsolatot,
 
-(3) Az erdőterv-módosítási eljárás, az igénybevételi eljárás, valamint az erdőgazdálkodói nyilvántartásba vételi eljárás ügyintézési határideje – az egyszerűsített erdőgazdálkodói nyilvántartásba vétel kivételével – harmincöt nap.
+b) kérelmet előterjeszteni csak írásban lehet,
 
-(4) Ha az erdészeti hatósági eljárás a Ket.-ben meghatározott jelentős számú ügyfelet érint, akkor a hatóság – a körzeti erdőtervezési eljárás kivételével – az ügyféllel hirdetményi úton tart kapcsolatot.
+c) döntést szóban közölni nem lehet,
 
-(5) Az erdészeti hatóság az erdőben folyó tevékenység jogszerűségét az ügyfél előzetes értesítésének mellőzésével is ellenőrizheti.
+d) hatósági ellenőrzést az ügyfél nem kérhet,
 
-(6) Az erdészeti szakszemélyzet névjegyzékből való törlése esetén a törlés tényét a névjegyzékben haladéktalanul fel kell tüntetni.
+e) szünetelés nem kérhető.
 
-(7) Az erdőgazdálkodó nyilvántartásba történő bejegyzése iránti eljárást az erdészeti hatóság a bírósági eljárás jogerős lezárásáig felfüggeszti, ha
+(2) Erdészeti hatósági eljárásban a hatóság az ügyfelet az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 44. § b) pontjában foglalt esetben két alkalommal hiánypótlásra hívhatja fel.
 
-a) a bejegyzés alapjául szolgáló magánokirat valódiságát a felek, illetve a hitelesítő vagy ellenjegyző személyek valamelyike vitatja; vagy
+(3) Erdőtelepítés vagy erdőfelújítás befejezetté nyilvánítására irányuló eljárás ügyintézési határideje az érintett erdőtelepítés vagy erdőfelújítás műszaki átvételekor kezdődik.
 
-b) a bejegyzéssel érintett ingatlan társult erdőgazdálkodásra kötelezett legalább 25% tulajdoni hányaddal rendelkező tulajdonosai az ingatlan közös tulajdonának megszüntetését kezdeményezték.
+(4) Az ügyintézési határidő
 
-(8) Ha a (7) bekezdésben foglalt bejelentést tevő személyek az erdészeti hatósági hiánypótlási felhívásban meghatározott határidő alatt a bejegyzés alapjául szolgáló okirat érvénytelensége, illetve a közös tulajdon megszüntetése iránti per megindítását a keresetlevélnek a bíróságon iktatott példányával vagy annak hiteles másolatával nem igazolják, az erdészeti hatóság érdemi határozatot hoz a bejegyzési kérelem tekintetében.
+a) erdőterv-módosítási eljárás, az erdő igénybevételének elvi engedélyezésére vagy engedélyezésére irányuló eljárás, jogosulatlan igénybevétel fennmaradásának engedélyezésére irányuló, valamint az erdőgazdálkodói nyilvántartásba-vételi eljárás esetén – az egyszerűsített erdőgazdálkodói nyilvántartásba vétel kivételével – kilencven nap,
 
-(9) Semmisségi oknak minősül, ha az erdészeti hatóság az erdő igénybevételének engedélyezéséről, elvi engedélyezéséről a közérdekűség vagy a kivételesség e törvény szerinti vizsgálata nélkül dönt.
+b) a körzeti erdőtervezési eljárás és a faanyag kereskedelmi lánc hatósági felügyelettel kapcsolatos eljárás esetén százhúsz nap.
 
-(10) Az erdészeti hatóságnak az erdő igénybevételi eljárásban és az erdő területén fátlan állapot kialakításának vagy fenntartásának engedélyezési eljárásában a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(5) Az erdészeti hatóságnak az Ákr. szerinti függő hatályú döntésében nem kell rendelkezni a kérelmezett jog gyakorlásáról
 
-(11) Az erdészeti hatóság az eljárását az ügy érdemével összefüggően indított büntetőeljárás vagy szabálysértési eljárás jogerős lezárásáig felfüggesztheti.
+a) az erdő igénybevételének elvi engedélyezésére vagy engedélyezésére,
 
-(12) Az erdészeti hatóság a rendészeti feladatokat ellátó erdészeti szakszemélyzet erdészeti szakirányítói névjegyzékbe történő felvételére irányuló eljárását a rendészeti tevékenység gyakorlásához szükséges szolgálati igazolvány és jelvény kiállítása iránti eljárás jogerős lezárásáig felfüggeszti.
+b) jogosulatlan igénybevétel fennmaradásának engedélyezésére,
 
-(13) Erdőgazdálkodási bírság kiszabása iránti eljárásban, ha a bírságolásra az erdő állapotának vizsgálata és értékelése alapján kerül sor és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
+c) az erdő fátlan állapotban tartásának engedélyezésére,
+
+d) az erdő alacsonyabb záródással való fenntartásának engedélyezésére,
+
+e) az erdő rendeltetésének megállapítására vagy törlésére,
+
+f) az erdőterv módosítására, és
+
+g) a szennyvíziszap alkalmazásának engedélyezésére
+
+irányuló eljárásban.
+
+(6) Az (5) bekezdés szerinti eljárásokban sommás eljárás nem alkalmazható.
+
+(7) Az erdő igénybevételének engedélyezésére vagy elvi engedélyezésére irányuló eljárásban súlyos eljárási jogszabálysértésként semmisségi oknak minősül, ha az erdészeti hatóság a közérdekűség vagy a kivételesség e törvény szerinti vizsgálata nélkül dönt.
+
+(8) Erdőgazdálkodási bírság kiszabása iránti eljárásban, ha a bírságolásra az erdő állapotának vizsgálata és értékelése alapján kerül sor, és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
+
+(9) Az erdészeti hatóság végleges döntésében foglalt kötelezettség végrehajtását – a pénzügyi kötelezés kivételével – az erdészeti hatóság foganatosítja.
