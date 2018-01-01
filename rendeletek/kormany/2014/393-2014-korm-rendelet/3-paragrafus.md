@@ -1,10 +1,8 @@
-## 2. §[^1] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+## 2. §[^2] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
 
-3. § (1) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére az 1. § (1) bekezdése szerinti hatósági eljárásokban a szakhatóság – a hatóság határozatának meghozataláig felhasználható – előzetes szakhatósági állásfoglalást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 44. § (8) bekezdése szerint használja fel.
+3. § (1)–(2)[^3]
 
-(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
-
-(3)[^2]
+(3)[^4]
 
 (4) Az 1. § (1) bekezdése szerinti beruházással összefüggésben
 
@@ -14,5 +12,6 @@ b) építésügyi hatósági ügyekben nem kell településképi véleményezés
 
 c) településképi bejelentési eljárásnak nincs helye.
 
-[^1]: A 2. § a 72/2015. (III. 30.) Korm. rendelet 103. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
-[^2]: A 3. § (3) bekezdését a 72/2015. (III. 30.) Korm. rendelet 103. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.
+[^2]: A 2. § a 72/2015. (III. 30.) Korm. rendelet 103. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^3]: A 3. § (1)–(2) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 172. § b) pontja hatályon kívül helyezte.
+[^4]: A 3. § (3) bekezdését a 72/2015. (III. 30.) Korm. rendelet 103. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.

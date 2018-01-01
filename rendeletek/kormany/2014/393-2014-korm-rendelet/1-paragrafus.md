@@ -4,4 +4,6 @@
 
 (3) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 
-(4) Azokban az esetekben, amikor az 1. mellékletben meghatározott eljárásfajtára vonatkozó jogszabály az adott eljárásban szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
+(4)[^1]
+
+[^1]: Az 1. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 172. § a) pontja hatályon kívül helyezte.
