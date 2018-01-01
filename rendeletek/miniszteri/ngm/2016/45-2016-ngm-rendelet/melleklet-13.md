@@ -1,4 +1,4 @@
-13. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^59]
+13. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^101]
 
 ## Jövedéki engedélyes kereskedő és jövedéki kiskereskedő által forgalmazható üzemanyag minőségi követelményei
 
@@ -92,7 +92,7 @@
 
 | 11. | Rézlemez-korrózió; (3 óra, 50 °C) | fokozat | 1. osztály | EN ISO 2160 |
 
-| 12. | Külső megjelenés |  | tiszta és átlátszó, színezetlen | szemrevételezés |
+| 12. | Külső megjelenés |  | tiszta és átlátszó | szemrevételezés |
 
 | 13. | Szén hidrogéncsoport-összetétel: | % (V/V) | - |  | EN 15553 |
 
@@ -142,7 +142,7 @@
 
 | A | C/C1 | D/D1 |
 
-| 3. | Gőznyomás, (DVPE) * | kPa, legalább | 45,0 | 50,0 | 60,0 | EN 13016-1 |
+| 3. | Gőznyomás (DVPE) | kPa, legalább | 45,0 | 50,0 | 60,0 | EN 13016-1 |
 
 | kPa, legfeljebb | 60,0 | 80,0 | 90,0 |
 
@@ -156,7 +156,7 @@
 
 | mennyiség, E100 |  |  |  |  |
 
-| 6. | 150 °C-ig | % (WV), legalább | 75,0 | 75,0 | 75,0 | EN ISO 3405 |
+| 6. | 150 °C-ig | %(V/V), legalább | 75,0 | 75,0 | 75,0 | EN ISO 3405 |
 
 | mennyiség, E150 |  |  |  |  |
 
@@ -234,7 +234,7 @@
 
 | EN ISO 12185 |
 
-| 7. | Kéntartalom6 | mg/kg | - | 10,0 | EN ISO 13032 |
+| 7. | Kéntartalom | mg/kg | - | 10,0 | EN ISO 13032 |
 
 | EN ISO 20846 |
 
@@ -250,7 +250,7 @@
 
 | 11. | Rézlemez-korrózió; (3 óra, 50 °C) | fokozat | 1. osztály | EN ISO 2160 |
 
-| 12. | Külső megjelenés |  | tiszta és átlátszó, színezetlen | szemrevételezés |
+| 12. | Külső megjelenés |  | tiszta és átlátszó | szemrevételezés |
 
 | 13. | Szén hidrogéncsoport-összetétel: | % (V/V) | - |  | EN 15553 |
 
@@ -300,7 +300,7 @@
 
 | A | C/C1 | D/D1 |
 
-| 3. | Gőznyomás, (DVPE)* | kPa, legalább | 45,0 | 50,0 | 60,0 | EN 13016-1 |
+| 3. | Gőznyomás (DVPE) | kPa, legalább | 45,0 | 50,0 | 60,0 | EN 13016-1 |
 
 | kPa, legfeljebb | 60,0 | 80,0 | 90,0 |
 
@@ -324,7 +324,7 @@
 
 | 8. | Desztillációs maradék | % (V/V), legfeljebb | 2 | 2 | 2 | EN ISO 3405 |
 
-| 9. | Illékonysági Index, (VLI) |  |  | C | D |  |
+| 9. | Illékonysági index, (VLI) |  |  | C | D |  |
 
 | (10VP + 7 E70) | index, legfeljebb | - | - | - |  |
 
@@ -390,11 +390,13 @@
 
 | EN 16144 |
 
+| EN 16715 |
+
 | 4. | Cetánindex |  | 46,0 | - | EN ISO 4264 |
 
 | 5. | Sűrűség 15 °C-on | kg/m3 | 820,0 | 845,0 | EN ISO 3675 |
 
-| EN ISO 12185 |
+| EN ISO12085 |
 
 | 6. | Többgyűrűs aromás szénhidrogének | % (m/m) | - | 8 | EN 12916 |
 
@@ -412,7 +414,7 @@
 
 | 11. | Hamutartalom | % (m/m) | - | 0,010 | EN ISO 6245 |
 
-| 12. | Víztartalom | mg/kg | - | 200 | EN ISO 12937 |
+| 12. | Víztartalom | mg/kg % (m/m) | - | 200 0,020 | EN ISO 12937 |
 
 | 13. | Összes szennyezőanyag | mg/kg | - | 24 | EN 12662 |
 
@@ -426,7 +428,7 @@
 
 |  | h | 20 | - | EN 15751 |
 
-| 17. | Kenőképesség, a korrigált kopási bemaródás átmérője (wsd 1,4) 60 °C-on | µm | - | 460 | EN ISO 12156-1 |
+| 17. | Kenőképesség, a korrigált kopási bemaródás átmérője (WSD) 60°C-on | µm | - | 460 | EN ISO 12156-1 |
 
 | 18. | Viszkozitás, 40 °C-on | mm2/s | 2,000 | 4,500 | EN ISO 3104 |
 
@@ -486,7 +488,7 @@
 
 | 5. | Kompressziótűrés |  |  |  |  |  |  |
 
-| 6. | Oktánszám (sovány keverék) | legalább |  | 80 | 100,0 | 100,0 | MSZ ISO 5163 |
+| 6. | Oktánszám (sovány keverék) | legalább |  | 80,0 | 100,0 | 100,0 | MSZ ISO 5163 |
 
 | 7. | Oktánszám (dús keverék) | legalább |  | 87,0 | - | - | ASTM D 909 |
 
@@ -518,9 +520,9 @@
 
 | 21. | Desztillációs veszteség | legfeljebb | % (V/V) | 1,5 |
 
-| 22. | Gőznyomás | legalább | kPa | 38 | MSZ EN 13016-1 |
+| 22. | Gőznyomás | legalább | kPa | 38,0 | MSZ EN 13016-1 |
 
-| legfeljebb | 49 |
+| legfeljebb | 49.0 |
 
 | 23. | Kéntartalom | legfeljebb | % (m/m) | 0,05 | MSZ EN ISO 20846 |
 
@@ -590,7 +592,7 @@
 
 | MSZ 15973 |
 
-| 9. | Összes kéntartalom, legfeljebb, % (m/m) | 0,3 | MSZ EN ISO 8754* |
+| 9. | Összes kéntartalom, legfeljebb, % (m/m) | 0,30 | MSZ EN ISO 8754* |
 
 | MSZ EN ISO 20846 |
 
@@ -632,7 +634,7 @@
 
 | és |  |  |
 
-| Naftalintartalom, legfeljebb, % (V/V) | 3 | MSZ 2046 |
+| Naftalintartalom, legfeljebb, % (V/V) | 3,0 | MSZ 2046 |
 
 | 24. | Korróziós hatás rézlemezen (2 óra/100 °C), legfeljebb, korróziós fokozat | 1 | MSZ EN ISO 2160 |
 
@@ -642,7 +644,7 @@
 
 | 27. | Lerakódás a fűtőcsövön, legfeljebb, fokozat | 3 |
 
-| 28. | Tényleges gyantatartalom, legfeljebb, mg/100 cm3 | 7 | MSZ EN ISO 6246 |
+| 28. | Tényleges gyantatartalom, legfeljebb, mg/100 cm3 | 7,0 | MSZ EN ISO 6246 |
 
 | 29. | Mikroszeparációs index (MSEP-A): | MSZ 10876 |
 
@@ -654,11 +656,13 @@
 
 | 33. | Szilárd szennyezőanyag-tartalom, legfeljebb, mg/l, | 1 | MSZ 10875 |
 
-| 34. | Vitás esetben, ha egy paraméterhez több vizsgálati módszer van megadva, és van aláhúzással jelölt (döntő) módszer, akkor azt kell alkalmazni. |
+| 34. | Savszám, legfeljebb, mg KOH/g | 0,015 | MSZ ISO 6618 |
 
-| 35. | *0,05 % (m/m)-nál kisebb kéntartalom meghatározásához az MSZ EN 8754 szabvány nem alkalmas döntő vizsgálatként. |
+| 35. | Vitás esetben, ha egy paraméterhez több vizsgálati módszer van megadva, és van aláhúzással jelölt (döntő) módszer, akkor azt kell alkalmazni. |
 
-| 36. | ** Az MSZ 10879 módszer alkalmazása esetén a lobbanáspont legalább 40 °C. |
+| 36. | *0,05% (m/m)-nál kisebb kéntartalom meghatározásához az MSZ EN ISO 8754 szabvány nem alkalmas döntő vizsgálatként. |
+
+| 37. | ** Az MSZ 10879 módszer alkalmazása esetén a lobbanáspont legalább 40 °C. |
 
 4. E85
 
@@ -678,13 +682,13 @@
 
 | 5. | Gyantatartalom (oldószerrel mosott) | mg/100 ml | - | 5 | EN ISO 6246 |
 
-| 6. | Rézlemez-korrózió; (3 óra, 50 °C) | fokozat | 1. osztály | EN ISO 2160 |
+| 6. | Rézlemez-korrózió (3 óra, 50 °C) | fokozat | 1. osztály | EN ISO 2160 |
 
 | 7. | Összes savasság | % (m/m) | - | 0,005 | EN 15491 |
 
 | (ecetsavban kifejezve) |
 
-| 8. | Vezetőképesség | µS/cm | - | 1,5 | EN 15938 |
+| 8. | Vezetőképesség* | µS/cm | - | 1,5 | EN 15938 |
 
 | 9. | Metanol tartalom | % (V/V) | - | 1,0 | EN 1601 |
 
@@ -713,6 +717,8 @@
 | 17. | Szulfáttartalom | mg/kg | - | 4,0 | EN 15492 |
 
 | 18. | Vitás esetben, ha egy paraméterhez több vizsgálati módszer van megadva, és van aláhúzással jelölt (döntő) módszer, akkor azt kell alkalmazni. |
+
+| 19. | *Ha a kívánt határérték nem teljesül, ellenőrizni kell a korróziógátlók vezetőképességre gyakorolt hatását. Abban az esetben nem kifogásolható a minőség, ha a minta pH-ja az EN 15490 vagy az ASTM D6423-99 módszerek valamelyikével meghatározva 6,5 és 9,0 közötti. |
 
 4.2. Éghajlattól függő követelmények és vizsgálati módszerek
 
@@ -854,11 +860,11 @@
 
 | EN 16329 |
 
-| 5. | Nyáron: május 1-jétől szeptember 30-ig: D fokozat |
+| 5. | Nyáron: május 1-jétől szeptember 15-ig: D fokozat |
 
-| 6. | Télen: november 15-től február utolsó napjáig: E fokozat |
+| 6. | Télen: október 16-tól február utolsó napjáig: E fokozat |
 
-| 7. | Átmeneti (átállási) időszak: március 1-jétől április 30-ig és október 1-jétől november 14-ig: A-F fokozat |
+| 7. | Átmeneti (átállási) időszak: március 1-jétől április 30-ig és szeptember 16-tól október 15-ig: A-F fokozat |
 
 5.3.2. A monoglicerid-tartalom kiválasztása
 
@@ -914,7 +920,7 @@
 
 | 10. | Hőmérséklet, amelyen a gőznyomás |  | EN ISO 8973 és az MSZ EN 589:2008+A1:2012 C melléklete |
 
-| 11. | legalább 150 kPa túlnyomás: |
+| 11. | legalább 150 kPa (túlnyomás):: |
 
 | 12. | A fokozatra | °C | - | -10 |
 
@@ -934,11 +940,11 @@
 
 Üzemeltetés szempontjából legfeljebb 2000 mg/kg metanol hozzáadása megengedett.
 
-6.2. Évszakhoz kötött gőznyomás- (túlnyomás) határértékek 40 °C-on
+6.2. Évszakhoz kötött gőznyomás- (túlnyomás-) határértékek 40 °C-on
 
 |  | A | B | C |
 
-| 1. | Évszakhoz kötött gőznyomás- (túlnyomás) határértékek 40 °C-on |
+| 1. | Évszakhoz kötött gőznyomás- (túlnyomás-) határértékek 40 °C-on |
 
 | 2. | Fokozat | Legalább | 150 kPa-nak megfelelő hőmérséklet |
 
@@ -958,4 +964,4 @@
 
 | 9. | március 1-jétől november 14-ig: E fokozat |
 
-[^59]: A 13. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (5) bekezdése szerint módosított szöveg.
+[^101]: A 13. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (5) bekezdése, a 47/2017. (XII. 27.) NGM rendelet 12. § (3) bekezdése szerint módosított szöveg.

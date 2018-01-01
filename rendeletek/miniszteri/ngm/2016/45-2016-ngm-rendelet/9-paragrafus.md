@@ -30,4 +30,6 @@ a) által készített bizonylat formátuma, tartalma, kiállításának és feld
 
 b) a felhasznált sorszám (ideértve a stornózott sorszámot is) ismételt felhasználását ne engedélyezze, és
 
-c) a – szállítólevél, valamint azon okmány kivételével, amelyet az állami adó- és vámhatóságtól eltérő hatóság forgalmaz és hitelesít – az állami adó- és vámhatóság által az adott időszakra – az állami adó- és vámhatóság által rendszeresített formanyomtatványon benyújtott kérelemre – kiadott sorszámok felhasználását emelkedő számsorrendben, kizárólag egy alkalommal tegye lehetővé a bizonylat kiállítása során és az állami adó- és vámhatóság által kiadott sorszámok esetén önálló sorszámgenerálást vagy ugyanazon számsorrend újbóli felhasználását ne tegye lehetővé.
+c)[^9] ha a bizonylat szigorú számadású jellegének biztosítása az állami adó- és vámhatóságtól igényelt sorszámtartomány felhasználásával történik – a szállítólevél, valamint azon okmány kivételével, amelyet az állami adó- és vámhatóságtól eltérő hatóság forgalmaz és hitelesít –, az állami adó- és vámhatóság által az adott időszakra – az állami adó- és vámhatóság által rendszeresített formanyomtatványon benyújtott kérelemre – kiadott sorszámok felhasználását emelkedő számsorrendben, kizárólag egy alkalommal tegye lehetővé a bizonylat kiállítása során és az állami adó- és vámhatóság által kiadott sorszámok esetén önálló sorszámgenerálást vagy ugyanazon számsorrend újbóli felhasználását ne tegye lehetővé.
+
+[^9]: A 9. § (3) bekezdés c) pontja a 47/2017. (XII. 27.) NGM rendelet 1. §-ával megállapított szöveg.

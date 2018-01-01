@@ -32,7 +32,7 @@ ca) telephelyének címét,
 
 cb) időpontját (év, hó, nap),
 
-cc)[^16] célját [így különösen értékesítés, átszállítás másik telephelyre, megsemmisítésre szállítás, (2a) bekezdés szerinti tevékenység],
+cc)[^32] célját [így különösen értékesítés, átszállítás másik telephelyre, megsemmisítésre szállítás, (2a) bekezdés szerinti tevékenység],
 
 d) a szállítás címzettjének vagy az átvevőnek
 
@@ -54,11 +54,11 @@ ed) a címzett engedélyszámát (ha engedélyes).
 
 (2) Nem kell tartalmaznia az (1) bekezdés szerinti bizonylatnak a termék KN-kódját és az (1) bekezdés d) pontja szerinti adatokat, ha a vevő magánszemély végfelhasználó.
 
-(2a)[^17] Nem kell tartalmaznia az (1) bekezdés szerinti bizonylatnak az (1) bekezdés d) pontja szerinti adatokat, ha a jövedéki engedélyes kereskedő szállító a szállításkor nem ismeri a jövedéki engedélyes kereskedő vagy jövedéki kiskereskedő vevő adatait vagy a részükre értékesített jövedéki termék pontos mennyiségét, és az e bekezdés szerinti tevékenységre történő utalást az (1) bekezdés c) pont cc) alpontja szerinti adat egyértelműen tartalmazza.
+(2a)[^33] Nem kell tartalmaznia az (1) bekezdés szerinti bizonylatnak az (1) bekezdés d) pontja szerinti adatokat, ha a jövedéki engedélyes kereskedő szállító a szállításkor nem ismeri a jövedéki engedélyes kereskedő vagy jövedéki kiskereskedő vevő adatait vagy a részükre értékesített jövedéki termék pontos mennyiségét, és az e bekezdés szerinti tevékenységre történő utalást az (1) bekezdés c) pont cc) alpontja szerinti adat egyértelműen tartalmazza.
 
-(2b)[^18] Nem kell tartalmaznia az (1) bekezdés szerinti bizonylatnak az (1) bekezdés e) pontja szerinti adatokat, ha az engedélyes a Jöt. 24. § (1) bekezdése és a Jöt. 24. § (4) bekezdés b) pontja szerinti adatszolgáltatásában szerepelteti az (1) bekezdés e) pontja szerinti adatokat, és az engedélyes nyilvántartásában a bizonylat azonosító számához rendelt információkból ellenőrzéskor megállapítható a termék készlettípusa és mennyisége (az adó alapjául szolgáló mennyiségi egységben), a készletváltozás jogcímkódja és a termék fajtakódja.
+(2b)[^34] Nem kell tartalmaznia az (1) bekezdés szerinti bizonylatnak az (1) bekezdés e) pontja szerinti adatokat, ha az engedélyes a Jöt. 24. § (1) bekezdése és a Jöt. 24. § (4) bekezdés b) pontja szerinti adatszolgáltatásában szerepelteti az (1) bekezdés e) pontja szerinti adatokat, és az engedélyes nyilvántartásában a bizonylat azonosító számához rendelt információkból ellenőrzéskor megállapítható a termék készlettípusa és mennyisége (az adó alapjául szolgáló mennyiségi egységben), a készletváltozás jogcímkódja és a termék fajtakódja.
 
-(3)[^19] A Jöt. 9. § (1) bekezdés a) pontja szerinti adóraktár engedélyese – abban az esetben is, ha az utas úti célja tagállam – által az értékesítésről kiállított bizonylatnak az (1) bekezdéstől eltérően a termék kereskedelmi megnevezését, kereskedelmi mennyiségét és cikkszámát, valamint a beszállókártya számát kell tartalmaznia, ha az engedélyes nyilvántartásában ezen adatokhoz rendelt információkból ellenőrzéskor megállapítható a termék készlettípusa, a készletváltozás jogcímkódja és a termék fajtakódja.
+(3)[^35] A Jöt. 9. § (1) bekezdés a) pontja szerinti adóraktár engedélyese – abban az esetben is, ha az utas úti célja tagállam – által az értékesítésről kiállított bizonylatnak az (1) bekezdéstől eltérően a termék kereskedelmi megnevezését, kereskedelmi mennyiségét és cikkszámát, valamint a beszállókártya számát kell tartalmaznia, ha az engedélyes nyilvántartásában ezen adatokhoz rendelt információkból ellenőrzéskor megállapítható a termék készlettípusa, a készletváltozás jogcímkódja és a termék fajtakódja.
 
 (4) Az adóraktár engedélyese a nem saját tulajdonú energiatermék szabadforgalomba történő kiszállításakor az (1) bekezdés d) pontjában szereplő adatok helyett a termék felett rendelkezni jogosult tulajdonos nevét, címét és a vevő által előzetesen megadott, a szállítás címére vonatkozó diszpozíció számot tünteti fel. A fuvarozónak ebben az esetben rendelkeznie kell az energiatermék tulajdonosa által a fuvarozásra adott meghatalmazással, amely az (1) bekezdés szerinti bizonylat elválaszthatatlan részét képezi.
 
@@ -76,17 +76,18 @@ e) a jövedéki termék mennyiségi adatait az (1) bekezdés e) pont ec) alpontj
 
 f) az (1) bekezdés szerinti bizonylat azonosító számát.
 
-(5a)[^20] A Jöt. 9. § (1) bekezdés a) pontja szerinti adóraktár engedélyese – abban az esetben is, ha az utas úti célja tagállam – az általa szabadforgalomba bocsátott jövedéki termék kiszállítást követő 72 órán belül részben vagy teljes mennyiségében történő visszaszállítása esetén az adóraktárba visszaszállított jövedéki termékről az (5) bekezdéstől eltérően a (3) bekezdés szerinti adatokat tartalmazó bizonylatot állít ki.
+(5a)[^36] A Jöt. 9. § (1) bekezdés a) pontja szerinti adóraktár engedélyese – abban az esetben is, ha az utas úti célja tagállam – az általa szabadforgalomba bocsátott jövedéki termék kiszállítást követő 72 órán belül részben vagy teljes mennyiségében történő visszaszállítása esetén az adóraktárba visszaszállított jövedéki termékről az (5) bekezdéstől eltérően a (3) bekezdés szerinti adatokat tartalmazó bizonylatot állít ki.
 
 (6) Az (5) bekezdés szerinti bizonylat szolgál az adófelfüggesztés alatt álló jövedéki termék készlet növekedésének alapbizonylataként, melyet a Jöt. 24. § (3) bekezdése szerint a szabadforgalomba bocsátásról az azzal egyidejű adatküldést választó adóraktár engedélyese a bizonylat kiállításával egyidejűleg megküld az állami adó- és vámhatóság részére.
 
-(7)[^21] Az LPG szabadforgalomba bocsátás céljából végzett kiszállítása esetén, ha az LPG értékesítése előre pontosan nem ismert mennyiségekben, különböző adómértékeken valósul meg, az adóraktár engedélyese a szállításról kiállított (1) bekezdés szerinti bizonylaton nem köteles szerepeltetni az (1) bekezdés d) pontja szerinti adatokat, és a ténylegesen szabadforgalomba bocsátott LPG mennyiségét a szabadforgalomba történő kiszállítást követően legkésőbb 72 órán belül vezeti be a nyilvántartásába az értékesítésről kiállított számlák, nyugták alapján.
+(7)[^37] Az LPG szabadforgalomba bocsátás céljából végzett kiszállítása esetén, ha az LPG értékesítése előre pontosan nem ismert mennyiségekben, különböző adómértékeken valósul meg, az adóraktár engedélyese a szállításról kiállított (1) bekezdés szerinti bizonylaton nem köteles szerepeltetni az (1) bekezdés d) pontja szerinti adatokat, és a ténylegesen szabadforgalomba bocsátott LPG mennyiségét a szabadforgalomba történő kiszállítást követően legkésőbb 72 órán belül vezeti be a nyilvántartásába az értékesítésről kiállított számlák, nyugták alapján.
 
-(8) Az EKO papíralapú példányait az állami adó- és vámhatóság állítja elő és forgalmazza.
+(8)[^38] Az EKO nyomtatványa az állami adó- és vámhatóságtól is beszerezhető.
 
-[^16]: A 36. § (1) bekezdés c) pont cc) alpontja az 5/2017. (III. 30.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^17]: A 36. § (2a) bekezdését az 5/2017. (III. 30.) NGM rendelet 12. § (2) bekezdése iktatta be.
-[^18]: A 36. § (2b) bekezdését az 5/2017. (III. 30.) NGM rendelet 12. § (2) bekezdése iktatta be.
-[^19]: A 36. § (3) bekezdése az 5/2017. (III. 30.) NGM rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^20]: A 36. § (5a) bekezdését az 5/2017. (III. 30.) NGM rendelet 12. § (4) bekezdése iktatta be.
-[^21]: A 36. § (7) bekezdése az 5/2017. (III. 30.) NGM rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^32]: A 36. § (1) bekezdés c) pont cc) alpontja az 5/2017. (III. 30.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^33]: A 36. § (2a) bekezdését az 5/2017. (III. 30.) NGM rendelet 12. § (2) bekezdése iktatta be.
+[^34]: A 36. § (2b) bekezdését az 5/2017. (III. 30.) NGM rendelet 12. § (2) bekezdése iktatta be.
+[^35]: A 36. § (3) bekezdése az 5/2017. (III. 30.) NGM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^36]: A 36. § (5a) bekezdését az 5/2017. (III. 30.) NGM rendelet 12. § (4) bekezdése iktatta be.
+[^37]: A 36. § (7) bekezdése az 5/2017. (III. 30.) NGM rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^38]: A 36. § (8) bekezdése a 47/2017. (XII. 27.) NGM rendelet 3. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 56/A. §[^28] A Jöt 9. § (1) bekezdés i)–j) pontjában meghatározott esetben az egyes, az általános forgalmi adót és a jövedéki adót érintő kiváltságok, kedvezmények és mentességek érvényesítésének végrehajtásáról szóló 11/2010. (III. 31.) PM rendelet (a továbbiakban: 11/2010. PM rendelet) rendelkezéseit kell alkalmazni.
+## 56/A. §[^54] A Jöt 9. § (1) bekezdés i)–j) pontjában meghatározott esetben az egyes, az általános forgalmi adót és a jövedéki adót érintő kiváltságok, kedvezmények és mentességek érvényesítésének végrehajtásáról szóló 11/2010. (III. 31.) PM rendelet (a továbbiakban: 11/2010. PM rendelet) rendelkezéseit kell alkalmazni.
 
 57. § (1) A Jöt. 112. § (1) bekezdés a) pontja szerinti felhasználás esetén a Honvédelmi Minisztérium adóraktári engedéllyel rendelkező, vám- és határforgalmi feladatok végrehajtásáért felelős szervezeti egysége a repülőgép-üzemanyagnak
 
@@ -14,4 +14,7 @@ b) az Észak-atlanti Szerződés részes államainak és az 1995. évi CII. tör
 
 (4) Az üzemanyagtöltő ponton a repülőgép-üzemanyag átvétele és légijárműbe történő töltése során hitelesített átfolyásmérőt kell alkalmazni.
 
-[^28]: Az 56/A. §-t az 5/2017. (III. 30.) NGM rendelet 17. §-a iktatta be
+(5)[^55] A Jöt. 112. § (1) bekezdés d) pontja szerinti felhasználás esetén a Honvédelmi Minisztérium adóraktári engedéllyel rendelkező, vám- és határforgalmi feladatok végrehajtásáért felelős szervezeti egysége az üzemanyag kiszolgálást az (1) bekezdés b) pontja szerinti bizonylattal dokumentálva számolja el.
+
+[^54]: Az 56/A. §-t az 5/2017. (III. 30.) NGM rendelet 17. §-a iktatta be
+[^55]: Az 57. § (5) bekezdését a 47/2017. (XII. 27.) NGM rendelet 7. §-a iktatta be.

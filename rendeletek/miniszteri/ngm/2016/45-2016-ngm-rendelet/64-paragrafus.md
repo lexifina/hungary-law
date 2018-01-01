@@ -8,11 +8,11 @@ a) az Európai Unió tagállamának vámhatósága által az áru Unió vámter�
 
 b) a Jöt. 77. § (2) bekezdése szerinti esetben a jogszabályban meghatározott NATO Vámokmány vagy – a nem NATO tagállamokba történő kiszállítás esetében – az Egységes Vámokmány, amelyben exportőrként a Honvédelmi Minisztérium vagy az MH kijelölt szerve, címzettként a külföldön szolgálatot teljesítő MH egysége, alegysége, köteléke szerepel,
 
-c)[^30] a zárjeggyel ellátott jövedéki termék esetén a zárjegy állami adó- és vámhatóság képviselőinek jelenlétében elvégzett megsemmisítéséről, illetve érvénytelenítéséről a 93/L. § rendelkezéseinek alkalmazásával felvett jegyzőkönyv.
+c)[^57] a zárjeggyel ellátott jövedéki termék esetén a zárjegy állami adó- és vámhatóság képviselőinek jelenlétében elvégzett megsemmisítéséről, illetve érvénytelenítéséről a 93/L. § rendelkezéseinek alkalmazásával felvett jegyzőkönyv.
 
 (2) Az adó-visszaigénylési jogosultság abban az esetben is érvényesíthető, ha az ügyfél által megadott MRN azonosító alapján a váminformatikai rendszerben megállapítható az Unió vámterületéről történő kilépés ténye.
 
-(3)[^31] Az (1) bekezdés c) pont szerinti felülragasztással történő érvénytelenítéssel egy tekintet alá esik a zárjegyen fekete színű, nyomtatott „E” betű feltüntetése.
+(3)[^58] Az (1) bekezdés c) pont szerinti felülragasztással történő érvénytelenítéssel egy tekintet alá esik a zárjegyen fekete színű, nyomtatott „E” betű feltüntetése.
 
-[^30]: A 64. § (1) bekezdés c) pontját az 5/2017. (III. 30.) NGM rendelet 18. § (1) bekezdése iktatta be
-[^31]: A 64. § (3) bekezdését az 5/2017. (III. 30.) NGM rendelet 18. § (2) bekezdése iktatta be
+[^57]: A 64. § (1) bekezdés c) pontját az 5/2017. (III. 30.) NGM rendelet 18. § (1) bekezdése iktatta be
+[^58]: A 64. § (3) bekezdését az 5/2017. (III. 30.) NGM rendelet 18. § (2) bekezdése iktatta be

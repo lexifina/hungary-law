@@ -4,6 +4,8 @@
 
 ## 38. Ellenőrzés
 
-81. § (1) Az állami adó- és vámhatóság a Jöt.-ben és e rendeletben foglalt szabályok betartását jövedéki ellenőrzés keretében az Art. adatok gyűjtését célzó ellenőrzés szabályainak alkalmazásával ellenőrzi.
+81. § (1)[^67] Az állami adó- és vámhatóság a Jöt.-ben és e rendeletben foglalt szabályok betartását az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) szerinti adóellenőrzésnek nem minősülő ellenőrzés keretében az Air. szerinti jogkövetési vizsgálat szabályainak alkalmazásával ellenőrzi. E bekezdés alkalmazásában valamennyi kötelezettséget adókötelezettségnek kell tekinteni.
 
 (2) Az ellenőrzött személy az ellenőrzés során az ellenőrzést végzővel együttműködésre köteles.
+
+[^67]: A 81. § (1) bekezdése a 47/2017. (XII. 27.) NGM rendelet 10. §-ával megállapított szöveg.

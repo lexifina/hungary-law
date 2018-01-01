@@ -1,4 +1,4 @@
-## 93/I. § A Jöt. 74. § (3) bekezdése szerinti zárjegyigénylő a Jöt. szerinti adatszolgáltatási kötelezettségét az 1. melléklet III. pontja szerinti adattartalommal teljesíti.
+## 93/I. §[^76] A Jöt. 74. § (3) bekezdése szerinti zárjegyigénylő a Jöt. 78. § (1) bekezdése szerinti nyilvántartási és adatszolgáltatási kötelezettségét az 1. melléklet III. pontja szerinti adattartalommal teljesíti.
 
 93/J. § (1) A zárjegyfelhelyezésre vonatkozó adatokat a zárjegyigénylő adatszolgáltatásban zárjegyköteles jövedéki termékenként,
 
@@ -19,3 +19,5 @@ az e célra az állami adó- és vámhatóság által rendszeresített nyomtatv�
 (3) A GTIN szám bejelentését vagy a hatósági termékazonosító-szám igénylését a tételazonosító használatba vételét megelőzően kell megtenni.
 
 (4) Az állami adó- és vámhatóság a hatósági termékazonosító-számot az igénylés benyújtásától számított 5 munkanapon belül küldi meg az igénylőnek.
+
+[^76]: A 93/I. § a 47/2017. (XII. 27.) NGM rendelet 13. § 13. pontja szerint módosított szöveg.

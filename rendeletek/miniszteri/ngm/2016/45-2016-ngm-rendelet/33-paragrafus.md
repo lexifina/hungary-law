@@ -40,6 +40,6 @@ c) dohánygyártmány esetében a kiszerelési egységet és a kiskereskedelmi e
 
 d) az adóraktárban átvett jövedéki termék adóraktári készlettípusát és az átvétel jogcímkódját,
 
-e)[^15] azon felhasználói engedélyes engedélyszámát vagy nyilvántartásba vett felhasználó nyilvántartási számát, akinek a részére a bejegyzett kereskedő a jövedéki terméket tagállamból behozza.
+e)[^29] azon felhasználói engedélyes engedélyszámát vagy nyilvántartásba vett felhasználó nyilvántartási számát, akinek a részére a bejegyzett kereskedő a jövedéki terméket tagállamból behozza.
 
-[^15]: A 33. § (4) bekezdés e) pontját az 5/2017. (III. 30.) NGM rendelet 11. §-a iktatta be.
+[^29]: A 33. § (4) bekezdés e) pontját az 5/2017. (III. 30.) NGM rendelet 11. §-a iktatta be.

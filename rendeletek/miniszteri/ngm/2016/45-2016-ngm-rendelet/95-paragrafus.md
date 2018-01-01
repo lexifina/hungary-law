@@ -2,7 +2,7 @@
 
 (2) Nem adható ki a bérfőzött párlat kedvezményes adómértékkel, ha a bérfőzető
 
-a)[^40] a 94. § (4) bekezdése szerinti nyilatkozattételt elmulasztja, vagy
+a)[^78] a 94. § (4) bekezdése szerinti nyilatkozattételt elmulasztja, vagy
 
 b) a tárgyévben kedvezményes adómértékkel lefőzethető mennyiséget túllépte.
 
@@ -16,4 +16,4 @@ b) a tárgyévben kedvezményes adómértékkel lefőzethető mennyiséget túll
 
 (7) A bérfőzetőnek a bérfőzött párlat birtokban tartásáig kell megőriznie a bérfőzött párlat származási igazolást.
 
-[^40]: A 95. § (2) bekezdés a) pontja az 5/2017. (III. 30.) NGM rendelet 26. §-ával megállapított szöveg.
+[^78]: A 95. § (2) bekezdés a) pontja az 5/2017. (III. 30.) NGM rendelet 26. §-ával megállapított szöveg.

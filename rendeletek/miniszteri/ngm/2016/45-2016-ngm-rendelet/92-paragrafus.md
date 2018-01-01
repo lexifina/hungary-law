@@ -12,9 +12,9 @@ e) a lefoglalás megszüntetését elrendelő végzés számát, keltét;
 
 f) a termék kiadásának időpontját, ennek hiányában a részére kifizetett összeget;
 
-g) az elkobzást elrendelő jogerős döntés számát, keltét;
+g)[^72] az elkobzást elrendelő végleges döntés számát, keltét;
 
-h) a megsemmisítés időpontját, helyét, módját;
+h)[^73]
 
 i) a megsemmisítés módját, az állami adó- és vámhatóság jelenlétében történt megsemmisítés esetén helyét, idejét;
 
@@ -23,3 +23,6 @@ j) az értékesítésre történő átadás időpontját, helyét, az értékes�
 k) az értékesítés időpontját, adatait;
 
 l) a lefoglalt termékkel kapcsolatban felmerült költséget, bevételt és annak rendezettségét.
+
+[^72]: A 92. § g) pontja a 47/2017. (XII. 27.) NGM rendelet 13. § 12. pontja szerint módosított szöveg.
+[^73]: A 92. § h) pontját a 47/2017. (XII. 27.) NGM rendelet 14. § 17. pontja hatályon kívül helyezte.

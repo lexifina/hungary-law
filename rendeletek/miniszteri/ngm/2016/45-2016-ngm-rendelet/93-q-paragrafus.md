@@ -2,15 +2,7 @@
 
 93/Q. § (1) A hivatalos zárat egyedi azonosító jellel, sorszámmal és hamisítás elleni védelemmel vagy – nem papíralapú eszköz esetében – el nem távolítható, át nem javítható egyedi feliratozással kell ellátni.
 
-(2) A hivatalos zár előállítására vonatkozó engedélyre olyan személy jogosult, akinek az állami adó- és vámhatóság felé nincs vám- vagy adótartozása, társadalombiztosításijárulék-tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek, valamint rendelkezik
-
-a) a hivatalos zár követelményeit teljesítő eszköz előállításához szükséges műszaki, technikai és technológiai feltételekkel,
-
-b) zárt rendszerű, a szigorú elszámolást lehetővé tevő technológiai-szervezeti rendszerrel és azt szabályozó biztonsági szabályzattal,
-
-c) a tevékenység jellegének megfelelő belső ellenőrzési rendszerrel, biztonsági személyzettel és technikai berendezéssel és
-
-d) az előállítás során keletkezett selejt és hulladék anyag megsemmisítéséhez szükséges berendezéssel vagy a megsemmisítést más módon biztosító eljárási renddel.
+(2)[^77]
 
 (3) Az eszköz hivatalos zárként történő elfogadására és a hivatalos zár előállításának engedélyezése iránti kérelemhez csatolni kell:
 
@@ -39,3 +31,5 @@ e) a 15. mellékletben előírt adattartalmú nyilvántartás mintáját, szám�
 (10) A hivatalos zár előállítója a 15. melléklet szerinti adattartalmú, az állami adó- és vámhatóság által jóváhagyott nyilvántartást vezet tevékenységéről.
 
 (11) A hivatalos zár előállítója az állami adó- és vámhatóság felé adatszolgáltatását hivatalos zár felhasználónkénti, zártípusonkénti és azon belül sorszámtartományonkénti részletezéssel az állami adó- és vámhatóság által rendszeresített elektronikus űrlapon teljesíti.
+
+[^77]: A 93/Q. § (2) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 19. pontja hatályon kívül helyezte.

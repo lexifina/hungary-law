@@ -2,6 +2,8 @@
 
 (2) A palackozott sör mennyiségét a kiszerelések űrtartalma és darabszáma szorzataként, tényleges alkoholtartalmát a kiszerelésen feltüntetett alkoholtartalom alapján kell megállapítani.
 
-(3) A sör mennyiségét szakértői vizsgálat alapján kell megállapítani, ha a tényleges alkoholtartalom, minőség, fajta más módon nem állapítható meg, vagy erre nézve az ellenőrzéssel megbízott és az adóraktár engedélyese között vita merül fel.
+(3)[^48]
 
 (4) Azokat a rozsdamentes acélhordókat (KEG), amelyeken domborított vagy nyomott formában szerepel a hordó gyártója és a hordó térfogata, nem kell hitelesíttetni.
+
+[^48]: A 47. § (3) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 12. pontja hatályon kívül helyezte.

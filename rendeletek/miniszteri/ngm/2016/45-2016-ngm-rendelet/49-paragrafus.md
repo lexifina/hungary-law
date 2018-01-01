@@ -1,4 +1,4 @@
-## 48. § Ha a szennyezett jövedéki termék mennyiségének laboratóriumi vizsgálat alapján történő megállapítása műszakilag nem oldható meg vagy jelentős költségtöbblettel jár, az állami adó- és vámhatóság a mennyiség megállapításának más módját is engedélyezheti.
+## 48. §[^49]
 
 ## 16. Szemledíj, költségtérítés
 
@@ -12,14 +12,17 @@
 
 (5) A kérelmezőnek felróható okból meghiúsult eljárás esetén – ha a szemledíj összegét az ügyfél vitatja – az esetről készített jegyzőkönyvnek tartalmaznia kell a szemle elmaradásának okát és a várakozás idejét (óra perctől óra percig), valamint a felmerült kiküldetési költséget. A 10 000 forint szemledíjat akkor is meg kell fizetni, ha a várakozás az egy órát nem haladja meg. Meghiúsult eljárásnak kell tekinteni, ha a szemle kért helyén a kérelmező nem jelenik meg.
 
-(6)[^26] Az állami adó- és vámhatóság a Jöt. 85. § (1) bekezdése szerinti vizsgálati díj, szállítási, kiszállítási és egyéb költség előre meghatározható összegeit tájékoztatásban teszi közzé, és a közzétett tájékoztatásban foglaltakra figyelemmel hoz döntést a felmerült költségekről.
+(6)[^50] Az állami adó- és vámhatóság a Jöt. 85. § (1) bekezdése szerinti vizsgálati díj, szállítási, kiszállítási és egyéb költség előre meghatározható összegeit tájékoztatásban teszi közzé, és a közzétett tájékoztatásban foglaltakra figyelemmel hoz döntést a felmerült költségekről.
 
-(7) Az állami adó- és vámhatóság annak, aki átlagosan havonta legalább tíz alkalommal kér költségtérítés megfizetésével járó eljárást, engedélyezheti, hogy a költségtérítést havonta összesítve fizesse meg. Ebben az esetben az állami adó- és vámhatóság a tárgyhónapban végzett eljárásai után fizetendő költségtérítésről szóló határozatát a tárgyhónapot követő 3 munkanapon belül hozza meg. Az állami adó- és vámhatóság visszavonhatja a havi költségtérítés-fizetésre vonatkozó engedélyét, ha az engedélyes fizetési kötelezettségének nem tesz eleget.
+(7)[^51] Az állami adó- és vámhatóság annak, aki átlagosan havonta legalább tíz alkalommal kér költségtérítés és szemledíj megfizetésével járó eljárást, engedélyezheti, hogy a költségtérítést és a szemledíjat havonta összesítve fizesse meg. Ebben az esetben az állami adó- és vámhatóság a tárgyhónapban végzett eljárásai után fizetendő költségtérítésről és szemledíjról szóló határozatát a tárgyhónapot követő 3 munkanapon belül hozza meg. Az állami adó- és vámhatóság visszavonhatja a havi költségtérítés és szemledíj fizetésére vonatkozó engedélyét, ha az engedélyes fizetési kötelezettségének nem tesz eleget.
 
 (8) Az állami adó- és vámhatóság által végzett vizsgálat díjait az állami adó- és vámhatóság tájékoztatásban teszi közzé.
 
 (9) Kérelemre végzett kötelező érvényű KN-kód besorolás esetén a termékminta szolgáltatásának, valamint az állami adó- és vámhatóság által elvégzett vizsgálatnak a költsége a kérelmezőt terheli. A költségtérítés mértékéről, megfizetésének módjáról az állami adó- és vámhatóság végzést hoz.
 
-(10) A szemlebejelentés esetén alkalmazandó formanyomtatványt a 20. melléklet tartalmazza.
+(10)[^52]
 
-[^26]: A 49. § (6) bekezdése az 5/2017. (III. 30.) NGM rendelet 15. §-ával megállapított szöveg.
+[^49]: A 48. §-t a 47/2017. (XII. 27.) NGM rendelet 14. § 13. pontja hatályon kívül helyezte.
+[^50]: A 49. § (6) bekezdése az 5/2017. (III. 30.) NGM rendelet 15. §-ával megállapított szöveg.
+[^51]: A 49. § (7) bekezdése a 47/2017. (XII. 27.) NGM rendelet 6. §-ával megállapított szöveg.
+[^52]: A 49. § (10) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 14. pontja hatályon kívül helyezte.

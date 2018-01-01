@@ -1,6 +1,6 @@
-## 109. §[^53]
+## 109. §[^91]
 
-1. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^54]
+1. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^92]
 
 ## Adóraktári nyilvántartás és az adóraktár Jöt. 24. § szerinti adatszolgáltatásának adattartalma
 
@@ -38,23 +38,25 @@ II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-k�
 
 2.2. Cigarettán kívüli dohánygyártmány Jöt. 77. § (3) bekezdés b) pontja szerinti zárjegy eltávolítás utáni készletre vétele*
 
-2.3. Előállított nem jövedéki termék és az adófizetési kötelezettség alól mentesült jövedéki termék*
+2.3.[^93] Előállított nem jövedéki termék és az adófizetési kötelezettség alól mentesült jövedéki termék
 
-2.3.1. Jöt. 133. § (1) bekezdés e) pontja szerinti gyógyszer, gyógyhatású készítmény, gyógyszeranyag, intermedier
+2.3.1. Jöt. 133. § (1) bekezdés e) pontja szerinti gyógyszer, gyógyhatású készítmény, gyógyszeranyag, intermedier*
 
-2.3.2. Jöt. 133. § (1) bekezdés f) pontja szerinti ecet
+2.3.2. Jöt. 133. § (1) bekezdés f) pontja szerinti ecet*
 
-2.3.3. Jöt. 133. § (1) bekezdés g) pontja szerinti aroma
+2.3.3. Jöt. 133. § (1) bekezdés g) pontja szerinti aroma*
 
-2.3.4. Jöt. 133. § (1) bekezdés h) pontja szerinti csokoládé és egyéb élelmiszer
+2.3.4. Jöt. 133. § (1) bekezdés h) pontja szerinti csokoládé és egyéb élelmiszer*
 
-2.3.5. Jöt. 133. § (1) bekezdés i) pontja szerinti vegyipari, kozmetikai és egyéb, nem emberi fogyasztásra szolgáló termék
+2.3.5. Jöt. 133. § (1) bekezdés i) pontja szerinti vegyipari, kozmetikai és egyéb, nem emberi fogyasztásra szolgáló
 
-2.3.6. Jöt. 133. § (1) bekezdés k) és m) pontja szerinti teljesen denaturált alkohol
+termék*
 
-2.3.7. Előállított ETBE
+2.3.6. Jöt. 133. § (1) bekezdés k) pontja szerinti teljesen denaturált alkohol*
 
-2.3.8. Jöt. 112. § (1) bekezdés cb) pontja szerinti termék
+2.3.7. Előállított ETBE*
+
+2.3.8. Jöt. 112. § (1) bekezdés cb) pontja szerinti termék*
 
 2.3.9. Jövedéki termék előállításához alapanyagként szolgáló nem jövedéki termék
 
@@ -120,7 +122,7 @@ II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-k�
 
 3. Készletcsökkenés (bizonylat száma)
 
-3.1. Jövedéki előállításához felhasznált jövedéki termék*
+3.1.[^94] Jövedéki termék előállításához felhasznált jövedéki termék*
 
 3.2. Jövedéki termék vagy nem jövedéki termék előállításához alapanyagként felhasznált nem jövedéki termék
 
@@ -152,7 +154,7 @@ II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-k�
 
 3.8. Cigarettán kívüli dohánygyártmányok Jöt. 77. § (3) bekezdés b) pontja szerinti zárjegy eltávolítást követő kivezetése az adózott készletből*
 
-3.9. A Jöt. 9. § (1) bekezdés e) és f) pontja szerint jövedéki termék olyan károsodása, amelyet az állami adó- és vámhatóság teljes megsemmisülésként vagy helyrehozhatatlan károsodásként elismert (időpont, mód/körülmények, kárenyhítés érdekében tett intézkedés)
+3.9.[^95] A Jöt. 9. § (1) bekezdés e) és f) pontja szerint jövedéki termék olyan károsodása, amelyet az állami adó- és vámhatóság teljes megsemmisülésként vagy helyrehozhatatlan károsodásként elismert (időpont, mód/körülmények, kárenyhítés érdekében tett intézkedés), a Jöt. 9. § (4) bekezdés b) pontja szerint elismert mennyiségű hiány kivételével
 
 3.10. A Jöt. 112. § (1) bekezdés a) pontja szerint jövedéki termék kiszolgálása*
 
@@ -253,6 +255,8 @@ II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-k�
 3.30. Adózott termék átadása saját adóraktár részére*
 
 3.31. Jövedéki termék átvezetése KN-kód vagy fajtakód változása esetén (csökkenés)*
+
+3.32.[^96] A Jöt. 112. § (1) bekezdés d) pontja szerint jövedéki termék kiszolgálása*
 
 4. Zárókészlet (elszámolási időszak végén)
 
@@ -608,5 +612,9 @@ IV. Bérfőzésre vonatkozó adatok (bérfőzetőnként és bérfőzésenként)
 
 6.5. Bérfőzető háztartása számára a származási igazolvány kiállításáig a tárgyévben kiadott kedvezményes adómértékű párlat mennyisége* b
 
-[^53]: A 109. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^54]: Az 1. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^91]: A 109. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: Az 1. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^93]: Az 1. melléklet II. pont 2. alpont 2.3. pontja a 47/2017. (XII. 27.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^94]: Az 1. melléklet II. pont 3. alpont 3.1. pontja a 47/2017. (XII. 27.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^95]: Az 1. melléklet II. pont 3. alpont 3.9. pontja a 47/2017. (XII. 27.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^96]: Az 1. melléklet II. pont 3. alpont 3.32. pontját a 47/2017. (XII. 27.) NGM rendelet 12. § (1) bekezdése iktatta be.

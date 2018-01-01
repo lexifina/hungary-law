@@ -10,11 +10,13 @@ a) az állami adó- és vámhatósággal létesített közvetlen kapcsolati rend
 
 aa) a Jöt. 24. § szerinti adatszolgáltatás,
 
-ab)[^24] a Jöt. 62. § (1) bekezdés szerinti EKO adatainak,
+ab)[^43] a Jöt. 62. § (1) bekezdés szerinti EKO adatainak,
 
-ac)[^25] a Jöt. 64. § szerinti szállítólevél adatainak,
+ac)[^44] a Jöt. 64. § szerinti szállítólevél adatainak,
 
-ad) az uniós számítógépes rendszerben, adófelfüggesztési eljárás keretében végzett szállításnál alkalmazott elektronikus okmányok
+ad) az uniós számítógépes rendszerben, adófelfüggesztési eljárás keretében végzett szállításnál alkalmazott elektronikus okmányok,
+
+ae)[^45] a Jöt. 72. § (3) bekezdése szerinti adatszolgáltatás,
 
 ## megküldése,
 
@@ -24,5 +26,6 @@ ba) az a) pont alá tartozó, vagy
 
 bb) az elektronikusan intézhető, a) pont alá nem tartozó egyéb
 
-[^24]: A 43. § a) pont ab) alpontja az 5/2017. (III. 30.) NGM rendelet 14. §-ával megállapított szöveg.
-[^25]: A 43. § a) pont ac) alpontja az 5/2017. (III. 30.) NGM rendelet 14. §-ával megállapított szöveg.
+[^43]: A 43. § a) pont ab) alpontja az 5/2017. (III. 30.) NGM rendelet 14. §-ával megállapított szöveg.
+[^44]: A 43. § a) pont ac) alpontja az 5/2017. (III. 30.) NGM rendelet 14. §-ával megállapított szöveg.
+[^45]: A 43. § a) pont ae) alpontját a 47/2017. (XII. 27.) NGM rendelet 5. §-a iktatta be.
