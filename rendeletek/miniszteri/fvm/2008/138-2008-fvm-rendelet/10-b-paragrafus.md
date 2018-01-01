@@ -1,4 +1,0 @@
-## 10/A. §[^44] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a falumegújításra és -fejlesztésre igénybe vehető támogatások részletes feltételeiről szóló 135/2008. (X. 18.) FVM rendelet és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki örökség megőrzéséhez igénybe vehető támogatások részletes feltételeiről szóló 138/2008. (X. 18.) FVM rendelet módosításáról szóló 56/2010. (V. 6.) FVM rendelet (a továbbiakban: módosító rendelet) 2. § (2) bekezdésével megállapított 2. § (1) bekezdés k) pontját, valamint e rendeletnek a módosító rendelet 2. § (3) bekezdésével megállapított 3. § (1) bekezdés a) pontját a módosító rendelet hatálybalépésekor[^45] folyamatban lévő eljárásokban is alkalmazni kell, feltéve, hogy ez a rendelkezés az ügyfél számára hátrányos következménnyel nem jár.
-
-[^44]: A 10/A. §-t az 56/2010. (V. 6.) FVM rendelet 2. § (4) bekezdése iktatta be.
-[^45]: A hatálybalépés időpontja: 2010. május 7.
