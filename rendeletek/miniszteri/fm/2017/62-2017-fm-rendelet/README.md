@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-62-20-1
 | --- | --- | --- |
 | 2017-12-22 | 2017-62-20-11.1 | 62/2017. (XII. 21.) FM rendelet |
 | 2017-12-23 | 2017-62-20-11.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2017-62-20-11.3 | 2010: CXXX. törvény |
