@@ -426,7 +426,7 @@
 
 | 7. | Bakóca | III. |
 
-| 8. | Bakonya | III. |
+| 8. | Bakonya | II. |
 
 | 9. | Baranyajenő | III. |
 
@@ -3230,7 +3230,7 @@
 
 | 22. | Tokod | II. |
 
-| 23. | Tokodaltáró | III. |
+| 23. | Tokodaltáró | I. |
 
 | 24. | Úny | III. |
 
@@ -5086,7 +5086,7 @@
 
 | 42. | Szárazd | III. |
 
-| 43. | Tamási | III. |
+| 43. | Tamási | II. |
 
 | 44. | Tolnanémedi | III. |
 
@@ -5608,7 +5608,7 @@
 
 | 28. | Nárai | III. |
 
-| 29. | Narda | III. |
+| 29. | Narda | II. |
 
 | 30. | Nemesbőd | II. |
 
