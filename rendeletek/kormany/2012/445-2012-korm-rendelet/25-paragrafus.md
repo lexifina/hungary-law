@@ -1,14 +1,14 @@
 ## 14. Jogkövetkezmények
 
-25. § (1)[^65] Ha a gyártó az átvételi, gyűjtési és kezelési kötelezettségét nem vagy nem jogszabályszerűen teljesíti, a kötelezettség ellátásáról az országos környezetvédelmi hatóság a gyártó vagyoni biztosítékának terhére vagy a közvetítő szervezet költségére, az arra feljogosított kezelő útján gondoskodik.
+25. § (1)[^66] Ha a gyártó az átvételi, gyűjtési és kezelési kötelezettségét nem vagy nem jogszabályszerűen teljesíti, a kötelezettség ellátásáról az országos környezetvédelmi hatóság a gyártó vagyoni biztosítékának terhére vagy a közvetítő szervezet költségére, az arra feljogosított kezelő útján gondoskodik.
 
-(2)[^66] Ha a gyártó és a közvetítő szervezet az e rendeletben meghatározott kötelezettségét nem teljesíti, az országos környezetvédelmi hatóság a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendeletben (a továbbiakban: Hbr.) meghatározott mértékű hulladékgazdálkodási bírságot szab ki.
+(2)[^67] Ha a gyártó és a közvetítő szervezet az e rendeletben meghatározott kötelezettségét nem teljesíti, az országos környezetvédelmi hatóság a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendeletben (a továbbiakban: Hbr.) meghatározott mértékű hulladékgazdálkodási bírságot szab ki.
 
-(3)[^67] Az országos környezetvédelmi hatóság a gyártót a nyilvántartásból törli, ha a gyártó az elem, az akkumulátor gyártását vagy forgalmazását megszünteti. Az országos környezetvédelmi hatóság a közvetítő szervezetet a nyilvántartásból törli, ha közvetítői tevékenységét megszünteti.
+(3)[^68] Az országos környezetvédelmi hatóság a gyártót a nyilvántartásból törli, ha a gyártó az elem, az akkumulátor gyártását vagy forgalmazását megszünteti. Az országos környezetvédelmi hatóság a közvetítő szervezetet a nyilvántartásból törli, ha közvetítői tevékenységét megszünteti.
 
-(4)[^68] Az országos környezetvédelmi hatóság a kötelezettet a Hbr.-ben megállapított hulladékgazdálkodási bírság megfizetésére
+(4)[^69] Az országos környezetvédelmi hatóság a kötelezettet a Hbr.-ben megállapított hulladékgazdálkodási bírság megfizetésére
 
-a)[^69] kötelezi, ha a nyilvántartásba vételi, valamint nyilvántartási és adatszolgáltatási kötelezettségét nem teljesíti,
+a)[^70] kötelezi, ha a nyilvántartásba vételi, valamint nyilvántartási és adatszolgáltatási kötelezettségét nem teljesíti,
 
 b) kötelezheti, ha a kötelezett nem az e rendeletben foglaltaknak megfelelő adatot szolgáltat.
 
@@ -18,8 +18,8 @@ b) kötelezheti, ha a kötelezett nem az e rendeletben foglaltaknak megfelelő a
 
 (7) Az (5) és (6) bekezdésben meghatározott rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-[^65]: A 25. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.
-[^66]: A 25. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.
-[^67]: A 25. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § e) pontja szerint módosított szöveg.
-[^68]: A 25. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.
-[^69]: A 25. § (4) bekezdés a) pontja a 310/2014. (XII. 11.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg.
+[^66]: A 25. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.
+[^67]: A 25. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.
+[^68]: A 25. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § e) pontja szerint módosított szöveg.
+[^69]: A 25. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.
+[^70]: A 25. § (4) bekezdés a) pontja a 310/2014. (XII. 11.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg.

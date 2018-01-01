@@ -1,4 +1,4 @@
-## 31. §[^75] A 4. melléklet 1. pont 1.2. alpontjának a)–d) pontja esetében a gyártónak a tárgyév szerinti bontásban kell adatot szolgáltatnia a 2013. és a 2014. évben forgalmazott hordozható elem és akkumulátor mennyiségéről.
+## 31. §[^76] A 4. melléklet 1. pont 1.2. alpontjának a)–d) pontja esetében a gyártónak a tárgyév szerinti bontásban kell adatot szolgáltatnia a 2013. és a 2014. évben forgalmazott hordozható elem és akkumulátor mennyiségéről.
 
 1. melléklet a 445/2012. (XII. 29.) Korm. rendelethez
 
@@ -24,4 +24,4 @@ vegyjelet az 5. pontban foglalt módon kell feltüntetni.
 
 6. A hordozható akkumulátoron, a gépjárműelemen, valamint a gépjármű-akkumulátoron annak kapacitását fel kell tüntetni.
 
-[^75]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 310/2014. (XII. 11.) Korm. rendelet 15. § (5) bekezdése iktatta be.
+[^76]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 310/2014. (XII. 11.) Korm. rendelet 15. § (5) bekezdése iktatta be.
