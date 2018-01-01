@@ -1,4 +1,4 @@
-## 26. §[^11]
+## 26. §[^10]
 
 ## 10. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 17. § és a 19. § 2018. január 1-jén lép hatályba.
 
-[^11]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
