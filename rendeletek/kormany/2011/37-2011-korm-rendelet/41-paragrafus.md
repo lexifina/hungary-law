@@ -1,5 +1,5 @@
-## 39–40. §[^177]
+## 39–40. §[^179]
 
 ## 20. Hatályon kívül helyező rendelkezések
 
-[^177]: A 39-40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^179]: A 39-40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

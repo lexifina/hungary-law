@@ -20,7 +20,7 @@ b)[^49] az 1388/2014/EU bizottsági rendelet hatálya alá tartozó állami tám
 
 (4a)[^50] Ha a támogatási intézkedés a 651/2014/EU bizottsági rendelet és a 702/2014/EU bizottsági rendelet hatálya alá tartozó állami támogatásnak minősül, a vállalkozást akkor kell nehéz helyzetben lévőnek tekinteni, ha legalább az alábbi kategóriák egyikébe beletartozik:
 
-a)[^51] olyan társaság esetén, a tagok felelőssége a társaság tartozásai tekintetében korlátozott, így különösen a részvénytársaság és a korlátolt felelősségű társaság esetében, ha a vállalkozás névértéken felüli befizetést is magában foglaló jegyzett tőkéjének több mint a felét felhalmozott veszteségei miatt elvesztette, különösen amennyiben a felhalmozott veszteségeknek saját forrásnak minősülő elemből történő levonásakor a jegyzett tőke felét meghaladó negatív eredmény keletkezik,
+a)[^51] olyan társaság esetén, ahol a tagok felelőssége a társaság tartozásai tekintetében korlátozott, így különösen a részvénytársaság és a korlátolt felelősségű társaság esetében, ha a vállalkozás névértéken felüli befizetést is magában foglaló jegyzett tőkéjének több mint a felét felhalmozott veszteségei miatt elvesztette, különösen amennyiben a felhalmozott veszteségeknek saját forrásnak minősülő elemből történő levonásakor a jegyzett tőke felét meghaladó negatív eredmény keletkezik,
 
 b)[^52] olyan társaság esetén, ahol legalább egyes tagok korlátlan felelősséggel bírnak a társaság tartozásai tekintetében, így különösen a közkereseti társaság, betéti társaság, közös vállalat, egyesülés és egyéni cég esetében, amennyiben a vállalkozás a saját tőkéjének több mint felét felhalmozott veszteségei miatt elvesztette,
 
@@ -65,7 +65,7 @@ e) kis- és középvállalkozások kivételével olyan vállalkozás, amely eset
 [^48]: A 6. § (4) bekezdés a) pontját a 158/2014. (VI. 30.) Korm. rendelet 14. § (2) bekezdés b) pontja hatályon kívül helyezte.
 [^49]: A 6. § (4) bekezdés b) pontja a 38/2016. (III. 3.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^50]: A 6. § (4a) bekezdését a 158/2014. (VI. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 554. § c) pontja szerint módosított szöveg.
-[^51]: A 6. § (4a) bekezdés a) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^51]: A 6. § (4a) bekezdés a) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 483/2017. (XII. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^52]: A 6. § (4a) bekezdés b) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^53]: A 6. § (4a) bekezdés c) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^54]: A 6. § (4b) bekezdését a 158/2014. (VI. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 554. § d) pontja szerint módosított szöveg.

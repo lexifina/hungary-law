@@ -26,7 +26,7 @@
 
 ## Qn = a több részletben folyósított állami támogatás n. évi részösszege,
 
-## i = diszkont kamatláb.
+## i = a támogatás odaítélésekor érvényes diszkont kamatláb.
 
 ## B) A kedvezményes kamatú vagy kamatmentes hitel vagy kölcsön, változó kamatlábon alapuló kamattámogatás
 
@@ -40,7 +40,7 @@
 
 ## b) amely szabálytalan ütemezésű.
 
-## Az egyes kamatfizetések esetén ki kell számítani 1) a valós kamatfizetést és 2) a számított egyéni referencia kamatláb (elvi piaci kamatláb) alapján adódó elvi kamatfizetést. A különbségük [2)–1)] – ha az pozitív szám – az adott periódusra meg nem fizetett kamat, vagyis a támogatási elem.
+## Az egyes kamatfizetések esetén ki kell számítani 1) a valós kamatfizetést és 2) a számított egyéni referencia kamatláb (elvi piaci kamatláb) alapján adódó elvi kamatfizetést. A különbségük [2)-1)] – ha az pozitív szám – az adott periódusra meg nem fizetett kamat, vagyis a támogatási elem.
 
 ## Mivel ezek a támogatási elemek különböző időpontokban merülnek fel, ezeknek az egy időpontra vonatkozó jelenértékeit kell összegezni. A jelenérték-számítás a diszkont kamatláb segítségével történik. Ennek eredménye jelenti a támogatástartalmat.
 
@@ -102,9 +102,7 @@
 
 ## A támogatási döntés naptári évében felmerülő támogatási elemekre nem szükséges jelenértéket számolni.
 
-## A töredékéveket a garantált töredékidőszak hosszának a teljes évhez viszonyított arányában kell figyelembe venni.
-
-## Ha a kezességvállalási díj nem minősül piacinak és a hitel kamatlába a kezességvállalásból adódó fedezettség miatt egy ugyanilyen nem fedezett hitel kamatlábánál alacsonyabb, akkor a támogatástartalom egyenlő a fedezetlen hitel és a fedezett hitel összes pénzügyi költségének a különbségével, azaz a fedezett hitel kamatai jelenértékének és a kezességvállalási díjak jelenértékének összege kivonva a fedezetlen hitel kamatai jelenértékének összegéből.
+## A töredékéveket a garantált töredékidőszak hosszának a teljes évhez viszonyított arányában kell figyelembe venni. Ha a kezességvállalási díj nem minősül piacinak és a hitel kamatlába a kezességvállalásból adódó fedezettség miatt egy ugyanilyen nem fedezett hitel kamatlábánál alacsonyabb, akkor a támogatástartalom egyenlő a fedezetlen hitel és a fedezett hitel összes pénzügyi költségének a különbségével, azaz a fedezett hitel kamatai jelenértékének és a kezességvállalási díjak jelenértékének összege kivonva a fedezetlen hitel kamatai jelenértékének összegéből.
 
 ## D) Kamattámogatás
 
@@ -130,23 +128,7 @@
 
 ## Fogalom: a kedvezményezettnek a törvényben meghatározott általánosan érvényes adónál kevesebb adót kell fizetnie az adó alapjának, illetve az adó mértékének csökkentése vagy részbeni vagy teljes elengedése miatt.
 
-## Támogatástartalom: a megítélt adókedvezmény támogatástartalmának kiszámítása az A) pont szerinti vissza nem térítendő támogatás támogatástartalmának kiszámításához hasonlóan történik. A számítás során a kapott állami támogatás, vagyis a megítélt adókedvezmény teljes összegének jelenértékét kell kiszámítani.
-
-## Az igénybe vett adókedvezmény támogatástartalmának kiszámítása a következő képlettel történik:
-
-## ahol:
-
-## TT = AJ: támogatástartalom, az igénybe vett összes adókedvezmény jelenértéken,
-
-## X1 = a beruházás üzembe helyezését követő adóévben igénybe vett adókedvezmény folyó áron (ha az adókedvezmény igénybevételének kezdő éve a beruházás üzembe helyezésének adóévét követő adóév: X1 = 0),
-
-## Xn = a beruházás üzembe helyezését követő n. adóévben igénybe vett adókedvezmény folyó áron,
-
-## r2 = a beruházás üzembe helyezésének adóévét követő adóévben érvényes diszkont kamatláb,
-
-## rn = a beruházás üzembe helyezésének adóévét követő n. adóévben érvényes diszkont kamatláb és 2≤n≤14.
-
-## Az adókedvezmény támogatástartalmának kiszámítása során az egyes adóévek utolsó napján hatályos diszkont kamatlábat kell figyelembe venni.
+## Ha jogszabály másként nem rendelkezik, adókedvezmény esetén is az A) pont szerinti vissza nem térítendő támogatásokra vonatkozó képlet alkalmazandó, azzal, hogy a „folyósított állami támogatás” helyett „érvényesített adókedvezmény” értendő, és a több évre odaítélt adókedvezménynél az odaítéléskor érvényes diszkont kamatlábat kell alkalmazni a támogatástartalom megállapításához. Automatikus adókedvezményeknél (ha az intézkedés objektív kritériumoknak megfelelően és hatósági mérlegelési jogkör gyakorlása nélkül biztosítja a támogatás igénybevételének jogát, és az igénybevételhez nem szükséges külön támogatási kérelem és odaítélés) az odaítélés időpontjának az az időpont tekintendő, amikor az adózó a kedvezményt (rendszerint a bevallásában) érvényesíti (több évre szóló automatikus adókedvezménynél az odaítélés időpontja az első érvényesítés időpontja).
 
 ## F) Tőkejuttatás
 
@@ -160,7 +142,7 @@
 
 ## Támogatástartalom: a piaci ár és a fizetett ár különbözetének jelenértéke.
 
-3. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^182]
+3. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^184]
 
 ## A 2012/21/EU bizottsági határozat alapján nyújtott állami támogatásokról készítendő beszámoló kötelező adattartalma
 
@@ -214,4 +196,4 @@
 
 2.10. Megjegyzések
 
-[^182]: A 3. melléklet a 158/2014. (VI. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^184]: A 3. melléklet a 158/2014. (VI. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

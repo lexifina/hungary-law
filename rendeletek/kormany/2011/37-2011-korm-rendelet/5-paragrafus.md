@@ -1,6 +1,6 @@
 5. § (1)[^42] Az azonos elszámolható költségekhez igénybe vett összes állami támogatás támogatási intenzitása nem haladhatja meg az uniós állami támogatási szabályokban meghatározott mértéket.
 
-(2)[^43] Ha egy vállalkozás a kis- és középvállalkozásokba történő kockázatitőke-befektetések előmozdítását célzó állami támogatásokról szóló közösségi iránymutatás (HL C 194/02., 2006.8.18.) alapján állami támogatásnak minősülő kockázatitőke-juttatásban részesült, a számára megítélt bármely egyéb állami támogatás támogatási intenzitását vagy a támogatási program szerinti legmagasabb összegét a 25. § (1) bekezdésében meghatározott területeken található vállalkozások esetén 20%-kal, egyébként pedig 50%-kal csökkenteni kell a kockázatitőke-befektetés első három évében, legfeljebb a kapott kockázati tőke összegének erejéig. A támogatási intenzitást vagy a legmagasabb támogatási összeget nem kell csökkenteni, ha a kockázatitőke-juttatást követően kapott állami támogatást a kutatáshoz, fejlesztéshez és innovációhoz nyújtott állami támogatások keretrendszeréről szóló bizottsági közlemény alapján elfogadott bizottsági határozat vagy a csoportmentességi rendeletek szerinti kutatás-fejlesztési és innovációs támogatásként nyújtották.
+(2)[^43]
 
 [^42]: Az 5. § (1) bekezdése a 381/2012. (XII. 19.) Korm. rendelet 13. § a) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 7. pontja szerint módosított szöveg.
-[^43]: Az 5. § (2) bekezdését a 158/2014. (VI. 30.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte, újonnan a 445/2015. (XII. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 409/2016. (XII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^43]: Az 5. § (2) bekezdését a 483/2017. (XII. 28.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.

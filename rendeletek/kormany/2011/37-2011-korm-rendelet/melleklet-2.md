@@ -1,3 +1,3 @@
-2. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^181]
+2. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^183]
 
-[^181]: A 2. melléklet a 305/2016. (X. 13.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
+[^183]: A 2. melléklet a 483/2017. (XII. 28.) Korm. rendelet 2. § (2) bekezdés a) pontjával megállapított szöveg.

@@ -1,6 +1,6 @@
-## 42. §[^179]
+## 42. §[^181]
 
-1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^180]
+1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^182]
 
 ## Az egyes támogatási kategóriák
 
@@ -386,6 +386,16 @@
 
 15.12.1. Helyi infrastruktúrára irányuló támogatás (651/2014/EU bizottsági rendelet 56. cikk)
 
+15.13. Regionális repülőterekre irányuló támogatás
+
+15.13.1. Regionális repülőterekre irányuló támogatás (651/2014/EU bizottsági rendelet 56a. cikk)
+
+15.14. Kikötőkre irányuló támogatás
+
+15.14.1. Tengeri kikötőkre irányuló támogatás (651/2014/EU bizottsági rendelet 56b. cikk)
+
+15.14.2. Belvízi kikötőkre irányuló támogatás (651/2014/EU bizottsági rendelet 56c. cikk)
+
 16. Mezőgazdasági, vidékfejlesztési és erdészeti támogatás
 
 16.1. Az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatások, 2014–2020
@@ -636,5 +646,5 @@
 
 18. Nem állami támogatás
 
-[^179]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^180]: Az 1. melléklet a 38/2016. (III. 3.) Korm. rendelet 11. § (1) bekezdés a) pontjával megállapított szöveg.
+[^181]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^182]: Az 1. melléklet a 38/2016. (III. 3.) Korm. rendelet 11. § (1) bekezdés a) pontjával megállapított, a 483/2017. (XII. 28.) Korm. rendelet 2. § (1) bekezdése szerint módosíott szöveg.

@@ -16,10 +16,11 @@ d) azt a bármely más állami támogatást, amely esetében uniós állami tám
 
 a) a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozat szerint,
 
-b) a kutatás-fejlesztési projekteknek nyújtott 3 millió eurót meghaladó állami támogatásokról a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet (HL L 214., 2008.8.9., 3. o.) (a továbbiakban: 800/2008/EK bizottsági rendelet) 9. cikk (4) bekezdésében foglaltak szerint,
+b)[^133]
 
 c) bármely más állami támogatásról, amely esetében uniós állami támogatási szabály az Európai Bizottság részére történő tájékoztatási kötelezettségről rendelkezik.
 
 (4) Az uniós állami támogatási szabályok megkerülése érdekében a támogatási programok és a projektek nem darabolhatók fel.
 
 [^132]: A 7. alcím (18. §) a 177/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^133]: A 18. § (3) bekezdés b) pontját a 483/2017. (XII. 28.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
