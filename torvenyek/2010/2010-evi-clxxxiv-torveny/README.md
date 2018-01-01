@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-184-00-00
 | 2015-07-01 | 2015. évi LX. törvény | 2010-184-00-00.7 |
 | 2015-07-16 | 2015. évi CXXIX. törvény | 2010-184-00-00.8 |
 | 2017-01-01 | 2016. évi LXVII. törvény | 2010-184-00-00.9 |
+| 2018-01-01 | 2017. évi L. törvény | 2010-184-00-00.10 |

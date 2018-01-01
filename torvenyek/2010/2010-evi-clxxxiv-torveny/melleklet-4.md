@@ -14,25 +14,7 @@ Heves megye
 
 |
 
-Nógrád megye
-
-|
-
-Szabolcs-Szatmár-Bereg megye
-
-|
-
-|
-
-2. ALFÖLDI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
-|
-
-Békés megye
-
-|
-
-Csongrád megye
+2. ÉSZAK-ALFÖLDI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
 |
 
@@ -44,9 +26,9 @@ Jász-Nagykun-Szolnok megye
 
 |
 
-|
+Szabolcs-Szatmár-Bereg megye
 
-3. KÖZÉP-MAGYARORSZÁGI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+3. DÉL-ALFÖLDI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
 |
 
@@ -54,17 +36,23 @@ Bács-Kiskun megye
 
 |
 
+Békés megye
+
+|
+
+Csongrád megye
+
+4. KÖZÉP-DUNA-VÖLGYI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+
+|
+
+Nógrád megye
+
+|
+
 Pest megye
 
-|
-
-|
-
-|
-
-|
-
-4. ÉSZAK-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+5. ÉSZAK-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
 |
 
@@ -78,25 +66,11 @@ Komárom-Esztergom megye
 
 Vas megye
 
-|
-
-Veszprém megye
-
-|
-
-Zala megye
-
-|
-
-5. DÉL-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+6. DÉL-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
 |
 
 Baranya megye
-
-|
-
-Fejér megye
 
 |
 
@@ -106,22 +80,22 @@ Somogy megye
 
 Tolna megye
 
-|
+7. KÖZÉP-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
 |
 
-6. FŐVÁROSI TÖRVÉNYSZÉKI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+Fejér megye
+
+|
+
+Veszprém megye
+
+|
+
+Zala megye
+
+8. FŐVÁROSI TÖRVÉNYSZÉKI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
 |
 
 Budapest főváros
-
-|
-
-|
-
-|
-
-|
-
-|
