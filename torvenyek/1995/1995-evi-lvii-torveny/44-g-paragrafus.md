@@ -4,7 +4,7 @@
 
 (3) A közszolgáltatói szerződés csak akkor mondható fel az önkormányzat részéről, ha a közszolgáltató
 
-a) a közszolgáltatás ellátása során a környezet védelmére és a vízgazdálkodásra vonatkozó jogszabályok, vagy a rá vonatkozó hatósági határozat előírásait súlyosan megsérti, és ennek tényét a bíróság vagy hatóság jogerősen megállapítja;
+a) a közszolgáltatás ellátása során a környezet védelmére és a vízgazdálkodásra vonatkozó jogszabályok, vagy a rá vonatkozó hatósági határozat előírásait súlyosan megsérti, és ennek tényét a bíróság jogerősen vagy hatóság véglegesen megállapítja;
 
 b) a szerződésben megállapított kötelezettségét neki felróhatóan súlyosan megsérti.
 

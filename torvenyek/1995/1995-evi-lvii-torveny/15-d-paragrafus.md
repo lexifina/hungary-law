@@ -6,7 +6,7 @@ a) ha a vízjogi engedélyben meghatározott éves vízmennyiség napi átlaga (
 
 b) ha az évnek csak meghatározott időszakában használt vizet (időszakos vízhasználó).
 
-(3) Az engedély nélküli vízhasználat után a vízkészletjárulékot a jogerős hatósági határozat közlését követő hónap 15. napjáig kell kiszámítani és befizetni.
+(3) Az engedély nélküli vízhasználat után a vízkészletjárulékot a végleges hatósági határozat közlését követő hónap 15. napjáig kell kiszámítani és befizetni.
 
 (4) A tárgyévet követő első hónap 15. napjáig köteles befizetni a negyedéves befizetési kötelezettség alá tartozó vízhasználó az éves teljes vízigénybevétele után fizetendő vízkészletjárulék, és az első három negyedéves vízigénybevétele után az (1) bekezdésben meghatározottak szerint befizetett vízkészletjárulék közti különbséget.
 

@@ -1,15 +1,21 @@
 ## VIII. Fejezet
 
-## A vízügyi hatósági jogkör
+## A VÍZGAZDÁLKODÁSI HATÓSÁGI JOGKÖR
 
-28. § (1) A jogszabály által bejelentéshez kötött tevékenységektől eltekintve vízjogi engedély szükséges
+28. § (1) A vízgazdálkodással összefüggő hatósági jogkör lehet vízügyi hatósági jogkör vagy helyi vízgazdálkodási hatósági jogkör.
 
-a) a vízimunka elvégzéséhez, a vízilétesítmény megépítéséhez és átalakításához (vízjogi létesítési engedély),
+(2) A vízügyi hatósági jogkörben – vízügyi hatósági eljárás keretében – a vízügyi hatóság, a helyi vízgazdálkodási hatósági jogkörben – helyi vízgazdálkodási hatósági eljárás keretében – a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet szerinti szerv jár el.
 
-b) a vízilétesítmény használatbavételéhez és üzemeltetéséhez, a vízhasználathoz (vízjogi üzemeltetési engedély), és
+(3) A helyi vízgazdálkodási hatósági eljárásban a vízügyi hatósági eljárásra vonatkozó rendelkezéseket kell alkalmazni, kivéve
 
-c) a vízilétesítmény megszüntetéséhez (megszüntetési engedély).
+a) a 28/A. § (2) bekezdését,
 
-(2) Elvi vízjogi engedély kérhető a vízjogi engedélyezési kötelezettség alá tartozó vízhasználat, vízimunka és vízilétesítmény műszaki tervezéséhez.
+b) a 28/D. § (1) bekezdés b) pontját,
 
-(5) A szénhidrogén kitermelési céllal mélyített, de arra alkalmatlan kutak termálvíz kitermelési célú hasznosítására a vízügyi hatóság ad engedélyt.
+c) a 28/D. § (4) és (5) bekezdését,
+
+d) a 28/E. §-t,
+
+e) a 31. §-t,
+
+f) a 31/A. §-t.

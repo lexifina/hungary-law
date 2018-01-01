@@ -1,1 +1,1 @@
-31/A. § A vízügyi igazgatási szerveknek – a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetni.
+31/A. § A vízügyi igazgatási szerveknek – a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetniük.

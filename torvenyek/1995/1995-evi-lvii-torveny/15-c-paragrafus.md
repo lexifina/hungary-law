@@ -12,7 +12,7 @@ e) az ár- és belvíz befogadására kijelölt csatornák, halastavak, tározó
 
 f) a vízjogi engedély szerinti vízmennyiség azon része után, amely nem vehető igénybe, mert a vízkészlet természeti okokból nem áll rendelkezésre,
 
-g) ha a hatóság a vízkivételt korlátozta,
+g) ha a vízügyi hatóság a vízkivételt korlátozta,
 
 h) a használt víz ismételt felhasználása vagy átadása után, kivéve a kettősműködésű csatornákból történő vízkivételt,
 
@@ -22,7 +22,7 @@ j) ha a vízkészletjárulék tárgyévre vonatkozó összege nem haladja meg az
 
 k) kármentesítés céljából történő vízkivétel esetén, ha az hatósági kötelezés vagy engedély alapján történt,
 
-l) az öntözési célú vízhasználat esetében vízhasználónként az évi 50 000 m3-t, a halgazdálkodási és rizstermelési célú vízhasználat esetében vízhasználónként az évi 150 000 m3-t meg nem haladó vízmennyiség után,
+l) az öntözési célú vízhasználat esetében vízhasználónként az évi 400 000 m3-t, a halgazdálkodási és rizstermelési célú vízhasználat esetében vízhasználónként az évi 300 000 m3-t meg nem haladó vízmennyiség után,
 
 m) a (9) bekezdés szerinti tartósan vízhiányos időszakban az öntözési, halgazdálkodási és rizstermelési vízhasználat vízmennyisége után,
 
@@ -30,7 +30,7 @@ n) a vízügyi hatósági jogkörben kiadott vízjogi engedélyben megadott víz
 
 (1a) Az (1) bekezdés l) pontja szerinti vízkészletjárulék fizetési kötelezettségre vonatkozó rendelkezéstől az állam szociális, környezeti és gazdasági hatásokra, valamint a földrajzi és éghajlati jellemzőkre alapított okból a vízhasználó javára eltérhet.
 
-(2) Az (1) bekezdés f), g), l)–n) pontjában foglalt esetben, továbbá az (1) bekezdés c) pontjában foglalt azon esetben, ha az engedélyes a vízügyi hatósági jogkörben kiadott vízjogi engedéllyel rendelkezik, a vízkészletjárulék-fizetési kötelezettség alóli mentesség nem érinti a vízhasználatra vonatkozó, a 15/E. § szerinti nyilatkozattételi és adatszolgáltatási kötelezettségeket.
+(2) Az (1) bekezdés f), g), l)–n) pontjában foglalt esetben, a vízkészletjárulék-fizetési kötelezettség alóli mentesség nem érinti a vízhasználatra vonatkozó, a 15/E. § szerinti nyilatkozattételi és adatszolgáltatási kötelezettségeket.
 
 (3) A vízhasználónak az (1) bekezdés b) és f) pontjaiban megjelölt mentesség megállapítását az ok bekövetkezésétől számított hatvan napon belül az illetékes vízügyi hatóságtól kell kérnie. Hatvan nap után a mentességre hivatkozni nem lehet.
 
@@ -38,7 +38,7 @@ n) a vízügyi hatósági jogkörben kiadott vízjogi engedélyben megadott víz
 
 (5) Az üzemi fogyasztó köteles fizetési kötelezettségét annak keletkezésétől számított 15 napon belül az illetékes vízügyi hatóságnak az e célra készített nyomtatványon bejelenteni (bejelentkezés).
 
-(6) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a vízjogi engedély jogerőre emelkedésével, üzemi fogyasztónál – figyelemmel a 15/B. § (4) bekezdésében foglaltakra – a 10 000 m3-t meghaladó vízmennyiség felhasználásának megkezdésével keletkezik.
+(6) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a vízjogi engedély véglegessé válásával, üzemi fogyasztónál – figyelemmel a 15/B. § (4) bekezdésében foglaltakra – a 10 000 m3-t meghaladó vízmennyiség felhasználásának megkezdésével keletkezik.
 
 (7) Azt, hogy a vízkészletjárulék az államháztartás mely szervezete javára számolható fel, továbbá annak mértékét külön jogszabály állapítja meg.
 

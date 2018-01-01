@@ -12,7 +12,7 @@ a) létfenntartási ivó és közegészségügyi, katasztrófa-elhárítási,
 
 b) gyógyászati, valamint a lakosság ellátását közvetlenül szolgáló termelő- és szolgáltató tevékenységgel járó,
 
-c) állatitatási, haltenyésztési,
+c) állatitatási, haltermelési,
 
 d) természetvédelmi,
 
