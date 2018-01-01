@@ -14,11 +14,17 @@ c) a megjelenésükben másnak látszó és ezáltal a fogyasztó egészségét 
 
 d) a felvonók és mozgólépcsők létesítésével összefüggő engedélyezésre, üzemeltetésére, ellenőrzésére, az eljáró hatóság kijelölésére, feladataira és eljárására, a felvonó szakértői, tervezői és ellenőri tevékenységre, a felvonók és mozgólépcsők (mozgójárdák), valamint az ezekhez kapcsolódó intézkedések nyilvántartására vonatkozó részletes szabályokat,
 
-e) a műszaki-biztonsági hatósági felügyelet alatt álló berendezések létesítésének tervezésére, létesítésére, üzembe helyezésére, üzemeltetésére, átalakítására, javítására, időszakos ellenőrzésére és megszüntetésére vonatkozó műszaki-biztonsági irányítási rendszer követelményeit és a hatósági jóváhagyás és felügyelet feltételeit
+e) a műszaki-biztonsági hatósági felügyelet alatt álló berendezések létesítésének tervezésére, létesítésére, üzembe helyezésére, üzemeltetésére, átalakítására, javítására, időszakos ellenőrzésére és megszüntetésére vonatkozó műszaki-biztonsági irányítási rendszer követelményeit és a hatósági jóváhagyás és felügyelet feltételeit,
+
+f) berendezés létesítésére, üzembe helyezésére, üzemeltetésére, alkalmasságának ellenőriztetésére, biztonságtechnikai felülvizsgálatára és bejelentésére vonatkozó kötelesség megszegése esetén a műszaki-biztonsági hatóság által kiszabható bírság megállapításának részletes szabályait,
+
+g) a piacfelügyeleti hatóság által – közigazgatási hatósági hatáskörben eljárva – alkalmazandó kiegészítő eljárási szabályokat
 
 rendeletben határozza meg.
 
 (1a) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a nyilvántartott szervezetek és a felvonó- és mozgólépcső ellenőrök engedélyezéséért és a nyilvántartásba vételért, a felvonók és mozgólépcsők nyilvántartásának vezetéséért, beleértve a nyilvántartásba vételt is, továbbá a felvonók és mozgólépcsők létesítésének, használatbavételének, áthelyezésének, átalakításának, megszüntetésének és ismételt üzemeltetésének engedélyezéséért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+
+(1b) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a műszaki biztonsági hatóság részére a műszaki biztonsági hatósági eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (2) Felhatalmazást kap a termék tekintetében szabályozási feladatkörrel rendelkező miniszter, hogy
 
