@@ -1,1 +1,0 @@
-## A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 10. § (2) bekezdésében kapott felhatalmazás alapján, a 212/2010. (VII. 1.) Korm. rendelet 37. § q) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
