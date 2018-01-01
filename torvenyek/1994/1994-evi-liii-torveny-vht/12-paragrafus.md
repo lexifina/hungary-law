@@ -1,7 +1,9 @@
 12. § (1) A végrehajtási kérelmet – a 18. § (3) bekezdésében foglaltak figyelembevételével – a kellő példányban, megfelelően kitöltött végrehajtható okirat nyomtatványon kell előterjeszteni.
 
-(2) A bíróság a végrehajtási kérelmet nyomban, de legkésőbb a beérkezését követő 15 napon belül megvizsgálja annak megállapítása érdekében, hogy nincs-e helye az áttételének vagy érdemi vizsgálat nélküli elutasításának, illetve azt – a jogi képviselővel rendelkező fél kivételével – nem kell-e hiánypótlásra visszaadni, és a szükséges intézkedéseket megteszi. Ha a jogi képviselővel nem rendelkező végrehajtást kérő a kérelmét nem a nyomtatványon terjesztette elő, a nyomtatványt nem a kellő példányban nyújtotta be, vagy nem megfelelően töltötte ki, a bíróság a hiányokat saját hatáskörben, a bírósági iratokban rendelkezésre álló adatok alapján is pótolhatja. A jogi képviselővel rendelkező fél hiányos kérelmét a bíróság érdemi vizsgálat nélkül elutasítja.
+(2) A bíróság a végrehajtási kérelmet nyomban, de legkésőbb a beérkezését követő 15 napon belül megvizsgálja annak megállapítása érdekében, hogy nincs-e helye az áttételének vagy visszautasításának, illetve azt – a jogi képviselővel rendelkező fél kivételével – nem kell-e hiánypótlásra visszaadni, és a szükséges intézkedéseket megteszi. Ha a jogi képviselővel nem rendelkező végrehajtást kérő a kérelmét nem a nyomtatványon terjesztette elő, a nyomtatványt nem a kellő példányban nyújtotta be, vagy nem megfelelően töltötte ki, a bíróság a hiányokat saját hatáskörben, a bírósági iratokban rendelkezésre álló adatok alapján is pótolhatja. A jogi képviselővel rendelkező fél hiányos kérelmét a bíróság visszautasítja.
 
 (3) A bíróság a szóban előterjesztett kérelmet a végrehajtható okirat nyomtatvány kitöltésével foglalja írásba.
 
 (4) A bíróság a kérelem beérkezésétől, hiánypótlás esetén a hiányok pótlásától számított 15 napon belül dönt a végrehajtási kérelemről.
+
+(5) A végrehajtási eljárásban a végrehajtást kérő munkáltatót nem illeti meg a költségmentesség és a költségfeljegyzési jog.

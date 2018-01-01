@@ -8,7 +8,7 @@ b) a végrehajtói kézbesítés részletes eljárási szabályait,
 
 c) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat,
 
-d)
+d) a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata folyamatossága és megszűnése megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása részletes eljárási szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
 
@@ -37,11 +37,3 @@ k) az általános költségátalány megfizetéséről szóló szabályokat,
 l) az adópolitikáért felelős miniszterrel egyetértésben a természetes személy adós foglalkozásának gyakorlásához nélkülözhetetlen gépjármű becsértékének azt az összegét, amelynél alacsonyabb becsérték esetén a gépjármű mentes a végrehajtás alól, továbbá azt az összeget, amely a gépjármű értékesítése során befolyt vételárból az adóst illeti meg,
 
 m) a végrehajtó tevékenységével okozott kárért járó kártérítés, illetve személyiségi jogsértésért járó sérelemdíj fedezésére szolgáló biztosíték összegének kezelésére vonatkozó részletes szabályokat,
-
-n) az adópolitikáért felelős miniszterrel egyetértésben az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint ezek megfizetésének módját,
-
-o) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
-
-p) a végrehajtó állandó helyettes általi helyettesítésével összefüggő elszámolás, ügyvitel és ügykezelés részletes szabályait,
-
-q) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat.

@@ -1,1 +1,1 @@
-37/A. § A végrehajtás során kézbesítési vélelem megdöntésére irányuló kérelem előterjesztésének – kivéve a Pp. 99/B. §-ában foglalt esetet – nincs helye.
+37/A. § A végrehajtás során kézbesítési kifogás előterjesztésének – kivéve a Pp. 140. §-ában foglalt esetet – nincs helye.

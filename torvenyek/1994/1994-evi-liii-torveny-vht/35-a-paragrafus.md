@@ -10,7 +10,7 @@
 
 (5) A Kar hivatali szerve 30 napig őrzi a kézbesítési rendszerben rögzített, kézbesítendő és kézbesített iratokat, 10 évig pedig a feladás és a kézbesítés igazolásához szükséges elektronikus tértivevényeket, valamint a kézbesítendő és kézbesített iratok adatainak leírását, tulajdonságaik rögzítését szolgáló adatokat (metaadatok).
 
-(6) A kézbesítendő iratokat a kézbesítéstől, illetve a kézbesítési vélelem beálltától számított 30 nap elteltével törölni kell. A kézbesítési rendszer útján előállított elektronikus iratokat archiválni kell, a Kar hivatali szerve az archivált elektronikus iratokat 10 évig megőrzi.
+(6) A kézbesítendő iratokat a kézbesítéstől, illetve a kézbesítési fikció beálltától számított 30 nap elteltével törölni kell. A kézbesítési rendszer útján előállított elektronikus iratokat archiválni kell, a Kar hivatali szerve az archivált elektronikus iratokat 10 évig megőrzi.
 
 (7) A kézbesítési rendszernek alkalmasnak kell lennie arra, hogy
 

@@ -4,7 +4,7 @@ a) a 239. § (1) bekezdés a), c) és d) pontjában meghatározott esetekben a v
 
 b) a magyar állampolgárság elvesztésének időpontjától, vagy attól az időponttól kezdődően, amelytől az országgyűlési képviselők választásán nem választható,
 
-c) a 233. § (2) bekezdés b)–d) vagy i) pontjában meghatározott körülmény bekövetkezését megállapító bírósági vagy gyámhatósági határozat jogerőre emelkedésének napjától kezdődően,
+c) a 233. § (2) bekezdés b)–d) vagy i) pontjában meghatározott körülmény bekövetkezését megállapító bírósági határozat jogerőre emelkedésének vagy a gyámhatósági határozat véglegessé válásának napjától kezdődően,
 
 d)
 

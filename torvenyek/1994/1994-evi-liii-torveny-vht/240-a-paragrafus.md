@@ -6,8 +6,8 @@
 
 (4) A végrehajtási iratokat birtokló személy vagy az átvételre jogosult személy kérelmére a végrehajtási iratokat a Kar hivatali szerve veszi át és haladéktalanul gondoskodik az átvételre jogosult személy részére történő átadásáról.
 
-(5) A Kar hivatali szerve a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szerinti hatósági ellenőrzés keretében ellenőrzi a végrehajtási iratok átadásának megtörténtét. A végrehajtási iratokat birtokló személy köteles lehetővé tenni a helyszíni ellenőrzést lefolytató személy számára azt, hogy az ellenőrzés elvégzése céljából a végrehajtó irodájába belépjen, valamint iratait és nyilvántartásait megvizsgálja.
+(5) A Kar hivatali szerve az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti hatósági ellenőrzés keretében ellenőrzi a végrehajtási iratok átadásának megtörténtét. A végrehajtási iratokat birtokló személy köteles lehetővé tenni a helyszíni ellenőrzést lefolytató személy számára azt, hogy az ellenőrzés elvégzése céljából a végrehajtó irodájába belépjen, valamint iratait és nyilvántartásait megvizsgálja.
 
-(6) Ha a végrehajtási iratokat birtokló személy az (5) bekezdés szerinti kötelezettségének nem tesz eleget, a végrehajtó irodája a helyszíni ellenőrzés lefolytatása céljából, a végrehajtási iratok mielőbbi átadásának érdekében – a Ket. 57/B. § (4) és (5) bekezdésének alkalmazásával – felnyitható.
+(6) Ha a végrehajtási iratokat birtokló személy az (5) bekezdés szerinti kötelezettségének nem tesz eleget, a végrehajtó irodája a helyszíni ellenőrzés lefolytatása céljából, a végrehajtási iratok mielőbbi átadásának érdekében – az Ákr. 70. § (3) és (4) bekezdésének alkalmazásával – felnyitható.
 
 (7) A Kar hivatali szervének vezetője jóváhagyásával az állandó helyettes és az újonnan kinevezett önálló bírósági végrehajtó a végrehajtási ügyek átadása során megállapodhatnak úgy is, hogy a folyamatban lévő végrehajtási ügyeket az állandó helyettes foganatosítja, az újonnan kinevezett önálló bírósági végrehajtó csak a kinevezését követően elrendelt végrehajtási ügyekben jár el.

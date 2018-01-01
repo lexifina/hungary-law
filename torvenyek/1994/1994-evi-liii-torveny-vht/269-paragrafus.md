@@ -1,8 +1,8 @@
 ## A fegyelmi vétség elévülése
 
-269. § (1) Nem folytatható le a fegyelmi eljárás, ha
+269. § (1) Nem indítható meg a fegyelmi eljárás, ha
 
-a) a feljelentő a cselekménynek a tudomására jutásától számított 6 hónapon túl tett feljelentést, vagy
+a) a feljelentő a cselekménynek a tudomására jutásától, vagy ha van a fegyelmi felelősséget megalapozó, illetve azt alátámasztó hivatalos irat, annak kézhezvételétől számított 6 hónapon túl tett feljelentést, vagy
 
 b) a cselekmény befejezése óta 5 év eltelt.
 

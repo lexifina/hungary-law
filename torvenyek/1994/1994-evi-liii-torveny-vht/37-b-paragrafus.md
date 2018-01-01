@@ -2,6 +2,6 @@
 
 (2) Amennyiben a végrehajtást kérő részére szóló irat az (1) bekezdésben meghatározott módon kerül kézbesítésre, azt a kézbesítési megbízott által történő átvételt követő ötödik napon kell a végrehajtást kérő részére kézbesítettnek tekinteni.
 
-(3) Amennyiben a végrehajtást kérő kézbesítési megbízottat nem jelöl meg, vagy az (1) bekezdésben meghatározott iratokat a kézbesítési megbízott részére kézbesíteni nem lehet, az iratot hirdetmény útján kell kézbesíteni. A Pp. 102. § (2) és (5)–(7) bekezdéseit megfelelően alkalmazni kell.
+(3) Amennyiben a végrehajtást kérő kézbesítési megbízottat nem jelöl meg, vagy az (1) bekezdésben meghatározott iratokat a kézbesítési megbízott részére kézbesíteni nem lehet, az iratot hirdetmény útján kell kézbesíteni. A Pp. 145. § (3) és (6) bekezdéseit megfelelően alkalmazni kell.
 
-(4) Nem kell kézbesítési megbízottat megjelölni a 861/2007/EK rendelet, a 4/2009/EK tanácsi rendelet, az 1215/2012/EU rendelet, a 650/2012/EU európai parlamenti és tanácsi rendelet, és a 655/2014/EU rendelet szerinti határozat végrehajtására indult eljárásban.
+(4) A kézbesítési megbízottra vonatkozó, a Pp. 143. § (6) bekezdésében foglalt rendelkezés a végrehajtási eljárás során megfelelően irányadó.

@@ -12,7 +12,7 @@ b) biztosítási intézkedés elrendelése iránti kérelem esetén az ügyért�
 
 c) ha az ügyérték nem állapítható meg, 5000 Ft.
 
-(4) Az ügyérték a végrehajtandó követelésnek az eljárás megindításakor fennálló, járulékok nélkül számított értéke; zálogjog érvényesítésére vonatkozó végrehajtási kérelem esetén ehhez a zálogjoggal biztosított követelés – eljárás megindulásakor fennálló, járulékok nélkül számított – értékét, ha pedig a zálogtárgy értéke ennél kisebb, a zálogtárgy értékét kell figyelembe venni. Az ügyérték megállapításánál a Pp. 24. §-át megfelelően alkalmazni kell. A díjat a végrehajtást kérő előlegezi és a végrehajtás elrendelése esetén az adós, minden más esetben a végrehajtást kérő viseli; azt végrehajtási költségként kell behajtani. A fizetési meghagyás végrehajtásának elrendeléséért járó díjról külön törvény rendelkezik.
+(4) Az ügyérték a végrehajtandó követelésnek az eljárás megindításakor fennálló, járulékok nélkül számított értéke; zálogjog érvényesítésére vonatkozó végrehajtási kérelem esetén ehhez a zálogjoggal biztosított követelés – eljárás megindulásakor fennálló, járulékok nélkül számított – értékét, ha pedig a zálogtárgy értéke ennél kisebb, a zálogtárgy értékét kell figyelembe venni. Az ügyérték megállapításánál a Pp. 21. és 22. §-át megfelelően alkalmazni kell. A díjat a végrehajtást kérő előlegezi és a végrehajtás elrendelése esetén az adós, minden más esetben a végrehajtást kérő viseli; azt végrehajtási költségként kell behajtani. A fizetési meghagyás végrehajtásának elrendeléséért járó díjról külön törvény rendelkezik.
 
 (4a) Ha a végrehajtást kérő ugyanazon közjegyzői okirat alapján, ugyanannak a követelésnek a végrehajtását több, egyetemlegesen kötelezett adóssal [5. § (1) bekezdés] szemben egyidejűleg kéri, csak az egyik adóssal szemben előterjesztett végrehajtási kérelemre kell megfizetni a (3) bekezdés szerinti díjat, a további adóssal szemben előterjesztett végrehajtható okirat kiállítási kérelemre 5000 Ft díjat kell adósonként megfizetni. A megfizetett összes díjat az adósokon egyenlő arányban kell behajtani.
 
@@ -29,3 +29,5 @@ b) 50%-a, de legalább 5000 Ft, ha a kérelem visszavonására a hiánypótlás 
 (5) A végrehajtás (biztosítási intézkedés) elrendeléséért további munkadíj, költségtérítés és illeték – ide nem értve a jogorvoslati eljárás illetékét – nem számítható fel.
 
 (6) A közjegyző által foganatosítandó hirdetményi kézbesítésre az egyes közjegyzői nemperes eljárásokról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
+
+(7) A Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) és a végrehajtást elrendelő közjegyző a végrehajtás elrendelése során keletkezett adatokat kezeli. A MOKK az elrendelt végrehajtási ügyre vonatkozó adatokat a számítástechnikai rendszerén keresztül elektronikus úton továbbítja a Kar hivatali szerve részére.

@@ -82,7 +82,7 @@ c) a helyettesített végrehajtó neve, székhelye, illetékességi területe,
 
 d) a helyettesítés kezdő és befejező napja.
 
-(6) A végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt a Kar által vezetett névjegyzékben szereplő adatainak megváltozásáról köteles a kamarát a változástól számított 15 napon belül tájékoztatni.
+(6) A végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt a Kar által vezetett névjegyzékben szereplő adatainak megváltozásáról köteles a Kart a változástól számított 15 napon belül tájékoztatni.
 
 (7) A névjegyzékből történő törlést követően az e §-ban megjelölt személyek adatait a Kar 50 évig köteles megőrizni.
 

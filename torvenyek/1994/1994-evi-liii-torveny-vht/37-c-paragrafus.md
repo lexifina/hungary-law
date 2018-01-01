@@ -20,7 +20,7 @@ elkülönített elhelyezésére szolgáló tárhely fenntartásával biztosítja
 
 (5) Az irat átvételének napja az a nap, amikor a címzett az iratot tartalmazó dokumentumnak a kézbesítési rendszerből való letöltésének feltételéül szolgáló tértivevényen az átvételt igazoló tértivevényt kitölti és elektronikus aláírásával, valamit időbélyegzővel látja el.
 
-(6) Ha a címzett az iratot a kézbesítési rendszerben részére fenntartott tárhelyen való elhelyezésétől és az erről szóló értesítés elektronikus levélcímére történő elküldésétől számított ötödik munkanapon sem veszi át, a következő munkanapon az iratot kézbesítettnek kell tekinteni (kézbesítési vélelem). A kézbesítési vélelem beálltáról a kézbesítési rendszer a címzett és a feladó részére értesítést helyez el a részükre fenntartott tárhelyeken, valamint a címzett részére a titkosított küldeményt közvetlenül is megküldi.
+(6) Ha a címzett az iratot a kézbesítési rendszerben részére fenntartott tárhelyen való elhelyezésétől és az erről szóló értesítés elektronikus levélcímére történő elküldésétől számított ötödik munkanapon sem veszi át, a következő munkanapon az iratot kézbesítettnek kell tekinteni (kézbesítési fikció). A kézbesítési fikció beálltáról a kézbesítési rendszer a címzett és a feladó részére értesítést helyez el a részükre fenntartott tárhelyeken, valamint a címzett részére a titkosított küldeményt közvetlenül is megküldi.
 
 (7) A címzett a neki szóló iratot a kézbesítési rendszerben az őrzési időn belül nyithatja meg.
 

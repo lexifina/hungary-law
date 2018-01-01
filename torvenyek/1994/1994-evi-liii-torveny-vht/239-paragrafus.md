@@ -30,7 +30,7 @@ d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 n
 
 e) a végrehajtó a kinevezését követően keletkezett összeférhetetlenséget felszólításra nem szüntette meg,
 
-f) a végrehajtónak 90 napot meghaladóan nincs bejelentve állandó helyettese,
+f) a végrehajtónak 30 napot meghaladóan nincs bejelentve állandó helyettese,
 
 g) a végrehajtó a kinevezését követő 3 hónapon belül nem alapít végrehajtói irodát vagy nem lép be tagként végrehajtói irodába.
 

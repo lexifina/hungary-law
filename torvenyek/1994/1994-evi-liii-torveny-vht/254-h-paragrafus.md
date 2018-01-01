@@ -1,10 +1,10 @@
 ## Közigazgatási hatósági ügyek intézése
 
-254/H. § (1) A Ket. rendelkezéseit kell alkalmazni – az e §-ban foglalt eltérésekkel – a következő ügyekben:
+254/H. § (1) Az Ákr. rendelkezéseit kell alkalmazni – az e §-ban foglalt kiegészítésekkel és eltérésekkel – a következő ügyekben:
 
 a) bejegyzés a végrehajtó-helyettesek és végrehajtójelöltek névjegyzékébe, törlés e névjegyzékből, kivéve, ha a törlésre a 240/F. § (5) bekezdés e) pontja alapján kerül sor,
 
-b) a végrehajtói iroda alapítási engedélyének megadása iránti eljárás,
+b) a végrehajtói iroda alapítási, továbbá alapító okiratának, illetve cégadatának módosítási engedélye megadása iránti eljárás,
 
 c) felvétel a végrehajtói irodák kari nyilvántartásába, törlés e nyilvántartásból,
 
@@ -14,7 +14,7 @@ d) a végrehajtói tevékenység gyakorlásának időtartama alatt a 239/A. § s
 
 (3) Az (1) bekezdés szerinti eljárást a Kar hivatali szerve folytatja le.
 
-(4) A névjegyzékből, nyilvántartásból történő törlés iránti eljárást hivatalból meg kell indítani, ha a Kar bármely szerve a törlési okról tudomást szerez; a törlési eljárás során az ügyfél nyilatkozattételre és adatszolgáltatásra kötelezhető.
+(4) A névjegyzékből, nyilvántartásból történő törlés iránti eljárást hivatalból meg kell indítani, ha a Kar bármely szerve a törlési okról tudomást szerez.
 
 (5) Ha a Kar hivatali szerve a névjegyzékbe történő bejegyzés vagy a nyilvántartásba vétel iránti kérelemnek helyt ad, az erről szóló határozatnak kell tekinteni a nyilvántartásba vételről kiállított okiratot. Az okiratnak tartalmaznia kell
 

@@ -18,7 +18,7 @@ h) önálló bírósági végrehajtóval vagy végrehajtói irodával végrehajt
 
 (2) Nem lehet végrehajtó-helyettesként nyilvántartásba venni azt, akivel szemben a 233. § (2) bekezdésében foglalt kizáró ok áll fenn.
 
-(3) Végrehajtó-helyettes lehet az a jogi szakvizsgával rendelkező személy, aki megfelel az (1) bekezdés a)–d) és h) pontjában foglaltaknak, ha nem áll fenn vele szemben a (2) bekezdés szerinti kizáró ok.
+(3) Végrehajtó-helyettes lehet az a jogi szakvizsgával rendelkező személy, aki megfelel az (1) bekezdés a)–d) és g)–h) pontjában foglaltaknak, ha nem áll fenn vele szemben a (2) bekezdés szerinti kizáró ok.
 
 (4) A végrehajtó-helyettesek nyilvántartásába vétel iránti eljárás, valamint a nyilvántartásból való törlés iránti eljárás során a végrehajtó-helyettes tekintetében a 233. § (2) bekezdés a)–d) pontjában foglalt körülmény vizsgálata során a 234/B. §, valamint a 239/A. § rendelkezéseit kell megfelelően alkalmazni.
 

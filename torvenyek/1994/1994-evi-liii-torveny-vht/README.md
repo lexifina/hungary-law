@@ -76,3 +76,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2017-06-26 | 2017. évi LII. törvény | 1994-53-00-00.128 |
 | 2017-11-11 | 2017. évi CXXXV. törvény | 1994-53-00-00.129 |
 | 2017-11-19 | 2017. évi CXXIX. törvény | 1994-53-00-00.130 |
+| 2018-01-01 | 2017. évi CXXX. törvény | 1994-53-00-00.131 |

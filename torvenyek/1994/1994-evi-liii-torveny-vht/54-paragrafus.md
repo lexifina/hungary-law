@@ -25,3 +25,5 @@ c) az adós jövedelmi, vagyoni helyzetében lényeges változás állt be és a
 d) a bíróság megállapította, hogy az adós a lefoglalt vagyontárgyat a végrehajtás alól elvonta.
 
 (3) Az (1) bekezdés e) pontjában írt esetben – ide nem értve azokat az eseteket, amelyekben költségmentesség folytán az állam köteles a végrehajtási költség előlegezésére – nincs helye az eljárás folytatásának, ha a szünetelés megállapításától számított 1 éven belül a költséget nem előlegezték; ebben az esetben a végrehajtás megszűnik.
+
+(4) A végrehajtási eljárás szünetelése vonatkozásában a Pp. 121. § (3) bekezdése, valamint a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény 1. § (8) bekezdése nem alkalmazandó.

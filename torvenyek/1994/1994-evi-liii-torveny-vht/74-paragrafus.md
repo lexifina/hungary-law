@@ -4,7 +4,7 @@
 
 a) a nemzeti gondozási díj és a hadigondozottak pénzbeli ellátása, az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvény szerint járó életjáradék,
 
-b) a települési támogatás, a rendkívüli települési támogatás, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
+b) a települési támogatás, a rendkívüli települési támogatás, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj, a tartós ápolást végzők időskori támogatása,
 
 c) anyasági támogatás,
 
@@ -22,6 +22,8 @@ i) a kiküldetéssel, külszolgálattal és munkába járással összefüggő k�
 
 j) a meghatározott kiadás fedezésére szolgáló összeg,
 
-k)–m)
+k) a fogva tartott adós részére a kapcsolattartó által célzottan befizetett összeg,
+
+l)–m)
 
 n) a fogyatékossági támogatás.

@@ -2,7 +2,7 @@
 
 243. § (1) A végrehajtót az általa foglalkoztatott, legalább egyéves végrehajtó-helyettesi gyakorlattal rendelkező végrehajtó-helyettes vagy az állandó helyettese helyettesítheti.
 
-(2) A végrehajtó a kinevezését követő 90 napon belül köteles bejelenteni az állandó helyettesét a Kar hivatali szervének, és azzal egyidejűleg be kell nyújtania az állandó helyettese és közte létrejött, az állandó helyettesítésre vonatkozó megállapodást.
+(2) A végrehajtó a kinevezését követő 30 napon belül köteles bejelenteni az állandó helyettesét a Kar hivatali szervének, és azzal egyidejűleg be kell nyújtania az állandó helyettese és közte létrejött, az állandó helyettesítésre vonatkozó megállapodást.
 
 (3) Ha a végrehajtónak több végrehajtó-helyettese van, ki kell jelölnie azt a helyettest, aki a helyettesítésre jogosult, és a kijelölést haladéktalanul be kell jelentenie a Kar hivatali szervének.
 

@@ -14,6 +14,6 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv vagy a gondn
 
 a) a végrehajtói kinevezésről meghozott döntésig vagy
 
-b) a végrehajtói kinevezés esetén a hatósági ellenőrzés időtartamára vagy a végrehajtói szolgálat megszűnésének megállapítására irányuló eljárásban az eljárás jogerős befejezéséig
+b) a végrehajtói kinevezés esetén a hatósági ellenőrzés időtartamára vagy a végrehajtói szolgálat megszűnésének megállapítására irányuló eljárásban az eljárás végleges befejezéséig
 
 kezeli.

@@ -1,4 +1,4 @@
-180/A. § (1) A gyermeket a végrehajtást kérőnek, távollétében a Pp. 67. § (1) bekezdés a) és c) pontja szerinti, a gyámhatóság által jóváhagyott meghatalmazottjának (a továbbiakban: meghatalmazott) vagy a gyámhatóságnak kell átadni. A meghatalmazottnak és a gyámhatóságnak haladéktalanul intézkednie kell a gyermek végrehajtást kérőnek történő átadása iránt.
+180/A. § (1) A gyermeket a végrehajtást kérőnek, távollétében a Pp. 65. § a)–c) pontja szerinti, a gyámhatóság által jóváhagyott meghatalmazottjának (a továbbiakban: meghatalmazott) vagy a gyámhatóságnak kell átadni. A meghatalmazottnak és a gyámhatóságnak haladéktalanul intézkednie kell a gyermek végrehajtást kérőnek történő átadása iránt.
 
 (2) A kötelezett a gyermek átadásakor köteles tájékoztatást adni az átvevő személynek a gyermek egészségi állapotáról, és egyéb olyan körülmény fennállásáról, amelynek nem ismerete a gyermek életét, testi épségét veszélyeztetheti.
 
