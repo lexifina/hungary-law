@@ -1,4 +1,4 @@
-## A honvédelmi - és gazdasági felkészülés központi kiadásaira jóváhagyott, 2014. évi költségvetési törvényben szereplő előirányzatok tervezett felosztása
+## 4K04239_0
 
 | Fsz. | Felelős | Feladat | Részfeladat | Felhasználható előirányzat | Költségvetési fejezet összesen |
 
@@ -50,4 +50,6 @@
 
 | 23. | OBH | Honvédelmi felkészítési feladatok támogatása | - Bírósági dolgozók felkészítése a különleges jogrend idején jelentkező feladatokra; - Egyéni védőeszköz készlet karbantartása, felújítása | 7 m Ft | VI. Bíróságok összesen 7 m Ft |
 
-2. melléklet az 1146/2014. (III. 18.) Korm. határozathoz
+2. melléklet az 1146/2014. (III. 18.) Korm. határozathoz[^2]
+
+[^2]: A 2. melléklet a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
