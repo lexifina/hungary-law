@@ -178,7 +178,7 @@
 
 ## 1. Rendészeti felsőoktatásban szerzett szakképesítés
 
-## (Rendőrtiszti Főiskola, vagy NKE bűnügyi igazgatási, rendészeti igazgatási, nemzetbiztonsági alapképzési szakon, kapcsolódó mesterképzési szakon)
+## (Rendőrtiszti Főiskola, vagy NKE bűnügyi igazgatási szakon, rendészeti igazgatási szak határrendész, igazgatásrendészeti, közlekedésrendészeti vagy közrendvédelmi szakirányon, nemzetbiztonsági alapképzési szakon, kapcsolódó mesterképzési szakon)
 
 ## 2. Rendészeti szervező szakképesítés (OKJ 62 861 01)
 
@@ -186,7 +186,7 @@
 
 ## Beosztásnak megfelelő szakképesítés:
 
-## Az Országos Képzési Jegyzékben vagy egyéb jogszabályban a beosztás ellátására vonatkozó, szakterületének megfelelő közép, felsőfokú, vagy emelt szintű szakképzettség, egyéb képesítés.
+## Az Országos Képzési Jegyzékben vagy egyéb jogszabályban a beosztás ellátására vonatkozó, szakterületének megfelelő közép, felsőfokú, vagy emelt szintű szakképzettség, egyéb képesítés. A fegyverzettechnikai munkaköri feladatokat ellátó szolgálati beosztásban a fegyverműszerész szakképzés szakmai követelményeinek megfelelő, a Magyar Honvédség Altiszti Akadémiáján elvégzett tanfolyami képzés is elfogadható.
 
 ## Rövidítések:
 
@@ -218,7 +218,7 @@
 
 ## Beosztásnak megfelelő szakképesítés:
 
-## Az Országos Képzési Jegyzékben vagy egyéb jogszabályban a beosztás ellátására vonatkozó, szakterületének megfelelő közép, felsőfokú, vagy emelt szintű szakképzettség, egyéb képesítés.
+## Az Országos Képzési Jegyzékben vagy egyéb jogszabályban a beosztás ellátására vonatkozó, szakterületének megfelelő közép, felsőfokú, vagy emelt szintű szakképzettség, egyéb képesítés. A fegyverzettechnikai munkaköri feladatokat ellátó szolgálati beosztásban a fegyverműszerész szakképzés szakmai követelményeinek megfelelő, a Magyar Honvédség Altiszti Akadémiáján elvégzett tanfolyami képzés is elfogadható.
 
 ## III. Megfeleltetések
 

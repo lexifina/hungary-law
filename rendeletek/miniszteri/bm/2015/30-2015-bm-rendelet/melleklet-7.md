@@ -6,9 +6,13 @@
 
 | 3. | központi | E | raktárvezető | 150 |  |
 
-| 4. | D | referens | 150 | 100 |
+| 4. | E | főfelügyelő (műveleti, készenléti) | 150 |  |
 
-| 5. | C | segédelőadó | 150 | 100 |
+| 5. | D | referens | 150 | 100 |
+
+| 5a. | C | segédelőadó | 150 | 100 |
+
+| 5b. | B | felügyelő (körlet) | 150 |  |
 
 | 6. | területi | E | körlet-főfelügyelő | 150 |  |
 

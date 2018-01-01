@@ -158,33 +158,39 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | vezetői |  |  | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alapfeladat |
+| 2. | kategória | besorolási kategória | szolgálati beosztás | alapfeladat | nem alap- feladat |
 
 | 3. | kiemelt vezető | központi szerv vezetője (tábornok) | főigazgató | 100 |  |
 
-| 4. | központi szerv vezetőjének helyettes | főigazgató-helyettes | 100 |  |
+| 4. | kiemelt vezető | központi szerv vezetőjének helyettese | főigazgató-helyettes | 100 |  |
 
-| 5. | közép- vezető | szakirányító 1 | országos polgári védelmi főfelügyelő | 100 |  |
+| 5. | középvezető | szakirányító 1 | országos polgári védelmi főfelügyelő | 100 |  |
 
-| 6. | országos tűzoltósági főfelügyelő | 100 |  |
+| 6. | középvezető | szakirányító 1 | országos tűzoltósági főfelügyelő | 100 |  |
 
-| 7. | országos iparbiztonsági főfelügyelő | 100 |  |
+| 7. | középvezető | szakirányító 1 | országos iparbiztonsági főfelügyelő | 100 |  |
 
-| 8. | szolgálatvezető | 100 | 100 |
+| 8. | középvezető | szakirányító 1 | szolgálatvezető | 100 | 100 |
 
-| 9. | hivatalvezető | 100 | 100 |
+| 9. | középvezető | szakirányító 1 | szolgálatvezető (információbiztonsági) | 400 |  |
 
-| 10. | szakirányító 2 | főosztályvezető | 100 | 100 |
+| 10. | középvezető | szakirányító 1 | hivatalvezető | 100 | 100 |
 
-| 11. | főosztályvezető 1 | főosztályvezető (főfelügyelő-helyettes) | 100 |  |
+| 11. | középvezető | szakirányító 2 | főosztályvezető | 100 | 100 |
 
-| 12. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 100 | 100 |
+| 12. | középvezető | szakirányító 2 | főosztályvezető (információbiztonsági) | 400 |  |
 
-| 13. | főosztályvezető- helyettes 2 | osztályvezető | 100 | 100 |
+| 13. | középvezető | főosztályvezető 1 | főosztályvezető (főfelügyelő-helyettes) | 100 |  |
 
-| 14. | osztályvezető 1 | titkárságvezető |  | 100 |
+| 14. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 100 | 100 |
+
+| 15. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes (információ biztonsági) | 400 |  |
+
+| 16. | beosztott vezető | főosztályvezető- helyettes 2 | osztályvezető | 100 | 100 |
+
+| 17. | beosztott vezető | osztályvezető 1 | titkárságvezető |  | 100 |
 
 2. Területi szervnél
 
@@ -246,88 +252,94 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
-| 1. | szerv | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. |  |  |  | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alapfeladat |
+| 2. | szerv | besorolási kategória | beosztás | alapfeladat | nem alap- feladat |
 
 | 3. | központi | E | alosztályvezető | 150 | 100 |
 
-| 4. | kiemelt főreferens | 150 | 100 |
+| 4. | központi | E | alosztályvezető (információbiztonsági) | 400 |  |
 
-| 5. | munkabiztonsági főfelügyelő |  | 100 |
+| 5. | központi | E | kiemelt főreferens | 150 | 100 |
 
-| 6. | vezető főügyeletes | 150 |  |
+| 6. | központi | E | kiemelt főreferens (információbiztonsági) | 400 |  |
 
-| 7. | D | kiemelt főelőadó | 150 | 100 |
+| 7. | központi | E | kiemelt főreferens (információbiztonsági ügyeletes) | 400 |  |
 
-| 8. | C | főelőadó | 150 | 100 |
+| 8. | központi | E | munkabiztonsági főfelügyelő |  | 100 |
 
-| 9. | területi | E | alosztályvezető | 100 | 50 |
+| 9. | központi | E | vezető főügyeletes | 150 |  |
 
-| 10. | vezető tanár |  | 100 |
+| 10. | központi | D | kiemelt főelőadó | 150 | 100 |
 
-| 11. | ügyeletvezető | 100 |  |
+| 11. | központi | C | főelőadó | 150 | 100 |
 
-| 12. | D | kiemelt főtanár |  | 100 |
+| 12. | területi | E | alosztályvezető | 100 | 50 |
 
-| 13. | kiemelt főelőadó | 100 | 50 |
+| 13. | területi | E | vezető tanár |  | 100 |
 
-| 14. | kiemelt főelőadó KMSZ, KML | 150 |  |
+| 14. | területi | E | ügyeletvezető | 100 |  |
 
-| 15. | ügyeletvezető (KOK) |  | 50 |
+| 15. | területi | D | kiemelt főtanár |  | 100 |
 
-| 16. | karmester-helyettes |  | 50 |
+| 16. | területi | D | kiemelt főelőadó | 100 | 50 |
 
-| 17. | főügyeletes | 100 |  |
+| 17. | területi | D | kiemelt főelőadó KMSZ, KML | 150 |  |
 
-| 18. | csoportvezető | 100 | 50 |
+| 18. | területi | D | ügyeletvezető (KOK) |  | 50 |
 
-| 19. | C | főelőadó | 100 | 50 |
+| 19. | területi | D | karmester-helyettes |  | 50 |
 
-| 20. | főeladó KMSZ, KML | 150 |  |
+| 20. | területi | D | főügyeletes | 100 |  |
 
-| 21. | koncertmester |  | 50 |
+| 21. | területi | D | csoportvezető | 100 | 50 |
 
-| 22. | főtanár |  | 100 |
+| 22. | területi | C | főelőadó | 100 | 50 |
 
-| 23. | ügyeletes | 100 |  |
+| 23. | területi | C | főeladó KMSZ, KML | 150 |  |
 
-| 24. | oktató |  | 100 |
+| 24. | területi | C | koncertmester |  | 50 |
 
-| 25. | B | szólamvezető |  | 50 |
+| 25. | területi | C | főtanár |  | 100 |
 
-| 26. | tanár |  | 100 |
+| 26. | területi | C | ügyeletes | 100 |  |
 
-| 27. | előadó I. | 100 | 50 |
+| 27. | területi | C | oktató |  | 100 |
 
-| 28. | előadó I. (KMSZ, KML) | 150 |  |
+| 28. | területi | B | szólamvezető |  | 50 |
 
-| 29. | A | előadó II. | 100 | 50 |
+| 29. | területi | B | tanár |  | 100 |
 
-| 30. | helyi | D | alosztályvezető | 100 | 50 |
+| 30. | területi | B | előadó I. | 100 | 50 |
 
-| 31. | parancsnokhelyettes | 100 |  |
+| 31. | területi | B | előadó I. (KMSZ, KML) | 150 |  |
 
-| 32. | őrsparancsnok | 100 |  |
+| 32. | területi | A | előadó II. | 100 | 50 |
 
-| 33. | C | kiemelt főelőadó | 100 | 50 |
+| 33. | helyi | D | alosztályvezető | 100 | 50 |
 
-| 34. | szolgálatparancsnok | 150 |  |
+| 34. | helyi | D | parancsnokhelyettes | 100 |  |
 
-| 35. | műszaki biztonsági tiszt | 100 |  |
+| 35. | helyi | D | őrsparancsnok | 100 |  |
 
-| 36. | katasztrófavédelmi megbízott | 100 |  |
+| 36. | helyi | C | kiemelt főelőadó | 100 | 50 |
 
-| 37. | csoportvezető | 100 | 50 |
+| 37. | helyi | C | szolgálatparancsnok | 150 |  |
 
-| 38. | B | főelőadó | 100 | 50 |
+| 38. | helyi | C | műszaki biztonsági tiszt | 100 |  |
 
-| 39. | hajóskapitány | 150 |  |
+| 39. | helyi | C | katasztrófavédelmi megbízott | 100 |  |
 
-| 40. | rajparancsnok | 150 |  |
+| 40. | helyi | C | csoportvezető | 100 | 50 |
 
-| 41. | A | előadó I. | 100 | 50 |
+| 41. | helyi | B | főelőadó | 100 | 50 |
+
+| 42. | helyi | B | hajóskapitány | 150 |  |
+
+| 43. | helyi | B | rajparancsnok | 150 |  |
+
+| 44. | helyi | A | előadó I. | 100 | 50 |
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^11]: Az 5. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § d) pontja szerint módosított szöveg.
+[^11]: Az 5. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § d) pontja, a 40/2017. (XII. 29.) BM rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
