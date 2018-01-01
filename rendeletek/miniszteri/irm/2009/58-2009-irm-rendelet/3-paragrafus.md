@@ -8,6 +8,7 @@ b) az 1. § b) pontja szerinti kérelem esetén az IGAZOLVÁNY technikai azonos�
 
 fel kell tüntetni.
 
-(3) A díj megfizetését az eljárás lefolytatása iránti kérelem benyújtásakor a fizetési számla megterhelését tartalmazó napi kivonattal, a postai készpénz-átutalási megbízás feladást igazoló szelvényrészével vagy ezek másolatával igazolni kell.
+(3)[^2]
 
 [^1]: A 3. § (1) bekezdése a 14/2016. (VI. 29.) IM rendelet 15. §-ával megállapított szöveg.
+[^2]: A 3. § (3) bekezdését a 25/2017. (XII. 22.) IM rendelet 10. § a) pontja hatályon kívül helyezte.
