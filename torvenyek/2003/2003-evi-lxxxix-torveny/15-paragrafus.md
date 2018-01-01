@@ -14,6 +14,6 @@
 
 (5) Az (1) és (2) bekezdésben meghatározott díjkedvezmény a beruházással érintett környezetterhelő anyag és a beruházással érintett telephely vonatkozásában vehető igénybe.
 
-(6) A vízterhelési díjkedvezmény igénybevételének feltétele a beruházásra vonatkozó jogerős elvi vízjogi vagy vízjogi létesítési engedély, illetve a levegőterhelési díj esetében a beruházásra vonatkozó jogerős létesítési engedély megléte.
+(6) A vízterhelési díjkedvezmény igénybevételének feltétele a beruházásra vonatkozó véglegessé vált elvi vízjogi vagy vízjogi létesítési engedély, illetve a levegőterhelési díj esetében a beruházásra vonatkozó véglegessé vált létesítési engedély megléte.
 
-(7) A díjkedvezmény első alkalommal a (6) bekezdésben meghatározott engedély jogerőre emelkedését követő díjelőleg fizetésénél vehető igénybe.
+(7) A díjkedvezmény első alkalommal a (6) bekezdésben meghatározott engedély véglegessé válását követő díjelőleg fizetésénél vehető igénybe.

@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-89-00-00
 | 2012-02-01 | 2011. évi CCI. törvény | 2003-89-00-00.6 |
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 2003-89-00-00.7 |
 | 2014-01-01 | 2013. évi CCXLIX. törvény | 2003-89-00-00.8 |
+| 2018-01-01 | 2017. évi L. törvény | 2003-89-00-00.9 |
