@@ -1,3 +1,3 @@
 ## 23. Átmeneti rendelkezések
 
-### 78. §
+78. § A 40. § (1) bekezdés a)–b) és e) pontja szerinti rendelkezések az egységes óvoda-bölcsőde esetén 2018. augusztus 31-éig alkalmazandóak.
