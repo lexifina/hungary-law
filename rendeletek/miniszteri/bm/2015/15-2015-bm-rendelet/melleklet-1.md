@@ -188,27 +188,29 @@ B) Rendvédelmi szervek
 
 3.13. a más önálló belügyi szerv térinformatikai adatait használó térinformatikus
 
+3.14.[^19] a BM OKF-en információbiztonsággal kapcsolatos feladatokat ellátó személyek
+
 C) Központi hivatalok
 
-1.[^19] A Bevándorlási és Menekültügyi Hivatal
+1.[^20] A Bevándorlási és Menekültügyi Hivatal
 
-1.1.[^20] a Bevándorlási és Menekültügyi Hivatal igazgatója és az igazgatóhelyettese
+1.1.[^21] a Bevándorlási és Menekültügyi Hivatal igazgatója és az igazgatóhelyettese
 
-1.2.[^21] a Bevándorlási és Menekültügyi Hivatal főigazgatója és főigazgató-helyettese mellett működő ügykezelő
+1.2.[^22] a Bevándorlási és Menekültügyi Hivatal főigazgatója és főigazgató-helyettese mellett működő ügykezelő
 
-1.3.[^22] a Bevándorlási és Menekültügyi Hivatal főosztályvezetője és főosztályvezető-helyettese
+1.3.[^23] a Bevándorlási és Menekültügyi Hivatal főosztályvezetője és főosztályvezető-helyettese
 
 1.4. a regionális igazgatóságok igazgatója és igazgatóhelyettese
 
-1.5.[^23] a Bevándorlási és Menekültügyi Hivatal és a regionális igazgatóság hatósági ügyintézések lefolytatásáért felelős szervezeti egységének vezetője és helyettesítésével munkaköri leírása szerint megbízott érdemi ügyintéző
+1.5.[^24] a Bevándorlási és Menekültügyi Hivatal és a regionális igazgatóság hatósági ügyintézések lefolytatásáért felelős szervezeti egységének vezetője és helyettesítésével munkaköri leírása szerint megbízott érdemi ügyintéző
 
-1.6.[^24] a Bevándorlási és Menekültügyi Hivatal központi ügyeletén ügyeletes munkakört betöltő személy
+1.6.[^25] a Bevándorlási és Menekültügyi Hivatal központi ügyeletén ügyeletes munkakört betöltő személy
 
 1.7. a befogadó állomás és a menekültügyi őrzött befogadó központ igazgatója, gazdasági osztályvezetője
 
-2.[^25]
+2.[^26]
 
-3.[^26]
+3.[^27]
 
 D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
@@ -232,7 +234,7 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 2.1. az igazgató
 
-3.[^27] Nemzeti Szakértői és Kutató Központ
+3.[^28] Nemzeti Szakértői és Kutató Központ
 
 3.1. a főigazgató és a főigazgató-helyettesek
 
@@ -248,7 +250,7 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 3.7. az arcképelemző tevékenység ellátásában részt vevő munkakörök
 
-4.[^28]
+4.[^29]
 
 [^2]: Az 1. melléklet A) rész 1. pont 1.20. alpontját a 37/2016. (IX. 1.) BM rendelet 15. §-a iktatta be.
 [^3]: Az 1. melléklet A) rész 1. pont 1.21. alpontját az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
@@ -267,13 +269,14 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 [^16]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.9. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (4) bekezdése iktatta be.
 [^17]: Az 1. melléklet B) rész 1. pont újabb 1.9. alpontját a 37/2016. (IX. 1.) BM rendelet 15. §-a iktatta be.
 [^18]: Az 1. melléklet B) Rendvédelmi szervek 2.4. pontja a 48/2015. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
-[^19]: Az 1. melléklet C) rész 1. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
-[^20]: Az 1. melléklet C) rész 1. pont 1.1. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
-[^21]: Az 1. melléklet C) rész 1. pont 1.2. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
-[^22]: Az 1. melléklet C) rész 1. pont 1.3. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
-[^23]: Az 1. melléklet C) rész 1. pont 1.5. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
-[^24]: Az 1. melléklet C) rész 1. pont 1.6. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
-[^25]: Az 1. melléklet C) rész 2. pontját az 58/2016. (XII. 22.) BM rendelet 49. §-a hatályon kívül helyezte.
-[^26]: Az 1. melléklet C) pont 3. pontját a 29/2016. (VII. 15.) BM rendelet 36. §-a hatályon kívül helyezte.
-[^27]: Az 1. melléklet D) rész 3. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
-[^28]: Az 1. melléklet D) rész 4. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte.
+[^19]: Az 1. melléklet B) rész 3. pont 3.14. alpontját a 40/2017. (XII. 29.) BM rendelet 10. §-a iktatta be.
+[^20]: Az 1. melléklet C) rész 1. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
+[^21]: Az 1. melléklet C) rész 1. pont 1.1. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
+[^22]: Az 1. melléklet C) rész 1. pont 1.2. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
+[^23]: Az 1. melléklet C) rész 1. pont 1.3. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
+[^24]: Az 1. melléklet C) rész 1. pont 1.5. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
+[^25]: Az 1. melléklet C) rész 1. pont 1.6. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
+[^26]: Az 1. melléklet C) rész 2. pontját az 58/2016. (XII. 22.) BM rendelet 49. §-a hatályon kívül helyezte.
+[^27]: Az 1. melléklet C) pont 3. pontját a 29/2016. (VII. 15.) BM rendelet 36. §-a hatályon kívül helyezte.
+[^28]: Az 1. melléklet D) rész 3. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
+[^29]: Az 1. melléklet D) rész 4. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte.
