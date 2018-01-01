@@ -15,11 +15,3 @@ c) a 2006/112/EK irányelvnek a szolgáltatásnyújtás teljesítési helye teki
 d) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a Közösségen belüli ügyletekkel kapcsolatos adócsalás elleni küzdelem érdekében történő módosításáról szóló, 2008. december 16-i 2008/117/EK tanácsi irányelv,
 
 e) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottérték-adóvisszatérítés részletes szabályainak megállapításáról szóló, 2008. február 12-i 2008/9/EK tanácsi irányelv.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke

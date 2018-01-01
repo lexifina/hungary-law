@@ -24,7 +24,7 @@ Az állami adó- és vámhatóság
 
 9. köztartozásmentes adózói adatbázist működtet és tesz közzé,
 
-10. a bejelentési, változásbejelentési kötelezettség teljesítéséhez online felületet biztosít,
+10.
 
 11. elektronikus úton tájékoztatja az elektronikus bevallásra kötelezett adózókat az általános forgalmi adó bevallási kötelezettségük gyakoriságáról, mely tájékoztatás mellőzését az adózó elektronikus úton kérheti,
 

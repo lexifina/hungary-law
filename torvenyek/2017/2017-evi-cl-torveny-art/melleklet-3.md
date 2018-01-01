@@ -291,7 +291,3 @@
 ## a) az adóelőlegét az adóév harmadik hónapjának tizenötödik napjáig, valamint kilencedik hónapjának tizenötödik napjáig fizeti meg;
 
 ## b) az adóelőleg-kiegészítés összegét az adóév utolsó hónapjának huszadik napjáig fizeti meg;
-
-## c) a megfizetett adóelőleg és adóelőleg-kiegészítés, valamint az adóévre megállapított adó pozitív különbözetét az adóévet követő év ötödik hónapjának utolsó napjáig fizeti meg, illetve a túlfizetést ettől az időponttól igényelheti vissza.
-
-## 2. Az adózó az ideiglenes jellegű helyi iparűzési tevékenysége utáni adót a tevékenység befejezése napját követő hónap tizenötödik napjáig fizeti meg.
