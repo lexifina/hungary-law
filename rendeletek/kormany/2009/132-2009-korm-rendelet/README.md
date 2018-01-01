@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-132-20-
 | 2015-01-01 | 2009-132-20-22.13 | 354/2014. (XII. 29.) Korm. rendelet |
 | 2015-04-01 | 2009-132-20-22.14 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2009-132-20-22.15 | 364/2014. (XII. 30.) Korm. rendelet |
+| 2018-01-01 | 2009-132-20-22.16 | 70/2015. (III. 30.) Korm. rendelet |

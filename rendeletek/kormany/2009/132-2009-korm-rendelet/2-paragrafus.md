@@ -38,7 +38,7 @@ d) a megyében (fővárosban) jellemző hiányszakmák körét.
 
 a)[^11] aki a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének decentralizált keretéből, valamint képzési keretéből támogatásban részesül,
 
-b)[^12] akinek a kormányhivatal által folyósított és jogerős határozattal visszakövetelt támogatással összefüggő fizetési kötelezettsége áll fenn,
+b)[^12] akinek a kormányhivatal által folyósított és végleges határozattal visszakövetelt támogatással összefüggő fizetési kötelezettsége áll fenn,
 
 c)[^13] aki másik kormányhivatal által bonyolított programban vesz részt,
 
@@ -55,7 +55,7 @@ e)[^15] aki a Társadalmi Megújulás Operatív Program keretében szakképesít
 [^9]: A 2. § (3) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 16. § (2) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 2. § (3a) bekezdését a 324/2011. (XII. 28.) Korm. rendelet 16. § (3) bekezdése iktatta be, szövege a 272/2012. (IX. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^11]: A 2. § (4) bekezdés a) pontja a 272/2012. (IX. 28.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^12]: A 2. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 2. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 247. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^13]: A 2. § (4) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^14]: A 2. § (4) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^15]: A 2. § (4) bekezdés e) pontja a 272/2012. (IX. 28.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
