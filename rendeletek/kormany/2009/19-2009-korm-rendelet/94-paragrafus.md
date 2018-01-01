@@ -2,7 +2,7 @@
 
 ## Szolgáltatás szüneteltetése
 
-94. §[^325] (1)[^326] A szállítási rendszerüzemeltető a rendszer üzemeltetése érdekében folyamatosan gondoskodik a szállítóvezeték üzembiztonságáról és karbantartásáról és fejlesztéséről. Ennek érdekében jogosult díjvisszatérítési és pótdíjfizetési kötelezettség nélkül évente egy alkalommal, legfeljebb
+94. §[^326] (1)[^327] A szállítási rendszerüzemeltető a rendszer üzemeltetése érdekében folyamatosan gondoskodik a szállítóvezeték üzembiztonságáról és karbantartásáról és fejlesztéséről. Ennek érdekében jogosult díjvisszatérítési és pótdíjfizetési kötelezettség nélkül évente egy alkalommal, legfeljebb
 
 a) 48 óra időtartamú gázszünettel vagy
 
@@ -24,5 +24,5 @@ b) törölni, ha a kapcsolódó rendszerüzemeltető nem tervezett a szállító
 
 (7) A rendszerhasználó jogosult egyedi műszaki megoldás alkalmazását igényelni, amely lehetővé teszi a karbantartás gázszüneteltetés nélküli elvégzését, az ezzel kapcsolatos költségek a felhasználót terhelik.
 
-[^325]: A Vhr. 94. §-a a 378/2011. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
-[^326]: A Vhr. 94. § (1) bekezdése a 281/2016. (IX. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^326]: A Vhr. 94. §-a a 378/2011. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^327]: A Vhr. 94. § (1) bekezdése a 281/2016. (IX. 21.) Korm. rendelet 8. §-ával megállapított szöveg.

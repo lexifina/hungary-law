@@ -1,3 +1,3 @@
-162–163. §[^551]
+162–163. §[^559]
 
-[^551]: A Vhr. 162–163. §-át a 91/2015. (IV. 9.) Korm. rendelet 23. § g) pontja hatályon kívül helyezte.
+[^559]: A Vhr. 162–163. §-át a 91/2015. (IV. 9.) Korm. rendelet 23. § g) pontja hatályon kívül helyezte.

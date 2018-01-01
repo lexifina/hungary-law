@@ -6,8 +6,11 @@
 
 (4)[^311] A kapacitáslekötési, nominálási, újranominálási és allokálási feladatokhoz szükséges adatokat az ÜKSZ-ben meghatározott eljárásrend szerint, elektronikus módon kell a kapcsolódó rendszerüzemeltetők, valamint a rendszerhasználók részére eljuttatni.
 
+(5)[^312] A (4) bekezdés szerinti feladatai ellátása során az elosztó és a szállítási rendszerüzemeltető az egyetemes szolgáltatás keretében vételező felhasználók tekintetében az adatokat elkülönítetten tartja nyilván és kezeli.
+
 [^307]: A Vhr. 89. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^308]: A Vhr. 89. § (1) bekezdése a 458/2016. (XII. 23.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^309]: A Vhr. 89. § (2) bekezdése a 458/2016. (XII. 23.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
 [^310]: A Vhr. 89. § (3) bekezdése a 458/2016. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^311]: A Vhr. 89. § (4) bekezdése a 458/2016. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^312]: A Vhr. 89. § (5) bekezdését a 497/2017. (XII. 29.) Korm. rendelet 8. §-a iktatta be.

@@ -42,7 +42,7 @@
 
 17.[^15] Piaci árinformációs rendszer: a rendszerhasználati díjakat, valamint az egyetemes szolgáltatók negyedéves árait tartalmazó adatbázis, amelyet a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) a honlapján közzétesz,
 
-17a.[^16] Próbaüzem: a műszaki berendezés üzembe helyezésének utolsó szakasza, amely során a megépült vagy átalakított műszaki berendezés üzemviszonyainak, műszaki-biztonsági megfelelőségének vizsgálata, ellenőrzése történik a használatbavételi engedélyezési eljárás jogerős befejezését megelőzően, és amelynek célja annak igazolása, hogy a műszaki berendezés a jogszabályokban, a hatósági határozatokban és a szabályzatokban foglalt, folyamatos és rendeltetésszerű üzemeltetésre vonatkozó követelményeknek üzemelés közben megfelel,
+17a.[^16] Próbaüzem: a műszaki berendezés üzembe helyezésének utolsó szakasza, amely során a megépült vagy átalakított műszaki berendezés üzemviszonyainak, műszaki-biztonsági megfelelőségének vizsgálata, ellenőrzése történik a használatbavételi engedélyezési eljárás végleges befejezését megelőzően, és amelynek célja annak igazolása, hogy a műszaki berendezés a jogszabályokban, a hatósági határozatokban és a szabályzatokban foglalt, folyamatos és rendeltetésszerű üzemeltetésre vonatkozó követelményeknek üzemelés közben megfelel,
 
 18.[^17]
 
@@ -87,7 +87,7 @@
 [^13]: A Vhr. 1. § (1) bekezdés 16. pontját a 91/2015. (IV. 9.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
 [^14]: A Vhr. 1. § (1) bekezdés 16a. pontját a 212/2014. (VIII. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 91/2015. (IV. 9.) Korm. rendelet 23. § a) pontja.
 [^15]: A Vhr. 1. § (1) bekezdés 17. pontja a 91/2015. (IV. 9.) Korm. rendelet 21. § 1. pontja szerint módosított szöveg.
-[^16]: A Vhr. 1. § (1) bekezdés 17a. pontját a 212/2014. (VIII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^16]: A Vhr. 1. § (1) bekezdés 17a. pontját a 212/2014. (VIII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 235. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^17]: A Vhr. 1. § (1) bekezdés 18. pontját a 91/2015. (IV. 9.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
 [^18]: A Vhr. 1. § (1) bekezdés 19. pontját újonnan a 212/2014. (VIII. 27.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 91/2015. (IV. 9.) Korm. rendelet 23. § a) pontja.
 [^19]: A Vhr. 1. § (1) bekezdés 20. pontja a 378/2011. (XII. 31.) Korm. rendelet 34. § (3) bekezdésével megállapított szöveg.
