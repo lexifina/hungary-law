@@ -4,12 +4,12 @@
 
 a) az érintett személy eljárási bírsággal sújtható, amennyiben a kötelezettségszegés felróható módon történt,
 
-b) a kormányzati ellenőrzési szerv vezetője kezdeményezheti az állami adóhatóságnál az ellenőrzött vagy az ellenőrzés kapcsán adatszolgáltatásra kötelezett szerv adószáma alkalmazásának felfüggesztését.
+b)
 
-(3) Az eljárási bírságot a kormányzati ellenőrzési szerv vezetője határozatban szabja ki. A bírságolással kapcsolatos eljárásra a Ket. rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(3) Az eljárási bírságot a kormányzati ellenőrzési szerv vezetője határozatban szabja ki. A bírságolással kapcsolatos eljárásra az Ákr. rendelkezéseit az e törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
 
-(4) Az ügyfelet az eljárás hivatalból történő megindításáról nem kell értesíteni. Az eljárásban kizárt az újrafelvételi eljárás, valamint egyezség megkötése.
+(4)
 
-(5) A döntés ellen fellebbezésnek nincs helye. A bírsággal sújtott személy a határozat közlésétől számított tizenöt napon belül kérheti a döntés bírósági felülvizsgálatát.
+(5) A keresetlevelet a bírsággal sújtott személynek a határozat közlésétől számított tizenöt napon belül kell benyújtania.
 
 (6) A helyszíni ellenőrzés lefolytatásának akadályozása esetén az ellenőrzött vagy az ellenőrzés kapcsán adatszolgáltatásra kötelezett szerv adatszolgáltatási vagy együttműködési kötelezettségének érvényesítéséhez a kormányzati ellenőrzési szerv a rendőrség közreműködését veheti igénybe.

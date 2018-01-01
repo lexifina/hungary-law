@@ -46,7 +46,7 @@ e) a fogyatékos és a súlyos mozgáskorlátozott személyeknek ezen élethelyz
 
 f) a szociális igazgatásról és szociális ellátásokról szóló törvény, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti pénzbeli és természetbeni szociális és gyermekvédelmi ellátásokat,
 
-g) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerinti foglalkoztatást elősegítő képzési támogatásokat, álláskeresési ellátásokat, bérgarancia támogatásokat, valamint a foglalkoztatási támogatásokra vonatkozó rendeletekben meghatározott magánszemélyek részére nyújtható támogatásokat,
+g) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerinti foglalkoztatást elősegítő képzési támogatásokat, álláskeresési ellátásokat, bérgarancia támogatásokat, a foglalkoztatási támogatásokra vonatkozó rendeletekben meghatározott magánszemélyek részére nyújtható támogatásokat, valamint a szakképzési törvény szerinti szakképzési centrum részére, felnőttoktatási tevékenység ellátásával összefüggésben nyújtott támogatásokat,
 
 h) a jogszabály alapján nyújtott családtámogatásokat, korhatár alatti ellátásokat, jövedelempótló és jövedelemkiegészítő szociális támogatásokat, az apákat megillető pótszabadsággal összefüggő költségek megtérítését, az energiafelhasználási támogatásokat,
 

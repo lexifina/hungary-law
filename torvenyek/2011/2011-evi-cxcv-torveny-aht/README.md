@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2017-11-24 | 2017. évi CLIX. törvény | 2011-195-00-00.55 |
 | 2017-12-23 | 2017. évi CXCVIII. törvény | 2011-195-00-00.56 |
 | 2017-12-28 | 2017. évi CXCIX. törvény | 2011-195-00-00.57 |
+| 2018-01-01 | 2017. évi L. törvény | 2011-195-00-00.58 |

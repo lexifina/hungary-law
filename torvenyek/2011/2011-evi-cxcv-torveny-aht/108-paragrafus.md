@@ -20,7 +20,7 @@ a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a k
 
 (4) A (3) bekezdés a) pontjának alkalmazásában lényegesnek minősül az adatszolgáltatás szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – közvetlenül és hátrányosan – befolyásolja az adatszolgáltatásban közölt adatokat felhasználók döntéseit.
 
-(5) Ha a bírság kiszabására okot adó körülmény az irányító szerv érdekkörében merül fel, a bírságot az irányító szervvel szemben kell kiszabni. Az adatszolgáltatásnak a határozat közlésétől számított 15 napon belül történő teljesítése esetén a (3) bekezdés alapján kiszabott bírság korlátlanul mérsékelhető. A kincstár e bekezdés szerinti határozata tekintetében az 57. § (6) és (7) bekezdését kell alkalmazni, azzal hogy a bíróság határozata ellen felülvizsgálatnak nincs helye.
+(5) Ha a bírság kiszabására okot adó körülmény az irányító szerv érdekkörében merül fel, a bírságot az irányító szervvel szemben kell kiszabni. Az adatszolgáltatásnak a határozat közlésétől számított 15 napon belül történő teljesítése esetén a (3) bekezdés alapján kiszabott bírság korlátlanul mérsékelhető. A kincstár e § szerinti határozatát 15 napon belül lehet megtámadni. A bíróság határozata ellen perorvoslatnak nincs helye.
 
 (6) Azon központi kezelésű előirányzatok esetében, amelyek tekintetében a Kormány rendeletében foglaltak szerint a beszámolási és könyvvezetési feladatokat a kincstár látja el, a bírságot a Kormány rendeletében meghatározott részletező nyilvántartások vezetésére és azok adatai alapján a kincstár számára adatszolgáltatásra köteles szervezetekkel szemben kell kiszabni, ha a bírság kiszabására okot adó körülmény e szervezet mulasztása miatt keletkezett.
 

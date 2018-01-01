@@ -17,3 +17,5 @@ d) a támogatásra vonatkozó valamely feltételt megszegett
 (3) A helyi önkormányzat kérelme alapján a visszafizetési és kamatfizetési kötelezettségére vonatkozóan – a késedelmi kamat kivételével – a kincstár legfeljebb tizenkét havi részletfizetést engedélyezhet, ha a kérelmező igazolja, hogy kötelező feladatainak ellátását az egyösszegű visszafizetés veszélyeztetné. A részletfizetésről hozott határozattal szemben nincs helye fellebbezésnek. A részletfizetési kérelem benyújtására meghatározott határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye.
 
 (4) Ha a helyi önkormányzat a részletfizetést engedélyező határozatban foglalt fizetési kötelezettségének a határozatban foglaltak szerint nem tesz eleget, a visszafizetési és kamatfizetési kötelezettség egy összegben, azonnal esedékessé válik. Ha az így keletkezett egyösszegű fizetési kötelezettséget a kötelezett az esedékessé válást követő tizenöt napon belül nem teljesíti, a kincstár beszedési megbízást nyújt be a kötelezett fizetési számlájával szemben.
+
+(5) Az ügyfél a nyilatkozatával nem pótolhatja a hiányzó bizonyítékot.
