@@ -1,6 +1,6 @@
 ## 105. A pénzbírság, a helyszíni bírság, a szabálysértési költség, a rendbírság valamint az okozott kár végrehajtása
 
-141. § (1) A pénzbírságot, a helyszíni bírságot, a rendbírságot, a szabálysértési költséget és az okozott kárt a határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni. A pénzbírság, a helyszíni bírság, a rendbírság, valamint a szabálysértési költség befizetéséből származó bevétel az államháztartás központi alrendszerének bevételét képezi.
+141. § (1) A pénzbírságot, a helyszíni bírságot, a rendbírságot, a szabálysértési költséget és az okozott kárt a határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni. A pénzbírság, a helyszíni bírság, a rendbírság, valamint a szabálysértési költség befizetéséből származó bevétel az államháztartás központi alrendszerének bevételét képezi, amelyet a kincstár által e célra létrehozott központosított beszedési számlára kell beszedni.
 
 (1a) A bíróság és a központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott hatóságok, személyek feladat- és hatáskörébe tartozó szabálysértési eljárások során kiszabott vagy végrehajtott pénzbírságból, szabálysértési költségből, rendbírságból, helyszíni bírságból származó bevételt a központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott központi bírságkezelő szerv (a továbbiakban: központi bírságkezelő szerv) a kincstárnál vezetett központosított beszedési számlákon kezeli.
 
@@ -22,9 +22,9 @@ d) a felderítés helye
 
 szerint illetékes.
 
-(2d) A központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott hatóságok, személyek által kiszabott helyszíni bírság, valamint a bíróság és a központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott hatóság által kiszabott pénzbírság, rendbírság, megállapított szabálysértési költség befizetésének ellenőrzésére és azonosítására, továbbá a központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott hatóságok, személyek által kiszabott vagy a végrehajtási eljárás során befizetett helyszíni bírság azonosítására a központi bírságkezelő szerv is feladat- és hatáskörrel rendelkezik.
+(2d) A bíróság és a központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott hatóság által kiszabott pénzbírság, rendbírság, megállapított szabálysértési költség, valamint a központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott hatóságok, személyek által kiszabott vagy a végrehajtási eljárás során befizetett helyszíni bírság befizetésének ellenőrzésére és azonosítására a központi bírságkezelő szerv is feladat- és hatáskörrel rendelkezik.
 
-(2e) A (2d) bekezdésben meghatározott feladat ellátása érdekében a központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott szervek a központosított bevétel beszedési számláira beérkezett, (1a) bekezdésben meghatározott bevételek banki kivonatait és a Magyar Posta Elszámoló Központja által megadott adatállományait elektronikus úton a továbbutalt bevételek beazonosítása érdekében a központi bírságkezelő szerv rendelkezésére bocsátja.
+(2e)
 
 (2f) A központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott szabálysértési hatóság a központi bírságkezelő szerv részére a (2d) bekezdésben meghatározott feladat ellátása érdekében a rendelkezésére álló,
 
@@ -40,9 +40,19 @@ e) a 153. § (2) bekezdés o) pont oa)–od) alpontban szereplő
 
 adatokat elektronikus formában automatikusan továbbítja.
 
-(2g) A központi bírságkezelő szerv a (2f) bekezdésében meghatározott adatokról a bevételekkel kapcsolatos követelésekkel és kötelezettségekkel összefüggő jelentési kötelezettség teljesítése érdekében nyilvántartást vezet. A központi bírságkezelő szerv a nyilvántartásban az adatokat a nyilvántartásba vételüktől számított nyolc évig kezeli. A nyilvántartásból – törvény eltérő rendelkezésének hiányában – adattovábbításnak nincs helye.
+(2g) A központi bírságkezelő szerv a (2f) és (2i) bekezdésben meghatározott adatokról a bevételekkel kapcsolatos követelésekkel és kötelezettségekkel összefüggő jelentési kötelezettség teljesítése érdekében nyilvántartást vezet. A központi bírságkezelő szerv a nyilvántartásban az adatokat a nyilvántartásba vételüktől számított nyolc évig kezeli. A nyilvántartásból – törvény eltérő rendelkezésének hiányában – adattovábbításnak nincs helye.
 
 (2h) A központi bírságkezelő szerv a (2d) bekezdésben meghatározott feladat elvégzése során összeveti a feladatellátásával összefüggésben rendelkezésére álló adatokat, és az összevetés eredményeként kapott adatokat a szabálysértési nyilvántartásokba történő rögzítés, illetve annak kezdeményezése érdekében elektronikus formában automatikusan megküldi a szabálysértési nyilvántartásokban ezen adatokat rögzítő illetékes hatóságnak.
+
+(2i) A központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott helyszíni bírság kiszabására jogosult a központi bírságkezelő szerv részére a (2d) bekezdésben meghatározott feladat ellátása érdekében – ide értve a gépjárművezető távollétében kiszabott helyszíni bírságot is –
+
+a) a 153. § (2) bekezdés o) pontjában szereplő adatokat,
+
+b) a helyszíni bírságoláshoz használt nyomtatvány alapján kitöltött készpénz-átutalási megbízás azonosítóját, valamint
+
+c) a gépjárművel történő elkövetés esetén – ha rendelkezésre áll – a gépjármű rendszámát
+
+elektronikus formában automatikusan továbbítja.
 
 (3) A bíróság által kiszabott pénzbírság, szabálysértési költség, rendbírság befizetésének ellenőrzéséről és végrehajtásáról, a 39. § (2) bekezdés c)–i) pontjában meghatározottak által kiszabott helyszíni bírság végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
@@ -56,7 +66,7 @@ a) bíróság által kiszabott pénzbírság esetén annak a járásbíróságna
 
 b) egyéb esetekben a végrehajtást foganatosító szabálysértési hatóság székhelye szerint illetékes járásbíróságnak.
 
-(7) Ha az iratok alapján a bíróság az átváltoztatás törvényi feltételének hiányát állapítja meg, a bíróság tárgyalás tartása nélkül hozott végzésével az átváltoztatást mellőzi, ha pedig az alapeljárásban vagy a végrehajtás során törvénysértés merült fel, végzésében egyúttal a (13) bekezdés d), illetve e) pontjában foglaltak szerint rendelkezik.
+(7) Ha az iratok alapján a bíróság az átváltoztatás törvényi feltételének hiányát állapítja meg, a bíróság tárgyalás tartása nélkül hozott végzésével az átváltoztatást mellőzi, ha pedig az alapeljárásban vagy a végrehajtás során törvénysértés merült fel, végzésében egyúttal a (13) bekezdés d), illetve e) pontjában foglaltak szerint rendelkezik. A helyszíni bírság hatályon kívül helyezésének kizárólag a 99/A. § (3) bekezdésében foglalt jogsértés esetében van helye.
 
 (8) Ha a (7) bekezdés szerinti döntés meghozatalának nincs helye, a bíróság a meg nem fizetett pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatásáról az iratok bíróságra érkezésétől számított negyvenöt napon belül dönt. A bíróság e végzésével szemben nincs helye jogorvoslatnak.
 
@@ -102,6 +112,6 @@ b) a szabálysértési elzárás foganatosítását követően az elkövetőt ny
 
 (15) A szabálysértési elzárás letöltéséről, illetőleg az azonnali szabadításról a büntetés-végrehajtási intézet a szabálysértési hatóságot haladéktalanul értesíti.
 
-(16) Ha a szabálysértési költséget, a rendbírságot, az elővezetési költséget az arra kötelezett határidőn belül nem fizeti meg, azt adók módjára kell behajtani, az okozott kár értékének megtérítését pedig a bírósági végrehajtásról szóló törvény szabályai szerint kérelmezheti a károsult.
+(16) Ha a szabálysértési költséget, a rendbírságot, az elővezetési költséget, valamint a körözött személy előállításával kapcsolatos költséget az arra kötelezett határidőn belül nem fizeti meg, azt adók módjára kell behajtani, az okozott kár értékének megtérítését pedig a bírósági végrehajtásról szóló törvény szabályai szerint kérelmezheti a károsult.
 
 (17) Ha az elkövető a pénzbírságot, a helyszíni bírságot a határozat jogerőre emelkedésétől számított harminc napon belül nem fizeti meg, azt adók módjára kell behajtani, ha nincs helye elzárásra történő átváltoztatásnak, valamint közérdekű munkával sem váltotta azt meg.

@@ -10,4 +10,4 @@ b) e törvény rendelkezése alapján adatokhoz való közvetlen hozzáférést 
 
 (3) A (2) bekezdésben meghatározott felhatalmazás jogosultjának személyéről, hozzáférési jogosultságának terjedelméről és feltételeiről, valamint az abban bekövetkezett változásról a közvetlen hozzáférésre jogosult szerv – a felhatalmazás kiadását, változását követően haladéktalanul – értesíti a szabálysértési nyilvántartó szervet.
 
-(4) Az adatigénylésre történő adattovábbítási eljárást meg kell szüntetni, ha az adatigénylés az (1) bekezdés a) pontjában meghatározott feltételnek nem felel meg.
+(4)

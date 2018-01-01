@@ -1,6 +1,6 @@
 ## 106/A. A közérdekű munka foglalkoztatói nyilvántartása
 
-144/A. § (1) Az állami foglalkoztatási szerv a közérdekű munka végzésére kijelölhető foglalkoztatókról, valamint a közérdekű munkával sújtott és a 142. § (1) bekezdése alapján közérdekű munkát vállalt elkövetőkről, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján a közösségellenes magatartás miatt kiszabott, meg nem fizetett közigazgatási bírságot közérdekű munkával megváltó természetes személy elkövetőkről a közérdekű munka megszervezése és a végrehajtás feltételeinek biztosítása, valamint a közérdekű munka végrehajtásának ellenőrzése céljából nyilvántartást vezet (a továbbiakban: foglalkoztatói nyilvántartás).
+144/A. § (1) Az állami foglalkoztatási szerv a közérdekű munka végzésére kijelölhető foglalkoztatókról, valamint a közérdekű munkával sújtott és a 142. § (1) bekezdése alapján közérdekű munkát vállalt elkövetőkről, a közösségellenes magatartás miatt az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatósági eljárásban kiszabott, meg nem fizetett bírságot közérdekű munkával megváltó természetes személy elkövetőkről a közérdekű munka megszervezése és a végrehajtás feltételeinek biztosítása, valamint a közérdekű munka végrehajtásának ellenőrzése céljából nyilvántartást vezet (a továbbiakban: foglalkoztatói nyilvántartás).
 
 (2) A foglalkoztatói nyilvántartás a közérdekű munka végzésére kijelölhető foglalkoztatók vonatkozásában tartalmazza
 

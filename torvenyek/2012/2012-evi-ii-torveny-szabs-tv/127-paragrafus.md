@@ -10,7 +10,7 @@ a) az alapügyben akár felmerült, akár fel nem merült tényre vonatkozó oly
 
 aa) az elkövető szabálysértési felelőssége nem állapítható meg, illetve vele szemben lényegesen enyhébb jogkövetkezményt kell alkalmazni;
 
-ab) a szabálysértési elzárással is büntethető szabálysértés miatt az elkövető felelősségét meg kell állapítani, vagy lényegesen súlyosabb büntetést, illetve intézkedés helyett büntetést kell kiszabni, vagy a büntetés helyett alkalmazott intézkedésnél lényegesen súlyosabb intézkedést kell alkalmazni;
+ab)
 
 b) az eljárás alá vont személlyel szemben ugyanazon cselekmény miatt több szabálysértési felelősséget megállapító végzést, vagy ugyanazon cselekmény miatt szabálysértési és büntetőjogi felelősséget megállapító döntést hoztak;
 

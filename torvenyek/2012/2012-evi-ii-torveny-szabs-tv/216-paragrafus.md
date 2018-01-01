@@ -10,7 +10,7 @@ c) bűncselekmény,
 
 d) szabálysértés, vagy
 
-e) közigazgatási bírság hatálya alá tartozó szabályszegés
+e) közigazgatási hatósági eljárás hatálya alá tartozó szabályszegés
 
 helyszínén a rendőr vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának helyszín biztosítására vonatkozó jogszerű intézkedésének, illetve a helyszín elhagyására vagy az ott tartózkodásra vonatkozó jogszerű utasításának nem tesz eleget, szabálysértést követ el.
 

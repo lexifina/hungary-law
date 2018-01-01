@@ -6,13 +6,15 @@
 
 250. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-a) kijelölje a Kormány alárendeltségébe tartozó szervek által kiszabott szabálysértési bírságok befizetésének ellenőrzését végrehajtó szervet,
+a) kijelölje a központi bírságkezelő szervet, és megállapítsa annak feladat- és hatáskörét,
 
 b) kijelölje a szabálysértési nyilvántartási rendszer tekintetében az adatkezelői feladatokat ellátó szervet,
 
 c) meghatározza a XXVII. és a XXVIII. Fejezetben foglalt egyes szabálysértések esetén a pénzbírság, illetve a helyszíni bírság kötelező mértékét,
 
-d) meghatározza a bírósági ügyintézők által szabálysértési eljárásban ellátható feladatokat.
+d) meghatározza a bírósági ügyintézők által szabálysértési eljárásban ellátható feladatokat,
+
+e) meghatározza a szabálysértési nyilvántartás kezelésével, valamint az abból történő adatigényléssel kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokat,
 
 (2) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy
 
@@ -20,13 +22,13 @@ a) a törvény végrehajtásával összefüggő feladatok ellátásának rendjé
 
 b) a szabálysértési nyilvántartások részére történő adatközlés formájának és módjának, valamint az adatközlés rendjének,
 
-c) a szabálysértési nyilvántartó szerv által teljesített adatszolgáltatás rendjének, valamint a szabálysértési nyilvántartásokban kezelt adatok igazolására kiállított hatósági bizonyítvány kiadásának részletes eljárási rendjének,
+c) a szabálysértési nyilvántartó szerv által teljesített adatszolgáltatás rendjének,
 
 d) az adópolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter, a közlekedésért felelős miniszter, a halgazdálkodásért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a természetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
 
 e)
 
-f) az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének,
+f) az igazságügyért felelős miniszter az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárásban elrendelt elővezetés, valamint az előállítás végrehajtásával felmerült költség megtérítésének,
 
 g) az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárás során lefoglalt és elkobzott dolgok kezelésének és értékesítésének,
 

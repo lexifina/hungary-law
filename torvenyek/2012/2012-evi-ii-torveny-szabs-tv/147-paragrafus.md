@@ -1,6 +1,8 @@
 ## 109. Méltányosság
 
-147. § (1) Az elkövető – beleegyezése esetében képviselője is – méltányossági kérelmet nyújthat be a szabálysértési hatóság, illetve a bíróság által kiszabott büntetés, illetve alkalmazott intézkedés elengedése, illetve mérséklése iránt. Az elkobzott dolog visszaadása érdekében az elkobzást elszenvedő is előterjeszthet méltányossági kérelmet.
+147. § (1) Az elkövető, az elkövető törvényes képviselője, valamint az elkövető vagy az elkövető törvényes képviselője által, kifejezetten e kérelem benyújtására írásban meghatalmazott nagykorú személy méltányossági kérelmet nyújthat be a szabálysértési hatóság vagy a bíróság által kiszabott büntetés, illetve alkalmazott intézkedés elengedése, mérséklése iránt. Egy adott méltányossági kérelmet kizárólag az annak alapjául szolgáló büntetés vagy intézkedés tárgyában lehet benyújtani. Az elkobzott dolog visszaadása érdekében az elkobzást elszenvedő is előterjeszthet méltányossági kérelmet. Figyelmeztetés és helyszíni bírság ellen nincs helye méltányossági kérelem benyújtásának.
+
+(1a) A méltányossági kérelem benyújtására vonatkozó meghatalmazás iránti nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett meghatalmazás tényét a méltányossági kérelem benyújtásával egyidejűleg be kell jelenteni a bíróságnak, illetve szabálysértési hatóságnak.
 
 (2) A kérelmet a pénzbírságot kiszabó határozat, illetve végzés jogerőre emelkedésétől számított harminc napon belül, egyéb jogkövetkezmény esetén a végrehajtás megkezdéséig lehet előterjeszteni. Méltányossági kérelmet egy alkalommal lehet előterjeszteni.
 
@@ -19,6 +21,8 @@
 (7) A méltányossági kérelmet a szabálysértési szabályozásért felelős miniszter – a (7a) bekezdésben foglalt kivétellel – a köztársasági elnökhöz akkor is felterjeszti, ha annak tartalmával nem ért egyet.
 
 (7a) A nem az (1) bekezdésben foglaltaknak megfelelően előterjesztett, valamint az elkésett, a nem a jogosult által előterjesztett, vagy az egyazon ügyben ismételten előterjesztett méltányossági kérelem érdemi vizsgálat nélküli elutasításáról, továbbá a határidőn túl előterjesztett méltányossági kérelem esetében az igazolási kérelemről a szabálysértési szabályozásért felelős miniszter dönt, amely ellen nincs helye jogorvoslatnak.
+
+(7b) Nem minősül méltányossági kérelemnek, ha az elkövető olyan tárgyban nyújtja be a kérelmét, amellyel szemben méltányossági kérelem nem terjeszthető elő. Az ilyen kérelmet a szabálysértési hatóság vagy bíróság nem terjeszti fel a méltányossági jogkör gyakorlójának, és a kérelem benyújtóját, a kérelem érdemi vizsgálata nélkül, erről tájékoztatja.
 
 (8) A méltányossági döntésről az értesítést az elkövetőnek az (5) bekezdésben meghatározott szabálysértési hatóság, illetve bíróság kézbesíti.
 
