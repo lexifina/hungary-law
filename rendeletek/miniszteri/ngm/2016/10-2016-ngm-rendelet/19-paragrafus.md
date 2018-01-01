@@ -32,11 +32,11 @@ b) ideiglenesen telepített munkahely esetén az áram-védőkapcsolón és kor�
 
 a) kéziszerszámokon és hordozható biztonsági transzformátorokon évente;
 
-b) a Kommunális- és Lakóépületek Érintésvédelmi Szabályzatáról szóló 8/1981. (XII. 27.) IpM rendelet (a továbbiakban: KLÉSZ) alkalmazási körébe tartozó villamos berendezéseken hatévente;
+b)[^1] az összekötő és felhasználói berendezésekről, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezésekről és védelmi rendszerekről szóló rendelet (a továbbiakban: Villamos Műszaki Biztonsági Szabályzat rendelet) szerinti lakóépület, kommunális épület és egyéb épület villamos berendezésein hatévente;
 
 c) azon villamos berendezésrészen, amelyre a fentiek szerint nincs külön gyakoriság előírva, az érintésvédelmi szabványossági felülvizsgálat alkalmával, annak bevezető részeként háromévente.
 
-(7) Az időszakos ellenőrző felülvizsgálatot – a KLÉSZ hatálya alá tartozó villamos berendezések kivételével – szabványossági felülvizsgálattal rendszeresen, legalább háromévente kell elvégezni a munkahelynek minősülő helyen.
+(7)[^2] Az időszakos ellenőrző felülvizsgálatot – a Villamos Műszaki Biztonsági Szabályzat rendelet hatálya alá tartozó villamos berendezések kivételével – szabványossági felülvizsgálattal rendszeresen, legalább háromévente kell elvégezni a munkahelynek minősülő helyen.
 
 (8) A vizsgált berendezés vizsgálati eredményét írásban kell dokumentálni, amely tartalmazza:
 
@@ -61,3 +61,6 @@ b) a mérési eredmények számszerű értékeit tartalmazó, rövidített jegyz
 (11) Az érintésvédelmi minősítő iratban a vizsgált berendezést minden esetben az irat kiállítása idején érvényes előírások szerint kell minősíteni.
 
 (12) A felülvizsgálat megállapításait, a megtett intézkedéseket jegyzőkönyvben rögzíteni kell, amit a következő időszakos ellenőrző felülvizsgálat időpontjáig meg kell őrizni és annak egy példányát a helyszínen kell tartani.
+
+[^1]: A 19. § (6) bekezdés b) pontja a 40/2017. (XII. 4.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^2]: A 19. § (7) bekezdése a 40/2017. (XII. 4.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
