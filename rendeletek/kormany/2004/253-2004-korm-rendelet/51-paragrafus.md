@@ -1,12 +1,12 @@
-51. § (1)[^163] Az európai lőfegyvertartási engedély tartalmazza
+51. § (1)[^168] Az európai lőfegyvertartási engedély tartalmazza
 
 a) az engedély birtokosának természetes személyazonosító adatait, lakóhelyét;
 
-b)[^164] a lőfegyver azonosító adatait (típusa, gyártója, gyártási száma, kaliberjele, kategóriájának betűjele és száma);
+b)[^169] a lőfegyver azonosító adatait (típusa, gyártója, gyártási száma, kaliberjele, kategóriájának betűjele és száma);
 
-c)[^165] az engedély hatályosságát;
+c)[^170] az engedély hatályosságát;
 
-d)[^166] az engedélyező hatóság bejegyzéseit;
+d)[^171] az engedélyező hatóság bejegyzéseit;
 
 e) a meglátogatott tagállamok hatóságainak engedélyezési bejegyzéseire szolgáló rovatot;
 
@@ -26,15 +26,15 @@ i) a kiállító hatóság megnevezését, bélyegzőlenyomatát;
 
 j) az engedély kiállításának keltét.
 
-(2)[^167] Az európai lőfegyvertartási engedély meglétét igazoló hatósági igazolvány öt évig hatályos, hatályossága kérelemre alkalmanként további öt évre meghosszabbítható, ha az engedély kiadására vonatkozó feltételek – azok ismételt vizsgálata alapján – biztosítottak.
+(2)[^172] Az európai lőfegyvertartási engedély meglétét igazoló hatósági igazolvány öt évig hatályos, hatályossága kérelemre alkalmanként további öt évre meghosszabbítható, ha az engedély kiadására vonatkozó feltételek – azok ismételt vizsgálata alapján – biztosítottak.
 
 (3) Az európai lőfegyvertartási engedély nem ruházható át, azt az engedéllyel rendelkező személy a tűzfegyver birtoklása során köteles magánál tartani.
 
-(4)[^168] Az európai lőfegyvertartási engedélybe bejegyzett lőfegyver birtoklásában, jellemzőiben bekövetkezett változásokat, valamint a lőfegyver elvesztését vagy ellopását az engedélyen fel kell tüntetni.
+(4)[^173] Az európai lőfegyvertartási engedélybe bejegyzett lőfegyver birtoklásában, jellemzőiben bekövetkezett változásokat, valamint a lőfegyver elvesztését vagy ellopását az engedélyen fel kell tüntetni.
 
-[^163]: Az 51. § (1) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^164]: Az 51. § (1) bekezdés b) pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 24. pontja szerint módosított szöveg.
-[^165]: Az 51. § (1) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^166]: Az 51. § (1) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^167]: Az 51. § (2) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^168]: Az 51. § (4) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 25. pont a) és b) pontja szerint módosított szöveg.
+[^168]: Az 51. § (1) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^169]: Az 51. § (1) bekezdés b) pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 24. pontja szerint módosított szöveg.
+[^170]: Az 51. § (1) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^171]: Az 51. § (1) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^172]: Az 51. § (2) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^173]: Az 51. § (4) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 25. pont a) és b) pontja szerint módosított szöveg.

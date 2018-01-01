@@ -1,4 +1,4 @@
-## 3. §[^4]
+## 3. §[^4] Az engedélyezési eljárásban jogszerű hallgatásnak nincs helye.
 
 4. § (1)[^5] A lőfegyver, a lőfegyverdarab, a lőszer (lőszerelem), a flóbert töltény, a festéklövő fegyver, a gáz- és riasztófegyver, a gáztöltény, a riasztótöltény, a vaktöltény, a légfegyver, a muzeális fegyver, a színházi fegyver gyártását, a Magyarország területén történő forgalmazását, a lőfegyver, a lőszer (lőszerelem) kereskedelmi célú kivitelét, behozatalát a tevékenység helye, az ország területén történő átszállítását a Magyarország területére történő határátlépés helye szerint illetékes megyei (fővárosi) rendőr-főkapitányság engedélyezi.
 
@@ -10,7 +10,7 @@
 
 (5) Az európai lőfegyvertartási engedély kiadása és a lőfegyver, lőszer nem kereskedelmi célú kivitele a (2)–(4) bekezdésben meghatározott hatóság hatáskörébe tartozik.
 
-[^4]: A 3. §-t a 334/2009. (XII. 29.) Korm. rendelet 5. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^4]: A 3. §-t a 334/2009. (XII. 29.) Korm. rendelet 5. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 139. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^5]: A 4. § (1) bekezdése a 39/2012. (III. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^6]: A 4. § (2) bekezdése a 371/2016. (XI. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^7]: A 4. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának m) pontja, a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 2. pontja szerint módosított szöveg.

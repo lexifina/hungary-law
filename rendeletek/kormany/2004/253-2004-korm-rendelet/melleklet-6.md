@@ -90,6 +90,6 @@
 
 ## Kaliber jel: a hivatalos, a fegyver szemlézési, vagy bevizsgálási tanúsítványán szereplő CIP kaliberjelet kell feltüntetni, csövenként felsorolva.
 
-6. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^196]
+6. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^201]
 
-[^196]: A 6. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § b) pontjával megállapított szöveg.
+[^201]: A 6. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § b) pontjával megállapított szöveg.

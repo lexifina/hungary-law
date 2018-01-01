@@ -1,4 +1,4 @@
-## 51/A. §[^169] Az e rendeletben előírt bejelentési kötelezettségeket a kötelezett elektronikus úton is teljesítheti.
+## 51/A. §[^174] Az e rendeletben előírt bejelentési kötelezettségeket a kötelezett elektronikus úton is teljesítheti.
 
 ## Záró rendelkezések
 
@@ -6,7 +6,7 @@
 
 52. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^170]
+(2)[^175]
 
-[^169]: Az 51/A. §-t a 247/2009. (XI. 10.) Korm. rendelet 23. § (2) iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^170]: Az 52. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 640. pontja hatályon kívül helyezte.
+[^174]: Az 51/A. §-t a 247/2009. (XI. 10.) Korm. rendelet 23. § (2) iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^175]: Az 52. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 640. pontja hatályon kívül helyezte.

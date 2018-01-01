@@ -76,6 +76,6 @@
 
 ## g) A vizsgálatot követően a hatástalanítást végző köteles hegesztéssel megszüntetni a fegyver roncsolásmentes szétszedhetőségét.
 
-22. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^213]
+22. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^218]
 
-[^213]: A 22. mellékletet a 39/2012. (III. 12.) Korm. rendelet 28. § f) pontja iktatta be.
+[^218]: A 22. mellékletet a 39/2012. (III. 12.) Korm. rendelet 28. § f) pontja iktatta be.
