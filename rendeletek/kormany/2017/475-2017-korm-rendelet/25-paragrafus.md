@@ -1,0 +1,3 @@
+## 24. § A „Pályamódosító hitelprogram” keretében nyújtott hitel igénybevételének feltételeiről szóló 212/2006. (X. 27.) Korm. rendelet 3. § (2) bekezdés a) pontjában az „az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja” szövegrész helyébe az „az adózás rendjéről szóló törvény” szöveg lép.
+
+## 19. Az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Halászati Alapból, valamint az Európai Mezőgazdasági Garancia Alapból támogatott programok és intézkedések pénzügyi, számviteli és ellenőrzési rendszerek kialakításáról, lebonyolításának rendjéről szóló 82/2007. (IV. 25.) Korm. rendelet módosítása

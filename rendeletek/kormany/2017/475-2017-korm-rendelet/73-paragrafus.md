@@ -1,0 +1,5 @@
+## 72. § Az R7. 56/A. §-a helyébe a következő rendelkezés lép:
+
+## „56/A. § (1) Az Art. 59. § (1) bekezdés b)–g) pontja, valamint 60. §-a alapján, kizárólag az adó megfizetésére kötelezett személlyel szembeni határozatot, valamint az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény (a továbbiakban: Avt.) 48. § (4) bekezdése, 65. § (9) bekezdése, 90. § (3) bekezdése, 91. § (7) bekezdése, 102. §-a, valamint a 113. § (3) bekezdése szerinti döntést – figyelemmel a 81/A. §-ban foglaltakra – az a megyei igazgatóság hozza meg, amely az eredeti adós-adózó adóügyeiben hatáskörrel és illetékességgel rendelkezik, kivéve a törvényi kezesség esetét.
+
+## (2) A 81/A. §-ban foglaltakra is figyelemmel az Art. 59. § (1) bekezdés a), h) és i) pontja szerinti határozatot a kizárólag az adó megfizetésére kötelezett személy, az Art. 59. § (3) bekezdése szerinti határozatot a fióktelep, az Avt. 90. § (4) bekezdése szerinti határozatot az árverés nyertese, az Áfa törvény 150. §-a szerinti határozatot a kezes adóügyeiben hatáskörrel és illetékességgel rendelkező megyei igazgatóság hozza meg.”

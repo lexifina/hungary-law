@@ -1,0 +1,1 @@
+## „t) végzi a megújuló energia közlekedési célú felhasználásának teljesítésével, illetve az közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentésével kapcsolatosan az állami adó- és vámhatóság részére jogszabályban meghatározott adatgyűjtési és adatszolgáltatási feladatokat.”

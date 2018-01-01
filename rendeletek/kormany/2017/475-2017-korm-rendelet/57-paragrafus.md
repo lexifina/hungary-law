@@ -1,0 +1,3 @@
+## 56. § A KAVOSZ Vállalkozásfejlesztési Zrt. autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló programjához kapcsolódó állami kezességvállalásról és kamattámogatásról szóló 232/2013. (VI. 30.) Korm. rendelet 1. § 5. pontjában az „az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 20. pontja” szövegrész helyébe az „az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontja” szöveg lép.
+
+## 41. A közforgalmú gyógyszertári tulajdoni hányadra vonatkozó elővásárlási jog gyakorlásának és az állam tulajdoni hányadának értékesítésére vonatkozó pályázat szabályairól szóló 331/2013. (IX. 5.) Korm. rendelet módosítása
