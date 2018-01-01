@@ -1,3 +1,3 @@
-## 16.[^58]
+## 16.[^70]
 
-[^58]: A 16. alcímet (25. §) a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés i) pontja hatályon kívül helyezte.
+[^70]: A 16. alcímet (25. §) a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés i) pontja hatályon kívül helyezte.

@@ -4,7 +4,7 @@
 
 ## 1. A biztonsági vezető foglalkoztatásának feltételei
 
-5. § (1)[^15] Biztonsági vezető az lehet, aki
+5. § (1)[^27] Biztonsági vezető az lehet, aki
 
 a) felsőfokú végzettséggel rendelkezik,
 
@@ -14,15 +14,15 @@ c) a kezelt minősített adatok minősítési szintjének megfelelő szintű sze
 
 d) aláírta a titoktartási nyilatkozatot.
 
-(2)[^16] Biztonsági vezetőnek a minősített adatot kezelő szervnél csak az érintett szervvel munkaviszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, bírói, igazságügyi, ügyészi, hivatásos szolgálati jogviszonyban vagy a honvédek jogállásáról szóló törvény szerinti szolgálati viszonyban álló személyt lehet kinevezni. Biztonsági vezetői feladat megbízási szerződés alapján nem látható el.
+(2)[^28] Biztonsági vezetőnek a minősített adatot kezelő szervnél csak az érintett szervvel munkaviszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, bírói, igazságügyi, ügyészi, hivatásos szolgálati jogviszonyban vagy a honvédek jogállásáról szóló törvény szerinti szolgálati viszonyban álló személyt lehet kinevezni. Biztonsági vezetői feladat megbízási szerződés alapján nem látható el.
 
 (3) A biztonsági vezető a minősített adatot kezelő szervnél egyidejűleg titkos ügykezelői munkakörben nem foglalkoztatható.
 
-(4)[^17] Helyettes biztonsági vezető az lehet, aki az (1)–(3) bekezdésben foglalt feltételeknek megfelel.
+(4)[^29] Helyettes biztonsági vezető az lehet, aki az (1)–(3) bekezdésben foglalt feltételeknek megfelel.
 
-(5)[^18] A biztonsági vezető köteles a biztonsági vezetők részére szervezett képzésen és továbbképzésen részt venni.
+(5)[^30] A biztonsági vezető köteles a biztonsági vezetők részére szervezett képzésen és továbbképzésen részt venni.
 
-[^15]: Az 5. § (1) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^16]: Az 5. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^17]: Az 5. § (4) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^18]: Az 5. § (5) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^27]: Az 5. § (1) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^28]: Az 5. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^29]: Az 5. § (4) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^30]: Az 5. § (5) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 24. § (2) bekezdése iktatta be.

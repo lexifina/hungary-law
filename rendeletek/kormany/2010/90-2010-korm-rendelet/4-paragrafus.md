@@ -1,19 +1,75 @@
 4. § (1) A Nemzeti Biztonsági Felügyelet a minősített adat kezelésével kapcsolatban a minősített adatot kezelő szerveknél hatósági ellenőrzést hajt végre.
 
-(2)[^10] A Nemzeti Biztonsági Felügyelet a hatósági ellenőrzést a helyi biztonsági felügyelet, ennek hiányában a biztonsági vezető, továbbá a külképviseletek vonatkozásában a külpolitikáért felelős miniszter által vezetett minisztérium, a Magyar Honvédség vonatkozásában a honvédelemért felelős miniszter által vezetett minisztérium, az Információs Hivatal vonatkozásában a polgári hírszerzési tevékenység irányításáért felelős miniszter által vezetett minisztérium bevonásával végzi.
+(1a)[^12] A Nemzeti Biztonsági Felügyelet a minősített adat védelmére vonatkozó jogszabályok, valamint a minősített adat kezelésével összefüggő biztonsági követelmények betartását az éves ellenőrzési tervben meghatározott ütemezéssel, továbbá a Nemzeti Biztonsági Felügyelet vezetője által történő eseti elrendelés alapján ellenőrzi.
 
-(3) Amennyiben a Nemzeti Biztonsági Felügyelet a minősített adatot kezelő szervnél végrehajtott hatósági ellenőrzés során a személyi, a fizikai vagy az adminisztratív biztonság tekintetében olyan hiányosságot tapasztal, amely a minősített adatok biztonságát veszélyezteti, az Engedélyt visszavonja, kezdeményezheti a biztonsági vezető kinevezésének visszavonását, továbbá intézkedéseket kezdeményezhet az ott tárolt minősített adatok biztonságba helyezésére, valamint a jogszerű állapot helyreállítására.
+(1b)[^13] A hatósági ellenőrzés célja az ellenőrzött szervnél a minősített adatvédelem helyzetének feltárása, továbbá annak vizsgálata, hogy a minősített adatvédelem helyi gyakorlata megfelel-e a vonatkozó jogszabályokban, szabályzatokban foglaltaknak.
 
-(4)[^11] A Nemzeti Biztonsági Felügyelet koordinálja az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), valamint az Európai Unió Tanácsa, az Európai Bizottság (a továbbiakban együtt: EU) és az Európai Atomenergia Közösség, az Európai Rendőrségi Hivatal, az Európai Igazságügyi Együttműködési Egység (a továbbiakban együtt: EU intézményei) által Magyarország területén végrehajtott, a NATO minősített adatoknak, a Nyugat-európai Unió (a továbbiakban: NYEU) minősített adatoknak, valamint az EU és az EU intézményei minősített adatainak a védelmére irányuló ellenőrzéseket. Az ellenőrzések részletes menetéről a Nemzeti Biztonsági Felügyelet tájékoztatja az ellenőrzéssel érintett külföldi minősített adatot kezelő szerv biztonsági vezetőjét.
+(1c)[^14] A hatósági ellenőrzésben nem vehet részt az ellenőrzött szerv dolgozójának a Polgári Törvénykönyv szerinti hozzátartozója. A hatósági ellenőrzést végző a kizárási okot közvetlen vezetőjének haladéktalanul köteles bejelenteni, továbbá azt az ellenőrzött szerv is bejelentheti.
 
-(5)[^12] A Nemzeti Biztonsági Felügyelet hatósági ellenőrzése nem eredményezheti a titkos információgyűjtő munkára és az abban együttműködő személyekre, a titkos információgyűjtés eszközeire és módszereire vonatkozó, valamint a nemzetbiztonsági szolgálatok fedett objektumaival és kihelyezett állományával kapcsolatos adat megismerését.
+(2)[^15] A Nemzeti Biztonsági Felügyelet a hatósági ellenőrzést a helyi biztonsági felügyelet, ennek hiányában a biztonsági vezető, továbbá a külképviseletek vonatkozásában a külpolitikáért felelős miniszter által vezetett minisztérium, a Magyar Honvédség vonatkozásában a honvédelemért felelős miniszter által vezetett minisztérium, az Információs Hivatal vonatkozásában a polgári hírszerzési tevékenység irányításáért felelős miniszter által vezetett minisztérium bevonásával végzi.
 
-(6)[^13] Ha a Nemzeti Biztonsági Felügyelet által hatósági ellenőrzés keretében vizsgálni kívánt irat olyan adatot is tartalmaz, amelynek megismerése a Nemzeti Biztonsági Felügyelet törvényben előírt hatósági ellenőrzésének végrehajtása érdekében elengedhetetlenül szükséges, az irat megismerését a meg nem ismerhető adat felismerhetetlenné tételével kell a Nemzeti Biztonsági Felügyelet részére biztosítani.
+(2a)[^16] A hatósági ellenőrzésről az ellenőrizendő szervet az ellenőrzés megkezdése előtt – a biztonsági vezetőn keresztül – értesíteni kell, ha az értesítés megküldése az ellenőrzés célját nem hiúsítja meg.
 
-(7)[^14] A hatósági ellenőrzést végzők nem tekinthetnek be olyan dokumentumokba, amelyeknek megismerése a nemzetbiztonsági szolgálatok külföldi partnerszolgálatok irányában vállalt kötelezettségeit sértené.
+(2b)[^17] A hatósági ellenőrzésre a Nemzeti Biztonsági Felügyelet megbízott kormánytisztviselője – ideértve a rendvédelmi feladatokat ellátó szervtől, a Magyar Honvédségtől vagy a Katonai Nemzetbiztonsági Szolgálattól a Nemzeti Biztonsági Felügyelethez vezényelt hivatásos állomány tagját is – jogosult. Az ellenőrzésre jogosult személy az ellenőrzési jogosultságát az ellenőrzés megkezdése előtt köteles igazolni. Az ellenőrzésre jogosult személyt ellenőrzési megbízólevéllel kell ellátni, amely a munkáltatói vagy szolgálati igazolvánnyal együtt érvényes.
 
-[^10]: A 4. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^11]: A 4. § (4) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^12]: A 4. § (5) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^13]: A 4. § (6) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^14]: A 4. § (7) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+(2c)[^18] A hatósági ellenőrzést úgy kell végezni, hogy az ellenőrzött szerv rendeltetésszerű tevékenységét lehetőleg ne akadályozza. Az ellenőrzést az ellenőrizni kívánt tevékenység folytatása idején, az ellenőrzött szerv hivatalos munkaidejének megfelelő időpontban kell végezni.
+
+(2d)[^19] A hatósági ellenőrzést végző személy az ellenőrzés eredményes lefolytatása érdekében jogosult
+
+a) az ellenőrzés lefolytatásához szükséges területre belépni,
+
+b) a minősített adatok kezelésével kapcsolatos iratokba, iratkezelési segédletekbe betekinteni,
+
+c) a minősített adatok kezelésére szolgáló elektronikus rendszereket megvizsgálni,
+
+d) a minősített adatot megismerni,
+
+e) a minősített adat kezelésével kapcsolatos munkafolyamatokat megvizsgálni,
+
+f) a minősített adat kezelésével összefüggő biztonsági követelmények érvényesülésével kapcsolatban tájékoztatást kérni.
+
+(2e)[^20] Az ellenőrzést követően az ellenőrzött szervnél tett megállapításokról ellenőrzési jegyzőkönyv készül, amelynek egy példányát a vizsgált szerv részére az ellenőrzés befejezésétől számított 15 napon belül megküldi.
+
+(3)[^21] Ha az ellenőrzés során megállapításra kerül, hogy az ellenőrzött szerv a jogszabályban foglalt előírásokat megsértette, és a jogszabálysértés a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a Nemzeti Biztonsági Felügyelet figyelmeztetést tartalmazó döntést hoz.
+
+(3a)[^22] Ha az ellenőrzött szerv a (3) bekezdés szerinti döntésben megállapított határidőn belül nem szünteti meg a jogszabálysértést, vagy ha a megállapított jogszabálysértés olyan, hogy az a (3) bekezdésben foglaltakkal nem orvosolható – így különösen ha a Nemzeti Biztonsági Felügyelet a minősített adat kezelésével összefüggő biztonsági követelmények tekintetében olyan hiányosságot tapasztal, amely a minősített adatok biztonságát veszélyezteti –, a Nemzeti Biztonsági Felügyelet
+
+a) saját hatáskörben
+
+aa) az Engedély visszavonására,
+
+ab) a minősített adat elektronikus biztonságának, vagy a rejtjeltevékenység engedélyezésének és hatósági felügyeletének részletes szabályairól szóló kormányrendeletben meghatározott rendszerengedély visszavonására,
+
+ac) a tárolt minősített adatok biztonságba helyezésére, valamint a jogszerű állapot helyreállítására irányuló intézkedésekre kötelezésre
+
+irányuló közigazgatási hatósági eljárást indít;
+
+b) kezdeményezheti a biztonsági vezető kinevezésének visszavonását;
+
+c) javasolhatja az ellenőrzött szerv vezetőjénél fegyelmi eljárás kezdeményezését, vagy
+
+d) javasolhatja büntető- vagy szabálysértési eljárás kezdeményezését.
+
+(4)[^23] A Nemzeti Biztonsági Felügyelet koordinálja az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), valamint az Európai Unió Tanácsa, az Európai Bizottság (a továbbiakban együtt: EU) és az Európai Atomenergia Közösség, az Európai Rendőrségi Hivatal, az Európai Igazságügyi Együttműködési Egység (a továbbiakban együtt: EU intézményei) által Magyarország területén végrehajtott, a NATO minősített adatoknak, a Nyugat-európai Unió (a továbbiakban: NYEU) minősített adatoknak, valamint az EU és az EU intézményei minősített adatainak a védelmére irányuló ellenőrzéseket. Az ellenőrzések részletes menetéről a Nemzeti Biztonsági Felügyelet tájékoztatja az ellenőrzéssel érintett külföldi minősített adatot kezelő szerv biztonsági vezetőjét.
+
+(5)[^24] A Nemzeti Biztonsági Felügyelet hatósági ellenőrzése nem eredményezheti a titkos információgyűjtő munkára és az abban együttműködő személyekre, a titkos információgyűjtés eszközeire és módszereire vonatkozó, valamint a nemzetbiztonsági szolgálatok fedett objektumaival és kihelyezett állományával kapcsolatos adat megismerését.
+
+(6)[^25] Ha a Nemzeti Biztonsági Felügyelet által hatósági ellenőrzés keretében vizsgálni kívánt irat olyan adatot is tartalmaz, amelynek megismerése a Nemzeti Biztonsági Felügyelet törvényben előírt hatósági ellenőrzésének végrehajtása érdekében elengedhetetlenül szükséges, az irat megismerését a meg nem ismerhető adat felismerhetetlenné tételével kell a Nemzeti Biztonsági Felügyelet részére biztosítani.
+
+(7)[^26] A hatósági ellenőrzést végzők nem tekinthetnek be olyan dokumentumokba, amelyeknek megismerése a nemzetbiztonsági szolgálatok külföldi partnerszolgálatok irányában vállalt kötelezettségeit sértené.
+
+[^12]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: A 4. § (1b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^14]: A 4. § (1c) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^15]: A 4. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^16]: A 4. § (2a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^17]: A 4. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^18]: A 4. § (2c) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^19]: A 4. § (2d) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^20]: A 4. § (2e) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^21]: A 4. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 289. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: A 4. § (3a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^23]: A 4. § (4) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^24]: A 4. § (5) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^25]: A 4. § (6) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^26]: A 4. § (7) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 2. § (3) bekezdése iktatta be.
