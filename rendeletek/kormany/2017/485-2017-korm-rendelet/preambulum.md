@@ -1,0 +1,1 @@
+A Kormány az európai területi társulásról szóló 2014. évi LXXV. törvény 20. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
