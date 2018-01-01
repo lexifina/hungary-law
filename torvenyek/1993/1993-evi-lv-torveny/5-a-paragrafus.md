@@ -12,4 +12,4 @@ c) aki magyar állampolgár anyától és külföldi állampolgár apától 1957
 
 (2) A nyilatkozat elfogadása esetén az állampolgársági ügyekben eljáró szerv bizonyítványban igazolja az állampolgárság megszerzését.
 
-(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
+(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozattal szemben indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes.

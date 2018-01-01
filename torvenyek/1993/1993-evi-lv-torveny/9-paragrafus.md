@@ -2,7 +2,7 @@
 
 9. § (1) A magyar állampolgárság visszavonható attól a személytől, aki magyar állampolgárságát a jogszabályok megszegésével, így különösen valótlan adatok közlésével, illetve adatok vagy tények elhallgatásával a hatóságot félrevezetve szerezte meg. Nincs helye a visszavonásnak a magyar állampolgárság megszerzésétől számított tíz év elteltével.
 
-(2) Az állampolgárság visszavonására okot adó tény fennállását az állampolgársági ügyekben eljáró szerv határozattal állapítja meg. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
+(2) Az állampolgárság visszavonására okot adó tény fennállását az állampolgársági ügyekben eljáró szerv határozattal állapítja meg. A határozattal szemben indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes.
 
 (3) A magyar állampolgárság visszavonással történő megszüntetéséről — a miniszter előterjesztése alapján — a köztársasági elnök dönt.
 
