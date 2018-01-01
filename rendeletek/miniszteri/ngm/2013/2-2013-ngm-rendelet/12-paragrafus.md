@@ -24,7 +24,7 @@ da) a c) pontban felsorolt, az A–C tűzveszélyességi osztályba tartozó rob
 
 db) a c) pontban említett, az A–C tűzveszélyességi osztályba tartozó robbanás- és tűzveszélyes anyagok elégetése, kivéve a mezőgazdasági munkák végzése során szükségszerűen a táblán maradó szármaradványt, valamint a tarló égetését; a tarló, a szármaradvány égetésnél be kell tartani az Országos Tűzrendészeti Szabályzat kiadásáról szóló jogszabály előírásait,
 
-e) sárkányrepülés, a motorral hajtott vagy motor nélküli ernyőrepülés, hőlégballonnal történő repülés, sárkányeresztés, repülőmodellezés, horgászat,
+e)[^4] sárkányrepülés, a motorral hajtott vagy motor nélküli ernyőrepülés, hőlégballonnal történő repülés, sárkányeresztés, repülőmodellezés – ideértve a drónhasználatot is –, horgászat,
 
 f) az erőműre jogosulatlan személynek felmásznia,
 
@@ -35,3 +35,5 @@ h) a szélerőmű villamos átalakító berendezés megközelítésének akadál
 i) az alállomás megközelítésének bármilyen módon való akadályozása vagy a megközelítési lehetőség, útvonal elzárása,
 
 j) közforgalmú utat építeni, valamint emberi tartózkodás céljára szolgáló létesítményt építeni, elhelyezni.
+
+[^4]: A 12. § e) pontja az 51/2017. (XII. 29.) NGM rendelet 24. § c) pontja szerint módosított szöveg.
