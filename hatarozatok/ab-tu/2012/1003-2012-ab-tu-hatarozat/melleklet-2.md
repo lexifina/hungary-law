@@ -1,4 +1,4 @@
-2. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz[^28]
+2. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz[^32]
 
 Állománytábla
 
@@ -6,19 +6,21 @@
 
 | Alkotmánybírói törzskarok | Az Alkotmánybíróság tagja | 15 |
 
-|  | Jogász (érdemi) munkatárs | 45 |
+| Jogász (érdemi) munkatárs | 45 |
 
-|  | Titkárságvezető/titkár(nő) | 15 |
+| Titkárságvezető/titkár(nő) | 15 |
 
 | Elnöki kabinet |  |  |
 
-|  | Kabinetfőnök | 1 |
+| Kabinetfőnök | 1 |
 
-|  | Nemzetközi és protokoll ügyek referense | 1 |
+| Nemzetközi és protokoll ügyek referense | 1 |
 
-|  | Elnöki (fő)tanácsadók | 2 |
+| Elnöki (fő)tanácsadók | 2 |
 
-|  | Belső ellenőr (külsős) | 0,5 |
+| Jogegységi (fő)tanácsadó | 1 |
+
+| Belső ellenőr (külsős) | 0,5 |
 
 | Volt elnök titkársága | Jogász (érdemi) munkatárs | 2 |
 
@@ -32,7 +34,7 @@
 
 | Kezelőiroda | Irodavezető | 1 |
 
-|  | Ügyintéző | 2 |
+| Ügyintéző | 2 |
 
 | Könyvtár | Könyvtárvezető | 1 |
 
@@ -40,11 +42,11 @@
 
 | A gazdasági főosztály titkársága | Titkárságvezető/titkár(nő) | 1 |
 
-| Pénzügyi, bér- és számviteli egység | Pénzügyi és számviteli ügyintéző | 4 |
+| Pénzügyi és számviteli egység | Pénzügyi és számviteli ügyintéző | 4 |
 
-|  | Bér- és tb. ügyintéző | 1 |
+| Bér- és tb. ügyintéző | 1 |
 
-|  | Gazdasági ügyintéző | 1 |
+| Gazdasági ügyintéző | 1 |
 
 | Műszaki-ellátó egység | Gondnok, tűz- és munkavédelmi ügyintéző | 1 |
 
@@ -56,8 +58,8 @@
 
 | Gépkocsi-üzemeltetési egység | Gépkocsi-üzemeltetési referens (garázsmester) | 1 |
 
-|  | Gépkocsivezető | 17 |
+| Gépkocsivezető | 17 |
 
-| Összesen |  | 136 |
+| Összesen |  | 137 |
 
-[^28]: A 2. számú melléklet az 1001/2017. (IX. 12.) AB Tü. határozat 14. pontjával megállapított szöveg.
+[^32]: A 2. számú melléklet az 1003/2017. (XII. 20.) AB Tü. határozat 5. pontjával megállapított szöveg.
