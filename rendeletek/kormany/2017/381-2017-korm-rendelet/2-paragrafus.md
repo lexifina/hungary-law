@@ -1,0 +1,3 @@
+## 1. § A személyes gondoskodást nyújtó szociális ellátások térítési díjáról szóló 29/1993. (II. 17.) Korm. rendelet (a továbbiakban: Tr.) 28. §-a a következő (7) bekezdéssel egészül ki:
+
+## „(7) A támogatott lakhatást igénybe vevő személy távolléte idejére személyi térítési díjként a lakhatási költség 100%-át, és ha távollétének ideje alatt az Szt. 75. § (1) bekezdés d) pontja szerint egyéb szolgáltatásokat igénybe veszi, a ténylegesen igénybe vett szolgáltatások térítési díját fizeti. Távollétnek minősül az a nap, melyen az ellátott nem tartózkodik a támogatott lakhatást biztosító ingatlanban.”
