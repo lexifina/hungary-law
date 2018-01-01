@@ -2,7 +2,7 @@
 
 (2)[^11] Az 1. § a) pont ad) alpontja, valamint az 1. § b) pont bb) alpontja szerinti dokumentáció (6) és (7) bekezdés szerinti elektronikus példányát a kidolgozásért felelős szerv az elfogadást követően 30 napon belül megküldi a Dokumentációs Központnak.
 
-(3)[^12] Az 1. § c) pontja szerinti határozatot és a térségi területfelhasználási engedély iránti kérelmet a határozat jogerőre emelkedését követő 30 napon belül az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal megküldi a Dokumentációs Központnak. Ha a térségi területfelhasználási engedélykérelemről hozott határozat elleni kereset ügyében a törvényszék határozatot hoz, azt az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a határozat kézhezvételétől számított 30 napon belül megküldi a Dokumentációs Központnak. Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal évente megküldi az illetékességébe tartozó területrendezési hatósági eljárásokat tartalmazó – a 2. melléklet szerint kitöltött – összesítő táblázatot a Dokumentációs Központnak.
+(3)[^12] Az 1. § c) pontja szerinti határozatot és a térségi területfelhasználási engedély iránti kérelmet a határozat véglegessé válását követő 30 napon belül az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal megküldi a Dokumentációs Központnak. Ha a térségi területfelhasználási engedélykérelemről hozott határozat elleni kereset ügyében a bíróság határozatot hoz, azt az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a határozat kézhezvételétől számított 30 napon belül megküldi a Dokumentációs Központnak. Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal évente megküldi az illetékességébe tartozó területrendezési hatósági eljárásokat tartalmazó – a 2. melléklet szerint kitöltött – összesítő táblázatot a Dokumentációs Központnak.
 
 (4) Az 1. § d) pontja szerinti területi kutatás iratanyagait a kutatást megrendelő szerv vezetője a kutatás lezárásától számított 90 napon belül megküldi a Dokumentációs Központnak.
 
@@ -45,7 +45,7 @@ c) A területrendezési tervek szerkezeti tervében szereplő műszaki infrastru
 d) A területrendezési tervek térségi övezeteit településenként összegezve kell övezetenként kialakított rétegben a vektoros állományban dokumentálni. Az összetartozó – egy tervlapon ábrázolt – térségi övezeteket átfedés nélkül kell a vektoros állományban dokumentálni. A térségi övezeteket tartalmazó fedvények attribútum-táblázatában a 1. melléklet 4. pontja szerinti tartalom feltüntetése szükséges.
 
 [^11]: A 3. § (2) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^12]: A 3. § (3) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. § (3) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 285. § b)–c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^13]: A 3. § (5) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 25. § (4) bekezdésével megállapított, a 343/2016. (XI. 17.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^14]: A 3. § (7) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
 [^15]: A 3. § (10) bekezdését a 37/2010. (II. 26.) Korm. rendelet 11. § (2) bekezdése iktatta be.
