@@ -1,6 +1,6 @@
-## 8. §[^32]
+## 8. §[^36]
 
-1. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^33]
+1. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^37]
 
 1. Egyes országos közúti közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
@@ -948,5 +948,5 @@
 
 6.7. Kemencei Erdei Múzeumvasút (meglévő szakasz felújítás és Csarna-völgyi újjáépítés), pályafelújítás, valamint gördülőállomány felújítása és fejlesztése.
 
-[^32]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: Az 1. melléklet a 490/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 1. §-a, a 368/2017. (XII. 7.) Korm. rendelet 3. §-a, a 385/2017. (XII. 12.) Korm. rendelet 1. §-a, az 527/2017. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^36]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: Az 1. melléklet a 490/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 1. §-a, a 368/2017. (XII. 7.) Korm. rendelet 3. §-a, a 385/2017. (XII. 12.) Korm. rendelet 1. §-a, az 527/2017. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
