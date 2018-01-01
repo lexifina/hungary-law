@@ -1,16 +1,14 @@
-3. § (1)[^61] A biztosítottat MRI (mágneses magrezonancia), CT (komputertomográfia), DSA (digitális szubtrakciós angiográfia) vizsgálatra kizárólag a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézet szakorvosa utalhatja be. A PET-CT (pozitronemissziós tomográfia-komputertomográfia) vizsgálat várólistájára való felvételre a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézet klinikai onkológus, hematológus, idegsebész, valamint neurológus szakorvosa tehet javaslatot a külön jogszabály szerinti indikáció esetén.
+3. § (1)[^63] A biztosítottat MRI (mágneses magrezonancia), CT (komputertomográfia), DSA (digitális szubtrakciós angiográfia) vizsgálatra kizárólag a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézet szakorvosa utalhatja be. A PET-CT (pozitronemissziós tomográfia-komputertomográfia) vizsgálat várólistájára való felvételre a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézet klinikai onkológus, hematológus, idegsebész, valamint neurológus szakorvosa tehet javaslatot a külön jogszabály szerinti indikáció esetén.
 
-(2)[^62] A biztosítottat a járóbeteg-szakellátás keretében igénybe vehető laboratóriumi vizsgálatokra az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 2. mellékletében külön jelzéssel ellátott, továbbá az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeleti szabályokban meghatározott esetekben kizárólag a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézet szakorvosa utalhatja be. Azon laboratóriumi vizsgálatok megismétlése, amelyekre az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeleti szabály rendelkezéseket tartalmaz, az abban előírt gyakorisággal kezdeményezhető, kivéve, ha az ettől való eltérést a biztosított egészségi állapota indokolja.
+(2)[^64] A biztosítottat a járóbeteg-szakellátás keretében igénybe vehető laboratóriumi vizsgálatokra az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 2. mellékletében külön jelzéssel ellátott, továbbá az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeleti szabályokban meghatározott esetekben kizárólag a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézet szakorvosa utalhatja be. Azon laboratóriumi vizsgálatok megismétlése, amelyekre az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeleti szabály rendelkezéseket tartalmaz, az abban előírt gyakorisággal kezdeményezhető, kivéve, ha az ettől való eltérést a biztosított egészségi állapota indokolja.
 
-(3)[^63] A biztosítottat fekvőbeteg-gyógyintézeti ellátásra a 2. § (2) bekezdésében meghatározott orvos utalhatja be.
+(3)[^65] A biztosítottat fekvőbeteg-gyógyintézeti ellátásra a 2. § (2) bekezdésében meghatározott orvos utalhatja be.
 
-(4)[^64] A biztosítottat
+(4)[^66] A biztosítottat
 
-a)[^65] fekvőbeteg-gyógyintézeti ellátást kiváltó otthoni szakápolásra saját vagy kezelőorvosi kezdeményezésre a háziorvos, otthoni hospice ellátásra – a b) pont kivételével – a jogszabályban meghatározott kezelőorvos kezdeményezésére a háziorvos,
+a) fekvőbeteg-gyógyintézeti ellátást kiváltó otthoni szakápolásra és otthoni hospice ellátásra saját vagy kezelőorvosi kezdeményezésre a háziorvos,
 
-b)[^66] az otthoni szakápolás körébe tartozó szakirányú szolgáltatásokra kizárólag a megbetegedés gyógykezeléséhez szakorvosi képesítéssel rendelkező orvos kezdeményezésére a háziorvos,
-
-c) krónikus ápolás finanszírozására szerződött egészségügyi szolgáltatónál történő intézeti ápolásra a háziorvos és a fekvőbeteg-gyógyintézet orvosa
+b) krónikus ápolás finanszírozására szerződött egészségügyi szolgáltatónál történő intézeti ápolásra a háziorvos és a fekvőbeteg-gyógyintézet orvosa
 
 utalhatja be.
 
@@ -24,12 +22,10 @@ utalhatja be.
 
 (9)[^72] Laborvizsgálat és képalkotó diagnosztikai ellátás nem végezhető beutaló nélkül, kivéve ha a 4. § (1) bekezdés b) pontjában meghatározott eset áll fenn.
 
-[^61]: A Vhr. 3. § (1) bekezdése a 16/2008. (I. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^62]: A Vhr. 3. § új (2) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be, egyidejűleg az eredeti (2)–(6) bekezdésének számozását (3)–(7) bekezdésre változtatta. A Vhr. 3. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^63]: A Vhr. 3. §-ának eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése. A (3) bekezdés a 73/2011. (IV. 29.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
-[^64]: A Vhr. 3. §-ának (3) bekezdése a 113/2005. (VI. 25.) Korm. rendelet 3. §-ával megállapított szöveg, számozását (4) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése.
-[^65]: A Vhr. 3. § (4) bekezdés a) pontja a 254/2013. (VII. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^66]: A Vhr. 3. § (4) bekezdés b) pontja a 447/2012. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^63]: A Vhr. 3. § (1) bekezdése a 16/2008. (I. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^64]: A Vhr. 3. § új (2) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be, egyidejűleg az eredeti (2)–(6) bekezdésének számozását (3)–(7) bekezdésre változtatta. A Vhr. 3. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^65]: A Vhr. 3. §-ának eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése. A (3) bekezdés a 73/2011. (IV. 29.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^66]: A Vhr. 3. § (4) bekezdése az 507/2017. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^67]: A Vhr. 3. §-ának (4) bekezdése a 113/2005. (VI. 25.) Korm. rendelet 3. §-ával megállapított szöveg, számozását (5) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése. A 113/2005. (VI. 25.) Korm. rendelet 18. § (2) bekezdése alapján 2006. július 1-jén lép hatályba azzal, hogy a beutalási rend új szabályait 2007. január 1-jétől kell alkalmazni.
 [^68]: A Vhr. 3. §-ának (5) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 3. §-a iktatta be, számozását (6) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése.
 [^69]: A Vhr. 3. §-ának (6) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 3. §-a iktatta be, számozását (7) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése, szövege a 17. § (8) bekezdése a) pontjának aa) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 129–130. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

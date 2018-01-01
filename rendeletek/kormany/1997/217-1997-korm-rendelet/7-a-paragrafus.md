@@ -30,7 +30,17 @@ bb) az eszköz valamely fizikai paraméterének fajlagos egységére meghatároz
 
 (6)[^147] Az (5) bekezdés szerinti önálló rendeltetés szerinti fixcsoport a fixesítés alapjául szolgáló funkcionális csoportból vagy alcsoportból, valamint a fixesítés alá vont funkcionális csoportból, illetve csoportokból vagy alcsoportból, illetve alcsoportokból áll.
 
-(7)[^148] Az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási technikát az R. melléklete tartalmazza.
+(6a)[^148] Önálló támogatási csoport állapítható meg:
+
+a) az életminőséget azonos módon befolyásoló eszközökre,
+
+b) a termékek funkcionális csoportjára,
+
+c) a termékek funkcionális alcsoportjára vagy alcsoportjaira, illetve
+
+d) a funkcionális csoporton belül a termékek méret, kapacitás vagy teljesítmény alapján kialakított körére.
+
+(7)[^149] Az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási technikát az R. melléklete tartalmazza.
 
 [^142]: A Vhr. 7/A. §-a előtti alcímet a 91/2004. (IV. 26.) Korm. rendelet 2. §-a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 5. §-a állapította meg.
 [^143]: A Vhr. 7/A. §-át a 111/2000. (VI. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
@@ -38,4 +48,5 @@ bb) az eszköz valamely fizikai paraméterének fajlagos egységére meghatároz
 [^145]: A Vhr. 7/A. § (4) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^146]: A Vhr. 7/A. § (5) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^147]: A Vhr. 7/A. § (6) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^148]: A Vhr. 7/A. § (7) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^148]: A Vhr. 7/A. § (6a) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^149]: A Vhr. 7/A. § (7) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.

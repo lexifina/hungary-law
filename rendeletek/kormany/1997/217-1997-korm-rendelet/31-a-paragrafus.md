@@ -1,6 +1,6 @@
-## Méltányosságból engedélyezhető pénzbeli ellátások[^464]
+## Méltányosságból engedélyezhető pénzbeli ellátások[^470]
 
-31/A. §[^465] Az Ebtv. 50. § (1) bekezdése szerinti méltányossági jogkörben kizárólag a Tbj. 5. §-a szerint biztosítottnak minősülő személy részére engedélyezhető pénzbeli ellátás.
+31/A. §[^471] Az Ebtv. 50. § (1) bekezdése szerinti méltányossági jogkörben kizárólag a Tbj. 5. §-a szerint biztosítottnak minősülő személy részére engedélyezhető pénzbeli ellátás.
 
-[^464]: A Vhr. 31/A. §-t megelőző alcímet a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta a szövegbe.
-[^465]: A Vhr. 31/A. §-át a 64/1998. (III. 31.) Korm. rendelet 23. §-a iktatta be, szövege a 165/2009. (VIII. 14.) Korm. rendelet 3. §-ával megállapított, a 106/2011. (VI. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^470]: A Vhr. 31/A. §-t megelőző alcímet a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^471]: A Vhr. 31/A. §-át a 64/1998. (III. 31.) Korm. rendelet 23. §-a iktatta be, szövege a 165/2009. (VIII. 14.) Korm. rendelet 3. §-ával megállapított, a 106/2011. (VI. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
