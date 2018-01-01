@@ -12,4 +12,6 @@ bb) a köznevelésről szóló törvény hatálya alá tartozó középfokú nev
 
 bc) kereső tevékenysége alapján valamely másik Európai Gazdasági Térségről szóló megállapodásban részes állam társadalombiztosítási rendszerének hatálya alá tartozott és ezt az illetékes külföldi hatóság által kiállított igazolással igazolja.
 
-(2) Az (1) bekezdésben foglaltakat nem kell figyelembe venni, ha az igénylő a fővárosi és megyei kormányhivatal ápolási díjat megállapító jogerős határozata alapján ápolási díjban részesül.
+(2)[^29] Az (1) bekezdésben foglaltakat nem kell figyelembe venni, ha az igénylő a fővárosi és megyei kormányhivatal ápolási díjat megállapító végleges határozata alapján ápolási díjban részesül.
+
+[^29]: A 30. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 568. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

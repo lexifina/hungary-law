@@ -1,4 +1,4 @@
-59. § (1)[^58] Ha a támogatott személy a lakásigényét az új lakás cseréjével, vagy az új lakás értékesítését követően másik új lakás építése vagy új, illetve – az új lakás építéséhez vagy vásárlásához igénybe vett családi otthonteremtési kedvezményre vonatkozó támogatási szerződés megkötését követő öt év elteltével – használt lakás vásárlása útján elégíti ki, a családi otthonteremtési kedvezmény visszafizetésével kapcsolatos kötelezettségét építési szándék esetében három, vásárlási szándék esetében egy évig a támogatott személy – az 50. § (3) bekezdése szerinti bejelentés megtételét követő legfeljebb 60 napon belül benyújtott – kérelme alapján a járási hivatal – a (9) bekezdésben foglaltak kivételével – felfüggeszti, amennyiben a támogatott személy az igénybe vett családi otthonteremtési kedvezmény összegét a „10032000-01501315 Kincstár lakáscélú kedvezmények letéti számlára” befizette.
+59. § (1)[^69] Ha a támogatott személy a lakásigényét az új lakás cseréjével, vagy az új lakás értékesítését követően másik új lakás építése vagy új, illetve – az új lakás építéséhez vagy vásárlásához igénybe vett családi otthonteremtési kedvezményre vonatkozó támogatási szerződés megkötését követő öt év elteltével – használt lakás vásárlása útján elégíti ki, a családi otthonteremtési kedvezmény visszafizetésével kapcsolatos kötelezettségét építési szándék esetében három, vásárlási szándék esetében egy évig a támogatott személy – az 50. § (3) bekezdése szerinti bejelentés megtételét követő legfeljebb 60 napon belül benyújtott – kérelme alapján a járási hivatal – a (9) bekezdésben foglaltak kivételével – felfüggeszti, amennyiben a támogatott személy az igénybe vett családi otthonteremtési kedvezmény összegét a „10032000-01501315 Kincstár lakáscélú kedvezmények letéti számlára” befizette.
 
 (2) Az (1) bekezdésben meghatározott esetekben
 
@@ -10,11 +10,11 @@ c) a támogatott személy akkor is köteles az (1) bekezdésben foglalt másik l
 
 d) a lakásigény kielégítését szolgáló újabb lakás hasznos alapterülete meg kell, hogy haladja a családi otthonteremtési kedvezménnyel épített, illetve vásárolt új lakás hasznos alapterületét.
 
-(3)[^59] A felfüggesztés időtartama alatt a támogatott személy kérelmére, amennyiben a másik lakás megszerzése még nem történt meg, a családi otthonteremtési kedvezmény igénybevételével épített vagy vásárolt új lakást a járási hivatal tehermentesíti.
+(3)[^70] A felfüggesztés időtartama alatt a támogatott személy kérelmére, amennyiben a másik lakás megszerzése még nem történt meg, a családi otthonteremtési kedvezmény igénybevételével épített vagy vásárolt új lakást a járási hivatal tehermentesíti.
 
-(4)[^60] A (2) bekezdés d) pontja szerinti újabb lakás megszerzésének hitelt érdemlő igazolása esetén a felfüggesztés megszüntetéséről a járási hivatal határozatban intézkedik és megállapítja a kincstári letéti számláról a támogatott személynek kifizethető összeget, intézkedik a terhek másik lakásra történő bejegyeztetése iránt. A járási hivatal a felfüggesztés megszüntetéséről szóló jogerős határozatát annak jogerőre emelkedését követő 10 napon belül megküldi a Kincstárnak, amely a járási hivatali értesítés kézhezvételétől számított 5 napon belül átutalja a jogosultnak a határozatban megállapított összeget a jogosult határozatban megjelölt bankszámlájára.
+(4)[^71] A (2) bekezdés d) pontja szerinti újabb lakás megszerzésének hitelt érdemlő igazolása esetén a felfüggesztés megszüntetéséről a járási hivatal határozatban intézkedik és megállapítja a kincstári letéti számláról a támogatott személynek kifizethető összeget, intézkedik a terhek másik lakásra történő bejegyeztetése iránt. A járási hivatal a felfüggesztés megszüntetéséről szóló végleges határozatát annak véglegessé válását követő 10 napon belül megküldi a Kincstárnak, amely a járási hivatali értesítés kézhezvételétől számított 5 napon belül átutalja a jogosultnak a határozatban megállapított összeget a jogosult határozatban megjelölt bankszámlájára.
 
-(5)[^61] Ha a támogatott személy a (2) bekezdés d) pontja szerinti újabb lakás megszerzését a felfüggesztés időtartama alatt nem igazolja, vagy kisebb értékű, illetve hasznos alapterületű lakás megszerzését igazolja, úgy a kincstári letéti számlán elhelyezett összeg, illetve annak az eladási és a vételár (ideértve a bekerülési költséget is), illetve a hasznos alapterület különbözetével arányos része visszafizetett családi otthonteremtési kedvezménynek minősül, amelynek központi költségvetés javára történő átvezetéséről a járási hivatal intézkedik.
+(5)[^72] Ha a támogatott személy a (2) bekezdés d) pontja szerinti újabb lakás megszerzését a felfüggesztés időtartama alatt nem igazolja, vagy kisebb értékű, illetve hasznos alapterületű lakás megszerzését igazolja, úgy a kincstári letéti számlán elhelyezett összeg, illetve annak az eladási és a vételár (ideértve a bekerülési költséget is), illetve a hasznos alapterület különbözetével arányos része visszafizetett családi otthonteremtési kedvezménynek minősül, amelynek központi költségvetés javára történő átvezetéséről a járási hivatal intézkedik.
 
 (6) Ha a támogatott személy a felfüggesztés időtartamának lejártáig
 
@@ -30,15 +30,15 @@ c) az újabb lakás hasznos alapterülete meghaladja a családi otthonteremtési
 
 ## úgy az e rendeletben és a családi otthonteremtési kedvezmény igénybevételére vonatkozó támogatási szerződésben a támogatott személyt – és azon gyermeket, akire tekintettel a támogatást igénybe vette – terhelő kötelezettségek a támogatási szerződésben foglalt eredeti határidő lejártáig állnak fenn.
 
-(7)[^62] A járási hivatal, valamint Budapest Főváros Kormányhivatala a számítógépes ingatlan-nyilvántartási adatbázishoz közvetlen hozzáférést biztosító TAKARNET rendszerből, az elektronikus dokumentumként szolgáltatott tulajdoni lap másolat lekérdezésével ellenőrzi
+(7)[^73] A járási hivatal, valamint Budapest Főváros Kormányhivatala a számítógépes ingatlan-nyilvántartási adatbázishoz közvetlen hozzáférést biztosító TAKARNET rendszerből, az elektronikus dokumentumként szolgáltatott tulajdoni lap másolat lekérdezésével ellenőrzi
 
 a) a tulajdonjog megszerzését – a b) pontban foglaltak kivételével – a (6) bekezdés a) pontja és a (9)–(10) bekezdés szerinti esetekben,
 
 b) a tulajdonjog megszerzésére irányuló kérelem benyújtását, ha az adásvételi szerződés szerinti utolsó vételárrész megfizetésére még nem került sor, és összege megegyezik az (1) bekezdés szerint letéti számlára helyezett családi otthonteremtési kedvezmény összegével.
 
-(8)[^63] A (6) bekezdés esetében a családi otthonteremtési kedvezményt biztosító jelzálogjognak, valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásban az újabb lakásra való átjegyzése iránt a járási hivatal intézkedik.
+(8)[^74] A (6) bekezdés esetében a családi otthonteremtési kedvezményt biztosító jelzálogjognak, valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásban az újabb lakásra való átjegyzése iránt a járási hivatal intézkedik.
 
-(9)[^64] Ha a támogatott személy a családi otthonteremtési kedvezmény igénybevételével épített, vásárolt lakásnak a 24. § (1) bekezdése és 27. § (1) bekezdése szerinti időszakon belül történő elidegenítését követően, de legfeljebb a 60. § (4) bekezdése szerinti bejelentés megtételét követő 60 napon belül
+(9)[^75] Ha a támogatott személy a családi otthonteremtési kedvezmény igénybevételével épített, vásárolt lakásnak a 24. § (1) bekezdése és 27. § (1) bekezdése szerinti időszakon belül történő elidegenítését követően, de legfeljebb a 60. § (4) bekezdése szerinti bejelentés megtételét követő 60 napon belül
 
 a) a lakásigényét az új lakás cseréjével, vagy a (2) bekezdés d) pontja szerinti újabb lakás építése vagy vásárlása útján elégíti ki és
 
@@ -46,7 +46,7 @@ b) az újabb lakás megszerzését adásvételi szerződés, csereszerződés, h
 
 ## – a (7) bekezdés szerinti ellenőrzést követően – a járási hivatal intézkedik a családi otthonteremtési kedvezmény visszafizetését biztosító jelzálogjognak, valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásban az újabb lakásra való közvetlen átjegyzése iránt.
 
-(10)[^65] Ha a támogatott személy a családi otthonteremtési kedvezmény igénybevételével épített, vásárolt lakásnak a 24. § (1) bekezdése és 27. § (1) bekezdése szerinti időszakon belül történő elidegenítését legfeljebb egy naptári évvel megelőzően
+(10)[^76] Ha a támogatott személy a családi otthonteremtési kedvezmény igénybevételével épített, vásárolt lakásnak a 24. § (1) bekezdése és 27. § (1) bekezdése szerinti időszakon belül történő elidegenítését legfeljebb egy naptári évvel megelőzően
 
 a) a lakásigényét a (2) bekezdés d) pontja szerinti újabb lakás építése vagy vásárlása útján elégítette ki és
 
@@ -62,11 +62,11 @@ b) a támogatott személy a családi otthonteremtési kedvezmény összegének �
 
 c) az újabb lakás hasznos alapterülete meghaladja az elidegenített lakás hasznos alapterületét.
 
-[^58]: Az 59. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
-[^59]: Az 59. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
-[^60]: Az 59. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8., 12. és 18. pontja szerint módosított szöveg.
-[^61]: Az 59. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
-[^62]: Az 59. § (7) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 19. pontja szerint módosított szöveg.
-[^63]: Az 59. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
-[^64]: Az 59. § (9) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
-[^65]: Az 59. § (10) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
+[^69]: Az 59. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
+[^70]: Az 59. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
+[^71]: Az 59. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8., 12. és 18. pontja, a 457/2017. (XII. 28.) Korm. rendelet 568. § b) és d) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^72]: Az 59. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
+[^73]: Az 59. § (7) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 19. pontja szerint módosított szöveg.
+[^74]: Az 59. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
+[^75]: Az 59. § (9) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
+[^76]: Az 59. § (10) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.

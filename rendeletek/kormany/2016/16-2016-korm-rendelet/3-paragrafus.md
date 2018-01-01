@@ -38,9 +38,9 @@ i) az új lakás megépítése érdekében felmerült építménybontási költs
 
 4. gyermek:
 
-a)[^3] a magzat vagy az ikermagzat a várandósság betöltött 12. hetét követően, valamint
+a)[^7] a magzat vagy az ikermagzat a várandósság betöltött 12. hetét követően, valamint
 
-b)[^4] aki az igénylő vér szerinti vagy örökbefogadott eltartottja és
+b)[^8] aki az igénylő vér szerinti vagy örökbefogadott eltartottja és
 
 ba) a 25. életévét még nem töltötte be vagy
 
@@ -98,5 +98,5 @@ b) tetőtér beépítéssel vagy emelet-ráépítéssel létrehozott lakás akko
 
 (2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, az OTÉK-ban és az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben meghatározottak szerint kell értelmezni.
 
-[^3]: A 3. § (1) bekezdés 4. pont a) alpontja a 273/2016. (IX. 15.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^4]: A 3. § (1) bekezdés 4. pont b) alpontja a 273/2016. (IX. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 3. § (1) bekezdés 4. pont a) alpontja a 273/2016. (IX. 15.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés 4. pont b) alpontja a 273/2016. (IX. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
