@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-168-00-00
 | 2013-01-01 | 2012. évi CLXXIX. törvény | 2012-168-00-00.1 |
 | 2014-01-01 | 2013. évi CC. törvény | 2012-168-00-00.2 |
 | 2015-06-25 | 2015. évi LXXXI. törvény | 2012-168-00-00.3 |
+| 2018-01-01 | 2017. évi CLIX. törvény | 2012-168-00-00.4 |
