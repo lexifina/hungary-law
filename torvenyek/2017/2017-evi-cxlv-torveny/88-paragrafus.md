@@ -2,4 +2,4 @@
 
 a)–b)
 
-c)
+c) 1. melléklet II. pontja.
