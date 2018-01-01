@@ -16,7 +16,7 @@ d) a műemléki védelem alatt álló építmény esetén a beavatkozás készü
 
 (2b)[^19] A műemlékvédelem sajátos tárgyai esetében a (2) bekezdés d) pontja szerint számított építményértéket vagy történeti kert esetén értéket az 1. melléklet szerint kell meghatározni.
 
-(2c)[^20] A műemlék képző- vagy iparművészeti, illetve más különleges alkotórésze vagy tartozéka esetében a műemlékvédelem adott területén szakértői jogosultsággal rendelkező szakértő bevonásával kell meghatározni a (2) bekezdés d) pontja szerinti számított építményértéket.
+(2c)[^20]
 
 (2d)[^21] A (2) bekezdés a)–c) pontjában foglaltak megállapításához a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendeletben kijelölt kulturális örökségvédelmi hatóság (a továbbiakban: örökségvédelmi hatóság) a műemléki érték és a régészeti örökség védelmével kapcsolatos eljárásában a jogszabályban meghatározott örökségvédelmi tanácsadó testületek véleményét kikérheti.
 
@@ -48,7 +48,7 @@ d) a IV. kategóriába tartozó kulturális örökségi elem sérelme esetén 25
 [^17]: Az 5/A. § (2) bekezdése a 38/2015. (III. 11.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
 [^18]: Az 5/A. § (2a) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
 [^19]: Az 5/A. § (2b) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be.
-[^20]: Az 5/A. § (2c) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be.
+[^20]: Az 5/A. § (2c) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 97. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^21]: Az 5/A. § (2d) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be, szövege a 306/2016. (X. 13.) Korm. rendelet 1. §-ával megállapított, a 497/2016. (XII. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^22]: Az 5/A. § (2e) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be.
 [^23]: Az 5/A. § (2f) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be.

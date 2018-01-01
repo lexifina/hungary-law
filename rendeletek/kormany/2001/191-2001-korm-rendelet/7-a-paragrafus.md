@@ -1,5 +1,3 @@
-7/A. §[^36] (1) A hatóság a befizetési határidő lejártáig meg nem fizetett bírság esetében a lejárattól számított tizenöt napon belül határozatban elrendeli a végrehajtást az illetékes állami adóhatóság megkeresésével és erről tájékoztatja a felügyeleti szervet.
+7/A. §[^38]
 
-(2) A hatóság a részletfizetésről szóló határozatban meghatározott bármely közbenső fizetési határidő elmulasztása esetén felszólítja a kötelezettet a részlet nyolc napon belüli megfizetésére. A felszólítás ellenére meg nem fizetett részlet határidejének elmulasztása, vagy az utolsó fizetési határidő lejártáig meg nem fizetett bírság lejáratától számított tizenöt napon belül elrendeli a végrehajtást az illetékes állami adóhatóság megkeresésével és erről tájékoztatja a felügyeleti szervet.
-
-[^36]: A 7/A. §-t a 38/2015. (III. 11.) Korm. rendelet 2. § (11) bekezdése iktatta be.
+[^38]: A 7/A. §-t a 38/2015. (III. 11.) Korm. rendelet 2. § (11) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 97. § b) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
