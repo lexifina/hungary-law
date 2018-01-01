@@ -1,0 +1,1 @@
+A Kormány a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 67. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
