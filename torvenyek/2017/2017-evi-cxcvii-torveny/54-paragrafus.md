@@ -1,1 +1,0 @@
-54. § Az Lt. 67. § (16) bekezdés c) pontjában az „elkövetésének megalapozott gyanúja miatt büntetőeljárás alatt áll, a büntetőeljárás jogerős befejezéséig” szövegrész helyébe a „miatt büntetőeljárás hatálya alatt áll,” szöveg lép.

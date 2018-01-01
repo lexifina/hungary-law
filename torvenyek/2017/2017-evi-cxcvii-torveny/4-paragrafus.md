@@ -1,1 +1,0 @@
-4. § A Kkt. 21/J. § (5) bekezdésében az „a nemzetbiztonsági szolgálatok részére” szövegrész helyébe az „a nemzetbiztonsági szolgálatok, valamint a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv részére” szöveg lép.

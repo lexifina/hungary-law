@@ -1,3 +1,0 @@
-460. § A Bv. tv. 367. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha a fiatalkorúval szemben kábítószer birtoklása miatt megindult büntetőügyben feltételes ügyészi felfüggesztést rendeltek el és más ügyben javítóintézeti nevelést tölt, az igazgató gondoskodik arról, hogy – ha a javítóintézetben ennek feltételei nem biztosítottak – a fiatalkorú a javítóintézeten kívül kábítószer-függőséget gyógyító kezelésen vegyen részt, vagy kábítószer-használatot kezelő más ellátásban vagy megelőző-felvilágosító szolgáltatásban részesüljön. E feladatok ellátása során a javítóintézet a pártfogó felügyelővel együttműködik.”

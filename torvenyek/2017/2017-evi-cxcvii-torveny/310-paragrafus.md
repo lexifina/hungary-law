@@ -1,1 +1,0 @@
-310. § A Cnytv. 76. § (3) bekezdésében a „megkeresésre” szövegrész helyébe a „megkeresésre vagy adatkérésre” szöveg, a „nyomozóhatóságnak” szövegrész helyébe a „nyomozó hatóságnak” szöveg és a „megkeresésben” szövegrész helyébe a „megkeresésben vagy adatkérésben” szöveg lép.

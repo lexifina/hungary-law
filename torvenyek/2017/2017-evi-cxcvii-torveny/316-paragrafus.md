@@ -1,3 +1,0 @@
-316. § A Kttv. 162. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A leltárhiányért fennálló felelősség megállapítására a 165. §-ban foglaltak az irányadók azzal az eltéréssel, hogy a felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő harminc nap és a bíróság büntetőeljárást befejező jogerős vagy véglegessé vált határozatának, vagy az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának a kézbesítését követő nappal kezdődik. A határidő eltelte után a leltárhiányért kinevezési okirata alapján felelős kormánytisztviselőt kártérítésre nem lehet kötelezni.”
