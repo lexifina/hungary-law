@@ -6,17 +6,12 @@
 
 (3) Az igazgatási szolgáltatási díj megfizetését az eljárást kezdeményező ügyfél az (1) és (2) bekezdésben meghatározott fizetési számlák javára átutalással vagy készpénzátutalással teljesítheti.
 
-(4) Az igazgatási szolgáltatási díj fizetésének megtörténtét az eljárást kezdeményező ügyfélnek az eljárás megindítására irányuló kérelemhez csatolt
+(4)[^4] Az igazgatási szolgáltatási díj fizetését az eljárás megindításával egyidejűleg igazolni kell.
 
-a) – átutalás esetében – a fizetési számlájának megterhelését tartalmazó napi számlakivonattal vagy
-
-b) – készpénzátutalás esetében – a készpénz-befizetési megbízás igazoló szelvényrészének egyszerű másolatával
-
-kell igazolnia, amelyen az 1. vagy 2. melléklet szerinti kódszámot is szerepeltetni kell.
-
-(5)[^4] A kormányhivatal és az MBFSZ az igazgatási szolgáltatási díjról számviteli bizonylatot állít ki. A számviteli bizonylaton fel kell tüntetni a kérelem iktatószámát és az 1. vagy 2. mellékletben megjelölt kódszámot.
+(5)[^5] A kormányhivatal és az MBFSZ az igazgatási szolgáltatási díjról számviteli bizonylatot állít ki. A számviteli bizonylaton fel kell tüntetni a kérelem iktatószámát és az 1. vagy 2. mellékletben megjelölt kódszámot.
 
 (6) A kérelem visszavonása esetén a befizetett igazgatási szolgáltatási díj nem igényelhető vissza.
 
 [^3]: A 2. § (2) bekezdése a 24/2017. (VI. 30.) NFM rendelet 19. § c)–d) pontja szerint módosított szöveg.
-[^4]: A 2. § (5) bekezdése a 24/2017. (VI. 30.) NFM rendelet 19. § c) pontja szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdése az 52/2017. (XII. 22.) NFM rendelet 32. §-ával megállapított szöveg.
+[^5]: A 2. § (5) bekezdése a 24/2017. (VI. 30.) NFM rendelet 19. § c) pontja szerint módosított szöveg.
