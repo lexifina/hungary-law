@@ -8,7 +8,7 @@ b) intézkedik a személyazonosító igazolvánnyal kapcsolatos ügyintézés so
 
 c) gondoskodik a személyazonosító igazolvány elvesztése, eltulajdonítása, megsemmisülése, megrongálódása, érvénytelenítése, valamint leadása tényének a személyazonosító igazolvány nyilvántartáson történő átvezetéséről,
 
-d) a személyazonosító igazolvány nyilvántartásban rögzíti a személyazonosító igazolvány kitöltésének tényét, és kezeli – az Nytv. (3) bekezdése szerint – az eljárásban keletkezett alapiratokat,
+d)[^11] a személyazonosító igazolvány nyilvántartásban rögzíti a személyazonosító igazolvány kitöltésének tényét, és kezeli – az Nytv. 9. § (3) bekezdése szerint – az eljárásban keletkezett alapiratokat,
 
 e) ellátja a személyazonosító igazolvány kiadásával és nyilvántartásával kapcsolatos hatósági tevékenység szakmai felügyeletét,
 
@@ -40,3 +40,4 @@ r) ellátja az országos ellenőrzőhitelesítő hatósági (CVCA), valamint a d
 
 [^9]: A 3/C. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (7) bekezdése iktatta be.
 [^10]: A 4. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (8) bekezdésével megállapított szöveg.
+[^11]: A 4. § d) pontja a 457/2017. (XII. 28.) Korm. rendelet 555. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

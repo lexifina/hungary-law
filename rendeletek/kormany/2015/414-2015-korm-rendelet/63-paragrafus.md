@@ -1,3 +1,5 @@
-63. § (1) A kérelmezőnek a kérelem benyújtásakor a kérelemhez be kell mutatnia a személyazonosság igazolására alkalmas érvényes hatósági igazolványát.
+63. §[^137] (1) A kérelmezőnek a kérelem benyújtásakor a személyazonosságát igazolnia szükséges. Az igazoláshoz felhasználható különösen a személyazonosság igazolására alkalmas érvényes hatósági igazolvány.
 
-(2) A cselekvőképességet teljesen korlátozó gondnokság alatt álló kérelmező esetében a kérelmező bemutathatja a gondnokság alá helyezést tanúsító jogerős bírósági határozatot. Be kell mutatni a törvényes képviseletet igazoló jogerős gyámhatósági határozatot, valamint a törvényes képviselő személyazonosságát igazoló okmányt is.
+(2) A cselekvőképességet teljesen korlátozó gondnokság alatt álló kérelmező esetében a kérelmezőnek igazolnia kell a gondnokság alá helyezést, továbbá a törvényes képviseletet. Az igazoláshoz felhasználható különösen jogerős bírósági határozat, valamint végleges gyámhatósági határozat. A törvényes képviselő személyazonosságát szintén igazolni szükséges.
+
+[^137]: A 63. § a 457/2017. (XII. 28.) Korm. rendelet 554. § (5) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
