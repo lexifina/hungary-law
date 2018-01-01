@@ -34,7 +34,7 @@ d) angol nyelvből legalább középfokú, államilag elismert nyelvvizsgával
 
 a) felsőfokú iskolai végzettséggel,
 
-b)[^9] minőségirányítási szaktanfolyamon szerzett oklevéllel,
+b)[^12] minőségirányítási szaktanfolyamon szerzett oklevéllel,
 
 c) minőségbiztosítási területen szerzett gyakorlattal,
 
@@ -46,4 +46,4 @@ d) angol nyelvből legalább középfokú, államilag elismert nyelvvizsgával
 
 (7) Felelős vezető – a minőségbiztosításért felelős vezető kivételével – nem lehet olyan személy, aki más üzemben tartónál felelős vezetői feladatkört lát el. A minőségbiztosításért felelős vezető a hatóság hozzájárulásával legfeljebb három üzemben tartónál láthat el ilyen feladatkört.
 
-[^9]: A 14. § (5) bekezdésének b) pontja e rendelet 16. § (2) bekezdése alapján 2004. január 1-jén lép hatályba.
+[^12]: A 14. § (5) bekezdésének b) pontja e rendelet 16. § (2) bekezdése alapján 2004. január 1-jén lép hatályba.

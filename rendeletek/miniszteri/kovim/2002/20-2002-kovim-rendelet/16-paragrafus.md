@@ -1,3 +1,5 @@
+## 15. §[^13]
+
 ## Záró rendelkezések
 
 16. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2002. április 1-jén lép hatályba.
@@ -3518,7 +3520,7 @@ a) Az üzembentartó csak abban az esetben üzemeltethet légcsavaros gázturbin
 
 Ezen követelmények a) (1) és (2) pontok nem vonatkoznak azokra a repülőgépekre, amelyek maximális jóváhagyott felszálló tömege 5700 kg, vagy ennél kevesebb, s a maximális engedélyezett utasülés szám 9-nél több, valamint az üzembehelyezése önálló Légialkalmassági Bizonyítvánnyal történt egy JAA tagállamban, vagy bármely egyéb országban 1972. április 1. előtt és 1995. április 1-jén már lajstromjellel rendelkezett egy JAA tagállamban.
 
-JAR-OPS 1.665[^10] – Földfelszín megközelítésére figyelmeztető rendszer
+JAR-OPS 1.665[^14] – Földfelszín megközelítésére figyelmeztető rendszer
 
 a) Az 5700 kg-nál nagyobb jóváhagyott maximális felszálló tömegű, vagy 9-nél több engedélyezett utasüléssel rendelkező, gázturbinás hajtóművel felszerelt repülőgépeknek rendelkezniük kell a földfelszín megközelítésére figyelmeztető rendszerrel.
 
@@ -4094,7 +4096,7 @@ a) Az üzembentartó csak abban az esetben üzemeltetheti azokat az utasszállí
 
 b) 1998. április 1. után az üzembentartó csak abban az esetben üzemeltetheti éjszaka azokat az utasszállító repülőgépeket, amelyekben az utasülések maximális engedélyezett száma 9, vagy ennél kevesebb, ha biztosítottak a fedélzet általános megvilágításának forrásai, ezáltal segítve a repülőgép kiürítését. Ezen rendszer magában foglalhatja a mennyezeti lámpákat, illetve a megvilágítás forrásaként a repülőgépben már kiépített egyéb egységeket, amelyek üzemképesek maradnak (világítanak) a repülőgép akkumulátorának kikapcsolását követően is.
 
-JAR-OPS 1.820[^11] – Automatikus vészhelyzeti rádiójeladó (lásd IEM OPS 1.820)
+JAR-OPS 1.820[^15] – Automatikus vészhelyzeti rádiójeladó (lásd IEM OPS 1.820)
 
 a) Az olyan repülőgépnek, melyet egyedi Légialkalmassági Bizonyítvánnyal 2002. január 1-jén vagy ezen dátumot követően helyeztek üzembe, rendelkeznie kell egy automatikus Vészhelyzeti rádiójeladóval (ELT), amely alkalmas sugárzásra 121,5 MHz-en és 406– 406,1 MHz frekvenciasávon.
 
@@ -5078,5 +5080,52 @@ b) A fenti a) pont szempontjából egy repülőgép típus változatait különb
 
 (1) Vészkijárat működtetése,
 
-[^10]: A melléklet I. Része K) Fejezetének 1.665 pontja a 115/2005. (XII. 27.) GKM rendelet 3. § (3) bekezdésének a) pontjával megállapított szöveg.
-[^11]: A melléklet I. Része K) Fejezetének 1.820 pontja a 115/2005. (XII. 27.) GKM rendelet 3. § (3) bekezdésének b) pontjával megállapított szöveg.
+(2) A biztonsági berendezések elhelyezése és típusai,
+
+(3) Vészhelyzet eljárások.
+
+JAR-OPS 1.1035 – Oktatási okmányok (lásd IEM OPS 1.1035)
+
+a) Az üzembentartónak gondoskodnia kell a következőkről:
+
+(1) Biztosítsa a JAR-OPS 1.1005, 1.1010. 1.1015, 1.1020 és 1.1025 pontokban előírt oktatások és ellenőrzések okmányainak fenntartását;
+
+(2) Készítse el az összes alapképzés, típus-átképzés, időszakos oktatás és az ellenőrzések okmányait, amelyek a légiutas-kísérő számára kérés esetén elérhetők legyenek.
+
+1. Függelék a JAR-OPS 1.1005-höz – Alapképzés
+
+Lásd AMC a JAR-OPS 1.1005, 1. Függelékhez és a JAR-OPS 1.1015, 1. Függelékhez
+
+Lásd IEM a JAR-OPS 1.1005/1.1015, 1. Függelékhez
+
+Lásd IEM a JAR-OPS 1.1005/1.1015/1.1020, 1. Függelékhez
+
+Lásd IEM a JAR-OPS 1.1005/1.1015/1.1020, 1. Függelékhez
+
+a) Az üzembentartónak gondoskodnia kell arról, hogy az alapképzés összes tárgyát megfelelően képesített személyek oktassák.
+
+b) Tűz és füst elleni védelem oktatása. Az üzembentartónak gondoskodnia kell arról, hogy a tűz és füst elleni védelem oktatása tartalmazza a következőket:
+
+(1) A légiutas-kísérő felelősségének kihangsúlyozása a vészhelyzetek gyors kezelésében, beleértve a tűz és füst eseteit, külön kihangsúlyozva a tűz tényleges forrása azonosításának fontosságát;
+
+(2) A hajózószemélyzet azonnali tájékoztatásának fontossága, valamint a koordináció és a segítségnyújtás során szükséges speciális tevékenységek a tűz, vagy füst észlelésekor;
+
+(3) A potenciálisan tűzveszélyes helyek gyakori ellenőrzésének szükségessége, beleértve a WC-ket és a füstérzékelővel ellátott helyeket;
+
+(4) A tűz és a megfelelő tűzoltószer típusok osztályba sorolása, valamint eljárások az adott tűzesetek alkalmával, a tűzoltószerek alkalmazásának technikái, a téves alkalmazás következményei és a zárt helyen történő használat;
+
+(5) A repülőtér földi vészmentő szolgálatainak általános eljárásai.
+
+c) A vízben történő mentés oktatása. Az üzembentartónak gondoskodnia kell arról, hogy a vízben történő mentés oktatása magában foglalja a személyi úszó mentőfelszerelések tényleges felvételét, valamint használatát a vízben minden egyes légiutas-kísérő által. Mielőtt első alkalommal teljesít szolgálatot mentőtutajjal, vagy egyéb hasonló berendezésekkel felszerelt repülőgépen, a légiutas-kísérőt kötelező kiképezni ezen berendezések használatára, beleértve a vízben történő gyakorlást.
+
+d) A életmentés/túlélés oktatása. Az üzembentartónak gondoskodnia kell arról, hogy az életmentés/túlélés oktatása megfeleljen az üzemeltetési területekhez (pl. sarkvidék, sivatag, dzsungel vagy tenger).
+
+e) Egészségügyi szempontok és elsősegélynyújtás. Az üzembentartónak gondoskodnia kell arról, hogy az egészségügyi és elsősegélynyújtás oktatás tartalmazza a következőket:
+
+(1) Az elsősegélynyújtásra és az elsősegély-készletek használatára vonatkozó instrukciók;
+
+(2) Az életmentés/túlélés oktatással kapcsolatos elsősegélynyújtás, valamint a vonatkozó higiéniai követelmények;
+
+[^13]: A 15. §-t az 55/2017. (XII. 27.) NFM rendelet 22. § e) pontja hatályon kívül helyezte.
+[^14]: A melléklet I. Része K) Fejezetének 1.665 pontja a 115/2005. (XII. 27.) GKM rendelet 3. § (3) bekezdésének a) pontjával megállapított szöveg.
+[^15]: A melléklet I. Része K) Fejezetének 1.820 pontja a 115/2005. (XII. 27.) GKM rendelet 3. § (3) bekezdésének b) pontjával megállapított szöveg.

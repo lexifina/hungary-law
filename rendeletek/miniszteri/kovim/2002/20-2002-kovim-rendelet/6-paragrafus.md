@@ -1,3 +1,5 @@
+## 5. §[^4]
+
 ## Az üzemben tartási engedély tartalma
 
 6. § (1) Az üzemben tartási engedély tartalmazza:
@@ -16,8 +18,10 @@ f) a repülés végrehajtásának kiegészítő feltételeit (pl. CAT II/CAT III
 
 g) az üzemben tartási engedély érvényességi idejét.
 
-(2) A légiszállítás céljából kiadott üzemben tartási engedélyt a hatóság magyar és angol nyelven állítja ki.
+(2)[^5]
 
-(3)[^4] A hatóság a kiadott üzemben tartási engedélyekről nyilvántartást vezet, amely nyilvános. A nyilvántartás a következőket tartalmazza: az üzemben tartó neve, székhelye, levelezési címe, faxszáma, telefonszáma.
+(3)[^6] A hatóság a kiadott üzemben tartási engedélyekről nyilvántartást vezet, amely nyilvános. A nyilvántartás a következőket tartalmazza: az üzemben tartó neve, székhelye, levelezési címe, faxszáma, telefonszáma.
 
-[^4]: A 6. § (3) bekezdése a 86/2005. (X. 21.) GKM rendelet 13. §-ával megállapított szöveg.
+[^4]: Az 5. §-t az 55/2017. (XII. 27.) NFM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^5]: A 6. § (2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 22. § c) pontja hatályon kívül helyezte.
+[^6]: A 6. § (3) bekezdése a 86/2005. (X. 21.) GKM rendelet 13. §-ával megállapított szöveg.
