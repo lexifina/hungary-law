@@ -1,8 +1,8 @@
-26/A. §[^69] (1) A 25. § (1) bekezdésében felsorolt építmények közül a kisfeszültségű hálózati elem esetében az üzembe helyezési eljárás lefolytatásáról szóló bejelentésben foglaltakat a Hatóság tizenöt nap elteltével hallgatással tudomásul veszi, a tudomásulvételt a hiányzó feltételek teljesítéséhez kötheti, vagy a tudomásulvétellel egyidejűleg határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezi a kérelmezőt.
+26/A. §[^79] (1) A 25. § (1) bekezdésében felsorolt építmények közül a kisfeszültségű hálózati elem esetében az üzembe helyezési eljárás lefolytatásáról szóló bejelentésben foglaltakat a Hatóság tizenöt nap elteltével hallgatással tudomásul veszi, a tudomásulvételt a hiányzó feltételek teljesítéséhez kötheti, vagy a tudomásulvétellel egyidejűleg határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezi a kérelmezőt.
 
 (2) Az üzembe helyezési eljárás lefolytatásáról szóló bejelentés kapcsán a Hatóság vizsgálja, hogy
 
-a) a tényleges megvalósulás a jogerős engedély szerint történt-e meg,
+a)[^80] a tényleges megvalósulás a végleges engedély szerint történt-e meg,
 
 b) az üzembe helyezés során betartották-e a jogszabályokban foglalt követelményeket,
 
@@ -14,4 +14,5 @@ d) közcélú, magán-, termelői és közvetlen vezeték esetében a kérelmez�
 
 (4) Ha az építmény további feltételek előírásával sem feleltethető meg a jogszabályban meghatározott követelményeknek, a Hatóság annak bontását rendeli el.
 
-[^69]: A 26/A. §-t a 441/2015. (XII. 28.) Korm. rendelet 99. § (8) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^79]: A 26/A. §-t a 441/2015. (XII. 28.) Korm. rendelet 99. § (8) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^80]: A 26/A. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 212. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

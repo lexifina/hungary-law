@@ -1,20 +1,4 @@
-## 1. A villamosenergia-ipari építésügyi engedélyezési eljárásokban kijelölt szakhatóságok
-
-|  | A | B | C | D |
-
-| 1. | Bevonás és közreműködés feltétele | Szakkérdés | Elsőfokú eljárásban | Másodfokú eljárásban |
-
-| 2. | A repülőtér és a repülés biztonságát szolgáló földi berendezések biztonsági övezetén belül létesített minden építmény építése esetén, a repülőtér telekhatárától mért 15 kilométer távolságon belül 40 méternél, bárhol másutt a beépítésre szánt területen 100 méternél, beépítésre nem szánt területen 50 méternél magasabb építmény építése, építménymagasságot növelő bővítése, kizárólag helikopter-leszállóhellyel rendelkező repülőtér telkének szélétől mért 500 méteren belül 40 méternél magasabb építmény építése, építménymagasságot növelő bővítése esetén, bontási engedélyezési eljárás kivételével. | A polgári célú repülés biztonsága érdekében az építmény elhelyezése, magassága közvetlen és közvetett hatásainak vizsgálata a légiközlekedésre, a földi telepítésű berendezések működésére és a légiközlekedés biztonságára. | légiközlekedési hatóság |  |
-
-| Az állami célú repülés biztonsága érdekében az építmény elhelyezése, magassága közvetlen és közvetett hatásainak vizsgálata a légiközlekedésre, a földi telepítésű berendezések működésére és a légiközlekedés biztonságára | katonai légügyi hatóság |
-
-| 3. | A vasúti pálya szélső vágányának tengelyétől számított 100 méteren belüli építmény építése, elhelyezése, megszüntetése esetén, ha a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a vasúti pálya területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a tervezett igénybevétel a vasút állagára, a vasúti forgalom biztonságára, a vasútkezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | közlekedésért felelős miniszter |  |
-
-| 4. | Minden eljárásban. | A helyi településrendezési eszközökkel való összhang megállapítása kérdésében, valamint annak elbírálása kérdésében, hogy az építmény vagy tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, fővárosban a kerületi jegyző | megyei jegyző, fővárosban a főjegyző |
-
-| 5. | Minden eljárásban a nyomvonalas létesítmény engedélyezése kivételével. | Az építménnyel, létesítménnyel összefüggő tűzvédelmi követelmények érvényre juttatása. | első fokon eljáró tűzvédelmi szakhatóság | másodfokon eljáró tűzvédelmi szakhatóság |
-
-| 6. | Minden eljárásban, ha az eljárás honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett építmény vagy annak biztonsági övezete érinti a védőterületet. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | honvédelemért felelős miniszter |  |
+## 1.
 
 ## 2. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokban érintettségüktől függően közreműködő közművek, kezelők és üzemeltetők
 
@@ -52,7 +36,7 @@
 
 |  | Szakkérdés vizsgálatának feltétele | Szakkérdés | Másodfokú eljárásban szakértőként kirendelhető szerv |
 
-| 1. | a) Termőföldön megvalósuló építmény vagy tevékenység esetében, az elvi építési és a bontási, valamint az előmunkálati jog, az üzemeltetési engedélyezési eljárás kivételével, továbbá az olyan szabadvezeték-engedélyezési eljárás kivételével, ahol a létesítendő hálózat oszlopain kívül csak a biztonsági övezete érinti a termőföldet. | A termőföld minőségi védelme. |  |
+| 1. | a) Termőföldön megvalósuló építmény vagy tevékenység esetében, – az elvi építési és a bontási, valamint az előmunkálati jog, az üzemeltetési engedélyezési eljárás kivételével, – az olyan szabadvezeték-engedélyezési eljárás kivételével, ahol a létesítendő hálózat oszlopain kívül csak a biztonsági övezete érinti a termőföldet, továbbá – azon eljárás kivételével, amelynek tárgyát képező építmény megvalósításához vagy tevékenység végzéséhez a termőföld más célú hasznosítására vonatkozó ingatlanügyi hatósági engedély is szükséges és az rendelkezésre áll. | A termőföld minőségi védelme. |  |
 
 | b) Erdőben megvalósuló vagy a megvalósítás során erdőre, az erdő talajára, vízháztartására vagy mikroklímájára hatást gyakorló módon megvalósuló létesítmény esetében, elvi építési, használatbavételi és bontási engedélyezési eljárás kivételével. | Az erdőre gyakorolt hatások vizsgálata. |  |
 
@@ -72,11 +56,11 @@
 
 | 5. | Ha az építési tevékenység a) külterületen felszínmozgás-veszélyes, illetve bányászati tevékenységgel érintett területen valósul meg; vagy b) nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállítóvezeték, elosztóvezeték, célvezeték, valamint egyéb gáz és gáztermék vezeték biztonsági övezetében valósul meg, és az építtető az üzemeltetőnek a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet 19/B. § (2) bekezdése szerint egyetértésének megtagadását vagy az üzemeltető által az egyetértés megadásához szabott feltételeket sérelmesnek tartja, vagy c) ásványi nyersanyag kitermeléssel jár. | Az a) pont esetében az építési engedély iránti kérelem földtani szempontú megalapozottságának vizsgálata. A b) pont esetében annak megállapítása, hogy az üzemeltető nyilatkozatában foglalt feltételek vagy a hozzájárulás megtagadása a gázipari tevékenységgel kapcsolatos létesítmény rendeltetésszerű használatával és védelmével kapcsolatos jogszabályi rendelkezéseknek megfelelő-e. A c) pont esetében a kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék- fizetési kötelezettség megállapítása. | Magyar Bányászati és Földtani Szolgálat |
 
-5. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^120]
+5. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^147]
 
 ## Az elvi építési és az építési engedély iránti kérelem adattartalma
 
-A közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza:
+Az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza:
 
 1. Az építmény megnevezése, elhelyezésére szolgáló ingatlan címe és helyrajzi száma.
 
@@ -110,4 +94,4 @@ d) kivitelezés tervezett befejezési időpontja.
 
 9. A kérelem tárgyával összefüggésben korábban keletkezett hatósági döntések megnevezése, iktatószáma és kelte.
 
-[^120]: Az 5. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § d) pontjával megállapított szöveg.
+[^147]: Az 5. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § d) pontjával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 212. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

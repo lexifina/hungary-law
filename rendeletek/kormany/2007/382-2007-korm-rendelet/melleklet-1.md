@@ -1,8 +1,8 @@
-1. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^111]
+1. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^126]
 
 ## A vezetékjog engedélyezése és a vezeték építési engedély iránti kérelem adattartalma
 
-A közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza:
+Az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza:
 
 1. A megszüntetendő hálózat (vezeték) megnevezése.
 
@@ -10,7 +10,7 @@ A közigazgatási hatósági eljárás általános szabályairól szóló törv�
 
 3. A hálózat (vezeték) rendeltetése.
 
-4.[^112] A MEKH engedélyének száma, kelte (ha a VET 74. §-a szerinti engedély kiadására a kérelem benyújtását megelőzően sor került).
+4.[^127] A MEKH engedélyének száma, kelte (ha a VET 74. §-a szerinti engedély kiadására a kérelem benyújtását megelőzően sor került).
 
 5. A beruházás adatai:
 
@@ -64,7 +64,8 @@ e) átalakító és kapcsoló berendezés típusa.
 
 13. A kérelmező nyilatkozata arról, hogy a hálózat (vezeték) megépítése a közcélú hálózat szükséges fejlesztése érdekében indokolt, és az az érintett ingatlanok rendeltetésszerű használatát lényegesen nem akadályozza.
 
-14. Termőföld esetében a termőföld más célú hasznosításának engedélyezéséről szóló hatósági határozat.
+14.[^128]
 
-[^111]: Az 1. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § a) pontjával megállapított szöveg.
-[^112]: Az 1. számú melléklet 4. pontja a 122/2015. (V. 26.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^126]: Az 1. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § a) pontjával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 212. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^127]: Az 1. számú melléklet 4. pontja a 122/2015. (V. 26.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^128]: Az 1. számú melléklet 14. pontját a 457/2017. (XII. 28.) Korm. rendelet 214. § i) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

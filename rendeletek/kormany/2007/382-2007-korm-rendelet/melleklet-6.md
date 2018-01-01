@@ -1,8 +1,8 @@
-6. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^121]
+6. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^148]
 
-## Az üzemeltetési engedély iránti kérelem, valamint az üzembe helyezési eljárás lefolytatásáról szóló bejelentés adattartalma
+## Az üzembe helyezési eljárás lefolytatásáról szóló bejelentés adattartalma
 
-A kérelem a következő adatokat tartalmazza:
+A bejelentés a következő adatokat tartalmazza:
 
 1. A hálózat (vezeték) megnevezése.
 
@@ -26,4 +26,4 @@ d) kivitelezés befejezési időpontja.
 
 7. Az üzembe helyezési eljárás ideje.
 
-[^121]: A 6. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 100. § (3) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^148]: A 6. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 213. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

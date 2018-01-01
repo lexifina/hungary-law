@@ -1,14 +1,14 @@
-7. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^122]
+7. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^149]
 
 ## A használatbavételi engedély iránti kérelem adattartalma
 
-A közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza:
+Az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza:
 
 1. Az építmény megnevezése, elhelyezésére szolgáló ingatlan címe és helyrajzi száma.
 
 2. Az építmény rendeltetése.
 
-3.[^123] A MEKH engedélyének száma, kelte (VET 74. §), amennyiben a VET szerint engedélyköteles.
+3.[^150] A MEKH engedélyének száma, kelte (VET 74. §), amennyiben a VET szerint engedélyköteles.
 
 4. A beruházás adatai: az engedélyes/építtető megnevezése és címe.
 
@@ -30,5 +30,5 @@ d) kivitelezés befejezési időpontja.
 
 9. Az építési engedély száma, kelte.
 
-[^122]: A 7. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § f) pontjával megállapított szöveg.
-[^123]: A 7. számú melléklet 3. pontja a 122/2015. (V. 26.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
+[^149]: A 7. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § f) pontjával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 212. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^150]: A 7. számú melléklet 3. pontja a 122/2015. (V. 26.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.

@@ -1,12 +1,12 @@
-20. § (1)[^37] Az építési engedély iránti kérelmet az 5. számú melléklet, a kérelemhez csatolandó műszaki dokumentációt a 3. számú melléklet 7. pontja szerinti tartalommal 2 példányban, valamint az ügyben érintett szakhatóságok számától függően további 1-1 példányban kell benyújtani a Hatósághoz.
+20. § (1)[^45] Az építési engedély iránti kérelmet a 3. számú melléklet 7. pontja, valamint az 5. számú melléklet szerinti tartalommal kell benyújtani a Hatósághoz.
 
-(2)[^38] A szakhatósághoz intézett megkereséshez csatolni kell a 3. számú melléklet 7. pontjában felsorolt vonatkozó műszaki dokumentációkat. A közművek, kezelők és üzemeltetők nyilatkozatát a hálózati engedélyes vagy megbízása alapján a tervező köteles beszerezni és a kérelemhez csatolni.
+(2)[^46] A szakhatósághoz intézett megkereséshez csatolni kell a 3. számú melléklet 7. pontjában felsorolt vonatkozó műszaki dokumentációkat. A közművek, kezelők és üzemeltetők nyilatkozatát a hálózati engedélyes vagy megbízása alapján a tervező köteles beszerezni és a kérelemhez csatolni.
 
-(2a)[^39] Az építési engedély iránti kérelemhez csatolni kell az e-közműt üzemeltető szervezet tanúsítványát arról, hogy a közcélú, magán-, termelői és közvetlen vezeték üzemeltetője regisztrált e-közmű adatszolgáltató.
+(2a)[^47] Az építési engedély iránti kérelemben igazolni kell, hogy a közcélú, magán-, termelői és közvetlen vezeték üzemeltetője regisztrált e-közmű adatszolgáltató. Ezen tény igazolására alkalmas különösen az e-közműt üzemeltető szervezet tanúsítványa.
 
-(3)[^40] Ha a tervezett belső kezelőterű átalakító vagy kapcsoló berendezés elhelyezése termőföld időleges vagy végleges igénybevételével jár, az engedély iránti kérelemhez mellékelni kell a ingatlanügyi hatóság más célú hasznosítást engedélyező jogerős határozatát.
+(3)[^48]
 
-[^37]: A 20. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 608. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^38]: A 20. § (2) bekezdése a 245/2012. (VIII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^39]: A 20. § (2a) bekezdését a 369/2016. (XI. 29.) Korm. rendelet 3. §-a iktatta be.
-[^40]: A 20. § (3) bekezdése a 295/2016. (IX. 29.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^45]: A 20. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 211. § (9) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^46]: A 20. § (2) bekezdése a 245/2012. (VIII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^47]: A 20. § (2a) bekezdését a 369/2016. (XI. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 211. § (10) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^48]: A 20. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 214. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

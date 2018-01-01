@@ -1,8 +1,8 @@
-2. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^113]
+2. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^129]
 
 ## A vezetékjog fennállását megállapító ingatlan-nyilvántartásba történő bejegyzésre alkalmas határozat kiadása és az egyszerűsített üzemeltetési engedély iránti kérelem adattartalma
 
-A közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza:
+Az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza:
 
 1. A hálózat (vezeték) megnevezése,
 
@@ -22,4 +22,4 @@ e) tartószerkezeten elhelyezett átalakító és kapcsoló berendezés típusa,
 
 4. A vezetékjogi engedély száma, kelte vagy a hálózat létesítésének időpontja.
 
-[^113]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^129]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 212. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
