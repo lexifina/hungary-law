@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-49-20-0
 | 2014-09-04 | 2004-49-20-0A.8 | 40/2014. (VIII. 5.) BM rendelet |
 | 2015-07-01 | 2004-49-20-0A.9 | 37/2015. (VI. 16.) BM rendelet |
 | 2016-12-01 | 2004-49-20-0A.10 | 42/2016. (X. 25.) BM rendelet |
+| 2018-01-01 | 2004-49-20-0A.11 | 44/2017. (XII. 29.) BM rendelet |

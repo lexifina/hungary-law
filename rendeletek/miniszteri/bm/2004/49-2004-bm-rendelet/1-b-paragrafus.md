@@ -8,14 +8,10 @@ b) jóváhagyja a lőtérszabályzatot.
 
 (3) A (2) bekezdés szerinti hatóság a lőtér-üzemeltetési engedélyt (a továbbiakban: üzemeltetési engedély), valamint a hitelesített lőtérnaplót (a továbbiakban: lőtérnapló) akkor adja ki, ha a kérelmező a lőtér üzemeltetéséhez szükséges jogszabályokban előírt követelményeket teljesítette, lőtérszabályzattal rendelkezik, és a lőtér üzemeltetésére – mint veszélyes üzemre – felelősségbiztosítást kötött.
 
-(4) A (2) bekezdés szerinti hatóság az üzemeltetési engedély tárgyában hozott határozatot közli
-
-a)[^5] az érintett rendvédelmi feladatokat ellátó szervvel (a továbbiakban: rendvédelmi szerv), ha a lőtér rendvédelmi szerv lőterétől számított 10 km távolságon belül létesül;
-
-b) a légiközlekedési hatósággal, valamint a katonai légügyi hatósággal, ha a lőtér repülőtértől számított 2 km távolságon belül létesül.
+(4)[^5]
 
 (5) Védett természeti területen lőtér üzemeltetése nem engedélyezhető.
 
 [^3]: Az 1/B. §-t a 71/2009. (XII. 22.) IRM rendelet 2. §-a iktatta be.
 [^4]: Az 1/B. § (1) bekezdése a 68/2011. (XII. 30.) BM rendelet 20. §-a szerint módosított szöveg.
-[^5]: Az 1/B. § (4) bekezdés a) pontja a 37/2015. (VI. 16.) BM rendelet 16. §-a szerint módosított szöveg.
+[^5]: Az 1/B. § (4) bekezdését a 44/2017. (XII. 29.) BM rendelet 16. § (2) bekezdés a) pontja hatályon kívül helyezte.
