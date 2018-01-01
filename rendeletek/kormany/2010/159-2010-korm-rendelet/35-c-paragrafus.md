@@ -1,1 +1,3 @@
-## 35/B. § A Kormány a 35/A. § szerinti, az Ékr.-ben kijelölt szakhatóságokon túl az Ékr. 57. §-ában meghatározott szakkérdésekben az első fokú eljárásban a repülőtér fekvése szerinti, az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Éhk.) 1. § (2) bekezdésében meghatározott első fokú kiemelt építésügyi hatóságot, a másodfokú eljárásban az Éhk. 1. § (5) bekezdésében meghatározott hatóságot jelöli ki szakhatóságként.
+## 35/B. §[^71]
+
+[^71]: A 35/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 300. § i) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

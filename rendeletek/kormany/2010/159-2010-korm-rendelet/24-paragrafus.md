@@ -1,3 +1,3 @@
-## 9.[^35]
+## 9.[^49]
 
-[^35]: A 9. alcímet (24. §) a 207/2014. (VIII. 15.) Korm. rendelet 21. § c) pontja hatályon kívül helyezte.
+[^49]: A 9. alcímet (24. §) a 207/2014. (VIII. 15.) Korm. rendelet 21. § c) pontja hatályon kívül helyezte.

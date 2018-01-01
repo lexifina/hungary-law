@@ -10,9 +10,7 @@
 
 a) az egyes engedélyek esetén előírt mellékleteket,
 
-b) a kérelmező létesítési, megszüntetési jogosultságának igazolását, és
-
-c)[^12] az igazgatási szolgáltatási díj befizetésének igazolását.
+b)–c)[^12]
 
 [^11]: A 3/A. §-t a 207/2014. (VIII. 15.) Korm. rendelet 4. §-a iktatta be.
-[^12]: A 4. § (2) bekezdés c) pontja a 207/2014. (VIII. 15.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § (2) bekezdés b)–c) pontját a 457/2017. (XII. 28.) Korm. rendelet 300. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -10,6 +10,6 @@ a) a repülőtér fejlesztésének és megszüntetésének engedélyezése össz
 
 b) megfelel-e az Országos Területfejlesztési Koncepcióban, az érintett területre vonatkozó területrendezési tervben, valamint településrendezési eszközökben foglaltaknak, és
 
-c)[^55] a repülőtéren az állandó határátkelőhely, valamint a Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve működéséhez szükséges feltételek biztosítottak-e.
+c)[^72] a repülőtéren az állandó határátkelőhely, valamint a Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve működéséhez szükséges feltételek biztosítottak-e.
 
-[^55]: A 37. § (3) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 133. § (1) bekezdésével megállapított szöveg.
+[^72]: A 37. § (3) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 133. § (1) bekezdésével megállapított szöveg.

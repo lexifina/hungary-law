@@ -1,6 +1,6 @@
 ## 3. A határozat tartalma
 
-14. § (1) Az elvi létesítési engedély megadásáról vagy megtagadásáról szóló határozatnak – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túlmenően – tartalmaznia kell
+14. § (1)[^28] Az elvi létesítési engedély megadásáról vagy megtagadásáról szóló határozatnak – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően – tartalmaznia kell
 
 a) a határozattal érintett ingatlan címét, helyrajzi számát, továbbá a területet határoló sarokpontok Egységes Országos Vetületi rendszerben vagy geodéziai világrendszerben (a továbbiakban: WGS'84 rendszer) meghatározott koordinátáit,
 
@@ -10,11 +10,11 @@ c) az engedély hatályának időtartamát, amely nem haladhatja meg az egy éve
 
 (2) Az elvi létesítési engedély a létesítési engedély megadását illetően a légiközlekedési hatóságot az (1) bekezdésben foglaltak keretei között és az (5) bekezdés figyelembevételével köti azokban a kérdésekben, amelyekről az elvi létesítési engedélyben kifejezetten rendelkezett, kivéve, ha a vonatkozó jogszabályok a létesítési, engedélyezési eljárás megindítását megelőzően megváltoztak.
 
-(3)[^22] Az 1. mellékletben felsorolt általános építmények tekintetében az eljárás lefolytatására az Étv. és az Ékr. vonatkozó előírásait a 11/B. §-ban foglalt eltéréssel kell alkalmazni.
+(3)[^29] Az 1. mellékletben felsorolt általános építmények tekintetében az eljárás lefolytatására az Étv. és az Ékr. vonatkozó előírásait a 11/B. §-ban foglalt eltéréssel kell alkalmazni.
 
 (4) Az elvi létesítési engedély hatályát veszti, ha
 
-a) a jogerőre emelkedésétől számított egy év elteltéig
+a)[^30] a véglegessé válásától számított egy év elteltéig
 
 aa) létesítési engedélyt a repülőtérre nem kértek, vagy
 
@@ -24,4 +24,6 @@ b) az igénybe venni tervezett területre időközben létesítési engedélyt a
 
 (5) Az elvi létesítési engedély időbeli hatálya alatt más kérelmezőnek az engedélyben meghatározott területen repülőtér létesítésére elvi létesítési engedély nem adható.
 
-[^22]: A 14. § (3) bekezdése a 207/2014. (VIII. 15.) Korm. rendelet 7. §-ával megállapított szöveg. [E módosító rendelet 19. § b) pontjával elrendelt módosítás, amely szerint az „épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény” szövegrész helyébe az „Étv.” szöveg lép, nem vezethető át.]
+[^28]: A 14. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 299. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^29]: A 14. § (3) bekezdése a 207/2014. (VIII. 15.) Korm. rendelet 7. §-ával megállapított szöveg. [E módosító rendelet 19. § b) pontjával elrendelt módosítás, amely szerint az „épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény” szövegrész helyébe az „Étv.” szöveg lép, nem vezethető át.]
+[^30]: A 14. § (4) bekezdés a) pont nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 299. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
