@@ -4,4 +4,6 @@ a) a vagyonvédelmi szolgáltatási tevékenységre irányuló közbeszerzés es
 
 b) a tárgyévre vonatkozó minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét, valamint ezen szabályozás előkészítésére vonatkozó eljárás szabályait,
 
+c) az általános közigazgatási rendtartásról szóló törvény rendelkezéseitől eltérő és azokat kiegészítő, a személy- és vagyonvédelmi, valamint magánnyomozói tevékenységre vonatkozó közigazgatási hatósági eljárási szabályokat
+
 rendelettel állapítsa meg.

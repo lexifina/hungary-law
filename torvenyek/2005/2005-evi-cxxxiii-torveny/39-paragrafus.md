@@ -1,6 +1,6 @@
 ## A kamarai tagsági viszony
 
-39. § (1) Az e törvény hatálya alá tartozó tevékenység személyes végzésére jogosító igazolvánnyal rendelkező személy kérheti a kamarába történő felvételét. A kérelmező személy a tagfelvételéről szóló kamarai határozat jogerőssé válásának napjától a lakóhelye szerint illetékes területi szervezet tagja.
+39. § (1) Az e törvény hatálya alá tartozó tevékenység személyes végzésére jogosító igazolvánnyal rendelkező személy kérheti a kamarába történő felvételét. A kérelmező személy a tagfelvételéről szóló kamarai határozat véglegessé válásának napjától a lakóhelye szerint illetékes területi szervezet tagja.
 
 (2) A kamarában minden természetes személy – igazolványai számától függetlenül – csak egy tagsággal rendelkezhet.
 

@@ -12,4 +12,4 @@ b) a kamara szerveinek határozatai nem sértik-e a jogszabályokat, az alapszab
 
 c) a kamara működése megfelel-e a jogszabályoknak, az alapszabálynak és az egyéb önkormányzati szabályzatoknak.
 
-(4) Ha a belügyminiszter az ellenőrzés során szabálytalanságot tapasztal, a törvényesség helyreállítására – határidő megjelölése mellett – felhívja a kamara elnökét. Ha a kamara működésének törvényessége másképpen nem állítható helyre, a rendészetért felelős miniszter a határidő leteltétől számított harminc napon belül bírósághoz fordulhat.
+(4) Ha a rendészetért felelős miniszter az ellenőrzés során szabálytalanságot tapasztal, a törvényesség helyreállítására – határidő megjelölése mellett – felhívja a kamara elnökét.
