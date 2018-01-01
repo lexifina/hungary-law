@@ -1,0 +1,3 @@
+23. § (1) A közalkalmazott esetében, ha munkaköre ellátásához az e rendelet hatálya alá nem tartozó, azonban más jogszabály vagy közjogi szervezetszabályozó eszköz által előírt továbbképzési kötelezettségét teljesítette, az ott szerzett továbbképzési pontok az e rendelet szerinti továbbképzési kötelezettség teljesítésébe – a közalkalmazott kérelmére – beszámításra kerülnek, legfeljebb a továbbképzési időszakra előírt tanulmányi pont 50%-áig.
+
+(2) Ha a közalkalmazott oktatói, tananyagfejlesztői feladatot lát el, e tevékenység az e rendelet szerinti továbbképzési kötelezettség teljesítésébe – a közalkalmazott kérelmére a munkáltató döntése alapján – beszámításra kerülhet, legfeljebb 8 tanulmányi pontértékig.
