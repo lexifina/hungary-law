@@ -8,9 +8,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ)
 
-2016 szeptember
-
-| ÖVTJ-kód | ÖVTJ megnevezés |
+| ÖVTJ-kód 2017 | ÖVTJ 2017 megnevezés |
 
 | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 
@@ -562,7 +560,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 1102 | Szőlőbor termelése |
 
-| 110201 | Bortermelés (nem saját termelésű alapanyagól) m.n.s. |
+| 110201 | Bortemelés (nem saját termelésű alapanyagól) m.n.s. |
 
 | 110202 | Pezsgőtermelés (nem saját termelésű alapanyagból) |
 
@@ -982,7 +980,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 204201 | Testápolási cikk gyártása |
 
-| 204202 | Kézműves szappanok készítése |
+| 204202 | Kézműves szappanok és kozmetikumok készítése |
 
 | 205 | Egyéb vegyi termék gyártása |
 
@@ -1818,6 +1816,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 329916 | Dekorációs szolgáltatás |
 
+| 329917 | Címfestés |
+
 | 33 | Ipari gép, berendezés, eszköz javítása, üzembe helyezése |
 
 | 331 | Ipari gép, berendezés, eszköz javítása |
@@ -2040,8 +2040,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 332043 | Ipari időmérő műszer, készülék üzembe helyezése |
 
-| 332044 | Technológiai csővezeték rendszer kiépítése és üzembe helyezése |
-
 | 35 | Villamosenergia-, gáz-, gőzellátás, légkondicionálás |
 
 | 351 | Villamosenergia-termelés, -ellátás |
@@ -2056,11 +2054,15 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 351401 | Ügyfélszerzés villamosenergia-szolgáltató részére |
 
+| 351402 | Villamosenergia ügynöki kiskereskedelme |
+
 | 352 | Gázellátás |
 
 | 3523 | Gázkereskedelem |
 
 | 352301 | Ügyfélszerzés gázszolgáltató részére |
+
+| 352302 | Gáz ügynöki kiskereskedelme |
 
 | 353 | Gőzellátás, légkondicionálás |
 
@@ -2282,6 +2284,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 432208 | Fűtőberendezés szerelése |
 
+| 432209 | Gázszállító rendszerek szerelése |
+
 | 4329 | Egyéb épületgépészeti szerelés |
 
 | 432901 | Egyéb m.n.s. épületgépészeti szerelés |
@@ -2350,7 +2354,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 433902 | Sírkő felállítása, javítása, felújítása, tisztítása, bontása helyszínen |
 
-| 433903 | Betonfúrás és -vágás, szögbelövés |
+| 433903 | Betonfúrás és -vágás, szögbelövés, |
 
 | 439 | Egyéb speciális szaképítés |
 
@@ -2486,9 +2490,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 461101 | Mezőgazdasági termék ügynöki nagykereskedelme |
 
-| 4612 | Alapanyag, üzemanyag ügynöki nagykereskedelme |
+| 4612 | Tüzelő- és üzemanyag, érc, fém és vegyipari alapanyag ügynöki nagykereskedelme |
 
-| 461201 | Alapanyag, üzemanyag ügynöki nagykereskedelme |
+| 461201 | Tüzelő- és üzemanyag, érc, fém és vegyipari alapanyag ügynöki nagykereskedelme |
 
 | 461202 | Befektetési arany ügynöki nagykereskedelme |
 
@@ -2640,9 +2644,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 464202 | Ruházat, lábbeli külkereskedelme |
 
-| 4643 | Elektronikus háztartási cikk nagykereskedelme |
+| 4643 | Elektromos háztartási cikk nagykereskedelme |
 
-| 464301 | Elektronikus háztartási cikk nagykereskedelme m.n.s. |
+| 464301 | Elektromos háztartási cikk nagykereskedelme |
 
 | 464302 | Elektromos háztartási cikk külkereskedelme |
 
@@ -2846,9 +2850,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 472103 | Savanyúság-kiskereskedelem |
 
-| 4722 | Hús, húsáru kiskereskedelme |
+| 4722 | Hús-, húskészítmény kiskereskedelme |
 
-| 472201 | Egyéb húsáru-kiskereskedelem |
+| 472201 | Hús-, húskészítmény kiskereskedelme m.n.s. |
 
 | 472202 | Vadhús kiskereskedelem |
 
@@ -2890,7 +2894,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 4730 | Gépjárműüzemanyag-kiskereskedelem |
 
-| 473001 | Gépjárműüzemanyag-kiskereskedelem m.n.s. |
+| 473001 | Gépjármű üzemanyag kiskereskedelem m.n.s. |
 
 | 473002 | Egyéb kőolajszármazék kiskereskedelem |
 
@@ -3462,6 +3466,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 563006 | Kávézó, teázó (nem melegkonyhás) |
 
+| 563007 | Egyéb italszolgáltatás |
+
 | 58 | Kiadói tevékenység |
 
 | 581 | Kiadói tevékenység |
@@ -3714,7 +3720,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 683103 | Egyéb ingatlan közvetítése |
 
-| 683104 | Igazságügyi ingatlan értékbecslés |
+| 683104 | Igazságügyi szakértés lakásügyi területen |
 
 | 6832 | Ingatlankezelés |
 
@@ -3782,9 +3788,11 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 702205 | Egyéb projektvezetési szolgáltatás, kivéve építési projekt |
 
-| 71 | Építészmérnöki tevékenység; műszaki vizsgálat, elemzés |
+| 702206 | Közbeszerzési tanácsadás |
 
-| 711 | Építészmérnöki tevékenység; műszaki tanácsadás |
+| 71 | Mérnöki és építészmérnöki tevékenység; műszaki vizsgálat, elemzés |
+
+| 711 | Mérnöki és építészmérnöki tevékenység; műszaki tanácsadás |
 
 | 7111 | Építészmérnöki tevékenység |
 
@@ -3805,6 +3813,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 711110 | Területrendezési tervezés |
 
 | 711111 | Településrendezési szakértő |
+
+| 711112 | Igazságügyi szakértés településrendezési területen |
 
 | 7112 | Mérnöki tevékenység, műszaki tanácsadás |
 
@@ -3832,7 +3842,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 711214 | Tűzvédelmi tervező tevékenység |
 
-| 711215 | Igazságügyi szakértés lakás- és építésügyi, területrendezési területen |
+| 711215 | Igazságügyi szakértés építésügyi területen |
 
 | 711216 | Építési műszaki ellenőrzés (technikus) |
 
@@ -3936,7 +3946,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 749002 | Közvetítési, ügynöki szolgáltatás |
 
-| 749003 | Értékbecslő igazságügyi szakértés (kivéve: ingatlanbecslés, biztosításikár-becslés) |
+| 749003 | Értékbecslő igazságügyi szakértés |
 
 | 749004 | Becsüs (kivéve: ingatlan-, biztosításikár-szakértés) |
 
@@ -3956,29 +3966,19 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 749013 | Falugazdász tevékenység |
 
-| 749014 | Igazságügyi tűzvédelmi szakértés |
+| 749014 | Igazságügyi szakértés tűzvédelmi, személy- és vagyonvédelmi területeken |
 
 | 749015 | Minőségbiztosítási ügyintézés, tanácsadás |
 
 | 749016 | Igazságügyi szakértés környezetvédelmi, természetvédelmi és vízügyi területen |
 
-| 749021 | Igazságügyi mágneseskép-, és adatrögzítő-szakértés (nem számítástechnikai) |
-
-| 749022 | Igazságügyi természettudományi szakértés |
-
-| 749023 | Igazságügyi piackutatás- és reklámszakértés |
-
 | 749024 | Igazságügyi szakértés kulturális területen |
 
-| 749025 | Igazságügyi toxikológiai szakértés |
-
-| 749026 | Igazságügyi pszichológiai szakértés (nem egészségügyi) |
-
-| 749029 | Igazságügyi biológiai és orvosszakértés (nem egészségügyi ellátás keretében) |
+| 749029 | Igazságügyi szakértés orvosi, egyes pszichológiai és biológiai területen |
 
 | 749031 | Haszonállatok törzskönyvezése |
 
-| 749032 | Igazságügyi kriminalisztikai szakértés |
+| 749032 | Igazságügyi szakértés kriminalisztikai területen |
 
 | 749033 | M.n.s. egyéb igazságügyi szakértő |
 
@@ -3990,11 +3990,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 749038 | Meteorológiai szolgáltatás |
 
-| 749039 | Igazságügyi állatorvosi szakértés |
+| 749039 | Igazságügyi állategészségügyi szakértés |
 
 | 749040 | Gombaszakértés |
-
-| 749041 | Igazságügyi szakértés személy- és vagyonvédelmi területen |
 
 | 749042 | Igazságügyi szakértés munkabiztonsági területen |
 
@@ -4002,29 +4000,27 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 749044 | Igazságügyi szakértés informatikai és hírközlési területen |
 
-| 749045 | Igazságügyi szakértés pedagógiai és gyógypedagógiai területen |
+| 749045 | Igazságügyi szakértés gyógypedagógiai és egyes pszichológiai területen |
 
-| 749046 | Igazságügyi szakértés közgazdaság, vám- és pénzügyi területen |
+| 749046 | Igazságügyi szakértés közgazdaság, vám- és egyes pénzügyi területen |
 
 | 749047 | Igazságügyi idegenforgalmi szakértés |
 
 | 749048 | Igazságügyi szakértés az audiovizuális média területén |
 
-| 749049 | Igazságügyi szakértés mezőgazdasági, erdő- és vadgazdálkodási, élelmiszeripari területen |
+| 749049 | Igazságügyi szakértés mező- és erdőgazdálkodási, élelmiszer-ipari területen |
 
-| 749050 | Hivatalos közbeszerzési tanácsadó |
-
-| 749051 | Igazságügyi hangszerszakértői tevékenység |
-
-| 749052 | Képesítéshez kötött nyomástartó berendezés kezelés |
-
-| 749053 | Képesítéshez kötött kompresszor-kezelés |
-
-| 749054 | Képesítéshez kötött ipari hűtőgép kezelés |
+| 749054 | Ipari hűtőgép kezelés |
 
 | 749055 | Felvonó- és mozgólépcső ellenőri tevékenység |
 
 | 749056 | Közlekedésbiztonsági vizsgálat |
+
+| 749057 | Igazságügyi szakértés titokvédelmi területen |
+
+| 749058 | Szociálpolitikai szakértés |
+
+| 749059 | Gyermekvédelmi szakértés |
 
 | 75 | Állat-egészségügyi ellátás |
 
@@ -4272,8 +4268,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 829903 | Aukció, árverés |
 
-| 829904 | Címfestés |
-
 | 829905 | Építésügyi igazgatási szakértő |
 
 | 84 | Közigazgatás, védelem; kötelező társadalombiztosítás |
@@ -4502,14 +4496,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 879001 | Egyéb bentlakásos ellátás |
 
-| 879002 | Hajléktalan személyek átmeneti szállásának működtetése |
-
-| 879003 | Hajléktalan személyek rehabilitációs intézményének működtetése |
-
-| 879004 | Hajléktalanok éjjeli menedékhelyének és átmeneti szállásának működtetése |
-
-| 879005 | Éjjeli menedékhely működtetése |
-
 | 879007 | Önálló helyettes szülői tevékenység |
 
 | 879008 | Helyettes szülői hálózat működtetése |
@@ -4528,8 +4514,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 879015 | Utógondozó otthon működtetése |
 
-| 879016 | Támogatott lakhatás hajléktalan személyek részére |
-
 | 88 | Szociális ellátás bentlakás nélkül |
 
 | 881 | Idősek, fogyatékosok szociális ellátása bentlakás nélkül |
@@ -4543,6 +4527,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 881004 | Házi segítségnyújtás |
 
 | 881005 | Jelzőrendszeres házi segítségnyújtás |
+
+| 881006 | Foglalkozási rehabilitációs szolgáltatás |
 
 | 889 | Egyéb szociális ellátás bentlakás nélkül |
 
@@ -4566,15 +4552,13 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 889902 | Hivatásos gondnok |
 
-| 889903 | Gyermekjóléti szolgálat működtetése |
-
-| 889904 | Gyermekjóléti központ működtetése |
-
-| 889905 | Területi gyermekvédelmi szakszolgáltatás működtetése |
-
-| 889906 | Családsegítés, közösségi ellátások |
-
 | 889907 | Utcai szociális munka |
+
+| 889908 | Hivatásos támogatói tevékenység |
+
+| 889909 | Családsegítés és gyermekjóléti szolgáltatás |
+
+| 889910 | Közösségi ellátás |
 
 | 90 | Alkotó-, művészeti, szórakoztató tevékenység |
 
@@ -4848,7 +4832,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 960208 | Kozmetika, szépségápolás az ügyfél otthonában |
 
-| 960209 | Kéz- és lábápolás az ügyfél otthonában |
+| 960209 | Kéz és lábápolás az ügyfél otthonában |
 
 | 9603 | Temetkezés, temetkezést kiegészítő szolgáltatás |
 
@@ -4908,4 +4892,4 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 990001 | Külföldi képviseletet ellátó személy |
 
-[^2]: A Melléklet a 24/2016. (VIII. 30.) MvM rendelet 1. §-ával megállapított szöveg.
+[^2]: A Melléklet a 34/2017. (XII. 19.) MvM rendelet 1. §-ával megállapított szöveg.
