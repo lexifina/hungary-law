@@ -9,3 +9,15 @@
 (3) Az engedélytől eltérő tevékenység folytatása esetén a 18. § (1) bekezdése szerinti engedélyt fel kell függeszteni, vagy vissza kell vonni. A felfüggesztés időtartama a fennálló hiányosság megszüntetéséig, a szabálytalan működés megváltoztatásáig, de legfeljebb hat hónapig tarthat. A felfüggesztés eredménytelensége esetén az engedélyt vissza kell vonni.
 
 (4) A 18. § (1) bekezdése szerinti, engedélyezett tevékenységet végzők kötelesek a tevékenységükkel összefüggő — jogszabályban meghatározott — szakmai adatokat a tenyésztési hatóság rendelkezésére bocsátani.
+
+(5) A 18. § (1) bekezdés a), c), d) és e) pontja szerint engedélyezett tevékenységet a tenyésztési hatóság e törvény végrehajtására kiadott jogszabályban meghatározott módon felülvizsgálja.
+
+(6) Az (5) bekezdés szerinti felülvizsgálat alapján a tenyésztési hatóság az engedély
+
+a) hatályát a következő felülvizsgálatig meghosszabbítja,
+
+b) hatályának meghosszabbítását feltételhez köti,
+
+c) visszavonásáról dönt, vagy
+
+d) legfeljebb hat hónapra történő felfüggesztéséről rendelkezik.

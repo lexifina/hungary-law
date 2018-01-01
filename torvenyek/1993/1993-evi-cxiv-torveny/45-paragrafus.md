@@ -6,7 +6,7 @@ a) jogsértő állapot megszüntetésének elrendelése;
 
 b) jogsértő magatartás jövőbeni tanúsításától történő eltiltás;
 
-c) a jogsértést megállapító jogerős határozat nyilvános közzétételének elrendelése legfeljebb 6 hónap időtartamra;
+c) a jogsértést megállapító véglegessé vált határozat közhírré tételének elrendelése legfeljebb 6 hónap időtartamra;
 
 d) e törvény alapján kiadott engedély vagy tenyésztőszervezeti elismerés visszavonása;
 

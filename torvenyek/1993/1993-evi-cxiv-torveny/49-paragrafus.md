@@ -50,6 +50,8 @@ c) az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabá
 
 a) a tenyésztési hatóságot vagy hatóságokat rendeletben jelölje ki,
 
-b) az e törvényben előírt nyilvántartások vonatkozásában az adatkezelést rendeletben szabályozza.
+b) az e törvényben előírt nyilvántartások vonatkozásában az adatkezelést rendeletben szabályozza,
+
+c) a nyilvántartást vezető szervet rendeletben jelölje ki.
 
 ## Melléklet az 1993. évi CXIV. törvényhez

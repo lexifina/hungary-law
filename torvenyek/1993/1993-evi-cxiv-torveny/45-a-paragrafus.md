@@ -38,12 +38,12 @@ l) határidőben nem tesz eleget a 48/A. § (2) bekezdésében foglalt köteleze
 
 (7) A szankciók alkalmazásakor, illetve bírság kiszabásakor a hatóság által előírt intézkedés végrehajtásának költsége a jogsértőt terheli.
 
-(8) A szankciót, bírságot megállapító határozat ellen fellebbezésnek helye nincs, de bíróságon megtámadható.
+(8) A szankciót, bírságot megállapító határozat ellen fellebbezésnek helye nincs.
 
 (9) A bírságot 15 napon belül kell befizetni és a bírósági jogorvoslattól függetlenül azonnali végrehajtása vagy biztosítási intézkedés rendelhető el.
 
 (10) Ha a jogi személyre vagy a jogi személyiséggel nem rendelkező szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet kötelezettségeiért a törvény alapján felel.
 
-(11) A meg nem fizetett állattenyésztési bírság adók módjára behajtandó köztartozásnak minősül.
+(11)
 
 (12)

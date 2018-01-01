@@ -4,7 +4,7 @@
 
 (2) A teljesítményvizsgálatokat és az ellenőrző teszteket a tenyésztési hatóság végzi térítés ellenében, melynek alapján becsli a tenyészértéket és a végtermék teljesítményeket.
 
-(3) A tenyésztési hatóság — ellenőrzése mellett — elismert tenyésztő szervezetet is megbízhat a teljesítményvizsgálatok végzésével, kivéve a fajtaelismerésre irányuló vizsgálatokat.
+(3) A tenyésztési hatóság – ellenőrzése mellett – elismert tenyésztő szervezetet is megbízhat a teljesítményvizsgálatok végzésével, kivéve a fajtaelismerésre irányuló vizsgálatokat. A megbízás alapján végzett teljesítményvizsgálatokat a tenyésztési hatóság rendszeresen felülvizsgálja.
 
 (4) A tenyésztési hatóság a tenyészértékbecsléskor más vizsgálatok eredményeit is alapul veheti, ha azokat elismert tenyésztő szervezet végzi, vagy annak megbízásából és ellenőrzése mellett végzik, és az alkalmazott vizsgálati módszerrel az eredmények hiteles és szakszerű megállapítása biztosított.
 

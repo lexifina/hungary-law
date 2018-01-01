@@ -1,5 +1,3 @@
-## Mesterséges termékenyítő állomás üzemeltetése
-
 31. § (1) A mesterséges termékenyítő állomás üzemeltetésére vonatkozó — a 18. § (1) bekezdés a) pontja szerinti — engedélyt a tenyésztési hatóság megadja, ha
 
 a) az rendelkezik a — jogszabályok által előírt — személyi és egyéb feltételekkel;

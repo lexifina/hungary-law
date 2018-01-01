@@ -1,6 +1,6 @@
 ## Tenyésztő szervezetkénti elismerés
 
-20. § (1) A tenyésztéssel foglalkozó egyesület, szövetség, illetve vállalkozás tenyésztő szervezetkénti elismerésére és az elismerés visszavonására a tenyésztési hatóság jogosult. Az elismerési eljárás kérelem alapján indul. Az elismerés megadása vagy megtagadása nem érinti az egyesület, szövetség külön törvény szerinti jogszerű működését.
+20. § (1) A tenyésztéssel foglalkozó egyesület, szövetség, illetve vállalkozás tenyésztő szervezetkénti elismerésére és az elismerés visszavonására a tenyésztési hatóság jogosult. A tenyésztőszervezet elismerése iránti eljárás (a továbbiakban ezen alcím vonatkozásában: elismerési eljárás) írásbeli vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton benyújtott (a továbbiakban együtt: írásbeli) kérelem alapján indul. Az elismerés megadása vagy megtagadása nem érinti az egyesület, szövetség külön törvény szerinti jogszerű működését.
 
 (2) A tenyésztési hatóság a tenyésztéssel foglalkozó szervezetet tenyésztőként elismeri, ha
 
@@ -16,4 +16,10 @@ e) a tenyészállatokat egyedenként, a 8. §-ban foglaltak szerint tartósan ú
 
 f) a törzskönyvet vagy tenyésztési főkönyvet a tenyésztési program előírásainak megfelelően vezetik.
 
+(2a) E törvény végrehajtására kiadott jogszabály – a (2) bekezdésben meghatározott feltételeken túl – a tenyésztőszervezeti elismerési eljárásban további feltételt írhat elő.
+
+(2b) A miniszter a tenyésztőszervezeti elismerés iránti kérelmet elutasíthatja, ha a kérelemben foglalt, fenntartani kívánt fajta tenyésztésének engedélyezése egy már elismert vagy ideiglenes elismert tenyésztő szervezet által fenntartott fajta fenntartását súlyosan veszélyezteti.
+
 (3) A tenyésztő szervezet elismerésére irányuló eljárás során az ügyintézési határidő 4 hónap.
+
+(5) A tenyésztőszervezeti elismerésre irányuló eljárás tekintetében a fajtaelismerési eljárás megelőző eljárásnak minősül.

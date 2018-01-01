@@ -6,7 +6,9 @@ b) apaállat felhasználását szaporítóanyag előállításra;
 
 c) embrióátültető állomás üzemeltetését;
 
-d) baromfi- és halkeltető állomás, valamint méhanyanevelő telep üzemeltetését.
+d) baromfi- és halkeltető állomás, valamint méhanyanevelő telep üzemeltetését;
+
+e) méhanyanevelő telep pároztatótelepnek való minősítését.
 
 (2) A 17. § b) pontja alapján a tenyésztési hatóság ellenőrzi
 
@@ -60,6 +62,8 @@ h) a vágóhídi minősítő helyekről, minősítő szervezetekről, vágóáll
 
 i) az állatok egységes azonosítási és nyilvántartási rendszerében igényelhető füljelzőkről.
 
+j) a génbankban elhelyezett szaporítóanyagról és genetikai mintáról.
+
 (6) Az (5) bekezdés szerinti nyilvántartás tartalmazza:
 
 a) természetes személy esetén a nevet, születési nevet, születési helyet, születési időt, anyja nevét, állampolgárságot, lakhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím), számlázási nevet, számlázási címet;
@@ -68,4 +72,4 @@ b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet eset�
 
 (7) A tenyésztési hatóság az általa nyilvántartott adatokból adatbázist hoz létre. A tenyésztési hatóság a nyilvántartásában lévő adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
-(8) A tenyésztési hatóság közigazgatási eljárásban országos illetékességgel hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+(8)
