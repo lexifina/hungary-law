@@ -30,7 +30,7 @@
 
 | – ha a szennyvízcsatorna mélyebben fekszik, mint a vízcső és a két vezeték közötti szintkülönbség 0,5-1 m között van | A vezetékek építésére az előző bekezdésben a szennyvízcsatornára vonatkozóan foglaltak irányadók |
 
-5. számú melléklet a 123/1997. (VII. 18.) Korm. rendelethez[^51]
+5. számú melléklet a 123/1997. (VII. 18.) Korm. rendelethez[^49]
 
 ## A védőterületek és védőidomok övezeteire vonatkozó korlátozások
 
@@ -174,4 +174,4 @@
 
 | 4 | + | = | Nincs korlátozva |
 
-[^51]: Az 5. számú melléklet a 147/2010. (IV. 29.) Korm. rendelet 79. §-ával megállapított szöveg.
+[^49]: Az 5. számú melléklet a 147/2010. (IV. 29.) Korm. rendelet 79. §-ával megállapított szöveg.
