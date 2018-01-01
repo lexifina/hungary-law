@@ -30,7 +30,7 @@ n) engedély kibocsátóját.
 
 (2) A tulajdonos és a birtokos a 7. § (2) bekezdés a) pontja szerinti, általa nyilvántartott sugárforrások készletében beálló minden változásról köteles a Hivatalnak 15 napon belül adatot szolgáltatni, a központi nyilvántartás által támogatott elektronikus formában.
 
-(3) A 7. § (2) bekezdés a) pontja szerinti sugárforrások tulajdonosának személyében bekövetkező változás (a továbbiakban: a sugárforrás átadása) esetében a sugárforrás átvevőjének kérelmére a Hivatal új hatósági bizonyítványt állít ki. A sugárforrás átadását okirattal kell igazolni. Az igazoló okirat másolatát az átadó köteles a Hivatal részére megküldeni. A tulajdonos személyében bekövetkező változás esetén, amennyiben az átadott zárt sugárforrás már rendelkezik hatósági bizonyítvánnyal, úgy a tulajdonos változást igazoló okirathoz mellékelni kell a hatósági bizonyítványt is. A tulajdonos személyében bekövetkező változás esetében a zárt sugárforrás átvételének igazolását követően, a radioaktív hulladékká minősített zárt sugárforrások átvételét kivéve, a Hivatal az átvevő részére az új tulajdonos adatait tartalmazó új hatósági bizonyítványt állít ki.
+(3)[^16]
 
 (4) A 7. § (2) bekezdés a) pontja szerinti sugárforrás átadását rögzítő okiratnak a következőket kell tartalmaznia:
 
@@ -69,3 +69,5 @@ e) a tervezett szállítás időpontját magában foglaló időintervallum.
 (6) Az egyedi radionuklidra vonatkozó D aktivitásokat e rendelet melléklete tartalmazza.
 
 (7) Az értesítés nem helyettesíti a rendeletben előírt további adatszolgáltatási kötelezettségeket.
+
+[^16]: A 11. § (3) bekezdését az 52/2017. (XII. 22.) NFM rendelet 14. § e) pontja hatályon kívül helyezte.

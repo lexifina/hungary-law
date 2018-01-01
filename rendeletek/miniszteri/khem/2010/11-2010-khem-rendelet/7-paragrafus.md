@@ -1,3 +1,5 @@
+## 6. §
+
 ## 5. Helyi nyilvántartás
 
 7. § (1) A tulajdonosoknak a tulajdonukban és a birtokosoknak a birtokukban lévő radioaktív anyagokról helyi nyilvántartást kell vezetniük. A helyi nyilvántartásnak tartalmaznia kell a tulajdonos vagy a birtokos birtokában lévő radioaktív anyag
@@ -24,7 +26,7 @@ b) a nyitott sugárforrásokról a radioaktív hulladékok kivételével, a nem 
 
 c) a radioaktív hulladékokról, kivéve a radioaktív hulladékká minősített zárt sugárforrásokat.
 
-(3) A helyi nyilvántartás létrehozásakor annak adattartalmáról a nyilvántartás felelőse a leltározás szabályainak megfelelően adatot szolgáltat a Hivatalnak a központi nyilvántartás által támogatott elektronikus formában.
+(3)[^10] A helyi nyilvántartás létrehozásakor annak adattartalmáról a nyilvántartás felelőse a leltározás szabályainak megfelelően adatot szolgáltat az Országos Atomenergia Hivatalnak (a továbbiakban: Hivatal) a központi nyilvántartás által támogatott elektronikus formában.
 
 (4) A helyi nyilvántartásba haladéktalanul be kell vezetni a radioaktív anyag
 
@@ -48,7 +50,7 @@ b) alkalmazás időpontját;
 
 c) alkalmazás helyét;
 
-d)[^10] a nyilvántartás vezetésére kötelezett
+d)[^11] a nyilvántartás vezetésére kötelezett
 
 da) természetes személy nevét vagy
 
@@ -94,9 +96,9 @@ c) tulajdonos vagy birtokos változást igazoló okiratok,
 
 d) lezárt izotóp-nyilvántartó könyvek,
 
-amelyek a nyilvántartás alapiratainak minősülnek.
+## amelyek a nyilvántartás alapiratainak minősülnek.
 
-(10)[^11] A nyilvántartás (9) bekezdés szerinti alapiratait az Atv. 16. § (2) bekezdése szerinti határidőig meg kell őrizni, azt követően pedig a Hivatalnak kell átadni. Ezen iratokat a Hivatal az Atv. 16. § (6) bekezdése szerint kezeli és az adatkezelési idő lejártát követően az archív adatbázisba helyezi. A Hivatal az adatok átadásáról, valamint archív adatbázisba helyezéséről a sugáregészségügyi feladatokat ellátó kormányhivatalt értesíti.
+(10)[^12] A nyilvántartás (9) bekezdés szerinti alapiratait az Atv. 16. § (2) bekezdése szerinti határidőig meg kell őrizni, azt követően pedig a Hivatalnak kell átadni. Ezen iratokat a Hivatal az Atv. 16. § (6) bekezdése szerint kezeli és az adatkezelési idő lejártát követően az archív adatbázisba helyezi. A Hivatal az adatok átadásáról, valamint archív adatbázisba helyezéséről a sugáregészségügyi feladatokat ellátó kormányhivatalt értesíti.
 
 (11) A tevékenység megszűnése esetében a helyi nyilvántartást – a (12) bekezdésben foglalt kivételekkel – a 10. § (1) bekezdés c) pontja szerinti záró leltárral kell lezárni.
 
@@ -109,5 +111,6 @@ b) a radioaktív hulladék, vagy a végleges elhelyezésre kerülő radioaktív 
 az arra jogosultnak átadásra kerül.
 
 [^9]: [A 7. § (1) bekezdés b) pontjának a 77/2015. (XII. 30.) NFM rendelet 3. § d) pontjával elrendelt módosítása, amely szerint a „nem mentes használati cikkekről” szövegrész helyébe a „nem mentes fogyasztási cikkekről” szöveg lép, nem vezethető át.]
-[^10]: A 7. § (5) bekezdés d) pontja a 13/2014. (III. 14.) NFM rendelet 2. §-ával megállapított szöveg.
-[^11]: A 7. § (10) bekezdése a 76/2012. (XII. 22.) NFM rendelet 17. §-a, az 1/2017. (I. 3.) NFM rendelet 59. §-a szerint módosított szöveg.
+[^10]: A 7. § (3) bekezdése az 52/2017. (XII. 22.) NFM rendelet 13. §-a szerint módosított szöveg.
+[^11]: A 7. § (5) bekezdés d) pontja a 13/2014. (III. 14.) NFM rendelet 2. §-ával megállapított szöveg.
+[^12]: A 7. § (10) bekezdése a 76/2012. (XII. 22.) NFM rendelet 17. §-a, az 1/2017. (I. 3.) NFM rendelet 59. §-a szerint módosított szöveg.

@@ -1,10 +1,12 @@
+## 15–16. §[^18]
+
 ## IV. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
 
 17. § (1) Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
 
-(2)–(3)[^18]
+(2)–(3)[^19]
 
 (4) Ez a rendelet a nagy aktivitású zárt radioaktív sugárforrások és a gazdátlan sugárforrások ellenőrzéséről szóló, 2003. december 22-i 2003/122/Euratom tanácsi irányelv 2. cikk b), g), h), l), m) és n) pontjának, 4. cikkének, 5. cikk (1)–(4) bekezdésének, 6. cikk b) és d) pontjának, 7. cikk (1)–(2) bekezdésének, 13. cikk (1) bekezdésének, 14. cikkének, valamint 16. cikk (1) bekezdésének való megfelelést szolgálja.
 
@@ -768,4 +770,5 @@ Magyarázatok:
 
 – Pu-239/Be-9 és Am-241/Be-9 neutronforrások esetében az aktivitás alatt a Pu-239, illetve Am-241 alfa aktivitása értendő.
 
-[^18]: A 17. § (2)–(3) bekezdését 77/2015. (XII. 30.) NFM rendelet 4. § f) pontja hatályon kívül helyezte.
+[^18]: A 15–16. §-t az 52/2017. (XII. 22.) NFM rendelet 14. § f) pontja hatályon kívül helyezte.
+[^19]: A 17. § (2)–(3) bekezdését 77/2015. (XII. 30.) NFM rendelet 4. § f) pontja hatályon kívül helyezte.
