@@ -14,6 +14,6 @@ b) akire az adónak vagy egy részének megfelelő összeget az a) pontban megha
 
 5. adóáthárítás: a jogosult által megfizetett adónak megfelelő összeg továbbhárítása más személyre;
 
-6. végrehajtható okirat: az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 145. § (1) bekezdésének a)–b) pontjaiban megjelölt, az 1. pontban meghatározott adó fizetését előíró okiratok;
+6. végrehajtható okirat: az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény (a továbbiakban: Avt.) 29. § (1) bekezdésének a)–b) pontjaiban megjelölt, az 1. pontban meghatározott adó fizetését előíró okiratok;
 
 7. adóigazolás: a Rega-tv. 2004. május 1. napja és 2005. december 31. napja között hatályos 11. §-a alapján a vámhatóság által az adó megfizetéséről kiállított igazolás, vagy az adó vámhatóság részére történő megfizetését igazoló egyéb bizonylat.
