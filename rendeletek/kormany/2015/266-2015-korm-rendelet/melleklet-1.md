@@ -1,4 +1,4 @@
-## 7. §[^3] E rendeletnek a Közbeszerzési és Ellátási Főigazgatóság irányító- és logisztikai központjának kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 266/2015. (IX. 14.) Korm. rendelet módosításáról szóló 87/2017. (IV. 10.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4/A. §-át és 4/B. §-át a Módr. hatálybalépésekor[^4] folyamatban lévő ügyekben is alkalmazni kell.
+## 7. §[^4] E rendeletnek a Közbeszerzési és Ellátási Főigazgatóság irányító- és logisztikai központjának kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 266/2015. (IX. 14.) Korm. rendelet módosításáról szóló 87/2017. (IV. 10.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4/A. §-át és 4/B. §-át a Módr. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 266/2015. (IX. 14.) Korm. rendelethez
 
@@ -44,5 +44,5 @@
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 7. §-t a 87/2017. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2017. április 11.
+[^4]: A 7. §-t a 87/2017. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2017. április 11.
