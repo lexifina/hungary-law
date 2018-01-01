@@ -4,10 +4,10 @@
 
 a) a keresőképtelenséget az orvosszakértői szerv szakvéleményével, illetve az orvosszakértői szerv szakvéleményére alapozott egyéb olyan okirattal, amelyből a munkaképesség-változás mértéke megállapítható;
 
-b)[^82] az álláskeresővé vált EGT-állampolgár az álláskeresési támogatás folyósítását a regionális igazgatóság felhívására az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal erre vonatkozó igazolásával;
+b)[^89] az álláskeresővé vált EGT-állampolgár az álláskeresési támogatás folyósítását a regionális igazgatóság felhívására az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal erre vonatkozó igazolásával;
 
 c) a szakképzésben részt vevő EGT-állampolgár a beiratkozást és a képzés várható időtartamát az erről kiállított igazolással.
 
 (3) A (2) bekezdés b) pontjában meghatározott igazolásnak tartalmaznia kell az álláskeresési támogatás folyósítása lejártának várható időpontját.
 
-[^82]: A 28. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 100. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^89]: A 28. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 100. § (1) bekezdés a) pontja szerint módosított szöveg.

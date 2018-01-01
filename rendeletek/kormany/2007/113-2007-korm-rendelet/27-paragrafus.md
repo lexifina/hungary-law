@@ -4,11 +4,11 @@ a) okirattal köteles igazolni, hogy tartási vagy életjáradéki szerződés, 
 
 b) a kezelőorvos által kiállított igazolással köteles igazolni, hogy súlyos egészségügyi okból az EGT-állampolgár, illetve a magyar állampolgár személyes ápolására szorul;
 
-c)[^80] arra hivatkozva, hogy – abban az országban ahonnan érkeznek – az EGT-állampolgárral egy háztartásban élt, köteles ezt okirattal – különösen az erről kiállított hatósági bizonyítvánnyal – vagy egyéb hitelt érdemlő módon igazolni.
+c)[^87] arra hivatkozva, hogy – abban az országban ahonnan érkeznek – az EGT-állampolgárral egy háztartásban élt, köteles ezt okirattal – különösen az erről kiállított hatósági bizonyítvánnyal – vagy egyéb hitelt érdemlő módon igazolni.
 
 (2) A regionális igazgatóság a személyi adat- és lakcímnyilvántartásból adatot igényel arra vonatkozóan, hogy a kérelmezőnek legalább egy éve a magyar állampolgár lakóhelyével vagy a tartózkodási helyével azonos-e a lakóhelye vagy a tartózkodási helye.
 
-(3)[^81] Az eljáró hatóság az (1) és (2) bekezdésekben foglaltakon túl a Tv. 8. § (1) bekezdés a) pontja alapján előterjesztett tartózkodási kártya kiadására irányuló kérelem elbírálása során értékeli az Élettársi Nyilatkozatok Nyilvántartásába történő bejegyzésről szóló határozatot is.
+(3)[^88] Az eljáró idegenrendészeti hatóság az (1) és (2) bekezdésekben foglaltakon túl a Tv. 8. § (1) bekezdés a) pontja alapján előterjesztett tartózkodási kártya kiadására irányuló kérelem elbírálása során értékeli az Élettársi Nyilatkozatok Nyilvántartásába történő bejegyzésről szóló határozatot is.
 
-[^80]: A 27. § (1) bekezdés c) pontja a 290/2010. (XII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^81]: A 27. § (3) bekezdését a 113/2016. (V. 30.) Korm. rendelet 10. §-a iktatta be.
+[^87]: A 27. § (1) bekezdés c) pontja a 290/2010. (XII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^88]: A 27. § (3) bekezdését a 113/2016. (V. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
