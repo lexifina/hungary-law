@@ -2,7 +2,7 @@
 
 9. § (1) A közlekedésbiztonsági szerv a vasúti és víziközlekedési balesetek és események tényállásának megállapítása keretében – szükség esetén a közigazgatási hatósággal egyeztetett módon, a büntetőeljárást nem akadályozva – jogosult különösen arra, hogy
 
-a) a közigazgatási hatósági eljárás általános szabályairól szóló törvény szemlére vonatkozó szabályai szerint haladéktalanul és akadálytalanul, előzetes értesítés nélkül – az esemény vizsgálatára külön jogszabály alapján jogosult más hatóságokkal egyidejűleg is – hozzáférhessen a közlekedési baleset és az egyéb közlekedési esemény helyszínéhez, az eseménnyel érintett járműhöz, az eseménnyel érintett jármű rakományához vagy roncsához, az eseménnyel érintett infrastruktúrához, a forgalomirányító és jelzőberendezésekhez;
+a) az általános közigazgatási rendtartásról szóló törvény szemlére vonatkozó szabályai szerint haladéktalanul és akadálytalanul, előzetes értesítés nélkül – az esemény vizsgálatára külön jogszabály alapján jogosult más hatóságokkal egyidejűleg is – hozzáférhessen a közlekedési baleset és az egyéb közlekedési esemény helyszínéhez, az eseménnyel érintett járműhöz, az eseménnyel érintett jármű rakományához vagy roncsához, az eseménnyel érintett infrastruktúrához, a forgalomirányító és jelzőberendezésekhez;
 
 b) azonnal megkezdhesse a helyszínen található bizonyítékok rögzítése mellett a maradványok és a roncsdarabok vagy alkatrészek, infrastruktúra elemek ellenőrzött eltávolítását vizsgálati vagy elemzési célokra;
 
