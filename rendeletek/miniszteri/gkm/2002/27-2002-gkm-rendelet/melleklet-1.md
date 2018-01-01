@@ -1,6 +1,6 @@
-1. számú melléklet a 27/2002. (XII. 5.) GKM rendelethez[^42]
+1. számú melléklet a 27/2002. (XII. 5.) GKM rendelethez[^24]
 
-A víziközlekedés irányítására szolgáló jelek kialakítása, méretei
+## A víziközlekedés irányítására szolgáló jelek kialakítása, méretei
 
 1. Fogalommeghatározások
 
@@ -46,25 +46,17 @@ Tiltó jelek
 
 A.1
 
-7M14575M_0
-
 | • A jel jelentése: áthaladni tilos; • parton alkalmazva a hajóútra merőlegesen, a híd alatti áthajózás tiltásakor a hídnyílás közepében helyezendő el; • éjszaka a táblát meg kell világítani vagy megfelelő (A.1) fényekkel kell helyettesíteni; • rövid idejű ideiglenes áthaladási tilalom esetén vörös lobogó, illetve fény lengetésével kell helyettesíteni; • két A.1 tábla alkalmazásakor a táblák közti távolság legalább 0,5 méter; |  |
 
 A.2
-
-7M14575M_1
 
 | • a jel jelentése: előzni tilos (minden úszó létesítmény és kötelék részére); • ha a jel csak az egyik irányra érvényes, akkor azt a megközelítés irányába kell fordítani; a tilalom végét az ugyanabba az irányba fordított E.11 jellel kell jelölni; • ha a tilalom mindkét irányra érvényes, a jelet az adott szakasz két végén ugyanazon a parton, a hajóúttal párhuzamosan kell elhelyezni, továbbá arra a II. rész 3. pontjában meghatározott egymás felé fordított kiegészítő táblát kell elhelyezni, melyek jelzik a szakasz hosszúságát, amelyen tilos az előzés; • a jel kiegészíthető a „kishajók kivételével” feliratú táblával; |  |
 
 A.3
 
-7M14575M_2
-
 | • a jel jelentése: kötelékkel haladó hajónak előzni tilos; • alkalmazása azonos az A.2 jellel a hajókötelékek vonatkozásában; |  |
 
 A.4
-
-7M14575M_3
 
 | • a jel jelentése: találkozás és előzés tilos; • a jelet a szakasz két végén, ugyanazon a parton kell elhelyezni a hajóúttal párhuzamosan és a táblára el kell helyezni a II. rész 3. pontjában meghatározott egymás felé fordított kiegészítő táblával, melyek jelzik a szakasz hosszúságát, amelyen tilos találkozni és előzni; |  |
 
@@ -76,33 +68,23 @@ A.4.1
 
 A.5
 
-7M14575M_4
-
 | • a jel jelentése: veszteglés tilos (horgonyozni vagy a parthoz kikötve, a hajóútnak a jel felőli oldalán; a jel hatálya a hajóút középvonaláig terjed ki, vagy az engedélyező hatóság által meghatározott távolságig, amelyet az A.5.1 jelen (méterben) feltüntetett számmal kell közölni; • a jelet a szakasz két végén, ugyanazon a parton kell elhelyezni a hajóúttal párhuzamosan és a táblára el kell helyezni a II. rész 3. pontjában meghatározott egymás felé fordított kiegészítő táblával, melyek jelzik a szakasz hosszúságát, amelyen tilos horgonyozni, és parthoz kikötni; |  |
 
 A.5.1
 
 A.6
 
-7M14575M_5
-
 | • a jel jelentése: tilos horgonyozni, horgonyt, kötelet, láncot vonszolni (a hajóútnak a jel felőli oldalán); a jel hatálya a hajóút középvonaláig terjed ki, vagy – ha a korlátozás nem terjed ki a teljes vagy fél hajóútszélességre – az engedélyező hatóság által meghatározott parttól mért távolságig, amelyet a II. rész 3. pontja szerinti (a tábla alsó éléhez csatlakozó) kiegészítő táblán (méterben) feltüntetett számmal kell közölni; • a jelet a szakasz két végén, ugyanazon a parton kell elhelyezni a hajóúttal párhuzamosan és a táblára el kell helyezni a II. rész 3. pontjában meghatározott egymás felé fordított kiegészítő táblával, melyek jelzik a szakasz hosszúságát, amelyen tilos horgonyozni, kötelet vagy láncot vonszolni; • ha a tilalom csak egy pontra vonatkozik, akkor elegendő egy jel kihelyezése; • ha víz alatti kábelt vagy csővezetéket vezetnek át a medren, akkor – ha a víziúton engedélyezett ez a korlátozás – két jelet kell elhelyezni mindkét parton; |  |
 
 A.7
-
-7M14575M_6
 
 | • a jel jelentése: tilos a parthoz kikötni (a hajóútnak a jel felőli oldalán; a jel hatálya a hajóút középvonaláig terjed ki); • a jelet a szakasz két végén, ugyanazon a parton kell elhelyezni a hajóúttal párhuzamosan, és a táblára el kell helyezni a II. rész 3. pontjában meghatározott egymás felé fordított kiegészítő táblával, melyek jelzik a szakasz hosszúságát, amelyen tilos a parthoz kikötni; • ha a tilalom csak egy pontra vonatkozik, akkor elegendő egy jel kihelyezése; |  |
 
 A.8
 
-7M14575M_7
-
 | • a jel jelentése: megfordulni tilos; • a jelet a szakasz két végén, ugyanazon a parton kell elhelyezni a hajóúttal párhuzamosan, és a táblára el kell helyezni a II. rész 3. pontjában meghatározott egymás felé fordított kiegészítő táblával, melyek jelzik a szakasz hosszúságát, amelyen tilos megfordulni; |  |
 
 A.9
-
-7M14575M_8
 
 | • a jel jelentése: hullámzást kelteni tilos; a jel vízi építmények, létesítmények, veszteglő úszó létesítmények hullámzástól és káros szívóhatástól történő kímélésére alkalmazható; a jelet éjszaka a megfelelő fénnyel kell helyettesíteni; • a jelet a szakasz két végén, ugyanazon a parton kell elhelyezni a hajóúttal párhuzamosan és a táblára el kell helyezni a II. rész 3. pontjában meghatározott egymás felé fordított kiegészítő táblával, melyek jelzik a szakasz hosszúságát, amelyen tilos a hullámkeltés és a szívóhatás keltése; • a jelet az úszó munkagépen nem kell alkalmazni, azonban akkor, ha az úszó munkagép egy kanyarulat alatt dolgozik, a jelet a kanyarulat felett el lehet helyezni úgy, hogy a völgymenetben haladó hajókról látható legyen; a völgymenő hajók kötelesek menetsebességüket kellő időben csökkenteni; |  |
 
@@ -122,15 +104,11 @@ A.11
 
 A.12–13
 
-7M14575M_9
-
 | • A.12: géphajó közlekedése tilos; |  |
 
 | • A.13: a sport- és kedvtelési célú hajó közlekedése tilos; |  |
 
 A.14–15
-
-7M14575M_10
 
 | • A.14: a vízisízés tilos; |  |
 
@@ -138,23 +116,17 @@ A.14–15
 
 A.16–17
 
-7M14575M_11
-
 | • A.16: evezős hajóval közlekedni tilos; |  |
 
 | • A.17: vitorlás deszkával közlekedni tilos; |  |
 
 A.18–19
 
-7M14575M_12
-
 | • A.18: sport- és kedvtelési célú kishajóval nagy sebességgel tilos közlekedni (a sebesség meghatározása a B.6 táblával történhet); |  |
 
 | • A.19: hajó vízre bocsátása vagy partra húzása tilos; |  |
 
 A.20
-
-7M14575M_13
 
 | • A.20: motoros vízi sporteszközzel közlekedni tilos; |  |
 
@@ -172,4 +144,4 @@ B.1
 
 B.2 a
 
-[^42]: Az 1. számú melléklet a 107/2007. (XII. 23.) GKM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^24]: Az 1. számú melléklet a 107/2007. (XII. 23.) GKM rendelet 5. § (1) bekezdése szerint módosított szöveg.

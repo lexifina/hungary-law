@@ -32,6 +32,6 @@ a) HKV-nél alacsonyabb vízszinteknél, valamint ha a víziút osztályának me
 
 b) a kisvízi kitűzés jeleit folyamatosan – külön bejelentés nélkül – a hajóút határára kell helyezni,
 
-c) ha az előírt vízmélység a kétirányú hajózáshoz szükséges szélességben nem biztosítható, akkor találkozási tilalmat kell elrendelni, a hajóút víziútosztályában[^38] meghatározott minimális hajószélesség figyelembevételével.
+c) ha az előírt vízmélység a kétirányú hajózáshoz szükséges szélességben nem biztosítható, akkor találkozási tilalmat kell elrendelni, a hajóút víziútosztályában[^20] meghatározott minimális hajószélesség figyelembevételével.
 
-[^38]: 17/2002. (III. 7.) KöViM rendelet a hajózásra alkalmas, illetőleg a hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek víziúttá nyilvánításáról.
+[^20]: 17/2002. (III. 7.) KöViM rendelet a hajózásra alkalmas, illetőleg a hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek víziúttá nyilvánításáról.

@@ -13,5 +13,3 @@
 a) változó vízállású folyószakasz esetén általános, kisvízi, nagyvízi és téli,
 
 b) egyéb vízterületen általános és téli
-
-kitűzési rend szerint kell végezni.
