@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-235-20-
 | 2016-01-01 | 1997-235-20-22.16 | 418/2015. (XII. 23.) Korm. rendelet |
 | 2017-01-01 | 1997-235-20-22.17 | 418/2015. (XII. 23.) Korm. rendelet |
 | 2017-11-01 | 1997-235-20-22.18 | 418/2015. (XII. 23.) Korm. rendelet |
+| 2018-01-01 | 1997-235-20-22.19 | 418/2015. (XII. 23.) Korm. rendelet |

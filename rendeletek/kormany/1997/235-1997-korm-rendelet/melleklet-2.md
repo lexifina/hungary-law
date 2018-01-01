@@ -78,7 +78,7 @@
 
 |  | Kelte: |  |
 
-|  | Jogerős: |  |
+|  | Véglegessé válásának időpontja: |  |
 
 | c) | Apaság megállapítása iránti per |
 
@@ -100,7 +100,7 @@
 
 ## Határozat kelte:
 
-## Jogerős:
+## Véglegessé válásának időpontja:
 
 ## Eseti gyám neve:
 
@@ -188,7 +188,7 @@
 
 | 5.3. | Kelte: | ......................................................................................................................... |
 
-| 5.4. | Jogerős: | ......................................................................................................................... |
+| 5.4. | Véglegessé válásának időpontja: | ......................................................................................................................... |
 
 | 6. | A családsegítő személyi adatai: |  |
 
@@ -266,7 +266,7 @@
 
 |  | Kelte: |  |
 
-|  | Jogerős: |  |
+|  | Véglegessé válásának időpontja: |  |
 
 ## 3. A megállapított támogatás:
 
@@ -400,7 +400,7 @@
 
 |  | Kelte: |  |
 
-|  | Jogerős: |  |
+|  | Véglegessé válásának időpontja: |  |
 
 |  | Felemelt, leszállított folyósított összeg: |  |
 
@@ -426,7 +426,7 @@
 
 |  | Kelte: |  |
 
-|  | Jogerős: |  |
+|  | Véglegessé válásának időpontja: |  |
 
 |  | A folyósítás összege: |  | Ft/hó |
 
@@ -452,7 +452,7 @@
 
 |  | Kelte: |  |
 
-|  | Jogerős: |  |
+|  | Véglegessé válásának időpontja: |  |
 
 ## IV. számú adatlap
 
@@ -530,7 +530,7 @@
 
 ## Határozat kelte:
 
-## Jogerős:
+## Véglegessé válásának időpontja:
 
 ## Gyermek elhelyezése:
 
@@ -554,7 +554,7 @@
 
 ## Határozat kelte:
 
-## Jogerős:
+## Véglegessé válásának időpontja:
 
 ## Indoka:
 
@@ -708,7 +708,7 @@
 
 | 6.3. | Határozat kelte: | .......................................................................................................................... |
 
-| 6.4. | Jogerős: | .......................................................................................................................... |
+| 6.4. | Véglegessé válásának időpontja: | .......................................................................................................................... |
 
 | 6.5. | Döntés jellege: |  |
 
@@ -818,11 +818,11 @@
 
 | 10.2. | Kelte: | .......................................................................................................................... |
 
-| 10.3. | Jogerős: | ........................................................................................................................” |
+| 10.3. | Véglegessé válásának időpontja: | ........................................................................................................................” |
 
 ## V/A. számú adatlap
 
-## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^52]
+## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^53]
 
 ## (Gyámhivatal tölti ki)
 
@@ -870,7 +870,7 @@
 
 ## Határozat kelte:
 
-## Jogerős:
+## Véglegessé válásának időpontja:
 
 ## 4. A támogatott döntéshozatal jellege:
 
@@ -904,7 +904,7 @@
 
 ## – két támogató esetén a másik támogató neve:
 
-## – két támogató esetén a másik támogatót kirendelő határozat száma, kelte, jogerőre emelkedésének időpontja:
+## – két támogató esetén a másik támogatót kirendelő határozat száma, kelte, véglegessé válásának időpontja:
 
 ## – két támogató esetén a támogatók közötti feladatmegosztás:
 
@@ -930,7 +930,7 @@
 
 ## A felülvizsgálatról hozott határozat kelte:
 
-## Jogerős:
+## Véglegessé válásának időpontja:
 
 ## 8. A támogató felmentésével, elmozdításával, felfüggesztésével, továbbá a támogatói tisztség egyéb megszűnésével kapcsolatos adatok:
 
@@ -942,7 +942,7 @@
 
 ## A felmentésre irányuló eljárás során hozott határozat kelte:
 
-## Jogerős:
+## Véglegessé válásának időpontja:
 
 ## A támogató elmozdítására irányuló eljárás megindításának időpontja:
 
@@ -960,7 +960,7 @@
 
 ## Az elmozdításra irányuló eljárás során hozott határozat kelte:
 
-## Jogerős:
+## Véglegessé válásának időpontja:
 
 ## A támogatói tisztség a támogató halálával történő megszűnésének időpontja: ”
 
@@ -1070,7 +1070,7 @@
 
 |  | Kelte: |  |
 
-|  | Jogerős: |  |
+|  | Véglegessé válásának időpontja: |  |
 
 ## 8. A leltározott vagyon adatai (részletesen a VII. számú adatlapon):
 
@@ -1092,7 +1092,7 @@
 
 |  | Kelte: |  |
 
-|  | Jogerős: |  |
+|  | Véglegessé válásának időpontja: |  |
 
 ## 10. Támogatott döntéshozatal adatai:
 
@@ -1430,7 +1430,7 @@
 
 |  |  | Kelte: | ....................................................................................................... |
 
-|  |  | Jogerős: | ....................................................................................................... |
+|  |  | Véglegessé válásának időpontja: | ....................................................................................................... |
 
 |  | 5. | A térítési díj adatai: |  |
 
@@ -1482,7 +1482,7 @@
 
 |  |  | Kelte: | ....................................................................................................... |
 
-|  |  | Jogerős: | ....................................................................................................... |
+|  |  | Véglegessé válásának időpontja: | ....................................................................................................... |
 
 |  | 8. | Hatósági kötelezés nélkül igénybe vett szolgáltatás megszűnésének |  |
 
@@ -1530,7 +1530,7 @@
 
 ## Határozat kelte:
 
-## Jogerős:
+## Véglegessé válásának időpontja:
 
 ## Döntés jellege:
 
@@ -1574,7 +1574,7 @@
 
 |  | Kelte: |  |
 
-|  | Jogerős: |  |
+|  | Véglegessé válásának időpontja: |  |
 
 ## XI. számú adatlap
 
@@ -1806,7 +1806,7 @@
 
 ## Határozat kelte:
 
-## Jogerős:
+## Véglegessé válásának időpontja:
 
 ## 5. A gyermek intézményi elhelyezésére vonatkozó adatok:
 
@@ -1816,7 +1816,7 @@
 
 ## Határozat kelte:
 
-## Jogerős:
+## Véglegessé válásának időpontja:
 
 ## A befogadás időpontja:
 
@@ -1866,11 +1866,11 @@
 
 ## Határozatok száma: Kelte:
 
-## Jogerős:
+## Véglegessé válásának időpontja:
 
 ## A „B” adatlapból mindig újat kell kitölteni, ha újabb nevelési felügyeletet rendeltek el.
 
-2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^53]
+2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^54]
 
 A „Gyermekeink védelmében” elnevezésű adatlaprendszer
 
@@ -1918,7 +1918,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely54 | Változás1: |
+| Bejelentett tartózkodási hely55 | Változás1: |
 
 |  | Változás2: |
 
@@ -1930,7 +1930,7 @@ I. számú adatlap
 
 | Beszélt nyelve: | Van-e szüksége tolmácsra? igen – milyenre: nem |
 
-54 Korábban „ideiglenes”.
+55 Korábban „ideiglenes”.
 
 | A szülők/törvényes képviselő személyi adatai |
 
@@ -1946,7 +1946,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely55: | Változás1: |
+| Bejelentett tartózkodási hely56: | Változás1: |
 
 |  | Változás2: |
 
@@ -1974,7 +1974,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely56: | Változás1: |
+| Bejelentett tartózkodási hely57: | Változás1: |
 
 |  | Változás2: |
 
@@ -2000,7 +2000,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely57: | Változás1: |
+| Bejelentett tartózkodási hely58: | Változás1: |
 
 |  | Változás2: |
 
@@ -2014,11 +2014,11 @@ I. számú adatlap
 
 | Jogcím/rokonsági fok: |
 
-55 Korábban „ideiglenes”.
-
 56 Korábban „ideiglenes”.
 
 57 Korábban „ideiglenes”.
+
+58 Korábban „ideiglenes”.
 
 | Nevelésbe vett gyermek esetében |
 
@@ -2460,7 +2460,7 @@ VII. számú adatlap
 
 | Védelembe vételi tárgyalás/felülvizsgálatidőpontja: | Tervkészítés időpontja: |
 
-| A védelembe vételi határozat száma, kelte: | Jogerőre emelkedésének kelte: |
+| A védelembe vételi határozat száma, kelte: | Véglegessé válásának kelte: |
 
 I. A védelembe vétel megszüntetésére irányuló munka részletezése az alábbi szempontok figyelembevételével:
 
@@ -2490,7 +2490,7 @@ I. A védelembe vétel megszüntetésére irányuló munka részletezése az al�
 
 2. Az adatlap kitöltője: a család- és gyermekjóléti központ.
 
-3. A kitöltés ideje: a védelembe vételi határozat jogerőre emelkedését követő 15 napon belül.
+3. A kitöltés ideje: a védelembe vételi határozat véglegessé válását követő 15 napon belül.
 
 4. Az adatlap továbbítása:
 
@@ -2676,7 +2676,7 @@ IX. számú adatlap
 
 2. Az adatlap kitöltője: a család- és gyermekjóléti központ.
 
-3. A kitöltés ideje: a nevelésbe vételi határozatot követő 30 napon belül. Módosítására a felülvizsgálati határozat jogerőre emelkedését követő 30 napon belül, illetve szükség szerint kerülhet sor, ezen az adatlapon vagy pótlapok betoldásával.
+3. A kitöltés ideje: a nevelésbe vételi határozatot követő 30 napon belül. Módosítására a felülvizsgálati határozat véglegessé válását követő 30 napon belül, illetve szükség szerint kerülhet sor, ezen az adatlapon vagy pótlapok betoldásával.
 
 4. Az adatlap továbbítása: gyámhivatalnak, a területi gyermekvédelmi szakszolgálatnak és a gyermekvédelmi gyámnak.
 
@@ -2870,11 +2870,11 @@ XI. számú adatlap
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
-| f) Etnikai, nyelvi szempontok:58 |
+| f) Etnikai, nyelvi szempontok:59 |
 
 | Amennyiben az etnikai hovatartozásból feladatok adódnak, azok megnevezése: | Igény: |
 
-58A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+59A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -2882,7 +2882,7 @@ XI. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-| g) Vallás – pl.: vallási ünnepek, szokások:59 |
+| g) Vallás – pl.: vallási ünnepek, szokások:60 |
 
 | Igény: | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -2904,7 +2904,7 @@ XI. számú adatlap
 
 | Célok, megállapodások: |
 
-59 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+60 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | j) A szülő/törvényes képviselő és a gyermek kapcsolatának jellemzése: |
 
@@ -3034,7 +3034,7 @@ XII. számú adatlap
 
 | Milyen feladatokat ad a gyermek esetleges munkába állásának elősegítése? | Milyen segítséget nyújt az intézmény a szülőnek a feladatok ellátásához? |
 
-| Etnikai, nyelvi, kulturális szempontok60 |
+| Etnikai, nyelvi, kulturális szempontok61 |
 
 | Amennyiben etnikai hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok megnevezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3044,9 +3044,9 @@ XII. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-60 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+61 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
-| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások61 |
+| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások62 |
 
 | Amennyiben vallási hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok részletezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3072,7 +3072,7 @@ XII. számú adatlap
 
 | Igényel-e az intézménytől segítséget a kapcsolattartás biztosítása? |
 
-61 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+62 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | 3. Van-e hatályban a gyermekre vonatkozó/gyermekkel kapcsolatos gyermekvédelmi hatósági intézkedés, illetve büntetőeljárás? Ha igen, ismertesse! |
 
@@ -4144,5 +4144,5 @@ Az adatlap továbbítása: felülvizsgálat esetén a gyámhivatal és a család
 
 XXII. számú adatlap
 
-[^52]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
-[^53]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja, a 71/2014. (III. 13.) Korm. rendelet 8. § (2) és (4) bekezdése, a 10. § (1) bekezdés d) pontja, a 353/2014. (XII. 29.) Korm. rendelet 29. § b) pontja, a 419/2015. (XII. 23.) Korm. rendelet 17. § (2) bekezdése, a 448/2016. (XII. 19.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^53]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
+[^54]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja, a 71/2014. (III. 13.) Korm. rendelet 8. § (2) és (4) bekezdése, a 10. § (1) bekezdés d) pontja, a 353/2014. (XII. 29.) Korm. rendelet 29. § b) pontja, a 419/2015. (XII. 23.) Korm. rendelet 17. § (2) bekezdése, a 448/2016. (XII. 19.) Korm. rendelet 17. §-a, a 457/2017. (XII. 28.) Korm. rendelet 51. § c) és i) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
