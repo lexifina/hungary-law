@@ -1,3 +1,3 @@
-## 78/E. §[^163]
+## 78/E. §[^177]
 
-[^163]: A 78/E. §-t a 9/2016. (III. 25.) NGM rendelet 34. §-a iktatta be, hatályon kívül helyezte a 36/2016. (IX. 27.) NGM rendelet 4. §-a.
+[^177]: A 78/E. §-t a 9/2016. (III. 25.) NGM rendelet 34. §-a iktatta be, hatályon kívül helyezte a 36/2016. (IX. 27.) NGM rendelet 4. §-a.

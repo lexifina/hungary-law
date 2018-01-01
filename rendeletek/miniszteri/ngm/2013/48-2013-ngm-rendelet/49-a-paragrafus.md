@@ -1,4 +1,4 @@
-49/A. §[^98] (1) A pénztárgéphez hozzárendelten pénztároló eszközt kell tartani.
+49/A. §[^110] (1) A pénztárgéphez hozzárendelten pénztároló eszközt kell tartani.
 
 (2) A pénztároló eszközben levő pénzkészletnek összeg és összetétel szerint meg kell egyeznie a pénztárgépen bizonylatolt értékesítések és egyéb pénzmozgások egyenlegével, kivéve, ha az eltérést az üzemeltető működési sajátosságai okozzák és az eltérés mértéke e működési sajátosságokhoz igazodik.
 
@@ -12,4 +12,4 @@ CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatároz
 
 (6) Amennyiben az üzemeltető az (5) bekezdésben meghatározott pénzátvételi helyeken olyan tevékenységet is végez, melyhez kapcsolódó nyugtaadási kötelezettség kizárólag pénztárgéppel teljesíthető, akkor a pénztárgépben csak az e tevékenysége keretében végzett szolgáltatásnyújtáshoz, termékértékesítéshez kapcsolódó forgalmat köteles rögzíteni.
 
-[^98]: A 49/A. §-t a 9/2016. (III. 25.) NGM rendelet 25. §-a iktatta be.
+[^110]: A 49/A. §-t a 9/2016. (III. 25.) NGM rendelet 25. §-a iktatta be.

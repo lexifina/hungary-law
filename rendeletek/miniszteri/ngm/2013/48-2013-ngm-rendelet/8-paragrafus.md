@@ -1,8 +1,8 @@
 ## 2. Forgalmazási engedély megadására irányuló eljárás kezdeményezése
 
-8. § (1)[^16] A pénztárgép forgalmazási engedélyének megadására irányuló eljárás a Kormányhivatalhoz benyújtott írásbeli kérelemmel kezdeményezhető.
+8. § (1)[^18] A pénztárgép forgalmazási engedélyének megadására irányuló eljárás a Kormányhivatalhoz benyújtott írásbeli kérelemmel kezdeményezhető.
 
-(2)[^17] A kérelemnek tartalmaznia kell:
+(2)[^19] A kérelemnek tartalmaznia kell:
 
 a) a forgalmazó és az AEE gyártó nevét, székhelyét, adószámát,
 
@@ -24,7 +24,7 @@ e) cégszerű aláírást, elérhetőséget (kapcsolattartó telefonos elérhet�
 
 (4) A kérelemhez mellékelni kell az alábbi eszközöket és magyar nyelvű dokumentációkat:
 
-a)[^18] 1 db AEE és AEE gyártói nyilatkozat arról, hogy a berendezés megfelel az e rendeletben előírt feltételeknek, a kijelölt szerviz adatait, elérhetőségét,
+a)[^20] 1 db AEE és AEE gyártói nyilatkozat arról, hogy a berendezés megfelel az e rendeletben előírt feltételeknek, a kijelölt szerviz adatait, elérhetőségét,
 
 b) a pénztárgép és perifériái (kijelzők, billentyűzet, nyomtató, vonalkód olvasó, bankkártya olvasó, stb.) azonosításához szükséges adatok külön-külön feltüntetve (típus vagy rendszer megnevezése, gyártó neve és székhelye), és nyilatkozat arról, hogy a berendezések megfelelnek az e rendeletben előírt feltételeknek,
 
@@ -46,9 +46,9 @@ g) nyilatkozat a felhasználó részére a számlanyomtatás funkció megléte e
 
 h) gyártói nyilatkozat, amely szerint az adóügyi ellenőrző egység adattároló egysége legalább 16 milliárd karaktert képes tárolni, 100 millió karakternél kevesebb memóriahely esetén a berendezés rendszeresen figyelmeztet a tároló megtelésére,
 
-i)[^19] az AEE gyártó igazolása a kijelölt szerviz adatairól.
+i)[^21] az AEE gyártó igazolása a kijelölt szerviz adatairól.
 
-(5)[^20] A gyógyszertárakban használható gyógyszerellátási áruforgalmi és társadalombiztosítási elszámolási számítógépes rendszerek (felhasználói programok) esetében a (4) bekezdésben meghatározottakon túl a kérelemhez mellékelni kell a Nemzeti Egészségbiztosítási Alapkezelő által kiadott, külön jogszabályban meghatározott hitelesítési jegyzőkönyvet is.
+(5)[^22] A gyógyszertárakban használható gyógyszerellátási áruforgalmi és társadalombiztosítási elszámolási számítógépes rendszerek (felhasználói programok) esetében a (4) bekezdésben meghatározottakon túl a kérelemhez mellékelni kell a Nemzeti Egészségbiztosítási Alapkezelő által kiadott, külön jogszabályban meghatározott hitelesítési jegyzőkönyvet is.
 
 (6) A kérelemhez mellékelni kell továbbá:
 
@@ -92,8 +92,8 @@ g) az elektronikus naplófájlok archiválási folyamatának leírását, az arc
 
 (9) A (4)–(8) bekezdésben meghatározott dokumentációt, valamint a 9. §-ban meghatározott kezelői leírást és technikai funkció leírást valamennyi pénztárgép esetén elektronikus adathordozón, elektronikusan szövegszerűen kereshető – nem képi – formátumban (Portable Document Format) kell benyújtani.
 
-[^16]: A 8. § (1) bekezdése a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^17]: A 8. § (2) bekezdése a 9/2016. (III. 25.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^18]: A 8. § (4) bekezdés a) pontja a 9/2016. (III. 25.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^19]: A 8. § (4) bekezdés i) pontját a 9/2016. (III. 25.) NGM rendelet 6. § (3) bekezdése iktatta be.
-[^20]: A 8. § (5) bekezdése a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 8. § (1) bekezdése a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^19]: A 8. § (2) bekezdése a 9/2016. (III. 25.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^20]: A 8. § (4) bekezdés a) pontja a 9/2016. (III. 25.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^21]: A 8. § (4) bekezdés i) pontját a 9/2016. (III. 25.) NGM rendelet 6. § (3) bekezdése iktatta be.
+[^22]: A 8. § (5) bekezdése a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés c) pontja szerint módosított szöveg.

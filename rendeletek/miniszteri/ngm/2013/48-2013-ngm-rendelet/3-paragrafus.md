@@ -20,13 +20,15 @@ b)[^7] azt, hogy az üzemeltető rendelkezésére álló adatok, információk s
 
 (6)[^8] Az egyedi mentesítés iránti kérelem újból benyújtható az egyedi mentesítés lejáratát megelőzően. Ebben az esetben az (1)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
-(7) A kérelem benyújtása és a kérelem tárgyában hozott határozat jogerőre emelkedése közötti időszakban, továbbá az egyedi mentesítés időtartama alatt a pénztárgép üzemeltetője a 3. melléklet A) pont 9. alpontjában foglaltak megfelelő alkalmazásával a 4. mellékletben meghatározott adatokat CD/DVD lemezre, illetve az előzőekkel funkcionalitásában megegyező, egyszer írható optikai adathordozóra menti és havonta, a tárgyhónapot követő hónap 10. napjáig megküldi a székhelye, ennek hiányában telephelye szerint illetékes állami adóhatóságnak. Az adóalany kérelmére az állami adóhatóság az egyedi mentesítés tárgyában hozott határozatában engedélyezheti az adatszolgáltatási kötelezettség (8) bekezdés szerint történő teljesítését.
+(7)[^9] A kérelem benyújtása és a kérelem tárgyában hozott határozat véglegessé válása közötti időszakban, továbbá az egyedi mentesítés időtartama alatt a pénztárgép üzemeltetője a 3. melléklet A) pont 9. alpontjában foglaltak megfelelő alkalmazásával a 4. mellékletben meghatározott adatokat CD/DVD lemezre, illetve az előzőekkel funkcionalitásában megegyező, egyszer írható optikai adathordozóra menti és havonta, a tárgyhónapot követő hónap 10. napjáig megküldi a székhelye, ennek hiányában telephelye szerint illetékes állami adóhatóságnak. Az adóalany kérelmére az állami adóhatóság az egyedi mentesítés tárgyában hozott határozatában engedélyezheti az adatszolgáltatási kötelezettség (8) bekezdés szerint történő teljesítését.
 
 (8) A (7) bekezdéstől eltérően az adóalany a 2. § (1) bekezdés szerinti adatszolgáltatási kötelezettségét úgy is teljesítheti, hogy pénztárgépét a napi zárást követően legalább 1 óra időtartamra úgy helyezi el, hogy az elektronikus hírközlő hálózat elérhető legyen.
 
-(9) Amennyiben az állami adóhatóság az NMHH szakhatósági állásfoglalása alapján megállapítja, hogy az elektronikus hírközlő hálózat az (5) bekezdésben meghatározott időtartam alatt elérhetővé vált, az állami adóhatóság az egyedi mentesítést visszavonja az erről szóló határozat jogerőre emelkedésének napjával.
+(9)[^10] Amennyiben az állami adóhatóság az NMHH szakhatósági állásfoglalása alapján megállapítja, hogy az elektronikus hírközlő hálózat az (5) bekezdésben meghatározott időtartam alatt elérhetővé vált, az állami adóhatóság az egyedi mentesítést visszavonja az erről szóló határozat véglegessé válásának napjával.
 
 [^5]: A 3. § (1) bekezdése a 9/2016. (III. 25.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (2) bekezdése a 9/2016. (III. 25.) NGM rendelet 37. § 1. pontja szerint módosított szöveg.
 [^7]: A 3. § (3) bekezdés b) pontja a 9/2016. (III. 25.) NGM rendelet 38. § 3. pontja szerint módosított szöveg.
 [^8]: A 3. § (6) bekezdése a 9/2016. (III. 25.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^9]: A 3. § (7) bekezdése a 48/2017. (XII. 29.) NGM rendelet 5. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (9) bekezdése a 48/2017. (XII. 29.) NGM rendelet 5. § b) pontja szerint módosított szöveg.

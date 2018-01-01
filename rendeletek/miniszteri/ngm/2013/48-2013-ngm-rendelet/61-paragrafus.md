@@ -1,4 +1,4 @@
-## 60. §[^112]
+## 60. §[^126]
 
 61. § (1) Az AP szám az adóügyi ellenőrző egység és egyben a pénztárgép egyedi azonosító száma.
 
@@ -14,7 +14,7 @@ c) az 5–9. karaktere a forgalmazó által meghatározott, „00001”-gyel kez
 
 (4) A (2) bekezdés a)–b) pontjában meghatározott 1–4. karakter a forgalmazási engedély száma.
 
-(5)[^113] A (2) bekezdés a) pontjában meghatározott karakterként a latin abc nagy betűi használhatók, az „Y” és „Z” betű kivételével.
+(5)[^127] A (2) bekezdés a) pontjában meghatározott karakterként a latin abc nagy betűi használhatók, az „Y” és „Z” betű kivételével.
 
-[^112]: A 60. §-t a 9/2016. (III. 25.) NGM rendelet 38. § 14. pontja hatályon kívül helyezte.
-[^113]: A 61. § (5) bekezdése a 9/2016. (III. 25.) NGM rendelet 37. § 17. pontja szerint módosított szöveg.
+[^126]: A 60. §-t a 9/2016. (III. 25.) NGM rendelet 38. § 14. pontja hatályon kívül helyezte.
+[^127]: A 61. § (5) bekezdése a 9/2016. (III. 25.) NGM rendelet 37. § 17. pontja szerint módosított szöveg.

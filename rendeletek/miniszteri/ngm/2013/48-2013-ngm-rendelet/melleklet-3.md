@@ -44,6 +44,6 @@
 
 | 5. | 4. | Forgalmazási engedély kiterjesztése | kiterjesztésenként 80 000 Ft |
 
-3. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^168]
+3. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^182]
 
-[^168]: A 3. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § c) pontjával megállapított, a 48/2016. (XII. 6.) NGM rendelet 1. §-a, a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés a) és g) pontja szerint módosított szöveg.
+[^182]: A 3. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § c) pontjával megállapított, a 48/2016. (XII. 6.) NGM rendelet 1. §-a, a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés a) és g) pontja szerint módosított szöveg.

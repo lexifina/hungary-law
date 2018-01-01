@@ -4,7 +4,7 @@
 
 1. adóév: az Art.-ban meghatározott adóév,
 
-2.[^126] adóügyi bizonylat: nyugta, egyszerűsített számla, napi forgalmi jelentés, időszakos forgalmi jelentés, nyugta vagy egyszerűsített számla sztornó bizonylata, nyugta vagy egyszerűsített számla visszáru bizonylata, göngyölegjegy, továbbá a napnyitás és a pénzmozgás bizonylat,
+2.[^140] adóügyi bizonylat: nyugta, egyszerűsített számla, napi forgalmi jelentés, időszakos forgalmi jelentés, nyugta vagy egyszerűsített számla sztornó bizonylata, nyugta vagy egyszerűsített számla visszáru bizonylata, göngyölegjegy, továbbá a napnyitás és a pénzmozgás bizonylat,
 
 3. adóügyi nap: a napi nyitás és napi zárás parancs végrehajtása között eltelt idő,
 
@@ -12,19 +12,19 @@
 
 5. adóügyi ellenőrző egység szoftver: az adóügyi ellenőrző egység e rendeletben foglalt funkcióit biztosító, abban működő szoftver,
 
-5a.[^127] AEE gyártó: az a szervezet, amely a pénztárgépbe épített AEE adóügyi információkat (naplóállományokat) tároló és azokat a NAV szerverének továbbító részegységet gyártja; a nem Magyarországon gyártott AEE-k esetén a gyártó magyarországi, jogi személyiséggel rendelkező képviselete minősül AEE gyártónak; képviselettel nem rendelkező gyártó közjegyző által hitelesített meghatalmazással a pénztárgép forgalmazóját jelölheti ki képviseletre,
+5a.[^141] AEE gyártó: az a szervezet, amely a pénztárgépbe épített AEE adóügyi információkat (naplóállományokat) tároló és azokat a NAV szerverének továbbító részegységet gyártja; a nem Magyarországon gyártott AEE-k esetén a gyártó magyarországi, jogi személyiséggel rendelkező képviselete minősül AEE gyártónak; képviselettel nem rendelkező gyártó közjegyző által hitelesített meghatalmazással a pénztárgép forgalmazóját jelölheti ki képviseletre,
 
 6. áfa tábla: az áfa jel és a hozzátartozó érték egymáshoz rendelése,
 
-6a.[^128] átszemélyesítés: üzembe helyezett pénztárgép más üzemeltetőhöz rendelése,
+6a.[^142] átszemélyesítés: üzembe helyezett pénztárgép más üzemeltetőhöz rendelése,
 
 7. bizonylat: adóügyi és nem adóügyi bizonylat,
 
 8 blokkolt állapot: olyan állapot, amelyben a pénztárgép üzemszerű használatra nem alkalmas,
 
-8a.[^129] cserepénztárgép: a cserepénztárgépként üzembe helyezett pénztárgép, amelyet nyugtaadási kötelezettség teljesítésére kizárólag a meghibásodott pénztárgép üzemeltetője használ, kizárólag a javítás ideje alatt,
+8a.[^143] cserepénztárgép: a cserepénztárgépként üzembe helyezett pénztárgép, amelyet nyugtaadási kötelezettség teljesítésére kizárólag a meghibásodott pénztárgép üzemeltetője használ, kizárólag a javítás ideje alatt,
 
-8b.[^130] egyes speciális értékesítések bizonylata: azon ügyletekről kiállított nem adóügyi bizonylat, amelyek tekintetében az üzemeltetőt számlakibocsátási kötelezettség terheli,
+8b.[^144] egyes speciális értékesítések bizonylata: azon ügyletekről kiállított nem adóügyi bizonylat, amelyek tekintetében az üzemeltetőt számlakibocsátási kötelezettség terheli,
 
 9. elektronikus napló: a pénztárgépek lehetséges szolgáltatása, ami biztonságos műszaki megoldással védett tárterület és lenyomatképző eljárás együttes alkalmazásával biztosítja, hogy a kiadott bizonylatok adattartalma a kiadás után manipulálhatatlan módon kerüljön eltárolásra, illetve a kiadott bizonylatok ellenőrzés céljából hozzáférhetőek legyenek,
 
@@ -36,29 +36,29 @@
 
 13. kriptográfiai modul: olyan mikrokontroller, amely a digitális aláírás képzéséhez szükséges feladatokat végzi el,
 
-13a.[^131] mozgóbolt: a kereskedelemről szóló törvény szerinti mozgóbolt,
+13a.[^145] mozgóbolt: a kereskedelemről szóló törvény szerinti mozgóbolt,
 
-13b.[^132] NAV szerver: az online pénztárgépekkel kommunikáló, a NAV által üzemeltetett informatikai rendszer,
+13b.[^146] NAV szerver: az online pénztárgépekkel kommunikáló, a NAV által üzemeltetett informatikai rendszer,
 
-14.[^133] nem adóügyi bizonylat: olyan tranzakciókról készített bizonylat, amely a napi zárás összesítőit nem változtatja meg, ide nem értve a napnyitás és a pénzmozgás bizonylatot,
+14.[^147] nem adóügyi bizonylat: olyan tranzakciókról készített bizonylat, amely a napi zárás összesítőit nem változtatja meg, ide nem értve a napnyitás és a pénzmozgás bizonylatot,
 
 15. pénzátvételi hely: minden olyan hely, ahol az adóalany nyugtaadási kötelezettségével járó fizetés történik,
 
-15a.[^134] pénztárgép: azon hardverelemek és szoftverek összessége, amelyek az ezen rendeletben megkövetelt vagy engedélyezett funkcionalitást biztosítják,
+15a.[^148] pénztárgép: azon hardverelemek és szoftverek összessége, amelyek az ezen rendeletben megkövetelt vagy engedélyezett funkcionalitást biztosítják,
 
-15b.[^135] pénztárgép program: a pénztárgépben működő azon szoftverelemek összessége, melyek az AEE kiszolgálását, a pénztárgép működtetésének biztosítását, valamint a bizonylatok összeállítását ellátja, továbbá a külső számítógépes kapcsolat esetén az azzal való kommunikációban részt vesz,
+15b.[^149] pénztárgép program: a pénztárgépben működő azon szoftverelemek összessége, melyek az AEE kiszolgálását, a pénztárgép működtetésének biztosítását, valamint a bizonylatok összeállítását ellátja, továbbá a külső számítógépes kapcsolat esetén az azzal való kommunikációban részt vesz,
 
 16. stilizált AP jel: az adóügyi bizonylatok záró sorának kezdő szimbóluma,
 
-16a.[^136] számítógép alapú pénztárgép: olyan pénztárgép, amely egy blokknyomtató, az abba épített AEE, illetve egy számítógép és az arra telepített pénztárgép alkalmazás elválaszthatatlan egységeként teljesíti a pénztárgépekre vonatkozó, e rendeletben foglalt követelményeket,
+16a.[^150] számítógép alapú pénztárgép: olyan pénztárgép, amely egy blokknyomtató, az abba épített AEE, illetve egy számítógép és az arra telepített pénztárgép alkalmazás elválaszthatatlan egységeként teljesíti a pénztárgépekre vonatkozó, e rendeletben foglalt követelményeket,
 
-17.[^137]
+17.[^151]
 
-18.[^138] szervizelési tevékenység: a pénztárgép üzembe helyezése, javítása, éves felülvizsgálata, programozása, az adóügyi ellenőrző egység cseréje, továbbá minden olyan művelet elvégzése, amely szabályosan plombált pénztárgépnél, a plomba megbontását igényli, ide nem értve az AEE megbontásával járó javítást,
+18.[^152] szervizelési tevékenység: a pénztárgép üzembe helyezése, javítása, éves felülvizsgálata, programozása, az adóügyi ellenőrző egység cseréje, továbbá minden olyan művelet elvégzése, amely szabályosan plombált pénztárgépnél, a plomba megbontását igényli, ide nem értve az AEE megbontásával járó javítást,
 
-18a.[^139] szolgáltatóhely: szolgáltatási tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség vagy terület, ahol szolgáltatási tevékenységet folytatnak, ideértve a szolgáltatási tevékenység folytatására kialakított járművet, illetve járműre szerelt vagy általa vontatott eszközt, illetve amennyiben a szolgáltatás jellege nem igényel külön helyiséget, akkor a pénzátvétel helye,
+18a.[^153] szolgáltatóhely: szolgáltatási tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség vagy terület, ahol szolgáltatási tevékenységet folytatnak, ideértve a szolgáltatási tevékenység folytatására kialakított járművet, illetve járműre szerelt vagy általa vontatott eszközt, illetve amennyiben a szolgáltatás jellege nem igényel külön helyiséget, akkor a pénzátvétel helye,
 
-18b.[^140] tartalék pénztárgép: az üzemeltető nevére üzembe helyezett, de csak más, nem tartalék pénztárgépének meghibásodása esetén vagy egyéb rendkívüli esetben működtetett pénztárgép.
+18b.[^154] tartalék pénztárgép: az üzemeltető nevére üzembe helyezett, de csak más, nem tartalék pénztárgépének meghibásodása esetén vagy egyéb rendkívüli esetben működtetett pénztárgép.
 
 19. túlcsordulás: olyan esemény, amelynek során egy művelet eredménye nem ábrázolható a számára definiált változóban,
 
@@ -72,18 +72,18 @@
 
 24. üzlet: a kereskedelemről szóló törvény szerinti üzlet.
 
-[^126]: A 67. § 2. pontja a 9/2016. (III. 25.) NGM rendelet 37. § 18. pontja szerint módosított szöveg.
-[^127]: A 67. § 5a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (1) bekezdése iktatta be.
-[^128]: A 67. § 6a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (2) bekezdése iktatta be.
-[^129]: A 67. § 8a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (3) bekezdése iktatta be.
-[^130]: A 67. § 8b. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (3) bekezdése iktatta be.
-[^131]: A 67. § 13a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (4) bekezdése iktatta be.
-[^132]: A 67. § 13b. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (4) bekezdése iktatta be.
-[^133]: A 67. § 14. pontja a 9/2016. (III. 25.) NGM rendelet 37. § 19. pontja szerint módosított szöveg.
-[^134]: A 67. § 15a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (5) bekezdése iktatta be.
-[^135]: A 67. § 15b. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (5) bekezdése iktatta be.
-[^136]: A 67. § 16a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (6) bekezdése iktatta be.
-[^137]: A 67. § 17. pontját a 9/2016. (III. 25.) NGM rendelet 38. § 15. pontja hatályon kívül helyezte.
-[^138]: A 67. § 18. pontja a 9/2016. (III. 25.) NGM rendelet 37. § 20. pontja szerint módosított szöveg.
-[^139]: A 67. § 18a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (7) bekezdése iktatta be.
-[^140]: A 67. § 18b. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (7) bekezdése iktatta be.
+[^140]: A 67. § 2. pontja a 9/2016. (III. 25.) NGM rendelet 37. § 18. pontja szerint módosított szöveg.
+[^141]: A 67. § 5a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (1) bekezdése iktatta be.
+[^142]: A 67. § 6a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (2) bekezdése iktatta be.
+[^143]: A 67. § 8a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (3) bekezdése iktatta be.
+[^144]: A 67. § 8b. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (3) bekezdése iktatta be.
+[^145]: A 67. § 13a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (4) bekezdése iktatta be.
+[^146]: A 67. § 13b. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (4) bekezdése iktatta be.
+[^147]: A 67. § 14. pontja a 9/2016. (III. 25.) NGM rendelet 37. § 19. pontja szerint módosított szöveg.
+[^148]: A 67. § 15a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (5) bekezdése iktatta be.
+[^149]: A 67. § 15b. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (5) bekezdése iktatta be.
+[^150]: A 67. § 16a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (6) bekezdése iktatta be.
+[^151]: A 67. § 17. pontját a 9/2016. (III. 25.) NGM rendelet 38. § 15. pontja hatályon kívül helyezte.
+[^152]: A 67. § 18. pontja a 9/2016. (III. 25.) NGM rendelet 37. § 20. pontja szerint módosított szöveg.
+[^153]: A 67. § 18a. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (7) bekezdése iktatta be.
+[^154]: A 67. § 18b. pontját a 9/2016. (III. 25.) NGM rendelet 33. § (7) bekezdése iktatta be.

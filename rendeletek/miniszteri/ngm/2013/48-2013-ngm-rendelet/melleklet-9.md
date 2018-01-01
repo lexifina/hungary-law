@@ -79,9 +79,3 @@ Az adatsorok fenti sorrendje kötelező.
 A napi forgalmi jelentés bizonylat mintája a következő:
 
 Napi forgalmi jelentés
-
-D) A 3. melléklet I. rész GE pontjában meghatározott Menetjegy storno bizonylat mintája a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonyának bemutatására a következő:
-
-Sztornó bizonylat
-
-E) „Nem adóügyi bizonylat”
