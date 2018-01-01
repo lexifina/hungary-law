@@ -12,7 +12,7 @@ d) a minisztérium által meghatározott, illetve a pályázatban szereplő cél
 
 (2)[^27] A jogosultság további feltétele, hogy az igénylő
 
-a) az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint – a pályázata benyújtásának időpontjában – köztartozásmentes adózónak minősül, és
+a)[^28] az adózás rendjéről szóló törvény szerint – a pályázata benyújtásának időpontjában – köztartozásmentes adózónak minősül, és
 
 aa) ezt 30 napnál nem régebben kiállított közokirattal igazolja, vagy
 
@@ -24,18 +24,19 @@ c) ne álljon egyéni vállalkozók és őstermelők esetében végrehajtás ala
 
 d) ha társasági formában működik, vállalkozása törzstőkéjének mértéke feleljen meg a jogszabályi előírásoknak.
 
-(3)[^28] A program évei alatt történő átalakulás esetében az igénylőnek a támogatásra való jogosultság fenntartása érdekében az átalakulás tényét be kell jelentenie a minisztériumnak. A jogutódnak az átalakulást követő 30 napon belül nyilatkoznia kell a program továbbviteléről és be kell mutatnia a kibontakozási hitelt nyújtó hitelintézet igazolását a program további finanszírozásáról.
+(3)[^29] A program évei alatt történő átalakulás esetében az igénylőnek a támogatásra való jogosultság fenntartása érdekében az átalakulás tényét be kell jelentenie a minisztériumnak. A jogutódnak az átalakulást követő 30 napon belül nyilatkoznia kell a program továbbviteléről és be kell mutatnia a kibontakozási hitelt nyújtó hitelintézet igazolását a program további finanszírozásáról.
 
-(4)[^29] A kibontakozási hitelt a hitelintézetek – a program éveiben – szerződés alapján más hitelintézetekre engedményezhetik. Az erről szóló szerződés másolatát az ügylet lebonyolítását követő 30 napon belül a minisztériumnak meg kell küldeni.
+(4)[^30] A kibontakozási hitelt a hitelintézetek – a program éveiben – szerződés alapján más hitelintézetekre engedményezhetik. Az erről szóló szerződés másolatát az ügylet lebonyolítását követő 30 napon belül a minisztériumnak meg kell küldeni.
 
-(5)[^30] Ha a (4) bekezdés szerinti engedményezés nem jön létre és a kibontakozási hitelszerződést nyújtó hitelintézet helyébe – a kibontakozási programban részt vevő vállalkozás kezdeményezésére – a kibontakozási hitelszerződés futamideje alatt más hitelintézet lép, a minisztérium e rendelet 4. § (1) és (5) bekezdései szerinti támogatásra való jogfolytonosságot – a támogatási feltételek változatlanul hagyása mellett – a vállalkozás írásbeli kérelmére az eredeti támogatási igazolás módosításával fenntartja.
+(5)[^31] Ha a (4) bekezdés szerinti engedményezés nem jön létre és a kibontakozási hitelszerződést nyújtó hitelintézet helyébe – a kibontakozási programban részt vevő vállalkozás kezdeményezésére – a kibontakozási hitelszerződés futamideje alatt más hitelintézet lép, a minisztérium e rendelet 4. § (1) és (5) bekezdései szerinti támogatásra való jogfolytonosságot – a támogatási feltételek változatlanul hagyása mellett – a vállalkozás írásbeli kérelmére az eredeti támogatási igazolás módosításával fenntartja.
 
-(6)[^31] A 2045/2001. (III. 14.) Korm. határozat 5. pontjában felsorolt mezőgazdasági részvénytársaságok által benyújtott és elfogadott pályázatokat a 2000. évről szóló jelentéssel egyidejűleg a minisztérium – a kibontakozási hitelt nyújtó pénzintézet, az ÁPV Rt. és a Magyar Fejlesztési Bank Rt. bevonásával – felülvizsgálja és szükség szerint módosítja.
+(6)[^32] A 2045/2001. (III. 14.) Korm. határozat 5. pontjában felsorolt mezőgazdasági részvénytársaságok által benyújtott és elfogadott pályázatokat a 2000. évről szóló jelentéssel egyidejűleg a minisztérium – a kibontakozási hitelt nyújtó pénzintézet, az ÁPV Rt. és a Magyar Fejlesztési Bank Rt. bevonásával – felülvizsgálja és szükség szerint módosítja.
 
 [^25]: Az alcímet a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
 [^26]: A 11/A. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
 [^27]: A 11/A. § (2) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
-[^28]: A 11/A. § (3) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^29]: A 11/A. § (4) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^30]: A 11/A. § új (5) bekezdését a 82/2002. (IV. 15.) Korm. rendelet 1. § (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva.
-[^31]: A 11/A. § eredeti (5) bekezdésének számozását a 82/2002. (IV. 15.) Korm. rendelet 1. § (1) bekezdése (6) bekezdésre változtatta.
+[^28]: A 11/A. § (2) bekezdés a) pont nyitó szövegrésze a 475/2017. (XII. 28.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^29]: A 11/A. § (3) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^30]: A 11/A. § (4) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^31]: A 11/A. § új (5) bekezdését a 82/2002. (IV. 15.) Korm. rendelet 1. § (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva.
+[^32]: A 11/A. § eredeti (5) bekezdésének számozását a 82/2002. (IV. 15.) Korm. rendelet 1. § (1) bekezdése (6) bekezdésre változtatta.

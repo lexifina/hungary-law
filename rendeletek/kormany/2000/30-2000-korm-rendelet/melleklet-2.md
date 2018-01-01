@@ -1,8 +1,8 @@
-2. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^54]
+2. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^57]
 
 ## Segédlet a kibontakozási hitelkonstrukcióban részt vevő mezőgazdasági termelők éves jelentéséhez
 
-1.[^55] A vállalkozás azonosító adatai:
+1.[^58] A vállalkozás azonosító adatai:
 
 – megnevezés/név;
 
@@ -38,11 +38,11 @@
 
 a) a pályázó részére az FVM által kiadott ,,igazolás'', a kibontakozási hitelszerződés, a pótlólagos hitelszerződés másolatainak bemutatása (ez utóbbi csak pótlólagos hitel igénybevétele esetén); e pontot csak az első önértékelés során, 2001-ben kell teljesíteni;
 
-b)[^56] a megyei kormányhivatal igazolása a pályázónak a jelentés készítésének évében történt regisztrációjáról, az éves árbevétel megoszlásáról, amennyiben a pályázót a beszámolás évében elemi kár érte, az erre vonatkozó bejelentés, illetve a megyei kormányhivatal által kiállított igazolás, a kapcsolódó támogatást tartalmazó igazolás;
+b)[^59] a megyei kormányhivatal igazolása a pályázónak a jelentés készítésének évében történt regisztrációjáról, az éves árbevétel megoszlásáról, amennyiben a pályázót a beszámolás évében elemi kár érte, az erre vonatkozó bejelentés, illetve a megyei kormányhivatal által kiállított igazolás, a kapcsolódó támogatást tartalmazó igazolás;
 
 c) a beszámolási évről szóló éves mérlegbeszámoló, pénztárkönyv kimutatás, illetve a társasági adó, SZJA bevallás vonatkozó igazolólapjai;
 
-d)[^57] nyilatkozat az egyéb befizetési kötelezettségekről;
+d)[^60] nyilatkozat az egyéb befizetési kötelezettségekről;
 
 e) a társasági formában működő vállalkozások esetében nyilatkozat arról, hogy a társaság törzstőkéjének mértéke a jogszabályi előírásoknak megfelel;
 
@@ -62,7 +62,7 @@ ennek keretében
 
 h) az igénylő értékelése a program várható teljesítéséről, gazdálkodási helyzetének várható alakulásáról a program következő éveiben;
 
-i)[^58] ha a pályázó nem szerepel a köztartozásmentes adózói adatbázisban, a d) pont szerinti nyilatkozathoz 30 napnál nem régebben kiállított közokirati igazolást kell mellékelni arról, hogy a pályázó – a pályázata benyújtásának időpontjában – az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül.
+i)[^61] ha a pályázó nem szerepel a köztartozásmentes adózói adatbázisban, a d) pont szerinti nyilatkozathoz 30 napnál nem régebben kiállított közokirati igazolást kell mellékelni arról, hogy a pályázó – a pályázata benyújtásának időpontjában – az adózás rendjéről szóló törvény szerint köztartozásmentes adózónak minősül.
 
 3. A bemutatott jelentés alapján kérem .......... ezer forint kibontakozási támogatás megítélését.
 
@@ -72,8 +72,8 @@ Dátum: ..................
 
 cégszerű aláírás
 
-[^54]: A 2. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.
-[^55]: A 2. számú melléklet 1. pontja a 351/2010. (XII. 30.) Korm. rendelet 69. §-a, az 57/2014. (III. 4.) Korm. rendelet 2. §-a, a 70/2015. (III. 30.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
-[^56]: A 2. számú melléklet 2. pontjának b) alpontja a 337/2007. (XII. 13.) Korm. rendelet 8. § f) pontja, a 351/2010. (XII. 30.) Korm. rendelet 69. §-a, a 70/2015. (III. 30.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
-[^57]: A 2. számú melléklet 2. pontjának d) alpontja a 163/2009. (VIII. 6.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
-[^58]: A 2. számú melléklet 2. pontjának i) alpontját a 163/2009. (VIII. 6.) Korm. rendelet 34. § (3) bekezdése iktatta be.
+[^57]: A 2. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^58]: A 2. számú melléklet 1. pontja a 351/2010. (XII. 30.) Korm. rendelet 69. §-a, az 57/2014. (III. 4.) Korm. rendelet 2. §-a, a 70/2015. (III. 30.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
+[^59]: A 2. számú melléklet 2. pontjának b) alpontja a 337/2007. (XII. 13.) Korm. rendelet 8. § f) pontja, a 351/2010. (XII. 30.) Korm. rendelet 69. §-a, a 70/2015. (III. 30.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
+[^60]: A 2. számú melléklet 2. pontjának d) alpontja a 163/2009. (VIII. 6.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^61]: A 2. számú melléklet 2. pont i) alpontját a 163/2009. (VIII. 6.) Korm. rendelet 34. § (3) bekezdése iktatta be, szövege a 475/2017. (XII. 28.) Korm. rendelet 15. §-a szerint módosított szöveg.
