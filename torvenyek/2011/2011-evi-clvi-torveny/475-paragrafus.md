@@ -6,4 +6,4 @@
 
 (3) Az adóalany adófizetési kötelezettségét a bevallás benyújtására előírt határnapig teljesíti.
 
-(4) Az e törvényben nem szabályozott eljárási kérdésekben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
+(4)

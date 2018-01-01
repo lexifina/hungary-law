@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-156-00-00
 | 2017-06-20 | 2017. évi LXXVII. törvény | 2011-156-00-00.36 |
 | 2017-07-01 | 2017. évi LXXXIX. törvény | 2011-156-00-00.37 |
 | 2017-11-28 | 2017. évi CXLVI. törvény | 2011-156-00-00.38 |
+| 2018-01-01 | 2017. évi CLIX. törvény | 2011-156-00-00.39 |
