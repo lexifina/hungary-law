@@ -1,4 +1,4 @@
-11. § (1) A kifizető a magánszemélyt terhelő adót forrásadóként a kifizetéskor állapítja meg, vonja le, elkülönítve igazolja, az Art. 31. §-ának (2) bekezdése szerinti bevallásban vallja be, és ezen bevallás benyújtására előírt határidőig fizeti meg.
+11. § (1) A kifizető a magánszemélyt terhelő adót forrásadóként a kifizetéskor állapítja meg, vonja le, elkülönítve igazolja, az Art. szerinti havi adó- és járulékbevallásban vallja be, és ezen bevallás benyújtására előírt határidőig fizeti meg.
 
 (2) Amennyiben a kifizető a magánszemélyt terhelő adót bármely okból nem vonta le, a le nem vont adót a magánszemély fizeti meg a kifizetést követő hónap 12. napjáig.
 

@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-90-00-00
 | 2016-07-01 | 2016. évi XXXVIII. törvény | 2010-90-00-00.19 |
 | 2016-11-26 | 2016. évi CXXV. törvény | 2010-90-00-00.20 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2010-90-00-00.21 |
+| 2018-01-01 | 2017. évi CLIX. törvény | 2010-90-00-00.22 |
