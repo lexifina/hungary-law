@@ -1,0 +1,3 @@
+## 1. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény végrehajtásáról a művészeti, a közművelődési és a közgyűjteményi területen foglalkoztatott közalkalmazottak jogviszonyával összefüggő egyes kérdések rendezésére című 150/1992. (XI. 20.) Korm. rendelet (a továbbiakban: Kjtvhr.) 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § A rendelet hatálya a művészeti, a közművelődési és a közgyűjteményi intézményeknél, továbbá az állam és a helyi önkormányzat által vagy más költségvetési szervnél az 1. és a 4. melléklet szerinti kulturális munkakörben foglalkoztatott közalkalmazottakra terjed ki.”
