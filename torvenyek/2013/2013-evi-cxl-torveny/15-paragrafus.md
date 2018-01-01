@@ -12,6 +12,8 @@
 
 (6) A fémkereskedelmi engedélyköteles tevékenységet e törvény hatálybalépésekor érvényes fémkereskedelmi engedéllyel folytató személy az (5) bekezdésben meghatározott időpontig a 8. § (1) bekezdés h) pontjában meghatározott feltétel, valamint a fémkereskedelmi engedély érvényességi ideje tekintetében fémkereskedelmi engedély módosítása iránti kérelmet nyújt be.
 
+(6a) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 (7) Felhatalmazást kap a Kormány, hogy
 
 a) a fémkereskedelmi hatóság vagy hatóságok kijelölését,

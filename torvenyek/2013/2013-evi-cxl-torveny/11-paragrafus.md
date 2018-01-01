@@ -42,13 +42,13 @@ b) a szabályszerű magatartás tanúsításához szükséges felvilágosítás 
 
 c) a b) pont szerinti határidő lejártát követően a jogsértéssel érintett szabály megtartását ismételten ellenőrzi.
 
-(9) Ha a fémkereskedelmi hatóság a (2) bekezdés a) pontja alapján bírságot szab ki, ezzel egyidejűleg megtiltja az engedély nélkül vagy jogellenesen folytatott tevékenység végzését, valamint ha a (2) bekezdés c) pontja és a (7) bekezdés alapján adott telephely tekintetében 4 éven belül második alkalommal bírságot szab ki, ezzel egyidejűleg intézkedik az e törvény 9. § (3) bekezdésben meghatározottak tekintetében. A hatóság e határozata fellebbezésre tekintet nélkül végrehajtható.
+(9) Ha a fémkereskedelmi hatóság a (2) bekezdés a) pontja alapján bírságot szab ki, ezzel egyidejűleg megtiltja az engedély nélkül vagy jogellenesen folytatott tevékenység végzését, valamint ha a (2) bekezdés c) pontja és a (7) bekezdés alapján adott telephely tekintetében 4 éven belül második alkalommal bírságot szab ki, ezzel egyidejűleg intézkedik az e törvény 9. § (3) bekezdésben meghatározottak tekintetében. A hatóság e határozata azonnal végrehajtható.
 
 (10) A bírság összege kivételes méltánylást érdemlő körülmény esetén hivatalból vagy kérelemre mérsékelhető, illetve kiszabása mellőzhető, ha a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el. A bírság mérséklésénél az eset összes körülményét mérlegelni kell, különösen a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag mennyiségét és a jogsértő személy jogellenes magatartásának súlyát, valamint a jogsértő személy anyagi és vagyoni helyzetét.
 
 (11) Nincs helye – sem hivatalból, sem kérelemre – a bírság mérséklésének, kiszabása mellőzésének, ha
 
-a) a jogsértő személy részére e törvény rendelkezéseinek megsértése miatt korábban jogerősen bírság került kiszabásra,
+a) a jogsértő személy részére e törvény rendelkezéseinek megsértése miatt korábban végleges döntéssel bírság került kiszabásra,
 
 b) a jogsértő személy fémkereskedelmi engedély nélkül folytatott fémkereskedelmi engedélyköteles tevékenységet, vagy
 
@@ -56,6 +56,6 @@ c) a jogsértésre bűncselekmény vagy szabálysértés elkövetésével össze
 
 (12) A (11) bekezdés a) pontja nem alkalmazható, ha két egymást követő bírság kiszabása között 8 év eltelt.
 
-(13) A kiszabott bírságot a kötelezett a határozat jogerőre emelkedését követő naptári naptól számított 15 napon belül köteles megfizetni. A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
+(13) A kiszabott bírságot a kötelezett a határozat véglegessé válását követő naptári naptól számított 15 napon belül köteles megfizetni. A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
 
 (14) Ha a hatósági ellenőrzés során a fémkereskedelmi hatóság a fémkereskedő nyilvántartása, készletbevallása és a tényleges készlet között 5%-ot meghaladó eltérést tapasztal, a fémkereskedő az ellenőrzéstől számított 15 napon belül köteles mindazon bizonyítékok, okmányok benyújtására, amelyek az eltérést alátámasztják. Ha az okmányok, bizonyítékok nem kerülnek benyújtásra, vagy azok az eltérés okát nem tisztázzák, úgy az (5) bekezdés a) pontjában meghatározottakat kell alkalmazni.

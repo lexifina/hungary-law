@@ -20,7 +20,7 @@ f) a fémkereskedelmi engedélyköteles anyagot a fémkereskedő telephelyére b
 
 a) az ügylet évét követő ötödik év végén,
 
-b) ha az a) pontban meghatározott határidőn belül a fémkereskedelmi engedélyköteles anyag beszerzésével összefüggésben bírósági vagy hatósági eljárás indult, és a határidő lejártakor az még folyamatban van, az eljárás jogerős befejezését követően haladéktalanul
+b) ha az a) pontban meghatározott határidőn belül a fémkereskedelmi engedélyköteles anyag beszerzésével összefüggésben bírósági vagy hatósági eljárás indult, és a határidő lejártakor az még folyamatban van, a bírósági eljárás jogerős vagy a hatósági eljárás végleges befejezését követően haladéktalanul
 
 törli.
 
