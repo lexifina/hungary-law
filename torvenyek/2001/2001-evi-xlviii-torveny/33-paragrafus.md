@@ -10,6 +10,6 @@ a) az elsőbbségi nyilatkozat előterjesztésére előírt határidő [40. § (
 
 b) az uniós, illetve a kiállítási elsőbbségi igény érvényesítésére megszabott hat hónapos határidő elmulasztása esetén;
 
-c) az igazolási kérelem előterjesztésére megszabott határidők elmulasztása esetén.
+c)
 
 (3) A szabadalmi törvény nyilvánosságra vonatkozó szabályainak alkalmazásában a szabadalmi bejelentés közzétételén a mintaoltalom megadását kell érteni. Mintaoltalmi ügyekben a szabadalmi bejelentések minősített adatként való kezelésére vonatkozó rendelkezések nem alkalmazhatók.
