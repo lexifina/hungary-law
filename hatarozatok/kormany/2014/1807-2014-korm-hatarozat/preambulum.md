@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a központi költségvetés címrendjének a Magyarország minisztériumainak felsorolásáról szóló törvénnyel összefüggő módosításáról szóló 1400/2014. (VII. 18.) Korm. határozat 1. mellékletére figyelemmel elrendeli
