@@ -40,4 +40,4 @@ c) az átviteli hálózat tulajdonosának megfelelési programot és megfelelés
 
 (6) Az átviteli rendszerüzemeltetőre az e törvényben és a felhatalmazása alapján kiadott jogszabályokban az átviteli rendszerirányítóra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy átviteli rendszerirányító alatt az átviteli rendszerüzemeltetőt kell érteni, kivéve a 99. § (1a) és (1b) bekezdés, valamint a 102. §–102/E. § rendelkezéseit.
 
-(7) Amennyiben a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy az átviteli rendszerüzemeltető megfelel az e §-ban foglaltaknak, a Hivatal határozatának jogerőre emelkedését követően a 102. §–102/E. § nem alkalmazható.
+(7) Amennyiben a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy az átviteli rendszerüzemeltető megfelel az e §-ban foglaltaknak, a Hivatal határozatának véglegessé válását követően a 102. §–102/E. § nem alkalmazható.

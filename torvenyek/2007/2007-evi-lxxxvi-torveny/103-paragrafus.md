@@ -30,7 +30,7 @@ c) a Ptk. 8:2. § szerinti többségi befolyás.
 
 (4a) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre vonatkozóan – az (1) bekezdés a) pontjában foglaltakra figyelemmel – az átviteli rendszerirányítóval a Vhr.-ben meghatározottak szerint szerződést köt.
 
-(5) Amennyiben a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy az átviteli rendszerirányító megfelel az e §-ban foglaltaknak, a Hivatal határozatának jogerőre emelkedését követően a 99. § (1a) és (1b) bekezdése, a 102. §–102/E. § és 104. § nem alkalmazható.
+(5) Amennyiben a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy az átviteli rendszerirányító megfelel az e §-ban foglaltaknak, a Hivatal határozatának véglegessé válását követően a 99. § (1a) és (1b) bekezdése, a 102. §–102/E. § és 104. § nem alkalmazható.
 
 (6) Az (1) bekezdés b) pontja alkalmazásában
 

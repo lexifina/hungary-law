@@ -26,7 +26,7 @@ bb) a Magyar Köztársaság harmadik országgal vagy országokkal kötött nemze
 
 bc) az adott esetre és az érintett harmadik országra vonatkozó egyéb tényeket és körülményeket veszi figyelembe.
 
-(5) A Hivatal a tanúsítás megadása tárgyában a 168. § (4) bekezdésének h) pontjában meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt haladéktalanul megküld az Európai Bizottságnak, és egyúttal megkéri véleményét arra vonatkozóan, hogy
+(5) A Hivatal a tanúsítás megadása tárgyában a 168. § (2) bekezdés f) pontjában meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt haladéktalanul megküld az Európai Bizottságnak, és egyúttal megkéri véleményét arra vonatkozóan, hogy
 
 a) az átviteli rendszerirányító megfelel-e a 2009/72/EK irányelv 9. cikkében foglalt követelményeknek, és
 

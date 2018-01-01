@@ -2,4 +2,4 @@
 
 (2)
 
-(3) A vezetékjog megszűnése esetén a Hatóság a vezetékjog megszűnését megállapító jogerős határozattal keresi meg az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásból történő törlése iránt.
+(3) A vezetékjog megszűnése esetén a Hatóság a vezetékjog megszűnését megállapító véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásból történő törlése iránt.

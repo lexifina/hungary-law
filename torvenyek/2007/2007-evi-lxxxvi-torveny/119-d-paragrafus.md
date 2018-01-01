@@ -1,0 +1,1 @@
+119/D. § A Hatóság az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak (ideértve az igazgatási szolgáltatási díj és illeték, valamint a kérelemhez jogszabály alapján csatolandó mellékletek tekintetében történő felhívást is) határidőben nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte.

@@ -7,3 +7,5 @@
 (3) A végső menedékesre vonatkozó részletes rendelkezéseket, valamint a kijelölési eljárás szabályait a Kormány – a csődeljárásról és felszámolásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csődtv.) rendelkezéseivel összhangban – rendeletben szabályozza.
 
 (4) A végső menedékes engedélyes tevékenységére, eltérő rendelkezés hiányában az egyetemes szolgáltatásra és a kereskedelemre vonatkozó rendelkezések megfelelően alkalmazandók.
+
+(5) A Hivatal a végső menedékes kijelöléséről szóló határozatát írásban és közhírré tétel útján közli.

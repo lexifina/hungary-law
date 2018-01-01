@@ -8,4 +8,4 @@ c) nem tartószerkezeten elhelyezett elosztóberendezést, külön jogszabályba
 
 d) az építés során a biztonsági övezetet sértő növényzetet eltávolíthatja.
 
-(2) A hálózati engedélyes a vezetékjog vagy a jogerős üzemeltetési engedély alapján az építményeket üzemeltetheti, karbantarthatja, kijavíthatja és átalakíthatja, felújíthatja, továbbá a közcélú hálózat, termelői vezeték, magánvezeték vagy a közvetlen vezeték mentén lévő, a biztonsági övezetet sértő növényzetet eltávolíthatja, a felsorolt tevékenységek elvégzése céljából a vezetékjoggal érintett ingatlanra beléphet.
+(2) A hálózati engedélyes a vezetékjog alapján az építményeket üzemeltetheti, karbantarthatja, kijavíthatja és átalakíthatja, felújíthatja, továbbá a közcélú hálózat, termelői vezeték, magánvezeték vagy a közvetlen vezeték mentén lévő, a biztonsági övezetet sértő növényzetet eltávolíthatja, a felsorolt tevékenységek elvégzése céljából a vezetékjoggal érintett ingatlanra beléphet.

@@ -6,7 +6,7 @@
 
 (3) Ha a vételező úgy dönt, hogy villamos energiát nem továbbadás útján, hanem kizárólag az 56. § (2) bekezdése szerint vásárol, köteles a 39/B. § szerint eljárni.
 
-(4) A továbbadás nem minősül kereskedelemnek, ha az így továbbadott villamosenergia-mennyiség átlagára nem haladja meg a magánvezeték engedélyese által ugyanazon üzleti évben beszerzett villamosenergia-mennyiség átlagárát. A magánvezeték engedélyese e bekezdésben foglaltakat igazoló iratai tekintetében a 168. § (2) és (3) bekezdésében meghatározott rendelkezéseket megfelelően alkalmazni kell.
+(4) A továbbadás nem minősül kereskedelemnek, ha az így továbbadott villamosenergia-mennyiség átlagára nem haladja meg a magánvezeték engedélyese által ugyanazon üzleti évben beszerzett villamosenergia-mennyiség átlagárát. A magánvezeték engedélyese e bekezdésben foglaltakat igazoló iratai tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 5/D. § (7) bekezdésében meghatározott rendelkezéseket megfelelően alkalmazni kell.
 
 (5) A (4) bekezdés szempontjából
 

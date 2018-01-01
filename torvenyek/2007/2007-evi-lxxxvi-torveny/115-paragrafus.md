@@ -6,7 +6,7 @@
 
 a) építési engedélyezési eljárás,
 
-b) üzemeltetési engedélyezési eljárás,
+b)
 
 c) használatbavételi engedélyezési eljárás,
 

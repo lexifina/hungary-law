@@ -8,4 +8,4 @@ b) az 1227/2011/EU európai parlamenti és tanácsi rendeletben a nemzeti szabá
 
 együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes szabályait megállapodásban rögzítik és azt közzéteszik.
 
-(2) A Hivatal és a Felügyelet az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, vlamint azt, hogy a Ket. szerinti törvény által védett titokhoz fűződő érdekek ne sérüljenek.
+(2) A Hivatal és a Felügyelet az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, vlamint azt, hogy az Ákr. szerinti védett adathoz fűződő érdekek ne sérüljenek.

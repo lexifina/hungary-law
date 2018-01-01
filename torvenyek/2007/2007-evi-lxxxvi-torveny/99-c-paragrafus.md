@@ -1,4 +1,4 @@
-99/C. § (1) A Hivatal a 99/B. § (1) és (6) bekezdésében foglalt határidők elteltét követően a 168. § (4) bekezdés j) pontja szerinti ügyintézési határidőn belül egyidejűleg átadó egyetemes szolgáltató engedélyét visszavonó határozatot (a továbbiakban: visszavonó határozat) és átvevő egyetemes szolgáltatót kijelölő határozatot (a továbbiakban: kijelölő határozat) hoz, amelyekben legalább a következőkről rendelkezik:
+99/C. § (1) A Hivatal a 99/B. § (1) és (6) bekezdésében foglalt határidők elteltét követően a 168. § (2) bekezdés h) pontja szerinti ügyintézési határidőn belül egyidejűleg átadó egyetemes szolgáltató engedélyét visszavonó határozatot (a továbbiakban: visszavonó határozat) és átvevő egyetemes szolgáltatót kijelölő határozatot (a továbbiakban: kijelölő határozat) hoz, amelyekben legalább a következőkről rendelkezik:
 
 a) az engedély visszavonásának időpontja, adott hónap 1. nap 0 óra 0 percben meghatározva (a továbbiakban: átvétel időpontja),
 

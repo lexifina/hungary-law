@@ -1,9 +1,1 @@
-178/A. § (1) A 2009. szeptember 3-án átviteli rendszerirányítási engedéllyel rendelkező engedélyes legkésőbb 2011. május 31-ig köteles kérelmezni a Hivatalnál a tanúsítási eljárás megindítását.
-
-(2) A kérelemben a kérelmező részletesen igazolja és bemutatja, hogy legkésőbb 2012. március 3-ától miként felel meg az átviteli rendszerirányítóra ezen időponttól kezdődően vonatkozó szétválasztási szabályoknak.
-
-(3) Az átviteli rendszerirányító az eredményes tanúsítást kimondó határozat közlésétől számított 30 napon belül köteles új átviteli rendszerirányítási engedély iránti kérelmet benyújtani, és azzal egyidejűleg a megfelelési programját, valamint üzletszabályzatát jóváhagyásra benyújtani.
-
-(4) Az (1) és (3) bekezdésben foglaltak végrehajtása során a kérelmező nem mentesül az igazgatási szolgáltatási díjfizetési kötelezettsége alól, azzal, hogy a tanúsítási eljárás lefolytatása iránti kérelem elbírálásáért fizetendő igazgatási szolgáltatási díj megegyezik az átviteli rendszerirányítási működési engedély iránti kérelem elbírálásáért fizetendő díjjal.
-
-(5) Az átviteli rendszerirányító az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény hatálybalépésekor hatályos átviteli rendszerirányításra vonatkozó működési engedélye az e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított rendelkezései alapján kiadott működési engedélyének közléséig vagy a Hivatal annak visszavonására irányuló határozatának jogerőre emelkedéséig hatályban marad. Eddig az időpontig az átviteli rendszerirányító az átviteli rendszerirányítóra vonatkozó szabályoknak tekintetében az átviteli rendszerirányításra vonatkozó működési engedélyének és az annak kiadása alapjául szolgáló jogszabályoknak a szabályokra vonatkozó rendelkezései irányadóak.
+### 178/A. §

@@ -166,7 +166,7 @@ d)
 
 21. az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti bennfentes információk közzétételével kapcsolatos részletszabályokat,
 
-22. az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (5) bekezdése szerinti a Hivatal részére teljesítendő adatszolgáltatás formai követelményeit,
+22. az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (5) bekezdése szerinti a Hivatal részére teljesítendő adatszolgáltatás formai követelményeit
 
 23. a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználását elősegítő kötelező átvételi rendszerben és prémium típusú támogatási rendszerben kiosztható új támogatási jogosultságok maximális mértékét,
 
