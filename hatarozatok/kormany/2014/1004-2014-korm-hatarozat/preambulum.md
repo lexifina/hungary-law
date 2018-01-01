@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva, a vízkárelhárítás és az öntözés hatékonyságának növelését biztosító intézkedések végrehajtása érdekében a feladatok részbeni finanszírozásához szükséges
