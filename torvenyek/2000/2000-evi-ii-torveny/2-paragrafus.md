@@ -1,4 +1,4 @@
-2. § (1) A háziorvos önálló orvosi tevékenységet – akadályoztatásának jogszabályban meghatározott eseteit kivéve – csak személyesen folytathat az önkormányzat által meghatározott háziorvosi körzetben, a praxisjogot engedélyező határozat jogerőre emelkedésétől.
+2. § (1) A háziorvos önálló orvosi tevékenységet – akadályoztatásának jogszabályban meghatározott eseteit kivéve – csak személyesen folytathat az önkormányzat által meghatározott háziorvosi körzetben, a praxisjogot engedélyező határozat véglegessé válásától.
 
 (2) A praxisjog alapján végezhető önálló orvosi tevékenység – törvényben meghatározott kivétellel – csak a települési önkormányzat rendeletében meghatározott háziorvosi körzetben folytatható.
 

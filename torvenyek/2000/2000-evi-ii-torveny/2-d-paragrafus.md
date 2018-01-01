@@ -1,5 +1,5 @@
 2/D. § (1) A 2/C. § a) pont aa) alpontja szerinti nyilvántartás a praxis kódja, a praxisjoggal érintett körzet meghatározása, a praxisjogot engedélyező határozatot kiadó vagy a praxisjogot hatósági bizonyítványban igazoló hatóság megnevezése, az engedély vagy a hatósági bizonyítvány száma és kelte tekintetében, a 2/C. § a) pont ab) alpontja szerinti nyilvántartás a praxis kódja, a praxisjoggal érintett körzet meghatározása és tartósan betöltetlenné válása időpontjának tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(2) A 2/C. § a) pontja szerinti nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a praxiskezelő kizárólag okirati bizonyítékot, valamint az ügyfél írásbeli nyilatkozatát használhatja fel.
+(2)
 
 (3) A 2/C. § a) pontja szerinti nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
