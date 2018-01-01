@@ -18,7 +18,7 @@ a) az ezen lakás bérbeadásából származó bevétel önálló tevékenységb
 
 b) ha a lakásbérbeadás alapjául szolgáló szerződés a feltételül szabott időtartamon belül a bérbeadó érdekkörében felmerült okból megszűnik, a magánszemélyt a (4) bekezdés szerint meghatározott összegű adófizetési kötelezettség terheli arról az adóévről benyújtandó adóbevallásában, amely adóévben a megszűnés bekövetkezett;
 
-c) a b) pont szerinti esetben az önkormányzati hivatal – az adóévet követő január 31-éig – a bérbeadó személy adóazonosító számának feltüntetésével adatot szolgáltat az adóhatóságnak a szerződés megszűnéséről.
+c) a b) pont szerinti esetben az önkormányzati hivatal – az adóévet követő január 31-éig – a bérbeadó személy adóazonosító számának feltüntetésével adatot szolgáltat az állami adó- és vámhatóságnak a szerződés megszűnéséről.
 
 (4) A (3) bekezdés b) pontjában említett adófizetési kötelezettséget a következők szerint kell meghatározni:
 

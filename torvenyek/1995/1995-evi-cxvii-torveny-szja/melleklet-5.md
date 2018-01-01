@@ -344,7 +344,7 @@ Az útnyilvántartásnak tartalmaznia kell
 
 – a közforgalmú útvonalon megtett kilométerek számát.
 
-Az útnyilvántartás tartalmazhatja az előzőekkel kapcsolatos üzemanyag-vásárlás időpontját és költségeit is. Ha az útnyilvántartásra kötelezett magánszemélynek jogszabály alapján titoktartási kötelezettséggel járó tevékenysége (pl. orvosi tevékenység) során az útnyilvántartásban olyan magánszemély adatait kell feltüntetnie, akire nézve a titoktartásra kötelezett, az ilyen felkeresett személy(ek)hez megtett utakról köteles külön útnyilvántartást vezetni. Ezen külön útnyilvántartás tekintetében a vezetésére kötelezettnek gondoskodnia kell arról, hogy annak tartalmát az adóhatóság ellenőrzést végző tisztviselője kivételével harmadik személy ne ismerhesse meg. Az adóhatóság az ilyen útnyilvántartásban foglalt adatok rögzítésére csak akkor jogosult, ha az adóhatósági eljárás során tett megállapításban az adatrögzítés jogszabálysértés bizonyításának alátámasztására szolgál.
+Az útnyilvántartás tartalmazhatja az előzőekkel kapcsolatos üzemanyag-vásárlás időpontját és költségeit is. Ha az útnyilvántartásra kötelezett magánszemélynek jogszabály alapján titoktartási kötelezettséggel járó tevékenysége (pl. orvosi tevékenység) során az útnyilvántartásban olyan magánszemély adatait kell feltüntetnie, akire nézve a titoktartásra kötelezett, az ilyen felkeresett személy(ek)hez megtett utakról köteles külön útnyilvántartást vezetni. Ezen külön útnyilvántartás tekintetében a vezetésére kötelezettnek gondoskodnia kell arról, hogy annak tartalmát az állami adó- és vámhatóság ellenőrzést végző tisztviselője kivételével harmadik személy ne ismerhesse meg. Az állami adó- és vámhatóság az ilyen útnyilvántartásban foglalt adatok rögzítésére csak akkor jogosult, ha az adóhatósági eljárás során tett megállapításban az adatrögzítés jogszabálysértés bizonyításának alátámasztására szolgál.
 
 8. Hitelbe vagy bizományba történő értékesítésre átadott, átvett áruk nyilvántartása
 
@@ -484,7 +484,7 @@ IV.
 
 V. Különleges rendelkezések
 
-Az önálló tevékenységet végző magánszemély kérelmére az adóhatóság az e mellékletben előírt nyilvántartás(ok) vezetése alól indokolt esetben felmentést adhat, ha
+Az önálló tevékenységet végző magánszemély kérelmére az állami adó- és vámhatóság az e mellékletben előírt nyilvántartás(ok) vezetése alól indokolt esetben felmentést adhat, ha
 
 a) a kérelmező a súlyos fogyatékosság minősítéséről és igazolásáról szóló jogszabályok előírásainak megfelelően igazolja, hogy súlyos testi fogyatékosságának jellege miatt e kötelezettség teljesítése tőle nem várható el, és a vele közös háztartásban élő hozzátartozói sem képesek a nyilvántartás(ok) vezetésére, továbbá
 

@@ -8,7 +8,7 @@ a)
 
 b) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás, határozat alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállása idején havonta a személyi kedvezmény.
 
-(3) Az adóelőleg-levonásra kötelezett kifizető (ideértve az adóelőleget megállapító munkáltatót is) az állami adóhatósághoz bejelentett módszerrel állapítja meg az adóelőleget, ha ez által az adóévi adó megállapításánál jelentkező adókülönbözet mérsékelhető. Nem kell bejelentést tenni olyan módszer választása esetén, amelyet a számítástechnikai program kidolgozója az állami adóhatósághoz bejelentett.
+(3) Az adóelőleg-levonásra kötelezett kifizető (ideértve az adóelőleget megállapító munkáltatót is) az állami adó- és vámhatósághoz bejelentett módszerrel állapítja meg az adóelőleget, ha ez által az adóévi adó megállapításánál jelentkező adókülönbözet mérsékelhető. Nem kell bejelentést tenni olyan módszer választása esetén, amelyet a számítástechnikai program kidolgozója az állami adó- és vámhatósághoz bejelentett.
 
 (4) Az egyéni vállalkozó által negyedévenként fizetendő adóelőleg
 

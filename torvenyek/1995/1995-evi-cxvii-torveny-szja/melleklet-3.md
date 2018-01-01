@@ -90,7 +90,7 @@ Igazolás nélkül, költségként elszámolható tételek a következők:
 
 5. az Európai Parlament által az európai parlamenti megfigyelő és az európai parlamenti tag számára fizetett költségtérítés;
 
-6. a kifizető által a magánszemélynek a saját személygépkocsi használata miatt fizetett költségtérítés összegéből a kiküldetési rendelvényben feltüntetett km-távolság szerint az üzemanyag-fogyasztási norma és legfeljebb az állami adóhatóság által közzétett üzemanyagár, valamint 15 Ft/km általános személygépkocsi normaköltség alapulvételével kifizetett összeg;
+6. a kifizető által a magánszemélynek a saját személygépkocsi (ideértve a közeli hozzátartozó tulajdonát képező személygépkocsit is) használata miatt fizetett költségtérítés összegéből a kiküldetési rendelvényben feltüntetett km-távolság szerint az üzemanyag-fogyasztási norma és legfeljebb az állami adó- és vámhatóság által közzétett üzemanyagár, valamint 15 Ft/km általános személygépkocsi normaköltség alapulvételével kifizetett összeg;
 
 7. külföldi kiküldetés esetén
 
@@ -114,9 +114,9 @@ III. Az értékcsökkenési leírás elszámolása
 
 IV. A járművek költsége
 
-1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett jármű (ideértve a továbbiakban a házastárs tulajdonát képező, illetve a házastárs által zárt végű lízingbe vett járművet is) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint mezőgazdasági őstermelő esetében a kizárólag üzemi célú járműre vonatkozóan a III. rész 1. pontjában foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén vagy
+1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett jármű (ideértve a továbbiakban a közeli hozzátartozó tulajdonát képező vagy a közeli hozzátartozó által zárt végű lízingbe vett járművet is) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint mezőgazdasági őstermelő esetében a kizárólag üzemi célú járműre vonatkozóan a III. rész 1. pontjában foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén vagy
 
-a) az üzemanyag-fogyasztási norma és az állami adóhatóság által közzétett üzemanyagár,
+a) az üzemanyag-fogyasztási norma és az állami adó- és vámhatóság által közzétett üzemanyagár,
 
 b) a számlával (számlákkal) igazolt üzemanyag-vásárlás vehető figyelembe, azonban a számla alapján figyelembe vett üzemanyag-mennyiség nem lehet több, mint az üzemi használatra az üzemanyag-fogyasztási normával számított mennyiség,
 
@@ -148,7 +148,7 @@ amennyiben az a szerződés alapján a magánszemélyt terheli.
 
 8. A 6. pontban foglaltaktól eltérően a mezőgazdasági őstermelő az útnyilvántartás vezetése helyett havi 500 kilométer utat számolhat el saját tulajdonú személygépkocsi üzleti célú használata címén a költségek 3. pont szerinti figyelembevételével, függetlenül az üzemeltetett személygépkocsik számától. Ezt az elszámolási módszert is csak a teljes adóévre – illetőleg az adóéven belül a tevékenység teljes időtartamára – lehet alkalmazni.
 
-9. A magánszemély a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával a kötelező gépjármű felelősségbiztosítás befizetését igazoló szelvénnyel igazolja.
+9. A magánszemély a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával a közlekedési igazgatási hatóság által kiadott törzskönyvvel, a törzskönyv visszavonása esetén a közlekedési igazgatási hatóság által kiadott igazolással igazolja.
 
 10.
 

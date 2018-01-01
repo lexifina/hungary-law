@@ -22,7 +22,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.7. a családok támogatásáról szóló törvényben meghatározott gyermekgondozást segítő ellátás, gyermekgondozási segély, anyasági támogatás és gyermeknevelési támogatás;
 
-1.8. a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott ápolási díj;
+1.8. a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott ápolási díj és a tartós ápolást végzők időskori támogatása;
 
 1.9. a szociális gondozói díj évi 180 ezer forintot meg nem haladó része.
 
@@ -70,15 +70,15 @@ kap;
 
 2.11. az ugyanazon munkáltató által nyújtott mobilitási célú lakhatási támogatás havi értékéből
 
-a) a foglakoztatás első 24 hónapjában a minimálbér 40 százalékát,
+a) a foglalkoztatás első 24 hónapjában a minimálbér 60 százalékát,
 
-b) a foglakoztatás második 24 hónapjában a minimálbér 25 százalékát,
+b) a foglalkoztatás második 24 hónapjában a minimálbér 40 százalékát,
 
-c) a foglakoztatás b) pont szerinti időszakát követő 12 hónapban a minimálbér 15 százalékát
+c) a foglalkoztatás b) pont szerinti időszakát követő 12 hónapban a minimálbér 20 százalékát
 
-meg nem haladó összeg, figyelemmel a 9. pont 9.7. alpont előírásaira is.
+meg nem haladó összeg, figyelemmel a 9. pont 9.7. alpont előírásaira is, azzal, hogy az ugyanazon munkáltatóval létrejött új munkaviszony esetén az a)–c) pont szerinti időtartamot a munkaviszonyok időtartamának összeszámításával kell meghatározni.
 
-2.12. a hősi halottá nyilvánított katonák hozzátartozói (katonaözvegyek és az elhunyt saját háztartásában eltartott, árván maradt gyermekek, hadiárvák) részére belső szabályzat szerint biztosított lakhatási támogatás, lakáscélra adott vissza nem térítendő támogatás.
+2.12. a hősi halottá nyilvánított katonák hozzátartozói (katonaözvegyek, túlélő élettársak és az elhunyt saját háztartásában eltartott, árván maradt gyermekek, hadiárvák) részére belső szabályzat szerint biztosított lakhatási támogatás, lakáscélra adott vissza nem térítendő támogatás.
 
 3. A közcélú juttatások körében adómentes:
 
@@ -202,7 +202,7 @@ c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Öszt
 
 4.13. a nemzeti köznevelésről szóló törvényben meghatározott nevelési-oktatási intézmény, a nemzeti felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy az egyházi jogi személy által a tanuló, hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, valamint a roma szakkollégium által a szakkollégiumi tagsági jogviszonyra tekintettel nyújtott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontban nem említett pénzbeli juttatás;
 
-4.14. a honvédtiszti alap- és mesterképzésben, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt ösztöndíja és egyéb pénzbeli juttatása;
+4.14. a honvédtiszti alap- és mesterképzésben, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt ösztöndíja és egyéb pénzbeli juttatása, továbbá a honvédelemért felelős miniszter által alapított középiskolai, esélyegyenlőségi, önkéntes tartalékos szolgálati ösztöndíjban, a honvédelemért felelős miniszter által a polgári felsőoktatási intézmények és a szakképző iskolák hallgatói részére a katonai szolgálat vállalásának ösztönzése érdekében alapított ösztöndíjban, valamint a honvédelmi tárca gondoskodási körébe tartozó árvák részére alapított ösztöndíjban részesülők ösztöndíja;
 
 4.15. az ösztöndíjas foglalkoztatottnak az ösztöndíjas foglalkoztatási jogviszonyból származó ösztöndíja minimálbért meg nem haladó mértéke;
 
@@ -344,7 +344,7 @@ c) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szol
 
 6.8. a 6.6. pont alkalmazásában biztosító a biztosítóintézetekről és a biztosítási tevékenységről szóló törvényben meghatározott, belföldön székhellyel vagy fiókteleppel rendelkező biztosító, továbbá az olyan államban székhellyel rendelkező, ezen állam joga szerinti biztosító, amely állammal Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
-6.9. a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás - szerződőként vagy a biztosítóhoz bejelentett díjfizetőként más személy által fizetett - rendszeres díja (díjelőírása), azzal, hogy rendszeres díjnak minősül az a díj, amelyet a biztosítási szerződés alapján legalább évente egy alkalommal kell fizetni, és amelynek összege az adott biztosítási évben nem haladja meg az előző biztosítási évben fizetett rendszeres díjak együttes összegének a Központi Statisztikai Hivatal által közzétett, a díjnövekedés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét (fogyasztói árcsökkenés esetén a 30 százalékpontot), azzal, hogy a biztosítási szerződési feltételekben rögzített események bekövetkezése miatt átmeneti időre lehetővé tett díj-nemfizetés (szüneteltetés, díjmentesítés) időszakára is figyelembe vehető az ezen időszakot megelőző utolsó rendszeres díj alapulvételével a díj-nemfizetési időszak hosszával arányos biztosítási díj;
+6.9.
 
 6.10. az a juttatás, amelyet az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásként kap a magánszemély.
 
@@ -444,11 +444,13 @@ c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által
 
 7.32. az a magánszemély által megszerzett bevétel, amelyet a tulajdonában álló műemlék más személy – így különösen az érdekkörébe tartozó társas vállalkozás – által történő ingyenes felújítása, jókarbantartása formájában szerez, azzal, hogy e rendelkezés alkalmazásában a magánszemély tulajdonában álló műemlékkel esik egy tekintet alá az a műemlék is, amelyet a magánszemély hosszú távú – 15 évet meghaladó időtartamú – bérleti, vagyonkezelési szerződés alapján jogosult használni;
 
-7.33. az az összeg, amelyet a magánszemély mint kérelmező ügyfél, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései szerint a hatóság által hozott függő hatályú döntés alapján kap.
+7.33. az az összeg, amelyet a magánszemély mint kérelmező ügyfél, általános közigazgatási rendtartásról szóló törvény rendelkezései szerint a hatóság által hozott függő hatályú döntés alapján kap, továbbá az az összeg, amelyet a magánszemély az adóigazgatási rendtartásról szóló törvény rendelkezései szerint az ügyintézési határidő túllépése miatt az állami adó- és vámhatóságtól kap.
 
 7.34. a 17. FINA Úszó-, Vízilabda-, Műugró-, Műúszó- és Nyíltvízi Világbajnokság megrendezésével összefüggésben a FINA-tisztségviselők, a versenybírók részére kifizetett juttatás (különösen: a napidíj, valamint a szállás- és utazási költségek megtérítése), a sportolók részére kifizetett pénzdíj, a FINA-tisztségviselők, versenybírók, szervezőbizottsági tisztségviselők, a sportolók és önkéntesek részére adott formaruhák, természetben biztosított ellátás, a versenyekhez kapcsolódóan adott promóciós jellegű juttatások.
 
 7.35. az eredeti jogosult magánszemélynél az önálló orvosi tevékenységről szóló törvény szerinti praxisjog (megszerzésekor működtetési jog) átruházásáért kapott ellenérték.
+
+7.36. a bírósági végrehajtásról szóló 1994. évi LIII. törvény 156. § (5) bekezdése alapján megszűnt követelés;
 
 7.37. az első sikeres nyelvvizsga és az első emelt szintű, idegen nyelvből tett érettségi vizsga díjának jogszabály alapján visszatérített összege;
 
@@ -560,7 +562,7 @@ b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ez
 
 8.30.
 
-8.31. az MRP szervezet analitikájában a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet szerint elkülönítetten, a megszerzett részvények, üzletrészek között kimutatott, a résztvevő tulajdonába adott értékpapír (ide nem értve a visszavásárolt vagyonrésznek minősülő értékpapírt) ráfordításként elszámolt beszerzési (nyilvántartási) értékéből az a rész, amely meghaladja a tulajdonba adás időpontjáig a résztvevő által saját erő címen befizetett összeg alapján az MRP szervezet által elszámolt bevételt; az adómentes természetbeni juttatás összegéről az MRP szervezet résztvevőnként az adóévet követő január 31-éig adatot szolgáltat az adóhatóság számára, azzal, hogy e rendelkezést nem lehet alkalmazni a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevője által megszerzett értékpapírra;
+8.31. az MRP szervezet analitikájában a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet szerint elkülönítetten, a megszerzett részvények, üzletrészek között kimutatott, a résztvevő tulajdonába adott értékpapír (ide nem értve a visszavásárolt vagyonrésznek minősülő értékpapírt) ráfordításként elszámolt beszerzési (nyilvántartási) értékéből az a rész, amely meghaladja a tulajdonba adás időpontjáig a résztvevő által saját erő címen befizetett összeg alapján az MRP szervezet által elszámolt bevételt; az adómentes természetbeni juttatás összegéről az MRP szervezet résztvevőnként az adóévet követő január 31-éig adatot szolgáltat az állami adó- és vámhatóság számára, azzal, hogy e rendelkezést nem lehet alkalmazni a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevője által megszerzett értékpapírra;
 
 8.32. a villamos energiáról szóló törvényben szabályozott szociális villamosenergia-ellátás keretében – a törvény felhatalmazása alapján kiadott jogszabályban meghatározott körben – nyújtott kedvezmény vagy támogatás, valamint a közüzemi szolgáltató által a közüzemi fogyasztói kör egészét vagy széles körét érintő, közvetlenül vagy közvetve juttatott támogatás (visszatérítés), ideértve a közüzemi díjtartozás elengedését is;
 
@@ -581,6 +583,8 @@ b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ez
 8.40. a közfoglalkoztatási rendszerben a közfoglalkoztatottnak a külön törvényben meghatározott természetbeni ellátások.
 
 8.41. a közszolgálati médiaszolgáltatások digitális vételének biztosítása érdekében nyújtott – a műsorterjesztés és a digitális átállás szabályairól szóló törvényben meghatározott – állami támogatás.
+
+8.42. az Európai Unió valamely pénzügyi alapja vagy az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatásból a Családbarát Ország projekt keretében nem pénzben biztosított juttatás, így különösen a babacsomag, a kelengyecsomag.
 
 9. Adómentességre vonatkozó vegyes rendelkezések:
 
@@ -622,7 +626,7 @@ e) a akadálymentesítés.
 
 9.3.2. A lakáscélú munkáltatói támogatás akkor tekinthető adómentesnek, ha a munkáltató a támogatás folyósításának évét követő év május 31-éig, lakás építéséhez, építtetéséhez, alapterületének növeléséhez, korszerűsítéséhez és akadálymentesítéséhez adott támogatás esetén a folyósítás évét követő második év május 31-éig rendelkezik az adópolitikáért felelős miniszter rendeletében meghatározott igazolásokkal, azzal, hogy amennyiben a lakáscélú hitel felhasználásával megszerzett (épített, építtetett) lakás a támogatás folyósításakor már nincs a munkavállaló tulajdonában (haszonélvezetében), akkor a méltányolható lakásigénynek való megfelelés igazolására a hitel folyósítója által kiállított, a méltányolható lakásigény korábbi vizsgálatáról készült okirat másolata, ennek hiányában a munkavállaló által a méltányolható lakásigénynek való megfelelésről tett nyilatkozata és a megfelelést – a hitel folyósítását követő bármely, a tulajdonjog (haszonélvezeti jog) fennállásának időszakára eső időpontra vonatkozóan – igazoló okirat, bizonylat is elfogadható. Ha a munkáltató nem rendelkezik az e törvényben vagy az adópolitikáért felelős miniszter rendeletében meghatározott igazolásokkal, a lakáscélú munkáltatói támogatás 20 százalékkal növelt összegben a támogatásban részesült magánszemély munkaviszonyból származó jövedelmének minősül. E jövedelem megszerzésének időpontja a támogatás folyósításának évét követő év május hónapja, lakás építéséhez, építtetéséhez, alapterületének növeléséhez és korszerűsítéséhez adott támogatás esetén a folyósítás évét követő második év május hónapja.
 
-9.3.3. A hitelintézet, a kincstár a közvetítésével nyújtott lakáscélú munkáltatói támogatásról kiállított igazolás adattartalmáról, a munkáltató a kölcsön általa elengedett összegéről adatot szolgáltat az állami adóhatóságnak.
+9.3.3. A hitelintézet, a kincstár a közvetítésével nyújtott lakáscélú munkáltatói támogatásról kiállított igazolás adattartalmáról, a munkáltató a kölcsön általa elengedett összegéről adatot szolgáltat az állami adó- és vámhatóságnak.
 
 9.3.4. A lakáscélú munkáltatói támogatás adómentességével kapcsolatos rendelkezések alkalmazásában az egyes fogalmak jelentése a következő:
 
@@ -672,13 +676,13 @@ történik, a db) pont esetében azzal, hogy az átruházásról szóló szerző
 
 A jövedelem megállapítására értelemszerűen e törvénynek az ingatlan, vagyoni értékű jog átruházásából származó jövedelemre vonatkozó rendelkezéseit kell alkalmazni.
 
-9.5.2. A 9.5.1. pontban meghatározottakat az eladó akkor alkalmazhatja, ha legkésőbb a bevallás benyújtásakor rendelkezik a vevő közjegyző által készített vagy ügyvéd által ellenjegyzett okiratba foglalt nyilatkozatával, amely tartalmazza a vevő természetes azonosító adatait, adóazonosító jelét, valamint a vevő kötelezettségvállalását arra vonatkozóan, hogy az adómentesség feltételeinek megfelel. A vevő nyilatkozatát az eladó az adó megállapításához való jog elévüléséig köteles megőrizni. A valótlan tartalmú nyilatkozat miatt keletkező adóhiányt és jogkövetkezményeit az adóhatóság a vevő terhére állapítja meg.
+9.5.2. A 9.5.1. pontban meghatározottakat az eladó akkor alkalmazhatja, ha legkésőbb a bevallás benyújtásakor rendelkezik a vevő közjegyző által készített vagy ügyvéd által ellenjegyzett okiratba foglalt nyilatkozatával, amely tartalmazza a vevő természetes azonosító adatait, adóazonosító jelét, valamint a vevő kötelezettségvállalását arra vonatkozóan, hogy az adómentesség feltételeinek megfelel. A vevő nyilatkozatát az eladó az adó megállapításához való jog elévüléséig köteles megőrizni. A valótlan tartalmú nyilatkozat miatt keletkező adóhiányt és jogkövetkezményeit az állami adó- és vámhatóság a vevő terhére állapítja meg.
 
 9.5.3. Ha a magánszemély a 9.5.2. pontban említett nyilatkozata megtétele mellett megszerzett termőföldre vonatkozóan a nyilatkozatban foglaltakat nem teljesíti, bármely feltétel hiányának beálltával termőföld átruházásából származó jövedelemnek kell tekinteni a termőföld megszerzésének alapjául szolgáló szerződésben meghatározott ellenértéket.
 
 9.5.4. A 9.5.1. pont d) alpontjának alkalmazásában a birtok-összevonási cél akkor valósul meg, ha az átruházás eredményeként már az ügyletet megelőzően is a vevő tulajdonában álló termőföld és az ügyletben megvásárolt termőföld – a település közigazgatási határától függetlenül – egymással szomszédossá válik. Az egy naptári éven belül megkötött és ezen időtartamon belül az ingatlanügyi hatósághoz benyújtott ingatlan adásvételi szerződések hatását együttesen kell vizsgálni. Szomszédos termőföldeknek minősülnek azok a földrészletek is, amelyeket önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna választ el.
 
-9.6. A kifizető az adózás rendjéről szóló törvény 31. § (2) bekezdése szerinti rendben, magánszemélyenkénti elkülönítésben adatot szolgáltat az állami adóhatóság részére a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás díjaként adómentesen fizetett összegről, a biztosító nevéről és székhelyéről.
+9.6.
 
 9.7. A munkáltató által nyújtott mobilitási célú lakhatási támogatás adómentességével kapcsolatos szabályok
 
@@ -694,24 +698,26 @@ vehető figyelembe.
 
 9.7.2. A munkáltató által nyújtott lakhatási támogatás abban az esetben tekinthető mobilitási célú lakhatási támogatásnak, ha a munkáltató azt olyan munkavállalónak nyújtja
 
-a) akivel határozatlan időtartamra szóló és legalább heti 36 óra munkaidejű munkaviszonyt létesít, amely esetben az állandó lakóhelye és a munkavégzés helye legalább 60 km-re van egymástól, vagy a munkavégzés helye és az állandó lakóhelye közötti, naponta, tömegközlekedési eszközzel történő oda- és visszautazás ideje a 3 órát meghaladja,
+a) akivel legalább heti 36 óra munkaidejű munkaviszonyt létesít, amely esetben a lakóhelye és a munkavégzés helye legalább 60 km-re van egymástól, vagy a munkavégzés helye és a lakóhelye közötti, naponta, tömegközlekedési eszközzel történő oda- és visszautazás ideje a 3 órát meghaladja,
 
-b) aki nem rendelkezett a munkaviszony létrejöttét megelőző 12 hónapban, és nem rendelkezik a támogatás nyújtásának időpontjában lakás tulajdonjogával, haszonélvezeti jogával a munkavégzés helyén, valamint olyan településen, amelynek a munkavégzés helyétől való távolsága nem éri el a 60 km-t, vagy amelytől a munkavégzési helyéig, tömegközlekedési eszközzel történő oda- és visszautazás ideje nem éri el a 3 órát.
+b) aki nem rendelkezett a munkaviszony létrejöttét megelőző 12 hónapban, és nem rendelkezik a támogatás nyújtásának időpontjában lakás haszonélvezeti joggal nem terhelt 50 százalékot meghaladó mértékű tulajdonjogával, haszonélvezeti jogával a munkavégzés helyén, valamint olyan településen, amelynek a munkavégzés helyétől való távolsága nem éri el a 60 km-t, vagy amelytől a munkavégzési helyéig, tömegközlekedési eszközzel történő oda- és visszautazás ideje nem éri el a 3 órát.
 
 9.7.3. Amennyiben munkavállaló által bérelt ugyanazon lakás tekintetében több magánszemély is jogosult adómentes lakhatási támogatás igénybevételére, azt közülük csak – a döntésük szerinti – egyikük veheti igénybe.
 
-9.7.4. A munkavállaló a 9.7.2. és 9.7.3. alpont szerinti feltételek teljesüléséről vagy azok megszűnéséről a munkáltatónak nyilatkozatot tesz. Valótlan tartalmú nyilatkozat esetén vagy a nyilatkozat módosításának elmulasztása esetén az adókötelezettséget a munkaviszonyból származó jövedelemre vonatkozó szabályok szerint kell megállapítani azzal, hogy az adóhatóság határozatában az egyébként a munkáltatót (foglalkoztatót) terhelő közterheket és azok teljesítése elmulasztásának jogkövetkezményeit a magánszemély terhére állapítja meg.
+9.7.4. A munkavállaló a 9.7.2. és 9.7.3. alpont szerinti feltételek teljesüléséről vagy azok megszűnéséről a munkáltatónak nyilatkozatot tesz. Valótlan tartalmú nyilatkozat esetén vagy a nyilatkozat módosításának elmulasztása esetén az adókötelezettséget a munkaviszonyból származó jövedelemre vonatkozó szabályok szerint kell megállapítani azzal, hogy az állami adó- és vámhatóság határozatában az egyébként a munkáltatót (foglalkoztatót) terhelő közterheket és azok teljesítése elmulasztásának jogkövetkezményeit a magánszemély terhére állapítja meg.
 
 9.7.5. A munkáltató által nyújtott mobilitási célú lakhatási támogatás adómentességével kapcsolatos szabályok alkalmazásában
 
 a) ugyanazon munkáltatónak minősül az a személy is, aki (amely) a munkáltatónak a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozása,
 
-b) nem tekinthető munkavállalónak az a magánszemély, akivel a munkáltató a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő eset szerinti kapcsolatban áll.
+b) munkaerő-kölcsönzés esetében az a) pont rendelkezését a kölcsönvevő és kapcsolt vállalkozásaira kell alkalmazni,
+
+c) nem tekinthető munkavállalónak az a magánszemély, akivel a munkáltató a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő eset szerinti kapcsolatban áll.
 
 9.7.6. A munkáltató az adóévet követő év január 31-ig munkavállalónként adatot szolgáltat az adómentes támogatásban részesített magánszemélyek nevéről, adóazonosító jeléről, a munkavállaló által bérelt lakás címéről.
 
 9.8. Az erdőnek minősülő termőföld haszonbérbe adásából származó jövedelem adómentességére vonatkozó szabályok
 
-9.8.1. Adómentes az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerint erdőnek vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek minősülő föld (a továbbiakban: erdőnek minősülő föld) használati jogosultságának átengedése fejében, vagy az erdőnek minősülő földön folytatott társult erdőgazdálkodási tevékenységre tekintettel az erdőnek minősülő föld tulajdonosa vagy a haszonélvezője által megszerzett jövedelem, ha az erdőnek minősülő föld használatba adására vagy a társult erdőgazdálkodásra kötött megállapodás (szerződés, illetve alapító okirat) alapján – határozatlan időre szóló megállapodás esetén a jogosult adóhatóság részére tett kiegészítő nyilatkozata alapján – a használatba adás vagy a társult erdőgazdálkodás időtartama az 5 évet (az adómentesség feltételéül szabott időtartam) eléri.
+9.8.1. Adómentes az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerint erdőnek vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek minősülő föld (a továbbiakban: erdőnek minősülő föld) használati jogosultságának átengedése fejében, vagy az erdőnek minősülő földön folytatott társult erdőgazdálkodási tevékenységre tekintettel az erdőnek minősülő föld tulajdonosa vagy a haszonélvezője által megszerzett jövedelem, ha az erdőnek minősülő föld használatba adására vagy a társult erdőgazdálkodásra kötött megállapodás (szerződés, illetve alapító okirat) alapján – határozatlan időre szóló megállapodás esetén a jogosult állami adó- és vámhatóság részére tett kiegészítő nyilatkozata alapján – a használatba adás vagy a társult erdőgazdálkodás időtartama az 5 évet (az adómentesség feltételéül szabott időtartam) eléri.
 
 9.8.2. A magánszemély köteles a 9.8.1 pont szerinti mentesség alapján korábban meg nem fizetett adót késedelmi pótlékkal növelt összegben a szerződés megszűnése éve kötelezettségeként megállapítani, bevallani és megfizetni, ha a mentesség alapjául szolgáló szerződés az adómentesség feltételéül szabott időtartamon belül bármely okból (ide nem értve a szerződő feleken kívül álló okot, valamint a haszonbérleti szerződés azonnali hatályú felmondását) megszűnik.

@@ -42,13 +42,13 @@ megállapított lekötési hozam után.
 
 a) a tartós befektetésből származó jövedelemről, az első befizetés napjáról (a szerződés újrakötése esetén a befizetés napjának minősülő napról), valamint a lekötési időszak megszűnésének vagy megszakításának napjáról a jövedelem keletkezésének adóévét követő év január 31-éig igazolást ad a magánszemélynek,
 
-b) az igazolás tartalmáról – a magánszemély nevének, adóazonosító számának feltüntetésével – adatot szolgáltat az adóhatóságnak,
+b) az igazolás tartalmáról – a magánszemély nevének, adóazonosító számának feltüntetésével – adatot szolgáltat az állami adó- és vámhatóságnak,
 
-c) a lekötési nyilvántartásban rögzített osztalékra jogosító értékpapír esetében az osztalékfizetést megelőzően értesíti a kibocsátót, hogy e jövedelemből adót nem kell levonnia.
+c) a lekötési nyilvántartásban rögzített osztalékra jogosító értékpapír esetében az osztalékfizetést megelőzően értesíti a kibocsátót, hogy e jövedelemmel összefüggésben adókötelezettség nem terheli.
 
 (7) A tartós befektetésből származó jövedelmet a magánszemélynek nem kell bevallania, ha az adójának mértéke nulla százalék. Egyéb esetben az adót a magánszemély az adóbevallásában állapítja meg, és a bevallás benyújtására nyitva álló határidőig fizeti meg.
 
-(8) Ha a befektetési szolgáltató, illetőleg a hitelintézet adatszolgáltatásra nem kötelezett, e § rendelkezései akkor alkalmazhatóak, ha a magánszemély a befektetési szolgáltatóval, illetőleg a hitelintézettel megkötött tartós befektetési szerződéssel igazolhatóan a szerződéskötést, lekötési átutalás esetén e tényt – neve, adóazonosító jele, a befizetett pénzösszeg, az átutalt pénzügyi eszközök, pénzösszeg értékének feltüntetésével – az első befizetést, lekötési átutalás esetén a lekötési átutalást követő 30 napon belül bejelenti az adóhatóságnak, és rendelkezik a befektetési szolgáltató, illetőleg a hitelintézet által a (6) bekezdés szerinti tartalommal kiállított olyan igazolással, amelyből a tartós befektetésből származó jövedelem megállapítható.
+(8) Ha a befektetési szolgáltató, illetőleg a hitelintézet adatszolgáltatásra nem kötelezett, e § rendelkezései akkor alkalmazhatóak, ha a magánszemély a befektetési szolgáltatóval, illetőleg a hitelintézettel megkötött tartós befektetési szerződéssel igazolhatóan a szerződéskötést, lekötési átutalás esetén e tényt – neve, adóazonosító jele, a befizetett pénzösszeg, az átutalt pénzügyi eszközök, pénzösszeg értékének feltüntetésével – az első befizetést, lekötési átutalás esetén a lekötési átutalást követő 30 napon belül bejelenti az állami adó- és vámhatóságnak, és rendelkezik a befektetési szolgáltató, illetőleg a hitelintézet által a (6) bekezdés szerinti tartalommal kiállított olyan igazolással, amelyből a tartós befektetésből származó jövedelem megállapítható.
 
 (9) A lekötési időszak megszűnését, a lekötés megszakítását követő időszakra tartós befektetésből származó jövedelem az adott szerződés alapján nem állapítható meg, a megszűnés, a megszakítás napját követően keletkező tőkejövedelemre – jogcíme szerint – a rávonatkozó rendelkezéseket kell alkalmazni azzal, hogy
 

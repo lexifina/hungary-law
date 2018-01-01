@@ -6,7 +6,7 @@
 
 (3) A csereügyleti jövedelmet és/vagy a csereügyleti veszteséget
 
-a) a kifizető az adóév végén ügyletenként állapítja meg, a magánszemélynek az adóévet követő év január 31-éig ügyletenként részletezett igazolást állít ki, és arról az adózás rendjéről szóló törvény előírásai szerint a rá vonatkozó rendben adatot szolgáltat az állami adóhatósághoz;
+a) a kifizető az adóév végén ügyletenként állapítja meg, a magánszemélynek az adóévet követő év január 31-éig ügyletenként részletezett igazolást állít ki, és arról az adózás rendjéről szóló törvény előírásai szerint a rá vonatkozó rendben adatot szolgáltat az állami adó- és vámhatósághoz;
 
 b) kifizető hiányában a magánszemély ügyletenként nyilvántartja.
 

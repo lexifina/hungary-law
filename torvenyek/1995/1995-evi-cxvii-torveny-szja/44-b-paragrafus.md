@@ -1,6 +1,6 @@
 44/B. § (1) A nyugdíj-előtakarékossági számla-tulajdonos magánszemély az adóbevallásában tett nyilatkozat alapján rendelkezhet – akkor is, ha a nyugdíj-előtakarékossági számlát a nyilatkozattétel időpontját megelőzően nyugdíjszolgáltatásra jogosultsága miatt megszüntette, de a rendelkezést megalapozó befizetés évének utolsó napján az adott nyugdíj-előtakarékossági számláját még nem mondta fel – az adóévben általa nyugdíj-előtakarékossági számlára Magyarország törvényes fizetőeszközében befizetett összeg 20 százalékának, de legfeljebb az adóévben 100 ezer forintnak (annál a magánszemélynél, aki 2020. január 1. előtt tölti be a jogszabályok alapján reá irányadó öregségi nyugdíjkorhatárt, 130 ezer forintnak) az összevont adóalapja adójának az adókedvezmények levonása után fennmaradó részéből történő átutalásáról (nyugdíj-előtakarékossági nyilatkozat).
 
-(2) A nyugdíj-előtakarékossági nyilatkozatban meghatározott összeg átutalását az adóhatóság – ha a magánszemélynek nincs az állami adóhatóságnál ezer forintot meghaladó nyilvántartott adótartozása, és az adóbevallása alapján fizetendő adóját megfizette, az adózás rendjéről szóló törvénynek a visszatérítendő jövedelemadóra vonatkozó rendelkezései szerint, egyébként az adótartozás vagy az adóbevallás szerinti adó megfizetését követő 30 napon belül – a magánszemély nyugdíj-előtakarékossági számláját vezető számlavezetőhöz, vagy ha az adott nyugdíj-előtakarékossági számla nyugdíjszolgáltatás igénylése miatt a nyilatkozattétel időpontjára már megszűnt, a nyilatkozatban megjelölt címre (számlára), illetve ha a magánszemély nyilatkozattételének időpontja után a kiutalás teljesülésének időpontjáig szűnt meg, a számlavezető által az adóhatóságnál erre a célra nyitott beszedési számlára történt visszautalást követően, kérelemre az abban megjelölt címre (számlára) utalja azzal, hogy ez a kiutalás más (újonnan nyitott) nyugdíj-előtakarékossági számlára nem teljesíthető.
+(2) A nyugdíj-előtakarékossági nyilatkozatban meghatározott összeg átutalását az állami adó- és vámhatóság – ha a magánszemélynek nincs az állami adó- és vámhatóságnál ezer forintot meghaladó nyilvántartott adótartozása, és az adóbevallása alapján fizetendő adóját megfizette, az adózás rendjéről szóló törvénynek a visszatérítendő jövedelemadóra vonatkozó rendelkezései szerint, egyébként az adótartozás vagy az adóbevallás szerinti adó megfizetését követő 30 napon belül – a magánszemély nyugdíj-előtakarékossági számláját vezető számlavezetőhöz, vagy ha az adott nyugdíj-előtakarékossági számla nyugdíjszolgáltatás igénylése miatt a nyilatkozattétel időpontjára már megszűnt, a nyilatkozatban megjelölt címre (számlára), illetve ha a magánszemély nyilatkozattételének időpontja után a kiutalás teljesülésének időpontjáig szűnt meg, a számlavezető által az állami adó- és vámhatóságnál erre a célra nyitott beszedési számlára történt visszautalást követően, kérelemre az abban megjelölt címre (számlára) utalja azzal, hogy ez a kiutalás más (újonnan nyitott) nyugdíj-előtakarékossági számlára nem teljesíthető.
 
 (3) A nyugdíj-előtakarékossági nyilatkozatot a magánszemély a nyugdíj-előtakarékossági számla vezetője által – az adózás rendjéről szóló törvénynek az adókedvezményre jogosító igazolás kiállítására vonatkozó előírásai szerint – kiadott igazolás alapján teheti meg, amely tartalmazza a rendelkezési jogosultság alapjául szolgáló összeget.
 
@@ -34,7 +34,7 @@ c) a nyugdíj értékpapírszámlán lévő értékpapírt átalakítás vagy a 
 
 helyezi át.
 
-(6a) Az adóhatóság a magánszemély kérelmére az általa megjelölt lakcímre vagy bankszámlára utalja ki az (1) bekezdés szerinti összeget, ha a számlavezető felszámolása miatt annak nyugdíj-előtakarékossági számlára történő utalása nem lehetséges.
+(6a) Az állami adó- és vámhatóság a magánszemély kérelmére az általa megjelölt lakcímre vagy bankszámlára utalja ki az (1) bekezdés szerinti összeget, ha a számlavezető felszámolása miatt annak nyugdíj-előtakarékossági számlára történő utalása nem lehetséges.
 
 (7) A (6) bekezdés alkalmazása során
 
@@ -54,7 +54,7 @@ b) a bekezdés b) pontja szerinti áthelyezés esetén a (4) bekezdés rendelkez
 
 c) a bekezdés c) pontja szerinti áthelyezés esetén a (4) bekezdés rendelkezését csak akkor nem kell alkalmazni, ha az átalakításban, átalakulásban, egyesülésben, szétválásban közreműködő befektetési szolgáltató a kicserélt értékpapírt az ügyletben meghatározott időpontig a magánszemély nyugdíj-előtakarékossági értékpapírszámlájára áthelyezte.
 
-(8) A számlavezető az adóévet követő év január 31-éig adatot szolgáltat az állami adóhatóságnak
+(8) A számlavezető az adóévet követő év január 31-éig adatot szolgáltat az állami adó- és vámhatóságnak
 
 a) a magánszemély „NYESZ-R” megkülönböztető jelzésre vonatkozó nyilatkozatáról a nyilatkozat keltének feltüntetésével;
 
@@ -68,4 +68,4 @@ d) az (5)–(6) bekezdés szerint megszüntetett számláról és a (7) bekezdé
 
 (10) Ha a magánszemély egyidejűleg több érvényes megállapodással is rendelkezik nyugdíj-előtakarékossági számlák vezetésére, e törvény alkalmazásában csak egy – az elsőként adott – nyilatkozat alapján jelzett nyugdíj-előtakarékossági számlák minősülnek nyugdíj-előtakarékossági számlának mindaddig, amíg az így jelzett számla vezetésére kötött megállapodás fennáll. Az azonos keltezéssel adott több nyilatkozat esetében egyik sem érvényes.
 
-(11) Ha a „NYESZ-R” jelzéssel ellátott számláról az adóhatóság a (8) bekezdés a) pontja szerinti adatszolgáltatás, valamint a (9) bekezdés alapján megállapítja a jelzés jogtalan használatát, az emiatt mutatkozó adóhiányt és annak késedelmi pótlékát a magánszemélynek az adóhatóság határozata alapján kell megfizetnie.
+(11) Ha a „NYESZ-R” jelzéssel ellátott számláról az állami adó- és vámhatóság a (8) bekezdés a) pontja szerinti adatszolgáltatás, valamint a (9) bekezdés alapján megállapítja a jelzés jogtalan használatát, az emiatt mutatkozó adóhiányt és annak késedelmi pótlékát a magánszemélynek az állami adó- és vámhatóság határozata alapján kell megfizetnie.

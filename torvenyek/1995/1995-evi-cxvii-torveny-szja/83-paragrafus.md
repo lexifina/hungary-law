@@ -14,7 +14,7 @@
 
 (8) E törvény hatálybalépését követően kamat címén jóváírt, kifizetett jövedelmekre e törvény rendelkezéseit kell alkalmazni, függetlenül attól, hogy a kamat mely időszakra vonatkozik.
 
-(9) Az egyéni vállalkozó által igénybe vehető pénztartalék kezelése céljából az állami adóhatóság kincstári számlát nyit és ezzel összefüggésben olyan nyilvántartást vezet, amely alkalmas az egyéni vállalkozó által pénztartalék címén befizetett összegek és a számláról kivett pénzfelhasználások egyenlegezett éves átlagos állományának megállapítására, továbbá alkalmas a kamat meghatározására és jóváírására. Az állami adóhatóság által megnyitott kincstári számlánál a pénztartalékkal összefüggő nyilvántartás vezetése nem tartozik a pénzintézetekről és a pénzintézeti tevékenységekről szóló törvény hatálya alá.
+(9) Az egyéni vállalkozó által igénybe vehető pénztartalék kezelése céljából az állami adó- és vámhatóság kincstári számlát nyit és ezzel összefüggésben olyan nyilvántartást vezet, amely alkalmas az egyéni vállalkozó által pénztartalék címén befizetett összegek és a számláról kivett pénzfelhasználások egyenlegezett éves átlagos állományának megállapítására, továbbá alkalmas a kamat meghatározására és jóváírására. Az állami adó- és vámhatóság által megnyitott kincstári számlánál a pénztartalékkal összefüggő nyilvántartás vezetése nem tartozik a pénzintézetekről és a pénzintézeti tevékenységekről szóló törvény hatálya alá.
 
 (10) Ahol jogszabály – jelöléssel vagy anélkül – a magánszemélyek jövedelemadójáról szóló törvényt említi, ott a személyi jövedelemadóról szóló törvényt kell érteni.
 

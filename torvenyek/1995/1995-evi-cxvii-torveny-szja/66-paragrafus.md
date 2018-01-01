@@ -24,7 +24,7 @@ b) osztalékelőleg az adóévi várható osztalékra tekintettel az adóévben 
 
 a) e § alkalmazásában ideértve a belföldi illetőségű hitelintézetet, befektetési szolgáltatót is, ha a magánszemély nála vezetett értékpapír (értékpapír-letéti) számláján elhelyezett értékpapírra tekintettel külföldről származó osztalékot (osztalékelőleget) fizet ki (ír jóvá),
 
-b) figyelemmel a 15. § (4) bekezdésének rendelkezésére, valamint az adózás rendjéről szóló törvénynek a külföldi személyek egyes jövedelmei adózásának különös szabályairól szóló rendelkezésekre is
+b) figyelemmel a 15. § (4) bekezdés és a 7. számú melléklet rendelkezéseire is
 
 – a kifizetés időpontjában állapítja meg és az adózás rendjéről szóló törvényben meghatározottak szerint vallja be és fizeti meg. Kifizető hiányában az adót a magánszemély az adóhatósági közreműködés nélkül elkészített bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg. Az osztalékelőleget és annak adóját a kifizetés évéről szóló adóbevallásban tájékoztató adatként kell feltüntetni, a jóváhagyott kifizetett osztalékot, a levont, megfizetett adót az osztalékot megállapító beszámoló elfogadásának évéről szóló adóbevallásban – az osztalékelőlegből levont, megfizetett adót levont adóként figyelembe véve – kell bevallani.
 

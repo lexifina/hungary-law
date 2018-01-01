@@ -2,4 +2,4 @@
 
 (2) Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 12/A. § szerinti bevallási nyilatkozat első alkalommal a 2015. évben megszerzett jövedelmek vonatkozásában nyújtható be.
 
-(3) Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 12/B. § szerinti adóbevallási tervezetet az állami adóhatóság első alkalommal a 2016. évi jövedelmekről készít.
+(3) Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 12/B. § szerinti adóbevallási tervezetet az állami adó- és vámhatóság első alkalommal a 2016. évi jövedelmekről készít.

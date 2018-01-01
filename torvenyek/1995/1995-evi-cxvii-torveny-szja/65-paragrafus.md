@@ -34,7 +34,7 @@ ab) feltéve, hogy a magánszemély a kamatjövedelmet és a levont adót az aa)
 
 b) nem kifizetőtől származik – a magánszemély az adóhatósági közreműködés nélkül elkészített bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg,
 
-a (3)–(9) bekezdések rendelkezéseit, valamint az adózás rendjéről szóló törvény rendelkezéseit – különös tekintettel a külföldi személyek egyes jövedelmei adózásának különös szabályaira is – figyelembe véve, azzal az eltéréssel, hogy a kifizető az aa) pontban említett igazolás tartalmáról az adóévet követő év január 31-éig adatot szolgáltat az adóhatóság részére.
+a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről szóló törvény rendelkezéseit figyelembe véve, azzal az eltéréssel, hogy a kifizető az aa) pontban említett igazolás tartalmáról az adóévet követő év január 31-éig adatot szolgáltat az állami adó- és vámhatóság részére.
 
 (3) Nem kell figyelembe venni
 

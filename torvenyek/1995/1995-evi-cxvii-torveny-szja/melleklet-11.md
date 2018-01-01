@@ -616,9 +616,9 @@ c) Nem anyagi javak esetében, ha azok nem kizárólag üzemi célt szolgálnak 
 
 III. A járművek költsége
 
-1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett kizárólag üzemi célú jármű (ideértve a továbbiakban a házastárs tulajdonát képező, illetve a házastárs által zárt végű lízingbe vett járművet is) (e rendelkezés alkalmazásában a személygépkocsi-bérbeadó vagy személyszállító tevékenységet folytató egyéni vállalkozónál a tevékenység tárgyát, illetve eszközét képező személygépkocsi is, ha az egyéni vállalkozó azt más célra részben sem használja, és üzleti nyilvántartásai ezt egyértelműen alátámasztják) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint a II. fejezetben foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén vagy
+1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett kizárólag üzemi célú jármű (ideértve a továbbiakban a közeli hozzátartozó tulajdonát képező vagy a közeli hozzátartozó által zárt végű lízingbe vett járművet is) (e rendelkezés alkalmazásában a személygépkocsi-bérbeadó vagy személyszállító tevékenységet folytató egyéni vállalkozónál a tevékenység tárgyát, illetve eszközét képező személygépkocsi is, ha az egyéni vállalkozó azt más célra részben sem használja, és üzleti nyilvántartásai ezt egyértelműen alátámasztják) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint a II. fejezetben foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén vagy
 
-a) az üzemanyag-fogyasztási norma és az állami adóhatóság által közzétett üzemanyagár,
+a) az üzemanyag-fogyasztási norma és az állami adó- és vámhatóság által közzétett üzemanyagár,
 
 b) a számlával (számlákkal) igazolt üzemanyag-vásárlás vehető figyelembe, azonban a számla alapján figyelembe vett üzemanyag-mennyiség nem lehet több, mint az üzemi használatra az üzemanyag-fogyasztási normával számított mennyiség,
 
@@ -656,7 +656,7 @@ amennyiben az a szerződés alapján az egyéni vállalkozót terheli.
 
 11. A 9. pontban foglaltaktól eltérően, az egyéni vállalkozó az útnyilvántartás vezetése helyett havi 500 kilométer utat számolhat el átalányban a személygépkocsi használata címén a költségek 6. pont szerinti figyelembevételével, függetlenül az üzemeltetett személygépkocsik számától. Ezt az elszámolási módszert is csak a teljes adóévre – illetőleg az adóéven belül az egyéni vállalkozói tevékenység teljes időtartamára – lehet alkalmazni.
 
-12. Az egyéni vállalkozó a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával, a kötelező gépjármű felelősségbiztosítás befizetését igazoló szelvénnyel igazolja.
+12. Az egyéni vállalkozó a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával, a közlekedési igazgatási hatóság által kiadott törzskönyvvel, a törzskönyv visszavonása esetén a közlekedési igazgatási hatóság által kiadott igazolással igazolja.
 
 13.
 
@@ -665,25 +665,3 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 1.
 
 2. a pénzügyi ellenőrzés alapján megállapított adórövidítésből, egyéb jogszabály megsértéséből keletkező befizetés (bírság, késedelmi pótlék stb.), kivéve az önellenőrzési pótlékot, és az olyan adóra vonatkozó adóhiányt, amely jogszerű teljesítés esetén egyébként költségként elszámolható lett volna;
-
-3. a bármilyen címen felvett hitelre (kölcsönre) visszafizetett összeg;
-
-4. azok a befizetési kötelezettségek, amelyekkel összefüggésben a magánszemély adócsökkentést vett igénybe;
-
-5. a tagdíjak, ha törvény másként nem rendelkezik;
-
-6. a közcélú adományok;
-
-7. azok a kiadások, amelyek az I–III. fejezetben és az általános, valamint a vállalkozói tevékenységre vonatkozó rendelkezések között említett költségek esetében az ott leírt rendelkezéseknek (mértékek, feltételek stb.) nem felelnek meg;
-
-8. az egyéni vállalkozó személyi jövedelemadója, vállalkozói személyi jövedelemadója és a vállalkozói osztalékalap után fizetett személyi jövedelemadója, a vállalkozói személyi jövedelemadó, illetve az átalányadózás szabályai szerinti adózásra történő áttérést megelőző időszakra tekintettel megfizetett egyszerűsített vállalkozói adó, kisadózó vállalkozások tételes adója és a 40 százalékos mértékű adó;
-
-9. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint nem megállapodás alapján fizetett saját nyugdíjjárulék és egészségbiztosítási járulék, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett saját tagdíj;
-
-10. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint megállapodás alapján nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a saját maga javára fizetett összeg, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján a saját maga javára fizetett magánnyugdíjpénztári tagdíj és annak kiegészítése;
-
-11. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint megállapodás alapján fizetett egészségbiztosítási járulék;
-
-12. az értékcsökkenési leírás alapjába beszámító, a tárgyi eszköz, a nem anyagi javak üzembe helyezéséig felmerült kiadás, valamint a felújítási költséget képező kiadások, ha azokkal az egyéni vállalkozó az értékcsökkenési leírás alapját növeli;
-
-13. a vissza nem térítendő munkáltatói támogatás, ide nem értve a lakáscélú munkáltatói támogatást (1. számú melléklet 2. pont 2.7. alpont), valamint a magánszemélynek segély címén juttatott összeget;

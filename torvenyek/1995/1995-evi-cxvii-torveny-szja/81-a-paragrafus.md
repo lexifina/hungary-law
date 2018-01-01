@@ -56,6 +56,6 @@ fg) a 78/A. § (1) bekezdés c) és d) pontja szerinti nyilatkozatok meglétét.
 
 (6) Az őstermelői tevékenység kezdetének az őstermelői igazolvány érvényessége kezdetének időpontját kell tekinteni.
 
-(7) Az őstermelői nyilvántartást vezető szerv az őstermelői igazolvány kiadásáról, bevonásáról, adatairól és az abban szereplő adatok változásáról adatot szolgáltat az adóhatóságnak, valamint a mezőgazdasági és vidékfejlesztési támogatási szervnek.
+(7) Az őstermelői nyilvántartást vezető szerv az őstermelői igazolvány kiadásáról, bevonásáról, adatairól és az abban szereplő adatok változásáról adatot szolgáltat az állami adó- és vámhatóságnak, valamint a mezőgazdasági és vidékfejlesztési támogatási szervnek.
 
 (8) Az őstermelői nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra és az agrárgazdasági adatbázist működtető szerv részére statisztikai és gazdaságelemzési célra egyedi azonosításra alkalmas módon, egyéb statisztikai, illetve tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.

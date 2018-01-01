@@ -48,7 +48,7 @@ kb) a magánnyugdíjpénztár a kedvezményezett részére nem nyugdíjszolgált
 
 l) a pedagógus szakvizsgára történő felkészülésben vagy továbbképzésben való részvételi díjának és költségének (utazás, szállás, étkezés, könyv, könyvtári beiratkozás és használat díja) munkáltató által történő megtérítését, kifizetését, amennyiben annak forrása a központi költségvetés által biztosított hozzájárulás, valamint a pedagógusnak szakkönyv vásárlására jogszabály alapján adott összeg;
 
-m) a törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján az adó alól Magyarországon mentesített azon jövedelmet, amelyet egyébként az összevont adólapba kellene beszámítani azzal, hogy ezt az összeget az adóbevallásban, a munkáltatói adómegállapításban tájékoztató adatként szerepeltetni kell;
+m) a törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján az adó alól Magyarországon mentesített azon jövedelmet, amelyet egyébként az összevont adólapba kellene beszámítani azzal, hogy ezt az összeget az adóbevallásban tájékoztató adatként szerepeltetni kell;
 
 n) a jogszabály alapján, nyilvánosan meghirdetett pályázat útján költségvetési, önkormányzati forrásból
 
@@ -58,7 +58,7 @@ nb) magánszemély részére lakóépületnek az adott jogszabályban meghatáro
 
 juttatott támogatást;
 
-o) a kifizető által a tevékenységében közreműködő magánszemélytől átvállalt kamarai tagdíj összegét, feltéve, hogy a tevékenység kizárólag szakmai kamara tagjaként folytatható;
+o) a kifizető által a tevékenységében közreműködő magánszemélytől átvállalt kamarai tagdíj összegét, feltéve, hogy a tevékenység kizárólag szakmai kamara tagjaként folytatható, ideértve a kifizető által a vele jogviszonyban álló ügyvédi tevékenységet gyakorlótól átvállalt, az ügyvédi kamara felé vagy az ügyvédi kamarai tagságra, nyilvántartásba vételére figyelemmel teljesítendő egyéb fizetési kötelezettséget is;
 
 p) a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 3. § (1) bekezdés l) pontja szerinti pénzügyi szolgáltatás végzésére jogosult pénzügyi intézmény által a megvásárolt követelésből elengedett részt;
 

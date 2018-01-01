@@ -6,7 +6,7 @@
 
 (3) Amennyiben a (2) bekezdés szerinti bevétel nem önálló tevékenységre tekintettel illeti meg a magánszemélyt, és annak összege másként nem állapítható meg, a magánszemély azt – választása szerint – a (2) bekezdés szerinti tevékenysége szokásos díjazásának a Magyarországon végzett tevékenysége napjaival arányos részeként is megállapíthatja.
 
-(4) A magánszemély az adót az adóhatóság által rendszeresített, magyar és angol nyelvű nyomtatványon – természetes azonosítóinak, illetőségének, valamint személyének azonosítására alkalmas hatósági igazolványa típusa és száma feltüntetésével – a Magyarországról történő távozását megelőzően – ha bevallási kötelezettségének meghatalmazottja, megbízottja útján tesz eleget, a távozását követő 90. napig – vallja be, és az említett napig fizeti meg. A bevallásban fel kell tüntetni:
+(4) A magánszemély az adót az állami adó- és vámhatóság által rendszeresített, magyar és angol nyelvű nyomtatványon – természetes azonosítóinak, illetőségének, valamint személyének azonosítására alkalmas hatósági igazolványa típusa és száma feltüntetésével – a Magyarországról történő távozását megelőzően – ha bevallási kötelezettségének meghatalmazottja, megbízottja útján tesz eleget, a távozását követő 90. napig – vallja be, és az említett napig fizeti meg. A bevallásban fel kell tüntetni:
 
 a) a magánszemély jövedelmének összegét,
 

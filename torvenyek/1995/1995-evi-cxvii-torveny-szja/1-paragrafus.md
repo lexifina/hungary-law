@@ -6,7 +6,7 @@
 
 ## ALAPELVEK
 
-1. § (1) Magyarországon a magánszemélyek a jövedelmükből a közterhekhez való hozzájárulás alkotmányos kötelezettségének e törvény rendelkezései szerint tesznek eleget, figyelemmel az adózás rendjéről szóló törvényben foglaltakra is.
+1. § (1) Magyarországon a magánszemélyek a jövedelmükből a közterhekhez való hozzájárulás alkotmányos kötelezettségének e törvény rendelkezései szerint tesznek eleget, figyelemmel az adóigazgatási jogszabályokban foglaltakra is.
 
 (2) E törvény célja az arányosság és a méltányosság elvének érvényesítésével az állami feladatok ellátásához szükséges adóbevétel biztosítása, kivételesen egyes társadalmi, gazdasági célok megvalósulásának elősegítése.
 

@@ -1,6 +1,6 @@
 ## Az egyéni vállalkozó és a mezőgazdasági kistermelő átalányadózása
 
-50. § (1) Az egyéni vállalkozó a vállalkozói jövedelem szerinti adózás helyett adóévenként az adóév egészére az adózás rendjéről szóló törvény rendelkezései szerint átalányadózást választhat a (4)–(7) bekezdésben foglalt rendelkezéseket is figyelembe véve akkor, ha
+50. § (1) Az egyéni vállalkozó a vállalkozói jövedelem szerinti adózás helyett adóévenként az adóév egészére a 8. számú melléklet rendelkezései szerint átalányadózást választhat a (4)–(7) bekezdésben foglalt rendelkezéseket is figyelembe véve akkor, ha
 
 a) az átalányadózás megkezdését közvetlenül megelőző adóévben az egyéni vállalkozói bevétele a 15 millió forintot nem haladta meg, és
 

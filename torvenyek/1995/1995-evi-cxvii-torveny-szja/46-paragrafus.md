@@ -4,7 +4,7 @@
 
 ## Az adóelőleg-fizetési kötelezettség
 
-46. § (1) Eltérő rendelkezés hiányában az összevont adóalap adóját, valamint a vállalkozói személyi jövedelemadót – az adóbevallásban/munkáltatói adómegállapításban történő utólagos elszámolással – adóelőlegként kell megfizetni.
+46. § (1) Eltérő rendelkezés hiányában az összevont adóalap adóját, valamint a vállalkozói személyi jövedelemadót – az adóbevallásban történő utólagos elszámolással – adóelőlegként kell megfizetni.
 
 (2) Nem terheli adóelőleg:
 
@@ -46,7 +46,7 @@ c) a b) pont szerinti követelését beszámíthatja a magánszeméllyel szemben
 
 d) a b) és c) pont rendelkezései helyett az ott említett magánszemély esetében is a (7) bekezdés szerint jár el, ha a magánszeméllyel szemben nincs – valamint az adóévben a körülményekből következően várhatóan nem is keletkezik – olyan pénzben teljesítendő kötelezettsége, amelyből a le nem vont, de befizetett adóelőleget levonhatná.
 
-(7) A (6) bekezdés b) pontjában nem említett magánszemély esetében – amennyiben a bevételt terhelő adóelőleg levonására nincs lehetőség – valamint d) pontja rendelkezésének alkalmazása esetén az adóköteles bevételről kiállított igazoláson a kifizető feltünteti a le nem vont adóelőleg összegét is, és felhívja a magánszemély figyelmét arra, hogy az adóelőleg le nem vont részét köteles megfizetni. A kifizető az adóelőleg le nem vont részéről az adózás rendjéről szóló törvény rendelkezései szerint adatot szolgáltat az állami adóhatóság részére.
+(7) A (6) bekezdés b) pontjában nem említett magánszemély esetében – amennyiben a bevételt terhelő adóelőleg levonására nincs lehetőség – valamint d) pontja rendelkezésének alkalmazása esetén az adóköteles bevételről kiállított igazoláson a kifizető feltünteti a le nem vont adóelőleg összegét is, és felhívja a magánszemély figyelmét arra, hogy az adóelőleg le nem vont részét köteles megfizetni. A kifizető az adóelőleg le nem vont részéről az adózás rendjéről szóló törvény rendelkezései szerint adatot szolgáltat az állami adó- és vámhatóság részére.
 
 (8) Az adóelőleg-megállapításra kötelezett kifizetőnek – kivéve, ha a (7) bekezdés szerint az adóelőleg megfizetésére a magánszemély köteles – a megállapított adóelőleget a kifizetés (a juttatás) hónapját követő hónap 12. napjáig kell megfizetnie, továbbá az adózás rendjéről szóló törvény rendelkezése szerint kell bevallania azzal, hogy a rendelkezés alkalmazásában elszámolt adóelőlegként a magánszemély által a befizetésre nyitva álló határidőig megszerzett bevételt terhelő adóelőleg vehető figyelembe. Az államháztartásról szóló törvényben meghatározott kincstári körbe tartozó, adóelőleg-levonásra kötelezett kifizetőnek e kötelezettségeit az államháztartásról szóló törvény és annak felhatalmazása alapján kiadott jogszabály rendelkezéseinek figyelembevételével kell teljesítenie.
 

@@ -126,7 +126,7 @@ c) az önálló bírósági végrehajtó a bírósági végrehajtásról szóló
 
 d) az egyéni szabadalmi ügyvivő a szabadalmi ügyvivőkről szóló törvényben meghatározott tevékenysége tekintetében;
 
-e) az ügyvéd az ügyvédekről szóló törvényben meghatározott tevékenysége tekintetében (kivéve, amennyiben e tevékenységét ügyvédi iroda tagjaként vagy alkalmazott ügyvédként folytatja);
+e) az ügyvéd az ügyvédi tevékenységről szóló törvényben meghatározott tevékenysége tekintetében (kivéve, amennyiben e tevékenységét ügyvédi iroda tagjaként vagy alkalmazott ügyvédként folytatja);
 
 f) a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély e tevékenysége tekintetében;
 
@@ -336,7 +336,7 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 86.
 
-87.
+87. Iskolarendszerű képzés: olyan képzés, amelynek résztvevői a képző intézménnyel tanulói vagy hallgatói jogviszonyban állnak, valamint azon külföldi képzés, amely államilag elismert oktatási célú intézményben folytatott teljes idejű, alapfokú, középfokú vagy érettségi végzettséget adó képzés, vagy államilag elismert felsőoktatási intézményben folyó, felsőfokú végzettséget adó képzés.
 
 88. Iskolarendszeren kívüli képzés: olyan képzés, amelynek résztvevői nem állnak a képző intézménnyel tanulói vagy hallgatói jogviszonyban.
 

@@ -4,15 +4,15 @@
 
 ## Az adó megállapítása
 
-11. § (1) Az adót adóévenként be kell vallani. A magánszemély bevallási kötelezettségét a (2) bekezdés szerint önadózással vagy a 14. § rendelkezései szerint munkáltatói adómegállapítás révén teljesíti, annak figyelembevételével, hogy bármely esetben jogosult az összevont adóalapja adójának külön törvény szerint meghatározott részéről rendelkező nyilatkozatot adni.
+11. § (1) A magánszemély az adóját – ha az adót nem a kifizető állapítja meg – önadózással állapítja meg, a megállapított adóról bevallási kötelezettségét a (2) bekezdés rendelkezése szerint adóévenként teljesíti. A magánszemély jogosult az összevont adóalapja adójának külön törvény szerint meghatározott részéről rendelkező nyilatkozatot adni.
 
-(2) A magánszemély – ha nem adott nyilatkozatot munkáltatói adómegállapításra vagy adójának megállapítását a munkáltatója nem vállalja – az adózás rendjéről szóló törvény szerint előírt módon és határidőben önadózóként
+(2) A magánszemély
 
-a) az adóhatóság közreműködése nélkül elkészített bevallást nyújt be az adóhatósághoz vagy
+a) az adóhatóság közreműködése nélkül elkészített bevallást nyújt be az állami adó- és vámhatósághoz vagy
 
 b) az adóbevallási tervezet adatait javítja, kiegészíti, vagy az adóbevallási tervezetben feltüntetett adatokkal egyetért
 
-azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő adatokkal való egyetértésnek kell tekinteni azt is, ha az adóbevallási tervezet az adózás rendjéről szóló törvény rendelkezése szerint a magánszemély bevallásának minősül.
+azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő adatokkal való egyetértésnek kell tekinteni azt is, ha az adóbevallási tervezet a 12/C. § szerint a magánszemély bevallásának minősül.
 
 (3) Az (1)–(2) bekezdésben foglaltakat nem kell alkalmazni, ha a magánszemély az adóévben egyáltalán nem szerzett bevételt, vagy kizárólag olyan bevételt szerzett, amelyet nem kell bevallania. Nem kell bevallani azt a bevételt,
 
@@ -31,3 +31,5 @@ f) amely pénzbeli nyereménynek [76. § (2) bekezdés] minősül;
 g) amely nemzetközi szerződés vagy viszonosság alapján Magyarországon nem adóztatható;
 
 h) amelyet külön törvény rendelkezése szerint nem kell bevallani.
+
+(4) A magánszemély a külön adózó jövedelmei közül annak a jövedelemnek az adóját, amely nem kifizetőtől származik vagy egyébként, amely jövedelem adójának megállapítására maga köteles – ha az nem tartozik az adóelőleg megállapítására irányadó rendelkezések hatálya alá – az adóhatóság közreműködése nélkül elkészített bevallásában vagy az adóhatóság által elkészített adóbevallási tervezet kiegészítésével az adófizetési kötelezettség gyakoriságának megfelelő (havi, negyedéves) bontásban, negyedéves gyakoriságú adófizetési kötelezettség esetében a negyedév utolsó hónapjának kötelezettségeként vallja be.

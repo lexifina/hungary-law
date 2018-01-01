@@ -1,10 +1,10 @@
 ## Adófizetés
 
-15. § (1) A magánszemély adóévi bevétele alapján meghatározott jövedelmet terhelő adót – az adóévi bevétele után általa megfizetett, valamint a kifizető, a munkáltató által megfizetett (fizetendő) adóelőleg és adó beszámításával – az adózás rendjéről szóló törvény rendelkezései szerint megfizeti.
+15. § (1) A magánszemély adóévi bevétele alapján meghatározott jövedelmet terhelő adót – az adóévi bevétele után általa megfizetett, valamint a kifizető, a munkáltató által megfizetett (fizetendő) adóelőleg és adó beszámításával – megfizeti.
 
-(2) Ha a magánszemély adóévi bevétele után általa megfizetett, valamint a kifizető, a munkáltató által megfizetett (fizetendő) adóelőleg és adó összege meghaladja a magánszemély adóévi bevétele alapján meghatározott jövedelmet terhelő adót, a különbözetet az adóhatóság az adózás rendjéről szóló törvény rendelkezései szerint visszatéríti.
+(2) Ha a magánszemély adóévi bevétele után általa megfizetett, valamint a kifizető, a munkáltató által megfizetett (fizetendő) adóelőleg és adó összege meghaladja a magánszemély adóévi bevétele alapján meghatározott jövedelmet terhelő adót, a különbözetet az állami adó- és vámhatóság az adózás rendjéről szóló törvény rendelkezései szerint visszatéríti.
 
-(3) Ha a kifizető az adót, adóelőleget levonta, az adóhatóság a továbbiakban azt csak a kifizetőtől követelheti.
+(3) Ha a kifizető az adót, adóelőleget levonta, az állami adó- és vámhatóság a továbbiakban azt csak a kifizetőtől követelheti.
 
 (4) Ha a magánszemély egyes külön adózó jövedelmeiből az adót a kifizető állapítja meg és az adó levonására nincs lehetősége, a kifizetőnek és a magánszemélynek az adóelőlegre irányadó szabályok szerint kell eljárnia.
 

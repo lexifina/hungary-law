@@ -8,6 +8,6 @@
 
 (4) Jogosultsági hónapként a házassági életközösség fennállása alatt a házasságkötést követő hónaptól (azt első jogosultsági hónapnak tekintve) legfeljebb 24 hónap vehető figyelembe.
 
-(5) A kedvezményt a házastársak – döntésük szerint – az összeg megosztásával közösen érvényesítik, ideértve azt az esetet is, ha a kedvezményt kizárólag egyikük veszi igénybe. A kedvezmény közös igénybevétele az adóbevallásban, munkáltatói adómegállapításban független attól, hogy az adóelőleg megállapításánál mely házastársnál történt annak figyelembevétele.
+(5) A kedvezményt a házastársak – döntésük szerint – az összeg megosztásával közösen érvényesítik, ideértve azt az esetet is, ha a kedvezményt kizárólag egyikük veszi igénybe. A kedvezmény közös igénybevétele az adóbevallásban független attól, hogy az adóelőleg megállapításánál mely házastársnál történt annak figyelembevétele.
 
-(6) Az igénybevétel feltétele a házastársak – adóbevallásban, munkáltatói adómegállapításban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza, hogy a kedvezményt melyikük veszi igénybe, vagy a kedvezmény összegének megosztására vonatkozó döntésüket.
+(6) Az igénybevétel feltétele a házastársak – adóbevallásban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza, hogy a kedvezményt melyikük veszi igénybe, vagy a kedvezmény összegének megosztására vonatkozó döntésüket.

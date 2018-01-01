@@ -1,3 +1,3 @@
 ## Adóbevallási tervezettel összefüggő eljárás
 
-12/B. § Az adózás rendjéről szóló törvény 26/B. §-a szerinti magánszemély részére az állami adóhatóság a nyilvántartásaiban szereplő adatokból összeállított adóbevallási tervezetet készít.
+12/B. § A magánszemély – kivéve az egyéni vállalkozót – részére az állami adó- és vámhatóság a nyilvántartásaiban szereplő adatokból összeállított adóbevallási tervezetet készít.
