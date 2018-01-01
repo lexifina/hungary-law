@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-195-20-
 | 2017-02-15 | 1997-195-20-22.52 | 20/2017. (II. 2.) Korm. rendelet |
 | 2017-07-01 | 1997-195-20-22.53 | 366/2007. (XII. 23.) Korm. rendelet |
 | 2017-11-01 | 1997-195-20-22.54 | 202/1999. (XII. 26.) Korm. rendelet |
+| 2018-01-01 | 1997-195-20-22.55 | 403/2017. (XII. 15.) Korm. rendelet |
