@@ -10,7 +10,7 @@
 
 (5) A Rendelet 17. cikk (4) és (7) bekezdése, valamint a 19–22. cikke által meghatározott illetékes hatóság a Felügyelet, az MNB vonatkozásában a pénzügyi információs egység.
 
-(6) Az ellenőrzés során a Felügyelet a közigazgatási hatósági eljárásról szóló törvény rendelkezései szerint, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben (a továbbiakban: MNBtv.) meghatározott eltérésekkel, továbbá a pénzügyi információs egység a közigazgatási hatósági eljárásról szóló törvény rendelkezései szerint jár el.
+(6) Az ellenőrzés során a Felügyelet a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben (a továbbiakban: MNBtv.) meghatározott eltérésekkel, továbbá a pénzügyi információs egység a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
 
 (7) A Rendelet előírásainak megsértése, illetve a Rendeletben meghatározott kötelezettségek nem megfelelő teljesítése esetén a Felügyelet a jogsértés súlyával arányosan a 69. § (1) bekezdésében meghatározott intézkedéseket alkalmazza, továbbá megtiltja a szolgáltatónak a jogsértő állapot fennállása alatt a pénzátutalási tevékenység végzését.
 

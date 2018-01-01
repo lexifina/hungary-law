@@ -1,6 +1,6 @@
-## 19. Az ügyvédekre és a közjegyzőkre vonatkozó eltérő rendelkezések
+## 19. Az ügyvédekre, a kamarai jogtanácsosokra és a közjegyzőkre vonatkozó eltérő rendelkezések
 
-73. § (1) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség az ügyvédet – a (3) bekezdésben foglalt kivétellel – akkor terheli, ha pénz és értéktárgy letéti kezelését végzi, vagy ha a következő jogügyletek előkészítésével és végrehajtásával összefüggésben végez az Üt. 5. § (1) bekezdésében meghatározott ügyvédi tevékenységet:
+73. § (1) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség az ügyvédet – a (3) bekezdésben foglalt kivétellel – akkor terheli, ha pénz és értéktárgy letéti kezelését végzi, vagy ha a következő jogügyletek előkészítésével és végrehajtásával összefüggésben végez az Üttv. 2. § (1) bekezdésében meghatározott ügyvédi tevékenységet:
 
 a) gazdasági társaságban vagy egyéb gazdálkodó szervezetben lévő vagyonrész (részesedés) tulajdonának átruházása,
 
@@ -12,6 +12,18 @@ d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítés�
 
 e) ingó vagyonelem, különösen pénzeszköz, pénzügyi eszköz ellenérték nélkül történő átruházása.
 
+(1a) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség a kamarai jogtanácsost – az (1b) és (3) bekezdésben foglalt kivétellel – akkor terheli, ha a következő jogügyletek előkészítésével és végrehajtásával összefüggésben végez az Üttv. 2. § (1) bekezdésében meghatározott ügyvédi tevékenységet:
+
+a) gazdasági társaságban vagy egyéb gazdálkodó szervezetben lévő vagyonrész (részesedés) tulajdonának átruházása,
+
+b) ingatlan tulajdonának átruházása,
+
+c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működtetése, megszűnése,
+
+d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat.
+
+(1b) A kamarai jogtanácsost az e törvény szerinti szolgáltatónak minősülő ügyfele számára a szolgáltató e törvény hatálya alá tartozó tevékenysége keretében végzett ügyvédi tevékenysége alapján terhelő kötelezettségeket a kamarai jogtanácsos ügyfele a rá, mint szolgáltatóra vonatkozó szabályok szerint teljesíti.
+
 (2) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség a közjegyzőt – a (4) bekezdésben foglalt kivétellel – akkor terheli, ha bizalmi őrzést végez, vagy a Kjtv.-ben meghatározott más polgári nemperes eljárást folytat le a következő jogügyletek előkészítésével és végrehajtásával kapcsolatban:
 
 a) gazdasági társaságban vagy egyéb gazdálkodó szervezetben lévő vagyonrész (részesedés) tulajdonának átruházása,
@@ -22,7 +34,7 @@ c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működ
 
 d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat.
 
-(3) Az e törvényben előírt bejelentési kötelezettség, illetve a 75. § (3) bekezdésében meghatározott, a pénzügyi információs egység megkeresésére vonatkozó válaszadási kötelezettség az ügyvédet nem terheli, ha
+(3) Az e törvényben előírt bejelentési kötelezettség, illetve a 75. § (3) bekezdésében meghatározott, a pénzügyi információs egység megkeresésére vonatkozó válaszadási kötelezettség az ügyvédet és a kamarai jogtanácsost nem terheli, ha
 
 a) a bejelentés alapjául szolgáló adat, tény, körülmény büntetőeljárásban történő védelem, illetve bíróság előtti képviselet – ide nem értve a cégbírósági eljárásban történő képviseletet – előkészítése, ellátása során, vagy ellátását követően utóbb és azzal összefüggésben jutott tudomására,
 

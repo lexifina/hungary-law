@@ -24,7 +24,7 @@ j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedőre;
 
 k) árukereskedőre, amennyiben tevékenysége folytatása során kétmillió-ötszázezer forintot elérő vagy meghaladó összegű készpénzfizetést fogad el;
 
-l) ügyvédre, közjegyzőre és
+l) ügyvédre, európai közösségi jogászra (a továbbiakban együtt: ügyvéd), kamarai jogtanácsosra, közjegyzőre és
 
 m) bizalmi vagyonkezelőre
 
@@ -34,7 +34,9 @@ m) bizalmi vagyonkezelőre
 
 a) a szolgáltató ügyfele, vagy annak rendelkezésre jogosultja, képviselője, meghatalmazottja;
 
-b) a szolgáltató vezetője, foglalkoztatottja, illetve segítő családtagja.
+b) a szolgáltató vezetője, foglalkoztatottja, illetve segítő családtagja,
+
+c) kamarai jogtanácsos irányításával ügyvédi kamarai nyilvántartásba vett jogi előadóként (a továbbiakban: jogi előadó) ügyvédi tevékenységet gyakorol.
 
 (3) E törvény hatálya kiterjed az 5. §-ban meghatározott felügyeletet ellátó szervre.
 
