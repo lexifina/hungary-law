@@ -14,12 +14,14 @@ f) a biztonsági tervet,
 
 g) amennyiben ezt külön jogszabály kötelezővé teszi, a tűzvédelmi szabályzatot,
 
-h) az építésügyi hatóság szakhatósági közreműködéséhez szükséges, külön jogszabályban meghatározott építészeti-műszaki dokumentációt két példányban és a tervezői nyilatkozatot.
+h)[^10]
 
-(2) Az engedélyezési eljárásban a jegyző a szakhatóságokkal közös helyszíni szemle megtartásáról intézkedik. A helyszíni szemlén részt vevő szakhatóságok szakhatósági állásfoglalásukat a szemle megállapításairól felvett jegyzőkönyvbe foglalhatják. A helyszíni szemléről a jegyző értesíti az Országos Mentőszolgálatot.
+(2)[^11] Ha az engedélyezési eljárás során a jegyző helyszíni szemle megtartását rendeli el, a szemlét a szakhatóságokkal közösen kell lefolytatni. A helyszíni szemlén részt vevő szakhatóságok szakhatósági állásfoglalásukat a szemle megállapításairól felvett jegyzőkönyvbe foglalhatják. Előzetes szakhatósági állásfoglalás nem adható. A helyszíni szemléről a jegyző értesíti az Országos Mentőszolgálatot.
 
-(3)[^10] A jegyző a helyszíni szemléről szóló értesítést az engedély iránti kérelemben megjelölt adatokkal együtt küldi meg. Az értesítésben a jegyző felhívja az ügyfél figyelmét, hogy távolmaradása a szemle megtartását nem akadályozza. Távolmaradás esetén a szemle időpontja előtt a jegyzőhöz az ügyfél által írásban beadott észrevételeket a jegyző a szemlén ismerteti.
+(3)[^12] A jegyző a helyszíni szemléről szóló értesítést az engedély iránti kérelemben megjelölt adatokkal együtt küldi meg. Az értesítésben a jegyző felhívja az ügyfél figyelmét, hogy távolmaradása a szemle megtartását nem akadályozza. Távolmaradás esetén a szemle időpontja előtt a jegyzőhöz az ügyfél által írásban beadott észrevételeket a jegyző a szemlén ismerteti.
 
 (4) A jegyző az eljárás során az ügyfelek adatait és a zenés, táncos rendezvény helyszínéül szolgáló építmény vagy terület tulajdonjogának igazolásához szükséges tulajdoni lapot az ingatlanügyi hatóság megkeresése útján vagy a számítógépes ingatlan-nyilvántartási rendszer használatával szerzi be.
 
-[^10]: Az 5. § (3) bekezdése a 13/2014. (I. 29.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés h) pontját a 457/2017. (XII. 28.) Korm. rendelet 321. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: Az 5. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 319. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: Az 5. § (3) bekezdése a 13/2014. (I. 29.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.

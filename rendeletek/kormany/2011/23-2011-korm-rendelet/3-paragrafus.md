@@ -6,22 +6,9 @@
 
 (3)[^7] Az engedélyt a zenés, táncos rendezvény helye szerinti települési, Budapesten a kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban: jegyző) adja ki. Az engedély iránti kérelem elbírálásának ügyintézési határideje 20 nap.
 
-(4) Az engedélyezési eljárásban szakhatóságként részt vesz
-
-a)[^8] a higiénés és egészségvédelmi, az ivóvíz minőségi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások érvényesítésével kapcsolatos szakkérdésben a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala,
-
-b) a meglévő építmény tekintetében az általános érvényű kötelező építésügyi előírásoknak, a helyi építési szabályzatnak és a szabályozási terveknek való megfelelés kérdésében az általános építésügyi hatóság, a sajátos építményfajta szerinti építésügyi hatóság vagy a műemlékeket engedélyező építésügyi hatóság, kivéve, ha ugyanerre a rendeltetésre vonatkozóan az engedély iránti kérelem benyújtását megelőző hat hónapon belül használatbavételi vagy fennmaradási engedélyt adott ki,
-
-c)[^9]
-
-d) a jogszabályban előírt tűzvédelmi követelmények érvényesítésével kapcsolatos szakkérdésben a tűzvédelmi hatóság,
-
-e) a tevékenység közbiztonságra gyakorolt hatásával, a személy- és vagyonbiztonsággal kapcsolatos szakkérdésekben a rendőrség.
-
-(5) Amennyiben az engedély és a működési engedély iránti kérelmet a kérelmező egyszerre nyújtja be, a szakhatóságok az ellenőrzést mind az engedély, mind a működési engedély feltételei vonatkozásában egyszerre folytatják le.
+(4)–(5)[^8]
 
 (6) A bejelentésköteles kereskedelmi tevékenység bejelentésével egyidejűleg benyújtott engedély iránti kérelem esetében a hatósági ellenőrzéseket mind az engedély, mind a bejelentett kereskedelmi tevékenység feltételei vonatkozásában egyszerre, az engedély kiadását megelőzően kell lefolytatni. A bejelentést követő harminc napon belül nincs szükség újabb hatósági ellenőrzések lefolytatására.
 
 [^7]: A 3. § (3) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 36. §-a szerint módosított szöveg.
-[^8]: A 3. § (4) bekezdés a) pontja a 441/2012. (XII. 29.) Korm. rendelet 22. §-a, a 70/2015. (III. 30.) Korm. rendelet 170. § (2) bekezdése szerint módosított szöveg.
-[^9]: A 3. § (4) bekezdés c) pontját a 94/2011. (VI. 28.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
+[^8]: A 3. § (4)–(5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 321. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
