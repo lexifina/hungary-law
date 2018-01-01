@@ -1,3 +1,5 @@
+## 3. §[^1]
+
 ## II. Fejezet
 
 ## ÉRTELMEZŐ RENDELKEZÉSEK
@@ -431,3 +433,5 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 199. vonatkozó műszaki követelmény: nemzeti és Európai Uniós szabványok összessége,
 
 200. zárt közlekedő helyiség: minden oldalról elsődleges építményszerkezettel határolt közlekedő helyiség.
+
+[^1]: A 3. §-t a 44/2017. (XII. 29.) BM rendelet 102. § a) pontja hatályon kívül helyezte.
