@@ -1,8 +1,8 @@
 ## Az archiválandó dokumentumok
 
-## és az archiválás módja[^1]
+## és az archiválás módja[^2]
 
-1/A. §[^2] (1) Hagyatéki eljárásban a rész hagyatékátadó végzést [a hagyatéki eljárásról szóló 6/1958. (VII. 4.) IM rendelet (a továbbiakban: He.) 59. § (5) bekezdés], a haszonélvezeti jog megváltása tárgyában hozott külön végzést [He. 72/C. § (2) bekezdés] és az eljárást érdemben befejező jogerős határozatot kell archiválni. Ha egy ügyben rész hagyatékátadó végzés, illetve külön végzés hozatalára is sor került, azokat az érdemben befejező határozattal együtt kell archiválni.
+1/A. §[^3] (1) Hagyatéki eljárásban a rész hagyatékátadó végzést [a hagyatéki eljárásról szóló 6/1958. (VII. 4.) IM rendelet (a továbbiakban: He.) 59. § (5) bekezdés], a haszonélvezeti jog megváltása tárgyában hozott külön végzést [He. 72/C. § (2) bekezdés] és az eljárást érdemben befejező jogerős határozatot kell archiválni. Ha egy ügyben rész hagyatékátadó végzés, illetve külön végzés hozatalára is sor került, azokat az érdemben befejező határozattal együtt kell archiválni.
 
 (2) Ha a jogügylethez kapcsolódóan külön okiratba foglalt jognyilatkozat is készült, az okiratokat együttesen kell archiválni, kivéve, ha a kölcsön- vagy hitelszerződéssel összefüggő biztosítéki szerződések külön okiratba foglaltan jönnek létre.
 
@@ -14,5 +14,5 @@
 
 (6) Nem kell archiválni a közreműködés megtagadásáról és az okirat kijavításáról szóló jogerős végzést.
 
-[^1]: Az 1/A. §-t megelőző címet az 55/2007. (XII. 21.) IRM rendelet 3. § (1) bekezdése iktatta be.
-[^2]: Az 1/A. §-t az 55/2007. (XII. 21.) IRM rendelet 3. § (1) bekezdése iktatta be.
+[^2]: Az 1/A. §-t megelőző címet az 55/2007. (XII. 21.) IRM rendelet 3. § (1) bekezdése iktatta be.
+[^3]: Az 1/A. §-t az 55/2007. (XII. 21.) IRM rendelet 3. § (1) bekezdése iktatta be.
