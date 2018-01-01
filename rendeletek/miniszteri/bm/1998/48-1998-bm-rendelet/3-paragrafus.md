@@ -1,1 +1,0 @@
-## 2. § E rendelet hatálybalépését követően, ahol BM rendelet, állami irányítás egyéb jogi eszköze, illetve belső norma Repülőtéri Biztonsági Főigazgatóságot vagy Főigazgatóságot említ, azon Repülőtéri Biztonsági Szolgálatot (a továbbiakban: Szolgálat) kell érteni.
