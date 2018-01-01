@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-23-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-04-01 | 1998-23-20-22.3 | 23/1998. (II. 13.) Korm. rendelet |
+| 2018-01-01 | 1998-23-20-22.4 | 311/2006. (XII. 23.) Korm. rendelet |
