@@ -2,88 +2,46 @@
 
 ## új személygépkocsi gumiabroncs gyártó üzemének beruházásával kapcsolatos kiemelt jelentőségű ügyek és az azokban eljáró hatóságok
 
-|  | A | B | C | D | E |
+|  | A | B | C | D |
 
-| 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
+| 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
 
-| 2. | Kiemelt beruházásként új gyártó üzem és annak építményei létesítése | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági eljárások | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Komárom-Esztergom Megyei Kormányhivatal |
+| 2. | Kiemelt beruházásként új gyártó üzem és annak építményei létesítése | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági eljárások | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
 
-| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Budapest Főváros Kormányhivatala |
+| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
 
-| 4. | környezetvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Pest Megyei Kormányhivatal |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
 
-| 5. | természetvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Pest Megyei Kormányhivatal |
+| 5. | természetvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Komárom- Esztergom Megyei Kormányhivatal |
+| 6. | útügyi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
 
-| 7. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
+| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala |
 
-| 9. | ingatlan- nyilvántartási hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Komárom- Esztergom Megyei Kormányhivatal |
+| 9. | ingatlan- nyilvántartási hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
 
-| 10. | telekalakítási hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Komárom- Esztergom Megyei Kormányhivatal |
+| 10. | telekalakítási hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
 
-| 11. | földmérési hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Komárom- Esztergom Megyei Kormányhivatal |
+| 11. | földmérési hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
 
-| 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 13. | bányahatósági engedélyezési eljárás | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
+| 13. | bányahatósági engedélyezési eljárás | Pest Megyei Kormányhivatal |
 
-| 14. | talajvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Komárom- Esztergom Megyei Kormányhivatal |
+| 14. | talajvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
 
-| 15. | vasúti hatósági engedélyezési eljárás | közlekedésért felelős miniszter | nincs |
+| 15. | vasúti hatósági engedélyezési eljárás | közlekedésért felelős miniszter |
 
-| 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
 
-| 17. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 17. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
 
-| 18. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 18. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
 
-| 19. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 19. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 446/2012. (XII. 29.) Korm. rendelethez[^9]
+2. melléklet a 446/2012. (XII. 29.) Korm. rendelethez[^10]
 
-A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
-
-|  | A | B | C |
-
-| 1. | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
-
-| 2. | építésügy | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Komárom-Esztergom Megyei Kormányhivatal |
-
-| 3. | műemlékvédelem és régészet | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Budapest Főváros Kormányhivatala |
-
-| 4. | környezet- és természetvédelem | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Pest Megyei Kormányhivatal |
-
-| 5. | vízügy és vízvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
-
-| 6. | közúti közlekedés | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Komárom-Esztergom Megyei Kormányhivatal |
-
-| 7. | vasúti közlekedés | közlekedésért felelős miniszter | nincs |
-
-| 8. | polgári légiközlekedés | közlekedésért felelős miniszter | nincs |
-
-| 9. | állami célú légiközlekedés | honvédelemért felelős miniszter | nincs |
-
-| 10. | földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
-
-| 11. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
-
-| 12. | rendészet | Komárom-Esztergom Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
-
-| 13. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
-
-| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
-
-| 15. | talajvédelem | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Komárom-Esztergom Megyei Kormányhivatal |
-
-| 16. | erdővédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
-
-| 17. | egészségügy | illetékes járási hivatal | Komárom-Esztergom Megyei Kormányhivatal |
-
-| 18. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
-
-| 19. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
-
-[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 35. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 46. § b) pontja szerint módosított szöveg.
+[^10]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 66. § c) pontja hatályon kívül helyezte.
