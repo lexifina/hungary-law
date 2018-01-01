@@ -2,7 +2,7 @@
 
 ## 20. § A Hivatal nyelvvizsga-akkreditációs központként
 
-a) lebonyolítja a nyelvvizsgáztatási akkreditációs eljárásokat, meghozza az elsőfokú döntéseket, legalább kétévente ellenőrzi az akkreditált vizsgaközpontokat és -rendszereket,
+a)[^31] lebonyolítja a nyelvvizsgáztatási akkreditációs eljárásokat, meghozza a döntéseket, legalább kétévente ellenőrzi az akkreditált vizsgaközpontokat és -rendszereket,
 
 b) meghatározza és a vizsgaközpontok rendelkezésére bocsátja a bizonyítvány- és nyelvvizsgaanyakönyv-nyomtatványokat,
 
@@ -14,4 +14,9 @@ e) végzi a külföldön szerzett nyelvvizsga-bizonyítványok honosítását,
 
 f) a részvizsgák egyesítése során az egyenértékűségről hatósági bizonyítványt ad ki,
 
-g) a felnőttképzésről szóló törvényben meghatározottak szerint adatot szolgáltat a felnőttképzési hatóság számára.
+g) a felnőttképzésről szóló törvényben meghatározottak szerint adatot szolgáltat a felnőttképzési hatóság számára,
+
+h)[^32] az államilag elismert nyelvvizsga-bizonyítvány kibocsátására akkreditált vizsgaközpont felügyeleti szerve, és gyakorolja a fellebbezés elbírálására jogosult hatóság részére meghatározott jogosítványokat a vizsgaközpont döntéseivel szemben.
+
+[^31]: A 20. § a) pontja a 457/2017. (XII. 28.) Korm. rendelet 442. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^32]: A 20. § h) pontját a 457/2017. (XII. 28.) Korm. rendelet 441. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -26,8 +26,8 @@ k) az Európai Képesítési Keretrendszer Nemzeti Kapcsolattartó Pontja felada
 
 l) a köznevelési, felsőoktatási és szakképzési rendszer tartalmi és módszertani kutatási és fejlesztési feladatai ellátásában közreműködő szervnek,
 
-m)[^5] a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvényben meghatározott diák-, pedagógus- és oktatói kedvezményekre való jogosultsággal összefüggő adatok közhiteles nyilvántartását vezető szervnek.
+m)[^5] a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvényben meghatározott diák-, pedagógus- és oktatói kedvezményekre való jogosultsággal összefüggő adatok nyilvántartását vezető szervnek.
 
 [^3]: A 3. § b) pontja a 486/2016. (XII. 28.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^4]: A 3. § f) pontja a 325/2013. (VIII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § m) pontját a 136/2016. (VI. 13.) Korm. rendelet 8. §-a iktatta be.
+[^5]: A 3. § m) pontját a 136/2016. (VI. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 443. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

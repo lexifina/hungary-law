@@ -2,4 +2,6 @@
 
 11. § (1) A Hivatal ellátja az országos szakértői és érettségi vizsgaelnöki névjegyzékkel kapcsolatos, az Nkt. 82. §-ában meghatározott feladatokat.
 
-(2) A Hivatal elsőfokú döntést hoz a köznevelési szakértői engedély kiadásáról, a köznevelési szakértői tevékenységtől és a vizsgáztatási tevékenységtől való eltiltásról.
+(2)[^20] A Hivatal döntést hoz a köznevelési szakértői engedély kiadásáról, a köznevelési szakértői tevékenységtől és a vizsgáztatási tevékenységtől való eltiltásról.
+
+[^20]: A 11. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 443. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
