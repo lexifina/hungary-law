@@ -22,7 +22,7 @@ c) aki már nem felel meg a tagsági viszony létesítése feltételeinek.
 
 (3) Az (1) bekezdés d) pontjában meghatározott esetben a határozathozatalra és a jogorvoslatra az etikai eljárásra vonatkozó szabályok irányadók.
 
-(4) A (2) bekezdés alapján a hivatásos vadász kizárásáról és nyilvántartásból való törléséről rendelkező jogerős határozat bírósági felülvizsgálata esetén a határozatot a bíróság megváltoztathatja.
+(4)
 
 (5) Azt a személyt, akinek tagsági viszonya az (1) bekezdés b) pontja alapján szűnt meg, kérelmére a tagfelvételre egyébként illetékes vezetőség ismét felveszi a kamara tagjai közé.
 

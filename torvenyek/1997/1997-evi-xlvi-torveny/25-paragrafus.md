@@ -12,7 +12,7 @@ e) kizárás.
 
 (2) A b)–e) pontok szerinti etikai büntetés a vadászetikai szabályok ismételt és súlyos megsértése esetén alkalmazható. A tagsági viszony felfüggesztése esetén a 16. § (2)–(3) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
-(3) A kamara országos etikai bizottsága által hozott kizárást kimondó másodfokú határozatával szembeni jogorvoslatra a közigazgatási hatósági eljárás általános szabályairól szóló törvény bírósági felülvizsgálatra vonatkozó szabályait kell alkalmazni.
+(3) A kamara országos etikai bizottsága által hozott kizárást kimondó másodfokú végzés közigazgatási perben megtámadható.
 
 (4) A vadászati, az erdészeti, valamint a természetvédelmi hatóság hatósági feladatokat ellátó dolgozójával szemben kizárás etikai büntetés csak az illetékes miniszter hozzájárulásával szabható ki.
 

@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-46-00-00
 | 2012-01-01 | 2011. évi CCII. törvény | 1997-46-00-00.8 |
 | 2017-01-01 | 2016. évi CXIV. törvény | 1997-46-00-00.9 |
 | 2017-03-01 | 2016. évi CXIV. törvény | 1997-46-00-00.10 |
+| 2018-01-01 | 2017. évi L. törvény | 1997-46-00-00.11 |

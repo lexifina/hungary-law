@@ -10,7 +10,7 @@ c) igénybe vegye a kamara által nyújtott szolgáltatásokat;
 
 d) a kamara tisztségviselőitől a kamara működéséről érdemi felvilágosítást kérjen;
 
-e) a kamara bármely szerve jogsértő testületi határozatának bíróság általi felülvizsgálatát kezdeményezze;
+e) a kamara bármely szerve jogsértő testületi határozatát megtámadja;
 
 f) a kamara bármely szerve vagy tisztségviselője alapszabályt sértő határozatának, intézkedésének felügyelőbizottság általi felülvizsgálatát kezdeményezze;
 
@@ -28,8 +28,6 @@ b) megtartsa a kamara alapszabályában és más szabályzataiban foglaltakat;
 
 c) a vadászat gyakorlása során a szakmai irányelveknek, valamint a vadászetikai szabályzatban foglaltaknak megfelelően járjon el.
 
-(4) Az (1) bekezdés e) pontja szerinti perindításra az a tag nem jogosult, aki a határozat meghozatalában részt vett, és nem szavazott a határozat ellen. A perindítás szándékát a tag köteles bejelenteni a határozat meghozatalától számított tizenöt napon belül az országos szervezet felügyelőbizottságának, amely további tizenöt napon belül állást foglal, s erről a határozatot hozó testületet, valamint a tagot írásban értesíti.
+(4) Az (1) bekezdés e) pontja szerinti perindításra az a tag jogosult, aki a határozat meghozatalában nem vett részt, vagy aki a határozat meghozatalában részt vett és ellene szavazott.
 
-(5) A keresetet az országos szervezet felügyelőbizottsága állásfoglalásának kézhezvételétől számított harminc napon belül a sérelmes döntést hozó szervezet ellen kell megindítani. A keresetindításra nyitvaálló határidő jogvesztő. A keresetindításnak halasztó hatálya nincs, a bíróság azonban a határozat végrehajtását felfüggesztheti.
-
-(6) A (4)–(5) bekezdés szerinti esetekben a bíróság eljárására a Polgári perrendtartás közigazgatási perekre vonatkozó szabályait kell alkalmazni.
+(5)–(6)

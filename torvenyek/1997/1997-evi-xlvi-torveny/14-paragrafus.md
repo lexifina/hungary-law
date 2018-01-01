@@ -12,4 +12,4 @@
 
 (4) Nem utasítható el a tagfelvételi kérelme annak, aki rendelkezik a vadászat gyakorlásának külön jogszabályban előírt feltételeivel. A vadászat gyakorlásának feltételeivel a pártoló, illetve tiszteletbeli tagnak nem kell rendelkeznie.
 
-(5) A hivatásos vadász tagfelvételi kérelmét, valamint vadászjegy kiállítására, illetve érvényesítésére irányuló kérelmét elutasító jogerős határozat bírósági felülvizsgálata esetén a határozatot a bíróság megváltoztathatja.
+(5)
