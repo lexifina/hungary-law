@@ -1,6 +1,6 @@
 8. § (1) A minősítő a minősítési eljárás alapján dönt a hulladékgazdálkodási közszolgáltatási tevékenység minősítési engedélyének kiadásáról. A minősítési engedélyben a minősítő meghatározza a hulladékgazdálkodási közszolgáltatási tevékenység végzésének feltételeit, továbbá elvégzi a tevékenység (3) bekezdés szerinti minősítési osztályba sorolását.
 
-(2) A minősítési engedély – a Ket.-ben foglalt követelményeken felül – legalább a következőket tartalmazza:
+(2) A minősítési engedély legalább a következőket tartalmazza:
 
 a) a kérelmező azonosító adatai (név, székhely, cégjegyzékszám, adószám, KÜJ-szám és KTJ-szám, statisztikai számjel),
 

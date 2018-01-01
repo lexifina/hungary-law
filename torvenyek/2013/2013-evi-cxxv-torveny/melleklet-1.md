@@ -110,11 +110,11 @@ c) az 5. melléklet szerint
 
 ca) a kérelem benyújtását megelőző
 
-12 hónapon belül meghozott jogerős
+12 hónapon belül meghozott véglegessé vált
 
 határozatban megállapított környezetveszélyeztetés vagy környezetkárosítás miatt kiszabott környezetvédelmi bírságfizetési kötelezettsége nem keletkezett, továbbá
 
-cb) a kérelem benyújtásától számított 12 hónapnál régebben meghozott jogerős határozatban környezetveszélyeztetés vagy környezetkárosítás miatt megállapított környezetvédelmi bírságfizetési kötelezettségének eleget tett, és a jogszabálysértéssel kapcsolatos egyéb kötelezettségeit teljesítette.
+cb) a kérelem benyújtásától számított 12 hónapnál régebben meghozott véglegessé vált határozatban környezetveszélyeztetés vagy környezetkárosítás miatt megállapított környezetvédelmi bírságfizetési kötelezettségének eleget tett, és a jogszabálysértéssel kapcsolatos egyéb kötelezettségeit teljesítette.
 
 |
 

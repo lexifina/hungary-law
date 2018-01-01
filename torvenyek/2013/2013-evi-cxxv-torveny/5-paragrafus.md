@@ -1,1 +1,1 @@
-5. § A minősítési eljárásban kizárólag a kérelmező minősül ügyfélnek. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 98. § (1) bekezdése az e törvényben meghatározott eljárásokban nem alkalmazható.
+5. § A minősítési eljárásban a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 98. § (1) bekezdése az e törvényben meghatározott eljárásokban nem alkalmazható.

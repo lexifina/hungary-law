@@ -30,7 +30,7 @@ l) nyilatkozat arról, hogy a kérelmező a Ht. 61. § (4) bekezdésében meghat
 
 (3) A kérelemhez csatolni kell
 
-a) a hatályos hulladékgazdálkodási engedélyt vagy engedélyeket,
+a)
 
 b)
 
@@ -42,9 +42,7 @@ d) az igazgatási szolgáltatási díj megfizetését igazoló bizonylatot.
 
 a) a hulladékgazdálkodási közszolgáltatásba bevont szállító eszközök – így különösen gépjárművek, célgépek –, valamint az e törvény szerinti hulladékkezelő létesítmények tulajdonának igazolására szolgáló
 
-aa) tulajdoni lapot,
-
-ab) forgalmi engedélyt,
+aa)–ab)
 
 ac) leltári nyilvántartási kivonatot,
 

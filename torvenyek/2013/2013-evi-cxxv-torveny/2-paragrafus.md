@@ -24,4 +24,4 @@
 
 (2) Az e törvényben meg nem határozott fogalmak tekintetében a Ht.-ben meghatározott fogalmakat kell alkalmazni.
 
-(3) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(3)
