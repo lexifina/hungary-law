@@ -6,6 +6,6 @@
 
 (4) A jutalomösszeg adó- és illetékmentes.
 
-(5) A díjazott az adományozás jogcímén a törvényben meghatározott címhasználaton és jutalomösszegen túl más kedvezményekben nem részesíthető.
+(5)
 
 (6) A Díj adományozásával járó költségeket a Köztársasági Elnök Hivatala költségvetésében kell biztosítani.
