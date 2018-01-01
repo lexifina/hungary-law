@@ -10,7 +10,7 @@ ac) társadalombiztosítási azonosító jelét és
 
 ad) adóazonosító jelét,
 
-b) az ideiglenes hatályú elhelyezésről, a nevelésbe vételről, a gondozási hely meghatározásáról és az utógondozói ellátás elrendeléséről szóló hatósági döntés számát, keltét, jogerőre emelkedésének tényét és időpontját, valamint a döntést hozó hatóság megnevezését,
+b)[^16] az ideiglenes hatályú elhelyezésről, a nevelésbe vételről, a gondozási hely meghatározásáról és az utógondozói ellátás elrendeléséről szóló hatósági döntés számát, keltét, véglegessé válásának tényét és időpontját, valamint a döntést hozó hatóság megnevezését,
 
 c) a gyermeknek járó teljes körű ellátás és a fiatal felnőttnek járó szükség szerinti ellátás biztosítására való felhívást, valamint az ellátás biztosításának kezdő időpontját a hatósági döntés alapján,
 
@@ -33,3 +33,5 @@ h) a nevelőszülő és a működtető képviselőjének aláírását.
 (5) Ha a gyámhivatal határozata alapján a gyermek, fiatal felnőtt kikerül a nevelőszülő gondozásából, a működtető a határozat kézhezvételét követően haladéktalanul megszüntetési záradékkal látja el a kiegészítő megállapodást. A záradék tartalmazza a gyermek, fiatal felnőtt nevelőszülőnél töltött utolsó teljes napjának időpontját és a nevelőszülő tájékoztatását a 19. § (2) bekezdésében foglaltakról.
 
 (6) A megszüntetési záradékot a működtető és a nevelőszülő aláírásával látja el.
+
+[^16]: A 12. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 479. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

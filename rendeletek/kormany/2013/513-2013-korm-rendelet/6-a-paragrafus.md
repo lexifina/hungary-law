@@ -1,4 +1,4 @@
-## 6/A. §[^7] A nevelőszülő akkor felel meg a Gyvt. 54. § (1) bekezdés f) pontja szerinti képesítési előírásoknak, ha
+## 6/A. §[^9] A nevelőszülő akkor felel meg a Gyvt. 54. § (1) bekezdés f) pontja szerinti képesítési előírásoknak, ha
 
 a) az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítéssel rendelkezik, vagy
 
@@ -8,4 +8,4 @@ ba) az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítés
 
 bb) a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott, a nevelőszülők számára szervezett központi oktatási programot eredményesen elvégzi.
 
-[^7]: A 6/A. §-t a 448/2016. (XII. 19.) Korm. rendelet 57. §-a iktatta be.
+[^9]: A 6/A. §-t a 448/2016. (XII. 19.) Korm. rendelet 57. §-a iktatta be.
