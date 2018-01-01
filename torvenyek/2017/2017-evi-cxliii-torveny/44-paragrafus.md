@@ -1,0 +1,3 @@
+44. § A Harmtv. 59. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A bíróság határozatát az érintett harmadik országbeli állampolgárral és az idegenrendészeti hatósággal kell közölni. Ha a harmadik országbeli állampolgárnak meghatalmazott jogi képviselője van, vagy számára ügygondnokot jelöltek ki, a határozatot vele is közölni kell. A meghallgatáson hozott határozatot kihirdetés útján kell közölni, és azt az írásba foglalást követően nyomban kézbesíteni is kell. A meghallgatáson kívül hozott határozatot a bíróság az érintett harmadik országbeli állampolgárral az őrizet elrendelő idegenrendészeti hatóság útján közli.”

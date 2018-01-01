@@ -1,0 +1,1 @@
+10. § Hatályát veszti a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 23. § (2) bekezdés c) pontjában az „és rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel” szövegrész.
