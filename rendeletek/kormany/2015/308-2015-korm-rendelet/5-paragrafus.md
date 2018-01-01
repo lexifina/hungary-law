@@ -2,9 +2,9 @@
 
 5. § (1) A Hatóság eljárása – a 4. § szerinti ellenőrzési tervben nem szereplő szerződések vonatkozásában – hivatalból indul.
 
-(2) A Hatóság hivatalból indított eljárását – a jogsértés tudomásra jutásától számított 90 napon belül – a Kbt. 152. § (1) bekezdésében meghatározott szervezetek vagy személyek erre irányuló kérelem benyújtásával kezdeményezhetik. A Hatóság elnöke által kezdeményezett eljárás esetében kérelem benyújtására nincs szükség.
+(2)[^5] A Hatóság hivatalból indított eljárását – a jogsértés tudomásra jutásától számított 90 napon belül – a Kbt. 152. § (1) bekezdésében meghatározott szervezetek vagy személyek erre irányuló kérelem benyújtásával kezdeményezhetik. A kérelem kizárólag a Hatóságnál terjeszthető elő. A Hatóság elnöke által kezdeményezett eljárás esetében kérelem benyújtására nincs szükség.
 
-(3) A kérelemnek – a Ket. 35. § (1) bekezdésében foglaltakon túl – tartalmaznia kell:
+(3)[^6] A kérelemnek – az Ákr. 36. § (1) bekezdésében foglaltakon túl – tartalmaznia kell:
 
 a) a kérelmezői jogosultságot alátámasztó tényeket,
 
@@ -39,3 +39,6 @@ e) a kérelem nyilvánvalóan nem az előterjesztésére jogosulttól származik
 f) a kérelem tartalmából megállapítható, hogy az ügy nem tartozik e rendelet tárgyi hatálya alá, vagy
 
 g) a kérelem a szerződéssel kapcsolatos jogerős bírósági vagy hatósági határozattal elbírált kérdésre vonatkozik.
+
+[^5]: Az 5. § (2) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^6]: Az 5. § (3) bekezdés nyitó szövegrésze a 481/2017. (XII. 28.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

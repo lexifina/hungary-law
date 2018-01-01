@@ -2,7 +2,7 @@
 
 ## 4. Összeférhetetlenség
 
-7. § (1) A hatósági ellenőrzésben – a Ket. 42. § (1) és (3) bekezdésében meghatározottakon túl – nem járhat el a Hatóságnak az a tisztviselője, aki
+7. § (1)[^7] A hatósági ellenőrzésben – az Ákr. 22. § és 23. § (1) bekezdésében meghatározottakon túl – nem járhat el a Hatóságnak az a tisztviselője, aki
 
 a) az ellenőrzött szervezet vezetőjének, vezető tisztségviselőjének, felügyelőbizottsága tagjának vagy alkalmazottjának a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pont szerinti közeli hozzátartozója,
 
@@ -22,8 +22,11 @@ c) olyan szervezettel áll munkaviszonyban, egyéb foglalkoztatási jogviszonyba
 
 d) olyan szervezettel áll közszolgálati jogviszonyban, amely az ellenőrzött szervezet felügyelő vagy alárendelt szervezete, illetve amely az ellenőrzött szervezet részére támogatást vagy kizárólagos jogot biztosított.
 
-(3) A Hatóság tisztviselője a Hatóság elnökének haladéktalanul, de legkésőbb az ok felmerülésétől számított három napon belül köteles bejelenteni, ha vele szemben a jelen §-ban vagy a Ket. 42. § (1), illetve (3) bekezdésében meghatározott kizárási ok áll fenn. A bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik.
+(3)[^8] A Hatóság tisztviselője a Hatóság elnökének haladéktalanul, de legkésőbb az ok felmerülésétől számított három napon belül köteles bejelenteni, ha vele szemben a jelen §-ban vagy az Ákr. 22. §, illetve 23. § (1) bekezdésében meghatározott kizárási ok áll fenn. A bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik.
 
 (4) Az összeférhetetlenségről a Hatóság elnöke az összeférhetetlenség okának tudomására jutásától számított nyolc napon belül határoz. A döntés meghozataláig a Hatóság tisztviselője az összeférhetetlenséggel érintett hatósági ellenőrzéssel összefüggésben az ellenőrzési tevékenysége alól fel kell menteni.
 
 (5) Ha az (1)–(2) bekezdés szerinti összeférhetetlenség a Hatóság elnökével kapcsolatban merül fel, az összeférhetetlenségről a Közbeszerzések Tanácsa határoz.
+
+[^7]: A 7. § (1) bekezdés nyitó szövegrésze a 481/2017. (XII. 28.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^8]: A 7. § (3) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.

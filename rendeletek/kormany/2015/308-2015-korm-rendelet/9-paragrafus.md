@@ -1,4 +1,4 @@
-## 6. [^1] Szakértő felkérése, kirendelése
+## 6. [^10] Szakértő felkérése, kirendelése
 
 9. § (1) Az építési beruházás tárgyú szerződések ellenőrzése tekintetében az e rendelet szerinti hatósági ellenőrzés során
 
@@ -18,4 +18,4 @@ b) az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft. (a to
 
 (6) Az ÉMI által e rendelet keretében végzett szakértői tevékenység közfeladat, amelyre vonatkozóan az ÉMI a Hatósággal együttműködési megállapodást köt.
 
-[^1]: A 6. alcím (9. §) a 487/2016. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^10]: A 6. alcím (9. §) a 487/2016. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
