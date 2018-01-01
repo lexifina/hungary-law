@@ -1,5 +1,5 @@
 ## 20175Z20000011_17
 
-18. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^18]
+18. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^21]
 
-[^18]: A 18. melléklet a 12/2017. (XI. 6.) MEKH rendelet 4. § (12) bekezdésével megállapított szöveg.
+[^21]: A 18. melléklet a 17/2017. (XII. 21.) MEKH rendelet 2. § (8) bekezdésével megállapított szöveg.

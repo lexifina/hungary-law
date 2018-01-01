@@ -2,4 +2,4 @@
 
 4. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^9]
 
-[^9]: A 4. melléklet a 12/2017. (XI. 6.) MEKH rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^9]: A 4. melléklet a 17/2017. (XII. 21.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
