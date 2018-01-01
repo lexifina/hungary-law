@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1517-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-09-16 | 2014-1517-30-22.1 | 1517/2014. (IX. 16.) Korm. határozat |
+| 2018-01-01 | 2014-1517-30-22.2 | 2011. évi CXCV. törvény |
