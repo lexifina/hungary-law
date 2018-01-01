@@ -56,18 +56,18 @@ c) a gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség b
 
 d) a b) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
-(4) A 2. § (5) bekezdés alapján a közraktári engedély csak akkor adható meg, ha a közraktár részére a tulajdonjogot az ingatlan-nyilvántartásba jogerősen bejegyezték.
+(4) A 2. § (5) bekezdés alapján a közraktári engedély csak akkor adható meg, ha a közraktár részére a tulajdonjogot az ingatlan-nyilvántartásba végleges határozattal bejegyezték.
 
-(5) Ha a kérelmező a (3) bekezdés b)–d) pontjában meghatározott adatokat nem igazolja, a felügyelet a közraktári engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (3) bekezdés b)–d) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz. A felügyelet a (2) bekezdés g) pontja szerinti esetben, ha a közraktárban tulajdoni részesedéssel rendelkező személy a cégjegyzékben nyilvántartott cég, a cég cégkivonatát, valamint a (3) bekezdés a) pontja alapján a részvénytársaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(5) A felügyelet a közraktári engedély iránti kérelem elbírálása céljából adatot igényel a (3) bekezdés b)–d) pontjában meghatározott adatokról nyilvántartást vezető hatóságtól vagy bíróságtól. A felügyelet a (2) bekezdés g) pontja szerinti esetben, ha a közraktárban tulajdoni részesedéssel rendelkező személy a cégjegyzékben nyilvántartott cég, a cég cégkivonatát, valamint a (3) bekezdés a) pontja alapján a részvénytársaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(6) A részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg az igazgatóság tagja hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a (3a) bekezdésben meghatározott kizáró feltétel, vagy kéri, hogy az erre vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – annak a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet a (7) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+(6) A felügyelet a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából az igazgatóság tagja vonatkozásában adatot igényel a bűnügyi nyilvántartási rendszerből a (3a) bekezdésben meghatározott kizáró feltételekről.
 
 (7) A felügyelet a részvénytársasági formában működő közraktári tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az igazgatóság tagjával szemben nem áll fenn a (3a) bekezdésben meghatározott kizáró feltétel. A hatósági ellenőrzés céljából a felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy az igazgatóság tagjával szemben nem áll-e fenn a (3a) bekezdésben meghatározott kizáró feltétel.
 
 (8) A (6) és (7) bekezdés alapján megismert személyes adatokat a felügyelet
 
-a) a részvénytársasági formában működő közraktári tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
+a) a részvénytársasági formában működő közraktári tevékenység engedélyezése iránti eljárás végleges befejezéséig,
 
-b) a részvénytársasági formában működő közraktári tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+b) a részvénytársasági formában működő közraktári tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás végleges befejezéséig
 
 kezeli.

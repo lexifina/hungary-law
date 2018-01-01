@@ -1,6 +1,6 @@
 6. § (1) A közraktári tevékenység folytatására, illetve megszüntetésére vonatkozó engedély iránti kérelmet két példányban kell benyújtani.
 
-(2) Az 5. § (2) és (3) bekezdésében, az 5/A. §-ban, az 5/B. § (1) és (2) bekezdésében, az 5/C. § (2) bekezdésében, a 7. § (3) bekezdésében, a 8. § (3) és (4) bekezdésében, valamint a 13. § (1) bekezdésében foglalt engedélyezési kérelemhez és bejelentési kötelezettség teljesítéséhez szükséges mellékletek, igazolások és nyilatkozatok – a 2. § (4)–(5) bekezdésekben megjelölt feltételek megléte, a büntetlenség igazolása, a köztartozásokra vonatkozó igazolások, szakképesítés igazolása, valamint a közraktári jegy tervezet egy-egy példányának kivételével – másolatban is becsatolhatóak. Ha a mellékletek között idegen nyelvű okirat van, mellékelni kell annak a magyar nyelvű fordítását is.
+(2) Az 5. § (3) bekezdés a) pontjában, az 5/A. §-ban, az 5/B. § (1) és (2) bekezdésében, az 5/C. § (2) bekezdésében, a 7. § (3) bekezdésében, a 8. § (3) bekezdésében, valamint a 13. § (1) bekezdésében foglalt engedélyezési kérelemhez és bejelentési kötelezettség teljesítéséhez szükséges mellékletek, igazolások és nyilatkozatok – a 2. § (4)–(5) bekezdésekben megjelölt feltételek megléte, szakképesítés igazolása, valamint a közraktári jegy tervezet egy-egy példányának kivételével – másolatban is becsatolhatóak. Ha a mellékletek között idegen nyelvű okirat van, mellékelni kell annak a magyar nyelvű fordítását is.
 
 (3) Ha az ügyfél a kérelmét hiányosan nyújtotta be, a felügyelet a kérelem beérkezésétől számított harminc napon belül – megfelelő határidő megjelölésével és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
 
@@ -14,7 +14,7 @@ a) az általa kiadott tevékenységi engedéllyel rendelkezők jegyzékét (köz
 
 b) azon külföldi felügyeleti hatóságok jegyzékét, amelyekkel kölcsönös elismerésen alapuló együttműködési megállapodást kötött,
 
-c) az ellenőrzése eredményeként hozott jogerős és előzetesen végrehajtható határozatát,
+c) az ellenőrzése eredményeként hozott végleges és előzetesen végrehajtható határozatát,
 
 d) a döntése ellen indított jogorvoslati eljárás tényét, és a jogorvoslati eljárás eredményét.
 

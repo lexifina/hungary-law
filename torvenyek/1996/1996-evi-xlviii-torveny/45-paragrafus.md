@@ -7,3 +7,5 @@
 (4) A Módtv.-vel megállapított 20. § (1) bekezdés szerinti, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti mechanikai vagyonvédelmi rendszerrel való folyamatos őrzést a Módtv. hatálybalépésekor működő közraktárnak legkésőbb a Módtv. hatálybalépését követő 90 napon belül kell biztosítania.
 
 (5) A Módtv.-vel megállapított 20. § (2a) bekezdését, valamint 22. § (1), (1a), valamint (1b) bekezdését csak a Módtv. hatálybalépését követően megkötött közraktári szerződésekre vonatkozóan kell alkalmazni.
+
+(6) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.

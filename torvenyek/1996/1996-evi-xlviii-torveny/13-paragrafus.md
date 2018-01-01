@@ -8,7 +8,7 @@ b) a zálogkölcsönnyújtási szabályzat módosításának szándékát;
 
 c) az alkalmazni kívánt közraktári jegyek, letéti könyv megváltoztatásának szándékát.
 
-(2) A felügyelet az engedélyezés iránti kérelemről a beérkezését követő naptól számított harminc napon belül, az (1) bekezdés b) pontja esetén az MNB-nek a zálogkölcsön-nyújtási szabályzat módosításának jogszerűsége tekintetében kiadott szakhatósági állásfoglalása figyelembevételével, határozatban dönt.
+(2) A felügyelet az engedélyezés iránti kérelemről harminc napon belül dönt.
 
 (3) A közraktár köteles az alábbiakat haladéktalanul írásban bejelenteni a felügyeletnek:
 

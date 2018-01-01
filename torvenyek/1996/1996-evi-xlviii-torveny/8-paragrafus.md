@@ -16,9 +16,9 @@ b) nyilatkozatot arról, hogy a tulajdonszerzéshez szükséges összeg a kérel
 
 a) büntetlen előéletű és
 
-b) jogerősen megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
+b) végleges határozattal megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
 
-(5) Ha a kérelmező a (4) bekezdés b) pontjában meghatározott adatokat nem igazolja, a felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (4) bekezdés b) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz.
+(5) A felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálása céljából adatot igényel a (4) bekezdés b) pontjában meghatározott adatokról nyilvántartást vezető hatóságtól.
 
 (6) Ha a közraktárban gazdasági társaság szerez az (1) bekezdés szerint minősített befolyást, az előzetes engedély iránti kérelemhez mellékelni kell:
 
@@ -32,8 +32,8 @@ c) nyilatkozatot arról, hogy milyen – a számviteli törvény szerinti – f�
 
 a) nyilatkozatban igazolja cégjegyzékszámát, adószámát és
 
-b) jogerősen megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
+b) végleges határozattal megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
 
-(8) A felügyelet a kérelmező cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező a (7) bekezdés b) pontjában meghatározott adatokat nem igazolja, a felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
+(8) A felügyelet a kérelmező cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. A minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálása céljából a felügyelet adatot igényel az adatokról nyilvántartást vezető hatóságtól.
 
 (9) A felügyelet a minősített befolyás megszerzését eredményező megállapodáshoz szükséges előzetes engedély iránti kérelmet a beérkezését követő naptól számított tizenöt napon belül elbírálja. A felügyelet a kérelmet elutasíthatja, ha a befolyást megszerezni kívánó fél tevékenysége vagy a közraktárra gyakorolt befolyása a biztonságos működést, illetve a kötelezettségek teljesítését veszélyeztetné. A minősített befolyásra, valamint a közvetett tulajdonra vonatkozóan a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény fogalmai irányadóak.

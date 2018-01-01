@@ -48,16 +48,16 @@ c) a gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség b
 
 d) a b) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
-(3) Ha a kérelmező a (2)–(2a) bekezdésben meghatározott adatokat nem igazolja, a felügyelet a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (2)–(2a) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz. A (2) bekezdés a) és b) pont igazolása érdekében a felügyelet a külföldi vállalkozás fióktelepének cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(3) A felügyelet a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából adatot igényel a (2) és (2a) bekezdésben meghatározott adatokról nyilvántartást vezető hatóságtól vagy bíróságtól. A (2) bekezdés a) és b) pontjában meghatározott feltételek igazolása érdekében a felügyelet a külföldi vállalkozás fióktelepének cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(4) A fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg a fióktelep vezetője hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a (2a) bekezdésben meghatározott kizáró feltétel, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – annak a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet az (5) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+(4) A felügyelet a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából a fióktelep vezetője vonatkozásában adatot igényel a bűnügyi nyilvántartási rendszerből a (2a) bekezdésben meghatározott kizáró feltételekről.
 
 (5) A felügyelet a fióktelepként működő közraktári tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az igazgatóság tagjával szemben nem áll fenn a (2a) bekezdésben meghatározott kizáró feltétel. A hatósági ellenőrzés céljából a felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy az igazgatóság tagjával szemben nem áll-e fenn a (2a) bekezdésben meghatározott kizáró feltétel.
 
 (6) A (4) és (5) bekezdés alapján megismert személyes adatokat a felügyelet
 
-a) a fióktelepként működő közraktári tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
+a) a fióktelepként működő közraktári tevékenység engedélyezése iránti eljárás végleges befejezéséig,
 
-b) a fióktelepként működő közraktári tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára, vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+b) a fióktelepként működő közraktári tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára, vagy az engedély visszavonására irányuló eljárásban az eljárás végleges befejezéséig
 
 kezeli.
