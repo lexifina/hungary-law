@@ -1,4 +1,4 @@
-5. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^143]
+5. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^144]
 
 Igénylőlap az állami agrár kezességek beváltásához
 
@@ -32,7 +32,7 @@ Szerződés lejárata:
 
 A szerződéskötéskor figyelembe vett (Kezes felé bejelentett), az FVM által igazolt állami kezességvállalás mértéke és összege:
 
-Ha rendelet másként nem rendelkezik a beváltáskor fennálló tőke összege:[^144]
+Ha rendelet másként nem rendelkezik a beváltáskor fennálló tőke összege:[^145]
 
 Ha rendelet másként nem rendelkezik a beváltáskor fennálló tőkeösszeg támogatási okiratban rögzített %-a:
 
@@ -70,7 +70,7 @@ Hitelszerződés és annak mellékletét képező dokumentumok
 
 Hitelszerződés-módosítások és annak mellékletét képező dokumentumok
 
-A bank nyilatkozata, hogy a hitelt céljának megfelelően használták-e fel[^145]
+A bank nyilatkozata, hogy a hitelt céljának megfelelően használták-e fel[^146]
 
 A 3. pontban foglalt egyéb kezességvállalást igazoló dokumentumok
 
@@ -108,6 +108,6 @@ Dátum: ............................
 
 cégszerű aláírás
 
-[^143]: Az 5. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 19. § (2), (6) és (10) bekezdése, a 109/2009. (V. 20.) Korm. rendelet 19. § (3) bekezdése, a 68/2010. (III. 19.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^144]: Amennyiben egy hitel állami kezességvállalással és viszontgaranciával is érintett az állami kezesség beváltásánál a hitelgarancia-intézmény által kiutalt tőkeösszeg csökkenti a fennálló tőketartozást.
-[^145]: Amennyiben a kezességvállalásról szóló jogszabály nem mentesítette a bankot a hitelcél vizsgálatának kötelezettsége alól.
+[^144]: Az 5. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 19. § (2), (6) és (10) bekezdése, a 109/2009. (V. 20.) Korm. rendelet 19. § (3) bekezdése, a 68/2010. (III. 19.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^145]: Amennyiben egy hitel állami kezességvállalással és viszontgaranciával is érintett az állami kezesség beváltásánál a hitelgarancia-intézmény által kiutalt tőkeösszeg csökkenti a fennálló tőketartozást.
+[^146]: Amennyiben a kezességvállalásról szóló jogszabály nem mentesítette a bankot a hitelcél vizsgálatának kötelezettsége alól.

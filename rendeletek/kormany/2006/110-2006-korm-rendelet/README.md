@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-110-20-
 | 2016-01-01 | 2006-110-20-22.17 | 486/2015. (XII. 29.) Korm. rendelet |
 | 2016-07-23 | 2006-110-20-22.18 | 537/2013. (XII. 30.) Korm. rendelet |
 | 2017-01-01 | 2006-110-20-22.19 | 486/2015. (XII. 29.) Korm. rendelet |
+| 2018-01-01 | 2006-110-20-22.20 | 109/2009. (V. 20.) Korm. rendelet |

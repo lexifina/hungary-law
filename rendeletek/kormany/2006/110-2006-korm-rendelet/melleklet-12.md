@@ -1,4 +1,4 @@
-12. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^157]
+12. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^158]
 
 Igénylőlap a gyűjtőszámlahitelre vonatkozó állami kezesség érvényesítéséhez
 
@@ -64,4 +64,4 @@ Kelt:
 
 cégszerű aláírás
 
-[^157]: A 12. számú mellékletet a 339/2012. (XII. 4.) Korm. rendelet 3. §-a iktatta be.
+[^158]: A 12. számú mellékletet a 339/2012. (XII. 4.) Korm. rendelet 3. §-a iktatta be.

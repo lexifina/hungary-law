@@ -12,7 +12,8 @@
 
 (7) Az állami viszontgarancia érvényesítésétől számított három év elteltével – de legkésőbb a behajtás befejezését követő 15 napon belül – minden ügyben teljes körű elszámolást kell készíteni az állami adóhatóság részére. Az elszámolás során a jogosult részletes kimutatást készít az adóstól behajtott követelésekről, a központi költségvetésbe átutalt összegekről, az elszámolt behajtási költségekről, valamint a behajtási tevékenység módjáról és a megtérülés mértékéről.
 
-(8) Az állami viszontgaranciák beváltásánál, valamint az állami viszontgarancia-érvényesítésből keletkezett, az állami viszontgarancia jogosultja által behajtott, de a központi költségvetésbe be nem fizetett követelés behajtásánál az állami adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény szerint jár el.
+(8)[^99] Az állami viszontgaranciák beváltásánál, valamint az állami viszontgarancia-érvényesítésből keletkezett, az állami viszontgarancia jogosultja által behajtott, de a központi költségvetésbe be nem fizetett követelés behajtásánál az állami adóhatóság az Art. szerint jár el.
 
 [^97]: A 8/D. §-t a 40/2007. (III. 13.) Korm. rendelet 12. §-a iktatta be.
 [^98]: A 8/D. § (5) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 16. § b) pontja, a 481/2016. (XII. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^99]: A 8/D. § (8) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 21. § 2. pontja szerint módosított szöveg.

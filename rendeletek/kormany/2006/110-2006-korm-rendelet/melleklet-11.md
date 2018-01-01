@@ -1,6 +1,6 @@
 ## Nyilatkozat
 
-## 1.[^154] Kiállítási garancia esetén alkalmazandó
+## 1.[^155] Kiállítási garancia esetén alkalmazandó
 
 ## Kölcsönbe adó (intézmény) megnevezése és címe:
 
@@ -32,7 +32,7 @@
 
 ## [a kiállító aláírása és pecsétje]
 
-## 2.[^155] Kiállítási viszontgarancia esetén alkalmazandó
+## 2.[^156] Kiállítási viszontgarancia esetén alkalmazandó
 
 ## Biztosító társaság megnevezése és címe:
 
@@ -64,7 +64,7 @@
 
 ## [a kiállító aláírása és pecsétje]
 
-11. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^156]
+11. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^157]
 
 Igénylőlap az állami jogszabályi kezességek beváltásához (NAV részére küldendő)
 
@@ -148,6 +148,6 @@ aláírás
 
 1 Értékpapír esetén nem kell kitölteni.
 
-[^154]: A 10. számú melléklet 1. pontja a 221/2014. (IX. 4.) Korm. rendelet 322. § k) és l) pontja szerint módosított szöveg.
-[^155]: A 10. számú melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 322. § m) és n) pontja szerint módosított szöveg.
-[^156]: A 11. számú mellékletet a 40/2007. (III. 13.) Korm. rendelet 6. számú melléklete iktatta be, szövege a 109/2009. (V. 20.) Korm. rendelet 19. § (7) bekezdése, a 486/2015. (XII. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^155]: A 10. számú melléklet 1. pontja a 221/2014. (IX. 4.) Korm. rendelet 322. § k) és l) pontja szerint módosított szöveg.
+[^156]: A 10. számú melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 322. § m) és n) pontja szerint módosított szöveg.
+[^157]: A 11. számú mellékletet a 40/2007. (III. 13.) Korm. rendelet 6. számú melléklete iktatta be, szövege a 109/2009. (V. 20.) Korm. rendelet 19. § (7) bekezdése, a 486/2015. (XII. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
