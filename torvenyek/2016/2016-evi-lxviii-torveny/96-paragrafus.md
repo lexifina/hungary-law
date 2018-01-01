@@ -4,13 +4,13 @@
 
 ## 63. Az ellenőrzés általános szabályai
 
-96. § (1) Az e törvényben és a végrehajtási rendeletben meghatározott kötelezettségek teljesítésének és a jogosultságok jogszabályi feltételei megvalósulásának – ellenőrzéssel lezárt időszakot nem eredményező – hatósági ellenőrzésekor az Art. ellenőrzési szabályait ezen alcímben meghatározott eltérésekkel kell alkalmazni.
+96. § (1) Az e törvényben és a végrehajtási rendeletben meghatározott kötelezettségek teljesítésének és a jogosultságok jogszabályi feltételei megvalósulásának – ellenőrzéssel lezárt időszakot nem eredményező – hatósági ellenőrzésekor az Air. és az Art. ellenőrzési szabályait ezen alcímben meghatározott eltérésekkel kell alkalmazni.
 
-(2) Az (1) bekezdés szerinti helyszíni ellenőrzéshez az Art. szerinti általános megbízólevélnek az állami adó- és vámhatóság tagjának intézkedésre jogosító szolgálati igazolványa minősül.
+(2) Az (1) bekezdés szerinti helyszíni ellenőrzéshez az Air. szerinti általános megbízólevélnek az állami adó- és vámhatóság tagjának intézkedésre jogosító szolgálati igazolványa minősül.
 
 (3) A jövedéki termék szállításának helyszíni ellenőrzésekor jogsértés hiányának megállapítása esetén csak abban az esetben kell jegyzőkönyvet kiállítani, ha azt az ellenőrzött személy kéri. Az állami adó- és vámhatóság az ellenőrzés tényét jegyzőkönyv készítésének hiányában a szállítási okmányon rögzíti.
 
-(4) Az Art. szerinti adózóra vonatkozó szabályokat az e törvény szerinti ellenőrzött személyre is alkalmazni kell.
+(4) Az Air. szerinti adózóra vonatkozó szabályokat az e törvény szerinti ellenőrzött személyre is alkalmazni kell.
 
 (5) Határozattal rendelhető el folyamatos jelenléttel és vizsgálattal gyakorolt vagy technikai eszköz felszerelésével folyamatos vizsgálatot lehetővé tévő, többlet-adatszolgáltatási kötelezettséget előíró, valamint a tevékenység végzéséhez az állami adó- és vámhatósághoz történő előzetes bejelentési kötelezettséget vagy előzetes bejelentési kötelezettséget és állami adó- és vámhatósági jelenlétet együttesen előíró ellenőrzés
 

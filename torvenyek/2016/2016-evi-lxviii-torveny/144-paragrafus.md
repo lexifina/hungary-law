@@ -13,3 +13,5 @@
 (6) Az adóraktárban a denaturált terméket a nem denaturált terméktől, valamint a különböző denaturálási eljárásokkal denaturált termékeket egymástól is elkülönítetten kell tárolni.
 
 (7) A denaturáláshoz felhasznált anyag a denaturált termékből nem vonható ki és a denaturált termékhez nem keverhető olyan anyag, amely a denaturált termék hatását ízre vagy szagra megváltoztatja.
+
+(8) Ha az etil-alkoholt tartalmazó termék 133. § (1) bekezdés k) pontja szerinti magyarországi denaturálása a 3199/93/EK bizottsági rendelet mellékletének III. részében meghatározott denaturálási eljárással történt, a termék a 3199/93/EK bizottsági rendelet mellékletének III. része szerint az adott denaturálási eljárást alkalmazó tagállamban lévő címzettnek szállítható.

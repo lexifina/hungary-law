@@ -26,6 +26,14 @@ gb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbia
 
 bűncselekmény elkövetése miatt jogerősen nem ítélték el vagy a kérelem benyújtásakor már mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
+(1a) Az engedélyezési eljárás során eredeti példányban szükséges az állami adó- és vámhatóság rendelkezésére bocsátani
+
+a) a nem készpénzben nyújtott jövedéki biztosíték esetében a kötelezettségvállalást tartalmazó okiratot,
+
+b) – a nyilvántartás alapbizonylataként használt egyéb bizonylat, az üzemszünet ideje alatt alkalmazott papíralapú okmány, valamint a szabad forgalomban nem szabadforgalomba bocsátáskor vagy nem tagállami szállítás esetén alkalmazott bizonylat kivételével – a 90. § szerinti okmányok aláírására jogosult személy közokiratba foglalt aláírásmintáját, kivéve, ha a végrehajtási rendelet ettől eltérést enged, és
+
+c) a 92. (1) bekezdés a) pontjának alkalmazása esetén a hatósági erkölcsi bizonyítványt.
+
 (2) Az állami adó- és vámhatóság az engedély iránti kérelmet 30 napon belül, az eseti bejegyzett kereskedő és a bejegyzett feladó esetében 15 napon belül bírálja el, amelyet az állami adó- és vámhatóság kivételesen indokolt esetben egy alkalommal, legfeljebb 30 nappal meghosszabbíthat.
 
 (3) Egy adott, földrajzilag körülhatárolt hely telephelyként való működése a kérelmező részére nem engedélyezhető, ha a korábban ott folytatott, e törvény hatálya alá tartozó tevékenységgel összefüggésben megállapított adó-, bírság-, pótléktartozás vagy zárjegyhiánnyal kapcsolatos tartozás nem került megfizetésre, feltéve, hogy a tartozást eredményező tevékenységet

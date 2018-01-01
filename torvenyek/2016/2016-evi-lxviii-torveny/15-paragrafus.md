@@ -40,4 +40,4 @@ c) az engedélyes jövedéki terméket nem állíthat elő, nem használhat fel,
 
 a) bármely adónemben fennálló közteherfizetési kötelezettségét vagy tartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha az engedélyes az engedély visszavonására irányuló hatósági eljárás megkezdéséig a kötelezettségét megfizette, vagy arra részletfizetést vagy fizetési halasztást engedélyeztek, vagy
 
-b) terhére a vizsgált időszakra vonatkozó közteherfizetési kötelezettség 10 százalékát meghaladó köztartozást jogerősen állapít meg és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. kizárja.
+b) terhére a vizsgált időszakra vonatkozó közteherfizetési kötelezettség 10 százalékát meghaladó köztartozást véglegessé vált döntésben állapít meg és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. kizárja.

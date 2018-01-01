@@ -1,6 +1,6 @@
 103. § (1) El kell kobozni
 
-a) a lefoglalt dolgot, amire a jogerősen megállapított jövedéki kötelezettségszegést elkövették és a jövedéki ügyben a 100. § (2), (3), (5), (8) és (9) bekezdése szerinti jövedéki bírság kerül kiszabásra vagy ha a jövedéki bírság kiszabását a 101. § alapján az állami adó- és vámhatóság mellőzte,
+a) a lefoglalt dolgot, amire a véglegessé vált döntésben megállapított jövedéki kötelezettségszegést elkövették és a jövedéki ügyben a 100. § (2), (3), (5), (8) és (9) bekezdése szerinti jövedéki bírság kerül kiszabásra vagy ha a jövedéki bírság kiszabását a 101. § alapján az állami adó- és vámhatóság mellőzte,
 
 b) a lefoglalt dolgot, ha azon a jövedéki törvénysértés elkövetését célzó átalakítást végeztek,
 
@@ -38,7 +38,7 @@ bb) közül a ba) alpont szerinti átadásra nem került energiaterméket az ál
 
 bc) közül az értékesítésre vagy a ba) és bb) alpont szerint átadásra, felhasználásra nem került energiaterméket a katasztrófavédelmi szerv részére oktatás, gyakorlatozás céljára a katasztrófavédelmi szerv kérelme alapján – az állami adó- és vámhatóság vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadható.
 
-(7) Az állami adó- és vámhatóság az elkobzásról rendelkező döntést követően, de annak jogerőre emelkedését megelőzően jogosult a lefoglalt
+(7) Az állami adó- és vámhatóság az elkobzásról rendelkező döntést követően, de annak véglegessé válását megelőzően jogosult a lefoglalt
 
 a) (5) bekezdés a) pontja szerinti dolog előzetes megsemmisítésére, ha az gyors romlásnak van kitéve, huzamosabb tárolásra alkalmatlan,
 

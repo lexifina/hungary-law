@@ -1,6 +1,6 @@
 ## 67. Jövedéki bírság
 
-100. § (1) Az a személy, aki az e törvényben meghatározott kötelezettségét megszegi, jövedéki bírsággal sújtandó.
+100. § (1) Az a személy, aki az e törvényben előírt, valamint az Air.-ben és az Art.-ban az e törvény szerinti adóhoz kapcsolódó kötelezettségét megszegi, jövedéki bírsággal sújtandó.
 
 (2) Ha az (1) bekezdés szerinti kötelezettségszegés a központi költségvetésnek vagyoni hátrányt okoz, a jövedéki bírság mértéke a központi költségvetésnek okozott vagyoni hátrány mértékének kétszeresétől ötszöröséig terjedő összeg, de legalább 30 ezer forint.
 

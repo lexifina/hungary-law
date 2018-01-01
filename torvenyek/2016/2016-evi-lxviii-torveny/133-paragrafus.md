@@ -22,10 +22,10 @@ i) az adóraktár engedélyese a részlegesen denaturált sör, csendes és habz
 
 j) az e)–i) pont szerinti végtermékeket tagállamból vagy harmadik országból behozó személy,
 
-k) az adóraktár engedélyese a 3199/93/EK bizottsági rendeletben meghatározott eljárások közül a valamennyi tagállamban alkalmazható teljes denaturálási eljárással vagy a Magyarország által bejelentett teljes denaturálással előállított etil-alkoholt tartalmazó termékre,
+k) az adóraktár engedélyese a teljes denaturálással előállított termékre,
 
-l) az a 3199/93/EK bizottsági rendeletben kihirdetett teljes denaturálással másik tagállamban előállított etil-alkoholt tartalmazó terméket belföldre EKO-val szállító személy,
+l) a teljes denaturálással másik tagállamban előállított terméket belföldre szállító személy.
 
-m) az adóraktár engedélyese a 3199/93/EK bizottsági rendeletben kihirdetett, másik tagállam által bejelentett teljes denaturálási eljárással belföldön előállított etil-alkoholt tartalmazó termékre a címzett általi átvételt igazoló EKO példány alapján.
+m)
 
 (2) Ha az (1) bekezdés i) pontja szerinti termék előállításához technológiai, műszaki, egészségügyi szempontok miatt nem lehet részleges denaturálással előállított sört, csendes és habzóbort, egyéb csendes és habzó erjesztett italt, köztes alkoholterméket vagy alkoholterméket felhasználni, annak szakmai indokolását és arról a felhasználás szerint illetékes szakmai szövetség nyilatkozatát kell az adóraktári engedély vagy annak módosítása iránti kérelemhez csatolni.

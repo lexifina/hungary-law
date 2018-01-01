@@ -10,9 +10,9 @@ c) annak kérelmezésével, hogy az adatokat a tevékenység engedélyezése, ny
 
 (3) Az állami adó- és vámhatóság a 14. § (1) bekezdés g) pontja és a 34. § (3) bekezdése szerinti feltételek megvalósulásának megállapítása érdekében a megismert személyes adatokat
 
-a) az engedélyezési, nyilvántartásba-vételi eljárás jogerős befejezéséig vagy
+a) az engedélyezési, nyilvántartásba-vételi eljárásban hozott érdemi vagy eljárást lezáró döntés véglegessé válásáig vagy
 
-b) a hatósági ellenőrzés időtartamára vagy az engedély visszavonására, nyilvántartásból történő törlésre irányuló eljárásban az eljárás jogerős befejezéséig
+b) a hatósági ellenőrzés időtartamára vagy az engedély visszavonására, nyilvántartásból történő törlésre irányuló eljárásban az eljárásban hozott érdemi vagy eljárást lezáró döntés véglegessé válásáig
 
 kezeli.
 

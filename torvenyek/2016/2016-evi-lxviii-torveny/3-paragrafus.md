@@ -84,7 +84,7 @@ jogosult személy;
 
 29. jövedéki termék: az energiatermék, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék, az alkoholtermék és a dohánygyártmány;
 
-30. jövedéki ügy: az e törvény, valamint a végrehajtási rendelet szerinti rendelkezésekkel – beleértve az engedélyezési, nyilvántartásba-vételi, bejelentési kötelezettséget is – kapcsolatos közigazgatási hatósági ügy, beleértve a hatósági ellenőrzést;
+30. jövedéki ügy: az e törvény, valamint a végrehajtási rendelet szerinti rendelkezésekkel – beleértve az engedélyezési, nyilvántartásba-vételi, bejelentési kötelezettséget is – kapcsolatos általános közigazgatási rendtartás szerinti hatósági ügy, beleértve a hatósági ellenőrzést;
 
 31. kenőolaj: a 2710 19 81, 2710 19 83, 2710 19 87-2710 19 99, 2710 20 90, 3403 19 10-3403 19 80 KN-kód szerinti energiatermék;
 
@@ -164,7 +164,7 @@ b) a termék tulajdonságaiból adódó, elismert mennyiségű hiány;
 
 a) az uniós számítógépes rendszer vagy az állami adó- és vámhatóság számítógépes rendszerének üzemszerű működésében bekövetkezett,
 
-b) az állami adó- és vámhatóság által biztosított információs rendszer üzemszerű működésében bekövetkezett, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti, vagy
+b) az állami adó- és vámhatóság által biztosított információs rendszer üzemszerű működésében bekövetkezett, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti, vagy
 
 c) az uniós számítógépes rendszer használójának számítógépes rendszerében bekövetkezett
 

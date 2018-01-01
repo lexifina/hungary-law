@@ -16,7 +16,7 @@
 
 (8) A (4), a (6) és a (7) bekezdésben meghatározott határidők elmulasztása miatt igazolási kérelemnek helye nincs.
 
-(9) A lefoglalt dolog elszállításával, tárolásával, őrzésével kapcsolatos költségek az ügyfelet terhelik, ha jogerősen végrehajtható jövedéki bírság megfizetésére kötelezték, ellenkező esetben a felmerült költségeket az állam viseli.
+(9) A lefoglalt dolog elszállításával, tárolásával, őrzésével kapcsolatos költségek az ügyfelet terhelik, ha véglegessé vált döntésben végrehajtható jövedéki bírság megfizetésére kötelezték, ellenkező esetben a felmerült költségeket az állam viseli.
 
 (10) A lefoglalt dolognak az állami adó- és vámhatóság által üzemeltetett raktárban történő tárolása esetén a vámjogszabályokat kell alkalmazni.
 

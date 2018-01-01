@@ -18,6 +18,14 @@ b) – az 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű egyéb ellen
 
 c) – az 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű egyéb ellenőrzött ásványolaj kivételével – az a) pont aa)–ad) alpontja szerinti termék, valamint az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolaj másik tagállamból belföldre és belföldről másik tagállamba a 62. § szerinti kereskedelmi céllal történő szállítása.
 
+(1a) A Magyar Honvédségnek nem szükséges az (1) bekezdés szerinti engedéllyel rendelkeznie a tulajdonában álló, adózott üzemanyagnak
+
+a) az Észak-atlanti Szerződésben részes állam fegyveres erejének, polgári állományának
+
+b) a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes, az adó alól mentesített állam fegyveres erejének, polgári állományának
+
+járművei részére történő kiszolgálásához.
+
 (2) A jövedéki engedélyes kereskedő jövedéki terméket belföldön csak adóraktár engedélyesétől (ideértve a megszűnt adóraktárt az engedély hatályvesztését követő 30 napig), termékét adóraktárban tároló személytől, felhasználói engedélyestől, kisüzemi bortermelőtől és jövedéki engedélyes kereskedőtől szerezhet be.
 
 (3) A jövedéki engedélyes kereskedő – a (2) bekezdéstől eltérően – a jövedéki kiskereskedő vagy végfelhasználó részére értékesített jövedéki termékeket vagy azok egy részét a jövedéki kiskereskedő vagy végfelhasználó kérésére visszavásárolhatja.

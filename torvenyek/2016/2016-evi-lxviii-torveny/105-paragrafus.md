@@ -8,6 +8,6 @@ b) a magánfőző párlatot a desztillálóberendezés bejelentése vagy párlat
 
 (3) Az önkormányzati adóhatóság által elrendelt lefoglalási eljárásra az állami adó- és vámhatóság által alkalmazható lefoglalásra vonatkozó eljárási szabályokat kell alkalmazni.
 
-(4) Az önkormányzati adóhatóság az általa lefoglalt jövedéki terméket és desztillálóberendezést elkobozza és megsemmisítésre átadja az állami adó- és vámhatóságnak, ha a jövedéki ügyben jogerősen a 106. § szerinti bírság kerül kiszabásra.
+(4) Az önkormányzati adóhatóság az általa lefoglalt jövedéki terméket és desztillálóberendezést elkobozza és megsemmisítésre átadja az állami adó- és vámhatóságnak, ha a jövedéki ügyben véglegessé vált döntésben a 106. § szerinti bírság kerül kiszabásra.
 
 (5) Ha az önkormányzati adóhatóság a magánfőzés szabályainak ellenőrzése során az évente előállítható mennyiségi korlát túllépését észleli, erről haladéktalanul értesíti az állami adó- és vámhatóságot.
