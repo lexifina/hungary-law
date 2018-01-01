@@ -8,31 +8,11 @@ n) a MÁV Zrt. és a GySEV Zrt. által működtetett vasúti pályahálózaton a
 
 (2a)[^2] Az 1. számú mellékletben írtakon túlmenően a Kormány kiemelt jelentőségű üggyé nyilvánítja az (1) bekezdésben megjelölt beruházásokhoz kapcsolódó 3. számú mellékletben felsorolt közigazgatási hatósági ügyeket.
 
-(2b)[^3] A Kormány a (2a) bekezdés szerinti közigazgatási hatósági ügyben eljáró
+(2b)–(2c)[^3]
 
-a) első fokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint első fokú hatóságként jár el,
+(3)[^4]
 
-b) első fokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint első fokú szakhatóságként jár el.
-
-(2c)[^4] A Kormány a (2a) bekezdés szerinti közigazgatási hatósági ügyben eljáró
-
-a) másodfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint másodfokú hatóságként jár el,
-
-b) másodfokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint másodfokú szakhatóságként jár el.
-
-(3) Azokban az esetekben, amikor az 1. számú mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el,
-
-a) a 2. számú mellékletben meghatározott ügyekben az ott meghatározott szervek járnak el;
-
-b)[^5] a 2. számú mellékletben nem szereplő ügyekben
-
-ba) első fokon az ügyfajtára vonatkozó különös eljárási szabályok szerint a másodfokú eljárásban szakhatóságként kijelölt hatóság,
-
-bb) másodfokon a ba) alpont alkalmazásával első fokon eljáró szakhatóság felett felügyeleti jogkört gyakorló hatóság
-
-## jár el.
-
-(4)[^6] Az 1. számú melléklet szerinti
+(4)[^5] Az 1. számú melléklet szerinti
 
 a) építésügyi hatósági ügyekben nem kell településképi véleményezési eljárást lefolytatni,
 
@@ -40,7 +20,6 @@ b) beruházással összefüggésben településképi bejelentési eljárásnak n
 
 [^1]: Az 1. § (1) bekezdés a)–m) pontját a 377/2013. (X. 25.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
 [^2]: Az 1. § (2a) bekezdését a 377/2013. (X. 25.) Korm. rendelet 1. §-a iktatta be.
-[^3]: Az 1. § (2b) bekezdését a 377/2013. (X. 25.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 1. § (2c) bekezdését a 377/2013. (X. 25.) Korm. rendelet 1. §-a iktatta be.
-[^5]: Az 1. § (3) bekezdés b) pontja a 72/2015. (III. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
-[^6]: Az 1. § (4) bekezdését a 241/2013. (VI. 30.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 377/2013. (X. 25.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2b)–(2c) bekezdését a 377/2013. (X. 25.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 458/2017. (XII. 28.) Korm. rendelet 13. § a) pontja.
+[^4]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (4) bekezdését a 241/2013. (VI. 30.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 377/2013. (X. 25.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
