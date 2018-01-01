@@ -1,5 +1,3 @@
-## és ezt az 1. számú mellékletben meghatározott iratok valamelyikével igazolja.
-
 2/A. §[^5] (1) A 2. §-ban meghatározott mozgásában korlátozott személyen kívül igazolványra az a működési engedéllyel rendelkező intézmény jogosult, amely
 
 a) a nemzeti köznevelésről szóló törvényben meghatározott óvoda, alap- vagy középfokú oktatási intézmény, ha működési engedélye, alapító okirata, főtevékenysége szerint a 2. § d) pontjában meghatározott személyek oktatását-nevelését végzi; továbbá
