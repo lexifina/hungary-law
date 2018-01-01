@@ -6,4 +6,10 @@
 
 (4) A (2) és (3) bekezdés szerinti kérelmeket a jogosult a miniszternek címezve az állományilletékes parancsnoknak nyújthatja be.
 
+(5)[^8] Az állomány temetési segélyre jogosult tagja kérelmét írásban, papír alapon vagy elektronikus úton, a HM Költségvetés Gazdálkodási Információs Rendszer Ügyfélszolgálati Rendszeren nyújthatja be. Elektronikus ügyintézés esetén a kérelemhez a 10. § (2) bekezdése szerinti számlát digitális másolatként kell csatolni.
+
+(6)[^9] A KNBSZ főigazgatója az (5) bekezdés szerinti elektronikus ügyintézés rendjét saját hatáskörben állapítja meg.
+
 [^7]: A 12. § (3) bekezdése a 25/2016. (XII. 22.) HM rendelet 14. §-ával megállapított szöveg.
+[^8]: A 12. § (5) bekezdését a 10/2017. (VIII. 31.) HM rendelet 1. §-a iktatta be.
+[^9]: A 12. § (6) bekezdését a 10/2017. (VIII. 31.) HM rendelet 1. §-a iktatta be.
