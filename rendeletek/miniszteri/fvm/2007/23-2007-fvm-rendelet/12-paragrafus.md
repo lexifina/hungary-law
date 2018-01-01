@@ -10,10 +10,10 @@
 
 (4)[^91] A beruházási támogatások vonatkozásában, a vis maior esemény igazolásával egyidejűleg előterjesztett, arra irányuló kifejezett kérelem esetén a Kincstár az e rendeletben foglalt megvalósítási határidőt egy alkalommal legfeljebb egy évvel meghosszabbíthatja, amennyiben az ügyfél a beruházást az (5) bekezdésben foglaltak szerint megkezdte. A megvalósítási határidő meghosszabbítására irányuló kérelem a 25. § (2) bekezdésében foglaltak szerint meghatározott megvalósítási határidő lejártát követően nem terjeszthető elő.
 
-(5)[^92] A beruházás megkezdése, a 12. § alkalmazásában igazolt, amennyiben az ügyfél legalább egy, kifizetési kérelemnek helyt adó vagy részben helyt adó jogerős határozattal rendelkezik, amelyben nem csak egyéb elszámolható kiadást hagyott jóvá a Kincstár. Egyéb esetekben az ügyfélnek kell hitelt érdemlően bizonyítania a beruházás megkezdését.
+(5)[^92] A beruházás megkezdése, a 12. § alkalmazásában igazolt, amennyiben az ügyfél legalább egy, kifizetési kérelemnek helyt adó vagy részben helyt adó véglegessé vált határozattal rendelkezik, amelyben nem csak egyéb elszámolható kiadást hagyott jóvá a Kincstár. Egyéb esetekben az ügyfélnek kell hitelt érdemlően bizonyítania a beruházás megkezdését.
 
 (6)[^93] Amennyiben a megvalósítási határidőt az ügy összes körülményét figyelembe véve a Kincstár döntésével meghosszabbítja, az ügyfél e rendelet szerint fennálló üzemeltetési kötelezettsége a meghosszabbítás időtartamával meghosszabbodik, és kifizetési kérelem ebben az esetben is csak a 17. § (3) bekezdése szerinti határidőig nyújtható be.
 
 [^91]: A 12. § (4) bekezdését a 17/2011. (III. 4.) VM rendelet 2. §-a iktatta be, szövege a 37/2016. (XII. 29.) MvM rendelet 1. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^92]: A 12. § (5) bekezdését a 17/2011. (III. 4.) VM rendelet 2. §-a iktatta be, szövege a 37/2016. (XII. 29.) MvM rendelet 1. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^92]: A 12. § (5) bekezdését a 17/2011. (III. 4.) VM rendelet 2. §-a iktatta be, szövege a 37/2016. (XII. 29.) MvM rendelet 1. § (5) bekezdés c) pontja, a 37/2017. (XII. 27.) MvM rendelet 3. § a) pontja szerint módosított szöveg.
 [^93]: A 12. § (6) bekezdését a 17/2011. (III. 4.) VM rendelet 2. §-a iktatta be, szövege a 37/2016. (XII. 29.) MvM rendelet 1. § (5) bekezdés c) pontja szerint módosított szöveg.

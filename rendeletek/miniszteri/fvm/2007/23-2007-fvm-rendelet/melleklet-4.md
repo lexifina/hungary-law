@@ -84,6 +84,6 @@
 
 | 41 | 91021 | Múzeum működtetése | 12% | 6 000 000 |
 
-4. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^300]
+4. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^306]
 
-[^300]: A 4. számú mellékletet a 39/2007. (V. 15.) FVM rendelet 6. § (2) bekezdése iktatta be. E módosító rendelet 7. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.
+[^306]: A 4. számú mellékletet a 39/2007. (V. 15.) FVM rendelet 6. § (2) bekezdése iktatta be. E módosító rendelet 7. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.

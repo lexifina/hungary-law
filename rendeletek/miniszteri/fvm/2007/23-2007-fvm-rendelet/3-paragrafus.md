@@ -8,7 +8,7 @@
 
 3. tevékenység: az R. 2. cikkének e) pontja szerinti művelet önállóan megvalósuló részeleme;
 
-4.[^11] művelet megvalósulása: a műveletet alkotó összes tevékenység okirattal igazolt lezárása; az okirat építési beruházás esetén a jogerős használatbavételi engedély, az üzembe helyezés feltételeként külön jogszabály által előírt közokirat vagy magánokirat, egyéb esetben a gazdasági eseményről kiállított, igazoltan teljesített és pénzügyileg is rendezett számviteli bizonylat;
+4.[^11] művelet megvalósulása: a műveletet alkotó összes tevékenység okirattal igazolt lezárása; az okirat építési beruházás esetén a véglegessé vált használatbavételi engedély, az üzembe helyezés feltételeként külön jogszabály által előírt közokirat vagy magánokirat, egyéb esetben a gazdasági eseményről kiállított, igazoltan teljesített és pénzügyileg is rendezett számviteli bizonylat;
 
 5.[^12] terület- és állatlétszám alapú támogatások: a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 65/2011/EU rendelet 6. cikk 2. bekezdésének a) és b) pontja alapján, e rendelet 2. § (2) bekezdésében felsorolt alintézkedések keretében nyújtandó támogatások;
 
@@ -110,7 +110,7 @@ b) a 8/A. § szerint szervezett képzések tekintetében az Európai Mezőgazdas
 
 45.[^48] kamarai meghatalmazott: a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara munkavállalója, aki az agrár-vidékfejlesztési támogatások igénybevételével összefüggő elektronikus ügyintézésben technikai közreműködőként jár el;
 
-[^11]: A 3. § 4. pontja a 97/2008. (VII. 25.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § 4. pontja a 97/2008. (VII. 25.) FVM rendelet 2. § (1) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 3. § a) pontja szerint módosított szöveg.
 [^12]: A 3. § 5. pontja a 124/2011. (XII. 21.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^13]: A 3. § 10. pontja a 124/2011. (XII. 21.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^14]: A 3. § 11. pontja a 23/2010. (III. 16.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.

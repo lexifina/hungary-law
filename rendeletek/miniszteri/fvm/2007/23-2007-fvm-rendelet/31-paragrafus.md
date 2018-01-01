@@ -1,4 +1,4 @@
-## 30/B. §[^221] Amennyiben az ügyfél a 30/A. § a)–d) pontjaiban meghatározott, vagy az üzembe helyezés feltételeként jogszabályban előírt valamely okiratot, az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem emelkedett jogerőre, az egyéb feltételek teljesítése esetén kifizetési kérelmének helyt kell adni, ezen okiratot, jogerős engedélyt a kifizetési határozat közlésétől számított 6 hónapon belül kell benyújtania.
+## 30/B. §[^221] Amennyiben az ügyfél a 30/A. § a)–d) pontjaiban meghatározott, vagy az üzembe helyezés feltételeként jogszabályban előírt valamely okiratot, az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem vált véglegessé, az egyéb feltételek teljesítése esetén kifizetési kérelmének helyt kell adni, ezen okiratot, véglegessé vált engedélyt a kifizetési határozat közlésétől számított 6 hónapon belül kell benyújtania.
 
 ## Egyéb elszámolható kiadásokra vonatkozó rendelkezések
 
@@ -24,7 +24,7 @@ d)[^222] közműszolgáltatónak fizetett közműrácsatlakozási és -használa
 
 (7)[^226] Az utolsó kifizetési kérelem kivételével kifizetési kérelemmel az (1) bekezdés szerinti kiadás csak abban az esetben számolható el, ha a kifizetési kérelemmel az (1) bekezdésen kívüli kiadás is elszámolásra kerül.
 
-[^221]: A 30/B. §-t a 8/2014. (XI. 19.) MvM rendelet 1. § (4) bekezdése iktatta be, szövege az 53/2015. (XII. 1.) MvM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^221]: A 30/B. §-t a 8/2014. (XI. 19.) MvM rendelet 1. § (4) bekezdése iktatta be, szövege az 53/2015. (XII. 1.) MvM rendelet 2. § (3) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 3. § a) és e) pontja szerint módosított szöveg.
 [^222]: A 31. § (1) bekezdésének d) pontját az 51/2009. (IV. 16.) FVM rendelet 20. § (1) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
 [^223]: A 31. § (3) bekezdése a 124/2011. (XII. 21.) VM rendelet 26. §-ával megállapított szöveg.
 [^224]: A 31. § (4) bekezdése a 7/2015. (II. 17.) MvM rendelet 1. § (2) bekezdésével megállapított szöveg.
