@@ -1,11 +1,6 @@
-45. § (1) Az amatőr építésű légijárműre határozatlan időtartamra kiadott egyedi repülési engedély módosítását kell kérnie az engedély jogosultjának a légiközlekedési hatóságtól, amennyiben a légijárművön az egyedi repülési engedélyben meghatározottakhoz képest olyan módosítást kíván végrehajtani, amely jelentős hatással van a légijármű tömegére, egyensúlyára, szerkezeti szilárdságára, megbízhatóságára, üzemeltetési jellemzőire, vagy a légialkalmasságát befolyásoló egyéb tulajdonságára.
+45. § (1)–(2)[^43]
 
-(2) Az amatőr építésű légijárműre kiadott egyedi repülési engedély módosítására irányuló kérelemnek tartalmaznia kell:
+(3)[^44] A kérelem kötelező mellékleteit a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendelet tartalmazza.
 
-a) a módosítás leírását,
-
-b) a kézikönyv, vagy kézikönyvek módosítással érintett részét,
-
-c) a módosítás során alkalmazandó alkalmassági előírás (előírások) megnevezését.
-
-(3) Az amatőr építésű légijárműre kiadott egyedi repülési engedély módosítására irányuló kérelemhez mellékelni kell a műszaki felügyelő nyilatkozatát a légijármű biztonságos repülésre alkalmas állapotáról.
+[^43]: A 45. § (1)–(2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 16. pontja hatályon kívül helyezte.
+[^44]: A 45. § (3) bekezdése az 55/2017. (XII. 27.) NFM rendelet 83. §-ával megállapított szöveg.

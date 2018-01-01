@@ -1,7 +1,10 @@
-122. § (1) Ha a légiközlekedési hatóság megállapítja, hogy a repülőeszköz karbantartó szervezet teljesíti a jelen rendeletben meghatározott követelményeket, akkor a repülőeszköz karbantartási engedélyt határozatlan időtartamra adja ki.
+122. § (1)[^76]
 
 (2) A repülőeszköz karbantartási engedély hatályos marad mindaddig, amíg az engedély kiadásának feltételei fennállnak.
 
-(3) A légiközlekedési hatóság a 127. § (4) bekezdés szerint megküldött éves szervezeti felülvizsgálatról készült jelentés alapján a repülőeszköz karbantartó szervezetnél helyszíni szemlét tarthat, amely során ellenőrizheti jelen rendeletben meghatározott követelmények betartását.
+(3)[^77]
 
 (4) A repülőeszköz karbantartó szervezet a karbantartási engedélyben szereplő adatokban bekövetkező változást a légiközlekedési hatóságnak, a változást követő 15 munkanapon belül köteles bejelenteni.
+
+[^76]: A 122. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 35. pontja hatályon kívül helyezte.
+[^77]: A 122. § (3) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 35. pontja hatályon kívül helyezte.

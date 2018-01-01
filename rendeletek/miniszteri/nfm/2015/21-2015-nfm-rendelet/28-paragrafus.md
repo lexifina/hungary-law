@@ -8,9 +8,9 @@
 
 28. § (1) Kutatási, kísérleti, vagy tudományos célú légijárművel történő repülés végrehajtásához, beleértve a repülési teszteket is, egyedi repülési engedély szükséges.
 
-(2) A kutatási, kísérleti, vagy tudományos célú légijármű egyedi repülési engedélyének kiadására irányuló eljárás megindítását, a légiközlekedési hatóság által meghatározott formanyomtatvány használatával az építő kérelmezheti írásban a légiközlekedési hatóságnál.
+(2)[^29]
 
-(3) A kérelemnek – a Ket.-ben meghatározottakon kívül – tartalmaznia kell
+(3)[^30] A kérelemnek – az Ákr.-ben meghatározottakon kívül – tartalmaznia kell
 
 a) a légijármű megnevezését,
 
@@ -20,36 +20,10 @@ c) a kísérleti repülések céljára vonatkozó nyilatkozatot,
 
 d) a műszaki felügyelő nevét és tapasztalatának leírását.
 
-(4) A kérelemhez mellékelni kell:
-
-a) tervezési koncepciót, amely tartalmazza
-
-aa) a tervezési célokat,
-
-ab) a tervezés alapjául szolgáló információkat, amennyiben figyelembe vették az alapul vett alkalmazandó légialkalmassági előírást, valamint az attól történő eltérés leírását,
-
-ac) a fő méret- és tömegadatok,
-
-ad) a számított tervezett repülési jellemzőket,
-
-ae) motoros légijárművek esetén a hajtómű és légcsavar típusát, jellemzőit,
-
-af) a bizonyítást arra vonatkozóan, hogy a légijármű alapvető szilárdsági és aerodinamikai jellemzői alapján képes a c) pontban meghatározott feltételek és korlátozások szerinti repülésre,
-
-b) az építés nyomon követhetőségi dokumentumát, amely tartalmazza az építés folyamatát, beleértve a felhasznált anyagok és alkatrészek, valamint az építésben közreműködő személyek kilétét és tevékenységének módját,
-
-c) a repülések tervezett programját, amely tartalmazza a légijármű légiüzemeltetése szempontjából szükséges feltételeket vagy korlátozásokat, ezen belül:
-
-ca) az útvonalra vagy a légtérre vonatkozó, a repüléshez szükséges feltételeket és korlátozásokat,
-
-cb) a hajózó személyzettel kapcsolatos azon feltételeket és korlátozásokat, amelyek a légijármű repülésére jogosítanak,
-
-cc) a nem hajózó személyzethez tartozó személyek szállítására vonatkozó feltételeket,
-
-cd) a betartandó üzemi korlátozásokat, egyedi eljárásokat és műszaki feltételeket,
-
-ce) az egyedi repülési tesztprogramot,
-
-cf) a repülések tervezett programjának időtartama alatt alkalmazott karbantartási feltételeket.
+(4)[^31] A kérelem kötelező mellékleteit a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendelet tartalmazza.
 
 (5) A kutatási, kísérleti, vagy tudományos célú légijármű céljára vonatkozóan a kérelmező nyilatkozatát kell elfogadni.
+
+[^29]: A 28. § (2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 11. pontja hatályon kívül helyezte.
+[^30]: A 28. § (3) bekezdés nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 89. § a) pontja szerint módosított szöveg.
+[^31]: A 28. § (4) bekezdése az 55/2017. (XII. 27.) NFM rendelet 80. §-ával megállapított szöveg.

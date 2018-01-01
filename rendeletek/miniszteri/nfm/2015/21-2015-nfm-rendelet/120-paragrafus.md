@@ -1,5 +1,9 @@
-120. § (1) A repülőeszköz karbantartó szervezet működésére vonatkozó engedély (a továbbiakban: repülőeszköz karbantartási engedély) kiadására irányuló eljárás megindítását a légiközlekedési hatóság által meghatározott formanyomtatvány használatával természetes, vagy jogi személy kérelmezheti írásban a légiközlekedési hatóságnál.
+120. § (1)[^71] A repülőeszköz karbantartó szervezet működésére vonatkozó engedélyt (a továbbiakban: repülőeszköz karbantartási engedély) a légiközlekedési hatóság adja ki.
 
-(2) A kérelemnek – a Ket.-ben meghatározottakon kívül – tartalmaznia kell a felelős vezető nevét.
+(2)[^72] A kérelemnek – az Ákr.-ben meghatározottakon kívül – tartalmaznia kell a felelős vezető nevét.
 
-(3) A kérelemhez mellékelni kell a repülőeszköz karbantartó szervezet repülőeszköz karbantartási kézikönyvét.
+(3)[^73]
+
+[^71]: A 120. § (1) bekezdése az 55/2017. (XII. 27.) NFM rendelet 87. §-ával megállapított szöveg.
+[^72]: A 120. § (2) bekezdése az 55/2017. (XII. 27.) NFM rendelet 89. § a) pontja szerint módosított szöveg.
+[^73]: A 120. § (3) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 33. pontja hatályon kívül helyezte.

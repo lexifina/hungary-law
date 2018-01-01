@@ -1,4 +1,4 @@
-## 24. § A könnyű légijármű légialkalmassági tanúsítványa határozatlan időtartamra hatályos.
+## 24. §[^27] A könnyű légijármű légialkalmassági tanúsítványa határozatlan időre szól.
 
 25. § (1) A könnyű légijármű légialkalmassági tanúsítványát a hatóság visszavonja, ha
 
@@ -6,8 +6,11 @@ a) megállapítja, hogy a típustervben foglaltakat vagy a folyamatos légialkal
 
 vagy
 
-b) a 10. §-ban meghatározottak szerint a típusalkalmassági tanúsítványt felfüggesztette és egyedi repülési engedélyt adott ki.
+b)[^28] a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendeletben meghatározottak szerint a típusalkalmassági tanúsítványt felfüggesztette és egyedi repülési engedélyt adott ki.
 
 (2) A könnyű légijármű légialkalmassági tanúsítványának visszavonása esetén a tanúsítványt a légiközlekedési hatóság részére vissza kell adni.
 
 (3) A légialkalmassági tanúsítványt, ha a könnyű légijármű tulajdonviszonyában változás következett be, a légijárművel együtt át kell ruházni.
+
+[^27]: A 24. § az 55/2017. (XII. 27.) NFM rendelet 89. § b) pontja szerint módosított szöveg.
+[^28]: A 25. § (1) bekezdés b) pontja az 55/2017. (XII. 27.) NFM rendelet 89. § c) pontja szerint módosított szöveg.

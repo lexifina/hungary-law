@@ -1,4 +1,4 @@
-## 57. § A katonai múltú légijármű egyedi repülési engedélyére a 44–45. §-ban meghatározottakat kell alkalmazni, az 56. § (1) bekezdésében foglaltakra tekintettel.
+## 57. §[^47]
 
 58. § (1) A katonai múltú légijármű kizárólag hatástalanított fegyverzettel repülhet. A légijárműre a fegyverzetet imitáló tárgy felszerelhető.
 
@@ -11,3 +11,5 @@
 ## ”This aircraft is experimental and does not comply with ICAO and EASA safety regulations for aircraft.”
 
 (4) A katonai múltú légijárműre, a légijármű törzsének mindkét oldalára el kell helyezni legalább 50 mm magasságú, nagybetűvel írt ”EXPERIMENTAL” feliratot.
+
+[^47]: Az 57. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 19. pontja hatályon kívül helyezte.

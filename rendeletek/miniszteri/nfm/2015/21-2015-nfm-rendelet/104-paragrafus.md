@@ -1,7 +1,12 @@
+## 103. §[^61]
+
 104. § (1) Ha a légialkalmassági felülvizsgálatot a légialkalmasság-irányító szervezet végzi és a felülvizsgálat során megállapítja, hogy a légijármű vagy komponens nem felel meg a jelen rendeletben meghatározott követelményeknek és ezzel súlyosan veszélyezteti a repülés biztonságát, akkor köteles azt haladéktalanul jelenteni a légiközlekedési hatóságnak.
 
 (2) Ha a légiközlekedési hatóság az (1) bekezdésben meghatározott jelentésben foglaltakkal egyetért, akkor a légialkalmassági felülvizsgálati tanúsítványt a követelmények teljesítéséig felfüggeszti.
 
 (3) Ha a légialkalmasság felülvizsgáló szervezet megállapítja, hogy a légijármű vagy komponens nem felel meg a jelen rendeletben meghatározott követelményeknek, és ez esetlegesen veszélyeztetheti a repülés biztonságát, akkor a tulajdonost felszólítja a megfelelés biztosítására.
 
-(4) A légialkalmasság-irányító szervezetnek az általa kiadott, vagy meghosszabbított légialkalmassági felülvizsgálati tanúsítvány másolatát a kiadásától vagy meghosszabbítástól számított 10 munkanapon belül meg kell küldenie a légiközlekedési hatóságnak.
+(4)[^62]
+
+[^61]: A 103. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 28. pontja hatályon kívül helyezte.
+[^62]: A 104. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 29. pontja hatályon kívül helyezte.

@@ -1,8 +1,8 @@
 ## 40. Repülőeszköz gyártása
 
-130. § (1) Repülőeszköz gyártására szóló gyártási engedély kiadását, a légiközlekedési hatóság által meghatározott formanyomtatvány használatával, természetes, vagy jogi személy kérelmezheti írásban a légiközlekedési hatóságnál.
+130. § (1)[^79] Repülőeszköz gyártására szóló gyártási engedélyt a légiközlekedési hatóság adja ki.
 
-(2) A kérelemnek – a Ket.-ben meghatározottakon kívül – tartalmaznia kell:
+(2)[^80] A kérelemnek – az Ákr.-ben meghatározottakon kívül – tartalmaznia kell:
 
 a) a gyártandó repülőeszköz megnevezését, típusát, fajtáját, kategóriáját,
 
@@ -12,10 +12,8 @@ c) a gyártási hely, vagy helyek címét,
 
 d) a gyártásfelügyelő nevét, képzettségét és tapasztalatát.
 
-(3) A kérelemhez mellékelni kell:
+(3)[^81] A kérelem kötelező mellékleteit a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendelet tartalmazza.
 
-a) a gyártás-ellenőrzési rendszer főbb elemeinek leírását,
-
-b) a gyártási hely, vagy helyek leírását, a helyiség elrendezési rajzát,
-
-c) a gyártásfelügyelő képzettségét, tapasztalatát igazoló dokumentum vagy dokumentumok másolatát.
+[^79]: A 130. § (1) bekezdése az 55/2017. (XII. 27.) NFM rendelet 88. § (1) bekezdésével megállapított szöveg.
+[^80]: A 130. § (2) bekezdés nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 89. § a) pontja szerint módosított szöveg.
+[^81]: A 130. § (3) bekezdése az 55/2017. (XII. 27.) NFM rendelet 88. § (2) bekezdésével megállapított szöveg.

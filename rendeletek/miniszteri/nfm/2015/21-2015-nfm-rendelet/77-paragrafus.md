@@ -1,4 +1,4 @@
-77. § (1) A karbantartási kézikönyvnek legalább a következőket kell tartalmaznia:
+77. § (1)[^51] A 76. § (2) bekezdésben meghatározott kérelem mellékletét képző karbantartási kézikönyvnek legalább a következőket kell tartalmaznia:
 
 a) a felelős vezető által aláírt nyilatkozatot, amely megerősíti, hogy a karbantartó szervezet folyamatosan, a jelen rendeletben meghatározottak szerint működik,
 
@@ -26,4 +26,7 @@ h) a karbantartó szervezet kézikönyve módosításának eljárásait.
 
 (6) A minta karbantartási kézikönyvnek – a konkrét szervezetre vonatkozó adatok kivételével – az (1) bekezdésben meghatározottakat kell tartalmaznia.
 
-(7) Ha a karbantartási engedély iránti kérelemhez a légiközlekedési hatóság által jóváhagyott minta karbantartási kézikönyvet nyújtottak be, akkor a karbantartási kézikönyv azon módosításaihoz szükséges a légiközlekedési hatóság jóváhagyása, amelyeket a minta kézikönyv nem tartalmazott.
+(7)[^52]
+
+[^51]: A 77. § (1) bekezdése az 55/2017. (XII. 27.) NFM rendelet 85. §-ával megállapított szöveg.
+[^52]: A 77. § (7) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 21. pontja hatályon kívül helyezte.

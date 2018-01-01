@@ -1,18 +1,6 @@
-23. § (1) A könnyű légijármű légialkalmassági tanúsítványát a légiközlekedési hatóság akkor adja ki, ha a kérelemhez mellékelt dokumentumok alapján megállapítja, hogy
+23. § (1)[^24]
 
-a) új könnyű légijármű esetében a könnyű légijármű
-
-aa) megfelel a vonatkozó típusalkalmassági tanúsítvány alapjául szolgáló típustervnek és
-
-ab) biztonságos üzemkész állapotban van,
-
-b) használt könnyű légijármű esetében
-
-ba) a könnyű légijármű megfelel a vonatkozó típusalkalmassági tanúsítvány alapjául szolgáló típustervnek és
-
-bb) a légijárművön egyedi légialkalmassági felülvizsgálatot hajtottak végre.
-
-(2) A könnyű légijármű légialkalmassági tanúsítványának – a Ket.-ben meghatározottakon kívül – tartalmaznia kell a légijármű:
+(2)[^25] A könnyű légijármű légialkalmassági tanúsítványának – az Ákr.-ben meghatározottakon kívül – tartalmaznia kell a légijármű:
 
 a) azonosítására szolgáló adatokat (pl. lajstromjelét), a típusalkalmassági tanúsítvány vagy bizonyítvány számát és az azt kiadó hatóság megnevezését,
 
@@ -26,4 +14,8 @@ e) osztályba sorolását,
 
 valamint a jogosultságokat, szükséges korlátozásokat, bejegyzéseket.
 
-(3) A könnyű légijármű légialkalmassági tanúsítványát magyar és angol nyelven kell kiállítani.
+(3)[^26]
+
+[^24]: A 23. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 10. pontja hatályon kívül helyezte.
+[^25]: A 23. § (2) bekezdés nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 89. § a) pontja szerint módosított szöveg.
+[^26]: A 23. § (3) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 10. pontja hatályon kívül helyezte.

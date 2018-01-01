@@ -1,7 +1,1 @@
 ## 80. § A 79. §-ban meghatározott jogosultságokat azon karbantartó szervezet is gyakorolhatja, amely a légijárművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2003. november 20-i 2042/2003/EK bizottsági rendelet (a továbbiakban: 2042/2003/EK rendelet) alapján légijármű-karbantartási engedéllyel rendelkezik, a karbantartási engedélyben meghatározottak szerint.
-
-81. § (1) Amennyiben a légiközlekedési hatóság megállapítja, hogy a karbantartó szervezet nem teljesíti jelen rendeletben a karbantartási engedélyre meghatározott követelményeket, akkor a (3) bekezdésre, valamint az Lt. 3/C. § (5)–(7) bekezdésében foglaltakra figyelemmel a karbantartó szervezettel egyeztetett legalább 20 nap teljesítési határidő megállapításával, a jogkövetkezményekre történő figyelmeztetéssel, a Ket. 94. §-ában foglaltak szerint eljárva végzésben kötelezi a karbantartó szervezetet a jogszerű állapot helyreállítására.
-
-(2) Ha az engedélyes a végzésben megállapított határidőn belül nem tesz eleget a kötelezettségének, akkor a légiközlekedési hatóság az engedélyt visszavonja.
-
-(3) A karbantartó szervezetnek az (1) bekezdésben meghatározott esetben a követelményeknek történő megfelelés érdekében javító intézkedéseket kell kidolgozni, amelyben megjelöli a teljesítési határidőt, vagy határidőket.
