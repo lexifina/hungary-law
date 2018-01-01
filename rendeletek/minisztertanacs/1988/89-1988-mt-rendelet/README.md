@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1988-89-20-6
 | 2015-04-01 | 1988-89-20-65.42 | 168/2007. (VI. 28.) Korm. rendelet |
 | 2015-08-07 | 1988-89-20-65.43 | 176/2015. (VII. 7.) Korm. rendelet |
 | 2016-01-01 | 1988-89-20-65.44 | 20/1991. (I. 29.) Korm. rendelet |
+| 2018-01-01 | 1988-89-20-65.45 | 176/2015. (VII. 7.) Korm. rendelet |

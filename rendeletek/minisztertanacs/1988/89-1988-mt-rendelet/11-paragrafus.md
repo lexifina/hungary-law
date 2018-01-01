@@ -4,16 +4,17 @@ a) az adott jármű vezetéséhez szükséges hatályos vezetői engedéllyel é
 
 b)[^19]
 
-c) nem áll a járművezetéstől eltiltás hatálya alatt, illetve a vezetési jogosultsága szünetelését a közlekedési igazgatási hatóság jogerősen nem rendelte el.
+c)[^20] nem áll a járművezetéstől eltiltás hatálya alatt, illetve a vezetési jogosultsága szünetelését a közlekedési igazgatási hatóság jogerősen vagy véglegesen nem rendelte el.
 
-(2)[^20]
+(2)[^21]
 
-(3)[^21]
+(3)[^22]
 
-(4)[^22]
+(4)[^23]
 
 [^18]: A 11. § eredeti szövegének jelölését a 20/2004. (II. 13.) Korm. rendelet 5. §-a (1) bekezdésre változtatta, szövege a 261/2011. (XII. 7.) Korm. rendelet 39. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
 [^19]: A 11. § (1) bekezdés b) pontját a 176/2015. (VII. 7.) Korm. rendelet 31. § (1) bekezdés c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 26. §-át.
-[^20]: A 11. § (2) bekezdését a 20/2004. (II. 13.) Korm. rendelet 5. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A 11. § (2) bekezdését a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése hatályon kívül helyezte. Ez utóbbi módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^21]: A 11. § (3) bekezdését a 20/2004. (II. 13.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése. Ez utóbbi módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^22]: A 11. § (4) bekezdését az 1/2005. (I. 11.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése. Ez utóbbi módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^20]: A 11. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^21]: A 11. § (2) bekezdését a 20/2004. (II. 13.) Korm. rendelet 5. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A 11. § (2) bekezdését a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése hatályon kívül helyezte. Ez utóbbi módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^22]: A 11. § (3) bekezdését a 20/2004. (II. 13.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése. Ez utóbbi módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^23]: A 11. § (4) bekezdését az 1/2005. (I. 11.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése. Ez utóbbi módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
