@@ -1,6 +1,6 @@
 ## Összeférhetetlenség
 
-8. § (1)[^64] Az építésügyi és az építésfelügyeleti hatósági tevékenység körében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 85. § (4) bekezdés a) pontjában említett pártatlan, befolyástól mentes tevékenységet veszélyeztető tevékenységnek minősül különösen, ha az építésügyi vagy az építésfelügyeleti hatóság köztisztviselője vagy állami tisztviselője olyan építménnyel, telekkel összefüggésben lát el
+8. § (1)[^67] Az építésügyi és az építésfelügyeleti hatósági tevékenység körében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 85. § (4) bekezdés a) pontjában említett pártatlan, befolyástól mentes tevékenységet veszélyeztető tevékenységnek minősül különösen, ha az építésügyi vagy az építésfelügyeleti hatóság köztisztviselője vagy állami tisztviselője olyan építménnyel, telekkel összefüggésben lát el
 
 a) építészeti-műszaki tervezési,
 
@@ -26,10 +26,10 @@ k) energetikai tanúsítói
 
 ## tevékenységet, amely annak a hatóságnak az illetékességi területén található, ahol építésügyi vagy építésfelügyeleti hatósági feladatot lát el.
 
-(2)[^65]
+(2)[^68]
 
-(3)[^66] Az építésügyi, valamint az építésfelügyeleti hatósági feladatot ellátó köztisztviselő és állami tisztviselő nem lehet a hatóság illetékességi területén működő területi építész vagy mérnöki kamara tisztségviselője, valamint nem láthat el önkormányzati főépítészi feladatot.
+(3)[^69] Az építésügyi, valamint az építésfelügyeleti hatósági feladatot ellátó köztisztviselő és állami tisztviselő nem lehet a hatóság illetékességi területén működő területi építész vagy mérnöki kamara tisztségviselője, valamint nem láthat el önkormányzati főépítészi feladatot.
 
-[^64]: A 8. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 39. §-ával megállapított, nyitó szövegrésze a 217/2016. (VII. 22.) Korm. rendelet 16. § (5) bekezdés a) pontja, a 482/2016. (XII. 28.) Korm. rendelet 5. § k) pontja szerint módosított szöveg.
-[^65]: A 8. § (2) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte.
-[^66]: A 8. § (3) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 16. § (5) bekezdés b) pontja, a 482/2016. (XII. 28.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^67]: A 8. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 39. §-ával megállapított, nyitó szövegrésze a 217/2016. (VII. 22.) Korm. rendelet 16. § (5) bekezdés a) pontja, a 482/2016. (XII. 28.) Korm. rendelet 5. § k) pontja szerint módosított szöveg.
+[^68]: A 8. § (2) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^69]: A 8. § (3) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 16. § (5) bekezdés b) pontja, a 482/2016. (XII. 28.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.

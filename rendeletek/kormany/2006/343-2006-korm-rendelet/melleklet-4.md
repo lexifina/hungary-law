@@ -1,4 +1,4 @@
-4. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^87]
+4. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^90]
 
 A többciklusú képzési szerkezet bevezetését követően, felmenő rendszerben kibocsátott oklevelek egyenértékűségének vizsgálatához:
 
@@ -176,4 +176,4 @@ II. Építésfelügyeleti hatósági munkakör betöltéséhez szükséges képe
 
 ”
 
-[^87]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 41. § b) pontjával megállapított, a 217/2016. (VII. 22.) Korm. rendelet 16. § (6) bekezdése, a 482/2016. (XII. 28.) Korm. rendelet 5. § j) és l) pontja szerint módosított szöveg.
+[^90]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 41. § b) pontjával megállapított, a 217/2016. (VII. 22.) Korm. rendelet 16. § (6) bekezdése, a 482/2016. (XII. 28.) Korm. rendelet 5. § j) és l) pontja szerint módosított szöveg.
