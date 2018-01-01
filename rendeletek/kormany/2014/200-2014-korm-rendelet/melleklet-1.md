@@ -20,11 +20,11 @@ Az 1. § (1) bekezdésében foglalt beruházással összefüggő kiemelt jelent�
 
 7. tűzvédelmi hatósági eljárások,
 
-8.[^6]
+8.[^8]
 
 9. útügyi hatósági eljárások,
 
-10.[^7] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+10.[^9] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 11. műszaki biztonsági engedélyezési eljárások,
 
@@ -48,5 +48,5 @@ Az 1. § (1) bekezdésében foglalt beruházással összefüggő kiemelt jelent�
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^6]: Az 1. melléklet 8. sorát a 271/2016. (IX. 1.) Korm. rendelet 59. § (3) bekezdése hatályon kívül helyezte.
-[^7]: Az 1. melléklet 10. pontja a 380/2016. (XII. 2.) Korm. rendelet 79. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: Az 1. melléklet 8. sorát a 271/2016. (IX. 1.) Korm. rendelet 59. § (3) bekezdése hatályon kívül helyezte.
+[^9]: Az 1. melléklet 10. pontja a 380/2016. (XII. 2.) Korm. rendelet 79. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
