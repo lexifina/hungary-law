@@ -10,7 +10,7 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^293]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^297]
 
 ## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
@@ -40,13 +40,17 @@
 
 - özvegyi kiegészítő ellátások: együtt folyósított kiegészítések.
 
-3. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 1. Háziorvosi, háziorvosi ügyeleti ellátás jogcím tekintetében a kifizetett támogatások közül:
+3. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím,
 
-- praxisfinanszírozás,
+1. Gyógyító-megelőző ellátás jogcímcsoport, 1. Háziorvosi, háziorvosi ügyeleti ellátás jogcím tekintetében a kifizetett támogatások közül:
 
-- eseti ellátás díjazása,
+– praxisfinanszírozás,
 
-- ügyeleti szolgálat.
+– indikátorrendszer finanszírozása,
+
+– eseti ellátás díjazása,
+
+– ügyeleti szolgálat.
 
 4. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 2. Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem jogcím tekintetében a kifizetett támogatások közül:
 
@@ -72,17 +76,15 @@
 
 – tervezett külföldi ellátások orvosi felülvizsgálata,
 
-– egészségügyi dolgozók béremelésének fedezete,
+– egészségügyi dolgozók 2017. évi béremelésének fedezete,
 
-– egészségügyi dolgozók 2017. november havi béremelésének fedezete,
+– egészségügyi dolgozók 2018. évi béremelésének fedezete,
 
 – az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése,
 
 – egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete,
 
-– fiatal szakorvosok támogatása,
-
-– működési és egyéb támogatás.
+– fiatal szakorvosok támogatása.
 
 6. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím,
 
@@ -104,4 +106,4 @@
 
 – speciális finanszírozású szakellátás.
 
-[^293]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1–2. pontja és 11. § 13–14. pontja, a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^297]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1–2. pontja és 11. § 13–14. pontja, a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 2–3. pontja szerint módosított szöveg.

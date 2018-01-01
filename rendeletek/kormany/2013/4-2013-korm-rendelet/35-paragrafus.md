@@ -1,4 +1,4 @@
-35. §[^175] (1) A feltöltött, szükség esetén az irányító szerv által jóváhagyott éves költségvetési beszámolókat a Kincstár húsz napon belül felülvizsgálja.
+35. §[^179] (1) A feltöltött, szükség esetén az irányító szerv által jóváhagyott éves költségvetési beszámolókat a Kincstár húsz napon belül felülvizsgálja.
 
 (2) A felülvizsgálat során a Kincstár az éves költségvetési beszámolót csak akkor fogadja el, ha az teljesíti az e rendeletben előírt alaki és tartalmi követelményeket.
 
@@ -6,4 +6,4 @@
 
 (4) A Kincstár az elfogadott éves költségvetési beszámolókat megküldi az Állami Számvevőszéknek.
 
-[^175]: A 35. § a 402/2015. (XII. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^179]: A 35. § a 402/2015. (XII. 15.) Korm. rendelet 15. §-ával megállapított szöveg.

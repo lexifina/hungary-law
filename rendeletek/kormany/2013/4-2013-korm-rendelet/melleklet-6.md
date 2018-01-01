@@ -364,11 +364,11 @@
 
 ## III. Egyéb eszközök induláskori értéke és változásai
 
-## 1. Megszűnés miatt átvett lekötött betétek könyv szerinti értéke és változása
+## 1.
 
-## 2. Megszűnés miatt átvett egyéb pénzeszközök könyv szerinti értéke és változása
+## 2.
 
-## 3. Pénzeszközön kívüli egyéb eszközök induláskori értéke és változásai
+## 3.
 
 ## IV. Felhalmozott eredmény
 
@@ -492,7 +492,7 @@
 
 ## 6. Nem társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások megtérítésének elszámolása
 
-## 7. Munkáltató által korengedményes nyugdíjhoz megfizetett hozzájárulás elszámolása
+## 7.
 
 ## 8. Letétre, megőrzésre, fedezetkezelésre átvett pénzeszközök, biztosítékok
 
@@ -506,7 +506,7 @@
 
 ## Források összesen
 
-6. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^295]
+6. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^299]
 
 ## EREDMÉNYKIMUTATÁS/KONSZOLIDÁLT EREDMÉNYKIMUTATÁS
 
@@ -566,7 +566,7 @@ VII. Egyéb ráfordítások
 
 20. Egyéb kapott (járó) kamatok és kamatjellegű eredményszemléletű bevételek
 
-21.[^296] Pénzügyi műveletek egyéb eredményszemléletű bevételei
+21.[^300] Pénzügyi műveletek egyéb eredményszemléletű bevételei
 
 – ebből: lekötött bankbetétek mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamnyeresége
 
@@ -586,7 +586,7 @@ VIII. Pénzügyi műveletek eredményszemléletű bevételei (17+18+19+20+21)
 
 – ebből: Kincstáron kívüli forint- és devizaszámlák értékvesztése
 
-26.[^297] Pénzügyi műveletek egyéb ráfordításai
+26.[^301] Pénzügyi műveletek egyéb ráfordításai
 
 – ebből: lekötött bankbetétek mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamvesztesége
 
@@ -594,6 +594,6 @@ VIII. Pénzügyi műveletek eredményszemléletű bevételei (17+18+19+20+21)
 
 IX. Pénzügyi műveletek ráfordításai (22+23+24+25+26)
 
-[^295]: A 6. melléklet a 402/2015. (XII. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^296]: A 6. melléklet 21. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
-[^297]: A 6. melléklet 26. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 8. pontja szerint módosított szöveg.
+[^299]: A 6. melléklet a 402/2015. (XII. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^300]: A 6. melléklet 21. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
+[^301]: A 6. melléklet 26. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 8. pontja szerint módosított szöveg.
