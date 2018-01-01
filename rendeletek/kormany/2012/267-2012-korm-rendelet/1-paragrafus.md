@@ -2,6 +2,8 @@
 
 (2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 
-(3) Ha az 1. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
+(3)[^1]
 
 (4) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a beruházás megvalósításához, használatbavételéhez és működéséhez közvetlenül szükségesek.
+
+[^1]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 56. § a) pontja hatályon kívül helyezte.
