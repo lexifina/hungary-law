@@ -1,4 +1,4 @@
-4/A. §[^5] (1) A Bnytv. 69. § (3)–(5) bekezdésében meghatározott módon történő adatigénylés (a továbbiakban: elektronikus úton előterjesztett adatigénylés) előterjesztéséhez szükséges egyedi azonosítókat az adatigénylő a bűnügyi nyilvántartó szervhez benyújtott egyedi azonosító iránti kérelemben igényli.
+4/A. §[^5] (1)[^6] Az adatigénylés előterjesztéséhez szükséges egyedi azonosítókat az adatigénylő a bűnügyi nyilvántartó szervhez benyújtott egyedi azonosító iránti kérelemben igényli.
 
 (2) Az egyedi azonosító iránti kérelemnek tartalmaznia kell
 
@@ -39,3 +39,4 @@ c) elektronikus levélcím.
 (5) A bűnügyi nyilvántartó szerv az egyedi azonosító iránti kérelem beérkezésétől számított nyolc napon belül tájékoztatja az adatigénylésre jogosult szervet a felhatalmazott személy egyedi azonosítójáról, valamint az elektronikus úton előterjesztett adatigénylés gyakorlásához szükséges technikai ismeretekről.
 
 [^5]: A 4/A. §-t a 17/2014. (XII. 19.) IM rendelet 43. §-a iktatta be.
+[^6]: A 4/A. § (1) bekezdése a 22/2017. (XII. 22.) IM rendelet 10. §-ával megállapított szöveg.

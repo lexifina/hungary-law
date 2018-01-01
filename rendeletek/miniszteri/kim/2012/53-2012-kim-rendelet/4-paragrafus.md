@@ -1,17 +1,13 @@
 ## 2. Az adatigénylés alapján történő adattovábbítás rendje
 
-## 4. §[^4] A Bnytv. 69. § (1) bekezdésében meghatározott feltételeknek megfelelő jogosult (a továbbiakban: adatigénylő) által a bűnügyi nyilvántartó szervhez benyújtott adatigénylési kérelemnek (a továbbiakban: adatigénylési kérelem) tartalmaznia kell:
+## 4. §[^4] Az adatigénylő által a bűnügyi nyilvántartó szervhez benyújtott adatigénylési kérelemnek (a továbbiakban: adatigénylési kérelem) tartalmaznia kell:
 
-a) az adatigénylő
+a) a Bnytv. 69. § (2) bekezdésében meghatározott adatokat,
 
-aa) megnevezését,
+b) a Bnytv. 70. § (1) bekezdés a) pontjában meghatározott adatokat,
 
-ab) levelezési címét vagy elektronikus levélcímét,
+c) az adatigényléssel átvenni kívánt adatok körének pontos megjelölését,
 
-b) a Bnytv. 69. § (2) bekezdésében meghatározott adatokat,
+d) a Bnytv. 76/A. § (2) bekezdése alapján az adatigénylő döntésétől függően az arra vonatkozó kérelmet, hogy a bűnügyi nyilvántartó szerv ellenőrizze, hogy az adatigényléssel érintett magyar állampolgárra vonatkozóan szerepel-e adat a tagállami ítéletek nyilvántartásában.
 
-c) a Bnytv. 70. § (1) bekezdés a) pontjában meghatározott adatokat,
-
-d) az adatigényléssel átvenni kívánt adatok körének pontos megjelölését.
-
-[^4]: A 4. § a 17/2014. (XII. 19.) IM rendelet 42. §-ával megállapított szöveg.
+[^4]: A 4. § a 22/2017. (XII. 22.) IM rendelet 9. §-ával megállapított szöveg.
