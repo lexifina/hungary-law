@@ -1,1 +1,1 @@
-74. § Az e törvényben szabályozott hivatalból indult eljárás során – halaszthatatlan esetben – az eljáró hatóság kirendelő végzés hiányában is igénybe vehet tolmácsot a hatóság és a tolmács között létrejött szerződés alapján.
+### 74. §

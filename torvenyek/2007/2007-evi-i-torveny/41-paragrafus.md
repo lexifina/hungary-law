@@ -2,7 +2,7 @@
 
 (2) Ha a kiutasítást közegészségügyi okból rendelik el, a beutazási és tartózkodási tilalom időtartamára a közegészségügyi hatóság javaslatot tesz.
 
-(2a) Ha a kiutasítást a 40. § (2) bekezdés c) pontja alapján rendeli el az eljáró hatóság, a beutazási és tartózkodási tilalom időtartamára az elrendelést kezdeményező rendvédelmi szerv javaslatot tesz.
+(2a) Ha a kiutasítást a 40. § (2) bekezdés c) pontja alapján rendeli el az eljáró idegenrendészeti hatóság, a beutazási és tartózkodási tilalom időtartamára az elrendelést kezdeményező rendvédelmi szerv javaslatot tesz.
 
 (3) Az e törvény szerinti kiutasítással együtt elrendelt beutazási és tartózkodási tilalom időtartamát a kiutasítás végrehajtásának napjától kell számítani.
 

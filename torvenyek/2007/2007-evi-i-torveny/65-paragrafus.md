@@ -12,7 +12,7 @@ c) a más célállamba történő szállítást vállaló fuvarozó megtagadja a
 
 (3) Ha a visszaszállítás azonnal nem hajtható végre, a visszaszállításig a harmadik ország állampolgárságával rendelkező családtag tartózkodásával összefüggésben felmerülő költségeket a fuvarozó viseli.
 
-(4) Ha a fuvarozó vitatja a visszaszállítási, illetve költségviselési kötelezettsége fennállását, az eljáró hatóság a visszaszállítási kötelezettség teljesítésére és a költségviselésre határozattal kötelezi.
+(4) Ha a fuvarozó vitatja a visszaszállítási, illetve költségviselési kötelezettsége fennállását, az eljáró idegenrendészeti hatóság a visszaszállítási kötelezettség teljesítésére és a költségviselésre határozattal kötelezi.
 
 (5) Az (1) bekezdés szerinti kötelezettségét nem teljesítő fuvarozót – külön jogszabályban meghatározott – közrendvédelmi bírsággal kell sújtani.
 

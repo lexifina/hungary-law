@@ -8,4 +8,4 @@ b) a visszairányított személy a 36. § (4) bekezdés szerinti kérelmet terje
 
 (3) Ha a visszairányított személy a visszairányítás elrendelésétől számított hetvenkét órán belül a szükséges dokumentumokat megszerzi, vagy más módon bizonyítja a beutazáshoz való jogának fennállását, a visszairányítást elrendelő határozat érvényét veszti.
 
-(4) Ha a visszairányítást a (2) bekezdésben meghatározott időtartamon belül nem lehet végrehajtani, a beléptetést követően a visszairányított személyt az eljáró hatóság kiutasíthatja.
+(4) Ha a visszairányítást a (2) bekezdésben meghatározott időtartamon belül nem lehet végrehajtani, a beléptetést követően a visszairányított személyt az eljáró idegenrendészeti hatóság kiutasíthatja.

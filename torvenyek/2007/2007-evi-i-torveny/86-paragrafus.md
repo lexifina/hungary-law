@@ -6,7 +6,7 @@
 
 86. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-a) az EGT-állampolgár és a családtag tartózkodásával összefüggő ügyekben eljáró hatóságokat, ezek illetékességét, valamint az eljárás rendjét;
+a) az EGT-állampolgár és a családtag tartózkodásával összefüggő ügyekben eljáró idegenrendészeti hatóságokat, ezek illetékességét, valamint az eljárás rendjét;
 
 b) a tartózkodás bejelentésével, valamint a tartózkodási kártya kiadásával kapcsolatos eljárás, valamint az EGT-állampolgár és a családtag e törvény alapján kezelt adataival kapcsolatos eljárás részletes rendjét;
 

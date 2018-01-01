@@ -1,6 +1,6 @@
 ## A kiutasítás végrehajtása
 
-48. § (1) A bíróság által elrendelt kiutasítást az eljáró hatóság végzéssel hajtja végre, amellyel szemben végrehajtási kifogás terjeszthető elő.
+48. § (1) A bíróság által elrendelt kiutasítást az eljáró idegenrendészeti hatóság végzéssel hajtja végre, amellyel szemben végrehajtási kifogás terjeszthető elő.
 
 (2) Ha a kiutasítás végrehajtásának a 34. §-ban meghatározott akadálya van, azt a bíróság által elrendelt kiutasítás végrehajtásakor is figyelembe kell venni. A végrehajtási akadály fennállását ebben az esetben a büntetés-végrehajtási bíró állapítja meg.
 

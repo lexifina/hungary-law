@@ -6,9 +6,9 @@ a) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesít
 
 b) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítéséről az Európai Unió Tanácsa döntött.
 
-(2) A beutazási és tartózkodási tilalmat az ismeretlen helyen, illetve nem Magyarország területén tartózkodó személlyel szemben az eljáró hatóság határozattal rendeli el.
+(2) A beutazási és tartózkodási tilalmat az ismeretlen helyen, illetve nem Magyarország területén tartózkodó személlyel szemben az eljáró idegenrendészeti hatóság határozattal rendeli el.
 
-(3) Az idegenrendészeti kiutasítással együtt elrendelendő beutazási és tartózkodási tilalmat az eljáró hatóság a kiutasításról rendelkező határozatában rendeli el.
+(3) Az idegenrendészeti kiutasítással együtt elrendelendő beutazási és tartózkodási tilalmat az eljáró idegenrendészeti hatóság a kiutasításról rendelkező határozatában rendeli el.
 
 (4) A beutazási és tartózkodási tilalom elrendeléséről az e törvény szerinti adatkezelő szervet értesíteni kell.
 

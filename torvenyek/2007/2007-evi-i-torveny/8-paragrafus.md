@@ -1,4 +1,4 @@
-8. § (1) Az eljáró hatóság engedélyezheti annak a személynek a családtagként történő tartózkodását, aki
+8. § (1) Az eljáró idegenrendészeti hatóság engedélyezheti annak a személynek a családtagként történő tartózkodását, aki
 
 a) a magyar állampolgár eltartottja, vagy vele legalább egy éve egy háztartásban él, illetve akiről súlyos egészségügyi okból a magyar állampolgár személyesen gondoskodik,
 

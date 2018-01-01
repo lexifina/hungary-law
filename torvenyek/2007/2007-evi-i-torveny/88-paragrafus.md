@@ -4,7 +4,7 @@
 
 (2) A családtag részére e törvény hatálybalépését megelőzően kiadott tartózkodási vízum, tartózkodási engedély, bevándorlási és letelepedési engedély az érvényességi idejének lejártáig a fenti engedélyek által tanúsított jogállás szerinti tartózkodásra jogosít.
 
-(3) A tartózkodási vízummal vagy tartózkodási engedéllyel rendelkező EGT-állampolgár vagy családtag kérelmére az eljáró hatóság – az (1) és (2) bekezdésben foglalt szerzett jogok sérelme nélkül – az engedély érvényességi ideje alatt az e törvényben meghatározott tartózkodási jogot igazoló okmányt állít ki.
+(3) A tartózkodási vízummal vagy tartózkodási engedéllyel rendelkező EGT-állampolgár vagy családtag kérelmére az eljáró idegenrendészeti hatóság – az (1) és (2) bekezdésben foglalt szerzett jogok sérelme nélkül – az engedély érvényességi ideje alatt az e törvényben meghatározott tartózkodási jogot igazoló okmányt állít ki.
 
 (4) A letelepedési vagy bevándorlási engedéllyel rendelkező EGT-állampolgár vagy családtag kérelmére – a feltételek vizsgálata nélkül – állandó tartózkodási jogot igazoló okmányt kell kiállítani.
 

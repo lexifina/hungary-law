@@ -10,6 +10,6 @@ c) ha a családi kapcsolat létesítése a tartózkodási jog megszerzése érde
 
 d) ha az állandó tartózkodási jogot igazoló okmány megszerzése érdekében olyan hamis adatot, valótlan tényt közölt, amelyre vonatkozóan a büntetőjogi felelősségét jogerős bírósági ítélet megállapította.
 
-(2) Az (1) és az (1a) bekezdésben foglalt esetekben az állandó tartózkodási jog megszűnését az eljáró hatóság határozattal állapítja meg.
+(2) Az (1) és az (1a) bekezdésben foglalt esetekben az állandó tartózkodási jog megszűnését az eljáró idegenrendészeti hatóság határozattal állapítja meg.
 
-(3) Az eljáró hatóság az állandó tartózkodási jog megszűnésének tényét megállapító határozatban az EGT-állampolgár vagy a családtag részére kiállított állandó tartózkodási jogot igazoló okmány érvénytelenségét megállapítja és az okmányt visszavonja.
+(3) Az eljáró idegenrendészeti hatóság az állandó tartózkodási jog megszűnésének tényét megállapító határozatban az EGT-állampolgár vagy a családtag részére kiállított állandó tartózkodási jogot igazoló okmány érvénytelenségét megállapítja és az okmányt visszavonja.

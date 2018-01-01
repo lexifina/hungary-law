@@ -8,7 +8,7 @@ a) a kiutasított személy szándékosan elkövetett bűncselekmény miatt kisza
 
 b) a kiutasított személy olyan bűncselekmény elkövetése miatt került kiutasításra, amely ötévi vagy azt meghaladó tartamú szabadságvesztéssel büntetendő, vagy
 
-c) a kiutasított személlyel szemben a 40. § (2) bekezdés a)–c) pontja alapján rendeltek el idegenrendészeti kiutasítást és a 61/A. §-ban foglaltaknak nem tett eleget.
+c) a kiutasított személlyel szemben a 40. § (2) bekezdés a)–c) pontja, valamint a 48. § (1) bekezdése alapján rendeltek el kiutasítást és a 61/A. §-ban foglaltaknak nem tett eleget.
 
 (2) A kitoloncolásról az idegenrendészeti kiutasítást elrendelő határozatban vagy önálló határozatban kell rendelkezni. Bírósági kiutasítás esetén a kitoloncolást a bírósági kiutasítás végrehajtásáról hozott végzésben vagy önálló végzésben kell elrendelni, amellyel szemben – a (4) bekezdésben meghatározott kivétellel – jogorvoslatnak nincs helye.
 
@@ -22,4 +22,4 @@ a) a kitoloncolt célországba történő beutazása meghiúsult, vagy
 
 b) a kitoloncolt sürgős orvosi beavatkozást igénylő állapota miatt nem hajtható végre.
 
-(6) Az eljáró hatóság a légi úton történő kiutasítás céljából történő átszállítás eseteiben biztosított segítségnyújtásról szóló, 2003. november 25-i 2003/110/EK tanácsi irányelv rendelkezéseinek alkalmazására köteles állam által elrendelt kiutasítás végrehajtásában közreműködhet.
+(6) Az eljáró idegenrendészeti hatóság a légi úton történő kiutasítás céljából történő átszállítás eseteiben biztosított segítségnyújtásról szóló, 2003. november 25-i 2003/110/EK tanácsi irányelv rendelkezéseinek alkalmazására köteles állam által elrendelt kiutasítás végrehajtásában közreműködhet.

@@ -1,1 +1,1 @@
-47/A. § Az idegenrendészeti kiutasítás végrehajtásának biztosítása érdekében az eljáró hatóság az EGT-állampolgár, illetve a családtag úti okmányát elveheti, amely intézkedéssel szemben külön jogorvoslatnak nincs helye.
+47/A. § Az idegenrendészeti kiutasítás végrehajtásának biztosítása érdekében az eljáró idegenrendészeti hatóság az EGT-állampolgár, illetve a családtag úti okmányát elveheti, amely intézkedéssel szemben külön jogorvoslatnak nincs helye.

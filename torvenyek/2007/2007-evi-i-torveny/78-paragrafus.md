@@ -16,4 +16,4 @@ f) az EGT-állampolgár és a családtag arcképmását, ujjnyomatát.
 
 (3) Az (1) bekezdésben meghatározott adatokat – a (4) bekezdésben foglalt kivétellel – az idegenrendészeti hatóság a tilalom megszűnését követő öt évig kezeli.
 
-(4) Az (1) bekezdés f) pontjában meghatározott adatokat az eljáró hatóság a beutazási és tartózkodási tilalom időtartama alatt kezeli.
+(4) Az (1) bekezdés f) pontjában meghatározott adatokat az eljáró idegenrendészeti hatóság a beutazási és tartózkodási tilalom időtartama alatt kezeli.

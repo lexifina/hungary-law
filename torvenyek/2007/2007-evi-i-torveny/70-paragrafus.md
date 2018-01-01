@@ -1,11 +1,7 @@
-70. § (1) Az e törvényben szabályozott kérelemre indult eljárásokban az ügyfélnek kérelme előterjesztésekor, valamint a regisztrációs igazolás kiadása érdekében az eljáró hatóság előtt személyesen meg kell jelennie. A személyes megjelenési kötelezettség teljesítésétől az eljáró hatóság eltekinthet, ha a kérelmező a megjelenésre egészségi állapota miatt képtelen.
+70. § (1) A regisztrációs igazolás, a tartózkodási kártya, valamint az állandó tartózkodási kártya iránti kérelmet az eljáró idegenrendészeti hatóság az okmány kiadásával teljesíti vagy határozattal utasítja el.
 
-(2) Ha az (1) bekezdésben meghatározott eljárásokban az ügyfél a kérelmét hiányosan nyújtotta be, a hiánypótlási felhívást részére az eljáró hatóság azonnal átadja.
+(2) Ha az eljáró idegenrendészeti hatóság a regisztrációs igazolás, a tartózkodási kártya vagy állandó tartózkodási kártya iránti kérelemnek helyt ad, kizárólag a döntés tényét rögzíti az ügyiraton.
 
-(3) Azokban az eljárási cselekményekben, ahol az ügyfél személyes megjelenése kötelező, az ügyfél nem jogosult elektronikus kapcsolatot tartani a hatósággal.
+(3)
 
-(4) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
-
-(5) Ha az ügy érdemi eldöntése olyan, az EGT-állampolgár vagy a családtag magyarországi tartózkodási jogosultsága vonatkozásában felmerülő kérdés előzetes elbírálásától függ, amely eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül magalapozottan nem dönthető el, az eljáró idegenrendészeti hatóság az eljárást felfüggesztheti.
-
-(6) Ha az eljáró hatóság döntésével szemben e törvény alapján fellebbezésnek van helye és a másodfokú döntés meghozatalához nincs elég adat, vagy az első fokú döntés meghozatalát követően új tény merül fel, vagy egyébként a tényállás további tisztázása szükséges, a másodfokú döntést hozó hatóság a döntés megsemmisítése mellett az ügyben első fokú döntést hozó hatóságot végzésben új eljárásra utasíthatja, vagy a kiegészítő bizonyítási eljárás lefolytatását maga végzi el, és ennek alapján dönt.
+(4)–(6)

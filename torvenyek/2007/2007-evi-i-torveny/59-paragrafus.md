@@ -1,4 +1,4 @@
-59. § (1) A kitoloncolási őrizetet az eljáró hatóság az erre a célra kijelölt helyen foganatosítja.
+59. § (1) A kitoloncolási őrizetet az eljáró idegenrendészeti hatóság az erre a célra kijelölt helyen foganatosítja.
 
 (2) A kitoloncolási őrizet végrehajtása során a férfiakat a nőktől el kell különíteni.
 

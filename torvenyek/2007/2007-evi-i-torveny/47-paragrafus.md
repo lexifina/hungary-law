@@ -1,3 +1,3 @@
 47. § (1) Az idegenrendészeti kiutasítással együtt elrendelt beutazási és tartózkodási tilalom hatálya alatt álló EGT-állampolgár vagy családtag a kiutasítás végrehajtásától számított egy év elteltével kérheti a beutazási és tartózkodási tilalom törlését az egészségi állapotában vagy családi körülményeiben bekövetkezett olyan változásra hivatkozva, amely Magyarország területén való tartózkodását indokolja.
 
-(2) A kérelemről az eljáró hatóság három hónapon belül határoz. Ha az eljáró hatóság a beutazási és tartózkodási tilalom hatályát megszünteti, intézkedik a beutazási és tartózkodási tilalom törlése iránt.
+(2) A kérelemről az eljáró idegenrendészeti hatóság három hónapon belül határoz. Ha az eljáró idegenrendészeti hatóság a beutazási és tartózkodási tilalom hatályát megszünteti, intézkedik a beutazási és tartózkodási tilalom törlése iránt.
