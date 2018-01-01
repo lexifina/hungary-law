@@ -1,1 +1,0 @@
-A Kormány a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdése a) pontjában és b) pontjának bb) alpontjában foglalt felhatalmazás alapján, valamint az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében eljárva a következőket rendeli el:
