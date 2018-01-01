@@ -2,6 +2,6 @@
 
 | 1. | Haladás a leálló sávon | 36. § (1) bekezdés és 37. § (2) bekezdés | 100 000 |
 
-6. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^54]
+6. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^60]
 
-[^54]: A 6. számú melléklet a 348/2009. (XII. 30.) Korm. rendelet 5. §-a, a 228/2012. (VIII. 23.) Korm. rendelet 3. § (10) bekezdése szerint módosított szöveg.
+[^60]: A 6. számú melléklet a 348/2009. (XII. 30.) Korm. rendelet 5. §-a, a 228/2012. (VIII. 23.) Korm. rendelet 3. § (10) bekezdése szerint módosított szöveg.

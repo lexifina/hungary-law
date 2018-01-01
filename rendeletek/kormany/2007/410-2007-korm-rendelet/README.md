@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-410-20-
 | 2017-09-19 | 2007-410-20-22.27 | 233/2017. (VIII. 14.) Korm. rendelet |
 | 2017-11-12 | 2007-410-20-22.28 | 233/2017. (VIII. 14.) Korm. rendelet |
 | 2017-12-30 | 2007-410-20-22.29 | 516/2017. (XII. 29.) Korm. rendelet |
+| 2018-01-01 | 2007-410-20-22.30 | 457/2017. (XII. 28.) Korm. rendelet |

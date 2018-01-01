@@ -12,4 +12,7 @@
 
 (6) Ha több tengely vagy tengelycsoport túlterhelt, a legmagasabb túllépésre vonatkozó bírságtételt kell figyelembe venni. Ha egyszerre áll fenn a megengedett legnagyobb össztömeg túllépése és a tengely- vagy tengelycsoport-túlterhelés, az ezekre vonatkozó bírságtételek összeadódnak.
 
+(7)[^6] Nem kell az (1) bekezdésben meghatározott bírságot kiszabni, ha a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló 36/2017. (IX. 18.) NFM rendelet 2. § (1) bekezdés a) pont af) alpontjában meghatározott jármű megengedett legnagyobb össztömeg túllépése 2018. június 30. napjáig elkövetett jogsértések esetén nem haladja meg a 2%-ot, 2018. július 1. napjától 2018. december 31. napjáig elkövetett jogsértések esetén nem haladja meg az 1%-ot.
+
 [^5]: Az 5. §-t a 228/2012. (VIII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte, újonnan a 233/2017. (VIII. 14.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 5. § (7) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 8. §-a iktatta be.

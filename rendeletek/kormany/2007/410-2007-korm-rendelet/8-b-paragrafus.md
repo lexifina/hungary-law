@@ -1,4 +1,4 @@
-8/B. §[^10] (1) Ha a Kkt. 21. §-ában meghatározott közigazgatási bírságot a járművezetővel szemben szabják ki, és ahhoz a külön jogszabály előéleti pontot rendel, arról az ügyfelet a határozatban tájékoztatni kell.
+8/B. §[^11] (1) Ha a Kkt. 21. §-ában meghatározott közigazgatási bírságot a járművezetővel szemben szabják ki, és ahhoz a külön jogszabály előéleti pontot rendel, arról az ügyfelet a határozatban tájékoztatni kell.
 
 (2) Ha a megengedett legnagyobb sebességre, a vasúti átjárón való áthaladásra, a járműforgalom irányítására szolgáló fényjelző készülék jelzéseire, a megengedett legnagyobb össztömeget vagy tengelyterhelést meghaladó járművek közúti közlekedésére, az autópálya leállósávjának igénybevételére, a behajtási tilalomra, a korlátozott övezetre (zóna) és a kötelező haladási irányra, az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra vonatkozó rendelkezések megsértője a helyszíni ellenőrzés során vagy az eljárás során a (3) bekezdés szerint vagy egyéb módon ismertté vált, akkor az 1–6. és 9. mellékletben meghatározott, a Kkt. 21. § (2) bekezdése szerinti bírság nem szabható ki.
 
@@ -16,4 +16,4 @@ megállapítható, hogy a járművezető személye maga a használatba vevő, il
 
 (6) A Kkt. 21. § (1) bekezdés d) vagy i) pontjában meghatározott szabályszegés esetében az ED törvényben meghatározott UD rendszer üzemeltetője által a bírság kiszabására jogosult hatóságnak átadott adatok alapján közigazgatási hatóság eljárást a jogsértés ismertté vált elkövetőjével szemben csak akkor lehet megindítani vagy lefolytatni, ha ugyanazon jogsértés miatt vele szemben a Kkt. 20. §-a alapján közigazgatási bírságot nem szabtak ki. Jelen bekezdés értelmében ugyanazon jogsértés alatt ugyanazt az észlelést kell érteni.
 
-[^10]: A 8/B. §-t a 175/2013. (V. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 233/2017. (VIII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^11]: A 8/B. §-t a 175/2013. (V. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 233/2017. (VIII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
