@@ -4,15 +4,16 @@ a) a nemzeti fejlesztési miniszter ágazati irányítása alá tartozó alábbi
 
 aa) Kormányzati Informatikai Fejlesztési Ügynökség (a továbbiakban: KIFÜ),
 
-ab)[^1]
+ab)[^2]
 
-ac) Közlekedésfejlesztési Koordinációs Központ (a továbbiakban: KKK),
+ac)[^3]
 
-ad)[^2]
+ad)[^4]
 
 ## (a továbbiakban együtt: munkáltató), valamint
 
 b) az a) pontban meghatározott munkáltatónál az 1. mellékletben felsorolt munkakörökben foglalkoztatottak közalkalmazotti jogviszonyára.
 
-[^1]: Az 1. § a) pont ab) alpontját a 47/2016. (XI. 17.) NFM rendelet 3. § a) pontja hatályon kívül helyezte.
-[^2]: Az 1. § a) pont ad) alpontját a 47/2016. (XI. 17.) NFM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § a) pont ab) alpontját a 47/2016. (XI. 17.) NFM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § a) pont ac) alpontját az 55/2017. (XII. 27.) NFM rendelet 72. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § a) pont ad) alpontját a 47/2016. (XI. 17.) NFM rendelet 3. § a) pontja hatályon kívül helyezte.

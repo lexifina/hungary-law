@@ -1,4 +1,4 @@
-10. § (1) A KIFÜ és a KKK vonatkozásában az 1. mellékletben meghatározott munkakörök betöltéséhez előírt képesítési követelmények alól abban az esetben adható felmentés, ha
+10. § (1)[^25] A KIFÜ vonatkozásában az 1. mellékletben meghatározott munkakörök betöltéséhez előírt képesítési követelmények alól abban az esetben adható felmentés, ha
 
 a) a közalkalmazott a képesítés megszerzése érdekében már oktatásban vesz részt, vagy
 
@@ -13,3 +13,5 @@ a) főiskolai és egyetemi továbbképzésben szerzett szakirányú oklevél,
 b) a felsőoktatási intézmények hatáskörében indított felsőfokú továbbképzésben szerzett szakirányú szakosító oklevelek, amelyekről külön jogszabály rendelkezett (szaküzemmérnök, szakmérnök, szaküzemgazdász, szakközgazdász, mérnök-közgazdász stb.).
 
 [A Kjt. 75. §-ához]
+
+[^25]: A 10. § (1) bekezdés nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 72. § d) pontja szerint módosított szöveg.

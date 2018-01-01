@@ -12,9 +12,9 @@ c) az okleveles könyvvizsgáló
 
 ## vizsgát igazoló oklevelet.
 
-(4)[^19] A KIFÜ vonatkozásában a Kjt. 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek kell elismerni a jogi szakvizsgát, mérlegképes könyvelő szakképesítést vagy ezzel egyenértékű képesítést, okleveles könyvvizsgálói képesítést, doktori fokozatot (PhD, DLA), a tudomány(ok) kandidátusa, a tudomány(ok) doktora, illetve külföldön szerzett és honosított vagy elismert tudományos fokozatot.
+(4)[^23] A KIFÜ vonatkozásában a Kjt. 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek kell elismerni a jogi szakvizsgát, mérlegképes könyvelő szakképesítést vagy ezzel egyenértékű képesítést, okleveles könyvvizsgálói képesítést, doktori fokozatot (PhD, DLA), a tudomány(ok) kandidátusa, a tudomány(ok) doktora, illetve külföldön szerzett és honosított vagy elismert tudományos fokozatot.
 
-(5)[^20]
+(5)[^24]
 
-[^19]: A 9. § (4) bekezdése a 47/2016. (XI. 17.) NFM rendelet 2. § c) pontja szerint módosított szöveg.
-[^20]: A 9. § (5) bekezdését a 47/2016. (XI. 17.) NFM rendelet 3. § g) pontja hatályon kívül helyezte.
+[^23]: A 9. § (4) bekezdése a 47/2016. (XI. 17.) NFM rendelet 2. § c) pontja szerint módosított szöveg.
+[^24]: A 9. § (5) bekezdését a 47/2016. (XI. 17.) NFM rendelet 3. § g) pontja hatályon kívül helyezte.
