@@ -8,7 +8,7 @@
 
 (5) A nemzetbiztonsági szolgálat végrehajtja a gazdálkodó szervezet vezető tisztségviselőinek, a kijelölésre kerülő biztonsági vezetőnek, valamint a gazdálkodó szervezet kérelmében megjelölt személyeknek a nemzetbiztonsági ellenőrzését.
 
-(6)[^35] Az (5) bekezdésben meghatározott személyek a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 2. számú mellékletében szereplő kérdőívet a nemzetbiztonsági ellenőrzés és a felülvizsgálati eljárás során a biztonsági kérdőív kitöltésének eljárási szabályairól, valamint a nemzetbiztonsági ellenőrzéssel összefüggésben a lényeges adatokban bekövetkezett változás bejelentésének rendjéről szóló kormányrendeletben foglaltak szerint töltik ki a következő eltérésekkel:
+(6)[^36] Az (5) bekezdésben meghatározott személyek a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 2. számú mellékletében szereplő kérdőívet a nemzetbiztonsági ellenőrzés és a felülvizsgálati eljárás során a biztonsági kérdőív kitöltésének eljárási szabályairól, valamint a nemzetbiztonsági ellenőrzéssel összefüggésben a lényeges adatokban bekövetkezett változás bejelentésének rendjéről szóló kormányrendeletben foglaltak szerint töltik ki a következő eltérésekkel:
 
 a) biztonsági megbízott alatt az NBF kijelölt munkatársát kell érteni,
 
@@ -18,4 +18,4 @@ c) a nemzetbiztonsági ellenőrzést az NBF elnöke kezdeményezi.
 
 (7) Az NBF elnöke a (4) bekezdés szerinti cégellenőrzést és a (6) bekezdésben foglaltak szerint kézhez vett biztonsági kérdőívek beérkezését követően az (5) bekezdésben megjelölt személyek nemzetbiztonsági ellenőrzését egyszerre kezdeményezi a nemzetbiztonsági szolgálatnál.
 
-[^35]: A 10/B. § (6) bekezdése a 418/2016. (XII. 14.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^36]: A 10/B. § (6) bekezdése a 418/2016. (XII. 14.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.

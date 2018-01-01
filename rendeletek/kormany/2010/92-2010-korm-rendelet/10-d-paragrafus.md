@@ -8,7 +8,7 @@ c) a biztonsági vezető biztosítja és elősegíti, hogy a telephely biztonsá
 
 d) a biztonsági vezető minden év június 30-áig az ismételten kitöltött Cég-adatlapot eljuttatja az NBF részére.
 
-(2) A gazdálkodó szervezet biztonsági vezetője a változás beálltát követő 5 napon belül bejelenti az NBF-nek, amennyiben az iparbiztonsági ellenőrzés folyamán vagy a telephely biztonsági tanúsítvány érvényessége alatt a Cég-adatlap tartalmában vagy a személyi biztonsági tanúsítvánnyal rendelkező, 10/B. § (5) bekezdése szerinti személyek körében változás áll be, a gazdálkodó szervezet ellen csőd-, felszámolási vagy végelszámolási eljárás indul, vagy a Gazdasági Versenyhivatal jogerős elmarasztaló határozatot hoz.
+(2)[^37] A gazdálkodó szervezet biztonsági vezetője a változás beálltát követő 5 napon belül bejelenti az NBF-nek, amennyiben az iparbiztonsági ellenőrzés folyamán vagy a telephely biztonsági tanúsítvány érvényessége alatt a Cég-adatlap tartalmában vagy a személyi biztonsági tanúsítvánnyal rendelkező, 10/B. § (5) bekezdése szerinti személyek körében változás áll be, a gazdálkodó szervezet ellen csőd-, felszámolási vagy végelszámolási eljárás indul, vagy a Gazdasági Versenyhivatal végleges elmarasztaló határozatot hoz.
 
 (3) Az NBF – ha a bejelentés, vagy egyéb módon a tudomására jutó információ indokolttá teszi – intézkedik a gazdálkodó szervezet újbóli cégellenőrzésének végrehajtására a nemzetbiztonsági szolgálat felé.
 
@@ -38,4 +38,7 @@ c) ha a cégellenőrzésről készült szakvélemény kockázati tényezőt tart
 
 d) ha a (2) bekezdés szerinti bejelentési kötelezettségének a gazdálkodó szervezet biztonsági vezetője nem tesz eleget.
 
-(9) Amennyiben a telephely biztonsági tanúsítvány visszavonására a (8) bekezdésben foglaltak miatt kerül sor, a gazdálkodó szervezet a visszavonásról szóló határozat jogerőre emelkedésétől számított 2 éven belül nem kérelmezheti újabb iparbiztonsági ellenőrzés végrehajtását a 10/A. § (1) bekezdése szerint.
+(9)[^38] Amennyiben a telephely biztonsági tanúsítvány visszavonására a (8) bekezdésben foglaltak miatt kerül sor, a gazdálkodó szervezet a visszavonásról szóló határozat véglegessé válásától számított 2 éven belül nem kérelmezheti újabb iparbiztonsági ellenőrzés végrehajtását a 10/A. § (1) bekezdése szerint.
+
+[^37]: A 10/D. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 291. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^38]: A 10/D. § (9) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 291. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

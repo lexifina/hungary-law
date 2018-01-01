@@ -28,11 +28,11 @@ e) a biztonsági vezető minden év augusztus 31-ig az ismételten kitöltött C
 
 (3)[^27] Az iparbiztonsági ellenőrzés folyamán vagy a telephely biztonsági tanúsítvány, valamint az egyszerűsített telephely biztonsági tanúsítvány érvényessége alatt
 
-a) a biztonsági vezető adatszolgáltatást teljesít a változás beálltát követő 5 napon belül az NBF-nek, ha a Cég-adatlap tartalmában vagy a személyi biztonsági tanúsítvánnyal rendelkező személyek körében változás áll be, a gazdálkodó szervezet ellen csőd-, felszámolási vagy végelszámolási eljárás indul, vagy a Gazdasági Versenyhivatal jogerős elmarasztaló határozatot hoz,
+a)[^28] a biztonsági vezető adatszolgáltatást teljesít a változás beálltát követő 5 napon belül az NBF-nek, ha a Cég-adatlap tartalmában vagy a személyi biztonsági tanúsítvánnyal rendelkező személyek körében változás áll be, a gazdálkodó szervezet ellen csőd-, felszámolási vagy végelszámolási eljárás indul, vagy a Gazdasági Versenyhivatal végleges elmarasztaló határozatot hoz,
 
 b) az NBF – ha az a) pont szerinti adatszolgáltatás, vagy egyéb módon a tudomására jutó információ indokolttá teszi – a gazdálkodó szervezet előzetes értesítése nélkül intézkedik a gazdálkodó szervezet újbóli cégellenőrzésének végrehajtására a nemzetbiztonsági szolgálat felé.
 
-(4)[^28] A (3) bekezdés a) pontja szerinti adatszolgáltatás elektronikus formában is teljesíthető.
+(4)[^29] A (3) bekezdés a) pontja szerinti adatszolgáltatás elektronikus formában is teljesíthető.
 
 [^22]: A 7. § (1) bekezdés nyitó szövegrésze a 441/2016. (XII. 16.) Korm. rendelet 40. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^23]: A 7. § (1) bekezdés e) pontja a 441/2016. (XII. 16.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
@@ -40,4 +40,5 @@ b) az NBF – ha az a) pont szerinti adatszolgáltatás, vagy egyéb módon a tu
 [^25]: A 7. § (1) bekezdés g) pontja a 441/2016. (XII. 16.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
 [^26]: A 7. § (2) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
 [^27]: A 7. § (3) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
-[^28]: A 7. § (4) bekezdését a 118/2017. (V. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^28]: A 7. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 291. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^29]: A 7. § (4) bekezdését a 118/2017. (V. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
