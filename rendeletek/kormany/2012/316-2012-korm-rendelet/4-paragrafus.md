@@ -40,7 +40,9 @@ d) felterjeszti a főigazgatónak – javaslatával együtt – a (3) bekezdés 
 
 e) szervezi, irányítja és ellenőrzi a fenntartott intézmények szakmai feladatainak végrehajtásához szükséges pénzügyi feltételeket,
 
-f) összegyűjti, ellenőrzi a fenntartott intézmények gazdálkodására vonatkozó kötelező, rendszeres és ad hoc jellegű adatszolgáltatásokat, szükség szerint összesítve továbbítja azokat a Főigazgatóság központi szervéhez és a miniszter által vezetett minisztériumba.
+f) összegyűjti, ellenőrzi a fenntartott intézmények gazdálkodására vonatkozó kötelező, rendszeres és ad hoc jellegű adatszolgáltatásokat, szükség szerint összesítve továbbítja azokat a Főigazgatóság központi szervéhez és a miniszter által vezetett minisztériumba,
+
+g)[^9] az utógondozói ellátásban részesülő fiatal felnőtt kérelmére dönt az utógondozói ellátás meghosszabbításáról, valamint a meghosszabbított utógondozói ellátás megszüntetéséről.
 
 (5) A kirendeltség feladatainak ellátása során a főigazgató egyetértése szükséges az intézményi térítési díj összegének meghatározásához.
 
@@ -48,3 +50,4 @@ f) összegyűjti, ellenőrzi a fenntartott intézmények gazdálkodására vonat
 [^6]: A 4. § (1) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 65. §-ával megállapított szöveg.
 [^7]: A 4. § (1) bekezdés b) pontja a 448/2013. (XI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^8]: A 4. § (3) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 211. § (4) bekezdése szerint módosított szöveg.
+[^9]: A 4. (4) bekezdés g) pontját a 384/2017. (XII. 12.) Korm. rendelet 9. §-a iktatta be.
