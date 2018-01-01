@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-160-20-
 | 2014-01-01 | 1995-160-20-22.9 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2016-10-01 | 1995-160-20-22.10 | 289/2016. (IX. 22.) Korm. rendelet |
 | 2017-07-25 | 1995-160-20-22.11 | 195/2017. (VII. 10.) Korm. rendelet |
+| 2018-01-01 | 1995-160-20-22.12 | 393/2017. (XII. 13.) Korm. rendelet |

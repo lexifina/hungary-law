@@ -1,4 +1,4 @@
-16/E. §[^33] (1) A vízitársulat küldöttgyűlése előzetesen elkészített vagyonmérleg alapján elhatározhatja a vízitársulat-szétválást több vízitársulatra. Szétválás esetén a szétváló vízitársulat megszűnik, és vagyona a szétválással létrejövő vízitársulatokra mint jogutódokra száll át. A vízitársulat jogai és kötelezettségei a jogutód vízitársulatokra szállnak át.
+16/E. §[^35] (1) A vízitársulat küldöttgyűlése előzetesen elkészített vagyonmérleg alapján elhatározhatja a vízitársulat-szétválást több vízitársulatra. Szétválás esetén a szétváló vízitársulat megszűnik, és vagyona a szétválással létrejövő vízitársulatokra mint jogutódokra száll át. A vízitársulat jogai és kötelezettségei a jogutód vízitársulatokra szállnak át.
 
 (2) A szétválás tervezetét a tisztségviselők készítik el. Ebben meg kell határozni
 
@@ -18,4 +18,4 @@ g) mindazt, amit a szétváló vízitársulat küldöttgyűlése szükségesnek 
 
 (3) A vezető tisztségviselők a szétváló vízitársulat és a szétválás utáni valamennyi jogutód tekintetében elkészítik a vagyonmérleg- és vagyonleltár-tervezeteket.
 
-[^33]: A 16/E. §-t a 289/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
+[^35]: A 16/E. §-t a 289/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.

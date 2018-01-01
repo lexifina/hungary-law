@@ -1,4 +1,4 @@
-## 6/D. §[^18] A vízitársulatra, valamint a vízitársulat tagjaira, vezető tisztségviselőire vonatkozó, a cégnyilvántartás részét képező jogok, tények és adatok nyilvánosak.
+## 6/D. §[^19] A vízitársulatra, valamint a vízitársulat tagjaira, vezető tisztségviselőire vonatkozó, a cégnyilvántartás részét képező jogok, tények és adatok nyilvánosak.
 
 ## A társulat szervezete és működése
 
@@ -26,7 +26,7 @@ h) az éves beszámoló, illetőleg egyszerűsített éves beszámoló jóváhag
 
 i) az egyesülési törvény szerinti érdekképviseleti szervezetben való tagság elhatározása;
 
-j)[^19]
+j)[^20]
 
 k) amit jogszabály vagy az alapszabály a taggyűlés hatáskörébe utal.
 
@@ -36,7 +36,7 @@ a) az intéző- vagy az ellenőrző bizottság tagjainak száma az alapszabályb
 
 b) az intézőbizottság vagy annak elnöke szükségesnek tartja; illetve
 
-c)[^20] a tagok 10%-a azt az ok megjelölésével kéri; illetőleg
+c)[^21] a tagok 10%-a azt az ok megjelölésével kéri; illetőleg
 
 d) az ellenőrző bizottság vagy a cégbíróság indítványozza.
 
@@ -46,6 +46,6 @@ d) az ellenőrző bizottság vagy a cégbíróság indítványozza.
 
 (7) A taggyűlésre tanácskozási joggal meg kell hívni a társulat ügyvezetőjét, az ellenőrző bizottság elnökét, továbbá a 2. § (2) bekezdése szerinti szerveket, valamint azt, akinek a meghívását az alapszabály előírja.
 
-[^18]: A 6/D. §-t a 289/2016. (IX. 22.) Korm. rendelet 6. §-a iktatta be.
-[^19]: A 7. § (3) bekezdés j) pontját a 195/2017. (VII. 10.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^20]: A 7. § (4) bekezdés c) pontja a 195/2017. (VII. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^19]: A 6/D. §-t a 289/2016. (IX. 22.) Korm. rendelet 6. §-a iktatta be.
+[^20]: A 7. § (3) bekezdés j) pontját a 195/2017. (VII. 10.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^21]: A 7. § (4) bekezdés c) pontja a 195/2017. (VII. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.

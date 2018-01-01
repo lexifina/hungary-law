@@ -1,6 +1,6 @@
-## 16/I. §[^37] A vízitársulat más gazdálkodó szervezetté nem alakulhat át.
+## 16/I. §[^39] A vízitársulat más gazdálkodó szervezetté nem alakulhat át.
 
-16/J. §[^38] (1) A vízitársulat jogutód nélkül megszűnik, ha
+16/J. §[^40] (1) A vízitársulat jogutód nélkül megszűnik, ha
 
 a) elhatározza a jogutód nélküli megszűnését (feloszlását);
 
@@ -10,5 +10,5 @@ c) a cégbíróság hivatalból elrendeli a törlését.
 
 (2) A vízitársulat megszűnését követően az új vízitársulat megalakulásig a vízitársulat elkülönített vagyonát a társulati mű fekvése szerinti vízügyi igazgatási szerv felelős őrzésbe veszi át, és gondoskodik a vízitársulati művek működtetéséről. A vízügyi igazgatási szerv a megszűnt vízitársulat működési területén megalakuló új vízitársulat részére az elkülönített vagyont térítésmentesen, területarányosan adja át a közfeladat ellátási kötelezettségével.
 
-[^37]: A 16/I. §-t a 289/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
-[^38]: A 16/J. §-t a 289/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
+[^39]: A 16/I. §-t a 289/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
+[^40]: A 16/J. §-t a 289/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
