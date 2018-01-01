@@ -4,9 +4,9 @@ a) a minősített kamarai tag könyvvizsgáló, könyvvizsgáló cég azt kéri,
 
 b) a minősítés előírt feltételei a továbbiakban már nem állnak fenn,
 
-c) minőségellenőrzés során hozott jogerős határozatban a minősítést megvonták,
+c) minőségellenőrzés során hozott véglegessé vált határozatban a minősítést megvonták,
 
-d) kamarai minőség-ellenőrzés során hozott jogerős határozatban a minősítés megvonását kezdeményezték,
+d) kamarai minőség-ellenőrzés során hozott véglegessé vált határozatban a minősítés megvonását kezdeményezték,
 
 e) fegyelmi eljárás során keretében a minősítés megvonását kezdeményezték,
 

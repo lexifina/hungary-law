@@ -4,8 +4,8 @@
 
 (3) A kamara az (1) és (2) bekezdés alapján megismert személyes adatokat
 
-a) a könyvvizsgálójelöltek névjegyzékébe való felvétel iránti eljárás jogerős befejezéséig, vagy
+a) a könyvvizsgálójelöltek névjegyzékébe való felvétel iránti eljárás végleges befejezéséig, vagy
 
-b) a könyvvizsgálójelöltek névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
+b) a könyvvizsgálójelöltek névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás végleges befejezéséig
 
 kezeli.

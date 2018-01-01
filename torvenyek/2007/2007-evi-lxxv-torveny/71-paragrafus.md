@@ -20,4 +20,4 @@ c) a harmadik országbeli könyvvizsgáló gazdálkodó továbbiakban már nem f
 
 d) a harmadik országbeli könyvvizsgáló gazdálkodó megszűnt.
 
-(3) Az engedély visszavonásáról szóló (2) bekezdés szerinti jogerős döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát
+(3) Az engedély visszavonásáról szóló (2) bekezdés szerinti véglegessé vált döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát

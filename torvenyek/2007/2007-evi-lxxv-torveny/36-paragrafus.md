@@ -2,9 +2,9 @@
 
 a) amelynek létesítő okiratában a tevékenységi körök között a könyvvizsgálói tevékenységgel összeegyeztethetetlen tevékenység szerepel,
 
-b) amelynek engedélyét visszavonták az erről szóló határozat jogerőre emelkedésétől a határozatban szereplő időtartamig,
+b) amelynek engedélyét visszavonták az erről szóló határozat véglegessé válásától a határozatban szereplő időtartamig,
 
-c) amelynek engedélye – saját kérésére – megszűnt, az erről szóló határozat jogerőre emelkedésétől számított egy évig,
+c) amelynek engedélye – saját kérésére – megszűnt, az erről szóló határozat véglegessé válásától számított egy évig,
 
 d) amelyre vonatkozóan felszámolási eljárás vagy végelszámolási eljárás van folyamatban,
 

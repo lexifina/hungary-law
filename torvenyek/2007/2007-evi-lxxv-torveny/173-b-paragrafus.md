@@ -6,6 +6,8 @@
 
 (3) A minőségellenőrzést a közfelügyeleti hatóság folytatja le. A minőségellenőrzés azt az időszakot fedi le, amely időszakban a kamarai tag könyvvizsgáló, könyvvizsgáló cég rendelkezett közérdeklődésre számot tartó gazdálkodóval megkötött jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására irányuló megbízással.
 
+(3a) A közfelügyeleti hatóság a minőségellenőrzéseket éves minőségellenőrzési terv alapján végzi, amelyet legkésőbb a tárgyév március 31-ig nyilvánosságra hoz a kormányzati portálon
+
 (4) Rendkívüli minőségellenőrzést kell lefolytatni, ha azt
 
 a) a kamara fegyelmi megbízottja, fegyelmi bizottsága, szakértői bizottsága kezdeményezi,
@@ -36,6 +38,22 @@ g) az ellenőr nem áll könyvvizsgálóval vagy könyvvizsgáló céggel tulajd
 
 (8) A közfelügyeleti hatóság az ellenőrzés lefolytatása érdekében előzetesen adatokat, információkat, iratokat kérhet be.
 
+(8a) A közfelügyeleti hatóság az ellenőrzésre kiválasztott részére a helyszíni ellenőrzés előtt 8 nappal értesítést küld. Az értesítés kiküldése előtt a közfelügyeleti hatóság előzetesen egyeztet az ellenőrzöttel az ellenőrzés helyszínéről és időpontjáról.
+
+(8b) A (8a) szerinti értesítésnek tartalmaznia kell:
+
+a) az ügy tárgyát, iktatási számát, az eljárás megindításának napját és az adott ügyfajtára irányadó ügyintézési határidőt, az ügyintéző nevét és hivatali elérhetőségét,
+
+b) tájékoztatást az iratokba való betekintés és a nyilatkozattétel lehetőségéről,
+
+c) hivatalból indult eljárásban az erre történő utalást, kérelemre indult eljárásban a kérelmező nevét,
+
+d) a könyvvizsgáló, a könyvvizsgáló cég nevét, nyilvántartási számát, az eljárás lefolytatására kijelölt ellenőr és közreműködő azonosítási adatait,
+
+e) a minőségellenőrzés alá vont megbízások megnevezését és a vizsgált időszakot, könyvvizsgáló cég esetén azt is, hogy a minőségellenőrzés a belső minőségellenőrzési rendszer értékelésére terjed ki, amelynek során az egyes megbízások minőségellenőrzésének eredményét is figyelembe kell venni,
+
+f) az ellenőrzés dátumát és helyszínét.
+
 (9) Az ellenőr az ellenőrzést a közfelügyeleti hatóság vezetője vagy az általa kijelölt személy által kiadott megbízólevél birtokában folytathatja le. A megbízólevél tartalmazza az ellenőr nevét, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég azonosító adatait, valamint azt, hogy mely időszak tekintetében kell az ellenőrzést lefolytatni.
 
 (10) Az ellenőr az ellenőrzés alá vont kamarai tag könyvvizsgálótól, könyvvizsgáló cégtől minden olyan iratot, adatot, információt, nyilatkozatot megkérhet, az ellenőrzés alá vont minden olyan munkafolyamatát megvizsgálhatja, amely az ellenőrzés lefolytatásához szükséges. Az ellenőr az ellenőrzés során jogosult az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég helyiségeibe belépni, iratairól, adathordozóiról, nyilvántartásairól másolatot készíteni, illetve készíttetni.
@@ -44,8 +62,10 @@ g) az ellenőr nem áll könyvvizsgálóval vagy könyvvizsgáló céggel tulajd
 
 (12) Az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég az ellenőrzés során köteles az ellenőrrel együttműködni, a helyszíni ellenőrzés feltételeit biztosítani.
 
-(13) A Rendelet 21. cikke alapján, ha a közfelügyeleti hatóság úgy ítéli meg, hogy az adott minőségellenőrzés lebonyolításához szükséges, közreműködőként a (6) bekezdés e) pontjában foglaltaknak megfelelő kamarai minőségellenőrök, valamint az adott minőségellenőrzéshez szükséges speciális szaktudással rendelkező személyek is bevonhatók. A minőségellenőrzésben közreműködőként részt vevő kamarai minőségellenőrök és más személyek a minőségellenőrzés során önálló írásos véleményt nem készítenek, döntéshozatalban nem vesznek részt.
+(13) A Rendelet 21. cikke alapján, ha a közfelügyeleti hatóság úgy ítéli meg, hogy az adott minőségellenőrzés lebonyolításához szükséges, közreműködőként a (6) bekezdés e) pontjában foglaltaknak megfelelő kamarai minőségellenőrök, valamint az adott minőségellenőrzéshez szükséges speciális szaktudással rendelkező személyek is bevonhatók. A minőségellenőrzésben közreműködőként részt vevő kamarai minőségellenőrök és más személyek a minőségellenőrzés során önálló írásos véleményt nem készítenek, döntéshozatalban nem vesznek részt. A közreműködőnek a helyszíni ellenőrzés megkezdése előtt titoktartási nyilatkozatot kell adnia az ellenőrzöttnek.
+
+(13a) Az ellenőrnek, a közreműködőnek és az ellenőrzöttnek a helyszíni ellenőrzés megkezdése előtt nyilatkozatot kell tennie a függetlenségi és összeférhetetlenségi követelményeknek való megfelelésről.
 
 (14) A kamara a minőségellenőrzés lefolytatásához szükséges dokumentumokat, nyilvántartásokat a közfelügyeleti hatóság kérelmére tizenöt napon belül átadja a közfelügyeleti hatóságnak.
 
-(15) Minőségellenőrzés és rendkívüli minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 60 nap. A közfelügyeleti hatóság az ügyintézési határidőt indokolt esetben egy alkalommal, legfeljebb 21 nappal meghosszabbíthatja, amelyről az ügyfelet értesíteni kell.
+(15) Minőségellenőrzés és rendkívüli minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 60 nap.

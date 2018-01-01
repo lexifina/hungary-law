@@ -8,7 +8,7 @@
 
 (5) A közfelügyeleti hatóság a záró jelentés és a (4) bekezdés szerinti észrevétel alapján határozatot hoz a minőségellenőrzés eredményének minősítéséről, az ellenőrzés alá vont részére a minősítés alapján előírt kötelezettségekről, valamint az indokolt intézkedés alkalmazásáról.
 
-(6) A minőségellenőrzés során hozott jogerős határozatban foglalt kötelezettségeket az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során teljesítenie kell.
+(6) A minőségellenőrzés során hozott véglegessé vált határozatban foglalt kötelezettségeket az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során teljesítenie kell.
 
 (7) A minőségellenőrzéssel összefüggésben a következő intézkedések alkalmazhatók:
 
@@ -48,12 +48,12 @@ f) a könyvvizsgáló cég vagy kamarai tag könyvvizsgáló által elkövetett 
 
 (9) A közfelügyeleti hatóság a közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó könyvvizsgálók, könyvvizsgáló cégek nem megfelelt eredménnyel zárult minőségellenőrzése esetén annak tényéről és az alkalmazott intézkedésekről értesíti a kamarát, a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.
 
-(10) Amennyiben a közfelügyeleti hatóság a (7) bekezdés d) pontjában foglalt intézkedést alkalmazza, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég az (5) bekezdés szerinti jogerős határozat kézhezvételétől számított kilencven napon belül értesíti a közfelügyeleti hatóságot az ismételten elvégzett könyvvizsgálat eredményéről. Amennyiben a könyvvizsgálat ismételt elvégzése alapján megállapítható, hogy az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég által korábban kibocsátott könyvvizsgálói jelentés nem megfelelő, a kamarai tag könyvvizsgáló, könyvvizsgáló cég köteles azt visszavonni, és új könyvvizsgálói jelentést kibocsátani.
+(10) Amennyiben a közfelügyeleti hatóság a (7) bekezdés d) pontjában foglalt intézkedést alkalmazza, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég az (5) bekezdés szerinti véglegessé vált határozat kézhezvételétől számított kilencven napon belül értesíti a közfelügyeleti hatóságot az ismételten elvégzett könyvvizsgálat eredményéről. Amennyiben a könyvvizsgálat ismételt elvégzése alapján megállapítható, hogy az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég által korábban kibocsátott könyvvizsgálói jelentés nem megfelelő, a kamarai tag könyvvizsgáló, könyvvizsgáló cég köteles azt visszavonni, és új könyvvizsgálói jelentést kibocsátani.
 
 (11) Amennyiben a könyvvizsgálat (10) bekezdés szerinti ismételt elvégzésére 90 napon belül nem kerül sor, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég köteles a kibocsátott könyvvizsgálói jelentést visszavonni.
 
 (12) A közfelügyeleti hatóság a jogszabályi kötelezettségen alapuló könyvvizsgálói szolgáltatást igénybe vevők vagy a tőkepiacról szóló 2001. évi CXX. törvény szerinti befektetők érdekét veszélyeztető helyzet észlelése esetén a közfelügyeleti hatóság intézkedéseiről tájékoztathatja a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.
 
-(13) A kamarai tag könyvvizsgáló, könyvvizsgáló cég belső minőségbiztosítási rendszerének minőségellenőrzése során a közfelügyeleti hatóság által hozott jogerős határozatban foglaltakat a határozat közlésétől számított 12 hónapon belül végrehajtja. A végrehajtást a közfelügyeleti hatóság vizsgálhatja.
+(13) A kamarai tag könyvvizsgáló, könyvvizsgáló cég belső minőségbiztosítási rendszerének minőségellenőrzése során a közfelügyeleti hatóság által hozott végleges határozatban foglaltakat a határozat közlésétől számított 12 hónapon belül végrehajtja. A végrehajtást a közfelügyeleti hatóság ellenőrizheti.
 
 (14) Ha a közfelügyeleti hatóság megállapítja, hogy az ellenőrzött kamarai tag könyvvizsgáló, könyvvizsgáló cég a könyvvizsgálói tevékenységét a (13) bekezdésben foglalt kötelezettségek teljesítése nélkül végezte, a (7) bekezdés szerinti intézkedések alkalmazhatók.

@@ -1,1 +1,1 @@
-9/A. § A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek minőségellenőrzése esetében hozott döntés ellen a kamarai tag könyvvizsgáló, könyvvizsgáló cég – jogszabály megsértésére való hivatkozással – a határozat közlésétől számított 30 napon belül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint bírósághoz fordulhat.
+9/A. §

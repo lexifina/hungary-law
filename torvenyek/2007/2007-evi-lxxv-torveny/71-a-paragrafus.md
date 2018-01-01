@@ -14,7 +14,7 @@ d) az előírt igazgatási szolgáltatási díjat megfizette.
 
 a) a harmadik országbeli könyvvizsgáló gazdálkodó azt kéri,
 
-b) a közfelügyeleti hatóság a harmadik országbeli könyvvizsgáló gazdálkodó 68. § (1) bekezdés szerinti engedélyét jogerősen visszavonta,
+b) a közfelügyeleti hatóság a harmadik országbeli könyvvizsgáló gazdálkodó 68. § (1) bekezdés szerinti engedélyét véglegesen visszavonta,
 
 c) a harmadik országbeli könyvvizsgáló gazdálkodó a továbbiakban már nem felel meg a (2) bekezdésben foglalt követelményeknek,
 

@@ -18,4 +18,4 @@ c) a könyvvizsgáló a továbbiakban már nem felel meg az (1) bekezdésben fog
 
 d) a könyvvizsgáló elhalálozott.
 
-(3) Az engedély visszavonásáról szóló, (2) bekezdés szerinti jogerős döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát.
+(3) Az engedély visszavonásáról szóló, (2) bekezdés szerinti véglegessé vált döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát.

@@ -14,9 +14,9 @@ c) aki az okleveles könyvvizsgálói szakképesítéshez kötött tevékenység
 
 d) aki cselekvőképességében részlegesen korlátozott vagy cselekvőképtelen,
 
-e) akit a kamarából fegyelmi eljárás keretében kizártak, az erről szóló határozat jogerőre emelkedésétől számított három évig,
+e) akit a kamarából fegyelmi eljárás keretében kizártak, az erről szóló határozat véglegessé válásától számított három évig,
 
-f) akit a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától meghatározott ideig eltiltott, az erről szóló határozat jogerőre emelkedésétől a határozatban szereplő időtartamig,
+f) akit a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától meghatározott ideig eltiltott, az erről szóló határozat véglegessé válásától a határozatban szereplő időtartamig,
 
 g) aki az életmódja vagy magatartása miatt a könyvvizsgálói hivatás gyakorlásához szükséges közbizalomra érdemtelen,
 

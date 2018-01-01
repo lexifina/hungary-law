@@ -12,9 +12,9 @@ b) amennyiben a döntés meghozatalához nincs elég adat vagy a tényállás to
 
 (4) A (3) bekezdés alapján hozott határozatot az elnökség nevében a kamara elnöke 10 munkanapon belül kézbesítteti a fegyelmi bizottságnak és az eljárás alá vontnak.
 
-(5) A (3) bekezdés szerinti fegyelmi büntetést, figyelmeztetést tartalmazó elnökségi döntés ellen – a kézbesítéstől számított 30 napon belül – a kamarai tag könyvvizsgáló, a könyvvizsgáló cég a közigazgatási perekre (Polgári perrendtartásról szóló törvény XX. fejezet) irányadó szabályok szerint bírósághoz fordulhat.
+(5)
 
-(6) Ha a 177. § (1) bekezdésének e) pontjában foglalt fegyelmi büntetés ellen az eljárás alá vont az (5) bekezdés szerint bírósághoz fordult, a bíróság jogerős ítéletéig a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem nyújthat szakmai szolgáltatást, továbbá a kamarai tag könyvvizsgáló jogai és kötelezettségei a szüneteltetésre vonatkozó rendelkezések szerint alakulnak.
+(6) Ha a 177. § (1) bekezdés e) pontjában foglalt fegyelmi büntetés ellen az eljárás alá vont bírósághoz fordult, a kamarai tag könyvvizsgáló jogai és kötelezettségei a szüneteltetésre vonatkozó rendelkezések szerint alakulnak.
 
 (7) Az érintett állami szerv kezdeményezése alapján elrendelt fegyelmi eljárást lezáró jogerős fegyelmi határozatot tájékoztatásul kézbesíteni kell az érintett állami szerv részére. Az érintett állami szerv a tájékoztatásul megkapott határozatot nem hozhatja harmadik személyek tudomására és nem teheti közzé.
 

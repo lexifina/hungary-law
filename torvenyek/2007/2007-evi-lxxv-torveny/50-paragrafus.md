@@ -2,7 +2,7 @@
 
 (1a) A 49. § szerinti minősítés iránti kérelmet az 1., illetve 2. melléklet szerinti adattartalommal kell a közfelügyeleti hatósághoz benyújtani.
 
-(1b) A közfelügyeleti hatóság a 49. § szerinti minősítés iránti kérelem beérkezésétől számított 15 napon belül – határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel az ügyfelet, amennyiben a kérelem nem felel meg az e törvény szerinti követelményeknek.
+(1b) A közfelügyeleti hatóság a 49. § szerinti minősítés iránti kérelem beérkezésétől számított 15 napon belül – határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel az ügyfelet, amennyiben a kérelem nem felel meg az e törvény szerinti követelményeknek. Amennyiben a tényállás során felmerült új adatra tekintettel szükséges, a közfelügyeleti hatóság – határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – ismételten hiánypótlásra hívja fel az ügyfelet.
 
 (1c) A 49. § szerinti minősítés iránti kérelem tárgyában a közfelügyeleti hatóság a kérelem beérkezésétől számított 60 napon belül dönt.
 
@@ -13,6 +13,18 @@ a) legalább három éven vagy három üzleti éven át a minősítésnek megfel
 b) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett és a kérelmezett minősítéssel egyező minősítéssel rendelkező minősítésű kamarai tag könyvvizsgáló mellett legalább két évig vagy két üzleti éven át közreműködött olyan gazdálkodó tekintetében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, amelyre vonatkozóan jogszabály a kérelmezett minősítés meglétét előírja, vagy
 
 c) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett – vagy IFRS minősítés esetén legalább három éven vagy három üzleti éven át közreműködött kamarai tag könyvvizsgáló mellett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában – és sikeresen teljesítette a kérelmezett minősítésre előírt szakmai minősítő vizsgát.
+
+(2a) A kamarai tag könyvvizsgáló a Hpt. 8. § (4) bekezdése szerinti hitelintézetnél (a továbbiakban: bank) pénzügyi intézményi minősítés birtokában is csak akkor végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha rendelkezik a közfelügyeleti hatóság által elismert, a feltételek teljesülésének igazolása iránti kérelem benyújtását megelőző 5 éven belüli
+
+a) a (2) bekezdés a) pontja szerinti banknál végzett számviteli, ellenőrzési gyakorlattal,
+
+b) legalább egy üzleti évre kiterjedően banknál végzett 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói gyakorlattal, vagy
+
+c) a (2) bekezdés b) pontja szerint a pénzügyi intézményi minősítésű kamarai tag könyvvizsgáló mellett legalább két évig banknál végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában való közreműködéssel.
+
+(2b) Könyvvizsgáló cég banknál pénzügyi intézményi minősítés birtokában is csak akkor végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha van legalább egy olyan kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez, és megfelel a (2a) bekezdésben foglalt feltételeknek.
+
+(2c) A (2a) és (2b) bekezdés szerinti feltételek teljesülésének elismeréséről a közfelügyeleti hatóság értesíti a kamarát. A feltételek teljesülésének elismerését a kamara rögzíti a kamarai nyilvántartásokban, és közzéteszi a honlapján.
 
 (3) Kérelem alapján minősítést a könyvvizsgáló cég akkor kaphat, ha megfelel az alábbi feltételeknek:
 
