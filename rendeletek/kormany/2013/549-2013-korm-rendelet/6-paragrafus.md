@@ -24,7 +24,7 @@ h)[^42] a 2007–2013 programozási időszakban az Európai Regionális Fejleszt
 
 (2)[^45] Az előirányzatoknak az (1) bekezdés b)–e) pontja szerinti felhasználásáról a fejezetet irányító szerv vezetője dönt. Ha az előirányzat-felhasználás összege az (1) bekezdés b) és c) pontja szerinti esetekben projektenként eléri az 50 millió forintot, azok felhasználásához az államháztartásért felelős miniszter jóváhagyása szükséges.
 
-(3) Ha az (1) bekezdés szerinti kifizetések az európai uniós támogatás terhére elszámolhatóvá válnak, a teljesített kifizetésekre jutó bevételeket azokra a költségvetési előirányzatokra kell teljesíteni, amelyekről a kifizetések teljesültek.
+(3)[^46] Ha az (1) bekezdés szerinti kifizetések az európai uniós támogatás terhére elszámolhatóvá válnak, a teljesített kifizetésekre jutó bevételek a központi költségvetés közvetlen bevételét képezik.
 
 [^36]: A 6. § (1) bekezdés a) pontját a 427/2017. (XII. 19.) Korm. rendelet 11. § 1. pontja hatályon kívül helyezte.
 [^37]: A 6. § (1) bekezdés b) pontja a 401/2016. (XII. 5.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
@@ -36,3 +36,4 @@ h)[^42] a 2007–2013 programozási időszakban az Európai Regionális Fejleszt
 [^43]: A 6. § (1a) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 3. §-a iktatta be, szövege a 427/2017. (XII. 19.) Korm. rendelet 10. § 10. pontja szerint módosított szöveg.
 [^44]: A 6. § (1b) bekezdését a 427/2017. (XII. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^45]: A 6. § (2) bekezdése a 287/2015. (X. 6.) Korm. rendelet 31. § 2. pontja, a 427/2017. (XII. 19.) Korm. rendelet 10. § 11. pontja szerint módosított szöveg.
+[^46]: A 6. § (3) bekezdése a 427/2017. (XII. 19.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
