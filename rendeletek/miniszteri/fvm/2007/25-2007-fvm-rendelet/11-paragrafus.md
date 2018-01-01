@@ -1,5 +1,0 @@
-## Záró rendelkezések
-
-11. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
-
-(2) E rendelet hatálybalépésével egy időben a Nemzeti Vidékfejlesztési Terv alapján a központi költségvetés, valamint az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlege társfinanszírozásában megvalósuló kedvezőtlen adottságú területek kompenzációs támogatása igénybevételének részletes szabályairól szóló 151/2004. (X. 13.) FVM rendelet (a továbbiakban: KAT R.) hatályát veszti azzal, hogy a KAT R. alapján hozott öt éves támogatási jogosultságról szóló határozatot az MVH hivatalból indított eljárása során – figyelemmel az 1698/2005/EK tanácsi rendeletben előírt vidékfejlesztési támogatásra történő átmeneti szabályainak megállapításáról szóló 1320/2006/EK bizottsági rendeletben foglaltakra – határozattal egy éves időtartamra kiterjedő pénzügyi kötelezettségvállalásra módosítja. A KAT R. alapján beadott támogatási kérelmekkel kapcsolatban az MVH az 1320/2006/EK bizottsági rendelet rendelkezéseire tekintettel jár el.
