@@ -212,6 +212,6 @@
 
 | 17 | Intézkedési javaslat: |  |
 
-9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^161]
+9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^162]
 
-[^161]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 129/2014. (IV. 10.) Korm. rendelet 10. § b) pontjával megállapított, a Magyar Közlöny 2014. évi 54. számában megjelent helyesbítésnek megfelelő, a 383/2015. (XII. 8.) Korm. rendelet 15. § f), u) és v) pontja szerint módosított szöveg. A 15. § f) pontjában szereplő további módosítás – mely szerint a 9. melléklet „B) UTÓLAGOS HELYSZÍNI VIZSGÁLAT JEGYZŐKÖNYVE” alcímében a „területileg illetékes” szövegrész helyébe az „illetékes” szöveg lép – nem vezethető át.
+[^162]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 129/2014. (IV. 10.) Korm. rendelet 10. § b) pontjával megállapított, a Magyar Közlöny 2014. évi 54. számában megjelent helyesbítésnek megfelelő, a 383/2015. (XII. 8.) Korm. rendelet 15. § f), u) és v) pontja szerint módosított szöveg. A 15. § f) pontjában szereplő további módosítás – mely szerint a 9. melléklet „B) UTÓLAGOS HELYSZÍNI VIZSGÁLAT JEGYZŐKÖNYVE” alcímében a „területileg illetékes” szövegrész helyébe az „illetékes” szöveg lép – nem vezethető át.

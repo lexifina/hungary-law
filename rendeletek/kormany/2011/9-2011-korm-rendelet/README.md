@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-9-20-22
 | 2017-01-01 | 2011-9-20-22.16 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2017-04-01 | 2011-9-20-22.17 | 92/2013. (III. 28.) Korm. rendelet |
 | 2017-07-01 | 2011-9-20-22.18 | 92/2013. (III. 28.) Korm. rendelet |
+| 2018-01-01 | 2011-9-20-22.19 | 457/2017. (XII. 28.) Korm. rendelet |

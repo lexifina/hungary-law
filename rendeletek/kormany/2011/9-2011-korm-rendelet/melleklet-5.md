@@ -28,7 +28,7 @@
 
 | E-mail: |  |
 
-5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^157]
+5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^158]
 
 Igénylésazonosító:
 
@@ -172,4 +172,4 @@ P. H.
 
 | polgármester/elnök | jegyző |
 
-[^157]: Az 5. melléklet a 383/2015. (XII. 8.) Korm. rendelet második 15. § a) pontjával megállapított szöveg.
+[^158]: Az 5. melléklet a 383/2015. (XII. 8.) Korm. rendelet második 15. § a) pontjával megállapított szöveg.

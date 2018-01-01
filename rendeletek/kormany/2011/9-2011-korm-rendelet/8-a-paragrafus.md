@@ -2,7 +2,7 @@
 
 (2)[^140] A kincstár a támogatás elszámolásának benyújtására vonatkozó határidő lejártát megelőző 30 napon belül felszólítja a Támogatottat az elszámolás határidőben történő benyújtására. A határidőben benyújtott és tartalmilag hiányos elszámolás hiányosságainak pótlására a kincstár a támogatás elszámolásának benyújtását vagy helyreállítás esetében a helyszíni ellenőrzést végző bizottság értesítését követő 10 napon belül – határidő kitűzésével – hívja fel a Támogatottat.
 
-(3)[^141] Az elszámolás elmulasztása esetén a kincstár a támogatás visszafizetéséről a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szerinti hatósági ellenőrzés keretében dönt. Az elszámolás benyújtására meghatározott határidők elmulasztása esetén igazolási kérelemnek nincs helye. Az elszámolás részbeni vagy teljes elfogadásáról, az esetleges visszafizetési kötelezettség előírásáról a kincstár dönt és az elszámolás hiánytalan benyújtását – a 8/B. § (3) bekezdése szerinti esetben a helyszíni ellenőrzést végző bizottság értesítését – követő 21 napon belül a Ket. szerinti döntésében tájékoztatja a Támogatottat. A visszafizetésre kötelezésről a kincstár tájékoztatja a minisztert. Ha a támogatás felhasználása jogszabálysértő vagy nem rendeltetésszerű, a Támogatott a jogosulatlanul igénybe vett támogatás összegét kamatokkal növelt mértékben fizeti vissza. Az ügyleti és a késedelmi kamat mértéke és számítása tekintetében az Ávr. 98. §-át kell megfelelően alkalmazni.
+(3)[^141] Az elszámolás elmulasztása esetén a kincstár a támogatás visszafizetéséről hatósági ellenőrzést követő eljárásban dönt. Az elszámolás benyújtására meghatározott határidők elmulasztása esetén igazolási kérelemnek nincs helye. Az elszámolás részbeni vagy teljes elfogadásáról, az esetleges visszafizetési kötelezettség előírásáról a kincstár dönt és az elszámolás hiánytalan benyújtását – a 8/B. § (3) bekezdése szerinti esetben a helyszíni ellenőrzést végző bizottság értesítését – követő 21 napon belül tájékoztatja a Támogatottat. A visszafizetésre kötelezésről a kincstár tájékoztatja a minisztert. Ha a támogatás felhasználása jogszabálysértő vagy nem rendeltetésszerű, a Támogatott a jogosulatlanul igénybe vett támogatás összegét kamatokkal növelt mértékben fizeti vissza. Az ügyleti és a késedelmi kamat mértéke és számítása tekintetében az Ávr. 98. §-át kell megfelelően alkalmazni.
 
 (4) A kincstár (3) bekezdése szerinti döntése tartalmazza
 
@@ -32,15 +32,16 @@ ea) a visszafizetési kötelezettség megállapításának részletes indokát,
 
 eb) a d) pont dc) alpontja szerinti kamat, a d) pont df) alpontja szerinti jogorvoslati szabályok, valamint a kincstár hatáskörének és a határozat meghozatalának jogszabályi alapját.
 
-(5)[^143] A kincstár a másodfokú döntését a fellebbezés átvételét követő 21 napon belül hozza meg. A jogerős határozat végrehajtható, tekintet nélkül arra, hogy a helyi önkormányzat kéri-e annak bírósági felülvizsgálatát.
+(5)[^143]
 
-(6) A Támogatott részletfizetési kedvezményt legfeljebb hat hónapra a (4) bekezdés szerinti határozat jogerőre emelkedéséig kérhet a kincstártól. A részletfizetési kedvezményről a kincstár az Ávr. 99. §-a alapján megállapodást köt a Támogatottal.
+(6)[^144] A Támogatott részletfizetési kedvezményt legfeljebb hat hónapra a (4) bekezdés szerinti határozat véglegessé válásáig kérhet a kincstártól. A részletfizetési kedvezményről a kincstár az Ávr. 99. §-a alapján megállapodást köt a Támogatottal.
 
-(7)[^144] A jogosulatlanul igénybe vett támogatás visszafizetésének elmulasztása – kivéve a (6) bekezdésben szabályozott részletfizetési kedvezmény nyújtása – esetén a visszafizetési határidő lejártát követő tizenöt napon belül a kincstár a Támogatott fizetési számlája ellen beszedési megbízást nyújt be.
+(7)[^145] A jogosulatlanul igénybe vett támogatás visszafizetésének elmulasztása – kivéve a (6) bekezdésben szabályozott részletfizetési kedvezmény nyújtása – esetén a visszafizetési határidő lejártát követő tizenöt napon belül a kincstár a Támogatott fizetési számlája ellen beszedési megbízást nyújt be.
 
 [^139]: A 8/A. §-t a 92/2013. (III. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
 [^140]: A 8/A. § (2) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 15. § o) pontja, a 477/2016. (XII. 27.) Korm. rendelet 52. § (10) bekezdés g) pontja szerint módosított szöveg.
-[^141]: A 8/A. § (3) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^141]: A 8/A. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 315. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^142]: A 8/A. § (4) bekezdés d) pont dc) alpontja a 383/2015. (XII. 8.) Korm. rendelet 15. § p) pontja szerint módosított szöveg.
-[^143]: A 8/A. § (5) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 52. § (9) bekezdés b) pontja szerint módosított szöveg.
-[^144]: A 8/A. § (7) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^143]: A 8/A. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 317. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^144]: A 8/A. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 316. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^145]: A 8/A. § (7) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 14. §-ával megállapított szöveg.
