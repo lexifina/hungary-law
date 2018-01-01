@@ -1,13 +1,13 @@
-## 25. §[^121] Amennyiben a pénztár tárgyévi nyitómérlegében a fedezeti és likviditási alap együttes állománya nem haladja meg a 100 millió forintot (a továbbiakban: szabályozási szint), a pénztár befektetéseire a 2. számú mellékletben foglaltak nem vonatkoznak, ugyanakkor a pénztár a pénztári alapok befektetett eszközeit csak az 1. számú melléklet 1. pont a)–c) alpontja szerinti eszközökben és az 1. számú melléklet 1. pont d1)–d4) alpontjában meghatározott befektetési formákba fektetheti.
+## 25. §[^117] Amennyiben a pénztár tárgyévi nyitómérlegében a fedezeti és likviditási alap együttes állománya nem haladja meg a 100 millió forintot (a továbbiakban: szabályozási szint), a pénztár befektetéseire a 2. számú mellékletben foglaltak nem vonatkoznak, ugyanakkor a pénztár a pénztári alapok befektetett eszközeit csak az 1. számú melléklet 1. pont a)–c) alpontja szerinti eszközökben és az 1. számú melléklet 1. pont d1)–d4) alpontjában meghatározott befektetési formákba fektetheti.
 
 26. § (1) E rendelet – a (3) bekezdés kivételével – 1998. január 1-én lép hatályba.
 
-(2)[^122]
+(2)[^118]
 
 (3) A 9. § (2) bekezdésének a) és d) pontjai 1998. július 1. napján lépnek hatályba.
 
-(4)[^123] E rendelet alkalmazásában az „elismert értékpapírpiac” kifejezésen szabályozott piacot kell érteni.
+(4)[^119] E rendelet alkalmazásában az „elismert értékpapírpiac” kifejezésen szabályozott piacot kell érteni.
 
-[^121]: A 25. § a 139/2016. (VI. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^122]: A 26. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1300. pontja hatályon kívül helyezte.
-[^123]: A 26. § (4) bekezdését a 263/2005. (XII. 14.) Korm. rendelet 7. §-a iktatta be.
+[^117]: A 25. § a 139/2016. (VI. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^118]: A 26. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1300. pontja hatályon kívül helyezte.
+[^119]: A 26. § (4) bekezdését a 263/2005. (XII. 14.) Korm. rendelet 7. §-a iktatta be.
