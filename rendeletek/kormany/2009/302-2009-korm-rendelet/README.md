@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-302-20-
 | 2010-01-02 | 2009-302-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-01-01 | 2009-302-20-22.3 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2011-09-01 | 2009-302-20-22.4 | 181/2017. (VII. 5.) Korm. rendelet |
+| 2018-01-01 | 2009-302-20-22.5 | 457/2017. (XII. 28.) Korm. rendelet |

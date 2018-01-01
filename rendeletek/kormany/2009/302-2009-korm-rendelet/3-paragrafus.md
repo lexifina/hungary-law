@@ -1,3 +1,5 @@
+## 2. §[^7] Az e rendelet hatálya alá tartozó eljárásokban az ügyintézési határidő 25 nap.
+
 ## 3. § A vizsgáló állomással a közúti közlekedésről szóló törvény alapján kötendő hatósági szerződésnek tartalmaznia kell:
 
 a) az eljáró hatóság megnevezését, a Magyar Államkincstárnál vezetett számlaszámát, az ügy számát, valamint ügyintézőjének és képviselőjének a nevét,
@@ -30,4 +32,7 @@ n) a szerződésszegésnek minősülő magatartásokat és azok jogkövetkezmén
 
 o) a tevékenység ellenőrzésének gyakoriságát és rendjét, valamint
 
-p) a vizsgáló állomás nyilatkozatát arról, hogy valamennyi e rendelet alapján a szerződésben foglalt kötelezettség tekintetében aláveti magát a szerződésszegés közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti következményeinek.
+p)[^8] a vizsgáló állomás nyilatkozatát arról, hogy valamennyi e rendelet alapján a szerződésben foglalt kötelezettség tekintetében aláveti magát a szerződésszegés általános közigazgatási rendtartásról szóló törvény szerinti következményeinek.
+
+[^7]: A 2. § a 457/2017. (XII. 28.) Korm. rendelet 273. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: A 3. § p) pontja a 457/2017. (XII. 28.) Korm. rendelet 274. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
