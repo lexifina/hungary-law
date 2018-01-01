@@ -1,0 +1,3 @@
+## 28. § A 11/2014. (XII. 13.) IM rendelet 73. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A lefoglalt dolog elkobzásáról, visszaadásáról (kiadásáról, átadásáról) külön egységes értesítőlapot kell kiállítani. A kiállítandó egységes értesítőlapot pótolja a vonatkozó határozat, illetve a határozat rendelkező részének bírói aláírással ellátott példánya (e fejezetben a továbbiakban együtt: határozat). A büntetőeljárás során lefoglalt dolog elkobzását vagy a jogosult részére kiadását, átadását elrendelő bírósági határozat végrehajtására a külön jogszabályok rendelkezéseit is alkalmazni kell.”

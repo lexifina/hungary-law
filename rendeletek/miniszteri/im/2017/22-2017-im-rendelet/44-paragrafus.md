@@ -1,0 +1,1 @@
+## „(4) Ha a büntetés-végrehajtási bíró a reintegrációs őrizetet nem szünteti meg vagy a reintegrációs őrizet megszüntetését a másodfokú bíróság mellőzi, a határozat beérkezését követően a bv. intézet előkészíti az elítélt szabadon bocsátását.”

@@ -1,0 +1,1 @@
+## „(5a) Ha a fogva lévő terheltet több eljárás kapcsán egy időpontban kellene előállítani vagy zártcélú távközlő hálózat útján történő meghallgatását a bv. intézetben biztosítani, az (5) bekezdés alkalmazásával kell eljárni.”

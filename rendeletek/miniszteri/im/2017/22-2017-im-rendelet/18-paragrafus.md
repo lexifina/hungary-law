@@ -1,0 +1,5 @@
+## 17. § A 9/2014. (XII. 12.) IM rendelet 7. alcíme a következő 12/A. §-sal egészül ki:
+
+## „12/A. § (1) Ha a bíróság a jogerős szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtásának átvételéről döntött, és a megfeleltetés során a tagállami ítéletet – a magyar jogszabályokhoz képest kedvezőbb tagállami jogi rendelkezés alapján – kiegészíti a feltételes szabadságra bocsátás legkorábbi időpontjára vonatkozó rendelkezéssel, a feltételes szabadságra bocsátás esedékességi napja a bíróság által meghatározott időpont.
+
+## (2) Ha bíróság az (1) bekezdéstől eltérően a feltételes szabadságra bocsátás legkorábbi időpontjaként a szabadságvesztés – a magyar jogszabályokhoz képest kedvezőbb tagállami jogi rendelkezés alapján – meghatározott hányadának letöltését jelöli meg, a feltételes szabadságra bocsátás esedékessége napjának megállapításánál a szabadságvesztés kitöltetlen tartamából ki kell vonni a szabadságvesztés meghatározott hányadát, majd a fennmaradó tartamot hozzá kell adni a szabadságvesztés megállapított kezdő napjához.”
