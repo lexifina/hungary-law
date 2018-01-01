@@ -414,6 +414,6 @@
 
 ## Olyan helyiségek esetén, amelyeknek a bevilágító felületei 45°-foknál alacsonyabb szögben vannak, vagy 45°-on vagy annál magasabb szögben vannak és az északi tájolástól legalább 30°-kal eltérnek, hűtési rendszert kiépíteni csak abban az esetben szabad, ha bevilágító felületeken a hűtési üzemideje alatt gnyár<0,3 napsugárzás elleni hővédelem van biztosítva.
 
-2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^19]
+2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^25]
 
-[^19]: A 2. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (2) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^25]: A 2. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (2) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (2) bekezdése szerint módosított szöveg.
