@@ -6,7 +6,7 @@ a) központi hőellátó rendszer: az épület alkotórészét képező hőterme
 
 b) üzemben tartó: a központi hőellátó rendszerrel rendelkező épületnek a berendezés üzemképes állapotáért és üzemeltetéséért felelős tulajdonosa (az állami tulajdonú épület esetében az épület kezelője);
 
-c)[^1] fogyasztó: az épületen belül a lakás, nem lakás céljára szolgáló helyiség fűtését, melegvíz-ellátását, igénybe vevő tulajdonosa, bérlője, társbérlője vagy használója, kivéve az állam tulajdonában és a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő nőtlen-, nővér- és munkásszálló használója, továbbá az épület közös használatra szolgáló fűtött helyiségei, területei tekintetében az épület tulajdonosa;
+c)[^2] fogyasztó: az épületen belül a lakás, nem lakás céljára szolgáló helyiség fűtését, melegvíz-ellátását, igénybe vevő tulajdonosa, bérlője, társbérlője vagy használója, kivéve az állam tulajdonában és a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő nőtlen-, nővér- és munkásszálló használója, továbbá az épület közös használatra szolgáló fűtött helyiségei, területei tekintetében az épület tulajdonosa;
 
 d) fűtőfelület: a hőleadó készüléknek (fűtőtestnek) hőleadási értékét meghatározó műszaki jellemző értékét, adatát (fűtőtest anyaga, magassága, szélessége, tagszáma szerint) tartalmazza négyzetméterben kifejezve;
 
@@ -14,4 +14,4 @@ e) fűtött légtérfogat: a lakás, illetőleg a nem lakás céljára szolgál�
 
 f) fűtési idény: az év október hó 15. napja és a következő év április hó 15. napja közötti időszak.
 
-[^1]: A 2. § c) pontja a 221/2014. (IX. 4.) Korm. rendelet 188. § a) és c) pontja szerint módosított szöveg.
+[^2]: A 2. § c) pontja a 221/2014. (IX. 4.) Korm. rendelet 188. § a) és c) pontja szerint módosított szöveg.
