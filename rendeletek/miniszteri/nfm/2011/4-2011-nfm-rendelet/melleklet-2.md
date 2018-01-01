@@ -1,3 +1,3 @@
 2. melléklet a 4/2011. (I. 31.) NFM rendelethez[^18]
 
-[^18]: A 2. melléklet a 68/2016. (XII. 29.) NFM rendelet 2. § (1) bekezdésével megállapított, a 7/2017. (III. 30.) NFM rendelet 2. § a) pontja szerint módosított szöveg.
+[^18]: A 2. melléklet az 59/2017. (XII. 29.) NFM rendelet 1. §-ával megállapított szöveg.
