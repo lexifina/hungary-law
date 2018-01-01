@@ -78,4 +78,6 @@ c) a jogszerűen végezhető erdőgazdálkodási tevékenységek szakszerű vég
 
 d) a jogszerűtlenül végrehajtott erdőgazdálkodási tevékenység típusát és mértékét a végrehajtás utáni valós állapotnak megfelelően feltüntették.
 
-(11) A (10) bekezdés c) pontja tekintetében szakszerű végrehajtásnak tekinthető, ha az erdő megfelel az erdészeti hatóság jogerős határozatában foglaltaknak, továbbá ha az intenzíven terjedő idegenhonos fafajok kivágása a természetességi alapelvárásnak megfelelő szükséges mértékig megtörtént, a záródás nem csökkent az elvárt mérték alá, az erdő egészségi állapota nem romlott az erdőgazdálkodási tevékenység végrehajtása következtében.
+(11)[^1] A (10) bekezdés c) pontja tekintetében szakszerű végrehajtásnak tekinthető, ha az erdő megfelel az erdészeti hatóság végleges határozatában foglaltaknak, továbbá ha az intenzíven terjedő idegenhonos fafajok kivágása a természetességi alapelvárásnak megfelelő szükséges mértékig megtörtént, a záródás nem csökkent az elvárt mérték alá, az erdő egészségi állapota nem romlott az erdőgazdálkodási tevékenység végrehajtása következtében.
+
+[^1]: A 29. § (11) bekezdése a 67. § (1) bekezdése szerint módosított szöveg.
