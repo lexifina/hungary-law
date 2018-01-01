@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-323-20-
 | 2014-09-05 | 2007-323-20-22.18 | 225/2014. (IX. 4.) Korm. rendelet |
 | 2015-05-06 | 2007-323-20-22.19 | 101/2015. (IV. 20.) Korm. rendelet |
 | 2015-06-12 | 2007-323-20-22.20 | 131/2015. (V. 27.) Korm. rendelet |
+| 2018-01-01 | 2007-323-20-22.21 | 163/2009. (VIII. 6.) Korm. rendelet |

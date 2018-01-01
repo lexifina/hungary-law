@@ -32,7 +32,7 @@ g) amely, ha 20 MW termelőkapacitást meghaladó teljesítményű vízierőműv
 
 h)[^30]
 
-i)[^31] amelynek Szállítója az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint – a kérelme benyújtásának időpontjában – köztartozásmentes adózónak minősül, és
+i)[^31] amelynek Szállítója az adózás rendjéről szóló törvény szerint – a kérelme benyújtásának időpontjában – köztartozásmentes adózónak minősül, és
 
 ia) ezt 30 napnál nem régebben kiállított közokirattal igazolja, vagy
 
@@ -59,6 +59,6 @@ c) a Nemzeti Környezetvédelmi Programmal, a Nemzeti Éghajlatváltozási Strat
 [^28]: A 10. § (1) bekezdése a 410/2012. (XII. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
 [^29]: A 10. § (4) bekezdése a 225/2014. (IX. 4.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^30]: A 10. § (7) bekezdés h) pontját a 410/2012. (XII. 28.) Korm. rendelet 33. § b) pontja hatályon kívül helyezte.
-[^31]: A 10. § (7) bekezdésének i) pontja a 163/2009. (VIII. 6.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^31]: A 10. § (7) bekezdésének i) pontja a 163/2009. (VIII. 6.) Korm. rendelet 9. § (1) bekezdésével megállapított, nyitó szövegrésze a 475/2017. (XII. 28.) Korm. rendelet 28. §-a szerint módosított szöveg.
 [^32]: A 10. § (7) bekezdés k) pontja a 121/2009. (VI. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^33]: A 10. § (7) bekezdés l) pontja a 410/2012. (XII. 28.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
