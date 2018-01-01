@@ -28,13 +28,11 @@ a) elkülönített letéti számlára történő befizetéssel,
 
 b) pénzügyi intézmény, pénzforgalmi intézmény, befektetési vállalkozás által vállalt, az állami adó- és vámhatóság által nyilvántartásba vett garancia útján.
 
-(8)[^10] Mentesül a biztosítékadási kötelezettség alól az az adózó, aki
+(8)[^13] Mentesül a biztosítékadási kötelezettség alól az az adózó, aki nem minősül az Art. szerinti új kötelezettnek és
 
-a) az állami adó- és vámhatóság által vezetett minősített adózói adatbázisban szerepel,
+a) legalább két éve működik, és szerepel az állami adó- és vámhatóság által vezetett köztartozásmentes adózói adatbázisban, vagy
 
-b) legalább két éve működik, és szerepel az állami adó- és vámhatóság által vezetett köztartozásmentes adózói adatbázisban, valamint a 11. § és 13. § szerinti bejelentés időpontjában nem áll adószám felfüggesztés hatálya alatt, vagy
-
-c) stratégiailag kiemelt jelentőségű gazdálkodó szervezetként csőd-, vagy felszámolási eljárás alatt gazdasági tevékenységet folytat, és egyedi kérelme alapján az állami adó- és vámhatóság vezetője a biztosítékadási kötelezettség alóli mentességét engedélyezte.
+b) stratégiailag kiemelt jelentőségű gazdálkodó szervezetként csőd-, vagy felszámolási eljárás alatt gazdasági tevékenységet folytat, és egyedi kérelme alapján az állami adó- és vámhatóság vezetője a biztosítékadási kötelezettség alóli mentességét engedélyezte.
 
 (9) A mentesség feltételeinek fennállását az állami adó- és vámhatóság folyamatosan vizsgálja. Ha a mentesség feltételei már nem állnak fenn, úgy az adózó az EKAER szám megállapítása érdekében a (3)–(4) bekezdés szerint köteles eljárni.
 
@@ -54,6 +52,7 @@ d) ha az adózó a biztosíték nyújtását követően megfelel a (8) bekezdés
 
 (13) A (11) és (12) bekezdés szerinti kérelem beérkezését követően az igény jogosságát az állami adó- és vámhatóság megvizsgálja. A biztosíték vagy a biztosíték egy része visszautalásának, a garanciavállalás felmondásához, módosításához való hozzájárulás kiadásának határideje a kérelem beérkezését követő 15 nap. Az állami adó- és vámhatóság a visszatartási jogát az adózó általa nyilvántartott köztartozása tekintetében gyakorolhatja, illetve a nyilvántartott köztartozást a garanciaszerződés keretében érvényesítheti.
 
-(14) A biztosíték összegét az Art. 167. § (1) bekezdése szerinti nettó pótlékszámítás során nem kell figyelembe venni.
+(14)[^14] A biztosíték összegét az Art. 208. § (2) bekezdés a) pontja szerinti nettó pótlékszámítás során nem kell figyelembe venni.
 
-[^10]: A 16. § (8) bekezdése a 47/2015. (XII. 30.) NGM rendelet 24. §-ával megállapított szöveg.
+[^13]: A 16. § (8) bekezdése a 48/2017. (XII. 29.) NGM rendelet 10. §-ával megállapított szöveg.
+[^14]: A 16. § (14) bekezdése a 48/2017. (XII. 29.) NGM rendelet 12. § b) pontja szerint módosított szöveg.
