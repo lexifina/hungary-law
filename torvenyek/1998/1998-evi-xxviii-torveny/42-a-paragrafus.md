@@ -1,10 +1,12 @@
-42/A. § (1) A transzponderrel megjelölt ebek adatait országos elektronikus adatbázisban (a továbbiakban: adatbázis) kell nyilvántartani az állat tartója és más személyek jogainak, személyi biztonságának és tulajdonának védelme céljából.
+42/A. § (1) A transzponderrel megjelölve tartható ebekről az állat tartója és más személyek jogainak, személyi biztonságának és tulajdonának védelme, valamint az ebrendészeti feladatok ellátása céljából nyilvántartást kell vezetni (a továbbiakban: ebnyilvántartás).
 
-(2) Az adatbázisba való regisztrációért e törvény végrehajtására kiadott jogszabályban meghatározott díjat kell fizetni, mely díj az adatbázis működtetőjének a bevétele. Az eb transzponderrel történő megjelöléséért legfeljebb 3500 Ft összeg kérhető az állat tartójától, amely magában foglalja a transzponder árát, a beültetés díját és az adatbázisba való regisztráció díját.
+(1a) Az állatvédelmi hatóság a veszélyes ebek hatékony azonosítása érdekében az ebnyilvántartásban rögzíti az eb veszélyessé nyilvánításának tényét.
 
-(3) Az (1) bekezdés szerinti adatbázist az élelmiszerlánc-felügyeleti szerv működteti.
+(2) Az ebnyilvántartásba való regisztrációért e törvény végrehajtására kiadott jogszabályban meghatározott díjat kell fizetni, mely díj az ebnyilvántartás működtetőjének a bevétele. Az eb transzponderrel történő megjelöléséért legfeljebb 3500 Ft összeg kérhető az állat tartójától, amely magában foglalja a transzponder árát, a beültetés díját és az ebnyilvántartásba való regisztráció díját.
 
-(4) Az adatbázisnak az alábbi adatokat kell tartalmaznia:
+(3) Az (1) bekezdés szerinti ebnyilvántartást az élelmiszerlánc-felügyeleti szerv működteti.
+
+(4) Az ebnyilvántartásnak az alábbi adatokat kell tartalmaznia:
 
 a) az eb tulajdonosának nevét, címét,
 
@@ -32,16 +34,16 @@ l) az eb veszélyessé minősítésének tényére és időpontjára vonatkozó 
 
 m) elismert tenyésztő szervezet által törzskönyvezett eb esetén a származási igazolás másolatát.
 
-(5) Az adatbázis működtetője jogosult kezelni a (4) bekezdésben meghatározott adatokat.
+(5) Az ebnyilvántartás működtetője jogosult kezelni a (4) bekezdésben meghatározott adatokat.
 
 (6) Az eb tulajdonosa és tartója köteles a (4) bekezdés szerinti adatokat az eb transzponderrel történő megjelölését és regisztrációját végző állatorvos rendelkezésére bocsátani.
 
-(7) Az adatbázis működtetője biztosítja a (4) bekezdés c), h) és l) pontja szerinti adatokhoz való nyilvános hozzáférést az állatba ültetett transzponder sorszáma alapján.
+(7) Az ebnyilvántartás működtetője biztosítja a (4) bekezdés c), h) és l) pontja szerinti adatokhoz való nyilvános hozzáférést az állatba ültetett transzponder sorszáma alapján.
 
-(8) Jogszabályban meghatározott közfeladat ellátása érdekében az adatbázis működtetője az adatbázishoz
+(8) Jogszabályban meghatározott közfeladat ellátása érdekében az ebnyilvántartás működtetője az ebnyilvántartáshoz
 
 a) hozzáférést biztosít a települési, fővárosban a fővárosi kerületi és a fővárosi önkormányzat részére,
 
 b) hozzáférést biztosíthat bíróság, ügyészség, nyomozó hatóság és más közigazgatási szerv részére.
 
-(9) Az adatbázisban szereplő adatok tulajdonjogot nem igazolnak.
+(9) Az ebnyilvántartásban szereplő adatok tulajdonjogot nem igazolnak.

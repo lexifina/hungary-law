@@ -2,8 +2,8 @@
 
 (2) Az ebösszeírás során a települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat jogosult kezelni a 42/A. § (4) bekezdés szerinti adatokat.
 
-(3) A települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat az ebösszeírás alapján a (2) bekezdésben foglalt adatokról helyi elektronikus nyilvántartást vezet, az állat tulajdonosa, tartója és más személyek jogainak, személyes biztonságának és tulajdonának védelme, valamint ebrendészeti és állatvédelmi feladatainak hatékony ellátása céljából.
+(3) A települési, fővárosban a kerületi önkormányzat, illetve a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a Fővárosi Önkormányzat az ebösszeírás alapján a (2) bekezdésben foglalt adatokat összeveti az ebnyilvántartásban rögzített adatokkal, és eltérés esetén adatot szolgáltat az ebnyilvántartás működtetőjének.
 
-(4) Az adatbázis működtetőjének kérésére a települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat, valamint a Magyar Állatorvosi Kamara köteles a nyilvántartott ebekről adatot szolgáltatni.
+(4) Az ebnyilvántartás működtetőjének kérésére a Magyar Állatorvosi Kamara köteles a nyilvántartott ebekről adatot szolgáltatni.
 
 (5) Az eb tulajdonosa és tartója az ebösszeíráskor köteles a (2) bekezdés szerinti adatokat a települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat rendelkezésére bocsátani.

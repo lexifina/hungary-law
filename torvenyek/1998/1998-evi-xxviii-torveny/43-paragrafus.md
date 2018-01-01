@@ -12,7 +12,7 @@
 
 (7) Ha az állatvédelmi képzésen való részvételre kötelezett állattartó a kötelezettségének önként nem tesz eleget, az állatvédelmi képzés, illetőleg annak hátralévő része helyébe állatvédelmi bírság lép.
 
-(8) A határidőre meg nem fizetett állatvédelmi bírság adók módjára behajtandó köztartozás.
+(8)
 
 (9) Ha kedvtelésből tartott állat tartója az állatok védelmére vonatkozó jogszabályok vagy hatósági határozat rendelkezésének szándékos vagy ismételt megsértésével állatának maradandó egészségkárosodását vagy elpusztulását okozza, és a kedvtelésből tartott vagy a jövőben tartandó állat jóléte állatvédelmi bírság kiszabásával és az állatvédelmi képzésen való részvételre kötelezéssel sem biztosítható, az állatvédelmi hatóság – állatvédelmi bírság kiszabása mellett – az állattartót állat kedvtelésből való tartásától a jogsértés súlyától függően 2–8 évre eltiltja.
 

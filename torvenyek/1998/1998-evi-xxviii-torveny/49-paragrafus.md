@@ -20,7 +20,7 @@ g) a település belterületén a kóbor állatok befogásával, tulajdonjogána
 
 h) az eb okozta fizikai sérülés, illetve ennek veszélye keletkezésekor felmerülő hatósági feladatokat, valamint a veszélyesnek minősített eb tartásának és a tartás engedélyezésének részletes szabályait,
 
-i) a transzponderrel megjelölt ebek adatait nyilvántartó országos adatbázis működési feltételeit, valamint az adatbázisba történő regisztráció díját,
+i) az ebnyilvántartás működési feltételeit, valamint az ebnyilvántartásba történő regisztráció díját,
 
 j) az ebek viselkedésének megítélésében jártas szakértői tevékenység bejelentésére vonatkozó részletes szabályokat
 
@@ -40,7 +40,7 @@ bc) a közepesen veszélyes állatfaj egyede tartásának, szaporításának, el
 
 bd) az elővigyázatosságot igénylő állatfaj egyede tartásának, szaporításának, elidegenítésének, tartása átengedésének, országba történő behozatalának részletes szabályait,
 
-be) a veszélyes állatok adatait nyilvántartó országos adatbázis működési feltételeit,
+be) a ebnyilvántartás működési feltételeit,
 
 c) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állatok elkábítására szolgáló eszközök, lövedékek körét, az állatok elkábításának részletes szabályait,
 
