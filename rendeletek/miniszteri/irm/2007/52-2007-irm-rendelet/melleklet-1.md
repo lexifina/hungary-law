@@ -1,4 +1,4 @@
-1. melléklet az 52/2007. (XII. 11.) IRM rendelethez[^32]
+1. melléklet az 52/2007. (XII. 11.) IRM rendelethez[^34]
 
 ## A befogadó állomás házirendje
 
@@ -82,4 +82,4 @@ A letétbe helyezett dolgok kivételével sem a befogadó állomás, sem a befog
 
 Kérjük a házirend betartását!
 
-[^32]: A Melléklet megjelölését 1. mellékletre változtatta, egyidejűleg a szövegét megállapította a 3/2017. (III. 23.) BM rendelet 2. § (1) bekezdése.
+[^34]: A Melléklet megjelölését 1. mellékletre változtatta, egyidejűleg a szövegét megállapította a 3/2017. (III. 23.) BM rendelet 2. § (1) bekezdése.

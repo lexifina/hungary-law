@@ -1,4 +1,4 @@
-2. melléklet az 52/2007. (XII. 11.) IRM rendelethez[^33]
+2. melléklet az 52/2007. (XII. 11.) IRM rendelethez[^35]
 
 ## A tranzitzóna házirendje
 
@@ -38,4 +38,4 @@
 
 18. Az elhelyezettnek a tranzitzóna önkéntes elhagyásának szándékát a menekültügyi hatóság munkatársának jeleznie kell. A véglegesen távozó külföldi a részére átadott leltári tárgyakkal a tranzitzóna elhagyásakor elszámolni köteles. A jelzést követően az elhelyezett a kiléptetésre rendszeresített zsilipkapun át távozhat a tranzitzónából.
 
-[^33]: A 2. mellékletet a 3/2017. (III. 23.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^35]: A 2. mellékletet a 3/2017. (III. 23.) BM rendelet 2. § (2) bekezdése iktatta be.
