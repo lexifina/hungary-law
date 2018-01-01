@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-76-00-00
 | 2015-12-24 | 2015. évi CCXXVI. törvény | 2009-76-00-00.10 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2009-76-00-00.11 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2009-76-00-00.12 |
+| 2018-01-01 | 2017. évi L. törvény | 2009-76-00-00.13 |

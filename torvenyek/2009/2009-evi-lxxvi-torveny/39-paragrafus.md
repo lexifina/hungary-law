@@ -4,4 +4,4 @@
 
 ## Általános szabályok
 
-39. § A szolgáltatási tevékenység megkezdésével és folytatásával összefüggő közigazgatási hatósági ügyekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény nemzetközi jogsegélyre vonatkozó eljárási rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+39. § A szolgáltatási tevékenység megkezdésével és folytatásával összefüggő közigazgatási hatósági ügyekben az általános közigazgatási rendtartásról szóló törvény megkeresésre vonatkozó eljárási rendelkezéseit az e fejezetben foglalt kiegészítésekkel és eltérésekkel kell alkalmazni.

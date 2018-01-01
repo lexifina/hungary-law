@@ -14,4 +14,4 @@ b) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámol
 
 c) a közbeszerzésekről szóló törvény alkalmazásában az ajánlattevővel, az alvállalkozóval vagy a kapacitásait rendelkezésre bocsátó szervezettel szembeni kizáró okok hiányának, valamint a minőségbiztosítási szabványoknak és a környezetvédelmi vezetési rendszereknek való megfelelés igazolására,
 
-d) az ügyvédekről szóló törvény szerinti európai közösségi jogásznak a saját tagállamában az ügyvédi tevékenység folytatására való jogosultsága igazolására.
+d) az ügyvédi tevékenységről szóló törvény szerinti európai közösségi jogásznak a saját tagállamában az ügyvédi tevékenység folytatására való jogosultsága igazolására.

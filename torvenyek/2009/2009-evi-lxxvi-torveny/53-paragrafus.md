@@ -18,4 +18,4 @@ g) meghatározza a 25. § szerint a bejelentés elmulasztása esetén fizetendő
 
 h) meghatározza az 51. § szerinti bejelentés részletes szabályait,
 
-i) az e törvény hatálya alá tartozó engedélyezési és bejelentési eljárásokban közreműködő hatóságot jelöljön ki, és meghatározza a közreműködő hatóság feladatait; ennek során a közreműködő hatóságnak a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott egyes eljárási feladatai ellátását kizárhatja, és a közreműködő hatóság számára további eljárási feladatokat határozhat meg.
+i)

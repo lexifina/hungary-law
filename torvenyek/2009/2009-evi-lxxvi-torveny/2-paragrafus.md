@@ -24,7 +24,7 @@ g) letelepedés: gazdasági tevékenység ténylegesen és tartós, huzamos jell
 
 h) magatartási kódex: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben ekként meghatározott fogalom,
 
-i) más EGT-állam illetékes hatósága: az adott EGT-államban az adott állam joga szerint valamely szolgáltatási tevékenység megkezdésével vagy folytatásával összefüggésben jog vagy kötelezettség megállapítására, adat, tény vagy jogosultság igazolására, nyilvántartás vezetésére vagy a szolgáltatási tevékenység megkezdésére vagy folytatására előírt követelmények betartásának ellenőrzésére hatáskörrel rendelkező hatóság, egyéb szervezet, testület vagy személy, ideértve az ilyen hatáskörben eljáró bíróságot is,
+i) más EGT-állam illetékes hatósága: az adott EGT-államban az adott állam joga szerint valamely szolgáltatási tevékenység megkezdésével vagy folytatásával összefüggésben jog vagy kötelezettség megállapítására, adat igazolására, nyilvántartás vezetésére vagy a szolgáltatási tevékenység megkezdésére vagy folytatására előírt követelmények betartásának ellenőrzésére hatáskörrel rendelkező hatóság, egyéb szervezet, testület vagy személy, ideértve az ilyen hatáskörben eljáró bíróságot is,
 
 j) szabályozott szakma: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben ekként meghatározott fogalom,
 

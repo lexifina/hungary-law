@@ -1,6 +1,6 @@
 ## Szolgáltatók nyilvántartására vonatkozó közös szabályok
 
-29. § (1) A szolgáltatás felügyeletét ellátó hatóság nyilvántartást vezet azon szolgáltatókról, amelyek tekintetében a szolgáltatási tevékenység folytatását jogerősen megtiltotta.
+29. § (1) A szolgáltatás felügyeletét ellátó hatóság nyilvántartást vezet azon szolgáltatókról, amelyek tekintetében a szolgáltatási tevékenység folytatását végleges döntésével megtiltotta.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 

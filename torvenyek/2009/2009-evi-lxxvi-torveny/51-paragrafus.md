@@ -1,6 +1,6 @@
 ## A 2006/123/EK irányelv szerinti bejelentési kötelezettségek
 
-51. § (1) A külpolitikáért felelős miniszter a Kormány rendeletében meghatározottak szerint gondoskodik
+51. § (1) Az igazságügyért felelős miniszter a Kormány rendeletében meghatározottak szerint gondoskodik
 
 a) a 2006/123/EK irányelv 15. cikk (7) bekezdése alapján a korlátozó követelményeket tartalmazó jogszabálytervezeteknek, továbbá
 

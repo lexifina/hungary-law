@@ -6,7 +6,7 @@
 
 a) engedélyhez vagy más feltételhez kötött tevékenység folytatása esetén az érintett rendelkezik-e a szükséges engedéllyel, feltételekkel,
 
-b) az érintett nem áll-e az ellenőrzéssel érintett tevékenység folytatását megtiltó vagy a tevékenységet meghatározott ideig vagy mértékben korlátozó jogerős hatósági határozat vagy jogszabályban kötelezően előírt valamely szervezethez tartozás esetén az ilyen szervezet által kiszabott jogerős fegyelmi büntetés hatálya alatt,
+b) az érintett nem áll-e az ellenőrzéssel érintett tevékenység folytatását megtiltó vagy a tevékenységet meghatározott ideig vagy mértékben korlátozó végleges hatósági határozat vagy jogszabályban kötelezően előírt valamely szervezethez tartozás esetén az ilyen szervezet által kiszabott végleges fegyelmi büntetés hatálya alatt,
 
 c) az érintettnek nem áll-e fenn lejárt köztartozása, vagy
 
