@@ -1,1 +1,0 @@
-## 1. § A rendelet alkalmazási köre kiterjed a belügyminiszter feladat- és hatáskörébe utalt tűzvédelem vonatkozásában a tűzoltó-technikai termék, tűz- vagy robbanásveszélyes készülék, gép, berendezés tűzvédelmi megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelölésére.
