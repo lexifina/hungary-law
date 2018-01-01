@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-103-00-00
 | 2015-11-28 | 2015. évi CLXXXVII. törvény | 2011-103-00-00.8 |
 | 2016-01-01 | 2015. évi CXCI. törvény | 2011-103-00-00.9 |
 | 2017-01-01 | 2016. évi LXVI. törvény | 2011-103-00-00.10 |
+| 2018-01-01 | 2017. évi CLIX. törvény | 2011-103-00-00.11 |

@@ -1,6 +1,6 @@
 ## 9. Eljárási rendelkezések
 
-10. § (1) Ha jogszabály másként nem rendelkezik, a Nemzeti Adó- és Vámhivatal (a továbbiakban: hatóság) jár el az e törvényben meghatározott feladatok végrehajtása során.
+10. § (1) Ha jogszabály másként nem rendelkezik, a hatóság jár el az e törvényben meghatározott feladatok végrehajtása során.
 
 (2) Az adó alanya bevallási kötelezettségét – a (3) bekezdésben meghatározott eltéréssel – a rá irányadó általános forgalmi adó bevallási időszak szerint teljesíti, az általános forgalmi adó bevallására előírt határidőig az e célra rendszeresített elektronikus nyomtatványon a hatósághoz.
 
@@ -10,6 +10,6 @@
 
 (5) Az adófizetésre nem kötelezett adóalanynak bejelentkezési és adóbevallás benyújtási kötelezettsége nincs.
 
-(6) Az e törvényben nem szabályozott eljárási kérdésekben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
+(6)
 
 (7)
