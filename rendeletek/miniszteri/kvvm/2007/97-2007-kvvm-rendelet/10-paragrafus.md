@@ -1,3 +1,5 @@
+## 9. §[^2]
+
 10. § (1) E rendelet 2008. január 1. napján lép hatályba.
 
 (2) Az üzemeltetőnek a már üzemeltetési engedéllyel rendelkező vízilétesítmények esetén az 5. § (3) bekezdés szerinti hozzájárulást 2009. január 1-jéig kell megszerezni.
@@ -126,4 +128,5 @@ Dunai Hőerőmű vízkivétele
 
 Észak-pesti szennyvíztisztító telep
 
+[^2]: A 9. §-t a 44/2017. (XII. 29.) BM rendelet 33. §-a hatályon kívül helyezte.
 [^3]: A 10. § (3) bekezdését a 147/2011. (XII. 23.) VM rendelet 17. § e) pontja hatályon kívül helyezte.
