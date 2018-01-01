@@ -1,0 +1,5 @@
+## VIII. Fejezet
+
+## A LÉGIJÁRMŰVEK ÉS LÉGIJÁRMŰ KOMPONENSEK KARBANTARTÁSÁNAK SZEMÉLYI JOGOSÍTÁSAIVAL ÉS KÉPZÉSI KÖVETELMÉNYEIVEL ÖSSZEFÜGGŐ KIEGÉSZÍTŐ ELJÁRÁSI SZABÁLYOK
+
+## 34. A légijármű karbantartó szakszolgálati engedély

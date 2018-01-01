@@ -1,0 +1,1 @@
+## 72. § A lejárt jogosítást vagy nyelvismereti kiterjesztést a légiközlekedési hatóság kérelemre megújítja, ha a kérelmező megfelel e rendelet követelményeinek. A jogosítás vagy nyelvismereti kiterjesztés megújítása esetén az újabb hatályossági időtartam kezdőnapja a megújításhoz előírt, sikeresen teljesített vizsga napja.

@@ -1,0 +1,5 @@
+## 35. A B-SLA és a B-BL kategóriájú szakszolgálati engedélyezéssel összefüggő kiegészítő szabályok
+
+105. § (1) A B-SLA és a B-BL kategóriájú szakszolgálati engedély esetében a légiközlekedési hatóság elfogadhatja az állami légijármű karbantartási környezetben szerzett légijármű karbantartási tapasztalatot, amennyiben meggyőződött arról, hogy az ilyen tapasztalat egyenértékű az e rendeletben előírttal, de ez esetben legalább egy év kiegészítő polgári légijármű karbantartási tapasztalat szükséges a polgári légijármű karbantartási környezet megértésének biztosítására.
+
+(2) A Karbantartási képzési rendelet 15. § (2) bekezdésében meghatározott tapasztalati követelményt a légiközlekedési hatóság kérelemre enyhíti, amennyiben meggyőződött arról, hogy a kérelmező e rendelet szerint jóváhagyott alapismereti képzésben vagy más, iskolarendszerű műszaki képzésben részesült. Az enyhítés mértéke e rendelet szerint jóváhagyott képzés esetében az előírt tapasztalati idő legfeljebb 65%-a, más, iskolarendszerű műszaki képzés esetében legfeljebb 30%-a lehet. A friss tapasztalatra vonatkozó követelmények tekintetében enyhítés nem alkalmazható.

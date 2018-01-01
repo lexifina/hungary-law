@@ -1,0 +1,1 @@
+## 66. § A Légijármű és repülőeszköz személyzeti rendelet 7. § (1) bekezdésében meghatározott nyelvismereti igazolással rendelkező személy szakszolgálati engedélyébe a légiközlekedési hatóság a nyelvismeretet igazoló bejegyzést tesz.

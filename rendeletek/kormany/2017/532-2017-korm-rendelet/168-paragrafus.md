@@ -1,0 +1,3 @@
+168. § (1) A Díjszabályzat vagy a Díjszabályzat módosításának jóváhagyását a légiközlekedési hatóság megtagadja, ha a repülőtér üzemben tartója a 61/2011. (XI. 25.) NFM rendelet 18. § (1) bekezdésében a megbízott piackutató cég vonatkozásában előírt követelmények teljesülését a légiközlekedési hatóság felhívására teljes bizonyító erejű magánokirattal vagy közokirattal nem bizonyítja.
+
+(2) A légiközlekedési hatóság a Díjszabályzatban foglaltak betartásának ellenőrzése keretében arra is kitérhet, hogy a tényleges szolgáltatásminőség megfelel-e a repülőtér üzemben tartója által készített jelentésnek.

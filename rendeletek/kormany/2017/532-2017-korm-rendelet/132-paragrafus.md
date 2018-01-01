@@ -1,0 +1,3 @@
+132. § (1) A könnyű légijármű típusalkalmassági tanúsítványának módosítását kell kérelmeznie a tanúsítvány tulajdonosának a légiközlekedési hatóságtól, ha a típuson a típusalkalmassági tanúsítványban meghatározottakhoz képest olyan módosítást kíván végrehajtani, amely jelentős hatással van a könnyű légijármű tömegére, egyensúlyára, szerkezeti szilárdságára, megbízhatóságára, üzemeltetési jellemzőire, vagy a légialkalmasságát befolyásoló egyéb tulajdonságára.
+
+(2) A típusalkalmassági tanúsítvány módosítására irányuló kérelem benyújtásával egyidejűleg igazolni kell, hogy a típusterv módosítása a megjelölt eltérésekkel megfelel az alkalmazandó légialkalmassági előírásnak. Az igazolásra alkalmas különösen a felelős tervező nyilatkozata.
