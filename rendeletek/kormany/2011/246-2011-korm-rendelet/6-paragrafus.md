@@ -12,8 +12,9 @@ c) ha a 3. § (1) bekezdése szerinti esetben a kijelölésre nem került sor, a
 
 (4) A biztonsági övezetet kijelölő szerven kívül biztonsági övezet felülvizsgálatát kezdeményezheti a nukleáris létesítmény, valamint a radioaktívhulladék-tároló engedélyese is. A (3) bekezdésben meghatározott körülmények megváltozása esetén a létesítési engedélyezési eljárásban, valamint az (1) bekezdés szerinti felülvizsgálati eljárásban részt vett ügyfelek a felülvizsgálatot az IBF keretén kívül is kezdeményezhetik.
 
-(5) A felülvizsgálati eljárás ügyintézési határideje a (3) bekezdésben foglalt esetet kivéve 120 nap.
+(5)[^3]
 
 (6) A biztonsági övezet felülvizsgálatára egyebekben a biztonsági övezet kijelölésére vonatkozó szabályokat megfelelően alkalmazni kell.
 
 [^2]: A 6. § (3) bekezdése a 156/2014. (VI. 30.) Korm. rendelet 3. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 6. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 355. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
