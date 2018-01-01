@@ -1,15 +1,15 @@
-## 61/F. §[^369]
+## 61/F. §[^370]
 
-62. § (1)[^370]
+62. § (1)[^371]
 
-(2)[^371]
+(2)[^372]
 
-(3)[^372]
+(3)[^373]
 
-(4)[^373]
+(4)[^374]
 
-[^369]: A 61/F. §-t a 233/2004. (VIII. 6.) Korm. rendelet 47. §-a iktatta be, hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
-[^370]: A 62. § (1) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
-[^371]: A 62. § (2) bekezdését a 229/2007. (VIII. 31.) Korm. rendelet 21. § (7) bekezdése a) pontjának aa) alpontja hatályon kívül helyezte.
-[^372]: A 62. § (3) bekezdését a 233/2004. (VIII. 6.) Korm. rendelet 48. §-a iktatta be, hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
-[^373]: A 62. § (4) bekezdését a 233/2004. (VIII. 6.) Korm. rendelet 48. §-a iktatta be, hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
+[^370]: A 61/F. §-t a 233/2004. (VIII. 6.) Korm. rendelet 47. §-a iktatta be, hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
+[^371]: A 62. § (1) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^372]: A 62. § (2) bekezdését a 229/2007. (VIII. 31.) Korm. rendelet 21. § (7) bekezdése a) pontjának aa) alpontja hatályon kívül helyezte.
+[^373]: A 62. § (3) bekezdését a 233/2004. (VIII. 6.) Korm. rendelet 48. §-a iktatta be, hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
+[^374]: A 62. § (4) bekezdését a 233/2004. (VIII. 6.) Korm. rendelet 48. §-a iktatta be, hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
