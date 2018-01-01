@@ -1,3 +1,3 @@
-## 12/D. §[^38] A jelek, jelzések elhelyezése és eltávolítása a kérelmező feladata.
+## 12/D. §[^30]
 
-[^38]: A 12/D. §-t az 58/2004. (X. 11.) BM rendelet 5. §-a iktatta a szövegbe.
+[^30]: A 12/D. §-t az 58/2004. (X. 11.) BM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 44/2017. (XII. 29.) BM rendelet 1. §-a.
