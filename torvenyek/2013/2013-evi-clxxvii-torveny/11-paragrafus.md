@@ -11,3 +11,13 @@
 (4) A létesítő okirat – a Ptk. rendelkezéseinek megfelelő – módosítását változásbejegyzési kérelemként kell benyújtani a bírósághoz.
 
 (5) A (3) bekezdés szerinti időpontig az alapítvány, illetve az egyesület a Polgári Törvénykönyvről szóló 1959. évi IV. törvény alapján működik. Nincs azonban akadálya annak, hogy az (1) bekezdés szerinti egyesület és alapítvány a Ptk. rendelkezéseinek alkalmazásával módosítsa létesítő okiratát, erre azonban a (4) bekezdés szerinti változásbejegyzési kérelemben utalnia kell.
+
+(6) Érdekképviseleti célra alapított egyesület jogi szakvizsgával rendelkező
+
+a) tagja,
+
+b) tisztségviselője, vagy
+
+c) alkalmazottja
+
+az egyesület tagjára vonatkozó polgári vagy közigazgatási bírósági eljárásban – az egyesület tagjának képviseletében – meghatalmazottként eljárhat, ha a bírósági eljárásban a jogi képviselet nem kötelező és annak tárgya az egyesület alapszabályában meghatározott érdekképviseleti célokkal összefügg.
