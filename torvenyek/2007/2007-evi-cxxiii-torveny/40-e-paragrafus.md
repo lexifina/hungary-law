@@ -1,6 +1,6 @@
 40/E. § (1) Ha – pernyertessége folytán – az igénylő tulajdonába került érintett ingatlan kisajátítása iránt a kérelmező az előzetes állásfoglalás hatályossági idején belül, az előzetes eljárásban megjelölt kisajátítási és beruházási, illetve tevékenységi céllal azonos céllal kisajátítási eljárást indít, a tényleges kisajátítási eljárásban e törvénynek a kisajátításra vonatkozó általános rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A tényleges kisajátítási eljárásban benyújtott kisajátítási kérelemnek tartalmaznia kell az arra való utalást, hogy korábban a kisajátítási hatóság előzetes állásfoglalást adott ki, és a kérelemhez csatolni kell az előzetes állásfoglalást is. A kisajátítási hatóság az eljárás megindításáról szóló értesítéshez csatolja az előzetes állásfoglalást.
+(2) A tényleges kisajátítási eljárásban benyújtott kisajátítási kérelemnek tartalmaznia kell az arra való utalást, hogy korábban a kisajátítási hatóság előzetes állásfoglalást adott ki, és a kérelemhez csatolni kell az előzetes állásfoglalást is. A kisajátítási hatóság a függő hatályú döntéshez csatolja az előzetes állásfoglalást.
 
 (3) A tényleges kisajátítási eljárásban a kisajátítási hatóság a kisajátítás jogalapja tekintetében döntését az előzetes állásfoglalásban foglaltakra alapítja, kivéve, ha az attól való eltérést a 3. § (1) bekezdés b) pontjában foglalt feltétel tekintetében lefolytatott bizonyítás vagy a (4) bekezdésben foglaltak indokolják.
 

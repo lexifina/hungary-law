@@ -4,9 +4,9 @@ a) az ingatlanra feljegyzett tények megszűnéséért;
 
 b) az olyan épületért,
 
-ba) amelynél az építést, a használatbevételt vagy fennmaradást engedélyező jogerős határozat a későbbi lebontás esetére a kártalanítást kizárta,
+ba) amelynél az építést, a használatbevételt vagy fennmaradást engedélyező véglegessé vált határozat a későbbi lebontás esetére a kártalanítást kizárta,
 
-bb) amelynek a lebontását az építésügyi vagy az építésfelügyeleti hatóság jogerős döntéssel elrendelte.
+bb) amelynek a lebontását az építésügyi vagy az építésfelügyeleti hatóság véglegessé vált döntéssel elrendelte.
 
 (2)
 

@@ -4,13 +4,13 @@
 
 (3) A kisajátítást kérő a kifizetési kötelezettségét akkor teljesíti, amikor a pénzforgalmi számláját vezető pénzforgalmi szolgáltató a pénzforgalmi számlát a kártalanítás összegével megterheli vagy a (6) bekezdésben meghatározott esetekben a kisajátítást kérő a kártalanítási összeget bírósági letétbe helyezi.
 
-(4) A kártalanítási összeg a kisajátítási határozat jogerőre emelkedésével esedékes, és – az (5) bekezdésben foglalt kivétellel – ettől az időponttól kezdődően jár a Polgári Törvénykönyv szerinti késedelmi kamat is.
+(4) A kártalanítási összeg a kisajátítási határozat véglegessé válásával esedékes, és – az (5) bekezdésben foglalt kivétellel – ettől az időponttól kezdődően jár a Polgári Törvénykönyv szerinti késedelmi kamat is.
 
-(5) Ha a kártalanításra jogosultat a kártalanításról számlakiállítási kötelezettség terheli, a számlát legkésőbb a kisajátítási határozat jogerőre emelkedését követő 8 napon belül köteles a kisajátítást kérő részére megküldeni. A késedelmi kamat attól az időponttól kezdődően jár, amikor a számla a kisajátítást kérő részére kézbesítésre kerül.
+(5) Ha a kártalanításra jogosultat a kártalanításról számlakiállítási kötelezettség terheli, a számlát legkésőbb a kisajátítási határozat véglegessé válását követő 8 napon belül köteles a kisajátítást kérő részére megküldeni. A késedelmi kamat attól az időponttól kezdődően jár, amikor a számla a kisajátítást kérő részére kézbesítésre kerül.
 
 (6) A kártalanítási összeget bírósági letétbe kell helyezni, ha
 
-a) a kártalanításra jogosult személye bizonytalan, ideértve azt is, ha a közhiteles nyilvántartásba bejegyzett jogosult elhalálozott és az örökös ingatlanon fennálló jogának közhiteles nyilvántartásba történő bejegyzésére a kisajátítási határozat jogerőre emelkedésének időpontjáig nem került sor,
+a) a kártalanításra jogosult személye bizonytalan, ideértve azt is, ha a közhiteles nyilvántartásba bejegyzett jogosult elhalálozott és az örökös ingatlanon fennálló jogának közhiteles nyilvántartásba történő bejegyzésére a kisajátítási határozat véglegessé válásának időpontjáig nem került sor,
 
 b) a kártalanításra jogosult a kártalanítási összeget nem veszi át,
 

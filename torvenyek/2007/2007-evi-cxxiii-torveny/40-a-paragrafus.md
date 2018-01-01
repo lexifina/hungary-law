@@ -12,4 +12,4 @@ b) a jogalap fennállása esetén a kisajátítási kártalanítás – a járul
 
 (4) A kérelmezőnek az egész ingatlan kisajátítását kell kérnie és a kisajátítási hatóság ennek alapján vizsgálja a kisajátítás jogalapjának a fennállását és a kártalanítás összegének nagyságát.
 
-(5) Az előzetes eljárásra (ideértve a bírósági felülvizsgálatot is) – az eljárás tárgyából értelemszerűen következő, valamint az ezen alcímben kiemelt eltérésekkel – e törvénynek a kisajátításra vonatkozó általános rendelkezéseit kell megfelelően alkalmazni.
+(5) Az előzetes eljárásra (ideértve a közigazgatási pert is) – az eljárás tárgyából értelemszerűen következő, valamint az ezen alcímben kiemelt eltérésekkel – e törvénynek a kisajátításra vonatkozó általános rendelkezéseit kell megfelelően alkalmazni.

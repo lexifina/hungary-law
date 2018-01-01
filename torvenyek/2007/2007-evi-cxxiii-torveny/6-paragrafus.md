@@ -16,6 +16,6 @@ c) a visszamaradó rész gazdaságos értékesítése nem lehetséges.
 
 (5) A visszamaradó rész kisajátítását legkésőbb a kisajátítási tárgyalás befejezéséig lehet kérni.
 
-(6) A kisajátítással érintett ingatlan tulajdonosa az ingatlan tulajdonjogával a kisajátítási eljárás időtartama alatt csak a kisajátítást kérő javára vagy más részére a kisajátítást kérő hozzájárulásával rendelkezhet; erről a tulajdonost a kisajátítási eljárás megindításáról szóló értesítésben külön tájékoztatni kell. A kisajátítási hatóság a kisajátítási eljárás időtartamára az ingatlanra – a kisajátítást kérő javára – elidegenítési tilalmat jegyeztet fel az ingatlan-nyilvántartásban.
+(6) A kisajátítással érintett ingatlan tulajdonosa az ingatlan tulajdonjogával a kisajátítási eljárás időtartama alatt csak a kisajátítást kérő javára vagy más részére a kisajátítást kérő hozzájárulásával rendelkezhet; erről a tulajdonost a függő hatályú döntésben külön tájékoztatni kell. A kisajátítási hatóság a kisajátítási eljárás időtartamára az ingatlanra – a kisajátítást kérő javára – elidegenítési tilalmat jegyeztet fel az ingatlan-nyilvántartásban.
 
 (7) Ha az ingatlanra végrehajtási jog van bejegyezve, a kisajátítási eljárás megindítása tényének feljegyzését követően a végrehajtó a bírósági végrehajtásról szóló törvény által meghatározott külön szabályok szerint jár el.

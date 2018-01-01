@@ -16,7 +16,7 @@ e) mindazon egyéb jogosult, akinek az ingatlanra vonatkozó jogát a kisajátí
 
 (4) Az ügyféllel való postai úton történő kapcsolattartás esetén a kisajátítási hatóság
 
-a) a kisajátítási eljárás megindulásáról való értesítésről,
+a)
 
 b) a szakértői szemléről való értesítésről, és
 

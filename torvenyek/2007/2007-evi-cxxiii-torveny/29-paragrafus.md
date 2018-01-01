@@ -1,8 +1,8 @@
 29. § (1) A kisajátítási hatóságnak a kérelemnek helyt adó határozatában – a 29/A. §-ban foglalt kivétellel – külön kell rendelkeznie arról, hogy a kisajátított ingatlanért, az ingatlanra vonatkozóan más személyt megillető jogok megszűnéséért, továbbá a kisajátítással kapcsolatos értékveszteségért és költségekért milyen összegű kártalanítást, valamint – a döntés meghozatalakor már igazolt – járulékos költségekért milyen összegű megtérítést állapít meg.
 
-(2) Az (1) bekezdésben meghatározott kártalanítást, valamint megtérítést – kamatokkal együtt – a kisajátítási határozat jogerőre emelkedését követő 15 napon belül kell megfizetni és az azt követő 8 napon belül kell a kisajátítási hatóság részére a megfizetést igazolni.
+(2) Az (1) bekezdésben meghatározott kártalanítást, valamint megtérítést – kamatokkal együtt – a kisajátítási határozat véglegessé válását követő 15 napon belül kell megfizetni és az azt követő 8 napon belül kell a kisajátítási hatóság részére a megfizetést igazolni.
 
-(3) Csereingatlannal történő kártalanítás esetében a csereingatlant, valamint a kisajátítást kérőt terhelő értékkülönbözetet, továbbá az (1) bekezdésben meghatározott megtérítést a kisajátítási határozat jogerőre emelkedését követő 30 napon belül kell birtokba adni, illetve megfizetni és ennek megtörténtét az azt követő 8 napon belül a kisajátítási hatóság részére – a birtokba adást átadás-átvételt igazoló közokirattal vagy teljes bizonyító erejű magánokirattal – igazolni.
+(3) Csereingatlannal történő kártalanítás esetében a csereingatlant, valamint a kisajátítást kérőt terhelő értékkülönbözetet, továbbá az (1) bekezdésben meghatározott megtérítést a kisajátítási határozat véglegessé válását követő 30 napon belül kell birtokba adni, illetve megfizetni és ennek megtörténtét az azt követő 8 napon belül a kisajátítási hatóság részére – a birtokba adást átadás-átvételt igazoló közokirattal vagy teljes bizonyító erejű magánokirattal – igazolni.
 
 (4) A kisajátítási hatóság hivatalból vizsgálja a (2) és (3) bekezdésben foglalt kötelezettségek teljesítését.
 

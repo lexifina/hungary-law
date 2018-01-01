@@ -1,6 +1,6 @@
 ## Az ingatlan tulajdonának tehermentes megszerzése
 
-8. § (1) A kisajátítási határozat jogerőre emelkedésével – e törvény eltérő rendelkezése hiányában – az ingatlan tulajdonjogának tehermentes megszerzésére kerül sor.
+8. § (1) A kisajátítási határozat véglegessé válásával – e törvény eltérő rendelkezése hiányában – az ingatlan tulajdonjogának tehermentes megszerzésére kerül sor.
 
 (2) A kisajátítási határozatban rendelkezni kell az ingatlanra vonatkozóan más személyt megillető jogokról és az ingatlanra feljegyzett tényekről.
 

@@ -1,8 +1,8 @@
-37. § (1) A tulajdonváltozást az ingatlanügyi hatóság a jogerős kisajátítási határozat vagy – a kisajátítási tervben szereplő ingatlan adásvétel vagy csere útján történő megszerzése esetén – kérelem és adásvételi vagy csereszerződés alapján vezeti át az ingatlan-nyilvántartáson.
+37. § (1) A tulajdonváltozást az ingatlanügyi hatóság a véglegessé vált kisajátítási határozat vagy – a kisajátítási tervben szereplő ingatlan adásvétel vagy csere útján történő megszerzése esetén – kérelem és adásvételi vagy csereszerződés alapján vezeti át az ingatlan-nyilvántartáson.
 
 (2) Ha az (1) bekezdés szerinti tulajdonváltozás az ingatlannak csak egy részét érinti, a tulajdonváltozást és a földrészlet megosztását az ingatlanügyi hatóság
 
-a) kisajátítás esetén a földrészlet megosztására is kiterjedő jogerős kisajátítási határozat, valamint a kisajátítási terv,
+a) kisajátítás esetén a földrészlet megosztására is kiterjedő véglegessé vált kisajátítási határozat, valamint a kisajátítási terv,
 
 b) adásvétel vagy csere esetén kérelem, valamint adásvételi vagy csereszerződés, közös tulajdont megszüntető szerződés, továbbá a kisajátítási terv
 

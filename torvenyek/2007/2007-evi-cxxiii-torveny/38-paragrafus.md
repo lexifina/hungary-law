@@ -8,4 +8,4 @@
 
 (4) Nemzetgazdasági szempontból kiemelt jelentőségű beruházások céljára történő kisajátításhoz szükséges előmunkálat esetén a kisajátítást kérő önállóan is kérheti az előmunkálat engedélyezését.
 
-(5) Az előmunkálatot engedélyező határozat bírósági felülvizsgálata során a végrehajtás felfüggesztésének nincs helye.
+(5) Az előmunkálatot engedélyező határozat elleni közigazgatási per során azonnali jogvédelem biztosításának nincs helye.

@@ -1,4 +1,4 @@
-36. § (1) A kisajátítást elrendelő határozat jogerőre emelkedésével az ingatlan tulajdonjogát az állam, illetve a helyi önkormányzat szerzi meg.
+36. § (1) A kisajátítást elrendelő határozat véglegessé válásával az ingatlan tulajdonjogát az állam, illetve a helyi önkormányzat szerzi meg.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően a kisajátítási hatóság közvetlenül a kisajátítást kérő harmadik személy tulajdonába adja az ingatlant, ha a kisajátításra
 
