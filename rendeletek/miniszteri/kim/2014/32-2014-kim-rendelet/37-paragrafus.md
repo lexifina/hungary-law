@@ -1,5 +1,0 @@
-37. § (1) A más hatóság előtt megtett és az anyakönyvvezetőhöz az elektronikus rendszerben történő rögzítés érdekében megküldött apai elismerő nyilatkozatot az anyakönyvvezető az apai elismerő nyilatkozatok nyilvántartásával való összevetésre is kiterjedően ellenőrzi. A hibásan vagy hiányosan kitöltött nyilatkozatok esetén az anyakönyvvezető az apai elismerő nyilatkozatot felvevő szervet vagy az ügyfelet hiánypótlásra, vagy szükség esetén az ügyfelet személyes megjelenésre hívja fel. Az apai elismerő nyilatkozatok nyilvántartásában rögzített nyilatkozatot az anyakönyvvezető az apai elismerő nyilatkozattal összefüggésben nyilvántartott adatok törléséig őrzi.
-
-(2)[^61] Az anyakönyvvezető a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv kivételével kérelemre az arra jogosult részére az apai elismerő nyilatkozatok nyilvántartásából hatósági bizonyítványt állít ki.
-
-[^61]: A 37. § (2) bekezdése az 58/2016. (XII. 22. BM rendelet 44. § (20) bekezdés 3. pontja szerint módosított szöveg.

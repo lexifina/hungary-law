@@ -1,1 +1,0 @@
-## személyesen veszi át.

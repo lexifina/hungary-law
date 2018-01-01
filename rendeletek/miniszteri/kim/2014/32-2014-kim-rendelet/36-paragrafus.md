@@ -1,8 +1,0 @@
-36. § (1)[^59] A hivatásos konzuli tisztviselő által felvett apai elismerő nyilatkozatot az első diplomáciai postával – ha a gyermek Magyarországon született, a születés helye szerint illetékes anyakönyvi szervnek, ha az apai elismerő nyilatkozatot még meg nem született gyermekre tették, az apai elismerő nyilatkozat rögzítésére jogosult anyakönyvi szervnek – kell megküldeni. Az anyakönyvi szerv a megszületett gyermekre tett apai elismerő nyilatkozatot továbbítja a gyermek születésének helye szerint illetékes anyakönyvvezetőnek, kivéve, ha a bejegyzés teljesítésére maga jogosult. A születendő gyermekre tett apai elismerő nyilatkozatot a rögzítésre jogosult anyakönyvi szerv a gyermek születésének anyakönyvezéséig őrzi, majd a gyermek megszületése után továbbítja a születés helye szerint illetékes anyakönyvvezetőnek, külföldön történt születés esetében a hazai anyakönyvezés végzésére kijelölt anyakönyvi szervnek.
-
-(2)[^60] Ha a gyermek külföldön született, az (1) bekezdésben meghatározott apai elismerő nyilatkozatot – ha a születés hazai anyakönyvezése korábban nem történt meg, a hazai anyakönyvezésre irányuló kérelemmel együtt – közvetlenül a hazai anyakönyvezés végzésére kijelölt anyakönyvi szervnek kell megküldeni.
-
-(3) A hivatásos konzuli tisztviselő és a konzuli tanúsítvány kiállítására felhatalmazott tiszteletbeli konzul az előtte megtett, az apai elismerő nyilatkozatra vonatkozó hozzájáruló nyilatkozatot az (1) és a (2) bekezdés szerint küldi meg.
-
-[^59]: A 36. § (1) bekezdése az 58/2016. (XII. 22.) BM rendelet 44. § (9) bekezdésével megállapított szöveg.
-[^60]: A 36. § (2) bekezdése a 43/2015. (VII. 15.) BM rendelet 37. § 15. pontja, az 58/2016. (XII. 22.) BM rendelet 44. § (20) bekezdés 15. pontja szerint módosított szöveg.

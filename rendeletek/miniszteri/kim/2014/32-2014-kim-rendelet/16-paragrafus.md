@@ -1,3 +1,0 @@
-16. § (1) Az anyakönyvvezető a házasság megkötését, illetve a bejegyzett élettársi kapcsolat létesítését közvetlenül megelőzően ismételten vizsgálja, hogy a házasságkötésnek vagy a bejegyzett élettársi kapcsolat létesítésének nincs-e törvényi akadálya, és fennállnak-e a törvényes előfeltételek.
-
-(2) Az anyakönyvvezető a házasságkötésnél és a bejegyzett élettársi kapcsolat létesítésénél Magyarország címerével ellátott nemzetiszínű vállszalagot visel, és gondoskodik arról, hogy a házasságkötés és a bejegyzett élettársi kapcsolat létesítése a törvényben előírt módon történjék, annak időtartama alatt a felek és a tanúk, valamint szükség esetén a tolmács mindvégig folyamatosan jelen legyenek.
