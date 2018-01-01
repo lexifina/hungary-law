@@ -1,3 +1,3 @@
-3. melléklet az 51/2013. (IX. 6.) NFM rendelethez[^26]
+3. melléklet az 51/2013. (IX. 6.) NFM rendelethez[^22]
 
-[^26]: A 3. mellékletet a 4/2016. (III. 5.) NFM rendelet 6. §-a hatályon kívül helyezte.
+[^22]: A 3. mellékletet a 4/2016. (III. 5.) NFM rendelet 6. §-a hatályon kívül helyezte.

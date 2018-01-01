@@ -1,7 +1,8 @@
-## 7. § A 6. § (1) bekezdésében foglaltaknak megfelelően jóváhagyott küldeménydarab-minták alapján gyártott minden csomagolás egyedi sorozatszámát – az elkészültétől számított 30 napon belül – a gyártó köteles bejelenteni az OAH-nak.
+## 7. §[^15] Az OAH által jóváhagyott küldeménydarab-minták alapján gyártott minden csomagolás egyedi sorozatszámát – az elkészültétől számított 30 napon belül – a gyártó köteles bejelenteni az OAH-nak.
 
 8. § (1) Azokban az esetekben, amikor a veszélyes áruk szállításáról szóló jogszabályok a szállítást az útvonal teljes hosszára kiterjedő értesítési kötelezettséghez kötik, a nemzetközi értesítéseket az OAH adja meg.
 
-(2)[^19] Ha a járművön radioaktív anyagot tartalmazó berendezés állandó jelleggel történő vagy a radioaktív anyagot tartalmazó küldemény különleges elhelyezése miatt a jármű átalakítása válik szükségessé, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott átalakítási engedélyhez az OKI sugáregészségügyi szakvéleményét előzetesen be kell szerezni.
+(2)[^16]
 
-[^19]: A 8. § (2) bekezdése az 1/2017. (I. 3.) NFM rendelet 65. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^15]: A 7. § az 52/2017. (XII. 22.) NFM rendelet 29. § e) pontja szerint módosított szöveg.
+[^16]: A 8. § (2) bekezdését az 52/2017. (XII. 22.) NFM rendelet 30. § e) pontja hatályon kívül helyezte.

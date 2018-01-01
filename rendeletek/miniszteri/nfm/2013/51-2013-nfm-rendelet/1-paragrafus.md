@@ -6,4 +6,6 @@ a) a Magyar Honvédség és a rendvédelmi szervek által – a saját üzemelte
 
 b) a telephelyen belüli szállításra,
 
-c) a talált, illetve a lefoglalt radioaktív vagy nukleáris anyagokkal kapcsolatos intézkedésekről szóló kormányrendelet hatálya alá tartozó szállításokra.
+c)[^1] a hiányzó, a talált, valamint a lefoglalt nukleáris és más radioaktív anyagokkal kapcsolatos bejelentésekről és intézkedésekről, továbbá a nukleáris és más radioaktív anyagokkal kapcsolatos egyéb bejelentést követő intézkedésekről szóló kormányrendelet hatálya alá tartozó szállításokra.
+
+[^1]: Az 1. § (2) bekezdés c) pontja az 52/2017. (XII. 22.) NFM rendelet 29. § a) pontja szerint módosított szöveg.
