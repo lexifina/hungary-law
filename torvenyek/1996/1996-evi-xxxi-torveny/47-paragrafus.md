@@ -18,13 +18,15 @@ h) a központi és a területi katasztrófavédelmi szervet;
 
 i) a tűzvédelmi tervezői tevékenység folytatásának részletes feltételeit, a névjegyzék személyes adatot nem tartalmazó adattartalmát, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 
-j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzoltóság és önkéntes tűzoltó egyesület fenntartásához való hozzájárulásának részletes szabályait.
+j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzoltóság és önkéntes tűzoltó egyesület fenntartásához való hozzájárulásának részletes szabályait;
+
+k) a tűzesetek vizsgálatára vonatkozó eljárási szabályokat.
 
 (2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben határozza meg:
 
 1. az Országos Tűzvédelmi Szabályzatot,
 
-2. a tűzvédelmi szakértői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító bejelentés rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+2. a tűzvédelmi szakértői tevékenység folytatásának részletes feltételeit,
 
 3. a tűzesetek vizsgálatára vonatkozó szabályokat,
 
@@ -34,7 +36,7 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 6. a központi költségvetési előirányzat terhére igényelhető beruházási, fejlesztési támogatás pályázati rendszerét,
 
-7. a beépített tűzjelző berendezés vagy beépített tűzoltó berendezés létesítéséhez, átalakításához, bővítéséhez, használatbavételéhez és megszüntetéséhez szükséges engedély iránti kérelem tartalmát, a létesítési kötelezettség eseteit, valamint az engedélyezés feltételeit,
+7.
 
 8.
 
@@ -64,7 +66,7 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 23. a tűzvédelem műszaki követelményeinek megállapítását,
 
-24. az e törvény 12. § (1) bekezdésében meghatározott tevékenységek folytatásának részletes feltételeit, a tevékenységek bejelentésének és a tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+24. az e törvény 12. § (1) bekezdésében meghatározott tevékenységek folytatásának részletes feltételeit,
 
 25. az önkormányzati tűzoltóság legkisebb létszámára, létesítményeinek és felszereléseinek minimális mennyiségére, minőségére, a szolgálat ellátására, az egyenruházatra és viselésére, az egyenruházaton viselt jelzések rendjére, ki- és továbbképzésekre, az egyes beosztásokhoz szükséges személyi és anyagi feltételekre, a kitüntetések viselésének rendjére, az önkormányzati tűzoltó foglalkozás egészségügyi vizsgálata szempontjaira vonatkozó szabályokat,
 

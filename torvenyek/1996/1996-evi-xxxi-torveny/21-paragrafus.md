@@ -6,7 +6,7 @@
 
 (4)
 
-(5) A felelős műszaki vezető – annak hiányában a kivitelező – köteles a jogerős építési engedélyben, a tűzvédelmi dokumentációban és a műszaki előírásokban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
+(5) A felelős műszaki vezető – annak hiányában a kivitelező – köteles a végleges építési engedélyben, a tűzvédelmi dokumentációban és a műszaki előírásokban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
 
 (6) A felelős műszaki vezetőnek – annak hiányában a kivitelezőnek – az építőipari kivitelezési tevékenységek befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
 

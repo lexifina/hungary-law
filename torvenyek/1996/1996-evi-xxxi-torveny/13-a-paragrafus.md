@@ -4,8 +4,8 @@
 
 (3) A 13. § (1)–(3) bekezdés szerinti, a forgalomba hozatalhoz, forgalmazáshoz, beépítéshez szükséges irattal nem rendelkező termék forgalomba hozatalát, forgalmazását, beépítését a piacfelügyeleti hatóság megtiltja és piacfelügyeleti bírságot szabhat ki.
 
-(4) A piacfelügyeleti eljárásokban az ügyintézési határidő negyvenöt nap.
+(4)
 
-(5) A jogerősen kiszabott piacfelügyeleti bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A piacfelügyeleti bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.
+(5) A végleges döntéssel kiszabott piacfelügyeleti bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
 
 (6) A piacfelügyeleti hatóság a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, jogszabályok, valamint műszaki előírások alapján gyakorolja.

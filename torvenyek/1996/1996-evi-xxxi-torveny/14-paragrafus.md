@@ -1,6 +1,6 @@
 ## Tűzvizsgálati feladatok
 
-14. § (1) A tűzvizsgálati eljárás ügyintézési határideje harmincöt nap.
+14. § (1)
 
 (2) A tűzvizsgálati eljárás során tartandó szemle a tűz keletkezési okának egyértelmű megállapítása és a bizonyítékok megsemmisülésének megelőzése érdekében haladéktalanul megtartható.
 
