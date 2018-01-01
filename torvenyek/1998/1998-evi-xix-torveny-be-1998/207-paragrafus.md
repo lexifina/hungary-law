@@ -16,7 +16,7 @@ e) a 70/B. § (8) bekezdése, a 149. § (3) bekezdése, a 150. § (2) bekezdése
 
 f) a vádirat benyújtása előtt az ügyész indítványára a 82. § (1) bekezdés d) pontja alapján a tanúvallomást megtagadó személynek a számára információt átadó személy kilétének felfedésére kötelezéséről a 82. § (6) bekezdése szerint,
 
-g) a vádirat benyújtása előtt az 54. § (2a) bekezdés szerinti polgári jogi igénynek és ideiglenes intézkedés iránti kérelemnek a Polgári perrendtartás szerint hatáskörrel és illetékességgel rendelkező bíróságnak történő megküldése kérdésében.
+g) a vádirat benyújtása előtt az 54. § (2a) bekezdés szerinti polgári jogi igénynek és ideiglenes intézkedés iránti kérelemnek a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróságnak történő megküldése kérdésében.
 
 (2a) A nyomozás megszüntetését követően a nyomozás folytatása nyomozási bíró általi elrendelésének indítványozását az ügyésznél lehet kezdeményezni.
 

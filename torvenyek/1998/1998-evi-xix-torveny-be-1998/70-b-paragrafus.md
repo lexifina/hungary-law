@@ -20,8 +20,22 @@ b) a sértett és képviselője másolatot kaphat a nyomozás azon iratairól, a
 
 (8) A másolat kiadása ellen nincs helye jogorvoslatnak. A kiadás megtagadása miatt külön jogorvoslatnak van helye.
 
-(9) Az ügy irataiban fel kell jegyezni, hogy mely iratról, kinek a részére, hány példányban készült másolat.
+(9) Az ügy irataiban fel kell jegyezni, hogy másolat kiadására mely iratról, kinek a részére, milyen formában került sor.
 
 (10) Az eljárás jogerős befejezését követően az első fokon eljárt bíróság, a nyomozás megszüntetését követően az ügyész, illetve a nyomozó hatóság, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az ügyész a büntetőeljárásban részt vevő személyek kérelmére – a (6)–(8) bekezdésben meghatározottak szerint – legkésőbb a kérelem előterjesztésétől számított nyolc napon belül az eljárás során keletkezett iratról másolatot ad ki.
 
-(11) Aki az (1)–(7) vagy a (10) bekezdés alapján az eljárás során keletkezett iratról másolatot kaphat, kérheti, hogy a másolatot a bíróság, az ügyész, illetve a nyomozó hatóság elektronikus úton vagy elektronikus adathordozón adja ki. Ha a bíróságnál, az ügyésznél, illetve a nyomozó hatóságnál a kiadni kért irat elektronikus formában rendelkezésre áll, a másolatot elektronikus úton vagy elektronikus adathordozón kell kiadni. Az így kiadott másolat nem hiteles.
+(11) Aki az (1)–(7) vagy a (10) bekezdés alapján az eljárás során keletkezett iratról másolatot kaphat, kérheti, hogy a másolatot a bíróság, az ügyész, illetve a nyomozó hatóság elektronikus formában adathordozón vagy az általa megjelölt elektronikus levelezési címre adja ki, ha az
+
+a) elektronikus formában,
+
+b) elektronikus okiratként, vagy
+
+c) a papíralapú okirat elektronikus másolataként
+
+az eljáró bíróságnál, ügyésznél, illetve nyomozó hatóságnál rendelkezésre áll.
+
+(12) A másolat akkor áll elektronikus formában rendelkezésre, ha a bíróság, az ügyész, illetve a nyomozó hatóság a papíralapú iratot információs rendszer alkalmazásával szerkesztette meg. Az elektronikus formában rendelkezésre álló, a (11) bekezdés szerint kiadott másolat nem hiteles.
+
+(13) Ha a másolat (11) bekezdés szerinti elektronikus levelezési címre történő kiadása nem teljesíthető, a bíróság, az ügyész, illetve a nyomozó hatóság a másolatot adathordozón adja ki vagy az indítványozót az általa megjelölt elektronikus levelezési cím útján tájékoztatja arról, hogy az eljárás során keletkezett iratról az (1)–(7) vagy a (10) bekezdés alapján kaphat másolatot.
+
+(14) A másolat kiadására vonatkozó jogosultságok gyakorlása érdekében a bíróság, az ügyész, illetve a nyomozó hatóság a másolat kiadására jogosultak számára az iratokhoz való elektronikus hozzáférés lehetőségét jogszabályban meghatározottak szerint biztosítja.

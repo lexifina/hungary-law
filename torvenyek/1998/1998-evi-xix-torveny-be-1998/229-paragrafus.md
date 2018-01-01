@@ -6,4 +6,4 @@
 
 (3) A sértettet tájékoztatni kell a pótmagánvádlóként történő fellépés feltételeiről, valamint arról, hogy ha jövedelmi és vagyoni viszonyai folytán nem tud jogi képviseletéről gondoskodni, személyes költségmentesség és pártfogó ügyvédi képviselet engedélyezése iránt a jogi segítségnyújtó szolgálathoz fordulhat.
 
-(4) Ha a sértett a személyes költségmentesség és a pártfogó ügyvédi képviselet engedélyezése iránt kérelmet terjesztett elő, az (1) bekezdés szerinti határidőt a kérelem tárgyában hozott jogerős határozat közlésétől kell számítani. Erről a sértettet tájékoztatni kell.
+(4) Ha a sértett a személyes költségmentesség és a pártfogó ügyvédi képviselet engedélyezése iránt kérelmet terjesztett elő, az (1) bekezdés szerinti határidőt a kérelem tárgyában hozott jogerős vagy végleges határozat közlésétől kell számítani. Erről a sértettet tájékoztatni kell.

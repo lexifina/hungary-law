@@ -26,7 +26,7 @@ l) a hivatali visszaélés (Btk. 305. §);
 
 m) a nemzetközileg védett személy elleni erőszak (Btk. 313. §);
 
-n) a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318. §), a jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a különösen nagy vagy ezt meghaladó kárt okozva elkövetett közveszély okozása [Btk. 322. § (2) bekezdés b) pont], a különösen nagy vagy a különösen jelentős kárt okozva elkövetett közérdekű üzem működésének megzavarása [Btk. 323. § (2) bekezdés c) pont és (3) bekezdés c) pont];
+n) a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318. és 318/A. §) vagy háborús uszítás (Btk. 331. §), a jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a különösen nagy vagy ezt meghaladó kárt okozva elkövetett közveszély okozása [Btk. 322. § (2) bekezdés b) pont], a különösen nagy vagy a különösen jelentős kárt okozva elkövetett közérdekű üzem működésének megzavarása [Btk. 323. § (2) bekezdés c) pont és (3) bekezdés c) pont];
 
 o) a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §);
 

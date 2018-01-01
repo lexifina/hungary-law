@@ -8,7 +8,7 @@
 
 (5) A terheltnek a lefoglalt dolgot csak akkor lehet kiadni, ha azt a (2)–(4) bekezdés szerint másnak nem lehet kiadni.
 
-(6) A terhelttől lefoglalt dolog a bíróság határozata alapján az állam tulajdonába kerül, ha az kétségtelenül mást illet, de akinek a kiléte nem állapítható meg. A később jelentkező igénylő a dolog kiadását, illetőleg az értékesítésből származó ellenértékét igényelheti. Az igénylő kérelme tárgyában a Polgári perrendtartás szerint hatáskörrel és illetékességgel rendelkező bíróság határoz.
+(6) A terhelttől lefoglalt dolog a bíróság határozata alapján az állam tulajdonába kerül, ha az kétségtelenül mást illet, de akinek a kiléte nem állapítható meg. A később jelentkező igénylő a dolog kiadását, illetőleg az értékesítésből származó ellenértékét igényelheti. Az igénylő kérelme tárgyában a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróság határoz.
 
 (7) A lefoglalás megszüntetése esetén, ha a dolog természetben már nem adható ki, a dolog előzetes értékesítéséből befolyt ellenértéket alapul véve, a kezeléséből, tárolásából eredő költséggel csökkentett összegét kell megtéríteni. Nem közösségi áru esetén a vámjogszabályban meghatározott elszámolást követően kell kifizetni az értékesítésből befolyt ellenértéket. A jogosult az ezt meghaladó igényét a polgári jog szabályai szerint érvényesítheti. Ha a lefoglalás alaptalan volt, a dolog előzetes értékesítéséből befolyt ellenérték a dolog kezeléséből, tárolásából eredő költséggel nem csökkenthető. Erről a lefoglalás megszüntetéséről határozatot hozó bíróság, ügyész, illetőleg nyomozó hatóság a határozatában dönt.
 

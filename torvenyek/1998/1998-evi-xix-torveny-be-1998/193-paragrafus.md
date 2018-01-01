@@ -1,6 +1,6 @@
 ## A nyomozás iratainak megismerése
 
-193. § (1) A nyomozás elvégzése után az ügyész vagy – ha az ügyész másképp nem rendelkezik – a nyomozó hatóság a gyanúsítottnak és a védőnek az erre kijelölt helyiségben átadja a nyomozás összefűzött iratait. Lehetővé kell tenni, hogy a gyanúsított és a védő az esetleges vádemelés alapjául szolgáló összes iratot – kivéve a zártan kezelt iratokat – megismerhesse.
+193. § (1) A nyomozás elvégzése után az ügyész vagy – ha az ügyész másképp nem rendelkezik – a nyomozó hatóság a gyanúsítottnak és a védőnek az erre kijelölt helyiségben átadja a nyomozás iratait. Lehetővé kell tenni, hogy a gyanúsított és a védő az esetleges vádemelés alapjául szolgáló összes iratot – kivéve a zártan kezelt iratokat – megismerhesse.
 
 (2) Az iratok megtekintésének határnapjáról a gyanúsítottat és a védőt értesíteni kell, a fogva levő gyanúsítottat a határnapra – kérésére – elő kell állítani. A gyanúsított és a védő a nyomozás kiegészítését indítványozhatja, egyéb indítványokat és észrevételeket tehet, az iratokról másolatot kérhet. A gyanúsítottat erre a jogára figyelmeztetni kell.
 

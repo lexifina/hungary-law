@@ -6,7 +6,7 @@
 
 (3) Ha a sértett pótmagánvádlóként kíván fellépni, a vádindítványt az ügyben addig eljárt bírósághoz nyújtja be. A pótmagánvádló jogi képviselete a vádindítvány benyújtásától kezdve kötelező.
 
-(4) Ha a sértett a személyes költségmentesség és a pártfogó ügyvédi képviselet engedélyezése iránt kérelmet terjesztett elő, az (1) bekezdés szerinti határidőt a kérelem tárgyában hozott jogerős határozat közlésétől kell számítani.
+(4) Ha a sértett a személyes költségmentesség és a pártfogó ügyvédi képviselet engedélyezése iránt kérelmet terjesztett elő, az (1) bekezdés szerinti határidőt a kérelem tárgyában hozott jogerős vagy végleges határozat közlésétől kell számítani.
 
 (5) Ha a sértett a (4) bekezdés szerinti kérelmet terjesztett elő, erről a kérelem előterjesztésétől számított nyolc napon belül tájékoztatja az ügyben addig eljárt bíróságot. A tájékoztatás elmulasztása esetén a (4) bekezdés szerinti határidő-számítás nem alkalmazható. Erre a sértettet figyelmeztetni kell.
 

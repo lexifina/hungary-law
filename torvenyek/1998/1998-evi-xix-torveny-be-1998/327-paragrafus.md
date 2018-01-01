@@ -6,6 +6,8 @@
 
 (2a) Az előzetes letartóztatás elrendelése esetén az 51. § (4) bekezdésében foglalt jogáról a sértettet, illetve az 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személyt tájékoztatni kell.
 
+(2b) Ha a terhelt egyévesnél fiatalabb gyermekét gondozó nő, kérelmére a bíróság – kivéve, ha a terhelt a gyermeke sérelmére követte el az eljárás alapjául szolgáló bűncselekményt – az előzetes letartóztatást elrendelő határozatban a gyermeknek a büntetés-végrehajtási intézet anya-gyermek együttes elhelyezést biztosító részlegén való ideiglenes hatályú elhelyezéséről rendelkezik. A terheltet a határozat meghozatala előtt nyilatkoztatni kell arról, hogy kéri-e az együttes elhelyezést.
+
 (3) A vádlott felmentése, próbára bocsátása, számára jóvátételi munka végzésének előírása, az eljárás megszüntetése esetén, vagy ha a bíróság nem szabott ki végrehajtandó vagy részben felfüggesztett szabadságvesztést, nem rendelt el javítóintézeti nevelést, illetve ha a felmentés esetén nem rendelt el kényszergyógykezelést, az előzetes letartóztatást, a lakhelyelhagyási tilalmat, a házi őrizetet, a távoltartást, illetve az ideiglenes kényszergyógykezelést megszünteti, és nyomban intézkedik a vádlott szabadlábra helyezéséről.
 
 (4) Az ítélet jogerőre emelkedése esetén, ha ennek feltételei fennállnak, a bíróság lehetőleg azonnal lefolytatja az összbüntetési eljárást.

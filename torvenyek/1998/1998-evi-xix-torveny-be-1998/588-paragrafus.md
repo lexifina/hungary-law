@@ -24,7 +24,7 @@ d) a harmadfokú bíróság a fellebbezést elutasította, vagy a másodfokú b�
 
 (4) A harmadfokú bíróság ítélete azon a napon emelkedik jogerőre, amelyen azt meghozták.
 
-(5) Az ügydöntő határozat jogerőre emelkedése után a jogerőt és a határozat végrehajthatóságát a tanács elnöke a határozat eredeti példányára vezetett záradékkal tanúsítja, amelyben feltünteti mind a jogerő, mind a végrehajthatóság napját.
+(5) Az ügydöntő határozat jogerőre emelkedése után a jogerőt és a határozat végrehajthatóságát a tanács elnöke záradékkal tanúsítja, amelyben feltünteti mind a jogerő, mind a végrehajthatóság napját.
 
 (6) A határozat részleges jogerőre emelkedése esetén a záradékban fel kell tüntetni azt a napot, amelyen a határozat részlegesen jogerőre emelkedett, valamint azt, hogy az mely részében lett jogerős, és mely rendelkezése hajtható végre.
 

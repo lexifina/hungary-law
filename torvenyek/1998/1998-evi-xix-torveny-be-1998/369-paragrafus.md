@@ -1,6 +1,6 @@
 ## Intézkedések a másodfokú bírósági eljárás befejezése után
 
-369. § (1) A másodfokú bírósági eljárás befejezése után a másodfokú bíróság a határozatainak kiadmányait kézbesíti, és ha a másodfokú határozat ellen nem jelentettek be fellebbezést, vagy azt a másodfokú bíróság elutasította, az ügy iratait a határozatának kiadmányaival és a tárgyalásról, illetve nyilvános ülésről készült jegyzőkönyvvel visszaküldi az első fokú bíróságnak.
+369. § (1) A másodfokú bírósági eljárás befejezése után a másodfokú bíróság a határozatát kézbesíti, és ha a másodfokú határozat ellen nem jelentettek be fellebbezést, vagy azt a másodfokú bíróság elutasította, az ügy iratait a határozatával és a tárgyalásról, illetve nyilvános ülésről készült jegyzőkönyvvel visszaküldi az első fokú bíróságnak.
 
 (2) A törvényben kizárt, az arra nem jogosulttól származó vagy az elkésett, a másodfokú bíróság határozata elleni fellebbezést a másodfokú bíróság elutasítja.
 

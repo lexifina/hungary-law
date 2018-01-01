@@ -8,7 +8,7 @@
 
 (4) Ha a megkeresés eredményeként olyan személyes adat jut a megkereső tudomására, amely a megkeresés céljával nem függ össze, az adatot törölni kell.
 
-(5) Ha a (4) bekezdésben meghatározott személyes adat az irat eredeti példányában található, a megkeresés céljával összefüggő személyes adatról kivonatot kell készíteni, és ezzel egyidejűleg az eredeti iratot a megkeresettnek vissza kell küldeni.
+(5) Ha a (4) bekezdésben meghatározott személyes adat az iratban található, a megkeresés céljával összefüggő személyes adatról kivonatot kell készíteni, és ezzel egyidejűleg az eredeti iratot a megkeresettnek vissza kell küldeni.
 
 (6) Ha a megkeresett szerv a megkeresést a megállapított határidőn belül nem teljesíti, vagy a megkeresés teljesítését jogosulatlanul megtagadja, rendbírsággal sújtható. A teljesítés jogosulatlan megtagadása esetén – a rendbírság kiszabása mellett, ha a törvényi feltételek fennállnak – az e törvényben meghatározott kényszerintézkedés is elrendelhető.
 

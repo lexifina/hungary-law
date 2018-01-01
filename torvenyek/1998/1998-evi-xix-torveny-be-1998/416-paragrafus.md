@@ -34,4 +34,4 @@ c) ha a törvénysértés különleges eljárás (XXIX. Fejezet I–II. Cím) le
 
 d) a terhelt terhére az (1) bekezdés a) pontjában írt okból magánvádas eljárásban vagy pótmagánvád alapján folytatott eljárásban.
 
-(5) A büntetőügyben hozott jogerős határozatnak kizárólag a polgári jogi igény vagy a szülői felügyeleti jog megszüntetése kérdésében hozott rendelkezése ellen a Polgári perrendtartás szabályai szerint van helye felülvizsgálati kérelem előterjesztésének.
+(5) A büntetőügyben hozott jogerős határozatnak kizárólag a polgári jogi igény vagy a szülői felügyeleti jog megszüntetése kérdésében hozott rendelkezése ellen a polgári perrendtartásról szóló törvény szabályai szerint van helye felülvizsgálati kérelem előterjesztésének.

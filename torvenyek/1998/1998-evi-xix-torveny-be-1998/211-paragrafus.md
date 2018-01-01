@@ -2,6 +2,8 @@
 
 (1a) Ha az indítvány tárgya előzetes letartóztatás elrendelése, a gyanúsítottnak és a védőnek megküldött indítványhoz csatolni kell azoknak a nyomozási iratoknak a másolatát, amelyekre az indítványt alapozzák. Ha az indítvány tárgya az előzetes letartóztatás meghosszabbítása, a gyanúsítottnak és a védőnek megküldött indítványhoz csatolni kell azoknak az indítványt megalapozó nyomozási iratoknak a másolatát, amelyek az előzetes letartóztatás tárgyában hozott legutóbbi döntést követően keletkeztek.
 
+(1b) Ha az indítvány tárgya előzetes letartóztatás elrendelése, és a terhelt egyévesnél fiatalabb gyermekét gondozó nő, a nyomozási bíró – kivéve, ha a terhelt a gyermeke sérelmére követte el az eljárás alapjául szolgáló bűncselekményt – nyilatkoztatja a terheltet arról, hogy az előzetes letartóztatás elrendelése esetén kéri-e a gyermekével való együttes elhelyezését.
+
 (2) Ha az ülésen az indítványozó nem jelenik meg, ezt úgy kell tekinteni, hogy az indítványt visszavonta. Ha az indítvány tárgya az ideiglenes kényszergyógykezelés elrendelése, és a gyanúsított az állapota miatt nem jelenhet meg, vagy a jogainak gyakorlására képtelen, az ülés a védő távollétében nem tartható meg.
 
 (3) Az ülésen az indítványozó az indítványt megalapozó bizonyítékokat írásban előterjeszti, vagy szóban előadja. A jelenlevőknek módot kell adni arra, hogy az indítványozó bizonyítékait – a 186. § keretei között – megismerjék. Ha az értesített nem jelent meg, de az észrevételét írásban benyújtotta, ezt a nyomozási bíró ismerteti.
@@ -10,4 +12,14 @@
 
 (4a) Ha az illetékességi területén van tizennegyedik életévét be nem töltött személy meghallgatására szolgáló helyiség, a nyomozási bíró a tizennegyedik életévét meg nem haladott tanú meghallgatása esetén az ülést ilyen helyiségben is megtarthatja.
 
-(5) A nyomozási bíró az ülést zártcélú távközlő hálózat útján is megtarthatja. Az ülésen védő részvétele kötelező, a védőnek az ülés tartama alatt a gyanúsítottal azonos helyen kell tartózkodnia. A zártcélú távközlő hálózat útján történő ülésre a 244/A–244/D. § rendelkezéseit kell alkalmazni.
+(5) A nyomozási bíró az ülést zártcélú távközlő hálózat útján is megtarthatja. A zártcélú távközlő hálózat útján történő ülésre a (6)–(8) bekezdésben meghatározott kivétellel a 244/A–244/D. § rendelkezéseit kell alkalmazni.
+
+(6) A nyomozási bíró az előzetes letartóztatás meghosszabbítása tárgyában tartott ülést abban az esetben is megtarthatja zártcélú távközlő hálózat útján, ha a 244/A. § (2) bekezdés e) vagy f) pontjában meghatározott feltételek nem állnak fenn.
+
+(7) Az előzetes letartóztatás meghosszabbítása tárgyában tartott ülés esetén a nyomozási bíró a terhelt zártcélú távközlő hálózat útján történő kihallgatását az ülés határnapjának meghatározásával egyidejűleg rendeli el, amelyről értesíti a fogva tartást végrehajtó intézetet, az ügyészt, a terheltet és a védőt. Ilyen esetben a határozatot az ülés határnapja előtt kevesebb, mint öt nappal is meg lehet hozni. A bíróság határozatát nem kell indokolni.
+
+(8) Az előzetes letartóztatás meghosszabbítása tárgyában zártcélú távközlő hálózat útján tartott ülés esetén
+
+a) a kihallgatás helye szerint illetékes bíróság bírájának a 244/B. § (2) bekezdésében meghatározott feladatait a fogvatartást végrehajtó intézetnek a fogvatartott személy személyazonosságának megállapítására feljogosított dolgozója is elláthatja, illetve
+
+b) a 244/D. § (1) bekezdése szerinti jegyzőkönyvet nem kell készíteni, a 244/D. § (1) bekezdésében meghatározott adatokat az ülésről készült jegyzőkönyvben kell rögzíteni.

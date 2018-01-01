@@ -10,7 +10,7 @@ b) a pótmagánvádlót és pártfogó ügyvédjét a büntetőügy iratairól k
 
 c) a pártfogó ügyvéd díját és igazolt készkiadását pedig az állam előlegezi.
 
-(4) Ha a pótmagánvádló a személyes költségmentesség és a pártfogó ügyvédi képviselet engedélyezése iránt kérelmet terjesztett elő, a (2) bekezdés szerinti tizenöt napos határidőt a kérelem tárgyában hozott jogerős határozat közlésétől kell számítani.
+(4) Ha a pótmagánvádló a személyes költségmentesség és a pártfogó ügyvédi képviselet engedélyezése iránt kérelmet terjesztett elő, a (2) bekezdés szerinti tizenöt napos határidőt a kérelem tárgyában hozott jogerős vagy végleges határozat közlésétől kell számítani.
 
 (5) Ha a pótmagánvádló a (4) bekezdés szerinti kérelmet terjesztett elő, erről a kérelem előterjesztésétől számított nyolc napon belül tájékoztatja az ügyben addig eljárt bíróságot. A tájékoztatás elmulasztása esetén a (4) bekezdés szerinti határidő-számítás nem alkalmazható. Erre a pótmagánvádlót figyelmeztetni kell.
 

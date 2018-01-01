@@ -10,11 +10,11 @@ c) hivatalból vagy indítványra felfüggeszti, és a Kúria eljárását kezde
 
 d) hivatalból vagy indítványra felfüggeszti, ha az Európai Unióról szóló szerződésben, illetve az Európai Unió működéséről szóló szerződésben foglalt szabályok szerint az Európai Unió Bíróságának előzetes döntéshozatali eljárását kezdeményezi. E határozatban meghatározza azt a kérdést, amely az Európai Unió Bíróságának előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és az érintett magyar jogszabályokat. A határozatot az Európai Unió Bíróságának, továbbá tájékoztatásul az igazságügyért felelős miniszternek is megküldi,
 
-e) hivatalból felfüggeszti, ha az ügyész a 178/B. § (2) vagy (4) bekezdése alapján kezdeményezte a vádlottal szemben a külföldi ítélet nemzetközi bűnügyi jogsegélyről szóló törvény szerinti elismerési eljárásának lefolytatását, de az a bizonyítási eljárás lefolytatásáig nem fejeződött be,
+e) hivatalból felfüggeszti, ha a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését kezdeményezte, és további, Magyarországon elvégzendő eljárási cselekmény nincs, valamint az eljárás a külföldi ítélet elismerése vagy a tagállami ítélet megfeleltetése nélkül nem folytatható,
 
-f) hivatalból felfüggeszti, ha az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján konzultációs eljárás lefolytatására kerül sor.
+f) hivatalból felfüggeszti, ha az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján konzultációs eljárás lefolytatására kerül sor, és további, Magyarországon elvégzendő eljárási cselekmény már nincs, valamint a vádlott nem áll személyi szabadságot elvonó vagy korlátozó kényszerintézkedés hatálya alatt.
 
-(2) A bíróság az eljárást akkor is felfüggeszti, ha az eljárás megindításához szükséges feljelentés [Btk. 270. § (1) bekezdés, 274. §] hiányzik. Az eljárás felfüggesztése legfeljebb az alapügy jogerős befejezéséig tart.
+(2) A bíróság az eljárást akkor is felfüggeszti, ha az eljárás megindításához szükséges feljelentés [Btk. 270. § (1) bekezdés, 274. §] hiányzik. Az eljárás felfüggesztése legfeljebb az alapügy jogerős vagy végleges befejezéséig tart.
 
 (3) A bíróság az eljárást felfüggesztheti,
 

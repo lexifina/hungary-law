@@ -10,7 +10,7 @@ c) az elkövető kiléte a nyomozásban nem volt megállapítható,
 
 d) az eljárás lefolytatásához előzetes kérdésben hozott döntést kell beszerezni,
 
-e) jogsegély iránti megkeresés külföldi hatóság általi teljesítése szükséges és további, Magyarországon elvégzendő nyomozási cselekmény már nincs,
+e) jogsegély külföldi vagy tagállami hatóság általi végrehajtása vagy teljesítése szükséges, és további, Magyarországon elvégzendő eljárási cselekmény már nincs,
 
 f) nem magyar állampolgár által külföldön elkövetett bűncselekmény miatt a büntetőeljárás megindításához szükséges döntést kell beszerezni,
 
@@ -18,9 +18,11 @@ g) nemzetközi büntető bíróság a joghatóságába tartozó ügyben a magyar
 
 h) a kábítószer-élvező gyanúsított önként alávetette magát a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételnek, és az a büntethetőség megszűnését eredményezheti, feltéve hogy további nyomozási cselekmény elvégzése nem szükséges,
 
-i) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján konzultációs eljárás lefolytatására kerül sor,
+i) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján konzultációs eljárás lefolytatására kerül sor, és további, Magyarországon elvégzendő eljárási cselekmény már nincs, valamint a gyanúsított nem áll személyi szabadságot elvonó vagy korlátozó kényszerintézkedés hatálya alatt,
 
-j) az eljárás azért nem folytatható, mert a külföldi igazságügyi hatóság a terhelt kiadatásának vagy átadásának a végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta, és az eljárás a terhelt távollétében nem folytatható.
+j) az eljárás azért nem folytatható, mert a külföldi igazságügyi hatóság a terhelt kiadatásának vagy átadásának a végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta, és az eljárás a terhelt távollétében nem folytatható,
+
+k) a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését kezdeményezte, és további, Magyarországon elvégzendő eljárási cselekmény már nincs, valamint az eljárás a külföldi ítélet elismerése vagy a tagállami ítélet megfeleltetése nélkül nem folytatható.
 
 (2) A nyomozást folytatni kell, ha a felfüggesztés oka megszűnt, illetve az (1) bekezdés g) pontja esetén, ha a nemzetközi büntető bíróság alapokmányát kihirdető, illetve alapokmányából fakadó kötelezettségek végrehajtásáról szóló törvény azt előírja. A nyomozás folytatását elrendelő határozat ellen nincs helye panasznak.
 

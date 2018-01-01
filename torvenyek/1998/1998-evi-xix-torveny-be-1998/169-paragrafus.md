@@ -16,7 +16,7 @@ d) hogy ellene van-e helye jogorvoslatnak, és azt milyen határidőn belül, me
 
 (4) A határozatot jegyzőkönyvbe, vagy más módon írásba kell foglalni, és azzal kell közölni, akire a rendelkezése vonatkozik, továbbá azzal is, akinek az eljárási jogait érinti. A gyanúsítottal közölt határozatot a védővel is közölni kell. A határozatot a jelenlevőknek át kell adni, és szóban is közölni kell, egyébként pedig kézbesítés útján kell közölni.
 
-(5) Ha névcsere, szám- vagy számítási hiba és más hasonló elírás történt, az ügyész, illetőleg a nyomozó hatóság a határozat kijavítását mind indítványra, mind hivatalból elrendelheti. A kijavítást a határozatra fel kell jegyezni.
+(5) Ha névcsere, szám- vagy számítási hiba és más hasonló elírás történt, az ügyész, illetve a nyomozó hatóság a határozat kijavítását mind indítványra, mind hivatalból elrendelheti. A kijavítást a határozatra fel kell jegyezni. Elektronikus irat kijavítását a kijavítandó rész megjelölésével külön elektronikus iratban kell elkészíteni.
 
 II. CÍM
 

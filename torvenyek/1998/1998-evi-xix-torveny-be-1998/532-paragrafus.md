@@ -24,6 +24,8 @@ b) külföldön fogvatartásban van,
 
 az (1) bekezdésben meghatározottak megfelelő alkalmazásával a bíróság felhívhatja az ügyészt, hogy az (1) bekezdés alapján kívánja-e indítványozni a tárgyalásnak a terhelt távollétében történő folytatását.
 
+(2a) A külföldön fogvatartásban lévő terhelt távollétében az eljárás lefolytatásának az (1) és (2) bekezdésben meghatározott feltételek esetén is csak akkor van helye, ha a terhelt részvétele az eljárásban, illetve jelenléte az eljárási cselekményen eljárási jogsegélykérelem előterjesztésével nem biztosítható, vagy ezek alkalmazását a bűncselekmény tárgyi súlya, illetve az ügy megítélése nem indokolja.
+
 (3) Ha a terhelt külföldön fogvatartásban van, az (1) és (2) bekezdés alapján az eljárás terhelt távollétében történő folytatásának csak a terhelt hozzájárulásával van helye. Ha terhelt az eljárás folytatásához nem járul hozzá, a bíróság az eljárást felfüggeszti.
 
 (4) Ha az ismeretlen helyen tartózkodó vádlott távollétében megkezdett tárgyalás során állapítják meg, hogy a terhelt külföldön ismert helyen tartózkodik, a bíróság az (1)–(3) bekezdés alkalmazásával az ügyész felhívása nélkül folytatja a tárgyalást.

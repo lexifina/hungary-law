@@ -12,6 +12,6 @@ e) a polgári jogi igény egyéb törvényes útra utasítása esetén az ügyé
 
 (2) Az (1) bekezdés a), d) és e) pontja szerinti határidőt a zár alá vételt feloldó, a nyomozást megszüntető, a polgári jogi igény megítélésére, illetve az egyéb törvényes útra utasítására vonatkozó határozat közlésétől kell számítani.
 
-(3) Az 54. § (2a) bekezdése szerinti polgári jogi igénynek a Polgári perrendtartás szerint határkörrel és illetékességgel rendelkező bíróságnak történő megküldése esetén a zár alá vételt nem kell feloldani.
+(3) Az 54. § (2a) bekezdése szerinti polgári jogi igénynek a polgári perrendtartásról szóló törvény szerint határkörrel és illetékességgel rendelkező bíróságnak történő megküldése esetén a zár alá vételt nem kell feloldani.
 
 (4) A zár alá vételt a vádirat benyújtásáig az ügyész is feloldhatja.

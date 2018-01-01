@@ -4,7 +4,7 @@
 
 (3) A bíróság, az ügyész, illetőleg a nyomozó hatóság a 47. § (1) bekezdésében felsoroltak kérelmére vagy hivatalból védőt rendel ki, ha ezt a terhelt érdekében szükségesnek tartja.
 
-(4) Ha a terhelt, vagy más erre jogosult a terhelt védelméről meghatalmazás útján gondoskodik, a bíróság, az ügyész, illetőleg a nyomozó hatóság a védő kirendelését visszavonja. A kirendelés a visszavonással hatályát veszti.
+(4) Ha a terhelt, vagy más erre jogosult a terhelt védelméről meghatalmazás útján gondoskodik, ideértve a meghatalmazás rendelkezési nyilvántartásba vételének bejelentését is, a bíróság, az ügyész, illetve a nyomozó hatóság a védő kirendelését visszavonja. A kirendelés a visszavonással hatályát veszti.
 
 (5) A védő kirendelése ellen nincs helye jogorvoslatnak, de a terhelt – indokoltan – más védő kirendelését kérheti. A kérelemről az a bíróság, ügyész, illetőleg nyomozó hatóság dönt, amely előtt az eljárás folyik.
 

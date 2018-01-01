@@ -20,6 +20,8 @@ c) a vádlott vagy a védője a tanú különösen védetté nyilvánításának
 
 (7) A tanács elnöke és tagjai az ügyészhez, a vádlotthoz, és – a (2) bekezdés b) pontjában meghatározott körben – a sértetthez kérdést intézhetnek. A vádlotthoz az ügyész, a védő, és – a (2) bekezdés b) pontjában meghatározott körben – a sértett is intézhet kérdést, az ügyészhez intézendő kérdésre a vádlott és a védő indítványt tehet.
 
+(7a) Ha az indítvány tárgya előzetes letartóztatás elrendelése, és a terhelt egyévesnél fiatalabb gyermekét gondozó nő, a bíróság – kivéve, ha a terhelt a gyermeke sérelmére követte el az eljárás alapjául szolgáló bűncselekményt – nyilatkoztatja a terheltet arról, hogy az előzetes letartóztatás elrendelése esetén kéri-e a gyermekével való együttes elhelyezését.
+
 (8) Ha a vádlott vagy a védő a különösen védetté nyilvánított tanút megnevezi, vagy a személyét más, kétséget kizáró módon azonosítja, a bíróság a tanú különösen védetté nyilvánítását megszünteti. Ebben az esetben a tanú idézésére és kihallgatására az általános szabályok irányadóak; a tanács elnöke szükség esetén hivatalból vagy indítványra a tanú védelmének más formáját kezdeményezi.
 
 (9) Előkészítő ülésnek akkor is helye van, ha az ügy különös bonyolultságára figyelemmel a bizonyítás keretének, terjedelmének, a bizonyítás felvétele sorrendjének meghatározása érdekében az ügyész, a vádlott és a védő meghallgatása látszik szükségesnek.

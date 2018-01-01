@@ -12,9 +12,9 @@ d) a bíróság, az ügyész, illetőleg a nyomozó hatóság kézbesítője út
 
 e) nemzetközi jogsegély keretében,
 
-f) törvényben meghatározott feltételek mellett biztonságos kézbesítési szolgáltatás, illetve a biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre történő kézbesítés útján,
+f) elektronikus úton az E-ügyintézési törvény szerinti hivatalos elérhetőségre, illetve biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre.
 
-g) az elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozásáról szóló határozat esetén az NMHH elektronikus kézbesítési rendszerén keresztül.
+g)
 
 (2) A címzett az iratot az azt küldőnél is átveheti.
 
@@ -40,9 +40,9 @@ b) az értesítést, ha ezt az érdekeltek jelentős száma indokolttá teszi.
 
 (7) A kézbesítési bizonyítvánnyal (tértivevénnyel) feladott hivatalos iratot a kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni, ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot nem vette át.
 
-(7a) A 69/A. § (1) és (1a) bekezdése és a 69/C–69/D. § szerinti elektronikus kapcsolattartás során a bíróság részére a hivatalos iratot a kézbesítési rendszer alkalmazásával az Országos Bírósági Hivatal útján kell megküldeni.
+(7a)
 
-(7b) Az (1) bekezdés g) pontja esetén a bíróság határozatát az elektronikus hírközlési szolgáltatók részére az NMHH kézbesítési rendszerén keresztül küldött értesítés napját követő munkanapon kell kézbesítettnek tekinteni.
+(7b)
 
 (8) A katonának [Btk. 127. § (1) bekezdés] kézbesítendő iratot az elöljárója útján kell kézbesíteni. A kézbesítés az elöljáró egyidejű értesítése mellett közvetlenül is történhet, ha a katonának az iratot küldő bíróság, ügyész vagy nyomozó hatóság székhelyén nincs elöljárója, és a késedelmes kézbesítés az eljárás sikerét vagy a katona jogát vagy méltányolható érdekét sértené. Ha a katona szolgálati viszonya a büntetőeljárás alatt megszűnik, a kézbesítésre az általános szabályok az irányadók.
 

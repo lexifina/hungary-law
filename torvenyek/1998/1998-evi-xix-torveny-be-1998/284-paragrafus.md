@@ -10,4 +10,4 @@ b) a jelen lévő sértett, illetve képviselője nyilatkozik arról, hogy érv�
 
 c) a tanúként kihallgatandó sértett a tárgyalótermet elhagyja.
 
-(3) A tanács elnöke, ha a polgári jogi igény érvényesítése az 54. § (2a) bekezdésében foglalt feltételeknek megfelel, a polgári jogi igényt és az ideiglenes intézkedés iránti kérelmet a Polgári perrendtartás szerint hatáskörrel és illetékességgel rendelkező bíróságnak küldi meg.
+(3) A tanács elnöke, ha a polgári jogi igény érvényesítése az 54. § (2a) bekezdésében foglalt feltételeknek megfelel, a polgári jogi igényt és az ideiglenes intézkedés iránti kérelmet a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróságnak küldi meg.

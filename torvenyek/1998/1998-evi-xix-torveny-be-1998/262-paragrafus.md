@@ -4,7 +4,7 @@
 
 (3) A határozat kihirdetése során fel kell olvasni a rendelkező részt, ismertetni kell az indokolás lényegét, és szükség esetén meg kell magyarázni.
 
-(4) Az ügyész, a vádlott, a védő, a pótmagánvádló és a sértett részére az ügydöntő határozat indokolást is tartalmazó kiadmányát akkor is kézbesíteni kell, ha velük a határozat rendelkező részét kihirdetés vagy kézbesítés útján már közölték, egyébként a határozat indokolást is tartalmazó kiadmányát – ha a határozat ellen a felsoroltakon kívül más fellebbezett – a fellebbezőnek kell kézbesíteni.
+(4) Az ügyész, a vádlott, a védő, a pótmagánvádló és a sértett részére az indokolást is tartalmazó ügydöntő határozatot akkor is kézbesíteni kell, ha velük a határozat rendelkező részét kihirdetés vagy kézbesítés útján már közölték, egyébként az indokolást is tartalmazó határozatot – ha a határozat ellen a felsoroltakon kívül más fellebbezett – a fellebbezőnek kell kézbesíteni.
 
 (5) Külön jogszabály határozza meg, hogy a határozatot, illetőleg a határozat tartalmáról szóló értesítést az e §-ban felsoroltakon kívül kinek kell megküldeni.
 
