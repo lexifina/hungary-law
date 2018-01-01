@@ -2,13 +2,15 @@
 
 ## 4. § Hatályát veszti a Rendelet
 
-a)–b)[^4]
+a) 3–5. §-a,
 
-c)–d)[^5]
+b) 7. § (5)–(7) bekezdése,
 
-e)–f)[^6]
+c)–d)[^4]
+
+e) 8. § (13) bekezdése,
+
+f) 4. alcíme.
 
 [^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. § a)–b) pontja az 5. § (2) bekezdése alapján 2018. jnauár 1-jén lép hatályba.
-[^5]: A 4. § c)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 4. § e)–f) pontja az 5. § (2) bekezdése alapján 2018. jnauár 1-jén lép hatályba.
+[^4]: A 4. § c)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

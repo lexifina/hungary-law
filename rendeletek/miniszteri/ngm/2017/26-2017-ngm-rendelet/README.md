@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-26-20-2
 | --- | --- | --- |
 | 2017-09-12 | 2017-26-20-2X.1 | 26/2017. (IX. 11.) NGM rendelet |
 | 2017-09-13 | 2017-26-20-2X.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2017-26-20-2X.3 | 2010: CXXX. törvény |
