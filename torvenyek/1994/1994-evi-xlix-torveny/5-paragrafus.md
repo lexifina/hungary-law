@@ -22,7 +22,7 @@ f) a tagot megillető társulati érdekeltség megállapítása.
 
 (3) Az alapszabályt, valamint a névjegyzéket az alakuló közgyűlés elnöke és jegyzőkönyvvezetője írja alá, s azt az alakuló közgyűlésen erre megválasztott két tag hitelesíti.
 
-(4) Az alapszabályt közjegyzői okiratba vagy ügyvéd (jogtanácsos) által ellenjegyzett okiratba kell foglalni.
+(4) Az alapszabályt közjegyzői okiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba kell foglalni.
 
 (5) Ha a tagok a társulatot szerződéssel hozzák létre, annak tartalmára és alaki követelményeire a (2) és (4) bekezdésekben foglaltakat kell megfelelően alkalmazni.
 
