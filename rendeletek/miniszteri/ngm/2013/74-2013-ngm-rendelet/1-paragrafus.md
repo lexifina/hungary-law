@@ -6,11 +6,12 @@
 
 2. szolgáltató: az általános forgalmi adóról szóló törvény szerinti, a nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatást biztosító, a 2. §-ban meghatározott szolgáltatáselemeket magában foglaló szolgáltatás nyújtója;
 
-3. üzemeltető: az adózás rendjéről szóló 2003. évi XCII. törvény 176/G. § (2) bekezdésében meghatározott személy.
+3.[^1] üzemeltető: az adózás rendjéről szóló 2017. évi CL. törvény 108. § (13) bekezdés a) és b) pontjában meghatározott személy.
 
-4.[^1] szolgáltatás szüneteltetése: az elektronikus hírközlésről szóló törvény szerinti szolgáltatás szüneteltetése;
+4.[^2] szolgáltatás szüneteltetése: az elektronikus hírközlésről szóló törvény szerinti szolgáltatás szüneteltetése;
 
-5.[^2] szolgáltatás korlátozása: az elektronikus hírközlésről szóló törvény szerinti szolgáltatás korlátozása.
+5.[^3] szolgáltatás korlátozása: az elektronikus hírközlésről szóló törvény szerinti szolgáltatás korlátozása.
 
-[^1]: Az 1. § 4. pontját a 47/2014. (XII. 30.) NGM rendelet 8. §-a iktatta be.
-[^2]: Az 1. § 5. pontját a 47/2014. (XII. 30.) NGM rendelet 8. §-a iktatta be.
+[^1]: Az 1. § 3. pontja a 48/2017. (XII. 29.) NGM rendelet 7. §-a szerint módosított szöveg.
+[^2]: Az 1. § 4. pontját a 47/2014. (XII. 30.) NGM rendelet 8. §-a iktatta be.
+[^3]: Az 1. § 5. pontját a 47/2014. (XII. 30.) NGM rendelet 8. §-a iktatta be.
