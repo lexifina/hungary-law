@@ -36,4 +36,4 @@ c) a tagsággal együtt járó kötelezettségek ismételt vagy súlyos megsért
 
 és törlik a tagokról vezetett nyilvántartásból.
 
-(5) Nem lehet a gazdasági kamara tagja a kizárásról rendelkező határozat, illetve bírósági felülvizsgálat esetén az ítélet jogerőre emelkedésétől számított egy évig az a gazdálkodó szervezet, amelynek tagsága a (4) bekezdés c) pontjában meghatározott okból szűnt meg.
+(5) Nem lehet a gazdasági kamara tagja a kizárásról rendelkező határozat, illetve közigazgatási per esetén az ítélet jogerőre emelkedésétől számított egy évig az a gazdálkodó szervezet, amelynek tagsága a (4) bekezdés c) pontjában meghatározott okból szűnt meg.

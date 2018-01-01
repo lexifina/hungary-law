@@ -12,7 +12,7 @@ c) a kamara elnökének (alelnökeinek), az elnökség, valamint az ellenőrző 
 
 d) az adatszolgáltatási kötelezettséggel járó statisztikai adatgyűjtés kezdeményezése az adatgyűjtés tárgya szerint illetékes szervnél;
 
-e) az Állandó Választottbíróság választottbíróinak megválasztása és visszahívása;
+e)
 
 f) a gazdasági kamarák által az országos gazdasági kamara kizárólagos hatáskörébe utalt egyéb feladat.
 

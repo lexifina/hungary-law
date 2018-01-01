@@ -22,7 +22,7 @@ i) kidolgozza a kamarák részére átadott közfeladatok egységes eljárás ke
 
 j) közreműködik a külkereskedelem fejlesztésében, részt vesz a külkereskedelem fellendítését elősegítő gazdálkodó szervezetek rendszerének kialakításában és működtetésében.
 
-(2) Az országos kamarák Állandó Választottbíróságot működtethetnek. A Magyar Kereskedelmi és Iparkamara biztosítja a nemzetközi kereskedelmi ügyekben is eljáró Állandó Választottbíróság működési feltételeit, megválasztja és visszahívja a választottbírókat.
+(2) A Magyar Kereskedelmi és Iparkamara állandó választottbíróságot működtet.
 
 (3) Az országos kamara alapszabálya az országos kamara számára további feladatokat állapíthat meg.
 

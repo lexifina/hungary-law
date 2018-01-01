@@ -34,7 +34,7 @@ d) a gazdálkodó szervezetet a közbeszerzési eljárásban való részvételt�
 
 e) a gazdálkodó szervezettel szemben jogerősen megállapították a rendezett munkaügyi kapcsolatok megsértését;
 
-f) a gazdálkodó szervezetet jogerősen jelentős összegre elmarasztalták
+f) a gazdálkodó szervezetet véglegessé vált határozattal jelentős összegre elmarasztalták
 
 fa) versenyfelügyeleti eljárásban,
 
