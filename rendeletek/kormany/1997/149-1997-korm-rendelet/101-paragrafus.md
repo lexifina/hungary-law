@@ -1,3 +1,3 @@
-101. §[^702]
+101. §[^740]
 
-[^702]: A 101. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^740]: A 101. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés d) pontja hatályon kívül helyezte.

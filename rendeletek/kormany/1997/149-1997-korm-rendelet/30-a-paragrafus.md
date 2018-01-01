@@ -1,6 +1,6 @@
-## Közvetítői eljárás gyámhatóság általi elrendelése[^118]
+## Közvetítői eljárás gyámhatóság általi elrendelése[^120]
 
-30/A. §[^119] (1) A közvetítői tevékenységről szóló 2002. évi LV. törvény (a továbbiakban: Kvtv.) szerinti közvetítői eljárást a kapcsolattartás rendezésével, a kapcsolattartás végrehajtásával és a szülői felügyeleti jog gyakorlásával összefüggésben a gyámhatóság a felek együttes kérelmére vagy hivatalból rendeli el. A közvetítői eljárásban a közvetítő a gyermek érdekének megfelelően segíti elő a felek közötti vitát lezáró megállapodás létrehozását.
+30/A. §[^121] (1) A közvetítői tevékenységről szóló 2002. évi LV. törvény (a továbbiakban: Kvtv.) szerinti közvetítői eljárást a kapcsolattartás rendezésével, a kapcsolattartás végrehajtásával és a szülői felügyeleti jog gyakorlásával összefüggésben a gyámhatóság a felek együttes kérelmére vagy hivatalból rendeli el. A közvetítői eljárásban a közvetítő a gyermek érdekének megfelelően segíti elő a felek közötti vitát lezáró megállapodás létrehozását.
 
 (2) Közvetítői eljárást a szülők vagy a kapcsolattartásra a 28. § (1)–(4a) bekezdése szerint jogosult más személyek vehetnek igénybe. A gyámhivatal kizárólag a szülők számára rendelheti el kötelező jelleggel közvetítői eljárás igénybevételét.
 
@@ -24,5 +24,5 @@ meghatározott díjazás mellett biztosítja a közvetítői eljárás lefolytat
 
 (7) Ha a közvetítői eljárás eredménytelenül zárul, a gyámhivatal kötelezi a közvetítői eljárás eredménytelenségéért felelős felet vagy feleket a közvetítői eljárás díjának megfizetésére.
 
-[^118]: A 30/A. §-t megelőző alcím a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^119]: A 30/A. §-t és a 30/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^120]: A 30/A. §-t megelőző alcím a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^121]: A 30/A. §-t és a 30/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

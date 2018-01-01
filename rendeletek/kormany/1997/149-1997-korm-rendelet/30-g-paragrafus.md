@@ -1,27 +1,28 @@
-30/G. §[^128] (1)[^129] Ha a gyermek ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban történő elhelyezéséről nem a gyámhivatal döntött, illetve, ha a gyámhivatal döntésének meghozatalakor nem állt rendelkezésre elegendő adat a kapcsolattartás rendezésére, a gyámhivatal az ideiglenes hatályú elhelyezéstől számított tizenöt napon belül hivatalból dönt a gyermek szüleivel való kapcsolattartásáról.
+30/G. §[^130] (1)[^131] Ha a gyermek ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban történő elhelyezéséről nem a gyámhivatal döntött, illetve, ha a gyámhivatal döntésének meghozatalakor nem állt rendelkezésre elegendő adat a kapcsolattartás rendezésére, a gyámhivatal az ideiglenes hatályú elhelyezéstől számított tizenöt napon belül hivatalból dönt a gyermek szüleivel való kapcsolattartásáról.
 
 (2) Az ideiglenes hatállyal elhelyezett gyermek érdekében a gyámhivatal – lehetőség szerint a szülő meghallgatását követően –
 
-a)[^130] dönt a gyermek gondozási helyén történő meglátogatásáról, annak gyakoriságáról és időtartamáról,
+a)[^132] dönt a gyermek gondozási helyén történő meglátogatásáról, annak gyakoriságáról és időtartamáról,
 
-b)[^131] a gyermek biztonsága érdekében felügyelt kapcsolattartást rendelhet el, meghatározva a kapcsolattartás gyakoriságát, helyszínét, időtartamát, valamint kijelölve a felügyeletet biztosító szakembert,
+b)[^133] a gyermek biztonsága érdekében felügyelt kapcsolattartást rendelhet el, meghatározva a kapcsolattartás gyakoriságát, helyszínét, időtartamát, valamint kijelölve a felügyeletet biztosító szakembert,
 
-c)[^132] meghatározza a kapcsolat személyes találkozás nélküli fenntartásának a 27. § (3) bekezdés c) pontja szerinti módjait, szükség esetén gyakoriságát és időtartamát,
+c)[^134] meghatározza a kapcsolat személyes találkozás nélküli fenntartásának a 27. § (3) bekezdés c) pontja szerinti módjait, szükség esetén gyakoriságát és időtartamát,
 
 d) felhívja a szülő figyelmét, hogy
 
 da) a gyermek családba való visszakerülésének feltétele a rendszeres kapcsolattartás,
 
-db)[^133] a kapcsolattartás megvalósulásához rendkívüli települési támogatást kérhet a települési önkormányzattól,
+db)[^135] a kapcsolattartás megvalósulásához rendkívüli települési támogatást kérhet a települési önkormányzattól,
 
-e)[^134] felhívja a kapcsolattartásra jogosult és a kapcsolattartásra kötelezett figyelmét a kapcsolattartás elmaradására vonatkozó – írásban, elektronikus levélben, telefonon vagy szóban történő – kölcsönös tájékoztatási kötelezettségükre.
+e)[^136] felhívja a kapcsolattartásra jogosult és a kapcsolattartásra kötelezett figyelmét a kapcsolattartás elmaradására vonatkozó – írásban, elektronikus levélben, telefonon vagy szóban történő – kölcsönös tájékoztatási kötelezettségükre.
 
-(3) Ha a gyermek ideiglenes hatályú elhelyezésére a szülő súlyosan bántalmazó magatartása miatt került sor, a gyámhivatal a gyermek érdekében szünetelteti a kapcsolattartást az ideiglenes hatályú elhelyezés felülvizsgálatáról, illetőleg a nevelésbe vételről történő döntés jogerőre emelkedéséig.
+(3)[^137] Ha a gyermek ideiglenes hatályú elhelyezésére a szülő súlyosan bántalmazó magatartása miatt került sor, a gyámhivatal a gyermek érdekében szünetelteti a kapcsolattartást az ideiglenes hatályú elhelyezés felülvizsgálatáról, illetőleg a nevelésbe vételről történő döntés véglegessé válásáig.
 
-[^128]: A 30/G. §-t a 360/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^129]: A 30/G. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^130]: A 30/G. § (2) bekezdés a) pontja a 70/2014. (III. 13.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^131]: A 30/G. § (2) bekezdés b) pontja a 97/2013. (III. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^132]: A 30/G. § (2) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^133]: A 30/G. § (2) bekezdés d) pont db) alpontja a 197/2013. (VI. 13.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 24/2015. (II. 20.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^134]: A 30/G. § (2) bekezdés e) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^130]: A 30/G. §-t a 360/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^131]: A 30/G. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^132]: A 30/G. § (2) bekezdés a) pontja a 70/2014. (III. 13.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^133]: A 30/G. § (2) bekezdés b) pontja a 97/2013. (III. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^134]: A 30/G. § (2) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^135]: A 30/G. § (2) bekezdés d) pont db) alpontja a 197/2013. (VI. 13.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 24/2015. (II. 20.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^136]: A 30/G. § (2) bekezdés e) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^137]: A 30/G. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 41. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,16 +1,18 @@
+## 8/D. §[^43] A kérelemre indult eljárásokban a tényállás tisztázása érdekében hiánypótlásra felhívásnak legfeljebb két ízben van helye.
+
 ## Környezettanulmány
 
-9. § (1)[^43] A gyámhatóság a Gyvt. 130. § (2) bekezdésében meghatározottak alapján részletes környezettanulmányt (helyzetértékelést) készít, illetve ennek készítésére felkérhet más személyt vagy szervet, így különösen a család- és gyermekjóléti szolgálatot és a települési önkormányzat jegyzőjét.
+9. § (1)[^44] A gyámhatóság a Gyvt. 130. § (2) bekezdésében meghatározottak alapján részletes környezettanulmányt (helyzetértékelést) készít, illetve ennek készítésére felkérhet más személyt vagy szervet, így különösen a család- és gyermekjóléti szolgálatot és a települési önkormányzat jegyzőjét.
 
-(2)[^44] A gyámhivatal környezettanulmány (helyzetértékelés) elkészítésére
+(2)[^45] A gyámhivatal környezettanulmány (helyzetértékelés) elkészítésére
 
-a)[^45] az örökbefogadhatónak nyilvánításra irányuló eljárás során a család- és gyermekjóléti szolgálatot,
+a)[^46] az örökbefogadhatónak nyilvánításra irányuló eljárás során a család- és gyermekjóléti szolgálatot,
 
 b) az örökbefogadás előtti eljárás és az örökbefogadás engedélyezése iránti eljárás során a gyermekvédelmi szakszolgálatot
 
 kérheti fel.
 
-(3)[^46] A környezettanulmány (helyzetértékelés) során felvett jegyzőkönyv a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon kívül tartalmazza
+(3)[^47] A környezettanulmány (helyzetértékelés) során felvett jegyzőkönyv az Ákr.-ben foglaltakon kívül tartalmazza
 
 a) a gyermek
 
@@ -34,7 +36,8 @@ bd) anyagi és szociális körülményeit,
 
 be) ügyének szempontjából lényeges megállapításokat.
 
-[^43]: A 9. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 419/2015. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
-[^44]: A 9. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^45]: A 9. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
-[^46]: A 9. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 9. §-ával megállapított, bevezető szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 3. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: A 8/D. §-t újonnan a 457/2017. (XII. 28.) Korm. rendelet 40. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^44]: A 9. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 419/2015. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
+[^45]: A 9. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^46]: A 9. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
+[^47]: A 9. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 9. §-ával megállapított, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 41. § 4. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

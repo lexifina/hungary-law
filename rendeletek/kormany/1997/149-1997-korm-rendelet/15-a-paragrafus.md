@@ -1,15 +1,6 @@
-## Újrafelvételi eljárás
+## 15. §[^83] Minden olyan ügyben, amelyben a döntés más szerv feladatkörét is érinti, vagy a döntés valamely jog érvényesítéséhez, kötelezettség teljesítéséhez, illetve eljárás lefolytatásához szükséges, az ügyfelet és a feladatkörében érintett más szervet vagy személyt a döntés véglegessé válásáról értesíteni kell.
 
-## 15/A. §[^85] Nincs helye újrafelvételi eljárásnak
+15/A. §[^84]
 
-a) a kiskorú házasságkötésének engedélyezésével,
-
-b) az örökbe fogadhatóvá nyilvánítással, az örökbefogadás engedélyezésével és felbontásával,
-
-c) az ideiglenes hatályú elhelyezéssel,
-
-d) az ideiglenes gondnok, zárgondnok kirendelésével
-
-kapcsolatos ügyekben.
-
-[^85]: A 15/A. §-t és alcímét a 315/2005. (XII. 25.) Korm. rendelet 17. §-a iktatta be.
+[^83]: A 15. § a 457/2017. (XII. 28.) Korm. rendelet 40. § (5) bekezdésével megállapított szöveg. A 15. §-t megelőző alcímet ugyanezen módosító rendelet 42. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^84]: A 15/A. §-t és az azt megelőző alcímet a 315/2005. (XII. 25.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 42. § b) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

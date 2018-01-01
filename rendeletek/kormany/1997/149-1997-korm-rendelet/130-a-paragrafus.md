@@ -1,6 +1,6 @@
-## Eseti gyám és magzat gyámjának kirendelése[^832]
+## Eseti gyám és magzat gyámjának kirendelése[^880]
 
-130/A. §[^833] (1) A gyámhivatal kérelemre vagy hivatalból eseti gyámot rendel a kiskorú gyermek részére,
+130/A. §[^881] (1) A gyámhivatal kérelemre vagy hivatalból eseti gyámot rendel a kiskorú gyermek részére,
 
 a) ha képviseletéről a Ptk. 6:20. §-ában meghatározott esetekben gondoskodni kell,
 
@@ -12,17 +12,19 @@ d) az apaság megállapítása iránti perben a Ptk. 4:106. § (2) bekezdése sz
 
 e) az örökbefogadás felbontására irányuló eljárás során, ha a Ptk. 4:145. § (4) bekezdése alapján az örökbefogadó nem járhat el az örökbefogadott törvényes képviselőjeként, és
 
-f) a bíróság megkeresése alapján a Pp. 167/A. § (4) bekezdésében meghatározott esetben, ha a kiskorú tanú és a törvényes képviselője között érdekellentét van.
+f)[^882] a bíróság megkeresése alapján a Pp. 298. § (4) bekezdésében meghatározott esetben, ha a kiskorú tanú és a törvényes képviselője között érdekellentét van.
 
-(1a)[^834] Tömeges bevándorlás okozta válsághelyzet esetén a kijelölt gyámhivatal a menekültügyi hatóság kezdeményezése alapján hivatalból haladéktalanul intézkedik a tranzitzónában tartózkodó, tizennegyedik életévét betöltött kísérő nélküli kiskorú részére eseti gyám kirendelése iránt. Eseti gyámként ebben az esetben a jogi segítségnyújtási feladatkörében eljáró területileg illetékes hivatalnak a tranzitzónában jogi képviseletet ellátó állami tisztviselőjét lehet kirendelni.
+(1a)[^883] Tömeges bevándorlás okozta válsághelyzet esetén a kijelölt gyámhivatal a menekültügyi hatóság kezdeményezése alapján hivatalból haladéktalanul intézkedik a tranzitzónában tartózkodó, tizennegyedik életévét betöltött kísérő nélküli kiskorú részére eseti gyám kirendelése iránt. Eseti gyámként ebben az esetben a jogi segítségnyújtási feladatkörében eljáró területileg illetékes hivatalnak a tranzitzónában jogi képviseletet ellátó állami tisztviselőjét lehet kirendelni.
 
-(1b)[^835] Az (1a) bekezdés szerinti esetben az eseti gyámként kirendelhető személyre a jogi segítségnyújtási feladatkörében eljáró területileg illetékes járási hivatal tesz javaslatot hivatalból, ezzel egyidejűleg megküldi az eseti gyámként kirendelendő személy írásbeli nyilatkozatát az eseti gyámi tisztség vállalásáról, valamint arról, hogy nem áll a szülői felügyeleti jogot megszüntető bírói ítélet hatálya alatt.
+(1b)[^884] Az (1a) bekezdés szerinti esetben az eseti gyámként kirendelhető személyre a jogi segítségnyújtási feladatkörében eljáró területileg illetékes járási hivatal tesz javaslatot hivatalból, ezzel egyidejűleg megküldi az eseti gyámként kirendelendő személy írásbeli nyilatkozatát az eseti gyámi tisztség vállalásáról, valamint arról, hogy nem áll a szülői felügyeleti jogot megszüntető bírói ítélet hatálya alatt.
 
-(1c)[^836] Az (1a) bekezdés szerinti esetben a kijelölt gyámhivatal az eljárás során mellőzheti a Gyvt. 128. § (1) bekezdése szerinti személyek meghallgatását.
+(1c)[^885] Az (1a) bekezdés szerinti esetben a kijelölt gyámhivatal az eljárás során mellőzheti a Gyvt. 128. § (1) bekezdése szerinti személyek meghallgatását.
 
-(1d)[^837] A kijelölt gyámhivatal az (1a) bekezdés szerinti esetben a menekültügyi hatósággal, valamint a jogi segítségnyújtási feladatkörében eljáró területileg illetékes járási hivatallal elektronikus úton tart kapcsolatot, és döntését elektronikus úton közli. A tizennegyedik életévét betöltött kísérő nélküli kiskorú a kijelölt gyámhivatal döntéséről eseti gyámja útján értesül.
+(1d)[^886] A kijelölt gyámhivatal az (1a) bekezdés szerinti esetben a menekültügyi hatósággal, valamint a jogi segítségnyújtási feladatkörében eljáró területileg illetékes járási hivatallal elektronikus úton tart kapcsolatot, és döntését elektronikus úton közli. A tizennegyedik életévét betöltött kísérő nélküli kiskorú a kijelölt gyámhivatal döntéséről eseti gyámja útján értesül.
 
-(2) Az (1) bekezdés f) pontja szerinti esetben a gyámhivatal által kirendelt eseti gyám gyakorolja a Pp. 167/A. § (2) és (3) bekezdésében meghatározott jogokat.
+(1e)[^887] A gyámhivatal az idegenrendészeti hatóság megkeresésére a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 87/D. § (7) bekezdésében meghatározott esetben nyolc napon belül gondoskodik eseti gyám kirendeléséről.
+
+(2)[^888] Az (1) bekezdés f) pontja szerinti esetben a gyámhivatal által kirendelt eseti gyám gyakorolja a Pp. 298. § (2) és (3) bekezdésében meghatározott jogokat.
 
 (3) Az eseti gyám a gyámhivatal kirendelő határozatában meghatározott ügyben olyan jogkörrel jár el, mint a gyám.
 
@@ -40,9 +42,12 @@ b) a születendő gyermek családi jogállásának teljes hatályú apai elismer
 
 (8) A szülő törvényes képviseleti jogát korlátozó rendelkezéseket a magzat tekintetében is alkalmazni kell.
 
-[^832]: A 130/A. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.
-[^833]: A 130/A. §-t a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.
-[^834]: A 130/A. § (1a) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
-[^835]: A 130/A. § (1b) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
-[^836]: A 130/A. § (1c) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
-[^837]: A 130/A. § (1d) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^880]: A 130/A. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.
+[^881]: A 130/A. §-t a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.
+[^882]: A 130/A. § (1) bekezdés f) pontja a 393/2017. (XII. 13.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
+[^883]: A 130/A. § (1a) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^884]: A 130/A. § (1b) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^885]: A 130/A. § (1c) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^886]: A 130/A. § (1d) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^887]: A 130/A. § (1e) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 4. §-a iktatta be.
+[^888]: A 130/A. § (2) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.

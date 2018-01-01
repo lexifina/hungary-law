@@ -24,6 +24,6 @@ ac) arról, hogy kérheti a kapcsolattartás megváltoztatását,
 
 b) határozatában tájékoztatja a kapcsolattartásra jogosult szülőt arról, hogy a külföldre költözést követő három hónapon belül kérheti a gyámhivataltól a kapcsolattartás rendezését, megváltoztatását, ha a gyermek a törvényes képviselőjével az Európai Unió valamely tagállamába jogszerűen távozik, és
 
-c)[^94] a gyermek külföldi tartózkodási helyének kijelöléséről szóló határozatát közli a családtámogatási ellátást folyósító szervvel.
+c)[^96] a gyermek külföldi tartózkodási helyének kijelöléséről szóló határozatát közli a családtámogatási ellátást folyósító szervvel.
 
-[^94]: A 24. § (5) bekezdés c) pontja a 60/2017. (III. 20.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^96]: A 24. § (5) bekezdés c) pontja a 60/2017. (III. 20.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.

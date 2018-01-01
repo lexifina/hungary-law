@@ -10,6 +10,6 @@
 
 (5) Ha a gyámhivatal a kérelmet elutasítja és a gyermek a szülők lakóhelyét már jóváhagyás nélkül elhagyta, egyidejűleg kötelezi a gyermeket a visszatérésre, szükség esetén felhívja a gyermek kiadására azt a személyt, aki a gyermeket jogtalanul tartja magánál. Ugyanígy jár el a gyámhivatal abban az esetben is, ha a szülők lakóhelyének elhagyását jóváhagyta, de azt követően a feltételek megváltozása miatt a jóváhagyását visszavonja.
 
-(6)[^93] A gyámhivatal közli a családtámogatási ellátást folyósító szervvel a szülők lakóhelye elhagyásának jóváhagyásáról szóló határozatát.
+(6)[^94] A gyámhivatal közli a családtámogatási ellátást folyósító szervvel a szülők lakóhelye elhagyásának jóváhagyásáról szóló határozatát.
 
-[^93]: A 22. § (6) bekezdése a 60/2017. (III. 20.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^94]: A 22. § (6) bekezdése a 60/2017. (III. 20.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
