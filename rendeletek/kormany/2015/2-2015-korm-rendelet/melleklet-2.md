@@ -1,75 +1,35 @@
 ## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
 
-|  | A | B | C | D | E |
+|  | A | B | C | D |
 
-| 1. | Beruházás megnevezése | Beruházás azonosítója | A Beruházás megvalósításával kapcsolatos eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
+| 1. | Beruházás megnevezése | Beruházás azonosítója | A Beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
 
-| 2. | Gül Baba türbéje és környezete komplex rekonstrukciója | Budapest II. kerület 13431/1, 13431/2, 13431/3, 12989/2, 13462/2, 13039/2 és 13433 helyrajzi szám alatt nyilvántartott, természetben a Budapest II. kerület, Mecset utca 14. szám alatt található ingatlan | a) építésügyi hatósági engedélyezési eljárások, b) örökségvédelmi hatósági engedélyezési eljárások, c) régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
+| 2. | Gül Baba türbéje és környezete komplex rekonstrukciója | Budapest II. kerület 13431/1, 13431/2, 13431/3, 12989/2, 13462/2, 13039/2 és 13433 helyrajzi szám alatt nyilvántartott, természetben a Budapest II. kerület, Mecset utca 14. szám alatt található ingatlan | a) építésügyi hatósági engedélyezési eljárások, b) örökségvédelmi hatósági engedélyezési eljárások, c) régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
 
-| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
+| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala |
 
-| 5. | gépi működtetési közlekedési berendezések engedélyezési eljárásai | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
+| 5. | gépi működtetési közlekedési berendezések engedélyezési eljárásai | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
 
-| 6. | felvonó, mozgólépcső, emelők létesítésére, áthelyezésére, főbb műszaki adatainak megváltoztatásával járó átalakítására, használatba- vételére, elbontására irányuló hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
+| 6. | felvonó, mozgólépcső, emelők létesítésére, áthelyezésére, főbb műszaki adatainak megváltoztatásával járó átalakítására, használatba- vételére, elbontására irányuló hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
 
-| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
+| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
 
-| 8. | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 8. | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Fővárosi Katasztrófavédelmi Igazgatóság |
 
-| 9. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 9. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 10. | telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XI. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
+| 10. | telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XI. Kerületi Hivatala |
 
-| 11. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
+| 11. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
 
-| 12. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai; a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 12. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai; a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 13. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
+| 13. | bányahatósági engedélyek | Pest Megyei Kormányhivatal |
 
-| 14. | azok a 2–13. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához és használatba- vételéhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
+| 14. |  |  |
 
-2. melléklet a 2/2015. (I. 22.) Korm. rendelethez[^8]
+2. melléklet a 2/2015. (I. 22.) Korm. rendelethez[^10]
 
-A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
-
-|  | A | B | C |
-
-| 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú eljárásban kijelölt szakhatóság | Másodfokú eljárásban kijelölt szakhatóság |
-
-| 2. | Építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
-
-| 3. | A településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelőség vizsgálata | Budapest Főváros II. Kerületi Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
-
-| 4. | Környezetvédelem, természetvédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
-
-| 5. | Vízügy és vízvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
-
-| 6. | Katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
-
-| 7. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
-
-| 8. | Régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
-
-| 9. | Közlekedés: közút | Budapest Főváros Kormányhivatala III. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
-
-| 10. | Talajvédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
-
-| 11. | Egészségügy | illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala |
-
-| 12. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
-
-| 13. | Műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
-
-| 14. | Élelmiszer-biztonság | illetékes járási hivatal | Pest Megyei Kormányhivatal |
-
-| 15. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
-
-| 16. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
-
-| 17. | Honvédelem | honvédelemért felelős miniszter | nincs |
-
-| 18. | Rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | II. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
-
-[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 95. § (1) bekezdés b) pontjával megállapított, a 95. § (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 81. § b) pontja szerint módosított szöveg.
+[^10]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 176. § f) pontja hatályon kívül helyezte.
