@@ -1,5 +1,3 @@
-## 7. §[^5]
+## 7. § Az üzemeltető részére nyújtott, az általános forgalmi adóról szóló törvény szerinti, a nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatást biztosító valamennyi szolgáltatás hatósági áráról és a hatósági árszabályozás részletes szabályairól és egyéb adózási tárgyú NGM rendelet módosításáról szóló 74/2013. (XII. 30.) NGM rendelet 1. § 3. pontjában az „az adózás rendjéről szóló 2003. évi XCII. törvény 176/G. § (2) bekezdésében” szövegrész helyébe az „az adózás rendjéről szóló 2017. évi CL. törvény 108. § (13) bekezdés a) és b) pontjában” szöveg lép.
 
 ## 5. Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezés üzemeltetőjének adókötelezettségéről, a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésének, kezelésének, nyilvántartásának és visszatérítésének részletes szabályairól szóló 41/2014. (XII. 29.) NGM rendelet módosítása
-
-[^5]: A 7. § a 25. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

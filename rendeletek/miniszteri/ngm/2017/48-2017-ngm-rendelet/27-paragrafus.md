@@ -1,3 +1,1 @@
-## 26. §[^19]
-
-[^19]: A 26. § a 25. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## 26. § A 21. § a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
