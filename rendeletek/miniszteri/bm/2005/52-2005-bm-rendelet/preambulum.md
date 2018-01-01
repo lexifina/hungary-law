@@ -1,1 +1,0 @@
-Az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 49. §-ának o) pontjában kapott felhatalmazás alapján, figyelemmel a 24. § (9)–(10) bekezdésében foglaltakra – a pénzügyminiszterrel egyetértésben – a következők szerint rendelkezem:
