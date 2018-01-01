@@ -34,7 +34,7 @@ a) településkép-védelmi bírság kiszabásáról intézkedik, valamint
 
 b) a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet.
 
-(4) A jogerős és végrehajtható határozatban megállapított (3) bekezdés a) pontja és a (3a) bekezdés b) pontja szerinti követelés biztosítékául a Magyar Államot a védett kulturális örökségi elemen jelzálogjog, valamint annak fennállásáig terhelési tilalom illeti meg.
+(4) A végleges és végrehajtható határozatban megállapított (3) bekezdés a) pontja és a (3a) bekezdés b) pontja szerinti követelés biztosítékául a Magyar Államot a védett kulturális örökségi elemen jelzálogjog, valamint annak fennállásáig terhelési tilalom illeti meg.
 
 (5) A hatóság által elvégeztetett munka költsége adók módjára behajtandó köztartozásnak minősül és adók módjára kell behajtani.
 

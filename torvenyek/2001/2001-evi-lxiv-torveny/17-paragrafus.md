@@ -1,6 +1,6 @@
 ## Ideiglenes védetté nyilvánítás
 
-17. § (1) A nyilvántartott régészeti lelőhely jelentős károsodásának veszélye esetében, vagy ha a nyilvántartott régészeti lelőhely védetté nyilvánítását kezdeményezték, a hatóság a területet örökségvédelmi érdekből fellebbezésre tekintet nélkül végrehajtható határozattal legfeljebb egyéves időtartamra védetté nyilváníthatja. Az ideiglenesen védetté nyilvánított lelőhelyekre a védetté nyilvánított lelőhelyekre vonatkozó szabályokat kell alkalmazni azzal, hogy a hatóság a határozatában korlátozhatja vagy felfüggesztheti, illetve megtilthatja a régészeti lelőhelyet veszélyeztető tevékenység folytatását.
+17. § (1) A nyilvántartott régészeti lelőhely jelentős károsodásának veszélye esetében, vagy ha a nyilvántartott régészeti lelőhely védetté nyilvánítását kezdeményezték, a hatóság a területet örökségvédelmi érdekből azonnal végrehajthatóvá nyilvánított határozattal legfeljebb egyéves időtartamra védetté nyilváníthatja. Az ideiglenesen védetté nyilvánított lelőhelyekre a védetté nyilvánított lelőhelyekre vonatkozó szabályokat kell alkalmazni azzal, hogy a hatóság a határozatában korlátozhatja vagy felfüggesztheti, illetve megtilthatja a régészeti lelőhelyet veszélyeztető tevékenység folytatását.
 
 (2) Az ideiglenes védettség nem hosszabbítható meg.
 

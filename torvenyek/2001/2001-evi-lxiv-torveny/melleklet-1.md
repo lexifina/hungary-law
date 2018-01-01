@@ -30,7 +30,7 @@ Együttes feltétel
 
 |
 
-A földből és a víz alól előkerült, a 7. § 19. pontja szerinti régészeti leletnek nem minősülő egyéb tárgyak.
+A földből és a víz alól előkerült, a 7. § 33. pontja szerinti régészeti leletnek nem minősülő egyéb tárgyak.
 
 |
 

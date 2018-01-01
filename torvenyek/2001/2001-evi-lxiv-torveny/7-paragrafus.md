@@ -16,7 +16,7 @@
 
 6. Gyűjtemény: gyűjtői tevékenység eredményeként létrejött, ritkaságából vagy jellegéből adódóan különös jelentőséggel bíró javak összessége, amelynek egységességében megnyilvánuló kulturális értéke meghaladja egyes darabjainak együttes értékét.
 
-7. Hadtörténeti örökség: 1711 utáni hadszíntér, csatatér, védelmi létesítmény, egyéb katonai objektum vagy hadi emlék, különösen harci repülőgép, kerekes vagy lánctalpas harcjármű és egyéb katonai fegyverrendszerek, fegyverek, felszerelés és egyenruha elemei, továbbá azok együttesei.
+7. Hadtörténeti örökség: 1711 utáni hadszíntér, csatatér, védelmi létesítmény, egyéb katonai objektum vagy hadi emlék, különösen harci repülőgép, kerekes vagy lánctalpas harcjármű és egyéb katonai fegyverrendszerek, fegyverek, felszerelés és egyenruha elemei, továbbá azok együttesei (a továbbiakban együtt: hadtörténeti örökségi elem).
 
 8. Kiemelt nemzeti emlékhely: a nemzet és a magyar állam történelmében kiemelkedő jelentőségű nemzeti emlékhely, amelyet az Országgyűlés törvénnyel kiemelt nemzeti emlékhellyé nyilvánít.
 
@@ -32,7 +32,7 @@
 
 14. Mentő feltárás: régészeti emlék vagy lelet régészeti feltáráson kívüli, váratlan előkerülése során alkalmazandó, a közvetlenül érintett elemek szakszerű megmentésére irányuló azonnali beavatkozás.
 
-15. Műemlék: olyan nyilvántartott műemléki érték, amelyet jogszabállyal védetté nyilvánítottak.
+15. Műemlék: olyan nyilvántartott műemléki érték, amelyet miniszteri döntéssel, határozattal vagy e törvény alapján miniszteri rendelettel védetté nyilvánítottak.
 
 16. Műemlékfenntartás: a műemlék rendeltetésszerű és biztonságos, méltó (eszmei értékével összhangban álló) használatához, illetve védett értékei megőrzéséhez szükséges üzemeltetés és ennek során a jókarbantartás teljesítése, állagmegóvási beavatkozások elvégzése, valamint a műemléki helyreállítás.
 
@@ -66,7 +66,7 @@ e) azon közérdekű célú beruházás, amelynek megvalósítása érdekében a
 
 26. Próbafeltárás: a régészeti érdekű területek régészeti érintettségének megállapítása, a régészeti lelőhelyek állapotának felmérése, jellegének, térbeli kiterjedésének és rétegsorainak megállapítása, a próbafeltárást követő megelőző feltárás esetén a veszélyeztető források és a megelőző feltárás módjának és mértékének meghatározása vagy a lelőhelyek védelmi fokozatának megállapítása és osztályozása céljából végzett régészeti feltárás.
 
-27. Régészeti bontómunka: a régészeti örökség elemeinek feltárás keretében történő kibontására és eredeti összefüggéseinek értelmezésére irányuló régészeti szaktevékenység (felületre bontás, rétegbontás, régészeti emlék bontása, nyesés, metszetek készítése), amely földmunkával járó beavatkozás, fejlesztés, beruházás esetén régészeti feladatellátásnak minősül.
+27. Régészeti bontómunka: a régészeti örökség elemeinek feltárás keretében történő kibontására és eredeti összefüggéseinek értelmezésére irányuló régészeti tevékenység (felületre bontás, rétegbontás, régészeti emlék bontása, nyesés, metszetek készítése), amely földmunkával járó beavatkozás, fejlesztés, beruházás esetén régészeti feladatellátásnak minősül.
 
 28. Régészeti emlék: a régészeti örökség ingatlaneleme.
 

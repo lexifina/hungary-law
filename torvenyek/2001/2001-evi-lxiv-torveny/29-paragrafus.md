@@ -6,12 +6,4 @@
 
 (2) A műemlékké nyilvánítás tudományos előkészítését a hatóság folytatja le.
 
-(3) A védelem alá vonni tervezett sajátos területen álló ingatlan, valamint a nyilvántartott műemléki érték ingatlan esetén
-
-a) a 28/A. § (2a) bekezdésében meghatározott jogosultakat, és
-
-b) a jogszabályban meghatározott egyéb érintett személyt és szervezetet
-
-jogszabályban meghatározott módon értesíteni kell a műemlékké nyilvánítás tudományos előkészítésének befejezéséről.
-
-(4) A műemlékké nyilvánításról a tulajdonos (tulajdonosi joggyakorló) vagy tulajdonosi közösség és a települési – a fővárosban a fővárosi kerületi – polgármester véleményét jogszabályban meghatározott módon ki kell kérni.
+(3)–(4)

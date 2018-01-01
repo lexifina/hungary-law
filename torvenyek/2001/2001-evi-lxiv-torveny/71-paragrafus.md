@@ -36,6 +36,6 @@ i) azokról a kulturális javakról, amelyek védettségét megszüntették,
 
 j) a védetté nyilvánításra javasolt kulturális javakról,
 
-k) a 64. § d) pontja szerint a kulturális javak körébe sorolt kulturális javakról, valamint
+k) a 64/A. § szerint a kulturális javak körébe sorolt kulturális javakról, valamint
 
 l) jogszabályban meghatározott egyéb adatokról.

@@ -1,4 +1,4 @@
-20. § (1) Régészeti feltárás – jogszabály eltérő rendelkezése hiányában – feltárási engedély alapján végezhető. Az engedélyt a hatóság adja ki. A hatóság régészeti örökségvédelmi indokok alapján az engedélyt fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja. A hatóság nagyberuházás esetén az engedélyt fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítja.
+20. § (1) Régészeti feltárás – jogszabály eltérő rendelkezése hiányában – feltárási engedély alapján végezhető. Az engedélyt a hatóság adja ki. A hatóság régészeti örökségvédelmi indokok alapján az engedélyt azonnal végrehajthatóvá nyilváníthatja. A hatóság nagyberuházás esetén az engedélyt azonnal végrehajthatóvá nyilvánítja.
 
 (2) Feltárási engedély nélkül végezhető tevékenység
 

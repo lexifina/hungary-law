@@ -36,6 +36,6 @@ b) az eredeti állapot helyreállítására kötelezi a tevékenységet végzőt
 
 (8) Ha a végezni kívánt tevékenység jellegét, tartalmát vagy ütemezését tekintve a kérelem benyújtását követően megváltozik, a kérelmező új kérelmet nyújt be a Kiemelt Nemzeti Emlékhely Bizottsághoz.
 
-(9) A Kiemelt Nemzeti Emlékhely Bizottság a kérelmező személyes adatait a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény adatkezelésre vonatkozó rendelkezéseinek alkalmazásával kezelheti.
+(9) A Kiemelt Nemzeti Emlékhely Bizottság a kérelmező személyes adatait általános közigazgatási rendtartásról szóló törvény adatkezelésre vonatkozó rendelkezéseinek alkalmazásával kezelheti.
 
-(10) A 61/I. § (7) és (8) bekezdésével, valamint a (7) bekezdéssel összefüggésben keletkezett polgári jogi igények érvényesítése során az Országgyűlés Hivatala mint a kiemelt nemzeti emlékhely vagyonkezelője perelhet és perelhető, a perre a Fővárosi Törvényszék kizárólagosan illetékes. E rendelkezést kell alkalmazni a Kiemelt Nemzeti Emlékhely Bizottság nyilatkozatának 61/I. § (9) bekezdése szerinti bírósági felülvizsgálatára is.
+(10) A 61/I. § (7) és (8) bekezdésével, valamint a (7) bekezdéssel összefüggésben keletkezett polgári jogi igények érvényesítése során az Országgyűlés Hivatala mint a kiemelt nemzeti emlékhely vagyonkezelője perelhet és perelhető, a perre a Fővárosi Törvényszék kizárólagosan illetékes. E rendelkezést kell alkalmazni a Kiemelt Nemzeti Emlékhely Bizottság nyilatkozatának 61/I. § (9) bekezdése szerinti megtámadására is.

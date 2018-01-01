@@ -1,1 +1,1 @@
-11/A. § A régészeti lelőhelyek nyilvántartásba vételének szabályait jogszabály állapítja meg.
+11/A. § A régészeti lelőhelyek védelmének részletes szabályait jogszabály állapítja meg.

@@ -10,6 +10,6 @@ a) a kivitel veszélyezteti a kulturális érdekeket vagy a tárgy biztonságát
 
 b) a kivitellel érintett tárgyra nem vonatkozik állami garanciavállalás, biztosítási szerződés vagy ezeknek megfelelő egyéb kötelezettségvállalás;
 
-c) külön jogszabályban meghatározott tárgyak esetén a miniszter a kivitelhez nem adja hozzájárulását.
+c) külön jogszabályban meghatározott tárgyak esetén a kultúráért felelős miniszter a külföldi kölcsönzéshez nem adja hozzájárulását.
 
 (4) Az ideiglenes kiviteli engedély határozott időre, legfeljebb a kivitellel érintett tárgyra vonatkozó állami garancia, biztosítási szerződés vagy ezeknek megfelelő egyéb kötelezettségvállalás időtartamára adható.

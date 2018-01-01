@@ -30,7 +30,7 @@ d) a Házbizottság által jelölt személy.
 
 (8) A (4) bekezdésben meghatározott ingatlanon, valamint a kiemelt nemzeti emlékhelyhez tartozó közterületen bejelentéshez kötött tevékenység csak a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájáruló nyilatkozata kiadását követően jelenthető be. Az előzetes hozzájáruló nyilatkozat kiadására a (4)–(6) bekezdést megfelelően alkalmazni kell. A bejelentést tevő az előzetes hozzájáruló nyilatkozatot csatolja a bejelentéshez. Ha a Kiemelt Nemzeti Emlékhely Bizottság az előzetes hozzájáruló nyilatkozat megtételét elmulasztja vagy jogellenesen megtagadja, az előzetes hozzájáruló nyilatkozatot a kérelmező keresetére a bíróság ítéletével pótolhatja. A bíróság által pótolt előzetes hozzájáruló nyilatkozat a (6) bekezdés szerinti feltételt állapíthat meg.
 
-(9) A kérelmező a nyilatkozat felülvizsgálatát, ha a Kiemelt Nemzeti Emlékhely Bizottság az előzetes hozzájáruló nyilatkozatot nem adja meg vagy az előzetes hozzájáruló nyilatkozat feltételt állapít meg, a nyilatkozat közlésétől számított 30 napon belül bíróságtól kérheti.
+(9) A kérelmező a nyilatkozatot akkor támadhatja meg, ha a Kiemelt Nemzeti Emlékhely Bizottság az előzetes hozzájáruló nyilatkozatot nem adja meg vagy az előzetes hozzájáruló nyilatkozat feltételt állapít meg.
 
 (10) Ha a Kiemelt Nemzeti Emlékhely Bizottság az előzetes hozzájáruló nyilatkozatot nem adja meg vagy az előzetes hozzájáruló nyilatkozat feltételt állapít meg, és a (4) bekezdés szerinti tevékenység engedélyezésével összefüggésben közigazgatási hatósági eljárás folyamatban van, a nyilatkozat a közigazgatási hatósági eljárás keretében vizsgálható felül.
 

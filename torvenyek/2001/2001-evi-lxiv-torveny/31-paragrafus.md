@@ -6,7 +6,7 @@ a) a nyilvántartott műemléki értéket a védetté nyilvánítás előkészí
 
 b) ha a nyilvántartott műemléki értéket megsemmisülés vagy értékeinek eltűnése fenyegeti,
 
-soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapján legfeljebb egyéves időtartamra ideiglenes védelem alá helyezheti, és a határozat fellebbezésre tekintet nélküli végrehajtását rendelheti el.
+soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapján legfeljebb egyéves időtartamra ideiglenes védelem alá helyezheti, és a határozatot azonnal végrehajthatóvá nyilváníthatja.
 
 (2) Az ideiglenes védelem nem hosszabbítható meg.
 
@@ -16,4 +16,4 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 (4a) Az ideiglenes műemléki védettség ismételten nem rendelhető el.
 
-(5) Ha a hatóság a műemlékké nyilvánítás előkészítése során megállapítja, hogy a védetté nyilvánítás nem indokolt, az ideiglenes védettséget meg kell szüntetni. Az ideiglenes műemléki védettség elrendeléséről és megszüntetéséről a 29. § (3) bekezdésében felsoroltakat értesíteni kell.
+(5) Ha a hatóság a műemlékké nyilvánítás előkészítése során megállapítja, hogy a védetté nyilvánítás nem indokolt, az ideiglenes védettséget meg kell szüntetni.

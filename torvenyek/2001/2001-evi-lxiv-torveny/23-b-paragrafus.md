@@ -8,6 +8,8 @@
 
 (4) Az akkreditációt vissza kell vonni
 
-a) ha az akkreditáció elnyerésének feltételei már nem állnak fenn, vagy
+a) ha az akkreditált intézmény – jogszabályban meghatározott kivétellel – nem tesz eleget régészeti feltárási kötelezettségének,
 
-b) a 27/A. § (3) bekezdésében foglaltak esetén.
+b) ha az akkreditáció elnyerésének feltételei már nem állnak fenn, vagy
+
+c) a 27/A. § (3) bekezdésében foglaltak esetén.
