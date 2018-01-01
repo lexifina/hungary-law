@@ -1,5 +1,8 @@
-## 8. § A 3. § (1) bekezdése szerinti tevékenységi engedély iránti kérelem az 5. melléklet szerinti tartalommal és mellékletek csatolásával nyújtható be.
+## 8. §[^10]
 
 9. § (1) A tevékenységi engedély legfeljebb három évre adható.
 
-(2) A tevékenységi engedély módosítása iránti kérelemhez az ügyfélnek az 5. melléklet 2.2. és 2.3. pontjában meghatározott dokumentumokat kell csatolnia.
+(2)[^11]
+
+[^10]: A 8. §-t a 457/2017. (XII. 28.) Korm. rendelet 384. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: A 9. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 384. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

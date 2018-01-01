@@ -1,4 +1,4 @@
-2. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^19]
+2. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^22]
 
 ## Áruk, amelyeknek Magyarország területéről, kereskedelmi forgalomban, nem EU tagországba, illetve az EGT-ben nem részes államba történő kiviteléhez, reexportjához engedély szükséges
 
@@ -38,4 +38,4 @@ Továbbá: az ADR 1. osztályba tartozó más robbanóanyagok
 
 3.
 
-[^19]: A 2. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^22]: A 2. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.

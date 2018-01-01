@@ -1,5 +1,5 @@
-## 7. §[^7] Az engedélyes az e rendelet alapján kiadott engedélyekben foglalt adatokban bekövetkezett változásról 8 napon belül értesíti az kormányhivatalt.
+## 7/A. §[^9] Az e rendeletben szabályozott közigazgatási hatósági eljárásokban az ügyintézési határidő 25 nap.
 
 ## 4. Tevékenységi engedély
 
-[^7]: A 7. § a 379/2016. (XII. 2.) Korm. rendelet 197. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^9]: A 7/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 383. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
