@@ -1,5 +1,11 @@
-## 4. §[^3]
+## lép.
 
 ## 4. A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységeket végzők képesítésére vonatkozó szabályokról szóló 60/2016. (XII. 28.) NFM rendelet módosítása
 
-[^3]: A 4. § a 8. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## 5. § Hatályát veszti a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységeket végzők képesítésére vonatkozó szabályokról szóló 60/2016. (XII. 28.) NFM rendelet
+
+a) 1. § b) pontjában a „ ,valamint” szövegrész,
+
+b) 1. § c) pontja,
+
+c) VII. fejezete.
