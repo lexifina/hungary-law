@@ -1,8 +1,8 @@
-51/B. § (1) A fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott elektronikus kereskedelmi szolgáltatással összefüggő súlyos jogsértést megállapító, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal vagy a bíróság által hozott jogerős döntést, valamint az azzal kapcsolatos alábbi adatokat:
+51/B. § (1) A fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott elektronikus kereskedelmi szolgáltatással összefüggő súlyos jogsértést megállapító, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal által hozott véglegessé vált döntést vagy a bíróság által hozott jogerős döntést, valamint az azzal kapcsolatos alábbi adatokat:
 
 a) a közzététel e § szerinti jogcímét,
 
-b) a jogerő beálltára történő utalást,
+b) a véglegessé válásra vagy jogerőre történő utalást,
 
 c) az eljáró hatóság vagy bíróság megnevezését,
 
@@ -28,7 +28,7 @@ b) a jogorvoslat során hozott közigazgatási vagy bírósági döntést.
 
 (4) A (3) bekezdés szerint megküldendő közigazgatási döntésből
 
-a) a fogyasztóvédelmi hatóság döntése esetében a Ket. 69/A. § (2) bekezdése alapján a személyes adatot és védett adatot,
+a) a fogyasztóvédelmi hatóság döntése esetében az Ákr. 27. § (2) bekezdése alapján a személyes adatot és védett adatot,
 
 b) a Gazdasági Versenyhivatal döntése esetében a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 55/C. § (2) bekezdése alapján a korlátozottan megismerhető adatot
 
@@ -44,6 +44,6 @@ c) a Bszi. 166. § (4) bekezdését nem kell alkalmazni.
 
 (6) A fogyasztóvédelemért felelős miniszter az (1) és (2) bekezdés szerinti közzétételt a közigazgatási vagy bírósági döntés kézhezvételétől számított 15 napon belül köteles elvégezni.
 
-(7) A fogyasztóvédelemért felelős miniszter az (1) és (2) bekezdés alapján közzétett adatokat – feltéve, hogy a vállalkozás felelősségét az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott újabb súlyos jogsértésért a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal vagy a bíróság jogerősen meg nem állapította – a közzétételtől számított két év elteltével törli a honlapról.
+(7) A fogyasztóvédelemért felelős miniszter az (1) és (2) bekezdés alapján közzétett adatokat – feltéve, hogy a vállalkozás felelősségét az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott újabb súlyos jogsértésért a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal véglegesen vagy a bíróság jogerősen meg nem állapította – a közzétételtől számított két év elteltével törli a honlapról.
 
-(8) A fogyasztóvédelemért felelős miniszter biztosítja, hogy a honlapon az (1) bekezdés alapján közzétett közigazgatási vagy bírósági döntés, valamint az azzal kapcsolatos adatok szövegében a vállalkozás nevére, annak az elektronikus kereskedelmi szolgáltatás nyújtása során használt, a fogyasztók számára beazonosítható elnevezésére, honlapjának címére, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal, valamint a bíróság jogerős döntésére, a jogorvoslati eljárás tényére és a megsértettként megjelölt jogszabályi rendelkezésre keresni lehessen.
+(8) A fogyasztóvédelemért felelős miniszter biztosítja, hogy a honlapon az (1) bekezdés alapján közzétett közigazgatási vagy bírósági döntés, valamint az azzal kapcsolatos adatok szövegében a vállalkozás nevére, annak az elektronikus kereskedelmi szolgáltatás nyújtása során használt, a fogyasztók számára beazonosítható elnevezésére, honlapjának címére, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal végleges döntésére, valamint a bíróság jogerős határozatára, a jogorvoslati eljárás tényére és a megsértettként megjelölt jogszabályi rendelkezésre keresni lehessen.

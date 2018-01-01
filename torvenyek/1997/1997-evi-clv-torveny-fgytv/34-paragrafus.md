@@ -18,4 +18,4 @@ c) a 29. § (4) bekezdésében meghatározott okból a kérelem meghallgatás n�
 
 (7) A bíróság ítélete kizárólag a kötelezést tartalmazó határozat, illetve az ajánlás hatályon kívül helyezésére vonatkozhat.
 
-(8) A bíróság eljárására egyebekben a Polgári perrendtartásról szóló 1952. évi III. törvény I–XIV. fejezetének rendelkezései irányadók.
+(8) A bíróság eljárására egyebekben a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) I–XXX. fejezetének rendelkezései irányadók.

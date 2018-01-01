@@ -2,7 +2,7 @@
 
 55. § (1) Felhatalmazást kap a Kormány, hogy
 
-a)
+a) a fogyasztóvédelmi hatóság által – közigazgatási hatósági hatáskörben eljárva – alkalmazandó kiegészítő eljárási szabályokra
 
 b) a mintavételi költség, továbbá a laboratóriumi, illetve az egyéb vizsgálatok költségének mértékére és megfizetésére,
 

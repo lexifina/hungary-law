@@ -1,6 +1,6 @@
 51. § (1) A fogyasztóvédelmi hatóság határozatát – jogorvoslatra tekintet nélkül – közzéteszi, ha
 
-a) a határozat fellebbezésre tekintet nélkül történő végrehajtását rendelte el a 49. § (2) bekezdése alapján,
+a) a határozat azonnali végrehajtását rendelte el a 49. § (2) bekezdése alapján,
 
 b)
 
@@ -8,7 +8,7 @@ c)
 
 (2) A fogyasztóvédelmi hatóság közzéteszi a 49. § (1) bekezdése szerinti végzését.
 
-(3) A fogyasztóvédelmi hatóság jogerős határozatát közzéteszi, ide nem értve az 51/B. §-ban meghatározott közzétételi kötelezettséggel érintett határozatokat.
+(3) A fogyasztóvédelmi hatóság véglegessé vált határozatát közzéteszi, ide nem értve az 51/B. §-ban meghatározott közzétételi kötelezettséggel érintett határozatokat.
 
 (4) A döntés közzététele a fogyasztóvédelmi hatóság honlapján, továbbá – amennyiben szükséges – a fogyasztóvédelmi hatóság által célszerűnek tartott egyéb módon történik. A közzétett döntésről a fogyasztóvédelmi hatóság a nemzeti hírügynökséget is tájékoztathatja.
 
@@ -18,7 +18,7 @@ a) a közzététel napját,
 
 b) a közzététel e törvény szerinti jogcímét,
 
-c) a jogerő beálltára vagy annak hiányára történő utalást,
+c) a véglegessé válásra vagy annak hiányára történő utalást,
 
 d) az eljáró hatóság megnevezését,
 
@@ -30,7 +30,7 @@ g) a megállapított tényállást,
 
 h) a megsértett jogszabályi rendelkezések megjelölését,
 
-i) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló rendelkezést, valamint
+i) a döntés rendelkező részét, ide nem értve véglegessé vált döntés esetén a jogorvoslatról szóló rendelkezést, valamint
 
 j) a döntéssel szembeni jogorvoslati eljárás tényét.
 

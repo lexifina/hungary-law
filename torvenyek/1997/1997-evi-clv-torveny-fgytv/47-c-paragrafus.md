@@ -36,7 +36,7 @@ bb) pénzügyi műveletek bevételeinek
 
 (5) A fogyasztóvédelmi hatóság – ha a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény eltérően nem rendelkezik – minden esetben bírságot szab ki, ha
 
-a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító jogerős határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
+a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító véglegessé vált határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
 
 b) a jogsértés a fogyasztók széles körét érinti,
 

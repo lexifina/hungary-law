@@ -1,1 +1,1 @@
-48/A. § A fogyasztóvédelmi hatóság döntése ellen fellebbezni csak a megtámadott döntésre vonatkozóan, tartalmilag közvetlenül összefüggő okból, illetve csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre hivatkozva lehet. A fellebbezésben részletesen elő kell adni annak indokait.
+48/A. §

@@ -1,6 +1,6 @@
-49. § (1) A fogyasztóvédelmi hatóság az ügydöntő határozatának meghozataláig terjedő időtartamra fellebbezésre tekintet nélkül végrehajtható végzésében elrendelheti a 47. § (1) bekezdésének a), b), illetve g) pontjában foglaltakat, ha arra a (2) bekezdésben meghatározott feltételek fennállásának valószínűsíthetősége miatt halaszthatatlanul szükség van. E végzését a fogyasztóvédelmi hatóság soron kívül hozza meg.
+49. § (1) A fogyasztóvédelmi hatóság az ügydöntő határozatának meghozataláig terjedő időtartamra azonnal végrehajtható végzésében elrendelheti a 47. § (1) bekezdésének a), b), illetve g) pontjában foglaltakat, ha arra a (2) bekezdésben meghatározott feltételek fennállásának valószínűsíthetősége miatt halaszthatatlanul szükség van. E végzését a fogyasztóvédelmi hatóság soron kívül hozza meg.
 
-(2) A fogyasztóvédelmi hatóság első fokú határozatát az alábbi esetekben, illetve okokból is fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja
+(2) A fogyasztóvédelmi hatóság első fokú határozatát az alábbi esetekben, illetve okokból is azonnal végrehajthatónak nyilváníthatja
 
 a) a 47. § (1) bekezdésének h) pontja szerinti jogkövetkezmény megállapítása esetén,
 
@@ -14,4 +14,4 @@ e) a fiatalkorúak fizikai, szellemi, érzelmi vagy erkölcsi fejlődésének v�
 
 f) jogsértő tartalmú kereskedelmi kommunikáció vagy internetes honlap esetén.
 
-(3) Az (1) bekezdés szerinti végzés ellen önálló fellebbezésnek van helye.
+(3)

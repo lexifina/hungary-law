@@ -11,3 +11,5 @@ a) a jogsértés abbahagyását és a jogsértő eltiltását a további jogsér
 b) a sérelmes helyzet megszüntetését és a jogsértést megelőző állapot helyreállítását.
 
 (4) Az e § szerinti igényérvényesítés nem érinti a fogyasztónak azt a jogát, hogy a jogsértővel szemben a polgári jog szabályai szerint igényét önállóan érvényesítse.
+
+(5) Az e § szerinti pert a Pp. közérdekből indított perre vonatkozó rendelkezései alapján kell lefolytatni.

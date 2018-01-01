@@ -42,7 +42,7 @@ i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
 (11) A (10) bekezdés szerinti eljárási költséget a jogsértésért felelős vállalkozás viseli, ha a minta az előírt követelményeknek nem felel meg.
 
-(12) A (10) bekezdésben foglalt laboratóriumi és kockázatértékelési vizsgálatok elvégzésének időtartama az ügyintézési határidőbe nem számít be.
+(12)
 
 (13) A fogyasztóvédelmi hatóság termék vagy szolgáltatás tekintetében próbavásárlást végezhet.
 

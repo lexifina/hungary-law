@@ -1,6 +1,6 @@
 ## Közérdekű igényérvényesítés
 
-38. § (1) A fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület pert indíthat a fogyasztók polgári jogi igényeinek érvényesítése iránt az ellen, akinek a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezésekbe ütköző tevékenységét a fogyasztóvédelmi hatóság jogerősen megállapította, ha a jogsértő tevékenység a fogyasztók széles, személyében nem ismert, de a jogsértés körülményei alapján meghatározható körét érinti.
+38. § (1) A fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület pert indíthat a fogyasztók polgári jogi igényeinek érvényesítése iránt az ellen, akinek a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezésekbe ütköző tevékenységét a fogyasztóvédelmi hatóság véglegesen megállapította, ha a jogsértő tevékenység a fogyasztók széles, személyében nem ismert, de a jogsértés körülményei alapján meghatározható körét érinti.
 
 (2) A jogsértés bekövetkezésétől számított három év – vagy ha külön törvény a fogyasztók polgári jogi igényeinek elévülésére rövidebb időtartamot állapít meg, akkor annak – eltelte után perindításnak nincs helye. E határidő elmulasztása jogvesztéssel jár. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll. Az igény érvényesítésére nyitva álló határidőbe nem számít bele a fogyasztóvédelmi hatóság eljárásának időtartama.
 
@@ -15,3 +15,5 @@
 (7) A fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület általi igényérvényesítés nem érinti a fogyasztónak azt a jogát, hogy a jogsértővel szemben a polgári jog szabályai szerint igényét önállóan érvényesítse.
 
 (8) Az e § szerinti igényérvényesítési jog megilleti az Európai Gazdasági Térség bármely más tagállamának joga alapján létrejött azon feljogosított szervezeteket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikkének (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesíteni kívánt igény a 2009/22/EK európai parlamenti és tanácsi irányelv I. mellékletében felsorolt európai uniós jogi rendelkezéseket átültető olyan jogszabályi rendelkezések megsértésén alapul, amelyek miatti eljárás a 45/A. § (1)–(3) bekezdése alapján a fogyasztóvédelmi hatóság hatáskörébe tartozik.
+
+(9) Az e § szerinti pert a Pp. közérdekből indított perre vonatkozó rendelkezései alapján kell lefolytatni.
