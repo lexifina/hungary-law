@@ -1,10 +1,10 @@
-## 23. §[^35] Avatási segélyre jogosult tiszti állományba vételekor a honvéd tisztjelölt, altiszti állományba vételekor a honvéd altiszt-jelölt. Az avatási segély összege a felszámítási alap 40%-a, amelyet az avatást megelőző napon kell kifizetni.
+## 23. §[^41] Avatási segélyre jogosult tiszti állományba vételekor a honvéd tisztjelölt, altiszti állományba vételekor a honvéd altiszt-jelölt. Az avatási segély összege a felszámítási alap 40%-a, amelyet az avatást megelőző napon kell kifizetni.
 
 ## 13. Nyugállományúak egyszeri pénzbeli támogatása
 
 24. § (1) Egy alkalommal, kérelemre egyszeri pénzbeli támogatás nyújtható annak a nyugállományú katonának, akinek szociális helyzete és egészségi állapota alapján idősek otthonában történő ellátása indokolt, és erről maga gondoskodik.
 
-(2)[^36] Az egyszeri pénzbeli támogatás mértéke az idősek otthona által megállapított egyszeri hozzájárulás 70%-a, de legfeljebb a felszámítási alap ötvenszerese.
+(2)[^42] Az egyszeri pénzbeli támogatás mértéke az idősek otthona által megállapított egyszeri hozzájárulás 70%-a, de legfeljebb a felszámítási alap ötvenszerese.
 
 (3) A (2) bekezdéstől eltérően az idősek otthona által megállapított egyszeri hozzájárulás teljes mértékben átvállalható, ha a bérlő a HM rendelkezésű lakás bérletét közös megegyezéssel megszünteti és kiürítési térítésben nem részesül.
 
@@ -30,5 +30,5 @@ e) a katonai érdemeinek felsorolását.
 
 (6) Az egyszeri pénzbeli támogatás mértékéről vagy a kérelem elutasításáról szakértői munkacsoport javaslata alapján az MH központi személyügyi szervének vezetője dönt. Az egyszeri támogatás igénybevételéről a nyugállományú katona, az MH központi személyügyi szerve, a HM ingatlangazdálkodásért felelős szervezete és az idősek otthona megállapodást köt.
 
-[^35]: A 23. § a 6/2015. (VI. 22.) HM rendelet 2. § a) pontja szerint módosított szöveg.
-[^36]: A 24. § (2) bekezdése a 6/2015. (VI. 22.) HM rendelet 2. § c) pontja szerint módosított szöveg.
+[^41]: A 23. § a 6/2015. (VI. 22.) HM rendelet 2. § a) pontja szerint módosított szöveg.
+[^42]: A 24. § (2) bekezdése a 6/2015. (VI. 22.) HM rendelet 2. § c) pontja szerint módosított szöveg.

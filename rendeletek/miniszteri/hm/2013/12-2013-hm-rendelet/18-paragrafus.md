@@ -1,4 +1,4 @@
-## 10. [^28] Humánszolgálati és egyéb szolgáltatások
+## 10. [^32] Humánszolgálati és egyéb szolgáltatások
 
 18. § (1) Az állomány tagja és a közalkalmazott a honvédelmi szervezet humánszolgálatának szolgáltatásaként
 
@@ -14,7 +14,7 @@ jogosult.
 
 (3) Az (1) bekezdés b) pontja szerinti szolgáltatásokkal összefüggésben a közösségi célú helyiségek felszerelését, a honvédelmi szervezet által szervezett rendezvényeket az állomány tagja, a tényleges szolgálatot teljesítő önkéntes tartalékos katona és a közalkalmazott térítésmentesen veheti igénybe, illetve látogathatja.
 
-(4)[^29] Az (1)–(3) bekezdésen túl az MH a honvédek érdekében más módon is támogathatja a fizikai alkalmassági követelményeknek való megfelelés, valamint az egészséges életmód és a szabadidősportok feltételeinek megteremtését.
+(4)[^33] Az (1)–(3) bekezdésen túl az MH a honvédek érdekében más módon is támogathatja a fizikai alkalmassági követelményeknek való megfelelés, valamint az egészséges életmód és a szabadidősportok feltételeinek megteremtését.
 
-[^28]: A 10. alcím címe a 6/2014. (IV. 14.) HM rendelet 16. § e) pontja szerint módosított szöveg.
-[^29]: A 18. § (4) bekezdését a 6/2014. (IV. 14.) HM rendelet 14. §-a iktatta be.
+[^32]: A 10. alcím címe a 6/2014. (IV. 14.) HM rendelet 16. § e) pontja szerint módosított szöveg.
+[^33]: A 18. § (4) bekezdését a 6/2014. (IV. 14.) HM rendelet 14. §-a iktatta be.

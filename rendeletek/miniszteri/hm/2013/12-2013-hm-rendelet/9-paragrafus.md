@@ -2,26 +2,26 @@
 
 9. § (1) Évente egy alkalommal tanévindítási hozzájárulásra jogosult
 
-a)[^5] a közoktatásban részt vevő, iskolai tanulmányokat folytató, saját háztartásban nevelt, családi pótlékra jogosító gyermekére tekintettel – ideértve a szülők által időszakonként felváltva gondozott, nevelt gyermeket is, aki után a szülő a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 9. § (4) bekezdésének megfelelően jogosult családi pótlékra – az állomány tárgyév augusztus 1-jén szolgálati viszonyban álló tagja és a tárgyév augusztus 1-jén jogviszonyban álló közalkalmazott, aki a gyermeknek szülője, gyámja – kivéve a gyermekvédelmi gyámot – vagy a szülőnek, gyámnak közös háztartásban élő házastársa vagy élettársa,
+a)[^8] a közoktatásban részt vevő, iskolai tanulmányokat folytató, saját háztartásban nevelt, családi pótlékra jogosító gyermekére tekintettel – ideértve a szülők által időszakonként felváltva gondozott, nevelt gyermeket is, aki után a szülő a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 9. § (4) bekezdésének megfelelően jogosult családi pótlékra – az állomány tárgyév augusztus 1-jén szolgálati viszonyban álló tagja és a tárgyév augusztus 1-jén jogviszonyban álló közalkalmazott, aki a gyermeknek szülője, gyámja – kivéve a gyermekvédelmi gyámot – vagy a szülőnek, gyámnak közös háztartásban élő házastársa vagy élettársa,
 
-b)[^6] az állomány külföldön szolgálatot teljesítő tagja, továbbá külföldön foglalkoztatott vagy külföldi képzésen részt vevő közalkalmazott az a) pont szerint gyermekére tekintettel, ha gyermeke közoktatásban külföldön részesül vagy iskolai tanulmányait külföldön kezdi meg,
+b)[^9] az állomány külföldön szolgálatot teljesítő tagja, továbbá külföldön foglalkoztatott vagy külföldi képzésen részt vevő közalkalmazott az a) pont szerint gyermekére tekintettel, ha gyermeke közoktatásban külföldön részesül vagy iskolai tanulmányait külföldön kezdi meg,
 
-c)[^7] az állomány szolgálati kötelmekkel összefüggő baleset vagy betegség következtében elhunyt, volt tagjának az a) pont szerinti feltételeknek megfelelő gyermeke, továbbá az állomány „Hősi halottá” nyilvánított volt tagja árvaellátásban részesülő, az a) pont szerinti feltételeknek megfelelő gyermeke, és
+c)[^10] az állomány szolgálati kötelmekkel összefüggő baleset vagy betegség következtében elhunyt, volt tagjának az a) pont szerinti feltételeknek megfelelő gyermeke, továbbá az állomány „Hősi halottá” nyilvánított volt tagja árvaellátásban részesülő, az a) pont szerinti feltételeknek megfelelő gyermeke, és
 
-d)[^8] az állomány c) pontba nem tartozó elhunyt, volt tagja, valamint az elhunyt nyugállományú katona az a) pont szerinti feltételeknek megfelelő gyermeke.
+d)[^11] az állomány c) pontba nem tartozó elhunyt, volt tagja, valamint az elhunyt nyugállományú katona az a) pont szerinti feltételeknek megfelelő gyermeke.
 
 (2) A honvéd tisztjelölt és a honvéd altiszt-jelölt az állomány tagjára vonatkozó szabályok szerint jogosult tanévindítási hozzájárulásra, azzal az eltéréssel, hogy ennek összege az állomány tagja részére meghatározott összeg 50%-a.
 
-(3)[^9] A tanévindítási hozzájárulás gyermekenkénti összegét a honvédelemért felelős miniszter évente határozza meg.
+(3)[^12] A tanévindítási hozzájárulás gyermekenkénti összegét a honvédelemért felelős miniszter évente határozza meg.
 
-(4)[^10] Az (1) bekezdés c) pontja szerinti jogosult részére a tanévindítási hozzájárulás összegét a (3) bekezdés szerinti összeg kétszeresében kell megállapítani.
+(4)[^13] Az (1) bekezdés c) pontja szerinti jogosult részére a tanévindítási hozzájárulás összegét a (3) bekezdés szerinti összeg kétszeresében kell megállapítani.
 
-(5)[^11]
+(5)[^14]
 
-[^5]: A 9. § (1) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 7. §-ával megállapított szöveg.
-[^6]: A 9. § (1) bekezdés b) pontja a 25/2016. (XII. 22.) HM rendelet 54. § (1) bekezdésével megállapított szöveg.
-[^7]: A 9. § (1) bekezdés c) pontja a 25/2016. (XII. 22.) HM rendelet 54. § (1) bekezdésével megállapított szöveg.
-[^8]: A 9. § (1) bekezdés d) pontját a 25/2016. (XII. 22.) HM rendelet 54. § (1) bekezdése iktatta be.
-[^9]: A 9. § (3) bekezdése a 20/2015. (XII. 22.) HM rendelet 3. §-ával megállapított szöveg.
-[^10]: A 9. § (4) bekezdését a 20/2015. (XII. 22.) HM rendelet 4. §-a hatályon kívül helyezte, újonnan a 25/2016. (XII. 22.) HM rendelet 54. § (2) bekezdése iktatta be.
-[^11]: A 9. § (5) bekezdését a 20/2015. (XII. 22.) HM rendelet 4. §-a hatályon kívül helyezte.
+[^8]: A 9. § (1) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 7. §-ával megállapított szöveg.
+[^9]: A 9. § (1) bekezdés b) pontja a 25/2016. (XII. 22.) HM rendelet 54. § (1) bekezdésével megállapított szöveg.
+[^10]: A 9. § (1) bekezdés c) pontja a 25/2016. (XII. 22.) HM rendelet 54. § (1) bekezdésével megállapított szöveg.
+[^11]: A 9. § (1) bekezdés d) pontját a 25/2016. (XII. 22.) HM rendelet 54. § (1) bekezdése iktatta be.
+[^12]: A 9. § (3) bekezdése a 20/2015. (XII. 22.) HM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 9. § (4) bekezdését a 20/2015. (XII. 22.) HM rendelet 4. §-a hatályon kívül helyezte, újonnan a 25/2016. (XII. 22.) HM rendelet 54. § (2) bekezdése iktatta be.
+[^14]: A 9. § (5) bekezdését a 20/2015. (XII. 22.) HM rendelet 4. §-a hatályon kívül helyezte.
