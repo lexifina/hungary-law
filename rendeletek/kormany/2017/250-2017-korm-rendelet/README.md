@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-250-20-
 | 2017-10-28 | 2017-250-20-22.4 | 2010: CXXX. törvény |
 | 2017-11-01 | 2017-250-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-11-02 | 2017-250-20-22.6 | 2010: CXXX. törvény |
+| 2018-01-01 | 2017-250-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |

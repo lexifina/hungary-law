@@ -1,4 +1,4 @@
-## 73. §[^38]
+## 73. §[^35]
 
 ## 25. Záró rendelkezések
 
@@ -14,4 +14,4 @@
 
 (6) Az 54. §, az 55. § és a 75. § (2) bekezdése 2019. február 9-én lép hatályba.
 
-[^38]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

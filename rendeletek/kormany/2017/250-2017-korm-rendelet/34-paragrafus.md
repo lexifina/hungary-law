@@ -1,3 +1,3 @@
-## 32–33. §[^25]
+## 32–33. §[^24]
 
-[^25]: A 32–33. § a 74. § (5) bekezdése alapján 2018. február 1-jén lép hatályba.
+[^24]: A 32–33. § a 74. § (5) bekezdése alapján 2018. február 1-jén lép hatályba.
