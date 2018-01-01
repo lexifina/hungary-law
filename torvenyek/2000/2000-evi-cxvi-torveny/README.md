@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-116-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2000-116-00-00.6 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2000-116-00-00.7 |
 | 2016-06-15 | 2016. évi XXIX. törvény | 2000-116-00-00.8 |
+| 2018-01-01 | 2017. évi CXXXVI. törvény | 2000-116-00-00.9 |
