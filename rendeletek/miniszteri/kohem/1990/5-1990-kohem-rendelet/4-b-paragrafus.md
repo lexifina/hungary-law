@@ -1,25 +1,8 @@
 ## Típusvizsgálat, típusvizsgálói jegyzék
 
-4/B. §[^73] (1) A járművek típusvizsgálatára – az Európai Közösség jogszabályaival összhangban – a Függelékekben meghatározottak alkalmazandóak. A Függelékek hatálya alá nem tartozó járműtípus esetében a típusvizsgálat az MR.-ben a járműkategóriához meghatározott feltételek teljesülésének vizsgálatára terjed ki.
+4/B. §[^72] (1) A járművek típusvizsgálatára – az Európai Közösség jogszabályaival összhangban – a Függelékekben meghatározottak alkalmazandóak. A Függelékek hatálya alá nem tartozó járműtípus esetében a típusvizsgálat az MR.-ben a járműkategóriához meghatározott feltételek teljesülésének vizsgálatára terjed ki.
 
-(2) A típusvizsgálatot a típusbizonyítvány kérelmezőjének költségére, a kérelmező által rendelkezésre bocsátott dokumentumok figyelembevételével a közlekedési hatóság illetve, – külön jogszabályban meghatározott esetben – a közlekedési hatóság által meghatározott tartalommal a típusvizsgáló engedélyezésének részletes eljárási szabályait, a típusvizsgálóval kötendő hatósági szerződés tartalmát meghatározó külön kormányrendeletben meghatározott tanúsító szervezet (a továbbiakban: típusvizsgáló) végzi.
+(2)–(4)[^73]
 
-(3) A típusbizonyítvány kérelmezője köteles egy – a járműtípushoz tartozó, vizsgálatra alkalmas állapotú – járművet díjmentesen
-
-a) a típusvizsgálat elvégzéséhez a típusvizsgáló rendelkezésére bocsátani, valamint
-
-b) a járműtípus konstrukciós jellemzőinek részletes megismerése céljából a közlekedési hatóságnak bemutatni.
-
-(4) Típusvizsgáló tevékenységet az a tanúsító szervezet végezhet, amely megfelel a tevékenység végzésére vonatkozó feltételeket meghatározó külön jogszabályban foglaltaknak, valamint
-
-a) a vizsgálni kívánt járműkategória, alkatrész, tartozék, önálló műszaki egység, illetve járműtulajdonság tekintetében a Függelékekben meghatározottaknak, és
-
-b) rendelkezik az MR.-ben meghatározott követelményeknek való megfelelőség vizsgálatához szükséges
-
-ba) megfelelő szakmai felkészültségű vizsgáló személyzettel,
-
-bb) vizsgáló berendezésekkel, és
-
-bc) vizsgálati előírásokkal (pl. ENSZ EGB jóváhagyási előírások Európai Közösségi jogszabályok vonatkozó szabványok).
-
-[^73]: A 4/A. §-t és az előtte levő címet a 12/1998. (V. 22.) KHVM rendelet 4. §-a iktatta be, számozását 4/B. §-ra változtatta a 39/2002. (XII. 28.) GKM rendelet 2. §-a, szövege a 66/2009. (XI. 27.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^72]: A 4/A. §-t és az előtte levő címet a 12/1998. (V. 22.) KHVM rendelet 4. §-a iktatta be, számozását 4/B. §-ra változtatta a 39/2002. (XII. 28.) GKM rendelet 2. §-a, szövege a 66/2009. (XI. 27.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^73]: A 4/B. § (2)–(4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 5. § c) pontja hatályon kívül helyezte.

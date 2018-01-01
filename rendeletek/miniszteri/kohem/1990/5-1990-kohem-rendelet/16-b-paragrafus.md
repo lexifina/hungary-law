@@ -1,6 +1,6 @@
-## Fejlesztési célú jármű[^243]
+## Fejlesztési célú jármű[^241]
 
-16/B. §[^244] (1) A járműfejlesztő a tevékenység megkezdését a közlekedésért felelős miniszter részére – a 13. melléklet 1. pontjában meghatározott tartalmú bejelentőlap benyújtásával – bejelenti. A bejelentett adatokat a közlekedésért felelős miniszter nyilvántartásba veszi. A 2. § (3b) bekezdésében meghatározott fejlesztési célú járművek közúti tesztje abban az esetben végezhető, ha a bejelentés alapján nyilvántartásba vett adatok azokra kifejezetten vonatkoznak.
+16/B. §[^242] (1) A járműfejlesztő a tevékenység megkezdését a közlekedésért felelős miniszter részére – a 13. melléklet 1. pontjában meghatározott tartalmú bejelentőlap benyújtásával – bejelenti. A bejelentett adatokat a közlekedésért felelős miniszter nyilvántartásba veszi. A 2. § (3b) bekezdésében meghatározott fejlesztési célú járművek közúti tesztje abban az esetben végezhető, ha a bejelentés alapján nyilvántartásba vett adatok azokra kifejezetten vonatkoznak.
 
 (2) A fejlesztési célú autonóm járművek közúton történő tesztelését végző járműfejlesztő akkor vehető nyilvántartásba, ha valamely tevékenységét az ISO 26262 szabvány szerint végzi, illetve valamely tevékenységre vonatkozó, folyamatban levő ISO 26262 szabvány szerinti tanúsítási folyamat részese, vagy az ISO 26262 szabvány tanúsítására feljogosított valamely tanúsító szervezet szakvéleménye alátámasztja az autonómjármű-technológia funkcionális biztonságára vonatkozó, a járműfejlesztőnél alkalmazott fejlesztési gyakorlat megfelelőségét. Amennyiben a fenti feltételek nem állnak fenn, a közlekedésért felelős miniszter a 2. § (3b) bekezdés b) pontjában meghatározott járművek tekintetében a nyilvántartásba vételt megtagadja, illetve az azokra vonatkozó adatokat törli a nyilvántartásból.
 
@@ -30,5 +30,5 @@ e) a járművön tervezett fejlesztés, módosítás vagy műszaki beavatkozás 
 
 (10) A járműfejlesztőnek az autonóm jármű vezetésére a 13. melléklet 2. pontjában foglalt követelményeknek megfelelő tesztvezetőt kell kijelölni, és a vezetési tevékenységéről nyilvántartást kell vezetni.
 
-[^243]: A 16/B. §-t megelőző alcímet a 39/2015. (VI. 30.) NFM rendelet 6. §-a iktatta be.
-[^244]: A 16/B. §-t a 39/2015. (VI. 30.) NFM rendelet 6. §-a iktatta be, szövege a 11/2017. (IV. 12.) NFM rendelet 3. §-ával megállapított szöveg.
+[^241]: A 16/B. §-t megelőző alcímet a 39/2015. (VI. 30.) NFM rendelet 6. §-a iktatta be.
+[^242]: A 16/B. §-t a 39/2015. (VI. 30.) NFM rendelet 6. §-a iktatta be, szövege a 11/2017. (IV. 12.) NFM rendelet 3. §-ával megállapított szöveg.

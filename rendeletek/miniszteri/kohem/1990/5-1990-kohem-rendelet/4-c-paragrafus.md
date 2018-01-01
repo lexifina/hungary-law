@@ -16,7 +16,7 @@ b) a forgalomban való részvétel jogosultságát igazoló érvényes dokumentu
 
 (4) A jármű-honosítási eljárásban a jármű nyilvántartásba vételéhez szükséges, valamint a regisztrációs adóról szóló törvényben meghatározott további adatait a (2) bekezdés b) pontjában meghatározott okmányok figyelembevételével kell megállapítani.
 
-(5)[^81] A jármű-honosítási eljárásban végzett szemle során ellenőrizni kell a jármű azonosító adatait, valamint a (2) bekezdésben említett okmányait, továbbá meg kell állapítani és elektronikusan rögzíteni a jármű nyilvántartásba vételéhez szükséges – az 1. számú mellékletben foglalt „Műszaki adatlap”-on meghatározott – adatokat. A „Műszaki adatlap”-on fel kell tüntetni a (2) bekezdésben említett, a jármű-honosítási eljárás alapjául szolgáló okmányok azonosítóit, valamint – gépjárművek esetén – a „Műszaki adatlap”-on fel kell tüntetni a kilométerszámláló műszer által jelzett értéket és a rögzítés időpontját (dátumát) is.
+(5)[^81]
 
 (6) A nyilvántartásba vételhez szükséges típusjellemző adatokat az EK típusjóváhagyással rendelkező járműtípus esetén a járműhöz a gyártó által kiadott „Megfelelőségi nyilatkozat” alapján, az EK típusjóváhagyással nem rendelkező közösségi jármű esetén a származási ország illetékes hatósága által kiadott forgalmi engedély alapján kell megállapítani.
 
@@ -26,7 +26,7 @@ b) a forgalomban való részvétel jogosultságát igazoló érvényes dokumentu
 
 (9)[^84] A jármű-honosítási eljárásban kiadott „Műszaki adatlapon” a következő időszakos vizsgálat határidejét a származási országban kiadott forgalmi engedély időbeli hatályával megegyezően, de legfeljebb a 11. § (3) bekezdésében meghatározott időtartamban kell meghatározni.
 
-(10)[^85] Ha a szemle során megállapításra kerül, hogy a jármű nem üzemképes, vagy a közlekedés biztonságát veszélyezteti, illetve a környezetet súlyosan szennyezi, a közlekedési hatóság a „Műszaki adatlap” időbeli hatályaként a „Műszaki adatlap” kiadásának napját tünteti fel.
+(10)[^85]
 
 [^74]: A 4/C. §-t megelőző alcímet a 105/2007. (XII. 23.) GKM rendelet 4. §-a iktatta be.
 [^75]: A 4/C. §-t a 105/2007. (XII. 23.) GKM rendelet 4. §-a iktatta be.
@@ -35,8 +35,8 @@ b) a forgalomban való részvétel jogosultságát igazoló érvényes dokumentu
 [^78]: A 4/C. § (1b) bekezdését a 22/2012. (V. 8.) NFM rendelet 2. §-a iktatta be.
 [^79]: A 4/C. § (2) bekezdése a 18/2013. (V. 9.) NFM rendelet 4. §-ával megállapított szöveg.
 [^80]: A 4/C. § (3) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés d) pontja hatályon kívül helyezte, újonnan a 62/2011. (XI. 29.) NFM rendelet 4. § (1) bekezdése iktatta be.
-[^81]: A 4/C. § (5) bekezdése a 62/2011. (XI. 29.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^81]: A 4/C. § (5) bekezdését az 55/2017. (XII. 27.) NFM rendelet 5. § d) pontja hatályon kívül helyezte.
 [^82]: A 4/C. § (7) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés d) pontja hatályon kívül helyezte.
 [^83]: A 4/C. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 5. §-ával megállapított szöveg.
 [^84]: A 4/C. § (9) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 5. §-ával megállapított szöveg.
-[^85]: A 4/C. § (10) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 5. §-ával megállapított szöveg.
+[^85]: A 4/C. § (10) bekezdését az 55/2017. (XII. 27.) NFM rendelet 5. § d) pontja hatályon kívül helyezte.
