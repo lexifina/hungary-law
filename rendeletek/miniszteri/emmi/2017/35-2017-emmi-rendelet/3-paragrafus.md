@@ -1,3 +1,3 @@
-## 2. §[^2]
+## 2. § A könyvtári szakfelügyeletről szóló 14/2001. (VII. 5.) NKÖM rendelet (a továbbiakban: R1.) 1. §-a a következő (3) bekezdéssel egészül ki:
 
-[^2]: A 2. § a 21. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## „(3) E rendelet hatálya nem terjed ki az általános közigazgatási rendtartásról szóló törvény szerinti hatósági ellenőrzésre.”
