@@ -1,9 +1,10 @@
-3. § (1) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatóság – a hatóság határozatának meghozataláig felhasználható – előzetes szakhatósági állásfoglalást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 44. § (8) bekezdése szerint használja fel.
-
-(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
+3. § (1)–(2)[^1]
 
 (3) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – amennyiben jogszabály rövidebbet nem állapít meg – nyolc nap.
 
 (4) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – amennyiben jogszabály rövidebbet nem állapít meg, valamint az (5) bekezdés kivételével – tizenöt nap.
 
-(5) A Beruházás megvalósításához szükséges környezetvédelmi engedélyezési eljárásokra vonatkozó ügyintézési határidő – amennyiben a jogszabály rövidebbet nem állapít meg – negyvenkét nap.
+(5)[^2] A környezetvédelmi engedély megszerzésére irányuló eljárás ügyintézési határidejének számításánál a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 3. § (1) bekezdésében foglaltak irányadóak.
+
+[^1]: A 3. § (1)–(2) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 304. §-a hatályon kívül helyezte.
+[^2]: A 3. § (5) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 303. §-ával megállapított szöveg.
