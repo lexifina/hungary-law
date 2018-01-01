@@ -1,0 +1,5 @@
+### 109. § [Becslés]
+
+(1) A becslés olyan bizonyítási módszer, amely a törvényeknek megfelelő, a valós adó, illetve költségvetési támogatás alapját valószínűsíti. A becslésnél az adóalap megállapítása szempontjából lényeges, rendelkezésre álló tényeket, körülményeket, bizonyítékokat, nyilatkozatokat kell figyelembe venni és együttesen értékelni. A becslés alapján számított adóalaptól, költségvetési támogatás alapjától való eltérést az adózó hitelt érdemlő adatokkal bizonyíthatja.
+
+(2) Az állami adó- és vámhatóság becslési adatbázist tart fenn kiválasztási és ellenőrzési tevékenysége támogatása céljából. A becslési adatbázis tartalmazza a korábban lefolytatott ellenőrzési tapasztalatok, megállapítások alapján az egyes tevékenységi körök vonatkozásában, területi bontásban a forgalmi, létszám és egyéb, az adókötelezettséget megalapozó adatokat. A becslési adatbázis évenkénti aktualizálása során az állami adó- és vámhatóság figyelembe veszi a bevallásokban közölt, valamint a Központi Statisztikai Hivatal által tájékoztatás keretében rendelkezésére bocsátott, illetve hivatalosan közzétett adatokat is.
