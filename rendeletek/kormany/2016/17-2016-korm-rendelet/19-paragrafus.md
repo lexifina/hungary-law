@@ -20,11 +20,11 @@ d) a bővítés megépítése érdekében felmerült építménybontási költs�
 
 (5) Ha a támogatott személy a 14. § (3) bekezdés e) pontja alapján vállaltakat meghaladó mértékben teljesíti a hitelintézet részére a számlabemutatási kötelezettségét, legfeljebb a hitelintézet által elfogadott költségvetés összegének erejéig bemutatott számlák figyelembevételével, legfeljebb a (3) bekezdés alapján számított összegű kedvezményre jogosult.
 
-(6)[^26] Ha az (5) bekezdés szerinti esetben a támogatott személy hitelintézetnél a bővítendő lakással összefüggésben felmerülő lakáscélú kölcsönszerződéssel rendelkezik, a különbözet a kölcsöntartozás csökkentésére használható fel.
+(6)[^32] Ha az (5) bekezdés szerinti esetben a támogatott személy hitelintézetnél a bővítendő lakással összefüggésben felmerülő lakáscélú kölcsönszerződéssel rendelkezik, a különbözet a kölcsöntartozás csökkentésére használható fel.
 
 (7) Ha a lakás bővítése során bontott anyagok is felhasználásra kerülnek, úgy ezeknek az építőipari kivitelezési tevékenység felelős műszaki vezetője által írásban igazolt értékéig a számlabenyújtási kötelezettség legfeljebb a 14. § (3) bekezdés e) pontja szerinti összeg 20 százalékával csökkenthető.
 
-(8)[^27] Ha a támogatott személy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény szerinti közhasznú jogállású szervezet vagy települési önkormányzat által kiírt nyilvános pályázat útján az építkezéshez szükséges természetbeni juttatásban részesül, a természetbeni juttatás támogatást nyújtó által igazolt értékéig a 14. § (3) bekezdés e) pontja szerinti számlabenyújtási kötelezettség csökkenthető.
+(8)[^33] Ha a támogatott személy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény szerinti közhasznú jogállású szervezet vagy települési önkormányzat által kiírt nyilvános pályázat útján az építkezéshez szükséges természetbeni juttatásban részesül, a természetbeni juttatás támogatást nyújtó által igazolt értékéig a 14. § (3) bekezdés e) pontja szerinti számlabenyújtási kötelezettség csökkenthető.
 
-[^26]: A 19. § (6) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^27]: A 19. § (8) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^32]: A 19. § (6) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^33]: A 19. § (8) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 23. § (2) bekezdése iktatta be.

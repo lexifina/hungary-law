@@ -10,12 +10,12 @@ d) a támogatott személy vagy a gyermek, akire tekintettel a családi otthonter
 
 e) a támogatott személy az 1. mellékletben nem szereplő vétség miatt letöltendő szabadságvesztés büntetését tölti,
 
-f)[^20] a nagykorú gyermek, akire tekintettel a családi otthonteremtési kedvezményt igényelték, elköltözik,
+f)[^26] a nagykorú gyermek, akire tekintettel a családi otthonteremtési kedvezményt igényelték, elköltözik,
 
-g)[^21] a kiskorú gyermek, akire tekintettel a családi otthonteremtési kedvezményt igényelték, a nagykorúvá válását követően elköltözik, vagy
+g)[^27] a kiskorú gyermek, akire tekintettel a családi otthonteremtési kedvezményt igényelték, a nagykorúvá válását követően elköltözik, vagy
 
-h)[^22] a támogatott személy és a gyermek a támogatott személy foglalkoztatásra irányuló jogviszonya következtében – ideértve a sajátos egyházi jogviszonyt is – a foglalkoztatásra irányuló jogviszony jellegéből következően köteles a szolgálati helyén a foglalkoztató által térítésmentesen biztosított szolgálati lakásban lakni a foglalkoztatásra irányuló jogviszony fennállása alatt.
+h)[^28] a támogatott személy és a gyermek a támogatott személy foglalkoztatásra irányuló jogviszonya következtében – ideértve a sajátos egyházi jogviszonyt is – a foglalkoztatásra irányuló jogviszony jellegéből következően köteles a szolgálati helyén a foglalkoztató által térítésmentesen biztosított szolgálati lakásban lakni a foglalkoztatásra irányuló jogviszony fennállása alatt.
 
-[^20]: A 15. § f) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § e) pontja szerint módosított szöveg.
-[^21]: A 15. § g) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § f) pontja szerint módosított szöveg.
-[^22]: A 15. § h) pontját a 273/2016. (IX. 15.) Korm. rendelet 22. §-a iktatta be.
+[^26]: A 15. § f) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § e) pontja szerint módosított szöveg.
+[^27]: A 15. § g) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § f) pontja szerint módosított szöveg.
+[^28]: A 15. § h) pontját a 273/2016. (IX. 15.) Korm. rendelet 22. §-a iktatta be.

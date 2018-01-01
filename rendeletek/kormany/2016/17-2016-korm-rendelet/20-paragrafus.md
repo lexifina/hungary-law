@@ -4,7 +4,7 @@
 
 (2) A fiatal házaspár gyermekvállalásának teljesítésére előírt határidő – a (6) és (7) bekezdésben foglalt eltérésekkel – egy gyermek vállalása esetén 4 év, két gyermek vállalása esetén 8 év.
 
-(3)[^28] A vállalt gyermek megszületésére vonatkozó határidőt lakás
+(3)[^34] A vállalt gyermek megszületésére vonatkozó határidőt lakás
 
 a) vásárlása esetén a támogatási szerződés megkötésének időpontjától,
 
@@ -20,7 +20,7 @@ c) egyszerű bejelentéshez kötött bővítése esetén a felépítés megtört
 
 (6) A gyermekvállalás teljesítésére vonatkozó határidő a várandósság orvosilag megállapított tényére tekintettel a várandósság végéig meghosszabbodik, ha a fiatal házaspár a várandósság tényét orvosi bizonyítvánnyal a vállalási határidő lejártáig a hitelintézetnek igazolja.
 
-(7)[^29] Ha a fiatal házaspár a gyermekvállalást örökbefogadással kívánja teljesíteni és a gyámügyi feladatkörében eljáró kormányhivatalnak az örökbefogadásra való alkalmasságot megállapító határozatát a hitelintézet részére a (2) bekezdés szerinti, gyermekvállalás teljesítésére vonatkozó határidő lejárta előtt bemutatja, a gyermekvállalás teljesítésére vonatkozó határidő két évvel meghosszabbodik. A hitelintézet a fiatal házaspárt és a járási hivatalt a gyermekvállalás teljesítésére vonatkozó határidő meghosszabbításáról írásban értesíti.
+(7)[^35] Ha a fiatal házaspár a gyermekvállalást örökbefogadással kívánja teljesíteni és a gyámügyi feladatkörében eljáró kormányhivatalnak az örökbefogadásra való alkalmasságot megállapító határozatát a hitelintézet részére a (2) bekezdés szerinti, gyermekvállalás teljesítésére vonatkozó határidő lejárta előtt bemutatja, a gyermekvállalás teljesítésére vonatkozó határidő két évvel meghosszabbodik. A hitelintézet a fiatal házaspárt és a járási hivatalt a gyermekvállalás teljesítésére vonatkozó határidő meghosszabbításáról írásban értesíti.
 
 (8) A gyermekvállalás teljesítése a támogatott személy által örökbefogadott, valamint bírósági vagy hatósági határozat következtében utóbb a háztartásába került vér szerinti gyermek is. A gyermekvállalás teljesítését a Kincstár a 14. § (3) bekezdés m) pont szerinti hozzájárulás alapján megállapítja és erről a hitelintézetet értesíti.
 
@@ -28,5 +28,5 @@ c) egyszerű bejelentéshez kötött bővítése esetén a felépítés megtört
 
 (10) Ha a fiatal házaspár vállalt gyermeke után nem igényelt családtámogatási ellátást vagy azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényelte, úgy – a kiállítást követő 60 napon belül – a gyermekvállalás teljesítését igazoló okiratot és a gyermek adóazonosító jelét tartalmazó adóigazolványát köteles a hitelintézet részére bemutatni.
 
-[^28]: A 20. § (3) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 50. §-ával megállapított szöveg.
-[^29]: A 20. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 3. pontja szerint módosított szöveg.
+[^34]: A 20. § (3) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^35]: A 20. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 3. pontja szerint módosított szöveg.

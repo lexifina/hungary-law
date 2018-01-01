@@ -8,9 +8,9 @@
 
 3. gyermek:
 
-a)[^6] a magzat a várandósság betöltött 12. hetét követően, valamint
+a)[^10] a magzat a várandósság betöltött 12. hetét követően, valamint
 
-b)[^7] aki az igénylő vér szerinti vagy örökbefogadott eltartottja, és
+b)[^11] aki az igénylő vér szerinti vagy örökbefogadott eltartottja, és
 
 ba) a 25. életévét még nem töltötte be vagy
 
@@ -68,5 +68,5 @@ e) közműves ivóvíz-szolgáltatással, ennek hiányában a telken ivóvíz mi
 
 (2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló törvényben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, az országos településrendezési és az építési követelményekről szóló kormányrendeletben, valamint az épített környezet alakításáról és védelméről szóló törvényben meghatározottak szerint kell értelmezni.
 
-[^6]: Az 5. § (1) bekezdés 3. pont a) alpontja a 273/2016. (IX. 15.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
-[^7]: Az 5. § (1) bekezdés 3. pont b) alpontja a 273/2016. (IX. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^10]: Az 5. § (1) bekezdés 3. pont a) alpontja a 273/2016. (IX. 15.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (1) bekezdés 3. pont b) alpontja a 273/2016. (IX. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
