@@ -1,0 +1,15 @@
+4. § (1) A Hivatal rehabilitációs orvosszakértői tevékenységre jogosult személyekről vezetett nyilvántartása (a továbbiakban: rehabilitációs orvosszakértői névjegyzék) – a törvényben meghatározott adatokon túl – a következő adatokat tartalmazza:
+
+a) az 5. § szerinti szüneteltetés kezdő és záró időpontja,
+
+b) – a határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenység kivételével – a bejelentés lejártának időpontja.
+
+(2) A Hivatal – a törvényben meghatározott adatokon túl – a honlapján naprakészen közhírré teszi a rehabilitációs orvosszakértői tevékenységre jogosult személy elérhetőségére, valamint a végzettségére, képesítésére vonatkozó, a 2. melléklet h)–j) pontjában foglalt adatokat, valamint intézkedik azoknak a Szociális Ágazati Portálon történő közhírré tételéről.
+
+(3) A rehabilitációs orvosszakértőt – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 28. §-ában foglaltakon túl – törölni kell a rehabilitációs orvosszakértői névjegyzékből, ha
+
+a) elhunyt,
+
+b) a 6. § szerinti továbbképzési kötelezettségét nem teljesíti, vagy
+
+c) a szakértői tevékenység végzéséhez jogszabályban előírt feltételek már nem állnak fenn.
