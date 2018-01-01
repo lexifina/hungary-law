@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-20-00-00
 | 2013-01-01 | 2012. évi XCIII. törvény | 1991-20-00-00.49 |
 | 2016-01-05 | 2015. évi CCXXX. törvény | 1991-20-00-00.50 |
 | 2016-10-01 | 2016. évi LXVII. törvény | 1991-20-00-00.51 |
+| 2018-01-01 | 2006. évi CIX. törvény | 1991-20-00-00.52 |

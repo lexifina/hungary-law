@@ -1,8 +1,26 @@
 135. § A települési képviselőtestület szociális, egészségügyi, valamint gyermek- és ifjúságvédelmi feladatai:
 
-a)–e)
+a)
 
-f)–k)
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+j)
+
+k)
 
 l)
 
@@ -12,6 +30,10 @@ n)
 
 o) megállapítja a társadalmi gondozók, valamint az idősek klubjában orvosi munkát végző díjazását;
 
-p)–s)
+p)
+
+r)
+
+s)
 
 t)

@@ -2,4 +2,4 @@
 
 ## KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS VÍZÜGYI IGAZGATÁS
 
-86-91. §
+86. §

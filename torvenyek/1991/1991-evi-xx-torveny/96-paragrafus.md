@@ -2,4 +2,4 @@
 
 ## MŰVELŐDÉSI ÉS KÖZOKTATÁSI IGAZGATÁS
 
-96-106. §
+96. §

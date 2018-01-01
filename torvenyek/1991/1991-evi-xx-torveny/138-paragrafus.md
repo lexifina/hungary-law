@@ -64,7 +64,7 @@ c) megállapítja — a helyi sajátosságokhoz, az önkormányzat gazdálkodás
 
 d) döntése szerint bővíti a helyi adókról szóló törvényben megfogalmazott mentességi és kedvezményi szabályokat;
 
-e) meghatározza — a helyi adókról és az adózás rendjéről szóló törvények keretei között — illetékességi területén a helyi adózás részletes szabályait;
+e) meghatározza — a helyi adókról, az adóigazgatási rendtartásról és az adózás rendjéről szóló törvények keretei között — illetékességi területén a helyi adózás részletes szabályait;
 
 f) építmény- és telekadó bevezetése esetén meghatározza az adóalap megállapításának módját;
 
