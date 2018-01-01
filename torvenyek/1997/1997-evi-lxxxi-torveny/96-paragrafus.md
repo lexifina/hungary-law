@@ -38,9 +38,9 @@ i) a Pénzügyi Szervezetek Állami Felügyeletétől átvett adatok, továbbá 
 
 j) a magánynyugdíjpénztár felszámolással, végelszámolással történő megszűnése esetén a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra vonatkozóan a felszámolótól, végelszámolóktól átvett adatok,
 
-k) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint a Kormány által kötelezően nyújtandó azonosítási szolgáltatáshoz kapcsolódó egyedi azonosító,
+k) a Kormány által kötelezően nyújtandó azonosítási szolgáltatáshoz kapcsolódó egyedi azonosító,
 
-l) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti személyre szabott ügyintézési felület szolgáltatáshoz kapcsolódó azonosító
+l) a személyre szabott ügyintézési felület szolgáltatáshoz kapcsolódó azonosító
 
 tarthatók nyilván.
 

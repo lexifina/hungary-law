@@ -16,4 +16,4 @@ vagy más módon az ellenőrzést akadályozzák.
 
 (4) A mulasztási bírságot az elsőfokú nyugdíjbiztosítási igazgatási szervhez kell befizetni.
 
-(5) Aki a mulasztási bírságot a jogerős határozatban megállapított határidőn belül nem fizeti meg, – késedelmi pótlék helyett – a kiszabott mulasztási bírság kétszeresét köteles megfizetni.
+(5) Aki a mulasztási bírságot a határozatban megállapított határidőn belül nem fizeti meg, – késedelmi pótlék helyett – a kiszabott mulasztási bírság kétszeresét köteles megfizetni.

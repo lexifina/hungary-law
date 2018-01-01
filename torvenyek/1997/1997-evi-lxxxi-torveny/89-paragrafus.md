@@ -1,6 +1,6 @@
 89. § (1) A 87–88. § alapján megtérítésre kötelezett a ténylegesen nyújtott nyugellátásért felelős. A megtérítés összege nem csökkenthető azért, mert a megtérítés alapját képező nyugellátás a jogosultat egyéb jogcímen is megilletné.
 
-(2) Az (1) bekezdés szerinti megtérítési kötelezettségnek havonta, a tárgyhónapot követő hónap 12. napjáig kell eleget tenni. A kötelezett azonban kérheti, hogy a nyugellátásnak az évenkénti emeléseket tartalmazó összegét évente előre – első alkalommal a határozat jogerőre emelkedését követő harminc napon belül, majd ezt követően minden év március 12-éig – téríthesse meg. Ha a megtérítendő ellátás folyósítása az adott naptári hónap vagy év folyamán megszűnik, akkor a befizetett összeg arányos részét vissza kell fizetni.
+(2) Az (1) bekezdés szerinti megtérítési kötelezettségnek havonta, a tárgyhónapot követő hónap 12. napjáig kell eleget tenni. A kötelezett azonban kérheti, hogy a nyugellátásnak az évenkénti emeléseket tartalmazó összegét évente előre – első alkalommal a határozat véglegessé válását követő harminc napon belül, majd ezt követően minden év március 12-éig – téríthesse meg. Ha a megtérítendő ellátás folyósítása az adott naptári hónap vagy év folyamán megszűnik, akkor a befizetett összeg arányos részét vissza kell fizetni.
 
 (3) Az (1)–(2) bekezdésben foglaltaktól eltérően egyösszegű megtérítésre kerül sor, ha
 
@@ -26,9 +26,9 @@ b) a (3) bekezdés b) pontja szerinti esetben a felszámolást, a kényszertörl
 
 érvényes összege alapulvételével kell meghatározni.
 
-(6) A kötelezett az egyösszegű megtérítési kötelezettségnek a határozat jogerőre emelkedését követő 15 napon belül köteles eleget tenni.
+(6) A kötelezett az egyösszegű megtérítési kötelezettségnek a határozat véglegessé válását követő 15 napon belül köteles eleget tenni.
 
-(7) A (3) bekezdés a) pontja szerinti esetben a kötelezett kérheti, hogy megtérítési kötelezettségének az egyösszegű megfizetés helyett legfeljebb öt éven belül, évente fizetendő részletekben tehessen eleget. Az első részletet a határozat jogerőre emelkedését követő 15 napon belül, a további részleteket minden év március 12-éig kell megfizetni. A kötelezettség egy összegben esedékessé válik, ha a kötelezett az esedékes részletet határidőn belül nem fizeti meg. Az évi részletekben történő megfizetés esetén a 94. § (2) bekezdése szerinti fizetési kedvezmény egyidejűleg nem alkalmazható.
+(7) A (3) bekezdés a) pontja szerinti esetben a kötelezett kérheti, hogy megtérítési kötelezettségének az egyösszegű megfizetés helyett legfeljebb öt éven belül, évente fizetendő részletekben tehessen eleget. Az első részletet a határozat véglegessé válását követő 15 napon belül, a további részleteket minden év március 12-éig kell megfizetni. A kötelezettség egy összegben esedékessé válik, ha a kötelezett az esedékes részletet határidőn belül nem fizeti meg. Az évi részletekben történő megfizetés esetén a 94. § (2) bekezdése szerinti fizetési kedvezmény egyidejűleg nem alkalmazható.
 
 (8)
 

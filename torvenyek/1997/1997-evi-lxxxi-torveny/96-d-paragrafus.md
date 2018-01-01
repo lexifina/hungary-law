@@ -1,5 +1,9 @@
-96/D. § (1) A lezárt időszakra nyilvántartott adatok a biztosított, volt biztosított kérelmére vagy hivatalból indult újabb egyeztetési eljárás keretében, olyan tény, adat vagy más bizonyíték alapján egészíthetők ki vagy módosíthatók, amelyeket a korábbi egyeztetési eljárásban nem vizsgáltak.
+96/D. § (1) A lezárt időszakra nyilvántartott adatok a biztosított, volt biztosított kérelmére vagy hivatalból indult újabb egyeztetési eljárás keretében kiegészíthetők vagy módosíthatók
 
-(2) Az újabb egyeztetési eljárás iránti kérelemhez csatolni kell a kérelemben foglaltakat igazoló okiratokat.
+a) jogszabálysértés esetén, ha az egyeztetési eljárást lezáró határozatot közigazgatási bíróság még nem bírálta el, vagy
 
-(3) Újabb egyeztetési eljárás esetén az eljárás megindításáról szóló értesítésben a 96/B. § (3) bekezdése szerinti adatok közül a lezárt időszakot követő időre vonatkozó adatokat, valamint hivatalból indult eljárásban az eljárással érintett adatokat kell feltüntetni.
+b) olyan tény, adat vagy bizonyíték alapján, amelyeket a korábbi egyeztetési eljárásban nem vizsgáltak.
+
+(2) Az (1) bekezdés b) pontja szerinti újabb egyeztetési eljárás iránti kérelemhez csatolni kell a kérelemben foglaltakat igazoló okiratokat.
+
+(3) Az (1) bekezdés szerinti újabb egyeztetési eljárás esetén a 96/B. § (3) bekezdése szerinti értesítésben az ott meghatározott adatok közül a lezárt időszakot követő időre vonatkozó adatokat, valamint hivatalból indult eljárásban az eljárással érintett adatokat kell feltüntetni.

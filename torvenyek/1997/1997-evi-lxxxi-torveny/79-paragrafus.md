@@ -22,4 +22,8 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 
 (4) A szociálpolitikai, szociális biztonsági egyezményt kötött államban, pénzforgalmi szolgáltatónál vezetett fizetési számlára történő folyósítás költségét az ellátásra jogosult viseli.
 
-(5) A nyugdíjfolyósító szerv a nyugellátás megszüntetéséről vagy a nyugdíj összegének csökkentéséről rendelkező határozat alapján az ellátás folyósítását, illetve a különbözet folyósítását a döntés jogerőre emelkedéséig felfüggeszti.
+(5) A nyugdíjfolyósító szerv a nyugellátás megszüntetéséről vagy a nyugdíj összegének csökkentéséről rendelkező határozat alapján az ellátás folyósítását, illetve a különbözet folyósítását a döntés véglegessé válásáig felfüggeszti.
+
+(6) A nyugellátást megállapító elsőfokú határozatban foglalt nyugdíjösszeget a fellebbezésre tekintet nélkül folyósítani kell.
+
+(7) Az esedékessé vált és fel nem vett nyugellátást az esedékességtől számított öt éven belül lehet felvenni.

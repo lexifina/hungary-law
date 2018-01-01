@@ -1,10 +1,20 @@
 ## Az igény érvényesítésének egyéb szabályai
 
-80. § (1) Ha az igény elbírálása után megállapítják, hogy a nyugdíjbiztosítási igazgatási szerv az eljárása során jogszabályt sértett, és emiatt az igényt elutasították, illetve az ellátást nem folyósították, vagy alacsonyabb összegű nyugellátást állapítottak meg, illetve folyósítottak, akkor a jogszabálysértés megállapításától számított öt éven belül járó összeget, valamint az (5) bekezdés szerinti késedelmi kamatot ki kell fizetni.
+80. § (1) Ha a nyugdíjbiztosítási igazgatási szerv a nyugellátás iránti igényt jogszabálysértően utasította el, a nyugellátást – kérelemre vagy hivatalból – az eredeti igénybejelentés időpontjának figyelembevételével meghatározott időponttól kezdődően állapítja meg.
 
-(2) Ha az (1) bekezdés szerinti jogszabálysértés a foglalkoztató vagy egyéb szerv jogszabálysértése – különösen jogszabálysértő adatszolgáltatása, eljárása vagy mulasztása – miatt következett be, a késedelmikamat-fizetési kötelezettség a foglalkoztatót vagy az egyéb szervet terheli.
+(1a) A nyugdíjbiztosítási igazgatási szerv a nyugellátást – kérelemre vagy hivatalból – a nyugellátás eredeti kezdő időpontjától kezdődően magasabb összegben újra megállapítja, ha
 
-(3) Abban az esetben, ha az (1) bekezdés szerinti jogszabálysértésért a nyugdíjbiztosítási igazgatási szervet, a foglalkoztatót vagy egyéb szervet is felelősség terhel, a késedelmi kamatot közrehatásuk arányában kötelesek megfizetni. Ha a közrehatásuk aránya nem állapítható meg, a késedelmi kamat fizetési kötelezettség egyenlő arányban áll fenn.
+a) a nyugellátást jogszabálysértően állapította meg az igénylőnek járónál alacsonyabb összegben, vagy
+
+b) a nyugellátás összegét jogszerűen állapította meg, de a magasabb összegben történő újra megállapítás az azóta tudomására jutott tények, adatok vagy bizonyítékok alapján indokolt.
+
+(1b) Az (1) bekezdés és az (1a) bekezdés a) pontja szerinti esetben, valamint ha a nyugellátást a nyugdíjbiztosítási igazgatási szerv vagy a nyugdíjfolyósító szerv jogszabálysértése miatt nem folyósították, a jogszabálysértés megállapításától számított öt éven belül járó összeget és az (5) bekezdés szerinti késedelmi kamatot ki kell fizetni a jogosultnak.
+
+(1c) Az (1a) bekezdés b) pontja szerinti esetben az újra megállapítás iránti eljárás megindulását megelőző hat hónapon belül járó összeget ki kell fizetni a jogosultnak.
+
+(2) Ha az (1)–(1b) bekezdés szerinti jogszabálysértés a foglalkoztató vagy egyéb szerv jogszabálysértése – különösen jogszabálysértő adatszolgáltatása, eljárása vagy mulasztása – miatt következett be, a késedelmikamat-fizetési kötelezettség a foglalkoztatót vagy az egyéb szervet terheli.
+
+(3) Abban az esetben, ha az (1)–(1b) bekezdés szerinti jogszabálysértésért a nyugdíjbiztosítási igazgatási szervet, a foglalkoztatót vagy egyéb szervet is felelősség terhel, a késedelmi kamatot közrehatásuk arányában kötelesek megfizetni. Ha a közrehatásuk aránya nem állapítható meg, a késedelmi kamat fizetési kötelezettség egyenlő arányban áll fenn.
 
 (4) A (2) és (3) bekezdés szerinti kötelezettet a késedelmi kamat megfizetésére a nyugdíjbiztosítási igazgatási szerv határozatban kötelezi.
 
@@ -12,4 +22,14 @@
 
 (5) A késedelmi kamat naptári napokra számított mértéke a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
 
-(6) Az esedékessé vált és fel nem vett nyugellátást az esedékességtől számított öt éven belül lehet felvenni.
+(6) Ha a nyugdíjbiztosítási igazgatási szerv a nyugellátást jogszabálysértően állapította meg az igénylőnek járónál magasabb összegben, a nyugellátást egy ízben, az azt megállapító döntés véglegessé válásától számított öt éven belül, hivatalból alacsonyabb összegben újra megállapítja.
+
+(7) Ha a nyugdíjbiztosítási igazgatási szerv jogszabálysértően arra nem jogosultnak állapított meg nyugellátást, a nyugellátást az azt megállapító döntés véglegessé válásától számított öt éven belül, hivatalból megszünteti.
+
+(8) A nyugdíjbiztosítási igazgatási szerv a (6) és (7) bekezdésben foglaltakat
+
+a) az erről szóló határozat keltét követő hónap első napjától rendeli el, ha a nyugellátás jogalap nélküli megállapítása a nyugellátásban részesülőnek nem róható fel,
+
+b) a nyugellátás eredeti kezdő időpontjától kezdődően rendeli el, ha a nyugellátás jogalap nélküli megállapítása a nyugellátásban részesülőnek felróható.
+
+(9) Nem lehet az (1) bekezdésben, az (1a) bekezdés a) pontjában, a (6) bekezdésben és a (7) bekezdésben foglaltakat alkalmazni, ha a nyugellátást elutasító, illetve megállapító korábbi határozatot közigazgatási bíróság már elbírálta.

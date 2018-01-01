@@ -6,4 +6,4 @@ b) az a) pontban meghatározott személyek, illetőleg a 47. § (2) bekezdésén
 
 (2) A kivételes nyugellátás összegét a kérelmező magán-nyugdíjpénztári tagságára tekintet nélkül kell megállapítani.
 
-(3) A kivételes nyugellátás, a kivételes nyugellátás-emelés és az egyszeri segély iránti kérelemről egyszerűsített döntést kell hozni. A döntés a meghozatalával jogerőssé és végrehajthatóvá válik, és nem kell hivatalos iratként kézbesíteni.
+(3)

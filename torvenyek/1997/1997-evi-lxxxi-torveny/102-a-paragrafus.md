@@ -14,4 +14,4 @@ kell megállapítani.
 
 (5) Ha a 2016. január 1-jét megelőző időszakban nyugdíjnövelésre jogosult személy a nyugdíjnövelés megállapítása előtt elhunyt, a nyugdíjnövelést a hozzátartozói nyugellátás megállapítására irányuló eljárásban kérelemre, a (2) bekezdés a) és b) pontjában foglaltak szerint kell megállapítani.
 
-(6) Az 1955–1959. évben született biztosítottak, volt biztosítottak esetén a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény és egyéb törvények módosításáról szóló 2016. évi CLXVII. törvénnyel megállapított 96/C. § (2) bekezdése szerinti adategyeztetési eljárást 2018. december 31-ig kell lefolytatni.
+(6) Az 1955–1959. évben született biztosítottak, volt biztosítottak esetén a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény és egyéb törvények módosításáról szóló 2016. évi CLXVII. törvénnyel megállapított 96/C. § (2) bekezdése szerinti egyeztetési eljárást 2018. december 31-ig kell lefolytatni.

@@ -1,1 +1,1 @@
-74. § Ha az igénylő az igénybejelentését a határozat vagy az eljárást megszüntető végzés jogerőre emelkedéséig visszavonja, a felvett nyugellátást harminc napon belül köteles visszafizetni.
+74. § Ha az igénylő az igénybejelentését a döntés véglegessé válásáig visszavonja, a felvett nyugellátást harminc napon belül köteles visszafizetni.
