@@ -1,3 +1,1 @@
-## Az eljárás felfüggesztése
-
-16/A. § Ha az anyakönyvi bejegyzés teljesítése, illetve a névváltoztatási eljárásban hozott döntés olyan, különösen az adatok megállapítása, elektronikus anyakönyvben történő rögzítése, családi jogállás rendezése, szülői felügyeleti jog megvonása, korlátozása, magyar állampolgárság fennállásának megállapítása, külföldön történt anyakönyvi események hazai anyakönyvezése vonatkozásában felmerülő kérdés előzetes elbírálásától függ – amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el – a hatóság az eljárást felfüggeszti.
+### 16/A. §

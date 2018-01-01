@@ -4,15 +4,7 @@
 
 (1b) Magyar állampolgár külföldön történt születésének, házasságkötésének, bejegyzett élettársi kapcsolata létesítésének hazai anyakönyvezésére irányuló kérelemhez csatolni kell – ha a kérelmező a személyiadat- és lakcímnyilvántartásban nem szerepel – a személyiadat- és lakcímnyilvántartásba vételhez szükséges iratokat. Az anyakönyvvezető ellenőrzi, hogy a kérelmező a személyiadat- és lakcímnyilvántartásban szerepel-e.
 
-(2) A hazai anyakönyvezési eljárás ügyintézési határideje 40 nap. A hazai anyakönyvezési eljárás ügyintézési határideje 8 nap, ha a szükséges okiratok hiánytalanul rendelkezésre állnak, és a 14/A. § alapján az igazságügyért felelős miniszter véleményének kérése nem szükséges, valamint
-
-a) születés anyakönyvezése esetén mindkét szülő magyar állampolgár, a gyermek a házasságukból származik, és a szülők születésének és házasságuknak az anyakönyvezésére korábban sor került,
-
-b) születés anyakönyvezése esetén az anya magyar állampolgár és születésének az anyakönyvezésére korábban sor került, továbbá az apa személye nem ismert,
-
-c) házasságkötés anyakönyvezése esetén a házasuló felek magyar állampolgárok és születésüknek az anyakönyvezésére korábban sor került, vagy
-
-d) külföldön történt haláleset hazai anyakönyvezésére kerül sor.
+(2)
 
 (3)
 

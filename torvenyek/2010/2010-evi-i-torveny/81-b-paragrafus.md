@@ -2,7 +2,9 @@
 
 a) a külpolitikáért felelős miniszter a konzuli érdekvédelem ellátása és az anyakönyvi kivonatok miniszteri felülhitelesítése céljából,
 
-b) a hivatásos konzuli tisztviselő a konzuli érdekvédelem ellátása, anyakönyvi okirat kiállítása, az úti okmány kiadása iránti eljárásban és a névváltoztatási eljárásban a névviselés ellenőrzése, valamint a bemutatott anyakönyvi kivonat ellenőrzése céljából.
+b) a hivatásos konzuli tisztviselő a konzuli érdekvédelem ellátása, anyakönyvi okirat kiállítása, az úti okmány kiadása iránti eljárásban és a névváltoztatási eljárásban a névviselés ellenőrzése, valamint a bemutatott anyakönyvi kivonat ellenőrzése céljából,
+
+c) a menekültügyi hatóság a menekültkéni, oltalmazottkénti, menedékeskénti és befogadottkénti elismerésre, a státuszok felülvizsgálatára és visszavonására irányuló, továbbá ellátási és integrációs feladatai ellátása érdekében.
 
 (2) Ha az (1) bekezdésben meghatározott személyek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
 

@@ -10,7 +10,9 @@ d) az egészségbiztosítási szerv az ellátásra való jogosultság megállap�
 
 e) a nyugdíjbiztosítási szerv az ellátásra való jogosultság megállapítása céljából,
 
-f) a kárpótlási hatóság az életüktől és szabadságuktól politikai okból megfosztottak kárpótlására való jogosultság megállapítása céljából.
+f) a kárpótlási hatóság az életüktől és szabadságuktól politikai okból megfosztottak kárpótlására való jogosultság megállapítása céljából,
+
+g) a családtámogatási szerv az anyasági támogatás megállapítása iránti eljárás lefolytatása céljából.
 
 (2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
 

@@ -18,4 +18,4 @@
 
 (8) Az anyakönyvben és az ennek alapján kiadott okiratokban a családi név az utónevet megelőzi.
 
-(9) Az (1)–(4) bekezdésben meghatározottak nem alkalmazhatók, ha az érintett kérelmére az Nmjt. 10. §-a alapján a születés anyakönyvezése során más állam jogát kell alkalmazni.
+(9) Az (1)–(4) bekezdésben meghatározottak nem alkalmazhatók, ha az Nmjtv. 16. § (1)–(2) és (5) bekezdése alapján a születés anyakönyvezése során más állam jogát kell alkalmazni.

@@ -26,7 +26,7 @@ c) eljár a 14. § (2) bekezdésében meghatározott esetben,
 
 d) eljár a 89. § (4) bekezdésében meghatározott esetben,
 
-e) végzi a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet 38. § (1a) bekezdésében és a 41/A. § (3) bekezdésében meghatározott feladatokat,
+e)
 
 f)
 
