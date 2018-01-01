@@ -1,6 +1,6 @@
 113. § (1) Az elítéltet – megjelenési szándékától függetlenül – elő kell állítani, ha
 
-a) büntető ügyben terheltként,
+a) büntetőügyben terheltként vagy büntetés-végrehajtási ügyben,
 
 b) tanúként,
 

@@ -9,3 +9,5 @@ b) a tartózkodási hely szabad megváltoztatásához való joga,
 c) a békés gyülekezéshez való joga,
 
 d) a sztrájkhoz való joga.
+
+e) elektronikus ügyintézéshez való joga.

@@ -8,4 +8,4 @@ a) az elítéltről készült pártfogó felügyelői vélemény, valamint az el
 
 b) fiatalkorú elítélt esetében a környezettanulmány és az iskolai bizonyítvány, az iskolai vagy munkahelyi jellemzés másolatát.
 
-(4) Az értesítőlap, az ügydöntő határozat, a végrehajtást érintő egyéb határozat, vagy a (3) bekezdés szerinti iratok, ha ennek biztonsági feltételei adottak, elektronikus úton is továbbíthatók a végrehajtásért felelős szervnek, illetve a bv. csoportnak.
+(4)

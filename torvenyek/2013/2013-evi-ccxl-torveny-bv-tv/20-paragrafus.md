@@ -6,7 +6,7 @@
 
 (3) Ha a végrehajtásért felelős szerv szervezeti egységének vezetője kérelemre jár el, a kérelem benyújtásától számított harminc napon belül intézkedik, illetve dönt, kivéve, ha az ügy jellege soron kívüli elintézést kíván. Az elintézési határidőt a kérelem elbírálására – az (1) bekezdés szerint – jogosult indokolt esetben, írásban, egy alkalommal legfeljebb harminc nappal meghosszabbíthatja. Erről a kérelmezőt írásban értesíteni kell.
 
-(4) Az elintézési határidőbe nem számít be a hiánypótlásnak, a hivatalból történő iratok beszerzésének, a megkeresésnek, a szakértői vélemény, illetve a pártfogó felügyelői vélemény elkészítésének és az indítványozott tanúmeghallgatások teljesítésének időtartama.
+(4) Az elintézési határidőbe nem számít be a hiánypótlásnak, a hivatalból történő iratok beszerzésének, a megkeresésnek, a szakértői vélemény, illetve a pártfogó felügyelői vélemény vagy környezettanulmány elkészítésének és az indítványozott tanúmeghallgatások teljesítésének időtartama.
 
 (5) A kérelemben foglaltak megalapozása a kérelmező feladata, erre a figyelmét fel kell hívni, és ha ez elmaradt ezzel egyidejűleg hiánypótlásra kell felszólítani. Ugyanígy kell eljárni, ha a kérelemből nem lehet megállapítani, hogy az mire irányul. A kérelmezőt tájékoztatni kell arról, hogy ha a hiánypótlásnak az előírt határidőben nem tesz eleget, kérelmét a rendelkezésre álló adatok alapján bírálják el.
 

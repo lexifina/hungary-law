@@ -6,7 +6,7 @@ a) a bíróság határozatában előírt külön magatartási szabályokat és a
 
 b) a pártfogó felügyelőnek vagy a büntetés-végrehajtási pártfogó felügyelőnek és a rendőrségnek a magatartási szabályok megtartására és ellenőrzésére vonatkozó rendelkezéseit teljesíteni, a kért felvilágosítást megadni,
 
-c) a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő felhívásának eleget tenni, és a kapcsolattartás meghatározott rendszeressége és módja szerint a pártfogó felügyelőnél jelentkezni.
+c) a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő felhívásának eleget tenni, és elsődlegesen a személyes kapcsolattartás meghatározott rendszeressége és szükség esetén a kapcsolattartás egyéb módja szerint a pártfogó felügyelőnél jelentkezni.
 
 (2) A pártfogó felügyelet végrehajtása során a pártfogolt a pártfogó felügyelői szolgálattól vagy a bv. szerv büntetés-végrehajtási pártfogó felügyelőjétől
 

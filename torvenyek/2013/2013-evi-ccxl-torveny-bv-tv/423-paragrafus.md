@@ -1,6 +1,6 @@
 ## A nemzetközi bűnügyi együttműködéssel összefüggésben kényszerintézkedés hatálya alatt álló személy fogvatartása
 
-423. § (1) A 2. § (1) bekezdés c) pontja szerinti kényszerintézkedések hatálya alatt álló személyt a Fővárosi Büntetés-végrehajtási Intézetben kell elhelyezni.
+423. § (1) A 2. § c) pontja szerinti kényszerintézkedések hatálya alatt álló személyt a Fővárosi Büntetés-végrehajtási Intézetben kell elhelyezni. Az országos parancsnok erre a célra – kivételesen – más bv. intézetet is kijelölhet.
 
 (2) A bv. intézet az ideiglenes kiadatási, illetve kiadatási letartóztatásban lévő személyt az igazságügyért felelős miniszter vagy a bíróság döntése alapján, az ideiglenes átadási vagy átadási letartóztatásban, vagy ideiglenes végrehajtási letartóztatásban lévő, illetve ideiglenesen átszállított személyt a bíróság döntése alapján helyezi szabadlábra.
 

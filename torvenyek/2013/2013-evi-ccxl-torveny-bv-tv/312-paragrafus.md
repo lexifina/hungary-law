@@ -22,4 +22,4 @@ d) ha a pártfogolt a jóvátételi munka elvégzését egy éven belül megfele
 
 e) a pártfogó felügyelet tartama alatt a pártfogolton szabadságvesztés büntetést vesznek foganatba, a Btk. 40. § (4) bekezdésében és 86. § (2)–(3) bekezdésében szabályozott eset kivételével.
 
-(4) A pártfogó felügyelet végrehajtása a Btk. 40. § (4) bekezdésében és 86. § (2)–(3) bekezdésében meghatározott esetben a szabadságvesztés vagy a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztés végrehajtása alatt szünetel.
+(4) A pártfogó felügyelet végrehajtása a Btk. 40. § (4) bekezdésében és 86. § (2)–(3) bekezdésében meghatározott esetben a szabadságvesztés, az elzárás vagy a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztés végrehajtása alatt szünetel.

@@ -13,3 +13,5 @@
 (6) A szabadságelvonással járó büntetés és intézkedés, valamint a kényszerintézkedés foganatba vétele a szabálysértési elzárás végrehajtását megszakítja.
 
 (7) A büntetés, az intézkedés és a szabálysértési elzárás végrehajtásának megszakítását kiváltó körülmény megszűnéséig az elévülés nyugszik.
+
+(8) A szabadságelvonással járó büntetés és intézkedés, a kényszerintézkedés, valamint a szabálysértési elzárás foganatba vétele a rendbírság helyébe lépő elzárás végrehajtását megszakítja.

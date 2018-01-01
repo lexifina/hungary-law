@@ -26,6 +26,6 @@ j) a képességeinek és a bv. intézet adottságainak megfelelő képzésben, i
 
 (3) A tartási költségekhez való hozzájárulás összegét az országos parancsnok normatív utasításban határozza meg, az évente meghatározott napi összeg – teljes munkaidőben történő foglalkoztatás esetén – nem lehet kevesebb, mint az egy havi alapmunkadíj egy százaléka.
 
-(4) Az elítélt keresményének és rendszeres pénzellátásának meghatározott részét a szabadulása idejére tartalékolni kell. A tartalékolás évente meghatározott összege a fogvatartás első négy évében az egy havi alapmunkadíj ötven százaléka, ezt meghaladó tartamú fogvatartás esetén évente az egy havi alapmunkadíj huszonöt százaléka.
+(4) Az elítélt keresményének és rendszeres pénzellátásának meghatározott részét a szabadulása idejére tartalékolni kell. A fogvatartás megkezdésétől a tartalékolás havonta meghatározott összege a fogvatartás első négy évében az egyhavi alapmunkadíj ötven százalékának egytizenketted része, ezt meghaladó tartamú fogvatartás esetén havonta az egyhavi alapmunkadíj huszonöt százalékának egytizenketted része.
 
 (5) Az elítélt köteles együttműködni a bv. intézet a pártfogó felügyelői szolgálat és a reintegrációs tevékenységben részt vevő szervezet megbízottjával.

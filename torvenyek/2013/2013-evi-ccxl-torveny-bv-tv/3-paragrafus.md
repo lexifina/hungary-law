@@ -14,7 +14,7 @@
 
 6. elektronikus távfelügyeleti eszköz: az elítélt vagy az egyéb jogcímen fogvatartott mozgását nyomon követő technikai eszköz,
 
-7. értesítőlap: a bíróság által a végrehajtás érdekében – papír alapon vagy elektronikus formátumban – a végrehajtásért felelős szerv részére a kiszabott büntetésről, az alkalmazott intézkedésről, valamint az ezeket érintő, az ítélethozatalt követő érdemi rendelkezésekről, továbbá a kényszerintézkedés elrendeléséről, fenntartásáról, megszüntetéséről kiállított értesítés, amelynek része a szabadságelvonással járó büntetés, intézkedés vagy kényszerintézkedés foganatosítására, avagy a szabadításra adott bírói rendelvény,
+7. értesítőlap: a bíróság által a végrehajtás érdekében a végrehajtásért felelős szerv részére a kiszabott büntetésről, az alkalmazott intézkedésről, valamint az ezeket érintő, az ítélethozatalt követő érdemi rendelkezésekről, továbbá a kényszerintézkedés elrendeléséről, fenntartásáról, megszüntetéséről kiállított értesítés, amelynek része a szabadságelvonással járó büntetés, intézkedés vagy kényszerintézkedés foganatosítására, avagy a szabadításra adott bírói rendelvény,
 
 8. fogvatartással kapcsolatos ügy: minden olyan ügy, amely nem tartozik a büntetés-végrehajtási ügy körébe, de az elítélt vagy az egyéb jogcímen fogvatartott fogvatartásával összefügg, ideértve a bv. intézet által lefolytatandó kártérítési eljárást is,
 
@@ -22,7 +22,7 @@
 
 a) a Btk. szerinti hivatalos és külföldi hivatalos személy a hivatalos eljárásában,
 
-b) a védő, a jogi képviselőként eljáró ügyvéd és jogtanácsos folyamatban lévő büntető-, polgári, szabálysértési eljárásban, közigazgatási hatósági eljárásban, egyéb hatósági ügyben vagy büntetés-végrehajtási ügyben, valamint ilyen eljárás megindításának kezdeményezése érdekében eljárva, ideértve a meghatalmazás adását is,
+b) a védő, a jogi képviselőként eljáró ügyvédi tevékenység gyakorlására jogosult személy folyamatban lévő büntető-, polgári, szabálysértési eljárásban, közigazgatási hatósági eljárásban, egyéb hatósági ügyben vagy büntetés-végrehajtási ügyben, valamint ilyen eljárás megindításának kezdeményezése érdekében eljárva, ideértve a meghatalmazás adását is,
 
 c) az elítélt és az egyéb jogcímen fogvatartott államának konzuli tisztviselője,
 

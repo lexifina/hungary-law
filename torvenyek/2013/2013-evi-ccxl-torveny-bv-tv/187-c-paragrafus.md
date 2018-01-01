@@ -8,4 +8,6 @@ c) a fogvatartása során engedélyezett reintegrációs őrizetet az elítéltn
 
 d) az egy évet meg nem haladó tartamú szabadságvesztésből legalább három, egy évet meghaladó tartamú szabadságvesztésből legalább hat hónapot nem töltött le,
 
-e) a megjelölt lakás az elektronikus távfelügyeleti eszköz elhelyezésére alkalmatlan.
+e) a megjelölt lakás az elektronikus távfelügyeleti eszköz elhelyezésére alkalmatlan,
+
+f) a bíróság a kiutasításáról rendelkezett.

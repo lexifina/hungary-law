@@ -2,7 +2,7 @@
 
 a) a bv. intézetbe vagy intézménybe szállítás, ideértve azt is, ha az elítéltnek polgári ügyben a hatóság előtt való megjelenése érdekében másik bv. intézetbe szállítása szükséges,
 
-b) a büntetőügyben való –, vagy szabálysértési – ideértve a büntető ügyben lefolytatandó közvetítői eljárást is – előállítás,
+b) a büntetőügyben való – ideértve a büntetőügyben lefolytatandó közvetítői eljárást is – és a büntetés-végrehajtási ügyben való előállítás,
 
 c) a szabálysértési ügyben való – ideértve a szabálysértési ügyben lefolytatandó közvetítői eljárást is – előállítás,
 

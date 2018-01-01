@@ -28,10 +28,14 @@ c) tájékoztatást arról, hogy nem bocsátható feltételes szabadságra, aki 
 
 d) tájékoztatatást a jelentkezési kötelezettség elmulasztásának egyéb következményeiről,
 
-e) általános tájékoztatást az elítélt által a bv. intézetnél bemutatandó iratokról és a megjelenéssel kapcsolatos általános kötelezettségekről.
+e) általános tájékoztatást az elítélt által a bv. intézetnél bemutatandó iratokról és a megjelenéssel kapcsolatos általános kötelezettségekről,
+
+f) női elítélt esetén a tájékoztatást arról, hogy ha egy évnél fiatalabb gyermekét gondozza, kérelmezheti az anya-gyermek részlegen az együttes elhelyezését.
 
 (6) A (3)–(4a) bekezdés szerinti felhívást olyan időpontban kell kiadni, hogy azt az elítélt a jelentkezési kötelezettség napja előtt legalább tizenöt nappal megkapja.
 
 (7) Ha a bv. bíró megállapítja a szabadságvesztés végrehajthatóságát, úgy az értesítőlap másolatának megküldésével értesíti a BVOP-t a szabadságvesztés megkezdésére felhívható elítéltekről.
 
 (8) A BVOP által kiadott felhívással kapcsolatban panasznak csak abban az esetben van helye, ha az nem felel meg a jogszabályban meghatározott követelményeknek, vagy ha a benne foglalt jelentkezési kötelezettség nem áll összhangban az e törvényben meghatározottakkal.
+
+(9) Ha a felhívás eredményeként a női elítélt az anya-gyermek részlegen való elhelyezése iránt az előírt határidőben kérelmet nyújtott be, a jelentkezési kötelezettség elmulasztásának jogkövetkezményei nem alkalmazhatók. Az elítélt részére az elhelyezésről való döntéssel egyidejűleg újabb felhívást ad ki a BVOP. Az anya-gyermek részlegen elhelyezés engedélyezése esetén a felhívásban az elítéltet az (5) bekezdés a) és b) pontjában meghatározott adatok megadásával arra kell felhívni, hogy a gyermekével együtt jelenjen meg a kijelölt bv. intézetben, és hogy a gyermek egészségügyi kiskönyvét és a szülést követően kiadott kórházi zárójelentést, valamint a gyermek egyéb egészségügyi iratait hozza magával.

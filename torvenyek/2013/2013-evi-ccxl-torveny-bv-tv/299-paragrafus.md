@@ -10,4 +10,4 @@
 
 (4) A kitiltott a kitiltás tartama alatt köteles a kitiltást elrendelő határozatot magánál tartani, és ha a rendőrség igazoltatja, a határozatot a személyazonosság igazolására alkalmas okirattal együtt bemutatni.
 
-(5) A rendőrség az elítélt kérelmére személyi vagy családi körülményeire figyelemmel a kitiltás végrehajtását félbeszakíthatja, vagy az elítélt kötelezettségei teljesítése, vagy jogai, törvényes érdekei érvényesítése érdekében, avagy más fontos okból engedélyezheti, hogy az elítélt rövid időtartamra visszatérjen olyan helységbe, ahonnan kitiltották. Az elítélt kérelmének elutasítása esetén a büntetés-végrehajtási bíróhoz fellebbezhet.
+(5) A rendőrség az elítélt kérelmére személyi vagy családi körülményeire figyelemmel a kitiltás végrehajtását félbeszakíthatja, vagy az elítélt kötelezettségei teljesítése, vagy jogai, törvényes érdekei érvényesítése érdekében, avagy más fontos okból engedélyezheti, hogy az elítélt rövid időtartamra visszatérjen olyan helységbe, ahonnan kitiltották. Az elítélt kérelmének elutasítása esetén a büntetés-végrehajtási bíróhoz bírósági felülvizsgálati kérelmet nyújthat be.

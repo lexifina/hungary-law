@@ -8,7 +8,7 @@
 
 a) újabb szabadságvesztés végrehajtására érkezik értesítés, vagy
 
-b) újabb büntetőeljárás indult.
+b) szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyész, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa.
 
 (4) A társadalmi kötődés program feladata
 

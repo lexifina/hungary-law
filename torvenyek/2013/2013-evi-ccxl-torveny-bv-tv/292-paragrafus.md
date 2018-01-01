@@ -2,6 +2,8 @@
 
 ## A PÉNZBÜNTETÉS VÉGREHAJTÁSA
 
+## A pénzbüntetés végrehajtásának rendje
+
 292. § (1) A pénzbüntetést a törvényszék gazdasági hivatala hajtja végre.
 
 (2) Az elítéltnek a pénzbüntetést legkésőbb a gazdasági hivatal felhívásának kézbesítésétől számított tizenöt napon belül, ha a bíróság halasztást vagy részletfizetést engedélyezett, a bíróság által megállapított időpontig vagy meghatározott részletben kell megfizetnie.

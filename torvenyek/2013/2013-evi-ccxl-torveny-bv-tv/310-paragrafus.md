@@ -10,7 +10,7 @@
 
 (3) A pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő
 
-a) ellátja a pártfogó felügyelet végrehajtásával járó teendőket,
+a) ellátja a pártfogó felügyelet végrehajtásával járó teendőket, így különösen rendszeres és szükség szerint személyes kapcsolattartás útján figyelemmel kíséri a pártfogolt magatartását, munkahelyén vagy az oktatási intézményben, illetve lakóhelyén tanúsított viselkedését és életvitelét,
 
 b) a pártfogó felügyelet végrehajtására pártfogoltanként egyéni pártfogó felügyelői tervet készít,
 

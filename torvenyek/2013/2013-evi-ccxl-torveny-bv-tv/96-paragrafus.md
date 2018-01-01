@@ -8,7 +8,7 @@ c) a rezsimbe helyezés felülvizsgálata,
 
 d) a reintegrációs programba történő bevonás, ilyen programba történő helyezés vagy annak megszüntetése, a programon való részvétel eredményességének értékelése,
 
-e) a biztonsági kockázati besorolás és a besorolás megváltoztatása,
+e) a biztonsági kockázati besorolás, a besorolás jogszabályban meghatározott időszakonkénti felülvizsgálata és a besorolás megváltoztatása,
 
 f) a nem dolgozó és újonnan befogadott elítélt munkába állítása, a munkahely és a munkakör kijelölése,
 

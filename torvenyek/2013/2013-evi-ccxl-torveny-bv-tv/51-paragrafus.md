@@ -6,4 +6,8 @@
 
 (4) A fellebbezést a törvényszék a felterjesztéstől számított tizenöt napon belül, fogva lévő elítélt esetén nyolc napon belül tanácsülésen, bizonyítás felvétele esetén tárgyaláson bírálja el. A tárgyalás határnapját a felterjesztéstől számított harminc napon belüli, fogva lévő elítélt esetén tizenöt napon belüli időpontra kell kitűzni.
 
-(5) A büntetés-végrehajtási bíró és a törvényszék másodfokú határozatával szemben a Be. 431. §-a szerinti törvényesség érdekében bejelentett jogorvoslat alapján a Kúria a törvénysértés megállapítása esetén a megtámadott határozatot megváltoztathatja vagy hatályon kívül helyezheti, és szükség esetén az eljárt bíróságot új eljárásra utasíthatja.
+(5) A büntetés-végrehajtási bíró és a törvényszék másodfokú határozatával szemben a Be. szerinti törvényesség érdekében bejelentett jogorvoslat alapján a Kúria a törvénysértés megállapítása esetén a megtámadott határozatot
+
+a) megváltoztathatja, vagy
+
+b) hatályon kívül helyezheti, és az eljárást megszüntetheti, vagy szükség esetén az eljárt bíróságot új eljárásra utasíthatja.

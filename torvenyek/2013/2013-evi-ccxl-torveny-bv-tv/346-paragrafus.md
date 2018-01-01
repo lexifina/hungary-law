@@ -1,6 +1,6 @@
 ## A végrehajtás rendje
 
-346. § (1) A javítóintézeti nevelést e törvény és a javítóintézetek rendtartásáról szóló jogszabályban meghatározott intézeti rend szerint kell végrehajtani. A javítóintézet belső életének rendjét a házirend tartalmazza, amit az igazgató állapít meg. A házirend jóváhagyása a gyermekek és az ifjúság védelméért felelős miniszter hatáskörébe tartozik.
+346. § (1) A javítóintézeti nevelést a bíróság jogerős ügydöntő határozata alapján, e törvény és a javítóintézetek rendtartásáról szóló jogszabályban meghatározott intézeti rend szerint kell végrehajtani. A javítóintézet belső életének rendjét a házirend tartalmazza, amit az igazgató állapít meg. A házirend jóváhagyása a gyermekek és az ifjúság védelméért felelős miniszter hatáskörébe tartozik.
 
 (2) A fiatalkorú gondozását és nevelését a gyermekek védelméről szóló törvény rendelkezései és a javítóintézetek működése során irányadó szakmai szabályokban meghatározott elvek szerint kell biztosítani.
 

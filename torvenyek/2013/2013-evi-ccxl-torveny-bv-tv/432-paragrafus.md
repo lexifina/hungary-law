@@ -22,7 +22,7 @@ e) naponta legalább két óra szabad levegőn tartózkodásra jogosult.
 
 (3) Az elzárás végrehajtásának elhalasztása vagy félbeszakítása csak a rendbírság helyébe lépő elzárásra kötelezett kórházi gyógykezelésének szükségessége esetén és csak ezen időtartamig engedélyezhető.
 
-(4) Nem lehet végrehajtani a rendbírság helyébe lépő elzárást, ha az elzárásról rendelkező határozat jogerőre emelkedésétől számítva egy év eltelt. Az elévülési időbe nem számít be a rendbírság helyébe lépő elzárás halasztására engedélyezett idő.
+(4) Nem lehet végrehajtani a rendbírság helyébe lépő elzárást, ha az elzárásról rendelkező határozat jogerőre emelkedésétől számítva egy év eltelt. Az elévülési időbe nem számít be a rendbírság helyébe lépő elzárás halasztására vagy félbeszakítására engedélyezett idő.
 
 (5) Az elévülést félbeszakítja a rendbírság helyébe lépő elzárás végrehajtása iránt tett intézkedés. A félbeszakítás napjával az elévülés ismét elkezdődik.
 

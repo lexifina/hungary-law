@@ -6,7 +6,7 @@
 
 (3) A várandós elítélt, valamint az anya-gyermek részlegen elhelyezett gyermek gyógyszert, gyógyászati segédeszközt térítés nélkül kap.
 
-(4) Az elítélt a bv. orvos szakmai javaslatára, az bv. intézet vezetőjének engedélyével a hozzátartozó vagy – kapcsolattartóként nyilvántartásba vett – harmadik személy által finanszírozott gyógyszert, gyógyászati segédeszközt használhatja.
+(4) Az elítélt a bv. szerv által biztosított gyógyszert, illetve gyógyászati segédeszközt használhatja. Az elítélt a bv. orvos szakmai javaslatára, a bv. intézet vezetőjének engedélyével az általa, a hozzátartozó vagy – kapcsolattartóként nyilvántartásba vett – harmadik személy által finanszírozott és – e törvény eltérő rendelkezése hiányában – a bv. szerv által kérelmére beszerzett, illetve egyéb módon rendelkezésére bocsátott gyógyszert, gyógyászati segédeszközt, gyógyhatású készítményt is használhatja.
 
 (5) Az elítélt a jogszabályban meghatározott térítéshez, illetve részleges térítéshez kötött egészségügyi szolgáltatásokat a kiszabott térítési díj ellenében veheti igénybe.
 

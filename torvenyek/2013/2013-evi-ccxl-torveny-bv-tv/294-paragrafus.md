@@ -17,3 +17,5 @@ c) kérelmére részt vehet a munkáltatásban.
 (4) A közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztést töltő elítélt részére biztosítani kell, hogy a választójogát gyakorolhassa. Az elítélt a fogvatartás helyén, a választási eljárásra vonatkozó jogszabályok szerint jogosult szavazni, az elítélt személyazonosságát a fogva tartó bv. intézet nyilvántartása alapján kell megállapítani. A bv. intézet köteles elősegíteni az elítélt választójogának gyakorlását, szükség esetén az elítélt részére félbeszakítást lehet engedélyezni, amelynek tartama legfeljebb három nap.
 
 (5) A magánelzárás fenyítés a Btk. 51. § (2) bekezdése esetén is legfeljebb öt napig terjedhet.
+
+(6) A bv. intézet parancsnoka a 293/A. § (1) bekezdése szerinti feltétel bekövetkezése előtt harminc nappal, ha ez a végrehajtás foganatba vételének időpontjára figyelemmel indokolt, soron kívül előterjesztést tesz a büntetés-végrehajtási bírónak a pénzbüntetés végrehajthatósága megszűnésnek megállapítása érdekében.

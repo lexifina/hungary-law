@@ -4,7 +4,7 @@
 
 (2) Aki az (1) bekezdés szerint az iratokat megtekintheti, azokról feljegyzést készíthet, valamint – jogszabály eltérő rendelkezése hiányában – saját költségén másolat kiadását kérheti.
 
-(3) Az iratokról a végrehajtásért felelős szerv a kérelem előterjesztésétől számított nyolc munkanapon belül másolatot ad ki. A másolat kiadása során a Be. 70/B. § (9) és (11) bekezdését és a 70/C. § (5) bekezdését alkalmazni kell.
+(3) Az iratokról a végrehajtásért felelős szerv a kérelem előterjesztésétől számított nyolc munkanapon belül másolatot ad ki. A másolat kiadása során a Be. 70/B. § (9) és (11)–(14) bekezdését és a 70/C. § (5) bekezdését alkalmazni kell.
 
 (4) Nem engedhető betekintés és nem adható ki másolat
 

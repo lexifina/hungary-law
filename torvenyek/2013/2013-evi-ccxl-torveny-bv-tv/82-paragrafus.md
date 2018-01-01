@@ -22,4 +22,4 @@
 
 6. rezsim: az egyéniesítés alapelvéhez igazodó, az elítéltre vonatkozó reintegrációs célok megvalósítását biztosító végrehajtási környezet, amelyet e törvény vagy annak céljaival összhangban a bv. szervek vezetői hoznak létre.
 
-7. befogadó környezet: a társadalmi kötődés mértékének megítélése szempontjából vizsgálandó szociális közeg, amelyben az elítélt szabadulását követően vagy reintegrációs őrizetének elrendelése esetén élni kíván.
+7. befogadó környezet: a társadalmi kötődés mértékének megítélése szempontjából vizsgálandó szociális közeg, amelyben az elítélt szabadulását követően vagy reintegrációs őrizetének elrendelése esetén élni kíván, továbbá ahol az elítélt az enyhébb végrehajtási szabályok elrendelése vagy a társadalmi kötődés programba történő bevonása esetén az eltávozáskor tartózkodna.
