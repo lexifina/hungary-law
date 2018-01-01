@@ -1,4 +1,4 @@
-## 18/E. §[^24] Az azonos tárgy vagy személy tekintetében, egy eljárás keretében a 18/D. § c) pontjában meghatározottak szerint szükséges újabb minősítés elkészítésével kapcsolatos feladatok pártatlan, tárgyilagos szempontokon alapuló ellátása céljából a DKT szervezetének részeként három tagból álló Felülvizsgálati Bizottságot kell működtetni. A Felülvizsgálati Bizottság tagjait a miniszter delegálja, megbízásukra, összeférhetetlenségükre a DKT tagjaira vonatkozó szabályokat kell alkalmazni, azzal, hogy nem lehet a Felülvizsgálati Bizottság tagja az a személy, aki a megbízását megelőző három éven belül a DKT tagja volt.
+## 18/E. §[^38] Az azonos tárgy vagy személy tekintetében, egy eljárás keretében a 18/D. § c) pontjában meghatározottak szerint szükséges újabb minősítés elkészítésével kapcsolatos feladatok pártatlan, tárgyilagos szempontokon alapuló ellátása céljából a DKT szervezetének részeként három tagból álló Felülvizsgálati Bizottságot kell működtetni. A Felülvizsgálati Bizottság tagjait a miniszter delegálja, megbízásukra, összeférhetetlenségükre a DKT tagjaira vonatkozó szabályokat kell alkalmazni, azzal, hogy nem lehet a Felülvizsgálati Bizottság tagja az a személy, aki a megbízását megelőző három éven belül a DKT tagja volt.
 
 ## II. Fejezet
 
@@ -8,6 +8,7 @@
 
 19. § (1) A MAB-nak döntés-előkészítő és döntéshozatali tevékenységei minden szintjén biztosítania kell az elfogulatlan, pártatlan, objektív szempontokon alapuló szakmai álláspont kialakításának feltételeit.
 
-(2) A bírálati szempontrendszer az Nftv. 70. § (1) bekezdésében a MAB számára előírt feladatok megvalósítását szolgálja.
+(2)[^39]
 
-[^24]: A 18/E. §-t a 345/2015. (XI. 19.) Korm. rendelet 11. §-a iktatta be.
+[^38]: A 18/E. §-t a 345/2015. (XI. 19.) Korm. rendelet 11. §-a iktatta be.
+[^39]: A 19. § (2) bekezdését a 407/2017. (XII. 15.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.

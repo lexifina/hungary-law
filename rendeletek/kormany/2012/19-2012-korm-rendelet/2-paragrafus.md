@@ -3,3 +3,7 @@
 2. § (1) A felsőoktatási képzés, tudományos kutatás, művészeti alkotótevékenység mint felsőoktatási alaptevékenység minőségének biztosítása – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvényben (a továbbiakban: Nftv.) meghatározott keretek között – elsődlegesen a felsőoktatási intézmény feladata és felelőssége.
 
 (2) A Magyar Felsőoktatási Akkreditációs Bizottság (a továbbiakban: MAB) mint szakértő testület az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) által elfogadott „A felsőoktatás minőségbiztosításának európai sztenderdjei és irányelvei”-vel összhangban folytatja tevékenységét.
+
+(3)[^1] A MAB fogadja el a bírálati szempontrendszerét.
+
+[^1]: A 2. § (3) bekezdését a 407/2017. (XII. 15.) Korm. rendelet 8. §-a iktatta be.

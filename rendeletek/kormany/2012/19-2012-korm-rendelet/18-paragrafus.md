@@ -1,6 +1,6 @@
-18. § (1)[^16]
+18. § (1)[^27]
 
-(2)[^17] Az FTT
+(2)[^28] Az FTT
 
 a) szakértői tevékenysége keretében felméri a felsőoktatással, a felsőoktatási képzéssel kapcsolatos társadalmi, gazdasági és munkaerő-piaci igényeket és szükségleteket,
 
@@ -12,5 +12,5 @@ ca) egyedi szakértői véleményt ad,
 
 cb) az oktatáspolitikai döntéseket megalapozó elemzéseket készít, kutatást végez.
 
-[^16]: A 18. § (1) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^17]: A 18. § (2) bekezdés nyitó szövegrésze a 169/2016. (VII. 1.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^27]: A 18. § (1) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^28]: A 18. § (2) bekezdés nyitó szövegrésze a 169/2016. (VII. 1.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.

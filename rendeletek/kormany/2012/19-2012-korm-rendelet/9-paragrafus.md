@@ -4,8 +4,9 @@ a) a megbízatás lejártával,
 
 b) a tag halálával,
 
-c) a tag írásos lemondásával,
+c)[^13] a tag írásos lemondása esetén akkor, amikor a miniszterelnök a tag megbízatását visszavonja,
 
-d)[^7] felmentésének kezdeményezése esetén, ha – a miniszter indokolással ellátott javaslatára – a miniszterelnök a tag megbízatását visszavonja.
+d)[^14] a tag felmentésének kezdeményezése esetén, amikor – a miniszter indokolással ellátott javaslatára – a miniszterelnök a tagot felmenti.
 
-[^7]: A 9. § d) pontja a 220/2014. (VIII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^13]: A 9. § c) pontja a 407/2017. (XII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^14]: A 9. § d) pontja a 407/2017. (XII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.
