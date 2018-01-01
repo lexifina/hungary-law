@@ -4,7 +4,7 @@
 
 (2) Azt, hogy az adatkezelés a jogszabályban foglaltaknak megfelel, az adatkezelő köteles bizonyítani. A 21. § (5) és (6) bekezdése szerinti esetben a részére történő adattovábbítás jogszerűségét az adatátvevő köteles bizonyítani.
 
-(3) A per elbírálása a törvényszék hatáskörébe tartozik. A per – az érintett választása szerint – az érintett lakóhelye vagy tartózkodási helye szerinti törvényszék előtt is megindítható.
+(3) A pert az érintett – választása szerint – a lakóhelye vagy tartózkodási helye szerint illetékes törvényszék előtt is megindíthatja.
 
 (4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az érintett pernyertessége érdekében beavatkozhat.
 

@@ -4,11 +4,11 @@ a) a nemzeti minősített adat minősítésére vonatkozó jogszabályok megsér
 
 b) megállapítja, hogy a minősítő a nemzeti minősített adat minősítésére vonatkozó jogszabályoknak megfelelően járt el.
 
-(2) Ha a minősítő a Hatóság (1) bekezdés a) pontja szerinti határozatát megalapozatlannak tartja, annak bírósági felülvizsgálatát a határozat közlésétől számított hatvan napon belül kérheti. A keresetlevél benyújtásának a határozat végrehajtására halasztó hatálya van. Ha a minősítő a határozat közlésétől számított hatvan napon belül nem fordul bírósághoz, a nemzeti minősített adat minősítése a határozat közlésétől számított hatvanegyedik napon a határozatban foglaltak szerint megszűnik, illetve minősítési szintje vagy érvényességi ideje a határozatban foglaltak szerint megváltozik.
+(2) A minősítő a Hatóság (1) bekezdés a) pontja szerinti határozatát a közlésétől számított hatvan napon belül támadhatja meg. A keresetlevél benyújtásának a határozat hatályosulására halasztó hatálya van. Ha a minősítő a határozat közlésétől számított hatvan napon belül nem fordul bírósághoz, a nemzeti minősített adat minősítése a határozat közlésétől számított hatvanegyedik napon a határozatban foglaltak szerint megszűnik, illetve minősítési szintje vagy érvényességi ideje a határozatban foglaltak szerint megváltozik.
 
-(2a) A (2) bekezdésben meghatározott perben a bíróság három hivatásos bíróból álló tanácsban jár el.
+(2a)
 
-(3) A bíróság eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el.
+(3) A (2) bekezdésben meghatározott perben a bíróság zárt tárgyalást tart.
 
 (4)
 

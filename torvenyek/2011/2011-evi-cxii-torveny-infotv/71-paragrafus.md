@@ -4,6 +4,8 @@
 
 (2) A Hatóság a vizsgálata során beszerzett adatokat hatósági eljárásában felhasználhatja.
 
+(2a) Védekezés céljából készült irat esetén az (1) és (2) bekezdésben foglaltakat az ügyvédi tevékenységről szóló törvényben meghatározott eltérésekkel kell alkalmazni.
+
 (3) A Hatóság az e törvényben meghatározott eljárásai során az alapvető jogok biztosáról szóló 2011. évi CXI. törvény (a továbbiakban: Ajbtv.) 23. § (1) bekezdés a)–f) és i) pontjában, (2) bekezdésében, (3) bekezdés c)–f) pontjában, (4) bekezdés c)–g) pontjában, valamint (5) bekezdés d) pontjában meghatározott adatokat az Ajbtv. 23. § (7) bekezdésében meghatározottak szerint ismerheti meg.
 
 (3a) A Hatóság a (3) bekezdésre tekintet nélkül megismerheti az Ajbtv. 23. § (3) bekezdés e) pontjában, (4) bekezdés f) pontjában és (5) bekezdés d) pontjában meghatározott adatot, ha az az együttműködő személy személyes adatainak védelmével kapcsolatban indult

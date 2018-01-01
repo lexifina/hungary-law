@@ -20,4 +20,4 @@ g) bírságot szabhat ki.
 
 (4) A Hatóság annak eldöntésében, hogy indokolt-e a bírság kiszabása, illetve a bírság mértékének megállapításában az eset összes körülményeit – így különösen a jogsértéssel érintettek körének nagyságát, a jogsértés súlyát és a jogsértés ismétlődő jellegét – veszi figyelembe.
 
-(5) A bírósági felülvizsgálat kezdeményezésére irányadó keresetindítási határidő lejártáig, illetve felülvizsgálat kezdeményezése esetén a bíróság jogerős döntéséig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.
+(5) A határozat megtámadására nyitva álló keresetindítási határidő lejártáig, illetve közigazgatási per indítása esetén a bíróság jogerős határozatáig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.

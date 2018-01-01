@@ -2,7 +2,7 @@
 
 60. § (1) A személyes adatok védelméhez való jog érvényesülése érdekében a Hatóság adatvédelmi hatósági eljárást indíthat, a (4) bekezdésben meghatározott esetben adatvédelmi hatósági eljárást indít.
 
-(2) Az adatvédelmi hatósági eljárásra a közigazgatási hatósági eljárás általános szabályairól szóló törvényt az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(2)
 
 (3) Az adatvédelmi hatósági eljárás kizárólag hivatalból indítható, az akkor sem minősül kérelemre indult eljárásnak, ha az adatvédelmi hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg. Ha azonban az adatvédelmi hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, a bejelentőt az adatvédelmi hatósági eljárás megindításáról, illetve befejezéséről értesíteni kell.
 
@@ -14,4 +14,4 @@ b)
 
 c) nagy érdeksérelmet vagy kárveszélyt idézhet elő.
 
-(5) Az adatvédelmi hatósági eljárásban az ügyintézési határidő két hónap, amely egy alkalommal, legfeljebb harminc nappal hosszabbítható meg.
+(5) Az adatvédelmi hatósági eljárásban az ügyintézési határidő kilencven nap.

@@ -14,6 +14,6 @@ e) az adatkezelő hatóság felügyeleti szervének vezetőjét vizsgálat lefol
 
 (3) Az (1) bekezdés c) és d) pontja szerinti felvilágosítást az arra felhívott személy megtagadhatja, ha
 
-a) az a személy, akit a Hatóság vizsgálatának alapját képező bejelentés érint, a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti hozzátartozója vagy volt házastársa;
+a) az a személy, akit a Hatóság vizsgálatának alapját képező bejelentés érint, a Polgári Törvénykönyv szerinti hozzátartozója vagy volt házastársa;
 
-b) a felvilágosítás során magát vagy a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti hozzátartozóját, illetve volt házastársát bűncselekmény elkövetésével vádolná, az azzal kapcsolatos kérdésben.
+b) a felvilágosítás során magát vagy a Polgári Törvénykönyv szerinti hozzátartozóját, illetve volt házastársát bűncselekmény elkövetésével vádolná, az azzal kapcsolatos kérdésben.

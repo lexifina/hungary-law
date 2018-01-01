@@ -1,6 +1,6 @@
 ## 34/A. A kötelező szervezeti szabályozás jóváhagyására irányuló eljárás
 
-64/A. § (1) A kötelező szervezeti szabályozás jóváhagyását az adatkezelő kérelmezheti a Hatóságnál. Kötelező szervezeti szabályozás jóváhagyásának kérelmezésére nem jogosult az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó adatkezelő.
+64/A. § (1) A kötelező szervezeti szabályozás jóváhagyását az adatkezelő kérelmezheti a Hatóságnál, azzal, hogy a kérelem kormányablaknál nem terjeszthető elő. Kötelező szervezeti szabályozás jóváhagyásának kérelmezésére nem jogosult az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó adatkezelő.
 
 (2) A kötelező szervezeti szabályozás jóváhagyása iránti kérelemnek tartalmaznia kell
 

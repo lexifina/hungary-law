@@ -6,10 +6,10 @@
 
 (4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az igénylő pernyertessége érdekében beavatkozhat.
 
-(5) Az országos illetékességű közfeladatot ellátó szerv ellen indult per a törvényszék hatáskörébe tartozik. A járásbíróság hatáskörébe tartozó ügyekben a törvényszék székhelyén lévő járásbíróság, Budapesten a Pesti Központi Kerületi Bíróság jár el. A bíróság illetékességét az alperes közfeladatot ellátó szerv székhelye alapítja meg.
+(5) Az országos illetékességű közfeladatot ellátó szerv ellen indult per kivételével a per a járásbíróság hatáskörébe tartozik, és arra a törvényszék székhelyén lévő járásbíróság, Budapesten a Pesti Központi Kerületi Bíróság illetékes. A bíróság illetékességét az alperes közfeladatot ellátó szerv székhelye alapítja meg.
 
 (6) A bíróság soron kívül jár el.
 
-(6a) Ha a közérdekű adat megismerése iránti igény teljesítését az adatkezelő a 27. § (1) bekezdése alapján tagadja meg, és az adatot igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása felülvizsgálatának érdekében az (1) bekezdésben meghatározottak alapján bírósághoz fordul, a bíróság a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, egyidejűleg a per tárgyalását felfüggeszti. A titokfelügyeleti hatósági eljárást kezdeményező és az eljárást felfüggesztő végzés ellen nincs helye külön fellebbezésnek.
+(6a) Ha a közérdekű adat megismerése iránti igény teljesítését az adatkezelő a 27. § (1) bekezdése alapján tagadja meg, és az adatot igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása felülvizsgálatának érdekében az (1) bekezdésben meghatározottak alapján bírósághoz fordul, a bíróság a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, egyidejűleg a peres eljárást felfüggeszti. A titokfelügyeleti hatósági eljárást kezdeményező és az eljárást felfüggesztő végzés ellen nincs helye külön fellebbezésnek.
 
 (7) Ha a bíróság a közérdekű adat igénylésére irányuló kérelemnek helyt ad, határozatában az adatkezelőt – az adatigénylés teljesítésére rendelkezésre álló határidő meghatározásával – a kért közérdekű adat közlésére kötelezi. A bíróság az adatigénylés teljesítéséért megállapított költségtérítés összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a költségtérítés összegének megállapítása tekintetében új eljárásra kötelezheti.

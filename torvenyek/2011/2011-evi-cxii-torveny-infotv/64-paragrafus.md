@@ -2,7 +2,7 @@
 
 64. § (1) Ha az adatkezelő az 56. § (1) bekezdésében foglalt felszólításnak nem tesz eleget, a közérdekű adatok és a közérdekből nyilvános adatokkal kapcsolatos jogsértés miatt a Hatóság az 56. § (2) bekezdése szerinti tájékoztatásra vonatkozó határidő lejártát követő harminc napon belül keresettel kérheti a bíróságtól az adatkezelőnek a Hatóság felszólítása szerinti magatartásra való kötelezését.
 
-(2) A per elbírálása a 31. § (5) bekezdése szerinti bíróság hatáskörébe és illetékességébe tartozik.
+(2) A bíróság hatáskörének és illetékességének megállapítására a 31. § (5) bekezdését kell alkalmazni.
 
 (3) Azt, hogy az adatkezelés a jogszabályban foglaltaknak megfelel, az adatkezelő köteles bizonyítani.
 
