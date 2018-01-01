@@ -1,0 +1,1 @@
+A Kormány a vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény 24. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
