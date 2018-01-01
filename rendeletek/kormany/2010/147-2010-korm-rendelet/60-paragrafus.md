@@ -1,6 +1,6 @@
 ## 25. Öntözés
 
-60. § (1)[^52] Öntözőtelepet – az egynyári öntözés kivételével – a (2)–(6) bekezdésekre és a NATURA 2000 gyepterületek fenntartásának földhasználati szabályairól szóló kormányrendelet előírásaira figyelemmel csak ott és akkor szabad létesíteni, illetve öntözési célú vízkivételt engedélyezni, ahol
+60. § (1)[^57] Öntözőtelepet – az egynyári öntözés kivételével – a (2)–(6) bekezdésekre és a NATURA 2000 gyepterületek fenntartásának földhasználati szabályairól szóló kormányrendelet előírásaira figyelemmel csak ott és akkor szabad létesíteni, illetve öntözési célú vízkivételt engedélyezni, ahol
 
 a) felszíni víz igénybevétele esetén hidrológiai vizsgálattal megállapítottan, szabad vagy szabaddá tehető készlet áll rendelkezésre és nem sérülnek a vizekre vonatkozó környezeti célkitűzések és a vizek védelméről szóló jogszabályokban meghatározott követelmények,
 
@@ -12,13 +12,13 @@ d) az öntözőtelep és szolgáltató rendszer kialakításánál a lehető leg
 
 e) a kereslet az öntözővíz igénybevételére minimum 5 éves időszakra igazolható.
 
-(1a)[^53] Egynyári öntözési célú vízkivétel az (1) bekezdés a) és c) pontjában meghatározott követelmények teljesülése esetén, valamint a 60. § (2)–(6) bekezdése és a NATURA 2000 gyepterületek fenntartásának földhasználati szabályairól szóló kormányrendelet előírásainak[^54] figyelembevételével engedélyezhető.
+(1a)[^58] Egynyári öntözési célú vízkivétel az (1) bekezdés a) és c) pontjában meghatározott követelmények teljesülése esetén, valamint a 60. § (2)–(6) bekezdése és a NATURA 2000 gyepterületek fenntartásának földhasználati szabályairól szóló kormányrendelet előírásainak[^59] figyelembevételével engedélyezhető.
 
-(1b)[^55] Az egynyári öntözési célú vízkivétel esetében a naponta kivett vízmennyiséget öntözési naplóban kell rögzíteni.
+(1b)[^60] Az egynyári öntözési célú vízkivétel esetében a naponta kivett vízmennyiséget öntözési naplóban kell rögzíteni.
 
-(2)[^56] Karsztvíz csak mikroöntözés céljából vehető igénybe. Rétegvíz mikroöntözés céljából, és – a 60/A. és 60/B. §-ban meghatározott feltételekkel – mikroöntözéstől eltérő öntözés céljából is igénybe vehető.
+(2)[^61] Karsztvíz csak mikroöntözés céljából vehető igénybe. Rétegvíz mikroöntözés céljából, és – a 60/A. és 60/B. §-ban meghatározott feltételekkel – mikroöntözéstől eltérő öntözés céljából is igénybe vehető.
 
-(3)[^57] Felszín alatti víz öntözési célú igénybevétele csak felszíni vízbeszerzési lehetőség hiányában engedélyezhető. Hiánynak minősül, ha a vízigény felszíni vízből történő kielégítése aránytalanul nagy költséggel járna a felszín alatti vízbeszerzéssel összehasonlítva. A hiány meglétét a vízügyi hatóság a vízügyi igazgatóság véleményének kikérését követően állapítja meg.
+(3)[^62] Felszín alatti víz öntözési célú igénybevétele csak felszíni vízbeszerzési lehetőség hiányában engedélyezhető. Hiánynak minősül, ha a vízigény felszíni vízből történő kielégítése aránytalanul nagy költséggel járna a felszín alatti vízbeszerzéssel összehasonlítva. A hiány meglétét a vízügyi hatóság a vízügyi igazgatóság véleményének kikérését követően állapítja meg.
 
 (4) A (3) bekezdésben foglaltak figyelembevételével megállapított felszíni víz hiánya esetén az öntözési vízigényt lehetőség szerint talajvízből kell kielégíteni. A térség közüzemi ivóvízellátására igénybe vett vízadó rétegeket csak más vízadó réteg hiányában szabad igénybe venni és csak olyan mértékig, hogy annak ne legyen kedvezőtlen hatása az ivóvízellátásra.
 
@@ -26,12 +26,12 @@ e) a kereslet az öntözővíz igénybevételére minimum 5 éves időszakra iga
 
 (6) Ha a vízkivételnek a felszín alatti vízviszonyokban várhatóan mérhető hatása jelentkezik az öntözött területen kívül, monitoringról kell gondoskodni.
 
-(7)[^58] Az engedélyesnek az öntözésre igénybevett vízmennyiség mérését – a 60/B. § (2) bekezdésben foglalt eltéréssel – 2014. január 1-jétől összegző vízmérővel kell biztosítania.
+(7)[^63] Az engedélyesnek az öntözésre igénybevett vízmennyiség mérését – a 60/B. § (2) bekezdésben foglalt eltéréssel – 2014. január 1-jétől összegző vízmérővel kell biztosítania.
 
-[^52]: A 60. § (1) bekezdés nyitó szövegrésze a 290/2012. (X. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^53]: A 60. § (1a) bekezdését a 290/2012. (X. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^54]: Lásd a 269/2007. (X. 18.) Korm. rendeletet.
-[^55]: A 60. § (1b) bekezdését a 290/2012. (X. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^56]: A 60. § (2) bekezdése a 348/2012. (XII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^57]: A 60. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 87. §-a szerint módosított szöveg.
-[^58]: A 60. § (7) bekezdését a 400/2012. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^57]: A 60. § (1) bekezdés nyitó szövegrésze a 290/2012. (X. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^58]: A 60. § (1a) bekezdését a 290/2012. (X. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^59]: Lásd a 269/2007. (X. 18.) Korm. rendeletet.
+[^60]: A 60. § (1b) bekezdését a 290/2012. (X. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^61]: A 60. § (2) bekezdése a 348/2012. (XII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^62]: A 60. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 87. §-a szerint módosított szöveg.
+[^63]: A 60. § (7) bekezdését a 400/2012. (XII. 20.) Korm. rendelet 1. §-a iktatta be.

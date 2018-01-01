@@ -1,6 +1,6 @@
 ## 16. § A település közműves vízellátásának létesítése során a napi csúcsfogyasztás legalább 30%-ának megfelelő tárolóteret kell biztosítani.
 
-## 6a.[^16] Saját célú ivóvízellátás
+## 6a.[^19] Saját célú ivóvízellátás
 
 16/A. § (1) A saját célú ivóvízmű mint vízilétesítmény engedélyezésére – a csatlakozó- és házi ivóvízhálózatok kivételével – a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet szerinti hatósági engedély szükséges. Az engedély iránti kérelemhez a vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló miniszteri rendelet szerinti mellékletet kell csatolni.
 
@@ -18,10 +18,10 @@ c) az ivóvízminőség vizsgálatát
 
 (4) A saját célú ivóvízmű (3) bekezdés b) pontja szerinti védelmét úgy kell megvalósítani, hogy a vízkivétel körül 10 méteres körzet a saját ingatlanon belül legyen. Az ingatlan tulajdonosának vagy az üzemeltetőnek ezen a területen belül meg kell akadályozni a szennyezőanyagok saját célú ivóvízműbe és a környező földtani közegbe történő bocsátását.
 
-(5) A (3) bekezdésben foglalt tevékenységeket
+(5)[^20] A (3) bekezdésben foglalt tevékenységet az engedélyező hatóság ellenőrzi. Az ellenőrzés során a népegészségügyi feladatkörben eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának szakvéleménye kérhető.
 
-a) az engedélyező hatóság a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala szakértőként történő bevonásával háromévente ellenőrzi,
+(6)[^21] A saját célú ivóvízmű tulajdonosa az ivóvízmű üzemeltetését írásbeli szerződésben átengedheti, ha az üzemeltető részéről a személyi és tárgyi feltételek rendelkezésre állnak.
 
-b) saját célú ivóvízmű tulajdonosa írásbeli szerződésben átengedheti, amennyiben az üzemeltető részéről a személyi és tárgyi feltételek rendelkezésre állnak.
-
-[^16]: A 6a. alcímet (16/A–16/C. §) a 100/2016. (V. 13.) Korm. rendelet 14. §-a iktatta be.
+[^19]: A 6a. alcímet (16/A–16/C. §) a 100/2016. (V. 13.) Korm. rendelet 14. §-a iktatta be.
+[^20]: A 16/A. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 295. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^21]: A 16/A. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 295. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

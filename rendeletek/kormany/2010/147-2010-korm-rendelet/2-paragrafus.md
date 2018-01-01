@@ -54,11 +54,11 @@ b) a vízimunka megvalósítását
 
 21. mederelfajulás: folyó, vízfolyás mederalakító munkája következtében kialakult káros mederáthelyeződés,
 
-22.[^6] mikroöntözés: olyan öntözés, melynek során a víz közvetlenül a talaj vagy termesztő közeg felszínére, illetve a talajba vagy termesztő közegbe jut a párolgási veszteségek lehető legkisebb szinten való tartása érdekében,
+22.[^6] mikroöntözés: a párolgási veszteségek lehető legkisebb szinten való tartása érdekében alkalmazott olyan víztakarékos öntözés, amelynek során a vízadagoló elemek 2,5 bar-nál kisebb nyomáson, vízadagoló elemenként legfeljebb 500 l/h egyenletes vízadagokban juttatják ki a vizet közvetlenül a növényre, a talaj vagy termesztő közeg felszínére, a talajba vagy termesztő közegbe, vagy fagyvédelem vagy párásítás céljából a növény közvetlen légterébe,
 
 23. nyersvízvezeték: az ivóvízellátás céljára kitermelt, az elosztóhálózatba táplálást megelőzően kezelést igénylő vizet szállító vezeték,
 
-24. öntözés: természetes csapadék pótlása céljából a felszín alatti vizek védelméről szóló kormányrendelet szerinti háztartási vízigényeket meghaladó mennyiségű víz kijuttatása mesterséges módon a növénytermesztés hatékonyságának növelése, illetve a gyepterületek fenntartása érdekében,
+24.[^7] öntözés: természetes csapadék pótlása céljából a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet szerinti, helyi vízgazdálkodási jogkörbe eső vízigényen kívüli víz kijuttatása mesterséges módon a növénytermesztés hatékonyságának növelése, illetve a jogszabály alapján öntözhető gyepterületek fenntartása érdekében,
 
 25. pangó víz: áramlás hiányában vízminőség romlásnak fokozottan kitett víztest,
 
@@ -68,13 +68,13 @@ b) a vízimunka megvalósítását
 
 28. rétegvíz: üledékes-törmelékes képződményekben a talajvíz alatt elhelyezkedő felszín alatti víz,
 
-28a.[^7] saját célú ivóvízmű: a házi ivóvízigényt szolgáló víztermelő létesítmény, a hozzá tartozó csatlakozó és házi ivóvízhálózat, illetve a víztisztítási feladatokat ellátó vízilétesítmény, amely a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek, és amely kevesebb, mint 50 személy ivóvízellátását biztosítja,
+28a.[^8] saját célú ivóvízmű: a házi ivóvízigényt szolgáló víztermelő létesítmény, a hozzá tartozó csatlakozó és házi ivóvízhálózat, illetve a víztisztítási feladatokat ellátó vízilétesítmény, amely a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek, és amely kevesebb, mint 50 személy ivóvízellátását biztosítja,
 
 29. szennyvíz-befogadó: a felszíni víz, annak medre és a talaj,
 
 30. szennyvizek ártalommentes elhelyezése: a szennyvizek – jogszabálynak megfelelő mértékű tisztítást követő – bevezetése a természeti környezetbe,
 
-30a.[^8] szennyvíziszap-kezelés: fizikai, biológiai, kémiai, hőkezeléses vagy egyéb olyan megfelelő eljárás – beleértve a biogáz-előállítást, komposztálást is – vagy eljárások sora, melynek célja a szennyvíziszap hasznosíthatóságának, ártalmatlanításának a biztosítása, valamint fertőzőképességének a megszüntetése, hogy minősége a hatósági előírásoknak megfeleljen.
+30a.[^9] szennyvíziszap-kezelés: fizikai, biológiai, kémiai, hőkezeléses vagy egyéb olyan megfelelő eljárás – beleértve a biogáz-előállítást, komposztálást is – vagy eljárások sora, melynek célja a szennyvíziszap hasznosíthatóságának, ártalmatlanításának a biztosítása, valamint fertőzőképességének a megszüntetése, hogy minősége a hatósági előírásoknak megfeleljen.
 
 31. talajvíz: laza törmelékes, üledékes felszínközeli képződmények telített zónájában az első vízzáró vagy félig áteresztő réteg mélységéig, legfeljebb a vízgyűjtő gazdálkodási tervben meghatározott sekély porózus, vagy sekély hegyvidéki víztest alsó határáig elhelyezkedő felszín alatti víz,
 
@@ -82,7 +82,7 @@ b) a vízimunka megvalósítását
 
 33. természetközeli szennyvíztisztítás: olyan biológiai szennyvíztisztítási eljárás, amely során a szennyezőanyagok lebomlását a hordozó talajhoz, homokhoz, kavicshoz, növények gyökerének felületéhez kapcsolódó mikroorganizmusok végzik aerob vagy anaerob módon, valamint a tavas szennyvíztisztítási megoldások,
 
-34.[^9] tisztítómezővel ellátott oldómedencés létesítmény: olyan oldómedencéből és tisztítómezőből álló vízilétesítmény, amely a települési szennyvizek nem közműves elvezetésére és elhelyezésére szolgál, és amely a szennyezőanyagok lebontását energiabevitel nélkül végzi,
+34.[^10] tisztítómezővel ellátott oldómedencés létesítmény: olyan oldómedencéből és tisztítómezőből álló vízilétesítmény, amely a települési szennyvizek nem közműves elvezetésére és elhelyezésére szolgál, és amely a szennyezőanyagok lebontását energiabevitel nélkül végzi,
 
 35. tó: természetes tó, mesterséges tó, tározó, holtág,
 
@@ -101,7 +101,8 @@ b) a vízimunka megvalósítását
 [^3]: A 2. § 9. pontja a 100/2016. (V. 13.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § 10a. pontját a 290/2012. (X. 15.) Korm. rendelet 2. §-a iktatta be.
 [^5]: A 2. § 16a. pontját a 438/2015. (XII. 28.) Korm. rendelet 6. §-a iktatta be.
-[^6]: A 2. § 22. pontja a 348/2012. (XII. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^7]: A 2. § 28a. pontját a 100/2016. (V. 13.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^8]: A 2. § 30a. pontját a 100/2016. (V. 13.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^9]: A 2. § 34. pontja a 100/2016. (V. 13.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^6]: A 2. § 22. pontja az 518/2017. (XII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § 24. pontja az 518/2017. (XII. 29.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § 28a. pontját a 100/2016. (V. 13.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^9]: A 2. § 30a. pontját a 100/2016. (V. 13.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^10]: A 2. § 34. pontja a 100/2016. (V. 13.) Korm. rendelet 19. §-a szerint módosított szöveg.

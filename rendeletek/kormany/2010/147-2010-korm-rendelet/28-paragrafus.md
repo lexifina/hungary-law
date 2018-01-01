@@ -1,4 +1,4 @@
-28. § (1)[^47] Az egyedi szennyvíztisztító létesítmények működtetéséért felelős szolgáltatónak gondoskodnia kell
+28. § (1)[^52] Az egyedi szennyvíztisztító létesítmények működtetéséért felelős szolgáltatónak gondoskodnia kell
 
 a) a működés során, annak üzemnaplóban történő dokumentálásával
 
@@ -20,7 +20,7 @@ d) a szervizszolgáltatásról, rendelkezésre állásról; továbbá
 
 e) a lakossági tájékoztatásról és kapcsolattartásról.
 
-(1a)[^48] Egyedi telepítésnél, ha a kibocsátás meghaladja az 500 m3/év mennyiséget, évente mintavételt és analitikai vizsgálatot kell végezni. Programszerű telepítés esetén évente legalább az egyedi szennyvíztisztító létesítmények 20%-ánál a mintavételt és az analitikai vizsgálatot el kell végezni úgy, hogy valamennyi létesítmény legalább 5 évente bekerüljön a mintavételi és analitikai vizsgálati ütemezésbe.
+(1a)[^53] Egyedi telepítésnél, ha a kibocsátás meghaladja az 500 m3/év mennyiséget, évente mintavételt és analitikai vizsgálatot kell végezni. Programszerű telepítés esetén évente legalább az egyedi szennyvíztisztító létesítmények 20%-ánál a mintavételt és az analitikai vizsgálatot el kell végezni úgy, hogy valamennyi létesítmény legalább 5 évente bekerüljön a mintavételi és analitikai vizsgálati ütemezésbe.
 
 (2) Felelős szolgáltató az lehet, aki
 
@@ -32,5 +32,5 @@ b) rendelkezik szennyvíztechnológus, vagy azzal egyenértékű, illetve magasa
 
 (4) A felelős szolgáltató a vízgazdálkodásról szóló törvényben meghatározott közüzemi szerződés alapján szolgáltat.
 
-[^47]: A 28. § (1) bekezdése a 209/2011. (X. 12.) Korm. rendelet 10. § (1) bekezdésével megállapított, nyitó szövegrésze a 100/2016. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^48]: A 28. § (1a) bekezdését a 209/2011. (X. 12.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 100/2016. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^52]: A 28. § (1) bekezdése a 209/2011. (X. 12.) Korm. rendelet 10. § (1) bekezdésével megállapított, nyitó szövegrésze a 100/2016. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^53]: A 28. § (1a) bekezdését a 209/2011. (X. 12.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 100/2016. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.

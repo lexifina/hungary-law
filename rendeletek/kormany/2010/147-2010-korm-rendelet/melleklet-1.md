@@ -1,6 +1,6 @@
-## 83. §[^77]
+## 83. §[^85]
 
-1. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^78]
+1. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^86]
 
-[^77]: A 83. § a (2) bekezdése alapján hatályát vesztette.
-[^78]: Az 1. melléklet a 209/2011. (X. 12.) Korm. rendelet 14. §-a és 15. § (3) bekezdése szerint módosított szöveg.
+[^85]: A 83. § a (2) bekezdése alapján hatályát vesztette.
+[^86]: Az 1. melléklet a 209/2011. (X. 12.) Korm. rendelet 14. §-a és 15. § (3) bekezdése szerint módosított szöveg.
