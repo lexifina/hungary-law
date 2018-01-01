@@ -1,4 +1,4 @@
-## 135. §[^84] Ha a nyomozást a nyomozó szerv függesztette fel és annak oka megszűnt, továbbá, ha a felfüggesztés határideje eredménytelenül telt el és nincs helye a nyomozás elévülés miatti megszüntetésének, a nyomozás folytatásáról határozatot kell hozni, amelynek megküldésével az ügyészt és az eljárásnak azt a résztvevőjét, akit a felfüggesztésről is értesítettek, egyidejűleg értesíteni kell. Ha a nyomozást az ügyész függesztette fel, a felfüggesztés okának megszűnése esetén a nyomozás továbbfolytatásáról szóló határozat meghozatala iránt előterjesztést kell tenni.
+## 135. §[^87] Ha a nyomozást a nyomozó szerv függesztette fel és annak oka megszűnt, továbbá, ha a felfüggesztés határideje eredménytelenül telt el és nincs helye a nyomozás elévülés miatti megszüntetésének, a nyomozás folytatásáról határozatot kell hozni, amelynek megküldésével az ügyészt és az eljárásnak azt a résztvevőjét, akit a felfüggesztésről is értesítettek, egyidejűleg értesíteni kell. Ha a nyomozást az ügyész függesztette fel, a felfüggesztés okának megszűnése esetén a nyomozás továbbfolytatásáról szóló határozat meghozatala iránt előterjesztést kell tenni.
 
 ## A Be. 193. §-ához
 
@@ -14,13 +14,13 @@
 
 (5) A nyomozás kiegészítése során keletkezett iratok megismerését az (1)–(4) bekezdésben foglaltak szerint kell biztosítani.
 
-(6)[^85] Ha a gyanúsított, illetőleg a védő iratismertetés során előterjesztett indítványa alapján olyan nyomozási cselekmény elvégzése válik szükségessé, amely a Be. 176. §-a (2) bekezdésének második mondatában megállapított határidőn belül nem végezhető el, a nyomozó hatóság a nyomozás határidejének meghosszabbítása érdekében haladéktalanul előterjesztést tesz az ügyészhez.
+(6)[^88] Ha a gyanúsított, illetőleg a védő iratismertetés során előterjesztett indítványa alapján olyan nyomozási cselekmény elvégzése válik szükségessé, amely a Be. 176. §-a (2) bekezdésének második mondatában megállapított határidőn belül nem végezhető el, a nyomozó hatóság a nyomozás határidejének meghosszabbítása érdekében haladéktalanul előterjesztést tesz az ügyészhez.
 
-(7)[^86] Az elvégzett nyomozási cselekmény folytán keletkezett iratok megismerését a nyomozás meghosszabbított határidejének utolsó napjáig a gyanúsított és a védő, majd a sértett részére biztosítani kell.
+(7)[^89] Az elvégzett nyomozási cselekmény folytán keletkezett iratok megismerését a nyomozás meghosszabbított határidejének utolsó napjáig a gyanúsított és a védő, majd a sértett részére biztosítani kell.
 
-(8)[^87] Az (1)–(7) bekezdés rendelkezéseit a gyanúsított és a védő tekintetében értelemszerűen alkalmazni kell a nyomozás megszüntetése esetén is.
+(8)[^90] Az (1)–(7) bekezdés rendelkezéseit a gyanúsított és a védő tekintetében értelemszerűen alkalmazni kell a nyomozás megszüntetése esetén is.
 
-[^84]: A 135. § a 21/2006. (IX. 11.) IRM rendelet 27. §-ával megállapított szöveg.
-[^85]: A 136. § (6) bekezdését a 21/2006. (IX. 11.) IRM rendelet 28. §-a iktatta be.
-[^86]: A 136. § (7) bekezdését a 21/2006. (IX. 11.) IRM rendelet 28. §-a iktatta be.
-[^87]: A 136. § (8) bekezdését a 24/2007. (V. 24.) IRM rendelet 7. §-a iktatta be.
+[^87]: A 135. § a 21/2006. (IX. 11.) IRM rendelet 27. §-ával megállapított szöveg.
+[^88]: A 136. § (6) bekezdését a 21/2006. (IX. 11.) IRM rendelet 28. §-a iktatta be.
+[^89]: A 136. § (7) bekezdését a 21/2006. (IX. 11.) IRM rendelet 28. §-a iktatta be.
+[^90]: A 136. § (8) bekezdését a 24/2007. (V. 24.) IRM rendelet 7. §-a iktatta be.

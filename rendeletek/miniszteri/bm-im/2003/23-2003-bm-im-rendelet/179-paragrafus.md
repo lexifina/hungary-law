@@ -1,13 +1,13 @@
 ## 178. § Az illetékes külképviselet, a diplomáciai képviselő és konzuli tisztviselő (a továbbiakban: külképviselet tagja) számára biztosítani kell a Be. 43. §-a (3) bekezdésének a) pontjában, 47. §-ának (1) bekezdésében, valamint 184. §-ának (5) és (6) bekezdésében; továbbá a nemzetközi szerződésekben meghatározott jogait, beleértve az őrizetben, illetve az előzetes letartóztatásban levő gyanúsított látogatását is.
 
-179. § (1)[^116] A nem magyar állampolgár gyanúsítottkénti vagy tanúkénti kihallgatásáról az állampolgársága – ha az érintett több állam állampolgára, az általa megjelölt állampolgársága – szerint illetékes külképviseletet a nyomozó szerv a Külügyminisztériumon keresztül akkor értesíti, ha ezt az érintett kéri.
+179. § (1)[^119] A nem magyar állampolgár gyanúsítottkénti vagy tanúkénti kihallgatásáról az állampolgársága – ha az érintett több állam állampolgára, az általa megjelölt állampolgársága – szerint illetékes külképviseletet a nyomozó szerv a Külügyminisztériumon keresztül akkor értesíti, ha ezt az érintett kéri.
 
 (2) A gyanúsított kihallgatását a külképviselet értesítése nem késleltetheti. A külképviseletnek a kihallgatáson jelen levő tagja a kihallgatotthoz kérdéseket nem intézhet, észrevételt nem tehet, indítványt nem terjeszthet elő.
 
-(3)[^117]
+(3)[^120]
 
-(4)[^118] A nyomozó szerv a nyomozás befejezéséről köteles értesíteni a Bevándorlási és Menekültügyi Hivatal területileg illetékes hatóságát. Biztosíték adása vagy a kiutazási korlátozás okának megszűnése esetén a nyomozó szerv az ügyésznél, illetve a bíróságnál kezdeményi az úti okmány visszatartásának megszüntetését.
+(4)[^121] A nyomozó szerv a nyomozás befejezéséről köteles értesíteni a Bevándorlási és Menekültügyi Hivatal területileg illetékes hatóságát. Biztosíték adása vagy a kiutazási korlátozás okának megszűnése esetén a nyomozó szerv az ügyésznél, illetve a bíróságnál kezdeményi az úti okmány visszatartásának megszüntetését.
 
-[^116]: A 179. § (1) bekezdése a 24/2007. (V. 24.) IRM rendelet 12. §-ával megállapított szöveg.
-[^117]: A 179. § (3) bekezdését a 82/2012. (XII. 28.) BM rendelet 6. § c) pontja hatályon kívül helyezte.
-[^118]: A 179. § (4) bekezdése az 58/2016. (XII. 22.) BM rendelet 12. § b) pontja szerint módosított szöveg.
+[^119]: A 179. § (1) bekezdése a 24/2007. (V. 24.) IRM rendelet 12. §-ával megállapított szöveg.
+[^120]: A 179. § (3) bekezdését a 82/2012. (XII. 28.) BM rendelet 6. § c) pontja hatályon kívül helyezte.
+[^121]: A 179. § (4) bekezdése az 58/2016. (XII. 22.) BM rendelet 12. § b) pontja szerint módosított szöveg.

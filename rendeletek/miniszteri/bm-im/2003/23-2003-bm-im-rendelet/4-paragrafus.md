@@ -8,6 +8,6 @@
 
 (3) A (2) bekezdés alkalmazása szempontjából irányadó különösen a gyanúsított első kihallgatására szóló idézés kibocsátásának, illetve a vele szemben személyi szabadsága elvonásával járó kényszerintézkedés, körözés, elfogatóparancs elrendelésének az időpontja.
 
-(4)[^6] A Rendőrségről szóló 1994. évi XXXIV. törvény 33. §-a (1) bekezdésének a) pontja alapján elfogott és előállított személyt az elfogás, illetve az előállítás kezdetétől megilleti a védelemhez való jog.
+(4)[^7] A Rendőrségről szóló 1994. évi XXXIV. törvény 33. §-a (1) bekezdésének a) pontja alapján elfogott és előállított személyt az elfogás, illetve az előállítás kezdetétől megilleti a védelemhez való jog.
 
-[^6]: A 4. § (4) bekezdését a 24/2007. (V. 24.) IRM rendelet 1. §-a iktatta be.
+[^7]: A 4. § (4) bekezdését a 24/2007. (V. 24.) IRM rendelet 1. §-a iktatta be.

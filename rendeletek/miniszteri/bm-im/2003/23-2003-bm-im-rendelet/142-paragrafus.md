@@ -1,4 +1,4 @@
-## 141. §[^89] A nyomozás során a panaszt a határozatot hozó, az intézkedést foganatosító, illetőleg az intézkedést elmulasztó nyomozó szervnél célszerű előterjeszteni.
+## 141. §[^92] A nyomozás során a panaszt a határozatot hozó, az intézkedést foganatosító, illetőleg az intézkedést elmulasztó nyomozó szervnél célszerű előterjeszteni.
 
 ## A Be. 200. §-ához
 
@@ -20,7 +20,7 @@
 
 (8) A titkos adatszerzés végrehajtásáról készített jelentést annak aláírását követően haladéktalanul meg kell küldeni az ügyésznek.
 
-(9)[^90] Az (1) és (6) bekezdésben meghatározott esetben az értesítés, illetőleg a (2) és (4) bekezdés szerinti előterjesztés megtételére, továbbá a titkos adatszerzés végrehajtásáról a Be. 204. § (5) bekezdése alapján készített jelentés aláírására – ha a nyomozást –
+(9)[^93] Az (1) és (6) bekezdésben meghatározott esetben az értesítés, illetőleg a (2) és (4) bekezdés szerinti előterjesztés megtételére, továbbá a titkos adatszerzés végrehajtásáról a Be. 204. § (5) bekezdése alapján készített jelentés aláírására – ha a nyomozást –
 
 a) az ORFK nyomozó szerve végzi, akkor a nyomozó szerv vezetője,
 
@@ -30,8 +30,8 @@ c) a rendőrkapitányság nyomozó szerve végzi, akkor a rendőrkapitány,
 
 d) az RRI nyomozó szerve végzi, akkor az RRI parancsnoka,
 
-e)[^91] a KR nyomozó szerve végzi, akkor a KR parancsnoka
+e)[^94] a KR nyomozó szerve végzi, akkor a KR parancsnoka
 
-[^89]: A 141. § a 24/2007. (V. 24.) IRM rendelet 9. §-ával megállapított szöveg.
-[^90]: A 142. § (9) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (10) bekezdésével megállapított szöveg.
-[^91]: A 142. § (9) bekezdés e) pontja a 43/2012. (VIII. 23.) BM rendelet 3. §-ával megállapított szöveg.
+[^92]: A 141. § a 24/2007. (V. 24.) IRM rendelet 9. §-ával megállapított szöveg.
+[^93]: A 142. § (9) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (10) bekezdésével megállapított szöveg.
+[^94]: A 142. § (9) bekezdés e) pontja a 43/2012. (VIII. 23.) BM rendelet 3. §-ával megállapított szöveg.

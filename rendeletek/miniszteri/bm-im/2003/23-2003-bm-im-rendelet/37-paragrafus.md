@@ -1,3 +1,3 @@
-## 36. §[^44]
+## 36. §[^46]
 
-[^44]: A 36. §-t a 21/2006. (IX. 11.) IRM rendelet 33. § (2) bekezdése hatályon kívül helyezte.
+[^46]: A 36. §-t a 21/2006. (IX. 11.) IRM rendelet 33. § (2) bekezdése hatályon kívül helyezte.

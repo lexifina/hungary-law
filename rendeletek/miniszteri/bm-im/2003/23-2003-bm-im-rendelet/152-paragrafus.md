@@ -2,7 +2,7 @@
 
 ## (A bizonyítási eszközök)
 
-152. §[^96] (1) Környezettanulmány elkészítésére a gyanúsított lakóhelye (tartózkodási helye) szerint illetékes pártfogó felügyelői szolgálatot kell megkeresni.
+152. §[^99] (1) Környezettanulmány elkészítésére a gyanúsított lakóhelye (tartózkodási helye) szerint illetékes pártfogó felügyelői szolgálatot kell megkeresni.
 
 (2) A megkeresés tartalmazza:
 
@@ -24,4 +24,4 @@ a) a környezettanulmánnyal érintett helyszín biztonságos megtekintése, ill
 
 b) a környezettanulmány elkészítése során meghallgatandó személy biztonságos meghallgatása
 
-[^96]: A 152. §-t a 21/2006. (IX. 11.) IRM rendelet 33. § (2) bekezdése hatályon kívül helyezte, újonnan a 24/2007. (V. 24.) IRM rendelet 10. §-a iktatta be.
+[^99]: A 152. §-t a 21/2006. (IX. 11.) IRM rendelet 33. § (2) bekezdése hatályon kívül helyezte, újonnan a 24/2007. (V. 24.) IRM rendelet 10. §-a iktatta be.
