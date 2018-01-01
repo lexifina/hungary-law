@@ -50,7 +50,7 @@
 
 |  |  |  |  |  |  |  | a képviseletre jogosult személy neve és aláírása |
 
-2. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^179]
+2. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^184]
 
 | Könyvvizsgálói összesített adatlap |
 
@@ -74,4 +74,4 @@
 
 |  |  |  |  |  |  |  |  |  |  | a könyvvizsgáló aláírása |  |
 
-[^179]: A 2. melléklet a 96/2016. (V. 2.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^184]: A 2. melléklet a 96/2016. (V. 2.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.

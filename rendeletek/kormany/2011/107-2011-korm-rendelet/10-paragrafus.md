@@ -1,14 +1,14 @@
-10. §[^78] (1) Ha a jóváhagyott sportfejlesztési program megvalósítása során
+10. §[^81] (1)[^82] Ha a jóváhagyott sportfejlesztési program megvalósítása során
 
 a) olyan tény vagy körülmény jut a támogatott szervezet tudomására, vagy a támogatott szervezet önhibáján kívül olyan tényt vagy körülményt idéz elő, ami az eredetileg jóváhagyott sportfejlesztési program megvalósítását veszélyezteti, illetve meghiúsítja, vagy
 
 b) olyan tény vagy körülmény merül fel, aminek az eredetileg jóváhagyott sportfejlesztési program terhére történő megvalósítására biztosított támogatás nem elegendő,
 
-a támogatott szervezet köteles azt az okról való tudomásszerzéstől számított 30 napon belül írásban bejelenteni a jóváhagyást végző szervezetnek, és – a (2), (4) és (6) bekezdésben meghatározott kivételekkel – az igénybe nem vett támogatásról írásban lemondani, azt a 14. § (7) bekezdésében meghatározottak szerint az állam részére befizetni, valamint a támogatás igénybe vett részének felhasználásáról e rendelet szerint elszámolni.
+a támogatott szervezet köteles azt az okról való tudomásszerzéstől számított 8 napon belül írásban, a jóváhagyást végző szervezet által e célra rendszeresített felületen bejelenteni a jóváhagyást végző szervezetnek, és – a (2), (4) és (6) bekezdésben meghatározott kivételekkel – az igénybe nem vett támogatásról írásban lemondani, azt a 14. § (7) bekezdésében meghatározottak szerint az állam részére befizetni, valamint a támogatás igénybe vett részének felhasználásáról e rendelet szerint elszámolni.
 
 (2) A támogatott szervezet – a módosítás okáról való tudomásszerzéstől számított 30 napon belül – a támogatási időszak során egy alkalommal kérelmezheti a jóváhagyást végző szervezetnél a támogatási időszakra vonatkozó sportfejlesztési programban meghatározott szakmai program támogatási jogcímek közötti módosítását. A módosítási kérelem nem irányulhat a 4. § (7) bekezdése szerint jóváhagyott, igénybe vehető támogatási jogcím alapján nyújtott támogatás legnagyobb mértékének és – a (6) bekezdésben foglaltak kivételével – a sportfejlesztési program szerinti összes támogatás összegének növelésére, valamint nem irányulhat a sportfejlesztési programot jóváhagyó határozatban nem szereplő jogcím, aljogcím támogatására. A módosítási kérelemhez a 4. § (2) bekezdésében meghatározott dokumentumokat, nyilatkozatokat kell csatolni a jóváhagyást végző szervezet részére.
 
-(3) A jóváhagyást végző szervezet a módosítási kérelemről való döntés során a 4. § (3)–(9) bekezdésének alkalmazásával jár el azzal, hogy az ügyintézési határidő 30 nap, hiánypótlásra pedig egy alkalommal, 8 napos határidővel van lehetőség.
+(3)[^83] A jóváhagyást végző szervezet a módosítási kérelemről történő döntés során a 4. § (3)–(9) bekezdésének alkalmazásával jár el.
 
 (4) Ha az (1) bekezdésben meghatározott körülmények a támogatási időszakra vonatkozóan eredetileg jóváhagyott sportfejlesztési programban meghatározott támogatási jogcímen belül elkülöníthető szakmai programelemek (támogatási aljogcímek) átcsoportosítására vagy szakmai programelemeken belüli módosítására vonatkozóan merültek fel, a sportfejlesztési program ennek megfelelő módosítását a támogatott szervezet – a módosítás okáról való tudomásszerzéstől számított 30 napon belül – kérelmezheti a jóváhagyást végző szervezetnél. A jóváhagyást végző szervezet a kérelemről az Stv. 22. § (7) bekezdésében és 51. § (5) bekezdésében a sportfejlesztési program módosítására megállapított ügyintézési határidőn belül dönt a kérelem elfogadásáról vagy elutasításáról. Támogatási jogcímen belüli módosítás egy támogatási időszakban legfeljebb 3 alkalommal – legkésőbb május 31-ei benyújtási határidővel – kérelmezhető. A támogatási jogcímen belüli módosítás nem irányulhat a 4. § (7) bekezdése szerint jóváhagyott, igénybe vehető támogatási jogcím alapján nyújtott támogatás legnagyobb mértékének és – a (6) bekezdésben foglaltak kivételével – a sportfejlesztési program szerinti összes támogatás összegének növelésére. A támogatási jogcímen belüli módosítási kérelemhez a 4. § (2) bekezdés c) pontjában meghatározott dokumentumok közül a kérelem elbírálásához szükséges szakmai és költségterv támogatási jogcímen belüli módosítással érintett részét kell csatolni a jóváhagyást végző szervezet részére.
 
@@ -20,4 +20,6 @@ a támogatott szervezet köteles azt az okról való tudomásszerzéstől szám�
 
 (8) Ha jóváhagyó szervezetként a szakszövetség jár el, a (2), a (4) vagy a (6) bekezdés szerinti módosítási kérelemről való döntéséről 8 napon belül tájékoztatja a 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezetet.
 
-[^78]: A 10. § a 367/2017. (XII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^81]: A 10. § a 367/2017. (XII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^82]: A 10. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 327. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^83]: A 10. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 327. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

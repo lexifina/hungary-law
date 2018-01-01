@@ -1,4 +1,4 @@
-## 5/C. [^126] Utóellenőrzések elrendelése
+## 5/C. [^131] Utóellenőrzések elrendelése
 
 15/C. § (1) Utóellenőrzés keretében a sportfejlesztési program egésze megvalósulásának utólagos ellenőrzésére – ideértve a sportfejlesztési program jóváhagyását, a támogatási igazolás kiállítását, a jóváhagyott sportfejlesztési program megvalósítását és a támogatások felhasználásának ellenőrzését – kerülhet sor.
 
@@ -10,10 +10,10 @@
 
 (5) A sportpolitikáért felelős miniszter a (3) bekezdés szerint lefolytatott utóellenőrzés megállapításai alapján az elszámolást módosítja vagy hatályában fenntartja.
 
-(6)[^127] Az utóellenőrzésre a 12. §-ban foglaltakat megfelelően alkalmazni kell azzal, hogy az 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet a 12. § (1) bekezdés szerint bekért dokumentációk alapján 60 napon belül dönt az utóellenőrzés lefolytatásáról. Az 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet döntésében köteles meghatározni az utóellenőrzés lefolytatásának kezdő időpontját.
+(6)[^132] Az utóellenőrzésre a 12. §-ban foglaltakat megfelelően alkalmazni kell azzal, hogy az 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet a 12. § (1) bekezdés szerint bekért dokumentációk alapján 60 napon belül dönt az utóellenőrzés lefolytatásáról. Az 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet döntésében köteles meghatározni az utóellenőrzés lefolytatásának kezdő időpontját.
 
-(7)[^128] Amennyiben az 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet az utóellenőrzés lefolytatásáról dönt, a (4) és (5) bekezdés szerinti döntését az utóellenőrzés elrendeléséről szóló döntésben megállapított határidőtől számított 180 napon belül hozza meg. Ez a határidő egy alkalommal további 180 nappal meghosszabbítható.
+(7)[^133] Amennyiben az 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet az utóellenőrzés lefolytatásáról dönt, a (4) és (5) bekezdés szerinti döntését az utóellenőrzés elrendeléséről szóló döntésben megállapított határidőtől számított 180 napon belül hozza meg. Ez a határidő egy alkalommal további 180 nappal meghosszabbítható.
 
-[^126]: Az 5/C. alcímet (15/C. §) a 128/2017. (VI. 8.) Korm. rendelet 2. §-a iktatta be.
-[^127]: A 15/C. § (6) bekezdése a 164/2017. (VI. 28.) Korm. rendelet 10. § 10. pontja szerint módosított szöveg.
-[^128]: A 15/C. § (7) bekezdése a 164/2017. (VI. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^131]: Az 5/C. alcímet (15/C. §) a 128/2017. (VI. 8.) Korm. rendelet 2. §-a iktatta be.
+[^132]: A 15/C. § (6) bekezdése a 164/2017. (VI. 28.) Korm. rendelet 10. § 10. pontja szerint módosított szöveg.
+[^133]: A 15/C. § (7) bekezdése a 164/2017. (VI. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
