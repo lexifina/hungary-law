@@ -1,1 +1,0 @@
-## A támogatott tevékenység
