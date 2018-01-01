@@ -22,7 +22,7 @@ ee) a gyógyszertár működtetőjének nyilatkozatát arról, hogy a törvényb
 
 f) a pályázat benyújtásának határnapját.
 
-(2) Ha a cég a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az OGYÉI az iratot és a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(2)[^2] Ha a cég a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az OGYÉI az iratot és a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (3) A pályázat kiírása során az OGYÉI vizsgálja a szolgálati rendre, valamint többletszolgáltatás előírására vonatkozóan az adott településen vagy településrészen az egészségügyi szolgáltatók – ideértve a már működő gyógyszertárakat is – szolgálati rendjét, és a lakosság gyógyszerellátása szempontjából releváns egyéb, az (5) bekezdés szerinti, többletszolgáltatást jelentő tényezőket.
 
@@ -57,3 +57,5 @@ dc) betegségspecifikus gyógyszerészi gondozás nyújtását
 ## a gyógyszertár megnyitását követő legalább öt éven keresztül, azzal, hogy a da)–dc) alpontban felsorolt többletszolgáltatások vállalása esetén előnyben részesül a nagyobb számú többletszolgáltatást vállaló pályázó.
 
 (6) Ha az (5) bekezdés szerint sem lehet dönteni a pályázat nyerteséről, az a pályázó nyer, akinek pályázata korábban került benyújtásra az OGYÉI részére. E bekezdés tekintetében benyújtásnak kell tekintetni a postára adást is.
+
+[^2]: A 3. § (2) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 70. §-a szerint módosított szöveg.
