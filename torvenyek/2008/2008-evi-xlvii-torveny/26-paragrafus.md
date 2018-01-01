@@ -1,3 +1,3 @@
-26. § (1) A vizsgáló végzéssel hivatalból vizsgálatot rendel el a Gazdasági Versenyhivatal hatáskörébe tartozó, valószínűsíthetően a tisztességtelen kereskedelmi gyakorlat tilalmát sértő tevékenység, magatartás vagy állapot észlelése esetén.
+26. § (1) A vizsgáló végzéssel vizsgálatot rendel el a Gazdasági Versenyhivatal hatáskörébe tartozó, valószínűsíthetően a tisztességtelen kereskedelmi gyakorlat tilalmát sértő magatartás észlelése esetén.
 
 (2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti vizsgálat elrendeléséről a Gazdasági Versenyhivatal az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a fogyasztóvédelmi hatóságot vagy – a 10. § (2) bekezdése szerinti kereskedelmi gyakorlat esetén – Felügyeletet.

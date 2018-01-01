@@ -2,13 +2,13 @@
 
 (2)
 
-(3) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság, a Felügyelet, a Gazdasági Versenyhivatal és a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:
+(3) A 28. §
 
-a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) bekezdés, (6) bekezdés e) pont, és melléklet 16. pont [a 27. § (3) bek., a 28. § (1) bek., a 30. § (20) bek., a 31. § (1) bek., a 41. § (16) bek.],
+a) (1) bekezdése a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésének és melléklete 16. pontjának,
 
-b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 28. § (2) bek.],
+b) (2) bekezdése a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2006. december 22-i 2007/76/EK bizottsági határozatnak, továbbá az azt módosító 2008. március 17-i 2008/282/EK és 2011. március 1-jei 2011/141/EU bizottsági határozatoknak
 
-c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 28. § (2) bek.].
+a végrehajtásához szükséges rendelkezéseket állapít meg a fogyasztóvédelmi hatóság, a Felügyelet és a Gazdasági Versenyhivatal feladatkörében és eljárásában.
 
 ## Melléklet a 2008. évi XLVII. törvényhez
 

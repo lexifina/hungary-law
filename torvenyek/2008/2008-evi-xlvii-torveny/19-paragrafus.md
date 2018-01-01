@@ -4,6 +4,6 @@ a) a fogyasztóvédelmi hatóság eljárása tekintetében a fogyasztóvédelemr
 
 b) a Felügyelet eljárása tekintetében a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.),
 
-c) a Gazdasági Versenyhivatal eljárása tekintetében a Tpvt.
+c) a Gazdasági Versenyhivatal eljárása tekintetében a versenyfelügyeleti eljárásnak a Tpvt.-ben megállapított
 
 rendelkezéseit kell alkalmazni.
