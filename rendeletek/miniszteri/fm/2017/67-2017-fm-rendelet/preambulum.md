@@ -1,0 +1,5 @@
+Az 1. alcím tekintetében a termőföld védelméről szóló 2007. évi CXXIX. törvény 66. § (3) bekezdés e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 5. pontjában meghatározott feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel, valamint a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 4. pontjában meghatározott feladatkörében eljáró, a fővárosi és megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben,
+
+a 2. alcím tekintetében a termőföld védelméről szóló 2007. évi CXXIX. törvény 66. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 5. pontjában meghatározott feladatkörömben eljárva,
+
+a következőket rendelem el:
