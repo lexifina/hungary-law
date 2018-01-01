@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-95-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2009-95-00-00.7 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2009-95-00-00.8 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 2009-95-00-00.9 |
+| 2018-01-01 | 2017. évi L. törvény | 2009-95-00-00.10 |
