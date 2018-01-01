@@ -104,7 +104,7 @@
 
 ## –  szükség szerint az egyéni vállalkozói tevékenység szünetelésének tényét, kezdő- és zárónapját,
 
-## –  az egyéni vállalkozó adószámát, ha az egyéni vállalkozó adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztés, a felfüggesztés megszüntetése, a törlés, illetve e határozatok megsemmisítésének, hatályon kívül helyezésének, visszavonásának, módosításának, kiegészítésének tényét, továbbá a határozat jogerőre emelkedésének napját,
+## –  az egyéni vállalkozó adószámát, ha az egyéni vállalkozó adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztés, a felfüggesztés megszüntetése, a törlés, illetve e határozatok megsemmisítésének, hatályon kívül helyezésének, visszavonásának, módosításának, kiegészítésének tényét, továbbá a határozat véglegessé válásának napját,
 
 ## –  az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
 
@@ -140,7 +140,7 @@
 
 ## –  a nyilvántartásból törölt egyéni vállalkozó családi és utóneve, valamint nyilvántartási száma.
 
-2. melléklet a 65/2009. (XII. 17.) IRM rendelethez[^2]
+2. melléklet a 65/2009. (XII. 17.) IRM rendelethez[^3]
 
 Változás bejelentés az egyéni vállalkozói nyilvántartáshoz
 
@@ -270,4 +270,4 @@ a) A cselekvőképesség korlátozását megszüntető okirat száma
 
 b) A cselekvőképesség korlátozását megszüntető határozat jogerőre emelkedésének ideje, vagy a határozatban foglalt azon időpont, amikortól a cselekvőképesség korlátozásának megszüntetése hatályos
 
-[^2]: A 2. melléklet a 21/2010. (XII. 22.) KIM rendelet 1. § (2) bekezdésével megállapított, a 22/2012. (IV. 21.) KIM rendelet 2. §-a és 4. § c) pontja, a 3/2013. (III. 25.) KIM rendelet 2. § (2) bekezdése, a 22/2015. (IX. 14.) IM rendelet 1. § (2) bekezdése és 2. § c) pontja szerint módosított szöveg.
+[^3]: A 2. melléklet a 21/2010. (XII. 22.) KIM rendelet 1. § (2) bekezdésével megállapított, a 22/2012. (IV. 21.) KIM rendelet 2. §-a és 4. § c) pontja, a 3/2013. (III. 25.) KIM rendelet 2. § (2) bekezdése, a 22/2015. (IX. 14.) IM rendelet 1. § (2) bekezdése és 2. § c) pontja szerint módosított szöveg.
