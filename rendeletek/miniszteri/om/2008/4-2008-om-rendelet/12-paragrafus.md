@@ -12,6 +12,6 @@ d) az erdőtűz oltására megfelelő munkacsoport, felszerelés és jármű ké
 
 (2) Az erdőgazdálkodó a tűzvédelmi szempontból kismértékben és közepesen veszélyeztetett területek esetében az (1) bekezdés a)–c) pontjában meghatározott kötelezettségeket teljesíti.
 
-(3)[^5] A területileg illetékes katasztrófavédelmi kirendeltség és a területileg illetékes területileg illetékes megyei kormányhivatal erdészeti igazgatósága a tűzgyújtási tilalom időszaka alatt rendszeresen ellenőrzi az ezen időszakra vonatkozó szabályok betartását.
+(3)[^5]
 
-[^5]: A 12. § (3) bekezdése a 71/2012. (XII. 14.) BM rendelet 8. § b) és c) pontja szerint módosított szöveg.
+[^5]: A 12. § (3) bekezdését a 44/2017. (XII. 29.) BM rendelet 34. § b) pontja hatályon kívül helyezte.

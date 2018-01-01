@@ -50,8 +50,8 @@ c) a tűz esetén értesítendő szervek elérhetőségét,
 
 d) a tűz esetén igénybe vehető eszközöket és azok elérhetőségét.
 
-(10)[^2] Az erdő fekvése szerint illetékes (a továbbiakban: területileg illetékes) területileg illetékes megyei kormányhivatal erdészeti igazgatósága és a területileg illetékes katasztrófavédelmi kirendeltség az egyszerűsített védelmi terv meglétét ellenőrizheti.
+(10)[^2]
 
 (11) Az elkészített védelmi tervet és egyszerűsített védelmi tervet módosítani kell, ha a tűzvédelmi helyzetre kiható változás következik be.
 
-[^2]: Az 5. § (10) bekezdése a 71/2012. (XII. 14.) BM rendelet 8. § b) és c) pontja szerint módosított szöveg.
+[^2]: Az 5. § (10) bekezdését a 44/2017. (XII. 29.) BM rendelet 34. § a) pontja hatályon kívül helyezte.
