@@ -6,6 +6,6 @@ a) határozott időre vagy
 
 b) határozatlan időre
 
-## adja ki.
+adja ki.
 
 (3) A vasúti közlekedési hatóság – legalább öt éves – határozott időre adja ki a használatbavételi engedélyt annak a vasúti építményt üzemeltető szervezetnek, amely nem rendelkezik vasútbiztonsági engedéllyel.

@@ -1,34 +1,32 @@
-## A vasúti építmények használatbavételi engedélyezési eljárásaiban benyújtandó dokumentációk jegyzéke építmény-fajtánként
+## 1.[^64] Valamennyi létesítményre vonatkozóan:
 
-## 1. Valamennyi létesítményre vonatkozó általános dokumentáció:
+## a) igazolni kell
 
-## a) a beruházó nyilatkozata, mely szerint a kérelem tárgyát képező létesítmény az építési engedélynek megfelelően készült el, melyben fel kell tüntetni az építési engedély és az eltéréseket engedélyező engedélyek számait;
+## aa) a kérelem tárgyát képező létesítmény megfelelését az építési engedélyben foglaltaknak megjelölve az építési engedély és az eltéréseket engedélyező engedélyek számait,
 
-## b)[^41] független tanúsító szervezet tanúsítása;
+## ab) független tanúsító szervezet tanúsításának megtörténtét,
 
-## c)[^42]
+## ac) a műszaki átadás-átvétel megtörténtét, a hiányosságok megszüntetését,
 
-## d) a vágányok melletti és fölötti létesítményeknek a vágánytengelytől és a sínkorona-szinttől mért távolságait, valamint a szabadon tartott tér felmérését tartalmazó jegyzőkönyv;
+## ad) amennyiben jogszabály előírja, a vasútbiztonsági engedély megszerzése vagy módosítása feltételeinek fennállását,
 
-## e) amennyiben jogszabály előírja a vasútbiztonsági engedély megszerzéséhez, vagy módosításához szükséges dokumentáció;
+## ae) a kivitelezésnek (megépített, átalakított állapotnak) megfelelő, „kivitellel egyezik” záradékkal ellátott, a kivitelező, a műszaki ellenőr és a vasút üzemeltetője által záradékolt megvalósulási dokumentáció meglétét, az építménytípusoknál részletezettek szerint,
 
-## f) a kivitelezésnek (megépített, átalakított állapotnak) megfelelő, „kivitellel egyezik” záradékkal ellátott, a kivitelező, a műszaki ellenőr és a vasút üzemeltetője által záradékolt megvalósulási dokumentáció, az építménytípusoknál részletezettek szerint;
+## af) a lezárt és kiértékelt próbaüzemi napló(k) és hibaelőjegyzési könyv(ek) rendelkezésre állását, valamint a hibák megszüntetését,
 
-## g) lezárt és kiértékelt próbaüzemi napló(k) és hiba-előjegyzési könyv(ek), valamint a hibák megszüntetésének jegyzőkönyvei;
+## ag) amennyiben volt ideiglenes használatbavétel, annak határozatában előírt feltételek tételes megvalósulását,
 
-## h) műszaki átadás-átvételi jegyzőkönyv, és jelentés a hiányosságok megszüntetéséről;
+## ah) amennyiben a létesítmény nem vasútbiztonsági engedélyköteles, üzemeltetési és karbantartási utasítás meglétét;
 
-## i) amennyiben volt ideiglenes használatbavétel, annak határozatában előírt feltételek megvalósulásáról tételes dokumentáció;
+## ai) a munkavédelemről szóló 1993. évi XCIII. törvény 18. § (1) bekezdésében foglaltak kivitelező általi megtartását;
 
-## j) amennyiben a létesítmény nem vasútbiztonsági engedélyköteles, üzemeltetési és karbantartási utasítás;
-
-## k) a kivitelező nyilatkozatát arról, hogy a munkavédelemről szóló 1993. évi XCIII. törvény 18. § (1) bekezdésében foglaltakat megtartotta.
+## b) meg kell határozni a vágányok melletti és feletti létesítményeknek a vágánytengelytől és a sínkorona-szinttől mért távolságait, valamint dokumentált módon fel kell mérni a szabadon tartott teret.
 
 ## Az általános dokumentációt kiegészítő dokumentumok
 
 ## 2. Vasúti pálya
 
-## 2.1.[^43] Vasúti pálya:
+## 2.1.[^65] Vasúti pálya:
 
 ## a) műszaki tervdokumentáció:
 
@@ -40,7 +38,7 @@
 
 ## b) közúti vasutaknál a közúti közlekedési hatóság által jóváhagyott, vagy véleményezett forgalomtechnikai terv.
 
-## 2.2.[^44]
+## 2.2.[^66]
 
 ## 3. Vasúti pálya tartozékai
 
@@ -104,7 +102,7 @@
 
 ## c) geotechnikai szakvélemény.
 
-## 3.3.[^45] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
+## 3.3.[^67] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
 
 ## a) a vasút üzemeltetője által jóváhagyott Kezelési Szabályzat;
 
@@ -172,7 +170,7 @@
 
 ## 4. Helyhez kötött gépészeti berendezések
 
-## 4.1.[^46] Vasúti rakodó-berendezés (vasúti kocsi töltőlefejtő berendezés, rakodódaru, kocsibuktató, oldal- és homlokrakodó, egyéb beépített rakodó- és szállítógép és berendezés) és a vasúti járműmosó berendezések:
+## 4.1.[^68] Vasúti rakodó-berendezés (vasúti kocsi töltőlefejtő berendezés, rakodódaru, kocsibuktató, oldal- és homlokrakodó, egyéb beépített rakodó- és szállítógép és berendezés) és a vasúti járműmosó berendezések:
 
 ## a) a vasúti pálya szintezési jegyzőkönyve, nyomtávmérési jegyzőkönyve;
 
@@ -224,7 +222,7 @@
 
 ## d) a fénytechnikai felülvizsgálati jegyzőkönyv, vagy állapotterv.
 
-## 4.5.[^47] Egyéb vasútgépészeti berendezés (vágányba épített, vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
+## 4.5.[^69] Egyéb vasútgépészeti berendezés (vágányba épített, vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
 
 ## a) a vasúti pálya szintezési jegyzőkönyve, nyomtávmérési jegyzőkönyve;
 
@@ -246,27 +244,29 @@
 
 3. melléklet a 289/2012. (X. 11.) Korm. rendelethez
 
-## A vasúti építmények megszüntetési engedélyezési eljárásaiban benyújtandó dokumentációk jegyzéke építmény-fajtánként
+A vasúti építmények megszüntetési engedélyezése iránti kérelem tartalmi követelményei építmény-fajtánként[^70]
 
-1. Valamennyi építményre vonatkozóan:
+1.[^71] Valamennyi építményre vonatkozóan:
 
-a) tervezői nyilatkozat a hatósági előírások megtartásáról és a tervezői jogosultságról;
+a) igazolni kell
 
-b) amennyiben a bontás engedélyese és az üzemeltető nem azonos, a tervdokumentáció üzemeltetői záradéka és szöveges hozzájárulás;
+aa) a hatósági előírások megtartását és a tervezői jogosultságot,
 
-c) amennyiben a bontás a meglévő vasúti építményhez, berendezéshez csatlakozik, a csatlakozó vasúti pálya, berendezés átalakítási terve;
+ab) a független tanúsító szervezet tanúsításának megtörténtét,
 
-d) az érintett közművekről tervezői nyilatkozat és a közműkezelők 6 hónapnál nem régebbi hozzájáruló nyilatkozatai;
+ac) amennyiben a bontás engedélyese és az üzemeltető nem azonos, a tervdokumentáció üzemeltetői záradékolásának megtörténtét és szöveges hozzájárulás meglétét,
 
-e) a hatásterület ügyfeleinek kimutatása;
+ad) amennyiben a bontás a meglévő vasúti építményhez, berendezéshez csatlakozik, a csatlakozó vasúti pálya, berendezés átalakítási tervének meglétét,
 
-f) a terveket a létesítési engedélyezési eljárásoknál meghatározott méretarányokban kell benyújtani;
+ae) az érintett közművekkel összefüggésben a közműkezelők részéről adott, 6 hónapnál nem régebbi hozzájárulás meglétét,
 
-g)[^48] független tanúsító szervezet tanúsítása.
+af) a tervek a létesítési engedélyezési eljárásoknál meghatározott méretarányokban állnak rendelkezésre;
+
+b) be kell mutatni a hatásterületet az érintett ügyfelek megjelölésével.
 
 2. Vasúti pálya bontási terve
 
-2.1.[^49] Vasúti pálya:
+2.1.[^72] Vasúti pálya:
 
 a) helyszínrajz, saját célú vasúti pálya esetén a csatlakozást biztosító vasút üzembentartójának záradékával;
 
@@ -274,7 +274,7 @@ b) műszaki leírás;
 
 c) területrendezésre és újrahasznosításra vonatkozó tervek.
 
-2.2.[^50]
+2.2.[^73]
 
 3. Vasúti pálya tartozékai bontási terve:
 
@@ -320,13 +320,13 @@ b) területrendezésre és újrahasznosításra vonatkozó tervek;
 
 c) műszaki leírás.
 
-[^41]: A 2. melléket 1. pont b) alpontja a 259/2017. (IX. 11.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^42]: A 2. melléket 1. pont c) alpontját a 259/2017. (IX. 11.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
-[^43]: A 2. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
-[^44]: A 2. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.
-[^45]: A 2. melléklet 3.3. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
-[^46]: A 2. melléklet 4.1. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése szerint módosított szöveg.
-[^47]: A 2. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése iktatta be.
-[^48]: A 3. melléket 1. pont g) alpontját a 259/2017. (IX. 11.) Korm. rendelet 9. § (2) bekezdése iktatta be.
-[^49]: A 3. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
-[^50]: A 3. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § c) pontja hatályon kívül helyezte.
+[^64]: A 2. melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 407. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^65]: A 2. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^66]: A 2. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.
+[^67]: A 2. melléklet 3.3. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^68]: A 2. melléklet 4.1. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése szerint módosított szöveg.
+[^69]: A 2. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése iktatta be.
+[^70]: A 3. melléklet címe a 457/2017. (XII. 28.) Korm. rendelet 407. § (6) bekezdésével megállapított szöveg.
+[^71]: A 3. melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 407. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^72]: A 3. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^73]: A 3. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § c) pontja hatályon kívül helyezte.

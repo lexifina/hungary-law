@@ -1,9 +1,13 @@
 ## 7. § Amennyiben jogszabály valamely munkarész elkészítését tervezési jogosultsághoz köti, a vasúti közlekedési hatóság a tervező jogosultságát ellenőrzi.
 
-## 8. § A vasúti közlekedési hatóság helyszíni szemlét tart
+## 8. §[^12] A vasúti közlekedési hatóság
 
-a)[^11] ha az építést nem kizárólag az állam vagy az építtető tulajdonában álló területre tervezik, vagy
+a) a vasúti építmény vasúti biztonsági állapotáról,
 
-b) a használatbavételi vagy fennmaradási engedély iránti kérelem elbírálása során.
+b) a biztonsági berendezések műszaki állapotáról, valamint
 
-[^11]: A 8. § a) pontja a 221/2014. (IX. 4.) Korm. rendelet 695. §-a szerint módosított szöveg.
+c) a személyzet biztonságkritikus kezelések képességéről
+
+az eljárás keretében köteles meggyőződni.
+
+[^12]: A 8. § a 457/2017. (XII. 28.) Korm. rendelet 407. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

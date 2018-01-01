@@ -12,7 +12,7 @@ c) a vasúti üzemi létesítményekhez kapcsolódó felvonók, mozgólépcsők 
 
 d) a felszín alatti vasutak vasúti állomási épületeinek
 
-## engedélyezési eljárásaira terjed ki.
+engedélyezési eljárásaira terjed ki.
 
 (2) A vasúti biztosítóberendezések, automatikus vonatvezérlés, vonat befolyásolás, folyamatirányító automatika, központi forgalomirányító berendezés működését biztosító szoftverek megfelelőségét a hatóság a vasúti közlekedés biztonsága szempontjából kizárólag a berendezések engedélyezési és bejelentési eljárásaiban vizsgálja.
 

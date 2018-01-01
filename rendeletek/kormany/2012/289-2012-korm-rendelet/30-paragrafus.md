@@ -2,7 +2,7 @@
 
 30. § (1) A vasúti építmény üzemszünet engedélyezésére irányuló kérelem nyújtható be az használatbavételi engedéllyel rendelkező vasúti építményre.
 
-(2) A kérelemnek – a Ket.-ben foglaltakon túlmenően – tartalmaznia kell:
+(2)[^26] A kérelemnek – az Ákr.-ben foglaltakon túlmenően – tartalmaznia kell:
 
 a) az üzemszünet indokolását,
 
@@ -15,3 +15,5 @@ c) az üzemszünet ideje alatti, a jó műszaki állapot folyamatos fenntartása
 (4) Az újbóli üzembe vétel esetén az üzemszünettel érintett vasúti építményekre vonatkozóan a vasúti közlekedési hatóság a korábbi használatbavételi engedély feltételeihez kötve van.
 
 (5) A kérelmet a vasúti építmény tulajdonosa, vagy a tulajdonos hozzájárulásával a pályahálózat-működtető nyújthatja be.
+
+[^26]: A 30. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 408. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
