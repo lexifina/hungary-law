@@ -1,3 +1,0 @@
-## 13. §[^9] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 68/2013. (VII. 29.) VM rendelet [a továbbiakban: 68/2013. (VII. 29.) VM rendelet] által megállapított 1. § (1) bekezdés 2. és 9. pontját, a 3. § (1) bekezdését, valamint a 4. § (6) bekezdését a 2013. évben benyújtott támogatási kérelmek alapján indult eljárásokban is alkalmazni kell.
-
-[^9]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 68/2013. (VII. 29.) VM rendelet 11. § (4) bekezdése iktatta be.
