@@ -1,3 +1,3 @@
-## 4. §[^4]
+## 4. §[^3]
 
-[^4]: A 4. § a 26. § (3) bekezdése alapján 2018. április 1-jén lép hatályba.
+[^3]: A 4. § a 26. § (3) bekezdése alapján 2018. április 1-jén lép hatályba.

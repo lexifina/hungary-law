@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-307-20-
 | --- | --- | --- |
 | 2017-11-04 | 2017-307-20-22.1 | 307/2017. (X. 27.) Korm. rendelet |
 | 2017-11-05 | 2017-307-20-22.2 | 2010: CXXX. törvény |
+| 2018-01-01 | 2017-307-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 26. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## 1. § Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet (a továbbiakban: R1.) 12. § (9) bekezdésében az „Az elfogadott jelentkezést” szövegrész helyébe az „A kormányhivatalban benyújtott érettségi vizsgára történő jelentkezés esetén a kormányhivatal által hozott döntés vonatkozásában másodfokon a Hivatal jár el. Az igazgató által elfogadott jelentkezést” szöveg lép.

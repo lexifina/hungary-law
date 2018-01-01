@@ -1,3 +1,3 @@
-## 8. §[^6]
+## 8. §[^5]
 
-[^6]: A 8. § a 26. § (3) bekezdése alapján 2018. április 1-jén lép hatályba.
+[^5]: A 8. § a 26. § (3) bekezdése alapján 2018. április 1-jén lép hatályba.
