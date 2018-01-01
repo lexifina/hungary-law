@@ -2,24 +2,26 @@
 
 ## 86. § Hatályát veszti a Knyr.
 
-1–2.[^14]
+1. 1. 2. §-ában a „vagy a mérlegképes könyvelői szakképesítéssel – az engedélyezés szempontjából – egyenértékű szakképesítéssel” szövegrész,
 
-3.[^15]
+2. 3. § (2) bekezdése,
 
-4–5.[^16]
+3.[^13]
 
-6–9.[^17]
+4. 3. § (9a)–(9c), (10), (10a) és (11) bekezdése,
 
-10–11.[^18]
+5. 3. § (13) bekezdésének utolsó mondata,
 
-12–13.[^19]
+6–9.[^14]
 
-14.[^20]
+10. 1. számú melléklet 2. pont i) alpontjában az „ , illetve azzal egyenértékű szakképesítést igazoló dokumentum” szövegrész,
 
-[^14]: A 86. § 1–2. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^15]: A 86. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 86. § 4–5. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^17]: A 86. § 6–9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 86. § 10–11. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^19]: A 86. § 12–13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 86. § 14. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+11. 1. számú melléklet 2. pont l) alpontja,
+
+12–13.[^15]
+
+14. 2. számú melléklete.
+
+[^13]: A 86. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 86. § 6–9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 86. § 12–13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
