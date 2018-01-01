@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-132-00-00
 | 2016-01-01 | 2015. évi CLXXVIII. törvény | 1997-132-00-00.18 |
 | 2017-07-01 | 2017. évi XLIX. törvény | 1997-132-00-00.19 |
 | 2017-10-28 | 2017. évi CXXVI. törvény | 1997-132-00-00.20 |
+| 2018-01-01 | 2017. évi CXXXVI. törvény | 1997-132-00-00.21 |
