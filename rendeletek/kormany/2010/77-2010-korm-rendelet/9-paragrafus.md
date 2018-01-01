@@ -1,3 +1,3 @@
-## 8. §[^5]
+## 8. §[^8]
 
-[^5]: A 8. §-t a 10. § (2) bekezdése hatályon kívül helyezte.
+[^8]: A 8. §-t a 10. § (2) bekezdése hatályon kívül helyezte.
