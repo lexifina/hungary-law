@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-325-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-02 | 2008-325-20-22.2 | 325/2008. (XII. 29.) Korm. rendelet |
+| 2018-01-01 | 2008-325-20-22.3 | 393/2017. (XII. 13.) Korm. rendelet |

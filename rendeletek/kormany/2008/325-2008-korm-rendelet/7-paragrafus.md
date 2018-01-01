@@ -6,7 +6,7 @@
 
 (3) E rendelet hatálybalépését követő napon hatályát veszti a (2) bekezdés.
 
-Melléklet a 325/2008. (XII. 29.) Korm. rendelethez
+Melléklet a 325/2008. (XII. 29.) Korm. rendelethez[^2]
 
 | Munkakörök, beosztások | Fizetési osztályok | Vezetői pótlék |
 
@@ -70,7 +70,7 @@ Melléklet a 325/2008. (XII. 29.) Korm. rendelethez
 
 | Jegyiroda vezető |  |  |  | * | * | * |  |  |  |  |  |
 
-| Jogász, jogtanácsos |  |  |  |  |  |  |  | * | * |  |  |
+| Kamarai jogtanácsos, ügyvédi kamarai nyilvántartásba vett jogi előadó, jogász |  |  |  |  |  |  |  | * | * |  |  |
 
 | Kalkulátor |  |  |  | * | * | * | * |  |  |  |  |
 
@@ -425,3 +425,4 @@ Melléklet a 325/2008. (XII. 29.) Korm. rendelethez
 | Vízőr | * | * |  |  |  |  |  |  |  |  |  |
 
 [^1]: A 7. § (2) bekezdése e rendelet 7. § (3) bekezdése alapján hatályát vesztette.
+[^2]: A melléklet a 393/2017. (XII. 13.) Korm. rendelet 30. §-a szerint módosított szöveg.
