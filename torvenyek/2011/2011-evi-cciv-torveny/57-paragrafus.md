@@ -10,7 +10,7 @@ c) jogorvoslati kérelmet terjeszthet elő, melyet a felsőoktatási intézmény
 
 d) az oktatási jogok biztosának az eljárását kezdeményezheti, feltéve, hogy az e törvényben szabályozottak szerint jogorvoslati jogát – a bírósági eljárás kivételével – kimerítette.
 
-(2) A felsőoktatási intézmény a hallgatóval kapcsolatos döntéseit – e törvényben, kormányrendeletben és a szervezeti és működési szabályzatban meghatározott esetben, valamint ha a hallgató kéri – írásban közli a hallgatóval. A felsőoktatási intézmény hallgatóval kapcsolatos döntése jogerős, ha a hallgató a (3) bekezdésben meghatározott határidőn belül nem nyújt be jogorvoslati kérelmet, vagy a kérelem benyújtásáról lemondott.
+(2) A felsőoktatási intézmény a hallgatóval kapcsolatos döntéseit – e törvényben, kormányrendeletben és a szervezeti és működési szabályzatban meghatározott esetben, valamint ha a hallgató kéri – írásban közli a hallgatóval. A felsőoktatási intézmény hallgatóval kapcsolatos döntése végleges, ha a hallgató a (3) bekezdésben meghatározott határidőn belül nem nyújt be jogorvoslati kérelmet, vagy a kérelem benyújtásáról lemondott.
 
 (3) A hallgató a felsőoktatási intézmény döntése vagy intézkedése, illetve intézkedésének elmulasztása (a továbbiakban együtt: döntés) ellen – a közléstől, ennek hiányában a tudomására jutásától számított tizenöt napon belül – jogorvoslattal élhet, kivéve a tanulmányok értékelésével kapcsolatos döntést. Eljárás indítható a tanulmányok értékelésével kapcsolatos döntés ellen is, ha a döntés nem a felsőoktatási intézmény által elfogadott követelményekre épült, illetve a döntés ellentétes a felsőoktatási intézmény szervezeti és működési szabályzatában foglaltakkal, vagy megszegték a vizsga megszervezésére vonatkozó rendelkezéseket.
 
@@ -32,6 +32,6 @@ c) a döntést megváltoztatja,
 
 d) a döntést megsemmisíti, és a döntéshozót új eljárás lefolytatására utasítja.
 
-(6) A jogorvoslati kérelem elbírálása során a tényállás tisztázására, a határidők számítására, az igazolásra, a határozat alakjára, tartalmára és közlésére, a döntés kérelemre vagy hivatalból történő kijavítására, kicserélésére, kiegészítésére, módosítására vagy visszavonására a Ket. rendelkezéseit kell megfelelően alkalmazni.
+(6) A jogorvoslati kérelem elbírálása során a tényállás tisztázására, az igazolásra, a döntés alakjára, tartalmára, a döntés kérelemre vagy hivatalból történő kijavítására, kiegészítésére, módosítására vagy visszavonására az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A másodfokú döntés a közléssel végleges.
 
-(7) A másodfokú döntés a közléssel jogerős és végrehajtható, kivéve, ha a hallgató a bírósági felülvizsgálatát kérte.
+(7)

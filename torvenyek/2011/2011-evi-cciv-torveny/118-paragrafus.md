@@ -12,4 +12,6 @@ d) a harmadik országbeli állampolgárok valamely tagállam területén való t
 
 e) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv, 27. cikk (2) bekezdés;
 
-f) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelv.
+f) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelv;
+
+g) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv.

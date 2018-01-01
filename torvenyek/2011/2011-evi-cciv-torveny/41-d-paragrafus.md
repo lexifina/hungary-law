@@ -4,4 +4,4 @@
 
 (3) A végzés tartalmazza az eljáró szerv megnevezését, az ügyirat számát, a jelentkező nevét, elérhetőségét, személyes azonosítására szolgáló adatokat, a döntést, a döntés helyét, idejét, valamint a jogorvoslatról szóló tájékoztatást.
 
-(4) Önálló fellebbezésnek van helye a kérelmet érdemi vizsgálat nélküli elutasító és az eljárást megszüntető végzés ellen. Egyéb végzés csak a besorolási döntés, ennek hiányában az eljárást megszüntető végzés elleni fellebbezésben támadható meg.
+(4)

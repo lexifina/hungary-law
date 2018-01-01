@@ -32,7 +32,7 @@ c)
 
 (8) E törvénynek – a Módtv2-vel megállapított – 77. § (4) bekezdésében foglaltakat első alkalommal a 2019/2020. tanévben indított képzések tekintetében kell alkalmazni, azzal, hogy a már megkezdett képzések változatlan feltételek mellett kifutó rendszerben – de legfeljebb a 2021/2022-es tanévben, – fejezhetők be.
 
-(9)
+(9) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 41/A–41/H. §-át első alkalommal a 2018. évi általános felsőoktatási felvételi eljárás során kell alkalmazni.
 
 (10) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 103. § (3) bekezdésére tekintettel az állami felsőoktatási intézmények legkésőbb az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvény hatálybalépését követő egy éven belül módosítják a szervezeti és működési szabályzatukat.
 

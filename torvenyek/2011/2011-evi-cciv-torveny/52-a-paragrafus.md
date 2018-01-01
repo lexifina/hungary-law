@@ -1,6 +1,6 @@
-52/A. § (1) A felsőoktatási intézmény az általa vagy jogelődje által kiállított oklevelet és oklevélmellékletet az oklevél kiállításától számított öt éven belül visszavonja, ha az oklevelet jogellenesen szerezték meg. A visszavonásra egyebekben a Ket. rendelkezéseit kell megfelelően alkalmazni.
+52/A. § (1) A felsőoktatási intézmény az általa vagy jogelődje által kiállított oklevelet és oklevélmellékletet az oklevél kiállításától számított öt éven belül visszavonja, ha az oklevelet jogellenesen szerezték meg. A visszavonásra egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha az oklevél kiállítását bűncselekmény befolyásolta és a bűncselekmény elkövetését jogerős bírói vagy ügyészi határozat megállapította, az intézmény az oklevelet időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. A megsemmisítésre egyebekben a Ket. rendelkezéseit kell megfelelően alkalmazni.
+(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha az oklevél kiállítását bűncselekmény befolyásolta, a bűncselekmény elkövetését jogerős bírói vagy ügyészi határozat megállapította, és a vádemelés elhalasztásának tartama eredményesen telt el, az intézmény az oklevelet időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (3) A visszavont, megsemmisített oklevelet a felsőoktatási intézmény bevonja. A határozatot – indokolás nélkül – a miniszter által vezetett minisztérium hivatalos lapjában, valamint az oktatási hivatal honlapján közzé kell tenni.
 

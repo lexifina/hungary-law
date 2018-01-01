@@ -1,6 +1,6 @@
-41/A. § (1) A felsőoktatási információs rendszer működéséért felelős szerv által lebonyolított központi felsőoktatási felvételi eljárásra más jogszabálynak az ügyintézés módjára vonatkozó rendelkezése alkalmazásának csak e törvény rendelkezése esetén van helye. A központi felsőoktatási felvételi eljárás során a nyelvhasználat tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit kell alkalmazni.
+41/A. § (1) A felsőoktatási információs rendszer működéséért felelős szerv által lebonyolított központi felsőoktatási felvételi eljárásra más jogszabálynak az ügyintézés módjára vonatkozó rendelkezése alkalmazásának csak e törvény rendelkezése esetén van helye. A központi felsőoktatási felvételi eljárás során a nyelvhasználat tekintetében az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: általános közigazgatási rendtartásról szóló törvény) rendelkezéseit kell alkalmazni.
 
-(1a) A központi felsőoktatási felvételi eljárás során a Ket. eljárási alapelveit – a kapcsolattartás formája megválasztásának kivételével – alkalmazni kell.
+(1a) A központi felsőoktatási felvételi eljárás során az általános közigazgatási rendtartásról szóló törvény alapelveit alkalmazni kell.
 
 (2) A felvételi eljárás a jelentkező felsőoktatási intézmény által meghirdetett képzésre való jelentkezési kérelmére indul meg.
 

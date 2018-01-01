@@ -1,6 +1,6 @@
 41/F. § (1) A felsőoktatási felvételi eljárást meg kell szüntetni, ha
 
-a) a jelentkezési kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, az elutasítási ok azonban az eljárás megindítását követően jutott a felsőoktatási információs rendszer működéséért felelős szerv tudomására,
+a) a jelentkezési kérelem visszautasításának lett volna helye, a visszautasítási ok azonban az eljárás megindítását követően jutott a felsőoktatási információs rendszer működéséért felelős szerv tudomására,
 
 b) a jelentkező a jelentkezési kérelmét visszavonta,
 
@@ -8,11 +8,11 @@ c) a jelentkező meghalt,
 
 d) az eljárás folytatására okot adó körülmény már nem áll fenn,
 
-e)
+e) a jelentkező a jelentkezés hitelesítésére vonatkozó hiánypótlási felhívásnak nem tesz eleget.
 
-f) a jelentkező a hiánypótlásra való felhívásnak nem tesz eleget.
+f)
 
-(2) A jelentkezési kérelmet érdemi vizsgálat nélkül el kell utasítani, ha
+(2) A jelentkezési kérelmet vissza kell utasítani, ha
 
 a) annak elbírálására a felsőoktatási információs rendszer működéséért felelős szervnek nincs hatásköre,
 

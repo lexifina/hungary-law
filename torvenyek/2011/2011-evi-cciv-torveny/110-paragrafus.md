@@ -2,7 +2,7 @@
 
 110. § (1) A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza
 
-1.
+1. a szakirányú továbbképzés szervezésének általános feltételeit,
 
 2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
 
@@ -116,7 +116,7 @@ a) az oktatási jogok biztosának a felsőoktatást érintő feladatait, eljár�
 
 b) a felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményeit,
 
-c) a szakirányú továbbképzés szervezésének általános feltételeit,
+c)
 
 d) az államilag elismert nyelvvizsgáztatáshoz, a külföldi bizonyítványok és oklevelek elismeréséhez és honosításához, az oklevelekről és bizonyítványokról kiállított hatósági bizonyítványokhoz, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjak mértékét, a felsőoktatási hatósági eljárásokhoz kapcsolódó igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 

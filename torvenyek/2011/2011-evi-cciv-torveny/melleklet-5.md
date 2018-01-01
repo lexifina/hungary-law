@@ -37,7 +37,3 @@
 ## a) a jelentkező természetes személyazonosító adatai, felsőoktatási képzésének költségviselési formája, lakcímre vonatkozó adatai, telefonszáma, elektronikus levelezési címe,
 
 ## b) a jelentkező hallgatói azonosítója,
-
-## c) a jelentkező KÜNY kapcsolati kódja.
-
-## 2. Az 1–1/A. pontban megjelölt – az 1. pont a), b), i)–m) alpont, illetve az 1/A. pont szerinti adatok tekintetében a felsőoktatási információs rendszer működtetéséért felelős szerv által átadott – adatok kezelésére a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv jogosult.

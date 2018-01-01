@@ -6,7 +6,7 @@
 
 73. § (1) A fenntartói irányítást az gyakorolja, aki az e törvényben meghatározottaknak megfelelően a felsőoktatási intézmény működéséhez szükséges feltételekről gondoskodik. A fenntartói irányítás jogosítványai és kötelezettségei – ha e törvény másképp nem rendelkezik – azonosak, függetlenül attól, hogy ki gyakorolja azt.
 
-(2) A felsőoktatási intézmény fenntartói joga – az oktatási hivatal bejegyző határozatának jogerőre emelkedése időpontjától kezdődően hatályos – megállapodással másik, a fenntartói jog gyakorlására jogosultnak átadható. Ha az átadás nem érinti a felsőoktatási intézmény tevékenységét és működését, az oktatási hivatal azt vizsgálja, hogy az új fenntartó rendelkezik-e a felsőoktatási intézmény folyamatos működéséhez szükséges feltételekkel. A fenntartói jog változása nem érinti a felsőoktatási intézmény állami elismerését, a hallgatók jogait és kötelezettségeit.
+(2) A felsőoktatási intézmény fenntartói joga – az oktatási hivatal bejegyző határozatának véglegessé válása időpontjától kezdődően hatályos – megállapodással másik, a fenntartói jog gyakorlására jogosultnak átadható. Ha az átadás nem érinti a felsőoktatási intézmény tevékenységét és működését, az oktatási hivatal azt vizsgálja, hogy az új fenntartó rendelkezik-e a felsőoktatási intézmény folyamatos működéséhez szükséges feltételekkel. A fenntartói jog változása nem érinti a felsőoktatási intézmény állami elismerését, a hallgatók jogait és kötelezettségeit.
 
 (3) A fenntartó
 

@@ -6,8 +6,8 @@
 
 (4) A MAB elnöke köteles a jogszabálysértő működést orvosolni, a szükséges intézkedést meghozni. A miniszter által kifogásolt intézkedés, döntés nem hajtható végre.
 
-(5) Amennyiben a MAB elnöke a felhívásnak a megadott határidőn belül nem tesz eleget, a miniszter, továbbá a MAB elnöke a felhívással szemben bírósági eljárást kezdeményezhet.
+(5) Amennyiben a MAB elnöke a felhívásnak a megadott határidőn belül nem tesz eleget, a miniszter, továbbá a MAB elnöke a felhívással szemben közigazgatási pert indíthat.
 
 (6) Az (5) bekezdés szerinti bírósági eljárás a határidő eredménytelen elteltétől, illetve a felhívás közlésétől számított harminc napos jogvesztő határidőn belül indítható meg.
 
-(7) Az (5) bekezdésben foglalt eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság az illetékes. A bíróság nemperes eljárásban, soron kívül hoz döntést.
+(7) A miniszter által az (5) bekezdés alapján indított közigazgatási perre a köztestületi felügyeleti per szabályait kell megfelelően alkalmazni. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
