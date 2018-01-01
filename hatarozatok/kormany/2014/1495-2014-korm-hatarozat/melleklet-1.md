@@ -1,91 +1,9 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva
+## 1.[^2]
 
-## a) a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 8. Decentralizált területfejlesztési programok jogcímcsoport besorolását a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet, 25. Fejezeti kezelésű előirányzatok cím, 4. Területfejlesztési és építésügyi feladatok alcím, 2. Decentralizált területfejlesztési programok jogcímcsoportra; valamint
+## 2.[^3]
 
-## b) a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 18. Területfejlesztéssel és fejlesztéspolitikával összefüggő feladatok jogcímcsoport besorolását a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet, 25. Fejezeti kezelésű előirányzatok cím, 4. Területfejlesztési és építésügyi feladatok alcím, 4. Területfejlesztéssel és fejlesztéspolitikával összefüggő feladatok jogcímcsoportra változtatja;
+1. melléklet az 1495/2014. (IX. 4.) Korm. határozathoz[^4]
 
-## c) 2,9 millió forint tartós átcsoportosítását rendeli el a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet, 1. Nemzetgazdasági Minisztérium igazgatása cím terhére, a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 1. Nemzeti Fejlesztési Minisztérium igazgatása cím javára az 1. melléklet szerint;
-
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
-
-## 2. felhívja a nemzetgazdasági minisztert, intézkedjen a Magyar Államkincstár felé, hogy 2014. január 1-jei határnappal a címrendi változás átvezetését, egyidejűleg az átrendezés időpontjáig végrehajtott évközi előirányzat-módosításokat, a teljesítési adatok, a kötelezettségvállalások és a kapcsolódó előirányzat-maradványok, bevételek átrendezését hajtsa végre.
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-1. melléklet az 1495/2014. (IX. 4.) Korm. határozathoz
-
-| XVII. Nemzeti Fejlesztési Minisztérium XV. Nemzetgazdasági Minisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA * a Kormány hatáskörében Költségvetési év: 2014. Millió forintban, egy tizedessel |
-
-| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 280645 |  | 1 |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K1 |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | 2,0 | -2,0 |  |  |
-
-|  |  |  |  |  |  | K2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  |  |  | 0,6 | -0,6 |  |  |
-
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 0,3 | -0,3 |  |  |
-
-|  | XV. |  |  |  |  |  | Nemzetgazdasági Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 006343 |  | 1 |  |  |  |  |  | Nemzetgazdasági Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K1 |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | -2,0 | 2,0 |  |  |
-
-|  |  |  |  |  |  | K2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  |  |  | -0,6 | 0,6 |  |  |
-
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -0,3 | 0,3 |  |  |
-
-| Az előirányzatmódosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 280645 |  | 1 |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  | 2,9 | -2,9 |  |  |
-
-|  | XV. |  |  |  |  |  | Nemzetgazdasági Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 006343 |  | 1 |  |  |  |  |  | Nemzetgazdasági Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  | -2,9 | 2,9 |  |  |
-
-| Az előirányzatmódosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 2,9 |  |  |  |  |  |  |  |  |  |  | 2,9 |  |
-
-| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+[^2]: Az 1. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 2. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. melléklet a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
