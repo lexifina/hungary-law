@@ -1,4 +1,4 @@
-## 22–23. §[^2]
+## 22–23. §[^4]
 
 1. melléklet a 455/2013. (XI. 29.) Korm. rendelethez
 
@@ -54,4 +54,4 @@ P. H.
 
 cégszerű aláírás
 
-[^2]: A 22–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 22–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
