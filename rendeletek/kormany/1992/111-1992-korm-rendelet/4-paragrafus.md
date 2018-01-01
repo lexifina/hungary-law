@@ -1,5 +1,3 @@
-## (A Tv. 4—5. §-aihoz)
+4. §[^3]
 
-4. § (1) Ha a kérelmező a magyar hatóságok által kiállított személyi okmányokkal nem rendelkezik, az állampolgárságára vonatkozó adatokról az adatlapon kell nyilatkoznia.
-
-(2) Ha a kárpótlásra jogosult a sérelmet szenvedett özvegye, a házasság tényét és idejét házassági anyakönyvi kivonattal, a halál tényét halotti anyakönyvi kivonattal kell igazolnia.
+[^3]: A Vhr. 4. §-át és az azt megelőző törvényi hivatkozást a 457/2017. (XII. 28.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
