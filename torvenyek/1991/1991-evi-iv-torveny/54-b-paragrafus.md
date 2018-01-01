@@ -1,3 +1,3 @@
 54/B. § (1) Az álláskeresőként történő nyilvántartásba vétellel kapcsolatos eljárásban – ideértve a nyilvántartásba vétel szünetelését is – az állami foglalkoztatási szerv abban az esetben dönt határozattal, ha az ügyfélnek az álláskeresőként történő nyilvántartásba vétellel kapcsolatos kérelmét érdemben elutasítja, vagy az ügyfelet az 54. § (14) bekezdés d) és e) pontja alapján törli az álláskeresők nyilvántartásából.
 
-(2) Ha az állami foglalkoztatási szerv az álláskeresőként való nyilvántartásba vétellel kapcsolatos eljárásban külön határozat meghozatala nélkül döntött, döntéséről – az ügyfél kérelmére – a kérelem benyújtásától számított 8 napon belül igazolást ad ki.
+(2) Ha az állami foglalkoztatási szerv az álláskeresőként való nyilvántartásba vétellel kapcsolatos eljárásban külön határozat meghozatala nélkül döntött, a döntés tartalmáról – az ügyfél kérelmére – a kérelem benyújtásától számított 8 napon belül hatósági bizonyítványt ad ki.

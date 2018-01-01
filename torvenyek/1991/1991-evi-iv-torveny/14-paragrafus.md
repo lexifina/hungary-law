@@ -34,7 +34,7 @@ ab) a képzéssel kapcsolatos költségek megtérítése;
 
 b) az (1) bekezdés c)–d) pontjában meghatározott személy, valamint a foglalkoztatást helyettesítő támogatásra jogosult álláskereső részére az általános iskolai végzettség megszerzéséhez, vagy a szakképzés megkezdéséhez, a külön jogszabályban meghatározott bemeneti kompetenciák megszerzéséhez szükséges képzésben történő részvételhez a képzéssel kapcsolatos költségek megtérítése;
 
-c) a képzésben történő részvétel lehetőségének biztosítása érdekében, a képzés időtartama alatt az arra rászoruló, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti hozzátartozó ápolásával, gondozásával, valamint a gyermek felügyeletével kapcsolatban felmerült indokolt kiadás megtérítése
+c) a képzésben történő részvétel lehetőségének biztosítása érdekében, a képzés időtartama alatt az arra rászoruló hozzátartozó ápolásával, gondozásával, valamint a gyermek felügyeletével kapcsolatban felmerült indokolt kiadás megtérítése
 
 adható.
 

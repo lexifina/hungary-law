@@ -22,14 +22,14 @@ c) a munkaerő-piaci szolgáltatások tartalmát, csoportosítását és a szolg
 
 d) az egyéni cselekvési tervre vonatkozó részletes szabályokat,
 
-e) a szolgáltatások igénybevételének, valamint e bekezdés a) pontjában meghatározott szervezetek részére történő támogatás nyújtásának feltételeit, valamint
+e) a szolgáltatások igénybevételének feltételeit, valamint
 
-f) a szolgáltatások igénybevételének időtartama alatt a keresetpótló juttatás nyújtásának, valamint a szolgáltatás igénybevételének biztosítása érdekében, a szolgáltatás időtartama alatt az arra rászoruló, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti hozzátartozó gondozásával, ápolásával, továbbá gyermek (ideértve az örökbefogadott és a nevelt gyermek) felügyeletével kapcsolatban felmerült indokolt kiadás megtérítésének feltételeit és szabályait,
+f) a szolgáltatások igénybevételének időtartama alatt a keresetpótló juttatás nyújtásának, valamint a szolgáltatás igénybevételének biztosítása érdekében, a szolgáltatás időtartama alatt az arra rászoruló hozzátartozó gondozásával, ápolásával, továbbá gyermek (ideértve az örökbefogadott és a nevelt gyermek) felügyeletével kapcsolatban felmerült indokolt kiadás megtérítésének feltételeit és szabályait,
 
 g) az állami foglalkoztatási szerv szolgáltatásait igénybe vevő vagy kérő, álláskeresőként nem nyilvántartott személyek nyilvántartásának szabályait,
 
 h) – az adópolitikáért felelős miniszter egyetértésével – az a) pontban meghatározott nyilvántartással összefüggő eljárásért járó igazgatási szolgáltatási díj mértékét, a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával kapcsolatos szabályokat,
 
-i) az a) pontban meghatározott eljárás során a szakértő igénybevételének – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben nem szabályozott – szabályait.
+i)
 
 (5) A munkaerő-piaci programot és munkaerő-piaci szolgáltatást nyújtók szakmai támogatása a foglalkoztatáspolitikáért felelős miniszter által alapított közhasznú szervezet kedvezményezett részére továbbadási kötelezettséggel átadott szakmai támogatás nyújtásával is megvalósulhat. A szakmai támogatás továbbadásáról a foglalkoztatáspolitikáért felelős miniszter által alapított közhasznú szervezet a munkaerő-piaci programot és a munkaerő-piaci szolgáltatást nyújtóval szerződést köt. A szerződésben meg kell határozni a kedvezményezettet jogszabály, támogatói okirat, támogatási szerződés alapján terhelő kötelezettségek megtartását biztosító feltételeket.

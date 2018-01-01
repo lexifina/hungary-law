@@ -2,23 +2,19 @@
 
 ## ELJÁRÁSI SZABÁLYOK
 
-54. § (1) Az e törvény, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott foglalkoztatást elősegítő támogatás iránti kérelem az állami foglalkoztatási szerv honlapjáról letölthető formanyomtatványon, valamennyi előírt mellékletet becsatolva elektronikus formában is benyújtható. Az állami foglalkoztatási szerv a kérelmet és annak mellékleteit azok megváltoztathatatlanságát biztosító zárt informatikai rendszerben tárolja.
+54. § (1)
 
-(2) A 40. § (2) bekezdésének a) pontja, továbbá a pályázat alapján nyújtható foglalkoztatást elősegítő támogatások esetében a pályázati felhívásban az elbírálásra nyitva álló határidő legfeljebb két hónapban állapítható meg. Ha e törvény, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott támogatásban természetes személy részesül, a hatósági szerződést csak személyesen kötheti meg.
+(2)
 
-(3) Ha az állami foglalkoztatási szerv nem e törvény vagy a felhatalmazása alapján kiadott jogszabály, hanem más jogszabály alapján nyújt a foglalkoztatás elősegítése érdekében támogatást, a támogatással kapcsolatos ügyben az eljárására e törvény rendelkezéseit kell megfelelően alkalmazni, kivéve, ha a támogatásról szóló jogszabály ettől eltérően rendelkezik.
+(3)
 
-(4) A közösségi jogszabályok szerinti migráns munkavállaló álláskeresési ellátásával, vállalkozói járadékával kapcsolatos ügyben az érdemi határozatot negyvenöt napon belül kell meghozni.
+(4)
 
-(5) Az e törvény, valamint a felhatalmazása alapján kiadott jogszabály által szabályozott
+(5)
 
-a) kérelemre indult közigazgatási eljárásban az ismert ügyfelet az eljárás megindításáról nem kell értesíteni,
+(6)
 
-b) hivatalból folytatott közigazgatási eljárásban az ügyfélnek az eljáró hatóság felhívására közölnie kell az érdemi döntéshez szükséges adatokat, valamint a természetes személyazonosító adatait.
-
-(6) Az e törvényben, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott közigazgatási hatósági ügyben a végrehajtás foganatosításáról az önkéntes teljesítés elmaradásának megállapításától számított tizenöt napon belül kell dönteni.
-
-(7) Az e törvényben meghatározott nyilvántartásokat magyar nyelven kell vezetni. Az e törvényben meghatározott szerv a hatósági bizonyítványt magyar nyelven állítja ki.
+(7)
 
 (8) A külföldiek magyarországi foglalkoztatására vonatkozó szabályok megtartásának ellenőrzésére és az ennek alapján indult eljárásra a munkaügyi ellenőrzésről szóló törvény eljárási szabályait kell alkalmazni.
 
@@ -104,10 +100,12 @@ f) szabadságvesztés időtartama alatt.
 
 (14b) Az álláskereső (9) bekezdés c) pontja szerinti bejelentési kötelezettsége a (14a) bekezdés szerinti szünetelés időtartama alatt is fennáll.
 
-(15) Az állami foglalkoztatási szerv hatósági ellenőrzési tevékenységére a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy az állami foglalkoztatási szerv a személyazonosság megállapítására alkalmas okmány felmutatására szólíthatja fel azt az ügyfelet, akinek személyazonosságát meg kell állapítania.
+(15)
 
 (16) A nemzetközi egyezmény hatálya alá tartozó személyre e törvény rendelkezéseit az egyezmény szabályai szerint kell alkalmazni.
 
 (17) Az állami foglalkoztatási szerv a (14) bekezdés h) pontjában meghatározott feltételek fennállása esetén – kérelmére – nem törli az álláskeresők nyilvántartásából azt az ügyfelet, aki vállalja, hogy az állami foglalkoztatási szervvel a (9) bekezdésben foglaltak szerint együttműködik.
 
 (18) Az álláskereső aktív munkahelykereső tevékenysége a gyermekgondozási segélyre, gyermekgondozást segítő ellátásra és gyermekgondozási díjra való jogosultságának bejelentése esetén akkor szünetel, ha annak folyósítása alatt a családok támogatásáról szóló törvény és a kötelező egészségbiztosítás ellátásairól szóló törvény szerint nem folytathat keresőtevékenységet, vagy keresőtevékenységet folytathat, de kéri az aktív munkahelykereső tevékenységének és álláskeresőként való nyilvántartásának szünetelését.
+
+(19) A Kormány által az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv közvetlen hozzáférést biztosít az állami foglalkoztatási szerv részére a felsőoktatási információs rendszerben foglalt, az álláskereső azonosításához szükséges, valamint a hallgatói jogviszony típusával, keletkezésének és megszűnésének időpontjával kapcsolatos adatokhoz az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántartásból való törlés céljából.

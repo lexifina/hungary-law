@@ -24,7 +24,7 @@ e) korhatár előtti ellátásban, szolgálati járandóságban, táncművészet
 
 (7) Szünetel az álláskeresési segély folyósítása
 
-a) a 29. § (1) bekezdésében meghatározott esetben,
+a) a 29. § (1) bekezdés b) és c) pontjában, valamint e) és f) pontjában meghatározott esetben,
 
 b) a keresőtevékenység időtartamára, függetlenül az időtartam mértékétől,
 

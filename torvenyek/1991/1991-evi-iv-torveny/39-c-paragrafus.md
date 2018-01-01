@@ -46,4 +46,4 @@ g) amelyet az állami foglalkoztatási szerv a közösségi jog alapján migrán
 
 (6) A (4)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell a 39. § (3) bekezdésében meghatározott alaprészekkel szemben a Nemzeti Foglalkoztatási Alap létrejöttét megelőzően keletkezett követelésekre is.
 
-(7)
+(7) Az állami foglalkoztatási szerv az e törvényen, valamint a felhatalmazása alapján kiadott jogszabályon alapuló 1000 Ft-ot el nem érő igényét nem érvényesíti.

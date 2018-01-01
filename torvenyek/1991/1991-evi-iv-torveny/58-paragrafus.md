@@ -32,7 +32,7 @@ d) álláskereső: az a személy, aki
 
 Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
 
-e) kereső tevékenység: – az 1–5. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki külön törvény szerint egyéni vállalkozónak minősül, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve.
+e) kereső tevékenység: – az 1–6. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki külön törvény szerint egyéni vállalkozónak minősül, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve.
 
 1. Az olyan munkavégzés, amelyért jogszabály alapján tiszteletdíj jár, akkor minősül kereső tevékenységnek, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát meghaladja.
 
@@ -43,6 +43,8 @@ e) kereső tevékenység: – az 1–5. pontban foglaltak figyelembevételével 
 4. Nevelőszülői foglalkoztatási jogviszonyban álló nevelőszülő e törvény alkalmazása szempontjából nem tekinthető keresőtevékenységet folytató személynek, ha nevelőszülői jogviszonya mellett más keresőtevékenységet nem végez.
 
 5. A szociális szövetkezet tagja által a szövetkezetben végzett személyes közreműködés akkor minősül keresőtevékenységnek, ha a személyes közreműködés ellenértékeként megszerzett bevétel meghaladja havonta a minimálbér összegét.
+
+6. Nem kell kereső tevékenységet folytató személynek tekinteni a külön törvény szerint egyéni vállalkozónak minősülő személyt arra az időtartamra, amely alatt az egyéni vállalkozói tevékenységét szünetelteti, feltéve, hogy azt a nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartásába – külön törvényben meghatározott módon – bejegyezte.
 
 f) magas szintű képzettséget igénylő munkavállalás: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § p) pontja szerinti munkavállalás,
 
@@ -92,9 +94,11 @@ v)
 
 v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
 
-w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból támogatásban részesül,
+w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból, valamint az Európai Globalizációs Alkalmazkodási Alapból támogatásban részesül,
 
-x) munkanélküli háztartás: az a háztartás, amelynek egyik tagja sem foglalkoztatott.
+x) munkanélküli háztartás: az a háztartás, amelynek egyik tagja sem foglalkoztatott,
+
+y) hozzátartozó: az egyeneságbeli rokon és annak házastársa, az örökbe fogadó és a nevelőszülő, az örökbe fogadott és a nevelt gyermek, a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa.
 
 (6) A törvény alkalmazásában a
 
@@ -116,7 +120,7 @@ b) az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántar
 
 c) az EGT tagállamaiban történő munkahelykereséssel kapcsolatos költségtérítés feltételeinek és odaítélésének,
 
-d) a rendbírság kiszabásának, megfizetésének és kezelésének,
+d)
 
 e) az e törvényben meghatározott nyilvántartások vezetésének
 
@@ -138,4 +142,4 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 
 (10) Felhatalmazást kap a Kormány, hogy az e törvény szerinti magán-munkaközvetítési tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a magán-munkaközvetítői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
 
-(11)
+(11) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a rendbírság kiszabásának szabályait.

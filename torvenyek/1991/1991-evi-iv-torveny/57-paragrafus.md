@@ -1,1 +1,1 @@
-57. § Az állami foglalkoztatási szerv határozata – ide nem értve az 56. § (3) bekezdése szerinti határozatot – bíróság által megváltoztatható. Az 56. § (3) bekezdésében meghatározott esetben a bíróság a jogsértő határozatot hatályon kívül helyezi, és a hatóságot új eljárás lefolytatására utasítja.
+### 57. §

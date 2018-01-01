@@ -8,10 +8,10 @@
 
 (4) Az, aki az álláskereső halálát követően a álláskeresési ellátást jogalap nélkül vette fel, köteles azt visszafizetni.
 
-(5) Az ellátás tekintetében az állami foglalkoztatási szerv vezetője – erre irányuló kérelem esetén – különös méltánylást érdemlő esetben dönthet a jogalap nélkül felvett és visszakövetelt álláskeresési ellátás visszafizetésének részben vagy egészben történő elengedéséről.
+(5) Az ellátás tekintetében az állami foglalkoztatási szerv vezetője – erre irányuló kérelemre – különös méltánylást érdemlő esetben – az állami adó- és vámhatóság végrehajtás céljából történő megkereséséig – dönthet a jogalap nélkül felvett és visszakövetelt álláskeresési ellátás visszafizetésének részben vagy egészben történő elengedéséről.
 
 (6) Ha a bíróság jogerősen megállapította, hogy a munkaadó a munkavállaló munkaviszonyát jogellenesen szüntette meg, a munkaadó köteles a bíróság határozatának jogerőre emelkedéséig az érintett részére kifizetett álláskeresési ellátás és annak járulékai összegét a Nemzeti Foglalkoztatási Alap szolidaritási alaprészébe befizetni. A bíróság a jogerős határozatot az állami foglalkoztatási szervnek megküldi, amely ennek alapján határoz.
 
 (7) Az (5) bekezdésben meghatározott méltányosság szempontjából a 21. § (6) bekezdésében foglaltakat kell figyelembe venni.
 
-(8) Az álláskeresési járadék, nyugdíj előtti álláskeresési segély, valamint az álláskeresési segély visszakövetelése esetén késedelmi pótlék nem számítható fel.
+(8) Az álláskeresési járadék, az álláskeresési segély, valamint a 32–33. § szerinti költségtérítés visszakövetelése esetén ügyleti kamat, illetve késedelmi kamat nem számítható fel.
