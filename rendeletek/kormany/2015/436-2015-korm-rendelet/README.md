@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-436-20-
 | 2017-01-02 | 2015-436-20-22.6 | 420/2016. (XII. 14.) Korm. rendelet |
 | 2017-02-03 | 2015-436-20-22.7 | 203/2016. (VII. 21.) Korm. rendelet |
 | 2017-07-01 | 2015-436-20-22.8 | 171/2017. (VI. 29.) Korm. rendelet |
+| 2018-01-01 | 2015-436-20-22.9 | 420/2016. (XII. 14.) Korm. rendelet |

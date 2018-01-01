@@ -8,18 +8,18 @@
 
 ## 1.3. Az igazolvány típusa (őstermelői igazolvány vagy közös őstermelői igazolvány)
 
-## 1.4.[^19] Az igazolvány nyomdai sorszáma
+## 1.4.[^20] Az igazolvány nyomdai sorszáma
 
-## 1.5.[^20] Az igazolvány impresszumszáma
+## 1.5.[^21] Az igazolvány impresszumszáma
 
 ## 2. Az igazolványban rögzített elektronikus adattartalom
 
-## 2.1.[^21] A 3. melléklet 1–29. pontja szerinti adatok
+## 2.1.[^22] A 3. melléklet 1–29. pontja szerinti adatok
 
 ## 2.2. Az igazolvány típusa (őstermelői igazolvány, vagy közös őstermelői igazolvány)
 
 2. melléklet a 436/2015. (XII. 28.) Korm. rendelethez
 
-[^19]: Az 1. melléklet 1.4. pontját a 203/2016. (VII. 21.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^20]: Az 1. melléklet 1.5. pontját a 203/2016. (VII. 21.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^21]: Az 1. melléklet 2.1. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^20]: Az 1. melléklet 1.4. pontját a 203/2016. (VII. 21.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^21]: Az 1. melléklet 1.5. pontját a 203/2016. (VII. 21.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^22]: Az 1. melléklet 2.1. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.

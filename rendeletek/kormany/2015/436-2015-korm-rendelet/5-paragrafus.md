@@ -1,6 +1,6 @@
 ## 3. Az igazolvány kiadása, érvényesítése, cseréje, módosítása
 
-5. § (1)[^4] Az igazolvány kiadását, érvényesítését, cseréjét és módosítását az ügyfél bejelentett lakóhelye vagy tartózkodási helye szerint illetékes NAK megyei ügyintéző szervezeténél (a továbbiakban: kiállító) kell kérelmezni.
+5. § (1)[^4] Az igazolvány kiadása, érvényesítése, cseréje és módosítása tekintetében az ügyfél bejelentett lakóhelye vagy tartózkodási helye szerinti NAK megyei ügyintéző szervezete (a továbbiakban: kiállító) az illetékes.
 
 (2)[^5] A kérelem előterjesztésekor az ügyfélnek az Szja. tv. 81/A. § (2) bekezdés a) és b) pontja, valamint e) pont ea) alpontja szerinti adatokat igazolnia kell, amely alapján a kiállító az igazolványra való jogosultsági feltételek vizsgálata során megállapítja
 
@@ -20,6 +20,6 @@ bb) rendelkezik-e érvényes őstermelői igazolvánnyal.
 
 (6) A személyesen eljáró ügyfél vagy a helyette eljáró személy a kérelmet saját kezűleg írja alá. Az ügyfél írásképtelensége esetén, a kérelmen ezt a tényt a kiállítónak – az aláírás céljára szolgáló rovatban – fel kell tüntetni.
 
-[^4]: Az 5. § (1) bekezdése a 203/2016. (VII. 21.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 561. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
 [^5]: Az 5. § (2) bekezdése a 203/2016. (VII. 21.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 5. § (3) bekezdése a 203/2016. (VII. 21.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.

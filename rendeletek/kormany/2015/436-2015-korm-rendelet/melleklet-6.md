@@ -1,6 +1,6 @@
 ## Az ideiglenes igazolvány adattartalma
 
-## 1.[^28] A 3. melléklet 1–29. pontja szerinti adatok
+## 1.[^29] A 3. melléklet 1–29. pontja szerinti adatok
 
 ## 2. Az igazolvány típusa (őstermelői igazolvány vagy közös őstermelői igazolvány)
 
@@ -12,7 +12,7 @@
 
 ## 6. Tájékoztatás elveszett, megtalált igazolvány leadására vonatkozóan
 
-6. melléklet a 436/2015. (XII. 28.) Korm. rendelethez[^29]
+6. melléklet a 436/2015. (XII. 28.) Korm. rendelethez[^30]
 
 A kormányablakokban előterjeszthető kérelmek adattartalma
 
@@ -46,5 +46,5 @@ Az őstermelői és közös őstermelői igazolvány iránti kérelemnek hatály
 
 12. Dátum
 
-[^28]: Az 5. melléklet 1. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
-[^29]: A 6. mellékletet a 420/2016. (XII. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^29]: Az 5. melléklet 1. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
+[^30]: A 6. mellékletet a 420/2016. (XII. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be.

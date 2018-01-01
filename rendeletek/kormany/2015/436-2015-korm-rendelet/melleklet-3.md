@@ -1,6 +1,6 @@
 ## Az értékesítési betétlap adattartalma
 
-## 1.[^22] A 3. melléklet 1–8., 12., 16. pontja és 26–29. pontja szerinti adatok
+## 1.[^23] A 3. melléklet 1–8., 12., 16. pontja és 26–29. pontja szerinti adatok
 
 ## 2. Az értékesítési betétlapot érvényesítő kiállító hatósági pecsétje és a kiállító aláírása
 
@@ -28,4 +28,4 @@
 
 3. melléklet a 436/2015. (XII. 28.) Korm. rendelethez
 
-[^22]: A 2. melléklet 1. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^23]: A 2. melléklet 1. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
