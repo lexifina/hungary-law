@@ -1,4 +1,4 @@
-42. § (1) Az adóhatóság az ellenőrzése során – az adózás rendjéről szóló törvény rendelkezései alapján – szakértőként megkeresheti az SZTNH-t. Ebben az esetben az SZTNH szakértői eljárásának időtartama 45 nap, amely határidő nem hosszabbítható meg.
+42. § (1) Az adóhatóság az ellenőrzése során – az adóigazgatási rendtartásról szóló törvény rendelkezései alapján – szakértőként megkeresheti az SZTNH-t. Ebben az esetben az SZTNH szakértői eljárásának időtartama 45 nap, amely határidő nem hosszabbítható meg.
 
 (2) Más hatóság vagy bíróság általi megkeresés alapján az SZTNH szakértői véleményt ad a megkeresésben megjelölt tevékenységek kutatás-fejlesztési szempontú minősítése, valamint a megkeresésben megjelölt költségeknek a kutatás-fejlesztési tevékenységhez való hozzárendelhetősége kérdésében.
 
