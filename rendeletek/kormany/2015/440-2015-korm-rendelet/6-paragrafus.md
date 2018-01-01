@@ -16,8 +16,10 @@ d) alapítvány és egyesület esetén a számviteli rendjüknek megfelelő, az 
 
 e) nyilatkozatot arról, hogy a szervezet nem minősül az európai versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 6. § (4a) bekezdése szerinti nehéz helyzetben lévő vállalkozásnak, és nincs vele szemben teljesítetlen visszafizetési felszólítás érvényben olyan korábbi európai bizottsági határozat nyomán, amely valamely támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánított.
 
-(4) Az az előadó-művészeti szervezet, amelyet a kijelölt szerv a tárgyévtől szerepeltet a hatósági nyilvántartásában, az (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettségének a nyilvántartásba vételi határozat jogerőre emelkedésétől számított 30 napon belül tesz eleget.
+(4)[^2] Az az előadó-művészeti szervezet, amelyet a kijelölt szerv a tárgyévtől szerepeltet a hatósági nyilvántartásában, az (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettségének a nyilvántartásba vételi határozat véglegessé válásától számított 30 napon belül tesz eleget.
 
 (5) A kijelölt szerv az adatszolgáltatás teljesítéséről, az adatszolgáltatás ellenőrzése alapján a tárgyévet megelőző év jegybevételéről, a tárgyévben befogadható Tao. támogatás összegéről az adatszolgáltatás ellenőrzésének lezárását követő 15 napon belül írásban tájékoztatja az előadó-művészeti szervezetet.
 
 (6) A kijelölt szerv a 4. § szerinti támogatási igazolással, valamint az 5. § szerinti igazolással összefüggésben birtokába került okiratokat és egyéb dokumentumokat a támogatási igazolás és igazolás kiállításának évét követő 10 évig őrzi meg.
+
+[^2]: A 6. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 565. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
