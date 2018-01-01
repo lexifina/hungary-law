@@ -10,7 +10,11 @@
 
 (3) A 16. § és a 24. § 2019. január 1-jén lép hatályba.
 
-(4)–(6)
+(4) Felhatalmazást kapnak a feladatkörrel rendelkező miniszterek, hogy rendeletben határozzák meg azon jogszabályi rendelkezések körét, amelyek megsértése esetén a 2. § (2) bekezdés b) pontja alkalmazásának van helye.
+
+(5) Az 1–4. §-t a 2018. január 1-jét követően indult és a megismételt eljárásokban kell alkalmazni azzal, hogy a 2. § (2) bekezdés b) pontjában meghatározott eltérő jogszabályi rendelkezések vonatkozásában a (7) bekezdés b)–j) pontjában meghatározott miniszteri rendeleteket kell megfelelően alkalmazni.
+
+(6) 2018. január 1-jét megelőzően elkövetett közigazgatási szabályszegés esetén olyan közigazgatási szankció alkalmazható, amely ezen időpontot megelőzően is alkalmazható volt.
 
 (7) 2019. január 1. napján hatályát veszti
 
