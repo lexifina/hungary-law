@@ -26,4 +26,4 @@ d) okirat, pénz és egyéb érték megőrzésre való átvétele (konzuli leté
 
 (9) Az uniós polgár érdekvédelmére irányuló közigazgatási hatósági eljárásokat a konzuli tisztviselő kizárólag kérelemre indítja meg.
 
-(10) Ha az eljárásban a fogadó állam hatóságának megkeresése vagy diplomáciai, illetve konzuli futárposta igénybevétele szükséges, a megkeresés teljesítésének időtartama vagy a posta továbbításához szükséges idő az eljárási határidőbe nem számít bele.
+(10)
