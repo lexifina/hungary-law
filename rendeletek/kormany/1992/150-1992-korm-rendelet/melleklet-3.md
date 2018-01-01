@@ -32,7 +32,7 @@
 
 | 3.4. |  | felsőfokú végzettséggel és legalább 3 éves gyakorlattal rendelkező levéltári könyvtáros |
 
-| 4. | Kép- és hangarchívumok: |  |
+| 4. | Mozgókép-, kép-, és hangarchívumok: |  |
 
 | 4.1. |  | tudományos kutató |
 
@@ -42,6 +42,6 @@
 
 | 5.2. |  | tudományos kutató |
 
-3. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^114]
+3. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^118]
 
-[^114]: A 3. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (2) bekezdése, a 442/2013. (XI. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^118]: A 3. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (2) bekezdése, a 442/2013. (XI. 27.) Korm. rendelet 8. §-a, a 415/2017. (XII. 18.) Korm. rendelet 16. § (2) bekezdése és a 17. § 17–18. pontja szerint módosított szöveg.

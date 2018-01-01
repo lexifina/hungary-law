@@ -1,45 +1,83 @@
-## 6/B. §[^33]
+## 6/B. §[^36]
 
-(1) Könyvtárban magasabb vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki
+(1) Nemzeti könyvtárban, felsőoktatási könyvtárban, valamint országos szakkönyvtárban az intézmény vezetésére irányuló magasabb vezető beosztás ellátásával kizárólag olyan közalkalmazott bízható meg, aki
 
 a) rendelkezik
 
-aa) szakirányú egyetemi végzettséggel és szakképzettséggel, vagy
+aa) mesterfokozatú végzettséggel és szakirányú szakképzettséggel vagy jogász vagy közgazdász szakképzettséggel, és
 
-ab) nem szakirányú egyetemi végzettséggel és felsőfokú szakirányú munkaköri
+ab) tárgyalásszintű idegennyelv-ismerettel, amelynek igazolása történhet különösen államilag elismert komplex típusú középfokú nyelvvizsga-bizonyítvány vagy azzal egyenértékű okirat, a szakmai gyakorlat külföldi teljesítéséről szóló igazolás bemutatásával,
 
-szakvizsgával, vagy
+b) végzettségének, szakképzettségének vagy az intézmény alaptevékenységének megfelelő jogviszonyban legalább öt éves szakmai gyakorlatot szerzett, és
 
-ac) főiskolai könyvtárosi képzettséggel,
+c) végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő, kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez, amelynek igazolása történhet kutatási, publikációs vagy oktatási munkák bemutatásával, továbbá projektben való részvétel igazolásával.
 
-b) rendelkezik idegennyelv-ismerettel, amelynek igazolása történhet különösen legalább államilag elismert komplex típusú nyelvvizsga-bizonyítvány vagy azzal egyenértékű okirat, a szakmai gyakorlat külföldi teljesítéséről szóló igazolás bemutatásával,
+(2) Nemzeti könyvtárban, felsőoktatási könyvtárban, valamint országos szakkönyvtárban az (1) bekezdés hatálya alá nem tartozó magasabb vezető beosztás ellátásával kizárólag olyan közalkalmazott bízható meg, aki
 
-c) a felsőfokú szakirányú végzettségének és szakképzettségének vagy az ab) alpontban megnevezett szakvizsgájának és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább öt éves szakmai gyakorlatot szerzett, és
+a) rendelkezik
 
-d) kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez.
+aa) mesterfokozatú végzettséggel és szakirányú szakképzettséggel, és
 
-(2) Könyvtárban vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki
+ab) tárgyalásszintű idegennyelv-ismerettel, amelynek igazolása történhet különösen államilag elismert komplex típusú középfokú nyelvvizsga-bizonyítvány vagy azzal egyenértékű okirat, a szakmai gyakorlat külföldi teljesítéséről szóló igazolás bemutatásával,
+
+b) végzettségének, szakképzettségének és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább öt éves szakmai gyakorlatot szerzett, és
+
+c) végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő, kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez, amelynek igazolása történhet kutatási, publikációs vagy oktatási munkák bemutatásával, továbbá projektben való részvétel igazolásával.
+
+(3) Szakkönyvtárban, valamint megyei hatókörű városi könyvtárban az intézmény vezetésére irányuló magasabb vezető beosztás ellátásával kizárólag olyan közalkalmazott bízható meg, aki
 
 a) rendelkezik
 
 aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
 
-ab) nem szakirányú felsőfokú végzettséggel és felsőfokú szakirányú munkaköri
+ab) nem szakirányú felsőfokú végzettséggel és szakképzettséggel és az Országos Képzési Jegyzék (a továbbiakban: OKJ) szerinti segédkönyvtáros szakképesítéssel, és
 
-szakvizsgával, és
+b) rendelkezik tárgyalásszintű idegennyelv-ismerettel, amelynek igazolása történhet különösen államilag elismert komplex típusú középfokú nyelvvizsga-bizonyítvány vagy azzal egyenértékű okirat, a szakmai gyakorlat külföldi teljesítéséről szóló igazolás bemutatásával,
 
-b) a felsőfokú szakirányú végzettségének és szakképzettségének vagy az ab) alpontban megnevezett szakvizsgájának és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább három éves szakmai gyakorlatot szerzett.
+c) végzettségének, szakképzettségének és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább öt éves szakmai gyakorlatot szerzett, és
 
-(3) Az (1) bekezdés b) és d) pontjában foglalt követelményt a városi és a községi könyvtár vezetője esetén nem kötelező alkalmazni.
+d) végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő szakmai vagy szakirányú tudományos tevékenységet végez, amelynek igazolása történhet kutatási, publikációs vagy oktatási munkák bemutatásával, valamint projektben való részvétel igazolásával.
 
-(4)[^34] Községi könyvtár kivételével könyvtárban az intézmény vezetésére irányuló magasabb vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki az (1) bekezdésben meghatározott követelményeknek megfelel, továbbá
+(4) Szakkönyvtárban, valamint megyei hatókörű városi könyvtárban a (3) bekezdés hatálya alá nem tartozó magasabb vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki
 
-a) a könyvtári minőségirányítás területén 120 órás képzés keretében szerzett ismeretekkel rendelkezik, vagy
+a) rendelkezik
 
-b) a magasabb vezető beosztás ellátására irányuló pályázata benyújtásakor az a) pont szerinti képzésben vesz részt, és azt igazolja.
+aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
 
-(5)[^35] A (4) bekezdés b) pontjának alkalmazása esetén a képzés elvégzését a magasabb vezetői megbízás kezdetétől számított 2 éven belül igazolni kell, ennek hiányában a munkáltató a magasabb vezetői megbízást visszavonja.
+ab) nem szakirányú felsőfokú végzettséggel és szakképzettséggel és az OKJ szerinti segédkönyvtáros szakképesítéssel,
 
-[^33]: A 6/B. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.
-[^34]: A 6/B. § (4) bekezdése a 9/2017. (I. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^35]: A 6/B. § (5) bekezdését a 9/2017. (I. 23.) Korm. rendelet 1. §-a iktatta be.
+b) végzettségének, szakképzettségének és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább négy éves szakmai gyakorlatot szerzett, és
+
+c) végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő szakmai vagy szakirányú tudományos tevékenységet végez, amelynek igazolása történhet kutatási, publikációs vagy oktatási munkák bemutatásával, valamint projektben való részvétel igazolásával.
+
+(5) Városi könyvtárban magasabb vezető beosztás ellátásával kizárólag olyan közalkalmazott bízható meg, aki
+
+a) rendelkezik
+
+aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
+
+ab) nem szakirányú felsőfokú végzettséggel és szakképzettséggel, valamint OKJ szerinti segédkönyvtáros szakképesítéssel, és
+
+b) végzettségének és szakképzettségének és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább öt éves szakmai gyakorlatot szerzett.
+
+(6) Községi könyvtárban magasabb vezető beosztás ellátásával kizárólag olyan közalkalmazott bízható meg, aki
+
+a) rendelkezik
+
+aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
+
+ab) nem szakirányú felsőfokú végzettséggel és szakképzettséggel, valamint az OKJ szerinti segédkönyvtáros szakképesítéssel, és
+
+b) végzettségének és szakképzettségének és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább három éves szakmai gyakorlatot szerzett.
+
+(7) Könyvtárban vezető beosztás ellátásával kizárólag olyan közalkalmazott bízható meg, aki
+
+a) rendelkezik
+
+aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
+
+ab) nem szakirányú felsőfokú végzettséggel és szakképzettséggel és az OKJ szerinti segédkönyvtáros szakképesítéssel, és
+
+b) végzettségének és szakképzettségének és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább három éves szakmai gyakorlatot szerzett.
+
+[^36]: A 6/B. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be, szövege a 415/2017. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.

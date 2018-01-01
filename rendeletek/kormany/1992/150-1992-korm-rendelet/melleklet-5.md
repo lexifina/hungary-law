@@ -1,172 +1,186 @@
-## A honvédelmi ágazatba tartozó közgyűjteményi intézményekben foglalkoztatott közalkalmazottak munkaköreinek megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
+## A honvédelmi ágazatba tartozó honvédelmi szervezeteknél kulturális munkakörben foglalkoztatott közalkalmazottak munkaköreinek megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
-|  | Munkakörök megnevezése | A munkakör ellátásához szükséges iskolai végzettség, szakképzettség besorolása/Fizetési osztályok | Vezetői pótlék %-a |
+|  | A | B | C | D | E | F | G | H | I | J | K | L |
 
-| A | B | C | D | E | F | G | H | I | J |  |
+| 1. | Munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék %-a |
 
-| 1 | Vezetői munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
+| 2. | A | B | C | D | E | F | G | H | I | J |  |
 
-| 1.1 | a) | Magasabb vezető munkakör: |  |  |  |  |  |  |  |  |  |  |  |
+| 3. | 1. Megbízott vezetői munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1.1.1 |  | főigazgató |  |  |  |  |  |  |  | * | * | * |  |
+| 4. | a) | Magasabb vezetői munkakör: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1.1.2 |  | főigazgató-helyettes |  |  |  |  |  |  | * | * | * | * |  |
+| 5. | főigazgató |  |  |  |  |  |  |  |  |  |  | 300 |
 
-| 1.1.3 |  | gazdasági igazgató |  |  |  |  |  | * | * | * | * |  |  |
+| 6. | főigazgató-helyettes, tudományos-helyettes |  |  |  |  |  |  |  |  |  |  | 250 |
 
-| 1.1.4 |  | igazgató (főig. h.) |  |  |  |  |  |  |  | * | * | * |  |
+| 7. | igazgató (főig. h) |  |  |  |  |  |  |  |  |  |  | 250 |
 
-| 1.1.5 |  | könyvtárigazgató ZMNE EKK |  |  |  |  |  |  |  | * | * | * |  |
+| 8. | b) | Vezető munkakör: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1.2 | b) | Vezető munkakör: |  |  |  |  |  |  |  |  |  |  |  |
+| 9. | igazgató |  |  |  |  |  |  |  |  |  |  | 150 |
 
-| 1.2.1 |  | igazgató, igazgatóhelyettes |  |  |  |  |  |  |  | * | * | * |  |
+| 10. | igazgató-helyettes |  |  |  |  |  |  |  |  |  |  | 100 |
 
-| 1.2.2 |  | gazdasági igazgató-helyettes |  |  |  |  |  | * | * | * | * |  |  |
+| 11. | osztályvezető |  |  |  |  |  |  |  |  |  |  | 150 |
 
-| 1.2.3 |  | osztályvezető |  |  |  |  |  | * | * | * | * |  |  |
+| 12. | főszerkesztő |  |  |  |  |  |  |  |  |  |  | 150 |
 
-| 1.3 | c) | Csoportvezető: |  |  |  |  |  |  |  |  |  |  |  |
+| 13. | 2. Csoportvezetői munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1.3.1 |  | Irodavezető | (kirendeltségvezető) |  |  |  |  |  | * | * | * | * | * |  |
+| 14. | irodavezető, kirendeltségvezető |  |  |  |  |  | * | * | * | * | * |  |
 
-| 1.3.2 |  | irodavezető-helyettes |  |  |  |  |  | * | * | * | * | * |  |
+| 15. | irodavezető-helyettes |  |  |  |  |  | * | * | * | * | * |  |
 
-| 1.3.3 |  | osztályvezető-helyettes |  |  |  |  |  | * | * | * |  |  |  |
+| 16. | osztályvezető-helyettes |  |  |  |  |  | * | * | * |  |  |  |
 
-| 1.3.4 |  | részlegvezető (ügyviteli) |  |  |  | * | * | * | * | * |  |  |  |
+| 17. | központvezető |  |  |  |  | * | * | * | * |  |  |  |
 
-| 2 | Vezetői megbízás: |  |  |  |  |  |  |  |  |  |  |  |
+| 18. | alosztályvezető |  |  |  |  | * | * | * | * | * |  |  |
 
-| 2.1 |  | főszerkesztő |  |  |  |  |  | * | * | * |  |  | 150 |
+| 19. | részlegvezető |  |  |  | * | * | * | * | * |  |  |  |
 
-| 3 | Kulturális munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
+| 20. | részlegvezető-helyettes |  |  | * | * | * | * |  |  |  |  |  |
 
-| 3.1 | Csoportvezető |  |  |  |  |  |  |  |  |  |  |  |
+| 21. | központvezető-helyettes |  |  | * | * | * |  |  |  |  |  |  |
 
-| 3.1.1 | könyvtárvezető, könyvtárigazgató |  |  |  |  |  | * | * | * | * | * |  |
+| 22. | könyvtárvezető, könyvtárigazgató |  |  |  |  |  | * | * | * | * | * |  |
 
-| 3.1.2 |  | könyvtárvezető-helyettes, | könyvtárigazgató-helyettes |  |  |  |  |  | * | * | * | * | * |  |
+| 23. | könyvtárvezető-helyettes, könyvtárigazgató-helyettes |  |  |  |  |  | * | * | * | * | * |  |
 
-| 3.1.3 |  | alosztályvezető (könyvtár) |  |  |  |  | * | * | * | * | * |  |  |
+| 24. | 3. Közművelődési munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 4 | Közművelődési munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
+| 25. | kulturális menedzser |  |  |  |  |  | * | * | * | * |  |  |
 
-| 4.1 |  | kulturális menedzser |  |  |  |  |  | * | * | * | * |  |  |
+| 26. | kulturális szervező |  |  | * | * | * | * | * | * | * |  |  |
 
-| 4.2 |  | népművelő-szervező |  |  |  |  |  | * | * | * | * |  |  |
+| 27. | sportszervező |  |  | * | * | * | * | * | * | * |  |  |
 
-| 4.3 |  | főmunkatárs |  |  |  |  |  |  | * | * | * |  |  |
+| 28. | pénztáros |  |  | * | * | * |  |  |  |  |  |  |
 
-| 4.4 |  | főelőadó |  |  |  |  | * | * | * |  |  |  |  |
+| 29. | főmunkatárs |  |  |  |  |  |  | * | * | * |  |  |
 
-| 4.5 |  | munkatárs |  |  |  |  |  | * | * | * |  |  |  |
+| 30. | főelőadó |  |  |  |  | * | * | * |  |  |  |  |
 
-| 4.6 |  | segédmunkatárs |  |  |  |  | * | * | * |  |  |  |  |
+| 31. | munkatárs |  |  |  |  |  | * | * | * |  |  |  |
 
-| 4.7 |  | audiovizuális technikus |  |  | * | * | * | * |  |  |  |  |  |
+| 32. | segédmunkatárs |  |  |  |  | * | * | * |  |  |  |  |
 
-| 4.8 |  | előadó |  |  |  | * | * | * |  |  |  |  |  |
+| 33. | technikus, szaktechnikus |  |  |  | * | * | * |  |  |  |  |  |
 
-| 5 | Közgyűjteményi munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
+| 34. | előadó |  |  |  | * | * | * |  |  |  |  |  |
 
-| 5.1 | a) | Levéltári munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
+| 35. | ügykezelő |  |  |  | * | * | * |  |  |  |  |  |
 
-| 5.1.1 |  | főlevéltáros |  |  |  |  |  |  |  | * | * | * |  |
+| 36. | szakmunkás |  | * | * | * |  |  |  |  |  |  |  |
 
-| 5.1.2 |  | levéltáros |  |  |  |  |  |  |  | * | * |  |  |
+| 37. | gondnok | * | * | * |  |  |  |  |  |  |  |  |
 
-| 5.1.3 |  | segédlevéltáros |  |  |  |  | * | * | * | * |  |  |  |
+| 38. | ruhatáros | * | * |  |  |  |  |  |  |  |  |  |
 
-| 5.1.4 |  | levéltári főrestaurátor |  |  |  |  |  |  | * |  |  |  |  |
+| 39. | segédmunkás | * |  |  |  |  |  |  |  |  |  |  |
 
-| 5.1.5 |  | (levéltári) kezelő |  |  | * | * |  |  |  |  |  |  |  |
+| 40. | 4. Közgyűjteményi munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.1.6 |  | (levéltári) fotós |  |  | * | * | * |  |  |  |  |  |  |
+| 41. | a) | Levéltári munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.1.7 |  | (levéltári) könyvkötő |  |  | * | * |  |  |  |  |  |  |  |
+| 42. | főlevéltáros |  |  |  |  |  |  |  | * | * | * |  |
 
-| 5.1.8 |  | levéltári restaurátor |  |  |  | * | * | * |  |  |  |  |  |
+| 43. | levéltáros |  |  |  |  |  |  |  | * | * |  |  |
 
-| 5.1.9 |  | (levéltári) adatrögzítő |  |  | * | * | * |  |  |  |  |  |  |
+| 44. | segédlevéltáros |  |  |  |  | * | * | * | * |  |  |  |
 
-| 5.2 | b) | Múzeumi munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
+| 45. | levéltári főrestaurátor |  |  |  |  |  |  | * |  |  |  |  |
 
-| 5.2.1 |  | főmuzeológus |  |  |  |  |  |  |  | * | * | * |  |
+| 46. | levéltári kezelő |  |  | * | * |  |  |  |  |  |  |  |
 
-| 5.2.2 |  | főrestaurátor |  |  |  |  |  |  | * | * | * |  |  |
+| 47. | levéltári fotós |  |  | * | * | * |  |  |  |  |  |  |
 
-| 5.2.3 |  | restaurátor |  |  |  |  | * | * | * | * | * |  |  |
+| 48. | levéltári könyvkötő |  |  | * | * |  |  |  |  |  |  |  |
 
-| 5.2.4 |  | muzeológus |  |  |  |  |  |  | * | * | * | * |  |
+| 49. | levéltári restaurátor |  |  |  | * | * | * |  |  |  |  |  |
 
-| 5.2.5 |  | segédmuzeológus |  |  |  |  | * | * | * | * |  |  |  |
+| 50. | levéltári adatrögzítő |  |  | * | * | * |  |  |  |  |  |  |
 
-| 5.2.6 |  | múzeumpedagógus |  |  |  |  |  | * | * | * | * |  |  |
+| 51. | b) | Múzeumi munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.2.7 |  | kiállítás-építő |  |  |  | * | * | * | * | * | * |  |  |
+| 52. | főmuzeológus |  |  |  |  |  |  |  | * | * | * |  |
 
-| 5.2.8 |  | szerkesztő |  |  |  | * | * | * | * |  |  |  |  |
+| 53. | főrestaurátor |  |  |  |  |  |  | * | * | * |  |  |
 
-| 5.2.9 |  | fotós |  |  | * | * | * | * | * |  |  |  |  |
+| 54. | restaurátor |  |  |  |  | * | * | * | * | * |  |  |
 
-| 5.2.10 |  | adatrögzítő |  |  |  | * | * | * | * |  |  |  |  |
+| 55. | muzeológus |  |  |  |  |  |  | * | * | * | * |  |
 
-| 5.2.11 |  | adattáros |  |  |  | * | * | * | * |  |  |  |  |
+| 56. | segédmuzeológus |  |  |  |  | * | * | * | * |  |  |  |
 
-| 5.2.12 |  | irattáros |  |  |  | * | * | * | * |  |  |  |  |
+| 57. | múzeumpedagógus |  |  |  |  |  | * | * | * | * |  |  |
 
-| 5.2.13 |  | kezelő |  |  |  | * | * | * | * |  |  |  |  |
+| 58. | kiállítás-építő |  |  |  | * | * | * | * | * | * |  |  |
 
-| 5.2.14 |  | grafikus |  |  |  | * | * | * | * |  |  |  |  |
+| 59. | szerkesztő |  |  |  | * | * | * | * |  |  |  |  |
 
-| 5.2.15 |  | gyűjteménykezelő |  |  |  | * | * | * |  |  |  |  |  |
+| 60. | felelős szerkesztő |  |  |  |  |  | * | * | * | * | * |  |
 
-| 5.2.16 |  | nyomdász, nyomdavezető |  |  | * | * | * |  |  |  |  |  |  |
+| 61. | múzeumi könyvkötő |  |  | * | * | * |  |  |  |  |  |  |
 
-| 5.2.17 |  | gépmester |  |  | * | * | * |  |  |  |  |  |  |
+| 62. | fotós |  |  | * | * | * | * | * |  |  |  |  |
 
-| 5.2.18 |  | segédrestaurátor |  |  |  | * | * | * |  |  |  |  |  |
+| 63. | adatrögzítő |  |  |  | * | * | * | * |  |  |  |  |
 
-| 5.2.19 |  | tárlatvezető |  |  |  | * | * | * |  |  |  |  |  |
+| 64. | adattáros |  |  |  | * | * | * | * |  |  |  |  |
 
-| 5.2.20 |  | gondnok | * | * | * | * |  |  |  |  |  |  |  |
+| 65. | irattáros |  |  |  | * | * | * | * |  |  |  |  |
 
-| 5.2.21 |  | ügykezelő |  |  |  | * | * | * |  |  |  |  |  |
+| 66. | kezelő |  |  |  | * | * | * | * |  |  |  |  |
 
-| 5.2.22 |  | szakmunkás |  |  | * | * | * |  |  |  |  |  |  |
+| 67. | grafikus |  |  |  | * | * | * | * |  |  |  |  |
 
-| 5.3 | c) | Könyvtári munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
+| 68. | gyűjteménykezelő |  |  |  | * | * | * |  |  |  |  |  |
 
-| 5.3.1 |  | főkönyvtáros |  |  |  |  |  |  |  | * | * | * |  |
+| 69. | nyomdász, nyomdavezető |  |  | * | * | * |  |  |  |  |  |  |
 
-| 5.3.2 | könyvtáros, informatikus könyvtáros |  |  |  |  |  | * | * | * | * |  |  |
+| 70. | gépmester |  |  | * | * | * |  |  |  |  |  |  |
 
-| 5.3.3 |  | bibliográfus, feldolgozó |  |  |  |  |  | * | * | * | * |  |  |
+| 71. | segédrestaurátor |  |  |  | * | * | * |  |  |  |  |  |
 
-| 5.3.4 | gyűjteményszervező könyvtáros |  |  |  |  |  | * | * | * | * |  |  |
+| 72. | tárlatvezető |  |  |  | * | * | * | * | * |  |  |  |
 
-| 5.3.5 |  | olvasószolgálati könyvtáros |  |  |  |  |  | * | * | * | * |  |  |
+| 73. | ügykezelő |  |  |  | * | * | * |  |  |  |  |  |
 
-| 5.3.6 | tájékoztató, szaktájékoztató könyvtáros |  |  |  |  |  | * | * | * | * | * |  |
+| 74. | teremőr |  |  |  | * | * | * |  |  |  |  |  |
 
-| 5.3.7 |  | könyvtári restaurátor |  |  |  | * | * | * | * | * | * |  |  |
+| 75. | szakmunkás |  | * | * | * |  |  |  |  |  |  |  |
 
-| 5.3.8 |  | könyvtári szakinformatikus |  |  |  |  |  | * | * | * | * |  |  |
+| 76. | c) | Könyvtári munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.3.9 |  | könyvtári asszisztens |  |  |  | * |  |  |  |  |  |  |  |
+| 77. | főkönyvtáros |  |  |  |  |  |  |  | * | * | * |  |
 
-| 5.3.10 |  | könyvtári könyvkötő |  |  | * | * |  |  |  |  |  |  |  |
+| 78. | könyvtáros, informatikus könyvtáros |  |  |  |  |  | * | * | * | * |  |  |
 
-| 5.3.11 |  | raktáros |  | * | * |  |  |  |  |  |  |  |  |
+| 79. | bibliográfus, feldolgozó |  |  |  |  |  | * | * | * | * |  |  |
 
-| 5.4 | d) Tudományos kutatói munkakörök |  |  |  |  |  |  |  |  |  |  |  |
+| 80. | gyűjteményszervező könyvtáros |  |  |  |  |  | * | * | * | * |  |  |
 
-| 5.4.1 | tudományos kutatói munkakörök a Kjt. 79/C. § (2) bekezdése, illetve a 2. számú melléklete szerint |
+| 81. | olvasószolgálati könyvtáros |  |  |  |  |  | * | * | * | * |  |  |
 
-| 5.4.2 |  | kutató |  |  |  |  |  | * | * | * | * | * |  |
+| 82. | tájékoztató, szaktájékoztató könyvtáros |  |  |  |  |  | * | * | * | * | * |  |
 
-5. melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^116]
+| 83. | könyvtári restaurátor |  |  |  | * | * | * | * | * | * |  |  |
+
+| 84. | könyvtári szakinformatikus |  |  |  |  |  | * | * | * | * |  |  |
+
+| 85. | könyvtári asszisztens |  |  |  | * |  |  |  |  |  |  |  |
+
+| 86. | könyvtári könyvkötő |  |  | * | * |  |  |  |  |  |  |  |
+
+| 87. | d) Tudományos kutatói munkakörök |  |  |  |  |  |  |  |  |  |  |  |
+
+| 88. | kutató |  |  |  |  |  | * | * | * | * | * |  |
+
+| 89. |  | tudományos kutatói munkakörök a Kjt. 79/C. § (2) bekezdése, illetve a 2. számú melléklete szerint |
+
+5. melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^120]
 
 A kulturális illetménypótlék mértéke a pótlékalap %-ában
 
@@ -208,4 +222,4 @@ A kulturális illetménypótlék mértéke a pótlékalap %-ában
 
 | 17 | 71 | 87 | 91 | 95 | 109 | 175 | 187 | 215 | 242 | 274 |
 
-[^116]: Az 5. mellékletet a 9/2017. (I. 23.) Korm. rendelet 7. §-a iktatta be.
+[^120]: Az 5. mellékletet a 9/2017. (I. 23.) Korm. rendelet 7. §-a iktatta be.

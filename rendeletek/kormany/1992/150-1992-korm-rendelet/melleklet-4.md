@@ -84,9 +84,9 @@
 
 | 3.1.3.2 | Országos intézmény megyei tagintézményének igazgató-helyettese | 225 |
 
-| 3.1.4 | Megyei könyvtár, főiskolai könyvtár, megyei hatókörű városi múzeum igazgatója | 275 |
+| 3.1.4 | Megyei hatókörű városi könyvtár, főiskolai könyvtár, megyei hatókörű városi múzeum igazgatója | 275 |
 
-| 3.1.5 | Megyei könyvtár, főiskolai könyvtár, megyei hatókörű városi múzeum igazgató-helyettese | 250 |
+| 3.1.5 | Megyei hatókörű városi könyvtár, főiskolai könyvtár, megyei hatókörű városi múzeum igazgató-helyettese | 250 |
 
 | 3.1.6 | Minisztérium vagy országos hatáskörű szerv szaklevéltára, országos szakmúzeum, Magyar Nemzeti Levéltár megyei tagintézményének igazgatója | 250 |
 
@@ -104,7 +104,7 @@
 
 | 3.1.13 | Községi könyvtár, közművelődési intézmény igazgatója | 200 |
 
-| 3.1.14 | Felsőoktatási, tudományos, kulturális vagy egészségügyi intézmény szaklevéltárának igazgatója, kari könyvtár vezetője | 200 |
+| 3.1.14 | Felsőoktatási, tudományos, kulturális vagy egészségügyi intézmény szaklevéltárának igazgatója, felsőoktatási intézmény központi könyvtári irányítás alá nem tartozó kari könyvtárának vezetője | 200 |
 
 | 3.1.15 | Országos szakmúzeum, felsőoktatási, tudományos, kulturális vagy egészségügyi intézmény szaklevéltárának igazgatóhelyettese | 150 |
 
@@ -150,9 +150,9 @@
 
 | 3.2.10 | Területi múzeum, tematikus múzeum egyéb vezetője | 100 |
 
-| 3.2.11 | Megyei könyvtár, fővárosi kerületi intézmény, megyei hatókörű városi múzeum, Magyar Nemzeti Levéltár megyei tagintézménye osztályvezetője (tudományos titkára) | 150 |
+| 3.2.11 | Megyei hatókörű városi könyvtár, fővárosi kerületi intézmény, megyei hatókörű városi múzeum, Magyar Nemzeti Levéltár megyei tagintézménye osztályvezetője (tudományos titkára) | 150 |
 
-| 3.2.12 | Megyei könyvtár, fővárosi kerületi intézmény, megyei hatókörű városi múzeum, Magyar Nemzeti Levéltár megyei tagintézménye egyéb vezetője | 100 |
+| 3.2.12 | Megyei hatókörű városi könyvtár, fővárosi kerületi intézmény, megyei hatókörű városi múzeum, Magyar Nemzeti Levéltár megyei tagintézménye egyéb vezetője | 100 |
 
 | 3.2.13 | Fővárosi kerületi közművelődési intézmény osztályvezetője | 150 |
 
@@ -161,6 +161,8 @@
 | 3.2.15 | Városi könyvtár, továbbá közművelődési intézmény osztályvezetője | 125 |
 
 | 3.2.16 | Városi közgyűjtemény, közművelődési intézmény egyéb vezetője | 100 |
+
+| 3.2.17 | Felsőoktatási intézmény központi könyvtári irányítás alá tartozó kari könyvtárának vezetője | 150 |
 
 | 4 | Gazdasági, műszaki és igazgatási szakterület |  |
 
@@ -176,6 +178,6 @@
 
 | 4.2.3 | A munkamegosztás szempontjából elkülönült gazdasági, műszaki, üzemeltetési és igazgatási szervezeti egység irányítója | 100 |
 
-4. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^115]
+4. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^119]
 
-[^115]: A 4. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^119]: A 4. számú melléklet a 415/2017. (XII. 18.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.

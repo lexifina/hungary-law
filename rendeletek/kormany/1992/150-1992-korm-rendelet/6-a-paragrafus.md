@@ -1,38 +1,34 @@
-## 6. §[^29]
+## 6. §[^33]
 
-## [A Kjt. 23. § (2) és (3) bekezdéséhez][^30]
+## [A Kjt. 23. § (2) bekezdéséhez][^34]
 
-## 6/A. §[^31]
+## 6/A. §[^35]
 
-(1) Közművelődési intézményben az intézmény vezetésére irányuló magasabb vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki
-
-a) rendelkezik
-
-aa) felsőfokú közművelődési végzettséggel és szakképzettséggel vagy
-
-ab) nem szakirányú egyetemi végzettséggel és felsőfokú szakirányú munkaköri szakvizsgával,
-
-b)[^32]
-
-c) a felsőfokú közművelődési végzettségének és szakképzettségének vagy az ab) alpontban megnevezett szakvizsgájának megfelelő feladatkörben legalább öt éves szakmai gyakorlatot szerzett, és
-
-d) kiemelkedő közművelődési tevékenységet végez.
-
-(2) Közművelődési intézményben egyéb magasabb vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki
+(1) Közművelődési intézményben az intézmény vezetésére irányuló magasabb vezető beosztás ellátásával kizárólag olyan közalkalmazott bízható meg, aki
 
 a) rendelkezik
 
-aa) szakirányú egyetemi végzettséggel és szakképzettséggel, vagy
+aa) felsőfokú végzettséggel és közművelődési szakképzettséggel, vagy
 
-ab) nem szakirányú egyetemi végzettséggel és felsőfokú szakirányú munkaköri szakvizsgával, vagy
+ab) nem szakirányú felsőfokú végzettséggel és felsőfokú szakirányú szakképesítéssel,
 
-ac) főiskolai közművelődési képzettséggel,
+b) a felsőfokú közművelődési szakképzettségének vagy az a) pont ab) alpontja szerinti szakvizsgájának és egyben az intézmény alaptevékenységének megfelelő feladatkörben, közalkalmazotti vagy munkavégzésre irányuló további jogviszonyban legalább öt éves szakmai gyakorlatot szerzett, és
 
-b) a végzettségének és szakképzettségének vagy az ab) alpontban megnevezett szakvizsgájának és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább öt éves szakmai gyakorlatot szerzett, és
+c) kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez.
 
-c) kiemelkedő szakmai tevékenységet végez.
+(2) Közművelődési intézményben – az (1) bekezdésben meghatározott magasabb vezető beosztás kivételével – egyéb magasabb vezető beosztás ellátásával kizárólag olyan közalkalmazott bízható meg, aki
 
-(3) Közművelődési intézményben vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki
+a) rendelkezik
+
+aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
+
+ab) nem szakirányú felsőfokú végzettséggel és felsőfokú szakirányú munkaköri szakvizsgával,
+
+b) a végzettségének és szakképzettségének vagy az a) pont ab) alpontjában meghatározott szakvizsgájának és egyben az intézmény alaptevékenységének megfelelő feladatkörben, közalkalmazotti vagy munkavégzésre irányuló további jogviszonyban legalább három éves szakmai gyakorlatot szerzett, és
+
+c) kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez.
+
+(3) Közművelődési intézményben vezető beosztás ellátásával kizárólag olyan közalkalmazott bízható meg, aki
 
 a) rendelkezik
 
@@ -40,9 +36,8 @@ aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
 
 ab) nem szakirányú felsőfokú végzettséggel és felsőfokú szakirányú munkaköri szakvizsgával, és
 
-b) a végzettségének és szakképzettségének vagy az ab) alpontban megnevezett szakvizsgájának és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább három éves szakmai gyakorlatot szerzett.
+b) a végzettségének és szakképzettségének vagy az a) pont ab) alpontjában meghatározott szakvizsgájának és egyben az intézmény alaptevékenységének megfelelő feladatkörben, közalkalmazotti vagy munkavégzésre irányuló további jogviszonyban legalább három éves szakmai gyakorlatot szerzett.
 
-[^29]: A 6. §-t és az azt megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
-[^30]: A 6/A. §-t megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.
-[^31]: A 6/A. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.
-[^32]: A 6/A. § (1) bekezdés b) pontját a 442/2013. (XI. 27.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^33]: A 6. §-t és az azt megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
+[^34]: A 6/A. §-t megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be, szövege a 415/2017. (XII. 18.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg.
+[^35]: A 6/A. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be, szövege a 415/2017. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.

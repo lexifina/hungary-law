@@ -1,7 +1,9 @@
-## 20/A. §[^82]
+## 20/A. §[^87]
 
-(1) A honvédelmi ágazatba tartozó közgyűjteményi intézményben foglalkoztatott közalkalmazottak munkaköreinek elnevezését, fizetési osztályokba sorolását, a magasabb vezetői, valamint a vezetői munkaköreit, a magasabb vezetői megbízásait a 4. melléklet tartalmazza.
+(1)[^88] A honvédelmi ágazatba tartozó szervezeteknél kulturális munkakörben foglalkoztatott közalkalmazottak munkaköreinek elnevezését, fizetési osztályokba sorolását, a magasabb vezetői, valamint a vezetői munkaköreit, a magasabb vezetői megbízásait a 4. melléklet tartalmazza.
 
-(2) A honvédelmi ágazatba tartozó közgyűjteményi intézmények munkaköri jegyzéke kizárólag az e rendelet 4. melléklete szerinti munkaköri megnevezéseket tartalmazhatja.
+(2)[^89] A honvédelmi ágazatba tartozó szervezeteknél kulturális munkakörben foglalkoztatott közalkalmazottak munkaköreit tartalmazó munkaköri jegyzék és állománytábla kizárólag az e rendelet 4. melléklete szerinti munkaköri megnevezéseket tartalmazhatja.
 
-[^82]: A 20/A. §-t a 150/2010. (IV. 30.) Korm. rendelet 11. §-a iktatta be.
+[^87]: A 20/A. §-t a 150/2010. (IV. 30.) Korm. rendelet 11. §-a iktatta be.
+[^88]: A 20/A. § (1) bekezdése a 415/2017. (XII. 18.) Korm. rendelet 17. § 14. pontja szerint módosított szöveg.
+[^89]: A 20/A. § (2) bekezdése a 415/2017. (XII. 18.) Korm. rendelet 17. § 15. pontja szerint módosított szöveg.

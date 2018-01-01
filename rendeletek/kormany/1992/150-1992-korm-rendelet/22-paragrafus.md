@@ -1,45 +1,50 @@
-## 21. §[^83]
+## 21. §[^90]
 
 ## Az 1. § szerinti közalkalmazottat a besorolása alapján kulturális illetménypótlék illeti meg. A kulturális illetménypótléknak a közalkalmazotti pótlékalapra vetített mértékét az 5. melléklet tartalmazza.
 
-## 22. §
+## 22. §[^91]
 
-(1) E rendelet alkalmazásában
+## E rendelet alkalmazásában:
 
-a)[^84] kulturális intézmény: a művészeti, a közművelődési intézmény és a közgyűjtemények (muzeális intézmény, levéltár, könyvtár, kép- és hangarchívum);
+1. alkotóművészeti intézmény: az állam, a helyi önkormányzat, a nemzetiségi önkormányzat, a köztestület és a közalapítvány fenntartásában működő képző-, ipar- és fotóművészeti galéria, a kiállítási intézmény, az alkotótelep, továbbá az alkotóház;
 
-b)[^85] művészeti intézmény: az előadó-művészeti és az alkotóművészeti intézmény;
+2. egyetemi doktori cím: a felsőoktatási törvény szerint 1984. szeptember 1-je előtt doktori cselekmények alapján szerzett, vagy e nap előtt engedélyezett doktori cselekmények alapján később megszerzett egyetemi doktori cím;
 
-c)[^86] előadó-művészeti intézmény: az az előadó-művészeti szervezet, amelyik költségvetési szerv formájában működik;
+3. egyetemi tudományos fokozat (dr. univ.): a felsőoktatási törvény szerint 1984. szeptember 1-je után szerzett egyetemi tudományos fokozat (doctor universitatis);
 
-d)[^87] alkotóművészeti intézmény: a képző-, ipar- és fotóművészeti galéria, a kiállítási intézmény, az alkotótelep, illetve az alkotóház;
+4. előadó-művészeti intézmény: az az előadó-művészeti szervezet, amelyik költségvetési szerv formájában működik;
 
-e)[^88] közgyűjteményi intézmény: az állam, a helyi önkormányzat, valamint az országos kisebbségi önkormányzat, a köztestület és a közalapítvány tulajdonában (fenntartásában) működő, vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép-, és hangarchívum;
+5. felsőfokú előadó-művészeti szakképzettség: a művészeti képzési területen a munkakörnek megfelelő alap- vagy mesterképzési szakon szerzett oklevéllel tanúsított végzettség és szakképzettség vagy annak megfeleltethető korábbi főiskolai vagy egyetemi oklevéllel tanúsított végzettség és szakképzettség, továbbá zene- és táncművészeti tevékenység esetében a tanári végzettség, valamint színházművészeti tevékenység esetében a művészetközvetítési képzési területen szerzett végzettség, ha nincs a művészeti munkakörnek megfelelő hazai szakirányú felsőfokú képzés, akkor szakirányú felsőfokú végzettségnek kell tekinteni a munkakör betöltéséhez szükséges szakmában szerzett, az OKJ szerinti, szakmai végzettséget igazoló bizonyítvánnyal tanúsított szakképesítést, az OKJ szerinti szakképesítésnek tartalmilag megfeleltethető végzettséget, illetve minden korábbi jogszabály alapján szakmai vizsga teljesítésével szerzett művészi vagy művészeti munkakör betöltéséhez előírt szakmai végzettséget;
 
-f)[^89] közművelődési intézmény: a helyi közösségi művelődést szervező és a közművelődési szolgáltatásokat biztosító művelődési intézmény (pl. művelődési központ, művelődési ház, közösségi ház, faluház, ifjúsági és gyermekház, ifjúsági információs iroda, szabadidőközpont), a szabadidős szórakoztató és művelődési szolgáltatást biztosító egyéb intézmény (pl. szabadidőpark, állat- és növénykert, vidámpark), a regionális és megyei fejlesztési feladatokat ellátó és szolgáltatást nyújtó intézmény (pl. megyei közművelődési szakmai tanácsadást, szolgáltatást végző szervezet), a országos közművelődési szakmai tanácsadást, szolgáltatást végző szervezet;
+6. felsőfokú közművelődési szakképzettségek: felsőfokú oktatási intézményben szerzett népművelő, közművelődési előadó, művelődésszervező, művelődési menedzser, művelődési (és felnőttképzési) menedzser, andragógus (művelődésszervező szakirány), kulturális mediátor kulturális közösségszervező, ifjúsági közösségszervező, humánfejlesztő, közösségi művelődés tanár szakképzettség, valamint az ezzel egyenértékű, az OKJ szerinti, felsőfokú végzettségi szintre épülő közművelődési szakember, kulturális menedzser, közművelődési menedzser szakképesítés;
 
-g)[^90] szakirányú felsőfokú végzettség: felsőfokú oktatási intézményben szerzett, az intézmény alaptevékenységének megfelelő diploma, oklevél, vagy a jogász, illetve a közgazdász szakképzettséget tanúsító oklevél.
+7. felsőfokú végzettség: alapképzésben, mesterképzésben vagy doktori képzésben szerzett végzettség, valamint a felsőoktatási törvény szerinti főiskolai szintű vagy egyetemi szintű végzettség;
 
-h)[^91] felsőfokú közművelődési szakképzettségek: felsőfokú oktatási intézményben szerzett népművelő, közművelődési előadó, művelődésszervező, művelődési menedzser, művelődési (és felnőttképzési) menedzser, andragógus (művelődésszervező szakirány), kulturális mediátor diploma, oklevél.
+8. fizetési osztálynak megfelelő szintű szakirányú felsőfokú szakképzettség: a felsőoktatási törvény szerinti főiskolai végzettség és szakirányú szakképzettség vagy alapfokozat és szakirányú szakképzettség, egyetemi végzettség és szakirányú szakképzettség vagy mesterfokozat és szakirányú szakképzettség;
 
-(2)[^92]
+9. integrált kulturális intézmény: állam vagy a helyi önkormányzat irányítása alatt álló költségvetési szerv, amelynek alapító okiratában az alaptevékenységbe tartozó szakmai alapfeladatok között – más szakmai alapfeladatok mellett – művészeti, közművelődési vagy közgyűjteményi feladat is meghatározásra került.
 
-(3)[^93] Az egyes közalkalmazotti munkakörök betöltéséhez szükséges képesítési feltételeket és az egyes fizetési osztályokba történő besoroláshoz kapcsolódó követelményeket a miniszter külön rendeletben állapítja meg.
+10. közgyűjteményi intézmény: az állam, a helyi önkormányzat, a nemzetiségi önkormányzat, a köztestület és a közalapítvány fenntartásában működő könyvtár, levéltár, muzeális intézmény, valamint mozgókép-, kép- és hangarchívum;
 
-(4)[^94]
+11. közművelődési intézmény: a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló törvény szerinti közművelődési intézmény;
 
-(5)[^95]
+12. közösségi színtér: a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló törvény szerinti közművelődési közösségi színtér;
 
-[^83]: A 21. §-t a 3/2009. (I. 10.) Korm. rendelet 12. §-ának a) pontja hatályon kívül helyezte, újonnan a 9/2017. (I. 23.) Korm. rendelet 5. §-a iktatta be.
-[^84]: A 22. § (1) bekezdés a) pontja a 150/2010. (IV. 30.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^85]: A 22. § (1) bekezdés b) pontja a 150/2010. (IV. 30.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^86]: A 22. § (1) bekezdés c) pontja a 150/2010. (IV. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^87]: A 22. § (1) bekezdés d) pontja a 150/2010. (IV. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^88]: A 22. § (1) bekezdés e) pontja a 150/2010. (IV. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^89]: A 22. § (1) bekezdésének f) pontja a 184/1993. (XII. 31.) Korm. rendelet 3. §-ával megállapított, valamint a 3/2009. (I. 10.) Korm. rendelet 12. §-ának c) pontja szerint módosított szöveg.
-[^90]: A 22. § (1) bekezdésének g) pontját a 112/2001. (VI. 26.) Korm. rendelet 5. §-a iktatta be, szövege a 150/2010. (IV. 30.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^91]: A 22. § (1) bekezdésének h) pontját a 150/2010. (IV. 30.) Korm. rendelet 12. § (4) bekezdése iktatta be.
-[^92]: A 22. § (2) bekezdését a 150/2010. (IV. 30.) Korm. rendelet 16. § m) pontja hatályon kívül helyezte.
-[^93]: A 22. § (3) bekezdése a 241/2007. (IX. 21.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^94]: A 22. § (4) bekezdését a 150/2010. (IV. 30.) Korm. rendelet 16. § m) pontja hatályon kívül helyezte.
-[^95]: A 22. § (5) bekezdését a 3/2009. (I. 10.) Korm. rendelet 12. §-ának a) pontja hatályon kívül helyezte.
+13. kulturális intézmény: a művészeti, a közművelődési és a közgyűjteményi intézmények, továbbá az integrált kulturális intézmény;
+
+14. mesterfokozatú szakképzettség: felsőoktatási törvény szerinti egyetemi végzettség és szakképzettség vagy mesterfokozat és szakképzettség;
+
+15. művészeti intézmény: az előadó-művészeti és az alkotóművészeti intézmény;
+
+16. szakirányú felsőfokú végzettség és szakképzettség: felsőfokú oktatási intézményben felsőfokú végzettségi szinten szerzett, az intézmény alaptevékenységének megfelelő szakképzettség;
+
+17. szakirányú szakképzettség: felsőfokú végzettséghez kapcsolódó, a közalkalmazottat foglalkoztató intézmény alaptevékenységének megfelelő szakképzettség;
+
+18. szakirányú továbbképzésben szerzett szakképzettség: a felsőoktatási törvény szerint felsőoktatási intézményben felsőfokú végzettségi szintet követően szerezhető szakirányú szakképzettség, valamint az 1996. szeptember 1-je előtt a felsőoktatási intézményekben létesített szakosító továbbképzési szakokon szerzett szakosító továbbképzési oklevél által tanúsított szakképzettség;
+
+19. szakképesítés: szakképzésben szerzett, az OKJ-ban szereplő vagy szerepelt képesítés;
+
+20. tudományos fokozat: a felsőoktatási törvény szerinti doktori képzésben szerzett tudományos fokozat [Doctor of Philosophy (PhD), Doctor of Liberal Arts (DLA)], a tudomány kandidátusa, a tudomány doktora, a külföldön szerzett és honosított vagy elismert tudományos fokozat.
+
+[^90]: A 21. §-t a 3/2009. (I. 10.) Korm. rendelet 12. §-ának a) pontja hatályon kívül helyezte, újonnan a 9/2017. (I. 23.) Korm. rendelet 5. §-a iktatta be.
+[^91]: A 22. § a 415/2017. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
