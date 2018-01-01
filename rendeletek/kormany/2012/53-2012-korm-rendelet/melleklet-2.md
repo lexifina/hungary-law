@@ -54,6 +54,6 @@
 
 3. Bányászati hulladékkezelő építmény.
 
-4.[^43] A föld alatti szénelgázosításhoz szükséges létesítmények.
+4.[^59] A föld alatti szénelgázosításhoz szükséges létesítmények.
 
-[^43]: A 2. melléklet 4. pontját az 559/2013. (XII. 31.) Korm. rendelet 68. § (2) bekezdése iktatta be.
+[^59]: A 2. melléklet 4. pontját az 559/2013. (XII. 31.) Korm. rendelet 68. § (2) bekezdése iktatta be.

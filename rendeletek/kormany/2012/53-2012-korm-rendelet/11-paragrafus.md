@@ -1,14 +1,14 @@
 ## 10. Az építésügyi hatósági engedély hatálya
 
-11. § (1)[^9] A jogerős és végrehajtható elvi építési engedély egy évig hatályos, amely nem hosszabbítható meg. A jogerős és végrehajtható építési, bontási és rendeltetésmegváltoztatási engedély két évig hatályos. A jogerős és végrehajtható használatbavételi vagy fennmaradási engedély határozatlan ideig hatályos.
+11. § (1)[^15] A végleges elvi építési engedély egy évig hatályos, amely nem hosszabbítható meg. A végleges építési, bontási és rendeltetésmegváltoztatási engedély két évig hatályos. A végleges használatbavételi vagy fennmaradási engedély határozatlan ideig hatályos.
 
-(2) Az építési vagy a rendeltetés megváltoztatására irányuló engedély hatályát veszti, ha jogerőssé és végrehajthatóvá válásától számított két éven belül
+(2)[^16] Az építési vagy a rendeltetés megváltoztatására irányuló engedély hatályát veszti, ha véglegessé válásától számított két éven belül
 
 a) az építési tevékenységet nem kezdték meg, és a hatályát a (4) bekezdés szerint nem hosszabbították meg, vagy
 
 b) az építési tevékenységet megkezdték, de a megkezdés napjától számított tíz éven belül a sajátos építmény használatbavételi engedély megadására nem válik alkalmassá.
 
-(3) A bontási engedély hatályát veszti, ha jogerőssé és végrehajthatóvá válásától számított két éven belül
+(3)[^17] A bontási engedély hatályát veszti, ha véglegessé válásától számított két éven belül
 
 a) az építési tevékenységet nem kezdték meg, és a hatályát a (4) bekezdés szerint nem hosszabbították meg, vagy
 
@@ -18,4 +18,6 @@ b) az építési tevékenységet megkezdték, de a megkezdés napjától számí
 
 (5) A (2) bekezdés b) pontjában meghatározott esetben a sajátos építményre fennmaradási engedély kérhető.
 
-[^9]: A 11. § (1) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^15]: A 11. § (1) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 59. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 386. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^16]: A 11. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 386. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^17]: A 11. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 386. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -8,7 +8,7 @@ b) bejelentéshez kötött építési tevékenység esetében a bejelentésre
 
 vonatkozó szabályokat kell alkalmazni a (2)–(4) bekezdésben foglalt eltérésekkel.
 
-(2) A rendeltetés megváltoztatásának engedélyezésére irányuló kérelemhez az 5. § (1) bekezdésében foglaltakon túl mellékelni kell a környezetvédelmi engedélyt vagy az egységes környezethasználati engedélyt 1 példányban, ha a rendeltetés megváltoztatása következtében a sajátos építmény vagy az abban végzendő tevékenység környezetvédelmi engedélyhez kötött.
+(2)[^37]
 
 (3) A bányafelügyelet az engedélyt megadja, ha
 
@@ -21,3 +21,5 @@ b) a rendeltetés módosításával létrejövő sajátos építmény az érinte
 a) a létesítménnyel rendelkezni jogosultak nevét, címét, és
 
 b) a rendeltetés megváltoztatásával érintett sajátos építmény vagy földrészlet azonosításra alkalmas adatait, a sajátos építmény eredeti és új rendeltetésének megjelölését.
+
+[^37]: A 28. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 387. § i) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,4 +1,4 @@
-## 36. §[^30] A bányafelügyelet építésügyi és építésfelügyeleti eljárására az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendeletet – az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 64–66. §-ában foglalt rendelkezések kivételével – nem kell alkalmazni.
+## 36. §[^44] A bányafelügyelet építésügyi és építésfelügyeleti eljárására az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendeletet – az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 64–66. §-ában foglalt rendelkezések kivételével – nem kell alkalmazni.
 
 ## 19. Építésügyi hatósági, építésfelügyeleti intézkedések
 
@@ -18,7 +18,7 @@ e) ha jogszabályban meghatározott feltételeknek nem megfelelő anyagok, szerk
 
 a) a sajátos építmény vagy sajátos építményrész építésügyi hatósági engedélyben meghatározott, ennek hiányában az eredeti rendeltetésétől eltérő használatának megszüntetését,
 
-b) szabálytalan építkezés esetében az építési tevékenység megszüntetését és az építést megelőző állapot helyreállítását, a jogerős és végrehajtható építési engedélynek és a hozzá tartozó, jóváhagyott műszaki tervdokumentációnak megfelelő állapot kialakítását, illetve
+b)[^45] szabálytalan építkezés esetében az építési tevékenység megszüntetését és az építést megelőző állapot helyreállítását, a végleges építési engedélynek és a hozzá tartozó, jóváhagyott műszaki tervdokumentációnak megfelelő állapot kialakítását, illetve
 
 c) a műszaki követelményeknek meg nem felelő építési termékek kicserélését.
 
@@ -26,4 +26,5 @@ c) a műszaki követelményeknek meg nem felelő építési termékek kicserél�
 
 (4) Ha a sajátos építmény az egészséget, az élet- vagy közbiztonságot, a természeti vagy épített környezetet vagy kulturális örökségi elemet közvetlenül veszélyezteti, és a veszélyhelyzet másként nem szüntethető meg, a sajátos építmény bontását kell elrendelni.
 
-[^30]: A 36. § az 559/2013. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^44]: A 36. § az 559/2013. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^45]: A 37. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 386. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

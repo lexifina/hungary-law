@@ -14,6 +14,6 @@ f) ha a sajátos építmény megépítése révén az ingatlan-nyilvántartási 
 
 g) szállítóvezeték esetében a szolgalom alapításának határidejét,
 
-h)[^19] robbanóanyag-raktár esetében a robbanóanyag-tárolás feltételeit.
+h)[^31] robbanóanyag-raktár esetében a robbanóanyag-tárolás feltételeit.
 
-[^19]: A 23. § h) pontját a 18/2013. (I. 30.) Korm. rendelet 11. §-a iktatta be.
+[^31]: A 23. § h) pontját a 18/2013. (I. 30.) Korm. rendelet 11. §-a iktatta be.
