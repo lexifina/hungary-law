@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-56-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-10-08 | 2015-56-20-2W.1 | 56/2015. (IX. 30.) NFM rendelet |
+| 2018-01-01 | 2015-56-20-2W.2 | 11/2019. (V. 29.) ITM rendelet |
