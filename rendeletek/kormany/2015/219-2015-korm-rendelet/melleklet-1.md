@@ -1,4 +1,4 @@
-## 7. §[^2]
+## 7. §[^4]
 
 1. melléklet a 219/2015. (VIII. 6.) Korm. rendelethez
 
@@ -42,4 +42,4 @@ A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé n
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
