@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-29-20-0
 | --- | --- | --- |
 | 2015-11-04 | 2015-29-20-06.1 | 29/2015. (X. 30.) IM rendelet |
 | 2017-01-01 | 2015-29-20-06.2 | 26/2016. (XII. 27.) IM rendelet |
+| 2018-01-01 | 2015-29-20-06.3 | 25/2017. (XII. 22.) IM rendelet |

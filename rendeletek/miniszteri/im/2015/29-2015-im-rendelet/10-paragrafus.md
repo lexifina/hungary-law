@@ -12,7 +12,7 @@ e) arról, ha az adósságrendezési kötelezettsége teljesítéséhez munkált
 
 f) arról, ha az Are. tv. 3. melléklet 21. pontja szerint a lakóingatlana értékesítéséről a települési önkormányzat részére történő adatszolgáltatásra vonatkozóan az eljárás során nyilatkozatot tesz, vagy a korábban tett ilyen nyilatkozatát visszavonja,
 
-g) arról, ha a hitelezőjével az adósságrendezési eljárás kezdeményezése előtt indult per, peren kívüli eljárás, polgári nemperes eljárás, közigazgatási hatósági eljárás vagy adóigazgatási eljárás jogerősen befejeződött, és az említett eljárásokban az adósnak pénzfizetésre irányuló kötelezettsége vagy követelése keletkezett, ennek összegét, azt a tényt, hogy a hitelező – az Are. tv. 41. § (7) és (8) bekezdése szerint – érvényesített-e beszámítási kifogást, vagy beszámítás iránti igényt,
+g)[^4] arról, ha a hitelezőjével az adósságrendezési eljárás kezdeményezése előtt indult per, peren kívüli eljárás, polgári nemperes eljárás, közigazgatási hatósági eljárás vagy adóigazgatási eljárás jogerősen vagy véglegesen befejeződött, és az említett eljárásokban az adósnak pénzfizetésre irányuló kötelezettsége vagy követelése keletkezett, ennek összegét, azt a tényt, hogy a hitelező – az Are. tv. 41. § (7) és (8) bekezdése szerint – érvényesített-e beszámítási kifogást, vagy beszámítás iránti igényt,
 
 h) arról, ha az adósságrendezésbe tartozó vagyontárgya
 
@@ -33,3 +33,4 @@ l) az Are. tv., valamint az adósságrendezési egyezség vagy az adósságtörl
 (2) Az (1) bekezdés szerinti eseményeket, adatokat igazoló dokumentumokat a családi vagyonfelügyelő részére az együttműködési megállapodásban meghatározott módon be kell mutatni vagy meg kell küldeni.
 
 [^3]: A 10. § (1) bekezdés d) pontja a 26/2016. (XII. 27.) IM rendelet 25. § c) pontja szerint módosított szöveg.
+[^4]: A 10. § (1) bekezdés g) pontja a 25/2017. (XII. 22.) IM rendelet 20. §-a szerint módosított szöveg.
