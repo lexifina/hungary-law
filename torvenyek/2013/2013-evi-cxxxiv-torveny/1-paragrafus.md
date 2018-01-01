@@ -4,7 +4,7 @@
 
 (3) Az állami szerv a hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatást követő 15 napon belül hatósági eljárás keretében közérdekű szolgáltatót jelöl ki a hulladékgazdálkodási engedéllyel és minősítési engedéllyel rendelkező szolgáltatók közül. A közérdekű szolgáltató a szolgáltatást a Ht. 32/A. § (2) bekezdése szerinti szervezet (a továbbiakban: Koordináló szerv) által meghatározott szolgáltatási díj fejében köteles elvégezni. A szolgáltatási díj mértékét és megállapításának rendjét miniszteri rendelet határozza meg.
 
-(4) Az állami szerv kijelölésre irányuló eljárásban hozott döntésével szemben fellebbezésnek és újrafelvételi eljárásnak nincs helye.
+(4) Az állami szerv kijelölésre irányuló eljárásban hozott döntésével szemben fellebbezésnek nincs helye.
 
 (5) A kijelölésre irányuló eljárásban hozott döntés a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatóvá nyilvánítható.
 
