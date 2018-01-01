@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-30-20-2
 | --- | --- | --- |
 | 2016-02-26 | 2016-30-20-22.1 | 30/2016. (II. 25.) Korm. rendelet |
 | 2016-09-09 | 2016-30-20-22.2 | 271/2016. (IX. 1.) Korm. rendelet |
+| 2018-01-01 | 2016-30-20-22.3 | 458/2017. (XII. 28.) Korm. rendelet |

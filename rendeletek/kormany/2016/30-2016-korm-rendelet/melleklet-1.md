@@ -28,7 +28,7 @@ A Beruházás megvalósításával összefüggő kiemelt jelentőségű ügyekk�
 
 12. bányahatósági engedélyezési eljárások,
 
-13.[^2] tűzvédelmi hatósági eljárások,
+13.[^6] tűzvédelmi hatósági eljárások,
 
 14. élelmiszerlánc-felügyeleti eljárás,
 
@@ -38,4 +38,4 @@ A Beruházás megvalósításával összefüggő kiemelt jelentőségű ügyekk�
 
 17. az 1–16. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: Az 1. melléklet 13. pontja a 271/2016. (IX. 1.) Korm. rendelet 78. § (2) bekezdése szerint módosított szöveg.
+[^6]: Az 1. melléklet 13. pontja a 271/2016. (IX. 1.) Korm. rendelet 78. § (2) bekezdése szerint módosított szöveg.
