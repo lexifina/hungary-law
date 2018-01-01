@@ -8,10 +8,6 @@
 
 (4) Az atomerőműben, a kutatóreaktorban, a kiégett fűtőelemek átmeneti száraz tárolójában és a tároló létesítményben alkalmazandó tűzterhelés meghatározását a 3. melléklet, az éghető anyagok fűtőértékét és testsűrűségét a 4. melléklet határozza meg.
 
-(5) E rendelet mellékleteiben foglaltak alól eltérést, a tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók kötelező élet- és balesetbiztosításáról szóló kormányrendeletben meghatározott tűzvédelmi hatóság engedélyezhet.
+(5)–(6)[^2]
 
-(6) Ha az atomenergiáról szóló törvény szerinti engedélyes az atomerőmű, a kutatóreaktor, a kiégett fűtőelemek átmeneti száraz tárolója és a tároló létesítmény tűzvédelmét
-
-a) a Szabályzatban, illetve az RTSZ-ben foglaltaktól eltérően kívánja biztosítani, akkor az eltérés engedélyezési eljárása során,
-
-b) más tűzvédelmi jogszabályban foglaltaktól eltérően kívánja biztosítani, akkor az azon jogszabályban megengedett eltérés engedélyezési eljárása során
+[^2]: A 3. § (5)–(6) bekezdését a 44/2017. (XII. 29.) BM rendelet 105. § a) pontja hatályon kívül helyezte.

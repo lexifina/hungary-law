@@ -1,5 +1,3 @@
-## tűzkockázat-elemzéssel alátámasztottan kell igazolnia, hogy a választott megoldás nem jelent kockázatnövekedést, valamint a tűzkockázat-elemzésben meg kell határoznia az indokolt és szükséges ellensúlyozó intézkedéseket.
-
 4. § (1) Az atomerőműben, a kutatóreaktorban, a kiégett nukleáris fűtőelemek átmeneti száraz tárolójában és a tároló létesítményben a megelőző tűzvédelmi feladatok ellátására tűzvédelmi szervezetet kell létrehozni.
 
 (2) A tűzvédelmi tevékenységek koordinálására vonatkozó feladatokat az atomerőmű szervezetében önálló munkakörként kell meghatározni.

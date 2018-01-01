@@ -46,7 +46,7 @@ b) a technológiai létesítményekben a tűzterhelésnek a lehető legalacsonya
 
 c) az éghető anyagok tárolása nem jelenthet veszélyt a biztonsági rendszerelemekre,
 
-d)[^4] legalább A2 tűzvédelmi osztályú építési terméket, építményszerkezetet kell alkalmazni – ideértve a hő- és hangszigeteléseket, bevonatokat és burkolatokat is – kivéve a dekontaminálhatóságot biztosító bevonatokat és vízszigeteléseket, valamint a kültéri vízszigeteléseket és homlokzati nyílászárókat, amelyek tűzkockázat-elemzéssel alátámasztottan, alacsonyabb tűzvédelmi osztályúak is lehetnek, továbbá a technológiához közvetlenül nem kapcsolódó létesítményekben tűzkockázat-elemzéssel alátámasztottan B tűzvédelmi osztályú építési termék, építményszerkezet is alkalmazható,
+d)[^5] legalább A2 tűzvédelmi osztályú építési terméket, építményszerkezetet kell alkalmazni – ideértve a hő- és hangszigeteléseket, bevonatokat és burkolatokat is – kivéve a dekontaminálhatóságot biztosító bevonatokat és vízszigeteléseket, valamint a kültéri vízszigeteléseket és homlokzati nyílászárókat, amelyek tűzkockázat-elemzéssel alátámasztottan, alacsonyabb tűzvédelmi osztályúak is lehetnek, továbbá a technológiához közvetlenül nem kapcsolódó létesítményekben tűzkockázat-elemzéssel alátámasztottan B tűzvédelmi osztályú építési termék, építményszerkezet is alkalmazható,
 
 e) azoknak a potenciális gyújtóforrásoknak, amelyek az atomerőmű technológiai rendszereiből, berendezéseiből adódnak, megfelelően ellenőrzöttnek kell lenniük,
 
@@ -56,7 +56,7 @@ g) az olajtöltésű transzformátorokat lehetőleg szabadtéren vagy nem techno
 
 h) olyan villamos- és irányítástechnikai eszközöket kell előnyben részesíteni, amelyekben az éghető anyag mennyisége a lehető legalacsonyabb,
 
-i)[^5] az egymás melletti villamos elosztószekrényeket egymástól legalább A2 tűzvédelmi osztályú szerkezettel kell elválasztani, kivéve a gyűjtősín tereket,
+i)[^6] az egymás melletti villamos elosztószekrényeket egymástól legalább A2 tűzvédelmi osztályú szerkezettel kell elválasztani, kivéve a gyűjtősín tereket,
 
 j) az 1500 MJ/m2 feletti tűzterhelésű terek, így a kábelterek elválasztását más funkciójú terektől tűzgátló elválasztással kell megoldani.
 
@@ -76,13 +76,13 @@ j) az 1500 MJ/m2 feletti tűzterhelésű terek, így a kábelterek elválasztás
 
 3.6. A tűzszakasznak és a másodlagos tűzszakasznak az általános tűzvédelmi elveknek való megfelelőségén túlmenően olyan kialakítással kell rendelkeznie, hogy tűz esetén előre meghatározott ideig kizárja a redundáns biztonsági rendszer sérülésének veszélyét.
 
-3.7.[^6] A redundáns biztonsági rendszereket a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 118/2011. (VII. 11.) Korm. rendelet (a továbbiakban: Nukleáris Biztonsági Szabályzatok) 3. melléklet 3.3.7. alcím 3.3.7.0100. pontjában, valamint 3a.3.7. alcím 3a.3.7.0100. pontjában foglaltakra figyelemmel kell kialakítani.
+3.7.[^7] A redundáns biztonsági rendszereket a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 118/2011. (VII. 11.) Korm. rendelet (a továbbiakban: Nukleáris Biztonsági Szabályzatok) 3. melléklet 3.3.7. alcím 3.3.7.0100. pontjában, valamint 3a.3.7. alcím 3a.3.7.0100. pontjában foglaltakra figyelemmel kell kialakítani.
 
 3.8. A tűzgátló szerkezeteknek biztosítaniuk kell a tűzgátló szerkezet két oldalán lévő nyomáskülönbségek fenntartását üzemi és tervezett üzemzavari állapot esetén is.
 
 3.9. A nukleáris biztonságra hatással bíró tűzszakaszok esetében a tűzgátló szerkezetek tűzállósági teljesítmény követelményét tűzkockázat-elemzéssel kell meghatározni. Az elemzés során a tűzszakaszok, az azokba beépített hermetikus átvezető szerkezetek, továbbá a másodlagos tűzszakaszok határoló építményszerkezetei és a tűzgátló lezárások – a tűzgátló nyílászárók kivételével – tűzállósági teljesítményének igazolásához a tervezésnél figyelembe vett, valamint a helyi üzemi viszonyokat modellező adottságoknak megfelelően kell kiválasztani a laboratóriumi vizsgálatnál vagy a méretezési számításokban alkalmazandó – szabványos szénhidrogén-tűz, cellulóz-tűz vagy lappangó tűz – tűzhatásokat. A tűzgátló nyílászárók esetében a cellulóz-tűz görbe szerinti tűzhatás veendő figyelembe.
 
-3.10.[^7] A technológiai létesítményben – a homlokzati nyílászárók kivételével – a tűzszakaszokat, továbbá a másodlagos tűzszakaszokat határoló függőleges vagy vízszintes beépítésű nyílászáró szerkezetnek
+3.10.[^8] A technológiai létesítményben – a homlokzati nyílászárók kivételével – a tűzszakaszokat, továbbá a másodlagos tűzszakaszokat határoló függőleges vagy vízszintes beépítésű nyílászáró szerkezetnek
 
 a) nem technológiai tűzszakasz esetében 500 MJ/m2 tűzterhelésig legalább A2 tűzvédelmi osztályú, EI2 30 tűzállósági teljesítményűnek kell lennie,
 
@@ -104,7 +104,7 @@ c) nem technológiai tűzszakasz esetében 1500 MJ/m2-nél nagyobb tűzterhelés
 
 4.1. A kábelek tartószerkezeteinek legalább A2 tűzvédelmi osztályúaknak kell lenniük.
 
-4.2.[^8] A tűzvédelmi jogszabályoknak megfelelő, tűzálló, működőképesség-megtartó kábeleket, kábelrendszereket kell alkalmazni. A működőképesség-megtartás követelményével nem érintett kábelek esetében a kábeleket úgy kell megválasztani, hogy a tűzterjedés, füstfejlődés, égve csepegés kockázata minimális legyen.
+4.2.[^9] A tűzvédelmi jogszabályoknak megfelelő, tűzálló, működőképesség-megtartó kábeleket, kábelrendszereket kell alkalmazni. A működőképesség-megtartás követelményével nem érintett kábelek esetében a kábeleket úgy kell megválasztani, hogy a tűzterjedés, füstfejlődés, égve csepegés kockázata minimális legyen.
 
 4.3. A kábeleket úgy kell lefektetni, hogy túlmelegedés ne következzen be.
 
@@ -136,11 +136,11 @@ c) nem technológiai tűzszakasz esetében 1500 MJ/m2-nél nagyobb tűzterhelés
 
 6.1. A biztonsági rendszerek és rendszerelemek védelmének biztosítása érdekében az atomerőműnek megfelelő eszközökkel kell rendelkeznie, melyek képesek a tűz megfelelő ellenőrzés alatt tartására.
 
-6.2.[^9] A tűz megfelelő ellenőrzés alatt tartásán a beépített tűzjelző- és oltóberendezések alkalmazásának és a manuális tűzoltási képességnek a kombinációját kell érteni.
+6.2.[^10] A tűz megfelelő ellenőrzés alatt tartásán a beépített tűzjelző- és oltóberendezések alkalmazásának és a manuális tűzoltási képességnek a kombinációját kell érteni.
 
 6.3. A tűzjelző- és oltórendszerek tervezésének a tűzkockázat-elemzés eredményein kell alapulnia.
 
-6.4.[^10]
+6.4.[^11]
 
 6.5. A tűzjelzési és oltási funkcióknak az esetleges téves működésükkel, vagy az indokolt működésük elmaradásával a nukleáris biztonságra gyakorolt hatásuk szerint a 6.4–6.4.3. pontokban megfogalmazott követelményektől eltérő, szigorúbb előírásai is lehetnek. Ezeket a szigorításokat esetileg kell meghatározni a tűzkockázat-elemzéssel összhangban.
 
@@ -148,9 +148,9 @@ c) nem technológiai tűzszakasz esetében 1500 MJ/m2-nél nagyobb tűzterhelés
 
 6.7. Elfogadható a csak manuális indítású oltóberendezés beépítése, és az automatikus üzemmódra tervezett berendezés manuális üzemmódú üzemeltetése, amennyiben az indokolatlan működés bekövetkezhet és ez káros hatással lehet az atomerőmű biztonságára.
 
-6.8.[^11]
+6.8.[^12]
 
-6.9.[^12] A technológiai helyiségeket tartalmazó tűzszakaszoknak teljes körű tűzjelzéssel kell rendelkeznie. Másodlagos tűzszakaszok esetében a tűzjelzés kiépítésének szükségességét egyedileg kell megállapítani. Nem szükséges azokon a területeken érzékelőt elhelyezni, ahol a sugárzási viszonyok vagy a klimatikus viszonyok nem teszik lehetővé az éghető anyag paramétereinek megfelelő érzékelők telepítését.
+6.9.[^13] A technológiai helyiségeket tartalmazó tűzszakaszoknak teljes körű tűzjelzéssel kell rendelkeznie. Másodlagos tűzszakaszok esetében a tűzjelzés kiépítésének szükségességét egyedileg kell megállapítani. Nem szükséges azokon a területeken érzékelőt elhelyezni, ahol a sugárzási viszonyok vagy a klimatikus viszonyok nem teszik lehetővé az éghető anyag paramétereinek megfelelő érzékelők telepítését.
 
 6.10. A tűzjelző-érzékelők kiválasztásának meg kell felelnie az adott helyiség klimatikus és egyéb üzemi paramétereinek.
 
@@ -168,7 +168,7 @@ c) nem technológiai tűzszakasz esetében 1500 MJ/m2-nél nagyobb tűzterhelés
 
 6.17. A víz alapú oltórendszerrel felszerelt létesítmények padlóösszefolyó és víztelenítő rendszerét úgy kell kialakítani, hogy az megakadályozza a helyiség és az ott lévő berendezések elárasztását.
 
-6.18.[^13] Azon területekre telepített tűzjelző- és oltórendszerek esetében, melyekhez csak a technológia ütemezett, vagy üzemzavar miatti leállítását követően lehetséges a bejutás, a tűzjelző- és oltórendszerek felülvizsgálatára, karbantartására, javítására vonatkozó kötelezettségektől történő eltérést esetileg kell meghatározni a tűzkockázat-elemzéssel összhangban.
+6.18.[^14] Azon területekre telepített tűzjelző- és oltórendszerek esetében, melyekhez csak a technológia ütemezett, vagy üzemzavar miatti leállítását követően lehetséges a bejutás, a tűzjelző- és oltórendszerek felülvizsgálatára, karbantartására, javítására vonatkozó kötelezettségektől történő eltérést esetileg kell meghatározni a tűzkockázat-elemzéssel összhangban.
 
 7. Az építészeti tűzvédelmi dokumentáció tartalmi követelményei
 
@@ -178,13 +178,13 @@ c) nem technológiai tűzszakasz esetében 1500 MJ/m2-nél nagyobb tűzterhelés
 
 a) az építés, átalakítás, bővítés mértékében a tűzkockázat-elemzést,
 
-b)[^14] az alkalmazott passzív vagy reaktív tűzvédő rendszer, bevonat, burkolat karbantartására, felülvizsgálatára, felújítására, valamint az alkalmazása során betartandó technológiára vonatkozó terveket és műszaki leírásokat, amennyiben jogszabály követelményeket támaszt, ezen passzív vagy reaktív elemek ellenőrzési-karbantartási ciklusa alkalmazkodjon azon területekhez, ahol a sugárzási viszonyok, hőmérséklet vagy más technológiai okok miatt a terület kiszolgálása akadályokba ütközik.
+b)[^15] az alkalmazott passzív vagy reaktív tűzvédő rendszer, bevonat, burkolat karbantartására, felülvizsgálatára, felújítására, valamint az alkalmazása során betartandó technológiára vonatkozó terveket és műszaki leírásokat, amennyiben jogszabály követelményeket támaszt, ezen passzív vagy reaktív elemek ellenőrzési-karbantartási ciklusa alkalmazkodjon azon területekhez, ahol a sugárzási viszonyok, hőmérséklet vagy más technológiai okok miatt a terület kiszolgálása akadályokba ütközik.
 
 c) a technológiai tűzvédelmi leírást, amely tartalmazza a tervezéssel érintett helyiségekben a gépekkel, berendezésekkel, készülékekkel végzett tevékenység leírását, a tervezett technológia tűzvédelmi hatásait,
 
 d) a technológiában alkalmazásra kerülő, a technológia során keletkező anyagok tűzvédelmi jellemzőinek meghatározását (biztonsági adatlap vagy azzal egyenértékű dokumentáció szerinti tűzvédelmi jellemzők),
 
-e)[^15]
+e)[^16]
 
 f) a tűzkockázat-elemzés alapján a tűzjelző, a beavatkozó és a tűzoltórendszerek szükségességét és a tervezett rendszer követelményszintű ismertetését,
 
@@ -202,11 +202,11 @@ k) a sztatikus feltöltődés elleni védelem szükségességét, a védekezés 
 
 8.1. A tűzkockázat-elemzést determinisztikus alapon kell elkészíteni. Új atomerőművi blokk esetén a tűzkockázat-elemzés feladata felmérni a kockázatokat, megalapozni milyen műszaki-adminisztratív intézkedések szükségesek a tűzkockázat legalacsonyabb szinten tartásához. Működő atomerőművek esetén a tűzkockázat-elemzés feladata a meglévő tűzkockázat-elemzés figyelembe vételével a tervezett műszaki változások, átalakítások, állandó vagy ideiglenes módosítások a tűzkockázatra gyakorolt hatásának felmérése, a szükséges műszaki-adminisztratív intézkedések meghatározása annak érdekében, hogy kockázatnövekedés ne következzen be, valamint annak igazolása, hogy az atomerőmű megfelel az általános alapelvekben meghatározott tűzvédelmi, tűzbiztonsági kritériumoknak, a tűzvédelmi intézkedések megfelelnek a nukleáris biztonság és a sugárvédelem követelményeinek.
 
-8.2.[^16]
+8.2.[^17]
 
 8.3. A technológiai létesítmény tűzvédelmi tervezésének a tűzkockázat-elemzés által meghatározottakon kell alapulnia.
 
-8.4.[^17] A tűzkockázat-elemzést az új atomerőművi blokk tervezése során első alkalommal a rendelkezésre álló adatok alapján előzetes formában az építési engedélyezési dokumentáció részeként kell elvégezni, ezt követően a kiviteli tervek részeként, majd – üzemelő atomerőműre is vonatkoztatva – a biztonságra kiható átalakítások, valamint a kötelező biztonsági felülvizsgálatok során.
+8.4.[^18] A tűzkockázat-elemzést az új atomerőművi blokk tervezése során első alkalommal a rendelkezésre álló adatok alapján előzetes formában az építési engedélyezési dokumentáció részeként kell elvégezni, ezt követően a kiviteli tervek részeként, majd – üzemelő atomerőműre is vonatkoztatva – a biztonságra kiható átalakítások, valamint a kötelező biztonsági felülvizsgálatok során.
 
 8.5. A tűzkockázat-elemzés készítésének szempontjai:
 
@@ -252,7 +252,7 @@ o) a mélységi védelem elvének teljesülése.
 
 9.1. A tűzvédelmi rendszerek biztonsági osztályba sorolását a tervezési időszakban el kell végezni.
 
-9.2.[^18]
+9.2.[^19]
 
 9.3. A létesítményi tűzoltóság állományának rendelkeznie kell a feszültség alatti tűzoltáshoz szükséges, bevizsgált eszközökkel, valamint önleolvasós személyi doziméterekkel, továbbá ki kell képezni feszültség alatti tűzoltásra, és alapfokú sugárvédelmi képzésben kell részesülnie.
 
@@ -272,7 +272,7 @@ o) a mélységi védelem elvének teljesülése.
 
 10.6. A szabályozásnak ki kell terjednie a nyílt láng használatára, a hegesztési munkálatokra, különös tekintettel az atomerőmű biztonsági rendszereket tartalmazó területeire, helyiségeire.
 
-10.7.[^19] Az atomerőmű szabályozási rendszerében meg kell határozni a beépített tűzvédelmi berendezések, eszközök, készülékek időszakos ellenőrzésének, tesztelésének és karbantartásának követelményeit, összhangban a jogszabályi követelményekkel, valamint a Nukleáris Biztonsági Szabályzatokban meghatározott biztonsági normák előírásaival. Ahol jogszabály követelményeket támaszt, ezen ellenőrzési-karbantartási ciklus alkalmazkodjon azon területekhez, ahol a sugárzási viszonyok, hőmérséklet, vagy más technológiai okok miatt a terület kiszolgálása akadályokba ütközik.
+10.7.[^20] Az atomerőmű szabályozási rendszerében meg kell határozni a beépített tűzvédelmi berendezések, eszközök, készülékek időszakos ellenőrzésének, tesztelésének és karbantartásának követelményeit, összhangban a jogszabályi követelményekkel, valamint a Nukleáris Biztonsági Szabályzatokban meghatározott biztonsági normák előírásaival. Ahol jogszabály követelményeket támaszt, ezen ellenőrzési-karbantartási ciklus alkalmazkodjon azon területekhez, ahol a sugárzási viszonyok, hőmérséklet, vagy más technológiai okok miatt a terület kiszolgálása akadályokba ütközik.
 
 10.8. A tűzvédelmi szabályzatot munkahelyi szintre kell lebontani (munkahelyi tűzvédelmi szabályzat), amelyben az adott konkrét munkahelyre vonatkozó előírások jelennek meg.
 
@@ -428,7 +428,7 @@ c) nem technológiai tűzszakasz esetében 1500 MJ/m2-nél nagyobb tűzterhelés
 
 4.1. A kábelek tartószerkezeteinek A2 tűzvédelmi osztályba tartozónak kell lenniük.
 
-4.2.[^20] A tűzvédelmi jogszabályoknak megfelelő, tűzálló, működőképesség-megtartó kábeleket, kábelrendszereket kell alkalmazni. A működőképesség-megtartás követelményével nem érintett kábelek esetében a kábeleket úgy kell megválasztani, hogy a tűzterjedés, füstfejlődés, égve csepegés kockázata minimális legyen.
+4.2.[^21] A tűzvédelmi jogszabályoknak megfelelő, tűzálló, működőképesség-megtartó kábeleket, kábelrendszereket kell alkalmazni. A működőképesség-megtartás követelményével nem érintett kábelek esetében a kábeleket úgy kell megválasztani, hogy a tűzterjedés, füstfejlődés, égve csepegés kockázata minimális legyen.
 
 4.3. A kábeleket úgy kell lefektetni, hogy túlmelegedés ne következzen be.
 
@@ -478,7 +478,7 @@ c) nem technológiai tűzszakasz esetében 1500 MJ/m2-nél nagyobb tűzterhelés
 
 6.13. A víz alapú oltórendszerrel felszerelt létesítmények padlóösszefolyó és víztelenítő rendszerét úgy kell kialakítani, hogy az megakadályozza a helyiség és az ott lévő berendezések elárasztását.
 
-6.14.[^21] Azon területekre telepített tűzjelző- és oltórendszerek esetében, melyekhez csak a technológia ütemezett, vagy üzemzavar miatti leállítását követően lehetséges a bejutás, a tűzjelző- és oltórendszerek felülvizsgálatára, karbantartására, javítására vonatkozó kötelezettségektől történő eltérést esetileg kell meghatározni a tűzkockázat-elemzéssel összhangban.
+6.14.[^22] Azon területekre telepített tűzjelző- és oltórendszerek esetében, melyekhez csak a technológia ütemezett, vagy üzemzavar miatti leállítását követően lehetséges a bejutás, a tűzjelző- és oltórendszerek felülvizsgálatára, karbantartására, javítására vonatkozó kötelezettségektől történő eltérést esetileg kell meghatározni a tűzkockázat-elemzéssel összhangban.
 
 7. Építészeti tűzvédelmi dokumentáció tartalmi követelményei
 
@@ -512,7 +512,7 @@ k) a sztatikus feltöltődés elleni védelem szükségességét, a védekezés 
 
 8.1. A tűzkockázat-elemzést determinisztikus alapon kell elkészíteni. A tűzkockázat-elemzés feladata annak igazolása, hogy a kutatóreaktor megfelel az általános alapelvekben meghatározott tűzvédelmi, tűzbiztonsági kritériumoknak, valamint a tűzvédelmi intézkedések megfelelnek a nukleáris biztonság és a sugárvédelem követelményeinek.
 
-8.2.[^22]
+8.2.[^23]
 
 8.3. A technológiai létesítmény tűzvédelmének tervezésének a tűzkockázat-elemzés által meghatározottakon kell alapulnia.
 
@@ -650,7 +650,7 @@ b) a technológiai létesítményekben a tűzterhelésnek a lehető legalacsonya
 
 c) az éghető anyagok tárolása nem jelenthet veszélyt a biztonsági rendszerelemekre,
 
-d)[^23] legalább A2 tűzvédelmi osztályú építési terméket, építményszerkezetet kell alkalmazni – ideértve a hő- és hangszigeteléseket, bevonatokat és burkolatokat is – kivéve a dekontaminálhatóságot biztosító bevonatokat és vízszigeteléseket, valamint a kültéri vízszigeteléseket és homlokzati nyílászárókat, amelyek tűzkockázat-elemzéssel alátámasztottan, alacsonyabb tűzvédelmi osztályúak is lehetnek, továbbá a technológiához közvetlenül nem kapcsolódó létesítményekben tűzkockázat-elemzéssel alátámasztottan B tűzvédelmi osztályú építési termék, építményszerkezet is alkalmazható,
+d)[^24] legalább A2 tűzvédelmi osztályú építési terméket, építményszerkezetet kell alkalmazni – ideértve a hő- és hangszigeteléseket, bevonatokat és burkolatokat is – kivéve a dekontaminálhatóságot biztosító bevonatokat és vízszigeteléseket, valamint a kültéri vízszigeteléseket és homlokzati nyílászárókat, amelyek tűzkockázat-elemzéssel alátámasztottan, alacsonyabb tűzvédelmi osztályúak is lehetnek, továbbá a technológiához közvetlenül nem kapcsolódó létesítményekben tűzkockázat-elemzéssel alátámasztottan B tűzvédelmi osztályú építési termék, építményszerkezet is alkalmazható,
 
 e) a technológiai létesítményen belül a száraz transzformátorok alkalmazását kell előnyben részesíteni,
 
@@ -678,7 +678,7 @@ f) olyan villamos- és irányítástechnikai eszközöket kell előnyben részes
 
 4.1. A kábelek tartószerkezeteinek legalább A2 tűzvédelmi osztályúaknak kell lenniük.
 
-4.2.[^24] A tűzvédelmi jogszabályoknak megfelelő, tűzálló, működőképesség-megtartó kábeleket, kábelrendszereket kell alkalmazni. A működőképesség-megtartás követelményével nem érintett kábelek esetében a kábeleket úgy kell megválasztani, hogy a tűzterjedés, füstfejlődés, égve csepegés kockázata minimális legyen.
+4.2.[^25] A tűzvédelmi jogszabályoknak megfelelő, tűzálló, működőképesség-megtartó kábeleket, kábelrendszereket kell alkalmazni. A működőképesség-megtartás követelményével nem érintett kábelek esetében a kábeleket úgy kell megválasztani, hogy a tűzterjedés, füstfejlődés, égve csepegés kockázata minimális legyen.
 
 4.3. A kábeleket úgy kell lefektetni, hogy túlmelegedés ne következzen be.
 
@@ -714,7 +714,7 @@ f) olyan villamos- és irányítástechnikai eszközöket kell előnyben részes
 
 6.10. Az oltóanyag kiválasztása során követelmény, hogy az oltóanyag használata ne okozzon indokolatlan kockázatnövekedést, továbbá feleljen meg az adott terület biztonsági előírásainak is. Ezt az elvet a kézi tűzoltó eszközök kiválasztása során is érvényesíteni kell.
 
-6.11.[^25] Azon területekre telepített tűzjelző- és oltórendszerek esetében, melyekhez csak a technológia ütemezett, vagy üzemzavar miatti leállítását követően lehetséges a bejutás, a tűzjelző- és oltórendszerek felülvizsgálatára, karbantartására, javítására vonatkozó kötelezettségektől történő eltérést esetileg kell meghatározni a tűzkockázat-elemzéssel összhangban.
+6.11.[^26] Azon területekre telepített tűzjelző- és oltórendszerek esetében, melyekhez csak a technológia ütemezett, vagy üzemzavar miatti leállítását követően lehetséges a bejutás, a tűzjelző- és oltórendszerek felülvizsgálatára, karbantartására, javítására vonatkozó kötelezettségektől történő eltérést esetileg kell meghatározni a tűzkockázat-elemzéssel összhangban.
 
 7. Építészeti tűzvédelmi dokumentáció tartalmi követelményei
 
@@ -744,7 +744,7 @@ i) a sztatikus feltöltődés elleni védekezés szükségességét, a védekez�
 
 8.1. A tűzkockázat-elemzést determinisztikus alapon kell elkészíteni. A tűzkockázat-elemzés feladata, hogy igazolja, hogy a tároló megfelel az általános alapelvekben meghatározott tűzvédelmi, tűzbiztonsági kritériumoknak, valamint a tűzvédelmi intézkedések megfelelnek a nukleáris biztonság és a sugárvédelem követelményeinek.
 
-8.2.[^26]
+8.2.[^27]
 
 8.3. Technológiai létesítmény tűzvédelme tervezésének a tűzkockázat-elemzés által meghatározottakon kell alapulnia.
 
@@ -790,7 +790,7 @@ g) a kiegészítő tűzvédelem szükségessége.
 
 9.7. A tárolónak rendelkeznie kell eseti szabályzással a tűzkockázat-elemzés időszakos felülvizsgálatára.
 
-9.8.[^27] A tároló létesítmény üzemeltetéséhez a mélységi védelem és a tűzkockázat-elemzés figyelembevételével, a tűzbiztonság fenntartása érdekében elkészített tűzvédelmi szabályzatot folyamatosan karban kell tartani, és az abban foglaltak megtartását rendszeresen ellenőrizni.
+9.8.[^28] A tároló létesítmény üzemeltetéséhez a mélységi védelem és a tűzkockázat-elemzés figyelembevételével, a tűzbiztonság fenntartása érdekében elkészített tűzvédelmi szabályzatot folyamatosan karban kell tartani, és az abban foglaltak megtartását rendszeresen ellenőrizni.
 
 10. A tűzkockázat-elemzés időszakos felülvizsgálata
 
@@ -816,27 +816,27 @@ g) a kiegészítő tűzvédelem szükségessége.
 
 13.1. A kiégett nukleáris fűtőelemek átmeneti száraz tárolóiban keletkezett tűzesetek vizsgálata során keletkezett tűzvizsgálati iratokat a létesítmény saját belső vizsgálatához és a belső vizsgálatot követő jelentéséhez felhasználhatja.
 
-[^4]: Az 1. melléklet I. fejezet 2.4. pont d) alpontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^5]: Az 1. melléklet I. fejezet 2.4. pont i) alpontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^6]: Az 1. melléklet I. fejezet 3.7. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^7]: Az 1. melléklet I. fejezet 3.10. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^8]: Az 1. melléklet I. fejezet 4.2. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^9]: Az 1. melléklet I. fejezet 6.2. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^10]: Az 1. melléklet I. fejezet 6.4. pontját a 12/2017. (VI. 7.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
-[^11]: Az 1. melléklet I. fejezet 6.8. pontját a 12/2017. (VI. 7.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
-[^12]: Az 1. melléklet I. fejezet 6.9. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^13]: Az 1. melléklet I. fejezet 6.18. pontját a 12/2017. (VI. 7.) BM rendelet 3. §-a iktatta be.
-[^14]: Az 1. melléklet I. fejezet 7.2. pont b) alpontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^15]: Az 1. melléklet I. fejezet 7.2. pont e) alpontját a 12/2017. (VI. 7.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
-[^16]: Az 1. melléklet I. fejezet 8.2. pontját a 12/2017. (VI. 7.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
-[^17]: Az 1. melléklet I. fejezet 8.4. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^18]: Az 1. melléklet I. fejezet 9.2. pontját a 12/2017. (VI. 7.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
-[^19]: Az 1. melléklet I. fejezet 10.7. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^20]: Az 1. melléklet II. fejezet 4.2. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^21]: Az 1. melléklet II. fejezet 6.14. pontját a 12/2017. (VI. 7.) BM rendelet 3. §-a iktatta be.
-[^22]: Az 1. melléklet II. fejezet 8.2. pontját a 12/2017. (VI. 7.) BM rendelet 5. § b) pontja hatályon kívül helyezte.
-[^23]: Az 1. melléklet III. fejezet 2.3. pont d) alpontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^24]: Az 1. melléklet III. fejezet 4.2. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
-[^25]: Az 1. melléklet III. fejezet 6.11. pontját a 12/2017. (VI. 7.) BM rendelet 3. §-a iktatta be.
-[^26]: Az 1. melléklet III. fejezet 8.2. pontját a 12/2017. (VI. 7.) BM rendelet 5. § c) pontja hatályon kívül helyezte.
-[^27]: Az 1. melléklet III. fejezet 9.8. pontját a 12/2017. (VI. 7.) BM rendelet 3. §-a iktatta be.
+[^5]: Az 1. melléklet I. fejezet 2.4. pont d) alpontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet I. fejezet 2.4. pont i) alpontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet I. fejezet 3.7. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^8]: Az 1. melléklet I. fejezet 3.10. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet I. fejezet 4.2. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^10]: Az 1. melléklet I. fejezet 6.2. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet I. fejezet 6.4. pontját a 12/2017. (VI. 7.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^12]: Az 1. melléklet I. fejezet 6.8. pontját a 12/2017. (VI. 7.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^13]: Az 1. melléklet I. fejezet 6.9. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet I. fejezet 6.18. pontját a 12/2017. (VI. 7.) BM rendelet 3. §-a iktatta be.
+[^15]: Az 1. melléklet I. fejezet 7.2. pont b) alpontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet I. fejezet 7.2. pont e) alpontját a 12/2017. (VI. 7.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^17]: Az 1. melléklet I. fejezet 8.2. pontját a 12/2017. (VI. 7.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^18]: Az 1. melléklet I. fejezet 8.4. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^19]: Az 1. melléklet I. fejezet 9.2. pontját a 12/2017. (VI. 7.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^20]: Az 1. melléklet I. fejezet 10.7. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet II. fejezet 4.2. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet II. fejezet 6.14. pontját a 12/2017. (VI. 7.) BM rendelet 3. §-a iktatta be.
+[^23]: Az 1. melléklet II. fejezet 8.2. pontját a 12/2017. (VI. 7.) BM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^24]: Az 1. melléklet III. fejezet 2.3. pont d) alpontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^25]: Az 1. melléklet III. fejezet 4.2. pontja a 12/2017. (VI. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^26]: Az 1. melléklet III. fejezet 6.11. pontját a 12/2017. (VI. 7.) BM rendelet 3. §-a iktatta be.
+[^27]: Az 1. melléklet III. fejezet 8.2. pontját a 12/2017. (VI. 7.) BM rendelet 5. § c) pontja hatályon kívül helyezte.
+[^28]: Az 1. melléklet III. fejezet 9.8. pontját a 12/2017. (VI. 7.) BM rendelet 3. §-a iktatta be.
