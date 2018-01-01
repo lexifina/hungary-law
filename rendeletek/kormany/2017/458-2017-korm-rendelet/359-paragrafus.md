@@ -1,0 +1,1 @@
+## 358. § A Fertőszentmiklóson megvalósuló üvegipari beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 94/2017. (IV. 12.) Korm. rendelet [a továbbiakban: 94/2017. (IV. 12.) Korm. rendelet] 1. § (1) bekezdésében a „jogerős befejezését” szövegrész helyébe a „véglegessé válását” szöveg lép.

@@ -1,0 +1,3 @@
+## 235. § Hatályát veszti a Budapesti Vendéglátóipari és Humán Szakképzési Centrum Raoul Wallenberg Szakközépiskolája és Szakiskolája Budapest Rippl-Rónai utca 22. szám alatti ingatlanban történő elhelyezésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 79/2016. (IV. 11.) Korm. rendelet 3. §-a.
+
+## 144. A CSABAcast Könnyűfémöntöde Kft. Apc község területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 80/2016. (IV. 12.) Korm. rendelet módosítása

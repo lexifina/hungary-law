@@ -1,0 +1,1 @@
+## 299. § A Göd város infrastrukturális fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 348/2016. (XI. 17.) Korm. rendelet [a továbbiakban: 348/2016. (XI. 17.) Korm. rendelet] 1. § (1) bekezdés a) és b) pontjában a „jogerős befejezését” szövegrész helyébe a „véglegessé válását” szöveg lép.

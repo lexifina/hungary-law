@@ -1,0 +1,3 @@
+## 316. § A Budapest XI. kerületében K+F ingatlanfejlesztési beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 491/2016. (XII. 28.) Korm. rendelet [a továbbiakban: 491/2016. (XII. 28.) Korm. rendelet] 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A Kormány az építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások tekintetében az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet előírásaitól eltérően az 1. számú melléklet 1. pontja szerinti eljárások tekintetében Budapest Főváros XI. Kerület Újbuda Önkormányzatának jegyzőjét jelöli ki eljáró hatóságként.”

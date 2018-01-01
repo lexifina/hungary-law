@@ -1,0 +1,1 @@
+## 54. A Nemzeti Lovarda fejlesztésével kapcsolatos közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 460/2013. (XII. 4.) Korm. rendelete módosítása

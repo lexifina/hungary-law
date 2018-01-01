@@ -1,0 +1,1 @@
+## 206. A Nemzeti Ménesbirtok és Tangazdaság fejlesztésére irányuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 49/2017. (III. 17.) Korm. rendelet módosítása

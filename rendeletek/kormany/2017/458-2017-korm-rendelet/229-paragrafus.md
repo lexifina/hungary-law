@@ -1,0 +1,1 @@
+## 138. A Rácalmás városban megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 31/2016. (II. 25.) Korm. rendelet módosítása

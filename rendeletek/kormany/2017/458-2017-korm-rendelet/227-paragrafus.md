@@ -1,0 +1,1 @@
+## 226. § A HELL cégcsoport Szikszó területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 13/2016. (II. 9.) Korm. rendelet [a továbbiakban: 13/2016. (II. 9.) Korm. rendelet] 1. § (1) bekezdésében a „jogerős” szövegrész helyébe a „végleges” szöveg lép.

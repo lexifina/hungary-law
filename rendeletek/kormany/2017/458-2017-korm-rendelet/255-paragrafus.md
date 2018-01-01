@@ -1,0 +1,1 @@
+## 254. § A mezőkövesdi ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 151/2016. (VI. 13.) Korm. rendelet [a továbbiakban: 151/2016. (VI. 13.) Korm.rendelet] 1. § (1) bekezdésében a „jogerős” szövegrész helyébe a „végleges” szöveg lép.

@@ -1,0 +1,1 @@
+## 51. A Szigetszentmiklósi Járási Hivatal és egyéb állami szervek elhelyezésével összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 380/2013. (X. 25.) Korm. rendelet módosítása

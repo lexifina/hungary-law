@@ -1,0 +1,3 @@
+## 116. § A Környezet és Energia Operatív Program Egészséges, tiszta települések prioritás keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 508/2013. (XII. 29.) Korm. rendelet [a továbbiakban: 508/2013. (XII. 29.) Korm. rendelet] 2. §-a helyébe a következő rendelkezés lép:
+
+## „2. § Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a döntést, ha jogszabály rövidebb határidőt nem állapít meg, 25 napon belül meg kell hozni, a szakhatóságok tekintetében a szakhatósági állásfoglalás kibocsátásának határideje 10 nap.”

@@ -1,0 +1,3 @@
+## 394. § Hatályát veszti a budapesti Istenszülő elhunyta (Nagyboldogasszony) ortodox székesegyház felújításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 208/2017. (VII. 19.) Korm. rendelet 4. és 5. §-a.
+
+## 239. A Modern Városok Program keretében megvalósuló, az állami repülések céljára szolgáló kecskeméti repülőtér közös (katonai-polgári) felhasználású repülőtérré fejlesztése érdekében szükséges beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 242/2017. (VIII. 28.) Korm. rendelet módosítása

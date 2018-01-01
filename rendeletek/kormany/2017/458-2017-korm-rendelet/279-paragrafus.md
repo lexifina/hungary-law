@@ -1,0 +1,1 @@
+## 278. § A Hatvan városban megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 290/2016. (IX. 22.) Korm. rendelet [a továbbiakban: 290/2016. (IX. 22.) Korm. rendelet] 1. § (1) bekezdésében a „jogerős befejezését” szövegrész helyébe a „véglegessé válását” szöveg lép.

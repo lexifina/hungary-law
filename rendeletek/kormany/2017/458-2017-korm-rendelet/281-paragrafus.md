@@ -1,0 +1,1 @@
+## 280. § A Páty községben megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 291/2016. (IX. 22.) Korm. rendelet [a továbbiakban: 291/2016. (IX. 22.) Korm. rendelet] 1. § (1) bekezdésében a „jogerős befejezését” szövegrész helyébe a „véglegessé válását” szöveg lép.

@@ -1,0 +1,1 @@
+## 27. A Korányi Projekthez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 267/2012. (IX. 20.) Korm. rendelet módosítása

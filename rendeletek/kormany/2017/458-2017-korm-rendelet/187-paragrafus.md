@@ -1,0 +1,1 @@
+## 102. Az INTERSPAN Faipari Korlátolt Felelősségű Társaság Vásárosnaményban megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 102/2015. (IV. 20.) Korm. rendelet módosítása

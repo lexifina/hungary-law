@@ -1,0 +1,3 @@
+## 234. § Hatályát veszti a XIV. Nyári Európai Ifjúsági Olimpiai Fesztivál megrendezésével összefüggő infrastrukturális fejlesztésekre irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 55/2016. (III. 24.) Korm. rendelet 3. §-a.
+
+## 143. A Budapesti Vendéglátóipari és Humán Szakképzési Centrum Raoul Wallenberg Szakközépiskolája és Szakiskolája Budapest Rippl-Rónai utca 22. szám alatti ingatlanban történő elhelyezésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 79/2016. (IV. 11.) Korm. rendelet módosítása

@@ -1,0 +1,1 @@
+## 220. § A Gyöngyöshalászon megvalósuló ipari telephely létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 453/2015. (XII. 28.) Korm. rendelet [a továbbiakban: 453/2015. (XII. 28.) Korm. rendelet] 1. § (1) bekezdésében a „jogerős” szövegrész helyébe a „végleges” szöveg lép.

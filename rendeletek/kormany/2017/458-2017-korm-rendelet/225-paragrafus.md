@@ -1,0 +1,1 @@
+## 224. § A Miskolc Megyei Jogú Város keleti iparterület megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 493/2015. (XII. 30.) Korm. rendelet [a továbbiakban: 493/2015. (XII. 30.) Korm. rendelet] 1. § (1) bekezdésében a „jogerős” szövegrész helyébe a „végleges” szöveg lép.

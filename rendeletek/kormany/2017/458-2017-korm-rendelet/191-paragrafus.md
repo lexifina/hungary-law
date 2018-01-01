@@ -1,0 +1,3 @@
+## 190. § Hatályát veszti a Nemzeti Hauszmann-terv keretében a Budavári Palota épületegyütteshez kapcsolódó egykori lovarda, főőrségi épület, valamint a Stöckl-lépcső újjáépítésével összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 119/2015. (V. 14.) Korm. rendelet 3. § (1) és (4) bekezdése.
+
+## 106. A Budapest XII. kerületi Városmajori Gimnázium és Kós Károly Általános Iskolához csatlakozó tornaterem építésére irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 132/2015. (V. 27.) Korm. rendelet módosítása
