@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-69-20-0
 | 2015-02-17 | 2014-69-20-0A.2 | 2010: CXXX. törvény |
 | 2016-12-30 | 2014-69-20-0A.3 | 60/2016. (XII. 29.) BM rendelet |
 | 2017-01-01 | 2014-69-20-0A.4 | 58/2016. (XII. 22.) BM rendelet |
+| 2018-01-01 | 2014-69-20-0A.5 | 43/2017. (XII. 29.) BM rendelet |
