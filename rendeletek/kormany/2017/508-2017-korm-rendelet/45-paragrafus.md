@@ -1,0 +1,1 @@
+## 44. § Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben szabályozza a nemesfémvizsgáló és -hitelesítő hatóság fémjelzési, nemesfémtartalom-vizsgálati és -hitelesítési tevékenységéért, valamint az egyenértékűség-megállapítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét.
