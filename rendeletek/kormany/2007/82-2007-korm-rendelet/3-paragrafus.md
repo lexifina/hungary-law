@@ -4,7 +4,7 @@
 
 ## Költségvetési tervezés
 
-3. § (1)[^16] Az alapok támogatásával megvalósuló programokkal és intézkedésekkel összefüggő költségvetés tervezési feladatokat, kifizetési előrejelzéseket – a külön jogszabályoknak megfelelően – a mezőgazdasági és vidékfejlesztési támogatási szerv készíti el. Ennek keretében szakmai javaslatot tesz a fejezeti költségvetést érintő összes várható kiadásra és bevételre vonatkozóan, amely javaslatot az EU költségvetési keretek, valamint a nemzeti szakmai előrejelzések felhasználásával és azokkal összhangban állít össze a forrásgazda által meghatározott formában és bontásban:
+3. § (1)[^18] Az alapok támogatásával megvalósuló programokkal és intézkedésekkel összefüggő költségvetés tervezési feladatokat, kifizetési előrejelzéseket – a külön jogszabályoknak megfelelően – a mezőgazdasági és vidékfejlesztési támogatási szerv készíti el. Ennek keretében szakmai javaslatot tesz a fejezeti költségvetést érintő összes várható kiadásra és bevételre vonatkozóan, amely javaslatot az EU költségvetési keretek, valamint a nemzeti szakmai előrejelzések felhasználásával és azokkal összhangban állít össze a forrásgazda által meghatározott formában és bontásban:
 
 a) az EMVA és EHA bevételek,
 
@@ -20,4 +20,4 @@ e) az 1. § (2) bekezdésének d) pontja szerinti bevételek.
 
 (3) Az EMVA és az EHA támogatásával megvalósuló programok hazai társfinanszírozási kötelezettségeit kiemelten kell kezelni, amely nem jelenthet az érintett fejezet számára a költségvetési tervezés során meghatározott kereteken túli pótlólagos finanszírozási igényt.
 
-[^16]: A 3. § (1) bekezdés nyitó szövegrésze a 328/2016. (X. 28.) Korm. rendelet 9. § (9) bekezdés a) pontja szerint módosított szöveg.
+[^18]: A 3. § (1) bekezdés nyitó szövegrésze a 328/2016. (X. 28.) Korm. rendelet 9. § (9) bekezdés a) pontja szerint módosított szöveg.

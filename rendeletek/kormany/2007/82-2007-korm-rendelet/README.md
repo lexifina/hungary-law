@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-82-20-2
 | 2016-01-01 | 2007-82-20-22.12 | 273/2010. (XII. 9.) Korm. rendelet |
 | 2016-03-11 | 2007-82-20-22.13 | 45/2016. (III. 10.) Korm. rendelet |
 | 2017-01-01 | 2007-82-20-22.14 | 328/2016. (X. 28.) Korm. rendelet |
+| 2018-01-01 | 2007-82-20-22.15 | 481/2023. (X. 31.) Korm. rendelet |

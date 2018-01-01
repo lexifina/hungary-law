@@ -8,8 +8,8 @@
 
 a) ingó- és ingatlan jelzálogjog,
 
-b)[^85] az 1974/2006/EK bizottsági rendelet 56. cikk (2) bekezdése szerinti írásbeli kötelezvény,
+b)[^87] az 1974/2006/EK bizottsági rendelet 56. cikk (2) bekezdése szerinti írásbeli kötelezvény,
 
 c) garanciaszervezet által vállalt készfizető kezesség vagy garancia.
 
-[^85]: A 19. § (2) bekezdés b) pontja a 138/2010. (IV. 28.) Korm. rendelet 18. § h) pontja szerint módosított szöveg.
+[^87]: A 19. § (2) bekezdés b) pontja a 138/2010. (IV. 28.) Korm. rendelet 18. § h) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 5. §[^24] A mezőgazdasági és vidékfejlesztési támogatási szerv a pénzügyi lebonyolítási feladatai ellátása során
+## 5. §[^26] A mezőgazdasági és vidékfejlesztési támogatási szerv a pénzügyi lebonyolítási feladatai ellátása során
 
 a) az Integrált Igazgatási és Ellenőrzési Rendszer (IIER) keretében, gondoskodik olyan informatikai rendszer működtetéséről, amelyből naprakész információk nyerhetők ki a kötelezettségvállalási – megítélt támogatási összegek – kifizetési állomány nagyságáról (ügyfelenként, jogcímenként, intézkedésenként és programszinten, továbbá az irányító hatóság által előírt más bontásokban);
 
@@ -30,4 +30,4 @@ n) vezeti az alapokra vonatkozó számviteli nyilvántartásokat – beleértve 
 
 o) ellenőrzi, hogy az ügyfél betartja-e a közösség de minimis rendelkezéseit.
 
-[^24]: Az 5. § a 328/2016. (X. 28.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^26]: Az 5. § a 328/2016. (X. 28.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
