@@ -14,6 +14,6 @@ megfelelő forintösszeg.
 
 (3) A támogatás forintösszege a folyósítás évének január 1-jén érvényes Európai Központi Bank (EKB) által rögzített árfolyamon kerül kifizetésre.
 
-(4)[^5] A vállalt EUME méretet a működtetési időszak egésze alatt a támogatási kérelembenyújtás évének január 1-jén érvényes Európai Központi Bank (EKB) által rögzített árfolyamon és a 6. számú mellékletben meghatározott SFH értékek alapján kell figyelembe venni.
+(4)[^6] A vállalt EUME méretet a működtetési időszak egésze alatt a támogatási kérelembenyújtás évének január 1-jén érvényes Európai Központi Bank (EKB) által rögzített árfolyamon és a 6. számú mellékletben meghatározott SFH értékek alapján kell figyelembe venni.
 
-[^5]: A 3. § (4) bekezdése a 17/2012. (II. 29.) VM rendelet 27. §-ával megállapított szöveg.
+[^6]: A 3. § (4) bekezdése a 17/2012. (II. 29.) VM rendelet 27. §-ával megállapított szöveg.

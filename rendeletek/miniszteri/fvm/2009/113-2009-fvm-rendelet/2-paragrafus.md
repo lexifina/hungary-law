@@ -14,11 +14,11 @@
 
 5.[^2] főtevékenység: az egyéni vállalkozói nyilvántartásban főtevékenységként megjelölt, 4. pont szerinti mezőgazdasági tevékenység;
 
-6. működtetési időszak: az e rendelet szerinti támogatási kérelmet jóváhagyó határozat jogerőre emelkedését követő évtől számított ötödik naptári év végéig terjedő időszak;
+6.[^3] működtetési időszak: az e rendelet szerinti támogatási kérelmet jóváhagyó határozat véglegessé válását követő évtől számított ötödik naptári év végéig terjedő időszak;
 
-7.[^3] mezőgazdasági tevékenységből származó bevétel: a mezőgazdasági tevékenységet folytató gazdálkodó gazdaságából – a növénytermesztés, kertészet, és állattenyésztés ágazataiból – kikerült termékek értékesítéséből származó bevételek összege;
+7.[^4] mezőgazdasági tevékenységből származó bevétel: a mezőgazdasági tevékenységet folytató gazdálkodó gazdaságából – a növénytermesztés, kertészet, és állattenyésztés ágazataiból – kikerült termékek értékesítéséből származó bevételek összege;
 
-8.[^4] EUME számítás alapjául szolgáló állatlétszám: napi állományadatok éves átlaga alapján számított állatlétszám, amelyet a Magyar Államkincstár (a továbbiakban: Kincstár) a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet [a továbbiakban: 119/2007. (X. 18.) FVM rendelet] alapján vezetett nyilvántartásokból ellenőriz;
+8.[^5] EUME számítás alapjául szolgáló állatlétszám: napi állományadatok éves átlaga alapján számított állatlétszám, amelyet a Magyar Államkincstár (a továbbiakban: Kincstár) a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet [a továbbiakban: 119/2007. (X. 18.) FVM rendelet] alapján vezetett nyilvántartásokból ellenőriz;
 
 9. termelői csoport: a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet alapján elismert termelői csoport;
 
@@ -30,5 +30,6 @@
 
 [^1]: A 2. § (1) bekezdés 4. pontja a 23/2010. (III. 16.) FVM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdés 5. pontja a 23/2010. (III. 16.) FVM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1) bekezdés 7. pontja a 23/2010. (III. 16.) FVM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdés 8. pontja a 35/2017. (XII. 27.) MvM rendelet 2. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 6. pontja a 37/2017. (XII. 27.) MvM rendelet 17. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 7. pontja a 23/2010. (III. 16.) FVM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés 8. pontja a 35/2017. (XII. 27.) MvM rendelet 2. § a) pontja szerint módosított szöveg.

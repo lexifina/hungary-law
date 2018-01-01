@@ -74,6 +74,6 @@
 
 | MINDÖSSZESEN: | max. 170 pont |
 
-6. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^55]
+6. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^56]
 
-[^55]: A 6. számú melléklet a 124/2009. (IX. 24.) FVM rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^56]: A 6. számú melléklet a 124/2009. (IX. 24.) FVM rendelet 27. § (2) bekezdése szerint módosított szöveg.

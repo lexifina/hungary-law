@@ -1,5 +1,5 @@
-## 5. §[^15]
+## 5. §[^16]
 
 ## A kérelem elbírálása
 
-[^15]: Az 5. §-t a 74/2011. (VII. 29.) VM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^16]: Az 5. §-t a 74/2011. (VII. 29.) VM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
