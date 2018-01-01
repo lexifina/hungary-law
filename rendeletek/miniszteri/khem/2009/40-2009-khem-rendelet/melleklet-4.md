@@ -1,6 +1,6 @@
 4. melléklet a 40/2009. (VIII. 31.) KHEM rendelethez
 
-Az oktatásra vonatkozó részletes szabályok[^19]
+## Az oktatásra vonatkozó részletes szabályok[^19]
 
 ## I.[^20]
 

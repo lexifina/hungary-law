@@ -1,3 +1,5 @@
+## A gépek gépcsoportba sorolása
+
 | I. | FÖLDMUNKAGÉPEK |
 
 |  | 11 | Univerzális földmunkagépek |
@@ -120,7 +122,7 @@
 
 3. melléklet a 40/2009. (VIII. 31.) KHEM rendelethez
 
-Gépkezelői szaktanfolyam szervezésének tárgyi feltételei[^17]
+## Gépkezelői szaktanfolyam szervezésének tárgyi feltételei[^17]
 
 1.[^18]
 
