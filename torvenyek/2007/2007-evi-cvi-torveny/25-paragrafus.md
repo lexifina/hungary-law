@@ -4,7 +4,7 @@ a) csőd- vagy felszámolási eljárás, végelszámolás, önkormányzati adós
 
 b) tevékenységét felfüggesztette vagy akinek tevékenységét felfüggesztették;
 
-c) az adózás rendjéről szóló 2003. évi XCII. törvény 178. §-ának 20. pontja szerinti, hatvan napnál régebben lejárt esedékességű köztartozással rendelkezik;
+c) az adózás rendjéről szóló törvény szerinti, hatvan napnál régebben lejárt esedékességű köztartozással rendelkezik;
 
 d) az alábbi bűncselekmények elkövetése miatt büntetett előéletű:
 
