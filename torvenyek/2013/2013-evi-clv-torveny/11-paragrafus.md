@@ -8,7 +8,7 @@ a) a támogatott személy természetes személyazonosító adatai és lakcíme,
 
 b) a támogató kirendeléséről szóló jogerős határozat ügyszáma,
 
-c) a támogató kirendeléséről rendelkező határozat jogerőre emelkedésének napja,
+c) a támogató kirendeléséről rendelkező határozat véglegessé válásának napja,
 
 d) a támogató természetes személyazonosító adatai, lakcíme,
 

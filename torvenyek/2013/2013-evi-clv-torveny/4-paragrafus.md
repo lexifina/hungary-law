@@ -2,7 +2,7 @@
 
 4. § (1) A támogató, ha a támogatott döntéshozatal általános jelleggel vagy az adott ügycsoportra tekintettel fennáll, a támogatott személy kérésére
 
-a) a közigazgatási hatósági eljárás általános szabályairól szóló törvényben, a polgári perrendtartásról szóló törvényben és a büntetőeljárásról szóló törvényben meghatározottak szerint jelen van azoknál a közigazgatási, polgári és büntetőeljárási cselekményeknél, amelyekben a támogatott személy érintett,
+a) az általános közigazgatási rendtartásról szóló törvényben, a polgári perrendtartásról szóló törvényben és a büntetőeljárásról szóló törvényben meghatározottak szerint jelen van azoknál a közigazgatási, polgári és büntetőeljárási cselekményeknél, amelyekben a támogatott személy érintett,
 
 b) az eljárási cselekmény rendjét meg nem zavaró módon a támogatott személlyel egyeztet,
 
