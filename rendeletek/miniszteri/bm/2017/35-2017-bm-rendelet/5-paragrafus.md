@@ -1,0 +1,1 @@
+## „(3) A minisztérium továbbképzéssel kapcsolatos feladatokat ellátó szervezeti egysége a továbbképzések és az éves továbbképzési tervek végrehajtása és értékelése alapján éves összefoglaló jelentést készít, amelyet a 4. § (5) bekezdés f) pontjában meghatározottak szerint a Kollégium útján felterjeszt a miniszternek.”

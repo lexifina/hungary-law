@@ -1,0 +1,1 @@
+## „(4c) A hivatásos állomány tagjának a továbbképzési időszak egyes éveiben kötelező megszereznie a továbbképzési időszakban teljesítendő összes továbbképzési pont legalább 15%-át úgy, hogy a továbbképzési időszak harmadik éve végére a továbbképzési időszakban teljesítendő összes továbbképzési pont legalább 75%-át elérje.”

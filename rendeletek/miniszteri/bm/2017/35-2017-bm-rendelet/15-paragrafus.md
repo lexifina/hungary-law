@@ -1,0 +1,1 @@
+## „(5a) Ha a bejelentés-köteles továbbképzési program nyilvántartásba vételére irányuló eljárás során a miniszter megállapítja, hogy az nem minősül továbbképzésnek, a nyilvántartásba vételt elutasítja.”
