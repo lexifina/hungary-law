@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-292-20-
 | 2015-04-01 | 2008-292-20-22.10 | 70/2015. (III. 30.) Korm. rendelet |
 | 2017-01-01 | 2008-292-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-07-18 | 2008-292-20-22.12 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2008-292-20-22.13 | 41/2013. (II. 14.) Korm. rendelet |

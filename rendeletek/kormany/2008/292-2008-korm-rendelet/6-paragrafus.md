@@ -28,9 +28,10 @@ i) az átadás dátumát, valamint hiteles aláírást.
 
 a) a Pest Megyei Kormányhivatal természetvédelmi hatáskörében eljáró Érdi Járási Hivatala a 2004. november 22. napját megelőzően az igazgatási hatóság által nyilvántartott példányok esetében, ha tenyésztői bizonylat, származási igazolás, EU-bizonylat, valamint a tanácsi rendelet 4. cikke szerinti importengedély, 5. cikke szerinti exportengedély és re-export bizonylat nem került kiadásra, valamint
 
-b) a területi természetvédelmi hatóság a lefoglalt, illetve elkobzott példányok esetében.
+b)[^17] a területi természetvédelmi hatóság a lefoglalt vagy zár alá vett, illetve elkobzott példányok esetében.
 
 [^13]: A 6. § (1) bekezdése a 217/2011. (X. 19.) Korm. rendelet 8. § c) pontja, a 322/2011. (XII. 27.) Korm. rendelet 12. §-a, a 379/2016. (XII. 2.) Korm. rendelet 123. § (4) bekezdés c) és d) pontja szerint módosított szöveg.
 [^14]: A 6. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 123. § (4) bekezdés c) pontja szerint módosított szöveg.
 [^15]: A 6. § (3) bekezdés f) pontja a 217/2011. (X. 19.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^16]: A 6. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 123. § (3) bekezdésével megállapított szöveg.
+[^17]: A 6. § (4) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 228. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

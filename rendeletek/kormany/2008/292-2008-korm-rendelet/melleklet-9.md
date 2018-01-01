@@ -10,7 +10,7 @@
 
 ## 4. A faj tudományos neve
 
-## 5.[^61] Eredetkód a 865/2006/EK bizottsági rendelet IX. melléklete alapján
+## 5.[^65] Eredetkód a 865/2006/EK bizottsági rendelet IX. melléklete alapján
 
 ## 6. A származási ország kétbetűs ISO kódja
 
@@ -40,7 +40,7 @@
 
 ## 8. A termékek kaviártartalma százalékban.
 
-9. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^62]
+9. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^66]
 
 A kaviár feldolgozása, csomagolása, illetve átcsomagolása iránti kérelem tartalma
 
@@ -86,5 +86,5 @@ Dátum:
 
 Aláírás:
 
-[^61]: A 8. számú melléklet A) pont 5. alpontja a 217/2011. (X. 19.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^62]: A 9. számú mellékletet a 41/2013. (II. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^65]: A 8. számú melléklet A) pont 5. alpontja a 217/2011. (X. 19.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^66]: A 9. számú mellékletet a 41/2013. (II. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be.
