@@ -1,4 +1,4 @@
-24/A. §[^16] (1) A hivatásos állomány tagja jogosult a fogászati ellátással kapcsolatban felmerült költségeinek a társadalombiztosítási jogviszony alapján meg nem térülő része megtérítésére (a továbbiakban: fogászati költségtérítés). Nincs helye fogászati költségtérítésnek, ha a szolgáltatás a kötelező egészségbiztosítási ellátások keretében térítésmentesen is igénybe vehető. Ha a társadalombiztosítás keretében térítésmentesen igénybe vehető fogászati ellátások igénybevételére az ilyen ellátásokat térítés ellenében nyújtó egészségügyi szolgáltatónál kerül sor, a felmerülő költségek a hivatásos állomány tagját terhelik.
+24/A. §[^24] (1) A hivatásos állomány tagja jogosult a fogászati ellátással kapcsolatban felmerült költségeinek a társadalombiztosítási jogviszony alapján meg nem térülő része megtérítésére (a továbbiakban: fogászati költségtérítés). Nincs helye fogászati költségtérítésnek, ha a szolgáltatás a kötelező egészségbiztosítási ellátások keretében térítésmentesen is igénybe vehető. Ha a társadalombiztosítás keretében térítésmentesen igénybe vehető fogászati ellátások igénybevételére az ilyen ellátásokat térítés ellenében nyújtó egészségügyi szolgáltatónál kerül sor, a felmerülő költségek a hivatásos állomány tagját terhelik.
 
 (2) A hivatásos állomány tagja akkor jogosult fogászati költségtérítésre, ha legalább 6 hónap szolgálati viszonyban töltött idővel rendelkezik.
 
@@ -14,4 +14,4 @@
 
 (8) Az Országgyűlési Őrség parancsnoka a kérelem alapján, a fogászati ellátást végző fogorvos igazolásának és a részletes számlának a benyújtását követő 30 napon belül intézkedik a kifizetésről.
 
-[^16]: A 24/A. §-t a 49/2013. (VIII. 27.) BM rendelet 3. §-a iktatta be.
+[^24]: A 24/A. §-t a 49/2013. (VIII. 27.) BM rendelet 3. §-a iktatta be.

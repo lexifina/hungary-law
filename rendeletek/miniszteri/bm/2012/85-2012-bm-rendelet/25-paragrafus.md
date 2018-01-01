@@ -1,4 +1,4 @@
-## 9. [^21] Lakhatási támogatás
+## 9. [^29] Lakhatási támogatás
 
 25. § (1) Ezen alcím alkalmazásában:
 
@@ -20,4 +20,4 @@
 
 (3) Ezen alcím alkalmazásában a lakástulajdonnal egy tekintet alá esik a hivatásos állomány tagja, vagy a vele együttköltöző családtagja által gazdasági társaság tagjaként a társaság részére vagyoni hozzájárulásként rendelkezésre bocsátott lakás, valamint az építési és használatbavételi, fennmaradási engedélyben meghatározott céltól vagy a rendeltetésétől tartósan eltérő célra használható lakás.
 
-[^21]: A 9. alcím (25–57. §) a 47/2016. (XI. 23.) BM rendelet 13. §-ával megállapított szöveg.
+[^29]: A 9. alcím (25–57. §) a 47/2016. (XI. 23.) BM rendelet 13. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 6. [^13] Ideiglenes külföldi kiküldetés és költségtérítés
+## 6. [^21] Ideiglenes külföldi kiküldetés és költségtérítés
 
 19. § (1) Ezen alcím rendelkezéseit kell alkalmazni a három hónapot nem meghaladó tartamú külföldi szolgálatteljesítés (a továbbiakban: ideiglenes külföldi kiküldetés) során felmerült és elszámolható költségek megtérítésére.
 
@@ -16,4 +16,4 @@ c) az utazási költséget,
 
 d) a kiküldetéshez kapcsolódó egyéb dologi költségeket.
 
-[^13]: A 6. alcím (19–19/E. §) a 35/2015. (VI. 16.) BM rendelet 5. §-ával megállapított szöveg.
+[^21]: A 6. alcím (19–19/E. §) a 35/2015. (VI. 16.) BM rendelet 5. §-ával megállapított szöveg.

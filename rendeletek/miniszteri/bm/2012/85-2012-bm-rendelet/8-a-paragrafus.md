@@ -1,4 +1,4 @@
-## 2/A. [^3] A túlszolgálat pénzbeni ellentételezése
+## 2/A. [^11] A túlszolgálat pénzbeni ellentételezése
 
 8/A. § (1) A jogszabályban meghatározottak szerint elrendelt és nyilvántartott, a tárgy hónapban teljesített túlszolgálat idejére járó távolléti díj kiszámításakor teljesített túlszolgálat percben kiszámított idejét össze kell adni. A teljesített túlszolgálatot órában és percben meg kell állapítani úgy, hogy amennyiben a teljes óra feletti maradék idő harminc percnél kevesebb, fél óraként, amennyiben több, azt teljes óraként kell figyelembe venni.
 
@@ -8,4 +8,4 @@
 
 (4) Ha a hivatásos állomány tagja a Hszt. 72. §-a szerinti célfeladat végrehajtásában vesz részt, e tevékenysége nem minősül túlszolgálatnak.
 
-[^3]: A 2/A. alcímet (8/A. §) a 35/2015. (VI. 16.) BM rendelet 2. §-a iktatta be.
+[^11]: A 2/A. alcímet (8/A. §) a 35/2015. (VI. 16.) BM rendelet 2. §-a iktatta be.
