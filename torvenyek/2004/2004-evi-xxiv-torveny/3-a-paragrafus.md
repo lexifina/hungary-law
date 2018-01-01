@@ -22,7 +22,7 @@ c) a b) pontban meghatározott bűncselekmény elkövetésének megalapozott gya
 
 d) szabálysértési felelősségét polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértés, lőfegyverrel kapcsolatos szabálysértés, a közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 169. § (2) bekezdés a) pontja szerinti rendzavarás, közbiztonsági tevékenység jogosulatlan végzése, számszeríj, szigonypuska jogellenes használata, veszélyes fenyegetés vagy jogosulatlan vadászat elkövetése miatt a szabálysértési hatóság jogerősen megállapította, a határozat jogerőre emelkedését követő hat hónapig,
 
-e) az engedély kiadására vonatkozó kérelmében valótlan adatot közöl, a kérelemmel összefüggő valós adatot elhallgat vagy a fegyverre, lőszerre (töltényre) lőszerelemre, lőtérre vonatkozó, jogszabályban meghatározott kötelezettségét súlyosan megszegi, a kérelem benyújtását vagy – ha ezen ok miatt az engedély visszavonása iránt eljárás indul – az engedélyt visszavonó határozat jogerőre emelkedését követő hat hónapig.
+e) az engedély kiadására vonatkozó kérelmében valótlan adatot közöl, a kérelemmel összefüggő valós adatot elhallgat vagy a fegyverre, lőszerre (töltényre) lőszerelemre, lőtérre vonatkozó, jogszabályban meghatározott kötelezettségét súlyosan megszegi, a kérelem benyújtását vagy – ha ezen ok miatt az engedély visszavonása iránt eljárás indul – az engedély visszavonásáról szóló döntés véglegessé válását követő hat hónapig.
 
 (3)
 
@@ -36,9 +36,9 @@ meghatározott körülményre vonatkozó adatokat átveszi és kezeli.
 
 (5) A (4) bekezdésben foglaltak alapján megismert személyes adatokat a rendőrség
 
-a) a 3. §-ban meghatározott engedély megadása iránti eljárás jogerős befejezéséig,
+a) a 3. §-ban meghatározott engedély megadása iránti eljárás során hozott döntés véglegessé válásáig,
 
-b) a 3. §-ban meghatározott engedély megadása esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+b) a 3. §-ban meghatározott engedély megadása esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárás során hozott döntés véglegessé válásáig
 
 kezeli.
 

@@ -24,7 +24,7 @@ f) a polgári rendeltetésű lőtér, a lőfegyver- és lőszertárolóhely üze
 
 (3a) Lőfegyver filmgyártási célra történő tartása kizárólag a Kormány rendeletében meghatározott feltételeknek megfelelő szervezet részére engedélyezhető. A filmgyártási célú lőfegyver tartására jogosult szervezet vaktöltény gyártására jogosult tagja az engedélyezett fegyverhez tartozó vaktöltényt külön engedély nélkül készíthet.
 
-(4) A lőfegyver vagy lőszer kereskedelmi célú behozatalának, kivitelének, illetve átszállításának engedélyezése iránti kérelem elbírálása során a szakhatósági közreműködés rendjét kormányrendelet határozza meg.
+(4)
 
 (5) Lőfegyvernek az Európai Unió valamely tagállamába történő – nem kereskedelmi vagy elidegenítési célú – kiviteléhez a rendőrség által kiadott európai lőfegyvertartási engedély szükséges. Európai lőfegyvertartási engedély a lőfegyver tartására jogosult természetes személynek adható.
 

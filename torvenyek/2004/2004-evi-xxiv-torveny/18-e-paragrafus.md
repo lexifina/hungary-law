@@ -14,7 +14,7 @@ b) engedéllyel nem rendelkező vállalkozással vagy a biztonsági követelmén
 
 (6) Nincs helye felügyeleti bírság kiszabásának, ha a cselekmény elkövetése vagy a folyamatos jogsértő magatartás befejezése óta két év eltelt.
 
-(7) Ha másodfokú határozat, illetve a bíróság határozata az eljáró hatóságot új eljárás lefolytatására utasítja, a kétéves határidőt a másodfokú határozat, illetve a bíróság határozatának jogerőre emelkedése napjától kell számítani.
+(7) Ha másodfokú határozat, illetve a bíróság határozata az eljáró hatóságot új eljárás lefolytatására utasítja, a kétéves határidőt a másodfokú határozat véglegessé válása, illetve a bíróság határozatának jogerőre emelkedése napjától kell számítani.
 
 (8) Ha a szabályszegés jogellenes állapot előidézésével, illetve fenntartásával valósul meg, az elévülési határidő mindaddig nem kezdődik el, amíg a jogellenes állapot fennáll.
 

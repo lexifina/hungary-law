@@ -1,0 +1,1 @@
+18/G. § A 18/B. § (1) bekezdése szerinti közigazgatási hatósági ügyel összefüggésben zár alá vett dolog nem adható ki annak, aki nem rendelkezik a birtoklásához szükséges, illetve az arra jogosító hatósági engedéllyel.

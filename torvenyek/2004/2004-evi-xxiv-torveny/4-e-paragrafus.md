@@ -1,0 +1,1 @@
+4/E. § A 3. § (1) bekezdése szerinti közigazgatási hatósági üggyel összefüggésben zár alá vett dolog nem adható ki annak, aki nem rendelkezik a tartásához szükséges, illetve a birtoklására jogosító hatósági engedéllyel.
