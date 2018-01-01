@@ -12,7 +12,7 @@ d) az akkreditált tevékenységet és tevékenységi területet,
 
 e) az akkreditált státusz kezdeti és lejárati időpontját,
 
-f) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet akkreditált státuszának részleges vagy teljes felfüggesztésére, részleges vagy teljes körű visszavonására vonatkozó információkat,
+f) az akkreditált státusz részleges vagy teljes felfüggesztésére, részleges vagy teljes körű visszavonására vonatkozó információkat,
 
 g) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezetek tekintetében azokat a tagállamokat, amelyekben a hitelesítő szervezet hitelesítést végez és
 

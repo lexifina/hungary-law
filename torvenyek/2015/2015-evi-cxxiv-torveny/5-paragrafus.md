@@ -12,7 +12,7 @@ e) terméktanúsító szervezet,
 
 f) irányítási rendszereket tanúsító szervezet,
 
-g) személyzettanúsító szervezet,
+g) személytanúsító szervezet,
 
 h) ellenőrző szervezet, a hatóságok kivételével,
 

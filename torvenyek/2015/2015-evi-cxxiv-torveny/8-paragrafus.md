@@ -22,7 +22,7 @@ b) részlegesen vagy teljeskörűen felfüggeszti, vagy
 
 c) részlegesen vagy teljeskörűen visszavonja.
 
-(9) A felügyeleti vizsgálat jogerős lezárásáig az akkreditált státusz érvényes.
+(9) A felügyeleti vizsgálat végleges lezárásáig az akkreditált státusz érvényes.
 
 (10) Ha az akkreditáló szerv az akkreditált státuszt részlegesen vagy teljeskörűen felfüggeszti, részlegesen vagy teljeskörűen visszavonja, vagy az akkreditált szervezet vagy természetes személy kérelmére az akkreditált területet szűkíti, erről a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott, feladatkörrel rendelkező kijelölő hatóságot értesíti. A felügyeleti vizsgálat, illetve a rendkívüli felügyeleti vizsgálat eredményeit az akkreditáló szerv a feladatkörrel rendelkező kijelölő hatóságnak megküldi.
 
