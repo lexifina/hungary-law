@@ -1,4 +1,4 @@
-1. melléklet a 32/2001. (IX. 28.) KöViM rendelethez[^2]
+1. melléklet a 32/2001. (IX. 28.) KöViM rendelethez[^13]
 
 | [Légiközlekedési hatóság megnevezése] [Name of the competent civil aviation authority] |
 
@@ -44,4 +44,4 @@
 
 | Other notes and restrictions: |
 
-[^2]: A melléklet megjelölését 1. mellékletre változtatta és szövegét megállapította az 1/2017. (I. 3.) NFM rendelet 23. §-a.
+[^13]: A melléklet megjelölését 1. mellékletre változtatta és szövegét megállapította az 1/2017. (I. 3.) NFM rendelet 23. §-a.
