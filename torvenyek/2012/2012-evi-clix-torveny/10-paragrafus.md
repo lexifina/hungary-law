@@ -32,7 +32,7 @@ g) a 8. § (3) bekezdés f) pontja szerinti szolgáltatás nyújtása esetén az
 
 h) a bejelentő által igénybe venni kívánt közreműködők nevét, elnevezését, vállalkozás esetén azok cégjegyzékszámát, más hivatalos nyilvántartási vagy azonosító számát és székhelyét annak feltüntetésével, hogy a közreműködő a postai küldemények felvétele, gyűjtése, szállítása, feldolgozása vagy kézbesítése körében jár el;
 
-i) a rendezett munkaügyi kapcsolatok feltételeiről és igazolásának módjáról szóló jogszabályban a rendezett munkaügyi kapcsolatokra vonatkozó feltételek teljesítésének igazolását.
+i)
 
 (4) A Hatóság a bejelentéshez mellékelt dokumentumokban foglaltak valódiságát – szükség esetén az általa megkeresett szervek útján – ellenőrzi.
 
@@ -42,7 +42,7 @@ i) a rendezett munkaügyi kapcsolatok feltételeiről és igazolásának módjá
 
 a) a bejelentő nem szerepel a Nemzeti Adó- és Vámhivatal internetes honlapján megtalálható köztartozásmentes adózói adatbázisban, vagy
 
-b) a bejelentő nem igazolja a rendezett munkaügyi kapcsolatok feltételeiről és igazolásának módjáról szóló jogszabályban a rendezett munkaügyi kapcsolatokra vonatkozó feltételek teljesítését, vagy
+b) a bejelentő munkaügyi kapcsolatai nem rendezettek, vagy
 
 c) a bejelentésben foglalt adatok és a bejelentéshez csatolt általános szerződési feltételek alapján megállapítható, hogy a bejelentett postai szolgáltatás engedély alapján lenne nyújtható.
 

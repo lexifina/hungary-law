@@ -22,9 +22,9 @@ b) meghatározza a jogsértések megelőzésével, az önkéntes jogkövetés el
 
 (9) A piacfelügyeleti eljárást – ideértve a piacfelügyeleti terv alapján indítandó piacfelügyeleti eljárást is – megelőzheti piacfelügyeleti ellenőrzés.
 
-(10) A piacfelügyeleti ellenőrzésre a Ket. hatósági ellenőrzésre vonatkozó rendelkezései irányadók, azzal, hogy amennyiben a Hatóság a piacfelügyeleti ellenőrzés eredményeként nem állapít meg jogszabálysértést vagy eljárás megindítására, kezdeményezésére okot adó tényt, körülményt, akkor a Hatóság – saját hatásköre keretében – e döntést az ügyiratra feljegyzi és egyéb eljárási cselekményt nem tesz.
+(10) A piacfelügyeleti ellenőrzés az e törvényben foglalt eltérésekkel és kiegészítésekkel az Ákr. szerinti hatósági ellenőrzésnek minősül.
 
-(11) A (10) bekezdésben foglalt ügyiratra feljegyzett döntés tartalmáról a Hatóság hivatalos levél formájában értesíti az ellenőrzés alá vont ügyfelet.
+(11)
 
 (12) A piacfelügyeleti ellenőrzés eredményeként, hatósági hatásköre keretében a Hatóság felhívhatja az ügyfelet – a jogszabály vagy a hatósági határozat megsértésének pontos megjelölésével – a jogszabály vagy a hatósági határozat megsértésének megszüntetésére és szükség esetén az eredeti állapot helyreállítására.
 

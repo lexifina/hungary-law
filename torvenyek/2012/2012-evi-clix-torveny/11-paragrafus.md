@@ -34,6 +34,6 @@ c) az engedélyezési eljárás megindítását megelőző 5 éven belül nem vo
 
 ca) amelynek az engedélyét e vezető tevékenységének ideje alatt felmerült jogsértés miatt a Hatóság visszavonta vagy bejelentés alapján működő szolgáltató esetében a tevékenység végzését megtiltotta, vagy
 
-cb) amellyel szemben a Hatóság a postai szolgáltatás engedély vagy bejelentés nélküli végzése vagy az adatszolgáltatási kötelezettség nem teljesítése miatt e vezető tevékenységének ideje alatt felmerült jogsértés miatt jogerős határozatában bírságot szabott ki.
+cb) amellyel szemben a Hatóság a postai szolgáltatás engedély vagy bejelentés nélküli végzése vagy az adatszolgáltatási kötelezettség nem teljesítése miatt e vezető tevékenységének ideje alatt felmerült jogsértés miatt véglegessé vált határozatában bírságot szabott ki.
 
 (8) A tárgyi feltételek akkor tekinthetők biztosítottnak, ha a kérelmező rendelkezik a nyújtani kívánt postai szolgáltatáshoz az általa ellátni kívánt földrajzi (közigazgatási) területre és a kezelni kívánt postai küldemény mennyiségre való tekintettel minimálisan szükséges és alkalmas postai szolgáltatóhelyekkel, felvételi és kézbesítési pontokkal, ügyfélszolgálati helyekkel, gépjárműparkkal és egyéb technikai eszközökkel. Amennyiben a kérelmező működési modellje szerint szükséges, úgy az igénybe venni kívánt postai szolgáltatóval megkötött hálózati hozzáférési szerződés vagy szerződések is a tárgyi feltételek részét képezik.

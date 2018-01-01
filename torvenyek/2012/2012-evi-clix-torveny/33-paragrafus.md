@@ -18,4 +18,4 @@ a) a javasolt közszolgáltatás végzése nem veszélyezteti az egyetemes posta
 
 b) a javasolt közszolgáltatás ellenszolgáltatása fedezi az ellátásának költségeit és a fenntarthatóságát garantáló, amortizációt meghaladó ésszerű nyereséget.
 
-(4) Az egyetemes postai szolgáltató az e tevékenységgel kapcsolatos közszolgáltatási szerződésben meghatározottak szerint köteles közreműködni a közhiteles címregiszter kialakításában és működtetésében.
+(4) Az egyetemes postai szolgáltató az e tevékenységgel kapcsolatos közszolgáltatási szerződésben meghatározottak szerint köteles közreműködni a központi címregiszter kialakításában és működtetésében.

@@ -28,10 +28,10 @@ c) e)–h) pontjában meghatározott esetben a jogsértő szolgáltató árbevé
 
 (4) Ha a jogsértő az előző évben nem végzett vagy tizenkét hónapnál rövidebb ideig végzett postai szolgáltatásnak minősülő tevékenységet, akkor a jogsértés megállapításától visszafelé számított időszakot, de legfeljebb tizenkét hónapot kell a bírság szempontjából figyelembe venni.
 
-(5) Árbevételi adatok hiányában a bírság összegének alsó határa százezer forint, felső határa ötvenmillió forint.
+(5) Árbevételi adatok hiányában a bírság felső határa ötvenmillió forint.
 
-(6) Ismételt jogsértés esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja a jogsértő szervezet vezető tisztségviselőjét a jogsértés súlyához, jellegéhez és az egyedi ügy sajátosságaihoz mérten.
+(6) Ismételt jogsértés esetén a Hatóság hárommillió forintig terjedő bírsággal sújthatja a jogsértő szervezet vezető tisztségviselőjét a jogsértés súlyához, jellegéhez és az egyedi ügy sajátosságaihoz mérten.
 
-(7) A bírság ismételt jogsértés esetén ismételten is kiszabható. Ismételt jogsértésnek minősül, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és postai szolgáltatásra vonatkozó jogszabály, általános szerződési feltétel tekintetében, ugyanazon tárgykörben valósítja meg.
+(7) A bírság ismételt jogsértés esetén ismételten is kiszabható. Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és postai szolgáltatásra vonatkozó jogszabály, általános szerződési feltétel tekintetében, ugyanazon tárgykörben valósítja meg.
 
 (8) Az e törvény, illetve az e törvény felhatalmazása alapján kiadott jogszabályban megállapított, a központi költségvetés részére, illetve a Hatóságnak fizetendő díjak, bírságok, valamint az Egyetemes Postai szolgáltatást Támogató Számla részére teljesítendő befizetések adók módjára behajtandó köztartozásnak minősülnek.

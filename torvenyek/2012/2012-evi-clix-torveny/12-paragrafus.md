@@ -1,4 +1,4 @@
-12. § (1) A szolgáltatási engedély iránti kérelemnek a 10. § (2) bekezdésében meghatározott adatok, illetve 10. § (3) bekezdés a)–e), h) és i) pontjai szerinti mellékletek, a 11. § (6) bekezdésében foglalt személyi feltételek teljesítéséről szóló nyilatkozat, továbbá a 11. § (8) bekezdésében foglalt tárgyi feltételek teljesülését részletesen bemutató nyilatkozat mellett, a prudens működés igazolása érdekében, külön mellékletként tartalmaznia kell
+12. § (1) A szolgáltatási engedély iránti kérelemnek a 10. § (2) bekezdésében meghatározott adatok, illetve 10. § (3) bekezdés a)–e) és h) pontja szerinti mellékletek, a 11. § (6) bekezdésében foglalt személyi feltételek teljesítéséről szóló nyilatkozat, továbbá a 11. § (8) bekezdésében foglalt tárgyi feltételek teljesülését részletesen bemutató nyilatkozat mellett, a prudens működés igazolása érdekében, külön mellékletként tartalmaznia kell
 
 a) a postai szolgáltatás normál üzemmenetéhez szükséges technológiai folyamatok leírását;
 
@@ -12,7 +12,7 @@ e) a kérelmező szervezeti felépítésének és felelősségi köreinek bemuta
 
 f) igazolást a 11. § (5) bekezdés c) pontja szerinti vagyoni biztosíték rendelkezésre állásáról.
 
-(2) A kérelmező prudens működésére vonatkozóan a Hatóság ellenőrzi továbbá, hogy a kérelmező szerepel a Nemzeti Adó- és Vámhivatal internetes honlapján megtalálható köztartozásmentes adózói adatbázisban.
+(2) A kérelmező prudens működésére vonatkozóan a Hatóság ellenőrzi továbbá, hogy a kérelmező szerepel a Nemzeti Adó- és Vámhivatal internetes honlapján megtalálható köztartozásmentes adózói adatbázisban, valamint munkaügyi kapcsolatai rendezettek-e.
 
 (3)
 
@@ -20,9 +20,9 @@ f) igazolást a 11. § (5) bekezdés c) pontja szerinti vagyoni biztosíték ren
 
 (5) A Hatóság az engedélyezési eljárás során megismert személyes adatokat
 
-a) a postai szolgáltatás nyújtásának engedélyezése iránti eljárás jogerős befejezéséig vagy
+a) a postai szolgáltatás nyújtásának engedélyezése iránti eljárás végleges befejezéséig vagy
 
-b) a postai szolgáltatás nyújtásának engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+b) a postai szolgáltatás nyújtásának engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás végleges befejezéséig
 
 kezeli.
 
@@ -30,4 +30,6 @@ kezeli.
 
 (7) A postai szolgáltatási engedély határozatlan időre szól.
 
-(8) A szolgáltató köteles tájékoztatni a Hatóságot, ha a postai szolgáltatás nyújtását az engedély jogerőre emelkedését követő kilencven napon belül nem kezdi meg.
+(8) A szolgáltató köteles tájékoztatni a Hatóságot, ha a postai szolgáltatás nyújtását az engedély véglegessé válását követő kilencven napon belül nem kezdi meg.
+
+(9) A kérelmező engedélyköteles szolgáltatás nyújtására jogosult postai szolgáltatónak minősül, ha a Hatóság a szolgáltatási engedély iránti kérelem elbírálására nyitva álló ügyintézési határidőn belül mellőzi a határozathozatalt.

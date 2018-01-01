@@ -1,23 +1,23 @@
 ## 42. A Hatóság és annak eljárásai
 
-65. § (1) A Hatóság egyes eljárásaiban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szabályait az egyes eljárástípusok keretében e törvényben meghatározott eltérésekkel alkalmazza.
+65. § (1) A Hatóság egyes eljárásaiban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályait az egyes eljárástípusok keretében az e törvényben meghatározott eltérésekkel és kiegészítésekkel alkalmazza.
 
-(2) A Hatóság és a szolgáltató közötti kapcsolattartás kizárólag elektronikus úton történik. A bejelentéseket és kérelmeket, továbbá a jogszabály, valamint a jogszabály alapján a Hatóság által előírt adatszolgáltatásokat a szolgáltató a Hatóság által rendszeresített elektronikus űrlapon terjesztheti elő.
+(2) A Hatóság és a szolgáltató közötti kapcsolattartás kizárólag az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton történik. A bejelentéseket és kérelmeket, továbbá a jogszabály, valamint a jogszabály alapján a Hatóság által előírt adatszolgáltatásokat a szolgáltató a Hatóság által rendszeresített elektronikus űrlapon, elektronikus úton terjesztheti elő. A kérelem kormányablaknál nem terjeszthető elő.
 
-(3) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – negyvenöt nap, amely indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+(3) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – hatvan nap.
 
 (4) A Hatóság eljárásai során az egyetemes szolgáltatót e törvény erejénél fogva ügyfélnek kell tekinteni minden olyan eljárásban, amely a 23. §-ban foglalt, a hozzájárulás-fizetéssel kapcsolatos kötelezettség megsértése vagy a 30. § (1) bekezdésében foglalt kizárólagos jog megsértése kapcsán indult.
 
 (5) A piacfelügyeleti eljárásban az ügyintézési határidő hatvan nap. A határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
-(6) A Hatóság Hivatalának postai hatósági ügyekben hozott elsőfokú döntése ellen az ügyfél a Hatóság elnökéhez fellebbezhet, kivéve azon döntéseket, amelyek ellen a Ket. vagy e törvény alapján nincs helye fellebbezésnek.
+(6) A Hatóság Hivatalának postai hatósági ügyekben hozott elsőfokú döntése ellen az ügyfél a Hatóság elnökéhez fellebbezhet, kivéve azon döntéseket, amelyek ellen e törvény alapján nincs helye fellebbezésnek.
 
-(7) A Hatóság Hivatalának elsőfokú határozata ellen kizárólag azon – az eljárásról szabályszerűen értesített – ügyfél élhet fellebbezési kérelemmel, aki az elsőfokú eljárásban részt vett.
+(7)
 
-(8) A Hatóság elnöke által a Hatóság Hivatalának elsőfokú határozata elleni fellebbezés során másodfokon hozott határozat felülvizsgálatát kizárólag az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében a tanú, a hatósági tanú, a szakértő, a tolmács, a szemletárgy birtokosa, az ügyfél képviselője és a hatósági közvetítő kérheti kereset indításával – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított harminc napon belül a közigazgatási ügyekben eljáró bíróságtól.
+(8) Ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, a hatóság az eljárást felfüggeszti.
 
-(9) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a keresettel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól kérhető.
+(9) Az eljárás felfüggesztésekor minden határidő megszakad, és az eljárás felfüggesztésének megszüntetésekor az ügyintézési határidő kivételével újra kezdődik. A felfüggesztés időtartama alatt megtett valamennyi eljárási cselekmény hatálytalan, kivéve azokat, amelyek a felfüggesztési ok megszüntetésére irányulnak.
 
-(10) A bírósági felülvizsgálati eljárásra a Fővárosi Törvényszék kizárólagosan illetékes.
+(10) Az ügyfél a nyilatkozatával nem pótolhatja a hiányzó bizonyítékot akkor sem, ha annak beszerzése nem lehetséges, kivéve, ha a hatóság a tényállás tisztázása körében az ügyfelet a hiányzó bizonyíték pótlása érdekében nyilatkozattételre hívja fel.
 
-(11) A bíróság az e törvényben szabályozott hatósági döntések bírósági felülvizsgálatára irányuló eljárásait soron kívül köteles lefolytatni.
+(11) A Hatóság a tényállás tisztázása során kötelezheti az ügyfelet, hogy az eredeti okiratot vagy az arról készített hiteles másolatot a Hatóság rendelkezésére bocsássa.
