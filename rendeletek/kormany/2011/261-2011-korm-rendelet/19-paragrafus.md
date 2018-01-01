@@ -10,6 +10,6 @@ c) saját számlás személyszállítás esetén az 1073/2009/EK rendelet 5. cik
 
 közlekedhet.
 
-(3)[^44] Az EGT-n kívüli állam hatósági engedélyével és jelzésével ellátott tehergépjármű és autóbusz Magyarország területén a kettő vagy többoldalú nemzetközi szerződésben meghatározott engedéllyel (ideértve a CEMT engedélyt és az INTERBUS engedélyt is), a nemzetközi szerződésben meghatározott keretek között és az ott megjelölt feltételek megtartásával közlekedhet.
+(3)[^48] Az EGT-n kívüli állam hatósági engedélyével és jelzésével ellátott tehergépjármű és autóbusz Magyarország területén a kettő vagy többoldalú nemzetközi szerződésben meghatározott engedéllyel (ideértve a CEMT engedélyt és az INTERBUS engedélyt is), a nemzetközi szerződésben meghatározott keretek között és az ott megjelölt feltételek megtartásával közlekedhet.
 
-[^44]: A 19. § (3) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^48]: A 19. § (3) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.

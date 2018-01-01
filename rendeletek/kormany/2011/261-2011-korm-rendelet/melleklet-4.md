@@ -1,3 +1,3 @@
-4. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^97]
+4. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^103]
 
-[^97]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^103]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

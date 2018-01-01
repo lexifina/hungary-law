@@ -1,20 +1,20 @@
 2. melléklet a 261/2011. (XII. 7.) Korm. rendelethez
 
-## Tehergépjárművel és autóbusszal végzett közúti közlekedési szolgáltatáshoz, valamint saját számlás szállítás keretében a jármű vezetéséhez szükséges képesítések[^89]
+## Tehergépjárművel és autóbusszal végzett közúti közlekedési szolgáltatáshoz, valamint saját számlás szállítás keretében a jármű vezetéséhez szükséges képesítések[^95]
 
-1.[^90] A C1; C1+E; C; C+E; D1; D1+E; D; D+E vezetői engedély kategóriákkal vezethető járművek vezetéséhez – az 5. pontban foglaltak kivételével – a járművezetőnek rendelkeznie kell szakmai alapképesítéssel vagy szakmai továbbképzési képesítéssel.
+1.[^96] A C1; C1+E; C; C+E; D1; D1+E; D; D+E vezetői engedély kategóriákkal vezethető járművek vezetéséhez – az 5. pontban foglaltak kivételével – a járművezetőnek rendelkeznie kell szakmai alapképesítéssel vagy szakmai továbbképzési képesítéssel.
 
 2. A tagállam állampolgára az 1. pontban meghatározott képesítés megszerzését igazolhatja
 
-2.1.[^91] a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló jogszabályban meghatározott „Gépjárművezetői képesítési igazolvány”-nyal,
+2.1.[^97] a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló jogszabályban meghatározott „Gépjárművezetői képesítési igazolvány”-nyal,
 
 2.2. vezetői engedéllyel, amelyen – az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről, valamint a 3820/85/EGK tanácsi rendelet és a 61/439/EGK, illetve a 76/914/EGK tanácsi irányelv módosításáról szóló, 2003. július 15-i 2003/59/EK európai parlamenti és tanácsi irányelv 10. cikkének (2) bekezdésében meghatározott – 95. sz. közösségi kód van feltüntetve,
 
 2.3. a tagállamban kiadott – a 2003/59/EK európai parlamenti és tanácsi irányelv II. mellékletében meghatározott mintájú – „Gépjárművezetői képesítési igazolvány”-nyal;
 
-2.4.[^92] a tagállamban kiadott nemzeti bizonyítvánnyal.
+2.4.[^98] a tagállamban kiadott nemzeti bizonyítvánnyal.
 
-2.5.[^93] A 2.2. pontban meghatározott vezetői engedéllyel, amelyben a 95. számú közösségi kód érvényességi ideje megegyezik a 2.1. pontban meghatározott „Gépjárművezetői képesítési igazolvány” érvényességi idejével.
+2.5.[^99] A 2.2. pontban meghatározott vezetői engedéllyel, amelyben a 95. számú közösségi kód érvényességi ideje megegyezik a 2.1. pontban meghatározott „Gépjárművezetői képesítési igazolvány” érvényességi idejével.
 
 3. A nem tagállam állampolgára, akit egy tagállami székhellyel rendelkező vállalkozás alkalmaz vagy foglalkoztat és díj ellenében végzett közúti árutovábbításra használt járművet vezet, az 1. pontban meghatározott képesítés megszerzését igazolhatja „Járművezetői igazolvány”-nyal, amelyen a 95. sz. közösségi kód van feltüntetve.
 
@@ -42,8 +42,8 @@
 
 5.7. amellyel csak a járművet vezető munkája során használandó anyagot vagy felszerelést szállítanak és a jármű vezetése nem tartozik a gépkocsivezető elsődleges feladatához.
 
-[^89]: A 2. melléklet címe a 280/2013. (VII. 24.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^90]: A 2. melléklet 1. pontja a 280/2013. (VII. 24.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^91]: A 2. melléklet 2. pont 2.1. alpontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (13) bekezdésével megállapított szöveg.
-[^92]: A 2. melléklet 2. pont 2.4. alpontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (13) bekezdése iktatta be.
-[^93]: A 2. melléklet 2.5. pontját a 280/2013. (VII. 24.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^95]: A 2. melléklet címe a 280/2013. (VII. 24.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^96]: A 2. melléklet 1. pontja a 280/2013. (VII. 24.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^97]: A 2. melléklet 2. pont 2.1. alpontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (13) bekezdésével megállapított szöveg.
+[^98]: A 2. melléklet 2. pont 2.4. alpontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (13) bekezdése iktatta be.
+[^99]: A 2. melléklet 2.5. pontját a 280/2013. (VII. 24.) Korm. rendelet 16. § (1) bekezdése iktatta be.

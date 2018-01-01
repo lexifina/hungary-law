@@ -1,6 +1,6 @@
-## 7. [^45] A közúti közlekedési szolgáltatáshoz és a saját számlás szállításhoz igénybe vett járművek vezetői
+## 7. [^49] A közúti közlekedési szolgáltatáshoz és a saját számlás szállításhoz igénybe vett járművek vezetői
 
-20. § (1)[^46] Közúti közlekedési szolgáltatás és saját számlás szállítás keretében járművet az vezethet,
+20. § (1)[^50] Közúti közlekedési szolgáltatás és saját számlás szállítás keretében járművet az vezethet,
 
 a) akinek az adott jármű vezetéséhez szükséges vezetői engedélye van,
 
@@ -10,9 +10,10 @@ c) aki eleget tett – a 2. mellékletben meghatározott módon – a szakmai k�
 
 d) aki a vezetett jármű kategóriája tekintetében nem áll a járművezetéstől eltiltás hatálya alatt, valamint
 
-e) akinek a közlekedési igazgatási hatóság nem rendelte el jogerősen vezetési jogosultsága szünetelését.
+e)[^51] akinek a közlekedési igazgatási hatóság nem rendelte el véglegesen vezetési jogosultsága szünetelését.
 
 (2) Az (1) bekezdés a)–c) pontjában megjelölt okiratokat a jármű vezetőjének a szolgáltatás teljesítése közben magánál kell tartania.
 
-[^45]: A 7. alcím címe a 280/2013. (VII. 24.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^46]: A 20. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^49]: A 7. alcím címe a 280/2013. (VII. 24.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^50]: A 20. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^51]: A 20. § (1) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 359. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

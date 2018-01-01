@@ -4,31 +4,18 @@
 
 (2) A kérelemben nyilatkozni kell arról, hogy a gazdálkodó szervezet, valamint a 9. § (1) bekezdésében megjelölt személyek megfelelnek a jó hírnév követelményének, a szakmai irányító ezen felül a szakmai alkalmasság követelményének is, továbbá hogy a gazdálkodó szervezet teljesíti a pénzügyi helyzettel kapcsolatos követelményeket.
 
-(3) A kérelemhez csatolni kell
+(3)[^39]
 
-a)[^37] a társasági szerződés, az alapító okirat, – a (3b) bekezdés kivételével – a képviseletre jogosult személy közjegyzői aláírás-hitelesítéssel ellátott címpéldánya, illetve – egyéni vállalkozó esetén – a vállalkozói igazolvány, vállalkozói igazolvány hiányában a nyilvántartási számot tartalmazó hatósági bizonyítvány,
+(3a)[^40]
 
-b) a szakmai irányító szakmai alkalmasságot igazoló okmány,
+(3b)[^41] Ha a kérelmező cégjegyzékben nyilvántartott cég és képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a közlekedési hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-c) a gazdálkodó szervezet megfelelő pénzügyi helyzetét igazoló okiratok,
+(3c)[^42] A (3) bekezdés b) pontjában meghatározott okmányt csak abban az esetben kell csatolni, ha a közlekedési hatóság által vezetett elektronikus nyilvántartásban az igazoló okmány megléte az eljáró hatóság által nem ellenőrizhető.
 
-d) az üzemeltetni kívánt járművek forgalmi engedélye, valamint
+(4)–(5)[^43]
 
-e) ha a közúti közlekedési szolgáltatási tevékenységhez használni kívánt járműnek nem a kérelmező gazdálkodó szervezet a tulajdonosa vagy az üzembentartója, a jármű jogszerű használatát igazoló – a jármű rendszámát, tulajdonosának nevét,valamint a használat jogcímét és időtartamát is tartalmazó – szerződés vagy nyilatkozat
-
-másolatát.
-
-(3a)[^38] Amennyiben a kérelmező szerepel a NAV köztartozásmentes adózói adatbázisában és nem igazolja, hogy köztartozásmentes adózó, a közlekedési hatóság ellenőrzi a NAV köztartozásmentes adózói adatbázisában, hogy a kérelmező megfelel-e a 12. § (1) bekezdés b) pontjában foglalt feltételnek.
-
-(3b)[^39] Ha a kérelmező cégjegyzékben nyilvántartott cég és képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a közlekedési hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
-
-(3c)[^40] A (3) bekezdés b) pontjában meghatározott okmányt csak abban az esetben kell csatolni, ha a közlekedési hatóság által vezetett elektronikus nyilvántartásban az igazoló okmány megléte az eljáró hatóság által nem ellenőrizhető.
-
-(4) Más tagállam gazdálkodó szervezete, illetve állampolgára esetén a jó hírnév, a szakmai alkalmasság és a megfelelő pénzügyi helyzet teljesítésének igazolására az adott tagállam illetékes hatósága (szervezete) által erre a célra kiállított dokumentumok másolatát kell a kérelemhez csatolni.
-
-(5) A közlekedési hatóság felhívására a kérelmezőnek be kell mutatnia a (3), illetve a (4) bekezdésében megjelölt – a kérelmező által a kérelemhez másolatban csatolt – okiratok és iratok eredeti példányát.
-
-[^37]: A 14. § (3) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^38]: A 14. § (3a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 6. § (4) bekezdése iktatta be.
-[^39]: A 14. § (3b) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 45. § (2) bekezdése iktatta be.
-[^40]: A 14. § (3c) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 148. § (2) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^39]: A 14. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 360. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^40]: A 14. § (3a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 6. § (4) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 360. §-a. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^41]: A 14. § (3b) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 45. § (2) bekezdése iktatta be, szövege a 393/2017. (XII. 13.) Korm. rendelet 40. §-a szerint módosított szöveg.
+[^42]: A 14. § (3c) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 148. § (2) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^43]: A 14. § (4)–(5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 360. §-a hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
