@@ -1,3 +1,0 @@
-13. § (1) Az ügyfél nem jogosult támogatási kérelem benyújtására ugyanarra a projektre, beruházásra, vagy fejlesztésre, amely kapcsán a Nemzeti Diverzifikációs Program vagy az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott elbírálatlan támogatási kérelme vagy jogerős támogatási határozata van.
-
-(2) El kell utasítani a támogatási kérelmet, ha az ügyfél az (1) bekezdés szerinti támogatáshoz kapcsolódóan benyújtott támogatási kérelme vonatkozásában nem rendelkezik jogerős határozattal, vagy akinek benyújtott támogatási vagy kifizetési kérelme alapján hozott döntések vonatkozásában bírósági eljárás van folyamatban.
