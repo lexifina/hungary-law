@@ -1,5 +1,5 @@
 ## kell megtéríteni.
 
-9. § (1) A szakértői vizsgálaton megjelent tanú a költségeire vonatkozó, e rendeletben meghatározott igazolásokat a szakértői vizsgálatot elrendelő hatóság vagy bíróság részére küldi meg. A hatóság vagy bíróság a költségtérítést a szakvélemény beérkezését követően állapítja meg.
+9. §[^10] (1) A szakértői vizsgálaton megjelent tanú a költségeire vonatkozó, e rendeletben meghatározott igazolásokat és a szakértő által kiállított igazolást a költségei megtérítése érdekében a szakértői vizsgálatot elrendelő hatóság vagy bíróság részére küldi meg.
 
-(2) A szakértői vizsgálatot elrendelő hatóság vagy bíróság a költségtérítést legkésőbb az igazolások beérkezésétől számított 15 napon belül állapítja meg, ha a tanú a vizsgálaton történt megjelenéséről a szakértő által kiállított igazolást az (1) bekezdésben meghatározott igazolásokkal együtt részére megküldi.
+[^10]: A 9. § a 20/2017. (XII. 21.) IM rendelet 26. § (2) bekezdésével megállapított szöveg.
