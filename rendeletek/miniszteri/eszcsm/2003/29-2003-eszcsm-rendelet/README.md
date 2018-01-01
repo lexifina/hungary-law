@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-29-20-0
 | 2016-09-01 | 2003-29-20-0M.10 | 21/2016. (VIII. 24.) EMMI rendelet |
 | 2017-01-01 | 2003-29-20-0M.11 | 43/2016. (XII. 27.) EMMI rendelet |
 | 2017-09-19 | 2003-29-20-0M.12 | 19/2017. (IX. 18.) EMMI rendelet |
+| 2018-01-01 | 2003-29-20-0M.13 | 19/2017. (IX. 18.) EMMI rendelet |

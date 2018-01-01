@@ -4,7 +4,7 @@
 
 ## A tanácsadás célja, hogy
 
-## a) az örökbe fogadni szándékozó szülő
+## a)[^39] az örökbe fogadni szándékozó személy
 
 ## aa) megismerje azokat a nehézségeket, amelyekkel a személyisége, motivációi, családstruktúrája alapján az örökbefogadás során várhatóan szembesülni fog,
 
@@ -14,11 +14,11 @@
 
 ## ba) megismerje az örökbe fogadni szándékozó motivációit, valamint jelenlegi és virtuális családstruktúráját,
 
-## bb) megalapozott döntést tudjon hozni arról, hogy alkalmas-e az örökbe fogadni szándékozó szülő az örökbefogadásra.
+## bb)[^40] megalapozott döntést tudjon hozni arról, hogy alkalmas-e az örökbe fogadni szándékozó személy az örökbefogadásra.
 
-## II. A tanácsadás szakmai irányelvei
+## II.[^41] A tanácsadás szakmai irányelvei
 
-## A tanácsadást végző szakember a következő témaköröket beszéli meg az örökbe fogadni szándékozó szülővel, és ennek alapján készíti el az örökbe fogadni szándékozó szülő alkalmasságára vonatkozó megállapításait:
+## A tanácsadást végző szakember a következő témaköröket beszéli meg az örökbe fogadni szándékozó személlyel, és ennek alapján készíti el az örökbe fogadni szándékozó személy alkalmasságára vonatkozó megállapításait:
 
 ## 1. Motiváció
 
@@ -42,126 +42,243 @@
 
 ## – Hogyan oldana meg bizonyos helyzeteket, konfliktusokat az örökbe fogadni szándékozó család?
 
-7. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez
+7. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^42]
 
-## Az örökbefogadói tanfolyam részletes tematikája
+## Az örökbefogadói tanfolyam célja, tematikája és az ismeretek ellenőrzési rendszere
 
 I. A tanfolyam célja
 
 ## A tanfolyam célja, hogy a résztvevők
 
-## – felkészüljenek az örökbefogadásra,
+1. felkészüljenek az örökbefogadásra, információszerzéssel és saját élményű tapasztalatokon keresztül támpontokat kapjanak döntésükhöz, vállalják-e és milyen feltételek mellett az örökbefogadást;
 
-## – megismerjék az örökbefogadás jogi és társadalmi hátterét,
+2. megismerjék az örökbefogadás jogi és társadalmi hátterét;
 
-## – szembesüljenek azokkal a tipikus nehézségekkel, melyek az örökbefogadási eljárás és az örökbe fogadott gyermek nevelése során felmerülhetnek,
+3. szembesüljenek azokkal a tipikus nehézségekkel, amelyek az örökbefogadási eljárás és az örökbefogadott gyermek nevelése során felmerülhetnek;
 
-## – elsajátítsák a konfliktusok kezelésének és az örökbefogadással együtt járó feszültségek kezelésének módjait.
+4. elsajátítsák a konfliktusok kezelésének és az örökbefogadással együtt járó feszültségek, nevelési kihívások kezelésének módjait;
 
-II. A tanfolyam tematikája
+5. érzékenyebbek, elfogadóbbak legyenek nagyobb életkorú, különböző származású és egészségi állapotú gyermekek örökbefogadására.
 
-1. Az örökbefogadás rendszere Magyarországon 1 óra (ea.)
+II. A tanfolyam módszere: Tematikusan irányított interaktív csoportos tanácsadás saját élményű elemekkel
 
-– Titkos és nyílt örökbefogadás.
+III. A tanfolyam tematikája
 
-– Külföldre történő örökbefogadás.
+1. Az örökbefogadás és a gyermekvédelem rendszere Magyarországon
 
-– Az örökbeadhatóság, örökbeadhatóvá nyilvánítás feltételei.
+1.1. A magyar gyermekvédelmi rendszer felépítése, működése.
 
-– Az örökbefogadás megvalósulásának jogi háttere.
+1.2. Az örökbefogadás mint gyermekvédelmi sorsrendezés – a gyermeki jogok érvényesülésének és érvényesítésének színtere.
 
-– Az örökbefogadás jogkövetkezményei.
+1.3. Az örökbefogadás jogi szabályozása, az örökbefogadási eljárás folyamata.
 
-2. Mitől sikeres/nehéz egy örökbefogadás? 2 óra (ea. + irányított beszélgetés)
+1.4. Titkos és nyílt örökbefogadás.
 
-– Az örökbefogadásra való alkalmasság összetevői.
+1.5. Megyén belüli, más megyéből történő örökbefogadás.
 
-– Melyek az örökbefogadásra alkalmatlan élethelyzetek?
+1.6. Külföldre, külföldről történő örökbefogadás.
 
-– Mi segítheti elő/nehezítheti meg az örökbefogadás sikerességét?
+1.7. Az örökbefogadhatóság, örökbefogadhatóvá nyilvánítás feltételei.
 
-– A titok szerepe az örökbefogadásban.
+1.8. Az örökbefogadás jogkövetkezményei.
 
-– Hogyan mondjuk el a gyereknek?
+1.9. Az örökbefogadóknak járó juttatások, ellátások, szolgáltatások.
 
-– Ki tudhat arról, hogy örökbe fogadtuk a gyermekünket?
+1.10. Az utánkövetés jogi szabályozása.
 
-– A szűkebb-tágabb környezet hozzáállása.
+2. A sikeres örökbefogadás feltételei, az örökbefogadás nehézségei
 
-3. Az örökbe fogadható gyermekek nevelésének speciális nehézségei 3 óra (ea. + irányított beszélgetés)
+2.1. Az örökbefogadásra való alkalmasság összetevői.
 
-– Hol élnek az örökbe fogadható gyermekek?
+2.2. Az örökbefogadásra alkalmatlan élethelyzetek meghatározása.
 
-– Milyen hatással lehet az intézeti nevelkedés a gyermekre?
+2.3. Az örökbefogadás sikerességét elősegítő, illetve hátráltató tényezők.
 
-– Hogyan lehet kezelni a gyermek eddig átélt negatív élményeit?
+3. Az örökbe fogadható gyermekek nevelésének speciális nehézségei
 
-– Az örökbefogadás vállalásának nehézségei.
+3.1. Az örökbe fogadható gyermekek életközösségének feltárása.
 
-– Együttélés a ,,mássággal''.
+3.2. A gyermekvédelmi gondoskodásban történő nevelkedés hatása a gyermekre.
 
-– Örökbe fogadott gyermekek a különböző közösségekben.
+3.3. A gyermek örökbefogadásig átélt negatív élményeinek kezelése.
 
-– Életkori szükségletek.
+3.4. Az örökbefogadás vállalásának nehézségei.
 
-– Fogyatékkal élő örökbe fogadott gyermekek.
+3.5. Együttélés a „mássággal”.
 
-4. Konfliktus és konfliktuskezelés 3 óra (ea. + irányított beszélgetés)
+3.6. Örökbefogadott gyermekek a különböző közösségekben.
 
-– Az örökbe fogadni szándékozókat érő negatív hatások (gyermekvállalási próbálkozások, sikertelen kezelések, erőfeszítések az örökbefogadásra, családi-társadalmi elvárások, önbizalomvesztés, elbizonytalanodás, szorongás, feszültségek).
+4. A gyermek magával hozott tulajdonságai és a környezet szerepe a gyermek fejlődésében
 
-– Az örökbefogadással együtt járó nehézségek okozta feszültség.
+4.1. Örökletes és hozott adottságok, képességek.
 
-– Tipikus konfliktushelyzetek az örökbe fogadott gyermek nevelése során.
+4.2. Környezeti ártalmak a magzati életben, a gyermek születése és a fejlődése során.
 
-– Hatékony konfliktuskezelés, feszültségoldás.
+4.3. A szocializáció és a nevelés lehetőségei, szerepe és hatása.
 
-– Kihez lehet fordulni a családban, illetőleg a szűkebb-tágabb környezetben felmerülő problémák esetén?
+5. A veszteség szerepe az örökbefogadásban
 
-5. Egymásra találás 2 óra (ea. + irányított beszélgetés)
+5.1. A gyermek veszteségei: a vér szerinti családjában nem nevelkedhető gyermekek által átélt veszteségek típusai. A korábbi gondozóktól való elválás veszteségei. Az örökbefogadó szülőhöz kerülés hatása a veszteségélményre.
 
-– Mi dönti el, hogy melyik gyermekhez melyik szülőt találják alkalmasnak?
+5.2. Az örökbefogadó szülők veszteségei: a meg nem született vérszerinti gyermekkel kapcsolatos érzések feldolgozása; korábbi vetélések, elhúzódó gyász; a meddőségi kezelések hatásának, kudarcainak feldolgozása. Az örökbefogadó szülő saját veszteségélményének feldolgozása a gyermek szempontjából. A meddőségi kezelések folytatásának problémái.
 
-– A gyermekkel való első találkozás élménye.
+5.3. A vérszerinti szülők veszteségei, a vérszerinti szülők elfogadásának szerepe a gyermek életében.
 
-– Az örökbe fogadni szándékozó döntését befolyásoló tényezők.
+5.4. Érzékenyítés a gyermek és a vérszerinti szülők veszteségeinek megértésére.
 
-– Lehet-e nemet mondani egy gyermekre?
+5.5. A veszteség feldolgozásának módjai, az örökbefogadó szülő szerepe az örökbefogadott gyermek veszteségeinek feldolgozásában.
 
-– A barátkozás jelentősége, folyamata.
+6. A kötődés szerepe a gyermek életében
 
-– Sikeres és sikertelen ,,barátkozások''.
+6.1. A gyermek fejlődésének alapfeltételei.
 
-– A gyermek beilleszkedésének segítése.
+6.2. A mély és tartós kötődés fogalma, jelentősége.
 
-6. A családi kapcsolatok jelentősége a gyermek életében 3 óra (ea. + irányított beszélgetés)
+6.3. A korai biztonságos kötődés sérülése és korrigálásának lehetőségei.
 
-– A gyermek azonosságtudata, kultúrája, önbecsülése és a család.
+6.4. A gyermek fejlődésére ható tényezők meghatározása az örökbefogadó szülőhöz kerülés után.
 
-– Az állandóság jelentősége a gyermek életében.
+6.5. Az örökbefogadó szülő feladatai a kötődés kialakításában.
 
-– Az állandóság-érzet biztosításának eszközei.
+7. Egymásra találás
 
-– Életre szóló kapcsolatok kialakítása.
+7.1. Szempontok a gyermek számára legmegfelelőbb örökbefogadó szülők kiválasztásához.
 
-7. A kötődés szerepe a gyermek életében 3 óra (ea. + irányított beszélgetés)
+7.2. Nyílt örökbefogadásnál a vér szerinti anyával való találkozás.
 
-– A gyermek fejlődésének alapfeltételei.
+7.3. Nevelőszülőtől történő örökbefogadás.
 
-– A mély és tartós kötődés fogalma, jelentősége.
+7.4. Gyermekotthonból történő örökbefogadás.
 
-– Hogyan hat a gyermek fejlődésére az, ha örökbefogadó szülőhöz kerül?
+7.5. A gyermekkel való első találkozás élménye.
 
-– Mi az örökbefogadó szülő feladata a kötődés kialakításában?
+7.6. Az örökbe fogadni szándékozó családban élő gyermek felkészítése az örökbefogadásra.
 
-8. A veszteség a gyermek életében 3 óra (ea. + irányított beszélgetés)
+7.7. Újszülött gyermek örökbefogadása esetén a szülői hozzájárulás visszavonásának kockázata a gyermek hathetes koráig, az erre az időszakra történő felkészülés.
 
-– A saját, vér szerinti családjukban nem nevelkedhető gyermekek által átélt veszteségek típusai.
+7.8. Az örökbe fogadni szándékozó döntését befolyásoló tényezők.
 
-– Az örökbefogadó szülőhöz kerülés hatása a veszteségélményre.
+7.9. A gyermek visszautasításának hatásai.
 
-– A veszteség feldolgozásának módjai, az örökbefogadó szülő szerepe a veszteség feldolgozásában.
+7.10. A barátkozás jelentősége, folyamata.
 
-– Az örökbefogadó szülő saját veszteségélménye és annak feldolgozása a gyermek szempontjából.
+7.11. Sikeres és sikertelen „barátkozások”.
 
-III. Az ismeretek ellenőrzési rendszere
+7.12. A gyermek beilleszkedésének segítése, a kötelező gondozási idő célja.
+
+8. Konfliktus és konfliktuskezelés
+
+8.1. Az örökbe fogadni szándékozókat érő negatív hatások (gyermekvállalási próbálkozások, sikertelen kezelések, erőfeszítések az örökbefogadásra, családi, társadalmi elvárások, önbizalomvesztés, elbizonytalanodás, szorongás, feszültségek).
+
+8.2. Az örökbefogadással együtt járó nehézségek okozta feszültség.
+
+8.3. A „másságból” adódó lehetséges konfliktusok.
+
+8.4. Tipikus konfliktushelyzetek az örökbefogadott gyermek nevelése során.
+
+8.5. Hatékony konfliktuskezelés, feszültségoldás.
+
+8.6. Segítség a családban, illetve a szűkebb-tágabb környezetben felmerülő problémák esetén.
+
+9. A családi kapcsolatok jelentősége a gyermek életében
+
+9.1. A gyermek azonosságtudata, kultúrája, önbecsülése és a család.
+
+9.2. Az állandóság jelentősége a gyermek életében.
+
+9.3. Az állandóságérzet biztosításának eszközei.
+
+9.4. A múlt emlékeinek ápolása.
+
+9.5. Életre szóló kapcsolatok kialakítása.
+
+10. Az örökbefogadással kapcsolatos speciális szülői feladatok
+
+10.1. Az örökbefogadás utáni első napok, hetek történései, sajátosságai.
+
+10.2. Testvérkérdés (vérszerinti gyermek mellé örökbefogadás; örökbefogadott gyermek mellé örökbefogadás).
+
+10.3. Normatív krízisek az örökbefogadásban.
+
+10.4. A titok szerepe az örökbefogadásban.
+
+10.5. A gyermekkel az örökbefogadottságának közlése.
+
+10.6. A környezet bevonása örökbefogadás esetén.
+
+10.7. A szűkebb-tágabb környezet viszonyulása az örökbefogadáshoz.
+
+10.8. A közösségbe kerülés problémái. Az örökbefogadás kommunikációja a közösségben.
+
+10.9. Az örökbefogadott gyermek tipikus kérdései különböző életkorokban.
+
+10.10. A kamaszkor és az identitás jellegzetességei örökbefogadott gyermekeknél.
+
+10.11. A gyermek vérségi származás megismeréséhez fűződő jogának támogatása.
+
+11. Érzékenyítés a speciális adottságú örökbefogadható gyermekek örökbefogadására
+
+11.1. A gyermek származásának kérdései – érzékenyítés különböző származású gyermekek elfogadására
+
+11.1.1. A gyermek származásának ismerete.
+
+11.1.2. Előítéletek kezelése a családban és a tágabb környezetben.
+
+11.1.3. Különböző származású gyermekek elfogadásának elősegítése.
+
+11.1.4. Érzékenyítés a másságra, együttélés a mássággal.
+
+11.1.5. Különböző származású gyermekek identitása örökbefogadó családokban.
+
+11.1.6. A származás kérdései, elfogadtatása a tágabb családban és a környezetben.
+
+11.2. Nagyobb életkorú gyermekek örökbefogadása
+
+11.2.1. Fejlődési sajátosságok nagyobb életkorban örökbefogadott gyermekeknél.
+
+11.2.2. A gyermek testi, értelmi és mozgásfejlődése, ezek esetleges eltérései.
+
+11.2.3. Érzelemszabályozási problémák kezelése.
+
+11.2.4. Az örökbefogadott gyermek múltja.
+
+11.2.5. A gyermek örökbefogadás előtti élményeinek, emlékeinek megőrzése.
+
+11.2.6. Az elvárások és a realitás közelítése.
+
+11.3. Egészségi problémával küzdő gyermekek örökbefogadása
+
+11.3.1. Különböző egészségügyi állapotok, betegségek és lehetséges következményeik, kezelhetőségük, korrigálhatóságuk ismertetése.
+
+11.3.2. A vér szerinti családban előforduló betegségek lehetséges hatásai a gyermekre.
+
+11.3.3. Az egységes örökbefogadási nyilvántartás „A gyermek egészségi állapotára vonatkozó elvárások” adatlapjának megbeszélése.
+
+11.3.4. Egészségügyi kockázattal kapcsolatos kérdések, félelmek, tapasztalatok.
+
+11.4. Testvérek örökbefogadása
+
+11.4.1. Testvérek örökbefogadásának sajátosságai.
+
+11.4.2. Különböző gondozási helyen nevelkedő testvérek örökbefogadása.
+
+11.4.3. Örökbefogadás után örökbefogadhatóvá vált vérszerinti testvérek örökbefogadása.
+
+12. Az örökbefogadás utánkövetése, az utánkövetésbe nem tartozó szolgáltatások
+
+12.1. Az utánkövetés célja, haszna az örökbefogadó család számára.
+
+12.2. A kötelező utánkövetés.
+
+12.3. Az önkéntes utánkövetés lehetőségei.
+
+12.4. Közösségi, alapítványi, egyesületi programok.
+
+12.5. Más örökbefogadott gyermekekkel, örökbefogadó családokkal való találkozás jelentősége.
+
+IV. Az ismeretek ellenőrzési rendszere
+
+[^39]: A 6. számú melléklet I. pont a) alpont nyitó szövegrésze a 19/2017. (IX. 18.) EMMI rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^40]: A 6. számú melléklet I. pont b) alpont bb) pontja a 19/2017. (IX. 18.) EMMI rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^41]: A 6. számú melléklet II. pontja a 19/2017. (IX. 18.) EMMI rendelet 18. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
+[^42]: A 7. számú melléklet a 19/2017. (IX. 18.) EMMI rendelet 17. §-ával megállapított szöveg.
