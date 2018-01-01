@@ -1,4 +1,4 @@
-17. § (1)[^24] Az árvízlevezető képesség biztosítása során figyelembe kell venni az árvízvédelmi biztonságot veszélyeztető, de közérdekből nem megszüntethető területhasználatot. Ha a közérdekből nem megszüntethető területhasználat az árvízlevezető képességet jelentősen befolyásolja, akkor ennek ellensúlyozásáról a tervdokumentáció készítése során más beavatkozással gondoskodni kell.
+17. § (1)[^27] Az árvízlevezető képesség biztosítása során figyelembe kell venni az árvízvédelmi biztonságot veszélyeztető, de közérdekből nem megszüntethető területhasználatot. Ha a közérdekből nem megszüntethető területhasználat az árvízlevezető képességet jelentősen befolyásolja, akkor ennek ellensúlyozásáról a tervdokumentáció készítése során más beavatkozással gondoskodni kell.
 
 (2) A nagyvízi mederkezelési tervet a vízgyűjtő-gazdálkodási tervek, az árvízi kockázatkezelési tervek, a védett természeti területre elkészített természetvédelmi kezelési tervek, a Natura 2000 területekre elkészített fenntartási tervek, valamint az erdőkre elkészített körzeti erdőtervek ismeretében, azokkal összhangban kell elkészíteni, az árvízvédelmi biztonsági követelmények elsődlegességének biztosítása mellett.
 
@@ -8,4 +8,4 @@
 
 (5) A nagyvízi mederkezelési tervet, annak módosítását és felülvizsgálatát a vízgyűjtő-gazdálkodás egyes szabályairól szóló 221/2004. (VII. 21.) Korm. rendelet 9–11. §-ában előírtak figyelembevételével kell elkészíteni, és összhangba kell hozni a vizek többletéből eredő kockázattal érintett területek meghatározásáról, a veszély- és kockázati térképek, valamint a kockázatkezelési tervek készítéséről, tartalmáról szóló 178/2010. (V. 13.) Korm. rendelet 8–10. §-ában, valamint 12. §-ában foglalt előírásokkal.
 
-[^24]: A 17. § (1) bekezdése a 100/2016. (V. 13.) Korm. rendelet 26. § l) pontja szerint módosított szöveg.
+[^27]: A 17. § (1) bekezdése a 100/2016. (V. 13.) Korm. rendelet 26. § l) pontja szerint módosított szöveg.

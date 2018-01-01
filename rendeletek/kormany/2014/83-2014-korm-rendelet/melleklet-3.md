@@ -12,6 +12,6 @@
 
 ## ……………………………………………… ………………………………………………
 
-3. melléklet a 83/2014. (III. 14.) Korm. rendelethez[^27]
+3. melléklet a 83/2014. (III. 14.) Korm. rendelethez[^30]
 
-[^27]: A 3. melléklet a 100/2016. (V. 13.) Korm. rendelet 27. § b)–d) pontja szerint módosított szöveg.
+[^30]: A 3. melléklet a 100/2016. (V. 13.) Korm. rendelet 27. § b)–d) pontja szerint módosított szöveg.
