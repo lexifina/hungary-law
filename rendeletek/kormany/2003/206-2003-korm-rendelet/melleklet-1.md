@@ -1,6 +1,6 @@
-## 28. §[^45] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 18. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+## 28. §[^48] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 18. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-1. melléklet a 206/2003. (XII. 10.) Korm. rendelethez[^46]
+1. melléklet a 206/2003. (XII. 10.) Korm. rendelethez[^49]
 
 A Kormánynak a pedagógus- és oktatói kedvezmények megállapítását végző területi államigazgatási szervei
 
@@ -34,5 +34,5 @@ A Kormánynak a pedagógus- és oktatói kedvezmények megállapítását végz�
 
 | 14 | Bács-Kiskun Megyei Kormányhivatal | Kecskemét | A Szerb Köztársaságban lakóhellyel rendelkező jogosultak |
 
-[^45]: A 28. §-t a 477/2016. (XII. 27.) Korm. rendelet 26. § (2) bekezdése iktatta be.
-[^46]: Az 1. melléklet a 294/2012. (X. 16.) Korm. rendelet 12. §-ával megállapított, a 136/2016. (VI. 13.) Korm. rendelet 2. § (6) bekezdés d) pontja és (7) bekezdés f) pontja szerint módosított szöveg.
+[^48]: A 28. §-t a 477/2016. (XII. 27.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^49]: Az 1. melléklet a 294/2012. (X. 16.) Korm. rendelet 12. §-ával megállapított, a 136/2016. (VI. 13.) Korm. rendelet 2. § (6) bekezdés d) pontja és (7) bekezdés f) pontja szerint módosított szöveg.

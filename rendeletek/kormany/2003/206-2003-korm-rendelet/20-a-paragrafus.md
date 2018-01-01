@@ -1,4 +1,4 @@
-20/A. §[^39] (1) A Hivatal vezeti a pedagógus- és oktatói kedvezményekre való jogosultsággal összefüggő, a (2) bekezdésben meghatározott adatok közhiteles nyilvántartását, amelyből kérelemre adatszolgáltatást teljesít.
+20/A. §[^42] (1) A Hivatal vezeti a pedagógus- és oktatói kedvezményekre való jogosultsággal összefüggő, a (2) bekezdésben meghatározott adatok közhiteles nyilvántartását, amelyből kérelemre adatszolgáltatást teljesít.
 
 (2) A Hivatal által vezetett nyilvántartás tartalmazza
 
@@ -18,4 +18,4 @@ e) az igénylő „Magyar igazolványának” számát.
 
 (5) A Hivatal a jogosultságnak nyilvántartásból való törlését követően a pedagógus- és oktatói kedvezményekre való jogosultsághoz kapcsolódó, a (2) bekezdésben meghatározott adatokat öt évig megőrzi.
 
-[^39]: A 20/A. §-t a 136/2016. (VI. 13.) Korm. rendelet 2. § (5) bekezdése iktatta be.
+[^42]: A 20/A. §-t a 136/2016. (VI. 13.) Korm. rendelet 2. § (5) bekezdése iktatta be.

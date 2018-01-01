@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-206-20-
 | 2016-07-01 | 2003-206-20-22.14 | 136/2016. (VI. 13.) Korm. rendelet |
 | 2016-08-19 | 2003-206-20-22.15 | 241/2016. (VIII. 16.) Korm. rendelet |
 | 2017-01-01 | 2003-206-20-22.16 | 477/2016. (XII. 27.) Korm. rendelet |
+| 2018-01-01 | 2003-206-20-22.17 | 457/2017. (XII. 28.) Korm. rendelet |
