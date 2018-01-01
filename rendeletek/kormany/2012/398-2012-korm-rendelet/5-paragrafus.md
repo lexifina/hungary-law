@@ -1,8 +1,8 @@
-5. § (1)[^3] A mikrogazdálkodói beszámoló készítése során az Szt. előírásait a (2)–(12) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+5. § (1)[^4] A mikrogazdálkodói beszámoló készítése során az Szt. előírásait a (2)–(12) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
 (2) Az ellenőrzés megállapítása minden esetben az Szt. 3. § (3) bekezdés 4. pontja szerinti nem jelentős összegű hibának minősül, az Szt. 3. § (3) bekezdés 3. pontja szerinti jelentős összegű hiba nem állapítható meg.
 
-(3)[^4] Az Szt. 3. § (4) bekezdés 8. pontjától eltérően nem minősül felújításnak az olyan tevékenység, amelynek egyedi bekerülési értéke nem éri el az eszköz bruttó értékének a 2%-át, vagy ha az kisebb 100 ezer forintnál, akkor a 100 ezer forintot.
+(3)[^5] Az Szt. 3. § (4) bekezdés 8. pontjától eltérően nem minősül felújításnak az olyan tevékenység, amelynek egyedi bekerülési értéke nem éri el az eszköz bruttó értékének a 2%-át, vagy ha az kisebb 100 ezer forintnál, akkor a 100 ezer forintot.
 
 (4) Az Szt. 3. § (4) bekezdés 9. pontja szerinti karbantartásnak minősül az a tevékenység is, amely a (3) bekezdésben meghatározott értékhatár alapján nem minősül felújításnak, illetve nem minősül az Szt. 3. § (4) bekezdés 7. pontja szerinti beruházásnak.
 
@@ -14,16 +14,16 @@
 
 (8) Jövőbeni költségekre az Szt. 41. § (2) bekezdése szerinti céltartalék nem képezhető.
 
-(9)[^5]
+(9)[^6]
 
-(10)[^6] A hitelviszonyt megtestesítő értékpapírok eladásakor, beváltásakor az eladási, beváltási árban lévő kamatot az Szt. 84. § (5) bekezdés a) pontjától eltérően nem kell külön, kapott kamatként kimutatni.
+(10)[^7] A hitelviszonyt megtestesítő értékpapírok eladásakor, beváltásakor az eladási, beváltási árban lévő kamatot az Szt. 84. § (5) bekezdés a) pontjától eltérően nem kell külön, kapott kamatként kimutatni.
 
 (11) A kapcsolt vállalkozásokkal, egyéb részesedési viszonyban lévő vállalkozásokkal kapcsolatos információkat – a 4. § (3) bekezdés c) pontjában meghatározott kivétellel – a mikrogazdálkodói beszámolóban nem kell külön bemutatni.
 
-(12)[^7]
+(12)[^8]
 
-[^3]: Az 5. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 76. § 1. pontja szerint módosított szöveg.
-[^4]: Az 5. § (3) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 5. § (9) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 56. §-a hatályon kívül helyezte.
-[^6]: Az 5. § (10) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 97. § 1. pontja szerint módosított szöveg.
-[^7]: Az 5. § (12) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 68. § (2) bekezdése iktatta be, hatályon kívül helyezte a 484/2015. (XII. 29.) Korm. rendelet 99. §-a.
+[^4]: Az 5. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 76. § 1. pontja szerint módosított szöveg.
+[^5]: Az 5. § (3) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (9) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 56. §-a hatályon kívül helyezte.
+[^7]: Az 5. § (10) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 97. § 1. pontja szerint módosított szöveg.
+[^8]: Az 5. § (12) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 68. § (2) bekezdése iktatta be, hatályon kívül helyezte a 484/2015. (XII. 29.) Korm. rendelet 99. §-a.

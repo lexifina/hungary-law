@@ -206,9 +206,9 @@
 
 159. Kis értékű tenyészállatok
 
-1591.[^30] Kis értékű tenyészállatok bruttó értéke
+1591.[^32] Kis értékű tenyészállatok bruttó értéke
 
-1599.[^31] Kis értékű tenyészállatok terv szerinti értékcsökkenése
+1599.[^33] Kis értékű tenyészállatok terv szerinti értékcsökkenése
 
 16. BERUHÁZÁSOK, FELÚJÍTÁSOK
 
@@ -398,7 +398,7 @@
 
 41. SAJÁT TŐKE
 
-411.[^32] Jegyzett tőke
+411.[^34] Jegyzett tőke
 
 412. Tőketartalék
 
@@ -406,7 +406,7 @@
 
 414. Lekötött tartalék
 
-419.[^33] Adózott eredmény
+419.[^35] Adózott eredmény
 
 42. CÉLTARTALÉKOK
 
@@ -578,7 +578,7 @@
 
 599. Költségnemek átvezetési számla
 
-8.[^34] SZÁMLAOSZTÁLY RÁFORDÍTÁSOK
+8.[^36] SZÁMLAOSZTÁLY RÁFORDÍTÁSOK
 
 81. ANYAGJELLEGŰ RÁFORDÍTÁSOK
 
@@ -714,7 +714,7 @@
 
 899. Eredményt terhelő egyéb adók
 
-9.[^35] SZÁMLAOSZTÁLY BEVÉTELEK
+9.[^37] SZÁMLAOSZTÁLY BEVÉTELEK
 
 91. BELFÖLDI ÉRTÉKESÍTÉS ÁRBEVÉTELE
 
@@ -822,9 +822,9 @@
 
 979. Egyéb vagyonnövekedéssel járó pénzügyi bevételek
 
-[^30]: A 3. melléklet korábbi 1491. pontjának számozását a 480/2016. (XII. 28.) Korm. rendelet 98. §-a 1591.-re változtatta, illetve a pont szövege a 98. §-ával megállapított szöveg.
-[^31]: A 3. melléklet korábbi 1499. pontjának számozását a 480/2016. (XII. 28.) Korm. rendelet 98. §-a 1599.-re változtatta, illetve a pont szövege a 98. §-ával megállapított szöveg.
-[^32]: A 3. melléklet 411. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^33]: A 3. melléklet 419. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
-[^34]: A 3. melléklet 8. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
-[^35]: A 3. melléklet 9. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
+[^32]: A 3. melléklet korábbi 1491. pontjának számozását a 480/2016. (XII. 28.) Korm. rendelet 98. §-a 1591.-re változtatta, illetve a pont szövege a 98. §-ával megállapított szöveg.
+[^33]: A 3. melléklet korábbi 1499. pontjának számozását a 480/2016. (XII. 28.) Korm. rendelet 98. §-a 1599.-re változtatta, illetve a pont szövege a 98. §-ával megállapított szöveg.
+[^34]: A 3. melléklet 411. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^35]: A 3. melléklet 419. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
+[^36]: A 3. melléklet 8. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
+[^37]: A 3. melléklet 9. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.

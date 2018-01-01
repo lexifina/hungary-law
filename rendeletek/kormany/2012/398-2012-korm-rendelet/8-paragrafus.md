@@ -12,8 +12,8 @@
 
 (6) Az immateriális javaknál és az ingatlanhoz kapcsolódó vagyoni értékű jogoknál hasznos élettartamként 3 évet kell alkalmazni, kivéve ha szerződés vagy más dokumentum alapján ettől eltérő hasznosítási idő bizonyítható. Ebben az esetben a szerződés, vagy más dokumentum által alátámasztott időtartamot kell alkalmazni.
 
-(7)[^12] A kis értékű eszközök értékcsökkenését – a (8) bekezdés kivételével – egy összegben kell elszámolni.
+(7)[^13] A kis értékű eszközök értékcsökkenését – a (8) bekezdés kivételével – egy összegben kell elszámolni.
 
 (8) A mikrogazdálkodó – a (7) bekezdéstől eltérően – a kis értékű eszközök egyösszegű leírása során 100 ezer forintnál kisebb értékhatárt is választhat. Ebben az esetben azonos értékhatárt kell alkalmazni minden kis értékű eszköz terv szerinti értékcsökkenésének elszámolása során.
 
-[^12]: A 8. § (7) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 76. § 2. pontja szerint módosított szöveg.
+[^13]: A 8. § (7) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 76. § 2. pontja szerint módosított szöveg.
