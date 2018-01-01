@@ -2,7 +2,7 @@
 
 36. § (1) Az ajánlattevők ajánlataikat cégjelzés nélküli, zárt borítékban, legalább öt példányban – ebből egy példányt minden oldalon eredetiben cégszerű aláírással, magánszemélyeknél eredeti aláírással, illetve a meghatalmazott aláírásával ellátva – kötelesek az ajánlatok benyújtására nyitva álló határidőben, a megadott helyen, az adott pályázatra utaló jelzéssel, személyesen vagy meghatalmazott útján benyújtani.
 
-(2) Az ajánlattevő meghatalmazottja köteles közokirattal vagy teljes bizonyító erejű magánokirattal – ingatlan adásvételére vonatkozó meghatalmazás esetén közokirattal vagy ügyvéd által ellenjegyzett magánokirattal – igazolni képviseleti jogosultságát, illetve annak mértékét.
+(2)[^152] Az ajánlattevő meghatalmazottja köteles közokirattal vagy teljes bizonyító erejű magánokirattal – ingatlan adásvételére vonatkozó meghatalmazás esetén közokirattal, vagy ügyvéd, vagy kamarai jogtanácsos által ellenjegyzett magánokirattal – igazolni képviseleti jogosultságát, illetve annak mértékét.
 
 (3) Ha a kiírás másként nem rendelkezik, egy ajánlattevő csak egy ajánlatot tehet, illetve egy pályázaton csak egy ajánlattételben vehet részt akár önállóan, akár konzorcium tagjaként. Zártkörű pályázat esetén e rendelkezéstől a kiírás sem térhet el.
 
@@ -25,3 +25,5 @@ c) a vételár vagy ellenszolgáltatás összegére
 (8) Érvénytelen az ajánlat, ha nem felel meg a pályázati kiírásban és a jogszabályokban foglaltaknak. Az érvénytelen pályázatot benyújtó ajánlattevő a pályázati eljárásban, illetve annak további szakaszában nem vehet részt.
 
 (9) Az ajánlattevő nem igényelhet térítést a kiírótól ajánlata kidolgozásáért. A pályázat elkészítésével és a pályázaton való részvétellel kapcsolatos költségek – az ajánlat érvényességétől, illetve eredményességétől függetlenül – az ajánlattevőt terhelik.
+
+[^152]: A 36. § (2) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
