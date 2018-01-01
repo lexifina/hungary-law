@@ -1,0 +1,5 @@
+2. § (1) A szakhatósági állásfoglalás kialakításakor az általános rendőrségi feladatok ellátására létrehozott szerv által vizsgálandó szakkérdés eldöntése során a rendőrségnek az engedélyes által benyújtott Fizikai Védelmi Tervnek a Korm. rendelet hatályos előírásainak való megfelelését kell vizsgálnia.
+
+(2) A Korm. rendelet 6–30. §-ában foglalt követelmények teljesítése esetén a Korm. rendelet 2., 3. és 6. mellékletében meghatározott követelményektől való eltérés lehetősége vonatkozásában a rendőrség az általa vizsgálandó szakkérdést abból a szempontból vizsgálja, hogy az eltérés rendészeti vonatkozásában milyen feltételek alapján engedélyezhető.
+
+(3) Ha a Korm. rendelet 37. § (5) bekezdésében meghatározott esetben az OAH az eljárásába a rendőrséget szakhatóságként bevonja, a rendőrség rendészeti szempontból azt vizsgálja, hogy a fizikai védelmi rendszernek az OAH által meghatározott időpontig történő teljes kiépüléséig, a megvalósulás ütemezésének megfelelően az engedélyesnek milyen átmeneti intézkedéseket kell teljesítenie.

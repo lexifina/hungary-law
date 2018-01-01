@@ -1,0 +1,3 @@
+1. § (1) Az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 2. melléklet 34. sor szerinti szakkérdés vizsgálata érdekében a hatóság a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 9.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. melléklet 2. pontjában meghatározott Fizikai Védelmi Tervet a szakhatóság rendelkezésére bocsátja.
+
+(2) Az Atv. 2. melléklet 35. sor szerinti szakkérdés vizsgálata érdekében a hatóság a Korm. rendelet 4. melléklet 1. pontjában meghatározott Fizikai Védelmi Tervet a szakhatóság rendelkezésére bocsátja.
