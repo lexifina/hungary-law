@@ -14,6 +14,6 @@ b) a bevett egyház vagyoni ügyeinek lezárását bizonyító, a számvitelről
 
 c) azokat az okiratokat, nyilatkozatokat, amelyek alapján megállapítható, hogy a bevett egyház nyilvántartásból való törlésének feltételei bekövetkeztek.
 
-(3)[^14] A bevett egyház (1) bekezdés szerinti okból történő nyilvántartásból való törlésére irányuló eljárás ügyintézési határideje az Országgyűlés Ehtv. 28. § (1) bekezdése szerinti döntésének hatálybalépését követő nyolcadik napon telik le.
+(3)[^30] A bevett egyház (1) bekezdés szerinti okból történő nyilvántartásból való törlésére irányuló eljárás ügyintézési határideje az Országgyűlés Ehtv. 28. § (1) bekezdése szerinti döntésének hatálybalépését követő nyolcadik napon telik le.
 
-[^14]: A 24. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 200. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^30]: A 24. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 200. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

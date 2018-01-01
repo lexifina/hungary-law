@@ -1,0 +1,1 @@
+## 5. § A miniszter a kezdeményezés alapján rendelkezésre álló olyan okiratot, dokumentumot és a tudomására jutott olyan adatra, tényre, körülményre való utalást, amely az Ehtv. 14. § g)–i) pontja szerinti feltételek bizonyítására alkalmas, az Országgyűlés vallásügyekkel foglalkozó bizottsága részére a döntése Ehtv. 14/B. § (2) bekezdése szerinti közlésével egyidejűleg megküldi.

@@ -24,6 +24,6 @@
 
 | 11 | Magyar Pünkösdi Egyház | 0,3220% |
 
-3. melléklet a 295/2013. (VII. 29.) Korm. rendelethez[^21]
+3. melléklet a 295/2013. (VII. 29.) Korm. rendelethez[^41]
 
-[^21]: A 3. mellékletet a 24/2014. (II. 6.) Korm. rendelet 4. § b) pontja iktatta be, hatályon kívül helyezte a 73/2016. (III. 31.) Korm. rendelet 2. §-a.
+[^41]: A 3. mellékletet a 24/2014. (II. 6.) Korm. rendelet 4. § b) pontja iktatta be, hatályon kívül helyezte a 73/2016. (III. 31.) Korm. rendelet 2. §-a.

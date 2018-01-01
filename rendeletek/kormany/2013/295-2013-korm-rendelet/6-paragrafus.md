@@ -1,4 +1,4 @@
-## 5. § A miniszter a kezdeményezés alapján rendelkezésre álló olyan okiratot, dokumentumot és a tudomására jutott olyan adatra, tényre, körülményre való utalást, amely az Ehtv. 14. § g)–i) pontja szerinti feltételek bizonyítására alkalmas, az Országgyűlés vallásügyekkel foglalkozó bizottsága részére a döntése Ehtv. 14/B. § (2) bekezdése szerinti közlésével egyidejűleg megküldi.
+## 5/A. §[^2] Az egyházként történő elismerésre irányuló eljárásban hozott döntést a hatóság írásban közli.
 
 ## II. Fejezet
 
@@ -10,13 +10,13 @@
 
 (2) A kérelmet az e rendeletben meghatározott módon írásban lehet a miniszternél előterjeszteni.
 
-(3)[^1] A kérelem érdemi vizsgálat nélküli elutasításának és az eljárás megszüntetésének – a bevett egyház nyilvántartásba vétele kivételével – akkor van helye, ha annak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 30–31. §-ában meghatározott feltételei fennállnak.
+(3)[^3]
 
-(4)[^2]
+(4)[^4]
 
-(5) A miniszter a Ket.-ben meghatározott bizonyítási eszközök közül különösen az ügyfél nyilatkozatát, iratot, szakértőt vehet a Ket. szabályainak alkalmazásával igénybe, ha az alkalmas a tényállás tisztázására. A bizonyítási eszközt a miniszter szabadon választja meg.
+(5)–(6)[^5]
 
-(6) Az eljárás során igazolási kérelem előterjesztésének nincs helye.
-
-[^1]: A 6. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 200. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^2]: A 6. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 201. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^2]: Az 5/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 447. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^3]: A 6. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 449. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: A 6. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 201. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^5]: A 6. § (5)–(6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 449. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
