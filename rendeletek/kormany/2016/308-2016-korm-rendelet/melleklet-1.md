@@ -1,4 +1,4 @@
-## 8. §[^4] E rendeletnek a Módr.-rel megállapított 4/A. §-át és 5/A. §-át a Módr. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági eljárásokban is alkalmazni kell.
+## 8. §[^9] E rendeletnek a Módr.-rel megállapított 4/A. §-át és 5/A. §-át a Módr. hatálybalépésekor[^10] folyamatban lévő közigazgatási hatósági eljárásokban is alkalmazni kell.
 
 1. melléklet a 308/2016. (X. 13.) Korm. rendelethez
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: A 8. §-t a 257/2017. (IX. 5.) Korm. rendelet 3. §-a iktatta be.
-[^5]: A hatálybalépés időpontja 2017. szeptember 6.
+[^9]: A 8. §-t a 257/2017. (IX. 5.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2017. szeptember 6.
