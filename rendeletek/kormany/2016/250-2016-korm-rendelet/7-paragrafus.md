@@ -1,17 +1,23 @@
-7. § (1) A Bizottság a 6. § (1) bekezdés a) pontja szerinti előterjesztéssel összefüggésben megvizsgálja különösen
+7. § (1)[^32] A támogatási döntés meghozatala során vizsgálni kell különösen
 
-a) az előterjesztés 2. § (1) bekezdésében meghatározott együttműködési megállapodásban és a kormányhatározatban foglaltakkal való összhangját,
+a)[^33] az előterjesztésnek a Kormány 2. § (1) bekezdés szerinti nyilvános egyedi határozatával és az együttműködési megállapodással való összhangját,
 
-b) az előterjesztésben leírt tevékenységek és feladatok az előterjesztésben megjelölt határidőre és támogatási összeg terhére történő megvalósíthatóságát,
+b)[^34] az előterjesztésben leírt tevékenységeknek és feladatoknak az előterjesztésben megjelölt határidőre és támogatási összeg terhére történő megvalósíthatóságát,
 
 c) a szükséges fedezet rendelkezésre állását és
 
-d) a 6. § (1) bekezdés b)–d), f) és g) pontjában meghatározott nyilatkozatok meglétét.
+d)[^35] az előterjesztéshez csatolandó nyilatkozatok meglétét.
 
-(2) A Bizottság írásban, indokolással ellátva elutasítja a 6. § (1) bekezdés a) pontja szerinti előterjesztést, ha azt nem a 2. § (3) bekezdése alapján meghatározott főfelelős nyújtja be vagy nem a kormányhatározatban megjelölt projekt tekintetében nyújtják be a Bizottság részére.
+(2)[^36] Ha az előterjesztés megfelel az (1) bekezdés szerinti feltételeknek, az Ávr. 71. § (2) bekezdése szerinti döntési listának a Bizottság 5. § (8) bekezdése szerinti jegyzőkönyve vagy – ha az MVP támogatásról a Kormány dönt – a Kormány nyilvános egyedi határozata minősül. A kedvezményezett részére a támogatási döntésről külön tájékoztatást küldeni nem kell.
 
-(3) Ha a 6. § (1) bekezdés a) pontja szerinti előterjesztés nem felel meg az (1) bekezdésben meghatározott feltételeknek, a főfelelős a Bizottság ülésétől számított 30 napon belül a Bizottság kifogásainak megfelelő előterjesztést nyújt be a Bizottság részére.
+(3)[^37] A Bizottság 5. § (8) bekezdése szerinti jegyzőkönyve vagy – ha az MVP támogatásról a Kormány dönt – a Kormány nyilvános egyedi határozata az MVP támogatás felhasználási célját, mértékét és kedvezményezettjének nevét tartalmazza.
 
-(4)[^14] Ha a 6. § (1) bekezdés a) pontja szerinti előterjesztés megfelel az (1) bekezdés szerinti feltételeknek, az Ávr. 71. § (2) bekezdése szerinti döntési listát a Bizottság 5. § (8) bekezdése szerinti jegyzőkönyve tartalmazza. A támogatónak a támogatási döntésről az önkormányzatot az Ávr. 73. § (1) bekezdése szerint a döntést követő harminc napon belül kell tájékoztatni.
+(4)[^38]
 
-[^14]: A 7. § (4) bekezdése a 390/2016. (XII. 5) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^32]: A 7. § (1) bekezdés nyitó szövegrésze a 436/2017. (XII. 22.) Korm. rendelet 26. § 4. pontja szerint módosított szöveg.
+[^33]: A 7. § (1) bekezdés a) pontja a 436/2017. (XII. 22.) Korm. rendelet 26. § 5. pontja szerint módosított szöveg.
+[^34]: A 7. § (1) bekezdés b) pontja a 436/2017. (XII. 22.) Korm. rendelet 26. § 6. pontja szerint módosított szöveg.
+[^35]: A 7. § (1) bekezdés d) pontja a 436/2017. (XII. 22.) Korm. rendelet 26. § 7. pontja szerint módosított szöveg.
+[^36]: A 7. § (2) bekezdése a 436/2017. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^37]: A 7. § (3) bekezdése a 436/2017. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^38]: A 7. § (4) bekezdését a 436/2017. (XII. 22.) Korm. rendelet 27. § (1) bekezdés b) pontja hatályon kívül helyezte.

@@ -1,10 +1,18 @@
-4. § (1) MVP támogatás olyan megyei jogú város önkormányzata részére nyújtható, amellyel a Kormány az 1. §-ban meghatározott együttműködési megállapodást kötött (a továbbiakban: önkormányzat).
+4. § (1)[^21] MVP támogatás olyan megyei jogú város önkormányzata részére nyújtható, amellyel a Kormány az 1. §-ban meghatározott együttműködési megállapodást kötött (a továbbiakban: kedvezményezett).
 
-(2) Az MVP támogatás odaítéléséről a Modern Városok Program Bizottság (a továbbiakban: Bizottság) dönt.
+(2)[^22] Ha a projekt vagy annak valamely része
 
-(3)[^4] MVP támogatás – a Kormány eltérő döntése hiányában – a központi költségvetés Miniszterelnökség fejezetében megállapított, Modern Városok Program elnevezésű, e célt szolgáló fejezeti kezelésű előirányzat terhére nyújtható.
+a) az állam vagy annak valamely szerve vagy állami tulajdonú gazdasági társaság által végrehajtható beruházás keretében hatékonyabban valósítható meg, vagy
 
-(4)[^5] A központi költségvetés Miniszterelnökség fejezetében megállapított, Modern Városok Program elnevezésű, e célt szolgáló fejezeti kezelésű előirányzat tekintetében a kötelezettségvállalásra a miniszter vagy az általa írásban felhatalmazott, a Miniszterelnökség alkalmazásában álló személy jogosult.
+b) a központi költségvetésnek az 1. §-ban meghatározott célra külön megállapított költségvetési előirányzata helyett más fejezeti kezelésű előirányzat terhére hatékonyabban támogatható,
 
-[^4]: A 4. § (3) bekezdése a 231/2017. (VIII. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 4. § (4) bekezdését a 295/2017. (X. 10.) Korm. rendelet 1. §-a iktatta be.
+## a megvalósításhoz szükséges előirányzat rendelkezésre állásáról az Áht. 33. § (4) bekezdés b) pontja szerint az érintett költségvetési fejezetet irányító szervek közötti megállapodással vagy – a miniszter által a Kormány részére benyújtott előterjesztés alapján – az Áht. 33. § (2) bekezdése szerint kell gondoskodni.
+
+(3)[^23]
+
+(4)[^24]
+
+[^21]: A 4. § (1) bekezdése a 436/2017. (XII. 22.) Korm. rendelet 26. § 1. pontja szerint módosított szöveg.
+[^22]: A 4. § (2) bekezdése a 436/2017. (XII. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^23]: A 4. § (3) bekezdését a 436/2017. (XII. 22.) Korm. rendelet 27. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^24]: A 4. § (4) bekezdését a 295/2017. (X. 10.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 436/2017. (XII. 22.) Korm. rendelet 27. § (1) bekezdés a) pontja.

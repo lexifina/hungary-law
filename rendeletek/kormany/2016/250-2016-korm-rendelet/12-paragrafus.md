@@ -1,3 +1,11 @@
-12. § (1) A támogatói okirat módosításáról vagy visszavonásáról a főfelelős indokolással ellátott előterjesztése alapján a Bizottság javaslatának megfelelően a támogató intézkedik. A döntésről annak kézhezvételétől számított harminc napon belül a miniszter – a támogatói okirat módosításáról vagy az MVP támogatás visszavonásáról szóló okiratban – tájékoztatja az önkormányzatot.
+12. §[^93] (1) A támogatói okirat módosításáról, ha a módosítás
 
-(2) Az Ávr. 95. § (2) bekezdésében foglaltakon túl a támogatói okirat akkor is módosítható, ha azért szükséges többlet MVP támogatás biztosítása, mert az a projekt megvalósításához kapcsolódóan lebonyolított közbeszerzési eljárás megvalósításához szükséges és a megfelelő fedezet nem áll rendelkezésre. A támogató (1) bekezdés szerinti döntése alapján az államháztartásért felelős miniszter intézkedik, hogy a szükséges forrás a 4. § (3) bekezdése szerinti előirányzaton rendelkezésre álljon.
+a) az MVP támogatásnak a Bizottság 5. § (8) bekezdése szerinti jegyzőkönyvében megállapított feltételét érinti, a Bizottság,
+
+b) az MVP támogatásnak a Kormány nyilvános egyedi határozatában megállapított feltételét érinti, a Kormány
+
+## a szakpolitikai felelős indokolással ellátott, a b) pont szerinti esetben a miniszterrel közös előterjesztése alapján meghozott döntésének megfelelően, minden más esetben – a szakpolitikai felelős véleményének előzetes kikérésével – saját hatáskörben a miniszter intézkedik. A támogatói okirat módosításának másolatát elektronikus úton a miniszter a szakpolitikai felelősnek is megküldi.
+
+(2) Az Ávr. 95. § (2) bekezdésében foglaltakon túl a támogatói okirat akkor is módosítható, ha azért szükséges többlet MVP támogatás biztosítása, mert az a projekt megvalósításához kapcsolódóan lebonyolított közbeszerzési eljárás megvalósításához szükséges és ehhez a megfelelő fedezet nem áll rendelkezésre. Az ehhez szükséges előirányzat rendelkezésre bocsátásáról – az (1) bekezdésben meghatározott döntés alapján – az államháztartásért felelős miniszter gondoskodik.
+
+[^93]: A 12. § a 436/2017. (XII. 22.) Korm. rendelet 21. §-ával megállapított szöveg.
