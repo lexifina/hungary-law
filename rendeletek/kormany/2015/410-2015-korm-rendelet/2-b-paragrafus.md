@@ -1,4 +1,4 @@
-## 2/B. §[^4] A Beruházással érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet és a hatályos településrendezési eszközöket a következő eltérésekkel kell alkalmazni, valamint a következő építési követelményeket kell érvényesíteni:
+## 2/B. §[^6] A Beruházással érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet és a hatályos településrendezési eszközöket a következő eltérésekkel kell alkalmazni, valamint a következő építési követelményeket kell érvényesíteni:
 
 a) az 1. § (1) bekezdése szerinti ingatlanon álló épületek tetőtere egy szintben beépíthető,
 
@@ -12,4 +12,4 @@ e) az 1. § (1) bekezdése szerinti ingatlan és a közhasználat céljára megn
 
 f) az 1. § (1) bekezdése szerinti ingatlan e) pontban meghatározott közös telekhatárral párhuzamos részének legfeljebb 9,5 méteres sávját építési helynek kell tekinteni.
 
-[^4]: A 2/B. §-t a 336/2016. (XI. 11.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^6]: A 2/B. §-t a 336/2016. (XI. 11.) Korm. rendelet 9. § (2) bekezdése iktatta be.
