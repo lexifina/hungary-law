@@ -1,4 +1,4 @@
-11/A. §[^21] (1) A honvédelmi szerv állományába 2014. július 31. napját követően felvett és hősi halottá nyilvánított hivatásos vagy szerződéses katonának a halál bekövetkezésekor vele ténylegesen együtt élő özvegye, vagy a (7) bekezdésben meghatározott feltételeknek megfelelő túlélő élettársa, az előbbiek hiányában a hősi halott saját háztartásában eltartott gyermeke részére egyszeri pénzbeli támogatás nyújtható
+11/A. §[^22] (1)[^23] A hősi halottá nyilvánított hivatásos vagy szerződéses katonának a halál bekövetkezésekor vele ténylegesen együtt élő özvegye, vagy a (7) bekezdésben meghatározott feltételeknek megfelelő túlélő élettársa, az előbbiek hiányában a hősi halott saját háztartásában eltartott gyermeke részére egyszeri pénzbeli támogatás nyújtható
 
 a) tulajdoni formától függetlenül, a személyi jövedelemadóról szóló törvényben meghatározott méltányolható lakásigény mértékét meg nem haladó szobaszámú lakás vásárlásához, vagy
 
@@ -30,4 +30,5 @@ b) a halál bekövetkezésekor fennálló együttélés folyamatosan, legalább 
 
 (8) Az egyszeri pénzbeli támogatás iránti igény a hősi halottá nyilvánítástól számított egy éves jogvesztő határidőn belül nyújtható be. A támogatás nyújtására e rendelet sorrendiségi szabályainak mellőzésével kerülhet sor.
 
-[^21]: A 11/A. §-t a 9/2017. (VIII. 31.) HM rendelet 16. §-a iktatta be.
+[^22]: A 11/A. §-t a 9/2017. (VIII. 31.) HM rendelet 16. §-a iktatta be.
+[^23]: A 11/A. § (1) bekezdés nyitó szövegrésze a 9/2017. (VIII. 31.) HM rendelet 20. § a) pontja szerint módosított szöveg.

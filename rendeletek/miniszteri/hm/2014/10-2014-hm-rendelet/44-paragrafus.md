@@ -1,9 +1,10 @@
-## 21–43. §[^26]
+## 21–43. §[^27]
 
-44. § (1)[^27]
+44. § (1) Az R. 211. § (1) bekezdés nyitó szövegrésze helyébe a következő rendelkezés lép:
+
+## „Azt a szolgálati érdekből áthelyezett szerződéses tisztet, altisztet, akinek a szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett, lakbértámogatás illeti meg, ha”
 
 (2)[^28]
 
-[^26]: A 21–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 44. § (1) bekezdése a 16. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^27]: A 21–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^28]: A 44. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

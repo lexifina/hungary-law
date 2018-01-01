@@ -1,3 +1,3 @@
-## 20. §[^25]
+## 20. §[^26]
 
-[^25]: A 20. § a 9/2017. (VIII. 31.) HM rendelet 21. §-a alapján nem lép hatályba.
+[^26]: A 20. § a 9/2017. (VIII. 31.) HM rendelet 21. §-a alapján nem lép hatályba.

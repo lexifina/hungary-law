@@ -2,7 +2,7 @@
 
 (2) A lakáspénz mértéke a szerződéssel és számlával, számlakibocsátási kötelezettség hiányában az ügylet teljesítését igazoló, a számviteli törvény rendelkezései szerinti számviteli bizonylatnak minősülő okirattal igazolt, rezsiköltséget nem tartalmazó bérleti, albérleti vagy lízing díj, de legfeljebb a jogosult az R. 10. § (1) és (4) bekezdése szerinti jogos lakásigény mértékének alsó határával megegyező szobaszámú lakásra a (3) és (4) bekezdés szerint számított összeg.
 
-(3) A jogosult esetében az R. 10. § (1) és (4) bekezdése szerinti jogos lakásigény mérték alsó határa szerint a lakáspénzt az R. 215. § (4) bekezdésében foglaltaknak megfelelően kell kiszámítani.
+(3)[^11] A jogosult esetében az R. 10. § (1) és (4) bekezdése szerinti jogos lakásigény mérték alsó határa szerint a lakáspénzt az R. 215. § (2) bekezdésében foglaltaknak megfelelően kell kiszámítani.
 
 (4) A lakáspénz (3) bekezdés szerint számított összegét annak további 10-10%-ával meg kell növelni, ha
 
@@ -17,3 +17,4 @@ c) az R. 10. § (1) és (4) bekezdése szerinti jogos lakásigény mértékének
 (6) Ha a lakáspénz 4. § szerint meghatározott összege eléri vagy meghaladja a (3)–(5) bekezdés szerint kiszámított összeget, a lakáspénzt a továbbiakban a 4. § szerint kell megállapítani.
 
 [^10]: A 4/A. §-t a 9/2017. (VIII. 31.) HM rendelet 12. §-a iktatta be.
+[^11]: A 4/A. § (3) bekezdése a 9/2017. (VIII. 31.) HM rendelet 19. §-a szerint módosított szöveg.

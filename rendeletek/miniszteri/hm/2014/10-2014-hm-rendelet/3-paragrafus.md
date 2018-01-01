@@ -1,10 +1,8 @@
-3. § (1) Az állomány próbaidejét töltő tagja kivételével lakáspénzre jogosult:
+3. § (1)[^1] Lakáspénzre jogosult:
 
-a) az a szolgálat érdekében áthelyezett hivatásos katona, akinek a hivatásos szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett, és a honvédelmi szervtől albérleti díj hozzájárulásban 2014. július 31-én nem részesült;
+a) az állomány próbaidejét töltő tagja kivételével a hivatásos katona, és
 
-b) az a szolgálat érdekében áthelyezett hivatásos katona, akinek a hivatásos szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett, és az általa vagy a házastársa, élettársa által bérelt HM rendelkezésű lakásra határozatlan időtartamra vagy a honvédelmi szervvel fennálló hivatásos szolgálati viszonyának megszűnéséig, mint feltétel bekövetkezéséig szóló bérleti szerződést a bérlő a 2. § (2) bekezdés a) pontjában foglalt kivétellel kiürítési térítés nélkül megszünteti, és a lakást a bérbeadónak visszaadja;
-
-c) az a szolgálat érdekében áthelyezett hivatásos katona, akinek a hivatásos szolgálati viszonya 2014. július 31-ét követően keletkezett.
+b) az a 2017. december 31-én jogszerűen albérleti díj hozzájárulásban vagy lakbértámogatásban részesülő szerződéses katona, akinek a szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett, továbbá a szerződéses szolgálatban folyamatosan 5 évet már eltöltött és összesen legalább a 10. év eléréséig vállalta a további szolgálatot.
 
 (2) Az állomány hadnagyi rendfokozatú, egyedülálló tagja a hivatásos szolgálati viszony létrejöttétől számított 2 évig lakáspénzre csak akkor jogosult, ha a szolgálati helye szerinti településen lévő helyőrségi szállón önálló elhelyezése helyhiány miatt nem lehetséges.
 
@@ -60,4 +58,5 @@ b) a (6) bekezdés 10. pontját, ha a pénzbeli térítés
 
 (8)[^2] Ha a 2017. december 31-én albérleti díj hozzájárulásban részesült hivatásos vagy szerződéses katona részére kerül a lakáspénz megállapításra azon helyőrség vonatkozásában, ahová a hivatásos vagy szerződéses katona helyőrség- (település-) és lakóhely-változtatással is járó másik beosztásba kinevezésére, áthelyezésére, rendelkezési állományból más szervhez határozatlan időtartamra vagy egy évet meghaladó határozott időtartamra történt vezénylésére a haderő átalakításával vagy átszervezéssel összefüggésben, a szolgálat érdekében került sor, és a munkáltatói kölcsönnyújtás vagy a lakásvásárlás azt megelőzően történt, a (6) bekezdés 1. és 3. pontját nem kell alkalmazni.
 
+[^1]: A 3. § (1) bekezdése a 19. §-sal megállapított szöveg.
 [^2]: A 3. § (8) bekezdését a 9/2017. (VIII. 31.) HM rendelet 10. §-a iktatta be.
