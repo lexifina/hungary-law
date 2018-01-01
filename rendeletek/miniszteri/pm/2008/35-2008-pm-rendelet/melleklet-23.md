@@ -1,6 +1,6 @@
 | BEJELENTKEZÉS, VÁLTOZÁS-BEJELENTÉS |
 
-| az adózás rendjéről szóló 2003. évi XCII. törvény és a helyi adókról szóló 1990. évi C. törvény alapján a/az ______________________ önkormányzat adóhatóságához |
+| benyújtandó a/az _________________ önkormányzat adóhatóságához |
 
 | I. Bejelentés jellege Adóköteles tevékenység Változás-bejelentés Adóköteles tevékenység megszűnése, megkezdése megszűntetése |
 
@@ -414,8 +414,6 @@
 
 | _____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | _________________________________________ a bevallásbenyújtó vagy képviselője (meghatalmazottja) aláírása |
 
-23. melléklet a 35/2008. (XII. 31.) PM rendelethez[^28]
+23. melléklet a 35/2008. (XII. 31.) PM rendelethez[^30]
 
-20085320000035_18
-
-[^28]: A 23. mellékletet a 60/2016. (XII. 29.) NGM rendelet 7. § (2) bekezdése iktatta be.
+[^30]: A 23. mellékletet a 60/2016. (XII. 29.) NGM rendelet 7. § (2) bekezdése iktatta be, szövege az 52/2017. (XII. 29.) NGM rendelet 2. § (3) bekezdés 5. pontja szerint módosított szöveg.

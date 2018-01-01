@@ -78,6 +78,6 @@
 
 | ____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | ________________________________________ az adózó vagy képviselője (meghatalmazottja) aláírása |
 
-15. melléklet a 35/2008. (XII. 31.) PM rendelethez[^20]
+15. melléklet a 35/2008. (XII. 31.) PM rendelethez[^22]
 
-[^20]: A 15. melléklet a 77/2013. (XII. 31.) NGM rendelet 10. § (7) bekezdése szerint módosított szöveg.
+[^22]: A 15. melléklet a 77/2013. (XII. 31.) NGM rendelet 10. § (7) bekezdése, az 52/2017. (XII. 29.) NGM rendelet 2. § (3) bekezdés 2. pontja szerint módosított szöveg.

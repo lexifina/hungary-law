@@ -1,18 +1,18 @@
-## Oldalszám: ⬜⬜
+## Oldalszám: □□
 
-| Kiegészítő lap az építményadó, illetve a telekadó bevallásához (Benyújtandó, ha az adó alanya külföldön bejegyzett szervezet) |
+| Kiegészítő lap az építményadó, illetve a telekadó adatbejelentéséhez (Benyújtandó, ha az adó alanya külföldön bejegyzett szervezet) |
 
-| I. Bevallás benyújtója |
+| I. Az adatbejelentés benyújtója |
 
-| Bevallásbenyújtó cégneve: |
+| Az adatbejelentő cégneve: ___________________________________________________________________ |
 
-| Adószáma: ⬜⬜⬜⬜⬜⬜⬜⬜ - ⬜ - ⬜⬜ |
+| Adószáma: □□□□□□□□ - □ - □□ |
 
 | II. Ingatlan |
 
-| 1. Címe: ⬜⬜⬜⬜ város/község |
+| 1. Címe: □□□□ _______________________________________________________________ város/község |
 
-| közterület közterület jelleg hsz. ép. lh. em. ajtó |
+| _____________________________________ közterület _______ közterület jelleg ______ hsz. _____ ép. _____ lh. _____ em. _____ ajtó |
 
 | 2. Helyrajzi száma: _______/_______/_______/_______ |
 
@@ -20,66 +20,66 @@
 
 | Tag 1. |
 
-| Neve: Tulajdoni részesedés aránya: |
+| Neve: _____________________________________________ Tulajdoni részesedés aránya: ________________ |
 
-| Illetősége: ⬜ Belföldi ⬜Külföldi: ország |
+| Illetősége: | □ Belföldi | □ Külföldi: ______________________________________________ ország |
 
-| Adóazonosító jele: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ Adószáma: ⬜⬜⬜⬜⬜⬜⬜⬜ - ⬜ - ⬜⬜ |
+| Adóazonosító jele: □□□□□□□□□□ |  |  | Adószáma: □□□□□□□□ - □ - □□ |
 
-| Székhelye, lakóhelye: ⬜⬜⬜⬜ város/község |
+| Székhelye, lakóhelye: □□□□ ____________________________________________________ város/község |
 
-| közterület közterület jelleg hsz. ép. lh. em. ajtó |
+| _________________________________________ közterület ____________ közterület jelleg ________ hsz. ___ ép. ___ lh. ___ em. ___ ajtó |
 
 | Tag 2. |
 
-| Neve: Tulajdoni részesedés aránya: |
+| Neve: ___________________________________________ Tulajdoni részesedés aránya: ________________ |
 
-| Illetősége: ⬜ Belföldi ⬜Külföldi: ország |
+| Illetősége: | □ Belföldi | □ Külföldi: _____________________________________________ ország |
 
-| Adóazonosító jele: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ Adószáma: ⬜⬜⬜⬜⬜⬜⬜⬜ - ⬜ - ⬜⬜ |
+| Adóazonosító jele: □□□□□□□□□□ |  |  | Adószáma: □□□□□□□□ - □ - □□ |
 
-| Székhelye, lakóhelye: ⬜⬜⬜⬜ város/község |
+| Székhelye, lakóhelye: □□□□ ___________________________________________________ város/község |
 
-| közterület közterület jelleg hsz. ép. lh. em. ajtó |
+| _________________________________________ közterület ____________ közterület jelleg ________ hsz. ___ ép. ___ lh. ___ em. ___ ajtó |
 
 | Tag 3. |
 
-| Neve: Tulajdoni részesedés aránya: |
+| Neve: _____________________________________________ Tulajdoni részesedés aránya: ________________ |
 
-| Illetősége: ⬜ Belföldi ⬜Külföldi: ország |
+| Illetősége: | □ Belföldi | □ Külföldi: _______________________________________________ ország |
 
-| Adóazonosító jele: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ Adószáma: ⬜⬜⬜⬜⬜⬜⬜⬜ - ⬜ - ⬜⬜ |
+| Adóazonosító jele: □□□□□□□□□□ |  |  | Adószáma: □□□□□□□□ - □ - □□ |
 
-| Székhelye, lakóhelye: ⬜⬜⬜⬜ város/község |
+| Székhelye, lakóhelye: □□□□ _____________________________________________________ város/község |
 
-| közterület közterület jelleg hsz. ép. lh. em. ajtó |
+| _________________________________________ közterület ____________ közterület jelleg ________ hsz. ___ ép. ___ lh. ___ em. ___ ajtó |
 
 | Tag 4. |
 
-| Neve: Tulajdoni részesedés aránya: |
+| Neve: ____________________________________________ Tulajdoni részesedés aránya: ________________ |
 
-| Illetősége: ⬜ Belföldi ⬜Külföldi: ország |
+| Illetősége: | □ Belföldi | □ Külföldi: ______________________________________________ ország |
 
-| Adóazonosító jele: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ Adószáma: ⬜⬜⬜⬜⬜⬜⬜⬜ - ⬜ - ⬜⬜ |
+| Adóazonosító jele: □□□□□□□□□□ |  |  | Adószáma: □□□□□□□□ - □ - □□ |
 
-| Székhelye, lakóhelye: ⬜⬜⬜⬜ város/község |
+| Székhelye, lakóhelye: □□□□ ____________________________________________________ város/község |
 
-| közterület közterület jelleg hsz. ép. lh. em. ajtó |
+| _________________________________________ közterület ____________ közterület jelleg ________ hsz. ___ ép. ___ lh. ___ em. ___ ajtó |
 
 | Tag 5. |
 
-| Neve: Tulajdoni részesedés aránya: |
+| Neve: ___________________________________________ Tulajdoni részesedés aránya: ________________ |
 
-| Illetősége: ⬜ Belföldi ⬜Külföldi: ország |
+| Illetősége: | □ Belföldi | □ Külföldi: _____________________________________________ ország |
 
-| Adóazonosító jele: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ Adószáma: ⬜⬜⬜⬜⬜⬜⬜⬜ - ⬜ - ⬜⬜ |
+| Adóazonosító jele: □□□□□□□□□□ |  |  | Adószáma: □□□□□□□□ - □ - □□ |
 
-| Székhelye, lakóhelye: ⬜⬜⬜⬜ város/község |
+| Székhelye, lakóhelye: □□□□ ____________________________________________________ város/község |
 
-| közterület közterület jelleg hsz. ép. lh. em. ajtó |
+| _________________________________________ közterület ____________ közterület jelleg ________ hsz. ___ ép. ___ lh. ___ em. ___ ajtó |
 
-| _____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | _________________________________________ a bevallásbenyújtó vagy képviselője (meghatalmazottja) aláírása |
+| __________________________ helység | □□□□ év | □□ hó | □□ nap | _________________________________________ az adatbejelentő vagy képviselője (meghatalmazottja) aláírása |
 
-18. melléklet a 35/2008. (XII. 31.) PM rendelethez[^23]
+18. melléklet a 35/2008. (XII. 31.) PM rendelethez[^25]
 
-[^23]: A 18. mellékletet újonnan a 48/2015. (XII. 30.) NGM rendelet 6. § (3) bekezdése iktatta be, szövege a 60/2016. (XII. 29.) NGM rendelet 7. § (1) bekezdés e) pontja módosított szöveg.
+[^25]: A 18. mellékletet újonnan a 48/2015. (XII. 30.) NGM rendelet 6. § (3) bekezdése iktatta be, szövege a 60/2016. (XII. 29.) NGM rendelet 7. § (1) bekezdés e) pontja módosított szöveg.

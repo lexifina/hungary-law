@@ -8,7 +8,7 @@
 
 | 2.Adószáma: ⎕⎕⎕⎕⎕⎕⎕⎕ - ⎕ - ⎕⎕ |
 
-| 3. Székhelye: ⎕⎕⎕⎕_____________________________________________________________________________ város/község |
+| 3. Székhelye: ⎕⎕⎕⎕ _____________________________________________________________________________ város/község |
 
 | _________________________________________ közterület ____________ közterület jelleg ________ hsz. ___ ép. ___ lh. ___ em. ___ ajtó |
 
@@ -16,20 +16,24 @@
 
 | II. Adóelőleg-kiegészítés bevallása |
 
-| Az önkormányzatot megillető, az adóév utolsó hónapjának 20. napjáig fizetendő adóelőleg-kiegészítés: ⎕ ⎕ ⎕. ⎕ ⎕ ⎕. ⎕ ⎕ ⎕. ⎕ ⎕ ⎕. ⎕ ⎕ ⎕, (Ft) |
+| Az önkormányzatot megillető, az adóév utolsó hónapjának 20. napjáig fizetendő adóelőleg-kiegészítés: ⎕ ⎕ ⎕ . ⎕ ⎕ ⎕ . ⎕ ⎕ ⎕ . ⎕ ⎕ ⎕ . ⎕ ⎕ ⎕ , (Ft) |
 
-| III. Felelősségem tudatában kijelentem, hogy a bevallásban közölt adatok a valóságnak megfelelnek. |
+| III. Felelősségem tudatában kijelentem, hogy a bevallásban szereplő adatok a valóságnak megfelelnek |
 
-| _____________________________ helység | ⎕⎕⎕⎕ év | ⎕⎕ hó | ⎕⎕ nap | ________________________________________________ az adózó vagy képviselője (meghatalmazottja) aláírása |
+| _____________________ | □□□□ | □□ | □□ | _________________________ |
 
-| 1. A jelen adóbevallást ellenjegyzem: _________________________________ | Jelölje X-szel, ha az adóhatósághoz bejelentett, a bevallás aláírására jogosult állandó meghatalmazott: ⎕ |
+| helység | év | hó | nap | az adózó vagy képviselője (meghatalmazottja) aláírása |
 
-| 2. Adótanácsadó, adószakértő vagy okleveles adószakértő neve: _______________________________________________________________ | Jelölje X-szel, ha meghatalmazott és meghatalmazását csatolta: ⎕ |
+|  | Ha az adóbevallást az adózó helyett annak képviselője (meghatalmazottja) nyújtja be, jelölje X-szel*: □ Az önkormányzati adóhatósághoz bejelentett, a bevallás aláírására jogosult állandó meghatalmazott □ Meghatalmazott (meghatalmazás csatolva) □ Az önkormányzati adóhatósághoz bejelentett pénzügyi képviselő *A NAV útján benyújtott bevallás esetén nem kell jelölni. |
 
-| 3. Adóazonosító száma: ___________________________________________ | Jelölje X-szel, ha az aláíró az adóhatósághoz bejelentett pénzügyi képviselő: ⎕ |
+| 1. Jelen adóbevallást ellenjegyzem: |
 
-| 4. Bizonyítvány / igazolvány száma: _________________________________ |  |
+| 2. Adótanácsadó, adószakértő neve: |
 
-21. melléklet a 35/2008. (XII. 31.) PM rendelethez[^26]
+| 3. Adóazonosító száma: |
 
-[^26]: A 21. mellékletet a 21/2010. (XII. 31.) NGM rendelet 2. § (2) bekezdése iktatta be.
+| 4. Bizonyítvány, igazolvány száma: |
+
+21. melléklet a 35/2008. (XII. 31.) PM rendelethez[^28]
+
+[^28]: A 21. mellékletet a 21/2010. (XII. 31.) NGM rendelet 2. § (2) bekezdése iktatta be.

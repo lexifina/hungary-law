@@ -14,25 +14,25 @@
 
 | 2. Helyrajzi száma: _______/_______/_______/_______ |
 
-| III. Bevallás benyújtója |
+| III. Az adatbejelentés benyújtója |
 
-| 1. Bevallásbenyújtó neve (cégneve): __________________________________________________________________________ |
+| 1. Adatbejelentő neve (cégneve): ______________________________________________________________________________________ |
 
-| 2. Születési helye: _________________________________________________város/község, ideje: ⬜⬜⬜⬜év ⬜⬜hó ⬜⬜nap |
+| 2. Születési helye: _____________________________________________város/község, ideje: □□□□ év □□ hó □□ nap |
 
-| 3. Anyja születési családi és utóneve: _________________________________________________________________________ |
+| 3. Anyja születési családi és utóneve: _____________________________________________________________________________________ |
 
-|  | 4. Adóazonosító jele: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Adószáma: ⬜⬜⬜⬜⬜⬜⬜⬜ - ⬜ - ⬜⬜ |
+| 4. Adóazonosító jele: □□□□□□□□□□ |  |  | Adószáma: □□□□□□□□ - □ - □□ |
 
-| 5. Statisztikai számjele: ⬜⬜⬜⬜⬜⬜⬜⬜ - ⬜⬜⬜⬜ - ⬜⬜⬜ - ⬜⬜ |
+| 5. Statisztikai számjele: □□□□□□□□ - □□□□ - □□□ - □□ |
 
-| 6. Pénzintézeti számlaszáma: ⬜⬜⬜⬜⬜⬜⬜⬜ - ⬜⬜⬜⬜⬜⬜⬜⬜ - ⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 6. Pénzintézeti számlaszáma: □□□□□□□□ - □□□□□□□□ - □□□□□□□□ |
 
-| 7. Székhelye, lakóhelye: ⬜⬜⬜⬜_________________________________________________________________ város/község |
+| 7. Székhelye, lakóhelye: □□□□ __________________________________________________________________________ város/község |
 
-| __________________________________ közterület ________ közterület jelleg ________ hsz. ___ ép. ___ lh. ___ em. ___ ajtó |
+| _________________________________________ közterület ____________ közterület jelleg ________ hsz. ___ ép. ___ lh. ___ em. ___ ajtó |
 
-| 8. Telefonszáma:__________________________________, e-mail címe:____________________________________________ |
+| 8. Telefonszáma:________________________________________, e-mail címe:_________________________________________________ |
 
 | IV. Megállapodás |
 
@@ -148,8 +148,8 @@
 
 | VI. Felelősségem tudatában kijelentem, hogy a közölt adatok a valóságnak megfelelnek. |
 
-| ____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | ________________________________________ a bevallásbenyújtó vagy képviselője (meghatalmazottja) aláírása |
+| ____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | ________________________________________ az adatbejelentő vagy képviselője (meghatalmazottja) aláírása |
 
-16. melléklet a 35/2008. (XII. 31.) PM rendelethez[^21]
+16. melléklet a 35/2008. (XII. 31.) PM rendelethez[^23]
 
-[^21]: A 16. melléklet az 54/2011. (XII. 29.) NGM rendelet 33. § (6) bekezdésével megállapított szöveg.
+[^23]: A 16. melléklet az 54/2011. (XII. 29.) NGM rendelet 33. § (6) bekezdésével megállapított szöveg.
