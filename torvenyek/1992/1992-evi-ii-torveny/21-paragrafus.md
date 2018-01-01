@@ -14,6 +14,6 @@ b) megállapítja, hogy a tervezet sérti a Kpt. és e törvény földkijelölé
 
 (6)
 
-(7) A határozat felülvizsgálata iránti pert a szövetkezet, a fórum vagy a részarány-földtulajdonosok képviselője kezdeményezheti. A perben a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességgel jár el.
+(7)
 
-(8) Ha a szövetkezet a jogerős határozatban foglaltaknak az előírt határidőn belül nem tesz eleget, a kijelölést a határozat alapján a szövetkezet költségére az ingatlanügyi hatóság végzi el.
+(8) Ha a szövetkezet a végleges határozatban foglaltaknak az előírt határidőn belül nem tesz eleget, a kijelölést a határozat alapján a szövetkezet költségére az ingatlanügyi hatóság végzi el.
