@@ -12,9 +12,9 @@ c) az igényelt szociális ellátás jogosultsági feltételeire vonatkozó adat
 
 (2)[^3] Ha az ellátást hajléktalan személy igényli, a kérelmében nyilatkoznia kell arról, hogy az ellátás folyósítását milyen címre (fizetési számlára) kéri.
 
-(3)[^4] Ha a kérelmező az e rendeletben meghatározott nyilvános, illetve hatósági, bírósági nyilvántartásban vagy a Magyar Országos Közjegyzői Kamara nyilvántartásában szereplő adatokat nem igazolja, a hatóság a kérelem elbírálásához szükséges adatok szolgáltatása iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz, bírósághoz vagy a Magyar Országos Közjegyzői Kamarához.
+(3)[^4]
 
 [^1]: Az 1. § (1) bekezdése a 392/2013. (XI. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pontja a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés a) pont aa) alpontja szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: Az 1. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 168. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -38,7 +38,7 @@
 
 ## A jogosult aláírása
 
-14. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^250]
+14. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^247]
 
 ## KÉRELEM szociális rászorultság megállapítása iránt egészségügyi szolgáltatásra való jogosultság igénybevétele céljából
 
@@ -188,5 +188,5 @@ Kelt: ................................................
 
 4.5.10. A jövedelemről a jövedelem típusának megfelelő iratot vagy annak másolatát a kérelemhez mellékelni szükséges.
 
-[^250]: A 14. számú mellékletet újonnan a 116/2016. (VI. 6.) Korm. rendelet 23. § (3) bekezdése iktatta be, szövege a 440/2016. (XII. 16.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^247]: A 14. számú mellékletet újonnan a 116/2016. (VI. 6.) Korm. rendelet 23. § (3) bekezdése iktatta be, szövege a 440/2016. (XII. 16.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^*]: Ezt a nyilatkozatot csak abban az esetben kell megtenni, ha bejelentett lakó- és tartózkodási hellyel is rendelkezik.

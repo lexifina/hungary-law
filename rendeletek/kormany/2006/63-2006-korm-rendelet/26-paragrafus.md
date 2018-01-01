@@ -1,30 +1,9 @@
-26. § (1)[^133] Ha az ápolási díj megállapítását a fokozott ápolást igénylő súlyosan fogyatékos személy gondozására tekintettel kérik, a fokozott ápolást igénylő súlyosan fogyatékos állapot vizsgálatáról szóló szakvélemény elkészítésére szakértőt kell kirendelni. Szakértőként legalább középfokú iskolai végzettséggel és egészségügyi szakképesítéssel rendelkező, az egészségügyi ágazatban vagy személyes gondoskodást nyújtó szociális intézményi ellátáshoz kapcsolódóan legalább öt év szakmai tapasztalattal rendelkező személy rendelhető ki.
+26. §[^136] (1) Ha az ápolási díj megállapítását a fokozott ápolást igénylő súlyosan fogyatékos személy gondozására tekintettel kérik, a fokozott ápolást igénylő súlyosan fogyatékos állapotot vizsgálni kell. A fokozott ápolást igénylő súlyosan fogyatékos állapot vizsgálatát legalább középfokú iskolai végzettséggel, valamint egészségügyi szakképesítéssel rendelkező, az egészségügyi ágazatban vagy személyes gondoskodást nyújtó szociális intézményi ellátáshoz kapcsolódóan legalább öt év szakmai tapasztalattal rendelkező személy végezheti el.
 
-(2)[^134] Az (1) bekezdés szerinti kirendelő végzéshez a járási hivatal csatolja
+(2) A fokozott ápolást igénylő súlyosan fogyatékos állapot vizsgálatát végző személy az ápolás helyszínén történő vizsgálat időpontjáról az ápolást végző személyt a vizsgálat lefolytatását legalább három munkanappal megelőzően értesíti.
 
-a)[^135]
+(3) A vizsgálatot végző személy a fokozott ápolást igénylő súlyosan fogyatékos állapot fennállásának tényét az ápolás helyszínén végzett vizsgálat megállapításaira, valamint az ápolt személy önkiszolgáló képességére vonatkozó hivatalos iratra (így különösen a kórházi zárójelentésre) alapozva állapítja meg és az erről szóló véleményét a 7. számú melléklet szerinti formanyomtatványon küldi meg a járási hivatalnak.
 
-b) az ápolást végző személy nyilatkozatát a vizsgálat szükségességének tudomásul vételéről,
+(4) A (3) bekezdés szerinti szakmai vélemény hatálya alatt a háziorvosi igazolást és szakvéleményt is hatályosnak kell tekinteni.
 
-c) az ápolt személy hozzájárulását a fokozott ápolást igénylő állapot fennállásának helyszíni vizsgálatához,
-
-d) a háziorvos által kiállított, 5. számú melléklet szerinti igazolás és szakvélemény másolatát.
-
-(3)[^136] A szakértő az ápolás helyszínén történő vizsgálat időpontjáról az ápolást végző személyt a vizsgálat lefolytatását legalább három munkanappal megelőzően értesíti.
-
-(4)[^137] A szakértő szakvéleményét az ápolás helyszínén végzett szakértői vizsgálat megállapításaira, valamint az ápolt személy önkiszolgáló képességére vonatkozó hivatalos iratra (kórházi zárójelentés stb.) alapozva készíti el, és a 7. számú melléklet szerinti formanyomtatványon küldi meg a járási hivatalnak.
-
-(5)[^138]
-
-(6)[^139] A szakértő által kiadott szakvélemény hatálya alatt a háziorvosi igazolást és szakvéleményt is hatályosnak kell tekinteni.
-
-(7)[^140]
-
-[^133]: A 26. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 74. § (4) bekezdésével megállapított szöveg.
-[^134]: A 26. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés e) pontja szerint módosított szöveg.
-[^135]: A 26. § (2) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^136]: A 26. § (3) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pont ag) alpontja, a 352/2012. (XII. 13.) Korm. rendelet 3. § (8) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (9) bekezdés b) pontja szerint módosított szöveg.
-[^137]: A 26. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 74. § (5) bekezdésével megállapított szöveg.
-[^138]: A 26. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (9) bekezdés c) pontja hatályon kívül helyezte.
-[^139]: A 26. § (6) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pont ag) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 352/2012. (XII. 13.) Korm. rendelet 3. § (8) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (9) bekezdés b) pontja szerint módosított szöveg.
-[^140]: A 26. § (7) bekezdését a 24/2015. (II. 20.) Korm. rendelet 28. § j) pontja hatályon kívül helyezte.
+[^136]: A 26. § a 457/2017. (XII. 28.) Korm. rendelet 165. § (7) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

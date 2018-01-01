@@ -1,4 +1,4 @@
-5. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^240]
+5. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^237]
 
 ## IGAZOLÁS ÉS SZAKVÉLEMÉNY az ápolási díj megállapításához/kötelező felülvizsgálatához
 
@@ -34,4 +34,4 @@ I. Igazolom, hogy
 
 II. Szakvéleményem szerint a fent nevezett személy
 
-[^240]: Az 5. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 76. § (12) bekezdésével megállapított, a 441/2015. (XII. 28.) Korm. rendelet 65. § (2) bekezdés a) pontja, a 116/2016. (VI. 6.) Korm. rendelet 24. § i) pontja szerint módosított szöveg.
+[^237]: Az 5. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 76. § (12) bekezdésével megállapított, a 441/2015. (XII. 28.) Korm. rendelet 65. § (2) bekezdés a) pontja, a 116/2016. (VI. 6.) Korm. rendelet 24. § i) pontja szerint módosított szöveg.

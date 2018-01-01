@@ -1,3 +1,3 @@
-48. §[^214]
+48. §[^210]
 
-[^214]: A 48. §-t a 24/2015. (II. 20.) Korm. rendelet 28. § q) pontja hatályon kívül helyezte.
+[^210]: A 48. §-t a 24/2015. (II. 20.) Korm. rendelet 28. § q) pontja hatályon kívül helyezte.

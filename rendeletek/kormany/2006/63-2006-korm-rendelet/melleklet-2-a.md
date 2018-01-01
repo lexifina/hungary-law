@@ -178,7 +178,7 @@
 
 ## 4.2.8. A jövedelemről – a családtámogatási törvény szerint folyósított családtámogatási ellátás, vagy a fogyatékossági támogatás kivételével – a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-2/A. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^237]
+2/A. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^234]
 
 ## Adatlap
 
@@ -358,4 +358,4 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 4.2.9. A jövedelemről a kérelemhez mellékelni kell – a családtámogatási törvény szerint folyósított családtámogatási ellátás kivételével – a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-[^237]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 125. § b) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés m) pontja, 28. § s) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés t) pontja, a 417/2015. (XII. 23.) Korm. rendelet 29. § a) pontja, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés b) pontja, a 217/2016. (VII. 22.) Korm. rendelet 12. § b) pontja, a 440/2016. (XII. 16.) Korm. rendelet 9. §-a, a 235/2017. (VIII. 18.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^234]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 125. § b) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés m) pontja, 28. § s) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés t) pontja, a 417/2015. (XII. 23.) Korm. rendelet 29. § a) pontja, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés b) pontja, a 217/2016. (VII. 22.) Korm. rendelet 12. § b) pontja, a 440/2016. (XII. 16.) Korm. rendelet 9. §-a, a 235/2017. (VIII. 18.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.

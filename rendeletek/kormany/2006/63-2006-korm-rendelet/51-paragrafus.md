@@ -1,3 +1,3 @@
-51–53. §[^219]
+51–53. §[^215]
 
-[^219]: Az 51–53. §-t és az 51. §-t megelőző alcímet a 24/2015. (II. 20.) Korm. rendelet 28. § r) pontja hatályon kívül helyezte.
+[^215]: Az 51–53. §-t és az 51. §-t megelőző alcímet a 24/2015. (II. 20.) Korm. rendelet 28. § r) pontja hatályon kívül helyezte.

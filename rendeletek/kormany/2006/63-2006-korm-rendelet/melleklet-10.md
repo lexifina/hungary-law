@@ -282,7 +282,7 @@
 
 ## 5.2.9. A jövedelemről a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^245]
+10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^242]
 
 ## Háziorvosi igazolás
 
@@ -340,4 +340,4 @@ II. A társadalombiztosítás által támogatott, tartósan alkalmazott gyógyí
 
 III. Háziorvosra (intézményi orvosra) vonatkozó adatok, a háziorvos nyilatkozata
 
-[^245]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 20. pontja szerint módosított szöveg.
+[^242]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 20. pontja szerint módosított szöveg.
