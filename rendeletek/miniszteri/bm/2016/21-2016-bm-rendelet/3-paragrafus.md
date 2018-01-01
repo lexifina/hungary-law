@@ -2,15 +2,15 @@
 
 3. § (1) A kéményseprő-ipari tevékenységet ellátó
 
-a) a Kstv. 2. § (4) bekezdés a) és c)–g) pontjában meghatározott feladatokat – a (2)–(4) bekezdésben meghatározott kivétellel – legalább évente egy alkalommal,
+a)[^3] a Kstv. 2. § (4) bekezdés a) és c)–g) pontjában meghatározott feladatokat – a Kstv. 2. § (5) bekezdés h) pontja szerinti megrendelés esetén is –, a (2)–(4) bekezdésben meghatározott kivétellel, legalább évente egy alkalommal,
 
-b) a Kstv. 2. § (4) bekezdés b) pontjában meghatározott feladatokat négyévente egy alkalommal
+b)[^4] a Kstv. 2. § (4) bekezdés b) pontjában meghatározott feladatokat – a Kstv. 2. § (5) bekezdés h) pontja szerinti megrendelés esetén is – négyévente egy alkalommal
 
 az 1. mellékletben meghatározott szakmai követelmények és módszerek szerint végzi.
 
-(2) A Kstv. 2. § (4) bekezdésben meghatározott feladatokat időlegesen használt ingatlan esetében – kivéve a társasházi, lakásszövetkezeti ingatlanokat – négyévente egy alkalommal kell elvégezni.
+(2)[^5] A Kstv. 2. § (4) bekezdésben meghatározott feladatokat időlegesen használt ingatlan esetében, kivéve a társasházi, lakásszövetkezeti ingatlanokat, – a Kstv. 2. § (5) bekezdés h) pontja szerinti megrendelés esetén is – négyévente egy alkalommal kell elvégezni.
 
-(3) Az (1) bekezdés a) pontja szerinti feladatokat kétévente egy alkalommal kell elvégezni annál az égéstermék-elvezetőnél, amelyre
+(3)[^6] Az (1) bekezdés a) pontja szerinti feladatokat kétévente egy alkalommal kell elvégezni – a Kstv. 2. § (5) bekezdés h) pontja szerinti megrendelés esetén is – annál az égéstermék-elvezetőnél, amelyre
 
 a) gáznemű anyaggal üzemelő tüzelőberendezés, vagy
 
@@ -25,3 +25,8 @@ csatlakozik.
 (6) Az égéstermék szén-monoxid-tartalmának ellenőrzését a kéményseprő-ipari tevékenységet ellátó a 11 kWth-nál nagyobb és legfeljebb 500 kWth névleges bemenő hőteljesítményű olyan gáztüzelő-berendezéseknél végzi el, amelyek a levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet alapján nem tartoznak a levegőtisztaság-védelmi engedélyköteles tüzelő-berendezések közé.
 
 (7) A sormunka elvégzésére az (1)–(3) bekezdésben meghatározott ciklusidők naptári évben számítandók.
+
+[^3]: A 3. § (1) bekezdés a) pontja a 33/2017. (XII. 20.) BM rendelet 1. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés b) pontja a 33/2017. (XII. 20.) BM rendelet 1. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése a 33/2017. (XII. 20.) BM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 3. § (3) bekezdés nyitó szövegrésze a 33/2017. (XII. 20.) BM rendelet 1. § (3) bekezdése szerint módosított szöveg.

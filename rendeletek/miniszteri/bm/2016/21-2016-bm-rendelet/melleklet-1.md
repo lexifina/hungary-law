@@ -1,4 +1,4 @@
-1. melléklet a 21/2016. (VI. 9.) BM rendelethez
+1. melléklet a 21/2016. (VI. 9.) BM rendelethez[^21]
 
 I. Ellenőrzés
 
@@ -26,7 +26,7 @@ A szakmunkás az alábbiakat ellenőrzi:
 
 2.6. gáztüzelő-berendezésnél
 
-2.6.1. a fogyasztói berendezés külön jogszabályban meghatározott műszaki-biztonsági felülvizsgálatot igazoló dokumentum vagy jelző matrica meglétét, érvényességét,
+2.6.1.
 
 2.6.2. üzem közben az égéstermék tartós visszaáramlását – a telepítés helyiségében és a vele légtér-összeköttetésben lévő helyiségekben a külső nyílászárók, és a rendeltetésszerűen zárható szellőzőnyílások zárt állapota mellett – annak érzékelésére alkalmas műszerrel,
 
@@ -293,3 +293,5 @@ VIII. A tervezett vagy a tervezéssel érintett égéstermék-elvezető műszaki
 ## A 8. § (3) bekezdésének megfelelő építészeti, gépészeti tervek felülvizsgálatáról kiadott kéményseprő-ipari nyilatkozat esetében a kéményseprő-ipari tevékenységet ellátó a tervdokumentáció égéstermék-elvezetőre vonatkozó tervrészeinek egy másolatát megőrzi, és az összes tervlapot és a műszaki leírás égéstermék-elvezetőt érintő minden oldalát bélyegzővel, dátummal és a nyilatkozatot készítő aláírásával látja el. Az 5. mellékletnek megfelelő nyilatkozat aláírt első példányát kell a megrendelőnek átadni.
 
 IX. Eszközjegyzék
+
+[^21]: Az 1. melléklet a 33/2017. (XII. 20.) BM rendelet 4. § c) pontja szerint módosított szöveg.

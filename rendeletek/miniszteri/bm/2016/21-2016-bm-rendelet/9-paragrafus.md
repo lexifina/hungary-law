@@ -58,7 +58,7 @@ c) nyitott égésterű tüzelőberendezések esetén a levegő-utánpótlás viz
 
 d) szén-monoxid-érzékelő berendezés működtetésének szükségességét,
 
-e) gáztüzelő-berendezés esetén a műszaki-biztonsági felülvizsgálat meglétét,
+e)[^17]
 
 f) – bejelentés esetén – az ingatlan „időlegesen használt” megjelölését.
 
@@ -71,3 +71,5 @@ a) az időleges használat megszűnését az ingatlan tulajdonosa a kéménysepr
 b) a tűzvédelmi hatóság megállapította, hogy az ingatlan nem minősül időlegesen használt ingatlannak.
 
 (4) Az (1) bekezdés szerinti nyilvántartásból égéstermék-elvezető akkor törölhető, ha azt a 7. § (1) bekezdés b) pont bb) alpont szerint használaton kívül helyezték.
+
+[^17]: A 9. § (1) bekezdés e) pontját a 33/2017. (XII. 20.) BM rendelet 4. § b) pontja hatályát vesztette.

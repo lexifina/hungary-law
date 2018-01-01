@@ -14,7 +14,7 @@ esetén – kivéve, ha a csere a korábbival azonos működési elvű és telje
 
 b) meglévő égéstermék-elvezető
 
-ba)[^4] átalakítását, bontását, funkciójának megváltoztatását,
+ba)[^10] átalakítását, bontását, funkciójának megváltoztatását,
 
 bb) használaton kívül helyezését
 
@@ -42,14 +42,14 @@ g) a villámvédelmi jegyzőkönyvet.
 
 (5) Lakóhelyiségek vagy állandó tartózkodási célt szolgáló helyiségek – kivéve az időlegesen használt ingatlanokat – fűtését biztosító tüzelőberendezés október 15. és április 15. között történő cseréje esetén, a megrendelést követő két munkanapon belül a kéményseprő-ipari tevékenységet ellátó a helyszíni műszaki vizsgálatot elvégzi, ha annak feltételei adottak. A kéményseprő-ipari tevékenységet ellátó a helyszíni műszaki vizsgálat eredményéről szóló szakmai nyilatkozatot legkésőbb a vizsgálatot követő munkanapon kiadja.
 
-(6)[^5] Kéménytűz vagy szén-monoxid-szivárgás elhárítását követően az égéstermék-elvezetőt csak helyszíni műszaki vizsgálatot követően lehet ismét üzembe helyezni. A helyszíni műszaki vizsgálat eredményéről szóló szakmai nyilatkozatot a kéményseprő-ipari tevékenységet ellátó legkésőbb a vizsgálatot követő munkanapon kiadja. A helyszíni műszaki vizsgálat során a kéményseprő-ipari tevékenységet ellátó vizsgálja az égéstermék-elvezető javítás, felújítás, átalakítás nélküli használatra alkalmasságát. Az égéstermék-elvezető megfelelőségét a 6. § szerinti időpontban hatályos műszaki előírásoknak megfelelően kell megállapítani.
+(6)[^11] Kéménytűz vagy szén-monoxid-szivárgás elhárítását követően az égéstermék-elvezetőt csak helyszíni műszaki vizsgálatot követően lehet ismét üzembe helyezni. A helyszíni műszaki vizsgálat eredményéről szóló szakmai nyilatkozatot a kéményseprő-ipari tevékenységet ellátó legkésőbb a vizsgálatot követő munkanapon kiadja. A helyszíni műszaki vizsgálat során a kéményseprő-ipari tevékenységet ellátó vizsgálja az égéstermék-elvezető javítás, felújítás, átalakítás nélküli használatra alkalmasságát. Az égéstermék-elvezető megfelelőségét a 6. § szerinti időpontban hatályos műszaki előírásoknak megfelelően kell megállapítani.
 
 (7) Új égéstermék-elvezetőt helyszíni műszaki vizsgálatot követően lehet eltakarni, leburkolni. A helyszíni műszaki vizsgálatot a kéményseprő-ipari tevékenységet ellátó a megrendelést követő három munkanapon belül elvégzi és az annak eredményéről szóló szakmai nyilatkozatot a vizsgálatot követő munkanapon kiadja.
 
 (8) Ha a (6) bekezdés szerinti feladatot a Kstv. 2. § (1) bekezdés a) pont aa) és ab) alpontja szerinti ingatlanok esetében a Kstv. 10. § (3) bekezdése szerinti szolgáltató végzi, annak díjköltsége a Kstv. 10. § (10) bekezdése alapján igényelhető.
 
-(9)[^6] A kéményseprő-ipari tevékenységet ellátó tevékenysége során észlelt és a Kstv. 2. § (8) bekezdése szerinti dokumentumban rögzített szabálytalanság megszüntetése esetén az égéstermék-elvezető megfelelőségének igazolására a Kstv. 2. § (5) bekezdés f) pontja szerinti műszaki vizsgálatot a 7. § (1) és (7) bekezdése szerinti esetekben kell megrendelni. Egyéb esetben a szabálytalanság megszüntetését a kéményseprő-ipari tevékenységet ellátó az égéstermék-elvezető 3. § szerinti következő időszakos ellenőrzése során állapítja meg, kivéve a Korm. rendelet 1. § (1) bekezdésében meghatározott eseteket, amikor az ingatlan használójának a Kstv. 2. § (4) bekezdése szerinti sormunkát az égéstermék-elvezető ismételt üzemeltetése előtt meg kell rendelnie.
+(9)[^12] A kéményseprő-ipari tevékenységet ellátó tevékenysége során észlelt és a Kstv. 2. § (8) bekezdése szerinti dokumentumban rögzített szabálytalanság megszüntetése esetén az égéstermék-elvezető megfelelőségének igazolására a Kstv. 2. § (5) bekezdés f) pontja szerinti műszaki vizsgálatot az (1) és (7) bekezdés szerinti esetekben kell megrendelni. Egyéb esetben a szabálytalanság megszüntetését a kéményseprő-ipari tevékenységet ellátó az égéstermék-elvezető 3. § szerinti következő időszakos ellenőrzése során állapítja meg, kivéve a kéményseprő-ipari tevékenységről szóló törvény végrehajtásáról szóló 99/2016. (V. 13.) Korm. rendelet 1. § (1) bekezdésében meghatározott eseteket, amikor az ingatlan használójának a Kstv. 2. § (4) bekezdése szerinti sormunkát az égéstermék-elvezető ismételt üzemeltetése előtt meg kell rendelnie.
 
-[^4]: A 7. § (1) bekezdés b) pont ba) alpontja a 23/2017. (IX. 11.) BM rendelet 6. §-a szerint módosított szöveg.
-[^5]: A 7. § (6) bekezdése a 23/2017. (IX. 11.) BM rendelet 4. §-a szerint módosított szöveg.
-[^6]: A 7. § (9) bekezdését a 23/2017. (IX. 11.) BM rendelet 3. §-a iktatta be.
+[^10]: A 7. § (1) bekezdés b) pont ba) alpontja a 23/2017. (IX. 11.) BM rendelet 6. §-a szerint módosított szöveg.
+[^11]: A 7. § (6) bekezdése a 23/2017. (IX. 11.) BM rendelet 4. §-a szerint módosított szöveg.
+[^12]: A 7. § (9) bekezdését a 23/2017. (IX. 11.) BM rendelet 3. §-a iktatta be, szövege a 33/2017. (XII. 20.) BM rendelet 1. § (4) bekezdése, a 44/2017. (XII. 29.) BM rendelet 111. § (1) bekezdése szerint módosított szöveg.

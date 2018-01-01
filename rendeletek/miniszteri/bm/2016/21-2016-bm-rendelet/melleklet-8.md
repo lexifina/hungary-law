@@ -100,8 +100,6 @@
 
 | Égéstermék paraméterének (CO) ellenőrzése |  | db |  | munkaráfordítás |  | db |  | munkaráfordítás |
 
-| Műszaki-biztonsági felülvizsgálat meglétének ellenőrzése |  | db |  | munkaráfordítás |  | db |  | munkaráfordítás |
-
 | Szén-monoxid-érzékelő ellenőrzése |  | db |  | munkaráfordítás |  | db |  | munkaráfordítás |
 
 | Ellátott terület munkaráfordítása összesen |  |  |
@@ -118,7 +116,7 @@
 
 ## – a Kstv. 10. § (1) bekezdés a) pontja szerinti önkormányzat közszolgáltatási szerződésenként
 
-8. melléklet a 21/2016. (VI. 9.) BM rendelethez
+8. melléklet a 21/2016. (VI. 9.) BM rendelethez[^25]
 
 1. Az égéstermék-elvezetők jele
 
@@ -228,8 +226,6 @@
 
 | Égéstermék paramétereinek ellenőrzése | 0,30/paraméter |
 
-| Gáztüzelő-berendezés műszaki biztonsági felülvizsgálata meglétének ellenőrzése | 0,05/db |
-
 | Szén-monoxid-érzékelő berendezés felszerelésére és működtetésére vonatkozó kötelezettség teljesítésének, az érzékelő működőképességének, valamint az érzékelő műszaki követelményeknek való megfelelőségét igazoló dokumentumok ellenőrzése | 0,40/db |
 
 ## Megjegyzés:
@@ -332,11 +328,7 @@
 
 ## l: önálló légtér-összeköttetések száma az önálló rendeltetési egységben.
 
-8. Műszaki-biztonsági felülvizsgálat meglétének ellenőrzési díját az alábbi képlettel kell meghatározni.
-
-## ahol
-
-## MBm: műszaki-biztonsági felülvizsgálat meglétének ellenőrzési munkaráfordítása.
+8.
 
 9. Szén-monoxid-érzékelő berendezés felszerelésére és működtetésére vonatkozó kötelezettség teljesítésének, valamint az érzékelő működőképességének ellenőrzésére vonatkozó költségtérítést az alábbi képlettel kell meghatározni:
 
@@ -347,3 +339,5 @@
 ## c: szén-monoxid-érzékelő berendezések száma.
 
 10. Társasházban vagy lakásszövetkezeti lakóépületben lévő gyűjtő jellegű égéstermék-elvezető esetén a nem természetes személy tulajdonában álló vagy gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként bejegyzett ingatlanokra vonatkozó Kstv. 2. § (6) bekezdés szerinti költségtérítés meghatározásánál az 5. pont szerinti képletet az alábbi arányszámmal kell megszorozni:
+
+[^25]: A 8. melléklet a 33/2017. (XII. 20.) BM rendelet 4. § f) pontja szerint módosított szöveg.

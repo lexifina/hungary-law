@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-21-20-0
 | 2016-06-18 | 2016-21-20-0A.2 | 2010: CXXX. törvény |
 | 2016-07-01 | 2016-21-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-09-26 | 2016-21-20-0A.4 | 23/2017. (IX. 11.) BM rendelet |
+| 2018-01-01 | 2016-21-20-0A.5 | 33/2017. (XII. 20.) BM rendelet |

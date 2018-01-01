@@ -12,6 +12,6 @@
 
 | Munkavégző neve: Munkavégző aláírása: | A kéményseprő helyszíni megjelenését igazoló személy neve: A kéményseprő helyszíni megjelenését igazoló személy aláírása: A kéményseprő munkavégzését igazoló személy neve: A kéményseprő munkavégzését igazoló személy aláírása: |
 
-4. melléklet a 21/2016. (VI. 9.) BM rendelethez[^9]
+4. melléklet a 21/2016. (VI. 9.) BM rendelethez[^23]
 
-[^9]: A 4. melléklet a 23/2017. (IX. 11.) BM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^23]: A 4. melléklet a 23/2017. (IX. 11.) BM rendelet 5. § (2) bekezdése, a 33/2017. (XII. 20.) BM rendelet 2. §-a szerint módosított szöveg.

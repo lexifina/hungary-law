@@ -12,9 +12,9 @@
 
 |  | Használat célja |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | A kéményseprő helyszíni megjelenését igazoló személy neve: A kéményseprő helyszíni megjelenését igazoló személy aláírása: |
 
-| Tüzelőberendezés | Teljesítmény kategória |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Műszaki-biztonsági felülvizsgálat érvényes: |
+| Tüzelőberendezés | Teljesítmény kategória |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Szén-monoxid-mérés szükséges (C) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Igen / Nem „Nem” válasz esetén pótolni kell! |
+|  | Szén-monoxid-mérés szükséges (C) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  | Ellenőrzési szempontok | előző / jelen ellenőrzés hibakódja / megfelelő (I) | Hibakód, jelölés magyarázata a hátoldalon! |
 
@@ -142,9 +142,7 @@
 
 | 3/d | rögzítése | 6. | Szabálytalan bekötés az égéstermék-elvezetőn |
 
-## ÉGÉSTERMÉK-ELVEZETŐ ÉPÍTÉSE, JAVÍTÁSA, ÚJBÓLI HASZNÁLATBAVÉTELE, VALAMINT A BEKÖTÖTT TÜZELŐBERENDEZÉS CSERÉJE, ILLETVE ÚJ TELEPÍTÉSE
-
-## A KÉMÉNY MEGFELELŐSÉGÉT IGAZOLÓ KÉMÉNYSEPRŐ-IPARI NYILATKOZAT HIÁNYÁBAN TILOS!
+## ÉGÉSTERMÉK-ELVEZETŐ ÁTALAKÍTÁSA, ÚJBÓLI HASZNÁLATBAVÉTELE, ÚJ ÉGÉSTERMÉK-ELVEZETŐ LÉTESÍTÉSE, VALAMINT A BEKÖTÖTT TÜZELŐBERENDEZÉS CSERÉJE AZ ÉGÉSTERMÉK-ELVEZETŐ MEGFELELŐSÉGÉT IGAZOLÓ KÉMÉNYSEPRŐ-IPARI NYILATKOZAT HIÁNYÁBAN TILOS!
 
 ## Az égéstermék-elvezetők jele
 

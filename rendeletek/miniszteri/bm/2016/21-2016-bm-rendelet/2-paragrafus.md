@@ -6,7 +6,7 @@ a) egy fő kéményseprőmestert foglalkoztat, vagy a feladat ellátásában sze
 
 b) egy fő kéményseprő szakképesítéssel rendelkező szakembert foglalkoztat.
 
-(2) A kéményseprő-ipari szolgáltatónak a foglalkoztatottak létszámát úgy kell megállapítania, hogy a kéményseprő-ipari tevékenység ellátása folyamatosan biztosított legyen. Ha a kéményseprő-ipari szolgáltató tevékenységét a személyi feltételek hiányában – a 8. §-ban meghatározott határidőkben – nem látja el, a tűzvédelmi hatóság a kéményseprő-ipari tevékenységről szóló törvény végrehajtásáról szóló 99/2016. (V. 13.) Korm. rendelet (a továbbiakban: Korm. rendelet) 3. § (1) bekezdésében meghatározottak szerint eltilthatja a kéményseprő-ipari tevékenység gyakorlásától.
+(2)[^2] A kéményseprő-ipari szolgáltatónak a foglalkoztatottak létszámát úgy kell megállapítania, hogy a kéményseprő-ipari tevékenység ellátása folyamatosan biztosított legyen.
 
 (3) A kéményseprőmester és kéményseprő szakképesítéssel rendelkező szakember (a továbbiakban együtt: szakmunkás) évente, felsőfokú műszaki végzettséggel rendelkező kéményseprőmester által tartott, elméleti és gyakorlati ismereteket bemutató ismeretfelújító és továbbképző tanfolyamon vesz részt. A tanfolyamon való kötelező részvétel időtartama 16 óra évente.
 
@@ -17,3 +17,5 @@ b) egy fő kéményseprő szakképesítéssel rendelkező szakembert foglalkozta
 (6) A kéményseprő-ipari szervnek és a kéményseprő-ipari szolgáltatónak (a továbbiakban együtt: kéményseprő-ipari tevékenységet ellátó) a munkafolyamatok ellátásához az 1. mellékletben meghatározott szakmai követelményeknek és módszereknek megfelelő felszereléssel, eszközzel és műszerrel kell rendelkeznie, a feladat ellátásában személyesen közreműködő szakmunkások létszámának megfelelő mennyiségben.
 
 (7) A kéményseprő-ipari tevékenységet ellátó a kéményseprő-ipari tevékenység adatait, nyilvántartásait elektronikus adatbázis-kezelő célszoftverrel kezeli.
+
+[^2]: A 2. § (2) bekezdése a 44/2017. (XII. 29.) BM rendelet 111. § (2) bekezdés a) pontja szerint módosított szöveg.

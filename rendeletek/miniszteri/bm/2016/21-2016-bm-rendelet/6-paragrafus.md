@@ -2,7 +2,7 @@
 
 6. § (1) Az újonnan létesített égéstermék-elvezetőnek a használatbavételekor hatályban lévő vonatkozó műszaki követelményeknek kell megfelelnie.
 
-(2)[^2] Meglévő égéstermék-elvezető
+(2)[^8] Meglévő égéstermék-elvezető
 
 a) átalakítása esetén az égéstermék-elvezetőnek az átalakítást követő használatbavétele időpontjában,
 
@@ -10,7 +10,7 @@ b) felújítása, javítása vagy ismételt használatbavétele esetén az égé
 
 hatályos műszaki követelményeknek kell megfelelnie.
 
-(3)[^3] Tüzelőberendezés cseréje esetén, ha ehhez
+(3)[^9] Tüzelőberendezés cseréje esetén, ha ehhez
 
 a) nem szükséges az égéstermék-elvezető átalakítása, az égéstermék-elvezetőnek a (2) bekezdés b) pontja szerinti, vagy
 
@@ -22,5 +22,5 @@ használatbavételekor a hatályos műszaki követelményeknek kell megfelelnie.
 
 (5) Az égéstermék-elvezető ellenőrzését, műszaki felülvizsgálatát és helyszíni műszaki vizsgálatát a kéményseprő-ipari tevékenységet ellátónak az ellenőrzés, vizsgálat időpontjában hatályos, e rendeletben meghatározott szakmai követelmények és módszerek szerint kell elvégeznie.
 
-[^2]: A 6. § (2) bekezdése a 23/2017. (IX. 11.) BM rendelet 2. §-ával megállapított szöveg.
-[^3]: A 6. § (3) bekezdése a 23/2017. (IX. 11.) BM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 6. § (2) bekezdése a 23/2017. (IX. 11.) BM rendelet 2. §-ával megállapított szöveg.
+[^9]: A 6. § (3) bekezdése a 23/2017. (IX. 11.) BM rendelet 2. §-ával megállapított szöveg.

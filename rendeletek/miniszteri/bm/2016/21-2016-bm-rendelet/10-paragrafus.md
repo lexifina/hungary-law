@@ -12,6 +12,8 @@
 
 (6) A kéményseprő-ipari szerv a Kstv. 2. § (4)–(5) bekezdésében meghatározott tevékenységet közfeladatként látja el, ezért a 2. melléklet szerinti tanúsítványt, a 3. melléklet szerinti kivonatot, valamint a 4–5. melléklet szerinti szakmai nyilatkozatokat – a számvitelről szóló 2000. évi C. törvény előírásainak megfelelő – kiegészítő adattartalommal együtt alkalmazza. A kéményseprő-ipari szerv a kiegészítő adattartalmat normatív utasításban rögzíti.
 
-(7) A kéményseprő-ipari tevékenységet ellátó a tűzvédelmi hatóság megkeresésére elvégzett feladatok eredményéről szóló tanúsítvány vagy szakmai nyilatkozat egy példányát a tűzvédelmi hatóság részére a helyszínen átadja vagy a vizsgálatot követő munkanapon továbbítja.
+(7)[^18]
 
 (8) A Kstv. 3. § (1) bekezdése szerinti, a sormunkáról szóló első értesítés hirdetményi úton való közlése esetén a kéményseprő-ipari szerv és a Kstv. 10. § (3) bekezdése szerinti szolgáltató a 9. melléklet szerinti hirdetményt a helyben szokásos módon, a címzett számára jól láthatóan helyezi ki.
+
+[^18]: A 10. § (7) bekezdését a 44/2017. (XII. 29.) BM rendelet 111. § (2) bekezdés d) pontja hatályon kívül helyezte.

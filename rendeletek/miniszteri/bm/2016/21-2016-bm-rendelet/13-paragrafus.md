@@ -38,6 +38,8 @@ f) a jegyzőkönyv felvételének helyét, idejét,
 
 g) telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panasz esetén a panasz egyedi azonosítószámát.
 
-(7) A kéményseprő-ipari tevékenységet ellátó a panaszról felvett jegyzőkönyvet és a válasz másolati példányát öt évig megőrzi, és azt az ellenőrző hatóságoknak felhívásra bemutatja.
+(7)[^19] A kéményseprő-ipari tevékenységet ellátó a panaszról felvett jegyzőkönyvet és a válasz másolati példányát öt évig megőrzi.
 
 (8) Az ügyfélszolgálathoz beérkező telefonon tett valamennyi szóbeli panaszt, valamint az ügyfélszolgálat és az ingatlan tulajdonosa, használója közötti telefonos kommunikációt hangfelvétellel rögzíteni kell. A hangfelvételt egyedi azonosítószámmal kell ellátni, öt évig meg kell őrizni, és az ingatlan tulajdonosa, használója kérésére, díjmentesen rendelkezésre kell bocsátani. A kéményseprő-ipari tevékenységet ellátó a hangfelvétel készítésével, megőrzésével és rendelkezésre bocsátásával kapcsolatos kötelezettségéről, továbbá az egyedi azonosítószámról az ingatlan tulajdonosát, használóját a telefonos ügyintézés kezdetekor tájékoztatja.
+
+[^19]: A 13. § (7) bekezdése a 44/2017. (XII. 29.) BM rendelet 111. § (2) bekezdés e) pontja szerint módosított szöveg.
