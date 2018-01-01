@@ -1,17 +1,16 @@
-## 41.[^125] Kert
+## 41.[^133] Kert
 
-44. § (1) Kert művelési ágban kell nyilvántartani a zöldségfélével, virág- vagy dísznövénnyel (fa, cserje, pázsit) beültetett, valamint gyümölcsfával (gyümölcstermő bokorral), szőlővel, zöldségfélével, virág- vagy dísznövénnyel vegyesen hasznosított területet.
+44. §[^134] (1) Kert művelési ágban kell nyilvántartani a zöldségfélével, virág- vagy dísznövénnyel (fa, cserje, pázsit) beültetett, valamint gyümölcstermő növénnyel, szőlővel, zöldségfélével, virág- vagy dísznövénnyel vegyesen hasznosított területet.
 
-(2)[^126] Az (1) bekezdésben foglaltakon túlmenően kert művelési ágban kell nyilvántartani még:
+(2) Az (1) bekezdésben foglaltakon túl kert művelési ágban kell nyilvántartani még:
 
-a) a komló ültetvényeket,
+a) a komló ültetvényeket;
 
-b) a fóliasátrak, valamint a melegágyak és a palántanevelő telepek területét,
+b) a fóliasátrak, valamint a melegágyak és a szabadföldi palántanevelő telepek területét;
 
-c) az Evt.-ben meghatározott erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek közül az erdészeti szaporítóanyag, karácsonyfa, díszítőgally, vadgyümölcs és vessző termelését szolgáló területet,
+c) a karácsonyfa, díszítőgally, vadgyümölcs és fonóvessző termelését szolgáló területet;
 
-d)[^127] csemetekertet.
+d) a csemetekertet.
 
-[^125]: A 41. alcím a 48/2010. (IV. 27.) FVM rendelet 48. § (1) bekezdésével megállapított szöveg.
-[^126]: A 44. § (2) bekezdése a 48/2010. (IV. 27.) FVM rendelet 48. § (2) bekezdésével megállapított szöveg.
-[^127]: A 44. § (2) bekezdés d) pontja a 148/2012. (XII. 28.) VM rendelet 25. § (1) bekezdése szerint módosított szöveg.
+[^133]: A 41. alcím a 48/2010. (IV. 27.) FVM rendelet 48. § (1) bekezdésével megállapított szöveg.
+[^134]: A 44. § a 60/2017. (XII. 20.) FM rendelet 9. §-ával megállapított szöveg.

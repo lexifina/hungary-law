@@ -1,3 +1,3 @@
-## 98. §[^264]
+## 98. §[^289]
 
-[^264]: A 98. §-t a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.
+[^289]: A 98. §-t a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.

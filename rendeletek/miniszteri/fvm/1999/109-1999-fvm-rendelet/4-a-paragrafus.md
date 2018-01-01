@@ -1,6 +1,6 @@
-4/A. §[^16] (1) Az 1–4. §-ban foglaltakon kívül a tulajdonilap-másolat az alábbiakat tartalmazza:
+4/A. §[^21] (1) Az 1–4. §-ban foglaltakon kívül a tulajdonilap-másolat az alábbiakat tartalmazza:
 
-a)[^17] az ingatlan fekvése szerint illetékes járási hivatal rövidített neve és címe,
+a)[^22] az ingatlan fekvése szerint illetékes járási hivatal rövidített neve és címe,
 
 b) aktuális oldalszám, és az oldalak száma,
 
@@ -38,8 +38,8 @@ szerepel.
 
 (5) A tulajdonilap-másolat a jogosult természetes személy természetes személyazonosító adatai közül kizárólag családi és utónevét, születési családi és utónevét, születési évét, és anyja születési családi és utónevét tartalmazza.
 
-(6)[^18]
+(6)[^23]
 
-[^16]: A 4/A. §-t a 48/2010. (IV. 27.) FVM rendelet 6. §-a iktatta be.
-[^17]: A 4/A. § (1) bekezdés a) pontja a 148/2012. (XII. 28.) VM rendelet 24. § a) pontja, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 2. pontja szerint módosított szöveg.
-[^18]: A 4/A. § (6) bekezdését a 148/2012. (XII. 28.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 29/2015. (VI. 5.) FM rendelet 4. § (10) bekezdés a) pontja.
+[^21]: A 4/A. §-t a 48/2010. (IV. 27.) FVM rendelet 6. §-a iktatta be.
+[^22]: A 4/A. § (1) bekezdés a) pontja a 148/2012. (XII. 28.) VM rendelet 24. § a) pontja, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 2. pontja szerint módosított szöveg.
+[^23]: A 4/A. § (6) bekezdését a 148/2012. (XII. 28.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 29/2015. (VI. 5.) FM rendelet 4. § (10) bekezdés a) pontja.

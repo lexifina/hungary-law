@@ -1,6 +1,6 @@
-## 42.[^128] Gyümölcsös
+## 42.[^135] Gyümölcsös
 
-45. § (1) Gyümölcsös művelési ágban kell nyilvántartani a tiszta vagy vegyes állományban betelepített területet, amelyen a termesztett főnövény gyümölcsfa, illetőleg gyümölcstermő bokor. Gyümölcsös művelési ágban kell nyilvántartani a legalább két gyümölcsfasorból álló pásztákat, valamint a gyümölcsfa-iskolai termelést szolgáló alany-, szemzőhajtás-, oltóvessző- és magtermő ültetvényt.
+45. § (1)[^136] Gyümölcsös művelési ágban kell nyilvántartani azt a tiszta vagy vegyes állományú területet, amelyen a termesztett főnövény a gyümölcsfa, illetve bokor. Gyümölcsös művelési ágban kell nyilvántartani a legalább két gyümölcsfasorból álló pásztákat, valamint a gyümölcsszaporító alapanyag ültetvényt.
 
 (2) A gyümölcsös telepítésre kijelölt területeket a telepítés befejezéséig az eredeti művelési ágban kell nyilvántartani.
 
@@ -8,6 +8,8 @@
 
 (4) A gyümölcsfákkal, gyümölcstermő bokrokkal hasznosított földterületek gyümölcsös művelési ágban történő nyilvántartásánál a külön jogszabály szerinti fogalom-meghatározások az irányadók.
 
-(5) A nem művelt, hiányos állományú (parlag) gyümölcsös művelési ágú területeket, a terület más művelési ágban történő hasznosításáig az eredeti művelési ágban kell nyilvántartani.
+(5)[^137] A nem művelt, hiányos állományú gyümölcsös területeket, a terület más művelési ágban történő hasznosításáig gyümölcsös művelési ágban kell nyilvántartani.
 
-[^128]: A 42. alcím a 48/2010. (IV. 27.) FVM rendelet 49. §-ával megállapított szöveg.
+[^135]: A 42. alcím a 48/2010. (IV. 27.) FVM rendelet 49. §-ával megállapított szöveg.
+[^136]: A 45. § (1) bekezdése a 60/2017. (XII. 20.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^137]: A 45. § (5) bekezdése a 60/2017. (XII. 20.) FM rendelet 10. § (2) bekezdésével megállapított szöveg.

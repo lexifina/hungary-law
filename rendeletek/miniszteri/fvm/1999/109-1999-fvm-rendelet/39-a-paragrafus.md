@@ -1,8 +1,8 @@
-## 39. § A jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás tényét, mértékét és jellegét egész ingatlanra, illetőleg annak természetben kijelölt vagy területi mértékben meghatározott részére lehet bejegyezni.
+## 39. §[^117] A végleges hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás tényét, mértékét és jellegét egész ingatlanra, illetőleg annak természetben kijelölt vagy területi mértékben meghatározott részére lehet bejegyezni.
 
-## 35.[^111] Jogi jelleg
+## 35.[^118] Jogi jelleg
 
-39/A. §[^112] (1) Az ingatlan jogi jellegeként feljegyezhető
+39/A. §[^119] (1)[^120] Az ingatlan jogi jellegeként feljegyezhető az alábbi megnevezéssel:
 
 a) a társasház;
 
@@ -10,33 +10,57 @@ b) szövetkezeti ház;
 
 c) bányatelek;
 
-d)[^113] műemlék, vagy nyilvántartott műemléki érték;
+d) műemlék, vagy nyilvántartott műemléki érték;
 
 e) műemléki terület (műemléki jelentőségű terület, történeti táj, műemléki környezet);
 
-f)[^114] régészeti lelőhely (törvény erejénél fogva védett és rendeletben védetté nyilvánított, fokozottan vagy kiemelten védett régészeti lelőhely), vagy régészeti védőövezet;
+f) régészeti lelőhely (törvény erejénél fogva védett és rendeletben védetté nyilvánított, fokozottan vagy kiemelten védett régészeti lelőhely), vagy régészeti védőövezet;
 
 g) tanya;
 
 h) birtokközpont;
 
-i) helyi vagy országos jelentőségű védett természeti terület;
+i) védett természeti területek:
 
-j) törvény erejénél fogva védett forrás, láp, barlang, víznyelő, szikes tó, kunhalom, földvár, természeti terület, Natura 2000 terület, ökológiai folyosó;
+ia) országos jelentőségű, egyedi jogszabállyal védett természeti terület,
 
-k) az Országos Erdőállomány Adattárban erdőként nyilvántartott terület – a (3)–(5) bekezdésben foglaltak figyelembevételével –; továbbá
+ib) országos jelentőségű, törvény erejénél fogva védett természeti terület,
 
-l) olyan egyéb, a tulajdonjog közérdekű korlátozásával járó tény, amelynek ingatlan-nyilvántartási feljegyzését törvény elrendeli.
+ic) fokozottan védett természeti terület,
+
+id) helyi jelentőségű védett természeti terület;
+
+j) Natura 2000 terület;
+
+k) természeti terület;
+
+l) ökológiai folyosó;
+
+m) barlang felszíni védőövezete;
+
+n) védett mesterséges üreg felszíni védőövezete;
+
+o) országos jelentőségű, egyedi jogszabállyal védett természeti terület védőövezete;
+
+p) helyi jelentőségű védett természeti terület védőövezete;
+
+q) az Országos Erdőállomány Adattárban erdőként nyilvántartott terület – a (3)–(5) bekezdésben foglaltak figyelembevételével –; továbbá
+
+r) olyan egyéb tény, amelynek ingatlan-nyilvántartási feljegyzését törvény elrendeli.
 
 (2) Jogi jelleget egész ingatlanra vagy annak területi mértékben meghatározott részére lehet feljegyezni.
 
-(3) Az Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg feljegyzése vagy törlése az erdészeti hatóság megkeresésére, annak jogerős határozata alapján történik.
+(3)[^121] Az Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg feljegyzése vagy törlése az erdészeti hatóság megkeresésére, annak végleges határozata alapján történik.
 
 (4) Az Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg erdő művelési ágban nyilvántartott földrészletre nem jegyezhető fel.
 
 (5) Az Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg az 1 hektárnál kisebb belterületi földrészleten csak az egész ingatlanra jegyezhető fel.
 
-[^111]: A 39/A. §-t megelőző alcímet a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 42. §-ával megállapított szöveg.
-[^112]: A 39/A. §-t a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 148/2012. (XII. 28.) VM rendelet 6. §-ával megállapított szöveg.
-[^113]: A 39/A. § (1) bekezdés d) pontja a 39/2014. (XII. 18.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^114]: A 39/A. § (1) bekezdés f) pontja a 39/2014. (XII. 18.) FM rendelet 11. § (3) bekezdésével megállapított szöveg.
+(6)[^122] Az (1) bekezdés i) pont ic) alpontjában szereplő fokozottan védett természeti terület jogi jelleg megnevezés feljegyzésének feltétele az (1) bekezdés i) pont ia) vagy ib) alpontja szerinti országos jelentőségű védett természeti terület jogi jelleg megnevezés korábban megvalósult vagy egyidejű feljegyzése.
+
+[^117]: A 39. § a 60/2017. (XII. 20.) FM rendelet 22. § b) pontja szerint módosított szöveg.
+[^118]: A 39/A. §-t megelőző alcímet a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 42. §-ával megállapított szöveg.
+[^119]: A 39/A. §-t a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 148/2012. (XII. 28.) VM rendelet 6. §-ával megállapított szöveg.
+[^120]: A 39/A. § (1) bekezdése a 60/2017. (XII. 20.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^121]: A 39/A. § (3) bekezdése a 60/2017. (XII. 20.) FM rendelet 22. § f) pontja szerint módosított szöveg.
+[^122]: A 39/A. § (6) bekezdését a 60/2017. (XII. 20.) FM rendelet 4. § (2) bekezdése iktatta be.

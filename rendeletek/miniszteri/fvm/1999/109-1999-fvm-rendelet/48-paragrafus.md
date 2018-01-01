@@ -1,24 +1,24 @@
-## 45.[^132] Fásított terület
+## 45.[^142] Fásított terület
 
-48. §[^133] (1) Fásított terület művelési ágban kell nyilvántartani
+48. §[^143] (1) Fásított terület művelési ágban kell nyilvántartani
 
-a) a nem erdei fafajokkal borított területet,
+a) a település külterületén
 
-b) a település külterületén az arborétum által elfoglalt területet,
+aa) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény (a továbbiakban: Evt.) szerinti fásítás területét,
 
-c) az üzemmel, majorral, közüzemi létesítményekkel, továbbá úttal, vasúttal, töltéssel, árokkal, csatornával, valamint az egyéb vonalas műszaki létesítménnyel azonos földrészleten lévő
+ab) az élőfagyűjtemények (az arborétumok) által elfoglalt területet,
 
-ca) olyan fával borított területet, amelynek területnagysága egy hektárnál kisebb vagy
+b) az üzemmel, állandó jellegű mezőgazdasági telephellyel, temetővel, közüzemi létesítményekkel, továbbá közúttal, vasúttal, árvízvédelmi töltéssel, árokkal, csatornával, valamint az egyéb vonalas műszaki létesítménnyel azonos földrészleten lévő olyan fával, faállománnyal borított területet,
 
-cb) olyan egy hektár vagy annál nagyobb fával borított sáv területét, amelynek kiterjedése – a szélső fák egymástól mért tőtávolsága szerint – átlagosan húsz méternél keskenyebb,
+ba) amelynek területnagysága ötezer négyzetméternél kisebb vagy
 
-d) az Evt.-ben meghatározott
+bb) amelynek kiterjedése – a szélső fák egymástól mért tőtávolsága szerint – átlagosan húsz méternél keskenyebb,
 
-da) szabad rendelkezésű erdő területét,
+## ha azokat az Országos Erdőállomány Adattár erdőrészletként nem tartja nyilván, illetve ha azokat e rendelet szerint nem kell más művelési ágban vagy művelés alól kivett területként nyilvántartani.
 
-db) facsoport és fasor (fásítások) által elfoglalt területet.
+(2) Az (1) bekezdésben foglaltakon túl fásított terület művelési ágban kell nyilvántartani az Országos Erdőállomány Adattárban szabad rendelkezésű erdőként nyilvántartott területet.
 
-(2) Az (1) bekezdésben foglaltakon túlmenően fásított terület művelési ágban kell nyilvántartani még a hengeres típusú fás szárú energetikai ültetvényt.
+(3) Az (1)–(2) bekezdésben foglaltakat kell alkalmazni akkor is, ha az érintett terület az ingatlan-nyilvántartás szerint a település zártkertjében fekszik.
 
-[^132]: A 45. alcím a 48/2010. (IV. 27.) FVM rendelet 52. §-ával megállapított szöveg.
-[^133]: A 48. § a 48/2010. (IV. 27.) FVM rendelet 52. §-ával megállapított szöveg.
+[^142]: A 45. alcím a 48/2010. (IV. 27.) FVM rendelet 52. §-ával megállapított szöveg.
+[^143]: A 48. § a 60/2017. (XII. 20.) FM rendelet 13. §-ával megállapított szöveg.

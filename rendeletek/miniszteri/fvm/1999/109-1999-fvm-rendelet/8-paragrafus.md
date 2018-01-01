@@ -1,3 +1,3 @@
-## 4.[^31] Lakásszövetkezeti tagot megillető állandó használati jog
+## 4.[^36] Lakásszövetkezeti tagot megillető állandó használati jog
 
-[^31]: A 4. alcím a 48/2010. (IV. 27.) FVM rendelet 10. §-ával megállapított szöveg.
+[^36]: A 4. alcím a 48/2010. (IV. 27.) FVM rendelet 10. §-ával megállapított szöveg.

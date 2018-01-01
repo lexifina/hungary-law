@@ -1,4 +1,4 @@
-## 131. §[^353] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 82/2015. (XII. 16.) FM rendelet (a továbbiakban: Mr3.) 1. §-ával megállapított 68/D. §-át az Mr3. hatálybalépésekor[^354] folyamatban lévő ügyekben, valamint a megismételt eljárásokban is alkalmazni kell.
+## 131. §[^382] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 82/2015. (XII. 16.) FM rendelet (a továbbiakban: Mr3.) 1. §-ával megállapított 68/D. §-át az Mr3. hatálybalépésekor[^383] folyamatban lévő ügyekben, valamint a megismételt eljárásokban is alkalmazni kell.
 
-[^353]: A 131. §-t a 82/2015. (XII. 16.) FM rendelet 2. §-a iktatta be.
-[^354]: A hatálybalépés időpontja 2015. december 24.
+[^382]: A 131. §-t a 82/2015. (XII. 16.) FM rendelet 2. §-a iktatta be.
+[^383]: A hatálybalépés időpontja 2015. december 24.
