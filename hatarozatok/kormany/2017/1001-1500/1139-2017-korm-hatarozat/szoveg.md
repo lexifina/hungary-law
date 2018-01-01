@@ -18,7 +18,7 @@ da) a járási (fővárosi kerületi) hivatal közvetítési kísérlete három 
 
 db) 3 hónapig nem tudott a járási (fővárosi kerületi) hivatal az álláskereső számára megfelelő állást felajánlani,
 
-e) a közfoglalkoztatási jogviszonyban állók közfoglalkoztatási programokba történő időszakonként visszatérő bevonása kerüljön kizárásra úgy, hogy 2018. június 1-jétől felmenő rendszerben, három éves időszakon belül a közfoglalkozatási jogviszonyban eltölthető maximális időtartam egy év legyen, kivéve, ha a versenyszféra nem kínál reális munkalehetőséget az egyénnek, tehát önhibáján kívül nem tud elhelyezkedni;
+e)[^1]
 
 Felelős: nemzetgazdasági miniszter
 
@@ -132,53 +132,18 @@ Felelős: emberi erőforrások minisztere belügyminiszter
 
 Határidő: 2017. április 1.
 
-16. A Kormány a közfoglalkoztatás 2017. évi céljaiként
+16.[^2]
 
-a) az elsődleges munkaerőpiacon elhelyezhető álláskeresők közfoglalkoztatásból kilépésének ösztönzését;
-
-b) a Start-munkaprogram folytatását, hosszabb időtartamú foglalkoztatási lehetőség biztosítását az alacsony iskolai végzettségű, és a nyílt munkaerőpiacon elhelyezkedni nem tudó álláskeresők számára;
-
-c) az elsődleges munkaerőpiacról kiszorultak, különösen a munkaerőpiacon halmozottan hátrányban lévő foglalkoztatást helyettesítő támogatásban részesülő, illetve álláskeresési vagy szociális ellátásra nem jogosult álláskeresők, az alacsony iskolai végzettségűek, a tartósan munka nélkül lévők (kiemelten a megváltozott munkaképességűek, a hajléktalanok, az elismert menekültek és oltalmazott jogállásúak, a roma nemzetiségű álláskeresők, továbbá a Nemzeti Eszközkezelő Zrt. által működtetett „Határozott idejű bérleti szerződés” programban részt vevő álláskeresők) foglalkoztatásának és foglalkoztathatóságának növelését, figyelembe véve az álláskeresők ügyfél kategorizálási rendszerben történt besorolását;
-
-d) a közfoglalkoztatással érintettek, különösen a c) pontban meghatározott célcsoportok – azon belül is kiemelten a hátrányos helyzetű, 16–18 év közötti korosztály – munkaerőpiaci (re)integrációjához leginkább szükséges és megfelelő, személyre szabott munkaerőpiaci szolgáltatásokhoz és képzésekhez való minél szélesebb körben való hozzáférését;
-
-e) a mentális, szociális, egészségi okból foglalkoztatásba nehezen bevonható álláskeresők számára speciális közfoglalkoztatási programok támogatását;
-
-f) az értékteremtő, hasznos, helyi sajátosságokon alapuló, a település önfenntartását elősegítő programok támogatását;
-
-g) a természeti és épített környezet védelmét, a kulturális örökség elemeinek megóvását, a gondozatlan sírkertek rekonstrukciójának elősegítését, továbbá a vasúti pályahálózat, illetve az országos közúthálózat környezetének tisztántartását, karbantartását;
-
-h) a helyben megtermelt termények felhasználásával a közétkeztetés minőségének javítását, e tekintetben az önellátó, önfenntartó települések kialakítását;
-
-i) a civil és karitatív, valamint egyházi szervezetek közreműködésére fokozottan támaszkodva a lakónépesség komfortérzetének javítása érdekében a rendezett közösségi terek kialakítását;
-
-j) a mezőgazdasági hasznosításra alkalmas területeken és zártkerti területeken gazdaságosan termelhető, a helyi közintézmények közétkeztetési igényeit kiszolgáló mezőgazdasági termékekre épülő, a helyi sajátosságokat figyelembe vevő fejlesztések megvalósítását;
-
-k) a roma lakosság lakhatásának, társadalmi integrációjának elősegítését;
-
-l) a büntetés-végrehajtási intézetekből szabadultak társadalmi beilleszkedésének elősegítését;
-
-m) a területi vízrendezési, vízkárelhárítási és mezőgazdasági vízhasznosítási feladatokban a közfoglalkoztatottak fokozottabb bevonását;
-
-n) a mezőgazdasági földterületek és az állami fenntartású közutak között külterületen fekvő, állami tulajdonban lévő területek tisztántartását;
-
-o) a bel- és külterületi közutak, önkormányzati kerékpárutak karbantartását és tisztántartását;
-
-p) a területi munkaerőpiaci különbségek kiegyenlítését, valamint a közfoglalkoztatás során szerzett jövedelem által a közfoglalkoztatásban részt vevők korábbi életminőségének javítását;
-
-q) az arra alkalmas közfoglalkoztatási programokban szociális szövetkezetek alakításának elősegítését, valamint a szociális szövetkezetek működési feltételeinek javítását célzó tevékenységek szakmai-módszertani támogatását, az e célra biztosított uniós források elérésének elősegítését;
-
-r) a vidék lakosságmegtartó képességének növelését
-
-határozza meg.
-
-17. A Kormány a közfoglalkoztatás szempontjából kiemelt településeknek minősíti a kedvezményezett települések besorolásáról és a besorolás feltételrendszeréről szóló 105/2015. (IV. 23.) Korm. rendelet 2. mellékletében szereplő településeket, valamint a kedvezményezett járások besorolásáról szóló 290/2014. (XI. 26.) Korm. rendelet 3. és 6. mellékletében szereplő, továbbá a regionális szempontból kedvezményezett járások településeit.
+17.[^3]
 
 18. Ez a határozat a közzétételét követő napon lép hatályba.
 
-19.[^1]
+19.[^4]
 
-20.[^2]
+20.[^5]
 
-[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont e) alpontját az 1952/2017. (XII. 13.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
+[^2]: A 16. pontot az 1952/2017. (XII. 13.) Korm. határozat 4. pont b) alpontja hatályon kívül helyezte.
+[^3]: A 17. pontot az 1952/2017. (XII. 13.) Korm. határozat 4. pont c) alpontja hatályon kívül helyezte.
+[^4]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
