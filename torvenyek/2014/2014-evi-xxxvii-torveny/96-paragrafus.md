@@ -1,6 +1,6 @@
 96. § (1) A szanálási feladatkörében eljáró MNB a szankcióval sújtott természetes vagy jogi személynek a döntésről való értesítését követően honlapján haladéktalanul nyilvánosságra hozza a szanálási feladatkörében hozott szankciós döntések rendelkező részét.
 
-(2) Nem jogerős döntéssel szembeni jogorvoslat esetén a szanálási feladatkörében eljáró MNB-nek a honlapján jeleznie kell a jogorvoslati folyamat aktuális fázisát, valamint a jogorvoslat eredményét.
+(2) Nem végleges döntéssel szembeni jogorvoslat esetén a szanálási feladatkörében eljáró MNB-nek a honlapján jeleznie kell a jogorvoslati folyamat aktuális fázisát, valamint a jogorvoslat eredményét.
 
 (3) A szanálási feladatkörében eljáró MNB név nélkül teszi közzé a döntést, ha
 

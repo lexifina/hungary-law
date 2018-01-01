@@ -1,5 +1,7 @@
-112. § (1) A szanálási feladatkörében eljáró MNB a hatósági eljárásban a Ket. 29. § (3)–(12) bekezdését, 70. §-át, a 93. §-át, 94. §-át és 94/A. §-át nem kell alkalmazni.
+112. § (1) A szanálási feladatkörében eljáró MNB hatósági eljárásában sommás eljárásnak nincs helye.
 
 (2) Az MNB az ügyfél kérelmére nem folytat le e törvény szerinti feladatkörébe tartozó eljárást.
 
-(3) A szanálási feladatkörében eljáró MNB eljárása során a Ket. 10. § (2) bekezdése, a 29. § (3)–(12) bekezdése, a 33–33/B. §-a és 49. §-a nem alkalmazható.
+(3) A szanálási feladatkörében eljáró MNB a feladatkörébe tartozó ügyben az Ákr. 65. §-át azzal az eltéréssel alkalmazza, hogy az irat eredeti vagy közhiteles másolati példányának, illetve hiteles fordításának benyújtására hívhatja fel az ügyfelet.
+
+(4) A szanálási feladatkörében eljáró MNB hatósági eljárásában az Ákr. 61. §-át és 76. §-át nem kell alkalmazni.

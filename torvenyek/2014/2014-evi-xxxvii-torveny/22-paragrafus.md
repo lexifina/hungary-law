@@ -30,7 +30,7 @@ bf) annak a jogi személynek a nevét, székhelyét, nyilvántartási számát, 
 
 (3) A (2) bekezdés szerinti nyilvántartás a független értékelő nyilvántartási száma, a nyilvántartásba-vétel időpontja, valamint a független értékelői tevékenység végzésére való jogosultság tekintetében közhiteles nyilvántartásnak minősül.
 
-(4) A szanálási feladatkörében eljáró MNB a független értékelőkre vonatkozóan legalább évente egyszer nyilvános pályázatot hirdet. A beérkezett pályázatokat a szanálási feladatkörében eljáró MNB által felkért, legalább három, de legfeljebb hét tagból álló bíráló bizottság bírálja el. A bíráló bizottság döntése ellen fellebbezésnek nincs helye, a pályázó a döntés bírósági felülvizsgálatát a Fővárosi Törvényszéktől kérheti. Ha a pályázó a jogszabályi feltételeknek megfelel, akkor a szanálási feladatkörében eljáró MNB a névjegyzékbe felveszi.
+(4) A szanálási feladatkörében eljáró MNB a független értékelőkre vonatkozóan legalább évente egyszer nyilvános pályázatot hirdet. A beérkezett pályázatokat a szanálási feladatkörében eljáró MNB által felkért, legalább három, de legfeljebb hét tagból álló bíráló bizottság bírálja el. A bíráló bizottság döntése közigazgatási perben megtámadható. Ha a pályázó a jogszabályi feltételeknek megfelel, akkor a szanálási feladatkörében eljáró MNB a névjegyzékbe felveszi.
 
 (5) A szanálási feladatkörében eljáró MNB kidolgozza a (4) bekezdésben meghatározott bíráló bizottság tagjainak kiválasztására vonatkozó belső eljárásrendjét, és az eljárásrendet a szanálási feladatkörében eljáró MNB a honlapján közzéteszi.
 

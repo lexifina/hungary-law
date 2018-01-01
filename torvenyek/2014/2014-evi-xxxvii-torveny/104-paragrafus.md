@@ -22,14 +22,6 @@ e) tőkeelemek leírására vagy átalakítására irányuló eljárást
 
 folytat le.
 
-(3) A szanálási feladatkörében eljáró MNB hatósági eljárásában ügyfél az,
+(3)
 
-a) akire nézve az MNB az e törvényben meghatározottak szerint jogot vagy kötelezettséget állapít meg,
-
-b) akit a szanálási feladatkörében eljáró MNB – a szanálhatósági vizsgálat során – ellenőrzés alá von,
-
-c) aki engedélyezés iránt a szanálási feladatkörében eljáró MNB-hez kérelmet nyújt be, vagy
-
-d) akire nézve a szanálási feladatkörében eljáró MNB által vezetett közhiteles hatósági nyilvántartás adatot tartalmaz.
-
-(4) A (2) bekezdésben meghatározott eljárás felfüggesztését az ügyfél nem kérheti.
+(4) A (2) bekezdésben meghatározott eljárás szünetelését az ügyfél nem kérheti.

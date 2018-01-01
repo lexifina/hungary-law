@@ -12,7 +12,7 @@ c) a kiegészítő alapvető és járulékos tőkeelemek tőkeösszege leírásr
 
 a) csökkenése tartós, és
 
-b) a kiegészítő alapvető és járulékos tőkeelemek tulajdonosaival szemben nem marad fenn az instrumentum leírásra került összegének megfelelő vagy azzal kapcsolatos kötelezettség, kivéve az esetleges már felhalmozott kötelezettségeket, valamint a leírási jogosultság gyakorlásának jogszerűségét vizsgáló bírósági felülvizsgálat eredményeként esetlegesen felmerülő károkkal kapcsolatos kötelezettségeket.
+b) a kiegészítő alapvető és járulékos tőkeelemek tulajdonosaival szemben nem marad fenn az instrumentum leírásra került összegének megfelelő vagy azzal kapcsolatos kötelezettség, kivéve az esetleges már felhalmozott kötelezettségeket, valamint a leírási jogosultság gyakorlásának jogszerűségét vizsgáló perben hozott jogerős ítélet eredményeként esetlegesen felmerülő károkkal kapcsolatos kötelezettségeket.
 
 (3) A kiegészítő alapvető és járulékos tőkeelemeknek az (1) bekezdés b) pontja szerinti átalakítása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény számára, hogy bocsásson ki elsődleges alapvető tőkeelemeket a kiegészítő alapvető és járulékos tőkeelemek tulajdonosai számára. A kiegészítő alapvető és járulékos tőkeelemek csak akkor alakíthatók át, ha
 

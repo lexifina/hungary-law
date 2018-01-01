@@ -16,6 +16,8 @@ e) a megállapítások értékelését.
 
 (4) Az eljárás alá vont személy és szervezet a vizsgálati jelentésre és a csoportvizsgálati jelentésre – annak kézhezvételétől számított húsz napon belül – írásban észrevételt tehet. Ha ez az időtartam az intézkedés eredményességét veszélyeztetné, a szanálási feladatkörében eljáró MNB ennél rövidebb határidőt – de legalább 8 napot – is előírhat.
 
-(5) A szanálási feladatkörében eljáró MNB a (4) bekezdés alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított hatvan napon belül hoz döntést. Ez a határidő indokolt esetben, egy alkalommal, legfeljebb harminc nappal meghosszabbítható. A szanálási feladatkörében eljáró MNB a vizsgálatot lezáró döntését a vizsgálati jelentésben foglalt megállapítások, valamint a rendelkezésre álló egyéb bizonyítékok, hivatalosan ismert és köztudomású tények alapján hozza meg.
+(5) A szanálási feladatkörében eljáró MNB a (4) bekezdés alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított kilencven napon belül hoz döntést. A szanálási feladatkörében eljáró MNB a vizsgálatot lezáró döntését a vizsgálati jelentésben foglalt megállapítások, valamint a rendelkezésre álló egyéb bizonyítékok, hivatalosan ismert és köztudomású tények alapján hozza meg.
 
 (6) Az (1) bekezdés szerinti értesítés mellőzését és a (4) bekezdésben meghatározott határidőnél rövidebb határidő előírását a szanálási feladatkörében eljáró MNB döntésében megindokolja.
+
+(7) A szanálási feladatkörében eljáró MNB döntésének közlése során hirdetményi közlésnek valamint közhírré tételnek van helye.

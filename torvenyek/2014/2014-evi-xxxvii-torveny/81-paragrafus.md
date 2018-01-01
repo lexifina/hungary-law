@@ -24,7 +24,7 @@ a) a szanálás alatt álló magyarországi székhelyű intézményben, pénzüg
 
 b) a szanálás alatt álló magyarországi székhelyű intézményben, pénzügyi holding társaságban, vegyes pénzügyi holding társaságban, vegyes tevékenységű holding társaságban meglévő tagi részesedések ideiglenes államosítása.
 
-(5) A (3) bekezdésben meghatározott határozat bírósági felülvizsgálatára a szanálást elrendelő határozat felülvizsgálatára vonatkozó rendelkezéseket kell alkalmazni azzal, hogy ahol a XIII. fejezet a szanálási feladatkörében eljáró MNB-t említi, azon a pénz-, tőke- és biztosítási piac szabályzásáért felelős minisztert kell érteni.
+(5) A (3) bekezdésben meghatározott határozat megtámadására a szanálást elrendelő határozat megtámadására vonatkozó rendelkezéseket kell alkalmazni azzal, hogy ahol a XIII. Fejezet a szanálási feladatkörében eljáró MNB-t említi, azon a pénz-, tőke- és biztosítási piac szabályzásáért felelős minisztert kell érteni.
 
 (6) A (3) bekezdésben meghatározott határozat hatályon kívül helyezése nem érinti a bíróság ítéletének közlése napján vagy azt megelőzően a hatályon kívül helyezett határozat alapján végrehajtott ügyletek érvényességét.
 

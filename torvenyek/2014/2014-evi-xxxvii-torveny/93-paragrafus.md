@@ -26,6 +26,6 @@ b) gazdasági társaság.
 
 (7) Ha az intézményhez már felügyeleti biztos került kirendelésre, akkor a Felügyelet legkésőbb a szanálási biztos kirendelésével egyidejűleg visszahívja a felügyeleti biztost azzal, hogy a szanálási feladatkörében eljáró MNB ugyanazt a gazdasági társaságot vagy természetes személyt is kirendelheti szanálási biztosnak.
 
-(8) Az igazgatóság vagy a felügyelő bizottság tagja a szanálási biztos kirendelésének ideje alatt is jogorvoslattal élhet a szanálási biztost kirendelő határozat és a szanálási feladatkörében eljáró MNB által az intézménnyel szemben hozott határozat ellen, e jogorvoslati eljárásban az intézményt képviselheti vagy a képviselet ellátására megbízást adhat.
+(8) Az igazgatóság vagy a felügyelő bizottság tagja a szanálási biztos kirendelésének ideje alatt is megtámadhatja a szanálási biztost kirendelő határozatot és a szanálási feladatkörében eljáró MNB által az intézménnyel szemben hozott határozatot, az intézményt képviselheti vagy a képviselet ellátására meghatalmazást adhat e perben.
 
 (9) A szanálási biztosra és az általa az (5) bekezdés alapján igénybe vett közreműködőre alkalmazni kell a felügyeleti biztosra az MNB tv.-ben meghatározott szakmai és összeférhetetlenségi előírásokat.

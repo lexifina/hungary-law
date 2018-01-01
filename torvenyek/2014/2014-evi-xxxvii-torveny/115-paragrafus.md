@@ -75,3 +75,5 @@ bb) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá 
 bc) a törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel szemben.
 
 (6) E törvény vonatkozásában titoknak minősül a banktitok, az értékpapírtitok, fizetési titok és az üzleti titok.
+
+(7) A szanálási feladatkörében eljáró MNB az MNB tv. 53. §-a szerinti közzétételi kötelezettségének az Ákr. 27. § (2) bekezdésével összhangban tesz eleget.
