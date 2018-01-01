@@ -6,7 +6,7 @@ a) a kérelmező megnevezését és címét,
 
 b) az engedélyezni kívánt tevékenységek megjelölését és
 
-c) az igazgatási szolgáltatási díj befizetésének igazolását.
+c)[^1]
 
 (2) Az 53. § (1) bekezdés 1., 2. és 18. pontja szerinti engedély iránti kérelemhez csatolni kell a 7. melléklet szerinti Sugárvédelmi Leírást és a 8. melléklet szerinti MSSZ-t.
 
@@ -56,7 +56,7 @@ e) a gyártó CE megfelelőségi nyilatkozatát, orvosi radiológiai berendezés
 
 a) a 4. melléklet szerinti képzési program bemutatását,
 
-b) az oktatók legalább 3 éves szakirányú tapasztalatát és az oktatandó tárgyaknak megfelelő felsőfokú végzettségét igazoló szakmai önéletrajzát és bizonyítványainak másolatát,
+b)[^2]
 
 c) az oktatók átfogó fokozatú képzettségének igazolását,
 
@@ -181,3 +181,6 @@ b) a tervezett módosítással érintett, az engedélyezési eljárás során be
 a) a felhasználás módjának biztonsági elemzését a sugárforrással kapcsolatos események értékelésére kiterjedően, és
 
 b) 1 évnél nem régebbi zártságvizsgálati jegyzőkönyvet.
+
+[^1]: Az 54. § (1) bekezdés c) pontját a 457/2017. (XII. 28.) Korm. rendelet 566. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^2]: Az 54. § (6) bekezdés b) pontját a 457/2017. (XII. 28.) Korm. rendelet 566. § b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

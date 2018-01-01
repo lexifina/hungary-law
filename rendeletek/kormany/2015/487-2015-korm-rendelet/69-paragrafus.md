@@ -10,6 +10,6 @@ d) az ÁNTSZ OTH és a sugáregészségügyi feladatokat ellátó fővárosi és
 
 (2) Ha az (1) bekezdésben felsorolt iratok és adatok az ÁNTSZ OTH-nál és a sugáregészségügyi feladatokat ellátó fővárosi és megyei kormányhivataloknál elektronikusan rendelkezésre állnak, azokat elektronikus adathordozón adja át az OAH részre.
 
-(3)[^3] A dozimetriai adatbázis működtetése 2020. december 31-ig az országos tisztifőorvos feladata azzal, hogy e kormányrendelet hatálybalépésének napjától az OAH számára az adatbázis felhasználói jogosultságainak teljes körét biztosítani szükséges.
+(3)[^6] A dozimetriai adatbázis működtetése 2020. december 31-ig az országos tisztifőorvos feladata azzal, hogy e kormányrendelet hatálybalépésének napjától az OAH számára az adatbázis felhasználói jogosultságainak teljes körét biztosítani szükséges.
 
-[^3]: A 69. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 316. § c) pontja szerint módosított szöveg.
+[^6]: A 69. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 316. § c) pontja szerint módosított szöveg.
