@@ -1,23 +1,15 @@
 ## Albérletidíj-hozzájárulás
 
-213. § (1)[^226] E rendelet alkalmazásában albérleti díj a honvédelmi szerv állományába tartozó hivatásos, valamint a (2) bekezdés szerinti feltételnek megfelelő szerződéses szolgálati viszonyban álló tiszt, altiszt helyett viselt (átvállalt) albérleti (szállás) díj vagy lízingdíj.
+## 213. §[^226] E rendelet alkalmazásában albérleti díj hozzájárulás a honvédelmi szerv állományába tartozó kormánytisztviselő és kormányzati ügykezelő részére a munkahely szerinti településen vagy annak vonzáskörzetében
 
-(2)[^227] A 210. § (1a) bekezdése szerint, szolgálati érdekből áthelyezett
+a) magán-, állami, továbbá önkormányzati tulajdonú lakás egy részének bérletéhez,
 
-a)[^228] olyan hivatásos katonát, akinek a hivatásos szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett, továbbá
+b) magántulajdonú lakás bérletéhez,
 
-b) azt a szerződéses tisztet, altisztet,
+c) szállodai vagy szállodai jellegű szobabérlethez,
 
-ba) akinek a szerződéses szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett,
+d) lakásnak lízingbe adására jogosult gazdálkodó szervezettől való lízingjéhez
 
-bb) a szerződéses szolgálatban folyamatosan 5 évet már eltöltött, és
+nyújtott lakhatási támogatás.
 
-bc) összesen legalább a 10. év eléréséig vállalta a további szolgálatot,
-
-## a szolgálati helye szerinti településen vagy annak vonzáskörzetében – az egy évet meg nem haladó határozott időtartamú vezénylés esetét kivéve – kérelmére albérleti díj hozzájárulás illeti meg, ha szálló férőhelyen történő elhelyezése nem lehetséges.
-
-(3) A szállóférőhelyen történő elhelyezés lehetőségének kizárásáról – helyhiány vagy a kérelmező egyéni és családi körülményeinek vizsgálata alapján – az állományilletékes parancsnok dönt. Nem kell vizsgálni az elhelyezés lehetőségét abban az esetben, ha házastársi (élettársi) kapcsolatban élő vagy háztartásában kiskorú gyermekének (ideértve a mostoha, nevelt, örökbe fogadott gyermekét is) eltartásáról gondoskodó igénylő lakáslízinghez kéri az albérletidíj-hozzájárulást.
-
-[^226]: A 213. § (1) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^227]: A 213. § (2) bekezdése a 10/2014. (VII. 25.) HM rendelet 46. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
-[^228]: A 213. § (2) bekezdés a) pontja a 15/2015. (XII. 21.) HM rendelet 21. §-ával megállapított szöveg.
+[^226]: A 213. § a 10/2014. (VII. 25.) HM rendelet 57. §-ával megállapított szöveg.

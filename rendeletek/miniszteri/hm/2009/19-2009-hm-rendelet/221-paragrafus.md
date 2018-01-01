@@ -2,7 +2,7 @@
 
 ## A lakásgazdálkodás szervezete
 
-221. § (1)[^266]
+221. § (1)[^237]
 
 (2) A helyi lakásgazdálkodási szerv a feladatait a HM központi lakásgazdálkodási szerv irányításával önálló hatáskörben, a lakásgazdálkodási körzetére kiterjedő illetékességgel látja el.
 
@@ -18,9 +18,9 @@ c) véleményt nyilvánít és javaslatot tesz a lakásellátásra,
 
 d) vezeti az előírt nyilvántartásokat, a központi, a területi és a társszervek részére adatokat szolgáltat,
 
-e)[^267] együttműködik a területileg illetékes lakóházkezelő szervvel, kapcsolatot tart a katonai, rendvédelmi és önkormányzati szervekkel,
+e)[^238] együttműködik a területileg illetékes lakóházkezelő szervvel, kapcsolatot tart a katonai, rendvédelmi és önkormányzati szervekkel,
 
 f) Az állományba történő felvétel, vagy helyőrségváltással is járó áthelyezés esetén az állományilletékes parancsnok megkeresésére információt szolgáltat a honvédelmi szervhez érkező személy részére nyújtható lakhatási támogatásról, valamint a megoldás (lakásjuttatás) várható időpontjáról.
 
-[^266]: A 221. § (1) bekezdését a 4/2012. (IV. 5.) HM rendelet 23. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^267]: A 221. § (4) bekezdés e) pontja a 10/2014. (VII. 25.) HM rendelet 53. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^237]: A 221. § (1) bekezdését a 4/2012. (IV. 5.) HM rendelet 23. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^238]: A 221. § (4) bekezdés e) pontja a 10/2014. (VII. 25.) HM rendelet 53. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.

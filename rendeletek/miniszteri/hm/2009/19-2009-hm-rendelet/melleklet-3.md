@@ -1,4 +1,4 @@
-3. melléklet a 19/2009. (XII. 29.) HM rendelethez[^324]
+3. melléklet a 19/2009. (XII. 29.) HM rendelethez[^295]
 
 Kiemelt helyőrségi szállók jegyzéke
 
@@ -6,4 +6,4 @@ Kiemelt helyőrségi szállók jegyzéke
 
 2. 1149 Budapest, Mexikói út 49.
 
-[^324]: A 3. mellékletet a 15/2015. (XII. 21.) HM rendelet 28. § (3) bekezdése iktatta be.
+[^295]: A 3. mellékletet a 15/2015. (XII. 21.) HM rendelet 28. § (3) bekezdése iktatta be.
