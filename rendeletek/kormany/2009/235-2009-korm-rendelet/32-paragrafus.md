@@ -1,8 +1,8 @@
 ## A klinikai vizsgálat engedélyezése
 
-32. § (1)[^71] A vizsgálatot az OGYÉI (e cím alkalmazásában a továbbiakban: engedélyező) engedélyezi, és nyilvántartásba veszi.
+32. § (1)[^88] A vizsgálatot az OGYÉI (e cím alkalmazásában a továbbiakban: engedélyező) engedélyezi, és nyilvántartásba veszi.
 
-(2) Az engedély iránti kérelmet a megbízónak, illetve a meghatalmazott képviselőnek (e cím alkalmazásában a továbbiakban együtt: kérelmező) két példányban, a mellékletben megjelölt dokumentumok kíséretében kell az engedélyezőhöz benyújtania a vizsgálatok megkezdése előtt legalább 60 nappal.
+(2)[^89] Az OGYÉI megvizsgálja, hogy a klinikai vizsgálatra szánt eszköz szerves részét képezi-e olyan anyag, amely önmagában használva – a Gytv. értelmében – gyógyszernek tekinthető, és alkalmas arra, hogy az eszköz hatásához képest kiegészítő jelleggel hasson az emberi szervezetre.
 
 (3) Az engedélyező a kérelmet és a benyújtott hiánytalan dokumentációt formai vizsgálatnak veti alá és a következő szempontok alapján értékeli:
 
@@ -14,4 +14,5 @@ c) a kérelmező által meghatározott teljesítőképesség igazolása és a v�
 
 d) a kérelmező minden tőle elvárhatót megtett-e a váratlan események és balesetek elkerülésére.
 
-[^71]: A 32. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 145. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^88]: A 32. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 145. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^89]: A 32. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 268. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

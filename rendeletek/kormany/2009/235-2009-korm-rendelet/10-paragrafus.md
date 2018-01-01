@@ -1,5 +1,5 @@
 ## Jogorvoslat
 
-10. §[^11]
+10. §[^13]
 
-[^11]: A 10. §-t a 379/2016. (XII. 2.) Korm. rendelet 145. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^13]: A 10. §-t a 379/2016. (XII. 2.) Korm. rendelet 145. § (2) bekezdés a) pontja hatályon kívül helyezte.

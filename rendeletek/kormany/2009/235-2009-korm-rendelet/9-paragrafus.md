@@ -20,8 +20,8 @@ a) a kérelmezőnek,
 
 b) az eljáró etikai, illetve regionális etikai bizottságnak,
 
-c)[^10] a Nemzeti Egészségbiztosítási Alapkezelőnek.
+c)[^12] a Nemzeti Egészségbiztosítási Alapkezelőnek.
 
 (3) A kérelmező a határozatról értesíti az illetékes IKEB-et, a kutatást végző intézmény vezetőjét és – amennyiben a kérelmező nem azonos a kutatásvezetővel – a kutatásvezetőt.
 
-[^10]: A 9. § (2) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 145. § (1) bekezdés b) pontjával megállapított szöveg.
+[^12]: A 9. § (2) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 145. § (1) bekezdés b) pontjával megállapított szöveg.
