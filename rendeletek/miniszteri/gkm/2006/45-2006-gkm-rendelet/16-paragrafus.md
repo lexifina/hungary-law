@@ -1,5 +1,5 @@
 ## 15. § A működési engedély módosítására irányuló eljárásra az engedélyezés szabályai megfelelően irányadók.
 
-## A vasúti igazgatási szerv ellenőrzési jogköre[^54]
+## A vasúti igazgatási szerv ellenőrzési jogköre[^58]
 
-[^54]: A 16. §-t megelőző alcím a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
+[^58]: A 16. §-t megelőző alcím a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.

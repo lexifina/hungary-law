@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-45-20-0
 | 2013-06-06 | 2006-45-20-0L.10 | 23/2013. (V. 22.) NFM rendelet |
 | 2014-03-15 | 2006-45-20-0L.11 | 23/2013. (V. 22.) NFM rendelet |
 | 2015-10-15 | 2006-45-20-0L.12 | 59/2015. (IX. 30.) NFM rendelet |
+| 2018-01-01 | 2006-45-20-0L.13 | 55/2017. (XII. 27.) NFM rendelet |

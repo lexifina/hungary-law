@@ -1,4 +1,4 @@
-5/B. §[^21] (1) A vasúti társaság a Vtv. 9/F. § (1) bekezdése szerinti bejelentését a vasúti igazgatási szerv által rendszeresített formanyomtatványon, az e rendeletben meghatározott tartalommal és módon nyújtja be a vasúti igazgatási szervnek.
+5/B. §[^24] (1) A vasúti társaság a Vtv. 9/F. § (1) bekezdése szerinti bejelentését a vasúti igazgatási szerv által rendszeresített formanyomtatványon, az e rendeletben meghatározott tartalommal és módon nyújtja be a vasúti igazgatási szervnek.
 
 (2) A vasúti tevékenység bejelentése esetén a bejelentésnek tartalmaznia kell:
 
@@ -36,4 +36,4 @@ e) ha a bejelentő az általa fenntartott vasúti pályahálózathoz nem kíván
 
 (7) A bejelentés tudomásul vételével egyidejűleg a vasúti igazgatási szerv a bejelentőt nyilvántartásba veszi.
 
-[^21]: Az 5/B. §-t az 59/2015. (IX. 30.) NFM rendelet 5. §-a iktatta be.
+[^24]: Az 5/B. §-t az 59/2015. (IX. 30.) NFM rendelet 5. §-a iktatta be.
