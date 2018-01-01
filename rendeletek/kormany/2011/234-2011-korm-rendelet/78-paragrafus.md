@@ -1,6 +1,6 @@
-## X. Fejezet
+## X. Fejezet[^38]
 
-## A KATASZTRÓFAVÉDELMI CÉLÚ GAZDASÁGI-ANYAGI SZOLGÁLTATÁSOK TELJESÍTÉSE ÉS A KÁRTALANÍTÁSSAL ÖSSZEFÜGGŐ ELJÁRÁS RÉSZLETES SZABÁLYAI
+## A KATASZTRÓFAVÉDELMI CÉLÚ GAZDASÁGI-ANYAGI SZOLGÁLTATÁSOK TELJESÍTÉSE, A SZOLGÁLTATÁSRA VONATKOZÓ HATÓSÁGI DÖNTÉSSEL KAPCSOLATOS FELLEBBEZÉS ÉS A KÁRTALANÍTÁSSAL ÖSSZEFÜGGŐ ELJÁRÁS RÉSZLETES SZABÁLYAI
 
 ## 57. A kijelölés és a nyilvántartás
 
@@ -13,3 +13,5 @@
 (4) A kötelezett a szolgáltatás teljesítését befolyásoló minden változást, tényt az elrendelő számára haladéktalanul, de legkésőbb a változástól számított 8 napon belül bejelenti.
 
 (5) A polgármester a kijelölt szolgáltatásokról naprakészen tartott nyilvántartást vezet, melyet az összesített veszélyelhárítási terv elkészítéséhez a hivatásos katasztrófavédelmi szerv helyi szervének rendelkezésére bocsát.
+
+[^38]: A X. fejezet címe a 457/2017. (XII. 28.) Korm. rendelet 353. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
