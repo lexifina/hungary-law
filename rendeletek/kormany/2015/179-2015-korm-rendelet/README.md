@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-179-20-
 | 2015-07-08 | 2015-179-20-22.1 | 179/2015. (VII. 7.) Korm. rendelet |
 | 2016-01-01 | 2015-179-20-22.2 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2015-179-20-22.3 | 440/2016. (XII. 16.) Korm. rendelet |
+| 2018-01-01 | 2015-179-20-22.4 | 458/2017. (XII. 28.) Korm. rendelet |
