@@ -1,10 +1,8 @@
-68. § (1) A kérelmet elutasító határozattal szemben bírósági felülvizsgálatnak van helye.
+68. § (1) A kérelmet elutasító határozat nyolc napon belül közigazgatási perben megtámadható. A menekültügyi hatóság a keresetlevelet az ügy irataival és védiratával együtt haladéktalanul megküldi a bíróságnak.
 
-(2) A keresetlevelet a határozat közlésétől számított nyolc napon belül, a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a keresetlevelet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak.
+(2) A bíróság a keresetlevél bírósághoz érkezésétől számított hatvan napon belül dönt. Az eljárásban szükség esetén személyes meghallgatásnak van helye.
 
-(3) A keresetről a bíróság – a keresetlevél beérkezésétől számított hatvan napon belül – peres eljárásban dönt. Ha a kérelmező személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, illetve idegenrendészeti eljárásban elrendelt, személyi szabadságot korlátozó intézkedés hatálya alatt áll, a bíróság soron kívül jár el. A bíróság felülvizsgálata kiterjed mind a tények, mind a jogi szempontok teljes körű, és a bírósági döntés meghozatalának időpontja szerinti vizsgálatára. Az eljárásban szükség esetén személyes meghallgatásnak van helye.
-
-(4) A bírósági eljárásban a kérelmező személyes meghallgatása kötelező, ha a kérelmező menekültügyi őrizet hatálya alatt áll. A személyes meghallgatás helyszíne az őrizet végrehajtásának helye. A személyes meghallgatást a bíróság mellőzi, ha
+(3) A bírósági eljárásban a kérelmező személyes meghallgatása kötelező, ha a kérelmező menekültügyi őrizet hatálya alatt áll. A személyes meghallgatás helyszíne az őrizet végrehajtásának helye. A személyes meghallgatást a bíróság mellőzi, ha
 
 a) a kérelmező a szálláshelyéről nem idézhető,
 
@@ -12,6 +10,8 @@ b) a kérelmező ismeretlen helyre távozott, vagy
 
 c) az ismételt kérelem a korábbival azonos ténybeli alapon nyugszik.
 
-(5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg, a jogszabálysértő közigazgatási határozatot – az ügy érdemére ki nem ható eljárási szabály megsértésének kivételével – hatályon kívül helyezi, és szükség esetén a menekültügyi hatóságot új eljárásra kötelezi.
+(4) A bíróság vizsgálata kiterjed mind a tények, mind a jogi szempontok teljes körű, a bírósági határozat meghozatalának időpontja szerinti vizsgálatára.
 
-(6) A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
+(5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg.
+
+(6) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.

@@ -4,7 +4,7 @@
 
 (3) A bírósági eljárás során az elismerését kérőt csak jogi képviselő képviselheti.
 
-(4) A bíróság az elismerését kérő számára ügygondnokot rendel ki, ha az a magyar nyelvet nem ismeri és képviseletéről meghatalmazott útján nem tud gondoskodni.
+(4) A bíróság az elismerését kérő számára ügygondnokot és tolmácsot rendel ki, ha az a magyar nyelvet nem ismeri és képviseletéről meghatalmazott útján nem tud gondoskodni.
 
 (5) Személyes meghallgatást kell tartani – a (7) bekezdésben meghatározott kivétellel –
 
@@ -24,7 +24,7 @@ b) a kifogás vagy az indítvány nem a jogosulttól származik.
 
 (8) A személyes meghallgatáson az elismerését kérő, illetve a menekültügyi hatóság a bizonyítékait írásban előterjesztheti vagy szóban előadhatja. A jelenlevőknek módot kell adni arra, hogy a bizonyítékokat – jogszabály eltérő rendelkezésének hiányában – megismerjék. Ha az elismerését kérő, illetve az indítványozó menekültügyi hatóság képviselője nem jelent meg, de az észrevételét írásban benyújtotta, azt a bíróság ismerteti.
 
-(9) A bíróság végzését az elismerését kérővel és a menekültügyi hatósággal, valamint a jogi képviselőjével, illetve az ügygondnokával kell közölni. A végzést kihirdetés útján kell közölni, és azt az írásba foglalást követően haladéktalanul kézbesíteni kell.
+(9) A bíróság határozatát az elismerését kérővel és a menekültügyi hatósággal, valamint a jogi képviselőjével, illetve az ügygondnokával kell közölni. A meghallgatáson hozott végzést kihirdetés útján kell közölni, és azt az írásba foglalást követően haladéktalanul kézbesíteni kell. A meghallgatáson kívül hozott határozatot a bíróság az elismerését kérővel az őrizet végrehajtását foganatosító hatóság útján közli.
 
 (10) A bíróság döntése ellen jogorvoslatnak nincs helye.
 

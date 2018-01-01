@@ -13,3 +13,5 @@ b) a terrorizmus finanszírozása, valamint
 c) az a) és b) pontban foglaltakra való felbujtás.
 
 (4) Nem lehet menekültként elismerni azt a külföldit, akinek Magyarország területén való tartózkodása a nemzetbiztonságot veszélyezteti.
+
+(5) Nem lehet menekültként elismerni azt a külföldit, akit a bíróság jogerős határozatában olyan bűncselekmény elkövetése miatt ítélt el, amelyre a törvény ötévi vagy azt meghaladó szabadságvesztés büntetést rendel.

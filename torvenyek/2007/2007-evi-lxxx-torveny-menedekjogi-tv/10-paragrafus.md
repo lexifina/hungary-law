@@ -26,10 +26,10 @@ c) Magyarország jogszabályait megtartani;
 
 d) úti okmányának, valamint személyazonosító igazolványának elvesztését, eltulajdonítását vagy megsemmisülését a menekültügyi hatóságnál haladéktalanul bejelenteni.
 
-(5) A menekült kétnyelvű úti okmányának kiállítását elutasító határozattal szemben bírósági felülvizsgálatnak van helye.
+(5) A menekült kétnyelvű úti okmányának kiállítását elutasító határozatot megtámadó keresetlevelet három napon belül kell benyújtani. A menekültügyi hatóság a keresetlevelet az ügy irataival és védiratával együtt haladéktalanul megküldi a bíróságnak.
 
-(6) A felülvizsgálati kérelmet a döntés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak.
+(6) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt.
 
-(7) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt.
+(7) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
 
 (8) A bíróság a menekültügyi hatóság döntését megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.

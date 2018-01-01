@@ -1,3 +1,3 @@
-## Az oltalmazottkénti elismerés feltételei fennállásának felülvizsgálata
+## A menekültkénti, oltalmazottkénti és befogadottkénti elismerés feltételei fennállásának felülvizsgálata
 
-75/A. § Az oltalmazottkénti elismerés feltételei fennállásának felülvizsgálata során e törvény VII. Fejezetének és az 56–68. §-ainak rendelkezéseit megfelelően kell alkalmazni.
+75/A. § A menekültkénti, oltalmazottkénti és befogadottkénti elismerés feltételei fennállásának felülvizsgálata során a VII. Fejezet és az 56–68. §-t megfelelően kell alkalmazni.

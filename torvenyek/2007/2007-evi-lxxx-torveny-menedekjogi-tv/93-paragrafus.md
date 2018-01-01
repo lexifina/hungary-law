@@ -28,6 +28,8 @@ j) kihirdesse a tömeges bevándorlás okozta válsághelyzetet, illetve állap�
 
 (2a) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a 7. § (5) bekezdése alapján évente menekültként elismerhető külföldiek számát.
 
+(2b) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a költségmentesség szabályait.
+
 (3) A miniszter felhatalmazást kap arra, hogy rendeletben
 
 a) határozza meg a menekültügy szervezeti rendszerének felépítését, feladatait és működési rendjét;

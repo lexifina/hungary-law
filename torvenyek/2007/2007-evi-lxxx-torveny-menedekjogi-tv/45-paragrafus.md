@@ -16,6 +16,6 @@
 
 (8) A menekültügyi hatóság által elrendelt kiutasítást és kitoloncolást az idegenrendészeti hatóság hajtja végre.
 
-(9) Az (5) és (6) bekezdésben foglaltaktól eltérően a menekültügyi hatóság nem dönt a kiutasításról, ha az elismerést kérővel szemben jogerős kiutasítás elrendelésére korábban már sor került.
+(9) Az (5) és (6) bekezdésben foglaltaktól eltérően a menekültügyi hatóság nem dönt a kiutasításról, ha az elismerést kérővel szemben végleges kiutasítás elrendelésére korábban már sor került.
 
 (10) A (3) bekezdésben foglaltak nem alkalmazhatók, ha a kérelmező származási országa nem igazolt, vagy valószínűsített.

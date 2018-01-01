@@ -4,7 +4,7 @@
 
 (2) Az oltalmazott – a 10. § (3) bekezdés a) pontjától eltérően – a jogszabályban meghatározott úti okmányra jogosult. Az úti okmány kiállítása nemzetbiztonsági vagy közrendi érdekből megtagadható.
 
-(2a) Az oltalmazott úti okmányának kiállítását elutasító határozattal szemben – a 10. § (6)–(8) bekezdésben foglaltaknak megfelelően – bírósági felülvizsgálatnak van helye.
+(2a) Az oltalmazott úti okmányának kiállítását elutasító határozatot – a 10. § (5)–(7) bekezdésben foglaltaknak megfelelően – bírósági úton megtámadhatja.
 
 (3) Az oltalmazott nem rendelkezik választójoggal.
 

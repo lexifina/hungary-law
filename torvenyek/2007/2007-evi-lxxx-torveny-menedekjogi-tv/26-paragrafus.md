@@ -12,4 +12,4 @@
 
 (4) Ha bebizonyosodik, hogy az elismerését kérő rendelkezett a befogadás anyagi feltételei, illetve az egészségügyi ellátás fedezetével, miközben ezeket számára a (2) bekezdés alapján a menekültügyi hatóság biztosította, a menekültügyi hatóság elrendelheti az elismerését kérő számára a költségek visszatérítését.
 
-(5) Az e törvény alapján jogtalanul felvett ellátások és szolgáltatások összege adók módjára behajtható köztartozásnak minősül. Az e törvény alapján biztosított, jogtalanul felvett ellátások és szolgáltatások összegének visszafizetése érdekében, az önkéntes visszafizetés elmaradása esetén a menekültügyi hatóság elrendeli a visszafizetendő összeg behajtását.
+(5)

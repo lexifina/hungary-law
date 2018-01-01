@@ -8,10 +8,10 @@
 
 (4) A menekültügyi hatóság a döntés közléséről – ha e törvény eltérően nem rendelkezik – annak meghozatalát követő nyolc napon belül köteles gondoskodni.
 
-(5) A hirdetmény útján közölt döntést a hirdetmény kifüggesztését követő nyolcadik napon kell közöltnek tekinteni. A hirdetmény nem tartalmazhatja az ügy tárgyát, az elismerését kérő személyes adatai közül pedig kizárólag családi és utóneve tüntethető fel. A hirdetmény kizárólag a menekültügyi hatóság hirdetőtábláján helyezhető el. Hirdetményi közlést követően a döntés közlésére vonatkozóan a kapcsolattartás általános szabályai nem alkalmazhatók.
+(5)
 
 (6) A menekültügyi hatóság tolmácsot – a tolmáccsal kötött szerződés alapján – kirendelő végzés nélkül is igénybe vehet.
 
 (7) A menekültügyi eljárásban a tolmácsolási költséget, továbbá a jeltolmácsolás költségeit a menekültügyi hatóság viseli.
 
-(8) Az elismerését kérőnek bírósági felülvizsgálat iránti kérelme előterjesztésekor a menekültügyi hatóság előtt személyesen meg kell jelennie.
+(8) Az elismerését kérőnek közigazgatási per iránti keresetlevele előterjesztésekor a menekültügyi hatóság előtt személyesen meg kell jelennie.

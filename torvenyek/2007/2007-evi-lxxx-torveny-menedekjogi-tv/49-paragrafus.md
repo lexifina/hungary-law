@@ -8,12 +8,12 @@
 
 (5) Amennyiben a külföldi nem áll menekültügyi őrizet hatálya alatt, a menekültügyi hatóság az átadásról hozott végzésben rendelkezik arról, hogy a külföldi az átadás végrehajtásáig, de legfeljebb 72 óráig a számára kijelölt tartózkodási helyet az átadás végrehajtásának biztosítása érdekében nem hagyhatja el.
 
-(6) Az átadásról rendelkező végzéssel szemben bírósági felülvizsgálatnak van helye.
+(6) Az átadásról rendelkező végzés három napon belül közigazgatási perben megtámadható.
 
-(7) A felülvizsgálati kérelmet a végzés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak.
+(7) A keresetlevelet a menekültügyi hatóságnál személyesen kell benyújtani. A menekültügyi hatóság a keresetlevelet az ügy irataival és védiratával együtt haladéktalanul megküldi a bíróságnak.
 
-(7a) Az e törvény szerinti, határon lefolytatott eljárás során benyújtott bírósági felülvizsgálat iránti kérelmet, valamint az ügy iratait és az ellenkérelmet a menekültügyi hatóság elektronikus úton továbbítja a bíróság számára.
+(7a)
 
-(8) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
+(8) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
 
-(9) A bírósági felülvizsgálat során az átadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek a végzés végrehajtására nincs halasztó hatálya.
+(9) A közigazgatási perben a keresetlevél benyújtásának, valamint az átadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek nincs halasztó hatálya a végzés végrehajtására.

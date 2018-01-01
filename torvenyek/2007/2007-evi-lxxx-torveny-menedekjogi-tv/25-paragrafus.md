@@ -10,7 +10,9 @@ c) a menedékes Magyarországon letelepedett jogállást szerez;
 
 d) a menedékest a menekültügyi hatóság menekültként vagy oltalmazottként ismeri el;
 
-e) a menedékeskénti elismerést a menekültügyi hatóság visszavonja.
+e) a menedékeskénti elismerést a menekültügyi hatóság visszavonja;
+
+f) a menedékes magyar állampolgárságot szerez.
 
 (2) A menedékeskénti elismerést vissza kell vonni, ha
 

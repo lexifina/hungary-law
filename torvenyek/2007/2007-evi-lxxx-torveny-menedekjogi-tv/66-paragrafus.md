@@ -1,4 +1,4 @@
-66. § (1) Az eljárás megszűnik, ha a kérelmező meghal.
+66. § (1)
 
 (2) A menekültügyi hatóság a rendelkezésre álló adatok alapján dönt, vagy az eljárást megszünteti, ha a kérelmező
 
@@ -18,6 +18,6 @@ f) ujjnyomatának vagy arcképmásának rögzítését megakadályozza vagy lehe
 
 (4) Az eljárást a (2) bekezdés a)–d) pontja alapján megszüntető végzéssel szemben bírósági felülvizsgálatnak nincs helye.
 
-(5) Az eljárást a (2) bekezdés e)–f) pontja alapján megszüntető végzéssel szemben – az 53. § (3)–(5) bekezdésében foglaltaknak megfelelően – bírósági felülvizsgálatnak van helye.
+(5) Az eljárást a (2) bekezdés e)–f) pontja alapján megszüntető végzés – az 53. § (3)–(5) bekezdésében foglaltaknak megfelelően közigazgatási perben megtámadható.
 
 (6) A kérelmező a megszüntető végzés közlését követő 9 hónapig kérheti a (2) bekezdés b)–d) pontja alapján megszüntetett eljárás folytatását. Az eljárás folytatását a kérelmező csak személyesen, a menekültügyi hatóságnál kérheti. A határidőn belül előterjesztett, folytatás kérésére vonatkozó beadvány alapján a menekültügyi hatóság az eljárást a megszüntető döntést megelőző eljárási cselekménytől folytatja. Az eljárás folytatását a kérelmező egy alkalommal kérheti.

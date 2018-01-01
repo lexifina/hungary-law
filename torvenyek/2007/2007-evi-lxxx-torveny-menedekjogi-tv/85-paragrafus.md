@@ -15,3 +15,5 @@ d) a folyósítás időpontjáról, visszatérítendő támogatás esetén a tö
 (4) A támogatást folyósító szervek kötelesek adatot szolgáltatni a menekültügyi hatóság, valamint a (2) bekezdés szerinti adatok igénylésére törvényben feljogosított szervek részére.
 
 (5) A járási hivatal, a települési önkormányzat és a támogatást folyósító szervek az (1)–(3) bekezdésben meghatározott adatokat a támogatásra való jogosultság, illetve a visszafizetési kötelezettség fennállásáig kezelhetik.
+
+(6) A járási hivatal, a települési önkormányzat és a támogatást folyósító szervek (1)–(5) bekezdés szerinti nyilvántartás-vezetésére az Ákr. rendelkezéseit kell alkalmazni.

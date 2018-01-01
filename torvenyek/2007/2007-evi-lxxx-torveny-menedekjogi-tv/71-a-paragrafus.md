@@ -22,16 +22,16 @@ a tranzitzónában nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt el
 
 (8) A határon lefolytatott eljárásban a szakhatóság nem vesz részt.
 
-(9) A felülvizsgálati eljárásban az érdemi határozat meghozatalára is kiterjedően bírósági titkár is eljárhat.
+(9)
 
-(10) A személyes meghallgatást az eljáró bíróság a tranzitzónában tartja meg. A személyes meghallgatás távközlő hálózat útján is megtartható, ha az eljáró bíró – bírósági titkár – a személyes meghallgatást a bíróság székhelyéről vagy más, a tranzitzónán kívüli helyről folytatja. Ebben az esetben az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító készülék biztosítja.
+(10) A személyes meghallgatást az eljáró bíróság a tranzitzónában tartja meg. A személyes meghallgatás távközlő hálózat útján is megtartható, ha az eljáró bíró a személyes meghallgatást a bíróság székhelyéről vagy más, a tranzitzónán kívüli helyről folytatja. Ebben az esetben az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító készülék biztosítja.
 
-(11) A bíróság eljárást befejező döntését a kérelmezővel hirdetmény útján kell közölni, ha a kérelmező nem adott meg kézbesítési címet, vagy a megadott címre a kézbesítés bármely okból eredménytelen, vagy a kézbesítés alkalmazása már előre eredménytelennek mutatkozik. A hirdetményt – a Pp. hirdetmény kifüggesztésére és közzétételére vonatkozó szabályaitól eltérően – úgy kell közzétenni, hogy tizenöt napra ki kell függeszteni annak a tranzitzónának a hirdetőtáblájára, amelyben a felülvizsgálati kérelmet előterjesztették. A hirdetményt a kérelmező anyanyelvén vagy az általa értett más nyelven kell közzétenni.
+(11) A bíróság eljárást befejező döntését a kérelmezővel hirdetmény útján kell közölni, ha a kérelmező nem adott meg kézbesítési címet, vagy a megadott címre a kézbesítés bármely okból eredménytelen, vagy a kézbesítés alkalmazása már előre eredménytelennek mutatkozik. A hirdetményt – a polgári perrendtartásról szóló törvény (a továbbiakban: Pp.) hirdetmény kifüggesztésére és közzétételére vonatkozó szabályaitól eltérően – úgy kell közzétenni, hogy tizenöt napra ki kell függeszteni annak a tranzitzónának a hirdetőtáblájára, amelyben a keresetlevelet előterjesztették. A hirdetményt a kérelmező anyanyelvén vagy az általa értett más nyelven kell közzétenni.
 
 (12) A bíróság eljárást befejező döntésének hirdetményi kézbesítése esetén az iratot a hirdetménynek a tranzitzóna hirdetőtábláján való kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
 (13) A hirdetmény a Pp.-ben meghatározott figyelemfelhívástól eltérően a (12) bekezdés szerinti jogkövetkezményre vonatkozó figyelemfelhívást tartalmaz, valamint arról ad tájékoztatást, hogy a címzett a kézbesítendő iratot a tranzitzóna mely jól beazonosítható, kijelölt helyén veheti át.
 
-(14) Ha a felülvizsgálati eljárásban egyéb okból hirdetményi kézbesítésnek van helye a kérelmező vonatkozásában, a (11)–(13) bekezdés rendelkezéseit kell megfelelően alkalmazni, azzal, hogy a bírósági iratot a hirdetmény kifüggesztésétől számított harmadik napon kell kézbesítettnek tekinteni.
+(14) Ha a közigazgatási peres eljárásban egyéb okból hirdetményi kézbesítésnek van helye a kérelmező vonatkozásában, a (11)–(13) bekezdés rendelkezéseit kell megfelelően alkalmazni, azzal, hogy a bírósági iratot a hirdetmény kifüggesztésétől számított harmadik napon kell kézbesítettnek tekinteni.
 
 (15) A bíróság által hozott határozatokat a kérelmezővel az anyanyelvén, vagy az általa értett más nyelven kell közölni.

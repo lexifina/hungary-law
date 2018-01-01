@@ -1,6 +1,8 @@
 ## X. Fejezet
 
-## ADATKEZELÉS
+## ADATKEZELÉS ÉS NYILVÁNTARTÁSOKRA VONATKOZÓ SZABÁLYOK
+
+## A menekültügyi nyilvántartás
 
 81. § A menekültügyi hatóság a menekült, az oltalmazott, a befogadott, a menedékes, valamint az elismerését kérő és a dublini eljárás hatálya alatt álló (a továbbiakban együtt: e törvény hatálya alá tartozó személy) személyes adatait, a tartózkodásukkal és az őket megillető ellátással és támogatással összefüggő adatokat, továbbá az azokban bekövetkezett változásokat
 
