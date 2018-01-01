@@ -10,6 +10,10 @@ bb) a közszolgáltató által nyújtott, a hulladékgazdálkodási közszolgál
 
 c) bírságot szabhat ki a közszolgáltatóval szemben, amennyiben a nem megfelelő adatszolgáltatása következtében került sor jogszabálysértő díj alkalmazására.
 
-(2) A Hivatal eljárására a villamos energiáról szóló törvényben meghatározott – a Hivatal eljárására vonatkozó – általános szabályokat az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A díjfelügyeleti eljárásban az ügyintézési határidő huszonöt nap.
 
-(3) A bíróság a Hivatal határozatát nem változtathatja meg.
+(3) A Hivatal a díjfelügyeleti eljárás keretében hozott, véglegessé vált határozatait közhírré teszi.
+
+(4) A díjfelügyeleti eljárásban e törvény erejénél fogva ügyfélnek minősül a közszolgáltató, valamint az érintett települési önkormányzat.
+
+(5) A bíróság a Hivatal határozatát nem változtathatja meg.

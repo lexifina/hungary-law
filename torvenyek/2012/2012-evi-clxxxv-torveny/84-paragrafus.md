@@ -8,6 +8,6 @@ b) a környezetet veszélyeztető, szennyező, illetve károsító tevékenység
 
 c) a környezet szennyezése esetében olyan intézkedés megtételére, amely a környezetszennyezést csökkenti vagy megszünteti, a környezet károsodását kizárja.
 
-(2) A környezetvédelmi hatóság – az (1) bekezdésben foglaltakon túlmenően – felfüggeszti, korlátozza vagy megtiltja a hulladékgazdálkodási engedélyhez, minősítési engedélyhez kötött tevékenység engedélytől eltérő vagy engedély nélküli, valamint a nyilvántartásba vételhez kötött tevékenység nyilvántartástól eltérő vagy nyilvántartás nélküli folytatását. A határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(2) A környezetvédelmi hatóság – az (1) bekezdésben foglaltakon túlmenően – felfüggeszti, korlátozza vagy megtiltja a hulladékgazdálkodási engedélyhez, minősítési engedélyhez kötött tevékenység engedélytől eltérő vagy engedély nélküli, valamint a nyilvántartásba vételhez kötött tevékenység nyilvántartástól eltérő vagy nyilvántartás nélküli folytatását. A határozat azonnal végrehajthatóvá nyilvánítható.
 
 (3) A környezetvédelmi hatóság azt a gazdálkodó szervezetet, amely hulladékot termékként, illetve melléktermékként használ fel, forgalmaz vagy tárol, kötelezi a hulladék melléktermékként történő felhasználásának, forgalmazásának, illetve tárolásának beszüntetésére, valamint a hulladék – a hulladékjegyzékről szóló miniszteri rendeletben meghatározott – hulladékjegyzék szerint történő besorolására.

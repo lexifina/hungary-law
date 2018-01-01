@@ -6,4 +6,4 @@
 
 (4) Ha az ingatlanhasználó a zöldhulladék komposztálásáról saját maga nem gondoskodik és a zöldhulladék gyűjtőedényben vagy hulladékgyűjtő zsákban történő gyűjtésének feltételeit a közszolgáltató biztosítja, a zöldhulladékot elkülönítetten gyűjti, és a közszolgáltatónak úgy adja át, hogy a zöldhulladék komposztálhatósága és lebontása biztosítható legyen.
 
-(5) Önkormányzati rendelet a közszolgáltató hulladékgazdálkodási tevékenységéről és a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletben meghatározottakon túl az ingatlanhasználót kötelezheti a települési hulladék további anyagfajta vagy hulladéktípus szerinti elkülönített gyűjtésére.
+(5) Önkormányzati rendelet a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletben meghatározottakon túl az ingatlanhasználót kötelezheti a települési hulladék további anyagfajta vagy hulladéktípus szerinti elkülönített gyűjtésére.

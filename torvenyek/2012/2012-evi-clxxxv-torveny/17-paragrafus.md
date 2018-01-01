@@ -1,4 +1,4 @@
-17. § (1) Ártalmatlanítási művelet a környezetvédelmi hatóság által kiadott hulladékgazdálkodási engedély birtokában végezhető.
+17. § (1) Ártalmatlanítási művelet – ha törvény vagy kormányrendelet eltérően nem rendelkezik – a környezetvédelmi hatóság által kiadott hulladékgazdálkodási engedély birtokában végezhető.
 
 (2) Az ártalmatlanításra kerülő nem veszélyes hulladék a gyűjtést követően az ártalmatlanítás megkezdéséig az előkezeléssel együtt összesen legfeljebb 1 évig tárolható.
 

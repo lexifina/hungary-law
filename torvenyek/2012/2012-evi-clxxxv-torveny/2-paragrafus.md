@@ -80,9 +80,11 @@
 
 36. kezelés: hasznosítási vagy ártalmatlanítási műveletek, ideértve a hasznosítást vagy ártalmatlanítást megelőző előkészítést is;
 
-36a. közszolgáltatási terület: olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyen belül az ingatlanhasználók részére az adott hulladékgazdálkodási közszolgáltatást ugyanaz a közszolgáltató végzi;
+36a. közszolgáltatási terület: az Országos Hulladékgazdálkodási Közszolgáltatási Terv által meghatározott olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyre vonatkozóan az önkormányzat hulladékgazdálkodási közszolgáltatási szerződést kötött;
 
 37. közszolgáltató: az a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerint minősített nonprofit gazdasági társaság, amely a települési önkormányzattal kötött hulladékgazdálkodási közszolgáltatási szerződés alapján hulladékgazdálkodási közszolgáltatást lát el;
+
+37a. közszolgáltatói alvállalkozó: a hulladékgazdálkodási közszolgáltató által, a hulladékgazdálkodási közszolgáltatási szerződésben megállapított hulladékgazdálkodási közszolgáltatási kötelezettsége teljesítése érdekében közvetlenül igénybe vett nonprofit gazdasági társaság, ide nem értve a 42. § (2) bekezdése szerinti hulladékkezelőt;
 
 38. közvetítő: olyan gazdálkodó szervezet – az egyéni vállalkozót, valamint az egyéni céget ide nem értve –, amely más nevében szervezi a hulladék hasznosítását vagy ártalmatlanítását, ideértve azt az esetet is, amikor a közvetítő nem lesz a hulladék tényleges birtokosa;
 
@@ -118,7 +120,7 @@ c) az anyagok és a termékek veszélyesanyag-tartalmát;
 
 48. veszélyes hulladék: az 1. mellékletben meghatározott veszélyességi jellemzők legalább egyikével rendelkező hulladék;
 
-49. veszélyes-hulladékégető mű: olyan hulladékkezelő létesítmény, amelyben a hulladékok égetésének műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló miniszteri rendeletben meghatározott feltételek szerint veszélyes hulladékot égetnek;
+49. veszélyes-hulladékégető mű: olyan hulladékkezelő létesítmény, amelyben a hulladékégetés műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló miniszteri rendeletben meghatározott feltételek szerint veszélyes hulladékot égetnek;
 
 50.
 

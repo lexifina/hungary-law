@@ -2,7 +2,7 @@
 
 a) az önkormányzati hulladékgazdálkodási közfeladat tartalmát, a közszolgáltatási terület határait az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltakkal összhangban.
 
-b) a közszolgáltató tagjai, illetve az alvállalkozó által végzett hulladékgazdálkodási tevékenységet, továbbá a tagoknak, illetve az alvállalkozónak a közszolgáltatás egészéhez viszonyított arányát, ha a közszolgáltatást a közszolgáltató több tagja, illetve alvállalkozó végzi;
+b) a közszolgáltató tagjai, illetve a közszolgáltatói alvállalkozó által végzett hulladékgazdálkodási tevékenységet, továbbá a tagoknak, illetve a közszolgáltatói alvállalkozónak a közszolgáltatás egészéhez viszonyított arányát, ha a közszolgáltatást a közszolgáltató több tagja, illetve közszolgáltatói alvállalkozó végzi;
 
 c) az önkormányzati hulladékgazdálkodási közfeladat ellátásának rendjét és módját, a közszolgáltató és az ingatlanhasználó ezzel összefüggő jogait és kötelezettségeit, valamint a hulladékgazdálkodási közszolgáltatási szerződés egyes tartalmi elemeit;
 

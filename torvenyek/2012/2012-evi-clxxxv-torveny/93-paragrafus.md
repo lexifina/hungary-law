@@ -22,7 +22,7 @@ való megfelelést szolgálja.
 
 (2) Ez a törvény
 
-a) az 1013/2006/EK európai parlamenti és tanácsi rendelet és
+a) az 1013/2006/EK európai parlamenti és tanácsi rendelet,
 
 b) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének felváltásáról szóló, 2014. december 18-i 1357/2014/EU bizottsági rendelet
 

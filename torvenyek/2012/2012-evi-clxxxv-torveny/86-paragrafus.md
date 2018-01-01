@@ -6,7 +6,7 @@ b) hatósági engedélyhez, hozzájáruláshoz, nyilvántartásba vételhez vagy
 
 c) a melléktermék előállításáról vagy képződéséről a környezetvédelmi hatóságot nem vagy nem megfelelően tájékoztatja, hulladékot termékként vagy melléktermékként használ fel, forgalmaz vagy tárol,
 
-azt a környezetvédelmi hatóság a hulladékgazdálkodási bírsággal kapcsolatos részletes szabályokról szóló kormányrendelet szerint hulladékgazdálkodási bírság megfizetésére kötelezi.
+azt a környezetvédelmi hatóság a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendelet szerint hulladékgazdálkodási bírság megfizetésére kötelezi.
 
 (2) A hulladékgazdálkodási bírságot a jogsértés szerint egyszerű bírságként, mérlegelési szempontok alapján megállapított bírságként vagy alapbírság és módosító tényezők szorzataként megállapított bírságként kell kiszabni.
 
@@ -28,4 +28,4 @@ jogsértés esetén nem mérsékelhető.
 
 (6a) Nincs helye közigazgatási bírság alkalmazásának települési hulladék közterületen engedély nélkül történő lerakása, elhelyezése miatt.
 
-(7) A jogerősen kiszabott hulladékgazdálkodási bírság adók módjára behajtandó köztartozás.
+(7)

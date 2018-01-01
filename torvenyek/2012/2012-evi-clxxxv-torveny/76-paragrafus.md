@@ -1,10 +1,10 @@
-76. § (1) Az OHT-nek, valamint a területi hulladékgazdálkodási terveknek legalább az alábbiakat kell tartalmazniuk:
+76. § (1) Az OHT-nek legalább az alábbiakat kell tartalmaznia:
 
-a) a hulladékképződés, illetve a hulladék káros hatásainak megelőzése, a gazdasági növekedés és az abból fakadó környezeti hatások megszüntetésének érdekében a tervezési területen elérendő célokat, továbbá az intézkedések és az eredmények nyomon követését, értékelését szolgáló minőségi és mennyiségi referenciaszinteket és mutatókat;
+a) a hulladékképződés, illetve a hulladék káros hatásainak megelőzése, a gazdasági növekedés és az abból fakadó környezeti hatások megszüntetésének érdekében az elérendő célokat, továbbá az intézkedések és az eredmények nyomon követését, értékelését szolgáló minőségi és mennyiségi referenciaszinteket és mutatókat;
 
-b) a tervezési területen képződő, hasznosítandó vagy ártalmatlanítandó hulladék típusait, mennyiségét és eredetét;
+b) a képződő, hasznosítandó vagy ártalmatlanítandó hulladék típusait, mennyiségét és eredetét;
 
-c) a tervezési területről várhatóan elszállításra vagy a területre beszállításra kerülő hulladék mennyiségét;
+c)
 
 d) a hulladékáramok jövőbeni alakulásának becslését;
 
@@ -14,7 +14,7 @@ f) a kezeléssel kapcsolatos alapvető műszaki követelményeket;
 
 g) az egyes hulladéktípusokra vonatkozó speciális intézkedéseket;
 
-h) a meglévő gyűjtési rendszerek, valamint a hulladékkezelő létesítmények és üzemeltetőik bemutatását, figyelemmel a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről, a hulladékká vált gépjárművekről, az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről, az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről, a hulladékolajjal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól, a biológiailag lebomló hulladék kezeléséről, az építési-bontási hulladék kezelésének részletes szabályairól, valamint a veszélyes hulladékkal kapcsolatos tevékenységek részletes szabályairól szóló jogszabályban előírtakra;
+h) a meglévő gyűjtési rendszerek, valamint a hulladékkezelő létesítmények és üzemeltetőik bemutatását, figyelemmel a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről, a hulladékká vált gépjárművekről, az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről, az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről, a hulladékolajjal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól, a biológiailag lebomló hulladék kezeléséről, az építési-bontási hulladék kezelésének részletes szabályairól, valamint a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló jogszabályban előírtakra;
 
 i) az új gyűjtési rendszer bevezetésére vagy a kezelési kapacitások fejlesztésére vonatkozó igények felmérését, továbbá a tervezési időszak során bezárásra kerülő hulladékkezelő létesítményeket, valamint a hulladékkezelési infrastruktúra továbbfejlesztésének lehetőségét;
 
@@ -24,9 +24,9 @@ k) a hulladékgazdálkodással járó különös gazdálkodási feladatok megold
 
 l) az e) pont szerinti célok megvalósítását szolgáló cselekvési programot, ennek keretében a hulladékgazdálkodás, valamint az újrahasználatra előkészítés, az újrafeldolgozás, a hasznosítás és az ártalmatlanítás racionalizálását elősegítő intézkedések meghatározását, végrehajtásuk sorrendjét és határidejét, a megvalósításhoz szükséges eszközök, eljárások, berendezések és létesítmények meghatározását, valamint ezek becsült költségeit;
 
-m) annak értékelését, hogy a hulladékgazdálkodási tervek hogyan járulnak hozzá az e törvényben foglalt célkitűzések megvalósításához.
+m) annak értékelését, hogy az OHT hogyan járul hozzá az e törvényben foglalt célkitűzések megvalósításához.
 
-(2) Az OHT, valamint a területi hulladékgazdálkodási tervek a tervezési terület földrajzi sajátosságaira tekintettel tartalmazhatják az alábbiakat:
+(2) Az OHT tartalmazhatja az alábbiakat:
 
 a) a hulladékgazdálkodási feladatoknak az állam és az ingatlanhasználó közötti megosztását,
 
@@ -36,11 +36,11 @@ c) a nyilvánosság és a fogyasztói csoportok felvilágosítását segítő, a
 
 d) a felhagyott és környezetszennyezéssel, illetve környezetkárosítással érintett hulladékártalmatlanító létesítményeket, továbbá ezek rekultivációjára, utógondozására, továbbá monitoringjára vonatkozó intézkedéseket.
 
-(3) Az OHT-t, az OMP-t, valamint a területi hulladékgazdálkodási terveket és a területi megelőzési programokat a 92. § (2) és (3) bekezdésében meghatározott előírással összhangban kell kidolgozni.
+(3) Az OHT-t és az OMP-t a 92. § (1)–(3) bekezdésében meghatározott előírással összhangban kell kidolgozni.
 
-(4) A csomagolási hulladékra vonatkozó feladatokat, helyi ösztönző rendszereket és tilalmakat – az (1) bekezdés szerinti tartalommal – az OHT, valamint a hulladékgazdálkodási tervek önálló tervrészeként vagy külön tervben kell meghatározni.
+(4) A csomagolási hulladékra vonatkozó feladatokat, ösztönző rendszereket és tilalmakat – az (1) bekezdés szerinti tartalommal – az OHT önálló tervrészeként vagy külön tervben kell meghatározni.
 
-(5) Az OMP-nek, valamint a területi megelőzési programnak különösen az alábbiakat kell tartalmaznia:
+(5) Az OMP-nek különösen az alábbiakat kell tartalmaznia:
 
 a) önálló tervrészként a hulladékképződés megelőzésére irányuló célkitűzéseket, feladatokat, azok eredményességének, hasznosságának értékelését, továbbá a jogszabályalkotásra, illetve módosításra, valamint a gazdasági ösztönzők bevezetésére vonatkozó javaslatokat,
 

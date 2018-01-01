@@ -1,6 +1,6 @@
 37. § (1) A hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat a Polgári Törvénykönyvben meghatározott felmondási okokon túlmenően e törvény alapján akkor mondhatja fel, ha a közszolgáltató
 
-a) a hulladékgazdálkodási közszolgáltatás ellátása során a környezet védelmére vonatkozó jogszabályok vagy a rá vonatkozó hatósági döntés előírásait súlyosan megsértette, és ennek tényét a bíróság vagy a hatóság jogerősen megállapította,
+a) a hulladékgazdálkodási közszolgáltatás ellátása során a környezet védelmére vonatkozó jogszabályok vagy a rá vonatkozó hatósági döntés előírásait súlyosan megsértette, és ennek tényét bíróság jogerősen vagy hatóság véglegessé vált döntéssel megállapította,
 
 b) a szerződésben megállapított kötelezettségét neki felróható módon súlyosan megsértette.
 

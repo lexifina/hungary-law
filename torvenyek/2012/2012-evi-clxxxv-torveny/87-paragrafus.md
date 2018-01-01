@@ -20,6 +20,6 @@ e) 16. cikk (1) bekezdésének megfelelően a 3. § c) pontja, valamint a 20. é
 
 f) 25. cikk (1) és (2) bekezdésében foglaltaknak megfelelő jogszabályi előírásokról;
 
-g) 33. cikkének megfelelően a IX. fejezetben foglaltakkal összhangban az OHT-ról, a területi hulladékgazdálkodási tervekről, az OMP-ről, a területi hulladékgazdálkodási programokról, valamint ezek lényeges módosításáról;
+g) 33. cikkének megfelelően a IX. fejezetben foglaltakkal összhangban az OHT-ról és az OMP-ről, valamint ezek lényeges módosításáról;
 
 h) 37. cikkének megfelelően az e törvényben foglaltak végrehajtásáról, ideértve a 7. cikk (2) és (3) bekezdése alapján az 55. § (2) és (3) bekezdésében foglaltakat.

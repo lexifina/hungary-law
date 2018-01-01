@@ -1,7 +1,3 @@
-## X. Fejezet
-
-## A HULLADÉKGAZDÁLKODÁSSAL KAPCSOLATOS EGYES HATÓSÁGI TEVÉKENYSÉGEK
-
 ## 35. Hatósági engedélyezés, nyilvántartásba vétel, ellenőrzés és felügyeleti díj
 
 79. § (1) Hulladékgazdálkodási engedély határozott időre, de legfeljebb 5 évre adható.
@@ -18,7 +14,7 @@
 
 (7) Nem adható hulladékgazdálkodási engedély, illetve minősítési engedély annak, továbbá nem vehető nyilvántartásba az, akinek vagy amelynek az önkormányzati vagy az állami adóhatósággal szemben köztartozása van.
 
-(8) A hulladékgazdálkodási hatósági engedélyezési eljárásokban az ügyintézési határidő 45 nap.
+(8) A hulladékgazdálkodási hatósági engedélyezési eljárásokban az ügyintézési határidő 55 nap.
 
 (9) Az e törvény végrehajtására kiadott kormányrendelet vagy miniszteri rendelet a (4)–(7) bekezdésben foglalt feltételekhez kapcsolódó szabályokat részletesen meghatározhatja.
 

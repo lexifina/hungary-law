@@ -12,7 +12,7 @@ kamattal növelt összegben történő megfizetésére.
 
 (4) Ha a járulékfizetésre kötelezett a bejelentési, a nyilvántartási, az adatszolgáltatási, valamint a hulladéklerakási járulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon környezetvédelmi hatóságot kell érteni.
 
-(4a) A környezetvédelmi hatóság megkeresésére a hulladéklerakási járulék adók módjára való behajtása érdekében az adóhatóság jár el.
+(4a)
 
 (5) A járulékfizetésre kötelezettnek nem kell hulladéklerakási járulékot fizetni, ha
 
@@ -24,7 +24,7 @@ c) 5000 lakosegyenérték szennyezőanyag-terhelést meg nem haladó szennyvízt
 
 d) a hulladéklerakóban települési szennyvíziszapkomposztot helyeznek el takarórétegként, amelyből a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték, majd a kinyerést követően visszamaradt szennyvíziszapot komposztálták, és a szennyvíziszapkomposztban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapkomposztra vonatkozó határértékeket meghaladják, és ennek következtében a szennyvíziszapkomposzt mezőgazdasági célú felhasználása termőföldön nem lehetséges,
 
-e) azbesztet tartalmazó, lakosságnál képződött építőanyag hulladék lerakása valósul meg,
+e) lakosságnál képződött, azbesztet tartalmazó építőanyag megnevezésű veszélyes hulladék lerakása valósul meg,
 
 f) erőművi és hulladékégetésből származó nem veszélyes
 

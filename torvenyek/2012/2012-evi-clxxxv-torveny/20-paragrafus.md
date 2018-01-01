@@ -12,4 +12,4 @@ c) a bejelentő vagy a címzett a Kvt. szerinti kármentesítési kötelezettsé
 
 (4) A környezetvédelmi hatóság a hulladék Magyarországra történő behozatalával, kivitelével, illetve átszállításával összefüggésben folytatott hatósági ellenőrzés keretében azt is ellenőrizheti, hogy a bejelentésre kötelezett vagy a címzett nem áll-e a (2) bekezdés a) és b) pontjában meghatározott kizáró ok hatálya alatt. A hatósági ellenőrzés céljából a környezetvédelmi hatóság a bűnügyi nyilvántartási rendszerből adatot kérhet. Az adatkérés kizárólag a (2) bekezdés a) és b) pontjában meghatározottak igazolásához szükséges adatra irányulhat.
 
-(5) A környezetvédelmi hatóság a (3) és (4) bekezdés alapján megismert személyes adatokat a hatósági bizonyítvány időbeli hatályának lejártáig, illetve a hatósági ellenőrzés időtartamára vagy a hatósági ellenőrzés alapján indított eljárás jogerős befejezéséig kezeli.
+(5) A környezetvédelmi hatóság a (3) és (4) bekezdés alapján megismert személyes adatokat a hatósági bizonyítvány időbeli hatályának lejártáig, illetve a hatósági ellenőrzés időtartamára vagy a hatósági ellenőrzés alapján indított eljárás végleges befejezéséig kezeli.

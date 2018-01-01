@@ -4,6 +4,6 @@
 
 (2) A közszolgáltató gondoskodik arról, hogy a feladatkörébe tartozó hulladékgazdálkodási tevékenységeket a hulladékhierarchiára figyelemmel úgy válassza meg, hogy az e törvényben, illetve a hulladékgazdálkodási tervekben foglalt megelőzési, hasznosítási és ártalmatlanítási célkitűzések teljesülni tudjanak. A közszolgáltató a tevékenységét az Országos Hulladékgazdálkodási Közszolgáltatási Tervben előírtaknak megfelelően köteles ellátni, amelyet a Koordináló szerv a 32/A. § (4) és (5) bekezdése szerinti adatkezelés keretében ellenőriz, és erről megfelelőségi véleményt állít ki.
 
-(3) A közszolgáltató a hulladékgazdálkodási közszolgáltatási szerződésben meghatározott, továbbá a (2) bekezdés szerinti célok elérése érdekében a hulladékgazdálkodási közszolgáltatás ellátására – a közbeszerzési eljárás lefolytatása esetén a közbeszerzésekről szóló törvény előírásainak megfelelően – alvállalkozót vehet igénybe.
+(3) A közszolgáltató a hulladékgazdálkodási közszolgáltatási szerződésben meghatározott, továbbá a (2) bekezdés szerinti célok elérése érdekében a hulladékgazdálkodási közszolgáltatás ellátására – a közbeszerzési eljárás lefolytatása esetén a közbeszerzésekről szóló törvény alvállalkozóra vonatkozó előírásainak megfelelően – közszolgáltatói alvállalkozót vehet igénybe.
 
 (4) A hulladékgazdálkodási közszolgáltatási tevékenység végzésére jogosult közszolgáltató külön kormányrendeletben meghatározott összegben környezetvédelmi biztosítást köt vagy céltartalékot képez, és ennek tényét a környezetvédelmi hatóságnak igazolja.
