@@ -1,0 +1,1 @@
+29. § E törvénynek az egyes agrárszabályozási tárgyú törvényeknek az általános közigazgatási rendtartásról szóló törvénnyel összefüggő és más célú módosításáról szóló 2017. évi CCV. törvénnyel megállapított 11. § (4) bekezdést a 2018. kárenyhítési évtől kezdődően kell alkalmazni.

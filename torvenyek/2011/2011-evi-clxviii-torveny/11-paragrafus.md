@@ -24,6 +24,6 @@ h) a kárenyhítő juttatás iránti kérelem benyújtásakor az elemi káresem�
 
 (3) Belvízkár után kárenyhítő juttatás a törvény hatálybalépésétől kezdődően öt egymást követő éven belül legfeljebb három alkalommal vehető igénybe.
 
-(4) A kárenyhítő juttatásra való jogosultság megállapításakor a termőre fordult és az elemi káresemény bekövetkezésekor még termő ültetvényterület vehető figyelembe.
+(4) A kárenyhítési hozzájárulás-fizetési kötelezettség és a kárenyhítő juttatásra való jogosultság megállapításakor a termőre fordult és az elemi káresemény bekövetkezésekor még termő ültetvényterület vehető figyelembe.
 
 (5) Jogszabály eltérő rendelkezése hiányában az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő a neki járó kárenyhítő juttatás felére jogosult, amennyiben az egységes kérelemben, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamértékének legalább felére kiterjedően – az adott kárenyhítési évre vonatkozóan – nem köt az adott növénykultúrára jellemző káreseményre kiterjedő hatályú mezőgazdasági biztosítást.

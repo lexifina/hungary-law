@@ -1,5 +1,7 @@
 13. § (1) Az agrárkár-enyhítési szerv eljárására – ideértve a kárenyhítési hozzájárulás meg nem fizetésével kapcsolatos eljárást is – az e törvényben foglalt eltérésekkel az eljárási tv. I., III., IV., VI. és VII. fejezetében, valamint a 77–78. §-ában foglalt, a mezőgazdasági és vidékfejlesztési támogatási szervre vonatkozó rendelkezéseket kell alkalmazni.
 
+(1a) Az agrárkár-megállapító szerv eljárására – az e törvényben foglalt eltérésekkel – az eljárási tv. IV. fejezetében foglalt rendelkezéseket kell alkalmazni.
+
 (2) Az agrárkár-megállapító szerv, valamint az agrárkár-enyhítési szerv (1) bekezdésben foglaltak szerinti eljárásában hiánypótlásra, önkéntes hiánypótlásra, iratpótlásra, illetve az eljárás ügyfél kérelmére történő felfüggesztésére nincs lehetőség.
 
 (3) Az agrárkár-enyhítési szerv érdemi vizsgálat nélkül elutasítja

@@ -18,7 +18,7 @@ megjelölésével nyújtanak be egységes kérelmet, az elemi káresemények mia
 
 (4) A kockázatközösségben tag mezőgazdasági termelő az e törvényben foglaltaknak megfelelően
 
-a) a tárgyévben köteles kárenyhítési hozzájárulást fizetni és
+a) a tárgyévben köteles közteherként kárenyhítési hozzájárulást fizetni és
 
 b) kárenyhítő juttatás igénybevételére jogosultságot szerezhet.
 
