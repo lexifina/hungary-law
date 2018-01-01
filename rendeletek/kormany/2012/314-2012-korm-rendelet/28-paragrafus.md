@@ -1,8 +1,8 @@
 ## VI. Fejezet
 
-## A TELEPÜLÉSFEJLESZTÉSI KONCEPCIÓ, AZ INTEGRÁLT TELEPÜLÉSFEJLESZTÉSI STRATÉGIA, A TELEPÜLÉSRENDEZÉSI ESZKÖZÖK, A TELEPÜLÉSKÉPI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RENDELET EGYEZTETÉSÉNEK ÉS ELFOGADÁSÁNAK ELJÁRÁSI SZABÁLYAI[^68]
+## A TELEPÜLÉSFEJLESZTÉSI KONCEPCIÓ, AZ INTEGRÁLT TELEPÜLÉSFEJLESZTÉSI STRATÉGIA, A TELEPÜLÉSRENDEZÉSI ESZKÖZÖK, A TELEPÜLÉSKÉPI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RENDELET EGYEZTETÉSÉNEK ÉS ELFOGADÁSÁNAK ELJÁRÁSI SZABÁLYAI[^70]
 
-## 20. [^69] A településfejlesztési koncepció, az integrált településfejlesztési stratégia, a településrendezési eszközök, a településképi arculati kézikönyv és a településképi rendelet készítése, módosítása egyeztetésének és elfogadásának közös szabályai
+## 20. [^71] A településfejlesztési koncepció, az integrált településfejlesztési stratégia, a településrendezési eszközök, a településképi arculati kézikönyv és a településképi rendelet készítése, módosítása egyeztetésének és elfogadásának közös szabályai
 
 28. § (1) A koncepciót, a stratégiát, a településrendezési eszközöket, a kézikönyvet és a településképi rendeletet a polgármester, illetve a főpolgármester (a továbbiakban együtt: polgármester) egyezteti a partnerségi egyeztetés szerinti érintettekkel, a 9. melléklet szerinti érintett államigazgatási szervekkel, az érintett területi és települési önkormányzatokkal.
 
@@ -20,5 +20,5 @@
 
 (8) Párhuzamos egyeztetési eljárás esetén a kézikönyv és a településképi rendelet vagy azok módosításának elfogadása meg kell, hogy előzze a helyi építési szabályzat vagy módosításának elfogadását.
 
-[^68]: A VI. fejezet címe a 400/2016. (XII. 5.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^69]: A 20. alcím (28. §) a 400/2016. (XII. 5.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^70]: A VI. fejezet címe a 400/2016. (XII. 5.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^71]: A 20. alcím (28. §) a 400/2016. (XII. 5.) Korm. rendelet 17. §-ával megállapított szöveg.

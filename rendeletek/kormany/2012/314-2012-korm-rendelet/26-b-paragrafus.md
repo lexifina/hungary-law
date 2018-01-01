@@ -30,8 +30,14 @@ e)[^65] az építési tevékenység elvégzése, a rendeltetésváltozás megval
 
 (3) A bejelentéshez a településképi követelményeknek való megfelelést igazoló építészeti-műszaki tervet, továbbá rendeltetésváltozás esetén a településrendezési eszközök rendeltetésekre vonatkozó követelményeinek való megfelelést igazoló dokumentációt kell mellékelni.
 
+(4)[^66] A településképi bejelentési eljárásban az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) szerinti jogszerű hallgatásnak van helye.
+
+(5)[^67] A bejelentési eljárásban az eljárás szünetelésének nincs helye.
+
 [^61]: A 26/B. § (1) bekezdése a 105/2017. (IV. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^62]: A 26/B. § (1a) bekezdését a 105/2017. (IV. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^63]: A 26/B. § (2) bekezdés c) pontja a 105/2017. (IV. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^64]: A 26/B. § (2) bekezdés d) pontja a 105/2017. (IV. 28.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
 [^65]: A 26/B. § (2) bekezdés e) pontja a 105/2017. (IV. 28.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^66]: A 26/B. § (4) bekezdését 457/2017. (XII. 28.) Korm. rendelet 416. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^67]: A 26/B. § (5) bekezdését 457/2017. (XII. 28.) Korm. rendelet 416. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
