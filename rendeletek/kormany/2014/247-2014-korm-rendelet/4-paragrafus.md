@@ -16,10 +16,11 @@ g) ellenőrzi az érintett szervezetek éves szponzorációs költségkeretterv�
 
 h)[^10]
 
-(2) A Hivatal e rendeletben foglalt egyedi döntése, jóváhagyása és ellenőrzése nem minősül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti hatósági döntésnek és ellenőrzésnek.
+(2)[^11] A Hivatal e rendeletben foglalt egyedi döntése, jóváhagyása és ellenőrzése nem minősül az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti hatósági döntésnek és ellenőrzésnek.
 
 [^6]: A 4. § (1) bekezdése a 189/2016. (VII. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^7]: A 4. § (1) bekezdés d) pontja a 102/2017. (IV. 28.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^8]: A 4. § (1) bekezdés e) pontja a 29/2017. (II. 13.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
 [^9]: A 4. § (1) bekezdés f) pontja a 102/2017. (IV. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^10]: A 4. § (1) bekezdés h) pontját a 48/2017. (III. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 102/2017. (IV. 28.) Korm. rendelet 8. § (1) bekezdés b) pontja.
+[^11]: A 4. § (2) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.

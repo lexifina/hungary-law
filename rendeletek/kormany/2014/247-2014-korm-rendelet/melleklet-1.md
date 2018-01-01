@@ -1,4 +1,4 @@
-1. melléklet a 247/2014. (X. 1.) Korm. rendelethez[^40]
+1. melléklet a 247/2014. (X. 1.) Korm. rendelethez[^41]
 
 Kormányzati kommunikációs feladatokhoz tartozó szolgáltatások
 
@@ -24,4 +24,4 @@ Kormányzati kommunikációs feladatokhoz tartozó szolgáltatások
 
 | 10. | Rendezvényszervezés | Kizárólag az integrált kommunikációs kampányok keretében, az 1–9. pontokban foglalt feladatokkal együttesen megvalósuló, előre meghatározott célból (társadalmi, tudományos, szakmai, kulturális, sport stb.) adott helyen és időben tartott összejövetellel kapcsolatos teljes körű előkészítő, szervező, összehangoló munka. Magában foglalja az esemény megvalósításával kapcsolatos infrastruktúra (helyszín, technika, tolmácsolás stb.), valamint a catering biztosítását. |
 
-[^40]: Az 1. melléklet a 475/2015. (XII. 29.) Korm. rendelet 21. §-a, a 189/2016. (VII. 13.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^41]: Az 1. melléklet a 475/2015. (XII. 29.) Korm. rendelet 21. §-a, a 189/2016. (VII. 13.) Korm. rendelet 11. §-a szerint módosított szöveg.
