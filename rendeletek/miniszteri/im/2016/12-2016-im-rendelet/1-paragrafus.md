@@ -1,3 +1,5 @@
 1. § (1) A Magyar Igazságügyi Szakértői Kamara (a továbbiakban: Kamara) az igazságügyi szakértőjelölt (a továbbiakban: szakértőjelölt) részére kérelemre igazságügyi szakértőjelölti igazolványt (a továbbiakban: igazolvány) állít ki.
 
-(2) A Kamara az igazolványt a szakértőjelöltnek a személyazonosság és az átvétel igazolása mellett adja át, vagy erre irányuló kérelem esetén részére postai úton megküldi.
+(2)[^2]
+
+[^2]: Az 1. § (2) bekezdését a 20/2017. (XII. 21.) IM rendelet 49. § (2) bekezdés a) pontja hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 1. melléklet a 12/2016. (VI. 29.) IM rendelethez
 
-## A szakértőjelölti igazolvány a következő adatokat tartalmazza
+A szakértőjelölti igazolvány a következő adatokat tartalmazza
 
 1. A szakértőjelölt
 
