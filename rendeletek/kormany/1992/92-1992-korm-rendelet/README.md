@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-92-20-2
 | 2011-01-01 | 1992-92-20-22.6 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2014-09-05 | 1992-92-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 1992-92-20-22.8 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2018-01-01 | 1992-92-20-22.9 | 221/2014. (IX. 4.) Korm. rendelet |
