@@ -10,4 +10,6 @@
 
 (5) Ha a csomagolás tartalmának tényleges mennyiségét nem mérik, a csomagolónak úgy kell az ellenőrzést végrehajtania, hogy az biztosítsa az előrecsomagolt termék megfelelő mennyiségét.
 
-(6) A csomagolónak az ellenőrző hatóság által elfogadott eljárások alkalmazásával gyártási ellenőrzéseket kell végrehajtania, és az ellenőrzések eredményeit tartalmazó dokumentumokat az ellenőrző hatóságnak rendelkezésére kell bocsátania annak bizonyítása céljából, hogy az ellenőrzéseket a szükséges javításokkal és módosításokkal együtt a megfelelő módon és pontossággal végrehajtotta.
+(6)[^6] A csomagolónak az ellenőrző hatóság által elfogadott eljárások alkalmazásával gyártási ellenőrzéseket kell végrehajtania.
+
+[^6]: A 7. § (6) bekezdése az 51/2017. (XII. 29.) NGM rendelet 21. § (1) bekezdésével megállapított szöveg.
