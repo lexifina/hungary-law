@@ -38,13 +38,7 @@ f)[^7] a Budapesti Agglomeráció területrendezési tervéről szóló törvén
 
 g)[^8] a településrendezési eszköznek a kiemelt térségi és megyei területrendezési tervvel való összhangjának megállapítására (a továbbiakban: összhang igazolása), amennyiben a területrendezési terv elfogadása előtt jogszerűen elfogadott településszerkezeti terv szerinti területfelhasználási egység nincs összhangban a területrendezési terv térségi szerkezeti tervében kijelölt térségi területfelhasználási kategóriával.
 
-(2)[^9] Az országos jelentőségű elem beillesztésére irányuló kérelem esetén a szakhatóság a 3. számú mellékletben foglalt táblázat
-
-a) 6. sora szerinti szakkérdést a (3) bekezdésben,
-
-b) 3. sora szerinti szakkérdést a (4) bekezdésben
-
-## foglaltak alapján vizsgálja.
+(2)[^9]
 
 (3)[^10] Az országos jelentőségű elem beillesztése az energiaellátás biztonságának biztosításához akkor szükséges, ha
 
@@ -66,7 +60,7 @@ d) az a földgázellátásról szóló törvény szerinti szállítóvezeték ki
 [^6]: Az 1. § (1) bekezdés e) pontját a 249/2009. (XI. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 25/2014. (II. 7.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (1) bekezdés f) pontját a 197/2011. (IX. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^8]: Az 1. § (1) bekezdés g) pontját a 105/2012. (V. 30.) Korm. rendelet 16. §-a iktatta be, szövege a 25/2014. (II. 7.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^9]: Az 1. § (2) bekezdését a 249/2009. (XI. 13.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte, újonnan a 197/2011. (IX. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 133. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (2) bekezdését újonnan a 197/2011. (IX. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 244. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^10]: Az 1. § (3) bekezdését a 197/2011. (IX. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^11]: Az 1. § (3) bekezdés b) pontja a 25/2014. (II. 7.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
 [^12]: Az 1. § (3) bekezdés c) pontja a 25/2014. (II. 7.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
