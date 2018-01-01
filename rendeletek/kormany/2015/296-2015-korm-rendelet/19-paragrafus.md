@@ -10,7 +10,7 @@ a) kötelezi a földgázelosztót és a szállítási rendszerüzemeltetőt a fe
 
 b) szükség esetén rendelkezik a kijelölt földgázkereskedő kapacitásdíj fizetési kötelezettségéről.
 
-(4) A kijelölő határozat – a Ket.-ben meghatározottakon túl – legalább a következőket tartalmazza:
+(4)[^9] A kijelölő határozat – az Ákr.-ben meghatározottakon túl – legalább a következőket tartalmazza:
 
 a) a kijelölés kezdetének gáznapját, amely megegyezik a felfüggesztés kezdetével,
 
@@ -25,3 +25,5 @@ d) a kijelölt földgázkereskedő jogait és kötelezettségeit a kijelölés i
 (6) A Hivatal a kijelölő határozattal egyidejűleg megküldi a kijelölt földgázkereskedő részére a kijelöléssel érintett felhasználók ellátásához szükséges adatokat.
 
 (7) Nem jelölhető ki a felfüggesztett engedélyű földgázkereskedő felhasználóinak ellátására az az egyetemes szolgáltató, aki a GET 115/A. § (1) bekezdése alapján a működési engedélye visszavonását kérte.
+
+[^9]: A 19. § (4) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 544. § d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

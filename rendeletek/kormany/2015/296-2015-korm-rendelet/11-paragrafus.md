@@ -1,6 +1,6 @@
-11. § (1) A Hivatal a 10. § (1) bekezdése szerinti, a földgázkereskedő engedélyét felfüggesztő határozatot (a továbbiakban: felfüggesztő határozat) haladéktalanul közli, és erről a földgázkereskedőt telefonon is értesíti, valamint legkésőbb 24 órán belül a Hivatal kézbesítője útján megküldi a földgázkereskedőnek és az érintett rendszerüzemeltetőnek, valamint a Magyar Szénhidrogén Készletező Szövetségnek (a továbbiakban: MSZKSZ). A felfüggesztő határozat közlésének időpontja a határozat kézbesítő útján történő átadás-átvételének időpontja.
+11. § (1)[^7] A Hivatal a 10. § (1) bekezdése szerinti, a földgázkereskedő engedélyét felfüggesztő határozatot (a továbbiakban: felfüggesztő határozat) haladéktalanul közli, és erről a földgázkereskedőt telefonon is értesíti, valamint legkésőbb 24 órán belül a Hivatal kézbesítője útján megküldi a földgázkereskedőnek és az érintett rendszerüzemeltetőnek, valamint a Magyar Szénhidrogén Készletező Szövetségnek (a továbbiakban: MSZKSZ). A felfüggesztő határozat közlésének időpontja a határozat kézbesítő útján történő átvételének időpontja.
 
-(2) A felfüggesztő határozat – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényben (a továbbiakban: Ket.) meghatározottakon túl – tartalmazza legalább az alábbiakat:
+(2)[^8] A felfüggesztő határozat – az általános közigazgatási rendtartásról szóló törvényben (a továbbiakban: Ákr.) meghatározottakon túl – tartalmazza legalább az alábbiakat:
 
 a) a felfüggesztés kezdő gáznapját (a továbbiakban: a felfüggesztés kezdete),
 
@@ -39,3 +39,6 @@ d) a végső menedékes földgázkereskedő vagy az egyetemes szolgáltatásra n
 e) a követelések átszállására és a tartozásátszállásra vonatkozó főbb információkat.
 
 (7) A Hivatal a GET 127. § v) pontjában meghatározott közzétételi kötelezettsége mellett a felfüggesztő határozat és a kijelölt földgázkereskedő kijelöléséről szóló határozat (a továbbiakban: kijelölő határozat) rövid összefoglalóját – azok közlését követően haladéktalanul – megküldi a nemzeti hírügynökség részére.
+
+[^7]: A 11. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 544. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: A 11. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 544. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

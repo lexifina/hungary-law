@@ -16,7 +16,7 @@ ba) a bejelentést megelőző egy éven belül legalább kétszer 4 egymást kö
 
 bb) a bejelentést megelőző egy éven belül legalább kétszer 2 egymást követő gáznapon meghaladta a 6. § (4) bekezdés b) pontjában meghatározott mértéket,
 
-bc)[^3]
+bc)[^6]
 
 bd) az adott gázhónapban legalább 10 gáznapon meghaladta a 6. § (4) bekezdés a) pontjában meghatározott mértéket, vagy
 
@@ -38,4 +38,4 @@ c) a szállítási rendszerüzemeltető vagy a földgázelosztó rendszerhaszná
 
 (8) Amennyiben az (1) bekezdés b) pontja szerinti felfüggesztésre okot adó körülmény a fogyasztói profil alapján történő allokálás miatt következett be, a Hivatal 72 órán belül az esetet kivizsgálja és annak eredménye alapján dönt a felfüggesztésről.
 
-[^3]: A 10. § (1) bekezdés b) pont bc) alpontját a 458/2016. (XII. 23.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^6]: A 10. § (1) bekezdés b) pont bc) alpontját a 458/2016. (XII. 23.) Korm. rendelet 30. §-a hatályon kívül helyezte.

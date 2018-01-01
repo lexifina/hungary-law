@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-296-20-
 | 2015-10-16 | 2015-296-20-22.1 | 296/2015. (X. 13.) Korm. rendelet |
 | 2015-10-17 | 2015-296-20-22.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2015-296-20-22.3 | 458/2016. (XII. 23.) Korm. rendelet |
+| 2018-01-01 | 2015-296-20-22.4 | 457/2017. (XII. 28.) Korm. rendelet |
