@@ -18,7 +18,7 @@ f) a tőkepiacról szóló törvény szerinti tőzsdei ügyletet,
 
 g) a meghatározott összegben rögzített hatósági ár vagy jogszabályban egyedileg meghatározott konkrét ár alkalmazásával megvalósuló ügyletet.
 
-(3) A (2) bekezdés c) pontja alkalmazásában, ha az adózó, külföldi személy a szolgáltatás, termékértékesítés ellenértékét több kapcsolt vállalkozása részére terheli át, akkor az adózó e rendelet szerinti nyilvántartása tartalmazza annak alátámasztását, hogy az alkalmazott megosztási módszer – az adott ügyletre jellemző tények és körülmények figyelembevételével – a szokásos piaci ár elvének megfelel.
+(3)[^1] A (2) bekezdés c) pontja alkalmazásában, ha az adózó, külföldi személy a szolgáltatás, termékértékesítés ellenértékét több kapcsolt vállalkozása részére terheli át, akkor az adózó csak abban az esetben mentesül az e rendelet szerinti nyilvántartási kötelezettség alól, ha alátámasztja, hogy az alkalmazott megosztási módszer – az adott ügyletre jellemző tények és körülmények figyelembevételével – a szokásos piaci ár elvének megfelel.
 
 (4) A (2) bekezdés e) pontja szerinti értékhatár megállapításánál, ha a teljesítés értéke a szerződésben külföldi pénznemben kifejezett, akkor
 
@@ -31,3 +31,5 @@ számítja át forintra a teljesítés értékét.
 (5) A (2) bekezdés f) pontjában foglaltaktól eltérően nem mentesül az e rendelet szerinti nyilvántartási kötelezettség alól a bennfentes kereskedelem és tisztességtelen árfolyam-befolyásolással megvalósuló, a tőkepiacról szóló törvény szerinti tőzsdei ügylet.
 
 (6) A (2) bekezdés g) pontjában foglaltaktól eltérően nem mentesül az e rendelet szerinti nyilvántartási kötelezettség alól a jogszabály megsértésével megállapított ár alkalmazásával megvalósuló ügylet.
+
+[^1]: Az 1. § (3) bekezdése az 52/2017. (XII. 29.) NGM rendelet 21. § 1. pontja szerint módosított szöveg.

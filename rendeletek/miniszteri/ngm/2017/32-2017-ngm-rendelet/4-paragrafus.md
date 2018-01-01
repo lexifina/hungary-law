@@ -66,7 +66,7 @@ f) a helyi dokumentum elkészítésének időpontját.
 
 a) az ellenőrzött ügylet bemutatását (például gyártási szolgáltatások beszerzése, termékek beszerzése, termékek eladása, szolgáltatások nyújtása, kölcsönnyújtás, pénzügyi és teljesítési garanciák biztosítása, immateriális javak licencbe adása) és a környezet, érintett piac bemutatását, amelyben az ügylet létrejön;
 
-b) az ügyletben részes más kapcsolt vállalkozások elnevezését, székhelyét, belföldi illetve külföldi adószámát, ennek hiányában cégjegyzékszámát (nyilvántartási számát) és a cégjegyzéket (nyilvántartást) vezető bíróság (hatóság) megnevezését és székhelyét, a kapcsolt vállalkozási viszony alapjának megjelölését;
+b)[^2] az ellenőrzött ügyletben részes más kapcsolt vállalkozások elnevezését, székhelyét, belföldi illetve külföldi adószámát, ennek hiányában cégjegyzékszámát (nyilvántartási számát) és a cégjegyzéket (nyilvántartást) vezető bíróság (hatóság) megnevezését és székhelyét, a kapcsolt vállalkozási viszony alapjának megjelölését;
 
 c) az ellenőrzött ügylet alapján az adóévben teljesített, illetve járó fizetések összegét, legalább az ügyletben résztvevő felek szerinti bontásban;
 
@@ -114,4 +114,7 @@ b) egymással szorosan összefüggnek.
 
 (12) Az adózó az adómegállapításhoz való jog elévülési idején belül, de legkésőbb az adó- és vámhatóság ellenőrzésének megkezdéséig módosíthatja nyilvántartását, ha feltárja, hogy a nyilvántartást nem a jogszabályoknak megfelelően készítette el, vagy a nyilvántartásban az adóalapot, az adót, a szokásos piaci árat, a szokásos piaci ár-tartományt (jövedelmezőséget) érintő hibát észlel. A módosító dokumentum tartalmazza a módosítással érintett nyilvántartás megnevezését, a módosítást és annak dátumát. A módosítást a nyilvántartás esedékességének eredeti időpontjában hatályos szabályok szerint kell elvégezni. Nincs helye módosításnak, ha az adózó az e rendeletben megengedett választási lehetőséggel jogszerűen élt, és ezt a módosítással változtatná meg.
 
-(13) A nyilvántartás, módosítás, javítás és az azt alátámasztó dokumentáció nem magyar nyelven is elkészíthető.
+(13)[^3] A nyilvántartás, módosítás és az azt alátámasztó dokumentáció nem magyar nyelven is elkészíthető.
+
+[^2]: A 4. § (4) bekezdés b) pontja az 52/2017. (XII. 29.) NGM rendelet 21. § 2. pontja szerint módosított szöveg.
+[^3]: A 4. § (13) bekezdése az 52/2017. (XII. 29.) NGM rendelet 21. § 3. pontja szerint módosított szöveg.
