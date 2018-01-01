@@ -10,8 +10,11 @@ c) a rejtjelző eszköz, a működtetéséhez szükséges tartozékok, rejtjelku
 
 d) a rejtjelző eszköz eszköz-specifikus biztonsági követelményeit.
 
-(3) Az NBF a rendszeresítési engedély mellékleteként kiadja a rejtjelző eszköz működtetési szabályzatát, kezelési utasítását és a rejtjelző eszköz alkalmazásához szükséges egyéb dokumentumokat. Az NBF a rendszeresítési engedély kiadásába szakértőként bevonja az Információs Hivatalt a nemzetbiztonsági szolgálatokról szóló törvényben foglalt feladatai végrehajtása érdekében.
+(3)[^11] Az NBF a rendszeresítési engedély mellékleteként kiadja a rejtjelző eszköz működtetési szabályzatát, kezelési utasítását és a rejtjelző eszköz alkalmazásához szükséges egyéb dokumentumokat. Az NBF a rendszeresítési engedély kiadásába szakértőként az Információs Hivatalt vonhatja be a nemzetbiztonsági szolgálatokról szóló törvényben foglalt feladatai végrehajtása érdekében.
 
 (4) Nemzeti minősített adat rejtjelzésére csak az NBF által kiadott rendszeresítési engedéllyel rendelkező rejtjelző eszköz alkalmazható.
 
-(5) Az NBF kriptográfiai és bontásvédelmi szempontból, valamint a mechanikai felépítést érintően kikéri az Információs Hivatal szakértői véleményét a kifejlesztendő rejtjelző eszközre vonatkozóan.
+(5)[^12] Az NBF kriptográfiai és bontásvédelmi szempontból, valamint a mechanikai felépítést érintően az Információs Hivatalt vonhatja be szakértőként a kifejlesztendő rejtjelző eszközre vonatkozóan.
+
+[^11]: A 46. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 302. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 46. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 302. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

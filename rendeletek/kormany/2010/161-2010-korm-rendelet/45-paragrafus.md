@@ -26,4 +26,6 @@ nyújtja be.
 
 (4) Új vagy kiegészítő engedélyezési eljárásra van szükség, ha a rendszeresítési engedéllyel már rendelkező rejtjelző eszközt továbbfejlesztették, módosították.
 
-(5) Az NBF a rejtjelző eszközre vonatkozó – (2) bekezdés szerinti – rendszeresítési engedély kiadása során a rejtjelző eszköz mechanikai felépítése és bontásvédelme értékelésében kikéri az Információs Hivatal szakértői véleményét.
+(5)[^10] Az NBF a rejtjelző eszközre vonatkozó – (2) bekezdés szerinti – rendszeresítési engedély kiadása során a rejtjelző eszköz mechanikai felépítése és bontásvédelme értékelésében az Információs Hivatalt vonhatja be szakértőként.
+
+[^10]: A 45. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 302. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
