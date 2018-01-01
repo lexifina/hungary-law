@@ -1,4 +1,4 @@
-## 2/A. §[^20] Az állami adóhatóság átadja a rehabilitációs hatóság részére – a megváltozott munkaképességű személyek ellátásai folyósításának, a részükre nyújtott rehabilitációs szolgáltatások biztosításának és azokhoz kapcsolódó megszüntetési ok fennállásának vizsgálata céljából – az Art. 31. § (2) bekezdése szerint, az Art. 52. § (4) bekezdésében meghatározott bevallásra kötelezett és a mezőgazdasági őstermelő által bevallott adatok közül:
+## 2/A. §[^21] Az állami adóhatóság átadja a rehabilitációs hatóság részére – a megváltozott munkaképességű személyek ellátásai folyósításának, a részükre nyújtott rehabilitációs szolgáltatások biztosításának és azokhoz kapcsolódó megszüntetési ok fennállásának vizsgálata céljából – az Art. 31. § (2) bekezdése szerint, az Art. 52. § (4) bekezdésében meghatározott bevallásra kötelezett és a mezőgazdasági őstermelő által bevallott adatok közül:
 
 a) a Tbj. 44. § (1) bekezdése szerinti nyilvántartásra kötelezett nevét, székhelyét és adóazonosító számát,
 
@@ -18,4 +18,4 @@ h) a foglalkozás FEOR számát, a heti munkaidő tartamát,
 
 i) az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér és közteher – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér és közteher együttes – összegét, és a foglalkoztatás napját (napjait) személyenként, az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerinti foglalkoztatási jogviszonnyal összefüggésben.
 
-[^20]: A 2/A. §-t az 59/2015. (III. 24.) Korm. rendelet 1. §-a iktatta be.
+[^21]: A 2/A. §-t az 59/2015. (III. 24.) Korm. rendelet 1. §-a iktatta be. [A 2/A. §-nak a 475/2017. (XII. 28.) Korm. rendelet 54. § 3. pontjával elrendelt módosítása, amely szerint az „az Art. 31. § (2) bekezdése szerint, az Art. 52. § (4) bekezdésben meghatározott bevallásra kötelezett és a mezőgazdasági őstermelő által” szövegrész helyébe az „az Art. 50. §-a szerint” szöveg lép, nem vezethető át.]
