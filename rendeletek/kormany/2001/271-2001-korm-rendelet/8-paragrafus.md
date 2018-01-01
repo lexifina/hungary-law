@@ -42,7 +42,7 @@ A hulladék hulladékgazdálkodási jellemzőit, veszélyességét kifejező V s
 
 | Veszélyes hulladékok esetén | 10 |
 
-| Külön jogszabály szerint visszavételre, meghatározott arányban hasznosításra kötelezett nem veszélyes hulladékok, a környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény hatálya alá tartozó, hulladékként nem veszélyes hulladéknak minősülő termékek hulladékai, az elektromos és elektronikus berendezések forgalmazásával kapcsolatos környezetvédelmi követelmények nem megfelelő teljesítése esetén, valamint egyéb jogszabályban meghatározott, különleges kezelést igénylő (pl. lerakóban nem ártalmatlanítható nem veszélyes hulladékok, nem veszélyes egészségügyi hulladékok) nem veszélyes hulladékkategóriák esetén | 2,5 |
+| Külön jogszabály szerint visszavételre, meghatározott arányban hasznosításra kötelezett nem veszélyes hulladékok, a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény hatálya alá tartozó, hulladékként nem veszélyes hulladéknak minősülő termékek hulladékai, az elektromos és elektronikus berendezések forgalmazásával kapcsolatos környezetvédelmi követelmények nem megfelelő teljesítése esetén, valamint egyéb jogszabályban meghatározott, különleges kezelést igénylő (pl. lerakóban nem ártalmatlanítható nem veszélyes hulladékok, nem veszélyes egészségügyi hulladékok) nem veszélyes hulladékkategóriák esetén | 2,5 |
 
 | Települési hulladékok esetén | 1,5 |
 
@@ -132,5 +132,5 @@ hd) esetben az Me,t értéke 1.
 
 [^32]: A 7. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1013. pontja hatályon kívül helyezte.
 [^33]: A 8. §-t a 181/2008. (VII. 8.) Korm. rendelet 18. § (3) bekezdése iktatta be.
-[^34]: A melléklet 3. pontjában a V szorzószám értékét meghatározó táblázata a 264/2004. (IX. 23.) Korm. rendelet 20. §-ának (2) bekezdésével megállapított szöveg.
+[^34]: A melléklet 3. pontjában a V szorzószám értékét meghatározó táblázata a 264/2004. (IX. 23.) Korm. rendelet 20. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 98. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^35]: A melléklet 3. pontjának e) alpontját a 264/2004. (IX. 23.) Korm. rendelet 20. §-ának (3) bekezdése iktatta a szövegbe.
