@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-335-20-
 | 2014-03-15 | 2012-335-20-22.3 | 53/2014. (III. 3.) Korm. rendelet |
 | 2014-04-09 | 2012-335-20-22.4 | 102/2014. (III. 25.) Korm. rendelet |
 | 2017-04-08 | 2012-335-20-22.5 | 81/2017. (IV. 7.) Korm. rendelet |
+| 2018-01-01 | 2012-335-20-22.6 | 393/2017. (XII. 13.) Korm. rendelet |

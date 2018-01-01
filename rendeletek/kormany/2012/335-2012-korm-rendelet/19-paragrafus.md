@@ -16,9 +16,9 @@ a) közokiratban,
 
 b) a postai szolgáltató erre feljogosított képviselője előtt, írásban vagy
 
-c) a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 196. §-a szerinti teljes bizonyító erejű magánokiratban.
+c)[^11] a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 325. § (1) és (2) bekezdése szerinti teljes bizonyító erejű magánokiratban.
 
-(7) Értéknyilvánítással feladott küldemény átvételére a (6) bekezdés c) pontjában szereplő magánokiratban kizárólag a Pp. 196. § (1) bekezdés c)–e) pontjában foglaltaknak megfelelő meghatalmazás adható.
+(7)[^12] Értéknyilvánítással feladott küldemény átvételére a (6) bekezdés c) pontjában szereplő magánokiratban kizárólag a Pp. 325. § (1) bekezdés c)–e) pontjában foglaltaknak megfelelő meghatalmazás adható.
 
 (8) A nem Magyarországon kiállított közokirat – nemzetközi szerződés eltérő rendelkezése hiányában – kizárólag felülhitelesített formában vagy a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény kihirdetéséről szóló 1973. évi 11. törvényerejű rendelet szabályai szerinti Apostille záradékkal ellátott formában fogadható el. Amennyiben nemzetközi szerződés a külföldön kiállított okiratnak az ettől eltérő formában való elfogadását írja elő, úgy a nemzetközi szerződés fennállását, hatályát és tartalmát a postai szolgáltató a meghatalmazott közreműködésével vizsgálja. Ennek keretében a postai szolgáltató felkérheti a meghatalmazottat, az általa hivatkozott nemzetközi szerződés megjelölésére, annak igazolására, hogy a nemzetközi szerződés személyi, tárgyi és időbeli hatálya az ügyben alkalmazandó, valamint annak közlésére, hogy mely okirati körre vonatkozóan írja elő a nemzetközi szerződés az eltérő okirati forma elfogadását.
 
@@ -37,3 +37,6 @@ e) egy meghatározott küldemény átvételére vonatkozó meghatalmazás eseté
 (10) A postai szolgáltató a küldemények kézbesítését – az általános meghatalmazás kivételével – a meghatalmazás postai szolgáltató részére történő végleges átadásától teheti függővé. Az általános meghatalmazás esetében a postai szolgáltató a kézbesítést a meghatalmazás másolata készítésére vonatkozó beleegyezés megadásától vagy az abban foglalt adatok rögzítésére és kezelésére történő írásbeli felhatalmazás megadásától teheti függővé.
 
 (11) A meghatalmazás megszűnésének tényét – a (2) bekezdés szerinti egy egyedileg azonosított küldemény átvételére szóló meghatalmazás kivételével – a meghatalmazó, illetve – a meghatalmazó halála, jogutód nélküli megszűnése vagy tartós akadályoztatása esetén – a meghatalmazott köteles a postai szolgáltatónak haladéktalanul bejelenteni. A bejelentés elmulasztásából eredő károkért a postai szolgáltató nem felel.
+
+[^11]: A 19. § (6) bekezdés c) pontja a 393/2017. (XII. 13.) Korm. rendelet 52. § a) pontja szerint módosított szöveg.
+[^12]: A 19. § (7) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
