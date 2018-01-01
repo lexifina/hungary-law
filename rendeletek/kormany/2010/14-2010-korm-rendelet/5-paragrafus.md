@@ -1,23 +1,21 @@
-5. § (1) A szakértői tevékenység folytatására irányuló bejelentés tartalmazza:
+5. §[^3] (1) A szakértői tevékenység folytatására irányuló bejelentés során a szakértői tevékenységet folytatni szándékozó személy (a továbbiakban: bejelentő)
 
-a) a szakértői tevékenységet folytatni szándékozó személy (a továbbiakban: bejelentő)
+a) igazolja
 
-aa) iskolai végzettségét, illetve szakképzettségét, az azt igazoló oklevelének, bizonyítványának számát és keltét, a kibocsátó felsőoktatási intézmény nevét, nem magyar felsőoktatási intézményben szerzett oklevél esetén a Magyarországon megszerezhető oklevéllel való egyenértékűség elismerésről szóló határozat számát,
+aa) iskolai végzettségét, illetve szakképzettségét,
 
-ab)[^2] szakképesítését, az azt tanúsító bizonyítványának, oklevelének számát és keltét, nem magyar intézményben szerzett oklevél esetén a Magyarországon megszerezhető oklevéllel való egyenértékűség elismerésről szóló határozat számát;
+ab) szakképesítését;
 
-b) a szakterület meghatározását;
+b) ismerteti az érintett szakterületet;
 
-c) amennyiben a szakértői tevékenységet határozott időtartamban kívánja folytatni, a tevékenység megkezdésének és megszüntetésének időpontját.
+c) ha a szakértői tevékenységet határozott időtartamban kívánja folytatni, meghatározza a tevékenység megkezdésének és megszüntetésének időpontját;
 
-(2) A bejelentéshez csatolni kell:
+d) ha kreditrendszerben szerezte meg az oklevelét, vagy – ha az a szakirány megállapítása érdekében szükséges – ismerteti a szakirány elbírálásához szükséges adatokat;
 
-a) az (1) bekezdés aa)–ab) pontja szerinti oklevél, bizonyítvány másolatát;
+e) részletesen bemutatja az eddigi szakmai tevékenységet, ideértve a szakmai gyakorlat megszerzésének helyét, idejét, a betöltött munka- vagy feladatkört és a végzett szakmai tevékenységet.
 
-b) a szakirány elbírálásához az oklevél mellékletét is be kell nyújtani, ha a kérelmező kreditrendszerben szerezte meg az oklevelét, vagy ha az a szakirány megállapítása érdekében szükséges;
+(2) Az (1) bekezdés szerinti követelmények teljesülését igazolja különösen az (1) bekezdés
 
-c) az eddigi szakmai tevékenység részletes leírását, amely tartalmazza a szakmai gyakorlat megszerzésének helyét, idejét, a betöltött munka- vagy feladatkört és a végzett szakmai tevékenységet;
+aa) és ab) pontja szerinti oklevél, bizonyítvány, nem magyar felsőoktatási intézményben szerzett oklevél esetén a Magyarországon megszerezhető oklevéllel történő egyenértékűség elismerésről szóló határozat.
 
-d) a szakmai gyakorlatot igazoló okmányok másolatát.
-
-[^2]: Az 5. § (1) bekezdés a) pont ab) alpontja a 393/2013. (XI. 12.) Korm. rendelet 40. § l) pontja szerint módosított szöveg.
+[^3]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 283. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

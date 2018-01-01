@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-14-20-2
 | 2014-03-15 | 2010-14-20-22.5 | 62/2014. (III. 6.) Korm. rendelet |
 | 2015-02-01 | 2010-14-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-01-01 | 2010-14-20-22.7 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2010-14-20-22.8 | 431/2017. (XII. 20.) Korm. rendelet |
