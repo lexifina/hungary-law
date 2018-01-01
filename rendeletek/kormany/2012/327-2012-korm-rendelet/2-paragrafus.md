@@ -1,5 +1,3 @@
-## 1/A. §[^9] A megváltozott munkaképességű munkavállalókat foglalkoztatók akkreditációjával, az akkreditált munkáltatók nyilvántartásával és az akkreditált munkáltatók ellenőrzésével összefüggő hatósági feladatokat rehabilitációs hatóságként Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal) látja el.
-
 2. § (1) A munkáltató részére rehabilitációs akkreditációs tanúsítvány akkor adható, ha
 
 a) cégjegyzékbe vagy – ha a működés feltétele más bírósági vagy hatósági nyilvántartásba vétel – az előírt nyilvántartásba történő bejegyzése megtörtént,
@@ -16,17 +14,17 @@ f) a 7. alcím szerinti személyes rehabilitációs tervek elkészítését vál
 
 g) a személyes rehabilitációs tervben meghatározott segítő szolgáltatások igénybevételének lehetőségét biztosítja,
 
-h) a 9. alcím szerinti rehabilitációs tanácsadót, a 10. alcím szerinti rehabilitációs mentort a 13. § (3) bekezdése szerint, valamint – a 11. alcím szerinti feltételek fennállása esetén – a 11. alcím szerinti segítő személyt foglalkoztat,
+h)[^11] a 9. alcím szerinti rehabilitációs tanácsadót, a 10. alcím szerinti rehabilitációs mentort a 11/A. §-ban meghatározottak szerint, valamint – a 11. alcím szerinti feltételek fennállása esetén – a 11. alcím szerinti segítő személyt foglalkoztat,
 
 i) a betanított és segédmunka végzésének lehetősége mellett képesítéshez, illetve végzettséghez, képzettséghez kötött munkakörök betöltését is biztosítja,
 
 j) az eredményes rehabilitációhoz – valamint tranzitfoglalkoztatás esetén a nyílt munkaerőpiacra történő sikeres kihelyezéshez – szükséges képzési lehetőségeket saját maga vagy felnőttképzést megvalósító intézmény bevonásával biztosítja és
 
-k)[^11]
+k)[^12]
 
 (2) Az (1) bekezdésben meghatározott feltételek fennállása esetén sem adható rehabilitációs akkreditációs tanúsítvány, ha
 
-a) a munkáltatót a kérelem benyújtását megelőző hat hónapon belül a munkavédelemről szóló 1993. évi XCIII. törvény 82. §-a alapján munkavédelmi bírság megfizetésére kötelezték, és a vizsgált időszakban jogerőre emelkedett határozatok szerint kiszabott bírságok együttes összege elérte a kérelem benyújtását megelőző hónap létszáma szerint
+a)[^13] a munkáltatót a kérelem benyújtását megelőző hat hónapon belül a munkavédelemről szóló 1993. évi XCIII. törvény 82. §-a alapján munkavédelmi bírság megfizetésére kötelezték, és a vizsgált időszakban véglegessé vált határozatok szerint kiszabott bírságok együttes összege elérte a kérelem benyújtását megelőző hónap létszáma szerint
 
 aa) legfeljebb kétszáz munkavállalót foglalkoztató munkáltató esetén a kötelező legkisebb munkabér ötszörösét,
 
@@ -38,6 +36,7 @@ c) a munkáltató végelszámolás, csődeljárás, felszámolási eljárás, k�
 
 (3) Költségvetési szerv részére rehabilitációs akkreditációs tanúsítvány nem adható.
 
-[^9]: Az 1/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 212. § (1) bekezdése iktatta be.
 [^10]: A 2. § (1) bekezdés b) pontja a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^11]: A 2. § (1) bekezdés k) pontját a 285/2014. (XI. 20.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § (1) bekezdés h) pontja a 402/2017. (XII. 15.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^12]: A 2. § (1) bekezdés k) pontját a 285/2014. (XI. 20.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
+[^13]: A 2. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 418. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,4 +1,4 @@
-32. § (1)[^105] A Kormányhivatal az éves támogatási terv alapján a következő évi támogatás céljából minden évben a 18. § (2) bekezdése szerinti szerződéskötést követően hatósági szerződést köt a munkáltatóval (a továbbiakban: éves támogatási szerződés).
+32. § (1)[^118] A Kormányhivatal az éves támogatási terv alapján a következő évi támogatás céljából minden évben a 18. § (2) bekezdése szerinti szerződéskötést követően hatósági szerződést köt a munkáltatóval (a továbbiakban: éves támogatási szerződés).
 
 (2) Az éves támogatási szerződésnek tartalmaznia kell
 
@@ -6,15 +6,15 @@ a) a munkáltató részére nyújtandó egyéni támogatások együttes éves ke
 
 b) az egyéni támogatás éves keretösszegét,
 
-c)[^106] a tranzit foglalkoztatást és a tartós foglalkoztatást biztosító munkahelyek számát,
+c)[^119] a tranzit foglalkoztatást és a tartós foglalkoztatást biztosító munkahelyek számát,
 
 d) a támogatás folyósításának, felhasználásának, elszámolásának, a felhasználás ellenőrzésének szabályait,
 
 e) a munkáltató kötelezettségvállalását a (4)–(7) bekezdésben meghatározott feltételek teljesülése esetén az e rendelkezésekben előírt kötelezettségek teljesítésére,
 
-f)[^107] azokat a munkaköröket, amelyekre a munkáltató munkaidő-keretet kíván megállapítani,
+f)[^120] azokat a munkaköröket, amelyekre a munkáltató munkaidő-keretet kíván megállapítani,
 
-g)[^108] a következményeket arra az esetre, ha a munkáltató a c) pontban meghatározott számú munkahelyet nem tudja a szerződésben meghatározott mértékben betölteni.
+g)[^121] a következményeket arra az esetre, ha a munkáltató a c) pontban meghatározott számú munkahelyet nem tudja a szerződésben meghatározott mértékben betölteni.
 
 (3) Az éves támogatási szerződés megszűnésére, felmondására – a (4)–(7) bekezdésben foglaltak figyelembevételével – a keretszerződésre megállapított szabályokat alkalmazni kell.
 
@@ -34,10 +34,10 @@ b) olyan, legalább 250 fő megváltozott munkaképességű személyt foglalkozt
 
 (6) Ha a munkáltatónál ügydöntő felügyelőbizottság, illetve felügyelőbizottság már működik, a miniszter a (4) és (5) bekezdés szerinti esetben – legalább 30 napos határidő tűzése mellett – e felügyelőbizottság olyan átalakítását kezdeményezheti a munkáltatónál, amelynek eredményeként a felügyelőbizottság hatásköre, összetétele és működése a (4), illetve (5) bekezdésben foglaltaknak megfelel.
 
-(7)[^109] Ha a munkáltató a miniszter által megállapított határidőben nem gondoskodik arról, hogy a (4)–(6) bekezdésnek megfelelő változásokat a cégbíróság bejegyezze a cégjegyzékbe, a Kormányhivatal a miniszter által meghatározott határidő lejártát követő hónap 1. napjával az éves támogatási szerződést felmondja.
+(7)[^122] Ha a munkáltató a miniszter által megállapított határidőben nem gondoskodik arról, hogy a (4)–(6) bekezdésnek megfelelő változásokat a cégbíróság bejegyezze a cégjegyzékbe, a Kormányhivatal a miniszter által meghatározott határidő lejártát követő hónap 1. napjával az éves támogatási szerződést felmondja.
 
-[^105]: A 32. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^106]: A 32. § (2) bekezdés c) pontja a 285/2014. (XI. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^107]: A 32. § (2) bekezdés f) pontját a 335/2013. (IX. 20.) Korm. rendelet 18. §-a iktatta be.
-[^108]: A 32. § (2) bekezdés g) pontját a 285/2014. (XI. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^109]: A 32. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^118]: A 32. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^119]: A 32. § (2) bekezdés c) pontja a 285/2014. (XI. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^120]: A 32. § (2) bekezdés f) pontját a 335/2013. (IX. 20.) Korm. rendelet 18. §-a iktatta be.
+[^121]: A 32. § (2) bekezdés g) pontját a 285/2014. (XI. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^122]: A 32. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.

@@ -1,26 +1,19 @@
-6. § (1) Az 5. §-ban foglaltaktól eltérően egyszerűsített akkreditációs eljárást kell lefolytatni, ha
+6. §[^36] (1) A munkáltató – az 5. §-ban foglaltaktól eltérően – adatmódosítás iránti kérelmet nyújt be a Kormányhivatalhoz
 
-a) a rehabilitációs akkreditációs tanúsítvány olyan adataiban következett be változás, amelyek az akkreditáció alapjául szolgáló feltételeket nem érintik,
+a) a rehabilitációs akkreditációs tanúsítvány olyan adataiban bekövetkezett változás esetén, amelyek az akkreditáció alapjául szolgáló feltételeket nem érintik,
 
-b) a munkáltató korábban nem akkreditált telephelyének megjelölését kéri a rehabilitációs akkreditációs tanúsítványban,
+b) a korábban nem akkreditált telephelynek a rehabilitációs akkreditációs tanúsítványban történő megjelölése céljából,
 
-c)[^31]
+c) új tevékenység nyilvántartásba történő felvételének vagy tevékenység törlése miatt.
 
-d) a munkáltató új tevékenység nyilvántartásba történő felvételét, vagy tevékenység törlését kérelmezi.
-
-(2) Az egyszerűsített akkreditáció iránti kérelemhez csatolni kell:
+(2) Az adatmódosítás iránti kérelemhez csatolni kell:
 
 a) az adatváltozást tanúsító okirat másolatát,
 
 b) az akkreditációval érintett telephelyre vonatkozó akkreditációs feltételek fennállását igazoló iratok másolatát,
 
-c)[^32]
+c) a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályairól szóló 38/2012. (XI. 16.) EMMI rendelet 2. §-a szerinti akkreditációs díj megfizetésének igazolását.
 
-d) a külön jogszabály szerinti egyszerűsített akkreditációs díj megfizetésének igazolását.
+(3) Az adatmódosítási eljárásban új rehabilitációs akkreditációs tanúsítványt kell kiállítani.
 
-(3) Amennyiben a kérelem egyszerűsített akkreditációs eljárás keretében nem bírálható el, a munkáltatót határidő kitűzésével fel kell hívni az akkreditációs eljárás szerinti kérelem előterjesztésére, valamint a két eljárási díj közötti különbözet megfizetésére. Ha a munkáltató a felhívásnak eleget tesz, az akkreditációs eljárás általános szabályai szerint a kérelem elbírálásáról, egyébként az egyszerűsített eljárás megszüntetéséről kell dönteni.
-
-(4) Az egyszerűsített akkreditációs eljárásban új rehabilitációs akkreditációs tanúsítványt kell kiállítani a módosítást nem érintő adatok változatlanul hagyásával. Az egyszerűsített akkreditációs eljárásban egyebekben az akkreditációs eljárás szabályait kell alkalmazni.
-
-[^31]: A 6. § (1) bekezdés c) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^32]: A 6. § (2) bekezdés c) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^36]: A 6. § a 457/2017. (XII. 28.) Korm. rendelet 417. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

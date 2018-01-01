@@ -16,9 +16,9 @@ g) az e rendelet szerinti ellenőrzések során 12 negatív értékelőpontot ö
 
 h) az akkreditációs eljárás, illetve ellenőrzés során olyan lényeges tényt vagy körülményt hallgatott el, vagy olyan tényről nyilatkozott valótlan tartalommal, amely a rehabilitációs akkreditációs tanúsítvány kiadását kizárja, illetve visszavonását megalapozza,
 
-i)[^34] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó valamely feltételt nem teljesíti, amennyiben a hiánypótlásra vagy a jogsértő állapot vagy magatartás megszüntetésére felhívó végzésben biztosított határidő eredménytelenül telt el.
+i)[^39] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó valamely feltételt nem teljesíti, amennyiben a hiánypótlásra vagy a jogsértő állapot vagy magatartás megszüntetésére felhívó végzésben biztosított határidő eredménytelenül telt el.
 
-(1a)[^35] A rehabilitációs akkreditációs tanúsítványt
+(1a)[^40] A rehabilitációs akkreditációs tanúsítványt
 
 a) az (1) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól,
 
@@ -30,11 +30,13 @@ d) az (1) bekezdés e) pontja szerinti esetben a késedelmet megállapító hat�
 
 e) az (1) bekezdés f) pontja szerinti esetben az állásidő időtartamát megállapító hatósági döntésben meghatározott határidő eredménytelen leteltét követő nappal,
 
-f) az a)–e) pontban nem említett esetben a visszavonásáról rendelkező határozat jogerőre emelkedésének napjával
+f)[^41] az a)–e) pontban nem említett esetben a visszavonásáról rendelkező határozat véglegessé válásának napjával
 
 ## kell visszavonni.
 
-(2) Ha a rehabilitációs akkreditációs tanúsítvány visszavonására az (1) bekezdés h) pontjában megjelölt okból kerül sor, az érintett munkáltató, illetve jogutódja az új rehabilitációs akkreditációs tanúsítvány iránti kérelmet legkorábban a tanúsítvány visszavonásáról rendelkező határozat jogerőre emelkedésétől számított két év elteltével nyújthatja be. Az ezt megelőzően benyújtott rehabilitációs akkreditációs tanúsítvány iránti kérelmet érdemi vizsgálat nélkül el kell utasítani.
+(2)[^42] Ha a rehabilitációs akkreditációs tanúsítvány visszavonására az (1) bekezdés h) pontjában megjelölt okból kerül sor, az érintett munkáltató, illetve jogutódja az új rehabilitációs akkreditációs tanúsítvány iránti kérelmet legkorábban a tanúsítvány visszavonásáról rendelkező határozat véglegessé válásától számított két év elteltével nyújthatja be. Az ezt megelőzően benyújtott rehabilitációs akkreditációs tanúsítvány iránti kérelmet vissza kell utasítani.
 
-[^34]: A 8. § (1) bekezdés i) pontját a 335/2013. (IX. 20.) Korm. rendelet 7. §-a iktatta be.
-[^35]: A 8. § (1a) bekezdését a 285/2014. (XI. 20.) Korm. rendelet 2. §-a iktatta be.
+[^39]: A 8. § (1) bekezdés i) pontját a 335/2013. (IX. 20.) Korm. rendelet 7. §-a iktatta be.
+[^40]: A 8. § (1a) bekezdését a 285/2014. (XI. 20.) Korm. rendelet 2. §-a iktatta be.
+[^41]: A 8. § (1a) bekezdés f) pontja a 457/2017. (XII. 28.) Korm. rendelet 418. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^42]: A 8. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 418. § c)–d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

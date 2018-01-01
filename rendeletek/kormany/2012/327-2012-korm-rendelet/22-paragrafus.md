@@ -1,15 +1,15 @@
 ## 16. A többletköltség támogatásának szabályai
 
-22. § (1)[^76] A többletköltség – a (2)–(5) bekezdésben foglaltakra figyelemmel – az általános csoportmentességi rendelet 34. cikkében meghatározott feltételekkel támogatható.
+22. § (1)[^89] A többletköltség – a (2)–(5) bekezdésben foglaltakra figyelemmel – az általános csoportmentességi rendelet 34. cikkében meghatározott feltételekkel támogatható.
 
 (2) Adott munkavállaló esetében többletköltség csak akkor vehető figyelembe, ha a munkavállalóra a bérköltség támogatásának feltételei teljesülnek.
 
 (3) A többletköltség legfeljebb 100%-a támogatható.
 
-(4)[^77] E rendelet alkalmazása során az általános csoportmentességi rendelet 34. cikk (2) bekezdés b) pontja szerinti költségek alatt a 12. § szerinti rehabilitációs tanácsadó, a 13. § szerinti rehabilitációs mentor, valamint a 14. § szerinti segítő személy alkalmazásához kapcsolódó költségeket kell érteni.
+(4)[^90] E rendelet alkalmazása során az általános csoportmentességi rendelet 34. cikk (2) bekezdés b) pontja szerinti költségek alatt a 12. § szerinti rehabilitációs tanácsadó, a 13. § szerinti rehabilitációs mentor, valamint a 14. § szerinti segítő személy alkalmazásához kapcsolódó költségeket kell érteni.
 
-(5)[^78] A támogatással érintett megváltozott munkaképességű munkavállaló foglalkoztatásának költségei bérköltség helyett többletköltségként is elszámolhatóak, ha a munkáltató őt – a rehabilitációs tervvel összhangban – a 12. § szerinti rehabilitációs tanácsadóként, a 13. § szerinti rehabilitációs mentorként vagy a 14. § szerinti segítő személyként foglalkoztatja.
+(5)[^91] A támogatással érintett megváltozott munkaképességű munkavállaló foglalkoztatásának költségei bérköltség helyett többletköltségként is elszámolhatóak, ha a munkáltató őt – a rehabilitációs tervvel összhangban – a 12. § szerinti rehabilitációs tanácsadóként, a 13. § szerinti rehabilitációs mentorként vagy a 14. § szerinti segítő személyként foglalkoztatja.
 
-[^76]: A 22. § (1) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^77]: A 22. § (4) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^78]: A 22. § (5) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^89]: A 22. § (1) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^90]: A 22. § (4) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^91]: A 22. § (5) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 16. §-ával megállapított szöveg.
