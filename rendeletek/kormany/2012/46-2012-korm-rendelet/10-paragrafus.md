@@ -12,7 +12,7 @@
 
 (6) Az e rendelet hatálybalépése előtt az R. alapján indult közbeszerzési eljárásokból eredő, jogszabályban meghatározott feladatokat a Központi Ellátási Főigazgatóság látja el a központosított közbeszerzési feladat e rendelet szerinti központi beszerző szervezet részére történő átadásáig.
 
-(7)[^14] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 323/2015. (X. 30.) Korm. rendelettel megállapított rendelkezéseit a rendelet hatálybalépését[^15] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+(7)[^15] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 323/2015. (X. 30.) Korm. rendelettel megállapított rendelkezéseit a rendelet hatálybalépését[^16] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
 
-[^14]: A 10. § (7) bekezdését a 323/2015. (X. 30.) Korm. rendelet 9. § (7) bekezdése iktatta be.
-[^15]: A hatálybalépés időpontja 2015. november 1.
+[^15]: A 10. § (7) bekezdését a 323/2015. (X. 30.) Korm. rendelet 9. § (7) bekezdése iktatta be.
+[^16]: A hatálybalépés időpontja 2015. november 1.

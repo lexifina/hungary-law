@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-46-20-2
 | 2015-03-01 | 2012-46-20-22.7 | 30/2015. (II. 25.) Korm. rendelet |
 | 2015-11-01 | 2012-46-20-22.8 | 323/2015. (X. 30.) Korm. rendelet |
 | 2017-01-01 | 2012-46-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2012-46-20-22.10 | 323/2015. (X. 30.) Korm. rendelet |
