@@ -1,5 +1,0 @@
-## VI. Fejezet
-
-## A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
-
-45. §

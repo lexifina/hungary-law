@@ -1,1 +1,0 @@
-202. § A Rega tv. e törvénnyel megállapított 13. és 14. §-át azokban az esetekben kell alkalmazni először, amelyekben az adóvisszaigénylési kérelem benyújtása 2009. január 1. napján vagy azt követően történik.

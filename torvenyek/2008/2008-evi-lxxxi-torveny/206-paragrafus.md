@@ -1,7 +1,0 @@
-206. § (1) E törvénynek az Art.-t módosító rendelkezései – a (2)–(4) bekezdésekben foglalt kivételekkel – 2009. január 1-jén lépnek hatályba.
-
-(2) E törvénynek az Art. 175. §-ának (17), (19), valamint (20)–(22) bekezdéseit megállapító rendelkezései, az Art. 1. melléklet I./B/3/a) pontjának ab) alpontját, illetőleg 6. számú melléklet 2. pontjának b) alpontját módosító rendelkezései, valamint e törvény 226. §-a a kihirdetés napját követő napon lépnek hatályba.
-
-(3) E törvénynek az Art. 56. § (1) bekezdését módosító és az Art. 56. § új (3) bekezdését megállapító rendelkezése a hozzáadottérték-adó területén történő közigazgatási együttműködésről, valamint a 218/92/EGK rendelet hatályon kívül helyezéséről szóló 1798/2003/EK (2003. október 7.) tanácsi rendelet 2. cikk 1. pontjában a magyar illetékes hatóságra vonatkozó rendelkezés módosításával egyidejűleg lép hatályba.
-
-(4) 2009. február 1-jén lép hatályba e törvénynek az Art. 14. §-ának (1) bekezdését, 16. §-a (4) bekezdésének c) pontját, 17. §-ának (12) bekezdését, 24/A. §-ának (1), (4), (7), (11), (12) bekezdéseit, 30. §-át, 32. §-ának (1) bekezdését, 33. §-a (3) bekezdésének c) pontját, 46. §-ának (1) bekezdését, 47. §-ának (7) bekezdését, 54. §-a (5) bekezdésének b) pontját, 92. §-ának (7) bekezdéseit, 117. §-ának (4) bekezdését, 124. §-ának (2) bekezdését, 132. §-ának (3) és (7) bekezdéseit, 154. §-át, 164. §-ának (6) bekezdését, 170. §-ának (1) és (6) bekezdéseit, 172. §-ának (3), (5) és (18)–(20) bekezdéseit módosító rendelkezése.

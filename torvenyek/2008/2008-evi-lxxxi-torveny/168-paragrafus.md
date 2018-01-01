@@ -1,9 +1,0 @@
-## KILENCEDIK RÉSZ
-
-## A SZÁMVITELRŐL ÉS A MAGYAR KÖNYVVIZSGÁLÓI KAMARÁRÓL, A KÖNYVVIZSGÁLÓI TEVÉKENYSÉGRŐL, VALAMINT A KÖNYVVIZSGÁLÓI KÖZFELÜGYELETRŐL SZÓLÓ TÖRVÉNYEKET ÉRINTŐ MÓDOSÍTÁSOK
-
-## XXI. Fejezet
-
-## A számvitelről szóló 2000. évi C. törvény módosítása
-
-168–185. §

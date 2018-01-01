@@ -1,1 +1,0 @@
-270. § Az Eb tv. 80. §-ának e törvénnyel beiktatott (5) bekezdésében előírt bejelentést 2009. április 30-áig azoknak is teljesíteni kell, akiknek a külföldön vagy a nemzetközi szervezet szociális biztonsági rendszerében fennálló biztosítása 2009. január 1-jét megelőzően jött létre.
