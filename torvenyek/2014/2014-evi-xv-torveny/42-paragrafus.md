@@ -22,7 +22,7 @@ szemben. A felsorolt szervezetek személyes adatot csak feladataik ellátásáho
 
 a) a feladatkörében eljáró ügyészséggel, továbbá a folyamatban lévő büntetőeljárás, a feljelentés kiegészítése keretében a nyomozó hatósággal,
 
-b) a büntető-, valamint polgári ügyben a bírósággal,
+b) a büntető-, polgári, valamint közigazgatási ügyben a bírósággal,
 
 c) a bírósági végrehajtás során a bírósági végrehajtóval,
 

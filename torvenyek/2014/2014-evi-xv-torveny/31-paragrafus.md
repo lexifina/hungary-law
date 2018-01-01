@@ -4,7 +4,7 @@
 
 ## 17. A vizsgálat általános szabályai
 
-31. § (1) A hivatal a Ket. hatósági ellenőrzésre vonatkozó szabályai szerint vizsgálja, hogy a nyilvántartásba vétel feltételei megvalósulnak-e
+31. § (1) A hivatal az Ákr. hatósági ellenőrzésre vonatkozó szabályai szerint vizsgálja, hogy a nyilvántartásba vétel feltételei megvalósulnak-e
 
 a) a bizalmi vagyonkezelő vállalkozások és
 

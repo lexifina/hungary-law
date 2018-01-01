@@ -4,7 +4,7 @@
 
 ## 11. A bizalmi vagyonkezelési jogviszony, és annak bejelentése
 
-18/A. § (1) A nem üzletszerűen eljáró bizalmi vagyonkezelő által kötött bizalmi vagyonkezelési szerződést közjegyzői okiratba vagy ügyvéd által ellenjegyzett magánokiratba kell foglalni.
+18/A. § (1) A nem üzletszerűen eljáró bizalmi vagyonkezelő által kötött bizalmi vagyonkezelési szerződést közjegyzői okiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 (2) Ha a bizalmi vagyonkezelést végző gazdálkodó szervezet tevékenységét nem üzletszerűen látja el,
 

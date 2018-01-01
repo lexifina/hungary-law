@@ -2,7 +2,7 @@
 
 13. § (1) A hivatal a bizalmi vagyonkezelő vállalkozások ügyfeleinek és leendő ügyfeleinek tájékoztatása, a bizalmi vagyonkezelési tevékenység végzéséhez szükséges feltételek teljesülésének vizsgálata céljából nyilvántartást vezet a bizalmi vagyonkezelő vállalkozásokról.
 
-(2) Ha az engedély kiadásáról szóló határozat jogerőre emelkedett, a hivatal a bizalmi vagyonkezelő vállalkozás (3) bekezdésben foglalt adatait bejegyzi a bizalmi vagyonkezelő vállalkozások nyilvántartásába.
+(2) Ha az engedély kiadásáról szóló határozat véglegessé vált, a hivatal a bizalmi vagyonkezelő vállalkozás (3) bekezdésben foglalt adatait bejegyzi a bizalmi vagyonkezelő vállalkozások nyilvántartásába.
 
 (3) A nyilvántartás tartalmazza:
 
@@ -20,9 +20,9 @@ ae) cégjegyzékszámát vagy ügyvédi kamarai nyilvántartási számát,
 
 af) nyilvántartási számát,
 
-b) a bizalmi vagyonkezelő vállalkozás tevékenység-végzési engedélyét kiadó határozat jogerőre emelkedésének napját,
+b) a bizalmi vagyonkezelő vállalkozás tevékenység-végzési engedélyét kiadó határozat véglegessé válásának napját,
 
-c) az engedély visszavonását elrendelő határozat jogerőre emelkedésének a napját,
+c) az engedély visszavonását elrendelő határozat véglegessé válásának a napját,
 
 d) a nyilvántartásba vétel feltételeinek vizsgálatával összefüggő – 31. § (1) bekezdése szerinti – körülményeket.
 
