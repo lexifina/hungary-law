@@ -12,36 +12,12 @@
 
 (5) Az üzembe helyező az üzembe helyezés alkalmával köteles a felhasználóval a csatlakozóvezeték és a felhasználói berendezés szakszerű használatát, a gázmérő állagmegóvási és védelmi kötelezettségét, valamint a felhasználó egyéb kötelezettségeit ismertetni.
 
-(6) A csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartására az ingatlan tulajdonosa köteles. Ennek megfelelően – a (7) bekezdésben meghatározott kivétellel – köteles gondoskodni azok rendszeres karbantartásáról, javításáról és szükség szerinti cseréjéről. A csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálatának részletes szabályait – beleértve a felülvizsgálat gyakoriságát is – az iparügyekért felelős miniszter rendelete, a műszaki-biztonsági felülvizsgálattal kapcsolatos bejelentések ügyében eljáró hatóságot kormányrendelet tartalmazza.
+(6) A csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartására az ingatlan tulajdonosa köteles. Ennek megfelelően – a (7) bekezdésben meghatározott kivétellel – köteles gondoskodni azok rendszeres karbantartásáról, javításáról és szükség szerinti cseréjéről.
 
-(6a) A gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatával kapcsolatos bejelentések ügyében eljáró hatóság döntésével szemben fellebbezésnek és újrafelvételi eljárásnak nincsen helye.
+(6a)–(6g)
 
-(6b) A gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatával kapcsolatos bejelentések ügyében eljáró hatóság az eljárása során, a műszaki-biztonsági felülvizsgálat szakszerűségének és a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági megfelelőségének megállapítására, az eljáró hatóságot irányító területi szerv által vezetett hatósági nyilvántartásban szereplő szakértőt, vagy ha nem áll rendelkezésre elegendő szakértő, igazságügyi szakértőt rendel ki.
+(7) A fogyasztói főelzáró karbantartása és javítása, valamint a csatlakozóvezeték és a fogyasztói vezeték 10 évenkénti, a csatlakozási nyomás névleges értékén szivárgás-ellenőrzéssel végzett gáztömörségi felülvizsgálata a földgázelosztó kötelessége saját költségén. Az ingatlan tulajdonosa a felülvizsgálat elvégzését köteles lehetővé tenni a földgázelosztó számára. A 10 év leteltét első alkalommal a mérő felszerelésétől, illetve cseréjétől, mérő hiánya esetén a legutolsó felülvizsgálattól, ha még nem történt felülvizsgálat, 2018. január 1-jétől kell számolni.
 
-(6c) Nem rendelhető ki szakértőként az, aki a műszaki-biztonsági felülvizsgálattal kapcsolatos bejelentések ügyében eljáró hatóság eljárásával érintett felhasználási helyen, az e törvény szerinti gáz csatlakozóvezeték- és felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenységet végzett a kirendelést megelőző 3 éven belül.
-
-(6d) A hatósági nyilvántartásban az a gázszerelő szerepelhet, aki:
-
-a) a nyilvántartásba való felvételi kérelmét a hatóság részére benyújtja,
-
-b) a gáz csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálatára jogosultak nyilvántartásában szerepel,
-
-c) az engedély megszerzésétől számított legalább egy éves szakmai gyakorlattal rendelkezik, és
-
-d) a b)–c) pont szerinti feltételek meglétét igazolja.
-
-(6e) A hatóság által vezetett hatósági nyilvántartás tartalmazza a szakértő nevét, születésének helyét és időpontját, a szakértő képesítésének megnevezését, az általa végezhető tevékenység meghatározását. A nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
-
-(6f) A nyilvántartást vezető hatóság a szakértők jegyzékét honlapján közzéteszi, mely tartalmazza a szakértő nevét, és hozzájárulása esetén értesítési címét, telefonszámát, faxszámát, elektronikus postacímét.
-
-(6g) A nyilvántartást vezető hatóság a szakértőt a nyilvántartásból törli, ha
-
-a) ezt a szakértő kéri, vagy
-
-b) a 88. § (3) bekezdése szerinti nyilvántartásból a gázszerelő törlésre kerül.
-
-(7) A fogyasztói főelzáró karbantartása és javítása, valamint egyetemes szolgáltatásra jogosult felhasználók tekintetében – igénybejelentés esetében – a csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálata a földgázelosztó kötelessége, saját költségén.
-
-(7a) A (7) bekezdés szerinti műszaki-biztonsági felülvizsgálat nem minősül a földgázelosztó e törvény szerinti engedélyköteles tevékenységének.
+(7a) A (7) bekezdés szerinti gáztömörségi felülvizsgálat kiszervezhető tevékenységnek minősül.
 
 (8)

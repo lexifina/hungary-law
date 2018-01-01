@@ -26,4 +26,4 @@ c) a szankcionálható és a nem szankcionálható mutatókat.
 
 (5) Az egyedi felhasználókat érintő mutatók be nem tartása az érintett felhasználókkal szemben szerződésszegésnek minősül, amelynek jogkövetkezményét a Hivatal állapítja meg.
 
-(6) Az (1) bekezdés szerinti határozatok kiadására irányuló, hivatalból induló hatósági eljárásban ügyfélként kizárólag az egyes engedélyesek vesznek részt.
+(6)

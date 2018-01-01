@@ -32,6 +32,8 @@ c) a 133. § (1) bekezdésének a Mód. törvénnyel megállapított 3. pontja s
 
 (14) Az (1)–(3) bekezdés szerinti szerződés 2019. szeptember 30-ig meghosszabbodik.
 
+(14) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 (15) A hatósági ár vonatkozásában a szerződésben a szerződéses árak felülvizsgálatára vagy módosítására irányadó rendelkezések nem alkalmazhatók.
 
 (16) A Felajánlási rendeletben meghatározott mennyiség az egyes szerződésekben meghatározott földgázmennyiségre vonatkozó rugalmassági szabályok figyelembevételével alkalmazandó és vehető át a hatósági ár alkalmazásával.

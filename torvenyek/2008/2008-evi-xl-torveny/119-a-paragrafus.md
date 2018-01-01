@@ -8,6 +8,6 @@ a) a szállítási rendszerüzemeltető tartósan nem tesz eleget a 119. § (1) 
 
 b) a 119. § (1) bekezdés a)–d) pontja szerinti jogkövetkezmények alkalmazása nem vezetett eredményre, valamint
 
-c) a 119. § (1) bekezdés a)–b) pontja szerinti jogkövetkezmények alapjául szolgáló határozat bírósági felülvizsgálata esetén a közigazgatási ügyekben eljáró bíróság a Hivatal határozatát helybenhagyta, vagy a Hivatal határozatának megtámadására rendelkezésre álló idő eredménytelenül telt el.
+c) a 119. § (1) bekezdés a)–b) pontja szerinti jogkövetkezmények alapjául szolgáló határozat vonatkozásában a közigazgatási bíróság a keresetet elutasította, vagy a közigazgatási per megindítására nyitva álló határidő eredménytelenül telt el.
 
 (4) A (3) bekezdés szerinti kijelölés esetén a Hivatal kötelezi a szállítóvezeték tulajdonosát a 119. § (7) bekezdésben és a 121/I. § (2) bekezdésben foglalt kötelezettségek teljesítésére, valamint a kijelölt rendszerüzemeltetőt a határozat szerinti feladatok ellátására.

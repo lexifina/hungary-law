@@ -44,7 +44,7 @@
 
 1. a műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítést és gyakorlatot, valamint az ilyen munkakörben foglalkoztatottak időszakos továbbképzésével kapcsolatos szabályokat,
 
-2. a gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeit, az e tevékenységek bejelentésének rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+2. a gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeit, az e tevékenységek bejelentésének rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
 3. a csatlakozóvezeték és a felhasználói berendezés, valamint a telephelyi vezeték létesítésének, üzembe helyezésének és üzemeltetésének műszaki-biztonsági feltételeit és az ehhez kapcsolódó műszaki biztonsági hatósági feladatokat, a műszaki biztonsági felülvizsgálatot – beleértve annak gyakoriságát is,
 
@@ -54,6 +54,6 @@
 
 6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak és a gázszerelők bejelentése esetén fizetendő díj – ideértve a jogorvoslati díjat is – mértékét és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
-(3) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálata során feltárt hibák kijavítására kötelezésre, a gáz csatlakozóvezetékek és felhasználói berendezések műszaki javításával kapcsolatos mulasztások bejelentésének kezelésére vonatkozó részletes eljárási szabályokat, valamint az eljárás során kirendelt szakértő tevékenysége folytatásának részletes feltételeit.
+(3)
 
 (4) Felhatalmazást kap a miniszter, hogy a 141/G. § szerinti ajánlattétel napját rendeletben határozza meg.

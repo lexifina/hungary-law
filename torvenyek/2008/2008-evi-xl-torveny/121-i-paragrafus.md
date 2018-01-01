@@ -42,4 +42,4 @@ e) a szállítóvezeték tulajdonosának és a földgáztároló engedélyesnek 
 
 (6) Az (5) bekezdés c) pontja alapján a vertikálisan integrált vállalkozás jóváhagyhatja a földgáztároló engedélyes éves pénzügyi tervét vagy bármely, ezzel egyenértékű eszközt, és általános korlátokat szabhat a leányvállalat eladósodásának mértékére vonatkozóan.
 
-(7) Ha a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy a független rendszerüzemeltető megfelel az e §-ban foglaltaknak, a Hivatal határozatának jogerőre emelkedését követően a 121/B. §–121/G. § nem alkalmazható.
+(7) Ha a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy a független rendszerüzemeltető megfelel az e §-ban foglaltaknak, a Hivatal eljárást lezáró határozat véglegessé válását követően a 121/B. §–121/G. § nem alkalmazható.

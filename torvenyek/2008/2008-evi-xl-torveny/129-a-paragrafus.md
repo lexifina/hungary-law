@@ -1,7 +1,9 @@
-129/A. § (1) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a földgázellátási üzemzavar vagy válsághelyzet esetén a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat kivételével – a határozatot jogosult megváltoztatni.
+129/A. § (1) Közigazgatási perben a Hivatalnak a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján a földgázellátási üzemzavar vagy válsághelyzet esetén, valamint a tanúsítási eljárásban hozott határozatát a bíróság nem változtathatja meg.
 
-(2)–(7)
+(2) A közigazgatási perben a keresetlevél halasztó hatályának elrendelésének nincs helye, ha a Hivatal határozata
 
-(8) A jogerős határozattal szemben perújítás iránti kérelem nem nyújtható be.
+a) végső menedékes kijelölési eljárásában az engedélyes jogait korlátozza, vagy annak engedélyét visszavonja, továbbá, ha végső menedékest jelöl ki,
 
-(9) Az Üzemi és Kereskedelmi Szabályzat jóváhagyására irányuló eljárásban az ügyfél jogai kizárólag az érintett engedélyeseket illetik meg.
+b) más engedélyes kijelölése érdekében a korábbi engedélyes vagy az eszköz tulajdonosának jogait, kötelezettségeit korlátozza.
+
+(3) A Hivatal véglegessé vált határozatait – az e törvény hatálya alá tartozó panaszeljárások, illetve a személyes és védett adatok kivételével – a honlapján közhírré teszi.

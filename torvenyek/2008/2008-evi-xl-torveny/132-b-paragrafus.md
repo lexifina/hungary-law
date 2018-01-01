@@ -1,1 +1,1 @@
-132/B. § Felhatalmazást kap a Kormány, hogy a csatlakozóvezetékek és a felhasználói berendezések műszaki-biztonsági felülvizsgálatával kapcsolatos bejelentések ügyében eljáró hatóságot rendeletben jelölje ki.
+### 132/B. §
