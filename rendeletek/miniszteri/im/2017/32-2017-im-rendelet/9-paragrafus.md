@@ -1,0 +1,3 @@
+9. § (1) A kirendelt védő díját a bűnügyi költségek előlegezésére vonatkozó szabályok szerint annak felmerülésekor az a bíróság, ügyész, illetve nyomozó hatóság állapítja meg és előlegezi, amelynek eljárása során az költségként felmerült.
+
+(2) Az irattanulmányozásért járó munkadíj iránti igényt a büntetőügy nyomozási, vádemelési és bírósági szakában legfeljebb egy ízben, legkorábban az irattanulmányozást követő eljárási cselekmény alkalmával annál a nyomozó hatóságnál, ügyésznél, bíróságnál kell előterjeszteni, amely előtt a büntetőügy folyamatban van. A munkadíjat ez a nyomozó hatóság, ügyész, bíróság állapítja meg és előlegezi.
