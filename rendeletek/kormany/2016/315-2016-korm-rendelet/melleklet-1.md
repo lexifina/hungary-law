@@ -1,6 +1,6 @@
-## 9–10. §[^4]
+## 9–10. §[^5]
 
-1. melléklet a 315/2016. (X. 20.) Korm. rendelethez[^5]
+1. melléklet a 315/2016. (X. 20.) Korm. rendelethez[^6]
 
 Az egyes feladatkörökhöz meghatározott végzettségek és szakképzettségek, szakirányú szakképesítések
 
@@ -195,6 +195,16 @@ c) felsőoktatásban szerzett szakképzettség és OKJ szerinti közgazdasági, 
 a) közgazdasági ágazati tevékenységet végző szakközépiskolában szerzett érettségi végzettség,
 
 b) érettségi végzettség és OKJ szerinti közgazdasági, informatikai, ügyviteli, szociális szolgáltatások, egészségügyi, rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+
+10a. Egyszerűsített hatósági ellenőrzési feladatkör
+
+Felsőfokú végzettséggel:
+
+felsőoktatásban szerzett szakképzettség
+
+Érettségi végzettséggel:
+
+érettségi végzettség
 
 11. Építésügyi feladatkör
 
@@ -852,5 +862,5 @@ a) rendészeti és közszolgálati ágazati tevékenységet végző szakközépi
 
 b) érettségi végzettség és OKJ szerinti rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
 
-[^4]: A 9–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet a 440/2016. (XII. 16.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^5]: A 9–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 440/2016. (XII. 16.) Korm. rendelet 38. §-a, a 305/2017. (X. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
