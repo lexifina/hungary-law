@@ -1,6 +1,6 @@
 ## (A Hdt. 26. §-ához)
 
-14. §[^33] (1) A hadigondozotti ügyekben
+14. §[^35] (1) A hadigondozotti ügyekben
 
 a) az elsőfokú hadigondozási hatóság a fővárosi és megyei kormányhivatal hadigondozott lakóhelye vagy tartózkodási helye szerint illetékes járási (fővárosi kerületi) hivatala,
 
@@ -14,4 +14,4 @@ b) a Hdt. 1. § (1a) bekezdésében meghatározott esetben az elsőfokú hadigon
 
 c) az a) és b) pontban meghatározott esetben a másodfokú hadigondozási hatóság a honvédelemért felelős miniszter.
 
-[^33]: Az R. 14. §-a a 489/2016. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^35]: Az R. 14. §-a a 489/2016. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

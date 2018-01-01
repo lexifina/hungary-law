@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-113-20-
 | 2016-09-01 | 1994-113-20-22.19 | 489/2016. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 1994-113-20-22.20 | 489/2016. (XII. 28.) Korm. rendelet |
 | 2017-11-01 | 1994-113-20-22.21 | 489/2016. (XII. 28.) Korm. rendelet |
+| 2018-01-01 | 1994-113-20-22.22 | 457/2017. (XII. 28.) Korm. rendelet |

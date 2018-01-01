@@ -70,7 +70,7 @@
 
 ## (rehabilitációs szakértői szerv vezetője)
 
-4. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^49]
+4. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^53]
 
 ELSŐFOKÚ HADIGONDOZÁSI HATÓSÁG RÉSZÉRE
 
@@ -104,4 +104,4 @@ Minden újonnan hadigondozásba vett személy esetén kitöltendő!
 
 * A nem kívánt szövegrész törlendő!
 
-[^49]: Az R. 4. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^53]: Az R. 4. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
