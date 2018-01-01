@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-82-00-00
 | 2016-06-16 | 2016. évi LXVI. törvény | 1991-82-00-00.36 |
 | 2016-07-01 | 2016. évi LXVI. törvény | 1991-82-00-00.37 |
 | 2017-01-01 | 2016. évi LXVI. törvény | 1991-82-00-00.38 |
+| 2018-01-01 | 2017. évi LXXVII. törvény | 1991-82-00-00.39 |

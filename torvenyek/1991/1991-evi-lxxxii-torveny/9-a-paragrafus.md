@@ -1,0 +1,1 @@
+9/A. § Az önkormányzati adóhatóságnak nem kell határozatot hoznia, ha az adóalany az adóévben – az 5. § valamely rendelkezése alapján – mentes az adó alól. Az önkormányzati adóhatóság az adóévi adómentesség tényét a nyilvántartásában rögzíti.
