@@ -2,7 +2,7 @@
 
 | ………………………………. aláírás |
 
-4. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^78]
+4. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^80]
 
 ## A jogi szakvizsga vizsgaszabályzata
 
@@ -16,7 +16,7 @@ I. Általános rendelkezések
 
 3. A vizsgáztatók a 2. pont szerinti beosztásukról, a vizsga pontos időpontjának és helyszínének megadásával a vizsga időpontját legkésőbb egy héttel megelőzően elektronikus úton kapnak értesítést; a vizsgáztatónak az értesítés megküldésétől számított két napon belül elektronikus úton jeleznie kell, hogy a vizsgán részt tud-e venni vagy a vizsgáztatást lemondja.
 
-4. A vizsgáztatónak a vizsga napján jeleznie kell a minisztérium erre kijelölt munkatársának, ha a vizsgabizottsághoz, amelynek tagja olyan jelöltet is beosztottak, akinek hozzátartozója vagy akivel munkavégzésre irányuló vagy más olyan jogviszonyban áll, amelyre tekintettel elfogultsága nem zárható ki. Ilyen jelzés esetén a jelöltet ugyanazon vizsganapra egy másik vizsgabizottsághoz kell beosztani.
+4. A vizsgáztatónak a vizsga napján jeleznie kell a minisztérium erre kijelölt munkatársának, ha a vizsgabizottsághoz, amelynek tagja, olyan jelöltet is beosztottak, akinek hozzátartozója vagy akivel olyan jogviszonyban áll, amelyre tekintettel elfogultsága nem zárható ki, valamint ha a jelölt beszámolójának tárgyilagos megítélése tőle egyéb okból nem várható el. Ilyen jelzés esetén a jelöltet ugyanazon vizsganapra egy másik vizsgabizottsághoz kell beosztani.
 
 II. Az írásbeli vizsga menete
 
@@ -88,4 +88,4 @@ e) a sikeres részvizsgáról szóló tanúsítványt a jelölt részére átadn
 
 11. A pótvizsgára, valamint a vizsgatárgyból tett ismétlő vizsgára a részvizsga menetének szabályait kell megfelelően alkalmazni.
 
-[^78]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés b) pontja iktatta be, szövege a 25/2015. (IX. 25.) IM rendelet 4. § d) pontja és 7. § c) pontja szerint módosított szöveg.
+[^80]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés b) pontja iktatta be, szövege a 25/2015. (IX. 25.) IM rendelet 4. § d) pontja és 7. § c) pontja, a 20/2017. (XII. 21.) IM rendelet 3. § (3) bekezdése szerint módosított szöveg.

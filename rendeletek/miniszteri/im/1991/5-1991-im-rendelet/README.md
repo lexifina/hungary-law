@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-5-20-06
 | 2012-11-01 | 1991-5-20-06.19 | 42/2012. (IX. 14.) KIM rendelet |
 | 2014-03-30 | 1991-5-20-06.20 | 12/2014. (II. 28.) KIM rendelet |
 | 2015-10-01 | 1991-5-20-06.21 | 25/2015. (IX. 25.) IM rendelet |
+| 2018-01-01 | 1991-5-20-06.22 | 20/2017. (XII. 21.) IM rendelet |
