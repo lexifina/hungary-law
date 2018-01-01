@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-11-20-2
 | 2015-01-02 | 2012-11-20-2T.8 | 20/2014. (XII. 23.) IM rendelet |
 | 2015-01-03 | 2012-11-20-2T.9 | 2010: CXXX. törvény |
 | 2017-04-04 | 2012-11-20-2T.10 | 3/2017. (IV. 3.) IM rendelet |
+| 2018-01-01 | 2012-11-20-2T.11 | 20/2017. (XII. 21.) IM rendelet |

@@ -8,8 +8,10 @@
 
 1.2. ideje
 
-2. Az okirati tanúk adatai, ha a Pp. 196. § (1) bekezdés b) pontja szerinti formában terjesztik elő a kérelmet:
+2.[^77] Az okirati tanúk adatai, ha a Pp. 325. § (1) bekezdés b) pontja szerinti formában terjesztik elő a kérelmet:
 
 2.1. neve
 
 2.2. címe
+
+[^77]: A 39. melléklet 2. pontja a 20/2017. (XII. 21.) IM rendelet 36. §-a szerint módosított szöveg.
