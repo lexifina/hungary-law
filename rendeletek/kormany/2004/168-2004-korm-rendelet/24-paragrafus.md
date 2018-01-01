@@ -1,6 +1,6 @@
 ## A keretszerződés, a keretmegállapodás és a szerződés
 
-24. §[^58] (1) A központosított közbeszerzési eljárás eredményeképpen keretmegállapodás vagy keretszerződés [közbeszerzési törvény 104–105. §], a keretmegállapodás vagy keretszerződés alapján egyedi szerződés jön létre.
+24. §[^59] (1) A központosított közbeszerzési eljárás eredményeképpen keretmegállapodás vagy keretszerződés [közbeszerzési törvény 104–105. §], a keretmegállapodás vagy keretszerződés alapján egyedi szerződés jön létre.
 
 (2) A keretmegállapodást vagy keretszerződést a központi beszerző szervezet köti az összesített intézményi igények alapján lebonyolított nyílt, meghívásos, vagy amennyiben a tárgyalásos eljárás alkalmazásának a közbeszerzési törvény 85. § (2) bekezdése, illetve 98. § (2)–(5) bekezdése szerinti feltételei fennállnak, tárgyalásos közbeszerzési eljárás, továbbá a közbeszerzési törvény 90. § (3) bekezdésére tekintettel a közbeszerzési törvény 85. § (2) bekezdésében meghatározott feltételek fennállása esetén versenypárbeszéd eredményeként.
 
@@ -46,4 +46,4 @@ g) a keretmegállapodáson alapuló egyedi szerződés megkötésére irányuló
 
 h) az intézményeknek és a szállítóknak a keretmegállapodással és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségére vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket.
 
-[^58]: A 24. § a 323/2015. (X. 30.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^59]: A 24. § a 323/2015. (X. 30.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
