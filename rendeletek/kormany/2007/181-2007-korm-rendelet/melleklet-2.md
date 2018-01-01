@@ -1,4 +1,4 @@
-2. melléklet a 181/2007. (VII. 6.) Korm. rendelethez[^23]
+2. melléklet a 181/2007. (VII. 6.) Korm. rendelethez[^26]
 
 AKKREDITÁCIÓS TANÚSÍTVÁNY
 
@@ -32,7 +32,7 @@ Székhely:
 
 További azonosító adatai:
 
-– Cégjegyzékszám/Nyilvántartási szám:
+– Cégjegyzékszám/Nyilvántartási szám/Törzskönyvi azonosító szám:
 
 – Adószám:
 
@@ -60,4 +60,4 @@ elnöke
 
 * A szögletes zárójelben található szövegrészt csak a kérelemre induló eljárás során kiállított akkreditációs tanúsítványnak kell tartalmaznia.
 
-[^23]: A 2. melléklet a 182/2009. (IX. 10.) Korm. rendelet 551. §-a, a 303/2010. (XII. 23.) Korm. rendelet 10. § (4) bekezdés c) pontja, a 80/2014. (III. 14.) Korm. rendelet 16. § d) pontja, a 381/2014. (XII. 31.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
+[^26]: A 2. melléklet a 182/2009. (IX. 10.) Korm. rendelet 551. §-a, a 303/2010. (XII. 23.) Korm. rendelet 10. § (4) bekezdés c) pontja, a 80/2014. (III. 14.) Korm. rendelet 16. § d) pontja, a 381/2014. (XII. 31.) Korm. rendelet 12. § f) pontja, a 457/2017. (XII. 28.) Korm. rendelet 192. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
