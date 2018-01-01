@@ -1,3 +1,27 @@
 ## 37. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
-84. §
+84. § A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 90/C. §-a helyébe a következő rendelkezés lép:
+
+„90/C. § (1) Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.) védekezés céljából készült irat védelmére vonatkozó rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
+
+(2) A helyszíni kutatás során birtokba vehető az irat az Üttv. 13. § (5) bekezdésében foglalt eseten kívül akkor is, ha
+
+a) arról kutatási másolat készül vagy
+
+b) az eljárási cselekménynél kizárólag olyan érintett volt jelen, aki az iratok védekezés céljából készült iratkénti minősülésére vonatkozó nyilatkozat megtétele körében az ügyfél vagy az érintett ügyvéd képviseletére nem volt jogosult.
+
+(3) Ha a helyszíni kutatást végző személy nem ért egyet az irat védekezés céljából készült iratként való minősítésére vonatkozó nyilatkozattal, továbbá a (2) bekezdés szerinti esetben, az iratot, vagy az azt tartalmazó kutatási másolatot olyan, az Üttv. 13. § (5) bekezdése szerinti tárolóeszközben kell elhelyezni, amelyet az érintett és a helyszíni kutatást végző személy aláírásukkal hitelesítve úgy zár le, hogy a hitelesítés sérelme nélkül a tárolóeszköz felnyitása ne legyen lehetséges (a továbbiakban: zárt tárolóeszköz).
+
+(4) A (2) bekezdés a) és b) pontja szerinti esetekben az érintett ügyfelet fel kell hívni arra, hogy – az irat vagy iratrész pontos megjelölésével – nyilatkozzon arról, hogy a birtokba vett iratok között van-e olyan, amelyik védekezés céljából készült iratnak minősül. Az érintett ügyfelet egyidejűleg értesíteni kell arról, hogy az általa ilyen iratnak minősített iratok tekintetében a (7) bekezdés szerinti vizsgálati cselekményre kerül sor. Az értesítésben közölni kell a vizsgálati cselekmény időpontját, várható időtartamát és helyét, és azt az érintett ügyféllel úgy kell közölni, hogy a nyilatkozat megtételére legalább nyolc nap rendelkezésére álljon.
+
+(5) A zárt tárolóeszközt felnyitni, az abban elhelyezett iratot, illetve a kutatási másolatot megvizsgálni csak azt követően lehet, hogy a (4) bekezdés szerinti nyilatkozat megtételére rendelkezésre álló határidő eltelt. Ha az ügyfél a határidőn belül úgy nyilatkozott, hogy a tárolóeszköz védekezés céljából készült iratot tartalmaz, illetve a kutatási másolaton ilyen irat van, akkor a zárt tárolóeszközt csak a (7), illetve (10) bekezdés szerinti vizsgálati cselekmény során lehet felnyitni, és a vizsgálati cselekmény lefolytatását követően a kutatási másolatot ismételten zárt tárolóeszközben kell elhelyezni.
+
+(6) Nem kezelhető védekezés céljából készült iratként az olyan irat, amelyre vonatkozóan az érintett ügyfél az iratnak az MNB általi birtokbavételekor vagy a (4) bekezdés szerinti nyilatkozattételre előírt határidőn belül nem tett ilyen nyilatkozatot. A (4) bekezdés szerinti nyilatkozattételi határidő elmulasztása miatt igazolási kérelem benyújtásának nincs helye.
+
+(7) Ha az érintett ügyfél nyilatkozata szerint a birtokba vett iratok között védekezés céljából készült irat is van, az ilyen iratokat az érintett ügyfél jelenlétében – kutatási másolat esetében az adatok szétválasztását lehetővé tevő másolat (a továbbiakban: köztes munkamásolat) használatával – külön kell válogatni, és a védekezés céljából készült iratot az érintett ügyfélnek ki kell adni, illetve a köztes munkamásolatról védekezés céljából készült iratot nem tartalmazó vizsgálati munkamásolatot kell készíteni, és ezt követően a köztes munkamásolatot a másolatot tartalmazó adathordozó fizikai megsemmisítésével vagy az adatoknak a helyreállításukat lehetetlenné tévő eljárással való törlésével haladéktalanul meg kell semmisíteni. Ha az ügyfél nyilatkozatával ellentétben a helyszíni kutatást végző személy álláspontja szerint az irat nem minősül védekezés céljából készült iratnak, a vitatott iratot, illetve az azt tartalmazó köztes munkamásolatot zárt tárolóeszközben kell elhelyezni. A szabályszerűen értesített érintett ügyfél távolmaradása a vizsgálati cselekmény foganatosításának nem akadálya.
+
+(8) Az irat minősítése kérdésében indított bírósági nemperes eljárás esetén az MNB kérelméhez az iratot, vagy az azt tartalmazó köztes munkamásolatot tartalmazó zárt tárolóeszközt mellékeli, feltéve, hogy a tárolóeszköz a méreteinél és súlyánál fogva arra alkalmas.
+
+(9) Ha a köztes munkamásolaton szereplő iratok tekintetében, illetve akkor, ha az irat szétválasztása a bizonyító erő sérelme nélkül nem lehetséges, a bíróság végzésében meghatározza, hogy mely irat, illetve az irat mely része minősül védekezés céljából készült iratnak, a köztes munkamásolatot, illetve az iratot pedig zárt tárolóeszközben – a (8) bekezdésben foglalt korlátozással – az MNB-nek adja ki.
+
+(10) A (9) bekezdés szerint az MNB-nek kiadott zárt tárolóeszközt felnyitni, az abban foglalt adatokat megvizsgálni csak a köztes munkamásolatról védekezés céljából készült iratot nem tartalmazó vizsgálati munkamásolat készítése, illetve az irat védekezés céljából készült iratnak nem minősülő részének megvizsgálása céljából, az érintett ügyfél jelenlétében lehet, és ezt követően az iratot az ügyfélnek ki kell adni, illetve a köztes munkamásolatot a másolatot tartalmazó adathordozó fizikai megsemmisítésével vagy az adatoknak a helyreállításukat lehetetlenné tévő eljárással való törlésével haladéktalanul meg kell semmisíteni. Az ügyfelet legalább három nappal megelőzően értesíteni kell az ilyen vizsgálati cselekmény időpontjáról, várható időtartamáról és helyéről. A szabályszerűen értesített ügyfél távolmaradása a vizsgálati cselekmény foganatosításának nem akadálya.”

@@ -1,0 +1,3 @@
+16. § A Kjtv. 120. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A tervezeten eszközölt változtatás és kiegészítés szövegének kivételével mellőzhető a felek által rendelkezésre bocsátott írásbeli tervezet felhasználásával készített közjegyzői okirat felolvasása, ha a jogi képviselővel eljáró jogi személy felek a közjegyző előtt együttesen kijelentik, hogy az okirat tervezetét megismerték és ezért kérik az okirat felolvasásának mellőzését. A felolvasás mellőzése nem érinti a közjegyzői okirat készítésével kapcsolatban előírt egyéb kötelezettségek teljesítését. Nincs lehetőség a felolvasás mellőzésére, ha a felek bármelyike a 124. § a)–c) pontjában megjelölt személy.”

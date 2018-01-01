@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-136-00-00
 | 2017-11-18 | 2017. évi CXXXVI. törvény | 2017-136-00-00.0 (közlönyállapot) |
 | 2017-11-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-136-00-00.1 |
 | 2017-11-19 | 2010. évi CXXX. törvény | 2017-136-00-00.2 |
+| 2018-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-136-00-00.3 |
