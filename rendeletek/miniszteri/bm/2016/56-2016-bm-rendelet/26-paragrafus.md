@@ -7,3 +7,7 @@
 (2) Az 5. § (1) bekezdése szerinti átminősítés vagy új álláshely létrehozása az Országgyűlési Őrség feladata. E rendelkezés nem zárja ki, hogy a vezényeltet fogadó rendvédelmi feladatokat ellátó szerv felajánlja, hogy a vezényeltet fogadó rendvédelmi feladatokat ellátó szervnél kerüljön sor az átminősítésre vagy új álláshely létrehozására.
 
 (3) A 23. § (1) bekezdésében szabályozott eljárásban a vezényeltet fogadó szerv humánigazgatási szakszolgálata együttműködik a humánigazgatási szakszolgálattal.
+
+(4)[^7] Az (1)–(3) bekezdés rendelkezéseit a Hszt. 51. § (3) bekezdés a) pontja alapján a Nemzeti Közszolgálati Egyetemre vezényeltekre is megfelelően alkalmazni kell.
+
+[^7]: A 26. § (4) bekezdését a 40/2017. (XII. 29.) BM rendelet 17. § (3) bekezdése iktatta be.
