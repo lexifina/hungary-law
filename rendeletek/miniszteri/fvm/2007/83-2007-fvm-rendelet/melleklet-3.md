@@ -20,7 +20,7 @@
 
 | Az átvevő roma |  | 3 pont |
 
-| Termelői szervezeti tagság az átvevő tagsága | Az MVH honlapján közzétett formanyomtatványon benyújtott elismert termelői csoport, zöldség-gyümölcs termelői csoport vagy termelői szervezet által kiadott igazolást arról, hogy az átvevő a csoport tagja. | 4 pont |
+| Termelői szervezeti tagság az átvevő tagsága | A Kincstár honlapján közzétett formanyomtatványon benyújtott elismert termelői csoport, zöldség-gyümölcs termelői csoport vagy termelői szervezet által kiadott igazolást arról, hogy az átvevő a csoport tagja. | 4 pont |
 
 | Az átvevő végzettsége | A 113/2009. (VIII. 29.) FVM rendelet 2–4. számú mellékleteiben meghatározott felsőfokú agrár végzettség. Csatolni kell a felsőfokú oktatási intézményben szerzett oklevél, diploma hiteles másolatát. | 10 pont |
 
@@ -28,7 +28,7 @@
 
 | Összesen maximum: |  | 70 pont |
 
-3. számú melléklet a 83/2007. (VIII. 10.) FVM rendelethez[^50]
+3. számú melléklet a 83/2007. (VIII. 10.) FVM rendelethez[^44]
 
 A támogatás iránti kérelemhez szükséges igazolások listája
 
@@ -40,7 +40,7 @@ A támogatás iránti kérelemhez szükséges igazolások listája
 
 1.1.2. őstermelői igazolvány hiteles másolata az értékesítési betétlapokkal együtt,
 
-1.1.3.[^51] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által a falugazdász a tevékenysége során szerzett információja alapján a kérelmező mezőgazdasági termelő tevékenység folytatásáról kiadott hatósági bizonyítványa,
+1.1.3.[^45] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által a falugazdász a tevékenysége során szerzett információja alapján a kérelmező mezőgazdasági termelő tevékenység folytatásáról kiadott hatósági bizonyítványa,
 
 1.1.4. munkavállalóként végzett mezőgazdasági termelő tevékenység igazolása a munkakör megjelölését is tartalmazó munkaszerződés másolatával vagy egyéb dokumentummal,
 
@@ -56,5 +56,5 @@ A támogatás iránti kérelemhez szükséges igazolások listája
 
 3.1. Az 5. § (4) bekezdés c) pontjában meghatározott végzettséget igazoló dokumentum hiteles másolata.
 
-[^50]: A 3. számú melléklet a 23/2010. (III. 16.) FVM rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^51]: A 3. számú melléklet 1.1.3. pontja a 70/2013. (VII. 31.) VM rendelet 68. § c) pontja szerint módosított szöveg.
+[^44]: A 3. számú melléklet a 23/2010. (III. 16.) FVM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^45]: A 3. számú melléklet 1.1.3. pontja a 70/2013. (VII. 31.) VM rendelet 68. § c) pontja szerint módosított szöveg.
