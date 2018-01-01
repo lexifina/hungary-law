@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-180-20-
 | 2016-01-01 | 2010-180-20-22.10 | 254/2013. (VII. 5.) Korm. rendelet |
 | 2017-01-01 | 2010-180-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-01-02 | 2010-180-20-22.12 | 464/2016. (XII. 23.) Korm. rendelet |
+| 2018-01-01 | 2010-180-20-22.13 | 254/2013. (VII. 5.) Korm. rendelet |

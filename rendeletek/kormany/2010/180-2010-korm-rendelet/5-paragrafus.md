@@ -12,6 +12,9 @@ d) új eszközt igénylő kérelem esetében a befogadási kérelem tárgyát k�
 
 (3)[^8] A kérelmező a kérelmet vagy a személyét érintő adataiban bekövetkezett változásokról haladéktalanul értesíti a NEAK-ot.
 
+(4)[^9] Ha a kérelem a jogszabályban foglalt követelményeknek nem felel meg, vagy megfelel, azonban a tényállás tisztázása során felmerült új adatra tekintettel szükséges, a NEAK a kérelmezőt – szükség esetén két alkalommal – hiánypótlásra hívja fel.
+
 [^6]: Az 5. § a 254/2013. (VII. 5.) Korm. rendelet 41. §-ával megállapított szöveg.
 [^7]: Az 5. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 159. § (2) bekezdés e) pontja szerint módosított szöveg.
 [^8]: Az 5. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 159. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^9]: Az 5. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 306. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
