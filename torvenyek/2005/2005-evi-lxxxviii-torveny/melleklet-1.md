@@ -8,7 +8,7 @@ A fogadó szervezet és az adatmódosítás bejelentésére szolgáló adatlapok
 
 3. A fogadó szervezet telephelye, telefonszáma, elektronikus levélcíme vagy más olyan, a kapcsolat felvételéhez szükséges adata, amelynek nyilvántartásba való felvételét kéri.
 
-4. Az önkéntesek közreműködésével ellátni kívánt tevékenységi körök és tevékenységek, valamint a fogadó szervezet nyilatkozata arról, hogy ezek a tevékenységi körök és tevékenységek megfelelnek a 3. §-ban foglaltaknak.
+4. Az önkéntesek közreműködésével ellátni kívánt tevékenységi körök és tevékenységek, bejelentéshez vagy engedélyhez kötött tevékenységek esetén annak adatai, valamint a fogadó szervezet nyilatkozata arról, hogy ezek a tevékenységi körök és tevékenységek megfelelnek a 3. §-ban foglaltaknak.
 
 5. A fogadó szervezet nyilatkozata arról, hogy a fogadó szervezet kíván-e
 

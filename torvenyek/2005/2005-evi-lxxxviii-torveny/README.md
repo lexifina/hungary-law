@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-88-00-00
 | 2016-07-01 | 2016. évi XXXII. törvény | 2005-88-00-00.20 |
 | 2016-12-22 | 2016. évi CLXVI. törvény | 2005-88-00-00.21 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2005-88-00-00.22 |
+| 2018-01-01 | 2017. évi L. törvény | 2005-88-00-00.23 |

@@ -1,4 +1,4 @@
-13. § (1) Ha a munkaügyi hatóság vagy a munkavédelmi hatóság, az adóhatóság, a fogadó szervezet szakmai vagy törvényességi ellenőrzését, illetve felügyeletét ellátó szerv észleli, hogy a fogadó szervezet a bejelentési kötelezettségének nem tett eleget, erről a fogadó szervezet nevének, székhelyének és adószámának megjelölésével értesíti a minisztert.
+13. § (1) Ha a munkavédelmi hatóság, az adóhatóság, a fogadó szervezet szakmai vagy törvényességi ellenőrzését, illetve felügyeletét ellátó szerv észleli, hogy a fogadó szervezet a bejelentési kötelezettségének nem tett eleget, erről a fogadó szervezet nevének, székhelyének és adószámának megjelölésével értesíti a minisztert.
 
 (2) Ha a miniszter tudomására jut, hogy a fogadó szervezet a bejelentési kötelezettségének nem tett eleget, felhívja a fogadó szervezetet a kötelezettség teljesítésére.
 

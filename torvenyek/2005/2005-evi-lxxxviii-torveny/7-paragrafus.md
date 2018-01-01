@@ -12,7 +12,7 @@ e) közös megegyezéssel történő megszüntetéssel,
 
 f) felmondással,
 
-g) az önkéntesek foglalkoztatásának – a 13. § (3) bekezdése szerinti – megtiltásáról rendelkező határozat jogerőre emelkedésével.
+g) az önkéntesek foglalkoztatásának – a 13. § (3) bekezdése szerinti – megtiltásáról rendelkező határozat véglegessé válásával.
 
 (2) Az önkéntes szerződést – ha jogszabály vagy az önkéntes szerződés másként nem rendelkezik – bármelyik fél azonnali hatállyal felmondhatja.
 

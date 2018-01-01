@@ -4,29 +4,29 @@
 
 (3) A bejelentéshez csatolni kell
 
-a) helyi önkormányzatok társulása esetén a társulási megállapodás másolatát;
+a) helyi önkormányzatok társulása esetén a társulási megállapodás másolatát,
 
-b) civil szervezet és közhasznú szervezet esetén
+b) nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolás másolatát,
 
-ba) a hatályos létesítő okirat másolatát, és
+c) civil szervezet, közalapítvány vagy közhasznú szervezet esetén a fogadó szervezet hatályos létesítő okiratának másolatát,
 
-bb) a fogadó szervezet adatairól a nyilvántartást vezető bíróság által kiállított, harminc napnál nem régebbi kivonatot, a cégkivonat kivételével;
+d) nem költségvetési szervként működő nyilvános könyvtár, közlevéltár és nyilvános magánlevéltár esetén az alapító okirat másolatát,
 
-c) nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolás másolatát,
+e) nem költségvetési szervként működő közművelődési intézmény esetén a létesítő okirat másolatát vagy a közművelődési megállapodás másolatát.
 
-d) egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változás-bejelentésről kiadott, az egyéni vállalkozó hatályos adatait tartalmazó igazolás (igazolások) másolatát, vagy az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, harminc napnál nem régebbi hatósági bizonyítványt;
+(4) Ha a fogadó szervezet
 
-e) fogadó intézmény, illetve annak fenntartója esetén annak igazolását, hogy a fogadó intézmény jogszerűen működik.
+a) civil szervezet vagy közalapítvány, a miniszter a civil és egyéb, bírósági bejegyzéssel létrejött, cégnek nem minősülő szervezetek országos névjegyzékéből beszerzi, illetve ellenőrzi a fogadó szervezet bírósági nyilvántartásba vett adatait,
 
-(4) Ha a bejelentéshez
+b) egyházi jogi személy, a miniszter a bevett egyházak nyilvántartásából beszerzi, illetve ellenőrzi a fogadó szervezet adatait, illetve nyilvántartásba nem vett belső egyházi jogi személy esetén a bevett egyház és a (3) bekezdés b) pontja nyilatkozatot kiállító belső egyházi jogi személy adatait,
 
-a) a civil szervezet, közhasznú szervezet nem csatolta a (3) bekezdés b) pont bb) alpontja szerinti iratot, a miniszter a civil szervezet, közhasznú szervezet bírósági nyilvántartásba vett adatait a civil és egyéb, bírósági bejegyzéssel létrejött, cégnek nem minősülő szervezetek országos névjegyzékéből szerzi be, illetve ellenőrzi,
+c) cég, a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel beszerzi a fogadó szervezet cégkivonatát,
 
-b) az egyéni vállalkozó nem csatolta a (3) bekezdés d) pontja szerinti iratot, a miniszter az adatokat az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi.
+d) egyéni vállalkozó, a miniszter az egyéni vállalkozók nyilvántartásából beszerzi, illetve ellenőrzi az egyéni vállalkozó adatait,
 
-(4a) A bejelentést benyújtó egyházi jogi személy adatait, a (3) bekezdés c) pontja szerinti esetben pedig a bevett egyház és a nyilatkozatot kiállító személy adatait a miniszter a bevett egyházak nyilvántartásából szerzi be, illetve ellenőrzi.
+e) vagy a fogadó intézmény bejelentéshez vagy engedélyhez kötött tevékenység keretében kíván önkéntest foglalkoztatni, a miniszter a hatóságtól beszerzi a bejelentés, illetve az engedély adatait.
 
-(4b) A cégjegyzékben nyilvántartott fogadó szervezet cégkivonatát a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
+(4a)–(4b)
 
 (5)
 
