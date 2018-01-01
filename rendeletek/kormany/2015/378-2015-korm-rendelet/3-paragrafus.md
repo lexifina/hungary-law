@@ -1,4 +1,4 @@
-## 2. § Az ideiglenes begyűjtési ellátást és a rendkívüli ellátást megelőzően a településen közszolgáltatást végző gazdálkodó szervezet a folyamatos ellátás biztosítása érdekében – a személyes adatok kivételével – az ideiglenes begyűjtési ellátáshoz vagy a rendkívüli ellátáshoz kapcsolódó, a nem közművel összegyűjtött háztartási szennyvíz szállításához, ürítéséhez és kezelésre történő átadásához szükséges adatokat a katasztrófavédelmi szerv részére annak felhívására haladéktalanul átadja.
+## 2/A. §[^1] Ha jogszabály eltérően nem rendelkezik, az e rendelet hatálya alá tartozó eljárásokban az ügyintézési határidő 25 nap.
 
 ## 2. Az ideiglenes begyűjtési ellátás
 
@@ -41,3 +41,5 @@ e) az ideiglenes begyűjtési ellátást megelőzően a településen közszolg�
 (7) Az ideiglenes begyűjtési ellátásra történő kijelölés időtartama a kijelölés meghosszabbítása esetén sem haladhatja meg a három évet.
 
 (8) Az ideiglenes begyűjtési ellátásra kijelölt közérdekű szolgáltató a kijelölését követő 8 napon belül egyeztet az érintett települések víziközmű szolgáltatóival és önkormányzataival az átadási helyek és kapacitások biztosítása érdekében, valamint a közműcsatlakozással nem rendelkező ingatlanok számáról és elhelyezkedéséről. Az egyeztetés sikertelensége esetén a kijelölt közérdekű szolgáltató értesíti a kijelölő katasztrófavédelmi szervet.
+
+[^1]: A 2/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 552. §-a iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
