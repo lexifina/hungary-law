@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-18-00-00
 | 2016-12-23 | 2016. évi CLXXXVII. törvény | 2004-18-00-00.31 |
 | 2017-01-01 | 2016. évi CXXIX. törvény | 2004-18-00-00.32 |
 | 2017-08-01 | 2016. évi CXXIX. törvény | 2004-18-00-00.33 |
+| 2018-01-01 | 2017. évi L. törvény | 2004-18-00-00.34 |
