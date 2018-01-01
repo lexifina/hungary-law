@@ -1,1 +1,0 @@
-## 11. § A bizalmi felügyelet az eIDAS Rendelet 21. cikk (2) bekezdés második albekezdése szerinti esetben a bizalmi listán haladéktalanul feltünteti a minősített bizalmi szolgáltatót és az általa nyújtott minősített bizalmi szolgáltatást.
