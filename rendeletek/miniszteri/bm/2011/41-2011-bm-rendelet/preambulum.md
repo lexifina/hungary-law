@@ -1,1 +1,0 @@
-A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 35. § (2) bekezdés h) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
