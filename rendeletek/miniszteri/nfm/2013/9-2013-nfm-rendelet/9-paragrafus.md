@@ -1,7 +1,5 @@
-## 5. A súlyos üzemzavar egyszerűsített vizsgálata
+## 8. §
 
-## 9. § A bányafelügyelet a vizsgálatot a helyszíni szemle és a gazdálkodó szervezet által 15 napon belül elvégzett vizsgálatról készített jelentés alapján lezárhatja, ha
+## 5.[^8]
 
-a) a súlyos üzemzavar balesetet nem okozott, vagy a súlyos üzemzavar tervszerű üzemi tevékenység során következett be, és
-
-b) a vizsgálat a súlyos üzemzavar okát feltárta és az újabb súlyos üzemzavar elkerülése érdekében a bányafelügyelet intézkedése nem szükséges.
+[^8]: Az 5. alcímet (9. §) az 52/2017. (XII. 22.) NFM rendelet 26. § c) pontja hatályon kívül helyezte.

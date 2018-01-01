@@ -1,5 +1,5 @@
-7. § (1) A bányafelügyelet a vizsgálat során megtilthatja, korlátozhatja vagy feltételekhez kötheti a tevékenység folytatását.
-
-(2) A bányafelügyelet a vizsgálatot más hatóság vizsgálatától függetlenül végzi, azonban az eljárás során a más hatósággal való együttműködést biztosítania kell.
+7. § (1)–(2)[^6]
 
 (3) Az engedélyes köteles gondoskodni a vizsgálattal kapcsolatban felmerült szállítási, tárolási, őrzési feladatok teljesítéséről.
+
+[^6]: A 7. § (1)–(2) bekezdését az 52/2017. (XII. 22.) NFM rendelet 26. § b) pontja hatályon kívül helyezte.
