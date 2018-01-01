@@ -6,6 +6,11 @@ b) tanügy-igazgatási szolgáltatás köréből a konfliktushelyzetekhez kapcso
 
 c) szaktanácsadás keretében történő segítségnyújtást ahhoz, hogy a nevelési-oktatási intézmény vezetői, alkalmazottai, szülői szervezete, diákönkormányzata megismerje azokat az eljárásokat, gyakorlatokat, amelyekkel megelőzhető a konfliktushelyzetek kialakulása, illetve amelyekkel feloldhatók a konfliktushelyzetek, orvosolhatók a sérelmek.
 
-(2) Szaktanácsadó az lehet, aki az Nkt. 3. mellékletében meghatározott feltételeknek megfelel, pedagógus szakvizsgával rendelkezik, köznevelési intézményben pedagógus-munkakörben legalább tíz éves szakmai gyakorlatot szerzett és szakirányú tanári szakképzettség megszerzésekor vagy szakirányú továbbképzés keretében részt vett konfliktuskezelés ismereteire történő felkészítésben, vagy pedagógiai szakpszichológus, tanácsadó szakpszichológus, klinikai szakpszichológus, szociálpedagógus,szakképzettséggel, vagy pszichológia mesterszakon klinikai és egészségpszichológia, tanácsadás és iskolapszichológia, fejlődés- és klinikai gyermekpszichológia, interperszonális és interkulturális pszichológia, pszichopedagógia szakirányon szerzett szakképzettséggel rendelkezik.
+(2)[^29] Szaktanácsadó az lehet, aki
+
+a) az Nkt. 3. mellékletében meghatározott feltételeknek megfelel, pedagógus szakvizsgával rendelkezik, köznevelési intézményben pedagógus-munkakörben legalább tízéves szakmai gyakorlatot szerzett és szakirányú tanári szakképzettség megszerzésekor vagy szakirányú továbbképzés keretében részt vett konfliktuskezelés ismereteire történő felkészítésben, vagy pedagógiai szakpszichológus, tanácsadó szakpszichológus, klinikai szakpszichológus, szociálpedagógus szakképzettséggel, vagy pszichológia mesterszakon klinikai és egészségpszichológia, tanácsadás és iskolapszichológia, fejlődés- és klinikai gyermekpszichológia, interperszonális és interkulturális pszichológia, pszichopedagógia szakirányon szerzett szakképzettséggel rendelkezik, vagy
+
+b) tízéves pedagógus munkakörben szerzett gyakorlattal rendelkezik, és elvégezte az adott szakterületre vonatkozó, a Hivatal szervezésében lebonyolított szaktanácsadói továbbképzést.
 
 [^28]: A 13. § (1) bekezdés nyitó szövegrésze a 26/2015. (V. 22.) EMMI rendelet 16. § d) pontja szerint módosított szöveg.
+[^29]: A 13. § (2) bekezdése a 24/2017. (X. 3.) EMMI rendelet 18. §-ával megállapított szöveg.
