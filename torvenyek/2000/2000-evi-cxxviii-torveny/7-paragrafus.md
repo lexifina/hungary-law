@@ -2,4 +2,4 @@
 
 (1a) A közlekedési igazgatási hatóság (1) bekezdés alapján hozott határozatával szemben fellebbezésnek helye nincs.
 
-(2) Az (1) bekezdés alapján hozott határozat jogerőre emelkedésekor nyilvántartott pontokat a közlekedési igazgatási hatóság törli.
+(2) Az (1) bekezdés alapján hozott határozat véglegessé válásakor nyilvántartott pontokat a közlekedési igazgatási hatóság törli.
