@@ -1,6 +1,6 @@
-## 9. §[^7] E rendeletnek a víziközmű ágazatot érintő európai uniós derogációkkal kapcsolatos kötelezettségek teljesítését elősegítő egyes Korm. rendeletek módosításáról szóló 370/2016. (XI. 29.) Korm. rendelettel [a továbbiakban: 370/2016. (XI. 29.) Korm. rendelet] megállapított rendelkezéseit a 370/2016. (XI. 29.) Korm. rendelet hatálybalépésekor[^8] folyamatban lévő ügyekben is alkalmazni kell.
+## 9. §[^8] E rendeletnek a víziközmű ágazatot érintő európai uniós derogációkkal kapcsolatos kötelezettségek teljesítését elősegítő egyes Korm. rendeletek módosításáról szóló 370/2016. (XI. 29.) Korm. rendelettel [a továbbiakban: 370/2016. (XI. 29.) Korm. rendelet] megállapított rendelkezéseit a 370/2016. (XI. 29.) Korm. rendelet hatálybalépésekor[^9] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 29/2013. (II. 12.) Korm. rendelethez[^9]
+1. melléklet a 29/2013. (II. 12.) Korm. rendelethez[^10]
 
 ## A kiemelt jelentőségű ügyek alapját képező szennyvíz-elvezetési és -tisztítási beruházások
 
@@ -780,6 +780,6 @@
 
 | 90. | BUDAKALÁSZ VÁROS ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0064 |
 
-[^7]: A 9. §-t a 370/2016. (XI. 29.) Korm. rendelet 3. §-a iktatta be.
-[^8]: A hatálybalépés időpontja 2016. november 30.
-[^9]: Az 1. melléklet a 357/2013. (X. 8.) Korm. rendelet 2. §-a, a 84/2014. (III. 14.) Korm. rendelet 2. §-a, a 231/2014. (IX. 5.) Korm. rendelet 2–3. §-a, a 307/2014. (XII. 5.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^8]: A 9. §-t a 370/2016. (XI. 29.) Korm. rendelet 3. §-a iktatta be.
+[^9]: A hatálybalépés időpontja 2016. november 30.
+[^10]: Az 1. melléklet a 357/2013. (X. 8.) Korm. rendelet 2. §-a, a 84/2014. (III. 14.) Korm. rendelet 2. §-a, a 231/2014. (IX. 5.) Korm. rendelet 2–3. §-a, a 307/2014. (XII. 5.) Korm. rendelet 6. §-a szerint módosított szöveg.
