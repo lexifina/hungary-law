@@ -18,7 +18,7 @@
 
 (8) A meghallgatáson a harmadik országbeli állampolgár, illetve az idegenrendészeti hatóság a bizonyítékait írásban előterjesztheti vagy szóban előadhatja. A jelenlevőknek módot kell adni arra, hogy a bizonyítékokat megismerjék. Ha a harmadik országbeli állampolgár vagy az indítványozó idegenrendészeti hatóság képviselője nem jelent meg, de az észrevételét írásban benyújtotta, azt a bíróság ismerteti.
 
-(9) A bíróság határozatát az érintett harmadik országbeli állampolgárral és az idegenrendészeti hatósággal kell közölni. Ha a harmadik országbeli állampolgárnak meghatalmazott jogi képviselője van, vagy számára ügygondnokot jelöltek ki, a határozatot vele is közölni kell. A határozatot kihirdetés útján kell közölni, és azt az írásba foglalást követően nyomban kézbesíteni is kell.
+(9) A bíróság határozatát az érintett harmadik országbeli állampolgárral és az idegenrendészeti hatósággal kell közölni. Ha a harmadik országbeli állampolgárnak meghatalmazott jogi képviselője van, vagy számára ügygondnokot jelöltek ki, a határozatot vele is közölni kell. A meghallgatáson hozott határozatot kihirdetés útján kell közölni, és azt az írásba foglalást követően nyomban kézbesíteni is kell. A meghallgatáson kívül hozott határozatot a bíróság az érintett harmadik országbeli állampolgárral az őrizet elrendelő idegenrendészeti hatóság útján közli.
 
 (10) A bíróság határozata ellen további jogorvoslatnak nincs helye.
 

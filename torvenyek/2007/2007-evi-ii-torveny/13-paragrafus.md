@@ -43,3 +43,5 @@ i) nem áll beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető
 (2) Az (1) bekezdésben meghatározott feltételek hiányában a beutazás és tartózkodás csak kivételesen, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből engedélyezhető.
 
 (3) Az a harmadik országbeli állampolgár, aki rendelkezik valamely, az (1) bekezdés b) pontjában felsorolt engedéllyel, a beutazáskor mentesül az (1) bekezdés c)–g) pontjában foglalt feltételek igazolása alól.
+
+(4) A kiskorú harmadik országbeli állampolgárnak az (1) bekezdésben foglaltakon túl igazolnia kell, hogy szülője vagy törvényes képviselője magyarországi tartózkodásához – a tervezett tartózkodás időtartamára – hozzájárult.

@@ -12,7 +12,7 @@ d) aki a magyar állam által számára megtérítési kötelezettséggel megel�
 
 e) aki a kiszabott helyszíni bírságot, szabálysértési bírságot az előírt határidőig nem fizette meg, illetve annak végrehajtására nincs lehetőség;
 
-f) aki az uniós vámjog végrehajtásáról szóló törvény szerinti, jogerősen kiszabott vámigazgatási bírságot nem fizette meg, illetve annak végrehajtására nincs lehetőség.
+f) aki az uniós vámjog végrehajtásáról szóló törvény szerinti, véglegessé vált döntésben kiszabott vámigazgatási bírságot nem fizette meg, illetve annak végrehajtására nincs lehetőség.
 
 (2) Az idegenrendészeti hatóság – az e törvényben meghatározott kivétellel – idegenrendészeti kiutasítást rendel el azzal a harmadik országbeli állampolgárral szemben,
 
@@ -26,4 +26,4 @@ d) akinek a beutazása és tartózkodása a nemzetbiztonságot, a közbiztonság
 
 e) akinek a beutazása és tartózkodása a közegészséget sérti vagy veszélyezteti.
 
-(3) Az önálló beutazási és tartózkodási tilalmat az (1) bekezdés c) pontjában, valamint az idegenrendészeti kiutasítást a (2) bekezdés d) pontjában foglalt okból törvényben meghatározott érdek védelmével kapcsolatos feladata ellátása céljából, saját feladatkörében a kormányrendeletben meghatározott rendvédelmi szervek is kezdeményezhetik. Ha az önálló beutazási és tartózkodási tilalmat az (1) bekezdés c) pontjában foglalt okból rendelik el, akkor az önálló beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörüket érintő esetben – a kormányrendeletben meghatározott rendvédelmi szervek javaslatot tesznek.
+(3) Az önálló beutazási és tartózkodási tilalmat az (1) bekezdés c) pontjában, valamint az idegenrendészeti kiutasítást a (2) bekezdés d) pontjában foglalt okból törvényben meghatározott érdek védelmével kapcsolatos feladata ellátása céljából, saját feladatkörében a kormányrendeletben meghatározott rendvédelmi szervek is kezdeményezhetik. Ha az önálló beutazási és tartózkodási tilalmat az (1) bekezdés c) pontjában, vagy az idegenrendészeti kiutasítást a (2) bekezdés d) pontjában foglalt okból rendelik el, akkor a beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörüket érintő esetben – a kormányrendeletben meghatározott rendvédelmi szervek javaslatot tesznek. A javaslatban foglaltaktól az idegenrendészeti hatóság nem térhet el.

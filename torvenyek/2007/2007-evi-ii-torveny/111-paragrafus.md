@@ -44,6 +44,18 @@ t) a tartózkodási engedély kiadására és meghosszabbítására irányuló k
 
 (1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat, és az egyes idegenrendészeti eljárásokban szakhatóságként eljáró rendvédelmi szerveket.
 
+(1b) Felhatalmazást kap a Kormány, hogy az idegenrendészeti hatósági eljárásokban rendeletben
+
+a) kijelölje közreműködő szakhatóságokat,
+
+b) meghatározza a szakhatóságnak azt a hatáskörét, amelynek keretei között az állásfoglalását kialakítja,
+
+c) meghatározza az egyedi szakhatósági előírás vagy feltétel tartalmi követelményeit, a szakhatóság által a szakhatósági állásfoglalás kialakítása során vizsgált szempontokat,
+
+d) meghatározza a szakhatósági közreműködésre, az ügyben érdemi döntésre jogosult hatóság és a szakhatóság közötti együttműködésre vonatkozó részletes eljárási szabályokat.
+
+(1c) Felhatalmazást kap a Kormány, hogy a jövedelemszerzési, munkavállalási vagy egyéb célú tartózkodási engedély jövőbeni benyújtását adott ország(ok) állampolgárai vonatkozásában rendeletben korlátozza, ha azok létszáma Magyarország számára nemzetbiztonsági kockázatot jelenthet.
+
 (2) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben szabályozza:
 
 a) az e törvény szerinti formanyomtatványok, okmányok tartalmi előírásait és mellékleteit;

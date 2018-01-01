@@ -18,7 +18,7 @@ b) a szezonális munkavállalás céljából vagy önkéntesként Magyarország 
 
 c) a diplomáciai vagy egyéb személyes mentesség alapján Magyarország területén tartózkodó harmadik országbeli állampolgár;
 
-d) a kérelme jogerős elbírálásáig az a harmadik országbeli állampolgár, aki a magyar menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
+d) a kérelme véglegessé vált elbírálásáig az a harmadik országbeli állampolgár, aki a magyar menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
 
 e) a befogadott;
 

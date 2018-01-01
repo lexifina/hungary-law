@@ -71,3 +71,5 @@ h) a köztartozásmentes adózói adatbázisból.
 (7) Az idegenrendészeti hatóság – az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmás adatának nyilvántartásba vételéről, valamint az arcképmás adat változásáról.
 
 (8) Az idegenrendészeti hatóság a körözési nyilvántartási rendszer részére – az arcképmás nyilvántartásba vétele céljából – a körözési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmását átadja.
+
+(9) Az idegenrendészeti hatóság e törvény szerinti eljárása során a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések modul hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.

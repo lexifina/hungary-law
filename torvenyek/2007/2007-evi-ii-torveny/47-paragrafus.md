@@ -12,6 +12,8 @@ b) a menekültügyi hatóság által hozott kiutasító döntést az idegenrend�
 
 (5) A kiutasítással együtt vagy az önálló határozatban elrendelt beutazási és tartózkodási tilalom időtartamát években kell meghatározni, és – a (6) bekezdésben foglalt kivétellel – legfeljebb öt évre kell elrendelni.
 
+(5a) A bíróság által elrendelt kiutasítás esetében az idegenrendészeti hatóság az elrendelt kiutasításnak megfelelő beutazási és tartózkodási tilalom időtartamát a bíróság határozatában meghatározott időtartamban rögzíti az idegenrendészeti nyilvántartásban.
+
 (6) A beutazási és tartózkodási tilalom legfeljebb tíz évre rendelhető el, ha a harmadik országbeli állampolgár tartózkodása Magyarország területén a közrendet, a közbiztonságot vagy a nemzetbiztonságot jelentősen veszélyeztetné.
 
 (7) A kiutasítás miatt elrendelt beutazási és tartózkodási tilalom időtartamát az Európai Unió tagállamai területének elhagyásának napjától, vagy ha ez nem ismert, az erre meghatározott határnaptól kell számítani.

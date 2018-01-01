@@ -1,9 +1,7 @@
-## IX. Fejezet
+## A tényállás tisztázása és az ügyfél nyilatkozata
 
-## AZ ELJÁRÁS KÖZÖS SZABÁLYAI
+87. § (1) Ha a tényállás tisztázása azt szükségessé teszi, az idegenrendészeti hatóság az ügyfelet nyilatkozattételre hívhatja fel. Az ügyfél nyilatkozatát mind szóban, mind írásban megteheti. Ha az ügyfél nyilatkozatát szóban teszi, arról az eljáró idegenrendészeti hatóság jegyzőkönyvet vesz fel. Ha a jegyzőkönyv felvételére objektív okból nem kerülhet sor, az idegenrendészeti hatóság feljegyzést készít az ügyfél szóbeli nyilatkozatáról.
 
-87. § (1) A vízumkérelmet az eljáró hatóság a vízum kiadásával teljesíti, vagy határozattal utasítja el.
+(2) Ha az ügyfél vagy képviselője más tudomása ellenére az idegenrendészeti ügy szempontjából jelentős adatot valótlanul állít vagy elhallgat, illetve ha a kötelező adatszolgáltatás körében adatszolgáltatási kötelezettségét nem teljesíti, – e törvény eltérő rendelkezése hiányában – eljárási bírsággal sújtható.
 
-(2) A vízumeljárásban soron kívüli eljárásnak kiskorú kérelmező esetén akkor van helye, ha a beutazás igazolt célja a kiskorú gyógykezelése.
-
-(3) A vízumeljárásban az eljáró hatóság meghallgathatja a korlátozottan cselekvőképes vagy a cselekvőképtelen kiskorú kérelmezőt is. A meghallgatás során törvényes képviselőjének, illetve a törvényes képviselő által adott meghatalmazással rendelkező, nagykorú cselekvőképes személynek is jelen kell lennie.
+(3) Az idegenrendészeti hatóság eljárása során figyelmezteti az ügyfelet jogaira, kötelességeire és a hamis, hamisított vagy valótlan tartalmú bizonyíték szolgáltatásának jogkövetkezményeire.

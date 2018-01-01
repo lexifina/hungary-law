@@ -34,7 +34,7 @@ da) a db) alpont kivételével legfeljebb hat hónap, amely alkalmanként legfel
 
 db) amennyiben a harmadik országbeli állampolgár emberkereskedelem áldozata, hat hónap, amely alkalmanként hat hónappal meghosszabbítható;
 
-e) az (1) bekezdés f) pontjában foglalt esetben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható, a harmadik országbeli állampolgár által a munkáltatójával szemben az elmaradt járandóságának kifizetése érdekében indított eljárás jogerős befejezéséig;
+e) az (1) bekezdés f) pontjában foglalt esetben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható, a harmadik országbeli állampolgár által a munkáltatójával szemben az elmaradt járandóságának kifizetése érdekében indított eljárás végleges befejezéséig;
 
 f) az (1a) bekezdés szerinti esetben egy év, amely alkalmanként egy évvel meghosszabbítható.
 

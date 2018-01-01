@@ -8,13 +8,17 @@ b)
 
 c) kiutazásának ellenőrzése a nemzetbiztonság, nemzetközi szerződésben vállalt kötelezettség érvényesítése, illetve a közbiztonság vagy a közrend védelme érdekében szükséges;
 
-d) a kiutasító határozatban meghatározott határnapot követő napig az Európai Unió tagállamainak területét nem hagyta el.
+d) a kiutasító határozatban illetve a bírói kiutasítás végrehajtásáról rendelkező végzésben meghatározott határnapot követő napig az Európai Unió tagállamainak területét nem hagyta el.
+
+(1a) A személyi szabadság korlátozása a kitoloncolás foganatosítása során a kitoloncolást elrendelő hatósági döntésen alapszik.
 
 (2) A kitoloncolásról az idegenrendészeti kiutasítást elrendelő határozatban, illetve a bírói kiutasítás végrehajtását elrendelő végzésben kell rendelkezni, egyéb esetben külön határozattal vagy végzéssel kell elrendelni. A menekültügyi hatóság által elrendelt kiutasítást követően az (1) bekezdés d) pontjában foglalt esetben az idegenrendészeti hatóság a kitoloncolást önálló határozattal rendeli el.
 
 (3) A kitoloncolást elrendelő önálló határozat vagy végzés ellen a harmadik országbeli állampolgár végrehajtási kifogást terjeszthet elő. A végrehajtási kifogás a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő.
 
 (3a) A kitoloncolást elrendelő határozatot vagy végzést az idegenrendészeti hatóság módosítja a kitoloncolás végrehajtásának módja tekintetében, amennyiben azt a kitoloncolás végrehajtása során bekövetkezetett változások, így különösen a harmadik országbeli állampolgár magatartása, vagy egyéb, a kitoloncolás végrehajtásának módját befolyásoló tények indokolják. A módosító határozat vagy végzés ellen jogorvoslatnak nincs helye.
+
+(3b) Amennyiben az idegenrendészeti hatóság a kiutasító döntésében a célországot az ügyfélnek felróható magatartása miatt módosítja, így különösen akkor, ha a harmadik országbeli állampolgár állampolgársága vonatkozásában valótlan tényeket közöl a hatósággal, vagy azt egyéb, a kiutasítás célországát befolyásoló tények indokolják, a módosító határozat vagy végzés ellen végrehajtási kifogásnak van helye. A végrehajtási kifogás a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő. A végrehajtási kifogás tárgyában hozott döntés ellen jogorvoslatnak nincs helye.
 
 (4) Az idegenrendészeti hatóság a végrehajtási kifogást az ügy irataival együtt haladéktalanul megküldi a végrehajtási kifogás elbírálására jogosult hatóságnak, mely a végrehajtási kifogást nyolc napon belül bírálja el.
 

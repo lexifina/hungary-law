@@ -24,7 +24,7 @@ k) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arc
 
 (2) Az (1) bekezdés a)–i) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) tartózkodási engedély esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
 
-(3) Az (1) bekezdés j) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem tárgyában hozott jogerős és végrehajtható döntésig, illetve a 29. § (1) bekezdés a)–b) és d)–f) pontjában, illetve (1a) bekezdésében meghatározott humanitárius tartózkodási engedély kiadásáig kezelheti, azt követően haladéktalanul törölni kell.
+(3) Az (1) bekezdés j) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig, illetve a 29. § (1) bekezdés a)–b) és d)–f) pontjában, illetve (1a) bekezdésében meghatározott humanitárius tartózkodási engedély kiadásáig kezelheti, azt követően haladéktalanul törölni kell.
 
 (4) Az (1) bekezdés e) pontjában meghatározott adatok az összevont kérelmezési eljárás vonatkozásában különösen a következők:
 

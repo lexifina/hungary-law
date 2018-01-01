@@ -4,9 +4,9 @@
 
 (2) Az e törvény hatálybalépése előtt kiadott bevándorlási engedély, illetve letelepedési engedély az érvényességi idején belül az abban foglaltak szerinti tartózkodásra jogosít.
 
-(3) Az e törvény hatálybalépése előtt benyújtott, jogerősen el nem bírált vízum és tartózkodási engedély iránti kérelemmel kapcsolatos eljárásban e törvény rendelkezéseit kell alkalmazni, azzal, hogy a tartózkodási engedélyt kérelmező harmadik országbeli állampolgár nyilatkozata alapján kérelmét ideiglenes letelepedési engedély iránti kérelemnek kell tekinteni.
+(3) Az e törvény hatálybalépése előtt benyújtott, véglegesen el nem bírált vízum és tartózkodási engedély iránti kérelemmel kapcsolatos eljárásban e törvény rendelkezéseit kell alkalmazni, azzal, hogy a tartózkodási engedélyt kérelmező harmadik országbeli állampolgár nyilatkozata alapján kérelmét ideiglenes letelepedési engedély iránti kérelemnek kell tekinteni.
 
-(4) Az e törvény hatálybalépése előtt benyújtott, jogerősen el nem bírált letelepedési kérelemmel kapcsolatos eljárásban – a kérelmező nyilatkozata szerint – e törvény nemzeti letelepedési engedélyre vagy EK letelepedési engedélyre vonatkozó rendelkezéseit kell alkalmazni.
+(4) Az e törvény hatálybalépése előtt benyújtott, véglegesen el nem bírált letelepedési kérelemmel kapcsolatos eljárásban – a kérelmező nyilatkozata szerint – e törvény nemzeti letelepedési engedélyre vagy EK letelepedési engedélyre vonatkozó rendelkezéseit kell alkalmazni.
 
 (5) A harmadik országbeli állampolgárral szemben e törvény hatálybalépése előtt elrendelt kiutasítást előkészítő őrizetre e törvény kiutasítási őrizetre vonatkozó rendelkezéseit, az e törvény hatálybalépése előtt elrendelt visszautasítási őrizetre és idegenrendészeti őrizetre e törvény idegenrendészeti őrizetre vonatkozó rendelkezéseit kell alkalmazni.
 
@@ -26,7 +26,7 @@
 
 (13) A 2016. július 1. napja előtt nemzetgazdasági érdekre hivatkozással kiállított egyéb célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár, valamint a tartózkodási engedéllyel rendelkező családtagja nemzeti letelepedést kérelmezhet e törvényben meghatározottak szerint.
 
-(14) A 2016. július 1. napját megelőzően előterjesztett, jogerősen el nem bírált, nemzetgazdasági érdekre hivatkozással benyújtott egyéb célú tartózkodási engedély kérelemmel kapcsolatos eljárásban e törvény rendelkezéseit kell alkalmazni azzal, hogy a tartózkodási engedélyt kérelmező harmadik országbeli állampolgár nyilatkozata alapján kérelmét a 35/A. § szerinti nemzeti letelepedési engedély iránti kérelemnek kell tekinteni.
+(14) A 2016. július 1. napját megelőzően előterjesztett, véglegesen el nem bírált, nemzetgazdasági érdekre hivatkozással benyújtott egyéb célú tartózkodási engedély kérelemmel kapcsolatos eljárásban e törvény rendelkezéseit kell alkalmazni azzal, hogy a tartózkodási engedélyt kérelmező harmadik országbeli állampolgár nyilatkozata alapján kérelmét a 35/A. § szerinti nemzeti letelepedési engedély iránti kérelemnek kell tekinteni.
 
 (15) A 2016. július 1. napját megelőzően kiadott nemzetgazdasági érdekre hivatkozással benyújtott egyéb célú tartózkodási engedélyek esetén, amennyiben az államkötvény lejegyzése 2016. július 1. napjáig nem történt meg, a jóváhagyással rendelkező vállalkozás a tartózkodási engedély kiadásától számított 45 napon belül a harmadik országbeli állampolgár befizetéséből teljesíti az államkötvény lejegyzését.
 

@@ -1,5 +1,9 @@
-91. § (1) A vízumeljárásban a fordítási és tolmácsolási költséget, továbbá a jeltolmácsolás költségét (a továbbiakban: az anyanyelv használatával kapcsolatos költség) a kérelmező viseli.
+91. § A végrehajtást elrendelő hatóság a végrehajtást megszünteti, ha
 
-(2) Az (1) bekezdésben foglaltakon túlmenően az e törvényben szabályozott kérelemre indult eljárásokban a döntés közlésével felmerülő anyanyelv használatával kapcsolatos költségeket az eljáró hatóság viseli, az egyéb eljárási cselekmények elvégzésével felmerülő, az anyanyelv használatával kapcsolatos költséget a kérelmező viseli.
+a) a követelés elévült, és a végrehajtás megszüntetését a kötelezett kéri, vagy
 
-(3) Az e törvényben szabályozott hivatalból indult eljárásokban az anyanyelv használatával kapcsolatos költséget az eljáró hatóság viseli.
+b) a további végrehajtási eljárási cselekményektől eredmény nem várható.
+
+10. CÍM
+
+AZ ELJÁRÁSI KÖLTSÉG, AZ ELJÁRÁSI KÖLTSÉG VISELÉSE ÉS ELŐLEGEZÉSE

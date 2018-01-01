@@ -4,7 +4,7 @@
 
 (2) A harmadik országbeli állampolgár az ellenőrzéskor felhívásra köteles úti okmányát, tartózkodásra jogosító engedélyét vagy más, személyazonosításra alkalmas igazolványát felmutatni és átadni.
 
-(3) Az ellenőrzés során a harmadik országbeli állampolgárnál talált, más személy részére kiállított és jogtalanul birtokban tartott úti okmányt a hatóság lefoglalja, és – amennyiben nem indul büntetőeljárás – továbbítja az azt kiállító állam magyarországi külképviseletének, ennek hiányában a külpolitikáért felelős miniszter útján megküldi az azt kiállító szervnek.
+(3) Az ellenőrzés során a harmadik országbeli állampolgárnál talált, más személy részére kiállított és jogtalanul birtokban tartott úti okmányt a hatóság zár alá veszi, és – amennyiben nem indul büntetőeljárás – továbbítja az azt kiállító állam magyarországi külképviseletének, ennek hiányában a külpolitikáért felelős miniszter útján megküldi az azt kiállító szervnek.
 
 (4) Azt a harmadik országbeli állampolgárt, aki a magyarországi tartózkodás jogszerűségét vagy személyazonosságát hitelt érdemlően nem tudja igazolni, illetve az e törvényben foglalt szabályokat megsérti, az idegenrendészeti hatósághoz elő kell állítani.
 

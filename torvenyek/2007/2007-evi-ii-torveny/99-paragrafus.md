@@ -28,4 +28,4 @@ l) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arc
 
 (2) Az (1) bekezdés a)–j) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedélyek iránti kérelem elutasítása esetén annak időpontjától, illetve a jogállás megszűnésétől számított húsz évig kezeli.
 
-(3) Az (1) bekezdés k) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedély iránti kérelem tárgyában hozott jogerős és végrehajtható döntésig kezelheti, azt követően haladéktalanul törölni kell.
+(3) Az (1) bekezdés k) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezelheti, azt követően haladéktalanul törölni kell.

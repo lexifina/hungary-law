@@ -1,0 +1,3 @@
+17/C. § (1) Az Európai Unió tagállama által kiadott tanulmányi célú tartózkodási engedéllyel rendelkező hallgató hallgatói mobilitási engedély iránti kérelmét, illetve értesítését Magyarországon nyújthatja be, amennyiben az első tagállam által kiadott tartózkodási engedélye érvényes.
+
+(2) Az Európai Unió más tagállama által kiadott kutatási célú engedéllyel rendelkező kutató kutatói rövid és hosszú távú mobilitási engedély iránti kérelmét, illetve értesítését, valamint az ilyen engedéllyel rendelkező harmadik országbeli állampolgárral együtt Magyarországon jogszerűen tartózkodó családtag az értesítését vagy a tartózkodási engedély iránti kérelmét Magyarországon nyújthatja be, amennyiben az első tagállam által kiadott tartózkodási engedélye érvényes.

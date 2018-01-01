@@ -6,7 +6,7 @@ a) e fejezetben meghatározott idegenrendészeti eljárás alatt áll;
 
 b) az őrizetből megszökött vagy az idegenrendészeti eljárásban számára elrendelt kötelező tartózkodási helyet az előírt magatartási szabályok megszegésével elhagyta;
 
-c) a jogerős kiutasítás végrehajtásának nem tett eleget.
+c) a véglegessé vált kiutasítás végrehajtásának nem tett eleget.
 
 (2) A körözést elrendelő határozattal szemben jogorvoslatnak nincs helye.
 

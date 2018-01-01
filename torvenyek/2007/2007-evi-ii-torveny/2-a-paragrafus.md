@@ -4,7 +4,11 @@ a) vállalaton belüli áthelyezés: a vállalaton belül áthelyezett személy 
 
 b) vállalaton belül áthelyezett személy: olyan harmadik országbeli állampolgár, aki a vállalaton belül áthelyezett személy számára szóló tartózkodási engedély iránti kérelem benyújtásakor az Európai Unió tagállamai területén kívül rendelkezik lakóhellyel, és akit vállalaton belül áthelyeztek;
 
-c) fogadó szervezet: az a szervezet, amelyhez a vállalaton belül áthelyezett személyt áthelyezik, és amely jogi formájától függetlenül, jogszabályban meghatározottak szerint létrehozott jogi személy;
+c) fogadó szervezet:
+
+ca) az a szervezet, amelyhez a vállalaton belül áthelyezett személyt áthelyezik, és amely jogi formájától függetlenül, jogszabályban meghatározottak szerint létrehozott jogi személy;
+
+cb) külön jogszabályban meghatározott kutatószervezet, felsőoktatási intézmény, oktatási intézmény, önkéntes szolgálati rendszerért felelős szervezet vagy gyakornokokat fogadó szervezet;
 
 d) vállalaton belül áthelyezett személy számára szóló engedély: olyan tartózkodási engedély, amely a tulajdonosát feljogosítja az első tagállam és adott esetben a második tagállam területén való tartózkodásra és munkavállalásra a törvényben meghatározott feltételek szerint;
 
@@ -20,6 +24,14 @@ fc) kinevezheti a szóban forgó vállalkozás igazgatási, irányító, illetve
 
 fd) azt anyavállalatként egységes alapon irányítja;
 
-g) első tagállam: az Európai Unió azon tagállama, amely elsőként állít ki valamely vállalaton belül áthelyezett személy számára szóló engedélyt az adott harmadik országbeli állampolgár részére;
+g) első tagállam: az Európai Unió azon tagállama, amely elsőként állít ki
 
-h) második tagállam: az első tagállamtól eltérő minden olyan tagállam, amelyben a vállalaton belül áthelyezett személy gyakorolni kívánja vagy gyakorolja a törvény szerinti mobilitáshoz való jogot.
+ga) valamely vállalaton belül áthelyezett személy számára szóló engedélyt az adott harmadik országbeli állampolgár részére;
+
+gb) engedélyt a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv alapján a harmadik országbeli állampolgárnak;
+
+h) második tagállam: az első tagállamtól eltérő minden olyan tagállam, amelyben
+
+ha) a vállalaton belül áthelyezett személy gyakorolni kívánja vagy gyakorolja a törvény szerinti mobilitáshoz való jogot;
+
+hb) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv alapján a harmadik országbeli állampolgár gyakorolni kívánja vagy gyakorolja a törvény szerinti mobilitáshoz való jogot.

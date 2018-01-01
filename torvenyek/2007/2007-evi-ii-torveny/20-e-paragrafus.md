@@ -4,7 +4,7 @@ a) igazolja, hogy a fogadó szervezet és a harmadik országban letelepedett vá
 
 b) a 13. § (1) bekezdés a), d), valamint h) és i) pontjában foglalt feltételeknek megfelel, és vele szemben nem állnak fenn a (2) bekezdésben, valamint a 18. § (1f)–(1i) bekezdésben foglalt kizáró okok;
 
-c) igazolja, hogy a vállalaton belüli áthelyezés időpontját jogszabályban meghatározott vezető állású munkavállaló és szakértő esetében legalább három, legfeljebb tizenkét hónapos, gyakornok-munkavállaló esetében pedig legalább három, legfeljebb hathónapos folyamatos munkaviszony előzte meg közvetlenül ugyanazon a vállalkozáson vagy vállalkozáscsoporton belül;
+c) igazolja, hogy a vállalaton belüli áthelyezés időpontját jogszabályban meghatározott vezető állású munkavállaló és szakértő esetében legalább három hónapos, gyakornok-munkavállaló esetében pedig legalább három hónapos folyamatos munkaviszony előzte meg közvetlenül ugyanazon a vállalkozáson vagy vállalkozáscsoporton belül;
 
 d) igazolja, hogy az Európai Unió tagállamai területén történő tartózkodás tekintetében Magyarországon a leghosszabb a vállalaton belüli áthelyezés időtartama;
 

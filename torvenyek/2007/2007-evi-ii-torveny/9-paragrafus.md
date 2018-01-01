@@ -6,10 +6,10 @@
 
 (4) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen fellebbezésnek van helye.
 
-(5) A fellebbezés tárgyában hozott elutasító döntéssel szemben bírósági felülvizsgálatnak van helye.
+(5) A fellebbezést elutasító döntéssel szemben közigazgatási pernek van helye.
 
-(6) A (4) bekezdés szerinti döntés bírósági felülvizsgálata iránti kérelmet a fellebbezés tárgyában hozott elutasító döntés közlésétől számított három napon belül az elsőfokú hatóságnál kell benyújtani. A hatóság a kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak.
+(6) A fellebbezést elutasító döntés elleni keresetlevelet három napon belül kell benyújtani.
 
-(7) A bíróság a (6) bekezdés szerinti kérelemről – annak beérkezésétől számított – nyolc napon belül, nemperes eljárásban határoz, az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes. A Fővárosi Közigazgatási és Munkaügyi Bíróság döntése ellen további jogorvoslatnak helye nincs.
+(7) A bíróság a keresetlevélről, egyszerűsített perben – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes. A bíróság határozata ellen perorvoslatnak nincs helye. Az illetékes idegenrendészeti hatóság a kérelmet az ügy irataival és védiratával együtt haladéktalanul megküldi a bíróságnak.
 
-(8) A bíróság eljárására – ha az eljárás nemperes jellegéből más nem következik – a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni.
+(8)

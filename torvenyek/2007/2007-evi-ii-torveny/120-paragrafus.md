@@ -14,9 +14,9 @@ e) a Tanács 2004/81/EK irányelve (2004. április 29.) a harmadik országok emb
 
 f) a Tanács 2004/82/EK irányelve (2004. április 29.) a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről;
 
-g) a Tanács 2004/114/EK irányelve (2004. december 13.) a harmadik országok állampolgárainak tanulmányok folytatása, diákcsere, javadalmazás nélküli gyakorlat, illetve önkéntes szolgálat céljából történő beutazása feltételeiről;
+g)
 
-h) a Tanács 2005/71/EK irányelve (2005. október 12.) a harmadik országbeli állampolgároknak az Európai Közösség területén folytatott tudományos kutatás céljából való fogadására vonatkozó külön eljárásról;
+h)
 
 i) a Tanács 1994. november 30-i határozata a Tanács által az Európai Unióról szóló Egyezmény K. 3. (2) Cikke alapján elfogadott közös intézkedésről a valamely tagállamban lakó harmadik országbeli iskolai tanulók utazási lehetőségéről;
 
@@ -52,7 +52,9 @@ w) a harmadik országbeli állampolgárok valamely tagállam területén való t
 
 a) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2014. február 26-i 2014/36/EU európai parlamenti és tanácsi irányelvnek;
 
-b) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló, 2014. május 15-i 2014/66/EU európai parlamenti és tanácsi irányelvnek
+b) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló, 2014. május 15-i 2014/66/EU európai parlamenti és tanácsi irányelvnek;
+
+c) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
