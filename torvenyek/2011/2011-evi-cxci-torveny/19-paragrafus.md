@@ -22,4 +22,6 @@ az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam az 5 évet
 
 (2a) Állapotváltozás esetén a megváltozott munkaképességű személyek ellátása összegének megállapítása során havi átlagjövedelemként a korábban alapul vett havi átlagjövedelemnek az évente bekövetkezett fogyasztói árnövekedés döntés időpontjában érvényes mértékével növelt összegét kell figyelembe venni.
 
+(2b) Kivételes rokkantsági ellátás esetén a felülvizsgálat során megállapított ellátási összeg állapotjavulás esetében sem lehet kevesebb a felülvizsgálatot megelőző hónapra járó ellátás összegénél. Állapotrosszabbodás esetén a kivételes rokkantsági ellátás összegét a 13/A. § (5) bekezdése alapján, az új minősítési kategóriának megfelelő összegben kell megállapítani.
+
 (3) Amennyiben a felülvizsgálat során a rehabilitációs hatóság megállapítja, hogy állapotváltozás nem következett be, a korábbi ellátást kell továbbfolyósítani.

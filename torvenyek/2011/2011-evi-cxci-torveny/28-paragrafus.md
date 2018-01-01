@@ -18,7 +18,11 @@ g) a foglalkozási rehabilitációs szolgáltatást nyújtó szervezetek akkredi
 
 h) a foglalkozási rehabilitációs szolgáltatások igénybevétele érdekében a munkaadó számára nyújtható szolgáltatásokat,
 
-i) a megváltozott munkaképességű személyek foglalkoztatását elősegítő képzéshez nyújtható támogatásra vonatkozó szabályokat
+i) a megváltozott munkaképességű személyek foglalkoztatását elősegítő képzéshez nyújtható támogatásra vonatkozó szabályokat,
+
+j) a kivételes rokkantsági ellátásra vonatkozó részletes eljárási szabályokat,
+
+k) a foglalkozási rehabilitációs szakértői tevékenység és a rehabilitációs orvosszakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a foglalkozási rehabilitációs szakértői névjegyzék, valamint a rehabilitációs orvosszakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a foglalkozási rehabilitációs szakterületeket, a továbbképzésre vonatkozó szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket
 
 rendeletben állapítsa meg.
 
@@ -26,9 +30,9 @@ rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben a komplex minősítésre vonatkozó részletes szakmai szabályokat rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy a foglalkozási rehabilitációs szakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a foglalkozási rehabilitációs szakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a foglalkozási rehabilitációs szakterületeket, továbbá a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
+(4)
 
-(4a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy a rehabilitációs orvosszakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a rehabilitációs orvosszakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a továbbképzésre vonatkozó szabályokat, valamint a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
+(4a)
 
 (5) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályait rendeletben határozza meg.
 

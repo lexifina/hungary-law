@@ -26,6 +26,6 @@ b) aki 2011. december 31-én rokkantsági nyugdíjban, baleseti rokkantsági nyu
 
 a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, álláskeresési támogatás folyósításának az idejét,
 
-b) a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai és megváltozott munkaképességű személyek ellátása folyósításának idejét.
+b) a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai és a kivételes rokkantsági ellátás kivételével a megváltozott munkaképességű személyek ellátása folyósításának idejét.
 
 c) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a Tbj. 34. §-a szerint kötött megállapodás alapján szerzett szolgálati időt, amennyiben a megállapodást 2011. december 31-éig megkötötték.

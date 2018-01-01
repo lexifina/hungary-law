@@ -14,4 +14,4 @@
 
 (5) A rehabilitációs ellátás időtartamát meghosszabbítani nem lehet.
 
-(6) A rehabilitációs ellátás a korábbi komplex minősítés során figyelembe nem vett, azt követően bekövetkezett egészségkárosodás és a jogosultsági feltételek fennállása esetén ismételten megállapítható.
+(6) A rehabilitációs ellátás – a rehabilitációs hatóság komplex minősítésében foglalt körülményekre tekintettel – a jogosultsági feltételek fennállása esetén ismételten megállapítható.

@@ -6,7 +6,7 @@ a) büntetlen előéletű,
 
 b) nem áll rehabilitációs orvosszakértői tevékenység folytatását kizáró foglalkozástól eltiltás alatt és
 
-c) megfelel a szociál- és nyugdíjpolitikáért felelős miniszter rendeletében meghatározott egyéb feltételeknek.
+c) megfelel a Kormány rendeletében meghatározott egyéb feltételeknek.
 
 (2) Aki az (1) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Kormány által kijelölt szervnek bejelenteni. A bejelentés tartalmazza a bejelentő természetes személyazonosító adatait, valamint annak igazolását, hogy vele szemben kizáró ok nem áll fenn.
 
@@ -18,7 +18,7 @@ b) a szakmai gyakorlatot tanúsító igazolást,
 
 c) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást.
 
-(3) A Kormány által kijelölt szerv a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást (a továbbiakban: rehabilitációs orvosszakértői névjegyzék) vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza a szakértői tevékenység végzésére jogosult személy elérhetőségét, valamint a végzettségére, képesítésére vonatkozó adatokat. A rehabilitációs orvosszakértői névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(3) A Kormány által kijelölt szerv a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást (a továbbiakban: rehabilitációs orvosszakértői névjegyzék) vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza a szakértői tevékenység végzésére jogosult személy elérhetőségét, valamint a végzettségére, képesítésére vonatkozó adatokat.
 
 (3a) A rehabilitációs orvosszakértői névjegyzék a szakértői tevékenység végzésére való jogosultság tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -26,4 +26,4 @@ c) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást.
 
 (5) A (4) bekezdés alapján megismert személyes adatokat a Kormány által kijelölt szerv a hatósági ellenőrzés lefolytatásáig kezeli.
 
-(6) A Kormány által kijelölt szerv a szociál- és nyugdíjpolitikáért felelős miniszter rendeletében meghatározottak szerint gondoskodik a rehabilitációs orvosszakértők továbbképzéséről.
+(6) A Kormány által kijelölt szerv a Kormány rendeletében meghatározottak szerint gondoskodik a rehabilitációs orvosszakértők továbbképzéséről.

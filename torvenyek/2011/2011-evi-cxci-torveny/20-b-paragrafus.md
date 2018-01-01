@@ -20,4 +20,4 @@ a) a (3) bekezdés a) pontja szerinti esetben a kérelem benyújtását megelőz
 
 b) a (3) bekezdés b) pontja szerinti esetben a felszámolást, végelszámolást elrendelő végzés közzétételét megelőző hónapban érvényes összege alapulvételével kell meghatározni.
 
-(6) A kötelezett az egyösszegű megtérítési kötelezettségnek a határozat jogerőre emelkedését követő 15 napon belül köteles eleget tenni.
+(6) A kötelezett az egyösszegű megtérítési kötelezettségnek a határozat véglegessé válását követő 15 napon belül köteles eleget tenni.

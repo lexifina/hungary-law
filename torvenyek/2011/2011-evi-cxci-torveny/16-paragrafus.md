@@ -1,1 +1,1 @@
-16. § A kérelmező a rehabilitációs hatóság vizsgálatán történő személyes megjelenésre kötelezhető. Ha a kérelmező a személyes megjelenési kötelezettségének önhibájából nem tesz eleget, az eljárást meg kell szüntetni.
+16. § Ha a kérelmező a személyes megjelenési kötelezettségének önhibájából nem tesz eleget, úgy kell tekinteni, hogy a kérelmét visszavonta, és az eljárást meg kell szüntetni.

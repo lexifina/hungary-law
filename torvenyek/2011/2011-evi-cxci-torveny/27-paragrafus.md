@@ -6,7 +6,7 @@ a) büntetlen előéletű,
 
 b) nem áll foglalkozási rehabilitációs szakértői tevékenység folytatását kizáró foglalkozástól eltiltás alatt és
 
-c) megfelel a szociál- és nyugdíjpolitikáért felelős miniszter rendeletében meghatározott egyéb feltételeknek.
+c) megfelel a Kormány rendeletében meghatározott egyéb feltételeknek.
 
 (2) Aki az (1) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Kormány által kijelölt szervnek bejelenteni. A bejelentés tartalmazza a bejelentő természetes személyazonosító adatait, valamint annak igazolását, hogy vele szemben kizáró ok nem áll fenn.
 
@@ -28,4 +28,4 @@ d) a bejelentő nyilatkozatát arról, hogy nem áll cselekvőképességet kizá
 
 (5) A (4) bekezdés alapján megismert személyes adatokat a Kormány által kijelölt szerv a hatósági ellenőrzés lefolytatásáig kezeli.
 
-(6) A Kormány által kijelölt szerv a szociál- és nyugdíjpolitikáért felelős miniszter rendeletében meghatározottak szerint gondoskodik a foglalkozási rehabilitációs szakértők továbbképzéséről.
+(6) A Kormány által kijelölt szerv a Kormány rendeletében meghatározottak szerint gondoskodik a foglalkozási rehabilitációs szakértők továbbképzéséről.
