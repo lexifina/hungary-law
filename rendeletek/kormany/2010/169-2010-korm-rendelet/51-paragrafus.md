@@ -1,3 +1,3 @@
-51. §[^155]
+51. §[^160]
 
-[^155]: A 47–51. §-t az 53. § (1) bekezdése hatályon kívül helyezte.
+[^160]: A 47–51. §-t az 53. § (1) bekezdése hatályon kívül helyezte.

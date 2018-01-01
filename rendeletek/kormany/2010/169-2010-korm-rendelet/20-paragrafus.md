@@ -8,7 +8,7 @@ b) haladéktalanul tájékoztatja a légiközlekedési hatóságot, az általán
 
 (2)[^82] A légiforgalmi irányító szolgálat a légiközlekedés védelmi feladatai ellátásának részletes szabályait – a nemzeti légiközlekedés védelmi programokban foglalt követelmények és a TEK által előzetesen a terrorizmussal kapcsolatban elvégzett kockázatelemzés, valamint a TEK iránymutatása alapján – a légiközlekedés védelmi tervében határozza meg. A légiközlekedés védelmi terv részét képezik a részletes légiközlekedés védelmi eljárások és a légiközlekedés védelmi képzési és minőségbiztosítási tervek.
 
-(3)[^83] A légiforgalmi irányító szolgálat légiközlekedés védelmi tervét vagy annak módosítását jóváhagyásra megküldi a légiközlekedési hatóságnak. A légiközlekedési hatóság a védelmi terv jóváhagyására irányuló eljárásba szakhatóságként bevonja a TEK-et és az AH-t annak a szakkérdésnek az elbírálásába, hogy az a terrorizmus elleni védekezés és a nemzetbiztonsági szempontoknak megfelel-e.
+(3)[^83] A légiforgalmi irányító szolgálat légiközlekedés védelmi tervét vagy annak módosítását jóváhagyásra megküldi a légiközlekedési hatóságnak.
 
 (4)[^84] A légiforgalmi irányító szolgálat
 
@@ -38,7 +38,7 @@ b)[^86] részt vesz az általa kiszolgált repülőterek Repülőtéri Kényszer
 [^80]: A 20. § a 240/2011. (XI. 18.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^81]: A 20. § (1) bekezdése a 240/2011. (XI.18.) Korm. rendelet 31. § (2) bekezdése alapján 2012. március 1. napján lépett hatályba.
 [^82]: A 20. § (2) bekezdése a 240/2011. (XI.18.) Korm. rendelet 31. § (2) bekezdése alapján 2012. március 1. napján lépett hatályba.
-[^83]: A 20. § (3) bekezdése a 240/2011. (XI.18.) Korm. rendelet 31. § (2) bekezdése alapján 2012. március 1. napján lépett hatályba.
+[^83]: A 20. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 303. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^84]: A 20. § (4) bekezdése a 240/2011. (XI.18.) Korm. rendelet 31. § (2) bekezdése alapján 2012. március 1. napján lépett hatályba.
 [^85]: A 20. § (5) bekezdése a 240/2011. (XI.18.) Korm. rendelet 31. § (2) bekezdése alapján 2012. március 1. napján lépett hatályba.
 [^86]: A 20. § (5) bekezdés b) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.

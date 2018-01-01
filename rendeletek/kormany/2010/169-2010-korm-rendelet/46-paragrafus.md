@@ -10,14 +10,14 @@ d) a 300/2008/EK európai parlamenti és tanácsi rendeletnek a polgári légik�
 
 e) a légiközlekedés védelmével kapcsolatos bizottsági ellenőrzések eljárásainak megállapításáról szóló, 2010. január 26-i 72/2010/EU bizottsági rendelet,
 
-f)[^148] a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2015. november 5-i 2015/1998 bizottsági (EU) végrehajtási rendelet,
+f)[^153] a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2015. november 5-i 2015/1998 bizottsági (EU) végrehajtási rendelet,
 
-g)[^149] a 300/2008/EK rendelet 18. cikkének a) pontjában említett információkat tartalmazó, a 300/2008/EK rendelet 18. cikkének a) pontjában említett információkat tartalmazó, a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2015. november 16-i C (2015) 8005 bizottsági végrehajtási határozat,
+g)[^154] a 300/2008/EK rendelet 18. cikkének a) pontjában említett információkat tartalmazó, a 300/2008/EK rendelet 18. cikkének a) pontjában említett információkat tartalmazó, a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2015. november 16-i C (2015) 8005 bizottsági végrehajtási határozat,
 
-h)[^150]
+h)[^155]
 
 végrehajtásához szükséges rendelkezéseket állapítja meg,
 
-[^148]: A 46. § f) pontja a 219/2016. (VII. 22.) Korm. rendelet 5. § l) pontjával megállapított szöveg.
-[^149]: A 46. § g) pontja a 219/2016. (VII. 22.) Korm. rendelet 5. § m) pontja szerint módosított szöveg.
-[^150]: A 46. § h) pontját a 389/2014. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, a 219/2016. (VII. 22.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^153]: A 46. § f) pontja a 219/2016. (VII. 22.) Korm. rendelet 5. § l) pontjával megállapított szöveg.
+[^154]: A 46. § g) pontja a 219/2016. (VII. 22.) Korm. rendelet 5. § m) pontja szerint módosított szöveg.
+[^155]: A 46. § h) pontját a 389/2014. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, a 219/2016. (VII. 22.) Korm. rendelet 6. §-a hatályon kívül helyezte.

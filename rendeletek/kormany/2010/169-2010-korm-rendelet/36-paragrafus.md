@@ -1,5 +1,6 @@
-36. § (1)[^133]
+36. § (1)[^136]
 
-(2) A kérelemhez csatolni kell az ismert szállító védelmi tisztjének kinevezését és az ismert szállító védelmi programját, valamint a légiközlekedés védelmi feladatok ellátásával összefüggő uniós előírásokban meghatározott információkat, nyilatkozatokat. A védelmi programban foglaltak teljesülését minden esetben helyszíni szemlén ellenőrzi a légiközlekedési hatóság.
+(2)[^137] A kérelemhez csatolni kell az ismert szállító védelmi tisztjének kinevezését és az ismert szállító védelmi programját, valamint a légiközlekedés védelmi feladatok ellátásával összefüggő uniós előírásokban meghatározott információkat, nyilatkozatokat. A védelmi programban foglaltak teljesülését a légiközlekedési hatóság ellenőrzi.
 
-[^133]: A 36. § (1) bekezdését a 389/2014. (XII. 31.) Korm. rendelet 21. § e) pontja hatályon kívül helyezte.
+[^136]: A 36. § (1) bekezdését a 389/2014. (XII. 31.) Korm. rendelet 21. § e) pontja hatályon kívül helyezte.
+[^137]: A 36. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 304. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

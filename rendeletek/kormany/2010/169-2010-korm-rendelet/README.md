@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-169-20-
 | 2016-05-01 | 2010-169-20-22.15 | 88/2016. (IV. 29.) Korm. rendelet |
 | 2016-08-06 | 2010-169-20-22.16 | 219/2016. (VII. 22.) Korm. rendelet |
 | 2017-01-01 | 2010-169-20-22.17 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2010-169-20-22.18 | 457/2017. (XII. 28.) Korm. rendelet |
