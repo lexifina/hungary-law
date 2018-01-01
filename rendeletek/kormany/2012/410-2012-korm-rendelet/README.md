@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-410-20-
 | 2016-12-21 | 2012-410-20-22.12 | 394/2016. (XII. 5.) Korm. rendelet |
 | 2017-01-01 | 2012-410-20-22.13 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2017-12-29 | 2012-410-20-22.14 | 435/2017. (XII. 21.) Korm. rendelet |
+| 2018-01-01 | 2012-410-20-22.15 | 457/2017. (XII. 28.) Korm. rendelet |

@@ -1,4 +1,4 @@
-21. §[^104] (1) A (2)–(5) bekezdésben meghatározott eljárásrend követendő
+21. §[^117] (1) A (2)–(5) bekezdésben meghatározott eljárásrend követendő
 
 a) bezárás,
 
@@ -42,4 +42,4 @@ c) a (2) bekezdés szerinti kötelezettség határidőben történő teljesíté
 
 (7) A hatóság a miniszteri döntés alapján indított eljárásról és annak eredményéről a minisztert az eljárást lezáró döntés megküldésével értesíti.
 
-[^104]: A 21. § a 394/2016. (XII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^117]: A 21. § a 394/2016. (XII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
