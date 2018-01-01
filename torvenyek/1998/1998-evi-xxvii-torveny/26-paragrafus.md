@@ -12,6 +12,6 @@ a) adatszolgáltatásra – így a személyes adatok körében név, cím, elér
 
 b) termék vagy termékcsoport felhasználását, forgalmazását felfüggesztő, illetve megtiltó
 
-határozatot hoz, amelyet a miniszter által vezetett minisztérium hivatalos lapjában, honlapján, valamint a nemzeti hírügynökségen keresztül kell közzétenni. Az így közzétett határozat fellebbezésre tekintet nélkül azonnal végrehajtandó. A határozat közlése időpontjának az első közzététel időpontja minősül.
+határozatot hoz, amelyet a miniszter által vezetett minisztérium hivatalos lapjában, honlapján, valamint a nemzeti hírügynökségen keresztül kell közzétenni. Az így közzétett határozat azonnal végrehajtandó. A határozat közlése időpontjának az első közzététel időpontja minősül.
 
-(3) A határozat a közigazgatási hatósági eljárás általános szabályairól szóló törvény által előírt jogosult vagy kötelezett ügyfél személyazonosító adatai helyett a döntéssel érintett termékkört, illetve személyi kört tartalmazza.
+(3) A határozat az általános közigazgatási rendtartásról szóló törvény által előírt jogosult vagy kötelezett ügyfél személyazonosító adatai helyett a döntéssel érintett termékkört, illetve személyi kört tartalmazza.

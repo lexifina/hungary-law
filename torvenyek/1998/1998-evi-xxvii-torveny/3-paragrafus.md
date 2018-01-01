@@ -10,4 +10,8 @@
 
 (3) Az engedély iránti kérelem formai és tartalmi követelményeit az e törvény felhatalmazása alapján kiadott jogszabály vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa tartalmazza.
 
-(4) A II. és III. fejezetben foglalt hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+(4)
+
+(5) Az e törvény hatálya alá tartozó eljárásokban az eljáró hatóság elsőfokú döntését akkor is módosíthatja vagy visszavonhatja, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
+
+(6) A bíróság az egészségügyi géntechnológiai hatóság, valamint a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság (a továbbiakban együtt: géntechnológiai hatóság) közigazgatási cselekményét nem változtathatja meg.

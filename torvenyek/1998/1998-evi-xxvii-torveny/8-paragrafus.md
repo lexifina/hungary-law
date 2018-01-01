@@ -1,6 +1,6 @@
 8. § (1) A géntechnológiai tevékenység engedélyezése iránti kérelmet – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott dokumentációval együtt – a géntechnológiai hatósághoz kell benyújtani. A géntechnológiai hatóság
 
-a) a kérelem beérkezéséről értesíti az ügyfelet a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az ügyfél kérelmére történő értesítésére vonatkozó szabályai szerint,
+a)
 
 b) 8 napon belül megvizsgálja, hogy a kérelem formailag és tartalmilag eleget tesz-e e törvény és a felhatalmazása alapján kiadott jogszabály előírásainak; amennyiben a kérelem nem tesz eleget a vonatkozó jogszabályi előírásoknak, hiánypótlásra visszaküldi azt, megjelölve a kérelem elbírálásához szükséges további információkat és benyújtásuk szükségességének okát,
 

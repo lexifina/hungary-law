@@ -12,6 +12,6 @@ a) visszavonja a géntechnológiai tevékenységre vonatkozó, nemzeti hatáskö
 
 b) uniós hatáskörbe tartozó engedély esetén az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott kapcsolattartó szerven keresztül kezdeményezi az engedély visszavonását.
 
-(3) A géntechnológiai hatóság a nemzeti hatáskörbe tartozó engedély feltételhez kötéséről, módosításáról, felfüggesztéséről vagy visszavonásáról szóló határozatát közli a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túlmenően a nyilvántartó szervvel is.
+(3) A géntechnológiai hatóság a nemzeti hatáskörbe tartozó engedély feltételhez kötéséről, módosításáról, felfüggesztéséről vagy visszavonásáról szóló határozatát közli az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően a nyilvántartó szervvel is.
 
 (4) A 22. § (1) bekezdés b) pontja szerinti esetben a géntechnológiai hatóság a nem engedélyezett géntechnológiai tevékenységet folytató természetes vagy jogi személyt, valamint jogi személyiséggel nem rendelkező szervezetet 3 évig eltilthatja minden géntechnológiai tevékenység végzésétől, aki ezáltal a tilalom idejére géntechnológiai tevékenység végzésére jogosító engedélyt nem kaphat.
