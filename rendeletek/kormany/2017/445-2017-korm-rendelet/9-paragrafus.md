@@ -1,0 +1,3 @@
+## 8. § Az Mnbkr. 25. §-a a következő (14) bekezdéssel egészül ki:
+
+## „(14) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 445/2017. (XII. 27.) Korm. rendelet 4. §-ával megállapított 6. § (1) és (4) bekezdését, 5. §-ával megállapított 8. § (7) bekezdés c) pontját, f) pont fc) alpontját, (8) bekezdését, 6. §-ával megállapított 9. § (6) bekezdés e) pontját, (8) bekezdését, 7. §-ával megállapított 13. § (2) bekezdését, 9. §-ával megállapított 5. § (8) bekezdését, 10. §-ával megállapított 14. § (12) bekezdését először a 2018. évben induló üzleti évről készített beszámolóra kell alkalmazni, de azok már a 2017. évben induló üzleti évről készített beszámolóra is alkalmazhatók.”

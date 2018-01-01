@@ -1,0 +1,5 @@
+## 34. § Az Eszkr. 50. §-a helyébe a következő rendelkezés lép:
+
+## „50. § (1) Az MRP szervezetnek a bevételeit legalább a saját erő címen a résztvevők által befizetett összegek, a résztvevőket foglalkoztató társaság által átutalt összeg, a résztvevők egyéb befizetései, más természetes és jogi személy befizetései, kapott osztalék, részesedés, vagyonrészek értékesítéséből származó bevételek, az egyéb bevételek és a pénzügyi műveletek egyéb bevételei csoportosításban kell bemutatni. Külön kell szerepeltetni a működési költségeket, a fizetett kamatokat, a pénzügyi műveletek egyéb ráfordításait, az értékesített vagyonrészek nyilvántartás szerinti (könyv szerinti) értékét, a résztvevők tulajdonába adott vagyonrészek nyilvántartás szerinti (könyv szerinti) értékét is.
+
+## (2) A javadalmazási politika keretében megszerzett pénzügyi eszközök (részvények) Mrptv. 24/G. § (9) bekezdése szerinti, eredménnyel szembeni átértékelését – a Tv. alapelveiből következően –, tartalmát tekintve a pénzügyi műveletek egyéb bevételeivel vagy a pénzügyi műveletek egyéb ráfordításaival szemben kell elszámolni.”
