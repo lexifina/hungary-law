@@ -12,7 +12,7 @@ pótlékot folyósít.
 
 (5) A (4) bekezdés szerinti pótlék esetenkénti összege 2006. évben gyermekenként 7500 forint. A 2006. évet követően a pótlék összegének emeléséről az Országgyűlés a költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
 
-(6) Ha a pénzbeli ellátást jogerősen megállapították, az
+(6) Ha a pénzbeli ellátást végleges döntéssel megállapították, az
 
 a) a kérelem benyújtásától esedékes azzal, hogy ha a kérelmet
 

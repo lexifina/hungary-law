@@ -8,7 +8,7 @@ b) a szakértői tevékenységgel összefüggő munkahelyének és munkaköréne
 
 c) iskolai végzettségének, szakképzettségének, szakképesítésének megnevezését, az erről kiállított oklevél, bizonyítvány számát, a kiállítás helyét és időpontját, a kiállító intézmény megnevezését,
 
-d) szakvizsgájának, egyetemi doktori címének vagy tudományos fokozatának megnevezését, az erről kiállított okirat számát, a kiállítás helyét és időpontját, a kiállító intézmény megnevezését,
+d) egyetemi doktori címének vagy tudományos fokozatának megnevezését, az erről kiállított okirat számát, a kiállítás helyét és időpontját, a kiállító intézmény megnevezését,
 
 e) szakterületének(einek) megnevezését,
 
@@ -22,13 +22,13 @@ i) szakértői tevékenysége szüneteltetésének, felfüggesztésének időtar
 
 (2a) Az (1) bekezdés szerinti névjegyzék a (2) bekezdés e)–g) és i) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(3) A névjegyzékben szereplő adatokból – szakterületenkénti tagolásban – a Kormány által erre kijelölt szerv a Szolg. tv. 30. § (2) bekezdésében meghatározottakon túl a Szociális Ágazati Portálon közzéteszi a szakértő
+(3) A névjegyzékben szereplő adatokból – szakterületenkénti tagolásban – a Kormány által erre kijelölt szerv a Szolg. tv. 30. § (2) bekezdésében meghatározottakon túl a Szociális Ágazati Portálon közhírré teszi a szakértő
 
 a) értesítési címét,
 
-b) egyéb elérhetőségét, ha hozzájárult annak közzétételéhez,
+b) egyéb elérhetőségét, ha hozzájárult annak közhírré tételéhez,
 
-c) iskolai végzettségét, szakképzettségét, szakképesítését, szakvizsgájának, egyetemi doktori címének, illetve tudományos fokozatának megnevezését,
+c) iskolai végzettségét, szakképzettségét, szakképesítését, egyetemi doktori címének, illetve tudományos fokozatának megnevezését,
 
 d) szakmai tevékenységének leírását,
 

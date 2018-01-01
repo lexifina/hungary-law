@@ -26,6 +26,12 @@ e) 30%-át a fiatal felnőtt utógondozói ellátása esetén.
 
 (4) A családok átmeneti otthona esetében a szolgáltatást a gyermekkel együtt igénybe vevő szülő és nagykorú testvér számára is személyi térítési díjat kell megállapítani a (3) bekezdés d) pontjának figyelembevételével.
 
+(4a) A családok átmeneti otthona külső férőhelye esetén
+
+a) ha szociális munkát is nyújtanak a család számára, a személyi térítési díj összege igénybe vevőnként nem haladhatja meg az (1) bekezdésben meghatározott jövedelem 40%-át,
+
+b) az a) ponton kívüli esetben lakhatási költséget kell meghatározni személyi térítési díjként.
+
 (5) Ingyenes ellátásban kell részesíteni a jogosultat, ha a térítési díj fizetésére kötelezett jövedelemmel nem rendelkezik.
 
 (6) Bölcsődében, mini bölcsődében nyújtott bölcsődei ellátás esetén

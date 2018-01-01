@@ -66,7 +66,7 @@ b) a szülő nyilatkozatát arról, hogy a gyermekjóléti szolgáltatást nyúj
 
 (8) Az intézményvezetőnek az ellátásra jogosult gyermek, fiatal felnőtt azonnali elhelyezéséről kell gondoskodnia
 
-a) az elhelyezés fellebbezésre tekintet nélküli végrehajtását elrendelő határozat alapján,
+a) az elhelyezés azonnali végrehajtását elrendelő határozat alapján,
 
 b) soron kívüli elhelyezésre vonatkozó indokolt kérelem alapján,
 

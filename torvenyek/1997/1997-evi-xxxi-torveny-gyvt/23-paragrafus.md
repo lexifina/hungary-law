@@ -2,6 +2,6 @@
 
 (2) A gyámhatóság az (1) bekezdésben meghatározott összegnél alacsonyabb összeget akkor állapíthat meg, ha a gyermek tartását a gondozó szülő részben biztosítani tudja. A megelőlegezett összeg ebben az esetben sem lehet kevesebb az öregségi nyugdíj legkisebb összegének 10%-ánál.
 
-(3) A gyámhatóság a gyermektartásdíj megelőlegezését elrendelő határozatát a fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
+(3) A gyámhatóság a gyermektartásdíj megelőlegezését elrendelő határozatát azonnal végrehajthatóvá nyilváníthatja.
 
 (4) A gyámhatóság a gyermektartásdíj megelőlegezését a központi költségvetés terhére biztosítja.

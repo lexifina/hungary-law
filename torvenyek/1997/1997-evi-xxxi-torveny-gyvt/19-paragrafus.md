@@ -18,15 +18,15 @@ b) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságba
 
 (2) A gyámhatóság megállapítja a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát, amennyiben a gyermeket gondozó családban az egy főre jutó havi jövedelem összege nem haladja meg
 
-a) az öregségi nyugdíj mindenkori legkisebb összegének (a továbbiakban: az öregségi nyugdíj legkisebb összege) a 140%-át,
+a) az öregségi nyugdíj mindenkori legkisebb összegének (a továbbiakban: az öregségi nyugdíj legkisebb összege) a 145%-át, ha
 
-aa) ha a gyermeket egyedülálló szülő, illetve más törvényes képviselő gondozza, vagy
+aa) a gyermeket egyedülálló szülő vagy más törvényes képviselő gondozza,
 
-ab) ha a gyermek tartósan beteg, illetve súlyosan fogyatékos, vagy
+ab) a gyermek tartósan beteg, illetve súlyosan fogyatékos, vagy
 
-ac) ha a nagykorúvá vált gyermek megfelel a 20. § (2) bekezdésében foglalt feltételeknek;
+ac) a nagykorúvá vált gyermek megfelel a 20. § (2) bekezdésében foglalt feltételeknek;
 
-b) az öregségi nyugdíj legkisebb összegének 130%-át az a) pont alá nem tartozó esetben,
+b) az öregségi nyugdíj legkisebb összegének 135%-át az a) pont alá nem tartozó esetben,
 
 feltéve, hogy a vagyoni helyzet vizsgálata során az egy főre jutó vagyon értéke nem haladja meg külön-külön vagy együttesen a (7) bekezdésben meghatározott értéket.
 

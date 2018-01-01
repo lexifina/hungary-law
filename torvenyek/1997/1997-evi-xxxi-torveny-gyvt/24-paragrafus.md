@@ -1,10 +1,10 @@
-24. § (1) Ha a gyermektartásdíj megelőlegezését jogerősen megállapítják, az a kérelem benyújtásától esedékes. A folyósítás időtartama a kérelem benyújtásának napjától az alapul szolgáló ok előrelátható fennállásáig, legfeljebb azonban három évig tart. A feltételek fennállása esetén – függetlenül az adók módjára történő behajtás eredményétől – ugyanazon gyermekre tekintettel, egy alkalommal, legfeljebb további három évre a megelőlegezés továbbfolyósítható, illetve ismételten elrendelhető.
+24. § (1) Ha a gyermektartásdíj megelőlegezését végleges döntéssel megállapítják, az a kérelem benyújtásától esedékes. A folyósítás időtartama a kérelem benyújtásának napjától az alapul szolgáló ok előrelátható fennállásáig, legfeljebb azonban három évig tart. A feltételek fennállása esetén – függetlenül a (8) bekezdés szerinti megtérítés elmaradása esetén a végrehajtás eredményétől – ugyanazon gyermekre tekintettel, egy alkalommal, legfeljebb további három évre a megelőlegezés továbbfolyósítható, illetve ismételten elrendelhető.
 
-(2) Ha a gyermektartásdíj megelőlegezését jogerősen elrendelték, az a kérelem benyújtásától esedékes, azzal, hogy ha a kérelmet
+(2) Ha a gyermektartásdíj megelőlegezését megállapító döntés véglegessé vált, az ellátás a kérelem benyújtásától esedékes azzal, hogy ha a kérelmet
 
-a) a tárgyhónap 15-éig nyújtották be, a gyermektartásdíj megelőlegezését elrendelő jogerős határozatban megállapított teljes összeget,
+a) a tárgyhónap 15-éig nyújtották be, a gyermektartásdíj megelőlegezését elrendelő véglegessé vált határozatban megállapított teljes összeget,
 
-b) a tárgyhónap 15-ét követően nyújtották be, a gyermektartásdíj megelőlegezését elrendelő jogerős határozatban megállapított összeg 50%-át
+b) a tárgyhónap 15-ét követően nyújtották be, a gyermektartásdíj megelőlegezését elrendelő véglegessé vált határozatban megállapított összeg 50%-át
 
 kell kifizetni.
 
@@ -32,15 +32,15 @@ d) a kötelezett meghalt.
 
 (6)
 
-(7) Ha a gyermektartásdíj megelőlegezésére való jogosultság megszűnik, az a jogosultság megszűnésének hónapjáig esedékes azzal, hogy ha a megszűnés
+(7) Ha a gyermektartásdíj megelőlegezésére való jogosultság megszűnik, az ellátás a jogosultság megszűnésének hónapjáig esedékes azzal, hogy ha a megszűnés
 
-a) a tárgyhónap 15-éig következik be, a gyermektartásdíj megelőlegezését elrendelő jogerős határozatban megállapított összeg 50%-át,
+a) a tárgyhónap 15-éig következik be, a gyermektartásdíj megelőlegezését elrendelő véglegessé vált határozatban megállapított összeg 50%-át,
 
-b) a tárgyhónap 15-ét követően következik be, a gyermektartásdíj megelőlegezését elrendelő jogerős határozatban megállapított teljes összeget
+b) a tárgyhónap 15-ét követően következik be, a gyermektartásdíj megelőlegezését elrendelő véglegessé vált határozatban megállapított teljes összeget
 
 kell kifizetni.
 
-(8) A megelőlegezett gyermektartásdíjat a kötelezett a Polgári Törvénykönyvben meghatározott kamattal az államnak megtéríti. A megelőlegezett gyermektartásdíjnak meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint.
+(8) A megelőlegezett gyermektartásdíjat a kötelezett a Polgári Törvénykönyvben meghatározott kamattal az államnak megtéríti.
 
 (9) A gyámhatóság a megelőlegezett gyermektartásdíj kötelezett által meg nem térített összegét a kötelezett kérelmére és a 133. § (5) bekezdésében foglalt feltételek fennállása esetén méltányosságból elengedheti, csökkentheti, illetve részletfizetést engedélyezhet.
 

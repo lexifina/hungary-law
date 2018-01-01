@@ -1,1 +1,1 @@
-133/B. § A kapcsolattartásra vonatkozó határozat végrehajtására irányuló eljárásban hozott valamennyi döntés ellen fellebbezésnek van helye. A kapcsolattartásra vonatkozó határozat végrehajtására irányuló eljárásban előterjesztett fellebbezésnek halasztó hatálya van.
+133/B. § A kapcsolattartásra vonatkozó határozat végrehajtására irányuló eljárásban hozott valamennyi döntés ellen fellebbezésnek van helye.

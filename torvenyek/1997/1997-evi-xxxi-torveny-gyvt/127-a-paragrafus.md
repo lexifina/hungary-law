@@ -1,0 +1,1 @@
+127/A. § A gyámhatóság akkor is félként jár el azokban a közigazgatási perekben, polgári perekben, valamint egyéb bírósági eljárásokban, amelyekben jogszabály alapján perindításra jogosult, ha egyébként nincs perbeli jogképessége.

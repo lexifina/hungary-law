@@ -39,3 +39,5 @@ a) a szülő ellen gyermeke vagy a gyermeket nevelő másik szülő sérelmére 
 b) a szülő ellen gyermeke vagy a gyermeket nevelő másik szülő sérelmére elkövetett külön törvényben meghatározott hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozat vagy megelőző távoltartó határozat iránti eljárás van folyamatban, a távoltartás időtartamáig.
 
 (6) Az (5) bekezdés szerinti korlátozást a büntetőeljárás befejezésekor felül kell vizsgálni.
+
+(7) A polgári perben érintett kiskorú tartózkodási helyére vonatkozóan a szülő tájékoztatását a bíróság és a gyámhatóság megtagadhatja a korlátozottan cselekvőképes gyermek kérelmére, vagy a kiskorú törvényes képviselője kérelmére, ha a gyermek nincs a szülő gondozásában, a szülő nem jogosult vele kapcsolatot tartani vagy csak felügyelt kapcsolattartásra jogosult és a gyermek tartózkodási helyének szülő általi megismerése az érdekét veszélyeztetné.

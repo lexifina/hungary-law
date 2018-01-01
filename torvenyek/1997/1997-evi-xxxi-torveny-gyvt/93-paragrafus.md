@@ -24,13 +24,13 @@ a) a havi jövedelme az öregségi nyugdíj legkisebb összegének háromszoros�
 
 b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott készpénzvagyonának értéke az öregségi nyugdíj legkisebb összegének negyvenszeresét nem haladja meg.
 
-(4) Az utógondozói ellátás elrendeléséről a gyámhatóság fellebbezésre tekintet nélkül végrehajtható határozatban dönt.
+(4) Az utógondozói ellátás elrendeléséről a gyámhatóság azonnal végrehajtható határozatban dönt.
 
 (5) Az otthonteremtési támogatásban részesült fiatal felnőtt utógondozói ellátását a gyámhatóság akkor rendeli el, ha a fiatal felnőtt létfenntartását vagy lakhatását veszélyeztető, rendkívüli élethelyzetbe került.
 
 (6) Az utógondozói ellátás ismételten elrendelhető az (1) bekezdésben meghatározott ok fennállása esetén, legfeljebb a (2) bekezdésben meghatározott időtartamig.
 
-(7) Nincs helye az utógondozói ellátás ismételt elrendelésének, ha az utógondozói ellátás megszüntetésére a (10) bekezdés b), c), e) és f) pontjában foglaltak miatt került sor és a megszüntető határozat jogerőre emelkedésétől számítva egy év még nem telt el.
+(7) Nincs helye az utógondozói ellátás ismételt elrendelésének, ha az utógondozói ellátás megszüntetésére a (10) bekezdés b), c), e) és f) pontjában foglaltak miatt került sor és a megszüntető határozat véglegessé válásától számítva egy év még nem telt el.
 
 (8) Az (1) bekezdés a) és c) pontjában meghatározott ok alapján elrendelt utógondozói ellátásban részesülő munkaképes fiatal felnőtt köteles az állami foglalkoztatási szervvel együttműködni.
 
@@ -38,9 +38,11 @@ b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott kés
 
 a) az (1) bekezdés a) pontja szerinti ok miatt részesül ellátásban, az utógondozói ellátás elrendelése okának megszűnésével, de legkésőbb a fiatal felnőtt 21. életévének betöltésével, vagy ha speciális vagy különleges ellátási szükségletűként érte el nagykorúságát, a 22. életévének betöltésével,
 
-b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói, hallgatói vagy felnőttképzési jogviszony megszűnését követő 120. napon, de tanulói vagy felnőttképzési jogviszony fennállása esetén legkésőbb a 24., hallgatói jogviszony fennállása esetén legkésőbb a 25. életévének betöltésével,
+b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói, hallgatói vagy felnőttképzési jogviszony megszűnését követő 120. napon, de tanulói vagy felnőttképzési jogviszony fennállása esetén legkésőbb a 24., hallgatói jogviszony fennállása esetén – (9a) bekezdésben foglalt kivétellel – legkésőbb a 25. életévének betöltésével,
 
 c) az (1) bekezdés c) pontja szerinti ok miatt részesül ellátásban, a szociális intézménybe való felvételével, de legkésőbb a 22. életévének betöltésével.
+
+(9a) A 25. életévét betöltött, hallgatói jogviszonyban álló fiatal felnőtt utógondozói ellátása a fiatal felnőtt kérelmére meghosszabbítható a hallgatói jogviszonya megszűnéséig, de legkésőbb a 30. életévének a betöltéséig. A kérelemről az utógondozói ellátást biztosító intézmény vagy nevelőszülői hálózat fenntartója dönt a fiatal felnőtt tanulmányaiból hátralévő időtartamra, a tanulmányok befejezésének esélyére, a fiatal felnőttnek az utógondozói ellátást nyújtó intézménnyel történő együttműködési készségére és a rászorultságára tekintettel.
 
 (10) A gyámhatóság az utógondozói ellátást megszünteti, ha a fiatal felnőtt
 

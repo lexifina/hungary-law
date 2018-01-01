@@ -36,4 +36,4 @@ a) az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőt
 
 b) az utógondozás vagy utógondozói ellátás alatt álló fiatal felnőtt esetén meghosszabbítja.
 
-(8) Az otthonteremtési támogatás céljának megvalósulásához az utógondozást biztosító intézmény a támogatással való elszámolásig segítséget nyújt, kivéve, ha az otthonteremtési támogatás célja lakás-előtakarékossági programban való részvétel. Lakás-előtakarékossági programban való részvétel esetén az utógondozást biztosító intézmény az otthonteremtési támogatást megállapító döntés jogerőre emelkedéséig, valamint szükség esetén a 26/B. § (3) és (7) bekezdése szerinti esetben nyújt segítséget.
+(8) Az otthonteremtési támogatás céljának megvalósulásához az utógondozást biztosító intézmény a támogatással való elszámolásig segítséget nyújt, kivéve, ha az otthonteremtési támogatás célja lakás-előtakarékossági programban való részvétel. Lakás-előtakarékossági programban való részvétel esetén az utógondozást biztosító intézmény az otthonteremtési támogatást megállapító döntés véglegessé válásáig, valamint szükség esetén a 26/B. § (3) és (7) bekezdése szerinti esetben nyújt segítséget.

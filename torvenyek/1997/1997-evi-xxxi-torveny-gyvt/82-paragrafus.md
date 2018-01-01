@@ -12,9 +12,9 @@
 
 (6) A megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményének felülvizsgálatát, valamint szükség szerinti új szakmai vélemény készítését a gyámhatóság megkeresése alapján az országos gyermekvédelmi szakértői bizottság végzi.
 
-(7) A megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság szakmai véleménye a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 50. § (5) bekezdése szerinti véleménynek minősül. A megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság a szakmai véleményének elkészítéséért díjazásban nem részesül.
+(7) A megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság a szakmai véleményének elkészítéséért díjazásban nem részesül.
 
-(8) A megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság pártatlanul és befolyásmentesen alakítja ki szakmai véleményét. A szakmai vélemény tartalma tekintetében a megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság nem utasítható. Az adott ügyben nem lehet a szakértői bizottság tagja az a személy, akivel szemben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 58. § (6) bekezdése alapján kizáró ok áll fenn.
+(8) A megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság pártatlanul és befolyásmentesen alakítja ki szakmai véleményét. A szakmai vélemény tartalma tekintetében a megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság nem utasítható. Az adott ügyben nem lehet a szakértői bizottság tagja az a személy, akivel szemben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 23. § (1) és (2) bekezdése szerinti kizáró ok áll fenn.
 
 (9) Ha a megyei, fővárosi vagy az országos gyermekvédelmi szakértői bizottság határidőn belül nem készíti el szakmai véleményét, a gyámhatóság megkeresi a szakértői bizottságot fenntartó szervet, hogy
 

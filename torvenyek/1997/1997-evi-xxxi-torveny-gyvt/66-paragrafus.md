@@ -12,7 +12,7 @@ biztosítja.
 
 a) gyermekvédelmi gyámi, eseti gyámi hálózatot működtet,
 
-b) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv döntése alapján a gyermekek ideiglenes hatályú elhelyezését biztosító nevelőszülői hálózatot és gyermekotthont működtet,
+b) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv döntése alapján a gyermekek ideiglenes hatályú elhelyezését és – a gondozási hely 80/B. § (3) bekezdése szerinti azonnali megváltoztatása esetén – a gyermekek ideiglenes befogadását biztosító nevelőszülői hálózatot és gyermekotthont működtet,
 
 c)
 
@@ -20,4 +20,8 @@ d) az állam fenntartói feladatainak ellátására a Kormány rendeletében kij
 
 e) ügyeleti szolgálatot működtet,
 
-f) működteti a gyermekvédelmi szakértői bizottságot.
+f) működteti a gyermekvédelmi szakértői bizottságot,
+
+g) több gyermek áldozattá válása, vagy a gyermek áldozattá válásának több gyermekre vonatkozó jelentős hatása esetén a gyermekeket ért trauma feldolgozása és az ellátást biztosító szakemberek tevékenységének támogatása érdekében kríziskezelő szolgáltatást nyújt.
+
+(4) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a területi gyermekvédelmi szakszolgáltatást önálló intézmény keretében biztosítja, amely intézmény kizárólag az (1)–(3) bekezdés és a 60–65. § szerinti feladatokat láthatja el.

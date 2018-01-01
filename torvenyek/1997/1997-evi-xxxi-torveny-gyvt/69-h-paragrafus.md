@@ -6,4 +6,4 @@
 
 (4) Ha a működést engedélyező szerv a közhasznú szervezet által nyújtott utánkövetés során az örökbe fogadott gyermek vagy az örökbe fogadó szülő súlyos jog- vagy érdeksérelmét észleli, az örökbefogadás utánkövetésére irányuló szolgáltatás végzését legfeljebb 60 napra felfüggeszti vagy a működési engedélyt visszavonja.
 
-(5) A működést engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, az örökbefogadás utánkövetésére irányuló szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a minisztérium hivatalos lapjában és a minisztérium honlapján történő közzétételéről.
+(5) A működést engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, az örökbefogadás utánkövetésére irányuló szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a minisztérium hivatalos lapjában és a minisztérium honlapján történő közhírré tételéről.

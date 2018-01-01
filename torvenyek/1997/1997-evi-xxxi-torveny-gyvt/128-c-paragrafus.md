@@ -1,0 +1,1 @@
+128/C. § Az örökbefogadás engedélyezése iránti eljárásban az iratbetekintési jog a titkos örökbefogadással összefüggésben a Ptk. 4:126. § (6) bekezdésében, a származás megismeréséhez fűződő joggal összefüggésben a Ptk. 4:135. §-ában foglalt korlátozással gyakorolható.

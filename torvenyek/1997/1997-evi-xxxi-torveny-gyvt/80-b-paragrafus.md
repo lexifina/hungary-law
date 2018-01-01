@@ -10,9 +10,9 @@ c) a gyermekotthon telephelye vagy a nevelőszülő lakóhelye megváltozik,
 
 és ezért a gyermek nevelését az addigi ellátási formában már nem vagy nem megfelelő módon lehet biztosítani.
 
-(2) A gyámhatóság a gondozási hely megváltoztatásáról soron kívül, fellebbezésre tekintet nélkül végrehajtható határozatban dönt.
+(2) A gyámhatóság a gondozási hely megváltoztatásáról soron kívül, azonnal végrehajtható határozatban dönt.
 
-(3) A gyámhatóság a gyermek gondozási helyének azonnali hatállyal történő megváltoztatásáról fellebbezésre tekintet nélkül végrehajtható határozatban dönt, ha a gyermek érdekét gondozási helye súlyosan veszélyezteti, illetve ha a gyermekvédelmi gyám a gyermeket súlyos veszélyeztetettsége miatt másik, biztonságos gondozási helyre viszi, erről a gyámhatóságot egyidejűleg értesíti, és kéri a kijelölt gondozási hely megváltoztatását.
+(3) A gyámhatóság a gyermek gondozási helyének azonnali hatállyal történő megváltoztatásáról azonnal végrehajtható határozatban dönt, ha a gyermek érdekét gondozási helye súlyosan veszélyezteti, illetve ha a gyermekvédelmi gyám a gyermeket súlyos veszélyeztetettsége miatt másik, biztonságos gondozási helyre viszi, erről a gyámhatóságot egyidejűleg értesíti, és kéri a kijelölt gondozási hely megváltoztatását.
 
 (4) A gyermekvédelmi gyám felmentése vagy elmozdítása esetén a gyámhatóság egyidejűleg új gyermekvédelmi gyámot rendel. Az egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő gyámi tisztségből való felmentése vagy elmozdítása esetén valamennyi gyámi feladatot a gyermekvédelmi gyám látja el.
 
@@ -30,4 +30,4 @@ e) a gyermek örökbefogadásának előkészítése során a szülő-gyermek kap
 
 (6) A gyermek tartózkodási helyét, illetve annak megváltoztatását – az (5) bekezdés a) és d) pontjának kivételével – a gyermekvédelmi gyám bejelenti a gyámhatóságnak, és kéri annak jóváhagyását. Az (5) bekezdés a) és d) pontjában meghatározott esetekben a gyermekvédelmi gyám értesíti a gyámhatóságot a gyermek tartózkodási helye megváltozásáról.
 
-(7) A gyámhatóság a (3) és a (6) bekezdésben meghatározott kérelemről annak megérkezését követő naptól számított huszonegy napon belül dönt. Ha a gyámhatóság huszonegy napon belül nem dönt, a bejelentett tartózkodási helyet jóváhagyottnak kell tekinteni. A gyámhatóság a gyermekvédelmi gyám kérelmét akkor utasítja el, ha a tartózkodási hely kijelölése vagy a gondozási hely megváltoztatása nem áll a gyermek érdekében.
+(7) A gyámhatóság a (3) és a (6) bekezdésben meghatározott kérelemről huszonöt napon belül dönt. Ha a gyámhatóság huszonöt napon belül nem dönt, a bejelentett tartózkodási helyet jóváhagyottnak kell tekinteni. A gyámhatóság a gyermekvédelmi gyám kérelmét akkor utasítja el, ha a tartózkodási hely kijelölése vagy a gondozási hely megváltoztatása nem áll a gyermek érdekében.

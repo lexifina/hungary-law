@@ -6,7 +6,7 @@ b) a 4. § (1) bekezdés b) pontja szerinti személy esetében a Magyarországon
 
 c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat,
 
-d) az ellátással kapcsolatos döntéseket, pénzbeli és természetbeni ellátás esetén a pénzbeli és természetbeni ellátás megnevezését, jogcímét, összegét és az ellátás megállapítására, megváltoztatására, megszüntetésére vonatkozó adatokat, a megszüntetés jogcímét, valamint az ellátásra való jogosultsággal összefüggő érdemi döntés jogerőre emelkedésének időpontját,
+d) az ellátással kapcsolatos döntéseket, pénzbeli és természetbeni ellátás esetén a pénzbeli és természetbeni ellátás megnevezését, jogcímét, összegét és az ellátás megállapítására, megváltoztatására, megszüntetésére vonatkozó adatokat, a megszüntetés jogcímét, valamint az ellátásra való jogosultsággal összefüggő érdemi döntés véglegessé válásának időpontját,
 
 e) a jogosultság megállapításához szükséges jövedelmi adatokat,
 

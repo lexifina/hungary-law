@@ -10,4 +10,4 @@ c) a kötelezett rendszeres jövedelemmel nem rendelkezik.
 
 (3) A gyámhatóság a behajtásra kimutatott gondozási díjhátralékot méltányosságból elengedheti, vagy annak megfizetésére halasztást, illetve részletfizetési kedvezményt engedélyezhet. A gondozási díj meg nem fizetése esetén késedelmi pótlék nem állapítható meg.
 
-(4) A gondozásidíj-hátralék adók módjára történő behajtásáról – az állami fenntartó megkeresésére – a kötelezett lakóhelye szerinti települési önkormányzat jegyzője adóügyi hatáskörében gondoskodik.
+(4) A gondozási díjhátralék végrehajtása érdekében az állami fenntartó megkeresi a kötelezett lakóhelye szerinti önkormányzati adóhatóságot, amely a végrehajtást az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény „Adók módjára behajtandó köztartozás végrehajtása” címében foglaltak szerint jár el.

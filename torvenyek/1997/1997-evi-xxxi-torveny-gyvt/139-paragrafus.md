@@ -28,7 +28,7 @@ d) a finanszírozás, támogatás költségvetési törvény szerinti jogcímét
 
 e) hatósági döntéssel elhelyezett gyermek, illetve fiatal felnőtt esetén
 
-ea) a határozatot hozó szerv nevét, a határozat számát, keltét, jogerőre emelkedésének napját,
+ea) a határozatot hozó szerv nevét, a határozat számát, keltét, véglegessé válásának napját,
 
 eb) a hatósági döntés jellegét (ideiglenes hatályú elhelyezés, nevelésbe vétel, utógondozói ellátás elrendelése),
 
@@ -40,7 +40,7 @@ ee) a gyermek, fiatal felnőtt ügyében eljárni illetékes területi gyermekv�
 
 f) a fiatal felnőtt hatósági döntéssel elrendelt utógondozása esetén
 
-fa) a határozatot hozó szerv nevét, a határozat számát, keltét, jogerőre emelkedésének napját,
+fa) a határozatot hozó szerv nevét, a határozat számát, keltét, véglegessé válásának napját,
 
 fb) a hatósági döntés jellegét (utógondozás elrendelése, otthonteremtési támogatás igénybevétele miatti utógondozás elrendelése).
 

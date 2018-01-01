@@ -8,4 +8,4 @@
 
 (4) A tartásra egysorban köteles szülőket a gyámhatóság külön-külön kötelezi a gondozási díj megfizetésére.
 
-(5) A határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(5) A határozat azonnal végrehajthatóvá nyilvánítható.

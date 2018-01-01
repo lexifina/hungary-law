@@ -32,7 +32,13 @@ köteles működtetni.
 
 (5) A települési önkormányzat által fenntartott intézmények ellátási területe a település lakosságára terjed ki, kivéve, ha az intézményt társulás keretében közösen tartják fenn, vagy ha az ellátást szerződésben vállalta más önkormányzat lakosságára is kiterjedően.
 
-(5a) A települési önkormányzat által fenntartott bölcsőde, mini bölcsőde a szolgáltatói nyilvántartásban szereplő férőhelyszáma legfeljebb 15%-áig az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező gyermek ellátását is biztosíthatja, feltéve, hogy az ellátási területén lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező valamennyi bölcsődei ellátást igénylő és arra jogosult gyermek ellátását biztosítani tudja.
+(5a) A települési önkormányzat által fenntartott
+
+a) bölcsőde a szolgáltatói nyilvántartásban szereplő férőhelyszáma legfeljebb 25%-áig,
+
+b) mini bölcsőde a szolgáltatói nyilvántartásban szereplő férőhelyszáma legfeljebb 50%-áig
+
+az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező gyermek ellátását is biztosíthatja, feltéve, hogy az ellátási területén lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező valamennyi bölcsődei ellátást igénylő és arra jogosult gyermek ellátását biztosítani tudja.
 
 (6) Ha az intézmény ellátási területe a fenntartó önkormányzat illetékességi területét meghaladja, – eltérő megállapodás hiányában – az ellátást valamennyi jogosult számára azonos feltételek szerint kell biztosítani. E rendelkezést kell alkalmazni az ellátás megszüntetése esetén is.
 

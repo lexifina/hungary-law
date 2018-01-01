@@ -52,7 +52,7 @@ b) a gyermek nevelésbe vételéről és gondozási helyének meghatározásár�
 
 c) a nevelésbe vett gyermek gondozási helyének meghatározásáról és a 79. § (5) bekezdése szerinti járulékos kérdésekről
 
-egy eljárás keretében, harmincöt napon belül, fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatban dönt.
+egy eljárás keretében, negyvenöt napon belül, azonnal végrehajthatóvá nyilvánított határozatban dönt.
 
 (5) A gyermeknek az ideiglenes gondozási helyre viteléről a gyámhatóság rendelkezése alapján a gyermek szülője, gyámja, a gyermeket gondozó más személy, a nevelőszülői hálózatot működtető, a gyermekjóléti központ vagy a gyámhatóság gondoskodik.
 

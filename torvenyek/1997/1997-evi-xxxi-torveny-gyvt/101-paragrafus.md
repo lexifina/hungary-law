@@ -32,7 +32,9 @@ h) a Kormány rendeletében kijelölt szerv központi szerve útján gondoskodik
 
 i) az egyházi fenntartású nevelőszülői, gyermekotthoni ellátás területén az országos módszertani feladatok ellátására egyházi fenntartású intézményeket jelölhet ki.
 
-j) gondoskodik az országos örökbefogadás elősegítéséről.
+j) gondoskodik az országos örökbefogadás elősegítéséről,
+
+k) jóváhagyja és a minisztérium honlapján közzéteszi a gyermekbántalmazás elleni módszertant, a gyermekbántalmazás kivizsgálásának módszertanát, valamint a gyermekvédelmi jelzőrendszer működésének és működtetésének szakmai módszereit.
 
 (3) A miniszter gondoskodik a nevelésbe vett
 

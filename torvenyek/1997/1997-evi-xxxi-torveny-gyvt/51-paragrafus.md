@@ -2,7 +2,7 @@
 
 51. § (1) Az otthontalanná vált szülő kérelmére a családok átmeneti otthonában együttesen helyezhető el a gyermek és szülője, valamint legfeljebb 21. életévének betöltéséig vagy – ha köznevelési, felsőoktatási vagy felnőttképzési intézménnyel, szolgáltatóval tanulói, hallgatói vagy felnőttképzési jogviszonyban áll –, legfeljebb 24. életévének betöltéséig a gyermek nagykorú testvére, feltéve, hogy elhelyezés hiányában lakhatásuk nem lenne biztosított, és a gyermeket emiatt el kellene választani szülőjétől, családjától. A nagykorú testvér tanulói, hallgatói vagy felnőttképzési jogviszonyának fennállását félévente igazolni kell.
 
-(2) A családok átmeneti otthona legalább tizenkettő, de legfeljebb negyven felnőtt és gyermek együttes ellátását biztosítja. A családok átmeneti otthona működtethető telephelyenként legfeljebb tizenegy férőhelyes lakásban vagy családi házban. A telephelyek összférőhelyszáma nem haladhatja meg a székhely szerinti intézmény összes férőhelyeinek kétszeresét.
+(2) A családok átmeneti otthona legalább tizenkettő, de legfeljebb negyven felnőtt és gyermek együttes ellátását biztosítja.
 
 (3) A családok átmeneti otthona a felnőtt és a gyermek együttes ellátása során
 
@@ -59,3 +59,13 @@ ab) közreműködik – a gyermekjóléti szolgálattal együttműködve – a t
 ac) segítséget nyújt a bántalmazás következtében kialakult pszichés sérülések kezelésében és jogi tanácsadással segíti érdekeinek védelmét,
 
 b) legfeljebb öt év időtartamra kiegészítő tevékenysége keretében a bántalmazott társadalmi reintegrációja érdekében félutasház-szolgáltatást nyújthat.
+
+(12) A családok átmeneti otthona a férőhelyszámon belül kialakított külső férőhelyeken biztosíthatja azoknak a családoknak az ellátását, amelyek önálló lakhatásra támogatással képesek.
+
+(13) A külső férőhelyen történő ellátás időtartama a 45. § (6) bekezdése és a 47. § (3) bekezdés a) pontja szerinti időtartammal együtt sem haladhatja meg a három évet.
+
+(14) A külső férőhelyen ellátott családok számára kedvezményes lakhatást, és ha az önálló életvitel fenntartása érdekében szükséges, a 32. § (5) bekezdése szerinti megállapodásban meghatározottak szerint szociális munkát kell biztosítani.
+
+(15) A külső férőhelyek esetében a költségvetési támogatás a normál férőhelyekhez képest csökkentett mértékben illeti meg a fenntartót. A támogatás mértékét a központi költségvetésről szóló törvény állapítja meg.
+
+(16) Az egy családok átmeneti otthona keretében működtetett külső férőhelyek férőhelyszáma egybeszámítva nem haladhatja meg a családok átmeneti otthona férőhelyszámának 50%-át.

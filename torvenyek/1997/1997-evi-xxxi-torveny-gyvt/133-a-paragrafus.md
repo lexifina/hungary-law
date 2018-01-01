@@ -26,7 +26,7 @@ b) a területi gyermekvédelmi szakszolgálat által biztosított támogatott k�
 
 (6a) A közigazgatási hatósági eljárásban kirendelt ügygondnok kivételével a (6) bekezdést megfelelően kell alkalmazni az ügygondnok kirendelésére is.
 
-(7) A gyámhatóság által kiszabott, illetve megállapított eljárási költség és a kapcsolattartás meghiúsítása folytán keletkezett igazolt költségek meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint.
+(7)
 
 (10)
 

@@ -1,6 +1,6 @@
 ## Szolgáltatói nyilvántartás és a szolgáltatók, intézmények, hálózatok ellenőrzése
 
-98. § (1) Gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet a jogszabályokban előírt feltételek teljesítése esetén bármely fenntartó biztosíthat, ha a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet nyújtó, általa fenntartott szolgáltató, intézmény, hálózat (székhely, telephely) jogerősen be van jegyezve a szolgáltatói nyilvántartásba. Egyes gyermekvédelmi szolgáltató tevékenységek nyújtását jogszabály kizárólagosan állami szerv hatáskörébe utalhatja.
+98. § (1) Gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet a jogszabályokban előírt feltételek teljesítése esetén bármely fenntartó biztosíthat, ha a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet nyújtó, általa fenntartott szolgáltató, intézmény, hálózat (székhely, telephely) végleges döntéssel be van jegyezve a szolgáltatói nyilvántartásba. Egyes gyermekvédelmi szolgáltató tevékenységek nyújtását jogszabály kizárólagosan állami szerv hatáskörébe utalhatja.
 
 (2) A szolgáltatói nyilvántartás tartalmazza
 
@@ -14,7 +14,7 @@ d) a szolgáltató, intézmény, hálózat (székhely, telephely) és az általa
 
 (3) A szolgáltatói nyilvántartás hatósági nyilvántartás, amely közhitelesen tanúsítja a (2) bekezdés a), c) és d) pontja szerinti adatokat.
 
-(4) A szolgáltatói nyilvántartásból jogerősen törölt és a jogerősen módosított adatokat a szolgáltatói nyilvántartás történeti állományába kell helyezni. A történeti állományba helyezett,
+(4) A szolgáltatói nyilvántartásból jogerősen törölt és a módosított adatokat a szolgáltatói nyilvántartás történeti állományába kell helyezni. A történeti állományba helyezett,
 
 a) a (2) bekezdés b) pontja szerinti adatokat a történeti állományba helyezést követő egy év elteltével,
 
@@ -52,7 +52,7 @@ g) a minisztérium a gyermekvédelmi ágazati irányítási tevékenység ellát
 
 h) a rendőrség, az ügyészség, a bíróság és az igazságügyi szakértő bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából.
 
-(8) Ha jogszabály kivételt nem tesz, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások során a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott bármely bizonyítási eszköz felhasználható, de jogszabály előírhatja egyes bizonyítási eszközök kötelező alkalmazását.
+(8)
 
 (9) A szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) a jogszabályokban és a szolgáltatói nyilvántartásban foglaltaknak megfelelően kell működtetni, amelyet a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások lefolytatására kijelölt hatóság (a továbbiakban: működést engedélyező szerv) ellenőriz. Ha a szolgáltató, intézmény, hálózat (székhely, telephely) működése nem felel meg a jogszabályokban vagy a szolgáltatói nyilvántartásban foglaltaknak, a működést engedélyező szerv
 
@@ -66,29 +66,23 @@ d) alkalmazhatja a kormányrendeletben meghatározott egyéb jogkövetkezmények
 
 (10) A szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a fenntartó a kérelmeket, a kérelemhez csatolandó iratokat és nyilatkozatokat, valamint a működést engedélyező szervnek benyújtandó más iratokat elektronikus úton nyújtja be, a működést engedélyező szerv felé fennálló, jogszabályban meghatározott bejelentési kötelezettségét elektronikus úton teljesíti, a működést engedélyező szerv a döntéseit és az ellenőrzés megindításáról szóló értesítéseit elektronikus úton közli. A fenntartó meghatalmazotti képviselőjének adott meghatalmazás papíralapon is benyújtható.
 
-(10a) Ha a bejegyzéshez vagy az adatmódosításhoz kormányrendeletben meghatározott szakkérdést is vizsgálni kell, és kormányrendelet rövidebb ügyintézési határidőt nem állapít meg, az elsőfokú eljárásban
+(10a)
 
-a) az ügyintézési határidő ötven nap, és
+(10b)
 
-b) a szakhatóság eljárásának és a szakértői vélemény elkészítésének időtartama beszámít az ügyintézési határidőbe.
+(10c)
 
-(10b) Ha a működést engedélyező szerv az ellenőrzés során a módszertani feladatokat ellátó szervet vagy a kijelölt egyházi módszertani intézményt szakértőként rendeli ki, a szakértő a szakvéleményét a kirendelő végzés vele való közlésétől számított negyvenöt napon belül készíti el, és küldi meg a működést engedélyező szervnek.
+(11) A Szociális Ágazati Portálon – a (12) és (13) bekezdésben meghatározottak szerint – közhírré kell tenni
 
-(10c) A működést engedélyező szerv döntése ellen nincs helye fellebbezésnek.
+a) a működést engedélyező szerv végleges határozatát és a fenntartóval kötött hatósági szerződését, ha a szolgáltató, intézmény, hálózat (székhely, telephely) személyi vagy tárgyi feltételeinek hiánya miatt jogkövetkezményt állapított meg, vagy a fenntartóval hatósági szerződést kötött,
 
-(11) A Szociális Ágazati Portálon – a (12) és (13) bekezdésben meghatározottak szerint – közzé kell tenni
+b) a működést engedélyező szerv végleges határozatát és a fenntartóval kötött hatósági szerződését, ha a 100/A. § (1) bekezdés a), b) vagy e) pontjában meghatározott jogsértés miatt jogkövetkezményt állapított meg, vagy a fenntartóval hatósági szerződést kötött,
 
-a)
+c) az a) és b) pont szerinti ügyben a jogorvoslat vagy megismételt eljárás során hozott, és a közhírré tett döntés érdemében változást eredményező hatósági döntést vagy bírósági határozatot.
 
-b) a működést engedélyező szerv jogerős határozatát, fenntartóval kötött hatósági szerződését és hatósági szerződésben foglalt kötelezettség megszegését megállapító végzését, ha a szolgáltató, intézmény, hálózat (székhely, telephely) személyi vagy tárgyi feltételeinek hiánya miatt jogkövetkezményt állapított meg vagy a fenntartóval hatósági szerződést kötött,
+(12) A hatósági döntésről és a hatósági szerződésről közhírré tett dokumentumnak tartalmaznia kell
 
-c) a működést engedélyező szerv jogerős határozatát, fenntartóval kötött hatósági szerződését és hatósági szerződésben foglalt kötelezettség megszegését megállapító végzését, ha a 100/A. § (1) bekezdés a), b) vagy e) pontjában meghatározott jogsértés miatt jogkövetkezményt állapított meg vagy a fenntartóval hatósági szerződést kötött,
-
-d) a b) és c) pont szerinti ügyben a jogorvoslat vagy megismételt eljárás során hozott és a közzétett döntés érdemében változást eredményező hatósági döntést vagy bírósági határozatot.
-
-(12) A hatósági döntésről és a hatósági szerződésről közzétett dokumentumnak tartalmaznia kell
-
-a) a közzététel napját és a (11) bekezdés szerinti jogcímét,
+a) a közhírré tétel napját és a (11) bekezdés szerinti jogcímét,
 
 b) az eljáró működést engedélyező szerv megnevezését,
 
@@ -116,20 +110,20 @@ ed) a megállapított tényállást,
 
 ee) a megsértett jogszabályi rendelkezések megjelölését, és
 
-ef) a hatósági döntésben megállapított jogkövetkezményeket, illetve a fenntartó által a hatósági szerződésben vállalt kötelezettségeket, és az azok megszegésének esetére kikötött jogkövetkezményeket,
+ef) a hatósági döntésben megállapított jogkövetkezményeket, illetve a fenntartó által a hatósági szerződésben vállalt kötelezettségeket, a szerződésszegés jogkövetkezményeit és azok alkalmazásának időpontját,
 
-f) a jogerő beálltára történő utalást,
+f)
 
 g) a döntéssel szembeni jogorvoslati eljárás tényét, valamint
 
 h) a jogorvoslat vagy megismételt eljárás során hozott hatósági döntés vagy bírósági határozat esetén a hatósági döntést vagy bírósági határozatot, és annak rövid indokolását.
 
-(13) Titkos menedékház ügyében hozott hatósági döntés és bírósági határozat nem tehető közzé. A (6) bekezdés c) és d) pontja szerinti esetben a (12) bekezdés szerinti adatokat úgy kell közzétenni, hogy abból az intézmény (székhely, telephely) és a félutas ház címe ne legyen megismerhető.
+(13) Titkos menedékház ügyében hozott hatósági döntés és bírósági határozat nem tehető közhírré. A (6) bekezdés c) és d) pontja szerinti esetben a (12) bekezdés szerinti adatokat úgy kell közhírré tenni, hogy abból az intézmény (székhely, telephely) és a félutas ház címe ne legyen megismerhető.
 
-(14) A Szociális Ágazati Portálról a közzétett dokumentumot
+(14) A Szociális Ágazati Portálról a közhírré tett dokumentumot
 
 a) a szolgáltató, intézmény, hálózat (székhely, telephely) szolgáltatói nyilvántartásba történő bejegyzését követően haladéktalanul el kell távolítani, ha a 100/A. § (1) bekezdés e) pontja szerinti jogsértő állapot a szolgáltatói nyilvántartásba történő bejegyzéssel szűnik meg,
 
 b) a jogsértő állapot megszűnését követő öt év elteltével kell eltávolítani, ha a 100/A. § (1) bekezdés e) pontja szerinti jogsértő állapot nem a szolgáltatói nyilvántartásba történő bejegyzéssel szűnik meg,
 
-c) az a) és b) pontban nem említett esetben a jogsértés időpontját, illetve a jogsértő állapot megszűnését, de legkorábban a közzétételt követő egy év elteltével kell eltávolítani.
+c) az a) és b) pontban nem említett esetben a jogsértés időpontját, illetve a jogsértő állapot megszűnését, de legkorábban a közhírré tételt követő egy év elteltével kell eltávolítani.
