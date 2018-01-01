@@ -20,4 +20,6 @@ d) az éves műveletszámtól függetlenül CAT II. vagy CAT III. precíziós me
 
 (3) Ha az (1) vagy (2) bekezdésben meghatározott feltételek nem teljesülnek, de a repülőtér üzemben tartója indokoltnak tartja, a repülőtér nyitvatartási ideje alatt biztosíthat repülőtéri repüléstájékoztató vagy repülőtéri irányító szolgálatot.
 
-(4) A légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 33. §-ában meghatározott nyilvános repülőrendezvény engedélyezésekor a légiközlekedési hatóság – az esetileg megnövekedett légiforgalomra vagy a légiforgalom jellemzőire tekintettel – a rendezvény idejére előírhatja repülőtéri repüléstájékoztató szolgálat biztosítását.
+(4)[^1]
+
+[^1]: A 6. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 108. § a) pontja hatályon kívül helyezte.

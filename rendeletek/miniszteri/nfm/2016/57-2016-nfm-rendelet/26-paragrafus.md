@@ -12,4 +12,6 @@ b) a tevékenység végrehajtására kijelölt légtér méretét a lehető legk
 
 (4) A veszélyt jelentő tevékenységek tervezésénél az illetékes ATS egység, valamint a tevékenységet végrehajtó egység között összeköttetést kell biztosítani arra az esetre, ha kényszerhelyzet vagy más előre nem látható esemény miatt a tevékenység megszakítása válik szükségessé. Amennyiben lehetséges, ez az összeköttetés közvetlen összeköttetés legyen.
 
-(5) A légiközlekedési hatóságnak megfelelő intézkedéseket kell hoznia a légijármű üzemeltetésére hatással lévő, a nyilvános repülőterek közelében kereskedelmi, szórakoztató és egyéb célokra rendszeresen használt lézersugár elleni védelemről. A légijármű üzemeltetésére veszélyt jelentő lézersugárzókra, továbbá kritikus és érzékeny területeire az ICAO Annex 14 I. kötetében, valamint az ICAO Lézerkibocsától és Repülésbiztonság Kézikönyv (ICAO Manual on Laser Emitters and Flight Safety, ICAO Doc 9815) dokumentumában meghatározottakat kell alkalmazni.
+(5)[^5]
+
+[^5]: A 26. § (5) bekezdését az 55/2017. (XII. 27.) NFM rendelet 108. § d) pontja hatályon kívül helyezte.

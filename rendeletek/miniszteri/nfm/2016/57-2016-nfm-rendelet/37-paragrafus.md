@@ -22,6 +22,8 @@ f) az érintett légtérben folyó összes GAT és OAT repülések esetén az al
 
 fa) ha a GAT és OAT repülések irányítása egy szervezeten belül különálló munkahelyekről történik, az együttműködést részletes munkahelyi előírásban kell szabályozni, vagy
 
-fb) ha a GAT és OAT repülések irányítását nem egy szervezet végzi, a szervezetek között együttműködési megállapodást kell kötni, amelyet a légiközlekedési hatóság és a katonai légügyi hatóság hagy jóvá, és amelynek tartalmaznia kell az irányítási felelősség megosztására, az alkalmazható elkülönítési minimumokra, valamint a koordinálást igénylő esetekre és a koordinálás módjára vonatkozó szabályokat, és
+fb)[^8] ha a GAT és OAT repülések irányítását nem egy szervezet végzi, a szervezetek között együttműködési megállapodást kell kötni, amelynek tartalmaznia kell az irányítási felelősség megosztására, az alkalmazható elkülönítési minimumokra, valamint a koordinálást igénylő esetekre és a koordinálás módjára vonatkozó szabályokat, és
 
 g) az irányító egységnek kellő ismerettel kell rendelkeznie a másik egység által kezelt forgalom irányításának szabályairól, valamint légijárműveinek műszaki jellemzőiről.
+
+[^8]: A 37. § (2) bekezdés f) pont fb) alpontja az 55/2017. (XII. 27.) NFM rendelet 105. §-ával megállapított szöveg.

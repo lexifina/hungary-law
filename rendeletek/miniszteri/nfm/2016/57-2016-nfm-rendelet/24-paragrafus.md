@@ -4,7 +4,7 @@
 
 (2) A polgári légijárműre veszélyt jelentő tevékenységek egyeztetését a 16. alcímben meghatározottak szerint kell végezni.
 
-(3) Az illetékes katonai repülésirányító egységek és polgári ATS egységek között a légijárművek biztonságos és hatékony működéséhez szükséges kölcsönös tájékoztatások cseréjét külön megállapodásban kell meghatározni, amelyet a polgári légiközlekedési hatóság és a katonai légügyi hatóság hagynak jóvá.
+(3)[^4] Az illetékes katonai repülésirányító egységek és polgári ATS egységek között a légijárművek biztonságos és hatékony működéséhez szükséges kölcsönös tájékoztatások cseréjét külön megállapodásban kell meghatározni.
 
 (4) A légtérfelügyelet ellátásáért felelős katonai szolgálati egységnek a polgári ATS egység részére tájékoztatást kell adnia arról, ha a légtérfelügyelet ellátásáért felelős katonai szolgálati egység polgári légijárművet figyel meg, amely olyan körzetet közelít meg vagy körzetbe lép be, amelyben elfogás válhat szükségessé, annak érdekében, hogy a polgári légijármű azonosításával és navigációs tájékoztatással elkerülhető legyen az elfogás.
 
@@ -15,3 +15,5 @@
 (7) Az MCTR-ek és MTMA-k kivételével a GAT repülés számára a polgári ATS egység nyújt légiforgalmi szolgálatot. Az állami repülések céljára kijelölt légtéren kívül ellenőrzött légtérben végrehajtott OAT repülések útvonalrepülési szakasza számára, valamint a nem ellenőrzött légtérben végrehajtott OAT repülések számára légiforgalmi szolgáltatás nyújtására a légvédelmi készenléti repülés kivételével a polgári légiforgalmi szolgálat jogosult.
 
 (8) Ha egy adott légtér blokkon belül a GAT és OAT repüléseket különböző irányító egység vagy szektor kezeli, és a 37. § (2) bekezdésben meghatározott feltételek nem biztosítottak, akkor a légvédelmi készenléti repülés kivételével OAT repülés nem hajtható végre.
+
+[^4]: A 24. § (3) bekezdése az 55/2017. (XII. 27.) NFM rendelet 103. §-ával megállapított szöveg.
