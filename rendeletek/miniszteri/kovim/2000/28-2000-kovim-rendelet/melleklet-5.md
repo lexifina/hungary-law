@@ -1,4 +1,4 @@
-## 7K00013O_0
+## KIVONAT
 
 |  | K I V O N A T Extract Extrakt |  | ♦ HAJÓZÁSI ENGEDÉLY SZÁMA ♦ Licence's registration No. ♦ Registrations Nummer der Erlaubnis |
 
@@ -34,8 +34,6 @@
 
 | BUDAPEST FŐVÁROS KORMÁNYHIVATALA Government Office of the Capital City Budapest Das Regierungsamt der Hauptstadt Budapest |
 
-5. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^46]
+5. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^37]
 
-Értesítés jogosulatlan hajózási tevékenységről a rendőrség vízirendészeti szerve részéről
-
-[^46]: Az 5. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának d) pontja szerint módosított szöveg.
+[^37]: Az 5. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának d) pontja szerint módosított szöveg.

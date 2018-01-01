@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-28-20-9
 | 2014-03-15 | 2000-28-20-93.12 | 12/2014. (III. 14.) NFM rendelet |
 | 2017-01-01 | 2000-28-20-93.13 | 66/2016. (XII. 29.) NFM rendelet |
 | 2017-01-03 | 2000-28-20-93.14 | 1/2017. (I. 3.) NFM rendelet |
+| 2018-01-01 | 2000-28-20-93.15 | 55/2017. (XII. 27.) NFM rendelet |
