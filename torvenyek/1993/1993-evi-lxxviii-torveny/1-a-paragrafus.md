@@ -8,4 +8,4 @@
 
 (3) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez az engedélyt az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal nemzetközi szerződés vagy viszonosság fennállása alapján adja meg. A nemzetközi szerződésről, illetve a viszonosság fennállásáról a külpolitikáért felelős miniszter nyilatkozatát be kell szerezni.
 
-(4) A fővárosi és megyei kormányhivatal (2) és (3) bekezdés szerinti határozata ellen nincs helye fellebbezésnek.
+(4) Ingatlan tulajdonjogának külföldi jogi személy vagy külföldi természetes személy általi megszerzéséhez szükséges engedély iránti eljárásban az ügyfél nem jogosult az ügyei intézése során ügyintézési cselekményeit elektronikus úton végezni, nyilatkozatait elektronikus úton megtenni.

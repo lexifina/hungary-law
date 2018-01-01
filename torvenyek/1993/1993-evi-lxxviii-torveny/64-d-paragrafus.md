@@ -34,4 +34,6 @@ c) aki az ilyen tevékenységtől eltiltó jogerős bírói ítélet hatálya al
 
 (4) A nyilvántartásban szereplő személy köteles az (1) bekezdésben foglalt adatok megváltozásáról az eljáró hatóságot a változástól számított tíz napon belül tájékoztatni.
 
-(5)–(6)
+(5)
+
+(6)

@@ -10,4 +10,10 @@
 
 (6) Az (5) bekezdést kell megfelelően alkalmazni annak a lakás és helyiségbérleti szerződésnek a megkötésére, amely az (1) bekezdésben említett eljárásban hozott határozaton, illetőleg a (4) bekezdésben említett jognyilatkozaton alapul.
 
-(7)–(10)
+(7)
+
+(8)
+
+(9)
+
+(10)

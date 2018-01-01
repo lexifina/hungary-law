@@ -4,7 +4,9 @@
 
 ## A lakásbérlet létrejötte
 
-2. § (1)–(2)
+2. § (1)
+
+(2)
 
 (3) A lakásbérleti jog a lakásra és a lakáshoz tartozó helyiségekre terjed ki.
 

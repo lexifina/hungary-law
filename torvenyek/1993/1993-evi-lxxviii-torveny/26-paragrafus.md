@@ -18,6 +18,8 @@ f) lakbérét.
 
 (4) A bérbeadó nem köteles cserelakást felajánlani, ha a bérlőnek a bérelt lakással azonos településen — a fővárosban a főváros területén — megfelelő és beköltözhető lakása van.
 
-(5)–(6)
+(5)
+
+(6)
 
 (7) A szociális helyzet alapján bérbe adott önkormányzati lakás esetén az (1) bekezdés szerinti felmondásra csak az épület (a benne lévő lakás) átalakítása, korszerűsítése, lebontása vagy társbérlet megszüntetése céljából kerülhet sor.
