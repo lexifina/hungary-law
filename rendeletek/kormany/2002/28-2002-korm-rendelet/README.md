@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-28-20-2
 | 2011-01-01 | 2002-28-20-22.4 | 273/2010. (XII. 9.) Korm. rendelet |
 | 2013-08-01 | 2002-28-20-22.5 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2017-01-01 | 2002-28-20-22.6 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-01-01 | 2002-28-20-22.7 | 457/2017. (XII. 28.) Korm. rendelet |
