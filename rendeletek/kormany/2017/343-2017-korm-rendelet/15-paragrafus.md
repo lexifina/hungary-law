@@ -1,0 +1,1 @@
+## 14. § Hatályát veszti a bányafelügyelet hatáskörébe tartozó egyes sajátos építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 53/2012. (III. 28.) Korm. rendelet [a továbbiakban: 53/2012. (III. 28.) Korm. rendelet] 16. § (1) bekezdés d) pontja.
