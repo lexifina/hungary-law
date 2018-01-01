@@ -12,7 +12,7 @@ d) a repülőtér létesítési engedélyében kötelezően elő van írva.
 
 (2) A zajmonitor rendszer mért és számított adatai szerint a zajcsökkentő repülési eljárásokat megsértő légijárművek tulajdonosait a repülőtér üzemben tartójának figyelmeztetnie kell. A kiadott figyelmeztetésekről negyedévente tájékoztatni kell az illetékes légiközlekedési hatóságot is. A figyelmeztetés eredménytelensége, a zajcsökkentő előírások ismétlődő megsértése esetén a repülőtér üzemben tartója további intézkedéseket kezdeményezhet a légiközlekedési hatóságnál.
 
-(3) A zajmonitor rendszer terveit a monitorrendszer létesítését előíró (6) bekezdés szerinti határozat jogerőssé válását követő hat hónapon belül kell elkészíteni és jóváhagyásra benyújtani a légiközlekedési hatósághoz. A zajmonitor rendszer tervezésénél az alábbi szempontokat kell figyelembe venni:
+(3)[^48] A zajmonitor rendszer terveit a monitorrendszer létesítését előíró (6) bekezdés szerinti döntés véglegessé válását követő hat hónapon belül kell elkészíteni és jóváhagyásra benyújtani a légiközlekedési hatósághoz. A zajmonitor rendszer tervezésénél az alábbi szempontokat kell figyelembe venni:
 
 a) a monitorrendszer legyen alkalmas arra, hogy a zajgátló védőövezet jellemző pontjain – különösen zajra érzékeny objektumok környezetében – az egyedi zajterhelés alakulásáról, valamint az övezethatárokon a tényleges zajterhelésről megbízható eredményeket adjon;
 
@@ -33,3 +33,4 @@ b) meglevő repülőtéren, az e rendelet hatálybalépése miatt szükségessé
 [^45]: A 13. § előtti címet a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-a iktatta be.
 [^46]: A 13. § a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-ával megállapított szöveg.
 [^47]: A 13. § (1) bekezdés c) pontja a 17/2016. (VI. 10.) NFM rendelet 6. § r) pontja szerint módosított szöveg.
+[^48]: A 13. § (3) bekezdés nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 6. §-a szerint módosított szöveg.

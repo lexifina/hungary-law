@@ -1,4 +1,4 @@
-13/C. §[^53] (1) A zajvédelmi bizottság üléseit (a továbbiakban: ülés) az elnök szükség esetén, de legalább félévente összehívja. Az ülések helyszíneiről – a tagok javaslatai alapján – az elnök dönt. Az ülések napirendjét az elnök – a tagok javaslatainak figyelembevételével – állítja össze és legalább az ülést megelőző 10 nappal megküldi a tagok részére. Az ülésekről jegyzőkönyvet kell készíteni, amelyet az ülést követő 2 héten belül kell megküldeni a tagoknak.
+13/C. §[^54] (1) A zajvédelmi bizottság üléseit (a továbbiakban: ülés) az elnök szükség esetén, de legalább félévente összehívja. Az ülések helyszíneiről – a tagok javaslatai alapján – az elnök dönt. Az ülések napirendjét az elnök – a tagok javaslatainak figyelembevételével – állítja össze és legalább az ülést megelőző 10 nappal megküldi a tagok részére. Az ülésekről jegyzőkönyvet kell készíteni, amelyet az ülést követő 2 héten belül kell megküldeni a tagoknak.
 
 (2) Az ülések nem nyilvánosak, de a bizottság tagjának javaslatára, az elnök előzetes hozzájárulása alapján az ülésekre eseti jelleggel a delegáló szervezet más tagja, megbízott szakértője is meghívható. A meghívás céljáról a tagokat előzetesen értesíteni kell.
 
@@ -14,4 +14,4 @@
 
 (8) A zajvédelmi bizottság a működési szabályainak további részleteit az alakuló ülésén a jelen lévő tagok egyszerű szótöbbségével elfogadott ügyrendjében rögzíti.
 
-[^53]: A 13/C. §-t a 24/2014. (IV. 29.) NFM rendelet 2. §-a iktatta be.
+[^54]: A 13/C. §-t a 24/2014. (IV. 29.) NFM rendelet 2. §-a iktatta be.

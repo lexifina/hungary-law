@@ -26,7 +26,5 @@ b) legfeljebb 14 000 kg maximális felszálló tömegű légcsavarhajtású rep�
 
 c) legfeljebb 20 000 kg maximális felszálló tömegű légcsavarhajtású, illetve sugárhajtású repülőgépeket üzemeltetnek, és a mértékadó műveletszám kisebb vagy egyenlő, mint 360,
 
-csak az (1) bekezdés a) és d) pontjában meghatározott adatokat, valamint a repülőteret használó legnagyobb hangteljesítmény szintű, az 1. számú mellékletben meghatározott repülőgép-kategóriát kell megadni, továbbá nem kell végrehajtani a 4. § és a 6–8. § rendelkezéseit.
-
 [^6]: A 3. § eredeti szövegének számozását (1) bekezdésre változtatta a 36/2004. (III. 31.) GKM–KvVM e. r. 3. §-a.
 [^7]: A 3. § (2) bekezdését a 36/2004. (III. 31.) GKM–KvVM e. r. 3. §-a iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatva.

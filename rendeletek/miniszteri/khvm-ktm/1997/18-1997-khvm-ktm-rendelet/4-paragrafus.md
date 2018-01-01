@@ -1,3 +1,5 @@
+## csak az (1) bekezdés a) és d) pontjában meghatározott adatokat, valamint a repülőteret használó legnagyobb hangteljesítmény szintű, az 1. számú mellékletben meghatározott repülőgép-kategóriát kell megadni, továbbá nem kell végrehajtani a 4. § és a 6–8. § rendelkezéseit.
+
 ## A számítás során figyelembe vett
 
 ## pályagörbék adatai
