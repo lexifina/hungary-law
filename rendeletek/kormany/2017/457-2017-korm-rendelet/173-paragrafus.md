@@ -1,0 +1,1 @@
+## „(4) Ha a kérelem vagy a hozzá csatolt mellékletek a 2–5. mellékletben foglaltaknak nem felelnek meg, vagy a tényállás tisztázása során felmerült új adatra tekintettel az szükséges, a veszélyes katonai objektum felügyeleti hatóság a kérelmezőt legfeljebb két ízben hiánypótlásra hívhatja fel.”

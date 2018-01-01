@@ -1,0 +1,1 @@
+## „(5) A lőfegyver-kereskedő lőszer (lőszerelem) tárolóhelyének engedélyezésére irányuló eljárásban hozott döntéséről a hatóság tájékoztatja az illetékes megyei, fővárosi katasztrófavédelmi igazgatóságot.”

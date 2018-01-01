@@ -1,3 +1,7 @@
-## 165. §[^83]
+## „(2) A kérelem benyújtásakor igazolni kell
 
-[^83]: A 165. § a 617. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+## a) a háziorvos által megállapított havi rendszeres gyógyító ellátási szükségletet,
+
+## b) alanyi közgyógyellátás megállapítása iránti kérelem esetén az Szt. 50. § (1) bekezdés c)–h) pontjában foglaltak fennállását, és
+
+## c) normatív közgyógyellátás megállapítása iránti kérelem esetén a jövedelem-nyilatkozatban foglaltak megalapozottságát.”

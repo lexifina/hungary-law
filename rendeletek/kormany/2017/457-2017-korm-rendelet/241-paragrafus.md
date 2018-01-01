@@ -1,0 +1,3 @@
+## 240. § A szakképzettséggel rendelkező, pályakezdő álláskeresők munkatapasztalat-szerzésének és a létszámleépítések megelőzése érdekében a részmunkaidős foglalkoztatás támogatásáról szóló 70/2009. (IV. 2.) Korm. rendelet [a továbbiakban: 70/2009. (IV. 2.) Korm. rendelet] 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az e rendeletben szabályozott támogatásokkal kapcsolatos ügyekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni az Flt. 21. §-ában, VI/A. fejezetében, 54. §-ában és 55. §-ában, valamint a (3)–(8) bekezdésben foglaltak figyelembevételével azzal, hogy az ügyintézési határidő 25 nap.”

@@ -1,0 +1,1 @@
+## „4. A szakmai gyakorlati idő igazolása a szakmai gyakorlati időt nem szakértőjelöltként megszerző kérelmező esetében hatósági bizonyítvány arról, hogy a kérelmező tevékenységi köre mely időponttól milyen időtartamban terjed ki az igazolni kívánt szakirányú tevékenységre.”

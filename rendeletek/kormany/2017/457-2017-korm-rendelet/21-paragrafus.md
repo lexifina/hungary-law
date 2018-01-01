@@ -1,0 +1,1 @@
+## „(1) Az Akadémia titkársági szervezete pénzügyi főosztályának a jogalap nélkül felvett akadémiai hozzátartozói ellátások visszafizetésére és megtérítésére a társadalombiztosítási szabályok felelősségi szabályait kell megfelelően alkalmaznia.”

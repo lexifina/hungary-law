@@ -1,0 +1,1 @@
+## 34. § Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvényt módosító 1997. évi XXIX. törvény végrehajtásáról szóló 103/1997. (VI. 13.) Korm. rendelet [a továbbiakban: 103/1997. (VI. 13.) Korm. rendelet] 1. számú melléklete a 3. melléklet szerint módosul.
