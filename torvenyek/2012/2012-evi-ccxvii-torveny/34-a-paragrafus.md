@@ -1,3 +1,3 @@
-34/A. § (1) A hatóság a 30/B. § szerinti számlavezetési díj vonatkozásában jogerős határozatban megállapított teljesítési határidő eredménytelen lejártát követően, a meg nem fizetett számlavezetési díj 110%-ával megegyező mértékű bírságot szab ki. A bírság megfizetésével a számlavezetési díj megfizetettnek minősül.
+34/A. § (1) Ha a számlavezetési díj megfizetésére kötelezett a hatóság által kiállított számla alapján fizetési kötelezettségének nem tesz eleget, a hatóság az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerint a fizetési kötelezettség elmulasztását és a számlavezetési díj megfizetését megállapító határozatot hoz.
 
-(2) A bírságnak a meg nem fizetett számlavezetési díj fedezetéül szolgáló része a jegyzékkezelő bevételét képezi.
+(2) A végleges döntésben megállapított teljesítési határidő eredménytelen elteltét követően a hatóság a számlavezetési díj behajtása érdekében megkeresi az állami adó- és vámhatóságot, és a meg nem fizetett számlavezetési díj 10%-ával megegyező mértékű bírságot szab ki.

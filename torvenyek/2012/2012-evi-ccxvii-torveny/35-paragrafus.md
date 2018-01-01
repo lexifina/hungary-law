@@ -1,6 +1,6 @@
 ## 14. Felügyeleti díj
 
-35. § (1) Az üzemeltető a kibocsátási engedély jogerőre emelkedése, a légi jármű üzembentartó a nyomon követési terv jóváhagyásának közlése napjától – e törvény végrehajtására kiadott jogszabály szerint – éves felügyeleti díjat fizet a hatóság részére. A díjfizetést a tárgyévet követő év február 28-ig kell teljesíteni.
+35. § (1) Az üzemeltető a kibocsátási engedély véglegessé válásának, a légi jármű üzembentartó a nyomon követési terv jóváhagyásának közlése napjától – e törvény végrehajtására kiadott jogszabály szerint – éves felügyeleti díjat fizet a hatóság részére. A díjfizetést a tárgyévet követő év február 28-ig kell teljesíteni.
 
 (2) Az üzemeltető és a légi jármű üzembentartó által fizetendő felügyeleti díj mértéke az üzemeltető és a légi jármű üzembentartó részére kiosztott minden egyes ÜHG-egység után évi 5 forint.
 

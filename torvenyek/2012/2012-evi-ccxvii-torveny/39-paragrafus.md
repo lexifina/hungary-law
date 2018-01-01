@@ -12,7 +12,7 @@ d) az állam tulajdonában lévő ÜHG-egységekkel való rendelkezésre vonatko
 
 e) az állam tulajdonában lévő ÜHG-egységek értékesítésére vonatkozó részletes szabályokat,
 
-f)
+f) a klímavédelemért felelős hatóság felügyeleti jogköre és a hatósági ellenőrzés részletes szabályait, az e területen alkalmazható jogkövetkezményeket,
 
 g) a hatóság és a jegyzékkezelő kijelölését és az ÜHG-egységek nyilvántartásának szabályait,
 
@@ -44,8 +44,6 @@ t) a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó ré
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy
+(2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy a felügyeleti díj megfizetésének részletes szabályait rendeletben állapítsa meg.
 
-a) a fizetendő igazgatási szolgáltatási díj mértékét rendeletben állapítsa meg,
-
-b) az igazgatási szolgáltatási díj és a felügyeleti díj megfizetésének részletes szabályait rendeletben állapítsa meg.
+(3) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy a fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének részletes szabályait – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.

@@ -1,6 +1,6 @@
 33. § (1) Ha a légi jármű üzembentartó a nyomon követési terv jóváhagyásának megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a légiközlekedési kibocsátási egység visszaadására, valamint a hatóság vagy a miniszter felé a 22. § (1) bekezdésében foglalt változások bejelentésére irányuló kötelezettségének részben vagy egészben nem tesz eleget, a hatóság vagy – a miniszter felé fennálló változásbejelentési kötelezettség elmulasztása esetén – a miniszter e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
 
-(2) A bírságot a határozat jogerőre emelkedését követő 30 napon belül kell megfizetni. Amennyiben a határidő eredménytelenül telik el, úgy a hatóság a bírság behajtása érdekében soron kívül megkeresi az állami adóhatóságot. Ismételt kötelezettségszegés esetén a hatóság a (4) bekezdésben foglalt intézkedés megtételét kezdeményezi.
+(2) A bírságot a határozat véglegessé válását követő 30 napon belül kell megfizetni. Amennyiben a határidő eredménytelenül telik el, úgy a hatóság a bírság behajtása érdekében megkeresi az állami adóhatóságot. Ismételt kötelezettségszegés esetén a hatóság a (4) bekezdésben foglalt intézkedés megtételét kezdeményezi.
 
 (3) A bírság mértékének meghatározásakor figyelemmel kell lenni a kötelezettségszegés súlyára, az általa elérhető gazdasági előny nagyságára, valamint a légi jármű üzembentartónak térítésmentesen kiosztott kibocsátási egységek számára.
 
@@ -16,4 +16,4 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 
 (5) Amennyiben a légi jármű üzembentartó nem tesz eleget az e törvényben vagy az e törvény végrehajtására kiadott kormányrendeletben előírt követelményeknek, és az e törvényben meghatározott egyéb jogkövetkezmény alkalmazása sem vezet eredményre, a miniszter kérelemmel fordul az Európai Bizottsághoz, hogy az érintett légi jármű üzembentartóra vonatkozóan működési tilalmat állapítson meg. Ha az Európai Bizottság határozatot hoz az érintett légi jármű üzembentartóra vonatkozó működési tilalom bevezetéséről, a miniszter gondoskodik ennek végrehajtásáról, melynek során tájékoztatja az Európai Bizottságot a határozat végrehajtása céljából hozott bármely intézkedésről.
 
-(6) A 32. § és e § alapján jogerősen kiszabott bírság adók módjára behajtandó köztartozás.
+(6)

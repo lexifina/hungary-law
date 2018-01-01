@@ -1,6 +1,6 @@
 ## 6. A kibocsátási egységek kiosztása
 
-15. § (1) A kibocsátási egységek kiosztását a harmadik kereskedési időszakban a 2011/278/EU bizottsági határozat VI. mellékletében meghatározott referenciaértékek és kisegítő szabályok alapján kell elvégezni.
+15. § (1) A kibocsátási egységek kiosztását a harmadik kereskedési időszakban a 2011/278/EU bizottsági határozat VI. mellékletében meghatározott szorzótényezők és kisegítő szabályok alapján kell elvégezni.
 
 (2) A térítésmentesen kiosztható mennyiség az (1) bekezdésben foglaltak alapján kiszámított egységmennyiség 100%-a azon létesítmények számára, amelyek a szén-dioxid-kibocsátásáthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok listáját meghatározó, az Európai Unió kötelező jogi aktusában felsorolt ágazatokba tartoznak.
 
