@@ -1,0 +1,1 @@
+8/I. § E törvénynek a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény módosításáról szóló 2017. évi CLIV. törvénnyel megállapított 5/A. § (6) bekezdését első alkalommal a 2019. évben kell alkalmazni.

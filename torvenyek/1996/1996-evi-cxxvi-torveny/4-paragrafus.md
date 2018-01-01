@@ -34,7 +34,7 @@ g) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. melléklet
 
 h) a Nemzeti Együttműködési Alap.
 
-i) a Magyar Művészeti Akadémia.
+i)
 
 (2)
 
@@ -54,4 +54,4 @@ i) a Magyar Művészeti Akadémia.
 
 (8) Az adóhatóság minden év január 1-jén a honlapján teszi közzé az adott rendelkező évben felajánlásra jogosult kedvezményezettek adószámát, nevét, székhelyét. A közzétett listát az adóhatóság a (7) bekezdés szerinti bejelentések alapján folyamatosan frissíti. Az adóhatóság biztosítja a közzétett listát tartalmazó adatbázis elérhetőségét a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter részére a Civil Információs Portálon történő közzététel, adatfeldolgozás és rendszerezés céljából.
 
-(9) Köztartozás fennállása esetén az adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezései alapján intézkedik a kedvezményezett javára felajánlott adóösszegnek az általa nyilvántartott köztartozásra történő átvezetéséről. A kedvezményezett részére a köztartozások kiegyenlítését követően fennmaradó összeg utalható.
+(9) Köztartozás fennállása esetén az adóhatóság az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései alapján intézkedik a kedvezményezett javára felajánlott adóösszegnek az általa nyilvántartott köztartozásra történő átvezetéséről. A kedvezményezett részére a köztartozások kiegyenlítését követően fennmaradó összeg utalható.

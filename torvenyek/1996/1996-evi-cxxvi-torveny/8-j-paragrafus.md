@@ -1,0 +1,1 @@
+8/J. § E törvénynek a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény módosításáról szóló 2017. évi CLIV. törvénnyel megállapított 6/A. § (5) bekezdése szerinti elektronikus adatszolgáltatást az állami adóhatóság első alkalommal 2018. szeptember 1-jét követően teljesíti.

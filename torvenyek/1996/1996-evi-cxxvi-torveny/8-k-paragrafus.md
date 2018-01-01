@@ -1,0 +1,1 @@
+8/K. § E törvénynek a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény módosításáról szóló 2017. évi CLIV. törvénnyel megállapított 6/A. § (5a) bekezdését első alkalommal a 2018. rendelkező évi nyilatkozatoknál kell alkalmazni.
