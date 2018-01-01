@@ -1,4 +1,4 @@
-## 19/A. §[^45] Az 5. § (1) bekezdés g) pontjában meghatározott műszaki engedéllyel rendelkező szervezetek esetén a 10. § (1) bekezdés c) pontját nem kell alkalmazni.
+## 19/A. §[^52] Az 5. § (1) bekezdés g) pontjában meghatározott műszaki engedéllyel rendelkező szervezetek esetén a 10. § (1) bekezdés c) pontját nem kell alkalmazni.
 
 20. § (1) A keskeny nyomtávú (kisvasúti) vasúti pályahálózaton és múzeumvasúti pályahálózaton közlekedő vasúti járműveket javító és időszakos vizsgálatát végző műhelyekre nem kell alkalmazni:
 
@@ -22,9 +22,9 @@ g) a 18. § (1) bekezdés a) pontját.
 
 (4) Az e §-ban szabályozott tevékenység során a 13. § (2) bekezdés a) pontját és (3) bekezdését nem kell alkalmazni.
 
-(5)[^46] A 17. § (2) bekezdés a) pontjában foglaltaktól eltérően a műhelynek az adatok rögzítéséhez és továbbításához zárt láncú informatikai hálózattal nem kell rendelkeznie.
+(5)[^53] A 17. § (2) bekezdés a) pontjában foglaltaktól eltérően a műhelynek az adatok rögzítéséhez és továbbításához zárt láncú informatikai hálózattal nem kell rendelkeznie.
 
 (6) A 17. § (2) bekezdése szerinti kérelemhez csatolni kell a 13. § (1) bekezdésében meghatározott létesítmények, berendezések, eszközök meglétét igazoló nyilatkozatot is.
 
-[^45]: A 19/A. §-t az 54/2017. (XII. 27.) NFM rendelet 16. §-a iktatta be.
-[^46]: A 20. § (5) bekezdése az 54/2017. (XII. 27.) NFM rendelet 21. § c) pontja szerint módosított szöveg.
+[^52]: A 19/A. §-t az 54/2017. (XII. 27.) NFM rendelet 16. §-a iktatta be.
+[^53]: A 20. § (5) bekezdése az 54/2017. (XII. 27.) NFM rendelet 21. § c) pontja szerint módosított szöveg.

@@ -332,7 +332,7 @@
 
 ## – különleges kocsik követelményei: …X
 
-4. melléklet a 24/2016. (VII. 18.) NFM rendelethez[^53]
+4. melléklet a 24/2016. (VII. 18.) NFM rendelethez[^60]
 
 Vasúti járművek, fő- és részegységek karbantartását végző műhelyek műszaki engedélyezéséhez ajánlott feltételek
 
@@ -404,4 +404,4 @@ Vasúti járművek, fő- és részegységek karbantartását végző műhelyek m
 
 * A 4. mellékletben a „technológiában megkövetelt mérések vizsgálatok elvégzéséhez szükséges pontosságú, hitelesített eszköz” alatt a mérésügyről szóló 1991. évi XLV. törvénynek megfelelő hiteles, vagy használati etalonnal ellenőrzött (kalibrált) mérőeszközt kell érteni.
 
-[^53]: A 4. melléklet az 54/2017. (XII. 27.) NFM rendelet 20. §-ával megállapított szöveg.
+[^60]: A 4. melléklet az 54/2017. (XII. 27.) NFM rendelet 20. §-ával megállapított szöveg.

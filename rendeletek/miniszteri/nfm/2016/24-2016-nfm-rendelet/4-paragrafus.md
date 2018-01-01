@@ -74,11 +74,10 @@ k) a rendelkezést arra vonatkozóan, hogy a garanciaszerződés e rendelet elő
 
 (3) A nem EGT-államban honos vállalkozás esetén a (2) bekezdésben meghatározott dokumentumokat magyar nyelven, vagy az eredeti dokumentumot és annak hiteles fordítását kell csatolni a kérelemhez.
 
-(4) A Magyarországon bejegyzett gazdasági társaság cégkivonatát a közlekedési hatóság elektronikus úton szerzi be.
-
-(5) Magyarországi egyéni vállalkozó kérelmező esetén, az egyéni vállalkozói nyilvántartásban történő nyilvántartásba vétele igazolását a közlekedési hatóság hivatalból szerzi be.
+(4)–(5)[^9]
 
 [^5]: A 4. § (2) bekezdés c) pontja az 54/2017. (XII. 27.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^6]: A 4. § (2a) bekezdését az 54/2017. (XII. 27.) NFM rendelet 7. § (2) bekezdése iktatta be.
 [^7]: A 4. § (2b) bekezdését az 54/2017. (XII. 27.) NFM rendelet 7. § (2) bekezdése iktatta be.
 [^8]: A 4. § (2c) bekezdését az 54/2017. (XII. 27.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^9]: A 4. § (4)–(5) bekezdését az 55/2017. (XII. 27.) NFM rendelet 94. § a) pontja hatályon kívül helyezte.
