@@ -6,7 +6,7 @@
 
 ## Alapelvek
 
-1. § (1) Magyarországon a jövedelem- és vagyonszerzésre irányuló, vagy azt eredményező gazdasági tevékenység (a továbbiakban: vállalkozási tevékenység) alapján e törvényben meghatározott társasági adó kötelezettségnek – a közkiadásokhoz való hozzájárulás alkotmányos előírására tekintettel – e törvény rendelkezései szerint kell eleget tenni, figyelemmel az adózás rendjéről szóló törvényben foglaltakra is.
+1. § (1) Magyarországon a jövedelem- és vagyonszerzésre irányuló, vagy azt eredményező gazdasági tevékenység (a továbbiakban: vállalkozási tevékenység) alapján e törvényben meghatározott társasági adó kötelezettségnek – a közkiadásokhoz való hozzájárulás alkotmányos előírására tekintettel – e törvény rendelkezései szerint kell eleget tenni, figyelemmel az adóigazgatási rendtartásról szóló törvényben és az adózás rendjéről szóló törvényben foglaltakra is.
 
 (2) Az adókötelezettséget, az adót befolyásoló, annak csökkenését eredményező szabály, adóelőny (adómentesség, adókedvezmény) annyiban alkalmazható, illetőleg érvényesíthető, amennyiben az annak alapjául szolgáló jogügylet, más hasonló cselekmény tartalma megvalósítja a szabály, az adóelőny célját. Az alkalmazhatóságot, illetőleg az érvényesíthetőséget annak kell bizonyítania, akinek az érdekében áll. Ha a jogügylet tartalma alapján az állapítható meg, hogy annak fő célja adóelőny az egyik fél vagy a felek számára, akkor a jogügylet alapján elszámolt költség, ráfordítás, nem minősül a vállalkozás érdekében felmerült költségnek, ráfordításnak, illetve adóelőny nem érvényesíthető.
 

@@ -54,7 +54,7 @@ b) az adóalany nem igazolja, hogy az a) pont szerint nyilatkozat kiadását a r
 
 c) a reklámadó alanya a reklám-közzététel megrendelésének időpontjában nem szerepelt az állami adóhatóság honlapján az Rtv. 7/A. § szerint közzétett nyilvántartásban.
 
-17. a 22/D. §-ban meghatározott támogatás adóévi adózás előtti eredmény terhére elszámolt összegének 75 százaléka.
+17.
 
 B)
 
@@ -80,9 +80,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 8. a biztosítás díja, ha a biztosított az adózóval munkaviszonyban vagy önkéntes jogviszonyban álló magánszemély, az adózó vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, vagy az adózónál jogszabályban meghatározott tanulószerződés alapján gyakorlati képzésben résztvevő szakképző iskolai tanuló;
 
-9. a 22/D. §-ban meghatározott támogatás adóévi adózás előtti eredmény terhére elszámolt összegének 25 százaléka;
-
-10. a privatizációs lízingszerződés alapján a lízingbe vett társaságnál szervezési-vezetési szolgáltatás címen ráfordításként elszámolt összeg;
+9.
 
 11. a tulajdonostárs által a társasházi közös tulajdonnal, a lakásszövetkezeti tulajdonnal kapcsolatos karbantartási és egyéb közös kiadásra (üzemeltetésre) elszámolt, tulajdoni hányaddal arányos költség; továbbá a lakásszövetkezetnél a cégbejegyzés előtt vállalt kötelezettség miatt felmerült költség, ráfordítás, feltéve, hogy az alapul szolgáló szerződést a közgyűlés utólag jóváhagyta;
 

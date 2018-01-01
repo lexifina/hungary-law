@@ -108,4 +108,4 @@ b) az elszámolt, évesített bérköltség kisvállalkozásnál legalább az ad
 
 (20)
 
-(21) Az adópolitikáért felelős miniszter a kormányrendeletben meghatározott módon közzéteszi a fejlesztési adókedvezményben részesült adózó kormányrendeletben meghatározott adatait.
+(21)

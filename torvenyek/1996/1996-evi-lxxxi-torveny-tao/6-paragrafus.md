@@ -14,7 +14,7 @@
 
 (5) Ha az adózó (2) bekezdés szerinti adózás előtti eredménye vagy az (1) bekezdés szerinti adóalapja közül a nagyobb érték nem éri el a jövedelem-(nyereség-)minimumot, akkor választása szerint
 
-a) adóbevallásában az adózás rendjéről szóló törvény 91/A. § (1) bekezdése szerinti nyilatkozatot tesz, vagy
+a) adóbevallásában a (11) bekezdés szerinti nyilatkozatot tesz, vagy
 
 b) a (6)–(10) bekezdésben foglaltak alkalmazásával – nemzetközi szerződés rendelkezéseit figyelembe véve – a külföldi telephely útján végzett tevékenység révén keletkezett, telephelynek betudható jövedelem-(nyereség-)minimum nélküli jövedelem-(nyereség-)minimumot tekinti adóalapnak.
 
@@ -49,3 +49,5 @@ b) az átvevő társaság – az átruházó nyilatkozata alapján – az átruh
 c) a magánszemély taggal szemben fennálló kötelezettség napi átlagos állományának (ide nem értve az áruszállításból és a szolgáltatásból származó kötelezettséget, továbbá a megállapított, de ki nem fizetett osztalék kötelezettségként kimutatott összegét) az adóévet megelőző adóév utolsó napján a magánszemély taggal szemben fennálló kötelezettségét (ide nem értve az áruszállításból és a szolgáltatásból származó kötelezettséget, továbbá a megállapított, de ki nem fizetett osztalék kötelezettségként kimutatott összegét) meghaladó összegének az ötven százaléka.
 
 (10) A (6) bekezdés alkalmazásában elemi kár az elemi csapás (így különösen a jégeső, az árvíz, a belvíz, a fagy, a homokverés, az aszály, a hó-, jég- és széltörés, a vihar, a földrengés, valamint természeti vagy biológiai eredetű tűz) okozta kár. Az elemi csapás igazolására a kár tényét tartalmazó okmány (pl. a biztosító, a mezőgazdasági igazgatási szerv, a katasztrófavédelem végrehajtását végző szerv által kiállított szakvélemény, jegyzőkönyv, más okmány), vagy – ha az adózó nem rendelkezik független szervezet által kiállított okmánnyal – az adózó által kiállított jegyzőkönyv szolgál. Az adózó az általa kiállított, a kár tényét és mértékét tartalmazó jegyzőkönyvet a kár keletkezését követő 15 napon belül megküldi az illetékes állami adóhatóság részére. A határidő elmulasztása esetén igazolási kérelem nem terjeszthető elő.
+
+(11) Ha az adózó bevallásában nyilatkozik arról, hogy nem választja adóalapként az (5) bekezdés b) pontja szerinti jövedelem-(nyereség-)minimumot, köteles az adóbevallásához mellékelni az állami adó- és vámhatóság által rendszeresített bevallást kiegészítő nyomtatványt. A nyomtatvány a jogkövetkezmények szempontjából bevallásnak minősül.

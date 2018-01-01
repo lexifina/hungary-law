@@ -1,6 +1,6 @@
 ## Növekedési adóhitel
 
-26/A. § (1) A 26. §-ban és az adózás rendjéről szóló törvény 1. számú és 2. számú mellékletében foglaltaktól függetlenül, ha az adózó
+26/A. § (1) A 26. §-ban és az adózás rendjéről szóló törvényben foglaltaktól függetlenül, ha az adózó
 
 a) társasági adóalanyisága az adóévet megelőző harmadik adóévben vagy korábban kezdődött, és
 
