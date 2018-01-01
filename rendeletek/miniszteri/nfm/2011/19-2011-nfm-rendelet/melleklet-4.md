@@ -444,7 +444,7 @@
 
 ## d) Forgalmi csoportvezető.
 
-4. melléklet a 19/2011. (V. 10.) NFM rendelethez[^143]
+4. melléklet a 19/2011. (V. 10.) NFM rendelethez[^144]
 
 ## Az alapképzés végzésére irányuló szándék bejelentésének tartalma
 
@@ -456,4 +456,4 @@
 
 4. A 4. §-ban előírt nyilatkozatok
 
-[^143]: A 4. melléklet a 33/2016. (VIII. 2.) NFM rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^144]: A 4. melléklet a 33/2016. (VIII. 2.) NFM rendelet 31. § (3) bekezdésével megállapított szöveg.

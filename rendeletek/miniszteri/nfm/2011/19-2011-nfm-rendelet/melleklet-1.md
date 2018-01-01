@@ -1,4 +1,4 @@
-1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^140]
+1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^141]
 
 ## A rendelet alkalmazásakor figyelembe veendő munkakörök, feladatkörök és munkaköri csoportok
 
@@ -850,4 +850,4 @@ III.
 
 IV. Valamennyi pályahálózat
 
-[^140]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni. Az 1. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (1) bekezdése, az 5/2013. (II. 12.) NFM rendelet 23. § (1) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés a) pontja és 40. § d) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (1) bekezdése és 33. § d) pontja, a 46/2016. (XI. 17.) NFM rendelet 5. §-a, a 20/2017. (VI. 22.) NFM rendelet 14. § (1) bekezdése, 16. § a) pontja szerint módosított szöveg.
+[^141]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni. Az 1. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (1) bekezdése, az 5/2013. (II. 12.) NFM rendelet 23. § (1) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés a) pontja és 40. § d) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (1) bekezdése és 33. § d) pontja, a 46/2016. (XI. 17.) NFM rendelet 5. §-a, a 20/2017. (VI. 22.) NFM rendelet 14. § (1) bekezdése, 16. § a) pontja szerint módosított szöveg.
